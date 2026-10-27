@@ -1,0 +1,836 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629449:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-107794647",
+ "dre_path": "/dr/detalhe/lei/63-2007-629449",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107802525",
+    "107802526",
+    "107802527",
+    "107802528",
+    "107802529",
+    "107802530",
+    "107802531",
+    "107802532",
+    "107802533",
+    "107802534",
+    "107802535",
+    "107802536",
+    "107802537",
+    "107802538",
+    "107802539",
+    "107802540",
+    "107802541",
+    "107802542",
+    "107802543",
+    "107802544",
+    "107802545",
+    "107802546",
+    "107802547",
+    "107802548",
+    "107802549",
+    "107802550",
+    "107802551",
+    "107802552",
+    "107802553",
+    "107802554",
+    "107802555",
+    "107802556",
+    "107802557",
+    "107802558",
+    "107802559",
+    "107802560",
+    "107802561",
+    "107802562",
+    "107802563",
+    "107802564",
+    "107802565",
+    "107802566",
+    "107802567",
+    "107802568",
+    "107802569",
+    "107802570",
+    "107802571",
+    "107802572",
+    "107802573",
+    "107802574",
+    "107802975",
+    "107802976",
+    "107802977",
+    "107802978",
+    "107802979",
+    "107802980",
+    "107802981",
+    "107802982",
+    "107802983",
+    "107802984",
+    "107802985",
+    "107802986",
+    "107802987",
+    "107802988",
+    "107802989",
+    "107802990",
+    "107802991",
+    "107802992",
+    "107802993",
+    "107802994",
+    "107802995",
+    "107802996",
+    "107802997",
+    "107802998"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:462823:por",
+     "title": "Declaração de Rectificação n.º 1-A/2008",
+     "published": "2008-01-04",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1-a-2008-462823",
+     "date": "2007-12-06"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221100276:por",
+     "title": "Lei n.º 53/2023",
+     "published": "2023-08-31",
+     "dre_path": "/dr/detalhe/lei/53-2023-221100276"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107802525",
+    "107802526",
+    "107802527",
+    "107802528",
+    "107802529",
+    "221053342",
+    "107802531",
+    "107802532",
+    "107802533",
+    "107802534",
+    "107802535",
+    "107802536",
+    "107802537",
+    "107802538",
+    "107802539",
+    "107802540",
+    "107802541",
+    "107802542",
+    "107802543",
+    "107802544",
+    "107802545",
+    "107802546",
+    "107802547",
+    "107802548",
+    "107802549",
+    "107802550",
+    "107802551",
+    "107802552",
+    "174336190",
+    "107802554",
+    "107802555",
+    "107802556",
+    "107802557",
+    "107802558",
+    "107802559",
+    "107802560",
+    "107802561",
+    "107802562",
+    "107802563",
+    "107802564",
+    "107802565",
+    "107802566",
+    "107802567",
+    "107802568",
+    "107802569",
+    "107802570",
+    "107802571",
+    "107802572",
+    "107802573",
+    "107802574",
+    "107802975",
+    "107802976",
+    "107802977",
+    "107802978",
+    "174336191",
+    "107802980",
+    "107803002",
+    "107802982",
+    "107802983",
+    "107802984",
+    "107802985",
+    "107802986",
+    "107802987",
+    "107802988",
+    "107802989",
+    "107802990",
+    "107802991",
+    "107802992",
+    "107802993",
+    "107802994",
+    "107802995",
+    "107802996",
+    "107802997",
+    "107802998",
+    "107802999"
+   ]
+  }
+ ],
+ "fragments": {
+  "107802525": {
+   "fragment_id": "107794648",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 63/2007\n\nde 6 de Novembro\n\nAprova a orgânica da Guarda Nacional Republicana\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "107802526": {
+   "fragment_id": "107794649",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "107802527": {
+   "fragment_id": "107794650",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, atribuições e símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, atribuições e símbolos"
+  },
+  "107802528": {
+   "fragment_id": "107794651",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\n1 - A Guarda Nacional Republicana, adiante designada por Guarda, é uma força de segurança de natureza militar, constituída por militares organizados num corpo especial de tropas e dotada de autonomia administrativa.\n\n2 - A Guarda tem por missão, no âmbito dos sistemas nacionais de segurança e protecção, assegurar a legalidade democrática, garantir a segurança interna e os direitos dos cidadãos, bem como colaborar na execução da política de defesa nacional, nos termos da Constituição e da lei."
+  },
+  "107802529": {
+   "fragment_id": "107794652",
+   "type": 11,
+   "heading": "Artigo 2.º — Dependência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Dependência\n\n1 - A Guarda depende do membro do Governo responsável pela área da administração interna.\n\n2 - As forças da Guarda são colocadas na dependência operacional do Chefe do Estado-Maior-General das Forças Armadas, através do seu comandante-geral, nos casos e termos previstos nas Leis de Defesa Nacional e das Forças Armadas e do regime do estado de sítio e do estado de emergência, dependendo, nesta medida, do membro do Governo responsável pela área da defesa nacional no que respeita à uniformização, normalização da doutrina militar, do armamento e do equipamento."
+  },
+  "107802530": {
+   "fragment_id": "107794653",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Constituem atribuições da Guarda:\n\na) Garantir as condições de segurança que permitam o exercício dos direitos e liberdades e o respeito pelas garantias dos cidadãos, bem como o pleno funcionamento das instituições democráticas, no respeito pela legalidade e pelos princípios do Estado de direito;\n\nb) Garantir a ordem e a tranquilidade públicas e a segurança e a protecção das pessoas e dos bens;\n\nc) Prevenir a criminalidade em geral, em coordenação com as demais forças e serviços de segurança;\n\nd) Prevenir a prática dos demais actos contrários à lei e aos regulamentos;\n\ne) Desenvolver as acções de investigação criminal e contra-ordenacional que lhe sejam atribuídas por lei, delegadas pelas autoridades judiciárias ou solicitadas pelas autoridades administrativas;\n\nf) Velar pelo cumprimento das leis e regulamentos relativos à viação terrestre e aos transportes rodoviários, e promover e garantir a segurança rodoviária, designadamente, através da fiscalização, do ordenamento e da disciplina do trânsito;\n\ng) Garantir a execução dos actos administrativos emanados da autoridade competente que visem impedir o incumprimento da lei ou a sua violação continuada;\n\nh) Participar no controlo da entrada e saída de pessoas e bens no território nacional;\n\ni) Proteger, socorrer e auxiliar os cidadãos e defender e preservar os bens que se encontrem em situações de perigo, por causas provenientes da acção humana ou da natureza;\n\nj) Manter a vigilância e a protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nl) Garantir a segurança nos espectáculos, incluindo os desportivos, e noutras actividades de recreação e lazer, nos termos da lei;\n\nm) Prevenir e detectar situações de tráfico e consumo de estupefacientes ou outras substâncias proibidas, através da vigilância e do patrulhamento das zonas referenciadas como locais de tráfico ou de consumo;\n\nn) Participar na fiscalização do uso e transporte de armas, munições e substâncias explosivas e equiparadas que não pertençam às demais forças e serviços de segurança ou às Forças Armadas, sem prejuízo das competências atribuídas a outras entidades;\n\no) Participar, nos termos da lei e dos compromissos decorrentes de acordos, designadamente em operações internacionais de gestão civil de crises, de paz e humanitárias, no âmbito policial e de protecção civil, bem como em missões de cooperação policial internacional e no âmbito da União Europeia e na representação do País em organismos e instituições internacionais;\n\np) Contribuir para a formação e informação em matéria de segurança dos cidadãos;\n\nq) Prosseguir as demais atribuições que lhe forem cometidas por lei.\n\n2 - Constituem, ainda, atribuições da Guarda:\n\na) Assegurar o cumprimento das disposições legais e regulamentares referentes à protecção e conservação da natureza e do ambiente, bem como prevenir e investigar os respectivos ilícitos;\n\nb) Garantir a fiscalização, o ordenamento e a disciplina do trânsito em todas as infra-estruturas constitutivas dos eixos da Rede Nacional Fundamental e da Rede Nacional Complementar, em toda a sua extensão, fora das áreas metropolitanas de Lisboa e Porto;\n\nc) Assegurar, no âmbito da sua missão própria, a vigilância, patrulhamento e intercepção terrestre e marítima, em toda a costa e mar territorial do continente e das Regiões Autónomas;\n\nd) Prevenir e investigar as infracções tributárias, fiscais e aduaneiras, bem como fiscalizar e controlar a circulação de mercadorias sujeitas à acção tributária, fiscal ou aduaneira;\n\ne) Controlar e fiscalizar as embarcações, seus passageiros e carga, para os efeitos previstos na alínea anterior e, supletivamente, para o cumprimento de outras obrigações legais;\n\nf) Participar na fiscalização das actividades de captura, desembarque, cultura e comercialização das espécies marinhas, em articulação com a Autoridade Marítima Nacional e no âmbito da legislação aplicável ao exercício da pesca marítima e cultura das espécies marinhas;\n\ng) Executar acções de prevenção e de intervenção de primeira linha, em todo o território nacional, em situação de emergência de protecção e socorro, designadamente nas ocorrências de incêndios florestais ou de matérias perigosas, catástrofes e acidentes graves;\n\nh) Colaborar na prestação das honras de Estado;\n\ni) Cumprir, no âmbito da execução da política de defesa nacional e em cooperação com as Forças Armadas, as missões militares que lhe forem cometidas;\n\nj) Assegurar o ponto de contacto nacional para intercâmbio internacional de informações relativas aos fenómenos de criminalidade automóvel com repercussões transfronteiriças, sem prejuízo das competências atribuídas a outros órgãos de polícia criminal.\n\n> Nota: [Artigo 6.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html)."
+  },
+  "107802531": {
+   "fragment_id": "107794654",
+   "type": 11,
+   "heading": "Artigo 4.º — Conflitos de natureza privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conflitos de natureza privada\n\nA Guarda não pode dirimir conflitos de natureza privada, devendo, nesses casos, limitar a sua acção à manutenção da ordem pública."
+  },
+  "107802532": {
+   "fragment_id": "107794655",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito territorial\n\n1 - As atribuições da Guarda são prosseguidas em todo o território nacional e no mar territorial.\n\n2 - No caso de atribuições cometidas simultaneamente à Polícia de Segurança Pública, a área de responsabilidade da Guarda é definida por portaria do ministro da tutela.\n\n3 - Fora da área de responsabilidade definida nos termos do número anterior, a intervenção da Guarda depende:\n\na) Do pedido de outra força de segurança;\n\nb) De ordem especial;\n\nc) De imposição legal.\n\n4 - A atribuição prevista na alínea d) do n.º 2 do artigo 3.º pode ser prosseguida na zona contígua.\n\n5 - A Guarda pode prosseguir a sua missão fora do território nacional, desde que legalmente mandatada para esse efeito."
+  },
+  "107802533": {
+   "fragment_id": "107794656",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres de colaboração\n\n1 - A Guarda, sem prejuízo das prioridades legais da sua actuação, coopera com as demais forças e serviços de segurança, bem como com as autoridades públicas, designadamente com os órgãos autárquicos e outros organismos, nos termos da lei.\n\n2 - As autoridades da administração central, regional e local, os serviços públicos e demais entidades públicas e privadas devem prestar à Guarda a colaboração que legitimamente lhes for solicitada para o exercício das suas funções.\n\n3 - As autoridades administrativas devem comunicar à Guarda, quando solicitado, o teor das decisões sobre as infracções que esta lhes tenha participado."
+  },
+  "107802534": {
+   "fragment_id": "107794657",
+   "type": 11,
+   "heading": "Artigo 7.º — Estandarte nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estandarte nacional\n\nA Guarda e as suas unidades, incluindo as unidades constituídas para actuar fora do território nacional e o estabelecimento de ensino, têm direito ao uso do estandarte nacional."
+  },
+  "107802535": {
+   "fragment_id": "107794658",
+   "type": 11,
+   "heading": "Artigo 8.º — Símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Símbolos\n\n1 - A Guarda tem direito a brasão de armas, bandeira heráldica, hino, marcha, selo branco e condecoração privativa.\n\n2 - As unidades da Guarda têm direito a brasão de armas, selo branco e bandeiras heráldicas, que, nas suas subunidades, tomarão as formas de guião de mérito.\n\n3 - O comandante-geral tem direito ao uso de galhardete.\n\n4 - Os símbolos e a condecoração previstos nos números anteriores, bem como o regulamento de atribuição desta, são aprovados por portaria do ministro da tutela."
+  },
+  "107802536": {
+   "fragment_id": "107794659",
+   "type": 11,
+   "heading": "Artigo 9.º — Datas comemorativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Datas comemorativas\n\n1 - O Dia da Guarda é comemorado a 3 de Maio, em evocação da lei que criou a actual instituição nacional, em 1911.\n\n2 - As unidades da Guarda têm direito a um dia festivo para a consagração da respectiva memória histórica, definido por despacho do comandante-geral."
+  },
+  "107802537": {
+   "fragment_id": "107794660",
+   "type": 1,
+   "heading": "Capítulo II — Autoridades e órgãos de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Autoridades e órgãos de polícia"
+  },
+  "107802538": {
+   "fragment_id": "107794661",
+   "type": 11,
+   "heading": "Artigo 10.º — Comandantes e agentes de força pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comandantes e agentes de força pública\n\n1 - Os militares da Guarda no exercício do comando de forças têm a categoria de comandantes de força pública.\n\n2 - Considera-se força pública, para efeitos do número anterior, o efectivo mínimo de dois militares em missão de serviço.\n\n3 - Os militares da Guarda são considerados agentes da força pública e de autoridade quando lhes não deva ser atribuída qualidade superior."
+  },
+  "107802539": {
+   "fragment_id": "107794662",
+   "type": 11,
+   "heading": "Artigo 11.º — Autoridades de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autoridades de polícia\n\n1 - São consideradas autoridades de polícia:\n\na) O comandante-geral;\n\nb) O 2.º comandante-geral;\n\nc) O comandante do Comando Operacional da Guarda;\n\nd) Os comandantes de unidade e subunidades de comando de oficial;\n\ne) Outros oficiais da Guarda, quando no exercício de funções de comando ou chefia operacional.\n\n2 - Compete às autoridades de polícia referidas no número anterior determinar a aplicação das medidas de polícia previstas na lei."
+  },
+  "107802540": {
+   "fragment_id": "107794663",
+   "type": 11,
+   "heading": "Artigo 12.º — Autoridades e órgãos de polícia criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autoridades e órgãos de polícia criminal\n\n1 - Para efeitos do Código de Processo Penal, consideram-se:\n\na) «Autoridades de polícia criminal» as entidades referidas no n.º 1 do artigo anterior;\n\nb) «Órgãos de polícia criminal» os militares da Guarda incumbidos de realizar quaisquer actos ordenados por autoridade judiciária ou determinados por aquele Código.\n\n2 - Enquanto órgãos de polícia criminal e sem prejuízo da organização hierárquica da Guarda, os militares da Guarda actuam sob a direcção e na dependência funcional da autoridade judiciária competente.\n\n3 - Os actos determinados pelas autoridades judiciárias são realizados pelos serviços e militares para esse efeito designados pela respectiva cadeia de comando, no âmbito da sua autonomia técnica e táctica."
+  },
+  "107802541": {
+   "fragment_id": "107794664",
+   "type": 11,
+   "heading": "Artigo 13.º — Autoridade de polícia tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autoridade de polícia tributária\n\n1 - Para efeitos do regime jurídico aplicável às infracções tributárias, são consideradas autoridades de polícia tributária:\n\na) Todos os oficiais no exercício de funções de comando nas Unidades de Controlo Costeiro e de Acção Fiscal e nas respectivas subunidades;\n\nb) Outros oficiais da Guarda, quando no exercício de funções de comando operacional de âmbito tributário.\n\n2 - De forma a permitir o cumprimento da sua missão tributária, bem como a prossecução das suas atribuições de natureza financeira e patrimonial, a Guarda mantém uma ligação funcional com o Ministério das Finanças, regulada por portaria conjunta do ministro da tutela e do membro do Governo responsável pela área das finanças."
+  },
+  "107802542": {
+   "fragment_id": "107794665",
+   "type": 11,
+   "heading": "Artigo 14.º — Medidas de polícia e meios de coerção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas de polícia e meios de coerção\n\n1 - No âmbito das suas atribuições, a Guarda utiliza as medidas de polícia legalmente previstas e nas condições e termos da Constituição e da lei de segurança interna, não podendo impor restrições ou fazer uso dos meios de coerção para além do estritamente necessário.\n\n2 - Quem faltar à obediência devida a ordem ou a mandado legítimos, regularmente comunicados e emanados de autoridade de polícia ou agente de autoridade da Guarda, é punido com a pena legalmente prevista para a desobediência qualificada."
+  },
+  "107802543": {
+   "fragment_id": "107794666",
+   "type": 1,
+   "heading": "Capítulo III — Requisição de forças e prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Requisição de forças e prestação de serviços"
+  },
+  "107802544": {
+   "fragment_id": "107794667",
+   "type": 11,
+   "heading": "Artigo 15.º — Requisição de forças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Requisição de forças\n\n1 - As autoridades judiciárias e administrativas podem requisitar à Guarda a actuação de forças para a manutenção da ordem e tranquilidade públicas.\n\n2 - A requisição de forças é apresentada junto da autoridade de polícia territorialmente competente, indicando a natureza do serviço a desempenhar e o motivo ou a ordem que as justifica.\n\n3 - As forças requisitadas actuam no quadro das suas competências e de forma a cumprirem a sua missão, mantendo total subordinação aos comandos de que dependem."
+  },
+  "107802545": {
+   "fragment_id": "107794668",
+   "type": 11,
+   "heading": "Artigo 16.º — Prestação de serviços especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prestação de serviços especiais\n\n1 - A Guarda pode manter pessoal militar em organismos de interesse público, em condições definidas por portaria do ministro da tutela.\n\n2 - Os militares da Guarda podem ser nomeados em comissão de serviço para organismos internacionais ou países estrangeiros, em função dos interesses nacionais e dos compromissos assumidos no âmbito da cooperação internacional, nos termos legalmente estabelecidos.\n\n3 - O pessoal referido no n.º 1 cumpre, para efeitos de ordem pública, as directivas do comando com jurisdição na respectiva área.\n\n4 - A Guarda pode ainda prestar serviços especiais, mediante solicitação, que, após serem autorizados pela entidade competente, são remunerados pelos respectivos requisitantes nos termos que forem regulamentados."
+  },
+  "107802546": {
+   "fragment_id": "107794669",
+   "type": 11,
+   "heading": "Artigo 17.º — Prestação de serviços a outros organismos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prestação de serviços a outros organismos públicos\n\n1 - Sem prejuízo da missão que lhe está cometida e no âmbito do dever de coadjuvação dos tribunais, a Guarda pode afectar pessoal militar para a realização das actividades de comunicação dos actos processuais previstos no Código de Processo Penal.\n\n2 - A Guarda pode ainda afectar pessoal militar para prestar serviço a órgãos e entidades da administração central, regional e local.\n\n3 - A prestação e o pagamento das acções previstas nos números anteriores, quando não regulados em lei especial, são objecto de portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e das finanças e pela tutela da entidade requisitante."
+  },
+  "107802547": {
+   "fragment_id": "107794670",
+   "type": 11,
+   "heading": "Artigo 18.º — Colaboração com entidades públicas e privadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Colaboração com entidades públicas e privadas\n\n1 - Sem prejuízo do cumprimento da sua missão, a Guarda pode prestar colaboração a outras entidades públicas ou privadas que a solicitem, para garantir a segurança de pessoas e bens ou para a prestação de outros serviços, mediante pedidos concretos que lhe sejam formulados, os quais serão sujeitos a decisão caso a caso.\n\n2 - A administração central pode estabelecer protocolos com as autarquias locais para a execução das responsabilidades de construção, aquisição ou beneficiação de instalações e edifícios para a Guarda sempre que as razões de oportunidade e conveniência o aconselhem.\n\n3 - O pagamento dos serviços efectuados pela Guarda ao abrigo do n.º 1 é regulado na portaria referida no n.º 3 do artigo anterior."
+  },
+  "107802548": {
+   "fragment_id": "107794671",
+   "type": 13,
+   "heading": "Título II — Organização geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Organização geral"
+  },
+  "107802549": {
+   "fragment_id": "107794672",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107802550": {
+   "fragment_id": "107794673",
+   "type": 11,
+   "heading": "Artigo 19.º — Categorias profissionais e postos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Categorias profissionais e postos\n\n1 - A Guarda está organizada hierarquicamente e os militares dos seus quadros permanentes estão sujeitos à condição militar, nos termos da lei de bases gerais do Estatuto da Condição Militar.\n\n2 - Os militares da Guarda agrupam-se hierarquicamente nas seguintes categorias profissionais, subcategorias e postos:\n\na) Categoria profissional de oficiais:\n\ni) Oficiais generais, que compreende os postos de tenente-general e major-general;\n\nii) Oficiais superiores, que compreende os postos de coronel, tenente-coronel e major;\n\niii) Capitães, que compreende o posto de capitão;\n\niv) Oficiais subalternos, que compreende os postos de tenente e alferes;\n\nb) Categoria profissional de sargentos, que compreende os postos de sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento, segundo-sargento e furriel;\n\nc) Categoria profissional de guardas, que compreende os postos de cabo-mor, cabo-chefe, cabo, guarda principal e guarda.\n\n3 - As promoções a oficial general realizam-se por escolha de entre os oficiais com formação de nível superior e qualificações complementares idênticas às exigidas para acesso aos postos de contra-almirante ou de major-general das Forças Armadas.\n\n4 - As promoções a oficial general, bem como as promoções de oficiais generais, do quadro de pessoal da Guarda, são sujeitas a aprovação pelo Ministro da Administração Interna e a confirmação pelo Presidente da República, sem o que não produzem efeitos.\n\n5 - Os postos da subcategoria de oficiais generais são constituídos pelo número máximo de 11 efectivos."
+  },
+  "107802551": {
+   "fragment_id": "107794674",
+   "type": 11,
+   "heading": "Artigo 20.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Estrutura geral\n\nA Guarda compreende:\n\na) A estrutura de comando;\n\nb) As unidades;\n\nc) O estabelecimento de ensino."
+  },
+  "107802552": {
+   "fragment_id": "107802875",
+   "type": 11,
+   "heading": "Artigo 21.º — Estrutura de comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estrutura de comando\n\n1 - A estrutura de comando compreende:\n\na) O Comando da Guarda;\n\nb) Os órgãos superiores de comando e direcção.\n\n2 - O Comando da Guarda compreende:\n\na) O comandante-geral;\n\nb) O 2.º comandante-geral;\n\nc) O órgão de inspecção;\n\nd) Os órgãos de conselho;\n\ne) A Secretaria-Geral.\n\n3 - São órgãos superiores de comando e direcção:\n\na) O Comando Operacional (CO);\n\nb) O Comando da Administração dos Recursos Internos (CARI);\n\nc) O Comando da Doutrina e Formação (CDF)."
+  },
+  "107802553": {
+   "fragment_id": "107802876",
+   "type": 11,
+   "heading": "Artigo 22.º — Unidades e estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Unidades e estabelecimento de ensino\n\n1 - Na Guarda existem as seguintes unidades:\n\na) O Comando-Geral;\n\nb) Territoriais, os comandos territoriais;\n\nc) Especializadas, a Unidade de Controlo Costeiro (UCC), a Unidade de Acção Fiscal (UAF) e a Unidade Nacional de Trânsito (UNT);\n\nd) De representação, a Unidade de Segurança e Honras de Estado (USHE);\n\ne) De intervenção e reserva, a Unidade de Intervenção (UI).\n\n2 - Podem ser constituídas unidades para actuar fora do território nacional, nos termos da lei.\n\n3 - O estabelecimento de ensino da Guarda é a Escola da Guarda (EG).\n\n> Nota: [Artigo 6.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html)."
+  },
+  "107802554": {
+   "fragment_id": "107802877",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura de comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura de comando"
+  },
+  "107802555": {
+   "fragment_id": "107802878",
+   "type": 8,
+   "heading": "Secção I — Comando da Guarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Comando da Guarda"
+  },
+  "107802556": {
+   "fragment_id": "107802879",
+   "type": 11,
+   "heading": "Artigo 23.º — Comandante-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comandante-geral\n\n1 - O comandante-geral é um tenente-general nomeado por despacho conjunto do Primeiro-Ministro, do ministro da tutela e do membro do Governo responsável pela área da defesa nacional, ouvido o Conselho de Chefes de Estado-Maior se a nomeação recair em oficial general das Forças Armadas.\n\n2 - O comandante-geral é o responsável pelo cumprimento das missões gerais da Guarda, bem como de outras que lhe sejam cometidas por lei.\n\n3 - Além das competências próprias dos cargos de direcção superior de 1.º grau, compete ao comandante-geral:\n\na) Exercer o comando completo sobre todas as forças e elementos da Guarda;\n\nb) Representar a Guarda;\n\nc) Exercer o poder disciplinar;\n\nd) Atribuir a condecoração prevista no artigo 8.º;\n\ne) Propor ao ministro da tutela a requisição ao membro do Governo responsável pela área da defesa nacional do pessoal dos ramos das Forças Armadas necessários à Guarda;\n\nf) Mandar executar as operações de recrutamento do pessoal necessário aos quadros da Guarda;\n\ng) Decidir e mandar executar toda a actividade respeitante à organização, meios e dispositivos, operações, instrução, serviços técnicos, financeiros, logísticos e administrativos da Guarda;\n\nh) Dirigir a administração financeira da Guarda, de acordo com as competências legais que lhe são conferidas;\n\ni) Firmar contratos para aquisição de bens e serviços dentro da sua competência e das autorizações que lhe forem conferidas;\n\nj) Relacionar-se com os comandantes superiores das Forças Armadas, comandantes e directores-gerais das restantes forças e serviços de segurança e das demais entidades públicas e privadas;\n\nl) Aplicar coimas;\n\nm) Inspeccionar ou mandar inspeccionar as unidades, órgãos e serviços da Guarda;\n\nn) Presidir ao Conselho Superior da Guarda e ao Conselho de Ética, Deontologia e Disciplina;\n\no) Homologar as decisões da Junta Superior de Saúde;\n\np) Autorizar o desempenho pela Guarda de serviços de carácter especial, a pedido de outras entidades;\n\nq) Exercer as demais competências que lhe sejam delegadas ou cometidas por lei.\n\n4 - O comandante-geral pode delegar as suas competências próprias no 2.º comandante-geral e nos titulares dos órgãos que lhe estão directamente subordinados."
+  },
+  "107802557": {
+   "fragment_id": "107802880",
+   "type": 11,
+   "heading": "Artigo 24.º — Gabinete do comandante-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Gabinete do comandante-geral\n\n1 - O comandante-geral é apoiado por um gabinete constituído pelo chefe de gabinete e pelos adjuntos, ajudante-de-campo e secretário pessoal.\n\n2 - Compete ao gabinete do comandante-geral coadjuvar, assessorar e secretariar o comandante-geral no exercício das suas funções."
+  },
+  "107802558": {
+   "fragment_id": "107802881",
+   "type": 11,
+   "heading": "Artigo 25.º — 2.º comandante-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — 2.º comandante-geral\n\n1 - O 2.º comandante-geral é um tenente-general, nomeado pelo ministro da tutela, sob proposta do comandante-geral da Guarda.\n\n2 - Quando o nomeado for oficial general das Forças Armadas, a nomeação é feita com o acordo do membro do Governo responsável pela área da defesa nacional.\n\n3 - Ao 2.º comandante-geral compete:\n\na) Coadjuvar o comandante-geral no exercício das suas funções;\n\nb) Exercer as competências que lhe forem delegadas ou subdelegadas pelo comandante-geral;\n\nc) Substituir o comandante-geral nas suas ausências ou impedimentos."
+  },
+  "107802559": {
+   "fragment_id": "107802882",
+   "type": 11,
+   "heading": "Artigo 26.º — Órgãos de inspecção, conselho e apoio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Órgãos de inspecção, conselho e apoio geral\n\n1 - Na dependência directa do comandante-geral funcionam os seguintes órgãos:\n\na) A Inspecção da Guarda (IG), órgão de inspecção;\n\nb) O Conselho Superior da Guarda (CSG), o Conselho de Ética, Deontologia e Disciplina (CEDD) e a Junta Superior de Saúde (JSS), órgãos de conselho;\n\nc) A Secretaria-Geral da Guarda (SGG), serviço de apoio geral.\n\n2 - Funcionam, ainda, na dependência do comandante-geral, serviços para as áreas de estudos e planeamento, consultadoria jurídica e relações públicas."
+  },
+  "107802560": {
+   "fragment_id": "107802883",
+   "type": 11,
+   "heading": "Artigo 27.º — Inspecção da Guarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Inspecção da Guarda\n\n1 - A IG é o órgão responsável pelo desenvolvimento de acções inspectivas e de auditoria ao nível superior da Guarda, competindo-lhe apoiar o comandante-geral no exercício das suas funções de controlo e avaliação da actividade operacional, da formação, da administração dos meios humanos, materiais e financeiros e do cumprimento das disposições legais aplicáveis e dos regulamentos e instruções internos, bem como no estudo e implementação de normas de qualidade.\n\n2 - A IG é dirigida por um tenente-general, designado inspector da Guarda, na dependência directa do comandante-geral e nomeado, sob proposta deste, pelo ministro da tutela.\n\n3 - O regulamento interno da IG é aprovado por despacho do ministro da tutela."
+  },
+  "107802561": {
+   "fragment_id": "107802884",
+   "type": 11,
+   "heading": "Artigo 28.º — Conselho Superior da Guarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Conselho Superior da Guarda\n\n1 - O CSG é o órgão máximo de consulta do comandante-geral.\n\n2 - O CSG em composição restrita é constituído por:\n\na) Comandante-geral, que preside;\n\nb) 2.º comandante-geral;\n\nc) Inspector da Guarda;\n\nd) Comandantes dos órgãos superiores de comando e direcção;\n\ne) Comandante da EG.\n\n3 - O CSG em composição alargada é constituído por:\n\na) Comandante-geral, que preside;\n\nb) 2.º comandante-geral;\n\nc) Inspector da Guarda;\n\nd) Comandantes dos órgãos superiores de comando e direcção;\n\ne) Comandantes das unidades territoriais, das unidades especializadas, de representação e de reserva e do estabelecimento de ensino;\n\nf) Chefe da SGG;\n\ng) Representantes das categorias profissionais de oficiais, sargentos e guardas, eleitos nos termos a definir por portaria do ministro da tutela.\n\n4 - Por determinação do comandante-geral, podem participar nas reuniões do CSG, sem direito a voto, outras entidades que, pelas suas funções ou competência especial, o Conselho julgue conveniente ouvir.\n\n5 - Compete ao CSG em composição restrita:\n\na) Aprovar o seu regimento;\n\nb) Emitir parecer sobre:\n\ni) Indigitação de oficiais da Guarda para a frequência de cursos de acesso a oficial general;\n\nii) Apreciação das promoções a oficial general;\n\niii) Outras questões de elevada sensibilidade e importância para a Guarda que sejam submetidas à sua apreciação pelo comandante-geral;\n\nc) Exercer as competências previstas no Estatuto dos Juízes Militares e dos Assessores Militares do Ministério Público e as demais que lhe forem legalmente cometidas.\n\n6 - Compete ao CSG em composição alargada aprovar o seu regimento e emitir parecer sobre:\n\na) O plano e relatório de actividades da Guarda;\n\nb) Questões relevantes para a Guarda, designadamente em matéria de organização e estatuto do pessoal;\n\nc) Listas de promoção por escolha e outros assuntos relativos a promoções, nos termos do Estatuto dos Militares da Guarda;\n\nd) Quaisquer outros assuntos que sejam submetidos à sua apreciação pelo comandante-geral.\n\n7 - Em matéria de promoções, só pode participar na discussão e votação o pessoal de graduação igual ou superior à do posto para o qual a promoção se deva efectuar."
+  },
+  "107802562": {
+   "fragment_id": "107802885",
+   "type": 11,
+   "heading": "Artigo 29.º — Conselho de Ética, Deontologia e Disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Conselho de Ética, Deontologia e Disciplina\n\n1 - O CEDD é o órgão de consulta do comandante-geral em matéria de justiça e disciplina.\n\n2 - O CEDD tem a seguinte composição:\n\na) O comandante-geral;\n\nb) O 2.º comandante-geral;\n\nc) O inspector da Guarda;\n\nd) Os comandantes dos órgãos superiores de comando e direcção;\n\ne) Os comandantes das unidades especializadas, de representação, de intervenção e reserva e do estabelecimento de ensino;\n\nf) Os comandantes de cinco unidades territoriais;\n\ng) O director do serviço responsável pela área de recursos humanos;\n\nh) Representantes das categorias profissionais de oficiais, sargentos e guardas, eleitos nos termos a definir por portaria do ministro da tutela.\n\n3 - Compete ao CEDD emitir parecer sobre:\n\na) A aplicação das penas disciplinares de reforma compulsiva e de separação de serviço e da medida estatutária de dispensa de serviço;\n\nb) Recursos disciplinares de revisão;\n\nc) Quaisquer outros assuntos do âmbito da ética ou disciplina que sejam submetidos à sua apreciação pelo comandante-geral.\n\n4 - O regulamento de funcionamento do CEDD é aprovado por despacho do ministro da tutela."
+  },
+  "107802563": {
+   "fragment_id": "107802886",
+   "type": 11,
+   "heading": "Artigo 30.º — Junta Superior de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Junta Superior de Saúde\n\n1 - A JSS é o órgão a que compete julgar o grau de capacidade para o serviço de oficiais, sargentos e guardas que, por ordem do comandante-geral, lhe forem presentes, bem como emitir parecer sobre os recursos relativos a decisões baseadas em pareceres formulados pelas juntas médicas da Guarda.\n\n2 - A JSS é constituída por três médicos nomeados pelo comandante-geral, que designa, de entre eles, o presidente.\n\n3 - Quando funcionar como junta de recurso, a JSS é composta por dois médicos designados pelo comandante-geral, que não tenham intervindo anteriormente no processo, e por um médico escolhido pelo requerente, o qual, não sendo indicado no prazo que para o efeito for fixado pelo comandante-geral, é substituído pelo médico que este designar."
+  },
+  "107802564": {
+   "fragment_id": "107802887",
+   "type": 11,
+   "heading": "Artigo 31.º — Secretaria-Geral da Guarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Secretaria-Geral da Guarda\n\n1 - A SGG é responsável pela elaboração e publicação da Ordem à Guarda e da Ordem de Serviço do Comando-Geral, competindo-lhe, ainda, assegurar o apoio e o enquadramento administrativo de todo o pessoal, a recepção, expedição e arquivo de toda a correspondência, a administração e o controlo das instalações, dos equipamentos e demais material e o normal funcionamento da unidade Comando-Geral.\n\n2 - A SGG pode, ainda, prestar apoio administrativo a outras unidades da Guarda.\n\n3 - Compete, ainda, à SGG assegurar o funcionamento da Biblioteca, do Museu e Arquivo Histórico e da Revista da Guarda."
+  },
+  "107802565": {
+   "fragment_id": "107802888",
+   "type": 8,
+   "heading": "Secção II — Órgãos superiores de comando e direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos superiores de comando e direcção"
+  },
+  "107802566": {
+   "fragment_id": "107802889",
+   "type": 11,
+   "heading": "Artigo 32.º — Comando Operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comando Operacional\n\n1 - O CO assegura o comando de toda a actividade operacional da Guarda.\n\n2 - O comandante do CO é um tenente-general, nomeado pelo ministro da tutela, sob proposta do comandante-geral da Guarda.\n\n3 - O CO compreende as áreas de operações, informações, investigação criminal, protecção da natureza e do ambiente e missões internacionais.\n\n4 - O comandante do CO tem sob o seu comando directo, para efeitos operacionais, as unidades territoriais, especializadas, de representação e de intervenção e reserva.\n\n5 - O comandante do CO pode constituir comandos eventuais para operações de âmbito nacional ou regional, quando tal se justificar.\n\n6 - O comandante do CO é coadjuvado por um major-general, nomeado pelo comandante-geral."
+  },
+  "107802567": {
+   "fragment_id": "107802890",
+   "type": 11,
+   "heading": "Artigo 33.º — Comando da Administração dos Recursos Internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comando da Administração dos Recursos Internos\n\n1 - O CARI assegura o comando e direcção de toda a actividade da Guarda nos domínios da administração dos recursos humanos, materiais e financeiros.\n\n2 - O comandante do CARI é um major-general, nomeado pelo comandante-geral.\n\n3 - O CARI compreende as áreas de recursos humanos, recursos financeiros, recursos logísticos e saúde e assistência na doença.\n\n4 - O CARI assegura, ainda, a assistência religiosa aos militares da Guarda."
+  },
+  "107802568": {
+   "fragment_id": "107802891",
+   "type": 11,
+   "heading": "Artigo 34.º — Comando da Doutrina e Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Comando da Doutrina e Formação\n\n1 - O CDF assegura o comando e direcção de toda a actividade da Guarda nos domínios da doutrina e formação do efectivo da Guarda.\n\n2 - O comandante do CDF é um major-general, nomeado pelo comandante-geral.\n\n3 - O CDF compreende as áreas de doutrina e formação."
+  },
+  "107802569": {
+   "fragment_id": "107802892",
+   "type": 8,
+   "heading": "Secção III — Serviços da estrutura de comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Serviços da estrutura de comando"
+  },
+  "107802570": {
+   "fragment_id": "107802893",
+   "type": 11,
+   "heading": "Artigo 35.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Serviços\n\nO número, as competências, a estrutura interna e o posto correspondente à chefia dos serviços directamente dependentes do comandante-geral e dos serviços dos órgãos superiores de comando e direcção são definidos por decreto regulamentar."
+  },
+  "107802571": {
+   "fragment_id": "107802894",
+   "type": 1,
+   "heading": "Capítulo III — Unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Unidades"
+  },
+  "107802572": {
+   "fragment_id": "107802895",
+   "type": 8,
+   "heading": "Secção I — Unidade do Comando da Guarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Unidade do Comando da Guarda"
+  },
+  "107802573": {
+   "fragment_id": "107802896",
+   "type": 11,
+   "heading": "Artigo 36.º — Comando-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comando-Geral\n\n1 - O Comando-Geral tem sede em Lisboa e concentra toda a estrutura de comando da Guarda.\n\n2 - O Comando-Geral é comandado pelo chefe da SGG."
+  },
+  "107802574": {
+   "fragment_id": "107802897",
+   "type": 8,
+   "heading": "Secção II — Unidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Unidades territoriais"
+  },
+  "107802975": {
+   "fragment_id": "107802898",
+   "type": 11,
+   "heading": "Artigo 37.º — Comandos territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Comandos territoriais\n\n1 - O comando territorial é responsável pelo cumprimento da missão da Guarda na área de responsabilidade que lhe for atribuída, na dependência directa do comandante-geral.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira, os comandos territoriais têm sede em Ponta Delgada e no Funchal e, sem prejuízo de outras missões que lhes sejam especialmente cometidas, prosseguem, na respectiva área de responsabilidade, as atribuições da Guarda no âmbito da vigilância da costa e do mar territorial e da prevenção e investigação de infracções tributárias e aduaneiras, dependendo funcionalmente da Unidade de Controlo Costeiro e da Unidade de Acção Fiscal, relativamente às respectivas áreas de competência.\n\n3 - Os comandos territoriais são comandados por um coronel ou tenente-coronel, coadjuvado por um 2.º comandante.\n\n4 - Compete, em especial, aos comandantes de comando territorial nas regiões autónomas articular com o Governo regional a actividade operacional nas matérias cuja tutela compete à região e cooperar com os órgãos da região em matérias do âmbito das atribuições da Guarda."
+  },
+  "107802976": {
+   "fragment_id": "107802899",
+   "type": 11,
+   "heading": "Artigo 38.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Organização\n\nOs comandos territoriais articulam-se em comando, serviços e subunidades operacionais."
+  },
+  "107802977": {
+   "fragment_id": "107802900",
+   "type": 11,
+   "heading": "Artigo 39.º — Subunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Subunidades\n\n1 - As subunidades operacionais dos comandos territoriais são os destacamentos, que se articulam localmente em subdestacamentos ou postos.\n\n2 - O comando dos destacamentos e das suas subunidades é exercido por um comandante, coadjuvado por um adjunto.\n\n3 - O destacamento é comandado por major ou capitão, o subdestacamento por oficial subalterno e o posto por sargento."
+  },
+  "107802978": {
+   "fragment_id": "107802901",
+   "type": 8,
+   "heading": "Secção III — Unidades especializadas, de representação e de intervenção e reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Unidades especializadas, de representação e de intervenção e reserva"
+  },
+  "107802979": {
+   "fragment_id": "107802902",
+   "type": 11,
+   "heading": "Artigo 40.º — Unidade de Controlo Costeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Unidade de Controlo Costeiro\n\n1 - A UCC é a unidade especializada responsável pelo cumprimento da missão da Guarda em toda a extensão da costa e no mar territorial, com competências específicas de vigilância, patrulhamento e intercepção terrestre ou marítima em toda a costa e mar territorial do continente e das Regiões Autónomas, competindo-lhe, ainda, gerir e operar o Sistema Integrado de Vigilância, Comando e Controlo (SIVICC), distribuído ao longo da orla marítima.\n\n2 - A UCC é constituída por destacamentos.\n\n3 - O comandante da UCC tem o posto de major-general ou, quando o nomeado for oficial da marinha, contra-almirante, e é coadjuvado por um 2.º comandante.\n\n> Nota: [Artigo 6.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela Lei n.º 11/2022."
+  },
+  "107802980": {
+   "fragment_id": "107802903",
+   "type": 11,
+   "heading": "Artigo 41.º — Unidade de Acção Fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Unidade de Acção Fiscal\n\n1 - A UAF é uma unidade especializada de âmbito nacional com competência específica de investigação para o cumprimento da missão tributária, fiscal e aduaneira cometida à Guarda.\n\n2 - A UAF articula-se em destacamentos de acção fiscal e um destacamento de pesquisa de âmbito nacional.\n\n3 - A UAF é comandada por um coronel, coadjuvado por um 2.º comandante."
+  },
+  "107802981": {
+   "fragment_id": "107802904",
+   "type": 11,
+   "heading": "Artigo 42.º — Unidade Nacional de Trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Unidade Nacional de Trânsito\n\n1 - A UNT é a unidade especializada, no âmbito da fiscalização ordenamento e disciplina do trânsito, responsável pela uniformização de procedimentos e pela formação contínua dos agentes.\n\n2 - Quando se justifique, a UNT pode realizar, directa e excepcionalmente, acções especiais de fiscalização em qualquer parte do território nacional abrangida pela competência territorial da Guarda Nacional Republicana, sem prejuízo das competências das respectivas unidades territoriais.\n\n3 - A UNT é comandada por um coronel, coadjuvado por um 2.º comandante e o seu dispositivo será definido por portaria."
+  },
+  "107802982": {
+   "fragment_id": "107802905",
+   "type": 11,
+   "heading": "Artigo 43.º — Unidade de Segurança e Honras de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Unidade de Segurança e Honras de Estado\n\n1 - A USHE é uma unidade de representação responsável pela protecção e segurança às instalações dos órgãos de soberania e de outras entidades que lhe sejam confiadas e pela prestação de honras de Estado.\n\n2 - A USHE articula-se em Esquadrão Presidencial, subunidade de honras de Estado e subunidade de segurança.\n\n3 - Integram, ainda, a USHE a Charanga a Cavalo e a Banda da Guarda.\n\n4 - A USHE é comandada por um major-general, coadjuvado por um 2.º comandante."
+  },
+  "107802983": {
+   "fragment_id": "107802906",
+   "type": 11,
+   "heading": "Artigo 44.º — Unidade de Intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Unidade de Intervenção\n\n1 - A UI é uma unidade da Guarda especialmente vocacionada para as missões de manutenção e restabelecimento da ordem pública, resolução e gestão de incidentes críticos, intervenção táctica em situações de violência concertada e de elevada perigosidade, complexidade e risco, segurança de instalações sensíveis e de grandes eventos, inactivação de explosivos, protecção e socorro e aprontamento e projecção de forças para missões internacionais.\n\n2 - A UI articula-se em subunidades de ordem pública, de operações especiais, de protecção e socorro e de cinotecnia.\n\n3 - Integram, ainda, a UI o Centro de Inactivação de Explosivos e Segurança em Subsolo (CIESS) e o Centro de Treino e Aprontamento de Forças para Missões Internacionais (CTAFMI).\n\n4 - Por despacho do ministro da tutela podem ser destacadas ou colocadas com carácter permanente, forças da UI na dependência orgânica dos comandos territoriais.\n\n5 - A UI é comandada por um major-general, coadjuvado por um 2.º comandante.\n\n> Nota: [Artigo 10.º, Decreto-Lei n.º 113/2018 - Diário da República n.º 243/2018, Série I de 2018-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2018-117428716) São revogadas, as referências a «proteção e socorro» constantes dos n.os 1 e 2 do artigo 44.º da Lei n.º 63/2007, de 6 de novembro, na sua redação atual;"
+  },
+  "107802984": {
+   "fragment_id": "107802907",
+   "type": 8,
+   "heading": "Secção IV — Estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Estabelecimento de ensino"
+  },
+  "107802985": {
+   "fragment_id": "107802908",
+   "type": 11,
+   "heading": "Artigo 45.º — Escola da Guarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Escola da Guarda\n\n1 - A EG é uma unidade especialmente vocacionada para a formação moral, cultural, física, militar e técnico-profissional dos militares da Guarda e ainda para a actualização, especialização e valorização dos seus conhecimentos.\n\n2 - A EG colabora, ainda, na formação de elementos de outras entidades, nacionais e estrangeiras.\n\n3 - A EG é comandada por um major-general, coadjuvado por um 2.º comandante.\n\n4 - O comandante da EG depende directamente do comandante-geral.\n\n5 - A criação e extinção de centros de formação são aprovadas por portaria do ministro da tutela."
+  },
+  "107802986": {
+   "fragment_id": "107802909",
+   "type": 8,
+   "heading": "Secção V — Subunidades e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Subunidades e serviços"
+  },
+  "107802987": {
+   "fragment_id": "107802910",
+   "type": 11,
+   "heading": "Artigo 46.º — Subunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Subunidades\n\nA criação e extinção de subunidades das unidades territoriais, especializadas, de representação e de intervenção e reserva e do estabelecimento de ensino são aprovadas por portaria do ministro da tutela."
+  },
+  "107802988": {
+   "fragment_id": "107802911",
+   "type": 11,
+   "heading": "Artigo 47.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Serviços\n\n1 - A criação e extinção e o funcionamento dos serviços das unidades territoriais e do estabelecimento de ensino são aprovados por portaria do ministro da tutela.\n\n2 - A administração das unidades especializadas, de representação e de intervenção e reserva é assegurada pela SGG e pelos serviços do CARI, nos termos a definir por portaria do ministro da tutela."
+  },
+  "107802989": {
+   "fragment_id": "107802912",
+   "type": 13,
+   "heading": "Título III — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Disposições financeiras"
+  },
+  "107802990": {
+   "fragment_id": "107802913",
+   "type": 11,
+   "heading": "Artigo 48.º — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Regime financeiro\n\n1 - A gestão financeira da Guarda rege-se pelo regime geral da contabilidade pública.\n\n2 - Constituem receitas da Guarda:\n\na) As dotações atribuídas pelo Orçamento do Estado;\n\nb) O produto da venda de publicações e as quantias cobradas por actividades ou serviços prestados;\n\nc) Os juros dos depósitos bancários;\n\nd) As receitas próprias consignadas à Guarda;\n\ne) Os saldos anuais das receitas consignadas;\n\nf) O valor das coimas a que tenha direito por força do cumprimento da sua missão;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título."
+  },
+  "107802991": {
+   "fragment_id": "107802914",
+   "type": 11,
+   "heading": "Artigo 49.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Despesas\n\nConstituem despesas da Guarda as que resultem de encargos decorrentes do funcionamento dos seus órgãos e serviços e da actividade operacional, na prossecução das atribuições que lhe estão cometidas."
+  },
+  "107802992": {
+   "fragment_id": "107802915",
+   "type": 11,
+   "heading": "Artigo 50.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Taxas\n\nA actividade da Guarda pode implicar a aplicação de taxas e a cobrança de despesas a cargo de entidades que especialmente beneficiem com aquela actividade, nos termos a regular em diploma próprio."
+  },
+  "107802993": {
+   "fragment_id": "107802916",
+   "type": 13,
+   "heading": "Título IV — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Disposições complementares, transitórias e finais"
+  },
+  "107802994": {
+   "fragment_id": "107802917",
+   "type": 11,
+   "heading": "Artigo 51.º — Estruturas portuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Estruturas portuárias\n\nAs atribuições cometidas à Guarda em matéria de vigilância e protecção de estruturas portuárias não prejudicam o exercício das atribuições legalmente previstas de outras entidades, designadamente a Autoridade Marítima Nacional, em matéria de protecção do transporte marítimo e dos portos."
+  },
+  "107802995": {
+   "fragment_id": "107802918",
+   "type": 11,
+   "heading": "Artigo 52.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Disposições transitórias\n\n1 - As atribuições cometidas à Guarda pela presente lei em matéria de vigilância, protecção e segurança de infra-estruturas aeroportuárias não prejudicam a competência atribuída à Polícia de Segurança Pública nos aeroportos internacionais actualmente existentes.\n\n2 - A organização e funcionamento dos serviços sociais são regulados por diploma próprio.\n\n3 - Para efeitos dos quadros anexos A e B do Regulamento de Disciplina da Guarda Nacional Republicana, aprovado pela Lei n.º 145/99, de 1 de Setembro, são estabelecidas as seguintes equiparações:\n\na) Comandante do Comando Operacional, comandante do Comando de Administração de Recursos Internos e comandante do Comando de Doutrina e Formação a chefe de estado-maior;\n\nb) Comandante de estabelecimento de ensino a comandante de unidade;\n\nc) 2.º comandante e director de instrução de estabelecimento de ensino a comandante de agrupamento ou de grupo destacados."
+  },
+  "107802996": {
+   "fragment_id": "107802919",
+   "type": 11,
+   "heading": "Artigo 53.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regulamentação\n\n1 - São regulados por diploma próprio:\n\na) A aplicação de taxas e a cobrança de despesas a cargo de entidades que especialmente beneficiem com a actividade da Guarda;\n\nb) O estatuto remuneratório do comandante-geral.\n\n2 - É regulada por decreto regulamentar a prossecução pela Guarda na zona contígua da atribuição prevista na alínea d) do n.º 2 do artigo 3.º bem como a articulação entre a Guarda e a Autoridade Marítima Nacional, no tocante às atribuições previstas nas alíneas c), e) e f) do mesmo número.\n\n3 - São regulados por portaria conjunta do ministro da tutela e do membro do Governo responsável pela área das finanças os termos da ligação funcional entre a Unidade de Acção Fiscal e o Ministério das Finanças prevista no n.º 2 do artigo 13.º\n\n4 - A prestação e o pagamento dos serviços requisitados à Guarda nos termos dos artigos 17.º e 18.º da presente lei são objecto de portaria conjunta do ministro da tutela, do membro do Governo responsável pela área das finanças e, quando aplicável, do membro do Governo com a tutela da entidade requisitante.\n\n5 - O número, as competências, a estrutura interna e o posto correspondente à chefia dos serviços de apoio directamente dependentes do comandante-geral e dos serviços dos órgãos superiores de comando e direcção são definidos por decreto regulamentar.\n\n6 - São determinados por portaria do ministro da tutela:\n\na) A área de responsabilidade da Guarda, no caso de atribuições simultaneamente cometidas à Polícia de Segurança Pública, bem como das unidades territoriais e respectivas subunidades;\n\nb) Os símbolos e condecoração previstos no artigo 8.º, bem como o regulamento de atribuição desta;\n\nc) As condições em que o pessoal militar da Guarda pode ser afecto a organismos de interesse público;\n\nd) Os termos a que obedece a eleição dos representantes dos oficiais, sargentos e guardas no CSG e no CEDD;\n\ne) A criação e extinção de subunidades das unidades territoriais, especializadas, de representação e de intervenção e reserva;\n\nf) A criação e extinção e o funcionamento dos serviços das unidades territoriais, bem como do estabelecimento de ensino;\n\ng) Os termos em que se processa o apoio administrativo das unidades, especializadas, de representação e de intervenção e reserva pelos serviços do CARI e da SGG.\n\n7 - São regulados por despacho do ministro da tutela:\n\na) Os tipos de armas em uso pela Guarda, bem como as regras do respectivo emprego;\n\nb) O regulamento da IG;\n\nc) O regulamento de funcionamento do CEDD."
+  },
+  "107802997": {
+   "fragment_id": "107802920",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 231/93, de 26 de Junho, com excepção:\n\na) Dos artigos 29.º e 30.º, cuja revogação produz efeitos com a entrada em vigor de uma nova lei de segurança interna;\n\nb) Dos artigos 33.º, 92.º e 94.º, cuja revogação produz efeitos com a entrada em vigor de um novo Estatuto dos Militares da Guarda."
+  },
+  "107802998": {
+   "fragment_id": "107802921",
+   "type": 11,
+   "heading": "Artigo 55.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Entrada em vigor\n\nA presente lei entra em vigor no prazo de 30 dias, com excepção do artigo 53.º, que entra em vigor no dia seguinte ao da publicação."
+  },
+  "221053342": {
+   "fragment_id": "107794653",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 53/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31](https://diariodarepublica.pt/dr/detalhe/lei/53-2023-221100276), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808)",
+    "Retificado pelo/a [Declaração de Rectificação n.º 1-A/2008 - Diário da República n.º 3/2008, 1º Suplemento, Série I de 2008-01-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-a-2008-462823), em vigor a partir de 2007-12-06"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Constituem atribuições da Guarda:\n\na) Garantir as condições de segurança que permitam o exercício dos direitos e liberdades e o respeito pelas garantias dos cidadãos, bem como o pleno funcionamento das instituições democráticas, no respeito pela legalidade e pelos princípios do Estado de direito;\n\nb) Garantir a ordem e a tranquilidade públicas e a segurança e a protecção das pessoas e dos bens;\n\nc) Prevenir a criminalidade em geral, em coordenação com as demais forças e serviços de segurança;\n\nd) Prevenir a prática dos demais actos contrários à lei e aos regulamentos;\n\ne) Desenvolver as acções de investigação criminal e contra-ordenacional que lhe sejam atribuídas por lei, delegadas pelas autoridades judiciárias ou solicitadas pelas autoridades administrativas;\n\nf) Velar pelo cumprimento das leis e regulamentos relativos à viação terrestre e aos transportes rodoviários, e promover e garantir a segurança rodoviária, designadamente, através da fiscalização, do ordenamento e da disciplina do trânsito;\n\ng) Garantir a execução dos actos administrativos emanados da autoridade competente que visem impedir o incumprimento da lei ou a sua violação continuada;\n\nh) Participar no controlo da entrada e saída de pessoas e bens no território nacional;\n\ni) Proteger, socorrer e auxiliar os cidadãos e defender e preservar os bens que se encontrem em situações de perigo, por causas provenientes da acção humana ou da natureza;\n\nj) Manter a vigilância e a protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nl) Garantir a segurança nos espectáculos, incluindo os desportivos, e noutras actividades de recreação e lazer, nos termos da lei;\n\nm) Prevenir e detectar situações de tráfico e consumo de estupefacientes ou outras substâncias proibidas, através da vigilância e do patrulhamento das zonas referenciadas como locais de tráfico ou de consumo;\n\nn) Participar na fiscalização do uso e transporte de armas, munições e substâncias explosivas e equiparadas que não pertençam às demais forças e serviços de segurança ou às Forças Armadas, sem prejuízo das competências atribuídas a outras entidades;\n\no) Participar, nos termos da lei e dos compromissos decorrentes de acordos, tratados e convenções internacionais, na execução da política externa, designadamente em operações internacionais de gestão civil de crises, de paz e humanitárias, no âmbito policial e de protecção civil, bem como em missões de cooperação policial internacional e no âmbito da União Europeia e na representação do País em organismos e instituições internacionais;\n\np) Contribuir para a formação e informação em matéria de segurança dos cidadãos;\n\nq) Vigiar, fiscalizar e controlar as fronteiras marítimas, incluindo os terminais de cruzeiro, e as fronteiras terrestres, assim como a circulação de pessoas nos postos de fronteira autorizados;\n\nr) Atribuir vistos na fronteira, nos termos da lei, nas áreas da sua jurisdição;\n\ns) A execução do cumprimento das decisões prévias da entidade competente de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros a concretizar por via terrestre e marítima;\n\nt) Assegurar a execução de processos de readmissão, a concretizar por via terrestre e marítima;\n\nu) Assegurar a realização de controlos móveis e de operações conjuntas com serviços ou forças de segurança congéneres, nacionais ou estrangeiros, nas suas áreas de jurisdição;\n\nv) Gerir os centros de instalação temporária e os espaços equiparados nas suas áreas de jurisdição;\n\nx) Prosseguir as demais atribuições que lhe forem cometidas por lei.\n\n2 - Constituem, ainda, atribuições da Guarda:\n\na) Assegurar o cumprimento das disposições legais e regulamentares referentes à protecção e conservação da natureza e do ambiente, bem como prevenir e investigar os respectivos ilícitos;\n\nb) Garantir a fiscalização, o ordenamento e a disciplina do trânsito em todas as infra-estruturas constitutivas dos eixos da Rede Nacional Fundamental e da Rede Nacional Complementar, em toda a sua extensão, fora das áreas metropolitanas de Lisboa e Porto;\n\nc) Assegurar, no âmbito da sua missão própria, a vigilância, patrulhamento e intercepção terrestre e marítima, em toda a costa e mar territorial do continente e das Regiões Autónomas;\n\nd) Prevenir e investigar as infracções tributárias, fiscais e aduaneiras, bem como fiscalizar e controlar a circulação de mercadorias sujeitas à acção tributária, fiscal ou aduaneira;\n\ne) Controlar e fiscalizar as embarcações, seus passageiros e carga, para os efeitos previstos na alínea anterior e, supletivamente, para o cumprimento de outras obrigações legais;\n\nf) Participar na fiscalização das actividades de captura, desembarque, cultura e comercialização das espécies marinhas, em articulação com a Autoridade Marítima Nacional e no âmbito da legislação aplicável ao exercício da pesca marítima e cultura das espécies marinhas;\n\ng) Executar acções de prevenção e de intervenção de primeira linha, em todo o território nacional, em situação de emergência de protecção e socorro, designadamente nas ocorrências de incêndios florestais ou de matérias perigosas, catástrofes e acidentes graves;\n\nh) Colaborar na prestação das honras de Estado;\n\ni) Cumprir, no âmbito da execução da política de defesa nacional e em cooperação com as Forças Armadas, as missões militares que lhe forem cometidas;\n\nj) Assegurar o ponto de contacto nacional para intercâmbio internacional de informações relativas aos fenómenos de criminalidade automóvel com repercussões transfronteiriças, sem prejuízo das competências atribuídas a outros órgãos de polícia criminal.\n\n> Nota: [Artigo 6.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html).\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 53/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31](https://diariodarepublica.pt/dr/detalhe/lei/53-2023-221100276), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808)\n\n> Retificado pelo/a [Declaração de Rectificação n.º 1-A/2008 - Diário da República n.º 3/2008, 1º Suplemento, Série I de 2008-01-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-a-2008-462823), em vigor a partir de 2007-12-06"
+  },
+  "174336190": {
+   "fragment_id": "107802876",
+   "type": 11,
+   "heading": "Artigo 22.º — Unidades e estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808)"
+   ],
+   "markdown": "###### Artigo 22.º — Unidades e estabelecimento de ensino\n\n1 - Na Guarda existem as seguintes unidades:\n\na) O Comando-Geral;\n\nb) Territoriais, os comandos territoriais;\n\nc) Especializadas, a Unidade de Controlo Costeiro e de Fronteiras (UCCF), a Unidade de Ação Fiscal (UAF) e a Unidade Nacional de Trânsito (UNT);\n\nd) De representação, a Unidade de Segurança e Honras de Estado (USHE);\n\ne) De intervenção e reserva, a Unidade de Intervenção (UI).\n\n2 - Podem ser constituídas unidades para actuar fora do território nacional, nos termos da lei.\n\n3 - O estabelecimento de ensino da Guarda é a Escola da Guarda (EG).\n\n> Nota: [Artigo 6.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html).\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808)"
+  },
+  "174336191": {
+   "fragment_id": "107802902",
+   "type": 11,
+   "heading": "Artigo 40.º — Unidade de Controlo Costeiro e de Fronteiras",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808)"
+   ],
+   "markdown": "###### Artigo 40.º — Unidade de Controlo Costeiro e de Fronteiras\n\n1 - A UCCF é a unidade especializada responsável pelo cumprimento da missão da Guarda relativamente às fronteiras marítimas e terrestres, nomeadamente:\n\na) A vigilância, patrulhamento e interceção terrestre ou marítima em toda a costa e mar territorial, bem como nas fronteiras marítimas do continente e das regiões autónomas;\n\nb) A gestão e operação do Sistema Integrado de Vigilância, Comando e Controlo (SIVICC), distribuído ao longo da orla marítima.\n\n2 - A UCCF é constituída por destacamentos.\n\n3 - O comandante da UCCF tem o posto de major-general, sendo coadjuvado por um 2.º comandante.\n\n> Nota: [Artigo 6.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela Lei n.º 11/2022.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808)"
+  },
+  "107803002": {
+   "fragment_id": "107802904",
+   "type": 11,
+   "heading": "Artigo 42.º — Unidade Nacional de Trânsito",
+   "in_force_from": "2007-12-06",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 1-A/2008 - Diário da República n.º 3/2008, 1º Suplemento, Série I de 2008-01-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-a-2008-462823), em vigor a partir de 2007-12-06"
+   ],
+   "markdown": "###### Artigo 42.º — Unidade Nacional de Trânsito\n\n1 - A UNT é a unidade especializada, no âmbito da fiscalização, ordenamento e disciplina do trânsito, responsável pela uniformização de procedimentos e pela formação contínua dos militares.\n\n2 - Quando se justifique, a UNT pode realizar, directa e excepcionalmente, acções especiais de fiscalização em qualquer parte do território nacional abrangida pela competência territorial da Guarda Nacional Republicana, sem prejuízo das competências das respectivas unidades territoriais.\n\n3 - A UNT é comandada por um coronel, coadjuvado por um 2.º comandante e o seu dispositivo será definido por portaria.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 1-A/2008 - Diário da República n.º 3/2008, 1º Suplemento, Série I de 2008-01-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-a-2008-462823), em vigor a partir de 2007-12-06"
+  },
+  "107802999": {
+   "fragment_id": "107802922",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de Setembro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 19 de Outubro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 25 de Outubro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

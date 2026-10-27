@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:933788354:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-934027377",
+ "dre_path": "/dr/detalhe/portaria/289-a-2025-933788354",
+ "source_lastmod": "2025-11-13",
+ "versions": [
+  {
+   "date": "2025-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "934043075",
+    "934043275",
+    "934043475",
+    "934043675",
+    "934043875",
+    "934044075",
+    "934044275",
+    "934044475",
+    "934044675",
+    "934044875",
+    "934045075",
+    "934045275",
+    "934045475",
+    "934045675",
+    "934045875"
+   ]
+  },
+  {
+   "date": "2025-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:945966854:por",
+     "title": "Portaria n.º 393/2025/1",
+     "published": "2025-11-13",
+     "dre_path": "/dr/detalhe/portaria/393-2025-945966854"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "934043075",
+    "934043275",
+    "934043475",
+    "934043675",
+    "934043875",
+    "946245875",
+    "934044275",
+    "934044475",
+    "934044675",
+    "934044875",
+    "934045075",
+    "934045275",
+    "934045475",
+    "934045675",
+    "934045875"
+   ]
+  }
+ ],
+ "fragments": {
+  "934043075": {
+   "fragment_id": "934042975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Os incêndios rurais são uma realidade trágica que assola Portugal. Revela-se, pois, indispensável estabelecer medidas de apoio e mitigação do seu impacto, nas pessoas e empresas afetadas.\n\nAtravés do Decreto-Lei n.º 98-A/2025, de 24 de agosto, o Governo estabeleceu um quadro normativo de alcance e versatilidade setorial assinaláveis, apto a responder, com maior celeridade e eficácia, às carências que se venham a verificar, em decorrência de incêndios rurais, o qual pode ser adaptado e utilizado em função das necessidades específicas.\n\nNa sequência dos incêndios ocorridos, a alimentação dos animais das espécies bovina, ovina e caprina ficou gravemente afetada pela eliminação de pastos usados na mesma. O n.º 1 do artigo 21.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto, determina que é concedido um apoio extraordinário para aquisição de alimentação animal aos produtores pecuários das espécies bovinas, ovina e caprina cujas explorações foram afetados pelos incêndios.\n\nAssim:\n\nAo abrigo do disposto na alínea d) do artigo 43.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto, e do artigo 27.º do Decreto-Lei n.º 87-A/2025, de 25 de julho, manda o Governo, pelo Ministro da Agricultura e Mar, o seguinte:"
+  },
+  "934043275": {
+   "fragment_id": "934043175",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "934043475": {
+   "fragment_id": "934043375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria cria um apoio extraordinário a atribuir aos agricultores cujos efetivos pecuários foram afetados pelos incêndios ocorridos no território continental e regulamenta as respetivas condições de atribuição."
+  },
+  "934043675": {
+   "fragment_id": "934043575",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente portaria os detentores de explorações agrícolas com efetivos pecuários das espécies bovina, ovina e caprina, afetados pelos incêndios que deflagraram nos concelhos das regiões Centro e Norte de Portugal identificados na Resolução do Conselho de Ministros n.º 126-A/2025, de 28 de agosto."
+  },
+  "934043875": {
+   "fragment_id": "934043775",
+   "type": 11,
+   "heading": "Artigo 3.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de elegibilidade\n\nOs candidatos ao apoio previsto na presente portaria devem ser detentores efetivos pecuários identificados e registados na base de dados de apoio ao Sistema Nacional de Informação e Registo Animal (SNIRA), cujas explorações se situam nas freguesias dos concelhos identificados em resolução do Conselho de Ministros, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto."
+  },
+  "934044075": {
+   "fragment_id": "934043975",
+   "type": 11,
+   "heading": "Artigo 4.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dotação orçamental\n\nA dotação global afeta ao apoio previsto na presente portaria é de 543 000 €."
+  },
+  "934044275": {
+   "fragment_id": "934044175",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma e cálculo dos montantes do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma e cálculo dos montantes do apoio\n\n1 - O apoio previsto no presente capítulo assume a forma de ajuda forfetária, não reembolsável.\n\n2 - O montante do apoio é calculado de acordo com os seguintes valores:\n\na) Bovinos das raças de vocação carne:\n\ni) 36 € por macho ou fêmea com idade igual ou superior a 24 meses, registados no SNIRA em nome do produtor no dia 1 de agosto de 2025;\n\nii) 24 € por macho ou fêmea com idade inferior a 24 meses, registados no SNIRA em nome do produtor no dia 1 de agosto de 2025;\n\nb) Ovinos e caprinos - 12 € por ovino ou caprino registado no SNIRA em nome do produtor no dia 1 de agosto de 2025."
+  },
+  "934044475": {
+   "fragment_id": "934044375",
+   "type": 11,
+   "heading": "Artigo 6.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Auxílios de Estado\n\n1 - Os apoios previstos na presente portaria são concedidos de acordo com as condições previstas no Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, na sua versão atual, referente aos auxílios de minimis no setor agrícola.\n\n2 - Os apoios a conceder no âmbito da presente portaria são cumuláveis com outros auxílios de minimis, qualquer que seja a sua forma ou o objetivo prosseguido, e independentemente de serem financiados, no todo ou em parte, por recursos da União Europeia, encontrando-se o resultado dessa cumulação sujeito aos limites previstos no Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, na sua versão atual.\n\n3 - Caso se verifique que o montante individual do apoio excecional de crise venha a ultrapassar o limite estipulado no Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, na sua versão atual, o valor do mesmo por beneficiário é ajustado, reduzindo-se na proporção do excesso verificado e diminuindo-se, em conformidade, o montante individual do apoio.\n\n4 - Para verificação do cumprimento das condições previstas no referido Regulamento, os beneficiários devem deter CAE de produção agrícola ou pecuária e estar inscritos no Balcão dos Fundos."
+  },
+  "934044675": {
+   "fragment_id": "934044575",
+   "type": 1,
+   "heading": "Capítulo II — PROCEDIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — PROCEDIMENTO"
+  },
+  "934044875": {
+   "fragment_id": "934044775",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas aos apoios previstos na presente portaria são submetidas eletronicamente através do formulário próprio disponível no portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt.\n\n2 - O período de submissão de candidaturas é divulgado no portal do IFAP, I. P., em www.ifap.pt."
+  },
+  "934045075": {
+   "fragment_id": "934044975",
+   "type": 11,
+   "heading": "Artigo 8.º — Análise, decisão e pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Análise, decisão e pagamento\n\n1 - As candidaturas são analisadas e decididas pelo IFAP, I. P., de acordo com os critérios de elegibilidade, previstos na presente portaria.\n\n2 - O pagamento do apoio é efetuado pelo IFAP, I. P., aos beneficiários."
+  },
+  "934045275": {
+   "fragment_id": "934045175",
+   "type": 11,
+   "heading": "Artigo 9.º — Recuperação de pagamentos indevidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recuperação de pagamentos indevidos\n\n1 - Em caso de pagamento indevido, o IFAP, I. P., promove a respetiva recuperação, mediante notificação para reembolso voluntário, ou coercivamente, mediante execução fiscal, caso o beneficiário não devolva as ajudas indevidamente recebidas no prazo constante daquela notificação.\n\n2 - Sobre os valores a reembolsar nos termos do número anterior incidem juros legais, calculados pela aplicação da taxa de juro legal ao montante indevido, desde o termo do prazo fixado na notificação para reembolso voluntário das ajudas indevidamente recebidas até ao efetivo e integral reembolso das mesmas."
+  },
+  "934045475": {
+   "fragment_id": "934045375",
+   "type": 11,
+   "heading": "Artigo 10.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gestão orçamental\n\nCaso o montante afeto às candidaturas aprovadas ultrapasse o valor definido no artigo 4.º, o pagamento a cada um dos beneficiários é objeto de redução proporcional entre os candidatos."
+  },
+  "934045675": {
+   "fragment_id": "934045575",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "934045875": {
+   "fragment_id": "934045775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura e Mar, José Manuel Fernandes, em 29 de agosto de 2025.\n\n119484992"
+  },
+  "946245875": {
+   "fragment_id": "934043975",
+   "type": 11,
+   "heading": "Artigo 4.º — Dotação orçamental",
+   "in_force_from": "2025-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 393/2025/1 - Diário da República n.º 220/2025, Série I de 2025-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/393-2025-945966854), em vigor a partir de 2025-11-14"
+   ],
+   "markdown": "###### Artigo 4.º — Dotação orçamental\n\nA dotação global afeta ao apoio previsto na presente portaria é de 2 100 000,00 €.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 393/2025/1 - Diário da República n.º 220/2025, Série I de 2025-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/393-2025-945966854), em vigor a partir de 2025-11-14"
+  }
+ }
+}

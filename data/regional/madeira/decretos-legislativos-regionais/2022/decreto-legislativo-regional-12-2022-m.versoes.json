@@ -1,0 +1,280 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:184108568:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-184105539",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2022-184108568",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "183912740",
+    "183912741",
+    "183912742",
+    "183912743",
+    "183912744",
+    "183912745",
+    "183912746",
+    "183912747",
+    "183912748",
+    "183912749",
+    "183912750",
+    "183912751",
+    "183912752",
+    "183912753",
+    "183912754",
+    "183912755",
+    "183912756",
+    "183912757",
+    "183912758",
+    "183912759",
+    "183912760",
+    "183912761",
+    "183912762",
+    "183912763",
+    "183912764",
+    "183912765",
+    "183912766",
+    "183912767"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:186029191:por",
+     "title": "Declaração de Retificação n.º 3/2022/M",
+     "published": "2022-07-13",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/3-2022-186029191",
+     "date": "2022-05-31"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "183912740": {
+   "fragment_id": "184105540",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 12/2022/M\n\nSumário: Adapta à Região Autónoma da Madeira a Lei n.º 39/2012, de 28 de agosto, e estabelece o regime jurídico regional da responsabilidade técnica pela direção e orientação do exercício físico e das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da promoção da condição física e da saúde.\n\nRegime jurídico regional da responsabilidade técnica pela direção e orientação do exercício físico e das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da promoção da condição física e da saúde - Adapta à Região Autónoma da Madeira a Lei n.º 39/2012, de 28 de agosto.\n\nO Decreto Legislativo Regional n.º 12/96/M, de 6 de julho, estabeleceu o regime de constituição e funcionamento dos ginásios de manutenção e instalações similares na Região Autónoma da Madeira, atendendo às lacunas de legislação registadas à época.\n\nA nível nacional, a Lei n.º 39/2012, de 28 de agosto, antecedida pelo Decreto-Lei n.º 271/2009, de 1 de outubro, veio definir o regime jurídico da responsabilidade técnica pela direção das atividades físicas e desportivas desenvolvidas nas instalações desportivas que prestam serviços desportivos na área da promoção da condição física e da saúde através do exercício físico (fitness), designadamente os ginásios, academias ou clubes de saúde (healthclubs), independentemente da designação adotada e forma de exploração, bem como determinadas regras sobre o seu funcionamento.\n\nVolvidos tantos anos, e considerando a procura exponencial por atividades físicas desportivas, bem como de outros serviços desportivos na área da condição física, urge continuar a assegurar a sua qualidade, através de medidas adequadas para que essas atividades decorram em segurança e tendo o bem-estar e saúde dos praticantes como pilar.\n\nNão se pode deixar de reconhecer que a competência e qualificação dos profissionais é medida indissociável de um serviço de qualidade e forma de garantir a defesa da saúde e da segurança de todos os utilizadores desportivos.\n\nPelo lapso temporal, importa, na atualidade, proceder à criação de um novo regime, devidamente adaptado à realidade e necessidade regionais, revogando-se o Decreto Legislativo Regional n.º 12/96/M, de 6 de julho, e a Portaria n.º 13/2000, de 29 de fevereiro.\n\nO presente decreto legislativo regional vem, então, adaptar à Região Autónoma da Madeira, o regime da responsabilidade técnica pela direção e orientação do exercício físico e das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços na área da promoção da condição física e da saúde através do exercício físico (fitness), nos ginásios, academias ou clubes de saúde (healthclubs).\n\nA aplicação deste novo regime salvaguarda de forma transitória e cuidada todos aqueles que ao longo do tempo têm desenvolvido a sua atividade profissional na Região.\n\nAssim, a Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º e nas alíneas s) e vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "183912741": {
+   "fragment_id": "184105541",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "183912742": {
+   "fragment_id": "184105542",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto legislativo regional adapta à Região Autónoma da Madeira o regime da responsabilidade técnica pela direção e orientação do exercício físico e das atividades desportivas desenvolvidas nas instalações desportivas que prestam serviços na área da promoção da condição física e da saúde através do exercício físico (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs), doravante designados por «ginásio», aprovado pela Lei n.º 39/2012, de 28 de agosto."
+  },
+  "183912743": {
+   "fragment_id": "184105543",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto legislativo regional entende-se por:\n\na) «Exercício físico», o processo estratégico de aplicação de forças, que estimula adaptações positivas que promovam a boa forma física e a saúde;\n\nb) «Atividade desportiva», a atividade física regulamentada, de caráter individual ou coletivo, cuja finalidade é alcançar o melhor resultado ou vencer uma competição;\n\nc) «Diretor técnico (DT)», a pessoa singular que assume a direção e a responsabilidade técnica pelo exercício físico e atividade desportiva, desenvolvidas no ginásio;\n\nd) «Técnico de exercício físico (TEF)», a pessoa singular responsável por avaliar e orientar o exercício físico e atividade desportiva para cada um dos utentes do ginásio, sob coordenação e supervisão do DT."
+  },
+  "183912744": {
+   "fragment_id": "184105544",
+   "type": 1,
+   "heading": "Capítulo II — Direção e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direção e responsabilidade"
+  },
+  "183912745": {
+   "fragment_id": "184105545",
+   "type": 11,
+   "heading": "Artigo 3.º — Cumulação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cumulação de funções\n\n1 - As funções do DT são exercidas no ginásio para o qual foi indicado, não sendo cumulativo o seu desempenho noutras entidades da mesma natureza, exceto se forem exercidas em ginásios que sejam propriedade ou alvo de exploração pela mesma entidade.\n\n2 - A cumulação de funções referida no número anterior está limitada ao número máximo de dois ginásios por cada DT.\n\n3 - O DT pode exercer funções de TEF."
+  },
+  "183912746": {
+   "fragment_id": "184105546",
+   "type": 11,
+   "heading": "Artigo 4.º — Plataforma regional dos ginásios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Plataforma regional dos ginásios\n\nO serviço da administração pública regional que prossegue as atribuições do setor do desporto deve criar uma plataforma informática para gerir todas as questões relacionadas com os ginásios, nomeadamente promover o registo individual de cada DT e TEF, devendo constar os seguintes elementos:\n\na) Identificação pessoal;\n\nb) Habilitações académicas ou qualificações profissionais;\n\nc) Título profissional ou títulos profissionais, data de emissão e datas das sucessivas renovações;\n\nd) Data e motivo da revogação ou data da caducidade do título profissional;\n\ne) Ações de formação frequentadas com aproveitamento;\n\nf) Identificação dos ginásios onde exerce o cargo."
+  },
+  "183912747": {
+   "fragment_id": "184105547",
+   "type": 11,
+   "heading": "Artigo 5.º — Emissão dos títulos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Emissão dos títulos profissionais\n\n1 - Nos 10 dias úteis seguintes à receção da candidatura, o serviço da administração pública regional que prossegue as atribuições do setor do desporto comunica ao candidato a decisão de conformidade ou a necessidade de correções.\n\n2 - Verificando-se a necessidade de correções, o candidato é convidado a suprir as deficiências existentes, no prazo de 10 dias úteis, sob pena de indeferimento da candidatura.\n\n3 - O prazo de análise de candidaturas pode ser prorrogado até ao máximo de 60 dias seguidos, desde que devidamente justificado.\n\n4 - Os títulos profissionais devem ser emitidos pelo serviço da administração pública regional que prossegue as atribuições do setor do desporto no prazo máximo de 30 dias úteis a contar do termo dos prazos referidos nos números anteriores.\n\n5 - Os modelos dos títulos profissionais são definidos por portaria do membro do Governo Regional com atribuições no setor do desporto."
+  },
+  "183912748": {
+   "fragment_id": "184105548",
+   "type": 11,
+   "heading": "Artigo 6.º — Revalidação dos títulos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Revalidação dos títulos profissionais\n\nA revalidação dos títulos profissionais é efetuada através de plataforma informática referida no artigo 4.º, ou em formulário on-line, disponível na página do serviço da administração pública regional que prossegue as atribuições do setor do desporto."
+  },
+  "183912749": {
+   "fragment_id": "184105549",
+   "type": 11,
+   "heading": "Artigo 7.º — Cancelamento da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cancelamento da inscrição\n\n1 - Quando um DT deixar de exercer funções, o ginásio ou o próprio devem, no prazo máximo de três dias úteis, contados a partir dessa data, solicitar ao serviço da administração pública regional que prossegue as atribuições do setor do desporto, o cancelamento da sua inscrição.\n\n2 - O ginásio deverá proceder à alteração do DT no prazo máximo de cinco dias úteis, após o cancelamento da inscrição do DT anterior e apresentar àquele serviço público nova candidatura para verificação da conformidade, nos termos da legislação em vigor."
+  },
+  "183912750": {
+   "fragment_id": "184105550",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento dos ginásios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento dos ginásios"
+  },
+  "183912751": {
+   "fragment_id": "184105551",
+   "type": 11,
+   "heading": "Artigo 8.º — Monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Monitorização\n\nPara efeitos de monitorização devem ser enviados ao serviço da administração pública regional que prossegue as atribuições do setor do desporto:\n\na) Comprovativo de todos os seguros legalmente exigidos por lei;\n\nb) Manual de operações;\n\nc) Regulamento interno."
+  },
+  "183912752": {
+   "fragment_id": "184105552",
+   "type": 11,
+   "heading": "Artigo 9.º — Acesso e permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acesso e permanência\n\nSem prejuízo do disposto na lei, a assistência ao exercício físico e atividades desportivas só é permitida quando tal conste do regulamento interno do ginásio, salvaguardando-se o direito de interdição sempre que tal comprometa o bem-estar, privacidade e a segurança dos utentes e das instalações."
+  },
+  "183912753": {
+   "fragment_id": "184105553",
+   "type": 11,
+   "heading": "Artigo 10.º — Atividades desenvolvidas fora de ginásios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Atividades desenvolvidas fora de ginásios\n\nAs atividades que se desenvolvam de forma regular em espaços que não sejam o ginásio, incluindo locais de acesso público, residências ou através de plataformas digitais, devem cumprir com o disposto na Lei n.º 39/2012, de 28 de agosto, e no presente decreto legislativo regional, com as necessárias adaptações."
+  },
+  "183912754": {
+   "fragment_id": "184105554",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e sanções"
+  },
+  "183912755": {
+   "fragment_id": "184105555",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazos de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazos de fiscalização\n\nAs autoridades administrativas e policiais que verifiquem infrações ao disposto no presente decreto legislativo regional devem elaborar os respetivos autos de notícia e remetê-los à Autoridade Regional das Atividades Económicas (ARAE), no prazo máximo de 15 dias úteis."
+  },
+  "183912756": {
+   "fragment_id": "184105556",
+   "type": 11,
+   "heading": "Artigo 12.º — Vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vistorias\n\n1 - A ARAE, sempre que considere necessário, pode realizar vistorias aos ginásios, de forma a averiguar o cumprimento da lei, nomeadamente:\n\na) Verificação da existência dos seguros legalmente exigidos e afixação dos mesmos;\n\nb) Afixação da identificação dos DT e TEF e respetivos horários de presença;\n\nc) Títulos profissionais dos técnicos;\n\nd) Regulamento interno;\n\ne) Atividades interditas;\n\nf) Livro de reclamações;\n\ng) Condições gerais dos equipamentos e instalações.\n\n2 - O serviço da administração pública regional que prossegue as atribuições do setor do desporto pode solicitar à ARAE a realização de vistorias aos ginásios."
+  },
+  "183912757": {
+   "fragment_id": "184105557",
+   "type": 11,
+   "heading": "Artigo 13.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contraordenações\n\n1 - Constitui contraordenação leve:\n\na) A não afixação da identificação dos DT e TEF;\n\nb) A não afixação de informação sobre a existência do seguro;\n\nc) A não disponibilidade do regulamento interno.\n\n2 - Constitui contraordenação grave:\n\na) O exercício da atividade de formação por entidade formadora em violação da lei;\n\nb) A falta de regulamento interno.\n\n3 - Constitui contraordenação muito grave:\n\na) O exercício da atividade de DT sem título profissional ou sem título profissional válido;\n\nb) O exercício da atividade de TEF sem título profissional ou sem título profissional válido;\n\nc) A contratação de recursos humanos para o desempenho de funções de DT e TEF sem título profissional válido, ou que não exerçam legalmente atividade em território nacional ao abrigo do regime de livre prestação de serviços;\n\nd) A avaliação, planeamento e prescrição das atividades físicas desportivas aos utentes por parte do TEF sem a coordenação e supervisão do DT;\n\ne) A abertura e funcionamento de instalação desportiva sem um DT;\n\nf) A falta de seguros obrigatórios por lei;\n\ng) A posse, recomendação ou comercialização de quaisquer substâncias ou métodos que constem da lista de substâncias e métodos proibidos a que se refere a lei antidopagem no desporto;\n\nh) A oposição ou obstrução aos atos de inspeção e vistorias a realizar pelas entidades competentes e a recusa em facultar a estas entidades os elementos e esclarecimentos por elas solicitados."
+  },
+  "183912758": {
+   "fragment_id": "184105558",
+   "type": 11,
+   "heading": "Artigo 14.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Coimas\n\nOs limites mínimos e máximos das coimas aplicáveis às contraordenações previstas no presente diploma são definidos pelo Regime Jurídico das Contraordenações Económicas, em anexo ao Decreto-Lei n.º 9/2021, de 29 de janeiro."
+  },
+  "183912759": {
+   "fragment_id": "184105559",
+   "type": 11,
+   "heading": "Artigo 15.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Produto das coimas\n\nO produto das coimas, no âmbito dos processos de contraordenação referidos no presente decreto legislativo regional, reverte em:\n\na) 60 % para o Governo Regional;\n\nb) 40 % para a ARAE."
+  },
+  "183912760": {
+   "fragment_id": "184105560",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares, transitórias e finais"
+  },
+  "183912761": {
+   "fragment_id": "184105561",
+   "type": 11,
+   "heading": "Artigo 16.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Taxas\n\nOs serviços prestados, no âmbito do presente diploma, pelo serviço da administração pública regional que prossegue as atribuições do setor do desporto estão sujeitos a taxas cujos valores são fixados por portaria conjunta dos membros do Governo Regional com atribuições no setor do desporto e das finanças."
+  },
+  "183912762": {
+   "fragment_id": "184105562",
+   "type": 11,
+   "heading": "Artigo 17.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposição transitória\n\n1 - Os responsáveis técnicos com inscrição válida ao abrigo do Decreto Legislativo Regional n.º 12/96/M, de 6 de julho, licenciados nas áreas do desporto, educação física ou similares, tal como identificadas pela direção-geral competente em matéria do ensino superior, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de DT ou de TEF.\n\n2 - Os responsáveis técnicos com inscrição válida ao abrigo do Decreto Legislativo Regional n.º 33/2002/A, de 5 de novembro, não licenciados, mantêm a sua inscrição válida até ao fim do respetivo prazo, devendo, findo o mesmo, requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto a emissão de título profissional de TEF, desde que cumpram os seguintes requisitos:\n\na) Nível de qualificação do Quadro Nacional de Qualificações: nível 5;\n\nb) Nível de qualificação do Quadro Europeu das Qualificações: nível 5;\n\nc) Número de horas previsto no Catálogo Nacional de Qualificações.\n\n3 - Os responsáveis técnicos com inscrição válida ao abrigo do Decreto Legislativo Regional n.º 33/2002/A, de 5 de novembro, não licenciados e que não cumpram os requisitos elencados no número anterior, devem requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto, no prazo máximo de 30 dias a contar da entrada em vigor do presente diploma, a emissão de um título provisório para o exercício de funções de TEF, válido por um ano e prorrogável no máximo até três anos, desde que demonstrada a frequência de formação tendente à regularização da sua formação nos termos do número anterior."
+  },
+  "183912763": {
+   "fragment_id": "184105563",
+   "type": 11,
+   "heading": "Artigo 18.º — Desmaterialização de procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Desmaterialização de procedimentos\n\nA tramitação dos procedimentos previstos no presente diploma é realizada através de plataforma eletrónica criada para o efeito ou por qualquer outro meio legal."
+  },
+  "183912764": {
+   "fragment_id": "184105564",
+   "type": 11,
+   "heading": "Artigo 19.º — Adaptações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Adaptações orgânicas\n\n1 - As referências feitas ao Instituto Português do Desporto e da Juventude, I. P. (IPDJ), devem ser entendidas como sendo feitas ao serviço da administração pública regional que prossegue as atribuições do setor do desporto, sempre que legalmente aplicável.\n\n2 - As referências feitas à Autoridade de Segurança Alimentar e Económica (ASAE) devem ser entendidas como sendo feitas à ARAE."
+  },
+  "183912765": {
+   "fragment_id": "184105565",
+   "type": 11,
+   "heading": "Artigo 20.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regulamentação\n\nA regulamentação do presente diploma será definida por portaria do membro do Governo Regional responsável pela área do desporto."
+  },
+  "183912766": {
+   "fragment_id": "184105566",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 12/96/M, de 6 de julho, e a Portaria n.º 13/2000, de 29 de fevereiro."
+  },
+  "183912767": {
+   "fragment_id": "184105567",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

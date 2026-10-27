@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:176760:por
+title: Portaria n.º 715/85
+short_title: null
+summary: Regulamenta o Decreto-Lei n.º 45/84, de 3 de Fevereiro, que define um conjunto de medidas relativas a incentivos
+  para a fixação na periferia de pessoal da função pública
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios da Administração Interna e das Finanças e do Plano
+proposing_entity: null
+official_number: 715/85
+official_date: null
+publication_date: '1985-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 220/1985, Série I de 1985-09-24
+  number: '220'
+  series: I
+  supplement: null
+  pages: 3147 - 3150
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/09/22000/31473150.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '176760'
+  dre_path: /dr/detalhe/portaria/715-1985-176760
+  internal: pt:dre:176760:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1985-176760
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1985-176760
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9dfffb8aef87d2eecbf9ef1838a79a0f657ec9b922063c8a2c285baaa138e1a8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:33:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Função Pública
+- Infracção Disciplinar
+- Mobilidade de Pessoal
+- Subsídio de Deslocação
+- Subsídio de Fixação
+- Subsídio de Residência
+relationships:
+- type: amended_by
+  target: pt:dre:310381:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:663359:por
+  label: "Alterada a al a) do num 5, os nums 18 a 24 e o num 26, revogado o num 25 e alterado o mapa a que se refere o num\
+    \ 35 pela PORT.56/87.1987.01.23.MF, DR.IS [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-1987-663359
+  date: '1987-01-23'
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310381:por
+  label: "Revogado o presente diploma, na redacção da Port 56/87, de 23-Jan, pelo DEC LEI.190/99.1999.06.05.PCM,DR.IS-A [130]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1999-310381
+  date: '1999-06-05'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:33:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 715/85
+
+de 24 de Setembro
+
+1. A existência de grandes assimetrias na repartição geográfica dos recursos humanos da Administração Pública e as dificuldades com que os organismos ou serviços desconcentrados da administração central e as autarquias locais se defrontam no recrutamento de pessoal, sobretudo daquele que faz apelo a qualificações profissionais mais exigentes, são consequência da inexistência de uma política de desenvolvimento equilibrado.
+
+2. A atribuição de incentivos motivadores à deslocação de pessoal para zonas de periferia, desde que enquadrada no âmbito de uma correcta coordenação de políticas sectoriais de desconcentração e descentralização, constitui uma contribuição, ainda que limitada, para o desenvolvimento regional. Ponto é que o desenvolvimento regional seja assumido.
+
+Doutra perspectiva, a institucionalização dos presentes incentivos representa pôr à disposição da Administração um mecanismo de reequilíbrio da repartição geográfica de recursos humanos, o qual, desde que correctamente utilizado, deverá contribuir para o acréscimo da capacidade técnica dos níveis periféricos desconcentrados, descentralizados ou autárquicos.
+
+3. Importa, ainda, realçar que o recurso à atribuição de incentivos à deslocação para zonas de periferia visa a inserção social e a ulterior radicação do pessoal abrangido nessas zonas, o que constituirá um factor de indução, não despiciendo, do desenvolvimento regional.
+
+4. A fim de conferir operacionalidade e eficácia ao sistema da atribuição de incentivos, deverá ser designado, no âmbito de cada departamento governamental, um serviço gestor, que assegurará a execução das medidas sectorialmente definidas.
+
+5. É de sublinhar, finalmente, o carácter experimental e transitório dos agrupamentos de municípios, por zonas periféricas, constantes do mapa anexo ao presente diploma, os quais, estudados e sugeridos pela Secretaria de Estado do Desenvolvimento Regional, devem ser objecto de correcção tão depressa a experiência o aconselhe.
+
+Nestes termos, considerando o disposto no artigo 10.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, o seguinte:
+
+1.º O regime previsto no [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro, aplica-se, nos termos e condições definidos na presente portaria, aos grupos de pessoal dirigente, técnico superior, técnico e técnico-profissional que passem a exercer funções em serviços ou organismos desconcentrados ou nas autarquias locais.
+
+2.º A deslocação dos funcionários para os serviços desconcentrados e para as autarquias locais faz-se em regime de comissão de serviço, nos termos do artigo 4.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, quando se trate de pessoal dirigente, e por transferência, nos termos do artigo 23.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, para o restante pessoal referido no n.º 1 do artigo 1.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro.
+
+3.º Tratando-se de colocação por interesse público, a deslocação pode fazer-se por transferência ou destacamento, nos termos do artigo 9.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro, garantindo-se em tais casos a colocação do cônjuge, funcionário ou agente, nos termos do artigo 4.º, n.º 3, daquele decreto-lei.
+
+4.º É garantido ao pessoal abrangido por este diploma, após a permanência por um período mínimo de 5 anos nas autarquias locais, nos termos da presente portaria, candidatar-se a concurso interno para os quadros dos serviços ou organismos da administração central e dos institutos públicos, não podendo, porém, quanto a ele, ser utilizado nenhum dos restantes instrumentos de mobilidade previstos na lei, sem prejuízo de esses instrumentos poderem ser utilizados para permitir a mobilidade entre autarquias locais.
+
+5.º Em cada departamento governamental será designado um serviço gestor, normalmente o serviço competente em matéria de organização e pessoal, ao qual compete, tendo em atenção os objectivos e prioridades da política de desenvolvimento regional:
+
+a) Centralizar os pedidos de pessoal dos serviços desconcentrados e, na base dos mesmos, elaborar programa de repartição de recursos humanos por esses serviços, a submeter à aprovação do respectivo membro do Governo, após o que apresentarão ao Ministério das Finanças e do Plano o competente projecto de orçamento para os efeitos referidos no n.º 8.º;
+
+b) Preparar e submeter a despacho do respectivo membro do Governo os avisos respeitantes à existência de vagas a preencher nos termos do n.º 2.º, devendo tais avisos ser publicados na 2.ª série do Diário da República.
+
+6.º A atribuição de incentivos ao pessoal deslocado para serviços desconcentrados nos termos previstos nos n.os 2.º e 3.º fica condicionada à aprovação do membro do Governo competente constante do despacho que autorizar o provimento do lugar, precedendo parecer do serviço gestor.
+
+7.º À Direcção-Geral de Emprego e Formação da Administração Pública incumbe, para efeitos de transferência para as autarquias locais, nos termos do n.º 7 do artigo 23.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, bem como para efeitos de colocação nos termos da alínea b) do n.º 2 do artigo 11.º do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro, o desempenho das funções a que se referem os n.os 5.º e 6.º anteriores, com as devidas adaptações.
+
+8.º O montante global das despesas a cobrir anualmente com os incentivos à periferia será inscrito no capítulo 60 do orçamento do Ministério das Finanças e do Plano, de acordo com os programas previstos na alínea a) do n.º 5.º e com o previsto no n.º 7.º
+
+9.º Independentemente do disposto no n.º 2.º, as autarquias locais, quando o entenderem necessário, por ser indispensável para o aumento da sua capacidade técnica, podem, mediante concurso interno, atribuir os incentivos previstos no presente diploma à deslocação de pessoal da administração central que venha a ser provido em consequência dos competentes concursos, sem sujeição, porém, aos limites quantitativos decorrentes do agrupamento de municípios por zonas de reduzida, média e extrema periferia.
+
+10.º A satisfação dos encargos decorrentes do disposto no número anterior será suportada por dotação adequada, a inscrever nos orçamentos das autarquias interessadas.
+
+11.º O subsídio de deslocação referido no artigo 2.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro, é atribuído no momento da deslocação para a periferia.
+
+12.º Os abonos para as despesas de viagem são de montante equivalente ao custo das passagens do funcionário ou agente e respectivo agregado familiar, em transporte público ou em viatura própria, segundo os montantes fixados na portaria.
+
+13.º Para efeitos do disposto no número anterior consideram-se como fazendo parte do agregado familiar:
+
+a) O cônjuge;
+
+b) Os ascendentes e descendentes de ambos os cônjuges, ou equiparados que vivam em economia comum com o funcionário ou agente, entendendo-se:
+
+Por equiparados a ascendentes, os adoptantes de um e outro e bem assim os dos seus ascendentes, os padrastos e madrastas, os afins e os compreendidos na linha recta ascendente além do 1.º grau, doravante designados por equiparados;
+
+Por equiparados a descendentes, os tutelados, os adoptados e os menores que por sentença judicial lhes forem confiados e os menores que pretendam adoptar, desde que tenham procedido à comunicação prevista no n.º 1 do artigo 1.º do [Decreto-Lei n.º 274/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1984-382244), de 13 de Agosto, e os mesmos lhes estejam confiados, de direito ou de facto, e a seu cargo, doravante designados por equiparados.
+
+14.º Os abonos para pagamento das despesas de transporte dos móveis e bagagens do funcionário ou agente e do seu agregado familiar são equivalentes aos respectivos encargos, dentro dos seguintes limites:
+
+a) Até 3 t, ou 20 m3, quando não haja ascendentes ou descendentes a cargo;
+
+b) Até 5 t, ou 30 m3, nas demais situações.
+
+15.º O seguro de bagagens e do mobiliário não poderá exceder o limite correspondente a vinte vezes o montante do vencimento base mensal do funcionário ou agente.
+
+16.º O direito aos abonos para despesas de viagem do agregado familiar, bem como para o transporte dos móveis e bagagens referido no n.º 14.º, cessa decorrido 1 ano após o início de funções do funcionário ou agente na periferia.
+
+17.º O funcionário ou agente que se desloque para a periferia terá direito a faltar até 5 dias no período imediatamente anterior ou posterior à viagem, correspondendo essa ausência a prestação efectiva de serviço, para todos os efeitos.
+
+18.º O subsídio para a fixação na periferia previsto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro, será de montante igual ao vencimento base multiplicado pelo factor 7, 10 ou 14, consoante se trate, respectivamente, de deslocação para a zona A, B ou C.
+
+19.º O subsídio de residência previsto nos n.os 1 e 3 do artigo 3.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852) é, no ano em curso, de montante igual a 10000$00 para qualquer das três zonas consideradas.
+
+20.º O montante do subsídio de residência será revisto anualmente, de acordo com o coeficiente de actualização das rendas condicionadas fixado nos termos do n.º 2 do artigo 7.º do [Decreto-Lei n.º 148/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1981-574334), de 4 de Junho.
+
+21.º O subsídio de residência, para além de não ser acumulável com o abono de ajudas de custo ou qualquer outro abono que vise compensar despesas de alojamento, também não será atribuído quando:
+
+a) O funcionário ou agente possua ou venha a adquirir habitação própria ou do cônjuge a menos de 30 km do local da nova colocação;
+
+b) O cônjuge beneficie de subsídio idêntico e dele não prescinda.
+
+22.º Para efeitos de prova dos requisitos constantes das alíneas a) e b) do número anterior o funcionário ou agente tem de apresentar os seguintes documentos:
+
+a) Contrato de arrendamento da nova habitação ou fotocópia autenticada do mesmo;
+
+b) Recibo comprovativo do pagamento, quando se utilize alojamento diferente do referido na alínea anterior;
+
+c) Declaração passada pelo serviço do cônjuge do funcionário ou agente de que o mesmo não aufere subsídio de idêntica natureza ou dele prescindiu.
+
+23.º Se o funcionário ou agente ou ainda o cônjuge vier a adquirir habitação própria a menos de 30 km do local da nova habitação em data posterior ao início de funções na periferia, deverá dar deste facto imediato conhecimento ao respectivo serviço.
+
+24.º O direito à percepção integral do subsídio de residência cessa:
+
+a) Desde que ocorra a situação referida no número anterior, continuando o funcionário ou agente na periferia;
+
+b) Ao fim de 5 anos de permanência na periferia, independentemente da zona onde foi inicialmente colocado.
+
+25.º O montante do subsídio atribuído no momento em que cessa o direito referido no número anterior será objecto de redução progressiva, até à respectiva extinção, durante os 3 anos subsequentes, de acordo com os seguintes critérios:
+
+a) No primeiro ano o subsídio de residência será reduzido a 60%;
+
+b) No segundo ano, a 30%;
+
+c) No terceiro ano, a 15%;
+
+d) No termo do terceiro ano extingue-se.
+
+26.º O não cumprimento do disposto nos n.os 22.º e 23.º, bem como as falsas declarações, implica a perda do subsídio de residência, a sua reposição e a eventual instauração de processo disciplinar.
+
+27.º A garantia de inscrição ou transferência escolar dos descendentes ou equiparados de qualquer dos cônjuges sem observância do limite de inscrição ou do numerus clausus, prevista na alínea a) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro, só se verificará quando:
+
+a) A permanência do funcionário ou agente ocorrer em zona de extrema periferia por um período mínimo de 3 anos;
+
+b) A inscrição se processar em estabelecimento de ensino situado no município onde o funcionário ou agente for colocado ou, caso não haja estabelecimento adequado, no estabelecimento de ensino que se encontre mais próximo da localidade para onde o funcionário ou agente se deslocou.
+
+28.º A verificação de que o funcionário ou agente usou das vantagens conferidas pela presente portaria unicamente para usufruir do disposto no número anterior, não permanecendo nas zonas periféricas, como se propunha, constitui motivo para a instauração de procedimento disciplinar por procedimento gravemente atentatório da dignidade e prestígio do funcionário e dá lugar à reposição integral do subsídio de fixação, nos termos do n.º 2 do artigo 8..º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro.
+
+29.º Para além das condições descritas no artigo 7.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro, a atribuição dos incentivos para a periferia obriga ao exercício de funções por um período mínimo de 3 anos.
+
+30.º Para efeitos da contagem do período mínimo de 3 anos é considerado o tempo de permanência na periferia, independentemente da zona onde o funcionário ou agente foi inicialmente colocado, ressalvada a situação contemplada no n.º 27.º, caso em que o funcionário ou agente terá de permanecer 3 anos em zona de extrema periferia.
+
+31.º A movimentação para zona considerada de nível diverso não dá lugar à atribuição de qualquer complemento do subsídio de fixação inicialmente atribuído.
+
+32.º Os funcionários e agentes abrangidos por regimes remuneratórios especiais, bem como os que se integram em carreiras cujo desenvolvimento os obrigue a exercer funções em diferentes zonas do País, não beneficiam do subsídio para a fixação na periferia, podendo, no entanto, optar pelo subsídio de residência previsto no presente diploma.
+
+33.º Para efeitos do número anterior considera-se regime remuneratório especial o que confere ao respectivo pessoal complementos ou suplementos de remuneração para além do vencimento que decorre da correspondente letra ou da tabela autónoma de chefias, excluindo as remunerações por trabalho extraordinário, nocturno, em dias de descanso e em feriados, diuturnidades, subsídios de refeição, de férias e de Natal, abono de família e respectivas prestações complementares, senhas de presença, abono para falhas, ajudas de custo e subsídio de viagem e marcha atribuídos nos termos da lei geral.
+
+34.º O quantitativo de 10000$00 previsto no n.º 2 do artigo 12.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro, será actualizado de acordo com os critérios definidos no n.º 20.º da presente portaria para o subsídio de residência.
+
+35.º As zonas de reduzida, média e extrema periferia previstas no artigo 6.º do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), abreviadamente designadas por zonas A, B e C, respectivamente, são as constantes do mapa anexo à presente portaria.
+
+36.º O mapa referido no número anterior tem carácter transitório, devendo ser alterado logo que a experiência colhida na sua aplicação o aconselhe.
+
+37.º A presente portaria entra em vigor com o início da vigência do Orçamento do Estado para 1986.
+
+Presidência do Conselho de Ministros e Ministérios da Administração Interna e das Finanças e do Plano.
+
+Assinada em 13 de Setembro de 1985.
+
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
+
+Mapa a que se refere o n.º 35.º
+
+Zona A - Zona de reduzida periferia
+
+Agrupamento de municípios definido nos termos do anexo I ao [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, e legislação complementar:
+
+Águeda, Aveiro, Barcelos, Braga, Caldas da Rainha, Évora, Fafe, Faro, Figueira da Foz, Leiria, Penafiel, Portimão, Riba de Ave, Salvaterra de Magos, Santarém, São João da Madeira, Tomar, Torres Novas e Torres Vedras.
+
+Zona B - Zona de média periferia
+
+Agrupamento de municípios definido nos termos do anexo I ao [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, e legislação complementar:
+
+Abrantes, Amarante, Beja, Castelo Branco, Covilhã, Grândola, Guarda, Lousã, Montemor-o-Novo, Portalegre, Santa Comba Dão, Tavira, Valença, Viana do Castelo, Vila Real e Viseu.
+
+Zona C - Zona de extrema periferia
+
+Agrupamento de municípios definido nos termos do anexo I ao [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, e legislação complementar:
+
+Arganil, Bragança, Castro Verde, Chaves, Elvas, Estremoz, Figueiró dos Vinhos, Lamego, Mirandela, Moura, Pinhel, São Pedro do Sul, Seia, Sertã, Torre de Moncorvo e Trancoso.

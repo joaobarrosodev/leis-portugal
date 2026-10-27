@@ -1,0 +1,922 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0073:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0073-20220127",
+ "dre_path": null,
+ "source_lastmod": "2022-01-27",
+ "versions": [
+  {
+   "date": "2010-01-27",
+   "future": false,
+   "celex": "32010R0073",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8c6dd4a19a708740",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "a08cc70db56c1ce3",
+    "6dc7b60bd8727674",
+    "75c24c9ebe07a77b",
+    "f0f8c960bfdbce9b",
+    "5ebd40be53f20411",
+    "41899e87b61a7f51",
+    "95df2e7c5b00e3cd",
+    "4f87f7ec50c43db0",
+    "eae11c900c693060",
+    "3f33ebc026fc8f1f",
+    "dd089a8e7c4a30c9",
+    "1e7a0903d2eed348",
+    "59b492121ccaedf7",
+    "82a93437fcfb9952",
+    "1ecfc79da3f1ac7f",
+    "9fde5cc1a5255ac6",
+    "6f1f3a1c2e4abd66",
+    "684d96e2984144ae",
+    "51872477843331e4",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "e05fd2b38d386f25",
+    "825b7fdeed6b5ea0",
+    "892fd402cae4c430"
+   ]
+  },
+  {
+   "date": "2014-10-20",
+   "future": false,
+   "celex": "02010R0073-20141020",
+   "acts": [
+    {
+     "id": "eu:celex:32014R1029:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1029/2014 DA COMISSÃO de 26 de setembro de 2014",
+     "published": null,
+     "celex": "32014R1029"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 6.º — Qualidade dos dados",
+    "Altera Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal",
+    "Altera Artigo 10.º — Requisitos de gestão",
+    "Altera Artigo 15.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita ESPECIFICAÇÕES PARA OS CONJUNTOS DE DADOS REFERIDOS NO ARTIGO 4.º",
+    "Adita PARTE A",
+    "Adita IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos",
+    "Adita PARTE B",
+    "Adita Conjuntos de dados electrónicos sobre o terreno",
+    "Adita PARTE C",
+    "Adita Metadados",
+    "Adita ANEXO II",
+    "Adita REQUISITOS APLICÁVEIS AO FORMATO DE INTERCÂMBIO DE DADOS AERONÁUTICOS REFERIDOS NO ARTIGO 5.º",
+    "Adita Dados electrónicos sobre o terreno",
+    "Adita ANEXO III",
+    "Adita DISPOSIÇÕES REFERIDAS NO ARTICULADO E NOS ANEXOS",
+    "Adita ANEXO IV",
+    "Adita REQUISITOS DE QUALIDADE DOS DADOS REFERIDOS NOS ARTIGOS 6.º E 7.º",
+    "Adita Requisitos de qualidade dos dados",
+    "Adita Requisitos em matéria de prova",
+    "Adita Disposições formais",
+    "Adita PARTE D",
+    "Adita Originação de dados",
+    "Adita PARTE E",
+    "Adita Requisitos para o processo dos dados",
+    "Adita PARTE F",
+    "Adita Requisitos em matéria de notificação e rectificação de erros",
+    "Adita ANEXO V",
+    "Adita REQUISITOS APLICÁVEIS ÀS FERRAMENTAS E AO SOFTWARE REFERIDOS NO ARTIGO 8.º",
+    "Adita ANEXO VI",
+    "Adita REQUISITOS EM MATÉRIA DE PROTECÇÃO DE DADOS REFERIDOS NO ARTIGO 9.º",
+    "Adita ANEXO VII",
+    "Adita REQUISITOS EM MATÉRIA DE GESTÃO DA QUALIDADE E DA SEGURANÇA REFERIDOS NO ARTIGO 10.º",
+    "Adita Sistema de gestão da qualidade",
+    "Adita Objectivos da gestão da segurança operacional",
+    "Adita Objectivos da gestão da segurança não operacional",
+    "Adita ANEXO VIII",
+    "Adita Regras relativas à avaliação da conformidade ou à adequação para utilização dos componentes referidos no artigo 11.º",
+    "Adita ANEXO IX",
+    "Adita CONDIÇÕES REFERIDAS NO ARTIGO 12.º",
+    "Adita ANEXO X",
+    "Adita Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 1",
+    "Adita Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 2",
+    "Adita ANEXO XI",
+    "Adita Diferenças notificadas à ICAO e mencionadas no artigo 14.º"
+   ],
+   "fragments": [
+    "8880d9be004378dc",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "a08cc70db56c1ce3",
+    "09f0c481295948c7",
+    "95f1ef88df5f90b7",
+    "f0f8c960bfdbce9b",
+    "5ebd40be53f20411",
+    "41899e87b61a7f51",
+    "95df2e7c5b00e3cd",
+    "e32621064dae29cb",
+    "043e97adbc198e1a",
+    "3f33ebc026fc8f1f",
+    "dd089a8e7c4a30c9",
+    "1e7a0903d2eed348",
+    "59b492121ccaedf7",
+    "75c1a9b62f0e816b",
+    "1ecfc79da3f1ac7f",
+    "9fde5cc1a5255ac6",
+    "6f1f3a1c2e4abd66",
+    "684d96e2984144ae",
+    "51872477843331e4",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "e05fd2b38d386f25",
+    "8499942d07f77c7a",
+    "d664376e2a8dcecd",
+    "fbf0b6d4c843089d",
+    "c7d0279d82ad71c6",
+    "5788b98631affa03",
+    "b8e186e213931897",
+    "422ff2ae812363ae",
+    "91225de3a1c3c9e6",
+    "f4a1dc3378c60251",
+    "852174729551523b",
+    "75f4b3321c8dfd6f",
+    "c7d0279d82ad71c6",
+    "a36b8c5d7411435f",
+    "b8e186e213931897",
+    "fec1387c0a884e66",
+    "720af75c92791b10",
+    "306a31da1f936fba",
+    "e03a0eb4d5b2eef3",
+    "c72122e71c9d3c82",
+    "c7d0279d82ad71c6",
+    "f4c3e09f9591a628",
+    "b8e186e213931897",
+    "f413a0f028920a69",
+    "91225de3a1c3c9e6",
+    "5164fb65ec4638db",
+    "b2e2c2d3066e4f19",
+    "b3906cc26b27bdaf",
+    "22df4769c2f4773a",
+    "037d5f47bd41a0f2",
+    "c3a9d359c9acc5eb",
+    "7f1e5f9e931cbcca",
+    "64610ae29a6cb67c",
+    "b1d7e48057e15fa1",
+    "90c7d2baf4d44ee2",
+    "96920dd5d6f3d86a",
+    "d46ca50274582635",
+    "34b0fefd8bf0b71c",
+    "c7d0279d82ad71c6",
+    "85eda6b6120fb890",
+    "b8e186e213931897",
+    "564564f7e384c553",
+    "91225de3a1c3c9e6",
+    "0e95c6c6f36d4537",
+    "1b41b51ec3248d43",
+    "63085fcf557323d2",
+    "953641e58475eff6",
+    "12ff43686f12bb4b",
+    "82c866f33a162c59",
+    "87cee521b2f0bb1e",
+    "d5bf59c6376ad0f4",
+    "6041be3baf7dcb43",
+    "6a98b3e66cc0add6",
+    "347fa34d45987b5d",
+    "71feae4a707431cd",
+    "c256a557c8c7c4fc"
+   ]
+  },
+  {
+   "date": "2022-01-27",
+   "future": false,
+   "celex": "02010R0073-20220127",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime CAPÍTULO II",
+    "Suprime REQUISITOS DE INTEROPERABILIDADE E DE DESEMPENHO",
+    "Suprime Artigo 4.º — Conjuntos de dados",
+    "Suprime Artigo 5.º — Intercâmbio de dados",
+    "Suprime Artigo 6.º — Qualidade dos dados",
+    "Suprime Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal",
+    "Suprime Artigo 8.º — Requisitos aplicáveis às ferramentas e ao software",
+    "Suprime Artigo 9.º — Protecção dos dados",
+    "Suprime CAPÍTULO III",
+    "Suprime REQUISITOS EM TERMOS DE GESTÃO DA QUALIDADE E DE SEGURANÇA",
+    "Suprime Artigo 10.º — Requisitos de gestão",
+    "Suprime CAPÍTULO IV",
+    "Suprime AVALIAÇÃO DA CONFORMIDADE E REQUISITOS ADICIONAIS",
+    "Suprime Artigo 11.º — Conformidade ou adequação para utilização dos componentes",
+    "Suprime Artigo 12.º — Verificação dos sistemas",
+    "Suprime Artigo 13.º — Requisitos adicionais",
+    "Suprime CAPÍTULO V",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 14.º — Disposições transitórias",
+    "Suprime Artigo 15.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime ESPECIFICAÇÕES PARA OS CONJUNTOS DE DADOS REFERIDOS NO ARTIGO 4.º",
+    "Suprime PARTE A",
+    "Suprime IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos",
+    "Suprime PARTE B",
+    "Suprime Conjuntos de dados electrónicos sobre o terreno",
+    "Suprime PARTE C",
+    "Suprime Metadados",
+    "Suprime ANEXO II",
+    "Suprime REQUISITOS APLICÁVEIS AO FORMATO DE INTERCÂMBIO DE DADOS AERONÁUTICOS REFERIDOS NO ARTIGO 5.º",
+    "Suprime Dados electrónicos sobre o terreno",
+    "Suprime ANEXO III",
+    "Suprime DISPOSIÇÕES REFERIDAS NO ARTICULADO E NOS ANEXOS",
+    "Suprime ANEXO IV",
+    "Suprime REQUISITOS DE QUALIDADE DOS DADOS REFERIDOS NOS ARTIGOS 6.º E 7.º",
+    "Suprime Requisitos de qualidade dos dados",
+    "Suprime Requisitos em matéria de prova",
+    "Suprime Disposições formais",
+    "Suprime PARTE D",
+    "Suprime Originação de dados",
+    "Suprime PARTE E",
+    "Suprime Requisitos para o processo dos dados",
+    "Suprime PARTE F",
+    "Suprime Requisitos em matéria de notificação e rectificação de erros",
+    "Suprime ANEXO V",
+    "Suprime REQUISITOS APLICÁVEIS ÀS FERRAMENTAS E AO SOFTWARE REFERIDOS NO ARTIGO 8.º",
+    "Suprime ANEXO VI",
+    "Suprime REQUISITOS EM MATÉRIA DE PROTECÇÃO DE DADOS REFERIDOS NO ARTIGO 9.º",
+    "Suprime ANEXO VII",
+    "Suprime REQUISITOS EM MATÉRIA DE GESTÃO DA QUALIDADE E DA SEGURANÇA REFERIDOS NO ARTIGO 10.º",
+    "Suprime Sistema de gestão da qualidade",
+    "Suprime Objectivos da gestão da segurança operacional",
+    "Suprime Objectivos da gestão da segurança não operacional",
+    "Suprime ANEXO VIII",
+    "Suprime Regras relativas à avaliação da conformidade ou à adequação para utilização dos componentes referidos no artigo 11.º",
+    "Suprime ANEXO IX",
+    "Suprime CONDIÇÕES REFERIDAS NO ARTIGO 12.º",
+    "Suprime ANEXO X",
+    "Suprime Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 1",
+    "Suprime Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 2",
+    "Suprime ANEXO XI",
+    "Suprime Diferenças notificadas à ICAO e mencionadas no artigo 14.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "62749f69904e3726"
+   ]
+  }
+ ],
+ "fragments": {
+  "8c6dd4a19a708740": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Janeiro de 2010\n\nque estabelece os requisitos aplicáveis à qualidade dos dados aeronáuticos e da informação aeronáutica no Céu Único Europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento da interoperabilidade») [([^1])](http://publications.europa.eu/resource/cellar/96347910-5b69-40b6-9a64-1161c5efdf33.0018.02/DOC_1#ntr1-L_2010023PT.01000601-E0001), e, nomeadamente, o n.º 5 do seu artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/96347910-5b69-40b6-9a64-1161c5efdf33.0018.02/DOC_1#ntr2-L_2010023PT.01000601-E0002), e, nomeadamente, o n.º 1 do seu artigo 8.º,\n\nConsiderando o seguinte:\n\n(1) Importa dispor de dados aeronáuticos e de informação aeronáutica de qualidade adequada, de modo a garantir a segurança e apoiar novos conceitos de operação no âmbito da rede europeia de gestão do tráfego aéreo (a seguir designada «REGTA»).\n\n(2) A Organização da Aviação Civil Internacional (a seguir designada «ICAO») definiu os requisitos de qualidade dos dados aeronáuticos e da informação aeronáutica em termos de exactidão, resolução e integridade que devem ser cumpridos e mantidos no âmbito da REGTA aquando do processamento desses dados e dessa informação.\n\n(3) Considera-se que esses requisitos da ICAO oferecem uma base suficiente para os actuais requisitos de qualidade dos dados, mas existem deficiências conhecidas que devem ser corrigidas, nomeadamente para se dispor de uma base para as futuras aplicações.\n\n(4) Os requisitos de qualidade dos dados devem basear-se essencialmente no anexo 15 da Convenção sobre a Aviação Civil Internacional (a seguir designada «Convenção de Chicago»). As referências às disposições do anexo 15 da Convenção de Chicago não devem implicar automaticamente uma referência ao anexo 4 da Convenção de Chicago ou a outros anexos da Convenção de Chicago.\n\n(5) A análise da situação actual demonstra que os requisitos de qualidade dos dados aeronáuticos e da informação aeronáutica nem sempre são cumpridos no âmbito da REGTA, nomeadamente em termos de exactidão e de integridade.\n\n(6) A cadeia de dados aeronáuticos continua a comportar uma quantidade significativa de tarefas que são executadas manualmente e em suporte papel, o que oferece uma grande margem para a introdução de erros e para a perda de qualidade dos dados. Por conseguinte, é necessário tomar medidas para melhorar a situação.\n\n(7) O Eurocontrol foi incumbido, nos termos do artigo 8.º, n.º 1, do Regulamento (CE) n.º 549/2004, de desenvolver requisitos que complementem e reforcem o anexo 15 da Convenção de Chicago, de modo a obter informações aeronáuticas com qualidade suficiente. O presente regulamento baseia-se no relatório desse mandato, de 16 de Outubro de 2007.\n\n(8) De acordo com os requisitos estabelecidos no Regulamento (CE) n.º 552/2004, a informação aeronáutica deve ser progressivamente fornecida em formato electrónico com base num conjunto de dados aprovado de comum acordo e normalizado. A prazo, esses requisitos deverão aplicar-se a todos os dados aeronáuticos e a toda a informação aeronáutica abrangida pelo presente regulamento.\n\n(9) O presente regulamento não deve abranger as operações nem os treinos militares a que se refere o artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004.\n\n(10) As organizações militares que prestam informação aeronáutica para ser utilizada nas operações de tráfego aéreo geral constituem uma componente essencial do processo de dados aeronáuticos, pelo que os Estados-Membros devem assegurar que esses dados apresentem qualidade suficiente para os fins a que se destinam.\n\n(11) O fornecimento e a publicação atempados dos dados aeronáuticos e da informação aeronáutica, novos ou alterados, de acordo com os requisitos aplicáveis às alterações e aos ciclos de actualização definidos pela ICAO e pelos Estados-Membros são essenciais para se conseguir atingir a qualidade dos dados exigida.\n\n(12) Os Estados-Membros devem efectuar uma gestão e um controlo efectivos de todas as actividades que originam dados aeronáuticos e informação aeronáutica, de modo que os dados fornecidos apresentem qualidade suficiente para os fins a que se destinam.\n\n(13) Os componentes e procedimentos utilizados pelos originadores de dados devem ser interoperáveis com os sistemas, componentes e procedimentos utilizados pelos prestadores de serviços de informação aeronáutica, a fim de permitir o funcionamento seguro, contínuo e eficiente da REGTA.\n\n(14) Para manter ou reforçar os actuais níveis de segurança das operações, os Estados-Membros devem garantir a realização, pelos interessados directos, de uma avaliação da segurança que inclua a identificação de perigos, a avaliação de riscos e o estabelecimento de mecanismos de redução de impactos. A aplicação harmonizada desses mecanismos aos sistemas abrangidos pelo presente regulamento requer a identificação de requisitos de segurança específicos para todas as regras de interoperabilidade e desempenho.\n\n(15) Nos termos do artigo 3.º, n.º 3, alínea d), do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos de avaliação da conformidade específicos a utilizar na avaliação da conformidade ou da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(16) O presente regulamento afecta um grande número de partes interessadas. Por conseguinte, é conveniente que o regulamento tenha em conta as capacidades individuais e os níveis de implicação das partes na cadeia de dados, de modo a assegurar que as disposições sejam aplicadas de forma progressiva, de modo a atingir a qualidade dos dados requerida.\n\n(17) As medidas previstas no presente regulamento são conformes com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "a08cc70db56c1ce3": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece os requisitos de qualidade a satisfazer pelos dados aeronáuticos e pela informação aeronáutica em termos de exactidão, resolução e integridade."
+  },
+  "6dc7b60bd8727674": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se à Rede Europeia de Gestão do Tráfego Aéreo («EATMN»), aos seus componentes e aos procedimentos associados, utilizados na originação, produção, armazenamento, manipulação, processamento, transferência e distribuição dos dados aeronáuticos e da informação aeronáutica.\n\nO presente regulamento aplica-se aos dados aeronáuticos e à informação aeronáutica seguintes:\n\na) O pacote de informação aeronáutica integrada (a seguir designado IAIP) definido no n.º 7 do artigo 3.º, disponibilizado pelos Estados-Membros, com excepção das circulares de informação aeronáutica;\n\nb) Os dados electrónicos sobre obstáculos, ou elementos desses dados, se disponibilizados pelos Estados-Membros;\n\nc) Os dados electrónicos sobre o terreno, ou elementos desses dados, se disponibilizados pelos Estados-Membros;\n\nd) Os dados cartográficos do aeródromo disponibilizados pelos Estados-Membros.\n\n2. O presente regulamento aplica-se às seguintes partes:\n\na) Prestadores de serviços de navegação aérea;\n\nb) Operadores dos aeródromos e heliportos para os quais tenham sido publicados procedimentos de regras de voo por instrumentos («IFR») ou de regras de voo à vista específicas («VFR») em boletins nacionais de informação aeronáutica;\n\nc) Entidades públicas ou privadas que, para efeitos do presente regulamento, prestam: i) serviços de originação e de fornecimento de dados de levantamentos, ii) serviços de concepção de procedimentos, iii) serviços de dados electrónicos sobre o terreno, iv) serviços de dados electrónicos sobre obstáculos.\n\ni) serviços de originação e de fornecimento de dados de levantamentos,\n\nii) serviços de concepção de procedimentos,\n\niii) serviços de dados electrónicos sobre o terreno,\n\niv) serviços de dados electrónicos sobre obstáculos.\n\n3. O presente regulamento aplica-se até ao momento em que o prestador de serviços de informação aeronáutica disponibiliza os dados aeronáuticos e/ou a informação aeronáutica ao utilizador seguinte previsto.\n\nNo caso da distribuição por meios físicos, o presente regulamento aplica-se até ao momento em que os dados aeronáuticos e/ou a informação aeronáutica são disponibilizados à organização responsável pela prestação do serviço de distribuição física.\n\nNo caso da distribuição automática através da utilização de uma ligação electrónica directa entre o prestador de serviços de informação aeronáutica e a entidade receptora dos dados aeronáuticos e/ou da informação aeronáutica, o presente regulamento é aplicável:\n\na) Até ao momento em que o utilizador seguinte previsto tem acesso e procede à extracção dos dados aeronáuticos e/ou da informação aeronáutica na posse do prestador de serviços de informação aeronáutica, ou;\n\nb) Até ao momento em que o prestador de serviços de informação aeronáutica introduz os dados aeronáuticos e/ou a informação aeronáutica no sistema do utilizador seguinte previsto."
+  },
+  "75c24c9ebe07a77b": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004. Para além dessas, aplicam-se as seguintes:\n\n1. **«Dados aeronáuticos»**: uma representação de factos, conceitos ou instruções aeronáuticas de um modo formalizado, adequado à comunicação, interpretação ou processamento.\n\n2. **«Informação aeronáutica»**: informação resultante da compilação, análise e formatação dos dados aeronáuticos.\n\n3. **«Qualidade dos dados»**: grau ou nível de confiança de que os dados apresentados cumprem as exigências do seu utilizador em termos de exactidão, resolução e integridade.\n\n4. **«Exactidão»**: grau de conformidade entre o valor estimado ou medido e o valor real.\n\n5. **«Resolução»**: número de unidades ou dígitos com que se expressa ou utiliza um valor medido ou calculado.\n\n6. **«Integridade»**: grau de segurança de que um elemento de dado ou o seu valor não foram perdidos nem alterados desde a originação do dado ou a sua alteração autorizada.\n\n7. **«Pacote de Informação Aeronáutica Integrada a seguir denominado («IAIP»)»**: pacote constituído pelos seguintes elementos:\n\na) Publicações de informação aeronáutica (a seguir denominadas «AIP»), incluindo o serviço de alterações;\n\nb) Suplementos às AIP;\n\nc) NOTAM, tal como definidos no ponto 17 e Boletins de Informação antes do Voo (*Pre-flight Information Bulletins*);\n\nd) Circulares de informação aeronáutica; e\n\ne) Listas de verificação e listas de NOTAM válidos.\n\n8. **«Dados sobre obstáculos»**: dados relativos a todos os objectos fixos (temporários ou permanentes) e móveis, ou partes destes, localizados numa zona destinada ao movimento das aeronaves em terra ou que se erguem acima de uma superfície definida para proteger as aeronaves em voo.\n\n9. **«Dados sobre o terreno»**: dados relativos à superfície terrestre e aos seus acidentes naturais, tais como montanhas, colinas, picos, vales, massas de água, gelos e neves permanentes, excluindo os obstáculos.\n\n10. **«Dados cartográficos do aeródromo»**: informação que representa as características normalizadas do aeródromo para uma área definida, incluindo os dados geoespaciais e os metadados.\n\n11. **«Dados de levantamentos»**: dados geoespaciais determinados por medição ou levantamento topográfico.\n\n12. **«Concepção de procedimentos»**: uma combinação de dados aeronáuticos com instruções de voo específicas, com vista a definir os procedimentos aplicáveis em caso de aterragem e/ou de descolagem por instrumentos, que garantam um nível adequado de segurança em voo.\n\n13. **«Prestador de serviços de informação aeronáutica»**: organização responsável pela prestação de um serviço de informação aeronáutica, certificada em conformidade com o Regulamento (CE) n.º 2096/2005 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/96347910-5b69-40b6-9a64-1161c5efdf33.0018.02/DOC_1#ntr3-L_2010023PT.01000601-E0003).\n\n14. **«Utilizador seguinte previsto»**: entidade que recebe a informação aeronáutica enviada pelo prestador de serviços de informação aeronáutica.\n\n15. **«Ligação electrónica directa»**: uma ligação digital entre sistemas informáticos que permite a transferência dos dados sem interacção manual.\n\n16. **«Elemento de dados»**: um atributo único de um conjunto de dados completo a que é dado um valor que define o seu estado no momento.\n\n17. **«NOTAM»**: aviso distribuído por meios de telecomunicações que contém informações sobre a localização, condição ou alteração de qualquer instalação aeronáutica, serviço, procedimento ou perigo, cujo conhecimento atempado é essencial para o pessoal implicado nas operações de voo.\n\n18. **«NOTAM digital»**: um conjunto de dados que contém as informações incluídas num NOTAM num formato estruturado que pode ser integralmente interpretado por um sistema informático automatizado sem interpretação humana.\n\n19. **«Originador de dados»**: entidade responsável pela originação de dados.\n\n20. **«Originação de dados»**: criação de um novo elemento de dados, incluindo o valor que lhe está associado, alteração do valor de um elemento de dados existente ou eliminação de um elemento de dados existente.\n\n21. **«Período de validade»**: tempo que medeia entre a data e hora de publicação de uma informação aeronáutica e a data e hora em que essa mesma informação deixa de ter valor.\n\n22. **«Validação de dados»**: o processo usado para garantir que os dados cumprem os requisitos para a sua aplicação específica ou utilização prevista.\n\n23. **«Verificação de dados»**: a avaliação dos resultados (*outpu*t) de um processo de dados aeronáuticos para garantir a sua correcção e coerência em relação aos dados de entrada (*input*) e às normas, regras e convenções aplicáveis aos dados utilizadas nesse processo.\n\n24. **«Dados críticos»**: dados cujo nível de integridade está de acordo com o previsto no capítulo 3, secção 3.2, ponto 3.2.8, alínea a), do anexo 15 da Convenção sobre a Aviação Civil Internacional (a seguir designada «Convenção de Chicago»).\n\n25. **«Dados essenciais»**: dados cujo nível de integridade está de acordo com o previsto no capítulo 3, secção 3.2, ponto 3.2.8, alínea b), do anexo 15 da Convenção de Chicago."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "5ebd40be53f20411": {
+   "fragment_id": "REQUISITOS DE INTEROPERABILIDADE E DE DESEMPENHO",
+   "type": "divisao",
+   "heading": "REQUISITOS DE INTEROPERABILIDADE E DE DESEMPENHO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS DE INTEROPERABILIDADE E DE DESEMPENHO"
+  },
+  "41899e87b61a7f51": {
+   "fragment_id": "Artigo 4.º — Conjuntos de dados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Conjuntos de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conjuntos de dados\n\nAs partes referidas no n.º 2 do artigo 2.º, fornecem dados aeronáuticos e informação aeronáutica em conformidade com as especificações para os conjuntos de dados descritas no anexo I."
+  },
+  "95df2e7c5b00e3cd": {
+   "fragment_id": "Artigo 5.º — Intercâmbio de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Intercâmbio de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Intercâmbio de dados\n\n1. As partes referidas no n.º 2 do artigo 2.º, devem assegurar que os dados aeronáuticos e a informação aeronáutica mencionados no segundo parágrafo do n.º 1 do artigo 2.º, sejam tranferidos entre si através de ligações electrónicas directas.\n\n2. Os prestadores de serviços de navegação aérea devem assegurar que os dados aeronáuticos e a informação aeronáutica mencionados no segundo parágrafo do n.º 1 do artigo 2.º, sejam transferidos entre si de acordo com os requisitos aplicáveis ao formato a utilizar no intercâmbio de dados definidos no anexo II.\n\n3. Os Estados-Membros podem excluir os NOTAM digitais do formato de intercâmbio de dados referido no n.º 2.\n\n4. Os prestadores de serviços de informação aeronáutica devem assegurar que todos os dados aeronáuticos e a informação aeronáutica no âmbito de AIP, alterações de AIP e suplementos de AIP fornecidos por um Estado-Membro sejam disponibilizados ao utilizador seguinte previsto, pelo menos:\n\na) Em conformidade com os requisitos de publicação especificados nas normas da ICAO referidas nos pontos 4 e 8 do anexo III;\n\nb) De um modo que permita a leitura do conteúdo e do formato dos documentos directamente num ecrã de computador; e\n\nc) Em conformidade com os requisitos aplicáveis ao formato utilizado no intercâmbio de dados que figuram no anexo II."
+  },
+  "4f87f7ec50c43db0": {
+   "fragment_id": "Artigo 6.º — Qualidade dos dados",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Qualidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Qualidade dos dados\n\n1. Os Estados-Membros devem assegurar que os prestadores de serviços de navegação aérea cumpram os requisitos aplicáveis à qualidade dos dados especificados no anexo IV, parte A.\n\n2. Aquando do fornecimento dos dados aeronáuticos e/ou da informação aeronáutica, as partes referidas no n.º 2 do artigo 2.º devem cumprir os requisitos aplicáveis aos elementos de prova especificados no anexo IV, parte B.\n\n3. Aquando do intercâmbio dos dados aeronáuticos e/ou da informação aeronáutica, as partes referidas no n.º 2 do artigo 2.º, devem estabelecer acordos formais em conformidade com os requisitos especificados no anexo IV, parte C.\n\n4. Quando actuarem como originadores de dados, as partes referidas no n.º 2 do artigo 2.º, devem cumprir os requisitos aplicáveis à originação de dados especificados no anexo IV, parte D.\n\n5. Os prestadores de serviços de informação aeronáutica devem assegurar que os dados aeronáuticos e a informação aeronáutica fornecidos por originadores de dados que não os referidos no n.º 2 do artigo 2.º, sejam disponibilizados ao utilizador seguinte previsto com um nível de qualidade suficiente para os fins a que se destinam.\n\n6. Ao agirem na qualidade de entidades responsáveis por um pedido oficial de actividade de originação de dados, as partes referidas no n.º 2 do artigo 2.º, devem assegurar que:\n\na) Os dados sejam criados, alterados ou eliminados de acordo com as suas instruções;\n\nb) Sem prejuízo do disposto no anexo IV, parte C, as suas instruções para originação de dados incluam, no mínimo: i) uma descrição inequívoca dos dados a criar, alterar ou eliminar, ii) a confirmação da entidade a quem os dados devem ser fornecidos, iii) a data e a hora a que os dados devem ser fornecidos, iv) o formato do relatório sobre a originação dos dados a utilizar pelo originador dos dados.\n\ni) uma descrição inequívoca dos dados a criar, alterar ou eliminar,\n\nii) a confirmação da entidade a quem os dados devem ser fornecidos,\n\niii) a data e a hora a que os dados devem ser fornecidos,\n\niv) o formato do relatório sobre a originação dos dados a utilizar pelo originador dos dados.\n\n7. As partes referidas no n.º 2 do artigo 2.º, devem cumprir os requisitos aplicáveis ao processo de dados especificados no anexo IV, parte E.\n\n8. As partes referidas no n.º 2 do artigo 2.º, devem assegurar que os mecanismos de comunicação, *feedback* e correcção de erros sejam estabelecidos e utilizados em conformidade com os requisitos especificados no anexo IV, parte F."
+  },
+  "eae11c900c693060": {
+   "fragment_id": "Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal\n\n1. Se os dados aeronáuticos ou a informação aeronáutica forem reproduzidos em AIP de mais de um Estado-Membro, o prestador de serviços de informação aeronáutica responsável por essas AIP deve estabelecer mecanismos para garantir a coerência da informação reproduzida.\n\n2. Os prestadores de serviços de informação aeronáutica devem assegurar que os elementos dos dados aeronáuticos e da informação aeronáutica publicados na AIP do seu Estado-Membro sejam anotados de modo a identificar aqueles que não cumprem os requisitos de qualidade dos dados definidos no presente regulamento.\n\n3. Os prestadores de serviços de informação aeronáutica devem assegurar que os ciclos de actualização mais recentes aplicáveis às alterações das AIP e aos suplementos às AIP sejam tornados públicos.\n\n4. As partes referidas no n.º 2 do artigo 2.º, devem assegurar que o seu pessoal encarregado das tarefas de fornecimento de dados aeronáuticos ou de informação aeronáutica conheça e aplique:\n\na) Os requisitos relativos às alterações das AIP, dos suplementos às AIP e do NOTAM definidos nas normas da ICAO especificadas nos pontos 5, 6 e 7 do anexo III;\n\nb) Os ciclos de actualização aplicáveis à publicação de alterações e suplementos às AIP referidos na alínea a) do presente número nos domínios para os quais fornecem dados aeronáuticos ou informação aeronáutica.\n\n5. Sem prejuízo do disposto no Regulamento (CE) n.º 2096/2005, as partes referidas no n.º 2 do artigo 2.º, asseguram ainda que o pessoal encarregado das tarefas de fornecimento de dados aeronáuticos ou de informação aeronáutica possua a formação, as competências e a autorização adequada para exercer as funções que lhe são confiadas."
+  },
+  "3f33ebc026fc8f1f": {
+   "fragment_id": "Artigo 8.º — Requisitos aplicáveis às ferramentas e ao software",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Requisitos aplicáveis às ferramentas e ao software",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos aplicáveis às ferramentas e ao software\n\nAs partes referidas no n.º 2 do artigo 2.º, devem assegurar que as ferramentas e o *software* utilizados para a originação, produção, armazenamento, manipulação e processamento dos dados aeronáuticos e/ou da informação aeronáutica cumpram os requisitos especificados no anexo V."
+  },
+  "dd089a8e7c4a30c9": {
+   "fragment_id": "Artigo 9.º — Protecção dos dados",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Protecção dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Protecção dos dados\n\n1. As partes referidas no n.º 2 do artigo 2.º, devem assegurar que os dados aeronáuticos e a informação aeronáutica sejam protegidos, de acordo com os requisitos especificados no anexo VI.\n\n2. As partes referidas no n.º 2 do artigo 2.º, devem garantir a rastreabilidade de cada elemento de dados durante o seu período de validade e, pelo menos, por um período de 5 anos a contar do termo desse período ou até 5 anos a contar do termo do período de validade no caso de qualquer elemento de dados calculado ou obtido a partir desse elemento de dados, vigorando o prazo que termine mais tarde."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "59b492121ccaedf7": {
+   "fragment_id": "REQUISITOS EM TERMOS DE GESTÃO DA QUALIDADE E DE SEGURANÇA",
+   "type": "divisao",
+   "heading": "REQUISITOS EM TERMOS DE GESTÃO DA QUALIDADE E DE SEGURANÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS EM TERMOS DE GESTÃO DA QUALIDADE E DE SEGURANÇA"
+  },
+  "82a93437fcfb9952": {
+   "fragment_id": "Artigo 10.º — Requisitos de gestão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Requisitos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos de gestão\n\n1. Sem prejuízo do disposto no Regulamento (CE) n.º 2096/2005, as partes referidas no n.º 2 do artigo 2.º, devem aplicar e manter um sistema de gestão da qualidade que abranja as suas actividades relacionadas com o fornecimento de dados aeronáuticos e de informação aeronáutica de acordo com os requisitos especificados no anexo VII, parte A.\n\n2. As partes referidas no n.º 2 do artigo 2.º devem assegurar que o sistema de gestão da qualidade a que se refere o n.º 1 do presente artigo defina procedimentos para atingir os objectivos de gestão da segurança indicados no anexo VII, partes B e C.\n\n3. As partes referidas no n.º 2 do artigo 2.º, devem assegurar que a eventual alteração dos sistemas existentes referidos no primeiro parágrafo do n.º 1 do artigo 2.º, ou a introdução de novos sistemas sejam precedidas de uma avaliação da segurança, incluindo a identificação dos perigos e a avaliação e mitigação dos riscos, realizada pelas partes interessadas.\n\n4. No decurso dessa avaliação da segurança, os requisitos referidos no n.º 3 do artigo 7.º, e nos anexos I, II e pontos 1 e 2 da parte A do anexo IV, devem ser considerados requisitos de segurança e, no mínimo, ser tomados em consideração."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "9fde5cc1a5255ac6": {
+   "fragment_id": "AVALIAÇÃO DA CONFORMIDADE E REQUISITOS ADICIONAIS",
+   "type": "divisao",
+   "heading": "AVALIAÇÃO DA CONFORMIDADE E REQUISITOS ADICIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVALIAÇÃO DA CONFORMIDADE E REQUISITOS ADICIONAIS"
+  },
+  "6f1f3a1c2e4abd66": {
+   "fragment_id": "Artigo 11.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conformidade ou adequação para utilização dos componentes\n\nAntes da emissão da declaração CE de conformidade ou de adequação para utilização referida no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes dos componentes dos sistemas mencionados no primeiro parágrafo do n.º 1 do artigo 2.º do presente regulamento, ou os seus representantes autorizados estabelecidos na União, devem avaliar a conformidade ou adequação para utilização desses componentes em conformidade com os requisitos especificados no anexo VIII."
+  },
+  "684d96e2984144ae": {
+   "fragment_id": "Artigo 12.º — Verificação dos sistemas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Verificação dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Verificação dos sistemas\n\n1. Os prestadores de serviços de navegação aérea que possam demonstrar ou tenham demonstrado satisfazer as condições estabelecidas no anexo IX devem proceder à verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, de acordo com os requisitos especificados no anexo X, parte A.\n\n2. Os prestadores de serviços de navegação aérea que não possam demonstrar que satisfazem as condições estabelecidas no anexo IX devem subcontratar a verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, a um organismo notificado. Tal verificação deve ser efectuada em conformidade com os requisitos especificados no anexo X, parte B."
+  },
+  "51872477843331e4": {
+   "fragment_id": "Artigo 13.º — Requisitos adicionais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Requisitos adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisitos adicionais\n\nAs partes referidas no n.º 2, alíneas b) e c) do artigo 2.º, devem:\n\na) Assegurar a credenciação de segurança do seu pessoal responsável por tarefas ligadas à originação, produção, armazenamento, manipulação, processamento, transferência e distribuição de dados aeronáuticos ou de informação aeronáutica, conforme adequado;\n\nb) Assegurar que o seu pessoal responsável por tarefas ligadas ao fornecimento de dados aeronáuticos ou de informação aeronáutica esteja devidamente informado dos requisitos estabelecidos no presente regulamento;\n\nc) Elaborar e manter os manuais de operação com as instruções e as informações necessárias para que o seu pessoal responsável por tarefas ligadas ao fornecimento de dados aeronáuticos ou de informação aeronáutica possa aplicar as disposições do presente regulamento;\n\nd) Assegurar que os manuais a que se refere a alínea c) sejam acessíveis e se mantenham actualizados, e que a sua actualização e distribuição sejam objecto de uma gestão adequada da qualidade e da configuração da documentação;\n\ne) Assegurar que os métodos de trabalho e os procedimentos operativos sejam conformes com o disposto no presente regulamento."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "e05fd2b38d386f25": {
+   "fragment_id": "Artigo 14.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições transitórias\n\n1. Os Estados-Membros que, antes da entrada em vigor do presente regulamento, tenham notificado a ICAO de uma diferença relevante, em conformidade com o artigo 38.º da Convenção de Chicago, podem manter em vigor as disposições nacionais sobre as matérias indicadas no anexo XI do presente regulamento até 30 de Junho de 2014, o mais tardar.\n\n2. Os dados aeronáuticos e a informação aeronáutica que já esteja publicada antes de 1 de Julho de 2013 e que não tenham sido objecto de quaisquer alterações devem ser compatibilizados com o disposto no presente regulamento até 30 de Junho de 2017, o mais tardar."
+  },
+  "825b7fdeed6b5ea0": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra e vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nAplica-se a partir de 1 de Julho de 2013.\n\n2. Em derrogação ao disposto no segundo parágrafo do n.º 1, o artigo 4.º, os n.^os^ 1, 2 e 3 do artigo 5.º e a alínea c) do n.º 4 do artigo 5.º, aplicam-se a partir de 1 de Julho de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 26 de Janeiro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "892fd402cae4c430": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/96347910-5b69-40b6-9a64-1161c5efdf33.0018.02/DOC_1#ntc1-L_2010023PT.01000601-E0001) [JO L 96 de 31.3.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/96347910-5b69-40b6-9a64-1161c5efdf33.0018.02/DOC_1#ntc2-L_2010023PT.01000601-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/96347910-5b69-40b6-9a64-1161c5efdf33.0018.02/DOC_1#ntc3-L_2010023PT.01000601-E0003) [JO L 335 de 21.12.2005, p. 13](http://publications.europa.eu/resource/oj/JOL_2005_335_R_TOC)."
+  },
+  "8880d9be004378dc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Janeiro de 2010\n\nque estabelece os requisitos aplicáveis à qualidade dos dados aeronáuticos e da informação aeronáutica no Céu Único Europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento da interoperabilidade») ([^1^](http://publications.europa.eu/resource/cellar/97b943f4-8e7a-4c6e-9350-982f0efa31ac.0015.02/DOC_1#E0001)), e, nomeadamente, o n.º 5 do seu artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») ([^2^](http://publications.europa.eu/resource/cellar/97b943f4-8e7a-4c6e-9350-982f0efa31ac.0015.02/DOC_1#E0002)), e, nomeadamente, o n.º 1 do seu artigo 8.º,\n\n(1) Importa dispor de dados aeronáuticos e de informação aeronáutica de qualidade adequada, de modo a garantir a segurança e apoiar novos conceitos de operação no âmbito da rede europeia de gestão do tráfego aéreo (a seguir designada «REGTA»).\n\n(2) A Organização da Aviação Civil Internacional (a seguir designada «ICAO») definiu os requisitos de qualidade dos dados aeronáuticos e da informação aeronáutica em termos de exactidão, resolução e integridade que devem ser cumpridos e mantidos no âmbito da REGTA aquando do processamento desses dados e dessa informação.\n\n(3) Considera-se que esses requisitos da ICAO oferecem uma base suficiente para os actuais requisitos de qualidade dos dados, mas existem deficiências conhecidas que devem ser corrigidas, nomeadamente para se dispor de uma base para as futuras aplicações.\n\n(4) Os requisitos de qualidade dos dados devem basear-se essencialmente no anexo 15 da Convenção sobre a Aviação Civil Internacional (a seguir designada «Convenção de Chicago»). As referências às disposições do anexo 15 da Convenção de Chicago não devem implicar automaticamente uma referência ao anexo 4 da Convenção de Chicago ou a outros anexos da Convenção de Chicago.\n\n(5) A análise da situação actual demonstra que os requisitos de qualidade dos dados aeronáuticos e da informação aeronáutica nem sempre são cumpridos no âmbito da REGTA, nomeadamente em termos de exactidão e de integridade.\n\n(6) A cadeia de dados aeronáuticos continua a comportar uma quantidade significativa de tarefas que são executadas manualmente e em suporte papel, o que oferece uma grande margem para a introdução de erros e para a perda de qualidade dos dados. Por conseguinte, é necessário tomar medidas para melhorar a situação.\n\n(7) O Eurocontrol foi incumbido, nos termos do artigo 8.º, n.º 1, do Regulamento (CE) n.º 549/2004, de desenvolver requisitos que complementem e reforcem o anexo 15 da Convenção de Chicago, de modo a obter informações aeronáuticas com qualidade suficiente. O presente regulamento baseia-se no relatório desse mandato, de 16 de Outubro de 2007.\n\n(8) De acordo com os requisitos estabelecidos no Regulamento (CE) n.º 552/2004, a informação aeronáutica deve ser progressivamente fornecida em formato electrónico com base num conjunto de dados aprovado de comum acordo e normalizado. A prazo, esses requisitos deverão aplicar-se a todos os dados aeronáuticos e a toda a informação aeronáutica abrangida pelo presente regulamento.\n\n(9) O presente regulamento não deve abranger as operações nem os treinos militares a que se refere o artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004.\n\n(10) As organizações militares que prestam informação aeronáutica para ser utilizada nas operações de tráfego aéreo geral constituem uma componente essencial do processo de dados aeronáuticos, pelo que os Estados-Membros devem assegurar que esses dados apresentem qualidade suficiente para os fins a que se destinam.\n\n(11) O fornecimento e a publicação atempados dos dados aeronáuticos e da informação aeronáutica, novos ou alterados, de acordo com os requisitos aplicáveis às alterações e aos ciclos de actualização definidos pela ICAO e pelos Estados-Membros são essenciais para se conseguir atingir a qualidade dos dados exigida.\n\n(12) Os Estados-Membros devem efectuar uma gestão e um controlo efectivos de todas as actividades que originam dados aeronáuticos e informação aeronáutica, de modo que os dados fornecidos apresentem qualidade suficiente para os fins a que se destinam.\n\n(13) Os componentes e procedimentos utilizados pelos originadores de dados devem ser interoperáveis com os sistemas, componentes e procedimentos utilizados pelos prestadores de serviços de informação aeronáutica, a fim de permitir o funcionamento seguro, contínuo e eficiente da REGTA.\n\n(14) Para manter ou reforçar os actuais níveis de segurança das operações, os Estados-Membros devem garantir a realização, pelos interessados directos, de uma avaliação da segurança que inclua a identificação de perigos, a avaliação de riscos e o estabelecimento de mecanismos de redução de impactos. A aplicação harmonizada desses mecanismos aos sistemas abrangidos pelo presente regulamento requer a identificação de requisitos de segurança específicos para todas as regras de interoperabilidade e desempenho.\n\n(15) Nos termos do artigo 3.º, n.º 3, alínea d), do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos de avaliação da conformidade específicos a utilizar na avaliação da conformidade ou da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(16) O presente regulamento afecta um grande número de partes interessadas. Por conseguinte, é conveniente que o regulamento tenha em conta as capacidades individuais e os níveis de implicação das partes na cadeia de dados, de modo a assegurar que as disposições sejam aplicadas de forma progressiva, de modo a atingir a qualidade dos dados requerida.\n\n(17) As medidas previstas no presente regulamento são conformes com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "09f0c481295948c7": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se à Rede Europeia de Gestão do Tráfego Aéreo («EATMN»), aos seus componentes e aos procedimentos associados, utilizados na originação, produção, armazenamento, manipulação, processamento, transferência e distribuição dos dados aeronáuticos e da informação aeronáutica.\n\nO presente regulamento aplica-se aos dados aeronáuticos e à informação aeronáutica seguintes:\n\na) O pacote de informação aeronáutica integrada (a seguir designado IAIP) definido no n.º 7 do artigo 3.º, disponibilizado pelos Estados-Membros, com excepção das circulares de informação aeronáutica;\n\nb) Os dados electrónicos sobre obstáculos, ou elementos desses dados, se disponibilizados pelos Estados-Membros;\n\nc) Os dados electrónicos sobre o terreno, ou elementos desses dados, se disponibilizados pelos Estados-Membros;\n\nd) Os dados cartográficos do aeródromo disponibilizados pelos Estados-Membros.\n\n2. O presente regulamento aplica-se às seguintes partes:\n\na) Prestadores de serviços de navegação aérea;\n\nb) Operadores dos aeródromos e heliportos para os quais tenham sido publicados procedimentos de regras de voo por instrumentos («IFR») ou de regras de voo à vista específicas («VFR») em boletins nacionais de informação aeronáutica;\n\nc) Entidades públicas ou privadas que, para efeitos do presente regulamento, prestam:\n\ni) serviços de originação e de fornecimento de dados de levantamentos,\n\nii) serviços de concepção de procedimentos,\n\niii) serviços de dados electrónicos sobre o terreno,\n\niv) serviços de dados electrónicos sobre obstáculos.\n\n3. O presente regulamento aplica-se até ao momento em que o prestador de serviços de informação aeronáutica disponibiliza os dados aeronáuticos e/ou a informação aeronáutica ao utilizador seguinte previsto.\n\nNo caso da distribuição por meios físicos, o presente regulamento aplica-se até ao momento em que os dados aeronáuticos e/ou a informação aeronáutica são disponibilizados à organização responsável pela prestação do serviço de distribuição física.\n\nNo caso da distribuição automática através da utilização de uma ligação electrónica directa entre o prestador de serviços de informação aeronáutica e a entidade receptora dos dados aeronáuticos e/ou da informação aeronáutica, o presente regulamento é aplicável:\n\na) Até ao momento em que o utilizador seguinte previsto tem acesso e procede à extracção dos dados aeronáuticos e/ou da informação aeronáutica na posse do prestador de serviços de informação aeronáutica, ou;\n\nb) Até ao momento em que o prestador de serviços de informação aeronáutica introduz os dados aeronáuticos e/ou a informação aeronáutica no sistema do utilizador seguinte previsto."
+  },
+  "95f1ef88df5f90b7": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004. Para além dessas, aplicam-se as seguintes:\n\n1. «Dados aeronáuticos»: uma representação de factos, conceitos ou instruções aeronáuticas de um modo formalizado, adequado à comunicação, interpretação ou processamento.\n\n2. «Informação aeronáutica»: informação resultante da compilação, análise e formatação dos dados aeronáuticos.\n\n3. «Qualidade dos dados»: grau ou nível de confiança de que os dados apresentados cumprem as exigências do seu utilizador em termos de exactidão, resolução e integridade.\n\n4. «Exactidão»: grau de conformidade entre o valor estimado ou medido e o valor real.\n\n5. «Resolução»: número de unidades ou dígitos com que se expressa ou utiliza um valor medido ou calculado.\n\n6. «Integridade»: grau de segurança de que um elemento de dado ou o seu valor não foram perdidos nem alterados desde a originação do dado ou a sua alteração autorizada.\n\n7. «Pacote de Informação Aeronáutica Integrada» (a seguir denominado IAIP): pacote em suporte papel ou eletrónico, constituído pelos seguintes elementos: a) Publicações de informação aeronáutica (a seguir denominadas AIP), incluindo as alterações; b) Suplementos das AIP; c) NOTAM, conforme definidos no n.º 17, e boletins de informação antes do voo; d) Circulares de informação aeronáutica; e e) Listas de verificação e listas de NOTAM válidos.\n\n8. «Dados sobre obstáculos»: dados relativos a todos os objetos fixos (temporários ou permanentes) e móveis, ou partes destes, localizados numa zona destinada ao movimento das aeronaves à superfície ou que se erguem acima de uma superfície definida para proteger as aeronaves em voo ou se situam fora dessas superfícies definidas e foram considerados perigosos para a navegação aérea.\n\n9. «Dados sobre o terreno»: dados relativos à superfície terrestre e aos seus acidentes naturais, tais como montanhas, colinas, picos, vales, massas de água, gelos e neves permanentes, excluindo os obstáculos.\n\n10. «Dados cartográficos do aeródromo»: os dados recolhidos para fins de compilação de informações cartográficas do aeródromo.\n\n11. «Dados de levantamentos»: dados geoespaciais determinados por medição ou levantamento topográfico.\n\n12. «Concepção de procedimentos»: uma combinação de dados aeronáuticos com instruções de voo específicas, com vista a definir os procedimentos aplicáveis em caso de aterragem e/ou de descolagem por instrumentos, que garantam um nível adequado de segurança em voo.\n\n13. «Prestador de serviços de informação aeronáutica»: organização responsável pela prestação de um serviço de informação aeronáutica, certificada em conformidade com os requisitos do Regulamento de Execução n.º 1035/2011 da Comissão.\n\n14. «Utilizador seguinte previsto»: entidade que recebe a informação aeronáutica enviada pelo prestador de serviços de informação aeronáutica.\n\n15. «Ligação electrónica directa»: uma ligação digital entre sistemas informáticos que permite a transferência dos dados sem interacção manual.\n\n16. «Elemento de dados»: um atributo único de um conjunto de dados completo a que é dado um valor que define o seu estado no momento.\n\n17. «NOTAM»: aviso distribuído por meios de telecomunicações que contém informações sobre a localização, condição ou alteração de qualquer instalação aeronáutica, serviço, procedimento ou perigo, cujo conhecimento atempado é essencial para o pessoal implicado nas operações de voo.\n\n18. «NOTAM digital»: um conjunto de dados que contém as informações incluídas num NOTAM num formato estruturado que pode ser integralmente interpretado por um sistema informático automatizado sem interpretação humana.\n\n19. «Originador de dados»: entidade responsável pela originação de dados.\n\n20. «Originação de dados»: criação de um novo elemento de dados, incluindo o valor que lhe está associado, alteração do valor de um elemento de dados existente ou eliminação de um elemento de dados existente.\n\n21. «Período de validade»: tempo que medeia entre a data e hora de publicação de uma informação aeronáutica e a data e hora em que essa mesma informação deixa de ter valor.\n\n22. «Validação de dados»: o processo usado para garantir que os dados cumprem os requisitos para a sua aplicação específica ou utilização prevista.\n\n23. «Verificação de dados»: a avaliação dos resultados (*outpu*t) de um processo de dados aeronáuticos para garantir a sua correcção e coerência em relação aos dados de entrada (*input*) e às normas, regras e convenções aplicáveis aos dados utilizadas nesse processo.\n\n24. «Dados críticos»: dados cuja classificação em termos de integridade está de acordo com a prevista no capítulo 1, secção 1.1, alínea c), do anexo 15 da Convenção de Chicago sobre a Aviação Civil Internacional (a seguir denominada Convenção de Chicago).\n\n25. «Dados essenciais»: dados cuja classificação em termos de integridade está de acordo com a prevista no capítulo 1, secção 1.1, alínea b), do anexo 15 da Convenção de Chicago."
+  },
+  "e32621064dae29cb": {
+   "fragment_id": "Artigo 6.º — Qualidade dos dados",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Qualidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Qualidade dos dados\n\n1. Os Estados-Membros devem assegurar que os prestadores de serviços de navegação aérea cumpram os requisitos aplicáveis à qualidade dos dados especificados no anexo IV, parte A.\n\n2. Aquando do fornecimento dos dados aeronáuticos e/ou da informação aeronáutica, as partes referidas no n.º 2 do artigo 2.º devem cumprir os requisitos aplicáveis aos elementos de prova especificados no anexo IV, parte B.\n\n3. Aquando do intercâmbio dos dados aeronáuticos e/ou da informação aeronáutica, as partes referidas no n.º 2 do artigo 2.º, devem estabelecer acordos formais em conformidade com os requisitos especificados no anexo IV, parte C.\n\n4. Quando actuarem como originadores de dados, as partes referidas no n.º 2 do artigo 2.º, devem cumprir os requisitos aplicáveis à originação de dados especificados no anexo IV, parte D.\n\n5. Os prestadores de serviços de informação aeronáutica devem assegurar que os dados aeronáuticos e a informação aeronáutica fornecidos por originadores de dados que não os referidos no n.º 2 do artigo 2.º, sejam disponibilizados ao utilizador seguinte previsto com um nível de qualidade suficiente para os fins a que se destinam.\n\n6. Ao agirem na qualidade de entidades responsáveis por um pedido oficial de actividade de originação de dados, as partes referidas no n.º 2 do artigo 2.º, devem assegurar que:\n\na) Os dados sejam criados, alterados ou eliminados de acordo com as suas instruções;\n\nb) Sem prejuízo do disposto no anexo IV, parte C, as suas instruções para originação de dados incluam, no mínimo:\n\ni) uma descrição inequívoca dos dados a criar, alterar ou eliminar,\n\nii) a confirmação da entidade a quem os dados devem ser fornecidos,\n\niii) a data e a hora a que os dados devem ser fornecidos,\n\niv) o formato do relatório sobre a originação dos dados a utilizar pelo originador dos dados.\n\n7. As partes referidas no n.º 2 do artigo 2.º, devem cumprir os requisitos aplicáveis ao processo de dados especificados no anexo IV, parte E.\n\n8. As partes referidas no n.º 2 do artigo 2.º, devem assegurar que os mecanismos de comunicação, *feedback* e correcção de erros sejam estabelecidos e utilizados em conformidade com os requisitos especificados no anexo IV, parte F."
+  },
+  "043e97adbc198e1a": {
+   "fragment_id": "Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal\n\n1. Se os dados aeronáuticos ou a informação aeronáutica forem reproduzidos em AIP de mais de um Estado-Membro, o prestador de serviços de informação aeronáutica responsável por essas AIP deve estabelecer mecanismos para garantir a coerência da informação reproduzida.\n\n2. Os prestadores de serviços de informação aeronáutica devem assegurar que os elementos dos dados aeronáuticos e da informação aeronáutica publicados na AIP do seu Estado-Membro sejam anotados de modo a identificar aqueles que não cumprem os requisitos de qualidade dos dados definidos no presente regulamento.\n\n3. Os prestadores de serviços de informação aeronáutica devem assegurar que os ciclos de actualização mais recentes aplicáveis às alterações das AIP e aos suplementos às AIP sejam tornados públicos.\n\n4. As partes referidas no n.º 2 do artigo 2.º, devem assegurar que o seu pessoal encarregado das tarefas de fornecimento de dados aeronáuticos ou de informação aeronáutica conheça e aplique:\n\na) Os requisitos relativos às alterações das AIP, dos suplementos às AIP e do NOTAM definidos nas normas da ICAO especificadas nos pontos 5, 6 e 7 do anexo III;\n\nb) Os ciclos de actualização aplicáveis à publicação de alterações e suplementos às AIP referidos na alínea a) do presente número nos domínios para os quais fornecem dados aeronáuticos ou informação aeronáutica.\n\n5. Sem prejuízo do disposto no Regulamento de Execução (CE) n.º 1035/2011, as partes referidas no n.º 2 do artigo 2.º asseguram que o pessoal encarregado das tarefas de fornecimento de dados aeronáuticos ou de informação aeronáutica possua a formação, as competências e a autorização adequadas para exercer as funções que lhe são confiadas."
+  },
+  "75c1a9b62f0e816b": {
+   "fragment_id": "Artigo 10.º — Requisitos de gestão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Requisitos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos de gestão\n\n1. Sem prejuízo do disposto no Regulamento de Execução (CE) n.º 1035/2011, as partes referidas no n.º 2 do artigo 2.º devem aplicar e manter um sistema de gestão da qualidade que abranja as suas atividades relacionadas com o fornecimento de dados aeronáuticos e de informação aeronáutica, de acordo com os requisitos especificados no anexo VII, parte A.\n\n2. As partes referidas no n.º 2 do artigo 2.º devem assegurar que o sistema de gestão da qualidade a que se refere o n.º 1 do presente artigo defina procedimentos para atingir os objectivos de gestão da segurança indicados no anexo VII, partes B e C.\n\n3. As partes referidas no n.º 2 do artigo 2.º, devem assegurar que a eventual alteração dos sistemas existentes referidos no primeiro parágrafo do n.º 1 do artigo 2.º, ou a introdução de novos sistemas sejam precedidas de uma avaliação da segurança, incluindo a identificação dos perigos e a avaliação e mitigação dos riscos, realizada pelas partes interessadas.\n\n4. No decurso dessa avaliação da segurança, os requisitos referidos no n.º 3 do artigo 7.º, e nos anexos I, II e pontos 1 e 2 da parte A do anexo IV, devem ser considerados requisitos de segurança e, no mínimo, ser tomados em consideração."
+  },
+  "8499942d07f77c7a": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra e vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nAplica-se a partir de 1 de Julho de 2013.\n\n2. Em derrogação ao disposto no segundo parágrafo do n.º 1, o artigo 4.º, os n.^os^ 1, 2 e 3 do artigo 5.º e a alínea c) do n.º 4 do artigo 5.º, aplicam-se a partir de 1 de Julho de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "fbf0b6d4c843089d": {
+   "fragment_id": "ESPECIFICAÇÕES PARA OS CONJUNTOS DE DADOS REFERIDOS NO ARTIGO 4.º",
+   "type": "divisao",
+   "heading": "ESPECIFICAÇÕES PARA OS CONJUNTOS DE DADOS REFERIDOS NO ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPECIFICAÇÕES PARA OS CONJUNTOS DE DADOS REFERIDOS NO ARTIGO 4.º"
+  },
+  "c7d0279d82ad71c6": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE A"
+  },
+  "5788b98631affa03": {
+   "fragment_id": "IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos",
+   "type": "divisao",
+   "heading": "IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos\n\n1. Os dados aeronáuticos e a informação aeronáutica referidos nas alíneas a), b) e d) do segundo parágrafo do n.º 1 do artigo 2.º, devem ser fornecidos de acordo com uma especificação comum para os conjuntos de dados, a qual deve:\n\na) Ser documentada do seguinte modo:\n\n— utilizando a linguagem de modelização unificada (UML) especificada no documento referido no anexo III, ponto 13, sob a forma de diagramas de classe e de definições associadas para classes, atributos, associações e listas de valores, ou\n\n— utilizando um catálogo de características especificado de acordo com a norma ISO referida no anexo III, ponto 25;\n\nb) Definir, enquanto elementos individuais dos dados, cada característica aeronáutica em relação à qual a informação deva ser publicada em conformidade com as normas da ICAO referidas no anexo III, ponto 10, e com o documento Eurocae referido no anexo III, ponto 24;\n\nc) Estabelecer, para cada atributo, a definição dos seus valores admissíveis, sob a forma de um tipo de dados, uma gama de valores ou uma lista numerada;\n\nd) Incluir a definição de um modelo temporal, baseado no UTC, que possa expressar o ciclo de vida completo de uma característica aeronáutica:\n\n— desde a data e hora da criação até à data e hora da retirada permanente,\n\n— incluindo as alterações permanentes que criam novas bases de referência para tal característica;\n\ne) Incluir a definição das regras susceptíveis de condicionarem os valores possíveis das propriedades das características ou a variação temporal desses valores. Tal deve incluir, pelo menos:\n\n— as condicionantes que impõem a exactidão, resolução e integridade dos dados de posição (horizontal e vertical),\n\n— as condicionantes que impõem a oportunidade dos dados;\n\nf) Aplicar uma convenção para atribuição de um nome às características, atributos e associações, de modo a evitar a utilização de abreviaturas;\n\ng) Basear a descrição dos elementos geométricos (ponto, curva, superfície) na norma ISO referida no anexo III, ponto 14;\n\nh) Basear a descrição da informação sobre metadados na norma ISO referida no anexo III, ponto 15;\n\ni) Incluir os elementos dos metadados enumerados no anexo I, parte C.\n\n2. No que respeita às normas ISO, o certificado pertinente emitido por uma organização devidamente acreditada deve ser considerado garantia suficiente de conformidade. As partes referidas no artigo 2, n.º 2, devem permitir o acesso da autoridade supervisora nacional, sempre que ela o solicite, à documentação relacionada com a certificação."
+  },
+  "b8e186e213931897": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE B"
+  },
+  "422ff2ae812363ae": {
+   "fragment_id": "Conjuntos de dados electrónicos sobre o terreno",
+   "type": "divisao",
+   "heading": "Conjuntos de dados electrónicos sobre o terreno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Conjuntos de dados electrónicos sobre o terreno\n\nOs dados electrónicos sobre o terreno referidos na alínea c) do segundo parágrafo do n.º 1 do artigo 2.º, devem:\n\na) Ser fornecidos num formato digital em conformidade com as normas da ICAO referidas no anexo III, pontos 9, 9-A e 12;\n\nb) Incluir os elementos dos metadados enumerados no anexo I, parte C."
+  },
+  "91225de3a1c3c9e6": {
+   "fragment_id": "PARTE C",
+   "type": "divisao",
+   "heading": "PARTE C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE C"
+  },
+  "f4a1dc3378c60251": {
+   "fragment_id": "Metadados",
+   "type": "divisao",
+   "heading": "Metadados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Metadados\n\nOs metadados para as especificações dos conjuntos de dados definidas nas partes A e B devem incluir, no mínimo, os seguintes elementos:\n\na) O originador dos dados;\n\nb) As alterações introduzidas nos dados;\n\nc) As pessoas ou organizações que interagiram com os dados e as datas dessas interacções;\n\nd) Os pormenores das validações e das verificações de dados que tiverem sido efectuadas;\n\ne) A data e hora de início efectivo dos dados;\n\nf) No caso dos dados geoespaciais:\n\n— o modelo de referência terrestre utilizado,\n\n— o sistema de coordenadas utilizado;\n\ng) No caso dos dados numéricos:\n\n— a exactidão estatística da técnica de medição ou de cálculo utilizada,\n\n— a resolução;\n\n— o nível de confiança, conforme requerido pelas normas da ICAO referidas no anexo III, pontos 1 e 12, e outras normas da ICAO pertinentes;\n\nh) Os pormenores das eventuais funções aplicadas, caso os dados tenham sido objecto de conversão/transformação;\n\ni) Os pormenores das eventuais restrições à utilização dos dados."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "75f4b3321c8dfd6f": {
+   "fragment_id": "REQUISITOS APLICÁVEIS AO FORMATO DE INTERCÂMBIO DE DADOS AERONÁUTICOS REFERIDOS NO ARTIGO 5.º",
+   "type": "divisao",
+   "heading": "REQUISITOS APLICÁVEIS AO FORMATO DE INTERCÂMBIO DE DADOS AERONÁUTICOS REFERIDOS NO ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS APLICÁVEIS AO FORMATO DE INTERCÂMBIO DE DADOS AERONÁUTICOS REFERIDOS NO ARTIGO 5.º"
+  },
+  "a36b8c5d7411435f": {
+   "fragment_id": "IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos",
+   "type": "divisao",
+   "heading": "IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos\n\n1. Os dados aeronáuticos e a informação aeronáutica referidos nas alíneas a), b) e d) do segundo parágrafo do n.º 1 do artigo 2.º, devem ser formatados de acordo com uma especificação comum, a qual deve:\n\n— utilizar a especificação da linguagem de marcação extensível (*Extensible Markup Language* XML), conforme definido na norma ISO aplicável à codificação de dados referida no anexo III, ponto 17,\n\n— ser expressa sob a forma de um *XML Schema*; além disso, para apresentar regras comerciais, poderá ser usada a linguagem *Schematron*, conforme previsto na norma ISO referida no anexo III, ponto 19,\n\n— permitir o intercâmbio de dados, tanto no que se refere a características individuais como a colecções de características,\n\n— permitir o intercâmbio de informações de base na sequência de alterações permanentes,\n\n— ser estruturada de acordo com as características, atributos e associações da definição do conjunto de dados descrito no anexo I, parte A; as regras cartográficas devem ser documentadas,\n\n— aplicar estritamente as listas numeradas de valores e gamas de valores definidas para cada atributo no conjunto de dados,\n\n— respeitar a especificação para a linguagem de marcação geográfica (GML), conforme definida no documento de referência sobre a codificação da informação geográfica referido no anexo III, ponto 18.\n\n2. No que respeita às normas ISO, o certificado pertinente emitido por uma organização devidamente acreditada deve ser considerado garantia suficiente de conformidade. As partes referidas no artigo 2, n.º 2, devem permitir o acesso da autoridade supervisora nacional, sempre que ela o solicite, à documentação relacionada com a certificação."
+  },
+  "fec1387c0a884e66": {
+   "fragment_id": "Dados electrónicos sobre o terreno",
+   "type": "divisao",
+   "heading": "Dados electrónicos sobre o terreno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Dados electrónicos sobre o terreno\n\n1. Os dados electrónicos sobre o terreno mencionados na alínea c) do segundo parágrafo do n.º 1 do artigo 2.º, devem ser apresentados num formato comum, conforme co as normas ISO referidas no anexo III, pontos 14 a 18.\n\n2. No que respeita às normas ISO, o certificado pertinente emitido por uma organização devidamente acreditada deve ser considerado garantia suficiente de conformidade. As partes referidas no artigo 2, n.º 2, devem permitir o acesso da autoridade supervisora nacional, sempre que ela o solicite, à documentação relacionada com a certificação."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "306a31da1f936fba": {
+   "fragment_id": "DISPOSIÇÕES REFERIDAS NO ARTICULADO E NOS ANEXOS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES REFERIDAS NO ARTICULADO E NOS ANEXOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES REFERIDAS NO ARTICULADO E NOS ANEXOS\n\n1. Capítulo 3, secção 3.7 *Quality management system* (sistema de gestão da qualidade), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n2. Capítulo 3, secção 1.2.1 *Horizontal reference system* (sistema de referência horizontal), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n3. Capítulo 3, secção 1.2.2 *Vertical reference system* (sistema de referência vertical), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n4. Capítulo 4 *Aeronautical Information Publications* (AIP) (publicações de informação aeronáutica), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n5. Capítulo 4, secção 4.3 *Specifications for AIP Amendments* (especificações para as alterações das AIP), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n6. Capítulo 4, secção 4.4 *Specifications for AIP Supplements* (especificações para os suplementos das AIP), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n7. Capítulo 5 *NOTAM*, do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n8. Capítulo 6, secção 6.2 *Provision of information in paper copy form* (fornecimento de informação em formato papel), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n9. Capítulo 10, secção 10.1 *Coverage areas and requirements for data provision* (zonas de cobertura e requisitos aplicáveis ao fornecimento de dados), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n9-A Capítulo 10, secção 10.2 *Terrain data set — content, numerical specification and structure* (conjunto de dados sobre o terreno — conteúdo, especificação numérica e estrutura), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n10. Apêndice 1 *Contents of Aeronautical Information Publication* (AIP) (teor das publicações de informação aeronáutica), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n11. Apêndice 7 *Aeronautical data publication resolution and integrity classification* (resolução e classificação em termos de integridade da publicação de dados aeronáuticos), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n12. Apêndice 8 *Terrain and obstacle data requirements* (requisitos aplicáveis aos dados topográficos e sobre obstáculos), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (14.ª edição, julho de 2013, que incorpora a alteração n.º 37).\n\n13. *Object Management Group Unified Modelling Language (UML) Specification* (especificação para a linguagem UML do grupo de gestão de objetos), versão 2.1.1.\n\n14. Organização Internacional de Normalização, ISO 19107:2003 — *Geographic information* — *Spatial schema* (informação geográfica — esquema espacial) (1.ª edição, 8.5.2003).\n\n15. Organização Internacional de Normalização, ISO 19115:2003 — *Geographic information* — *Metadata* (informação geográfica — metadados) (1.ª edição, 8.5.2003 [Corrigenda Cor 1:2006 5.7.2006]).\n\n16. Organização Internacional de Normalização, ISO 19139:2007 — *Geographic information* — *Metadata* — *XML schema implementation* (informação geográfica — metadados — implementação do esquema XML) (1.ª edição, 17.4.2007).\n\n17. Organização Internacional de Normalização, ISO 19118:2011 — *Geographic information* — *Encoding* (informação geográfica, codificação) (2.ª edição, 10.10.2011).\n\n18. Organização Internacional de Normalização, ISO 19136:2007 — *Geographic information* — *Geography Markup Language* (GML) (informação geográfica — linguagem de marcação geográfica) (1.ª edição, 23.8.2007).\n\n19. Organização Internacional de Normalização, ISO/IEC 19757-3:2006 — *Information technology* — *Document Schema Definition Languages* (DSDL) (tecnologia da informação — linguagens de definição de modelos documentais) — 3.ª parte: validação baseada em regras — Schematron) (1.ª edição, 24.5.2006).\n\n20. Documento ICAO 9674-AN/946 — *World Geodetic System* (sistema geodésico mundial) — manual de 1984 (2.ª edição, 2002).\n\n21. Capítulo 7, secção 7.3.2 *Cyclic redundancy check (CRC) algorithm* (algoritmo de verificação da redundância cíclica), do documento ICAO 9674-AN/946 — *World Geodetic System* — 1984 (WGS-84) (2.ª edição, 2002).\n\n22. Organização Internacional de Normalização, ISO/IEC 27002:2005 — *Information technology* — *Security techniques* — *Code of practice for information security management* (tecnologia da informação — técnicas de segurança — código de boas práticas para a gestão da segurança da informação) (1.ª edição, 15.6.2005).\n\n23. Organização Internacional de Normalização, ISO 28000:2007: — *Specification for security management systems for the supply chain* (especificações para os sistemas de gestão da segurança das cadeias de fornecimento) (1.ª edição, 21.9.2007, em fase de revisão, a substituir pela 2.ª edição, data-limite 31.1.2008 [em fase de consulta]).\n\n24. Eurocae ED-99A, *User Requirements for Aerodrome Mapping Information* (requisitos aplicáveis aos utilizadores no caso das informações cartográficas de aeródromos) (outubro de 2005).\n\n25. Organização Internacional de Normalização, ISO 19110:2005 — *Geographic information* — *Methodology for feature cataloguing* (informação geográfica — metodologia de catalogação de características) (1.ª edição)."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "c72122e71c9d3c82": {
+   "fragment_id": "REQUISITOS DE QUALIDADE DOS DADOS REFERIDOS NOS ARTIGOS 6.º E 7.º",
+   "type": "divisao",
+   "heading": "REQUISITOS DE QUALIDADE DOS DADOS REFERIDOS NOS ARTIGOS 6.º E 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS DE QUALIDADE DOS DADOS REFERIDOS NOS ARTIGOS 6.º E 7.º"
+  },
+  "f4c3e09f9591a628": {
+   "fragment_id": "Requisitos de qualidade dos dados",
+   "type": "divisao",
+   "heading": "Requisitos de qualidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Requisitos de qualidade dos dados\n\n1. Os requisitos de qualidade dos dados a satisfazer por cada elemento de dados constante dos dados aeronáuticos e da informação aeronáutica mencionados no segundo parágrafo do n.º 1 do artigo 2.º, devem ser os definidos nas normas da ICAO referidas no anexo III, ponto 11 e demais normas da ICAO pertinentes, sem prejuízo do disposto no ponto 2 do presente anexo.\n\n2. Os requisitos de qualidade dos dados a satisfazer pelos elementos dos dados constantes dos dados aeronáuticos e da informação aeronáutica mencionados no segundo parágrafo do n.º 1 do artigo 2.º, devem ser estabelecidos com base numa avaliação da segurança das utilizações previstas para o elemento de dados, nos seguintes casos:\n\na) Quando um elemento de dados não for definido pelas normas da ICAO aplicáveis à qualidade dos dados a que é feita referência no anexo III, ponto 11, e outras normas da ICAO pertinentes; ou\n\nb) Quando os requisitos de qualidade dos dados a satisfazer por um elemento de dados não cumprirem as normas da ICAO aplicáveis à qualidade dos dados a que é feita referência no anexo III, ponto 11, e outras normas da ICAO pertinentes.\n\n3. Os requisitos de qualidade dos dados a satisfazer pelos elementos de dados referidos no ponto 2 devem ser definidos de acordo com um processo normalizado que descreva a metodologia a utilizar para obtenção e validação desses requisitos, antes da publicação, tendo em devida conta o impacto potencial das disposições pertinentes da ICAO.\n\n4. Quando um elemento de dados tiver mais do que uma utilização prevista, apenas se lhe devem aplicar os requisitos de qualidade dos dados mais rigorosos que resultem da avaliação da segurança a que se refere o ponto 2.\n\n5. Os requisitos de qualidade dos dados devem ser definidos de modo a abrangerem, para cada elemento de dados constante dos dados aeronáuticos e da informação aeronáutica mencionados no segundo parágrafo do n.º 1 do artigo 2.º, o seguinte:\n\na) A exactidão e a resolução dos dados;\n\nb) O nível de integridade dos dados;\n\nc) A capacidade de determinação da origem dos dados;\n\nd) O nível da garantia de que os dados são disponibilizados ao utilizador seguinte previsto antes da sua data/hora efectiva de início e não são apagados antes da sua data/hora efectiva de fim.\n\n6. Devem ser definidos todos os elementos de dados que servem de suporte ao conjunto de dados da aplicação e/ou subconjunto válido do conjunto de dados."
+  },
+  "f413a0f028920a69": {
+   "fragment_id": "Requisitos em matéria de prova",
+   "type": "divisao",
+   "heading": "Requisitos em matéria de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Requisitos em matéria de prova\n\nDevem ser produzidos argumentos e elementos de prova demonstrativos de que:\n\na) Os requisitos de exactidão e de resolução são cumpridos na originação dos dados e mantidos até à sua disponibilização ao utilizador seguinte previsto, inclusivamente em caso de diminuição ou de alteração do nível de resolução de um elemento de dados ou de tradução dos dados para um sistema de coordenadas ou unidade de medição diferentes;\n\nb) A origem e o historial das alterações de cada elemento de dados estão registados e disponíveis para auditoria;\n\nc) Os dados aeronáuticos ou a informação aeronáutica estão completos ou os eventuais elementos em falta foram declarados;\n\nd) Todos os processos de originação, produção, armazenamento, manipulação, processamento, transferência ou distribuição de dados utilizados para cada elemento de dados são definidos e adequados para o nível de integridade atribuído ao elemento de dado;\n\ne) Os processos de validação e de verificação dos dados são adequados para o nível de integridade atribuído ao elemento de dado;\n\nf) Os processos manuais ou semiautomáticos ligados aos dados são executados por pessoal com a formação e as qualificações necessárias, cujas funções e responsabilidades são claramente definidas e registadas no sistema de qualidade da organização;\n\ng) Todas as ferramentas e/ou *software* utilizados para servir de suporte ou aplicar os processos são validados como adequados para os fins a que se destinam em conformidade com o anexo V;\n\nh) É aplicado um procedimento eficaz de comunicação, medição e correcção de erros em conformidade com a parte F."
+  },
+  "5164fb65ec4638db": {
+   "fragment_id": "Disposições formais",
+   "type": "divisao",
+   "heading": "Disposições formais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Disposições formais\n\nAs disposições formais devem incluir, no mínimo, o seguinte:\n\na) O âmbito dos dados aeronáuticos ou da informação aeronáutica a fornecer;\n\nb) Os requisitos de exactidão, resolução e integridade aplicáveis a cada elemento de dados fornecido;\n\nc) Os métodos requeridos para demonstrar que os dados fornecidos cumprem os requisitos especificados;\n\nd) A natureza das medidas a tomar em caso de detecção de erros ou incoerências em quaisquer dados fornecidos;\n\ne) Os seguintes critérios mínimos, para notificar as alterações de dados:\n\n— critérios para determinar a oportunidade do fornecimento dos dados com base no significado da alteração em termos operacionais ou de segurança,\n\n— eventuais avisos prévios de alterações previstas,\n\n— meios a adoptar para a notificação;\n\nf) A parte incumbida de documentar as alterações de dados;\n\ng) Os meios para eliminar as eventuais ambiguidades criadas com a utilização de formatos diferentes no intercâmbio dos dados aeronáuticos ou da informação aeronáutica;\n\nh) As eventuais restrições à utilização dos dados;\n\ni) Os requisitos aplicáveis à produção dos relatórios de qualidade por parte dos fornecedores de dados, de modo a facilitar a verificação da qualidade dos dados por parte dos seus utilizadores;\n\nj) Os requisitos aplicáveis aos metadados;\n\nk) Os requisitos aplicáveis às contingências no que se refere à continuidade do fornecimento de dados."
+  },
+  "b2e2c2d3066e4f19": {
+   "fragment_id": "PARTE D",
+   "type": "divisao",
+   "heading": "PARTE D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE D"
+  },
+  "b3906cc26b27bdaf": {
+   "fragment_id": "Originação de dados",
+   "type": "divisao",
+   "heading": "Originação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Originação de dados\n\n1. O levantamento relativo às ajudas à radionavegação e à originação dos dados calculados ou derivados, cujas coordenadas são publicadas nas AIP, deve cumprir as normas adequadas e, no mínimo, as disposições pertinentes da ICAO referidas no anexo III, ponto 20.\n\n2. Todos os dados de levantamentos devem ter como referência o WGS-84, conforme especificado nas disposições da ICAO referidas no anexo III, ponto 2.\n\n3. Deve ser utilizado um modelo de geóide suficiente para respeitar as disposições da ICAO referidas no anexo III, ponto 3, e os requisitos de qualidade dos dados aeronáuticos e da informação aeronáutica definidos no anexo IV, para que todos os dados verticais (obtidos por levantamento, cálculo ou derivação) possam ser expressos em relação ao nível médio do mar através do Modelo Gravitacional da Terra 1996. Um «geóide» é a superfície equipotencial no campo de gravidade da Terra, que coincide com o nível médio do mar, sem perturbações, continuamente prolongado através dos continentes.\n\n4. Os dados obtidos através de levantamentos, cálculos ou por derivação devem ser conservados durante todo o ciclo de vida de cada elemento de dados.\n\n5. Os dados de levantamentos que sejam classificados como dados críticos ou essenciais devem ser objecto de um primeiro levantamento exaustivo e, seguidamente, monitorizadas as suas alterações, no mínimo, uma vez por ano. Caso sejam detectadas alterações, deve ser efectuado um novo levantamento dos dados pertinentes.\n\n6. Devem ser utilizadas as seguintes técnicas de recolha e de armazenamento electrónico de dados de levantamentos:\n\na) As coordenadas dos pontos de referência são carregadas no equipamento de levantamento mediante a transferência de dados digitais;\n\nb) As medições no terreno são armazenadas em formato digital;\n\nc) Os dados brutos são transferidos por via electrónica e carregados no *software* de processamento.\n\n7. Todos os dados de levantamentos que sejam classificados como dados críticos devem ser objecto de medições complementares suficientes de modo a identificar os erros de levantamento não detectáveis com uma única medição.\n\n8. Os dados aeronáuticos e a informação aeronáutica devem ser validados e verificados antes de serem utilizados para derivar ou calcular outros dados."
+  },
+  "22df4769c2f4773a": {
+   "fragment_id": "PARTE E",
+   "type": "divisao",
+   "heading": "PARTE E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE E"
+  },
+  "037d5f47bd41a0f2": {
+   "fragment_id": "Requisitos para o processo dos dados",
+   "type": "divisao",
+   "heading": "Requisitos para o processo dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Requisitos para o processo dos dados\n\n1. Quando os processos ou partes dos processos utilizados na originação, produção, armazenamento, manipulação, processamento, transferência e distribuição de dados aeronáuticos e de informação aeronáutica são automatizados devem:\n\na) Ser automatizados a um nível adaptado ao contexto do processo de dados;\n\nb) Ser automatizados para optimizar a atribuição e interacção entre homem e máquina, de modo a atingir um elevado grau de segurança e beneficiar a qualidade do processo;\n\nc) Ser concebidos de modo a evitar a introdução de dados errados;\n\nd) Ser concebidos de modo a detectar erros nos dados recebidos/introduzidos.\n\n2. Se os dados aeronáuticos e a informação aeronáutica forem inseridos manualmente, devem ser objecto de uma verificação independente, de modo a detectar os erros eventualmente introduzidos."
+  },
+  "c3a9d359c9acc5eb": {
+   "fragment_id": "PARTE F",
+   "type": "divisao",
+   "heading": "PARTE F",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE F"
+  },
+  "7f1e5f9e931cbcca": {
+   "fragment_id": "Requisitos em matéria de notificação e rectificação de erros",
+   "type": "divisao",
+   "heading": "Requisitos em matéria de notificação e rectificação de erros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Requisitos em matéria de notificação e rectificação de erros\n\nOs mecanismos de notificação, medição e correcção de erros devem assegurar que:\n\na) Os problemas detectados durante a originação, produção, armazenamento, manipulação e processamento dos dados aeronáuticos e da informação aeronáutica, ou pelos utilizadores após a sua publicação, sejam registados e notificados ao prestador de serviços de informação aeronáutica;\n\nb) O prestador de serviços de informação aeronáutica analise todos os problemas notificados relativos a dados aeronáuticos e a informação aeronáutica e estabelece as medidas correctivas necessárias;\n\nc) Os erros, incoerências e anomalias detectados nos dados aeronáuticos e na informação aeronáutica críticos e essenciais sejam corrigidos com urgência;\n\nd) Os utilizadores dos dados afectados sejam alertados para os erros pelo prestador de serviços de informação aeronáutica através dos meios mais eficazes, tendo em conta o nível de integridade dos dados aeronáuticos e da informação aeronáutica e de acordo com os critérios de notificação definidos nos acordos formais celebrados nos termos do disposto no anexo IV, parte C, alínea d);\n\ne) Seja facilitada e encorajada a notificação dos erros detectados pelos utilizadores dos dados e outros fornecedores de dados aeronáuticos e de informação aeronáutica;\n\nf) Seja registada a percentagem de erros detectados sempre que os dados aeronáuticos e a informação aeronáutica são transferidos entre as partes referidas no artigo 2.º, n.º 2;\n\ng) A percentagem de erros detectados previamente à transferência dos dados e de erros notificados a seguir a tal transferência possa ser identificada separadamente."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "b1d7e48057e15fa1": {
+   "fragment_id": "REQUISITOS APLICÁVEIS ÀS FERRAMENTAS E AO SOFTWARE REFERIDOS NO ARTIGO 8.º",
+   "type": "divisao",
+   "heading": "REQUISITOS APLICÁVEIS ÀS FERRAMENTAS E AO SOFTWARE REFERIDOS NO ARTIGO 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS APLICÁVEIS ÀS FERRAMENTAS E AO SOFTWARE REFERIDOS NO ARTIGO 8.º\n\n1. As ferramentas utilizadas para servir de suporte ou automatizar os processos relativos aos dados aeronáuticos e à informação aeronáutica devem cumprir os requisitos dos pontos 2 e 3, caso a ferramenta:\n\n— tenha potencial para criar erros em elementos de dados críticos ou essenciais,\n\n— seja o único meio de detectar erros em elementos de dados críticos ou essenciais,\n\n— seja o único meio de detectar discrepâncias entre múltiplas versões de dados inseridos manualmente.\n\n2. No caso das ferramentas referidas no ponto 1, os requisitos em termos de nível de desempenho, funcionalidade e integridade devem ser definidos de modo a assegurar que a ferramenta cumpra a sua função no processo de dados sem afectar negativamente a qualidade dos dados aeronáuticos ou da informação aeronáutica.\n\n3. As ferramentas referidas no ponto 1 devem ser validadas e verificadas à luz dos requisitos mencionados no ponto 2.\n\n4. As ferramentas referidas no ponto 1 e que estão total ou parcialmente implementadas em *software* devem satisfazer os seguintes requisitos adicionais:\n\n— os requisitos do *software* devem especificar devidamente aquilo de que o *software* necessita para satisfazer os requisitos das ferramentas,\n\n— todos os requisitos do *software* devem estar conformes com os requisitos das ferramentas mencionados no ponto 2,\n\n— a validação e verificação do *software*, conforme definido nos pontos 5 e 6 respectivamente, devem ser aplicadas a uma versão executável conhecida do *software* no seu ambiente operativo-alvo.\n\n5. Por validação do *software* entende-se o processo que consiste em assegurar que o *software* cumpre os requisitos da aplicação específica ou da utilização prevista dos dados aeronáuticos ou da informação aeronáutica.\n\n6. Por verificação do *software* entende-se a avaliação dos resultados (*output*) de um processo de desenvolvimento de *software* de dados aeronáuticos e/ou de informação aeronáutica de modo a garantir a correcção e a coerência em relação aos dados de entrada (*inputs*) e às normas, regras e convenções aplicáveis ao *software* utilizado nesse processo."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "96920dd5d6f3d86a": {
+   "fragment_id": "REQUISITOS EM MATÉRIA DE PROTECÇÃO DE DADOS REFERIDOS NO ARTIGO 9.º",
+   "type": "divisao",
+   "heading": "REQUISITOS EM MATÉRIA DE PROTECÇÃO DE DADOS REFERIDOS NO ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS EM MATÉRIA DE PROTECÇÃO DE DADOS REFERIDOS NO ARTIGO 9.º\n\n1. Todos os dados transferidos em formato electrónico devem ser protegidos contra a perda ou alteração através da aplicação do algoritmo CRC32Q referido no anexo III, ponto 21. O valor da verificação de redundância cíclica (a seguir designada CRC) deve ser aplicado antes da verificação final dos dados que precede o seu armazenamento ou transferência.\n\n2. Se o tamanho físico dos dados exceder aquele que pode ser protegido ao nível exigido de integridade por uma única CRC, devem ser utilizados multiplos valores de CRC.\n\n3. Os dados aeronáuticos e a informação aeronáutica devem beneficiar de um nível de protecção de segurança adequado durante o armazenamento e quando da sua transferência entre as partes referidas no artigo 2.º, n.º 2, de modo a impedir a alteração acidental ou o acesso e/ou alteração não autorizados em qualquer etapa.\n\n4. O armazenamento e a transferência dos dados aeronáuticos e da informação aeronáutica devem ser protegidos por um processo de autenticação adequado, que garanta que os seus destinatários possam confirmar que foram transmitidos por uma fonte autorizada."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "34b0fefd8bf0b71c": {
+   "fragment_id": "REQUISITOS EM MATÉRIA DE GESTÃO DA QUALIDADE E DA SEGURANÇA REFERIDOS NO ARTIGO 10.º",
+   "type": "divisao",
+   "heading": "REQUISITOS EM MATÉRIA DE GESTÃO DA QUALIDADE E DA SEGURANÇA REFERIDOS NO ARTIGO 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS EM MATÉRIA DE GESTÃO DA QUALIDADE E DA SEGURANÇA REFERIDOS NO ARTIGO 10.º"
+  },
+  "85eda6b6120fb890": {
+   "fragment_id": "Sistema de gestão da qualidade",
+   "type": "divisao",
+   "heading": "Sistema de gestão da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Sistema de gestão da qualidade\n\n1. Um sistema de gestão da qualidade utilizado na originação, produção, armazenamento, manipulação, processamento, transferência e distribuição dos dados aeronáuticos e da informação aeronáutica deve:\n\n— definir a política de qualidade de forma a satisfazer, tanto quanto possível, as necessidades dos vários utilizadores,\n\n— estabelecer um programa de garantia da qualidade cujos procedimentos sejam concebidos de modo a certificar-se de que todas as operações são realizadas em conformidade com os requisitos, normas e procedimentos aplicáveis, incluindo os requisitos pertinentes do presente regulamento,\n\n— fornecer provas do funcionamento do sistema de qualidade por meio de manuais e de documentos de monitorização,\n\n— nomear os seus representantes para monitorizar o cumprimento e a adequação dos procedimentos destinados a garantir práticas seguras e eficientes no plano operacional,\n\n— efectuar verificações do sistema de qualidade em vigor e tomar medidas correctivas, se necessário.\n\n2. O certificado EN ISO 9001, emitido por uma organização devidamente acreditada, deve ser considerado uma garantia suficiente de cumprimento dos requisitos do ponto 1. As partes referidas no artigo 2, n.º 2, devem permitir o acesso da autoridade supervisora nacional, sempre que ela o solicite, à documentação relacionada com a certificação."
+  },
+  "564564f7e384c553": {
+   "fragment_id": "Objectivos da gestão da segurança operacional",
+   "type": "divisao",
+   "heading": "Objectivos da gestão da segurança operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Objectivos da gestão da segurança operacional\n\n1. A gestão da segurança operacional tem por objectivo:\n\n— minimizar a contribuição dos erros detectados nos dados para o risco de acidentes com aeronaves, na medida do possível,\n\n— promover acções de sensibilização para a segurança no âmbito da organização, mediante a partilha dos ensinamentos colhidos com actividades de segurança e incentivar o pessoal a propor soluções para os problemas de segurança detectados e melhorias para promover a eficácia e eficiência dos processos,\n\n— assegurar a identificação de uma função no âmbito da organização que incida especificamente no desenvolvimento e na manutenção dos objectivos de gestão da segurança,\n\n— assegurar a conservação de registos e a realização de acções de monitorização para oferecer uma garantia da segurança das actividades,\n\n— assegurar a formulação de recomendações de melhoramentos, se necessário, para oferecer uma garantia da segurança das actividades.\n\n2. Deve ser atribuída à realização dos objectivos da gestão da segurança a máxima prioridade sobre as pressões comerciais, operacionais, ambientais ou sociais."
+  },
+  "0e95c6c6f36d4537": {
+   "fragment_id": "Objectivos da gestão da segurança não operacional",
+   "type": "divisao",
+   "heading": "Objectivos da gestão da segurança não operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Objectivos da gestão da segurança não operacional\n\n1. Os objectivos de gestão da segurança não operacional são os seguintes:\n\n— garantir a segurança dos dados aeronáuticos e da informação aeronáutica recebidos, produzidos ou de qualquer outra forma utilizados, de modo a protegê-los contra as interferências e restringir o seu acesso exclusivamente às pessoas autorizadas,\n\n— assegurar que as medidas de gestão da segurança da organização cumpram requisitos nacionais ou internacionais adequados no que respeita às infra-estruturas críticas e à continuidade das operações, assim como as normas internacionais em matéria de gestão da segurança, nomeadamente as normas ISO referidas no anexo III, pontos 22 e 23.\n\n2. No que respeita às normas ISO, o certificado pertinente emitido por uma organização devidamente acreditada deve ser considerado garantia suficiente de conformidade. As partes referidas no artigo 2, n.º 2, devem permitir o acesso da autoridade supervisora nacional, sempre que ela o solicite, à documentação relacionada com a certificação."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "63085fcf557323d2": {
+   "fragment_id": "Regras relativas à avaliação da conformidade ou à adequação para utilização dos componentes referidos no artigo 11.º",
+   "type": "divisao",
+   "heading": "Regras relativas à avaliação da conformidade ou à adequação para utilização dos componentes referidos no artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras relativas à avaliação da conformidade ou à adequação para utilização dos componentes referidos no artigo 11.º\n\n1. As actividades de verificação devem demonstrar a conformidade dos componentes com os requisitos de interoperabilidade, desempenho, qualidade e segurança definidos no presente regulamento ou a sua adequação para utilização em ambiente de ensaio.\n\n2. O fabricante, ou o seu representante autorizado estabelecido na Comunidade, deve gerir as actividades de avaliação da conformidade e, nomeadamente:\n\n— determinar o ambiente de ensaio adequado,\n\n— certificar-se de que o plano de ensaio descreve os componentes em ambiente de ensaio,\n\n— certificar-se de que o plano de ensaio cobre a totalidade dos requisitos aplicáveis,\n\n— assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio,\n\n— planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio,\n\n— realizar as inspecções e os ensaios especificados no plano de ensaio,\n\n— redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n3. O fabricante, ou o seu representante autorizado estabelecido na União, deve assegurar que os componentes utilizados para a originação, produção, armazenamento, manipulação, processamento, transferência e distribuição dos dados aeronáuticos e da informação aeronáutica integrados no ambiente de ensaio satisfazem os requisitos de interoperabilidade, desempenho, qualidade e segurança do presente regulamento.\n\n4. Uma vez concluída a verificação da conformidade ou da adequação para utilização, o fabricante, ou o seu representante autorizado estabelecido na União deve, sob a sua responsabilidade, emitir a declaração CE de conformidade ou de adequação para utilização, especificando, designadamente, os requisitos do presente regulamento a que o componente obedece e as suas condições de utilização, em conformidade com o anexo III, ponto 3, do Regulamento (CE) n.º 552/2004."
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "12ff43686f12bb4b": {
+   "fragment_id": "CONDIÇÕES REFERIDAS NO ARTIGO 12.º",
+   "type": "divisao",
+   "heading": "CONDIÇÕES REFERIDAS NO ARTIGO 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES REFERIDAS NO ARTIGO 12.º\n\n1. O prestador de serviços de navegação aérea deve dispor, na sua organização, de métodos de elaboração de relatórios que garantam e demonstrem a imparcialidade e independência dos seus juízos sobre as actividades de verificação.\n\n2. O prestador de serviços de navegação aérea deve garantir que o pessoal responsável pelos processos de verificação efectue os controlos com a máxima integridade profissional e a máxima competência técnica possíveis e sem quaisquer pressões e incentivos, designadamente de natureza financeira, que possam afectar o seu julgamento ou os resultados dos seus controlos, nomeadamente por parte de pessoas ou grupos de pessoas afectados pelos resultados dos controlos.\n\n3. O prestador de serviços de navegação aérea deve assegurar que o pessoal responsável pelos processos de verificação tenha acesso a equipamentos que lhe permitam a correcta realização das verificações necessárias.\n\n4. O prestador de serviços de navegação aérea deve garantir que o pessoal responsável pelos processos de verificação possua uma sólida formação técnica e profissional, conhecimentos satisfatórios das exigências inerentes às verificações que deve efectuar, experiência adequada de tais operações e a capacidade necessária para elaborar as declarações, os registos e os relatórios que demonstram a realização das verificações.\n\n5. O prestador de serviços de navegação aérea deve garantir que o pessoal responsável pelos processos de verificação esteja apto a efectuar os controlos com imparcialidade. A sua remuneração deve ser independente do número de verificações realizadas e dos resultados destas."
+  },
+  "82c866f33a162c59": {
+   "fragment_id": "ANEXO X",
+   "type": "divisao",
+   "heading": "ANEXO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "d5bf59c6376ad0f4": {
+   "fragment_id": "Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 1",
+   "type": "divisao",
+   "heading": "Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 1\n\n1. A verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, deve demonstrar a conformidade destes sistemas com os requisitos de interoperabilidade, desempenho e segurança previstos no presente regulamento, num ambiente de avaliação que espelhe o contexto operacional desses sistemas.\n\n2. A verificação dos sistemas a que se refere no primeiro parágrafo do n.º 1 do artigo 2.º deve ser efectuada em conformidade com práticas de ensaio adequadas e reconhecidas.\n\n3. As ferramentas de ensaio utilizadas para a verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, devem ser dotadas das funcionalidades adequadas.\n\n4. A verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, deve produzir os elementos do processo técnico previstos no anexo IV, ponto 3, do Regulamento (CE) n.º 552/2004, assim como os seguintes elementos:\n\n— uma descrição da implementação,\n\n— o relatório das inspecções e ensaios realizados antes da entrada em funcionamento do sistema.\n\n5. O prestador de serviços de navegação aérea deve gerir as actividades de verificação e, nomeadamente:\n\n— determinar o ambiente operacional e técnico simulado adequado, correspondente ao ambiente operacional,\n\n— certificar-se de que o plano de ensaio descreve a integração dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, no ambiente de avaliação operacional e técnica,\n\n— certificar-se de que o plano de ensaio cobre a totalidade dos requisitos de interoperabilidade, desempenho e segurança aplicáveis, previstos no presente regulamento,\n\n— assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio,\n\n— planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio,\n\n— realizar as inspecções e os ensaios previstos no plano de ensaio,\n\n— redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n6. O prestador de serviços de navegação aérea deve assegurar que os sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, sob a sua responsabilidade, satisfaçam os requisitos de interoperabilidade, desempenho e segurança previstos no presente regulamento.\n\n7. Uma vez concluída com sucesso a verificação da conformidade, os prestadores de serviços de navegação aérea devem redigir a declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme exigido pelo artigo 6.º do Regulamento (CE) n.º 552/2004."
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "6a98b3e66cc0add6": {
+   "fragment_id": "Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 2",
+   "type": "divisao",
+   "heading": "Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos relativos à verificação dos sistemas referidos no artigo 12.º, n.º 2\n\n1. A verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, deve demonstrar a conformidade destes sistemas com os requisitos de interoperabilidade, desempenho e segurança previstos no presente regulamento, num ambiente de avaliação que espelhe o contexto operacional dos sistemas.\n\n2. A verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, deve ser efectuada em conformidade com práticas de ensaio adequadas e reconhecidas.\n\n3. As ferramentas de ensaio utilizadas para a verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, devem ser dotadas das funcionalidades adequadas.\n\n4. A verificação dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, deve produzir os elementos do processo técnico previstos no anexo IV, ponto 3, do Regulamento (CE) n.º 552/2004, assim como os seguintes elementos:\n\n— uma descrição do sistema instalado,\n\n— o relatório das inspecções e dos ensaios realizados antes da sua colocação em serviço.\n\n5. O prestador de serviços de navegação aérea deve determinar o ambiente de avaliação operacional e técnica adequado que reflete o ambiente operacional real e confiar as actividades de verificação a um organismo notificado.\n\n6. O organismo notificado deve gerir as actividades de verificação e, nomeadamente:\n\n— certificar-se de que o plano de ensaio descreve a integração dos sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, no ambiente de avaliação operacional e técnica,\n\n— certificar-se de que o plano de ensaio cobre a totalidade dos requisitos de interoperabilidade, desempenho e segurança aplicáveis, previstos no presente regulamento,\n\n— assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio,\n\n— planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio,\n\n— realizar as inspecções e os ensaios especificados no plano de ensaio,\n\n— redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n7. O organismo notificado deve assegurar que os sistemas referidos no primeiro parágrafo do n.º 1 do artigo 2.º, utilizados no ambiente operacional de avaliação, satisfazem os requisitos de interoperabilidade, desempenho e segurança definidos no presente regulamento.\n\n8. Uma vez concluídas as tarefas de verificação, o organismo notificado deve emitir um certificado de conformidade relativo às tarefas executadas.\n\n9. O prestador de serviços de navegação aérea deve, então, redigir uma declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme exigido pelo artigo 6.º do Regulamento (CE) n.º 552/2004."
+  },
+  "347fa34d45987b5d": {
+   "fragment_id": "ANEXO XI",
+   "type": "divisao",
+   "heading": "ANEXO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI"
+  },
+  "71feae4a707431cd": {
+   "fragment_id": "Diferenças notificadas à ICAO e mencionadas no artigo 14.º",
+   "type": "divisao",
+   "heading": "Diferenças notificadas à ICAO e mencionadas no artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Diferenças notificadas à ICAO e mencionadas no artigo 14.º\n\nCapítulo 3, secção 3.5.2 *Cyclic redundancy check* (verificação da redundância cíclica), do anexo 15 da Convenção de Chicago — Serviços de Informação Aeronáutica (décima quarta edição, julho de 2013, que incorpora a alteração n.º 37).\n\n---"
+  },
+  "c256a557c8c7c4fc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/97b943f4-8e7a-4c6e-9350-982f0efa31ac.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/97b943f4-8e7a-4c6e-9350-982f0efa31ac.0015.02/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1."
+  },
+  "62749f69904e3726": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02010R0073 — PT — 27.01.2022 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32010R0073) [REGULAMENTO (UE) N.º 73/2010 DA COMISSÃO](http://publications.europa.eu/resource/celex/32010R0073) [de 26 de Janeiro de 2010](http://publications.europa.eu/resource/celex/32010R0073) [que estabelece os requisitos aplicáveis à qualidade dos dados aeronáuticos e da informação aeronáutica no Céu Único Europeu](http://publications.europa.eu/resource/celex/32010R0073) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32010R0073) (JO L 023, 27.1.2010, p.6)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2020/469 da Comissão de 14 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0469) — L 104 — 1 — 3.4.2020"
+  }
+ }
+}

@@ -1,0 +1,1428 @@
+---
+schema_version: '1.0'
+id: pt:dre:206660:por
+title: Decreto-Lei n.º 167/2002
+short_title: null
+summary: Estabelece o regime jurídico relativo ao licenciamento e ao funcionamento das entidades que desenvolvem actividades
+  nas áreas de protecção radiológica e transpõe para a ordem jurídica interna disposições relativas às matérias de dosimetria
+  e formação, da Directiva n.º 96/29/EURATOM, do Conselho, de 13 de Maio de 1996, que fixa as normas de base de segurança
+  relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 167/2002
+official_date: null
+publication_date: '2002-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 164/2002, Série I-A de 2002-07-18
+  number: '164'
+  series: I
+  supplement: null
+  pages: 5381 - 5392
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/07/164a00/53815392.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-04-02'
+version_history:
+  file: decreto-lei-167-2002.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2002-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-01'
+    amending: pt:dre:70139964:por
+    amending_title: Decreto-Lei n.º 184/2015
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 28.º
+    - Altera Artigo 32.º
+    - Altera Artigo 34.º
+  - date: '2019-04-02'
+    amending: pt:dre:117202785:por
+    amending_title: Decreto-Lei n.º 108/2018
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/167/2002/p/cons/20181203/pt/html
+  oj: null
+  dre: '206660'
+  dre_path: /dr/detalhe/decreto-lei/167-2002-206660
+  internal: pt:dre:206660:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2002-206660
+  metadata_url: https://data.dre.pt/eli/dec-lei/167/2002/p/cons/20181203/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-70149611
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-70149611
+  retrieved_at: '2026-10-22T12:02:10Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 196b2eb383c4e74275fc71d6a4d581feaa389b26e860154873b960d8bc4ff48e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:02:10Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-167-2002.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Aproximação das Legislações
+- Centro Nacional de Protecção contra os Riscos Profissionais
+- Formação Profissional
+- Multa
+- Metrologia
+- Radiactividade
+- Radioprotecção
+- Direção Geral da Saúde
+- Higiene do Trabalho
+- Contra-ordenação
+- Saúde Pública
+- Segurança no Trabalho
+- Segurança Pública
+- Fiscalização
+- Formador
+- Base de Dados
+- Instituto Tecnológico e Nuclear
+- Licenciamento
+- Prestação de Serviços
+- Programa de Formação
+- Confidencialidade
+- Radiologia
+- Regime Jurídico
+- Responsabilidade Civil
+- Segurança das Instalações
+relationships:
+- type: amended_by
+  target: pt:dre:439380:por
+  label: Adita Artigo 6.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º;
+    Altera Artigo 25.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2008-439380
+  date: '2008-11-10'
+- type: amended_by
+  target: pt:dre:70139964:por
+  label: Adita Artigo 6.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º;
+    Altera Artigo 25.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964
+  date: '2015-08-31'
+- type: amended_by
+  target: pt:dre:117202785:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: transposes
+  target: celex:31996L0029
+  label: null
+  source: null
+article_structure:
+  article_count: 39
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:02:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 167/2002
+
+Decreto-Lei n.º 167/2002
+
+de 18 de Julho
+
+Os princípios e as normas de segurança de base destinados à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes, bem como as medidas fundamentais relativas à protecção contra radiações das pessoas submetidas a exames e a tratamentos médicos, têm sido objecto de harmonização legislativa comunitária, a que tem correspondido a devida transposição para o ordenamento jurídico interno.
+
+Com o objectivo de garantir que as normas de protecção radiológica adoptadas para estas áreas sejam respeitadas, a alínea f) do n.º 3.1 do despacho da Ministra da Saúde n.º 7191/97 (2.ª série), publicado no Diário da República, 2.ª série, n.º 205, de 5 de Setembro de 1997, previa que a avaliação e a verificação das condições de protecção radiológica das instalações e dos equipamentos seriam levadas a cabo por entidades devidamente autorizadas e com regras de funcionamento a estabelecer em diploma próprio.
+
+Estando a protecção e a vigilância individual dos trabalhadores incluídas nas normas de radioprotecção, é igualmente necessário definir qual a metodologia de avaliação dosimétrica a aplicar pelas referidas entidades relativamente às pessoas profissionalmente expostas.
+
+Por outro lado, sendo imprescindível uma correcta e contínua actividade de formação para assegurar uma acção eficaz, quer dos meios técnicos quer dos humanos, deve ser considerada a valência de formação de pessoal entre as actividades que estas entidades podem desenvolver.
+
+Assim, o presente diploma estabelece a regulamentação relativa à organização e ao funcionamento das entidades que desenvolvam as suas actividades nas áreas da protecção radiológica.
+
+Podendo a actividade destas entidades abranger também as valências de dosimetria e de formação de pessoal, que foram contempladas nas normas de segurança de base da Directiva n.º 96/29/EURATOM, do Conselho, de 13 de Maio de 1996, considerou-se oportuno incluir no presente diploma a transposição para o ordenamento jurídico interno das disposições da citada directiva correspondentes àquelas áreas.
+
+Quanto à valência da avaliação e verificação das condições de protecção radiológica das instalações e dos equipamentos que produzam ou utilizem radiações ionizantes, é aplicável a legislação em vigor.
+
+Cabe à Direcção-Geral da Saúde a promoção e a coordenação das medidas consideradas necessárias à aplicação do presente diploma, numa acção articulada com os serviços do Departamento de Protecção Radiológica e Segurança Nuclear do Instituto Tecnológico e Nuclear, do Instituto Português da Qualidade, do Instituto do Emprego e Formação Profissional e do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho.
+
+Foram ouvidos os serviços cujas competências estão envolvidas na aplicação do presente diploma.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Introdução
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma aprova o regime jurídico do licenciamento e do funcionamento das entidades de prestação de serviços na área da protecção contra radiações ionizantes.
+
+2 - O presente diploma aprova igualmente os requisitos técnicos respeitantes às actividades das entidades referidas no número anterior.
+
+3 - O presente diploma transpõe para o ordenamento jurídico interno as disposições relativas às áreas da dosimetria e da formação, previstas na Directiva n.º 96/29/EURATOM, do Conselho, de 13 de Maio de 1996, que fixa as normas de base de segurança relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes de radiações ionizantes.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 2.º — Âmbito
+
+O presente diploma aplica-se às entidades que prestam serviços na área da proteção e segurança contra as radiações ionizantes, designadamente em instalações onde são desenvolvidas práticas nas áreas da medicina, indústria, investigação e ensino.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação do presente diploma, entende-se por:
+
+a) Acreditação - a declaração por um organismo nacional de acreditação de que um organismo de avaliação da conformidade cumpre, para executar as atividades específicas de avaliação da conformidade, os requisitos definidos em normas harmonizadas e, se for esse o caso, quaisquer requisitos adicionais, nomeadamente os estabelecidos em sistemas setoriais;
+
+b) Entidade ou entidades - pessoas singulares ou coletivas, de direito público ou privado, que levam a cabo as práticas ou as atividades laborais referidas no artigo 1.º, pelas quais sejam juridicamente responsáveis nos termos da lei nacional;
+
+c) Início da atividade - data a partir da qual a entidade desenvolve a atividade em território nacional, em presença ou à distância;
+
+d) Inspeção - avaliação da conformidade de um produto, processo ou serviço por meio de observação, medição, ensaio ou comparação das características relevantes relativamente a requisitos especificados;
+
+e) Instalação radiológica - local onde funciona equipamento radiológico, médico ou industrial;
+
+f) Radiação ionizante - a transferência de energia sob a forma de partículas ou de ondas eletromagnéticas com um comprimento de onda igual ou inferior a 100 nm ou uma frequência igual ou superior a 3 x 10(elevado a 15) Hz e capazes de produzir iões direta ou indiretamente;
+
+g) Titular - pessoa singular ou coletiva juridicamente responsável pela instalação;
+
+h) Trabalhadores expostos - aqueles trabalhadores que, pelas circunstâncias em que se desenvolve o seu trabalho, estão sujeitos a um risco de exposição a radiações ionizantes suscetível de produzir doses superiores aos limites de dose fixados para os membros do público;
+
+i) Trabalhadores expostos da categoria A - os trabalhadores expostos suscetíveis de receber uma dose efetiva superior a 6 mSv por ano ou uma dose equivalente superior a 3/10 dos limites de dose fixados para o cristalino, para a pele e para as extremidades dos membros;
+
+j) Trabalhadores expostos da categoria B - os trabalhadores expostos não classificados na categoria A.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+### Capítulo II — Disposições gerais
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 4.º — Inicio da actividade
+
+1 - A entidade com sede social no território nacional deve requerer autorização para iniciar as suas actividades no território nacional, nos termos do disposto no artigo seguinte.
+
+2 - A entidade com sede social num Estado membro da União Europeia que inicie atividades no território nacional deve enviar à Direção-Geral da Saúde:
+
+a) A localização da sede social no Estado membro em que se encontra domiciliada;
+
+b) A documentação relativa à autorização para o desenvolvimento da atividade, emitida pela autoridade reguladora competente do Estado membro;
+
+c) A declaração em como se compromete a respeitar o disposto no presente diploma;
+
+d) A documentação relativa à sua acreditação, nos termos previstos no artigo 6.º-A.
+
+3 - A entidade com sede social fora da União Europeia deve requerer autorização para iniciar as suas atividades no território nacional nos termos do disposto no artigo seguinte.
+
+4 - O Instituto Superior Técnico está autorizado a exercer a atividade de prestação de serviços de dosimetria individual e de área, sendo-lhe aplicável o regime previsto no presente diploma com as adaptações decorrentes da sua natureza de entidade pública.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 5.º — Licenciamento
+
+1 - No caso das entidades referidas nos n.os 1 e 3 do artigo anterior, o pedido de licenciamento deve ser dirigido à Direcção-Geral da Saúde, através de requerimento, do qual devem constar os seguintes elementos:
+
+a) Declaração do nome ou denominação social e endereço da sede social;
+
+b) Indicação das actividades a desenvolver;
+
+c) Indicação de acreditação anterior, se for o caso;
+
+d) Indicação das actividades desenvolvidas anteriormente, se for o caso;
+
+e) Indicação das instalações e equipamentos e outro material de que dispõe para desenvolver as sua actividades;
+
+f) Lista do pessoal técnico: categoria e qualificação profissional;
+
+g) Organização do pessoal e normas de funcionamento;
+
+h) Indicação dos procedimentos para garantir a protecção radiológica dos trabalhadores expostos, em razão das tarefas a desempenhar;
+
+i) Indicação dos honorários previstos para os estudos a efectuar;
+
+jj) Declaração no sentido de que se compromete a respeitar o disposto no presente diploma;
+
+k) Protocolos de ensaio, com indicação do método e dos procedimentos escritos;
+
+l) Documento de certificação de entidade formadora, emitido pela Direção-Geral do Emprego e das Relações de Trabalho, caso pretenda desempenhar a valência prevista na alínea d) do artigo 6.º.
+
+2 - A licença de funcionamento é concedida pela Direção-Geral da Saúde, após a emissão:
+
+a) Do parecer técnico do Instituto Superior Técnico; e
+
+b) Do certificado de competências pedagógicas dos formadores, pelo Instituto do Emprego e da Formação Profissional, I. P., quando for requerida a valência prevista na alínea d) do artigo 6.º.
+
+3 - Para efeitos do disposto na alínea a) do número anterior, os elementos transmitidos pela Direção-Geral da Saúde ao Instituto Superior Técnico devem incidir apenas em aspetos técnicos necessários para a emissão de parecer.
+
+4 - Sem prejuízo do disposto no n.º 2, a Direção-Geral da Saúde pode solicitar pareceres técnicos complementares a serviços ou organismos nacionais ou internacionais competentes, sempre que o entenda conveniente.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 5.º-A — Taxas
+
+1 - Pelos atos relativos ao procedimento referido no n.º 2 do artigo 5.º, é devida uma taxa de montante a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+2 - O produto da taxa prevista no número anterior destina-se a pagar as despesas inerentes ao processo de licenciamento e constitui receita própria dos serviços e organismos intervenientes, de acordo com a seguinte repartição:
+
+a) 30 % para a Direção-Geral da Saúde;
+
+b) 70 % a distribuir em partes iguais pelos serviços e organismos emissores de parecer técnico, referidos nos n.os 2 e 4 do artigo 5.º.
+
+3 - A taxa a que se refere o n.º 1 é cobrada integralmente pela Direção-Geral da Saúde, que procede depois à sua distribuição, nos termos previstos no número anterior.
+
+4 - O valor das taxas referidas no n.º 1 é automaticamente actualizado por aplicação do índice de preços ao consumidor divulgado, anualmente, pelo Instituto Nacional de Estatística.
+
+5 - A Direcção-Geral da Saúde divulga, anualmente, a actualização do valor das taxas referidas no n.º 1 através do seu sítio na Internet.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-11-15
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 215/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2008-439380), em vigor a partir de 2015-11-15
+
+###### Artigo 6.º — Valências
+
+Para efeitos do disposto no artigo 5.º, a entidade pode desenvolver, isolada ou conjuntamente, as atividades relativas às seguintes valências:
+
+a) Estudo das condições de proteção e segurança radiológica de instalações e equipamentos que produzam ou utilizem radiações ionizantes;
+
+b) Assessoria técnica nas áreas de atividade das instalações mencionadas na alínea anterior;
+
+c) Dosimetria individual e de área;
+
+d) Formação em proteção e segurança radiológica;
+
+e) Verificação das condições de proteção e segurança radiológica e da conformidade dos critérios de aceitabilidade em instalações e equipamentos que produzam ou utilizem radiações ionizantes.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 6.º-A — Acreditação
+
+1 - Estão sujeitas a acreditação as valências previstas nas alíneas a) e e) do artigo 6.º, de acordo com a Norma ISO/IEC 17020 para organismos de inspeção, e a valência prevista na alínea c) do artigo 6.º, de acordo com a Norma ISO/IEC 17025 para laboratórios.
+
+2 - As valências previstas nas alíneas b) e d) do artigo 6.º não são objeto de acreditação.
+
+3 - No processo de acreditação, o Instituto Português de Acreditação, I. P., pode consultar a Direção-Geral da Saúde.
+
+4 - A entidade dispõe do prazo de dois anos, a contar da data da emissão da licença de funcionamento, para apresentar à Direção-Geral da Saúde o certificado de acreditação emitido pelo Instituto Português de Acreditação, I. P., ou por organismo homólogo signatário do acordo multilateral relevante da European Cooperation for Accreditation ou da International Laboratory Accreditation Cooperation, conforme aplicável.
+
+5 - Findo o prazo previsto no número anterior sem que a entidade licenciada se encontre acreditada, caduca a licença de funcionamento emitida pela Direção-Geral da Saúde.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 7.º — Direcção técnica e outro pessoal
+
+1 - A direção técnica das entidades deve ser constituída por profissionais com nível 1 de qualificação profissional, nos termos definidos no Decreto-Lei n.º 227/2008, de 25 de novembro.
+
+2 - As entidades, para além da direção técnica, dispõem de pessoal técnico próprio devidamente qualificado para o exercício das suas atividades com um dos níveis de qualificação profissional, nos termos definidos no Decreto-Lei n.º 227/2008, de 25 de novembro.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 8.º — Regulamento interno
+
+A direcção técnica deve aprovar regulamento interno do qual constem as normas de actuação e a respectiva estrutura organizacional.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 9.º — Confidencialidade
+
+O pessoal que intervenha nas actividades referidas nas alíneas a), b), c) e e) do artigo 6.º fica sujeito ao segredo profissional no âmbito das suas actividades.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 10.º — Incompatibilidades
+
+1 - Qualquer indivíduo ou entidade que preste um serviço no âmbito das atividades referidas nas alíneas a), b) ou c) do artigo 6.º não pode prestar ao mesmo destinatário as atividades previstas na alínea e) do mesmo artigo.
+
+2 - A existência da incompatibilidade prevista no número anterior deve ser comunicada por qualquer das partes interessadas à Direção-Geral da Saúde, à qual compete decidir sobre a respetiva verificação.
+
+3 - A Direção-Geral da Saúde pode suspender a licença de funcionamento atribuída para o desenvolvimento da valência autorizada até à eliminação da incompatibilidade prevista no número anterior.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 11.º — Identificação
+
+A entidade deve estar identificada por tabuleta exterior.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 12.º — Autoridade competente
+
+Para efeitos do disposto no presente diploma, são designadas as seguintes autoridades competentes:
+
+a) Direcção-Geral da Saúde, relativamente ao processo de licenciamento e às actividades desenvolvidas;
+
+b) Instituto Superior Técnico, relativamente aos requisitos técnicos nas áreas da proteção radiológica e do controlo metrológico de instrumentos de medição de radiações ionizantes;
+
+c) Instituto Português da Qualidade, I. P., relativamente às áreas da normalização e da metrologia, enquanto organismo responsável pela gestão e coordenação do Sistema Português da Qualidade;
+
+d) Instituto Português de Acreditação, I. P., relativamente ao processo de acreditação;
+
+e) Instituto do Emprego e da Formação Profissional, I. P., relativamente à formação e certificação pedagógica de formadores.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 13.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente diploma, para efeitos do sancionamento dos ilícitos nele previstos, compete à Autoridade de Segurança Alimentar e Económica, sem prejuízo das atribuições dos serviços e organismos legalmente competentes, designadamente no que respeita às matérias a que se referem os artigos 19.º a 33.º e os anexos I e II.
+
+2 - O disposto no número anterior não prejudica as competências legalmente atribuídas a outros serviços e organismos com funções inspetivas e policiais.
+
+3 - A periodicidade da fiscalização contemplada no presente artigo não pode ser inferior a metade do prazo de validade de licença de funcionamento concedida.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 14.º — Registo
+
+1 - A Direção-Geral da Saúde organiza e mantém atualizado um registo central das entidades a que se refere o presente diploma.
+
+2 - O registo central previsto no número anterior é objeto de notificação à Comissão Nacional de Proteção de Dados (CNPD), nos termos da lei.
+
+3 - A lista das entidades licenciadas, ou que tenham iniciado a atividade ao abrigo do disposto no n.º 2 do artigo 4.º, e as respetivas valências, são publicadas no sítio na Internet da Direção-Geral da Saúde, devendo ser assegurado que esta publicação não é indexada a motores de pesquisa na Internet.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 15.º — Prazo da licença
+
+1 - A licença de funcionamento é válida por cinco anos, renovável por iguais períodos.
+
+2 - O pedido de renovação da licença deve ser apresentado à Direção-Geral da Saúde, nos mesmos termos do pedido inicial, com a antecedência mínima de 90 dias em relação ao termo do prazo previsto no número anterior.
+
+3 - A licença pode ser retirada a todo o tempo, sempre que a Direção-Geral da Saúde verifique que a entidade não está a cumprir os requisitos previstos no presente diploma.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 16.º — Comunicações obrigatórias
+
+1 - Qualquer alteração das características constantes do processo de licenciamento deve ser imediatamente comunicada à Direcção-Geral da Saúde.
+
+2 - No caso de se tornar necessário novo pedido de licença de funcionamento, pode a Direcção-Geral da Saúde dispensar a apresentação de alguns dos elementos previstos no artigo 5.º
+
+3 - A entidade que cesse a sua actividade deve fazer a respectiva comunicação à Direcção-Geral da Saúde até ao prazo máximo de 60 dias antes da data prevista para a cessação da actividade.
+
+4 - A entidade deve enviar à Direção-Geral da Saúde, até ao dia 31 de janeiro de cada ano, um relatório de atividades, detalhando todas as instalações radiológicas onde prestou serviços.
+
+5 - Quando os relatórios de verificação e controlo de qualidade identificarem desconformidades que não sejam corrigidas no prazo máximo de 10 dias após a notificação para esse efeito, a entidade deve enviar cópia dos mesmos à Direção-Geral da Saúde, devendo esta reencaminhá-la aos seguintes organismos:
+
+a) Administração Regional de Saúde, I. P., territorialmente competente, quando se tratar de uma instalação radiológica para fins médicos;
+
+b) IAPMEI - Agência para a Competitividade e Inovação, I. P., quando se tratar de uma instalação radiológica para fins industriais;
+
+c) Instituto Superior Técnico, quando se tratar de uma instalação radiológica para fins de investigação e ensino.
+
+6 - A Direção-Geral da Saúde e os organismos referidos no número anterior asseguram a confidencialidade das informações contidas nos relatórios previstos nos n.os 4 e 5 e não as disponibilizam a outras pessoas ou entidades externas.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 17.º — Seguro profissional e de actividade
+
+A responsabilidade civil e profissional das entidades abrangidas por este diploma deve ser transferida, total ou parcialmente, para empresas de seguros.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+### Capítulo III — Critérios mínimos de aceitabilidade das instalações e equipamentos radiológicos
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 18.º — Legislação aplicável
+
+1 - Os critérios mínimos de aceitabilidade das instalações e equipamentos de radiodiagnóstico médico, de radioterapia e de medicina nuclear regem-se pelas boas práticas internacionalmente reconhecidas e pela legislação específica que lhes for aplicável.
+
+2 - Os critérios mínimos de aceitabilidade das instalações e equipamentos que produzam ou utilizem radiações ionizantes nos setores da indústria, da investigação e do ensino são regidos pelas boas práticas internacionalmente reconhecidas e pelos diplomas que lhes sejam aplicáveis.
+
+3 - Compete à Direção-Geral da Saúde, em articulação com as demais autoridades competentes, validar os critérios de aceitabilidade em utilização.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+### Capítulo IV — Dosimetria
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 19.º — Requisitos específicos
+
+1 - A valência de dosimetria individual é concedida à entidade que, para além de obedecer aos requisitos gerais, satisfaça os seguintes requisitos específicos:
+
+a) O responsável técnico do serviço de dosimetria, para além de satisfazer os requisitos gerais, previstos no artigo 7.º, deve possuir conhecimentos práticos da técnica de medida utilizada;
+
+b) O sistema de dosimetria deve obedecer aos critérios técnicos previstos no anexo I do presente diploma, que dele faz parte integrante.
+
+2 - Na avaliação do pedido de licenciamento para a valência de dosimetria, devem ser tidos em conta os seguintes aspectos:
+
+a) Determinação das grandezas operacionais;
+
+b) Tipos de radiações e de radionuclidos a medir;
+
+c) Métodos de medida utilizados.
+
+3 - A apreciação do pedido referido no número anterior é feita tendo em conta as disposições técnicas constantes do anexo I.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 20.º — Leitura de dosímetros
+
+1 - A leitura dos dosímetros deve estar concluída nos seguintes prazos:
+
+a) No prazo máximo de 10 dias para os dosímetros usados pelas pessoas profissionalmente expostas da categoria A;
+
+b) No prazo máximo de 20 dias para os dosímetros usados pelas pessoas profissionalmente expostas da categoria B.
+
+2 - A entidade deve comunicar, no prazo máximo de três meses, ao serviço que gere a base de dados que constitui o registo dosimétrico central, as doses de radiação que registou.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 21.º — Valor de dose
+
+1 - Se a dose efetiva correspondente ao período de vigilância ultrapassar o nível de registo de 2 mSv ou se a dose equivalente recebida por um órgão ultrapassar 10 mSv, o responsável do serviço de dosimetria deve comunicar esse valor à Direção-Geral da Saúde, no prazo máximo de 10 dias após a receção do dosímetro.
+
+2 - A comunicação referida no número anterior inclui a identificação do trabalhador monitorizado, bem como a identificação do titular da instalação radiológica e da licença de funcionamento correspondente.
+
+3 - Quando o titular da instalação radiológica comunicar que um trabalhador esteve envolvido em acidente ou exposto a circunstâncias anormais, ou sempre que o responsável do serviço de dosimetria suspeitar que tal tenha acontecido, o dosímetro correspondente deve ser lido de imediato e o resultado comunicado, no prazo de 48 horas, à Direção-Geral da Saúde.
+
+4 - As comunicações referidas nos números anteriores não dispensam a comunicação obrigatória da leitura do dosímetro ao trabalhador e ao titular da instalação radiológica.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 22.º — Registo dosimétrico central
+
+1 - O Instituto da Segurança Social, I. P., cria e tem acesso à base de dados que constitui o registo dosimétrico central das doses acumuladas pelas pessoas expostas às radiações ionizantes no exercício da sua profissão, podendo a sua gestão ser delegada noutro serviço ou organismo público, desde que cumpridas as disposições da Lei n.º 67/98, de 26 de outubro.
+
+2 - Este registo tem as seguintes finalidades:
+
+a) Permitir o controlo a qualquer momento das doses acumuladas pelas pessoas expostas;
+
+b) Permitir realizar avaliações estatísticas.
+
+3 - A base de dados referida no n.º 1 é objeto de notificação à CNPD, nos termos da lei.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 23.º — Deveres da entidade
+
+1 - A entidade deve comunicar ao Instituto da Segurança Social, I. P., a respetiva denominação e endereço, bem como a identidade dos profissionais que nela estão expostos às radiações no exercício da sua profissão.
+
+2 - A entidade deve conservar durante cinco anos após a data da comunicação ao serviço do registo dosimétrico central os valores das doses e a identidade das pessoas que as receberam.
+
+3 - (Revogado).
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 24.º — Cessação de actividade
+
+A entidade que cesse a sua actividade, para além de satisfazer o disposto no n.º 3 do artigo 16.º, deve entregar ao serviço dosimétrico central o arquivo relativo aos registos de dose até 30 dias após o seu encerramento.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 25.º — Confidencialidade dos dados
+
+1 - A entidade só pode comunicar a identidade das pessoas controladas e as respetivas doses recebidas aos próprios, aos seus representantes, ao serviço que gere a base de dados que constitui o registo dosimétrico central, à Direção-Geral da Saúde e ao Instituto da Segurança Social, I. P., nos termos da lei.
+
+2 - As pessoas que trabalham no serviço de dosimetria da entidade estão submetidas ao dever de sigilo, nos termos do artigo 9.º.
+
+3 - O tratamento dos dados recolhidos deve ser feito nos termos do disposto nos artigos 14.º e 15.º da Lei n.º 67/98, de 26 de Outubro.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 26.º — Garantia de qualidade
+
+1 - A entidade deve submeter à aprovação da Direcção-Geral da Saúde o programa de garantia de qualidade.
+
+2 - A entidade deve implementar o programa aprovado.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 27.º — Conservação e publicação dos dados
+
+1 - Os dados constantes da base de dados que constitui o registo dosimétrico central devem ser conservados por um período não inferior a 35 anos.
+
+2 - O serviço que gere a base de dados que constitui o registo dosimétrico central elabora um relatório anual, em conjunto com as outras autoridades competentes, relativo aos resultados da dosimetria individual, cujos dados devem ser apresentados sob forma anonimizada.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964)
+
+### Capítulo V — Formação
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 28.º — Valência de formação
+
+A valência de formação é concedida pela Direção-Geral da Saúde, após obtenção dos documentos referidos no n.º 2 do artigo 5.º, à entidade certificada pela Direção-Geral do Emprego e das Relações do Trabalho que preencha as condições, previstas nos artigos seguintes, para ministrar formação específica em proteção radiológica aos profissionais que prossigam atividades suscetíveis de causar exposição a radiações ionizantes.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 29.º — Requisitos específicos
+
+1 - A entidade que pretenda desenvolver a valência de formação, para além dos requisitos gerais, previstos no artigo 5.º, deve incluir no pedido de autorização os seguintes elementos específicos:
+
+a) O programa da formação pretendida, que deve incluir, no mínimo, o programa de formação que consta do anexo II, contendo a descrição detalhada das matérias, em língua portuguesa;
+
+b) Os horários, com a duração e a periodicidade das sessões, teóricas e práticas, bem como as condições em que se efectuam as provas de controlo de conhecimentos;
+
+c) As tarifas previstas para cada módulo de formação, segundo as diferentes opções constantes do mesmo anexo II.
+
+d) A lista nominativa dos formadores;
+
+e) Os destinatários do programa de formação e os pré-requisitos de acesso.
+
+2 - Após a autorização do programa, qualquer modificação pretendida, quer a propósito do próprio programa de formação, quer da organização das sessões ou das provas de controlo de conhecimentos ou dos outros requisitos referidos no número anterior, deverá ser comunicada pela entidade à Direcção-Geral da Saúde, com todos os elementos de informação.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 30.º — Programa de formação
+
+O programa de formação, constante do anexo II, compreende os seguintes módulos:
+
+a) Um módulo comum de formação, com as seguintes matérias:
+
+Disposições regulamentares e normativas;
+
+Organização da radioprotecção nos serviços;
+
+Princípios gerais técnicos;
+
+b) Um módulo de formação opcional para a actividade médica ou para a actividade industrial, com as seguintes matérias:
+
+Utilização de fontes seladas e de aparelhos geradores de radiação X;
+
+Utilização de fontes não seladas.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 31.º — Duração da formação
+
+1 - O programa de formação e respectiva duração são função do sector de actividade do profissional, bem como dos diplomas de que o mesmo é titular.
+
+2 - O módulo comum de formação referida no ponto A do anexo II deve ter a duração mínima de doze horas (dois dias).
+
+3 - Cada um dos módulos de formação opcional referidos nos pontos B, C ou D do anexo II deve ter a duração mínima de seis horas (um dia).
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 32.º — Formadores
+
+1 - O formador deve ser detentor do nível 1 ou 2 de qualificação profissional, nos termos definidos no Decreto-Lei n.º 227/2008, de 25 de novembro.
+
+2 - O formador, para além da qualificação referida no número anterior, deve ser titular do certificado de competências pedagógicas, atribuído pelo Instituto do Emprego e da Formação Profissional, I. P., ou ser detentor de habilitação profissional para a docência nos ensinos básico ou secundário, ou exercer funções docentes em instituição de ensino superior.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 33.º — Certificado
+
+1 - Aos profissionais que tenham concluído a formação com aprovação em exame final é concedido um certificado emitido pela entidade que deu a formação.
+
+2 - O certificado deve identificar o âmbito da formação.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+### Capítulo VI — Sanções
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 34.º — Contra-ordenações
+
+1 -- Constituem contra-ordenações puníveis com coima graduada de (euro) 2000 a (euro) 3740, no caso de pessoa singular, e de (euro) 4990 até ao máximo de (euro) 44890, no caso de pessoa colectiva:
+
+a) A violação do disposto nos artigos 4.º, 6.º-A, 7.º e 9.º, no n.º 2 do artigo 15.º, nos n.os 1, 3, 4 e 5 do artigo 16.º e nos artigos 20.º e 21.º;
+
+b) O incumprimento do disposto nos artigos 8.º e 10.º
+
+2 - A negligência é punível.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2015-70139964), em vigor a partir de 2015-09-01
+
+###### Artigo 35.º — Aplicação e destino das coimas
+
+1 - Sem prejuízo das competências das autoridades policiais e administrativas, a instrução dos processos contra-ordenacionais, bem como a aplicação das coimas, cabe à autoridade competente, nos termos do artigo 12.º
+
+2 - O produto das coimas reverte:
+
+a) 60% para o Estado;
+
+b) 20% para a entidade que levantou o auto de notícia;
+
+c) 20% para a entidade instrutora do processo.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 36.º — Recurso
+
+Das decisões tomadas ao abrigo do presente diploma cabe recurso nos termos da lei geral.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 37.º — Entrada em vigor
+
+O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+Visto e aprovado em Conselho de Ministros de 29 de Maio de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix.
+
+Promulgado em 1 de Julho de 2002.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Julho de 2002.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+## Anexo I — Dosimetria
+
+Irradiação externa
+
+A - Grandezas operacionais para radiação externa
+
+As grandezas operacionais para determinação da radiação externa, usadas em monitorização individual, para fins de protecção contra radiações são:
+
+1 - Monitorização individual - equivalente de dose individual H(índice p) (d).
+
+d - profundidade em milímetros no corpo.
+
+2 - Monitorização de área:
+
+Equivalente de dose ambiental H* (d);
+
+Equivalente de dose direccional H' (d, (Ómega)).
+
+d - profundidade em milímetros abaixo da superfície da esfera no ponto A.
+
+(Ómega) - ângulo de incidência.
+
+3 - Recomendam-se, para uma radiação fortemente penetrante, uma profundidade de 10 mm e, para uma radiação fracamente penetrante, uma profundidade de 0,007 mm para a pele e de 3 mm para o olho.
+
+B - Execução da dosimetria (métodos de controlo)
+
+1 - Colocação do dosímetro - o dosímetro de corpo inteiro deve ser usado ao nível do tronco, sobre o peito ou sobre o abdómen. As mulheres grávidas devem usá-lo ao nível do abdómen.
+
+2 - Uso de vários dosímetros:
+
+2.1 - As pessoas controladas devem usar vários dosímetros quando o valor de dose indicado por um só dosímetro não é representativo devido à heterogeneidade do campo de radiações.
+
+2.2 - O perito da radioprotecção deve determinar a dose efectiva com base nas doses parciais.
+
+2.3 - O método de determinação deve ser aprovado pela autoridade de controlo, que fixará as modalidades de registo.
+
+3 - Equipamento suplementar com alarme e dosímetro de extremidades - a autoridade de controlo pode exigir que sejam utilizados:
+
+a) Um equipamento com alarme acústico, atendendo ao débito de dose, nos campos de radiação variáveis ou não homogéneos;
+
+b) Um dosímetro de leitura directa, com vista a optimizar os trabalhos;
+
+c) Um dosímetro de extremidades, no caso em que a dose aí possa ultrapassar 25 mSv por ano.
+
+4 - Uso de anteparo de protecção:
+
+4.1 - O dosímetro deve ser colocado sob o anteparo de protecção, se for o caso.
+
+4.2 - A autoridade de controlo deve exigir que dois dosímetros sejam usados sempre que os trabalhos impliquem doses elevadas sem anteparo de protecção.
+
+4.3 - O segundo dosímetro deve ser colocado sobre esse anteparo e estar devidamente assinalado.
+
+4.4 - A dose individual total com dois dosímetros deve ser calculada do seguinte modo:
+
+H(índice total)(10) = H(índice sub)(10) + a x H(índice sobre)(10)
+
+H(índice total)(0,07) = H(índice sub)(0,07) + a x H(índice sobre)(0,07)
+
+onde H(índice sub) representa a dose indicada pelo dosímetro colocado sob o anteparo e H(índice sobre) a do dosímetro colocado sobre o mesmo, a = 0,1 quando o anteparo não protege a glândula tiróide e a = 0,05 quando esta está protegida.
+
+5 - Uso de dosímetro de extremidades - o dosímetro de extremidades deve ser colocado, na medida do possível, no local onde se espera que a dose seja mais elevada.
+
+6 - Alongamento do período de medida - o alongamento do período de medida para além de um mês é possível com o consentimento da autoridade de controlo.
+
+C - Requisitos técnicos mínimos dos sistemas de dosimetria
+
+1 - Requisitos gerais - os sistemas de medida referidos no ponto anterior permitem determinar as grandezas operacionais, para a dosimetria individual, em casos de irradiação externa definidos no ponto A.
+
+2 - Requisitos para as condições de medida de rotina - o desvio do valor da dose H(índice m), determinado nas condições de rotina, relativamente ao valor de referência H(índice t) da grandeza operacional, deve situar-se, para os fotões, nos limites fixados no ponto F.
+
+3 - Critérios de dosimetria individual:
+
+3.1 - Os sistemas de dosimetria devem satisfazer os requisitos fixados no ponto G.
+
+3.2 - O desvio entre o valor da dose e o valor de referência, nas condições de referência fixadas no n.º 1 do ponto D, não deve ser superior a (mais ou menos) 10%.
+
+3.3 - Se os dosímetros são usados num campo de radiação conhecido sensivelmente diferente do campo de referência, a autoridade competente pode autorizar a aplicação de um factor de normalização relativamente às condições de referência.
+
+3.4 - A autoridade competente pode autorizar uma derrogação às exigências, respeitando a dependência em função da energia, se o serviço de dosimetria individual demonstrar que o seu sistema de dosimetria não é utilizado senão em campos de radiação que fornecem uma contribuição de dose significativa apenas num domínio particular de energia.
+
+4 - Medidas de intercomparação:
+
+4.1 - Quando se efectuarem as medidas de intercomparação visadas no n.º 4 do artigo 19.º, a precisão de medida, nas condições de referência fixadas no n.º 1 do ponto D, deve ser controlada.
+
+4.2 - Se os valores de dose indicados nas condições de referência se afastam mais de 10% do valor de referência, o serviço dosimétrico averigua a razão do desvio e efectua uma nova calibração do sistema de dosimetria.
+
+4.3 - Se forem efectuados os testes complementares, por ocasião das intercomparações, devem verificar-se as exigências fixadas no n.º 2 do ponto C e no ponto G nos anexos de 3 a 7, tendo em conta as excepções segundo o n.º 3 do ponto C.
+
+D - Definições e condições técnicas
+
+1 - Condições de referência - as condições de referência a considerar são as seguintes:
+
+Fantoma de irradiação definido no n.º 2 seguinte, dose situada entre 2 mSv e 10 mSv e campos de irradiação:
+
+a) Para fotões: fonte de césio-137;
+
+b) Para electrões: fonte de estrôncio-90/ítrio-90;
+
+c) Para neutrões: fonte de amerício-241/berílio-241.
+
+2 - Definição do fantoma de irradiação:
+
+O fantoma de irradiação para a dosimetria individual consiste num recipiente paralelipipédico em polimetilmetacrilato/PMMA (plexiglas) de dimensões 30 cm3 x 30 cm3 x 15 cm3. A espessura da parede é de 2,5 mm para a face central e 10 mm para as outras faces. O recipiente deve estar cheio de água.
+
+O fantoma de irradiação para as extremidades consiste num tubo em plexiglas de diâmetro de 19 mm e com comprimento de 300 mm.
+
+3 - Grandezas de medida - as grandezas operacionais da dosimetria individual são deduzidas, mediante recurso aos coeficientes de conversão constantes no ponto H, a partir das seguintes grandezas de medida:
+
+a) Kerma no ar (K(índice a)) para os fotões;
+
+b) Dose absorvida no ar (D(índice a)) ou fluência (fi) electrões;
+
+c) Fluência (fi) para neutrões.
+
+4 - Geometria de irradiação para fotões e neutrões - o campo de irradiação deve ser centrado no fantoma e perpendicular à sua face de entrada. O ponto de referência é o centro de medida do dosímetro. A distância entre a fonte e o fantoma deve ser de pelo menos 2 m. O campo de radiação deve cobrir completamente o fantoma.
+
+5 - Geometria de irradiação para radiação beta:
+
+O campo de irradiação deve ser centrado no fantoma e perpendicular à sua face de entrada. O ponto de referência é o centro de medida do dosímetro. A distância entre a fonte e o fantoma deve ser de pelo menos 20 cm e no máximo 50 cm.
+
+O campo de radiação deve cobrir completamente o fantoma.
+
+6 - Campos de radiação de referência - os campos de radiação de referência segundo o ponto H devem corresponder às normas ISO 4037 (feixes de fotões), ISO 8529-3 (feixes de neutrões) e ISO 6980 (feixes de radiação beta).
+
+7 - Condições para o controlo da dependência energética - a dependência energética é controlada irradiando o fantoma definido no n.º 2 do ponto D para um valor de referência da grandeza operacional situada entre 2 mSv e 10 mSv com um feixe perpendicular à face de entrada do fantoma.
+
+8 - Condições para o controlo da dependência direccional - a dependência direccional é controlada irradiando o fantoma definido no n.º 2 do ponto D sob diferentes ângulos, para um valor de referência da grandeza operacional situada entre 2 mSv e 10 mSv.
+
+9 - Condições para o controlo da reprodutibilidade - a reprodutibilidade é controlada nas condições de referência. Para o efeito, determina-se a dispersão das doses indicadas por vários dosímetros irradiados nas mesmas condições.
+
+10 - Fading - o efeito de fading sobre a medida da dose deve ser determinado, nas condições normais de utilização, num período de medida.
+
+E - Definições dos termos utilizados no presente anexo
+
+Equivalente de dose ambiental H* (d) - equivalente de dose num ponto de um campo de radiação que seria produzido pelo campo expandido e alinhado correspondente na esfera ICRU a uma profundidade d no raio oposto ao sentido do campo alinhado. A designação específica da unidade de equivalente de dose ambiental é o Sievert (Sv).
+
+Equivalente de dose direccional H' (d, (Ómega)) - equivalente de dose num ponto de um campo de radiação que seria produzido pelo campo expandido correspondente na esfera ICRU a uma profundidade d num raio numa direcção específica (Ómega). A designação específica da unidade de equivalente de dose direccional é o Sievert (Sv).
+
+Equivalente de dose individual H(índice p)(d) - o equivalente de dose em tecidos moles, a uma profundidade d, abaixo de um ponto específico do corpo. A designação específica da unidade de equivalente de dose individual é o Sievert (Sv).
+
+Esfera ICRU - corpo criado pela Comissão Internacional das Unidades e Medidas de Radiação ( ICRU) para representar o corpo humano no que diz respeito à absorção de energia das radiações ionizantes e que consiste numa esfera de um material equivalente a tecido, com 30 cm de diâmetro, uma densidade de 1 gcm(elevado a -3) e uma massa composta por 76,2% de oxigénio, 11,1% de carbono, 10,1% de hidrogénio e 2,6% de azoto.
+
+Campo expandido e alinhado - um campo de radiação cuja fluência e respectivas distribuições direccional e energética são iguais às do campo expandido, mas de fluência unidireccional.
+
+Campo expandido - um campo derivado do campo real cuja fluência e respectivas distribuições direccional e energética têm os mesmos valores através do volume considerado que no campo real no ponto de referência.
+
+Fading - diferença relativa entre o valor medido e o valor de referência em função do lapso de tempo entre a irradiação e a avaliação, em percentagem do valor de referência (percentagem/mês).
+
+Fluência (fi) - num ponto do campo, é o quociente dN por da, em que dN é o número de partículas que penetra numa esfera centrada nesse ponto, de secção da:
+
+(fi) = dN/da
+
+Incorporação - absorção de substâncias radioactivas no organismo humano por ingestão, inalação ou penetração através da pele.
+
+Kerma - num ponto da matéria, é a soma das energias cinéticas das partículas ionizantes carregadas libertadas pelas partículas ionizantes não carregadas, por unidade de massa da matéria (kinetic energy released in material) (J/kg, Gy).
+
+Nuclido director - nuclido representativo de uma mistura de nuclidos no que respeita à determinação da dose.
+
+Medida de incorporação - determinação da dose efectiva comprometida E(índice 50), com base na medida da actividade corporal ou dos excreta.
+
+Período efectivo - o período efectivo é calculado a partir do período biológico e do período físico de um radionuclido segundo a expressão:
+
+T1/2eff = (T1/2biol.T1/2phys)/T1/2biol + T1/2phys
+
+F - Curvas
+
+Para H(índice t) =<H(índice 0) - 0 =<H(índice m) =<2H(índice 0).
+
+Para H(índice t) =<H(índice 0):
+
+1/1,5 = [1 - (2H(índice m)/H(índice 0) + H(índice t))] =<H(índice m)/H(índice t) =<1,5 [1 + (H(índice m)/2H(índice m) + H(índice t))]
+
+em que:
+
+H(índice t) é o valor de referência da grandeza operacional;
+
+H(índice m) é o valor de dose determinada nas condições de rotina;
+
+H(índice 0) é a menor dose mensurável.
+
+(ver gráficos no documento original)
+
+G - Critérios de dosimetria individual
+
+1 - Critérios de dosimetria individual para fotões:
+
+a) Grandezas de medida - H(índice p)(10) e H(índice p)(0,07);
+
+b) Dose mínima mensurável:
+
+H(índice 0) = 0,1 mS para H(índice p)(10);
+
+H(índice 0) = 1 mS para H(índice p)(0,07);
+
+c) Domínio de medida - H(índice 0) até 5 Sv;
+
+d) Linearidade - desvio <15% entre 1 mSv e 5 Sv;
+
+e) Dependência energética:
+
+Para fotões de energia situada entre 20 ke V e 5 Me V - 0,7 =<(H(índice m)/H(índice t)) =<1,3 para H(índice p)(10);
+
+Para fotões de energia situada entre 10 ke V e 300 ke V em condições de equilíbrio electrónico secundário - 0,7 =<(H(índice m)/H(índice t)) =<1,3 para H(índice p)(0,07);
+
+f) Dependência direccional - <20% até 60º para energias > 60 ke V;
+
+g) Reprodutibilidade - desvio padrão s =<10% para H(índice p)(10) e H(índice p)(0,07);
+
+h) Fading - efeito <10%/mês.
+
+2 - Critérios de dosimetria individual para radiação beta:
+
+a) Grandezas de medida - H(índice p)(0,07);
+
+b) Dose mínima mensurável - H(índice 0) = 1 mS;
+
+c) Domínio de medida - H(índice 0) até 5 Sv;
+
+d) Linearidade - desvio <15% entre 1 mSv e 5 Sv;
+
+e) Dependência energética - para a radiação beta do tálio-204 ou do kripton-85 - 0,1 =<(H(índice m)/H(índice t)) =<2,0.
+
+No caso em que o sistema tenha sido aferido com uma radiação gama, o requisito suplementar seguinte aplica-se para a radiação beta do estrôncio-90/ítrio-90 - 0,5 =<(H(índice m)/H(índice t)) =<2,0;
+
+f) Reprodutibilidade - desvio padrão s =<10% para H(índice p)(10) e H(índice p)(0,07);
+
+g) Fading - efeito <10%/mês.
+
+3 - Critérios de dosimetria individual para os neutrões:
+
+a) Grandezas de medida - H(índice p)(10);
+
+b) Dose mínima mensurável - H(índice 0) = 0,5 mS;
+
+c) Domínio de medida - H(índice 0) até 5 Sv;
+
+d) Linearidade - desvio <30% entre 1 mSv e 5 Sv;
+
+e) Dependência energética - 0,3 =<(H(índice m)/H(índice t)) =<3,0 para os espectros de radiação nos quais o dosímetro é utilizado;
+
+f) Reprodutibilidade - desvio padrão s =<50%;
+
+g) Fading - efeito <30%/mês.
+
+4 - Critérios de dosimetria individual das extremidades para fotões:
+
+a) Grandezas de medida - H(índice p)(0,07);
+
+b) Dose mínima mensurável - H(índice 0) = 1 mS;
+
+c) Domínio de medida - H(índice 0) até 5 Sv;
+
+d) Linearidade - desvio <15% entre 1 mSv e 5 Sv;
+
+e) Dependência energética - para os fotões de energia situada entre 10 ke V e 300 ke V; até 1,5 Me V em condições de equilíbrio electrónico secundário - 0,5 =<(H(índice m)/H(índice t)) =<2,0;
+
+f) Dependência direccional - <20% até 60º para energias > 60 ke V;
+
+g) Reprodutibilidade - desvio padrão s =<15%;
+
+h) Fading - efeito <10%/mês.
+
+5 - Critérios de dosimetria individual das extremidades para a radiação beta:
+
+a) Grandezas de medida - H(índice p)(0,07);
+
+b) Dose mínima mensurável - H(índice 0) = 1 mS;
+
+c) Domínio de medida - H(índice 0) até 5 Sv;
+
+d) Linearidade - desvio <15% entre 1 mSv e 5 Sv;
+
+e) Dependência energética - para a radiação beta do tálio-204 ou do kripton-85 - 0,1 =<(H(índice m)/H(índice t)) =<2,0.
+
+No caso de o sistema estar associado a uma radiação gama, a energia suplementar seguinte aplica-se para a radiação beta do estrôncio-90/ítrio-90 - 0,5 =<(H(índice m)/H(índice t) =<2,0;
+
+f) Reprodutibilidade - desvio padrão s =<15%;
+
+g) Fading - efeito <10%/mês.
+
+H - Coeficientes de conversão
+
+1 - Coeficientes de conversão para fotões:
+
+Coeficientes de conversão do kerma no ar para a dose individual em profundidade, H(índice p)(10), e para a dose individual à superfície, H(índice p)(0,07), aplicáveis a um dosímetro individual colocado sobre um fantoma paralelipipédico:
+
+(ver tabela no documento original)
+
+Coeficientes de conversão do kerma no ar para a dose individual à superfície H(índice p)(0,07) aplicável a um dosímetro de extremidades colocado sobre um fantoma - haste ISO em PMMA:
+
+(ver tabela no documento original)
+
+2 - Coeficientes de conversão para os neutrões - coeficientes de conversão H(índice p(fi))(10; (alfa)) da fluência neutrónica (fi) para a dose individual em profundidade H(índice p)(10) aplicável a um dosímetro individual colocado num fantoma paralelipipédico (Art....):
+
+(ver tabela no documento original)
+
+Os valores inferiores a 30 Me V foram considerados idênticos aos coeficientes de conversão para a obtenção de H*(10).
+
+3 - Coeficientes de conversão para os electrões:
+
+(ver tabela no documento original)
+
+4 - Coeficientes de conversão específicos para as fontes padrão beta:
+
+(ver tabela no documento original)
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+## Anexo II — Programa de formação
+
+A - Área comum de formação
+
+I - Disposições regulamentares e normativas
+
+1 - Regulamentações internacionais:
+
+1.1 - «Normas de radioprotecção» - Princípio ALARA.
+
+1.2 - Comissão Internacional de Protecção Radiológica (CIPR).
+
+1.3 - Agência Internacional de Energia Atómica (AIEA).
+
+1.4 - Comunidade Europeia (CE).
+
+2 - A legislação nacional:
+
+2.1 - Legislação do trabalho.
+
+2.2 - Legislação na área da saúde pública.
+
+2.3 - Legislação na área da protecção contra as radiações ionizantes:
+
+2.3.1 - Protecção do público e dos trabalhadores;
+
+2.3.2 - Protecção dos trabalhadores externos;
+
+2.3.3 - Funcionamento de instalações que utilizem radiações ionizantes;
+
+2.3.4 - Transporte de matérias radioactivas;
+
+2.3.5 - Eliminação de resíduos radioactivos.
+
+2.4 - Condições particulares de utilização de radioelementos artificiais.
+
+3 - Disposições normativas aplicáveis às fontes de radiações ionizantes.
+
+II - Organização da radioprotecção no estabelecimento
+
+1 - Papel do titular da instalação:
+
+1.1 - Medidas técnicas.
+
+1.2 - Medidas administrativas: procedimentos e instruções.
+
+1.3 - Medidas de natureza médica. Relacionamento com o médico de trabalho.
+
+1.4 - Manutenção e cessação de utilização de fontes de radiações ionizantes.
+
+2 - Papel da pessoa responsável pela radioprotecção da instalação:
+
+2.1 - Conhecimento dos aparelhos de detecção e medida e aptidão para os utilizar.
+
+2.2 - Análise dos postos de trabalho:
+
+2.2.1 - Material;
+
+2.2.2 - Procedimentos;
+
+2.2.3 - Organização do trabalho;
+
+2.2.4 - Elaboração dos procedimentos de segurança.
+
+2.3 - Relativamente às medidas de protecção:
+
+2.3.1 - Estado das instalações e dos materiais;
+
+2.3.2 - Zona vigiada e zona controlada;
+
+2.3.3 - Sinalização.
+
+2.4 - Incidentes e acidentes:
+
+2.4.1 - Recenseamento das situações e modos de trabalho perigosos;
+
+2.4.2 - Plano de intervenção;
+
+2.4.3 - Primeiras medidas de urgência;
+
+2.4.4 - Relatórios de acidentes e de incidente.
+
+2.5 - Formação dos trabalhadores em segurança radiológica.
+
+2.6 - Relacionamento com o médico do trabalho, em particular para o controlo dosimétrico e radiotoxicológico do trabalhador.
+
+2.7 - Responsabilidade civil e penal.
+
+III - Princípios gerais técnicos
+
+1 - Radiações electromagnéticas:
+
+1.1 - Espectro electromagnético.
+
+1.2 - Origem das radiações electromagnéticas.
+
+1.3 - Parâmetros ondulatórios característicos.
+
+1.4 - Comportamento corpuscular das radiações electromagnéticas.
+
+1.5 - Dualidade da natureza das radiações electromagnéticas.
+
+2 - Radiações corpusculares:
+
+2.1 - Estrutura do átomo.
+
+2.2 - Isótopos estáveis e instáveis.
+
+2.3 - Radioactividade.
+
+2.4 - O declínio radioactivo.
+
+3 - Interacção da radiação X, y, partículas carregadas e neutrões, com a matéria:
+
+3.1 - Ionização directa e indirecta.
+
+3.2 - Transferência linear de energia (TLE).
+
+4 - Grandezas e unidades utilizadas em radioprotecção:
+
+4.1 - Actividade.
+
+4.2 - Dose absorvida.
+
+4.3 - Equivalente de dose.
+
+5 - Monitorização das radiações ionizantes:
+
+5.1 - Princípio de funcionamento dos equipamentos.
+
+5.2 - Critérios de escolha.
+
+5.3 - Dosimetria individual e dosimetria de área.
+
+6 - Acção biológica das radiações sobre os organismos vivos:
+
+6.1 - Efeitos somáticos:
+
+6.1.1 - Efeitos precoces;
+
+6.1.2 - Efeitos tardios.
+
+6.2 - Efeitos hereditários.
+
+6.3 - Efeitos estocásticos e efeitos não estocásticos.
+
+6.4 - Relação «dose/efeito».
+
+7 - Protecção contra as radiações:
+
+7.1 - Princípios básicos de protecção.
+
+7.2 - Os diferentes modos de exposição.
+
+7.3 - Protecção contra a exposição interna:
+
+7.3.1 - Manipulação das fontes não seladas;
+
+7.3.2 - Gestão dos efluentes e resíduos radioactivos.
+
+7.4 - Protecção contra a exposição externa:
+
+7.4.1 - Os factores tempo, distância e anteparos.
+
+7.5 - Exercícios.
+
+8 - Inventário das exposições do homem:
+
+8.1 - As diferentes fontes de exposição às radiações ionizantes.
+
+9 - Principais aplicações das radiações ionizantes:
+
+9.1 - Aplicações médicas.
+
+9.2 - Aplicações industriais.
+
+B - Área de formação opcional
+
+1 - Domínio médico (estabelecimentos onde são exercidas as actividades de dentistria e de medicina)
+
+Opção A
+
+Utilização de equipamentos de radiodiagnóstico
+
+I - Tecnologia dos equipamentos utilizados.
+
+1 - Princípio geral de funcionamento:
+
+1.1 - Produção de radiação X:
+
+1.1.1 - Unidades: k V e ke V;
+
+1.1.2 - Geradores.
+
+1.2 - Espectrografia da radiação X.
+
+1.3 - Descrição do espectro contínuo:
+
+1.3.1 - Efeito da variação da intensidade da corrente no filamento;
+
+1.3.2 - Efeito da variação da diferença de potencial entre os eléctrodos.
+
+1.4 - Descrição do espectro descontínuo.
+
+2 - Absorção da radiação X na matéria:
+
+2.1 - Absorção qualitativa.
+
+2.2 - Absorção quantitativa.
+
+2.3 - Filtros.
+
+3 - Factores influenciando a dose absorvida pelo paciente em radiodiagnóstico:
+
+3.1 - Protecção da ampola.
+
+3.2 - Miliamperagem e tempo de irradiação.
+
+3.3 - Kilovoltagem e filtração.
+
+3.4 - Dimensão do campo.
+
+3.5 - Ecrãs antidifusores.
+
+3.6 - Filmes.
+
+3.7 - Utilização de amplificadores de luminescência.
+
+4 - Critérios mínimos de aceitabilidade dos equipamentos de radiodiagnóstico médico.
+
+II - Análise dos riscos ligados à utilização destes diferentes aparelhos:
+
+1 - Consequências em caso de exposição acidental:
+
+1.1 - Exemplos dos tipos de acidentes mais frequentes.
+
+1.2 - Conduta a ter em caso de acidente ou incidente.
+
+III - Testes de aceitabilidade dos equipamentos e limites de tolerância:
+
+1 - Controlo a efectuar antes da entrada em serviço e no decorrer da utilização.
+
+2 - Controlo a efectuar no decorrer da utilização do equipamento.
+
+IV - Estudo de situações tipo permitindo ilustrar o papel do profissional responsável pela segurança radiológica da instalação - esses casos deverão ser escolhidos de maneira a poderem permitir o estudo de um posto de trabalho, a colocação das blindagens, a elaboração da ficha contendo os procedimentos de segurança a respeitar no decurso da exploração, eventualmente de cálculo de uma protecção anexa, e o estudo de informação destinada aos trabalhadores presentes durante a exploração.
+
+Opção B
+
+Utilização de fontes não seladas
+
+1 - Tecnologia dos diferentes equipamentos num laboratório utilizando produtos radioactivos:
+
+1.1 - Regras de utilização em vigor relativas às condições de utilização de isótopos radioactivos artificiais utilizados em fontes não seladas para fins médicos.
+
+1.2 - Utilização de zona de trabalho confinada (Contained Work Station - CWS): débito e velocidade de ar, equipamento de filtração.
+
+1.3 - Criação de zona asséptica: WS com caixa de luvas.
+
+2 - Equipamentos de protecção radiológica individual:
+
+2.1 - Instrumentos de medida da radioactividade para avaliação da contaminação.
+
+2.2 - Medidores de débito de dose.
+
+3 - Actividades máximas manipuláveis em função da classificação da zona de trabalho, dos equipamentos, da natureza e da actividade dos radionuclidos.
+
+4 - Gestão das fontes: recepção, manipulação e armazenamento.
+
+5 - Os diferentes controlos a efectuar:
+
+5.1 - Controlos de contaminação (do pessoal, do material e das fontes), limites práticos, meios de controlo. Registos.
+
+5.2 - Controlos de contaminação atmosférica: métodos de controlo, escolha dos pontos de amostragem, interpretação das medidas. Registos.
+
+5.3 - Controlos, gestão e eliminação de resíduos sólidos e líquidos. Registo.
+
+6 - Procedimentos em caso de contaminação:
+
+6.1 - Contaminação dos materiais e das superfícies.
+
+6.2 - Contaminação corporal externa
+
+6.3 - Contaminação corporal interna.
+
+7 - Conduta a ter em caso de acidente ou incidente.
+
+8 - Estudo de alguns casos típicos ilustrando o papel do profissional responsável pela segurança radiológica da instalação - esses casos deverão ser escolhidos de maneira a poderem permitir o estudo de um posto de trabalho, a colocação das blindagens, a elaboração da ficha contendo os procedimentos de segurança a respeitar no decurso da exploração, eventualmente de cálculo de uma protecção anexa, e o estudo de informação destinada aos trabalhadores presentes durante a exploração.
+
+2 - Domínio industrial (estabelecimentos onde são exercidas as actividades dos sectores industrial, investigação e desenvolvimento)
+
+Opção C
+
+Utilização de fontes seladas e de aparelhos geradores de radiação X
+
+1 - Tecnologias utilizando fontes seladas ou radiação X.
+
+2 - Funcionamento dos equipamentos e instalações:
+
+2.1 - Classificação da instalação.
+
+2.2 - Requisitos de funcionamento dos equipamentos.
+
+2.3 - Sistemas de segurança e de sinalização.
+
+3 - Análise dos riscos ligados à utilização de fontes radioactivas seladas:
+
+3.1 - Natureza e actividade das fontes mais utilizadas: consequências em caso de exposição acidental.
+
+3.2 - Exemplos dos tipos de acidentes mais frequentes.
+
+4 - Análise dos riscos ligados à utilização de fontes de radiação X:
+
+4.1 - Ordem de grandeza dos débitos de dose no feixe: consequências em caso de exposição acidental.
+
+4.2 - Exemplos dos tipos de acidentes mais frequentes.
+
+5 - Testes de aceitabilidade dos equipamentos e limites de tolerância:
+
+5.1 - Controlo a efectuar antes da entrada em serviço e no decorrer da utilização.
+
+6 - Armazenamento, transporte e substituição da fonte no caso de aparelho contendo fontes radioactivas seladas.
+
+7 - Procedimentos de emergência:
+
+7.1 - Plano de pré-emergência
+
+7.2 - Acções durante a emergência.
+
+7.3 - Acções pós-emergência.
+
+8 - Estudo de situações tipo permitindo ilustrar o papel profissional responsável pela segurança radiológica da instalação - esses casos deverão ser escolhidos de maneira a poderem permitir o estudo de um posto de trabalho, a colocação das blindagens, a elaboração da ficha contendo os procedimentos de segurança a respeitar no decurso da exploração, eventualmente de cálculo de uma protecção anexa, e o estudo de informação destinada aos trabalhadores presentes durante a exploração.
+
+Opção D
+
+Utilização de fontes não seladas
+
+Idêntico à opção B, a menos dos requisitos de assepsia, se for o caso.
+
+Em cada opção nos domínios médico e industrial, é fundamental formular recomendações de prevenção, bem como de actuação em incidentes, ou empreender medidas mitigadoras em caso de acidente, ilustrando sempre com exemplos práticos o papel dos vários trabalhadores profissionalmente expostos.
+
+Estes pontos devem representar cerca de metade do tempo de ensino opcional e comportar exercícios de cálculo de radioprotecção.
+
+Os elementos de programa apresentados nas opções B e D são análogos para os dois domínios (médico e industrial) mas devem ser tratados de maneira específica.
+
+> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02

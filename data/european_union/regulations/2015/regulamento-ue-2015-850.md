@@ -1,0 +1,283 @@
+---
+schema_version: '1.0'
+id: eu:celex:32015R0850:por
+title: Regulamento Delegado (UE) 2015/850 da Comissão, de 30 de janeiro de 2015
+short_title: null
+summary: Regulamento Delegado (UE) 2015/850 da Comissão, de 30 de janeiro de 2015, que altera o Regulamento Delegado (UE)
+  n.° 241/2014 da Comissão que completa o Regulamento (UE) n.° 575/2013 do Parlamento Europeu e do Conselho no que respeita
+  a normas técnicas de regulamentação dos requisitos de fundos próprios das instituições (Texto relevante para efeitos do
+  EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2015/850
+official_date: null
+publication_date: '2015-06-02'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 135 de 2.6.2015
+  number: '135'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2015-06-22'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32015R0850
+  eli: http://data.europa.eu/eli/reg_del/2015/850/oj
+  oj: oj:JOL_2015_135_R_0001
+  dre: null
+  dre_path: null
+  internal: eu:celex:32015R0850:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32015R0850
+  metadata_url: http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:20:38Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-12T16:03:30.331+02:00'
+integrity:
+  source_sha256: 03cf085d350a99cbe85a345fdfefbe8e8fcdbdb23883810f6c091c5408e54979
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:20:38Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- capital social
+- direito das sociedades comerciais
+- distribuição do rendimento
+- recursos próprios
+relationships:
+- type: amends
+  target: celex:32014R0241
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fb0646a0-ab51-11e3-86f9-01aa75ed71a1
+  date: '2014-03-14'
+- type: based_on
+  target: celex:32013R0575
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ccd31733-df06-11e2-9165-01aa75ed71a1
+  date: '2013-06-27'
+- type: cites
+  target: celex:32010R1093
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c2eecef2-5a33-4525-931e-53cf6e6f96c7
+- type: cites
+  target: celex:32014R0680
+  label: null
+  source: http://publications.europa.eu/resource/cellar/37c79802-fe90-11e3-831f-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:20:38Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DELEGADO (UE) 2015/850 DA COMISSÃO
+
+de 30 de janeiro de 2015
+
+que altera o Regulamento Delegado (UE) n.º 241/2014 da Comissão que completa o Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho no que respeita a normas técnicas de regulamentação dos requisitos de fundos próprios das instituições
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativo aos requisitos prudenciais para as instituições de crédito e para as empresas de investimento e que altera o Regulamento (UE) n.º 648/2012 [([^1])](http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2015135PT.01000101-E0001), nomeadamente o artigo 28.º, n.º 5, terceiro parágrafo,
+
+Considerando o seguinte:
+
+(1) O esforço nos fundos próprios não deve ser desproporcional, quer em termos das distribuições associadas a um instrumento de fundos próprios principais de nível 1, quer em termos das distribuições efetuadas sobre a totalidade dos fundos próprios da instituição. Por conseguinte, o conceito de esforço desproporcional nos fundos próprios deve ser definido em função de regras que englobem ambos estes aspetos.
+
+(2) O mandato relativo a um eventual esforço desproporcional nos fundos próprios previsto no artigo 28.º, n.º 5, alínea b), do Regulamento (UE) n.º 575/2013 não engloba os instrumentos abrangidos pelo artigo 27.º do referido regulamento, uma vez que estes últimos estão isentos, por força do artigo 28.º, n.º 1, alínea h), subalínea iii).
+
+(3) O conceito de distribuições preferenciais deve basear-se nas características dos instrumentos que preenchem os requisitos do artigo 28.º, n.º 1, alínea h), subalínea i), do Regulamento (UE) n.º 575/2013 nos termos do qual não deve existir quer um tratamento preferencial em matéria de distribuições no que diz respeito à ordem pela qual os respetivos pagamentos são efetuados, quer quaisquer outros direitos preferenciais, incluindo distribuições preferenciais de instrumentos de fundos próprios principais de nível 1 em relação a outros instrumentos de fundos próprios principais de nível 1. Dado que o artigo 28.º, n.º 1, alínea h), subalínea i), do Regulamento (UE) n.º 575/2013 estabelece uma distinção entre os direitos preferenciais relativamente ao pagamento de distribuições e a ordem preferencial pela qual os respetivos pagamentos são efetuados, as regras em matéria de distribuições preferenciais devem abranger ambas as situações.
+
+(4) Devem aplicar-se regras diferentes aos instrumentos de fundos próprios principais de nível 1 das instituições a que se refere o artigo 27.º do Regulamento (UE) n.º 575/2013 (a seguir designadas por «outras sociedades que não as sociedades anónimas») quando justificado pelas características específicas dos instrumentos com direitos de voto e dos instrumentos sem direitos de voto. Quando só puderem subscrever ações sem direitos de voto os titulares de instrumentos com direitos de voto, nenhum titular de instrumentos sem direitos de voto será, por definição, privado de direitos de voto. Por conseguinte, a distribuição diferenciada sobre o instrumento sem direitos de voto destas sociedades não está relacionada com a ausência do direito de voto, como no caso das sociedades anónimas. De igual forma, quando a legislação nacional aplicável limita a distribuição relativamente aos instrumentos com direitos de voto, os limites previstos para as sociedades anónimas devem ser substituídos por outras regras destinadas a garantir a ausência de um direito preferencial ao pagamento das distribuições.
+
+(5) Todavia, um tratamento diferente para outras sociedades que não as sociedades anónimas apenas se justifica se estas não emitirem instrumentos de fundos próprios com distribuições pré-determinadas de múltiplo de dividendos, definidas contratualmente ou pelos estatutos da instituição. No caso de emitirem esses instrumentos, os problemas relacionados com um direito preferencial ao pagamento das distribuições são os mesmos que para as sociedades anónimas, pelo que deve ser aplicável um tratamento idêntico.
+
+(6) Isto não deve impedir as outras sociedades que não as sociedades anónimas de emitir outros instrumentos de fundos próprios com uma distribuição diferenciada, desde que demonstrem que esses instrumentos não criam um direito preferencial ao pagamento de distribuições. A referida demonstração deve basear-se na avaliação do nível das distribuições relativamente aos instrumentos com direitos de voto e do nível das distribuições relativamente à totalidade dos fundos próprios principais de nível 1. A instituição deve demonstrar que o nível das distribuições relativamente aos instrumentos com direitos de voto é baixo comparativamente a outros instrumentos de fundos próprios e que o rácio de distribuição sobre os instrumentos de fundos próprios principais de nível 1 é reduzido.
+
+(7) A fim de permitir a outras sociedades que não as sociedades anónimas determinar se o nível do seu rácio de distribuição é reduzido, convém estabelecer um parâmetro de referência. Uma vez que os rácios de distribuição podem variar em função do resultado anual, este parâmetro de referência deve ser calculado com base na média dos últimos cinco exercícios. Atendendo ao caráter inovador desta regra, bem como à sua incidência potencial nalgumas destas instituições, convém prever uma introdução progressiva das regras sobre o cálculo do nível do rácio de distribuição, caso necessário. A imposição de limites ao rácio de distribuição pode ser efetuada por etapas ao longo de cinco anos, de molde a assegurar a sua aplicação progressiva até ao final de 2017, devendo a regra ser plenamente aplicada por todas as instituições em 2018.
+
+(8) Algumas sociedades que não as sociedades anónimas não podem emitir instrumentos tão flexíveis como as ações ordinárias em caso de recapitalização urgente, quando as instituições são sujeitas a medidas de intervenção precoce. Nesses casos, as instituições deveriam emitir instrumentos de fundos próprios para facilitar a sua recuperação; por conseguinte, essas instituições, cujos instrumentos sem direitos de voto só são normalmente detidos por titulares de instrumentos com direitos de voto, devem dispor da possibilidade, a título excecional, de vender os seus instrumentos sem direito de voto a investidores externos. Além disso, os instrumentos de fundos próprios emitidos no quadro de uma recapitalização urgente devem assegurar a perspetiva de vantagens adequadas no futuro, uma vez ultrapassada a fase de recuperação. Assim, essas instituições devem poder ultrapassar, após essa fase, os limites impostos ao rácio de distribuição no intuito de assegurar esta vantagem potencial aos titulares de instrumentos de fundos próprios de nível 1 emitidos para efeitos de uma recapitalização urgente.
+
+(9) Nos termos do artigo 10.º do Regulamento (UE) n.º 575/2013, as autoridades competentes podem, nos termos do direito nacional, dispensar total ou parcialmente da aplicação dos requisitos estabelecidos nas Partes II a VIII do referido regulamento as instituições de crédito associadas a um organismo central. Além disso, em conformidade com o mesmo artigo, caso as responsabilidades ou os compromissos do organismo central sejam totalmente garantidos pelas instituições a ele associadas, as autoridades competentes podem dispensar da aplicação das Partes II a VIII o organismo central em base individual. Com base neste artigo, as autoridades competentes devem poder eximir os instrumentos de fundos próprios intragrupo da aplicação dos requisitos previstos pelo presente regulamento. As autoridades competentes devem igualmente dispor do direito de verificar o cumprimento dos requisitos impostos pelo presente regulamento com base na situação consolidada das instituições que beneficiam das referidas isenções, nomeadamente no que respeita ao cálculo do rácio de distribuição.
+
+(10) O presente regulamento baseia-se nos projetos de normas técnicas de regulamentação apresentadas pela Autoridade Bancária Europeia à Comissão.
+
+(11) A Autoridade Bancária Europeia realizou consultas públicas abertas sobre os projetos de normas técnicas de regulamentação que servem de base ao presente regulamento, analisou os potenciais custos e benefícios conexos e solicitou o parecer do Grupo das Partes Interessadas do Setor Bancário criado em conformidade com o artigo 37.º do Regulamento (UE) n.º 1093/2010 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2015135PT.01000101-E0002),
+
+(12) O Regulamento Delegado (UE) n.º 241/2014 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2015135PT.01000101-E0003) deve, por conseguinte, ser alterado em conformidade,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O Regulamento Delegado (UE) n.º 241/2014 é alterado do seguinte modo:
+
+1) É inserido o seguinte artigo 7.º-A: «Artigo 7.º-A Distribuições de múltiplo de dividendos que constituem um esforço desproporcional nos fundos próprios 1. Deve considerar-se que as distribuições relativamente aos instrumentos de fundos próprios principais de nível 1 a que se refere o artigo 28.º do Regulamento (UE) n.º 575/2013 não constituem um esforço desproporcional nos fundos próprios se estiverem cumulativamente preenchidas as seguintes condições: a) O múltiplo de dividendos é um múltiplo da distribuição paga em relação aos instrumentos com direitos de voto e não um montante fixo pré-determinado; b) O múltiplo de dividendos é fixado contratualmente ou pelos estatutos da instituição; c) O múltiplo de dividendos não é passível de revisão; d) O mesmo múltiplo de dividendos é aplicável a todos os instrumentos com um múltiplo de dividendos; e) O montante da distribuição sobre um instrumento com um múltiplo de dividendos não representa mais do que 125 % do montante da distribuição sobre um instrumento de fundos próprios principais de nível 1 com direitos de voto. Isto pode ser expresso pela seguinte fórmula: em que: *k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos; *l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos; f) O montante total das distribuições pagas num exercício sobre todos os instrumentos de fundos próprios principais de nível 1 não excede 105 % do montante que teria sido pago se os instrumentos com um número reduzido de direitos de voto ou sem direitos de voto tivessem beneficiado das mesmas distribuições que os instrumentos com direitos de voto. Isto pode ser expresso pela seguinte fórmula: em que: *k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos; *l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos; *X* é o número de instrumentos com direitos de voto; *Y* é o número de instrumentos sem direitos de voto; Esta fórmula é aplicada numa base anual. 2. Se a condição prevista no n.º 1, alínea f), não for cumprida, considera-se que somente a parte dos instrumentos com um múltiplo de dividendos que exceda o limite máximo nele definido causa um esforço desproporcional nos fundos próprios. 3. Se qualquer das condições enumeradas no n.º 1, alíneas a) a e), não for cumprida, considera-se que todos os instrumentos em circulação com um múltiplo de dividendos causam um esforço desproporcional nos fundos próprios.»
+
+a) O múltiplo de dividendos é um múltiplo da distribuição paga em relação aos instrumentos com direitos de voto e não um montante fixo pré-determinado;
+
+b) O múltiplo de dividendos é fixado contratualmente ou pelos estatutos da instituição;
+
+c) O múltiplo de dividendos não é passível de revisão;
+
+d) O mesmo múltiplo de dividendos é aplicável a todos os instrumentos com um múltiplo de dividendos;
+
+e) O montante da distribuição sobre um instrumento com um múltiplo de dividendos não representa mais do que 125 % do montante da distribuição sobre um instrumento de fundos próprios principais de nível 1 com direitos de voto. Isto pode ser expresso pela seguinte fórmula: em que: *k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos; *l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos;
+
+*k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos;
+
+*l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos;
+
+f) O montante total das distribuições pagas num exercício sobre todos os instrumentos de fundos próprios principais de nível 1 não excede 105 % do montante que teria sido pago se os instrumentos com um número reduzido de direitos de voto ou sem direitos de voto tivessem beneficiado das mesmas distribuições que os instrumentos com direitos de voto. Isto pode ser expresso pela seguinte fórmula: em que: *k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos; *l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos; *X* é o número de instrumentos com direitos de voto; *Y* é o número de instrumentos sem direitos de voto; Esta fórmula é aplicada numa base anual.
+
+*k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos;
+
+*l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos;
+
+*X* é o número de instrumentos com direitos de voto;
+
+*Y* é o número de instrumentos sem direitos de voto;
+
+2) É inserido o seguinte artigo 7.º-B: «Artigo 7.º-B Distribuições preferenciais resultantes de direitos preferenciais ao pagamento das distribuições 1. Para os instrumentos de fundos próprios principais de nível 1 a que se refere o artigo 28.º do Regulamento (UE) n.º 575/2013, uma distribuição relativa a um instrumento deste tipo é considerada preferencial em relação a outros instrumentos de fundos próprios principais de nível 1 quando se verificam níveis diferenciados de distribuição, salvo se estiverem preenchidas as condições enunciadas no artigo 7.º-A do presente regulamento. 2. Para os instrumentos de fundos próprios principais de nível 1 com um número reduzido de direitos de voto ou sem direitos de voto a que se refere o artigo 27.º do Regulamento (UE) n.º 575/2013, se a distribuição for um múltiplo da distribuição sobre os instrumentos com direitos de voto e essa distribuição de múltiplo de dividendos for fixada contratualmente ou pelos estatutos, as distribuições não são consideradas preferenciais, desde que estejam cumulativamente preenchidas as seguintes condições: a) O múltiplo de dividendos é um múltiplo da distribuição paga em relação aos instrumentos com direitos de voto e não um montante fixo pré-determinado; b) O múltiplo de dividendos é fixado contratualmente ou pelos estatutos da instituição; c) O múltiplo de dividendos não é passível de revisão; d) O mesmo múltiplo de dividendos é aplicável a todos os instrumentos em relação aos quais é pago um múltiplo de dividendos; e) O montante da distribuição sobre um instrumento com um múltiplo de dividendos não representa mais do que 125 % do montante da distribuição sobre um instrumento de fundos próprios principais de nível 1 com direitos de voto. Isto pode ser expresso pela seguinte fórmula: em que: *k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos; *l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos; f) O montante total das distribuições pagas num exercício sobre todos os instrumentos de fundos próprios principais de nível 1 não excede 105 % do montante que teria sido pago se os instrumentos com um número reduzido de direitos de voto ou sem direitos de voto tivessem beneficiado das mesmas distribuições que os instrumentos com direitos de voto. Isto pode ser expresso pela seguinte fórmula: em que: *k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos; *l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos; *X* é o número de instrumentos com direitos de voto; *Y* é o número de instrumentos sem direitos de voto; Esta fórmula é aplicada numa base anual. 3. Se a condição prevista no n.º 2, alínea f), não for cumprida, considera-se que somente a parte dos instrumentos com um múltiplo de dividendos que exceda o limite máximo nele definido deve ser excluída dos fundos próprios principais de nível 1. 4. Se qualquer das condições enumeradas no n.º 2, alíneas a) a e), não for cumprida, considera-se que todos os instrumentos em circulação com um múltiplo de dividendo devem ser excluídos dos fundos próprios principais de nível 1. 5. Para efeitos do n.º 2, quando as distribuições sobre instrumentos de fundos próprios principais de nível 1 são expressas, em relação a instrumentos com ou sem direitos de voto, em função do preço de aquisição aquando da emissão do instrumento, as fórmulas devem ser adaptadas do seguinte modo, no que respeita ao instrumento ou aos instrumentos que são expressos em função do preço de aquisição aquando da sua emissão: a) *l* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos, dividido pelo preço de aquisição aquando da emissão desse instrumento; b) *k* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos, dividido pelo preço de aquisição aquando da emissão desse instrumento. 6. Para os instrumentos de fundos próprios principais de nível 1 com um número reduzido de direitos de voto ou sem direitos de voto emitidos pelas instituições, a que se refere o artigo 27.º do Regulamento (UE) n.º 575/2013, se a distribuição não for um múltiplo da distribuição sobre os instrumentos com direitos de voto, as distribuições não são consideradas preferenciais, desde que esteja preenchida uma das condições previstas no n.º 7 ou ambas as condições enunciadas no n.º 8. 7. Para efeitos do n.º 6, é aplicável uma das seguintes condições referidas nas alíneas a) ou b): a) São cumulativamente satisfeitas as seguintes subalíneas i) e ii): i) o instrumento com um número reduzido de direitos de voto ou sem direitos de voto só pode ser subscrito e detido pelos titulares de instrumentos com direitos de voto, ii) o número dos direitos de voto por titular é limitado; b) As distribuições sobre os instrumentos com direitos de voto emitidos pelas instituições estão sujeitas a um limite máximo, estabelecido pela legislação nacional aplicável. 8. Para efeitos do n.º 6, são aplicáveis ambas as condições a seguir referidas: a) A instituição demonstra que a média das distribuições sobre os instrumentos com direitos de voto durante os últimos cinco exercícios é reduzida em relação a outros instrumentos comparáveis; b) A instituição demonstra que o seu rácio de distribuição é reduzido, quando calculado em conformidade com o disposto no artigo 7.º-C. Considera-se reduzido um rácio de distribuição inferior a 30 %. 9. Para efeitos do n.º 7, alínea a) os direitos de voto por titular são considerados limitados nos seguintes casos: a) Cada titular apenas dispõe de um direito de voto, independentemente do número de instrumentos com direitos de voto por titular; b) O número de direitos de voto é limitado, independentemente do número de instrumentos com direitos de voto detido por cada titular; c) O número de instrumentos com direitos de voto que pode ser detido por um titular é limitado pelos estatutos da instituição ou pela legislação nacional aplicável. 10. Para efeitos do presente artigo, considera-se que o exercício finda na data das últimas demonstrações financeiras da instituição. 11. As instituições devem avaliar o cumprimento das condições enunciadas nos n.^os^ 7 e 8 e informar a autoridade competente do resultado desta avaliação, pelo menos nas situações a seguir referidas: a) Sempre que é tomada uma decisão sobre o montante das distribuições relativamente aos instrumentos de fundos próprios principais de nível 1; b) Sempre que é emitida uma nova categoria de instrumentos de fundos próprios principais de nível 1 com um número reduzido de direitos de voto ou sem direitos de voto. 12. Se a condição prevista no n.º 8, alínea b), não for cumprida, considera-se que somente a parte dos instrumentos sem direitos de voto em relação aos quais as distribuições excedem o limite máximo nele definido é conducente a distribuições preferenciais. 13. Se a condição prevista no n.º 8, alínea a), não for cumprida, as distribuições relativamente a todos os instrumentos em circulação sem direitos de voto serão consideradas preferenciais, a menos que satisfaçam as condições previstas no n.º 2. 14. Se nenhuma das condições enunciadas no n.º 7 for cumprida, as distribuições relativamente a todos os instrumentos em circulação sem direitos de voto serão consideradas preferenciais, a menos que satisfaçam as condições previstas no n.º 2. 15. Pode ser prevista uma derrogação ao requisito previsto no n.º 7, alínea a), subalínea i), ou ao requisito previsto no n.º 8, alínea b), ou ainda em relação a ambos, se for caso disso, desde que estejam cumulativamente preenchidas as duas condições seguintes: a) Uma instituição infringe ou, devido nomeadamente a uma deterioração rápida da sua situação financeira, é provável que venha a infringir, num futuro próximo, um dos requisitos do Regulamento (UE) n.º 575/2013; b) A autoridade competente tiver exigido à instituição um aumento urgente dos seus fundos próprios principais de nível 1 num prazo específico, tendo considerado que a instituição não podia, nesse prazo, suprir ou evitar a infração referida na alínea a), sem recorrer à derrogação prevista no presente número.»
+
+a) O múltiplo de dividendos é um múltiplo da distribuição paga em relação aos instrumentos com direitos de voto e não um montante fixo pré-determinado;
+
+b) O múltiplo de dividendos é fixado contratualmente ou pelos estatutos da instituição;
+
+c) O múltiplo de dividendos não é passível de revisão;
+
+d) O mesmo múltiplo de dividendos é aplicável a todos os instrumentos em relação aos quais é pago um múltiplo de dividendos;
+
+e) O montante da distribuição sobre um instrumento com um múltiplo de dividendos não representa mais do que 125 % do montante da distribuição sobre um instrumento de fundos próprios principais de nível 1 com direitos de voto. Isto pode ser expresso pela seguinte fórmula: em que: *k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos; *l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos;
+
+*k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos;
+
+*l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos;
+
+f) O montante total das distribuições pagas num exercício sobre todos os instrumentos de fundos próprios principais de nível 1 não excede 105 % do montante que teria sido pago se os instrumentos com um número reduzido de direitos de voto ou sem direitos de voto tivessem beneficiado das mesmas distribuições que os instrumentos com direitos de voto. Isto pode ser expresso pela seguinte fórmula: em que: *k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos; *l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos; *X* é o número de instrumentos com direitos de voto; *Y* é o número de instrumentos sem direitos de voto; Esta fórmula é aplicada numa base anual.
+
+*k* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos;
+
+*l* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos;
+
+*X* é o número de instrumentos com direitos de voto;
+
+*Y* é o número de instrumentos sem direitos de voto;
+
+a) *l* é o montante da distribuição sobre um instrumento sem um múltiplo de dividendos, dividido pelo preço de aquisição aquando da emissão desse instrumento;
+
+b) *k* é o montante da distribuição sobre um instrumento com um múltiplo de dividendos, dividido pelo preço de aquisição aquando da emissão desse instrumento.
+
+a) São cumulativamente satisfeitas as seguintes subalíneas i) e ii): i) o instrumento com um número reduzido de direitos de voto ou sem direitos de voto só pode ser subscrito e detido pelos titulares de instrumentos com direitos de voto, ii) o número dos direitos de voto por titular é limitado;
+
+i) o instrumento com um número reduzido de direitos de voto ou sem direitos de voto só pode ser subscrito e detido pelos titulares de instrumentos com direitos de voto,
+
+ii) o número dos direitos de voto por titular é limitado;
+
+b) As distribuições sobre os instrumentos com direitos de voto emitidos pelas instituições estão sujeitas a um limite máximo, estabelecido pela legislação nacional aplicável.
+
+a) A instituição demonstra que a média das distribuições sobre os instrumentos com direitos de voto durante os últimos cinco exercícios é reduzida em relação a outros instrumentos comparáveis;
+
+b) A instituição demonstra que o seu rácio de distribuição é reduzido, quando calculado em conformidade com o disposto no artigo 7.º-C. Considera-se reduzido um rácio de distribuição inferior a 30 %.
+
+a) Cada titular apenas dispõe de um direito de voto, independentemente do número de instrumentos com direitos de voto por titular;
+
+b) O número de direitos de voto é limitado, independentemente do número de instrumentos com direitos de voto detido por cada titular;
+
+c) O número de instrumentos com direitos de voto que pode ser detido por um titular é limitado pelos estatutos da instituição ou pela legislação nacional aplicável.
+
+a) Sempre que é tomada uma decisão sobre o montante das distribuições relativamente aos instrumentos de fundos próprios principais de nível 1;
+
+b) Sempre que é emitida uma nova categoria de instrumentos de fundos próprios principais de nível 1 com um número reduzido de direitos de voto ou sem direitos de voto.
+
+a) Uma instituição infringe ou, devido nomeadamente a uma deterioração rápida da sua situação financeira, é provável que venha a infringir, num futuro próximo, um dos requisitos do Regulamento (UE) n.º 575/2013;
+
+b) A autoridade competente tiver exigido à instituição um aumento urgente dos seus fundos próprios principais de nível 1 num prazo específico, tendo considerado que a instituição não podia, nesse prazo, suprir ou evitar a infração referida na alínea a), sem recorrer à derrogação prevista no presente número.»
+
+3) É inserido o seguinte artigo 7.º-C: «Artigo 7.º-C Cálculo do rácio de distribuição para efeitos do artigo 7.º-B, n.º 8, alínea b) 1. Para efeitos do artigo 7.º-B, n.º 8, alínea b), as instituições devem optar por uma das duas fórmulas de cálculo descritas nas alíneas a) e b) para calcular o rácio de distribuição. A instituição deve aplicar a fórmula de cálculo escolhida de forma consistente ao longo do tempo. a) A soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os cinco exercícios anteriores, dividida pela soma dos lucros realizados nos cinco exercícios anteriores; b) Unicamente para o período compreendido entre a data de aplicação do presente regulamento e 31 de dezembro de 2017: i) em 2014, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante o exercício anterior, dividida pela soma dos lucros realizados no exercício anterior, ii) em 2015, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os dois exercícios anteriores, dividida pela soma dos lucros realizados nos dois exercícios anteriores, iii) em 2016, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os três exercícios anteriores, dividida pela soma dos lucros realizados nos últimos três exercícios anteriores, iv) em 2017, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os quatro exercícios anteriores, dividida pela soma dos lucros realizados nos quatro exercícios anteriores. 2. Para efeitos do n.º 1, por lucros deve entender-se o montante indicado na linha 670 do modelo 2 do anexo III do Regulamento de Execução (UE) n.º 680/2014 da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1#ntr*1-L_2015135PT.01000101-E0004) ou, se for caso disso, na linha 670 do modelo 2 do anexo IV desse regulamento de execução no que diz respeito ao relato para fins de supervisão das instituições de acordo com o Regulamento (UE) n.º 575/2013. [(^*1^)](http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1#ntc*1-L_2015135PT.01000101-E0004) Regulamento de Execução (UE) n.º 680/2014 da Comissão, de 16 de abril de 2014, que estabelece normas técnicas de execução no que diz respeito ao relato para fins de supervisão das instituições de acordo com o Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho ([JO L 191 de 28.6.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_191_R_TOC)).» ".
+
+a) A soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os cinco exercícios anteriores, dividida pela soma dos lucros realizados nos cinco exercícios anteriores;
+
+b) Unicamente para o período compreendido entre a data de aplicação do presente regulamento e 31 de dezembro de 2017: i) em 2014, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante o exercício anterior, dividida pela soma dos lucros realizados no exercício anterior, ii) em 2015, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os dois exercícios anteriores, dividida pela soma dos lucros realizados nos dois exercícios anteriores, iii) em 2016, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os três exercícios anteriores, dividida pela soma dos lucros realizados nos últimos três exercícios anteriores, iv) em 2017, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os quatro exercícios anteriores, dividida pela soma dos lucros realizados nos quatro exercícios anteriores.
+
+i) em 2014, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante o exercício anterior, dividida pela soma dos lucros realizados no exercício anterior,
+
+ii) em 2015, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os dois exercícios anteriores, dividida pela soma dos lucros realizados nos dois exercícios anteriores,
+
+iii) em 2016, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os três exercícios anteriores, dividida pela soma dos lucros realizados nos últimos três exercícios anteriores,
+
+iv) em 2017, a soma das distribuições relacionadas com os instrumentos de fundos próprios principais de nível 1 durante os quatro exercícios anteriores, dividida pela soma dos lucros realizados nos quatro exercícios anteriores.
+
+4) É inserido o seguinte artigo 7.º-D: «Artigo 7.º-D Distribuições preferenciais no que diz respeito à ordem do respetivo pagamento Para efeitos do artigo 28.º do Regulamento (UE) n.º 575/2013, uma distribuição relativamente a um instrumento de fundos próprios principais de nível 1 será considerada preferencial em relação a outros instrumentos de fundos próprios principais de nível 1 quando, do ponto de vista da ordem do respetivo pagamento, estiver preenchida pelo menos uma das seguintes condições: a) As distribuições são decididas em momentos diferentes; b) As distribuições são pagas em momentos diferentes; c) O emitente é obrigado a pagar as distribuições sobre um tipo de instrumentos de fundos próprios principais de nível 1 antes de pagar as distribuições sobre outros tipos de instrumentos de fundos próprios principais de nível 1; d) A distribuição é paga em relação a alguns instrumentos de fundos próprios principais de nível 1, mas não a outros, a menos que seja satisfeita a condição prevista no artigo 7.º-B, n.º 7, alínea a).».
+
+a) As distribuições são decididas em momentos diferentes;
+
+b) As distribuições são pagas em momentos diferentes;
+
+c) O emitente é obrigado a pagar as distribuições sobre um tipo de instrumentos de fundos próprios principais de nível 1 antes de pagar as distribuições sobre outros tipos de instrumentos de fundos próprios principais de nível 1;
+
+d) A distribuição é paga em relação a alguns instrumentos de fundos próprios principais de nível 1, mas não a outros, a menos que seja satisfeita a condição prevista no artigo 7.º-B, n.º 7, alínea a).»
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 30 de janeiro de 2015.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**Jean-Claude JUNCKER**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2015135PT.01000101-E0001) [JO L 176 de 27.6.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2015135PT.01000101-E0002) Regulamento (UE) n.º 1093/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, que cria uma Autoridade Europeia de Supervisão (Autoridade Bancária Europeia), altera a Decisão n.º 716/2009/CE e revoga a Decisão 2009/78/CE da Comissão ([JO L 331 de 15.12.2010, p. 12](http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/10371ea2-08ec-11e5-8817-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2015135PT.01000101-E0003) Regulamento Delegado (UE) n.º 241/2014 da Comissão, de 7 de janeiro de 2014, que completa o Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação dos requisitos de fundos próprios das instituições ([JO L 74 de 14.3.2014, p. 8](http://publications.europa.eu/resource/oj/JOL_2014_074_R_TOC)).

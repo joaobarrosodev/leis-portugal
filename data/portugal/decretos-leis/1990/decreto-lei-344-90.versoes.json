@@ -1,0 +1,647 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:566188:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-871615788",
+ "dre_path": "/dr/detalhe/decreto-lei/344-1990-566188",
+ "source_lastmod": "2024-07-10",
+ "versions": [
+  {
+   "date": "1990-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871579840",
+    "871579841",
+    "871579842",
+    "871579843",
+    "871579844",
+    "871579845",
+    "871579846",
+    "871579847",
+    "871579848",
+    "871579849",
+    "871579850",
+    "871579851",
+    "871579852",
+    "871579853",
+    "871579854",
+    "871579855",
+    "871579856",
+    "871579857",
+    "871579858",
+    "871579859",
+    "871579860",
+    "871579861",
+    "871579862",
+    "871579863",
+    "871579864",
+    "871579865",
+    "871579866",
+    "871579867",
+    "871579868",
+    "871579869",
+    "871579870",
+    "871579871",
+    "871579872",
+    "871579873",
+    "871579874",
+    "871616475",
+    "871616476",
+    "871616477",
+    "871616478",
+    "871616479",
+    "871616480",
+    "871616481",
+    "871616482",
+    "871616483",
+    "871616484",
+    "871616485",
+    "871616486",
+    "871616487",
+    "871616488",
+    "871616489",
+    "871616490",
+    "871616491",
+    "871616492",
+    "871616493",
+    "871616494",
+    "871616495",
+    "871616496"
+   ]
+  },
+  {
+   "date": "2004-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:210801:por",
+     "title": "Decreto-Lei n.º 74/2004",
+     "published": "2004-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2004-210801"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º",
+    "Revoga Artigo 27.º"
+   ],
+   "fragments": [
+    "871579840",
+    "871579841",
+    "871579842",
+    "871579843",
+    "871579844",
+    "871579845",
+    "871579846",
+    "871579847",
+    "871579848",
+    "871579849",
+    "871579850",
+    "871579851",
+    "871579852",
+    "871579853",
+    "871579854",
+    "871579855",
+    "871579856",
+    "871616498",
+    "871579858",
+    "871579859",
+    "871579860",
+    "871616499",
+    "871579862",
+    "871579863",
+    "871579864",
+    "871579865",
+    "871579866",
+    "871579867",
+    "871579868",
+    "871579869",
+    "871579870",
+    "871579871",
+    "871579872",
+    "871616500",
+    "871579874",
+    "871616475",
+    "871616476",
+    "871616477",
+    "871616478",
+    "871616479",
+    "871616480",
+    "871616481",
+    "871616482",
+    "871616483",
+    "871616484",
+    "871616485",
+    "871616486",
+    "871616487",
+    "871616488",
+    "871616489",
+    "871616490",
+    "871616491",
+    "871616492",
+    "871616493",
+    "871616494",
+    "871616495",
+    "871616496",
+    "871616497"
+   ]
+  }
+ ],
+ "fragments": {
+  "871579840": {
+   "fragment_id": "871615789",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 344/90\n\nde 2 de Novembro\n\nA educação artística tem-se processado em Portugal, desde há várias décadas, de forma reconhecidamente insuficiente, incompatível com a situação vigente na maioria dos países europeus. A extrema complexidade intrínseca desta área da educação e a sua sempre problemática inserção e articulação no sistema geral de ensino, a par da natureza muito especializada deste domínio, que, além disso, exige sempre meios apropriados, particularmente ao nível das infra-estruturas e dos equipamentos, são alguns dos factores que explicam este estado de coisas.\n\nAcresce que a margem de subjectividade inerente à apreciação das práticas artísticas não facilita uma visão desapaixonada dos problemas e das metodologias mais correctas e eficazes para os abordar e resolver. Não é por acaso que, nesta matéria, as polémicas e as divergências, se não mesmo oposições radicais de opinião, têm sido tão frequentes e parecem tão inconciliáveis.\n\nPor outro lado, a progressiva democratização do ensino, o incremento da divulgação dos bens culturais e a proliferação e desenvolvimento das artes provocaram nos últimos anos uma verdadeira exploração das apetências e das necessidades neste campo, em consonância com a multiplicação e diversificação de perspectivas para a actividade artística, seja em termos de criação, de interpretação, de produção, de difusão ou de fruição.\n\nCriaram-se, assim, responsabilidades governativas prementes num vasto domínio que abarca desde a formação geral até à formação profissional especializada, tanto de artistas como de investigadores, implicando a concepção e a execução de uma política sistematizada de enquadramento, apoio, estímulo e inovação, bem como de desenvolvimento da investigação no domínio das ciências das artes e do estudo científico das diversas actividades artísticas.\n\nPelas razões referidas, a educação artística não mais se compadece com medidas pontuais ou remédios sectoriais: a sua resolução passa pela reestruturação global e completa de todo o sistema, iniciando-se por aí a construção gradual de um novo sistema articulado, que contemplará todas as modalidades consideradas neste domínio, a saber: música, dança, teatro, cinema, áudio-visual e artes plásticas.\n\nAssim, a intervenção neste domínio começará ao nível de um diploma quadro que define apenas os grandes princípios, estruturas e linhas gerais que enformarão todo o sistema cuja implantação ora arranca, remetendo-se para legislação subsequente o desenvolvimento do quadro geral respeitante a cada uma das áreas consideradas. Tal legislação organizar-se-á sob a forma de diplomas regulamentadores para cada área, que terão em atenção as respectivas especificidades e condicionantes próprias, algumas das quais implicarão porventura adaptações particulares de alguns aspectos do presente diploma.\n\nO Governo tem consciência de que a educação artística é parte integrante e imprescindível da formação global e equilibrada da pessoa, independentemente do destino profissional que venha a ter. A formação estética e a educação da sensibilidade assumem-se, por isso, como elevada prioridade da reforma educativa em curso e do vasto movimento de restituição à escola protuguesa de um rosto humano. Este diploma teve em conta o aproveitamento e maximização dos recursos já existentes e contempla, no cumprimento do preceituado na Lei de Bases do Sistema Educativo, a educação artística nas suas múltiplas vertentes: genérica, vocacional, em modalidades especiais e extra-escolar.\n\nNo longo processo de preparação do presente diploma verificou-se uma participação alargada dos sectores interessados, assim como a oportuna audição do Conselho Nacional de Educação.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 46/86, de 14 de Outubro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "871579841": {
+   "fragment_id": "871615790",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "871579842": {
+   "fragment_id": "871615791",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma estabelece as bases gerais da organização da educação artística pré-escolar, escolar e extra-escolar, desenvolvendo os princípios contidos na Lei n.º 46/86, de 14 de Outubro - Lei de Bases do Sistema Educativo.\n\n2 - Entende-se por educação artística a que se refere, nomeadamente, às seguintes áreas:\n\na) Música;\n\nb) Dança;\n\nc) Teatro;\n\nd) Cinema e áudio-visual;\n\ne) Artes plásticas."
+  },
+  "871579843": {
+   "fragment_id": "871615792",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nSão objectivos da educação artística:\n\na) Estimular e desenvolver as diferentes formas de comunicação e expressão artística, bem como a imaginação criativa, integrando-as de forma a assegurar um desenvolvimento sensorial, motor e afectivo equilibrado;\n\nb) Promover o conhecimento das diversas linguagens artísticas e proporcionar um conjunto variado de experiências nestas áreas, de modo a estender o âmbito da formação global;\n\nc) Educar a sensibilidade estética e desenvolver a capacidade crítica;\n\nd) Fomentar práticas artísticas individuais e de grupo, visando a compreensão das suas linguagens e o estímulo à criatividade, bem como o apoio à ocupação criativa de tempos livres com actividades de natureza artística;\n\ne) Detectar aptidões específicas em alguma área artística;\n\nf) Proporcionar formação artística especializada, a nível vocacional e profissional, destinada, designadamente, a executantes, criadores e profissionais dos ramos artísticos, por forma a permitir a obtenção de elevado nível técnico, artístico e cultural;\n\ng) Desenvolver o ensino e a investigação nas áreas das diferentes ciências das artes;\n\nh) Formar docentes para todos os ramos e graus do ensino artístico, bem como animadores culturais, críticos, gestores e promotores artísticos."
+  },
+  "871579844": {
+   "fragment_id": "871615793",
+   "type": 11,
+   "heading": "Artigo 3.º — Educação artística genérica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Educação artística genérica\n\nA educação artística processa-se genericamente em todos os níveis de ensino como componente da formação geral dos alunos."
+  },
+  "871579845": {
+   "fragment_id": "871615794",
+   "type": 11,
+   "heading": "Artigo 4.º — Vias de educação artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Vias de educação artística\n\n1 - Para além da educação genérica, a educação artística processa-se ainda de acordo com as seguintes vias:\n\na) Educação artística vocacional;\n\nb) Educação artística em modalidades especiais;\n\nc) Educação artística extra-escolar.\n\n2 - A escolha das vias da educação artística deve obedecer à vontade e às capacidades dos alunos.\n\n3 - As diferentes vias da educação artística podem, ainda que enquadradas em diferentes níveis de ensino, ser ministradas num mesmo estabelecimento de ensino, desde que este reúna os requisitos definidos no presente diploma e a rentabilização dos recursos existentes o aconselhe."
+  },
+  "871579846": {
+   "fragment_id": "871615795",
+   "type": 11,
+   "heading": "Artigo 5.º — Especificidades curriculares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Especificidades curriculares\n\n1 - Os currículos para cada uma das vias da educação artística devem considerar a possibilidade de reorientação dos alunos de uma via para outra, quando for esta a sua opção e a mesma se revele conveniente, atendendo ao imperativo da racionalização dos recursos.\n\n2 - Os currículos referidos no número anterior devem ser concebidos de modo a poder integrar apoios e contribuições das novas técnicas e tecnologias, nomeadamente a informática."
+  },
+  "871579847": {
+   "fragment_id": "871615796",
+   "type": 11,
+   "heading": "Artigo 6.º — Alunos excepcionalmente dotados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alunos excepcionalmente dotados\n\n1 - Na organização dos currículos para a educação artística deve ser considerada a possibilidade de existência de alunos excepcionalmente dotados em determinada área artística, independentemente do aproveitamento na área da formação geral.\n\n2 - Os docentes da educação pré-escolar e do ensino básico que detectarem em determinados alunos aptidões ou talentos específicos para uma determinada área artística devem dar conhecimento do facto aos seus superiores hierárquicos e aos pais ou encarregados de educação dos alunos em causa, com vista ao encaminhamento destes para a via de educação artística que se revele mais adequada.\n\n3 - Os alunos referidos no número anterior, quando sejam reconhecidamente precoces em determinada área artística e não detenham as habilitações académicas de ingresso no ensino superior, podem, a título excepcional, frequentar este nível de ensino.\n\n4 - Aos alunos nas condições do número anterior é somente ministrada a formação prática e teórico-prática nas áreas artísticas em causa, sendo-lhes conferido o respectivo diploma académico ou profissional apenas quando concluam a correspondente formação curricular completa, sem prejuízo da possibilidade de atribuição de certificado da formação prática para efeitos profissionais e de transferência ou prosseguimento de estudos.\n\n5 - Aos alunos excepcionalmente dotados podem ser concedidas, por forma a promover o desenvolvimento das suas aptidões, as seguintes formas de apoio:\n\na) Regime especial de emprego e de desempenho profissional;\n\nb) Regime especial no âmbito da função pública;\n\nc) Apoio financeiro à respectiva preparação, designadamente através de atribuições de bolsas de estudo;\n\nd) Reinserção profissional;\n\ne) Seguro escolar de natureza adequada à educação artística, vocacional ou profissional.\n\n6 - Para efeitos de dispensa da prestação de seviço efectivo normal, correspondente à segunda fase das obrigações militares, pode o Ministro da educação, reconhecendo o superior interesse nacional das actividades desenvolvidas pelos cidadãos considerados excepcionalmente dotados, propor ao Ministro da Defesa Nacional a referida dispensa."
+  },
+  "871579848": {
+   "fragment_id": "871615797",
+   "type": 1,
+   "heading": "Capítulo II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização"
+  },
+  "871579849": {
+   "fragment_id": "871615798",
+   "type": 8,
+   "heading": "Secção I — Educação artística genérica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Educação artística genérica"
+  },
+  "871579850": {
+   "fragment_id": "871615799",
+   "type": 11,
+   "heading": "Artigo 7.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Definição\n\nEntende-se por educação artística genérica a que se destina a todos os cidadãos, independentemente das suas aptidões ou talentos específicos nalguma área, sendo considerada parte integrante indispensável da educação geral."
+  },
+  "871579851": {
+   "fragment_id": "871615800",
+   "type": 11,
+   "heading": "Artigo 8.º — Estabelecimentos de educação ou ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estabelecimentos de educação ou ensino\n\nA educação artística genérica ministra-se nos seguintes estabelecimentos de educação ou ensino:\n\na) Na educação pré-escolar, em jardins-de-infância;\n\nb) Nos ensinos básico e secundário, em escolas de ensino regular;\n\nc) No ensino superior, em escolas superiores de ensino politécnico e em universidades."
+  },
+  "871579852": {
+   "fragment_id": "871615801",
+   "type": 11,
+   "heading": "Artigo 9.º — Currículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Currículos\n\n1 - A educação artística genérica é ministrada quer como parte do currículo do ensino regular, quer a título de actividade de complemento curricular.\n\n2 - Nos 1.º e 2.º ciclos do ensino básico, a educação artística genérica é parte integrante do currículo do ensino regular.\n\n3 - No 3.º ciclo do ensino básico e no ensino secundário, a educação artística genérica pode revestir as seguintes formas:\n\na) Disciplinas a escolher pelos alunos de entre as opções apresentadas pela escola;\n\nb) Actividades inseridas no âmbito da área da escola;\n\nc) Actividades organizadas em regime de frequência optativa, nomeadamente grupos corais, instrumentais, teatrais, de dança, de expressão plástica ou áudio-visual;\n\nd) Outras actividades de complemento curricular.\n\n4 - Os currículos e actividades a que se referem os números anteriores devem proporcionar a detecção contínua de aptidões ou vocações específicas."
+  },
+  "871579853": {
+   "fragment_id": "871615802",
+   "type": 11,
+   "heading": "Artigo 10.º — Docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Docentes\n\n1 - Na educação artística pré-escolar, a sensibilização da criança para o ensino artístico é feita pelo respectivo educador de infância, sempre que possível com o apoio de professores especializados, em colaboração com os pais e encarregados de educação.\n\n2 - No 1.º ciclo do ensino básico, a educação artística genérica é assegurada pelos docentes do ensino regular, procurando a colaboração dos pais e encarregados de educação.\n\n3 - O disposto no número anterior não prejudica a existência de componentes reforçadas de educação artística, a ministrar por docentes especializados, nas escolas de ensino básico regular dotadas de condições para o efeito.\n\n4 - Nos 2.º e 3.º ciclos do ensino básico, a educação artística genérica é assegurada por docentes especializados, respectivamente por área e por disciplina.\n\n5 - No ensino secundário e no ensino superior, a educação artística genérica é assegurada por docentes especializados."
+  },
+  "871579854": {
+   "fragment_id": "871615803",
+   "type": 8,
+   "heading": "Secção II — Educação artística vocacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Educação artística vocacional"
+  },
+  "871579855": {
+   "fragment_id": "871615804",
+   "type": 11,
+   "heading": "Artigo 11.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Definição\n\nEntende-se por educação artística vocacional a que consiste numa formação especializada, destinada a indivíduos com comprovadas aptidões ou talentos em alguma área artística específica."
+  },
+  "871579856": {
+   "fragment_id": "871615805",
+   "type": 11,
+   "heading": "Artigo 12.º — Estabelecimentos de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estabelecimentos de ensino\n\n1 - A educação artística vocacional é ministrada em escolas especializadas, públicas, particulares ou cooperativas, sem prejuízo do que dispõem os números seguintes.\n\n2 - No 1.º ciclo do ensino básico, a educação artística vocacional pode, nas áreas da música e da dança, ser ministrada em estabelecimentos de ensino regular.\n\n3 - Nos 2.º e 3.º ciclos do ensino básico, e no ensino secundário, a educação artística vocacional pode ser ministrada, em áreas específicas, nos estabelecimentos de ensino regular que reúnam condições para o efeito, quando tal constitua adequada forma de satisfação das necessidades existentes.\n\n4 - No ensino superior, a educação artística vocacional é ministrada em escolas superiores do ensino politécnico e em universidades."
+  },
+  "871579857": {
+   "fragment_id": "871615806",
+   "type": 11,
+   "heading": "Artigo 13.º — Currículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Currículos\n\n1 - Nos 2.º e 3.º ciclos do ensino básico, a educação artística vocacional constitui componente significativa de um currículo integrado, que inclui formação geral, a realizar na mesma escola ou, em regime articulado, em escolas diferentes.\n\n2 - No ensino secundário, a educação artística vocacional constitui componente fundamental do respectivo currículo, que inclui também formação geral.\n\n3 - A carga horária atribuída à educação artística vocacional nos currículos dos ensinos básico e secundário é definida, para cada uma das áreas artísticas, por portaria do Ministro da Educação.\n\n4 - No ensino superior compete aos órgãos próprios de cada instituição definir e estruturar os currículos dos cursos de educação artística vocacional."
+  },
+  "871579858": {
+   "fragment_id": "871615807",
+   "type": 11,
+   "heading": "Artigo 14.º — Docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Docentes\n\n1 - A educação artística vocacional é assegurada por docentes especializados.\n\n2 - No 1.º ciclo do ensino básico, e em relação às áreas da música e da dança, pode a respectiva docência ser assegurada por professores especializados que exerçam funções noutros estabelecimentos de ensino."
+  },
+  "871579859": {
+   "fragment_id": "871615808",
+   "type": 11,
+   "heading": "Artigo 15.º — Regimes de ingresso e progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regimes de ingresso e progressão\n\n1 - O ingresso na educação artística vocacional, bem como a transferência a partir de outras vias de ensino artístico, são garantidos aos candidatos que, cumulativamente:\n\na) Se encontrem compreendidos nos limites etários que vierem a ser fixados para cada área artística e para cada nível de ensino;\n\nb) Revelem, através de provas específicas, aptidões e talentos adequados para a respectiva frequência.\n\n2 - Podem ser consideradas, em termos a definir por diploma posterior, condições excepcionais de progressão a ritmo diferente na formação específica e na formação geral, relativamente a determinadas áreas de educação artística vocacional."
+  },
+  "871579860": {
+   "fragment_id": "871615809",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime de transferência\n\n1 - A transferência de alunos do ensino artístico vocacional para o ensino artístico genérico, dentro do mesmo nível, é apenas condicionada pela existência de vagas no estabelecimento de ensino que ministre a educação artística genérica.\n\n2 - A transferência de alunos do ensino artístico vocacional para o ensino artístico genérico é obrigatória quando os mesmos não atinjam, na área artística específica, as classificações mínimas que vierem a ser fixadas."
+  },
+  "871579861": {
+   "fragment_id": "871615810",
+   "type": 11,
+   "heading": "Artigo 17.º — Diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Diplomas\n\n1 - No termo da educação artística vocacional, feita com aproveitamento, ministrada no ensino básico, é atribuído ao aluno o respectivo diploma, sem prejuízo da certificação geral correspondente à conclusão desse ciclo de estudos.\n\n2 - No termo da educação artística vocacional, feita com aproveitamento, ministrada no ensino secundário, é atribuído ao aluno o respectivo diploma, que indica a área de formação adquirida pelo aluno e constitui habilitação de acesso ao ensino superior.\n\n3 - O diploma referido no número anterior pode, em condições a definir pelo Ministro da Educação, habilitar o aluno a exercer uma actividade específica na vida artística."
+  },
+  "871579862": {
+   "fragment_id": "871615811",
+   "type": 8,
+   "heading": "Secção III — Educação artística em modalidades especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Educação artística em modalidades especiais\n\nArtigo 18.º\n\nDefinição\n\nA educação artística em modalidades especiais é uma educação artística realizada segundo modelos específicos, previstos no n.º 1 do artigo 16.º da Lei n.º 46/86, de 14 de Outubro - Lei de Bases do Sistema Educativo.\n\nArtigo 19.º\n\nNoção\n\n1 - A educação artística em modalidades especiais engloba:\n\na) A educação especial;\n\nb) O ensino profissional;\n\nc) O ensino recorrente de adultos;\n\nd) O ensino a distância.\n\n2 - Por diploma posterior são definidas para cada área artística as modalidades especiais de educação artística que nela possam ter lugar."
+  },
+  "871579863": {
+   "fragment_id": "871615812",
+   "type": 3,
+   "heading": "Subsecção I — Educação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Educação especial"
+  },
+  "871579864": {
+   "fragment_id": "871615813",
+   "type": 11,
+   "heading": "Artigo 20.º — Educação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Educação especial\n\nA educação artística, na modalidade de educação especial, é regulada por legislação própria, nos termos do disposto nos artigos 17.º e 18.º da Lei n.º 46/86, de 14 de Outubro."
+  },
+  "871579865": {
+   "fragment_id": "871615814",
+   "type": 3,
+   "heading": "Subsecção II — Ensino profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Ensino profissional"
+  },
+  "871579866": {
+   "fragment_id": "871615815",
+   "type": 11,
+   "heading": "Artigo 21.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Definição\n\nO ensino profissional pretende formar aceleradamente executantes nas diversas áreas artísticas, sem necessária correspondência a graus académicos."
+  },
+  "871579867": {
+   "fragment_id": "871615816",
+   "type": 11,
+   "heading": "Artigo 22.º — Estabelecimentos de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estabelecimentos de ensino\n\n1 - No 3.º ciclo do ensino básico e no ensino secundário, o ensino artístico profissional é ministrado quer em escolas profissionais criadas ao abrigo da legislação vigente, quer em escolas especializadas vocacionadas para realizar este modelo de ensino e que para tal possuam condições.\n\n2 - A nível de ensino superior, o ensino artístico profissional é ministrado em escolas superiores do ensino politécnico, às quais compete definir e estruturar os respectivos currículos."
+  },
+  "871579868": {
+   "fragment_id": "871615817",
+   "type": 11,
+   "heading": "Artigo 23.º — Regimes de ingresso e progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regimes de ingresso e progressão\n\n1 - Podem ingressar no ensino artístico profissional os alunos que reúnam as condições previstas na legislação vigente e que revelem, através de provas específicas, os talentos vocacionais adequados e os conhecimentos que vierem a ser definidos como suficientes, para cada área artística, por legislação especial.\n\n2 - É aplicável ao ensino artístico profissional o disposto no n.º 2 do artigo 15.º"
+  },
+  "871579869": {
+   "fragment_id": "871615818",
+   "type": 11,
+   "heading": "Artigo 24.º — Diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Diplomas\n\n1 - No termo da educação artística, feita com aproveitamento, ministrada no ensino profissional, para os níveis correspondentes ao ensino secundário. e ao ensino superior, são atribuídos diplomas que correspondem, respectivamente, aos níveis de qualificação profissional 3, 4 e 5 reconhecidos pelas Comunidades Europeias.\n\n2 - O diploma de nível 3 corresponde, para todos os efeitos legais, ao 12.º ano de escolaridade, podendo habilitar o aluno ao prosseguimento de estudos superiores nos termos e condições a definir por cada instituição de ensino superior, podendo ainda habilitar o aluno para o exercício de uma actividade profissional na área respectiva.\n\n3 - Os diplomas de nível 4 e 5 são certificados de habilitação profissional, não atribuindo necessariamente grau académico."
+  },
+  "871579870": {
+   "fragment_id": "871615819",
+   "type": 3,
+   "heading": "Subsecção III — Ensino recorrente de adultos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Ensino recorrente de adultos"
+  },
+  "871579871": {
+   "fragment_id": "871615820",
+   "type": 11,
+   "heading": "Artigo 25.º — Estabelecimentos de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Estabelecimentos de ensino\n\nA educação artística, na modalidade de ensino recorrente de adultos, é ministrada nos estabelecimentos de ensino regular ou especializados que tenham condições para o realizar, de acordo com o que sobre a matéria for estabelecido nos termos do artigo 20.º da Lei n.º 46/86, de 14 de Outubro."
+  },
+  "871579872": {
+   "fragment_id": "871615821",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime de ingresso\n\nPodem ingressar na educação artística, na modalidade de ensino recorrente, os alunos que possuam os requisitos gerais de ingresso no ensino regular e os requisitos previstos no artigo 20.º da Lei n.º 46/86, de 14 de Outubro."
+  },
+  "871579873": {
+   "fragment_id": "871615822",
+   "type": 11,
+   "heading": "Artigo 27.º — Diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Diplomas\n\nAs condições de atribuição de diplomas no termo da educação artística, na modalidade de ensino recorrente, são definidas por portaria do Ministro da Educação."
+  },
+  "871579874": {
+   "fragment_id": "871615823",
+   "type": 3,
+   "heading": "Subsecção IV — Ensino a distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Ensino a distância"
+  },
+  "871616475": {
+   "fragment_id": "871615824",
+   "type": 11,
+   "heading": "Artigo 28.º — Estabelecimentos de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Estabelecimentos de ensino\n\n1 - Nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, a educação artística é ministrada na modalidade de ensino a distância onde este já exista e onde venha a ser criado como modelo alternativo ou complementar do ensino regular.\n\n2 - No ensino superior, a educação artística a distância é ministrada pela Universidade Aberta."
+  },
+  "871616476": {
+   "fragment_id": "871615825",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime de ingresso\n\n1 - Podem ser definidos, por legislação própria, regimes especiais de ingresso na educação artística, na modalidade de ensino a distância, para os níveis não superiores.\n\n2 - Os requisitos de ingresso no ensino superior a distância são fixados pela Universidade Aberta."
+  },
+  "871616477": {
+   "fragment_id": "871615826",
+   "type": 11,
+   "heading": "Artigo 30.º — Diplomas e graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Diplomas e graus\n\n1 - No termo da educação artística ministrada através do ensino a distância ao nível do 3.º ciclo do ensino básico e do ensino secundário é atribuído ao aluno o respectivo diploma, cujos efeitos se circunscrevem ao prosseguimento dos estudos.\n\n2 - Ao ensino superior artístico ministrado na Universidade Aberta correspondem os graus e diplomas previstos na lei."
+  },
+  "871616478": {
+   "fragment_id": "871615827",
+   "type": 8,
+   "heading": "Secção IV — Educação artística extra-escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Educação artística extra-escolar"
+  },
+  "871616479": {
+   "fragment_id": "871615828",
+   "type": 11,
+   "heading": "Artigo 31.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Definição\n\nA educação artística extra-escolar visa o aperfeiçoamento, complemento, actualização ou reconversão da formação já recebida neste campo."
+  },
+  "871616480": {
+   "fragment_id": "871615829",
+   "type": 11,
+   "heading": "Artigo 32.º — Estabelecimentos de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estabelecimentos de ensino\n\n1 - A educação artística extra-escolar é ministrada, independentemente dos níveis de ensino, em estabelecimentos públicos, particulares ou cooperativos já existentes, bem como naqueles que venham a ser criados, de acordo com os princípios estabelecidos no artigo 23.º da Lei n.º 46/86, de 14 de Outubro.\n\n2 - A educação artística extra-escolar pode ainda ser ministrada nas escolas artísticas especializadas, sempre que a rentabilização dos recursos disponíveis o aconselhe."
+  },
+  "871616481": {
+   "fragment_id": "871615830",
+   "type": 1,
+   "heading": "Capítulo III — Estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estruturas"
+  },
+  "871616482": {
+   "fragment_id": "871615831",
+   "type": 8,
+   "heading": "Secção I — Pessoal docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Pessoal docente"
+  },
+  "871616483": {
+   "fragment_id": "871615832",
+   "type": 11,
+   "heading": "Artigo 33.º — Formação de professores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Formação de professores\n\n1 - A formação e qualificação dos docentes para a leccionação dos diversos níveis e vias da educação artística, será objecto de regulamentação, para cada área da educação artística, tendo em conta os princípios gerais consignados no presente diploma e no Decreto-Lei n.º 344/89, de 11 de Outubro.\n\n2 - Os cursos de formação de professores devem considerar as especificidades curriculares próprias da educação pré-escolar e dos ensinos básico e secundário."
+  },
+  "871616484": {
+   "fragment_id": "871615833",
+   "type": 11,
+   "heading": "Artigo 34.º — Regimes e estatutos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regimes e estatutos especiais\n\n1 - O professor especializado do ensino artístico ministrado na educação pré-escolar e nos 1.º e 2.º ciclos do ensino básico pode apoiar uma ou mais escolas, nomeadamente em regime itinerante, de acordo com normas fixadas pelo Ministro da Educação.\n\n2 - Podem ser criados, por portaria do Ministro da Educação, para cada área da educação artística, estatutos especiais para os docentes em algumas destas áreas, nomeadamente os de professor-concertista e professor-compositor na área da música e os de professor-bailarino e professor-coreógrafo na área da dança."
+  },
+  "871616485": {
+   "fragment_id": "871615834",
+   "type": 11,
+   "heading": "Artigo 35.º — Quadros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Quadros\n\n1 - Os quadros de pessoal docente das escolas públicas que ministram a educação artística nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, nas vias genérica ou vocacional, são dotados de lugares destinados a professores das diversas áreas de educação artística, através de portarias conjuntas dos Ministros das Finanças e da Educação.\n\n2 - As portarias referidas no número anterior devem considerar as necessidades definidas em termos de organização da rede escolar e a possibilidade de o serviço a prestar pelos docentes poder abranger mais de uma escola."
+  },
+  "871616486": {
+   "fragment_id": "871615835",
+   "type": 8,
+   "heading": "Secção II — Das escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das escolas"
+  },
+  "871616487": {
+   "fragment_id": "871615836",
+   "type": 11,
+   "heading": "Artigo 36.º — Rede escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Rede escolar\n\nA rede escolar da educação artística é definida tendo em consideração:\n\na) A necessidade da educação artística;\n\nb) As possibilidades do País, consideradas, nomeadamente, em termos regionais;\n\nc) O melhor aproveitamento dos recursos existentes, a nível público ou a nível privado, nomeadamente através da celebração de protocolos ou acordos entre escolas tendo em vista o ensino artístico articulado;\n\nd) A possibilidade de fusão de escolas já existentes;\n\ne) A possibilidade de criação de novas escolas."
+  },
+  "871616488": {
+   "fragment_id": "871615837",
+   "type": 11,
+   "heading": "Artigo 37.º — Ensino integrado e regime articulado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Ensino integrado e regime articulado\n\n1 - O ensino integrado, independentemente de se realizar numa só escola ou em escolas diferentes, envolve uma redução progressiva do currículo geral e um reforço do currículo específico.\n\n2 - O ensino integrado, quando em regime articulado realizado em escolas diferentes, tem em consideração a existência de uma escola artística especializada, pública, particular ou cooperativa, que ministra exclusivamente as componentes específicas da educação artística aos alunos de diferentes escolas do ensino regular.\n\n3 - O ensino integrado, em regime articulado realizado em escolas diferentes, deve ser concretizado onde se revele desejável, nomeadamente em termos do melhor aproveitamento dos recursos materiais e humanos existentes, e deve resultar da realização de acordos ou protocolos a celebrar entre as escolas intervenientes."
+  },
+  "871616489": {
+   "fragment_id": "871615838",
+   "type": 11,
+   "heading": "Artigo 38.º — Outros protocolos e acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Outros protocolos e acordos\n\nAs escolas de educação artística podem celebrar acordos e protocolos com outras instituições públicas ou privadas, nacionais ou estrangeiras, devendo, em particular, desenvolver cooperação com o departamento governamental responsável pela área da cultura."
+  },
+  "871616490": {
+   "fragment_id": "871615839",
+   "type": 1,
+   "heading": "Capítulo IV — Incentivos à educação artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Incentivos à educação artística"
+  },
+  "871616491": {
+   "fragment_id": "871615840",
+   "type": 11,
+   "heading": "Artigo 39.º — Infra-estruturas artísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Infra-estruturas artísticas\n\n1 - As infra-estruturas da educação artística existentes nas escolas públicas estão abertas ao uso da comunidade, salvaguardada a predominância das actividades escolares.\n\n2 - Ao Ministério da Educação compete desenvolver, com o apoio das autarquias locais e em colaboração com o departamento governamental responsável pela área da cultura, uma política articulada de instalações e equipamentos artísticos, a qual deve ter por base critérios fundados nas necessidades globais detectadas, por forma a promover o integral e harmonioso desenvolvimento da educação artística e da descentralização cultural.\n\n3 - Para a concretização do disposto no número anterior podem ser celebrados acordos, contratos-programa e protocolos com entidades públicas ou privadas."
+  },
+  "871616492": {
+   "fragment_id": "871615841",
+   "type": 11,
+   "heading": "Artigo 40.º — Apoios materiais e incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Apoios materiais e incentivos\n\n1 - O Estado promove e incentiva a colaboração dos pais e encarregados de educação e das entidades públicas e privadas no desenvolvimento da educação artística, nomeadamente sob a forma de doações, heranças ou legados de terrenos, instalações, edifícios e outros equipamentos educativos destinados à criação, manutenção ou desenvolvimento de estabelecimentos de ensino que ministrem a educação artística.\n\n2 - Para a execução e desenvolvimento do estabelecido no número anterior aplica-se o disposto no Decreto-Lei n.º 388/88, de 25 de Outubro, ou em legislação subsequente, nomeadamente no que respeita aos direitos das entidades disponentes."
+  },
+  "871616493": {
+   "fragment_id": "871615842",
+   "type": 11,
+   "heading": "Artigo 41.º — Apoio especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Apoio especial\n\n1 - O Estado concede apoio especial aos estabelecimentos de ensino básico e secundário e escolas profissionais que, em conformidade com o disposto no presente diploma, valorizem, desenvolvam e reforcem a educação artística, sem prejuízo das exigências curriculares gerais.\n\n2 - A prática artística, quando de alto nível, pode ainda ser objecto de protecção e regulamentação especiais quando vise principalmente propósitos educativos e tenha em vista o maior desenvolvimento das aptidões excepcionais próprias dos formandos."
+  },
+  "871616494": {
+   "fragment_id": "871615843",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "871616495": {
+   "fragment_id": "871615844",
+   "type": 11,
+   "heading": "Artigo 42.º — Aplicação ao ensino particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Aplicação ao ensino particular e cooperativo\n\nO presente diploma aplica-se aos estabelecimentos do ensino particular e cooperativo que desenvolvam a sua actividade no âmbito das diversas vias de educação artística, com excepção da educação artística extra-escolar."
+  },
+  "871616496": {
+   "fragment_id": "871615845",
+   "type": 11,
+   "heading": "Artigo 43.º — Legislação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Legislação subsequente\n\n1 - No prazo de dois anos contado a partir da entrada em vigor do presente diploma serão publicados os diplomas que desenvolverão e regulamentarão as diversas áreas da educação artística.\n\n2 - Os diplomas referidos no número anterior conterão, relativamente a cada área da educação artística, os mecanismos de transição para o sistema definido, nas suas linhas gerais, no presente diploma e estabelecerão as regras de integração dos actuais estabelecimentos de ensino artístico, bem como do seu pessoal docente e não docente, no sistema ora instituído."
+  },
+  "871616498": {
+   "fragment_id": "871615806",
+   "type": 11,
+   "heading": "Artigo 13.º — Currículos",
+   "in_force_from": "2004-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+   ],
+   "markdown": "###### Artigo 13.º — Currículos\n\n1 - Nos 2.º e 3.º ciclos do ensino básico, a educação artística vocacional constitui componente significativa de um currículo integrado, que inclui formação geral, a realizar na mesma escola ou, em regime articulado, em escolas diferentes.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - No ensino superior compete aos órgãos próprios de cada instituição definir e estruturar os currículos dos cursos de educação artística vocacional.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+  },
+  "871616499": {
+   "fragment_id": "871615810",
+   "type": 11,
+   "heading": "Artigo 17.º — Diplomas",
+   "in_force_from": "2004-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+   ],
+   "markdown": "###### Artigo 17.º — Diplomas\n\n1 - No termo da educação artística vocacional, feita com aproveitamento, ministrada no ensino básico, é atribuído ao aluno o respectivo diploma, sem prejuízo da certificação geral correspondente à conclusão desse ciclo de estudos.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+  },
+  "871616500": {
+   "fragment_id": "871615822",
+   "type": 11,
+   "heading": "Artigo 27.º — Diplomas",
+   "in_force_from": "2004-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+   ],
+   "markdown": "###### Artigo 27.º — Diplomas\n\nAs condições de atribuição de diplomas no termo da educação artística, na modalidade de ensino recorrente, são definidas por portaria do Ministro da Educação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31"
+  },
+  "871616497": {
+   "fragment_id": "871615846",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Julho de 1990. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.\n\nPromulgado em 12 de Outubro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Outubro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

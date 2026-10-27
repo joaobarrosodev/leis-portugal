@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:683256:por
+title: Portaria n.º 67/73
+short_title: null
+summary: Fixa a taxa a aplicar durante o ano de 1973 sobre os vinhos e seus derivados
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado do Comércio - Comissão de Coordenação Económica
+proposing_entity: null
+official_number: 67/73
+official_date: null
+publication_date: '1973-02-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 27/1973, Série I de 1973-02-01
+  number: '27'
+  series: I
+  supplement: null
+  pages: 152 - 152
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/02/02700/01520152.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '683256'
+  dre_path: /dr/detalhe/portaria/67-1973-683256
+  internal: pt:dre:683256:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/67-1973-683256
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/67-1973-683256
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:12:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 20c0e52f4cf106ffc0fac58bc24f90baa9614c584070ea4a837552920a8165c5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:428071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685992:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:12:16Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 67/73
+
+de 1 de Fevereiro
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, em conformidade com a alínea a) do artigo 16.º do [Decreto n.º 27977](https://diariodarepublica.pt/dr/detalhe/decreto/27977-1937-428071), de 19 de Agosto de 1937, e por força do [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, o seguinte:
+
+1.º É fixada em $06 por litro a taxa referida no [Decreto-Lei n.º 26317](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26317-1936-685992), de 30 de Janeiro de 1936, a aplicar durante o ano de 1973 sobre os vinhos e seus derivados.
+
+2.º A taxa relativa aos produtos da região demarcada do Dão é cobrada às seguintes entidades:
+
+a) Quando destinados à venda como engarrafados, aos respectivos engarrafadores;
+
+b) Quando vendidos na região a granel, aos retalhistas;
+
+c) Quando expedidos para fora da região e se destinem à exportação, aos exportadores;
+
+d) Quando expedidos para fora da região, conforme sejam vendidos na área do Grémio dos Armazenistas de Vinhos ou fora dela, respectivamente aos armazenistas ou retalhistas.
+
+3.º O quantitativo presumível da cobrança prevista no número anterior, que seja efectuada pela Junta Nacional do Vinho ou pelos Grémios dos Armazenistas de Vinhos e do Comércio de Exportação de Vinhos, será acordado entre aquela Junta e a Federação dos Vinicultores do Dão e entregue a esta, deduzidas as despesas de cobrança e outras legítimas.
+
+4.º Não havendo acordo, nos termos do número anterior, a Comissão de Coordenação Económica determinará o rendimento com base nos elementos fornecidos pelos citados organismos.
+
+5.º Continuam isentos, na cidade do Porto e no Entreposto de Gaia, os vinhos de pasto da região dos vinhos generosos do Douro.
+
+Ministério da Economia, 16 de Janeiro de 1973. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.

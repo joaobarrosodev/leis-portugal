@@ -1,0 +1,149 @@
+---
+schema_version: '1.0'
+id: pt:dre:249519:por
+title: Portaria n.º 339/2008
+short_title: null
+summary: Renova, por um período de 6 anos, a zona de caça municipal de Aljezur, bem como a transferência de gestão, englobando
+  vários terrenos cinegéticos, sitos nas freguesias de Odeceixe, Aljezur e Rogil, município de Aljezur, e anexa à presente
+  zona de caça vários prédios rústicos sitos nas freguesias de Odeceixe e Aljezur, município de Aljezur (Processo n.º 2809-DGRF)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento
+  Rural e das Pescas
+proposing_entity: null
+official_number: 339/2008
+official_date: null
+publication_date: '2008-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 84/2008, Série I de 2008-04-30
+  number: '84'
+  series: I
+  supplement: null
+  pages: 2449 - 2449
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/04/08400/0244902449.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/339/2008/04/30/p/dre/pt/html
+  oj: null
+  dre: '249519'
+  dre_path: /dr/detalhe/portaria/339-2008-249519
+  internal: pt:dre:249519:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-2008-249519
+  metadata_url: https://data.dre.pt/eli/port/339/2008/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-2008-249519
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e674e7fdcd9dde395b0810eaaa1abbefac839bd1a8f6610505291abcdf9240c6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aljezur
+- CAÇA
+- ZONA de CAÇA
+relationships:
+- type: amended_by
+  target: pt:dre:343610:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:493742:por
+  label: "Excluídos vários prédios rústicos da zona de caça atribuída pela Port 403/2002, de 18-Abr, alterada pela Port 1583/2007,\
+    \ de 13-Dez e pelo presente diploma, pela PORT.883/2009.14.08.2009.MAOTDR, DR.IS [157] de 14.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/883-2009-493742
+  date: '2009-08-14'
+- type: amended_by
+  target: pt:dre:611963:por
+  label: "Excluídos vários prédios rústicos da zona de caça criada pela Port 403/2002, de 18-Abr, renovada pelo presente diploma,\
+    \ pela PORT.156/2010.12.03.2010.MADRP, DR.IS [50] de 12.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-2010-611963
+  date: '2010-03-12'
+- type: amended_by
+  target: pt:dre:343610:por
+  label: "Excluídos vários terrenos cinegéticos da zona de caça atribuída pela Port 403/2002, de 18-Abr, alterada pelo presente\
+    \ diploma, pela PORT.720/2010.18.08.2010.MADRP, DR.IS [160] de 18.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-2010-343610
+  date: '2010-08-18'
+- type: cites
+  target: pt:dre:291824:por
+  label: null
+  source: http://data.dre.pt/eli/port/403/2002/04/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+- type: cites
+  target: pt:dre:627796:por
+  label: null
+  source: http://data.dre.pt/eli/port/1583/2007/12/13/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:31:41Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 339/2008
+
+de 30 de Abril
+
+Pela [Portaria n.º 403/2002](https://diariodarepublica.pt/dr/detalhe/portaria/403-2002-291824), de 18 de Abril, alterada pela [Portaria n.º 1583/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1583-2007-627796), de 13 de Dezembro, foi criada a zona de caça municipal de Aljezur (processo n.º 2809-DGRF), situada no município de Aljezur, válida até 1 de Março de 2008, e transferida a sua gestão para o Clube de Caça e Pesca do Concelho de Aljezur.
+
+Entretanto, a entidade titular veio requerer a sua renovação e ao mesmo tempo a anexação de outros prédios rústicos.
+
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º, 21.º e 26.º, em conjugação com o estipulado na alínea a) do artigo 18.º e no n.º 1 do artigo 118.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, ouvido o Conselho Cinegético Municipal:
+
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Pela presente portaria esta zona de caça, bem como a transferência de gestão, são renovadas, por um período de 6 anos, englobando os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Odeceixe, Aljezur e Rogil, município de Aljezur, com a área de 15964 ha.
+
+2.º São anexados à presente zona de caça vários prédios rústicos sitos nas freguesias de Odeceixe e Aljezur, município de Aljezur, com a área de 5498 ha.
+
+3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 21462 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+4.º A presente portaria produz efeitos a partir do dia 2 de Março de 2008.
+
+Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 19 de Março de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 14 de Abril de 2008.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08400/0244902449.pdf)

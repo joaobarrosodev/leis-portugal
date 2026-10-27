@@ -1,0 +1,339 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R0141:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R0141-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "2000-01-22",
+   "future": false,
+   "celex": "32000R0141",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cf6b5c623d0a26c3",
+    "5e4e94fc9e1c36ea",
+    "86e8e6789236837f",
+    "6429f655ee92d35e",
+    "6955dd69c8497a13",
+    "8800f9c0c765d91b",
+    "8d9dec5d60fea1a1",
+    "19e73682253e71bd",
+    "4fc9af87812dcc9b",
+    "bcdb3d203cd62737",
+    "d40f348346adc45e",
+    "acc123b19b3e1b5d"
+   ]
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "02000R0141-20090807",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Critérios de designação",
+    "Altera Artigo 5.º — Procedimento de designação e de retirada",
+    "Altera Artigo 8.º — Exclusividade de mercado",
+    "Altera Artigo 11.º — Entrada em vigor",
+    "Adita Artigo 10.º-A",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "c4fae06c0a673244",
+    "09656e1f25091743",
+    "15fb238d9423e316",
+    "0008cbe1cf31c859",
+    "6f6f7fc993b75382",
+    "bdfa181c9398b760",
+    "1af2f0098a7740b8",
+    "d2392b1ce3bcd31e",
+    "f61a74e9043573ba",
+    "bcdb3d203cd62737",
+    "d40f348346adc45e",
+    "bd009deb53b9e534",
+    "7e030e9c4529d89d",
+    "cc99100d1794d46e"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02000R0141-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 8.º — Exclusividade de mercado",
+    "Altera Artigo 10.º-A",
+    "Altera Notas",
+    "Adita Artigo 10.º-B — Exercício da delegação"
+   ],
+   "fragments": [
+    "c3f6e30e70bfbf58",
+    "09656e1f25091743",
+    "15fb238d9423e316",
+    "0008cbe1cf31c859",
+    "6f6f7fc993b75382",
+    "bdfa181c9398b760",
+    "1af2f0098a7740b8",
+    "d2392b1ce3bcd31e",
+    "7563fead22c9a1b1",
+    "bcdb3d203cd62737",
+    "d40f348346adc45e",
+    "48241a431cb49f9a",
+    "41f2cc72b165260e",
+    "7e030e9c4529d89d",
+    "7953a663054652cb"
+   ]
+  }
+ ],
+ "fragments": {
+  "cf6b5c623d0a26c3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 141/2000 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1999, relativo aos medicamentos órfãos** *Jornal Oficial nº L 018 de 22/01/2000 p. 0001 - 0005*\n\nREGULAMENTO (CE) N.o 141/2000 DO PARLAMENTO EUROPEU E DO CONSELHO\n\nde 16 de Dezembro de 1999\n\nrelativo aos medicamentos órfãos\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Algumas patologias são tão infrequentes que o custo do desenvolvimento e introdução no mercado de medicamentos com vista ao seu diagnóstico, prevenção ou tratamento não seria amortizado pelos respectivos volumes de vendas previsíveis; a indústria farmacêutica não estaria interessada no desenvolvimento de tais medicamentos em condições normais de mercado, estes medicamentos são portanto denominados \"medicamentos órfãos\";\n\n(2) Os doentes que sofrem de doenças raras devem ter direito a terapêuticas de qualidade idêntica à das oferecidas aos restantes doentes; importa, portanto, incentivar a indústria farmacêutica a investigar, desenvolver e introduzir no mercado medicamentos adequados. Os incentivos ao desenvolvimento de medicamentos órfãos existem nos Estados Unidos da América desde 1983 e no Japão desde 1993;\n\n(3) Até ao momento, na União Europeia apenas foram adoptadas medidas limitadas, a nível quer nacional quer comunitário, para fomentar o desenvolvimento de medicamentos órfãos; tais medidas devem ser tomadas a nível comunitário, por forma a aproveitar um mercado o mais vasto possível e a evitar a dispersão de recursos limitados; a acção a nível comunitário é preferível a medidas descoordenadas dos Estados-Membros que possam conduzir a distorções de concorrência e a entraves às trocas comerciais intracomunitárias;\n\n(4) Importa identificar clara e inequivocamente os medicamentos órfãos elegíveis para incentivos; afigura-se mais adequado concretizar este objectivo através do estabelecimento de um procedimento comunitário aberto e transparente com vista à designação de potenciais medicamentos como medicamentos órfãos;\n\n(5) Devem ser estabelecidos critérios objectivos de designação dos medicamentos órfãos; tais critérios devem basear-se na prevalência da patologia objecto de diagnóstico, prevenção ou tratamento; geralmente considera-se adequado como limite uma prevalência de até cinco casos por 10 mil pessoas; os medicamentos destinados a patologias que ponham a vida em perigo, sejam gravemente debilitantes ou sejam graves e crónicas devem beneficiar de incentivos, ainda que a prevalência seja superior a cinco casos por 10 mil pessoas;\n\n(6) Deve ser instituído um comité composto por peritos nomeados pelos Estados-Membros para analisar os pedidos de designação; esse comité deve incluir também três representantes das associações de doentes, a nomear pela Comissão, e três outras pessoas, nomeadas igualmente pela Comissão após recomendação da Agência Europeia de Avaliação dos Medicamentos (a seguir denominada \"a agência\"); a agência será responsável pela coordenação adequada entre o Comité dos Medicamentos Órfãos e o Comité das Especialidades Farmacêuticas;\n\n(7) Os doentes com estas patologias devem poder dispor de medicamentos com qualidade, segurança e eficácia análogas às dos oferecidos aos restantes doentes; os medicamentos órfãos devem, portanto, ser objecto do processo de avaliação habitual; os promotores de tais medicamentos devem poder obter uma autorização comunitária. Para facilitar a concessão ou a conservação da autorização comunitária, há que suprimir pelo menos uma parte da taxa cobrada pela agência; o orçamento comunitário deve compensar a agência em relação à consequente diminuição de receitas;\n\n(8) De acordo com a experiência dos Estados Unidos da América e do Japão, o maior incentivo ao investimento por parte da indústria no desenvolvimento e introdução no mercado de medicamentos órfãos é a perspectiva de obtenção da exclusividade de mercado durante vários anos, que pode permitir amortizar uma parte do investimento; a protecção dos dados ao abrigo do n.o 8, alínea a), subalínea iii), do artigo 4.o da Directiva 65/65/CEE do Conselho, de 26 de Janeiro de 1965, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes aos medicamentos(4), não constitui um incentivo suficiente para o efeito; os Estados-Membros que actuem isoladamente não podem introduzir esta medida fora do contexto comunitário, uma vez que entrariam em contradição com o disposto na Directiva 65/65/CEE; se tal medida for adoptada de forma descoordenada pelos Estados-Membros, poder-se-ão criar entraves às trocas comerciais intracomunitárias, que conduzam a distorções da concorrência e que possam prejudicar o mercado único; a exclusividade de mercado deve, no entanto, limitar-se à indicação terapêutica em relação à qual o estatuto de medicamento órfão tenha sido concedido, sem pôr em causa os direitos de propriedade intelectual em vigor; tendo em conta o interesse dos doentes, a exclusividade de mercado não deve impedir a introdução no mercado de medicamentos análogos que possam ter vantagens significativas para as pessoas afectadas pela patologia;\n\n(9) Os promotores de medicamentos órfãos designados como tal ao abrigo do presente regulamento devem poder desfrutar plenamente de todos os incentivos concedidos pela Comunidade ou pelos Estados-Membros com vista ao apoio à investigação e desenvolvimento de medicamentos destinados ao diagnóstico, prevenção ou terapêutica de doenças raras;\n\n(10) O programa específico Biomed 2, integrado no quarto programa-quadro de investigação e desenvolvimento tecnológico (1994-1998), apoiou a investigação sobre o tratamento das doenças raras, disponibilizando sistemas que permitam o rápido desenvolvimento de medicamentos órfãos e de inventários de medicamentos órfãos existentes a nível europeu; tais subsídios destinavam-se a promover a cooperação transnacional, com vista à implementação da investigação básica e clínica no domínio das doenças raras; a investigação sobre doenças raras irá continuar a ser uma das prioridades da Comunidade, uma vez que constava do quinto programa-quadro de investigação e desenvolvimento tecnológico (1998-2002) da Comissão; o presente regulamento institui o quadro legal que irá permitir aplicar de forma rápida e eficiente os resultados dessa investigação;\n\n(11) As doenças raras foram apontadas como área prioritária de acção comunitária no âmbito do quadro de acção no domínio da saúde pública; a Comissão, na sua comunicação relativa a um programa de acção comunitária em matéria de doenças raras no âmbito do quadro de acção no domínio da saúde pública, decidiu dar prioridade às doenças raras no âmbito do quadro de acção no domínio da saúde pública; o Parlamento Europeu e o Conselho aprovaram a Decisão n.o 1295/1999/CE, de 29 de Abril de 1999, relativa a um programa de acção comunitária em matéria de doenças raras no quadro da acção no domínio da saúde pública (1999-2003)(5), incluindo acções de informação, por forma a abordar agregados de doenças raras numa dada população e a apoiar as organizações de doentes interessadas; o presente regulamento constitui a realização de uma das prioridades estabelecidas no programa de acção,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "5e4e94fc9e1c36ea": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo do presente regulamento é a instituição de um procedimento comunitário de designação de certos medicamentos como \"medicamento órfão\" e a criação de incentivos à investigação, desenvolvimento e introdução no mercado de medicamentos designados como medicamentos órfãos."
+  },
+  "86e8e6789236837f": {
+   "fragment_id": "Artigo 2.º — Ambito e definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Ambito e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ambito e definições\n\nPara efeitos do presente regulamento, entende-se por\n\na) \"Medicamento\", qualquer medicamento para uso humano, tal como definido no artigo 2.o da Directiva 65/65/CEE;\n\nb) \"Medicamento órfão\", qualquer medicamento assim designado ao abrigo do presente regulamento;\n\nc) \"Promotor\" qualquer pessoa singular ou colectiva estabelecida na Comunidade que procura obter ou tenha obtido para um medicamento a designação de medicamento órfão;\n\nd) \"Agência\", a Agência Europeia de Avaliação dos Medicamentos."
+  },
+  "6429f655ee92d35e": {
+   "fragment_id": "Artigo 3.º — Critérios de designação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Critérios de designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de designação\n\n1. Um medicamento pode ser designado medicamento órfão se o respectivo promotor puder comprovar que:\n\na) Se destina ao diagnóstico, prevenção ou tratamento de uma patologia na Comunidade que ponha a vida em perigo ou seja cronicamente debilitante e que afecte até cinco pessoas em 10 mil no momento em que o pedido é apresentado, ou\n\nse destina ao diagnóstico, prevenção ou tratamento de uma patologia na Comunidade que ponha a vida em perigo, seja gravemente debilitante ou seja grave e crónica, e que é pouco provável que, sem incentivos, a comercialização desse medicamento na Comunidade possa gerar receitas que justifiquem o investimento necessário;\n\ne\n\nb) Não existe qualquer método satisfatório de diagnóstico, prevenção ou tratamento de tal patologia que tenha sido autorizado na Comunidade ou, caso exista, que o medicamento em questão oferece um benefício significativo àqueles que sofram dessa patologia.\n\n2. A Comissão aprovará as disposições necessárias para a aplicação do presente artigo sob a forma de um regulamento de execução, nos termos do artigo 72.o do Regulamento (CEE) n.o 2309/93 do Conselho(6)."
+  },
+  "6955dd69c8497a13": {
+   "fragment_id": "Artigo 4.º — Comité dos Medicamentos Órfãos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Comité dos Medicamentos Órfãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comité dos Medicamentos Órfãos\n\n1. É instituído no seio da Agência o Comité dos Medicamentos Órfãos, a seguir denominado \"o comité\".\n\n2. As atribuições do comité são as seguintes:\n\na) Analisar todos os pedidos de designação de um medicamento como medicamento órfão que lhe sejam apresentados em conformidade com o presente regulamento;\n\nb) Aconselhar a Comissão na elaboração e desenvolvimento de uma política da União Europeia para os medicamentos órfãos;\n\nc) Apoiar a Comissão nas discussões internacionais sobre questões relativas aos medicamentos órfãos e nos contactos com grupos de apoio aos doentes;\n\nd) Apoiar a Comissão na elaboração de normas de orientação pormenorizadas.\n\n3. O comité é composto por um membro nomeado por cada Estado-Membro, por três membros nomeados pela Comissão em representação das associações de doentes e por três membros nomeados pela Comissão, por recomendação da agência. Os membros do comité são nomeados por um período renovável de três anos. Podem fazer-se acompanhar de peritos.\n\n4. O comité elege o seu presidente por um período de três anos, renovável uma só vez.\n\n5. Os representantes da Comissão e o director executivo da agência ou o representante deste podem assistir a todas as reuniões do comité.\n\n6. A Agência assegura o secretariado do comité.\n\n7. Os membros do comité ficam obrigados, mesmo após a cessação de funções, a não divulgar qualquer informação do tipo das que são protegidas pelo sigilo profissional."
+  },
+  "8800f9c0c765d91b": {
+   "fragment_id": "Artigo 5.º — Procedimento de designação e de retirada",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de designação e de retirada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de designação e de retirada\n\n1. Para que um medicamento obtenha a designação de medicamento órfão, o promotor deve apresentar à agência um pedido nesse sentido, em qualquer fase do desenvolvimento do medicamento antes de requerer a autorização de introdução no mercado.\n\n2. O pedido deve ser acompanhado dos seguintes dados e documentos:\n\na) Nome ou razão social e endereço permanente do patrocinador;\n\nb) Princípios activos do medicamento;\n\nc) Indicação terapêutica proposta;\n\nd) Comprovação de que os critérios estabelecidos no n.o 1 do artigo 3.o se encontram preenchidos e descrição do estado de desenvolvimento, incluindo as indicações previsíveis.\n\n3. A Comissão elaborará, em consulta com os Estados-Membros, a agência e as partes interessadas, normas de orientação pormenorizadas sobre a forma de apresentação dos pedidos de designação, assim como sobre o respectivo conteúdo.\n\n4. A agência deve verificar a validade do pedido e elaborar um relatório sucinto destinado ao Comité. Se adequado, pode requerer que o promotor complemente os dados e documentos que acompanham o pedido.\n\n5. A agência deve assegurar que o comité emita parecer no prazo de 90 dias após a recepção de um pedido válido.\n\n6. Ao elaborar o seu parecer, o comité deve esforçar-se por chegar a um consenso. Se tal não for possível, o parecer é aprovado por maioria de dois terços dos seus membros. O parecer pode ser obtido mediante procedimento escrito.\n\n7. Se, no seu parecer, o comité considerar que o pedido não preenche os critérios estabelecidos no n.o 1 do artigo 3.o, a agência deve informar imediatamente desse facto o promotor. No prazo de 90 dias após a recepção do parecer, o promotor pode apresentar uma reclamação devidamente fundamentada, que a Agência transmitirá ao Comité. O Comité delibera sobre a eventual revisão do seu parecer na reunião seguinte.\n\n8. A agência transmite imediatamente o parecer definitivo do comité à Comissão, a qual toma uma decisão no prazo de 30 dias após a recepção do parecer. Se, em situações excepcionais, o projecto de decisão não for conforme com o parecer do comité, a decisão é aprovada nos termos do artigo 73.o do Regulamento (CEE) n.o 2309/93. A decisão é notificada ao promotor e comunicada à agência e às autoridades competentes dos Estados-Membros.\n\n9. O medicamento designado é inscrito no Registo Comunitário de Medicamentos Órfãos.\n\n10. O promotor apresenta anualmente à agência um relatório sobre o estado de desenvolvimento do medicamento designado.\n\n11. O titular de uma designação que pretenda transferir para outro promotor a designação de um medicamento órfão, deve apresentar à agência um pedido específico nesse sentido. A Comissão elaborará, em consulta com os Estados-Membros, a agência e as partes interessadas, normas de orientação pormenorizadas sobre a forma de apresentação dos pedidos de transferência, assim como sobre o respectivo conteúdo e todas as informações relativas ao novo promotor.\n\n12. Um medicamento órfão é retirado do Registo Comunitário de Medicamentos Órfãos:\n\na) A pedido do promotor;\n\nb) Desde que se comprove, antes da concessão de autorização de introdução no mercado, que os critérios estabelecidos no artigo 3.o deixaram de estar preenchidos no que se refere a esse medicamento;\n\nc) No final do período de exclusividade de mercado fixado no artigo 8.o"
+  },
+  "8d9dec5d60fea1a1": {
+   "fragment_id": "Artigo 6.º — Apoio à elaboração de protocolos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Apoio à elaboração de protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio à elaboração de protocolos\n\n1. Antes de apresentar um pedido de autorização de introdução no mercado, o promotor de um medicamento órfão pode solicitar o parecer da agência sobre a realização dos testes e ensaios necessários para comprovar a qualidade, segurança e eficácia de tal medicamento, em conformidade com a alínea j) do artigo 51.o do Regulamento (CEE) n.o 2309/93.\n\n2. A Agência deve estabelecer um procedimento relativo ao desenvolvimento de medicamentos órfãos que abranja um apoio de ordem regulamentar à definição do conteúdo do pedido de autorização, na acepção do disposto no artigo 6.o do Regulamento (CEE) n.o 2309/93."
+  },
+  "19e73682253e71bd": {
+   "fragment_id": "Artigo 7.º — Autorização comunitária de introdução no mercado",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Autorização comunitária de introdução no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autorização comunitária de introdução no mercado\n\n1. O responsável pela introdução no mercado de um medicamento órfão pode solicitar que a Comunidade conceda a autorização de introdução no mercado em conformidade com o disposto no Regulamento (CEE) n.o 2309/93 sem que deva comprovar que o medicamento é abrangido pela parte B do anexo do referido regulamento.\n\n2. A Comunidade atribui anualmente à agência uma contribuição especial, independente da prevista no artigo 57.o do Regulamento (CEE) n.o 2309/93. Esta contribuição deve ser utilizada pela agência apenas para compensar o não pagamento total ou parcial das taxas devidas ao abrigo das regras comunitárias aprovadas nos termos do Regulamento (CEE) n.o 2309/93. No final de cada ano, o director executivo da agência deve apresentar um relatório pormenorizado sobre a utilização desta contribuição especial. Os montantes não esgotados num dado ano devem ser reportados e deduzidos da contribuição especial do ano seguinte.\n\n3. As autorizações de introdução de medicamentos órfãos no mercado apenas devem abranger as indicações terapêuticas que observem os critérios estabelecidos no artigo 3.o, o que não prejudica a eventual apresentação de um pedido distinto de introdução no mercado relativo a indicações não abrangidas pelo âmbito do presente regulamento."
+  },
+  "4fc9af87812dcc9b": {
+   "fragment_id": "Artigo 8.º — Exclusividade de mercado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Exclusividade de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exclusividade de mercado\n\n1. Se a um medicamento órfão for concedida uma autorização de introdução no mercado ao abrigo do Regulamento (CEE) n.o 2309/93 ou se todos os Estados-Membros tiverem concedido autorizações de introdução no mercado nos termos dos procedimentos de reconhecimento mútuo estabelecidos nos artigos 7.o e 7A da Directiva 65/65/CEE ou no n.o 4 do artigo 9.o da Directiva 75/319/CEE do Conselho, de 20 de Maio de 1975, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes aos medicamentos(7), sem prejuízo do disposto no direito de propriedade intelectual ou em qualquer outra disposição de direito comunitário, a Comunidade e os Estados-Membros abster-se-ão de aceitar durante um período de 10 anos qualquer outro pedido de autorização de introdução no mercado, ou de conceder uma autorização de introdução no mercado, ou de dar seguimento a um pedido de extensão de uma autorização de introdução no mercado já existente, em relação a um medicamento similar com a mesma indicação terapêutica.\n\n2. Este período pode ser reduzido para seis anos se, no final do quinto ano, se comprovar que, em relação ao medicamento em questão, os critérios estabelecidos no artigo 3.o já não são preenchidos, nomeadamente quando se comprovar, a partir dos dados disponíveis, que a rentabilidade é suficiente para não justificar a manutenção de exclusividade de mercado. Para este efeito, o Estado-Membro deve informar a agência que o critério que fundamenta a atribuição da exclusividade de mercado pode não estar preenchido, devendo em seguida a agência iniciar o procedimento estabelecido no artigo 5.o O promotor deve fornecer à agência as informações necessárias para o efeito.\n\n3. Em derrogação do n.o 1, e sem prejuízo do direito relativo à propriedade intelectual ou de qualquer outra disposição prevista na legislação comunitária, pode ser concedida uma autorização de introdução no mercado de um medicamento similar com a mesma indicação terapêutica se:\n\na) O titular da autorização de introdução no mercado do medicamento órfão original tiver manifestado o seu consentimento ao segundo requerente; ou\n\nb) O titular da autorização de introdução no mercado do medicamento órfão original for incapaz de fornecer quantidades suficientes do medicamento; ou\n\nc) O segundo requerente puder comprovar no seu pedido que o segundo medicamento, embora análogo ao medicamento órfão já autorizado, é mais seguro, mais eficaz ou clinicamente superior noutros aspectos.\n\n4. A Comissão aprovará as definições de \"medicamento similar\" e de \"superioridade clínica\" sob a forma de um regulamento de execução, nos termos do artigo 72.o do Regulamento (CEE) n.o 2309/93.\n\n5. A Comissão elaborará, em consulta com os Estados-Membros, a agência e as partes interessadas, normas de orientação pormenorizadas sobre a aplicação do presente artigo."
+  },
+  "bcdb3d203cd62737": {
+   "fragment_id": "Artigo 9.º — Outros incentivos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Outros incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Outros incentivos\n\n1. Os medicamentos que sejam designados medicamentos órfãos ao abrigo do presente regulamento são elegíveis para incentivos, quer comunitários quer dos Estados-Membros, de apoio à investigação, desenvolvimento e introdução no mercado de medicamentos órfãos e, em especial, para as medidas de apoio à investigação destinadas às pequenas e médias empresas, previstas por programas-quadro de investigação e desenvolvimento tecnológico.\n\n2. Antes de 22 de Julho de 2000, os Estados-Membros devem apresentar à Comissão dados pormenorizados sobre quaisquer medidas por eles aprovadas de apoio à investigação, desenvolvimento e colocação no mercado dos medicamentos órfãos ou medicamentos que possam ser designados como tal. Estes dados devem ser actualizados periodicamente.\n\n3. Antes de 22 de Janeiro de 2001, a Comissão deve publicar um inventário pormenorizado de todos os incentivos da Comunidade e dos Estados-Membros de apoio à investigação, desenvolvimento e colocação no mercado de medicamentos órfãos. Este inventário deve ser actualizado periodicamente."
+  },
+  "d40f348346adc45e": {
+   "fragment_id": "Artigo 10.º — Relatório geral",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Relatório geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório geral\n\nAntes de 22 de Janeiro de 2006, a Comissão deve publicar um relatório geral sobre a experiência adquirida com a aplicação do presente regulamento, que exponha também os benefícios obtidos no plano da saúde pública."
+  },
+  "acc123b19b3e1b5d": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir da data de aprovação dos regulamentos de execução referidos no n.o 2 do artigo 3.o e no n.o 4 do artigo 8.o\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de Dezembro de 1999.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nN. FONTAINE\n\nPelo Conselho\n\nO Presidente\n\nK. HEMILÄ\n\n(1) JO C 276 de 4.9.1998, p. 7.\n\n(2) JO C 101 de 12.4.1999, p. 37.\n\n(3) Parecer do Parlamento Europeu de 9 de Março de 1999 (JO C 175 de 21.6.1999, p. 61), posição comum do Conselho de 27 de Setembro de 1999 (JO C 317 de 4.11.1999, p. 34) e decisão do Parlamento Europeu de 15 de Dezembro de 1999 (ainda não publicada no Jornal Oficial).\n\n(4) JO 22 de 9.2.1965, p. 369. Directiva com a última redacção que lhe foi dada pela Directiva 93/39/CEE (JO L 214 de 24.8.1993, p. 22).\n\n(5) JO L 155 de 22.6.1999, p. 1.\n\n(6) JO L 214 de 24.8.1993, p. 1. Regulamento alterado pelo Regulamento (CE) n.o 649/98 da Comissão (JO L 88 de 24.3.1998, p. 7).\n\n(7) JO L 147 de 9.6.1975, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 93/39/CEE do Conselho (JO L 214 de 24.8.1993, p. 22)."
+  },
+  "c4fae06c0a673244": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 1999\n\nrelativo aos medicamentos órfãos\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#E0003)),\n\n(1) Algumas patologias são tão infrequentes que o custo do desenvolvimento e introdução no mercado de medicamentos com vista ao seu diagnóstico, prevenção ou tratamento não seria amortizado pelos respectivos volumes de vendas previsíveis; a indústria farmacêutica não estaria interessada no desenvolvimento de tais medicamentos em condições normais de mercado, estes medicamentos são portanto denominados «medicamentos órfãos»;\n\n(2) Os doentes que sofrem de doenças raras devem ter direito a terapêuticas de qualidade idêntica à das oferecidas aos restantes doentes; importa, portanto, incentivar a indústria farmacêutica a investigar, desenvolver e introduzir no mercado medicamentos adequados. Os incentivos ao desenvolvimento de medicamentos órfãos existem nos Estados Unidos da América desde 1983 e no Japão desde 1993;\n\n(3) Até ao momento, na União Europeia apenas foram adoptadas medidas limitadas, a nível quer nacional quer comunitário, para fomentar o desenvolvimento de medicamentos órfãos; tais medidas devem ser tomadas a nível comunitário, por forma a aproveitar um mercado o mais vasto possível e a evitar a dispersão de recursos limitados; a acção a nível comunitário é preferível a medidas descoordenadas dos Estados-Membros que possam conduzir a distorções de concorrência e a entraves às trocas comerciais intracomunitárias;\n\n(4) Importa identificar clara e inequivocamente os medicamentos órfãos elegíveis para incentivos; afigura-se mais adequado concretizar este objectivo através do estabelecimento de um procedimento comunitário aberto e transparente com vista à designação de potenciais medicamentos como medicamentos órfãos;\n\n(5) Devem ser estabelecidos critérios objectivos de designação dos medicamentos órfãos; tais critérios devem basear-se na prevalência da patologia objecto de diagnóstico, prevenção ou tratamento; geralmente considera-se adequado como limite uma prevalência de até cinco casos por 10 mil pessoas; os medicamentos destinados a patologias que ponham a vida em perigo, sejam gravemente debilitantes ou sejam graves e crónicas devem beneficiar de incentivos, ainda que a prevalência seja superior a cinco casos por 10 mil pessoas;\n\n(6) Deve ser instituído um comité composto por peritos nomeados pelos Estados-Membros para analisar os pedidos de designação; esse comité deve incluir também três representantes das associações de doentes, a nomear pela Comissão, e três outras pessoas, nomeadas igualmente pela Comissão após recomendação da Agência Europeia de Avaliação dos Medicamentos (a seguir denominada «a agência»); a agência será responsável pela coordenação adequada entre o Comité dos Medicamentos Órfãos e o Comité das Especialidades Farmacêuticas;\n\n(7) Os doentes com estas patologias devem poder dispor de medicamentos com qualidade, segurança e eficácia análogas às dos oferecidos aos restantes doentes; os medicamentos órfãos devem, portanto, ser objecto do processo de avaliação habitual; os promotores de tais medicamentos devem poder obter uma autorização comunitária. Para facilitar a concessão ou a conservação da autorização comunitária, há que suprimir pelo menos uma parte da taxa cobrada pela agência; o orçamento comunitário deve compensar a agência em relação à consequente diminuição de receitas;\n\n(8) De acordo com a experiência dos Estados Unidos da América e do Japão, o maior incentivo ao investimento por parte da indústria no desenvolvimento e introdução no mercado de medicamentos órfãos é a perspectiva de obtenção da exclusividade de mercado durante vários anos, que pode permitir amortizar uma parte do investimento; a protecção dos dados ao abrigo do n.º 8, alínea a), subalínea iii), do artigo 4.º da Directiva 65/65/CEE do Conselho, de 26 de Janeiro de 1965, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes aos medicamentos ([^4^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#E0004)), não constitui um incentivo suficiente para o efeito; os Estados-Membros que actuem isoladamente não podem introduzir esta medida fora do contexto comunitário, uma vez que entrariam em contradição com o disposto na Directiva 65/65/CEE; se tal medida for adoptada de forma descoordenada pelos Estados-Membros, poder-se-ão criar entraves às trocas comerciais intracomunitárias, que conduzam a distorções da concorrência e que possam prejudicar o mercado único; a exclusividade de mercado deve, no entanto, limitar-se à indicação terapêutica em relação à qual o estatuto de medicamento órfão tenha sido concedido, sem pôr em causa os direitos de propriedade intelectual em vigor; tendo em conta o interesse dos doentes, a exclusividade de mercado não deve impedir a introdução no mercado de medicamentos análogos que possam ter vantagens significativas para as pessoas afectadas pela patologia;\n\n(9) Os promotores de medicamentos órfãos designados como tal ao abrigo do presente regulamento devem poder desfrutar plenamente de todos os incentivos concedidos pela Comunidade ou pelos Estados-Membros com vista ao apoio à investigação e desenvolvimento de medicamentos destinados ao diagnóstico, prevenção ou terapêutica de doenças raras;\n\n(10) O programa específico Biomed 2, integrado no quarto programa-quadro de investigação e desenvolvimento tecnológico (1994-1998), apoiou a investigação sobre o tratamento das doenças raras, disponibilizando sistemas que permitam o rápido desenvolvimento de medicamentos órfãos e de inventários de medicamentos órfãos existentes a nível europeu; tais subsídios destinavam-se a promover a cooperação transnacional, com vista à implementação da investigação básica e clínica no domínio das doenças raras; a investigação sobre doenças raras irá continuar a ser uma das prioridades da Comunidade, uma vez que constava do quinto programa-quadro de investigação e desenvolvimento tecnológico (1998-2002) da Comissão; o presente regulamento institui o quadro legal que irá permitir aplicar de forma rápida e eficiente os resultados dessa investigação;\n\n(11) As doenças raras foram apontadas como área prioritária de acção comunitária no âmbito do quadro de acção no domínio da saúde pública; a Comissão, na sua comunicação relativa a um programa de acção comunitária em matéria de doenças raras no âmbito do quadro de acção no domínio da saúde pública, decidiu dar prioridade às doenças raras no âmbito do quadro de acção no domínio da saúde pública; o Parlamento Europeu e o Conselho aprovaram a Decisão n.º 1295/1999/CE, de 29 de Abril de 1999, relativa a um programa de acção comunitária em matéria de doenças raras no quadro da acção no domínio da saúde pública (1999-2003) ([^5^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#E0005)), incluindo acções de informação, por forma a abordar agregados de doenças raras numa dada população e a apoiar as organizações de doentes interessadas; o presente regulamento constitui a realização de uma das prioridades estabelecidas no programa de acção,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "09656e1f25091743": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo do presente regulamento é a instituição de um procedimento comunitário de designação de certos medicamentos como «medicamento órfão» e a criação de incentivos à investigação, desenvolvimento e introdução no mercado de medicamentos designados como medicamentos órfãos."
+  },
+  "15fb238d9423e316": {
+   "fragment_id": "Artigo 2.º — Ambito e definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Ambito e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ambito e definições\n\nPara efeitos do presente regulamento, entende-se por\n\na) «Medicamento», qualquer medicamento para uso humano, tal como definido no artigo 2.º da Directiva 65/65/CEE;\n\nb) «Medicamento órfão», qualquer medicamento assim designado ao abrigo do presente regulamento;\n\nc) «Promotor» qualquer pessoa singular ou colectiva estabelecida na Comunidade que procura obter ou tenha obtido para um medicamento a designação de medicamento órfão;\n\nd) «Agência», a Agência Europeia de Avaliação dos Medicamentos."
+  },
+  "0008cbe1cf31c859": {
+   "fragment_id": "Artigo 3.º — Critérios de designação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Critérios de designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de designação\n\n1. Um medicamento pode ser designado medicamento órfão se o respectivo promotor puder comprovar que:\n\na) Se destina ao diagnóstico, prevenção ou tratamento de uma patologia na Comunidade que ponha a vida em perigo ou seja cronicamente debilitante e que afecte até cinco pessoas em 10 mil no momento em que o pedido é apresentado, ou\n\nb) Não existe qualquer método satisfatório de diagnóstico, prevenção ou tratamento de tal patologia que tenha sido autorizado na Comunidade ou, caso exista, que o medicamento em questão oferece um benefício significativo àqueles que sofram dessa patologia.\n\n2. A Comissão aprova, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 10.º-A, as disposições necessárias para a aplicação do n.º 1 do presente artigo sob a forma de um regulamento de execução."
+  },
+  "6f6f7fc993b75382": {
+   "fragment_id": "Artigo 4.º — Comité dos Medicamentos Órfãos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Comité dos Medicamentos Órfãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comité dos Medicamentos Órfãos\n\n1. É instituído no seio da Agência o Comité dos Medicamentos Órfãos, a seguir denominado «o comité».\n\n2. As atribuições do comité são as seguintes:\n\na) Analisar todos os pedidos de designação de um medicamento como medicamento órfão que lhe sejam apresentados em conformidade com o presente regulamento;\n\nb) Aconselhar a Comissão na elaboração e desenvolvimento de uma política da União Europeia para os medicamentos órfãos;\n\nc) Apoiar a Comissão nas discussões internacionais sobre questões relativas aos medicamentos órfãos e nos contactos com grupos de apoio aos doentes;\n\nd) Apoiar a Comissão na elaboração de normas de orientação pormenorizadas.\n\n3. O comité é composto por um membro nomeado por cada Estado-Membro, por três membros nomeados pela Comissão em representação das associações de doentes e por três membros nomeados pela Comissão, por recomendação da agência. Os membros do comité são nomeados por um período renovável de três anos. Podem fazer-se acompanhar de peritos.\n\n4. O comité elege o seu presidente por um período de três anos, renovável uma só vez.\n\n5. Os representantes da Comissão e o director executivo da agência ou o representante deste podem assistir a todas as reuniões do comité.\n\n6. A Agência assegura o secretariado do comité.\n\n7. Os membros do comité ficam obrigados, mesmo após a cessação de funções, a não divulgar qualquer informação do tipo das que são protegidas pelo sigilo profissional."
+  },
+  "bdfa181c9398b760": {
+   "fragment_id": "Artigo 5.º — Procedimento de designação e de retirada",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de designação e de retirada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de designação e de retirada\n\n1. Para que um medicamento obtenha a designação de medicamento órfão, o promotor deve apresentar à agência um pedido nesse sentido, em qualquer fase do desenvolvimento do medicamento antes de requerer a autorização de introdução no mercado.\n\n2. O pedido deve ser acompanhado dos seguintes dados e documentos:\n\na) Nome ou razão social e endereço permanente do patrocinador;\n\nb) Princípios activos do medicamento;\n\nc) Indicação terapêutica proposta;\n\nd) Comprovação de que os critérios estabelecidos no n.º 1 do artigo 3.º se encontram preenchidos e descrição do estado de desenvolvimento, incluindo as indicações previsíveis.\n\n3. A Comissão elaborará, em consulta com os Estados-Membros, a agência e as partes interessadas, normas de orientação pormenorizadas sobre a forma de apresentação dos pedidos de designação, assim como sobre o respectivo conteúdo.\n\n4. A agência deve verificar a validade do pedido e elaborar um relatório sucinto destinado ao Comité. Se adequado, pode requerer que o promotor complemente os dados e documentos que acompanham o pedido.\n\n5. A agência deve assegurar que o comité emita parecer no prazo de 90 dias após a recepção de um pedido válido.\n\n6. Ao elaborar o seu parecer, o comité deve esforçar-se por chegar a um consenso. Se tal não for possível, o parecer é aprovado por maioria de dois terços dos seus membros. O parecer pode ser obtido mediante procedimento escrito.\n\n7. Se, no seu parecer, o comité considerar que o pedido não preenche os critérios estabelecidos no n.º 1 do artigo 3.º, a agência deve informar imediatamente desse facto o promotor. No prazo de 90 dias após a recepção do parecer, o promotor pode apresentar uma reclamação devidamente fundamentada, que a Agência transmitirá ao Comité. O Comité delibera sobre a eventual revisão do seu parecer na reunião seguinte.\n\n8. A agência transmite imediatamente o parecer definitivo do comité à Comissão, a qual toma uma decisão no prazo de 30 dias após a recepção do parecer. Se, em situações excepcionais, o projecto de decisão não for conforme com o parecer do comité, a decisão é aprovada pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 10.º-A. A decisão é notificada ao promotor e comunicada à agência e às autoridades competentes dos Estados-Membros.\n\n9. O medicamento designado é inscrito no Registo Comunitário de Medicamentos Órfãos.\n\n10. O promotor apresenta anualmente à agência um relatório sobre o estado de desenvolvimento do medicamento designado.\n\n11. O titular de uma designação que pretenda transferir para outro promotor a designação de um medicamento órfão, deve apresentar à agência um pedido específico nesse sentido. A Comissão elaborará, em consulta com os Estados-Membros, a agência e as partes interessadas, normas de orientação pormenorizadas sobre a forma de apresentação dos pedidos de transferência, assim como sobre o respectivo conteúdo e todas as informações relativas ao novo promotor.\n\n12. Um medicamento órfão é retirado do Registo Comunitário de Medicamentos Órfãos:\n\na) A pedido do promotor;\n\nb) Desde que se comprove, antes da concessão de autorização de introdução no mercado, que os critérios estabelecidos no artigo 3.º deixaram de estar preenchidos no que se refere a esse medicamento;\n\nc) No final do período de exclusividade de mercado fixado no artigo 8.º"
+  },
+  "1af2f0098a7740b8": {
+   "fragment_id": "Artigo 6.º — Apoio à elaboração de protocolos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Apoio à elaboração de protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio à elaboração de protocolos\n\n1. Antes de apresentar um pedido de autorização de introdução no mercado, o promotor de um medicamento órfão pode solicitar o parecer da agência sobre a realização dos testes e ensaios necessários para comprovar a qualidade, segurança e eficácia de tal medicamento, em conformidade com a alínea j) do artigo 51.º do Regulamento (CEE) n.º 2309/93.\n\n2. A Agência deve estabelecer um procedimento relativo ao desenvolvimento de medicamentos órfãos que abranja um apoio de ordem regulamentar à definição do conteúdo do pedido de autorização, na acepção do disposto no artigo 6.º do Regulamento (CEE) n.º 2309/93."
+  },
+  "d2392b1ce3bcd31e": {
+   "fragment_id": "Artigo 7.º — Autorização comunitária de introdução no mercado",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Autorização comunitária de introdução no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autorização comunitária de introdução no mercado\n\n1. O responsável pela introdução no mercado de um medicamento órfão pode solicitar que a Comunidade conceda a autorização de introdução no mercado em conformidade com o disposto no Regulamento (CEE) n.º 2309/93 sem que deva comprovar que o medicamento é abrangido pela parte B do anexo do referido regulamento.\n\n2. A Comunidade atribui anualmente à agência uma contribuição especial, independente da prevista no artigo 57.º do Regulamento (CEE) n.º 2309/93. Esta contribuição deve ser utilizada pela agência apenas para compensar o não pagamento total ou parcial das taxas devidas ao abrigo das regras comunitárias aprovadas nos termos do Regulamento (CEE) n.º 2309/93. No final de cada ano, o director executivo da agência deve apresentar um relatório pormenorizado sobre a utilização desta contribuição especial. Os montantes não esgotados num dado ano devem ser reportados e deduzidos da contribuição especial do ano seguinte.\n\n3. As autorizações de introdução de medicamentos órfãos no mercado apenas devem abranger as indicações terapêuticas que observem os critérios estabelecidos no artigo 3.º, o que não prejudica a eventual apresentação de um pedido distinto de introdução no mercado relativo a indicações não abrangidas pelo âmbito do presente regulamento."
+  },
+  "f61a74e9043573ba": {
+   "fragment_id": "Artigo 8.º — Exclusividade de mercado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Exclusividade de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exclusividade de mercado\n\n1. Se a um medicamento órfão for concedida uma autorização de introdução no mercado ao abrigo do Regulamento (CEE) n.º 2309/93 ou se todos os Estados-Membros tiverem concedido autorizações de introdução no mercado nos termos dos procedimentos de reconhecimento mútuo estabelecidos nos artigos 7.º e 7A da Directiva 65/65/CEE ou no n.º 4 do artigo 9.º da Directiva 75/319/CEE do Conselho, de 20 de Maio de 1975, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes aos medicamentos ([^6^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#E0006)), sem prejuízo do disposto no direito de propriedade intelectual ou em qualquer outra disposição de direito comunitário, a Comunidade e os Estados-Membros abster-se-ão de aceitar durante um período de 10 anos qualquer outro pedido de autorização de introdução no mercado, ou de conceder uma autorização de introdução no mercado, ou de dar seguimento a um pedido de extensão de uma autorização de introdução no mercado já existente, em relação a um medicamento similar com a mesma indicação terapêutica.\n\n2. Este período pode ser reduzido para seis anos se, no final do quinto ano, se comprovar que, em relação ao medicamento em questão, os critérios estabelecidos no artigo 3.º já não são preenchidos, nomeadamente quando se comprovar, a partir dos dados disponíveis, que a rentabilidade é suficiente para não justificar a manutenção de exclusividade de mercado. Para este efeito, o Estado-Membro deve informar a agência que o critério que fundamenta a atribuição da exclusividade de mercado pode não estar preenchido, devendo em seguida a agência iniciar o procedimento estabelecido no artigo 5.º O promotor deve fornecer à agência as informações necessárias para o efeito.\n\n3. Em derrogação do n.º 1, e sem prejuízo do direito relativo à propriedade intelectual ou de qualquer outra disposição prevista na legislação comunitária, pode ser concedida uma autorização de introdução no mercado de um medicamento similar com a mesma indicação terapêutica se:\n\na) O titular da autorização de introdução no mercado do medicamento órfão original tiver manifestado o seu consentimento ao segundo requerente; ou\n\nb) O titular da autorização de introdução no mercado do medicamento órfão original for incapaz de fornecer quantidades suficientes do medicamento; ou\n\nc) O segundo requerente puder comprovar no seu pedido que o segundo medicamento, embora análogo ao medicamento órfão já autorizado, é mais seguro, mais eficaz ou clinicamente superior noutros aspectos.\n\n4. A Comissão aprovará as definições de «medicamento similar» e de «superioridade clínica» sob a forma de um regulamento de execução.\n\nEstas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 10.º-A.\n\n5. A Comissão elaborará, em consulta com os Estados-Membros, a agência e as partes interessadas, normas de orientação pormenorizadas sobre a aplicação do presente artigo."
+  },
+  "bd009deb53b9e534": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\n1. A Comissão é assistida pelo Comité Permanente dos Medicamentos de Uso Humano a que se refere o n.º 1 do artigo 121.º da Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano ([^7^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#E0007)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho ([^8^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#E0008)), tendo-se em conta o disposto no artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "7e030e9c4529d89d": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é aplicável a partir da data de aprovação dos regulamentos de execução referidos no n.º 2 do artigo 3.º e no n.º 4 do artigo 8.º\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "cc99100d1794d46e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#src.E0001)) JO C 276 de 4.9.1998, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#src.E0002)) JO C 101 de 12.4.1999, p. 37.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 9 de Março de 1999 (JO C 175 de 21.6.1999, p. 61), posição comum do Conselho de 27 de Setembro de 1999 (JO C 317 de 4.11.1999, p. 34) e decisão do Parlamento Europeu de 15 de Dezembro de 1999 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#src.E0004)) JO 22 de 9.2.1965, p. 369. Directiva com a última redacção que lhe foi dada pela Directiva 93/39/CEE (JO L 214 de 24.8.1993, p. 22).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#src.E0005)) JO L 155 de 22.6.1999, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#src.E0006)) JO L 147 de 9.6.1975, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 93/39/CEE do Conselho (JO L 214 de 24.8.1993, p. 22).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#src.E0007)) JO L 311 de 28.11.2001, p. 67.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/d845e34f-2cd3-4217-9ab3-1ccfb1bb3be3.0019.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23.."
+  },
+  "c3f6e30e70bfbf58": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 1999\n\nrelativo aos medicamentos órfãos"
+  },
+  "7563fead22c9a1b1": {
+   "fragment_id": "Artigo 8.º — Exclusividade de mercado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Exclusividade de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exclusividade de mercado\n\n1. Se a um medicamento órfão for concedida uma autorização de introdução no mercado ao abrigo do Regulamento (CEE) n.º 2309/93 ou se todos os Estados-Membros tiverem concedido autorizações de introdução no mercado nos termos dos procedimentos de reconhecimento mútuo estabelecidos nos artigos 7.º e 7A da Directiva 65/65/CEE ou no n.º 4 do artigo 9.º da Directiva 75/319/CEE do Conselho, de 20 de Maio de 1975, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes aos medicamentos ([^1^](http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)), sem prejuízo do disposto no direito de propriedade intelectual ou em qualquer outra disposição de direito comunitário, a Comunidade e os Estados-Membros abster-se-ão de aceitar durante um período de 10 anos qualquer outro pedido de autorização de introdução no mercado, ou de conceder uma autorização de introdução no mercado, ou de dar seguimento a um pedido de extensão de uma autorização de introdução no mercado já existente, em relação a um medicamento similar com a mesma indicação terapêutica.\n\n2. Este período pode ser reduzido para seis anos se, no final do quinto ano, se comprovar que, em relação ao medicamento em questão, os critérios estabelecidos no artigo 3.º já não são preenchidos, nomeadamente quando se comprovar, a partir dos dados disponíveis, que a rentabilidade é suficiente para não justificar a manutenção de exclusividade de mercado. Para este efeito, o Estado-Membro deve informar a agência que o critério que fundamenta a atribuição da exclusividade de mercado pode não estar preenchido, devendo em seguida a agência iniciar o procedimento estabelecido no artigo 5.º O promotor deve fornecer à agência as informações necessárias para o efeito.\n\n3. Em derrogação do n.º 1, e sem prejuízo do direito relativo à propriedade intelectual ou de qualquer outra disposição prevista na legislação comunitária, pode ser concedida uma autorização de introdução no mercado de um medicamento similar com a mesma indicação terapêutica se:\n\na) O titular da autorização de introdução no mercado do medicamento órfão original tiver manifestado o seu consentimento ao segundo requerente; ou\n\nb) O titular da autorização de introdução no mercado do medicamento órfão original for incapaz de fornecer quantidades suficientes do medicamento; ou\n\nc) O segundo requerente puder comprovar no seu pedido que o segundo medicamento, embora análogo ao medicamento órfão já autorizado, é mais seguro, mais eficaz ou clinicamente superior noutros aspectos.\n\n4. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 10.º-B a fim de completar o presente regulamento mediante a adoção de definições de «medicamento similar» e de «superioridade clínica».\n\n5. A Comissão elaborará, em consulta com os Estados-Membros, a agência e as partes interessadas, normas de orientação pormenorizadas sobre a aplicação do presente artigo."
+  },
+  "48241a431cb49f9a": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\n1. A Comissão é assistida pelo Comité Permanente dos Medicamentos de Uso Humano a que se refere o n.º 1 do artigo 121.º da Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano ([^2^](http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003)), tendo-se em conta o disposto no artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "41f2cc72b165260e": {
+   "fragment_id": "Artigo 10.º-B — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 10.º-B — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-B — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 8.º, n.º 4, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 8.º, n.º 4, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^4^](http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0004)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 8.º, n.º 4, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "7953a663054652cb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 147 de 9.6.1975, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 93/39/CEE do Conselho (JO L 214 de 24.8.1993, p. 22).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 311 de 28.11.2001, p. 67.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 184 de 17.7.1999, p. 23..\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ddbf4837-e08a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO L 123 de 12.5.2016, p. 1."
+  }
+ }
+}

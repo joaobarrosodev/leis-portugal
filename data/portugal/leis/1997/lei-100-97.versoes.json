@@ -1,0 +1,977 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:648882:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-888844349",
+ "dre_path": "/dr/detalhe/lei/100-1997-648882",
+ "source_lastmod": "2024-09-24",
+ "versions": [
+  {
+   "date": "1997-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888844782",
+    "888844393",
+    "888844394",
+    "888844395",
+    "888844396",
+    "888844397",
+    "888844398",
+    "888844399",
+    "888844400",
+    "888844401",
+    "888844402",
+    "888844403",
+    "888844404",
+    "888844405",
+    "888844406",
+    "888844407",
+    "888844408",
+    "888844409",
+    "888844410",
+    "888844411",
+    "888844412",
+    "888844413",
+    "888844414",
+    "888844415",
+    "888844416",
+    "888844417",
+    "888844418",
+    "888844419",
+    "888844420",
+    "888844421",
+    "888844422",
+    "888844423",
+    "888844424",
+    "888844425",
+    "888844426",
+    "888844427",
+    "888844428",
+    "888844429",
+    "888844430",
+    "888844431",
+    "888844432",
+    "888844433",
+    "888844434",
+    "888844435",
+    "888844436",
+    "888844437",
+    "888844438"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:489505:por",
+     "title": "Lei n.º 98/2009",
+     "published": "2009-09-04",
+     "dre_path": "/dr/detalhe/lei/98-2009-489505"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "888844782",
+    "888844783",
+    "888844784",
+    "888844785",
+    "888844786",
+    "888844787",
+    "888844788",
+    "888844789",
+    "888844790",
+    "888844791",
+    "888844792",
+    "888844793",
+    "888844794",
+    "888844795",
+    "888844796",
+    "888844797",
+    "888844798",
+    "888844799",
+    "888844800",
+    "888844801",
+    "888844802",
+    "888844803",
+    "888844804",
+    "888844805",
+    "888844806",
+    "888844807",
+    "888844808",
+    "888844809",
+    "888844810",
+    "888844811",
+    "888844812",
+    "888844813",
+    "888844814",
+    "888844815",
+    "888844816",
+    "888844817",
+    "888844818",
+    "888844819",
+    "888844820",
+    "888844821",
+    "888844822",
+    "888844823",
+    "888844824",
+    "888844825",
+    "888844826",
+    "888844827",
+    "888844828",
+    "888844829"
+   ]
+  }
+ ],
+ "fragments": {
+  "888844782": {
+   "fragment_id": "888844350",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2010-01-01",
+   "changed_by": [],
+   "markdown": "Lei n.º 100/97\n\nde 13 de Setembro\n\nAprova o novo regime jurídico dos acidentes de trabalho e das doenças profissionais\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:\n\n> Nota: [Artigo 21.º, Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906) Com a entrada em vigor do Código do Trabalho é revogado o presente diploma, no respeitante às matérias reguladas no Código"
+  },
+  "888844393": {
+   "fragment_id": "888844351",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "888844394": {
+   "fragment_id": "888844352",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto da lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto da lei\n\n1 - Os trabalhadores e seus familiares têm direito à reparação dos danos emergentes dos acidentes de trabalho e doenças profissionais nos termos previstos na presente lei e demais legislação regulamentar.\n\n2 - Às doenças profissionais aplicam-se, com as devidas adaptações, as normas relativas aos acidentes de trabalho, sem prejuízo das que só a elas especificamente respeitem."
+  },
+  "888844395": {
+   "fragment_id": "888844353",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito da lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito da lei\n\n1 - Têm direito à reparação os trabalhadores por conta de outrem de qualquer actividade, seja ou não explorada com fins lucrativos.\n\n2 - Consideram-se trabalhadores por conta de outrem para efeitos do presente diploma os que estejam vinculados por contrato de trabalho ou contrato legalmente equiparado e os praticantes, aprendizes, estagiários e demais situações que devam considerar-se de formação prática, e, ainda, os que, considerando-se na dependência económica da pessoa servida, prestem, em conjunto ou isoladamente, determinado serviço.\n\n3 - É aplicável aos administradores, directores, gerentes ou equiparados, quando remunerados, o regime previsto na presente lei para os trabalhadores por conta de outrem."
+  },
+  "888844396": {
+   "fragment_id": "888844354",
+   "type": 11,
+   "heading": "Artigo 3.º — Trabalhadores independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Trabalhadores independentes\n\n1 - Os trabalhadores independentes devem efectuar um seguro que garanta as prestações previstas na presente lei, nos termos que vierem a ser definidos em diploma próprio.\n\n2 - Consideram-se trabalhadores independentes os trabalhadores que exerçam uma actividade por conta própria."
+  },
+  "888844397": {
+   "fragment_id": "888844355",
+   "type": 11,
+   "heading": "Artigo 4.º — Trabalhadores estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Trabalhadores estrangeiros\n\n1 - Os trabalhadores estrangeiros que exerçam actividade em Portugal são, para os efeitos desta lei, equiparados aos trabalhadores portugueses.\n\n2 - Os familiares dos trabalhadores estrangeiros referidos no número anterior beneficiam igualmente da protecção estabelecida nesta lei relativamente aos familiares do sinistrado.\n\n3 - Os trabalhadores estrangeiros sinistrados em acidentes em Portugal ao serviço de empresa estrangeira, sua agência, sucursal, representante ou filial, podem ficar excluídos do âmbito desta lei desde que exerçam uma actividade temporária ou intermitente e, por acordo entre Estados, se tenha convencionado a aplicação da legislação relativa à protecção dos sinistrados em acidentes de trabalho em vigor no Estado de origem."
+  },
+  "888844398": {
+   "fragment_id": "888844356",
+   "type": 11,
+   "heading": "Artigo 5.º — Trabalhadores no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Trabalhadores no estrangeiro\n\nOs trabalhadores portugueses e os trabalhadores estrangeiros residentes em Portugal sinistrados em acidentes de trabalho no estrangeiro ao serviço de empresa portuguesa terão direito às prestações previstas nesta lei, salvo se a legislação do Estado onde ocorreu o acidente lhes reconhecer direito à reparação, caso em que o trabalhador poderá optar por qualquer dos regimes."
+  },
+  "888844399": {
+   "fragment_id": "888844357",
+   "type": 1,
+   "heading": "Capítulo II — Acidentes de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acidentes de trabalho"
+  },
+  "888844400": {
+   "fragment_id": "888844358",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceito de acidente de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conceito de acidente de trabalho\n\n1 - É acidente de trabalho aquele que se verifique no local e no tempo de trabalho e produza directa ou indirectamente lesão corporal, perturbação funcional ou doença de que resulte redução na capacidade de trabalho ou de ganho ou a morte.\n\n2 - Considera-se também acidente de trabalho o ocorrido:\n\na) No trajecto de ida e de regresso para e do local de trabalho, nos termos em que vier a ser definido em regulamentação posterior;\n\nb) Na execução de serviços espontaneamente prestados e de que possa resultar proveito económico para a entidade empregadora;\n\nc) No local de trabalho, quando no exercício do direito de reunião ou de actividade de representante dos trabalhadores, nos termos da lei;\n\nd) No local de trabalho, quando em frequência de curso de formação profissional ou, fora do local de trabalho, quando exista autorização expressa da entidade empregadora para tal frequência;\n\ne) Em actividade de procura de emprego durante o crédito de horas para tal concedido por lei aos trabalhadores com processo de cessação de contrato de trabalho em curso;\n\nf) Fora do local ou do tempo de trabalho, quando verificado na execução de serviços determinados pela entidade empregadora ou por esta consentidos.\n\n3 - Entende-se por local de trabalho todo o lugar em que o trabalhador se encontra ou deva dirigir-se em virtude do seu trabalho e em que esteja, directa ou indirectamente, sujeito ao controlo do empregador.\n\n4 - Entende-se por tempo de trabalho, além do período normal de laboração, o que preceder o seu início, em actos de preparação ou com ele relacionados, e o que se lhe seguir, em actos também com ele relacionados, e ainda as interrupções normais ou forçosas de trabalho.\n\n5 - Se a lesão corporal, perturbação ou doença for reconhecida a seguir a um acidente presume-se consequência deste.\n\n6 - Se a lesão corporal, perturbação ou doença não for reconhecida a seguir a um acidente, compete ao sinistrado ou aos beneficiários legais provar que foi consequência dele."
+  },
+  "888844401": {
+   "fragment_id": "888844359",
+   "type": 11,
+   "heading": "Artigo 7.º — Descaracterização do acidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descaracterização do acidente\n\n1 - Não dá direito a reparação o acidente:\n\na) Que for dolosamente provocado pelo sinistrado ou provier de seu acto ou omissão, que importe violação, sem causa justificativa, das condições de segurança estabelecidas pela entidade empregadora ou previstas na lei;\n\nb) Que provier exclusivamente de negligência grosseira do sinistrado;\n\nc) Que resultar da privação permanente ou acidental do uso da razão do sinistrado, nos termos da lei civil, salvo se tal privação derivar da própria prestação do trabalho, for independente da vontade do sinistrado ou se a entidade empregadora ou o seu representante, conhecendo o estado do sinistrado, consentir na prestação;\n\nd) Que provier de caso de força maior.\n\n2 - Só se considera caso de força maior o que, sendo devido a forças inevitáveis da natureza, independentes de intervenção humana, não constitua risco criado pelas condições de trabalho nem se produza ao executar serviço expressamente ordenado pela entidade empregadora em condições de perigo evidente.\n\n3 - A verificação das circunstâncias previstas neste artigo não dispensa as entidades empregadoras da prestação dos primeiros socorros aos trabalhadores e do seu transporte ao local onde possam ser clinicamente socorridos."
+  },
+  "888844402": {
+   "fragment_id": "888844360",
+   "type": 11,
+   "heading": "Artigo 8.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exclusões\n\n1 - São excluídos do âmbito da presente lei:\n\na) Os acidentes ocorridos na prestação de serviços eventuais ou ocasionais, de curta duração, a pessoas singulares em actividades que não tenham por objecto exploração lucrativa;\n\nb) Os acidentes ocorridos na execução de trabalhos de curta duração se a entidade a quem for prestado o serviço trabalhar habitualmente só ou com membros da sua família e chamar para o auxiliar, acidentalmente, um ou mais trabalhadores.\n\n2 - As exclusões previstas no número anterior não abrangem os acidentes que resultem da utilização de máquinas e de outros equipamentos de especial perigosidade."
+  },
+  "888844403": {
+   "fragment_id": "888844361",
+   "type": 11,
+   "heading": "Artigo 9.º — Predisposição patológica e incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Predisposição patológica e incapacidade\n\n1 - A predisposição patológica do sinistrado num acidente não exclui o direito à reparação integral, salvo quando tiver sido ocultada.\n\n2 - Quando a lesão ou doença consecutiva ao acidente for agravada por lesão ou doença anterior, ou quando esta for agravada pelo acidente, a incapacidade avaliar-se-á como se tudo dele resultasse, a não ser que pela lesão ou doença anterior o sinistrado já esteja a receber pensão ou tenha recebido um capital nos termos da alínea d) do n.º 1 do artigo 17.º\n\n3 - No caso de o sinistrado estar afectado de incapacidade permanente anterior ao acidente, a reparação será apenas a correspondente à diferença entre a incapacidade anterior e a que for calculada como se tudo fosse imputado ao acidente.\n\n4 - Sem prejuízo do disposto no número anterior, quando do acidente resulte a inutilização ou danificação dos aparelhos de prótese ou ortopedia de que o sinistrado já era portador, o mesmo terá direito à sua reparação ou substituição.\n\n5 - Confere também direito à reparação a lesão ou doença que se manifeste durante o tratamento de lesão ou doença resultante de um acidente de trabalho e que seja consequência de tal tratamento."
+  },
+  "888844404": {
+   "fragment_id": "888844362",
+   "type": 11,
+   "heading": "Artigo 10.º — Reparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reparação\n\nO direito à reparação compreende, nos termos que vierem a ser regulamentados, as seguintes prestações:\n\na) Em espécie: prestações de natureza médica, cirúrgica, farmacêutica, hospitalar e quaisquer outras, seja qual for a sua forma, desde que necessárias e adequadas ao restabelecimento do estado de saúde e da capacidade de trabalho ou de ganho do sinistrado e à sua recuperação para a vida activa;\n\nb) Em dinheiro: indemnização por incapacidade temporária absoluta ou parcial para o trabalho; indemnização em capital ou pensão vitalícia correspondente à redução na capacidade de trabalho ou de ganho, em caso de incapacidade permanente; pensões aos familiares do sinistrado; subsídio por situações de elevada incapacidade permanente; subsídio para readaptação de habitação, e subsídio por morte e despesas de funeral."
+  },
+  "888844405": {
+   "fragment_id": "888844363",
+   "type": 11,
+   "heading": "Artigo 11.º — Lugar do pagamento das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Lugar do pagamento das prestações\n\n1 - O pagamento das prestações previstas na alínea b) do artigo anterior será efectuado no lugar da residência do sinistrado ou dos seus familiares, se outro não for acordado.\n\n2 - Se o credor das prestações se ausentar para o estrangeiro, o pagamento será efectuado em local do território nacional por ele indicado, se outro lugar não tiver sido acordado e sem prejuízo do disposto em convenções internacionais ou acordos de reciprocidade."
+  },
+  "888844406": {
+   "fragment_id": "888844364",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de segurança, higiene e saúde no trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviços de segurança, higiene e saúde no trabalho\n\nAs entidades empregadoras devem garantir a organização e o funcionamento dos serviços de segurança, higiene e saúde no trabalho, nos termos definidos em legislação própria."
+  },
+  "888844407": {
+   "fragment_id": "888844365",
+   "type": 11,
+   "heading": "Artigo 13.º — Hospitalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Hospitalização\n\n1 - O internamento e os tratamentos previstos na alínea a) do artigo 10.º devem ser feitos em estabelecimentos adequados ao restabelecimento e reabilitação do sinistrado.\n\n2 - O recurso, quando necessário, a estabelecimentos hospitalares fora do território nacional será feito após parecer de junta médica comprovando a impossibilidade de tratamento em hospital no território nacional."
+  },
+  "888844408": {
+   "fragment_id": "888844366",
+   "type": 11,
+   "heading": "Artigo 14.º — Observância de prescrições clínicas e cirúrgicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Observância de prescrições clínicas e cirúrgicas\n\n1 - Os sinistrados em acidentes devem submeter-se ao tratamento e observar as prescrições clínicas e cirúrgicas do médico designado pela entidade responsável e necessárias à cura da lesão ou doença e à recuperação da capacidade de trabalho, sem prejuízo do direito a solicitar o exame pericial do tribunal.\n\n2 - Não conferem direito às prestações estabelecidas nesta lei as incapacidades judicialmente reconhecidas como consequência de injustificada recusa ou falta de observância das prescrições clínicas ou cirúrgicas ou como tendo sido voluntariamente provocadas, na medida em que resultem de tal comportamento.\n\n3 - Considera-se sempre justificada a recusa de intervenção cirúrgica quando, pela sua natureza ou pelo estado do sinistrado, ponha em risco a vida deste."
+  },
+  "888844409": {
+   "fragment_id": "888844367",
+   "type": 11,
+   "heading": "Artigo 15.º — Transportes e estada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transportes e estada\n\n1 - O fornecimento ou o pagamento dos transportes e estada abrange as deslocações e permanência necessárias à observação e tratamento, e as exigidas pela comparência a actos judiciais, salvo, quanto a estas, se for consequência de pedidos dos sinistrados que vierem a ser julgados totalmente improcedentes.\n\n2 - Quando o sinistrado for menor de 16 anos ou quando a natureza da lesão ou da doença ou outras circunstâncias especiais o exigirem, o direito a transporte e estada será extensivo à pessoa que o acompanhar.\n\n3 - O transporte e estada devem obedecer às condições de comodidade impostas pela natureza da lesão ou doença."
+  },
+  "888844410": {
+   "fragment_id": "888844368",
+   "type": 11,
+   "heading": "Artigo 16.º — Recidiva ou agravamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Recidiva ou agravamento\n\n1 - Nos casos de recidiva ou agravamento, o direito às prestações previstas na alínea a) do artigo 10.º mantém-se após a alta, seja qual for a situação nesta definida, e abrange as doenças relacionadas com as consequências do acidente.\n\n2 - O direito à indemnização por incapacidade temporária absoluta ou parcial para o trabalho, prevista na alínea b) do artigo 10.º, em caso de recidiva ou agravamento, mantém-se:\n\na) Após a atribuição ao sinistrado de nova baixa;\n\nb) Entre a data da alta e a da nova baixa seguinte, se esta última vier a ser dada no prazo de oito dias.\n\n3 - Para efeitos do disposto no número anterior, será considerado o valor da retribuição à data do acidente actualizado pelo aumento percentual da remuneração mínima mensal garantida mais elevada."
+  },
+  "888844411": {
+   "fragment_id": "888844369",
+   "type": 11,
+   "heading": "Artigo 17.º — Prestações por incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prestações por incapacidade\n\n1 - Se do acidente resultar redução na capacidade de trabalho ou ganho do sinistrado, este terá direito às seguintes prestações:\n\na) Na incapacidade permanente absoluta para todo e qualquer trabalho: pensão anual e vitalícia igual a 80% da retribuição, acrescida de 10% por cada familiar a cargo, conceito a definir em regulamentação ulterior, até ao limite da retribuição e subsídio por situações de elevada incapacidade permanente;\n\nb) Na incapacidade permanente absoluta para o trabalho habitual: pensão anual e vitalícia compreendida entre 50% e 70% da retribuição, conforme a maior ou menor capacidade funcional residual para o exercício de outra profissão compatível e subsídio por situações de elevada incapacidade permanente;\n\nc) Na incapacidade permanente parcial igual ou superior a 30%: pensão anual e vitalícia correspondente a 70% da redução sofrida na capacidade geral de ganho e subsídio por situações de elevada incapacidade permanente, em caso de incapacidade permanente parcial igual ou superior a 70%;\n\nd) Na incapacidade permanente parcial inferior a 30%: capital de remição de uma pensão anual e vitalícia correspondente a 70% da redução sofrida na capacidade geral de ganho, calculado nos termos que vierem a ser regulamentados;\n\ne) Na incapacidade temporária absoluta: indemnização diária igual a 70% da retribuição;\n\nf) Na incapacidade temporária parcial: indemnização diária igual a 70% da redução sofrida na capacidade geral de ganho.\n\n2 - As indemnizações são devidas enquanto o sinistrado estiver em regime de tratamento ambulatório ou de reabilitação profissional; mas serão reduzidas a 45% durante o período de internamento hospitalar ou durante o tempo em que correrem por conta da entidade empregadora ou seguradora as despesas com assistência clínica e alimentos do mesmo sinistrado, se este for solteiro, não viver em união de facto ou não tiver filhos ou outras pessoas a seu cargo.\n\n3 - A retribuição correspondente ao dia do acidente será paga pela entidade empregadora.\n\n4 - As indemnizações por incapacidade temporária começam a vencer-se no dia seguinte ao do acidente e as pensões por incapacidade permanente no dia seguinte ao da alta.\n\n5 - Será estabelecida uma pensão provisória por incapacidade permanente entre o dia seguinte ao da alta e o momento de fixação da pensão definitiva, nos termos a regulamentar."
+  },
+  "888844412": {
+   "fragment_id": "888844370",
+   "type": 11,
+   "heading": "Artigo 18.º — Casos especiais de reparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Casos especiais de reparação\n\n1 - Quando o acidente tiver sido provocado pela entidade empregadora ou seu representante, ou resultar de falta de observação das regras sobre segurança, higiene e saúde no trabalho, as prestações fixar-se-ão segundo as regras seguintes:\n\na) Nos casos de incapacidade absoluta, permanente ou temporária, e de morte serão iguais à retribuição;\n\nb) Nos casos de incapacidade parcial, permanente ou temporária, terão por base a redução de capacidade resultante do acidente.\n\n2 - O disposto no número anterior não prejudica a responsabilidade por danos morais nos termos da lei geral nem a responsabilidade criminal em que a entidade empregadora, ou o seu representante, tenha incorrido.\n\n3 - Se, nas condições previstas neste artigo, o acidente tiver sido provocado pelo representante da entidade empregadora, esta terá direito de regresso contra ele."
+  },
+  "888844413": {
+   "fragment_id": "888844371",
+   "type": 11,
+   "heading": "Artigo 19.º — Prestação suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Prestação suplementar\n\n1 - Se, em consequência da lesão resultante do acidente, o sinistrado não puder dispensar a assistência constante de terceira pessoa, terá direito a uma prestação suplementar da pensão atribuída não superior ao montante da remuneração mínima mensal garantida para os trabalhadores do serviço doméstico.\n\n2 - A prestação suplementar da pensão suspende-se sempre que se verifique o internamento do sinistrado em hospital, ou estabelecimento similar, por período de tempo superior a 30 dias e durante o tempo em que os custos corram por conta da entidade empregadora ou seguradora.\n\n3 - É aplicável à prestação suplementar, com as devidas adaptações, o disposto no artigo 17.º, n.º 5, nos termos a regulamentar."
+  },
+  "888844414": {
+   "fragment_id": "888844372",
+   "type": 11,
+   "heading": "Artigo 20.º — Pensões por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pensões por morte\n\n1 - Se do acidente resultar a morte, as pensões anuais serão as seguintes:\n\na) Ao cônjuge ou a pessoa em união de facto: 30% da retribuição do sinistrado até perfazer a idade de reforma por velhice e 40% a partir daquela idade ou no caso de doença física ou mental que afecte sensivelmente a sua capacidade de trabalho;\n\nb) Ao ex-cônjuge ou cônjuge judicialmente separado à data do acidente e com direito a alimentos: a pensão estabelecida na alínea anterior e nos mesmos termos, até ao limite do montante dos alimentos fixados judicialmente;\n\nc) Aos filhos, incluindo os nascituros e adoptados plena ou restritamente à data do acidente, até perfazerem 18, 22 ou 25 anos, enquanto frequentarem, respectivamente, o ensino secundário ou curso equiparado ou o ensino superior, ou sem limite de idade quando afectados de doença física ou mental que os incapacite sensivelmente para o trabalho: 20% da retribuição do sinistrado se for apenas um, 40% se forem dois, 50% se forem três ou mais, recebendo o dobro destes montantes, até ao limite de 80% da retribuição do sinistrado, se forem órfãos de pai e mãe;\n\nd) Aos ascendentes e quaisquer parentes sucessíveis à data do acidente até perfazerem 18, 22 ou 25 anos, enquanto frequentarem, respectivamente, o ensino secundário ou curso equiparado ou o ensino superior, ou sem limite de idade quando afectados de doença física ou mental que os incapacite sensivelmente para o trabalho, desde que o sinistrado contribuísse com regularidade para o seu sustento: a cada, 10% da retribuição do sinistrado, não podendo o total das pensões exceder 30% desta.\n\n2 - Se não houver cônjuge, pessoa em união de facto ou filhos com direito a pensão, os parentes incluídos na alínea d) do número anterior e nas condições nele referidas receberão, cada um, 15% da retribuição do sinistrado, até perfazerem a idade de reforma por velhice, e 20% a partir desta idade ou no caso de doença física ou mental que os incapacite sensivelmente para o trabalho, não podendo o total das pensões exceder 80% da remuneração do sinistrado, para o que se procederá a rateio, se necessário.\n\n3 - Qualquer das pessoas referidas nas alíneas a) e b) do n.º 1 que contraia casamento ou união de facto receberá, por uma só vez, o triplo do valor da pensão anual, excepto se já tiver ocorrido a remição total da pensão.\n\n4 - Se por morte do sinistrado houver concorrência entre os beneficiários referidos nas alíneas a) e b) do n.º 1, é a pensão repartida na proporção dos respectivos direitos.\n\n5 - São equiparados aos filhos para efeito do disposto na alínea c) do n.º 1 os enteados do sinistrado, desde que este estivesse obrigado à prestação de alimentos, nos termos da alínea f) do n.º 1 do artigo 2009.º do Código Civil.\n\n6 - Se não houver beneficiários com direito a pensão reverte para o fundo a que se refere o artigo 39.º uma importância igual ao triplo da retribuição anual, salvo se tiver havido remição."
+  },
+  "888844415": {
+   "fragment_id": "888844373",
+   "type": 11,
+   "heading": "Artigo 21.º — Acumulação e rateio das pensões por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acumulação e rateio das pensões por morte\n\n1 - As pensões referidas no artigo anterior são acumuláveis, mas o seu total não poderá exceder 80% da retribuição do sinistrado.\n\n2 - Se as pensões referidas na alínea d) do n.º 1 do artigo anterior adicionadas às previstas nas alíneas a), b) e c) excederem 80% da retribuição do sinistrado, serão as prestações sujeitas a rateio, enquanto esse montante se mostrar excedido.\n\n3 - Se o cônjuge sobrevivo falecer durante o período em que a pensão é devida aos filhos, será esta aumentada, nos termos da parte final da alínea c) do n.º 1 do artigo anterior.\n\n4 - As pensões dos filhos do sinistrado serão, em cada mês, as correspondentes ao número dos que, com direito a pensão, estiverem vivos nesse mês."
+  },
+  "888844416": {
+   "fragment_id": "888844374",
+   "type": 11,
+   "heading": "Artigo 22.º — Subsídio por morte e despesas de funeral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Subsídio por morte e despesas de funeral\n\n1 - O subsídio por morte será igual a 12 vezes a remuneração mínima mensal garantida mais elevada, sendo atribuído:\n\na) Metade ao cônjuge ou à pessoa em união de facto e metade aos filhos que tiverem direito a pensão nos termos da alínea c) do n.º 1 do artigo 20.º;\n\nb) Por inteiro ao cônjuge ou pessoa em união de facto, ou aos filhos previstos na alínea anterior, não sobrevivendo, em simultâneo, cônjuge ou pessoa em união de facto ou filhos.\n\n2 - Se o sinistrado não deixar beneficiários referidos no número anterior, não será devido subsídio por morte.\n\n3 - A reparação por despesas de funeral é igual a quatro vezes a remuneração mínima mensal garantida mais elevada, aumentada para o dobro, se houver trasladação."
+  },
+  "888844417": {
+   "fragment_id": "888844475",
+   "type": 11,
+   "heading": "Artigo 23.º — Subsídio por situações de elevada incapacidade permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Subsídio por situações de elevada incapacidade permanente\n\nA incapacidade permanente absoluta ou a incapacidade permanente parcial igual ou superior a 70% confere direito a um subsídio igual a 12 vezes a remuneração mínima mensal garantida à data do acidente, ponderado pelo grau de incapacidade fixado, sendo pago de uma só vez aos sinistrados nessas situações."
+  },
+  "888844418": {
+   "fragment_id": "888844476",
+   "type": 11,
+   "heading": "Artigo 24.º — Subsídio para readaptação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Subsídio para readaptação\n\nA incapacidade permanente absoluta confere direito ao pagamento das despesas suportadas com a readaptação de habitação, até ao limite de 12 vezes a remuneração mínima mensal garantida mais elevada à data do acidente."
+  },
+  "888844419": {
+   "fragment_id": "888844477",
+   "type": 11,
+   "heading": "Artigo 25.º — Revisão das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revisão das prestações\n\n1 - Quando se verifique modificação da capacidade de ganho do sinistrado proveniente de agravamento, recidiva, recaída ou melhoria da lesão ou doença que deu origem à reparação, ou de intervenção clínica ou aplicação de prótese ou ortótese, ou ainda de formação ou reconversão profissional, as prestações poderão ser revistas e aumentadas, reduzidas ou extintas, de harmonia com a alteração verificada.\n\n2 - A revisão só poderá ser requerida dentro dos 10 anos posteriores à data da fixação da pensão, uma vez em cada semestre, nos dois primeiros anos, e uma vez por ano, nos anos imediatos.\n\n3 - Nos casos de doenças profissionais de carácter evolutivo não é aplicável o disposto no número anterior, podendo requerer-se a revisão em qualquer tempo; mas, nos dois primeiros anos, só poderá ser requerida uma vez no fim de cada ano."
+  },
+  "888844420": {
+   "fragment_id": "888844478",
+   "type": 11,
+   "heading": "Artigo 26.º — Retribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Retribuição\n\n1 - As indemnizações por incapacidade temporária absoluta ou parcial serão calculadas com base na retribuição diária, ou na 30.ª parte da retribuição mensal ilíquida, auferida à data do acidente, quando esta represente retribuição normalmente recebida pelo sinistrado.\n\n2 - As pensões por morte e por incapacidade permanente, absoluta ou parcial, serão calculadas com base na retribuição anual ilíquida normalmente recebida pelo sinistrado.\n\n3 - Entende-se por retribuição mensal tudo o que a lei considera como seu elemento integrante e todas as prestações recebidas mensalmente que revistam carácter de regularidade e não se destinem a compensar o sinistrado por custos aleatórios.\n\n4 - Entende-se por retribuição anual o produto de 12 vezes a retribuição mensal acrescida dos subsídios de Natal e de férias e outras remunerações anuais a que o sinistrado tenha direito com carácter de regularidade.\n\n5 - Se a retribuição correspondente ao dia do acidente não representar a retribuição normal, será esta calculada pela média tomada com base nos dias de trabalho e correspondente a retribuições auferidas pelo sinistrado no período de um ano anterior ao acidente. Na falta destes elementos, o cálculo far-se-á segundo o prudente arbítrio do juiz, tendo em atenção a natureza dos serviços prestados, a categoria profissional do sinistrado e os usos.\n\n6 - Na reparação emergente das doenças profissionais, as indemnizações e pensões serão calculadas com base na retribuição auferida pelo doente no ano anterior à cessação da exposição ao risco, ou à data do diagnóstico final da doença, se este a preceder.\n\n7 - Se o sinistrado for praticante, aprendiz ou estagiário, a pensão a que este tem direito terá por base a retribuição anual média ilíquida de um trabalhador da mesma empresa ou empresa similar e categoria profissional correspondente à formação, aprendizagem ou estágio.\n\n8 - Em nenhum caso a retribuição pode ser inferior à que resulte da lei ou de instrumento de regulamentação colectiva de trabalho.\n\n9 - O disposto no n.º 5 deste artigo é aplicável ao trabalho não regular e aos trabalhadores a tempo parcial vinculados a mais de uma entidade empregadora.\n\n10 - A ausência ao trabalho para efectuar quaisquer exames com o fim de caracterizar o acidente ou a doença, ou para o seu tratamento, ou ainda para a aquisição, substituição ou arranjo de próteses, não determina perda de retribuição."
+  },
+  "888844421": {
+   "fragment_id": "888844479",
+   "type": 1,
+   "heading": "Capítulo III — Doenças profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Doenças profissionais"
+  },
+  "888844422": {
+   "fragment_id": "888844480",
+   "type": 11,
+   "heading": "Artigo 27.º — Lista das doenças profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Lista das doenças profissionais\n\n1 - As doenças profissionais constam da lista organizada e publicada no Diário da República, sob parecer da Comissão Nacional de Revisão da Lista de Doenças Profissionais.\n\n2 - A lesão corporal, perturbação funcional ou doença não incluída na lista a que se refere o n.º 1 deste artigo é indemnizável desde que se prove ser consequência, necessária e directa, da actividade exercida e não represente normal desgaste do organismo."
+  },
+  "888844423": {
+   "fragment_id": "888844481",
+   "type": 11,
+   "heading": "Artigo 28.º — Reparação das doenças profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reparação das doenças profissionais\n\nHá direito à reparação emergente de doenças profissionais previstas no n.º 1 do artigo anterior quando, cumulativamente, se verifiquem as seguintes condições:\n\na) Estar o trabalhador afectado da correspondente doença profissional;\n\nb) Ter estado o trabalhador exposto ao respectivo risco pela natureza da indústria, actividade ou condições, ambiente e técnicas do trabalho habitual."
+  },
+  "888844424": {
+   "fragment_id": "888844482",
+   "type": 11,
+   "heading": "Artigo 29.º — Avaliação, graduação e reparação das doenças profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Avaliação, graduação e reparação das doenças profissionais\n\nA avaliação, graduação e reparação das doenças profissionais diagnosticadas a partir da entrada em vigor do presente diploma é da exclusiva responsabilidade do Centro Nacional de Protecção contra os Riscos Profissionais."
+  },
+  "888844425": {
+   "fragment_id": "888844483",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares"
+  },
+  "888844426": {
+   "fragment_id": "888844484",
+   "type": 11,
+   "heading": "Artigo 30.º — Ocupação e despedimento durante a incapacidade temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Ocupação e despedimento durante a incapacidade temporária\n\n1 - Durante o período de incapacidade temporária parcial, as entidades empregadoras serão obrigadas a ocupar, nos termos e na medida em que vierem a ser regulamentarmente estabelecidos, os trabalhadores sinistrados em acidentes ao seu serviço em funções compatíveis com o estado desses trabalhadores. A retribuição terá por base a do dia do acidente, excepto se entretanto a retribuição da categoria correspondente tiver sido objecto de alteração, caso em que será esta a considerada, e nunca será inferior à devida pela capacidade restante.\n\n2 - O despedimento sem justa causa de trabalhador temporariamente incapacitado em resultado de acidente de trabalho confere àquele, sem prejuízo de outros direitos consagrados na lei aplicável, caso opte pela não reintegração, o direito a uma indemnização igual ao dobro da que lhe competiria por despedimento sem justa causa."
+  },
+  "888844427": {
+   "fragment_id": "888844485",
+   "type": 11,
+   "heading": "Artigo 31.º — Acidente originado por outro trabalhador ou terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Acidente originado por outro trabalhador ou terceiros\n\n1 - Quando o acidente for causado por outros trabalhadores ou terceiros, o direito à reparação não prejudica o direito de acção contra aqueles, nos termos da lei geral.\n\n2 - Se o sinistrado em acidente receber de outros trabalhadores ou de terceiros indemnização superior à devida pela entidade empregadora ou seguradora, esta considera-se desonerada da respectiva obrigação e tem direito a ser reembolsada pelo sinistrado das quantias que tiver pago ou despendido.\n\n3 - Se a indemnização arbitrada ao sinistrado ou aos seus representantes for de montante inferior ao dos benefícios conferidos em consequência do acidente ou da doença, a desoneração da responsabilidade será limitada àquele montante.\n\n4 - A entidade empregadora ou a seguradora que houver pago a indemnização pelo acidente tem o direito de regresso contra os responsáveis referidos no n.º 1, se o sinistrado não lhes houver exigido judicialmente a indemnização no prazo de um ano a contar da data do acidente.\n\n5 - A entidade empregadora e a seguradora também são titulares do direito de intervir como parte principal no processo em que o sinistrado exigir aos responsáveis a indemnização pelo acidente a que se refere este artigo."
+  },
+  "888844428": {
+   "fragment_id": "888844486",
+   "type": 11,
+   "heading": "Artigo 32.º — Caducidade e prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Caducidade e prescrição\n\n1 - O direito de acção respeitante às prestações fixadas nesta lei caduca no prazo de um ano a contar da data da alta clínica formalmente comunicada ao sinistrado ou, se do evento resultar a morte, a contar desta.\n\n2 - As prestações estabelecidas por decisão judicial, ou pelo Centro Nacional de Protecção contra os Riscos Profissionais, prescrevem no prazo de cinco anos a partir da data do seu vencimento.\n\n3 - O prazo de prescrição não começa a correr enquanto os beneficiários não tiverem conhecimento pessoal da fixação das prestações."
+  },
+  "888844429": {
+   "fragment_id": "888844487",
+   "type": 11,
+   "heading": "Artigo 33.º — Remição de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Remição de pensões\n\n1 - Sem prejuízo do disposto na alínea d) do n.º 1 do artigo 17.º, são obrigatoriamente remidas as pensões vitalícias de reduzido montante, nos termos que vierem a ser regulamentados.\n\n2 - Podem ser parcialmente remidas as pensões vitalícias correspondentes a incapacidade igual ou superior a 30%, nos termos a regulamentar, desde que a pensão sobrante seja igual ou superior a 50% do valor da remuneração mínima mensal garantida mais elevada."
+  },
+  "888844430": {
+   "fragment_id": "888844488",
+   "type": 11,
+   "heading": "Artigo 34.º — Nulidade dos actos contrários à lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Nulidade dos actos contrários à lei\n\n1 - É nula a convenção contrária aos direitos ou às garantias conferidos nesta lei ou com eles incompatível.\n\n2 - São igualmente nulos os actos e contratos que visem a renúncia aos direitos conferidos nesta lei."
+  },
+  "888844431": {
+   "fragment_id": "888844489",
+   "type": 11,
+   "heading": "Artigo 35.º — Inalienabilidade, impenhorabilidade, irrenunciabilidade dos créditos e privilégios creditórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Inalienabilidade, impenhorabilidade, irrenunciabilidade dos créditos e privilégios creditórios\n\nOs créditos provenientes do direito às prestações estabelecidas por esta lei são inalienáveis, impenhoráveis e irrenunciáveis e gozam dos privilégios creditórios consignados na lei geral como garantia das retribuições do trabalho, com preferência a estas na classificação legal."
+  },
+  "888844432": {
+   "fragment_id": "888844490",
+   "type": 11,
+   "heading": "Artigo 36.º — Proibição de descontos na retribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Proibição de descontos na retribuição\n\nAs entidades empregadoras não podem descontar qualquer quantia na retribuição dos trabalhadores ao seu serviço a título de compensação pelos encargos resultantes desta lei, sendo nulos os acordos realizados com esse objectivo."
+  },
+  "888844433": {
+   "fragment_id": "888844491",
+   "type": 11,
+   "heading": "Artigo 37.º — Sistema e unidade de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Sistema e unidade de seguro\n\n1 - As entidades empregadoras são obrigadas a transferir a responsabilidade pela reparação prevista na presente lei para entidades legalmente autorizadas a realizar este seguro.\n\n2 - Verificando-se alguma das situações referidas no artigo 18.º, n.º 1, a responsabilidade nela prevista recai sobre a entidade empregadora, sendo a instituição seguradora apenas subsidiariamente responsável pelas prestações normais previstas na presente lei.\n\n3 - Quando a retribuição declarada para efeito do prémio de seguro for inferior à real, a entidade seguradora só é responsável em relação àquela retribuição. A entidade empregadora responderá, neste caso, pela diferença e pelas despesas efectuadas com a hospitalização, assistência clínica e transporte, na respectiva proporção.\n\n4 - Na regulamentação da presente lei são estabelecidas providências destinadas a evitar fraudes, omissões ou insuficiências nas declarações quanto ao pessoal e à retribuição, que terá de ser declarada na sua totalidade, para cumprimento do disposto no n.º 1 deste artigo."
+  },
+  "888844434": {
+   "fragment_id": "888844492",
+   "type": 11,
+   "heading": "Artigo 38.º — Apólice uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Apólice uniforme\n\n1 - A apólice uniforme do seguro de acidentes de trabalho adequada às diferentes profissões e actividades, de harmonia com os princípios estabelecidos nesta lei e respectiva legislação regulamentar, é aprovada pelo Instituto de Seguros de Portugal, ouvidas as associações representativas das empresas de seguros.\n\n2 - A apólice uniforme obedecerá ao princípio da graduação dos prémios de seguro em função do grau de risco do acidente, tidas em conta a natureza da actividade e as condições de prevenção implantadas nos locais de trabalho.\n\n3 - É prevista na apólice uniforme a revisão do valor do prémio, por iniciativa da seguradora ou a pedido da entidade empregadora, com base na modificação efectiva das condições de prevenção de acidentes nos locais de trabalho.\n\n4 - São nulas as cláusulas adicionais que contrariem os direitos ou garantias estabelecidos na apólice uniforme prevista neste artigo."
+  },
+  "888844435": {
+   "fragment_id": "888844493",
+   "type": 11,
+   "heading": "Artigo 39.º — Garantia e actualização de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Garantia e actualização de pensões\n\n1 - A garantia do pagamento das pensões por incapacidade permanente ou morte e das indemnizações por incapacidade temporária estabelecidas nos termos da presente lei que não possam ser pagas pela entidade responsável por motivo de incapacidade económica objectivamente caracterizada em processo judicial de falência ou processo equivalente, ou processo de recuperação de empresa ou por motivo de ausência, desaparecimento ou impossibilidade de identificação, serão assumidas e suportadas por fundo dotado de autonomia administrativa e financeira, a criar por lei, no âmbito dos acidentes de trabalho, nos termos a regulamentar.\n\n2 - Serão igualmente da responsabilidade do fundo criado no âmbito do disposto no número anterior as actualizações de pensões devidas por incapacidade permanente igual ou superior a 30% ou por morte.\n\n3 - Quando se verifique a situação prevista no n.º 1, serão ainda atribuídas ao fundo outras responsabilidades, designadamente no que respeita a encargos com próteses e ao disposto no artigo 16.º, n.º 3, nos termos em que vierem a ser regulamentados.\n\n4 - O fundo referido nos números anteriores constituir-se-á credor da entidade economicamente incapaz, ou da respectiva massa falida, cabendo aos seus créditos, caso a entidade incapaz seja uma empresa de seguros, graduação idêntica à dos credores específicos de seguros.\n\n5 - Se no âmbito de um processo de recuperação de empresa esta se encontrar impossibilitada de pagar os prémios do seguro de acidentes de trabalho dos respectivos trabalhadores, o gestor da empresa deverá comunicar tal impossibilidade ao fundo referido nos números anteriores 60 dias antes do vencimento do contrato, por forma que o fundo, querendo, possa substituir-se à empresa nesse pagamento, sendo neste caso aplicável o disposto no n.º 4.\n\n6 - As responsabilidades referidas nos números anteriores, no que respeita às doenças profissionais, serão assumidas pelo Centro Nacional de Protecção contra os Riscos Profissionais.\n\n> Nota: [Artigo 97.º, Decreto-Lei n.º 248/99 - Diário da República n.º 152/1999, Série I-A de 1999-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1999-372671) No período máximo de seis meses após a criação do fundo autónomo, previsto no presente artigo, cessam as responsabilidades do Fundo de Garantia e Actualização de Pensões constantes da base XLV da Lei n.º 2127, de 3 de Agosto de 1965."
+  },
+  "888844436": {
+   "fragment_id": "888844494",
+   "type": 11,
+   "heading": "Artigo 40.º — Reabilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Reabilitação\n\n1 - Aos trabalhadores afectados de lesão ou doença que lhes reduza a capacidade de trabalho ou de ganho, em consequência de acidente de trabalho, será assegurada na empresa ao serviço da qual ocorreu o acidente a ocupação em funções compatíveis com o respectivo estado, nos termos que vierem a ser regulamentados.\n\n2 - Aos trabalhadores referidos no número anterior é assegurada, pela entidade empregadora, a formação profissional, a adaptação do posto de trabalho, o trabalho a tempo parcial e a licença para formação ou novo emprego, nos termos em que vierem a ser regulamentados.\n\n3 - O Governo criará serviços de adaptação ou readaptação profissionais e de colocação, garantindo a coordenação entre esses serviços e os já existentes, quer do Estado, quer das instituições, quer de entidades empregadoras e seguradoras, e utilizando estes tanto quanto possível."
+  },
+  "888844437": {
+   "fragment_id": "888844495",
+   "type": 11,
+   "heading": "Artigo 41.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Produção de efeitos\n\n1 - Esta lei produz efeitos à data da entrada em vigor do decreto-lei que a regulamentar e será aplicável:\n\na) Aos acidentes de trabalho que ocorrerem após aquela entrada em vigor;\n\nb) Às doenças profissionais cujo diagnóstico final se faça após a data referida na alínea anterior.\n\n2 - O diploma regulamentar referido no número anterior estabelecerá o regime transitório, a aplicar:\n\na) À remição de pensões em pagamento, à data da sua entrada em vigor, e que digam respeito a incapacidades permanentes inferiores a 30% ou a pensões vitalícias de reduzido montante e às remições previstas no artigo 33.º, n.º 2;\n\nb) Ao fundo existente no âmbito previsto no artigo 39.º\n\n3 - A presente lei será regulamentada no prazo máximo de 180 dias a contar da sua publicação.\n\n> Nota: [Artigo 98.º, Decreto-Lei n.º 248/99 - Diário da República n.º 152/1999, Série I-A de 1999-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1999-372671) Para efeito do disposto na alínea b) do n.º 1 do presente artigo, considera-se como doença profissional cujo diagnóstico final se faça após a data de entrada em vigor do Decreto-Lei n.º 248/99, de 2 de julho: a) A doença profissional futuramente diagnosticada; b) A alteração da graduação de incapacidade, relativamente a doenças profissionais já diagnosticadas."
+  },
+  "888844438": {
+   "fragment_id": "888844496",
+   "type": 11,
+   "heading": "Artigo 42.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Disposição revogatória\n\nÉ revogada, com a entrada em vigor do decreto-lei previsto no artigo anterior, a Lei n.º 2127, de 3 de Agosto de 1965, e toda a legislação complementar.\n\n> Nota: [Artigo 102.º, Decreto-Lei n.º 248/99 - Diário da República n.º 152/1999, Série I-A de 1999-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1999-372671) Exceptuam-se da revogação prevista no presente artigo, relativamente ao regime das doenças profissionais, as disposições legais que, inserindo-se no âmbito do estatuído no Decreto-Lei n.º 248/99 de 2 de julho, sejam necessárias à respectiva aplicação."
+  },
+  "888844783": {
+   "fragment_id": "888844351",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844784": {
+   "fragment_id": "888844352",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto da lei",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto da lei\n\n1 - Os trabalhadores e seus familiares têm direito à reparação dos danos emergentes dos acidentes de trabalho e doenças profissionais nos termos previstos na presente lei e demais legislação regulamentar.\n\n2 - Às doenças profissionais aplicam-se, com as devidas adaptações, as normas relativas aos acidentes de trabalho, sem prejuízo das que só a elas especificamente respeitem.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844785": {
+   "fragment_id": "888844353",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito da lei",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito da lei\n\n1 - Têm direito à reparação os trabalhadores por conta de outrem de qualquer actividade, seja ou não explorada com fins lucrativos.\n\n2 - Consideram-se trabalhadores por conta de outrem para efeitos do presente diploma os que estejam vinculados por contrato de trabalho ou contrato legalmente equiparado e os praticantes, aprendizes, estagiários e demais situações que devam considerar-se de formação prática, e, ainda, os que, considerando-se na dependência económica da pessoa servida, prestem, em conjunto ou isoladamente, determinado serviço.\n\n3 - É aplicável aos administradores, directores, gerentes ou equiparados, quando remunerados, o regime previsto na presente lei para os trabalhadores por conta de outrem.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844786": {
+   "fragment_id": "888844354",
+   "type": 11,
+   "heading": "Artigo 3.º — Trabalhadores independentes",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Trabalhadores independentes\n\n1 - Os trabalhadores independentes devem efectuar um seguro que garanta as prestações previstas na presente lei, nos termos que vierem a ser definidos em diploma próprio.\n\n2 - Consideram-se trabalhadores independentes os trabalhadores que exerçam uma actividade por conta própria.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844787": {
+   "fragment_id": "888844355",
+   "type": 11,
+   "heading": "Artigo 4.º — Trabalhadores estrangeiros",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Trabalhadores estrangeiros\n\n1 - Os trabalhadores estrangeiros que exerçam actividade em Portugal são, para os efeitos desta lei, equiparados aos trabalhadores portugueses.\n\n2 - Os familiares dos trabalhadores estrangeiros referidos no número anterior beneficiam igualmente da protecção estabelecida nesta lei relativamente aos familiares do sinistrado.\n\n3 - Os trabalhadores estrangeiros sinistrados em acidentes em Portugal ao serviço de empresa estrangeira, sua agência, sucursal, representante ou filial, podem ficar excluídos do âmbito desta lei desde que exerçam uma actividade temporária ou intermitente e, por acordo entre Estados, se tenha convencionado a aplicação da legislação relativa à protecção dos sinistrados em acidentes de trabalho em vigor no Estado de origem.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844788": {
+   "fragment_id": "888844356",
+   "type": 11,
+   "heading": "Artigo 5.º — Trabalhadores no estrangeiro",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Trabalhadores no estrangeiro\n\nOs trabalhadores portugueses e os trabalhadores estrangeiros residentes em Portugal sinistrados em acidentes de trabalho no estrangeiro ao serviço de empresa portuguesa terão direito às prestações previstas nesta lei, salvo se a legislação do Estado onde ocorreu o acidente lhes reconhecer direito à reparação, caso em que o trabalhador poderá optar por qualquer dos regimes.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844789": {
+   "fragment_id": "888844357",
+   "type": 1,
+   "heading": "Capítulo II — Acidentes de trabalho",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo II — Acidentes de trabalho\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844790": {
+   "fragment_id": "888844358",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceito de acidente de trabalho",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Conceito de acidente de trabalho\n\n1 - É acidente de trabalho aquele que se verifique no local e no tempo de trabalho e produza directa ou indirectamente lesão corporal, perturbação funcional ou doença de que resulte redução na capacidade de trabalho ou de ganho ou a morte.\n\n2 - Considera-se também acidente de trabalho o ocorrido:\n\na) No trajecto de ida e de regresso para e do local de trabalho, nos termos em que vier a ser definido em regulamentação posterior;\n\nb) Na execução de serviços espontaneamente prestados e de que possa resultar proveito económico para a entidade empregadora;\n\nc) No local de trabalho, quando no exercício do direito de reunião ou de actividade de representante dos trabalhadores, nos termos da lei;\n\nd) No local de trabalho, quando em frequência de curso de formação profissional ou, fora do local de trabalho, quando exista autorização expressa da entidade empregadora para tal frequência;\n\ne) Em actividade de procura de emprego durante o crédito de horas para tal concedido por lei aos trabalhadores com processo de cessação de contrato de trabalho em curso;\n\nf) Fora do local ou do tempo de trabalho, quando verificado na execução de serviços determinados pela entidade empregadora ou por esta consentidos.\n\n3 - Entende-se por local de trabalho todo o lugar em que o trabalhador se encontra ou deva dirigir-se em virtude do seu trabalho e em que esteja, directa ou indirectamente, sujeito ao controlo do empregador.\n\n4 - Entende-se por tempo de trabalho, além do período normal de laboração, o que preceder o seu início, em actos de preparação ou com ele relacionados, e o que se lhe seguir, em actos também com ele relacionados, e ainda as interrupções normais ou forçosas de trabalho.\n\n5 - Se a lesão corporal, perturbação ou doença for reconhecida a seguir a um acidente presume-se consequência deste.\n\n6 - Se a lesão corporal, perturbação ou doença não for reconhecida a seguir a um acidente, compete ao sinistrado ou aos beneficiários legais provar que foi consequência dele.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844791": {
+   "fragment_id": "888844359",
+   "type": 11,
+   "heading": "Artigo 7.º — Descaracterização do acidente",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Descaracterização do acidente\n\n1 - Não dá direito a reparação o acidente:\n\na) Que for dolosamente provocado pelo sinistrado ou provier de seu acto ou omissão, que importe violação, sem causa justificativa, das condições de segurança estabelecidas pela entidade empregadora ou previstas na lei;\n\nb) Que provier exclusivamente de negligência grosseira do sinistrado;\n\nc) Que resultar da privação permanente ou acidental do uso da razão do sinistrado, nos termos da lei civil, salvo se tal privação derivar da própria prestação do trabalho, for independente da vontade do sinistrado ou se a entidade empregadora ou o seu representante, conhecendo o estado do sinistrado, consentir na prestação;\n\nd) Que provier de caso de força maior.\n\n2 - Só se considera caso de força maior o que, sendo devido a forças inevitáveis da natureza, independentes de intervenção humana, não constitua risco criado pelas condições de trabalho nem se produza ao executar serviço expressamente ordenado pela entidade empregadora em condições de perigo evidente.\n\n3 - A verificação das circunstâncias previstas neste artigo não dispensa as entidades empregadoras da prestação dos primeiros socorros aos trabalhadores e do seu transporte ao local onde possam ser clinicamente socorridos.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844792": {
+   "fragment_id": "888844360",
+   "type": 11,
+   "heading": "Artigo 8.º — Exclusões",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Exclusões\n\n1 - São excluídos do âmbito da presente lei:\n\na) Os acidentes ocorridos na prestação de serviços eventuais ou ocasionais, de curta duração, a pessoas singulares em actividades que não tenham por objecto exploração lucrativa;\n\nb) Os acidentes ocorridos na execução de trabalhos de curta duração se a entidade a quem for prestado o serviço trabalhar habitualmente só ou com membros da sua família e chamar para o auxiliar, acidentalmente, um ou mais trabalhadores.\n\n2 - As exclusões previstas no número anterior não abrangem os acidentes que resultem da utilização de máquinas e de outros equipamentos de especial perigosidade.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844793": {
+   "fragment_id": "888844361",
+   "type": 11,
+   "heading": "Artigo 9.º — Predisposição patológica e incapacidade",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Predisposição patológica e incapacidade\n\n1 - A predisposição patológica do sinistrado num acidente não exclui o direito à reparação integral, salvo quando tiver sido ocultada.\n\n2 - Quando a lesão ou doença consecutiva ao acidente for agravada por lesão ou doença anterior, ou quando esta for agravada pelo acidente, a incapacidade avaliar-se-á como se tudo dele resultasse, a não ser que pela lesão ou doença anterior o sinistrado já esteja a receber pensão ou tenha recebido um capital nos termos da alínea d) do n.º 1 do artigo 17.º\n\n3 - No caso de o sinistrado estar afectado de incapacidade permanente anterior ao acidente, a reparação será apenas a correspondente à diferença entre a incapacidade anterior e a que for calculada como se tudo fosse imputado ao acidente.\n\n4 - Sem prejuízo do disposto no número anterior, quando do acidente resulte a inutilização ou danificação dos aparelhos de prótese ou ortopedia de que o sinistrado já era portador, o mesmo terá direito à sua reparação ou substituição.\n\n5 - Confere também direito à reparação a lesão ou doença que se manifeste durante o tratamento de lesão ou doença resultante de um acidente de trabalho e que seja consequência de tal tratamento.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844794": {
+   "fragment_id": "888844362",
+   "type": 11,
+   "heading": "Artigo 10.º — Reparação",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Reparação\n\nO direito à reparação compreende, nos termos que vierem a ser regulamentados, as seguintes prestações:\n\na) Em espécie: prestações de natureza médica, cirúrgica, farmacêutica, hospitalar e quaisquer outras, seja qual for a sua forma, desde que necessárias e adequadas ao restabelecimento do estado de saúde e da capacidade de trabalho ou de ganho do sinistrado e à sua recuperação para a vida activa;\n\nb) Em dinheiro: indemnização por incapacidade temporária absoluta ou parcial para o trabalho; indemnização em capital ou pensão vitalícia correspondente à redução na capacidade de trabalho ou de ganho, em caso de incapacidade permanente; pensões aos familiares do sinistrado; subsídio por situações de elevada incapacidade permanente; subsídio para readaptação de habitação, e subsídio por morte e despesas de funeral.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844795": {
+   "fragment_id": "888844363",
+   "type": 11,
+   "heading": "Artigo 11.º — Lugar do pagamento das prestações",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Lugar do pagamento das prestações\n\n1 - O pagamento das prestações previstas na alínea b) do artigo anterior será efectuado no lugar da residência do sinistrado ou dos seus familiares, se outro não for acordado.\n\n2 - Se o credor das prestações se ausentar para o estrangeiro, o pagamento será efectuado em local do território nacional por ele indicado, se outro lugar não tiver sido acordado e sem prejuízo do disposto em convenções internacionais ou acordos de reciprocidade.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844796": {
+   "fragment_id": "888844364",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de segurança, higiene e saúde no trabalho",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Serviços de segurança, higiene e saúde no trabalho\n\nAs entidades empregadoras devem garantir a organização e o funcionamento dos serviços de segurança, higiene e saúde no trabalho, nos termos definidos em legislação própria.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844797": {
+   "fragment_id": "888844365",
+   "type": 11,
+   "heading": "Artigo 13.º — Hospitalização",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Hospitalização\n\n1 - O internamento e os tratamentos previstos na alínea a) do artigo 10.º devem ser feitos em estabelecimentos adequados ao restabelecimento e reabilitação do sinistrado.\n\n2 - O recurso, quando necessário, a estabelecimentos hospitalares fora do território nacional será feito após parecer de junta médica comprovando a impossibilidade de tratamento em hospital no território nacional.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844798": {
+   "fragment_id": "888844366",
+   "type": 11,
+   "heading": "Artigo 14.º — Observância de prescrições clínicas e cirúrgicas",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Observância de prescrições clínicas e cirúrgicas\n\n1 - Os sinistrados em acidentes devem submeter-se ao tratamento e observar as prescrições clínicas e cirúrgicas do médico designado pela entidade responsável e necessárias à cura da lesão ou doença e à recuperação da capacidade de trabalho, sem prejuízo do direito a solicitar o exame pericial do tribunal.\n\n2 - Não conferem direito às prestações estabelecidas nesta lei as incapacidades judicialmente reconhecidas como consequência de injustificada recusa ou falta de observância das prescrições clínicas ou cirúrgicas ou como tendo sido voluntariamente provocadas, na medida em que resultem de tal comportamento.\n\n3 - Considera-se sempre justificada a recusa de intervenção cirúrgica quando, pela sua natureza ou pelo estado do sinistrado, ponha em risco a vida deste.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844799": {
+   "fragment_id": "888844367",
+   "type": 11,
+   "heading": "Artigo 15.º — Transportes e estada",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Transportes e estada\n\n1 - O fornecimento ou o pagamento dos transportes e estada abrange as deslocações e permanência necessárias à observação e tratamento, e as exigidas pela comparência a actos judiciais, salvo, quanto a estas, se for consequência de pedidos dos sinistrados que vierem a ser julgados totalmente improcedentes.\n\n2 - Quando o sinistrado for menor de 16 anos ou quando a natureza da lesão ou da doença ou outras circunstâncias especiais o exigirem, o direito a transporte e estada será extensivo à pessoa que o acompanhar.\n\n3 - O transporte e estada devem obedecer às condições de comodidade impostas pela natureza da lesão ou doença.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844800": {
+   "fragment_id": "888844368",
+   "type": 11,
+   "heading": "Artigo 16.º — Recidiva ou agravamento",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Recidiva ou agravamento\n\n1 - Nos casos de recidiva ou agravamento, o direito às prestações previstas na alínea a) do artigo 10.º mantém-se após a alta, seja qual for a situação nesta definida, e abrange as doenças relacionadas com as consequências do acidente.\n\n2 - O direito à indemnização por incapacidade temporária absoluta ou parcial para o trabalho, prevista na alínea b) do artigo 10.º, em caso de recidiva ou agravamento, mantém-se:\n\na) Após a atribuição ao sinistrado de nova baixa;\n\nb) Entre a data da alta e a da nova baixa seguinte, se esta última vier a ser dada no prazo de oito dias.\n\n3 - Para efeitos do disposto no número anterior, será considerado o valor da retribuição à data do acidente actualizado pelo aumento percentual da remuneração mínima mensal garantida mais elevada.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844801": {
+   "fragment_id": "888844369",
+   "type": 11,
+   "heading": "Artigo 17.º — Prestações por incapacidade",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Prestações por incapacidade\n\n1 - Se do acidente resultar redução na capacidade de trabalho ou ganho do sinistrado, este terá direito às seguintes prestações:\n\na) Na incapacidade permanente absoluta para todo e qualquer trabalho: pensão anual e vitalícia igual a 80% da retribuição, acrescida de 10% por cada familiar a cargo, conceito a definir em regulamentação ulterior, até ao limite da retribuição e subsídio por situações de elevada incapacidade permanente;\n\nb) Na incapacidade permanente absoluta para o trabalho habitual: pensão anual e vitalícia compreendida entre 50% e 70% da retribuição, conforme a maior ou menor capacidade funcional residual para o exercício de outra profissão compatível e subsídio por situações de elevada incapacidade permanente;\n\nc) Na incapacidade permanente parcial igual ou superior a 30%: pensão anual e vitalícia correspondente a 70% da redução sofrida na capacidade geral de ganho e subsídio por situações de elevada incapacidade permanente, em caso de incapacidade permanente parcial igual ou superior a 70%;\n\nd) Na incapacidade permanente parcial inferior a 30%: capital de remição de uma pensão anual e vitalícia correspondente a 70% da redução sofrida na capacidade geral de ganho, calculado nos termos que vierem a ser regulamentados;\n\ne) Na incapacidade temporária absoluta: indemnização diária igual a 70% da retribuição;\n\nf) Na incapacidade temporária parcial: indemnização diária igual a 70% da redução sofrida na capacidade geral de ganho.\n\n2 - As indemnizações são devidas enquanto o sinistrado estiver em regime de tratamento ambulatório ou de reabilitação profissional; mas serão reduzidas a 45% durante o período de internamento hospitalar ou durante o tempo em que correrem por conta da entidade empregadora ou seguradora as despesas com assistência clínica e alimentos do mesmo sinistrado, se este for solteiro, não viver em união de facto ou não tiver filhos ou outras pessoas a seu cargo.\n\n3 - A retribuição correspondente ao dia do acidente será paga pela entidade empregadora.\n\n4 - As indemnizações por incapacidade temporária começam a vencer-se no dia seguinte ao do acidente e as pensões por incapacidade permanente no dia seguinte ao da alta.\n\n5 - Será estabelecida uma pensão provisória por incapacidade permanente entre o dia seguinte ao da alta e o momento de fixação da pensão definitiva, nos termos a regulamentar.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844802": {
+   "fragment_id": "888844370",
+   "type": 11,
+   "heading": "Artigo 18.º — Casos especiais de reparação",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Casos especiais de reparação\n\n1 - Quando o acidente tiver sido provocado pela entidade empregadora ou seu representante, ou resultar de falta de observação das regras sobre segurança, higiene e saúde no trabalho, as prestações fixar-se-ão segundo as regras seguintes:\n\na) Nos casos de incapacidade absoluta, permanente ou temporária, e de morte serão iguais à retribuição;\n\nb) Nos casos de incapacidade parcial, permanente ou temporária, terão por base a redução de capacidade resultante do acidente.\n\n2 - O disposto no número anterior não prejudica a responsabilidade por danos morais nos termos da lei geral nem a responsabilidade criminal em que a entidade empregadora, ou o seu representante, tenha incorrido.\n\n3 - Se, nas condições previstas neste artigo, o acidente tiver sido provocado pelo representante da entidade empregadora, esta terá direito de regresso contra ele.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844803": {
+   "fragment_id": "888844371",
+   "type": 11,
+   "heading": "Artigo 19.º — Prestação suplementar",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Prestação suplementar\n\n1 - Se, em consequência da lesão resultante do acidente, o sinistrado não puder dispensar a assistência constante de terceira pessoa, terá direito a uma prestação suplementar da pensão atribuída não superior ao montante da remuneração mínima mensal garantida para os trabalhadores do serviço doméstico.\n\n2 - A prestação suplementar da pensão suspende-se sempre que se verifique o internamento do sinistrado em hospital, ou estabelecimento similar, por período de tempo superior a 30 dias e durante o tempo em que os custos corram por conta da entidade empregadora ou seguradora.\n\n3 - É aplicável à prestação suplementar, com as devidas adaptações, o disposto no artigo 17.º, n.º 5, nos termos a regulamentar.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844804": {
+   "fragment_id": "888844372",
+   "type": 11,
+   "heading": "Artigo 20.º — Pensões por morte",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Pensões por morte\n\n1 - Se do acidente resultar a morte, as pensões anuais serão as seguintes:\n\na) Ao cônjuge ou a pessoa em união de facto: 30% da retribuição do sinistrado até perfazer a idade de reforma por velhice e 40% a partir daquela idade ou no caso de doença física ou mental que afecte sensivelmente a sua capacidade de trabalho;\n\nb) Ao ex-cônjuge ou cônjuge judicialmente separado à data do acidente e com direito a alimentos: a pensão estabelecida na alínea anterior e nos mesmos termos, até ao limite do montante dos alimentos fixados judicialmente;\n\nc) Aos filhos, incluindo os nascituros e adoptados plena ou restritamente à data do acidente, até perfazerem 18, 22 ou 25 anos, enquanto frequentarem, respectivamente, o ensino secundário ou curso equiparado ou o ensino superior, ou sem limite de idade quando afectados de doença física ou mental que os incapacite sensivelmente para o trabalho: 20% da retribuição do sinistrado se for apenas um, 40% se forem dois, 50% se forem três ou mais, recebendo o dobro destes montantes, até ao limite de 80% da retribuição do sinistrado, se forem órfãos de pai e mãe;\n\nd) Aos ascendentes e quaisquer parentes sucessíveis à data do acidente até perfazerem 18, 22 ou 25 anos, enquanto frequentarem, respectivamente, o ensino secundário ou curso equiparado ou o ensino superior, ou sem limite de idade quando afectados de doença física ou mental que os incapacite sensivelmente para o trabalho, desde que o sinistrado contribuísse com regularidade para o seu sustento: a cada, 10% da retribuição do sinistrado, não podendo o total das pensões exceder 30% desta.\n\n2 - Se não houver cônjuge, pessoa em união de facto ou filhos com direito a pensão, os parentes incluídos na alínea d) do número anterior e nas condições nele referidas receberão, cada um, 15% da retribuição do sinistrado, até perfazerem a idade de reforma por velhice, e 20% a partir desta idade ou no caso de doença física ou mental que os incapacite sensivelmente para o trabalho, não podendo o total das pensões exceder 80% da remuneração do sinistrado, para o que se procederá a rateio, se necessário.\n\n3 - Qualquer das pessoas referidas nas alíneas a) e b) do n.º 1 que contraia casamento ou união de facto receberá, por uma só vez, o triplo do valor da pensão anual, excepto se já tiver ocorrido a remição total da pensão.\n\n4 - Se por morte do sinistrado houver concorrência entre os beneficiários referidos nas alíneas a) e b) do n.º 1, é a pensão repartida na proporção dos respectivos direitos.\n\n5 - São equiparados aos filhos para efeito do disposto na alínea c) do n.º 1 os enteados do sinistrado, desde que este estivesse obrigado à prestação de alimentos, nos termos da alínea f) do n.º 1 do artigo 2009.º do Código Civil.\n\n6 - Se não houver beneficiários com direito a pensão reverte para o fundo a que se refere o artigo 39.º uma importância igual ao triplo da retribuição anual, salvo se tiver havido remição.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844805": {
+   "fragment_id": "888844373",
+   "type": 11,
+   "heading": "Artigo 21.º — Acumulação e rateio das pensões por morte",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Acumulação e rateio das pensões por morte\n\n1 - As pensões referidas no artigo anterior são acumuláveis, mas o seu total não poderá exceder 80% da retribuição do sinistrado.\n\n2 - Se as pensões referidas na alínea d) do n.º 1 do artigo anterior adicionadas às previstas nas alíneas a), b) e c) excederem 80% da retribuição do sinistrado, serão as prestações sujeitas a rateio, enquanto esse montante se mostrar excedido.\n\n3 - Se o cônjuge sobrevivo falecer durante o período em que a pensão é devida aos filhos, será esta aumentada, nos termos da parte final da alínea c) do n.º 1 do artigo anterior.\n\n4 - As pensões dos filhos do sinistrado serão, em cada mês, as correspondentes ao número dos que, com direito a pensão, estiverem vivos nesse mês.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844806": {
+   "fragment_id": "888844374",
+   "type": 11,
+   "heading": "Artigo 22.º — Subsídio por morte e despesas de funeral",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Subsídio por morte e despesas de funeral\n\n1 - O subsídio por morte será igual a 12 vezes a remuneração mínima mensal garantida mais elevada, sendo atribuído:\n\na) Metade ao cônjuge ou à pessoa em união de facto e metade aos filhos que tiverem direito a pensão nos termos da alínea c) do n.º 1 do artigo 20.º;\n\nb) Por inteiro ao cônjuge ou pessoa em união de facto, ou aos filhos previstos na alínea anterior, não sobrevivendo, em simultâneo, cônjuge ou pessoa em união de facto ou filhos.\n\n2 - Se o sinistrado não deixar beneficiários referidos no número anterior, não será devido subsídio por morte.\n\n3 - A reparação por despesas de funeral é igual a quatro vezes a remuneração mínima mensal garantida mais elevada, aumentada para o dobro, se houver trasladação.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844807": {
+   "fragment_id": "888844475",
+   "type": 11,
+   "heading": "Artigo 23.º — Subsídio por situações de elevada incapacidade permanente",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Subsídio por situações de elevada incapacidade permanente\n\nA incapacidade permanente absoluta ou a incapacidade permanente parcial igual ou superior a 70% confere direito a um subsídio igual a 12 vezes a remuneração mínima mensal garantida à data do acidente, ponderado pelo grau de incapacidade fixado, sendo pago de uma só vez aos sinistrados nessas situações.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844808": {
+   "fragment_id": "888844476",
+   "type": 11,
+   "heading": "Artigo 24.º — Subsídio para readaptação",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Subsídio para readaptação\n\nA incapacidade permanente absoluta confere direito ao pagamento das despesas suportadas com a readaptação de habitação, até ao limite de 12 vezes a remuneração mínima mensal garantida mais elevada à data do acidente.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844809": {
+   "fragment_id": "888844477",
+   "type": 11,
+   "heading": "Artigo 25.º — Revisão das prestações",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Revisão das prestações\n\n1 - Quando se verifique modificação da capacidade de ganho do sinistrado proveniente de agravamento, recidiva, recaída ou melhoria da lesão ou doença que deu origem à reparação, ou de intervenção clínica ou aplicação de prótese ou ortótese, ou ainda de formação ou reconversão profissional, as prestações poderão ser revistas e aumentadas, reduzidas ou extintas, de harmonia com a alteração verificada.\n\n2 - A revisão só poderá ser requerida dentro dos 10 anos posteriores à data da fixação da pensão, uma vez em cada semestre, nos dois primeiros anos, e uma vez por ano, nos anos imediatos.\n\n3 - Nos casos de doenças profissionais de carácter evolutivo não é aplicável o disposto no número anterior, podendo requerer-se a revisão em qualquer tempo; mas, nos dois primeiros anos, só poderá ser requerida uma vez no fim de cada ano.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844810": {
+   "fragment_id": "888844478",
+   "type": 11,
+   "heading": "Artigo 26.º — Retribuição",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Retribuição\n\n1 - As indemnizações por incapacidade temporária absoluta ou parcial serão calculadas com base na retribuição diária, ou na 30.ª parte da retribuição mensal ilíquida, auferida à data do acidente, quando esta represente retribuição normalmente recebida pelo sinistrado.\n\n2 - As pensões por morte e por incapacidade permanente, absoluta ou parcial, serão calculadas com base na retribuição anual ilíquida normalmente recebida pelo sinistrado.\n\n3 - Entende-se por retribuição mensal tudo o que a lei considera como seu elemento integrante e todas as prestações recebidas mensalmente que revistam carácter de regularidade e não se destinem a compensar o sinistrado por custos aleatórios.\n\n4 - Entende-se por retribuição anual o produto de 12 vezes a retribuição mensal acrescida dos subsídios de Natal e de férias e outras remunerações anuais a que o sinistrado tenha direito com carácter de regularidade.\n\n5 - Se a retribuição correspondente ao dia do acidente não representar a retribuição normal, será esta calculada pela média tomada com base nos dias de trabalho e correspondente a retribuições auferidas pelo sinistrado no período de um ano anterior ao acidente. Na falta destes elementos, o cálculo far-se-á segundo o prudente arbítrio do juiz, tendo em atenção a natureza dos serviços prestados, a categoria profissional do sinistrado e os usos.\n\n6 - Na reparação emergente das doenças profissionais, as indemnizações e pensões serão calculadas com base na retribuição auferida pelo doente no ano anterior à cessação da exposição ao risco, ou à data do diagnóstico final da doença, se este a preceder.\n\n7 - Se o sinistrado for praticante, aprendiz ou estagiário, a pensão a que este tem direito terá por base a retribuição anual média ilíquida de um trabalhador da mesma empresa ou empresa similar e categoria profissional correspondente à formação, aprendizagem ou estágio.\n\n8 - Em nenhum caso a retribuição pode ser inferior à que resulte da lei ou de instrumento de regulamentação colectiva de trabalho.\n\n9 - O disposto no n.º 5 deste artigo é aplicável ao trabalho não regular e aos trabalhadores a tempo parcial vinculados a mais de uma entidade empregadora.\n\n10 - A ausência ao trabalho para efectuar quaisquer exames com o fim de caracterizar o acidente ou a doença, ou para o seu tratamento, ou ainda para a aquisição, substituição ou arranjo de próteses, não determina perda de retribuição.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844811": {
+   "fragment_id": "888844479",
+   "type": 1,
+   "heading": "Capítulo III — Doenças profissionais",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo III — Doenças profissionais\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844812": {
+   "fragment_id": "888844480",
+   "type": 11,
+   "heading": "Artigo 27.º — Lista das doenças profissionais",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Lista das doenças profissionais\n\n1 - As doenças profissionais constam da lista organizada e publicada no Diário da República, sob parecer da Comissão Nacional de Revisão da Lista de Doenças Profissionais.\n\n2 - A lesão corporal, perturbação funcional ou doença não incluída na lista a que se refere o n.º 1 deste artigo é indemnizável desde que se prove ser consequência, necessária e directa, da actividade exercida e não represente normal desgaste do organismo.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844813": {
+   "fragment_id": "888844481",
+   "type": 11,
+   "heading": "Artigo 28.º — Reparação das doenças profissionais",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Reparação das doenças profissionais\n\nHá direito à reparação emergente de doenças profissionais previstas no n.º 1 do artigo anterior quando, cumulativamente, se verifiquem as seguintes condições:\n\na) Estar o trabalhador afectado da correspondente doença profissional;\n\nb) Ter estado o trabalhador exposto ao respectivo risco pela natureza da indústria, actividade ou condições, ambiente e técnicas do trabalho habitual.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844814": {
+   "fragment_id": "888844482",
+   "type": 11,
+   "heading": "Artigo 29.º — Avaliação, graduação e reparação das doenças profissionais",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Avaliação, graduação e reparação das doenças profissionais\n\nA avaliação, graduação e reparação das doenças profissionais diagnosticadas a partir da entrada em vigor do presente diploma é da exclusiva responsabilidade do Centro Nacional de Protecção contra os Riscos Profissionais.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844815": {
+   "fragment_id": "888844483",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições complementares\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844816": {
+   "fragment_id": "888844484",
+   "type": 11,
+   "heading": "Artigo 30.º — Ocupação e despedimento durante a incapacidade temporária",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Ocupação e despedimento durante a incapacidade temporária\n\n1 - Durante o período de incapacidade temporária parcial, as entidades empregadoras serão obrigadas a ocupar, nos termos e na medida em que vierem a ser regulamentarmente estabelecidos, os trabalhadores sinistrados em acidentes ao seu serviço em funções compatíveis com o estado desses trabalhadores. A retribuição terá por base a do dia do acidente, excepto se entretanto a retribuição da categoria correspondente tiver sido objecto de alteração, caso em que será esta a considerada, e nunca será inferior à devida pela capacidade restante.\n\n2 - O despedimento sem justa causa de trabalhador temporariamente incapacitado em resultado de acidente de trabalho confere àquele, sem prejuízo de outros direitos consagrados na lei aplicável, caso opte pela não reintegração, o direito a uma indemnização igual ao dobro da que lhe competiria por despedimento sem justa causa.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844817": {
+   "fragment_id": "888844485",
+   "type": 11,
+   "heading": "Artigo 31.º — Acidente originado por outro trabalhador ou terceiros",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Acidente originado por outro trabalhador ou terceiros\n\n1 - Quando o acidente for causado por outros trabalhadores ou terceiros, o direito à reparação não prejudica o direito de acção contra aqueles, nos termos da lei geral.\n\n2 - Se o sinistrado em acidente receber de outros trabalhadores ou de terceiros indemnização superior à devida pela entidade empregadora ou seguradora, esta considera-se desonerada da respectiva obrigação e tem direito a ser reembolsada pelo sinistrado das quantias que tiver pago ou despendido.\n\n3 - Se a indemnização arbitrada ao sinistrado ou aos seus representantes for de montante inferior ao dos benefícios conferidos em consequência do acidente ou da doença, a desoneração da responsabilidade será limitada àquele montante.\n\n4 - A entidade empregadora ou a seguradora que houver pago a indemnização pelo acidente tem o direito de regresso contra os responsáveis referidos no n.º 1, se o sinistrado não lhes houver exigido judicialmente a indemnização no prazo de um ano a contar da data do acidente.\n\n5 - A entidade empregadora e a seguradora também são titulares do direito de intervir como parte principal no processo em que o sinistrado exigir aos responsáveis a indemnização pelo acidente a que se refere este artigo.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844818": {
+   "fragment_id": "888844486",
+   "type": 11,
+   "heading": "Artigo 32.º — Caducidade e prescrição",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Caducidade e prescrição\n\n1 - O direito de acção respeitante às prestações fixadas nesta lei caduca no prazo de um ano a contar da data da alta clínica formalmente comunicada ao sinistrado ou, se do evento resultar a morte, a contar desta.\n\n2 - As prestações estabelecidas por decisão judicial, ou pelo Centro Nacional de Protecção contra os Riscos Profissionais, prescrevem no prazo de cinco anos a partir da data do seu vencimento.\n\n3 - O prazo de prescrição não começa a correr enquanto os beneficiários não tiverem conhecimento pessoal da fixação das prestações.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844819": {
+   "fragment_id": "888844487",
+   "type": 11,
+   "heading": "Artigo 33.º — Remição de pensões",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Remição de pensões\n\n1 - Sem prejuízo do disposto na alínea d) do n.º 1 do artigo 17.º, são obrigatoriamente remidas as pensões vitalícias de reduzido montante, nos termos que vierem a ser regulamentados.\n\n2 - Podem ser parcialmente remidas as pensões vitalícias correspondentes a incapacidade igual ou superior a 30%, nos termos a regulamentar, desde que a pensão sobrante seja igual ou superior a 50% do valor da remuneração mínima mensal garantida mais elevada.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844820": {
+   "fragment_id": "888844488",
+   "type": 11,
+   "heading": "Artigo 34.º — Nulidade dos actos contrários à lei",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Nulidade dos actos contrários à lei\n\n1 - É nula a convenção contrária aos direitos ou às garantias conferidos nesta lei ou com eles incompatível.\n\n2 - São igualmente nulos os actos e contratos que visem a renúncia aos direitos conferidos nesta lei.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844821": {
+   "fragment_id": "888844489",
+   "type": 11,
+   "heading": "Artigo 35.º — Inalienabilidade, impenhorabilidade, irrenunciabilidade dos créditos e privilégios creditórios",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — Inalienabilidade, impenhorabilidade, irrenunciabilidade dos créditos e privilégios creditórios\n\nOs créditos provenientes do direito às prestações estabelecidas por esta lei são inalienáveis, impenhoráveis e irrenunciáveis e gozam dos privilégios creditórios consignados na lei geral como garantia das retribuições do trabalho, com preferência a estas na classificação legal.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844822": {
+   "fragment_id": "888844490",
+   "type": 11,
+   "heading": "Artigo 36.º — Proibição de descontos na retribuição",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Proibição de descontos na retribuição\n\nAs entidades empregadoras não podem descontar qualquer quantia na retribuição dos trabalhadores ao seu serviço a título de compensação pelos encargos resultantes desta lei, sendo nulos os acordos realizados com esse objectivo.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844823": {
+   "fragment_id": "888844491",
+   "type": 11,
+   "heading": "Artigo 37.º — Sistema e unidade de seguro",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — Sistema e unidade de seguro\n\n1 - As entidades empregadoras são obrigadas a transferir a responsabilidade pela reparação prevista na presente lei para entidades legalmente autorizadas a realizar este seguro.\n\n2 - Verificando-se alguma das situações referidas no artigo 18.º, n.º 1, a responsabilidade nela prevista recai sobre a entidade empregadora, sendo a instituição seguradora apenas subsidiariamente responsável pelas prestações normais previstas na presente lei.\n\n3 - Quando a retribuição declarada para efeito do prémio de seguro for inferior à real, a entidade seguradora só é responsável em relação àquela retribuição. A entidade empregadora responderá, neste caso, pela diferença e pelas despesas efectuadas com a hospitalização, assistência clínica e transporte, na respectiva proporção.\n\n4 - Na regulamentação da presente lei são estabelecidas providências destinadas a evitar fraudes, omissões ou insuficiências nas declarações quanto ao pessoal e à retribuição, que terá de ser declarada na sua totalidade, para cumprimento do disposto no n.º 1 deste artigo.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844824": {
+   "fragment_id": "888844492",
+   "type": 11,
+   "heading": "Artigo 38.º — Apólice uniforme",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 38.º — Apólice uniforme\n\n1 - A apólice uniforme do seguro de acidentes de trabalho adequada às diferentes profissões e actividades, de harmonia com os princípios estabelecidos nesta lei e respectiva legislação regulamentar, é aprovada pelo Instituto de Seguros de Portugal, ouvidas as associações representativas das empresas de seguros.\n\n2 - A apólice uniforme obedecerá ao princípio da graduação dos prémios de seguro em função do grau de risco do acidente, tidas em conta a natureza da actividade e as condições de prevenção implantadas nos locais de trabalho.\n\n3 - É prevista na apólice uniforme a revisão do valor do prémio, por iniciativa da seguradora ou a pedido da entidade empregadora, com base na modificação efectiva das condições de prevenção de acidentes nos locais de trabalho.\n\n4 - São nulas as cláusulas adicionais que contrariem os direitos ou garantias estabelecidos na apólice uniforme prevista neste artigo.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844825": {
+   "fragment_id": "888844493",
+   "type": 11,
+   "heading": "Artigo 39.º — Garantia e actualização de pensões",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 39.º — Garantia e actualização de pensões\n\n1 - A garantia do pagamento das pensões por incapacidade permanente ou morte e das indemnizações por incapacidade temporária estabelecidas nos termos da presente lei que não possam ser pagas pela entidade responsável por motivo de incapacidade económica objectivamente caracterizada em processo judicial de falência ou processo equivalente, ou processo de recuperação de empresa ou por motivo de ausência, desaparecimento ou impossibilidade de identificação, serão assumidas e suportadas por fundo dotado de autonomia administrativa e financeira, a criar por lei, no âmbito dos acidentes de trabalho, nos termos a regulamentar.\n\n2 - Serão igualmente da responsabilidade do fundo criado no âmbito do disposto no número anterior as actualizações de pensões devidas por incapacidade permanente igual ou superior a 30% ou por morte.\n\n3 - Quando se verifique a situação prevista no n.º 1, serão ainda atribuídas ao fundo outras responsabilidades, designadamente no que respeita a encargos com próteses e ao disposto no artigo 16.º, n.º 3, nos termos em que vierem a ser regulamentados.\n\n4 - O fundo referido nos números anteriores constituir-se-á credor da entidade economicamente incapaz, ou da respectiva massa falida, cabendo aos seus créditos, caso a entidade incapaz seja uma empresa de seguros, graduação idêntica à dos credores específicos de seguros.\n\n5 - Se no âmbito de um processo de recuperação de empresa esta se encontrar impossibilitada de pagar os prémios do seguro de acidentes de trabalho dos respectivos trabalhadores, o gestor da empresa deverá comunicar tal impossibilidade ao fundo referido nos números anteriores 60 dias antes do vencimento do contrato, por forma que o fundo, querendo, possa substituir-se à empresa nesse pagamento, sendo neste caso aplicável o disposto no n.º 4.\n\n6 - As responsabilidades referidas nos números anteriores, no que respeita às doenças profissionais, serão assumidas pelo Centro Nacional de Protecção contra os Riscos Profissionais.\n\n> Nota: [Artigo 97.º, Decreto-Lei n.º 248/99 - Diário da República n.º 152/1999, Série I-A de 1999-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1999-372671) No período máximo de seis meses após a criação do fundo autónomo, previsto no presente artigo, cessam as responsabilidades do Fundo de Garantia e Actualização de Pensões constantes da base XLV da Lei n.º 2127, de 3 de Agosto de 1965.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844826": {
+   "fragment_id": "888844494",
+   "type": 11,
+   "heading": "Artigo 40.º — Reabilitação",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Reabilitação\n\n1 - Aos trabalhadores afectados de lesão ou doença que lhes reduza a capacidade de trabalho ou de ganho, em consequência de acidente de trabalho, será assegurada na empresa ao serviço da qual ocorreu o acidente a ocupação em funções compatíveis com o respectivo estado, nos termos que vierem a ser regulamentados.\n\n2 - Aos trabalhadores referidos no número anterior é assegurada, pela entidade empregadora, a formação profissional, a adaptação do posto de trabalho, o trabalho a tempo parcial e a licença para formação ou novo emprego, nos termos em que vierem a ser regulamentados.\n\n3 - O Governo criará serviços de adaptação ou readaptação profissionais e de colocação, garantindo a coordenação entre esses serviços e os já existentes, quer do Estado, quer das instituições, quer de entidades empregadoras e seguradoras, e utilizando estes tanto quanto possível.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844827": {
+   "fragment_id": "888844495",
+   "type": 11,
+   "heading": "Artigo 41.º — Produção de efeitos",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 41.º — Produção de efeitos\n\n1 - Esta lei produz efeitos à data da entrada em vigor do decreto-lei que a regulamentar e será aplicável:\n\na) Aos acidentes de trabalho que ocorrerem após aquela entrada em vigor;\n\nb) Às doenças profissionais cujo diagnóstico final se faça após a data referida na alínea anterior.\n\n2 - O diploma regulamentar referido no número anterior estabelecerá o regime transitório, a aplicar:\n\na) À remição de pensões em pagamento, à data da sua entrada em vigor, e que digam respeito a incapacidades permanentes inferiores a 30% ou a pensões vitalícias de reduzido montante e às remições previstas no artigo 33.º, n.º 2;\n\nb) Ao fundo existente no âmbito previsto no artigo 39.º\n\n3 - A presente lei será regulamentada no prazo máximo de 180 dias a contar da sua publicação.\n\n> Nota: [Artigo 98.º, Decreto-Lei n.º 248/99 - Diário da República n.º 152/1999, Série I-A de 1999-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1999-372671) Para efeito do disposto na alínea b) do n.º 1 do presente artigo, considera-se como doença profissional cujo diagnóstico final se faça após a data de entrada em vigor do Decreto-Lei n.º 248/99, de 2 de julho: a) A doença profissional futuramente diagnosticada; b) A alteração da graduação de incapacidade, relativamente a doenças profissionais já diagnosticadas.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844828": {
+   "fragment_id": "888844496",
+   "type": 11,
+   "heading": "Artigo 42.º — Disposição revogatória",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 42.º — Disposição revogatória\n\nÉ revogada, com a entrada em vigor do decreto-lei previsto no artigo anterior, a Lei n.º 2127, de 3 de Agosto de 1965, e toda a legislação complementar.\n\n> Nota: [Artigo 102.º, Decreto-Lei n.º 248/99 - Diário da República n.º 152/1999, Série I-A de 1999-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1999-372671) Exceptuam-se da revogação prevista no presente artigo, relativamente ao regime das doenças profissionais, as disposições legais que, inserindo-se no âmbito do estatuído no Decreto-Lei n.º 248/99 de 2 de julho, sejam necessárias à respectiva aplicação.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "888844829": {
+   "fragment_id": "888844497",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "Aprovada em 31 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 25 de Agosto de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 28 de Agosto de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  }
+ }
+}

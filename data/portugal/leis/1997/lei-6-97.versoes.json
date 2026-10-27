@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:513398:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-74862795",
+ "dre_path": "/dr/detalhe/lei/6-1997-513398",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-03-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75339475",
+    "75339476",
+    "75339477"
+   ]
+  }
+ ],
+ "fragments": {
+  "75339475": {
+   "fragment_id": "74862796",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 6/97\n\nde 1 de Março\n\nAutoriza a difusão de trabalhos parlamentares nas redes públicas e privadas de TV cabo\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "75339476": {
+   "fragment_id": "74862797",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A Assembleia da República disponibiliza o sinal da sua rede interna de vídeo para efeitos da distribuição de emissões parlamentares nas redes de televisão por cabo.\n\n2 - Os operadores de distribuição de televisão por cabo para uso público podem transmitir livremente, através das respectivas redes de transporte, o sinal disponibilizado pela Assembleia da República, sem inserção de publicidade comercial ou de quaisquer outros elementos não decorrentes do regime aprovado pela presente lei e pelos respectivos instrumentos complementares."
+  },
+  "75339477": {
+   "fragment_id": "74862798",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - Terão acesso ao sinal de vídeo da Assembleia da República todos os operadores de distribuição por cabo para uso público devidamente licenciados.\n\n2 - O acesso previsto no número anterior fica condicionado:\n\na) À definição, mediante resolução da Assembleia da República, das disposições gerais atinentes às modalidades, horários e demais aspectos da programação das transmissões;\n\nb) À celebração de protocolo com a Assembleia da República no qual se fixarão em concreto os termos, condições e regras de enquadramento das transmissões de trabalhos parlamentares;\n\nc) A comunicação prévia ao Instituto das Comunicações de Portugal."
+  }
+ }
+}

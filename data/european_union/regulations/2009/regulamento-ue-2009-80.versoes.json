@@ -1,0 +1,498 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0080:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0080-20240519",
+ "dre_path": null,
+ "source_lastmod": "2024-05-19",
+ "versions": [
+  {
+   "date": "2009-02-04",
+   "future": false,
+   "celex": "32009R0080",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6ae3ee9295c713f8",
+    "9b406af514eb9164",
+    "95110ef01b194c22",
+    "6eb6838864a5023f",
+    "3872054812c6dd3c",
+    "c42c0c2b3cabd519",
+    "685fce68bd8d0d02",
+    "4f8c822448b90704",
+    "691897b1712cde62",
+    "a95542885dba1869",
+    "b6b7007482418c67",
+    "2d5973ec099bb964",
+    "3417c3bbf12d33de",
+    "ac8387eef8dd0a6f",
+    "d1d3c981a07a4c90",
+    "f3f3e78de3ac8fc2",
+    "d29e8253517d5f38",
+    "2a6934845bb7c573",
+    "60d8e98ff59b26ba",
+    "55357cd0be7977ed",
+    "6ec5cbd7da702b7f",
+    "e630ff45a8a24326",
+    "47b8884bee5fcf54",
+    "3db96b1fe22537aa",
+    "be30d84973d2e8af",
+    "62d537a25feadc96",
+    "6be3c6c5efbb7337",
+    "eced37c5a2a6d1c8",
+    "a0711a9f6eacc67d",
+    "65b6e817ec89da5b",
+    "dde9cf53e9ae6c9a",
+    "12876e5f24d8a900",
+    "3b4e7e803c90ddd2",
+    "d4d6c5d7b8be0f69",
+    "c1069666f2ecf21f"
+   ]
+  },
+  {
+   "date": "2024-05-19",
+   "future": false,
+   "celex": "02009R0080-20240519",
+   "acts": [
+    {
+     "id": "eu:celex:32024R1230:por",
+     "title": "REGULAMENTO (UE) 2024/1230 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024",
+     "published": null,
+     "celex": "32024R1230"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 5.º — Ecrãs",
+    "Altera Artigo 19.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 12.º",
+    "Adita ANEXO I",
+    "Adita REGRAS APLICÁVEIS AOS ECRÃS PRINCIPAIS",
+    "Adita ANEXO II",
+    "Adita QUADRO DE CORRESPONDÊNCIA",
+    "Suprime Artigo 12.º — Auditor e relatório do auditor"
+   ],
+   "fragments": [
+    "09cc6b788d5d2e97",
+    "9b406af514eb9164",
+    "95110ef01b194c22",
+    "6eb6838864a5023f",
+    "d204e983c6565179",
+    "c42c0c2b3cabd519",
+    "685fce68bd8d0d02",
+    "fca4627add81cfe7",
+    "691897b1712cde62",
+    "a6c9064d46550e7e",
+    "b6b7007482418c67",
+    "2d5973ec099bb964",
+    "3417c3bbf12d33de",
+    "ac8387eef8dd0a6f",
+    "d1d3c981a07a4c90",
+    "f3f3e78de3ac8fc2",
+    "d29e8253517d5f38",
+    "2a6934845bb7c573",
+    "60d8e98ff59b26ba",
+    "55357cd0be7977ed",
+    "6ec5cbd7da702b7f",
+    "e630ff45a8a24326",
+    "d52919911e1954ea",
+    "3db96b1fe22537aa",
+    "be30d84973d2e8af",
+    "62d537a25feadc96",
+    "6be3c6c5efbb7337",
+    "eced37c5a2a6d1c8",
+    "297a00cb742d6cfe",
+    "65b6e817ec89da5b",
+    "dde9cf53e9ae6c9a",
+    "12876e5f24d8a900",
+    "3b4e7e803c90ddd2",
+    "8b447e6aa12092c8",
+    "d664376e2a8dcecd",
+    "64e6c2f2680ad3a5",
+    "852174729551523b",
+    "cafc2bb685a2e4f6",
+    "9787f3a00b95447e"
+   ]
+  }
+ ],
+ "fragments": {
+  "6ae3ee9295c713f8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Janeiro de 2009\n\nrelativo a um código de conduta para os sistemas informatizados de reserva e que revoga o Regulamento (CEE) n.º 2299/89 do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 71.º e o n.º 2 do artigo 80.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntr1-L_2009035PT.01004701-E0001),\n\nApós consulta ao Comité das Regiões,\n\nTendo em conta o parecer da Autoridade Europeia para a Protecção de Dados [([^2])](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntr2-L_2009035PT.01004701-E0002),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^3])](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntr3-L_2009035PT.01004701-E0003),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CEE) n.º 2299/89 do Conselho, de 24 de Julho de 1989, relativo a um código de conduta para os sistemas informatizados de reserva [([^4])](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntr4-L_2009035PT.01004701-E0004), contribuiu de forma significativa para garantir condições justas e imparciais para as transportadoras aéreas nos sistemas informatizados de reserva (a seguir denominados «SIR»), protegendo assim os interesses dos consumidores.\n\n(2) Uma parte importante das reservas de voos continua a ser feita através de SIR.\n\n(3) Os progressos tecnológicos e a evolução do mercado permitem uma simplificação substancial do quadro legislativo, dando mais flexibilidade aos vendedores de sistemas e às transportadoras aéreas para negociarem as taxas de reserva e os conteúdos tarifários. Isto deverá permitir-lhes adaptarem-se de modo flexível às necessidades e aos pedidos das agências de viagens e dos consumidores e distribuírem de modo mais eficiente os seus produtos de transporte.\n\n(4) No actual contexto de mercado continua porém a ser necessário manter certas disposições sobre os SIR, na medida em que contenham produtos de transporte, a fim de impedir abusos em matéria de concorrência e de garantir a prestação de informações neutras aos consumidores.\n\n(5) A recusa de fornecer as mesmas informações sobre horários, tarifas e disponibilidades a outros sistemas para além dos seus próprios e de aceitar reservas feitas por esses sistemas pode falsear seriamente a concorrência entre os SIR.\n\n(6) É necessário manter uma concorrência efectiva entre as transportadoras participantes e as transportadoras-mãe e garantir o respeito do princípio da não discriminação entre as transportadoras aéreas, seja qual for a sua participação nos SIR.\n\n(7) Para assegurar condições de concorrência transparentes e comparáveis no mercado, as transportadoras-mãe deverão estar sujeitas a regras específicas.\n\n(8) Os vendedores de sistemas deverão separar claramente os SIR dos sistemas de reserva internos ou de qualquer outra natureza das companhias aéreas e abster-se de reservar meios de distribuição para as suas transportadoras-mãe, a fim de evitar que as transportadoras-mãe tenham acesso privilegiado aos SIR.\n\n(9) A fim de proteger os interesses dos consumidores, é necessário apresentar aos utilizadores de SIR um ecrã inicial imparcial e garantir que as informações sobre todas as transportadoras participantes sejam acessíveis nas mesmas condições, para não privilegiar uma transportadora participante em relação a outra.\n\n(10) A utilização de um ecrã imparcial aumenta a transparência dos produtos e serviços de transporte oferecidos pelas transportadoras participantes e reforça a confiança dos consumidores.\n\n(11) Os vendedores de sistemas deverão garantir que os dados comerciais dos SIR sejam disponibilizados a todas as transportadoras participantes sem discriminação, e os prestadores de serviços de transportes não deverão poder utilizar esses dados para influenciar indevidamente a escolha da agência de viagens ou a escolha dos consumidores.\n\n(12) Os acordos entre os assinantes e os vendedores de sistemas sobre suportes magnéticos com dados comerciais podem incluir um regime de compensações a favor dos assinantes.\n\n(13) A prestação de informações sobre serviços ferroviários e aero-ferroviários nos ecrãs dos SIR deverá ser facilitado.\n\n(14) Nos termos do Regulamento (CE) n.º 1008/2008 do Parlamento Europeu e do Conselho, de 24 de Setembro de 2008, relativo a regras comuns de exploração dos serviços de transporte aéreo na Comunidade (reformulação) [([^5])](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntr5-L_2009035PT.01004701-E0005), as tarifas publicadas pelas transportadoras aéreas devem incluir todos os impostos, encargos, sobretaxas e taxas aplicáveis que sejam inevitáveis e previsíveis. Os ecrãs dos SIR deverão apresentar a informação sobre as tarifas incluindo as mesmas categorias de preços, para que os agentes de viagens possam comunicar essa informação aos clientes.\n\n(15) As informações relativas a serviços de autocarros associados aos produtos de transporte aéreo, ou a produtos de transporte ferroviário incluídos nos produtos de transporte aéreo, deverão passar a ser apresentadas no ecrã principal dos SIR.\n\n(16) Os SIR deverão ser encorajados a passar a fornecer informações facilmente compreensíveis sobre as emissões de CO2 e sobre o consumo de combustível dos voos. Essas informações poderiam ser apresentadas indicando o consumo médio de combustível por pessoa em litros/100 km e as emissões médias de CO2 por pessoa em g/km, e poderiam ser comparadas com os dados relativos à melhor ligação alternativa por comboio ou autocarro em viagens de menos de cinco horas.\n\n(17) As transportadoras aéreas comunitárias e dos países terceiros deverão beneficiar de tratamento equivalente no que respeita aos serviços dos SIR.\n\n(18) Para garantir a aplicação correcta do presente regulamento, a Comissão deverá dispor de poderes de execução adequados, incluindo a possibilidade de investigar infracções, por sua iniciativa ou com base em queixas, de ordenar às empresas em causa que ponham termo às infracções e de aplicar coimas.\n\n(19) A Comissão deverá acompanhar periodicamente a aplicação do presente regulamento, em particular a sua eficácia na prevenção de práticas restritivas da concorrência e discriminatórias no mercado da distribuição de serviços de viagens através dos SIR, nomeadamente no caso de transportadoras com estreitas ligações a vendedores de sistemas.\n\n(20) O presente regulamento não prejudica a aplicação dos artigos 81.º e 82.º do Tratado. O presente regulamento complementa as regras gerais da concorrência, que se mantêm plenamente aplicáveis às práticas restritivas da concorrência, tais como práticas proibidas ou abusos de posição dominante.\n\n(21) A protecção das pessoas no que respeita ao tratamento dos dados pessoais é regida pela Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^6])](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntr6-L_2009035PT.01004701-E0006). As disposições do presente regulamento especificam e complementam a Directiva 95/46/CE no que respeita às actividades dos SIR.\n\n(22) O Regulamento (CEE) n.º 2299/89 deverá ser revogado,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "95110ef01b194c22": {
+   "fragment_id": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES INTRODUTÓRIAS"
+  },
+  "6eb6838864a5023f": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento aplica-se a qualquer sistema informatizado de reserva («SIR») que contenha produtos de transporte aéreo e seja proposto para utilização ou utilizado na Comunidade.\n\nO presente regulamento também se aplica aos produtos de transporte ferroviário que estejam incluídos nos produtos de transporte aéreo no ecrã principal de um SIR e sejam propostos para utilização ou utilizados na Comunidade."
+  },
+  "3872054812c6dd3c": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente regulamento, entende-se por:\n\n1. «Produto de transporte», o transporte de um passageiro entre dois aeroportos ou duas estações de caminhos-de-ferro;\n\n2. «Serviço aéreo regular», uma série de voos, todos eles com as seguintes características: a) Em cada voo, existem lugares e/ou capacidade para transporte de carga e/ou de correio disponíveis para compra individual pelo público (quer directamente à transportadora aérea, quer aos seus agentes autorizados); b) Funciona de modo a assegurar o tráfego entre os mesmos dois ou mais aeroportos: — de acordo com um horário publicado, ou — com voos tão regulares ou frequentes que constituam uma série reconhecidamente sistemática;\n\na) Em cada voo, existem lugares e/ou capacidade para transporte de carga e/ou de correio disponíveis para compra individual pelo público (quer directamente à transportadora aérea, quer aos seus agentes autorizados);\n\nb) Funciona de modo a assegurar o tráfego entre os mesmos dois ou mais aeroportos: — de acordo com um horário publicado, ou — com voos tão regulares ou frequentes que constituam uma série reconhecidamente sistemática;\n\n— de acordo com um horário publicado, ou\n\n— com voos tão regulares ou frequentes que constituam uma série reconhecidamente sistemática;\n\n3. «Tarifas», o preço a pagar pelos passageiros às transportadoras aéreas, aos operadores de transportes ferroviários, aos seus agentes ou a outros vendedores de bilhetes pelo respectivo transporte em serviços de transporte e as condições em que esse preço se aplica, incluindo a remuneração e as condições oferecidas às agências e a outros serviços auxiliares;\n\n4. «Sistema informatizado de reserva» ou «SIR», um sistema informatizado que contém, nomeadamente, informações sobre horários, disponibilidade e tarifas de mais do que uma transportadora aérea, com ou sem meios para fazer reservas ou emitir bilhetes, desde que alguns ou todos esses serviços sejam disponibilizados aos assinantes;\n\n5. «Vendedor de sistemas», qualquer entidade e suas filiais responsáveis pelo funcionamento ou a comercialização de um SIR;\n\n6. «Meios de distribuição», os meios fornecidos por um vendedor de sistemas para a prestação de informações acerca dos horários, da disponibilidade, das tarifas e de serviços afins das transportadoras aéreas e dos operadores de transportes ferroviários, para a realização de reservas e/ou emissão de bilhetes e para quaisquer outros serviços afins;\n\n7. «Transportadora-mãe», uma transportadora aérea ou um operador de transportes ferroviários que, directa ou indirectamente, individual ou conjuntamente, controla ou participa no capital com direitos ou representação no conselho de administração, no conselho fiscal ou em qualquer outro órgão dirigente de um vendedor de sistemas, bem como qualquer transportadora aérea ou operador de transportes ferroviários sob o seu controlo;\n\n8. «Participação no capital com direitos ou representação no conselho de administração, no conselho fiscal ou em qualquer outro órgão dirigente de um vendedor de sistemas», um investimento que tem associados direitos ou representação no conselho de administração, no conselho fiscal ou em qualquer outro órgão dirigente de um vendedor de sistemas, e que confere a possibilidade de exercer, individual ou conjuntamente, uma influência decisiva sobre as actividades do vendedor de sistemas;\n\n9. «Controlo», uma relação constituída por direitos, contratos ou quaisquer outros meios que, de forma individual ou combinada, e tendo em conta as circunstâncias de facto ou de direito envolvidas, confere a possibilidade de exercer uma influência decisiva sobre uma empresa, em especial mediante: a) A propriedade ou o direito de utilizar a totalidade ou parte dos activos da empresa; b) Direitos ou contratos que conferem uma influência decisiva na composição, votação ou decisões dos órgãos da empresa;\n\na) A propriedade ou o direito de utilizar a totalidade ou parte dos activos da empresa;\n\nb) Direitos ou contratos que conferem uma influência decisiva na composição, votação ou decisões dos órgãos da empresa;\n\n10. «Transportadora participante», uma transportadora aérea ou um operador de transportes ferroviários que tenha um acordo com um vendedor de sistemas para a distribuição dos seus produtos de transporte através de um SIR;\n\n11. «Assinante», uma pessoa ou uma empresa, distinta de uma transportadora participante, que utiliza um SIR mediante contrato com um vendedor de sistemas com o objectivo de efectuar reservas de produtos de transporte aéreo e de produtos afins em nome de um cliente;\n\n12. «Ecrã principal», um ecrã neutro e completo que apresenta dados sobre serviços de transporte entre pares de cidades dentro de um período de tempo especificado;\n\n13. «Bilhete», um documento válido ou um título equivalente em suporte duradouro, emitido ou autorizado por uma transportadora aérea, por um operador de transportes ferroviários ou por um agente autorizado, que confere direito a transporte;\n\n14. «Produto integrado», uma combinação previamente acordada de transporte com outros serviços não dependentes do transporte, oferecida a um preço global;\n\n15. «Taxa de reserva», o preço a pagar pelas transportadoras aéreas aos vendedores de sistemas pelos serviços prestados pelo SIR."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "685fce68bd8d0d02": {
+   "fragment_id": "REGRAS DE CONDUTA PARA OS VENDEDORES DE SISTEMAS",
+   "type": "divisao",
+   "heading": "REGRAS DE CONDUTA PARA OS VENDEDORES DE SISTEMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS DE CONDUTA PARA OS VENDEDORES DE SISTEMAS"
+  },
+  "4f8c822448b90704": {
+   "fragment_id": "Artigo 3.º — Relações com os fornecedores de serviços de transporte",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Relações com os fornecedores de serviços de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Relações com os fornecedores de serviços de transporte\n\n1. Um vendedor de sistemas não pode:\n\na) Associar condições injustas e/ou injustificadas aos contratos com as transportadoras participantes nem exigir a aceitação de condições suplementares que, pela sua natureza ou de acordo com as práticas comerciais habituais, não estejam relacionadas com a participação no seu SIR;\n\nb) Estabelecer como condição de participação no seu SIR que as transportadoras participantes não participem simultaneamente noutro sistema ou que não possam utilizar livremente sistemas alternativos de reservas, tais como sistemas próprios de reservas na Internet e centros de atendimento telefónico.\n\n2. Os vendedores de sistemas introduzem e processam com igual cuidado e no mesmo prazo os dados fornecidos pelas transportadoras participantes, apenas sob reserva das limitações resultantes do método de introdução escolhido por cada transportadora participante.\n\n3. Os vendedores de sistemas devem divulgar publicamente, salvo se tal for tornado público de outro modo, a participação e o nível de participação directa ou indirecta de uma transportadora aérea ou de um operador de transportes ferroviários no capital de um vendedor de sistemas, ou de um vendedor de sistemas no capital de uma transportadora aérea ou de um operador de transportes ferroviários."
+  },
+  "691897b1712cde62": {
+   "fragment_id": "Artigo 4.º — Meios de distribuição",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Meios de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios de distribuição\n\n1. Os vendedores de sistemas não podem reservar qualquer processo específico de introdução e/ou processamento de dados nem qualquer outro meio de distribuição, ou quaisquer modificações dos mesmos, para uma ou mais das transportadoras participantes, incluindo as suas transportadoras-mãe. Os vendedores de sistemas devem prestar informações acerca das alterações dos seus meios de distribuição ou dos seus processos de carregamento/processamento de dados a todas as transportadoras participantes.\n\n2. Os vendedores de sistemas devem garantir que os seus meios de distribuição sejam dissociados, pelo menos através de um programa informático e de um modo claro e verificável, do inventário, da gestão e dos meios de comercialização de qualquer transportadora."
+  },
+  "a95542885dba1869": {
+   "fragment_id": "Artigo 5.º — Ecrãs",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Ecrãs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ecrãs\n\n1. Os vendedores de sistemas devem apresentar um ecrã ou ecrãs principais para cada transacção através do seu SIR e incluir neles os dados fornecidos pelas transportadoras participantes de um modo neutro e completo, sem discriminações nem favoritismos. Os critérios a utilizar no ordenamento das informações não podem basear-se em qualquer factor directa ou indirectamente relacionado com a identidade da transportadora, e devem ser aplicados numa base não discriminatória a todas as transportadoras participantes. O ecrã ou ecrãs principais não devem induzir o utilizador em erro, devem ser facilmente acessíveis e devem respeitar as regras enunciadas no anexo I.\n\n2. No caso das informações fornecidas por um SIR ao consumidor, o assinante deve utilizar um ecrã neutro, de acordo com o disposto no n.º 1, a menos que seja necessário apresentar outro ecrã para satisfazer uma preferência manifestada por um consumidor.\n\n3. Os voos operados por transportadoras aéreas que são objecto de uma proibição de operação por força do Regulamento (CE) n.º 2111/2005 do Parlamento Europeu e do Conselho, de 14 de Dezembro de 2005, relativo ao estabelecimento de uma lista comunitária das transportadoras aéreas que são objecto de uma proibição de operação na Comunidade e à informação dos passageiros do transporte aéreo sobre a identidade da transportadora aérea operadora [([^7])](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntr7-L_2009035PT.01004701-E0007), devem ser clara e especificamente identificados no ecrã.\n\n4. Os vendedores de sistemas devem introduzir um símbolo específico no ecrã dos SIR, identificável pelos utilizadores para efeitos de informação sobre a identidade da transportadora aérea operadora, tal como previsto no artigo 11.º do Regulamento (CE) n.º 2111/2005.\n\n5. O presente artigo não se aplica aos SIR utilizados pelas transportadoras aéreas, pelos operadores de transportes ferroviários ou por um grupo de transportadoras aéreas ou de operadores de transportes ferroviários nos seus próprios escritórios e balcões de vendas ou nas suas próprias páginas de Internet claramente identificadas como tal."
+  },
+  "b6b7007482418c67": {
+   "fragment_id": "Artigo 6.º — Relações com os assinantes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relações com os assinantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relações com os assinantes\n\n1. Os vendedores de sistemas não podem incluir condições injustas e/ou injustificadas nos contratos celebrados com os assinantes, tais como a proibição de subscrever ou utilizar qualquer outro sistema ou sistemas, a exigência de aceitar condições suplementares que não tenham qualquer relação com a assinatura do seu SIR ou a obrigação de aceitar ofertas de equipamento técnico ou de programas informáticos.\n\n2. Se o assinante for uma empresa autónoma com menos de 50 assalariados cujo volume de negócios anual e/ou balanço anual total não exceda 10 milhões de EUR, pode rescindir o seu contrato com o vendedor do sistema mediante um pré-aviso máximo de três meses que expire o mais tardar no fim do primeiro ano desse contrato. Nesse caso, o vendedor do sistema não terá o direito de recuperar mais do que os custos directamente relacionados com a rescisão do contrato."
+  },
+  "2d5973ec099bb964": {
+   "fragment_id": "Artigo 7.º — Suportes magnéticos com dados comerciais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Suportes magnéticos com dados comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Suportes magnéticos com dados comerciais\n\n1. Os vendedores de sistemas podem disponibilizar dados comerciais, de reservas e de vendas desde que os facultem no mesmo prazo e numa base não discriminatória a todas as transportadoras participantes, incluindo as transportadoras-mãe. Os dados podem e, se tal for solicitado, devem abranger todas as transportadoras participantes e/ou os assinantes.\n\n2. As transportadoras participantes não podem utilizar esses dados para influenciar a escolha do assinante.\n\n3. Quando tais dados resultem da utilização dos meios de distribuição de um SIR por um assinante estabelecido na Comunidade, não podem incluir a identificação directa ou indirecta desse assinante, a menos que o assinante e o vendedor de sistemas estabeleçam de comum acordo as condições a que a correcta utilização desses dados deverá obedecer. Esta disposição é igualmente aplicável ao fornecimento de tais dados pelos vendedores de sistemas a terceiros que os utilizem para fins distintos da liquidação de facturas.\n\n4. Os acordos entre assinantes e vendedores de sistemas sobre suportes magnéticos com dados comerciais devem ser tornados públicos."
+  },
+  "3417c3bbf12d33de": {
+   "fragment_id": "Artigo 8.º — Tratamento equivalente em países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Tratamento equivalente em países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tratamento equivalente em países terceiros\n\n1. Sem prejuízo de acordos internacionais em que a Comunidade ou os Estados-Membros sejam Partes, caso o tratamento concedido às transportadoras aéreas comunitárias por um vendedor de sistemas que opere num país terceiro não seja equivalente ao tratamento concedido às transportadoras aéreas participantes do país terceiro no que respeita a qualquer questão que releve do presente regulamento, a Comissão pode exigir a todos os vendedores de sistemas que operam na Comunidade que concedam às transportadoras aéreas desse país terceiro um tratamento equivalente ao concedido às transportadoras aéreas comunitárias nesse país terceiro.\n\n2. A Comissão deve controlar a aplicação de qualquer tratamento discriminatório ou não equivalente de transportadoras aéreas comunitárias por parte de vendedores de sistemas em países terceiros. A pedido de um Estado-Membro ou por sua própria iniciativa, a Comissão deve investigar casos potenciais de discriminação de transportadoras aéreas comunitárias em SIR de países terceiros. Sempre que seja detectada uma discriminação, a Comissão deve informar os Estados-Membros e as partes interessadas antes de tomar uma decisão, e solicitar os seus comentários, realizando inclusivamente uma reunião com peritos competentes dos Estados-Membros."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "d1d3c981a07a4c90": {
+   "fragment_id": "REGRAS DE CONDUTA PARA OS FORNECEDORES DE SERVIÇOS DE TRANSPORTE",
+   "type": "divisao",
+   "heading": "REGRAS DE CONDUTA PARA OS FORNECEDORES DE SERVIÇOS DE TRANSPORTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS DE CONDUTA PARA OS FORNECEDORES DE SERVIÇOS DE TRANSPORTE"
+  },
+  "f3f3e78de3ac8fc2": {
+   "fragment_id": "Artigo 9.º — Dados fornecidos pelas transportadoras participantes",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Dados fornecidos pelas transportadoras participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dados fornecidos pelas transportadoras participantes\n\nAs transportadoras participantes e os intermediários que lidem com os dados devem assegurar que os dados transmitidos aos SIR sejam exactos e permitam aos vendedores de sistemas respeitar as regras constantes do anexo I."
+  },
+  "d29e8253517d5f38": {
+   "fragment_id": "Artigo 10.º — Regras específicas para as transportadoras-mãe",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Regras específicas para as transportadoras-mãe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regras específicas para as transportadoras-mãe\n\n1. Sem prejuízo da reciprocidade referida no n.º 2, uma transportadora-mãe não pode discriminar um SIR concorrente recusando-se a fornecer-lhe, a seu pedido e no mesmo prazo, as mesmas informações que fornece ao seu próprio SIR sobre horários, tarifas e disponibilidade dos seus próprios produtos de transporte, ou a distribuir os seus produtos de transporte através de outro SIR, ou recusando-se a aceitar ou a confirmar no mesmo prazo uma reserva efectuada através de um SIR concorrente para qualquer dos seus produtos de transporte distribuídos através do seu próprio SIR. A transportadora-mãe apenas é obrigada a aceitar e a confirmar as reservas que sejam conformes com as suas próprias tarifas e condições.\n\n2. Um SIR concorrente não pode recusar-se a armazenar dados relativos a horários, tarifas e lugares disponíveis no que se refere a serviços de transporte de uma transportadora-mãe, e deve introduzir e processar os dados com o mesmo cuidado e no mesmo prazo com que o faz para os seus outros clientes e assinantes em qualquer dos mercados, apenas sob reserva das limitações resultantes do método de introdução escolhido por cada transportadora.\n\n3. A transportadora-mãe não pode ser obrigada a aceitar quaisquer custos neste contexto, excepto no que se refere à reprodução das informações a prestar e às reservas aceites. A taxa de reserva a pagar a um SIR por uma reserva aceite efectuada nos termos do n.º 1 deve ser equivalente à taxa cobrada pelo mesmo SIR a outras transportadoras participantes por transacções equivalentes.\n\n4. Uma transportadora-mãe não pode favorecer, directa ou indirectamente, o seu próprio SIR fazendo depender a utilização de qualquer SIR específico por um assinante do recebimento de comissões ou de quaisquer outros incentivos ou desincentivos à venda dos seus produtos de transporte.\n\n5. Uma transportadora-mãe não pode favorecer, directa ou indirectamente, o seu próprio SIR exigindo a utilização de qualquer SIR específico por um assinante para a venda ou emissão de bilhetes para quaisquer produtos de transporte por ela directa ou indirectamente fornecidos."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "60d8e98ff59b26ba": {
+   "fragment_id": "PROTECÇÃO DOS DADOS PESSOAIS",
+   "type": "divisao",
+   "heading": "PROTECÇÃO DOS DADOS PESSOAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROTECÇÃO DOS DADOS PESSOAIS"
+  },
+  "55357cd0be7977ed": {
+   "fragment_id": "Artigo 11.º — Tratamento, acesso e armazenamento de dados pessoais",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Tratamento, acesso e armazenamento de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tratamento, acesso e armazenamento de dados pessoais\n\n1. Os dados pessoais recolhidos no decurso das actividades de um SIR com a finalidade de fazer reservas ou de emitir bilhetes para produtos de transporte devem ser tratados de forma compatível com esta finalidade. No que respeita ao tratamento desses dados, um vendedor de sistemas é considerado o responsável pelo tratamento dos dados na acepção da alínea d) do artigo 2.º da Directiva 95/46/CE.\n\n2. Os dados pessoais apenas podem ser tratados na medida em que tal seja necessário para a execução de um contrato no qual a pessoa em causa é parte ou para fins de tomada de medidas a pedido da pessoa em causa previamente à celebração de um contrato.\n\n3. Caso estejam envolvidas categorias especiais de dados referidas no artigo 8.º da Directiva 95/46/CE, tais dados apenas podem ser tratados se a pessoa em causa der o seu consentimento expresso e informado.\n\n4. As informações controladas pelo vendedor de sistemas, relativas a reservas individuais identificáveis, devem ser armazenadas *off-line* no prazo de 72 horas após a conclusão do último elemento da reserva individual e destruídas no prazo de três anos. O acesso a esses dados apenas é permitido em caso de litígio sobre a facturação.\n\n5. Os dados referentes à comercialização, reserva e venda disponibilizados por um vendedor de sistemas não podem incluir qualquer identificação, directa ou indirecta, de pessoas singulares ou, se aplicável, das organizações ou empresas por elas representadas.\n\n6. Se tal lhes for solicitado, os assinantes devem informar os consumidores do nome e endereço do vendedor de sistemas, dos objectivos do tratamento dos dados pessoais, da duração da retenção desses dados e dos meios ao dispor do titular dos dados para exercer o seu direito de acesso aos mesmos.\n\n7. Qualquer pessoa tem direito a aceder gratuitamente aos dados que lhe digam respeito, independentemente de estarem na posse do vendedor de sistemas ou do assinante.\n\n8. Os direitos reconhecidos no presente artigo são complementares e vigoram em paralelo com os direitos do titular dos dados consagrados pela Directiva 95/46/CE, pelas disposições nacionais aprovadas para lhe dar cumprimento e pelas disposições dos acordos internacionais de que a Comunidade é Parte.\n\n9. As disposições do presente regulamento especificam e complementam a Directiva 95/46/CE para efeitos do disposto no artigo 1.º. Salvo disposição em contrário, aplicam-se as definições dessa directiva. Caso as disposições específicas relativas ao tratamento de dados pessoais no contexto das actividades de um SIR estabelecidas no presente artigo não se apliquem, o presente regulamento não prejudica o disposto nessa directiva, nem as disposições nacionais aprovadas para lhe dar cumprimento, nem as disposições dos acordos internacionais de que a Comunidade é Parte.\n\n10. Caso um vendedor de sistemas opere bases de dados a diferentes títulos, designadamente como SIR ou como servidor de transportadoras aéreas, devem ser tomadas medidas técnicas e organizativas que impeçam que as normas relativas à protecção de dados sejam contornadas através da interconexão das bases de dados, a fim de assegurar que os dados pessoais só sejam acessíveis para a finalidade específica para a qual foram recolhidos."
+  },
+  "6ec5cbd7da702b7f": {
+   "fragment_id": "SECÇÃO 5",
+   "type": "divisao",
+   "heading": "SECÇÃO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 5"
+  },
+  "e630ff45a8a24326": {
+   "fragment_id": "AUDITORIA",
+   "type": "divisao",
+   "heading": "AUDITORIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AUDITORIA"
+  },
+  "47b8884bee5fcf54": {
+   "fragment_id": "Artigo 12.º — Auditor e relatório do auditor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Auditor e relatório do auditor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Auditor e relatório do auditor\n\n1. Cada vendedor de sistemas deve apresentar de quatro em quatro anos e, além disso, a pedido da Comissão, um relatório elaborado por um auditor independente que descreva em pormenor a sua estrutura de capital social e o seu modelo de governação. Os custos relacionados com o relatório do auditor ficam a cargo do vendedor de sistemas.\n\n2. O vendedor de sistemas deve informar a Comissão sobre a identidade do auditor antes da confirmação da nomeação. A Comissão pode objectar e, no prazo de dois meses, após consulta do auditor, do vendedor de sistemas e de qualquer outra parte que invoque um interesse legítimo, decide se o auditor deve ou não ser substituído."
+  },
+  "3db96b1fe22537aa": {
+   "fragment_id": "SECÇÃO 6",
+   "type": "divisao",
+   "heading": "SECÇÃO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 6"
+  },
+  "be30d84973d2e8af": {
+   "fragment_id": "INFRACÇÕES E SANÇÕES",
+   "type": "divisao",
+   "heading": "INFRACÇÕES E SANÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFRACÇÕES E SANÇÕES"
+  },
+  "62d537a25feadc96": {
+   "fragment_id": "Artigo 13.º — Infracções",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Infracções\n\nSe, na sequência de uma denúncia ou por iniciativa própria, a Comissão verificar a existência de uma infracção ao presente regulamento, pode exigir por meio de uma decisão que as empresas ou associações de empresas em causa ponham termo a essa infracção. As investigações respeitantes a qualquer infracção ao presente regulamento devem ter plenamente em conta os resultados de qualquer inquérito realizado em conformidade com os artigos 81.º e 82.º do Tratado."
+  },
+  "6be3c6c5efbb7337": {
+   "fragment_id": "Artigo 14.º — Poderes de investigação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Poderes de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Poderes de investigação\n\nNo desempenho das funções que lhe são atribuídas pelo presente regulamento, a Comissão pode exigir às empresas ou associações de empresas, mediante simples pedido ou por meio de uma decisão, que forneçam todas as informações necessárias, incluindo auditorias específicas realizadas, nomeadamente a respeito das matérias abrangidas pelos artigos 4.º, 7.º, 10.º e 11.º."
+  },
+  "eced37c5a2a6d1c8": {
+   "fragment_id": "Artigo 15.º — Coimas",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Coimas\n\n1. A Comissão pode aplicar às empresas e associações de empresas, mediante decisão, coimas até 10 % do volume total de negócios realizado durante o exercício precedente, caso infrinjam o presente regulamento deliberadamente ou por negligência.\n\n2. A Comissão pode aplicar às empresas e associações de empresas, mediante decisão, coimas até 1 % do volume total de negócios realizado durante o exercício precedente, caso forneçam informações incorrectas ou incompletas deliberadamente ou por negligência, ou não forneçam informações no prazo exigido, em resposta a um pedido formulado através de uma decisão aprovada em conformidade com o artigo 14.º.\n\n3. Quando se determinar o montante das coimas, deve tomar-se em consideração a gravidade e a duração da infracção.\n\n4. As coimas não são de natureza penal.\n\n5. O Tribunal de Justiça das Comunidades Europeias conhece com plena jurisdição dos recursos interpostos das decisões em que tenha sido aplicada uma coima pela Comissão. O Tribunal de Justiça pode anular, reduzir ou aumentar a coima."
+  },
+  "a0711a9f6eacc67d": {
+   "fragment_id": "Artigo 16.º — Procedimentos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimentos\n\n1. Antes de tomar as decisões previstas nos artigos 13.º e 15.º, a Comissão envia às empresas ou associações de empresas em causa uma declaração de objecções e dá-lhes a oportunidade de apresentarem as suas observações por escrito e, se assim o pedirem, em audição oral.\n\n2. A Comissão não revela informações que estejam abrangidas pela obrigação de sigilo profissional e que tenham sido obtidas nos termos do presente regulamento.\n\nQualquer pessoa que comunique informações à Comissão nos termos do presente regulamento deve identificar claramente as informações que considera confidenciais, apresentando as razões, e fornecer em separado uma versão não confidencial até à data fixada pela Comissão.\n\n3. Sempre que a Comissão considere, com base nas informações de que dispõe, que não existem motivos suficientes para dar seguimento a uma queixa, informa o autor da queixa das respectivas razões e estabelece um prazo para que este apresente, por escrito, as suas observações.\n\nSe o autor da queixa der a conhecer os seus pontos de vista dentro do prazo estabelecido pela Comissão e se as observações escritas por ele apresentadas não conduzirem a uma alteração da apreciação da queixa, a Comissão rejeita-a mediante decisão. Se o autor da queixa não apresentar as suas observações dentro do prazo fixado pela Comissão, considera-se que a queixa foi retirada.\n\nCaso formule uma declaração de objecções, a Comissão fornece ao autor da queixa uma cópia da versão não confidencial e estabelece um prazo para este lhe apresentar as suas observações por escrito.\n\n4. Caso lhe seja pedido, a Comissão faculta o acesso ao processo às partes às quais tenha sido enviada uma declaração de objecções e ao autor da queixa. O acesso é facultado após a notificação da declaração de objecções. O direito de acesso ao processo não abrange os dados sob sigilo comercial, outras informações confidenciais, nem documentos internos da Comissão.\n\n5. Se o considerar necessário, a Comissão pode ouvir outras pessoas singulares ou colectivas."
+  },
+  "65b6e817ec89da5b": {
+   "fragment_id": "SECÇÃO 7",
+   "type": "divisao",
+   "heading": "SECÇÃO 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 7"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "12876e5f24d8a900": {
+   "fragment_id": "Artigo 17.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\n1. É revogado o Regulamento (CEE) n.º 2299/89.\n\n2. As referências ao regulamento revogado entendem-se como sendo referências ao presente regulamento, devendo ser lidas segundo o quadro de correspondência constante do anexo II."
+  },
+  "3b4e7e803c90ddd2": {
+   "fragment_id": "Artigo 18.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revisão\n\n1. A Comissão acompanha regularmente a aplicação do presente regulamento, se necessário baseando-se em auditorias específicas, nos termos do artigo 14.º. A Comissão analisa, em particular, a eficácia do presente regulamento para garantir a não discriminação e a concorrência leal no mercado dos serviços de SIR.\n\n2. A Comissão apresenta oportunamente um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação do artigo 8.º no que respeita ao tratamento equivalente em países terceiros e propõe as medidas adequadas para atenuar as condições discriminatórias, incluindo a celebração ou alteração de acordos bilaterais de transportes aéreos entre a Comunidade e países terceiros.\n\n3. Até 29 de Março de 2013, a Comissão elabora um relatório sobre a aplicação do presente regulamento, que avalia a necessidade de o manter em vigor, de o alterar ou de o revogar."
+  },
+  "d4d6c5d7b8be0f69": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 29 de Março de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 14 de Janeiro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**A. VONDRA**\n\n---"
+  },
+  "c1069666f2ecf21f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntc1-L_2009035PT.01004701-E0001) [JO C 224 de 30.8.2008, p. 57](http://publications.europa.eu/resource/oj/JOC_2008_224_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntc2-L_2009035PT.01004701-E0002) [JO C 233 de 11.9.2008, p. 1](http://publications.europa.eu/resource/oj/JOC_2008_233_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntc3-L_2009035PT.01004701-E0003) Parecer do Parlamento Europeu de 4 de Setembro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 16 de Dezembro de 2008.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntc4-L_2009035PT.01004701-E0004) [JO L 220 de 29.7.1989, p. 1](http://publications.europa.eu/resource/oj/JOL_1989_220_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntc5-L_2009035PT.01004701-E0005) [JO L 293 de 31.10.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_293_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntc6-L_2009035PT.01004701-E0006) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019.02/DOC_1#ntc7-L_2009035PT.01004701-E0007) [JO L 344 de 27.12.2005, p. 15](http://publications.europa.eu/resource/oj/JOL_2005_344_R_TOC)."
+  },
+  "09cc6b788d5d2e97": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Janeiro de 2009\n\nrelativo a um código de conduta para os sistemas informatizados de reserva e que revoga o Regulamento (CEE) n.º 2299/89 do Conselho\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "d204e983c6565179": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente regulamento, entende-se por:\n\n1. «Produto de transporte», o transporte de um passageiro entre dois aeroportos ou duas estações de caminhos-de-ferro;\n\n2. «Serviço aéreo regular», uma série de voos, todos eles com as seguintes características:\n\na) Em cada voo, existem lugares e/ou capacidade para transporte de carga e/ou de correio disponíveis para compra individual pelo público (quer directamente à transportadora aérea, quer aos seus agentes autorizados);\n\nb) Funciona de modo a assegurar o tráfego entre os mesmos dois ou mais aeroportos:\n\n— de acordo com um horário publicado, ou\n\n— com voos tão regulares ou frequentes que constituam uma série reconhecidamente sistemática;\n\n3. «Tarifas», o preço a pagar pelos passageiros às transportadoras aéreas, aos operadores de transportes ferroviários, aos seus agentes ou a outros vendedores de bilhetes pelo respectivo transporte em serviços de transporte e as condições em que esse preço se aplica, incluindo a remuneração e as condições oferecidas às agências e a outros serviços auxiliares;\n\n4. «Sistema informatizado de reserva» ou «SIR», um sistema informatizado que contém, nomeadamente, informações sobre horários, disponibilidade e tarifas de mais do que uma transportadora aérea, com ou sem meios para fazer reservas ou emitir bilhetes, desde que alguns ou todos esses serviços sejam disponibilizados aos assinantes;\n\n5. «Vendedor de sistemas», qualquer entidade e suas filiais responsáveis pelo funcionamento ou a comercialização de um SIR;\n\n6. «Meios de distribuição», os meios fornecidos por um vendedor de sistemas para a prestação de informações acerca dos horários, da disponibilidade, das tarifas e de serviços afins das transportadoras aéreas e dos operadores de transportes ferroviários, para a realização de reservas e/ou emissão de bilhetes e para quaisquer outros serviços afins;\n\n7. «Transportadora-mãe», uma transportadora aérea ou um operador de transportes ferroviários que, directa ou indirectamente, individual ou conjuntamente, controla ou participa no capital com direitos ou representação no conselho de administração, no conselho fiscal ou em qualquer outro órgão dirigente de um vendedor de sistemas, bem como qualquer transportadora aérea ou operador de transportes ferroviários sob o seu controlo;\n\n8. «Participação no capital com direitos ou representação no conselho de administração, no conselho fiscal ou em qualquer outro órgão dirigente de um vendedor de sistemas», um investimento que tem associados direitos ou representação no conselho de administração, no conselho fiscal ou em qualquer outro órgão dirigente de um vendedor de sistemas, e que confere a possibilidade de exercer, individual ou conjuntamente, uma influência decisiva sobre as actividades do vendedor de sistemas;\n\n9. «Controlo», uma relação constituída por direitos, contratos ou quaisquer outros meios que, de forma individual ou combinada, e tendo em conta as circunstâncias de facto ou de direito envolvidas, confere a possibilidade de exercer uma influência decisiva sobre uma empresa, em especial mediante:\n\na) A propriedade ou o direito de utilizar a totalidade ou parte dos activos da empresa;\n\nb) Direitos ou contratos que conferem uma influência decisiva na composição, votação ou decisões dos órgãos da empresa;\n\n10. «Transportadora participante», uma transportadora aérea ou um operador de transportes ferroviários que tenha um acordo com um vendedor de sistemas para a distribuição dos seus produtos de transporte através de um SIR;\n\n11. «Assinante», uma pessoa ou uma empresa, distinta de uma transportadora participante, que utiliza um SIR mediante contrato com um vendedor de sistemas com o objectivo de efectuar reservas de produtos de transporte aéreo e de produtos afins em nome de um cliente;\n\n12. «Ecrã principal», um ecrã neutro e completo que apresenta dados sobre serviços de transporte entre pares de cidades dentro de um período de tempo especificado;\n\n13. «Bilhete», um documento válido ou um título equivalente em suporte duradouro, emitido ou autorizado por uma transportadora aérea, por um operador de transportes ferroviários ou por um agente autorizado, que confere direito a transporte;\n\n14. «Produto integrado», uma combinação previamente acordada de transporte com outros serviços não dependentes do transporte, oferecida a um preço global;\n\n15. «Taxa de reserva», o preço a pagar pelas transportadoras aéreas aos vendedores de sistemas pelos serviços prestados pelo SIR."
+  },
+  "fca4627add81cfe7": {
+   "fragment_id": "Artigo 3.º — Relações com os fornecedores de serviços de transporte",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Relações com os fornecedores de serviços de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Relações com os fornecedores de serviços de transporte\n\n1.\n\nUm vendedor de sistemas não pode:\n\na) Associar condições injustas e/ou injustificadas aos contratos com as transportadoras participantes nem exigir a aceitação de condições suplementares que, pela sua natureza ou de acordo com as práticas comerciais habituais, não estejam relacionadas com a participação no seu SIR;\n\nb) Estabelecer como condição de participação no seu SIR que as transportadoras participantes não participem simultaneamente noutro sistema ou que não possam utilizar livremente sistemas alternativos de reservas, tais como sistemas próprios de reservas na Internet e centros de atendimento telefónico.\n\n2. Os vendedores de sistemas introduzem e processam com igual cuidado e no mesmo prazo os dados fornecidos pelas transportadoras participantes, apenas sob reserva das limitações resultantes do método de introdução escolhido por cada transportadora participante.\n\n3. Os vendedores de sistemas devem divulgar publicamente, salvo se tal for tornado público de outro modo, a participação e o nível de participação directa ou indirecta de uma transportadora aérea ou de um operador de transportes ferroviários no capital de um vendedor de sistemas, ou de um vendedor de sistemas no capital de uma transportadora aérea ou de um operador de transportes ferroviários."
+  },
+  "a6c9064d46550e7e": {
+   "fragment_id": "Artigo 5.º — Ecrãs",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Ecrãs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ecrãs\n\n1. Os vendedores de sistemas devem apresentar um ecrã ou ecrãs principais para cada transacção através do seu SIR e incluir neles os dados fornecidos pelas transportadoras participantes de um modo neutro e completo, sem discriminações nem favoritismos. Os critérios a utilizar no ordenamento das informações não podem basear-se em qualquer factor directa ou indirectamente relacionado com a identidade da transportadora, e devem ser aplicados numa base não discriminatória a todas as transportadoras participantes. O ecrã ou ecrãs principais não devem induzir o utilizador em erro, devem ser facilmente acessíveis e devem respeitar as regras enunciadas no anexo I.\n\n2. No caso das informações fornecidas por um SIR ao consumidor, o assinante deve utilizar um ecrã neutro, de acordo com o disposto no n.º 1, a menos que seja necessário apresentar outro ecrã para satisfazer uma preferência manifestada por um consumidor.\n\n3. Os voos operados por transportadoras aéreas que são objecto de uma proibição de operação por força do Regulamento (CE) n.º 2111/2005 do Parlamento Europeu e do Conselho, de 14 de Dezembro de 2005, relativo ao estabelecimento de uma lista comunitária das transportadoras aéreas que são objecto de uma proibição de operação na Comunidade e à informação dos passageiros do transporte aéreo sobre a identidade da transportadora aérea operadora ([^1^](http://publications.europa.eu/resource/cellar/6858cb62-178a-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0001)), devem ser clara e especificamente identificados no ecrã.\n\n4. Os vendedores de sistemas devem introduzir um símbolo específico no ecrã dos SIR, identificável pelos utilizadores para efeitos de informação sobre a identidade da transportadora aérea operadora, tal como previsto no artigo 11.º do Regulamento (CE) n.º 2111/2005.\n\n5. O presente artigo não se aplica aos SIR utilizados pelas transportadoras aéreas, pelos operadores de transportes ferroviários ou por um grupo de transportadoras aéreas ou de operadores de transportes ferroviários nos seus próprios escritórios e balcões de vendas ou nas suas próprias páginas de Internet claramente identificadas como tal."
+  },
+  "d52919911e1954ea": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA Comissão pode solicitar a qualquer vendedor de sistemas que apresente um relatório elaborado por um auditor independente que descreva em pormenor a sua estrutura de propriedade e o seu modelo de governação. Os custos relacionados com o relatório do auditor ficam a cargo do vendedor de sistemas."
+  },
+  "297a00cb742d6cfe": {
+   "fragment_id": "Artigo 16.º — Procedimentos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimentos\n\n1. Antes de tomar as decisões previstas nos artigos 13.º e 15.º, a Comissão envia às empresas ou associações de empresas em causa uma declaração de objecções e dá-lhes a oportunidade de apresentarem as suas observações por escrito e, se assim o pedirem, em audição oral.\n\n2.\n\nA Comissão não revela informações que estejam abrangidas pela obrigação de sigilo profissional e que tenham sido obtidas nos termos do presente regulamento.\n\nQualquer pessoa que comunique informações à Comissão nos termos do presente regulamento deve identificar claramente as informações que considera confidenciais, apresentando as razões, e fornecer em separado uma versão não confidencial até à data fixada pela Comissão.\n\n3.\n\nSempre que a Comissão considere, com base nas informações de que dispõe, que não existem motivos suficientes para dar seguimento a uma queixa, informa o autor da queixa das respectivas razões e estabelece um prazo para que este apresente, por escrito, as suas observações.\n\nSe o autor da queixa der a conhecer os seus pontos de vista dentro do prazo estabelecido pela Comissão e se as observações escritas por ele apresentadas não conduzirem a uma alteração da apreciação da queixa, a Comissão rejeita-a mediante decisão. Se o autor da queixa não apresentar as suas observações dentro do prazo fixado pela Comissão, considera-se que a queixa foi retirada.\n\nCaso formule uma declaração de objecções, a Comissão fornece ao autor da queixa uma cópia da versão não confidencial e estabelece um prazo para este lhe apresentar as suas observações por escrito.\n\n4. Caso lhe seja pedido, a Comissão faculta o acesso ao processo às partes às quais tenha sido enviada uma declaração de objecções e ao autor da queixa. O acesso é facultado após a notificação da declaração de objecções. O direito de acesso ao processo não abrange os dados sob sigilo comercial, outras informações confidenciais, nem documentos internos da Comissão.\n\n5. Se o considerar necessário, a Comissão pode ouvir outras pessoas singulares ou colectivas."
+  },
+  "8b447e6aa12092c8": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 29 de Março de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "64e6c2f2680ad3a5": {
+   "fragment_id": "REGRAS APLICÁVEIS AOS ECRÃS PRINCIPAIS",
+   "type": "divisao",
+   "heading": "REGRAS APLICÁVEIS AOS ECRÃS PRINCIPAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS APLICÁVEIS AOS ECRÃS PRINCIPAIS\n\n1. Quando os preços são apresentados no ecrã principal, e/ou quando se escolhe um ordenamento por preços, os preços apresentados devem incluir as tarifas e todos os impostos, encargos, sobretaxas e taxas aplicáveis a pagar à transportadora aérea ou ao operador de transportes ferroviários que sejam inevitáveis e previsíveis no momento em que são apresentados no ecrã.\n\n2. Na compilação e na selecção de produtos de transporte para um determinado par de cidades a incluir num ecrã principal não é feita qualquer discriminação entre aeroportos ou estações ferroviárias que sirvam a mesma cidade.\n\n3. Os voos que não sejam serviços aéreos regulares devem ser claramente identificados. Os consumidores devem ter o direito de aceder, a seu pedido, a um ecrã principal limitado apenas aos serviços regulares ou não regulares.\n\n4. Os voos que impliquem escalas devem ser claramente identificados.\n\n5. Quando os voos forem operados por uma transportadora aérea que não seja a identificada pelo código de identificação da transportadora, a transportadora que opera efectivamente o voo deve ser claramente identificada. Esta exigência é aplicável em todos os casos, excepto em relação a acordos pontuais de curto prazo.\n\n6. As informações sobre produtos integrados não podem figurar no ecrã principal.\n\n7. Dependendo da escolha do assinante, as opções de viagem afixadas no ecrã principal são classificadas segundo as tarifas ou segundo a ordem seguinte: i) Opções de viagem sem escala, ordenadas pela hora de partida; ii) Todas as outras opções de viagem, ordenadas de acordo com o tempo de viagem.\n\n8. Excepto nos casos previstos no ponto 10, nenhuma opção de viagem pode figurar mais do que uma vez em qualquer ecrã principal.\n\n9. Quando se escolher um ordenamento de acordo com as alíneas i) e ii) do ponto 7 e quando o SIR propuser serviços ferroviários para o mesmo par de cidades, pelo menos o melhor serviço ferroviário ou aero-ferroviário é apresentado na primeira página do ecrã principal.\n\n10. Quando as transportadoras aéreas operarem ao abrigo de acordos de partilha de códigos, cada uma delas — num número máximo de duas — é autorizada a figurar num ecrã separado com o respectivo código de identificação. Quando estiverem envolvidas mais de duas transportadoras, a designação de ambas é da responsabilidade da transportadora que opere efectivamente o voo."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "cafc2bb685a2e4f6": {
+   "fragment_id": "QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO DE CORRESPONDÊNCIA\n\nRegulamento (CEE) n.º 2299/89 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º, n.^os^ 1 e 2 —\n\nArtigo 3.º, n.º 3 Artigo 3.º, n.º 1\n\nArtigo 3.º, n.º 4 Artigo 4.º, n.º 1\n\nArtigo 3.º-A Artigo 10.º, n.^os^ 1 e 3\n\nArtigo 4.º, n.º 1 Artigo 9.º\n\nArtigo 4.º, n.º 2 —\n\nArtigo 4.º, n.º 3 Artigo 3.º, n.º 2\n\nArtigo 4.º-A, n.^os^ 1 e 2 Artigo 4.º, n.º 1\n\nArtigo 4.º-A, n.º 3 Artigo 4.º, n.º 2\n\nArtigo 4.º-A, n.º 4 —\n\nArtigo 5.º Artigo 5.º\n\nArtigo 6.º Artigos 7.º e 11.º\n\nArtigo 7.º Artigo 8.º\n\nArtigo 8.º Artigo 10.º, n.^os^ 4 e 5\n\nArtigo 9.º Artigo 6.º\n\nArtigo 9.º-A Artigo 5.º, n.º 2, e artigo 11.º\n\nArtigo 10.º —\n\nArtigo 11.º Artigo 13.º\n\nArtigo 12.º Artigo 14.º\n\nArtigo 13.º Artigo 14.º\n\nArtigo 14.º Artigo 16.º, n.º 2\n\nArtigo 15.º Artigo 14.º\n\nArtigo 16.º Artigo 15.º, n.^os^ 1 a 4\n\nArtigo 17.º Artigo 15.º, n.º 5\n\nArtigo 18.º —\n\nArtigo 19.º Artigo 16.º, n.^os^ 1 e 5\n\nArtigo 20.º —\n\nArtigo 21.º —\n\nArtigo 21.º-A —\n\nArtigo 21.º-B —\n\nArtigo 22.º Artigo 11.º\n\nArtigo 23.º Artigo 18.º\n\nAnexo I Anexo I\n\n---"
+  },
+  "9787f3a00b95447e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6858cb62-178a-11ef-a251-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 344 de 27.12.2005, p. 15."
+  }
+ }
+}

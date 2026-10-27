@@ -1,0 +1,876 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:307671:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-66414721",
+ "dre_path": "/dr/detalhe/decreto-lei/109-2010-307671",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66396269",
+    "66396270",
+    "66396271",
+    "66396272",
+    "66396273",
+    "66396274",
+    "66421575",
+    "66421576",
+    "66421577",
+    "66421578",
+    "66421579",
+    "66421580",
+    "66421581",
+    "66421582",
+    "66421583",
+    "66421584",
+    "66421585",
+    "66421586",
+    "66421587",
+    "66421588",
+    "66421589",
+    "66421590",
+    "66421591",
+    "66421592",
+    "66421593",
+    "66421594",
+    "66421595",
+    "66421596",
+    "66421597",
+    "66421598",
+    "66421599",
+    "66421600",
+    "66421601",
+    "66421602",
+    "66421603",
+    "66421604",
+    "66421605"
+   ]
+  },
+  {
+   "date": "2011-05-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:287158:por",
+     "title": "Lei n.º 13/2011",
+     "published": "2011-04-29",
+     "dre_path": "/dr/detalhe/lei/13-2011-287158"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-A",
+    "Adita Artigo 26.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "66396269",
+    "66396270",
+    "66396271",
+    "66421616",
+    "66421617",
+    "66396274",
+    "66421575",
+    "66421576",
+    "66421577",
+    "66421578",
+    "66421579",
+    "66421580",
+    "66421581",
+    "66421582",
+    "66421583",
+    "66421584",
+    "66421585",
+    "66421586",
+    "66421587",
+    "66421588",
+    "66421589",
+    "66421590",
+    "66421591",
+    "66421626",
+    "66421592",
+    "66421593",
+    "66421594",
+    "66421595",
+    "66421596",
+    "66421597",
+    "66421598",
+    "66421599",
+    "66421600",
+    "66421601",
+    "66421622",
+    "66421623",
+    "66421624",
+    "66421606",
+    "66421604",
+    "66421605"
+   ]
+  },
+  {
+   "date": "2015-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66229856:por",
+     "title": "Decreto-Lei n.º 10/2015",
+     "published": "2015-01-16",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2015-66229856"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Capítulo II",
+    "Revoga Capítulo III",
+    "Revoga Capítulo IV",
+    "Revoga Capítulo V",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 26.º-A",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "66396269",
+    "115585115",
+    "115585116",
+    "115585117",
+    "115585118",
+    "115585119",
+    "115585120",
+    "115585121",
+    "115585122",
+    "115585123",
+    "115585124",
+    "115585125",
+    "115585126",
+    "115585127",
+    "115585128",
+    "115585129",
+    "115585130",
+    "115585131",
+    "115585132",
+    "115585133",
+    "115585134",
+    "115585135",
+    "115585136",
+    "115585137",
+    "115585138",
+    "115585139",
+    "115585140",
+    "115585141",
+    "115585142",
+    "66421597",
+    "66421598",
+    "66421599",
+    "115585143",
+    "115585144",
+    "115585145",
+    "115585146",
+    "115585147",
+    "66421606",
+    "66421604",
+    "66421605"
+   ]
+  }
+ ],
+ "fragments": {
+  "66396269": {
+   "fragment_id": "66414722",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 109/2010\n\nde 14 de Outubro\n\nOs princípios e os critérios que devem ser observados pelos regimes de acesso e de exercício de actividades de serviços estão estabelecidos no Decreto-Lei n.º 92/2010, de 26 de Julho, que transpôs a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro.\n\nMenos burocracia, procedimentos mais rápidos e acesso mais fácil ao exercício de actividades tornam o mercado de serviços mais competitivo, contribuindo para o crescimento económico e para a criação de emprego. Por outro lado, para além da competitividade do mercado dos serviços, garante-se ainda aos consumidores uma maior transparência e informação, proporcionando-lhes uma oferta mais ampla, diversificada e de qualidade superior.\n\nAssim, torna-se agora necessário adaptar o regime jurídico da actividade funerária, estabelecido pelo Decreto-Lei n.º 206/2001, de 27 de Julho, alterado pelo Decreto-Lei n.º 41/2005, de 18 de Fevereiro, aos princípios e às regras estabelecidos naquele decreto-lei e simplificar este mesmo regime no sentido de proporcionar às empresas e aos empresários um ambiente favorável à realização de negócios.\n\nDe facto, a evolução e a modernização desta actividade, designadamente com a prestação de novos serviços ao consumidor, exige a adaptação da regulamentação à realidade do sector, com salvaguarda da qualidade e da segurança necessárias a um serviço de interesse geral como o prestado pelas agências funerárias e associações mutualistas.\n\nEm primeiro lugar, são introduzidas novas áreas de actuação das entidades funerárias, onde releva, nomeadamente, a permissão de gestão e de exploração privada de cemitérios mediante concessão pública e a gestão e exploração de capelas e centros funerários, permitindo que as empresas do sector expandam a sua actividade e, por outro lado, ofereçam novos serviços aos cidadãos.\n\nEm segundo lugar, consagra-se a possibilidade de exercício da actividade funerária pelas associações mutualistas, no âmbito estrito das suas finalidades mutualistas e de prestação de serviços de carácter social aos respectivos associados, sujeitando-as ao cumprimento dos requisitos de qualidade e de transparência na prestação dos serviços funerários, protegendo o cidadão num momento da sua vida especialmente penoso.\n\nEm terceiro lugar, procede-se à simplificação do procedimento de registo de forma desmaterializada junto da Direcção-Geral das Actividades Económicas (DGAE), dispensando-se, igualmente, os interessados do fornecimento da informação que possa ser facultada por outros organismos da Administração Pública.\n\nEm quarto lugar, exige-se que o responsável técnico detenha habilitação do nível de qualificação específico requerido para o exercício do cargo, por via de formação adequada ao regime instituído pelo Decreto-Lei n.º 396/2007, de 31 de Dezembro.\n\nPor último, é ainda consagrada a possibilidade de cada responsável técnico ter a seu cargo o máximo de três estabelecimentos, embora, por razões de interesse público, se tenha circunscrito a sua localização no mesmo distrito, de forma a garantir uma efectiva gestão técnica.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Protecção de Dados.\n\nForam, ainda, ouvidas a título facultativo, a UMP - União das Mutualidades Portuguesas, a Associação Nacional de Empresas Lutuosas, a Associação de Agentes Funerários do Centro, a Associação dos Agentes Funerários de Portugal e a Associação Portuguesa dos Profissionais do Sector Funerário.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "66396270": {
+   "fragment_id": "66414723",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "66396271": {
+   "fragment_id": "66414724",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime jurídico de acesso e de exercício à actividade funerária.\n\n2 - O presente decreto-lei transpõe ainda para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro.\n\n3 - Sem prejuízo do disposto no presente decreto-lei, ao exercício da actividade funerária é ainda aplicável o regime jurídico da remoção, transporte, inumação, exumação e trasladação de cadáveres, ossadas, cinzas, fetos mortos e peças anatómicas, estabelecido pelo Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelos Decretos-Leis n.os 5/2000, de 29 de Janeiro, e 138/2000, de 13 de Julho, e pela Lei n.º 30/2006, de 11 de Julho, e respectiva legislação complementar, bem como o regime previsto em convenções internacionais quanto ao transporte transfronteiras."
+  },
+  "66396272": {
+   "fragment_id": "66414725",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito objectivo\n\n1 - A actividade funerária consiste na prestação de qualquer dos serviços relativos à organização e à realização de funerais, de transporte, de inumação, de exumação, de cremação, de expatriação e de trasladação de cadáveres ou de restos mortais já inumados.\n\n2 - Em complemento à actividade funerária podem ser exercidas as seguintes actividades conexas:\n\na) Remoção de cadáveres, nos termos previstos no artigo 5.º do Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelo Decreto-Lei n.º 5/2000, de 29 de Janeiro;\n\nb) Transporte de cadáveres para além das situações previstas no número anterior, designadamente dos estabelecimentos hospitalares para as delegações e dos gabinetes médico-legais do Instituto Nacional de Medicina Legal, I. P., para a realização de autópsia médico-legal;\n\nc) Preparação e conservação temporária de cadáveres, excepto o embalsamamento de cadáveres que tenham sido objecto de autópsia médico-legal, caso em que só pode ser efectuado com autorização da competente autoridade judiciária;\n\nd) Obtenção da documentação necessária à prestação dos serviços referidos neste artigo;\n\ne) Venda ao público de artigos funerários e religiosos;\n\nf) Aluguer ou cedência a outras agências funerárias de veículos destinados à realização de funerais e de artigos funerários e religiosos;\n\ng) Ornamentação, armação e decoração de actos fúnebres e religiosos;\n\nh) Gestão e exploração de capelas e centros funerários, próprios ou alheios;\n\ni) Cremação em centro funerário de restos mortais não inumados ou provenientes de exumação;\n\nj) Gestão, exploração e conservação de cemitérios, nos termos das concessões de serviço público que vierem a ser aprovadas.\n\n3 - Para efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Cadáver» o corpo humano após a morte, até estarem terminados os fenómenos de destruição da matéria orgânica;\n\nb) «Conservação temporária de cadáveres» o acondicionamento de cadáveres em condições que permitam a sua conservação até ao momento da realização das exéquias fúnebres;\n\nc) «Preparação de cadáveres» as operações realizadas sobre cadáveres, tendentes à sua conservação, melhoria do seu aspecto exterior, nomeadamente, a higienização do cadáver, a aplicação de material conservante, o embalsamamento, a restauração facial e a tanatoestética através da aplicação de cosméticos e colocação em urna para realização do funeral;\n\nd) «Artigos funerários e religiosos» os artigos destinados a utilização em exéquias fúnebres, nos actos ou cerimónias religiosas, nomeadamente os constantes do anexo i do presente decreto-lei, do qual faz parte integrante;\n\ne) «Agência funerária» a pessoa singular ou colectiva que tenha por actividade principal a actividade referida no n.º 1;\n\nf) «Centro funerário» o edifício destinado exclusivamente à prestação integrada de serviços fúnebres, podendo incluir a conservação temporária e a preparação de cadáveres, a celebração de exéquias fúnebres e a cremação de restos mortais não inumados ou provenientes de exumação."
+  },
+  "66396273": {
+   "fragment_id": "66414726",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito subjectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito subjectivo\n\n1 - A actividade funerária apenas pode ser exercida pelas agências funerárias e pelas associações mutualistas, nos termos do presente decreto-lei.\n\n2 - As associações mutualistas apenas podem exercer a actividade funerária no âmbito das suas finalidades mutualistas e de prestação de serviços de carácter social aos respectivos associados."
+  },
+  "66396274": {
+   "fragment_id": "66414727",
+   "type": 1,
+   "heading": "Capítulo II — Acesso e exercício da actividade funerária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso e exercício da actividade funerária"
+  },
+  "66421575": {
+   "fragment_id": "66414728",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos\n\n1 - Para o acesso e o exercício da actividade funerária, as agências funerárias ou as associações mutualistas devem:\n\na) Ter um responsável técnico, nos termos do artigo 5.º;\n\nb) Dispor de mostruário diversificado de artigos fúnebres sob a forma de expositor físico, informático ou outro, sendo obrigatória a sua existência sob a forma de catálogo, de modo a garantir ao destinatário do serviço mais de uma alternativa de escolha quando a contratação ocorrer fora das respectivas instalações;\n\nc) Garantir o transporte de cadáveres ou de restos mortais já inumados em condições de segurança e de respeito pela dignidade humana e, quando for o caso, mediante viatura em bom estado de conservação e homologada para o serviço funerário, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), nos termos do Decreto-Lei n.º 16/2010, de 12 de Março;\n\nd) No que diz respeito à actividade de preparação de cadáveres, garantir que os profissionais em causa e os locais de exercício dessa actividade cumprem os requisitos para a prática da tanatopraxia, previstos em portaria dos membros de Governo responsáveis pelas áreas da justiça, da economia e da saúde;\n\ne) Possuir pelo menos um estabelecimento aberto ao público, em território nacional, dotado de instalações autónomas e exclusivamente afectas à actividade funerária.\n\n2 - Para o exercício das actividades referidas nos n.os 1 e 2 do artigo 2.º, as agências funerárias e as associações mutualistas devem igualmente:\n\na) Garantir as condições adequadas à observação, por parte dos trabalhadores, das precauções universais aplicáveis na utilização e na manipulação de agentes biológicos, nomeadamente no que respeita à disponibilização e à utilização de equipamentos de protecção individual, quando não for possível adoptar medidas de protecção colectiva;\n\nb) Fazer cumprir as regras de segurança na utilização de produtos químicos e garantir o cumprimento das indicações do fabricante;\n\nc) Garantir as medidas de primeiros socorros apropriadas em caso de acidente com exposição a agentes químicos ou biológicos;\n\nd) Garantir as medidas adequadas de prevenção dos riscos ambientais para a saúde pública decorrentes das actividades referidas nas alíneas a), b), c), i) e j) do n.º 2 do artigo 2.º\n\n3 - Para efeitos do disposto no presente decreto-lei, entende-se por estabelecimento toda a instalação física, de carácter fixo e permanente, onde seja exercida, de modo habitual e profissional, a actividade funerária."
+  },
+  "66421576": {
+   "fragment_id": "66414729",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsável técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsável técnico\n\n1 - O responsável técnico deve ser habilitado com nível de qualificação específico para o exercício do cargo, com curso de formação realizado por entidade formadora certificada para o efeito, de acordo com o Catálogo Nacional de Qualificações, definido ao abrigo do Decreto-Lei n.º 396/2007, de 31 de Dezembro.\n\n2 - Deve ser apresentado à Direcção-Geral das Actividades Económicas (DGAE) documento comprovativo da frequência com aproveitamento do curso de formação profissional referido no número anterior.\n\n3 - Cada responsável técnico não pode ter a seu cargo mais de três estabelecimentos, incluindo a sede social ou locais destinados à realização de velórios, os quais se devem localizar dentro do mesmo distrito."
+  },
+  "66421577": {
+   "fragment_id": "66414730",
+   "type": 11,
+   "heading": "Artigo 6.º — Estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estabelecimentos\n\nOs estabelecimentos explorados por agências funerárias ou por associações mutualistas que desenvolvam a actividade funerária, bem como todos os locais de que se faça uso na realização de velórios, devem assegurar a privacidade, o conforto e a segurança dos utilizadores."
+  },
+  "66421578": {
+   "fragment_id": "66414731",
+   "type": 11,
+   "heading": "Artigo 7.º — Período de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Período de funcionamento\n\nOs estabelecimentos das agências funerárias e das associações mutualistas afectos à actividade funerária não estão sujeitos aos períodos de funcionamento previstos no Decreto-Lei n.º 48/96, de 15 de Maio, alterado pelos Decretos-Leis n.os 126/96, de 10 de Agosto, e 216/96, 20 de Novembro, podendo estar abertos ao público de forma permanente."
+  },
+  "66421579": {
+   "fragment_id": "66414732",
+   "type": 11,
+   "heading": "Artigo 8.º — Livre prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Livre prestação de serviços\n\n1 - Os prestadores legalmente estabelecidos noutro Estado membro da União Europeia ou do espaço económico europeu para a prática da actividade funerária podem exercê-la livremente em território nacional, sem necessidade de inscrição no registo previsto no artigo seguinte.\n\n2 - A prestação de serviços realizada nos termos do número anterior fica sujeita:\n\na) Ao regime jurídico da remoção, transporte, inumação, exumação, trasladação e cremação de cadáveres, aprovado pelo Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelos Decretos-Leis n.os 5/2000, de 29 de Janeiro, e 138/2000, de 13 de Julho, e pela Lei n.º 30/2006, de 11 de Julho;\n\nb) Aos requisitos para o acesso e exercício da actividade constantes das alíneas b), c) e d) do n.º 1 e do n.º 2 do artigo 4.º, com excepção do relativo à homologação da viatura;\n\nc) Ao disposto no artigo 6.º sobre os locais utilizados para a realização de velórios;\n\nd) Ao dever de identificação referido no artigo 15.º, sendo o número de registo na DGAE substituído pela apresentação do número de registo no Estado membro de origem, se existente;\n\ne) Às condições de acesso às casas mortuárias, aos serviços hospitalares, aos serviços médico-legais ou aos lares de idosos referidas no n.º 2 do artigo 16.º;\n\nf) Aos deveres constantes no artigo 18.º\n\n3 - No caso de explorarem estabelecimentos em território nacional, os prestadores referidos no n.º 1 devem observar o disposto no artigo 6.º no que se refere a essas instalações e comunicar à DGAE a sua abertura ou encerramento ao público, no prazo de 30 dias, nos termos da alíneas a) e b) do n.º 3 do artigo 9.º, aplicando-se-lhes igualmente o artigo 7.º, quanto ao período de funcionamento.\n\n4 - Os estabelecimentos referidos no número anterior devem ser exclusivamente afectos à actividade funerária e às actividades conexas."
+  },
+  "66421580": {
+   "fragment_id": "66414733",
+   "type": 1,
+   "heading": "Capítulo III — Registo da actividade funerária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo da actividade funerária"
+  },
+  "66421581": {
+   "fragment_id": "66414734",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo\n\n1 - As agências funerárias e as associações mutualistas que desenvolvam a actividade funerária devem registar a sua actividade junto da DGAE.\n\n2 - O registo da actividade funerária tem como objectivos:\n\na) Identificar os profissionais do sector perante as autoridades e terceiros;\n\nb) Identificar e caracterizar o universo de agentes económicos que exercem a actividade funerária com vista à constituição de uma base de informação que permita a realização de estudos sobre o sector e o acompanhamento da sua evolução.\n\n3 - Para efeitos de registo, os interessados devem comunicar à DGAE, através do formulário electrónico disponível no seu sítio da Internet, no prazo de 30 dias contados da data da ocorrência dos seguintes factos:\n\na) Abertura do estabelecimento;\n\nb) Encerramento do estabelecimento;\n\nc) Mudança de titular do estabelecimento;\n\nd) Mudança de nome ou de insígnia do estabelecimento;\n\ne) Designação e mudança de responsável técnico.\n\n4 - Após a entrega do formulário referido no número anterior, a DGAE atribui imediatamente, por via electrónica, um número de registo ao interessado.\n\n5 - A efectiva inscrição no registo, por parte da DGAE, não é condição para o legal exercício da actividade."
+  },
+  "66421582": {
+   "fragment_id": "66414735",
+   "type": 11,
+   "heading": "Artigo 10.º — Verificação da informação para inscrição no registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Verificação da informação para inscrição no registo\n\n1 - A DGAE verifica a informação constante do requerimento de registo da actividade funerária através:\n\na) Do código de acesso à certidão permanente do registo comercial, disponibilizado pelo interessado, no caso de pessoa colectiva;\n\nb) Da declaração de registo de início de actividade, no caso de pessoa singular, e dos documentos da segurança social comprovativos do tempo de serviço na categoria profissional dos trabalhadores.\n\n2 - A verificação da certidão permanente pode igualmente ser efectuada de forma automática, através da ligação com a base de dados do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), nos termos a definir em protocolo entre este, a DGAE e o Instituto das Tecnologias de Informação na Justiça, I. P. (ITIJ, I. P.).\n\n3 - A verificação do tempo de serviço na categoria profissional de agente funerário, relativamente aos trabalhadores e aos empresários em nome individual, é efectuada de forma automática, através da ligação com a base de dados da segurança social, nos termos a definir em protocolo a celebrar entre a DGAE e o Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n4 - A verificação da informação relativa ao início ou ao encerramento de actividade é feita de forma automática, através da ligação com a base de dados dos contribuintes da Direcção-Geral dos Impostos (DGCI), nos termos a definir em protocolo assinado entre a DGAE, a DGCI e a Direcção-Geral da Informática Tributária e Aduaneira (DGITA).\n\n5 - A verificação da informação relativa ao exercício da actividade funerária pelas associações mutualistas é feita nos termos a definir em protocolo a estabelecer entre a DGAE e a Direcção-Geral da Segurança Social (DGSS).\n\n6 - Os protocolos referidos nos números anteriores são submetidos a prévia apreciação da Comissão Nacional de Protecção de Dados."
+  },
+  "66421583": {
+   "fragment_id": "66414736",
+   "type": 11,
+   "heading": "Artigo 11.º — Dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dados pessoais\n\n1 - A DGAE é a entidade responsável, nos termos e para os efeitos previstos na Lei de Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro, pelo tratamento e pela protecção dos dados pessoais recolhidos para os fins previstos no n.º 2 do artigo 9.º\n\n2 - São objecto de tratamento, para efeitos do registo da actividade funerária, os dados pessoais constantes do respectivo formulário, os quais podem ser transmitidos às autoridades fiscalizadoras, quando solicitados.\n\n3 - As agências funerárias e as associações mutualistas que desenvolvam a actividade funerária têm o direito de, a todo o tempo, verificar os seus dados pessoais na posse da DGAE e solicitar a sua rectificação quando os mesmos estejam incompletos ou inexactos."
+  },
+  "66421584": {
+   "fragment_id": "66414737",
+   "type": 11,
+   "heading": "Artigo 12.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Segurança da informação\n\nA DGAE adopta as medidas técnicas e organizativas adequadas para proteger os dados contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizados, nos termos da Lei de Protecção de Dados Pessoais."
+  },
+  "66421585": {
+   "fragment_id": "66414738",
+   "type": 11,
+   "heading": "Artigo 13.º — Conservação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conservação dos dados\n\n1 - Os dados constantes do registo previsto no artigo 9.º são conservados enquanto a actividade funerária se mantiver activa, sem prejuízo do disposto no número seguinte.\n\n2 - Após a cessação da actividade funerária, os dados são conservados durante 10 anos, prazo de conservação de registos e de licenciamentos, previsto na Portaria n.º 740/2009, de 10 de Julho."
+  },
+  "66421586": {
+   "fragment_id": "66414739",
+   "type": 11,
+   "heading": "Artigo 14.º — Balcão único electrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Balcão único electrónico\n\n1 - A tramitação dos procedimentos de registo previstos no presente decreto-lei deve ser realizada de forma desmaterializada nos sítios da Internet do balcão único electrónico dos serviços e da DGAE, igualmente acessível através do Portal da Empresa.\n\n2 - O balcão único e o sítio da DGAE disponibilizam, para consulta, informação actualizada do registo das agências funerárias e das associações mutualistas onde constam os seguintes elementos:\n\na) Número de registo na DGAE;\n\nb) Denominação da empresa ou de associação mutualista e respectivas moradas;\n\nc) Nome e insígnia de cada estabelecimento e respectivas moradas."
+  },
+  "66421587": {
+   "fragment_id": "66414740",
+   "type": 11,
+   "heading": "Artigo 15.º — Dever de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Dever de identificação\n\n1 - As agências funerárias e as associações mutualistas que desenvolvam a actividade funerária devem fornecer a sua identificação fiscal e o número de registo na DGAE sempre que, no exercício da sua actividade, tenham que praticar actos ou efectuar requerimentos junto das várias entidades com quem tenham de contactar, como cemitérios, serviços médico-legais, delegações de saúde, conservatórias, autarquias locais, autoridades policiais, embaixadas, casas mortuárias, instituições hospitalares, lares de idosos, ou outras.\n\n2 - As agências funerárias e as associações mutualistas devem mencionar de forma visível o número de registo na DGAE nos orçamentos, nas facturas e nos recibos que emitem, aquando da prestação dos serviços funerários."
+  },
+  "66421588": {
+   "fragment_id": "66414741",
+   "type": 1,
+   "heading": "Capítulo IV — Direitos dos destinatários dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Direitos dos destinatários dos serviços"
+  },
+  "66421589": {
+   "fragment_id": "66414742",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito de escolha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito de escolha\n\n1 - É proibido aos estabelecimentos hospitalares, lares de idosos e equipamentos similares, organizar ou implementar escalas de agências funerárias, destinadas à prestação preferencial ou exclusiva de quaisquer serviços funerários junto dos respectivos utentes e familiares.\n\n2 - O acesso a casas mortuárias, aos serviços hospitalares, aos serviços médico-legais ou aos lares de idosos por parte do pessoal das agências funerárias ou das associações mutualistas, no exercício da actividade funerária, só é permitido para a obtenção de documentação referente ao óbito indispensável para a realização do funeral e desde que cumprido o disposto no artigo anterior.\n\n3 - Para efeitos do disposto no presente decreto-lei, entende-se por pessoal da agência funerária ou das associações mutualistas todos os trabalhadores ou colaboradores de agências funerárias ou de associações mutualistas afectos à actividade funerária, independentemente do respectivo vínculo jurídico.\n\n4 - A escolha de agência funerária por estabelecimento hospitalar ou lares de idosos só é permitida, nos termos previstos nos Decretos-Leis n.os 248/83, de 9 de Junho, e 206/2001, de 27 de Julho, nos casos em que não exista qualquer familiar ou outra pessoa conhecida que assuma a responsabilidade pela contratação do funeral."
+  },
+  "66421590": {
+   "fragment_id": "66414743",
+   "type": 11,
+   "heading": "Artigo 17.º — Funeral social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funeral social\n\n1 - As agências funerárias devem dispor obrigatoriamente de um serviço básico de funeral social, disponível para o município onde está sediada a agência.\n\n2 - As componentes que integram o serviço básico de funeral social, bem como o seu preço máximo, são definidos por portaria do membro do Governo responsável pela área da economia."
+  },
+  "66421591": {
+   "fragment_id": "66414744",
+   "type": 11,
+   "heading": "Artigo 18.º — Deveres das agências funerárias e das associações mutualistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Deveres das agências funerárias e das associações mutualistas\n\nNo exercício da sua actividade, as agências funerárias e as associações mutualistas que desenvolvam a actividade funerária devem:\n\na) Dar aos destinatários do serviço informações claras e precisas sobre preços e demais condições dos serviços prestados, designadamente, quanto à existência e conteúdo do serviço de funeral social, quando aplicável;\n\nb) Apresentar orçamento escrito do qual deve constar o preço total do serviço de funeral, discriminado por componentes e a identificação do prestador do serviço nomeadamente, a respectiva denominação, morada, número fiscal e número de registo na DGAE;\n\nc) Guardar sigilo relativamente a todas as condições dos serviços prestados, salvo instruções do cliente em contrário ou intimação judicial;\n\nd) Abster-se de usar serviços de terceiros que não sejam compatíveis com as características da actividade funerária;\n\ne) Abster-se de contactar, por si ou através de terceiros, a família do falecido, as entidades gestoras de lares ou de hospitais, bem como quaisquer funcionários das mesmas, com o intuito de obter a encomenda da organização do funeral, sem que os seus serviços tenham sido previamente solicitados para o efeito."
+  },
+  "66421592": {
+   "fragment_id": "66414745",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização e regime sancionatório"
+  },
+  "66421593": {
+   "fragment_id": "66414746",
+   "type": 11,
+   "heading": "Artigo 19.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente decreto-lei é da competência da Autoridade de Segurança Alimentar e Económica (ASAE)."
+  },
+  "66421594": {
+   "fragment_id": "66414747",
+   "type": 11,
+   "heading": "Artigo 20.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contra-ordenações\n\n1 - As infracções ao disposto no presente decreto-lei constituem contra-ordenações nos termos dos números seguintes, sem prejuízo da aplicação de pena ou sanção mais grave que lhes couber por força de outra disposição legal.\n\n2 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 1250 e de (euro) 1000 a (euro) 5000, consoante se trate, respectivamente, de pessoas singulares ou de pessoas colectivas, a violação do disposto no n.º 2 do artigo 3.º, na alínea b) do n.º 1 do artigo 4.º, no artigo 15.º, nas alíneas a) a d) do artigo 18.º e no n.º 2 do artigo 25.º\n\n3 - Constitui contra-ordenação punível com coimas de (euro) 1250 a (euro) 2500 e de (euro) 2500 a (euro) 25 000, consoante se trate, respectivamente, de pessoas singulares ou de pessoas colectivas, a violação do disposto na alínea c) do n.º 1 e no n.º 2 do artigo 4.º, no n.º 3 do artigo 5.º, no artigo 6.º, nos n.os 1 e 3 do artigo 9.º, nos n.os 1, 2 e 4 do artigo 16.º, no n.º 1 do artigo 17.º e na alínea e) do artigo 18.º\n\n4 - Constitui contra-ordenação punível com coimas de (euro) 2500 a (euro) 3700 e de (euro) 5000 a (euro) 44 500, consoante se trate, respectivamente, de pessoas singulares ou de pessoas colectivas, a violação do disposto no n.º 1 do artigo 3.º, nas alíneas a), d) e e) do n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º\n\n5 - A tentativa e a negligência são puníveis nos termos gerais."
+  },
+  "66421595": {
+   "fragment_id": "66414748",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução dos processos de contra-ordenação e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução dos processos de contra-ordenação e aplicação das coimas\n\n1 - A instrução dos processos de contra-ordenação compete à ASAE e a aplicação das coimas à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP).\n\n2 - O produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a ASAE;\n\nc) 10 % para a CACMEP;\n\nd) 10 % para a DGAE."
+  },
+  "66421596": {
+   "fragment_id": "66414749",
+   "type": 11,
+   "heading": "Artigo 22.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sanções acessórias\n\n1 - Quando, por violação da alínea e) do n.º 1 do artigo 4.º, a culpa do agente e a gravidade da infracção o justificarem pode ser aplicada a sanção acessória de interdição do exercício da actividade, por um período até dois anos, contado da data da decisão condenatória definitiva.\n\n2 - A CACMEP pode determinar que a decisão condenatória seja publicada."
+  },
+  "66421597": {
+   "fragment_id": "66414750",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "66421598": {
+   "fragment_id": "66414751",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Decreto-Lei n.º 411/98, de 30 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Decreto-Lei n.º 411/98, de 30 de Dezembro\n\nOs artigos 2.º, 4.º, 9.º, 18.º, 25.º, 29.º e 31.º do Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelos Decretos-Leis n.os 5/2000, de 29 de Janeiro, e 138/2000, de 13 de Julho, e pela Lei n.º 30/2006, de 11 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) Entidade responsável pela administração de um cemitério: a câmara municipal ou a junta de freguesia, consoante o cemitério em causa pertença ao município ou à freguesia, ou as entidades a quem seja atribuída a administração do mesmo, por concessão de serviço público;\n\nn) Centro funerário: edifício destinado exclusivamente à prestação integrada de serviços fúnebres, podendo incluir, a conservação temporária e preparação de cadáveres, a celebração de exéquias fúnebres e a cremação de restos mortais não inumados ou provenientes de exumação.\n\nArtigo 4.º\n\n[...]\n\n1 - A inumação e a cremação devem ser requeridas à entidade responsável pela administração do cemitério ou do centro funerário, onde as mesmas tiverem lugar, em modelo constante do anexo i do presente decreto-lei, do qual faz parte integrante.\n\n2 - A exumação e a trasladação devem ser requeridas à entidade responsável pela administração do cemitério onde o cadáver ou as ossadas estiverem inumadas, em modelo constante do anexo i do presente decreto-lei.\n\n3 - ...\n\n4 - ...\n\nArtigo 9.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - A entidade responsável pela administração do cemitério ou do centro funerário procede ao arquivamento do boletim de óbito.\n\n8 - ...\n\nArtigo 18.º\n\n[...]\n\nA cremação é feita em cemitério ou em centro funerário que disponha de equipamento que obedeça às regras definidas em portaria dos membros do Governo responsáveis pela área do ambiente e do ordenamento do território e da saúde.\n\nArtigo 25.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Constitui contra-ordenação ambiental grave, nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, a prática das actividades de cremação fora dos locais previstos para o efeito ou em incumprimento das regras estabelecidas no artigo 18.º\n\n4 - (Anterior n.º 3.)\n\nArtigo 29.º\n\nDestino do produto das coimas\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - A afectação do produto das coimas resultante da aplicação das contra-ordenações ambientais previstas no n.º 3 do artigo 25.º é feita nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto.\n\nArtigo 31.º\n\n[...]\n\nO requerimento para inumação, cremação, exumação e trasladação a que se refere o artigo 4.º obedece ao modelo previsto no anexo i do presente decreto-lei.»"
+  },
+  "66421599": {
+   "fragment_id": "66414752",
+   "type": 11,
+   "heading": "Artigo 24.º — Alteração ao anexo i do Decreto-Lei n.º 411/98, de 30 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alteração ao anexo i do Decreto-Lei n.º 411/98, de 30 de Dezembro\n\nO modelo previsto no anexo i do Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelos Decretos-Leis n.os 5/2000, de 29 de Janeiro, e 138/2000, de 13 de Julho, e pela Lei n.º 30/2006, de 11 de Julho, é alterado, passando a ter a redacção do modelo constante do anexo ii do presente decreto-lei, do qual faz parte integrante."
+  },
+  "66421600": {
+   "fragment_id": "66414753",
+   "type": 11,
+   "heading": "Artigo 25.º — Disposição transitória relativa aos responsáveis técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Disposição transitória relativa aos responsáveis técnicos\n\n1 - As agências funerárias e as associações mutualistas dispõem de um período de transição de três anos, após entrada em vigor do presente decreto-lei, para habilitarem os seus responsáveis técnicos com o curso de formação referido no artigo 5.º\n\n2 - Até à conclusão do período de transição referido no número anterior, os responsáveis técnicos devem ser profissionais com experiência na actividade funerária de, pelo menos, um ano, comprovada através de certificado de trabalho, emitido nos termos do artigo 341.º da Lei n.º 7/2009, de 12 de Fevereiro.\n\n3 - Os responsáveis técnicos que, à data da entrada em vigor do presente decreto-lei, se encontrem registados na DGAE mantêm esta qualidade, desde que comprovem a frequência, com aproveitamento, no prazo de um ano, dos seguintes módulos fundamentais, com o mínimo de 175 horas de formação, previstos no referencial de formação referido no artigo 5.º:\n\na) Legislação laboral e da actividade funerária (25 horas);\n\nb) Procedimentos burocráticos relativos ao óbito (50 horas);\n\nc) Orçamentação e facturação de produtos e serviços funerários (25 horas);\n\nd) Prevenção de riscos na actividade funerária (50 horas);\n\ne) Psicologia do luto (25 horas).\n\n4 - Deve ser apresentado na DGAE documento comprovativo da frequência com aproveitamento dos cursos de formação profissional indicados nos n.os 1 e 3, bem como cópia do certificado de trabalho indicado no n.º 2.\n\n5 - Os responsáveis técnicos referidos no n.º 3 que não comprovem a frequência da formação referida nesse número ficam sujeitos ao disposto no n.º 1.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 4/2014 - Diário da República n.º 9/2014, Série I de 2014-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2014-606156) O prazo previsto no n.º 1 do artigo 25.º é prorrogado por um ano."
+  },
+  "66421601": {
+   "fragment_id": "66414754",
+   "type": 11,
+   "heading": "Artigo 26.º — Disposição transitória relativa à desmaterialização do processo de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposição transitória relativa à desmaterialização do processo de registo\n\n1 - Até à entrada em funcionamento do sistema de informação previsto no n.º 1 do artigo 14.º, a tramitação dos procedimentos estabelecidos pelo presente decreto-lei pode ser realizada em papel ou através de endereço electrónico disponibilizado no sítio na Internet da DGAE, acessível através do Portal da Empresa, devendo observar-se o seguinte:\n\na) O modelo de requerimento de registo é apresentado à DGAE ou à direcção regional da economia (DRE);\n\nb) A DRE onde o requerimento tenha sido apresentado deve remeter o impresso referido no número anterior à DGAE, no prazo de cinco dias após a recepção do mesmo;\n\nc) O modelo de requerimento de registo referido é disponibilizado, electronicamente ou em papel, pela DGAE ou pela DRE;\n\nd) A informação referida no n.º 2 do artigo 14.º é disponibilizada, trimestralmente, no sítio da Internet da DGAE.\n\n2 - De igual modo, até à entrada em funcionamento do sistema de informação previsto no n.º 1 do artigo 14.º, a DGAE comunica ao interessado o número de registo no prazo de 30 dias a contar da data de recepção do respectivo requerimento devidamente instruído."
+  },
+  "66421602": {
+   "fragment_id": "66414755",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 206/2001, de 27 de Julho, alterado pelo Decreto-Lei n.º 41/2005, de 18 de Fevereiro;\n\nb) Os artigos 20.º e 23.º e o anexo ii do Decreto-Lei n.º 411/98, de 30 de Dezembro;\n\nc) A Portaria n.º 1223/2001, de 24 de Outubro;\n\nd) A Portaria n.º 1230/2001, de 25 de Outubro;\n\ne) A Portaria n.º 1245/2001, de 27 de Outubro."
+  },
+  "66421603": {
+   "fragment_id": "66414756",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 60 dias após a sua publicação."
+  },
+  "66421604": {
+   "fragment_id": "66414757",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere a alínea d) do n.º 3 do artigo 2.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere a alínea d) do n.º 3 do artigo 2.º]\n\nArtigos funerários: coroas e palmas funerárias, naturais ou artificiais, equipamentos, objectos e adereços, fabricados em diversos materiais, tais como, têxteis, PVC, metal, zinco, madeira, mármores e granitos, cera, argila, ou outros, incluindo materiais ecológicos e biológicos, bem como equipamentos ornamentação, transporte, conservação e manutenção de cadáveres, destinados à realização do funeral e a complementar a prestação do serviço funerário, nomeadamente urnas, urnas de ossada, urnas de cinzas, urnas de zinco, filtros depuradores, estofos, lençóis, lenços, tules, toalhas, panos funerários, capelas, incluindo mesas de assinaturas, pousos, tocheiros, suportes de água benta, e cruzeiros, cavaletes para flores, macas e câmaras frigoríficas, refrigeradores para exposição de cadáveres, sacos e macas de transporte, sudários, recordatórios, lápides, estampas e gravações, entre outros.\n\nArtigos religiosos: insígnias, medalhas, recordatórios, imagens e esculturas, paramentaria e artigos de comunhão e baptismo, incensos, defumadores e óleos, círios e lampadários, joalharia e adornos, ou outros objectos de natureza similar, produzidos em diversos materiais, tais como, cera, madeira, metal, bronze, resina, couro, mármores e granitos, marfinite, cerâmica, terracota, ou outros, destinados ao culto, devoção, exaltação, memória, lembrança, homenagem, ornamentação e decoração, idolatria, adoração e veneração, nomeadamente imagens religiosas, crucifixos, cruzes, velas, incluindo velas com imagens, de cera líquida e com tampa, redes e suportes, toalhas, castiçais de altar, cálices, estantes de leitura, jarras e lavandas, oratórios, sacos de peditórios, lamparinas eléctricas, lamparinas a pilhas, lamparinas a azeite, lanternas, lanternas processionais, estampas e gravações, presépios, anjos, rosários, chaveiros e vitrais, entre outros."
+  },
+  "66421605": {
+   "fragment_id": "66414758",
+   "type": 14,
+   "heading": "Anexo II — Requerimento para inumação, cremação, exumação e trasladação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Requerimento para inumação, cremação, exumação e trasladação\n\n(a que se refere o artigo 24.º)\n\n(ver documento original)"
+  },
+  "66421616": {
+   "fragment_id": "66414725",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objectivo",
+   "in_force_from": "2011-05-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objectivo\n\n1 - A actividade funerária consiste na prestação de qualquer dos serviços relativos à organização e à realização de funerais, de transporte, de inumação, de exumação, de cremação, de expatriação e de trasladação de cadáveres ou de restos mortais já inumados.\n\n2 - Em complemento à actividade funerária podem ser exercidas as seguintes actividades conexas:\n\na) Remoção de cadáveres, nos termos previstos no artigo 5.º do Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelo Decreto-Lei n.º 5/2000, de 29 de Janeiro;\n\nb) Transporte de cadáveres para além das situações previstas no número anterior, designadamente dos estabelecimentos hospitalares para as delegações e dos gabinetes médico-legais do Instituto Nacional de Medicina Legal, I. P., para a realização de autópsia médico-legal;\n\nc) Preparação e conservação temporária de cadáveres, excepto o embalsamamento de cadáveres que tenham sido objecto de autópsia médico-legal, caso em que só pode ser efectuado com autorização da competente autoridade judiciária;\n\nd) Obtenção da documentação necessária à prestação dos serviços referidos neste artigo;\n\ne) Venda ao público de artigos funerários e religiosos;\n\nf) Aluguer ou cedência a outras agências funerárias de veículos destinados à realização de funerais e de artigos funerários e religiosos;\n\ng) Ornamentação, armação e decoração de actos fúnebres e religiosos;\n\nh) Gestão e exploração de capelas e centros funerários, próprios ou alheios;\n\ni) Cremação em centro funerário de restos mortais não inumados ou provenientes de exumação;\n\nj) Gestão, exploração e conservação de cemitérios, ao abrigo da concessão de serviços públicos, aprovados nos termos da lei.\n\n3 - Para efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Cadáver» o corpo humano após a morte, até estarem terminados os fenómenos de destruição da matéria orgânica;\n\nb) «Conservação temporária de cadáveres» o acondicionamento de cadáveres em condições que permitam a sua conservação até ao momento da realização das exéquias fúnebres;\n\nc) «Preparação de cadáveres» as operações realizadas sobre cadáveres, tendentes à sua conservação, melhoria do seu aspecto exterior, nomeadamente, a higienização do cadáver, a aplicação de material conservante, o embalsamamento, a restauração facial e a tanatoestética através da aplicação de cosméticos e colocação em urna para realização do funeral;\n\nd) «Artigos funerários e religiosos» os artigos destinados a utilização em exéquias fúnebres, nos actos ou cerimónias religiosas, nomeadamente os constantes do anexo i do presente decreto-lei, do qual faz parte integrante;\n\ne) «Agência funerária» a pessoa singular ou colectiva que tenha por actividade principal a actividade referida no n.º 1;\n\nf) «Centro funerário» o edifício destinado exclusivamente à prestação integrada de serviços fúnebres, podendo incluir a conservação temporária e a preparação de cadáveres, a celebração de exéquias fúnebres e a cremação de restos mortais não inumados ou provenientes de exumação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+  },
+  "66421617": {
+   "fragment_id": "66414726",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito subjectivo",
+   "in_force_from": "2011-05-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito subjectivo\n\n1 - A actividade funerária apenas pode ser exercida pelas agências funerárias e pelas associações mutualistas, nos termos do presente decreto-lei.\n\n2 - As associações mutualistas apenas podem exercer a actividade funerária no âmbito das suas finalidades mutualistas e de prestação de serviços de carácter social aos respectivos associados, nos termos estatutários.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+  },
+  "66421626": {
+   "fragment_id": "66414774",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Regime de incompatibilidades",
+   "in_force_from": "2011-05-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+   ],
+   "markdown": "###### Artigo 18.º-A — Regime de incompatibilidades\n\nNão podem deter ou exercer, directa ou indirectamente, a propriedade, a exploração ou a gestão de agências funerárias:\n\na) Proprietários, gestores ou entidades gestoras de clínicas médicas, lares de terceira idade, hospitais ou equiparados e entidades dedicadas ao transporte de doentes sempre que qualquer uma destas se situe em território nacional, bem como profissionais a exercerem funções nas mesmas;\n\nb) Proprietários, gestores ou entidades gestoras de cemitérios públicos, bem como profissionais a exercerem funções nos mesmos, para uma mesma área geográfica definida sob o ponto de vista de organização administrativa como distrito.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+  },
+  "66421622": {
+   "fragment_id": "66414772",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Disposição transitória relativa ao regime de incompatibilidades",
+   "in_force_from": "2011-05-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+   ],
+   "markdown": "###### Artigo 26.º-A — Disposição transitória relativa ao regime de incompatibilidades\n\n1 - O regime de incompatibilidades previsto no artigo 18.º-A só produz efeitos no prazo de 60 dias a contar da data da entrada em vigor da presente lei.\n\n2 - Decorrido o prazo previsto no número anterior e no caso de haver contratos de concessão em curso, a incompatibilidade prevista na alínea b) do artigo 18.º-A só se aplica após o termo desses contratos.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+  },
+  "66421623": {
+   "fragment_id": "66414755",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 206/2001, de 27 de Julho, alterado pelo Decreto-Lei n.º 41/2005, de 18 de Fevereiro;\n\nb) Os artigos 20.º e 23.º e o anexo ii do Decreto-Lei n.º 411/98, de 30 de Dezembro;\n\nc) A Portaria n.º 1223/2001, de 24 de Outubro;\n\nd) A Portaria n.º 1230/2001, de 25 de Outubro;\n\ne) A Portaria n.º 1245/2001, de 27 de Outubro."
+  },
+  "66421624": {
+   "fragment_id": "66414756",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 60 dias após a sua publicação."
+  },
+  "66421606": {
+   "fragment_id": "66414759",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Julho de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Carlos Pereira - José Manuel Santos de Magalhães - José António Fonseca Vieira da Silva - Paulo Jorge Oliveira Ribeiro de Campos - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Idália Maria Marques Salvador Serrão de Menezes Moniz - Ana Maria Teodoro Jorge.\n\nPromulgado em 6 de Outubro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de Outubro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "115585115": {
+   "fragment_id": "66414723",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585116": {
+   "fragment_id": "66414724",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime jurídico de acesso e de exercício à actividade funerária.\n\n2 - O presente decreto-lei transpõe ainda para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro.\n\n3 - Sem prejuízo do disposto no presente decreto-lei, ao exercício da actividade funerária é ainda aplicável o regime jurídico da remoção, transporte, inumação, exumação e trasladação de cadáveres, ossadas, cinzas, fetos mortos e peças anatómicas, estabelecido pelo Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelos Decretos-Leis n.os 5/2000, de 29 de Janeiro, e 138/2000, de 13 de Julho, e pela Lei n.º 30/2006, de 11 de Julho, e respectiva legislação complementar, bem como o regime previsto em convenções internacionais quanto ao transporte transfronteiras.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585117": {
+   "fragment_id": "66414725",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito objectivo",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito objectivo\n\n1 - A actividade funerária consiste na prestação de qualquer dos serviços relativos à organização e à realização de funerais, de transporte, de inumação, de exumação, de cremação, de expatriação e de trasladação de cadáveres ou de restos mortais já inumados.\n\n2 - Em complemento à actividade funerária podem ser exercidas as seguintes actividades conexas:\n\na) Remoção de cadáveres, nos termos previstos no artigo 5.º do Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelo Decreto-Lei n.º 5/2000, de 29 de Janeiro;\n\nb) Transporte de cadáveres para além das situações previstas no número anterior, designadamente dos estabelecimentos hospitalares para as delegações e dos gabinetes médico-legais do Instituto Nacional de Medicina Legal, I. P., para a realização de autópsia médico-legal;\n\nc) Preparação e conservação temporária de cadáveres, excepto o embalsamamento de cadáveres que tenham sido objecto de autópsia médico-legal, caso em que só pode ser efectuado com autorização da competente autoridade judiciária;\n\nd) Obtenção da documentação necessária à prestação dos serviços referidos neste artigo;\n\ne) Venda ao público de artigos funerários e religiosos;\n\nf) Aluguer ou cedência a outras agências funerárias de veículos destinados à realização de funerais e de artigos funerários e religiosos;\n\ng) Ornamentação, armação e decoração de actos fúnebres e religiosos;\n\nh) Gestão e exploração de capelas e centros funerários, próprios ou alheios;\n\ni) Cremação em centro funerário de restos mortais não inumados ou provenientes de exumação;\n\nj) Gestão, exploração e conservação de cemitérios, ao abrigo da concessão de serviços públicos, aprovados nos termos da lei.\n\n3 - Para efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Cadáver» o corpo humano após a morte, até estarem terminados os fenómenos de destruição da matéria orgânica;\n\nb) «Conservação temporária de cadáveres» o acondicionamento de cadáveres em condições que permitam a sua conservação até ao momento da realização das exéquias fúnebres;\n\nc) «Preparação de cadáveres» as operações realizadas sobre cadáveres, tendentes à sua conservação, melhoria do seu aspecto exterior, nomeadamente, a higienização do cadáver, a aplicação de material conservante, o embalsamamento, a restauração facial e a tanatoestética através da aplicação de cosméticos e colocação em urna para realização do funeral;\n\nd) «Artigos funerários e religiosos» os artigos destinados a utilização em exéquias fúnebres, nos actos ou cerimónias religiosas, nomeadamente os constantes do anexo i do presente decreto-lei, do qual faz parte integrante;\n\ne) «Agência funerária» a pessoa singular ou colectiva que tenha por actividade principal a actividade referida no n.º 1;\n\nf) «Centro funerário» o edifício destinado exclusivamente à prestação integrada de serviços fúnebres, podendo incluir a conservação temporária e a preparação de cadáveres, a celebração de exéquias fúnebres e a cremação de restos mortais não inumados ou provenientes de exumação.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+  },
+  "115585118": {
+   "fragment_id": "66414726",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito subjectivo",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito subjectivo\n\n1 - A actividade funerária apenas pode ser exercida pelas agências funerárias e pelas associações mutualistas, nos termos do presente decreto-lei.\n\n2 - As associações mutualistas apenas podem exercer a actividade funerária no âmbito das suas finalidades mutualistas e de prestação de serviços de carácter social aos respectivos associados, nos termos estatutários.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+  },
+  "115585119": {
+   "fragment_id": "66414727",
+   "type": 1,
+   "heading": "Capítulo II — Acesso e exercício da actividade funerária",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "### Capítulo II — Acesso e exercício da actividade funerária\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585120": {
+   "fragment_id": "66414728",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos\n\n1 - Para o acesso e o exercício da actividade funerária, as agências funerárias ou as associações mutualistas devem:\n\na) Ter um responsável técnico, nos termos do artigo 5.º;\n\nb) Dispor de mostruário diversificado de artigos fúnebres sob a forma de expositor físico, informático ou outro, sendo obrigatória a sua existência sob a forma de catálogo, de modo a garantir ao destinatário do serviço mais de uma alternativa de escolha quando a contratação ocorrer fora das respectivas instalações;\n\nc) Garantir o transporte de cadáveres ou de restos mortais já inumados em condições de segurança e de respeito pela dignidade humana e, quando for o caso, mediante viatura em bom estado de conservação e homologada para o serviço funerário, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), nos termos do Decreto-Lei n.º 16/2010, de 12 de Março;\n\nd) No que diz respeito à actividade de preparação de cadáveres, garantir que os profissionais em causa e os locais de exercício dessa actividade cumprem os requisitos para a prática da tanatopraxia, previstos em portaria dos membros de Governo responsáveis pelas áreas da justiça, da economia e da saúde;\n\ne) Possuir pelo menos um estabelecimento aberto ao público, em território nacional, dotado de instalações autónomas e exclusivamente afectas à actividade funerária.\n\n2 - Para o exercício das actividades referidas nos n.os 1 e 2 do artigo 2.º, as agências funerárias e as associações mutualistas devem igualmente:\n\na) Garantir as condições adequadas à observação, por parte dos trabalhadores, das precauções universais aplicáveis na utilização e na manipulação de agentes biológicos, nomeadamente no que respeita à disponibilização e à utilização de equipamentos de protecção individual, quando não for possível adoptar medidas de protecção colectiva;\n\nb) Fazer cumprir as regras de segurança na utilização de produtos químicos e garantir o cumprimento das indicações do fabricante;\n\nc) Garantir as medidas de primeiros socorros apropriadas em caso de acidente com exposição a agentes químicos ou biológicos;\n\nd) Garantir as medidas adequadas de prevenção dos riscos ambientais para a saúde pública decorrentes das actividades referidas nas alíneas a), b), c), i) e j) do n.º 2 do artigo 2.º\n\n3 - Para efeitos do disposto no presente decreto-lei, entende-se por estabelecimento toda a instalação física, de carácter fixo e permanente, onde seja exercida, de modo habitual e profissional, a actividade funerária.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585121": {
+   "fragment_id": "66414729",
+   "type": 11,
+   "heading": "Artigo 5.º — Responsável técnico",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Responsável técnico\n\n1 - O responsável técnico deve ser habilitado com nível de qualificação específico para o exercício do cargo, com curso de formação realizado por entidade formadora certificada para o efeito, de acordo com o Catálogo Nacional de Qualificações, definido ao abrigo do Decreto-Lei n.º 396/2007, de 31 de Dezembro.\n\n2 - Deve ser apresentado à Direcção-Geral das Actividades Económicas (DGAE) documento comprovativo da frequência com aproveitamento do curso de formação profissional referido no número anterior.\n\n3 - Cada responsável técnico não pode ter a seu cargo mais de três estabelecimentos, incluindo a sede social ou locais destinados à realização de velórios, os quais se devem localizar dentro do mesmo distrito.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585122": {
+   "fragment_id": "66414730",
+   "type": 11,
+   "heading": "Artigo 6.º — Estabelecimentos",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Estabelecimentos\n\nOs estabelecimentos explorados por agências funerárias ou por associações mutualistas que desenvolvam a actividade funerária, bem como todos os locais de que se faça uso na realização de velórios, devem assegurar a privacidade, o conforto e a segurança dos utilizadores.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585123": {
+   "fragment_id": "66414731",
+   "type": 11,
+   "heading": "Artigo 7.º — Período de funcionamento",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Período de funcionamento\n\nOs estabelecimentos das agências funerárias e das associações mutualistas afectos à actividade funerária não estão sujeitos aos períodos de funcionamento previstos no Decreto-Lei n.º 48/96, de 15 de Maio, alterado pelos Decretos-Leis n.os 126/96, de 10 de Agosto, e 216/96, 20 de Novembro, podendo estar abertos ao público de forma permanente.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585124": {
+   "fragment_id": "66414732",
+   "type": 11,
+   "heading": "Artigo 8.º — Livre prestação de serviços",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Livre prestação de serviços\n\n1 - Os prestadores legalmente estabelecidos noutro Estado membro da União Europeia ou do espaço económico europeu para a prática da actividade funerária podem exercê-la livremente em território nacional, sem necessidade de inscrição no registo previsto no artigo seguinte.\n\n2 - A prestação de serviços realizada nos termos do número anterior fica sujeita:\n\na) Ao regime jurídico da remoção, transporte, inumação, exumação, trasladação e cremação de cadáveres, aprovado pelo Decreto-Lei n.º 411/98, de 30 de Dezembro, alterado pelos Decretos-Leis n.os 5/2000, de 29 de Janeiro, e 138/2000, de 13 de Julho, e pela Lei n.º 30/2006, de 11 de Julho;\n\nb) Aos requisitos para o acesso e exercício da actividade constantes das alíneas b), c) e d) do n.º 1 e do n.º 2 do artigo 4.º, com excepção do relativo à homologação da viatura;\n\nc) Ao disposto no artigo 6.º sobre os locais utilizados para a realização de velórios;\n\nd) Ao dever de identificação referido no artigo 15.º, sendo o número de registo na DGAE substituído pela apresentação do número de registo no Estado membro de origem, se existente;\n\ne) Às condições de acesso às casas mortuárias, aos serviços hospitalares, aos serviços médico-legais ou aos lares de idosos referidas no n.º 2 do artigo 16.º;\n\nf) Aos deveres constantes no artigo 18.º\n\n3 - No caso de explorarem estabelecimentos em território nacional, os prestadores referidos no n.º 1 devem observar o disposto no artigo 6.º no que se refere a essas instalações e comunicar à DGAE a sua abertura ou encerramento ao público, no prazo de 30 dias, nos termos da alíneas a) e b) do n.º 3 do artigo 9.º, aplicando-se-lhes igualmente o artigo 7.º, quanto ao período de funcionamento.\n\n4 - Os estabelecimentos referidos no número anterior devem ser exclusivamente afectos à actividade funerária e às actividades conexas.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585125": {
+   "fragment_id": "66414733",
+   "type": 1,
+   "heading": "Capítulo III — Registo da actividade funerária",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "### Capítulo III — Registo da actividade funerária\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585126": {
+   "fragment_id": "66414734",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Registo\n\n1 - As agências funerárias e as associações mutualistas que desenvolvam a actividade funerária devem registar a sua actividade junto da DGAE.\n\n2 - O registo da actividade funerária tem como objectivos:\n\na) Identificar os profissionais do sector perante as autoridades e terceiros;\n\nb) Identificar e caracterizar o universo de agentes económicos que exercem a actividade funerária com vista à constituição de uma base de informação que permita a realização de estudos sobre o sector e o acompanhamento da sua evolução.\n\n3 - Para efeitos de registo, os interessados devem comunicar à DGAE, através do formulário electrónico disponível no seu sítio da Internet, no prazo de 30 dias contados da data da ocorrência dos seguintes factos:\n\na) Abertura do estabelecimento;\n\nb) Encerramento do estabelecimento;\n\nc) Mudança de titular do estabelecimento;\n\nd) Mudança de nome ou de insígnia do estabelecimento;\n\ne) Designação e mudança de responsável técnico.\n\n4 - Após a entrega do formulário referido no número anterior, a DGAE atribui imediatamente, por via electrónica, um número de registo ao interessado.\n\n5 - A efectiva inscrição no registo, por parte da DGAE, não é condição para o legal exercício da actividade.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585127": {
+   "fragment_id": "66414735",
+   "type": 11,
+   "heading": "Artigo 10.º — Verificação da informação para inscrição no registo",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Verificação da informação para inscrição no registo\n\n1 - A DGAE verifica a informação constante do requerimento de registo da actividade funerária através:\n\na) Do código de acesso à certidão permanente do registo comercial, disponibilizado pelo interessado, no caso de pessoa colectiva;\n\nb) Da declaração de registo de início de actividade, no caso de pessoa singular, e dos documentos da segurança social comprovativos do tempo de serviço na categoria profissional dos trabalhadores.\n\n2 - A verificação da certidão permanente pode igualmente ser efectuada de forma automática, através da ligação com a base de dados do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), nos termos a definir em protocolo entre este, a DGAE e o Instituto das Tecnologias de Informação na Justiça, I. P. (ITIJ, I. P.).\n\n3 - A verificação do tempo de serviço na categoria profissional de agente funerário, relativamente aos trabalhadores e aos empresários em nome individual, é efectuada de forma automática, através da ligação com a base de dados da segurança social, nos termos a definir em protocolo a celebrar entre a DGAE e o Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n4 - A verificação da informação relativa ao início ou ao encerramento de actividade é feita de forma automática, através da ligação com a base de dados dos contribuintes da Direcção-Geral dos Impostos (DGCI), nos termos a definir em protocolo assinado entre a DGAE, a DGCI e a Direcção-Geral da Informática Tributária e Aduaneira (DGITA).\n\n5 - A verificação da informação relativa ao exercício da actividade funerária pelas associações mutualistas é feita nos termos a definir em protocolo a estabelecer entre a DGAE e a Direcção-Geral da Segurança Social (DGSS).\n\n6 - Os protocolos referidos nos números anteriores são submetidos a prévia apreciação da Comissão Nacional de Protecção de Dados.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585128": {
+   "fragment_id": "66414736",
+   "type": 11,
+   "heading": "Artigo 11.º — Dados pessoais",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 11.º — Dados pessoais\n\n1 - A DGAE é a entidade responsável, nos termos e para os efeitos previstos na Lei de Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro, pelo tratamento e pela protecção dos dados pessoais recolhidos para os fins previstos no n.º 2 do artigo 9.º\n\n2 - São objecto de tratamento, para efeitos do registo da actividade funerária, os dados pessoais constantes do respectivo formulário, os quais podem ser transmitidos às autoridades fiscalizadoras, quando solicitados.\n\n3 - As agências funerárias e as associações mutualistas que desenvolvam a actividade funerária têm o direito de, a todo o tempo, verificar os seus dados pessoais na posse da DGAE e solicitar a sua rectificação quando os mesmos estejam incompletos ou inexactos.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585129": {
+   "fragment_id": "66414737",
+   "type": 11,
+   "heading": "Artigo 12.º — Segurança da informação",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 12.º — Segurança da informação\n\nA DGAE adopta as medidas técnicas e organizativas adequadas para proteger os dados contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizados, nos termos da Lei de Protecção de Dados Pessoais.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585130": {
+   "fragment_id": "66414738",
+   "type": 11,
+   "heading": "Artigo 13.º — Conservação dos dados",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 13.º — Conservação dos dados\n\n1 - Os dados constantes do registo previsto no artigo 9.º são conservados enquanto a actividade funerária se mantiver activa, sem prejuízo do disposto no número seguinte.\n\n2 - Após a cessação da actividade funerária, os dados são conservados durante 10 anos, prazo de conservação de registos e de licenciamentos, previsto na Portaria n.º 740/2009, de 10 de Julho.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585131": {
+   "fragment_id": "66414739",
+   "type": 11,
+   "heading": "Artigo 14.º — Balcão único electrónico",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 14.º — Balcão único electrónico\n\n1 - A tramitação dos procedimentos de registo previstos no presente decreto-lei deve ser realizada de forma desmaterializada nos sítios da Internet do balcão único electrónico dos serviços e da DGAE, igualmente acessível através do Portal da Empresa.\n\n2 - O balcão único e o sítio da DGAE disponibilizam, para consulta, informação actualizada do registo das agências funerárias e das associações mutualistas onde constam os seguintes elementos:\n\na) Número de registo na DGAE;\n\nb) Denominação da empresa ou de associação mutualista e respectivas moradas;\n\nc) Nome e insígnia de cada estabelecimento e respectivas moradas.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585132": {
+   "fragment_id": "66414740",
+   "type": 11,
+   "heading": "Artigo 15.º — Dever de identificação",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 15.º — Dever de identificação\n\n1 - As agências funerárias e as associações mutualistas que desenvolvam a actividade funerária devem fornecer a sua identificação fiscal e o número de registo na DGAE sempre que, no exercício da sua actividade, tenham que praticar actos ou efectuar requerimentos junto das várias entidades com quem tenham de contactar, como cemitérios, serviços médico-legais, delegações de saúde, conservatórias, autarquias locais, autoridades policiais, embaixadas, casas mortuárias, instituições hospitalares, lares de idosos, ou outras.\n\n2 - As agências funerárias e as associações mutualistas devem mencionar de forma visível o número de registo na DGAE nos orçamentos, nas facturas e nos recibos que emitem, aquando da prestação dos serviços funerários.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585133": {
+   "fragment_id": "66414741",
+   "type": 1,
+   "heading": "Capítulo IV — Direitos dos destinatários dos serviços",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "### Capítulo IV — Direitos dos destinatários dos serviços\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585134": {
+   "fragment_id": "66414742",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito de escolha",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 16.º — Direito de escolha\n\n1 - É proibido aos estabelecimentos hospitalares, lares de idosos e equipamentos similares, organizar ou implementar escalas de agências funerárias, destinadas à prestação preferencial ou exclusiva de quaisquer serviços funerários junto dos respectivos utentes e familiares.\n\n2 - O acesso a casas mortuárias, aos serviços hospitalares, aos serviços médico-legais ou aos lares de idosos por parte do pessoal das agências funerárias ou das associações mutualistas, no exercício da actividade funerária, só é permitido para a obtenção de documentação referente ao óbito indispensável para a realização do funeral e desde que cumprido o disposto no artigo anterior.\n\n3 - Para efeitos do disposto no presente decreto-lei, entende-se por pessoal da agência funerária ou das associações mutualistas todos os trabalhadores ou colaboradores de agências funerárias ou de associações mutualistas afectos à actividade funerária, independentemente do respectivo vínculo jurídico.\n\n4 - A escolha de agência funerária por estabelecimento hospitalar ou lares de idosos só é permitida, nos termos previstos nos Decretos-Leis n.os 248/83, de 9 de Junho, e 206/2001, de 27 de Julho, nos casos em que não exista qualquer familiar ou outra pessoa conhecida que assuma a responsabilidade pela contratação do funeral.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585135": {
+   "fragment_id": "66414743",
+   "type": 11,
+   "heading": "Artigo 17.º — Funeral social",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 17.º — Funeral social\n\n1 - As agências funerárias devem dispor obrigatoriamente de um serviço básico de funeral social, disponível para o município onde está sediada a agência.\n\n2 - As componentes que integram o serviço básico de funeral social, bem como o seu preço máximo, são definidos por portaria do membro do Governo responsável pela área da economia.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585136": {
+   "fragment_id": "66414744",
+   "type": 11,
+   "heading": "Artigo 18.º — Deveres das agências funerárias e das associações mutualistas",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 18.º — Deveres das agências funerárias e das associações mutualistas\n\nNo exercício da sua actividade, as agências funerárias e as associações mutualistas que desenvolvam a actividade funerária devem:\n\na) Dar aos destinatários do serviço informações claras e precisas sobre preços e demais condições dos serviços prestados, designadamente, quanto à existência e conteúdo do serviço de funeral social, quando aplicável;\n\nb) Apresentar orçamento escrito do qual deve constar o preço total do serviço de funeral, discriminado por componentes e a identificação do prestador do serviço nomeadamente, a respectiva denominação, morada, número fiscal e número de registo na DGAE;\n\nc) Guardar sigilo relativamente a todas as condições dos serviços prestados, salvo instruções do cliente em contrário ou intimação judicial;\n\nd) Abster-se de usar serviços de terceiros que não sejam compatíveis com as características da actividade funerária;\n\ne) Abster-se de contactar, por si ou através de terceiros, a família do falecido, as entidades gestoras de lares ou de hospitais, bem como quaisquer funcionários das mesmas, com o intuito de obter a encomenda da organização do funeral, sem que os seus serviços tenham sido previamente solicitados para o efeito.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585137": {
+   "fragment_id": "66414774",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Regime de incompatibilidades",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+   ],
+   "markdown": "###### Artigo 18.º-A — Regime de incompatibilidades\n\nNão podem deter ou exercer, directa ou indirectamente, a propriedade, a exploração ou a gestão de agências funerárias:\n\na) Proprietários, gestores ou entidades gestoras de clínicas médicas, lares de terceira idade, hospitais ou equiparados e entidades dedicadas ao transporte de doentes sempre que qualquer uma destas se situe em território nacional, bem como profissionais a exercerem funções nas mesmas;\n\nb) Proprietários, gestores ou entidades gestoras de cemitérios públicos, bem como profissionais a exercerem funções nos mesmos, para uma mesma área geográfica definida sob o ponto de vista de organização administrativa como distrito.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+  },
+  "115585138": {
+   "fragment_id": "66414745",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização e regime sancionatório",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "### Capítulo V — Fiscalização e regime sancionatório\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585139": {
+   "fragment_id": "66414746",
+   "type": 11,
+   "heading": "Artigo 19.º — Fiscalização",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 19.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente decreto-lei é da competência da Autoridade de Segurança Alimentar e Económica (ASAE).\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585140": {
+   "fragment_id": "66414747",
+   "type": 11,
+   "heading": "Artigo 20.º — Contra-ordenações",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 20.º — Contra-ordenações\n\n1 - As infracções ao disposto no presente decreto-lei constituem contra-ordenações nos termos dos números seguintes, sem prejuízo da aplicação de pena ou sanção mais grave que lhes couber por força de outra disposição legal.\n\n2 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 1250 e de (euro) 1000 a (euro) 5000, consoante se trate, respectivamente, de pessoas singulares ou de pessoas colectivas, a violação do disposto no n.º 2 do artigo 3.º, na alínea b) do n.º 1 do artigo 4.º, no artigo 15.º, nas alíneas a) a d) do artigo 18.º e no n.º 2 do artigo 25.º\n\n3 - Constitui contra-ordenação punível com coimas de (euro) 1250 a (euro) 2500 e de (euro) 2500 a (euro) 25 000, consoante se trate, respectivamente, de pessoas singulares ou de pessoas colectivas, a violação do disposto na alínea c) do n.º 1 e no n.º 2 do artigo 4.º, no n.º 3 do artigo 5.º, no artigo 6.º, nos n.os 1 e 3 do artigo 9.º, nos n.os 1, 2 e 4 do artigo 16.º, no n.º 1 do artigo 17.º e na alínea e) do artigo 18.º\n\n4 - Constitui contra-ordenação punível com coimas de (euro) 2500 a (euro) 3700 e de (euro) 5000 a (euro) 44 500, consoante se trate, respectivamente, de pessoas singulares ou de pessoas colectivas, a violação do disposto no n.º 1 do artigo 3.º, nas alíneas a), d) e e) do n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º\n\n5 - A tentativa e a negligência são puníveis nos termos gerais.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585141": {
+   "fragment_id": "66414748",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução dos processos de contra-ordenação e aplicação das coimas",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 21.º — Instrução dos processos de contra-ordenação e aplicação das coimas\n\n1 - A instrução dos processos de contra-ordenação compete à ASAE e a aplicação das coimas à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP).\n\n2 - O produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a ASAE;\n\nc) 10 % para a CACMEP;\n\nd) 10 % para a DGAE.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585142": {
+   "fragment_id": "66414749",
+   "type": 11,
+   "heading": "Artigo 22.º — Sanções acessórias",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 22.º — Sanções acessórias\n\n1 - Quando, por violação da alínea e) do n.º 1 do artigo 4.º, a culpa do agente e a gravidade da infracção o justificarem pode ser aplicada a sanção acessória de interdição do exercício da actividade, por um período até dois anos, contado da data da decisão condenatória definitiva.\n\n2 - A CACMEP pode determinar que a decisão condenatória seja publicada.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585143": {
+   "fragment_id": "66414753",
+   "type": 11,
+   "heading": "Artigo 25.º — Disposição transitória relativa aos responsáveis técnicos",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 25.º — Disposição transitória relativa aos responsáveis técnicos\n\n1 - As agências funerárias e as associações mutualistas dispõem de um período de transição de três anos, após entrada em vigor do presente decreto-lei, para habilitarem os seus responsáveis técnicos com o curso de formação referido no artigo 5.º\n\n2 - Até à conclusão do período de transição referido no número anterior, os responsáveis técnicos devem ser profissionais com experiência na actividade funerária de, pelo menos, um ano, comprovada através de certificado de trabalho, emitido nos termos do artigo 341.º da Lei n.º 7/2009, de 12 de Fevereiro.\n\n3 - Os responsáveis técnicos que, à data da entrada em vigor do presente decreto-lei, se encontrem registados na DGAE mantêm esta qualidade, desde que comprovem a frequência, com aproveitamento, no prazo de um ano, dos seguintes módulos fundamentais, com o mínimo de 175 horas de formação, previstos no referencial de formação referido no artigo 5.º:\n\na) Legislação laboral e da actividade funerária (25 horas);\n\nb) Procedimentos burocráticos relativos ao óbito (50 horas);\n\nc) Orçamentação e facturação de produtos e serviços funerários (25 horas);\n\nd) Prevenção de riscos na actividade funerária (50 horas);\n\ne) Psicologia do luto (25 horas).\n\n4 - Deve ser apresentado na DGAE documento comprovativo da frequência com aproveitamento dos cursos de formação profissional indicados nos n.os 1 e 3, bem como cópia do certificado de trabalho indicado no n.º 2.\n\n5 - Os responsáveis técnicos referidos no n.º 3 que não comprovem a frequência da formação referida nesse número ficam sujeitos ao disposto no n.º 1.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 4/2014 - Diário da República n.º 9/2014, Série I de 2014-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2014-606156) O prazo previsto no n.º 1 do artigo 25.º é prorrogado por um ano.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585144": {
+   "fragment_id": "66414754",
+   "type": 11,
+   "heading": "Artigo 26.º — Disposição transitória relativa à desmaterialização do processo de registo",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 26.º — Disposição transitória relativa à desmaterialização do processo de registo\n\n1 - Até à entrada em funcionamento do sistema de informação previsto no n.º 1 do artigo 14.º, a tramitação dos procedimentos estabelecidos pelo presente decreto-lei pode ser realizada em papel ou através de endereço electrónico disponibilizado no sítio na Internet da DGAE, acessível através do Portal da Empresa, devendo observar-se o seguinte:\n\na) O modelo de requerimento de registo é apresentado à DGAE ou à direcção regional da economia (DRE);\n\nb) A DRE onde o requerimento tenha sido apresentado deve remeter o impresso referido no número anterior à DGAE, no prazo de cinco dias após a recepção do mesmo;\n\nc) O modelo de requerimento de registo referido é disponibilizado, electronicamente ou em papel, pela DGAE ou pela DRE;\n\nd) A informação referida no n.º 2 do artigo 14.º é disponibilizada, trimestralmente, no sítio da Internet da DGAE.\n\n2 - De igual modo, até à entrada em funcionamento do sistema de informação previsto no n.º 1 do artigo 14.º, a DGAE comunica ao interessado o número de registo no prazo de 30 dias a contar da data de recepção do respectivo requerimento devidamente instruído.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585145": {
+   "fragment_id": "66414772",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Disposição transitória relativa ao regime de incompatibilidades",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+   ],
+   "markdown": "###### Artigo 26.º-A — Disposição transitória relativa ao regime de incompatibilidades\n\n1 - O regime de incompatibilidades previsto no artigo 18.º-A só produz efeitos no prazo de 60 dias a contar da data da entrada em vigor da presente lei.\n\n2 - Decorrido o prazo previsto no número anterior e no caso de haver contratos de concessão em curso, a incompatibilidade prevista na alínea b) do artigo 18.º-A só se aplica após o termo desses contratos.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 13/2011 - Diário da República n.º 83/2011, Série I de 2011-04-29](https://diariodarepublica.pt/dr/detalhe/lei/13-2011-287158), em vigor a partir de 2011-05-04"
+  },
+  "115585146": {
+   "fragment_id": "66414755",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 206/2001, de 27 de Julho, alterado pelo Decreto-Lei n.º 41/2005, de 18 de Fevereiro;\n\nb) Os artigos 20.º e 23.º e o anexo ii do Decreto-Lei n.º 411/98, de 30 de Dezembro;\n\nc) A Portaria n.º 1223/2001, de 24 de Outubro;\n\nd) A Portaria n.º 1230/2001, de 25 de Outubro;\n\ne) A Portaria n.º 1245/2001, de 27 de Outubro.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  },
+  "115585147": {
+   "fragment_id": "66414756",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": "2015-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+   ],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 60 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-03-01"
+  }
+ }
+}

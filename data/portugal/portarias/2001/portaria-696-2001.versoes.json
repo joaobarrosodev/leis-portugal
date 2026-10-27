@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:399181:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-947233414",
+ "dre_path": "/dr/detalhe/portaria/696-2001-399181",
+ "source_lastmod": "2025-11-19",
+ "versions": [
+  {
+   "date": "2001-07-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "947235080",
+    "947235082",
+    "947235083",
+    "947235084"
+   ]
+  }
+ ],
+ "fragments": {
+  "947235080": {
+   "fragment_id": "947233415",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 696/2001\n\nde 11 de Julho\n\nConsiderando que as ajudas de custo diárias a abonar aos funcionários civis do Estado que se desloquem em missão oficial ao estrangeiro foram actualizadas através da Portaria n.º 80/2001, de 8 de Fevereiro;\n\nDada a necessidade de se proceder em termos semelhantes relativamente aos abonos dos militares dos três ramos das Forças Armadas;\n\nConsiderando ainda o disposto no artigo 3.º do Decreto-Lei n.º 254/84, de 27 de Julho:\n\nManda o Governo, pelo Primeiro-Ministro e pelos Ministros da Defesa Nacional, das Finanças e da Reforma do Estado e da Administração Pública, o seguinte:"
+  },
+  "947235082": {
+   "fragment_id": "947233417",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nAs ajudas de custo diárias a abonar aos militares da Marinha, do Exército e da Força Aérea que se desloquem em missão oficial ao estrangeiro e no estrangeiro passam a ser as seguintes:\n\nChefe do Estado-Maior-General das Forças Armadas, Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea e Presidente do Supremo Tribunal Militar - 28324$00;\n\nOficiais generais - 25247$00;\n\nOficiais superiores - 25247$00;\n\nOutros oficiais, aspirantes a oficial e cadetes - 22300$00;\n\nSargentos-mores e sargentos-chefes - 22300$00;\n\nOutros sargentos, furriéis e subsargentos - 20454$00;\n\nPraças - 18970$00."
+  },
+  "947235083": {
+   "fragment_id": "947233418",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nSempre que uma missão integre militares de diferentes postos, o valor das respectivas ajudas de custo será igual ao auferido pelo militar de posto mais elevado."
+  },
+  "947235084": {
+   "fragment_id": "947233419",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nA presente portaria produz efeitos desde 1 de Janeiro de 2001."
+  }
+ }
+}

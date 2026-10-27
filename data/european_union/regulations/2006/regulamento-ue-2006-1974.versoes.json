@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R1974:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1974-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006R1974-20140101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3351e1796d0c22cf"
+   ]
+  }
+ ],
+ "fragments": {
+  "3351e1796d0c22cf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006R1974 — PT — 01.01.2014 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006R1974) [REGULAMENTO (CE) N.º 1974/2006 DA COMISSÃO](http://publications.europa.eu/resource/celex/32006R1974) [de 15 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1974) [que estabelece normas de execução do Regulamento (CE) n.º 1698/2005 do Conselho relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER)](http://publications.europa.eu/resource/celex/32006R1974) (JO L 368, 23.12.2006, p.15)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) n.o 807/2014 da Comissão de 11 de março de 2014](http://publications.europa.eu/resource/celex/32014R0807) — L 227 — 1 — 31.7.2014"
+  }
+ }
+}

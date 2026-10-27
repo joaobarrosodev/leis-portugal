@@ -1,0 +1,815 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66041391:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-66756775",
+ "dre_path": "/dr/detalhe/decreto-lei/1-2015-66041391",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66756482",
+    "66756483",
+    "66756484",
+    "66756485",
+    "66756486",
+    "66756487",
+    "66756488",
+    "66756489",
+    "66756490",
+    "66756491",
+    "66756492",
+    "66756493",
+    "66756494",
+    "66756495",
+    "66756496",
+    "66756497",
+    "66756498",
+    "66756499",
+    "66756500",
+    "66756501",
+    "66756502",
+    "66756503",
+    "66756504",
+    "66756505",
+    "66756506",
+    "66756507",
+    "66756508",
+    "66756509",
+    "66756510",
+    "66756511",
+    "66756512",
+    "66756513",
+    "66756514",
+    "66756515",
+    "66756516",
+    "66756517",
+    "66756518",
+    "66756519",
+    "66756520",
+    "66756521",
+    "66756522",
+    "66756523",
+    "66756524",
+    "66756525",
+    "66756526",
+    "66756527",
+    "66756528",
+    "66756529",
+    "66756530",
+    "66756531",
+    "66756532",
+    "66756533",
+    "66756534",
+    "66756535",
+    "66756536",
+    "66756537",
+    "66756538",
+    "66756539",
+    "66756540",
+    "66756541",
+    "66756542",
+    "66756543",
+    "66756544",
+    "66756545",
+    "66756546",
+    "66756547",
+    "66756548",
+    "66756549",
+    "66756550",
+    "66756551",
+    "66756552",
+    "66756553",
+    "66756554",
+    "66756555",
+    "66756556",
+    "66756557"
+   ]
+  },
+  {
+   "date": "2018-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115879178:por",
+     "title": "Decreto-Lei n.º 59/2018",
+     "published": "2018-08-02",
+     "dre_path": "/dr/detalhe/decreto-lei/59-2018-115879178"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "66756482",
+    "66756483",
+    "66756484",
+    "66756485",
+    "66756486",
+    "66756487",
+    "66756488",
+    "66756489",
+    "66756490",
+    "66756491",
+    "66756558",
+    "66756492",
+    "66756493",
+    "66756494",
+    "66756495",
+    "66756496",
+    "66756497",
+    "66756498",
+    "66756499",
+    "66756500",
+    "115883978",
+    "66756502",
+    "66756503",
+    "66756504",
+    "66756505",
+    "66756506",
+    "66756507",
+    "66756508",
+    "66756509",
+    "66756510",
+    "66756511",
+    "66756512",
+    "66756513",
+    "66756514",
+    "66756515",
+    "66756516",
+    "66756517",
+    "66756518",
+    "66756519",
+    "66756520",
+    "66756521",
+    "66756522",
+    "66756523",
+    "66756524",
+    "66756525",
+    "66756526",
+    "66756527",
+    "66756528",
+    "66756529",
+    "66756530",
+    "66756531",
+    "66756532",
+    "66756533",
+    "66756534",
+    "66756535",
+    "66756536",
+    "66756537",
+    "66756538",
+    "66756539",
+    "66756540",
+    "66756541",
+    "66756542",
+    "66756543",
+    "66756544",
+    "66756545",
+    "66756546",
+    "66756547",
+    "66756548",
+    "66756549",
+    "66756550",
+    "66756551",
+    "66756552",
+    "66756553",
+    "66756554",
+    "66756555",
+    "66756556",
+    "66756557"
+   ]
+  }
+ ],
+ "fragments": {
+  "66756482": {
+   "fragment_id": "66756776",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 1/2015\n\nde 6 de janeiro\n\nDa entrada em vigor da Lei n.º 67/2013, de 28 de agosto, que aprova a lei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo, doravante designada por lei-quadro das entidades reguladoras, resulta que os estatutos das entidades reguladoras existentes sejam adaptados por decreto-lei ao disposto na referida lei-quadro.\n\nÉ esse o objetivo principal do presente diploma, no que se refere ao Instituto de Seguros de Portugal (ISP), o qual consagra também a alteração da sua designação, de forma a melhor refletir a natureza, as atribuições e o regime jurídico de que é dotado, passando, assim, a designar-se por Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF).\n\nAs alterações mais relevantes introduzidas pelo presente diploma face ao Estatuto do ISP aprovado pelo Decreto-Lei n.º 289/2001, de 13 de novembro, e alterado pelo Decreto-Lei n.º 195/2002, de 25 de setembro, centram-se no regime jurídico base aplicável e no acentuar das características de independência orgânica, operacional e financeira da ASF.\n\nSem prejuízo de outros regimes gerais aplicáveis, a ASF passa a reger-se pelo disposto na lei-quadro das entidades reguladoras, pela legislação setorial e pelo Direito da União Europeia aplicáveis, pelos respetivos estatutos e regulamentos internos, ficando a aplicação supletiva do regime jurídico das entidades públicas empresariais reservada à gestão financeira e patrimonial.\n\nA consolidação da independência orgânica é expressa na consagração de inexistência de relações de superintendência ou de tutela governamental, sem prejuízo de a ASF ficar adstrita ao membro do Governo responsável pela área das finanças.\n\nFica, ainda, estabelecido que o Governo não pode dirigir recomendações ou emitir diretivas ao conselho de administração da ASF sobre a sua atividade reguladora, nem sobre as prioridades a adotar na respetiva prossecução. Não obstante, não fica prejudicado o poder de aprovação prévia pelo membro do Governo responsável pela área das finanças do orçamento e planos de atividades, anuais e plurianuais, e de solicitar informações aos órgãos da ASF sobre a respetiva execução. A recusa de aprovação só pode efetivar-se mediante decisão fundamentada em ilegalidade, em prejuízo para os fins da ASF ou para o interesse público ou, no caso de ser solicitado, em parecer desfavorável emitido pelo conselho consultivo. Carecem ainda de autorização prévia por parte do membro do Governo responsável pela área das finanças, sob pena de ineficácia jurídica, um conjunto de outros atos de incidência financeira.\n\nO reforço da independência operacional manifesta-se no novo regime de recrutamento e de duração do mandato dos membros do conselho de administração e no aprofundamento do sistema de incompatibilidades e impedimentos aplicáveis aos membros do conselho de administração e da comissão de fiscalização, aos titulares de cargos de direção e restantes trabalhadores da ASF. A designação dos membros do conselho de administração passa a ser precedida quer de parecer da Comissão de Recrutamento e Seleção da Administração Pública, relativa à adequação do perfil do indivíduo às funções a desempenhar, incluindo o cumprimento das regras de incompatibilidade e impedimento aplicáveis, quer de audição perante a comissão competente da Assembleia da República. O mandato dos membros do conselho de administração eleva-se a seis anos mas, em contrapartida, deixa de ser renovável, sendo também fixado um período de seis anos de impedimento de nova designação após cessação do mandato anterior.\n\nAo nível da independência financeira, mantém-se um quadro de financiamento com recurso a receitas próprias, sem prejuízo de, em caso de necessidade, existirem transferências do Orçamento do Estado. Por seu turno, os resultados líquidos da ASF transitam para o ano seguinte, podendo, entre outras aplicações, ser utilizados na constituição de reservas para riscos de atividade ou para riscos de insuficiência de receitas ou de outras reservas, bem como na promoção do desenvolvimento de conhecimentos técnicos e o reforço da literacia financeira a respeito do setor segurador e dos fundos de pensões.\n\nA nova arquitetura institucional da supervisão financeira ao nível da União Europeia determina também ajustamentos pontuais nos estatutos da ASF, tendentes a reconhecer a atribuição e competências associadas à participação desta entidade no Sistema Europeu de Supervisão Financeira, integrando, designadamente o Comité Europeu do Risco Sistémico e a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma.\n\nDe facto, importa refletir nos estatutos da ASF este novo enquadramento europeu, que exige, para além do papel que as autoridades de supervisão nacionais desempenham na rede integrada a nível da União Europeia, que as mesmas intervenham diretamente no órgão de direção das Autoridades Europeias de Supervisão (o Conselho de Supervisores) e participem nos trabalhos dos comités e estruturas criadas no âmbito destas autoridades.\n\nElemento determinante da especificidade estatutária da ASF resulta igualmente do enquadramento nacional em matéria de supervisão financeira caracterizada pelo elevado grau de integração e interdependência entre os subsetores financeiros e respetiva supervisão, cuja coordenação se processa no âmbito do Conselho Nacional de Supervisores Financeiros.\n\nA eficácia do próprio modelo institucional de supervisão financeira a nível nacional e a nível europeu está estritamente dependente da possibilidade de os supervisores participarem no sistema em situação de paridade entre si e com os seus congéneres, no que respeita ao seu grau de independência e às condições de eficiência e de flexibilidade de gestão dos seus recursos, o que norteou a fixação de regras especificamente destinadas a acautelar tal paridade.\n\nCumpre, por último, salientar que nos estatutos da ASF se explicitam princípios que já eram aplicados pelo ISP, mas que agora ganham consagração estatutária, designadamente os que se referem à transparência e responsabilização perante a Assembleia da República.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nAo abrigo do disposto no artigo 3.º da Lei n.º 67/2013, de 28 de agosto, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "66756483": {
+   "fragment_id": "66756777",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma redenomina o Instituto de Seguros de Portugal e aprova os estatutos da Autoridade de Supervisão de Seguros e Fundos de Pensões, em conformidade com o disposto na Lei n.º 67/2013, de 28 de agosto, que aprova a lei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo (lei-quadro das entidades reguladoras)."
+  },
+  "66756484": {
+   "fragment_id": "66756778",
+   "type": 11,
+   "heading": "Artigo 2.º — Redenominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Redenominação\n\n1 - O Instituto de Seguros de Portugal (ISP) passa a denominar-se Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF).\n\n2 - As referências ao ISP em diplomas legais ou regulamentares, atos administrativos, documentos contratuais ou de outra natureza, consideram-se correspondentemente feitas para a ASF."
+  },
+  "66756485": {
+   "fragment_id": "66756779",
+   "type": 11,
+   "heading": "Artigo 3.º — Aprovação dos estatutos da Autoridade de Supervisão de Seguros e Fundos de Pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aprovação dos estatutos da Autoridade de Supervisão de Seguros e Fundos de Pensões\n\nSão aprovados os estatutos da ASF, que constam do anexo ao presente diploma e que dele fazem parte integrante, doravante designados por estatutos da ASF."
+  },
+  "66756486": {
+   "fragment_id": "66756780",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 117/2011, de 15 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 117/2011, de 15 de dezembro\n\nOs artigos 7.º e 23.º do Decreto-Lei n.º 117/2011, de 15 de dezembro, alterado pelo Decreto-Lei n.º 200/2012, de 27 de agosto, passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - É entidade administrativa independente de supervisão e regulação do setor segurador e dos fundos de pensões, a Autoridade de Supervisão de Seguros e Fundos de Pensões.\n\n2 - [...].\n\nArtigo 23.º\n\nAutoridade de Supervisão de Seguros e Fundos de Pensões\n\nA Autoridade de Supervisão de Seguros e Fundos de Pensões, enquanto autoridade de supervisão e regulação do setor segurador e dos fundos de pensões, é independente no exercício das suas funções, sem prejuízo dos poderes conferidos ao membro do Governo responsável pela área das finanças, nos termos previstos na Lei n.º 67/2013, de 28 de agosto, que aprova a lei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo e nos respetivos estatutos.»"
+  },
+  "66756487": {
+   "fragment_id": "66756781",
+   "type": 11,
+   "heading": "Artigo 5.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Referências\n\nAs referências ao conselho diretivo do ISP em diplomas legais ou regulamentares, atos administrativos, documentos contratuais ou de outra natureza, consideram-se correspondentemente feitas para o conselho de administração da ASF."
+  },
+  "66756488": {
+   "fragment_id": "66756782",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposições transitórias\n\n1 - Sem prejuízo do disposto nos n.ºs 5 e 6 do artigo 5.º da Lei n.º 67/2013, de 28 de agosto, a entrada em vigor do presente diploma não implica alterações na atual composição dos órgãos da ASF, nem a cessação dos mandatos em curso dos respetivos membros, os quais mantêm a duração e o cargo inicialmente definido, sem possibilidade de renovação.\n\n2 - As incompatibilidades ou impedimentos resultantes da aprovação dos estatutos da ASF aplicam-se aos membros dos órgãos da ASF que venham a ser designados ao abrigo da lei-quadro das entidades reguladoras.\n\n3 - Os trabalhadores ou titulares de cargos de direção ou equiparados da ASF, relativamente aos quais se verifiquem incompatibilidades ou impedimentos em resultado da aprovação dos estatutos da ASF, devem pôr termo a essas situações ou fazer cessar os respetivos vínculos com esta autoridade, de acordo com o previsto no n.º 4 do artigo 5.º da Lei n.º 67/2013, de 28 de agosto.\n\n4 - Até à entrada em vigor das portarias a que se refere o artigo 38.º dos estatutos da ASF, continuam a ser devidas à ASF as contribuições e taxas, legal e regularmente previstas à data da entrada em vigor do presente diploma."
+  },
+  "66756489": {
+   "fragment_id": "66756783",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposições regulamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições regulamentares\n\n1 - Cabe ao conselho de administração da ASF, no prazo de 90 dias, a contar da data da publicação do presente diploma, aprovar a regulamentação necessária para assegurar a concretização dos regulamentos internos daquela entidade ASF, previstos nos estatutos destas entidade.\n\n2 - Cabe à ASF, no prazo de 30 dias, a contar da data da publicação da portaria prevista no n.º 2 do artigo 38.º dos estatutos da ASF aprovados em anexo ao presente diploma, estabelecer os modos e prazos de liquidação e cobrança das contribuições e taxas aplicáveis, previstas no n.º 1 do mesmo preceito legal."
+  },
+  "66756490": {
+   "fragment_id": "66756784",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 156/83, de 14 de abril;\n\nb) O Decreto-Lei n.º 171/87, de 20 de abril;\n\nc) O Decreto-Lei n.º 289/2001, de 13 de novembro, alterado pelo Decreto-Lei n.º 195/2002, de 25 de setembro;\n\nd) O artigo 66.º do Decreto-Lei n.º 144/2006, de 31 de julho, alterado pelo Decreto-Lei n.º 359/2007, de 2/11, e pela Lei n.º 46/2011, de 24 de junho."
+  },
+  "66756491": {
+   "fragment_id": "66756785",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "66756492": {
+   "fragment_id": "66756786",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\nESTATUTOS DA AUTORIDADE DE SUPERVISÃO DE SEGUROS E FUNDOS DE PENSÕES"
+  },
+  "66756493": {
+   "fragment_id": "66756787",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "66756494": {
+   "fragment_id": "66756788",
+   "type": 11,
+   "heading": "Artigo 1.º — Designação e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Designação e natureza\n\nA Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), é uma pessoa coletiva de direito público, com natureza de entidade administrativa independente, dotada de autonomia administrativa, financeira e de gestão e de património próprio."
+  },
+  "66756495": {
+   "fragment_id": "66756789",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\n1 - A ASF rege-se pelo disposto na Lei n.º 67/2013, de 28 de agosto, que aprova a lei-quadro das entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo, doravante designada por lei-quadro das entidades reguladoras, pela legislação setorial e pelo direito da União Europeia aplicáveis, pelos presentes estatutos e pelos regulamentos internos aprovados ao abrigo deste.\n\n2 - Sem prejuízo do disposto no número anterior e no regime jurídico da concorrência, são subsidiariamente aplicáveis à ASF no âmbito do exercício de poderes públicos:\n\na) O Código do Procedimento Administrativo e quaisquer normas e princípios de âmbito geral respeitantes aos atos administrativos do Estado;\n\nb) As leis do contencioso administrativo, quando estejam em causa atos praticados no exercício de funções públicas de autoridade e contratos de natureza administrativa.\n\n3 - São ainda aplicáveis à ASF:\n\na) O regime da contratação pública;\n\nb) O regime da responsabilidade civil do Estado;\n\nc) Os deveres de informação decorrentes do Sistema de Informação da Organização do Estado;\n\nd) O regime de jurisdição e controlo financeiro do Tribunal de Contas;\n\ne) O regime de inspeção e auditoria dos serviços do Estado."
+  },
+  "66756496": {
+   "fragment_id": "66756790",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípio da especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípio da especialidade\n\n1 - Sem prejuízo do princípio da legalidade no domínio da gestão pública, e salvo disposição expressa em contrário, a capacidade jurídica da ASF abrange a prática de todos os atos jurídicos, o gozo de todos os direitos e a sujeição a todas as obrigações necessárias à prossecução das respetivas atribuições.\n\n2 - Os órgãos da ASF não podem delegar ou concessionar a entidades públicas ou privadas, por prazo determinado ou indeterminado, com ou sem remuneração, contrapartida ou renda periódica, a prossecução de quaisquer das suas atribuições ou o exercício das suas competências regulatórias e sancionatórias.\n\n3 - A ASF está impedida de:\n\na) Exercer atividades ou usar os respetivos poderes fora das suas atribuições, ou dedicar os seus recursos a finalidades diversas das que lhe tenham sido cometidas;\n\nb) Garantir a terceiros o cumprimento de obrigações de outras pessoas jurídicas, públicas ou privadas;\n\nc) Criar ou participar na criação de entidades de direito privado com fins lucrativos ou adquirir participações em tais entidades."
+  },
+  "66756497": {
+   "fragment_id": "66756791",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípio de independência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio de independência\n\n1 - Sem prejuízo do disposto nos números seguintes, a ASF é independente no exercício das suas funções e não se encontra sujeita a superintendência ou tutela governamental.\n\n2 - Os membros do Governo não podem dirigir recomendações ou emitir diretivas ao conselho de administração da ASF sobre a atividade reguladora da ASF ou prioridades a adotar na respetiva prossecução.\n\n3 - O membro do Governo responsável pela área das finanças pode solicitar o apoio técnico da ASF nos termos definidos nos presentes estatutos e na lei-quadro das entidades reguladoras, bem como informações aos órgãos da ASF sobre a execução do orçamento, bem como dos planos de atividades, anuais e plurianuais.\n\n4 - Carecem de aprovação prévia, no prazo de 60 dias após a sua receção, por parte do membro do Governo responsável pela área das finanças, o orçamento, os planos de atividades, anuais e plurianuais, o relatório e as contas anuais da ASF.\n\n5 - As aprovações previstas no número anterior apenas podem ser recusadas mediante decisão fundamentada em ilegalidade ou prejuízo para os fins da ASF ou para o interesse público, ou em parecer desfavorável emitido pelo conselho consultivo, solicitado nos termos da alínea a) do artigo 23.º.\n\n6 - Decorrido o prazo previsto no n.º 4, sem que sobre eles seja proferida decisão expressa, consideram-se os respetivos documentos tacitamente aprovados.\n\n7 - Carecem ainda de autorização prévia por parte do membro do Governo responsável pela área das finanças, sob pena de ineficácia jurídica:\n\na) A aceitação de doações, heranças ou legados;\n\nb) A aquisição ou alienação de bens imóveis, nos termos da lei."
+  },
+  "66756498": {
+   "fragment_id": "66756792",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito territorial, sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito territorial, sede e delegações\n\n1 - O âmbito de atuação da ASF abrange todo o território nacional, sem prejuízo do disposto no número seguinte.\n\n2 - A ASF prossegue as atribuições e os respetivos órgãos exercem as suas competências no âmbito do Espaço Económico Europeu, podendo ainda, quando esteja em causa o exercício de atividade em país terceiro por sucursal de empresa com sede em Portugal supervisionada pela ASF, o âmbito alargar-se, nos termos legais, ao território desse país terceiro.\n\n3 - A ASF tem a sua sede em Lisboa, podendo manter ou criar delegações noutras localidades do País ou outras formas de representação, sempre que o conselho de administração entenda adequado para a prossecução das atribuições da ASF."
+  },
+  "66756499": {
+   "fragment_id": "66756793",
+   "type": 1,
+   "heading": "Capítulo II — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Missão e atribuições"
+  },
+  "66756500": {
+   "fragment_id": "66756794",
+   "type": 11,
+   "heading": "Artigo 6.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Missão\n\nA ASF tem por missão assegurar o regular funcionamento do mercado segurador e dos fundos de pensões, através da promoção da estabilidade e solidez financeira das entidades sob a sua supervisão, bem como da garantia da manutenção de elevados padrões de conduta por parte das mesmas, com vista ao objetivo principal de proteção dos tomadores de seguros, segurados, subscritores, participantes, beneficiários e lesados."
+  },
+  "66756501": {
+   "fragment_id": "66756795",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuições\n\n1 - São atribuições da ASF:\n\na) Supervisionar e regular a atividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões, bem como as atividades conexas ou complementares daquelas;\n\nb) Participar, nos termos definidos na lei, no sistema de supervisão macroprudencial para prevenção e mitigação dos riscos sistémicos suscetíveis de afetar a estabilidade financeira, designadamente no âmbito do Conselho Nacional de Supervisores Financeiros (CNSF), criado pelo Decreto-Lei n.º 228/2000, de 23 de setembro, alterado pelos Decretos-Leis n.os 211-A/2008, de 3 de novembro, e 143/2013, de 18 de outubro;\n\nc) Exercer funções de apoio técnico e consulta à Assembleia da República e ao Governo, em matérias relativas ao setor de atividade sob supervisão, nos termos definidos nos presentes estatutos;\n\nd) Participar no Sistema Europeu de Supervisão Financeira (SESF), integrando, designadamente, o Comité Europeu do Risco Sistémico (ESRB) e a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma (EIOPA);\n\ne) Cooperar ou associar-se com outras entidades de direito público ou privado, nomeadamente com autoridades de supervisão congéneres, a nível da União Europeia ou internacional, quando tal se mostre necessário ou conveniente para a prossecução das suas atribuições;\n\nf) Cooperar ou associar-se com as outras autoridades nacionais de supervisão do setor financeiro, designadamente no âmbito do CNSF;\n\ng) Cooperar ou associar-se com as demais entidades reguladoras nacionais, designadamente com o Banco de Portugal (BdP), a Comissão do Mercado de Valores Mobiliários (CMVM) ou a Autoridade da Concorrência, nas matérias referentes ao exercício das suas funções e nos assuntos de interesse comum;\n\nh) Participar, nos termos definidos na lei, no sistema de supervisão da auditoria, designadamente no âmbito do Conselho Nacional de Supervisão de Auditoria (CNSA);\n\ni) Promover o desenvolvimento de conhecimentos técnicos e respetiva difusão e o reforço da literacia financeira no que se refere ao setor segurador e dos fundos de pensões;\n\nj) Gerir os fundos que lhe sejam confiados por lei.\n\n2 - A supervisão da ASF abrange toda a atividade das entidades a ela sujeitas, incluindo as atividades conexas ou complementares da atividade principal, e é exercida de harmonia com a legislação nacional e da União Europeia em vigor."
+  },
+  "66756502": {
+   "fragment_id": "66756796",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura orgânica"
+  },
+  "66756503": {
+   "fragment_id": "66756797",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "66756504": {
+   "fragment_id": "66756798",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos\n\nSão órgãos da ASF:\n\na) O conselho de administração;\n\nb) O conselho consultivo;\n\nc) A comissão de fiscalização."
+  },
+  "66756505": {
+   "fragment_id": "66756799",
+   "type": 11,
+   "heading": "Artigo 9.º — Princípio geral de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Princípio geral de gestão\n\nOs órgãos da ASF asseguram que os recursos de que dispõe são administrados de forma eficiente e sem desperdícios, adotando ou propondo as soluções organizativas e os métodos de atuação que representem o menor custo na prossecução eficaz das respetivas atribuições."
+  },
+  "66756506": {
+   "fragment_id": "66756800",
+   "type": 11,
+   "heading": "Artigo 10.º — Quórum e regras de deliberação dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Quórum e regras de deliberação dos órgãos\n\n1 - Os órgãos da ASF só podem deliberar validamente com a presença da maioria dos seus membros.\n\n2 - As deliberações dos órgãos da ASF são tomadas por maioria dos votos dos membros presentes nas respetivas reuniões, cabendo ao presidente, ou a quem o substituir, quando tenha direito de voto, voto de qualidade.\n\n3 - Nas votações não há abstenções, mas podem ser proferidas declarações de voto.\n\n4 - De todas as reuniões dos órgãos da ASF é lavrada ata, a qual é assinada por todos os membros presentes, podendo o membro discordante do teor das deliberações tomadas exarar na ata a respetiva declaração de voto."
+  },
+  "66756507": {
+   "fragment_id": "66756801",
+   "type": 8,
+   "heading": "Secção II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de administração"
+  },
+  "66756508": {
+   "fragment_id": "66756802",
+   "type": 11,
+   "heading": "Artigo 11.º — Função do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Função do conselho de administração\n\nO conselho de administração é o órgão colegial responsável pela definição da atuação da ASF, bem como pela direção dos respetivos serviços."
+  },
+  "66756509": {
+   "fragment_id": "66756803",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição e designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição e designação\n\n1 - O conselho de administração da ASF é composto por um presidente e até quatro vogais, ocupando um deles o cargo de vice-presidente sempre que a composição total do órgão seja de cinco membros.\n\n2 - Os membros do conselho de administração são escolhidos de entre indivíduos com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, competindo a sua indicação ao membro do Governo responsável pela área das finanças.\n\n3 - Os membros do conselho de administração são designados nos termos previstos nos n.ºs 3 a 8 do artigo 17.º da lei-quadro das entidades reguladoras."
+  },
+  "66756510": {
+   "fragment_id": "66756804",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração e cessação do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração e cessação do mandato\n\n1 - O mandato dos membros do conselho de administração tem a duração de seis anos, não sendo renovável, sem prejuízo do disposto no número seguinte.\n\n2 - Os membros do conselho de administração podem ser providos nos órgãos da ASF decorridos seis anos após a cessação do mandato anterior.\n\n3 - O mandato dos membros do conselho de administração cessa pelo decurso do respetivo prazo e ainda por:\n\na) Morte ou incapacidade física ou psíquica permanente ou com uma duração que se preveja ultrapassar a data do termo da comissão de serviço ou do período para o qual foram designados;\n\nb) Renúncia, através de declaração escrita apresentada ao membro do Governo responsável pela área das finanças;\n\nc) Incompatibilidade superveniente;\n\nd) Condenação, por sentença transitada em julgado, em crime doloso que ponha em causa a idoneidade para o exercício do cargo;\n\ne) Cumprimento de pena de prisão;\n\nf) Dissolução do conselho de administração ou destituição dos seus membros, nos termos dos n.ºs 4 e 5;\n\ng) A extinção da ASF.\n\n4 - A dissolução do conselho de administração e a destituição de qualquer dos seus membros só pode ocorrer mediante resolução do Conselho de Ministros fundamentada em motivo justificado.\n\n5 - Para efeitos do disposto no número anterior, entende-se que existe motivo justificado sempre que se verifique falta grave, responsabilidade individual ou coletiva, apurada em inquérito devidamente instruído, por entidade independente do Governo, e precedendo parecer do conselho consultivo e da audição da comissão parlamentar competente, nomeadamente em caso de:\n\na) Desrespeito grave ou reiterado do regime legal e regulamentar aplicável, designadamente o não cumprimento das obrigações de transparência e informação no que respeita à atividade da ASF;\n\nb) Incumprimento do dever de exercício de funções em regime de exclusividade ou violação grave ou reiterada do dever de sigilo profissional;\n\nc) Incumprimento substancial e injustificado do plano de atividades ou do orçamento da ASF.\n\n6 - Nas situações de cessação do mandato pelo decurso do respetivo prazo e renúncia, os membros do conselho de administração mantêm-se no exercício das suas funções até à sua efetiva substituição.\n\n7 - No caso de vacatura por um dos motivos previstos nos números anteriores, a vaga é preenchida no prazo máximo de 45 dias após a sua verificação."
+  },
+  "66756511": {
+   "fragment_id": "66756805",
+   "type": 11,
+   "heading": "Artigo 14.º — Estatuto dos membros do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estatuto dos membros do conselho de administração\n\n1 - Aos membros do conselho de administração é aplicável o regime estatutário definido na lei-quadro das entidades reguladoras.\n\n2 - A remuneração dos membros do conselho de administração integra um vencimento mensal e, para despesas de representação, um abono mensal pago 12 vezes ao ano, o qual não pode ultrapassar 40 % do respetivo vencimento mensal.\n\n3 - O vencimento mensal e o abono mensal para despesas de representação dos membros do conselho de administração são fixados pela comissão de vencimentos que funciona junto da ASF.\n\n4 - A fixação nos termos do número anterior do vencimento mensal e do abono mensal para despesas de representação dos membros do conselho de administração não tem efeitos retroativos nem deve ser alterada no curso do mandato, sem prejuízo das alterações de remuneração que se apliquem, de modo transversal, à globalidade das entidades públicas.\n\n5 - A utilização de cartões de crédito e outros instrumentos de pagamento, viaturas, comunicações, prémios, suplementos e gozo de benefícios sociais pelos membros do conselho de administração obedece ao disposto no Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março.\n\n6 - As situações de inerência de funções ou cargos por membros do conselho de administração em entidades ou outras estruturas relacionadas com as entidades reguladoras não conferem direito a qualquer remuneração adicional ou quaisquer outros benefícios e regalias.\n\n7 - Para além dos critérios de fixação das remunerações previstos no n.º 3 do artigo 26.º da lei-quadro das entidades reguladoras, a comissão de vencimentos tem em consideração as práticas habituais de mercado no setor financeiro, nomeadamente para os titulares das restantes autoridades de supervisão financeira e a participação da ASF no CNSF."
+  },
+  "66756512": {
+   "fragment_id": "66756806",
+   "type": 11,
+   "heading": "Artigo 15.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Incompatibilidades e impedimentos\n\n1 - Os membros do conselho de administração exercem as suas funções em regime de exclusividade não podendo, designadamente:\n\na) Ser titulares de órgãos de soberania, das regiões autónomas ou do poder local, nem desempenhar quaisquer outras funções públicas ou profissionais, salvo funções docentes ou de investigação, desde que não remuneradas;\n\nb) Manter, direta ou indiretamente, qualquer vínculo ou relação contratual, remunerada ou não, com empresas, grupos de empresas ou outras entidades destinatárias da atividade da ASF ou deter quaisquer participações sociais ou interesses nas mesmas;\n\nc) Manter, direta ou indiretamente, qualquer vínculo ou relação contratual, remunerada ou não, com outras entidades cuja atividade possa colidir com as suas atribuições e competências.\n\n2 - Depois da cessação do seu mandato e durante um período de dois anos, os membros do conselho de administração não podem estabelecer qualquer vínculo ou relação contratual com as empresas, grupos de empresas ou outras entidades destinatárias da atividade da ASF, tendo direito no referido período a uma compensação equivalente a 1/2 do vencimento mensal.\n\n3 - A compensação prevista no número anterior não é atribuída nas seguintes situações:\n\na) Se e enquanto o membro do conselho de administração desempenhar qualquer outra função ou atividade remunerada;\n\nb) Quando o membro do conselho de administração tenha direito a pensão de reforma ou de aposentação e opte por esta; ou\n\nc) Nos casos em que o mandato do membro do conselho de administração cesse por outro motivo que não o decurso do respetivo prazo.\n\n4 - Em caso de incumprimento do disposto no n.º 2, o membro do conselho de administração fica obrigado à devolução do montante equivalente a todas as remunerações líquidas auferidas durante o período em que exerceu funções, bem como da totalidade das compensações líquidas recebidas, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo Instituto Nacional de Estatística, I.P. (INE, I.P.).\n\n5 - Em tudo o que não esteja especificamente regulado na lei-quadro das entidades reguladoras e nos presentes estatutos, os membros do conselho de administração ficam sujeitos ao regime de incompatibilidades e impedimentos estabelecido para os titulares de altos cargos públicos."
+  },
+  "66756513": {
+   "fragment_id": "66756807",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do conselho de administração\n\n1 - Compete ao conselho de administração, no âmbito da orientação e gestão da ASF:\n\na) Assegurar que a atividade da ASF é exercida de acordo com elevados padrões de qualidade e independência;\n\nb) Garantir a eficiência económica da gestão da ASF;\n\nc) Implementar uma gestão por objetivos devidamente determinados e quantificados e a respetiva avaliação periódica em função dos resultados;\n\nd) Dirigir a respetiva atividade;\n\ne) Definir e aprovar a organização interna da ASF;\n\nf) Elaborar os planos e relatórios a submeter anualmente à Assembleia da República e ao Governo e assegurar a respetiva execução;\n\ng) Acompanhar e avaliar sistematicamente a atividade desenvolvida, designadamente responsabilizando os diferentes serviços pela utilização eficiente dos meios postos à sua disposição e pelos resultados atingidos;\n\nh) Elaborar o balanço social, nos termos da lei aplicável;\n\ni) Exercer os poderes de direção, gestão e disciplina do pessoal;\n\nj) Praticar os atos respeitantes ao pessoal que estejam previstos na lei e nos presentes estatutos;\n\nk) Aprovar os regulamentos internos previstos nos presentes estatutos e os que sejam necessários ao desempenho das atribuições da ASF;\n\nl) Constituir mandatários da ASF, em juízo e fora dele, incluindo a faculdade de substabelecer;\n\nm) Designar um secretário a quem cabe certificar os atos e deliberações;\n\nn) Criar e encerrar delegações ou representações da ASF;\n\no) Emitir certidões de factos relacionados com as atribuições da ASF, nos termos da legislação aplicável;\n\np) Praticar os demais atos de gestão decorrentes da aplicação da lei e dos presentes estatutos e necessários ao bom funcionamento dos serviços.\n\n2 - Compete ao conselho de administração, no domínio da gestão financeira e patrimonial:\n\na) Elaborar o orçamento anual e assegurar a respetiva execução;\n\nb) Arrecadar e gerir as receitas e autorizar as despesas necessárias ao seu funcionamento;\n\nc) Elaborar o relatório e as contas do exercício;\n\nd) Gerir o património e, nomeadamente, deliberar sobre a aquisição, alienação, locação financeira ou aluguer de bens móveis e, sem prejuízo do disposto na alínea b) do n.º 7 do artigo 4.º, deliberar sobre a aquisição e alienação de bens imóveis, locação financeira e arrendamento de bens imóveis destinados à instalação, equipamento e funcionamento da ASF;\n\ne) Aceitar doações, heranças ou legados a benefício de inventário, sem prejuízo do disposto na alínea a) do n.º 7 do artigo 4.º;\n\nf) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes.\n\n3 - Compete ao conselho de administração, no domínio da atividade regulatória:\n\na) Aprovar normas regulamentares, de cumprimento obrigatório pelas entidades sujeitas à supervisão da ASF, respeitando o procedimento previsto no artigo 47.º;\n\nb) Emitir circulares, recomendações e orientações genéricas;\n\nc) Propor e homologar, nos termos legais aplicáveis, códigos de conduta e manuais de boas práticas a aplicar pelas entidades sob supervisão;\n\nd) Pronunciar-se, a pedido da Assembleia da República ou do Governo, sobre iniciativas legislativas ou outras relativas à regulação do setor de atividade sob supervisão;\n\ne) Formular sugestões com vista à revisão do quadro legal e regulatório aplicável ao setor de atividade sob supervisão.\n\n4 - Compete ao conselho de administração, no domínio da atividade de supervisão:\n\na) Aplicar as leis, os regulamentos e os atos de direito da União Europeia aplicáveis ao setor de atividade sob supervisão;\n\nb) Assegurar o cumprimento de deveres legais ou regulamentares ou resultantes de atos de direito da União Europeia a que se encontram sujeitas as entidades sob supervisão, quer a nível prudencial, quer a nível comportamental;\n\nc) Assegurar o cumprimento de qualquer orientação ou instrução emitida pela ASF ou de qualquer outro dever relacionado com o setor de atividade sob supervisão;\n\nd) Praticar os atos de autorização, aprovação, homologação ou registo legalmente previstos;\n\ne) Emitir ordens, proibições ou instruções vinculativas, para que sejam sanadas irregularidades nas entidades sujeitas à supervisão da ASF, sendo nulos os atos praticados em sua violação;\n\nf) Apreciar as contas de exercício das entidades sujeitas à supervisão da ASF, quer para efeitos prudenciais, quer para efeitos de prestação de informação ao mercado;\n\ng) Certificar as entidades sujeitas à supervisão da ASF;\n\nh) Assegurar que a aplicação das leis e regulamentos, e demais normas aplicáveis ao setor de atividade sob supervisão, é fiscalizada e auditada;\n\ni) Determinar a inspeção ou a auditoria das entidades sujeitas à supervisão da ASF, sempre que o entenda conveniente ou em cumprimento de disposições legais;\n\nj) Determinar a requisição de informações e documentos e a promoção de averiguações e exames em qualquer entidade ou local, no quadro da prossecução das atribuições da ASF;\n\nk) Determinar a revogação dos registos ou das autorizações concedidas e determinar a suspensão temporária ou retirada definitiva de clausulados e a comercialização de produtos, quando ocorra violação da lei ou haja risco ilegítimo para os interessados ou para o equilíbrio da exploração da empresa ou do setor.\n\n5 - Compete ao conselho de administração, no domínio sancionatório:\n\na) Determinar o desencadeamento dos procedimentos sancionatórios, em caso de infrações a normas legais ou regulamentares;\n\nb) Nos termos dos regimes sancionatórios aplicáveis, determinar a prática dos atos necessários ao processamento e punição das infrações às leis e regulamentos cuja implementação ou supervisão lhe compete, bem como do incumprimento das suas próprias determinações;\n\nc) Aprovar a adoção das medidas cautelares necessárias e das sanções devidas;\n\nd) Denunciar às entidades competentes as infrações cuja punição não caiba no âmbito das suas atribuições e colaborar com estas;\n\ne) Cobrar coimas.\n\n6 - Compete ao conselho de administração, no domínio do relacionamento institucional:\n\na) Assegurar a representação da ASF e, a pedido do Governo, a representação do Estado, em organismos e fóruns nacionais e internacionais no âmbito das relações com entidades nacionais e internacionais congéneres ou com relevância no âmbito das atribuições da ASF;\n\nb) Assegurar a participação da ASF no SESF, garantindo, designadamente, a representação no ESRB e na EIOPA;\n\nc) Assegurar a participação da ASF no CNSF;\n\nd) Assegurar a participação da ASF no CNSA;\n\ne) Estabelecer formas de cooperação e associação com outras entidades de direito público ou privado, nomeadamente com entidades congéneres, a nível da União Europeia ou internacional, quando isso se mostre necessário ou conveniente para a prossecução das atribuições da ASF;\n\nf) Estabelecer formas de cooperação e associação com as demais entidades reguladoras nacionais nas matérias referentes ao exercício de funções da ASF e nos assuntos de interesse comum e, em especial, com as autoridades de supervisão do setor financeiro;\n\ng) Designar os representantes da ASF junto de outras entidades;\n\nh) Exercer funções de consulta à Assembleia da República nos termos dos presentes estatutos e prestar informações e esclarecimentos sobre a respetiva atividade ao abrigo do n.º 3 do artigo 54.º;\n\ni) Coadjuvar o Governo através da prestação pela ASF de apoio técnico, elaboração de pareceres, estudos, informações e projetos de legislação, no âmbito das atribuições da ASF.\n\n7 - Compete ao conselho de administração, no domínio do apoio aos tomadores de seguros, segurados, subscritores, participantes, beneficiários e lesados:\n\na) Promover a dinamização e cooperação com os mecanismos alternativos de resolução de conflitos existentes, designadamente mediante a celebração de protocolos com centros de arbitragem institucionalizada, cabendo-lhe, nesse caso, definir os apoios logístico, financeiro, técnico e humano a prestar para o efeito e, bem assim, promover a adesão das entidades intervenientes no setor de atividade sob supervisão aos referidos centros de arbitragem;\n\nb) Assegurar a prestação de informação, orientação e apoio aos tomadores de seguros, segurados, subscritores, participantes, beneficiários e lesados e a cooperação com a Direção-Geral do Consumidor (DGC) e com as associações de consumidores na divulgação e dinamização dos seus direitos e interesses no setor de atividade sob supervisão;\n\nc) Assegurar a divulgação, semestral, de dados estatísticos sobre as reclamações dos tomadores de seguros, segurados, subscritores, participantes, beneficiários e lesados, de forma agregada ou identificando as entidades reclamadas;\n\nd) Assegurar a análise e a resposta às reclamações apresentadas pelos tomadores de seguros, segurados, subscritores, participantes, beneficiários e lesados que se refiram a questões que não estejam pendentes noutras instâncias;\n\ne) Emitir recomendações ou, na sequência da análise das reclamações, ordenar aos operadores sujeitos à sua supervisão, nos termos legalmente previstos, a adoção das providências necessárias à reparação justa dos direitos dos tomadores de seguros, segurados, subscritores, participantes, beneficiários e lesados.\n\n8 - Compete ao conselho de administração, no domínio do desenvolvimento de conhecimentos técnicos e respetiva difusão, reforço da literacia financeira e divulgação de informação pública:\n\na) Assegurar a recolha, tratamento e publicação de dados estatísticos sobre a atividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões, bem como de outros elementos informativos necessários para fins estatísticos;\n\nb) Promover a publicação de um relatório anual sobre a atividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões, a situação económica, financeira e patrimonial das entidades sob supervisão e o seu enquadramento na situação económica global do País;\n\nc) Promover a publicação de um relatório anual sobre a supervisão e regulação da conduta de mercado das entidades sob supervisão;\n\nd) Promover a elaboração e difusão de estudos técnicos relevantes para o desempenho das suas funções;\n\ne) Potenciar o conhecimento técnico do setor de atividade sob supervisão;\n\nf) Promover, apoiar ou participar em iniciativas de reforço da literacia financeira;\n\ng) Assegurar a gestão do sistema de registo de informações relativas ao seguro de responsabilidade civil de veículos terrestres a motor e de outros sistemas de registo de informações relativas a outros seguros que venham a ser legalmente instituídos;\n\nh) Facultar o acesso público ao registo de entidades supervisionadas;\n\ni) Salvaguardado o dever de sigilo, garantir a prestação de informações e esclarecimentos relativamente ao exercício da atividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões e aos fundos autónomos no âmbito da atividade seguradora, em resposta a solicitações de entidades públicas ou de pessoas singulares ou a pessoas coletivas de natureza privada.\n\n9 - Compete ao conselho de administração, no domínio da gestão de fundos:\n\na) Assegurar a prática pela ASF de todos os atos necessários no âmbito da gestão do Fundo de Garantia Automóvel, representando o mesmo e exercendo todos os seus direitos e obrigações, incluindo a renúncia ou a cessão de créditos, o perdão de dívidas, o pagamento ou aceitação de dações em pagamento e a transação em juízo ou fora dele;\n\nb) Assegurar a prática pela ASF de todos os atos necessários no âmbito da gestão do Fundo de Acidentes de Trabalho, representando o mesmo e exercendo todos os seus direitos e obrigações, incluindo a renúncia ou a cessão de créditos, o perdão de dívidas, o pagamento ou aceitação de dações em pagamento e a transação em juízo ou fora dele;\n\nc) Assegurar a prática de todos os atos necessários no âmbito da gestão de outros fundos que lhe seja confiada por lei.\n\n10 - Compete ainda ao conselho de administração da ASF exercer as demais competências que lhe sejam cometidas por diploma legal e que não estejam atribuídas a outro órgão."
+  },
+  "66756514": {
+   "fragment_id": "66756808",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências do presidente\n\n1 - Compete, em especial, ao presidente do conselho de administração:\n\na) Convocar e presidir às reuniões do conselho de administração, orientar os seus trabalhos e assegurar o cumprimento das respetivas deliberações;\n\nb) Assegurar a representação da ASF em atos de qualquer natureza;\n\nc) Assegurar as relações com a Assembleia da República, o Governo e os demais serviços e organismos públicos;\n\nd) Promover, sempre que o entenda conveniente ou o conselho de administração o delibere, a convocação do conselho consultivo, de reuniões conjuntas do conselho consultivo e da comissão de fiscalização ou de qualquer deles com o conselho de administração, presidindo a essas reuniões;\n\ne) Solicitar pareceres à comissão de fiscalização e ao conselho consultivo;\n\nf) Exercer as competências que lhe sejam delegadas pelo conselho de administração ou que lhe sejam cometidas em regulamento interno;\n\ng) Propor a distribuição de pelouros pelos membros do conselho de administração;\n\nh) Dirigir superiormente todas as atividades e departamentos da ASF e assegurar o seu adequado funcionamento.\n\n2 - O presidente tem ainda competência para tomar as decisões e praticar os atos que, dependendo de deliberação do conselho de administração, não possam, por motivo imperioso de urgência, aguardar a reunião daquele órgão, devendo tais decisões ou atos ser submetidos a ratificação do conselho de administração na primeira reunião ordinária subsequente.\n\n3 - O presidente é substituído, nas faltas e impedimentos, pelo vice-presidente, caso exista, ou pelo vogal que ele indicar e, na sua falta, pelo vogal mais antigo.\n\n4 - Sem prejuízo do disposto no n.º 4 do artigo 14.º do Código do Procedimento Administrativo, o presidente, ou quem o substituir, pode vetar as deliberações do conselho de administração que repute contrárias à lei, aos presentes estatutos ou ao interesse público, devendo o veto ser objeto de uma declaração de voto fundamentada e lavrada na ata.\n\n5 - Nos casos previstos no número anterior, as deliberações só podem ser aprovadas após novo procedimento decisório, incluindo a audição das entidades que o presidente ou quem o substituir repute convenientes."
+  },
+  "66756515": {
+   "fragment_id": "66756809",
+   "type": 11,
+   "heading": "Artigo 18.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Delegação de competências\n\n1 - O conselho de administração pode delegar competências em qualquer um dos seus membros, que as pode subdelegar em trabalhadores da ASF.\n\n2 - A delegação ou subdelegação de competências pode efetuar-se por referência às áreas funcionais da ASF, ou a uma ou várias competências do conselho de administração.\n\n3 - O presidente pode delegar as competências próprias nos restantes membros do conselho de administração.\n\n4 - Da delegação ou subdelegação de competências referidas nos números anteriores devem constar, de forma expressa, os limites e condições de exercício dessas competências, e a menção à existência ou não da faculdade de subdelegação.\n\n5 - O previsto nos números anteriores não prejudica o dever que incumbe a todos os membros do conselho de administração de tomarem conhecimento e acompanharem a generalidade dos assuntos da ASF e de sobre os mesmos se pronunciarem, nem o poder do conselho de administração de avocar os poderes delegados ou revogar os atos praticados pelo delegado ou subdelegado ao abrigo da delegação ou subdelegação, sempre que o entenda conveniente.\n\n6 - As delegações e subdelegações de competências são publicadas na 2.ª série do Diário da República."
+  },
+  "66756516": {
+   "fragment_id": "66756810",
+   "type": 11,
+   "heading": "Artigo 19.º — Responsabilidade dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Responsabilidade dos membros\n\n1 - Os membros do conselho de administração são solidariamente responsáveis pelos atos praticados no exercício das suas funções.\n\n2 - São isentos de responsabilidade os membros que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem votado contra, em declaração registada na respetiva ata, bem como os membros ausentes que tenham declarado por escrito o seu desacordo, que igualmente é registado na ata."
+  },
+  "66756517": {
+   "fragment_id": "66756811",
+   "type": 11,
+   "heading": "Artigo 20.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Funcionamento\n\nO conselho de administração reúne, ordinariamente, uma vez por semana e, extraordinariamente, sempre que o seu presidente o convoque, por iniciativa própria ou a solicitação de um dos seus membros."
+  },
+  "66756518": {
+   "fragment_id": "66756812",
+   "type": 8,
+   "heading": "Secção III — Do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do conselho consultivo"
+  },
+  "66756519": {
+   "fragment_id": "66756813",
+   "type": 11,
+   "heading": "Artigo 21.º — Função do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Função do conselho consultivo\n\nO conselho consultivo é um órgão de consulta da ASF sobre as grandes linhas de orientação estratégica relativas à coordenação do setor de atividade sob supervisão."
+  },
+  "66756520": {
+   "fragment_id": "66756814",
+   "type": 11,
+   "heading": "Artigo 22.º — Composição, designação, mandato e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Composição, designação, mandato e remuneração\n\n1 - O conselho consultivo é composto por:\n\na) O presidente do conselho de administração da ASF, que preside, mas sem direito de voto;\n\nb) Um representante do Governo Regional dos Açores;\n\nc) Um representante do Governo Regional da Madeira;\n\nd) Um membro do conselho de administração do BdP;\n\ne) Um membro do conselho de administração da CMVM;\n\nf) O diretor-geral da DGC;\n\ng) O presidente de uma das associações de defesa dos consumidores;\n\nh) O presidente de uma das associações de empresas de seguros;\n\ni) O presidente de uma das associações de entidades gestoras de fundos de pensões;\n\nj) O presidente de uma das associações de mediadores de seguros;\n\nk) Um representante da Economia Social;\n\nl) Até três individualidades de reconhecida idoneidade, independência e competência no âmbito das atribuições da ASF, designadas, sob proposta do presidente do conselho de administração, pelo membro do Governo responsável pela área das finanças.\n\n2 - Os membros referidos nas alíneas anteriores são designados:\n\na) Nos casos referidos nas alíneas b) a f), pelas entidades que representam;\n\nb) Nos casos referidos nas alíneas g) a j), pelas respetivas associações, exceto quando não exista acordo quanto ao representante, caso em que a designação é feita pelo conselho de administração da ASF, de entre aqueles que lhe sejam indicados pelas associações, seguindo critérios de rotatividade e de representatividade;\n\nc) No caso referido na alínea k), pelo Conselho Nacional da Economia Social.\n\n3 - O presidente do conselho consultivo designa o membro do conselho de administração que o substitui nas suas faltas ou impedimentos.\n\n4 - Cada um dos membros do conselho consultivo tem um mandato de três anos e pode ser substituído, até ao termo do mandato, pela entidade que o designou.\n\n5 - Os membros do conselho consultivo podem ser remunerados exclusivamente através de senhas de presença, de montante a definir em regulamento interno, o qual não pode ultrapassar o limite de dois abonos correspondentes ao valor do abono de ajudas de custo atribuídas pela ASF por deslocação em território nacional."
+  },
+  "66756521": {
+   "fragment_id": "66756815",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências do conselho consultivo\n\nCompete ao conselho consultivo da ASF:\n\na) Pronunciar-se sobre as questões que lhe sejam submetidas pelo conselho de administração;\n\nb) Apreciar os relatórios anuais a que se referem as alíneas b) e c) do n.º 8 do artigo 16.º;\n\nc) Apresentar, de sua própria iniciativa, ao conselho de administração, recomendações e sugestões no âmbito das atribuições da ASF."
+  },
+  "66756522": {
+   "fragment_id": "66756816",
+   "type": 11,
+   "heading": "Artigo 24.º — Reuniões do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reuniões do conselho consultivo\n\nO conselho consultivo reúne, ordinariamente, uma vez por ano e, extraordinariamente, por convocação do seu presidente, por sua iniciativa ou a solicitação da maioria dos seus membros em efetividade de funções."
+  },
+  "66756523": {
+   "fragment_id": "66756817",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Da comissão de fiscalização"
+  },
+  "66756524": {
+   "fragment_id": "66756818",
+   "type": 11,
+   "heading": "Artigo 25.º — Função da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Função da comissão de fiscalização\n\nA comissão de fiscalização é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da ASF e de consulta do respetivo conselho de administração nesses domínios."
+  },
+  "66756525": {
+   "fragment_id": "66756819",
+   "type": 11,
+   "heading": "Artigo 26.º — Composição, designação e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Composição, designação e mandato\n\n1 - A comissão de fiscalização é composta por um presidente e dois vogais, designados por despacho do membro do Governo responsável pela área das finanças, sendo um dos vogais revisor oficial de contas.\n\n2 - O revisor oficial de contas é designado, por despacho do membro do Governo responsável pela área das finanças, obrigatoriamente de entre os auditores registados na CMVM ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.\n\n3 - Os membros da comissão de fiscalização são designados para um mandato de quatro anos, não renovável, sem prejuízo do disposto no número seguinte.\n\n4 - Os membros da comissão de fiscalização só podem ser providos nos órgãos da ASF decorridos quatro anos após a cessação do mandato anterior.\n\n5 - No caso de cessação do mandato, os membros da comissão de fiscalização mantêm-se no exercício de funções até à efetiva substituição ou emissão de despacho de cessação de funções por parte do membro do Governo responsável pela área das finanças."
+  },
+  "66756526": {
+   "fragment_id": "66756820",
+   "type": 11,
+   "heading": "Artigo 27.º — Estatuto dos membros da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Estatuto dos membros da comissão de fiscalização\n\n1 - O presidente e os vogais da comissão de fiscalização têm direito a um vencimento mensal, pago 12 vezes ao ano, no valor de 1/4 do vencimento mensal fixado para o presidente e vogais do conselho de administração, respetivamente.\n\n2 - Os membros da comissão de fiscalização estão sujeitos às incompatibilidades previstas nas alíneas b) e c) do n.º 1 do artigo 15.º, não podendo ainda manter qualquer vínculo laboral com o Estado."
+  },
+  "66756527": {
+   "fragment_id": "66756821",
+   "type": 11,
+   "heading": "Artigo 28.º — Competências da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competências da comissão de fiscalização\n\n1 - Compete à comissão de fiscalização:\n\na) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, a execução orçamental e a situação económica, financeira, patrimonial e contabilística;\n\nb) Dar parecer sobre o orçamento e suas revisões e alterações, bem como sobre o plano de atividades, na perspetiva da sua cobertura orçamental;\n\nc) Dar parecer sobre o relatório e contas do exercício, incluindo documentos de certificação legal de contas;\n\nd) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\ne) Dar parecer sobre a aceitação de doações, heranças ou legados;\n\nf) Dar parecer sobre a contratação de empréstimos, quando a ASF esteja habilitada a fazê-lo;\n\ng) Manter o conselho de administração informado sobre os resultados das verificações e exames a que proceda;\n\nh) Elaborar relatórios da sua ação fiscalizadora, incluindo um relatório anual global;\n\ni) Propor a realização de auditorias externas, quando isso se revelar necessário ou conveniente;\n\nj) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho de administração ou pelo respetivo presidente, pelo Tribunal de Contas ou por outras entidades públicas encarregues da inspeção e auditoria dos serviços do Estado;\n\nk) Participar às entidades competentes as irregularidades que detete.\n\n2 - O prazo para elaboração dos pareceres referidos nas alíneas b) a f) do número anterior é de 30 dias, a contar da data da receção dos documentos a que respeitam, ressalvadas as situações de urgência imperiosa.\n\n3 - Para exercício da sua competência, a comissão de fiscalização tem direito a:\n\na) Obter do conselho de administração todas as informações e esclarecimentos que considere necessários;\n\nb) Ter livre acesso a todos os serviços e à documentação da ASF, podendo requisitar a presença de responsáveis e solicitar os esclarecimentos que considere necessários;\n\nc) Promover a realização de reuniões com o conselho de administração para análise de questões compreendidas no âmbito das suas competências, sempre que a sua natureza ou importância o justifique;\n\nd) Tomar ou propor as demais providências que considere indispensáveis."
+  },
+  "66756528": {
+   "fragment_id": "66756822",
+   "type": 11,
+   "heading": "Artigo 29.º — Funcionamento da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Funcionamento da comissão de fiscalização\n\nA comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que seja convocada pelo respetivo presidente, por sua iniciativa ou a solicitação de qualquer dos membros da comissão."
+  },
+  "66756529": {
+   "fragment_id": "66756823",
+   "type": 1,
+   "heading": "Capítulo IV — Trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Trabalhadores"
+  },
+  "66756530": {
+   "fragment_id": "66756824",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regime aplicável\n\n1 - Aos trabalhadores da ASF é aplicável o regime do contrato individual de trabalho.\n\n2 - A ASF pode ser parte em instrumentos de regulamentação coletiva do trabalho.\n\n3 - Por regulamento interno, a publicitar no sítio na Internet da ASF, são estabelecidas, com observância das disposições legais imperativas do regime do contrato individual de trabalho, regras sobre as seguintes matérias:\n\na) A organização e a disciplina do trabalho;\n\nb) O regime do pessoal, incluindo a avaliação de desempenho;\n\nc) O regime de carreiras;\n\nd) O estatuto remuneratório do pessoal, o qual deve garantir a equivalência com o estatuto remuneratório do pessoal das restantes autoridades de supervisão do setor financeiro, nunca sendo inferior ao estipulado no contrato coletivo de trabalho para a atividade seguradora;\n\ne) A identificação das categorias, cargos ou funções que são considerados titulares de cargos de direção ou equiparados;\n\nf) Os mecanismos destinados à verificação da existência de conflitos de interesses;\n\ng) O regime de proteção social complementar aplicável ao pessoal."
+  },
+  "66756531": {
+   "fragment_id": "66756825",
+   "type": 11,
+   "heading": "Artigo 31.º — Recrutamento e formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Recrutamento e formação profissional\n\n1 - O recrutamento de trabalhadores da ASF segue o procedimento de tipo concursal que, em qualquer caso, deve observar os seguintes princípios:\n\na) Publicitação da oferta de emprego no sítio na Internet da ASF e na Bolsa de Emprego Público;\n\nb) Igualdade de condições e imparcialidade de tratamento dos candidatos de oportunidades dos candidatos;\n\nc) Aplicação de métodos e critérios objetivos e detalhados de avaliação e seleção;\n\nd) Fundamentação da decisão tomada;\n\ne) Prestação de informação completa e clara aos candidatos sobre o decurso do procedimento e conclusão do mesmo.\n\n2 - A ASF deve garantir a formação contínua e especializada dos seus trabalhadores, de modo a que a atuação dos mesmos seja reconhecida e aceite no exercício das suas funções e sejam cumpridas, nesta matéria, as obrigações nacionais e internacionais aplicáveis."
+  },
+  "66756532": {
+   "fragment_id": "66756826",
+   "type": 11,
+   "heading": "Artigo 32.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Incompatibilidades e impedimentos\n\n1 - Os trabalhadores da ASF estão sujeitos a um regime de incompatibilidades e impedimentos que inclui:\n\na) Os previstos nas alíneas b) e c) do n.º 1 do artigo 15.º;\n\nb) As regras respeitantes a acumulações e incompatibilidades legalmente estabelecidas para os trabalhadores em funções públicas;\n\nc) O impedimento em exercer, diretamente ou por interposta pessoa, qualquer atividade supervisionada pela ASF.\n\n2 - Nas situações de cessação de funções relativas a cargos de direção ou equiparados, e durante um período de dois anos, os respetivos titulares não podem estabelecer qualquer vínculo ou relação contratual com as empresas, grupos de empresas ou outras entidades destinatárias da atividade da ASF, ficando, em caso de incumprimento, obrigados à devolução de todas as remunerações líquidas auferidas, até ao máximo de três anos, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo INE, I.P.\n\n3 - O regime previsto no número anterior não é aplicável nas situações de cessação de funções por caducidade de contrato de trabalho a termo, de cessação de comissão de serviço e respetivo regresso ao lugar de origem ou de cessação por iniciativa da ASF."
+  },
+  "66756533": {
+   "fragment_id": "66756827",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime aplicável aos trabalhadores com funções inspetivas e de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime aplicável aos trabalhadores com funções inspetivas e de auditoria\n\n1 - Os trabalhadores mandatados pela ASF para efetuar uma inspeção ou auditoria são equiparados a agentes da autoridade, podendo:\n\na) Aceder a todas as instalações, terrenos e meios de transporte de entidades destinatárias da atividade da ASF ou de quem colabore com aquelas;\n\nb) Inspecionar os livros e outros registos relativos às entidades destinatárias da atividade da ASF e a quem colabore com aquelas, independentemente do seu suporte;\n\nc) Obter, por qualquer forma, cópias ou extratos dos documentos controlados;\n\nd) Solicitar a qualquer representante legal, trabalhador ou colaborador de empresa ou de outra entidade destinatárias da atividade da ASF ou a quem colabore com aquelas, esclarecimentos sobre factos ou documentos relacionados com o objeto e a finalidade da inspeção ou auditoria e registar as suas respostas;\n\ne) Identificar, para posterior atuação, as entidades e pessoas que infrinjam as leis e regulamentos sujeitos à fiscalização da ASF;\n\nf) Reclamar o auxílio de autoridades policiais e administrativas quando o julguem necessário para o cabal desempenho das suas funções.\n\n2 - Os trabalhadores da ASF que exerçam funções inspetivas e de auditoria são portadores de um cartão de identificação para o efeito.\n\n3 - Os demais trabalhadores ou colaboradores de entidades terceiras, mandatados para acompanhar uma inspeção ou auditoria, devem ser portadores de credencial."
+  },
+  "66756534": {
+   "fragment_id": "66756828",
+   "type": 11,
+   "heading": "Artigo 34.º — Complementos de reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Complementos de reforma\n\nOs trabalhadores da ASF têm direito a complementos de reforma ou a um plano individual de reforma, de valor não inferior aos previstos no contrato coletivo de trabalho para a atividade seguradora, os quais são garantidos por um fundo de pensões."
+  },
+  "66756535": {
+   "fragment_id": "66756829",
+   "type": 1,
+   "heading": "Capítulo V — Da gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da gestão financeira e patrimonial"
+  },
+  "66756536": {
+   "fragment_id": "66756830",
+   "type": 11,
+   "heading": "Artigo 35.º — Regime aplicável à gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regime aplicável à gestão financeira e patrimonial\n\n1 - A gestão financeira e patrimonial da ASF rege-se pelo disposto na lei-quadro das entidades reguladoras, nos presentes estatutos e, supletivamente, pelo regime jurídico aplicável às entidades públicas empresariais.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 37.º, à ASF não são aplicáveis as regras da contabilidade pública e o regime dos fundos e serviços autónomos, nomeadamente as normas relativas à autorização de despesas, à transição e utilização dos resultados líquidos e às cativações de verbas.\n\n3 - A ASF respeita os princípios da prévia cabimentação e programação da realização das despesas subjacentes à assunção de compromissos e aos pagamentos em atraso das entidades públicas.\n\n4 - Os resultados líquidos da ASF, que podem transitar para o ano seguinte, são utilizados, entre outras aplicações:\n\na) Na constituição, pelo conselho de administração, de reservas para riscos de atividade ou para riscos de insuficiência de receitas ou de outras reservas que contribuem para a estabilidade dos montantes das taxas a que as entidades supervisionadas estão sujeitas;\n\nb) Na promoção do desenvolvimento de conhecimentos técnicos e respetiva difusão e no reforço da literacia financeira, no que se refere ao setor segurador e dos fundos de pensões."
+  },
+  "66756537": {
+   "fragment_id": "66756831",
+   "type": 11,
+   "heading": "Artigo 36.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Património\n\n1 - O património próprio da ASF é constituído pela universalidade dos seus bens, direitos e obrigações de conteúdo económico, os quais se regem pelo direito privado, salvo os bens móveis do Estado e do parque de veículos do Estado, relativamente aos bens que lhe tenham sido afetos pelo Estado, que se regem pelos regimes jurídicos do património imobiliário público.\n\n2 - Pelas obrigações da ASF responde apenas o seu património, mas os credores, uma vez executada a integralidade do património da mesma ou respetiva extinção, podem demandar o Estado para satisfação dos seus créditos.\n\n3 - A ASF elabora e atualiza, anualmente, o respetivo inventário de bens imóveis, nos termos do regime jurídico do património imobiliário público."
+  },
+  "66756538": {
+   "fragment_id": "66756832",
+   "type": 11,
+   "heading": "Artigo 37.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Receitas\n\n1 - Constituem receitas próprias da ASF:\n\na) As contribuições e taxas previstas no artigo seguinte;\n\nb) O produto da venda de bens e prestação de serviços, bem como da constituição de direitos sobre aqueles;\n\nc) Os rendimentos de bens próprios e os provenientes da sua atividade;\n\nd) As receitas de aplicações financeiras;\n\ne) Os subsídios, doações ou comparticipações atribuídos por quaisquer entidades nacionais ou estrangeiras;\n\nf) Os montantes das coimas aplicadas pelas contraordenações que lhe compete sancionar, nos termos do regime sancionatório aplicável, bem como as custas dos processos de contraordenação, sem prejuízo do disposto no n.º 3 do artigo 41.º;\n\ng) Quaisquer outros rendimentos ou receitas que por lei, contrato ou outra forma lhe sejam atribuídos.\n\n2 - Às verbas provenientes da utilização de bens de domínio público ou que dependam de dotações do Orçamento do Estado é aplicável o regime orçamental e financeiro dos serviços e fundos autónomos, designadamente em matéria de autorização de despesas, transição e utilização dos resultados líquidos e cativações de verbas."
+  },
+  "66756539": {
+   "fragment_id": "66756833",
+   "type": 11,
+   "heading": "Artigo 38.º — Contribuições e taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Contribuições e taxas\n\n1 - Para efeitos do disposto na alínea a) do artigo anterior, são devidas à ASF:\n\na) Pelas empresas de seguros autorizadas a exercer a sua atividade em Portugal, uma taxa anual de supervisão de montante correspondente à aplicação de uma percentagem sobre a totalidade da receita processada, líquida de estornos e anulações, relativa aos prémios de seguro diretamente subscritos pela empresa em causa;\n\nb) Pelas entidades gestoras dos fundos de pensões autorizadas a exercer a sua atividade em Portugal, uma taxa anual de supervisão de montante correspondente à aplicação de uma percentagem sobre a totalidade das contribuições efetuadas pelos associados e pelos participantes para os correspondentes fundos de pensões;\n\nc) Pelos mediadores de seguros ou de resseguros, uma taxa anual de supervisão e taxas por contrapartida de atos individualmente praticados, a fixar em função dos custos necessários à supervisão e à regulação da atividade de mediação;\n\nd) Pelas entidades promotoras de cursos de formação previstos na alínea a) do n.º 1 do artigo 12.º do regime jurídico do acesso e do exercício da atividade de mediação de seguros ou de resseguros, aprovado pelo Decreto-Lei n.º 144/2006, de 31 de julho, uma taxa por cada curso reconhecido pela ASF;\n\ne) Outras contribuições ou taxas que venham ser fixadas por lei.\n\n2 - Por portaria do membro do Governo responsável pela área das finanças são fixados, ouvida a ASF, o montante ou a alíquota, a periodicidade e, se for caso disso, as isenções e reduções, totais e parciais, das contribuições e taxas previstas no número anterior.\n\n3 - A ASF estabelece, através de norma regulamentar, os modos e prazos de liquidação e cobrança das contribuições e taxas previstas no n.º 1."
+  },
+  "66756540": {
+   "fragment_id": "66756834",
+   "type": 11,
+   "heading": "Artigo 39.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Despesas\n\nConstituem despesas da ASF os encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "66756541": {
+   "fragment_id": "66756835",
+   "type": 11,
+   "heading": "Artigo 40.º — Contabilidade, contas e tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Contabilidade, contas e tesouraria\n\n1 - A ASF aplica o Sistema de Normalização Contabilística.\n\n2 - A prestação de contas rege-se, fundamentalmente, pelo disposto na Lei de Organização e Processo do Tribunal de Contas e respetivas disposições regulamentares.\n\n3 - À ASF é aplicável o regime da tesouraria do Estado e, em particular, o princípio e as regras da unidade de tesouraria.\n\n4 - Sem prejuízo do disposto nas alíneas d) e e) do n.º 3 do artigo 2.º, o conselho de administração pode determinar que a contabilidade da ASF seja auditada por entidade independente."
+  },
+  "66756542": {
+   "fragment_id": "66756836",
+   "type": 11,
+   "heading": "Artigo 41.º — Cobrança coerciva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Cobrança coerciva\n\n1 - A cobrança coerciva das contribuições e taxas previstas no artigo 38.º, bem como das coimas aplicadas pela ASF que não tenham sido objeto de recurso de impugnação judicial, segue o processo de execução fiscal, regulado pelo Código de Procedimento e de Processo Tributário, efetivando-se através dos serviços competentes de justiça fiscal, sendo aquelas equiparadas a créditos do Estado.\n\n2 - Para os efeitos do disposto no número anterior, constitui título executivo bastante a certidão com valor de título executivo de acordo com o disposto no Código de Procedimento e de Processo Tributário.\n\n3 - A cobrança coerciva de créditos prevista no n.º 1 pode ser promovida pela Autoridade Tributária e Aduaneira, nos termos a definir por protocolo a celebrar, para o efeito, entre este serviço e a ASF."
+  },
+  "66756543": {
+   "fragment_id": "66756837",
+   "type": 11,
+   "heading": "Artigo 42.º — Gestão dos fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Gestão dos fundos\n\nNa gestão dos fundos que estão confiados à ASF, aplicam-se os n.ºs 1 a 3 do artigo 35.º e os artigos 36.º, 40.º e 41.º, sem prejuízo de instrumentos específicos que reforcem os mecanismos de gestão e controlo dos riscos próprios das respetivas atividades."
+  },
+  "66756544": {
+   "fragment_id": "66756838",
+   "type": 11,
+   "heading": "Artigo 43.º — Sistema de indicadores de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Sistema de indicadores de desempenho\n\n1 - A ASF utiliza um sistema coerente de indicadores de desempenho, que reflete a especificidade das suas atribuições, o conjunto das atividades prosseguidas e dos resultados obtidos.\n\n2 - O sistema referido no número anterior deve englobar indicadores de eficiência, eficácia e qualidade.\n\n3 - Compete à comissão de fiscalização aferir a qualidade do sistema de indicadores de desempenho, bem como avaliar, anualmente, os resultados obtidos pela ASF em função dos meios disponíveis, cujas conclusões são reportadas ao membro do Governo responsável pela área das finanças."
+  },
+  "66756545": {
+   "fragment_id": "66756839",
+   "type": 1,
+   "heading": "Capítulo VI — Deveres gerais, transparência e relação com terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Deveres gerais, transparência e relação com terceiros"
+  },
+  "66756546": {
+   "fragment_id": "66756840",
+   "type": 11,
+   "heading": "Artigo 44.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Sigilo profissional\n\n1 - Os membros dos órgãos e os trabalhadores da ASF, bem como as pessoas ou entidades, públicas ou privadas, que lhe prestem, a título permanente ou ocasional, quaisquer serviços, ficam sujeitos a sigilo profissional sobre os factos cujo conhecimento lhes advenha do exercício das suas funções ou da prestação dos serviços referidos e, seja qual for a finalidade, não podem divulgar, nem utilizar, em proveito próprio ou alheio, diretamente ou por interposta pessoa, o conhecimento que tenham desses factos.\n\n2 - Sem prejuízo do disposto no número anterior, o dever de sigilo profissional mantém-se ainda que as pessoas ou entidades a ele sujeitas nos termos do número anterior deixem de exercer funções ou prestar serviços à ASF.\n\n3 - Sem prejuízo da responsabilidade civil e criminal que dela resulte, a violação do dever de sigilo profissional estabelecido no presente artigo, quando cometida por um membro de um órgão ou por trabalhador da ASF, implica para o infrator as sanções disciplinares correspondentes à sua gravidade, que podem ir até à destituição ou ao despedimento e, quando praticada por pessoa ou entidade vinculada à ASF por um contrato de prestação de serviços, confere ao conselho de administração o direito de resolver imediatamente esse contrato.\n\n4 - O disposto nos números anteriores, afasta a aplicação do regime previsto no artigo 18.º da lei-quadro das entidades reguladoras, sempre que este se revele, atendendo às circunstâncias do caso concreto, mais permissivo do que o disposto no presente artigo."
+  },
+  "66756547": {
+   "fragment_id": "66756841",
+   "type": 11,
+   "heading": "Artigo 45.º — Dever de diligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Dever de diligência\n\nOs membros dos órgãos e os trabalhadores da ASF, bem como as pessoas ou entidades, públicas ou privadas, que lhe prestem, a título permanente ou ocasional, quaisquer serviços, estão sujeitos aos deveres de diligência sobre todos os assuntos que lhes sejam confiados."
+  },
+  "66756548": {
+   "fragment_id": "66756842",
+   "type": 11,
+   "heading": "Artigo 46.º — Sítio na Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Sítio na Internet\n\nA ASF assegura a divulgação, no seu sítio na Internet, dos seguintes elementos:\n\na) Os diplomas legais, incluindo a lei-quadro das entidades reguladoras, e regulamentares aplicáveis à ASF;\n\nb) Os objetivos da supervisão e as suas principais funções e atividades;\n\nc) A composição dos órgãos, incluindo os respetivos elementos biográficos e valor das componentes do estatuto remuneratório aplicado;\n\nd) Os planos, incluindo os plurianuais, e os relatórios de atividades e os orçamentos e contas;\n\ne) O plano de prevenção de riscos de corrupção e infrações conexas;\n\nf) As disposições legais, regulamentares e administrativas e as orientações de caráter geral que regem a atividade seguradora e resseguradora, de mediação de seguros e de gestão de fundos de pensões;\n\ng) A informação estatística e os relatórios referidos nas alíneas a) a c) do n.º 8 do artigo 16.º, bem como outros documentos que sejam relevantes para as entidades supervisionadas, tomadores de seguros, segurados, subscritores, participantes, beneficiários e lesados ou o público em geral;\n\nh) Informação referente à atividade regulatória e sancionatória;\n\ni) O mapa de pessoal, sem identificação nominal, e respetivo estatuto remuneratório e sistema de carreiras."
+  },
+  "66756549": {
+   "fragment_id": "66756843",
+   "type": 11,
+   "heading": "Artigo 47.º — Consulta pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Consulta pública\n\n1 - A ASF promove a consulta pública prévia à emissão das respetivas normas regulamentares.\n\n2 - Para efeitos da consulta pública, a ASF faculta aos interessados o acesso aos projetos de norma regulamentar e disponibiliza-os no seu sítio na Internet, concedendo, em função da respetiva extensão e complexidade, um prazo razoável para a emissão dos respetivos comentários e sugestões, o qual não é inferior a 15 dias, salvo se situações de urgência devidamente fundamentadas motivarem a definição de prazo inferior.\n\n3 - No relatório preambular das normas regulamentares, a ASF fundamenta as suas opções, designadamente com referência aos comentários e sugestões apresentados durante o período de consulta pública.\n\n4 - As normas regulamentares são publicadas na 2.ª série do Diário da República e imediatamente disponibilizadas no sítio da ASF na Internet."
+  },
+  "66756550": {
+   "fragment_id": "66756844",
+   "type": 11,
+   "heading": "Artigo 48.º — Colaboração das outras autoridades e entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Colaboração das outras autoridades e entidades\n\n1 - A ASF pode solicitar a todas as autoridades, serviços públicos ou outras entidades públicas, as informações e diligências necessárias ao exercício das suas atribuições.\n\n2 - A ASF pode requerer informações que tenha por relevantes a quaisquer pessoas singulares ou a pessoas coletivas de natureza privada, designadamente às que exerçam atividades que caiba à ASF supervisionar ou participem nas empresas sujeitas à sua supervisão ou sejam por elas participadas e, ainda, a revisores oficiais de contas, aos atuários responsáveis, à Ordem dos Revisores Oficiais de Contas e às associações representativas dos atuários."
+  },
+  "66756551": {
+   "fragment_id": "66756845",
+   "type": 11,
+   "heading": "Artigo 49.º — Prestadores de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Prestadores de serviços\n\nAos prestadores de serviços relativamente aos quais possa existir conflito de interesses é aplicável o disposto nas alíneas b) e c) do n.º 1 do artigo 15.º, cabendo ao conselho de administração aferir e acautelar a existência daquele conflito."
+  },
+  "66756552": {
+   "fragment_id": "66756846",
+   "type": 1,
+   "heading": "Capítulo VII — Vinculação, impugnação de atos e competência jurisdicional e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Vinculação, impugnação de atos e competência jurisdicional e responsabilidade"
+  },
+  "66756553": {
+   "fragment_id": "66756847",
+   "type": 11,
+   "heading": "Artigo 50.º — Representação e vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Representação e vinculação\n\n1 - A ASF é representada, designadamente, em juízo ou na prática de atos jurídicos, pelo presidente do conselho de administração, por dois dos seus membros ou por mandatários especialmente designados por eles.\n\n2 - Sem prejuízo do disposto na alínea l) do n.º 1 do artigo 16.º, o conselho de administração pode optar por solicitar o apoio e a representação em juízo por parte do Ministério Público, ao qual compete, nesse caso, defender os interesses da ASF.\n\n3 - Os atos de mero expediente, de que não resultem obrigações para a ASF, podem ser subscritos por qualquer membro do conselho de administração ou por trabalhador da ASF a quem tal poder seja expressamente atribuído."
+  },
+  "66756554": {
+   "fragment_id": "66756848",
+   "type": 11,
+   "heading": "Artigo 51.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Legitimidade\n\nA ASF tem legitimidade para requerer quaisquer providências cautelares, sempre que necessário para o equilíbrio do setor de atividade sob supervisão e para garantia eficaz dos interesses dos tomadores de seguros, segurados, subscritores, participantes, beneficiários e lesados."
+  },
+  "66756555": {
+   "fragment_id": "66756849",
+   "type": 11,
+   "heading": "Artigo 52.º — Impugnação dos atos e competência jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Impugnação dos atos e competência jurisdicional\n\n1 - A atividade de natureza administrativa dos órgãos e agentes da ASF fica sujeita à jurisdição administrativa, nos termos da respetiva legislação.\n\n2 - Às sanções por infrações às leis e regulamentos cuja implementação ou supervisão compete à ASF, bem como ao incumprimento das suas próprias determinações, são aplicáveis os regimes especiais legalmente previstos.\n\n3 - O tribunal competente para julgar um recurso de impugnação judicial de decisão condenatória da ASF por infrações contraordenacionais é o tribunal da concorrência, regulação e supervisão."
+  },
+  "66756556": {
+   "fragment_id": "66756850",
+   "type": 11,
+   "heading": "Artigo 53.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Responsabilidade\n\n1 - Os membros dos órgãos da ASF e os seus trabalhadores respondem civil, criminal, disciplinar e financeiramente pelos atos e omissões que pratiquem no exercício das suas funções, nos termos da Constituição e demais legislação aplicável.\n\n2 - A responsabilidade financeira é efetivada pelo Tribunal de Contas, nos termos da respetiva legislação.\n\n3 - Quando sejam demandados judicialmente por terceiros nos termos do n.º 1, os membros dos órgãos da ASF e os seus trabalhadores têm direito a apoio jurídico assegurado pela ASF, sem prejuízo do direito de regresso desta, nos termos gerais."
+  },
+  "66756557": {
+   "fragment_id": "66756851",
+   "type": 11,
+   "heading": "Artigo 54.º — Prestação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Prestação de informação\n\n1 - No primeiro trimestre de cada ano de atividade, a ASF apresenta na comissão parlamentar competente da Assembleia da República o respetivo plano de atividades e a programação do seu desenvolvimento.\n\n2 - Anualmente, a ASF elabora e envia à Assembleia da República e ao Governo um relatório detalhado sobre a respetiva atividade e funcionamento no ano antecedente, sendo tal relatório objeto de publicação no seu sítio na Internet.\n\n3 - Sempre que tal lhes seja solicitado, os membros dos órgãos da ASF devem apresentar-se perante a comissão parlamentar competente, para prestar informações ou esclarecimentos sobre a respetiva atividade.\n\n4 - Sem prejuízo das obrigações anuais inscritas na lei que aprova o Orçamento do Estado, a ASF deve observar o disposto no artigo 67.º da lei de enquadramento orçamental, aprovada pela Lei n.º 91/2001, de 20 de agosto."
+  },
+  "66756558": {
+   "fragment_id": "66756852",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 29 de dezembro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 31 de dezembro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "115883978": {
+   "fragment_id": "66756795",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuições",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 59/2018 - Diário da República n.º 148/2018, Série I de 2018-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2018-115879178), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 7.º — Atribuições\n\n1 - São atribuições da ASF:\n\na) Supervisionar e regular a atividade seguradora, resseguradora, de mediação de seguros e de fundos de pensões, bem como as atividades conexas ou complementares daquelas;\n\nb) Participar, nos termos definidos na lei, no sistema de supervisão macroprudencial para prevenção e mitigação dos riscos sistémicos suscetíveis de afetar a estabilidade financeira, designadamente no âmbito do Conselho Nacional de Supervisores Financeiros (CNSF), criado pelo Decreto-Lei n.º 228/2000, de 23 de setembro, alterado pelos Decretos-Leis n.os 211-A/2008, de 3 de novembro, e 143/2013, de 18 de outubro;\n\nc) Exercer funções de apoio técnico e consulta à Assembleia da República e ao Governo, em matérias relativas ao setor de atividade sob supervisão, nos termos definidos nos presentes estatutos;\n\nd) Participar no Sistema Europeu de Supervisão Financeira (SESF), integrando, designadamente, o Comité Europeu do Risco Sistémico (ESRB) e a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma (EIOPA);\n\ne) Cooperar ou associar-se com outras entidades de direito público ou privado, nomeadamente com autoridades de supervisão congéneres, a nível da União Europeia ou internacional, quando tal se mostre necessário ou conveniente para a prossecução das suas atribuições;\n\nf) Cooperar ou associar-se com as outras autoridades nacionais de supervisão do setor financeiro, designadamente no âmbito do CNSF;\n\ng) Cooperar ou associar-se com as demais entidades reguladoras nacionais, designadamente com o Banco de Portugal (BdP), a Comissão do Mercado de Valores Mobiliários (CMVM) ou a Autoridade da Concorrência, nas matérias referentes ao exercício das suas funções e nos assuntos de interesse comum;\n\nh) Participar, nos termos definidos na lei, no sistema de supervisão da auditoria, designadamente no âmbito do Conselho Nacional de Supervisão de Auditoria (CNSA);\n\ni) Promover o desenvolvimento de conhecimentos técnicos e respetiva difusão e o reforço da literacia financeira no que se refere ao setor segurador e dos fundos de pensões;\n\nj) Gerir os fundos que lhe sejam confiados por lei.\n\nk) Supervisionar e regular a atividade desenvolvida por associações mutualistas, ou respetivas federações, uniões e confederações, nos termos definidos em lei especial.\n\n2 - A supervisão da ASF abrange toda a atividade das entidades a ela sujeitas, incluindo as atividades conexas ou complementares da atividade principal, e é exercida de harmonia com a legislação nacional e da União Europeia em vigor.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 59/2018 - Diário da República n.º 148/2018, Série I de 2018-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2018-115879178), em vigor a partir de 2018-09-01"
+  }
+ }
+}

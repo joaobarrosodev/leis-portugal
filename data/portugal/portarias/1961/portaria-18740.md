@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:179861:por
+title: Portaria n.º 18740
+short_title: null
+summary: Designa as atribuições que cabem ao Instituto Superior de Estudos Ultramarinos nas suas relações com a Direcção-Geral
+  do Ensino Superior e das Belas-Artes
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ultramar e da Educação Nacional
+proposing_entity: null
+official_number: '18740'
+official_date: null
+publication_date: '1961-09-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 223/1961, Série I de 1961-09-25
+  number: '223'
+  series: I
+  supplement: null
+  pages: 1226 - 1226
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/09/22300/12261226.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '179861'
+  dre_path: /dr/detalhe/portaria/18740-1961-179861
+  internal: pt:dre:179861:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18740-1961-179861
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18740-1961-179861
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:05:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0cd8e08665f1d7215b7ee1545b4806c93cb9c571a84891847a9fb562f233b6eb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:173148:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:05:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18740
+
+Tendo em vista a execução do preceituado no [Decreto-Lei n.º 43858](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43858-1961-173148), de 14 de Agosto de 1961, que integrou o Instituto Superior de Estudos Ultramarinos na Universidade Técnica de Lisboa:
+
+Manda o Governo da República Portuguesa, pelos Ministros do Ultramar e da Educação Nacional, o seguinte:
+
+1.º O Instituto Superior de Estudos Ultramarinos corresponde-se directamente, nos termos do § 1.º da base 6.ª do Decreto com força de lei n.º 19081, de 2 de Dezembro de 1930, com a Direcção-Geral do Ensino Superior e das Belas-Artes, à qual cabem relativamente aos mesmo Instituto, as atribuições que a legislação em vigor lhe confere em relação às restantes escolas da Universidade Técnica de Lisboa.
+
+2.º A referida Direcção-Geral submeterá a despacho do Ministro do Ultramar, do Ministro da Educação Nacional ou de ambos os assuntos que forem, respectivamente, da competência legal de cada um deles ou da competência conjunta dos dois.
+
+Ministérios do Ultramar e da Educação Nacional, 25 de Setembro de 1961. - O Ministro do Ultramar, Adriano José Alves Moreira. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.

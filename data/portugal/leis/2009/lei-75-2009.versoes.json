@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:493513:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-155873797",
+ "dre_path": "/dr/detalhe/lei/75-2009-493513",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "155874181",
+    "155874182",
+    "155874183",
+    "155874184",
+    "155874185",
+    "155874186",
+    "155874187",
+    "155874188",
+    "155874189",
+    "155874190",
+    "155874191"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "155874181",
+    "155874182",
+    "155874183",
+    "155874184",
+    "155874185",
+    "155874193",
+    "155874187",
+    "155874188",
+    "155874189",
+    "155874190",
+    "155874191",
+    "155874192"
+   ]
+  }
+ ],
+ "fragments": {
+  "155874181": {
+   "fragment_id": "155873798",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 75/2009\n\nde 12 de Agosto\n\nEstabelece normas com vista à redução do teor de sal no pão bem como informação na rotulagem de alimentos embalados destinados ao consumo humano\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "155874182": {
+   "fragment_id": "155873799",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei estabelece limites máximos ao teor do sal no pão bem como orientações para a rotulagem de alimentos pré-embalados destinados ao consumo humano.\n\n2 - São abrangidos pela presente lei todos os tipos de pão, incluindo o denominado «pão sem sal» e o «pão integral»."
+  },
+  "155874183": {
+   "fragment_id": "155873800",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Pão» o produto obtido da amassadura, fermentação e cozedura, em condições adequadas, das farinhas de trigo, centeio, triticale ou milho, estremes ou em mistura, de acordo com os tipos legalmente estabelecidos, água potável e fermento ou levedura, sendo ainda possível a utilização de sal e de outros ingredientes, incluindo aditivos, bem como auxiliares tecnológicos, nas condições legalmente fixadas;\n\nb) «Sal» o composto iónico cujo elemento mais conhecido é o cloreto de sódio, vulgarmente conhecido como «sal comum» ou «sal da cozinha», por ser largamente utilizado na alimentação humana;\n\nc) «Rotulagem» o conjunto de menções e indicações, inclusive imagem e marca de fabrico ou de comércio, respeitantes ao produto alimentar que figuram sobre a embalagem em rótulo, etiqueta, cinta, gargantilha, letreiro de documento, acompanhando ou referindo-se ao respectivo produto;\n\nd) «Alimentos pré-embalados destinados ao consumo humano» o conjunto da embalagem e do produto nela acondicionado antes da sua exposição à venda ao consumidor final, sendo a embalagem comercializada solidariamente com o produto e envolvendo-o completamente de tal modo que o seu conteúdo não possa ser modificado ou violado."
+  },
+  "155874184": {
+   "fragment_id": "155873801",
+   "type": 11,
+   "heading": "Artigo 3.º — Teor máximo de sal no pão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Teor máximo de sal no pão\n\n1 - O teor máximo permitido para o conteúdo de sal no pão, após confeccionado, é de 1,4 g por 100 g de pão (ou seja 14 g de sal por quilograma de pão ou o correspondente 0,55 g de sódio por 100 g de pão).\n\n2 - Ficam excluídos da aplicação da norma contida no número anterior os tipos de pão reconhecidos como produtos tradicionais com nomes protegidos."
+  },
+  "155874185": {
+   "fragment_id": "155873802",
+   "type": 11,
+   "heading": "Artigo 4.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rotulagem\n\nSem prejuízo da informação que a rotulagem dos alimentos pré-embalados destinados ao consumo humano deve conter nos termos legais, deverão ser observadas as seguintes orientações:\n\na) Proporcionar uma informação objectiva, simples, que inclua dados sobre a quantidade relativa e absoluta de sal na embalagem, por percentagem do produto e por porção/dose;\n\nb) Incluir caracteres gráficos bem visíveis, de fácil leitura, que identifiquem claramente do ponto de vista qualitativo e quantitativo o teor salino dos alimentos pré-embalados."
+  },
+  "155874186": {
+   "fragment_id": "155873803",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\nConstitui contra-ordenação a infracção ao disposto no n.º 1 do artigo 3.º, punível com coima no montante mínimo de (euro) 500 e máximo de (euro) 3500, tratando-se de pessoa singular, e no montante mínimo de (euro) 750 e no máximo de (euro) 5000, tratando-se de pessoa colectiva."
+  },
+  "155874187": {
+   "fragment_id": "155873804",
+   "type": 11,
+   "heading": "Artigo 6.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autoridade competente\n\n1 - Sem prejuízo da competência atribuída por lei a outras entidades policiais e fiscalizadoras, compete especialmente à Autoridade de Segurança Alimentar e Económica assegurar a fiscalização do cumprimento das regras previstas na presente lei.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira é atribuída aos competentes serviços e organismos das respectivas administrações regionais a competência para assegurar a fiscalização do cumprimento das regras contidas nesta lei."
+  },
+  "155874188": {
+   "fragment_id": "155873805",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio à investigação científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio à investigação científica\n\nO Governo apoia programas de investigação científica destinada à adequação do processo de fabrico do pão, visando a redução do teor de sal e de outros ingredientes considerados prejudiciais à saúde."
+  },
+  "155874189": {
+   "fragment_id": "155873806",
+   "type": 11,
+   "heading": "Artigo 8.º — Teor de sal noutros alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Teor de sal noutros alimentos\n\nO Governo apresenta à Assembleia da República, no prazo de seis meses a partir da publicação desta lei, um programa de intervenção destinado à redução do teor de sal noutros alimentos."
+  },
+  "155874190": {
+   "fragment_id": "155873807",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nÉ autorizada a comercialização, até ao esgotamento das existências, dos produtos não conformes com as normas previstas na presente lei, desde que comprovadamente tenham sido fabricados antes da sua entrada em vigor."
+  },
+  "155874191": {
+   "fragment_id": "155873808",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente lei entra em vigor no prazo de 12 meses a contar da data da sua publicação."
+  },
+  "155874193": {
+   "fragment_id": "155873803",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\nConstitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas, a violação ao disposto no n.º 1 do artigo 3.º da presente lei.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155874192": {
+   "fragment_id": "155873809",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 3 de Julho de 2009.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 29 de Julho de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 30 de Julho de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

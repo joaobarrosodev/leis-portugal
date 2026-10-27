@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:300392:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1992-953229720",
+ "dre_path": "/dr/detalhe/lei/12-1992-300392",
+ "source_lastmod": "2025-11-26",
+ "versions": [
+  {
+   "date": "1992-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "952062662",
+    "952062663",
+    "952062664",
+    "952062665"
+   ]
+  },
+  {
+   "date": "1992-09-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:239241:por",
+     "title": "Rectificação n.º 10/92",
+     "published": "1992-09-12",
+     "dre_path": "/dr/detalhe/rectificacao/10-1992-239241"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "952062662",
+    "952062663",
+    "952062669",
+    "952062665",
+    "952062666"
+   ]
+  }
+ ],
+ "fragments": {
+  "952062662": {
+   "fragment_id": "953229721",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 12/92\n\nde 16 de Julho\n\nAutoriza o Governo a rever o regime legal do contrato de serviço doméstico\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º, n.º 1, alínea b), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "952062663": {
+   "fragment_id": "953229722",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica o Governo autorizado a rever o regime legal do contrato de serviço doméstico."
+  },
+  "952062664": {
+   "fragment_id": "953229723",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA legislação a publicar pelo Governo nos termos do artigo anterior deverá ter em conta a natureza especial do contrato de serviço doméstico, gerador de relações com acentuado carácter familiar, bem como a necessidade de melhoria do estatuto social destes trabalhadores de forma compatível com a especificidade económica dos empregadores, e assentará nas seguintes regras:\n\na) Enumeração exemplificativa das actividades que podem ser objecto de contrato de serviço doméstico, prevendo a extensão do respectivo regime, com adaptações, ao serviço prestado a pessoas colectivas ou outras entidades de fins não lucrativos, ou a agregados familiares por conta daquelas; exclusão de trabalhos com carácter acidental, de execução de tarefas concretas de frequência intermitente, bem como da execução de trabalhos domésticos no regime denominado au pair, de autonomia ou de voluntariado social, os quais se regerão pela estipulação das partes; definição das modalidades do contrato, distinguindo entre contratos com ou sem alojamento e com ou sem alimentação, a tempo inteiro e a tempo parcial;\n\nb) Fixação de um período experimental de 90 dias, prevendo-se a possibilidade de, por estipulação escrita, ser eliminado ou reduzido;\n\nc) Fixação da idade mínima de admissão em 16 anos, com obrigatoriedade de comunicação à Inspecção-Geral do Trabalho dos elementos considerados indispensáveis para uma fiscalização eficaz quando se trate de admissão de menores;\n\nd) Determinação das condições de admissibilidade do contrato a termo, certo ou incerto, restringindo-a aos casos de natureza transitória ou temporária do trabalho a prestar e de estipulação pelas partes de duração, incluindo as renovações, não superior a um ano; sujeição do contrato a termo, neste último caso, à forma escrita; fixação das consequências da falta de redução a escrito; possibilidade de o contrato a termo certo ser objecto de duas renovações e previsão da sua conversão em contrato sem termo após o decurso de 15 dias sobre a data do termo da última renovação ou da verificação do evento que justificou a sua celebração;\n\ne) Definição do conceito, do tempo de cumprimento e das modalidades da retribuição; consagração, em relação aos trabalhadores alojados, do direito à alimentação nos dias de descanso semanal e feriados ou do valor correspondente; possibilidade de definição da retribuição mínima mensal garantida em diploma especial; previsão de um subsídio de Natal não inferior a 50% da parte pecuniária da retribuição correspondente a um mês, ou a 100%, no caso de o trabalhador ter, pelo menos, cinco anos de antiguidade, com a possibilidade de ser proporcional ao tempo de trabalho prestado no ano da sua concessão; obrigatoriedade de entrega ao trabalhador de documento comprovativo das prestações devidas, relativas ao pagamento em numerário;\n\nf) Fixação da duração máxima semanal do trabalho em quarenta e quatro horas, a qual, mediante acordo do trabalhador, poderá ser observada em termos médios; previsão de que, relativamente aos trabalhadores alojados, apenas sejam considerados os tempos de trabalho efectivo;\n\ng) Previsão de intervalos para descanso e refeições a fixar por acordo ou, na falta deste, pela entidade empregadora, dentro dos períodos consagrados pelos usos e costumes; garantia de um repouso nocturno de, pelo menos, oito horas consecutivas, insusceptível de interrupção a não ser por motivos graves, imprevistos ou de força maior ou quando o trabalhador tenha sido contratado para assistir doentes ou crianças até aos 3 anos;\n\nh) Consagração, sem prejuízo da retribuição, do direito a um dia de descanso semanal; possibilidade de ser convencionado entre as partes um descanso semanal complementar de meio dia ou de um dia;\n\ni) Previsão do direito a férias remuneradas de 22 dias úteis em cada ano civil e aproximação do respectivo regime à lei geral;\n\nj) Definição do conceito, dos tipos e dos efeitos das faltas, em termos de aproximação ao regime geral do contrato individual de trabalho;\n\nl) Garantia, relativamente ao trabalhador alojado e ao não alojado a tempo inteiro, do direito ao gozo dos feriados obrigatórios previstos na regulamentação geral do contrato individual de trabalho; possibilidade de, com o acordo do trabalhador, poder ter lugar a prestação de trabalho de duração normal nos feriados obrigatórios, a compensar com tempo livre por um período correspondente; previsão de que, quando por razões de atendível interesse do agregado familiar não seja viável a compensação com tempo livre, o trabalhador tenha direito à remuneração correspondente;\n\nm) Regulamentação do regime da suspensão do contrato de trabalho por impedimento prolongado respeitante ao trabalhador, nomeadamente doença ou acidente, determinando-se que, em caso de não apresentação ao serviço no período de 10 dias após o termo do impedimento, se considera haver abandono do trabalho, com consequente cessação do contrato de trabalho;\n\nn) Previsão de disposições gerais relativas à segurança e saúde do trabalhador doméstico, como definição dos direitos e deveres dos empregadores e trabalhadores;\n\no) Previsão de o contrato de serviço doméstico poder cessar por acordo das partes, por caducidade, por rescisão de qualquer das partes ocorrendo justa causa e por rescisão unilateral do trabalhador com pré-aviso;\n\np) Regulamentação da cessação do contrato de trabalho por caducidade, prevendo que esta se verifique nos termos gerais e ainda, nomeadamente, por manifesta insuficiência económica da entidade empregadora superveniente à celebração do contrato, por alteração substancial das circunstâncias da vida familiar da entidade empregadora que torne imediata e praticamente impossível a subsistência da relação de trabalho, conferindo-se ao trabalhador, neste caso, o direito a uma compensação de valor correspondente à retribuição de um mês por cada três anos de serviço, até ao limite de cinco, independentemente da retribuição por inteiro do mês em que se verificar a caducidade do contrato;\n\nq) Considerar como impossibilidade definitiva, para efeitos da caducidade, o impedimento cuja duração seja superior a seis meses ou, antes de expirado este prazo, quando haja a certeza ou se preveja com segurança que o impedimento terá duração superior;\n\nr) Definição da justa causa de rescisão do contrato em termos equiparados aos do regime geral, considerando como tal qualquer facto ou circunstância que impossibilite a manutenção das relações que decorrem da natureza especial do contrato de serviço doméstico;\n\ns) Atribuição ao trabalhador, não havendo acordo quanto à reintegração, do direito a uma indemnização, nos casos de despedimento pela entidade empregadora com a legação insubsistente de justa causa;\n\nt) Disciplina da rescisão unilateral do contrato pelo trabalhador, prevendo-se um aviso prévio de duas semanas por cada ano de serviço ou fracção, até ao limite de seis semanas, e uma indemnização, que poderá ser compensada com créditos de retribuição, correspondente à retribuição do período de aviso prévio em falta;\n\nu) Aproximação do instituto do abandono de trabalho ao regime geral, fixando-se em 10 dias o período em que se presume a existência do abandono;\n\nv) Adstrição do empregador, mediante pedido do trabalhador, à obrigação de passagem de um certificado de trabalho, quando ocorra a cessação do contrato;\n\nx) Previsão de sanções por infracções à regulamentação agora autorizada, devendo o respectivo regime aproximar-se do vigente para a violação das normas do contrato individual de trabalho."
+  },
+  "952062665": {
+   "fragment_id": "953229724",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente autorização legislativa tem a duração de 90 dias."
+  },
+  "952062669": {
+   "fragment_id": "953229723",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1992-09-12",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação n.º 10/92 - Diário da República n.º 211/1992, Série I-A de 1992-09-12](https://diariodarepublica.pt/dr/detalhe/rectificacao/10-1992-239241), em vigor a partir de 1992-09-12"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA legislação a publicar pelo Governo nos termos do artigo anterior deverá ter em conta a natureza especial do contrato de serviço doméstico, gerador de relações com acentuado carácter familiar, bem como a necessidade de melhoria do estatuto social destes trabalhadores de forma compatível com a especificidade económica dos empregadores, e assentará nas seguintes regras:\n\na) Enumeração exemplificativa das actividades que podem ser objecto de contrato de serviço doméstico, prevendo a extensão do respectivo regime, com adaptações, ao serviço prestado a pessoas colectivas ou outras entidades de fins não lucrativos, ou a agregados familiares por conta daquelas; exclusão de trabalhos com carácter acidental, de execução de tarefas concretas de frequência intermitente, bem como da execução de trabalhos domésticos no regime denominado au pair, de autonomia ou de voluntariado social, os quais se regerão pela estipulação das partes; definição das modalidades do contrato, distinguindo entre contratos com ou sem alojamento e com ou sem alimentação, a tempo inteiro e a tempo parcial;\n\nb) Fixação de um período experimental de 90 dias, prevendo-se a possibilidade de, por estipulação escrita, ser eliminado ou reduzido;\n\nc) Fixação da idade mínima de admissão em 16 anos, com obrigatoriedade de comunicação à Inspecção-Geral do Trabalho dos elementos considerados indispensáveis para uma fiscalização eficaz quando se trate de admissão de menores;\n\nd) Determinação das condições de admissibilidade do contrato a termo, certo ou incerto, restringindo-a aos casos de natureza transitória ou temporária do trabalho a prestar e de estipulação pelas partes de duração, incluindo as renovações, não superior a um ano; sujeição do contrato a termo, neste último caso, à forma escrita; fixação das consequências da falta de redução a escrito; possibilidade de o contrato a termo certo ser objecto de duas renovações e previsão da sua conversão em contrato sem termo após o decurso de 15 dias sobre a data do termo da última renovação ou da verificação do evento que justificou a sua celebração;\n\ne) Definição do conceito, do tempo de cumprimento e das modalidades da retribuição; consagração, em relação aos trabalhadores alojados, do direito à alimentação nos dias de descanso semanal e feriados ou do valor correspondente; possibilidade de definição da retribuição mínima mensal garantida em diploma especial; previsão de um subsídio de Natal não inferior a 50% da parte pecuniária da retribuição correspondente a um mês, ou a 100%, no caso de o trabalhador ter, pelo menos, três anos de antiguidade, com a possibilidade de ser proporcional ao tempo de trabalho prestado no ano da sua concessão; obrigatoriedade de entrega ao trabalhador de documento comprovativo das prestações devidas, relativas ao pagamento em numerário;\n\nf) Fixação da duração máxima semanal do trabalho em quarenta e quatro horas, a qual, mediante acordo do trabalhador, poderá ser observada em termos médios; previsão de que, relativamente aos trabalhadores alojados, apenas sejam considerados os tempos de trabalho efectivo;\n\ng) Previsão de intervalos para descanso e refeições a fixar por acordo ou, na falta deste, pela entidade empregadora, dentro dos períodos consagrados pelos usos e costumes; garantia de um repouso nocturno de, pelo menos, oito horas consecutivas, insusceptível de interrupção a não ser por motivos graves, imprevistos ou de força maior ou quando o trabalhador tenha sido contratado para assistir doentes ou crianças até aos 3 anos;\n\nh) Consagração, sem prejuízo da retribuição, do direito a um dia de descanso semanal; possibilidade de ser convencionado entre as partes um descanso semanal complementar de meio dia ou de um dia;\n\ni) Previsão do direito a férias remuneradas de 22 dias úteis em cada ano civil e aproximação do respectivo regime à lei geral;\n\nj) Definição do conceito, dos tipos e dos efeitos das faltas, em termos de aproximação ao regime geral do contrato individual de trabalho;\n\nl) Garantia, relativamente ao trabalhador alojado e ao não alojado a tempo inteiro, do direito ao gozo dos feriados obrigatórios previstos na regulamentação geral do contrato individual de trabalho; possibilidade de, com o acordo do trabalhador, poder ter lugar a prestação de trabalho de duração normal nos feriados obrigatórios, a compensar com tempo livre por um período correspondente; previsão de que, quando por razões de atendível interesse do agregado familiar não seja viável a compensação com tempo livre, o trabalhador tenha direito à remuneração correspondente;\n\nm) Regulamentação do regime da suspensão do contrato de trabalho por impedimento prolongado respeitante ao trabalhador, nomeadamente doença ou acidente, determinando-se que, em caso de não apresentação ao serviço no período de 10 dias após o termo do impedimento, se considera haver abandono do trabalho, com consequente cessação do contrato de trabalho;\n\nn) Previsão de disposições gerais relativas à segurança e saúde do trabalhador doméstico, como definição dos direitos e deveres dos empregadores e trabalhadores;\n\no) Previsão de o contrato de serviço doméstico poder cessar por acordo das partes, por caducidade, por rescisão de qualquer das partes ocorrendo justa causa e por rescisão unilateral do trabalhador com pré-aviso;\n\np) Regulamentação da cessação do contrato de trabalho por caducidade, prevendo que esta se verifique nos termos gerais e ainda, nomeadamente, por manifesta insuficiência económica da entidade empregadora superveniente à celebração do contrato, por alteração substancial das circunstâncias da vida familiar da entidade empregadora que torne imediata e praticamente impossível a subsistência da relação de trabalho, conferindo-se ao trabalhador, neste caso, o direito a uma compensação de valor correspondente à retribuição de um mês por cada três anos de serviço, até ao limite de cinco, independentemente da retribuição por inteiro do mês em que se verificar a caducidade do contrato;\n\nq) Considerar como impossibilidade definitiva, para efeitos da caducidade, o impedimento cuja duração seja superior a seis meses ou, antes de expirado este prazo, quando haja a certeza ou se preveja com segurança que o impedimento terá duração superior;\n\nr) Definição da justa causa de rescisão do contrato em termos equiparados aos do regime geral, considerando como tal qualquer facto ou circunstância que impossibilite a manutenção das relações que decorrem da natureza especial do contrato de serviço doméstico;\n\ns) Atribuição ao trabalhador, não havendo acordo quanto à reintegração, do direito a uma indemnização, nos casos de despedimento pela entidade empregadora com a legação insubsistente de justa causa;\n\nt) Disciplina da rescisão unilateral do contrato pelo trabalhador, prevendo-se um aviso prévio de duas semanas por cada ano de serviço ou fracção, até ao limite de seis semanas, e uma indemnização, que poderá ser compensada com créditos de retribuição, correspondente à retribuição do período de aviso prévio em falta;\n\nu) Aproximação do instituto do abandono de trabalho ao regime geral, fixando-se em 10 dias o período em que se presume a existência do abandono;\n\nv) Adstrição do empregador, mediante pedido do trabalhador, à obrigação de passagem de um certificado de trabalho, quando ocorra a cessação do contrato;\n\nx) Previsão de sanções por infracções à regulamentação agora autorizada, devendo o respectivo regime aproximar-se do vigente para a violação das normas do contrato individual de trabalho.\n\n> Retificado pelo/a [Rectificação n.º 10/92 - Diário da República n.º 211/1992, Série I-A de 1992-09-12](https://diariodarepublica.pt/dr/detalhe/rectificacao/10-1992-239241), em vigor a partir de 1992-09-12"
+  },
+  "952062666": {
+   "fragment_id": "953229725",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 7 de Maio de 1992.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 17 de Junho de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 23 de Junho de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:525030:por
+title: Decreto n.º 48925
+short_title: null
+summary: Prorroga até 31 de Dezembro de 1980, sem prejuízo do restante estabelecido, o prazo fixado no § 1.º do artigo 1.º
+  do Decreto n.º 41725, que autoriza a Companhia do Caminho de Ferro de Benguela a emitir obrigações até ao montante de 800000000$00,
+  e altera em conformidade a data do início da amortização e a quota anual da mesma constantes do corpo do artigo 5.º do referido
+  decreto
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Inspecção Superior de Administração Ultramarina
+proposing_entity: null
+official_number: '48925'
+official_date: null
+publication_date: '1969-03-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 72/1969, Série I de 1969-03-26
+  number: '72'
+  series: I
+  supplement: null
+  pages: 315 - 315
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/03/07200/03150315.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '525030'
+  dre_path: /dr/detalhe/decreto/48925-1969-525030
+  internal: pt:dre:525030:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48925-1969-525030
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48925-1969-525030
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a7efd9c858b220818fca0a3ff88b1b66d8095feba07018bfdea62e0cb148e96e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:352313:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:06:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48925
+
+Pelo [Decreto n.º 41725](https://diariodarepublica.pt/dr/detalhe/decreto/41725-1958-352313), de 8 de Julho de 1958, foi a Companhia do Caminho de Ferro de Benguela, sociedade anónima de responsabilidade limitada, concessionária do caminho de ferro do Lobito à fronteira leste de Angola, autorizada a emitir obrigações até à importância de 800000000$00, em séries, conforme as necessidades do investimento, sob condição de toda a emissão estar concluída em 31 de Dezembro de 1970.
+
+A 1.ª série - que não poderia exceder 240000000$00 - seria emitida logo a seguir à publicação do diploma e destinar-se-ia a financiar o plano de melhoramentos da empresa nos anos de 1958-1960.
+
+De acordo com o artigo 5.º, a amortização das obrigações emitidas até 31 de Dezembro de 1970 iniciar-se-ia no ano de 1971, sendo amortizados em cada ano 1/30 do total das mesmas, e terminaria no ano 2000, sem prejuízo do disposto no seu § 3.º, que prescreveu «constituírem as importâncias em dívida por atraso na amortização, observadas determinadas condições, encargo sobre a exploração do caminho de ferro, mesmo para além do termo da concessão, até sua completa liquidação».
+
+Até à presente data foram emitidas, por conta apenas da referida 1.ª série, obrigações na importância de 148832000$00. Dentro da autorização concedida caberia ainda à Companhia do Caminho de Ferro de Benguela colocar obrigações por mais 651168000$00. Todavia, e apesar da significância dos planos em estudo, a empresa reconhece expressamente não ser possível utilizar em escala apreciável até àquela data a faculdade de emitir obrigações nesse valor e, por isso, «pretende que, sem prejuízo do restante condicionalismo estabelecido no [Decreto n.º 41725](https://diariodarepublica.pt/dr/detalhe/decreto/41725-1958-352313), o prazo referido no artigo 1.º seja prorrogado até 31 de Dezembro de 1980 e a data do início e a quota anual de amortização, constantes do citado artigo 5.º, sejam também alteradas em conformidade».
+
+Considerando que a empresa projecta fazer nos próximos anos avultados investimentos com vista ao aumento da capacidade de transporte do seu caminho de ferro e à maior eficiência deste, devendo, para tanto, ter necessidade de recorrer ao capital obrigacionista;
+
+Considerando que do deferimento da pretensão não resulta ofensa dos direitos e interesses do Estado definidos no decreto que autorizou a concessão da exploração do caminho de ferro de Benguela e nos subsequentes diplomas que o modificaram e respectivos contratos;
+
+Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo único. Sem prejuízo do restante condicionalismo estabelecido no [Decreto n.º 41725](https://diariodarepublica.pt/dr/detalhe/decreto/41725-1958-352313), de 8 de Julho de 1958, o prazo fixado no § 1.º do seu artigo 1.º é prorrogado até 31 de Dezembro de 1980, sendo também alteradas, em conformidade, a data do início da amortização e a quota anual da mesma constantes do corpo do artigo 5.º, que passam a ser, respectivamente, no ano de 1981 e de 1/20 do montante a amortizar.
+
+§ único. Em relação, porém, às obrigações já emitidas, continuará em vigor, sem qualquer alteração, o disposto no corpo do artigo 5.º do citado [Decreto n.º 41725](https://diariodarepublica.pt/dr/detalhe/decreto/41725-1958-352313).
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 17 de Março de 1969.
+
+Publique-se.
+
+Presidência da República, 26 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.

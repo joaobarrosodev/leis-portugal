@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: pt:dre:2110015:por
+title: Portaria n.º 28/2009
+short_title: null
+summary: Utilização, pelo InIR, da plataforma tecnológica utilizada pela Autoridade Nacional de Segurança Rodoviária (ANSR)
+  para tratamento dos autos de contra-ordenação decorrentes das infracções ao Código da Estrada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 28/2009
+official_date: null
+publication_date: '2009-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2009, Série II de 2009-01-09
+  number: '6'
+  series: II
+  supplement: null
+  pages: 829 - 830
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/01/006000000/0082900830.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2110015'
+  dre_path: /dr/detalhe/portaria/28-2009-2110015
+  internal: pt:dre:2110015:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-2009-2110015
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-2009-2110015
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 359d6821ce98af32ba1472afea963f55dcfe50cbc6213d160f947b8d6a684af5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:19:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autoridade Nacional de Segurança Rodoviária
+- Conselho Diretivo
+- Instituto de Infra-Estruturas Rodoviárias
+- Simbolo de Identificação
+- Sistema de Informação
+relationships:
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:19:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 28/2009
+
+A [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho, aprovou o regime sancionatório aplicável às transgressões em matéria de infra-estruturas rodoviárias em que seja devido o pagamento de portagem.
+
+A instauração e instrução dos processos de contra-ordenação relativos a transgressões ocorridas em matéria rodoviária eram competências da antiga Direcção-Geral de Viação (DGV).
+
+No entanto, a alínea e) do n.º 2 do artigo 16.º do [Decreto-Lei n.º 203/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2006-545640), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério da Administração Interna, veio estabelecer que a DGV seria extinta, sendo as suas atribuições transferidas para as seguintes entidades:
+
+a) Autoridade Nacional de Segurança Rodoviária (ANSR), no que respeita às atribuições no domínio da prevenção e segurança rodoviárias e das contra-ordenações de trânsito;
+
+b) Instituto da Mobilidade e dos Transportes Terrestres, I. P., no que respeita às atribuições relativas a veículos e condutores;
+
+c) Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR), no que respeita ao regime sancionatório previsto na [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho.
+
+Estas atribuições foram, efectivamente, transferidas aquando da extinção da DGV, o que ocorreu em 1 de Novembro de 2007.
+
+Já no decurso do presente ano, e além das competências relativas a processos cujo facto ilícito ocorreu após a extinção da DGV, foi também atribuída ao InIR a responsabilidade pelo tratamento dos autos de transgressão ocorridos anteriormente ao início efectivo das suas funções, ou seja, antes da data da efectiva extinção da DGV.
+
+Para responder a este súbito e inesperado acréscimo de responsabilidades, e tendo em conta a necessidade de rápida resolução dos processos pendentes, cujo prazo de prescrição se encontrava a correr, o InIR solicitou à Autoridade Nacional de Segurança Rodoviária (ANSR) uma autorização para, sem custos adicionais, utilizar a plataforma tecnológica utilizada por aquela entidade para tratamento dos autos de contra-ordenação decorrentes das infracções ao Código da Estrada. Esta aplicação, designada por Sistema Informático de Gestão dos Autos de Contra-Ordenação - SIGA, foi desenvolvida para a ANSR pela sociedade Lógica TI Portugal, S. A.,
+
+Para que se encontrasse em condições de ser utilizada pelo InIR, na prossecução das atribuições que lhe incumbem, era apenas necessário desenvolver um módulo aplicacional - Sistema de Gestão de Autos de Contra-Ordenação (SGACO), que permitiria a adequação daquele sistema às especificidades processuais decorrentes dos processos de contra-ordenação relativos a transgressões em matéria de infra-estruturas rodoviárias em que seja devido o pagamento de portagem. Adoptou-se, por isso, a solução que permitia responder, de forma mais célere, à necessidade de se promover a instrução dos processos de contra-ordenação, em particular daqueles cujo facto ilícito foi praticado antes da extinção da DGV.
+
+O SGACO consiste numa aplicação informática que garante a instrução e tramitação automática dos autos de contra-ordenação, respeitando os prazos, vicissitudes e demais aspectos processuais formais específicos em matéria de transgressões no âmbito das infra-estruturas rodoviárias em que seja devido o pagamento de portagem e, consequentemente, o exercício da acção punitiva em tempo útil e adequado, reforçando a eficácia do sistema contra-ordenacional.
+
+Neste momento, o SGACO está totalmente desenvolvido, encontrando-se em conclusão a respectiva fase de testes. Nesta fase, visa-se, essencialmente, validar funcionalidades, bem como garantir a sua fiabilidade, o que, apesar de tudo, permitiu o início da instrução dos processos de contra-ordenação.
+
+O InIR pretende lançar um procedimento de concurso público para a aquisição dos serviços de operação e manutenção do SGACO. No entanto, este procedimento só pode ser lançado após a conclusão dos testes que se encontram em curso, por forma a garantir que as soluções encontradas são as mais eficazes e, assim, ser possível definir com precisão as especificações técnicas que constarão das peças do referido procedimento.
+
+No entanto, prevê-se que a conclusão do procedimento por concurso público ocorra apenas no primeiro trimestre de 2009, tornando-se indispensável garantir, entre a conclusão dos testes e a adjudicação, a continuidade da prestação dos serviços em causa, sob pena de os procedimentos por contra-ordenação prescreverem, por força do preceituado na redacção primitiva da referida [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho, ou seja, no prazo de um ano sobre a prática da infracção.
+
+A prescrição tem como consequência o necessário efeito da descredibilização da acção punitiva, criando uma convicção de impunidade geral e de insegurança e incerteza na aplicação do direito, em completa contradição com a necessidade de dar consistência prática às injunções normativas, convertendo-as em regras efectivas de conduta, tal como o postula e justifica o Direito de Mera Ordenação Social.
+
+A contratação proposta é indispensável à operacionalidade do SGACO, sob pena de a suspensão do tratamento dos autos de contra-ordenação, já em curso e a instruir, trazer graves inconvenientes para o interesse público.
+
+A política prosseguida pelo Governo é a de, com respeito pelos direitos, liberdades e garantias constitucionais dos cidadãos, defender o interesse público, acentuando a eficácia do sistema punitivo das contra-ordenações, a qual é tão mais necessária quanto o é o campo crescente de intervenção e aplicação daquele sistema na organização da vida em comunidade.
+
+Deve assim o Governo promover, através de todos os meios legais ao seu alcance e mobilizando os recursos disponíveis, a eficácia do Direito de Mera Ordenação Social, evitando a sua degradação e reforçando a sua força persuasiva e preventiva.
+
+Por estas razões, e por ser incompatível com o interesse público suspender o tratamento dos autos de contra-ordenação, é necessário realizar um procedimento célere, que permita a celebração, no mais curto espaço de tempo possível, de um contrato que garanta a prestação daqueles serviços.
+
+Dado que a aplicação foi desenvolvida pela Lógica TI, Portugal, S. A., e que as especificações técnicas são apenas consolidadas após a conclusão da fase de testes, apenas esta entidade se encontra dotada, no presente momento, dos meios e conhecimentos técnicos da aplicação que permitem operar e realizar a manutenção do SGACO.
+
+Assim, no presente momento, e durante a fase transitória até à conclusão do concurso público acima referido, os serviços de operação e manutenção apenas podem, por razões técnicas, ser realizados por esta entidade.
+
+Assim, reconhecem-se como verificados os requisitos exigidos pelas alíneas c) e e) do n.º 1 do artigo 24.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, sendo manifesto que, por motivos de urgência imperiosa resultante de acontecimentos imprevisíveis, não imputáveis ao InIR, não podem ser cumpridos os prazos ou formalidades previstos para os restantes procedimentos.
+
+É manifesto que, desde que assumiu a responsabilidade pela instrução dos processos de contra-ordenação relativos a infracções cometidas antes da extinção da DGV, o InIR desenvolveu, de imediato, todas as diligências no sentido de ter em funcionamento as aplicações informáticas necessárias àquela tarefa. Dada a especificidade do desenvolvimento informático da aplicação SGACO, foi necessário, além do período de desenvolvimento da aplicação, realizar uma fase de testes, que não impediu, contudo, o início da instrução dos processos de contra-ordenação. Porém, tendo em conta que as especificações técnicas necessárias para a elaboração das peças do procedimento são apenas determinadas no fim da fase de testes e correcções, e atendendo ao prazo de prescrição aplicável a estas infracções - de um ano, de acordo com a primitiva redacção da [Lei n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/lei/25-2006-357348), de 30 de Junho - , a urgência na instrução e conclusão dos processos de contra-ordenação mantém-se, sendo inviável, para uma efectiva aplicação e eficácia do direito contra-ordenacional, suspender o tratamento dos respectivos autos até à conclusão do concurso público para operação e manutenção do sistema.
+
+Considerando que se verificam os fundamentos materiais para a escolha de procedimento por ajuste directo, independentemente do valor, constantes da alínea c) e e) do n.º 1 do artigo 24.º do referido Código dos Contratos Públicos, pretende-se realizar um procedimento desta natureza tendente à contratação dos serviços estritamente necessários até à data de início da execução do contrato que vier a ser celebrado, na sequência de procedimento por concurso público.
+
+Considerando que a referida aquisição dará origem a encargos orçamentais em mais de um ano económico;
+
+Considerando que, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, a abertura de procedimento que dê origem a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização carece de prévia autorização, conferida em portaria conjunta do Ministro da Finanças e do respectivo Ministro:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Administração Pública e das Obras Públicas, Transportes e Comunicações, o seguinte:
+
+1.º Fica autorizado o conselho directivo do Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR), pelos fundamentos invocados supra, a iniciar um procedimento de ajuste directo para a aquisição, à Lógica TI Portugal, S. A., de serviços de operação no âmbito do sistema informático SGACO, até ao montante de (euro) 1 200 000, a que acresce o IVA à taxa legal, que envolve encargos em anos económicos diferentes, de acordo com o seguinte escalonamento:
+
+Ano de 2008 - até ao limite máximo de (euro) 200 000;
+
+Ano de 2009 - até ao limite máximo de (euro) 1 000 000.
+
+2.º Os encargos decorrentes da presente portaria serão suportados por verbas adequadas do orçamento do InIR.
+
+3.º A presente portaria produz os seus efeitos no dia seguinte ao da sua publicação.
+
+17 de Dezembro de 2008. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.

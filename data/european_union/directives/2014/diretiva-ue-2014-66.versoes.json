@@ -1,0 +1,407 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0066:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0066-20140527",
+ "dre_path": null,
+ "source_lastmod": "2014-05-27",
+ "versions": [
+  {
+   "date": "2014-05-27",
+   "future": false,
+   "celex": "02014L0066-20140527",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "201aa37351b829a5",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "9edafeb4e161e601",
+    "e3437105799c6201",
+    "3e327dc9ca2ec18b",
+    "bb15bbf212121489",
+    "f0f8c960bfdbce9b",
+    "8693245abdeb3281",
+    "b6f7d5c354cdb1e6",
+    "6c2ff7b173218c31",
+    "2cc32426d789f715",
+    "4afb001f65194126",
+    "b3a766c229649ea6",
+    "1e7a0903d2eed348",
+    "1e4cf0c2918fa3d9",
+    "cf0359f4ba82cc5c",
+    "c8e567eac8f6ae63",
+    "436b8fc68d465736",
+    "9fbfa9b6aeaa5bb2",
+    "2fca711fdc859449",
+    "1aa2d2af8014dbf2",
+    "a6e2686f42b3591a",
+    "1ecfc79da3f1ac7f",
+    "8070722acfb320d6",
+    "8d432e855b7f43c4",
+    "40c622b8d0b9c9fe",
+    "f122d7d6bed0b60a",
+    "40ed6b62e188ac6f",
+    "2e3fa9aa50fad47d",
+    "fbefda4de40e90eb",
+    "90aa7d49dba7683c",
+    "4ecd80d2dcaf5735",
+    "f8414e1a66cb21c5",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "878cf485b996057f",
+    "b1954971b832283d",
+    "ce8cc082532c1857",
+    "281198c7a6c12bbc",
+    "014ea6d4158c9ce4",
+    "a9bfd6fd4fc232e3",
+    "f24303c85c21db2e"
+   ]
+  }
+ ],
+ "fragments": {
+  "201aa37351b829a5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de maio de 2014\n\nrelativa às condições de entrada e residência de nacionais de países terceiros no quadro de transferências dentro das empresas"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "9edafeb4e161e601": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente diretiva estabelece:\n\na) As condições de entrada e de residência por um período superior a 90 dias, assim como os direitos, de nacionais de países terceiros e membros da sua família no território dos Estados-Membros, no quadro de transferências dentro da empresa;\n\nb) As condições de entrada e de residência, assim como os direitos, dos nacionais de países terceiros referidos na alínea a) em Estados-Membros que não sejam o primeiro Estado-Membro que concedeu ao nacional de país terceiro a autorização para trabalhador transferido dentro da empresa com base na presente diretiva."
+  },
+  "e3437105799c6201": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. A presente diretiva é aplicável aos nacionais de países terceiros que residam fora do território dos Estados-Membros quando é apresentado o pedido de admissão e que, nos termos da presente diretiva, requeiram a admissão ou que tenham sido admitidos no território de um Estado-Membro no quadro de uma transferência dentro da empresa como gestores, especialistas ou empregados estagiários.\n\n2. A presente diretiva não se aplica aos nacionais de países terceiros que:\n\na) Requeiram a residência num Estado-Membro na qualidade de investigadores, na aceção da Diretiva 2005/71/CE, a fim de realizar um projeto de investigação;\n\nb) Por força de acordos celebrados entre a União e seus Estados-Membros e esses países terceiros, beneficiem de direitos de livre circulação equivalentes aos dos cidadãos da União ou trabalhem numa empresa estabelecida nesses países terceiros;\n\nc) Sejam destacados no âmbito da Diretiva 96/71/CE;\n\nd) Sejam trabalhadores independentes;\n\ne) Sejam contratados por agências de emprego, agências de trabalho temporário ou quaisquer outras empresas que disponibilizem pessoas para trabalhar sob a supervisão e direção de outra empresa;\n\nf) Sejam admitidos como estudantes a tempo inteiro ou frequentem um estágio orientado de curta duração, integrado nos programas curriculares.\n\n3. A presente diretiva não prejudica o direito dos Estados-Membros de emitirem autorizações de residência para efeitos de emprego, em vez da autorização para trabalhador transferido dentro da empresa abrangida pela presente diretiva, se o nacional de país terceiro não for abrangido pela presente diretiva."
+  },
+  "3e327dc9ca2ec18b": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\na) «Nacional de país terceiro», uma pessoa que não é cidadão da União na aceção do artigo 20.º, n.º 1, do TFUE;\n\nb) «Transferência dentro da empresa», o destacamento temporário, para fins de atividade profissional ou formação, de um nacional de país terceiro que, quando é apresentado o pedido de autorização para trabalhador transferido dentro da empresa, reside fora do território dos Estados-Membros, é empregado de uma empresa estabelecida fora do território de um Estado-Membro e à qual está vinculado por contrato de trabalho antes e durante o período de transferência para uma entidade pertencente à empresa ou ao mesmo grupo de empresas estabelecida nesse Estado-Membro, bem como, se for caso disso, a mobilidade entre duas entidades de acolhimento estabelecidas num ou vários segundos Estados-Membros;\n\nc) «Trabalhador transferido dentro da empresa», um nacional de país terceiro que é objeto de transferência dentro da empresa e reside fora do território dos Estados-Membros quando é feito o pedido de admissão para efeitos dessa transferência;\n\nd) «Entidade de acolhimento», a entidade para a qual o trabalhador transferido dentro da empresa é transferido, independentemente da sua forma jurídica, estabelecida, nos termos da legislação nacional, no território de um Estado-Membro;\n\ne) «Gestor», uma pessoa com a posição de quadro superior cuja principal função seja a gestão da entidade de acolhimento, sob supervisão ou orientação geral principalmente do conselho de administração ou dos acionistas da sociedade, ou equivalente; estas funções incluem: exercer a direção da entidade de acolhimento ou de um dos seus departamentos ou divisões, a supervisão e o controlo do trabalho de outros trabalhadores que exercem funções de supervisão, técnicas ou de gestão, ter poderes para recomendar a contratação ou o despedimento de pessoal ou outras ações relativas ao pessoal;\n\nf) «Especialista», uma pessoa que trabalha no grupo de empresas e que possui conhecimentos especializados, essenciais aos domínios de atividade, técnicas ou gestão da entidade de acolhimento. Ao avaliar esses conhecimentos, são tidos em conta não só os conhecimentos específicos à entidade de acolhimento, mas também se essa pessoa é altamente qualificada e tem experiência profissional adequada para um tipo de trabalho ou atividade que exija conhecimentos técnicos específicos, incluindo a eventual inscrição numa profissão certificada;\n\ng) «Empregado estagiário», um titular de diploma do ensino superior que é transferido para uma entidade de acolhimento para fins de progressão na carreira ou para adquirir formação em técnicas ou métodos empresariais e que é remunerado durante o período de transferência;\n\nh) «Membros da família», os nacionais de países terceiros referidos no artigo 4.º, n.º 1, da Diretiva 2003/86/CE do Conselho ([^14^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#E0014));\n\ni) «Autorização para trabalhador transferido dentro da empresa», a autorização com a sigla «ICT», que habilita o seu titular a residir e a trabalhar no território do primeiro Estado-Membro e, se aplicável, do segundo Estado-Membro, ao abrigo da presente diretiva;\n\n[**►C1**](http://publications.europa.eu/resource/celex/32014L0066R%2802%29) j) «Autorização de mobilidade de longo prazo», a autorização com a menção «mobile ICT» que habilita o titular**◄** de uma autorização para trabalhador transferido dentro da empresa a residir e a trabalhar no território do segundo Estado-Membro nos termos da presente diretiva;\n\nk) «Procedimento de pedido único», o procedimento seguido para tomar uma decisão sobre um pedido de autorização de residência e de trabalho apresentado por um nacional de país terceiro no território de um Estado-Membro;\n\nl) «Grupo de empresas», duas ou mais empresas reconhecidas pela legislação nacional como interligadas das seguintes formas: quando uma empresa, direta ou indiretamente, em relação a outra, tem a maioria do capital subscrito dessa empresa; dispõe da maioria dos votos correspondentes às partes de capital emitidas por essa empresa; está habilitada a nomear mais de metade dos membros do conselho de administração, do órgão de direção ou de fiscalização da empresa; ou quando as empresas são geridas numa base unificada pela empresa-mãe;\n\nm) «Primeiro Estado-Membro», o Estado-Membro que concede em primeiro lugar ao nacional de um país terceiro uma autorização para trabalhador transferido dentro da empresa;\n\nn) «Segundo Estado-Membro», qualquer Estado-Membro, que não o primeiro Estado-Membro, no qual o trabalhador transferido dentro da empresa tenciona exercer ou exerce o direito de mobilidade na aceção da presente diretiva;\n\no) «Profissão regulamentada», uma profissão regulamentada na aceção do artigo 3.º, n.º 1, alínea a), da Diretiva 2005/36/CE."
+  },
+  "bb15bbf212121489": {
+   "fragment_id": "Artigo 4.º — Disposições mais favoráveis",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Disposições mais favoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposições mais favoráveis\n\n1. A presente diretiva não prejudica a aplicação de disposições mais favoráveis constantes:\n\na) Da legislação da União, incluindo os acordos bilaterais ou multilaterais celebrados entre a União e os seus Estados-Membros, por um lado, e um ou mais países terceiros, por outro;\n\nb) Dos acordos bilaterais ou multilaterais celebrados entre um ou mais Estados-Membros e um ou mais países terceiros.\n\n2. A presente diretiva não prejudica o direito dos Estados-Membros de adotarem ou manterem disposições mais favoráveis para os nacionais de países terceiros a que se aplica, no que diz respeito ao disposto no artigo 3.º, alínea h), e nos artigos 15.º, 18.º e 19.º."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "8693245abdeb3281": {
+   "fragment_id": "CONDIÇÕES DE ADMISSÃO",
+   "type": "divisao",
+   "heading": "CONDIÇÕES DE ADMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES DE ADMISSÃO"
+  },
+  "b6f7d5c354cdb1e6": {
+   "fragment_id": "Artigo 5.º — Critérios de admissão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Critérios de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de admissão\n\n1. Sem prejuízo do artigo 11.º, n.º 1, o nacional de país terceiro que requer a admissão nos termos da presente diretiva ou a entidade de acolhimento:\n\na) Apresenta comprovativo de que a entidade de acolhimento e a empresa estabelecida num país terceiro pertencem à mesma empresa ou grupo de empresas;\n\nb) Apresenta comprovativo de que trabalhou na mesma empresa ou no mesmo grupo de empresas por um período mínimo de três a doze meses ininterruptos imediatamente anteriores à data da transferência dentro da empresa no caso dos gestores e dos especialistas, e por um período mínimo de três a seis meses ininterruptos no caso dos empregados estagiários;\n\nc) Apresenta um contrato de trabalho e, se necessário, uma carta de missão emitida pelo empregador que inclua o seguinte:\n\ni) pormenores sobre a duração da transferência e o local onde se situa a entidade ou entidades de acolhimento,\n\nii) comprovativo de que o nacional de país terceiro assume o posto de gestor, especialista ou empregado estagiário na entidade ou entidades de acolhimento no Estado-Membro em causa,\n\niii) a remuneração bem como as demais condições de trabalho asseguradas durante o período de transferência dentro da empresa,\n\niv) comprovativo de que o nacional de país terceiro poderá, finda a transferência dentro da empresa, ser reafetado a uma entidade pertencente à mesma empresa ou ao mesmo grupo de empresas e estabelecida num país terceiro;\n\nd) Comprovativo de que o nacional de país terceiro possui as qualificações e a experiência profissionais necessárias na entidade de acolhimento para a qual vai ser transferido na qualidade de gestor ou especialista ou, caso se trate de um empregado estagiário, o diploma de ensino superior exigido;\n\ne) Se aplicável, documentação comprovativa de que o nacional de país terceiro preenche as condições previstas na legislação nacional do Estado-Membro em causa para os cidadãos da União quando exercem a profissão regulamentada a que se refere o pedido;\n\nf) Um documento de viagem do nacional de país terceiro, válido nos termos da legislação nacional, bem como, se tal for exigido, um pedido de visto ou um visto; os Estados-Membros podem requerer que o prazo de validade do documento de viagem abranja pelo menos o prazo de validade da autorização de transferência dentro da empresa;\n\ng) Sem prejuízo dos acordos bilaterais existentes, comprovativo de que subscreveu ou, caso a legislação nacional o preveja, requereu um seguro de doença que cubra todos os riscos contra os quais estão normalmente cobertos os nacionais do Estado-Membro em causa, para os períodos em que não beneficiará de cobertura deste tipo nem de prestações correspondentes no que respeita ao trabalho exercido no Estado-Membro em causa ou em resultado desse trabalho.\n\n2. Os Estados-Membros podem exigir que o requerente apresente os documentos enumerados no n.º 1, alíneas a), c), d), e) e g), nas respetivas línguas oficiais nacionais.\n\n3. Os Estados-Membros podem exigir que o requerente comunique o endereço do nacional de país terceiro no território do Estado-Membro em causa, o mais tardar no momento em que é emitida a autorização para trabalhador transferido dentro da empresa.\n\n4. Os Estados-Membros exigem que:\n\na) Todas as condições previstas em disposições legislativas, regulamentares e administrativas e/ou em convenções coletivas aplicáveis a trabalhadores destacados, numa situação semelhante nos setores profissionais pertinentes, sejam satisfeitas durante o período da transferência dentro da empresa no que respeita às outras condições de trabalho além da remuneração.\n\nb) A remuneração paga ao nacional de país terceiro durante todo o período de transferência dentro da empresa não seja menos favorável que a remuneração paga aos trabalhadores do Estado-Membro em que o trabalho é levado a cabo que ocupem postos equivalentes, nos termos das leis, convenções coletivas ou práticas aplicáveis no Estado-Membro onde está estabelecida a entidade de acolhimento.\n\n5. Com base na documentação apresentada nos termos do n.º 1, os Estados-Membros podem exigir que o trabalhador transferido dentro da empresa disponha de recursos suficientes durante a sua estadia para se manter a si ou aos membros da sua família, sem recorrer aos sistemas de assistência social dos Estados-Membros.\n\n6. Para além dos comprovativos exigidos ao abrigo do n.º 1, pode ser exigido ao nacional de país terceiro que requer a admissão na qualidade de empregado estagiário que apresente uma convenção de formação relacionada com a preparação para o seu futuro posto na empresa ou no grupo de empresas que inclua uma descrição do programa de formação que demonstre que a finalidade da permanência é a formação do trabalhador estagiário para fins de progressão na carreira ou para adquirir formação em técnicas ou métodos empresariais, e que inclua também a duração do programa e as condições de supervisão do trabalhador estagiário durante o programa.\n\n7. Qualquer alteração durante o processo de apresentação do pedido que afete os critérios de admissão estabelecidas no presente artigo deve ser notificada pelo requerente às autoridades competentes do Estado-Membro em causa.\n\n8. Os nacionais de países terceiros que sejam considerados uma ameaça para a ordem pública, a segurança pública ou a saúde pública não são admitidos para efeitos da presente diretiva."
+  },
+  "6c2ff7b173218c31": {
+   "fragment_id": "Artigo 6.º — Volumes de admissão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Volumes de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Volumes de admissão\n\nA presente diretiva não afeta o direito dos Estados-Membros de determinarem os volumes de admissão nacionais de países terceiros, nos termos do artigo 79.º, n.º 5, do TFUE. Nesta base, os pedidos de autorização para trabalhadores transferidos dentro da empresa podem ser considerados inadmissíveis ou ser indeferidos."
+  },
+  "2cc32426d789f715": {
+   "fragment_id": "Artigo 7.º — Motivos de recusa",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Motivos de recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Motivos de recusa\n\n1. Os Estados-Membros indeferem o pedido de autorização de transferência dentro da empresa em qualquer dos seguintes casos:\n\na) Se não for cumprido o disposto no artigo 5.º;\n\nb) Se os documentos apresentados foram obtidos de modo fraudulento, falsificados ou adulterados;\n\nc) Se a entidade de acolhimento foi criada com o objetivo principal de facilitar a entrada de trabalhadores transferidos dentro da empresa;\n\nd) Se foi atingida a duração máxima de permanência estabelecida no artigo 12.º, n.º 1.\n\n2. Os Estados-Membros indeferem, se for caso disso, o pedido quando o empregador ou a entidade de acolhimento tenham sido sancionados, em conformidade com a legislação nacional, por trabalho não declarado e/ou emprego ilegal.\n\n3. Os Estados-Membros podem indeferir o pedido de autorização de transferência dentro da empresa em qualquer dos seguintes casos:\n\na) Se o empregador ou a entidade de acolhimento não tiver respeitado as suas obrigações legais em matéria de segurança social, fiscalidade, direitos laborais ou condições de trabalho;\n\nb) Se a empresa do empregador ou da entidade de acolhimento está a ser ou foi dissolvida nos termos da legislação nacional de falência, ou quando não há nenhuma atividade económica;\n\nc) Se a intenção ou o efeito da presença temporária do trabalhador transferido dentro da empresa interferir em litígios ou negociações relativos à gestão laboral, ou de algum modo afetar o seu resultado.\n\n4. Os Estados-Membros podem indeferir o pedido de autorização de transferência dentro da empresa com base no disposto no artigo 12.º, n.º 2.\n\n5. Sem prejuízo do n.º 1, qualquer decisão de indeferimento do pedido tem em conta as circunstâncias específicas do caso e respeita o princípio da proporcionalidade."
+  },
+  "4afb001f65194126": {
+   "fragment_id": "Artigo 8.º — Cancelamento ou não-renovação da autorização de transferência dentro da empresa",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Cancelamento ou não-renovação da autorização de transferência dentro da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cancelamento ou não-renovação da autorização de transferência dentro da empresa\n\n1. Os Estados-Membros cancelam a autorização para trabalhador transferido dentro da empresa nos seguintes casos:\n\na) Se a autorização foi obtida de modo fraudulento, falsificada ou adulterada;\n\nb) Se o trabalhador transferido dentro da empresa residir no Estado-Membro em causa por razões diferentes daquelas pelas quais a residência foi autorizada;\n\nc) Se a entidade de acolhimento foi criada tendo como objetivo principal facilitar a entrada de trabalhadores transferidos dentro da empresa.\n\n2. Os Estados-Membros cancelam, se for caso disso, a autorização para trabalhador transferido dentro da empresa quando o empregador ou a entidade de acolhimento tenham sido sancionados, em conformidade com a lei nacional, por trabalho não declarado e/ou emprego ilegal.\n\n3. Os Estados-Membros recusam renovar a autorização para trabalhador transferido dentro da empresa em qualquer dos seguintes casos:\n\na) Se a autorização foi obtida de modo fraudulento, falsificada ou adulterada;\n\nb) Se o trabalhador transferido dentro da empresa residir no Estado-Membro em causa por razões diferentes daquelas pelas quais a residência foi autorizada;\n\nc) Se a entidade de acolhimento foi criada com o objetivo principal de facilitar a entrada de trabalhadores transferidos dentro da empresa;\n\nd) Se foi atingida a duração máxima de estadia estabelecida no artigo 12.º, n.º 1.\n\n4. Os Estados-Membros recusam, se for caso disso, renovar a autorização para trabalhador transferido dentro da empresa quando o empregador ou a entidade de acolhimento tenham sido sancionados, em conformidade com a lei nacional, por trabalho não declarado e/ou emprego ilegal.\n\n5. Os Estados-Membros podem cancelar ou recusar renovar a autorização para trabalhador transferido dentro da empresa em qualquer dos seguintes casos:\n\na) Caso não seja ou deixe de ser cumprido o artigo 5.º;\n\nb) Caso o empregador ou a entidade de acolhimento não tenha respeitado as suas obrigações legais em matéria de segurança social, fiscalidade, direitos laborais ou condições de trabalho;\n\nc) Caso a empresa do empregador ou da entidade de acolhimento esteja a ser ou tenha sido dissolvida nos termos da legislação nacional de falência, ou caso não haja nenhuma atividade económica;\n\nd) Caso o trabalhador transferido dentro da empresa não cumpra as regras de mobilidade estabelecidas nos artigos 21.º e 22.º.\n\n6. Sem prejuízo dos n.^os^ 1 e 3, qualquer decisão de cancelar ou recusar renovar a autorização para trabalhador transferido dentro da empresa tem em conta as circunstâncias específicas do caso e respeitam o princípio da proporcionalidade."
+  },
+  "b3a766c229649ea6": {
+   "fragment_id": "Artigo 9.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sanções\n\n1. Os Estados-Membros podem considerar a entidade de acolhimento responsável pelo incumprimento das condições de admissão, permanência e mobilidade previstas na presente diretiva.\n\n2. Se a entidade de acolhimento for considerada responsável nos termos do n.º 1, o Estado-Membro em causa prevê sanções. Tais sanções serão eficazes, proporcionadas e dissuasivas.\n\n3. Os Estados-Membros estabelecem medidas destinadas a prevenir eventuais abusos e a sancionar infrações à presente diretiva. Estas medidas incluem controlos, avaliações e, quando adequado, inspeções, nos termos do direito nacional ou das práticas administrativas nacionais."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "1e4cf0c2918fa3d9": {
+   "fragment_id": "PROCEDIMENTO E AUTORIZAÇÃO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTO E AUTORIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTO E AUTORIZAÇÃO"
+  },
+  "cf0359f4ba82cc5c": {
+   "fragment_id": "Artigo 10.º — Acesso à informação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acesso à informação\n\n1. Os Estados-Membros facilitam o acesso dos requerentes à informação sobre todas as provas documentais necessárias ao pedido bem como à informação sobre entrada e permanência, incluindo os direitos, as obrigações e as garantias processuais dos trabalhadores transferidos dentro da empresa e dos membros das suas famílias. Os Estados-Membros facilitam também o acesso à informação sobre os procedimentos aplicáveis à mobilidade de curto prazo referida no artigo 21.º, n.º 2, e à mobilidade de longo prazo referida no artigo 22.º, n.º 1.\n\n2. Os Estados-Membros em causa disponibilizam à entidade de acolhimento informação sobre o direito dos Estados-Membros de impor sanções em conformidade com os artigos 9.º e 23.º."
+  },
+  "c8e567eac8f6ae63": {
+   "fragment_id": "Artigo 11.º — Pedidos de autorização de transferência dentro da empresa pedidos de autorização de mobilidade de longa duração",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Pedidos de autorização de transferência dentro da empresa pedidos de autorização de mobilidade de longa duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pedidos de autorização de transferência dentro da empresa pedidos de autorização de mobilidade de longa duração\n\n1. Os Estados-Membros determinam se os pedidos têm de ser apresentados pelo nacional do país terceiro ou pela entidade de acolhimento. Os Estados-Membros podem igualmente autorizar que o pedido seja apresentado por qualquer dos dois.\n\n2. O pedido de autorização de transferência dentro da empresa é apresentado quando o nacional de país terceiro reside fora do território do Estado-Membro em que pretende ser admitido.\n\n3. O pedido de autorização de transferência dentro da empresa é apresentado às autoridades do Estado-Membro onde tem lugar a primeira permanência. Se a primeira estadia não for a mais longa, o pedido é apresentado às autoridades do Estado-Membro onde está prevista a permanência global mais longa durante a transferência.\n\n4. Os Estados-Membros designam as autoridades competentes para receber o pedido e emitir a autorização para trabalhador transferido dentro da empresa ou a autorização de mobilidade de longa duração.\n\n5. O requerente tem direito a apresentar um pedido num procedimento de pedido único.\n\n6. As entidades, as empresas ou os grupos de empresas que para o efeito tenham sido reconhecidas pelos Estados-Membros, em conformidade com a legislação ou com as práticas administrativas nacionais, podem beneficiar de procedimentos simplificados de emissão de autorizações para trabalhadores transferidos dentro da empresa, autorizações para membros da família desses trabalhadores, autorizações de mobilidade de longo prazo e vistos.\n\nO reconhecimento é reavaliado regularmente.\n\n7. Os procedimentos simplificados previstos no n.º 6 incluem pelo menos o seguinte:\n\na) A dispensa de apresentação, pelo requerente, de alguns dos comprovativos referidos no artigo 5.º ou no artigo 22.º, n.º 2, alínea a);\n\nb) Um procedimento de admissão acelerado que permita emitir autorizações para trabalhadores transferidos dentro da empresa e autorizações de mobilidade de longo prazo, mais rapidamente que o previsto no artigo 15.º, n.º 1, ou no artigo 22.º, n.º 2, alínea b); e/ou\n\nc) Procedimentos facilitados e/ou acelerados para a emissão dos vistos necessários.\n\n8. As entidades ou grupos de empresas que tenham sido reconhecidos nos termos do n.º 6 devem notificar sem demora à autoridade competente qualquer alteração que afete as condições de reconhecimento e, em todo o caso, no prazo de trinta dias.\n\n9. Os Estados-Membros preveem sanções adequadas, incluindo a revogação do reconhecimento, caso a autoridade competente não seja notificada."
+  },
+  "436b8fc68d465736": {
+   "fragment_id": "Artigo 12.º — Duração da transferência dentro da empresa",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Duração da transferência dentro da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Duração da transferência dentro da empresa\n\n1. A duração máxima de transferência dentro da empresa é de três anos no caso dos gestores e especialistas, e um ano no caso dos empregados estagiários, após o que têm de sair do território dos Estados-Membros a não ser que obtenham uma autorização de residência por outros motivos, de acordo com a legislação nacional ou da União.\n\n2. Sem prejuízo das suas obrigações decorrentes de acordos internacionais, os Estados-Membros podem exigir que decorra um período máximo de seis meses entre o fim da duração máxima de transferência referida no n.º 1 e um novo pedido para o mesmo nacional de país terceiro, para efeitos da presente diretiva no mesmo Estado-Membro."
+  },
+  "9fbfa9b6aeaa5bb2": {
+   "fragment_id": "Artigo 13.º — Autorização para trabalhador transferido dentro da empresa",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Autorização para trabalhador transferido dentro da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autorização para trabalhador transferido dentro da empresa\n\n1. Deve ser emitida a respetiva autorização de transferência aos trabalhadores transferidos dentro da empresa que preencham os critérios de admissão previstos no artigo 5.º e que sejam objeto de decisão favorável das autoridades competentes.\n\n2. O prazo de validade da autorização para trabalhador transferido dentro da empresa é pelo menos de um ano ou corresponde à duração da transferência para o território do Estado-Membro em causa, consoante o período que for mais curto, e pode, no caso dos gestores e especialistas, ser prorrogado por um máximo de três anos e, no caso dos empregados estagiários, de um ano.\n\n3. A autorização para trabalhador transferido dentro da empresa é emitida pelas autoridades competentes dos Estados-Membros, utilizando o modelo uniforme previsto no Regulamento (CE) n.º 1030/2002.\n\n4. Na rubrica «tipo de título», de acordo com a alínea a), ponto 6.4, do Anexo do Regulamento (CE) n.º 1030/2002, os Estados-Membros inscrevem «ICT».\n\nOs Estados-Membros podem também aditar uma indicação na sua língua ou línguas oficiais.\n\n5. Os Estados-Membros não emitem autorizações adicionais, nomeadamente qualquer tipo de autorizações de trabalho.\n\n6. Os Estados-Membros podem fornecer, em formato papel, informações adicionais sobre a atividade profissional durante a transferência dentro da empresa do nacional de país terceiro e/ou armazenar esses dados em formato eletrónico, tal como referido no artigo 4.º do Regulamento (CE) n.º 1030/2002 e na alínea a), ponto 16, do respetivo Anexo.\n\n7. O Estado-Membro em causa concede aos nacionais de países terceiros com pedidos de admissão deferidos todas as facilidades com vista à obtenção dos vistos necessários."
+  },
+  "2fca711fdc859449": {
+   "fragment_id": "Artigo 14.º — Alterações que afetam as condições de admissão durante a estadia",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Alterações que afetam as condições de admissão durante a estadia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alterações que afetam as condições de admissão durante a estadia\n\nQualquer alteração durante a permanência que afete as condições de admissão estabelecidas no artigo 5.º é notificada pelo requerente às autoridades competentes do Estado-Membro em causa."
+  },
+  "1aa2d2af8014dbf2": {
+   "fragment_id": "Artigo 15.º — Garantias processuais",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Garantias processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Garantias processuais\n\n1. As autoridades competentes do Estado-Membro em causa decidem sobre o pedido de autorização para trabalhador transferido dentro da empresa ou sobre a renovação da mesma, e notificam o requerente por escrito da decisão o mais cedo possível, mas o mais tardar 90 dias a contar da data de apresentação do pedido completo, em conformidade com os processos de notificação previstos na legislação nacional desse Estado-Membro.\n\n2. Se as informações ou a documentação comprovativas do pedido forem incompletas, as autoridades competentes notificam ao requerente, num prazo razoável, quais são as informações adicionais necessárias e fixam um prazo razoável para a sua apresentação. O prazo previsto no n.º 1 fica suspenso até que as autoridades competentes tenham recebido as informações adicionais solicitadas.\n\n3. Os fundamentos da decisão que declara inadmissível ou indefere um pedido ou recusa a sua renovação, são comunicados por escrito ao requerente. Os fundamentos da decisão de retirada da autorização para trabalhador transferido dentro da empresa são comunicados por escrito tanto ao trabalhador transferido como à entidade de acolhimento.\n\n4. Qualquer decisão que declara inadmissível ou indefere um pedido, recusa a renovação ou cancela a autorização para trabalhador transferido dentro da empresa é passível de recurso no Estado-Membro em causa, em conformidade com a legislação nacional. A notificação escrita especifica o tribunal ou a autoridade administrativa perante os quais pode ser interposto o recurso e o prazo para o interpor.\n\n5. Durante o período referido no artigo 12.º, n.º 1, o requerente pode apresentar um pedido de renovação antes de caducar a autorização para trabalhador transferido dentro da empresa. Os Estados-Membros podem fixar um prazo máximo de 90 dias, antes de caducar a autorização para trabalhador transferido dentro da empresa, para se poder apresentar um pedido de renovação.\n\n6. Quando a autorização para trabalhador transferido dentro da empresa caduca durante o processo de renovação, os Estados-Membros permitem que o trabalhador transferido dentro da empresa permaneça no seu território até que as autoridades competentes decidam do pedido. Nesse caso, e se necessário por força da legislação nacional, podem emitir autorizações temporárias de residência ou documentos equivalentes."
+  },
+  "a6e2686f42b3591a": {
+   "fragment_id": "Artigo 16.º — Taxas",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Taxas\n\nOs Estados-Membros podem exigir o pagamento de taxas pelo tratamento dos pedidos, em conformidade com a presente diretiva. O valor dessas taxas não deve ser desproporcionado nem excessivo."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "8070722acfb320d6": {
+   "fragment_id": "DIREITOS",
+   "type": "divisao",
+   "heading": "DIREITOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIREITOS"
+  },
+  "8d432e855b7f43c4": {
+   "fragment_id": "Artigo 17.º — Direitos decorrentes da autorização para trabalhador transferido dentro da empresa",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Direitos decorrentes da autorização para trabalhador transferido dentro da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direitos decorrentes da autorização para trabalhador transferido dentro da empresa\n\nDurante o prazo de validade da autorização para trabalhador transferido dentro da empresa, o titular beneficia, pelo menos, dos seguintes direitos:\n\na) O direito de entrar e permanecer no território do primeiro Estado-Membro;\n\nb) O livre acesso a todo o território do primeiro Estado-Membro, nos termos da sua legislação nacional;\n\nc) O direito de exercer a atividade profissional específica permitida pela autorização, em conformidade com a lei nacional, em qualquer entidade de acolhimento pertencente à empresa ou ao grupo de empresas no primeiro Estado-Membro.\n\nOs direitos a que se referem as alíneas a) a c) do primeiro parágrafo do presente artigo são exercidos no segundo Estado-Membro em conformidade com o artigo 20.º."
+  },
+  "40c622b8d0b9c9fe": {
+   "fragment_id": "Artigo 18.º — Direito à igualdade de tratamento",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Direito à igualdade de tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direito à igualdade de tratamento\n\n1. Independentemente da legislação aplicável à relação laboral, e sem prejuízo do artigo 5.º, n.º 4, alínea b), os trabalhadores transferidos dentro da empresa, admitidos ao abrigo da presente diretiva, beneficiam pelo menos do mesmo tratamento que as pessoas abrangidas pela Diretiva 96/71/CE no que respeita às condições de trabalho, em conformidade com o artigo 3.º dessa diretiva, no Estado-Membro onde o trabalho for executado.\n\n2. Os trabalhadores transferidos dentro da empresa beneficiam de tratamento igual ao dos nacionais do Estado-Membro onde o trabalho for executado, no que respeita:\n\na) À liberdade de associação, filiação e adesão a uma organização representativa de trabalhadores ou empregadores ou a qualquer organização cujos membros se dediquem a determinada ocupação, incluindo os direitos e as vantagens conferidos por esse tipo de organizações, sem prejuízo das disposições nacionais em matéria de ordem pública e segurança pública;\n\nb) Ao reconhecimento de diplomas, certificados e outras qualificações profissionais, em conformidade com os procedimentos nacionais pertinentes;\n\nc) Às disposições da legislação nacional relativa aos ramos da segurança social, tal como definidos no artigo 3.º do Regulamento (CE) n.º 883/2004, exceto se for aplicável a legislação do país de origem por força de acordos bilaterais ou da legislação nacional do Estado-Membro em que o trabalho é levado a cabo, que garantam que o trabalhador transferido dentro da empresa está abrangido pela legislação de um desses países em matéria de segurança social. Em caso de mobilidade no interior da UE, e sem prejuízo de acordos bilaterais que garantam que o trabalhador transferido dentro da empresa está abrangido pela legislação do país de origem, é aplicável de forma correspondente o Regulamento (CE) n.º 1231/2010;\n\nd) Sem prejuízo do Regulamento (CE) n.º 1231/2010 e dos acordos bilaterais em vigor, ao pagamento dos direitos à pensão legal por velhice, invalidez ou morte, com base no emprego anterior dos trabalhadores transferidos dentro da empresa e adquiridos por trabalhadores transferidos dentro da empresa que se mudam para um país terceiro, ou os sobreviventes desses trabalhadores transferidos dentro da empresa com direitos deles decorrentes que residam em país terceiro, de acordo com a legislação referida no artigo 3.º do Regulamento (CE) n.º 883/2004, nas mesmas condições e às mesmas taxas que os nacionais dos Estados-Membros em causa, quando se mudam para um país terceiro;\n\ne) Ao acesso a bens e serviços e ao fornecimento de bens e serviços disponíveis ao público, exceto os procedimentos de obtenção de alojamento nas condições previstas na legislação nacional, sem prejuízo da liberdade contratual nos termos da legislação nacional e direito da União, e os serviços prestados pelos centros públicos de emprego.\n\nOs acordos bilaterais ou a legislação nacional referidos no presente número equivalem a acordos internacionais ou disposições dos Estados-Membros na aceção do artigo 4.º.\n\n3. Sem prejuízo do Regulamento (UE) n.º 1231/2010, os Estados-Membros podem decidir que o n.º 2, alínea c), não se aplica em matéria de prestações familiares aos trabalhadores transferidos dentro da empresa que foram autorizados a residir e trabalhar no território de um Estado-Membro por um período não superior a nove meses.\n\n4. O presente artigo não prejudica o direito de o Estado-Membro cancelar ou recusar renovar a autorização nos termos do artigo 8.º."
+  },
+  "f122d7d6bed0b60a": {
+   "fragment_id": "Artigo 19.º — Membros da família",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Membros da família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Membros da família\n\n1. A Diretiva 2003/86/CE é aplicável no primeiro Estado-Membro e nos segundos Estados-Membros que autorizem os trabalhadores transferidos dentro da empresa a permanecer e trabalhar no seu território nos termos do artigo 22.º da presente diretiva, com as derrogações estabelecidas no presente artigo.\n\n2. Em derrogação do artigo 3.º, n.º 1, e do artigo 8.º da Diretiva 2003/86/CE, o reagrupamento familiar nos Estados-Membros não fica subordinado ao requisito de o titular da autorização emitida por esses Estados-Membros ao abrigo da presente diretiva ter perspetivas razoáveis de obter o direito de residência permanente e ter um período mínimo de residência.\n\n3. Em derrogação do artigo 4.º, n.º 1, terceiro parágrafo, e do artigo 7.º, n.º 2, da Diretiva 2003/86/CE, as medidas de integração referidas nessas disposições só podem ser aplicadas pelos Estados-Membros depois de concedido o reagrupamento familiar aos interessados.\n\n4. Em derrogação do artigo 5.º, n.º 4, primeiro parágrafo, da Diretiva 2003/86/CE, as autorizações de residência para os membros da família são concedidas pelos Estados-Membros, se estiverem preenchidas as condições para o reagrupamento familiar no prazo de 90 dias a contar da data em que o processo completo é apresentado. A autoridade competente do Estado-Membro trata o pedido de autorização de residência para os membros da família do trabalhadortransferido dentro da empresa em simultâneo com o pedido de autorização para o dito trabalhador ou a autorização de mobilidade de longo prazo, nos casos em que é apresentado ao mesmo tempo o pedido de autorização de residência para os membros da família do trabalhador transferido dentro da empresa. São aplicáveis as garantias processuais previstas no artigo 15.º.\n\n5. Em derrogação do artigo 13.º, n.º 2, da Diretiva 2003/86/CE, o prazo de validade das autorizações de residência dos membros de família num Estado-Membro termina, regra geral, na data em que expira a autorização para trabalhador transferido dentro da empresa ou a autorização de mobilidade de longo prazo emitida por esse Estado-Membro.\n\n6. Em derrogação do artigo 14.º, n.º 2, da Diretiva 2003/86/CE e sem prejuízo do princípio da preferência pelos cidadãos da União expresso nas pertinentes disposições dos correspondentes Atos de Adesão, os membros da família do trabalhador transferido dentro da empresa que beneficiam do reagrupamento familiar têm direito a ter acesso a emprego e atividade profissional por conta própria no território do Estado-Membro que emitiu a autorização de residência para os membros da família."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "2e3fa9aa50fad47d": {
+   "fragment_id": "MOBILIDADE NO INTERIOR DA UE",
+   "type": "divisao",
+   "heading": "MOBILIDADE NO INTERIOR DA UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MOBILIDADE NO INTERIOR DA UE"
+  },
+  "fbefda4de40e90eb": {
+   "fragment_id": "Artigo 20.º — Mobilidade",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Mobilidade\n\nOs nacionais de países terceiros detentores de autorização válida para trabalhador transferido dentro da empresa emitida pelo primeiro Estado-Membro podem, com base nessa autorização e num documento de viagem válido, e nas condições previstas no artigo 21.º e 22.º, sob reserva do disposto no artigo 23.º, entrar, permanecer e trabalhar num ou vários segundos Estados-Membros."
+  },
+  "90aa7d49dba7683c": {
+   "fragment_id": "Artigo 21.º — Mobilidade de curto prazo",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Mobilidade de curto prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Mobilidade de curto prazo\n\n1. Os nacionais de países terceiros detentores de autorização válida para trabalhador transferido dentro da empresa emitida pelo primeiro Estado-Membro têm o direito de permanecer em qualquer segundo Estado-Membro e de trabalhar em qualquer outra entidade estabelecida neste último e que pertença à mesma empresa ou ao mesmo grupo de empresas, por um máximo de 90 dias em qualquer período de 180 dias por Estado-Membro, nas condições estabelecidas no presente artigo.\n\n2. O segundo Estado-Membro pode exigir à entidade de acolhimento no primeiro Estado-Membro que notifique ao primeiro Estado-Membro e ao segundo Estado-Membro a intenção do trabalhador transferido dentro da empresa de trabalhar numa entidade estabelecida no segundo Estado-Membro.\n\nEm tais casos, o segundo Estado-Membro permite que a notificação seja feita:\n\na) No momento em que é apresentado o pedido no primeiro Estado-Membro, quando a mobilidade para o segundo Estado-Membro já está prevista nessa fase; ou\n\nb) Depois de o trabalhador transferido dentro da empresa já ter começado a trabalhar no primeiro Estado-Membro, logo que se tenha conhecimento da pretendida mobilidade para o segundo Estado-Membro.\n\n3. O segundo Estado-Membro pode exigir que a notificação inclua a transmissão dos seguintes documentos e informações:\n\na) O comprovativo de que a entidade de acolhimento no segundo Estado-Membro e a empresa estabelecida num país terceiro pertencem à mesma empresa ou grupo de empresas;\n\nb) O contrato de trabalho e, se necessário, a carta de missão, que foram transmitidos ao primeiro Estado-Membro nos termos do artigo 5.º, n.º 1, alínea c);\n\nc) Se aplicável, a documentação comprovativa de que o nacional de país terceiro preenche as condições previstas na legislação nacional do Estado-Membro em causa para os cidadãos da União quando exercem a profissão regulamentada a que se refere o pedido;\n\nd) Um documento de viagem válido, tal como previsto no artigo 5.º, n.º 1, alínea f); e\n\ne) Caso não sejam indicadas em nenhum dos documentos anteriores, a duração prevista e as datas da mobilidade.\n\nO segundo Estado-Membro pode exigir que esses documentos e essas informações sejam apresentados numa língua oficial desse Estado-Membro.\n\n4. Se a notificação for feita em conformidade com o n.º 2, alínea a), e se o segundo Estado-Membro não tiver levantado objeções junto do primeiro Estado-Membro nos termos do n.º 6, a mobilidade do trabalhador transferido dentro da empresa para o segundo Estado-Membro pode ter lugar em qualquer momento, dentro do prazo de validade da autorização para o dito trabalhador.\n\n5. Se a notificação for feita em conformidade com o n.º 2, alínea b), a mobilidade pode ser iniciada após a notificação ao segundo Estado-Membro, imediatamente ou em qualquer momento a seguir à mesma, dentro do prazo de validade da autorização para o trabalhador transferido dentro da empresa.\n\n6. Após a notificação referida no n.º 2, o segundo Estado-Membro pode opor-se à mobilidade do trabalhador transferido dentro da empresa para o seu território, num prazo de 20 dias a contar da receção da notificação, quando:\n\na) Não tenham sido cumpridas as condições estabelecidas no artigo 5.º, n.º 4, alínea b), ou no n.º 3, alíneas a), c) ou d), do presente artigo;\n\nb) Os documentos apresentados tenham sido obtidos de modo fraudulento, falsificados ou adulterados;\n\nc) Tenha sido atingida a duração máxima de permanência estabelecida no artigo 12.º, n.º 1, ou no n.º 1 do presente artigo.\n\nAs autoridades competentes do segundo Estado-Membro informam sem demora as autoridades competentes do primeiro Estado-Membro e a entidade de acolhimento acerca da sua oposição à mobilidade.\n\n7. Quando o segundo Estado-Membro se opõe à mobilidade nos termos do n.º 6 do presente artigo e a mobilidade ainda não ocorreu, o trabalhador transferido dentro da empresa não é autorizado a trabalhar no segundo Estado-Membro no quadro da transferência dentro da empresa. Caso tenha ocorrido a mobilidade, é aplicável o artigo 23.º, n.^os^ 4 e 5.\n\n8. Caso a autorização para trabalhador transferido dentro da empresa seja renovada pelo primeiro Estado-Membro no prazo máximo previsto no artigo 12.º, n.º 1, a autorização renovada prorroga a autorização dada ao seu titular para trabalhar no segundo Estado-Membro, sem prejuízo da duração máxima prevista no n.º 1 do presente artigo.\n\n9. Os trabalhadores transferidos dentro da empresa considerados como ameaça à ordem, segurança e saúde públicas não são autorizados a entrar ou permanecer no território do segundo Estado-Membro."
+  },
+  "4ecd80d2dcaf5735": {
+   "fragment_id": "Artigo 22.º — Mobilidade de longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Mobilidade de longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Mobilidade de longo prazo\n\n1. No que respeita aos nacionais de países terceiros detentores de autorização válida para trabalhador transferido dentro da empresa emitida pelo primeiro Estado-Membro e que pretendam permanecer em qualquer segundo Estado-Membro e trabalhar em qualquer outra entidade estabelecida neste último por mais de 90 dias por Estado-Membro e que pertençam à mesma empresa ou ao mesmo grupo de empresas, o segundo Estado-Membro pode decidir:\n\na) Aplicar as disposições do artigo 21.º e autorizar o trabalhador transferido dentro da empresa a permanecer e trabalhar no seu território, com base na autorização para trabalhador transferido dentro da empresa emitida pelo primeiro Estado-Membro e durante o respetivo prazo de validade; ou\n\nb) Aplicar o procedimento previsto nos n.^os^ 2 a 7.\n\n2. Caso seja apresentado um pedido de mobilidade de longa duração:\n\na) O segundo Estado-Membro pode exigir que o requerente transmita alguns ou todos os seguintes documentos, se estes forem exigidos pelo segundo Estado-Membro para o pedido inicial:\n\ni) o comprovativo de que a entidade de acolhimento no segundo Estado-Membro e a empresa estabelecida num país terceiro pertencem à mesma empresa ou grupo de empresas,\n\nii) o contrato de trabalho e, se necessário, a carta de missão, tal como previsto no artigo 5.º, n.º 1, alínea c),\n\niii) quando aplicável, a documentação comprovativa de que o nacional de país terceiro preenche as condições previstas na legislação nacional do Estado-Membro em causa para os cidadãos da União quando exercem a profissão regulamentada a que se refere o pedido,\n\niv) um documento de viagem válido, tal como previsto no artigo 5.º, n.º 1, alínea f),\n\nv) o comprovativo de ser titular ou, quando tal for previsto na legislação nacional, de ter requerido seguro de doença, tal como previsto no artigo 5.º, n.º 1, alínea g).\n\nb) O segundo Estado-Membro toma uma decisão sobre o pedido de mobilidade de longo prazo e notifica o requerente da decisão por escrito o mais rapidamente possível, mas o mais tardar 90 dias a contar da data em que forem apresentados às autoridades competentes do segundo Estado-Membro o pedido e os documentos previstos na alínea a);\n\nc) O trabalhador transferido dentro da empresa não é obrigado a abandonar os territórios dos Estados-Membros a fim de apresentar o pedido, nem está sujeito à obrigação de visto;\n\nd) O trabalhador transferido dentro da empresa é autorizado a trabalhar no segundo Estado-Membro até as autoridades competentes terem tomado uma decisão sobre o pedido de mobilidade de longo prazo, desde que:\n\ni) não tenham terminado o período referido no artigo 21.º, n.º 1, nem o prazo de validade da autorização para trabalhador transferido dentro da empresa emitida pelo primeiro Estado-Membro, e\n\nii) caso o segundo Estado-Membro o exija, o pedido completo tenha sido apresentado ao segundo Estado-Membro pelo menos 20 dias antes de ter início a mobilidade de longo prazo do transferido dentro da empresa;\n\ne) O pedido de mobilidade de longo prazo não pode ser apresentado ao mesmo tempo que a notificação de mobilidade de curto prazo. Caso surja a necessidade de mobilidade de longo prazo depois de iniciada a mobilidade de curto prazo do transferido dentro da empresa, o segundo Estado-Membro pode exigir que o pedido de mobilidade de longo prazo seja apresentado pelo menos 20 dias antes de terminar a mobilidade de curto prazo.\n\n3. Os Estados-Membros podem indeferir um pedido de mobilidade de longo prazo quando:\n\na) Não são cumpridas as condições estabelecidas no n.º 2, alínea a), do presente artigo ou os critérios estabelecidos no artigo 5.º, n.^os^ 4, 5 ou 8;\n\nb) É aplicável um dos motivos abrangidos pelo artigo 7.º, n.º 1, alíneas b) ou d), ou artigo 7.º, n.^os^ 2, 3 ou 4; ou\n\nc) A autorização para trabalhador transferido dentro da empresa caduca durante o procedimento.\n\n4. Uma vez deferido pelo segundo Estado-Membro o pedido de mobilidade de longo prazo, tal como referido no n.º 2, é emitida ao interessado a respetiva autorização de mobilidade de longo prazo, que permita ao interessado permanecer e trabalhar no seu território. Essa autorização é emitida segundo o modelo uniforme previsto no Regulamento (CE) n.º 1030/2002 do Conselho. [**►C1**](http://publications.europa.eu/resource/celex/32014L0066R%2802%29) Na rubrica «tipo de título», de acordo com a alínea a), ponto 6.4, do Anexo do Regulamento (CE) n.º 1030/2002, os Estados-Membros inscrevem: «mobile ICT».**◄** Os Estados-Membros podem também aditar uma indicação na sua língua ou línguas oficiais.\n\nOs Estados-Membros podem fornecer, em formato papel, informações adicionais sobre a atividade profissional durante a mobilidade de longo prazo do transferido dentro da empresa e/ou armazenar esses dados em formato eletrónico, tal como referido no artigo 4.º do Regulamento (CE) n.º 1030/2002 e na alínea a), ponto 16, do respetivo Anexo.\n\n5. A renovação da autorização de mobilidade de longo prazo não prejudica o artigo 11.º, n.º 3.\n\n6. O segundo Estado-Membro comunica às autoridades competentes do primeiro Estado-Membro que emitiu uma autorização de mobilidade de longo prazo.\n\n7. Caso um Estado-Membro tome uma decisão sobre um pedido de mobilidade de longo prazo, são aplicáveis as disposições do artigo 8.º, do artigo 15.º, n.^os^ 2 a 6, e do artigo 16.º."
+  },
+  "f8414e1a66cb21c5": {
+   "fragment_id": "Artigo 23.º — Garantias e sanções",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Garantias e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Garantias e sanções\n\n1. Se a autorização para trabalhador transferido dentro da empresa for emitida por um Estado-Membro que não aplica na íntegra o acervo de Schengen e o trabalhador transferido dentro da empresa atravessar uma fronteira externa, o segundo Estado-Membro de acolhimento tem direito a exigir como prova de que esse trabalhador se desloca para o seu território para efeitos de transferência dentro da empresa:\n\na) Cópia da notificação enviada pela entidade de acolhimento no primeiro Estado-Membro, nos termos do artigo 21.º, n.º 2; ou\n\nb) Uma carta da entidade de acolhimento no segundo Estado-Membro que especifique pelo menos a duração da mobilidade no interior UE e a localização da entidade ou entidades de acolhimento no segundo Estado-Membro.\n\n2. Caso o primeiro Estado-Membro retire a autorização para trabalhador transferido dentro da empresa, informa imediatamente as autoridades do segundo Estado-Membro.\n\n3. A entidade de acolhimento do segundo Estado-Membro comunica às autoridades competentes desse Estado qualquer alteração que afete as condições com base nas quais a mobilidade foi autorizada.\n\n4. O segundo Estado-Membro pode exigir que o trabalhador transferido dentro da empresa cesse imediatamente toda e qualquer atividade profissional e abandone o território quando:\n\na) Não tenha sido notificado nos termos do artigo 21.º, n.^os^ 2 e 3, e exija tal notificação;\n\nb) Se tenha oposto à mobilidade nos termos do artigo 21.º, n.º 6;\n\nc) Tenha indeferido um pedido de mobilidade a longo prazo nos termos do artigo 22.º, n.º 3;\n\nd) A autorização para trabalhador transferido dentro da empresa ou a autorização para a mobilidade de longo prazo for utilizada para fins diferentes daqueles para que foi emitida;\n\ne) Já não se encontram preenchidas as condições em que a mobilidade foi autorizada.\n\n5. Nos casos referidos no n.º 4, o primeiro Estado-Membro permite, a pedido do segundo Estado-Membro, a reentrada sem formalidades e sem demora do trabalhador transferido dentro da empresa e, quando aplicável, dos membros da sua família. O mesmo se aplica se a autorização para trabalhador transferido dentro da empresa emitida pelo primeiro Estado-Membro tiver caducado ou for retirada durante o período de mobilidade no segundo Estado-Membro.\n\n6. Caso os titulares de autorização para trabalhador transferido dentro da empresa atravessem as fronteiras externa de um Estado-Membro que aplica o acervo de Schengen na íntegra, esse Estado-Membro consulta o sistema de informação Schengen. Esse Estado-Membro recusa a entrada ou opõe-se à mobilidade das pessoas indicadas no sistema de informação Schengen para efeitos de recusa de entrada e permanência.\n\n7. Os Estados-Membros podem impor sanções contra a entidade de acolhimento estabelecida no seu território, nos termos do artigo 9.º, se:\n\na) A entidade de acolhimento não notificar a mobilidade do trabalhador transferido dentro da empresa, nos termos do artigo 21.º, n.^os^ 2 e 3;\n\nb) A autorização para trabalhador transferido dentro da empresa ou a autorização para a mobilidade de longo prazo for utilizada para fins diferentes daqueles para que foi emitida;\n\nc) O pedido de autorização de transferência dentro da empresa for apresentado a um Estado-Membro que não é aquele onde ocorre a permanência global mais longa;\n\nd) O trabalhador transferido dentro da empresa deixar de preencher os critérios e condições com base nos quais a mobilidade foi autorizada e a entidade de acolhimento não notificar essa alteração às autoridades competentes do segundo Estado-Membro;\n\ne) O trabalhador transferido dentro da empresa começar a trabalhar no segundo Estado-Membro sem estarem preenchidas as condições de mobilidade, caso seja aplicável o artigo 21.º, n.º 5, ou o artigo 22.º, n.º 2, alínea d)."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "878cf485b996057f": {
+   "fragment_id": "Artigo 24.º — Estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Estatísticas\n\n1. Os Estados-Membros comunicam à Comissão as estatísticas sobre o número de autorizações para trabalhadores transferidos dentro da empresa, de autorizações para mobilidade de longo prazo emitidas pela primeira vez e, se for caso disso, de notificações recebidas nos termos do artigo 21.º, n.º 2, bem como, na medida do possível, sobre o número de trabalhadores transferidos dentro da empresa cuja autorização foi renovada ou cancelada. Essas estatísticas são desagregadas por nacionalidade e pelo período de validade da autorização e, na medida do possível, por setor económico e categoria do trabalhador transferido.\n\n2. As estatísticas dizem respeito a períodos de referência de um ano civil e são comunicadas à Comissão no prazo de seis meses a contar do final do ano de referência. O primeiro ano de referência é 2017.\n\n3. As estatísticas são comunicadas nos termos do Regulamento (CE) n.º 862/2007 do Parlamento Europeu e do Conselho ([^15^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#E0015))."
+  },
+  "b1954971b832283d": {
+   "fragment_id": "Artigo 25.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Relatório\n\nA cada três anos e pela primeira vez em 29 de novembro de 2019, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente diretiva nos Estados-Membros e propõe as alterações que se revelem necessárias. O relatório deve fazer, em especial, a avaliação do adequado funcionamento do regime de mobilidade dentro da UE e dos eventuais abusos de tal regime, bem como a sua interação com o acervo de Schengen. A Comissão deve avaliar, em especial, a aplicação prática dos artigos 20.º, 21.º, 22.º, 23.º e 26.º."
+  },
+  "ce8cc082532c1857": {
+   "fragment_id": "Artigo 26.º — Cooperação entre pontos de contacto",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Cooperação entre pontos de contacto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cooperação entre pontos de contacto\n\n1. Os Estados-Membros nomeiam pontos de contacto que cooperam de modo eficaz e são responsáveis por receber e transmitir as informações necessárias à aplicação dos artigos 21.º, 22.º e 23.º. Os Estados-Membros privilegiam o intercâmbio de informações por via eletrónica.\n\n2. Cada Estado-Membro comunica aos outros Estados-Membros, através dos pontos de contacto nacionais referidos no n.º 1, quais são as autoridades designadas referidas no artigo 11.º, n.º 4, e qual é o procedimento aplicável à mobilidade referida nos artigos 21.º e 22.º."
+  },
+  "281198c7a6c12bbc": {
+   "fragment_id": "Artigo 27.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transposição\n\n1. Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 29 de novembro de 2016. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas medidas.\n\nQuando os Estados-Membros adotam tais medidas, estas incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são adotadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "014ea6d4158c9ce4": {
+   "fragment_id": "Artigo 28.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente diretiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia.*"
+  },
+  "a9bfd6fd4fc232e3": {
+   "fragment_id": "Artigo 29.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros, de acordo com os Tratados.\n\n---"
+  },
+  "f24303c85c21db2e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0001)) JO C 218 de 23.7.2011, p. 101.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0002)) JO C 166 de 7.6.2011, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0003)) Posição do Parlamento Europeu de 15 de abril de 2014 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 13 de maio de 2014.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0004)) Diretiva 96/71/CE do Parlamento Europeu e do Conselho, de 16 de dezembro de 1996, relativa ao destacamento de trabalhadores no âmbito de uma prestação de serviços (JO L 18 de 21.1.1997, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0005)) Diretiva 2005/36/CE do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais (JO L 255 de 30.9.2005, p. 22).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0006)) Diretiva 2009/52/CE do Parlamento Europeu e do Conselho, de 18 de junho de 2009, que estabelece normas mínimas sobre sanções e medidas contra os empregadores de nacionais de países terceiros em situação irregular (JO L 168 de 30.6.2009, p. 24).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0007)) Regulamento (CE) n.º 562/2006 do Parlamento Europeu e do Conselho, de 15 de março de 2006, que estabelece o código comunitário relativo ao regime de passagem de pessoas nas fronteiras (Código das Fronteiras Schengen) (JO L 105 de 13.4.2006, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0008)) Regulamento (CE) n.º 1987/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo ao estabelecimento, ao funcionamento e à utilização do Sistema de Informação de Schengen de segunda geração (SIS II) (JO L 381 de 28.12.2006, p. 4).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0009)) Regulamento (CE) n.º 1030/2002 do Conselho, de 13 de junho de 2002, que estabelece um modelo uniforme de título de residência para os nacionais de países terceiros (JO L 157 de 15.6.2002, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0010)) Regulamento (CE) n.º 883/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo à coordenação dos sistemas de segurança social (JO L 166 de 30.4.2004, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0011)) Regulamento (UE) n.º 1231/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, que torna extensivos o Regulamento (CE) n.º 883/2004 e o Regulamento (CE) n.º 987/2009 aos nacionais de países terceiros que ainda não estejam abrangidos por esses regulamentos por razões exclusivas de nacionalidade (JO L 344 de 29.12.2010, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0012)) Diretiva 2005/71/CE do Conselho, de 12 de outubro de 2005, relativa a um procedimento específico de admissão de nacionais de países terceiros para efeitos de investigação científica (JO L 289 de 3.11.2005, p. 15).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0013)) JO C 369 de 17.12.2011, p. 14.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0014)) Diretiva 2003/86/CE do Conselho, de 22 de setembro de 2003, relativa ao direito ao reagrupamento familiar (JO L 251 de 3.10.2003, p. 12).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/ad435e0f-b799-40fb-9979-f8bef7bf81f9.0004.02/DOC_1#src.E0015)) Regulamento (CE) n.º 862/2007 do Parlamento Europeu e do Conselho, de 11 de julho de 2007, relativo às estatísticas comunitárias sobre migração e proteção internacional e que revoga o Regulamento (CEE) n.º 311/76 do Conselho relativo ao estabelecimento de estatísticas sobre trabalhadores estrangeiros (JO L 199 de 31.7.2007, p. 23)."
+  }
+ }
+}

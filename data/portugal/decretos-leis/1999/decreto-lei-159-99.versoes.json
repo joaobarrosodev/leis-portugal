@@ -1,0 +1,226 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:331438:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34476375",
+ "dre_path": "/dr/detalhe/decreto-lei/159-1999-331438",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-05-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52394175",
+    "52394275",
+    "52394375",
+    "52394475",
+    "52394575",
+    "52394675",
+    "52394775",
+    "52394875",
+    "52394975",
+    "52395075",
+    "52395175",
+    "52395275",
+    "52395375"
+   ]
+  },
+  {
+   "date": "1999-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:310612:por",
+     "title": "Decreto-Lei n.º 382-A/99",
+     "published": "1999-09-22",
+     "dre_path": "/dr/detalhe/decreto-lei/382-a-1999-310612"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "52394175",
+    "52394275",
+    "52394375",
+    "52394475",
+    "52394575",
+    "52394675",
+    "52394775",
+    "52394875",
+    "52394975",
+    "52395075",
+    "52395175",
+    "52395275",
+    "221562119",
+    "52395575"
+   ]
+  },
+  {
+   "date": "2024-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:895836368:por",
+     "title": "Decreto-Lei n.º 87/2024",
+     "published": "2024-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/87-2024-895836368"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "52394175",
+    "52394275",
+    "52394375",
+    "52394475",
+    "52394575",
+    "52394675",
+    "52394775",
+    "52394875",
+    "895807411",
+    "52395075",
+    "52395175",
+    "52395275",
+    "221562119",
+    "52395575"
+   ]
+  }
+ ],
+ "fragments": {
+  "52394175": {
+   "fragment_id": "35096175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 159/99\n\nde 11 de Maio\n\nO presente decreto-lei visa regulamentar o seguro obrigatório de acidentes de trabalho para os trabalhadores independentes, previsto no artigo 3.º da Lei n.º 100/97, de 13 de Setembro.\n\nAtravés do seguro de acidentes de trabalho pretende-se garantir aos trabalhadores independentes e respectivos familiares, em caso de acidente de trabalho, indemnizações e prestações em condições idênticas às dos trabalhadores por conta de outrem e seus familiares.\n\nO carácter de obrigatoriedade do seguro não abrange os trabalhadores independentes cuja produção se destine exclusivamente ao consumo ou utilização por si próprio e pela sua família.\n\nO presente diploma regula nomeadamente a situação de simultaneidade de regimes, estabelecendo que, nos casos em que o sinistrado em acidente de trabalho é simultaneamente trabalhador por conta de outrem e trabalhador independente, se presume, até prova em contrário, que o acidente ocorreu ao serviço da entidade empregadora.\n\nForam ouvidos o Instituto de Seguros de Portugal, a Associação Portuguesa de Seguradores, a Associação Nacional dos Deficientes Sinistrados no Trabalho, a Confederação Geral dos Trabalhadores Portugueses, a União Geral de Trabalhadores, a Confederação da Indústria Portuguesa, a Confederação do Comércio e Serviços de Portugal e a Confederação de Agricultores de Portugal.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 100/97, de 13 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "52394275": {
+   "fragment_id": "36225675",
+   "type": 11,
+   "heading": "Artigo 1.º — Obrigatoriedade de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Obrigatoriedade de seguro\n\n1 - Os trabalhadores independentes são obrigados a efectuar um seguro de acidentes de trabalho que garanta, com as devidas adaptações, as prestações definidas na Lei n.º 100/97, de 13 de Setembro, para os trabalhadores por conta de outrem e seus familiares.\n\n2 - São dispensados de efectuar este seguro os trabalhadores independentes cuja produção se destine exclusivamente ao consumo ou utilização por si próprio e pelo seu agregado familiar."
+  },
+  "52394375": {
+   "fragment_id": "36225775",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\nO seguro de acidentes de trabalho dos trabalhadores independentes rege-se, com as devidas adaptações, pelas disposições da Lei n.º 100/97, de 13 de Setembro, e diplomas complementares, salvo no que adiante especificamente se refere."
+  },
+  "52394475": {
+   "fragment_id": "36225875",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\n1 - O seguro é válido para todo o território nacional e para o território de Estados membros da Comunidade Europeia onde o trabalhador exerça a sua actividade, desde que por período não superior a 15 dias.\n\n2 - O seguro pode ser válido no território de Estados membros na União Europeia por períodos superiores a 15 dias, ou no território de Estados não membros da Comunidade Europeia, desde que tal extensão de cobertura tenha sido contratada."
+  },
+  "52394575": {
+   "fragment_id": "36225975",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios de prova\n\n1 - A prova do seguro faz-se pela apresentação de documento, a emitir pela empresa de seguros, onde conste a identificação do trabalhador e o prazo de validade do seguro, que nunca será inferior a um ano.\n\n2 - A prova da situação de isenção a que se refere o n.º 2 do artigo 1.º faz-se através de documento emitido pela junta de freguesia da área da residência do trabalhador."
+  },
+  "52394675": {
+   "fragment_id": "36226075",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de resolução\n\nO Instituto de Seguros de Portugal estabelecerá por norma regulamentar as disposições relativas à colocação dos riscos recusados pelas empresas de seguros."
+  },
+  "52394775": {
+   "fragment_id": "36226175",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceito de acidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conceito de acidente\n\nFora do local de trabalho ou do local onde é prestado o serviço só se considera acidente o que ocorrer no trajecto que o trabalhador tenha de utilizar:\n\na) Nos termos da alínea a) do n.º 2 e do n.º 3 do artigo 6.º do Decreto-Lei n.º 143/99, de 30 de Abril.\n\nb) Entre o local de trabalho e o local de refeição;\n\nc) Entre quaisquer dos locais referidos na alínea a) e o local onde ao trabalhador deva ser prestada qualquer forma de assistência ou tratamento por virtude de anterior acidente e enquanto aí permanecer para esses fins."
+  },
+  "52394875": {
+   "fragment_id": "36226275",
+   "type": 11,
+   "heading": "Artigo 7.º — Simultaneidade de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Simultaneidade de regimes\n\n1 - Quando o sinistrado de acidente de trabalho for, simultaneamente, trabalhador independente e trabalhador por conta de outrem e havendo dúvida sobre o regime aplicável ao acidente, presumir-se-á, até prova em contrário, que o acidente ocorreu ao serviço da entidade empregadora.\n\n2 - Provando-se que o acidente de trabalho ocorreu quando o sinistrado exercia funções de trabalhador independente, a entidade presumida como responsável nos termos do número anterior adquire direito de regresso contra a empresa de seguros do trabalhador independente ou contra o próprio trabalhador."
+  },
+  "52394975": {
+   "fragment_id": "36226375",
+   "type": 11,
+   "heading": "Artigo 8.º — Participação do acidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Participação do acidente\n\n1 - Ocorrido um acidente, o sinistrado ou os beneficiários legais de pensão devem participá-lo à empresa de seguros, nos termos estabelecidos na apólice.\n\n2 - As empresas de seguros participarão ao tribunal competente, por escrito, no prazo de oito dias a contar da alta, os acidentes de que tenha resultado incapacidade permanente e, imediatamente e por telecópia ou outra via com o mesmo efeito de registo de mensagens, aqueles de que tenha resultado morte."
+  },
+  "52395075": {
+   "fragment_id": "36226475",
+   "type": 11,
+   "heading": "Artigo 9.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Remuneração\n\n1 - A remuneração anual a considerar, para efeito do cálculo dos prémios e das prestações em dinheiro, corresponderá, no mínimo, a 14 vezes a remuneração mínima mensal mais elevada, ou a qualquer outro valor, à escolha do trabalhador.\n\n2 - Para qualquer valor superior à remuneração mínima indicada no número anterior, a empresa de seguros reserva-se o direito de exigir prova de rendimento.\n\n3 - Não tendo sido exigida prova no momento da subscrição ou alteração do contrato de seguro, será sempre considerado, para efeitos de indemnização, o valor garantido."
+  },
+  "52395175": {
+   "fragment_id": "36226575",
+   "type": 11,
+   "heading": "Artigo 10.º — Actualização das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Actualização das pensões\n\nAs pensões a que tiverem direito os trabalhadores independentes e seus familiares são actualizadas nos termos em que o forem as dos trabalhadores por conta de outrem, tomando-se por base a remuneração anual efectivamente segura."
+  },
+  "52395275": {
+   "fragment_id": "36226675",
+   "type": 11,
+   "heading": "Artigo 11.º — Contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contra-ordenação\n\n1 - Constitui contra-ordenação, punível com coima de 10000$00 a 100000$00, o não cumprimento pelos trabalhadores independentes da obrigação contida no artigo 1.º, n.º 1, deste diploma, excepto quando dela estiverem isentos, nos termos do n.º 2 da mesma disposição.\n\n2 - O processamento da contra-ordenação prevista neste diploma, bem como a aplicação da correspondente coima, compete ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho."
+  },
+  "52395375": {
+   "fragment_id": "36226775",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do 6.º mês seguinte à data da sua publicação."
+  },
+  "221562119": {
+   "fragment_id": "36226775",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": "1999-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor em 1 de Janeiro de 2000.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+  },
+  "52395575": {
+   "fragment_id": "36226875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 15 de Abril de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 29 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "895807411": {
+   "fragment_id": "36226375",
+   "type": 11,
+   "heading": "Artigo 8.º — Participação do acidente",
+   "in_force_from": "2024-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2024-895836368), em vigor a partir de 2024-11-10"
+   ],
+   "markdown": "###### Artigo 8.º — Participação do acidente\n\n1 - Ocorrido um acidente, o sinistrado ou os beneficiários legais de pensão devem participá-lo à empresa de seguros, nos termos estabelecidos na apólice.\n\n2 - As empresas de seguros participarão ao tribunal competente, por escrito, no prazo de oito dias a contar da alta, os acidentes de que tenha resultado incapacidade permanente e, imediatamente, e por correio eletrónico ou outra via com o efeito de registo de mensagens, aqueles de que tenha resultado morte.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2024-895836368), em vigor a partir de 2024-11-10"
+  }
+ }
+}

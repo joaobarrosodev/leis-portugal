@@ -1,0 +1,375 @@
+---
+schema_version: '1.0'
+id: pt:dre:781144:por
+title: Resolução n.º 17-A/2013
+short_title: null
+summary: Nomeia o conselho de administração do Centro Hospitalar do Algarve, E.P.E
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 17-A/2013
+official_date: null
+publication_date: '2013-07-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2013, 1º Suplemento, Série II de 2013-07-19
+  number: '138'
+  series: II
+  supplement: null
+  pages: 22944-(2) a 22944-(3)
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/07/138000001/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '781144'
+  dre_path: /dr/detalhe/resolucao/17-a-2013-781144
+  internal: pt:dre:781144:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/17-a-2013-781144
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/17-a-2013-781144
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:15:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 537d27d38b34ae485e15349282ec6adce36f543335901918ebae56bc2bb83bd7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:15:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Hospitalar do Algarve
+- Conselho de Administração
+- Estabelecimento Hospitalar
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:191077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:15:07Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 17-A/2013
+
+Nos termos do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2013-261078), de 17 de maio, que criou o Centro Hospitalar do Algarve, E.P.E., e nos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 244/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), de 9 de novembro, conjugados com o artigo 15.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de dezembro, alterado pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de agosto, e pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração do Centro Hospitalar do Algarve, E.P.E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Tendo o [Decreto-Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2013-261078), de 17 de maio, criado o Centro Hospitalar do Algarve, E.P.E., resultante da fusão do Centro Hospitalar do Barlavento Algarvio, E.P.E., com o Hospital de Faro, E.P.E., importa proceder à nomeação do conselho de administração da nova entidade pública empresarial.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, e [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo II ao [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 244/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), de 9 de novembro, dos n.os 2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta dos Ministros de Estado e das Finanças e da Saúde, Pedro Manuel Mendes Henriques Nunes, Patrícia Isabel Silvestre Ataíde, Graça Maria Palma Pereira, Maria Gabriela Castillón Valadas Cartucho (diretor clínico) e José Fernando Vieira dos Santos (enfermeiro-diretor), respetivamente, para os cargos de presidente e de vogais executivos do conselho de administração do Centro Hospitalar do Algarve, E.P.E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas sinopses curriculares que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua publicação.
+
+18 de julho de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares
+
+Pedro Manuel Mendes Henriques Nunes
+
+Nascido a 17 de março de 1954, em Lisboa, licenciado em Medicina pela Faculdade de Ciências Médicas da Universidade Nova de Lisboa (curso de 1977). Possui o mestrado em Ciências Morfológicas após prestação de Provas de Capacidade Científica e Aptidão Pedagógica à Faculdade de Ciências Médicas
+
+(1985). É Especialista de Oftalmologia das Carreiras Médicas e da Ordem dos Médicos
+
+(1986). Tem Competência em Gestão de Serviços de Saúde pela Ordem dos Médicos.
+
+Foi Presidente do Conselho de Administração do Hospital de Faro EPE desde 28.12.2011.
+
+Atividade Profissional Universitária:
+
+Monitor, Assistente Convidado e Assistente do Quadro do Departamento de Anatomia da Faculdade de Ciências Médicas de Lisboa (1974-1993); Responsável pela Cadeira de Deontologia Médica na Faculdade Ciências Médicas da Universidade Nova de Lisboa (1982-1992); Docente convidado pela Universidade Católica Portuguesa para ministrar a cadeira de Ética nas sucessivas edições do PGOM (Pós-graduação em Gestão de Saúde) e membro da Comissão de Acompanhamento dos mencionados Cursos;
+
+Atividade Profissional Clínica:
+
+Assistente Hospitalar de Oftalmologia da Carreira Médica Hospitalar - Hospital Egas Moniz (1986); Especialista de Oftalmologia pela Ordem dos Médicos (1988); Assistente Hospitalar de Oftalmologia Hospital Egas Moniz (1993-2008); Assistente Hospitalar Graduado do Quadro do Centro Hospitalar de Lisboa Ocidental (2008)
+
+Outras Atividades Públicas:
+
+Presidente da Mesa da Assembleia do Distrito Médico de Lisboa-Cidade da Ordem dos Médicos (1990-1992); Vogal do Conselho Regional do Sul da Ordem dos Médicos (1992-1998); Presidente do Conselho Regional do Sul da Ordem dos Médicos (1999-2004); Presidente da Ordem dos Médicos (2005-2007 - 2008-2010); Conselheiro do Conselho Nacional de Ética para as Ciências da Vida (2006 até à data).
+
+Outras Atividades Associativas e de Representação:
+
+Vice -Presidente do Comité Permanente dos Médicos Europeus (2002-2005); Presidente da Comunidade Médica de Língua Portuguesa (2006-2009); Presidente CEOM (Conselho Europeu das Ordens dos Médicos) (2008-2011).
+
+Patrícia Isabel Silvestre Ataíde
+
+Data de Nascimento: 31 de maio de 1976
+
+Naturalidade: Lagoa - Algarve
+
+Habilitações literárias:
+
+- Curso de Especialização em Administração Hospitalar
+
+Escola Nacional de Saúde Pública (ENSP), 2002-2004
+
+- Licenciatura em Gestão de Recursos Humanos, 2001
+
+Curriculum profissional
+
+24-02-2012 até à presente data - Vogal do Conselho de Administração do CHBA, EPE
+
+02-08-2010 a 23-02-2012 - Administradora do Serviço de Gestão de Compras e Logística do CHBA, EPE
+
+06-08-09 a 31-07-2010 - Coordenadora de Assessoria Especializada do Conselho Diretivo da ARSLVT,IP
+
+15-04-09 a 05-08-09 - Diretora do Departamento de Gestão e Administração Geral da ARSLVT, IP, em regime de substituição
+
+01-06-07 a 14-04-09 - Coordenadora da Unidade de Administração Geral da ARSLVT, IP
+
+01-03-06 a 03-05-07 - Diretora do Serviço de Património e Aprovisionamento do HGO
+
+01-03-05 a 28-02-06 - Técnica Superior do Serviço de Património e Aprovisionamento do HGO
+
+08-07-03 a 28-02-05 - Assistente Administrativa Principal - PECLEC - Programa Especial de Combate às Listas de Espera Cirúrgicas, HGO
+
+15-06-96 a 07-07-03 -Assistente Administrativa do Serviço de Património e Aprovisionamento do Hospital Garcia de Orta
+
+Graça Maria Palma Pereira
+
+Nascida a 10 de agosto de 1969, em Alcoutim, licenciada em Economia pela Universidade Lusíada de Lisboa em 1996. Em 1999/2000 frequentou o Mestrado de Economia de Empresa na Universidade Lusíada de Lisboa, com aprovação da parte curricular. É Master em Gestão de Serviços de Saúde (2005/2006). Em 2007/2008 frequentou o Mestrado em Finanças e Economia Pública, também na Universidade Lusíada de Lisboa.
+
+Experiência Profissional
+
+2011-2013 - Vogal Executiva do Conselho de Administração do Hospital de Faro, EPE;
+
+2009-2011 - Service Manager e Gestor de Aderentes no Somos PESSOAS, ACE;
+
+2007-2008 - Consultora Sénior no SUCH - Serviço de Utilização Comum dos Hospitais;
+
+2006-2007 - Assessora do Conselho de Administração do SUCH - Serviço de Utilização Comum dos Hospitais;
+
+2006 - Consultora Sénior do Gabinete de Estudos Partilhados do SUCH - Serviço de Utilização Comum dos Hospitais;
+
+2002-2006 - Responsável do Gabinete de Auditoria e Análise de Gestão e Assessora do Conselho de Administração do SUCH - Serviço de Utilização Comum dos Hospitais;
+
+2002 - Auditora Interna do Crédito Agrícola;
+
+1997-2001 - Diretora Financeira da Serralgarve, Panificação & Moagens, Lda.
+
+Formação Profissional
+
+2012 - Curso de Sensibilização Sobre as Novas Regras de Contratação Pública e a Sua Aplicação nos Hospitais EPE, INA;
+
+2012 - Liderança de Elevado Desempenho na Saúde, AESE - Business School;
+
+2012 - Training Program in Health Economics & HTA, Universitá Boconni Milan;
+
+2012 - A Lei dos Compromissos e a Sustentabilidade do SNS;
+
+2005 - Curso de Formação Pedagógica de Formadores.
+
+Outras Atividades
+
+Voluntária de Emergência Médica (TAT - Tripulante de Ambulância de Transporte).
+
+Maria Gabriela Castillón Valadas Cartucho
+
+Nascida em Vancouver, Canadá, pai diplomata, em 1960.
+
+Inscrita na Ordem dos Médicos a 09-12-86, com cédula profissional nº 30749.
+
+QUALIFICAÇÕES ACADÉMICAS
+
+1966/77. Primária e Secundário em Vancouver, com Prémio "Award of Excellence".
+
+1980/86 Licenciatura em Medicina, pela FMUC, em 1986 com 12,4 valores.
+
+1995. Especialidade em Cirurgia Geral por Júri Nacional de Titulação Única, com 18,4 valores.
+
+2011. Mestrado em Patologia Experimental, FMUC, tese com 19 valores.
+
+ATIVIDADES EM TERMOS CIENTÍFICOS E/OU PROFISSIONAIS
+
+1987/88. Internato Geral Centro Hospitalar Aveiro Norte.
+
+1989/95. Internato Complementar de Cirurgia Geral no Hospital Amato Lusitano.
+
+1997/98. Diretora de Serviço de Cirurgia Hospital Fundão e Adjunta do Diretor Clínico.
+
+Direção do Serviço de Urgência.
+
+2000. Entra por concurso Hospital Barlavento Algarve.
+
+2002. Observership (2 meses) em Cirurgia Oncológica da Mama, IEO Milão.
+
+2005. Estabelece e Coordena o Grupo Multidisciplinar da Mama CHBA. Integra Coordenação
+
+Rastreio Organizado do Cancro da Mama do Algarve, que se inicia no Algarve.
+
+2005. Grau de Consultor em Cirurgia Geral.
+
+2006/11. Integração da Direção Clínica do CHBA com Adjunta.
+
+2008/10. Pertence à Direção da Sociedade Portuguesa de Hidatidologia.
+
+2008/11. Editora de Língua Inglesa da Revista Barlavento Médico.
+
+2011. Integração da Reunião de Consenso Guidelines da Sociedade Portuguesa de Senologia.
+
+Preletora nas Comemorações dos 500 anos de Amato Lusitano. Curso e acreditação em Cirurgia Oncoplástica e Reconstrução da Mama, pela Universidade La Corunha com acreditação European Accreditation Council for CME.
+
+2012. Diretora Clínica do CHBA. Eleita para a Direção da Sociedade Portuguesa de Senologia.
+
+2013. Frequência de Curso de Gestão e Administração em Saúde.
+
+José Fernando Vieira dos Santos
+
+Cédula Profissional: 01496
+
+Nacionalidade: Portuguesa
+
+Data de Nascimento: 28 de setembro de 1958
+
+Habilitações Académicas
+
+1995 Grau de Licenciado em Enfermagem (Termo equivalência 912)
+
+1994-1995 Curso de Especialização em Enfermagem de Saúde Pública
+
+1990 Bacharelato em Enfermagem (Termo equivalência 912)
+
+1977-1980 Curso de Enfermagem Geral pela Escola de Enfermagem da Armada
+
+Experiência Profissional
+
+2011-2013 Enf.º Diretor Hospital de Faro
+
+2005-2011 Enf.º Chefe da Consulta Externa do Hospital de Faro
+
+2000-2005 Enf.º Chefe do Serviço de Cirurgia
+
+2002-2004 Enf.º Adjunto do Enfermeiro Diretor do Hospital de Faro
+
+1998-2000 Enf.º Coordenador do Serviço de Cirurgia
+
+1995-1998 Enf.º Responsável pela Formação em Serviço
+
+1995 -1998 Enf.º Especialista e 1.º Substituto da Enf.ª Chefe
+
+1993 Enfermeiro Monitor na Escola Superior de Enfermagem de Faro
+
+1990-1992 Enfermeiro de Nível I no Bloco Operatório do Hospital de Faro
+
+1986-1993 Enfermeiro de Hemodiálise no Centro Médico Nacional em Faro
+
+1985-1986 Enfermeiro de Grau I no Hospital de Santa Maria em Lisboa
+
+1984-1985 Enfermeiro 2.ª Classe no Hospital de Ponta Delgada dos Açores
+
+Formação Profissional
+
+2013 Frequência de Curso de Gestão e Administração da Saúde, na FEUALG
+
+2012 Curso de Liderança de Elevado Desempenho na Saúde, realizado na AESE
+
+2010 Curso de Formação em Gestão Pública (FORGEP), realizado pelo INA
+
+2009 Workshop Procedimentos de Natureza Disciplinar, realizada pelo IGAS
+
+1999 Programa sobre Liderança nos Serviços de Enfermagem, no Hospital Faro
+
+1998 Programa sobre Gestão de Conflitos, realizado no Hospital de Faro
+
+1997 Programas sobre Organização da Formação, Gestão dos Serviços/Unidades e Curso de Formação Pedagógica de Formadores, realizados no Hospital de Faro
+
+1989 Curso Prevenção de Alcoolismo e Toxicodependência, realizado na ESS Militar
+
+1988 Curso de Hemodiálise para Enfermeiros, realizado no Hospital de Faro
+
+207132514

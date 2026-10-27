@@ -1,0 +1,289 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986R4055:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986R4055-19901217",
+ "dre_path": null,
+ "source_lastmod": "1990-12-17",
+ "versions": [
+  {
+   "date": "1986-12-31",
+   "future": false,
+   "celex": "31986R4055",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7b347a91b747367a",
+    "3166122703a16199",
+    "6782231c3258280c",
+    "b366dbcd5814c441",
+    "db6f960118f2069c",
+    "833a8b1935689d0c",
+    "abb2b32d87a8d7ed",
+    "dff222303bafce89",
+    "a19b3d384711d2a8",
+    "408d70910d359012",
+    "e256cfb46a2e77f2",
+    "f5c0c772ddc737c3",
+    "10b15754a3fba69f"
+   ]
+  },
+  {
+   "date": "1990-12-17",
+   "future": false,
+   "celex": "01986R4055-19901217",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Suprime Artigo 1g.",
+    "Suprime Artigo 2g. — Em derrogação do n° 1 do artigo 1g., as restrições nacionais unilaterais existentes antes de 1 de Julho de 1986 aplicáveis ao",
+    "Suprime Artigo 3g.",
+    "Suprime Artigo 4°.",
+    "Suprime Artigo 5g.",
+    "Suprime Artigo 6g.",
+    "Suprime Artigo 7g.",
+    "Suprime Artigo 8g.",
+    "Suprime Artigo 9g.",
+    "Suprime Artigo 10g.",
+    "Suprime Artigo 11g.",
+    "Suprime Artigo 12g."
+   ],
+   "fragments": [
+    "d18a3c39eb2e54c8",
+    "e4690c201142b522",
+    "6b072878917fb0e9",
+    "19feb7e523f54496",
+    "95ea03fbef91cb71",
+    "9579ee9b982277bc",
+    "22a506bb8366ae1f",
+    "ce9cea75de00f111",
+    "35f79ab6a920f335",
+    "12f68f0bb0cd4a7b",
+    "16294e9b355293c4",
+    "d137339ca71d4a38",
+    "050025ec42a3b41c"
+   ]
+  }
+ ],
+ "fragments": {
+  "7b347a91b747367a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 4055/86 do Conselho de 22 de Dezembro de 1986 que aplica o princípio da livre prestação de serviços aos transportes marítimos entre Estados-membros e Estados-membros para países terceiros** *Jornal Oficial nº L 378 de 31/12/1986 p. 0001 - 0003 Edição especial finlandesa: Capítulo 7 Fascículo 3 p. 0145 Edição especial sueca: Capítulo 7 Fascículo 3 p. 0145*\n\nREGULAMENTO (CEE) Ng. 4055/86 DO CONSELHO\n\nde 22 de Dezembro de 1986\n\nque aplica o princípio da livre prestação de serviços aos transportes marítimos entre Estados-membros e Estados-membros para países terceiros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n° 2 do seu artigo 84g.,\n\nTendo em conta o projecto de regulamento apresentado pela Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, nos termos do artigo 3g. do Tratado,\n\né da competência da Comunidade a abolição entre os Estados-membros dos obstáculos à livre circulação dos serviços;\n\nConsiderando que, por força do artigo 61g. do Tratado, a livre circulação dos serviços em matéria de transportes é regulada pelas disposições do Título relativo aos transportes;\n\nConsiderando que é necessário aplicar este princípio na Comunidade no sentido de poder prosseguir, em relação aos países terceiros, uma política eficaz que vise garantir a aplicação continuada dos princípios comerciais à navegação marítima;\n\nConsiderando que o Regulamento (CEE) n° 954/79 do Conselho (3) consagra, nomeadamente, no âmbito das conferências, a liberdade de acesso à parte do tráfego de linha não reservado por compromissos às companhias nacionais de países terceiros por força da Convenção das Nações Unidas relativa a um Código de Conduta das Conferências Marítimas, desde que ratificada pelos Estados-membros;\n\nConsiderando que o Código de Conduta não se aplica ainda a todos os tráfegos comunitários e que provavelmente não virá\n\na aplicar-se a outros, já que não foi ainda ratificado por todos os Estados-membros e que certos países terceiros não o ratificarão;\n\nConsiderando que o Código de Conduta só se aplica às conferências marítimas e ao frete efectuado pelos seus membros, não se aplicando pois às companhias independentes e às companhias que efectuam transportes a granel e de tramp, domínios de actividade em que a Comunidade tem\n\npor objectivo manter um regime de concorrência livre e leal;\n\nConsiderando que a Comunidade adere inteiramente à Resolução n° 2 adoptada pela Conferência de Plenipotenciários das Nações Unidas relativa a um Código de conduta das Conferências Marítimas que declara que, no interesse de um desenvolvimento harmonioso dos transportes marítimos, as companhias fora da conferência não devem ser impedidas de funcionar na medida em que respeitem o princípio da concorrência leal numa base comercial;\n\nConsiderando que os Estados-membros afirmam o seu empenhamento numa situação de livre concorrência que constitua uma das características essenciais dos tráfegos de granéis líquidos ou sólidos e estão convencidos de que a instituição da repartição das cargas nesses tráfegos não afectará gravemente os interesses comerciais de todos os países aumentando consideravelmente os custos de transporte;\n\nConsiderando que os armadores da Comunidade devem enfrentar as restrições cada vez mais numerosas impostas pelos países terceiros que os impedem de oferecer os seus serviços a carregadores estabelecidos no seu próprio Estado-membro, em outros Estados-membros ou em países terceiros e que essas restrições podem ter efeitos nefastos para o tráfego da Comunidade no seu conjunto;\n\nConsiderando que algumas destas restrições se encontram consagradas em acordos bilaterais celebrados entre os países terceiros e certos Estados-membros e que outras constam de disposições análogas da legislação ou das práticas administrativas de certos Estados-membros;\n\nConsiderando que o princípio da livre prestação de serviços deve pois ser, doravante, aplicado aos transportes marítimos\n\ntendo em vista a abolição progressiva das restrições existentes e impedir a introdução de novas restrições;\n\nConsiderando que a estrutura do sector dos transportes marítimos da Comunidade é tal que se revela adequado que as disposições do presente regulamento se apliquem também aos nacionais dos Estados-membros estabelecidos fora da Comunidade e às companhias marítimas estabelecidas fora da Comunidade e controladas por nacionais de um Estado-membro, se os seus navios estiverem matriculados nesse Estado-membro nos termos da respectiva legislação;\n\nConsiderando que é necessário prever períodos de transição de duração razoável, de acordo com as características do tipo de transporte em causa,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3166122703a16199": {
+   "fragment_id": "Artigo 1g.",
+   "type": "artigo",
+   "heading": "Artigo 1g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1g.\n\n1. A liberdade de prestação de serviços de transporte marítimo entre Estados-membros e entre Estados-membros e países terceiros será aplicável aos nacionais dos Estados-membros estabelecidos num Estado-membro que não seja o do destinatário dos serviços.\n\n2. As disposições do presente regulamento aplicam-se igualmente aos nacionais dos Estados-membros estabelecidos fora da Comunidade e às companhias marítimas estabelecidas fora da Comunidade e controladas por nacionais de um Estado-membro, se os seus navios estiverem matriculados nesse Estado-membro de acordo com a respectiva legislação.\n\n3. As disposições dos artigos 55g. a 58g. e do artigo 62g. do Tratado são aplicáveis aos casos abrangidos pelo presente regulamento.\n\n4. Para efeitos do presente regulamento, consideram-se «serviços de transporte marítimo entre Estados-membros e entre Estados-membros e países terceiros», se forem normalmente prestados contra remuneração:\n\na) Os transportes marítimos intracomunitários:\n\ntransporte por mar de passageiros ou mercadorias entre um porto de um Estado-membro e um porto ou instalação off-shore de outro Estado-membro;\n\nb) O tráfego com países terceiros:\n\ntransporte por mar de passageiros ou mercadorias entre os portos de um Estado-membro e portos ou instalações off-shore de um país terceiro."
+  },
+  "6782231c3258280c": {
+   "fragment_id": "Artigo 2g. — Em derrogação do n° 1 do artigo 1g., as restrições nacionais unilaterais existentes antes de 1 de Julho de 1986 aplicáveis ao",
+   "type": "artigo",
+   "heading": "Artigo 2g. — Em derrogação do n° 1 do artigo 1g., as restrições nacionais unilaterais existentes antes de 1 de Julho de 1986 aplicáveis ao",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2g. — Em derrogação do n° 1 do artigo 1g., as restrições nacionais unilaterais existentes antes de 1 de Julho de 1986 aplicáveis ao\n\ntransporte de certas mercadorias cujo encaminhamento\n\nesteja, no todo ou em parte, reservado a navios que arvorem pavilhão nacional, devem ser gradualmente eliminadas, o mais tardar nos termos do seguinte calendário:\n\n- transporte entre Estados-\n\n-membros por navios que arvorem pavilhão de um Estado-membro:\n\n31 de Dezembro de 1989,\n\n- transporte entre Estados-\n\n-membros e países terceiros por navios que arvorem pavilhão de um Estado-membro:\n\n31 de Dezembro de 1991,\n\n- transporte entre Estados-\n\n-membros e entre Estados-\n\n-membros e países terceiros, por outros navios:\n\n1 de Janeiro de 1993."
+  },
+  "b366dbcd5814c441": {
+   "fragment_id": "Artigo 3g.",
+   "type": "artigo",
+   "heading": "Artigo 3g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3g.\n\nOs convénios de repartição de cargas contidos nos acordos bilaterais existentes, celebrados pelos Estados-membros com países terceiros devem ser gradualmente eliminados ou adaptados em conformidade com o disposto no artigo 4g."
+  },
+  "db6f960118f2069c": {
+   "fragment_id": "Artigo 4°.",
+   "type": "artigo",
+   "heading": "Artigo 4°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°.\n\n1. Os convénios de repartição de cargas vigentes não suprimidos em conformidade com o artigo 3g., devem ser adaptados de acordo com a legislação da Comunidade e especialmente:\n\na) N° que respeita aos tráfegos regidos pelo Código de Conduta das Conferências Marítimas das Nações Unidas, os referidos convénios observarão esse Código e as obrigações que cabem aos Estados-membros nos termos do Regulamento (CEE) n° 954/79;\n\nb) N° que respeita aos tráfegos não regidos pelo Código de Conduta das Conferências Marítimas das Nações Unidas, os acordos existentes serão adaptados logo que possível, o mais tardar, antes de 1 de Janeiro de 1993, de modo a proporcionar um acesso equitativo, livre e não discriminatório de todos os nacionais da Comunidade, tal como previsto no artigo 1g., às parcelas de carga devidas aos Estados-membros em questão.\n\n2. As medidas nacionais tomadas em cumprimento do\n\nn° 1 devem ser imediatamente notificadas aos Estados-\n\n-membros e à Comissão. Será aplicado o procedimento de consulta estabelecido pela Decisão do Conselho 77/587/CEE.\n\n3. Os Estados-membros devem informar a Comissão dos progressos feitos nas adaptações referidas no n° 1, alínea b), de início semestralmente e depois anualmente.\n\n4. Quando surgirem dificuldades no processo de adaptação dos convénios de modo a torná-los conformes ao n° 1, alínea b), o Estado-membro em causa informará o Conselho e a Comissão. N° caso de os convénios serem incompatíveis com o n° 1, alínea b) e a pedido do Estado-membro interessado, o Conselho, deliberando sob proposta da Comissão, adoptará as medidas adequadas."
+  },
+  "833a8b1935689d0c": {
+   "fragment_id": "Artigo 5g.",
+   "type": "artigo",
+   "heading": "Artigo 5g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5g.\n\n1. São proibidos os convénios de repartição de cargas em qualquer futuro acordo com países terceiros, salvo nos casos excepcionais em que as companhias de transportes maríti-\n\nmos regulares comunitárias não tenham, de outro modo, a oportunidade efectiva de fazer regularmente o comércio para/e do terceiro país em questão. Nessas circunstân-\n\ncias, esses acordos são permitidos nos termos do disposto no artigo 6g.\n\n2. Se um terceiro país procurar impôr convénios de repartição de cargas no comércio de granéis líquidos ou sólidos, o Conselho tomará as medidas adequadas de acordo com o Regulamento (CEE) n° 4058/86 relativo a uma acção coordenada com vista a salvaguardar o livre acesso ao tráfego transoceânico (1)."
+  },
+  "abb2b32d87a8d7ed": {
+   "fragment_id": "Artigo 6g.",
+   "type": "artigo",
+   "heading": "Artigo 6g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6g.\n\n1. Se os nacionais ou as companhias marítimas de um Estado-membro, definidas nos termos dos n° 1 e 2 do\n\nartigo 1g., estiverem confrontados ou correrem o risco de vir a estar confrontados com uma situação em que não tenham oportunidade efectiva de fazer regularmente o comércio para/e de um determinado país terceiro, o Estado-membro em causa deverá informar desse facto, o mais rapidamente possível, os outros Estados-membros e a Comissão.\n\n2. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, decidirá das medidas a tomar. Tais medidas devem incluir, nas circunstâncias referidas no n° 1 do artigo 5g., a negociação e a celebração de convénios de repartição de cargas.\n\n3. Se o Conselho não tiver decidido sobre as acções necessárias num prazo de seis meses após o fornecimento da informação por parte do Estado-membro, como previsto no n° 1, o Estado-membro em questão pode tomar as medidas que, de momento, sejam necessárias para manter uma oportunidade efectiva de fazer regularmente o comércio nos termos do n° 1 do artigo 5g.\n\n4. Qualquer medida tomada ao abrigo do n° 3 deverá respeitar a regulamentação comunitária e proporcionar aos nacionais ou companhias de transportes marítimos da Comunidade um acesso equitativo, livre e não-discriminatório às quotas de carga em causa, tal como previsto nos n°s 1 e 2 do artigo 1g.\n\n5. As medidas nacionais tomadas de acordo com o n° 3 devem ser imediatamente notificadas aos Estados-membros e à Comissão. É aplicável o procedimento de consulta estabelecido na Decisão do Conselho 77/587/CEE."
+  },
+  "dff222303bafce89": {
+   "fragment_id": "Artigo 7g.",
+   "type": "artigo",
+   "heading": "Artigo 7g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7g.\n\nO Conselho, deliberando nos termos do disposto no Tratado, pode tornar as disposições do presente regulamento extensivas a prestadores de serviços de transportes marítimos nacionais de países terceiros e estabelecidos na Comunidade."
+  },
+  "a19b3d384711d2a8": {
+   "fragment_id": "Artigo 8g.",
+   "type": "artigo",
+   "heading": "Artigo 8g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8g.\n\nSem prejuízo das disposições do Tratado relativas ao direito de estabelecimento, o prestador de um serviço de transporte marítimo pode, em execução da sua prestação e a título temporário, exercer a sua actividade no Estado-membro em que a prestação é fornecida, nas mesmas condições que as impostas por esse país aos seus próprios nacionais."
+  },
+  "408d70910d359012": {
+   "fragment_id": "Artigo 9g.",
+   "type": "artigo",
+   "heading": "Artigo 9g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9g.\n\nEnquanto não forem suprimidas as restrições à livre prestação de serviços, cada Estado-membro aplicá-las-á sem distinção de nacionalidade ou de residência, a todos os prestadores de serviços referidos nos n°s 1 e 2 do artigo 1g."
+  },
+  "e256cfb46a2e77f2": {
+   "fragment_id": "Artigo 10g.",
+   "type": "artigo",
+   "heading": "Artigo 10g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10g.\n\nAntes de adoptarem qualquer disposição legislativa, regulamentar ou administrativa necessária para a execução do presente regulamento, os Estados-membros consultarão a Comissão e comunicar-lhe-ão quaisquer medidas adoptadas nesse sentido."
+  },
+  "f5c0c772ddc737c3": {
+   "fragment_id": "Artigo 11g.",
+   "type": "artigo",
+   "heading": "Artigo 11g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11g.\n\nO Conselho, deliberando nos termos do disposto no Tratado, deve rever o presente regulamento antes de 1 de Janeiro de 1995."
+  },
+  "10b15754a3fba69f": {
+   "fragment_id": "Artigo 12g.",
+   "type": "artigo",
+   "heading": "Artigo 12g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12g.\n\nO presente regulamento entrará em vigor no dia seguinte à sua publicação no Jornal Oficial des Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Dezembro de 1986.\n\nPelo Conselho\n\nO Presidente\n\nG. SHAW\n\n(1) JO n° C 255 de 13. 10. 1986, p. 169.\n\n(2) JO n° C 172 de 2. 7. 1984, p. 178.\n\n(3) JO n° L 121 de 17. 5. 1979.\n\n(1) Ver página 21 do presente Jornal Oficial."
+  },
+  "d18a3c39eb2e54c8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1986R4055 — PT — 17.12.1990 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R4055:PT:NOT) [REGULAMENTO (CEE) N.o 4055/86 DO CONSELHO de 22 de Dezembro de 1986 que aplica o princípio da livre prestação de serviços aos transportes marítimos entre Estados-membros e Estados-membros para países terceiros](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R4055:PT:NOT) (JO L 378, 31.12.1986, p.1)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R3573:PT:NOT) | [Regulamento (CEE) n.o 3573/90 do Conselho de 4 de Dezembro de 1990](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R3573:PT:NOT) | L 353 | 16 | 17.12.1990 |\n\nRectificado por:\n\n[C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R4055R(03):PT:NOT) [Rectificação, JO L 117, 5.5.1988, p. 33 (4055/86)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R4055R(03):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R4055:PT:NOT)\n\nREGULAMENTO (CEE) N.o 4055/86 DO CONSELHO\n\nde 22 de Dezembro de 1986\n\nque aplica o princípio da livre prestação de serviços aos transportes marítimos entre Estados-membros e Estados-membros para países terceiros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.o 2 do seu artigo 84.o,\n\nTendo em conta o projecto de regulamento apresentado pela Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([1](http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1#E0002)),\n\nConsiderando que, nos termos do artigo 3.o do Tratado, é da competência da Comunidade a abolição entre os Estados-membros dos obstáculos à livre circulação dos serviços;\n\nConsiderando que, por força do artigo 61.o do Tratado, a livre circulação dos serviços em matéria de transportes é regulada pelas disposições do Título relativo aos transportes;\n\nConsiderando que é necessário aplicar este princípio na Comunidade no sentido de poder prosseguir, em relação aos países terceiros, uma política eficaz que vise garantir a aplicação continuada dos princípios comerciais à navegação marítima;\n\nConsiderando que o Regulamento (CEE) n.o 954/79 do Conselho ([3](http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1#E0003)) consagra, nomeadamente, no âmbito das conferências, a liberdade de acesso à parte do tráfego de linha não reservado por compromissos às companhias nacionais de países terceiros por força da Convenção das Nações Unidas relativa a um Código de Conduta das Conferências Marítimas, desde que ratificada pelos Estados-membros;\n\nConsiderando que o Código de Conduta não se aplica ainda a todos os tráfegos comunitários e que provavelmente não virá a aplicar-se a outros, já que não foi ainda ratificado por todos os Estados-membros e que certos países terceiros não o ratificarão;\n\nConsiderando que o Código de Conduta só se aplica às conferências marítimas e ao frete efectuado pelos seus membros, não se aplicando pois às companhias independentes e às companhias que efectuam transportes a granel e de tramp, domínios de actividade em que a Comunidade tem por objectivo manter um regime de concorrência livre e leal;\n\nConsiderando que a Comunidade adere inteiramente à Resolução n.o 2 adoptada pela Conferência de Plenipotenciários das Nações Unidas relativa a um Código de conduta das Conferências Marítimas que declara que, no interesse de um desenvolvimento harmonioso dos transportes marítimos, as companhias fora da conferência não devem ser impedidas de funcionar na medida em que respeitem o princípio da concorrência leal numa base comercial;\n\nConsiderando que os Estados-membros afirmam o seu empenhamento numa situação de livre concorrência que constitua uma das características essenciais dos tráfegos de granéis líquidos ou sólidos e estão convencidos de que a instituição da repartição das cargas nesses tráfegos não afectará gravemente os interesses comerciais de todos os países aumentando consideravelmente os custos de transporte;\n\nConsiderando que os armadores da Comunidade devem enfrentar as restrições cada vez mais numerosas impostas pelos países terceiros que os impedem de oferecer os seus serviços a carregadores estabelecidos no seu próprio Estado-membro, em outros Estados-membros ou em países terceiros e que essas restrições podem ter efeitos nefastos para o tráfego da Comunidade no seu conjunto;\n\nConsiderando que algumas destas restrições se encontram consagradas em acordos bilaterais celebrados entre os países terceiros e certos Estados-membros e que outras constam de disposições análogas da legislação ou das práticas administrativas de certos Estados-membros;\n\nConsiderando que o princípio da livre prestação de serviços deve pois ser, doravante, aplicado aos transportes marítimos entre Estados-membros e entre Estados-membros e países terceiros, tendo em vista a abolição progressiva das restrições existentes e impedir a introdução de novas restrições;\n\nConsiderando que a estrutura do sector dos transportes marítimos da Comunidade é tal que se revela adequado que as disposições do presente regulamento se apliquem também aos nacionais dos Estados-membros estabelecidos fora da Comunidade e às companhias marítimas estabelecidas fora da Comunidade e controladas por nacionais de um Estado-membro, se os seus navios estiverem macriculados nesse Estado-membro nos termos da respectiva legislação;\n\nConsiderando que é necessário prever períodos de transição de duração razoável, de acordo com as características do tipo de transporte em causa,\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R4055:PT:NOT)\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e4690c201142b522": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A liberdade de prestação de serviços de transporte marítimo entre Estados-membros e entre Estados-membros e países terceiros será aplicável aos nacionais dos Estados-membros estabelecidos num Estado-membro que não seja o do destinatário dos serviços.\n\n2. As disposições do presente regulamento aplicam-se igualmente aos nacionais dos Estados-membros estabelecidos fora da Comunidade e às companhias marítimas estabelecidas fora da Comunidade e controladas por nacionais de um Estado-membro, se os seus navios estiverem matriculados nesse Estado-membro de acordo com a respectiva legislação.\n\n3. As disposições dos artigos 55.o a 58.o e do artigo 62.o do Tratado são aplicáveis aos casos abrangidos pelo presente regulamento.\n\n4. Para efeitos do presente regulamento, consideram-se «serviços de transporte marítimo entre Estados-membros e entre Estados-membros e países terceiros», se forem normalmente prestados contra remuneração:\n\na) Os transportes marítimos intracomunitários:\n\ntransporte por mar de passageiros ou mercadorias entre um porto de um Estado-membro e um porto ou instalação off-shore de outro Estado-membro;\n\nb) O tráfego com países terceiros:\n\ntransporte por mar de passageiros ou mercadorias entre os portos de um Estado-membro e portos ou instalações off-shore de um país terceiro."
+  },
+  "6b072878917fb0e9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEm derrogação do n.o 1 do artigo 1.o, as restrições nacionais unilaterais existentes antes de 1 de Julho de 1986 aplicáveis ao transporte de certas mercadorias cujo encaminhamento esteja, no todo ou em parte, reservado a navios que arvorem pavilhão nacional, devem ser gradualmente eliminadas, o mais tardar nos termos do seguinte calendário:\n\n— transporte entre Estados-membros por navios que arvorem pavilhão de um Estado-membro: 31 de Dezembro de 1989,\n\n— transporte entre Estados-membros e países terceiros por navios que arvorem pavilhão de um Estado-membro: 31 de Dezembro de 1991,\n\n— transporte entre Estados-membros e entre Estados-membros e países terceiros, por outros navios: 1 de Janeiro de 1993."
+  },
+  "19feb7e523f54496": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs convénios de repartição de cargas contidos nos acordos bilaterais existentes, celebrados pelos Estados-membros com países terceiros devem ser gradualmente eliminados ou adaptados em conformidade com o disposto no artigo 4.o"
+  },
+  "95ea03fbef91cb71": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os convénios de repartição de cargas vigentes não suprimidos em conformidade com o artigo 3.o, devem ser adaptados de acordo com a legislação da Comunidade e especialmente:\n\na) No que respeita aos tráfegos regidos pelo Código de Conduta das Conferências Marítimas das Nações Unidas, os referidos convénios observarão esse Código e as obrigações que cabem aos Estados-membros nos termos do Regulamento (CEE) n.o 954/79;\n\nb) No que respeita aos tráfegos não regidos pelo Código de Conduta das Conferências Marítimas das Nações Unidas, os acordos existentes serão adaptados logo que possível, o mais tardar, antes de 1 de Janeiro de 1993, de modo a proporcionar um acesso equitativo, livre e não discriminatório de todos os nacionais da Comunidade, tal como previsto no artigo 1.o, às parcelas de carga devidas aos Estados-membros em questão.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31990R3573:PT:NOT)\n\nOs acordos celebrados pela antiga República Democrática Alemã devem ser adaptados no mais breve prazo e nunca depois de 1 de Janeiro de 1995.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986R4055:PT:NOT)\n\n2. As medidas nacionais tomadas em cumprimento do n.o 1 devem ser imediatamente notificadas aos Estados-membros e á Comissão. Será aplicado o procedimento de consulta estabelecido pela Decisão do Conselho 77/587/CEE.\n\n3. Os Estados-membros devem informar a Comissão dos progressos feitos nas adaptações referidas no n.o 1, alínea b), de início semestralmente e depois anualmente.\n\n4. Quando surgirem dificuldades no processo de adaptação dos convénios de modo a torná-los conformes ao n.o 1, alínea b), o Estado-membro em causa informará o Conselho e a Comissão. No caso de os convénios serem incompatíveis com o n.o 1, alínea b) e a pedido do Estado-membro interessado, o Conselho, deliberando sob proposta da Comissão, adoptará as medidas adequadas."
+  },
+  "9579ee9b982277bc": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. São proibidos os convénios de repartição de cargas em qualquer futuro acordo com países terceiros, salvo nos casos excepcionais em que as companhias de transportes marítimos regulares comunitárias não tenham, de outro modo, a oportunidade efectiva de fazer regularmente o comércio para/e do terceiro país em questão. Nessas circunstâncias, esses acordos são permitidos nos termos do disposto no artigo 6.o\n\n2. Se um terceiro país procurar impôr convénios de repartição de cargas no comércio de granéis líquidos ou sólidos, o Conselho tomará as medidas adequadas de acordo com o Regulamento (CEE) n.o 4058/86 relativo a uma acção coordenada com vista a salvaguardar o livre acesso ao trafego transoceânico ([4](http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1#E0004))."
+  },
+  "22a506bb8366ae1f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Se os nacionais ou as companhias marítimas de um Estado-membro, definidas nos termos dos n.o 1 e 2 do artigo 1.o, estiverem confrontados ou correrem o risco de vir a estar confrontados com uma situação em que não tenham oportunidade efectiva de fazer regularmente o comércio para/e de um determinado país terceiro, o Estado-membro em causa deverá informar desse facto, o mais rapidamente possível, os outros Estados-membros e a Comissão.\n\n2. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, decidirá das medidas a tomar. Tais medidas devem incluir, nas circunstâncias referidas no n.o 1 do artigo 5.o, a negociação e a celebração de convénios de repartição de cargas.\n\n3. Se o Conselho não tiver decidido sobre as acções necessárias num prazo de seis meses após o fornecimento da informação por parte do Estado-membro, como previsto no n.o 1, o Estado-membro em questão pode tomar as medidas que, de momento, sejam necessárias para manter uma oportunidade efectiva de fazer regularmente o comércio nos ternos do n.o 1 do artigo 5.o\n\n4. Qualquer medida tomada ao abrigo do n.o 3 deverá respeitar a regulamentação comunitária e proporcionar aos nacionais ou companhias de transportes marítimos da Comunidade um acesso equitativo, livre e não-discriminatório às quotas de carga em causa, tal como previsto nos n.os 1 e 2 do artigo 1.o\n\n5. As medidas nacionais tomadas de acordo com o n.o 3 devem ser imediatamente notificadas aos Estados-membros e à Comissão. É aplicável o procedimento de consulta estabelecido na Decisão do Conselho 77/587/CEE."
+  },
+  "ce9cea75de00f111": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO Conselho, deliberando nos termos do disposto no Tratado, pode tornar as disposições do presente regulamento extensivas a prestadores de serviços de transportes marítimos nacionais de países terceiros e estabelecidos na Comunidade."
+  },
+  "35f79ab6a920f335": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSem prejuízo das disposições do Tratado relativas ao direito de estabelecimento, o prestador de um serviço de transporte marítimo pode, em execução da sua prestação e a título temporário, exercer a sua actividade no Estado-membro em que a prestação é fornecida, nas mesmas condições que as impostas por esse país aos seus próprios nacionais."
+  },
+  "12f68f0bb0cd4a7b": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEnquanto não forem suprimidas as restrições á livre prestação de serviços, cada Estado-membro aplicá-las-á sem distinção de nacionalidade ou de residência, a todos os prestadores de serviços referidos nos n.os 1 e 2 do artigo 1.o"
+  },
+  "16294e9b355293c4": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAntes de adoptarem qualquer disposição legislativa, regulamentar ou administrativa necessária para a execução do presente regulamento, os Estados-membros consultarão a Cómissão e comunicar-lhe-ão quaisquer medidas adoptadas nesse sentido."
+  },
+  "d137339ca71d4a38": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Conselho, deliberando nos termos do disposto no Tratado, deve rever o presente regulamento antes de 1 de janeiro de 1995."
+  },
+  "050025ec42a3b41c": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente regulamento entrará em vigor no dia seguinte à sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n([1](http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1#src.E0001)) JO n.o C 255 de 13. 10. 1986, p. 169.\n\n([2](http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1#src.E0002)) JO n.o C 172 de 2. 7. 1984, p. 178.\n\n([3](http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1#src.E0003)) JO n.o L 121 de 17. 5. 1979.\n\n([4](http://publications.europa.eu/resource/cellar/bfd4b0b2-2f43-4f3f-8200-408c7f8c0172.0018.02/DOC_1#src.E0004)) Ver página 21 do presente Jornal Oficial."
+  }
+ }
+}

@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:400069:por
+title: Decreto-Lei n.º 17/72
+short_title: null
+summary: Fixa o prazo de dois anos para a reforma do Plano Director de Desenvolvimento Urbanístico da Região de Lisboa, de
+  acordo com a orientação de planeamento regional definida no III Plano de Fomento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: 17/72
+official_date: null
+publication_date: '1972-01-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 10/1972, Série I de 1972-01-13
+  number: '10'
+  series: I
+  supplement: null
+  pages: 68 - 69
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/01/01000/00680069.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '400069'
+  dre_path: /dr/detalhe/decreto-lei/17-1972-400069
+  internal: pt:dre:400069:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1972-400069
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1972-400069
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:22:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0425976ecf9cb3b96ba55aa639d8f42cccfa61209e89d8366f356e17940a2b36
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Lisboa
+- Planeamento Urbano
+relationships:
+- type: amended_by
+  target: pt:dre:283526:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:283526:por
+  label: "Alterada a alínea a) do n.º 1 do artigo 2.º pelo DEC LEI.14/88.16.01.1988.MPLAT, DR.IS [13] de 16.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1988-283526
+  date: '1988-01-16'
+- type: cites
+  target: pt:dre:169656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432216:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:22:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 17/72
+
+de 13 de Janeiro
+
+O Plano Director de Desenvolvimento Urbanístico da Região de Lisboa, elaborado em cumprimento da [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), de 14 de Agosto de 1959, não se encontra aprovado pelo Governo, por se ter entendido, depois da sua apreciação no Conselho Superior de Obras Públicas e na Câmara Corporativa (parecer n.º 7/IX, de 9 de Maio de 1967, que o Plano deveria se objecto de desenvolvimentos e adaptações, visando especialmente o seu enquadramento na política de planeamento regional entretanto definida no III Plano de Fomento.
+
+Pelo presente diploma fixa-se um prazo para o Ministério das Obras Públicas promover a reforma do Plano, até cuja aprovação serão mantidas em vigor as medidas preventivas estabelecidas na referida [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), e actualizam-se algumas das disposições deste diploma.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º O Ministro das Obras Públicas promoverá que, no prazo de dois anos, contados da data do presente diploma, o Plano Director de Desenvolvimento Urbanístico, elaborado em cumprimento da [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), de 14 de Agosto de 1959, seja reformado de acordo com a orientação de planeamento regional definida no III Plano de Fomento.
+
+Art. 2.º - 1. Na área definida nos termos da base I da [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216) e até à aprovação do Plano Director carecem de autorização do Ministro das Obras Públicas, ouvidas a respectiva Câmara Municipal, a Direcção-Geral dos Serviços de Urbanização e, consoante os casos, a Direcção-Geral dos Serviços Agrícolas e a Direcção-Geral dos Serviços Florestais e Aquícolas:
+
+a) A criação de novos núcleos populacionais e a construção, reconstrução ou ampliação de instalações industriais da 1.ª ou 2.ª classes, quando, num e noutro caso, se situem fora das zonas previstas, para esse efeito, nos planos de urbanização legalmente aprovados;
+
+b) As novas explorações regidas pela legislação referente a pedreiras e a ampliação da área de terreno declarada e na qual a exploração estava autorizada à data da [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), bem como a execução de terraplanagens importantes de qualquer natureza susceptíveis de alterar a configuração geral do terreno e o derrube contínuo de árvores em maciço de área superior a 1 ha.
+
+2. Nos casos previstos nas alíneas precedentes, o licenciamento necessário fica dependente da exibição pelos interessados, perante os serviços competentes, de documento que prove a autorização prévia, exigida no número anterior.
+
+3. Até à aprovação do Plano, fica também sujeita a autorização do Ministro das Obras Públicas, por intermédio da Direcção-Geral dos Serviços de Urbanização e mediante parecer da Câmara Municipal, a construção de novas edificações fora dos perímetros dos aglomerados existentes, excepto quando situadas nas áreas para esse efeito definidas nos planos de urbanização legalmente aprovados.
+
+4. As autorizações serão negadas quando da sua concessão possa resultar inconveniente para a execução futura do Plano Director.
+
+5. O Ministro das Obras Públicas poderá fixar, por despacho, mediante proposta da Direcção-Geral dos Serviços de Urbanização, os perímetros das povoações a considerar na aplicação do disposto neste artigo.
+
+6. As câmaras municipais não poderão conceder licenças de edificação ou rectificação em quaisquer povoações ou locais onde por lei ou por deliberação municipal esteja em vigor o regime de licenciamento de obras sem se exibir a autorização exigida no n.º 3 deste artigo.
+
+Art. 3.º - 1. A Direcção-Geral dos Serviços de Urbanização e as câmaras municipais são competentes para promover o embargo e a demolição das obras executadas com violação do preceituado no artigo anterior.
+
+2. A demolição será feita à custa dos proprietários, sem direito a qualquer indemnização.
+
+3. A cobrança das importâncias a que der lugar a aplicação desta disposição, na falta de pagamento voluntário, competirá aos tribunais das contribuições e impostos, constituindo título executivo a certidão passada pelos serviços donde constem todos os requisitos referidos no artigo 156.º do Código de Processo das Contribuições e Impostos.
+
+Art. 4.º O Ministro das Obras Públicas poderá determinar que na área a que se refere o presente diploma, e simultâneamente com os trabalhos referidos no artigo 1.º, sejam revistos os planos de urbanização que estiverem em vigor e elaborados planos sub-regionais.
+
+Art. 5.º - 1. A Comissão do Plano Director da Região de Lisboa passa a ter a seguinte composição:
+
+a) O director-geral e o subdirector-geral dos Serviços de Urbanização, servindo o primeiro de presidente, e o director dos Serviços de Planeamento Urbanístico, da Direcção-Geral dos Serviços de Urbanização;
+
+b) Um representante de cada uma das câmaras municipais dos concelhos abrangidos pelo Plano;
+
+c) Um representante do Secretariado Técnico da Presidência do Conselho e outro da Comissão Consultiva de Planeamento da Região de Lisboa;
+
+d) Um representante do Secretariado-Geral da Defesa Nacional;
+
+e) Um representante do Ministério das Finanças;
+
+f) Um representante da Direcção-Geral dos Serviços Agrícolas, outro da Direcção-Geral dos Serviços Florestais e Aquícolas e outro da Junta de Colonização Interna;
+
+g) Um representante de cada uma das Direcções-Gerais dos Serviços Industriais e de Minas e Serviços Geológicos e outro da Direcção-Geral dos Serviços Eléctricos;
+
+h) Um representante de cada um dos seguintes organismos: Direcção-Geral de Transportes Terrestres, Administração-Geral do Porto de Lisboa, Direcção-Geral de Portos, Direcção-Geral da Aeronáutica Civil e Gabinete do Novo Aeroporto de Lisboa;
+
+i) Um representante do Ministério das Corporações e Previdência Social;
+
+j) Um representante do Ministério da Saúde e Assistência;
+
+k) Um representante da Secretaria de Estado da Informação e Turismo;
+
+l) Duas individualidades das actividades privadas, a designar pelo Ministro da Economia;
+
+m) Um representante do Ministério da Educação Nacional;
+
+n) Um técnico do Gabinete do Plano, que servirá de secretário.
+
+2. A composição fixada no número antecedente poderá ser ampliada, mediante portaria do Ministro das Obras Públicas, se tal vier a mostrar-se necessário.
+
+3. Cabe, respectivamente, ao Presidente do Conselho, ao Ministro da Defesa Nacional, ao Ministro das Finanças, aos Secretários de Estado da Agricultura e da Indústria, aos Ministros das Comunicações, das Corporações e Previdência Social e da Saúde e Assistência, ao Secretário de Estado da Informação e Turismo e ao Ministro da Educação Nacional a designação dos vogais referidos nas alíneas c), d), e), f), g), h), i), j), k) e m).
+
+4. Por cada vogal será designado um suplente, que deverá substituí-lo nos seus impedimentos.
+
+5. A nomeação dos vogais será feita em portaria do Ministro das Obras Públicas.
+
+Art. 6.º - 1. Ao Gabinete do Plano Director da Região de Lisboa, criado pela [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216), competirá tudo o que respeite à preparação e realização dos trabalhos enunciados no artigo 1.º, incluindo a execução das recomendações da Comissão do Plano.
+
+2. As funções de director do Gabinete serão exercidas em acumulação pelo subdirector-geral dos Serviços de Urbanização.
+
+Art. 7.º O Secretariado Técnico da Presidência do Conselho terá um ou mais representantes junto do Gabinete do Plano, a fim de facilitar a coordenação dos trabalhos do Plano com o planeamento nacional e regional.
+
+Art. 8.º Mantém-se em vigor, em tudo o que não for alterado pelo presente diploma, o disposto na base II, no n.º 1 da base III, nas bases IV, VII, IX, X e XI da [Lei n.º 2099](https://diariodarepublica.pt/dr/detalhe/lei/2099-1959-432216) e no [Decreto-Lei n.º 43635](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43635-1961-169656), de 1 de Maio de 1961.
+
+Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
+
+Promulgado em 12 de Janeiro de 1972.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

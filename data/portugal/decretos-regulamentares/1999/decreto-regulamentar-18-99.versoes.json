@@ -1,0 +1,713 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:533800:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1999-863733783",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/18-1999-533800",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "863731924",
+    "863731925",
+    "863731926",
+    "863731927",
+    "863731928",
+    "863731929",
+    "863731930",
+    "863731931",
+    "863731932",
+    "863731933",
+    "863731934",
+    "863731935",
+    "863731936",
+    "863731937",
+    "863731938",
+    "863731939",
+    "863731940",
+    "863731941",
+    "863731942",
+    "863731943",
+    "863731944",
+    "863731945",
+    "863731946",
+    "863731947",
+    "863731948",
+    "863731949"
+   ]
+  },
+  {
+   "date": "2003-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:481939:por",
+     "title": "Decreto Regulamentar n.º 17/2003",
+     "published": "2003-10-10",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/17-2003-481939"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "863731924",
+    "863731925",
+    "863731926",
+    "863731927",
+    "863731928",
+    "863731929",
+    "863731930",
+    "863731931",
+    "863731955",
+    "863731933",
+    "863731934",
+    "863731935",
+    "863731956",
+    "863731937",
+    "863731938",
+    "863731939",
+    "863731957",
+    "863731958",
+    "863731942",
+    "863731943",
+    "863731944",
+    "863731945",
+    "863731946",
+    "863731947",
+    "863731948",
+    "863731949",
+    "863731950"
+   ]
+  },
+  {
+   "date": "2009-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608703:por",
+     "title": "Decreto-Lei n.º 108/2009",
+     "published": "2009-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2009-608703"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º"
+   ],
+   "fragments": [
+    "863731924",
+    "863731959",
+    "863731960",
+    "863731961",
+    "863731962",
+    "863731963",
+    "863731930",
+    "863731964",
+    "863731965",
+    "863731966",
+    "863731967",
+    "863731968",
+    "863731969",
+    "863731970",
+    "863731971",
+    "863731972",
+    "863731973",
+    "863731974",
+    "863738075",
+    "863738076",
+    "863738077",
+    "863738078",
+    "863738079",
+    "863738080",
+    "863738081",
+    "863738082",
+    "863731950"
+   ]
+  },
+  {
+   "date": "2015-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70179162:por",
+     "title": "Decreto-Lei n.º 186/2015",
+     "published": "2015-09-03",
+     "dre_path": "/dr/detalhe/decreto-lei/186-2015-70179162"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "863731924",
+    "863731959",
+    "863731960",
+    "863731961",
+    "863731962",
+    "863731963",
+    "863738083",
+    "863731964",
+    "863731965",
+    "863731966",
+    "863731967",
+    "863731968",
+    "863731969",
+    "863731970",
+    "863731971",
+    "863731972",
+    "863731973",
+    "863731974",
+    "863738075",
+    "863738076",
+    "863738077",
+    "863738078",
+    "863738079",
+    "863738080",
+    "863738081",
+    "863738082",
+    "863731950"
+   ]
+  }
+ ],
+ "fragments": {
+  "863731924": {
+   "fragment_id": "863733784",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 18/99\n\nde 27 de Agosto\n\nA Resolução do Conselho de Ministros n.º 112/98, de 25 de Agosto, criou o Programa Nacional de Turismo de Natureza aplicável na Rede Nacional de Áreas Protegidas, visando a promoção e afirmação dos valores e potencialidades que estes espaços encerram, especializando uma actividade turística, sob a denominação de «turismo de natureza», e propiciando a criação de produtos turísticos adequados.\n\nO enquadramento jurídico do turismo de natureza foi efectuado através do Decreto-Lei n.º 47/99, de 16 de Fevereiro, que define no seu artigo 9.º as modalidades de animação ambiental, prevendo no n.º 3 do artigo 2.º que a respectiva regulamentação seria efectuada através de decreto regulamentar.\n\nImporta agora, em conformidade com os princípios que nortearam o citado diploma, regular cada uma das modalidades da animação ambiental, definindo-se os requisitos gerais e específicos a que devem obedecer as actividades, serviços e instalações das diferentes modalidades de animação ambiental, bem como o respectivo licenciamento para as iniciativas e projectos.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 2.º do Decreto-Lei n.º 47/99, de 16 de Fevereiro, e nos termos da alínea c) do artigo 199.º da Constituição o Governo decreta o seguinte:"
+  },
+  "863731925": {
+   "fragment_id": "863733785",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma visa regulamentar a animação ambiental nas modalidades de animação, interpretação ambiental e desporto de natureza nas áreas protegidas, adiante designadas por AP, bem como o processo de licenciamento das iniciativas e projectos de actividades, serviços e instalações de animação ambiental."
+  },
+  "863731926": {
+   "fragment_id": "863733786",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) «Pólo de recepção» - local devidamente equipado destinado à recepção de visitantes e à prestação de informação sobre a AP, podendo dispor de serviços específicos da animação ambiental;\n\nb) «Pólo de animação» - local onde se reúnem uma ou mais ocorrências de animação, podendo integrar valências da interpretação e do desporto de natureza;\n\nc) «Interpretação ambiental» - técnica multidisciplinar de tradução da paisagem, do património natural e cultural;\n\nd) «Centro de interpretação» - infra-estrutura destinada a proporcionar ao visitante o conhecimento global e integrado da AP de forma comparativa e evolutiva, com recurso a uma base científica que, para além da simples descrição dos fenómenos, permite a sua compreensão no tempo e no espaço;\n\ne) «Percurso interpretativo» - caminho ou trilho devidamente sinalizado que tem como finalidade proporcionar ao visitante, através do contacto com a natureza, o conhecimento dos valores naturais e culturais da AP;\n\nf) «Núcleo ecomuseológico» - local ou instalação onde através da interpretação se remete o visitante para a compreensão de determinados fenómenos culturais, sociais e naturais, através do seu contacto directo e ou da recriação dos mesmos;\n\ng) «Observatório» - local ou instalação destinado à observação da avifauna;\n\nh) «Código de conduta» - manual contendo as principais regras e orientações de visitação e fruição das AP;\n\ni) «Guia de natureza» - profissional com formação específica cuja prestação de serviços tem como função proporcionar aos visitantes, de forma adequada, o conhecimento e fruição da AP;\n\nj) «Estabelecimento tradicional de convívio e de comércio» - estabelecimentos comerciais onde se consomem e transacionam produtos resultantes das actividades ligadas às artes e ofícios tradicionais;\n\nl) «Desporto de natureza» - aquele cuja prática aproxima o homem da natureza de uma forma saudável e seja enquadrável na gestão das áreas protegidas e numa política de desenvolvimento sustentável;\n\nm) «Artes e ofícios tradicionais» - as actividades que compreendem o fabrico de materiais e objectos, de prestação de serviços, de produção e confecção de bens alimentares e arte tradicional de vender, ou incorporem uma quantidade significativa de mão-de-obra e manifestem fidelidade aos processos tradicionais."
+  },
+  "863731927": {
+   "fragment_id": "863733787",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipologia\n\n1 - Constituem actividades, serviços e instalações de animação as iniciativas ou projectos que integrem:\n\na) A gastronomia;\n\nb) Os produtos tradicionais regionais;\n\nc) As artes e ofícios tradicionais da região;\n\nd) Os estabelecimentos tradicionais de convívio, de educação e de comércio;\n\ne) As feiras, festas e romarias;\n\nf) As rotas temáticas;\n\ng) As expedições panorâmicas e fotográficas;\n\nh) Os passeios a pé, de barco, a cavalo, de bicicleta;\n\ni) Os passeios em veículos todo o terreno;\n\nj) Os jogos tradicionais;\n\nl) Os parques de merendas;\n\nm) Os pólos de animação;\n\nn) Os meios de transporte tradicionais.\n\n2 - Constituem actividades, serviços e instalações de interpretação as iniciativas ou projectos que integrem:\n\na) Os pólos de recepção;\n\nb) Os centros de interpretação;\n\nc) Os percursos interpretativos;\n\nd) Os núcleos ecomuseológicos;\n\ne) Os observatórios;\n\nf) Iniciativas, projectos ou actividades sem instalações físicas, quer se realizem com carácter periódico, quer com carácter isolado.\n\n3 - Constituem actividades e serviços de desporto de natureza as iniciativas ou projectos que integrem:\n\na) O pedestrianismo;\n\nb) O montanhismo;\n\nc) A orientação;\n\nd) A escalada;\n\ne) O rapel;\n\nf) A espeleologia;\n\ng) O balonismo;\n\nh) O pára-pente;\n\ni) A asa delta sem motor;\n\nj) A bicicleta todo o terreno (BTT);\n\nl) O hipismo;\n\nm) A canoagem;\n\nn) O remo;\n\no) A vela;\n\np) O surf;\n\nq) O windsurf;\n\nr) O mergulho;\n\ns) O rafting;\n\nt) O hidrospeed;\n\nu) Outros desportos e actividades de lazer cuja prática não se mostre nociva para a conservação da natureza."
+  },
+  "863731928": {
+   "fragment_id": "863733788",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos gerais\n\nA prática das actividades, bem como as iniciativas e os projectos de animação ambiental referidos no artigo anterior devem obedecer aos seguintes requisitos gerais:\n\na) Contribuir para a descoberta e fruição dos valores naturais e culturais das AP;\n\nb) Contribuir para a revitalização e divulgação dos produtos artesanais tradicionais, em particular os produtos de qualidade legalmente reconhecida e das manifestações sócio-culturais características das AP, bem como do seu meio rural envolvente;\n\nc) Contribuir para a realização de tarefas ligadas às actividades económicas tradicionais ou à conservação da natureza;\n\nd) Contribuir para a promoção do recreio e lazer;\n\ne) Contribuir para a atracção de turistas e visitantes, nacionais e estrangeiros, ou constituir um meio para a ocupação dos seus tempos livres ou para a satisfação das necessidades ou expectativas decorrentes da sua permanência na AP;\n\nf) Respeitar as áreas condicionadas ou interditas de acordo com os instrumentos de gestão territorial em vigor e com os diplomas de criação e de reclassificação das AP;\n\ng) Respeitar as zonas sensíveis ao ruído e à invasão dos seus territórios, bem como as zonas vulneráveis à erosão;\n\nh) Respeitar as regras e recomendações constantes do código de conduta;\n\ni) Não estarem próximos de estruturas urbanas ou ambientais degradadas, com excepção das já existentes ou a construir quando se enquadrem num processo de requalificação urbana ou ambiental;\n\nj) Possuir projecto aprovado pelas entidades competentes para o efeito, quando exigível;\n\nl) Estar aberto ao público em geral."
+  },
+  "863731929": {
+   "fragment_id": "863733789",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos específicos\n\n1 - As iniciativas ou projectos de animação referidos no n.º 1 do artigo 3.º devem ainda preencher os seguintes requisitos específicos:\n\na) A gastronomia prevista na alínea a) do n.º 1 do artigo 3.º deve promover as receitas e formas de confecção tradicionais, designadamente incorporando as matérias-primas e os produtos tradicionais, bem como os produtos de base local e regional, constituindo um meio de divulgação de estabelecimentos de restauração e bebidas tradicionais;\n\nb) Os produtos artesanais tradicionais previstos na alínea b) do n.º 1 do artigo 3.º devem ser promovidos e comercializados, obedecendo aos requisitos exigidos por lei;\n\nc) As artes e ofícios tradicionais da região previstos na alínea c) do n.º 1 do artigo 3.º devem ser promovidos por forma a garantir o interesse para a economia e tradição do saber fazer local, contribuindo para a dinamização de feiras regionais;\n\nd) A instalação ou recriação dos locais tradicionais de convívio e comércio previstos na alínea d) do n.º 1 do artigo 3.º devem garantir a manutenção das características arquitectónicas da região e contribuir para a identificação cultural e social que estes estabelecimentos representam;\n\ne) As feiras, festas e romarias previstas na alínea e) do n.º 1 do artigo 3.º devem contribuir para a dinamização da economia local e manifestações sócio-culturais características de cada AP;\n\nf) As rotas temáticas previstas na alínea f) do n.º 1 do artigo 3.º e as expedições panorâmicas e fotográficas previstas na alínea g) do n.º 1 do artigo 3.º devem privilegiar a divulgação e promoção dos contextos mais representativos da economia, cultura e natureza de cada AP e devem promover a utilização e a recuperação de meios de transportes tradicionais;\n\ng) Os passeios a pé, de barco, a cavalo e de bicicleta previstos na alínea h) do n.º 1 do artigo 3.º devem respeitar os trilhos e a sinalização existente, bem como as limitações estabelecidas quanto ao número de actividades ou visitantes em relação a alguns locais e ou época do ano;\n\nh) Os passeios em veículos todo o terreno previstos na alínea i) do n.º 1 do artigo 3.º devem respeitar os requisitos referidos na alínea anterior e ter como objectivo a divulgação dos valores naturais e culturais;\n\ni) Os jogos tradicionais previstos na alínea j) do n.º 1 do artigo 3.º e os parques de merendas previstos na alínea l) do n.º 1 do mesmo artigo devem contribuir para a dinamização e revitalização de formas de convívio e ocupação dos tempos livres;\n\nj) Os pólos de animação previstos na alínea m) do n.º 1 do artigo 3.º devem contribuir para a revitalização dos lugares através da recuperação e promoção do seu património cultural e das actividades económicas características de cada AP;\n\nl) Os meios de transporte tradicionais previstos na alínea n) do n.º 1 do artigo 3.º devem ser adequados ao fim da visita e da manutenção das condições ambientais, nomeadamente através da utilização de transportes colectivos, tradicionais ou que adoptem energias alternativas.\n\n2 - As iniciativas ou projectos de interpretação ambiental referidos no n.º 2 do artigo 3.º devem ainda preencher os seguintes requisitos específicos:\n\na) Os pólos de recepção previstos na alínea a) do n.º 2 do artigo 3.º devem estar estrategicamente localizados, contribuindo para ordenar o acesso e a visitação à AP;\n\nb) Os centros de interpretação previstos na alínea b) do n.º 2 do artigo 3.º devem ser constituídos por instalações, equipamentos e serviços que proporcionem o conhecimento global e integrado da AP, sendo a sua concepção e gestão da responsabilidade da AP;\n\nc) As infra-estruturas necessárias à constituição dos pólos de recepção e dos centros de interpretação previstos nas alíneas a) e b) do n.º 2 do artigo 3.º, devem privilegiar a recuperação e reutilização dos imóveis existentes;\n\nd) Os percursos interpretativos previstos na alínea c) do n.º 2 do artigo 3.º devem indicar o teor, a extensão, a duração, o número máximo de participantes por grupo e por dia e os meios de transportes permitidos ou aconselháveis e ser obrigatoriamente acompanhadas por guias de natureza, ou em alternativa por pessoal com formação adequada;\n\ne) Os núcleos ecomuseológicos previstos na alínea d) do n.º 2 do artigo 3.º devem contribuir para a recuperação do património histórico, arquitectónico e etnográfico e ser representativos das principais manifestações sócio-culturais e económicas que ao longo dos tempos contribuíram para a construção das paisagens de cada AP e da sua identidade;\n\nf) Os observatórios previstos na alínea e) do n.º 2 do artigo 3.º devem estar estrategicamente localizados e concebidos de forma a não provocar distúrbios na avifauna;\n\ng) As iniciativas, projectos ou actividades sem instalações físicas previstos na alínea f) do n.º 2 do artigo 3.º devem promover exposições, colóquios e palestras que proporcionem o debate e a discussão de matérias relativas à conservação da natureza e às actividades sócio-económicas da AP.\n\n3 - As actividades, serviços e instalações de desporto de natureza referidos no n.º 3 do artigo 3.º devem ainda preencher os seguintes requisitos específicos:\n\na) Respeitar o enquadramento legislativo próprio de cada actividade ou sector;\n\nb) Respeitar os locais indicados para a prática de cada modalidade desportiva;\n\nc) Respeitar os acessos e trilhos definidos, bem como os locais de estacionamento e de acampamento;\n\nd) Respeitar as condicionantes estabelecidas quanto aos locais, ao número de praticantes e à época do ano;\n\ne) Acondicionar e dotar de forma adequada os locais com equipamentos de qualidade e segurança necessários à prática de cada modalidade;\n\nf) Dotar os locais com sinalização e informação sobre as condições de utilização dos mesmos e recomendações para a prática de cada modalidade;\n\ng) Garantir a manutenção dos equipamentos, sinalização, acessos, estacionamento e locais de pernoita, bem como a qualidade ambiental de cada local e respectiva área envolvente;\n\nh) Respeitar as regras e orientações estabelecidas no código de conduta."
+  },
+  "863731930": {
+   "fragment_id": "863733790",
+   "type": 11,
+   "heading": "Artigo 6.º — Carta de desporto de natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Carta de desporto de natureza\n\n1 - Cada AP deve possuir uma carta de desporto de natureza e respectivo regulamento, a aprovar por portaria conjunta dos membros do Governo responsáveis pelas áreas do desporto e do ambiente.\n\n2 - A carta referida no número anterior deve conter as regras e orientações relativas a cada modalidade desportiva, incluindo, designadamente, os locais e as épocas do ano em que as mesmas podem ser praticadas, bem como a respectiva capacidade de carga.\n\n3 - Para efeitos do número anterior são consultadas as federações desportivas dotadas do estatuto de utilidade pública desportiva, representativas das diferentes modalidades e outras entidades competentes em razão da matéria."
+  },
+  "863731931": {
+   "fragment_id": "863733791",
+   "type": 11,
+   "heading": "Artigo 7.º — Guias de natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Guias de natureza\n\n1 - As actividades e serviços de animação ambiental nas suas diferentes modalidades serão acompanhadas por guias de natureza, os quais devem possuir formação profissional adequada.\n\n2 - O plano de formação profissional dos guias de natureza é aprovado por portaria conjunta dos membros do Governo responsáveis pelo turismo, emprego e formação profissional, ambiente e desporto.\n\n3 - Até à formação dos guias de natureza previstos no número anterior, os percursos interpretativos referidos na alínea c) do n.º 2 do artigo 3.º podem ser acompanhados por profissionais cujas habilitações sejam reconhecidas como adequadas pelo Instituto de Conservação da Natureza (ICN)."
+  },
+  "863731932": {
+   "fragment_id": "863733792",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licença\n\n1 - Sem prejuízo de outras autorizações ou licenças exigíveis por lei, as iniciativas ou projectos que integrem as actividades, serviços e instalações de animação previstos no artigo 3.º carecem de licença, titulada por documento a emitir pelo ICN após parecer prévio da Direcção-Geral do Turismo (DGT) ou do Instituto Nacional do Desporto (IND), nas situações previstas no n.º 3 do mesmo artigo, quando realizadas por um comerciante em nome individual, um estabelecimento individual de responsabilidade limitada, uma sociedade comercial, uma cooperativa ou uma associação de desenvolvimento local.\n\n2 - Sem prejuízo do regime legal específico a que devem obedecer os empreendimentos de animação turística, as entidades referidas no número anterior devem ter por objecto o exercício de actividades de animação turística ou ambiental.\n\n3 - Sem prejuízo do disposto no n.º 1, as actividades, serviços e instalações de animação ambiental devem satisfazer os requisitos gerais previstos no artigo 4.º e os requisitos específicos previstos no artigo 5.º de acordo com a tipologia da iniciativa ou do projecto, bem como as disposições constantes dos diplomas de criação ou de reclassificação das AP e os respectivos planos de ordenamento.\n\n4 - A licença não pode ser objecto de negócios jurídicos.\n\n5 - São nulas quaisquer autorizações ou licenças com violação do regime instituído neste diploma."
+  },
+  "863731933": {
+   "fragment_id": "863733793",
+   "type": 11,
+   "heading": "Artigo 9.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedido\n\n1 - Do pedido de licença deve constar:\n\na) A identificação do requerente;\n\nb) A localização dos estabelecimentos, quando existirem;\n\nc) A finalidade da actividade, iniciativa ou projecto de animação ambiental;\n\nd) As actividades desenvolvidas pelo requerente.\n\n2 - O pedido deve ser instruído com os seguintes documentos:\n\na) Certidão da escritura pública de constituição da sociedade e certidão do respectivo registo comercial definitivo, quando a natureza jurídica do requerente o justifique;\n\nb) Declaração comprovativa de que as instalações satisfazem os requisitos exigidos por lei;\n\nc) Memória descritiva e programa de actividades a desenvolver, bem como uma carta de localização à escala de 1:25000, ou escala inferior, sempre que justificável;\n\nd) Documento comprovativo de formação adequada dos monitores;\n\ne) Documento comprovativo de seguro de responsabilidade civil que cubra os riscos da actividade a desenvolver;\n\nf) Documento comprovativo do acordo dos proprietários quando o projecto for implementado em terrenos de propriedade privada;\n\ng) Alvará de licença de construção, quando tenham sido realizadas obras de construção civil sujeitas a licenciamento municipal.\n\n3 - O ICN pode solicitar ao interessado a apresentação de outros elementos que considere necessários para se pronunciar sobre o pedido, no prazo de 15 dias a contar da recepção dos elementos referidos no n.º 2 e por uma única vez, ficando suspenso o prazo previsto no n.º 3 do artigo 10.º\n\n4 - O pedido de licença referido no n.º 1 pode ser apresentado nos serviços centrais ou nos serviços locais do ICN."
+  },
+  "863731934": {
+   "fragment_id": "863733794",
+   "type": 11,
+   "heading": "Artigo 10.º — Parecer da DGT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Parecer da DGT\n\n1 - O ICN deve enviar à DGT ou ao IND, consoante os casos, a documentação necessária à emissão do parecer previsto no n.º 1 do artigo 8.º no prazo de oito dias após a recepção do pedido referido no artigo anterior.\n\n2 - Os pareceres da DGT ou do IND destinam-se a apreciar o interesse turístico ou desportivo das actividades, serviços e instalações de animação ambiental.\n\n3 - Os pareceres devem ser emitidos no prazo de 30 dias a contar da data da recepção da documentação referida no n.º 1.\n\n4 - A não emissão de parecer no prazo previsto no número anterior vale como deferimento tácito do pedido."
+  },
+  "863731935": {
+   "fragment_id": "863733795",
+   "type": 11,
+   "heading": "Artigo 11.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão\n\n1 - Os pedidos de licença são decididos pelo presidente do ICN no prazo de 30 dias a contar da data do recebimento dos pareceres referidos no artigo anterior ou do termo do prazo para a sua emissão.\n\n2 - Considera-se deferido tacitamente o pedido quando não for proferida decisão no prazo previsto no número anterior."
+  },
+  "863731936": {
+   "fragment_id": "863733796",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo da licença\n\nA licença deve conter os seguintes elementos:\n\na) A identificação do titular;\n\nb) A finalidade da actividade, iniciativa ou projecto de animação ambiental;\n\nc) O respectivo prazo, o qual não pode ser superior a cinco anos;\n\nd) A indicação de obrigatoriedade de pagamento ou de isenção, total ou parcial, da respectiva taxa."
+  },
+  "863731937": {
+   "fragment_id": "863733797",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigação de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigação de comunicação\n\n1 - A transmissão da propriedade e a cessão de exploração de estabelecimentos, bem como a alteração de qualquer elemento integrante do pedido de licença devem ser comunicadas ao ICN no prazo de 30 dias após a respectiva verificação.\n\n2 - A comunicação prevista no número anterior deve ser acompanhada dos documentos comprovativos dos factos invocados."
+  },
+  "863731938": {
+   "fragment_id": "863733798",
+   "type": 11,
+   "heading": "Artigo 14.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caducidade\n\nAs licenças emitidas ao abrigo do disposto nos artigos 8.º e 9.º caducam nos seguintes casos:\n\na) Se o requerente não iniciar a actividade no prazo de 90 dias após a emissão da licença;\n\nb) Quando se tratar de empresa, se a mesma estiver encerrada por um período superior a um ano, salvo por motivo de obras."
+  },
+  "863731939": {
+   "fragment_id": "863733799",
+   "type": 11,
+   "heading": "Artigo 15.º — Revogação da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação da licença\n\nAs licenças emitidas ao abrigo do disposto nos artigos 8.º e 9.º podem ser revogadas, a todo o tempo, pelo presidente do ICN quando deixarem de se verificar os pressupostos que determinaram a sua atribuição."
+  },
+  "863731940": {
+   "fragment_id": "863733800",
+   "type": 11,
+   "heading": "Artigo 16.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Taxas\n\n1 - São devidas taxas pela concessão das licenças concedidas ao abrigo do presente diploma.\n\n2 - São fixados por portaria conjunta dos Ministros das Finanças e do Ambiente os quantitativos das taxas a que se refere o número anterior.\n\n3 - O produto das taxas previstas no presente artigo constitui receita própria do ICN."
+  },
+  "863731941": {
+   "fragment_id": "863733801",
+   "type": 11,
+   "heading": "Artigo 17.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma compete ao ICN."
+  },
+  "863731942": {
+   "fragment_id": "863733802",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Sem prejuízo das contra-ordenações aplicáveis por força do regime de criação e reclassificação das áreas protegidas e respectivos planos de ordenamento, constitui contra-ordenação:\n\na) A violação do disposto nos n.os 1 e 3 do artigo 7.º;\n\nb) A violação do disposto nos n.os 1 e 4 do artigo 8.º;\n\nc) A utilização da licença para fim diverso do concedido pelo ICN nos termos previstos na alínea b) do artigo 12.º;\n\nd) A violação do disposto no artigo 13.º;\n\ne) A violação do disposto no n.º 1 do artigo 23.º\n\n2 - As contra-ordenações previstas no número anterior são punidas com coimas de:\n\na) 50000$00 a 750000$00, no caso de pessoa singular;\n\nb) 100000$00 a 3000000$00, no caso de pessoas colectivas.\n\n3 - A tentativa e a negligência são puníveis."
+  },
+  "863731943": {
+   "fragment_id": "863733803",
+   "type": 11,
+   "heading": "Artigo 19.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sanções acessórias\n\nAs contra-ordenações previstas no artigo 18.º podem ainda determinar, quando a gravidade da situação assim o justifique, a aplicação das seguintes sanções acessórias:\n\na) A privação do direito a subsídios outorgados por entidades ou serviços públicos, por um período máximo de dois anos;\n\nb) A interdição do exercício de actividade por um período máximo de dois anos;\n\nc) A privação do direito de participar em feiras ou mercados;\n\nd) O encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ne) A suspensão de autorizações, licenças e alvarás."
+  },
+  "863731944": {
+   "fragment_id": "863733804",
+   "type": 11,
+   "heading": "Artigo 20.º — Limites da coima em caso de tentativa e negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Limites da coima em caso de tentativa e negligência\n\n1 - Em caso de punição da tentativa, os limites máximo e mínimo das coimas são reduzidos para um terço.\n\n2 - Se a infracção for praticada por negligência, os limites máximo e mínimo das coimas são reduzidos para metade."
+  },
+  "863731945": {
+   "fragment_id": "863733805",
+   "type": 11,
+   "heading": "Artigo 21.º — Processo de contra-ordenação e aplicação de coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Processo de contra-ordenação e aplicação de coimas e sanções acessórias\n\n1 - O processamento das contra-ordenações compete ao ICN.\n\n2 - A aplicação das coimas e sanções acessórias compete ao presidente do ICN."
+  },
+  "863731946": {
+   "fragment_id": "863733806",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nO produto das coimas aplicadas pelo ICN por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado e 40% para o ICN."
+  },
+  "863731947": {
+   "fragment_id": "863733807",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposição final\n\n1 - As iniciativas ou projectos que integrem as actividades, serviços e instalações previstos no artigo 3.º, já aprovadas ou em funcionamento à data da entrada em vigor do presente diploma, carecem igualmente da licença a que se refere o artigo 8.º\n\n2 - Para efeitos de aplicação do número anterior, o pedido de licença deverá ser efectuado no prazo de 45 dias, a contar da data de entrada em vigor do presente diploma, de acordo com previsto nos n.os 1 e 2 do artigo 9.º"
+  },
+  "863731948": {
+   "fragment_id": "863733808",
+   "type": 11,
+   "heading": "Artigo 24.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regiões Autónomas\n\nO regime previsto no presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado."
+  },
+  "863731949": {
+   "fragment_id": "863733809",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação."
+  },
+  "863731955": {
+   "fragment_id": "863733792",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença",
+   "in_force_from": "2003-10-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+   ],
+   "markdown": "###### Artigo 8.º — Licença\n\n1 - Sem prejuízo de outras autorizações ou licenças exigíveis por lei, as iniciativas ou projectos que integrem as actividades, serviços e instalações de animação previstos no artigo 3.º carecem de licença, titulada por documento a emitir pelo Instituto da Conservação da Natureza (ICN), após parecer prévio da Direcção-Geral do Turismo (DGT) ou do Instituto do Desporto de Portugal (IDP), nas situações previstas no n.º 3 do mesmo artigo, quando realizadas por:\n\na) Comerciante em nome individual, estabelecimento individual de responsabilidade limitada, sociedade comercial ou uma cooperativa;\n\nb) Federações, clubes e associações desportivas;\n\nc) Instituições particulares de solidariedade social;\n\nd) Institutos públicos;\n\ne) Associações juvenis;\n\nf) Outras associações e demais pessoas colectivas sem fins lucrativos, cujo objecto abranja as actividades previstas no n.º 1 do artigo 3.º do Decreto-Lei n.º 204/2000, de 1 de Setembro.\n\n2 - Sem prejuízo do regime legal específico a que devem obedecer os empreendimentos de animação turística, as entidades referidas no número anterior devem ter por objecto o exercício de actividades de animação turística ou ambiental.\n\n3 - Sem prejuízo do disposto no n.º 1, as actividades, serviços e instalações de animação ambiental devem satisfazer os requisitos gerais previstos no artigo 4.º e os requisitos específicos previstos no artigo 5.º de acordo com a tipologia da iniciativa ou do projecto, bem como as disposições constantes dos diplomas de criação ou de reclassificação das AP e os respectivos planos de ordenamento.\n\n4 - A licença não pode ser objecto de negócios jurídicos.\n\n5 - São nulas quaisquer autorizações ou licenças com violação do regime instituído neste diploma.\n\n6 - As entidades licenciadas são obrigadas à apresentação do documento de licença sempre que solicitado pelos agentes das entidades com competência de fiscalização mencionadas no artigo 17.º\n\n7 - As licenças podem ser renovadas desde que se destinem à mesma situação objecto da licença e se verifiquem os pressupostos que determinaram a sua atribuição.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+  },
+  "863731956": {
+   "fragment_id": "863733796",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo da licença",
+   "in_force_from": "2003-10-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+   ],
+   "markdown": "###### Artigo 12.º — Conteúdo da licença\n\nA licença deve conter os seguintes elementos:\n\na) A identificação do titular;\n\nb) A finalidade da actividade, iniciativa ou projecto de animação ambiental;\n\nc) A indicação dos dias da semana ou períodos do ano e os locais em que as actividades e serviços objecto da licença são interditos em consequência das normas em vigor na área protegida relativas ao seu ordenamento e à gestão de espécies e habitats;\n\nd) O respectivo prazo, o qual não pode ser superior a cinco anos;\n\ne) O prazo para o pedido de renovação da licença;\n\nf) A indicação de obrigatoriedade de pagamento ou de isenção, total ou parcial, da respectiva taxa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+  },
+  "863731957": {
+   "fragment_id": "863733800",
+   "type": 11,
+   "heading": "Artigo 16.º — Taxas",
+   "in_force_from": "2003-10-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+   ],
+   "markdown": "###### Artigo 16.º — Taxas\n\n1 - São devidas taxas pela concessão e renovação das licenças emitidas ao abrigo do presente diploma.\n\n2 - São fixados por portaria conjunta dos Ministros das Finanças e do Ambiente os quantitativos das taxas a que se refere o número anterior.\n\n3 - O produto das taxas previstas no presente artigo constitui receita própria do ICN.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+  },
+  "863731958": {
+   "fragment_id": "863733801",
+   "type": 11,
+   "heading": "Artigo 17.º — Fiscalização",
+   "in_force_from": "2003-10-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+   ],
+   "markdown": "###### Artigo 17.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma compete às autoridades policiais, ao Instituto da Conservação da Natureza (ICN) e às comissões de coordenação e desenvolvimento regional (CCDR).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+  },
+  "863731950": {
+   "fragment_id": "863733810",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 4 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Agosto de 1999.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  },
+  "863731959": {
+   "fragment_id": "863733785",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma visa regulamentar a animação ambiental nas modalidades de animação, interpretação ambiental e desporto de natureza nas áreas protegidas, adiante designadas por AP, bem como o processo de licenciamento das iniciativas e projectos de actividades, serviços e instalações de animação ambiental.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731960": {
+   "fragment_id": "863733786",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) «Pólo de recepção» - local devidamente equipado destinado à recepção de visitantes e à prestação de informação sobre a AP, podendo dispor de serviços específicos da animação ambiental;\n\nb) «Pólo de animação» - local onde se reúnem uma ou mais ocorrências de animação, podendo integrar valências da interpretação e do desporto de natureza;\n\nc) «Interpretação ambiental» - técnica multidisciplinar de tradução da paisagem, do património natural e cultural;\n\nd) «Centro de interpretação» - infra-estrutura destinada a proporcionar ao visitante o conhecimento global e integrado da AP de forma comparativa e evolutiva, com recurso a uma base científica que, para além da simples descrição dos fenómenos, permite a sua compreensão no tempo e no espaço;\n\ne) «Percurso interpretativo» - caminho ou trilho devidamente sinalizado que tem como finalidade proporcionar ao visitante, através do contacto com a natureza, o conhecimento dos valores naturais e culturais da AP;\n\nf) «Núcleo ecomuseológico» - local ou instalação onde através da interpretação se remete o visitante para a compreensão de determinados fenómenos culturais, sociais e naturais, através do seu contacto directo e ou da recriação dos mesmos;\n\ng) «Observatório» - local ou instalação destinado à observação da avifauna;\n\nh) «Código de conduta» - manual contendo as principais regras e orientações de visitação e fruição das AP;\n\ni) «Guia de natureza» - profissional com formação específica cuja prestação de serviços tem como função proporcionar aos visitantes, de forma adequada, o conhecimento e fruição da AP;\n\nj) «Estabelecimento tradicional de convívio e de comércio» - estabelecimentos comerciais onde se consomem e transacionam produtos resultantes das actividades ligadas às artes e ofícios tradicionais;\n\nl) «Desporto de natureza» - aquele cuja prática aproxima o homem da natureza de uma forma saudável e seja enquadrável na gestão das áreas protegidas e numa política de desenvolvimento sustentável;\n\nm) «Artes e ofícios tradicionais» - as actividades que compreendem o fabrico de materiais e objectos, de prestação de serviços, de produção e confecção de bens alimentares e arte tradicional de vender, ou incorporem uma quantidade significativa de mão-de-obra e manifestem fidelidade aos processos tradicionais.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731961": {
+   "fragment_id": "863733787",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 3.º — Tipologia\n\n1 - Constituem actividades, serviços e instalações de animação as iniciativas ou projectos que integrem:\n\na) A gastronomia;\n\nb) Os produtos tradicionais regionais;\n\nc) As artes e ofícios tradicionais da região;\n\nd) Os estabelecimentos tradicionais de convívio, de educação e de comércio;\n\ne) As feiras, festas e romarias;\n\nf) As rotas temáticas;\n\ng) As expedições panorâmicas e fotográficas;\n\nh) Os passeios a pé, de barco, a cavalo, de bicicleta;\n\ni) Os passeios em veículos todo o terreno;\n\nj) Os jogos tradicionais;\n\nl) Os parques de merendas;\n\nm) Os pólos de animação;\n\nn) Os meios de transporte tradicionais.\n\n2 - Constituem actividades, serviços e instalações de interpretação as iniciativas ou projectos que integrem:\n\na) Os pólos de recepção;\n\nb) Os centros de interpretação;\n\nc) Os percursos interpretativos;\n\nd) Os núcleos ecomuseológicos;\n\ne) Os observatórios;\n\nf) Iniciativas, projectos ou actividades sem instalações físicas, quer se realizem com carácter periódico, quer com carácter isolado.\n\n3 - Constituem actividades e serviços de desporto de natureza as iniciativas ou projectos que integrem:\n\na) O pedestrianismo;\n\nb) O montanhismo;\n\nc) A orientação;\n\nd) A escalada;\n\ne) O rapel;\n\nf) A espeleologia;\n\ng) O balonismo;\n\nh) O pára-pente;\n\ni) A asa delta sem motor;\n\nj) A bicicleta todo o terreno (BTT);\n\nl) O hipismo;\n\nm) A canoagem;\n\nn) O remo;\n\no) A vela;\n\np) O surf;\n\nq) O windsurf;\n\nr) O mergulho;\n\ns) O rafting;\n\nt) O hidrospeed;\n\nu) Outros desportos e actividades de lazer cuja prática não se mostre nociva para a conservação da natureza.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731962": {
+   "fragment_id": "863733788",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos gerais",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos gerais\n\nA prática das actividades, bem como as iniciativas e os projectos de animação ambiental referidos no artigo anterior devem obedecer aos seguintes requisitos gerais:\n\na) Contribuir para a descoberta e fruição dos valores naturais e culturais das AP;\n\nb) Contribuir para a revitalização e divulgação dos produtos artesanais tradicionais, em particular os produtos de qualidade legalmente reconhecida e das manifestações sócio-culturais características das AP, bem como do seu meio rural envolvente;\n\nc) Contribuir para a realização de tarefas ligadas às actividades económicas tradicionais ou à conservação da natureza;\n\nd) Contribuir para a promoção do recreio e lazer;\n\ne) Contribuir para a atracção de turistas e visitantes, nacionais e estrangeiros, ou constituir um meio para a ocupação dos seus tempos livres ou para a satisfação das necessidades ou expectativas decorrentes da sua permanência na AP;\n\nf) Respeitar as áreas condicionadas ou interditas de acordo com os instrumentos de gestão territorial em vigor e com os diplomas de criação e de reclassificação das AP;\n\ng) Respeitar as zonas sensíveis ao ruído e à invasão dos seus territórios, bem como as zonas vulneráveis à erosão;\n\nh) Respeitar as regras e recomendações constantes do código de conduta;\n\ni) Não estarem próximos de estruturas urbanas ou ambientais degradadas, com excepção das já existentes ou a construir quando se enquadrem num processo de requalificação urbana ou ambiental;\n\nj) Possuir projecto aprovado pelas entidades competentes para o efeito, quando exigível;\n\nl) Estar aberto ao público em geral.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731963": {
+   "fragment_id": "863733789",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos específicos",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos específicos\n\n1 - As iniciativas ou projectos de animação referidos no n.º 1 do artigo 3.º devem ainda preencher os seguintes requisitos específicos:\n\na) A gastronomia prevista na alínea a) do n.º 1 do artigo 3.º deve promover as receitas e formas de confecção tradicionais, designadamente incorporando as matérias-primas e os produtos tradicionais, bem como os produtos de base local e regional, constituindo um meio de divulgação de estabelecimentos de restauração e bebidas tradicionais;\n\nb) Os produtos artesanais tradicionais previstos na alínea b) do n.º 1 do artigo 3.º devem ser promovidos e comercializados, obedecendo aos requisitos exigidos por lei;\n\nc) As artes e ofícios tradicionais da região previstos na alínea c) do n.º 1 do artigo 3.º devem ser promovidos por forma a garantir o interesse para a economia e tradição do saber fazer local, contribuindo para a dinamização de feiras regionais;\n\nd) A instalação ou recriação dos locais tradicionais de convívio e comércio previstos na alínea d) do n.º 1 do artigo 3.º devem garantir a manutenção das características arquitectónicas da região e contribuir para a identificação cultural e social que estes estabelecimentos representam;\n\ne) As feiras, festas e romarias previstas na alínea e) do n.º 1 do artigo 3.º devem contribuir para a dinamização da economia local e manifestações sócio-culturais características de cada AP;\n\nf) As rotas temáticas previstas na alínea f) do n.º 1 do artigo 3.º e as expedições panorâmicas e fotográficas previstas na alínea g) do n.º 1 do artigo 3.º devem privilegiar a divulgação e promoção dos contextos mais representativos da economia, cultura e natureza de cada AP e devem promover a utilização e a recuperação de meios de transportes tradicionais;\n\ng) Os passeios a pé, de barco, a cavalo e de bicicleta previstos na alínea h) do n.º 1 do artigo 3.º devem respeitar os trilhos e a sinalização existente, bem como as limitações estabelecidas quanto ao número de actividades ou visitantes em relação a alguns locais e ou época do ano;\n\nh) Os passeios em veículos todo o terreno previstos na alínea i) do n.º 1 do artigo 3.º devem respeitar os requisitos referidos na alínea anterior e ter como objectivo a divulgação dos valores naturais e culturais;\n\ni) Os jogos tradicionais previstos na alínea j) do n.º 1 do artigo 3.º e os parques de merendas previstos na alínea l) do n.º 1 do mesmo artigo devem contribuir para a dinamização e revitalização de formas de convívio e ocupação dos tempos livres;\n\nj) Os pólos de animação previstos na alínea m) do n.º 1 do artigo 3.º devem contribuir para a revitalização dos lugares através da recuperação e promoção do seu património cultural e das actividades económicas características de cada AP;\n\nl) Os meios de transporte tradicionais previstos na alínea n) do n.º 1 do artigo 3.º devem ser adequados ao fim da visita e da manutenção das condições ambientais, nomeadamente através da utilização de transportes colectivos, tradicionais ou que adoptem energias alternativas.\n\n2 - As iniciativas ou projectos de interpretação ambiental referidos no n.º 2 do artigo 3.º devem ainda preencher os seguintes requisitos específicos:\n\na) Os pólos de recepção previstos na alínea a) do n.º 2 do artigo 3.º devem estar estrategicamente localizados, contribuindo para ordenar o acesso e a visitação à AP;\n\nb) Os centros de interpretação previstos na alínea b) do n.º 2 do artigo 3.º devem ser constituídos por instalações, equipamentos e serviços que proporcionem o conhecimento global e integrado da AP, sendo a sua concepção e gestão da responsabilidade da AP;\n\nc) As infra-estruturas necessárias à constituição dos pólos de recepção e dos centros de interpretação previstos nas alíneas a) e b) do n.º 2 do artigo 3.º, devem privilegiar a recuperação e reutilização dos imóveis existentes;\n\nd) Os percursos interpretativos previstos na alínea c) do n.º 2 do artigo 3.º devem indicar o teor, a extensão, a duração, o número máximo de participantes por grupo e por dia e os meios de transportes permitidos ou aconselháveis e ser obrigatoriamente acompanhadas por guias de natureza, ou em alternativa por pessoal com formação adequada;\n\ne) Os núcleos ecomuseológicos previstos na alínea d) do n.º 2 do artigo 3.º devem contribuir para a recuperação do património histórico, arquitectónico e etnográfico e ser representativos das principais manifestações sócio-culturais e económicas que ao longo dos tempos contribuíram para a construção das paisagens de cada AP e da sua identidade;\n\nf) Os observatórios previstos na alínea e) do n.º 2 do artigo 3.º devem estar estrategicamente localizados e concebidos de forma a não provocar distúrbios na avifauna;\n\ng) As iniciativas, projectos ou actividades sem instalações físicas previstos na alínea f) do n.º 2 do artigo 3.º devem promover exposições, colóquios e palestras que proporcionem o debate e a discussão de matérias relativas à conservação da natureza e às actividades sócio-económicas da AP.\n\n3 - As actividades, serviços e instalações de desporto de natureza referidos no n.º 3 do artigo 3.º devem ainda preencher os seguintes requisitos específicos:\n\na) Respeitar o enquadramento legislativo próprio de cada actividade ou sector;\n\nb) Respeitar os locais indicados para a prática de cada modalidade desportiva;\n\nc) Respeitar os acessos e trilhos definidos, bem como os locais de estacionamento e de acampamento;\n\nd) Respeitar as condicionantes estabelecidas quanto aos locais, ao número de praticantes e à época do ano;\n\ne) Acondicionar e dotar de forma adequada os locais com equipamentos de qualidade e segurança necessários à prática de cada modalidade;\n\nf) Dotar os locais com sinalização e informação sobre as condições de utilização dos mesmos e recomendações para a prática de cada modalidade;\n\ng) Garantir a manutenção dos equipamentos, sinalização, acessos, estacionamento e locais de pernoita, bem como a qualidade ambiental de cada local e respectiva área envolvente;\n\nh) Respeitar as regras e orientações estabelecidas no código de conduta.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731964": {
+   "fragment_id": "863733791",
+   "type": 11,
+   "heading": "Artigo 7.º — Guias de natureza",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 7.º — Guias de natureza\n\n1 - As actividades e serviços de animação ambiental nas suas diferentes modalidades serão acompanhadas por guias de natureza, os quais devem possuir formação profissional adequada.\n\n2 - O plano de formação profissional dos guias de natureza é aprovado por portaria conjunta dos membros do Governo responsáveis pelo turismo, emprego e formação profissional, ambiente e desporto.\n\n3 - Até à formação dos guias de natureza previstos no número anterior, os percursos interpretativos referidos na alínea c) do n.º 2 do artigo 3.º podem ser acompanhados por profissionais cujas habilitações sejam reconhecidas como adequadas pelo Instituto de Conservação da Natureza (ICN).\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731965": {
+   "fragment_id": "863733792",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+   ],
+   "markdown": "###### Artigo 8.º — Licença\n\n1 - Sem prejuízo de outras autorizações ou licenças exigíveis por lei, as iniciativas ou projectos que integrem as actividades, serviços e instalações de animação previstos no artigo 3.º carecem de licença, titulada por documento a emitir pelo Instituto da Conservação da Natureza (ICN), após parecer prévio da Direcção-Geral do Turismo (DGT) ou do Instituto do Desporto de Portugal (IDP), nas situações previstas no n.º 3 do mesmo artigo, quando realizadas por:\n\na) Comerciante em nome individual, estabelecimento individual de responsabilidade limitada, sociedade comercial ou uma cooperativa;\n\nb) Federações, clubes e associações desportivas;\n\nc) Instituições particulares de solidariedade social;\n\nd) Institutos públicos;\n\ne) Associações juvenis;\n\nf) Outras associações e demais pessoas colectivas sem fins lucrativos, cujo objecto abranja as actividades previstas no n.º 1 do artigo 3.º do Decreto-Lei n.º 204/2000, de 1 de Setembro.\n\n2 - Sem prejuízo do regime legal específico a que devem obedecer os empreendimentos de animação turística, as entidades referidas no número anterior devem ter por objecto o exercício de actividades de animação turística ou ambiental.\n\n3 - Sem prejuízo do disposto no n.º 1, as actividades, serviços e instalações de animação ambiental devem satisfazer os requisitos gerais previstos no artigo 4.º e os requisitos específicos previstos no artigo 5.º de acordo com a tipologia da iniciativa ou do projecto, bem como as disposições constantes dos diplomas de criação ou de reclassificação das AP e os respectivos planos de ordenamento.\n\n4 - A licença não pode ser objecto de negócios jurídicos.\n\n5 - São nulas quaisquer autorizações ou licenças com violação do regime instituído neste diploma.\n\n6 - As entidades licenciadas são obrigadas à apresentação do documento de licença sempre que solicitado pelos agentes das entidades com competência de fiscalização mencionadas no artigo 17.º\n\n7 - As licenças podem ser renovadas desde que se destinem à mesma situação objecto da licença e se verifiquem os pressupostos que determinaram a sua atribuição.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+  },
+  "863731966": {
+   "fragment_id": "863733793",
+   "type": 11,
+   "heading": "Artigo 9.º — Pedido",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 9.º — Pedido\n\n1 - Do pedido de licença deve constar:\n\na) A identificação do requerente;\n\nb) A localização dos estabelecimentos, quando existirem;\n\nc) A finalidade da actividade, iniciativa ou projecto de animação ambiental;\n\nd) As actividades desenvolvidas pelo requerente.\n\n2 - O pedido deve ser instruído com os seguintes documentos:\n\na) Certidão da escritura pública de constituição da sociedade e certidão do respectivo registo comercial definitivo, quando a natureza jurídica do requerente o justifique;\n\nb) Declaração comprovativa de que as instalações satisfazem os requisitos exigidos por lei;\n\nc) Memória descritiva e programa de actividades a desenvolver, bem como uma carta de localização à escala de 1:25000, ou escala inferior, sempre que justificável;\n\nd) Documento comprovativo de formação adequada dos monitores;\n\ne) Documento comprovativo de seguro de responsabilidade civil que cubra os riscos da actividade a desenvolver;\n\nf) Documento comprovativo do acordo dos proprietários quando o projecto for implementado em terrenos de propriedade privada;\n\ng) Alvará de licença de construção, quando tenham sido realizadas obras de construção civil sujeitas a licenciamento municipal.\n\n3 - O ICN pode solicitar ao interessado a apresentação de outros elementos que considere necessários para se pronunciar sobre o pedido, no prazo de 15 dias a contar da recepção dos elementos referidos no n.º 2 e por uma única vez, ficando suspenso o prazo previsto no n.º 3 do artigo 10.º\n\n4 - O pedido de licença referido no n.º 1 pode ser apresentado nos serviços centrais ou nos serviços locais do ICN.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731967": {
+   "fragment_id": "863733794",
+   "type": 11,
+   "heading": "Artigo 10.º — Parecer da DGT",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 10.º — Parecer da DGT\n\n1 - O ICN deve enviar à DGT ou ao IND, consoante os casos, a documentação necessária à emissão do parecer previsto no n.º 1 do artigo 8.º no prazo de oito dias após a recepção do pedido referido no artigo anterior.\n\n2 - Os pareceres da DGT ou do IND destinam-se a apreciar o interesse turístico ou desportivo das actividades, serviços e instalações de animação ambiental.\n\n3 - Os pareceres devem ser emitidos no prazo de 30 dias a contar da data da recepção da documentação referida no n.º 1.\n\n4 - A não emissão de parecer no prazo previsto no número anterior vale como deferimento tácito do pedido.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731968": {
+   "fragment_id": "863733795",
+   "type": 11,
+   "heading": "Artigo 11.º — Decisão",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 11.º — Decisão\n\n1 - Os pedidos de licença são decididos pelo presidente do ICN no prazo de 30 dias a contar da data do recebimento dos pareceres referidos no artigo anterior ou do termo do prazo para a sua emissão.\n\n2 - Considera-se deferido tacitamente o pedido quando não for proferida decisão no prazo previsto no número anterior.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731969": {
+   "fragment_id": "863733796",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo da licença",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+   ],
+   "markdown": "###### Artigo 12.º — Conteúdo da licença\n\nA licença deve conter os seguintes elementos:\n\na) A identificação do titular;\n\nb) A finalidade da actividade, iniciativa ou projecto de animação ambiental;\n\nc) A indicação dos dias da semana ou períodos do ano e os locais em que as actividades e serviços objecto da licença são interditos em consequência das normas em vigor na área protegida relativas ao seu ordenamento e à gestão de espécies e habitats;\n\nd) O respectivo prazo, o qual não pode ser superior a cinco anos;\n\ne) O prazo para o pedido de renovação da licença;\n\nf) A indicação de obrigatoriedade de pagamento ou de isenção, total ou parcial, da respectiva taxa.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+  },
+  "863731970": {
+   "fragment_id": "863733797",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigação de comunicação",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 13.º — Obrigação de comunicação\n\n1 - A transmissão da propriedade e a cessão de exploração de estabelecimentos, bem como a alteração de qualquer elemento integrante do pedido de licença devem ser comunicadas ao ICN no prazo de 30 dias após a respectiva verificação.\n\n2 - A comunicação prevista no número anterior deve ser acompanhada dos documentos comprovativos dos factos invocados.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731971": {
+   "fragment_id": "863733798",
+   "type": 11,
+   "heading": "Artigo 14.º — Caducidade",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 14.º — Caducidade\n\nAs licenças emitidas ao abrigo do disposto nos artigos 8.º e 9.º caducam nos seguintes casos:\n\na) Se o requerente não iniciar a actividade no prazo de 90 dias após a emissão da licença;\n\nb) Quando se tratar de empresa, se a mesma estiver encerrada por um período superior a um ano, salvo por motivo de obras.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731972": {
+   "fragment_id": "863733799",
+   "type": 11,
+   "heading": "Artigo 15.º — Revogação da licença",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 15.º — Revogação da licença\n\nAs licenças emitidas ao abrigo do disposto nos artigos 8.º e 9.º podem ser revogadas, a todo o tempo, pelo presidente do ICN quando deixarem de se verificar os pressupostos que determinaram a sua atribuição.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863731973": {
+   "fragment_id": "863733800",
+   "type": 11,
+   "heading": "Artigo 16.º — Taxas",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+   ],
+   "markdown": "###### Artigo 16.º — Taxas\n\n1 - São devidas taxas pela concessão e renovação das licenças emitidas ao abrigo do presente diploma.\n\n2 - São fixados por portaria conjunta dos Ministros das Finanças e do Ambiente os quantitativos das taxas a que se refere o número anterior.\n\n3 - O produto das taxas previstas no presente artigo constitui receita própria do ICN.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+  },
+  "863731974": {
+   "fragment_id": "863733801",
+   "type": 11,
+   "heading": "Artigo 17.º — Fiscalização",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+   ],
+   "markdown": "###### Artigo 17.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma compete às autoridades policiais, ao Instituto da Conservação da Natureza (ICN) e às comissões de coordenação e desenvolvimento regional (CCDR).\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 17/2003 - Diário da República n.º 235/2003, Série I-B de 2003-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939), em vigor a partir de 2003-10-11"
+  },
+  "863738075": {
+   "fragment_id": "863733802",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Sem prejuízo das contra-ordenações aplicáveis por força do regime de criação e reclassificação das áreas protegidas e respectivos planos de ordenamento, constitui contra-ordenação:\n\na) A violação do disposto nos n.os 1 e 3 do artigo 7.º;\n\nb) A violação do disposto nos n.os 1 e 4 do artigo 8.º;\n\nc) A utilização da licença para fim diverso do concedido pelo ICN nos termos previstos na alínea b) do artigo 12.º;\n\nd) A violação do disposto no artigo 13.º;\n\ne) A violação do disposto no n.º 1 do artigo 23.º\n\n2 - As contra-ordenações previstas no número anterior são punidas com coimas de:\n\na) 50000$00 a 750000$00, no caso de pessoa singular;\n\nb) 100000$00 a 3000000$00, no caso de pessoas colectivas.\n\n3 - A tentativa e a negligência são puníveis.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863738076": {
+   "fragment_id": "863733803",
+   "type": 11,
+   "heading": "Artigo 19.º — Sanções acessórias",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 19.º — Sanções acessórias\n\nAs contra-ordenações previstas no artigo 18.º podem ainda determinar, quando a gravidade da situação assim o justifique, a aplicação das seguintes sanções acessórias:\n\na) A privação do direito a subsídios outorgados por entidades ou serviços públicos, por um período máximo de dois anos;\n\nb) A interdição do exercício de actividade por um período máximo de dois anos;\n\nc) A privação do direito de participar em feiras ou mercados;\n\nd) O encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ne) A suspensão de autorizações, licenças e alvarás.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863738077": {
+   "fragment_id": "863733804",
+   "type": 11,
+   "heading": "Artigo 20.º — Limites da coima em caso de tentativa e negligência",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 20.º — Limites da coima em caso de tentativa e negligência\n\n1 - Em caso de punição da tentativa, os limites máximo e mínimo das coimas são reduzidos para um terço.\n\n2 - Se a infracção for praticada por negligência, os limites máximo e mínimo das coimas são reduzidos para metade.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863738078": {
+   "fragment_id": "863733805",
+   "type": 11,
+   "heading": "Artigo 21.º — Processo de contra-ordenação e aplicação de coimas e sanções acessórias",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 21.º — Processo de contra-ordenação e aplicação de coimas e sanções acessórias\n\n1 - O processamento das contra-ordenações compete ao ICN.\n\n2 - A aplicação das coimas e sanções acessórias compete ao presidente do ICN.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863738079": {
+   "fragment_id": "863733806",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nO produto das coimas aplicadas pelo ICN por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado e 40% para o ICN.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863738080": {
+   "fragment_id": "863733807",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição final",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 23.º — Disposição final\n\n1 - As iniciativas ou projectos que integrem as actividades, serviços e instalações previstos no artigo 3.º, já aprovadas ou em funcionamento à data da entrada em vigor do presente diploma, carecem igualmente da licença a que se refere o artigo 8.º\n\n2 - Para efeitos de aplicação do número anterior, o pedido de licença deverá ser efectuado no prazo de 45 dias, a contar da data de entrada em vigor do presente diploma, de acordo com previsto nos n.os 1 e 2 do artigo 9.º\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863738081": {
+   "fragment_id": "863733808",
+   "type": 11,
+   "heading": "Artigo 24.º — Regiões Autónomas",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 24.º — Regiões Autónomas\n\nO regime previsto no presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863738082": {
+   "fragment_id": "863733809",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": "2009-06-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+   ],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.\n\n> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14"
+  },
+  "863738083": {
+   "fragment_id": "863733790",
+   "type": 11,
+   "heading": "Artigo 6.º — Carta de desporto de natureza",
+   "in_force_from": "2015-09-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04"
+   ],
+   "markdown": "###### Artigo 6.º — Carta de desporto de natureza\n\n1 - Cada AP deve possuir uma carta de desporto de natureza e respectivo regulamento, a aprovar por portaria conjunta dos membros do Governo responsáveis pelas áreas do desporto e do ambiente.\n\n2 - A carta referida no número anterior deve conter as regras e orientações relativas a cada modalidade desportiva, incluindo, designadamente, os locais e as épocas do ano em que as mesmas podem ser praticadas, bem como a respectiva capacidade de carga.\n\n3 - Para efeitos do número anterior são consultadas as federações desportivas dotadas do estatuto de utilidade pública desportiva, representativas das diferentes modalidades e outras entidades competentes em razão da matéria.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04"
+  }
+ }
+}

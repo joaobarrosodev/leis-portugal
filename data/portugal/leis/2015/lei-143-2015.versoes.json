@@ -1,0 +1,1320 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70215247:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-70208248",
+ "dre_path": "/dr/detalhe/lei/143-2015-70215247",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-09-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70208341",
+    "70208342",
+    "70208343",
+    "70208344",
+    "70208345",
+    "70208346",
+    "70208347",
+    "70208348",
+    "70208349",
+    "70208350",
+    "70208351",
+    "70208352",
+    "70208353",
+    "70208354",
+    "70208355",
+    "70208356",
+    "70208357",
+    "70208358",
+    "70208359",
+    "70208360",
+    "70208361",
+    "70208362",
+    "70208363",
+    "70208364",
+    "70208365",
+    "70208366",
+    "70208367",
+    "70208368",
+    "70208369",
+    "70208370",
+    "70208371",
+    "70208372",
+    "70208373",
+    "70208374",
+    "70216975",
+    "70216976",
+    "70216977",
+    "70216978",
+    "70216979",
+    "70216980",
+    "70216981",
+    "70216982",
+    "70216983",
+    "70216984",
+    "70216985",
+    "70216986",
+    "70216987",
+    "70216988",
+    "70216989",
+    "70216990",
+    "70216991",
+    "70216992",
+    "70216993",
+    "70216994",
+    "70216995",
+    "70216996",
+    "70216997",
+    "70216998",
+    "70216999",
+    "70217000",
+    "70217001",
+    "70217002",
+    "70217003",
+    "70217004",
+    "70217005",
+    "70217006",
+    "70217007",
+    "70217008",
+    "70217009",
+    "70217010",
+    "70217011",
+    "70217012",
+    "70217013",
+    "70217014",
+    "70217015",
+    "70217016",
+    "70217017",
+    "70217018",
+    "70217019",
+    "70217020",
+    "70217021",
+    "70217022",
+    "70217023",
+    "70217024",
+    "70217025",
+    "70217026",
+    "70217027",
+    "70217028",
+    "70217029",
+    "70217030",
+    "70217031",
+    "70217032",
+    "70217033",
+    "70217034",
+    "70217035",
+    "70217036",
+    "70217037",
+    "70217038",
+    "70217039",
+    "70217040",
+    "70217041",
+    "70217042",
+    "70217043",
+    "70217044",
+    "70217045",
+    "70217046",
+    "70217047",
+    "70217048",
+    "70217049",
+    "70217050",
+    "70217051",
+    "70217052",
+    "70217053",
+    "70217054",
+    "70217055",
+    "70217056",
+    "70217057",
+    "70217058",
+    "70217059",
+    "70217060",
+    "70217061",
+    "70217062"
+   ]
+  },
+  {
+   "date": "2023-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:219991256:por",
+     "title": "Lei n.º 46/2023",
+     "published": "2023-08-17",
+     "dre_path": "/dr/detalhe/lei/46-2023-219991256"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "70208341",
+    "70208342",
+    "70208343",
+    "70208344",
+    "70208345",
+    "70208346",
+    "70208347",
+    "70208348",
+    "70208349",
+    "70208350",
+    "70208351",
+    "70208352",
+    "70217063",
+    "70208353",
+    "70208354",
+    "70208355",
+    "220061658",
+    "70208357",
+    "70208358",
+    "70208359",
+    "70208360",
+    "70208361",
+    "70208362",
+    "70208363",
+    "70208364",
+    "70208365",
+    "70208366",
+    "70208367",
+    "70208368",
+    "70208369",
+    "70208370",
+    "70208371",
+    "70208372",
+    "70208373",
+    "70208374",
+    "70216975",
+    "70216976",
+    "70216977",
+    "70216978",
+    "70216979",
+    "70216980",
+    "70216981",
+    "70216982",
+    "70216983",
+    "70216984",
+    "70216985",
+    "70216986",
+    "70216987",
+    "70216988",
+    "70216989",
+    "70216990",
+    "70216991",
+    "70216992",
+    "70216993",
+    "941592078",
+    "941592079",
+    "70216994",
+    "70216995",
+    "70216996",
+    "70216997",
+    "70216998",
+    "70216999",
+    "70217000",
+    "70217001",
+    "70217002",
+    "941592077",
+    "70217003",
+    "70217004",
+    "70217005",
+    "70217006",
+    "70217007",
+    "70217008",
+    "70217009",
+    "70217010",
+    "70217011",
+    "70217012",
+    "70217013",
+    "70217014",
+    "70217015",
+    "70217016",
+    "70217017",
+    "70217018",
+    "70217019",
+    "70217020",
+    "70217021",
+    "70217022",
+    "70217023",
+    "70217024",
+    "70217025",
+    "70217026",
+    "70217027",
+    "70217028",
+    "70217029",
+    "70217030",
+    "70217031",
+    "70217032",
+    "941592080",
+    "941592081",
+    "70217033",
+    "70217034",
+    "70217035",
+    "70217036",
+    "70217037",
+    "70217038",
+    "70217039",
+    "70217040",
+    "70217041",
+    "70217042",
+    "70217043",
+    "70217044",
+    "70217045",
+    "70217046",
+    "70217047",
+    "70217048",
+    "70217049",
+    "70217050",
+    "70217051",
+    "70217052",
+    "70217053",
+    "70217054",
+    "70217055",
+    "70217056",
+    "70217057",
+    "70217058",
+    "70217059",
+    "70217060",
+    "70217061",
+    "70217062"
+   ]
+  }
+ ],
+ "fragments": {
+  "70208341": {
+   "fragment_id": "70208249",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 143/2015\n\nde 8 de setembro\n\nAltera o Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966, e o Código de Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho, e aprova o Regime Jurídico do Processo de Adoção.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70208342": {
+   "fragment_id": "70208250",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei altera o Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966, em matéria de adoção, e o Código de Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho, e aprova o Regime Jurídico do Processo de Adoção."
+  },
+  "70208343": {
+   "fragment_id": "70208251",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código Civil\n\nOs artigos 1973.º, 1975.º, 1976.º, 1978.º a 1983.º, 1986.º a 1990.º do Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966, passam a ter a seguinte redação:\n\n«Artigo 1973.º\n\n[...]\n\n1 - ...\n\n2 - O processo de adoção é regulado em diploma próprio.\n\nArtigo 1975.º\n\nProibição de adoções simultâneas e sucessivas\n\n1 - Enquanto subsistir uma adoção, não pode constituir-se outra quanto ao mesmo adotado, exceto se os adotantes forem casados um com o outro.\n\n2 - O disposto no número anterior não impede a constituição de novo vínculo adotivo, caso se verifiquem algumas das situações a que se reportam as alíneas a), c), d) e e) do n.º 1 do artigo 1978.º\n\nArtigo 1976.º\n\nAdoção pelo tutor ou administrador legal de bens\n\nO tutor ou administrador legal de bens só pode adotar a criança depois de aprovadas as contas da tutela ou administração de bens e saldada a sua responsabilidade.\n\nArtigo 1978.º\n\n[...]\n\n1 - O tribunal, no âmbito de um processo de promoção e proteção, pode confiar a criança com vista a futura adoção quando não existam ou se encontrem seriamente comprometidos os vínculos afetivos próprios da filiação, pela verificação objetiva de qualquer das seguintes situações:\n\na) Se a criança for filha de pais incógnitos ou falecidos;\n\nb) ...\n\nc) Se os pais tiverem abandonado a criança;\n\nd) Se os pais, por ação ou omissão, mesmo que por manifesta incapacidade devida a razões de doença mental, puserem em perigo grave a segurança, a saúde, a formação, a educação ou o desenvolvimento da criança;\n\ne) Se os pais da criança acolhida por um particular, por uma instituição ou por família de acolhimento tiverem revelado manifesto desinteresse pelo filho, em termos de comprometer seriamente a qualidade e a continuidade daqueles vínculos, durante, pelo menos, os três meses que precederam o pedido de confiança.\n\n2 - Na verificação das situações previstas no número anterior, o tribunal deve atender prioritariamente aos direitos e interesses da criança.\n\n3 - Considera-se que a criança se encontra em perigo quando se verificar alguma das situações assim qualificadas pela legislação relativa à proteção e à promoção dos direitos das crianças.\n\n4 - A confiança com fundamento nas situações previstas nas alíneas a), c), d) e e) do n.º 1 não pode ser decidida se a criança se encontrar a viver com ascendente, colateral até ao 3.º grau ou tutor e a seu cargo, salvo se aqueles familiares ou o tutor puserem em perigo, de forma grave, a segurança, a saúde, a formação, a educação ou o desenvolvimento da criança ou se o tribunal concluir que a situação não é adequada a assegurar suficientemente o interesse daquela.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\nArtigo 1978.º-A\n\nEfeitos da medida de promoção e proteção de confiança com vista a futura adoção\n\nDecretada a medida de promoção e proteção de confiança com vista a futura adoção, ficam os pais inibidos do exercício das responsabilidades parentais.\n\nArtigo 1979.º\n\nQuem pode adotar\n\n1 - Podem adotar duas pessoas casadas há mais de quatro anos e não separadas judicialmente de pessoas e bens ou de facto, se ambas tiverem mais de 25 anos.\n\n2 - Pode ainda adotar quem tiver mais de 30 anos ou, se o adotando for filho do cônjuge do adotante, mais de 25 anos.\n\n3 - Só pode adotar quem não tiver mais de 60 anos à data em que a criança lhe tenha sido confiada, mediante confiança administrativa ou medida de promoção e proteção de confiança com vista a futura adoção, sendo que a partir dos 50 anos a diferença de idades entre o adotante e o adotando não pode ser superior a 50 anos.\n\n4 - Pode, no entanto, a diferença de idades ser superior a 50 anos quando, a título excecional, motivos ponderosos e atento o superior interesse do adotando o justifiquem, nomeadamente por se tratar de uma fratria em que relativamente apenas a algum ou alguns dos irmãos se verifique uma diferença de idades superior àquela.\n\n5 - ...\n\n6 - Releva para efeito da contagem do prazo do n.º 1 o tempo de vivência em união de facto imediatamente anterior à celebração do casamento.\n\nArtigo 1980.º\n\nQuem pode ser adotado\n\n1 - Podem ser adotadas as crianças:\n\na) Que tenham sido confiadas ao adotante mediante confiança administrativa ou medida de promoção e proteção de confiança com vista a futura adoção;\n\nb) Filhas do cônjuge do adotante.\n\n2 - O adotando deve ter menos de 15 anos à data do requerimento de adoção.\n\n3 - Pode, no entanto, ser adotado quem, à data do requerimento, tenha menos de 18 anos e não se encontre emancipado quando, desde idade não superior a 15 anos, tenha sido confiado aos adotantes ou a um deles ou quando for filho do cônjuge do adotante.\n\nArtigo 1981.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Dos pais do adotando, ainda que menores e mesmo que não exerçam as responsabilidades parentais, desde que não tenha havido medida de promoção e proteção de confiança com vista a futura adoção;\n\nd) ...\n\ne) Dos adotantes.\n\n2 - Nos casos previstos nas alíneas c), d) e e) do n.º 1 do artigo 1978.º, sempre que a criança se encontre a viver com ascendente colateral até ao 3.º grau ou tutor e a seu cargo, não é exigido o consentimento dos pais, sendo porém exigido o consentimento dessas pessoas.\n\n3 - ...\n\na) ...\n\nb) (Revogada.)\n\nc) Dos pais do adotando inibidos do exercício das responsabilidades parentais, quando, passados 18 ou 6 meses, respetivamente, sobre o trânsito em julgado da sentença de inibição ou da que houver desatendido outro pedido, o Ministério Público ou aqueles não tenham solicitado o levantamento da inibição decretada pelo tribunal, nos termos do disposto no n.º 2 do artigo 1916.º\n\nArtigo 1982.º\n\n[...]\n\n1 - O consentimento é inequívoco e prestado perante o juiz, que deve esclarecer o declarante sobre o significado e os efeitos do ato.\n\n2 - O consentimento pode ser prestado independentemente da instauração do processo de adoção.\n\n3 - ...\n\nArtigo 1983.º\n\nIrreversibilidade do consentimento\n\n1 - O consentimento é irrevogável e não está sujeito a caducidade.\n\n2 - Se, no prazo de três anos após a prestação do consentimento, a criança não tiver sido adotada, nem decidida a sua confiança administrativa, nem tiver sido aplicada medida de promoção e proteção de confiança com vista a futura adoção, o Ministério Público promove as iniciativas processuais cíveis ou de proteção adequadas ao caso.\n\nArtigo 1986.º\n\n[...]\n\n1 - Pela adoção, o adotado adquire a situação de filho do adotante e integra-se com os seus descendentes na família deste, extinguindo-se as relações familiares entre o adotado e os seus ascendentes e colaterais naturais, sem prejuízo do disposto quanto a impedimentos matrimoniais nos artigos 1602.º a 1604.º\n\n2 - ...\n\n3 - Excecionalmente, ponderada a idade do adotado, a sua situação familiar ou qualquer outra circunstância atendível, pode ser estabelecida a manutenção de alguma forma de contacto pessoal entre aquele e algum elemento da família biológica ou, sendo caso disso, entre aquele e a respetiva família adotiva e algum elemento da família biológica, favorecendo-se especialmente o relacionamento entre irmãos, desde que, em qualquer caso, os pais adotivos consintam na referida manutenção e tal corresponda ao superior interesse do adotado.\n\nArtigo 1987.º\n\n[...]\n\nDepois de decretada a adoção, não é possível estabelecer a filiação natural do adotado nem fazer a prova dessa filiação fora do processo preliminar de casamento.\n\nArtigo 1988.º\n\n[...]\n\n1 - ...\n\n2 - A pedido do adotante, pode o tribunal, excecionalmente, modificar o nome próprio da criança, se a modificação salvaguardar o seu interesse, nomeadamente o direito à identidade pessoal, e favorecer a integração na família.\n\nArtigo 1989.º\n\nIrrevogabilidade da adoção\n\nA adoção não é revogável.\n\nArtigo 1990.º\n\n[...]\n\n1 - Sem prejuízo da impugnação da sentença através de recurso extraordinário de revisão previsto na lei processual civil, a sentença que tiver decretado a adoção só é suscetível de revisão:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n2 - ...\n\n3 - ...»"
+  },
+  "70208344": {
+   "fragment_id": "70208252",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Código Civil\n\nÉ aditado o artigo 1990.º-A ao Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966, com a seguinte redação:\n\n«Artigo 1990.º-A\n\nAcesso ao conhecimento das origens\n\nÀs pessoas adotadas é garantido o direito ao conhecimento das suas origens, nos termos e com os limites definidos no diploma que regula o processo de adoção.»"
+  },
+  "70208345": {
+   "fragment_id": "70208253",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Código de Registo Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Código de Registo Civil\n\nO artigo 69.º do Código de Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho, passa a ter a seguinte redação:\n\n«Artigo 69.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) A adoção e a revisão da respetiva sentença;\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Após o averbamento do facto referido na alínea d) deverá ser feita a comunicação a que se reporta o n.º 3 do artigo 56.º do Regime Jurídico do Processo de Adoção, a efetuar com preservação dos elementos de identificação dos adotantes, designadamente identidade, filiação, residência, número de documentos de identificação e do tribunal por onde correu o processo de adoção.»"
+  },
+  "70208346": {
+   "fragment_id": "70208254",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime Jurídico do Processo de Adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime Jurídico do Processo de Adoção\n\n1 - É aprovado, em anexo à presente lei e que dela faz parte integrante, o novo Regime Jurídico do Processo de Adoção.\n\n2 - A presente lei não prejudica o disposto no artigo 7.º da Lei n.º 7/2001, de 11 de maio, alterada pela Lei n.º 23/2010, de 30 de agosto, e no artigo 3.º da Lei n.º 9/2010, de 31 de maio."
+  },
+  "70208347": {
+   "fragment_id": "70208255",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito subsidiário\n\nNos casos omissos são de observar, com as devidas adaptações, as regras de processo civil que não contrariem os fins da jurisdição de família e menores."
+  },
+  "70208348": {
+   "fragment_id": "70208256",
+   "type": 11,
+   "heading": "Artigo 7.º — Instalação do Conselho Nacional para a Adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instalação do Conselho Nacional para a Adoção\n\n1 - No prazo máximo de 30 dias após a data de entrada em vigor da presente lei, o Conselho Nacional para a Adoção procede à elaboração e aprovação do respetivo regulamento interno, submetendo-o a homologação do membro do Governo responsável pelas áreas da solidariedade e da segurança social.\n\n2 - Com a entrada em vigor da presente lei, o Instituto da Segurança Social, I. P., assume a coordenação do Conselho Nacional para a Adoção, nos termos previstos no n.º 1 do artigo 13.º do Regime Jurídico do Processo de Adoção, aprovado em anexo à presente lei."
+  },
+  "70208349": {
+   "fragment_id": "70208257",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\n1 - Constam de instrumento próprio a aprovar pelo membro do Governo responsável pelas áreas da solidariedade e da segurança social:\n\na) A definição dos critérios e procedimentos padronizados a que alude o artigo 14.º do Regime Jurídico do Processo de Adoção, aprovado em anexo à presente lei;\n\nb) O programa de intervenção técnica a que alude o n.º 3 do artigo 41.º do Regime Jurídico do Processo de Adoção, aprovado em anexo à presente lei;\n\nc) O programa de preparação complementar a que alude o artigo 47.º do Regime Jurídico do Processo de Adoção, aprovado em anexo à presente lei.\n\n2 - Os instrumentos referidos no número anterior são publicitados nos sítios oficiais dos organismos mencionados no artigo 7.º do Regime Jurídico do Processo de Adoção, aprovado em anexo à presente lei."
+  },
+  "70208350": {
+   "fragment_id": "70208258",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogados:\n\na) A alínea e) do artigo 1604.º, o artigo 1607.º, a alínea c) do n.º 1 do artigo 1609.º, o artigo 1977.º, os n.os 5 e 6 do artigo 1978.º, a alínea b) do n.º 3 do artigo 1981.º e o capítulo iii do título iv do Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966;\n\nb) Os capítulos iii a v e os artigos 28.º e 29.º do Decreto-Lei n.º 185/93, de 22 de maio, alterado pelo Decreto-Lei n.º 120/98, de 8 de maio, e pelas Leis n.os 31/2003, de 22 de agosto, e 28/2007, de 2 de agosto;\n\nc) O Decreto Regulamentar n.º 17/98, de 14 de agosto."
+  },
+  "70208351": {
+   "fragment_id": "70208259",
+   "type": 11,
+   "heading": "Artigo 10.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação no tempo\n\n1 - O Regime Jurídico do Processo de Adoção, aprovado em anexo à presente lei, é de aplicação imediata, sem prejuízo da validade dos atos praticados na vigência da lei anterior.\n\n2 - A presente lei não é aplicável aos processos judiciais pendentes à data da sua entrada em vigor, salvo o disposto nos n.os 2 e 3 do artigo 56.º do Regime Jurídico do Processo de Adoção, aprovado em anexo à presente lei, que é de aplicação imediata."
+  },
+  "70208352": {
+   "fragment_id": "70208260",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente lei entra em vigor 90 dias após a data da sua publicação."
+  },
+  "70208353": {
+   "fragment_id": "70208261",
+   "type": 14,
+   "heading": "Anexo — Regime Jurídico do Processo de Adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regime Jurídico do Processo de Adoção\n\n(a que se refere o artigo 5.º)"
+  },
+  "70208354": {
+   "fragment_id": "70208262",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "70208355": {
+   "fragment_id": "70208263",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O Regime Jurídico do Processo de Adoção, doravante designado RJPA, regula os processos de adoção nacional e internacional, bem como a intervenção nesses processos das entidades competentes.\n\n2 - São entidades competentes em matéria de adoção:\n\na) Os organismos de segurança social;\n\nb) A Autoridade Central para a Adoção Internacional;\n\nc) O Ministério Público;\n\nd) Os tribunais.\n\n3 - Podem também intervir:\n\na) Na adoção nacional, as instituições particulares de solidariedade social e equiparadas e outras entidades de reconhecido interesse público, sem caráter lucrativo, adiante designadas por instituições particulares autorizadas, nas condições e com os limites estabelecidos no RJPA;\n\nb) Na adoção internacional, as entidades devidamente autorizadas e acreditadas, adiante designadas por entidades mediadoras, nas condições e com os limites estabelecidos no RJPA."
+  },
+  "70208356": {
+   "fragment_id": "70208264",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do RJPA considera-se:\n\na) «Adoção internacional», processo de adoção, no âmbito do qual ocorre a transferência de uma criança do seu país de residência habitual para o país da residência habitual dos adotantes, com vista ou na sequência da sua adoção;\n\nb) «Adoção nacional», processo de adoção no âmbito do qual a criança a adotar e o candidato à adoção têm residência habitual em Portugal, independentemente da nacionalidade;\n\nc) «Adotabilidade», situação jurídica da criança beneficiária de uma decisão judicial ou administrativa de confiança com vista à adoção;\n\nd) «Criança», qualquer pessoa com idade inferior a 15 anos, ou inferior a 18 anos nos casos previstos no n.º 3 do artigo 1980.º do Código Civil;\n\ne) «País de acolhimento», país da residência habitual dos adotantes, no âmbito de um processo de adoção internacional;\n\nf) «País de origem», país da residência habitual da criança, no âmbito de um processo de adoção internacional;\n\ng) «Preparação, avaliação e seleção de candidatos», conjunto de procedimentos para a aferição da capacidade tendentes à capacitação psicossocial e das competências essenciais ao estabelecimento de uma relação parental adotiva;\n\nh) «Processo de adoção», conjunto de procedimentos de natureza administrativa e judicial, integrando designadamente atos de preparação e atos avaliativos, tendo em vista a prolação da decisão judicial constitutiva do vínculo da adoção, a qual ocorre na sequência de uma decisão de adotabilidade ou de avaliação favorável da pretensão de adoção de filho do cônjuge;\n\ni) «Guarda de facto», relação que se estabelece entre a criança e a pessoa que com ela vem assumindo, continuadamente, as funções essenciais próprias de quem tem responsabilidades parentais."
+  },
+  "70208357": {
+   "fragment_id": "70208265",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nA intervenção em matéria de adoção obedece aos seguintes princípios orientadores:\n\na) Interesse superior da criança - em todas as decisões a proferir, no âmbito do processo de adoção, deve prevalecer o interesse superior da criança;\n\nb) Obrigatoriedade de informação - a criança e os candidatos à adoção devem ser informados com precisão e clareza sobre os seus direitos, os objetivos da intervenção inerente ao processo e a forma como esta última se processa, bem como sobre as possíveis consequências de qualquer decisão que venha a ser tomada no âmbito do processo;\n\nc) Audição obrigatória - a criança, tendo em atenção a sua idade, grau de maturidade e capacidade de compreensão, deve ser pessoalmente ouvida no âmbito do processo de adoção;\n\nd) Participação - a criança, bem como os candidatos à adoção, têm o direito de participar nas decisões relativas à concretização do projeto adotivo;\n\ne) Cooperação - todos os intervenientes no processo e, designadamente, as entidades com competência em matéria de adoção, bem como os candidatos à adoção, têm o dever de colaborar no sentido da boa decisão do processo;\n\nf) Primado da continuidade das relações psicológicas profundas - a intervenção deve respeitar o direito da criança à preservação das relações afetivas estruturantes de grande significado e de referência para o seu saudável e harmónico desenvolvimento, devendo prevalecer as medidas que garantam a continuidade de uma vinculação securizante."
+  },
+  "70208358": {
+   "fragment_id": "70208266",
+   "type": 11,
+   "heading": "Artigo 4.º — Caráter secreto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Caráter secreto\n\n1 - A fase judicial e os demais procedimentos administrativos e judiciais que integram o processo de adoção, incluindo os seus preliminares, têm carácter secreto.\n\n2 - O processo de adoção, incluindo os seus preliminares, pode ser consultado pelo adotado depois de atingida a maioridade.\n\n3 - Por motivos ponderosos e nas condições e com os limites a fixar na decisão, pode o tribunal, a requerimento de quem prove interesse legítimo, ouvido o Ministério Público, se não for o requerente, autorizar a consulta dos processos referidos no n.º 1 e a extração de certidões.\n\n4 - Para efeitos do disposto no número anterior, tratando-se de procedimentos de natureza administrativa, o requerimento deve ser dirigido ao tribunal competente em matéria de família e menores da área da sede do organismo de segurança social.\n\n5 - A violação do segredo dos processos referidos no n.º 1 e a utilização de certidões para fim diverso do expressamente autorizado constituem crime a que corresponde pena de prisão até um ano ou multa até 120 dias."
+  },
+  "70208359": {
+   "fragment_id": "70208267",
+   "type": 11,
+   "heading": "Artigo 5.º — Segredo de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Segredo de identidade\n\n1 - Todas as entidades públicas e privadas têm o dever de adotar as providências necessárias à preservação do segredo de identidade a que se refere o artigo 1985.º do Código Civil.\n\n2 - No acesso aos autos, nas notificações a realizar no processo de adoção e nos respetivos procedimentos preliminares, incluindo os de natureza administrativa, deve sempre ser preservado o segredo de identidade, nos termos previstos no artigo 1985.º do Código Civil."
+  },
+  "70208360": {
+   "fragment_id": "70208268",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso ao conhecimento das origens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acesso ao conhecimento das origens\n\n1 - Os organismos de segurança social, mediante solicitação expressa do adotado com idade igual ou superior a 16 anos, têm o dever de prestar informação, aconselhamento e apoio técnico no acesso ao conhecimento das suas origens.\n\n2 - Para efeitos do disposto no número anterior, durante a menoridade é sempre exigida autorização dos pais adotivos ou do representante legal, revestindo o apoio técnico caráter obrigatório.\n\n3 - As entidades competentes em matéria de adoção devem conservar as informações sobre a identidade, as origens e os antecedentes do adotado, durante pelo menos 50 anos após a data do trânsito em julgado da sentença constitutiva do vínculo da adoção.\n\n4 - Para os efeitos previstos no presente artigo, qualquer entidade pública ou privada tem obrigação de fornecer às entidades competentes em matéria de adoção, incluindo ao Ministério Público, quando lhe sejam requeridas, as necessárias informações sobre os antecedentes do adotado, os seus progenitores, tutores e detentores da guarda de facto, sem necessidade de obtenção do consentimento destes.\n\n5 - As entidades que intervêm nos termos do presente artigo estão obrigadas à preservação do segredo de identidade previsto no artigo 5.º\n\n6 - Independentemente dos requisitos previstos nos n.os 1 e 2, em casos excecionais e com fundamento em razões ponderosas, mormente quando estiverem em causa motivos de saúde, pode o tribunal, a requerimento dos pais, ouvido o Ministério Público, autorizar o acesso a elementos da história pessoal do adotado menor.\n\n7 - Pode ainda o tribunal, a requerimento do Ministério Público e com fundamento em ponderosos motivos de saúde do adotado menor, autorizar o acesso a elementos da sua história pessoal."
+  },
+  "70208361": {
+   "fragment_id": "70208269",
+   "type": 13,
+   "heading": "Título II — Adoção nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Adoção nacional"
+  },
+  "70208362": {
+   "fragment_id": "70208270",
+   "type": 1,
+   "heading": "Capítulo I — Intervenção das entidades competentes em matéria de adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Intervenção das entidades competentes em matéria de adoção"
+  },
+  "70208363": {
+   "fragment_id": "70208271",
+   "type": 8,
+   "heading": "Secção I — Intervenção dos organismos de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Intervenção dos organismos de segurança social"
+  },
+  "70208364": {
+   "fragment_id": "70208272",
+   "type": 11,
+   "heading": "Artigo 7.º — Organismos de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organismos de segurança social\n\nPara efeitos do RJPA, são organismos de segurança social o Instituto da Segurança Social, I. P., o Instituto da Segurança Social dos Açores, I. P. R. A., o Instituto da Segurança Social da Madeira, IP-RAM, e, no município de Lisboa, a Santa Casa da Misericórdia de Lisboa."
+  },
+  "70208365": {
+   "fragment_id": "70208273",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências\n\nCompete aos organismos de segurança social:\n\na) Proceder ao estudo de caracterização das crianças em situação de adotabilidade e ao diagnóstico das suas necessidades, bem como à sua preparação para subsequente integração em famílias adotivas;\n\nb) Informar os interessados sobre o processo de adoção, disponibilizando-lhes igualmente informação sobre outros institutos jurídicos que visem a integração familiar de crianças;\n\nc) Receber as candidaturas à adoção e instruir os respetivos processos;\n\nd) Preparar, avaliar e selecionar os candidatos a adotantes;\n\ne) Aferir a correspondência entre as necessidades evidenciadas pelas crianças em situação de adotabilidade e as capacidades dos candidatos selecionados, tendo em vista a apresentação de concretas propostas de encaminhamento;\n\nf) Promover a integração das crianças nas famílias adotantes e acompanhar e avaliar o período prévio de convivência entre crianças e candidatos destinado a aferir da viabilidade do estabelecimento da relação parental;\n\ng) Proceder à confiança administrativa;\n\nh) Decretada a adotabilidade ou recebida comunicação do tribunal relativa ao consentimento prévio para a adoção, informar trimestralmente o tribunal sobre as diligências efetuadas para promover o efetivo encaminhamento da criança para candidato selecionado;\n\ni) Elaborar o relatório de acompanhamento e avaliação do período de pré-adoção, do qual constem, designadamente, os elementos relativos à personalidade e à saúde do adotante e do adotando, à idoneidade do adotante para criar e educar o adotando, à situação familiar e económica do adotante e às razões determinantes do pedido de adoção;\n\nj) Acompanhar as famílias após o decretamento da adoção, mediante pretensão expressa nesse sentido, nos termos previstos no RJPA;\n\nk) Prestar informação, aconselhamento e apoio técnico no acesso ao conhecimento das origens do adotado;\n\nl) Proceder à recolha, tratamento e divulgação dos dados estatísticos relativos à adoção nacional;\n\nm) Elaborar e publicar anualmente relatório, donde constem informações e conclusões sobre as atribuições referidas nas alíneas anteriores."
+  },
+  "70208366": {
+   "fragment_id": "70208274",
+   "type": 11,
+   "heading": "Artigo 9.º — Equipas técnicas de adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Equipas técnicas de adoção\n\n1 - O acompanhamento e o apoio às pessoas envolvidas num processo de adoção são assegurados por equipas pluridisciplinares suficientemente dimensionadas e qualificadas, integrando técnicos com formação nas áreas da psicologia, do serviço social e do direito.\n\n2 - Tais equipas podem ainda, pontualmente e quando necessário, contar com o apoio de profissionais das áreas da saúde e da educação.\n\n3 - As equipas que intervêm na preparação, avaliação e seleção dos candidatos a adotantes devem ser autónomas e distintas das que, decretada a adotabilidade, procedem ao estudo da situação das crianças e à concretização dos respetivos projetos adotivos.\n\n4 - Para salvaguarda do disposto no número anterior e sempre que o volume processual o justifique, as funções de preparação, avaliação e seleção de candidatos podem ser concentradas em equipas de âmbito regional, cuja atividade toma em linha de conta as exigências de proximidade que tais funções pressupõem."
+  },
+  "70208367": {
+   "fragment_id": "70216875",
+   "type": 11,
+   "heading": "Artigo 10.º — Listas nacionais para a adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Listas nacionais para a adoção\n\n1 - Os candidatos selecionados para a adoção, bem como as crianças em situação de adotabilidade, integram obrigatoriamente listas nacionais.\n\n2 - Cabe aos organismos de segurança social o registo e a permanente atualização das listas a que se refere o número anterior."
+  },
+  "70208368": {
+   "fragment_id": "70216876",
+   "type": 11,
+   "heading": "Artigo 11.º — Colegialidade das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Colegialidade das decisões\n\n1 - A concreta proposta de encaminhamento de uma criança para a família adotante resulta de decisão participada e consensualizada entre a equipa que procedeu ao estudo da criança e a equipa que efetuou a preparação, avaliação e seleção dos candidatos.\n\n2 - A confirmação da proposta prevista no número anterior cabe ao Conselho Nacional para a Adoção, adiante designado por Conselho."
+  },
+  "70208369": {
+   "fragment_id": "70216877",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição e atribuições do Conselho Nacional para a Adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição e atribuições do Conselho Nacional para a Adoção\n\n1 - O Conselho é composto por um representante de cada organismo mencionado no artigo 7.º\n\n2 - O Conselho garante a harmonização dos critérios que presidem à aferição de correspondência entre as necessidades da criança e as capacidades dos adotantes.\n\n3 - O Conselho tem as seguintes atribuições:\n\na) Confirmar as propostas de encaminhamento apresentadas pelas equipas de adoção, incluindo as efetuadas no âmbito de confiança administrativa com base na prestação de consentimento prévio;\n\nb) Emitir parecer prévio para efeito de concessão de autorização às instituições particulares, para intervenção em matéria de adoção;\n\nc) Acompanhar a atividade desenvolvida pelas instituições particulares autorizadas;\n\nd) Emitir recomendações aos organismos de segurança social e às instituições particulares autorizadas que intervêm em matéria de adoção, e divulgá-las publicamente.\n\n4 - Para efeitos do disposto na alínea a) do número anterior, o Conselho emite certidão da decisão de confirmação."
+  },
+  "70208370": {
+   "fragment_id": "70216878",
+   "type": 11,
+   "heading": "Artigo 13.º — Funcionamento do Conselho Nacional para a Adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funcionamento do Conselho Nacional para a Adoção\n\n1 - A coordenação do Conselho é assegurada, bienal e rotativamente, pelas entidades que o integram.\n\n2 - O Conselho reúne, ordinariamente, com uma frequência mínima quinzenal e, extraordinariamente, sempre que tal seja considerado necessário ou o volume processual assim o exija.\n\n3 - O Conselho profere decisão sobre as propostas que lhe forem remetidas, no prazo máximo de 15 dias a contar da data da respetiva apresentação.\n\n4 - A organização e o funcionamento do Conselho constam de regulamento interno que garante a celeridade dos procedimentos de confirmação."
+  },
+  "70208371": {
+   "fragment_id": "70216879",
+   "type": 11,
+   "heading": "Artigo 14.º — Padronização e publicitação de critérios e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Padronização e publicitação de critérios e procedimentos\n\n1 - A preparação, avaliação e seleção de candidatos a adotantes e as diligências para a concretização do projeto adotivo obedecem a critérios e procedimentos padronizados, de aplicação uniforme pelos organismos de segurança social e pelas entidades previstas na alínea a) do n.º 3 do artigo 1.º\n\n2 - Os critérios e procedimentos referidos no número anterior devem ser publicitados, designadamente mediante divulgação nos sítios oficiais dos organismos mencionados no artigo 7.º, de forma a permitir o seu conhecimento por parte de todos os interessados."
+  },
+  "70208372": {
+   "fragment_id": "70216880",
+   "type": 8,
+   "heading": "Secção II — Intervenção das instituições particulares sem fins lucrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Intervenção das instituições particulares sem fins lucrativos"
+  },
+  "70208373": {
+   "fragment_id": "70216881",
+   "type": 3,
+   "heading": "Subsecção I — Condições para a intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Condições para a intervenção"
+  },
+  "70208374": {
+   "fragment_id": "70216882",
+   "type": 11,
+   "heading": "Artigo 17.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Autorização\n\n1 - Constitui pressuposto do desenvolvimento de atividades compreendidas nas áreas de intervenção definidas no artigo anterior a prévia obtenção de correspondente autorização.\n\n2 - A autorização referida no número anterior é concedida por portaria dos membros do Governo responsáveis pelas áreas da justiça, da solidariedade e da segurança social, a qual define as áreas de intervenção, a competência territorial, a data do início de atividade e o prazo de vigência da autorização.\n\n3 - A autorização referida no n.º 1 carece de parecer prévio favorável do Conselho.\n\n4 - O exercício não autorizado das atividades referidas no artigo anterior faz incorrer o respetivo agente na prática de crime punível com prisão até dois anos ou multa até 240 dias."
+  },
+  "70216975": {
+   "fragment_id": "70216883",
+   "type": 11,
+   "heading": "Artigo 18.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Requisitos\n\nAs instituições particulares sem fins lucrativos que pretendam intervir no processo de adoção, nos termos do artigo 15.º, devem ser representadas e administradas por pessoas com reconhecida idoneidade, pelos seus conhecimentos ou experiência no domínio da adoção, devendo ainda preencher cumulativamente os seguintes requisitos:\n\na) Prosseguir atividades no âmbito da promoção da família e da proteção da criança;\n\nb) Não desenvolver principalmente a sua atividade no âmbito do acolhimento de crianças;\n\nc) Dispor de equipas técnicas pluridisciplinares adequadas, de acordo com o disposto no artigo 9.º"
+  },
+  "70216976": {
+   "fragment_id": "70216884",
+   "type": 11,
+   "heading": "Artigo 19.º — Requisitos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Requisitos especiais\n\n1 - As instituições particulares sem fins lucrativos que, desenvolvendo atividade no âmbito do acolhimento de crianças, pretendam intervir no processo de adoção, devem assegurar a disponibilização de equipas distintas, não podendo os técnicos afetos à equipa de acolhimento integrar simultaneamente a equipa afeta às atividades de adoção.\n\n2 - A autonomia das equipas técnicas pressupõe, além do mais, o não desenvolvimento de atividade de acolhimento e de atividades no âmbito da adoção, no mesmo espaço físico."
+  },
+  "70216977": {
+   "fragment_id": "70216885",
+   "type": 3,
+   "heading": "Subsecção II — Autorização e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Autorização e decisão"
+  },
+  "70216978": {
+   "fragment_id": "70216886",
+   "type": 11,
+   "heading": "Artigo 20.º — Pedido de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pedido de autorização\n\n1 - As instituições particulares sem fins lucrativos que pretendam intervir em matéria de adoção, nos termos previstos no RJPA, devem dirigir a sua pretensão aos membros do Governo responsáveis pelas áreas da justiça, da solidariedade e da segurança social, através de requerimento a apresentar junto do organismo de segurança social da área onde pretendam exercer a sua atividade.\n\n2 - O requerimento é acompanhado de cópia dos estatutos e de todos os documentos que se afigurem necessários à avaliação do pedido de autorização, com vista à verificação dos requisitos previstos nos artigos 18.º e 19.º"
+  },
+  "70216979": {
+   "fragment_id": "70216887",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução e decisão\n\n1 - O organismo de segurança social que receber o pedido de autorização deve instruir o processo e verificar o preenchimento dos requisitos, no prazo máximo de 15 dias, procedendo para o efeito à realização das diligências que entender necessárias.\n\n2 - Finda a instrução, o organismo de segurança social elabora informação da qual devem obrigatoriamente constar os elementos habilitantes à ponderação sobre a oportunidade do deferimento da pretensão, designadamente a existência de outras instituições particulares já autorizadas e o número de candidatos a adotantes e de crianças em situação de adotabilidade, na área territorial a que se reporta o pedido de autorização.\n\n3 - O processo é remetido ao Conselho para emissão de parecer, nos termos do n.º 3 do artigo 17.º, a proferir no prazo máximo de 30 dias.\n\n4 - Emitido parecer, o Conselho remete o processo para decisão ao membro do Governo responsável pelas áreas da solidariedade e da segurança social, para proposta de decisão conjunta.\n\n5 - A decisão relativa à pretensão é sempre notificada à instituição requerente."
+  },
+  "70216980": {
+   "fragment_id": "70216888",
+   "type": 3,
+   "heading": "Subsecção III — Articulação, acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Articulação, acompanhamento e fiscalização"
+  },
+  "70216981": {
+   "fragment_id": "70216889",
+   "type": 11,
+   "heading": "Artigo 22.º — Articulação com os organismos da segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Articulação com os organismos da segurança social\n\n1 - As instituições particulares autorizadas nos termos do RJPA desenvolvem a sua atividade em estreita articulação com o organismo de segurança social territorialmente competente, a quem incumbe a respetiva supervisão.\n\n2 - Para efeitos do disposto no número anterior, as instituições particulares autorizadas têm o dever de prestar a colaboração que lhes seja solicitada, disponibilizando a informação e demais elementos relevantes, nos prazos que lhes forem assinalados."
+  },
+  "70216982": {
+   "fragment_id": "70216890",
+   "type": 11,
+   "heading": "Artigo 23.º — Relatório de atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Relatório de atividades\n\n1 - As instituições particulares autorizadas devem enviar ao organismo de segurança social da respetiva área de intervenção, até ao fim do primeiro trimestre de cada ano, relatório de atividades do ano anterior, do qual constem, obrigatória e discriminadamente, as ações desenvolvidas em matéria de adoção, incluindo as de formação asseguradas às equipas técnicas, bem como as receitas e despesas associadas.\n\n2 - O organismo de segurança social, no prazo de 15 dias, envia ao Conselho o relatório de atividades, acompanhado de parecer, para os efeitos previstos na alínea c) do n.º 3 do artigo 12.º"
+  },
+  "70216983": {
+   "fragment_id": "70216891",
+   "type": 11,
+   "heading": "Artigo 24.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Fiscalização\n\n1 - A Inspeção-Geral do Ministério da Solidariedade, Emprego e Segurança Social, adiante designada por Inspeção-Geral, fiscaliza, através de auditoria e inspeção, a atividade das instituições particulares autorizadas a intervir em matéria de adoção.\n\n2 - Nas ações de fiscalização, a Inspeção-Geral é, sempre que necessário, apoiada por consultores designados de entre técnicos que exerçam a supervisão da atividade das instituições."
+  },
+  "70216984": {
+   "fragment_id": "70216892",
+   "type": 3,
+   "heading": "Subsecção IV — Revogação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Revogação da autorização"
+  },
+  "70216985": {
+   "fragment_id": "70216893",
+   "type": 11,
+   "heading": "Artigo 25.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação\n\n1 - A autorização concedida nos termos do RJPA pode ser revogada por portaria dos membros do Governo responsáveis pelas áreas da justiça, da solidariedade e da segurança social, mediante proposta devidamente fundamentada da Inspeção-Geral ou do Conselho.\n\n2 - Constituem fundamentos para a revogação a assunção de procedimentos e práticas que contrariem os fins visados pela adoção e, bem assim, a falta de observância dos critérios de padronização a que alude o artigo 14.º\n\n3 - Constituem, ainda, fundamento para a revogação:\n\na) A não observância dos requisitos previstos nos artigos 18.º e 19.º;\n\nb) O não exercício da atividade objeto da autorização por um período de um ano.\n\n4 - A apresentação de proposta de revogação, nos termos do n.º 1, acarreta a imediata suspensão da autorização para o exercício da atividade, até à prolação da decisão final.\n\n5 - A decisão final deve ser proferida no prazo máximo de 60 dias."
+  },
+  "70216986": {
+   "fragment_id": "70216894",
+   "type": 8,
+   "heading": "Secção III — Intervenção do Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Intervenção do Ministério Público"
+  },
+  "70216987": {
+   "fragment_id": "70216895",
+   "type": 11,
+   "heading": "Artigo 26.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Natureza\n\nO Ministério Público intervém no processo de adoção defendendo os direitos e promovendo o superior interesse da criança."
+  },
+  "70216988": {
+   "fragment_id": "70216896",
+   "type": 11,
+   "heading": "Artigo 27.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competências\n\nCompete, em especial, ao Ministério Público:\n\na) Pronunciar-se sobre os recursos interpostos pelos candidatos à adoção das decisões de rejeição de candidaturas;\n\nb) Pronunciar-se sobre a conformidade da confiança administrativa com o interesse da criança, na pendência de processo de promoção e proteção ou tutelar cível;\n\nc) Receber as comunicações dos organismos de segurança social das decisões relativas a confiança administrativa;\n\nd) Promover as iniciativas processuais cíveis ou de proteção na sequência de comunicação do organismo de segurança social, nos casos de não atribuição de confiança administrativa;\n\ne) Requerer a prestação de consentimento prévio para a adoção;\n\nf) Requerer a curadoria provisória, no caso de os adotantes o não terem feito, no prazo de 30 dias após a decisão de confiança administrativa;\n\ng) Emitir parecer na fase final do processo de adoção;\n\nh) Representar a criança no incidente de revisão da adoção;\n\ni) Pronunciar-se sobre pedidos de consulta que hajam sido formulados nos termos do n.º 3 do artigo 4.º, ou requerer ao tribunal a respetiva autorização;\n\nj) Requerer a averiguação dos pressupostos da dispensa do consentimento dos pais do adotando ou das pessoas que o devam prestar em sua substituição, nos termos do artigo 1981.º do Código Civil, bem como pronunciar-se sobre o requerimento nesse sentido apresentado pelo adotante;\n\nk) Informar o adotado, a requerimento deste, do direito de acesso ao conhecimento das suas origens e respetivo exercício, prestando-lhe os esclarecimentos relevantes e o apoio técnico necessário, bem como, sendo caso disso, solicitando a quaisquer entidades informações e antecedentes sobre o adotado, os seus progenitores, tutores ou detentores da guarda de facto, desencadeando os procedimentos no sentido da sua obtenção;\n\nl) Requerer ao tribunal ou pronunciar-se, caso não seja o requerente, sobre a concessão de autorização para acesso a elementos da história pessoal do adotado;\n\nm) Requerer ao tribunal a cessação dos contactos pessoais entre o adotado e elementos da família biológica autorizados na sentença de adoção, ao abrigo do n.º 3 do artigo 1986.º do Código Civil."
+  },
+  "70216989": {
+   "fragment_id": "70216897",
+   "type": 8,
+   "heading": "Secção IV — Intervenção do tribunal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Intervenção do tribunal"
+  },
+  "70216990": {
+   "fragment_id": "70216898",
+   "type": 11,
+   "heading": "Artigo 28.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Natureza\n\nOs tribunais exercem no processo de adoção as funções que a Constituição lhes confere, garantindo o cumprimento da lei, assegurando a promoção e defesa dos direitos das crianças e fazendo prevalecer o seu superior interesse, sem prejuízo da consideração devida aos interesses legítimos das famílias biológicas e dos adotantes ou candidatos à adoção."
+  },
+  "70216991": {
+   "fragment_id": "70216899",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências\n\nCompete, em especial, ao tribunal em matéria de adoção:\n\na) Presidir à prestação do consentimento prévio para a adoção;\n\nb) Apreciar e decidir os recursos das decisões de rejeição de candidatura a adoção proferidas pelos organismos de segurança social ou pelas instituições particulares autorizadas;\n\nc) Estando pendente processo de promoção e proteção ou tutelar cível, decidir sobre a conformidade da confiança administrativa com o interesse da criança;\n\nd) Nomear curador provisório logo que decretada a confiança com vista à adoção ou decidida a confiança administrativa e, bem assim, proceder à transferência da curadoria provisória para o candidato a adotante logo que identificado;\n\ne) Decretar a adoção e decidir sobre a composição do nome da criança adotada;\n\nf) Autorizar excecionalmente a manutenção de contactos pessoais entre o adotado e elementos da família biológica, nos termos previstos no n.º 3 do artigo 1986.º do Código Civil, bem como determinar a sua cessação;\n\ng) Decidir do incidente de revisão da adoção;\n\nh) Conceder autorização para acesso a elementos da história pessoal do adotado nos termos previstos nos n.os 6 e 7 do artigo 6.º"
+  },
+  "70216992": {
+   "fragment_id": "70216900",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência territorial\n\n1 - Sem prejuízo do disposto no n.º 3, as competências do tribunal em matéria de adoção são exercidas pelas secções de família e menores da instância central, de acordo com as seguintes regras:\n\na) Para conhecer das matérias a que se referem as alíneas c) a f) e h) do artigo anterior é competente o tribunal da residência da criança, nos termos previstos na Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pelas Leis n.os 31/2003, de 22 de agosto, e 142/2015, de 8 de setembro, e no Regime Geral do Processo Tutelar Cível, aprovado pela Lei n.º 141/2015, de 8 de setembro;\n\nb) Para conhecer da matéria a que se refere a alínea b) do artigo anterior é competente o tribunal da área da sede do organismo de segurança social ou da instituição particular autorizada;\n\nc) Para conhecer da matéria a que se refere a alínea g) do artigo anterior é competente o tribunal que decretou a adoção.\n\n2 - Nas áreas não abrangidas pela jurisdição das secções de família e menores cabe às secções da instância local ou, em caso de não ocorrer desdobramento, às secções de competência genérica da instância local, conhecer das matérias elencadas no número anterior.\n\n3 - Para efeito de prestação de consentimento prévio para a adoção é competente qualquer secção de família e menores da instância central ou qualquer secção de competência genérica ou cível da instância local, independentemente da residência da criança ou das pessoas que o pretendam prestar."
+  },
+  "70216993": {
+   "fragment_id": "70216901",
+   "type": 1,
+   "heading": "Capítulo II — Processo de adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Processo de adoção"
+  },
+  "70216994": {
+   "fragment_id": "70216902",
+   "type": 8,
+   "heading": "Secção I — Preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Preliminares"
+  },
+  "70216995": {
+   "fragment_id": "70216903",
+   "type": 11,
+   "heading": "Artigo 33.º — Comunicações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comunicações obrigatórias\n\n1 - Quem tiver criança a seu cargo em situação de poder vir a ser adotada deve dar conhecimento da situação ao organismo de segurança social da área da sua residência, que avalia a situação.\n\n2 - O organismo de segurança social deve dar conhecimento imediato ao magistrado do Ministério Público junto do tribunal competente das comunicações recebidas nos termos do número anterior e informar, em prazo não superior a três meses, do resultado dos estudos que realizar e das providências que tomar."
+  },
+  "70216996": {
+   "fragment_id": "70216904",
+   "type": 11,
+   "heading": "Artigo 34.º — Pressupostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Pressupostos\n\n1 - A prolação da decisão judicial constitutiva do vínculo da adoção depende de:\n\na) Prévia declaração de adotabilidade decidida no âmbito de processo judicial de promoção e proteção, mediante decretamento de medida de confiança a que alude a alínea g) do n.º 1 do artigo 35.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pelas Leis n.os 31/2003, de 22 de agosto, e 142/2015, de 8 de setembro;\n\nb) Prévia decisão de confiança administrativa, reunidos que se mostrem os necessários requisitos;\n\nc) Prévia avaliação favorável da pretensão expressa pelo candidato a adotante relativamente à adoção do filho do cônjuge, tendo em conta o superior interesse da criança.\n\n2 - A confiança administrativa resulta de decisão do organismo de segurança social:\n\na) Que proceda à entrega de criança, relativamente à qual haja sido prestado consentimento prévio para a adoção, ao candidato a adotante; ou\n\nb) Que confirme a permanência de criança a cargo do candidato a adotante que sobre ela exerça já as responsabilidades parentais, nos termos previstos na alínea a) do n.º 8 do artigo 36.º\n\n3 - A avaliação a que alude a alínea c) do n.º 1 tem lugar na sequência de um período de pré-adoção, não superior a três meses, o qual tem início imediatamente após a formulação da pretensão pelo candidato a adotante."
+  },
+  "70216997": {
+   "fragment_id": "70216905",
+   "type": 11,
+   "heading": "Artigo 35.º — Consentimento prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Consentimento prévio\n\n1 - Sem prejuízo do disposto no n.º 3 do artigo 1982.º do Código Civil, a prestação do consentimento prévio pode ser requerida pelas pessoas que o devam prestar, pelo Ministério Público ou pelos organismos de segurança social.\n\n2 - Recebido o requerimento, o juiz designa imediatamente hora para prestação do consentimento, a qual tem lugar no próprio dia ou, caso tal não se revele possível, no mais curto prazo, na presença das pessoas que o devam prestar e do Ministério Público.\n\n3 - A prestação de consentimento prévio por quem tenha idade igual ou superior a 16 anos é válida, não carecendo de autorização dos pais ou do representante legal.\n\n4 - Da prestação de consentimento é lavrado auto assinado pelo próprio.\n\n5 - Requerida a adoção, o incidente é apensado ao respetivo processo.\n\n6 - O recurso interposto das decisões proferidas em processos relativos ao consentimento prévio para a adoção tem efeito suspensivo."
+  },
+  "70216998": {
+   "fragment_id": "70216906",
+   "type": 11,
+   "heading": "Artigo 36.º — Requisitos da confiança administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Requisitos da confiança administrativa\n\n1 - A confiança administrativa só pode ser atribuída se, após audição da criança de idade superior a 12 anos, ou de idade inferior, em atenção ao seu grau de maturidade e discernimento, resultar, inequivocamente, que aquela não se opõe a tal decisão.\n\n2 - A atribuição da confiança administrativa pressupõe ainda, sendo caso disso, a audição do representante legal, de quem tiver a guarda de direito e de quem tiver a guarda de facto da criança.\n\n3 - A confiança administrativa só pode ter lugar quando for possível formular um juízo de prognose favorável relativamente à compatibilização entre as necessidades da criança e as capacidades do candidato.\n\n4 - A oposição manifestada por alguma das pessoas referidas no n.º 2 pode também fundamentar a não atribuição de confiança administrativa.\n\n5 - Nos casos em que não seja atribuída a confiança administrativa, o Ministério Público promove as iniciativas processuais cíveis ou de proteção adequadas ao caso, na sequência da correspondente comunicação do organismo de segurança social.\n\n6 - Estando pendente processo judicial de promoção e proteção ou tutelar cível, é também necessário que o tribunal, a requerimento do organismo de segurança social, ouvido o Ministério Público, considere que a confiança administrativa corresponde ao superior interesse da criança.\n\n7 - A apreciação do tribunal reveste caráter urgente, devendo ter lugar no prazo máximo de 15 dias após a entrada do requerimento apresentado pelo organismo de segurança social.\n\n8 - A decisão de confiança administrativa na modalidade de confirmação da permanência da criança a cargo do candidato a adotante pressupõe:\n\na) Que o exercício das responsabilidades parentais relativas à esfera pessoal da criança lhe haja sido previamente atribuído, no âmbito de providência tutelar cível;\n\nb) Prévia avaliação da pretensão expressa pelo candidato a adotante relativamente à criança a cargo, tendo em conta o seu superior interesse."
+  },
+  "70216999": {
+   "fragment_id": "70216907",
+   "type": 11,
+   "heading": "Artigo 37.º — Deveres específicos dos organismos de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Deveres específicos dos organismos de segurança social\n\n1 - No âmbito da confiança administrativa, o organismo de segurança social deve:\n\na) Iniciar as diligências com vista à tomada de decisão, logo que receba comunicação da prestação de consentimento prévio para a adoção;\n\nb) Solicitar ao tribunal que se pronuncie nos termos do n.º 6 do artigo anterior;\n\nc) Apresentar ao Conselho, no prazo máximo de 30 dias, proposta de encaminhamento com vista a uma confiança administrativa;\n\nd) Comunicar, em cinco dias, ao Ministério Público junto do tribunal competente, nos termos dos artigos 29.º e 30.º, a decisão final relativa à confiança administrativa e os respetivos fundamentos, incluindo os que, nos termos do artigo anterior, hajam impedido a confiança;\n\ne) Efetuar as comunicações necessárias à conservatória do registo civil onde estiver lavrado o assento de nascimento da criança para efeitos de preservação do segredo de identidade previsto no artigo 1985.º do Código Civil;\n\nf) Emitir e entregar ao candidato a adotante certificado da data em que a criança lhe foi confiada.\n\n2 - O prazo referido na alínea c) do número anterior pode ser prorrogado, por igual período, em casos excecionais devidamente justificados."
+  },
+  "70217000": {
+   "fragment_id": "70216908",
+   "type": 11,
+   "heading": "Artigo 38.º — Prejudicialidade e suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Prejudicialidade e suspensão\n\n1 - Os procedimentos legais visando a averiguação e a investigação da maternidade ou paternidade não revestem caráter de prejudicialidade face ao processo de adoção.\n\n2 - A aplicação de medida de promoção e proteção de confiança com vista a futura adoção suspende o processo de averiguação oficiosa da maternidade e da paternidade.\n\n3 - Sem prejuízo do disposto no número anterior, serão ultimados os atos de instrução já ordenados e a prova produzida poderá ser aproveitada em ação de investigação da maternidade ou paternidade.\n\n4 - O disposto no número anterior não poderá prejudicar o segredo inerente ao processo de adoção e seus preliminares, bem como à identidade dos adotantes."
+  },
+  "70217001": {
+   "fragment_id": "70216909",
+   "type": 11,
+   "heading": "Artigo 39.º — Iniciativas do tribunal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Iniciativas do tribunal\n\n1 - O tribunal deve comunicar ao organismo de segurança social o consentimento prévio para a adoção, logo que prestado.\n\n2 - Deve igualmente remeter ao organismo de segurança social ou instituição particular autorizada, consoante os casos, cópias das sentenças proferidas nos processos de promoção e proteção, com nota do respetivo trânsito em julgado, quando aplicada medida de confiança com vista a futura adoção.\n\n3 - Recebida alguma das comunicações referidas nos números anteriores, o organismo de segurança social ou instituição particular autorizada, consoante os casos, adota as providências necessárias para a preservação do segredo de identidade a que se refere o n.º 2 do artigo 1985.º do Código Civil."
+  },
+  "70217002": {
+   "fragment_id": "70216910",
+   "type": 8,
+   "heading": "Secção II — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Tramitação"
+  },
+  "70217003": {
+   "fragment_id": "70216911",
+   "type": 3,
+   "heading": "Subsecção I — Fase preparatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Fase preparatória"
+  },
+  "70217004": {
+   "fragment_id": "70216912",
+   "type": 11,
+   "heading": "Artigo 41.º — Estudo de caracterização e preparação da criança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Estudo de caracterização e preparação da criança\n\n1 - Recebida alguma das comunicações previstas no artigo 39.º, o organismo de segurança social ou instituição particular autorizada procede, no prazo máximo de 30 dias, ao estudo de caracterização da criança, o qual incide sobre as suas específicas necessidades, nos diversos domínios relevantes do crescimento e desenvolvimento, bem como sobre a sua situação familiar e jurídica.\n\n2 - O estudo de caracterização é necessariamente instruído com o parecer da equipa técnica da instituição, caso a criança se encontre acolhida.\n\n3 - As crianças com medida de adotabilidade aplicada são inscritas na lista nacional a que se refere o artigo 10.º, sendo-lhes obrigatoriamente proporcionada, de acordo com programa próprio, intervenção técnica adequada à concretização do projeto adotivo."
+  },
+  "70217005": {
+   "fragment_id": "70216913",
+   "type": 11,
+   "heading": "Artigo 42.º — Informação ao tribunal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Informação ao tribunal\n\n1 - Decorridos três meses sobre a decisão de adotabilidade, a equipa de adoção comunica oficiosa e fundamentadamente ao tribunal o resultado das diligências já efetuadas com vista à concretização do projeto de adoção.\n\n2 - A informação é atualizada trimestralmente e, em qualquer caso, sempre que ocorram factos supervenientes relevantes."
+  },
+  "70217006": {
+   "fragment_id": "70216914",
+   "type": 11,
+   "heading": "Artigo 43.º — Candidatura à adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Candidatura à adoção\n\n1 - Quem pretender adotar deve manifestar essa intenção, pessoalmente ou por via eletrónica, junto de qualquer equipa de adoção dos organismos de segurança social ou instituição particular autorizada.\n\n2 - Recebida a comunicação prevista no número anterior, a equipa de adoção presta, no prazo máximo de 30 dias, toda a informação necessária ao conhecimento do processo de adoção e à formalização da candidatura.\n\n3 - A formalização da candidatura só se concretiza mediante o preenchimento e entrega de requerimento próprio acompanhado de:\n\na) Documentos comprovativos da residência, idade, estado civil, situação económica, saúde e idoneidade;\n\nb) Declaração relativa à disponibilidade para participar no processo de preparação, avaliação e seleção para a adoção.\n\n4 - Para efeitos de aferição preliminar do estado de saúde e idoneidade, o interessado deve juntar declaração médica e certificado do registo criminal, respetivamente.\n\n5 - O organismo de segurança social ou instituição particular autorizada indefere liminarmente a candidatura sempre que da mera apreciação documental resulte manifesta a não verificação dos pressupostos substanciais previstos no Código Civil.\n\n6 - O organismo de segurança social ou instituição particular autorizada emite e entrega ao candidato a adotante certificado da formalização da candidatura do qual conste a data da respetiva admissão."
+  },
+  "70217007": {
+   "fragment_id": "70216915",
+   "type": 11,
+   "heading": "Artigo 44.º — Preparação, avaliação e seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Preparação, avaliação e seleção\n\n1 - Logo após a formalização da candidatura, o organismo de segurança social ou a instituição particular autorizada dá início ao conjunto de procedimentos de preparação, avaliação e seleção, o qual deve estar concluído no prazo máximo de seis meses.\n\n2 - O conjunto de procedimentos de preparação, avaliação e seleção é composto por sessões formativas, entrevistas psicossociais e aplicação de outros instrumentos de avaliação técnica complementar, designadamente de avaliação psicológica, tendo em vista a capacitação do candidato e a emissão de parecer sobre a pretensão.\n\n3 - A avaliação da pretensão do candidato a adotante e o correspondente parecer devem incidir, nomeadamente, sobre a personalidade, a saúde, a idoneidade para criar e educar a criança, a situação familiar e económica do candidato a adotante e as razões determinantes do pedido.\n\n4 - Em caso de parecer desfavorável, é obrigatória a audiência dos interessados em momento prévio ao da decisão da rejeição da candidatura, nos termos previstos no Código do Procedimento Administrativo.\n\n5 - Concluídos os procedimentos, o organismo de segurança social ou a instituição particular autorizada profere decisão fundamentada e notifica-a ao candidato.\n\n6 - Em caso de aceitação da candidatura, é emitido certificado de seleção, sendo os candidatos selecionados obrigatoriamente inscritos na lista nacional, nos termos do artigo 10.º\n\n7 - Em caso de rejeição da candidatura, a notificação da decisão deve incluir referência à possibilidade de recurso, menção do prazo e identificação do tribunal competente para o efeito."
+  },
+  "70217008": {
+   "fragment_id": "70216916",
+   "type": 11,
+   "heading": "Artigo 45.º — Validade e renovação do certificado de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Validade e renovação do certificado de seleção\n\n1 - O certificado de seleção tem uma validade de três anos, podendo ser renovado por sucessivos e idênticos períodos a pedido expresso do candidato, antes que ocorra a respetiva caducidade.\n\n2 - A renovação do certificado de seleção pressupõe a reapreciação da candidatura, aplicando-se, com as necessárias adaptações, o disposto no artigo 43.º\n\n3 - O candidato selecionado deve comunicar ao organismo de segurança social ou instituição particular autorizada que admitiu a sua candidatura qualquer facto superveniente suscetível de ter impacto no projeto de adoção, nomeadamente mudança de residência e alteração da situação familiar.\n\n4 - A comunicação referida no número anterior determina a reavaliação da situação e eventual revisão da decisão proferida."
+  },
+  "70217009": {
+   "fragment_id": "70216917",
+   "type": 11,
+   "heading": "Artigo 46.º — Recurso da decisão de rejeição da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Recurso da decisão de rejeição da candidatura\n\n1 - Da decisão que rejeite a candidatura apenas cabe recurso, a interpor no prazo de 30 dias, para o tribunal competente em matéria de família e menores da área da sede do organismo da segurança social ou da instituição particular autorizada.\n\n2 - O requerimento, acompanhado das respetivas alegações, é apresentado à entidade que proferiu a decisão, que pode repará-la.\n\n3 - Caso a entidade que proferir a decisão não a repare, deve remeter, no prazo máximo de 15 dias, o processo ao tribunal com as observações que entender convenientes, sendo o recorrente notificado da respetiva remessa.\n\n4 - Recebido o recurso, o juiz ordena as diligências que julgue necessárias e, dada vista ao Ministério Público, profere decisão no prazo de 15 dias.\n\n5 - A decisão a que se refere o número anterior não admite recurso."
+  },
+  "70217010": {
+   "fragment_id": "70216918",
+   "type": 11,
+   "heading": "Artigo 47.º — Preparação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Preparação complementar\n\nSempre que o competente organismo de segurança social ou instituição particular autorizada considere essencial à boa integração da criança em situação de adotabilidade a frequência pelos candidatos selecionados de ações de preparação complementar, são estas disponibilizadas, revestindo caráter obrigatório."
+  },
+  "70217011": {
+   "fragment_id": "70216919",
+   "type": 3,
+   "heading": "Subsecção II — Fase de ajustamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Fase de ajustamento"
+  },
+  "70217012": {
+   "fragment_id": "70216920",
+   "type": 11,
+   "heading": "Artigo 48.º — Aferição de correspondência entre necessidades e capacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Aferição de correspondência entre necessidades e capacidades\n\n1 - O organismo de segurança social ou a instituição particular autorizada responsável pelo diagnóstico das necessidades da criança em situação de adotabilidade, procede a pesquisa, nas listas nacionais, dos candidatos relativamente aos quais seja legítimo efetuar um juízo de prognose favorável de compatibilização entre as suas capacidades e as necessidades da criança.\n\n2 - O resultado da pesquisa é comunicado à equipa técnica que efetuou a preparação, avaliação e seleção dos candidatos, nos termos e para os efeitos previstos nos artigos 11.º e 12.º\n\n3 - Obtida a decisão do Conselho, o organismo de segurança social ou instituição particular autorizada apresenta ao concreto candidato identificado a proposta de adoção."
+  },
+  "70217013": {
+   "fragment_id": "70216921",
+   "type": 11,
+   "heading": "Artigo 49.º — Período de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Período de transição\n\n1 - Aceite a proposta de adoção, inicia-se um período de transição em que se promove o conhecimento mútuo, com vista à aferição da existência de indícios favoráveis à vinculação afetiva entre o adotando e o candidato a adotante.\n\n2 - Durante o período de transição são promovidos encontros, devidamente preparados e observados pela equipa de adoção do organismo de segurança social ou instituição particular autorizada, conjuntamente, consoante os casos, com a equipa técnica da instituição onde a criança se encontra acolhida ou com a equipa técnica da instituição de enquadramento da família de acolhimento que tenha a criança a seu cargo.\n\n3 - Quando considerado necessário, a equipa técnica que efetuou a seleção dos candidatos pode ser chamada a participar nas atividades a que se refere o número anterior.\n\n4 - O período de transição decorre pelo tempo mais curto e estritamente necessário ao cumprimento dos seus objetivos, tendo uma duração variável, em função das características da criança e da família adotante, não devendo exceder 15 dias.\n\n5 - Findo o período de transição, considerando-se não existir qualquer facto que obste à continuidade do processo, inicia-se o período de pré-adoção.\n\n6 - Sempre que a avaliação técnica aponte para a inexistência de indícios favoráveis à vinculação afetiva entre a criança e o candidato a adotante, deve ocorrer a imediata cessação do período de transição, com a correspondente comunicação obrigatória ao Conselho."
+  },
+  "70217014": {
+   "fragment_id": "70216922",
+   "type": 11,
+   "heading": "Artigo 50.º — Período de pré-adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Período de pré-adoção\n\n1 - O organismo de segurança social ou instituição particular autorizada acompanha a integração da criança na família adotante, avaliando a viabilidade do estabelecimento da relação parental, num período de pré-adoção não superior a seis meses.\n\n2 - Durante este período, o organismo de segurança social ou instituição particular autorizada presta todo o apoio e desencadeia as ações necessárias a um acompanhamento efetivo tendo em vista a construção e a consolidação do vínculo familiar.\n\n3 - Para os efeitos previstos nos números anteriores, quando, em virtude de deslocalização da criança, a equipa a quem incumba o acompanhamento da pré-adoção seja diversa da que procedeu à aferição da correspondência entre as necessidades da criança e as capacidades do candidato, deve privilegiar-se o acompanhamento por parte desta última.\n\n4 - Decorrido o período a que se refere o n.º 1 ou logo que verificadas as condições para ser requerida a adoção, o organismo de segurança social ou a instituição particular autorizada elabora, em 30 dias, relatório incidindo sobre as matérias a que se refere a alínea i) do artigo 8.º, concluindo com parecer relativo à concretização do projeto adotivo.\n\n5 - Excecionalmente, e em situações devidamente fundamentadas, o prazo referido no n.º 1 pode ser alargado por um período máximo de três meses, devendo esse facto ser comunicado ao Ministério Público.\n\n6 - O organismo de segurança social ou instituição particular autorizada notifica o adotante do teor integral do relatório referido no n.º 4.\n\n7 - Pode, a todo o tempo, ser decidida a cessação do período de pré-adoção, com fundamento na defesa do superior interesse da criança.\n\n8 - Quer a decisão de cessação do período de pré-adoção, quer o parecer desfavorável à prossecução do projeto adotivo, são obrigatória e fundamentadamente comunicados ao tribunal que decretou a curadoria provisória e ao Conselho."
+  },
+  "70217015": {
+   "fragment_id": "70216923",
+   "type": 11,
+   "heading": "Artigo 51.º — Suprimento do exercício das responsabilidades parentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Suprimento do exercício das responsabilidades parentais\n\n1 - O organismo de segurança social ou a instituição particular autorizada solicita a transferência da curadoria provisória da criança, instituída nos termos do n.º 3 do artigo 62.º-A da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pelas Leis n.os 31/2003, de 22 de agosto, e 142/2015, de 8 de setembro, para o candidato a adotante logo que este seja identificado.\n\n2 - O adotante que, mediante confiança administrativa, haja tomado a criança a seu cargo com vista a futura adoção deve requerer ao tribunal a sua nomeação como curador provisório até ser decretada a adoção ou instituída outra providência tutelar cível.\n\n3 - A curadoria provisória é requerida pelo Ministério Público se, decorridos 30 dias sobre a decisão de confiança administrativa, o não tiver sido nos termos do número anterior.\n\n4 - Nos casos previstos nos n.os 2 e 3, o incidente de nomeação de curador provisório é apensado ao processo judicial de adoção.\n\n5 - O curador provisório tem os direitos e deveres do tutor."
+  },
+  "70217016": {
+   "fragment_id": "70216924",
+   "type": 3,
+   "heading": "Subsecção III — Fase final - Processo judicial de adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Fase final - Processo judicial de adoção"
+  },
+  "70217017": {
+   "fragment_id": "70216925",
+   "type": 11,
+   "heading": "Artigo 52.º — Iniciativa processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Iniciativa processual\n\n1 - A fase final do processo de adoção inicia-se com o requerimento apresentado pelo adotante junto do tribunal competente.\n\n2 - A adoção só pode ser requerida após a notificação prevista no n.º 6 do artigo 50.º ou decorrido o prazo de elaboração do relatório.\n\n3 - Caso a adoção não seja requerida dentro do prazo de três meses, o organismo de segurança social ou a instituição particular autorizada reaprecia obrigatoriamente a situação, apurando as razões que o determinaram e toma as providências adequadas à salvaguarda do superior interesse da criança.\n\n4 - Sem prejuízo do disposto no n.º 1 do artigo 55.º, os pais biológicos não são notificados para os termos do processo."
+  },
+  "70217018": {
+   "fragment_id": "70216926",
+   "type": 11,
+   "heading": "Artigo 53.º — Requerimento inicial e relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Requerimento inicial e relatório\n\n1 - No requerimento inicial, o adotante deve alegar os factos tendentes a demonstrar os requisitos gerais previstos no n.º 1 do artigo 1974.º do Código Civil, bem como as demais condições necessárias à constituição do vínculo jurídico da adoção.\n\n2 - Com o requerimento deve o adotante oferecer desde logo todos os meios de prova, nomeadamente certidões de cópia integral do registo de nascimento do adotando e do adotante, bem como certificado comprovativo da verificação de algum dos pressupostos enunciados no n.º 1 do artigo 34.º e o relatório previsto no n.º 4 do artigo 50.º\n\n3 - Caso o relatório não acompanhe o requerimento, o tribunal solicita-o ao organismo de segurança social competente ou à instituição particular autorizada que o deve remeter, no prazo máximo de 15 dias, prorrogável por igual período, em caso devidamente justificado."
+  },
+  "70217019": {
+   "fragment_id": "70216927",
+   "type": 11,
+   "heading": "Artigo 54.º — Diligências subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Diligências subsequentes\n\n1 - Junto o relatório, o juiz, com a presença do Ministério Público, ouve obrigatoriamente:\n\na) O adotante;\n\nb) As pessoas cujo consentimento a lei exija e não haja sido previamente prestado ou dispensado;\n\nc) O adotando, nos termos e com observância das regras previstas para a audição de crianças nos processos tutelares cíveis.\n\n2 - A audição das pessoas referidas no número anterior é feita separadamente e por forma a salvaguardar o segredo de identidade.\n\n3 - O juiz esclarece as pessoas de cujo consentimento a adoção depende sobre o significado e os efeitos do ato e recolhe os consentimentos que forem prestados, de tudo se lavrando ata."
+  },
+  "70217020": {
+   "fragment_id": "70216928",
+   "type": 11,
+   "heading": "Artigo 55.º — Averiguação dos pressupostos da dispensa do consentimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Averiguação dos pressupostos da dispensa do consentimento\n\n1 - Sempre que o processo de adoção não tiver sido precedido de aplicação de medida de confiança com vista a futura adoção, no âmbito de processo de promoção e proteção, a averiguação dos pressupostos da dispensa do consentimento dos pais do adotando ou das pessoas que o devam prestar em sua substituição, nos termos do artigo 1981.º do Código Civil, deve ser efetuada no próprio processo de adoção, oficiosamente ou a requerimento do Ministério Público, ou dos adotantes, ouvido o Ministério Público.\n\n2 - Para efeitos do disposto no número anterior, o juiz ordena as diligências e assegura o contraditório relativamente às pessoas cujo consentimento pode ser dispensado, sem prejuízo da salvaguarda do segredo de identidade."
+  },
+  "70217021": {
+   "fragment_id": "70216929",
+   "type": 11,
+   "heading": "Artigo 56.º — Sentença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Sentença\n\n1 - Efetuadas as diligências requeridas e outras julgadas convenientes e ouvido o Ministério Público, é proferida sentença.\n\n2 - A sentença de adoção não é, em caso algum, notificada aos pais biológicos.\n\n3 - Sem prejuízo do disposto no número anterior, a extinção do vínculo da filiação biológica e a respetiva data, com salvaguarda do segredo de identidade, previsto no artigo 1985.º do Código Civil, são comunicadas aos pais biológicos e, na falta destes, a outros ascendentes do adotado, preferindo os de grau mais próximo.\n\n4 - A comunicação referida no número anterior terá lugar aquando do averbamento da adoção ao assento de nascimento do adotado, nos termos previstos no Código de Registo Civil, a efetuar com salvaguarda da identidade dos adotantes.\n\n5 - Excecionalmente, a sentença pode estabelecer a manutenção de contactos pessoais entre o adotado e elementos da família biológica, verificadas as condições e os limites previstos no n.º 3 do artigo 1986.º do Código Civil."
+  },
+  "70217022": {
+   "fragment_id": "70216930",
+   "type": 11,
+   "heading": "Artigo 57.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Revisão\n\n1 - No incidente de revisão, bem como no recurso extraordinário de revisão, a criança é representada pelo Ministério Público.\n\n2 - Apresentado o pedido no incidente de revisão da adoção, são citados os requeridos e o Ministério Público para contestar.\n\n3 - Ao incidente, que corre por apenso ao processo de adoção, é aplicável, com as necessárias adaptações, o disposto nos artigos 54.º a 56.º do Regime Geral do Processo Tutelar Cível, aprovado pela Lei n.º 141/2015, de 8 de setembro."
+  },
+  "70217023": {
+   "fragment_id": "70216931",
+   "type": 11,
+   "heading": "Artigo 58.º — Apensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Apensação\n\nO processo de promoção e proteção é apensado ao de adoção quando nele tenha sido aplicada medida de confiança com vista a futura adoção, com observância do disposto nos artigos 4.º e 5.º"
+  },
+  "70217024": {
+   "fragment_id": "70216932",
+   "type": 11,
+   "heading": "Artigo 59.º — Prazo e seu excesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Prazo e seu excesso\n\n1 - Na falta de disposição especial, é de 10 dias o prazo para a prática de qualquer ato processual.\n\n2 - Os despachos ou promoções de mero expediente, bem como os considerados urgentes, devem ser proferidos no prazo máximo de dois dias.\n\n3 - Decorridos três meses sobre o termo do prazo fixado para a prática de ato próprio do juiz sem que o mesmo tenha sido praticado, deve o juiz consignar a concreta razão da inobservância do prazo.\n\n4 - A secretaria remete, mensalmente, ao presidente do tribunal informação discriminada dos casos em que se mostrem decorridos três meses sobre o termo do prazo fixado para a prática de ato próprio do juiz, ainda que o ato tenha sido entretanto praticado, incumbindo ao presidente do tribunal, no prazo de 10 dias a contar da data de receção, remeter o expediente à entidade com competência disciplinar."
+  },
+  "70217025": {
+   "fragment_id": "70216933",
+   "type": 3,
+   "heading": "Subsecção IV — Pós-adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Pós-adoção"
+  },
+  "70217026": {
+   "fragment_id": "70216934",
+   "type": 11,
+   "heading": "Artigo 60.º — Acompanhamento pós-adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Acompanhamento pós-adoção\n\n1 - O acompanhamento pós-adoção ocorre em momento posterior ao trânsito em julgado da sentença constitutiva do vínculo de adoção, depende de solicitação expressa dos destinatários e traduz-se numa intervenção técnica especializada junto do adotado e da respetiva família, proporcionando aconselhamento e apoio na superação de dificuldades decorrentes da filiação e parentalidade adotivas.\n\n2 - O acompanhamento pós-adoção é efetuado até à idade de 18 anos do adotado, podendo ser estendido até aos 21 anos, quando aquele solicite a continuidade da intervenção antes de atingir a maioridade.\n\n3 - O acompanhamento pode, ainda, determinar o envolvimento de outros técnicos ou entidades com competência em matéria de infância e juventude sempre que tal se revele necessário à prossecução das finalidades visadas.\n\n4 - O acompanhamento referido no presente artigo compete aos organismos de segurança social ou às instituições particulares autorizadas."
+  },
+  "70217027": {
+   "fragment_id": "70216935",
+   "type": 13,
+   "heading": "Título III — Adoção internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Adoção internacional"
+  },
+  "70217028": {
+   "fragment_id": "70216936",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70217029": {
+   "fragment_id": "70216937",
+   "type": 11,
+   "heading": "Artigo 61.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Objeto\n\n1 - As disposições do presente título aplicam-se aos processos de adoção em que ocorra a transferência de uma criança do seu país de residência habitual para o país da residência habitual dos adotantes, com vista ou na sequência da sua adoção.\n\n2 - As questões relativas à determinação da lei aplicável e à competência das autoridades judiciárias são reguladas, respetivamente, pelas normas de conflitos do Código Civil e pelas disposições do Código do Processo Civil em matéria de competência internacional."
+  },
+  "70217030": {
+   "fragment_id": "70216938",
+   "type": 11,
+   "heading": "Artigo 62.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Princípios orientadores\n\nPara além dos princípios referidos no artigo 3.º, a intervenção em matéria de adoção internacional obedece ainda aos seguintes princípios:\n\na) Subsidiariedade - a adoção internacional só é permitida quando não seja possível encontrar uma colocação familiar permanente para a criança no seu país de residência habitual;\n\nb) Cooperação internacional - o processo de adoção internacional exige a participação e colaboração obrigatória e concertada das autoridades centrais e competentes dos países envolvidos, nos termos regulados nos instrumentos internacionais;\n\nc) Colaboração interinstitucional - a nível interno, o processo de adoção internacional exige a colaboração entre a Autoridade Central para a Adoção Internacional e outras autoridades, nomeadamente diplomáticas e policiais."
+  },
+  "70217031": {
+   "fragment_id": "70216939",
+   "type": 11,
+   "heading": "Artigo 63.º — Circunstâncias impeditivas da adoção internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Circunstâncias impeditivas da adoção internacional\n\nO processo de adoção internacional não pode ter lugar quando:\n\na) O país de origem se encontre em situação de conflito armado ou de catástrofe natural;\n\nb) No país de origem inexista autoridade com competência para controlar e garantir que a adoção corresponde ao superior interesse da criança;\n\nc) No país de origem não haja garantias de observância dos princípios ético-jurídicos e normas legais aplicáveis à adoção internacional."
+  },
+  "70217032": {
+   "fragment_id": "70216940",
+   "type": 1,
+   "heading": "Capítulo II — Autoridade Central",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Autoridade Central"
+  },
+  "70217033": {
+   "fragment_id": "70216941",
+   "type": 8,
+   "heading": "Secção I — Intervenção das entidades mediadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Intervenção das entidades mediadoras"
+  },
+  "70217034": {
+   "fragment_id": "70216942",
+   "type": 11,
+   "heading": "Artigo 66.º — Exercício de atividade mediadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Exercício de atividade mediadora\n\nPara efeitos do RJPA, considera-se exercício de atividade mediadora:\n\na) A informação e assessoria aos interessados em matéria de adoção internacional;\n\nb) A receção e o encaminhamento para a Autoridade Central de pretensões de candidatos residentes no estrangeiro, relativas à adoção de crianças residentes em Portugal;\n\nc) A receção e o encaminhamento para a competente autoridade estrangeira de pretensões de candidatos residentes em Portugal, relativas à adoção de crianças residentes no estrangeiro;\n\nd) A assessoria e o apoio aos candidatos nos procedimentos a realizar perante as autoridades competentes, tanto em Portugal como no estrangeiro;\n\ne) A intervenção, a avaliação e o acompanhamento da pós-adoção em cumprimento das obrigações impostas aos adotantes pela legislação do país de origem da criança."
+  },
+  "70217035": {
+   "fragment_id": "70216943",
+   "type": 11,
+   "heading": "Artigo 67.º — Quem pode exercer atividade mediadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Quem pode exercer atividade mediadora\n\nA atividade mediadora em adoção internacional pode ser exercida por entidades que cumulativamente:\n\na) Prossigam fins não lucrativos e tenham por objetivo a proteção das crianças;\n\nb) Disponham dos meios financeiros e materiais adequados;\n\nc) Tenham uma equipa técnica pluridisciplinar, integrando técnicos com formação nas áreas da psicologia, do serviço social e do direito;\n\nd) Sejam representadas e administradas por pessoas qualificadas quer no que respeita à sua idoneidade, quer quanto aos conhecimentos ou experiência em matéria de adoção internacional."
+  },
+  "70217036": {
+   "fragment_id": "70216944",
+   "type": 11,
+   "heading": "Artigo 68.º — Acreditação e autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Acreditação e autorização\n\n1 - As entidades com sede em Portugal que pretendam exercer a atividade mediadora em adoção internacional são acreditadas por decisão da Autoridade Central.\n\n2 - As entidades estrangeiras que, devidamente acreditadas pelas autoridades competentes do país em que se encontram sediadas, desejem exercer atividade mediadora para a adoção internacional de crianças residentes em Portugal são autorizadas por decisão da Autoridade Central.\n\n3 - O exercício não autorizado de atividade mediadora faz incorrer o respetivo agente na prática de crime punível com prisão até dois anos ou multa até 240 dias."
+  },
+  "70217037": {
+   "fragment_id": "70216945",
+   "type": 11,
+   "heading": "Artigo 69.º — Processo de acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Processo de acreditação\n\n1 - As entidades com sede em Portugal que pretendam desenvolver a atividade mediadora devem formular a sua pretensão, mediante requerimento a apresentar junto da Autoridade Central.\n\n2 - Para efeitos de apreciação do pedido, o requerimento deve ser acompanhado de cópia dos estatutos ou, quando não se trate de instituição particular de solidariedade social, de certidão do titulo constitutivo, bem como de documentos destinados a comprovar o preenchimento dos requisitos enunciados no artigo 67.º e dos demais que se afigurem necessários à avaliação global da pretensão."
+  },
+  "70217038": {
+   "fragment_id": "70216946",
+   "type": 11,
+   "heading": "Artigo 70.º — Instrução e decisão do processo de acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Instrução e decisão do processo de acreditação\n\n1 - A Autoridade Central procede à instrução do processo de acreditação devendo, no prazo máximo de 30 dias, proferir decisão fundamentada da qual conste designadamente a ponderação da oportunidade de acreditação da entidade requerente, tendo em consideração as condições e as necessidades de adoção internacional no país em que se propõe trabalhar.\n\n2 - A decisão de acreditação contém obrigatoriamente a menção dos países para os quais a mesma é concedida, bem como o respetivo prazo de vigência.\n\n3 - A decisão relativa à acreditação é notificada às entidades requerentes e, em caso de deferimento, publicada no Diário da República."
+  },
+  "70217039": {
+   "fragment_id": "70216947",
+   "type": 11,
+   "heading": "Artigo 71.º — Processo de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Processo de autorização\n\n1 - As entidades estrangeiras que pretendam exercer a atividade mediadora em Portugal devem solicitar a necessária autorização mediante requerimento dirigido à Autoridade Central.\n\n2 - O requerimento deve ser instruído com os elementos necessários à comprovação do preenchimento dos requisitos referidos no artigo 67.º, bem como de documento comprovativo da autorização genérica para o exercício da atividade mediadora emitido pelas autoridades competentes do país da sede da entidade requerente e da autorização específica para o exercício de tal atividade em Portugal."
+  },
+  "70217040": {
+   "fragment_id": "70216948",
+   "type": 11,
+   "heading": "Artigo 72.º — Instrução e decisão do processo de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Instrução e decisão do processo de autorização\n\n1 - A Autoridade Central procede à avaliação da pretensão, ponderando nomeadamente o universo de crianças disponíveis para a adoção internacional e as suas características, o número de entidades estrangeiras já autorizadas e o âmbito de intervenção proposto pela entidade requerente.\n\n2 - Sempre que entenda necessário, a Autoridade Central solicita informação à autoridade competente do país em que a entidade requerente se encontra sediada.\n\n3 - A decisão de autorização contém obrigatoriamente o prazo de vigência e é comunicada à entidade requerente e à autoridade competente do país da sede da entidade autorizada.\n\n4 - A decisão relativa à autorização é, em caso de deferimento, publicada no Diário da República."
+  },
+  "70217041": {
+   "fragment_id": "70216949",
+   "type": 11,
+   "heading": "Artigo 73.º — Acompanhamento e fiscalização das entidades mediadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Acompanhamento e fiscalização das entidades mediadoras\n\n1 - As entidades mediadoras desenvolvem a sua atividade em estreita colaboração com a Autoridade Central, ficando sujeitas ao seu controlo e supervisão.\n\n2 - Constituem deveres das entidades mediadoras:\n\na) Apresentar, anualmente e até ao final do primeiro trimestre de cada ano, relatório de atividades do qual conste, obrigatória e discriminadamente, o número de processos tramitados e as receitas e despesas associadas;\n\nb) Informar, de imediato, a Autoridade Central sobre qualquer irregularidade ou violação de norma imperativa no domínio do processo de adoção de que tenham tido conhecimento no âmbito da sua atividade."
+  },
+  "70217042": {
+   "fragment_id": "70216950",
+   "type": 11,
+   "heading": "Artigo 74.º — Revogação da acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Revogação da acreditação\n\n1 - A acreditação concedida nos termos dos artigos 68.º a 70.º pode ser revogada, ainda que parcialmente, por decisão fundamentada da Autoridade Central.\n\n2 - Constituem fundamento para a revogação da acreditação a assunção de procedimentos e práticas violadoras dos princípios ético-jurídicos e normas legais aplicáveis à adoção internacional.\n\n3 - Constituem ainda fundamento para a revogação da acreditação:\n\na) A não observância das condições previstas no artigo 67.º;\n\nb) A recusa de autorização por parte do país em que se propôs desenvolver a atividade;\n\nc) O não exercício de qualquer atividade mediadora, no ano subsequente à obtenção da autorização, junto do país onde se propôs desenvolvê-la.\n\n4 - A decisão de revogação é notificada à entidade mediadora e acarreta a imediata cessação da respetiva atividade, sendo objeto de publicação no Diário da República."
+  },
+  "70217043": {
+   "fragment_id": "70216951",
+   "type": 11,
+   "heading": "Artigo 75.º — Revogação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Revogação da autorização\n\n1 - A autorização concedida pela Autoridade Central a entidade estrangeira, nos termos dos artigos 68.º, 71.º e 72.º pode, a todo o tempo, ser revogada com os fundamentos previstos no n.º 2 e nas alíneas a) e c) do n.º 3 do artigo anterior e ainda com fundamento na revogação da habilitação operada no país onde a entidade se encontra sediada.\n\n2 - A decisão de revogação da autorização é obrigatoriamente comunicada à autoridade competente do país onde a entidade se encontra sediada."
+  },
+  "70217044": {
+   "fragment_id": "70216952",
+   "type": 1,
+   "heading": "Capítulo III — Processo de adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Processo de adoção"
+  },
+  "70217045": {
+   "fragment_id": "70216953",
+   "type": 8,
+   "heading": "Secção I — Adoção por residentes em Portugal de crianças residentes no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Adoção por residentes em Portugal de crianças residentes no estrangeiro"
+  },
+  "70217046": {
+   "fragment_id": "70216954",
+   "type": 11,
+   "heading": "Artigo 76.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Candidatura\n\n1 - Quem, residindo habitualmente em Portugal, pretenda adotar criança residente no estrangeiro deve apresentar a sua candidatura ao organismo de segurança social da área da residência.\n\n2 - À candidatura referida no número anterior aplica-se, com as necessárias adaptações, o disposto nos artigos 43.º a 47.º, sem prejuízo, sendo o caso, da ponderação sobre o aproveitamento dos atos já praticados no âmbito de candidatura à adoção nacional."
+  },
+  "70217047": {
+   "fragment_id": "70216955",
+   "type": 11,
+   "heading": "Artigo 77.º — Transmissão da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Transmissão da candidatura\n\n1 - Emitido certificado de seleção para a adoção internacional, o organismo de segurança social procede à instrução da candidatura internacional, de acordo com as informações disponibilizadas relativamente aos requisitos e elementos probatórios exigidos pelo país de origem e remete-a à Autoridade Central.\n\n2 - A Autoridade Central, após verificação da correta instrução da candidatura, transmite-a à autoridade competente do país de origem, informando os candidatos da data em que tal ocorreu.\n\n3 - Caso o candidato pretenda recorrer a uma entidade mediadora acreditada e habilitada a desenvolver a atividade no país de origem, deve, sempre que possível, comunicar essa intenção ao organismo de segurança social no momento da apresentação da candidatura.\n\n4 - No caso previsto no número anterior, incumbe à entidade mediadora a instrução e transmissão da candidatura, devendo obrigatoriamente informar a Autoridade Central e os candidatos da data em que procedeu à sua transmissão."
+  },
+  "70217048": {
+   "fragment_id": "70216956",
+   "type": 11,
+   "heading": "Artigo 78.º — Estudo de viabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Estudo de viabilidade\n\n1 - Apresentada uma proposta concreta de adoção pela autoridade competente do país de origem ou pela entidade mediadora acreditada e habilitada, a Autoridade Central analisa com o organismo de segurança social da área de residência do candidato a viabilidade da adoção proposta, tendo em conta o seu perfil e o relatório sobre a situação da criança elaborado pela autoridade competente do país de origem.\n\n2 - Caso a análise a que se refere o número anterior permita concluir pela correspondência entre as necessidades da criança e as capacidades do candidato, a Autoridade Central efetua a respetiva comunicação à autoridade competente do país de origem e diligencia pela formalização do acordo de prosseguimento do processo de adoção.\n\n3 - Caso a proposta seja apresentada pela entidade mediadora acreditada e habilitada, a Autoridade Central exige, antes de se pronunciar nos termos do número anterior, o comprovativo da situação de adotabilidade da criança, bem como da observância do princípio da subsidiariedade.\n\n4 - Com exceção dos casos de adoção intrafamiliar, o contacto entre o candidato e a criança a adotar, bem como entre aquele e a família biológica da criança, só pode ocorrer após a formalização do acordo a que se refere o n.º 2.\n\n5 - Formalizado o acordo, a Autoridade Central dá conhecimento ao organismo de segurança social e diligencia pela obtenção da autorização de entrada e de residência para a criança."
+  },
+  "70217049": {
+   "fragment_id": "70216957",
+   "type": 11,
+   "heading": "Artigo 79.º — Acompanhamento do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Acompanhamento do processo\n\n1 - O organismo de segurança social da área de residência dos adotantes comunica à Autoridade Central, no prazo de cinco dias, a entrada da criança em Portugal e a situação jurídica em que esta se encontra, designadamente se foi já decretada a adoção no país de origem.\n\n2 - Caso a criança entre em Portugal sem que a adoção haja sido previamente decretada no país de origem, há lugar a um período de pré-adoção com acompanhamento disponibilizado pelo organismo de segurança social da área de residência do candidato, nos termos e prazo prescritos nos n.os 1 e 2 do artigo 50.º, sem prejuízo, no que se refere à duração, do que haja sido acordado com o país de origem.\n\n3 - Caso o decretamento da adoção haja precedido a entrada da criança em Portugal, o organismo de segurança social efetua o acompanhamento pós-adoção nos moldes exigidos pelo país de origem, podendo também ter lugar por solicitação da família adotiva, nos termos previstos no artigo 60.º\n\n4 - Ao organismo de segurança social compete ainda a elaboração de relatórios do acompanhamento referido nos n.os 2 e 3, com a periodicidade exigida pelo país de origem, remetendo-os no mais curto prazo à Autoridade Central.\n\n5 - A Autoridade Central presta à autoridade competente do país de origem todas as informações relativas ao acompanhamento da situação.\n\n6 - Sempre que do acompanhamento efetuado nos termos do n.º 2 resulte que a situação objeto de acompanhamento não salvaguarda o interesse da criança, são tomadas as medidas necessárias a assegurar a sua proteção, designadamente:\n\na) A retirada da criança à família adotante e a sua proteção imediata, nos termos previstos na Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pelas Leis n.os 31/2003, de 22 de agosto, e 142/2015, de 8 de setembro;\n\nb) Em articulação com a autoridade competente do país de origem, uma nova colocação com vista à adoção ou, na sua falta, um acolhimento alternativo com caráter duradouro;\n\nc) Em articulação com a autoridade competente do país de origem, o regresso da criança ao país de origem, se tal corresponder ao seu superior interesse."
+  },
+  "70217050": {
+   "fragment_id": "70216958",
+   "type": 11,
+   "heading": "Artigo 80.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Decisão\n\n1 - A adoção é decretada em Portugal ou no país de origem, consoante o que haja sido acordado entre a Autoridade Central e a autoridade competente ou o que resulte imperativamente da legislação desse país.\n\n2 - Caso o decretamento da adoção ocorra em Portugal, aplicam-se, com as necessárias adaptações, os termos da fase judicial do processo de adoção a que se referem os artigos 52.º e seguintes, cabendo à Autoridade Central prestar toda a informação necessária ao tribunal e assegurar a articulação entre este e a autoridade competente do país de origem."
+  },
+  "70217051": {
+   "fragment_id": "70216959",
+   "type": 11,
+   "heading": "Artigo 81.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Comunicação da decisão\n\n1 - Proferida sentença de adoção nos termos do n.º 2 do artigo anterior, o tribunal remete certidão da mesma à Autoridade Central que a transmite à autoridade competente do país de origem.\n\n2 - Tratando-se de adoção internacional entre países contratantes da Convenção e observados os respetivos procedimentos, a Autoridade Central emite o certificado de conformidade da adoção, o qual acompanha a certidão da sentença."
+  },
+  "70217052": {
+   "fragment_id": "70216960",
+   "type": 8,
+   "heading": "Secção II — Adoção de crianças residentes em Portugal por candidatos residentes no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Adoção de crianças residentes em Portugal por candidatos residentes no estrangeiro"
+  },
+  "70217053": {
+   "fragment_id": "70216961",
+   "type": 11,
+   "heading": "Artigo 82.º — Aplicação do princípio da subsidiariedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Aplicação do princípio da subsidiariedade\n\n1 - Aplicada medida de promoção e proteção de confiança com vista a futura adoção e não se mostrando viável, em tempo útil, a concretização do projeto adotivo em Portugal, o organismo de segurança social ou instituição particular autorizada informa a Autoridade Central, para efeito de ser perspetivada a adoção internacional, salvo se tal não corresponder ao superior interesse da criança.\n\n2 - Considera-se viável a adoção em Portugal quando, à data da aplicação da medida de promoção e proteção de confiança com vista a futura adoção:\n\na) Existam candidatos residentes em território nacional cuja pretensão se apresente com probabilidade de vir a proceder, em função das específicas necessidades da criança a adotar; ou\n\nb) Seja possível formular um juízo de prognose favorável relativamente à sua existência, no prazo referido no n.º 1 do artigo 41.º\n\n3 - O princípio da subsidiariedade não é aplicável sempre que a criança tiver a mesma nacionalidade do candidato a adotante, for filho do cônjuge do adotante ou se, em qualquer caso, o seu superior interesse aconselhar a adoção no estrangeiro."
+  },
+  "70217054": {
+   "fragment_id": "70216962",
+   "type": 11,
+   "heading": "Artigo 83.º — Requisitos da adotabilidade internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Requisitos da adotabilidade internacional\n\nA colocação da criança no estrangeiro, nos termos e para os efeitos previstos no artigo anterior, só pode ser deferida se, cumulativamente:\n\na) Os serviços competentes, segundo a lei do país de acolhimento, reconhecerem os candidatos como idóneos e a adoção da criança em causa como possível no respetivo país;\n\nb) Estiver previsto um período de convivência entre a criança e o candidato a adotante suficiente para avaliar da conveniência da constituição do vínculo; e\n\nc) Houver indícios de que a futura adoção apresenta reais vantagens para o adotando, se funda em motivos legítimos e for razoável supor que entre adotante e adotando se vai estabelecer um vínculo semelhante ao da filiação."
+  },
+  "70217055": {
+   "fragment_id": "70216963",
+   "type": 11,
+   "heading": "Artigo 84.º — Manifestação e apreciação da vontade de adotar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Manifestação e apreciação da vontade de adotar\n\n1 - A manifestação da vontade de adotar deve ser dirigida diretamente à Autoridade Central pela autoridade competente do país de residência do candidato ou pela entidade mediadora autorizada, mediante transmissão de candidatura devidamente instruída.\n\n2 - Recebida a candidatura, a Autoridade Central aprecia-a no prazo de 10 dias, aceitando-a, rejeitando-a ou convidando a prestar esclarecimentos ou a juntar documentos complementares, comunicando a correspondente decisão à autoridade competente ou à entidade mediadora.\n\n3 - A candidatura é instruída com os documentos que forem necessários à demonstração dos requisitos referidos nas alíneas a) e b) do artigo anterior.\n\n4 - As candidaturas aceites são inscritas na Lista de Candidatos à Adoção Internacional Residentes no Estrangeiro."
+  },
+  "70217056": {
+   "fragment_id": "70216964",
+   "type": 11,
+   "heading": "Artigo 85.º — Estudo da viabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Estudo da viabilidade\n\n1 - Sempre que da pesquisa a que se refere o n.º 1 do artigo 48.º não resultar a identificação de candidato, o organismo de segurança social ou a instituição particular autorizada consulta a Lista de Candidatos à Adoção Internacional Residentes no Estrangeiro.\n\n2 - Em caso de identificação de candidato relativamente ao qual seja legítimo efetuar um juízo de prognose favorável de compatibilização entre as suas capacidades e as necessidades da criança, o organismo de segurança social ou a instituição particular autorizada efetua a correspondente comunicação à Autoridade Central, remetendo relatório exaustivo de caracterização da criança.\n\n3 - A viabilidade concreta da adoção é analisada conjuntamente pela Autoridade Central e pelo organismo de segurança social ou instituição particular autorizada, tendo em conta a compatibilização entre as necessidades da criança e as capacidades do candidato.\n\n4 - Concluindo-se pela viabilidade da adoção, a Autoridade Central apresenta proposta à autoridade competente ou à entidade mediadora autorizada, acompanhada do relatório de caracterização da criança."
+  },
+  "70217057": {
+   "fragment_id": "70216965",
+   "type": 11,
+   "heading": "Artigo 86.º — Prosseguimento da adoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Prosseguimento da adoção\n\n1 - Aceite a proposta pela autoridade competente e pelos candidatos, a Autoridade Central diligencia pela formalização do acordo de prosseguimento do processo de adoção e colabora com o organismo de segurança social competente no sentido da adequada preparação da criança.\n\n2 - O contacto entre o candidato e a criança a adotar só pode ocorrer após a formalização do acordo a que se refere o número anterior.\n\n3 - O organismo de segurança social requer ao tribunal a transferência da curadoria provisória da criança para o candidato a adotante.\n\n4 - A Autoridade Central e a autoridade competente do país de acolhimento devem tomar as iniciativas necessárias com vista à obtenção de autorização de saída da criança de Portugal e de entrada e permanência naquele país."
+  },
+  "70217058": {
+   "fragment_id": "70216966",
+   "type": 11,
+   "heading": "Artigo 87.º — Acompanhamento e reapreciação da situação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Acompanhamento e reapreciação da situação\n\n1 - Durante o período de pré-adoção, a Autoridade Central acompanha a evolução da situação, através de contactos regulares com a autoridade competente do país de acolhimento.\n\n2 - A Autoridade Central remete cópia das informações prestadas ao organismo de segurança social e ao tribunal que tiver aplicado a confiança com vista à futura adoção e transferido a curadoria provisória.\n\n3 - Sempre que haja notícia de que o processo de pré-adoção foi interrompido por não corresponder ao interesse da criança, a Autoridade Central, em articulação com a autoridade competente do país de acolhimento, define as medidas necessárias para assegurar a proteção da criança.\n\n4 - Caso não esteja previsto um período de pré-adoção na lei do país de acolhimento, o candidato a adotante deve permanecer em Portugal por período suficiente para se avaliar da conveniência da constituição do vínculo, não podendo esse período ser inferior a 30 dias.\n\n5 - No caso referido no número anterior, compete ao organismo da segurança social o acompanhamento daquele período."
+  },
+  "70217059": {
+   "fragment_id": "70216967",
+   "type": 11,
+   "heading": "Artigo 88.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Decisão\n\n1 - A adoção é decretada no país de acolhimento, salvo se a lei desse país não se reconhecer competente para tal.\n\n2 - Caso o decretamento da adoção ocorra em Portugal, aplicam-se, com as necessárias adaptações, os termos da fase judicial do processo de adoção a que se referem os artigos 52.º e seguintes, cabendo à Autoridade Central prestar toda a informação necessária ao tribunal e assegurar a articulação entre este e a autoridade competente do país de acolhimento."
+  },
+  "70217060": {
+   "fragment_id": "70216968",
+   "type": 11,
+   "heading": "Artigo 89.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Comunicação da decisão\n\n1 - Decretada a adoção no país de acolhimento, a Autoridade Central, logo que obtida certidão da respetiva decisão, remete cópia ao tribunal que tiver decidido a confiança com vista a futura adoção.\n\n2 - A Autoridade Central providencia igualmente pelo averbamento da adoção ao assento de nascimento da criança."
+  },
+  "70217061": {
+   "fragment_id": "70216969",
+   "type": 8,
+   "heading": "Secção III — Reconhecimento das decisões de adoção internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Reconhecimento das decisões de adoção internacional"
+  },
+  "70217062": {
+   "fragment_id": "70216970",
+   "type": 11,
+   "heading": "Artigo 90.º — Reconhecimento da decisão estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Reconhecimento da decisão estrangeira\n\n1 - As decisões de adoção internacional proferidas no estrangeiro e certificadas em conformidade com a Convenção, bem como as abrangidas por acordo jurídico e judiciário bilateral que dispense a revisão de sentença estrangeira, têm eficácia automática em Portugal.\n\n2 - Nos demais casos, a eficácia em Portugal da decisão estrangeira de adoção depende de reconhecimento a efetuar pela Autoridade Central.\n\n3 - Para efeitos do disposto no número anterior, constituem requisitos para o reconhecimento da decisão estrangeira de adoção:\n\na) A autenticidade do documento, a inteligibilidade da decisão e o seu caráter definitivo;\n\nb) A comprovação da situação de adotabilidade internacional da criança no que respeita aos consentimentos prestados ou à sua dispensa e à observância do princípio da subsidiariedade;\n\nc) A intervenção da Autoridade Central, nos termos do n.º 3 do artigo 64.º, e da autoridade competente do país de origem ou de acolhimento;\n\nd) A certificação da idoneidade dos candidatos para a adoção internacional, nos termos dos artigos 76.º e 83.º\n\n4 - Não é reconhecida decisão de adoção estrangeira sempre que tal conduza a resultado manifestamente incompatível com os princípios da ordem pública internacional do Estado português.\n\n5 - A decisão de reconhecimento da decisão estrangeira de adoção, ou a sua recusa, é notificada aos interessados e ao Ministério Público junto da secção de família e menores da instância central do Tribunal da comarca de Lisboa.\n\n6 - Da recusa de reconhecimento da decisão estrangeira de adoção cabe recurso para o Tribunal da Relação de Lisboa, a interpor no prazo de 30 dias.\n\n7 - O Ministério Público tem legitimidade para interpor recurso da decisão de reconhecimento de decisão estrangeira de adoção, ou da sua recusa.\n\n8 - A Autoridade Central remete oficiosamente certidão de sentença estrangeira reconhecida à Conservatória do Registo Civil para efeito de ser lavrado o competente registo.\n\n9 - Em todos os procedimentos destinados ao reconhecimento da sentença estrangeira de adoção, deve ser preservado o segredo de identidade a que se refere o artigo 1985.º do Código Civil."
+  },
+  "70217063": {
+   "fragment_id": "70216971",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de julho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 22 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 24 de agosto de 2015.\n\nPelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro."
+  },
+  "220061658": {
+   "fragment_id": "70208264",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2023-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 46/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/lei/46-2023-219991256), em vigor a partir de 2023-08-18"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do RJPA considera-se:\n\na) «Adoção internacional», processo de adoção, no âmbito do qual ocorre a transferência de uma criança do seu país de residência habitual para o país da residência habitual dos adotantes, com vista ou na sequência da sua adoção;\n\nb) «Adoção nacional», processo de adoção no âmbito do qual a criança a adotar e o candidato à adoção têm residência habitual em Portugal, independentemente da nacionalidade;\n\nc) «Adotabilidade», situação jurídica da criança beneficiária de uma decisão judicial ou administrativa de confiança com vista à adoção;\n\nd) 'Criança', qualquer pessoa com idade inferior a 18 anos e que não se encontre emancipada;\n\ne) «País de acolhimento», país da residência habitual dos adotantes, no âmbito de um processo de adoção internacional;\n\nf) «País de origem», país da residência habitual da criança, no âmbito de um processo de adoção internacional;\n\ng) «Preparação, avaliação e seleção de candidatos», conjunto de procedimentos para a aferição da capacidade tendentes à capacitação psicossocial e das competências essenciais ao estabelecimento de uma relação parental adotiva;\n\nh) «Processo de adoção», conjunto de procedimentos de natureza administrativa e judicial, integrando designadamente atos de preparação e atos avaliativos, tendo em vista a prolação da decisão judicial constitutiva do vínculo da adoção, a qual ocorre na sequência de uma decisão de adotabilidade ou de avaliação favorável da pretensão de adoção de filho do cônjuge;\n\ni) «Guarda de facto», relação que se estabelece entre a criança e a pessoa que com ela vem assumindo, continuadamente, as funções essenciais próprias de quem tem responsabilidades parentais.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 46/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/lei/46-2023-219991256), em vigor a partir de 2023-08-18"
+  },
+  "941592078": {
+   "fragment_id": "941547451",
+   "type": 11,
+   "heading": "Artigo 31.º — Jurisdição voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Jurisdição voluntária\n\nA fase final do processo de adoção, regulada na subsecção III do presente capítulo, tem natureza de jurisdição voluntária, sendo-lhe aplicáveis as correspondentes normas do Código do Processo Civil."
+  },
+  "941592079": {
+   "fragment_id": "941547452",
+   "type": 11,
+   "heading": "Artigo 32.º — Caráter urgente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Caráter urgente\n\nO procedimento relativo à prestação do consentimento prévio para a adoção, bem como a tramitação judicial do processo de adoção, têm caráter urgente."
+  },
+  "941592077": {
+   "fragment_id": "941547450",
+   "type": 11,
+   "heading": "Artigo 40.º — Etapas do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Etapas do processo\n\nO processo de adoção, nos termos em que é definido na alínea c) do artigo 2.º, é constituído pelas seguintes fases:\n\na) Fase preparatória, que integra as atividades desenvolvidas pelos organismos de segurança social ou pelas instituições particulares autorizadas, no que respeita ao estudo de caracterização da criança com decisão de adotabilidade e à preparação, avaliação e seleção de candidatos a adotantes;\n\nb) Fase de ajustamento entre crianças e candidatos, que integra as atividades desenvolvidas pelos organismos de segurança social ou pelas instituições particulares autorizadas, para aferição da correspondência entre as necessidades da criança e as capacidades dos candidatos, organização do período de transição e acompanhamento e avaliação do período de pré-adoção;\n\nc) Fase final, que integra a tramitação judicial do processo de adoção com vista à prolação de sentença que decida da constituição do vínculo."
+  },
+  "941592080": {
+   "fragment_id": "941547453",
+   "type": 11,
+   "heading": "Artigo 64.º — Autoridade Central para a Adoção Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Autoridade Central para a Adoção Internacional\n\n1 - A entidade responsável pelo cumprimento dos compromissos internacionais assumidos por Portugal, no contexto da Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional concluída na Haia em 29 de maio de 1993, é a Autoridade Central para a Adoção Internacional, adiante designada por Autoridade Central.\n\n2 - Compete ao Governo a designação da Autoridade Central.\n\n3 - A Autoridade Central intervém obrigatoriamente em todos os processos de adoção internacional, incluindo os que envolvam países não contratantes da Convenção a que se refere o n.º 1.\n\n4 - Não são reconhecidas as adoções internacionais decretadas no estrangeiro sem a intervenção da Autoridade Central."
+  },
+  "941592081": {
+   "fragment_id": "941547454",
+   "type": 11,
+   "heading": "Artigo 65.º — Atribuições da Autoridade Central",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Atribuições da Autoridade Central\n\nÀ Autoridade Central compete, nomeadamente:\n\na) Exercer as funções de autoridade central previstas em convenções internacionais relativas à adoção de que Portugal seja parte;\n\nb) Certificar a conformidade das adoções internacionais com a Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional concluída na Haia em 29 de maio de 1993, adiante designada por Convenção;\n\nc) Reconhecer e registar as decisões estrangeiras de adoção, nas situações a que se refere o n.º 1 do artigo 61.º;\n\nd) Emitir obrigatoriamente parecer sobre a regularidade do processo de adoção internacional para efeitos de autorização de entrada da criança em território nacional;\n\ne) Delinear, em colaboração com as estruturas diplomáticas e consulares, estratégias em matéria de adoção internacional sustentadas em políticas de cooperação em prol de crianças privadas de família;\n\nf) Preparar acordos e protocolos em matéria de adoção internacional;\n\ng) Acompanhar, prestar a colaboração necessária e avaliar os procedimentos respeitantes à adoção internacional;\n\nh) Acreditar as entidades com sede em Portugal que pretendam exercer a atividade mediadora;\n\ni) Autorizar o exercício em Portugal da atividade mediadora por entidades estrangeiras;\n\nj) Acompanhar, supervisionar e controlar a atuação das entidades mediadoras acreditadas e autorizadas;\n\nk) Garantir a conservação da informação de que disponha relativamente às origens da criança adotada internacionalmente, em particular quanto à história pessoal incluindo a identidade dos progenitores;\n\nl) Proceder à recolha, tratamento e divulgação dos dados estatísticos relativos à adoção internacional;\n\nm) Elaborar e publicar anualmente relatório de atividades, donde constem, designadamente, informações e conclusões sobre as atribuições referidas nas alíneas anteriores."
+  }
+ }
+}

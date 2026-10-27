@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R0218:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R0218-20040101",
+ "dre_path": null,
+ "source_lastmod": "2004-01-01",
+ "versions": [
+  {
+   "date": "1992-02-01",
+   "future": false,
+   "celex": "31992R0218",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "401ba2359c65d29f",
+    "d044ded838f96922",
+    "33e4cc0f81d9f58a",
+    "2309da0606549938",
+    "3fb97786f54f2dfc",
+    "4c84216a3a542c6d",
+    "bbe41d7fed919acc",
+    "583afc5e5f02cdd1",
+    "6b4a1352a3755c1f",
+    "a2900b2ef3e2d469",
+    "fdb433d1a8007c7e",
+    "554c99f90e2cfaba",
+    "51e5dbf1059709e4",
+    "5e8b60b0aaf96efd",
+    "cfb50d45f6c5f9cb",
+    "704699a0423e6b71"
+   ]
+  },
+  {
+   "date": "2004-01-01",
+   "future": false,
+   "celex": "01992R0218-20040101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime TÍTULO I Troca de informações - Disposições gerais — Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime TÍTULO III Condições que regem a troca de informações — Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime TÍTULO IV Procedimentos de consulta e de coordenação — Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime TÍTULO V Disposições finais — Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o"
+   ],
+   "fragments": [
+    "e473c22bbbd6b6d0"
+   ]
+  }
+ ],
+ "fragments": {
+  "401ba2359c65d29f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 218/92 do Conselho, de 27 de Janeiro de 1992, relativo à cooperação administrativa no domínio dos impostos indirectos (IVA)** *Jornal Oficial nº L 024 de 01/02/1992 p. 0001 - 0005 Edição especial finlandesa: Capítulo 9 Fascículo 2 p. 0052 Edição especial sueca: Capítulo 9 Fascículo 2 p. 0052*\n\nREGULAMENTO (CEE) No 218/92 DO CONSELHO de 27 de Janeiro de 1992 relativo à cooperação administrativa no domínio dos impostos indirectos (IVA)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a realização do mercado interno, previsto no artigo 8oA do Tratado, exige a criação de um espaço sem fronteiras internas no qual é assegurada a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais; que o mercado interno pressupõe alterações na legislação relativa ao imposto sobre o valor acrescentado, como prevê o artigo 99o do Tratado;\n\nConsiderando que, tendo em vista evitar a perda de receitas fiscais para os Estados-membros, as medidas de harmonização fiscal adoptadas para a realização do mercado interno e para o período transitório devem incluir a criação de um sistema comum de troca de informações sobre as transacções intracomunitárias entre as autoridades competentes dos Estados-membros;\n\nConsiderando que, de modo a permitir a abolição dos controlos para efeitos fiscais nas fronteiras internas, de acordo com os objectivos definidos no artigo 8oA do Tratado, é necessário que o regime transitório em matéria de imposto sobre o valor acrescentado, instituído pela Directiva 91/680/CEE (4), que altera a Directiva 77/388/CEE (5), possa ser efectivamente instituído sem riscos de fraude, que poderiam conduzir a distorções da concorrência;\n\nConsiderando que o presente regulamento prevê um sistema comum de troca de informações sobre as transacções intracomunitárias, que completa o disposto na Directiva 77/799/CEE do Conselho (6), com a última redacção que lhe foi dada pela Directiva 79/1070/CEE (7), e cujo objectivo é de natureza fiscal;\n\nConsiderando que os Estados-membros deverão transmitir à Comissão todas as informações relativas ao imposto sobre o valor acrescentado que possam revestir-se de interesse ao nível comunitário;\n\nConsiderando que a criação de um sistema comum de cooperação administrativa pode afectar a situação jurídica das pessoas, nomeadamente devido à troca de informações relativas à sua situação fiscal;\n\nConsiderando que é conveniente zelar por que as disposições relativas à fiscalização dos impostos indirectos não sejam desproporcionadas em relação à necessidade das administrações disporem de um meio de controlo efectivo, nem em relação aos encargos administrativos impostos aos sujeitos passivos;\n\nConsiderando que o funcionamento deste sistema implica a criação de um comité permanente de cooperação administrativa;\n\nConsiderando que os Estados-membros e a Comissão devem instituir um sistema eficaz de armazenamento e de transmissão electrónicos de certos dados para efeitos de controlo do imposto sobre o valor acrescentado;\n\nConsiderando que é conveniente zelar por que as informações transmitidas no âmbito desta colaboração não sejam divulgadas a pessoas não autorizadas, a fim de salvaguardar os direitos fundamentais dos cidadãos e os direitos das empresas; que é, por conseguinte, necessário que as autoridades que recebem essas informações não as utilizem sem a permissão das autoridades que as prestam, senão para fins fiscais ou para facilitar acções judiciais em caso de violação da legislação fiscal dos Estados-membros em causa; que é também necessário que as autoridades que recebem as referidas informações lhes confiram o mesmo grau de confidencialidade que o Estado-membro que as prestou, se este último o exigir;\n\nConsiderando que é necessária uma colaboração entre os Estados-membros e a Comissão para proceder a uma análise permanente dos procedimentos de cooperação e para a colocação em comum da experiência adquirida nos domínios em questão, com o objectivo de aperfeiçoar esses procedimentos e de preparar regulamentações comunitárias adequadas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d044ded838f96922": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento estabelece as condições em que as autoridades administrativas a quem incumbe, nos Estados-membros, a aplicação da legislação relativa ao imposto sobre o valor acrescentado cooperarão entre si e com a Comissão no sentido de assegurar o cumprimento dessa legislação.\n\nPara o efeito, o presente regulamento estabelece procedimentos para a troca, por via electrónica, de informações relativas ao imposto sobre o valor acrescentado respeitantes às transacções intracomunitárias, bem como para qualquer troca posterior de informações entre as autoridades competentes dos Estados-membros."
+  },
+  "33e4cc0f81d9f58a": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Para efeitos do presente regulamento, entende-se por:\n\n- « autoridade competente »: a autoridade designada como interlocutor, na acepção do no 2,\n\n- « autoridade requerente »: a autoridade competente de um Estado-membro que formula um pedido de assistência,\n\n- « autoridade requerida »: a autoridade competente de um Estado-membro a quem é dirigido um pedido de assistência,\n\n- « pessoa »:\n\n- uma pessoa singular,\n\n- uma pessoa colectiva,\n\n- sempre que a legislação em vigor o preveja, uma associação de pessoas a que foi reconhecida a capacidade de praticar actos jurídicos, mas que não tem o estatuto jurídico de pessoa colectiva,\n\n- « permitir o acesso »: dar autorização de aceder à base de dados electrónica correspondente e de obter dados por via electrónica,\n\n- « número de identificação para efeitos do imposto sobre o valor acrescentado »: o número previsto no no 1, alíneas c), d) e e), do artigo 22o da Directiva 77/388/CEE,\n\n- « transacções intracomunitárias »: a entrega intracomunitária de bens e a prestação intracomunitária de serviços, na acepção do presente número,\n\n- « entrega intracomunitária de bens »: uma entrega de bens que deve ser mencionada no mapa recapitulativo previsto no no 6, alínea b), do artigo 22o da Directiva 77/388/CEE,\n\n- « prestação intracomunitária de serviços »: uma prestação de serviços abrangidos pelas disposições do artigo 28oB, pontos C, D e E da Directiva 77/388/CEE,\n\n- « aquisição intracomunitária de bens »: a obtenção do poder de dispor, como proprietário, de bens móveis corpóreos, na acepção do no 3 do artigo 28oA da Directiva 77/388/CEE.\n\n2. Cada Estado-membro comunicará aos restantes Estados-membros e à Comissão quais as autoridades competentes que designa para actuarem como interlocutores para efeitos de aplicação do presente regulamento. Além disso, cada Estado-membro designará um serviço central como principal responsável pelos contactos com os demais Estados-membros em matéria de cooperação administrativa.\n\n3. A Comissão publicará e, sempre que necessário, actualizará, no Jornal Oficial das Comunidades Europeias a lista das autoridades competentes."
+  },
+  "2309da0606549938": {
+   "fragment_id": "TÍTULO I Troca de informações - Disposições gerais — Artigo 3o",
+   "type": "divisao",
+   "heading": "TÍTULO I Troca de informações - Disposições gerais — Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I Troca de informações - Disposições gerais — Artigo 3o\n\n1. A obrigação de prestar assistência prevista pelo presente regulamento não abrange a comunicação de informações ou documentos obtidos pelas autoridades administrativas referidas no artigo 1o quando actuem a pedido das autoridades judiciárias.\n\nNo entanto, em caso de pedido de assistência, essas informações ou documentos serão comunicados sempre que as autoridades judiciárias, que devem ser consultadas para o efeito, dêem o seu consentimento.\n\n2. O presente regulamento não prejudica a aplicação do disposto noutros acordos ou instrumentos relativos à cooperação em matéria fiscal.\n\n3. O presente regulamento não prejudica a aplicação, nos Estados-membros, de normas relativas à entreajuda judiciária em matéria penal.\n\nTÍTULO II Troca de informações relativas ao imposto sobre o valor acrescentado nas transacções intracomunitárias"
+  },
+  "3fb97786f54f2dfc": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. A autoridade competente de cada Estado-membro disporá de uma base de dados electrónica na qual armazenará e processará as informações que recolha, nos termos do no 6, alínea b), do artigo 22o da Directiva 77/388/CEE. Para possibilitar a utilização destas informações, no âmbito dos procedimentos previstos no presente regulamento, as informações deverão ser armazenadas por um período de, pelo menos, cinco anos, a contar do final do ano civil durante o qual deve ser facultado o acesso a essas informações. Os Estados-membros assegurarão que a base de dados seja mantida actualizada, completa e rigorosa. De acordo com o procedimento previsto no artigo 10o, serão definidos critérios destinados a determinar as alterações que não sejam pertinentes, essenciais ou úteis e possam, por conseguinte, não ser introduzidas.\n\n2. Com base nas informações recolhidas nos termos do no 1, a autoridade competente de um Estado-membro obterá de qualquer outro Estado-membro a comunicação, automática e imediatamente, das seguintes informações, às quais ela poderá ter também acesso directo:\n\n- os números de identificação para efeitos do imposto sobre o valor acrescentado emitidos pelo Estado-membro que recebe as informações, bem como\n\n- o valor total de todas as entregas de bens intracomunitárias às pessoas titulares desses números por todos os operadores económicos identificados para fins de imposto sobre o valor acrescentado no Estado-membro que fornece as informações; os valores serão expressos na divisa do Estado-membro que fornece as informações e referir-se-ao a trimestres civis.\n\n3. Com base nas informações recolhidas, nos termos do no 1 e unicamente com o objectivo de lutar contra a fraude fiscal, a autoridade competente de um Estado-membro obterá, de cada vez que o considere necessário para controlar as aquisições comunitárias, comunicação automática e imediata das seguintes informações, a que pode igualmente ter acesso directo:\n\n- os números de identificação para efeitos do imposto sobre o valor acrescentado das pessoas que efectuaram as entregas referidas no segundo travessão do no 2, bem como\n\n- o valor total das entregas efectuadas por cada uma dessas pessoas a cada uma das pessoas em causa às quais tenha sido atribuído um número de identificação para efeitos do imposto sobre o valor acrescentado a que se refere o primeiro travessão do no 2; os valores serão expressos na divisa do Estado-membro que fornece as informações e referir-se-ao a trimestres civis.\n\n4. Quando a autoridade competente de um Estado-membro for obrigada a facultar o acesso às infomações por força do presente artigo, fá-lo-á, no que se refere às informações mencionadas nos nos 2 e 3, no prazo de três meses a contar do fim do trimestre civil a que se referem as informações. Em derrogação desta disposição, no caso de serem aditadas informações à base de dados nas circunstâncias previstas no no 1, o acesso a essas informações deverá ser autorizado o mais rapidamente possível e, o mais tardar, nos três meses seguintes ao trimestre durante o qual as informações complementares foram recolhidas; as condições em que as informações corrigidas serão acessíveis serão determinadas de acordo com o procedimento previsto no artigo 10o\n\n5. Quando, em aplicação do presente artigo, as autoridades competentes dos Estados-membros registarem informações em bases de dados electrónicas e trocarem essas informações por via electrónica, tomarão as medidas necessárias para garantir o cumprimento do disposto no artigo 9o"
+  },
+  "4c84216a3a542c6d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Quando as informações fornecidas ao abrigo do artigo 4o forem insuficientes, as autoridades competentes de um Estado-membro podem, em qualquer momento e em casos específicos, solicitar informações suplementares. A autoridade requerida deverá fornecer a informação com a maior brevidade possível e o mais tardar três meses após a recepção do pedido.\n\n2. Nos casos referidos no no 1, a autoridade requerida deve fornecer à autoridade requerente, pelo menos, os números, as datas e os montantes das facturas relativos a operações determinadas efectuadas entre pessoas nos Estados-membros em questão."
+  },
+  "bbe41d7fed919acc": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A autoridade competente de cada Estado-membro manterá uma base de dados electrónica que deverá conter um registo das pessoas a quem foi atribuído um número de identificação para efeitos do imposto sobre o valor acrescentado nesse Estado-membro.\n\n2. A qualquer momento, a autoridade competente de um Estado-membro pode obter directamente, ou pedir que lhe transmitam, com base nos dados recolhidos nos termos do no 1 do artigo 4o, a confirmação da validade do número de identificação para efeitos do imposto sobre o valor acrescentado ao abrigo do qual uma pessoa tenha efectuado ou recebido uma entrega intracomunitária de bens ou uma prestação intracomunitária de serviços. Se for especificamente pedido, a autoridade requerida comunicará igualmente a data de emissão e, se for caso disso, a data de termo da validade do número de identificação para efeitos do imposto sobre o valor acrescentado.\n\n3. Quando isso lhe for solicitado, a autoridade competente fornecerá igualmente, sem demora, o nome e o endereço da pessoa a quem foi atribuído o número, desde que essas informações não sejam armazenadas pela autoridade requerente com o objectivo de eventualmente os utilizar no futuro.\n\n4. A autoridade competente de cada Estado-membro assegurará que as pessoas ligadas a entregas intracomunitárias de bens ou a prestações intracomunitárias de serviços sejam autorizadas a obter confirmação da validade do número de identificação para efeitos do imposto sobre o valor acrescentado de uma pessoa determinada.\n\n5. Quando, para efeitos de aplicação do presente artigo, as autoridades competentes dos Estados-membros registarem informações em bases de dados electrónicas e trocarem essas informações por via electrónica, tomarão as medidas necessárias para garantir o cumprimento do disposto no artigo 9o"
+  },
+  "583afc5e5f02cdd1": {
+   "fragment_id": "TÍTULO III Condições que regem a troca de informações — Artigo 7o",
+   "type": "divisao",
+   "heading": "TÍTULO III Condições que regem a troca de informações — Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III Condições que regem a troca de informações — Artigo 7o\n\n1. A autoridade requerida de um Estado-membro deverá fornecer à autoridade requerente de outro Estado-membro as informações referidas no no 2 do artigo 5o, desde que:\n\n- o número e a natureza dos pedidos de informação apresentados num prazo específico por esta autoridade requerente não imponha um encargo administrativo desproporcionado à autoridade requerida,\n\n- esta autoridade requerente tenha esgotado as habituais fontes de informação a que, nessas circunstâncias, poderia ter recorrido para obter as informações pedidas, sem correr o risco de comprometer a obtenção do resultado pretendido,\n\n- esta autoridade requerente só pedirá assistência se estiver em condições de prestar uma assistência semelhante à autoridade requerente de outro Estado-membro.\n\nEm conformidade com o procedimento estabelecido no artigo 10o e tendo em conta a experiência obtida ao longo do primeiro ano de funcionamento do novo sistema de cooperação administrativa, a Comissão apresentará, até Julho de 1994, critérios gerais destinados a definir o alcance de tais compromissos.\n\n2. Se uma autoridade requerente não se encontrar em condições de cumprir as disposições gerais constantes do no 1, notificará de imediato a autoridade requerida, expondo as suas razões. Se uma autoridade requerida considerar que as disposições gerais do no 1 não foram cumpridas, não sendo, pois, obrigado a fornecer a informação, deverá notificar imediatamente do facto a autoridade requerente e apresentar as respectivas justificações. A autoridade requerente e a autoridade requerida deverão tentar chegar a acordo. Se, dentro do prazo de um mês a contar da data da notificação não tiverem chegado a acordo, qualquer das autoridades poderá solicitar que o assunto seja analisado nos termos do artigo 11o\n\n3. O presente artigo não prejudica a aplicação da Directiva 77/799/CEE no que respeita à troca de informações referida no no 1 do artigo 5o"
+  },
+  "6b4a1352a3755c1f": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nQuando se tratar de trocas de informações, na acepção do artigo 5o, e as disposições da legislação nacional em vigor num Estado-membro prevejam que a pessoa interessada seja notificada desta troca de informações, tais disposições podem continuar a ser aplicáveis, excepto se a sua aplicação puder prejudicar as investigações sobre evasão fiscal noutro Estado-membro; neste caso, a autoridade requerida abster-se-á de proceder a essa notificação, se isso lhe for expressamente solicitado pela autoridade requerente."
+  },
+  "a2900b2ef3e2d469": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. As informações, comunicadas sob qualquer forma em aplicação do presente regulamento, tem carácter confidencial. Tais informações são abrangidas pelo segredo profissional e beneficiam da protecção conferida a informações da mesma natureza pela lei nacional do Estado-membro que as recebeu, bem como das disposições correspondentes aplicáveis às instâncias comunitárias.\n\nDe qualquer modo, estas informações:\n\n- só podem ser facultadas às pessoas directamente relacionadas com a base tributável, a cobrança ou controlo administrativo dos impostos, a fim de garantirem o respectivo apuramento, ou às pessoas cujas funções nas instituições comunitárias exijam o acesso às referidas informações,\n\n- podem, por outro lado, ser utilizadas em processos judiciais ou administrativos instaurados por infracções à legislação fiscal que impliquem a eventual aplicação de sanções.\n\n2. Em derrogação do disposto no no 1, a autoridade competente do Estado-membro que fornece as informações permitirá a respectiva utilização para outros fins no Estado-membro requerente se a legislação do Estado-membro requerido permitir uma utilização para fins semelhantes.\n\n3. Caso a autoridade requerente considere que as informações recebidas da autoridade requerida podem ser úteis à autoridade competente de um terceiro Estado-membro, poderá comunicar-lhe essas informações, com o acordo da autoridade requerida."
+  },
+  "fdb433d1a8007c7e": {
+   "fragment_id": "TÍTULO IV Procedimentos de consulta e de coordenação — Artigo 10o",
+   "type": "divisao",
+   "heading": "TÍTULO IV Procedimentos de consulta e de coordenação — Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV Procedimentos de consulta e de coordenação — Artigo 10o\n\n1. A Comissão será assistida por um comité permanente para a cooperação administrativa em matéria de impostos indirectos, adiante denominado « comité ». Este comité será composto por representantes dos Estados-membros, sendo a presidência confiada a um representante da Comissão.\n\n2. As medidas necessárias à aplicação do artigo 4o e do no 1 do artigo 7o serão adoptadas nos termos do procedimento previsto nos nos 3 e 4.\n\n3. O representante da Comissão apresentará ao comité um projecto de medidas a adoptar. O comité emitirá parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. Este parecer será emitido por maioria de votos, atribuindo-se aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participa na votação.\n\n4. a) A Comissão adoptará as medidas projectadas, desde que sejam conformes com o parecer do comité;\n\nb) Se essas medidas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo do prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, esta ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado, por maioria simples, contra as referidas medidas."
+  },
+  "554c99f90e2cfaba": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros e a Comissão, procederão à análise e à avaliação do funcionamento do dispositivo de cooperação administrativa previsto no presente regulamento e a Comissão centralizará a experiência dos Estados-membros, em especial no que se refere a novos meios de evasão ou de fraude fiscal, a fim de melhorar o funcionamento desse dispositivo. Para o efeito, os Estados-membros comunicarão igualmente à Comissão todas as informações respeitantes ao imposto sobre o valor acrescentado relativas às transacções intracomunitárias susceptíveis de apresentarem interesse ao nível comunitário."
+  },
+  "51e5dbf1059709e4": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Em assuntos de interesse bilateral, as autoridades competentes dos Estados-membros podem comunicar directamente entre si. As autoridades competentes dos Estados-membros podem, de comum acordo, permitir que autoridades por elas designadas comuniquem directamente entre si, em casos ou categorias de casos determinados.\n\n2. Para efeitos de aplicação do presente regulamento, os Estados-membros tomarão todas as providências necessárias para:\n\na) Assegurar uma boa coordenação interna entre as autoridades competentes referidas no artigo 1o;\n\nb) Instituir uma cooperação directa entre as autoridades especialmente habilitadas para a referida coordenação;\n\nc) Tomar medidas adequadas para assegurar o bom funcionamento do sistema de troca de informações previsto no presente regulamento.\n\n3. A Comissão comunicará, o mais rapidamente possível, à autoridade competente de cada Estado-membro, as informações que receba e que esteja apta a fornecer."
+  },
+  "5e8b60b0aaf96efd": {
+   "fragment_id": "TÍTULO V Disposições finais — Artigo 13o",
+   "type": "divisao",
+   "heading": "TÍTULO V Disposições finais — Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V Disposições finais — Artigo 13o\n\nOs Estados-membros renunciarão a quaisquer pedidos de reembolso de despesas incorridas com a aplicação do presente regulamento, excepto, eventualmente, no que se refere a honorários pagos a peritos."
+  },
+  "cfb50d45f6c5f9cb": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. De dois em dois anos a contar da data de entrada em vigor do presente regulamento, a Comissão submeterá um relatório ao Parlamento Europeu e ao Conselho sobre as condições de aplicação do presente regulamento, com base, nomeadamente, no procedimento de controlo permanente previsto no artigo 11o\n\n2. Os Estados-membros comunicarão à Comissão os textos das disposições de direito interno que adoptem no domínio abrangido pelo presente regulamento."
+  },
+  "704699a0423e6b71": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nA troca de informações com base no presente regulamento não será efectuada antes de 1 de Janeiro de 1993. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 27 de Janeiro de 1992. Pelo Conselho\n\nO Presidente\n\nA. MARQUES DA CUNHA\n\n(1) JO no C 187 de 27. 7. 1990, p. 23, e JO no C 131 de 22. 5. 1991, p. 5. (2) JO no C 328 de 24. 12. 1990, p. 265, e parecer emitido em 17 de Janeiro de 1992 (ainda não publicado no Jornal Oficial). (3) JO no C 332 de 31. 12. 1990, p. 124. (4) JO no L 376 de 31. 12. 1991, p. 1. (5) JO no L 145 de 13. 6. 1977, p. 1. (6) JO no L 336 de 27. 12. 1977, p. 15. (7) JO no L 331 de 27. 12. 1979, p. 8."
+  },
+  "e473c22bbbd6b6d0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R0218 — PT — 01.01.2004 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R0218) [REGULAMENTO (CEE) N.º 218/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R0218) [de 27 de Janeiro de 1992](http://publications.europa.eu/resource/celex/31992R0218) [relativo à cooperação administrativa no domínio dos impostos indirectos (IVA)](http://publications.europa.eu/resource/celex/31992R0218) (JO L 024, 1.2.1992, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1798/2003 do Conselho de 7 de Outubro de 2003](http://publications.europa.eu/resource/celex/32003R1798) — L 264 — 1 — 15.10.2003"
+  }
+ }
+}

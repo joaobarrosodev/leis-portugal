@@ -1,0 +1,583 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975L0439:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975L0439-20101212",
+ "dre_path": null,
+ "source_lastmod": "2010-12-12",
+ "versions": [
+  {
+   "date": "1975-07-25",
+   "future": false,
+   "celex": "31975L0439",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3b5a4574997b335b",
+    "b36ab329c1e74764",
+    "007ce59f408bdcfe",
+    "b8358c731dee0c85",
+    "a19deec47edd2552",
+    "8107ec8428bad7f9",
+    "c5a8905c16cedd25",
+    "7c584d17f9aff249",
+    "966426f27ddebbe0",
+    "186459285f2aa88d",
+    "aa656977bd86d1a5",
+    "8dc215581426cc86",
+    "c8462228eb987db4",
+    "56e3c90094b68a5b",
+    "da5e50e6868ea259",
+    "beca73fd120f7b31",
+    "8ea44abae5ea1b5f",
+    "d9cdd02bca9c88ff",
+    "65e0dec217a35331",
+    "a185dfbfd6ff789d",
+    "c7d152edbbf299d1"
+   ]
+  },
+  {
+   "date": "2005-12-28",
+   "future": false,
+   "celex": "01975L0439-20051228",
+   "acts": [
+    {
+     "id": "eu:celex:31987L0101:por",
+     "title": "Directiva do Conselho de 22 de Dezembro de 1986 (87/101/CEE)",
+     "published": null,
+     "celex": "31987L0101"
+    },
+    {
+     "id": "eu:celex:31991L0692:por",
+     "title": "Directiva do Conselho de 23 de Dezembro de 1991 (91/692/CEE)",
+     "published": null,
+     "celex": "31991L0692"
+    },
+    {
+     "id": "eu:celex:32000L0076:por",
+     "title": "DIRECTIVA 2000/76/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de Dezembro de 2000",
+     "published": null,
+     "celex": "32000L0076"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita Artigo 11º",
+    "Adita Artigo 12º",
+    "Adita Artigo 13º",
+    "Adita Artigo 14",
+    "Adita Artigo 15º",
+    "Adita Artigo 16º",
+    "Adita Artigo 17º",
+    "Adita Artigo 18º",
+    "Adita Artigo 19º",
+    "Adita Artigo 20º",
+    "Adita Artigo 21º",
+    "Adita Artigo 22º",
+    "Adita DECLARAÇÃO",
+    "Adita Nº 3 do artigo 10º da Directiva 75/439/CEE",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o"
+   ],
+   "fragments": [
+    "8477028d9e7c8ee4",
+    "7080877c3b18c9f6",
+    "9d5a980dc3eaf646",
+    "728ef2ef92e103c0",
+    "9b4712a4021967e9",
+    "e45c2d1a049224c9",
+    "880231b203ef92d2",
+    "08504c3f9322981d",
+    "931eb5e5369ffd62",
+    "789d049f5324dff8",
+    "d194adb693a12136",
+    "64cae30b09d036d4",
+    "ad88421fdeea9e85",
+    "312a5a866ac1e7e6",
+    "6662a8fa833867d2",
+    "4187ded295c4f128",
+    "5a3cb13252a758b3",
+    "3eb031ec332b01ba",
+    "2130f7e18be68775",
+    "85bb0e6cec5538f1",
+    "ba3bb6d81182834f",
+    "8c6808f4b6fe72e8",
+    "452a787db69725fd",
+    "fd1368a962962510",
+    "4f1edce5e14a21ce",
+    "2941a919967c3053"
+   ]
+  },
+  {
+   "date": "2008-12-12",
+   "future": false,
+   "celex": "01975L0439-20081212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime DECLARAÇÃO",
+    "Suprime Nº 3 do artigo 10º da Directiva 75/439/CEE",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c64a9d105ff2f6d4"
+   ]
+  },
+  {
+   "date": "2010-12-12",
+   "future": false,
+   "celex": "01975L0439-20101212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "12925079795c9ed1"
+   ]
+  }
+ ],
+ "fragments": {
+  "3b5a4574997b335b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva do Conselho, de 16 de Junho de 1975, relativa à eliminação dos óleos usados** *Jornal Oficial nº L 194 de 25/07/1975 p. 0023 - 0025 Edição especial grega: Capítulo 15 Fascículo 1 p. 0077 Edição especial espanhola: Capítulo 15 Fascículo 1 p. 0091 Edição especial portuguesa: Capítulo 15 Fascículo 1 p. 0091 Edição especial finlandesa: Capítulo 15 Fascículo 1 p. 0229 Edição especial sueca: Capítulo 15 Fascículo 1 p. 0229*\n\nDIRECTIVA DO CONSELHO de 16 de Junho 1975 relativa à eliminação dos óleos usados\n\n(75/439/CEE)\n\nO CONSELHO DA COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\ntendo em conta a proposta da Comissão,\n\ntendo em conta o parecer do Parlamento Europeu (1),\n\ntendo em conta o parecer do Comité Económico e Social (2),\n\nconsiderando que uma disparidade entre as disposições já aplicáveis ou em preparação nos diferentes Estados-membros, no que diz respeito à eliminação dos óleos usados, pode criar condições de concorrência desiguais e ter, deste modo, uma incidência directa no funcionamento do mercado comum; que convém, portanto, proceder neste domínio à aproximação das legislações prevista no artigo 100o do Tratado;\n\nconsiderando que se afigura necessário fazer acompanhar esta aproximação das legislações de uma acção da Comunidade que tenha por objectivo realizar, mediante uma regulamentação mais ampla, um dos objectivos da Comunidade no domínio da protecção do ambiente; que convém, portanto, prever, para o efeito, certas disposições específicas; que, não estando os poderes de acção necessários para o efeito previstos no Tratado, convém recorrer ao artigo 235o do Tratado;\n\nconsiderando que qualquer regulamentação em matéria de eliminação dos óleos usados deve ter como um dos objectivos principais a protecção do ambiente contra os efeitos prejudiciais causados pela descarga, depósito ou tratamento destes óleos;\n\nconsiderando que a reutilização dos óleos usados pode contribuir para uma política de abastecimento de combustíveis;\n\nconsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente (3) põe em evidência a importância do problema da eliminação dos óleos usados sem prejuízo para o ambiente;\n\nconsiderando que as quantidades de óleos usados, e em especial das emulsões, aumentaram na Comunidade;\n\nconsiderando que um sistema eficaz e coerente de tratamento destes óleos, que não entrave as trocas comerciais intercomunitárias e que não afecte as condições de concorrência, devia aplicar-se a todos estes produtos, mesmo àqueles que só em parte são compostos de óleo e prever o seu tratamento inofensivo em condições economicamente satisfatórias;\n\nconsiderando que um tal sistema devia regular o tratamento, a descarga, o depósito e a recolha dos óleos usados e prever um mecanismo de autorização das empresas que eliminam estes óleos, a recolha e/ou a eliminação obrigatória destes óleos em certos casos, assim como os processos de controlo adequados;\n\nconsiderando que, no caso em que certas empresas são obrigadas a proceder à recolha e/ou eliminação dos óleos usados, a parte dos seus custos daí resultantes e não cobertos pelas suas receitas devia poder ser compensada por subsídios e que estes podem, entre outros modos, ser financiados através de uma taxa sobre os óleos novos ou regenerados,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b36ab329c1e74764": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara a aplicação da presente directiva, entende-se por óleo usado qualquer produto usado semi-líquido ou líquido composto total ou parcialmente, de óleo mineral ou de óleo sintético, incluindo os resíduos oleosos de tanques, as misturas água-óleo e as emulsões."
+  },
+  "007ce59f408bdcfe": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros tomarão as medidas necessárias para que sejam asseguradas a recolha e a eliminação inofensivas dos óleos usados."
+  },
+  "b8358c731dee0c85": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros tomarão as medidas necessárias para que, na medida do possível, a eliminação dos óleos usados seja efectuada por reutilização (regeneração e/ou combustão com fins diferentes da destruição)."
+  },
+  "a19deec47edd2552": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros tomarão as medidas necessárias para que sejam proibidos:\n\n1. qualquer descarga de óleos usados nas águas interiores de superfície, nas águas subterrâneas, nas águas costeiras e nas canalizações;\n\n2. qualquer depósito e/ou descarga de óleos usados com efeitos nocivos para o solo, assim qualquer descarga não controlada de resíduos resultantes da transformação de óleos usados;\n\n3. qualquer tratamento de óleos usados que provoque uma poluição no ar que ultrapasse o nível estabelecido pelas disposições em vigor."
+  },
+  "8107ec8428bad7f9": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nSempre que os objectivos definidos nos artigos 2o, 3o e 4o não possam ser atingidos por outro meio, os Estados-membros tomarão as medidas necessárias para que uma várias empresas procedam à recolha dos produtos entregues pelos detentores e/ou à eliminação desses produtos, se for caso disso, na área que lhes é atribuída pela administração competente."
+  },
+  "c5a8905c16cedd25": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nEm conformidade com as medidas tomadas por força do artigo 4o, qualquer empresa que elimine os óleos usados deve obter uma autorização.\n\nEsta autorização é concedida pela administração competente, sempre que necessário após uma vistoria às instalações; a autorização imporá as condições exigidas pelo estado de desenvolvimento técnico."
+  },
+  "7c584d17f9aff249": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nTodo aquele que detenha óleos usados deve, se não puder respeitar as medidas tomadas por força do artigo 4o, colocá-los à disposição de uma ou das empresas referidas no artigo 5o."
+  },
+  "966426f27ddebbe0": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs detentores de certas quantidades de óleos usados que contenham impurezas que ultrapassem certas percentagens devem manipulá-los e armazená-los separadamente.\n\nAs autoridades competentes determinarão, eventualmente por categoria de produtos, as quantidades e as percentagens referidas no primeiro parágrafo."
+  },
+  "186459285f2aa88d": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAs empresas que recolhem e/ou eliminam óleos usados devem efectuar essas operações sem que delas advenham prejuízos evitáveis para a água, o ar ou o solo."
+  },
+  "aa656977bd86d1a5": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nQualquer estabelecimento que produza, recolha e/ou elimine mais do que uma dada quantidade de óleos usados, a fixar por cada Estado-membro mas não superior a 500 litros por ano, deve:\n\n- manter um registo com indicações sobre as quantidades, a qualidade, a origem e a localização, assim como sobre a cessão e a recepção, mencionando, nomeadamente, a data destas últimas,\n\ne/ou\n\n- notificar estas informações à administração competente, a pedido desta última.\n\nOs Estados-membros são autorizados a fixar a quantidade de óleos usados, nos termos do primeiro parágrafo, em função do equivalente em óleo novo, calculado com base num coeficiente de conversão razoável."
+  },
+  "8dc215581426cc86": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nQualquer empresa que elimine óleos usados deve comunicar às autoridades competentes, a pedido destas, todas as informações sobre a eliminação ou o depósito desses óleos usados ou dos seus resíduos."
+  },
+  "c8462228eb987db4": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nAs empresas referidas no artigo 6o são controladas periodicamente pela administração competente, especialmente no que diz respeito ao cumprimento das condições de autorização."
+  },
+  "56e3c90094b68a5b": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nComo contrapartida das obrigações que lhes são impostas pelos Estados-membros em aplicação do artigo 5o, as empresas de recolha e/ou eliminação podem beneficiar de subsídios pelos serviços prestados. Estes subsídios não devem ultrapassar os custos anuais não cobertos e efectivamente verificados das empresas, tendo em conta um lucro razoável.\n\nOs referidos subsídios não devem criar distorções significativas na concorrência, nem criar correntes artificiais de trocas comerciais de produtos."
+  },
+  "da5e50e6868ea259": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs subsídios podem ser financiados, entre outros modos, por uma taxa cobrada sobre os produtos que, após utilização, são transformados em óleos usados ou sobre os óleos usados.\n\nO financiamento dos subsídios deve estar em conformidade com o princípio do «poluidor-apagador»."
+  },
+  "beca73fd120f7b31": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nCada Estado-membro comunicará, periodicamente, à Comissão os seus conhecimentos técnicos bem como as experiências e resultados decorrentes da aplicação das disposições adoptadas por força da presente directiva.\n\nA Comissão transmitirá um resumo do conjunto dessas informações aos Estados-membros."
+  },
+  "8ea44abae5ea1b5f": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nDe três em três anos, os Estados-membros elaborarão um relatório sobre a situação da eliminação dos óleos usados nos seus países e enviá-lo-ao à Comissão."
+  },
+  "d9cdd02bca9c88ff": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nOs Estados-membros porão em vigor as medidas necessárias para darem cumprimento à presente directiva no prazo de vinte e quatro meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão."
+  },
+  "65e0dec217a35331": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nAs disposições adoptadas pelos Estados-membros por força da presente directiva podem ser aplicados progressivamente às empresas referidas no artigo 6o, e já existentes no momento da notificação da presente directiva, num prazo de quatro anos a contar desta notificação."
+  },
+  "a185dfbfd6ff789d": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nOs Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "c7d152edbbf299d1": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 16 de Junho de 1975.\n\nPelo Conselho\n\nO Presidente\n\nR. RYAN\n\n(1) JO n. C 85 de 18. 7. 1974, p. 6.(2) JO n. C 125 de 16. 10. 1974, p. 33.(3) JO n. C 112 de 20. 12. 1973, p. 3."
+  },
+  "8477028d9e7c8ee4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Junho 1975\n\nrelativa à eliminação dos óleos usados\n\n(75/439/CEE)\n\nO CONSELHO DA COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100º e 235º,\n\ntendo em conta a proposta da Comissão,\n\ntendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#E0001)),\n\ntendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#E0002)),\n\nconsiderando que uma disparidade entre as disposições já aplicáveis ou em preparação nos diferentes Estados-membros, no que diz respeito à eliminação dos óleos usados, pode criar condições de concorrência desiguais e ter, deste modo, uma incidência directa no funcionamento do mercado comum; que convém, portanto, proceder neste domínio à aproximação das legislações prevista no artigo 100º do Tratado;\n\nconsiderando que se afigura necessário fazer acompanhar esta aproximação das legislações de uma acção da Comunidade que tenha por objectivo realizar, mediante uma regulamentação mais ampla, um dos objectivos da Comunidade no domínio da protecção do ambiente; que convém, portanto, prever, para o efeito, certas disposições específicas; que, não estando os poderes de acção necessários para o efeito previstos no Tratado, convém recorrer ao artigo 235º do Tratado;\n\nconsiderando que qualquer regulamentação em matéria de eliminação dos óleos usados deve ter como um dos objectivos principais a protecção do ambiente contra os efeitos prejudiciais causados pela descarga, depósito ou tratamento destes óleos;\n\nconsiderando que a reutilização dos óleos usados pode contribuir para uma política de abastecimento de combustíveis;\n\nconsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente ([^3^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#E0003)) põe em evidência a importância do problema da eliminação dos óleos usados sem prejuízo para o ambiente;\n\nconsiderando que as quantidades de óleos usados, e em especial das emulsões, aumentaram na Comunidade;\n\nconsiderando que um sistema eficaz e coerente de tratamento destes óleos, que não entrave as trocas comerciais intercomunitárias e que não afecte as condições de concorrência, devia aplicar-se a todos estes produtos, mesmo àqueles que só em parte são compostos de óleo e prever o seu tratamento inofensivo em condições economicamente satisfatórias;\n\nconsiderando que um tal sistema devia regular o tratamento, a descarga, o depósito e a recolha dos óleos usados e prever um mecanismo de autorização das empresas que eliminam estes óleos, a recolha e/ou a eliminação obrigatória destes óleos em certos casos, assim como os processos de controlo adequados;\n\nconsiderando que, no caso em que certas empresas são obrigadas a proceder à recolha e/ou eliminação dos óleos usados, a parte dos seus custos daí resultantes e não cobertos pelas suas receitas devia poder ser compensada por subsídios e que estes podem, entre outros modos, ser financiados através de uma taxa sobre os óleos novos ou regenerados,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7080877c3b18c9f6": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nPara efeitos da presente directiva, entende-se por:\n\n— *óleos usados:*\n\n— quaisquer óleos industriais lubrificantes de base mineral, tornados impróprios para o uso a que estavam inicialmente destinados e, nomeadamente, os óleos usados dos motores de combustão e dos sistemas de transmissão e os óleos minerais para máquinas, turbinas e sistemas hidráulicos;\n\n— *eliminação:*\n\n— o tratamento ou a destruição dos óleos usados, bem como o seu armazenamento ou depósito sobre ou no solo;\n\n— *tratamento:*\n\n— as operações destinadas a permitir a reutilização dos óleos usados, isto é, a regeneração e a combustão;\n\n— *regeneração:*\n\n— qualquer processo que permita produzir óleos de base mediante refinação de óleos usados que implique, nomeadamente, a separação dos contaminantes, produtos de oxidação e aditivos que estes óleos contêm;\n\n— *combustão:*\n\n— a utilização dos óleos usados como combustível com recuperação adequada do calor produzido;\n\n— *recolha:*\n\n— o conjunto das operações que permitam transferir os óleos usados dos detentores para empresas que eliminem esses óleos."
+  },
+  "9d5a980dc3eaf646": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nSem prejuízo da Directiva 78/319/CEE ([^4^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#E0004)) (^1^) os Estados-membros tomarão as medidas necessárias para que sejam asseguradas a recolha e a eliminação dos óleos úsados sem provocar danos evitáveis para a homem e para o ambiente."
+  },
+  "728ef2ef92e103c0": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Sempre que as restrições de ordem técnica, económica e administrativa o permitam, os Estados-membros tomarão as medidas necessárias para dar prioridade ao tratamento dos óleos usados por regeneração.\n\n2. No caso de não se proceder à regeneração dos óleos usados devido às restrições referidas no nº 1, os Estados-membros tomarão as medidas necessárias para que qualquer tratamento dos óleos usados por combustão seja efectuado de forma aceitável do ponto de vista do ambiente, em conformidade com o disposto na presente directiva, e sob condição de essa combustão ser praticável do ponto de vista técnico, económico e administrativo.\n\n3. No caso de não se proceder nem à regeneração nem à combustão dos óleos usados devido às restrições referidas nos n^os^ 1 e 2, os Estados-membros tomarão as medidas necessárias para assegurar a sua destruição sem perigo ou o seu armazenamento ou depósito controlado."
+  },
+  "9b4712a4021967e9": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros tomarão as medidas necessárias para que sejam proibidos:\n\na) Qualquer descarga de óleos usados nas águas interiores de superfície, nas águas subterrâneas, nas águas marítimas territoriais e nas canalizações;\n\nb) Qualquer depósito e/ou descarga de óleos usados com efeitos nocivos para o solo, assim como qualquer descarga não controlada de resíduos resultantes da transformação de óleos usados;\n\nc) Qualquer tratamento de óleos usados que provoque uma poluição do ar que ultrapasse o nível estabelecido pelas disposições em vigor."
+  },
+  "e45c2d1a049224c9": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Se tal for necessário para atingir os objectivos da presente directiva e sem prejuízo do artigo 2º, os Estados-membros porão em prática programas de sensibilização do público e de promoção com vista a assegurar a armazenagem adequada e a total recolha dos óleos usados.\n\n2. No caso de não poderem ser atingidos de outra forma os objectivos definidos nos artigos 2º, 3º e 4º, os Estados-membros tomarão as medidas necessárias para que uma ou várias empresas efectuem a recolha dos óleos usados entregues pelos detentores e/ou a eliminação desses óleos, eventualmente na zona que lhes seja atribuída pela administração competente.\n\n3. Para alcançar os objectivos definidos nos artigos 2º e 4º, os Estados-membros podem decidir destinar os óleos usados a qualquer dos tipos de tratamento referidos no artigo 3º Para esse efeito, podem criar os controlos adequados.\n\n4. A fim de garantir o cumprimento das medidas tomadas por força do artigo 4º, qualquer empresa que recolha óleos usados deve ser submetida a um registo e a um controlo adequado pelas autoridades nacionais competentes, incluindo eventualmente um sistema de autorização."
+  },
+  "880231b203ef92d2": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A fim de serem respeitadas as medidas tomadas por força do artigo 4º, qualquer empresa que elimine óleos usados deve obter uma autorização. Essa autorização é concedida, sempre que necessário, após uma vistoria às instalações.\n\n2. Sem prejuízo das exigências impostas pelas disposições nacionais e comunitárias com um objectivo diferente do previsto na presente directiva, a autorização só pode ser concedida às empresas que regenerem óleos usados ou que utilizam os óleos usados como combustível quando a autoridade competente se tiver certificado de que foram tomadas todas as medidas adequadas de protecção da saúde e do ambiente, incluindo a utilização de melhor tecnologia disponível que não ocasione custos excessivos."
+  },
+  "08504c3f9322981d": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nSempre que os óleos usados sejam regenerados, os Estados-membros tomarão as medidas necessárias para que:\n\na) A exploração da instalação em que são regenerados os óleos usados não provoque danos evitáveis ao ambiente.\n\nb) Os óleos de base provenientes da regeneração não constituam substâncias tóxicas e perigosas tal como definidas na alínea b) do artigo lº da Directiva 78/319/CEE e não contenham policlorobifenilo e policlorotrifenilo (PCB/PCT) em concentrações superiores aos limites estabelecidos no artigo 10º,\n\nOs Estados-membros comunicarão essas medidas à Comissão. Com base nessas informações, a Comissão apresentará ao Conselho um relatório, acompanhado eventualmente de propostas adequadas, num prazo de cinco anos a contar da notificação da presente directiva."
+  },
+  "931eb5e5369ffd62": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n2. Além disso, os Estados-membros devem certificar-se:\n\na) De que os resíduos da combustão dos óleos usados sejam eliminados de acordo com o artigo 9º da Directiva 78/319/CEE;\n\nb) De que os óleos usados como combustíveis não constituam substâncias tóxicas e perigosas tal como definidas na alínea b) do artigo 1º da Directiva 78/319/CEE e não contenham PCB/PCT em concentrações superiores a 50 ppm.\n\n3. A observância dos limites estabelecidos no anexo pode alternativamente ser assegurada por meio de um sistema adequado de controlo das concentrações dos poluentes nos óleos usados, ou de misturas de óleos usados e outros combustíveis, destinados a combustão, tendo em conta as características técnicas da instalação.\n\nNo caso das instalações em que as emissões das substâncias enumeradas no anexo possam ser originadas complementarmente ao aquecimento dos produtos, os Estados-membros garantirão, por meio de um sistema de controlo, que a proporção dessas substâncias originadas pela combustão dos óleos usados não exceda os valores-limite fixados no anexo."
+  },
+  "789d049f5324dff8": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nTodo aquele que detenha óleos usados deve, se não puder respeitar as medidas tomadas por força do artigo 4º, colocá-los à disposição de uma ou das empresas referidas no artigo 5º."
+  },
+  "d194adb693a12136": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Durante a armazenagem e a recolha, os detentores e os operadores da recolha não devem misturar os óleos usados com PCBs e PCTs na acepção das Directivas 76/403/CEE ([^5^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#E0006)) nem com resíduos tóxicos e perigosos na acepção da Directiva 78/319/CEE.\n\n2. Com excepção do disposto no nº 3, os óleos usados que contenham mais de 50 ppm de PCB/PCT ficam sujeitos às disposições da Directiva 76/403/CEE do Conselho.\n\nOs Estados-membros tomarão igualmente as medidas especiais de ordem técnica necessárias para assegurar que todos os óleos usados que contenham PCB/PCTs sejam eliminados sem causar danos evitáveis para o homem e para o ambiente.\n\n3. É permitida a regeneração dos óleos usados que contenham PCBs ou PCTs, se os processos de regeneração permitirem, quer a destruição dos PCBs e PCTs, quer a sua redução, de modo que os óleos regenerados não contenham PCB/PCT em quantidade superior a um limite máximo que, em caso algum, pode ultrapassar 50 ppm.\n\n4. Os métodos de medição de referência para determinação de teor de PCB/PCT nos óleos usados serão estabelecidos pela Comissão após consulta do Comité para a adaptação ao progresso técnico instituído pelo artigo 18º da Directiva 78/319/CEE.\n\n5. Os óleos usados contaminados por substâncias abrangidas pela definição de resíduos tóxicos e perigosos estabelecida na alínea b) do artigo 1º da Directiva 78/319/CEE devem ser eliminados de acordo com o disposto na referida directiva."
+  },
+  "64cae30b09d036d4": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nQualquer estabelecimento que produza, recolha e/ou elimine mais do que uma dada quantidade de óleos usados, a fixar por cada Estado-membro mas não superior a 500 litros por ano, deve:\n\n— manter um registo com indicações sobre as quantidades, a qualidade, a origem e a localização, assim como sobre a cessão e a recepção, mencionando, nomeadamente, a data destas últimas,\n\n— e/ou\n\n— notificar estas informações à administração competente, a pedido desta última.\n\nOs Estados-membros são autorizados a fixar a quantidade de óleos usados, nos termos do primeiro parágrafo, em funçáo do equivalente em óleo novo, calculado com base num coeficiente de conversáo razoável."
+  },
+  "ad88421fdeea9e85": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nQualquer empresa que recolha detenha e/ou elimine óleos usados deve comunicar às autoridades competentes, a pedido destas, todas as informações sobre a recolha e/ou eliminação ou o depósito desses óleos usados ou dos seus resíduos."
+  },
+  "312a5a866ac1e7e6": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. As empresas referidas no artigo 6º serão controladas periodicamente pela administração competente, especialmente no que diz respeito ao cumprimento das condições de autorização.\n\n2. As autoridades competentes analisarão a evolução da situação no campo da tecnologia e/ou do ambiente a fim de rever, se necessário, a autorização concedida a uma empresa nos termos da presente directiva."
+  },
+  "6662a8fa833867d2": {
+   "fragment_id": "Artigo 14",
+   "type": "artigo",
+   "heading": "Artigo 14",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14\n\nComo contrapartida das obrigações que lhes são impostas pelos Estados-membros em aplicação do artigo 5º, as empresas de recolha e/ou eliminação podem beneficiar de subsídios pelos serviços prestados. Estes subsídios não devem ultrapassar os custos anuais não cobertos e efectivamente verificados das empresas, tendo em conta um lucro razoável.\n\nOs referidos subsídios náo devem criar distorções significativas na concorrência, nem criar correntes artificiais de trocas comerciais de produtos."
+  },
+  "4187ded295c4f128": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs subsídios podem ser financiados, entre outros modos, por uma taxa cobrada sobre os produtos que, após utilização, são transformados em óleos usados ou sobre os óleos usados.\n\nO financiamento dos subsídios deve estar em conformidade com o princípio do «poluidor-apagador»."
+  },
+  "5a3cb13252a758b3": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros podem, no respeito pelas disposições do Tratado, adoptar medidas para a protecção do ambiente mais rigorosas do que as previstas na presente directiva.\n\nTais medidas podem, de acordo com as mesmas disposições, contemplar, nomeadamente, a proibição de combustão dos óleos usados."
+  },
+  "3eb031ec332b01ba": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nCada Estado-membro comunicará, periodicamente, à Comissão os seus conhecimentos técnicos bem como as experiências e resultados decorrentes da aplicação das disposições adoptadas por força da presente directiva.\n\nA Comissão transmitirá um resumo do conjunto dessas informações aos Estados-membros."
+  },
+  "2130f7e18be68775": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nDe três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório deve ser elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6º da Directiva 91/692/CEE ([^6^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#E0007)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão num prazo de nove meses a contar do final do período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1995 a 1997, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de nove meses a contar da recepção dos relatórios dos Estados-membros."
+  },
+  "85bb0e6cec5538f1": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nOs Estados-membros porão em vigor as medidas necessárias para darem cumprimento à presente directiva no prazo de vinte e quatro meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão."
+  },
+  "ba3bb6d81182834f": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\nAs disposições adoptadas pelos Estados-membros por força da presente directiva podem ser aplicados progressivamente às empresas referidas no artigo 6º, e já existentes no momento da notificação da presente directiva, num prazo de quatro anos a contar desta notificação."
+  },
+  "8c6808f4b6fe72e8": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nOs Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "452a787db69725fd": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "fd1368a962962510": {
+   "fragment_id": "DECLARAÇÃO",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## DECLARAÇÃO"
+  },
+  "4f1edce5e14a21ce": {
+   "fragment_id": "Nº 3 do artigo 10º da Directiva 75/439/CEE",
+   "type": "divisao",
+   "heading": "Nº 3 do artigo 10º da Directiva 75/439/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nº 3 do artigo 10º da Directiva 75/439/CEE\n\nO Conselho considera que o limite estabelecido no nº 3 do artigo 10º é da facto, um limite máximo para o produto do processo de regeneração. Tendo consciência da necessidade de, sempre que possível, anular no ambiente os PCB/PCTs, o Conselho solicita aos Estados-membros que envidem todos os esforços para se manterem bem abaixo desse limite. Além disso, convida a Comissão a rever esse limite e a apresentar propostas adequadas de um novo limite, num prazo de cinco anos a contar da notificação da presente directiva.\n\n---"
+  },
+  "2941a919967c3053": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#src.E0001)) JO nº C 85 de 18. 7. 1974, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#src.E0002)) JO nº C 125 de 16. 10. 1974, p. 33.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#src.E0003)) JO nº C 112 de 20. 12. 1973, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#src.E0004)) JO nº L 84 de 31. 3. 1978, p.43.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#src.E0006)) JO nº L 108 de 26. 4. 1976, p. 41.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c1f8554f-3bbb-4495-8df2-c576c3714082.0018.03/DOC_1#src.E0007)) JO nº L 377 de 31. 12. 1991, p. 48."
+  },
+  "c64a9d105ff2f6d4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975L0439 — PT — 12.12.2008 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/375L0439) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/375L0439) [de 16 de Junho I975](http://publications.europa.eu/resource/celex/375L0439) [relativa à eliminação dos óleos usados](http://publications.europa.eu/resource/celex/375L0439) [(75/439/CEE)](http://publications.europa.eu/resource/celex/375L0439) (JO L 194, 25.7.1975, p.31)\n\n**revogado por:**"
+  },
+  "12925079795c9ed1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975L0439 — PT — 12.12.2010 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975L0439) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31975L0439) [de 16 de Junho I975](http://publications.europa.eu/resource/celex/31975L0439) [relativa à eliminação dos óleos usados](http://publications.europa.eu/resource/celex/31975L0439) [(75/439/CEE)](http://publications.europa.eu/resource/celex/31975L0439) (JO L 194, 25.7.1975, p.31)\n\n**revogado por:**\n\n- [Directiva 2008/98/CE do Parlamento Europeu e do Conselho de 19 de Novembro de 2008](http://publications.europa.eu/resource/celex/32008L0098) — L 312 — 3 — 22.11.2008"
+  }
+ }
+}

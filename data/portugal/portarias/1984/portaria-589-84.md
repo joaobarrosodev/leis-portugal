@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:382424:por
+title: Portaria n.º 589/84
+short_title: null
+summary: Proíbe manter a bordo, desembarcar, vender, expor ou oferecer para venda espécimes de patudo (Thunnus obesus), inteiros
+  ou não, com peso inferior a 3,2 kg, salvo se o número destes espécimes não exceder 15% do número total de patudos nas condições
+  supracitadas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Mar - Secretaria de Estado das Pescas
+proposing_entity: null
+official_number: 589/84
+official_date: null
+publication_date: '1984-08-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 185/1984, Série I de 1984-08-10
+  number: '185'
+  series: I
+  supplement: null
+  pages: 2468 - 2468
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/08/18500/24682468.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382424'
+  dre_path: /dr/detalhe/portaria/589-1984-382424
+  internal: pt:dre:382424:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/589-1984-382424
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/589-1984-382424
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:08:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f3034f8125ab4721c6454c22bccc561f6a6e0eb67b625ad7c33c2581be2483da
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Gestão dos Recursos
+- Pesca
+- Recursos do Mar
+relationships:
+- type: cites
+  target: pt:dre:579732:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:08:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 589/84
+
+de 10 de Agosto
+
+Tendo em atenção a conservação das existências de patudo (Thunnus obesus) conducente à publicação da [Portaria n.º 604/81](https://diariodarepublica.pt/dr/detalhe/portaria/604-1981-579732), de 17 de Julho, que incorporou em direito interno as medidas que haviam sido adoptadas na 6.ª Reunião Ordinária da Comissão da Convenção Internacional para a Conservação de Tunídeos do Atlântico e considerando que a referida portaria caducou em 31 de Dezembro de 1983, mantendo-se, no entanto, a situação que fundamentou a sua publicação:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Pescas, que seja proibido manter a bordo, desembarcar, vender, expor ou oferecer para venda espécimes de patudo (Thunnus obesus), inteiros ou não, com peso inferior a 3,2 kg, salvo se o número destes espécimes não exceder 15% do número total de patudos nas condições supracitadas.
+
+Secretaria de Estado das Pescas.
+
+Assinada em 24 de Julho de 1984.
+
+O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.

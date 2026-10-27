@@ -1,0 +1,333 @@
+---
+schema_version: '1.0'
+id: pt:dre:451455:por
+title: Despacho Normativo n.º 124/83
+short_title: null
+summary: Determina quais os prazos mínimos de conservação em arquivo de determinado lote de documentos existentes nas alfândegas
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 124/83
+official_date: null
+publication_date: '1983-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/1983, Série I de 1983-05-24
+  number: '119'
+  series: I
+  supplement: null
+  pages: 1891 - 1893
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11900/18911893.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '451455'
+  dre_path: /dr/detalhe/despacho-normativo/124-1983-451455
+  internal: pt:dre:451455:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/124-1983-451455
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/124-1983-451455
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:22:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2496e3d84189b3f1c3898362f274763d7c32094cdfab8d209c1f04c9ad72d6d6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:22:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conservação de Documentos
+- Direcção Geral das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506178:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:22:37Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 124/83
+
+Havendo necessidade de dar solução com a máxima urgência à questão dos prazos mínimos de conservação em arquivo de livros, processos e documentação avulsa existentes nas alfândegas, relativamente aos quais, somente nos anos de 1955, 1958, 1970, 1973 e 1980, foram encaradas certas medidas de natureza meramente pontual;
+
+Considerando que urge solucionar imediatamente os problemas decorrentes da existência de volumosa documentação arquivada, aguardando o decorrer de longos prazos de conservação então fixados;
+
+Atendendo a que os espaços físicos dos arquivos das alfândegas não podem comportar mais documentos nem é possível afectar-lhes novas áreas:
+
+Determino, sem prejuízo de maior aprofundamento sobre a matéria, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https://diariodarepublica.pt/dr/detalhe/decreto/17-1976-506178), de 14 de Janeiro, se proceda a uma derrogação do prazo estatuído no artigo 613.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, para o seguinte lote de documentos, que passarão a ter o prazo mínimo de conservação indicado em cada um dos grupos que o integram:
+
+Documentos a inutilizar imediatamente
+
+Cadernetas de guias de acompanhamento de pescado;
+
+Cadernetas de guias de condução de pescarias das armações à lota;
+
+Cadernetas de guias de remessa de pescado;
+
+Guias de remessa de pescado;
+
+Guias de remessa à secretaria do tráfego de talonnettes referentes ao serviço de tráfego de assistência;
+
+Relatórios mensais acerca das embarcações do serviço fluvial e marítimo;
+
+Talões das cadernetas de guias de remessa do pescado;
+
+Cadernetas de avaliação do pescado;
+
+Cadernetas de bilhetes de cobrança do imposto de pescado;
+
+Cadernetas de guias de circulação do pescado;
+
+Pontos diários do pessoal dos serviços acessórios, do tráfego e marítimo;
+
+Mapas diários das embarcações que saíram e por quem foram conduzidas;
+
+Bilhetes de cobrança de emolumentos consulares;
+
+Bilhetes de cobrança do imposto de pescado;
+
+Bilhetes de despacho de bacalhau pescado por vários portugueses;
+
+Cadernetas de guias de depósito de caução de emolumentos consulares e multa;
+
+Cadernetas de guias de remessa de cartas de jogar;
+
+Livros de registo de vendas de pescado;
+
+Mapas do serviço diário dos barcos de fiscalização;
+
+Guias de circulação de pescado;
+
+Guias para embarque de gelo;
+
+Guias para descarga de carvão.
+
+Documentos a inutilizar ao fim de 1 ano
+
+Cadernetas de guias de acompanhamento de mercadorias a verificar fora dos locais habituais;
+
+Cadernetas de guias de apresentação, aos verificadores, de pessoal técnico-profissional, para serviços a requerimento das partes;
+
+Cadernetas de guias de circulação na zona fiscal da fronteira terrestre;
+
+Cadernetas de guias de remessa ao guano de géneros julgados incapazes para consumo;
+
+Cadernetas de listas de bagagem;
+
+Cadernetas de ordem de saída de armazéns;
+
+Cadernetas de pedidos para abastecimentos de depósitos;
+
+Cadernetas de requisições à comissão administrativa de:
+
+Artigos de expediente;
+
+Material;
+
+Impressos não pagos;
+
+Impressos pagos;
+
+Obras;
+
+Cadernetas para depósitos de caução no acto do leilão;
+
+Cadernetas de requisições de impressos do grupo G ao depósito pela venda de impressos;
+
+Conta-corrente dos impressos (mensal);
+
+Fichas do consumo de artigos de expediente (por entidades requisitantes);
+
+Fichas de consumo de material (por entidades requisitantes);
+
+Fichas para conta-corrente de impressos;
+
+Fichas do movimento de autorizações de pagamento;
+
+Fichas do movimento de artigos de expediente;
+
+Fichas do movimento de impressos pagos;
+
+Fichas do movimento de impressos não pagos;
+
+Fichas do movimento de material;
+
+Guias de circulação na zona fiscal da fronteira terrestre;
+
+Guias de reentrada de mercadorias procedentes das delegações;
+
+Guias de depósito de caução no acto do leilão;
+
+Guias de remessa à 3.ª secção de quantias provenientes de emolumentos pessoais, subsídios de deslocação e ajudas de custo, cobradas nas estâncias de despacho;
+
+Mapas de distribuição de pessoal para serviço a requerimento das partes;
+
+Notas semanais das existências em cofre;
+
+Notas do serviço diário das reverificações e verificações;
+
+Notas do serviço efectuado diariamente pelos funcionários nas delegações;
+
+Ordens de saída de armazém;
+
+Requisições para abastecimento dos depósitos;
+
+Requisições à comissão administrativa de:
+
+Artigos de expediente;
+
+Material;
+
+Impressos do grupo não pagas;
+
+Impressos pagos;
+
+Obras;
+
+Requisições de impressos do grupo G ao depósito pela venda de impressos.
+
+Documentos a inutilizar ao fim de 5 anos
+
+Balancetes do movimento diário dos fiéis da tesouraria;
+
+Bilhetes para pagamento único do tráfego ou de armazenagem;
+
+Cópias dos despachos de exportação;
+
+Cópias dos despachos de reexportação, trânsito, transferência e baldeação;
+
+Cópias dos despachos de cabotagem por saída;
+
+Guias de contagem e pagamento dos despachos de cabotagem por entrada;
+
+Cadernetas de guias de entrada nos entrepostos de mercadorias nacionais ou nacionalizadas;
+
+Cardernetas de guias de entrada nos entrepostos de mercadorias existentes em depósitos aduaneiros;
+
+Cadernetas de guias de remessa à contrastaria;
+
+Cadernetas de guias de remessa de armas à Direcção da Arma de Artilharia;
+
+Cadernetas de guias de trânsito interior de bagagens;
+
+Cadernetas de guias de trânsito interior ou internacional de mercadorias;
+
+Cadernetas de guias de trânsito internacional de bagagens;
+
+Cadernetas de requisições de documentos aos diversos serviços;
+
+Cadernetas de títulos de propriedade de separados de bagagem;
+
+Cadernos de registo auxiliar da receita cobrada na tesouraria;
+
+Duplicados dos mapas do movimento diário da tesouraria;
+
+Fichas do movimento dos processos de encontro;
+
+Fichas do movimento de termos de fiança;
+
+Guias de emolumentos pessoais;
+
+Guias de entrada de correspondência oficial;
+
+Guias de remessa para o armazém de leilões;
+
+Guias de trânsito interior ou internacional de mercadorias;
+
+Livros de ponto;
+
+Livros de ponto suplementar;
+
+Mapas discriminativos das armas importadas e suas características;
+
+Mapas discriminativos de munições importadas;
+
+Mapas dos navios com guardas a bordo;
+
+Movimento das caixas na tesouraria;
+
+Movimento de depósitos nas delegações;
+
+Notas discriminativas dos saldos existentes no fecho diário na tesouraria;
+
+Notas discriminativas dos emolumentos, subsídios de deslocação e ajudas de custo que competem aos funcionários;
+
+Notas discriminativas dos subsídios de deslocação e ajudas de custo que competem aos funcionários;
+
+Notas de serviço diário da conferência final;
+
+Notas de serviço a requerimento das partes do pessoal do tráfego;
+
+Processos de expediente de navios;
+
+Resumos dos lançamentos das importâncias constantes das guias de emolumentos;
+
+Resumos do movimento dos depósitos das delegações e dos postos delas dependentes;
+
+Talões das guias de emolumentos pessoais;
+
+Verbetes de importação de óleos, petróleos, gasolina e seus derivados.
+
+Documentos a inutilizar ao fim de 10 anos
+
+Guias de contagem e pagamento dos despachos de importação;
+
+Livros de registo de confrontações de mercadorias;
+
+Livros de registo de diferenças encontradas no serviço da conferência final;
+
+Protocolos de remessa de correspondência e de outro expediente;
+
+Relações de documentos remetidos ao arquivo e à conferência final de:
+
+Documentos diversos;
+
+Documentos escriturados em receita, excepto bilhetes de despacho;
+
+Bilhetes de despacho.
+
+Secretaria de Estado do Orçamento, 22 de Abril de 1983. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.

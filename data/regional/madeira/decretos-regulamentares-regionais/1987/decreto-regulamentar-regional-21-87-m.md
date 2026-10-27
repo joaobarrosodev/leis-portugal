@@ -1,0 +1,644 @@
+---
+schema_version: '1.0'
+id: pt:dre:495078:por
+title: Decreto Regulamentar Regional n.º 21/87/M
+short_title: null
+summary: Aprova o Regulamento das Actividades Industriais, Comerciais e de Serviços Integradas no Âmbito Institucional da
+  Zona Franca da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 21/87/M
+official_date: null
+publication_date: '1987-09-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/1987, Série I de 1987-09-05
+  number: '204'
+  series: I
+  supplement: null
+  pages: 3500 - 3504
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/09/20400/35003504.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-02-03'
+version_history:
+  file: decreto-regulamentar-regional-21-87-m.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1987-09-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-12-20'
+    amending: pt:dre:643894:por
+    amending_title: Decreto Regulamentar Regional n.º 23/95/M
+    changes:
+    - Altera Artigo 12.º
+  - date: '2004-03-10'
+    amending: pt:dre:554395:por
+    amending_title: Decreto Regulamentar Regional n.º 6/2004/M
+    changes:
+    - Altera Artigo 14.º
+  - date: '2016-03-27'
+    amending: pt:dre:73934160:por
+    amending_title: Decreto Regulamentar Regional n.º 10/2016/M
+    changes:
+    - Altera Artigo 10.º
+  - date: '2016-11-24'
+    amending: pt:dre:75784269:por
+    amending_title: Decreto Regulamentar Regional n.º 23/2016/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 35.º
+  - date: '2024-02-03'
+    amending: pt:dre:840060201:por
+    amending_title: Decreto Regulamentar Regional n.º 7/2024/M
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/21/1987/m/cons/20240202/pt/html
+  oj: null
+  dre: '495078'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/21-1987-495078
+  internal: pt:dre:495078:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1987-495078
+  metadata_url: https://data.dre.pt/eli/decregulreg/21/1987/m/cons/20240202/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/1987-73934164
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/1987-73934164
+  retrieved_at: '2026-10-22T12:06:10Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9ceba9a6e578d28c72c6f25c189502a369f73a0c71360389f3f8c3ad9bfaf290
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:06:10Z'
+  notes: 6 versão(ões); histórico completo em decreto-regulamentar-regional-21-87-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Industrial
+- Comércio
+- Madeira.região Autónoma
+- Zona Tributária Privilegiada
+relationships:
+- type: amended_by
+  target: pt:dre:647309:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1987-647309
+  date: '1987-09-30'
+- type: amended_by
+  target: pt:dre:643894:por
+  label: Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1995-643894
+  date: '1995-12-19'
+- type: amended_by
+  target: pt:dre:554395:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2004-554395
+  date: '2004-03-09'
+- type: amended_by
+  target: pt:dre:73934160:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2016-73934160
+  date: '2016-03-22'
+- type: amended_by
+  target: pt:dre:75784269:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º;
+    Altera Artigo 25.º; Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269
+  date: '2016-11-23'
+- type: amended_by
+  target: pt:dre:840060201:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-840060201
+  date: '2024-02-02'
+article_structure:
+  article_count: 37
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:06:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 21/87/M
+
+Decreto Regulamentar Regional n.º 21/87/M
+
+Aprova o Regulamento da Actividades Industriais, Comerciais e de Serviços Integradas no Âmbito Institucional da Zona Franca da Madeira.
+
+A definição do quadro jurídico das condições de instalação e funcionamento das entidades que pretendam operar no âmbito institucional da Zona Franca da Madeira, bem como a regulamentação do exercício das actividades industriais, comerciais e de serviços que se integram naquele âmbito, constituem um objectivo essencial e inadiável à plena implementação daquela Zona Franca, que ora se prossegue.
+
+Da disciplina jurídica consagrada por via deste diploma exceptuam-se as actividades financeiras offshore, que foram, em razão da matéria, objecto de regulamentação própria, através do Decreto Regulamentar Regional n.º 16/87/M, de 13 de Julho.
+
+Para além daquele escopo legal, há a assinalar a metodologia processual ora consignada. Com efeito, o projecto da Zona Franca da Madeira reclama, na sua proeminência económica e social, contributiva do desenvolvimento da Região Autónoma da Madeira, uma gestão célere, proficiente e atempada. Nesse sentido milita o recurso à concessão efectuada à sociedade denominada SDM - Sociedade de Desenvolvimento da Madeira, S. A., que congrega capitais públicos e privados, assim se compreendendo a necessidade de se imprimir maior simplicidade e celeridade ao processo decisório, as mais das vezes responsabilizado, no seu figurino arcaico e fixista, por recurso a desnecessárias complexidades e delongas processuais, pelo desencorajamento do investimento, nomeadamente quando requerido por entidades caldeadas em regimes de maior abertura e dinâmica.
+
+Nestes termos e ao abrigo do disposto na alínea b) do artigo 33.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, e do artigo 4.º do Decreto Legislativo Regional n.º 22/86/M, de 2 de Outubro, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Aprovação
+
+É aprovado o Regulamento das Actividades Industriais, Comerciais e de Serviços Integradas no Âmbito Institucional da Zona Franca da Madeira, o qual se publica em anexo ao presente diploma, dele fazendo parte integrante.
+
+###### Artigo 2.º — Vigência
+
+O presente diploma entra imediatamente em vigor.
+
+Aprovado em Conselho do Governo Regional em 23 de Julho de 1987.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 12 de Agosto de 1987.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
+
+## Anexo I — Regulamento das Actividades Industriais, Comerciais e de Serviços Integradas no Âmbito Institucional da Zona Franca da Madeira.
+
+## I - Administração e concessão da Zona Franca da Madeira
+
+###### Artigo 1.º — Objecto
+
+São organizados e funcionarão nos termos deste Regulamento a instalação e o funcionamento das entidades que pretendam operar no âmbito institucional da Zona Franca da Madeira, através do exercício das atividades industriais, comerciais e de serviços integradas naquele âmbito, cuja administração e exploração cabe à entidade a quem for adjudicada a concessão, adiante designada, em abreviatura, por concessionária, por força do contrato administrativo de concessão a celebrar com a Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 2.º — Administração e exploração
+
+1 - A administração e a exploração da Zona Franca da Madeira são da exclusiva responsabilidade da concessionária, nos termos do respetivo contrato de concessão referido no artigo 1.º deste Regulamento.
+
+2 - São obrigações da concessionária:
+
+a) Respeitar e fazer respeitar na exploração da Zona Franca todas as leis, regulamentos e instruções atinentes àquela Zona;
+
+b) Organizar os serviços de administração da Zona Franca;
+
+c) Zelar pelo bom estado de conservação de todas as instalações, edifícios e equipamentos existentes na área geograficamente delimitada no Caniçal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+## II - Das licenças
+
+###### Artigo 3.º — Natureza das licenças
+
+1 - As licenças de instalação, funcionamento e exercício das actividades industriais, comerciais e de serviços integradas no âmbito institucional da Zona Franca têm a natureza de autorização administrativa da prática dos actos a que se referem, são inerentes às entidades que operam naquele âmbito e a que respeitam e não podem ser objecto autónomo de negócios jurídicos.
+
+2 - A transmissão entre vivos de estabelecimentos cuja instalação, reabertura, modificação de equipamentos ou mudança de local hajam sido licenciadas fica dependente de prévio consentimento do Secretário Regional com a tutela da Zona Franca da Madeira, adiante designado como Secretário Regional.
+
+3 - A celebração de negócios jurídicos em contrário do disposto nos números anteriores determina a caducidade da licença.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 4.º — Competência para o licenciamento
+
+1 - A competência para o licenciamento das atividades referidas no artigo 1.º deste Regulamento é do Secretário Regional, após instrução do processo e parecer da concessionária e da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, adiante designada por AT-RAM.
+
+2 - A concessionária procederá à emissão e assinatura dos documentos que titulem as referidas licenças.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 5.º — Prazo de emissão
+
+A autorização para a instalação, funcionamento e exercício das actividades pelos utentes deverá ser dada no prazo de 30 dias, contado a partir da data de entrega do requerimento na concessionária, prorrogável por igual período no caso de terem sido solicitados à concessionária esclarecimentos adicionais e quaisquer documentos que sejam indispensáveis para a sua emissão ou ainda para a prática de outras formalidades legais ou audiência de outras entidades competentes.
+
+###### Artigo 6.º — Requisitos e recusa da autorização
+
+1 - O licenciamento referido no n.º 1 do artigo 4.º deste Regulamento efetua-se com base nos pareceres emitidos pela concessionária e pela AT-RAM respeitantes à idoneidade do requerente e ao interesse económico da atividade a desenvolver.
+
+2 - Nos termos do número anterior, o Secretário Regional poderá recusar o licenciamento, nos seguintes casos:
+
+a) Por motivos de segurança nacional ou de interesse público;
+
+b) No caso de a lei não permitir o exercício da actividade requerida;
+
+c) No caso de parecer ou decisão desfavorável por parte das autoridades competentes sobre a matéria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 7.º — Elementos
+
+As licenças consignarão o prazo, o objecto, a modalidade, a renda e as condições de instalação dos utentes.
+
+###### Artigo 8.º — Prazo de instalação e funcionamento
+
+1 - O prazo mínimo para a instalação, funcionamento e exercício das actividades pelas entidades que pretendam operar com instalações físicas na área geograficamente delimitada no Caniçal é de cinco anos, o qual poderá ser prorrogado por períodos mínimos de dois anos, a pedido dos interessados, efectuado com uma antecedência mínima de seis meses em relação ao termo do prazo inicial ou de cada uma das prorrogações.
+
+2 - Em caso de interrupção total e definitiva do exercício da actividade pelo utente antes do fim do prazo licenciado ou do das prorrogações, a concessionária terá direito a receber todas as taxas devidas pela totalidade desse prazo ou das suas renovações se já concedidas, nos termos dos artigos 9.º, 10.º e 11.º deste Regulamento.
+
+###### Artigo 9.º — Taxas
+
+1 - As entidades que operem no âmbito institucional da Zona Franca pagarão à concessionária, como contrapartida da instalação, da utilização dos imóveis e da execução das operações, as seguintes taxas, conforme os casos:
+
+a) Taxa de instalação;
+
+b) Taxa anual de funcionamento.
+
+2 - O montante das taxas referidas no número anterior será regulado e revisto por Portaria da Secretaria Regional da tutela, sob proposta da concessionária, sendo os montantes revistos somente aplicados aos utentes que se instalem depois da data de revisão.
+
+3 - A concessionária não poderá cobrar taxas diversas das aprovadas.
+
+4 - As taxas anuais de funcionamento relativas às entidades instaladas na Zona Franca Industrial têm como coeficiente de atualização, a aplicar anualmente pela concessionária, a taxa de inflação média dos últimos doze meses em Portugal, calculada por referência ao mês de novembro do ano imediatamente anterior ao da aplicação da taxa atualizada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2024/M - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-840060201), em vigor a partir de 2024-02-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 10.º — Cobrança das taxas
+
+1 - A cobrança das taxas referidas no artigo anterior efectua-se do modo seguinte:
+
+a) Com a apresentação do requerimento, a taxa de instalação correspondente à autorização de instalação;
+
+b) Com a emissão da licença:
+
+i) Para as entidades instaladas na Zona Franca Industrial, a taxa anual de funcionamento correspondente ao licenciamento, na proporção dos meses de vigência da licença no ano civil em causa;
+
+ii) Para as restantes entidades, a taxa anual de funcionamento relativa ao primeiro ano de atividade contado a partir da emissão da licença.
+
+c) Nos períodos seguintes, as taxas anuais de funcionamento vencem-se e são cobradas nos termos seguintes:
+
+i) Para as entidades instaladas na Zona Franca Industrial, as taxas anuais de funcionamento vencem-se em janeiro de cada ano e são pagas nos termos previstos nos números quatro e cinco deste artigo;
+
+ii) Para as restantes entidades, as taxas anuais de funcionamento vencem-se e são pagas no prazo de doze meses contado a partir da data de vencimento da taxa anual anterior.
+
+2 - (Revogado.)
+
+3 - No caso de a autorização não ser concedida por facto não imputável ao requerente, este terá direito à restituição do montante pago pela requisição da autorização de instalação.
+
+4 - As empresas instaladas na Zona Franca Industrial pagam as taxas a que se referem a subalínea i) da alínea b) e a subalínea i) da alínea c) do n.º 1 em prestações mensais e uniformes até ao último dia do mês a que digam respeito.
+
+5 - Nos casos referidos no número anterior, a falta de pagamento de uma prestação importa o vencimento das seguintes se, no prazo de trinta dias a contar da notificação para o efeito, a empresa não proceder ao pagamento da prestação incumprida.
+
+6 - A falta de pagamento da taxa atual anual de funcionamento das entidades instaladas na Zona Franca Industrial, nos termos previstos no n.º 4, determina a caducidade da autorização concedida e o início do respetivo procedimento de cobrança coerciva de todos os montantes em dívida.
+
+7 - Para as restantes entidades, a falta de pagamento da taxa anual de funcionamento nos termos previstos no n.º 1 determina a suspensão do licenciamento concedido até à finalização do procedimento de cobrança coerciva, findo o qual o Secretário Regional procede à declaração de caducidade da licença, salvo se o titular da mesma requerer a continuidade do licenciamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2024/M - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-840060201), em vigor a partir de 2024-02-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2016/M - Diário da República n.º 57/2016, Série I de 2016-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2016-73934160), em vigor a partir de 2016-03-27
+
+###### Artigo 11.º — Autorização de funcionamento
+
+1 - A autorização de funcionamento a que aludem as alíneas b) e c) do n.º 1 do artigo anterior respeita à utilização dos imóveis e à execução das operações, e quanto às instalações na área geograficamente delimitada no Caniçal, terá em consideração, em alternativa, um dos fatores seguintes:
+
+a) A área de terreno nu, compreendendo a plataforma infra-estruturada e a sua zona limítrofe;
+
+b) A área exclusiva da plataforma infra-estruturada;
+
+c) A área exclusiva dos edifícios, pavilhões ou armazéns a implantar em plataforma infra-estruturada;
+
+d) Os edifícios, pavilhões ou armazéns construídos e o respectivo custo de construção.
+
+2 - As taxas cobradas pela prestação de serviços aos utentes pela concessionária terão em conta os custos de mercado vigentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 12.º — Condições de instalação
+
+1 - A concessionária, na sequência da emissão da licença de instalação e funcionamento, autorizará os utentes a construir os edifícios, pavilhões ou armazéns sobre o terreno da área geograficamente delimitada no Caniçal.
+
+2 - Compete à concessionária fiscalizar a execução das obras referidas no número anterior segundo o projecto por ela previamente aprovado, devendo os utentes acatar e observar as instruções e determinações da concessionária.
+
+3 - Os direitos dos utentes sobre os bens imóveis resultantes da autorização aludida no n.º 1 deste artigo constituem, para todos os efeitos legais, uma subconcessão do domínio público.
+
+4 - Sem prejuízo do disposto neste diploma e no contrato de concessão da Zona Franca, os utentes poderão onerar, por qualquer forma, a subconcessão do domínio público a fim de garantir os financiamentos efectuados exclusivamente à actividade desenvolvida no âmbito da Zona Franca Industrial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 23/95/M - Diário da República n.º 291/1995, Série I-B de 1995-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1995-643894), em vigor a partir de 1995-12-20
+
+###### Artigo 13.º — Reversão dos bens
+
+1 - Finda a licença, pelo decurso do prazo ou suas prorrogações ou, ainda, por interrupção total e definitiva do exercício da actividade pelos utentes antes do decurso daqueles períodos, poderão os utentes assegurar, no prazo de seis meses, a continuidade do estabelecimento por terceiros.
+
+2 - Em caso de continuidade por terceiro, deverá o adquirente submeter-se ao processo de licenciamento a que se referem os artigos 17.º e seguintes deste Regulamento.
+
+3 - Caso os utentes não recorram ao exercício da prerrogativa referida no n.º 1 deste artigo, revertem gratuitamente para a concessionária os imóveis referidos no artigo anterior, bem como as suas instalações inamovíveis, os quais lhe serão entregues sem dependência de qualquer formalidade e livres de quaisquer ónus, encargos ou responsabilidades, em estado de bom funcionamento, conservação e segurança, não podendo os utentes reclamar indemnização alguma ou invocar com qualquer fundamento o direito de retenção.
+
+###### Artigo 14.º — Condições ou prazos introduzidos nas licenças
+
+1 - As licenças podem ser concedidas com condições ou prazos que modifiquem os termos do pedido dos requerentes, nomeadamente a fixação do prazo para a execução dos actos licenciados.
+
+2 - Se a licença não contiver quaisquer condições ou prazos de execução dos actos licenciados, considera-se concedida nos precisos termos do pedido dos requerentes, e só serão relevantes, para esse efeito, os elementos nele indicados em cumprimento do disposto do artigo 17.º deste Regulamento e o prazo que tenha sido indicado pelos requerentes.
+
+3 - Sem prejuízo do disposto no n.º 2 do artigo 10.º deste Regulamento, poderão os requerentes, em caso de não concordância com as novas condições ou prazos estabelecidos, desistir do pedido efectuado.
+
+4 - O Secretário Regional poderá, a pedido do titular da licença e após parecer da concessionária, alterar quaisquer condições, quando tal se mostre comprovadamente necessário.
+
+5 - As entidades licenciadas para o exercício de atividades no setor de serviços internacionais devem dar início àquele exercício no prazo de seis meses a contar da data do despacho que autorizou o mesmo, devendo tal obrigação constar do texto da licença que o titula, sob pena de caducidade daquele despacho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2004/M - Diário da República n.º 58/2004, Série I-B de 2004-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2004-554395), em vigor a partir de 2004-03-10
+
+###### Artigo 15.º — Prazo para a execução
+
+1 - Se a licença não mencionar o prazo para a execução dos actos de construção licenciados, nem a sua indicação figurar no pedido dos requerentes, entende-se que aquele prazo é de doze meses.
+
+2 - O prazo para a execução dos actos de construção licenciados conta-se da data da notificação da licença e só poderá ser prorrogado uma vez e por período não superior ao inicial.
+
+3 - O pedido de prorrogação será apresentado, em duplicado, à concessionária até ao termo do prazo inicial, que remeterá o original à Secretaria Regional da tutela através da AT-RAM, a qual se pronunciará através do Gabinete da Zona Franca, adiante designado por GZF.
+
+4 - A não execução dos actos de construção licenciados dentro do prazo concedido determina a caducidade da licença.
+
+5 - O Secretário Regional pode, a pedido do requerente, apresentado antes de ser produzida a caducidade da licença, interromper o decurso do prazo quando entenda que a inexecução dos atos de construção licenciados ocorre por motivo justificado e que esses atos ainda podem ser executados em tempo útil.
+
+6 - Na execução dos actos licenciados, os requerentes observarão os requisitos de localização, higiene, segurança, salubridade, comodidade, perigosidade ou toxicidade exigidos em geral para o tipo das instalações, bem como outra regulamentação técnica específica, normas de qualidade obrigatórias e de protecção do ambiente.
+
+7 - Compete à AT-RAM, através do GZF, assegurar e velar pelo cumprimento do disposto no número anterior, podendo, para o efeito, solicitar a outras entidades públicas ou privadas os pareceres que considerar necessários para a apreciação do comportamento dos utentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 16.º — Revogação
+
+1 - As licenças podem ser revogadas quando se verifique:
+
+a) Não execução dos actos de construção ou não exercício das actividades licenciados nas condições em que as licenças foram concedidas;
+
+b) Comprovada ineficiência técnica não removida pelo utente, depois de para tal ter sido notificado;
+
+c) Não cumprimento reiterado das disposições legais aplicáveis à Zona Franca.
+
+2 - Na hipótese prevista na alínea a) do número anterior, o Secretário Regional, quando entenda que a inexecução ocorre por motivo justificado, pode, a pedido do requerente, alterar os seus termos por forma a permitir ainda a sua execução em tempo útil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+## III - Do processo de licenciamento Actividades industriais
+
+###### Artigo 17.º — Forma e elementos do pedido
+
+1 - O pedido de licença para a instalação e funcionamento de unidades industriais será formulado em requerimento dirigido ao Secretário Regional, acompanhado de memória descritiva e justificativa, e deverá conter:
+
+a) Nome ou denominação social e domicílio ou sede do requerente;
+
+b) Indústria a que se refere o pedido e natureza do produto ou produtos fabricados ou a fabricar;
+
+c) Características do local e menção da área onde se pretende instalar a unidade industrial, com junção de planta topográfica, na escala conveniente, do local da construção, incluindo a implantação dos edifícios e as respectivas vias de acesso;
+
+d) Indicação da capacidade de produção da unidade industrial;
+
+e) Descrição sumária da tecnologia de produção e a relação do principal equipamento produtivo;
+
+f) Valor total do investimento e as suas fontes de financiamento;
+
+g) Período desejado para a instalação e funcionamento e regime jurídico respectivo;
+
+h) Indicação do número de empregos a criar;
+
+i) Elementos sobre instalações para tratamento de efluentes, quando necessárias.
+
+2 - O pedido de licença será apresentado, em duplicado, na concessionária, que remeterá imediatamente o original à AT-RAM, após instrução do processo e o competente parecer.
+
+3 - A AT-RAM remeterá o requerimento e a memória descritiva às entidades que devam pronunciar-se sobre o pedido, as quais deverão prestar o seu parecer no prazo de oito dias.
+
+4 - Recebidos os pareceres a que se refere o número anterior, ou findo o prazo durante o qual deveriam ter sido prestados, a AT-RAM submeterá o processo a despacho do Secretário Regional, acompanhado da informação elaborada pelo GZF e pela concessionária sobre o mérito do pedido.
+
+5 - No requerimento relacionar-se-ão, em nota, todos os documentos que o acompanham.
+
+6 - Na memória poderá ainda o requerente indicar quaisquer outros elementos convenientes para a apreciação das condições económicas, financeiras, técnicas, sociais e administrativas do empreendimento.
+
+Actividades comerciais e de serviços
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 18.º — Forma e elementos do pedido
+
+1 - O pedido de licença para a instalação, funcionamento e exercício de atividades comerciais e de serviços será formulado em requerimento dirigido ao Secretário Regional, acompanhado de memória descritiva e justificativa, e deverá conter:
+
+a) Nome ou denominação social e domicílio ou sede do requerente;
+
+b) Actividade a que se refere o pedido;
+
+c) Características do local e menção da respectiva área onde se pretende instalar o estabelecimento;
+
+d) Valor total do investimento e as suas fontes de financiamento;
+
+e) Período desejado para a instalação e funcionamento e regime jurídico respectivo;
+
+f) Indicação do número de empregos a criar.
+
+2 - Deverá observar-se, quanto a este pedido, o disposto nos n.os 2, 3, 4, 5 e 6 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 19.º — Titularidade das licenças
+
+1 - O pedido de licença referido nos artigos anteriores pode ser apresentado pelo requerente em seu nome ou, em alternativa, no de sociedade ou de sucursal a constituir.
+
+2 - Em caso de deferimento, a licença considera-se concedida a favor da sociedade ou da sucursal quando o requerente comprovar a sua constituição e registo.
+
+3 - Todos os documentos destinados a instruir o pedido de licença devem ser devidamente traduzidos para a língua portuguesa e legalizados, desde que a requerente seja de nacionalidade estrangeira.
+
+###### Artigo 20.º — Sucursal
+
+1 - No caso de o pedido de licença ser apresentado em nome de sucursal a constituir, o requerimento será ainda acompanhado dos elementos que a concessionária solicite caso a caso e da identificação das pessoas que constituem os órgãos de administração ou direção da requerente e ainda a das pessoas que ficarão encarregadas da direção da sucursal e que a obrigarão perante terceiros.
+
+2 - Nos casos referidos no número anterior, a caução a que se refere o artigo 30.º deste Regulamento deverá ser prestada em nome da sociedade-mãe.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 21.º — Domicílio particular
+
+Independentemente da pessoa ou pessoas indicadas para conduzir as operações da sucursal a que se refere o n.º 1 do artigo 20.º deste Regulamento, devem os requerentes que estabeleçam sucursais no âmbito institucional da Zona Franca escolher como domicílio particular para os negócios realizados através da sucursal o do estabelecimento próprio da sucursal, quando exista, ou o de entidade reconhecida e aceite pelo Secretário Regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+## IV - Do exercício das actividades
+
+###### Artigo 22.º — Reclamações dos utentes
+
+A concessionária organizará os serviços inerentes à administração da Zona Franca para que o seu funcionamento permita permanentemente a atividade dos utentes, reservando-se a AT-RAM, através do GZF, o direito de intervir sempre que solicitado pelos utentes e o julgue conveniente, de harmonia com autorização do Secretário Regional, e ouvida a concessionária, de modo a eliminar as causas que estiverem na base de eventuais diferendos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 23.º — Infra-estruturas e instalações
+
+1 - A Região Autónoma da Madeira assegurará a existência e conveniente funcionamento das infraestruturas externas necessárias às operações na área geograficamente delimitada no Caniçal, nomeadamente os respetivos arruamentos de acesso e redes de abastecimento de energia elétrica e de água com capacidade suficiente para satisfazer os requisitos da Zona e dos seus utentes.
+
+2 - É da responsabilidade da concessionária o fornecimento de água e de energia eléctrica consumidas na área referida no número anterior e a manutenção das respectivas redes internas, sendo tais encargos debitados aos utentes, de acordo com os respectivos consumos.
+
+3 - Constitui obrigação dos utentes manter em permanente estado de funcionamento, conservação e segurança os edifícios, pavilhões, armazéns e suas áreas envolventes e os seus equipamentos conexos afectos à licença concedida.
+
+4 - Independentemente do disposto no n.º 2 deste artigo, deverão os utentes, em caso de comprovada necessidade, proceder, a suas expensas, à instalação de um gerador de emergência de energia eléctrica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 24.º — Infraestruturas e equipamentos
+
+As infraestruturas e os equipamentos da Zona Franca não poderão ser utilizados pelos utentes para fins diferentes dos previstos na licença.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 25.º — Contabilidade e fiscalização das mercadorias
+
+1 - Os utentes da Zona Franca deverão elaborar e manter uma contabilidade organizada e são obrigados a exibi-la desde que solicitados por agentes credenciados pelos serviços públicos competentes ou pela concessionária e a apresentar as suas mercadorias existentes na área geograficamente delimitada no Caniçal, nos termos do n.º 1 do artigo 6.º do Decreto Regulamentar n.º 53/82, de 23 de agosto.
+
+2 - Os utentes fornecerão à concessionária, à delegação aduaneira e ao posto fiscal da Zona Franca Industrial, todos os elementos estatísticos por ela solicitados respeitantes às suas empresas, aos navios e aviões utilizados, aos contentores movimentados e às mercadorias referidas no número anterior por eles transportados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 26.º — Normas obrigatórias
+
+Para além da observância das normas de higiene, segurança, salubridade, regulamentação técnica específica, qualidade e de protecção do ambiente, deverão os utentes respeitar as instruções da concessionária sobre o funcionamento da Zona Franca.
+
+###### Artigo 27.º — Laboração e regime de trabalho
+
+1 - Os utentes poderão recrutar o seu próprio pessoal localmente ou fora da Região Autónoma da Madeira, sob sua única responsabilidade, devendo, para o efeito, observar o disposto na legislação aplicável.
+
+2 - A concessionária poderá solicitar aos utentes informação sobre o respectivo quadro de pessoal e horário de trabalho.
+
+###### Artigo 28.º — Seguro de responsabilidade
+
+Os utentes obrigam-se a efectuar seguro de responsabilidade face a acidentes pessoais, nos veículos ou equipamentos, nas mercadorias e quanto a sinistros ou incêndios.
+
+###### Artigo 29.º — Saneamento básico e telecomunicações
+
+1 - São da responsabilidade da concessionária as despesas de instalação, conservação e manutenção dos esgotos e das tubagens afectas aos serviços de telecomunicações nas zonas públicas da área geograficamente delimitada no Caniçal.
+
+2 - São da responsabilidade dos utentes as despesas de instalação, conservação e manutenção dos esgotos e das redes de telefone, telex, telefax e de comunicação eletrónica nas zonas licenciadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+###### Artigo 30.º — Caução
+
+1 - Os utentes prestarão, a favor da concessionária, no momento da emissão da licença, uma caução para garantia do exacto e pontual cumprimento das obrigações que assumem com a licença.
+
+2 - O Secretário Regional fixará o valor da caução, mediante proposta da concessionária e parecer da AT-RAM.
+
+3 - A concessionária poderá recorrer à caução, independentemente de quaisquer formalidades, nos casos em que os utentes não cumpram as suas obrigações.
+
+4 - A caução será prestada por depósito em dinheiro ou mediante garantia bancária ou seguro-caução, conforme escolha dos utentes.
+
+5 - A caução ficará à disposição da confessionária só poderá ser cancelada por declaração desta, comunicada, por escrito, à entidade garante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+## V - Do cadastro dos utentes
+
+###### Artigo 31.º — Registo
+
+1 - O cadastro dos utentes que operam no âmbito institucional da Zona Franca será exclusivamente organizado pela concessionária, tendo por base o seu registo.
+
+2 - O registo destina-se a fixar a instalação e funcionamento de cada utente.
+
+3 - Para efeitos de cadastro é objecto de registo:
+
+a) A identificação completa do utente;
+
+b) A instalação do estabelecimento;
+
+c) O encerramento, reabertura e transferência do local do estabelecimento;
+
+d) A alteração da actividade desenvolvida.
+
+## VI - Da fiscalização
+
+###### Artigo 32.º — Competência
+
+A concessionária fiscalizará o bom exercício das actividades licenciadas, sendo de cumprimento obrigatório as suas instruções e notificações, sem prejuízo da sua impugnação com base nas normas legais.
+
+###### Artigo 33.º — Penalidades
+
+1 - Pelo incumprimento das obrigações assumidas no âmbito da licença, quando não lhe corresponda sanção mais grave, serão os utentes punidos com multa no montante mínimo correspondente a 1/12 do valor da taxa anual de funcionamento e máximo de 12/12 daquele valor, segundo a gravidade da infracção, a aplicar por deliberação da concessionária que produzirá os seus efeitos logo que comunicada por escrito aos utentes.
+
+2 - As multas que não forem pagas voluntariamente até 30 dias após a data de notificação serão cobradas através do processo de execução fiscal.
+
+3 - O pagamento das multas não isenta os utentes da responsabilidade civil em que incorrerem.
+
+4 - Os montantes das multas constituem receita da concessionária.
+
+VII - Disposições finais
+
+> Retificado pelo/a [Declaração - Diário da República n.º 225/1987, 2º Suplemento, Série I de 1987-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-647309), em vigor a partir de 1987-09-06
+
+## VII - Disposições finais
+
+###### Artigo 34.º — Diferendos
+
+1 - Todas as questões emergentes das licenças concedidas serão resolvidas por um tribunal arbitral, composto de três membros, um nomeado pela concessionária outro pelo utente interessado e o terceiro por acordo entre as duas partes ou, na falta de acordo, nos termos da legislação portuguesa em vigor.
+
+2 - Os árbitros poderão ser assistidos pelos peritos que julgarem necessários.
+
+3 - O tribunal arbitral julgará segundo o direito constituído, podendo nos casos omissos ou duvidosos fazê-lo segundo a equidade, e das suas decisões haverá recurso, nos termos legais, para os tribunais competentes.
+
+###### Artigo 35.º — Normas aplicáveis
+
+São aplicáveis às relações entre a concessionária e os utentes da Zona Franca:
+
+a) Este Regulamento e o contrato de concessão referido no artigo 1.º deste Regulamento;
+
+b) A legislação portuguesa aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269), em vigor a partir de 2016-11-24
+
+> Retificado pelo/a [Declaração - Diário da República n.º 225/1987, 2º Suplemento, Série I de 1987-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-647309), em vigor a partir de 1987-09-06
+
+## Anexo II — Taxas
+
+1 - Pelo pedido de emissão de licença de instalação, o contravalor em escudos de 750 dólares americanos.
+
+2 - Pela autorização de funcionamento, sem recurso a instalações físicas a construir pelos utentes na área geograficamente delimitada no Caniçal, o contravalor em escudos de 1500 a 25000 dólares americanos, pago em cada ano e a estabelecer em função da actividade desenvolvida.
+
+3 - Na taxa anual de funcionamento, com recurso a instalações físicas a instalar na área referida no número anterior, integram-se:
+
+a) Pela área de terreno nu, compreendendo a plataforma infra-estruturada e sua zona limítrofe, o contravalor em escudos de 12 dólares americanos por metro quadrado;
+
+b) Pela área exclusiva da plataforma infra-estruturada, o contravalor em escudos de 13,5 dólares americanos por metro quadrado;
+
+c) Pela área exclusiva do edifício, pavilhão ou armazém, a construir em plataforma infra-estruturada, o contravalor em escudos de 30 dólares americanos por metro quadrado;
+
+d) Pelo edifício, pavilhão ou armazém já construído, o montante a estabelecer em cada caso.

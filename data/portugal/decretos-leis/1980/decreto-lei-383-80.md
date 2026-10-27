@@ -1,0 +1,339 @@
+---
+schema_version: '1.0'
+id: pt:dre:460775:por
+title: Decreto-Lei n.º 383/80
+short_title: null
+summary: Reestrutura o Instituto de José de Figueiredo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 383/80
+official_date: null
+publication_date: '1980-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1980, Série I de 1980-09-19
+  number: '217'
+  series: I
+  supplement: null
+  pages: 2794 - 2797
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21700/27942797.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '460775'
+  dre_path: /dr/detalhe/decreto-lei/383-1980-460775
+  internal: pt:dre:460775:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1980-460775
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1980-460775
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:31:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 366e2be93664dbbaf9fcb28631a2fdaf0310a0d90ed5d3e32df948c14cd1cbd3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:31:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto de JOSÉ de Figueiredo
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:428999:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:531834:por
+  label: "Alterado o quadro de pessoal, pela PORT.6/84.1984.01.05.PCM, DR.IS [4]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/6-1984-531834
+  date: '1984-01-05'
+- type: amended_by
+  target: pt:dre:550266:por
+  label: Integrados na Escola Superior de Conservação e Restauro, que é criada, os cursos de conservação e restauro ministrados
+    pelo Instituto de José de Figueiredo, pelo DEC LEI.431/89.16.12.1989.PCM, DR.IS [288] de 16.12.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/431-1989-550266
+  date: '1989-12-16'
+- type: amended_by
+  target: pt:numero:portaria:746/93
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO DE JOSÉ DE FIGUEIREDO, PELA PORTARIA 746/93, DE 23 DE AGOSTO, PUBLICADA
+    NO DR.IS-B, 197.
+  source: null
+  date: '1993-08-23'
+- type: amended_by
+  target: pt:numero:despacho-normativo:385/94
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 385/94, DE 19 DE ABRIL, PUBLICADO NO DR.IS-B, 117, DE 940520.
+  source: null
+  date: '1994-05-20'
+- type: amended_by
+  target: pt:dre:2145059:por
+  label: "Alterado o quadro de pessoal pela Port.230/97.1997.04.03.PCM DR.IS-B [78] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-1997-2145059
+  date: '1997-04-03'
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575290:por
+  label: "Revogadas as als. d) e i) do art. 5º e os arts. 12º e 16º, e extintas a divisão de pintura mural e a divisão de\
+    \ vitrais, pelo DEC LEI.316/94.1994.12.24.PCM, DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1994-575290
+  date: '1994-12-24'
+- type: repealed_by
+  target: pt:dre:428999:por
+  label: "Revogado pelo DEC LEI.342/99.1999.08.25.MC DR.IS-A [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1999-428999
+  date: '1999-08-25'
+article_structure:
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:31:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 383/80
+
+de 19 de Setembro
+
+É incontestavelmente grande o papel que o Instituto de José de Figueiredo desempenha no âmbito da conservação e recuperação do património cultural, tendo, paralelamente ao desempenho da sua função a nível nacional, granjeado elevada consideração a nível internacional, do que resulta, intermitentemente, a solicitação do seu concurso.
+
+Nascido da iniciativa particular e oficializado pelo [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965, não alcançou, até ao presente momento, uma organização estrutural que conferisse aos técnicos que nele trabalham uma posição estável, que assegurasse uma compensação aos sacrifícios que deles se exigem e um estímulo à formação de novos técnicos.
+
+Porque há, na realidade, um programa ambicioso a cumprir pelo Estado, que é o da conservação e restauro dos bens culturais nacionais, os quais, pela sua quantidade, localização, valor artístico e estado actual de conservação, exigem uma acção mais acelarada do Instituto, torna-se necessário e urgente reestruturá-lo, criando-se assim as condições que lhe permitam garantir o apoio que dele se espera, não se perdendo de vista que o pessoal de conservação e restauro constitui uma categoria de técnicos que não se pode improvisar nem preparar a curto prazo.
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+Artigo 1.º O Instituto de José de Figueiredo é um organismo do Estado, dependente da Secretaria de Estado da Cultura através do Instituto Português do Património Cultural, ao qual incumbe:
+
+a) Proceder à conservação e restauro de bens culturais móveis, quer na posse do Estado, autarquias locais e entidades subsidiadas pelo Estado, quer na posse de particulares;
+
+b) Assegurar a investigação e a aplicação das técnicas de conservação e restauro;
+
+c) Promover, fomentar e assegurar o ensino e a difusão das técnicas de conservação e restauro, cabendo-lhe a formação profissional do pessoal das carreiras de conservação e restauro do País.
+
+Art. 2.º Os trabalhos de conservação e restauro de bens culturais móveis inventariados pertencentes às entidades referidas no artigo anterior poderão ser efectuados pelo Instituto ou por entidades reconhecidas como tecnicamente idóneas para o efeito pelo Instituto Português do Património Cultural.
+
+Art. 3.º - 1 - Os trabalhos de exame e de conservação e restauro de bens móveis culturais do Estado serão prestados gratuitamente.
+
+2 - Em casos justificados pelo valor das espécies, carência de recursos dos proprietários e interesse técnico dos trabalhos poderá o membro do Governo que tutela a área da Cultura, mediante proposta do Instituto Português do Património Cultural, autorizar, a título excepcional, o tratamento gratuito de bens móveis culturais não pertencentes ao Estado.
+
+3 - Os trabalhos de conservação e restauro de bens móveis culturais não inventariados ficam condicionados ao seu valor artístico ou técnico e à disponibilidade do Instituto.
+
+4 - Os trabalhos executados em espécies não pertencentes ao Estado serão pagos segundo normas a fixar por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tutelar a área da Cultura.
+
+Art. 4.º O Instituto disporá de equipas móveis de pessoal técnico destinado a executar no local pequenos trabalhos de conservação e restauro.
+
+### CAPÍTULO II — Órgãos e serviços
+
+Art. 5.º O Instituto de José de Figueiredo compreende:
+
+a) Direcção;
+
+b) Laboratório Central;
+
+c) Divisão de Pintura;
+
+d) Divisão de Pintura Mural;
+
+e) Divisão de Escultura;
+
+f) Divisão de Têxteis;
+
+g) Divisão de Bens Arqueológicos e Etnográficos;
+
+h) Divisão de Documentos Gráficos;
+
+i) Divisão de Vitrais;
+
+j) Oficina de Marcenaria Especializada;
+
+k) Divisão de Estudos e Documentação;
+
+l) Secção Administrativa.
+
+Art. 6.º - 1 - A Direcção do Instituto é exercida por:
+
+a) Um director;
+
+b) Um conselho técnico.
+
+2 - O cargo de director do Instituto tem a categoria de director de serviços.
+
+Art. 7.º - 1 - O conselho técnico é constituído pelos seguintes membros:
+
+a) O director;
+
+b) Os responsáveis pelos departamentos enunciados nas alíneas b) a k) do artigo 5.º
+
+2 - O conselho técnico é presidido pelo director do Instituto e reunirá ordinariamente uma vez por mês, e extraordinariamente, sempre que for convocado pela maioria dos elementos que o constituem.
+
+3 - As deliberações serão tomadas por maioria de votos dos membros presentes, tendo o director do Instituto voto de qualidade.
+
+4 - Poderão ser convocadas para as reuniões do conselho técnico, sem direito a voto, quaisquer individualidades de especial competência nos assuntos a tratar, desde que para tal haja o acordo da maioria dos seus membros.
+
+Art. 8.º Compete ao conselho técnico:
+
+a) Elaborar a programação das actividades anuais do Instituto;
+
+b) Apreciar, para efeitos de admissão de bens culturais, os pedidos de tratamento segundo a prioridade a considerar em função dos valores artístico, técnico e local dos mesmos;
+
+c) Propor os trabalhos de carácter técnico, científico e de divulgação a publicar no Boletim do Instituto;
+
+d) Promover a realização de conferências, colóquios e seminários, no âmbito das actividades do Instituto;
+
+e) Colaborar na programação das brigadas móveis de inspecção e apreciar, sempre que necessário, as informações que as mesmas apresentem;
+
+f) Propor a composição dos júris de apreciação de provas de admissão e promoção do pessoal técnico;
+
+g) Preparar o relatório anual das actividades das divisões técnicas.
+
+Art. 9.º - 1 - Ao Laboratório Central, dirigido por um chefe de divisão, cabe fornecer, mediante processos de análise peculiares das ciências físicas e químicas, elementos para o estudo crítico-histórico dos bens culturais e subsídios para as operações de conservação e restauro dos mesmos bens.
+
+2 - Compete-lhe ainda ensaiar novos métodos, técnicas e produtos de tratamento.
+
+Art. 10.º O Laboratório Central compreende as áreas de:
+
+a) Análise química;
+
+b) Análise textural (microscópica);
+
+c) Identificação estrutural (difracção de raios X);
+
+d) Análise biológica;
+
+e) Fotografia e radiografia.
+
+Art. 11.º Compete à Divisão de Pintura a conservação e o restauro de pinturas de cavalete, sobre qualquer suporte, bem como os de pintura mural sobre tela e madeira.
+
+Art. 12.º À Divisão de Pintura Mural compete a conservação e o restauro da pintura mural, considerada como pintura executada sobre argamassa, estuque, ou directamente sobre os muros, a fresco, a seco, a têmpera, a óleo ou outras técnicas.
+
+Art. 13.º À Divisão de Escultura compete a conservação e ao restauro das esculturas em madeira, pedra, terracota e outros materiais.
+
+Art. 14.º À Divisão de Têxteis compete a conservação e restauro de tapeçarias, tapetes, tecidos, bordados e rendas.
+
+Art. 15.º Compete à Divisão de Bens Arqueológicos e Etnográficos a conservação e o restauro de todos os objectos compreendidos no âmbito da arqueologia e da etnografia, incluindo todos os materiais inorgânicos e orgânicos, tais como as cerâmicas, vidro, metais, pedra, osso, marfim, peles e penas.
+
+Art. 16.º Compete à Divisão de Vitrais a conservação e o restauro de vitrais e vidros.
+
+Art. 17.º Compete à Divisão de Documentos Gráficos a conservação e o restauro de livros e outros documentos gráficos, qualquer que seja o seu suporte, quer impliquem um processo de trabalho de recuperação manual, como no caso do papel, do pergaminho, da encadernação e dos selos, quer de recuperação mecânica, como nos casos dos jornais e dos impressos.
+
+Art. 18.º Compete à Oficina de Marcenaria Especializada realizar os trabalhos de apoio necessários às divisões de conservação e restauro, designadamente: obra enquadrável ou trabalho integrável em conservação e restauro de madeira; execução de embalagem de obras de arte; desmontagem e montagem de peças, entalhadas ou não, de bens culturais em tratamento, e trabalhos gerais de carpintaria e marcenaria de apoio às diversas secções.
+
+Art. 19.º Compete essencialmente à Divisão de Estudos e Documentação:
+
+a) Manter actualizado um centro de documentação, com a função de recolher bibliografia, documentação, textos e demais elementos de informação relativos a assuntos de conservação e restauro;
+
+b) Apoiar, em matéria de documentação e informação, os demais sectores do Instituto e todas as entidades, públicas ou privadas, interessadas em assuntos relacionados com a actividade do Instituto;
+
+c) Promover a publicação do Boletim do Instituto e de outras edições que forem julgadas convenientes;
+
+d) Organizar e manter em dia os ficheiros, registos e arquivos necessários à informação estatística e à realização de trabalhos sobre matérias de conservação e restauro;
+
+e) Promover e organizar actividades bibliográficas e documentais de informação de conservação e restauro;
+
+f) Manter as ligações necessárias com os centros de documentação estrangeiros e organismos especializados, nomeadamente a UNESCO e o Conselho da Europa, por forma a facilitar a obtenção de documentação técnica no âmbito das atribuições do Instituto;
+
+g) Organizar e gerir a biblioteca do Instituto.
+
+Art. 20.º Compete à Secção Administrativa a execução de tarefas administrativas do Instituto.
+
+### CAPÍTULO III — Do pessoal
+
+Art. 21.º O quadro do pessoal do Instituto de José de Figueiredo é o constante do mapa anexo ao presente diploma.
+
+Art. 22.º O director do Instituto será nomeado nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre conservadores de museu.
+
+Art. 23.º Os departamentos enunciados nas alíneas b), c), d), e), f), g), h), i) e k) são dirigidos por chefes de divisão.
+
+Art. 24.º Os chefes das Divisões de Pintura, de Pintura Mural, de Escultura, de Têxteis, de Bens Arqueológicos e Etnográficos, de Documentos Gráficos e de Vitrais serão providos nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre técnicos de conservação e restauro principais da respectiva área funcional.
+
+Art. 25.º O chefe de divisão do Laboratório Central será provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre licenciados com os cursos adequados.
+
+Art. 26.º O chefe da Divisão de Estudos e Documentação será provido nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, de entre pessoal técnico superior de BAD.
+
+Art. 27.º Os lugares de técnico superior e técnico auxiliar da BAD serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+
+Art. 28.º O pessoal das carreiras de conservação e restauro será provido nos termos do estabelecido no [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho.
+
+Art. 29.º Os restantes lugares do quadro serão preenchidos nos termos da lei geral.
+
+Art. 30.º O pessoal de conservação e restauro actualmente em serviço no Instituto será integrado nos novos lugares do quadro, de acordo com o estabelecido no artigo 26.º do [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho.
+
+Art. 31.º A integração do pessoal no quadro do Instituto será efectuada mediante diploma individual de provimento, independentemente de quaisquer outras formalidades, salvo o visto ou anotação do Tribunal de Contas, conforme os casos, a publicação no Diário da República e a posse.
+
+### CAPÍTULO IV — Disposições finais e transitórias
+
+Art. 32.º As receitas provenientes dos trabalhos de conservação e restauro efectuados pelo Instituto de José de Figueiredo serão afectas ao Instituto Português do Património Cultural.
+
+Art. 33.º Enquanto o Instituto de José de Figueiredo não dispuser de instalações definitivas e edifício próprio, as Divisões de Bens Arqueológicos e Etnográficos e de Vitrais serão instaladas, respectivamente, no Museu Nacional de Arqueologia e Etnografia e no Centro Ricardo Leone.
+
+Art. 34.º Ao Instituto de José de Figueiredo cabe a preparação do pessoal das carreiras de conservação e restauro a que se refere o [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho.
+
+Art. 35.º Os cursos de formação profissional nas áreas dos objectos arqueológicos e etnográficos, da faiança e da porcelana poderão ainda ser ministrados no Museu Monográfico de Conímbriga.
+
+Art. 36.º Os encargos resultantes da publicação deste diploma serão suportados, no corrente ano económico, em conta das disponibilidades das dotações orçamentais afectas à Secretaria de Estado da Cultura.
+
+Art. 37.º As dúvidas que se suscitarem na execução do presente diploma serão esclarecidas por despacho conjunto do Ministro das Finanças e do Plano e dos membros do Governo que tutelam as áreas da Reforma Administrativa e da Cultura, consoante a natureza das matérias.
+
+Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1980. - Francisco Sá Carneiro.
+
+Promulgado em 8 de Setembro de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Mapa a que se refere o artigo 21.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21700/27942797.pdf)

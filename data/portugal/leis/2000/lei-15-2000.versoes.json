@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:336150:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2000-942970398",
+ "dre_path": "/dr/detalhe/lei/15-2000-336150",
+ "source_lastmod": "2025-10-29",
+ "versions": [
+  {
+   "date": "2000-08-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "942957964",
+    "942957965",
+    "942957966",
+    "942957967",
+    "942957968"
+   ]
+  }
+ ],
+ "fragments": {
+  "942957964": {
+   "fragment_id": "942970399",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 15/2000\n\nde 8 de Agosto\n\nCorrecção da antiguidade e promoções dos oficiais milicianos que ingressaram no quadro permanente, antes do 25 de Abril de 1974, após a frequência da Academia Militar.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "942957965": {
+   "fragment_id": "942970400",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nAos oficiais milicianos que ingressaram nos quadros permanentes, precedendo frequência das respectivas academias, antes de 25 de Abril de 1974, quando se encontrem na situação de reserva ou de reforma, é contado, para todos os efeitos legais, incluindo a antiguidade, o tempo de serviço efectivo prestado como milicianos."
+  },
+  "942957966": {
+   "fragment_id": "942970401",
+   "type": 11,
+   "heading": "Artigo 2.º — Promoções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Promoções\n\n1 - São promovidos ao posto a que tenham direito, considerando exclusivamente o tempo de serviço e a antiguidade nos termos do artigo 1.º e tendo como limite o posto de coronel ou de capitão-de-mar-e-guerra, os primeiros-tenentes ou capitães, os capitães-tenentes ou majores e os capitães-de-fragata ou tenentes-coronéis abrangidos pelo disposto no artigo anterior que:\n\na) Tenham passado à situação de reserva a seu pedido ou por terem atingido o limite de idade legalmente estabelecido para o posto;\n\nb) Tenham passado à reforma a seu pedido ou por terem atingido o tempo máximo de permanência na reserva fora da efectividade do serviço;\n\nc) Tenham passado à reforma extraordinária;\n\nd) Tenham adquirido o estatuto de deficiente das Forças Armadas;\n\ne) Tenham falecido.\n\n2 - Não são abrangidos pelo disposto no número anterior os oficiais que:\n\na) Tenham passado à reserva por força de sanção disciplinar;\n\nb) Tenham sido abatidos aos QP.\n\n3 - Aos oficiais abrangidos pelo artigo 1.º que se encontrem em efectividade de serviço só será aplicada a contagem de antiguidade ali prevista quando cessar essa situação."
+  },
+  "942957967": {
+   "fragment_id": "942970402",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitação de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limitação de efeitos\n\nAs promoções decorrentes da aplicação do presente diploma não conferem direito à percepção de retroactivos, sem prejuízo da assunção pelo Estado do encargo do pagamento das quotas e diferenças de quotas devidas à Caixa Geral de Aposentações, pelos períodos a que tal haja lugar por força das promoções ocorridas nos termos do artigo 2.º"
+  },
+  "942957968": {
+   "fragment_id": "942970403",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nOs efeitos financeiros da presente lei produzem-se com a entrada em vigor da primeira lei do Orçamento do Estado que venha a ser aprovada após a publicação deste diploma."
+  }
+ }
+}

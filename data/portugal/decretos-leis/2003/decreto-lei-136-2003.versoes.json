@@ -1,0 +1,579 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:693251:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-67572458",
+ "dre_path": "/dr/detalhe/decreto-lei/136-2003-693251",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-06-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67577288",
+    "67577289",
+    "67577290",
+    "67577291",
+    "67577292",
+    "67577293",
+    "67577294",
+    "67577295",
+    "67577296",
+    "67577297",
+    "67577298",
+    "67577299",
+    "67577300",
+    "67577301",
+    "67577302",
+    "67577303",
+    "67577304",
+    "67577305",
+    "67577306"
+   ]
+  },
+  {
+   "date": "2007-08-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640663:por",
+     "title": "Decreto-Lei n.º 296/2007",
+     "published": "2007-08-22",
+     "dre_path": "/dr/detalhe/decreto-lei/296-2007-640663"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "67577288",
+    "67577289",
+    "67577290",
+    "67577364",
+    "67577292",
+    "67577293",
+    "67577294",
+    "67577295",
+    "67577296",
+    "67577297",
+    "67577298",
+    "67577299",
+    "67577300",
+    "67577301",
+    "67577302",
+    "67577303",
+    "67577304",
+    "67577307",
+    "67577305",
+    "67577365"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:67541745:por",
+     "title": "Decreto-Lei n.º 118/2015",
+     "published": "2015-06-23",
+     "dre_path": "/dr/detalhe/decreto-lei/118-2015-67541745",
+     "date": "2015-06-20"
+    }
+   ]
+  },
+  {
+   "date": "2015-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67541745:por",
+     "title": "Decreto-Lei n.º 118/2015",
+     "published": "2015-06-23",
+     "dre_path": "/dr/detalhe/decreto-lei/118-2015-67541745"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-B",
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Anexo I",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "67577288",
+    "67591794",
+    "67591795",
+    "67591796",
+    "67591797",
+    "67577293",
+    "67577294",
+    "67591798",
+    "67591799",
+    "67591800",
+    "67577366",
+    "67591777",
+    "67591801",
+    "67591802",
+    "67591780",
+    "67591803",
+    "67591804",
+    "67591788",
+    "67591805",
+    "67591790",
+    "67591791",
+    "67591806",
+    "67591807"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "67577288",
+    "67591794",
+    "67591795",
+    "67591796",
+    "67591797",
+    "67577293",
+    "67577294",
+    "67591798",
+    "67591799",
+    "67591800",
+    "67577366",
+    "67591777",
+    "67591801",
+    "156398088",
+    "67591780",
+    "67591803",
+    "156398089",
+    "67591788",
+    "67591805",
+    "67591790",
+    "67591791",
+    "67591806",
+    "67591807"
+   ]
+  }
+ ],
+ "fragments": {
+  "67577288": {
+   "fragment_id": "67572459",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 136/2003\n\nde 28 de Junho\n\nUm regime alimentar adequado e variado, em circunstâncias normais, fornece a um ser humano todas as substâncias nutrientes necessárias nas quantidades estabelecidas e recomendadas por dados científicos ao seu bom desenvolvimento e à sua manutenção num bom estado de saúde.\n\nTodavia, esta situação ideal não está a ser alcançada em relação a todas as substâncias nutrientes nem a todos os grupos populacionais devido, designadamente, ao estilo de vida.\n\nOs consumidores podem, no entanto, optar por complementar as quantidades ingeridas de algumas substâncias nutrientes através do consumo de suplementos alimentares.\n\nPor isso, tem-se verificado a existência de um número crescente de produtos comercializados como géneros alimentícios que constituem uma fonte concentrada de substâncias nutrientes, as quais são apresentadas como complemento aos nutrimentos ingeridos num regime alimentar normal.\n\nEstes suplementos alimentares podem conter um leque bastante variado de substâncias nutrientes e outros ingredientes, designadamente vitaminas, minerais, aminoácidos, ácidos gordos essenciais, fibras e várias plantas e extractos de ervas.\n\nTendo em vista garantir um elevado nível de protecção dos consumidores e facilitar a sua escolha, os suplementos alimentares a colocar no mercado devem ser seguros e comportar uma rotulagem adequada.\n\nA ingestão excessiva de vitaminas e de minerais pode provocar efeitos adversos, devendo, por isso, ser fixados, quando necessário, limites máximos de segurança para essas substâncias presentes nos suplementos alimentares, garantindo que a utilização normal dos produtos, de acordo com as instruções de utilização fornecidas pelo fabricante, é segura para os consumidores.\n\nPara garantir que os suplementos alimentares são um complemento do regime alimentar, devem as vitaminas e os minerais declarados no rótulo dos mesmos estar presentes no produto em quantidades significativas.\n\nAs normas relativas ao fabrico e comercialização dos suplementos alimentares encontram-se fixadas na Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0046\" title=\"Link para Directiva da Comunidade Europeia\">2002/46/CE</a>, do Parlamento Europeu e do Conselho, de 10 de Junho, a qual importa agora transpor para a ordem jurídica nacional.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "67577289": {
+   "fragment_id": "67572460",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0046\" title=\"Link para Directiva da Comunidade Europeia\">2002/46/CE</a>, do Parlamento Europeu e do Conselho, de 10 de Junho, relativa à aproximação das legislações dos Estados membros respeitantes aos suplementos alimentares."
+  },
+  "67577290": {
+   "fragment_id": "67572461",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma refere-se aos suplementos alimentares comercializados como géneros alimentícios e apresentados como tais, os quais apenas podem ser postos à disposição do consumidor final sob a forma pré-embalada.\n\n2 - O presente diploma não se aplica aos medicamentos tal como definidos no Decreto-Lei n.º 72/91, de 8 de Fevereiro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 242/2000, de 26 de Setembro, relativo aos medicamentos para uso humano."
+  },
+  "67577291": {
+   "fragment_id": "67572462",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Suplementos alimentares», os géneros alimentícios que se destinam a complementar e ou suplementar o regime alimentar normal e que constituem fontes concentradas de determinadas substâncias nutrientes ou outras com efeito nutricional ou fisiológico, estremes ou combinadas, comercializadas em forma doseada, tais como cápsulas, pastilhas, comprimidos, pílulas e outras formas semelhantes, saquetas de pó, ampolas de líquido, frascos com conta-gotas e outras formas similares de líquidos ou pós que se destinam a ser tomados em unidades medidas de quantidade reduzida;\n\nb) «Substâncias nutrientes ou nutrimentos», as vitaminas e os minerais;\n\nc) «Autoridade competente», a Agência para a Qualidade e Segurança Alimentar, organismo responsável pela avaliação dos riscos dos géneros alimentícios e que, nessa matéria, colabora com a Autoridade Europeia para a Segurança dos Alimentos."
+  },
+  "67577292": {
+   "fragment_id": "67572463",
+   "type": 11,
+   "heading": "Artigo 4.º — Vitaminas e minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Vitaminas e minerais\n\n1 - Sem prejuízo do disposto no n.º 4, apenas as vitaminas e os minerais constantes do anexo I ao presente diploma, sob as formas enunciadas no anexo II ao presente diploma, podem ser utilizados no fabrico de suplementos alimentares.\n\n2 - Às substâncias enumeradas no anexo II aplicam-se os critérios de pureza previstos na legislação em vigor relativa à utilização dos mesmos no fabrico de géneros alimentícios para fins diversos dos abrangidos pelo presente diploma.\n\n3 - Quanto às substâncias enunciadas no anexo II, para as quais não estejam especificados critérios de pureza na legislação vigente, até à adopção daqueles, aplicam-se os critérios de pureza geralmente aceites e recomendados por organismos internacionais.\n\n4 - Até 31 de Dezembro de 2009, em derrogação do disposto no n.º 1, pode ser autorizado o uso de vitaminas e de minerais não enumerados no anexo I, ou sob formas não enunciadas no anexo II.\n\n5 - A autorização a que se refere o número anterior deve ser solicitada à autoridade competente até 31 de Maio de 2005, mas apenas para as substâncias que, em 12 de Julho de 2002, sejam utilizadas em um ou mais suplementos alimentares comercializados.\n\n6 - A autoridade competente solicita o parecer da Autoridade Europeia para a Segurança dos Alimentos e só autoriza a comercialização dos produtos que contenham as vitaminas e os minerais referidos no n.º 4 desde que não haja um parecer desfavorável daquela."
+  },
+  "67577293": {
+   "fragment_id": "67572464",
+   "type": 11,
+   "heading": "Artigo 5.º — Quantidades de vitaminas e minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Quantidades de vitaminas e minerais\n\n1 - As quantidades máximas de vitaminas e minerais presentes nos suplementos alimentares são fixadas em função da toma diária recomendada pelo fabricante, tendo em conta os seguintes elementos:\n\na) Limites superiores de segurança estabelecidos para as vitaminas e os minerais, após uma avaliação científica dos riscos, efectuada com base em dados científicos geralmente aceites, tendo em conta, quando for caso disso, os diversos graus de sensibilidade dos diferentes grupos de consumidores;\n\nb) Quantidade de vitaminas e minerais ingerida através de outras fontes alimentares;\n\nc) Doses de referência de vitaminas e minerais para a população.\n\n2 - Para garantir que os suplementos alimentares contêm quantidades suficientes e significativas de vitaminas e minerais, as quantidades mínimas devem ser fixadas em função da toma diária recomendada pelo fabricante."
+  },
+  "67577294": {
+   "fragment_id": "67572465",
+   "type": 11,
+   "heading": "Artigo 6.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rotulagem\n\n1 - A denominação de venda dos produtos abrangidos pelo presente diploma é a de «suplemento alimentar».\n\n2 - Sem prejuízo do disposto na legislação vigente relativa à rotulagem dos géneros alimentícios, a rotulagem dos suplementos alimentares deve ainda conter as seguintes indicações:\n\na) A designação das categorias de nutrimentos ou substâncias que caracterizam o produto ou uma referência específica à sua natureza;\n\nb) A toma diária recomendada do produto;\n\nc) Uma advertência de que não deve ser excedida a toma diária indicada;\n\nd) A indicação de que os suplementos alimentares não devem ser utilizados como substitutos de um regime alimentar variado;\n\ne) Uma advertência de que os produtos devem ser guardados fora do alcance das crianças."
+  },
+  "67577295": {
+   "fragment_id": "67572466",
+   "type": 11,
+   "heading": "Artigo 7.º — Modo de apresentação da rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modo de apresentação da rotulagem\n\nA rotulagem, apresentação e publicidade dos suplementos alimentares não pode incluir menções que:\n\na) Atribuam aos mesmos propriedades profilácticas, de tratamento ou curativas de doenças humanas, nem fazer referência a essas propriedades;\n\nb) Declarem expressa ou implicitamente que um regime alimentar equilibrado e variado não constitui uma fonte suficiente de nutrimentos em geral."
+  },
+  "67577296": {
+   "fragment_id": "67572467",
+   "type": 11,
+   "heading": "Artigo 8.º — Indicação dos nutrimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Indicação dos nutrimentos\n\n1 - A quantidade de nutrimentos ou substâncias com efeito nutricional ou fisiológico presentes no produto deve ser declarada no rótulo sob forma numérica, sendo as unidades a utilizar para as vitaminas e minerais as que se encontram especificadas no anexo I.\n\n2 - As quantidades de nutrimentos ou de outras substâncias declaradas referem-se à toma diária recomendada pelo fabricante e indicada no rótulo.\n\n3 - Os valores declarados, a que se referem os números anteriores, são valores médios baseados na análise do produto realizada pelo fabricante.\n\n4 - As informações relativas às vitaminas e aos minerais devem igualmente ser expressas em percentagem dos valores de referência mencionados, designadamente os constantes na legislação em vigor sobre rotulagem nutricional dos géneros alimentícios."
+  },
+  "67577297": {
+   "fragment_id": "67572468",
+   "type": 11,
+   "heading": "Artigo 9.º — Colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Colocação no mercado\n\nO fabricante ou o responsável pela colocação no mercado, antes de iniciar a comercialização de um produto, deve informar a autoridade competente dessa comercialização, enviando-lhe um modelo de rótulo utilizado para esse produto."
+  },
+  "67577298": {
+   "fragment_id": "67572469",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nCompete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar e às direcções regionais de agricultura assegurar a fiscalização das normas constantes do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades."
+  },
+  "67577299": {
+   "fragment_id": "67572470",
+   "type": 11,
+   "heading": "Artigo 11.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 500 e nos montantes máximos de (euro) 3740,98 ou (euro) 44891,81, consoante o agente em infracção seja pessoa singular ou colectiva:\n\na) O fabrico ou a comercialização de suplementos alimentares que não cumpram o disposto nos artigos 4.º e 5.º;\n\nb) A comercialização de suplementos alimentares com desrespeito pelo disposto no n.º 1 do artigo 2.º e nos artigos 6.º, 7.º, 8.º e 9.º\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - Às contra-ordenações previstas no presente diploma aplica-se subsidiariamente o disposto no Regime Geral das Contra-Ordenações e Coimas, aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro."
+  },
+  "67577300": {
+   "fragment_id": "67572471",
+   "type": 11,
+   "heading": "Artigo 12.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissão ou actividade cujo exercício depende de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participação em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimentos cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a g) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "67577301": {
+   "fragment_id": "67572472",
+   "type": 11,
+   "heading": "Artigo 13.º — Levantamento dos autos, instrução e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Levantamento dos autos, instrução e aplicação de sanções\n\n1 - O levantamento dos autos de contra-ordenação compete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar e às direcções regionais de agricultura, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n2 - A instrução dos processos de contra-ordenação compete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar.\n\n3 - A aplicação das coimas e sanções acessórias no âmbito do presente diploma compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar."
+  },
+  "67577302": {
+   "fragment_id": "67572473",
+   "type": 11,
+   "heading": "Artigo 14.º — Repartição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Repartição do produto das coimas\n\nA afectação do produto das coimas cobradas em aplicação do artigo 11.º faz-se da seguinte forma:\n\na) 10% para a entidade que levanta o auto;\n\nb) 20% para a entidade que faz a instrução do processo;\n\nc) 10% para a entidade que aplica a coima;\n\nd) 60% para o Estado."
+  },
+  "67577303": {
+   "fragment_id": "67572474",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma transitória\n\nA comercialização dos produtos que não estejam conformes com as normas do presente diploma é autorizada até 1 de Agosto de 2005."
+  },
+  "67577304": {
+   "fragment_id": "67579475",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "67577305": {
+   "fragment_id": "67579476",
+   "type": 14,
+   "heading": "Anexo I — Vitaminas e minerais que podem ser utilizados no fabrico de suplementos alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Vitaminas e minerais que podem ser utilizados no fabrico de suplementos alimentares\n\n1 - Vitaminas\n\nVitamina A ((mi)g RE).\n\nVitamina D ((mi)g).\n\nVitamina E (mg (alfa)-TE).\n\nVitamina K ((mi)g).\n\nVitamina B1 (mg).\n\nVitamina B2 (mg).\n\nNiacina (mg NE).\n\nÁcido pantoténico (mg).\n\nVitamina B6 (mg).\n\nAcido fólico ((mi)g).\n\nVitamina B12 ((mi)g).\n\nBiotina ((mi)g).\n\nVitamina C (mg).\n\n2 - Minerais\n\nCálcio (mg).\n\nMagnésio (mg).\n\nFerro (mg).\n\nCobre ((mi)g).\n\nIodo ((mi)g).\n\nZinco (mg).\n\nManganês (mg).\n\nSódio (mg).\n\nPotássio (mg).\n\nSelénio ((mi)g).\n\nCrómio ((mi)g).\n\nMolibdénio ((mi)g).\n\nFluoreto (mg).\n\nCloreto (mg).\n\nFósforo (mg)."
+  },
+  "67577306": {
+   "fragment_id": "67579477",
+   "type": 14,
+   "heading": "Anexo II — Substâncias vitamínicas e minerais que podem ser utilizadas no fabrico de suplementos alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Substâncias vitamínicas e minerais que podem ser utilizadas no fabrico de suplementos alimentares\n\nA - Vitaminas\n\n1 - Vitamina A\n\na) Retinol.\n\nb) Acetato de retinol.\n\nc) Palmitato de retinol.\n\nd) Beta-caroteno.\n\n2 - Vitamina D\n\na) Colecalciferol.\n\nb) Ergocalciferol.\n\n3 - Vitamina E\n\na) D-alfa-tocoferol.\n\nb) DL-alfa-tocoferol.\n\nc) Acetato de D-alfa-tocoferol.\n\nd) Acetato de DL-alfa-tocoferol.\n\ne) Succinato ácido de D-alfa-tocoferol.\n\n4 - Vitamina K\n\na) Filoquinona (fitomenadiona).\n\n5 - Vitamina B1\n\na) Cloridrato de tiamina.\n\nb) Mononitrato de tiamina.\n\n6 - Vitamina B2\n\na) Riboflavina.\n\nb) Riboflavina-5'-fosfato de sódio.\n\n7 - Niacina\n\na) Ácido nicotínico.\n\nb) Nicotinamida.\n\n8 - Ácido pantoténico\n\na) D-pantotenato de cálcio.\n\nb) D-pantotenato de sódio.\n\nc) Dexpantotenol.\n\n9 - Vitamina B6\n\na) Cloridrato de piridoxina.\n\nb) Piridoxina-5'-fosfato.\n\n10 - Ácido fólico\n\na) Ácido pteroilmonoglutâmico.\n\n11 - Vitamina B12\n\na) Cianocobalamina.\n\nb) Hidroxocobalamina.\n\n12 - Biotina\n\na) D-biotina.\n\n13 - Vitamina C\n\na) Ácido L-ascórbico.\n\nb) L-ascorbato de sódio.\n\nc) L-ascorbato de cálcio.\n\nd) L-ascorbato de potássio.\n\ne) 6-palmitato de L-ascorbilo.\n\nB - Minerais\n\nCarbonato de cálcio.\n\nCloreto de cálcio.\n\nSais de cálcio do ácido cítrico\n\nGluconato de cálcio.\n\nGlicerofosfato de cálcio.\n\nLactato de cálcio.\n\nSais de cálcio do ácido ortofosfórico.\n\nHidróxido de cálcio.\n\nÓxido de cálcio.\n\nAcetato de magnésio.\n\nCarbonato de magnésio.\n\nCloreto de magnésio.\n\nSais de magnésio do ácido cítrico.\n\nGluconato de magnésio.\n\nGlicerofosfato de magnésio.\n\nSais de magnésio do ácido ortofosfórico.\n\nLactato de magnésio.\n\nHidróxido de magnésio.\n\nÓxido de magnésio.\n\nSulfato de magnésio.\n\nCarbonato ferroso.\n\nCitrato ferroso.\n\nCitrato férrico de amónio.\n\nGluconato ferroso.\n\nFumarato ferroso.\n\nDifosfato férrico de sódio.\n\nLactato ferroso.\n\nSulfato ferroso.\n\nDifosfato férrico (pirofosfato férrico).\n\nSacarato férrico.\n\nFerro elementar (resultante da redução por carbonilo, electrólise ou hidrogénio).\n\nCarbonato cúprico.\n\nCitrato cúprico.\n\nGluconato cúprico.\n\nSulfato cúprico.\n\nComplexo de cobre-lisina.\n\nIodeto de sódio.\n\nIodato de sódio.\n\nIodeto de potássio.\n\nIodato de potássio.\n\nAcetato de zinco.\n\nCloreto de zinco.\n\nCitrato de zinco.\n\nGluconato de zinco.\n\nLactato de zinco.\n\nSulfato de crómio (III).\n\nMolibdato de amónio [molibdénio (VI)].\n\nMolibdato de sódio [molibdénio (VI)].\n\nFluoreto de potássio.\n\nFluoreto de sódio.\n\nÓxido de zinco.\n\nCarbonato de zinco.\n\nSulfato de zinco.\n\nCarbonato de manganês.\n\nCloreto de manganês.\n\nCitrato de manganês.\n\nGluconato de manganês.\n\nGlicerofosfato de manganês.\n\nSulfato de manganês.\n\nBicarbonato de sódio.\n\nCarbonato de sódio.\n\nCloreto de sódio.\n\nCitrato de sódio.\n\nGluconato de sódio.\n\nLactato de sódio.\n\nHidróxido de sódio.\n\nSais de sódio do ácido ortofosfórico.\n\nBicarbonato de potássio.\n\nCarbonato de potássio.\n\nCloreto de potássio.\n\nCitrato de potássio.\n\nGluconato de potássio.\n\nGlicerofosfato de potássio.\n\nLactato de potássio.\n\nHidróxido de potássio.\n\nSais de potássio do ácido ortofosfórico.\n\nSelenato de sódio.\n\nHidrogenosselenito de sódio.\n\nSelenito de sódio.\n\nCloreto de crómio (III)."
+  },
+  "67577364": {
+   "fragment_id": "67572462",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2007-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 296/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2007-640663), em vigor a partir de 2007-08-23"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Suplementos alimentares», os géneros alimentícios que se destinam a complementar e ou suplementar o regime alimentar normal e que constituem fontes concentradas de determinadas substâncias nutrientes ou outras com efeito nutricional ou fisiológico, estremes ou combinadas, comercializadas em forma doseada, tais como cápsulas, pastilhas, comprimidos, pílulas e outras formas semelhantes, saquetas de pó, ampolas de líquido, frascos com conta-gotas e outras formas similares de líquidos ou pós que se destinam a ser tomados em unidades medidas de quantidade reduzida;\n\nb) «Substâncias nutrientes ou nutrimentos», as vitaminas e os minerais;\n\nc)  'Autoridade competente' o Gabinete de Planeamento e Políticas, organismo responsável pelas medidas de política relativas à qualidade e segurança alimentar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 296/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2007-640663), em vigor a partir de 2007-08-23"
+  },
+  "67577307": {
+   "fragment_id": "67579478",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.\n\nPromulgado em 13 de Junho de 2003, na ilha das Flores, Açores.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 18 de Junho de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "67577365": {
+   "fragment_id": "67579477",
+   "type": 14,
+   "heading": "Anexo II — Substâncias vitamínicas e minerais que podem ser utilizadas no fabrico de suplementos alimentares",
+   "in_force_from": "2007-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 296/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2007-640663), em vigor a partir de 2007-08-23"
+   ],
+   "markdown": "## Anexo II — Substâncias vitamínicas e minerais que podem ser utilizadas no fabrico de suplementos alimentares\n\nA - Vitaminas\n\n1 - Vitamina A\n\na) Retinol.\n\nb) Acetato de retinol.\n\nc) Palmitato de retinol.\n\nd) Beta-caroteno.\n\n2 - Vitamina D\n\na) Colecalciferol.\n\nb) Ergocalciferol.\n\n3 - Vitamina E\n\na) D-alfa-tocoferol.\n\nb) DL-alfa-tocoferol.\n\nc) Acetato de D-alfa-tocoferol.\n\nd) Acetato de DL-alfa-tocoferol.\n\ne) Succinato ácido de D-alfa-tocoferol.\n\n4 - Vitamina K\n\na) Filoquinona (fitomenadiona).\n\n5 - Vitamina B1\n\na) Cloridrato de tiamina.\n\nb) Mononitrato de tiamina.\n\n6 - Vitamina B2\n\na) Riboflavina.\n\nb) Riboflavina-5'-fosfato de sódio.\n\n7 - Niacina\n\na) Ácido nicotínico.\n\nb) Nicotinamida.\n\n8 - Ácido pantoténico\n\na) D-pantotenato de cálcio.\n\nb) D-pantotenato de sódio.\n\nc) Dexpantotenol.\n\n9 - Vitamina B6\n\na) Cloridrato de piridoxina.\n\nb) Piridoxina-5'-fosfato.\n\n10 - Ácido fólico\n\na) Ácido pteroilmonoglutâmico.\n\n11 - Vitamina B12\n\na) Cianocobalamina.\n\nb) L - metilfolato de cálcio.\n\n12 - Biotina\n\na) D-biotina.\n\n13 - Vitamina C\n\na) Ácido L-ascórbico.\n\nb) L-ascorbato de sódio.\n\nc) L-ascorbato de cálcio.\n\nd) L-ascorbato de potássio.\n\ne) 6-palmitato de L-ascorbilo.\n\nB - Minerais\n\nCarbonato de cálcio.\n\nCloreto de cálcio.\n\nSais de cálcio do ácido cítrico\n\nGluconato de cálcio.\n\nGlicerofosfato de cálcio.\n\nLactato de cálcio.\n\nSais de cálcio do ácido ortofosfórico.\n\nHidróxido de cálcio.\n\nÓxido de cálcio.\n\nAcetato de magnésio.\n\nCarbonato de magnésio.\n\nCloreto de magnésio.\n\nSais de magnésio do ácido cítrico.\n\nGluconato de magnésio.\n\nGlicerofosfato de magnésio.\n\nSais de magnésio do ácido ortofosfórico.\n\nLactato de magnésio.\n\nHidróxido de magnésio.\n\nÓxido de magnésio.\n\nSulfato de magnésio.\n\nCarbonato ferroso.\n\nCitrato ferroso.\n\nCitrato férrico de amónio.\n\nGluconato ferroso.\n\nFumarato ferroso.\n\nDifosfato férrico de sódio.\n\nLactato ferroso.\n\nSulfato ferroso.\n\nDifosfato férrico (pirofosfato férrico).\n\nSacarato férrico.\n\nFerro elementar (resultante da redução por carbonilo, electrólise ou hidrogénio).\n\nCarbonato cúprico.\n\nCitrato cúprico.\n\nGluconato cúprico.\n\nSulfato cúprico.\n\nComplexo de cobre-lisina.\n\nIodeto de sódio.\n\nIodato de sódio.\n\nIodeto de potássio.\n\nIodato de potássio.\n\nAcetato de zinco.\n\nCloreto de zinco.\n\nCitrato de zinco.\n\nGluconato de zinco.\n\nLactato de zinco.\n\nSulfato de crómio (III).\n\nMolibdato de amónio [molibdénio (VI)].\n\nMolibdato de sódio [molibdénio (VI)].\n\nFluoreto de potássio.\n\nFluoreto de sódio.\n\nÓxido de zinco.\n\nCarbonato de zinco.\n\nSulfato de zinco.\n\nCarbonato de manganês.\n\nCloreto de manganês.\n\nCitrato de manganês.\n\nGluconato de manganês.\n\nGlicerofosfato de manganês.\n\nSulfato de manganês.\n\nBicarbonato de sódio.\n\nCarbonato de sódio.\n\nCloreto de sódio.\n\nCitrato de sódio.\n\nGluconato de sódio.\n\nLactato de sódio.\n\nHidróxido de sódio.\n\nSais de sódio do ácido ortofosfórico.\n\nBicarbonato de potássio.\n\nCarbonato de potássio.\n\nCloreto de potássio.\n\nCitrato de potássio.\n\nGluconato de potássio.\n\nGlicerofosfato de potássio.\n\nLactato de potássio.\n\nHidróxido de potássio.\n\nSais de potássio do ácido ortofosfórico.\n\nSelenato de sódio.\n\nHidrogenosselenito de sódio.\n\nSelenito de sódio.\n\nCloreto de crómio (III)\n\nBisglicinato ferroso.\n\nCarbonato cúprico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 296/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2007-640663), em vigor a partir de 2007-08-23"
+  },
+  "67591794": {
+   "fragment_id": "67572460",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Diretiva n.º 2002/46/CE, do Parlamento Europeu e do Conselho, de 10 de junho de 2002, alterada pela Diretiva n.º 2006/37/CE, da Comissão, de 30 de março de 2006, relativa à aproximação das legislações dos Estados-Membros respeitantes aos suplementos alimentares, com as alterações introduzidas pelos Regulamentos (CE) n.os 1137/2008, do Parlamento Europeu e do Conselho, de 22 de outubro de 2008, e 1170/2009, da Comissão, de 30 de novembro de 2009, e pelos Regulamentos (UE) n.os 1161/2011, da Comissão, de 14 de novembro de 2011, e 119/2014, da Comissão, de 7 de fevereiro de 2014.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591795": {
+   "fragment_id": "67572461",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma refere-se aos suplementos alimentares comercializados como géneros alimentícios e apresentados como tais, os quais apenas podem ser postos à disposição do consumidor final sob a forma pré-embalada.\n\n2 - O presente diploma não se aplica aos medicamentos tal como definidos no Decreto-Lei n.º 176/2006, de 30 de agosto, que estabelece o regime jurídico dos medicamentos de uso humano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591796": {
+   "fragment_id": "67572462",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 296/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2007-640663), em vigor a partir de 2007-08-23"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Suplementos alimentares», os géneros alimentícios que se destinam a complementar e ou suplementar o regime alimentar normal e que constituem fontes concentradas de determinadas substâncias nutrientes ou outras com efeito nutricional ou fisiológico, estremes ou combinadas, comercializadas em forma doseada, tais como cápsulas, pastilhas, comprimidos, pílulas e outras formas semelhantes, saquetas de pó, ampolas de líquido, frascos com conta-gotas e outras formas similares de líquidos ou pós que se destinam a ser tomados em unidades medidas de quantidade reduzida;\n\nb) «Substâncias nutrientes ou nutrimentos», as vitaminas e os minerais;\n\nc)  «Autoridade competente», a Direção-Geral de Alimentação e Veterinária (DGAV), enquanto organismo responsável pela definição, execução e avaliação das políticas de segurança alimentar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 296/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2007-640663), em vigor a partir de 2007-08-23"
+  },
+  "67591797": {
+   "fragment_id": "67572463",
+   "type": 11,
+   "heading": "Artigo 4.º — Vitaminas e minerais",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 4.º — Vitaminas e minerais\n\n1 - Apenas as vitaminas e os minerais referidos nos anexos I e II do Regulamento (CE) n.º 1170/2009, da Comissão, de 30 de novembro de 2009, sob as formas enunciadas naquele Regulamento e nos Regulamentos (UE) n.os 1161/2011, da Comissão, de 14 de novembro de 2011, e 119/2014, da Comissão, de 7 de fevereiro de 2014, podem ser utilizados no fabrico de suplementos alimentares.\n\n2 - Às vitaminas e minerais referidos no número anterior aplicam-se os critérios de pureza previstos na legislação em vigor relativa à utilização dos mesmos no fabrico de géneros alimentícios para fins diversos dos abrangidos pelo presente diploma.\n\n3 - Quanto às vitaminas e aos minerais referidos no n.º 1, para os quais não estejam especificados critérios de pureza na legislação vigente, até à adoção daqueles, aplicam-se os critérios de pureza geralmente aceites e recomendados por organismos internacionais.\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591798": {
+   "fragment_id": "67572466",
+   "type": 11,
+   "heading": "Artigo 7.º — Modo de apresentação da rotulagem",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 7.º — Modo de apresentação da rotulagem\n\n1 - A rotulagem, apresentação e publicidade dos suplementos alimentares não pode incluir menções que:\n\na) Atribuam aos mesmos propriedades profilácticas, de tratamento ou curativas de doenças humanas, nem fazer referência a essas propriedades;\n\nb) Declarem expressa ou implicitamente que um regime alimentar equilibrado e variado não constitui uma fonte suficiente de nutrimentos em geral.\n\n2 - Na publicidade e divulgação dos suplementos alimentares, as alegações nutricionais e de saúde estão sujeitas às regras constantes do Regulamento (CE) n.º 1924/2006, do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, alterado pelos Regulamentos (CE) n.os 107/2008 e 109/2008, ambos do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, e pelos Regulamentos (UE) n.os 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, e 1047/2012, da Comissão, de 8 de novembro de 2012, e demais legislação europeia aplicável.\n\n3 - A rotulagem, a apresentação no mercado e a publicidade aos suplementos alimentares, seja escrita, audiovisual ou difundida apenas por meios auditivos, devem incluir, com destaque suficiente e adequado, a referência «SUPLEMENTO ALIMENTAR», que identifique inequivocamente o produto enquanto tal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591799": {
+   "fragment_id": "67572467",
+   "type": 11,
+   "heading": "Artigo 8.º — Indicação dos nutrimentos",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 8.º — Indicação dos nutrimentos\n\n1 - A quantidade de nutrientes ou substâncias com efeito nutricional ou fisiológico presentes no produto deve ser declarada no rótulo sob forma numérica, sendo as unidades a utilizar para as vitaminas e minerais as que se encontram especificadas nos anexos I e II do Regulamento (CE) n.º 1170/2009, da Comissão, de 30 de novembro de 2009.\n\n2 - As quantidades de nutrimentos ou de outras substâncias declaradas referem-se à toma diária recomendada pelo fabricante e indicada no rótulo.\n\n3 - Os valores declarados, a que se referem os números anteriores, são valores médios baseados na análise do produto realizada pelo fabricante.\n\n4 - As informações relativas às vitaminas e aos minerais devem igualmente ser expressas em percentagem dos valores de referência mencionados, designadamente os constantes na legislação em vigor sobre rotulagem nutricional dos géneros alimentícios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591800": {
+   "fragment_id": "67572468",
+   "type": 11,
+   "heading": "Artigo 9.º — Comercialização e notificação",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 9.º — Comercialização e notificação\n\n1 - É proibida a comercialização de suplementos alimentares que não cumpram o disposto no presente diploma.\n\n2 - A autoridade competente pode exigir, a todo o tempo, ao fabricante ou ao importador a apresentação de trabalhos científicos e de dados que comprovem a conformidade do produto com as regras estabelecidas no presente diploma.\n\n3 - Sempre que se trate da primeira comercialização dos suplementos alimentares na União Europeia, o fabricante, se o produto tiver origem num dos Estados-Membros, ou o importador, se o produto tiver origem em país terceiro, notifica a autoridade competente, de acordo com processo previsto no artigo seguinte.\n\n4 - Caso o produto já tenha sido comercializado na União Europeia, o fabricante ou o importador dão cumprimento ao processo referido no artigo seguinte e notificam a autoridade competente da identidade da autoridade destinatária da primeira notificação de comercialização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67577366": {
+   "fragment_id": "67590386",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Processo de notificação",
+   "in_force_from": "2015-06-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-20"
+   ],
+   "markdown": "###### Artigo 9.º-A — Processo de notificação\n\n1 - A notificação de suplementos alimentares é efetuada por via eletrónica.\n\n2 - Para efeitos do disposto no número anterior, deve ser utilizado o modelo de notificação disponibilizado no sítio na Internet da autoridade competente, acessível através do Portal do Cidadão e do Portal da Empresa e deve ser seguido o procedimento divulgado da mesma forma.\n\n3 - A notificação deve ser acompanhada de toda a documentação prevista no procedimento mencionado no número anterior.\n\n4 - Caso a documentação enviada pelo notificante nos termos do número anterior esteja em conformidade com o procedimento de notificação, a notificação é aceite, seguindo-se a respetiva apreciação.\n\n5 - Sempre que necessário, nomeadamente quando a notificação seja omissa ou quando no decurso da análise daquela a autoridade competente verifique serem necessárias informações complementares, pode ser solicitado ao notificante para, no prazo de 15 dias, juntar os documentos ou prestar as informações necessárias, ficando suspenso o prazo previsto no número seguinte.\n\n6 - Se no prazo máximo de 60 dias a contar da receção da notificação a que se refere o n.º 3 a autoridade competente não informar o notificante da sua decisão, presume-se que a decisão é favorável.\n\n7 - Qualquer alteração à composição, ao fabrico, à distribuição, à colocação no mercado ou à rotulagem de um suplemento alimentar deve ser comunicada, no prazo de 10 dias úteis após a sua ocorrência, à autoridade competente, sendo aplicável, com as necessárias adaptações, os procedimentos de apreciação previstos nos n.os 4 a 6.\n\n8 - Caso a apreciação da notificação exija os estudos ou pareceres a que se refere o artigo seguinte, o prazo previsto no número anterior fica suspenso até à receção pela autoridade competente dos referidos estudos ou pareceres, sendo o notificante informado desta suspensão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-20"
+  },
+  "67591777": {
+   "fragment_id": "67590387",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Estudos ou pareceres",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 9.º-B — Estudos ou pareceres\n\n1 - O diretor-geral de Alimentação e Veterinária pode, sempre que necessário, solicitar aos operadores que tenham feito a notificação de suplementos alimentares, nos termos do disposto no artigo anterior, que apresentem estudos de qualidade e segurança dos suplementos alimentares realizados por entidades com reconhecida competência técnica nestas áreas.\n\n2 - As entidades a que se refere o número anterior não podem ter quaisquer interesses diretos ou indiretos no âmbito da produção, transformação, importação, exportação e comercialização de suplementos alimentares e devem ser escolhidas de entre as constantes de uma lista a publicar, através de edital, no sítio na Internet da DGAV.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591801": {
+   "fragment_id": "67572469",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\nCompete à Autoridade de Segurança Alimentar e Económica (ASAE), no âmbito das suas competências, a fiscalização do cumprimento das normas do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591802": {
+   "fragment_id": "67572470",
+   "type": 11,
+   "heading": "Artigo 11.º — Contra-ordenações",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 11.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 500 e nos montantes máximos de (euro) 3740,98 ou (euro) 44891,81, consoante o agente em infracção seja pessoa singular ou colectiva:\n\na) O fabrico ou a comercialização de suplementos alimentares que não cumpram o disposto nos artigos 4.º e 5.º;\n\nb) A comercialização de suplementos alimentares com desrespeito pelo disposto no n.º 1 do artigo 2.º e nos artigos 6.º a 9.º-A.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - Às contra-ordenações previstas no presente diploma aplica-se subsidiariamente o disposto no Regime Geral das Contra-Ordenações e Coimas, aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591780": {
+   "fragment_id": "67572471",
+   "type": 11,
+   "heading": "Artigo 12.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissão ou actividade cujo exercício depende de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participação em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimentos cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a g) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "67591803": {
+   "fragment_id": "67572472",
+   "type": 11,
+   "heading": "Artigo 13.º — Levantamento dos autos, instrução e aplicação de sanções",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 13.º — Levantamento dos autos, instrução e aplicação de sanções\n\n1 - (Revogado).\n\n2 - A instrução do processo contraordenacional compete à ASAE, devendo as entidades que levantam o auto de notícia remeter o mesmo, para instrução do competente processo, àquela autoridade.\n\n3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591804": {
+   "fragment_id": "67572473",
+   "type": 11,
+   "heading": "Artigo 14.º — Destino das coimas",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 14.º — Destino das coimas\n\n1 - A afetação do produto das coimas faz-se da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 20 % para a entidade que procede à instrução;\n\nd) 10 % para a entidade que decide.\n\n2 - A afetação do produto das coimas quando aplicadas nas Regiões Autónomas constitui receita própria das mesmas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591788": {
+   "fragment_id": "67590388",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Aplicação às Regiões Autónomas",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 14.º-A — Aplicação às Regiões Autónomas\n\nOs atos e os procedimentos necessários à execução do presente diploma nas Regiões Autónomas competem às entidades das respetivas administrações regionais com atribuições e competências na matéria em causa.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591805": {
+   "fragment_id": "67572474",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma transitória",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 15.º — Norma transitória\n\nA comercialização dos produtos que não estejam conformes com as normas do presente diploma é autorizada até 1 de Agosto de 2005.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591790": {
+   "fragment_id": "67579475",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "67591791": {
+   "fragment_id": "67579478",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.\n\nPromulgado em 13 de Junho de 2003, na ilha das Flores, Açores.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 18 de Junho de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "67591806": {
+   "fragment_id": "67579476",
+   "type": 14,
+   "heading": "Anexo I — Vitaminas e minerais que podem ser utilizados no fabrico de suplementos alimentares",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "## Anexo I — Vitaminas e minerais que podem ser utilizados no fabrico de suplementos alimentares\n\n1 - Vitaminas\n\nVitamina A ((mi)g RE).\n\nVitamina D ((mi)g).\n\nVitamina E (mg (alfa)-TE).\n\nVitamina K ((mi)g).\n\nVitamina B1 (mg).\n\nVitamina B2 (mg).\n\nNiacina (mg NE).\n\nÁcido pantoténico (mg).\n\nVitamina B6 (mg).\n\nAcido fólico ((mi)g).\n\nVitamina B12 ((mi)g).\n\nBiotina ((mi)g).\n\nVitamina C (mg).\n\n2 - Minerais\n\nCálcio (mg).\n\nMagnésio (mg).\n\nFerro (mg).\n\nCobre ((mi)g).\n\nIodo ((mi)g).\n\nZinco (mg).\n\nManganês (mg).\n\nSódio (mg).\n\nPotássio (mg).\n\nSelénio ((mi)g).\n\nCrómio ((mi)g).\n\nMolibdénio ((mi)g).\n\nFluoreto (mg).\n\nCloreto (mg).\n\nFósforo (mg).\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "67591807": {
+   "fragment_id": "67579477",
+   "type": 14,
+   "heading": "Anexo II — Substâncias vitamínicas e minerais que podem ser utilizadas no fabrico de suplementos alimentares",
+   "in_force_from": "2015-06-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 296/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2007-640663), em vigor a partir de 2007-08-23"
+   ],
+   "markdown": "## Anexo II — Substâncias vitamínicas e minerais que podem ser utilizadas no fabrico de suplementos alimentares\n\nA - Vitaminas\n\n1 - Vitamina A\n\na) Retinol.\n\nb) Acetato de retinol.\n\nc) Palmitato de retinol.\n\nd) Beta-caroteno.\n\n2 - Vitamina D\n\na) Colecalciferol.\n\nb) Ergocalciferol.\n\n3 - Vitamina E\n\na) D-alfa-tocoferol.\n\nb) DL-alfa-tocoferol.\n\nc) Acetato de D-alfa-tocoferol.\n\nd) Acetato de DL-alfa-tocoferol.\n\ne) Succinato ácido de D-alfa-tocoferol.\n\n4 - Vitamina K\n\na) Filoquinona (fitomenadiona).\n\n5 - Vitamina B1\n\na) Cloridrato de tiamina.\n\nb) Mononitrato de tiamina.\n\n6 - Vitamina B2\n\na) Riboflavina.\n\nb) Riboflavina-5'-fosfato de sódio.\n\n7 - Niacina\n\na) Ácido nicotínico.\n\nb) Nicotinamida.\n\n8 - Ácido pantoténico\n\na) D-pantotenato de cálcio.\n\nb) D-pantotenato de sódio.\n\nc) Dexpantotenol.\n\n9 - Vitamina B6\n\na) Cloridrato de piridoxina.\n\nb) Piridoxina-5'-fosfato.\n\n10 - Ácido fólico\n\na) Ácido pteroilmonoglutâmico.\n\n11 - Vitamina B12\n\na) Cianocobalamina.\n\nb) L - metilfolato de cálcio.\n\n12 - Biotina\n\na) D-biotina.\n\n13 - Vitamina C\n\na) Ácido L-ascórbico.\n\nb) L-ascorbato de sódio.\n\nc) L-ascorbato de cálcio.\n\nd) L-ascorbato de potássio.\n\ne) 6-palmitato de L-ascorbilo.\n\nB - Minerais\n\nCarbonato de cálcio.\n\nCloreto de cálcio.\n\nSais de cálcio do ácido cítrico\n\nGluconato de cálcio.\n\nGlicerofosfato de cálcio.\n\nLactato de cálcio.\n\nSais de cálcio do ácido ortofosfórico.\n\nHidróxido de cálcio.\n\nÓxido de cálcio.\n\nAcetato de magnésio.\n\nCarbonato de magnésio.\n\nCloreto de magnésio.\n\nSais de magnésio do ácido cítrico.\n\nGluconato de magnésio.\n\nGlicerofosfato de magnésio.\n\nSais de magnésio do ácido ortofosfórico.\n\nLactato de magnésio.\n\nHidróxido de magnésio.\n\nÓxido de magnésio.\n\nSulfato de magnésio.\n\nCarbonato ferroso.\n\nCitrato ferroso.\n\nCitrato férrico de amónio.\n\nGluconato ferroso.\n\nFumarato ferroso.\n\nDifosfato férrico de sódio.\n\nLactato ferroso.\n\nSulfato ferroso.\n\nDifosfato férrico (pirofosfato férrico).\n\nSacarato férrico.\n\nFerro elementar (resultante da redução por carbonilo, electrólise ou hidrogénio).\n\nCarbonato cúprico.\n\nCitrato cúprico.\n\nGluconato cúprico.\n\nSulfato cúprico.\n\nComplexo de cobre-lisina.\n\nIodeto de sódio.\n\nIodato de sódio.\n\nIodeto de potássio.\n\nIodato de potássio.\n\nAcetato de zinco.\n\nCloreto de zinco.\n\nCitrato de zinco.\n\nGluconato de zinco.\n\nLactato de zinco.\n\nSulfato de crómio (III).\n\nMolibdato de amónio [molibdénio (VI)].\n\nMolibdato de sódio [molibdénio (VI)].\n\nFluoreto de potássio.\n\nFluoreto de sódio.\n\nÓxido de zinco.\n\nCarbonato de zinco.\n\nSulfato de zinco.\n\nCarbonato de manganês.\n\nCloreto de manganês.\n\nCitrato de manganês.\n\nGluconato de manganês.\n\nGlicerofosfato de manganês.\n\nSulfato de manganês.\n\nBicarbonato de sódio.\n\nCarbonato de sódio.\n\nCloreto de sódio.\n\nCitrato de sódio.\n\nGluconato de sódio.\n\nLactato de sódio.\n\nHidróxido de sódio.\n\nSais de sódio do ácido ortofosfórico.\n\nBicarbonato de potássio.\n\nCarbonato de potássio.\n\nCloreto de potássio.\n\nCitrato de potássio.\n\nGluconato de potássio.\n\nGlicerofosfato de potássio.\n\nLactato de potássio.\n\nHidróxido de potássio.\n\nSais de potássio do ácido ortofosfórico.\n\nSelenato de sódio.\n\nHidrogenosselenito de sódio.\n\nSelenito de sódio.\n\nCloreto de crómio (III)\n\nBisglicinato ferroso.\n\nCarbonato cúprico.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 296/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2007-640663), em vigor a partir de 2007-08-23"
+  },
+  "156398088": {
+   "fragment_id": "67572470",
+   "type": 11,
+   "heading": "Artigo 11.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 11.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) O fabrico ou a comercialização de suplementos alimentares que não cumpram o disposto nos artigos 4.º e 5.º;\n\nb) A comercialização de suplementos alimentares com desrespeito pelo disposto no n.º 1 do artigo 2.º e nos artigos 6.º a 9.º-A.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n3 - Às contraordenações económicas previstas no presente diploma aplica-se subsidiariamente o disposto no RJCE.\n\n> Alterado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  },
+  "156398089": {
+   "fragment_id": "67572473",
+   "type": 11,
+   "heading": "Artigo 14.º — Destino das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+   ],
+   "markdown": "###### Artigo 14.º — Destino das coimas\n\n1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n2 - A afetação do produto das coimas quando aplicadas nas Regiões Autónomas constitui receita própria das mesmas.\n\n> Alterado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 118/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745), em vigor a partir de 2015-06-28"
+  }
+ }
+}

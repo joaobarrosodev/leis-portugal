@@ -1,0 +1,120 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:282105:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1992-925224333",
+ "dre_path": "/dr/detalhe/portaria/812-1992-282105",
+ "source_lastmod": "2025-07-17",
+ "versions": [
+  {
+   "date": "1992-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "925224260"
+   ]
+  },
+  {
+   "date": "1993-06-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:256219:por",
+     "title": "Portaria n.º 563/93",
+     "published": "1993-06-01",
+     "dre_path": "/dr/detalhe/portaria/563-1993-256219"
+    }
+   ],
+   "changes": [
+    "Altera 4.º"
+   ],
+   "fragments": [
+    "925224260",
+    "925224262",
+    "925224263",
+    "925224264",
+    "925224272",
+    "925224266",
+    "925224267",
+    "925224268",
+    "925224261"
+   ]
+  }
+ ],
+ "fragments": {
+  "925224260": {
+   "fragment_id": "925224334",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 812/92\n\nde 18 de Agosto\n\nNo desenvolvimento dos princípios consagrados na Lei de Bases do Sistema Educativo e reconhecendo que são as escolas as entidades mais aptas a prover a satisfação das necessidades formativas das comunidades em que se inserem, o Decreto-Lei n.º 43/89, de 3 de Fevereiro, definiu para aquelas um regime de autonomia que rompeu com uma tradição de gestão centralizada.\n\nCom o Decreto-Lei n.º 172/91, de 10 de Maio, foi aprovado um modelo de direcção, administração e gestão dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário que reforçou a componente de gestão democrática das escolas, prevendo também a existência de um conselho de acompanhamento e avaliação do novo regime.\n\nPela presente portaria estabelecem-se as competências do referido conselho e a sua composição, suficientemente representativa para que a aferição da experiência pedagógica realizada seja comunitariamente adequada.\n\nAssim, ao abrigo do disposto no n.º 1 do artigo 48.º do Decreto-Lei n.º 172/91, de 10 de Maio:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:"
+  },
+  "925224262": {
+   "fragment_id": "925224336",
+   "type": 11,
+   "heading": "1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Objecto\n\nA presente portaria define a natureza, as competências e a composição do Conselho de Acompanhamento e Avaliação do regime de direcção, administração e gestão dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário, instituído pelo Decreto-Lei n.º 172/91, de 10 de Maio."
+  },
+  "925224263": {
+   "fragment_id": "925224337",
+   "type": 11,
+   "heading": "2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Natureza\n\nO Conselho de Acompanhamento e Avaliação, adiante designado por Conselho, é um órgão de natureza consultiva, funcionando junto do Ministério da Educação."
+  },
+  "925224264": {
+   "fragment_id": "925224338",
+   "type": 11,
+   "heading": "3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Competências\n\nCabe ao Conselho:\n\na) Acompanhar a implementação do novo regime de direcção, administração e gestão dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário;\n\nb) Proceder à avaliação semestral do mesmo regime, apresentando relatórios de avaliação que incluam as propostas, pareceres e recomendações considerados necessários;\n\nc) Apresentar, no termo dos três primeiros anos de vigência do referido regime de direcção, administração e gestão, o relatório final da sua avaliação;\n\nd) Definir o regulamento interno para o seu funcionamento, submetendo-o a despacho do Ministro da Educação no prazo de 60 dias;\n\ne) Solicitar, junto dos serviços centrais e regionais do Ministério da Educação e através dos membros do Governo competentes, as informações e os apoios que se revelem necessários para o desempenho das suas competências."
+  },
+  "925224272": {
+   "fragment_id": "925224339",
+   "type": 11,
+   "heading": "4.º — Composição",
+   "in_force_from": "1993-06-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 563/93 - Diário da República n.º 127/1993, Série I-B de 1993-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/563-1993-256219), em vigor a partir de 1993-06-06"
+   ],
+   "markdown": "###### 4.º — Composição\n\n1 - O Conselho é composto pelos seguintes elementos:\n\na) Um presidente, a designar pelo Ministro da Educação;\n\nb) Duas individualidades de reconhecido mérito científico e pedagógico;\n\nc) Um representante das associações de pais, designado pela Confederação Nacional das Associações de Pais;\n\nd) Um representante dos municípios, designado pela Associação Nacional de Municípios Portugueses;\n\ne) Dois representantes dos sindicatos de professores, designados pelas federações sindicais de professores;\n\nf) Um representante das associações sindicais representativas de professores dos vários graus e níveis de ensino, de âmbito nacional, não abrangidas por federações;\n\ng) Um representante da Direcção-Geral dos Ensinos Básico e Secundário;\n\nh) Um representante da Direcção-Geral de Administração Escolar;\n\ni) Um representante da Inspecção-Geral de Educação;\n\nj) Um representante das associações de estudantes, designado por estas.\n\n2 - Os membros do Conselho são nomeados por despacho do Ministro da Educação.\n\n> Alterado pelo/a [Portaria n.º 563/93 - Diário da República n.º 127/1993, Série I-B de 1993-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/563-1993-256219), em vigor a partir de 1993-06-06"
+  },
+  "925224266": {
+   "fragment_id": "925224340",
+   "type": 11,
+   "heading": "5.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Mandato\n\nO Conselho de Acompanhamento e Avaliação desenvolve as suas actividades até ao final do ano lectivo de 1994-1995."
+  },
+  "925224267": {
+   "fragment_id": "925224341",
+   "type": 11,
+   "heading": "6.º — Apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — Apoio logístico\n\nO apoio logístico ao Conselho para o desempenho das suas competências é assegurado pela Secretaria-Geral."
+  },
+  "925224268": {
+   "fragment_id": "925224342",
+   "type": 11,
+   "heading": "7.º — Início de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Início de funções\n\nO Conselho assume funções após a publicação do despacho previsto no n.º 2 do n.º 4.º da presente portaria.\n\nMinistério da Educação."
+  },
+  "925224261": {
+   "fragment_id": "925224335",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 31 de Julho de 1992.\n\nO Ministro da Educação, António Fernando Couto dos Santos."
+  }
+ }
+}

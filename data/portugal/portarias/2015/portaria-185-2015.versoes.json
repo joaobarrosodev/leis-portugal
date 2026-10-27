@@ -1,0 +1,733 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67541743:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-133911099",
+ "dre_path": "/dr/detalhe/portaria/185-2015-67541743",
+ "source_lastmod": "2026-07-21",
+ "versions": [
+  {
+   "date": "2015-06-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "133911205",
+    "133911206",
+    "133911207",
+    "133911208",
+    "133911209",
+    "133911210",
+    "133911211",
+    "133911212",
+    "133911213",
+    "133911214",
+    "133911215",
+    "133911216",
+    "133911217",
+    "133911218",
+    "133911219",
+    "133911220",
+    "133911221",
+    "133911222",
+    "133911223",
+    "133911224",
+    "133911225",
+    "133911226",
+    "133911227",
+    "133911228",
+    "133911229",
+    "133911230",
+    "133911231",
+    "133911232",
+    "133911233",
+    "133911234",
+    "133911235",
+    "133911236",
+    "133911237",
+    "133911238",
+    "133911239",
+    "133911240",
+    "133911241",
+    "133911242",
+    "133911243",
+    "133911244",
+    "133911245",
+    "133911246",
+    "133911247",
+    "133911249",
+    "133911250",
+    "133911251",
+    "133911252",
+    "133911253",
+    "133911254",
+    "133911255",
+    "133911256",
+    "133911257"
+   ]
+  },
+  {
+   "date": "2020-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:133879988:por",
+     "title": "Portaria n.º 116/2020",
+     "published": "2020-05-16",
+     "dre_path": "/dr/detalhe/portaria/116-2020-133879988"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "133911205",
+    "133911206",
+    "133911207",
+    "133911208",
+    "133911209",
+    "133911258",
+    "133911259",
+    "133911212",
+    "133911213",
+    "133911260",
+    "133911215",
+    "133911216",
+    "133911217",
+    "133911218",
+    "133911219",
+    "133911220",
+    "133911221",
+    "133911222",
+    "133911223",
+    "133911224",
+    "133911225",
+    "133911226",
+    "133911227",
+    "133911228",
+    "133911229",
+    "133911230",
+    "133911231",
+    "133911232",
+    "133911233",
+    "133911234",
+    "133911235",
+    "133911236",
+    "133911237",
+    "133911238",
+    "133911239",
+    "133911240",
+    "133911241",
+    "133911242",
+    "133911243",
+    "133911244",
+    "133911245",
+    "133911246",
+    "133911247",
+    "133911248",
+    "133911249",
+    "133911250",
+    "133911251",
+    "133911252",
+    "133911253",
+    "133911254",
+    "133911255",
+    "133911256",
+    "133911257"
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1149265698:por",
+     "title": "Portaria n.º 302/2026/1",
+     "published": "2026-07-20",
+     "dre_path": "/dr/detalhe/portaria/302-2026-1149265698"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "133911205",
+    "133911206",
+    "133911207",
+    "133911208",
+    "1149727075",
+    "133911258",
+    "133911259",
+    "133911212",
+    "133911213",
+    "1149727275",
+    "133911215",
+    "1149727475",
+    "1149727675",
+    "1149727875",
+    "133911219",
+    "133911220",
+    "133911221",
+    "133911222",
+    "133911223",
+    "133911224",
+    "133911225",
+    "133911226",
+    "133911227",
+    "133911228",
+    "133911229",
+    "133911230",
+    "133911231",
+    "133911232",
+    "133911233",
+    "1149728075",
+    "133911235",
+    "133911236",
+    "133911237",
+    "133911238",
+    "133911239",
+    "133911240",
+    "133911241",
+    "133911242",
+    "133911243",
+    "133911244",
+    "133911245",
+    "133911246",
+    "133911247",
+    "133911248",
+    "133911249",
+    "133911250",
+    "133911251",
+    "133911252",
+    "133911253",
+    "133911254",
+    "133911255",
+    "133911256",
+    "133911257"
+   ]
+  }
+ ],
+ "fragments": {
+  "133911205": {
+   "fragment_id": "133911100",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 185/2015\n\nde 23 de junho\n\nA Lei n.º 14/2014, de 18 de março, veio instituir o novo regime jurídico do ensino da condução e remete para portaria do membro do Governo responsável pelo setor dos transportes as matérias relativas ao ensino da condução e à atividade das escolas de condução.\n\nTorna-se necessário, assim, regulamentar as matérias que dizem respeito à formação teórica e prática do curso de formação de candidatos a condutor, em especial os termos do contrato de formação, os conteúdos, as horas de formação e a organização dos cursos para obtenção das diversas categorias de habilitação à condução, a utilização de ferramentas de ensino à distância, o número mínimo de horas e quilómetros percorridos na formação prática, a utilização de simuladores de condução, a condução acompanhada por tutor, o ensino da condução ministrado por empresas de transporte público em automóveis pesados de passageiros e a identificação dos veículos em contexto de aprendizagem.\n\nÉ, também, objeto de regulamentação pela presente portaria o ensino da condução para a obtenção de carta de condução portuguesa realizado noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu e a identificação dos veículos de instrução utilizados no ensino da condução ministrado em território nacional para a obtenção de carta de condução noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu.\n\nPor outro lado, são regulamentados os requisitos de acesso, exercício e extinção da atividade de empresa exploradora de escola de condução e, bem assim, a abertura e funcionamento de escolas de condução, incluindo as características das instalações e equipamento pedagógico de suporte à formação, os veículos afetos ao ensino da condução e respetivas condições de partilha, os elementos de registo da atividade de ensino da condução e a transferência de candidatos a condutor entre escolas de condução.\n\nFinalmente, são ainda fixadas pela presente portaria as taxas cobradas pelo IMT pelos atos relativos a licenciamento, certificação, vistoria, emissão de documentos e receção e tratamento de comunicações. A este respeito, destaca-se a eliminação de algumas taxas existentes, passando a ser gratuitos muitos dos atos pelos quais são atualmente cobradas taxas. Prevê-se, adicionalmente, uma redução das taxas no valor de 10 % nos pedidos ou comunicações efetuados através de plataforma eletrónica, conforme previsto no Decreto-Lei n.º 74/2014, de 13 de maio.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 3.º, no n.º 2 do artigo 5.º, nos n.os 3, 5, 6 e 9 do artigo 6.º, no n.º 10 do artigo 7.º, nos n.os 1 e 2 do artigo 9.º, na alínea d) do artigo 10.º, na alínea b) do n.º 1 do artigo 12.º, nos n.os 3 e 7 do artigo 14.º, nos n.os 4 e 5 do artigo 17.º, no n.º 1 do artigo 23.º, no n.º 5 do artigo 26.º, no n.º 1 do artigo 27.º, no n.º 2 do artigo 30.º, no n.º 2 do artigo 31.º, no n.º 1 do artigo 69.º e no artigo 73.º da Lei n.º 14/2014, de 18 de março, manda o Governo, pelo Ministro da Economia, o seguinte:"
+  },
+  "133911206": {
+   "fragment_id": "133911101",
+   "type": 1,
+   "heading": "Capítulo I — Disposição inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição inicial"
+  },
+  "133911207": {
+   "fragment_id": "133911102",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a Lei n.º 14/2014, de 18 de março, que aprova o regime jurídico do ensino da condução, nos aspetos relativos ao ensino da condução para habilitação às diversas categorias de carta de condução e ao acesso e exercício da atividade de exploração de escolas de condução."
+  },
+  "133911208": {
+   "fragment_id": "133911103",
+   "type": 1,
+   "heading": "Capítulo II — Ensino da condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ensino da condução"
+  },
+  "133911209": {
+   "fragment_id": "133911104",
+   "type": 11,
+   "heading": "Artigo 2.º — Contrato de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Contrato de formação\n\nO contrato de formação deve ser celebrado entre a empresa exploradora de escola de condução (EEEC) e o candidato a condutor antes de ter início a formação e deve conter, no mínimo, os seguintes elementos:\n\na) Identificação das partes;\n\nb) Identificação da escola de condução;\n\nc) Identificação da categoria de carta de condução a que o candidato a condutor se pretende habilitar e sobre a qual vai incidir o ensino da condução;\n\nd) Descrição da formação a ministrar, incluindo o número mínimo de lições de ensino teórico e número mínimo de horas e quilómetros a percorrer no ensino prático;\n\ne) Indicação de ensino teórico partilhado de veículos pesados, se aplicável;\n\nf) Descrição de todos os valores a cobrar pelo serviço de ensino da condução contratado, de acordo com a tabela de preços afixada;\n\ng) Identificação dos centros de exame onde a escola de condução pode propor candidatos a condutor a exame de condução;\n\nh) Menção expressa de que a escolha do centro de exames cabe ao candidato a condutor;\n\ni) Condições de transferência do candidato a condutor;\n\nj) Número de apólice do seguro de responsabilidade civil específico para a condução de veículos em situação de instrução."
+  },
+  "133911210": {
+   "fragment_id": "133911105",
+   "type": 11,
+   "heading": "Artigo 3.º — Módulo comum de segurança rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Módulo comum de segurança rodoviária\n\n1 - O ensino teórico de condução para os veículos das categorias A1, A2, A, B1 e B inicia-se com a frequência do módulo comum de segurança rodoviária, cujo objetivo é o desenvolvimento de comportamentos e atitudes adequados a uma condução segura e responsável.\n\n2 - O módulo comum de segurança rodoviária, de frequência presencial e sequencial obrigatória em escola de condução, tem a duração mínima de sete horas e é constituído pelos seguintes temas:\n\na) Perfil do condutor;\n\nb) Comportamento cívico e segurança rodoviária;\n\nc) A condução;\n\nd) Mobilidade sustentável.\n\n3 - O conteúdo do módulo comum de segurança rodoviária consta do Anexo I da presente portaria, da qual faz parte integrante.\n\n4 - A ministração do módulo comum de segurança rodoviária deve privilegiar a interação entre os candidatos a condutor.\n\n5 - A frequência do módulo comum de segurança rodoviária é obrigatória para a primeira habilitação das categorias referidas no n.º 1, ficando os candidatos a condutor dispensados da sua frequência na formação para a obtenção de outras habilitações."
+  },
+  "133911211": {
+   "fragment_id": "133911106",
+   "type": 11,
+   "heading": "Artigo 4.º — Módulo específico de segurança rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Módulo específico de segurança rodoviária\n\n1 - O ensino teórico para os veículos das categorias C1, C, D1 e D inicia-se com a frequência do módulo específico de segurança rodoviária, cujo objetivo é o desenvolvimento de comportamentos e atitudes para a condução segura e responsável de automóveis pesados.\n\n2 - O módulo específico de segurança rodoviária, de frequência presencial e sequencial obrigatória em escola de condução, tem a duração mínima de quatro horas e é constituído pelos seguintes temas:\n\na) Condução de automóveis pesados e a segurança rodoviária;\n\nb) Equipamentos de segurança.\n\n3 - O conteúdo do módulo específico de segurança rodoviária consta do Anexo II da presente portaria, da qual faz parte integrante.\n\n4 - A frequência do módulo específico de segurança rodoviária é obrigatória para a primeira habilitação de automóveis pesados."
+  },
+  "133911212": {
+   "fragment_id": "133911107",
+   "type": 11,
+   "heading": "Artigo 5.º — Módulo de teoria da condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Módulo de teoria da condução\n\n1 - Após a conclusão dos módulos de segurança rodoviária referidos nos artigos 3.º e 4.º, os candidatos a condutor devem frequentar o módulo de teoria da condução.\n\n2 - O conteúdo do módulo de teoria de condução é o previsto no Regulamento da Habilitação Legal para Conduzir (RHLC) para as provas de exame de cada categoria, com a seguinte duração mínima:\n\na) Na primeira habilitação, 16 horas para os conteúdos relativos às disposições comuns a todas categorias;\n\nb) Para a habilitação das categorias A1, A2 e A, quatro horas suplementares relativas às disposições específicas para estas categorias;\n\nc) Para a habilitação das categorias C1, C, D1 e D, 12 horas suplementares relativas às disposições comuns e específicas para estas categorias.\n\n3 - Os condutores habilitados às categorias C1 ou D1 ficam dispensados da frequência do módulo de teoria previsto na alínea c) do número anterior, quando pretendam habilitar-se às categorias C ou D, respetivamente.\n\n4 - Podem ser utilizadas ferramentas de ensino à distância no ensino teórico no módulo previsto no n.º 2, as quais devem ser certificadas pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).\n\n5 - As condições de certificação das plataformas de ensino à distância são definidas por deliberação do Conselho Diretivo do IMT, I. P., devendo esta informação estar disponível no sítio do IMT, I. P., na Internet.\n\n6 - A plataforma informática de ensino à distância deve registar a seguinte informação:\n\na) Identificação do candidato a condutor;\n\nb) Instrutor responsável;\n\nc) Data de início e de fim da formação;\n\nd) Horas de permanência na plataforma e progressão na formação;\n\ne) Avaliação formativa.\n\n7 - O número de horas de permanência dos candidatos a condutor na plataforma tem o limite máximo de quatro horas diárias.\n\n8 - A EEEC deve comunicar ao IMT, I. P., a plataforma de ensino à distância que pretende utilizar em cada escola de condução que explore e facultar o respetivo acesso para efeitos de consulta e auditoria dos dados referidos no n.º 6."
+  },
+  "133911213": {
+   "fragment_id": "133911108",
+   "type": 11,
+   "heading": "Artigo 6.º — Módulos complementares teórico-práticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Módulos complementares teórico-práticos\n\n1 - Para cada categoria de habilitação, o candidato a condutor deve frequentar os seguintes módulos complementares teórico-práticos:\n\na) Perceção do risco I;\n\nb) Perceção do risco II;\n\nc) Distração na condução;\n\nd) Eco-Condução.\n\n2 - Os módulos referidos nas alíneas a), c) e d) têm a duração de uma hora cada e o módulo referido na alínea b) tem a duração de duas horas.\n\n3 - Os módulos referidos no n.º 1 devem ser ministrados após o candidato a condutor ter frequentado, no mínimo, metade das horas de formação prática obrigatória.\n\n4 - O candidato a condutor só pode frequentar o módulo previsto na alínea b) do n.º 1 após a ministração do módulo referido na alínea a).\n\n5 - Os conteúdos dos módulos complementares são os constantes do Anexo III da presente portaria, da qual faz parte integrante, e são ministrados de acordo com as características do veículo a cuja categoria o candidato a condutor se pretende habilitar."
+  },
+  "133911214": {
+   "fragment_id": "133911109",
+   "type": 11,
+   "heading": "Artigo 7.º — Prática de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prática de condução\n\n1 - O ensino prático de condução só pode iniciar-se, para as categorias A1, A2, A, B1 e B, após a conclusão do módulo comum de segurança rodoviária, e para as categorias C1, C, D1 e D, após a conclusão do módulo específico de segurança rodoviária.\n\n2 - O conteúdo do módulo de prática de condução para as diversas categorias é o previsto no RHLC para as provas práticas do exame de condução.\n\n3 - Sempre que o candidato a condutor esteja dispensado da frequência do módulo comum de segurança rodoviária, o ensino prático pode ser iniciado em simultâneo com o ensino teórico.\n\n4 - No ensino prático de condução, o candidato a condutor deve cumprir, cumulativamente, o número mínimo de horas de condução e quilómetros percorridos, nos termos seguintes:\n\na) Categoria A1: 12 horas de condução e 120 quilómetros;\n\nb) Categoria A2: 12 horas de condução e 120 quilómetros;\n\nc) Categoria A: 12 horas de condução e 200 quilómetros;\n\nd) Categoria B1: 12 horas de condução e 120 quilómetros;\n\ne) Categoria B: 32 horas de condução e 500 quilómetros;\n\nf) Categoria C1: 12 horas de condução e 120 quilómetros;\n\ng) Categoria C: 16 horas de condução e 200 quilómetros;\n\nh) Categoria D1: 14 horas de condução e 180 quilómetros;\n\ni) Categoria D: 18 horas de condução e 240 quilómetros;\n\nj) Categorias C1E e D1E: 8 horas de condução e 100 quilómetros;\n\nk) Categorias CE e DE: 10 horas de condução e 120 quilómetros.\n\n5 - No ensino referido no número anterior deve ser observado:\n\na) Nas categorias A1, A2 e A:\n\ni) Uma hora de condução noturna, sempre que possível;\n\nii) Entre uma e seis horas de condução em que o instrutor é transportado pelo candidato a condutor no motociclo;\n\nb) Nas categorias B1, B, C1, C, D1, D, C1E, D1E, CE e DE, sempre que possível:\n\ni) Duas horas de condução noturna, para a categoria B;\n\nii) Uma hora de condução noturna para as restantes categorias.\n\n6 - É permitida a formação prática das categorias A1, A2 e A a dois candidatos em simultâneo desde que tenham cumprido cumulativamente metade das horas e quilómetros previstos no n.º 4.\n\n7 - O tempo e quilómetros percorridos na habilitação das categorias C e D é reduzido para metade no caso do candidato a condutor já ser habilitado à categoria C1 ou D1, respetivamente.\n\n8 - O registo do número de horas de condução e quilómetros percorridos é efetuado em equipamento próprio certificado pelo IMT, I. P., que registe a seguinte informação:\n\na) Identificação da escola de condução, candidato a condutor e instrutor;\n\nb) Dia, hora, duração da lição e quilómetros percorridos.\n\n9 - A informação recolhida nos termos do número anterior deve constar de aplicação informática que permita o acesso pelo IMT, I. P., pela via eletrónica, aos dados registados.\n\n10 - As condições de certificação dos dispositivos de monitorização e de acesso à aplicação informática de registo de dados relativos ao ensino da condução são definidas por deliberação do Conselho Diretivo do IMT, I. P., devendo esta informação estar disponível no sítio do IMT, I. P., na Internet.\n\n11 - Com exceção do ensino prático ministrado ao candidato a condutor no dia da realização da prova prática, o ensino prático inicia-se junto às instalações da escola de condução na qual o candidato a condutor se encontra inscrito.\n\n> Nota: [Artigo 3.º, Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988) A revogação da subalínea ii) da alínea a) do n.º 5 do artigo 7.º da Portaria n.º 185/2015, de 23 de junho, produz efeitos até 31 de dezembro de 2020, data em que fica repristinada a norma revogada."
+  },
+  "133911215": {
+   "fragment_id": "133911110",
+   "type": 11,
+   "heading": "Artigo 8.º — Simuladores de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Simuladores de condução\n\n1 - Podem ser utilizados simuladores de condução, sendo contabilizadas até ao máximo 25 % das horas de formação, considerando-se que cada hora de formação em simulador corresponde a 15 quilómetros percorridos, para efeitos da formação prática mínima obrigatória, prevista no n.º 4 do artigo anterior.\n\n2 - Os simuladores utilizados no ensino prático da condução devem observar as regras de circulação rodoviária em vigor e as suas características são aprovadas pelo IMT, I. P., nos termos a definir por deliberação do Conselho Diretivo do IMT, I. P., disponível no sítio do IMT, I. P., na Internet.\n\n3 - As horas de formação em simulador são supervisionadas por instrutor."
+  },
+  "133911216": {
+   "fragment_id": "133911111",
+   "type": 11,
+   "heading": "Artigo 9.º — Condução acompanhada por tutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condução acompanhada por tutor\n\n1 - A prática de condução acompanhada por tutor só pode iniciar-se após terem sido ministradas pela escola de condução ao candidato a condutor, pelo menos, 12 horas de formação prática e 250 quilómetros percorridos, em ambiente real de trânsito.\n\n2 - O diretor da escola de condução onde o candidato está inscrito deve emitir uma declaração comprovativa de que o tutor frequentou, com aproveitamento, o módulo comum de segurança rodoviária e de que o candidato a condutor já cumpriu o disposto no número anterior.\n\n3 - O veículo utilizado na condução acompanhada por tutor deve estar identificado com dístico de acordo com o modelo constante do Anexo IV da presente portaria, da qual faz parte integrante, e ter o travão de estacionamento ao alcance do tutor.\n\n4 - Durante a condução acompanhada, o tutor deve ser portador do documento referido no n.º 2."
+  },
+  "133911217": {
+   "fragment_id": "133911112",
+   "type": 11,
+   "heading": "Artigo 10.º — Planeamento, avaliação formativa e formação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Planeamento, avaliação formativa e formação complementar\n\n1 - O instrutor, em colaboração com o diretor de escola de condução, deve planificar cada módulo de formação teórico e prático, especificando os objetivos de formação, os recursos ou meios a utilizar, métodos e técnicas pedagógicas a adotar e critérios de avaliação formativa.\n\n2 - Em cada sessão de formação é obrigatório o registo informático da assiduidade dos candidatos a condutor e respetivos temas ministrados, o qual deve ser disponibilizado ao IMT, I. P., por via eletrónica.\n\n3 - A avaliação da formação é efetuada pelo diretor da escola de condução e registada na aplicação informática da escola de condução, com acesso pelo IMT, I. P., por via eletrónica.\n\n4 - O candidato a condutor só pode realizar as provas do exame de condução após ter concluído, com aproveitamento, a formação legalmente prevista.\n\n5 - Em caso de reprovação na prova teórica ou na prova prática, o candidato a condutor deve frequentar mais cinco horas do módulo de teoria da condução ou 25 % das horas e quilómetros percorridos, previstos no n.º 4 do artigo 7.º, respetivamente.\n\n6 - A formação prática tem um limite máximo de quatro horas diárias."
+  },
+  "133911218": {
+   "fragment_id": "133911113",
+   "type": 11,
+   "heading": "Artigo 11.º — Elementos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Elementos de registo\n\n1 - Os elementos de registo devem constar de aplicação informática da escola de condução, com acesso pelo IMT, I. P., por via eletrónica.\n\n2 - A escola de condução deve atualizar os registos no prazo máximo de dois dias úteis após a ocorrência dos elementos a registar."
+  },
+  "133911219": {
+   "fragment_id": "133911114",
+   "type": 11,
+   "heading": "Artigo 12.º — Transferência do candidato a condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transferência do candidato a condutor\n\n1 - O candidato a condutor que pretenda mudar de escola de condução durante a aprendizagem deve informar a escola de condução de destino do ensino que já frequentou.\n\n2 - O diretor da nova escola de condução deve, no prazo de dois dias, comunicar a transferência ao IMT, I. P., e ao diretor da escola de condução de origem.\n\n3 - O diretor da escola de condução de origem deve, no prazo de cinco dias após a comunicação referida no número anterior, remeter à nova escola de condução o atestado médico do candidato a condutor transferido e informação sobre o ensino da condução já ministrado.\n\n4 - Caso o diretor da escola de condução de origem não cumpra com as obrigações previstas no número anterior, o diretor da escola de condução de destino comunica o facto ao IMT, I. P.\n\n5 - Na situação de transferência de escola de condução só são contabilizadas as horas de formação ministradas há menos de um ano."
+  },
+  "133911220": {
+   "fragment_id": "133911115",
+   "type": 11,
+   "heading": "Artigo 13.º — Cancelamento da inscrição do candidato a condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cancelamento da inscrição do candidato a condutor\n\n1 - O cancelamento da inscrição do candidato a condutor pode ser determinado pelo diretor da escola de condução quando aquele:\n\na) Se comporte irregularmente, de forma a prejudicar a ministração do ensino;\n\nb) Se mantenha afastado do ensino durante mais de 30 dias, sem aviso prévio;\n\nc) Falte, sem aviso prévio, a cinco lições que tenham sido previamente agendadas.\n\n2 - O cancelamento da inscrição só tem eficácia após comunicação por escrito ao candidato a condutor.\n\n3 - O cancelamento da inscrição pode, igualmente, ser da iniciativa do candidato a condutor.\n\n4 - Aplica-se ao cancelamento da inscrição o disposto no n.º 5 do artigo anterior."
+  },
+  "133911221": {
+   "fragment_id": "133911116",
+   "type": 11,
+   "heading": "Artigo 14.º — Caducidade da inscrição do candidato a condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caducidade da inscrição do candidato a condutor\n\n1 - A inscrição do candidato a condutor numa escola de condução caduca:\n\na) Com a transferência de escola de condução;\n\nb) Com a aprovação do candidato a condutor em exame de condução;\n\nc) Com o encerramento da escola de condução;\n\nd) Com a revogação da licença de EEEC.\n\n2 - Aplica-se à caducidade da inscrição prevista nas alíneas a), c) e d) do número anterior o disposto no n.º 5 do artigo 12.º"
+  },
+  "133911222": {
+   "fragment_id": "133911117",
+   "type": 11,
+   "heading": "Artigo 15.º — Ensino teórico partilhado de veículos pesados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Ensino teórico partilhado de veículos pesados\n\n1 - Na situação de ensino teórico partilhado das categorias C1, C, D1 e D, a ficha de inscrição do candidato a condutor deve conter a menção das escolas envolvidas no ensino.\n\n2 - O registo da formação teórica é efetuado pela escola de condução onde o ensino é ministrado e comunicado à escola de condução com âmbito de ensino das categorias referidas no número anterior.\n\n3 - O equipamento pedagógico de suporte da escola de condução onde é ministrado o ensino teórico das categorias referidas no n.º 1 deve observar o disposto no Anexo V da presente portaria, da qual faz parte integrante."
+  },
+  "133911223": {
+   "fragment_id": "133911118",
+   "type": 11,
+   "heading": "Artigo 16.º — Ensino da condução noutro Estado-Membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Ensino da condução noutro Estado-Membro\n\n1 - A EEEC que ministre ensino da condução noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu para obtenção de carta de condução portuguesa ou averbamento de nova categoria deve comunicar ao IMT, I. P., o início da formação de cada candidato a condutor, observando o disposto no artigo 12.º do Decreto-Lei n.º 138/2012, de 5 de julho, alterado pelo Decreto-Lei n.º 37/2014, de 14 de março.\n\n2 - No ensino da condução referido no número anterior é aplicável o artigo 10.º da presente portaria.\n\n3 - As provas do exame de condução são requeridas diretamente no centro de exames competente, cujo responsável deve confirmar previamente, através da plataforma do IMT, I. P., os dados do candidato a condutor e a formação completa ministrada."
+  },
+  "133911224": {
+   "fragment_id": "133911119",
+   "type": 11,
+   "heading": "Artigo 17.º — Ensino da condução de empresas de transporte público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Ensino da condução de empresas de transporte público\n\n1 - As empresas de transporte público em automóveis pesados de passageiros que pretendam ministrar cursos de formação aos seus trabalhadores para habilitação à condução da categoria D devem, proceder à respetiva comunicação prévia ao IMT, I. P., no prazo máximo de 15 dias, antes do início da atividade.\n\n2 - A comunicação referida no número anterior deve ser acompanhada por:\n\na) Documento comprovativo de identificação completa e da qualidade de empresa de transporte público;\n\nb) Declaração onde ateste que assegura o cumprimento no disposto no n.º 3.\n\n3 - As empresas referidas no número anterior devem dispor, no mínimo, de um centro de formação, de um coordenador pedagógico certificado como diretor de escola de condução e de formadores certificados como instrutores de condução da categoria D.\n\n4 - As características do centro de formação são as constantes dos Anexos V e VI da presente portaria, da qual fazem parte integrante, com as necessárias adaptações.\n\n5 - São aplicáveis às empresas de transporte público em automóveis pesados de passageiros que ministram formação nos termos do n.º 1 os artigos 8.º, 19.º, 32.º e 33.º da Lei n.º 14/2014, de 18 de março, o artigo 12.º do Decreto-Lei n.º 138/2012, de 5 de julho, alterado pelo Decreto-Lei n.º 37/2014, de 14 de março, e o Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 138/2012, de 5 de julho, e alterado pelo Decreto-Lei n.º 37/2014, de 14 de março, com as necessárias adaptações."
+  },
+  "133911225": {
+   "fragment_id": "133911120",
+   "type": 1,
+   "heading": "Capítulo III — Escolas de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Escolas de condução"
+  },
+  "133911226": {
+   "fragment_id": "133911121",
+   "type": 11,
+   "heading": "Artigo 18.º — Licenciamento de Empresa Exploradora de Escola de Condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Licenciamento de Empresa Exploradora de Escola de Condução\n\n1 - A empresa, singular ou coletiva, que pretenda obter licença enquanto EEEC deve requerer o respetivo licenciamento.\n\n2 - A empresa deve preencher na aplicação informática disponibilizada pelo IMT, I. P., os dados relativos a:\n\na) Identificação completa da empresa;\n\nb) Identificação dos sócios, gerentes ou administradores, quando aplicável;\n\nc) Indicação dos veículos de ensino que pretende afetar à atividade, especificando os de afetação exclusiva a uma escola e os partilhados entre escolas da mesma EEEC;\n\nd) Localização do estacionamento junto à escola de condução que utilize os veículos, nos termos de deliberação do Conselho Diretivo do IMT, I. P.;\n\ne) Indicação de, no mínimo, uma escola de condução, que pretende explorar, que pode ser nova ou adquirida, incluindo designação, localização e âmbito de ensino;\n\nf) Identificação do diretor de escola de condução.\n\n3 - A empresa deve comprovar que:\n\na) Se encontra regularmente constituída e registada;\n\nb) Cumpre o requisito de idoneidade previsto no n.º 1 do artigo 15.º da Lei n.º 14/2014, de 18 de março;\n\nc) Cumpre o requisito relativo à situação tributária e contributiva regularizada previsto no artigo 18.º da Lei n.º 14/2014, de 18 de março.\n\n4 - A empresa deve ainda declarar que:\n\na) Não se encontra na situação de incompatibilidade prevista no artigo 16.º da Lei n.º 14/2014, de 18 de março;\n\nb) Assegura a capacidade técnica prevista no artigo 17.º da Lei n.º 14/2014, de 18 de março.\n\n5 - Quando a escola de condução indicada seja adquirida, a empresa requerente deve fazer prova do acordo prévio de transmissão com a EEEC que a explora, ainda que posteriormente tal acordo fique condicionado ao processo de transmissão, previsto no artigo 28.º da Lei n.º 14/2014, de 18 de março, e no artigo 28.º da presente portaria.\n\n6 - No acordo prévio referido no número anterior devem ser incluídos comprovativos de que a EEEC que explora a escola de condução a alienar tem a situação tributária e contributiva regularizada, nos termos do artigo 18.º da Lei n.º 14/2014, de 18 de março, sob pena de não ser aceite a escola de condução indicada.\n\n7 - Após verificação, pelo IMT, I. P., de que se encontram reunidos os requisitos para o licenciamento de EEEC ou, na falta de decisão expressa, no prazo de 60 dias a contar do pagamento da taxa devida, considera-se o pedido tacitamente deferido e é emitida a licença de EEEC.\n\n8 - A licença de EEEC contém os seguintes dados:\n\na) Identificação da EEEC;\n\nb) Morada ou sede da EEEC;\n\nc) Identificação das escolas de condução que a EEEC explora;\n\nd) Identificação dos veículos de ensino afetos à atividade.\n\n9 - A eficácia da licença de EEEC fica condicionada à abertura e funcionamento de escola de condução no prazo de 60 dias."
+  },
+  "133911227": {
+   "fragment_id": "133911122",
+   "type": 11,
+   "heading": "Artigo 19.º — Comunicação de abertura de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comunicação de abertura de escola de condução\n\n1 - Após o licenciamento, a nova EEEC deve comunicar ao IMT, I. P., a abertura da primeira escola de condução.\n\n2 - Nos casos em que a primeira escola de condução é nova, a EEEC deve requerer a realização de vistoria no prazo de 10 dias após a emissão da licença de EEEC nos termos do n.º 6 do artigo anterior e indicar ou confirmar os seguintes elementos:\n\na) Designação da escola de condução;\n\nb) Localização, incluindo morada e georreferenciação;\n\nc) Indicação de que a localização da escola de condução se situa num raio superior a 500 metros de escola de condução já existente;\n\nd) Indicação do âmbito de ensino;\n\ne) Identificação do diretor de escola de condução;\n\nf) Indicação dos veículos de afetação exclusiva à escola de condução e respetiva área de estacionamento junto à escola de condução;\n\ng) Identificação dos instrutores;\n\nh) Descrição das instalações, equipamento pedagógico, incluindo informação sobre a utilização de ferramentas de ensino à distância e simuladores, se aplicável;\n\ni) Descrição das condições de acessibilidade às instalações.\n\n3 - A comunicação referida no número anterior deve ser acompanhada da seguinte documentação:\n\na) Declaração em como cumpre os requisitos mínimos relativos ao equipamento e às instalações da escola de condução, nos termos dos Anexos V e VI da presente portaria;\n\nb) Planta das instalações, assinadas por técnico habilitado nos termos da Lei n.º 31/2009, de 3 de julho, na escala de 1:100, contendo a área de cada compartimento e a utilização pretendida para cada um deles;\n\nc) Termo de responsabilidade do técnico autor do projeto de arquitetura ou do técnico habilitado para subscrever projetos de arquitetura, atestando o cumprimento dos requisitos mínimos relativos às instalações da escola de condução;\n\nd) Licença de utilização para fins comerciais ou serviços, emitida pela câmara municipal da área de localização da escola de condução;\n\ne) Declaração comprovativa de que a localização da escola de condução cumpre o disposto na alínea c) do número anterior;\n\nf) Documento comprovativo da titularidade das instalações da escola de condução;\n\ng) Documento comprovativo da área de estacionamento e respetiva autorização de utilização.\n\n4 - O IMT, I. P., realiza a vistoria no prazo de 20 dias, contados da data do pagamento da respetiva taxa.\n\n5 - Quando a primeira escola de condução seja adquirida, a nova EEEC deve comunicar a transmissão, considerando-se esta comunicação como a comunicação de abertura prevista no artigo 22.º da Lei n.º 14/2014, de 18 de março."
+  },
+  "133911228": {
+   "fragment_id": "133911123",
+   "type": 11,
+   "heading": "Artigo 20.º — Abertura de outras escolas de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Abertura de outras escolas de condução\n\nÀ abertura de outras escolas de condução por EEEC aplica-se o disposto no artigo anterior."
+  },
+  "133911229": {
+   "fragment_id": "133911124",
+   "type": 11,
+   "heading": "Artigo 21.º — Horário de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Horário de funcionamento\n\nSem prejuízo de legislação especial, o horário de funcionamento de escola de condução não pode iniciar-se antes das sete horas nem concluir-se depois 24 horas e não é permitido o funcionamento da escola de condução aos domingos e feriados."
+  },
+  "133911230": {
+   "fragment_id": "133911125",
+   "type": 11,
+   "heading": "Artigo 22.º — Acesso à atividade de EEEC de empresas estabelecidas noutro Estado-membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Acesso à atividade de EEEC de empresas estabelecidas noutro Estado-membro\n\nAplica-se o disposto nos artigos 19.º e 21.º da presente portaria às empresas legalmente estabelecidas noutro Estado-membro da União Europeia ou do Espaço Económico Europeu para o ensino da condução, que pretendam abrir escolas de condução em território nacional."
+  },
+  "133911231": {
+   "fragment_id": "133911126",
+   "type": 11,
+   "heading": "Artigo 23.º — Ficha de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Ficha de escola de condução\n\n1 - Para cada escola de condução, o IMT, I. P., emite uma ficha a qual contém a seguinte informação:\n\na) Designação da escola de condução;\n\nb) Localização;\n\nc) Identificação da EEEC;\n\nd) Âmbito de ensino;\n\ne) Identificação do diretor da escola de condução e indicação das escolas de condução onde exerce funções;\n\nf) Identificação dos instrutores;\n\ng) Identificação dos veículos, especificando se são veículos exclusivos da escola de condução, se partilhados entre escolas de condução da mesma EEEC ou se são veículos pesados partilhados entre EEEC;\n\nh) Indicação da disponibilização de ferramentas de ensino à distancia e/ou simuladores.\n\n2 - A ficha de escola de condução deve ser afixada nas instalações da escola de condução em local visível de acesso ao público.\n\n3 - Sempre que ocorram factos que impliquem alterações à informação constante da ficha de escola de condução, é disponibilizada pelo IMT, I. P., uma ficha atualizada.\n\n4 - A EEEC deve manter atualizados os dados referidos no n.º 1."
+  },
+  "133911232": {
+   "fragment_id": "133911127",
+   "type": 11,
+   "heading": "Artigo 24.º — Instalações e equipamento pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Instalações e equipamento pedagógico\n\n1 - O equipamento pedagógico mínimo de suporte à formação é o constante do Anexo V da presente portaria.\n\n2 - Os requisitos mínimos das instalações da escola de condução são os constantes do Anexo VI da presente portaria.\n\n3 - As condições de acessibilidade, mobilidade e comodidade dos utilizadores da escola de condução são as constantes do Anexo VII da presente portaria, da qual faz parte integrante."
+  },
+  "133911233": {
+   "fragment_id": "133911128",
+   "type": 11,
+   "heading": "Artigo 25.º — Veículos de instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Veículos de instrução\n\n1 - A EEEC deve comunicar os veículos que pretende afetar à atividade e que se encontram transformados para o ensino e exames de condução.\n\n2 - A EEEC deve fazer prova do comprovativo da titularidade de cada veículo na comunicação referida no número anterior.\n\n3 - Os veículos de instrução devem estar equipados com dispositivo de monitorização das lições de prática de condução, certificado pelo IMT, I. P., que registe a informação constante no n.º 8 do artigo 7.º\n\n4 - Os veículos de instrução devem possuir distintivo identificador colocado à frente e à retaguarda ou no tejadilho do veículo onde conste a letra L de cor branca sobre fundo azul.\n\n5 - O modelo do distintivo de veículo de instrução referido no número anterior e as suas características constam do Anexo VIII da presente portaria, da qual faz parte integrante.\n\n6 - No ensino de motociclos o distintivo referido no n.º 4 é colocado à frente e à retaguarda e em colete retrorrefletor, a usar obrigatoriamente pelo candidato a condutor e pelo instrutor na situação prevista no ponto ii) da alínea a) do n.º 5 do artigo 7.º\n\n7 - Nos veículos de instrução só é permitida a publicidade relacionada com identificação da EEEC, das escolas de condução da EEEC e respetivos contactos.\n\n8 - Os n.os 4 a 7 aplicam-se aos veículos de instrução das empresas que pretendam ministrar o ensino da condução com vista à obtenção de carta de condução a emitir noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu."
+  },
+  "133911234": {
+   "fragment_id": "133911129",
+   "type": 11,
+   "heading": "Artigo 26.º — Partilha de veículos pesados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Partilha de veículos pesados\n\n1 - A EEEC que pretenda utilizar veículos pesados doutra EEEC indica o veículo a partilhar e a escola de condução onde será utilizado.\n\n2 - Na situação referida no número anterior, o veículo pesado a partilhar só pode ser utilizado após autorização expressa da EEEC proprietária do respetivo veículo."
+  },
+  "133911235": {
+   "fragment_id": "133911130",
+   "type": 11,
+   "heading": "Artigo 27.º — Alteração de de instalações ou mudança de localização de escola de condução e funcionamento temporário de escola de condução em instalações provisórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Alteração de de instalações ou mudança de localização de escola de condução e funcionamento temporário de escola de condução em instalações provisórias\n\n1 - A EEEC que pretenda alterar as instalações de uma escola de condução que explore ou mudar a sua localização deve proceder à respetiva comunicação prévia, observando-se disposto artigo 19.º, com as necessárias adaptações.\n\n2 - Nos casos em que a EEEC pretenda o funcionamento temporário de escola de condução em instalações provisórias deve requerer a respetiva autorização, podendo ser dispensada de alguns dos requisitos previstos no artigo 24.º, consoante o motivo apresentado.\n\n3 - O funcionamento temporário de escola de condução em instalações provisórias é concedido pelo prazo máximo de 6 meses."
+  },
+  "133911236": {
+   "fragment_id": "133911131",
+   "type": 11,
+   "heading": "Artigo 28.º — Transmissão de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Transmissão de escola de condução\n\n1 - A EEEC deve comunicar a aquisição da propriedade de escola de condução ao IMT, I. P., e indicar a seguinte informação relativa à escola de condução adquirida:\n\na) Designação da escola de condução;\n\nb) Veículos de ensino de afetação exclusiva;\n\nc) Diretor da escola de condução.\n\n2 - A EEEC referida no número anterior deve ainda confirmar:\n\na) A identificação da EEEC transmitente;\n\nb) A localização, âmbito de ensino e instrutores da escola de condução adquirida.\n\n3 - A EEEC deve juntar documento comprovativo da transmissão na comunicação referida no n.º 1"
+  },
+  "133911237": {
+   "fragment_id": "133911132",
+   "type": 11,
+   "heading": "Artigo 29.º — Transmissão de escola de condução por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Transmissão de escola de condução por morte\n\n1 - O cabeça de casal deve comunicar o óbito do titular da EEEC e juntar a seguinte documentação:\n\na) Certidão de óbito do titular da EEEC;\n\nb) Declaração em como reúne os requisitos para a titularidade de EEEC ou indicar gestor de negócios que reúna os referidos requisitos;\n\nc) Documento comprovativo da habilitação de herdeiros.\n\n2 - O cabeça de casal ou o gestor de negócios deve comunicar ao IMT, I. P., a partilha dos bens, no prazo de 20 dias após a sua realização, juntando documento comprovativo.\n\n3 - O IMT, I. P., notifica os herdeiros para, no prazo de 10 dias, acederem à aplicação informática do IMT, I. P., e registarem a escola de condução que lhes foi atribuída na partilha."
+  },
+  "133911238": {
+   "fragment_id": "133911133",
+   "type": 11,
+   "heading": "Artigo 30.º — Cessão de quotas de EEEC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Cessão de quotas de EEEC\n\n1 - A EEEC deve comunicar nos termos do n.º 7 do artigo 28.º da Lei n.º 14/2014, de 18 de março, a cessão de quotas.\n\n2 - A comunicação referida no número anterior deve ser acompanhada da informação e documentação referidas na alínea b) do n.º 2, na alínea b) do n.º 3 e na alínea a) do n.º 4 do artigo 18.º\n\n3 - À falta de comunicação da informação ou disponibilização da documentação referidas no número anterior, aplica-se a alínea c) do n.º 1 do artigo 32.º da Lei n.º 14/2014, de 18 de março."
+  },
+  "133911239": {
+   "fragment_id": "133911134",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "133911240": {
+   "fragment_id": "133911135",
+   "type": 11,
+   "heading": "Artigo 31.º — Desmaterialização dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Desmaterialização dos processos\n\n1 - Os pedidos de autorização e comunicações referidas na presente portaria são efetuados através do acesso à plataforma eletrónica de informação do IMT, I. P., nos termos previstos no n.º 1 do artigo 68.º da Lei n.º 14/2014, de 18 de março.\n\n2 - Cada EEEC tem uma área própria e reservada na aplicação informática referida no número anterior onde é depositada a informação do IMT, I. P., relativa aos processos em curso.\n\n3 - A EEEC considera-se notificada no dia seguinte ao da data em que o IMT, I. P., disponibiliza informação na aplicação informática.\n\n4 - Salvo condições excecionais, previamente notificadas às EEEC, só são aceites pedidos ou comunicações através da aplicação informática referida no n.º 1."
+  },
+  "133911241": {
+   "fragment_id": "133911136",
+   "type": 11,
+   "heading": "Artigo 32.º — Prazo de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Prazo de comunicação\n\nSempre que na Lei n.º 14/2014, de 18 de março, e na presente portaria não seja estabelecido prazo, as comunicações legalmente previstas para as EEEC devem ser efetuadas no prazo de 10 dias."
+  },
+  "133911242": {
+   "fragment_id": "133911137",
+   "type": 11,
+   "heading": "Artigo 33.º — Atualização de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Atualização de dados\n\nA EEEC deve manter atualizados os seus dados e comunicar todas as alterações que se verifiquem na licença de EEEC ou na ficha de escola de condução."
+  },
+  "133911243": {
+   "fragment_id": "133911138",
+   "type": 11,
+   "heading": "Artigo 34.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Taxas\n\n1 - As taxas cobradas pelos atos relativos a licenciamento, certificação, vistoria, emissão de documentos e receção e tratamento de comunicações previstas na Lei n.º 14/2014, de 18 de março, e na presente portaria constam no Anexo IX da presente portaria.\n\n2 - Nos termos do Decreto-Lei n.º 74/2014, de 13 de maio, os pedidos ou comunicações efetuados através de plataforma eletrónica beneficiam de uma redução das taxas no valor de 10 %."
+  },
+  "133911244": {
+   "fragment_id": "133911139",
+   "type": 11,
+   "heading": "Artigo 35.º — Adaptação das escolas de condução existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Adaptação das escolas de condução existentes\n\nAs escolas de condução dispõem de 180 dias, a contar da entrada em vigor da presente portaria, para informarem o IMT, I. P., da senha de acesso à aplicação informática de registo da formação."
+  },
+  "133911245": {
+   "fragment_id": "133911140",
+   "type": 11,
+   "heading": "Artigo 36.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Disposições transitórias\n\n1 - As empresas que comercializam simuladores e salas virtuais aprovados ao abrigo do Decreto-Lei n.º 86/98, de 3 de abril, dispõem de 30 dias a contar da entrada em vigor da presente portaria para adaptarem o produto aos novos requisitos e apresentarem especificação técnica ao IMT, I. P., que procede à atualização da autorização, sob pena desta caducar.\n\n2 - Enquanto não for disponibilizada a plataforma eletrónica de informação referida no artigo 31.º, os pedidos de autorização e as comunicações referidas na Lei n.º 14/2014, de 18 de março, e na presente portaria são entregues em suporte preferencialmente eletrónico.\n\n3 - Enquanto não estiver em funcionamento o sistema de monitorização da formação prática através de recolha de dados em dispositivo próprio, o diretor da escola de condução assegura que a informação constante no n.º 8 do artigo 7.º é disponibilizada no sistema informático da escola de condução, mediante informação fornecida pelo instrutor que ministrou a formação.\n\n4 - Enquanto não for publicado o regulamento de transformações de veículos de ensino da condução, as EEEC devem, por mera declaração, indicar ao IMT, I. P., que os veículos que pretendem afetar à atividade cumprem os requisitos previstos na lei.\n\n5 - Os distintivos de identificação de veículo de instrução em uso à data da entrada em vigor da presente portaria podem continuar a ser utilizados desde que a menção do concelho seja a da localização da escola de condução a que estão afetos.\n\n6 - As EEEC dispõem de 30 dias para dar cumprimento ao n.º 7 do artigo 25.º"
+  },
+  "133911246": {
+   "fragment_id": "133911141",
+   "type": 11,
+   "heading": "Artigo 37.º — Direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Direitos adquiridos\n\nSem prejuízo do disposto no artigo anterior, a presente portaria não se aplica aos processos pendentes e às situações constituídas."
+  },
+  "133911247": {
+   "fragment_id": "133911142",
+   "type": 11,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto nos números seguintes, o presente diploma entra em vigor 90 dias após a sua publicação.\n\n2 - As disposições da presente portaria relativas à abertura de novas escolas de condução, à alteração de instalações de escola de condução e à mudança de localização de escola de condução entram em vigor no dia seguinte ao da publicação da presente portaria.\n\n3 - A obrigatoriedade de dispositivo de monitorização para registo da formação prática entra em vigor após a publicação da deliberação do Conselho Diretivo do IMT, I. P., referida no n.º 10 do artigo 7.º"
+  },
+  "133911249": {
+   "fragment_id": "133911144",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere o n.º 3 do artigo 3.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere o n.º 3 do artigo 3.º]\n\nMódulo comum de segurança rodoviária para as categorias A1, A2, A, B1 e B\n\nA - Perfil do condutor - 2 horas\n\n1 - Personalidade, estilos de vida, influências sociais e normas entre pares;\n\n2 - Atitudes, valores, motivações e comportamentos na condução;\n\n3 - Fatores de risco inerentes ao condutor - efeitos e consequências na condução:\n\n3.1 - Visão, audição, idade e género;\n\n3.2 - Fadiga e sonolência;\n\n3.3 - Estados emocionais;\n\n3.4 - Condução sob a influência de bebidas alcoólicas, medicamentos e outras substâncias psicotrópicas.\n\nB - Comportamento cívico e segurança rodoviária - 2 horas\n\n1 - O comportamento a adotar pelo condutor face a:\n\n1.1 - Peões: crianças; idosos; invisuais; deficientes motores;\n\n1.2 - Veículos de duas rodas: imprevisibilidade da trajetória;\n\n1.3 - Automóveis pesados.\n\n2 - O comportamento cívico:\n\n2.1 - A importância da comunicação;\n\n2.2 - A partilha de um espaço e o respeito pelo outro.\n\n3 - A condução defensiva:\n\n3.1 - Conceito e atitude do condutor;\n\n3.2 - Caracterização de técnicas de condução e comportamentos face às situações: preparar-se; prever; antecipar; sinalizar; estabelecer contacto visual; manter as distâncias de segurança.\n\n4 - A segurança rodoviária:\n\n4.1 - O sistema de circulação rodoviário:\n\n4.1.1 - O homem, elemento principal do sistema;\n\n4.1.2 - O veículo;\n\n4.1.3 - A via pública;\n\n4.1.4 - As condições ambientais.\n\n4.2 - O acidente rodoviário:\n\n4.2.1 - A falha humana como fator dominante;\n\n4.2.2 - Tipos e causas dos acidentes;\n\n4.2.3 - Formas de evitar os acidentes.\n\nC - A condução - 2 horas\n\n1 - A tarefa da condução:\n\n1.1 - A recolha de informação: a exploração visual percetiva e estratégias a adotar;\n\n1.2 - A identificação;\n\n1.3 - A decisão: a importância da antecipação e da previsão e estratégias a adotar;\n\n1.4 - A avaliação do risco; o risco menor;\n\n1.5 - A ação: controlo do veículo e capacidades motoras.\n\n2 - Tempo de reação - principais fatores que o influenciam;\n\n3 - Distâncias de reação, de travagem e de paragem e principais fatores que as influenciam;\n\n4 - Distâncias de segurança em relação ao veículo da frente e da lateral: fatores a ter presentes na avaliação e formas de avaliar.\n\nD - Mobilidade sustentável - 1 hora\n\n1 - Definição/conceito;\n\n2 - O acesso ao espaço público;\n\n3 - Desenvolvimento sustentável nos aglomerados urbanos; 4. O transporte eficiente."
+  },
+  "133911250": {
+   "fragment_id": "133911145",
+   "type": 14,
+   "heading": "Anexo II — [a que se refere o n.º 3 do artigo 4.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — [a que se refere o n.º 3 do artigo 4.º]\n\nMódulo específico de segurança rodoviária para as categorias C1, C, D1 e D\n\nA - Condução de automóveis pesados e a segurança rodoviária - 2 horas\n\n1 - Influência das características físicas dos veículos na visibilidade do seu condutor e de outros utentes da via;\n\n2 - Influência da dimensão exterior de veículos em situações de alteração de trajetória:\n\n2.1 - O raio de viragem.\n\n3 - A influência da carga e da lotação dos veículos pesados na segurança rodoviária:\n\n3.1 - Limitações de peso e dimensões das mercadorias face às características do veículo.\n\n4 - O transporte da carga:\n\n4.1 - Centro de gravidade da carga: noções gerais;\n\n4.2 - Posicionamento, distribuição e fixação ideal da carga na caixa do veículo;\n\n4.3 - Estabilidade do veículo em circulação face à posição do centro de gravidade da carga.\n\n5 - Transporte dos passageiros e mercadorias:\n\n5.1 - Entrada e saída de passageiros em segurança;\n\n5.2 - Boas práticas do condutor, para uma condução em segurança no transporte de pessoas e mercadorias.\n\nB - Equipamentos de segurança - 2 horas\n\n1 - Cintos de segurança, sinal de pré-sinalização e colete retrorrefletor;\n\n2 - Ferramentas e sobressalentes necessários à reparação de pequenas avarias;\n\n3 - Calços, extintores e caixa de primeiros socorros;\n\n4 - Os componentes de segurança:\n\n4.1 - Travões;\n\n4.2 - Componente elétrica e eletrónica do veículo;\n\n4.3 - Sua utilização como elemento de segurança."
+  },
+  "133911251": {
+   "fragment_id": "133911146",
+   "type": 14,
+   "heading": "Anexo III — [a que se refere o n.º 5 do artigo 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — [a que se refere o n.º 5 do artigo 6.º]\n\nMódulos complementares teórico práticos\n\n1 - Perceção de risco I - 1 hora\n\n1.1 - Conceito e etapas da perceção de risco;\n\n1.2 - Principais riscos sazonais;\n\n1.3 - Técnicas para detetar perigos potenciais e tomar decisões de condução.\n\n2 - Perceção de risco II - 2 horas\n\n2.1 - Exercícios práticos para detetar, avaliar e agir em cenários de trânsito com riscos potenciais associados às seguintes situações de trânsito:\n\n2.1.1 - Vias com cruzamentos e entroncamentos;\n\n2.1.2 - Vias com veículos estacionados;\n\n2.1.3 - Vias com rotundas;\n\n2.1.4 - Vias com motociclistas e ciclistas;\n\n2.1.5 - Obras e/ou obstáculos na via;\n\n2.1.6 - Vias com peões/travessia de vias;\n\n2.1.7 - Vias com múltiplos sinais de trânsito;\n\n2.1.8 - Vias com pouca visibilidade: curvas, lombas, árvores;\n\n2.1.9 - Vias com a aproximação a escolas e hospitais, bem como outros locais com elevado aglomerado de veículos e peões;\n\n2.1.10 - Condução com condições atmosféricas adversas;\n\n2.1.11 - Ângulos mortos.\n\n2.2 - Exercícios práticos para selecionar e ajustar a velocidade perante cenários de trânsito com riscos que contenham riscos potenciais associados;\n\n2.3 - Exercícios práticos para selecionar e ajustar as distâncias de segurança, tendo em conta a velocidade de circulação e o tipo de ambiente rodoviário.\n\n3 - Distração na condução - 1 hora\n\n3.1 - Distrações mais frequentes na condução e riscos associados;\n\n3.2 - Estratégias e regras a adotar para reduzir os riscos:\n\n3.2.1 - Manter os olhos na via;\n\n3.2.2 - Manter as mãos no volante;\n\n3.2.3 - Manter a atenção na estrada;\n\n3.3 - Exercícios práticos para treino da atenção e concentração na condução.\n\n4 - Eco-Condução - 1 hora\n\n4.1 - Técnicas de condução e boas-práticas para reduzir o consumo de combustível e emissão de gases com efeito de estufa (GEE) e outros poluentes;\n\n4.2 - Exercícios práticos para treino das seguintes tarefas:\n\n4.2.1 - Aplicação de técnicas de condução mais equilibradas do ponto de vista energético;\n\n4.2.2 - Utilização da caixa de velocidade tendo em conta a necessidade de executar uma condução ecológica e económica;\n\n4.2.3 - Monitorização do consumo de combustível;\n\n4.2.4 - Planeamento de percursos e seleção do melhor itinerário e meio de transporte tendo em conta uma condução ecológica e económica."
+  },
+  "133911252": {
+   "fragment_id": "133911147",
+   "type": 14,
+   "heading": "Anexo IV — [a que se refere o n.º 3 do artigo 9.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — [a que se refere o n.º 3 do artigo 9.º]\n\nModelo do dístico de identificação do veículo em situação de condução acompanhada por tutor\n\n(ver documento original)\n\n1 - Características do dístico de identificação do veículo em situação de condução acompanhada por tutor:\n\n1.1 - Forma retangular;\n\n1.2 - Letras e imagem do veículo, na parte superior, de cor branca sob fundo azul;\n\n1.3 - A palavra TUTOR em letras azuis sob fundo amarelo;\n\n1.4 - Orla exterior de cor branca, com rebordo de cor cinza;\n\n1.5 - Letras maiúsculas;\n\n1.6 - As dimensões do dístico são as indicadas no modelo, cotadas em milímetros.\n\n2 - O dístico é colocado no interior do veículo, à frente no canto inferior direito e à retaguarda no canto inferior esquerdo."
+  },
+  "133911253": {
+   "fragment_id": "133911148",
+   "type": 14,
+   "heading": "Anexo V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V\n\n[a que se refere o n.º 3 do artigo 15.º, o n.º 4 do artigo 17.º, a alínea a) do n.º 3 do artigo 19.º e o n.º 1 do artigo 24.º]\n\nEquipamento pedagógico de suporte\n\n1 - O equipamento pedagógico mínimo para a ministração do ensino teórico das categorias A1, A2, A, B1 e B é o seguinte:\n\n1.1 - Meios audiovisuais ou multimédia onde constem situações reais de trânsito, contendo toda a sinalização do trânsito, sua colocação e utilização e casos concretos de aplicação de regras de trânsito e de segurança rodoviária;\n\n1.2 - Equipamento de projeção adequado;\n\n1.3 - Quadro para escrita ou dispositivo idêntico;\n\n1.4 - Extintor de incêndio, com vista à correta utilização pelo candidato a condutor;\n\n1.5 - Código da Estrada e legislação complementar, bem como legislação sobre o ensino da condução e exames de condução.\n\n2 - Para além do previsto no número anterior, o equipamento pedagógico mínimo para a ministração do ensino teórico das categorias C1,C, D1 e D é o seguinte:\n\n2.1 - Meios audiovisuais ou multimédia que representem os principais sistemas dos veículos, seus elementos constitutivos e respetivo funcionamento;\n\n2.2 - Quadro com a representação de um automóvel permitindo mostrar e explicar o seu funcionamento."
+  },
+  "133911254": {
+   "fragment_id": "133911149",
+   "type": 14,
+   "heading": "Anexo VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI\n\n[a que se refere o n.º 4 do artigo 17.º, a alínea a) do n.º 3 do artigo 19.º e o n.º 2 do artigo 24.º]\n\nInstalações da escola de condução\n\n1 - As instalações da escola de condução devem ser constituídas, no mínimo, pelos compartimentos a seguir indicados, com as seguintes áreas mínimas:\n\n1.1 - Área de apoio administrativo - 15 m2;\n\n1.2 - Área de acolhimento - 10 m2;\n\n1.3 - Gabinete do diretor - 10 m2;\n\n1.4 - Sala de formação - 30 m2;\n\n1.5 - Sala de simulador - 10 m2, se aplicável;\n\n1.6 - Área de estacionamento para veículos afetos em exclusivo à escola de condução.\n\n2 - A escola de condução deve possuir, no mínimo, duas instalações sanitárias, diferenciadas por sexos, sendo uma adaptada a cidadãos com mobilidade condicionada;\n\n3 - As salas de formação devem dispor de cadeiras com apoio ou mesas e cadeiras em número correspondente à respetiva lotação, cuja capacidade não deve exceder 4/5 da área total útil, com o limite máximo de 20 lugares;\n\n4 - Boa iluminação e ventilação."
+  },
+  "133911255": {
+   "fragment_id": "133911150",
+   "type": 14,
+   "heading": "Anexo VII — [a que se refere o n.º 3 do artigo 24.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — [a que se refere o n.º 3 do artigo 24.º]\n\nCondições de acessibilidade, mobilidade e comodidade\n\n1 - Acesso às instalações da escola de condução:\n\n1.1 - Rampas com a menor inclinação possível, devendo satisfazer uma das seguintes situações ou valores interpolados dos indicados:\n\n1.1.1 - Ter uma inclinação não superior a 6 %, vencer um desnível não superior a 0,6 m e ter uma projeção horizontal não superior a 10 m;\n\n1.1.2 - Ter uma inclinação não superior a 8 %, vencer um desnível não superior a 0,4 m e ter uma projeção horizontal não superior a 5 m.\n\n1.2 - Outros meios mecânicos de elevação que permitam o acesso a níveis diferentes, com autonomia;\n\n1.3 - Largura útil mínima da porta de acesso - 0,87 m, medida entre a face da folha da porta, quando aberta e o batente ou guarnição do lado oposto.\n\n2 - Áreas de circulação no interior da escola de condução:\n\n2.1 - Largura do corredor com o mínimo de 1,20 m podendo existir troços com largura não inferior a 0,90 m se o seu comprimento for inferior a 1,5 m;\n\n2.2 - Portas interiores com largura mínima de 0,77 m e altura mínima de 2 m;\n\n2.3 - Patamares com uma largura mínima de 1,20 m e que permitam a rotação de 360º ou a mudança de direção de 180º em T.\n\n3 - Instalações sanitárias:\n\n3.1 - Mínimo duas diferenciadas por sexo, sendo uma adaptada a pessoas com mobilidade condicionada que deve satisfazer as seguintes condições:\n\n3.1.1 - Espaço interior com dimensões não inferiores a 1,6 m de largura por 1,7 m de comprimentos;\n\n3.1.2 - Sanitas:\n\n3.1.2.1 - Altura do piso ao bordo superior do assento da sanita deve ser de 0,45 m, admitindo-se uma tolerância de +/- 0,01 m;\n\n3.1.2.2 - Devem existir zonas livres para o acesso e permanência de uma pessoa com cadeira de rodas, com as seguintes dimensões mínimas - de um dos lados maior ou igual a 1,20 m e na parte frontal maior ou igual a 0,75 m;\n\n3.1.2.3 - Devem existir junto à sanita barras de apoio lateral que se forem adjacentes à zona livre, devem ser rebatíveis na vertical. As barras devem ter um comprimento mínimo de 0,8 m, estar aplicadas a uma altura do piso compreendida entre os 0,7 m e os 0,75 m e com uma distância, em relação ao centro da sanita, compreendida entre os 0,35 m e os 0,4 m;\n\n3.1.3 - É recomendável a instalação de um lavatório acessível que não interfira com a área de transferência para a sanita;\n\n3.1.4 - No espaço que permanece livre após a instalação dos aparelhos sanitários deve ser possível inscrever uma zona de manobra para rotação de 180º;\n\n3.1.5 - O equipamento de alarme das instalações sanitárias acessíveis deve satisfazer as seguintes condições:\n\n3.1.5.1 - Estar ligado a um sistema de alerta para o exterior;\n\n3.1.5.2 - Disparar um alerta luminoso e sonoro;\n\n3.1.5.3 - Os terminais do equipamento de alarme devem estar indicados para utilização com luz e auto iluminados para serem vistos no escuro;\n\n3.1.5.4 - Os terminais do sistema de aviso podem ser botões de carregar, botões de puxar ou cabos de puxar e devem estar colocados a uma altura do piso, compreendida entre os 0,4 m e os 0,6 m, que permita ser alcançada por uma pessoa na posição de deitada no chão após uma queda ou por uma pessoa em cadeira de rodas.\n\n3.1.6 - Porta de acesso às instalações sanitárias deve ser de correr ou de batente, abrindo para fora."
+  },
+  "133911256": {
+   "fragment_id": "133911151",
+   "type": 14,
+   "heading": "Anexo VIII — [a que se refere o n.º 5 do artigo 25.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — [a que se refere o n.º 5 do artigo 25.º]\n\nModelo de distintivo identificador de veículo de instrução\n\n(ver documento original)\n\n1 - As dimensões do distintivo são as indicadas no modelo, obedecendo à escala 1:2, cotada em milímetros;\n\n2 - Nos ciclomotores e motociclos, o distintivo e a sua inscrição tem metade das dimensões referidas no número anterior."
+  },
+  "133911257": {
+   "fragment_id": "133911152",
+   "type": 14,
+   "heading": "Anexo IX — [a que se refere o n.º 1 do artigo 34.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — [a que se refere o n.º 1 do artigo 34.º]\n\nTabela de taxas\n\n(ver documento original)"
+  },
+  "133911258": {
+   "fragment_id": "133911105",
+   "type": 11,
+   "heading": "Artigo 3.º — Módulo comum de segurança rodoviária",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988), em vigor a partir de 2020-05-17"
+   ],
+   "markdown": "###### Artigo 3.º — Módulo comum de segurança rodoviária\n\n1 - O ensino teórico de condução para os veículos das categorias A1, A2, A, B1 e B inicia-se com a frequência do módulo comum de segurança rodoviária, cujo objetivo é o desenvolvimento de comportamentos e atitudes adequados a uma condução segura e responsável.\n\n2 - O módulo comum de segurança rodoviária, de frequência presencial e sequencial obrigatória, ainda que, através de plataforma informática de ensino à distância, nos termos a definir por deliberação do conselho diretivo do IMT, I. P., tem a duração mínima de sete horas e é constituído pelos seguintes temas:\n\na) Perfil do condutor;\n\nb) Comportamento cívico e segurança rodoviária;\n\nc) A condução;\n\nd) Mobilidade sustentável.\n\n3 - O conteúdo do módulo comum de segurança rodoviária consta do Anexo I da presente portaria, da qual faz parte integrante.\n\n4 - A ministração do módulo comum de segurança rodoviária deve privilegiar a interação entre os candidatos a condutor.\n\n5 - A frequência do módulo comum de segurança rodoviária é obrigatória para a primeira habilitação das categorias referidas no n.º 1, ficando os candidatos a condutor dispensados da sua frequência na formação para a obtenção de outras habilitações.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988), em vigor a partir de 2020-05-17"
+  },
+  "133911259": {
+   "fragment_id": "133911106",
+   "type": 11,
+   "heading": "Artigo 4.º — Módulo específico de segurança rodoviária",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988), em vigor a partir de 2020-05-17"
+   ],
+   "markdown": "###### Artigo 4.º — Módulo específico de segurança rodoviária\n\n1 - O ensino teórico para os veículos das categorias C1, C, D1 e D inicia-se com a frequência do módulo específico de segurança rodoviária, cujo objetivo é o desenvolvimento de comportamentos e atitudes para a condução segura e responsável de automóveis pesados.\n\n2 - O módulo específico de segurança rodoviária, de frequência presencial e sequencial obrigatória, ainda que, através de plataforma informática de ensino à distância, nos termos a definir por deliberação do conselho diretivo do IMT, I. P., tem a duração mínima de quatro horas e é constituído pelos seguintes temas:\n\na) Condução de automóveis pesados e a segurança rodoviária;\n\nb) Equipamentos de segurança.\n\n3 - O conteúdo do módulo específico de segurança rodoviária consta do Anexo II da presente portaria, da qual faz parte integrante.\n\n4 - A frequência do módulo específico de segurança rodoviária é obrigatória para a primeira habilitação de automóveis pesados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988), em vigor a partir de 2020-05-17"
+  },
+  "133911260": {
+   "fragment_id": "133911109",
+   "type": 11,
+   "heading": "Artigo 7.º — Prática de condução",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988), em vigor a partir de 2020-05-17"
+   ],
+   "markdown": "###### Artigo 7.º — Prática de condução\n\n1 - O ensino prático de condução só pode iniciar-se, para as categorias A1, A2, A, B1 e B, após a conclusão do módulo comum de segurança rodoviária, e para as categorias C1, C, D1 e D, após a conclusão do módulo específico de segurança rodoviária.\n\n2 - O conteúdo do módulo de prática de condução para as diversas categorias é o previsto no RHLC para as provas práticas do exame de condução.\n\n3 - Sempre que o candidato a condutor esteja dispensado da frequência do módulo comum de segurança rodoviária, o ensino prático pode ser iniciado em simultâneo com o ensino teórico.\n\n4 - No ensino prático de condução, o candidato a condutor deve cumprir, cumulativamente, o número mínimo de horas de condução e quilómetros percorridos, nos termos seguintes:\n\na) Categoria A1: 12 horas de condução e 120 quilómetros;\n\nb) Categoria A2: 12 horas de condução e 120 quilómetros;\n\nc) Categoria A: 12 horas de condução e 200 quilómetros;\n\nd) Categoria B1: 12 horas de condução e 120 quilómetros;\n\ne) Categoria B: 32 horas de condução e 500 quilómetros;\n\nf) Categoria C1: 12 horas de condução e 120 quilómetros;\n\ng) Categoria C: 16 horas de condução e 200 quilómetros;\n\nh) Categoria D1: 14 horas de condução e 180 quilómetros;\n\ni) Categoria D: 18 horas de condução e 240 quilómetros;\n\nj) Categorias C1E e D1E: 8 horas de condução e 100 quilómetros;\n\nk) Categorias CE e DE: 10 horas de condução e 120 quilómetros.\n\n5 - No ensino referido no número anterior deve ser observado:\n\na) Nas categorias A1, A2 e A:\n\ni) Uma hora de condução noturna, sempre que possível;\n\nii) [Revogada.]\n\nb) Nas categorias B1, B, C1, C, D1, D, C1E, D1E, CE e DE, sempre que possível:\n\ni) Duas horas de condução noturna, para a categoria B;\n\nii) Uma hora de condução noturna para as restantes categorias.\n\n6 - É permitida a formação prática das categorias A1, A2 e A a dois candidatos em simultâneo desde que tenham cumprido cumulativamente metade das horas e quilómetros previstos no n.º 4.\n\n7 - O tempo e quilómetros percorridos na habilitação das categorias C e D é reduzido para metade no caso do candidato a condutor já ser habilitado à categoria C1 ou D1, respetivamente.\n\n8 - O registo do número de horas de condução e quilómetros percorridos é efetuado em equipamento próprio certificado pelo IMT, I. P., que registe a seguinte informação:\n\na) Identificação da escola de condução, candidato a condutor e instrutor;\n\nb) Dia, hora, duração da lição e quilómetros percorridos.\n\n9 - A informação recolhida nos termos do número anterior deve constar de aplicação informática que permita o acesso pelo IMT, I. P., pela via eletrónica, aos dados registados.\n\n10 - As condições de certificação dos dispositivos de monitorização e de acesso à aplicação informática de registo de dados relativos ao ensino da condução são definidas por deliberação do Conselho Diretivo do IMT, I. P., devendo esta informação estar disponível no sítio do IMT, I. P., na Internet.\n\n11 - Com exceção do ensino prático ministrado ao candidato a condutor no dia da realização da prova prática, o ensino prático inicia-se junto às instalações da escola de condução na qual o candidato a condutor se encontra inscrito.\n\n> Nota: [Artigo 3.º, Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988) A revogação da subalínea ii) da alínea a) do n.º 5 do artigo 7.º da Portaria n.º 185/2015, de 23 de junho, produz efeitos até 31 de dezembro de 2020, data em que fica repristinada a norma revogada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988), em vigor a partir de 2020-05-17"
+  },
+  "133911248": {
+   "fragment_id": "133911143",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Economia, António de Magalhães Pires de Lima, em 4 de junho de 2015."
+  },
+  "1149727075": {
+   "fragment_id": "133911104",
+   "type": 11,
+   "heading": "Artigo 2.º — Contrato de formação",
+   "in_force_from": "2026-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+   ],
+   "markdown": "###### Artigo 2.º — Contrato de formação\n\nO contrato de formação deve ser celebrado entre a empresa exploradora de escola de condução (EEEC) e o candidato a condutor antes de ter início a formação e deve conter, no mínimo, os seguintes elementos:\n\na) Identificação das partes;\n\nb) Identificação da escola de condução;\n\nc) Identificação da categoria de carta de condução a que o candidato a condutor se pretende habilitar e sobre a qual vai incidir o ensino da condução;\n\nd) Descrição da formação a ministrar, incluindo o número mínimo de lições de ensino teórico e número mínimo de horas e quilómetros a percorrer no ensino prático;\n\ne) Indicação de ensino teórico partilhado de veículos pesados, se aplicável;\n\nf) Descrição de todos os valores a cobrar pelo serviço de ensino da condução contratado, de acordo com a tabela de preços afixada;\n\ng) Identificação dos centros de exame onde a escola de condução pode propor candidatos a condutor a exame de condução;\n\nh) Menção expressa de que a escolha do centro de exames cabe ao candidato a condutor;\n\ni) Condições de transferência do candidato a condutor;\n\nj) Número de apólice do seguro de responsabilidade civil específico para a condução de veículos em situação de instrução;\n\nk) Identificação do tutor, se aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+  },
+  "1149727275": {
+   "fragment_id": "133911109",
+   "type": 11,
+   "heading": "Artigo 7.º — Prática de condução",
+   "in_force_from": "2026-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988), em vigor a partir de 2020-05-17"
+   ],
+   "markdown": "###### Artigo 7.º — Prática de condução\n\n1 - O ensino prático de condução só pode iniciar-se, para as categorias A1, A2, A, B1 e B, após a conclusão do módulo comum de segurança rodoviária, e para as categorias C1, C, D1 e D, após a conclusão do módulo específico de segurança rodoviária.\n\n2 - O conteúdo do módulo de prática de condução para as diversas categorias é o previsto no RHLC para as provas práticas do exame de condução.\n\n3 - Sempre que o candidato a condutor esteja dispensado da frequência do módulo comum de segurança rodoviária, o ensino prático pode ser iniciado em simultâneo com o ensino teórico.\n\n4 - Com exceção do ensino prático da condução acompanhado por tutor, no ensino prático de condução, o candidato a condutor deve cumprir, cumulativamente, o número mínimo de horas de condução e quilómetros percorridos, nos termos seguintes:\n\na) Categoria A1: 12 horas de condução e 120 quilómetros;\n\nb) Categoria A2: 12 horas de condução e 120 quilómetros;\n\nc) Categoria A: 12 horas de condução e 200 quilómetros;\n\nd) Categoria B1: 12 horas de condução e 120 quilómetros;\n\ne) Categoria B: 32 horas de condução e 500 quilómetros;\n\nf) Categoria C1: 12 horas de condução e 120 quilómetros;\n\ng) Categoria C: 16 horas de condução e 200 quilómetros;\n\nh) Categoria D1: 14 horas de condução e 180 quilómetros;\n\ni) Categoria D: 18 horas de condução e 240 quilómetros;\n\nj) Categorias C1E e D1E: 8 horas de condução e 100 quilómetros;\n\nk) Categorias CE e DE: 10 horas de condução e 120 quilómetros.\n\n5 - No ensino referido no número anterior deve ser observado:\n\na) Nas categorias A1, A2 e A:\n\ni) Uma hora de condução noturna, sempre que possível;\n\nii) [Revogada.]\n\nb) Nas categorias B1, B, C1, C, D1, D, C1E, D1E, CE e DE, sempre que possível:\n\ni) Duas horas de condução noturna, para a categoria B;\n\nii) Uma hora de condução noturna para as restantes categorias.\n\n6 - É permitida a formação prática das categorias A1, A2 e A a dois candidatos em simultâneo desde que tenham cumprido cumulativamente metade das horas e quilómetros previstos no n.º 4.\n\n7 - O tempo e quilómetros percorridos na habilitação das categorias C e D é reduzido para metade no caso do candidato a condutor já ser habilitado à categoria C1 ou D1, respetivamente.\n\n8 - O registo do número de horas de condução e quilómetros percorridos é efetuado em equipamento próprio certificado pelo IMT, I. P., que registe a seguinte informação:\n\na) Identificação da escola de condução, candidato a condutor e instrutor;\n\nb) Dia, hora, duração da lição e quilómetros percorridos.\n\n9 - A informação recolhida nos termos do número anterior deve constar de aplicação informática que permita o acesso pelo IMT, I. P., pela via eletrónica, aos dados registados.\n\n10 - As condições de certificação dos dispositivos de monitorização e de acesso à aplicação informática de registo de dados relativos ao ensino da condução são definidas por deliberação do Conselho Diretivo do IMT, I. P., devendo esta informação estar disponível no sítio do IMT, I. P., na Internet.\n\n11 - Com exceção do ensino prático ministrado ao candidato a condutor no dia da realização da prova prática, o ensino prático inicia-se junto às instalações da escola de condução na qual o candidato a condutor se encontra inscrito.\n\n12 - O ensino prático de condução acompanhado por tutor não está sujeito ao número mínimo de horas de formação e quilómetros percorridos obrigatórios.\n\n> Nota: [Artigo 3.º, Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988) A revogação da subalínea ii) da alínea a) do n.º 5 do artigo 7.º da Portaria n.º 185/2015, de 23 de junho, produz efeitos até 31 de dezembro de 2020, data em que fica repristinada a norma revogada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 116/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/portaria/116-2020-133879988), em vigor a partir de 2020-05-17"
+  },
+  "1149727475": {
+   "fragment_id": "133911111",
+   "type": 11,
+   "heading": "Artigo 9.º — Condução acompanhada por tutor",
+   "in_force_from": "2026-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+   ],
+   "markdown": "###### Artigo 9.º — Condução acompanhada por tutor\n\n1 - A prática de condução acompanhada por tutor só pode iniciar-se após a conclusão do módulo comum de segurança rodoviária.\n\n2 - Nas situações em que o candidato a condutor realize teste de aferição, para verificação das suas competências práticas, antes da propositura a prova prática do exame de condução, devem ser ministradas as horas de formação aferidas no teste de competências práticas realizado pela escola de condução onde o candidato está inscrito.\n\n3 - O veículo utilizado na condução acompanhada por tutor deve estar identificado com dístico de acordo com o modelo constante do Anexo IV da presente portaria, da qual faz parte integrante, e ter o travão de estacionamento ao alcance do tutor.\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+  },
+  "1149727675": {
+   "fragment_id": "133911112",
+   "type": 11,
+   "heading": "Artigo 10.º — Planeamento, avaliação formativa e formação complementar",
+   "in_force_from": "2026-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+   ],
+   "markdown": "###### Artigo 10.º — Planeamento, avaliação formativa e formação complementar\n\n1 - O instrutor, em colaboração com o diretor de escola de condução, deve planificar cada módulo de formação teórico e prático, especificando os objetivos de formação, os recursos ou meios a utilizar, métodos e técnicas pedagógicas a adotar e critérios de avaliação formativa.\n\n2 - Em cada sessão de formação é obrigatório o registo informático da assiduidade dos candidatos a condutor e respetivos temas ministrados, o qual deve ser disponibilizado ao IMT, I. P., por via eletrónica.\n\n3 - A avaliação da formação é efetuada pelo diretor da escola de condução e registada na aplicação informática da escola de condução, com acesso pelo IMT, I. P., por via eletrónica.\n\n4 - O candidato a condutor só pode realizar as provas do exame de condução após ter concluído, com aproveitamento, a formação legalmente prevista, exceto nas situações de condução acompanhada por tutor.\n\n5 - Em caso de reprovação na prova teórica ou na prova prática, o candidato a condutor deve frequentar mais cinco horas do módulo de teoria da condução ou 25 % das horas e quilómetros percorridos, previstos no n.º 4 do artigo 7.º, respetivamente.\n\n6 - A formação prática tem um limite máximo de quatro horas diárias.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+  },
+  "1149727875": {
+   "fragment_id": "133911113",
+   "type": 11,
+   "heading": "Artigo 11.º — Elementos de registo",
+   "in_force_from": "2026-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+   ],
+   "markdown": "###### Artigo 11.º — Elementos de registo\n\n1 - Com exceção do ensino prático acompanhado por tutor, os elementos de registo devem constar de aplicação informática da escola de condução, com acesso pelo IMT, I. P., por via eletrónica.\n\n2 - A escola de condução deve atualizar os registos no prazo máximo de dois dias úteis após a ocorrência dos elementos a registar.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+  },
+  "1149728075": {
+   "fragment_id": "133911129",
+   "type": 11,
+   "heading": "Artigo 26.º — Partilha de veículos",
+   "in_force_from": "2026-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+   ],
+   "markdown": "###### Artigo 26.º — Partilha de veículos\n\n1 - A EEEC que pretenda utilizar veículos pesados doutra EEEC indica o veículo a partilhar e a escola de condução onde será utilizado.\n\n2 - Na situação referida no número anterior, o veículo pesado a partilhar só pode ser utilizado após autorização expressa da EEEC proprietária do respetivo veículo.\n\n3 - A EEEC que pretenda partilhar veículos de instrução entre as suas escolas de condução deve identificar os veículos a partilhar por cada escola de condução.\n\n4 - Enquanto não for disponibilizada a plataforma eletrónica de informação prevista no artigo 31.º, é emitida pelo IMT, I. P., declaração que ateste quais os veículos partilhados nos termos dos números anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2026/1 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/302-2026-1149265698), em vigor a partir de 2026-07-21."
+  }
+ }
+}

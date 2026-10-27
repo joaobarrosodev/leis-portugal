@@ -1,0 +1,468 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:459419:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-1017674240",
+ "dre_path": "/dr/detalhe/lei/23-1998-459419",
+ "source_lastmod": "2026-05-07",
+ "versions": [
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:453975:por",
+     "title": "Lei n.º 59/2008",
+     "published": "2008-09-11",
+     "dre_path": "/dr/detalhe/lei/59-2008-453975"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "1017865375",
+    "1116307875",
+    "1017865775",
+    "1017865975",
+    "1017866175",
+    "1017866375",
+    "1017866575",
+    "1017866775",
+    "1017866975",
+    "1017867175",
+    "1017867375",
+    "1017867575",
+    "1017867775",
+    "1017867975",
+    "1017868175",
+    "1017868375",
+    "1017868575",
+    "1017868775",
+    "1017868975",
+    "1017869175",
+    "1017869375"
+   ]
+  },
+  {
+   "date": "2014-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25676932:por",
+     "title": "Lei n.º 35/2014",
+     "published": "2014-06-20",
+     "dre_path": "/dr/detalhe/lei/35-2014-25676932"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1117508975",
+    "1117509175",
+    "1117509275",
+    "1117509375",
+    "1117509475",
+    "1117509575",
+    "1117509675",
+    "1117509775",
+    "1117509875",
+    "1117509975",
+    "1117510075",
+    "1117510175",
+    "1117510275",
+    "1117510375",
+    "1117510475",
+    "1117510575",
+    "1117510675",
+    "1117510775",
+    "1117510875",
+    "1117510975",
+    "1117511075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1017865375": {
+   "fragment_id": "1017865275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Estabelece o regime de negociação colectiva e a participação dos trabalhadores da Administração Pública em regime de direito público\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 165.º, alínea b), e 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "1116307875": {
+   "fragment_id": "1017865475",
+   "type": 11,
+   "heading": "Artigo 1 — Objecto",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01."
+   ],
+   "markdown": "###### Artigo 1 — Objecto\n\n1 - O presente diploma regula as condições do exercício dos direitos de negociação colectiva e de participação dos trabalhadores da Administração Pública em regime de direito público.\n\n2 - Os direitos de negociação colectiva e de participação têm por objecto, no âmbito do presente diploma, a fixação ou alteração do estatuto dos trabalhadores da Administração Pública, bem como o acompanhamento da sua execução.\n\n3 - (Revogado;)\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01."
+  },
+  "1017865775": {
+   "fragment_id": "1017865675",
+   "type": 11,
+   "heading": "Artigo 2.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Legitimidade\n\nOs direitos de negociação colectiva e de participação, no que respeita às organizações sindicais, apenas podem ser exercidos através daquelas que, nos termos dos respectivos estatutos, representem interesses de trabalhadores da Administração Pública e se encontrem devidamente registadas."
+  },
+  "1017865975": {
+   "fragment_id": "1017865875",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios\n\n1 - A Administração e as associações sindicais respeitam os princípios da boa fé, nomeadamente respondendo com a máxima brevidade quer aos pedidos de reunião solicitados, quer às propostas mútuas, fazendo-se representar nas reuniões destinadas à negociação ou participação e à prevenção ou resolução de conflitos.\n\n2 - As consultas dos representantes da Administração e dos trabalhadores, através das suas organizações sindicais, não suspendem ou interrompem a marcha do procedimento de negociação ou participação, salvo se as partes nisso expressamente acordarem.\n\n3 - Cada uma das partes pode solicitar à outra as informações consideradas necessárias ao exercício adequado dos direitos de negociação colectiva e de participação, designadamente os estudos e elementos de ordem técnica ou estatística, não classificados, que sejam tidos como indispensáveis à fundamentação das propostas e das contrapropostas."
+  },
+  "1017866175": {
+   "fragment_id": "1017866075",
+   "type": 11,
+   "heading": "Artigo 4.º — Cláusula de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cláusula de salvaguarda\n\nA Administração e as associações sindicais devem assegurar a apreciação, discussão e resolução das questões colocadas numa perspectiva global e comum a todos os serviços e organismos e aos trabalhadores da Administração Pública no seu conjunto, respeitando o princípio da prossecução do interesse público e visando a dignificação da função pública e a melhoria das condições sócio-económicas dos mesmos trabalhadores."
+  },
+  "1017866375": {
+   "fragment_id": "1017866275",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito de negociação colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito de negociação colectiva\n\n1 - É garantido aos trabalhadores da Administração Pública em regime de direito público o direito de negociação colectiva do seu estatuto.\n\n2 - Considera-se negociação colectiva a negociação efectuada entre as associações sindicais e a Administração das matérias relativas àquele estatuto, com vista à obtenção de um acordo.\n\n3 - O acordo, total ou parcial, que for obtido consta de documento autónomo subscrito pelas partes e obriga o Governo a adoptar as medidas legislativas ou administrativas adequadas ao seu integral e exacto cumprimento, no prazo máximo de 180 dias, sem prejuízo de outros prazos que sejam acordados, salvo nas matérias que careçam de autorização legislativa, caso em que os respectivos pedidos devem ser submetidos à Assembleia da República no prazo máximo de 45 dias."
+  },
+  "1017866575": {
+   "fragment_id": "1017866475",
+   "type": 11,
+   "heading": "Artigo 6.º — Objecto de negociação colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objecto de negociação colectiva\n\nSão objecto de negociação colectiva as matérias relativas à fixação ou alteração:\n\na) Dos vencimentos e das demais prestações de carácter remuneratório;\n\nb) Das pensões de aposentação ou de reforma;\n\nc) Das prestações da acção social e da acção social complementar;\n\nd) Da constituição, modificação e extinção da relação de emprego;\n\ne) Das carreiras de regime geral e especial e das integradas em corpos especiais, incluindo as respectivas escalas salariais;\n\nf) Da duração e horário de trabalho;\n\ng) Do regime das férias, faltas e licenças;\n\nh) Do regime dos direitos de exercício colectivo;\n\ni) Das condições de higiene, saúde e segurança no trabalho;\n\nj) Da formação e aperfeiçoamento profissional;\n\nk) Do estatuto disciplinar;\n\nl) Do regime de mobilidade;\n\nm) Do regime de recrutamento e selecção;\n\nn) Do regime de classificação de serviço."
+  },
+  "1017866775": {
+   "fragment_id": "1017866675",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimento de negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimento de negociação\n\n1 - A negociação geral anual deverá iniciar-se a partir do dia 1 de Setembro, com a apresentação, por uma das partes, de proposta fundamentada sobre qualquer das matérias previstas no artigo anterior, procedendo-se seguidamente à calendarização das negociações, de forma que estas terminem tendencialmente antes da votação final global da proposta do Orçamento, nos termos constitucionais, na Assembleia da República.\n\n2 - As matérias sem incidência orçamental constantes do artigo anterior podem ser objecto de negociação a qualquer momento, desde que as partes contratantes nisso acordem, e desde que não tenham sido discutidas na negociação geral anual precedente.\n\n3 - As partes devem fundamentar as suas propostas e contrapropostas, impendendo sobre elas o dever de tentar atingir, em prazo adequado, um acordo.\n\n4 - Das reuniões havidas são elaboradas actas, subscritas pelas partes, donde constará um resumo do que tiver ocorrido, designadamente os pontos em que não se tenha obtido acordo.\n\n5 - As negociações sectoriais iniciam-se em qualquer altura do ano e têm a duração que for acordada entre as partes, aplicando-se-lhes os princípios constantes dos números anteriores."
+  },
+  "1017866975": {
+   "fragment_id": "1017866875",
+   "type": 11,
+   "heading": "Artigo 8.º — Convocação de reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Convocação de reuniões\n\nA convocação de reuniões dentro do procedimento negocial tem de ser feita sempre com a antecedência mínima de cinco dias úteis, salvo acordo das partes."
+  },
+  "1017867175": {
+   "fragment_id": "1017867075",
+   "type": 11,
+   "heading": "Artigo 9.º — Resolução de conflitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Resolução de conflitos\n\n1 - Terminado o período da negociação sem que tenha havido acordo poderá abrir-se uma negociação suplementar, a pedido das associações sindicais, para resolução dos conflitos.\n\n2 - O pedido para negociação suplementar será apresentado no final da última reunião negocial, ou por escrito, no prazo de cinco dias úteis, contado a partir do encerramento de qualquer dos procedimentos de negociação previstos no artigo 7.º, devendo dele ser dado conhecimento a todas as partes envolvidas no processo.\n\n3 - A negociação suplementar, desde que requerida nos termos do número anterior, é obrigatória, não podendo a sua duração exceder 15 dias úteis, consiste na tentativa de obtenção de um acordo e tem como consequência que não pode ser encerrado qualquer procedimento negocial em curso sobre as mesmas matérias com qualquer outra entidade.\n\n4 - Na negociação suplementar a parte governamental será constituída por membro ou membros do Governo, sendo obrigatoriamente presidida pelo que for responsável pela Administração Pública e, no caso das negociações sectoriais, pelo que for responsável pelo sector.\n\n5 - Finda a negociação suplementar sem obtenção de acordo, o Governo toma a decisão que entender adequada, sem prejuízo do disposto no n.º 3 do artigo 5.º"
+  },
+  "1017867375": {
+   "fragment_id": "1017867275",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito de participação\n\n1 - É garantido aos trabalhadores da Administração Pública o direito de participarem, através das suas associações sindicais:\n\na) Na elaboração de programas de emprego;\n\nb) Na fiscalização e implementação das medidas relativas às condições de higiene, saúde e segurança no trabalho;\n\nc) Na gestão das instituições de segurança social dos trabalhadores da função pública e de outras organizações que visem satisfazer o interesse dos trabalhadores, designadamente as obras e serviços sociais, a ADSE e a Caixa Geral de Aposentações;\n\nd) Nas alterações ao Estatuto da Aposentação;\n\ne) Na definição da política de formação e aperfeiçoamento profissional da Administração Pública;\n\nf) No controlo de execução dos planos económico-sociais;\n\ng) No domínio da melhoria da qualidade dos serviços públicos;\n\nh) Nas auditorias de gestão efectuadas aos serviços públicos;\n\ni) Na elaboração dos pedidos de autorização legislativa sobre matéria sujeita à negociação ou participação;\n\nj) Na elaboração da regulamentação interna relativa às condições específicas de trabalho de cada serviço;\n\nl) Na definição do regime de acidentes de serviço e doenças profissionais;\n\nm) Na elaboração da legislação respeitante ao regime geral ou especial da função pública que não for objecto de negociação.\n\n2 - A participação na elaboração de programas de emprego tem a natureza de consulta e tem como referência o plano anual de actividades previsto no Decreto-Lei n.º 183/96, de 27 de Setembro.\n\n3 - A participação na fiscalização das medidas relativas às condições de higiene e segurança faz-se nos termos da lei.\n\n4 - A participação nas instituições de segurança social dos trabalhadores da função pública e de outras organizações que visem satisfazer o interesse dos trabalhadores consiste no direito de ser informado sobre a gestão daquelas instituições pelos respectivos órgãos e no de lhes fazer recomendações visando a melhoria dos serviços prestados, regendo-se, quanto ao mais, pelo disposto na lei.\n\n5 - A participação na definição da política de formação e aperfeiçoamento profissional faz-se, designadamente, no âmbito da comissão intersectorial de formação e dos conselhos consultivos.\n\n6 - A participação no controlo da execução dos planos económico-sociais faz-se de acordo com o disposto na lei.\n\n7 - A participação na melhoria da qualidade dos serviços públicos envolve a consulta das associações sindicais sobre a elaboração dos programas de qualidade e o acompanhamento da sua execução.\n\n8 - A participação nas auditorias de gestão faz-se através da consulta dos respectivos relatórios finais e emissão de sugestões, podendo as associações sindicais propor fundadamente a realização daquelas auditorias.\n\n9 - A participação nas alterações ao Estatuto da Aposentação e na elaboração da legislação respeitante ao regime geral ou especial da função pública, que não for objecto de negociação, tem a natureza de consulta, oral ou escrita, pressupondo, caso a iniciativa seja do Governo, a existência de documento escrito a apresentar por este.\n\n10 - A participação na legislação prevista nas alíneas i) a m) do n.º 1 tem a natureza de consulta, oral ou escrita, podendo para o efeito constituir-se comissões técnicas especializadas, segundo regulamento a adoptar caso a caso.\n\n11 - Das reuniões das comissões técnicas especializadas que vierem a ser constituídas serão lavradas actas nos termos do n.º 4 do artigo 7.º\n\n12 - O prazo para apreciação escrita dos projectos de diploma por parte das associações sindicais nunca pode ser inferior a 20 dias a contar da sua recepção por parte da associação sindical, salvo acordo expresso em contrário.\n\n13 - O prazo previsto no número anterior é, porém, contado a partir do dia útil imediatamente seguinte ao do recebimento das informações solicitadas ao abrigo do n.º 3 do artigo 3.º"
+  },
+  "1017867575": {
+   "fragment_id": "1017867475",
+   "type": 11,
+   "heading": "Artigo 11.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Casos especiais\n\nAo pessoal com funções de representação externa do Estado, bem como ao que desempenhe funções de natureza altamente confidencial, é aplicado, em cada caso, o procedimento negocial adequado à natureza das respectivas funções, sem prejuízo dos direitos reconhecidos no presente diploma."
+  },
+  "1017867775": {
+   "fragment_id": "1017867675",
+   "type": 11,
+   "heading": "Artigo 12.º — Matérias excluídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Matérias excluídas\n\nA estrutura, atribuições e competências da Administração Pública não podem ser objecto de negociação colectiva ou de participação."
+  },
+  "1017867975": {
+   "fragment_id": "1017867875",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação sobre política salarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação sobre política salarial\n\nAs associações sindicais podem enviar ao Governo, até ao fim do 1.º semestre de cada ano, a respectiva posição sobre os critérios que entendam dever orientar a política salarial a prosseguir no ano seguinte."
+  },
+  "1017868175": {
+   "fragment_id": "1017868075",
+   "type": 11,
+   "heading": "Artigo 14.º — Interlocutor da Administração nos processos de negociação e participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Interlocutor da Administração nos processos de negociação e participação\n\n1 - O interlocutor pela Administração nos procedimentos de negociação colectiva e de participação que revistam carácter geral é o Governo, através daquele dos seus membros que tiver a seu cargo a função pública, que coordena, e do Ministro das Finanças, os quais intervêm por si ou através de representantes.\n\n2 - O interlocutor pela Administração nos procedimentos de negociação colectiva e de participação que revistam carácter sectorial é o Governo, através do ministro responsável pelo sector, que coordena, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública, nos quais intervêm por si ou através de representantes.\n\n3 - Compete à Direcção-Geral da Administração Pública apoiar o membro do Governo que tiver a seu cargo a função pública nos procedimentos de negociação colectiva e de participação referidos nos números anteriores."
+  },
+  "1017868375": {
+   "fragment_id": "1017868275",
+   "type": 11,
+   "heading": "Artigo 15.º — Representantes das associações sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Representantes das associações sindicais\n\n1 - Consideram-se representantes legítimos das associações sindicais:\n\na) Os membros dos respectivos corpos gerentes portadores de credencial com poderes bastantes para negociar e participar;\n\nb) Os portadores de mandato escrito conferido pelos corpos gerentes das associações sindicais, do qual constem expressamente poderes para negociar e participar.\n\n2 - A revogação do mandato só é eficaz após comunicação aos serviços competentes da Administração Pública."
+  },
+  "1017868575": {
+   "fragment_id": "1017868475",
+   "type": 11,
+   "heading": "Artigo 16.º — Transcrição oficiosa do registo das associações sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transcrição oficiosa do registo das associações sindicais\n\nA Direcção-Geral da Administração Pública deve requerer ao Ministério do Trabalho e da Solidariedade a transcrição oficiosa do registo das associações sindicais que representem interesses dos trabalhadores da Administração Pública e comunicá-la às Regiões Autónomas."
+  },
+  "1017868775": {
+   "fragment_id": "1017868675",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação à administração regional autónoma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aplicação à administração regional autónoma\n\n1 - O presente diploma aplica-se a todo o território nacional.\n\n2 - Os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira observam, relativamente às administrações regionais e no âmbito das suas competências, o regime previsto no presente diploma."
+  },
+  "1017868975": {
+   "fragment_id": "1017868875",
+   "type": 11,
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 45-A/84, de 3 de Fevereiro, com excepção do artigo 10.º"
+  },
+  "1017869175": {
+   "fragment_id": "1017869075",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "1017869375": {
+   "fragment_id": "1017869275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de Abril de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 8 de Maio de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 14 de Maio de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1117508975": {
+   "fragment_id": "1017865275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "Estabelece o regime de negociação colectiva e a participação dos trabalhadores da Administração Pública em regime de direito público\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 165.º, alínea b), e 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117509175": {
+   "fragment_id": "1017865475",
+   "type": 11,
+   "heading": "Artigo 1 — Objecto",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01."
+   ],
+   "markdown": "###### Artigo 1 — Objecto\n\n1 - O presente diploma regula as condições do exercício dos direitos de negociação colectiva e de participação dos trabalhadores da Administração Pública em regime de direito público.\n\n2 - Os direitos de negociação colectiva e de participação têm por objecto, no âmbito do presente diploma, a fixação ou alteração do estatuto dos trabalhadores da Administração Pública, bem como o acompanhamento da sua execução.\n\n3 - (Revogado;)\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 59/2008 - Diário da República n.º 176/2008, Série I de 2008-09-11](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), em vigor a partir de 2009-01-01."
+  },
+  "1117509275": {
+   "fragment_id": "1017865675",
+   "type": 11,
+   "heading": "Artigo 2.º — Legitimidade",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 2.º — Legitimidade\n\nOs direitos de negociação colectiva e de participação, no que respeita às organizações sindicais, apenas podem ser exercidos através daquelas que, nos termos dos respectivos estatutos, representem interesses de trabalhadores da Administração Pública e se encontrem devidamente registadas.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117509375": {
+   "fragment_id": "1017865875",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 3.º — Princípios\n\n1 - A Administração e as associações sindicais respeitam os princípios da boa fé, nomeadamente respondendo com a máxima brevidade quer aos pedidos de reunião solicitados, quer às propostas mútuas, fazendo-se representar nas reuniões destinadas à negociação ou participação e à prevenção ou resolução de conflitos.\n\n2 - As consultas dos representantes da Administração e dos trabalhadores, através das suas organizações sindicais, não suspendem ou interrompem a marcha do procedimento de negociação ou participação, salvo se as partes nisso expressamente acordarem.\n\n3 - Cada uma das partes pode solicitar à outra as informações consideradas necessárias ao exercício adequado dos direitos de negociação colectiva e de participação, designadamente os estudos e elementos de ordem técnica ou estatística, não classificados, que sejam tidos como indispensáveis à fundamentação das propostas e das contrapropostas.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117509475": {
+   "fragment_id": "1017866075",
+   "type": 11,
+   "heading": "Artigo 4.º — Cláusula de salvaguarda",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 4.º — Cláusula de salvaguarda\n\nA Administração e as associações sindicais devem assegurar a apreciação, discussão e resolução das questões colocadas numa perspectiva global e comum a todos os serviços e organismos e aos trabalhadores da Administração Pública no seu conjunto, respeitando o princípio da prossecução do interesse público e visando a dignificação da função pública e a melhoria das condições sócio-económicas dos mesmos trabalhadores.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117509575": {
+   "fragment_id": "1017866275",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito de negociação colectiva",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 5.º — Direito de negociação colectiva\n\n1 - É garantido aos trabalhadores da Administração Pública em regime de direito público o direito de negociação colectiva do seu estatuto.\n\n2 - Considera-se negociação colectiva a negociação efectuada entre as associações sindicais e a Administração das matérias relativas àquele estatuto, com vista à obtenção de um acordo.\n\n3 - O acordo, total ou parcial, que for obtido consta de documento autónomo subscrito pelas partes e obriga o Governo a adoptar as medidas legislativas ou administrativas adequadas ao seu integral e exacto cumprimento, no prazo máximo de 180 dias, sem prejuízo de outros prazos que sejam acordados, salvo nas matérias que careçam de autorização legislativa, caso em que os respectivos pedidos devem ser submetidos à Assembleia da República no prazo máximo de 45 dias.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117509675": {
+   "fragment_id": "1017866475",
+   "type": 11,
+   "heading": "Artigo 6.º — Objecto de negociação colectiva",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 6.º — Objecto de negociação colectiva\n\nSão objecto de negociação colectiva as matérias relativas à fixação ou alteração:\n\na) Dos vencimentos e das demais prestações de carácter remuneratório;\n\nb) Das pensões de aposentação ou de reforma;\n\nc) Das prestações da acção social e da acção social complementar;\n\nd) Da constituição, modificação e extinção da relação de emprego;\n\ne) Das carreiras de regime geral e especial e das integradas em corpos especiais, incluindo as respectivas escalas salariais;\n\nf) Da duração e horário de trabalho;\n\ng) Do regime das férias, faltas e licenças;\n\nh) Do regime dos direitos de exercício colectivo;\n\ni) Das condições de higiene, saúde e segurança no trabalho;\n\nj) Da formação e aperfeiçoamento profissional;\n\nk) Do estatuto disciplinar;\n\nl) Do regime de mobilidade;\n\nm) Do regime de recrutamento e selecção;\n\nn) Do regime de classificação de serviço.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117509775": {
+   "fragment_id": "1017866675",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimento de negociação",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 7.º — Procedimento de negociação\n\n1 - A negociação geral anual deverá iniciar-se a partir do dia 1 de Setembro, com a apresentação, por uma das partes, de proposta fundamentada sobre qualquer das matérias previstas no artigo anterior, procedendo-se seguidamente à calendarização das negociações, de forma que estas terminem tendencialmente antes da votação final global da proposta do Orçamento, nos termos constitucionais, na Assembleia da República.\n\n2 - As matérias sem incidência orçamental constantes do artigo anterior podem ser objecto de negociação a qualquer momento, desde que as partes contratantes nisso acordem, e desde que não tenham sido discutidas na negociação geral anual precedente.\n\n3 - As partes devem fundamentar as suas propostas e contrapropostas, impendendo sobre elas o dever de tentar atingir, em prazo adequado, um acordo.\n\n4 - Das reuniões havidas são elaboradas actas, subscritas pelas partes, donde constará um resumo do que tiver ocorrido, designadamente os pontos em que não se tenha obtido acordo.\n\n5 - As negociações sectoriais iniciam-se em qualquer altura do ano e têm a duração que for acordada entre as partes, aplicando-se-lhes os princípios constantes dos números anteriores.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117509875": {
+   "fragment_id": "1017866875",
+   "type": 11,
+   "heading": "Artigo 8.º — Convocação de reuniões",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 8.º — Convocação de reuniões\n\nA convocação de reuniões dentro do procedimento negocial tem de ser feita sempre com a antecedência mínima de cinco dias úteis, salvo acordo das partes.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117509975": {
+   "fragment_id": "1017867075",
+   "type": 11,
+   "heading": "Artigo 9.º — Resolução de conflitos",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 9.º — Resolução de conflitos\n\n1 - Terminado o período da negociação sem que tenha havido acordo poderá abrir-se uma negociação suplementar, a pedido das associações sindicais, para resolução dos conflitos.\n\n2 - O pedido para negociação suplementar será apresentado no final da última reunião negocial, ou por escrito, no prazo de cinco dias úteis, contado a partir do encerramento de qualquer dos procedimentos de negociação previstos no artigo 7.º, devendo dele ser dado conhecimento a todas as partes envolvidas no processo.\n\n3 - A negociação suplementar, desde que requerida nos termos do número anterior, é obrigatória, não podendo a sua duração exceder 15 dias úteis, consiste na tentativa de obtenção de um acordo e tem como consequência que não pode ser encerrado qualquer procedimento negocial em curso sobre as mesmas matérias com qualquer outra entidade.\n\n4 - Na negociação suplementar a parte governamental será constituída por membro ou membros do Governo, sendo obrigatoriamente presidida pelo que for responsável pela Administração Pública e, no caso das negociações sectoriais, pelo que for responsável pelo sector.\n\n5 - Finda a negociação suplementar sem obtenção de acordo, o Governo toma a decisão que entender adequada, sem prejuízo do disposto no n.º 3 do artigo 5.º\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510075": {
+   "fragment_id": "1017867275",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de participação",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 10.º — Direito de participação\n\n1 - É garantido aos trabalhadores da Administração Pública o direito de participarem, através das suas associações sindicais:\n\na) Na elaboração de programas de emprego;\n\nb) Na fiscalização e implementação das medidas relativas às condições de higiene, saúde e segurança no trabalho;\n\nc) Na gestão das instituições de segurança social dos trabalhadores da função pública e de outras organizações que visem satisfazer o interesse dos trabalhadores, designadamente as obras e serviços sociais, a ADSE e a Caixa Geral de Aposentações;\n\nd) Nas alterações ao Estatuto da Aposentação;\n\ne) Na definição da política de formação e aperfeiçoamento profissional da Administração Pública;\n\nf) No controlo de execução dos planos económico-sociais;\n\ng) No domínio da melhoria da qualidade dos serviços públicos;\n\nh) Nas auditorias de gestão efectuadas aos serviços públicos;\n\ni) Na elaboração dos pedidos de autorização legislativa sobre matéria sujeita à negociação ou participação;\n\nj) Na elaboração da regulamentação interna relativa às condições específicas de trabalho de cada serviço;\n\nl) Na definição do regime de acidentes de serviço e doenças profissionais;\n\nm) Na elaboração da legislação respeitante ao regime geral ou especial da função pública que não for objecto de negociação.\n\n2 - A participação na elaboração de programas de emprego tem a natureza de consulta e tem como referência o plano anual de actividades previsto no Decreto-Lei n.º 183/96, de 27 de Setembro.\n\n3 - A participação na fiscalização das medidas relativas às condições de higiene e segurança faz-se nos termos da lei.\n\n4 - A participação nas instituições de segurança social dos trabalhadores da função pública e de outras organizações que visem satisfazer o interesse dos trabalhadores consiste no direito de ser informado sobre a gestão daquelas instituições pelos respectivos órgãos e no de lhes fazer recomendações visando a melhoria dos serviços prestados, regendo-se, quanto ao mais, pelo disposto na lei.\n\n5 - A participação na definição da política de formação e aperfeiçoamento profissional faz-se, designadamente, no âmbito da comissão intersectorial de formação e dos conselhos consultivos.\n\n6 - A participação no controlo da execução dos planos económico-sociais faz-se de acordo com o disposto na lei.\n\n7 - A participação na melhoria da qualidade dos serviços públicos envolve a consulta das associações sindicais sobre a elaboração dos programas de qualidade e o acompanhamento da sua execução.\n\n8 - A participação nas auditorias de gestão faz-se através da consulta dos respectivos relatórios finais e emissão de sugestões, podendo as associações sindicais propor fundadamente a realização daquelas auditorias.\n\n9 - A participação nas alterações ao Estatuto da Aposentação e na elaboração da legislação respeitante ao regime geral ou especial da função pública, que não for objecto de negociação, tem a natureza de consulta, oral ou escrita, pressupondo, caso a iniciativa seja do Governo, a existência de documento escrito a apresentar por este.\n\n10 - A participação na legislação prevista nas alíneas i) a m) do n.º 1 tem a natureza de consulta, oral ou escrita, podendo para o efeito constituir-se comissões técnicas especializadas, segundo regulamento a adoptar caso a caso.\n\n11 - Das reuniões das comissões técnicas especializadas que vierem a ser constituídas serão lavradas actas nos termos do n.º 4 do artigo 7.º\n\n12 - O prazo para apreciação escrita dos projectos de diploma por parte das associações sindicais nunca pode ser inferior a 20 dias a contar da sua recepção por parte da associação sindical, salvo acordo expresso em contrário.\n\n13 - O prazo previsto no número anterior é, porém, contado a partir do dia útil imediatamente seguinte ao do recebimento das informações solicitadas ao abrigo do n.º 3 do artigo 3.º\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510175": {
+   "fragment_id": "1017867475",
+   "type": 11,
+   "heading": "Artigo 11.º — Casos especiais",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 11.º — Casos especiais\n\nAo pessoal com funções de representação externa do Estado, bem como ao que desempenhe funções de natureza altamente confidencial, é aplicado, em cada caso, o procedimento negocial adequado à natureza das respectivas funções, sem prejuízo dos direitos reconhecidos no presente diploma.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510275": {
+   "fragment_id": "1017867675",
+   "type": 11,
+   "heading": "Artigo 12.º — Matérias excluídas",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 12.º — Matérias excluídas\n\nA estrutura, atribuições e competências da Administração Pública não podem ser objecto de negociação colectiva ou de participação.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510375": {
+   "fragment_id": "1017867875",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação sobre política salarial",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 13.º — Informação sobre política salarial\n\nAs associações sindicais podem enviar ao Governo, até ao fim do 1.º semestre de cada ano, a respectiva posição sobre os critérios que entendam dever orientar a política salarial a prosseguir no ano seguinte.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510475": {
+   "fragment_id": "1017868075",
+   "type": 11,
+   "heading": "Artigo 14.º — Interlocutor da Administração nos processos de negociação e participação",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 14.º — Interlocutor da Administração nos processos de negociação e participação\n\n1 - O interlocutor pela Administração nos procedimentos de negociação colectiva e de participação que revistam carácter geral é o Governo, através daquele dos seus membros que tiver a seu cargo a função pública, que coordena, e do Ministro das Finanças, os quais intervêm por si ou através de representantes.\n\n2 - O interlocutor pela Administração nos procedimentos de negociação colectiva e de participação que revistam carácter sectorial é o Governo, através do ministro responsável pelo sector, que coordena, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública, nos quais intervêm por si ou através de representantes.\n\n3 - Compete à Direcção-Geral da Administração Pública apoiar o membro do Governo que tiver a seu cargo a função pública nos procedimentos de negociação colectiva e de participação referidos nos números anteriores.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510575": {
+   "fragment_id": "1017868275",
+   "type": 11,
+   "heading": "Artigo 15.º — Representantes das associações sindicais",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 15.º — Representantes das associações sindicais\n\n1 - Consideram-se representantes legítimos das associações sindicais:\n\na) Os membros dos respectivos corpos gerentes portadores de credencial com poderes bastantes para negociar e participar;\n\nb) Os portadores de mandato escrito conferido pelos corpos gerentes das associações sindicais, do qual constem expressamente poderes para negociar e participar.\n\n2 - A revogação do mandato só é eficaz após comunicação aos serviços competentes da Administração Pública.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510675": {
+   "fragment_id": "1017868475",
+   "type": 11,
+   "heading": "Artigo 16.º — Transcrição oficiosa do registo das associações sindicais",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 16.º — Transcrição oficiosa do registo das associações sindicais\n\nA Direcção-Geral da Administração Pública deve requerer ao Ministério do Trabalho e da Solidariedade a transcrição oficiosa do registo das associações sindicais que representem interesses dos trabalhadores da Administração Pública e comunicá-la às Regiões Autónomas.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510775": {
+   "fragment_id": "1017868675",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação à administração regional autónoma",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 17.º — Aplicação à administração regional autónoma\n\n1 - O presente diploma aplica-se a todo o território nacional.\n\n2 - Os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira observam, relativamente às administrações regionais e no âmbito das suas competências, o regime previsto no presente diploma.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510875": {
+   "fragment_id": "1017868875",
+   "type": 11,
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 18.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 45-A/84, de 3 de Fevereiro, com excepção do artigo 10.º\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117510975": {
+   "fragment_id": "1017869075",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente lei entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1117511075": {
+   "fragment_id": "1017869275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "Aprovada em 2 de Abril de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 8 de Maio de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 14 de Maio de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  }
+ }
+}

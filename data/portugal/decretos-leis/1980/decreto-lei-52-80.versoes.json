@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:677451:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-165201108",
+ "dre_path": "/dr/detalhe/decreto-lei/52-1980-677451",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1980-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165262375",
+    "165201354",
+    "165201355"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "165262375",
+    "165201354",
+    "165201355",
+    "165201356"
+   ]
+  }
+ ],
+ "fragments": {
+  "165262375": {
+   "fragment_id": "165201109",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-07-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 52/80\n\nde 26 de Março\n\nConsiderando que, nos termos do artigo 3.º do Decreto-Lei n.º 460/77, de 7 de Novembro, a competência para a declaração de utilidade pública das associações e fundações referidas naquele diploma pertence ao Governo da República;\n\nConsiderando que pelo princípio da autonomia regional, consagrado no artigo 277.º da Constituição, deverá ser atribuído aos Governos Regionais o exercício daquela competência relativamente às instituições que desenvolvam a sua actividade em exclusivo na região:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "165201354": {
+   "fragment_id": "165201110",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ transferida para os Governos Regionais a competência para a declaração de utilidade pública, prevista no artigo 3.º do Decreto-Lei n.º 460/77, de 7 de Novembro, relativamente às associações, fundações e outras pessoas colectivas que exerçam a sua actividade em exclusivo na respectiva região autónoma."
+  },
+  "165201355": {
+   "fragment_id": "165201111",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "165201356": {
+   "fragment_id": "165201112",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Março de 1980. - Francisco Sá Carneiro - Lino Dias Miguel - Henrique Afonso da Silva Horta.\n\nPromulgado em 18 de Março de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

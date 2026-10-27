@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:184508:por
+title: Decreto-Lei n.º 44104
+short_title: null
+summary: Estabelece os limites e as condições para a importação na metrópole de automóveis ligeiros de passageiros ou mistos,
+  pesados e de carga e outros veículos motorizados, montados e desmontados ou incompletos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e da Economia
+proposing_entity: null
+official_number: '44104'
+official_date: null
+publication_date: '1961-12-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 293/1961, Série I de 1961-12-20
+  number: '293'
+  series: I
+  supplement: null
+  pages: 1657 - 1659
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/12/29300/16571659.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '184508'
+  dre_path: /dr/detalhe/decreto-lei/44104-1961-184508
+  internal: pt:dre:184508:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44104-1961-184508
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44104-1961-184508
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:39:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 24afd87173cc7e05bff6c73f009a46ca28f440fba1ff2b147f0b0196cca70f20
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Importação
+- Metrópole
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:680808:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:268585:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:680808:por
+  label: "Revogado, a partir de 01.01.1973, pelo DEC LEI.157/72.12.05.1972.MF, DG.IS [112] de 12.05.1972, nos termos do seu\
+    \ art. 21º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1972-680808
+  date: '1972-05-12'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:39:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44104
+
+A importação de veículos automóveis é responsável por uma das mais fortes parcelas de desequilíbrio da balança comercial portuguesa. Em 1959 despendeu a metrópole 948000 contos com essa importação, o que representou 7 por cento de todas as compras externas e 18 por cento do desequilíbrio; se juntarmos àquele número as importações do ultramar, chegamos ao valor de quase 1500000 contos, o que não pode deixar de pesar significativamente no quadro económico nacional.
+
+Mas outro aspecto, além do montante destas cifras, merece análise atenta: o seu rápido crescimento. Na última meia dúzia de anos, o ritmo anual médio de crescimento das importações de automóveis foi de 6 por cento em valor na metrópole e de 10 por cento no conjunto das províncias ultramarinas, o que leva a prever que dentro de quatro a seis anos se terá excedido o valor anual de 2000000 de contos.
+
+Este ritmo de expansão verificado na importação dos veículos automóveis, ligeiros e pesados, que a melhoria das condições de vida nacional favorece e as necessidades da economia não permitem refrear, mostra-se, assim, superior ao dos restantes índices do nosso movimento de trocas externas, o que afecta, em ritmo crescente, a própria estrutura da balança de pagamentos; há que tomar a tempo as providências convenientes, pois só ao fim de alguns anos se pode obter destas o seu pleno efeito.
+
+Por este motivo, tomou o Governo a decisão de desliberalizar a importação de automóveis, de acordo com a comunicação que já no ano findo fora feita à Organização Europeia de Cooperação Económica.
+
+Foi objecto essencial desta diligência o poder tornar obrigatória a montagem dos veículos dentro do País, com alguma incorporação de peças nacionais, o que atenuará o dispêndio de divisas, já que a limitação dessas importações não pode fazer-se em grande escala, porque o não consentem as necessidades nacionais nem os nossos compromissos no quadro da convenção de Estocolmo. Mesmo assim reduzida, a aproveitaremos oportunamente.
+
+Por outro lado, há todo o interesse em estimular a incorporação de trabalho nacional acima do mínimo obrigatório; quando essa incorporação exceder 60 por cento, os veículos passam a ser considerados produtos de fabricação nacional, nos termos do [Decreto n.º 37683](https://diariodarepublica.pt/dr/detalhe/decreto/37683-1949-268585), de 24 de Dezembro de 1949. Para tornar obrigatória a montagem e estimular aquela incorporação se publica o presente diploma.
+
+Pelo exposto:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º A partir de 1 de Janeiro de 1963, a importação, na metrópole, de automóveis ligeiros de passageiros ou mistos montados só poderá fazer-se até ao limite de 75 automóveis por fabricante e por ano; quanto a automóveis pesados e automóveis de carga com ou sem caixa basculante só será permitida a importação no estado de montados quando forem de tipos não correntes e se destinarem a serviço de incêndios ou outros serviços especiais.
+
+§ 1.º Acima do limite indicado no corpo do artigo, os automóveis só poderão ser importados desmontados e incompletos, de forma que a incorporação de trabalho nacional não seja inferior a 15 por cento do custo do veículo completo; este valor constitui o mínimo e irredutível para todos os casos.
+
+§ 2.º A percentagem referida no parágrafo anterior poderá ser elevada até 25 por cento a partir de 1 de Janeiro de 1965, por portaria dos Secretários de Estado do Comércio e da Indústria, se as condições da economia nacional o aconselharem.
+
+§ 3.º Consideram-se veículos desmontados os que satisfaçam à designação internacional C. K. D. (Completely Knocked Down) com o equipamento mecânico agrupado em subconjuntos e a carcaça ou cabina em painéis não soldados.
+
+§ 4.º Antes de 31 de Dezembro de 1979, será levantada a restrição à importação de veículos montados a que se refere o corpo deste artigo.
+
+Art. 2.º As peças importadas pelas oficinas destinadas aos carros lá produzidos entrarão nelas em regime de depósito franco, pagando cada veículo, à saída, os direitos que lhe corresponderiam se fosse importado montado e completo, com o desconto estabelecido no artigo seguinte.
+
+§ 1.º Para cada oficina e para cada marca, designa-se por incorporação efectiva de trabalho nacional em dado ano civil a máxima percentagem de incorporação alcançada nesse ano de forma regular e contínua.
+
+§ 2.º Para a aplicação dos descontos referidos no artigo seguinte, considera-se como incorporação para efeitos fiscais, em cada ano civil, a incorporação efectiva do ano civil anterior acrescida de metade da diferença entre esta e a do ano precedente.
+
+§ 3.º No primeiro ano civil, completo ou incompleto, em que cada oficina labore, a incorporação para efeitos fiscais será a que resultar de compromisso prévio assumido e justificado pelo interessado e aceite pelos Ministros das Finanças e da Economia; na falta de compromisso considerar-se-á igual a 15 por cento; no segundo ano civil considerar-se-á igual à incorporação efectiva do ano anterior aumentada de metade da diferença entre ela e 15.
+
+Art. 3.º Os descontos a que se refere o artigo anterior são os seguintes:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/12/29300/16571659.pdf)
+
+§ 1.º A partir de 1 de Janeiro de 1974 o Governo poderá reduzir a percentagem dos descontos até igualar a percentagem das incorporações.
+
+§ 2.º Os valores dos descontos para posições intermédias das incorporações serão calculados por interpolação.
+
+Art. 4.º O regime de importação a que se referem os artigos 2.º e 3.º é igualmente aplicável a outros veículos motorizados, como tractores, motocultivadores e semelhantes.
+
+Art. 5.º Os terrenos para as instalações de produção não poderão ficar situados em Lisboa, Porto ou concelhos limítrofes, considerando-se os concelhos ribeirinhos do estuário do Tejo como limítrofes do de Lisboa; deverão ter ligação directa a uma linha férrea de via larga e ser aprovados pela Direcção-Geral das Alfândegas.
+
+§ único. Só podem constituir dependências das instalações de produção as oficinas de fabricação de peças, com exclusão de quaisquer instalações de limpeza, reparação ou reconstrução de automóveis.
+
+Art. 6.º Os veículos montados no continente português e exportados para o estrangeiro ou ultramar ficam isentos do pagamento de direitos de exportação e da taxa para o Fundo de Fomento de Exportação ou de outras taxas ou impostos de consumo, bem como de direitos de importação sobre as peças importadas.
+
+§ 1.º Os veículos montados na metrópole e exportados para as províncias ultramarinas serão sujeitos nestas aos direitos de importação aplicáveis a produtos originários de países estrangeiros, com um desconto igual, em percentagem, ao que seria aplicado se se destinassem à metrópole.
+
+§ 2.º O regime a aplicar aos veículos montados na metrópole e exportados para as províncias ultramarinas poderá vir a ser alterado por uma lei geral estabelecendo que os veículos sejam cativos de direitos, à saída da fábrica, para a entrada no mercado português da metrópole e províncias ultramarinas, com os descontos estabelecidos no presente decreto-lei e nas condições que vierem a ser fixadas.
+
+Art. 7.º Salvo caso de força maior, aceite pelos Ministros da Finanças e da Economia, se uma oficina não incorporar em todos os automóveis da sua produção a percentagem mínima de trabalho nacional fixada nos §§ 1.º e 2.º do artigo 1.º ou reduzir a incorporação em alguns deles abaixo da incorporação efectiva já obtida em ano anterior, serão os carros em tais condições considerados, para todos os efeitos, como não produzidos em Portugal, não podendo ser despachados para venda no País; no caso de não ser respeitado o compromisso a que se refere o § 3.º do artigo 2.º será a oficina em falta punida com multa igual ao triplo da diferença entre os direitos cobrados de harmonia com aquele compromisso e os que corresponderem à incorporação efectivamente verificada.
+
+Art. 8.º O cálculo da incorporação efectivamente realizada em cada ano e em cada oficina, para cada marca, será feito pela Direcção-Geral dos Serviços Industriais, nos termos do [Decreto n.º 37683](https://diariodarepublica.pt/dr/detalhe/decreto/37683-1949-268585), de 24 de Dezembro de 1949, reservando-se o Governo o direito de proceder às formas de fiscalização que julgar convenientes.
+
+§ único. De acordo com o decreto citado no corpo deste artigo, considera-se veículo de fabricação nacional o que contiver uma incorporação efectiva superior a 60 por cento.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 20 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Augusto Dias Rosas - António Alves de Carvalho Fernandes.
+
+Para ser presente à Assembleia Nacional.

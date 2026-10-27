@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:276670:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1994-916945592",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/8-1994-276670",
+ "source_lastmod": "2025-05-06",
+ "versions": [
+  {
+   "date": "1994-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "916934999",
+    "916935000",
+    "916935001",
+    "916935002",
+    "916935003",
+    "916935004",
+    "916935005",
+    "916935006"
+   ]
+  },
+  {
+   "date": "2015-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67198365:por",
+     "title": "Decreto-Lei n.º 78/2015",
+     "published": "2015-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2015-67198365"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "916934999",
+    "916935000",
+    "916935001",
+    "916935002",
+    "916935009",
+    "916935004",
+    "916935010",
+    "916935006",
+    "916935007",
+    "916935008"
+   ]
+  }
+ ],
+ "fragments": {
+  "916934999": {
+   "fragment_id": "916945593",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 8/94, de 11 de Março\n\nA criação da Área de Paisagem Protegida de Sintra-Cascais pelo Decreto-Lei n.º 292/81, de 15 de Outubro, correspondeu ao reconhecimento da existência, no seu território, de valores naturais de incontestável interesse que urgia defender, tendo sobretudo em conta as fortes pressões urbanas que conduziriam inevitavelmente ao desequilíbrio do sistema paisagístico.\n\nA conservação da natureza, a protecção dos espaços naturais e das paisagens, a preservação das espécies da fauna e da flora, a manutenção dos equilíbrios ecológicos e a protecção dos recursos naturais, além de constituírem objectivos de interesse público de âmbito municipal, extravasam claramente esse âmbito e justificam medidas de protecção adequadas a uma zona que constitui património nacional.\n\nImpõe-se, portanto, a reclassificação da Área de Paisagem Protegida de Sintra-Cascais em Parque Natural, atendendo, aliás, aos critérios definidos no Decreto-Lei n.º 19/93, de 23 de Janeiro, que estabelece a Rede Nacional de Áreas Protegidas.\n\nForam ouvidas as Câmaras Municipais de Sintra e de Cascais.\n\nAssim:\n\nAo abrigo do disposto no artigo 13.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "916935000": {
+   "fragment_id": "916945594",
+   "type": 11,
+   "heading": "Artigo 1.º — Parque Natural de Sintra-Cascais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Parque Natural de Sintra-Cascais\n\nÉ criado o Parque Natural de Sintra-Cascais, adiante designado como Parque Natural."
+  },
+  "916935001": {
+   "fragment_id": "916945595",
+   "type": 11,
+   "heading": "Artigo 2.º — Limites do Parque Natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites do Parque Natural\n\n1 - O Parque Natural tem os seguintes limites:\n\nDa foz do Falcão, coincidindo com o limite do concelho de Sintra, pelo litoral, até à Cidadela de Cascais; da Cidadela de Cascais até Guia, pela estrada nacional; de Guia à Quinta da Bicuda e desta a Areia, passando pelo hipódromo; de Areia à Charneca, passando por Cai Água e Caruma; da Charneca a Alcabideche, passando por Murches e Cabreiro; de Alcabideche até Sintra, passando por Linhó e Chão de Meninos; de Sintra ao Lourel e daqui à Várzea de Sintra, passando por Cabriz; da Várzea de Sintra ao Carrascal e deste, por caminho carreteiro, até junto ao moinho da Pedra da Granja; da Pedra da Granja a este da Codiceira, por caminho carreteiro, e daqui à Amoreira, passando a oeste do marco geodésico de Odrinhas; da Amoreira a Assafora e desta, por caminho carreteiro, até à ribeira do Falcão, limite do concelho de Sintra, e por este limite até à foz do Falcão.\n\n2 - Os limites do Parque Natural, descritos nos números anteriores, vão demarcados na carta que constitui o anexo ao presente diploma, do qual faz parte integrante.\n\n3 - As dúvidas eventualmente suscitadas pela leitura da carta que constitui o anexo serão resolvidas pela consulta do original com os limites cartográficos à escala de 1:25000, arquivado na sede do Parque Natural de Sintra-Cascais, em Sintra."
+  },
+  "916935002": {
+   "fragment_id": "916945596",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\n1 - Sem prejuízo do disposto no artigo 3.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, constituem objectivos específicos da criação do Parque Natural:\n\na) A gestão racional dos recursos naturas e paisagísticos caracterizadores da região e o desenvolvimento de acções tendentes à salvaguarda dos mesmos, nomeadamente no que diz respeito aos aspectos paisagísticos, geológicos, geomorfológicos, florísticos e faunísticos;\n\nb) A salvaguarda do património arquitectónico, histórico ou tradicional da região, bem como a promoção de uma arquitectura integrada na paisagem;\n\nc) A promoção do desenvolvimento económico e do bem-estar das populações, em harmonia com as leis fundamentais da natureza.\n\n2 - Para a prossecução dos objectivos da sua criação, os órgãos do Parque Natural devem colaborar com as autarquias locais e as demais entidades cuja competência, em razão da matéria, seja exercida na área geográfica daquele."
+  },
+  "916935003": {
+   "fragment_id": "916945597",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo."
+  },
+  "916935004": {
+   "fragment_id": "916945598",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão directiva\n\n1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo do Parque Natural.\n\n2 - O presidente da comissão directiva é nomeado por despacho do Ministro do Ambiente e Recursos Naturais, sob proposta do presidente do Instituto da Conservação da Natureza, de cujo presidente depende hierarquicamente.\n\n3 - Um dos vogais é nomeado pelo Instituto da Conservação da Natureza e o outro pelas Câmaras Municipais de Sintra e Cascais, as quais dispõem, para o efeito, de um prazo de 60 dias após a entrada em vigor do presente diploma.\n\n4 - O mandato dos titulares da comissão directiva é de três anos.\n\n5 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo presidente.\n\n6 - O presidente tem voto de qualidade."
+  },
+  "916935005": {
+   "fragment_id": "916945599",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva, que preside, e por um representante de cada uma das seguintes entidades:\n\na) O Instituto Florestal;\n\nb) A Direcção-Geral do Turismo;\n\nc) A Comissão de Coordenação da Região de Lisboa e Vale do Tejo;\n\nd) A Direcção Regional de Lisboa e Vale do Tejo do Ministério do Ambiente e Recursos Naturais;\n\ne) A Câmara Municipal de Cascais;\n\nf) A Câmara Municipal de Sintra;\n\ng) As juntas de freguesia da área do Parque Natural consideradas em conjunto e em sistema rotativo, com mandato de um ano;\n\nh) As associações de defesa do ambiente, consideradas em conjunto;\n\ni) A Faculdade de Ciências da Universidade de Lisboa;\n\nj) O Instituto Superior de Agronomia;\n\nl) O Instituto Geológico e Mineiro;\n\nm) O Instituto Português do Património Arquitectónico e Arqueológico;\n\nn) O Instituto de Estruturas Agrárias e Desenvolvimento Rural;\n\no) O Instituto Português de Investigação Marítima.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente e Recursos Naturais, sob proposta dos membros do Governo competentes.\n\n3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solitação de, pelo menos, dois terços dos seus membros."
+  },
+  "916935006": {
+   "fragment_id": "916945600",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "916935009": {
+   "fragment_id": "916945597",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série I de 2015-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) [Revogada.]\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série I de 2015-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), em vigor a partir de 2015-05-18"
+  },
+  "916935010": {
+   "fragment_id": "916945599",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série I de 2015-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva, que preside, e por um representante de cada uma das seguintes entidades:\n\na) O Instituto Florestal;\n\nb) A Direcção-Geral do Turismo;\n\nc) A Comissão de Coordenação da Região de Lisboa e Vale do Tejo;\n\nd) A Direcção Regional de Lisboa e Vale do Tejo do Ministério do Ambiente e Recursos Naturais;\n\ne) A Câmara Municipal de Cascais;\n\nf) A Câmara Municipal de Sintra;\n\ng) As juntas de freguesia da área do Parque Natural consideradas em conjunto e em sistema rotativo, com mandato de um ano;\n\nh) As associações de defesa do ambiente, consideradas em conjunto;\n\ni) A Faculdade de Ciências da Universidade de Lisboa;\n\nj) O Instituto Superior de Agronomia;\n\nl) O Instituto Geológico e Mineiro;\n\nm) O Instituto Português do Património Arquitectónico e Arqueológico;\n\nn) O Instituto de Estruturas Agrárias e Desenvolvimento Rural;\n\no) O Instituto Português de Investigação Marítima.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente e Recursos Naturais, sob proposta dos membros do Governo competentes.\n\n3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solitação de, pelo menos, dois terços dos seus membros.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série I de 2015-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), em vigor a partir de 2015-05-18"
+  },
+  "916935007": {
+   "fragment_id": "916945601",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 8 de Novembro de 1993.\n\nAníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.\n\nPromulgado em 11 de Fevereiro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Fevereiro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "916935008": {
+   "fragment_id": "916945602",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  }
+ }
+}

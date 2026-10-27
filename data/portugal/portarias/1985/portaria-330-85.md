@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:151900:por
+title: Portaria n.º 330/85
+short_title: null
+summary: Sujeita a importação de suínos e carne de suíno ao pagamento de um direito compensador, criado nos termos do Decreto-Lei
+  n.º 115-G/85, de 18 de Abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Agricultura e do Comércio e Turismo
+proposing_entity: null
+official_number: 330/85
+official_date: null
+publication_date: '1985-05-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/1985, Série I de 1985-05-31
+  number: '125'
+  series: I
+  supplement: null
+  pages: 1480 - 1481
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/12500/14801481.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '151900'
+  dre_path: /dr/detalhe/portaria/330-1985-151900
+  internal: pt:dre:151900:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-1985-151900
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-1985-151900
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 81ae6c8856b9242e177ba29dfd3f82f3ea6df1b9ffff0c3d0b574064c26a86a4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:24:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carne de Suíno
+- Direito Compensador
+- Gado Suíno
+- Importação
+relationships:
+- type: cites
+  target: pt:dre:324296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477173:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:24:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 330/85
+
+de 31 de Maio
+
+Considerando a necessidade de regulamentação especializada por sectores de mercado das alterações introduzidas no sistema de importação e exportação dos produtos agrícolas e alimentares pelo [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril, designadamente as que respeitam à abertura a todos os agentes económicos do acesso à importação;
+
+Reconhecendo-se que, a par da necessidade do recurso à importação dos bens alimentares essenciais, como meio de obviar a periódicas carências da oferta interna, importa, por outro lado, assegurar a protecção dos produtores nacionais, oferecendo-lhes a garantia de uma remuneração justa e do normal escoamento dos seus produtos, e, simultaneamente, realizar o objectivo de contenção dos preços ao consumidor;
+
+Atendendo ainda à necessidade de estabelecer para cada um dos diferentes sectores regimes de comércio externo compatíveis com as posições já assumidas por Portugal nas negociações de adesão à Comunidade Económica Europeia e atenta a experiência já recolhida durante o período de vigência da [Portaria n.º 241/85](https://diariodarepublica.pt/dr/detalhe/portaria/241-1985-324296), de 30 de Abril, que regulamentou a aplicação de direitos compensadores à importação de carne fresca e congelada de bovino:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Agricultura e do Comércio e Turismo, ao abrigo do artigo 9.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril, o seguinte:
+
+1.º A importação dos produtos constantes do anexo I à presente portaria, realizada por quaisquer agentes económicos, está sujeita ao pagamento de um direito compensador, criado nos termos do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril.
+
+2.º É fixado em 290$00, por quilograma de carcaça, no estádio grossista, o preço limiar da carne fresca de suíno doméstico da categoria extra B da grelha de classificação de carcaças.
+
+3.º - 1 - O montante do direito compensador que incidirá sobre cada um dos diferentes produtos constantes do anexo I será fixado mensalmente através de aviso publicado no Diário da República e dimanado da Direcção-Geral do Comércio Externo.
+
+2 - O referido montante dos direitos compensadores poderá, no entanto, ser alterado num lapso de tempo inferior ao fixado no número antecedente sempre que a situação do mercado o aconselhe.
+
+4.º O cálculo do montante do direito compensador a que se refere o n.º 1.º será efectuado mediante a aplicação da seguinte fórmula:
+
+DC = PL - (PA + X)
+
+sendo:
+
+DC = direito compensador;
+
+PL = preço limiar;
+
+PA = preço arbitrado;
+
+X = direitos aduaneiros e demais encargos e imposições.
+
+5.º Para efeitos do cálculo referido no número anterior, a Junta Nacional dos Produtos Pecuários determinará mensalmente o preço arbitrado de cada produto ou do produto base de um grupo de produtos constantes do anexo I, tendo em conta as condições normais nos mercados nacional e internacional, nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril.
+
+6.º A diferença entre os montantes dos diversos direitos compensadores aplicáveis aos vários produtos constantes do anexo I e suas diferentes formas de apresentação e conservação deverá exprimir e resultar da aplicação de coeficientes técnicos de rendimento que traduzam a sua valorização relativa, os quais serão determinados pela Junta Nacional dos Produtos Pecuários.
+
+7.º - 1 - Os direitos compensadores a que se refere a presente portaria serão cobrados pelas alfândegas que procederem ao despacho de importação e constituem receita do Fundo de Abastecimento.
+
+2 - Na importação de produtos constantes do anexo I à presente portaria que se destinem a transformação e posterior exportação previamente contratada, o importador poderá ser dispensado do pagamento dos direitos compensadores mediante apresentação da respectiva garantia bancária, a qual só será liberada após prova da efectivação da exportação.
+
+3 - A dispensa de pagamento dos direitos compensadores prevista no número antecedente dependerá de parecer favorável da Junta Nacional dos Produtos Pecuários, a qual definirá, para cada operação em concreto, a relação de transformação.
+
+8.º O presente diploma entrará em vigor, relativamente a cada produto ou grupo de produtos constantes do anexo I, no dia 1 do mês seguinte à primeira publicação no Diário da República do aviso a que se refere o n.º 3.º
+
+Ministérios das Finanças e do Plano, da Agricultura e do Comércio e Turismo.
+
+Assinada em 23 de Maio de 1985.
+
+Pelo Ministro das Finanças e do Plano, Alípio, Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
+
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/12500/14801481.pdf)

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:353756:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao-rectificacao/2006-953258551",
+ "dre_path": "/dr/detalhe/declaracao-rectificacao/29-2006-353756",
+ "source_lastmod": "2025-11-28",
+ "versions": [
+  {
+   "date": "2006-06-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953446189"
+   ]
+  }
+ ],
+ "fragments": {
+  "953446189": {
+   "fragment_id": "953258552",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Declaração de Rectificação n.º 29/2006\n\nSegundo comunicação do Ministério do Trabalho e da Solidariedade Social, a Portaria n.º 405/2006, publicada no Diário da República, 1.ª série, n.º 82, de 27 de Abril de 2006, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:\n\nNo n.º 1.º, onde se lê:\n\n«1 - ...\n\na) ...\n\nb) ...\n\nA extensão prevista na alínea a) não se aplica às empresas filiadas nas associações de empregadores inscritas na UACS - União de Associações de Comércio e Serviços.»\n\ndeve ler-se:\n\n«1 - ...\n\na) ...\n\nb) ...\n\nc) A extensão prevista na alínea a) não se aplica às empresas filiadas nas associações de empregadores inscritas na UACS - União de Associações de Comércio e Serviços.»\n\nNo n.º 2, onde se lê:\n\n«2 - As retribuições previstas no anexo III inferiores à retribuição mínima mensal garantida em vigor apenas são objecto de extensão nas situações em que sejam superiores à retribuição mínima mensal garantida resultante de redução relacionada com o trabalhador, de acordo com o artigo 209.º da Lei n.º 35/2004, de 29 de Julho.»\n\ndeve ler-se:\n\n«2 - As retribuições previstas no anexo III inferiores à retribuição mínima mensal garantida em vigor apenas são objecto de extensão nas situações em que sejam superiores à dedução mínima mensal garantida resultante de retribuição relacionada com o trabalhador, de acordo com o artigo 209.º da Lei n.º 35/2004, de 29 de Julho.»\n\nNo n.º 4, terceiro parágrafo, onde se lê:\n\n«4 - ...\n\nSendo de comércio a retalho alimentar ou misto, pertencentes a empresa ou grupo que tenha, ao nível nacional, uma área de venda acumulada igual ou superior a 15000 m2;»\n\ndeve ler-se:\n\n«4 - ...\n\nSendo de comércio a retalho alimentar ou misto, pertencentes a empresa ou grupo que tenha, ao nível nacional, uma área de venda acumulada de comércio a retalho alimentar igual ou superior a 15000 m2;»."
+  }
+ }
+}

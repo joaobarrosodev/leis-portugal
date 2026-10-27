@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:251215:por
+title: Resolução n.º 185/77
+short_title: null
+summary: Exonera o actual administrador por parte do Estado na FERUNI - Sociedade de Fundição, S. A. R. L., engenheiro Mário
+  João Caldeira de Oliveira Pereira
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 185/77
+official_date: null
+publication_date: '1977-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/1977, Série I de 1977-07-25
+  number: '170'
+  series: I
+  supplement: null
+  pages: 1835 - 1836
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/07/17000/18351836.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '251215'
+  dre_path: /dr/detalhe/resolucao/185-1977-251215
+  internal: pt:dre:251215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/185-1977-251215
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/185-1977-251215
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7f2ec3ece46866f3080fd044e759a17a332689c72fbe1be580da79d3d609fdf5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:05:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administrador
+- Empresa Intervencionada
+- Empresa Privada
+- Exoneração
+- Intervenção do Estado
+relationships:
+- type: cites
+  target: pt:dre:158012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:05:21Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 185/77
+
+Considerando que, em virtude de 97% do capital social da FERUNI - Sociedade de Fundição, S. A. R. L., serem detidos pela empresa intervencionada ED. Ferreirinha & Irmão - Motores e Máquinas EFI, S. A. R. L., o Conselho de Ministros, por resolução de 1 de Julho de 1975, publicada no Diário do Governo, 1.ª série, n.º 158, de 11 de Julho de 1975, determinou a «intervenção» do Estado naquela primeira empresa, mediante a nomeação de um administrador por parte do Estado, ao abrigo do [Decreto-Lei n.º 76-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-c-1975-158012), de 21 de Fevereiro.
+
+Considerando que, por força do Acórdão do Supremo Tribunal Administrativo datado de 24 de Março de 1977, foi anulada a intervenção do Estado, instituída na ED. Ferreirinha & Irmão - Motores e Máquinas EFI, S. A. R. L., ao abrigo do [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, deixando, portanto, de existir fundamento legal para a manutenção de um administrador por parte do Estado na referida FERUNI - Sociedade de Fundição, S. A. R. L.:
+
+O Conselho de Ministros, reunido em 7 de Julho de 1977, resolveu:
+
+Exonerar o actual administrador por parte do Estado na FERUNI - Sociedade de Fundição, S. A. R. L., engenheiro Mário João Caldeira de Oliveira Pereira, cargo para que foi nomeado por despacho do Conselho de Ministros datado de 24 de Fevereiro de 1976, publicado no Diário do Governo, 2.ª série, n.º 58, de 9 de Março de 1976.
+
+Presidência do Conselho de Ministros, 7 de Julho de 1977. - O Primeiro-Ministro, Mário Soares.

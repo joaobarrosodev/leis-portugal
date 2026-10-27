@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:262118:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-150946935",
+ "dre_path": "/dr/detalhe/portaria/50-2007-262118",
+ "source_lastmod": "2025-06-06",
+ "versions": [
+  {
+   "date": "2007-01-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921846026"
+   ]
+  }
+ ],
+ "fragments": {
+  "921846026": {
+   "fragment_id": "150946936",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 50/2007\n\nde 9 de Janeiro\n\nO Decreto-Lei n.º 178/2006, de 5 de Setembro, estabelece o regime geral da gestão de resíduos, sujeitando a licenciamento a realização das operações de gestão de resíduos elencadas no seu artigo 23.º\n\nNo artigo 33.º do citado decreto-lei estão definidos os elementos essenciais que devem constar do alvará de licença a emitir e a enviar ao operador pela entidade licenciadora, estando previsto no n.º 2 deste mesmo artigo que o modelo de alvará de licença para a realização de operações de gestão de resíduos é aprovado por portaria do membro do Governo responsável pela área do ambiente.\n\nAssim:\n\nManda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, ao abrigo do disposto no n.º 2 do artigo 33.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, o seguinte:"
+  }
+ }
+}

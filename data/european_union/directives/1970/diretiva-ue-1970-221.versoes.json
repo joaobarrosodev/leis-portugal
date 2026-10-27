@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31970L0221:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970L0221-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "1970-04-06",
+   "future": false,
+   "celex": "31970L0221",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a175f45f71619ceb",
+    "dd4d5d2d64577c77",
+    "1051c6926ae654a5",
+    "a29997ecf8af4e2a",
+    "74dc6211055d2748",
+    "0b14c8f84a940358",
+    "36de837fe93b9d27"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01970L0221-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime ANEXO — I. Reservatórios e reservatórios auxiliares de combustível líquido"
+   ],
+   "fragments": [
+    "ed0ba2276bc49b7c"
+   ]
+  }
+ ],
+ "fragments": {
+  "a175f45f71619ceb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 70/221/CEE do Conselho, de 20 de Março de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes aos reservatórios de combustível líquido e à protecção à retaguarda contra o encaixe dos veículos a motor e seus reboques** *Jornal Oficial nº L 076 de 06/04/1970 p. 0023 - 0024 Edição especial finlandesa: Capítulo 13 Fascículo 1 p. 0135 Edição especial dinamarquesa: Série I Capítulo 1970(I) p. 0170 Edição especial sueca: Capítulo 13 Fascículo 1 p. 0135 Edição especial inglesa: Série I Capítulo 1970(I) p. 0192 Edição especial grega: Capítulo 13 Fascículo 1 p. 0089 Edição especial espanhola: Capítulo 13 Fascículo 1 p. 0217 Edição especial portuguesa: Capítulo 13 Fascículo 1 p. 0217*\n\nDIRECTIVA DO CONSELHO de 20 de Março de 1970 relativa à aproximação das legislações dos Estados-membros respeitantes aos reservatórios de combustível líquido e à protecção à retaguarda contra o encaixe dos veículos a motor e seus reboques\n\n(70/221/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que as prescrições técnicas exigidas para os veículos a motor pelas legislações nacionais respeitam, nomeadamente, aos reservatórios de combustível líquido e à protecção à retaguarda contra o encaixe;\n\nConsiderando que estas prescrições diferem de um Estado-membro para outro; que daí resulta a necessidade de que sejam adoptadas as mesmas prescrições por todos os Estados-membros, quer em complemento, quer em substituição das suas regulamentações actuais, tendo em vista nomeadamente permitir a aplicação, para cada modelo de veículo, do processo de recepção CEE que é objecto da Directiva do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos veículos a motor e seus reboques (3),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "dd4d5d2d64577c77": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos do disposto na presente directiva, entende-se por veículo qualquer veículo a motor destinado a transitar na estrada, com ou sem carroçaria, tendo pelo menos quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h, assim como os seus reboques, com excepção dos veículos que se deslocam sobre carris, dos tractores e máquinas agrícolas, bem como das máquinas de obras públicas."
+  },
+  "1051c6926ae654a5": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs Estados-membros não podem recusar a recepção CEE nem a recepção de âmbito nacional de um veículo por motivos relacionados com os reservatórios de combustível líquido ou com a protecção à retaguarda contra o encaixe, se estes estiverem em conformidade com as prescrições constantes do Anexo."
+  },
+  "a29997ecf8af4e2a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAs alterações necessárias para adaptar ao progresso técnico as prescrições do Anexo, com excepção das que figuram no ponto I, serão adoptadas em conformidade com o procedimento previsto no artigo 13o da Directiva do Conselho, de 6 de Fevereiro de 1970, relativa à recepção dos veículos a motor e seus reboques."
+  },
+  "74dc6211055d2748": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros porão em vigor as disposições necessárias para darem cumprimento à presente directiva no prazo de dezoito meses a contar da sua notificação e desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem assegurar que seja comunicado à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "0b14c8f84a940358": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 20 de Março de 1970.\n\nPelo Conselho\n\nO Presidente\n\nP. HARMEL\n\n(1) JO no C 160 de 18. 12. 1969, p. 7.(2) JO no C 48 de 16. 4. 1969, p. 16.(3) JO no L 42 de 23. 2. 1970, p. 1."
+  },
+  "36de837fe93b9d27": {
+   "fragment_id": "ANEXO — I. Reservatórios e reservatórios auxiliares de combustível líquido",
+   "type": "divisao",
+   "heading": "ANEXO — I. Reservatórios e reservatórios auxiliares de combustível líquido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — I. Reservatórios e reservatórios auxiliares de combustível líquido\n\nI.1. Os reservatórios de combustível devem ser fabricados de forma a resistirem à corrosão. Devem satisfazer os ensaios de estanquidade efectuados pelo fabricante a uma pressão igual ao dobro da pressão relativa de serviço e, em qualquer caso, pelo menos igual a 1,3 bar. Qualquer sobrepressão eventual, ou qualquer pressão que exceda a pressão de serviço, deve ser automaticamente compensada por dispositivos apropriados (orifícios, válvulas de segurança, etc.). Os orifícios de ventilação devem ser concebidos de forma a evitar qualquer risco de inflamação. O combustível não deve poder escoar-se pela tampa do reservatorio ou pelos dispositivos previstos para compensar a sobrepressão, mesmo no caso de inversão total do reservatório; será tolerado um gotejamento.\n\nI.2. Os reservatórios de combustível devem ser instalados de modo a estarem protegidos das consequências de uma colisão frontal ou à retaguarda do veículo; as partes salientes, os bordos cortantes, etc., devem ser evitados na proximidade dos reservatórios.\n\nII. Protecção à retaguarda contra o encaixe\n\nII.1. A altura ao solo relativa a toda a largura do quadro ou das partes essenciais da carroçaria à retaguarda não pode exceder 70 cm, quando a distância entre o eixo do último rodado e o ponto extremo da retaguarda do veículo for superior a um metro.\n\nII.2. Se esta prescrição não for cumprida, o veículo deve ser equipado com uma protecção à retaguarda contra o encaixe que preencha as condições de montagem a seguir indicadas.\n\nII.3. Condições de montagem das protecções à retaguarda contra o encaixe.\n\nII.3.1. A parte inferior da protecção à retaguarda contra o encaixe deve situar-se a menos de 70 cm do solo, com o veículo sem carga.\n\nII.3.2. A largura da protecção à retaguarda contra o encaixe, no local onde estiver instalada, não pode ser superior à largura do veículo nem inferior, em mais de 10 cm de cada lado, a esta mesma largura.\n\nII.3.3. A protecção à retaguarda contra o encaixe deve ser colocada o mais próximo possível da retaguarda do veículo, não podendo estar afastada mais de 60 cm do ponto extremo da retaguarda do veículo.\n\nII.3.4. As extremidades da protecção à retaguarda contra o encaixe não devem estar curvadas para trás.\n\nII.3.5. A protecção à retaguarda contra o encaixe deve estar firmemente fixada às longarinas ou ao que desempenha as funções destas.\n\nII.3.6. A protecção à retaguarda contra o encaixe deve ter uma resistência à flexão pelo menos equivalente à de uma viga de aço cuja secção recta tenha um módulo de resistência à flexão de 20 cm3.\n\nII.4. Em derrogação das disposições precedentes, os veículos das categorias a seguir enumeradas podem não estar munidos de protecção à retaguarda contra o encaixe:\n\n- Tractores de semi-reboques,\n\n- zorras e outros reboques análogos destinados ao transporte de toros ou de outras peças de grande comprimento,\n\n- veículos para os quais a existência de uma protecção à retaguarda contra o encaixe seja incompativel com a sua utilização."
+  },
+  "ed0ba2276bc49b7c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1970L0221 — PT — 01.11.2014 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31970L0221) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31970L0221) [de 20 de Março de 1970](http://publications.europa.eu/resource/celex/31970L0221) [relativa à aproximação das legislações dos Estados-Membros respeitantes aos reservatórios de combustível e à protecção à retaguarda contra o encaixe dos veículos a motor e seus reboques](http://publications.europa.eu/resource/celex/31970L0221) [(70/221/CEE)](http://publications.europa.eu/resource/celex/31970L0221) (JO L 076, 6.4.1970, p.23)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

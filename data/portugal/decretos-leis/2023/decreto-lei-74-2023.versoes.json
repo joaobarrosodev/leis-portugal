@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220341082:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-873653039",
+ "dre_path": "/dr/detalhe/decreto-lei/74-2023-220341082",
+ "source_lastmod": "2024-07-26",
+ "versions": [
+  {
+   "date": "2023-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "873757187",
+    "873757188",
+    "873757189",
+    "873757190",
+    "873757191"
+   ]
+  },
+  {
+   "date": "2024-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:873616106:por",
+     "title": "Decreto-Lei n.º 48-B/2024",
+     "published": "2024-07-25",
+     "dre_path": "/dr/detalhe/decreto-lei/48-b-2024-873616106"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "873757187",
+    "873757188",
+    "873757189",
+    "873757204",
+    "873757191",
+    "873757192"
+   ]
+  }
+ ],
+ "fragments": {
+  "873757187": {
+   "fragment_id": "873653040",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 74/2023\n\nde 25 de agosto\n\nSumário: Estabelece os termos de implementação dos mecanismos de aceleração de progressão na carreira dos educadores de infância e dos professores dos ensinos básico e secundário.\n\nO Programa do XXIII Governo Constitucional assumiu o desígnio de assegurar serviços públicos de qualidade que contribuam para a redução das desigualdades e para a valorização e melhoria das condições do exercício das funções públicas, em ordem a garantir percursos profissionais com futuro, procurando garantir previsibilidade, justiça e equidade.\n\nO Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, estabelece os termos e as condições de progressão na carreira, assente no desenvolvimento profissional e na valorização remuneratória.\n\nPor força do período de congelamento ocorrido entre 1 de janeiro de 2011 e 31 de dezembro de 2017, não foi possível fazer repercutir na esfera jurídica destes profissionais as alterações do índice remuneratório através da mudança de escalão, nos termos previstos no ECD.\n\nReconhecendo que a não concretização das progressões e a consequente não valorização remuneratória dos docentes teve impacto diferenciado em função do tempo de serviço e do respetivo posicionamento remuneratório, o presente decreto-lei vem estabelecer um regime especial de regularização das assimetrias na progressão na carreira, introduzindo fatores de equidade, por via da discriminação positiva dos docentes, cujo desenvolvimento da carreira se encontra afetado por aqueles períodos de congelamento.\n\nNeste sentido, introduzem-se mecanismos de aceleração das progressões na carreira destes docentes, ao considerar, para efeitos de progressão, o tempo de serviço de permanência nos 4.º e 6.º escalões por não disporem de vaga para progressão ao 5.º e 7.º escalões garantindo-se àqueles que ainda não progrediram a estes escalões que o possam fazer sem perda tempo de serviço. Por outro lado, garante-se a todos os demais docentes abrangidos pelos referidos congelamentos uma progressão mais célere na carreira, ao reduzir-se em um ano o módulo tempo de serviço de permanência no escalão em que se encontram posicionados, para efeitos de progressão ao escalão subsequente. Com a introdução destas medidas especiais concretizam-se os processos de aceleração das progressões na carreira de cerca de 60 mil docentes com os consequentes efeitos remuneratórios assegurando, ao mesmo tempo, a sustentabilidade das carreiras e a compatibilização com os recursos disponíveis.\n\nA solução constante deste decreto-lei, coerente com o programa do Governo e com a estratégia de valorização do conjunto dos serviços do Estado, em especial a escola pública e o Serviço Nacional de Saúde, não prejudica que, em diferentes conjunturas, designadamente em próximas legislaturas, possam ser adotadas outras soluções, sem prejuízo naturalmente dos direitos ora adquiridos pelos educadores de infância e professores.\n\nForam observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "873757188": {
+   "fragment_id": "873653041",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime especial de regularização das assimetrias na progressão na carreira dos educadores de infância e dos professores dos ensinos básico e secundário dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário, doravante designados por docentes."
+  },
+  "873757189": {
+   "fragment_id": "873653042",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito subjetivo de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito subjetivo de aplicação\n\n1 - O presente decreto-lei aplica-se aos docentes que preencham cumulativamente os seguintes requisitos:\n\na) Exerçam funções docentes ou legalmente equiparadas desde o ano 2005-2006;\n\nb) Tenham sido abrangidos, durante o exercício dessas funções, pelo regime de suspensão da contagem do tempo de serviço para efeitos de promoção ou progressão nas respetivas carreiras e categorias, que vigorou entre 1 de janeiro de 2011 e 31 de dezembro de 2017.\n\n2 - O disposto no número anterior aplica-se aos docentes dos quadros, bem como àqueles que os venham a integrar, para efeitos de reposicionamento na carreira.\n\n3 - O disposto nos números anteriores aplica-se ainda aos docentes que nos anos letivos 2012-2013 e 2013-2014 tenham celebrado contratos de trabalho em funções públicas a termo resolutivo incerto, para substituição temporária de trabalhador ausente, e o contrato haja cessado, por iniciativa do empregador, sem que tivesse ocorrido a apresentação do docente substituído.\n\n4 - O disposto nos números anteriores não se aplica aos docentes dos quadros das Regiões Autónomas abrangidos pelos Decretos Legislativos Regionais n.os 23/2018/M, de 28 de dezembro, e 15/2019/A, de 16 de julho.\n\n5 - Para efeitos do disposto na alínea b) do n.º 1, é suscetível de relevar o tempo de serviço prestado pelos docentes em estabelecimentos de ensino particular e cooperativo no período ali previsto, nas situações em que o mesmo esteja certificado e não tenha sido considerado aquando do respetivo reposicionamento nos termos do artigo 133.º do ECD e da Portaria n.º 119/2018, de 4 de maio."
+  },
+  "873757190": {
+   "fragment_id": "873653043",
+   "type": 11,
+   "heading": "Artigo 3.º — Regras especiais para efeitos de progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regras especiais para efeitos de progressão\n\n1 - Aos docentes referidos no artigo anterior que, entre 2018 e 2022, não tenham progredido aos 5.º e 7.º escalões por ausência do requisito a que se refere a alínea b) do n.º 3 do artigo 37.º do Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, que aprova o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), é considerado, para efeitos de progressão, o tempo de serviço de permanência nos 4.º e 6.º escalões por inexistência de vaga.\n\n2 - Sem prejuízo do disposto no número anterior, são criadas nos 5.º e 7.º escalões as vagas necessárias para que os docentes previstos no artigo anterior que reúnam os demais requisitos legais para progressão ao 5.º e 7.º escalões, desde que não se encontrem abrangidos pelo disposto no n.º 4 do artigo 37.º do ECD, progridam para os referidos escalões.\n\n3 - Aos docentes que, à data de entrada em vigor do presente decreto-lei, estejam posicionados no 7.º ou 8.º escalões e não sejam abrangidos pelo disposto no n.º 1 é reduzido em um ano o módulo de tempo de serviço de permanência no escalão em que se encontram posicionados para efeitos de progressão ao escalão subsequente.\n\n4 - Aos docentes abrangidos pelo disposto nos n.os 1 e 3 é contabilizado nos escalões subsequentes o tempo de serviço que exceda o tempo de serviço necessário para o preenchimento do módulo de tempo de serviço do escalão em que se encontram posicionados.\n\n5 - Aos docentes posicionados no 9.º escalão e não se encontrem abrangidos pelo disposto no n.º 1 é reduzido em até um ano o módulo de tempo de serviço necessário para efeitos de progressão ao 10.º escalão.\n\n6 - Aos docentes que, após a entrada em vigor do presente decreto-lei, atinjam o 7.º escalão e não tenham beneficiado do disposto nos n.os 1 e 2 é reduzido em um ano o módulo de tempo de serviço necessário para efeitos de progressão ao 8.º escalão."
+  },
+  "873757191": {
+   "fragment_id": "873653044",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação."
+  },
+  "873757204": {
+   "fragment_id": "873653043",
+   "type": 11,
+   "heading": "Artigo 3.º — Regras especiais para efeitos de progressão",
+   "in_force_from": "2024-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-B/2024 - Diário da República n.º 143/2024, Suplemento, Série I de 2024-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-b-2024-873616106), em vigor a partir de 2024-07-26, produz efeitos a partir de 2024-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Regras especiais para efeitos de progressão\n\n1 - Aos docentes referidos no artigo anterior que, entre 2018 e 2022, não tenham progredido aos 5.º e 7.º escalões por ausência do requisito a que se refere a alínea b) do n.º 3 do artigo 37.º do Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, que aprova o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), é considerado, para efeitos de progressão, o tempo de serviço de permanência nos 4.º e 6.º escalões por inexistência de vaga.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Aos docentes abrangidos pelo disposto no n.º 1 é contabilizado nos escalões subsequentes o tempo de serviço que exceda o tempo de serviço necessário para o preenchimento do módulo de tempo de serviço do escalão em que se encontram posicionados.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 48-B/2024 - Diário da República n.º 143/2024, Suplemento, Série I de 2024-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-b-2024-873616106), em vigor a partir de 2024-07-26, produz efeitos a partir de 2024-09-01"
+  },
+  "873757192": {
+   "fragment_id": "873653045",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de julho de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - João Miguel Marques da Costa.\n\nPromulgado em 20 de agosto de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 21 de agosto de 2023.\n\nPelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.\n\n116794333"
+  }
+ }
+}

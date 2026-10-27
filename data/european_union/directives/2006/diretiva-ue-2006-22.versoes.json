@@ -1,0 +1,869 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006L0022:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0022-20240620",
+ "dre_path": null,
+ "source_lastmod": "2024-06-20",
+ "versions": [
+  {
+   "date": "2006-04-11",
+   "future": false,
+   "celex": "32006L0022",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6a21e57f0b0e0833",
+    "bb51fa73ff42bdc1",
+    "5bcd95e3f340a81d",
+    "9ab9834949e1d8b5",
+    "0e0f21413b6c712f",
+    "8c1624b1e5819e36",
+    "8c1954143862850a",
+    "6bc2b6e4821644ab",
+    "e8c1fb2b5d685e15",
+    "8146dfc051eb8948",
+    "eb052e21293b646a",
+    "95b79dadccb0a993",
+    "82d77de536b8b6eb",
+    "baaf630d10dd319f",
+    "8e682c06722ca22c",
+    "602297a04eed12af",
+    "67f1cafecf709658",
+    "e386df2fc72169b2",
+    "2b373fd8861fd55d",
+    "bf0b3a9008fe8b13",
+    "bf21b33b434ce6da"
+   ]
+  },
+  {
+   "date": "2009-02-20",
+   "future": false,
+   "celex": "02006L0022-20090220",
+   "acts": [
+    {
+     "id": "eu:celex:32009L0004:por",
+     "title": "DIRECTIVA 2009/4/CE DA COMISSÃO Texto relevante para efeitos do EEE de 23 de Janeiro de 2009",
+     "published": null,
+     "celex": "32009L0004"
+    },
+    {
+     "id": "eu:celex:32009L0005:por",
+     "title": "DIRECTIVA 2009/5/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Janeiro de 2009",
+     "published": null,
+     "celex": "32009L0005"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Estatísticas",
+    "Altera Artigo 19.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Parte A",
+    "Adita CONTROLOS NA ESTRADA",
+    "Adita Parte B",
+    "Adita CONTROLOS EM INSTALAÇÕES DE EMPRESAS",
+    "Adita ANEXO II",
+    "Adita Equipamento normalizado a disponibilizar às unidades responsáveis pelos controlos",
+    "Adita ANEXO III",
+    "Adita Infracções"
+   ],
+   "fragments": [
+    "e0cd2a51567e31e3",
+    "bb51fa73ff42bdc1",
+    "700bd33aeaaee03d",
+    "7057722c54fb3fdf",
+    "0e0f21413b6c712f",
+    "8c1624b1e5819e36",
+    "8c1954143862850a",
+    "6bc2b6e4821644ab",
+    "e8c1fb2b5d685e15",
+    "8146dfc051eb8948",
+    "eb052e21293b646a",
+    "95b79dadccb0a993",
+    "82d77de536b8b6eb",
+    "baaf630d10dd319f",
+    "8e682c06722ca22c",
+    "602297a04eed12af",
+    "67f1cafecf709658",
+    "e386df2fc72169b2",
+    "922de22160f0fdfa",
+    "d3d26ff61fad641c",
+    "d664376e2a8dcecd",
+    "6cd9753221daf8f2",
+    "e78b3e5c2870ac6c",
+    "c476005056aa0321",
+    "bb5def2a40eaec85",
+    "852174729551523b",
+    "984f1dc66c7823f5",
+    "720af75c92791b10",
+    "38c4b39d60330656",
+    "0937d81a7a83631a"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "celex": "02006L0022-20170101",
+   "acts": [
+    {
+     "id": "eu:celex:32016R0403:por",
+     "title": "REGULAMENTO (UE) 2016/403 DA COMISSÃO de 18 de março de 2016",
+     "published": null,
+     "celex": "32016R0403"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera CONTROLOS NA ESTRADA",
+    "Altera Notas",
+    "Adita 1. Grupos de infrações ao Regulamento (CE) n.º 561/2006",
+    "Adita 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0003))(Tacógrafo)",
+    "Suprime Infracções"
+   ],
+   "fragments": [
+    "8f7d20af68662785",
+    "bb51fa73ff42bdc1",
+    "700bd33aeaaee03d",
+    "7057722c54fb3fdf",
+    "0e0f21413b6c712f",
+    "8c1624b1e5819e36",
+    "8c1954143862850a",
+    "6bc2b6e4821644ab",
+    "e8c1fb2b5d685e15",
+    "8146dfc051eb8948",
+    "eb052e21293b646a",
+    "95b79dadccb0a993",
+    "82d77de536b8b6eb",
+    "baaf630d10dd319f",
+    "8e682c06722ca22c",
+    "602297a04eed12af",
+    "67f1cafecf709658",
+    "e386df2fc72169b2",
+    "922de22160f0fdfa",
+    "d3d26ff61fad641c",
+    "d664376e2a8dcecd",
+    "6cd9753221daf8f2",
+    "ddc4e29392084ac3",
+    "c476005056aa0321",
+    "bb5def2a40eaec85",
+    "852174729551523b",
+    "984f1dc66c7823f5",
+    "720af75c92791b10",
+    "41b0956d7fbae5e2",
+    "9572698b2a51f4aa",
+    "fbd8c59ce6a7b304"
+   ]
+  },
+  {
+   "date": "2022-02-02",
+   "future": false,
+   "celex": "02006L0022-20220202",
+   "acts": [
+    {
+     "id": "eu:celex:32020L1057:por",
+     "title": "Diretiva (UE) 2020/1057 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020",
+     "published": null,
+     "celex": "32020L1057"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Sistemas de controlo",
+    "Altera Artigo 3.º — Estatísticas",
+    "Altera Artigo 5.º — Controlos concertados",
+    "Altera Artigo 6.º — Controlos nas instalações das empresas",
+    "Altera Artigo 7.º — Ligação intracomunitária",
+    "Altera Artigo 8.º — Troca de informações",
+    "Altera Artigo 9.º — Sistema comum de classificação dos riscos",
+    "Altera Artigo 11.º — Melhores práticas",
+    "Altera Artigo 12.º — Procedimento de comité",
+    "Altera Artigo 13.º — Medidas de execução",
+    "Altera Artigo 14.º — Negociações com países terceiros",
+    "Altera CONTROLOS NA ESTRADA",
+    "Altera CONTROLOS EM INSTALAÇÕES DE EMPRESAS",
+    "Altera 1. Grupos de infrações ao Regulamento (CE) n.º 561/2006",
+    "Altera Notas",
+    "Adita Artigo 1.º — Objeto",
+    "Adita Artigo 15.º — Atualização dos anexos",
+    "Adita Artigo 15.º-A — Exercício da delegação",
+    "Adita 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0010))(Tacógrafo)",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 15.º — Actualização dos anexos",
+    "Suprime 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0003))(Tacógrafo)"
+   ],
+   "fragments": [
+    "0b94131724bf6d19",
+    "d81d0400e7d20aa0",
+    "acb98ace722de1d0",
+    "4a861b461f877671",
+    "20e71833388de557",
+    "c5edfa4d36135be0",
+    "bf99fe142d79985b",
+    "5214e237b6d9ef29",
+    "a370a47ddb41dd65",
+    "6aee6e43758da5cc",
+    "eb052e21293b646a",
+    "5ad0d8c719d19e6d",
+    "724c928a8078994a",
+    "3eaf3f35a1269ec0",
+    "398d0c2c3d7bad68",
+    "9b92eafd5200e9b3",
+    "cd1ceb5ae1a37291",
+    "660205c0ff95eca0",
+    "e386df2fc72169b2",
+    "922de22160f0fdfa",
+    "d3d26ff61fad641c",
+    "d664376e2a8dcecd",
+    "6cd9753221daf8f2",
+    "e6181283d8f05537",
+    "c476005056aa0321",
+    "cea5f2f344778c23",
+    "852174729551523b",
+    "984f1dc66c7823f5",
+    "720af75c92791b10",
+    "241c092a09138137",
+    "424f35f932725a5e",
+    "35e62aade008a59a"
+   ]
+  },
+  {
+   "date": "2024-06-20",
+   "future": false,
+   "celex": "02006L0022-20240620",
+   "acts": [
+    {
+     "id": "eu:celex:32024L0846:por",
+     "title": "DIRETIVA DELEGADA (UE) 2024/846 DA COMISSÃO de 14 de março de 2024",
+     "published": null,
+     "celex": "32024L0846"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Objeto",
+    "Altera Artigo 8.º — Troca de informações",
+    "Altera Artigo 12.º — Procedimento de comité",
+    "Altera Artigo 15.º-A — Exercício da delegação",
+    "Altera CONTROLOS NA ESTRADA",
+    "Altera ANEXO III",
+    "Altera Notas",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Suprime Parte A",
+    "Suprime Parte B",
+    "Suprime 1. Grupos de infrações ao Regulamento (CE) n.º 561/2006",
+    "Suprime 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0010))(Tacógrafo)"
+   ],
+   "fragments": [
+    "0b94131724bf6d19",
+    "2cbcaa0b929b65ba",
+    "acb98ace722de1d0",
+    "4a861b461f877671",
+    "20e71833388de557",
+    "c5edfa4d36135be0",
+    "bf99fe142d79985b",
+    "5214e237b6d9ef29",
+    "b0e914a571c0c68c",
+    "6aee6e43758da5cc",
+    "eb052e21293b646a",
+    "5ad0d8c719d19e6d",
+    "0a2ff62b9c88bcfe",
+    "3eaf3f35a1269ec0",
+    "398d0c2c3d7bad68",
+    "9b92eafd5200e9b3",
+    "a3be60afa85298d4",
+    "660205c0ff95eca0",
+    "e386df2fc72169b2",
+    "922de22160f0fdfa",
+    "d3d26ff61fad641c",
+    "d664376e2a8dcecd",
+    "87cee521b2f0bb1e",
+    "332c0d0f60bf89d6",
+    "6041be3baf7dcb43",
+    "cea5f2f344778c23",
+    "852174729551523b",
+    "984f1dc66c7823f5",
+    "f9b82dafa5ffa27f",
+    "c14cf8837134298e"
+   ]
+  }
+ ],
+ "fragments": {
+  "6a21e57f0b0e0833": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Março de 2006\n\nrelativa a exigências mínimas no que respeita à execução\n\ndos Regulamentos (CEE) n.º 3820/85 e (CEE) n.º 3821/85 do Conselho,\n\nquanto às disposições sociais no domínio das actividades de transporte rodoviário e que revoga a Directiva 88/599/CEE do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 71.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntr1-L_2006102PT.01003501-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntr2-L_2006102PT.01003501-E0002), tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 2005,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CEE) n.º 3820/85 do Conselho, de 20 de Dezembro de 1985, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários [([^3])](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntr3-L_2006102PT.01003501-E0003), o Regulamento (CEE) n.º 3821/85 do Conselho, de 20 de Dezembro de 1985, relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários [([^4])](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntr4-L_2006102PT.01003501-E0004), e a Directiva 2002/15/CE do Parlamento Europeu e do Conselho, de 11 de Março de 2002, relativa à organização do tempo de trabalho das pessoas que exercem actividades móveis de transporte rodoviário [([^5])](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntr5-L_2006102PT.01003501-E0005), são importantes para a criação de um mercado comum de serviços de transporte terrestre, para a segurança rodoviária e para as condições de trabalho.\n\n(2) No Livro Branco «A política europeia de transportes no horizonte 2010: a hora das opções», a Comissão indicou a necessidade de reforçar os controlos e as sanções, em especial no que se refere à legislação social no domínio das actividades de transporte rodoviário e, nomeadamente, a necessidade de aumentar o número de controlos, estimular as trocas sistemáticas de informação entre os Estados-Membros, coordenar as actividades de fiscalização e promover a formação de agentes responsáveis pela aplicação da lei.\n\n(3) É, pois, necessário assegurar uma aplicação adequada e uma interpretação harmonizada das regras sociais no transporte rodoviário, mediante o estabelecimento de requisitos mínimos no que respeita ao controlo uniforme e eficaz, por parte dos Estados-Membros, do cumprimento das disposições aplicáveis. Os controlos deverão servir para reduzir e prevenir infracções. Além disso, deverá ser introduzido um mecanismo que assegure que as empresas com uma classificação de risco elevado serão controladas com maior rigor e frequência.\n\n(4) Os riscos provocados pela fadiga dos condutores devem ser combatidos através da aplicação da Directiva 2002/15/CE.\n\n(5) As medidas previstas na presente directiva deverão não apenas conduzir a uma maior segurança rodoviária, mas contribuir igualmente para a harmonização das condições de trabalho na Comunidade e para a promoção de regras homogéneas.\n\n(6) A substituição dos tacógrafos analógicos por tacógrafos digitais permitirá progressivamente um controlo mais rápido e preciso de um maior volume de dados, razão pela qual os Estados-Membros estarão cada vez mais em condições de efectuar uma maior quantidade de controlos. Em termos de controlos, a percentagem de dias de trabalho dos condutores de veículos abrangidos pela legislação social que são controlados deverá aumentar gradualmente para 4%.\n\n(7) No que respeita aos sistemas de controlo, o objectivo deve consistir em fazer os sistemas nacionais evoluírem no sentido da interoperabilidade e aplicabilidade a nível europeu.\n\n(8) A todas as unidades de execução deverá ser disponibilizado equipamento normalizado suficiente e atribuídos poderes legais adequados para que possam cumprir efectiva e eficazmente as suas obrigações.\n\n(9) Sem prejuízo da correcta execução das funções que lhes são cometidas pela presente directiva, os Estados-Membros deverão procurar assegurar que os controlos na estrada sejam efectuados com uma eficácia e rapidez que permitam a sua conclusão no mínimo tempo possível, provocando o menor atraso possível ao condutor.\n\n(10) Em cada Estado-Membro deverá existir um órgão único de ligação intracomunitária com outras autoridades competentes. Esse órgão deverá igualmente compilar as estatísticas que se revelem pertinentes. Os Estados-Membros deverão igualmente aplicar no seu território uma estratégia nacional de execução coerente e podem designar um órgão único para coordenar a sua aplicação.\n\n(11) A cooperação entre as autoridades de execução dos Estados-Membros deverá ser promovida mediante controlos concertados, iniciativas de formação conjunta, o intercâmbio electrónico de informação e a troca de informações e experiências.\n\n(12) Por intermédio de um fórum das autoridades de aplicação da lei nos Estados-Membros, deverão ser facilitadas e promovidas as melhores práticas nas operações de execução relativas ao transporte rodoviário, nomeadamente para assegurar uma abordagem harmonizada da questão da prova no que respeita a férias ou doença do condutor.\n\n(13) As medidas necessárias à aplicação da presente directiva deverão ser adoptadas em conformidade com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^6])](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntr6-L_2006102PT.01003501-E0006).\n\n(14) Atendendo a que o objectivo da presente directiva, nomeadamente o estabelecimento de regras comuns claras sobre as exigências mínimas de controlo da aplicação correcta e uniforme do Regulamento (CEE) n º 3820/85, do Regulamento (CEE) n º 3821/85 e do Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho, de 15 de Março de 2006, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários, que altera os Regulamentos (CEE) n º 3821/85 e (CE) n.º 2135/98 do Conselho e revoga o Regulamento (CEE) nº 3820/85 [([^7])](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntr7-L_2006102PT.01003501-E0007) do Conselho, não pode, devido à necessidade de uma acção transnacional coordenada, ser suficientemente realizado pelos Estados-Membros, e pode pois ser melhor alcançado a nível comunitário, a Comunidade pode tomar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(15) A Directiva 88/599/CEE do Conselho, sobre procedimentos normalizados de controlo para execução do Regulamento (CEE) n.º 3820/85 e do Regulamento (CEE) n.º 3821/85 [([^8])](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntr8-L_2006102PT.01003501-E0008), deverá consequentemente ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "bb51fa73ff42bdc1": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva estabelece as condições mínimas para a aplicação do Regulamento (CEE) n.º 3820/85 e do Regulamento (CEE) n.º 3821/85."
+  },
+  "5bcd95e3f340a81d": {
+   "fragment_id": "Artigo 2.º — Sistemas de controlo",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Sistemas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sistemas de controlo\n\n1. Os Estados-Membros organizarão um sistema de controlos adequados e periódicos para uma aplicação correcta e coerente, tal como referido no artigo 1.º, tanto na estrada como nas instalações das empresas de todas as categorias de transporte.\n\nTais controlos incidirão todos os anos numa amostragem transversal ampla e representativa de trabalhadores móveis, condutores, empresas e veículos de todas as categorias de transporte abrangidas pelo Regulamento (CEE) n.º 3820/85 e pelo Regulamento (CEE) n.º 3821/85.\n\nCada Estado-Membro deve garantir a aplicação de uma estratégia nacional coerente no seu território. Para este efeito, os Estados-Membros podem designar um organismo de coordenação das acções empreendidas ao abrigo dos artigos 4.º e 6.º, do qual a Comissão e os restantes Estados-Membros serão informados.\n\n2. Se tal não for ainda o caso, os Estados-Membros atribuirão aos funcionários encarregados dos controlos, até 1 de Maio de 2007, todos os poderes legais adequados para que possam desempenhar correctamente as funções de inspecção que lhes incumbem por força da presente directiva.\n\n3. Cada Estado-Membro organizará os controlos de modo a que, a partir de 1 de Maio de 2006, 1% dos dias de trabalho dos condutores dos veículos abrangidos pelos Regulamentos (CEE) n.º 3820/85 e (CEE) n.º 3821/85 seja controlado. Esta percentagem aumentará no mínimo para 2% a partir de 1 de Janeiro de 2008 e no mínimo para 3% a partir de 1 de Janeiro de 2010.\n\nA partir de 1 de Janeiro de 2012, a Comissão poderá, nos termos do n.º 2 do artigo 12.º, aumentar esta percentagem mínima para 4%, desde que as estatísticas recolhidas de acordo com o artigo 3.º mostrem que mais de 90% de todos os veículos controlados estão equipados com um tacógrafo digital. Ao tomar a sua decisão, a Comissão terá também em conta a eficácia das medidas de execução em vigor, em especial a existência de dados de tacógrafo digital nas instalações das empresas.\n\nPelo menos 15% do total de dias de trabalho controlados corresponderão a controlos na estrada, e pelo menos 30% a controlos nas instalações das empresas. A partir de 1 de Janeiro de 2008, pelo menos 30% do total de dias de trabalho controlados corresponderão a controlos na estrada, e pelo menos 50% a controlos nas instalações das empresas.\n\n4. As informações fornecidas à Comissão de acordo com o n.º 2 do artigo 16.º do Regulamento (CEE) n.º 3820/85 incluirão o número de condutores controlados na estrada, o número de controlos nas instalações das empresas, o número de dias de trabalho controlados e o número e natureza das infracções registadas, indicando se se tratava de transporte de passageiros ou de mercadorias."
+  },
+  "9ab9834949e1d8b5": {
+   "fragment_id": "Artigo 3.º — Estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estatísticas\n\nOs Estados-Membros assegurarão que as estatísticas recolhidas a partir dos controlos organizados de acordo com os n.^os^ 1 e 3 do artigo 2.º sejam ventiladas segundo as seguintes categorias:\n\na) No que respeita à fiscalização na estrada: i) tipo de estrada, nomeadamente se se trata de uma auto-estrada, de uma estrada nacional ou de uma estrada secundária, e país de matrícula do veículo controlado, a fim de evitar qualquer discriminação; ii) tipo de tacógrafo: analógico ou digital;\n\ni) tipo de estrada, nomeadamente se se trata de uma auto-estrada, de uma estrada nacional ou de uma estrada secundária, e país de matrícula do veículo controlado, a fim de evitar qualquer discriminação;\n\nii) tipo de tacógrafo: analógico ou digital;\n\nb) No que respeita à fiscalização nas instalações: i) tipo de actividade de transporte, nomeadamente se a actividade é internacional ou nacional, de passageiros ou de carga, por conta própria ou por conta de outrem; ii) dimensão da frota da empresa; iii) tipo de tacógrafo: analógico ou digital.\n\ni) tipo de actividade de transporte, nomeadamente se a actividade é internacional ou nacional, de passageiros ou de carga, por conta própria ou por conta de outrem;\n\nii) dimensão da frota da empresa;\n\niii) tipo de tacógrafo: analógico ou digital.\n\nEstas estatísticas serão apresentadas bienalmente à Comissão e publicadas em relatório.\n\nAs autoridades competentes dos Estados-Membros inscreverão num registo os dados recolhidos no ano anterior.\n\nAs empresas responsáveis pelos condutores devem conservar, por um ano, os documentos, registos dos resultados e outros dados relevantes cedidos pelas autoridades responsáveis pela aplicação da lei relativamente aos controlos efectuados nas suas instalações e/ou aos controlos efectuados na estrada aos seus condutores.\n\nQualquer outra necessária clarificação das definições das categorias referidas nas alíneas a) e b) será efectuada pela Comissão nos termos do n.º 2 do artigo 12.º"
+  },
+  "0e0f21413b6c712f": {
+   "fragment_id": "Artigo 4.º — Controlos na estrada",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Controlos na estrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Controlos na estrada\n\n1. Os controlos na estrada deverão ser organizados em diferentes locais e a qualquer hora, e abrangerão uma fracção da rede rodoviária suficientemente extensa para dificultar a possibilidade de evitar os locais de controlo.\n\n2. Os Estados-Membros assegurarão que:\n\na) Exista um número suficiente de pontos de controlo nas ou na proximidade das estradas existentes e projectadas e, se necessário, que as estações de serviço e outros locais seguros ao longo das auto-estradas possam funcionar como pontos de controlo;\n\nb) Os controlos sejam efectuados segundo um sistema de rotação aleatório que observe um equilíbrio geográfico adequado.\n\n3. Os elementos a verificar nos controlos na estrada constam da parte A do anexo I. Se a situação o exigir, os controlos podem concentrar-se num elemento específico.\n\n4. Sem prejuízo do nº 2 do artigo 9º, os controlos na estrada devem ser realizados sem discriminação. Os agentes responsáveis pela aplicação da lei não devem discriminar, concretamente, em razão de:\n\na) País de matrícula do veículo;\n\nb) País de residência do condutor;\n\nc) País de estabelecimento da empresa;\n\nd) Origem e destino da viagem;\n\ne) Tipo de tacógrafo: analógico ou digital.\n\n5. Os agentes responsáveis pela aplicação da lei devem dispor:\n\na) De uma lista dos principais elementos a controlar, nos termos da parte A do anexo I;\n\nb) Do equipamento normalizado de controlo referido no anexo II.\n\n6. Caso os resultados de um controlo efectuado na estrada ao condutor de um veículo registado noutro Estado-Membro levem a supor que foram cometidas infracções não comprováveis pelo controlo devido à inexistência dos dados necessários, as autoridades competentes dos Estados-Membros em questão devem prestar-se assistência mútua no esclarecimento da situação."
+  },
+  "8c1624b1e5819e36": {
+   "fragment_id": "Artigo 5.º — Controlos concertados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Controlos concertados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlos concertados\n\nOs Estados-Membros devem efectuar, pelo menos seis vezes por ano, controlos concertados na estrada aos condutores e veículos abrangidos pelo Regulamento (CEE) n.º 3820/85 e pelo Regulamento (CEE) n.º 3821/85. Esses controlos devem ser efectuados simultaneamente pelas autoridades de controlo de dois ou mais Estados-Membros, agindo nos respectivos territórios."
+  },
+  "8c1954143862850a": {
+   "fragment_id": "Artigo 6.º — Controlos nas instalações das empresas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Controlos nas instalações das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Controlos nas instalações das empresas\n\n1. Os controlos nas instalações devem ser planeados à luz da experiência adquirida no passado com os diferentes tipos de transporte e de empresas. Serão igualmente efectuados quando se detectarem na estrada infracções graves ao Regulamento (CEE) n.º 3820/85 ou ao Regulamento (CEE) n.º 3821/85.\n\n2. Os controlos nas instalações abrangerão os elementos constantes das partes A e B do anexo I.\n\n3. Os agentes responsáveis pela aplicação da lei devem dispor:\n\na) De uma lista dos principais elementos a controlar, de acordo com as partes A e B do anexo I;\n\nb) Do equipamento normalizado de controlo referido no anexo II.\n\n4. No decurso da fiscalização, os agentes responsáveis pela aplicação da lei num Estado-Membro terão em conta todas as informações prestadas pelo organismo de ligação designado de outro Estado-Membro, referido no n.º 1 do artigo 7.º, no que respeita às actividades da empresa nesse outro Estado-Membro.\n\n5. Para efeitos dos n.^os^ 1 a 4, os controlos efectuados pelas autoridades competentes nas suas próprias instalações, com base em documentos e/ou dados pertinentes apresentados pelas empresas a pedido daquelas autoridades, têm valor idêntico ao dos controlos efectuados nas instalações das empresas."
+  },
+  "6bc2b6e4821644ab": {
+   "fragment_id": "Artigo 7.º — Ligação intracomunitária",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Ligação intracomunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ligação intracomunitária\n\n1. Cada Estado-Membro designará um organismo que terá as seguintes funções:\n\na) Assegurar a coordenação com os órgãos equivalentes dos outros Estados-Membros em questão para as acções efectuadas ao abrigo do artigo 5.º;\n\nb) Transmitir à Comissão, nos termos do n.º 2 do artigo 16.º do Regulamento (CEE) n.º 3820/85, os resultados estatísticos bienais;\n\nc) Assumir em primeira instância responsabilidade pela assistência às autoridades competentes dos outros Estados-Membros, nos termos do n.º 6 do artigo 4.º\n\nEste organismo estará representado no comité referido no n.º 1 do artigo 12.º\n\n2. Os Estados-Membros notificarão a Comissão da designação desse organismo e a Comissão informará os demais Estados-Membros desse facto.\n\n3. A troca de dados, experiências e informações entre os Estados-Membros será activamente promovida, sobretudo, mas não em exclusivo, pelo comité referido no n.º 1 do artigo 12.º e por qualquer órgão que a Comissão possa designar nos termos do n.º 2 do artigo 12.º"
+  },
+  "e8c1fb2b5d685e15": {
+   "fragment_id": "Artigo 8.º — Troca de informações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Troca de informações\n\n1. As informações disponibilizadas bilateralmente nos termos do n.º 3 do artigo 17.º do Regulamento (CEE) n.º 3820/85 ou do n.º 3 do artigo 19.º do Regulamento (CEE) n.º 3821/85 serão trocadas entre os organismos designados que, de acordo com o n.º 2 do artigo 7.º, tiverem sido notificados à Comissão:\n\na) Pelo menos de seis em seis meses após a data de entrada em vigor da presente directiva;\n\nb) Mediante pedido específico de um Estado-Membro em casos pontuais.\n\n2. Os Estados-Membros procurarão criar sistemas para a troca electrónica de informações. Nos termos do n.º 2 do artigo 12.º, a Comissão definirá uma metodologia comum para o intercâmbio eficaz de informações."
+  },
+  "8146dfc051eb8948": {
+   "fragment_id": "Artigo 9.º — Sistema comum de classificação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Sistema comum de classificação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sistema comum de classificação dos riscos\n\n1. Os Estados-Membros adoptarão um sistema de classificação dos riscos, no que respeita às empresas, de acordo com o número e a gravidade das infracções ao Regulamento (CEE) n.º 3820/85 ou ao Regulamento (CEE) n.º 3821/85 que cada empresa tiver cometido. A Comissão promoverá o diálogo entre Estados-Membros a fim de fomentar a coerência destes sistemas de classificação.\n\n2. As empresas com uma classificação de risco elevado serão controladas com maior rigor e frequência. Os critérios e modalidades de aplicação do sistema serão analisados no Comité a que se refere o artigo 12.º, tendo em vista estabelecer um sistema de troca de informações sobre melhores práticas.\n\n3. No anexo III é estabelecida uma lista inicial das infracções aos Regulamentos (CEE) n.º 3820/85 e (CEE) n.º 3821/85.\n\nA fim de estabelecer linhas directrizes para a apreciação das infracções aos Regulamentos (CEE) n.º 3820/85 e (CEE) n.º 3821/85, a Comissão pode, nos termos do n.º 2 do artigo 12.º, adaptar o anexo III a fim de definir essas linhas com base numa escala comum de infracções, divididas por categorias em função da sua gravidade.\n\nA categoria correspondente à infracção mais grave deve incluir as infracções nas quais o desrespeito das disposições aplicáveis dos Regulamentos (CEE) nº 3820/85 e (CEE) n.º 3821/85 provoca um risco sério de morte ou de ferimentos pessoais graves."
+  },
+  "eb052e21293b646a": {
+   "fragment_id": "Artigo 10.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório\n\nAté 1 de Maio de 2009, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório de análise das sanções previstas na legislação dos Estados-Membros para as infracções graves."
+  },
+  "95b79dadccb0a993": {
+   "fragment_id": "Artigo 11.º — Melhores práticas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Melhores práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Melhores práticas\n\n1. Nos termos do n.º 2 do artigo 12.º, a Comissão estabelecerá directrizes sobre as melhores práticas de controlo.\n\nTais directrizes serão publicadas em relatório bienal da Comissão.\n\n2. Pelo menos uma vez por ano, os Estados-Membros estabelecerão programas conjuntos de formação sobre melhores práticas e facilitarão intercâmbios entre o pessoal do organismo de ligação intracomunitário e dos seus congéneres dos demais Estados-Membros.\n\n3. Nos termos do n.º 2 do artigo 12.º, a Comissão elaborará formulários electrónicos, que possam ser imprimidos, destinados a ser utilizados quando o condutor tiver estado em situação de baixa por doença ou de gozo de férias anuais, ou quando o condutor tiver conduzido outro veículo, isento da aplicação do Regulamento (CEE) n.º 3820/85, durante o período previsto no primeiro travessão do primeiro parágrafo do n.º 7 do artigo 15.º do Regulamento (CEE) n.º 3821/85.\n\n4. Os Estados-Membros assegurarão que os agentes encarregados dos controlos sejam formados adequadamente para o desempenho das suas funções."
+  },
+  "82d77de536b8b6eb": {
+   "fragment_id": "Artigo 12.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de comité\n\n1. A Comissão é assistida pelo comité criado pelo n.º 1 do artigo 18.º do Regulamento (CEE) n.º 3821/85.\n\n2. Sempre que se remeter para o presente número, aplicam-se os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.º\n\nO prazo referido no n.º 6 do artigo 5.º da Decisão 1999/468/CE é fixado em três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "baaf630d10dd319f": {
+   "fragment_id": "Artigo 13.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas de execução\n\nA pedido de um Estado-Membro ou por sua própria iniciativa, a Comissão, nos termos do n.º 2 do artigo 12.º, adoptará medidas de execução, nomeadamente com um dos seguintes objectivos:\n\na) Promover uma abordagem comum para a execução da presente directiva;\n\nb) Estimular a coerência de abordagem e uma interpretação harmonizada do Regulamento (CEE) n.º 3820/85 entre as autoridades responsáveis pelos controlos;\n\nc) Favorecer o diálogo entre as empresas do sector dos transportes e as autoridades responsáveis pelos controlos."
+  },
+  "8e682c06722ca22c": {
+   "fragment_id": "Artigo 14.º — Negociações com países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Negociações com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Negociações com países terceiros\n\nApós a entrada em vigor da presente directiva, a Comunidade entabulará negociações com os países terceiros relevantes tendo em vista a aplicação de regras equivalentes às estabelecidas na presente directiva.\n\nEnquanto aguardam a conclusão dessas negociações, os Estados-Membros incluirão nos resultados estatísticos a enviar à Comissão nos termos do n.º 2 do artigo 16.º do Regulamento (CEE) n.º 3820/85 dados sobre os controlos efectuados a veículos de países terceiros."
+  },
+  "602297a04eed12af": {
+   "fragment_id": "Artigo 15.º — Actualização dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Actualização dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Actualização dos anexos\n\nAs alterações dos anexos necessárias para a sua adaptação à evolução das melhores práticas serão aprovadas nos termos do n.º 2 do artigo 12.º"
+  },
+  "67f1cafecf709658": {
+   "fragment_id": "Artigo 16.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor, até 1 de Abril de 2007, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva e comunicar imediatamente à Comissão o texto dessas disposições, bem como o quadro de correspondência entre as disposições da presente directiva e as disposições de direito interno adoptadas.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "e386df2fc72169b2": {
+   "fragment_id": "Artigo 17.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\n1. É revogada a Directiva 88/599/CEE.\n\n2. As remissões para a directiva revogada devem ser entendidas como sendo feitas para a presente directiva."
+  },
+  "2b373fd8861fd55d": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente directiva entra em vigor vinte dias após a sua publicação no *Jornal Oficial da União Europeia.*"
+  },
+  "bf0b3a9008fe8b13": {
+   "fragment_id": "Artigo 19.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 15 de Março de 2006.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**H. WINKLER**\n\n---"
+  },
+  "bf21b33b434ce6da": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntc1-L_2006102PT.01003501-E0001) [JO C 241 de 28.9.2004, p. 65](http://publications.europa.eu/resource/oj/JOC_2004_241_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntc2-L_2006102PT.01003501-E0002) Parecer do Parlamento Europeu de 20 de Abril de 2004 ([JO C 104 E de 30.4.2004, p. 385](http://publications.europa.eu/resource/oj/JOC_2004_104_E_TOC)), posição comum do Conselho de 9 de Dezembro de 2004 ([JO C 63 E de 15.3.2005, p. 1](http://publications.europa.eu/resource/oj/JOC_2005_063_E_TOC)) e posição do Parlamento Europeu de 13 de Abril de 2005 ([JO C 33 E de 9.2.2006, p. 415](http://publications.europa.eu/resource/oj/JOC_2006_033_E_TOC)). Resolução legislativa do Parlamento Europeu de 2 de Fevereiro de 2006 e decisão do Conselho de 2 de Fevereiro de 2006.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntc3-L_2006102PT.01003501-E0003) [JO L 370 de 31.12.1985, p. 1](http://publications.europa.eu/resource/oj/JOL_1985_370_R_TOC). Regulamento alterado pela Directiva 2003/59/CE do Parlamento Europeu e do Conselho ([JO L 226 de 10.9.2003, p. 4](http://publications.europa.eu/resource/oj/JOL_2003_226_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntc4-L_2006102PT.01003501-E0004) [JO L 370 de 31.12.1985, p. 8](http://publications.europa.eu/resource/oj/JOL_1985_370_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 432/2004 da Comissão ([JO L 71 de 10.3.2004, p. 3](http://publications.europa.eu/resource/oj/JOL_2004_071_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntc5-L_2006102PT.01003501-E0005) [JO L 80 de 23.3.2002, p. 35](http://publications.europa.eu/resource/oj/JOL_2002_080_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntc6-L_2006102PT.01003501-E0006) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC); rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntc7-L_2006102PT.01003501-E0007) [JO L 102 de 11.4.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_102_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/1e51f726-b0a9-4887-8fb3-7956a4f49223.0017.03/DOC_1#ntc8-L_2006102PT.01003501-E0008) [JO L 325 de 29.11.1988, p. 55](http://publications.europa.eu/resource/oj/JOL_1988_325_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 2135/98 ([JO L 274 de 9.10.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_274_R_TOC))."
+  },
+  "e0cd2a51567e31e3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Março de 2006\n\nrelativa a exigências mínimas no que respeita à execução dos Regulamentos (CEE) n.º 3820/85 e (CEE) n.º 3821/85 do Conselho, quanto às disposições sociais no domínio das actividades de transporte rodoviário e que revoga a Directiva 88/599/CEE do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 71.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0002)), tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 2005,\n\n(1) O Regulamento (CEE) n.º 3820/85 do Conselho, de 20 de Dezembro de 1985, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários ([^3^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0003)), o Regulamento (CEE) n.º 3821/85 do Conselho, de 20 de Dezembro de 1985, relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários ([^4^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0004)), e a Directiva 2002/15/CE do Parlamento Europeu e do Conselho, de 11 de Março de 2002, relativa à organização do tempo de trabalho das pessoas que exercem actividades móveis de transporte rodoviário ([^5^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0005)), são importantes para a criação de um mercado comum de serviços de transporte terrestre, para a segurança rodoviária e para as condições de trabalho.\n\n(2) No Livro Branco «A política europeia de transportes no horizonte 2010: a hora das opções», a Comissão indicou a necessidade de reforçar os controlos e as sanções, em especial no que se refere à legislação social no domínio das actividades de transporte rodoviário e, nomeadamente, a necessidade de aumentar o número de controlos, estimular as trocas sistemáticas de informação entre os Estados-Membros, coordenar as actividades de fiscalização e promover a formação de agentes responsáveis pela aplicação da lei.\n\n(3) É, pois, necessário assegurar uma aplicação adequada e uma interpretação harmonizada das regras sociais no transporte rodoviário, mediante o estabelecimento de requisitos mínimos no que respeita ao controlo uniforme e eficaz, por parte dos Estados-Membros, do cumprimento das disposições aplicáveis. Os controlos deverão servir para reduzir e prevenir infracções. Além disso, deverá ser introduzido um mecanismo que assegure que as empresas com uma classificação de risco elevado serão controladas com maior rigor e frequência.\n\n(4) Os riscos provocados pela fadiga dos condutores devem ser combatidos através da aplicação da Directiva 2002/15/CE.\n\n(5) As medidas previstas na presente directiva deverão não apenas conduzir a uma maior segurança rodoviária, mas contribuir igualmente para a harmonização das condições de trabalho na Comunidade e para a promoção de regras homogéneas.\n\n(6) A substituição dos tacógrafos analógicos por tacógrafos digitais permitirá progressivamente um controlo mais rápido e preciso de um maior volume de dados, razão pela qual os Estados-Membros estarão cada vez mais em condições de efectuar uma maior quantidade de controlos. Em termos de controlos, a percentagem de dias de trabalho dos condutores de veículos abrangidos pela legislação social que são controlados deverá aumentar gradualmente para 4 %.\n\n(7) No que respeita aos sistemas de controlo, o objectivo deve consistir em fazer os sistemas nacionais evoluírem no sentido da interoperabilidade e aplicabilidade a nível europeu.\n\n(8) A todas as unidades de execução deverá ser disponibilizado equipamento normalizado suficiente e atribuídos poderes legais adequados para que possam cumprir efectiva e eficazmente as suas obrigações.\n\n(9) Sem prejuízo da correcta execução das funções que lhes são cometidas pela presente directiva, os Estados-Membros deverão procurar assegurar que os controlos na estrada sejam efectuados com uma eficácia e rapidez que permitam a sua conclusão no mínimo tempo possível, provocando o menor atraso possível ao condutor.\n\n(10) Em cada Estado-Membro deverá existir um órgão único de ligação intracomunitária com outras autoridades competentes. Esse órgão deverá igualmente compilar as estatísticas que se revelem pertinentes. Os Estados-Membros deverão igualmente aplicar no seu território uma estratégia nacional de execução coerente e podem designar um órgão único para coordenar a sua aplicação.\n\n(11) A cooperação entre as autoridades de execução dos Estados-Membros deverá ser promovida mediante controlos concertados, iniciativas de formação conjunta, o intercâmbio electrónico de informação e a troca de informações e experiências.\n\n(12) Por intermédio de um fórum das autoridades de aplicação da lei nos Estados-Membros, deverão ser facilitadas e promovidas as melhores práticas nas operações de execução relativas ao transporte rodoviário, nomeadamente para assegurar uma abordagem harmonizada da questão da prova no que respeita a férias ou doença do condutor.\n\n(13) As medidas necessárias à aplicação da presente directiva deverão ser adoptadas em conformidade com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0006)).\n\n(14) Atendendo a que o objectivo da presente directiva, nomeadamente o estabelecimento de regras comuns claras sobre as exigências mínimas de controlo da aplicação correcta e uniforme do Regulamento (CEE) n º 3820/85, do Regulamento (CEE) n º 3821/85 e do Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho, de 15 de Março de 2006, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários, que altera os Regulamentos (CEE) n º 3821/85 e (CE) n.º 2135/98 do Conselho e revoga o Regulamento (CEE) nº 3820/85 ([^7^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0007)) do Conselho, não pode, devido à necessidade de uma acção transnacional coordenada, ser suficientemente realizado pelos Estados-Membros, e pode pois ser melhor alcançado a nível comunitário, a Comunidade pode tomar medidas, em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(15) A Directiva 88/599/CEE do Conselho, sobre procedimentos normalizados de controlo para execução do Regulamento (CEE) n.º 3820/85 e do Regulamento (CEE) n.º 3821/85 ([^8^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0008)), deverá consequentemente ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "700bd33aeaaee03d": {
+   "fragment_id": "Artigo 2.º — Sistemas de controlo",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Sistemas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sistemas de controlo\n\n1. Os Estados-Membros organizarão um sistema de controlos adequados e periódicos para uma aplicação correcta e coerente, tal como referido no artigo 1.º, tanto na estrada como nas instalações das empresas de todas as categorias de transporte.\n\nTais controlos incidirão todos os anos numa amostragem transversal ampla e representativa de trabalhadores móveis, condutores, empresas e veículos de todas as categorias de transporte abrangidas pelo Regulamento (CEE) n.º 3820/85 e pelo Regulamento (CEE) n.º 3821/85.\n\nCada Estado-Membro deve garantir a aplicação de uma estratégia nacional coerente no seu território. Para este efeito, os Estados-Membros podem designar um organismo de coordenação das acções empreendidas ao abrigo dos artigos 4.º e 6.º, do qual a Comissão e os restantes Estados-Membros serão informados.\n\n2. Se tal não for ainda o caso, os Estados-Membros atribuirão aos funcionários encarregados dos controlos, até 1 de Maio de 2007, todos os poderes legais adequados para que possam desempenhar correctamente as funções de inspecção que lhes incumbem por força da presente directiva.\n\n3. Cada Estado-Membro organizará os controlos de modo a que, a partir de 1 de Maio de 2006, 1 % dos dias de trabalho dos condutores dos veículos abrangidos pelos Regulamentos (CEE) n.º 3820/85 e (CEE) n.º 3821/85 seja controlado. Esta percentagem aumentará no mínimo para 2 % a partir de 1 de Janeiro de 2008 e no mínimo para 3 % a partir de 1 de Janeiro de 2010.\n\nA partir de 1 de Janeiro de 2012, a Comissão poderá, nos termos do n.º 2 do artigo 12.º, aumentar esta percentagem mínima para 4 %, desde que as estatísticas recolhidas de acordo com o artigo 3.º mostrem que mais de 90 % de todos os veículos controlados estão equipados com um tacógrafo digital. Ao tomar a sua decisão, a Comissão terá também em conta a eficácia das medidas de execução em vigor, em especial a existência de dados de tacógrafo digital nas instalações das empresas.\n\nPelo menos 15 % do total de dias de trabalho controlados corresponderão a controlos na estrada, e pelo menos 30 % a controlos nas instalações das empresas. A partir de 1 de Janeiro de 2008, pelo menos 30 % do total de dias de trabalho controlados corresponderão a controlos na estrada, e pelo menos 50 % a controlos nas instalações das empresas.\n\n4. As informações fornecidas à Comissão de acordo com o n.º 2 do artigo 16.º do Regulamento (CEE) n.º 3820/85 incluirão o número de condutores controlados na estrada, o número de controlos nas instalações das empresas, o número de dias de trabalho controlados e o número e natureza das infracções registadas, indicando se se tratava de transporte de passageiros ou de mercadorias."
+  },
+  "7057722c54fb3fdf": {
+   "fragment_id": "Artigo 3.º — Estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estatísticas\n\nOs Estados-Membros assegurarão que as estatísticas recolhidas a partir dos controlos organizados de acordo com os n.^os^ 1 e 3 do artigo 2.º sejam ventiladas segundo as seguintes categorias:\n\na) No que respeita à fiscalização na estrada:\n\ni) tipo de estrada, nomeadamente se se trata de uma auto-estrada, de uma estrada nacional ou de uma estrada secundária, e país de matrícula do veículo controlado, a fim de evitar qualquer discriminação;\n\nii) tipo de tacógrafo: analógico ou digital;\n\nb) No que respeita à fiscalização nas instalações:\n\ni) tipo de actividade de transporte, nomeadamente se a actividade é internacional ou nacional, de passageiros ou de carga, por conta própria ou por conta de outrem;\n\nii) dimensão da frota da empresa;\n\niii) tipo de tacógrafo: analógico ou digital.\n\nEstas estatísticas serão apresentadas bienalmente à Comissão e publicadas em relatório.\n\nAs autoridades competentes dos Estados-Membros inscreverão num registo os dados recolhidos no ano anterior.\n\nAs empresas responsáveis pelos condutores devem conservar, por um ano, os documentos, registos dos resultados e outros dados relevantes cedidos pelas autoridades responsáveis pela aplicação da lei relativamente aos controlos efectuados nas suas instalações e/ou aos controlos efectuados na estrada aos seus condutores.\n\nQualquer outra necessária clarificação das definições das categorias referidas nas alíneas a) e b) será efectuada pela Comissão nos termos do n.º 2 do artigo 12.º"
+  },
+  "922de22160f0fdfa": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente directiva entra em vigor vinte dias após a sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "d3d26ff61fad641c": {
+   "fragment_id": "Artigo 19.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "6cd9753221daf8f2": {
+   "fragment_id": "Parte A",
+   "type": "divisao",
+   "heading": "Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A"
+  },
+  "e78b3e5c2870ac6c": {
+   "fragment_id": "CONTROLOS NA ESTRADA",
+   "type": "divisao",
+   "heading": "CONTROLOS NA ESTRADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CONTROLOS NA ESTRADA\n\nOs controlos na estrada incidirão, em geral, sobre os seguintes elementos:\n\n1. Tempos de condução diária e semanal, pausas e períodos de descanso diários e semanais; igualmente, folhas de registo dos dias precedentes, que têm de ser conservadas a bordo do veículo por força do n.º 7 do artigo 15.º do Regulamento (CEE) n.º 3821/85, e/ou dados armazenados relativamente ao mesmo período no cartão do condutor e/ou na memória do equipamento de registo, nos termos do anexo II da presente directiva, e/ou em folhas impressas;\n\n2. Relativamente ao período referido no n.º 7 do artigo 15.º do Regulamento (CEE) n.º 3821/85, eventuais excessos à velocidade autorizada para o veículo, definidos, para os veículos da categoria N3, como períodos superiores a 1 minuto durante os quais o veículo circula a mais de 90 km/h e, para os veículos da categoria M3, como períodos superiores a 1 minuto durante os quais o veículo circula a mais de 105 km/h, entendendo-se como categorias N3 e M3 as definidas na parte A do anexo II da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à recepção dos veículos a motor e seus reboques ([^9^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0009));\n\n3. Quando se justifique, velocidades instantâneas do veículo registadas pelo aparelho de controlo durante as últimas 24 horas, no máximo, de utilização do veículo;\n\n4. Funcionamento correcto do aparelho de controlo (detecção de qualquer eventual manipulação do equipamento e/ou do cartão de condutor e/ou das folhas de registo) ou, se for o caso, presença dos documentos referidos no n.º 5 do artigo 14.º do Regulamento (CEE) n.º 3820/85;\n\n5. Quando se justifique, e atendendo devidamente aos aspectos de segurança, verificação do aparelho de controlo a fim de determinar se foi instalado e/ou utilizado qualquer dispositivo destinado a destruir, suprimir, manipular ou alterar dados ou a interferir com a transferência electrónica de dados entre os componentes do aparelho, ou que impeça o registo dos dados ou os altere antes da cifragem."
+  },
+  "c476005056aa0321": {
+   "fragment_id": "Parte B",
+   "type": "divisao",
+   "heading": "Parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B"
+  },
+  "bb5def2a40eaec85": {
+   "fragment_id": "CONTROLOS EM INSTALAÇÕES DE EMPRESAS",
+   "type": "divisao",
+   "heading": "CONTROLOS EM INSTALAÇÕES DE EMPRESAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CONTROLOS EM INSTALAÇÕES DE EMPRESAS\n\nPara além dos elementos referidos na parte A, os controlos nas instalações de empresas incidirão sobre os seguintes elementos:\n\n1. Períodos semanais de descanso e tempos de condução entre esses períodos de descanso;\n\n2. Limitação bissemanal dos tempos de condução;\n\n3. Folhas de registo, dados da unidade-veículo e do cartão de condutor e respectivas folhas impressas.\n\nOs Estados-Membros podem, se adequado e caso seja detectada uma infracção, controlar a co-responsabilidade de outros instigadores ou cúmplices da cadeia de transporte, como sejam expedidores, transitários ou contratantes, e designadamente verificar se os contratos de prestação de serviços de transporte permitem cumprir o Regulamento (CEE) n.º 3820/85 e o Regulamento (CEE) n.º 3821/85."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "984f1dc66c7823f5": {
+   "fragment_id": "Equipamento normalizado a disponibilizar às unidades responsáveis pelos controlos",
+   "type": "divisao",
+   "heading": "Equipamento normalizado a disponibilizar às unidades responsáveis pelos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Equipamento normalizado a disponibilizar às unidades responsáveis pelos controlos\n\nOs Estados-Membros assegurarão a disponibilização do seguinte equipamento normalizado às unidades responsáveis pelos controlos que executam as tarefas definidas no anexo I:\n\n1. Equipamento capaz de descarregar dados da unidade-veículo e do cartão de condutor a partir do tacógrafo digital e de ler e analisar dados e/ou transmitir factos detectados a uma base central para análise;\n\n2. Equipamento de controlo das folhas do tacógrafo;\n\n3. Equipamento de análise específico, dotado de *software* adequado, para verificar e confirmar a assinatura digital associada aos dados e *software* de análise capaz de estabelecer o perfil de velocidade do veículo previamente à inspecção do aparelho de controlo."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "38c4b39d60330656": {
+   "fragment_id": "Infracções",
+   "type": "divisao",
+   "heading": "Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Infracções\n\nEm conformidade com o n.º 3 do artigo 9.º, o quadro seguinte contém orientações sobre uma gama comum de infracções aos Regulamentos (CE) n.º 561/2006 e (CEE) n.º 3821/85, divididas por categorias segundo a respectiva gravidade.\n\n1. Grupos de infracções ao regulamento (CE) n.º 561/2006\n\n| N.º | Base jurídica | Tipo de infracção | Grau de gravidade [(^1^)](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0010) |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| VSI | SI | MI |  |  |  |  |\n| **A** | **Tripulação** |  |  |  |  |  |\n| A1 | Artigo 5.º, n.º 1 | [**►C1**](http://publications.europa.eu/resource/celex/32009L0005R%2802%29) Desrespeito da idade mínima dos cobradores**◄** |  | X |  |  |\n| **B** | **Tempos de condução** |  |  |  |  |  |\n| B1 | Artigo 6.º, n.º 1 | O período diário de condução de 9h foi excedido, sem autorização para ser alargado a 10h | 9 h<…<10 h |  |  | X |\n| B2 | 10 h<…<11 h |  | X |  |  |  |\n| B3 | 11 h<… | X |  |  |  |  |\n| B4 | O período diário de condução alargado a 10h mediante autorização foi excedido | 10 h<…<11 h |  |  | X |  |\n| B5 | 11 h<…<12 h |  | X |  |  |  |\n| B6 | 12 h<… | X |  |  |  |  |\n| B7 | Artigo 6.º, n.º 2 | O tempo semanal de condução foi excedido | 56 h<…<60 h |  |  | X |\n| B8 | 60 h<…<70 h |  | X |  |  |  |\n| B9 | 70 h<… | X |  |  |  |  |\n| B10 | Artigo 6.º, n.º 3 | O tempo de condução total acumulado em duas semanas consecutivas foi excedido | 90 h<…<100 h |  |  | X |\n| B11 | 100 h<…<112 h 30 |  | X |  |  |  |\n| B12 | 112 h 30<… | X |  |  |  |  |\n| **C** | **Pausas** |  |  |  |  |  |\n| C1 | Artigo 7.º | O período de condução ininterrupta foi excedido | 4 h 30<…<5 h |  |  | X |\n| C2 | 5 h<…<6 h |  | X |  |  |  |\n| C3 | 6 h<… | X |  |  |  |  |\n| **D** | **Períodos de repouso** |  |  |  |  |  |\n| D1 | Artigo 8.º, n.º 2 | Insuficiente período de repouso diário (menos de 11h), sem autorização para ser reduzido | 10 h<…<11 h |  |  | X |\n| D2 | 8 h 30<…<10 h |  | X |  |  |  |\n| D3 | …<8 h 30 | X |  |  |  |  |\n| D4 | Insuficiente período de repouso diário (menos de 9h), com autorização para ser reduzido | 8 h<…<9 h |  |  | X |  |\n| D5 | 7 h<…<8 h |  | X |  |  |  |\n| D6 | …<7 h | X |  |  |  |  |\n| D7 | Insuficiente período de repouso diário descontínuo (menos de 3h+9h) | 3h+[8h<…<9h] |  |  | X |  |\n| D8 | 3h+[7h<…<8h] |  | X |  |  |  |\n| D9 | 3h+[…<7h] | X |  |  |  |  |\n| D10 | Artigo 8.º, n.º 5 | Insuficiente período de repouso diário (menos de 9h) com tripulação múltipla | 8 h<…<9 h |  |  | X |\n| D11 | 7 h<…<8 h |  | X |  |  |  |\n| D12 | …<7 h | X |  |  |  |  |\n| D13 | Artigo 8.º, n.º 6 | Insuficiente período de repouso semanal reduzido (menos de 24h) | 22 h<…<24 h |  |  | X |\n| D14 | 20 h<…<22 h |  | X |  |  |  |\n| D15 | …<20 h | X |  |  |  |  |\n| D16 | Insuficiente período de repouso semanal (menos de 45h), sem autorização para ser reduzido | 42 h<…<45 h |  |  | X |  |\n| D17 | 36 h<…<42 h |  | X |  |  |  |\n| D18 | …<36 h | X |  |  |  |  |\n| **E** | **Tipos de remuneração** |  |  |  |  |  |\n| E1 | Artigo 10.º, n.º 1 | Associação da remuneração às distâncias percorridas ou ao volume das mercadorias transportadas | X |  |  |  |\n| (^1^)VSI = infracção muito grave/SI = infracção grave/MI = infracção menor |  |  |  |  |  |  |\n\n2. Grupos de infracções ao regulamento (CEE) n.º 3821/85\n\n| N.º | Base jurídica | Tipo de infracção | Nível de gravidadE [(^1^)](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#E0011) |  |  |\n| --- | --- | --- | --- | --- | --- |\n| VSI | SI | MI |  |  |  |\n| **F** | **Instalação de aparelho de controlo** |  |  |  |  |\n| F1 | Artigo 3.º, n.º 1 | Não foi instalado nem é utilizado aparelho de controlo de tipo homologado | X |  |  |\n| **G** | **Utilização de aparelho de controlo, cartão de condutor ou folha de registo** |  |  |  |  |\n| G1 | Artigo 13.º | Funcionamento incorrecto do aparelho de controlo (por exemplo: inspecção, calibragem e selagem inadequadas) | X |  |  |\n| G2 | Utilização incorrecta do aparelho de controlo (cartão de condutor inválido, abuso deliberado, etc.) | X |  |  |  |\n| G3 | Artigo 14.º, n.º 1 | Folhas de registo em número insuficiente |  | X |  |\n| G4 | Modelo de folhas de registo não homologado |  | X |  |  |\n| G5 | Papel de impressão em quantidade insuficiente |  |  | X |  |\n| G6 | Artigo 14.º, n.º 2 | A empresa não conserva folhas de registo, impressões ou dados descarregados | X |  |  |\n| G7 | Artigo 14.º, n.º 4 | O condutor é titular de mais de um cartão de condutor válido | X |  |  |\n| G8 | Artigo 14.º, n.º 4 | Utilização de um cartão de condutor que não é o cartão válido do condutor | X |  |  |\n| G9 | Artigo 14.º, n.º 4 | Utilização de cartão de condutor defeituoso ou expirado | X |  |  |\n| G10 | Artigo 14.º, n.º 5 | Os dados registados não foram mantidos em memória e disponibilizados durante pelo menos 365 dias | X |  |  |\n| G11 | Artigo 15.º, n.º 1 | Folhas de registo ou cartões de condutor sujos ou danificados mas dados legíveis |  |  | X |\n| G12 | Folhas de registo ou cartões de condutor sujos ou danificados e dados ilegíveis | X |  |  |  |\n| G13 | Perante danificação, mau funcionamento, extravio, furto ou roubo do cartão de condutor, a sua substituição não foi pedida no prazo de sete dias |  | X |  |  |\n| G14 | Artigo 15.º, n.º 2 | Utilização incorrecta de folhas de registo ou cartões de condutor | X |  |  |\n| G15 | Retirada não autorizada de folhas ou cartões de condutor, com impacto no registo de dados importantes | X |  |  |  |\n| G16 | Retirada não autorizada de folhas ou cartão de condutor, sem impacto nos dados registados |  |  | X |  |\n| G17 | Folha de registo ou cartão de condutor utilizados por período mais longo do que o previsto, mas sem perda de dados |  |  | X |  |\n| G18 | Folha de registo ou cartão de condutor utilizados por período mais longo do que o previsto, com perda de dados | X |  |  |  |\n| G19 | Não utilização da inscrição manual quando obrigatória | X |  |  |  |\n| G20 | Não utilização da folha correcta ou não inserção do cartão de condutor na ranhura certa (em situação de tripulação múltipla) | X |  |  |  |\n| G21 | Artigo 15.º, n.º 3 | A marcação horária na folha não concorda com a hora legal do país onde o veículo foi matriculado |  | X |  |\n| G22 | Accionamento incorrecto de dispositivo de comutação | X |  |  |  |\n| **H** | **Indicações a fornecer** |  |  |  |  |\n| H1 | Artigo 15.º, n.º 5 | Apelido não anotado na folha de registo | X |  |  |\n| H2 | Nome próprio não anotado na folha de registo | X |  |  |  |\n| H3 | Datas de início e de fim da utilização da folha não anotadas |  | X |  |  |\n| H4 | Lugares de início e de fim da utilização da folha não anotados |  |  | X |  |\n| H5 | Número da placa de matrícula do veículo não anotado na folha de registo |  |  | X |  |\n| H6 | Leitura do conta-quilómetros (início) não anotada na folha de registo |  | X |  |  |\n| H7 | Leitura do conta-quilómetros (fim) não anotada na folha de registo |  |  | X |  |\n| H8 | Hora de (eventual) mudança de veículo não anotada na folha de registo |  |  | X |  |\n| H9 | Artigo 15.º, n.º 5A | Símbolo do país não inserido no aparelho de controlo |  |  | X |\n| **I** | **Apresentação de elementos informativos** |  |  |  |  |\n| I1 | Artigo 15.º, n.º 7 | Recusa de sujeição a controlo | X |  |  |\n| I2 | Artigo 15.º, n.º 7 | Incapacidade de apresentar registos do dia em curso | X |  |  |\n| I3 | Incapacidade de apresentar registos dos 28 dias anteriores | X |  |  |  |\n| I4 | Incapacidade de apresentar registos do cartão de condutor, se o possuir | X |  |  |  |\n| I5 | [**►C1**](http://publications.europa.eu/resource/celex/32009L0005R%2802%29) Incapacidade de apresentar registos manuais e impressões, efectuados durante o dia em curso e nos 28 dias anteriores**◄** | X |  |  |  |\n| I6 | Incapacidade de apresentar o cartão de condutor | X |  |  |  |\n| I7 | [**►C1**](http://publications.europa.eu/resource/celex/32009L0005R%2802%29) Incapacidade de apresentar impressões efectuadas durante o dia em curso e nos 28 dias anteriores**◄** | X |  |  |  |\n| **J** | **Fraude** |  |  |  |  |\n| J1 | Artigo 15.º, n.º 8 | Falsificação, supressão ou destruição dos dados constantes das folhas de registo ou armazenados no aparelho de controlo ou no cartão de condutor e dos documentos impressos pelo aparelho de controlo | X |  |  |\n| J2 | Manipulações do aparelho de controlo, das folhas de registo ou do cartão de condutor que possam resultar na falsificação de dados e/ou impressões | X |  |  |  |\n| J3 | Presença no veículo de dispositivo de manipulação que possa ser utilizado para falsificar dados e/ou impressões (interruptor/cabo, etc.) | X |  |  |  |\n| **K** | **Avaria** |  |  |  |  |\n| K1 | Artigo 16.º, n.º 1 | Não reparada por instaladores ou oficinas aprovadas | X |  |  |\n| K2 | Não reparada no percurso |  | X |  |  |\n| **L** | **Inscrição manual em documentos impressos** |  |  |  |  |\n| L1 | Artigo 16.º, n.º 2 | Condutor não anotou todas as indicações relativas aos grupos de tempo que não são registados durante o período de avaria ou funcionamento defeituoso do aparelho | X |  |  |\n| L2 | Número do cartão de condutor e/ou nome e/ou número da licença de condução não anotados numa folha *ad hoc* | X |  |  |  |\n| L3 | Assinatura não aposta na folha *ad hoc* |  | X |  |  |\n| L4 | Artigo 16.º, n.º 3 | Perda, furto ou roubo do cartão de condutor não comunicados formalmente às autoridades competentes do Estado-Membro em que ocorreram | X |  |  |\n| (^1^)VSI = infracção muito grave/SI = infracção grave/MI = infracção menor |  |  |  |  |  |\n\n---"
+  },
+  "0937d81a7a83631a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0001)) JO C 241 de 28.9.2004, p. 65.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 20 de Abril de 2004 (JO C 104 E de 30.4.2004, p. 385), posição comum do Conselho de 9 de Dezembro de 2004 (JO C 63 E de 15.3.2005, p. 1) e posição do Parlamento Europeu de 13 de Abril de 2005 (JO C 33 E de 9.2.2006, p. 415). Resolução legislativa do Parlamento Europeu de 2 de Fevereiro de 2006 e decisão do Conselho de 2 de Fevereiro de 2006.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0003)) JO L 370 de 31.12.1985, p. 1. Regulamento alterado pela Directiva 2003/59/CE do Parlamento Europeu e do Conselho (JO L 226 de 10.9.2003, p. 4).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0004)) JO L 370 de 31.12.1985, p. 8. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 432/2004 da Comissão (JO L 71 de 10.3.2004, p. 3).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0005)) JO L 80 de 23.3.2002, p. 35.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23; rectificação no JO L 269 de 19.10.1999, p. 45.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0007)) JO L 102 de 11.4.2006, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0008)) JO L 325 de 29.11.1988, p. 55. Directiva alterada pelo Regulamento (CE) n.º 2135/98 (JO L 274 de 9.10.1998, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/43764628-c0de-46a9-843b-37cfe656fa7f.0018.03/DOC_1#src.E0009)) JO L 42 de 23.2.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2006/28/CE da Comissão (JO L 65 de 7.3.2006, p. 27)."
+  },
+  "8f7d20af68662785": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Março de 2006\n\nrelativa a exigências mínimas no que respeita à execução dos Regulamentos (CEE) n.º 3820/85 e (CEE) n.º 3821/85 do Conselho, quanto às disposições sociais no domínio das actividades de transporte rodoviário e que revoga a Directiva 88/599/CEE do Conselho\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "ddc4e29392084ac3": {
+   "fragment_id": "CONTROLOS NA ESTRADA",
+   "type": "divisao",
+   "heading": "CONTROLOS NA ESTRADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CONTROLOS NA ESTRADA\n\nOs controlos na estrada incidirão, em geral, sobre os seguintes elementos:\n\n1. Tempos de condução diária e semanal, pausas e períodos de descanso diários e semanais; igualmente, folhas de registo dos dias precedentes, que têm de ser conservadas a bordo do veículo por força do n.º 7 do artigo 15.º do Regulamento (CEE) n.º 3821/85, e/ou dados armazenados relativamente ao mesmo período no cartão do condutor e/ou na memória do equipamento de registo, nos termos do anexo II da presente directiva, e/ou em folhas impressas;\n\n2. Relativamente ao período referido no n.º 7 do artigo 15.º do Regulamento (CEE) n.º 3821/85, eventuais excessos à velocidade autorizada para o veículo, definidos, para os veículos da categoria N3, como períodos superiores a 1 minuto durante os quais o veículo circula a mais de 90 km/h e, para os veículos da categoria M3, como períodos superiores a 1 minuto durante os quais o veículo circula a mais de 105 km/h, entendendo-se como categorias N3 e M3 as definidas na parte A do anexo II da Directiva 70/156/CEE do Conselho, de 6 de Fevereiro de 1970, relativa à aproximação das legislações dos Estados-Membros respeitantes à recepção dos veículos a motor e seus reboques ([^1^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0001));\n\n3. Quando se justifique, velocidades instantâneas do veículo registadas pelo aparelho de controlo durante as últimas 24 horas, no máximo, de utilização do veículo;\n\n4. Funcionamento correcto do aparelho de controlo (detecção de qualquer eventual manipulação do equipamento e/ou do cartão de condutor e/ou das folhas de registo) ou, se for o caso, presença dos documentos referidos no n.º 5 do artigo 14.º do Regulamento (CEE) n.º 3820/85;\n\n5. Quando se justifique, e atendendo devidamente aos aspectos de segurança, verificação do aparelho de controlo a fim de determinar se foi instalado e/ou utilizado qualquer dispositivo destinado a destruir, suprimir, manipular ou alterar dados ou a interferir com a transferência electrónica de dados entre os componentes do aparelho, ou que impeça o registo dos dados ou os altere antes da cifragem."
+  },
+  "41b0956d7fbae5e2": {
+   "fragment_id": "1. Grupos de infrações ao Regulamento (CE) n.º 561/2006",
+   "type": "divisao",
+   "heading": "1. Grupos de infrações ao Regulamento (CE) n.º 561/2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Grupos de infrações ao Regulamento (CE) n.º 561/2006\n\n| N.º | BASE JURÍDICA | TIPO DE INFRAÇÃO | GRAU DE GRAVIDADE [(^1^)](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0002) |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| MSI | VSI | SI | MI |  |  |  |  |\n| **A** | **Tripulação** |  |  |  |  |  |  |\n| A1 | Artigo 5.º, n.º 1 | Desrespeito da idade mínima dos cobradores |  |  | X |  |  |\n| **B** | **Tempos de condução** |  |  |  |  |  |  |\n| B1 | Artigo 6.º, n.º 1 | Tempo diário de condução de 9 h excedido sem autorização para alargamento a 10 h | 9h < … < 10h |  |  |  | X |\n| B2 | 10h ≤ … < 11h |  |  | X |  |  |  |\n| B3 | 11h ≤ … |  | X |  |  |  |  |\n| B4 | Tempo diário de condução de 9 h excedido em 50 % ou mais, sem uma pausa ou um período de repouso de, pelo menos, 4,5 horas | 13h30 ≤ … e sem qualquer pausa/período de repouso | X |  |  |  |  |\n| B5 | Tempo diário de condução alargado de 10 h excedido, no caso de o alargamento ter sido autorizado | 10h < … < 11h |  |  |  | X |  |\n| B6 | 11h ≤ … < 12h |  |  | X |  |  |  |\n| B7 | 12h ≤ … |  | X |  |  |  |  |\n| B8 | Tempo diário de condução de 10 h excedido em 50 % ou mais, sem uma pausa ou um período de repouso de, pelo menos, 4,5 horas | 15h ≤ … e sem qualquer pausa/período de repouso | X |  |  |  |  |\n| B9 | Artigo 6.º, n.º 2 | Tempo de condução semanal excedido | 56h < … < 60h |  |  |  | X |\n| B10 | 60h ≤ … < 65h |  |  | X |  |  |  |\n| B11 | 65h ≤ … < 70h |  | X |  |  |  |  |\n| B12 | Tempo de condução semanal alargado excedido em 25 % ou mais | 70h ≤ … | X |  |  |  |  |\n| B13 | Artigo 6.º, n.º 3 | Tempo de condução total máximo em duas semanas consecutivas excedido | 90h < … < 100h |  |  |  | X |\n| B14 | 100h ≤ … < 105h |  |  | X |  |  |  |\n| B15 | 105h ≤ … < 112h30 |  | X |  |  |  |  |\n| B16 | Tempo de condução total máximo em duas semanas consecutivas excedido em 25 % ou mais | 112h30 ≤ … | X |  |  |  |  |\n| **C** | **Pausas** |  |  |  |  |  |  |\n| C1 | Artigo 7.º | Tempo de condução ininterrupta de 4,5 horas antes de uma pausa excedido | 4h30 < … < 5h |  |  |  | X |\n| C2 | 5h ≤ … < 6h |  |  | X |  |  |  |\n| C3 | 6h ≤ … |  | X |  |  |  |  |\n| **D** | **Períodos de repouso** |  |  |  |  |  |  |\n| D1 | Artigo 8.º, n.º 2 | Período de repouso diário insuficiente (menos de 11 h), sem autorização para um período de repouso diário reduzido | 10h ≤ … < 11h |  |  |  | X |\n| D2 | 8h30 ≤ … < 10h |  |  | X |  |  |  |\n| D3 | … < 8h30 |  | X |  |  |  |  |\n| D4 | Período de repouso diário reduzido insuficiente (menos de 9h), se tiver sido autorizada a redução | 8h ≤ … < 9h |  |  |  | X |  |\n| D5 | 7h ≤ … < 8h |  |  | X |  |  |  |\n| D6 | … < 7h |  | X |  |  |  |  |\n| D7 | Período de repouso diário descontínuo insuficiente (menos de 3h + 9h) | 3h + [8h ≤ … < 9h] |  |  |  | X |  |\n| D8 | 3h + [7h ≤ …< 8h] |  |  | X |  |  |  |\n| D9 | 3h + […< 7h] |  | X |  |  |  |  |\n| D10 | Artigo 8.º, n.º 5 | Período de repouso diário insuficiente (menos de 9 h) com tripulação múltipla | 8h ≤ … < 9h |  |  |  | X |\n| D11 | 7h ≤ … < 8h |  |  | X |  |  |  |\n| D12 | … < 7h |  | X |  |  |  |  |\n| D13 | Artigo 8.º, n.º 6 | Período de repouso semanal reduzido insuficiente (menos de 24 h) | 22h ≤ … < 24h |  |  |  | X |\n| D14 | 20h ≤ … < 22h |  |  | X |  |  |  |\n| D15 | … < 20h |  | X |  |  |  |  |\n| D16 | Período de repouso semanal insuficiente (menos de 45 h), sem autorização para período de repouso semanal reduzido | 42h ≤ … < 45h |  |  |  | X |  |\n| D17 | 36h ≤ … < 42h |  |  | X |  |  |  |\n| D18 | … < 36h |  | X |  |  |  |  |\n| D19 | Artigo 8.º, n.º 6 | Seis períodos consecutivos de 24 horas após o período anterior de repouso semanal excedidos | … < 3h |  |  |  | X |\n| D20 | 3h ≤ … < 12h |  |  | X |  |  |  |\n| D21 | 12h ≤ … |  | X |  |  |  |  |\n| **E** | **Derrogação à regra dos 12 dias** |  |  |  |  |  |  |\n| E1 | Artigo 8.º, n.º 6-A | 12 períodos de 24 horas consecutivos após o período anterior de repouso semanal excedidos | … < 3h |  |  |  | X |\n| E2 | 3h ≤ … < 12h |  |  | X |  |  |  |\n| E3 | 12h ≤ … |  | X |  |  |  |  |\n| E4 | Artigo 8.º, n.º 6-A, b), ii) | Período de repouso semanal gozado após 12 períodos de 24 horas consecutivos | 65h < … ≤ 67h |  |  | X |  |\n| E5 | … ≤ 65h |  | X |  |  |  |  |\n| E6 | Artigo 8.º, n.º 6-A, d) | Período de condução, entre as 22.00 h e as 6.00 h, de mais de 3 horas antes da pausa, se a condução do veículo não for assegurada por mais de um condutor | 3h < … < 4,5h |  |  | X |  |\n| E7 | 4,5h ≤ … |  | X |  |  |  |  |\n| **F** | **Organização do trabalho** |  |  |  |  |  |  |\n| F1 | Artigo 10.º, n.º 1 | Associação da remuneração à distância percorrida ou ao volume de mercadorias transportadas |  | X |  |  |  |\n| F2 | Artigo 10.º, n.º 2 | Falta de organização ou organização inadequada do trabalho do condutor, instruções inadequadas ou ausência de instruções que permitam ao condutor cumprir a regulamentação |  | X |  |  |  |\n| (^1^)MSI = Infração de máxima gravidade/VSI = Infração muito grave/SI = Infração grave/MI = Infração menor |  |  |  |  |  |  |  |"
+  },
+  "9572698b2a51f4aa": {
+   "fragment_id": "2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0003))(Tacógrafo)",
+   "type": "divisao",
+   "heading": "2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0003))(Tacógrafo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0003))(Tacógrafo)\n\n| N.º | BASE JURÍDICA | TIPO DE INFRAÇÃO | GRAU DE GRAVIDADE |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| MSI | VSI | SI | MI |  |  |  |\n| **G** | **Instalação de um tacógrafo** |  |  |  |  |  |\n| G1 | Artigo 3.º, n.º 1, e artigo 22.º, n.º 2 | Não está instalado nem é utilizado um tacógrafo homologado *(por exemplo: falta de um tacógrafo que tenha sido instalado por instaladores, oficinas ou fabricantes de veículos aprovados pelas autoridades competentes dos Estados-Membros, utilização de um tacógrafo sem que os selos necessários tenham sido colocados ou substituídos por um instalador, oficina ou fabricante de veículos aprovado ou utilização de um tacógrafo sem a chapa da instalação)* | X |  |  |  |\n| **H** | **Utilização do tacógrafo, cartão de condutor ou folha de registo** |  |  |  |  |  |\n| H1 | Artigo 23.º, n.º 1 | Utilização de um tacógrafo não inspecionado por uma oficina aprovada |  | X |  |  |\n| H2 | Artigo 27.º | Condutor titular e/ou utilizador de mais de um cartão de condutor |  | X |  |  |\n| H3 | Condução com cartão de condutor falsificado (*considerado condução sem cartão de condutor*) | X |  |  |  |  |\n| H4 | Condução com um cartão de condutor de que o condutor não é titular (*considerado condução sem cartão de condutor*) | X |  |  |  |  |\n| H5 | Condução com cartão de condutor obtido com base em declarações falsas e/ou em documentos falsos *(considerado condução sem cartão de condutor)* | X |  |  |  |  |\n| H6 | Artigo 32.º, n.º 1 | Mau funcionamento do tacógrafo *(por exemplo: tacógrafo não devidamente inspecionado, calibrado e selado)* |  | X |  |  |\n| H7 | Artigo 32.º, n.º 1, e artigo 33.º, n.º 1 | Utilização indevida do tacógrafo *(p. ex.: utilização indevida deliberada, voluntária ou imposta, falta de instruções sobre a utilização correta, etc.)* |  | X |  |  |\n| H8 | Artigo 32.º, n.º 3 | Utilização de dispositivo fraudulento capaz de alterar os registos do tacógrafo | X |  |  |  |\n| H9 | Falsificação, ocultação, supressão ou destruição dos dados constantes das folhas de registo ou armazenados no tacógrafo e/ou no cartão de condutor | X |  |  |  |  |\n| H10 | Artigo 33.º, n.º 2 | Empresa não conserva as folhas de registo, as impressões ou os dados descarregados |  | X |  |  |\n| H11 | Dados registados e arquivados não disponíveis pelo menos durante um ano |  | X |  |  |  |\n| H12 | Artigo 34.º, n.º 1 | Utilização incorreta de folhas de registo ou cartões de condutor |  | X |  |  |\n| H13 | Retirada não autorizada de folhas de registo ou de cartões de condutor, com impacto no registo de dados importantes |  | X |  |  |  |\n| H14 | Utilização de folhas de registo ou cartões de condutor por um período mais longo do que o previsto, com perda de dados |  | X |  |  |  |\n| H15 | Artigo 34.º, n.º 2 | Utilização de folhas de registo ou de cartões de condutor sujos ou danificados e com dados ilegíveis |  | X |  |  |\n| H16 | Artigo 34.º, n.º 3 | Não utilização da anotação manual, quando obrigatória |  | X |  |  |\n| H17 | Artigo 34.º, n.º 4 | Não utilização da folha de registo correta ou não inserção do cartão de condutor na ranhura certa (em caso de tripulação múltipla) |  |  | X |  |\n| H18 | Artigo 34.º, n.º 5 | Acionamento incorreto de dispositivo de comutação |  | X |  |  |\n| **I** | **Apresentação de elementos informativos** |  |  |  |  |  |\n| I1 | Artigo 36.º | Recusa de sujeição a controlo |  | X |  |  |\n| I2 | Artigo 36.º | Não apresentação dos registos do respeitantes ao dia em curso e aos 28 dias anteriores |  | X |  |  |\n| I3 | Não apresentação dos registos do cartão de condutor, se o condutor for titular de tal cartão |  | X |  |  |  |\n| I4 | Artigo 36.º | Não apresentação dos registos manuais e impressões respeitantes ao dia em curso e aos 28 dias anteriores |  | X |  |  |\n| I5 | Artigo 36.º | Não apresentação do cartão de condutor, se o condutor for titular de um tal cartão |  | X |  |  |\n| **J** | **Mau funcionamento** |  |  |  |  |  |\n| J1 | Artigo 37.º, n.º 1, e artigo 22.º, n.º 1 | Tacógrafo não reparado por um instalador ou oficina aprovado |  | X |  |  |\n| J2 | Artigo 37.º, n.º 2 | Não anotação pelo condutor de todas as indicações relativas aos períodos não registados por motivo de avaria ou mau funcionamento do tacógrafo |  | X |  |  |\n\n---"
+  },
+  "fbd8c59ce6a7b304": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#src.E0001)) JO L 42 de 23.2.1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2006/28/CE da Comissão (JO L 65 de 7.3.2006, p. 27).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6d411be1-d1c3-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#src.E0003)) Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, relativo à utilização de tacógrafos nos transportes rodoviários, que revoga o Regulamento (CEE) n.º 3821/85 do Conselho relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários e que altera o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários (JO L 60 de 28.2.2014, p. 1)."
+  },
+  "0b94131724bf6d19": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Março de 2006\n\nrelativa a exigências mínimas no que respeita à execução dos Regulamentos (CE) n.º 561/2006 e (UE) n.º 165/2014 e da Diretiva 2002/15/CE no que diz respeito às disposições sociais no domínio das atividades de transporte rodoviário e que revoga a Diretiva 88/599/CEE do Conselho\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "d81d0400e7d20aa0": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente diretiva estabelece as exigências mínimas para a execução dos Regulamentos (CE) n.º 561/2006 ([^1^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0001)) e (UE) n.º 165/2014 ([^2^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0002)) do Parlamento Europeu e do Conselho e da Diretiva 2002/15/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0003))."
+  },
+  "acb98ace722de1d0": {
+   "fragment_id": "Artigo 2.º — Sistemas de controlo",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Sistemas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sistemas de controlo\n\n1.\n\nOs Estados-Membros organizarão um sistema de controlos adequados e periódicos para uma aplicação correcta e coerente, tal como referido no artigo 1.º, tanto na estrada como nas instalações das empresas de todas as categorias de transporte.\n\nTais controlos incidem todos os anos sobre uma amostragem transversal ampla e representativa dos trabalhadores móveis, condutores, empresas e veículos abrangidos pelos Regulamentos (CE) n.º 561/2006 e (UE) n.º 165/2014 e dos trabalhadores móveis e condutores abrangidos pela Diretiva 2002/15/CE. Os controlos do cumprimento da Diretiva 2002/15/CE realizados na estrada limitam-se àquilo que possa ser controlado eficazmente por meio do tacógrafo e do aparelho de controlo conexo. Uma verificação exaustiva do cumprimento da Diretiva 2002/15/CE só pode ser efetuada nas instalações.\n\nCada Estado-Membro deve garantir a aplicação de uma estratégia nacional coerente no seu território. Para este efeito, os Estados-Membros podem designar um organismo de coordenação das acções empreendidas ao abrigo dos artigos 4.º e 6.º, do qual a Comissão e os restantes Estados-Membros serão informados.\n\n2. Se tal não for ainda o caso, os Estados-Membros atribuirão aos funcionários encarregados dos controlos, até 1 de Maio de 2007, todos os poderes legais adequados para que possam desempenhar correctamente as funções de inspecção que lhes incumbem por força da presente directiva.\n\n3.\n\n[**►M4**](http://publications.europa.eu/resource/celex/32020L1057)\n\nCada Estado-Membro organiza os controlos de modo a que, pelo menos, 3% dos dias de trabalho dos condutores dos veículos abrangidos pelos Regulamentos (CE) n.º 561/2006 e (UE) n.º 165/2014 sejam controlados. Durante os controlos na estrada, o condutor está autorizado a contactar a sede da empresa, o gestor de transportes ou qualquer outra pessoa ou entidade a fim de apresentar, antes do fim do controlo na estrada, qualquer dos elementos de prova que não se encontre a bordo do veículo, o que não prejudica a obrigação de o condutor assegurar a utilização correta do equipamento tacográfico.\n\nA partir de 1 de janeiro de 2012, a Comissão pode, por meio de um ato de execução, aumentar a percentagem mínima para 4%, desde que as estatísticas recolhidas nos termos do artigo 3.º mostrem que, em média, mais de 90% de todos os veículos controlados estão equipados com um tacógrafo digital. Ao tomar a sua decisão, a Comissão deve também ter em conta a eficácia das medidas de execução existentes, em especial a disponibilidade de dados tacográficos digitais nas instalações das empresas. Õ referido ato de execução é adotado pelo procedimento de exame a que se refere o artigo 12.º, n.º 2.\n\n**◄**\n\nPelo menos 15 % do total de dias de trabalho controlados corresponderão a controlos na estrada, e pelo menos 30 % a controlos nas instalações das empresas. A partir de 1 de Janeiro de 2008, pelo menos 30 % do total de dias de trabalho controlados corresponderão a controlos na estrada, e pelo menos 50 % a controlos nas instalações das empresas.\n\n3-A. Cada Estado-Membro organiza controlos do cumprimento da Diretiva 2002/15/CE, tendo em conta o sistema de classificação dos riscos previsto no artigo 9.º da presente diretiva. Estes controlos visam as empresas nas quais um ou mais dos seus condutores tiverem infringido continuamente ou de forma grave o Regulamento (CE) n.º 561/2006 ou o (UE) n.º 165/2014.\n\n4. As informações fornecidas à Comissão de acordo com o artigo 17.º do Regulamento (CE) n.º 561/2006 e com o artigo 13.º da Diretiva 2002/15/CE incluem o número de condutores controlados na estrada, o número de controlos nas instalações das empresas, o número de dias de trabalho controlados e o número e natureza das infrações registadas, e deve indicar se se tratava de transporte de passageiros ou de mercadorias."
+  },
+  "4a861b461f877671": {
+   "fragment_id": "Artigo 3.º — Estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estatísticas\n\nOs Estados-Membros assegurarão que as estatísticas recolhidas a partir dos controlos organizados de acordo com os n.^os^ 1 e 3 do artigo 2.º sejam ventiladas segundo as seguintes categorias:\n\na) No que respeita à fiscalização na estrada:\n\ni) tipo de estrada, nomeadamente se se trata de uma auto-estrada, de uma estrada nacional ou de uma estrada secundária, e país de matrícula do veículo controlado, a fim de evitar qualquer discriminação;\n\nii) tipo de tacógrafo: analógico ou digital;\n\nb) No que respeita à fiscalização nas instalações:\n\ni) tipo de actividade de transporte, nomeadamente se a actividade é internacional ou nacional, de passageiros ou de carga, por conta própria ou por conta de outrem;\n\nii) dimensão da frota da empresa;\n\niii) tipo de tacógrafo: analógico ou digital.\n\nEstas estatísticas serão apresentadas bienalmente à Comissão e publicadas em relatório.\n\nAs autoridades competentes dos Estados-Membros inscreverão num registo os dados recolhidos no ano anterior.\n\nAs empresas responsáveis pelos condutores devem conservar, por um ano, os documentos, registos dos resultados e outros dados relevantes cedidos pelas autoridades responsáveis pela aplicação da lei relativamente aos controlos efectuados nas suas instalações e/ou aos controlos efectuados na estrada aos seus condutores.\n\nA Comissão deve, se necessário, esclarecer melhor, por meio de atos de execução, as definições das categorias mencionadas no primeiro parágrafo, alíneas a) e b). Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2."
+  },
+  "20e71833388de557": {
+   "fragment_id": "Artigo 4.º — Controlos na estrada",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Controlos na estrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Controlos na estrada\n\n1. Os controlos na estrada deverão ser organizados em diferentes locais e a qualquer hora, e abrangerão uma fracção da rede rodoviária suficientemente extensa para dificultar a possibilidade de evitar os locais de controlo.\n\n2.\n\nOs Estados-Membros assegurarão que:\n\na) Exista um número suficiente de pontos de controlo nas ou na proximidade das estradas existentes e projectadas e, se necessário, que as estações de serviço e outros locais seguros ao longo das auto-estradas possam funcionar como pontos de controlo;\n\nb) Os controlos sejam efectuados segundo um sistema de rotação aleatório que observe um equilíbrio geográfico adequado.\n\n3. Os elementos a verificar nos controlos na estrada constam da parte A do anexo I. Se a situação o exigir, os controlos podem concentrar-se num elemento específico.\n\n4.\n\nSem prejuízo do nº 2 do artigo 9º, os controlos na estrada devem ser realizados sem discriminação. Os agentes responsáveis pela aplicação da lei não devem discriminar, concretamente, em razão de:\n\na) País de matrícula do veículo;\n\nb) País de residência do condutor;\n\nc) País de estabelecimento da empresa;\n\nd) Origem e destino da viagem;\n\ne) Tipo de tacógrafo: analógico ou digital.\n\n5.\n\nOs agentes responsáveis pela aplicação da lei devem dispor:\n\na) De uma lista dos principais elementos a controlar, nos termos da parte A do anexo I;\n\nb) Do equipamento normalizado de controlo referido no anexo II.\n\n6. Caso os resultados de um controlo efectuado na estrada ao condutor de um veículo registado noutro Estado-Membro levem a supor que foram cometidas infracções não comprováveis pelo controlo devido à inexistência dos dados necessários, as autoridades competentes dos Estados-Membros em questão devem prestar-se assistência mútua no esclarecimento da situação."
+  },
+  "c5edfa4d36135be0": {
+   "fragment_id": "Artigo 5.º — Controlos concertados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Controlos concertados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlos concertados\n\nOs Estados-Membros efetuam, pelo menos seis vezes por ano, controlos concertados na estrada aos condutores e veículos abrangidos pelo Regulamento (CE) n.º 561/2006 ou pelo Regulamento (UE) n.º 165/2014. Além disso, os Estados-Membros tentam organizar controlos concertados nas instalações das empresas.\n\nEsses controlos concertados são efetuados simultaneamente pelas autoridades de controlo de dois ou mais Estados-Membros, agindo nos respetivos territórios."
+  },
+  "bf99fe142d79985b": {
+   "fragment_id": "Artigo 6.º — Controlos nas instalações das empresas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Controlos nas instalações das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Controlos nas instalações das empresas\n\n1. Os controlos nas instalações são planeados à luz da experiência adquirida no passado com os diferentes tipos de transporte e de empresas. São igualmente efetuados quando se detetarem na estrada infrações graves aos Regulamentos (CE) n.º 561/2006 e (UE) n.º 165/2014 ou à Diretiva 2002/15/CE.\n\n2. Os controlos nas instalações abrangerão os elementos constantes das partes A e B do anexo I.\n\n3.\n\nOs agentes responsáveis pela aplicação da lei devem dispor:\n\na) De uma lista dos principais elementos a controlar, de acordo com as partes A e B do anexo I;\n\nb) Do equipamento normalizado de controlo referido no anexo II.\n\n4. No decurso da fiscalização, os agentes responsáveis pela aplicação da lei num Estado-Membro terão em conta todas as informações prestadas pelo organismo de ligação designado de outro Estado-Membro, referido no n.º 1 do artigo 7.º, no que respeita às actividades da empresa nesse outro Estado-Membro.\n\n5. Para efeitos dos n.^os^ 1 a 4, os controlos efectuados pelas autoridades competentes nas suas próprias instalações, com base em documentos e/ou dados pertinentes apresentados pelas empresas a pedido daquelas autoridades, têm valor idêntico ao dos controlos efectuados nas instalações das empresas."
+  },
+  "5214e237b6d9ef29": {
+   "fragment_id": "Artigo 7.º — Ligação intracomunitária",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Ligação intracomunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ligação intracomunitária\n\n1.\n\nCada Estado-Membro designará um organismo que terá as seguintes funções:\n\na) Assegurar a coordenação com os órgãos equivalentes dos outros Estados-Membros em questão para as acções efectuadas ao abrigo do artigo 5.º;\n\nb) Transmitir à Comissão, nos termos do artigo 17.º do Regulamento (CE) n.º 561/2006, os resultados estatísticos bienais;\n\nc) Assumir em primeira instância responsabilidade pela assistência às autoridades competentes dos outros Estados-Membros, nos termos do n.º 6 do artigo 4.º;\n\nd) Garantir o intercâmbio de informações com os outros Estados-Membros nos termos do artigo 8.º da presente diretiva no que diz respeito à aplicação das disposições nacionais de transposição da presente diretiva e da Diretiva 2002/15/CE.\n\nEste organismo estará representado no comité referido no n.º 1 do artigo 12.º\n\n2. Os Estados-Membros notificarão a Comissão da designação desse organismo e a Comissão informará os demais Estados-Membros desse facto.\n\n3. O intercâmbio de dados, de experiências e informações entre Estados-Membros será ativamente promovido, principalmente, mas não exclusivamente, através do comité referido no artigo 12.º, n.º 1, e de qualquer organismo que a Comissão possa designar por meio de atos de execução. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2."
+  },
+  "a370a47ddb41dd65": {
+   "fragment_id": "Artigo 8.º — Troca de informações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Troca de informações\n\n«1.\n\nAs informações disponibilizadas bilateralmente nos termos do artigo 22.º, n.º 3, do Regulamento (CE) n.º 561/2006 são igualmente trocadas entre os organismos designados que, de acordo com o artigo 7.º da presente diretiva, tiverem sido notificados à Comissão:\n\na) pelo menos de seis em seis meses após a data de entrada em vigor da presente diretiva;\n\nb) mediante pedido fundamentado de um Estado-Membro em casos pontuais.\n\n2. Os Estados-Membros fornecem as informações solicitadas por outros Estados-Membros, nos termos do n.º 1, alínea b), no prazo de 25 dias úteis a contar da data de receção do pedido. Pode ser determinado um prazo mais curto, por mútuo acordo entre os Estados-Membros. Em casos urgentes ou situações que exijam uma simples consulta de registos, como, por exemplo, o registo de um sistema de classificação de riscos, as informações solicitadas são apresentadas no prazo de três dias úteis.\n\nQuando o Estado-Membro requerido considerar que o pedido não se encontra suficientemente fundamentado, informa o Estado-Membro requerente desse facto, no prazo de dez dias úteis a contar da a receção da solicitação. O Estado-Membro requerente fundamenta o seu pedido com mais informações. Se o Estado-Membro requerente não for capaz de fundamentar o seu pedido com mais informações, o pedido pode ser indeferido pelo Estado-Membro requerido.\n\nNo caso de ser difícil ou impossível satisfazer um pedido de informações ou efetuar controlos, inspeções ou investigações, o Estado-Membro requerido informa o Estado-Membro requerente desse facto no prazo de dez dias úteis a contar desde a receção da solicitação e comunica as razões que fundamentam devidamente essa dificuldade ou impossibilidade. Os Estados-Membros em causa devem dialogar para encontrar uma solução.\n\nNo caso de atrasos persistentes na prestação das informações ao Estado-Membro em cujo território o trabalhador estiver destacado, a Comissão é informada e toma as medidas adequadas.\n\n3. O intercâmbio de informações previsto no presente artigo é efetuado através do Sistema de Informação do Mercado Interno (IMI), criado pelo Regulamento (UE) n.º 1024/2012 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0004)). No entanto, esta regra não se aplica às informações trocadas pelos Estados-Membros por consulta direta aos registos eletrónicos nacionais a que se refere o artigo 16.º, n.º 5, do Regulamento (CE) n.º 1071/2009 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0005))."
+  },
+  "6aee6e43758da5cc": {
+   "fragment_id": "Artigo 9.º — Sistema comum de classificação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Sistema comum de classificação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sistema comum de classificação dos riscos\n\n1. Os Estados-Membros adotam um sistema de classificação dos riscos, no que respeita às empresas, de acordo com o número e a gravidade das infrações ao Regulamento (CE) n.º 561/2006 ou ao Regulamento (UE) n.º 165/2014 ou às disposições nacionais que transpõem a Diretiva 2002/15/CE que cada empresa tiver cometido.\n\nAté 2 de fevereiro de 2021, a Comissão estabelece, por meio de atos de execução, uma fórmula comum para calcular a classificação dos riscos das empresas. Essa fórmula comum deve ter em conta o número, a gravidade e a frequência de ocorrência das infrações, bem como os resultados dos controlos no caso de não terem sido detetadas infrações e de a empresa de transporte rodoviário ter utilizado o tacógrafo inteligente nos termos do capítulo II do Regulamento (UE) n.º 165/2014 em todos os seus veículos. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2, da presente diretiva.\n\n2. As empresas com uma classificação de risco elevado serão controladas com maior rigor e frequência. [**►M4**](http://publications.europa.eu/resource/celex/32020L1057) —————º—————**◄**\n\n3. No anexo III é estabelecida uma lista inicial das infrações ao Regulamento (CE) n.º 561/2006 e ao Regulamento (UE) n.º 165/2014, e do seu nível de gravidade.\n\nA fim de estabelecer ou atualizar a ponderação da gravidade das infrações ao Regulamento (CE) n.º 561/2006 ou ao Regulamento (UE) N.º 165/2014, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 15.º-A da presente diretiva a fim de alterar o anexo III, tendo em conta a evolução regulamentar e considerações relativas à segurança rodoviária.\n\nA categoria correspondente às infrações mais graves inclui as infrações em que o incumprimento das disposições aplicáveis dos Regulamentos (CE) n.º 561/2006 e (UE) n.º 165/2014 provoca um risco sério de morte ou de danos corporais graves.\n\n4. A fim de facilitar a realização de controlos seletivos na estrada, os dados constantes do sistema nacional de classificação dos riscos são facultados a todas as autoridades de controlo competentes do Estado-Membro em causa no momento do controlo.\n\n5. Os Estados-Membros disponibilizam diretamente as informações constantes do sistema nacional de classificação dos riscos, através dos registos eletrónicos nacionais interoperáveis, tal como referido no artigo 16.º do Regulamento (CE) n.º 1071/2009, a todas as autoridades competentes dos outros Estados-Membros, nos termos do artigo 16.º, n.º 2 do mesmo Regulamento."
+  },
+  "5ad0d8c719d19e6d": {
+   "fragment_id": "Artigo 11.º — Melhores práticas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Melhores práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Melhores práticas\n\n1. A Comissão estabelece, por meio de atos de execução, orientações sobre as melhores práticas de execução. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.^o„^ n.º 2.\n\nEssas orientações serão publicadas num relatório bienal da Comissão.\n\n2. Pelo menos uma vez por ano, os Estados-Membros estabelecerão programas conjuntos de formação sobre melhores práticas e facilitarão intercâmbios entre o pessoal do organismo de ligação intracomunitário e dos seus congéneres dos demais Estados-Membros.\n\n3. A Comissão estabelece, por meio de atos de execução, uma abordagem comum para o registo e controlo dos períodos dedicados a outros trabalhos, conforme definido no artigo 4.º, alínea e), do Regulamento (CE) n.º 561/2006, designadamente a forma e os casos específicos em que se deve proceder ao registo, assim como para o registo e o controlo dos períodos de, pelo menos, uma semana, durante os quais o condutor está afastado do veículo e não está em condições de realizar quaisquer atividades com o veículo em causa. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2, da presente diretiva.\n\n4. Os Estados-Membros assegurarão que os agentes encarregados dos controlos sejam formados adequadamente para o desempenho das suas funções."
+  },
+  "724c928a8078994a": {
+   "fragment_id": "Artigo 12.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 42.º, n.º 1, do Regulamento (UE) n.º 165/2014. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0006)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNa falta de parecer do comité, a Comissão não adota o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "3eaf3f35a1269ec0": {
+   "fragment_id": "Artigo 13.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas de execução\n\nA pedido de um Estado-Membro ou por sua própria iniciativa, a Comissão adota atos de execução, em especial com um dos seguintes objetivos:\n\na) promover uma abordagem comum para a execução da presente diretiva;\n\nb) estimular a coerência de abordagem e uma interpretação harmonizada do Regulamento (CE) n.º 561/2006 entre as autoridades responsáveis pelos controlos;\n\nc) facilitar o diálogo entre o setor dos transportes e as autoridades de execução.\n\nOs referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 12.º, n.º 2, da presente diretiva."
+  },
+  "398d0c2c3d7bad68": {
+   "fragment_id": "Artigo 14.º — Negociações com países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Negociações com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Negociações com países terceiros\n\nApós a entrada em vigor da presente diretiva, a União enceta negociações com os países terceiros relevantes tendo em vista a aplicação de regras equivalentes às estabelecidas na presente diretiva.\n\nEnquanto aguardam a conclusão dessas negociações, os Estados-Membros incluem nos resultados estatísticos a enviar à Comissão nos termos do artigo 17.º do Regulamento (CE) n.º 561/2006 dados sobre os controlos efetuados a veículos de países terceiros."
+  },
+  "9b92eafd5200e9b3": {
+   "fragment_id": "Artigo 15.º — Atualização dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Atualização dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Atualização dos anexos\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 15.º-A para alterar os anexos I e II a fim de efetuar as adaptações necessárias para refletir a evolução das boas práticas."
+  },
+  "cd1ceb5ae1a37291": {
+   "fragment_id": "Artigo 15.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 9.º, n.º 3, e no artigo 15.º, é conferido à Comissão por um prazo de cinco anos a contar de 2 de agosto de 2020. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 9.º, n.º 3, e no artigo 15.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^7^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0007)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 9.º, n.º 3, e do artigo 15.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "660205c0ff95eca0": {
+   "fragment_id": "Artigo 16.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transposição\n\n1.\n\nOs Estados-Membros devem pôr em vigor, até 1 de Abril de 2007, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva e comunicar imediatamente à Comissão o texto dessas disposições, bem como o quadro de correspondência entre as disposições da presente directiva e as disposições de direito interno adoptadas.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "e6181283d8f05537": {
+   "fragment_id": "CONTROLOS NA ESTRADA",
+   "type": "divisao",
+   "heading": "CONTROLOS NA ESTRADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CONTROLOS NA ESTRADA\n\nOs controlos na estrada incidirão, em geral, sobre os seguintes elementos:\n\n1. Tempos de condução diária e semanal, pausas e períodos de descanso diários e semanais; igualmente, folhas de registo dos dias precedentes, que têm de ser conservadas a bordo do veículo por força do artigo 36.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 165/2014, e/ou dados armazenados relativamente ao mesmo período no cartão do condutor e/ou na memória do equipamento de registo, nos termos do anexo II da presente diretiva, e/ou em folhas impressas;\n\n2. Relativamente ao período referido no artigo 36.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 165/2014, eventuais excessos à velocidade autorizada para o veículo, definidos, para os veículos da categoria N3, como períodos superiores a 1 minuto durante os quais o veículo circula a mais de 90 km/h e, para os veículos da categoria M3, como períodos superiores a 1 minuto durante os quais o veículo circula a mais de 105 km/h, entendendo-se como categorias N3 e M3 as definidas na Diretiva 2007/46/CE do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0008));\n\n3. Quando se justifique, velocidades instantâneas do veículo registadas pelo aparelho de controlo durante as últimas 24 horas, no máximo, de utilização do veículo;\n\n4. Funcionamento correto do aparelho de controlo (deteção de qualquer eventual manipulação do equipamento e/ou do cartão de condutor e/ou das folhas de registo) ou, se for o caso, presença dos documentos referidos no artigo 16.º, n.º 2, do Regulamento (CE) n.º 561/2006;\n\n5. Quando se justifique, e atendendo devidamente aos aspectos de segurança, verificação do aparelho de controlo a fim de determinar se foi instalado e/ou utilizado qualquer dispositivo destinado a destruir, suprimir, manipular ou alterar dados ou a interferir com a transferência electrónica de dados entre os componentes do aparelho, ou que impeça o registo dos dados ou os altere antes da cifragem;\n\n6. Tempo máximo alargado de trabalho semanal de 60 horas, tal como previsto no artigo 4.º, alínea a), da Diretiva 2002/15/CE; outro tempo de trabalho semanal, tal como previsto nos artigos 4.º e 5.º da Diretiva 2002/15/CE, apenas nos casos em que a tecnologia disponível permita realizar esses controlos com eficácia."
+  },
+  "cea5f2f344778c23": {
+   "fragment_id": "CONTROLOS EM INSTALAÇÕES DE EMPRESAS",
+   "type": "divisao",
+   "heading": "CONTROLOS EM INSTALAÇÕES DE EMPRESAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CONTROLOS EM INSTALAÇÕES DE EMPRESAS\n\nPara além dos elementos referidos na parte A, os controlos nas instalações de empresas incidirão sobre os seguintes elementos:\n\n1. Períodos semanais de descanso e tempos de condução entre esses períodos de descanso;\n\n2. Limitação bissemanal dos tempos de condução;\n\n3. Folhas de registo, dados da unidade-veículo e do cartão de condutor e respectivas folhas impressas;\n\n4. Cumprimento dos requisitos relativos ao tempo médio máximo de trabalho semanal, pausas e trabalho noturno estabelecidos nos artigos 4.º, 5.º e 7.º da Diretiva 2002/15/CE;\n\n5. Observância das obrigações das empresas no que diz respeito ao pagamento do alojamento dos condutores e à organização do tempo de trabalho dos condutores nos termos dos artigos 8.º, n.^os^ 8 e 8-A, do Regulamento (CE) n.º 561/2006.\n\nOs Estados-Membros podem, se adequado e caso seja detetada uma infração, controlar a corresponsabilidade de outros instigadores ou cúmplices da cadeia de transporte, como sejam expedidores, transitários ou contratantes, e designadamente verificar se os contratos de prestação de serviços de transporte permitem cumprir o Regulamento (CE) n.º 561/85 e o Regulamento (UE) n.º 165/2014."
+  },
+  "241c092a09138137": {
+   "fragment_id": "1. Grupos de infrações ao Regulamento (CE) n.º 561/2006",
+   "type": "divisao",
+   "heading": "1. Grupos de infrações ao Regulamento (CE) n.º 561/2006",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Grupos de infrações ao Regulamento (CE) n.º 561/2006\n\n| N.º | BASE JURÍDICA | TIPO DE INFRAÇÃO | GRAU DE GRAVIDADE [(^1^)](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0009) |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| MSI | VSI | SI | MI |  |  |  |  |\n| **A** | **Tripulação** |  |  |  |  |  |  |\n| A1 | Artigo 5.º, n.º 1 | Desrespeito da idade mínima dos cobradores |  |  | X |  |  |\n| **B** | **Tempos de condução** |  |  |  |  |  |  |\n| B1 | Artigo 6.º, n.º 1 | Tempo diário de condução de 9 h excedido sem autorização para alargamento a 10 h | 9h < … < 10h |  |  |  | X |\n| B2 | 10h ≤ … < 11h |  |  | X |  |  |  |\n| B3 | 11h ≤ … |  | X |  |  |  |  |\n| B4 | Tempo diário de condução de 9 h excedido em 50 % ou mais, sem uma pausa ou um período de repouso de, pelo menos, 4,5 horas | 13h30 ≤ … e sem qualquer pausa/período de repouso | X |  |  |  |  |\n| B5 | Tempo diário de condução alargado de 10 h excedido, no caso de o alargamento ter sido autorizado | 10h < … < 11h |  |  |  | X |  |\n| B6 | 11h ≤ … < 12h |  |  | X |  |  |  |\n| B7 | 12h ≤ … |  | X |  |  |  |  |\n| B8 | Tempo diário de condução de 10 h excedido em 50 % ou mais, sem uma pausa ou um período de repouso de, pelo menos, 4,5 horas | 15h ≤ … e sem qualquer pausa/período de repouso | X |  |  |  |  |\n| B9 | Artigo 6.º, n.º 2 | Tempo de condução semanal excedido | 56h < … < 60h |  |  |  | X |\n| B10 | 60h ≤ … < 65h |  |  | X |  |  |  |\n| B11 | 65h ≤ … < 70h |  | X |  |  |  |  |\n| B12 | Tempo de condução semanal alargado excedido em 25 % ou mais | 70h ≤ … | X |  |  |  |  |\n| B13 | Artigo 6.º, n.º 3 | Tempo de condução total máximo em duas semanas consecutivas excedido | 90h < … < 100h |  |  |  | X |\n| B14 | 100h ≤ … < 105h |  |  | X |  |  |  |\n| B15 | 105h ≤ … < 112h30 |  | X |  |  |  |  |\n| B16 | Tempo de condução total máximo em duas semanas consecutivas excedido em 25 % ou mais | 112h30 ≤ … | X |  |  |  |  |\n| **C** | **Pausas** |  |  |  |  |  |  |\n| C1 | Artigo 7.º | Tempo de condução ininterrupta de 4,5 horas antes de uma pausa excedido | 4h30 < … < 5h |  |  |  | X |\n| C2 | 5h ≤ … < 6h |  |  | X |  |  |  |\n| C3 | 6h ≤ … |  | X |  |  |  |  |\n| **D** | **Períodos de repouso** |  |  |  |  |  |  |\n| D1 | Artigo 8.º, n.º 2 | Período de repouso diário insuficiente (menos de 11 h), sem autorização para um período de repouso diário reduzido | 10h ≤ … < 11h |  |  |  | X |\n| D2 | 8h30 ≤ … < 10h |  |  | X |  |  |  |\n| D3 | … < 8h30 |  | X |  |  |  |  |\n| D4 | Período de repouso diário reduzido insuficiente (menos de 9h), se tiver sido autorizada a redução | 8h ≤ … < 9h |  |  |  | X |  |\n| D5 | 7h ≤ … < 8h |  |  | X |  |  |  |\n| D6 | … < 7h |  | X |  |  |  |  |\n| D7 | Período de repouso diário descontínuo insuficiente (menos de 3h + 9h) | 3h + [8h ≤ … < 9h] |  |  |  | X |  |\n| D8 | 3h + [7h ≤ …< 8h] |  |  | X |  |  |  |\n| D9 | 3h + […< 7h] |  | X |  |  |  |  |\n| D10 | Artigo 8.º, n.º 5 | Período de repouso diário insuficiente (menos de 9 h) com tripulação múltipla | 8h ≤ … < 9h |  |  |  | X |\n| D11 | 7h ≤ … < 8h |  |  | X |  |  |  |\n| D12 | … < 7h |  | X |  |  |  |  |\n| D13 | Artigo 8.º, n.º 6 | Período de repouso semanal reduzido insuficiente (menos de 24 h) | 22h ≤ … < 24h |  |  |  | X |\n| D14 | 20h ≤ … < 22h |  |  | X |  |  |  |\n| D15 | … < 20h |  | X |  |  |  |  |\n| D16 | Período de repouso semanal insuficiente (menos de 45 h), sem autorização para período de repouso semanal reduzido | 42h ≤ … < 45h |  |  |  | X |  |\n| D17 | 36h ≤ … < 42h |  |  | X |  |  |  |\n| D18 | … < 36h |  | X |  |  |  |  |\n| D19 | Artigo 8.º, n.º 6 | Seis períodos consecutivos de 24 horas após o período anterior de repouso semanal excedidos | … < 3h |  |  |  | X |\n| D20 | 3h ≤ … < 12h |  |  | X |  |  |  |\n| D21 | 12h ≤ … |  | X |  |  |  |  |\n| **E** | **Derrogação à regra dos 12 dias** |  |  |  |  |  |  |\n| E1 | Artigo 8.º, n.º 6-A | 12 períodos de 24 horas consecutivos após o período anterior de repouso semanal excedidos | … < 3h |  |  |  | X |\n| E2 | 3h ≤ … < 12h |  |  | X |  |  |  |\n| E3 | 12h ≤ … |  | X |  |  |  |  |\n| E4 | Artigo 8.º, n.º 6-A, b), ii) | Período de repouso semanal gozado após 12 períodos de 24 horas consecutivos | 65h < … ≤ 67h |  |  | X |  |\n| E5 | … ≤ 65h |  | X |  |  |  |  |\n| E6 | Artigo 8.º, n.º 6-A, d) | Período de condução, entre as 22.00 h e as 6.00 h, de mais de 3 horas antes da pausa, se a condução do veículo não for assegurada por mais de um condutor | 3h < … < 4,5h |  |  | X |  |\n| E7 | 4,5h ≤ … |  | X |  |  |  |  |\n| **F** | **Organização do trabalho** |  |  |  |  |  |  |\n| F1 | Artigo 10.º, n.º 1 | Associação da remuneração à distância percorrida ou ao volume de mercadorias transportadas |  | X |  |  |  |\n| F2 | Artigo 10.º, n.º 2 | Falta de organização ou organização inadequada do trabalho do condutor, instruções inadequadas ou ausência de instruções que permitam ao condutor cumprir a regulamentação |  | X |  |  |  |\n| (^1^) MSI = Infração de máxima gravidade/VSI = Infração muito grave/SI = Infração grave/MI = Infração menor |  |  |  |  |  |  |  |"
+  },
+  "424f35f932725a5e": {
+   "fragment_id": "2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0010))(Tacógrafo)",
+   "type": "divisao",
+   "heading": "2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0010))(Tacógrafo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Grupos de infrações ao Regulamento (CE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#E0010))(Tacógrafo)\n\n| N.º | BASE JURÍDICA | TIPO DE INFRAÇÃO | GRAU DE GRAVIDADE |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| MSI | VSI | SI | MI |  |  |  |\n| **G** | **Instalação de um tacógrafo** |  |  |  |  |  |\n| G1 | Artigo 3.º, n.º 1, e artigo 22.º, n.º 2 | Não está instalado nem é utilizado um tacógrafo homologado *(por exemplo: falta de um tacógrafo que tenha sido instalado por instaladores, oficinas ou fabricantes de veículos aprovados pelas autoridades competentes dos Estados-Membros, utilização de um tacógrafo sem que os selos necessários tenham sido colocados ou substituídos por um instalador, oficina ou fabricante de veículos aprovado ou utilização de um tacógrafo sem a chapa da instalação)* | X |  |  |  |\n| **H** | **Utilização do tacógrafo, cartão de condutor ou folha de registo** |  |  |  |  |  |\n| H1 | Artigo 23.º, n.º 1 | Utilização de um tacógrafo não inspecionado por uma oficina aprovada |  | X |  |  |\n| H2 | Artigo 27.º | Condutor titular e/ou utilizador de mais de um cartão de condutor |  | X |  |  |\n| H3 | Condução com cartão de condutor falsificado (*considerado condução sem cartão de condutor*) | X |  |  |  |  |\n| H4 | Condução com um cartão de condutor de que o condutor não é titular (*considerado condução sem cartão de condutor*) | X |  |  |  |  |\n| H5 | Condução com cartão de condutor obtido com base em declarações falsas e/ou em documentos falsos *(considerado condução sem cartão de condutor)* | X |  |  |  |  |\n| H6 | Artigo 32.º, n.º 1 | Mau funcionamento do tacógrafo *(por exemplo: tacógrafo não devidamente inspecionado, calibrado e selado)* |  | X |  |  |\n| H7 | Artigo 32.º, n.º 1, e artigo 33.º, n.º 1 | Utilização indevida do tacógrafo *(p. ex.: utilização indevida deliberada, voluntária ou imposta, falta de instruções sobre a utilização correta, etc.)* |  | X |  |  |\n| H8 | Artigo 32.º, n.º 3 | Utilização de dispositivo fraudulento capaz de alterar os registos do tacógrafo | X |  |  |  |\n| H9 | Falsificação, ocultação, supressão ou destruição dos dados constantes das folhas de registo ou armazenados no tacógrafo e/ou no cartão de condutor | X |  |  |  |  |\n| H10 | Artigo 33.º, n.º 2 | Empresa não conserva as folhas de registo, as impressões ou os dados descarregados |  | X |  |  |\n| H11 | Dados registados e arquivados não disponíveis pelo menos durante um ano |  | X |  |  |  |\n| H12 | Artigo 34.º, n.º 1 | Utilização incorreta de folhas de registo ou cartões de condutor |  | X |  |  |\n| H13 | Retirada não autorizada de folhas de registo ou de cartões de condutor, com impacto no registo de dados importantes |  | X |  |  |  |\n| H14 | Utilização de folhas de registo ou cartões de condutor por um período mais longo do que o previsto, com perda de dados |  | X |  |  |  |\n| H15 | Artigo 34.º, n.º 2 | Utilização de folhas de registo ou de cartões de condutor sujos ou danificados e com dados ilegíveis |  | X |  |  |\n| H16 | Artigo 34.º, n.º 3 | Não utilização da anotação manual, quando obrigatória |  | X |  |  |\n| H17 | Artigo 34.º, n.º 4 | Não utilização da folha de registo correta ou não inserção do cartão de condutor na ranhura certa (em caso de tripulação múltipla) |  |  | X |  |\n| H18 | Artigo 34.º, n.º 5 | Acionamento incorreto de dispositivo de comutação |  | X |  |  |\n| **I** | **Apresentação de elementos informativos** |  |  |  |  |  |\n| I1 | Artigo 36.º | Recusa de sujeição a controlo |  | X |  |  |\n| I2 | Artigo 36.º | Não apresentação dos registos do respeitantes ao dia em curso e aos 28 dias anteriores |  | X |  |  |\n| I3 | Não apresentação dos registos do cartão de condutor, se o condutor for titular de tal cartão |  | X |  |  |  |\n| I4 | Artigo 36.º | Não apresentação dos registos manuais e impressões respeitantes ao dia em curso e aos 28 dias anteriores |  | X |  |  |\n| I5 | Artigo 36.º | Não apresentação do cartão de condutor, se o condutor for titular de um tal cartão |  | X |  |  |\n| **J** | **Mau funcionamento** |  |  |  |  |  |\n| J1 | Artigo 37.º, n.º 1, e artigo 22.º, n.º 1 | Tacógrafo não reparado por um instalador ou oficina aprovado |  | X |  |  |\n| J2 | Artigo 37.º, n.º 2 | Não anotação pelo condutor de todas as indicações relativas aos períodos não registados por motivo de avaria ou mau funcionamento do tacógrafo |  | X |  |  |\n\n---"
+  },
+  "35e62aade008a59a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho, de 15 de março de 2006, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários, que altera os Regulamentos (CEE) n.º 3821/85 e (CEE) n.º 2135/98 do Conselho e revoga o Regulamento (CEE) n.º 3820/85 do Conselho (JO L 102 de 11.4.2006, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, relativo à utilização de tacógrafos nos transportes rodoviários, que revoga o Regulamento (CEE) n.º 3821/85 do Conselho relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários e que altera o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários (JO L 60 de 28.2.2014, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Diretiva 2002/15/CE do Parlamento Europeu e do Conselho, de 11 de março de 2002, relativa à organização do tempo de trabalho das pessoas que exercem atividades móveis de transporte rodoviário (JO L 80 de 23.3.2002, p. 35).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 1024/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno e que revoga a Decisão 2008/49/CE da Comissão (“Regulamento IMI”) (JO L 316 de 14.11.2012, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Regulamento (CE) n.º 1071/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece regras comuns no que se refere aos requisitos para o exercício da atividade de transportador rodoviário e que revoga a Diretiva 96/26/CE do Conselho (JO L 300 de 14.11.2009, p. 51).»\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0007)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0008)) Diretiva 2007/46/CE do Parlamento Europeu e do Conselho, de 5 de setembro de 2007, que estabelece um quadro para a homologação dos veículos a motor e seus reboques, e dos sistemas, componentes e unidades técnicas destinados a serem utilizados nesses veículos (Diretiva-Quadro) (JO L 263 de 9.10.2007, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/3d2b4118-6d62-11ec-9136-01aa75ed71a1.0019.02/DOC_1#src.E0010)) Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, relativo à utilização de tacógrafos nos transportes rodoviários, que revoga o Regulamento (CEE) n.º 3821/85 do Conselho relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários e que altera o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários (JO L 60 de 28.2.2014, p. 1)."
+  },
+  "2cbcaa0b929b65ba": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente diretiva estabelece as exigências mínimas para a execução dos Regulamentos (CE) n.º 561/2006 ([^1^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0001)) e (UE) n.º 165/2014 ([^2^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0002)) do Parlamento Europeu e do Conselho e da Diretiva 2002/15/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0003))."
+  },
+  "b0e914a571c0c68c": {
+   "fragment_id": "Artigo 8.º — Troca de informações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Troca de informações\n\n«1.\n\nAs informações disponibilizadas bilateralmente nos termos do artigo 22.º, n.º 3, do Regulamento (CE) n.º 561/2006 são igualmente trocadas entre os organismos designados que, de acordo com o artigo 7.º da presente diretiva, tiverem sido notificados à Comissão:\n\na) pelo menos de seis em seis meses após a data de entrada em vigor da presente diretiva;\n\nb) mediante pedido fundamentado de um Estado-Membro em casos pontuais.\n\n2. Os Estados-Membros fornecem as informações solicitadas por outros Estados-Membros, nos termos do n.º 1, alínea b), no prazo de 25 dias úteis a contar da data de receção do pedido. Pode ser determinado um prazo mais curto, por mútuo acordo entre os Estados-Membros. Em casos urgentes ou situações que exijam uma simples consulta de registos, como, por exemplo, o registo de um sistema de classificação de riscos, as informações solicitadas são apresentadas no prazo de três dias úteis.\n\nQuando o Estado-Membro requerido considerar que o pedido não se encontra suficientemente fundamentado, informa o Estado-Membro requerente desse facto, no prazo de dez dias úteis a contar da a receção da solicitação. O Estado-Membro requerente fundamenta o seu pedido com mais informações. Se o Estado-Membro requerente não for capaz de fundamentar o seu pedido com mais informações, o pedido pode ser indeferido pelo Estado-Membro requerido.\n\nNo caso de ser difícil ou impossível satisfazer um pedido de informações ou efetuar controlos, inspeções ou investigações, o Estado-Membro requerido informa o Estado-Membro requerente desse facto no prazo de dez dias úteis a contar desde a receção da solicitação e comunica as razões que fundamentam devidamente essa dificuldade ou impossibilidade. Os Estados-Membros em causa devem dialogar para encontrar uma solução.\n\nNo caso de atrasos persistentes na prestação das informações ao Estado-Membro em cujo território o trabalhador estiver destacado, a Comissão é informada e toma as medidas adequadas.\n\n3. O intercâmbio de informações previsto no presente artigo é efetuado através do Sistema de Informação do Mercado Interno (IMI), criado pelo Regulamento (UE) n.º 1024/2012 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0004)). No entanto, esta regra não se aplica às informações trocadas pelos Estados-Membros por consulta direta aos registos eletrónicos nacionais a que se refere o artigo 16.º, n.º 5, do Regulamento (CE) n.º 1071/2009 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0005))."
+  },
+  "0a2ff62b9c88bcfe": {
+   "fragment_id": "Artigo 12.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 42.º, n.º 1, do Regulamento (UE) n.º 165/2014. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0006)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNa falta de parecer do comité, a Comissão não adota o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "a3be60afa85298d4": {
+   "fragment_id": "Artigo 15.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 9.º, n.º 3, e no artigo 15.º, é conferido à Comissão por um prazo de cinco anos a contar de 2 de agosto de 2020. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 9.º, n.º 3, e no artigo 15.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^7^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0007)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 9.º, n.º 3, e do artigo 15.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "332c0d0f60bf89d6": {
+   "fragment_id": "CONTROLOS NA ESTRADA",
+   "type": "divisao",
+   "heading": "CONTROLOS NA ESTRADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CONTROLOS NA ESTRADA\n\nOs controlos na estrada incidirão, em geral, sobre os seguintes elementos:\n\n1. Tempos de condução diária e semanal, pausas e períodos de descanso diários e semanais; igualmente, folhas de registo dos dias precedentes, que têm de ser conservadas a bordo do veículo por força do artigo 36.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 165/2014, e/ou dados armazenados relativamente ao mesmo período no cartão do condutor e/ou na memória do equipamento de registo, nos termos do anexo II da presente diretiva, e/ou em folhas impressas;\n\n2. Relativamente ao período referido no artigo 36.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 165/2014, eventuais excessos à velocidade autorizada para o veículo, definidos, para os veículos da categoria N3, como períodos superiores a 1 minuto durante os quais o veículo circula a mais de 90 km/h e, para os veículos da categoria M3, como períodos superiores a 1 minuto durante os quais o veículo circula a mais de 105 km/h, entendendo-se como categorias N3 e M3 as definidas na Diretiva 2007/46/CE do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0008));\n\n3. Quando se justifique, velocidades instantâneas do veículo registadas pelo aparelho de controlo durante as últimas 24 horas, no máximo, de utilização do veículo;\n\n4. Funcionamento correto do aparelho de controlo (deteção de qualquer eventual manipulação do equipamento e/ou do cartão de condutor e/ou das folhas de registo) ou, se for o caso, presença dos documentos referidos no artigo 16.º, n.º 2, do Regulamento (CE) n.º 561/2006;\n\n5. Quando se justifique, e atendendo devidamente aos aspectos de segurança, verificação do aparelho de controlo a fim de determinar se foi instalado e/ou utilizado qualquer dispositivo destinado a destruir, suprimir, manipular ou alterar dados ou a interferir com a transferência electrónica de dados entre os componentes do aparelho, ou que impeça o registo dos dados ou os altere antes da cifragem;\n\n6. Tempo máximo alargado de trabalho semanal de 60 horas, tal como previsto no artigo 4.º, alínea a), da Diretiva 2002/15/CE; outro tempo de trabalho semanal, tal como previsto nos artigos 4.º e 5.º da Diretiva 2002/15/CE, apenas nos casos em que a tecnologia disponível permita realizar esses controlos com eficácia."
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "f9b82dafa5ffa27f": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n**1.** **Grupos de infrações ao Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho** [(^1^)](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0009) **(Tempos de condução e períodos de repouso)**\n\n| **N.º** | **BASE JURÍDICA DA UE** | **TIPO DE INFRAÇÃO** | **GRAU DE GRAVIDADE** |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| **MSI** | **VSI** | **SI** | **MI** |  |  |  |  |\n| **A** | **Tripulação** |  |  |  |  |  |  |\n| A1 | Artigo 5.º, n.º 1 | Desrespeito da idade mínima dos condutores |  |  | X |  |  |\n| **B** | **Tempos de condução** |  |  |  |  |  |  |\n| B1 | Artigo 6.º, n.º 1 | Tempo diário de condução de 9 h excedido sem autorização para alargamento a 10 h | 9h < … < 10h |  |  |  | X |\n| B2 | 10h ≤ … < 11h |  |  | X |  |  |  |\n| B3 | 11h ≤ … |  | X |  |  |  |  |\n| B4 | Tempo diário de condução de 9 h excedido em 50 % ou mais | 13h30 ≤ … | X |  |  |  |  |\n| B5 | Tempo diário de condução de 10 h excedido, com autorização para alargamento a 10 h | 10h < … < 11h |  |  |  | X |  |\n| B6 | 11h ≤ … < 12h |  |  | X |  |  |  |\n| B7 | 12h ≤ … |  | X |  |  |  |  |\n| B8 | Tempo diário de condução de 10 h excedido em 50 % ou mais | 15h ≤ … | X |  |  |  |  |\n| B9 | Artigo 6.º, n.º 2 | Tempo de condução semanal excedido | 56h < … < 60h |  |  |  | X |\n| B10 | 60h ≤ … < 65h |  |  | X |  |  |  |\n| B11 | 65h ≤ … < 70h |  | X |  |  |  |  |\n| B12 | Tempo de condução semanal excedido em 25 % ou mais | 70h ≤ … | X |  |  |  |  |\n| B13 | Artigo 6.º, n.º 3 | Tempo máximo total de condução durante duas semanas consecutivas excedido | 90h < … < 100h |  |  |  | X |\n| B14 | 100h ≤ … < 105h |  |  | X |  |  |  |\n| B15 | 105h ≤ … < 112h30 |  | X |  |  |  |  |\n| B16 | Tempo máximo total de condução durante duas semanas consecutivas excedido em 25 % ou mais | 112h30 ≤ … | X |  |  |  |  |\n| **C** | **Pausas** |  |  |  |  |  |  |\n| C1 | Artigo 7.º | Tempo de condução ininterrupta de 4,5 h antes de uma pausa excedido | 4h30 < … < 5h |  |  |  | X |\n| C2 | 5h ≤ … < 6h |  |  | X |  |  |  |\n| C3 | 6h ≤ … |  | X |  |  |  |  |\n| **D** | **Períodos de repouso** |  |  |  |  |  |  |\n| D1 | Artigo 8.º, n.º 2 | Período de repouso diário insuficiente (menos de 11 h), sem autorização para um período de repouso diário reduzido | 10h ≤ … < 11h |  |  |  | X |\n| D2 | 8h30 ≤ … < 10h |  |  | X |  |  |  |\n| D3 | … < 8h30 |  | X |  |  |  |  |\n| D4 | Período de repouso diário reduzido insuficiente (menos de 9h), se tiver sido autorizada a redução | 8h ≤ … < 9h |  |  |  | X |  |\n| D5 | 7h ≤ … < 8h |  |  | X |  |  |  |\n| D6 | … < 7h |  | X |  |  |  |  |\n| D7 | Período de repouso diário fracionado insuficiente (menos de 3h + 9h) | 3h + [8h ≤ … < 9h] |  |  |  | X |  |\n| D8 | 3h + [7h ≤ … < 8h] |  |  | X |  |  |  |\n| D9 | 3h + [… < 7h] |  | X |  |  |  |  |\n| D10 | Artigo 8.º, n.º 5 | Período de repouso diário insuficiente (menos de 9 h) com tripulação múltipla | 8h ≤ … < 9h |  |  |  | X |\n| D11 | 7h ≤ … < 8h |  |  | X |  |  |  |\n| D12 | … < 7h |  | X |  |  |  |  |\n| D13 | Artigo 8.º, n.º 6 | Insuficiente período de repouso semanal reduzido (menos de 24h) | 22h ≤ … < 24h |  |  |  | X |\n| D14 | 20h ≤ … < 22h |  |  | X |  |  |  |\n| D15 | … < 20h |  | X |  |  |  |  |\n| D16 | Período de repouso semanal insuficiente (menos de 45 h), sem autorização para período de repouso semanal reduzido | 42h ≤ … < 45h |  |  |  | X |  |\n| D17 | 36h ≤ … < 42h |  |  | X |  |  |  |\n| D18 | … < 36h |  | X |  |  |  |  |\n| D19 | Artigo 8.º, n.º 6 | Seis períodos consecutivos de 24 horas após o período anterior de repouso semanal excedidos | … < 3h |  |  |  | X |\n| D20 | 3h ≤ … < 12h |  |  | X |  |  |  |\n| D21 | 12h ≤ … |  | X |  |  |  |  |\n| D22 | Artigo 8.º, n.º 6-B | Nenhuma compensação por dois períodos consecutivos de repouso semanal reduzido |  |  | X |  |  |\n| D23 | Artigo 8.º, n.º 8 | Período de repouso semanal regular ou período de repouso semanal superior a 45 horas gozado num veículo |  |  | X |  |  |\n| D24 | Artigo 8.º, n.º 8 | Não cobertura dos custos de alojamento fora do veículo pelo empregador |  |  |  | X |  |\n| **E** | **Derrogação da regra dos 12 dias** |  |  |  |  |  |  |\n| E1 | Artigo 8.º, n.º 6-A | 12 períodos de 24 horas consecutivos após o período anterior de repouso semanal excedidos | … < 3h |  |  |  | X |\n| E2 | 3h ≤ … < 12h |  |  | X |  |  |  |\n| E3 | 12h ≤ … |  | X |  |  |  |  |\n| E4 | Artigo 8.º, n.º 6-A alínea b), subalínea ii) | Período de repouso semanal gozado após 12 períodos consecutivos de 24 horas | 67h <…<69h |  |  |  | X |\n| E5 | 65h ≤ … < 67h |  |  | X |  |  |  |\n| E6 | … ≤ 65h |  | X |  |  |  |  |\n| E7 | Artigo 8.º, n.º 6-A alínea d) | Período de condução, entre as 22.00 h e as 6.00 h, de mais de 3 horas antes da pausa, se a condução do veículo não for assegurada por mais de um condutor | 3h < … < 4,5h |  |  | X |  |\n| E8 | 4,5h ≤ … |  | X |  |  |  |  |\n| **F** | **Organização do trabalho** |  |  |  |  |  |  |\n| F1 | Artigo 8.º, n.º 8-A | A empresa de transportes não organiza o trabalho dos condutores de modo a poderem regressar ao centro operacional do empregador ou ao local de residência dos condutores |  |  | X |  |  |\n| F2 | Artigo 10.º, n.º 1 | Salário/remuneração determinado em função da distância percorrida, da rapidez da entrega ou do volume das mercadorias transportadas |  |  | X |  |  |\n| F3 | Artigo 10.º, n.º 2 | Falta de organização ou organização inadequada do trabalho do condutor, instruções inadequadas ou ausência de instruções que permitam ao condutor cumprir a regulamentação |  |  | X |  |  |\n| (^1^) Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho, de 15 de março de 2006, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários, que altera os Regulamentos (CEE) n.º 3821/85 e (CE) n.º 2135/98 do Conselho e revoga o Regulamento (CEE) n.º 3820/85 do Conselho (JO L 102 de 11.4.2006, p. 1). |  |  |  |  |  |  |  |\n\n**2.** **Grupos de infrações ao Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho** [(^1^)](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#E0010) **(Tacógrafo)**\n\n| N.º | BASE JURÍDICA | TIPO DE INFRAÇÃO | GRAU DE GRAVIDADE |  |  |\n| --- | --- | --- | --- | --- | --- |\n| MSI | VSI | SI |  |  |  |\n| **G** | **Instalação do tacógrafo** |  |  |  |  |\n| G1 | Artigo 3.º, n.^os^ 1, 4 e 4-A, e artigo 22.º | Não está instalado nem é utilizado um tacógrafo homologado | X |  |  |\n| **H** | **Utilização do tacógrafo, cartão de condutor ou folha de registo** |  |  |  |  |\n| H1. | Artigo 23.º, n.º 1 | Utilização de um tacógrafo não inspecionado por oficina aprovada |  | X |  |\n| H2. | Artigo 27.º | Condutor titular e/ou utilizador de mais de um cartão de condutor |  | X |  |\n| H3 | Condução com cartão de condutor falsificado (*considerado como condução sem cartão de condutor*) | X |  |  |  |\n| H4. | Condução com um cartão de condutor de que o condutor não é titular (*considerado como condução sem cartão de condutor*) | X |  |  |  |\n| H5. | Condução com cartão de condutor obtido com base em declarações falsas e/ou em documentos falsos (*considerado como condução sem cartão de condutor*) | X |  |  |  |\n| H6 | Artigo 32.º, n.º 1 | Mau funcionamento do tacógrafo *(por exemplo: tacógrafo não devidamente inspecionado, calibrado e selado)* |  | X |  |\n| H7 | Artigo 32.º, n.º 1, e artigo 33.º, n.º 1 | Utilização indevida do tacógrafo *(p. ex.: utilização indevida deliberada, voluntária ou imposta, falta de instruções sobre a utilização correta, etc.)* |  | X |  |\n| H8. | Artigo 32.º, n.º 3 | Existência no veículo e/ou utilização de dispositivo fraudulento capaz de alterar os registos do tacógrafo | X |  |  |\n| H9 | Falsificação, ocultação, supressão ou destruição dos dados constantes das folhas de registo ou armazenados no tacógrafo e/ou no cartão de condutor | X |  |  |  |\n| H10 | Artigo 33.º, n.º 2 | A empresa não conserva as folhas de registo, a documentação impressa ou os dados descarregados |  | X |  |\n| H11 | Os dados registados e arquivados não estão disponíveis, pelo menos, durante um ano |  | X |  |  |\n| H12 | Artigo 34.º, n.º 1 | Utilização incorreta de folhas de registo ou de cartões de condutor |  | X |  |\n| H13 | Retirada não autorizada de folhas de registo ou de cartões de condutor, com impacto no registo de dados importantes |  | X |  |  |\n| H14 | Utilização de folhas de registo ou cartões de condutor por um período maior do que o previsto, com perda de dados |  | X |  |  |\n| H15. | Artigo 34.º, n.º 2 | Utilização de folhas de registo ou de cartões de condutor sujos ou danificados e com dados ilegíveis |  | X |  |\n| H16 | Artigo 34.º, n.º 3 | Não utilização da inscrição manual quando obrigatória |  | X |  |\n| H17. | Artigo 34.º, n.º 4 | Não utilização da folha de registo correta ou não inserção do cartão de condutor na ranhura certa (em situação de tripulação múltipla) |  |  | X |\n| H18 | Artigo 34.º, n.º 5 | Utilização incorreta de dispositivo de comutação |  | X |  |\n| **I** | **Apresentação de elementos informativos** |  |  |  |  |\n| I1. | Artigo 34.º, n.º 5, alínea b), subalínea v) | Utilização incorreta ou não utilização do símbolo «transbordador (ferry)/comboio» |  |  | X |\n| I2 | Artigo 34.º, n.º 6 | Não anotação das informações exigidas na folha de registo |  | X |  |\n| I3. | Artigo 34.º, n.º 7 | Não indicação nos registos dos símbolos dos países cujas fronteiras foram atravessadas pelo condutor durante o período de trabalho diário |  |  | X |\n| I4 | Artigo 34.º, n.º 7 | Não indicação nos registos dos símbolos dos países em que o período de trabalho diário do condutor teve início e terminou |  |  | X |\n| I5. | Artigo 36.º | Recusa de sujeição a controlo |  | X |  |\n| I6 | Artigo 36.º | Não apresentação de registos manuais e documentação impressa respeitantes ao dia em curso e aos 28 dias anteriores (até 30 de dezembro de 2024) Não apresentação de registos manuais e documentação impressa respeitantes ao dia em curso e aos 56 dias anteriores (até 31 de dezembro de 2024) |  | X |  |\n| I7 | Artigo 36.º | Não apresentação do cartão de condutor, caso o condutor seja titular desse cartão |  | X |  |\n| **J** | **Mau funcionamento** |  |  |  |  |\n| J1. | Artigo 37.º, n.º 1, e artigo 22.º, n.º 1 | Tacógrafo não reparado por instalador ou oficina aprovado |  | X |  |\n| J2 | Artigo 2.º, n.º 37 | Não anotação pelo condutor de todas as indicações relativas aos períodos não registados por motivo de avaria ou mau funcionamento do tacógrafo |  | X |  |\n| (^1^) Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, relativo à utilização de tacógrafos nos transportes rodoviários, que revoga o Regulamento (CEE) n.º 3821/85 do Conselho relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários e que altera o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários (JO L 60 de 28.2.2014, p. 1). |  |  |  |  |  |\n\n---"
+  },
+  "c14cf8837134298e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho, de 15 de março de 2006, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários, que altera os Regulamentos (CEE) n.º 3821/85 e (CEE) n.º 2135/98 do Conselho e revoga o Regulamento (CEE) n.º 3820/85 do Conselho (JO L 102 de 11.4.2006, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, relativo à utilização de tacógrafos nos transportes rodoviários, que revoga o Regulamento (CEE) n.º 3821/85 do Conselho relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários e que altera o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários (JO L 60 de 28.2.2014, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Diretiva 2002/15/CE do Parlamento Europeu e do Conselho, de 11 de março de 2002, relativa à organização do tempo de trabalho das pessoas que exercem atividades móveis de transporte rodoviário (JO L 80 de 23.3.2002, p. 35).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 1024/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno e que revoga a Decisão 2008/49/CE da Comissão (“Regulamento IMI”) (JO L 316 de 14.11.2012, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Regulamento (CE) n.º 1071/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece regras comuns no que se refere aos requisitos para o exercício da atividade de transportador rodoviário e que revoga a Diretiva 96/26/CE do Conselho (JO L 300 de 14.11.2009, p. 51).»\n\n> ([^6^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#src.E0007)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/51e7bb27-388d-11ef-b441-01aa75ed71a1.0019.02/DOC_1#src.E0008)) Diretiva 2007/46/CE do Parlamento Europeu e do Conselho, de 5 de setembro de 2007, que estabelece um quadro para a homologação dos veículos a motor e seus reboques, e dos sistemas, componentes e unidades técnicas destinados a serem utilizados nesses veículos (Diretiva-Quadro) (JO L 263 de 9.10.2007, p. 1)."
+  }
+ }
+}

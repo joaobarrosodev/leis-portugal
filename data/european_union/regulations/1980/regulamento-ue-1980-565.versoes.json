@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980R0565:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980R0565-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1980-03-07",
+   "future": false,
+   "celex": "31980R0565",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9f8216de9bbd6a0e",
+    "d34258af30b8403d",
+    "136f15ee93c55000",
+    "00576bb1236fff55",
+    "489673e235b3a11a",
+    "1d0289b909790ec6",
+    "d0b029733ce43ba8",
+    "707b1f1637f40727",
+    "1f5f21d8a6495cea",
+    "eba16aaa3070a15c",
+    "cb32bb3c9a0c30ea"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01980R0565-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o"
+   ],
+   "fragments": [
+    "1ce919273359d365"
+   ]
+  }
+ ],
+ "fragments": {
+  "9f8216de9bbd6a0e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 565/80 do Conselho, de 4 de Março de 1980, relativo ao pagamento antecipado das restituições à exportação para os produtos agrícolas** *Jornal Oficial nº L 062 de 07/03/1980 p. 0005 - 0007 Edição especial finlandesa: Capítulo 3 Fascículo 12 p. 0003 Edição especial grega: Capítulo 03 Fascículo 28 p. 0050 Edição especial sueca: Capítulo 3 Fascículo 12 p. 0003 Edição especial espanhola: Capítulo 03 Fascículo 17 p. 0182 Edição especial portuguesa: Capítulo 03 Fascículo 17 p. 0182*\n\nREGULAMENTO (CEE) No 565/80 DO CONSELHO de 4 de Março de 1980 relativo ao pagamento anticipado das restituições à exportação para os produtos agrícolas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 2727/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos cereais (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1547/79 (2) e, nomeadamente, o no 5 do seu artigo 16o e as disposições correspondentes dos outros regulamentos que estabelecem a organização comum de mercado dos produtos agrícolas,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o Regulamento (CEE) no 441/69 do Conselho, de 4 de Março de 1969, que estabelece regras gerais complementares que dizem respeito à concessão das restituições à exportação para os produtos submetidos a um regime de preços únicos, exportados em estado puro ou sob a forma de certas mercadorias não incluídas no Anexo II do Tratado (3), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 269/78 (4), foi alterado várias vezes; que a experiência demonstrou que são desejáveis outras alterações; que, numa preocupação de clareza, é conveniente proceder a uma refundição da legislação aplicável na matéria;\n\nConsiderando que os regulamentos que establecem, para certos produtos agrícolas, as regras gerais de concessão das restituções à exportação e os critérios de fixação do seu montante, estabelecem que a restituição seja paga quando for feita a prova de que estes produtos foram exportados para fora da Comunidade;\n\nConsiderando que, de acordo com o princípio de assegurar um equilíbrio entre a utilização dos produtos de base comunitários com vista à exportação, para paises terceiros, de produtos transformados ou de mercadorias enumeradas nos Anexos B e C do Regulamento (CEE) no 2682/72 (5), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 707/78 (6), e a utilização dos produtos de base destes países admitidos ao regime de aperfeiçoamento activo em aplicação da Directiva 69/73/CEE do Conselho, de 4 de Março de 1969, respeitante à harmonização das disposições legislativas, regulamentares e administrativas relativas ao regime de aperfeiçoamento activo (7), com a última redacção que lhe foi dada pela Directive 76/119/CEE (8), é conveniente pagar um montante igual à restituição à exportação desde a cacolação sob o regime de controlo aduaneiro dos produtos de base comunitários a partir dos quais são obtidos os produtos transformados ou as mercadorias destinadas a serem exportadas;\n\nConsiderando que os produtos submetidos a uma organização comum de mercado e importados de países terceiros, sob certas condições, podem ser colocados ao abrigo do regime aduaneiro do entreposto ou de zonas francas com suspensão da cobrança de direitos à importação; que é conveniente prever a possibilidade de pagar um montante igual à restituição à exportação desde que certos produtos ou mercadorias comunitárias destinadas a serem exportados sejam colocados ao abrigo de um tal regime;\n\nConsiderando que o pagamento de um montante igual à restituição à exportação não altera em nada as condições do estabelecimento do direito a uma restituição à exportação; que é conveniente garantir pela constituição de uma caução o reembolso de uma soma pelo menos igual ao montante pago, se for determinado em siguida que não existia nenhum direito à restituição à exportação ou que os produtos ou mercadorias aos quais foram aplicadas estas medidas, não foram efectivamente exportados para fora de Comunidade nos prazos determinados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d34258af30b8403d": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento establece as regras gerais relativas ao pagamento anteriormente à exportação, dum montante igual às restituições à exportação para os produtos submetidos aos seguintes regulamentos:\n\n- Regulamento no 136/66/CEE (matérias gordas),\n\n- Regulamento (CEE) no 804/68 (leite e productos lácteos)\n\n- Regulamento (CEE) no 805/68 (carne de bovino),\n\n- Regulamento (CEE) no 727/70 (tabaco bruto),\n\n- Regulamento (CEE) no 1035/72 (frutas e produtos hortícolas),\n\n- Regulamento (CEE) no 3330/74 (açúcar),\n\n- Regulamento (CEE) no 2727/75 (cereais),\n\n- Regulamento (CEE) no 2759/75 (carne de suíno),\n\n- Regulamento (CEE) no 2771/75 (ovos),\n\n- Regulamento (CEE) no 2777/75 (carne de aves de capoeira),\n\n- Regulamento (CEE) no 100/76 (productos da pesca),\n\n- Regulamento (CEE) no 1418/76 (arroz),\n\n- Regulamento (CEE) no 516/77 (produtos transformados à base de frutas e produtos hortícolas),\n\n- Regulamento (CEE) no 337/79 (vinho)."
+  },
+  "136f15ee93c55000": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção do presente regulamento entende-se por:\n\na) - Produtos: os produtos referidos no artigo 1o,\n\n- Produtos de base: os produtos destinados a serem exportados após transformação em produtos transformados ou em mercadorias;\n\nb) Produtos transformados:\n\n- os produtos obtidos para transformação de produtos de base\n\ne\n\n- os produtos aos quais se aplica uma restituição à exportação\n\nc) Mercadorias: as mercadorias referidas nos Anexos B e C do Regulamento (CEE) no 2682/72."
+  },
+  "00576bb1236fff55": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nSão admitidos ao abrigo do presente regulamento os produtos para os quais tiver sido fixada uma restituição igual ou superior a zero."
+  },
+  "489673e235b3a11a": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. A pedido do interessado, é pago um montante igual à restituição à exportação desde que os produtos de base sejam colocados sob controlo aduaneiro garantindo que os produtos transformados ou as mercadorias sejam exportados num prazo determinado.\n\n2. O regime previsto no presente artigo aplica-se aos produtos transformados e às mercadorias obtidas a partir de produtos de base desde que as operações de aperfeiçoamento activo não sejam proibidas para os produtos comparáveis.\n\nNo entanto, o regime não se aplica em casos exceptionais em que os produtos transformados ou as mercadorias sejam obtidas a partir de produtos de base para os quais não haja dificuldade de escoamento.\n\n3. No que se refere aos processos de controlo e à taxa de rendimento, os produtos de base são submetidos às mesmas regras que as que se aplicam no âmbito do aperfeiçoamento activo aos produtos de mesma natureza.\n\n4. A restituição à exportação referida no no 1 é:\n\na) No caso de produtos transformados, a aplicável ao produto transformado em causa;\n\nb) No caso das mercadorias, a fixada especificamente para os produtos de base:\n\n- utilizados\n\nou\n\n- considerados, ao abrigo das disposições comunitárias como sendo utilizados\n\npara o fabrico destas mercadorias.\n\n5. A taxa da restituição à exportação, se não for fixada antecipadamente, é a aplicável no dia em que os produtos de base são colocados sob controlo aduaneiro.\n\n6. Se a restituição à exportação for fixada entecipadamente deve ter-se em consideração para o cálculo dos ajustamentos a efectuar à taxa de restituição aplicável, o dia em que os produtos de base foram colocados sob controlo aduaneiro.\n\n7. Se a restituição à exportação diferir segundo a utilização ou o destino, a taxa a aplicar é a mais baixa. Contudo, se a utilização ou o destino forem declarados, a taxa a aplicar é a fixada para a utilização ou para o destino para que os produtos transformados ou as mercadorias estão destinados."
+  },
+  "1d0289b909790ec6": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A pedido do interessado é pago um montante igual à restituição à exportação desde que os produtos ou mercadorias sejam colocados ao abrigo do regime aduaneiro do entreposto ou da zona franca tendo em vista a sua exportação num prazo determinado.\n\n2. O regime previsto no presente artigo aplica-se aos produtos e às mercadorias destinados a serem exportados no estado puro se os produtos ou as mercadorias forem de natureza a poderem ser armazenados.\n\nContudo, o regime não se aplica nestes casos excepcionais sempre que não se apresente qualquer dificuldade de escoamento para os produtos ou mercadorias considerados.\n\n3. Se a restituição à exportação diferir segundo a utilização ou o destino, a taxa a aplicar é a mais baixa. No entanto, se a utilização ou o destino forem declarados, a taxa a aplicar é a fixada para a utilização ou o destino a que os produtos ou mercandorias estão destinados."
+  },
+  "d0b029733ce43ba8": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nO benefício dos regimes previstos no presente regulamento está subordinado à constituição de uma caução que garanta o reembolso de um montante igual ao que foi pago, acrescida de um montante suplementar.\n\nSem prejuízo de casos de força maior esta caução permanece total ou parcialmente adquirida:\n\n- nos casos em que o reembolso não foi efectuado uma vez que a exportação não se realizou no prazo referido no no 1 do artigo 4o e no no 1 do artigo 5o.\n\nou\n\n- se se revelar que não existe qualquer direito à restituição ou que existia um direito a uma restituição dum montante inferior."
+  },
+  "707b1f1637f40727": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nAs autoridades competentes dos Estados-membros podem recusar conceder o benefício dos regimes previstos pelo presente regulamento se a pessoa do requerente não for de natureza a garantir que a totalidade da operação será realizada em conformidade com as disposições em vigor.\n\nEm todos os Estados-membros esta faculdade exerce-se em conformidade com os princípios em vigor neste Estado prevalencendo a não-discriminação entre os requerentes e a liberdade do comércio e da indústria."
+  },
+  "1f5f21d8a6495cea": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSe necessário, os produtos de base, os produtos e as mercadorias que não beneficiam do regime previsto pelo presente regulamento são incluídos numa lista a estabelecer."
+  },
+  "eba16aaa3070a15c": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nO Regulamento (CEE) no 441/69 é revogado com efeitos a partir de 1 de Abril de 1980. Todavia, mantém-se aplicável às operações iniciadas sob o regime do referido regulamento."
+  },
+  "cb32bb3c9a0c30ea": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nO presente regulamento entra em vigor no terceiro dia a seguir ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é aplicável a partir de 1 de Abril de 1980 aos produtos de base, aos produtos e mercadorias colocados sob controlo a partir desta data.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 4 de Março de 1980.\n\nPelo Conselho\n\nO Presidente\n\nG. MARCORA\n\n(1) JO no L 281 de 1. 11. 1975, p. 1.(2) JO no L 188 de 26. 7. 1979, p. 1.(3) JO no L 59 de 10. 3. 1969, p. 1.(4) JO no L 40 de 10. 2. 1978, p. 7.(5) JO no L 289 de 27. 12. 1972, p. 13.(6) JO no L 94 de 8. 4. 1978, p. 7.(7) JO no L 58 de 8. 3. 1969, p. 1.(8) JO no L 24 de 30. 1. 1976, p. 58."
+  },
+  "1ce919273359d365": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980R0565 — PT — 01.01.2007 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980R0565) [REGULAMENTO (CEE) Nº 565/80 DO CONSELHO](http://publications.europa.eu/resource/celex/31980R0565) [de 4 de Março de 1980](http://publications.europa.eu/resource/celex/31980R0565) [relativo ao pagamento anticipado das restituições à exportação para os produtos agrícolas](http://publications.europa.eu/resource/celex/31980R0565) (JO L 062, 7.3.1980, p.5)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1713/2006 da Comissão de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006R1713) — L 321 — 11 — 21.11.2006"
+  }
+ }
+}

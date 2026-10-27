@@ -1,0 +1,305 @@
+---
+schema_version: '1.0'
+id: pt:dre:310668:por
+title: Portaria n.º 143/83
+short_title: null
+summary: Regula as condições de candidatura à matrícula e inscrição no ensino superior
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 143/83
+official_date: null
+publication_date: '1983-02-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/1983, Série I de 1983-02-11
+  number: '35'
+  series: I
+  supplement: null
+  pages: 428 - 450
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03500/04280450.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '310668'
+  dre_path: /dr/detalhe/portaria/143-1983-310668
+  internal: pt:dre:310668:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-1983-310668
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-1983-310668
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c3f5d783ae077e86909323372a9c28b89effc2d6d2ed4b8bf2589d36026e5b8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Superior
+relationships:
+- type: amended_by
+  target: pt:dre:661108:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472347:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:numero:portaria:137/84
+  label: REVOGADA PELA PORTARIA NUMERO 137/84, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 55, DE 5/3/84. 3/84.
+  source: null
+- type: repealed_by
+  target: pt:dre:661108:por
+  label: "Revogada pela PORT.137/84.1984.03.05.ME DR.IS [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-1984-661108
+  date: '1984-03-05'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:33:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 143/83
+
+de 11 de Fevereiro
+
+O sistema de acesso ao ensino superior que tem sido aplicado nos últimos anos enferma de algumas deficiências que importa corrigir.
+
+De entre essas destaca-se com especial importância a utilização pelo sistema de acesso ao ensino superior do processo de avaliação terminal do ensino secundário, já que as provas deste visam finalidades diferentes das de garantir uma adequada selecção de candidatos à universidade.
+
+A candidatura documental até agora em vigor baseia-se nas classificações escolares obtidas no ensino secundário; ora, num processo nacional como é o acesso à universidade, seria indispensável que todas essas classificações fossem aferidas por um critério único, de modo a permitir um correcto ordenamento dos candidatos. Esta condição não é também satisfeita, tanto por divergência de critérios entre os responsáveis pela atribuição das classificações, como pelo facto de os programas leccionados (e sobre os quais incide a avaliação) poderem variar substancialmente de escola para escola.
+
+O Ministério da Educação levou a cabo um estudo da situação tendente à adopção de um esquema de acesso capaz de evitar aquelas e outras anomalias, procurando garantir o aumento de flexibilidade e o número de graus de liberdade e escolha do rumo a seguir por parte dos estudantes, dentro da actual estrutura do 10.º, 11.º e 12.º anos do ensino secundário. Reconhecendo, todavia, que a implantação do novo sistema no corrente ano oferece algumas dificuldades de organização e elucidação dos interessados no actual contexto político, a sua aplicação é diferida por um ano, mantendo-se em 1983 o método seguido em 1982, com alterações de pormenor aconselhadas pela experiência e pela publicação do Despacho Normativo n.º 23/ME/83, de 1 de Fevereiro, publicado no Diário da República, 2.ª série, de 10 de Fevereiro de 1983, as quais constarão de diploma próprio a publicar na sequência do presente.
+
+Nestes termos:
+
+Ao abrigo do disposto no [Decreto-Lei n.º 397/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1977-285922), de 17 de Setembro:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+(Matrícula e inscrição no ensino superior universitário)
+
+A primeira matrícula e inscrição num estabelecimento e curso do ensino superior universitário está sujeita a um concurso de acesso para preenchimento das vagas fixadas anualmente para cada curso em cada estabelecimento.
+
+2.º
+
+(Objectivos do concurso de acesso)
+
+O concurso de acesso tem os seguintes objectivos:
+
+a) Obter uma maior adequação dos futuros estudantes universitários aos requisitos próprios deste nível de ensino, com vista a melhorar o seu rendimento escolar;
+
+b) Seriar os candidatos ao acesso ao ensino superior com base em provas de concepção e classificação homogéneas, específicas e de elevado nível de objectividade, subsequentes e independentes dos actos de avaliação do ensino secundário;
+
+c) Possibilitar mudanças no rumo vocacional aos estudantes que o desejarem, permitindo-lhes o acesso a um maior número de cursos através da prestação de provas em disciplinas que não constem dos seus currículos do ensino secundário;
+
+d) Avaliar, a posteriori, com base nos resultados obtidos pelos candidatos, o seu nível médio de conhecimentos gerais e específicos e, em função disso, projectar soluções tendentes a melhorar o sistema de ensino.
+
+3.º
+
+(Validade do concurso de acesso)
+
+O concurso de acesso é válido apenas para o ano em que se realiza.
+
+4.º
+
+(Estabelecimentos e cursos do ensino superior universitário)
+
+Os estabelecimentos e cursos do ensino superior universitário a que se refere o presente diploma são os constantes do anexo I.
+
+5.º
+
+(Condições para apresentação às provas)
+
+1 - Podem requerer a apresentação às provas do concurso de acesso os estudantes que, cumulativamente:
+
+a) Sejam titulares do 12.º ano de escolaridade, a que se refere o [Decreto-Lei n.º 240/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1980-472347), de 19 de Julho, ou equivalente legal;
+
+b) Nunca tenham estado matriculados nem inscritos no ensino superior universitário oficial.
+
+2 - O Ministro da Educação poderá fixar por portaria que, para acesso a determinados cursos superiores, o 12.º ano de escolaridade poderá ser substituído por outras habilitações académicas. Tal substituição não confere, porém, equivalência destas habilitações ao 12.º ano de escolaridade.
+
+6.º
+
+(Ordenação dos candidatos)
+
+1 - A ordenação dos candidatos será feita exclusivamente com base nas classificações obtidas nas provas do concurso de acesso.
+
+2 - O disposto no n.º 1 não prejudica o recurso a outros critérios que tenham em conta o passado escolar dos estudantes, sempre que 2 candidatos em situação de empate disputem a última vaga de um par curso/estabelecimento.
+
+7.º
+
+(Estrutura do concurso de acesso)
+
+1 - O concurso de acesso é constituído por 2 provas:
+
+a) Prova comum;
+
+b) Prova específica.
+
+2 - As provas revestirão exclusivamente a forma escrita.
+
+8.º
+
+(Prova comum)
+
+A prova comum destina-se a avaliar a capacidade de compreensão e expressão na língua portuguesa e numa língua viva estrangeira (Francês ou Inglês, à escolha do candidato).
+
+9.º
+
+(Prova específica)
+
+1 - A prova específica destina-se a verificar se o candidato dispõe da preparação mínima indispensável ao ingresso num ou mais cursos superiores determinados.
+
+2 - A prova específica de cada candidato é constituída por pontos de 3 disciplinas que constituam um dos elencos previstos no anexo II para acesso a um determinado conjunto de cursos.
+
+3 - Os candidatos que o pretendam poderão requerer a prestação da prova específica em 4 disciplinas, desde que a quarta disciplina escolhida constitua, com 2 das 3 a que se refere o n.º 2, um dos elencos previstos no anexo II.
+
+10.º
+
+(Candidatura a cada curso)
+
+1 - Cada estudante apenas se pode candidatar à inscrição nos cursos superiores para que preste prova específica adequada.
+
+2 - A candidatura à inscrição nalguns cursos superiores poderá estar condicionada à prévia demonstração de habilitações ou capacidades especiais nos termos igualmente descritos no anexo II.
+
+11.º
+
+(Programas do concurso de acesso)
+
+Os programas sobre que incidirão as provas do concurso de acesso serão fixados por despacho do Ministro da Educação, sob proposta do júri a que se refere o n.º 12.º
+
+12.º
+
+(Júri)
+
+1 - A concepção e realização das provas do concurso será dirigida por um júri constituído por professores das universidades portuguesas, das especialidades correspondentes às matérias das disciplinas que integrarão aquelas provas.
+
+2 - Cabe ao júri:
+
+a) Propor os programas sobre que irão incidir as provas;
+
+b) Conceber e definir os conteúdos das provas, aprovar a forma final das mesmas e as correspondentes instruções de classificação;
+
+c) Dirigir e homologar a classificação das provas;
+
+d) Proceder à análise dos resultados obtidos nas provas e, com base nela, apreciar a qualidade e adequação dos pontos, bem como as características da população examinada.
+
+13.º
+
+(Presidente do júri)
+
+1 - A presidência do júri caberá a um professor das universidades portuguesas.
+
+2 - Cabe ao presidente do júri:
+
+a) Coordenar as actividades do júri;
+
+b) Supervisar a equipa pedagógica a que se refere o n.º 15.º;
+
+c) Efectuar a ligação com as instâncias, organismos ou serviços do Ministério da Educação a quem estejam cometidas funções específicas relacionadas com a preparação e execução das provas, assegurando a coordenação geral do processo.
+
+14.º
+
+(Equipas de disciplina)
+
+1 - O membro do júri responsável por cada disciplina constituirá e dirigirá uma equipa integrada por docentes do ensino superior e professores profissionalizados do ensino secundário.
+
+2 - Cabe às equipas de disciplina apoiar o júri na concepção e definição dos conteúdos das provas, na elaboração das mesmas, na preparação das instruções de correcção e na correcção.
+
+15.º
+
+(Equipa técnico-pedagógica)
+
+Será constituída uma equipa técnico-pedagógica de especialistas (docentes e não docentes), a quem caberá apoiar o júri na elaboração técnica dos questionários que constituem as provas e na exploração estatística e avaliação dos resultados.
+
+16.º
+
+(Nomeação)
+
+1 - O presidente do júri será nomeado pelo Ministro da Educação de entre os professores das universidades portuguesas.
+
+2 - Os membros do júri e da equipa técnico-pedagógica serão nomeados pelo Ministro da Educação, sob proposta do presidente do júri.
+
+3 - Os membros das equipas de disciplina serão nomeados pelo Ministro da Educação, sob proposta do respectivo membro do júri, ouvido o presidente.
+
+17.º
+
+(Início da aplicação)
+
+O disposto no presente diploma aplica-se à candidatura, matrícula e inscrição no ano lectivo de 1984-1985 e subsequentes.
+
+18.º
+
+(Candidatura para o ano lectivo de 1983-1984)
+
+A candidatura à matrícula e inscrição no ano lectivo de 1983-1984 será regulada por diploma a publicar, no qual se conservarão os critérios fundamentais subjacentes à [Portaria n.º 530/82](https://diariodarepublica.pt/dr/detalhe/portaria/530-1982-391982), de 28 de Maio, com as alterações decorrentes da experiência da sua aplicação e das medidas tomadas pelo Despacho Normativo n.º 23/ME/83, de 1 de Fevereiro, publicado no Diário da República, 2.ª série, de 10 de Fevereiro de 1983.
+
+Ministério da Educação, 17 de Dezembro de 1982. - O Ministro da Educação, João José Fraústo da Silva.
+
+## ANEXO I — Lista de universidades, estabelecimentos e cursos leccionados
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03500/04280450.pdf)
+
+## ANEXO II — Lista de disciplinas, por cursos, incluídas na prova específica
+
+Coluna 1 - Designação do curso.
+
+Coluna 2 - Estabelecimento.
+
+Coluna 3 - Disciplinas de inclusão obrigatória.
+
+Coluna 4 - Número de disciplinas opcionais destinadas a completar o número total de 3 disciplinas por prova específica.
+
+Coluna 5 - Disciplinas opcionais (a ordem é irrelevante).
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03500/04280450.pdf)

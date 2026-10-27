@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:55021015:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-115946507",
+ "dre_path": "/dr/detalhe/decreto-lei/114-2014-55021015",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115960781",
+    "115960782",
+    "115960783",
+    "115960784",
+    "115960785",
+    "115960786",
+    "115960787",
+    "115960788",
+    "115960789",
+    "115960791",
+    "115960792"
+   ]
+  },
+  {
+   "date": "2018-11-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115940706:por",
+     "title": "Lei n.º 41/2018",
+     "published": "2018-08-08",
+     "dre_path": "/dr/detalhe/lei/41-2018-115940706"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "115960781",
+    "115960782",
+    "115960783",
+    "115960784",
+    "115960785",
+    "115960786",
+    "115960787",
+    "115960788",
+    "115960789",
+    "115960790",
+    "115960800",
+    "115960792"
+   ]
+  },
+  {
+   "date": "2023-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220113533:por",
+     "title": "Decreto-Lei n.º 69/2023",
+     "published": "2023-08-21",
+     "dre_path": "/dr/detalhe/decreto-lei/69-2023-220113533"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Revoga Anexo I"
+   ],
+   "fragments": [
+    "115960781",
+    "115960782",
+    "115960783",
+    "115960784",
+    "220217620",
+    "115960786",
+    "115960787",
+    "115960788",
+    "115960789",
+    "115960790",
+    "220217621",
+    "115960792"
+   ]
+  }
+ ],
+ "fragments": {
+  "115960781": {
+   "fragment_id": "115946508",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 114/2014\n\nde 21 de julho\n\nA reorganização dos sectores das águas e dos resíduos é um dos grandes desafios a que o Governo se propõe, tendo em vista a resolução de problemas ambientais de primeira geração e dos problemas vigentes de sustentabilidade económico-financeira neste âmbito. O Programa do Governo elegeu, como medida estrutural de fundo, uma reestruturação das diversas vertentes sectoriais, com prioridade para a sua sustentabilidade económico-financeira.\n\nNa definição desta estratégia, revela-se fundamental criar condições para a resolução, de forma estrutural e permanente, do problema das dívidas aos sistemas multimunicipais de águas e resíduos que assume elevada criticidade para a sustentabilidade do grupo Águas de Portugal.\n\nTorna-se, pois, fundamental estabelecer regras que permitam que a componente da fatura paga pelos utilizadores finais relativa aos custos com o serviço prestado pelas entidades gestoras dos sistemas multimunicipais e intermunicipais seja canalizada para a liquidação dos montantes correspondentes ao pagamento dos serviços «em alta».\n\nDe facto, a fatura constitui um veículo fundamental de comunicação em qualquer relacionamento comercial, em particular no quadro da prestação de serviços públicos essenciais, onde se integram os serviços de águas e resíduos urbanos, pois é através dela que a entidade gestora dá a conhecer aos seus utilizadores o serviço prestado, a respetiva tarifa e as informações necessárias e úteis ao relacionamento estabelecido.\n\nAs faturas dos serviços públicos de águas e resíduos urbanos devem respeitar o princípio da transparência e ser de fácil compreensão para o utilizador final, contendo informação sobre a entidade gestora e o utilizador e especificando os serviços prestados, as tarifas aplicadas, as formas de pagamento e outra informação relevante.\n\nA Lei n.º 12/2014, de 6 de março, que procedeu à segunda alteração ao Decreto-Lei n.º 194/2009, de 20 de agosto, estabeleceu um regime que visa decompor na fatura aos utilizadores finais as componentes do custo associados à prestação dos serviços de abastecimento público de água, saneamento de águas residuais e recolha e tratamento de resíduos urbanos.\n\nPara além das referidas preocupações com a proteção do consumidor e de indução de comportamentos ambientalmente mais eficientes, a referida Lei prevê que, para o universo das entidades gestoras de sistemas municipais que estejam vinculadas a sistemas multimunicipais ou intermunicipais, as faturas evidenciem ainda a parcela do custo decorrente da faturação dos correspondentes serviços «em alta», em linha com o princípio de que as tarifas dos serviços de águas, saneamento e resíduos urbanos devem permitir a recuperação gradual dos custos associados à provisão destes serviços, em condições de eficiência e assegurar a transparência na formação da tarifa e o equilíbrio económico e financeiro de cada serviço prestado pelas entidades gestoras.\n\nPor forma a efetivar este princípio e contribuindo para a resolução estrutural e sustentável do problema das dívidas das entidades gestoras dos sistemas municipais aos sistemas «em alta», prevê-se que metade do valor cobrado aos utilizadores dos sistemas municipais seja afeto ao pagamento da fatura emitida pelas entidades gestoras dos sistemas multimunicipais ou intermunicipais que asseguram aos municípios os serviços de águas e de resíduos urbanos.\n\nReservando-se a obrigação de transferência dos referidos valores para as situações em que a entidade gestora municipal ainda não tenha liquidado total ou parcialmente as faturas, estabelece-se uma proibição de utilizar tais valores para fim diverso do pagamento dos serviços «em alta».\n\nCom o presente decreto-lei estabelecem-se regras com vista à operacionalização deste mecanismo, assegurando-se que a transferência de metade dos valores cobrados aos utilizadores finais se circunscrevem ao montante faturado à entidade gestora municipal e apenas opera nos casos em que tal entidade, na data em que está obrigada à transferência, ainda não efetuou tal pagamento. Uma vez que a exigência de transferência dos referidos valores no último dia do mês a que se refere a sua cobrança poderia ser de difícil implementação prática, considerou-se necessário remeter a mesma para a data em que é feita a comunicação dos valores cobrados, ou seja, no último dia do mês subsequente à cobrança.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses e a Entidade Reguladora dos Serviços de Águas e Resíduos.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nAo abrigo do disposto no n.º 21 do artigo 67.º do Decreto-Lei n.º 194/2009, de 20 de agosto, alterado pelo Decreto-Lei n.º 92/2010, de 26 de julho e pela Lei n.º 12/2014, de 6 de março, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115960782": {
+   "fragment_id": "115946509",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece os procedimentos necessários à implementação do sistema de faturação detalhada previsto na Lei n.º 12/2014, de 6 de março, que procedeu à segunda alteração ao Decreto-Lei n.º 194/2009, de 20 de agosto, relativamente aos serviços públicos de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos."
+  },
+  "115960783": {
+   "fragment_id": "115946510",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Estão abrangidas pelas obrigações relativas à emissão de faturação detalhada as entidades gestoras de sistemas municipais de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos, incluindo os geridos através de parcerias públicas, nas suas relações com os utilizadores finais destes serviços.\n\n2 - Estão ainda abrangidas pelas obrigações previstas no número anterior as entidades gestoras de sistemas de titularidade estatal em gestão delegada ou concessionada, relativamente às atividades referidas no número anterior quando prestadas a utilizadores finais."
+  },
+  "115960784": {
+   "fragment_id": "115946511",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\n1 - As faturas relativas aos serviços de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos prestados pelas entidades referidas no número anterior devem apresentar um formato e utilizar uma linguagem simples e explícita que facilitem a sua leitura e a compreensão da decomposição das componentes do custo associados.\n\n2 - Quando os serviços referidos no número anterior sejam prestados por entidades gestoras distintas, estas devem procurar celebrar entre si acordos no sentido de apresentarem ao utilizador final faturas consolidadas."
+  },
+  "115960785": {
+   "fragment_id": "115946512",
+   "type": 11,
+   "heading": "Artigo 4.º — Regras relativas ao detalhe das faturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regras relativas ao detalhe das faturas\n\n1 - Sem prejuízo da informação que resulta de legislação e regulamentação específicas, nomeadamente as relativas a taxas e impostos, as faturas relativas aos serviços de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos emitidas pelas entidades referidas no artigo 2.º devem incluir a informação constante do anexo I ao presente decreto-lei e que dele faz parte integrante.\n\n2 - Quando os sistemas municipais se encontrem vinculados a sistemas multimunicipais ou intermunicipais, incluindo os geridos através de parcerias públicas, a fatura deve incluir, em caixa autónoma, informação relativa ao custo médio unitário dos serviços prestados pelas entidades gestoras destes sistemas, doravante designadas entidades gestoras do serviço «em alta».\n\n3 - Para efeitos do número anterior é apresentado um custo médio unitário associado aos serviços de abastecimento de água, de saneamento de águas residuais e de gestão de resíduos urbanos, calculado, por referência ao ano civil anterior, tendo por base o valor total da faturação associada a cada um dos serviços emitida pela entidade gestora do serviço «em alta», a dividir pelo total de metros cúbicos de água faturados aos utilizadores finais do sistema municipal e usados como indexante para a faturação dos serviços de saneamento e de gestão de resíduos urbanos.\n\n4 - No caso de medição do efluente recolhido e ou dos resíduos recolhidos, o valor total da faturação associada a cada um destes serviços emitida pela entidade gestora do serviço «em alta», é dividido pelo total de metros cúbicos ou quantidades (quilogramas ou litros) faturados aos utilizadores finais do sistema municipal.\n\n5 - Quando os volumes faturados no serviço «em alta» e «em baixa» forem expressos em unidades de medida diversa, a informação referida nos números anteriores é apresentada na unidade adotada na faturação do serviço «em baixa».\n\n6 - Nos casos em que a cobrança dos serviços mencionados seja efetuada por entidade diversa, cabe à entidade que se encontra vinculada ao sistema multimunicipal ou intermunicipal, o apuramento da informação a inscrever na caixa informativa a que se refere o n.º 2 e a sua comunicação à entidade que emite a fatura."
+  },
+  "115960786": {
+   "fragment_id": "115946513",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras relativas à obrigação de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regras relativas à obrigação de transferência\n\n1 - As entidades gestoras referidas no artigo 2.º e cujos sistemas municipais se encontrem integrados em sistemas multimunicipais ou intermunicipais, incluindo os geridos através de parcerias públicas, devem registar e apurar os valores cobrados aos seus utilizadores finais, pela prestação de cada um dos serviços, de abastecimento de água, de saneamento de águas residuais e de gestão de resíduos urbanos, conforme aplicável.\n\n2 - Nos casos em que ocorra a faturação conjunta de serviços e não seja possível apurar o valor real a que se refere a parte final do número anterior, o apuramento de tal valor é efetuado tendo por base a percentagem resultante da faturação de cada um dos serviços relativamente ao total da faturação de tais serviços no ano civil anterior.\n\n3 - A entidade gestora do sistema municipal deve, para cada um dos tipos de serviço, emitir no final do mês seguinte ao do apuramento mensal total dos valores cobrados, uma ordem de transferência a favor da entidade gestora do serviço «em alta» pelo montante correspondente a metade do valor apurado, líquido de taxas e impostos, incluindo os valores decorrentes de faturas sem consumo.\n\n4 - A obrigação a que se refere o número anterior recai sobre a entidade titular do sistema enquanto não for transmitida a posição contratual de utilizador do sistema multimunicipal ou intermunicipal a que se encontre vinculada.\n\n5 - Nos casos em que a cobrança dos serviços mencionados seja efetuada por entidade diversa da entidade que se encontra vinculada ao sistema multimunicipal ou intermunicipal, nomeadamente por efeito da consolidação a que se refere o n.º 2 do artigo 3.º, ou por não ter ocorrido ainda a transmissão da posição contratual de utilizador do sistema multimunicipal ou intermunicipal, o prazo a que se refere o n.º 3 conta-se a partir do recebimento dos valores pela entidade obrigada à transferência nos termos do mesmo número.\n\n6 - A obrigação referida no n.º 3 não se verifica caso a entidade gestora do sistema municipal, na data em que está obrigada à transferência, já tenha efetuado o pagamento do valor constante da fatura emitida pela entidade gestora do serviço «em alta» no mês anterior ao do apuramento referido no n.º 1.\n\n7 - Caso o valor a que se refere o n.º 3 exceda o valor constante da fatura emitida pela entidade gestora do serviço «em alta» no mês anterior ao do apuramento referido no n.º 1 e ainda não liquidada, a obrigação de transferência fica circunscrita ao valor de tal fatura.\n\n8 - Caso o valor transferido nos termos do n.º 3 fique aquém do valor da fatura emitida pela entidade gestora do serviço «em alta» no mês anterior ao do apuramento referido no n.º 1, a liquidação do valor total da fatura só opera com o pagamento do remanescente em dívida.\n\n9 - A entidade obrigada à transferência deve, na data de realização da transferência, informar a entidade gestora do serviço «em alta» dos valores apurados nos termos do n.º 1, obedecendo ao formato definido no anexo II ao presente decreto-lei e que dele faz parte integrante."
+  },
+  "115960787": {
+   "fragment_id": "115946514",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidade Reguladora dos Serviços de Águas e Resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidade Reguladora dos Serviços de Águas e Resíduos\n\nNo quadro das suas atribuições a Entidade Reguladora dos Serviços de Águas e Resíduos difunde, junto das entidades gestoras referidas no artigo 2.º, esclarecimentos relativamente à forma de implementação do presente decreto-lei."
+  },
+  "115960788": {
+   "fragment_id": "115946515",
+   "type": 11,
+   "heading": "Artigo 7.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sanções\n\nSem prejuízo da faculdade prevista no n.º 19 do artigo 67.º, o incumprimento do disposto no presente decreto-lei é punido nos termos previstos no n.º 1 do artigo 72.º, ambos do Decreto-Lei n.º 194/2009, de 20 de agosto, alterado pelo Decreto-Lei n.º 92/2010, de 26 de julho e pela Lei n.º 12/2014, de 6 de março."
+  },
+  "115960789": {
+   "fragment_id": "115946516",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de março de 2015."
+  },
+  "115960791": {
+   "fragment_id": "115946518",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 4.º)\n\n1 - Serviço de abastecimento público de água:\n\na) Valor unitário da componente fixa do preço do serviço de abastecimento devida à entidade gestora e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aferição do volume de água consumido, designadamente, medição, comunicação de leitura ou estimativa da entidade gestora;\n\nc) Quantidade de água consumida, repartida por escalões de consumo, quando aplicável;\n\nd) Valores unitários da componente variável do preço do serviço de abastecimento aplicáveis;\n\ne) Valor da componente variável resultante da sua aplicação aos consumos realizados em cada escalão, discriminando eventuais acertos face a volumes ou valores já faturados;\n\nf) Preços aplicados a eventuais serviços auxiliares do serviço de abastecimento que tenham sido prestados.\n\n2 - Serviço de saneamento de águas residuais urbanas:\n\na) Valor unitário da componente fixa do preço do serviço de saneamento e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aferição do volume de efluente recolhido, nomeadamente, se por medição ou se por indexação ao volume de água consumida;\n\nc) Quantidade de águas residuais urbanas recolhidas, repartida por escalões de consumo, quando aplicável;\n\nd) Valor(es) unitário(s) da componente variável do preço do serviço de saneamento ou da percentagem aplicada ao valor faturado pelo abastecimento de água, conforme aplicável;\n\ne) Valor da componente variável do serviço de saneamento, discriminando eventuais acertos face a volumes ou valores já faturados;\n\nf) Tarifas aplicadas a eventuais serviços auxiliares do serviço de saneamento que tenham sido prestados.\n\n3 - Serviço de gestão de resíduos urbanos:\n\na) Valor unitário da componente tarifa fixa do preço do serviço de gestão de resíduos e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aplicação da componente variável do preço do serviço de gestão de resíduos, designadamente se por medição, estimativa ou indexação a um indicador de base específica;\n\nc) Quantidade de resíduos urbanos recolhidos, repartida por escalões de consumo, quando aplicável;\n\nd) Valor da componente variável do serviço de gestão de resíduos, discriminando eventuais acertos face a quantidades ou valores já faturados;\n\ne) Tarifas aplicadas a eventuais serviços auxiliares do serviço de gestão de resíduos que tenham sido prestados."
+  },
+  "115960792": {
+   "fragment_id": "115946519",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 9 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 9 do artigo 5.º)\n\nServiço de abastecimento de água\n\n(ver documento original)\n\nServiço de saneamento de águas residuais\n\n(ver documento original)\n\nServiço de gestão de resíduos urbanos\n\n(ver documento original)"
+  },
+  "115960790": {
+   "fragment_id": "115946517",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de junho de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima - Miguel de Castro Neto - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 16 de julho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 17 de julho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "115960800": {
+   "fragment_id": "115946518",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": "2018-11-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 41/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08](https://diariodarepublica.pt/dr/detalhe/lei/41-2018-115940706), em vigor a partir de 2018-11-06"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 4.º)\n\n1 - Serviço de abastecimento público de água:\n\na) Valor unitário da componente fixa do preço do serviço de abastecimento devida à entidade gestora e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aferição do volume de água consumido, designadamente, medição, comunicação de leitura ou estimativa da entidade gestora;\n\nc) Quantidade de água consumida, repartida por escalões de consumo, quando aplicável;\n\nd) Valores unitários da componente variável do preço do serviço de abastecimento aplicáveis;\n\ne) Valor da componente variável resultante da sua aplicação aos consumos realizados em cada escalão, discriminando eventuais acertos face a volumes ou valores já faturados;\n\nf) Preços aplicados a eventuais serviços auxiliares do serviço de abastecimento que tenham sido prestados.\n\ng) Informação simplificada sobre os resultados da última verificação da qualidade da água para consumo humano, obtidos na implementação do programa de controlo da qualidade da água (PCQA).\n\n2 - Serviço de saneamento de águas residuais urbanas:\n\na) Valor unitário da componente fixa do preço do serviço de saneamento e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aferição do volume de efluente recolhido, nomeadamente, se por medição ou se por indexação ao volume de água consumida;\n\nc) Quantidade de águas residuais urbanas recolhidas, repartida por escalões de consumo, quando aplicável;\n\nd) Valor(es) unitário(s) da componente variável do preço do serviço de saneamento ou da percentagem aplicada ao valor faturado pelo abastecimento de água, conforme aplicável;\n\ne) Valor da componente variável do serviço de saneamento, discriminando eventuais acertos face a volumes ou valores já faturados;\n\nf) Tarifas aplicadas a eventuais serviços auxiliares do serviço de saneamento que tenham sido prestados;\n\ng) Informação simplificada sobre os resultados obtidos no saneamento de águas residuais urbanas.\n\n3 - Serviço de gestão de resíduos urbanos:\n\na) Valor unitário da componente tarifa fixa do preço do serviço de gestão de resíduos e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aplicação da componente variável do preço do serviço de gestão de resíduos, designadamente se por medição, estimativa ou indexação a um indicador de base específica;\n\nc) Quantidade de resíduos urbanos recolhidos, repartida por escalões de consumo, quando aplicável;\n\nd) Informação simplificada, com periodicidade anual, sobre a distribuição do encaminhamento de resíduos urbanos para as diferentes operações de gestão;\n\ne) Valor da componente variável do serviço de gestão de resíduos, discriminando eventuais acertos face a quantidades ou valores já faturados;\n\nf) Tarifas aplicadas a eventuais serviços auxiliares do serviço de gestão de resíduos que tenham sido prestados.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 41/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08](https://diariodarepublica.pt/dr/detalhe/lei/41-2018-115940706), em vigor a partir de 2018-11-06"
+  },
+  "220217620": {
+   "fragment_id": "115946512",
+   "type": 11,
+   "heading": "Artigo 4.º — Regras relativas ao detalhe das faturas",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22"
+   ],
+   "markdown": "###### Artigo 4.º — Regras relativas ao detalhe das faturas\n\n1 - Sem prejuízo da informação que resulta de legislação e regulamentação específicas, nomeadamente as relativas a taxas e impostos, as faturas relativas aos serviços de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos emitidas pelas entidades referidas no artigo 2.º devem incluir a informação constante do anexo I ao presente decreto-lei e que dele faz parte integrante.\n\n2 - Quando os sistemas municipais se encontrem vinculados a sistemas multimunicipais ou intermunicipais, incluindo os geridos através de parcerias públicas, a fatura deve incluir, em caixa autónoma, informação relativa ao custo médio unitário dos serviços prestados pelas entidades gestoras destes sistemas, doravante designadas entidades gestoras do serviço «em alta».\n\n3 - Para efeitos do número anterior é apresentado um custo médio unitário associado aos serviços de abastecimento de água, de saneamento de águas residuais e de gestão de resíduos urbanos, calculado, por referência ao ano civil anterior, tendo por base o valor total da faturação associada a cada um dos serviços emitida pela entidade gestora do serviço «em alta», a dividir pelo total de metros cúbicos de água faturados aos utilizadores finais do sistema municipal e usados como indexante para a faturação dos serviços de saneamento e de gestão de resíduos urbanos.\n\n4 - No caso de medição do efluente recolhido e ou dos resíduos recolhidos, o valor total da faturação associada a cada um destes serviços emitida pela entidade gestora do serviço «em alta», é dividido pelo total de metros cúbicos ou quantidades (quilogramas ou litros) faturados aos utilizadores finais do sistema municipal.\n\n5 - Quando os volumes faturados no serviço «em alta» e «em baixa» forem expressos em unidades de medida diversa, a informação referida nos números anteriores é apresentada na unidade adotada na faturação do serviço «em baixa».\n\n6 - Nos casos em que a cobrança dos serviços mencionados seja efetuada por entidade diversa, cabe à entidade que se encontra vinculada ao sistema multimunicipal ou intermunicipal, o apuramento da informação a inscrever na caixa informativa a que se refere o n.º 2 e a sua comunicação à entidade que emite a fatura.\n\n> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22"
+  },
+  "220217621": {
+   "fragment_id": "115946518",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 41/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08](https://diariodarepublica.pt/dr/detalhe/lei/41-2018-115940706), em vigor a partir de 2018-11-06"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 4.º)\n\n1 - Serviço de abastecimento público de água:\n\na) Valor unitário da componente fixa do preço do serviço de abastecimento devida à entidade gestora e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aferição do volume de água consumido, designadamente, medição, comunicação de leitura ou estimativa da entidade gestora;\n\nc) Quantidade de água consumida, repartida por escalões de consumo, quando aplicável;\n\nd) Valores unitários da componente variável do preço do serviço de abastecimento aplicáveis;\n\ne) Valor da componente variável resultante da sua aplicação aos consumos realizados em cada escalão, discriminando eventuais acertos face a volumes ou valores já faturados;\n\nf) Preços aplicados a eventuais serviços auxiliares do serviço de abastecimento que tenham sido prestados.\n\ng) Informação simplificada sobre os resultados da última verificação da qualidade da água para consumo humano, obtidos na implementação do programa de controlo da qualidade da água (PCQA).\n\n2 - Serviço de saneamento de águas residuais urbanas:\n\na) Valor unitário da componente fixa do preço do serviço de saneamento e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aferição do volume de efluente recolhido, nomeadamente, se por medição ou se por indexação ao volume de água consumida;\n\nc) Quantidade de águas residuais urbanas recolhidas, repartida por escalões de consumo, quando aplicável;\n\nd) Valor(es) unitário(s) da componente variável do preço do serviço de saneamento ou da percentagem aplicada ao valor faturado pelo abastecimento de água, conforme aplicável;\n\ne) Valor da componente variável do serviço de saneamento, discriminando eventuais acertos face a volumes ou valores já faturados;\n\nf) Tarifas aplicadas a eventuais serviços auxiliares do serviço de saneamento que tenham sido prestados;\n\ng) Informação simplificada sobre os resultados obtidos no saneamento de águas residuais urbanas.\n\n3 - Serviço de gestão de resíduos urbanos:\n\na) Valor unitário da componente tarifa fixa do preço do serviço de gestão de resíduos e valor resultante da sua aplicação ao período de prestação do serviço identificado que está a ser objeto de faturação;\n\nb) Indicação do método de aplicação da componente variável do preço do serviço de gestão de resíduos, designadamente se por medição, estimativa ou indexação a um indicador de base específica;\n\nc) Quantidade de resíduos urbanos recolhidos, repartida por escalões de consumo, quando aplicável;\n\nd) Informação simplificada, com periodicidade anual, sobre a distribuição do encaminhamento de resíduos urbanos para as diferentes operações de gestão;\n\ne) Valor da componente variável do serviço de gestão de resíduos, discriminando eventuais acertos face a quantidades ou valores já faturados;\n\nf) Tarifas aplicadas a eventuais serviços auxiliares do serviço de gestão de resíduos que tenham sido prestados.\n\n> Revogado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 69/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2023-220113533), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 41/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08](https://diariodarepublica.pt/dr/detalhe/lei/41-2018-115940706), em vigor a partir de 2018-11-06"
+  }
+ }
+}

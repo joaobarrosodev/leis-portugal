@@ -1,0 +1,332 @@
+---
+schema_version: '1.0'
+id: pt:dre:1058799979:por
+title: Portaria n.º 89-B/2026/1
+short_title: null
+summary: Aprova o plano de gestão da Zona Especial de Conservação (ZEC) Ribeira de Quarteira (PTCON0038).
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia e Coesão Territorial, Ambiente e Energia e Agricultura e Mar
+proposing_entity: null
+official_number: 89-B/2026/1
+official_date: null
+publication_date: '2026-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2026, Suplemento, Série I de 2026-02-23
+  number: '37'
+  series: I
+  supplement: null
+  pages: 40 - 63
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/03702/0004000063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/89-b/2026/02/23/p/dre/pt/html
+  oj: null
+  dre: '1058799979'
+  dre_path: /dr/detalhe/portaria/89-b-2026-1058799979
+  internal: pt:dre:1058799979:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-b-2026-1058799979
+  metadata_url: https://data.dre.pt/eli/port/89-b/2026/02/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-b-2026-1058799979
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 57bb79c44ad40fe032f1d1bfd7a37923f79253d11d90a6e484baa986d458cf46
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Diversidade Biológica
+- Espécie Protegida
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
+- Quarteira
+- Recursos Naturais
+- Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- Ribeira de Quarteira
+- Vida Selvagem
+- Zona Especial de Conservação
+relationships:
+- type: cites
+  target: pt:dre:1029684057:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/27/2026/01/30/p/dre
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156-a/2013/11/08/p/dre
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:33:08Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 89-B/2026/1
+
+de 23 de fevereiro
+
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Ribeira de Quarteira (PTCON0038), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+
+Posteriormente, o [Decreto-Lei n.º 27/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2026-1029684057), de 30 de janeiro, completou o processo de classificação da ZEC Ribeira de Quarteira, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável. Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação de natureza preventiva e regulamentar, necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC, assim como a perturbação significativa dessas espécies, as quais se tipificam em medidas de ordenamento do território e medidas de gestão.
+
+Neste contexto, cumpre agora aprovar o plano de gestão da ZEC Ribeira de Quarteira, numa abordagem integrada que dê resposta às exigências ecológicas específicas da ZEC, procedendo à identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens com presença significativa na sua área e que justificaram o seu reconhecimento como SIC pela Comissão Europeia e a sua subsequente classificação como ZEC, bem como adotando um conjunto de medidas e ações de conservação complementares, designadamente medidas de gestão ativa e de suporte, conforme o disposto no artigo 12.º do [Decreto-Lei n.º 27/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2026-1029684057), de 30 de janeiro. O plano de gestão da ZEC Ribeira de Quarteira tem também por função estabelecer as prioridades de conservação da zona, identificando as espécies e os tipos de habitat protegidos com presença significativa na ZEC em relação aos quais se impõem medidas mais urgentes.
+
+Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, do artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e do artigo 12.º do [Decreto-Lei n.º 27/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2026-1029684057), de 30 de janeiro, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria aprova o plano de gestão da Zona Especial de Conservação (ZEC) Ribeira de Quarteira, anexo à presente portaria e que dela faz parte integrante.
+
+###### Artigo 2.º — Âmbito
+
+1 - O plano de gestão da ZEC Ribeira de Quarteira identifica os tipos de habitat naturais e seminaturais e as espécies da flora e fauna selvagens com presença significativa na ZEC Ribeira de Quarteira e adota medidas e ações complementares de conservação.
+
+2 - O plano de gestão da ZEC Ribeira de Quarteira deve ser aplicado em conjunto e simultaneamente com o [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e com o [Decreto-Lei n.º 27/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2026-1029684057), de 30 de janeiro, que fixou os objetivos específicos para a sua conservação e estabeleceu as medidas de conservação de natureza regulamentar necessárias para atingir esses objetivos.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 20 de fevereiro de 2026.
+
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
+
+## ANEXO — (a que se refere o artigo 1.º)
+
+PLANO DE GESTÃO DA ZEC RIBEIRA DE QUARTEIRA (PTCON0038)
+
+LOCALIZAÇÃO
+
+A ZEC Ribeira de Quarteira, com uma área total aproximada de 579 ha, localiza-se nos concelhos de Albufeira e Loulé conforme se apresenta no Quadro 1. A sua localização encontra-se representada cartograficamente na Figura 1, estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
+
+QUADRO 1
+
+Unidades territoriais abrangidas pela ZEC Ribeira de Quarteira
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800094.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800095.png) |
+| --- |
+
+CARACTERIZAÇÃO
+
+A ZEC Ribeira de Quarteira desenvolve-se ao longo de um troço da Ribeira de Quarteira, o qual atravessa um vale encaixado, com reduzida perturbação humana. Nas margens da ribeira podem encontrar-se loendrais e freixiais em regeneração e também intrusões significativas de canaviais. Nas encostas envolventes, por vezes com declives bastante acentuados, encontram-se extensas áreas revestidas por diversos tipos de matos mediterrânicos, de um modo geral, em boa conservação. O substrato pedregoso, com origem em margas, calcários e dolomitos, associado ao mosaico de tipos de habitat possibilita a existência de uma grande diversidade florística, encontrando-se aqui várias plantas raras a nível nacional ou mesmo endémicas.
+
+A presença humana de modo permanente é bastante reduzida no interior da ZEC. Por outro lado, existem indícios de atividade agrícola um pouco por todo o território, nomeadamente pela presença de pomares de sequeiro, alguns ativos, principalmente nas zonas com melhor acessibilidade e outros há muito abandonados. Os terraços e muros de pedra (valados), que delimitam as parcelas agrícolas, ajudam a caracterizar a paisagem local e são provas de um passado onde a atividade agrícola ocupava praticamente todo o território da ZEC. Predominam os pomares de sequeiro, principalmente os alfarrobais, e com menor expressão, amendoais e olivais. As parcelas agrícolas abandonadas são colonizadas por matos baixos, principalmente tomilhais e sargaçais e nas parcelas ativas, sujeitas a intervenção regular, encontram-se prados anuais de plantas arvenses basófilas.
+
+O troço da ribeira de Quarteira que atravessa a ZEC tem características acentuadamente mediterrânicas. O escoamento anual caracteriza-se por um regime marcadamente sazonal, alternando um período húmido, no qual a ribeira está ativa, e um período seco, onde o curso de água é praticamente inoperante. O caudal é, pois, bastante irregular e o leito encontra-se seco durante a maior parte do ano.
+
+No que respeita ao uso e ocupação do solo, no território da ZEC Ribeira de Quarteira predominam os matos e matagais, que ocupam cerca de 335 hectares, distribuídos principalmente ao longo das vertentes do vale da ribeira. Estes matos e matagais encontram-se em mosaico com áreas agrícolas (180 ha), principalmente pomares (143,5 ha) e olivais (22,2 ha). Na sua maioria, os pomares correspondem a pomares de sequeiro extensivos, principalmente de alfarrobeiras e, muito esporadicamente, de amendoeiras. Na zona nordeste da ZEC (Barradinha), encontram-se sinalizados mosaicos agroflorestais, mas que na verdade correspondem a mosaicos culturais, com pomares de citrinos, pousios e culturas temporárias de sequeiro e regadio
+
+Em termos de valores naturais com presença significativa na ZEC destacam-se os matos termomediterrânicos e os prados de gramíneas anuais, designadamente, no primeiro caso, os carrascais, que se encontram em mosaicos complexos com sargaçais-tojais e com tomilhais. As clareiras destes matos são particularmente ricas em diversidade florística e são muito frequentes os prados anuais. Nos solos mais pedregosos, encontram-se prados rupícolas calcários. Os tomilhais e os prados anuais podem também encontrar-se associados aos pomares de sequeiro, geralmente em pousios não muito longos. Nas vertentes soalheiras e pedregosas, encontram-se comunidades mais termófilas, com destaque para os zimbrais de Juniperus turbinata e os prados vivazes de Stipa tenacissima. Ambos formam mosaicos com tomilhais e matagais. No vale encaixado da ribeira de Quarteira assinalam-se ainda algumas escarpas, colonizadas por vegetação rupícola calcícola, incluindo Asplenium petrarchae e Convolvulus siculus subsp. elongatus, duas plantas de distribuição restrita em Portugal. Nas margens da ribeira predomina a regeneração do freixial (Fraxinus angustifolia), que se encontra em mosaico com matagais de loendro (Nerium oleander) e tamargueira (Tamarix africana). Extensos troços das margens encontram-se invadidos por canavial (Arundo donax), cuja expansão representa a principal pressão sobre estes tipos de habitat. No leito da ribeira e durante os períodos em que existe caudal, podem observar-se comunidades de Chara spp..
+
+No que respeita à flora, a riqueza florística desta ZEC é notável, num elenco que inclui endemismos algarvios e lusitânicos e diversas plantas raras a nível regional ou nacional. Destaca-se o Thymus lotocephalus, tomilho endémico do Algarve, incluído nos anexos II e IV da Diretiva Habitats, que ocorre com grande regularidade na ZEC, possuindo uma população abundante e bem conservada.
+
+Na ZEC da Ribeira de Quarteira existe uma grande riqueza e diversidade de espécies de invertebrados, sendo que o principal destaque vai para a borboleta fritilária-dos-lameiros (Euphydryas aurinia), a qual consta do anexo II da Diretiva Habitats.
+
+Os dados para a fauna piscícola da ZEC são pouco robustos. É altamente provável a presença de algumas espécies incluídas nos anexos II, IV e V da Diretiva Habitats, dada a sua ocorrência na bacia hidrográfica da ribeira de Quarteira, contudo não há informação suficiente para avaliar a sua representatividade na ZEC.
+
+Em relação à herpetofauna merece destaque o cágado-mediterrânico (Mauremys leprosa), única espécie do Anexo II da Diretiva Habitats com presença significativa na ZEC e que está presente ao longo de todo o sistema hidrológico da ribeira de Quarteira.
+
+VALORES NATURAIS
+
+Na ZEC Ribeira de Quarteira ocorrem com presença significativa sete tipos de habitat (Quadro 2), e uma espécie da flora e duas espécies da fauna (Quadro 3), dos anexos I e II da Diretiva Habitats, respetivamente.
+
+A ZEC assume contudo especial relevância para a conservação de seis tipos de habitat e para a espécie de flora, valores que constituem prioridades de conservação e para os quais se impõem medidas de gestão mais urgentes (valores alvo assinalados a negrito e com um # nos Quadros 2 e 3).
+
+QUADRO 2
+
+Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800096.png) |
+| --- |
+
+QUADRO 3
+
+Espécies de flora e fauna do anexo II da Diretiva Habitats com presença significativa na ZEC
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800097.png) |
+| --- |
+
+OBJETIVOS DE CONSERVAÇÃO
+
+Os objetivos de conservação para os valores com presença significativa são identificados no Quadro 4 e constituem o quadro de referência das medidas de conservação definidas para a gestão da ZEC. São ainda identificadas as metas a atingir no período de vigência do plano e os respetivos indicadores de resultado.
+
+A integridade ecológica da ZEC fica, deste modo, enquadrada pelo conjunto dos objetivos de conservação definidos, cuja prossecução permitirá contribuir para os objetivos da Diretiva Habitats, ou seja, assegurar a biodiversidade através da manutenção ou restabelecimento do estado de conservação favorável ou da tendência populacional, conforme aplicável, dos tipos de habitat e das espécies presentes nos sítios e para a coerência da Rede Natura 2000.
+
+Tendo em consideração o grau de desconhecimento relativamente ao habitat 3140 - Águas oligo-mesotróficas calcárias com vegetação bêntica de Chara spp., para este valor não é estabelecido o objetivo de conservação a alcançar no quadro da gestão da ZEC. Contudo, é expectável que venha a beneficiar de medidas de conservação propostas para os restantes valores que estão associados ao mesmo tipo de biótopo, designadamente do habitat 92D0. O presente plano identificará medidas de conservação complementares que visam colmatar as lacunas de conhecimento existentes sobre este habitat, de modo que, futuramente, possam ser propostos objetivos de conservação dirigidos a este valor.
+
+QUADRO 4
+
+Objetivos de conservação para a gestão da ZEC
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800098.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800099.png) |
+| --- |
+
+MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
+
+O Plano de Gestão identifica as medidas de conservação complementares às previstas no [Decreto-Lei n.º 27/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2026-1029684057), de 30 de janeiro, que visam dar resposta às exigências ecológicas dos valores com prioridade em termos de conservação (valores alvo), definidas em função da condição destes e dos condicionamentos e contextos de ordem legal, social, organizacional, económica e financeira.
+
+As medidas de conservação complementares estabelecidas para a gestão da ZEC Ribeira de Quarteira e respetivo quadro operacional estão identificados no Quadro 5, com a definição dos indicadores de realização, as respetivas metas, as entidades envolvidas na execução e a calendarização.
+
+A informação relevante para a execução das medidas de conservação complementares é apresentada de forma detalhada nas “Fichas das Medidas de Conservação Complementares”.
+
+QUADRO 5
+
+Quadro operacional das medidas de conservação complementares
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800100.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800101.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800102.png) |
+| --- |
+
+MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
+
+O plano de gestão aplica-se complementarmente a um conjunto de medidas de natureza regulamentar e preventiva, identificadas e operacionalizadas no [Decreto-Lei n.º 27/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2026-1029684057), de 30 de janeiro.
+
+VIGÊNCIA DO PLANO DE GESTÃO
+
+O plano de gestão terá uma vigência de dez anos.
+
+ACOMPANHAMENTO
+
+A execução do plano de gestão é objeto de acompanhamento continuado ao longo do seu período de vigência.
+
+O acompanhamento é coordenado pelo ICNF com a participação das autoridades corresponsáveis em razão da matéria, das administrações central e local, das entidades representativas dos agentes e operadores dos setores económico, social, da sociedade civil e dos proprietários, relevantes para a prossecução dos objetivos do plano.
+
+Será efetuada uma avaliação intercalar ao quinto ano de vigência do plano, a qual incluirá o ponto de situação intermédio da execução das medidas, um balanço das medidas concluídas, das medidas em curso e das medidas não iniciadas. Da análise da realização intermédia atingida face às metas estabelecidas para a medida, a entidade responsável pelo acompanhamento do plano de gestão deverá decidir sobre as alterações necessárias no plano de gestão, num quadro de articulação institucional, a propor às respetivas tutelas. Caso seja necessário, deverá ser elaborada uma versão revista das fichas das medidas de conservação.
+
+No final do seu período de vigência, a eficácia do plano de gestão deve ser avaliada num exercício de análise cruzada entre o grau de execução das medidas de conservação e a evolução da condição dos valores alvo. Para esta avaliação relacionam-se os resultados finais da execução das medidas (através dos indicadores de realização) e do cumprimento dos objetivos de conservação (através dos indicadores de resultado). O relatório desta avaliação final deverá também incluir a análise da evolução dos fatores externos com eventual impacto na gestão da ZEC (por exemplo, das pressões e atividades mais relevantes, das condicionantes legais e dos instrumentos de financiamento das medidas de conservação), a descrição da análise efetuada no período em causa para a evolução dos indicadores de realização, a descrição das alterações intercalares efetuadas e respetiva fundamentação, e as propostas de alteração do plano de gestão.
+
+A aferição dos indicadores de resultado decorrerá dos procedimentos correntes de monitorização da Rede Natura 2000 a que o Estado português está obrigado no âmbito da implementação da Diretiva Habitats.
+
+O Quadro 6 estabelece a correspondência entre as medidas e os objetivos de conservação para os quais concorrem, cuja avaliação final permite decidir sobre a necessidade de manutenção/exclusão/alteração da medida no ciclo de programação seguinte. No referido quadro são assinalados (a cinza) os campos a preencher em sede de avaliação final da implementação do plano de gestão.
+
+QUADRO 6
+
+Modelo de matriz de avaliação final da implementação do plano de gestão
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800103.png) |
+| --- |
+
+FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
+
+Fontes de Financiamento - Glossário:
+
+PEPAC - Plano Estratégico da Política Agrícola Comum para Portugal 2023-2027
+
+Algarve 2030 - Programa Operacional Regional do Algarve (FEDER)
+
+LIFE - instrumento de financiamento da União Europeia para o ambiente e a ação climática
+
+PRR - Plano de Recuperação e Resiliência
+
+I&D - Investigação e Desenvolvimento
+
+OE - Orçamento de Estado
+
+PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800104.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800105.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800106.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800107.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800108.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800109.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800110.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800111.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800112.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800113.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800114.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800115.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058799979/1058800116.png) |
+| --- |
+
+119947756

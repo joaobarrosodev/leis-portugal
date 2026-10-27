@@ -1,0 +1,541 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:423063:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-221609110",
+ "dre_path": "/dr/detalhe/decreto-lei/318-1999-423063",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221562137",
+    "221562138",
+    "221562139",
+    "221562140",
+    "221562141",
+    "221562142",
+    "221562143",
+    "221562144",
+    "221562145",
+    "221562146",
+    "221562147",
+    "221562148",
+    "221562149",
+    "221562150",
+    "221562151",
+    "221562152",
+    "221562153",
+    "221562154",
+    "221562155",
+    "221562156",
+    "221562157",
+    "221562158",
+    "221562159",
+    "221562160",
+    "221562161",
+    "221562162",
+    "221562163",
+    "221562164",
+    "221562165",
+    "221562166",
+    "221562167",
+    "221562168",
+    "221562169",
+    "221562170",
+    "221562171",
+    "221562172",
+    "221562173",
+    "221562174",
+    "221640975",
+    "221640976",
+    "221640977",
+    "221640978"
+   ]
+  },
+  {
+   "date": "2007-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520874:por",
+     "title": "Decreto-Lei n.º 149/2007",
+     "published": "2007-04-27",
+     "dre_path": "/dr/detalhe/decreto-lei/149-2007-520874"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "221562137",
+    "221562138",
+    "221562139",
+    "221562140",
+    "221562141",
+    "221562142",
+    "221562143",
+    "221640993",
+    "221640994",
+    "221640995",
+    "221640996",
+    "221640997",
+    "221640998",
+    "221562150",
+    "221562151",
+    "221562152",
+    "221562153",
+    "221562154",
+    "221562155",
+    "221640999",
+    "221562157",
+    "221562158",
+    "221562159",
+    "221562160",
+    "221562161",
+    "221562162",
+    "221562163",
+    "221562164",
+    "221562165",
+    "221562166",
+    "221562167",
+    "221562168",
+    "221562169",
+    "221562170",
+    "221562171",
+    "221562172",
+    "221562173",
+    "221562174",
+    "221640975",
+    "221640976",
+    "221640977",
+    "221640978",
+    "221640979"
+   ]
+  }
+ ],
+ "fragments": {
+  "221562137": {
+   "fragment_id": "221609111",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 318/99\n\nde 11 de Agosto\n\nPortugal, como Estado Contratante da Convenção sobre Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944 (Convenção de Chicago), assumiu numerosas obrigações internacionais destinadas a garantir a segurança da navegação aérea.\n\nUma dessas obrigações é investigar os acidentes e incidentes aeronáuticos ocorridos no território nacional, com a finalidade exclusiva de os prevenir, devendo a investigação ser conduzida em conformidade com as normas e práticas recomendadas, estabelecidas no anexo n.º 13 à referida Convenção, cuja aplicação tornou obsoletas as disposições do capítulo VIII do regulamento de navegação aérea, aprovado pelo Decreto n.º 20062, de 13 de Julho de 1931, sobre a matéria.\n\nEmbora seja mundialmente reconhecido o elevado nível de segurança alcançado na navegação aérea, nunca será de mais reforçá-lo, aperfeiçoando a eficácia do sistema, o que constitui o principal objectivo da Directiva do Conselho n.º <a href=\"eurlex.asp?ano=1994&id=394L0056\" title=\"Link para Directiva da Comunidade Europeia\">94/56/CE</a>, de 21 de Novembro, que no presente diploma legal se visa transpor.\n\nA citada directiva prevê que a investigação seja da responsabilidade de um organismo independente da autoridade reguladora da aviação civil, pelo que o presente diploma consagra a criação de um gabinete para o exercício de atribuições até agora cometidas, sucessivamente, à Direcção-Geral da Aviação Civil e ao Instituto Nacional de Aviação Civil.\n\nAproveita-se igualmente para regulamentar, pela primeira vez no direito interno, alguns aspectos da investigação técnica de acidentes e incidentes com aeronaves.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 86/98, de 18 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "221562138": {
+   "fragment_id": "221609112",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "221562139": {
+   "fragment_id": "221609113",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece os princípios que regem a investigação técnica, da responsabilidade do Estado Português, sobre acidentes e incidentes aeronáuticos e cria o Gabinete de Prevenção e Investigação de Acidentes com Aeronaves."
+  },
+  "221562140": {
+   "fragment_id": "221609114",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\nAcidente, um acontecimento relacionado com a operação de uma aeronave ocorrido entre o momento em que uma pessoa embarca com a intenção de voar e o momento em que todas as pessoas que embarcaram com essa intenção tenham desembarcado e no qual se verifique o seguinte:\n\n1) Uma pessoa tenha sofrido lesões mortais ou tenha ficado gravemente ferida, nas circunstâncias seguintes:\n\na) Encontrar-se na aeronave;\n\nb) Ter estado em contacto directo com qualquer parte da aeronave, incluindo partes que se tenham separado dessa aeronave;\n\nc) Ter estado directamente exposta ao fluxo dos reactores.\n\nAs circunstâncias atrás indicadas não procedem quando se trate de lesões ocasionadas por causas naturais, de ferimentos causados pelo próprio ou por terceiros ou sofridos por passageiros clandestinos escondidos fora das áreas normalmente reservadas aos passageiros e aos membros da tripulação;\n\n2) Uma aeronave tenha sofrido danos ou falha estrutural de que resulte:\n\na) A alteração das suas características de resistência estrutural, de desempenho, de comportamento ou de voo;\n\nb) A necessidade de uma reparação importante ou a substituição do componente afectado.\n\nAs circunstâncias atrás indicadas não procedem quando se trate de falhas ou avarias do motor, quando os danos se limitem ao motor, às suas capotagens ou acessórios, ou no caso de danos que se limitem às hélices, pontas das asas, antenas, pneus, travões, carenagens, pequenas amolgadelas ou furos no revestimento da aeronave;\n\n3) Uma aeronave tenha desaparecido ou ficado totalmente inacessível;\n\nAeronave, qualquer máquina que consiga uma sustentação na atmosfera devido às reacções do ar, que não as do ar sobre a superfície terrestre;\n\nAeronave civil, qualquer aeronave que no momento do acidente ou incidente não esteja a ser usada em serviços militares, aduaneiros ou policiais;\n\nAeronave de Estado, as aeronaves usadas nos serviços militares, aduaneiros ou policiais;\n\n«Aeronautical Information Publication - Portugal», adiante designada por AIP - Portugal, publicação de informação aeronáutica, estabelecida nos termos do anexo n.º 15 à Convenção;\n\nAnexo n.º 13, o anexo n.º 13 à Convenção de Chicago sobre Aviação Civil Internacional, que estabelece as normas e práticas recomendadas a observar quando da ocorrência de acidente ou incidente com aeronave;\n\nAutoridade aeronáutica nacional, o organismo da administração central que prossegue os objectivos do Estado em matéria de aviação civil, nomeadamente como responsável pela orientação da regulamentação e inspecção do conjunto das actividades desenvolvidas naquele âmbito, no espaço nacional e no internacional confiado à jurisdição portuguesa;\n\nCausas, quaisquer acções, omissões, acontecimentos e condições que, isolada ou conjugadamente, provoquem um acidente ou um incidente;\n\nConsultor técnico, uma pessoa, com qualificações adequadas, nomeada por um Estado para coadjuvar o investigador responsável ou o representante credenciado nomeado por esse Estado;\n\nConvenção, a Convenção sobre Aviação Civil Internacional, assinada em Chicago em 7 de Dezembro de 1944;\n\nEstado de fabrico, o Estado com jurisdição sobre a organização responsável pela montagem final da aeronave;\n\nEstado de ocorrência, o Estado em cujo território ocorra um acidente ou incidente;\n\nEstado do operador, o Estado onde o operador tem a sua sede social ou, caso a não tenha, o Estado onde tiver a sua residência permanente;\n\nEstado de projecto, o Estado que detenha a jurisdição sobre a organização responsável pelo projecto do tipo de aeronave;\n\nEstado de matrícula, o Estado onde se encontra matriculada a aeronave;\n\nIncidente, um acontecimento, que não seja um acidente, relacionado com a operação de uma aeronave, que afecte ou possa afectar a segurança da exploração;\n\nIncidente grave, um incidente que envolva circunstâncias que indiquem ter estado iminente a ocorrência de um acidente, considerando como tais, designadamente, os constantes da listagem publicada na AIP - Portugal;\n\nInvestigação técnica, o processo conduzido tendo em vista a prevenção de acidentes e incidentes, constituído pela recolha e análise de informações, elaboração de conclusões, determinação da ou das causas e, eventualmente, formulação de recomendações de segurança;\n\nInvestigador responsável, a pessoa, com qualificações adequadas, a quem incumbe a responsabilidade pela organização de uma investigação técnica, bem como pelo desenrolar e controlo da mesma;\n\nInvestigador técnico, a pessoa, com qualificações adequadas, nomeada para colaborar com o investigador responsável nas tarefas de investigação de acidentes e incidentes;\n\nInvestigador judiciário, a pessoa a quem incumbe, por força da lei, a responsabilidade pela investigação judiciária;\n\nLesão grave, qualquer lesão sofrida por uma pessoa durante um acidente, de que resulte o seguinte:\n\n1) A sua hospitalização por um período superior a quarenta e oito horas, com início no prazo de sete dias a contar da data do ferimento;\n\n2) Fracturas ósseas, excepto fracturas simples de dedos ou do nariz;\n\n3) Lacerações que causem hemorragias graves ou lesões nervosas, musculares ou tendinosas;\n\n4) A lesão de qualquer órgão interno;\n\n5) Queimaduras de 2.º ou 3.º graus ou quaisquer queimaduras em mais de 5% da superfície do corpo;\n\n6) A exposição comprovada a fontes de infecção ou radiações nocivas;\n\nLesão mortal, qualquer lesão sofrida por uma pessoa, durante um acidente, que, de modo necessário e directo, lhe provoque a morte imediatamente ou no prazo de 30 dias a contar da data desse acidente;\n\nOperador, qualquer pessoa, organismo ou empresa que explore legalmente a aeronave ou, na sua ausência ou desconhecimento, o seu proprietário;\n\nRecomendação de segurança, qualquer proposta do organismo responsável pela investigação dos acidentes ou incidentes, baseada em informações resultantes da investigação e feita com a intenção de prevenir acidentes e incidentes;\n\nRegistador de voo, qualquer tipo de registador instalado numa aeronave com a finalidade de facilitar a investigação de um acidente ou incidente;\n\nRelatório preliminar, a comunicação utilizada para a rápida divulgação da informação obtida durante as etapas iniciais da investigação;\n\nReparação importante, reparação que envolva alteração apreciável no peso e centragem, na resistência estrutural, nas características operacionais, na fiabilidade ou outras características que afectem a navegabilidade da aeronave;\n\nRepresentante credenciado, uma pessoa, com qualificações adequadas, nomeada por um Estado para participar na investigação conduzida por outro Estado."
+  },
+  "221562141": {
+   "fragment_id": "221609115",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se aos acidentes e incidentes que ocorram com aeronaves civis tripuladas, no território nacional ou no espaço aéreo sob jurisdição portuguesa.\n\n2 - Aplica-se igualmente aos acidentes e incidentes que ocorram no exterior do território nacional com aeronaves matriculadas em Portugal ou exploradas por um operador sediado ou residente em território português, no caso de nenhuma investigação técnica ser desencadeada pelo Estado da ocorrência."
+  },
+  "221562142": {
+   "fragment_id": "221609116",
+   "type": 1,
+   "heading": "Capítulo II — Organismo responsável pela investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organismo responsável pela investigação"
+  },
+  "221562143": {
+   "fragment_id": "221609117",
+   "type": 11,
+   "heading": "Artigo 4.º — Organismo responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organismo responsável\n\n1 - É criado, sob tutela do membro do Governo responsável pela aviação civil, o Gabinete de Prevenção e Investigação de Acidentes com Aeronaves, adiante designado por GPIAA.\n\n2 - São objectivos do GPIAA a investigação de acidentes e incidentes com aeronaves civis tripuladas e a participação nos programas e políticas de prevenção de acidentes e incidentes, no âmbito do presente diploma.\n\n3 - No exercício das suas atribuições, o GPIAA funciona de modo independente em relação às autoridades aeronáuticas responsáveis pela navegabilidade, certificação, operações aéreas, manutenção, licenciamento, controlo de tráfego aéreo, exploração de aeroportos, bem como relativamente a qualquer outra entidade cujos interesses possam entrar em conflito com a missão que lhe é atribuída."
+  },
+  "221562144": {
+   "fragment_id": "221609118",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições\n\nSão atribuições do GPIAA:\n\na) Investigar os acidentes e incidentes com a finalidade de determinar as suas causas e formular recomendações que evitem a sua repetição;\n\nb) Promover estudos e propor medidas de prevenção que visem reduzir a sinistralidade aeronáutica;\n\nc) Participar na comissão consultiva do Sistema Nacional de Busca e Salvamento Aéreo;\n\nd) Elaborar os relatórios técnicos sobre acidentes e incidentes, em conformidade com o artigo 25.º da Convenção, o anexo n.º 13 à mesma Convenção e o presente diploma, e promover a sua divulgação;\n\ne) Participar nas actividades desenvolvidas a nível de organizações internacionais no domínio da investigação e prevenção aeronáutica;\n\nf) Fazer propostas para adequar a legislação às necessidades nacionais e aos compromissos assumidos internacionalmente nas matérias respeitantes aos seus objectivos;\n\ng) Organizar e divulgar a informação relativa à investigação e prevenção de acidentes e incidentes aeronáuticos;\n\nh) Colaborar com os organismos de segurança dos operadores, dos serviços de tráfego aéreo e com associações profissionais nacionais, em matérias de prevenção;\n\ni) Colaborar com entidades homólogas de outros países na investigação e prevenção de acidentes e incidentes aeronáuticos;\n\nj) Delegar tarefas e solicitar a colaboração de entidades idóneas nos domínios da prevenção e investigação;\n\nl) Preparar, organizar e divulgar estatísticas de segurança de voo;\n\nm) Promover a formação, em matéria de prevenção e investigação, de pessoal que utilize no âmbito das suas atribuições, quer lhe esteja ou não afecto."
+  },
+  "221562145": {
+   "fragment_id": "221609119",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição e competências\n\n1 - O GPIAA é composto por um director, um director-adjunto, um corpo técnico e um secretariado.\n\n2 - Ao director compete:\n\na) Assegurar a prossecução dos objectivos e o bom funcionamento do Gabinete;\n\nb) Representar o Gabinete;\n\nc) Dirigir e coordenar os serviços do Gabinete, dispondo para tal das competências próprias de director-geral, nos termos da lei;\n\nd) Nomear os investigadores responsáveis e as comissões de investigação;\n\ne) Assegurar a elaboração dos relatórios de investigação, de acordo com os princípios estabelecidos na Convenção e na lei nacional.\n\n3 - As competências referidas no n.º 2 são delegáveis no director-adjunto ou, consoante a sua natureza, em técnicos afectos ao Gabinete e no coordenador do secretariado.\n\n4 - O director-adjunto substituirá o director nas suas ausências e impedimentos.\n\n5 - Compete aos técnicos do GPIAA colaborar nas investigações para que sejam nomeados e executar todas as tarefas técnicas que lhes sejam afectadas, em prossecução dos objectivos e de acordo com as atribuições do GPIAA.\n\n6 - Compete ao secretariado assegurar o apoio ao GPIAA, nomeadamente em matérias de expediente, tradução, arquivo, documentação, pessoal, contabilidade, património e economato."
+  },
+  "221562146": {
+   "fragment_id": "221609120",
+   "type": 11,
+   "heading": "Artigo 7.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pessoal\n\n1 - O director é nomeado de entre indivíduos de reconhecido mérito e experiência na investigação de acidentes aeronáuticos, em regime de comissão de serviço por três anos, renováveis, sendo equiparado a director-geral para todos os efeitos legais.\n\n2 - O director-adjunto é nomeado em regime de comissão de serviço por três anos, renováveis, sendo equiparado a subdirector-geral para todos os efeitos legais.\n\n3 - O recrutamento dos técnicos é feito em regime de comissão de serviço, requisição ou destacamento de entre quadros do funcionalismo público e outros técnicos de reconhecido mérito, mantendo-se todos os direitos e regalias, incluindo o estatuto remuneratório, inerentes ao serviço ou empresa de origem.\n\n4 - O secretariado é constituído por:\n\na) Um coordenador, equiparado a director de serviços, nomeado em comissão de serviço;\n\nb) Funcionários das carreiras técnico-profissional ou administrativa, recrutados em regime de requisição ou destacamento, nos termos da lei geral."
+  },
+  "221562147": {
+   "fragment_id": "221609121",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime financeiro\n\n1 - O GPIAA é dotado de autonomia administrativa.\n\n2 - O GPIAA fica autorizado a cobrar, nos termos da legislação aplicável, as taxas e outras receitas devidas pelos serviços prestados, bem como a ressarcir-se das despesas realizadas por conta de outrem, no âmbito das atribuições que lhe estão cometidas.\n\n3 - As importâncias a que se refere o número anterior, bem como as cobradas por entidade terceira, designadamente pela NAV, E. P., em contrapartida de tarefas realizadas e serviços prestados pelo GPIAA, nos termos da legislação aplicável, e cujo valor tenha sido incorporado nos custos da navegação aérea para efeitos de cálculo das taxas de rota, constituirão receita própria do GPIAA, a incluir no Orçamento do Estado, consignadas a dotações de despesas com compensação em receita.\n\n4 - As receitas próprias não aplicadas em cada ano transitarão para o ano seguinte e constituirão uma dotação destinada a financiar as despesas com eventuais acidentes ou incidentes que venham a ocorrer no exercício do ano económico seguinte.\n\n5 - Por despacho do Ministro das Finanças, as verbas constantes da dotação prevista no número anterior podem ser afectadas, total ou parcialmente, a despesas de outra natureza.\n\n6 - A cobrança das receitas e a respectiva escrituração e depósito são feitos nos termos do regime da tesouraria do Estado.\n\n7 - O director do GPIAA é responsável pela prestação anual de contas e certificará os documentos de despesa."
+  },
+  "221562148": {
+   "fragment_id": "221609122",
+   "type": 11,
+   "heading": "Artigo 9.º — Contratação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contratação de serviços\n\nO GPIAA pode contratar serviços no âmbito das suas competências e nos termos da lei vigente, bem como celebrar protocolos de colaboração com outras entidades que visem assegurar a investigação de acidentes e incidentes."
+  },
+  "221562149": {
+   "fragment_id": "221609123",
+   "type": 11,
+   "heading": "Artigo 10.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instalações\n\nO GPIAA funciona em instalações do respectivo ministério, adequadas à especificidade do funcionamento do organismo."
+  },
+  "221562150": {
+   "fragment_id": "221609124",
+   "type": 1,
+   "heading": "Capítulo III — Da investigação dos acidentes e incidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da investigação dos acidentes e incidentes"
+  },
+  "221562151": {
+   "fragment_id": "221609125",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigatoriedade de realizar a investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigatoriedade de realizar a investigação\n\n1 - Qualquer acidente ou incidente grave abrangido pelo artigo 3.º deve ser objecto de uma investigação técnica.\n\n2 - O GPIAA pode ainda investigar qualquer outro incidente quando considerar que da sua investigação podem ser recolhidos ensinamentos em matéria de segurança aérea.\n\n3 - A investigação prevista nos n.os 1 e 2 não tem por objectivo o apuramento de culpas ou a determinação de responsabilidades.\n\n4 - A realização total ou parcial da investigação técnica é delegável noutro Estado membro da União Europeia ou signatário da Convenção, com a aceitação deste.\n\n5 - O GPIAA pode aceitar a delegação, por um outro Estado, da totalidade ou parte de uma investigação técnica da responsabilidade do referido Estado."
+  },
+  "221562152": {
+   "fragment_id": "221609126",
+   "type": 11,
+   "heading": "Artigo 12.º — Nomeação de investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Nomeação de investigadores\n\n1 - Para a investigação de acidentes e incidentes, o director do GPIAA designa um investigador responsável pela investigação.\n\n2 - O director do GPIAA poderá, se tal se tornar necessário, e por proposta do investigador responsável, designar investigadores técnicos, constituindo uma comissão de investigação, sob a orientação do investigador responsável.\n\n3 - O investigador responsável, no exercício das suas funções, pode estabelecer os contactos que se tornem necessários com qualquer autoridade e seus agentes, assim como trocar informações e receber a colaboração de organismos e entidades públicas ou privadas, seja qual for a sua nacionalidade.\n\n4 - Em caso de impedimento do investigador responsável nomeado, ou em casos excepcionais em que a eficácia do inquérito o justifique, poderá o director do GPIAA nomear outro investigador responsável, em sua substituição."
+  },
+  "221562153": {
+   "fragment_id": "221609127",
+   "type": 11,
+   "heading": "Artigo 13.º — Acidentes que envolvem investigação militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acidentes que envolvem investigação militar\n\n1 - Em casos de acidente ou incidente entre uma aeronave civil e uma aeronave de Estado, a cooperação entre os investigadores nomeados nos termos do artigo 12.º do presente diploma e a comissão de investigação militar é objecto de despacho conjunto dos ministros da tutela.\n\n2 - Se ocorrer um acidente ou incidente que envolva uma aeronave civil em espaço aéreo sujeito a controlo militar ou em infra-estruturas militares, é constituída uma comissão de investigação mista conduzida pelo GPIAA, incorporando elementos do órgão militar competente.\n\n3 - Em caso de acidente ou incidente que envolva uma aeronave de Estado em espaço aéreo sujeito a controlo civil ou em infra-estrutura civil, é constituída uma comissão de investigação mista conduzida pelo órgão militar competente, incorporando elementos designados pelo GPIAA"
+  },
+  "221562154": {
+   "fragment_id": "221609128",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do investigador responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do investigador responsável\n\n1 - Ao investigador responsável compete:\n\na) Determinar as acções necessárias à investigação técnica;\n\nb) Comunicar à autoridade judiciária competente a ocorrência do acidente;\n\nc) Assegurar que a investigação técnica é conduzida de acordo com as normas e práticas recomendadas pela Organização de Aviação Civil Internacional, adiante designada por OACI;\n\nd) Efectuar o levantamento imediato dos indícios e a recolha controlada de destroços ou componentes para fins de exame ou análise, salvo decisão de autoridade judiciária em contrário;\n\ne) Investigar todas as circunstâncias em que ocorreu o acidente ou incidente, incluindo aquelas que podem não estar directamente a ele ligadas, mas que se entenda serem de particular importância para a segurança do voo;\n\nf) Propor ao director do GPIAA a colaboração de organizações estrangeiras de investigação de acidentes ou outras organizações especializadas;\n\ng) Requisitar à autoridade judiciária competente os relatórios das autópsias dos membros da tripulação que tenham falecido no acidente ou venham a falecer posteriormente como consequência deste, bem como os exames e os resultados das colheitas de amostras, efectuadas nas pessoas envolvidas na operação da aeronave e nos corpos das vítimas;\n\nh) Mandar proceder a testes de alcoolemia ou despistagem de estupefacientes nas pessoas envolvidas no acidente, sendo a recusa qualificada como crime de desobediência qualificada nos termos da lei penal;\n\ni) Solicitar às autoridades judiciárias ou policiais a identificação das testemunhas já ouvidas por aqueles;\n\nj) Transmitir às autoridades judiciárias os elementos que lhe forem solicitados;\n\nk) Determinar aos serviços de controlo de tráfego aéreo a cativação, durante o período de tempo necessário à investigação, das gravações das comunicações e dos registos radar e requerer a sua transcrição;\n\nl) Solicitar ao Instituto de Meteorologia a preparação de relatório da situação meteorológica e da informação meteorológica disponível na altura do acidente ou incidente;\n\nm) Solicitar à autoridade aeronáutica nacional toda a informação de que esta disponha sobre infra-estruturas, pessoal, material, operadores e procedimentos aeronáuticos com interesse para a investigação, incluindo os relativos a certificados e licenças, bem como qualquer informação aeronáutica relevante;\n\nn) Solicitar às autoridades judiciárias ou policiais, sem prejuízo da investigação judiciária, a conservação, custódia e vigilância do local e da aeronave, conteúdo e destroços, e a autorização para efectuar o mais rapidamente possível os exames e estudos necessários relativamente às pessoas e vestígios materiais de qualquer espécie, relacionados com o acidente;\n\no) Ouvir depoimentos de pessoas envolvidas e de testemunhas de acidentes ou incidentes, podendo notificá-las por escrito para comparecerem, sob pena de desobediência, em caso de não comparência injustificada.\n\n2 - As entidades mencionadas no número anterior deverão fornecer ao investigador responsável as informações referidas.\n\n3 - Se o investigador responsável encontrar, no decurso da investigação técnica, indícios passíveis de infracção criminal, deve proceder à sua comunicação imediata."
+  },
+  "221562155": {
+   "fragment_id": "221609129",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito de acesso\n\nNo exercício das suas competências, o investigador responsável tem acesso:\n\na) Ao local do acidente ou incidente, bem como à aeronave, seu conteúdo ou destroços;\n\nb) A qualquer local com interesse para a investigação;\n\nc) Ao conteúdo dos registadores de voo ou de quaisquer outros registos, assim como à leitura e análise desses elementos;\n\nd) Aos resultados dos exames ou das colheitas de amostras efectuadas nas pessoas envolvidas na exploração da aeronave e nas vítimas;\n\ne) A quaisquer informações pertinentes na posse do proprietário, do operador ou do construtor da aeronave e das entidades responsáveis pela aviação civil, incluindo aeroportos e sistemas de apoio à navegação aérea."
+  },
+  "221562156": {
+   "fragment_id": "221609130",
+   "type": 11,
+   "heading": "Artigo 16.º — Colaboração de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Colaboração de outras entidades\n\n1 - O GPIAA poderá requerer a colaboração de especialistas em áreas específicas pertencentes a outros órgãos da Administração Pública, empresas públicas ou privadas e Forças Armadas, para exercerem funções de investigador técnico, integrando ou assessorando a comissão de investigação nomeada nos termos do artigo 12.º\n\n2 - No caso de especialistas pertencentes ao sector público, serão disponibilizados pelos organismos a que pertencem, os quais suportarão os encargos com a respectiva remuneração, cabendo ao GPIAA os encargos com as deslocações, ajudas de custo e outras, decorrentes da investigação."
+  },
+  "221562157": {
+   "fragment_id": "221609131",
+   "type": 11,
+   "heading": "Artigo 17.º — Notificação do acidente ou incidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Notificação do acidente ou incidente\n\n1 - São de notificação obrigatória todos os acidentes e incidentes verificados no território ou no espaço aéreo sob a jurisdição de Portugal que ocorram com qualquer tipo de aeronave, seja qual for a sua matrícula ou marca de nacionalidade, compreendendo:\n\na) Balões tripulados;\n\nb) Dirigíveis;\n\nc) Planadores sem ou com motor;\n\nd) Aviões;\n\ne) Helicópteros;\n\nf) Autogiros;\n\ng) Ultraleves sem ou com motor.\n\n2 - A obrigação da notificação do acidente ou incidente compete às seguintes entidades:\n\na) Piloto comandante da aeronave envolvida;\n\nb) Operadores e proprietários das aeronaves envolvidas;\n\nc) Director dos aeroportos, aeródromos e heliportos em cuja área ocorra o acidente ou incidente;\n\nd) Controladores de tráfego aéreo ou chefes de turno de órgãos de controlo de tráfego aéreo em cuja área ocorra o acidente ou incidente.\n\n3 - A notificação de acidentes e incidentes graves deve ser feita ao GPIAA no prazo de seis horas após a sua ocorrência e os restantes no prazo de quarenta e oito horas.\n\n4 - As autoridades policiais e militares devem notificar ao GPIAA os acidentes e incidentes cuja ocorrência tenham verificado ou que tenham ocorrido em espaço sob sua jurisdição.\n\n5 - Os tripulantes ou, na sua indisponibilidade, o operador da aeronave envolvida num acidente ou incidente devem elaborar de imediato relatório da ocorrência, contendo os factos, condições e circunstâncias relacionados com o acidente ou incidente.\n\nNo caso de incapacitação física e ou mental, o tripulante deve fazer o seu depoimento logo que a sua condição física ou mental o permita.\n\n6 - O GPIAA também deve ser informado, obrigatoriamente, no mais curto espaço de tempo, pelo operador, proprietário ou seu representante legal, de qualquer acidente ou incidente grave ocorrido no estrangeiro, com qualquer aeronave de matrícula portuguesa, ou explorada por operador sediado ou residente em Portugal.\n\n7 - O director do GPIAA pode determinar, atentas as recomendações e práticas preconizadas pela OACI, a forma a utilizar para as notificações e relatórios referidos nos n.os 2, 5 e 6, devendo para o efeito publicitá-la através do AIP - Portugal e do Manual do Piloto Civil."
+  },
+  "221562158": {
+   "fragment_id": "221609132",
+   "type": 11,
+   "heading": "Artigo 18.º — Representantes credenciados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Representantes credenciados\n\n1 - Compete ao GPIAA a indigitação do representante credenciado à investigação do acidente ou incidente com aeronave de matrícula portuguesa, ocorrido no estrangeiro.\n\n2 - A participação na investigação de um acidente ou incidente grave deve ser conduzida em conformidade com o disposto sobre esta matéria no anexo n.º 13.\n\n3 - No caso de ocorrência, em território nacional, de um acidente ou incidente grave com uma aeronave matriculada em Portugal, o GPIAA deve notificar, se as circunstâncias do acidente ou incidente o justificarem, o Estado do fabricante.\n\n4 - No caso de ocorrência, em território nacional, de um acidente ou incidente grave com uma aeronave matriculada noutro Estado, o GPIAA deve notificar, no mais curto espaço de tempo, o Estado de matrícula, o Estado do operador, o Estado do fabricante e a OACI, em conformidade com o anexo n.º 13.\n\n5 - Os Estados referidos no número anterior podem designar um representante credenciado para assistir à audição das testemunhas e para participar na peritagem dos destroços e noutras fases de investigação.\n\n6 - Os Estados que designem representantes credenciados podem designar um ou mais consultores técnicos para prestarem assistência ao representante credenciado.\n\n7 - Quando o Estado de matrícula ou o Estado do operador não designarem um representante credenciado, pode ser convidado o operador a participar na investigação, sujeito aos procedimentos da investigação técnica em vigor."
+  },
+  "221562159": {
+   "fragment_id": "221609133",
+   "type": 11,
+   "heading": "Artigo 19.º — Protecção da aeronave e do local do acidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Protecção da aeronave e do local do acidente\n\n1 - É interdito a qualquer pessoa, sem prévia autorização do investigador responsável, modificar o estado do local onde tenha ocorrido um acidente, dele retirar seja o que for, bem como manipular ou deslocar a aeronave ou elementos seus, salvo por imposição de acções de salvamento ou segurança das populações.\n\n2 - Compete às entidades policiais, Forças Armadas, directores dos aeroportos, aeródromos e heliportos assegurar que o local do acidente é mantido inalterável, sem prejuízo das acções de salvamento.\n\n3 - O investigador responsável tem competência para decidir formas adicionais de protecção do local do acidente.\n\n4 - As medidas tomadas pelas autoridades judiciárias não devem constituir impedimento à investigação técnica e quando tomadas pelo investigador responsável também não devem constituir impedimento à investigação criminal.\n\n5 - A aeronave não pode ser removida do local do acidente sem autorização do investigador responsável, que determinará o local para onde a mesma deve ser deslocada para prosseguimento da investigação, salvo disposição em contrário da autoridade judiciária.\n\n6 - A aeronave envolvida em acidente ou incidente grave não pode ser objecto de reparação ou de qualquer tipo de intervenção de manutenção, sem que tenha sido libertada pelo investigador responsável, nos termos do artigo 22.º"
+  },
+  "221562160": {
+   "fragment_id": "221609134",
+   "type": 11,
+   "heading": "Artigo 20.º — Fornecimento de provas e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Fornecimento de provas e informação\n\n1 - Em caso de acidente ou incidente grave, os registadores de voo serão imediatamente disponibilizados ao investigador responsável, sem prejuízo da investigação judiciária.\n\n2 - Qualquer entidade que disponha de informação ou de elementos de prova relevantes para a investigação deve preservá-los e fornecê-los ao investigador responsável, quando este os solicitar."
+  },
+  "221562161": {
+   "fragment_id": "221609135",
+   "type": 11,
+   "heading": "Artigo 21.º — Colaboração na investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Colaboração na investigação\n\n1 - As autoridades judiciárias ou policiais e os investigadores técnicos devem actuar em colaboração mútua, no sentido de assegurarem a eficácia das investigações e, quando presentes no local do acidente ou incidente, devem, nomeadamente, providenciar para que sejam tomadas imediatamente, sem prejuízo das operações de salvamento, as seguintes medidas:\n\na) Isolamento e guarda do local do acidente;\n\nb) Afastamento de pessoas estranhas às investigações;\n\nc) Identificação das testemunhas e recolha das primeiras declarações prestadas voluntariamente, tendo em vista os objectivos da investigação técnica;\n\nd) Verificação, exame, recolha de vestígios e identificação de provas nos destroços da aeronave e nos corpos das vítimas antes da sua remoção.\n\n2 - Compete aos investigadores técnicos a prática dos actos cautelares necessários e urgentes para assegurar os meios de prova que exijam especiais conhecimentos técnicos.\n\n3 - Os investigadores técnicos devem comunicar aos investigadores judiciários as partes ou componentes da aeronave que, para efeitos da investigação, se torne necessário não deslocar ou desmontar, até ser efectuada peritagem mais detalhada por técnicos especializados.\n\n4 - A desmontagem e colheita de peças ou documentos e restantes diligências necessárias à determinação das causas técnicas do acidente, realizadas nos termos do n.º 2, devem ser comunicadas à autoridade judiciária.\n\n5 - Os investigadores técnicos prestarão às autoridades judiciárias a coadjuvação necessária no âmbito das suas funções."
+  },
+  "221562162": {
+   "fragment_id": "221609136",
+   "type": 11,
+   "heading": "Artigo 22.º — Libertação da aeronave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Libertação da aeronave\n\nAo investigador responsável compete decidir a libertação da aeronave, destroços ou componentes, quando já não se tornem necessários à investigação, após prévia autorização da autoridade judiciária."
+  },
+  "221562163": {
+   "fragment_id": "221609137",
+   "type": 11,
+   "heading": "Artigo 23.º — Depoimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Depoimentos\n\n1 - O depoimento de testemunhas de qualquer acidente ou incidente com aeronaves, no âmbito da investigação técnica, é confidencial quanto à identidade das testemunhas e visa unicamente os objectivos da referida investigação.\n\n2 - Os depoimentos gravados poderão ser utilizados quando não for possível produzir um depoimento escrito.\n\n3 - São obrigatórios os depoimentos de todas as pessoas intervenientes na segurança de voo."
+  },
+  "221562164": {
+   "fragment_id": "221609138",
+   "type": 11,
+   "heading": "Artigo 24.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Divulgação de informação\n\n1 - O GPIAA não pode divulgar os documentos constantes do processo de investigação técnica, salvo à autoridade judiciária competente, a seu pedido.\n\n2 - Os referidos documentos constarão do relatório final somente quando forem necessários à análise do acidente ou incidente. As partes dos documentos que não forem relevantes para a análise não serão divulgadas.\n\n3 - O investigador responsável, os investigadores técnicos, em especial, e de um modo geral todo o pessoal do GPIAA estão, em caso de existência de processo penal paralelo, sujeito ao segredo de justiça relativamente a todos os factos que tenham vindo ao seu conhecimento em virtude de colaboração com a autoridade judiciária, sem prejuízo de se poderem incluir tais factos nos relatórios que tiverem de elaborar e de poderem divulgar esses relatórios.\n\n4 - O segredo de justiça referido no número anterior cessa nas fases processuais previstas no Código de Processo Penal.\n\n5 - Aos acidentes e incidentes de aviação sujeitos a investigação técnica aplica-se o disposto no n.º 4 do artigo 86.º do Código de Processo Penal, bem como o disposto quanto a passagem de certidões previstas no n.º 7 do mesmo artigo e Código."
+  },
+  "221562165": {
+   "fragment_id": "221609139",
+   "type": 11,
+   "heading": "Artigo 25.º — Relatórios preliminar e intermédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Relatórios preliminar e intermédio\n\n1 - O investigador responsável deve preparar um relatório preliminar, de acordo com as normas e recomendações do anexo n.º 13.\n\n2 - O GPIAA deve enviar o relatório preliminar, no prazo de 30 dias após a data do acidente, às autoridades e organizações previstas no anexo n.º 13 e a outras entidades que entenda útil.\n\n3 - Se no decurso da investigação forem detectadas situações em que se torne urgente implementar medidas de prevenção de futuros acidentes, o investigador responsável deve elaborar um relatório intermédio contendo as pertinentes recomendações de prevenção.\n\n4 - Ao GPIAA compete proceder à divulgação imediata do relatório intermédio às autoridades interessadas."
+  },
+  "221562166": {
+   "fragment_id": "221609140",
+   "type": 11,
+   "heading": "Artigo 26.º — Relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Relatório final\n\n1 - Compete ao investigador responsável elaborar o relatório final, em conformidade com as práticas e normas contidas no anexo n.º 13 e no Manual of Accident Investigation da OACI, o qual revestirá forma apropriada ao tipo e gravidade do acidente ou incidente.\n\n2 - O relatório deve proteger o anonimato das pessoas envolvidas no acidente ou incidente.\n\n3 - Compete ao director do GPIAA homologar o relatório, dá-lo a conhecer ao membro do Governo de que depende e, posteriormente, promover o seu envio para as autoridades previstas no anexo n.º 13 e para a Comissão Europeia, bem como, tratando-se de incidente, a todos os interessados que possam beneficiar das suas conclusões em matéria de segurança.\n\n4 - O GPIAA deve publicar o relatório final, logo após o termo de todas as diligências necessárias à investigação, se possível no prazo de 12 meses a contar da data do acidente."
+  },
+  "221562167": {
+   "fragment_id": "221609141",
+   "type": 11,
+   "heading": "Artigo 27.º — Recomendações de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Recomendações de segurança\n\n1 - As recomendações de segurança devem ser comunicadas à Comissão Europeia e a todos os interessados que possam delas beneficiar em matéria de segurança.\n\n2 - Uma recomendação de segurança não constitui, em caso algum, presunção de culpa ou de responsabilidade, relativamente a um acidente ou incidente.\n\n3 - As entidades nacionais a quem se dirigem as recomendações propostas no relatório final informarão o GPIAA das acções tomadas."
+  },
+  "221562168": {
+   "fragment_id": "221609142",
+   "type": 11,
+   "heading": "Artigo 28.º — Reabertura da investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reabertura da investigação\n\nNo caso de surgirem factos novos ou indícios relevantes durante o período de 10 anos, decorridos após a homologação do relatório final, o GPIAA deve reabrir a investigação."
+  },
+  "221562169": {
+   "fragment_id": "221609143",
+   "type": 11,
+   "heading": "Artigo 29.º — Preservação da documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Preservação da documentação\n\nO GPIAA conservará a documentação respeitante à investigação técnica pelo prazo de 10 anos, contados a partir da data de homologação do relatório final, ou, se houver reabertura da investigação, a partir da data de homologação do relatório decorrente da reabertura."
+  },
+  "221562170": {
+   "fragment_id": "221609144",
+   "type": 11,
+   "heading": "Artigo 30.º — Responsabilidade pelos custos com as peritagens técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Responsabilidade pelos custos com as peritagens técnicas\n\n1 - Os custos originados com as peritagens técnicas que se tornarem necessárias no âmbito do inquérito são da responsabilidade do operador.\n\n2 - Quando o GPIAA, por razões de andamento do inquérito, tiver de assumir o pagamento de custos referidos no número anterior, será reembolsado pelo operador das quantias pagas.\n\n3 - O operador é notificado pelo GPIAA para efectuar o reembolso previsto no número anterior, no prazo de 90 dias a contar da data da notificação."
+  },
+  "221562171": {
+   "fragment_id": "221609145",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "221562172": {
+   "fragment_id": "221609146",
+   "type": 11,
+   "heading": "Artigo 31.º — Coimas por falta de reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Coimas por falta de reembolso\n\nO incumprimento dentro do prazo legal do reembolso previsto no n.º 3 do artigo 30.º, ainda que por negligência, constitui contra-ordenação punível com coima, graduável entre a décima parte e metade da quantia do reembolso em falta, mas nunca inferior a 50000$00 nem superior a 750000$00 quando se tratar de pessoa singular e nunca inferior a 100000$00 nem superior a 9000000$00 se se tratar de pessoa colectiva."
+  },
+  "221562173": {
+   "fragment_id": "221609147",
+   "type": 11,
+   "heading": "Artigo 32.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Coimas\n\n1 - A violação das disposições dos n.os 1, 2, 3, 5 e 6 do artigo 17.º, por parte do piloto comandante, do proprietário ou do operador da aeronave envolvida em acidente ou incidente, e das disposição dos artigos 19.º, n.os 4 e 5, 20.º e 23.º, n.º 3, constitui contra-ordenação punível com coima de 200000$00 a 750000$00, quando se aplicar a pessoa singular, e de 500000$00 a 3000000$00, quando se aplicar a pessoa colectiva.\n\n2 - Quando se tratar de incidente não grave, os limites referidos no número anterior são reduzidos para metade.\n\n3 - A tentativa e a negligência são puníveis."
+  },
+  "221562174": {
+   "fragment_id": "221609148",
+   "type": 11,
+   "heading": "Artigo 33.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sanções acessórias\n\nNos casos de acidentes e incidentes graves, puníveis com as coimas previstas no n.º 1 do artigo anterior, podem ser aplicadas as sanções acessórias seguintes:\n\na) Suspensão dos títulos emitidos pela autoridade aeronáutica nacional que permitam aos autores das contra-ordenações exercer a sua profissão ou actividades aeronáuticas, ou a pilotagem de aeronave particular;\n\nb) Suspensão dos certificados de navegabilidade das aeronaves nacionais de que sejam proprietários ou operadores os autores das contra-ordenações;\n\nc) Interdição, em Portugal, dos voos efectuados por operadores estrangeiros ou proprietários de aeronaves de matrícula estrangeira que sejam os autores das contra-ordenações."
+  },
+  "221640975": {
+   "fragment_id": "221609149",
+   "type": 11,
+   "heading": "Artigo 34.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Competência\n\n1 - O processamento das contra-ordenações e a aplicação das coimas competem ao director do GPIAA.\n\n2 - As receitas provenientes das coimas revertem em 40% para o GPIAA e o restante para o Estado.\n\n3 - A aplicação das sanções acessórias é da competência da autoridade aeronáutica nacional, sob proposta do director do GPIAA.\n\n4 - Para todos os efeitos legais, incluindo o recurso das decisões tomadas ao abrigo dos n.os 1 e 3, é aplicável o regime geral das contra-ordenações."
+  },
+  "221640976": {
+   "fragment_id": "221609150",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "221640977": {
+   "fragment_id": "221609151",
+   "type": 11,
+   "heading": "Artigo 35.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Disposições transitórias\n\n1 - São transferidos para o património do GPIAA os equipamentos, os bens móveis, arquivos e outros suportes de informação do Instituto Nacional de Aviação Civil afectos à investigação de acidentes.\n\n2 - Até à instalação do GPIAA, continuará a funcionar o Gabinete de Prevenção e Segurança Aeronáutica, a que se refere o artigo 12.º do Decreto-Lei n.º 121/94, de 14 de Maio, nos termos previstos no artigo 9.º do Decreto-Lei n.º 133/98, de 15 de Maio.\n\n3 - A instalação do GPIAA torna-se efectiva 60 dias após a data da nomeação do respectivo director."
+  },
+  "221640978": {
+   "fragment_id": "221609152",
+   "type": 11,
+   "heading": "Artigo 36.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Disposições finais\n\n1 - É revogado o capítulo VIII do regulamento anexo ao Decreto n.º 20062, de 13 de Julho de 1931.\n\n2 - Sem prejuízo do disposto no artigo anterior, é revogado o n.º 1 do artigo 9.º do Decreto-Lei n.º 133/98, 15 de Maio."
+  },
+  "221640993": {
+   "fragment_id": "221609118",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 5.º — Atribuições\n\nSão atribuições do GPIAA:\n\na) Investigar os acidentes e incidentes com a finalidade de determinar as suas causas e formular recomendações que evitem a sua repetição;\n\nb) Promover estudos e propor medidas de prevenção que visem reduzir a sinistralidade aeronáutica;\n\nc) Participar na comissão consultiva do Sistema Nacional de Busca e Salvamento Aéreo;\n\nd) Elaborar os relatórios técnicos sobre acidentes e incidentes, em conformidade com o artigo 25.º da Convenção, o anexo n.º 13 à mesma Convenção e o presente diploma, e promover a sua divulgação;\n\ne) Participar nas actividades desenvolvidas a nível de organizações internacionais no domínio da investigação e prevenção aeronáutica;\n\nf) Fazer propostas para adequar a legislação às necessidades nacionais e aos compromissos assumidos internacionalmente nas matérias respeitantes aos seus objectivos;\n\ng) Organizar e divulgar a informação relativa à investigação e prevenção de acidentes e incidentes aeronáuticos;\n\nh) Colaborar com os organismos de segurança dos operadores, dos serviços de tráfego aéreo e com associações profissionais nacionais, em matérias de prevenção;\n\ni) Colaborar com entidades homólogas de outros países na investigação e prevenção de acidentes e incidentes aeronáuticos;\n\nj) Delegar tarefas e solicitar a colaboração de entidades idóneas nos domínios da prevenção e investigação;\n\nl) Preparar, organizar e divulgar estatísticas de segurança de voo;\n\nm) Promover a formação, em matéria de prevenção e investigação, de pessoal que utilize no âmbito das suas atribuições, quer lhe esteja ou não afecto.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+  },
+  "221640994": {
+   "fragment_id": "221609119",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição e competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 6.º — Composição e competências\n\n1 - O GPIAA é composto por um director, um director-adjunto, um corpo técnico e um secretariado.\n\n2 - Ao director compete:\n\na) Assegurar a prossecução dos objectivos e o bom funcionamento do Gabinete;\n\nb) Representar o Gabinete;\n\nc) Dirigir e coordenar os serviços do Gabinete, dispondo para tal das competências próprias de director-geral, nos termos da lei;\n\nd) Nomear os investigadores responsáveis e as comissões de investigação;\n\ne) Assegurar a elaboração dos relatórios de investigação, de acordo com os princípios estabelecidos na Convenção e na lei nacional.\n\n3 - As competências referidas no n.º 2 são delegáveis no director-adjunto ou, consoante a sua natureza, em técnicos afectos ao Gabinete e no coordenador do secretariado.\n\n4 - O director-adjunto substituirá o director nas suas ausências e impedimentos.\n\n5 - Compete aos técnicos do GPIAA colaborar nas investigações para que sejam nomeados e executar todas as tarefas técnicas que lhes sejam afectadas, em prossecução dos objectivos e de acordo com as atribuições do GPIAA.\n\n6 - Compete ao secretariado assegurar o apoio ao GPIAA, nomeadamente em matérias de expediente, tradução, arquivo, documentação, pessoal, contabilidade, património e economato.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+  },
+  "221640995": {
+   "fragment_id": "221609120",
+   "type": 11,
+   "heading": "Artigo 7.º — Pessoal",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 7.º — Pessoal\n\n1 - O director é nomeado de entre indivíduos de reconhecido mérito e experiência na investigação de acidentes aeronáuticos, em regime de comissão de serviço por três anos, renováveis, sendo equiparado a director-geral para todos os efeitos legais.\n\n2 - O director-adjunto é nomeado em regime de comissão de serviço por três anos, renováveis, sendo equiparado a subdirector-geral para todos os efeitos legais.\n\n3 - O recrutamento dos técnicos é feito em regime de comissão de serviço, requisição ou destacamento de entre quadros do funcionalismo público e outros técnicos de reconhecido mérito, mantendo-se todos os direitos e regalias, incluindo o estatuto remuneratório, inerentes ao serviço ou empresa de origem.\n\n4 - O secretariado é constituído por:\n\na) Um coordenador, equiparado a director de serviços, nomeado em comissão de serviço;\n\nb) Funcionários das carreiras técnico-profissional ou administrativa, recrutados em regime de requisição ou destacamento, nos termos da lei geral.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+  },
+  "221640996": {
+   "fragment_id": "221609121",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime financeiro",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 8.º — Regime financeiro\n\n1 - O GPIAA é dotado de autonomia administrativa.\n\n2 - O GPIAA fica autorizado a cobrar, nos termos da legislação aplicável, as taxas e outras receitas devidas pelos serviços prestados, bem como a ressarcir-se das despesas realizadas por conta de outrem, no âmbito das atribuições que lhe estão cometidas.\n\n3 - As importâncias a que se refere o número anterior, bem como as cobradas por entidade terceira, designadamente pela NAV, E. P., em contrapartida de tarefas realizadas e serviços prestados pelo GPIAA, nos termos da legislação aplicável, e cujo valor tenha sido incorporado nos custos da navegação aérea para efeitos de cálculo das taxas de rota, constituirão receita própria do GPIAA, a incluir no Orçamento do Estado, consignadas a dotações de despesas com compensação em receita.\n\n4 - As receitas próprias não aplicadas em cada ano transitarão para o ano seguinte e constituirão uma dotação destinada a financiar as despesas com eventuais acidentes ou incidentes que venham a ocorrer no exercício do ano económico seguinte.\n\n5 - Por despacho do Ministro das Finanças, as verbas constantes da dotação prevista no número anterior podem ser afectadas, total ou parcialmente, a despesas de outra natureza.\n\n6 - A cobrança das receitas e a respectiva escrituração e depósito são feitos nos termos do regime da tesouraria do Estado.\n\n7 - O director do GPIAA é responsável pela prestação anual de contas e certificará os documentos de despesa.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+  },
+  "221640997": {
+   "fragment_id": "221609122",
+   "type": 11,
+   "heading": "Artigo 9.º — Contratação de serviços",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 9.º — Contratação de serviços\n\nO GPIAA pode contratar serviços no âmbito das suas competências e nos termos da lei vigente, bem como celebrar protocolos de colaboração com outras entidades que visem assegurar a investigação de acidentes e incidentes.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+  },
+  "221640998": {
+   "fragment_id": "221609123",
+   "type": 11,
+   "heading": "Artigo 10.º — Instalações",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 10.º — Instalações\n\nO GPIAA funciona em instalações do respectivo ministério, adequadas à especificidade do funcionamento do organismo.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+  },
+  "221640999": {
+   "fragment_id": "221609130",
+   "type": 11,
+   "heading": "Artigo 16.º — Colaboração de outras entidades",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 16.º — Colaboração de outras entidades\n\n1 - O GPIAA poderá requerer a colaboração de especialistas em áreas específicas pertencentes a outros órgãos da Administração Pública, empresas públicas ou privadas e Forças Armadas, para exercerem funções de investigador técnico, integrando ou assessorando a comissão de investigação nomeada nos termos do artigo 12.º\n\n2 - No caso de especialistas pertencentes ao sector público, serão disponibilizados pelos organismos a que pertencem, os quais suportarão os encargos com a respectiva remuneração, cabendo ao GPIAA os encargos com as deslocações, ajudas de custo e outras, decorrentes da investigação.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 149/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2007-520874), em vigor a partir de 2007-05-01"
+  },
+  "221640979": {
+   "fragment_id": "221609153",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 26 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 28 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,475 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R2347:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R2347-20170112",
+ "dre_path": null,
+ "source_lastmod": "2017-01-12",
+ "versions": [
+  {
+   "date": "2002-12-28",
+   "future": false,
+   "celex": "32002R2347",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "00c662537a40cfa0",
+    "48bb80cf5f77adab",
+    "543dca534c56e510",
+    "d5ef336264865e1d",
+    "e45cbbac84bf5530",
+    "60fcf565944d6772",
+    "adf901dd5069ec67",
+    "e0605278f51e9177",
+    "0495cfa15fd5aa5d",
+    "639518f7d22c17d2",
+    "2f536ff628c165cf",
+    "d35c4e3d5e2cab5f",
+    "d38b20b82e39d638",
+    "31f5a8de26ddaf0d",
+    "e54aaa49cdfb2521",
+    "92889efb1081f3cc"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "02002R2347-20040501",
+   "acts": [
+    {
+     "id": "eu:celex:32004R2269:por",
+     "title": "REGULAMENTO (CE) N. o 2269/2004 DO CONSELHO de 20 de Dezembro de 2004",
+     "published": null,
+     "celex": "32004R2269"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 4.º — Limitação do esforço de pesca",
+    "Altera Artigo 6.º — Sistema de localização dos navios",
+    "Altera Artigo 12.º — Entrada em vigor",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita ANEXO III",
+    "Adita Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.º",
+    "Adita Notas",
+    "Suprime ANEXO I — Listas das espécies de profundidade",
+    "Suprime ANEXO II — Lista suplementar",
+    "Suprime ANEXO III — Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.o"
+   ],
+   "fragments": [
+    "09cc597261f63b04",
+    "48bb80cf5f77adab",
+    "fff3d665defef70e",
+    "8b3ace9836f35f9e",
+    "097b23ab75b23251",
+    "7cc7629d509135e8",
+    "b8b9b8fd0b6c2d1c",
+    "f2b67d84c6f74aa8",
+    "857c733b355af738",
+    "bd8afc780aea5b1b",
+    "2f536ff628c165cf",
+    "167b0bba45d0c920",
+    "e0f9ec744bda7516",
+    "fd1ec35a10072fe6",
+    "b78f9096a67af6b0",
+    "720af75c92791b10",
+    "c1771c553128705c",
+    "2442c7689487eff5"
+   ]
+  },
+  {
+   "date": "2015-06-01",
+   "future": false,
+   "celex": "02002R2347-20150601",
+   "acts": [
+    {
+     "id": "eu:celex:32015R0812:por",
+     "title": "REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015",
+     "published": null,
+     "celex": "32015R0812"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Autorização de pesca de profundidade",
+    "Altera Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca",
+    "Altera Artigo 6.º — Sistema de localização dos navios",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "883bc5aa3b5be789",
+    "9c0d29ff394a92e7",
+    "3f13d7601dbb1d63",
+    "c321ebe53385a66b",
+    "097b23ab75b23251",
+    "ebd5c0d22fa8d7a9",
+    "4255deecf3ca9ee0",
+    "f2b67d84c6f74aa8",
+    "857c733b355af738",
+    "bd8afc780aea5b1b",
+    "2f536ff628c165cf",
+    "167b0bba45d0c920",
+    "e0f9ec744bda7516",
+    "fd1ec35a10072fe6",
+    "b78f9096a67af6b0",
+    "720af75c92791b10",
+    "c1771c553128705c",
+    "2a614bf648b7e125"
+   ]
+  },
+  {
+   "date": "2017-01-12",
+   "future": false,
+   "celex": "02002R2347-20170112",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Autorização de pesca de profundidade",
+    "Suprime Artigo 4.º — Limitação do esforço de pesca",
+    "Suprime Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca",
+    "Suprime Artigo 6.º — Sistema de localização dos navios",
+    "Suprime Artigo 7.º — Portos designados",
+    "Suprime Artigo 8.º — Observadores",
+    "Suprime Artigo 9.º — Informações",
+    "Suprime Artigo 10.º — Seguimento",
+    "Suprime Artigo 11.º — Comité",
+    "Suprime Artigo 12.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "414fb79e4f392d3c"
+   ]
+  }
+ ],
+ "fragments": {
+  "00c662537a40cfa0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 2347/2002 do Conselho, de 16 de Dezembro de 2002, que estabelece os requisitos específicos em matéria de acesso à pesca de unidades populacionais de profundidade e as condições a eles associadas** *Jornal Oficial nº L 351 de 28/12/2002 p. 0006 - 0011*\n\nRegulamento (CE) n.o 2347/2002 do Conselho\n\nde 16 de Dezembro de 2002\n\nque estabelece os requisitos específicos em matéria de acesso à pesca de unidades populacionais de profundidade e as condições a eles associadas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nConsiderando o seguinte:\n\n(1) Nos termos do Regulamento (CEE) n.o 3760/92, do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da agricultura(3), cabe ao Conselho adoptar, à luz dos pareceres científicos existentes e, em especial, do relatório do Comité Científico, Técnico e Económico da Pesca, as medidas necessárias para assegurar uma exploração racional e responsável dos recursos numa base sustentável e as condições de acesso a esses recursos.\n\n(2) Os pareceres científicos sobre determinadas unidades populacionais de peixes de profundidade indicam que estas espécies são vulneráveis à exploração e que as possibilidades de pesca relativas a estas unidades populacionais devem ser limitadas ou reduzidas, a fim de assegurar a sua sustentabilidade.\n\n(3) Os pareceres científicos indicam ainda que a gestão do esforço de pesca constitui um método adequado para garantir a gestão cautelar das unidades populacionais que evoluem nas águas profundas.\n\n(4) Por consequência, é conveniente prever a emissão de uma autorização de pesca especial para os navios que pescam espécies de profundidade e limitar aos níveis mais recentes o esforço de pesca exercido relativamente a essas unidades populacionais.\n\n(5) Para a emissão de pareceres científicos de elevada qualidade são necessárias informações exactas e actualizadas sobre as operações de pesca, que poderão melhor ser recolhidas por observadores científicos qualificados e independentes em colaboração com o sector das pescas e outros interessados.\n\n(6) É importante que as informações adequadas, susceptíveis de verificação e actualizadas para fins de emissão de pareceres científicos sobre a pesca e o ambiente marinho sejam colocadas à disposição dos organismos científicos e de gestão pertinentes o mais rapidamente possível.\n\n(7) Para assegurar uma gestão eficaz e cautelar do esforço de pesca dirigido às espécies de profundidade, é necessário identificar os navios que pescam estas espécies com base em autorizações de pesca especiais emitidas em conformidade com o Regulamento (CE) n.o 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais(4), e com o Regulamento (CE) n.o 2943/95 da Comissão, de 20 de Dezembro de 1995, que estabelece regras de execução do Regulamento (CE) n.o 1627/94 do Conselho(5).\n\n(8) Para assegurar a observância do disposto no presente regulamento, são necessárias medidas de controlo suplementares para além das estabelecidas no Regulamento (CEE) n.o 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas(6), e no Regulamento (CE) n.o 1489/97 da Comissão, de 29 de Julho de 1997, que estabelece regras de execução do Regulamento (CEE) n.o 2847/93 do Conselho no respeitante aos sistemas de localização dos navios por satélite(7).\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(8),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "48bb80cf5f77adab": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento é aplicável aos navios de pesca comunitários que exerçam actividades de pesca que originem capturas das espécies constantes do anexo I nas subzonas do Conselho Internacional de Exploração do Mar (CIEM) I a XIV, inclusive, e em águas comunitárias das zonas CECAF 34.1.1, 34.1.2, 34.1.3 e 34.2."
+  },
+  "543dca534c56e510": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) \"Espécies de profundidade\", as espécies incluídas na lista do anexo I;\n\nb) \"Autorização de pesca de profundidade\", uma autorização de pesca especial para espécies de profundidade emitida em conformidade com o artigo 7.o do Regulamento (CE) n.o 1627/94;\n\nc) \"Potência\", a potência motriz total instalada a bordo do navio em quilowatts, medida em conformidade com o Regulamento (CEE) n.o 2930/86 do Conselho, de 22 de Setembro de 1986, que define as características dos navios de pesca(9);\n\nd) \"Volume\", a arqueação bruta, medida em conformidade com o Regulamento (CEE) n.o 2930/86;\n\ne) \"Quilowatts/dias de pesca\", o produto da potência definida na alínea c) pelo número de dias em que um navio de pesca calou qualquer arte de pesca."
+  },
+  "d5ef336264865e1d": {
+   "fragment_id": "Artigo 3.º — Autorização de pesca de profundidade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Autorização de pesca de profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização de pesca de profundidade\n\n1. Os Estados-Membros asseguram que as actividades de pesca que originem, em cada ano civil, a captura e manutenção a bordo de mais de 10 toneladas de espécies de profundidade, exercidas por navios que arvorem seu pavilhão e estejam registados no seu território, sejam sujeitas a uma autorização de pesca de profundidade.\n\nÉ, no entanto, proibido capturar e manter a bordo, transbordar ou desembarcar, em cada saída, qualquer quantidade global de espécies de profundidade superior a 100 kg, a não ser que o navio em causa possua uma autorização de pesca de profundidade.\n\n2. A pedido de um Estado-Membro, podem ser estabelecidas medidas específicas para atender a actividades de pesca sazonais ou artesanais.\n\n3. As regras específicas para a aplicação do n.o 2 são aprovadas nos termos do n.o 2 do artigo 11.o"
+  },
+  "e45cbbac84bf5530": {
+   "fragment_id": "Artigo 4.º — Limitação do esforço de pesca",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Limitação do esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limitação do esforço de pesca\n\n1. Os Estados-Membros devem calcular a potência global e o volume global dos seus navios que, nos anos de 1998, 1999 ou 2001, tenham desembarcado mais de 10 toneladas de qualquer mistura de espécies de profundidade.\n\nEstes valores globais devem ser comunicados à Comissão.\n\nMediante pedido escrito da Comissão, os Estados-Membros devem fornecer, no prazo de 30 dias, os documentos relativos ao registo das capturas realizadas pelos navios a que foram concedidas autorizações de pesca de profundidade.\n\n2. Os Estados-Membros só podem emitir autorizações de pesca de profundidade para os seus navios se:\n\na) A potência global dos referidos navios não exceder a potência global determinada em conformidade com o n.o 1; e/ou\n\nb) O volume global dos referidos navios não exceder o volume global determinado em conformidade com o n.o 1."
+  },
+  "60fcf565944d6772": {
+   "fragment_id": "Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca\n\nPara além das obrigações que lhes incumbem por força do artigo 6.o do Regulamento (CEE) n.o 2847/93, os capitães dos navios de pesca comunitários que possuam uma autorização de pesca de profundidade devem registar no diário de bordo ou num formulário fornecido pelo Estado-Membro do pavilhão as informações indicadas no anexo III."
+  },
+  "adf901dd5069ec67": {
+   "fragment_id": "Artigo 6.º — Sistema de localização dos navios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Sistema de localização dos navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistema de localização dos navios\n\n1. Não obstante o disposto no n.o 2 do artigo 6.o do Regulamento (CE) n.o 1489/97, em caso de deficiência técnica ou de avaria do dispositivo de localização por satélite instalado a bordo do navio de pesca, o capitão do navio deve comunicar a situação geográfica deste ao Estado-Membro do pavilhão e aos Estados-Membros costeiros de duas em duas horas.\n\n2. Depois de concluída a viagem, o navio não pode sair do porto antes de as autoridades competentes considerarem que o dispositivo de localização por satélite funciona de forma satisfatória.\n\n3. Os casos repetidos de incumprimento das obrigações estabelecidas nos n.os 1 e 2 serão considerados como comportamento que infringe gravemente as regras da política comum das pescas, nos termos do Regulamento (CE) n.o 1447/1999 do Conselho, de 24 de Junho de 1999, que fixa uma lista dos tipos de comportamento que infringem gravemente as regras da política comum da pesca(10).\n\n4. As regras específicas para a aplicação do presente artigo são aprovadas nos termos do n.o 2 do artigo 11.o"
+  },
+  "e0605278f51e9177": {
+   "fragment_id": "Artigo 7.º — Portos designados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Portos designados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Portos designados\n\n1. A partir de 1 de Maio de 2003 é proibido desembarcar qualquer quantidade de qualquer mistura de espécies de profundidade que seja superior a 100 kg em qualquer lugar que não sejam os portos designados para o desembarque de espécies de profundidade.\n\n2. Os Estados-Membros devem designar os portos em que serão realizados os desembarques de espécies de profundidade em quantidade superior a 100 kg e determinar os respectivos processos de inspecção e vigilância, incluindo os termos e condições de registo e comunicação das quantidades de espécies de profundidade em cada desembarque.\n\n3. No prazo de 60 dias a contar da data de entrada em vigor do presente regulamento, cada Estado-Membro deve transmitir à Comissão a lista dos portos designados e, nos 30 dias seguintes, os correspondentes processos de inspecção e vigilância referidos no n.o 2.\n\nA Comissão deve transmitir estas informações a todos os outros Estados-Membros."
+  },
+  "0495cfa15fd5aa5d": {
+   "fragment_id": "Artigo 8.º — Observadores",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Observadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Observadores\n\n1. Os Estados-Membros devem designar observadores científicos para os navios de pesca que possuem uma autorização de pesca de profundidade, em conformidade com um plano de amostragem previsto no n.o 2.\n\n2. Cada Estado-Membro deve elaborar um plano de amostragem para fins de colocação de observadores e colheita de amostras no porto, que assegure a recolha de dados representativos adequados para permitir a avaliação e gestão das unidades populacionais de peixes de profundidade.\n\nO plano de amostragem deve ser aprovado pela Comissão com base numa avaliação científica e estatística no prazo de seis meses a contar da entrada em vigor do presente regulamento.\n\n3. As regras específicas para a aplicação dos n.os 1 e 2 são aprovadas nos termos do no n.o 2 do artigo 11.o\n\n4. Os observadores científicos devem:\n\na) Registar separadamente, num diário de bordo, as informações mencionadas no artigo 5.o;\n\nb) Apresentar um relatório às autoridades competentes do Estado-Membro interessado nos 20 dias seguintes ao termo do período de observação. Deve ser enviada cópia desse relatório à Comissão no prazo de 30 dias após a recepção de um pedido por escrito nesse sentido;\n\nc) Desempenhar tarefas suplementares, em conformidade com as exigências do plano de amostragem.\n\n5. Os observadores científicos não devem ser:\n\na) Membros da família do capitão do navio ou de outro oficial em funções no navio para que foram designados;\n\nb) Empregados do capitão do navio para que foram designados;\n\nc) Empregados do representante do capitão;\n\nd) Empregados de uma empresa controlada pelo capitão ou pelo seu representante;\n\ne) Membros da família do representante do capitão."
+  },
+  "639518f7d22c17d2": {
+   "fragment_id": "Artigo 9.º — Informações",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informações\n\nPara além dos requisitos previstos nos artigos 15.o e 19.o do Regulamento (CEE) n.o 2847/93, os Estados-Membros, com base nas informações registadas nos diários de bordo, incluindo a indicação integral dos dias de pesca fora do porto, e nos relatórios apresentados pelos observadores científicos, devem comunicar à Comissão, relativamente a cada semestre de um ano civil, nos três meses seguintes ao termo do referido semestre, informações relativas às capturas de espécies de profundidade e ao esforço de pesca exercido, expresso em quilowatts/dias de pesca, discriminadas por trimestre, tipo de arte, espécies - incluindo informações sobre as espécies enumeradas no anexo II - e rectângulo estatístico do CIEM ou subdivisão da CECAF.\n\nA Comissão deve transmitir imediatamente essas informações aos organismos científicos pertinentes."
+  },
+  "2f536ff628c165cf": {
+   "fragment_id": "Artigo 10.º — Seguimento",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Seguimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Seguimento\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho, antes de 30 de Junho de 2005, um relatório sobre o regime geral de gestão das espécies de profundidade. Com base nesse relatório, a Comissão proporá ao Conselho as alterações eventualmente necessárias a este regime."
+  },
+  "d35c4e3d5e2cab5f": {
+   "fragment_id": "Artigo 11.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 17.o do Regulamento (CEE) n.o 3760/92.\n\n2. Sempre que se faça referência ao presente número, serão aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "d38b20b82e39d638": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor sete dias após a data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 2003.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de Dezembro de 2002.\n\nPelo Conselho\n\nA Presidente\n\nM. Fischer Boel\n\n(1) JO C 151 E de 25.6.2002, p. 184.\n\n(2) JO L 389 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1181/98 (JO L 164 de 9.6.1998, p. 1).\n\n(3) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2846/98 (JO L 358 de 31.12.1998, p. 5).\n\n(4) JO L 171 de 6.7.1994, p. 7.\n\n(5) JO L 308 de 21.12.1995, p. 15.\n\n(6) JO L 202 de 30.7.1997, p. 18. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2445/1999 (JO L 298 de 19.11.1999, p. 5).\n\n(7) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n(8) JO L 184 de 17.7.1999, p. 23.\n\n(9) JO L 274 de 25.9.1986, p. 1. Regulamento alterado pelo Regulamento (CE) n.o 3259/94 (JO L 339 de 29.12.1994, p. 11).\n\n(10) JO L 167 de 2.7.1999, p. 5."
+  },
+  "31f5a8de26ddaf0d": {
+   "fragment_id": "ANEXO I — Listas das espécies de profundidade",
+   "type": "divisao",
+   "heading": "ANEXO I — Listas das espécies de profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Listas das espécies de profundidade\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "e54aaa49cdfb2521": {
+   "fragment_id": "ANEXO II — Lista suplementar",
+   "type": "divisao",
+   "heading": "ANEXO II — Lista suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Lista suplementar\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "92889efb1081f3cc": {
+   "fragment_id": "ANEXO III — Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.o",
+   "type": "divisao",
+   "heading": "ANEXO III — Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.o\n\n1. Relativamente aos navios que pescam com palangres:\n\n- número médio de anzóis nos palangres,\n\n- tempo total de permanência das linhas no mar em qualquer período de 24 horas e número de lances durante esse período,\n\n- profundidades de pesca.\n\n2. Relativamente aos navios que pescam com redes fixas:\n\n- malhagem das redes,\n\n- comprimento médio das redes,\n\n- altura média das redes,\n\n- tempo total de permanência das redes no mar num período de 24 horas e número total de lanços durante esse período,\n\n- profundidades de pesca.\n\n3. Relativamente aos navios que pescam com artes rebocadas:\n\n- malhagem das redes,\n\n- tempo total de permanência das redes no mar num período de 24 horas e número total de lanços durante esse período,\n\n- profundidades de pesca."
+  },
+  "09cc597261f63b04": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2002\n\nque estabelece os requisitos específicos em matéria de acesso à pesca de unidades populacionais de profundidade e as condições a eles associadas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0002)),\n\n(1) Nos termos do Regulamento (CEE) n.º 3760/92, do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da agricultura ([^3^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0003)), cabe ao Conselho adoptar, à luz dos pareceres científicos existentes e, em especial, do relatório do Comité Científico, Técnico e Económico da Pesca, as medidas necessárias para assegurar uma exploração racional e responsável dos recursos numa base sustentável e as condições de acesso a esses recursos.\n\n(2) Os pareceres científicos sobre determinadas unidades populacionais de peixes de profundidade indicam que estas espécies são vulneráveis à exploração e que as possibilidades de pesca relativas a estas unidades populacionais devem ser limitadas ou reduzidas, a fim de assegurar a sua sustentabilidade.\n\n(3) Os pareceres científicos indicam ainda que a gestão do esforço de pesca constitui um método adequado para garantir a gestão cautelar das unidades populacionais que evoluem nas águas profundas.\n\n(4) Por consequência, é conveniente prever a emissão de uma autorização de pesca especial para os navios que pescam espécies de profundidade e limitar aos níveis mais recentes o esforço de pesca exercido relativamente a essas unidades populacionais.\n\n(5) Para a emissão de pareceres científicos de elevada qualidade são necessárias informações exactas e actualizadas sobre as operações de pesca, que poderão melhor ser recolhidas por observadores científicos qualificados e independentes em colaboração com o sector das pescas e outros interessados.\n\n(6) É importante que as informações adequadas, susceptíveis de verificação e actualizadas para fins de emissão de pareceres científicos sobre a pesca e o ambiente marinho sejam colocadas à disposição dos organismos científicos e de gestão pertinentes o mais rapidamente possível.\n\n(7) Para assegurar uma gestão eficaz e cautelar do esforço de pesca dirigido às espécies de profundidade, é necessário identificar os navios que pescam estas espécies com base em autorizações de pesca especiais emitidas em conformidade com o Regulamento (CE) n.º 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais ([^4^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0004)), e com o Regulamento (CE) n.º 2943/95 da Comissão, de 20 de Dezembro de 1995, que estabelece regras de execução do Regulamento (CE) n.º 1627/94 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0005)).\n\n(8) Para assegurar a observância do disposto no presente regulamento, são necessárias medidas de controlo suplementares para além das estabelecidas no Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^6^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0006)), e no Regulamento (CE) n.º 1489/97 da Comissão, de 29 de Julho de 1997, que estabelece regras de execução do Regulamento (CEE) n.º 2847/93 do Conselho no respeitante aos sistemas de localização dos navios por satélite ([^7^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0007)).\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0008)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "fff3d665defef70e": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Espécies de profundidade», as espécies incluídas na lista do anexo I;\n\nb) «Autorização de pesca de profundidade», uma autorização de pesca especial para espécies de profundidade emitida em conformidade com o artigo 7.º do Regulamento (CE) n.º 1627/94;\n\nc) «Potência», a potência motriz total instalada a bordo do navio em quilowatts, medida em conformidade com o Regulamento (CEE) n.º 2930/86 do Conselho, de 22 de Setembro de 1986, que define as características dos navios de pesca ([^9^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0009));\n\nd) «Volume», a arqueação bruta, medida em conformidade com o Regulamento (CEE) n.º 2930/86;\n\ne) «Quilowatts/dias de pesca», o produto da potência definida na alínea c) pelo número de dias em que um navio de pesca calou qualquer arte de pesca."
+  },
+  "8b3ace9836f35f9e": {
+   "fragment_id": "Artigo 3.º — Autorização de pesca de profundidade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Autorização de pesca de profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização de pesca de profundidade\n\n1. Os Estados-Membros asseguram que as actividades de pesca que originem, em cada ano civil, a captura e manutenção a bordo de mais de 10 toneladas de espécies de profundidade, exercidas por navios que arvorem seu pavilhão e estejam registados no seu território, sejam sujeitas a uma autorização de pesca de profundidade.\n\nÉ, no entanto, proibido capturar e manter a bordo, transbordar ou desembarcar, em cada saída, qualquer quantidade global de espécies de profundidade superior a 100 kg, a não ser que o navio em causa possua uma autorização de pesca de profundidade.\n\n2. A pedido de um Estado-Membro, podem ser estabelecidas medidas específicas para atender a actividades de pesca sazonais ou artesanais.\n\n3. As regras específicas para a aplicação do n.º 2 são aprovadas nos termos do n.º 2 do artigo 11.º"
+  },
+  "097b23ab75b23251": {
+   "fragment_id": "Artigo 4.º — Limitação do esforço de pesca",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Limitação do esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limitação do esforço de pesca\n\n1. Os Estados-Membros devem calcular a potência global e o volume global dos seus navios que, nos anos de 1998, 1999 ou 2001, tenham desembarcado mais de 10 toneladas de qualquer mistura de espécies de profundidade.\n\nEstes valores globais devem ser comunicados à Comissão.\n\nMediante pedido escrito da Comissão, os Estados-Membros devem fornecer, no prazo de 30 dias, os documentos relativos ao registo das capturas realizadas pelos navios a que foram concedidas autorizações de pesca de profundidade.\n\n2. Os Estados-Membros só podem emitir autorizações de pesca de profundidade para os seus navios se:\n\na) A potência global dos referidos navios não exceder a potência global determinada em conformidade com o n.º 1; e/ou\n\nb) O volume global dos referidos navios não exceder o volume global determinado em conformidade com o n.º 1.\n\n3. Em derrogação do n.º 1, os Estados-Membros que aderiram à União Europeia em 2004 calculam a potência global e o volume global dos seus navios que, durante o ano 2000, 2001 ou 2002, desembarcaram mais de 10 toneladas de qualquer mistura de espécies de profundidade. Estes valores globais devem ser comunicados à Comissão."
+  },
+  "7cc7629d509135e8": {
+   "fragment_id": "Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca\n\nPara além das obrigações que lhes incumbem por força do artigo 6.º do Regulamento (CEE) n.º 2847/93, os capitães dos navios de pesca comunitários que possuam uma autorização de pesca de profundidade devem registar no diário de bordo ou num formulário fornecido pelo Estado-Membro do pavilhão as informações indicadas no anexo III."
+  },
+  "b8b9b8fd0b6c2d1c": {
+   "fragment_id": "Artigo 6.º — Sistema de localização dos navios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Sistema de localização dos navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistema de localização dos navios\n\n1. Não obstante o disposto no n.º 2 do artigo 6.º do Regulamento (CE) n.º 1489/97, em caso de deficiência técnica ou de avaria do dispositivo de localização por satélite instalado a bordo do navio de pesca, o capitão do navio deve comunicar a situação geográfica deste ao Estado-Membro do pavilhão e aos Estados-Membros costeiros de duas em duas horas.\n\n2. Depois de concluída a viagem, o navio não pode sair do porto antes de as autoridades competentes considerarem que o dispositivo de localização por satélite funciona de forma satisfatória.\n\n3. Os casos repetidos de incumprimento das obrigações estabelecidas nos n.^os^ 1 e 2 serão considerados como comportamento que infringe gravemente as regras da política comum das pescas, nos termos do Regulamento (CE) n.º 1447/1999 do Conselho, de 24 de Junho de 1999, que fixa uma lista dos tipos de comportamento que infringem gravemente as regras da política comum da pesca ([^10^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#E0010)).\n\n4. As regras específicas para a aplicação do presente artigo são aprovadas nos termos do n.º 2 do artigo 11.º"
+  },
+  "f2b67d84c6f74aa8": {
+   "fragment_id": "Artigo 7.º — Portos designados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Portos designados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Portos designados\n\n1. A partir de 1 de Maio de 2003 é proibido desembarcar qualquer quantidade de qualquer mistura de espécies de profundidade que seja superior a 100 kg em qualquer lugar que não sejam os portos designados para o desembarque de espécies de profundidade.\n\n2. Os Estados-Membros devem designar os portos em que serão realizados os desembarques de espécies de profundidade em quantidade superior a 100 kg e determinar os respectivos processos de inspecção e vigilância, incluindo os termos e condições de registo e comunicação das quantidades de espécies de profundidade em cada desembarque.\n\n3. No prazo de 60 dias a contar da data de entrada em vigor do presente regulamento, cada Estado-Membro deve transmitir à Comissão a lista dos portos designados e, nos 30 dias seguintes, os correspondentes processos de inspecção e vigilância referidos no n.º 2.\n\nA Comissão deve transmitir estas informações a todos os outros Estados-Membros."
+  },
+  "857c733b355af738": {
+   "fragment_id": "Artigo 8.º — Observadores",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Observadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Observadores\n\n1. Os Estados-Membros devem designar observadores científicos para os navios de pesca que possuem uma autorização de pesca de profundidade, em conformidade com um plano de amostragem previsto no n.º 2.\n\n2. Cada Estado-Membro deve elaborar um plano de amostragem para fins de colocação de observadores e colheita de amostras no porto, que assegure a recolha de dados representativos adequados para permitir a avaliação e gestão das unidades populacionais de peixes de profundidade.\n\nO plano de amostragem deve ser aprovado pela Comissão com base numa avaliação científica e estatística no prazo de seis meses a contar da entrada em vigor do presente regulamento.\n\n3. As regras específicas para a aplicação dos n.^os^ 1 e 2 são aprovadas nos termos do no n.º 2 do artigo 11.º\n\n4. Os observadores científicos devem:\n\na) Registar separadamente, num diário de bordo, as informações mencionadas no artigo 5.º;\n\nb) Apresentar um relatório às autoridades competentes do Estado-Membro interessado nos 20 dias seguintes ao termo do período de observação. Deve ser enviada cópia desse relatório à Comissão no prazo de 30 dias após a recepção de um pedido por escrito nesse sentido;\n\nc) Desempenhar tarefas suplementares, em conformidade com as exigências do plano de amostragem.\n\n5. Os observadores científicos não devem ser:\n\na) Membros da família do capitão do navio ou de outro oficial em funções no navio para que foram designados;\n\nb) Empregados do capitão do navio para que foram designados;\n\nc) Empregados do representante do capitão;\n\nd) Empregados de uma empresa controlada pelo capitão ou pelo seu representante;\n\ne) Membros da família do representante do capitão."
+  },
+  "bd8afc780aea5b1b": {
+   "fragment_id": "Artigo 9.º — Informações",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informações\n\nPara além dos requisitos previstos nos artigos 15.º e 19.º do Regulamento (CEE) n.º 2847/93, os Estados-Membros, com base nas informações registadas nos diários de bordo, incluindo a indicação integral dos dias de pesca fora do porto, e nos relatórios apresentados pelos observadores científicos, devem comunicar à Comissão, relativamente a cada semestre de um ano civil, nos três meses seguintes ao termo do referido semestre, informações relativas às capturas de espécies de profundidade e ao esforço de pesca exercido, expresso em quilowatts/dias de pesca, discriminadas por trimestre, tipo de arte, espécies — incluindo informações sobre as espécies enumeradas no anexo II — e rectângulo estatístico do CIEM ou subdivisão da CECAF.\n\nA Comissão deve transmitir imediatamente essas informações aos organismos científicos pertinentes."
+  },
+  "167b0bba45d0c920": {
+   "fragment_id": "Artigo 11.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comité\n\n1. A Comissão é assistida pelo comité criado pelo artigo 17.º do Regulamento (CEE) n.º 3760/92.\n\n2. Sempre que se faça referência ao presente número, serão aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "e0f9ec744bda7516": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente regulamento entra em vigor sete dias após a data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Janeiro de 2003.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "fd1ec35a10072fe6": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nNome científico Designação comum\n\n*Aphanopus carbo* Peixe-espada-preto\n\n*Apristuris spp* Pata-roxas\n\n*Argentina silus* Argentina dourada\n\n*Beryx spp.* Imperadores\n\n*Centrophorus granulosus* Lixa-de-lei\n\n*Centrophorus squamosus* Lixa\n\n*Centroscyllium fabricii* Cação-torto\n\n*Centroscymnus coelolepis* Carocho\n\n*Coryphaenoides rupestris* Lagartixa-da-rocha\n\n*Dalatias licha* Gata\n\n*Deania calceus* Sapata\n\n*Etmopterus princeps* Lixinha\n\n*Etmopterus spinax* Lixinha-da-fundura\n\n*Galeus melastomus* Leitão\n\n*Galeus murinus* Leitão islandês\n\n*Hoplostethus atlanticus* Olho-de-vidro laranja\n\n*Molva dypterygia* Maruca azul\n\n*Phycis blennoides* Abrótea-do-alto\n\n*Centroscymnus crepidat* Sapata-preta\n\n*Scymnodon ringens* Arreganhada\n\n*Hexanchus griseus* Tubarão-albafar\n\n*Chlamydoselachus anguineus* Tubarão-cobra\n\n*Oxynotus paradoxus* Peixe-porco-de-vela\n\n*Somniosus microcephalus* Tubarão da Gronelândia"
+  },
+  "b78f9096a67af6b0": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nNome científico Designação comum\n\n*Pagellus bogaraveo* Goraz\n\n*Chimaera monstrosa* Ratazana\n\n*Marcrourus berglax* Lagartixa-de-cabeça-áspera\n\n*Mora moro* Mora\n\n*Antimora rostrata* Mora-azul\n\n*Epigonus telescopus* Olhudo\n\n*Helicolenus dactylopterus* Cantarilho-legítimo\n\n*Conger conger* Congro-legítimo\n\n*Lepidopus caudatus* Peixe-espada\n\n*Alepocephalus bairdii* Celindra comum\n\n*Lycodes esmarkii* Peixe-carneiro-de-Esmark\n\n*Raja hyperborea* Raia-do-Árctico\n\n*Sebastes viviparus* Cantarilho-dos-mares-do-norte\n\n*Hoplostethus mediterraneus* Olho-de-vidro-rosa\n\n*Trachyscorpia cristulata* Rascasso-espinhoso\n\n*Raja nidarosiensus* Raia-da-Noruega\n\n*Chaecon (Geryon) affinis* Caranguejo-real-da-fundura\n\n*Raja fyllae* Raia-redonda\n\n*Hydrolagus mirabilis* Quimera-olhuda\n\n*Rhinochimaera atlantica* Quimera-do-Atlântico\n\n*Alepocephalus rostratus* Celindra-de-Risso\n\n*Polyprion americanus* Cherne comum"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "c1771c553128705c": {
+   "fragment_id": "Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.º",
+   "type": "divisao",
+   "heading": "Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações relativas às características das artes de pesca e às operações de pesca referidas no artigo 5.º\n\n1. Relativamente aos navios que pescam com palangres:\n\n— número médio de anzóis nos palangres,\n\n— tempo total de permanência das linhas no mar em qualquer período de 24 horas e número de lances durante esse período,\n\n— profundidades de pesca.\n\n2. Relativamente aos navios que pescam com redes fixas:\n\n— malhagem das redes,\n\n— comprimento médio das redes,\n\n— altura média das redes,\n\n— tempo total de permanência das redes no mar num período de 24 horas e número total de lanços durante esse período,\n\n— profundidades de pesca.\n\n3. Relativamente aos navios que pescam com artes rebocadas:\n\n— malhagem das redes,\n\n— tempo total de permanência das redes no mar num período de 24 horas e número total de lanços durante esse período,\n\n— profundidades de pesca.\n\n---"
+  },
+  "2442c7689487eff5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0001)) JO C 151 E de 25.6.2002, p. 184.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0002)) JO L 389 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1181/98 (JO L 164 de 9.6.1998, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0003)) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2846/98 (JO L 358 de 31.12.1998, p. 5).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0004)) JO L 171 de 6.7.1994, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0005)) JO L 308 de 21.12.1995, p. 15.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0006)) JO L 202 de 30.7.1997, p. 18. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2445/1999 (JO L 298 de 19.11.1999, p. 5).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0009)) JO L 274 de 25.9.1986, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 3259/94 (JO L 339 de 29.12.1994, p. 11).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/99091c8b-db78-49af-a306-bd815038c304.0018.03/DOC_1#src.E0010)) JO L 167 de 2.7.1999, p. 5."
+  },
+  "883bc5aa3b5be789": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2002\n\nque estabelece os requisitos específicos em matéria de acesso à pesca de unidades populacionais de profundidade e as condições a eles associadas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0002)),\n\n(1) Nos termos do Regulamento (CEE) n.º 3760/92, do Conselho, de 20 de Dezembro de 1992, que institui um regime comunitário da pesca e da agricultura ([^3^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0003)), cabe ao Conselho adoptar, à luz dos pareceres científicos existentes e, em especial, do relatório do Comité Científico, Técnico e Económico da Pesca, as medidas necessárias para assegurar uma exploração racional e responsável dos recursos numa base sustentável e as condições de acesso a esses recursos.\n\n(2) Os pareceres científicos sobre determinadas unidades populacionais de peixes de profundidade indicam que estas espécies são vulneráveis à exploração e que as possibilidades de pesca relativas a estas unidades populacionais devem ser limitadas ou reduzidas, a fim de assegurar a sua sustentabilidade.\n\n(3) Os pareceres científicos indicam ainda que a gestão do esforço de pesca constitui um método adequado para garantir a gestão cautelar das unidades populacionais que evoluem nas águas profundas.\n\n(4) Por consequência, é conveniente prever a emissão de uma autorização de pesca especial para os navios que pescam espécies de profundidade e limitar aos níveis mais recentes o esforço de pesca exercido relativamente a essas unidades populacionais.\n\n(5) Para a emissão de pareceres científicos de elevada qualidade são necessárias informações exactas e actualizadas sobre as operações de pesca, que poderão melhor ser recolhidas por observadores científicos qualificados e independentes em colaboração com o sector das pescas e outros interessados.\n\n(6) É importante que as informações adequadas, susceptíveis de verificação e actualizadas para fins de emissão de pareceres científicos sobre a pesca e o ambiente marinho sejam colocadas à disposição dos organismos científicos e de gestão pertinentes o mais rapidamente possível.\n\n(7) Para assegurar uma gestão eficaz e cautelar do esforço de pesca dirigido às espécies de profundidade, é necessário identificar os navios que pescam estas espécies com base em autorizações de pesca especiais emitidas em conformidade com o Regulamento (CE) n.º 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais ([^4^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0004)), e com o Regulamento (CE) n.º 2943/95 da Comissão, de 20 de Dezembro de 1995, que estabelece regras de execução do Regulamento (CE) n.º 1627/94 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0005)).\n\n(8) Para assegurar a observância do disposto no presente regulamento, são necessárias medidas de controlo suplementares para além das estabelecidas no Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^6^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0006)), e no Regulamento (CE) n.º 1489/97 da Comissão, de 29 de Julho de 1997, que estabelece regras de execução do Regulamento (CEE) n.º 2847/93 do Conselho no respeitante aos sistemas de localização dos navios por satélite ([^7^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0007)).\n\n(9) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0008)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9c0d29ff394a92e7": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento é aplicável aos navios de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** que exerçam actividades de pesca que originem capturas das espécies constantes do anexo I nas subzonas do Conselho Internacional de Exploração do Mar (CIEM) I a XIV, inclusive, e em águas [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** das zonas CECAF 34.1.1, 34.1.2, 34.1.3 e 34.2."
+  },
+  "3f13d7601dbb1d63": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Espécies de profundidade», as espécies incluídas na lista do anexo I;\n\nb) «Autorização de pesca de profundidade», uma autorização de pesca especial para espécies de profundidade emitida em conformidade com o artigo 7.º do Regulamento (CE) n.º 1627/94;\n\nc) «Potência», a potência motriz total instalada a bordo do navio em quilowatts, medida em conformidade com o Regulamento (CEE) n.º 2930/86 do Conselho, de 22 de Setembro de 1986, que define as características dos navios de pesca ([^9^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0009));\n\nd) «Volume», a arqueação bruta, medida em conformidade com o Regulamento (CEE) n.º 2930/86;\n\ne) «Quilowatts/dias de pesca», o produto da potência definida na alínea c) pelo número de dias em que um navio de pesca calou qualquer arte de pesca;\n\nf) «Capturas involuntárias», capturas ocasionais de organismos marinhos que, nos termos do artigo 15.º do Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0010)), têm de ser desembarcadas e imputadas a quotas, quer por os organismos marinhos capturados serem de tamanho inferior ao tamanho mínimo de referência de conservação, quer por excederem as quantidades autorizadas pelas regras de composição das capturas e pelas regras de capturas acessórias."
+  },
+  "c321ebe53385a66b": {
+   "fragment_id": "Artigo 3.º — Autorização de pesca de profundidade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Autorização de pesca de profundidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização de pesca de profundidade\n\n1. Os Estados-Membros asseguram que as actividades de pesca que originem, em cada ano civil, a captura e manutenção a bordo de mais de 10 toneladas de espécies de profundidade, exercidas por navios que arvorem seu pavilhão e estejam registados no seu território, sejam sujeitas a uma autorização de pesca de profundidade.\n\nOs navios de pesca que não possuam autorização de pesca de profundidade não podem pescar, em cada saída, quantidades de espécies de profundidade superiores a 100 kg. As quantidades de espécies de profundidade superiores a 100 kg capturadas por esses navios não são mantidas a bordo nem transbordadas ou desembarcadas.\n\nO segundo parágrafo não se aplica às capturas involuntárias de espécies de profundidade sujeitas à obrigação de desembarque estabelecida no artigo 15.º do Regulamento (UE) n.º 1380/2013. Essas capturas involuntárias são desembarcadas e imputadas a quotas.\n\n2. A pedido de um Estado-Membro, podem ser estabelecidas medidas específicas para atender a actividades de pesca sazonais ou artesanais.\n\n3. As regras específicas para a aplicação do n.º 2 são aprovadas nos termos do n.º 2 do artigo 11.º"
+  },
+  "ebd5c0d22fa8d7a9": {
+   "fragment_id": "Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comunicação das características das artes de pesca e das operações de pesca\n\nPara além das obrigações que lhes incumbem por força do artigo 6.º do Regulamento (CEE) n.º 2847/93, os capitães dos navios de pesca [**►M2**](http://publications.europa.eu/resource/celex/32015R0812) da União**◄** que possuam uma autorização de pesca de profundidade devem registar no diário de bordo ou num formulário fornecido pelo Estado-Membro do pavilhão as informações indicadas no anexo III."
+  },
+  "4255deecf3ca9ee0": {
+   "fragment_id": "Artigo 6.º — Sistema de localização dos navios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Sistema de localização dos navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistema de localização dos navios\n\n1. Não obstante o disposto no n.º 2 do artigo 6.º do Regulamento (CE) n.º 1489/97, em caso de deficiência técnica ou de avaria do dispositivo de localização por satélite instalado a bordo do navio de pesca, o capitão do navio deve comunicar a situação geográfica deste ao Estado-Membro do pavilhão e aos Estados-Membros costeiros de duas em duas horas.\n\n2. Depois de concluída a viagem, o navio não pode sair do porto antes de as autoridades competentes considerarem que o dispositivo de localização por satélite funciona de forma satisfatória.\n\n3. Os casos repetidos de incumprimento das obrigações estabelecidas nos n.^os^ 1 e 2 serão considerados como comportamento que infringe gravemente as regras da política comum das pescas, nos termos do Regulamento (CE) n.º 1447/1999 do Conselho, de 24 de Junho de 1999, que fixa uma lista dos tipos de comportamento que infringem gravemente as regras da política comum da pesca ([^11^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#E0011)).\n\n4. As regras específicas para a aplicação do presente artigo são aprovadas nos termos do n.º 2 do artigo 11.º"
+  },
+  "2a614bf648b7e125": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0001)) JO C 151 E de 25.6.2002, p. 184.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0002)) JO L 389 de 31.12.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1181/98 (JO L 164 de 9.6.1998, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0003)) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2846/98 (JO L 358 de 31.12.1998, p. 5).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0004)) JO L 171 de 6.7.1994, p. 7.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0005)) JO L 308 de 21.12.1995, p. 15.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0006)) JO L 202 de 30.7.1997, p. 18. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2445/1999 (JO L 298 de 19.11.1999, p. 5).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0009)) JO L 274 de 25.9.1986, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 3259/94 (JO L 339 de 29.12.1994, p. 11).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0010)) Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, relativo à política comum das pescas, que altera os Regulamentos (CE) n.º 1954/2003 e (CE) n.º 1224/2009 do Conselho e revoga os Regulamentos (CE) n.º 2371/2002 e (CE) n.º 639/2004 do Conselho e a Decisão 2004/585/CE do Conselho (JO L 354 de 28.12.2013, p. 22).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/c82c0292-2b31-45d0-90f1-0e72d28d046f.0015.02/DOC_1#src.E0011)) JO L 167 de 2.7.1999, p. 5."
+  },
+  "414fb79e4f392d3c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02002R2347 — PT — 12.01.2017 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32002R2347) [REGULAMENTO (CE) N.º 2347/2002 DO CONSELHO](http://publications.europa.eu/resource/celex/32002R2347) [de 16 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32002R2347) [que estabelece os requisitos específicos em matéria de acesso à pesca de unidades populacionais de profundidade e as condições a eles associadas](http://publications.europa.eu/resource/celex/32002R2347) (JO L 351, 28.12.2002, p.6)\n\n**revogado por:**\n\n- [Regulamento (UE) 2016/2336 do Parlamento Europeu e do Conselho de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016R2336) — L 354 — 1 — 23.12.2016"
+  }
+ }
+}

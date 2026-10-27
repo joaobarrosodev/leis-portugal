@@ -1,0 +1,198 @@
+---
+schema_version: '1.0'
+id: pt:dre:1244756:por
+title: Portaria n.º 584/2011
+short_title: null
+summary: Classifica o Hospital de Sant'Ana, situado no concelho de Cascais, distrito de Lisboa, a Casa Júlio Resende, situada
+  no concelho de Gondomar, distrito do Porto, e a Igreja Matriz da Vila de Souselas, situada no concelho e distrito de Coimbra,
+  como monumentos de interesse público e fixa as respectivas zonas especiais de protecção
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Cultura - Gabinete do Secretário de Estado da Cultura
+proposing_entity: null
+official_number: 584/2011
+official_date: null
+publication_date: '2011-06-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/2011, Série II de 2011-06-16
+  number: '115'
+  series: II
+  supplement: null
+  pages: 25603 - 25605
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/06/115000000/2560325605.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1244756'
+  dre_path: /dr/detalhe/portaria/584-2011-1244756
+  internal: pt:dre:1244756:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-2011-1244756
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-2011-1244756
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f76d7cf50d363954263ce58d28f8b4dd517182bcab0fb1e6e95c05c3bf38fe3d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cascais
+- Gondomar
+- Imóvel Classificado
+- Protecção do Património
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:31:46Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 584/2011
+
+A presente portaria procede à classificação como monumentos de interesse público do Hospital de Sant'Ana, no concelho de Cascais, da Casa Júlio Resende, no concelho de Gondomar, e da Igreja Matriz da Vila de Souselas, no concelho de Coimbra.
+
+De acordo com os critérios e os pressupostos de classificação previstos na [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, que estabelece as bases da política e do regime de protecção e valorização cultural, os bens imóveis possuidores de um relevante interesse cultural, nomeadamente histórico e arquitectónico, que agora se pretendem classificar, revestem-se de interesse público exigindo a respectiva protecção e valorização, atendendo ao valor patrimonial e cultural de significado para o País, reflectindo valores de memória.
+
+Assim, tendo em conta a necessidade de assegurar medidas especiais sobre o património cultural nacional, no quadro da obrigação do Estado de proteger e valorizar esse mesmo património cultural, o Governo entende que os bens a classificar através desta portaria devem ser objecto de especial protecção.
+
+A classificação do Hospital de Sant'Ana justifica-se pelo seu relevante valor arquitectónico, decorativo, artístico e histórico-social intrínseco. O antigo sanatório de Sant'Ana e actual hospital ortopédico conserva a sua imponência arquitectónica, destacando-se pela longa fachada, paralela à Avenida Marginal.
+
+A Casa Júlio Resende reúne três classes de valor patrimonial que justificam a classificação: é um exemplar ilustrativo da corrente modernista ligada à Escola do Porto, que influenciou decisivamente a produção arquitectónica nacional; a ligação da obra à figura do arquitecto Carlos Loureiro, personalidade incontornável para a história da arquitectura moderna em Portugal, e a ligação do imóvel ao mestre Júlio Resende, figura maior do século xx português. A este respeito importa sublinhar a ligação vivencial do pintor ao sítio e o facto de estarmos perante um exemplo raro de casa-estúdio, pensada e feita de raiz. Esta exemplaridade faz da casa um suporte de memória privilegiado do pintor Júlio Resende.
+
+A Igreja Matriz da Vila de Souselas, dedicada a São Tiago, fica localizada no núcleo central deste antiquíssimo aglomerado urbano, uma das mais antigas freguesias do concelho de Coimbra, no Largo de 25 de Abril, antigo Largo da Igreja. Exteriormente, na fachada principal, rematada por cunhais em forma de pilastras dominadas por fogaréus, destaca-se o portal principal, de moldura dupla com frontão de lanços sobrepujado de um óculo rectangular, de ângulos cortados. A torre, de cobertura piramidal, localiza-se à direita, ligeiramente recuada. No interior, destacam-se os retábulos, nomeadamente o da capela-mor, do século xviii, de quatro colunas e anjos acroteriais, e os das capelas laterais, de duas colunas, da mesma época e com idêntico esquema compositivo, que, em termos estruturais e arquitectónicos, se integram na época josefina.
+
+Foram cumpridos os procedimentos de audição de todos os interessados previstos no artigo 27.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, bem como nos artigos 100.º e seguintes do Código do Procedimento Administrativo, e efectuadas as consultas públicas previstas no [Decreto-Lei n.º 181/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1970-225986), de 28 de Abril.
+
+Assim:
+
+Ao abrigo do disposto no n.º 5 do artigo 15.º, no artigo 18.º, no n.º 2 do artigo 28.º e no n.º 2 do artigo 43.º, todos da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, e ainda do n.º 16 do artigo 3.º do [Decreto-Lei n.º 321/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2009-482658), de 11 de Dezembro, e no uso das competências delegadas pela Ministra da Cultura, através do despacho n.º 431/2010, publicado no Diário da República, 2.ª série, n.º 4, de 7 de Janeiro de 2010, manda o Governo, pelo Secretário de Estado da Cultura, o seguinte:
+
+###### Artigo 1.º — Classificação
+
+São classificados como monumento de interesse público (MIP) os bens imóveis a seguir identificados:
+
+a) O Hospital de Sant'Ana, freguesia da Parede, concelho de Cascais e distrito de Lisboa, cuja fundamentação para a classificação consta do anexo i da presente portaria, da qual faz parte integrante;
+
+b) A Casa Júlio Resende, freguesia de Valbom, concelho de Gondomar e distrito do Porto, cuja fundamentação para a classificação consta do anexo ii da presente portaria, da qual faz parte integrante;
+
+c) A Igreja Matriz da Vila de Souselas, sita no Largo de 25 de Abril (antigo Largo da Igreja), freguesia de Souselas, concelho e distrito de Coimbra, cuja fundamentação para a classificação consta do anexo iii da presente portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Zona especial de protecção
+
+a) É fixada a zona especial de protecção (ZEP) do Hospital de Sant'Ana, identificado na alínea a) do artigo anterior, conforme planta de delimitação constante do anexo iv da presente portaria, da qual faz parte integrante.
+
+b) É fixada a zona especial de protecção (ZEP) da Casa Júlio Resende, identificada na alínea b) do artigo anterior, conforme planta de delimitação constante do anexo v da presente portaria, da qual faz parte integrante.
+
+c) É fixada a zona especial de protecção (ZEP) da Igreja Matriz da Vila de Souselas, identificada na alínea c) do artigo anterior, conforme planta de delimitação constante do anexo vi da presente portaria, da qual faz parte integrante.
+
+3 de Junho de 2011. - O Secretário de Estado da Cultura, Elísio Costa Santos Summavielle.
+
+## ANEXO I
+
+O antigo sanatório de Sant'Ana e actual hospital ortopédico conserva a sua imponência arquitectónica, destacando-se pela longa fachada, paralela à Avenida Marginal.
+
+Risco do arquitecto Rosendo Garcia de Araújo Carvalheira, com a colaboração dos arquitectos Manuel Joaquim Norte Júnior, António do Couto, José Marques da Silva, Álvaro Machado e do pintor de azulejos Jorge Pinto (executados na Fábrica Sabido).
+
+O sanatório de Santana, inaugurado a 31 de Julho de 1904, é uma das peças mais elaboradas da arquitectura portuguesa do início do século xx, realizado com meios financeiros generosos, oriundos de dádiva particular. Destinado ao tratamento das doenças ósseas, articulava-se com os progressos recentes da medicina que valorizavam as faculdades terapêuticas da exposição ao sol e dos banhos de algas, na atmosfera da beira-mar, objectivo que determinou à partida a excepcional localização do Hospital, debruçado sobre uma falésia, mas impôs também ao arquitecto a elaboração de um programa muito especializado que se enuncia no rigor da planta e nas opções técnicas, nomeadamente em relação à ventilação.
+
+Rosendo Carvalheira dedicou semelhante atenção à elaboração da imagem global do edifício, cuja extensão é iludida pelo escalonamento dos telhados, pelo amplo alpendre com colunata que percorre toda a fachada e pela marca retórica dos corpos centrais de maior altura. Todas as soluções adoptadas no Hospital são simultaneamente estéticas e funcionais, conforme se observa com o qualificado uso de azulejos que ora se assumem como expedito recurso higienista, utilizando então padronagens simples e geométricas, ora proclamam um lugar de arte, em numerosos frisos de intensa cor e motivos vitalistas, constituindo uma das mais poderosas colecções de azulejaria arte nova portuguesa.
+
+Destaca-se também a capela, que centraliza a fachada posterior do conjunto e se abre por três arcos redondos, cuja molduração seca contrasta com a atmosfera luminosa do interior, percorrida de apontamentos decorativos de gosto ecléctico.
+
+Representando a capacidade da arquitectura de 1900 de assumir as exigências técnicas e científicas da cultura mais actualizada do tempo, o sanatório resiste organicamente à normalização que já se adivinhava, miscigenando as funções com uma «pele» sobriamente ornamentada. Neste balanço significante entre arte e função reside a sua eficácia, específica e simbólica, que lhe permitiu atravessar o século com plena adequação.
+
+A fixação da zona especial de protecção (ZEP) do Hospital de Sant'Ana, incluindo terrenos e edifícios solidários, na Rua de Benguela, na Avenida Marginal e na Avenida de Vasco da Gama, 2, freguesia da Parede, concelho de Cascais e distrito de Lisboa, baseando-se em elementos físicos de fácil identificação, visa salvaguardar o enquadramento do imóvel agora classificado, incorpora e tem em conta a proximidade entre o Hospital e o rio, bem como a relação daquele com a malha urbana envolvente, tendo em conta o enfiamento visual e os pontos de vista relevantes para a sua preservação, garantindo a salvaguarda da autenticidade do imóvel classificado.
+
+## ANEXO II
+
+A Casa Júlio Resende foi construída em 1961 sob projecto do arquitecto José Carlos Loureiro. Membro da Organização dos Arquitectos Modernos desde 1947, formado na Escola Superior de Belas-Artes do Porto em 1950 e aí docente até 1972, a sua obra, muito ecléctica, reflecte plenamente os princípios do movimento moderno.
+
+O edifício é composto por volumes que se interpenetram e se dispõem escalonados de maneira a acompanhar a ligeira pendente do terreno, numa composição que revela uma grande sensibilidade pela morfologia original do sítio e cuidado na forma de intervir.
+
+Este «respeito pelo lugar», bem como a utilização do aparelho de granito à vista e telhados com grande expressão, assinalam a consonância com a corrente, muito característica da Escola do Porto, que a partir dos anos 50 e na sequência do Inquérito à Arquitectura Popular estuda as técnicas e os materiais da arquitectura regional e os procura adaptar aos princípios da linguagem modernista.
+
+Discreta, virada para o interior, a casa implanta-se hoje no interior de um jardim que acentua a perspectiva orgânica e confere ao ambiente uma sensação de tranquilidade e harmonia geral.
+
+A Casa Júlio Resende reúne, em síntese, três classes de valor patrimonial que justificam a classificação:
+
+É um exemplar ilustrativo da corrente modernista ligada à Escola do Porto, muito atenta às lições da arquitectura vernacular e ao carácter da paisagem, corrente que influenciou decisivamente a produção arquitectónica nacional;
+
+A ligação da obra à figura do arquitecto Carlos Loureiro, personalidade incontornável para a história da arquitectura moderna em Portugal;
+
+A ligação do imóvel ao mestre Júlio Resende, figura maior do século xx português. A este respeito importa sublinhar a ligação vivencial do pintor ao sítio e o facto de estarmos perante um exemplo raro de casa-estúdio, pensada e feita de raiz. Esta exemplaridade faz da casa um suporte de memória privilegiado do pintor Júlio Resende.
+
+A zona especial de protecção teve em consideração o contexto paisagístico envolvente e os instrumentos de gestão do território em vigor. Foi tida em consideração a clareza dos limites e a inclusão do Lugar do Desenho - Fundação Júlio Resende, implantado nas proximidades.
+
+## ANEXO III
+
+A Igreja Matriz da Vila de Souselas, dedicada a São Tiago, fica localiza no núcleo central deste antiquíssimo aglomerado urbano, uma das mais antigas freguesias do concelho de Coimbra, no Largo de 25 de Abril (antigo Largo da Igreja).
+
+O aspecto actual do templo relaciona-se com a reforma da 2.ª metade do século xviii, restando poucos elementos do anterior. Exteriormente, na fachada principal, rematada por cunhais em forma de pilastras dominadas por fogaréus, destaca-se o portal principal, de moldura dupla com frontão de lanços sobrepujado de um óculo rectangular, de ângulos cortados. A torre, de cobertura piramidal, localiza-se à direita, ligeiramente recuada.
+
+No interior, destacam-se os retábulos, nomeadamente o da capela-mor, do século xviii, de quatro colunas e anjos acroteriais, e os das capelas laterais, de duas colunas, da mesma época e com idêntico esquema compositivo, que, em termos estruturais e arquitectónicos, se integram na época josefina.
+
+Contudo, o elemento arquitectónico com maior interesse é sem dúvida a Capela do Sacramento, dos finais do século xvi (datada de 1593, na abóbada, e de 1594, numa pilastra do retábulo), que apresenta cobertura de cúpula em caixotões de pedra e retábulo pétreo distribuído em dois andares. Fugindo já, quer pela data de construção quer a nível estilístico, ao que foi designado por renascimento coimbrão, visto que se situa em plena época de contornos maneiristas, apresenta características bem diversas, na utilização de uma gramática estética que segue os parâmetros europeus, reelaborada num entendimento muito pessoal e regional por artistas que aprenderam a trabalhar em Coimbra, com mestres como João de Ruão.
+
+A zona especial de protecção definida teve em consideração a malha urbana da envolvente próxima, em que se integra, a sul e a poente, a existência de morfologias ou detalhes relevantes e ainda a paisagem natural, de características quase rurais, a nascente e a norte, estabelecendo uma protecção eficaz, quer no edificado urbano quer na área paisagística, constituída por espaços vazios, tratados, como jardins, ou expectantes, cuja integridade deve ser salvaguardada.
+
+Teve também em atenção o contexto espacial e os pontos de vista/eixos visuais, que constituem a bacia visual em que se integra o imóvel, sendo que a relação urbana do templo com a envolvente se encontra devidamente salvaguardada.
+
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/115000000/2560325605.pdf)
+
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/115000000/2560325605.pdf)
+
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/115000000/2560325605.pdf)
+
+204773885

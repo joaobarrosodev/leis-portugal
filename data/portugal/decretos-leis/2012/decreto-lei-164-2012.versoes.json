@@ -1,0 +1,338 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:179291:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-107797813",
+ "dre_path": "/dr/detalhe/decreto-lei/164-2012-179291",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107799680",
+    "107799681",
+    "107799682",
+    "107799683",
+    "107799684",
+    "107799685",
+    "107799686",
+    "107799687",
+    "107799688",
+    "107799689",
+    "107799690",
+    "107799691",
+    "107799692",
+    "107799693",
+    "107799694",
+    "107799695",
+    "107799696"
+   ]
+  },
+  {
+   "date": "2017-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107094725:por",
+     "title": "Lei n.º 30/2017",
+     "published": "2017-05-30",
+     "dre_path": "/dr/detalhe/lei/30-2017-107094725"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107799680",
+    "107799681",
+    "107799682",
+    "107799698",
+    "107799684",
+    "107799685",
+    "107799686",
+    "107799687",
+    "107799688",
+    "107799689",
+    "107799690",
+    "107799691",
+    "107799692",
+    "107799693",
+    "107799694",
+    "107799695",
+    "107799696",
+    "107799697"
+   ]
+  },
+  {
+   "date": "2022-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184108564:por",
+     "title": "Decreto-Lei n.º 38/2022",
+     "published": "2022-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2022-184108564"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "107799680",
+    "184183134",
+    "107799682",
+    "107799698",
+    "107799684",
+    "184183135",
+    "107799686",
+    "184183136",
+    "107799688",
+    "107799689",
+    "107799690",
+    "107799691",
+    "107799692",
+    "107799693",
+    "107799694",
+    "107799695",
+    "107799696",
+    "107799697"
+   ]
+  },
+  {
+   "date": "2026-02-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1043405186:por",
+     "title": "Decreto-Lei n.º 32/2026",
+     "published": "2026-02-10",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2026-1043405186"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107799680",
+    "184183134",
+    "107799682",
+    "1045466375",
+    "107799684",
+    "184183135",
+    "107799686",
+    "184183136",
+    "107799688",
+    "107799689",
+    "107799690",
+    "107799691",
+    "107799692",
+    "107799693",
+    "107799694",
+    "107799695",
+    "107799696",
+    "107799697"
+   ]
+  }
+ ],
+ "fragments": {
+  "107799680": {
+   "fragment_id": "107797814",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 164/2012\n\nde 31 de julho\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNo âmbito da nova Lei Orgânica do Ministério da Justiça, foram revisitadas e ajustadas as atribuições e competências de todos os serviços e organismos do Ministério, de modo a potenciar a sua operacionalidade.\n\nCom o objetivo de alcançar uma gestão mais ativa dos seus recursos, o Instituto das Tecnologias de Informação na Justiça, I. P., e o Instituto de Gestão Financeira e de Infraestruturas da Justiça, I. P., foram extintos, sendo as suas atribuições racionalizadas e integradas num novo instituto criado, o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.).\n\nO IGFEJ, I. P., tem por missão a gestão dos recursos financeiros do Ministério da Justiça, a gestão do património afeto à área da justiça, a gestão das infraestruturas e recursos tecnológicos, bem como a proposta de conceção, a execução e a avaliação dos planos e projetos de informatização, em articulação com os demais serviços e organismos do Ministério da Justiça.\n\nA centralização permite, de forma articulada com os diversos serviços e organismos, gerir e coordenar de modo mais eficiente a política definida nestas áreas.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "107799681": {
+   "fragment_id": "107797815",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., designado por IGFEJ, I. P., é um instituto público, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IGFEJ, I. P., prossegue atribuições do Ministério da Justiça, abreviadamente designado por MJ, sob superintendência e tutela do membro de Governo responsável pela área da justiça."
+  },
+  "107799682": {
+   "fragment_id": "107797816",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O IGFEJ, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O IGFEJ, I. P., tem sede em Lisboa."
+  },
+  "107799683": {
+   "fragment_id": "107797817",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IGFEJ, I. P., tem por missão a gestão dos recursos financeiros do MJ, a gestão do património afeto à área da justiça, das infraestruturas e recursos tecnológicos, bem como a proposta de conceção, a execução e a avaliação dos planos e projetos de informatização, em articulação com os demais serviços e organismos do MJ.\n\n2 - São atribuições do IGFEJ, I. P.:\n\na) Apresentar a proposta de financiamento mais adequada à atividade do MJ, enquadrada na política orçamental e financeira do Estado e de acordo com o planeamento estratégico definido para o sector;\n\nb) Desenvolver as atividades de entidade coordenadora do programa orçamental;\n\nc) Definir, executar e avaliar, em colaboração com os respetivos serviços e organismos, o orçamento e os planos de investimento do MJ;\n\nd) Assegurar a supervisão do parque automóvel adstrito aos serviços do MJ em articulação com estes;\n\ne) Liquidar, cobrar e registar as respetivas receitas próprias;\n\nf) Coordenar a requisição das verbas inscritas no Orçamento do Estado afetas aos serviços e organismos do MJ;\n\ng) Assegurar a gestão dos respetivos recursos humanos;\n\nh) Assegurar procedimentos de contratação pública não abrangidos pela unidade ministerial de compras, em articulação com os demais serviços e organismos do MJ;\n\ni) Promover a realização de estudos relativos ao património imobiliário e às instalações do MJ, nomeadamente dirigidos à previsão das necessidades e à rentabilização do património existente, bem como planear, em articulação com os serviços e organismos do MJ, as necessidades no domínio das instalações;\n\nj) Assegurar, de forma racional e eficiente, a gestão e a administração dos imóveis que constituam o património imobiliário afeto ao MJ, organizando e atualizando o respetivo cadastro e inventário, realizando avaliações, elaborando e executando planos de aquisição, arrendamento e alienação e procedendo à afetação de imóveis para instalação de órgãos, serviços e organismos;\n\nk) Definir o programa de empreitadas de construção, remodelação, ampliação, adaptação e conservação de instalações, coordenando o respetivo planeamento com os serviços e organismos do MJ;\n\nl) Coordenar a definição dos programas preliminares dos projetos com os serviços e organismos do MJ, assegurando, em articulação com estes, a elaboração dos projetos, a gestão dos empreendimentos e a coordenação e fiscalização das empreitadas, até à receção das mesmas;\n\nm) Assegurar a apresentação de propostas de conceção, execução e manutenção dos recursos tecnológicos e dos sistemas de informação da justiça, garantindo a sua gestão e administração em articulação com os demais serviços e organismos do MJ e o apoio informático aos respetivos utilizadores;\n\nn) Assegurar a adequação dos sistemas de informação às necessidades de gestão e operacionalidade dos órgãos, serviços e organismos da área da justiça, em articulação com estes;\n\no) Gerir a rede de comunicações da justiça, em articulação com os serviços e organismos do MJ, garantindo a sua segurança e operacionalidade e promovendo a unificação de métodos e processos, sem prejuízo do regime especial da segurança de informação cometido à DGAJ;\n\np) Elaborar propostas de articulação com o plano estratégico dos sistemas de informação da área da justiça, tendo em atenção a evolução tecnológica e as necessidades globais de formação;\n\nq) Elaborar, desenvolver e coordenar propostas de projetos de investimento, em matéria de informática e comunicações dos serviços e organismos do MJ, em articulação com estes;\n\nr) Executar soluções de gestão de informação estruturada e não estruturada na área da justiça, designadamente de acesso geral, nas áreas jurídica e documental, em articulação com os demais serviços e organismos do MJ;\n\ns) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respetivas contrapartidas;\n\nt) Assegurar a representação internacional na área das tecnologias de informação e comunicação, em articulação com os demais serviços e organismos competentes do MJ, salvo se essa representação for assegurada por outro serviço ou pessoa singular, em função da matéria, por despacho do membro do Governo responsável pela área da justiça;\n\nu) Exercer funções de certificação no âmbito do MJ.\n\n3 - Junto do IGFEJ, I. P., funciona o Fundo para a Modernização da Justiça que assegura a sustentabilidade de reformas essenciais, com o fim de dotar o sistema de novas fontes de financiamento e de promover a modernização dos sistemas de informação da justiça.\n\n4 - Junto do IGFEJ, I. P., funciona o Gabinete de Administração de Bens que assegura a administração dos bens apreendidos ou recuperados, no âmbito de processos nacionais ou de atos de cooperação judiciária internacional."
+  },
+  "107799684": {
+   "fragment_id": "107797818",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do IGFEJ, I. P.:\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo."
+  },
+  "107799685": {
+   "fragment_id": "107797819",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é constituído por um presidente e por dois vogais.\n\n2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IGFEJ, I. P.:\n\na) Apresentar ao membro do Governo responsável pela área da justiça o relatório anual sobre financiamento do sector;\n\nb) Submeter a aprovação do membro do Governo responsável pela área da justiça os planos de investimento dos serviços e organismos do MJ e respetivos projetos de orçamento, sob proposta daqueles;\n\nc) Propor ao membro do Governo responsável pela área da justiça a aquisição, o arrendamento e a alienação de imóveis;\n\nd) Apresentar ao membro do Governo responsável pela área da justiça propostas de conceção e execução dos recursos tecnológicos e dos sistemas de informação da Justiça, em articulação com os demais serviços e organismos;\n\ne) Praticar todos os atos de administração e de gestão do Fundo para a Modernização da Justiça;\n\nf) Praticar todos os atos de administração e de gestão do Gabinete de Administração de Bens.\n\n3 - O conselho diretivo pode delegar, com a faculdade de subdelegação, em um ou mais dos seus membros e nos dirigentes dos serviços as competências que lhe estejam atribuídas."
+  },
+  "107799686": {
+   "fragment_id": "107797820",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos."
+  },
+  "107799687": {
+   "fragment_id": "107797821",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do IGFEJ, I. P., e nas tomadas de decisão do conselho diretivo.\n\n2 - O conselho consultivo tem a seguinte composição:\n\na) O presidente do conselho diretivo do IGFEJ, I. P., que preside;\n\nb) Os vogais do conselho diretivo do IGFEJ, I. P.;\n\nc) Os dirigentes máximos dos serviços e organismos do MJ;\n\nd) Outras individualidades ou outros representantes de entidades, públicas ou privadas, cuja participação, com ou sem direito de voto, seja decidida por iniciativa do conselho, consoante a natureza das matérias a tratar.\n\n3 - Sem prejuízo das competências conferidas por lei, compete ao conselho consultivo:\n\na) Pronunciar-se sobre as necessidades de infraestruturas resultantes do plano de desenvolvimento para os serviços de justiça, bem como sobre as grandes linhas da política de gestão para o património do MJ;\n\nb) Pronunciar-se sobre as linhas e decisões de política de informatização prosseguida no âmbito do MJ;\n\nc) Emitir parecer sobre quaisquer outros assuntos, nomeadamente de natureza financeira, que lhe sejam submetidos pelo conselho diretivo do IGFEJ, I. P., ou pelo seu presidente.\n\n4 - O conselho consultivo reúne semestralmente, em sessão ordinária, tendo como objeto pronunciar-se sobre a política de investimentos do MJ e proceder à avaliação da sua execução e, em sessão extraordinária, nos casos previstos na lei e no respetivo regulamento interno."
+  },
+  "107799688": {
+   "fragment_id": "107797822",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna do IGFEJ, I. P., é a prevista nos respetivos Estatutos."
+  },
+  "107799689": {
+   "fragment_id": "107797823",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O IGFEJ, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e de transferências de outros serviços ou organismos do MJ.\n\n2 - O IGFEJ, I. P., dispõe ainda das seguintes receitas próprias:\n\na) Atribuídas nos termos da lei, no âmbito do sistema judicial, registral e notarial;\n\nb) Rendimentos de aplicações junto do Tesouro;\n\nc) Rendimentos dos bens próprios;\n\nd) Remuneração dos seus saldos de tesouraria;\n\ne) Produto de alienação e cedência de imobilizações corpóreas;\n\nf) Produto de taxas e outros valores de natureza pecuniária que lhe sejam consignados;\n\ng) Produto da venda de bens e serviços no âmbito das respetivas atribuições;\n\nh) Direitos de propriedade de produtos e patentes que venham a ser desenvolvidos no âmbito das respetivas atribuições;\n\ni) Donativos, heranças ou legados;\n\nj) Comparticipações ou subsídios concedidos por quaisquer entidades;\n\nk) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - Os saldos das receitas referidas no número anterior verificados no final de cada ano transitam para o ano seguinte nos termos previstos no decreto-lei de execução orçamental anual."
+  },
+  "107799690": {
+   "fragment_id": "107797824",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas do IGFEJ, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "107799691": {
+   "fragment_id": "107797825",
+   "type": 11,
+   "heading": "Artigo 11.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Património\n\nO património do IGFEJ, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "107799692": {
+   "fragment_id": "107797826",
+   "type": 11,
+   "heading": "Artigo 12.º — Fundo para a Modernização da Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fundo para a Modernização da Justiça\n\nO Fundo para a Modernização da Justiça rege-se pelo Decreto-Lei n.º 14/2011, de 25 de janeiro."
+  },
+  "107799693": {
+   "fragment_id": "107797827",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de seleção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Critérios de seleção de pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições do IGFEJ, I. P.:\n\na) O desempenho de funções no Instituto de Gestão Financeira e de Infraestruturas da Justiça, I. P.;\n\nb) O desempenho de funções no Instituto das Tecnologias de Informação na Justiça, I. P."
+  },
+  "107799694": {
+   "fragment_id": "107797828",
+   "type": 11,
+   "heading": "Artigo 14.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sucessão\n\n1 - O IGFEJ, I. P., sucede nas atribuições do Instituto de Gestão Financeira e de Infraestruturas da Justiça, I. P., assim como nas atribuições do Instituto das Tecnologias de Informação na Justiça, I. P.\n\n2 - O IGFEJ, I. P., sucede na titularidade do património imobiliário que se encontre registado na matriz predial ou na conservatória do registo predial em nome dos institutos referidos no número anterior."
+  },
+  "107799695": {
+   "fragment_id": "107797829",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 128/2007, de 27 de abril;\n\nb) O Decreto-Lei n.º 130/2007, de 27 de abril."
+  },
+  "107799696": {
+   "fragment_id": "107797830",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "107799698": {
+   "fragment_id": "107797817",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IGFEJ, I. P., tem por missão a gestão dos recursos financeiros do MJ, a gestão do património afeto à área da justiça, das infraestruturas e recursos tecnológicos, bem como a proposta de conceção, a execução e a avaliação dos planos e projetos de informatização, em articulação com os demais serviços e organismos do MJ.\n\n2 - São atribuições do IGFEJ, I. P.:\n\na) Apresentar a proposta de financiamento mais adequada à atividade do MJ, enquadrada na política orçamental e financeira do Estado e de acordo com o planeamento estratégico definido para o sector;\n\nb) Desenvolver as atividades de entidade coordenadora do programa orçamental;\n\nc) Definir, executar e avaliar, em colaboração com os respetivos serviços e organismos, o orçamento e os planos de investimento do MJ;\n\nd) Assegurar a supervisão do parque automóvel adstrito aos serviços do MJ em articulação com estes;\n\ne) Liquidar, cobrar e registar as respetivas receitas próprias;\n\nf) Coordenar a requisição das verbas inscritas no Orçamento do Estado afetas aos serviços e organismos do MJ;\n\ng) Assegurar a gestão dos respetivos recursos humanos;\n\nh) Assegurar procedimentos de contratação pública não abrangidos pela unidade ministerial de compras, em articulação com os demais serviços e organismos do MJ;\n\ni) Promover a realização de estudos relativos ao património imobiliário e às instalações do MJ, nomeadamente dirigidos à previsão das necessidades e à rentabilização do património existente, bem como planear, em articulação com os serviços e organismos do MJ, as necessidades no domínio das instalações;\n\nj) Assegurar, de forma racional e eficiente, a gestão e a administração dos imóveis que constituam o património imobiliário afeto ao MJ, organizando e atualizando o respetivo cadastro e inventário, realizando avaliações, elaborando e executando planos de aquisição, arrendamento e alienação e procedendo à afetação de imóveis para instalação de órgãos, serviços e organismos;\n\nk) Definir o programa de empreitadas de construção, remodelação, ampliação, adaptação e conservação de instalações, coordenando o respetivo planeamento com os serviços e organismos do MJ;\n\nl) Coordenar a definição dos programas preliminares dos projetos com os serviços e organismos do MJ, assegurando, em articulação com estes, a elaboração dos projetos, a gestão dos empreendimentos e a coordenação e fiscalização das empreitadas, até à receção das mesmas;\n\nm) Assegurar a apresentação de propostas de conceção, execução e manutenção dos recursos tecnológicos e dos sistemas de informação da justiça, garantindo a sua gestão e administração em articulação com os demais serviços e organismos do MJ e o apoio informático aos respetivos utilizadores;\n\nn) Assegurar a adequação dos sistemas de informação às necessidades de gestão e operacionalidade dos órgãos, serviços e organismos da área da justiça, em articulação com estes;\n\no) Gerir a rede de comunicações da justiça, em articulação com os serviços e organismos do MJ, garantindo a sua segurança e operacionalidade e promovendo a unificação de métodos e processos, sem prejuízo do regime especial da segurança de informação cometido à DGAJ;\n\np) Elaborar propostas de articulação com o plano estratégico dos sistemas de informação da área da justiça, tendo em atenção a evolução tecnológica e as necessidades globais de formação;\n\nq) Elaborar, desenvolver e coordenar propostas de projetos de investimento, em matéria de informática e comunicações dos serviços e organismos do MJ, em articulação com estes;\n\nr) Executar soluções de gestão de informação estruturada e não estruturada na área da justiça, designadamente de acesso geral, nas áreas jurídica e documental, em articulação com os demais serviços e organismos do MJ;\n\ns) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respetivas contrapartidas;\n\nt) Assegurar a representação internacional na área das tecnologias de informação e comunicação, em articulação com os demais serviços e organismos competentes do MJ, salvo se essa representação for assegurada por outro serviço ou pessoa singular, em função da matéria, por despacho do membro do Governo responsável pela área da justiça;\n\nu) Exercer funções de certificação no âmbito do MJ.\n\n3 - Junto do IGFEJ, I. P., funciona o Fundo para a Modernização da Justiça que assegura a sustentabilidade de reformas essenciais, com o fim de dotar o sistema de novas fontes de financiamento e de promover a modernização dos sistemas de informação da justiça.\n\n4 - Junto do IGFEJ, I. P., funciona o Gabinete de Administração de Bens que assegura a administração dos bens apreendidos, recuperados ou declarados perdidos a favor do Estado, no âmbito de processos nacionais ou de atos de cooperação judiciária internacional.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107799697": {
+   "fragment_id": "107797831",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz.\n\nPromulgado em 25 de julho de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 27 de julho de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "184183134": {
+   "fragment_id": "107797815",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., designado por IGFEJ, I. P., é um instituto público, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IGFEJ, I. P., prossegue atribuições do Ministério da Justiça, abreviadamente designado por MJ, sob superintendência e tutela do membro de Governo responsável pela área da justiça.\n\n3 - O IGFEJ, I. P., é equiparado a entidade pública empresarial no âmbito das suas atribuições na área da gestão dos sistemas e tecnologias de informação da justiça, para efeitos de recrutamento de trabalhadores que desempenhem funções correspondentes ao conteúdo funcional das carreiras de técnico de informática e especialista de informática.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183135": {
+   "fragment_id": "107797819",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é constituído por um presidente, um vice-presidente e dois vogais.\n\n2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IGFEJ, I. P.:\n\na) Apresentar ao membro do Governo responsável pela área da justiça o relatório anual sobre financiamento do sector;\n\nb) Submeter a aprovação do membro do Governo responsável pela área da justiça os planos de investimento dos serviços e organismos do MJ e respetivos projetos de orçamento, sob proposta daqueles;\n\nc) Propor ao membro do Governo responsável pela área da justiça a aquisição, o arrendamento e a alienação de imóveis;\n\nd) Apresentar ao membro do Governo responsável pela área da justiça propostas de conceção e execução dos recursos tecnológicos e dos sistemas de informação da Justiça, em articulação com os demais serviços e organismos;\n\ne) Praticar todos os atos de administração e de gestão do Fundo para a Modernização da Justiça;\n\nf) Praticar todos os atos de administração e de gestão do Gabinete de Administração de Bens.\n\n3 - O conselho diretivo pode delegar, com a faculdade de subdelegação, em um ou mais dos seus membros e nos dirigentes dos serviços as competências que lhe estejam atribuídas.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183136": {
+   "fragment_id": "107797821",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do IGFEJ, I. P., e nas tomadas de decisão do conselho diretivo.\n\n2 - O conselho consultivo tem a seguinte composição:\n\na) O presidente do conselho diretivo do IGFEJ, I. P., que preside;\n\nb) O vice-presidente e os vogais do conselho diretivo do IGFEJ, I. P.;\n\nc) Os dirigentes máximos dos serviços e organismos do MJ;\n\nd) Outras individualidades ou outros representantes de entidades, públicas ou privadas, cuja participação, com ou sem direito de voto, seja decidida por iniciativa do conselho, consoante a natureza das matérias a tratar.\n\n3 - Sem prejuízo das competências conferidas por lei, compete ao conselho consultivo:\n\na) Pronunciar-se sobre as necessidades de infraestruturas resultantes do plano de desenvolvimento para os serviços de justiça, bem como sobre as grandes linhas da política de gestão para o património do MJ;\n\nb) Pronunciar-se sobre as linhas e decisões de política de informatização prosseguida no âmbito do MJ;\n\nc) Emitir parecer sobre quaisquer outros assuntos, nomeadamente de natureza financeira, que lhe sejam submetidos pelo conselho diretivo do IGFEJ, I. P., ou pelo seu presidente.\n\n4 - O conselho consultivo reúne semestralmente, em sessão ordinária, tendo como objeto pronunciar-se sobre a política de investimentos do MJ e proceder à avaliação da sua execução e, em sessão extraordinária, nos casos previstos na lei e no respetivo regulamento interno.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "1045466375": {
+   "fragment_id": "107797817",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2026-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2026 - Diário da República n.º 28/2026, Série I de 2026-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2026-1043405186), em vigor a partir de 2026-02-11",
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IGFEJ, I. P., tem por missão a gestão dos recursos financeiros do MJ, a gestão do património afeto à área da justiça, das infraestruturas e recursos tecnológicos, bem como a proposta de conceção, a execução e a avaliação dos planos e projetos de informatização, em articulação com os demais serviços e organismos do MJ.\n\n2 - São atribuições do IGFEJ, I. P.:\n\na) Apresentar a proposta de financiamento mais adequada à atividade do MJ, enquadrada na política orçamental e financeira do Estado e de acordo com o planeamento estratégico definido para o sector;\n\nb) Desenvolver as atividades de entidade coordenadora do programa orçamental;\n\nc) Definir, executar e avaliar, em colaboração com os respetivos serviços e organismos, o orçamento e os planos de investimento do MJ;\n\nd) Assegurar a supervisão do parque automóvel adstrito aos serviços do MJ em articulação com estes;\n\ne) Liquidar, cobrar e registar as respetivas receitas próprias;\n\nf) Coordenar a requisição das verbas inscritas no Orçamento do Estado afetas aos serviços e organismos do MJ;\n\ng) Assegurar a gestão dos respetivos recursos humanos;\n\nh) Assegurar procedimentos de contratação pública não abrangidos pela unidade ministerial de compras, em articulação com os demais serviços e organismos do MJ;\n\ni) Promover a realização de estudos relativos ao património imobiliário e às instalações do MJ, nomeadamente dirigidos à previsão das necessidades e à rentabilização do património existente, bem como planear, em articulação com os serviços e organismos do MJ, as necessidades no domínio das instalações;\n\nj) Assegurar, de forma racional e eficiente, a gestão e a administração dos imóveis que constituam o património imobiliário afeto ao MJ, organizando e atualizando o respetivo cadastro e inventário, realizando avaliações, elaborando e executando planos de aquisição, arrendamento e alienação e procedendo à afetação de imóveis para instalação de órgãos, serviços e organismos;\n\nk) Definir o programa de empreitadas de construção, remodelação, ampliação, adaptação e conservação de instalações, coordenando o respetivo planeamento com os serviços e organismos do MJ;\n\nl) Coordenar a definição dos programas preliminares dos projetos com os serviços e organismos do MJ, assegurando, em articulação com estes, a elaboração dos projetos, a gestão dos empreendimentos e a coordenação e fiscalização das empreitadas, até à receção das mesmas;\n\nm) Assegurar a apresentação de propostas de conceção, execução e manutenção dos recursos tecnológicos e dos sistemas de informação da justiça, garantindo a sua gestão e administração em articulação com os demais serviços e organismos do MJ e o apoio informático aos respetivos utilizadores;\n\nn) Assegurar a adequação dos sistemas de informação às necessidades de gestão e operacionalidade dos órgãos, serviços e organismos da área da justiça, em articulação com estes;\n\no) Gerir a rede de comunicações da justiça, em articulação com os serviços e organismos do MJ, garantindo a sua segurança e operacionalidade e promovendo a unificação de métodos e processos, sem prejuízo do regime especial da segurança de informação cometido à DGAJ;\n\np) Elaborar propostas de articulação com o plano estratégico dos sistemas de informação da área da justiça, tendo em atenção a evolução tecnológica e as necessidades globais de formação;\n\nq) Elaborar, desenvolver e coordenar propostas de projetos de investimento, em matéria de informática e comunicações dos serviços e organismos do MJ, em articulação com estes;\n\nr) Executar soluções de gestão de informação estruturada e não estruturada na área da justiça, designadamente de acesso geral, nas áreas jurídica e documental, em articulação com os demais serviços e organismos do MJ;\n\ns) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respetivas contrapartidas;\n\nt) Assegurar a representação internacional na área das tecnologias de informação e comunicação, em articulação com os demais serviços e organismos competentes do MJ, salvo se essa representação for assegurada por outro serviço ou pessoa singular, em função da matéria, por despacho do membro do Governo responsável pela área da justiça;\n\nu) Exercer funções de certificação no âmbito do MJ;\n\nv) Assegurar, em articulação com a Direção-Geral da Administração da Justiça e em consonância com as atribuições previstas nas alíneas i), j), m), n), o), p), q) e r), o apoio ao funcionamento da Procuradoria Europeia em território nacional, nomeadamente através de:\n\ni) Disponibilização de instalações adequadas, incluindo para armazenamento e custódia de provas;\n\nii) Fornecimento e instalação de equipamentos e telecomunicações;\n\niii) Assistência informática;\n\niv) Armazenamento e tratamento de documentos classificados nos termos da Decisão do Conselho n.º 2013/488/UE, de 23 de setembro de 2013;\n\nv) Garantia de acesso remoto aos sistemas nacionais de tratamento de dados sob gestão do IGFEJ, I. P.\n\n3 - Junto do IGFEJ, I. P., funciona o Fundo para a Modernização da Justiça que assegura a sustentabilidade de reformas essenciais, com o fim de dotar o sistema de novas fontes de financiamento e de promover a modernização dos sistemas de informação da justiça.\n\n4 - Junto do IGFEJ, I. P., funciona o Gabinete de Administração de Bens que assegura a administração dos bens apreendidos, recuperados ou declarados perdidos a favor do Estado, no âmbito de processos nacionais ou de atos de cooperação judiciária internacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2026 - Diário da República n.º 28/2026, Série I de 2026-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2026-1043405186), em vigor a partir de 2026-02-11\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  }
+ }
+}

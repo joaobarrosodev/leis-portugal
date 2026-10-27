@@ -1,0 +1,494 @@
+---
+schema_version: '1.0'
+id: pt:dre:74661197:por
+title: Decreto-Lei n.º 26/2016
+short_title: null
+summary: Assegura a execução e garante o cumprimento, na ordem jurídica interna, das obrigações decorrentes do Regulamento
+  (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos
+  consumidores dos géneros alimentícios, e do Regulamento de Execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro,
+  no que respeita à indicação do país de origem ou do local de proveniência da carne fresca, refrigerada e congelada de suíno,
+  de ovino, de caprino e de aves de capoeira, e transpõe a Diretiva n.º 2011/91/UE, do Parlamento Europeu e do Conselho, de
+  13 de dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Agricultura, Florestas e Desenvolvimento Rural
+proposing_entity: null
+official_number: 26/2016
+official_date: null
+publication_date: '2016-06-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2016, Série I de 2016-06-09
+  number: '111'
+  series: I
+  supplement: null
+  pages: 1785 - 1790
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/06/11100/0178501790.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-26-2016.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-06-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/26/2016/p/cons/20210129/pt/html
+  oj: null
+  dre: '74661197'
+  dre_path: /dr/detalhe/decreto-lei/26-2016-74661197
+  internal: pt:dre:74661197:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2016-74661197
+  metadata_url: https://data.dre.pt/eli/dec-lei/26/2016/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-211341602
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-211341602
+  retrieved_at: '2026-10-22T12:56:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a53e930cc5b04f2c3edb18ad1efcbd4bde21577ebd06b7bbb6d74c71fa708f03
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:56:02Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-26-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Produto Alimentar
+- Aproximação das Legislações
+- Carne
+- Carne de AVES de Capoeira
+- Carne de Caprino
+- Carne de Suíno
+- Multa
+- Indicação Geográfica
+- Contra-ordenação
+- Controlo de Qualidade
+- Definição de Competências
+- Direção Geral de Alimentação e Veterinária
+- Controlo Sanitário
+- Especificação Técnica
+- Estabelecimento de Restauração
+- Etiquetagem
+- Fiscalização
+- Carne de Ovino
+- ASAE
+- Embalagem
+- Países Terceiros
+- Informação do Consumidor
+- Informação Nutricional
+- Produto Congelado
+- Madeira.região Autónoma
+- Regulamento CE
+- Açores
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: celex:31998L0034
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/34/oj
+- type: cites
+  target: celex:31998L0048
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/48/oj
+- type: cites
+  target: celex:32011L0091
+  label: null
+  source: http://data.europa.eu/eli/dir/2011/91/oj
+- type: cites
+  target: celex:32011R1169
+  label: null
+  source: http://data.europa.eu/eli/reg/2011/1169/oj
+- type: cites
+  target: celex:32013R1337
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1337/oj
+- type: cites
+  target: pt:dre:171695:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/183/2002/08/20/p/dre
+- type: cites
+  target: pt:dre:231115:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/50/2003/03/25/p/dre
+- type: cites
+  target: pt:dre:241861:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126/2005/08/05/p/dre
+- type: cites
+  target: pt:dre:455106:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156/2008/08/07/p/dre
+- type: cites
+  target: pt:dre:522389:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/58/2000/04/18/p/dre
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: http://data.dre.pt/eli/lei/109/2001/12/24/p/dre
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/323/2001/12/17/p/dre
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+- type: cites
+  target: pt:dre:654933:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/560/1999/12/18/p/dre
+- type: transposes
+  target: celex:32011L0091
+  label: null
+  source: null
+article_structure:
+  article_count: 17
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:56:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 26/2016
+
+Decreto-Lei n.º 26/2016
+
+de 9 de junho
+
+O Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, com as retificações publicadas em Jornal Oficial da União Europeia, série L n.º 331, de 18 de novembro de 2014, relativo à prestação de informação aos consumidores sobre os géneros alimentícios, tem como objetivo atingir um elevado nível de defesa dos consumidores, proteger a saúde dos mesmos e garantir o seu direito à informação, assegurando a livre circulação, no mercado interno, de géneros alimentícios seguros.
+
+No que concerne especificamente aos géneros alimentícios não pré-embalados, o referido Regulamento permite aos Estados-Membros adotarem normas nacionais relativas ao modo como as menções ou elementos das mesmas são comunicadas e a respetiva forma de expressão e apresentação. Assinala-se que, para efeitos do Regulamento são considerados não pré-embalados os géneros alimentícios apresentados para venda ao consumidor final ou aos estabelecimentos de restauração coletiva sem acondicionamento prévio, bem como os géneros alimentícios fornecidos por estabelecimentos de restauração coletiva, os pré-embalados no próprio estabelecimento para venda direta e os embalados nos pontos de venda a pedido do comprador. É, pois, a este conjunto que se aplicam as normas nacionais agora adotadas com fundamento no artigo 44.º do referido Regulamento.
+
+A informação a fornecer ao consumidor assume especial relevância no que diz respeito aos géneros alimentícios não pré-embalados, na medida em que os dados disponíveis parecem indicar que a maior parte dos incidentes relacionados com alergias alimentares têm origem nos mesmos, sendo fundamental fornecer ao consumidor a informação sobre potenciais alergénios.
+
+Neste contexto, em complemento das normas constantes do Regulamento (UE) n.º 1169/2011, do Parlamento e do Conselho, de 25 de outubro de 2011, torna-se necessário definir qual a informação a fornecer ao consumidor sobre os géneros alimentícios não pré-embalados, sobre os géneros alimentícios para venda ao consumidor final ou aos estabelecimentos de restauração coletiva sem pré-embalagem, ou dos géneros alimentícios embalados nos pontos de venda a pedido do comprador ou pré-embalados para venda direta e ainda na venda à distância.
+
+No que concerne ao âmbito de aplicação do presente decreto-lei, importa explicitar que o conceito de restauração coletiva inclui todos os estabelecimentos onde são preparados géneros alimentícios prontos para consumo pelo consumidor final, a título de atividade profissional ou empresarial, ou seja, para além dos restaurantes, cantinas, escolas, hospitais e empresas de serviços de restauração, encontram-se no seu âmbito de aplicação igualmente as pastelarias e estabelecimentos similares. Importa, por isso, estabelecer ainda o modo como devem ser comunicadas e apresentadas as substâncias ou produtos suscetíveis de provocar alergias ou intolerâncias.
+
+O presente decreto-lei procede igualmente à transposição da Diretiva n.º 2011/91/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício, que se encontravam previstos no Decreto-Lei n.º 560/99, de 18 de dezembro, que se revoga, prosseguindo os objetivos de simplificação legislativa propostos pelo XXI Governo Constitucional.
+
+Promove-se simultaneamente a implementação do Regulamento de Execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro de 2013, que estabeleceu as regras de execução para o cumprimento do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à indicação de origem ou do local de proveniências da carne fresca, refrigerada e congelada de suíno, de ovino, de caprino e de aves de capoeira. Neste aspeto, salienta-se que a indicação de origem deve ser sempre referida pelo nome do país, excluindo-se com isto a possibilidade de designar o país de origem pela simples utilização dos códigos de identificação dos países consignados na ISO 3166.
+
+Por último, dado que o presente decreto-lei adota medidas nacionais relativas a matérias não especificamente harmonizadas pelo Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, foi notificado, nos termos do n.º 3 do seu artigo 44.º, na fase de projeto à Comissão Europeia, em cumprimento do disposto na Diretiva n.º 98/34/CE, do Parlamento Europeu e do Conselho, de 22 de junho de 1998, alterada pela Diretiva n.º 98/48/CE, do Parlamento Europeu e do Conselho, de 20 de julho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas, ambas transpostas para o ordenamento jurídico português pelo Decreto-Lei n.º 58/2000, de 18 de abril.
+
+Foram ouvidos os órgãos de governo próprio das regiões autónomas.
+
+Foi promovida a audição ao Conselho Nacional de Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei assegura a execução e garante o cumprimento, na ordem jurídica interna, das obrigações decorrentes do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores dos géneros alimentícios, adiante designado por Regulamento, e do Regulamento de Execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro de 2013, que estabelece as regras de execução do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, no que diz respeito à indicação do país de origem ou do local de proveniência da carne fresca, refrigerada e congelada de suíno, de ovino, de caprino e de aves de capoeira.
+
+2 - O presente decreto-lei fixa as normas de prestação de informação relativas aos géneros alimentícios não pré-embalados, ou seja, os géneros alimentícios apresentados para venda ao consumidor final ou aos estabelecimentos de restauração coletiva sem acondicionamento prévio, bem como os géneros alimentícios fornecidos por estabelecimentos de restauração coletiva, os pré-embalados para venda direta e os embalados nos pontos de venda a pedido do comprador, designadamente, no que respeita ao modo de indicação:
+
+a) De todos os ingredientes ou auxiliares tecnológicos enumerados no anexo ii do Regulamento, ou derivados de uma substância ou produto nele enumerado, que provoquem alergias ou intolerâncias, utilizados no fabrico ou na preparação de um género alimentício e que continuem presentes no produto acabado, mesmo sob uma forma alterada;
+
+b) De outras menções, no caso de géneros alimentícios não pré-embalados que se destinem à venda ao consumidor final ou aos estabelecimentos de restauração coletiva, ou dos géneros alimentícios embalados nos pontos de venda a pedido do comprador ou pré-embalados para venda direta.
+
+3 - O presente decreto-lei transpõe para a ordem jurídica interna a Diretiva n.º 2011/91/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa às menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício.
+
+###### Artigo 2.º — Autoridade competente
+
+A Direção-Geral de Alimentação e Veterinária (DGAV) é a autoridade competente para efeitos do Regulamento e do presente decreto-lei, sem prejuízo das competências próprias e das que são cometidas à Autoridade de Segurança Alimentar e Económica (ASAE), no presente decreto-lei.
+
+### Capítulo II — Géneros alimentícios não pré-embalados
+
+###### Artigo 3.º — Géneros alimentícios para venda aos estabelecimentos de restauração coletiva sem pré-embalagem
+
+1 - Os géneros alimentícios não pré-embalados para venda aos estabelecimentos de restauração coletiva sem pré-embalagem devem apresentar as seguintes menções obrigatórias:
+
+a) Denominação do género alimentício, a que se refere o artigo 17.º do Regulamento;
+
+b) Indicação de substâncias ou produtos a que se refere o anexo ii do Regulamento suscetíveis de provocar alergias ou intolerâncias;
+
+c) Nome do país de origem ou local de proveniência, a que se refere o artigo 26.º do Regulamento, tendo em consideração nomeadamente, a indicação de origem ou do local de proveniências da carne fresca refrigerada e congelada de suíno, de ovino, de caprino e de aves de capoeira, estabelecidas pelo Regulamento de Execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro de 2013;
+
+d) Condições especiais de conservação e ou de utilização, se aplicável;
+
+e) Modo de emprego, sempre que aplicável.
+
+2 - As menções obrigatórias referidas no número anterior e as menções facultativas devem ser exibidas nos documentos de acompanhamento ou em etiqueta.
+
+###### Artigo 4.º — Géneros alimentícios fornecidos por estabelecimentos de restauração coletiva
+
+1 - Os géneros alimentícios fornecidos por estabelecimentos de restauração coletiva devem apresentar as seguintes menções obrigatórias:
+
+a) Denominação do género alimentício, a que se refere o artigo 17.º do Regulamento;
+
+b) Indicação de substâncias ou produtos a que se refere o anexo ii do Regulamento suscetíveis de provocar alergias ou intolerâncias.
+
+2 - A menção obrigatória a que se refere a alínea a) do número anterior, bem como as menções facultativas, podem não estar imediatamente disponíveis em qualquer suporte, mas, nesse caso, deve ser sempre indicada, de modo bem visível, a forma como essa informação deve ser obtida.
+
+3 - A informação referida na alínea b) do n.º 1 deve estar disponível em qualquer suporte de informação que permita a sua fácil apreensão pelo consumidor.
+
+###### Artigo 5.º — Géneros alimentícios embalados no ponto de venda a pedido do comprador
+
+1 - Os géneros alimentícios embalados no ponto de venda a pedido do comprador devem apresentar as seguintes menções obrigatórias:
+
+a) Denominação do género alimentício, a que se refere o artigo 17.º do Regulamento;
+
+b) Indicação de substâncias ou produtos a que se refere o anexo ii do Regulamento suscetíveis de provocar alergias ou intolerâncias;
+
+c) Condições especiais de conservação e ou de utilização, sempre que aplicável;
+
+d) Nome do país de origem ou local de proveniência, a que se refere o artigo 26.º do Regulamento, tendo em consideração nomeadamente, a indicação de origem ou do local de proveniências da carne fresca refrigerada e congelada de suíno, de ovino, de caprino e de aves de capoeira, estabelecidas pelo Regulamento de Execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro de 2013;
+
+e) Modo de emprego, sempre que aplicável.
+
+2 - As menções obrigatórias referidas nas alíneas a), c), e e) do número anterior, assim como as menções facultativas, podem não estar imediatamente disponíveis em qualquer suporte, mas, nesse caso, deve ser sempre indicada, de modo bem visível, a forma como essa informação pode ser obtida.
+
+3 - As menções obrigatórias referidas nas alíneas b) e d) do n.º 1 devem estar disponíveis em qualquer suporte de informação, junto do género alimentício, que permita a sua fácil apreensão pelo consumidor.
+
+###### Artigo 6.º — Géneros alimentícios pré-embalados para venda direta
+
+1 - Os géneros alimentícios pré-embalados para venda direta são aqueles que foram acondicionados no estabelecimento onde são apresentados para venda ao consumidor final.
+
+2 - Os géneros alimentícios pré-embalados para venda direta devem apresentar as seguintes menções obrigatórias:
+
+a) Denominação do género alimentício, a que se refere o artigo 17.º do Regulamento;
+
+b) Indicação de substâncias ou produtos a que se refere o anexo ii do Regulamento suscetíveis de provocar alergias ou intolerâncias;
+
+c) Quantidade líquida do género alimentício, salvo nos casos previstos no n.º 1 do anexo ix do Regulamento;
+
+d) Data de embalamento, podendo facultativamente ser complementada com a data limite de consumo, no pressuposto do estrito cumprimento das normas de higiene e conservação previstas para a manipulação dos géneros alimentícios;
+
+e) Condições especiais de conservação ou de utilização, sempre que aplicável;
+
+f) Modo de emprego, sempre que aplicável;
+
+g) Nome do país de origem ou local de proveniência, a que se refere o artigo 26.º do Regulamento, tendo em consideração nomeadamente, a indicação de origem ou do local de proveniências da carne fresca refrigerada e congelada de suíno, de ovino, de caprino e de aves de capoeira, estabelecidas pelo Regulamento de Execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro de 2013;
+
+h) O nome, denominação ou firma e o endereço da empresa do setor alimentar responsável pelo embalamento, a que se refere o artigo 8.º do Regulamento.
+
+3 - As menções obrigatórias referidas no número anterior e as menções facultativas devem constar de um rótulo ou etiqueta.
+
+4 - No caso das embalagens ou recipientes cuja face maior tenha uma superfície inferior a 10 cm2, só são obrigatórias na embalagem ou no rótulo as menções previstas nas alíneas a), b), c), e d) do n.º 2, sendo as menções referidas nas alíneas e), f), g) e h) do mesmo número ser fornecidas por outros meios, ou disponibilizadas a pedido do consumidor.
+
+###### Artigo 7.º — Informação facultativa
+
+1 - Os géneros alimentícios não pré-embalados podem ainda conter facultativamente todas as restantes menções constantes do Regulamento, designadamente a declaração nutricional, nos termos nele previsto.
+
+2 - Se o operador entender apresentar a declaração nutricional, a mesma deve ser expressa por 100g ou 100ml, podendo também ser expressa por porção e/ou por unidade de consumo, conforme previsto no artigo 33.º do Regulamento, devendo, neste caso, limitar-se ao valor energético ou ao valor energético conjuntamente com as quantidades de lípidos, ácidos gordos saturados, açúcares e sal.
+
+###### Artigo 8.º — Venda à distância de géneros alimentícios não pré-embalados
+
+1 - Os géneros alimentícios não pré-embalados para venda à distância devem apresentar as seguintes menções obrigatórias:
+
+a) Denominação do género alimentício, a que se refere o artigo 17.º do Regulamento;
+
+b) Indicação de substâncias ou produtos a que se refere o anexo ii do Regulamento suscetíveis de provocar alergias ou intolerâncias;
+
+c) Condições especiais de conservação e ou de utilização, sempre que aplicável;
+
+d) Nome do país de origem ou local de proveniência, a que se refere o artigo 26.º do Regulamento, tendo em consideração nomeadamente, a indicação de origem ou do local de proveniências da carne fresca refrigerada e congelada de suíno, de ovino, de caprino e de aves de capoeira, estabelecidas pelo Regulamento de Execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro de 2013;
+
+e) Modo de emprego, sempre que aplicável.
+
+2 - As menções obrigatórias a que se refere o número anterior, bem como as menções facultativas, devem ser fornecidas antes da conclusão da compra, no suporte de venda à distância ou através da indicação da forma como a informação pode ser obtida em local destacado desse suporte.
+
+3 - Sem prejuízo do disposto no número anterior, a informação referida nas alíneas b) e d) do n.º 1 deve ser fornecida antes da conclusão da compra, no suporte de venda à distância ou através de afixação em local destacado desse suporte da forma como a informação pode ser obtida, bem como deve constar no momento da entrega, nos documentos de acompanhamento ou em etiqueta.
+
+### Capítulo III — Lote
+
+###### Artigo 9.º — Indicação do lote
+
+1 - Um género alimentício apenas pode ser comercializado se se encontrar acompanhado pela indicação que permita identificar o lote a que pertence, ou seja, que permita identificar o conjunto de unidades de venda do género alimentício produzido, fabricado ou acondicionado em circunstâncias praticamente idênticas.
+
+2 - A menção a que se refere o número anterior deve figurar sempre de modo facilmente visível, claramente legível e indelével.
+
+3 - O disposto no n.º 1 não é aplicável nos seguintes casos:
+
+a) Aos produtos agrícolas que, quando saem da exploração de origem, sejam:
+
+i) Vendidos ou entregues a estações de armazenamento, de acondicionamento ou de embalagem;
+
+ii) Encaminhados para organizações de produtores; ou
+
+iii) Reunidos para integração imediata num sistema operacional de preparação ou transformação;
+
+b) Quando, nos locais de venda ao consumidor final, os géneros alimentícios se apresentarem não pré-embalados, forem embalados a pedido do comprador ou se apresentarem pré-embalados para venda direta;
+
+c) Às embalagens ou recipientes cuja face maior tenha uma superfície inferior a 10 cm2 e às embalagens de fantasia, tais como pequenas figuras ou lembranças;
+
+d) Às doses individuais de gelados alimentares, ainda que a indicação que permite identificar o lote figure nas embalagens coletivas;
+
+e) Aos géneros alimentícios não pré-embalados, fornecidos por estabelecimentos de restauração coletiva.
+
+4 - A indicação que permite identificar o lote ao qual pertence o género alimentício é determinada e aposta sob a responsabilidade de um dos operadores previstos no artigo seguinte e é precedida da letra «L», salvo nos casos em que se distinga claramente das outras indicações de rotulagem.
+
+5 - Quando os géneros alimentícios forem pré-embalados, a indicação referida no n.º 1 e, se for caso disso, a letra «L», figuram na pré-embalagem ou num rótulo ligado àquela.
+
+6 - Quando os géneros alimentícios não forem pré-embalados, a indicação referida no n.º 1 e, se for caso disso, a letra «L», figuram na embalagem ou no recipiente ou, na sua falta, nos documentos comerciais a eles relativos.
+
+7 - Quando a data de durabilidade mínima ou a data-limite de consumo figurarem no rótulo, a indicação referida no n.º 1 pode não acompanhar o género alimentício, desde que essas datas sejam compostas pelo menos pela indicação, clara e por ordem, do dia e do mês.
+
+###### Artigo 10.º — Operador responsável pela determinação e indicação do lote
+
+A determinação e a indicação do lote são da responsabilidade do produtor, fabricante ou acondicionador do género alimentício ou do primeiro vendedor estabelecido na União Europeia.
+
+### Capítulo IV — Disposições finais
+
+###### Artigo 11.º — Contraordenações
+
+1 - (Revogado.)
+
+2 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) O incumprimento do artigo 7.º do Regulamento, relativo às práticas leais de informação;
+
+b) O incumprimento do artigo 8.º do Regulamento, por parte do operador da empresa do setor alimentar responsável pela informação sobre os géneros alimentícios;
+
+c) A não indicação nos géneros alimentícios das menções obrigatórias exigidas pelo n.º 1 do artigo 9.º e pelos artigos 10.º e 11.º do Regulamento;
+
+d) O incumprimento dos n.os 2 e 5 do artigo 12.º do Regulamento, relativo à disponibilidade e localização da informação obrigatória sobre os géneros alimentícios;
+
+e) O incumprimento dos n.os 1, 2, 3, 5 e 6 do artigo 13.º do Regulamento, relativo à apresentação das menções obrigatórias;
+
+f) O incumprimento dos n.os 1 e 2 do artigo 14.º do Regulamento, relativo à venda à distância;
+
+g) O incumprimento dos n.os 1 a 4 do artigo 18.º do Regulamento, relativo à lista de ingredientes;
+
+h) O incumprimento dos requisitos exigidos pelo n.º 1 do artigo 21.º do Regulamento, relativo à rotulagem de certas substâncias ou produtos que provocam alergias ou intolerâncias;
+
+i) O incumprimento do artigo 22.º do Regulamento, relativo à indicação quantitativa dos ingredientes;
+
+j) O incumprimento do artigo 23.º do Regulamento, relativo à quantidade líquida;
+
+k) O incumprimento dos n.os 1 e 2 do artigo 24.º do Regulamento, relativo à data de durabilidade mínima, data-limite de consumo e data de congelação;
+
+l) O incumprimento do artigo 25.º do Regulamento, relativo às condições de conservação ou de utilização;
+
+m) O incumprimento do artigo 26.º do Regulamento, relativo à indicação do país de origem ou local de proveniência;
+
+n) O incumprimento do artigo 27.º do Regulamento, relativo às instruções de utilização;
+
+o) O incumprimento do artigo 28.º do Regulamento, relativo à indicação do título alcoométrico;
+
+p) O incumprimento dos n.os 1 a 5 do artigo 30.º do Regulamento, relativo à declaração nutricional;
+
+q) O incumprimento do artigo 31.º do Regulamento, relativo ao cálculo do valor energético;
+
+r) O incumprimento dos artigos 32.º a 35.º do Regulamento, relativo à expressão e apresentação da declaração nutricional;
+
+s) O incumprimento dos artigos 36.º e 37.º do Regulamento, relativo aos requisitos aplicáveis às informações prestadas voluntariamente sobre géneros alimentícios;
+
+t) O incumprimento do artigo 3.º sobre a rastreabilidade, e do artigo 5.º relativo à rotulagem da carne, previstos no Regulamento de Execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro de 2013.
+
+u) O incumprimento dos artigos 3.º a 8.º do presente decreto-lei relativos às informações sobre géneros alimentícios não pré-embalados;
+
+v) O incumprimento dos artigos 9.º e 10.º do presente decreto-lei relativos à indicação das menções ou marcas que permitem identificar o lote ao qual pertence um género alimentício.
+
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+4 - Para além da aplicação da coima, pode ser determinada, enquanto sanção acessória, a perda de objetos pertencentes ao agente da infração.
+
+5 - Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.
+
+> Alterado pelo/a Artigo 148.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 12.º — Fiscalização, instrução de processos e aplicação de coimas e sanções assessórias
+
+1 - A fiscalização do cumprimento do disposto no Regulamento e no presente decreto-lei e a instrução dos respetivos processos de contraordenação competem à ASAE.
+
+2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
+
+3 - Sem prejuízo do disposto no artigo seguinte, o produto das coimas reverte em:
+
+a) 60 % para o Estado;
+
+b) 30 % para a ASAE;
+
+c) 10 % para a DGAV.
+
+3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no artigo anterior é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 148.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 13.º — Regiões autónomas
+
+1 - Nas regiões autónomas as competências cometidas pelo presente decreto-lei à ASAE são exercidas pelos respetivos órgãos de governo próprio.
+
+2 - O produto das coimas cobradas nas regiões autónomas constitui receita própria desta.
+
+###### Artigo 14.º — Reconhecimento mútuo
+
+1 - O disposto no presente decreto-lei não prejudica a livre circulação dos produtos que sejam legalmente produzidos ou comercializados nos outros Estados membros da União Europeia ou que sejam originários dos países da Associação Europeia de Comércio Livre (EFTA), que são partes contratantes do Acordo sobre o Espaço Económico Europeu (EEE), incluindo os produtos legalmente fabricados ou comercializados na Turquia, na medida em que tais produtos não acarretem um risco para a saúde ou a vida das pessoas conforme o artigo 36.º do Tratado do Funcionamento da União Europeia e do artigo 13.º do Acordo EEE.
+
+2 - O disposto no presente decreto-lei não se aplica aos produtos que sejam legalmente produzidos ou comercializados nos outros Estados membros da União Europeia ou na Turquia ou que sejam originários dos países da EFTA, que são partes Contratantes do Acordo EEE, com exceção dos artigos 9.º e 10.º do presente decreto-lei, relativos ao lote.
+
+###### Artigo 15.º — Norma transitória
+
+Durante um período de 180 dias, a contar da data da entrada em vigor do presente decreto-lei, é permitida a comercialização de produtos não pré-embalados que estão não conformes com o presente decreto-lei, mas que estejam de acordo com o Decreto-Lei n.º 560/99, de 18 de dezembro, com a redação atual, com exceção da indicação de origem ou do local de proveniências da carne fresca refrigerada e congelada de suíno, de ovino, de caprino e de aves de capoeira, conforme o previsto no Regulamento de execução (UE) n.º 1337/2013, da Comissão, de 13 de dezembro de 2013, cujo período transitório será de 15 dias úteis.
+
+###### Artigo 16.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 560/99, de 18 de dezembro, alterado pelos Decretos-Leis n.os 126/2005, de 5 de agosto, 156/2008, de 7 de agosto, 183/2002, de 20 de agosto, 50/2003, de 25 de março, 148/2005, de 29 de agosto, 20/2003, de 3 de fevereiro, 167/2004, de 7 de julho, e 54/2010, de 28 de maio.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de abril de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Manuel de Herédia Caldeira Cabral - Luís Manuel Capoulas Santos.
+
+Promulgado em 21 de maio de 2016.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 3 de junho de 2016.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

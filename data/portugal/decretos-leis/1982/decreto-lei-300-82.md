@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:397367:por
+title: Decreto-Lei n.º 300/82
+short_title: null
+summary: Autoriza a Santa Casa da Misericórdia de Lisboa a participar na constituição ou alteração de associações, sociedades
+  ou outras pessoas colectivas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Assuntos Sociais - Santa Casa da Misericórdia de Lisboa
+proposing_entity: null
+official_number: 300/82
+official_date: null
+publication_date: '1982-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/1982, Série I de 1982-07-29
+  number: '173'
+  series: I
+  supplement: null
+  pages: 2254 - 2254
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/07/17300/22542254.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '397367'
+  dre_path: /dr/detalhe/decreto-lei/300-1982-397367
+  internal: pt:dre:397367:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1982-397367
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1982-397367
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: eb00af585e4046a2d81723ed0d33e9fc4ab84a009199236fc88d73dae3779974
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação
+- Lisboa
+- Santa Casa da Misericórdia
+- Sociedades
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:44:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 300/82
+
+de 29 de Julho
+
+A multiplicidade de funções que a Santa Casa da Misericórdia de Lisboa é presentemente chamada a exercer determina a conveniência de lhe conferir mais flexibilidade operacional, de forma a compatibilizar, quanto possível, as receitas do património com a consecussão dos objectivos de manifesto interesse público que prossegue.
+
+Por força de numerosos legados e heranças, recebidos ao longo dos séculos, a Santa Casa da Misericórdia de Lisboa é sócia ou accionista de várias sociedades. Mas é duvidoso, à luz de legislação especial por que se rege, se pode participar na constituição de novas pessoas colectivas, nomeadamente as que, pela sua natureza, podem trazer-lhe novas respostas para as necessidades de investimento em equipamento social, como é o caso das empresas de locação financeira, mobiliária e imobiliária.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. Para a prossecução dos seus fins ou conveniente administração do seu património, poderá a Santa Casa da Misericórdia de Lisboa participar na constituição ou alteração de associações, sociedades ou outras pessoas colectivas, ficando equiparada aos demais associados, sócios ou accionistas, em tudo o que diga respeito aos respectivos pactos sociais e funcionamento.
+
+Visto e aprovado em Conselho de Ministros de 30 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 14 de Julho de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

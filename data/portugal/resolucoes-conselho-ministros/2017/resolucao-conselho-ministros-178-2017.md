@@ -1,0 +1,262 @@
+---
+schema_version: '1.0'
+id: pt:dre:114264986:por
+title: Resolução do Conselho de Ministros n.º 178/2017
+short_title: null
+summary: Autoriza a realização da despesa inerente à celebração do contrato de gestão para a conceção, o projeto, a construção,
+  o financiamento, a conservação, a manutenção e a exploração do Hospital de Lisboa Oriental
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 178/2017
+official_date: null
+publication_date: '2017-11-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/2017, Série I de 2017-11-28
+  number: '229'
+  series: I
+  supplement: null
+  pages: 6226 - 6228
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/11/22900/0622606228.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-11-28'
+version_history:
+  file: resolucao-conselho-ministros-178-2017.versoes.json
+  count: 1
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2017-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/178/2017/p/cons/20251008/pt/html
+  oj: null
+  dre: '114264986'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/178-2017-114264986
+  internal: pt:dre:114264986:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/178-2017-114264986
+  metadata_url: https://data.dre.pt/eli/resolconsmin/178/2017/p/cons/20251008/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2017-840258371
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2017-840258371
+  retrieved_at: '2026-10-22T13:02:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 49d4b613be805bc0e604d04304789639b94618dbc5ef4c98862536f7e58e81c6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:02:42Z'
+  notes: 1 versão(ões); histórico completo em resolucao-conselho-ministros-178-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Regional de Saúde de Lisboa e VALE do TEJO
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Financiamento
+- Centro Hospitalar de Lisboa Central
+- Ministro da Saúde
+- Conselho de Ministros
+- Criação de Serviços
+- Delegação de Competências
+- Lisboa
+- Fundos CE
+- Orçamento
+- Parceria Público-Privada
+- Estabelecimento Hospitalar
+- Governo XXI
+- Hospital de Lisboa Oriental
+relationships:
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
+- type: cites
+  target: pt:dre:278762:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/40/2011/03/22/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:02:42Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 178/2017
+
+Resolução do Conselho de Ministros n.º 178/2017
+
+A necessidade de reorganizar a oferta hospitalar na cidade de Lisboa e de, nesse contexto, se construir uma nova infraestrutura hospitalar já se encontra sinalizada como prioritária há mais de uma década. Para o efeito, em abril de 2008 chegou a ser lançado o concurso público internacional designado «Procedimento de contratação com qualificação prévia para a celebração do Contrato de Gestão do Edifício Hospitalar do Hospital de Todos-os-Santos» - entretanto redenominado o hospital de «Hospital de Lisboa Oriental» (HLO) -, que, por vicissitudes várias, nomeadamente os grandes condicionalismos ao lançamento de novos projetos de investimento, resultantes do Memorando de Entendimento sobre as Condicionalidades de Política Económica, celebrado em 17 de maio de 2011, acabou por não culminar com a assinatura de um contrato de gestão, tendo terminado com uma decisão de não adjudicação tomada em conjunto pela Ministra de Estado e das Finanças e pelo Ministro da Saúde, em 13 de novembro de 2013, através do Despacho n.º 15799/2013, publicado no Diário da República, 2.ª série, n.º 235, de 4 de dezembro.
+
+Na sequência dessa decisão, em dezembro de 2013, foi apresentada pela Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., ao abrigo do Decreto-Lei n.º 111/2012, de 23 de maio, uma proposta fundamentada com vista ao relançamento do projeto relativo à conceção, construção e manutenção do HLO, que foi aprovada em 22 de dezembro de 2013, pelo Ministro da Saúde, e em 22 de janeiro de 2014, pelo Secretário de Estado das Finanças, através do Despacho n.º 111/2014.
+
+Na sequência da aprovação da proposta fundamentada, nos termos e para os efeitos do artigo 10.º do Decreto-Lei n.º 111/2012, de 23 de maio, através do Despacho n.º 1317-A/2014, publicado no Diário da República, 2.ª série, n.º 18, de 27 de janeiro - posteriormente alterado através do Despacho n.º 507/2015, publicado no Diário da República, 2.ª série, n.º 12, de 19 de janeiro, do Despacho n.º 7624/2015, publicado no Diário da República, 2.ª série, n.º 133, de 10 de julho, e do Despacho n.º 1370/2017, publicado no Diário da República, 2.ª série, n.º 29, de 9 de fevereiro - foi constituída uma equipa de projeto (Equipa de Projeto) para a preparação do processo de estudo e lançamento do projeto relativo ao HLO, a qual iniciou os seus trabalhos pouco depois de ser constituída, tendo estes, todavia, sido entretanto interrompidos, por motivos relacionados, entre o mais, com o termo da anterior legislatura e a cessação de funções do anterior Governo.
+
+O Programa do XXI Governo Constitucional considera urgente dotar o Serviço Nacional de Saúde (SNS) de capacidade para responder melhor e mais depressa às necessidades dos cidadãos. Em linha com o previsto nesse Programa, o grande objetivo do Orçamento do Estado para 2017, na área da saúde, é revigorar e recuperar o desempenho do SNS, reforçando a equidade no acesso e a qualidade dos serviços prestados, numa perspetiva de proximidade aos cidadãos e em defesa do Estado Social, estando, para o efeito, prevista a realização de investimentos na construção de novos hospitais, entre os quais o referente ao HLO.
+
+O HLO consubstancia uma iniciativa essencial para a obtenção de ganhos de racionalidade e eficiência no desempenho e funcionamento da rede hospitalar da cidade de Lisboa e que, a médio prazo gerará importantes benefícios para as populações por ele abrangidas, ao nível da modernização da prestação dos cuidados de saúde.
+
+Tendo presente o caráter fundamental e prioritário da construção do HLO, na presente legislatura foi não apenas promovida a recomposição da Equipa de Projeto, como também foram dadas indicações à mesma para que retomasse e concluísse os trabalhos tendentes ao lançamento da PPP infraestrutural relativa ao HLO, por forma a permitir o lançamento do respetivo concurso público no segundo semestre de 2017.
+
+Em cumprimento dessas indicações, a Equipa de Projeto submeteu à consideração do Senhor Secretário de Estado da Saúde e do Senhor Secretário de Estado Adjunto e das Finanças, em cumprimento do exigido pelo artigo 14.º do Decreto-Lei n.º 111/2012, de 23 de maio, um relatório fundamentado (Relatório Final) relativo ao estudo e lançamento do projeto relativo ao HLO, propondo, a final, a aprovação do lançamento de uma PPP e do respetivo procedimento de concurso público com publicidade internacional.
+
+Esse Relatório Final inclui, nos termos dos n.os 2 e 4 do Decreto-Lei n.º 111/2012, de 23 de maio, além do mais, a análise das opções que determinaram a configuração do projeto, a descrição do projeto e do seu modo de financiamento, a demonstração do seu interesse público, a justificação da opção pelo modelo de parceria, a análise da conformidade do projeto de parceria com os pressupostos de lançamento previstos no n.º 1 do artigo 6.º e no artigo 7.º desse mesmo diploma e as minutas de programa do procedimento e de caderno de encargos a adotar para a contratação da parceria.
+
+Os resultados obtidos com o estudo económico-financeiro constante do Relatório Final permitem concluir, sem qualquer dúvida, que o projeto de implementação do HLO, em substituição das atuais seis unidades hospitalares que integram o Centro Hospitalar de Lisboa Central, E. P. E. (CHLC), tem um potencial muito significativo de poupanças para o Estado.
+
+Em contrapartida, a manutenção da atual situação do CHLC implica a perpetuação de uma situação de desequilíbrio estrutural entre os custos de financiamento dessa instituição e as receitas geradas, que só será possível equilibrar através da atribuição de reforços financeiros adicionais, já que, sem isso, o CHLC continuará a gerar, anualmente, resultados negativos muito significativos.
+
+A poupança estimada com a construção do HLO não se traduz apenas em aspetos financeiros, mas também, com significativo relevo, na melhoria da qualidade assistencial que advirá da existência de uma estrutura moderna e adequada à prestação de cuidados de saúde no século xxi - que permitirá o acompanhamento das tendências atuais na prestação de cuidados, designadamente no que se refere ao aumento do ambulatório e o ajuste do modelo assistencial às novas necessidades e técnicas em saúde, prevendo-se, nomeadamente, um maior peso da atuação na medicina preditiva e preventiva, da gestão da doença e de cuidados multidisciplinares e mais personalizados, baseados em múltiplos recursos assistenciais -, gerando ainda um potencial adicional de ganhos de eficiência que serão obtidos através de uma organização moderna, e reforçando a posição do Estado português nas redes transeuropeias de cuidados de saúde.
+
+A relevância da construção do HLO manifesta-se (i) na reorganização da oferta hospitalar da cidade de Lisboa, (ii) no incremento ao nível da acessibilidade, da qualidade e da segurança ao nível da prestação de cuidados de saúde aos utentes da sua área de influência, por comparação com a continuação da prestação desses cuidados por seis unidades hospitalares dispersas e obsoletas, e (iii) na redução da despesa pública, não apenas no que se refere à redução dos custos operacionais, mas também no que diz respeito às necessidades de investimento nas atuais infraestruturas dessas unidades hospitalares, por comparação com a construção de uma nova infraestrutura única. Assim é fundamental e prioritário o lançamento da PPP referente à construção e manutenção do HLO.
+
+Por essas razões, através de Despacho do Secretário de Estado Adjunto e das Finanças e do Secretário de Estado da Saúde, nos termos e para os efeitos previstos nos n.os 3 e 4 do artigo 14.º do Decreto-Lei n.º 111/2012, de 23 de maio, é aprovado o lançamento da parceria público privada para a conceção, o projeto, a construção, o financiamento, a conservação, a manutenção e a exploração do Hospital de Lisboa Oriental, e o lançamento do procedimento de concurso público, com publicidade no Jornal Oficial da União Europeia, tendente à celebração do contrato de gestão relativo a essa parceria, lançamento este cuja efetivação fica sujeita à prévia autorização da despesa inerente a esse contrato.
+
+De acordo com o previsto na alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho - cujas normas, revogadas pelo Decreto-Lei n.º 40/2011, de 22 de março, foram repristinadas pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril -, considerando o valor dos encargos máximos estimados associados ao contrato de gestão a celebrar na sequência do referido concurso público, o órgão competente para autorizar a despesa relativa a esse contrato é o Conselho de Ministros.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, do n.º 2 do artigo 45.º da Lei n.º 91/2001, de 20 de agosto, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a realização da despesa inerente à celebração do contrato de concessão, em regime de parceria público-privada, para a conceção, projeto, construção, financiamento, conservação, manutenção e exploração do Hospital de Lisboa Oriental (HLO), no montante máximo de € 796 386 966,43, a preços correntes, ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com a repartição prevista no número seguinte.
+
+2 - Determinar que os encargos com a despesa referida no número anterior não podem exceder, em cada ano económico compreendido entre o ano de 2025, e os anos subsequentes de execução do contrato, os seguintes montantes, expressos a preços correntes, aos quais acresce o IVA à taxa legal em vigor, sem prejuízo do disposto no número seguinte:
+
+a) 2025 - € 6 738 956,45;
+
+b) 2026 - € 26 436 474,12;
+
+c) 2027 - € 19 162 539,47;
+
+d) 2028 - € 48 213 674,95;
+
+e) 2029 - € 17 489 567,82;
+
+f) 2030 - € 19 896 102,17;
+
+g) 2031 - € 20 738 365,40;
+
+h) 2032 - € 21 664 745,41;
+
+i) 2033 - € 22 699 215,28;
+
+j) 2034 - € 23 771 360,35;
+
+k) 2035 - € 24 903 399,90;
+
+l) 2036 - € 25 996 535,87;
+
+m) 2037 - € 27 057 671,38;
+
+n) 2038 - € 28 275 477,92;
+
+o) 2039 - € 29 612 209,85;
+
+p) 2040 - € 30 891 967,65;
+
+q) 2041 - € 31 705 445,68;
+
+r) 2042 - € 32 477 722,05;
+
+s) 2043 - € 33 889 374,31;
+
+t) 2044 - € 35 790 576,48;
+
+u) 2045 - € 37 638 763,18;
+
+v) 2046 - € 38 726 021,54;
+
+w) 2047 - € 39 591 686,63;
+
+x) 2048 - € 41 086 887,00;
+
+y) 2049 - € 27 632 377,16;
+
+z) 2050 - € 17 612 675,84;
+
+aa) 2051 - € 19 727 574,55;
+
+bb) 2052 - € 19 786 329,01;
+
+cc) 2053 - € 16 417 328,90;
+
+dd) 2054 - € 10 755 940,11.
+
+3 - Determinar que os montantes fixados no número anterior podem ser objeto de ajustamento temporal, em função da efetiva data de produção de efeitos do contrato de gestão e da efetiva data de entrada em funcionamento do complexo hospitalar, bem como ajustamento quantitativo, em função da evolução do índice de preços no consumidor relevante para efeitos da atualização da remuneração da entidade gestora do edifício.
+
+4 - Determinar que os encargos decorrentes dos números anteriores sejam satisfeitos por verbas inscritas, no ano de 2025, e a inscrever, nos anos seguintes, no orçamento da Administração Central do Sistema de Saúde I. P. (ACSS, I. P.).
+
+5 - Autorizar a ARSLVT, I. P., no âmbito do contrato referido no n.º 1 e na qualidade de beneficiário final, a realizar despesa com os encargos relativos ao investimento ‘RE-C01-i04 - Construção do Hospital de Lisboa Oriental e equipamento para hospitais em Lisboa e Vale do Tejo’ do Plano de Recuperação e Resiliência (PRR), no que diz respeito à construção das partes do complexo hospitalar do HLO incluídas no PRR, no montante máximo de € 23 000 000,00, ao qual acresce o IVA à taxa legal em vigor e autorizar a ACSS, I. P., no âmbito do contrato ‘C01-i12-m01 ― Construção do Hospital de Lisboa Oriental’ do Plano de Recuperação e Resiliência (PRR), no que diz respeito à construção das partes do complexo hospitalar do HLO incluídas no PRR, no montante máximo de € 77 000 000,00, ao qual acresce o IVA à taxa legal em vigor.
+
+6 - Determinar que os encargos resultantes do número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor, sem prejuízo do disposto no número seguinte:
+
+a) 2024 - € 23 000 000,00;
+
+b) 2025 - € 9 865 206,18;
+
+c) 2026 - € 67 134 793,82.
+
+7 - Determinar que os montantes fixados no número anterior para cada ano económico podem ser alterados em função do calendário de execução do investimento, desde que a soma dos encargos não exceda o montante máximo previsto no n.º 5.
+
+8 - Determinar que os encargos referidos nos n.os 5 a 7 são assegurados por verbas do PRR inscritas e a inscrever no orçamento da ACSS, I. P., no âmbito da componente C1 - Serviço Nacional de Saúde, sem prejuízo, se aplicável, do disposto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, na sua redação atual.
+
+9 - Determinar que, para garantir os encargos referidos nos n.os 5 a 7, provenientes das verbas do PRR, deve ser alterado o contrato de gestão do complexo hospitalar do Hospital de Lisboa Oriental, em regime de parceria público-privada, para refletir nas obrigações contratuais com a entidade privada os termos da Decisão de Execução do Conselho Europeu (UE) (ST 8055/25) de 6 de maio de 2025, que aprova o PRR, na qual estão estabelecidas as condições necessárias para receber as verbas, sendo que o prazo máximo para a apresentação das evidências de cumprimento dessas condições é fixado para 31 de agosto de 2026.
+
+10 - Determinar a adoção de medidas com vista ao funcionamento do Hospital de Lisboa Oriental, designadamente, o aproveitamento máximo de todo o equipamento transferível das seis unidades cuja atividade irá ser substituída para o novo hospital, a candidatura prioritária a fundos europeus para a aquisição do novo equipamento necessário e a escolha do modelo mais adequado de financiamento para as restantes necessidades de investimento.
+
+11 - Delegar no Ministro da Saúde, com a faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+
+12 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua aprovação.

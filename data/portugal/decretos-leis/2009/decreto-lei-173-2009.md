@@ -1,0 +1,991 @@
+---
+schema_version: '1.0'
+id: pt:dre:493025:por
+title: Decreto-Lei n.º 173/2009
+short_title: null
+summary: Aprova o estatuto das denominações de origem e indicação geográfica da Região Demarcada do Douro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 173/2009
+official_date: null
+publication_date: '2009-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2009, Série I de 2009-08-03
+  number: '148'
+  series: I
+  supplement: null
+  pages: 4996 - 5006
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/08/14800/0499605006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-09-20'
+version_history:
+  file: decreto-lei-173-2009.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-06-10'
+    amending: pt:dre:513621:por
+    amending_title: Decreto-Lei n.º 77/2013
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 24.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+  - date: '2018-02-09'
+    amending: pt:dre:114655027:por
+    amending_title: Decreto-Lei n.º 6/2018
+    changes:
+    - Altera Artigo 43.º
+  - date: '2019-01-16'
+    amending: pt:dre:117821809:por
+    amending_title: Decreto-Lei n.º 7/2019
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 31.º
+    - Altera Artigo 34.º
+  - date: '2020-11-17'
+    amending: pt:dre:148599584:por
+    amending_title: Decreto-Lei n.º 97/2020
+    changes:
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+  - date: '2023-06-24'
+    amending: pt:dre:214724639:por
+    amending_title: Decreto-Lei n.º 48/2023
+    changes:
+    - Altera Artigo 10.º
+  - date: '2025-09-20'
+    amending: pt:dre:935257200:por
+    amending_title: Decreto-Lei n.º 106/2025
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/173/2009/p/cons/20250915/pt/html
+  oj: null
+  dre: '493025'
+  dre_path: /dr/detalhe/decreto-lei/173-2009-493025
+  internal: pt:dre:493025:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2009-493025
+  metadata_url: https://data.dre.pt/eli/dec-lei/173/2009/p/cons/20250915/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-114650305
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-114650305
+  retrieved_at: '2026-10-22T12:17:15Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f50d100d80c6261fb19609b749ce1e5e0ca99e3022898e4e6c1392d3fdebbbdd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:17:15Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-173-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Indicação Geográfica
+- Denominação de Origem
+- Estatuto
+- Região Demarcada do Douro
+relationships:
+- type: amended_by
+  target: pt:dre:491200:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2009-491200
+  date: '2009-10-02'
+- type: amended_by
+  target: pt:dre:513621:por
+  label: Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 24.º; Altera Artigo 30.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2013-513621
+  date: '2013-06-05'
+- type: amended_by
+  target: pt:dre:114655027:por
+  label: Altera Artigo 43.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2018-114655027
+  date: '2018-02-08'
+- type: amended_by
+  target: pt:dre:117821809:por
+  label: Altera Artigo 10.º; Altera Artigo 31.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2019-117821809
+  date: '2019-01-15'
+- type: amended_by
+  target: pt:dre:148599584:por
+  label: Altera Artigo 39.º; Altera Artigo 42.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2020-148599584
+  date: '2020-11-16'
+- type: amended_by
+  target: pt:dre:214724639:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2023-214724639
+  date: '2023-06-23'
+- type: amended_by
+  target: pt:dre:935257200:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200
+  date: '2025-09-15'
+- type: cites
+  target: pt:dre:145861:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/251/1996/12/24/p/dre
+- type: cites
+  target: pt:dre:163642:por
+  label: null
+  source: http://data.dre.pt/eli/port/413/2001/04/18/p/dre
+- type: cites
+  target: pt:dre:361336:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/264-a/1995/10/12/p/dre
+- type: cites
+  target: pt:dre:361505:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/190/2001/06/25/p/dre
+- type: cites
+  target: pt:dre:392999:por
+  label: null
+  source: http://data.dre.pt/eli/port/1247-a/1995/10/17/p/dre
+- type: cites
+  target: pt:dre:438066:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/254/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:448724:por
+  label: null
+  source: http://data.dre.pt/eli/port/1484/2002/11/22/p/dre
+- type: cites
+  target: pt:dre:634503:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/191/2002/09/13/p/dre
+article_structure:
+  article_count: 46
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:17:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 173/2009
+
+Decreto-Lei n.º 173/2009
+
+de 3 de Agosto
+
+O Douro foi, com o alvará de instituição da Companhia Geral da Agricultura das Vinhas do Alto Douro, em 10 de Setembro de 1756, a primeira região vinícola demarcada e regulamentada do mundo. Uma rigorosa disciplina da produção e do comércio, do controlo e da certificação, da protecção e da defesa da denominação de origem «Porto» tem distinguido o ordenamento jurídico português. O nome «Porto» surge na individualização de vinho já em 1619. Em 1699, já se usava a designação «Wine Port», e em 1713 já se apunha a «marca do Porto». Em 1756, com o referido alvará de instituição da Companhia Geral da Agricultura das Vinhas do Alto Douro, temos, ante litteram, a primeira denominação de origem controlada. As exportações de vinho com o nome «Porto» já se efectuavam, pelo menos, desde o século xvii. Esta origem histórica e difusão internacional, acrescida da qualidade dos vinhos da Região Demarcada do Douro, atribuem à denominação de origem «Porto» um prestígio internacionalmente reconhecido.
+
+A qualidade e o prestígio da denominação de origem «Porto» exigiram uma regulamentação particularmente rigorosa. Neste sentido, foi criado, em 1926, um entreposto único e exclusivo em Vila Nova de Gaia, concentrando-se, em limites territoriais definidos, todas as empresas de vinho do Porto, de modo a garantir uma fiscalização eficiente, afiançar a pureza e a genuinidade e proteger o prestígio da denominação de origem «Porto», evitando-se as fraudes e as falsificações. Esta disciplina jurídica tem-se mantido de forma constante até ao presente, procedendo-se agora à sua sistematização num único decreto-lei.
+
+Prosseguindo os objectivos de garantia de qualidade e de defesa da fama do vinho do «Porto», encontramos, já em 1934, a classificação das parcelas no interior da Região Demarcada do Douro como aptas a produzir vinho, com direito à denominação de origem «Porto». No mesmo sentido, sempre se orientou a disciplina do benefício no vinho do «Porto», estabelecida anualmente no comunicado de vindima e que funda a sua origem, pelo menos, no ano de 1936, nunca tendo sido abandonada até ao presente, e cujas regras essenciais hoje se mantêm. Trata-se de um mecanismo fundamental para assegurar a qualidade do vinho susceptível de obter a denominação de origem «Porto». Aliás, muitos dos princípios orientadores da disciplina da produção, incluindo o benefício, estabelecidas em comunicado de vindima, permanecem desde aquela data.
+
+A necessidade de constituição de reservas de qualidade no vinho do «Porto», de modo a assegurar o envelhecimento dos vinhos, enquanto condição indispensável para que o produto apresente as características que tanto o valorizam, exigiu do legislador o estabelecimento, antes da primeira comercialização, do regime da capacidade de vendas inicial e da capacidade de vendas adquirida, que remonta à legislação de 1907, 1908 e 1921 e, em especial, a diversos decretos-leis da década de 30 do século passado, e cujo regime actual é similar ao estabelecido em 1966 e em 1986. Estas mesmas necessidades estiveram presentes na exigência de uma existência mínima permanente já consagrada, pelo menos, em 1932.
+
+A defesa das denominações de origem «Porto» e «Douro» e a inerente protecção dos consumidores, o prestígio internacional de tais denominações de origem, a garantia da qualidade e da genuinidade dos produtos com essas denominações de origem, a idoneidade da certificação do produto final, operação complexa que não se reduz à análise físico-química e organoléptica, pois inclui, igualmente, a verificação e o controlo da apresentação do produto, a sua rotulagem e as suas menções, bem como o acondicionamento, exigem que só após o engarrafamento na origem a certificação se possa considerar concluída, sendo assim efectivamente assegurada a qualidade e a genuinidade dos vinhos do «Porto» e do «Douro», bem como a grande reputação destas denominações de origem mediante este controlo das suas características particulares.
+
+Ao lado do vinho generoso desenvolveu-se progressivamente a denominação de origem «Douro», cuja consagração legislativa surge em 1907, tendo a sua regulamentação sido completada apenas em 1982. Hoje, o prestígio granjeado pela denominação de origem «Douro» é internacionalmente reconhecido e valorizado e a excepcional qualidade do vinho é particularmente enaltecida.
+
+A regulamentação das denominações «Porto» e «Douro» e da indicação geográfica «Duriense» encontra-se dispersa por múltiplos decretos-leis. Impõe-se a sua sistematização de forma coerente, num único decreto-lei, efectuando-se as actualizações necessárias impostas por um mercado crescentemente competitivo e global.
+
+Cumprindo o primeiro desígnio, o presente projecto revoga 18 diplomas, alguns do início do século passado, procedendo a uma unificação legislativa e efectuando as alterações necessárias que o tempo entretanto impôs. Fica, desta forma, também cumprida mais uma medida do Programa de Simplificação Administrativa e Legislativa - SIMPLEX.
+
+O Instituto dos Vinhos do Douro e do Porto, I. P. (IVDP, I. P.), tem por missão essencial o controlo, a certificação, a promoção e a defesa das denominações de origem «Porto» e «Douro» e da indicação geográfica «Duriense». O presente decreto-lei consagra esta missão, designadamente quanto à inscrição e classificação das vinhas da Região Demarcada do Douro, quanto à cultura da vinha, tendo em consideração que a actividade se desenrola em condições climatéricas particularmente rudes, em solos pedregosos, sem utilização alternativa dada a topografia particularmente acidentada da Região Demarcada do Douro, e ao cumprimento das boas práticas culturais e ambientais. Na competência de certificação importa sublinhar que o laboratório do IVDP, I P., se encontra integrado no Sistema Português da Qualidade, desde 1994, pela sua acreditação junto do Instituto Português da Acreditação, I. P., e que a câmara de provadores foi pioneira, em termos mundiais, na implementação de um processo de acreditação em 1999, tal como é obrigatório, comunitariamente, para os laboratórios de controlo oficial dos géneros alimentícios.
+
+Por fim, o presente estatuto consagra as especificidades das denominações de origem «Porto» e «Douro», e da indicação geográfica «Duriense», que asseguram a estes vinhos uma tipicidade geograficamente vinculada e uma unicidade qualitativa reveladora de uma identidade inigualável e irrepetível.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei aprova o estatuto das denominações de origem (DO) e indicação geográfica (IG) da Região Demarcada do Douro (RDD), constante do anexo I do presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 2.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) Decreto-Lei n.º 97/73, de 12 de Março;
+
+b) Decreto-Lei n.º 436/78, de 28 de Dezembro;
+
+c) Decreto-Lei n.º 460/80, de 10 de Outubro;
+
+d) Decreto-Lei n.º 86/86, de 7 de Maio;
+
+e) Decreto-Lei n.º 166/86, de 26 de Junho;
+
+f) Decreto-Lei n.º 313/88, de 7 de Setembro;
+
+g) Decreto-Lei n.º 89/89, de 25 de Março;
+
+h) Decreto-Lei n.º 264-A/95, de 12 de Outubro;
+
+i) Decreto-Lei n.º 251/96, de 24 de Dezembro;
+
+j) Decreto-Lei n.º 254/98, de 11 de Agosto;
+
+l) Decreto-Lei n.º 190/2001, de 25 de Junho;
+
+m) Decreto n.º 12 007, de 31 de Julho de 1926;
+
+n) Decreto n.º 13 167, de 18 de Fevereiro de 1927;
+
+o) Decreto n.º 16 330, de 8 de Janeiro de 1929;
+
+p) Decreto n.º 42 605, de 21 de Outubro de 1959;
+
+q) Portaria n.º 1247-A/95, de 17 de Outubro;
+
+r) Portaria n.º 1484/2002, de 22 de Novembro;
+
+s) Portaria n.º 1197/2006, de 7 de Novembro.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 3.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+2 - Os decretos-leis, decretos e portarias revogados pelo presente decreto-lei mantêm-se transitoriamente em vigor até à publicação das portarias e dos regulamentos previstos no presente decreto-lei, relativamente às matérias que estes visam regulamentar.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+Visto e aprovado em Conselho de Ministros de 21 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - António José de Castro Guerra - Luís Medeiros Vieira.
+
+Promulgado em 20 de Julho de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 21 de Julho de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+## Anexo I — (a que se refere o artigo 1.º)
+
+Estatuto das denominações de origem e indicação geográfica da Região Demarcada do Douro
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+### Capítulo I
+
+Disposições gerais relativas às denominações de origem e indicação geográfica da Região Demarcada do Douro
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 1.º — Reconhecimento, certificação e defesa das denominações
+
+1 - É reconhecida, pelo presente estatuto das denominações de origem e indicação geográfica da Região Demarcada do Douro, adiante, abreviadamente, apenas estatuto, a denominação de origem (DO) «Porto», incluindo as designações «vinho do Porto», «vin de Porto», «Port wine», «Port», e seus equivalentes em outras línguas, e «Douro», bem como a indicação geográfica (IG) «Duriense», as quais só podem ser utilizadas nos vinhos e produtos vínicos produzidos na Região Demarcada do Douro (RDD), que a tradição firmou com esse nome e que satisfaçam o disposto no presente estatuto e demais legislação aplicável.
+
+2 - A DO «Porto» pode ser utilizada pelo vinho generoso a integrar na categoria de vinho licoroso e por outros produtos vínicos da RDD, nos termos a regulamentar pelo Instituto dos Vinhos do Douro e do Porto, I. P., ouvido o conselho interprofissional.
+
+3 - A DO «Douro» pode ser utilizada pelos vinhos branco, tinto e rosé ou rosado, a integrar na categoria de vinho tranquilo, de vinho espumante e de vinho licoroso, denominado «Moscatel do Douro», proveniente da casta Moscatel-Galego-Branco, e por outros produtos vínicos da RDD, nos termos a regulamentar pelo IVDP, I. P., ouvido o conselho interprofissional, no prazo de 180 dias.
+
+4 - A DO «Douro» pode ser utilizada na aguardente produzida a partir de vinho produzido na RDD.
+
+5 - É protegida a denominação «Moscatel do Douro», a qual só pode ser utilizada na designação do vinho licoroso com direito à DO «Douro».
+
+6 - Sem prejuízo do disposto no n.º 2 do artigo seguinte, a IG «Duriense» pode ser utilizada na identificação de qualquer categoria de vinhos branco, tinto e rosé ou rosado.
+
+7 - Competem ao IVDP, I. P., as funções de controlo da produção e do comércio, de promoção, de defesa e de certificação dos vinhos e produtos vínicos com direito às DO e IG da RDD.
+
+8 - É aprovado por portaria do membro do Governo responsável pela área da agricultura, a emitir no prazo de 180 dias, o modelo de cartão de identificação para uso exclusivo dos funcionários do IVDP, I. P., que exercem funções de controlo e de fiscalização.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 2.º — Protecção das denominações
+
+1 - As DO e a IG da RDD só podem ser utilizadas em produtos do sector vitivinícola que, cumulativamente, respeitem a regulamentação vitivinícola aplicável, cumpram as regras de produção e comércio aplicáveis e tenham sido certificados pelo IVDP, I. P.
+
+2 - No interior da RDD é proibida a elaboração, armazenagem, detenção e comercialização de vinhos licorosos não engarrafados, com excepção dos vinhos com DO «Porto» e «Douro», nos termos do Decreto-Lei n.º 191/2002, de 13 de Setembro.
+
+3 - É proibida a utilização, directa ou indirecta, das DO e IG em produtos vitivinícolas que não cumpram os requisitos constantes no n.º 1, nomeadamente no acondicionamento ou embalagem, em rótulos, etiquetas, documentos ou publicidade, mesmo quando a verdadeira origem do produto seja indicada ou que as palavras constitutivas daquelas designações sejam traduzidas ou acompanhadas por termos como «género», «tipo», «qualidade», «método», «imitação», «estilo» ou outros análogos.
+
+4 - É proibida a utilização, por qualquer meio, de nomes, marcas, termos, expressões ou símbolos, ou qualquer indicação ou sugestão falsa ou falaciosa, que sejam susceptíveis de confundir o consumidor quanto à proveniência, natureza ou qualidades essenciais dos produtos, bem como de qualquer sinal que constitua reprodução, imitação ou evocação das DO ou IG da RDD.
+
+5 - A proibição estabelecida nos n.os 3 e 4 aplica-se igualmente a produtos não vitivinícolas quando a utilização procure, sem justo motivo, tirar partido indevido do carácter distintivo ou do prestígio das DO «Porto» e «Douro», ou possa prejudicá-las, nomeadamente, pela respectiva diluição ou pelo enfraquecimento da sua força distintiva.
+
+6 - É vedada a reprodução das DO e IG em dicionários, enciclopédias, obras de consulta semelhantes, ou em publicidade, quando daí se possa depreender que as mesmas constituem designações genéricas.
+
+7 - O disposto no presente artigo é aplicável ao uso das menções tradicionais das DO e IG abrangidas pelo presente estatuto que constem expressamente da regulamentação a emitir pelo IVDP, I. P.
+
+8 - A menção ou referência às DO e IG abrangidas pelo presente estatuto na denominação de venda, apresentação ou publicidade de um produto que contenha vinho com direito às referidas DO ou IG, é proibida, salvo se, cumulativamente:
+
+a) O produto não contenha outro vinho;
+
+b) O vinho contido no produto atribua a este características particulares;
+
+c) O fabricante do produto tenha obtido o consentimento do IVDP, I. P;
+
+d) A menção ou referência à DO ou IG conste na lista de ingredientes do produto e não contribua para a diluição ou enfraquecimento da sua força distintiva, ou signifique um aproveitamento desta.
+
+9 - As DO e a IG são imprescritíveis e não podem tornar-se genéricas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 3.º — Delimitação da região
+
+1 - A área geográfica das DO e IG da RDD conforme representação cartográfica constante do anexo i ao presente estatuto, do qual faz parte integrante, definida pelo Decreto n.º 7934, de 10 de Dezembro de 1921, abrange os seguintes distritos, concelhos e freguesias, tradicionalmente agrupadas em três áreas geográficas mais restritas:
+
+a) Baixo Corgo: no distrito de Vila Real abrange os concelhos de Mesão Frio, de Peso da Régua e de Santa Marta de Penaguião; as freguesias de Abaças, Ermida, Folhadela, Guiães, Mateus, Nogueira, Nossa Senhora da Conceição (parte), Parada de Cunhos, São Dinis e São Pedro, do concelho de Vila Real; no distrito de Viseu as freguesias de Aldeias, Armamar, Folgosa, Fontelo, Santo Adrião, Vacalar e Vila Seca, do concelho de Armamar; as freguesias de Cambres, Ferreiros de Avões, Figueira, Parada do Bispo, Penajóia, Samodães, Sande, Santa Maria de Almacave, Sé e Valdigem e as Quintas de Foutoura, do Prado e das Várzeas, na freguesia de Várzea de Abrunhais, do concelho de Lamego; a freguesia de Barrô, do concelho de Resende;
+
+b) Cima Corgo: no distrito de Vila Real abrange as freguesias de Alijó, Amieiro, Carlão, Casal de Loivos, Castedo, Cotas, Favaios, Pegarinhos, Pinhão, Sanfins do Douro, Santa Eugénia, São Mamede de Riba Tua, Vale de Mendiz, Vilar de Maçada e Vilarinho de Cotas, do concelho de Alijó; as freguesias de Candedo, Murça e Noura, do concelho de Murça; as freguesias de Celeirós, Covas do Douro, Gouvães do Douro, Gouvinhas, Paços, Paradela de Guiães, Provesende, Sabrosa, São Cristóvão do Douro, São Martinho de Anta, Souto Maior, Vilarinho de São Romão, do concelho de Sabrosa; no distrito de Viseu as freguesias de Castanheiro do Sul, Espinhosa, Ervedosa do Douro, Nagozelo do Douro, Paredes da Beira, São João da Pesqueira, Soutelo do Douro, Trevões, Vale de Figueira, Valongo dos Azeites, Várzea de Trevões e Vilarouco, do concelho de São João da Pesqueira; as freguesias de Adorigo, Barcos, Desejosa, Granjinha, Pereiro, Santa Leocádia, Sendim, Tabuaço, Távora e Valença do Douro, do concelho de Tabuaço; no distrito de Bragança as freguesias de Beira Grande, Castanheiro do Norte, Carrazeda de Ansiães, Lavandeira, Linhares, Parambos, Pereiros, Pinhal do Norte, Pombal, Ribalonga, Seixo de Ansiães e Vilarinho de Castanheira, do concelho de Carrazeda de Ansiães;
+
+c) Douro Superior: no distrito de Bragança abrange a freguesia de Vilarelhos, do concelho de Alfândega da Fé; as freguesias de Freixo de Espada à Cinta, Ligares, Mazouco, Poiares, do concelho de Freixo de Espada à Cinta; as propriedades que foram de D. Maria Angélica de Sousa Pinto Barroso, na freguesia de Frechas, e as da Sociedade Clemente Meneres, nas freguesias de Avantos, Carvalhais, Frechas e Romeu, do concelho de Mirandela; as freguesias de Açoreira, Adeganha, Cabeça Boa, Horta, Lousa, Peredo dos Castelhanos, Torre de Moncorvo e Urros, do concelho de Torre de Moncorvo; as freguesias de Assares, Freixiel, Lodões, Roios, Sampaio, Santa Comba da Vilariça, Seixo de Manhoses, Vale Frechoso e Vilarinho das Azenhas, as Quintas da Peça e das Trigueiras e as propriedades de Vimieiro, situadas na freguesia de Vilas Boas, e Vila Flor, do concelho de Vila Flor; no distrito da Guarda a freguesia de Escalhão, do concelho de Figueira de Castelo Rodrigo; as freguesias de Fontelonga, Longroiva, Meda, Poço do Canto, do concelho de Meda; o concelho de Vila Nova de Foz Côa.
+
+2 - Os contornos das parcelas, freguesias, concelhos e distritos referidos no número anterior correspondem rigorosamente ao disposto na legislação em vigor à data de aprovação do Decreto n.º 7934, de 10 de Dezembro de 1921.
+
+3 - Em regulamentação do IVDP, I. P., ouvido o conselho interprofissional, podem ser individualizadas sub-regiões e reconhecidas designações de carácter localizado, correspondentes a áreas restritas, em relação às quais sejam notórias a qualidade e particularidade dos seus vinhos ou produtos vínicos.
+
+4 - Para cada DO da RDD, pode ser definida, em regulamentação do IVDP, I. P., ouvido o conselho interprofissional, uma área ainda mais restrita de produção, em função das exigências edafoclimáticas e culturais de cada uma, a qual, no que respeita à DO «Porto», é determinada através do método de avaliação qualitativa das parcelas com vinha, tal como previsto no n.º 2 do artigo 8.º do presente estatuto.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 4.º — Entrepostos
+
+1 - Os vinhos ou produtos vínicos a que se refere o presente estatuto podem permanecer em caves ou armazéns na RDD, ou ser transferidos para o entreposto de Vila Nova de Gaia (EG).
+
+2 - A transferência, incluindo o transporte, dos vinhos ou produtos vínicos para caves ou armazéns situados no EG, bem como a circulação no interior da RDD, deve obedecer às disposições legais e às normas fixadas pelo IVDP, I. P.
+
+3 - Os armazéns têm de estar situados na RDD ou no EG, com a ressalva daqueles que se encontram fora nos termos e para os efeitos do disposto no n.º 3 do artigo 42.º
+
+4 - Por motivos de força maior, da qual resulte a indisponibilidade temporária de armazéns no interior da RDD ou do EG, pode o IVDP, I. P., nos termos a definir e no respeito de um regime especial de controlo necessariamente mais rigoroso, autorizar, excepcional e transitoriamente, a utilização de armazéns situados fora da RDD ou da linha limite do EG, mas numa área de proximidade imediata.
+
+5 - O EG é uma extensão da RDD e compreende a área geográfica, conforme representação cartográfica e descrição constante do anexo ii ao presente estatuto, do qual faz parte integrante.
+
+6 - O EG destina-se exclusivamente aos processos adicionais de engarrafamento, armazenamento, maturação e envelhecimento.
+
+7 - A introdução no comércio, mediante a venda a entidades não inscritas no IVDP, I. P., apenas pode processar-se a partir da RDD ou do EG.
+
+8 - No interior da RDD e do EG são proibidos a vinificação, a elaboração, o armazenamento, o engarrafamento e a comercialização de vinhos, produtos vínicos ou afins que não sejam provenientes da RDD ou que não se destinem, nos termos da regulamentação em vigor, à elaboração desses vinhos ou produtos vínicos, salvo nos termos que forem autorizados pelo IVDP, I. P., e na observância do disposto no artigo 40.º
+
+9 - Em derrogação ao disposto no número anterior, é permitida a distribuição dos produtos engarrafados e a venda a retalho.
+
+10 - Os encargos suplementares causados pelos regimes especiais de controlo previstos nos n.os 3 e 4 são suportados pelos interessados.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 5.º — Solos
+
+As vinhas destinadas à produção de vinhos e produtos vínicos a que se refere o presente estatuto devem estar ou ser instaladas em solos predominantemente de origem xistosa, sem exclusão de manchas de solos de origem granítica, reconhecidamente aptos à produção de vinhos de qualidade.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 6.º — Castas
+
+As castas a utilizar na elaboração de vinhos e produtos vínicos a que se refere o presente estatuto constam de lista a aprovar por portaria do membro do Governo responsável pela área da agricultura, a emitir no prazo de 180 dias.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 7.º — Porta-enxertos
+
+Os porta-enxertos quando utilizados na replantação ou na plantação de novas vinhas devem estar devidamente adaptados ao local em causa e ser certificados de acordo com a legislação em vigor.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 8.º — Inscrição e classificação das vinhas
+
+1 - Sem prejuízo das competências do Instituto da Vinha e do Vinho, I. P., as parcelas com vinha situadas no interior da RDD devem ser inscritas no ficheiro das parcelas do IVDP, I. P., ao qual cabe verificar a respectiva aptidão para a produção das DO e IG referidas no presente estatuto.
+
+2 - As parcelas candidatas à produção de qualquer das DO ou IG a que se refere o presente estatuto são objecto de registo e classificação por parte do IVDP, I. P., sendo a sua classificação, no caso das DO «Porto» e «Douro», elaborada segundo método consagrado na Portaria n.º 413/2001, de 18 de Abril.
+
+3 - O IVDP, I. P., controla a conformidade das parcelas relativamente aos dados constantes dos registos referidos no presente artigo.
+
+4 - Quando ocorram alterações na titularidade ou na exploração das parcelas registadas ou, ainda, nos elementos caracterizadores das mesmas, devem os viticultores comunicá-las ao IVDP, I. P., nos termos a regulamentar por este Instituto.
+
+5 - Os vinhos e produtos vínicos abrangidos pelo presente estatuto têm direito à respectiva DO na quarta vindima seguinte após enxertia ou plantação no caso de enxertos-prontos.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 9.º — Reestruturação da vinha
+
+1 - Sem prejuízo do cumprimento das disposições legais aplicáveis, a replantação, a reenxertia e a sobreenxertia da vinha são autorizadas sem perda do direito à DO «Porto», desde que efectivamente realizadas até ao máximo de 40 % da área da parcela ou da exploração vitícola, no respeito do rendimento máximo para a DO em causa na área remanescente, e os restantes 60 % se mantenham em exploração até que a área reestruturada tenha direito à DO «Porto», nos termos do presente estatuto.
+
+2 - Para usufruir do mecanismo previsto no número anterior, os viticultores têm de solicitar ao IVDP, I. P., que a gestão da sua área vitícola se faça globalmente por exploração vitícola e não ao nível da parcela, embora mantendo a avaliação parcelar como base da classificação de exploração.
+
+3 - Sempre que se verifique a transferência ou replantação de vinha, é obrigatória a sua reinscrição no IVDP, I. P., que a reclassifica, ouvido o conselho interprofissional, nos termos da legislação em vigor.
+
+4 - A legalização de vinhas, os novos direitos de plantação e a transferência de direitos de replantação originários de parcelas sem direito à DO «Porto» não concedem o direito a produzir vinho apto à DO «Porto».
+
+5 - A transferência de direitos de replantação no interior da RDD, originários de parcelas aptas à DO «Porto», e as reconstituições de parcelas aptas à DO «Porto» apenas podem conceder o direito a produzir vinho apto à DO «Porto», nos termos da legislação em vigor.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 10.º — Práticas culturais
+
+1 - As vinhas destinadas à produção de vinhos e produtos vínicos a que se refere o presente estatuto devem ser contínuas, em forma baixa e aramadas, preferencialmente conduzidas em vara, vara e talão ou em cordão e com uma só zona de frutificação, cultivadas utilizando os meios adequados ao local como forma de maximizar a aptidão das uvas a uma produção de qualidade.
+
+2 - A densidade de plantação não deve ser inferior a 4000 videiras por hectare com uma tolerância de 10 %, com excepção das vinhas sistematizadas em patamares e terraços em que o limite mínimo pode ser de 3000 videiras por hectare com uma tolerância de 20 %, bem como das vinhas plantadas antes de 11 de Agosto de 1998 e ainda em exploração, para as quais são admissíveis, enquanto subsistirem, densidades inferiores a estes limites.
+
+3 - Por parcela de vinha entende-se uma porção contínua de terreno ocupada com a cultura da vinha, submetida a uma gestão única e que constitui uma entidade distinta tendo em conta:
+
+a) A homogeneidade quanto ao modo de exploração, ao modo de condução, à categoria de utilização, à idade de plantação, ao modo de armação do terreno e à irrigação, não podendo os seus limites transpor limites administrativos, acidentes topográficos, rios, estradas ou caminhos públicos;
+
+b) A homogeneidade quanto ao tipo de cultura, salvaguardando-se a existência de árvores em bordadura e nas bordaduras dos caminhos no interior da parcela, considerando-se parcela de vinha consociada a que contiver mais de 40 árvores dispersas por hectare no interior da parcela;
+
+c) Que o contorno exterior da parcela é fixado de modo a incluir, sem prejuízo do disposto na alínea anterior, a partir da extremidade das linhas de videiras, uma faixa periférica com largura equivalente a metade da largura da entrelinha até ao limite físico do terreno;
+
+d) Que são excluídas as superfícies sem videiras existentes no interior daquele contorno, quando a menor das suas dimensões, incluindo a faixa periférica definida na alínea anterior, for superior a 4 metros;
+
+e) Que, no caso de vinhas instaladas em patamares ou socalcos, em locais com declives acima de 35 %, o valor a considerar na alínea anterior é de 6 metros e o contorno exterior da parcela é fixado de modo a incluir, sem prejuízo do disposto na alínea a), uma faixa periférica com largura de 3 metros até ao limite físico do terreno ou da extremidade de outra parcela, a partir da extremidade das linhas de videiras.
+
+4 - A área da parcela é a que resulta da sua medição efectuada na projecção horizontal.
+
+5 - Experimentalmente, e sem perda do direito à DO, o IVDP, I. P., pode autorizar práticas culturais que constituam um avanço dentro da técnica vitivinícola e, comprovadamente, não prejudiquem a qualidade das uvas e dos vinhos produzidos.
+
+6 - A rega da vinha só é admitida para obstar a situações de défice hídrico que possam provocar desequilíbrios na composição e qualidade da uva e pôr em causa o normal desenvolvimento fisiológico da videira, devendo o viticultor informar o IVDP, I. P., na sua área reservada no portal daquele instituto.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2023 - Diário da República n.º 121/2023, Série I de 2023-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2023-214724639), em vigor a partir de 2023-06-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2019-117821809), em vigor a partir de 2019-01-16
+
+###### Artigo 11.º — Inscrição de entidades
+
+1 - Sem prejuízo de outras disposições legais aplicáveis, todas as entidades que se dediquem à produção ou comercialização de vinhos e de outros produtos vitivinícolas abrangidos pelo presente estatuto, excluída a distribuição dos produtos engarrafados e a venda a retalho, ficam obrigadas a estar inscritas, bem como as respectivas instalações, em registo apropriado, no IVDP, I. P., disponibilizado no sítio da Internet deste organismo.
+
+2 - Estão ainda sujeitos a inscrição nas condições a regulamentar pelo IVDP, I. P., os armazenistas e retalhistas que procedam à introdução no comércio de vinhos e produtos vínicos abrangidos pelo presente estatuto, desde que os vinhos e os produtos vínicos procedam da RDD ou do EG já engarrafados, rotulados e selados.
+
+3 - As entidades a que se refere o n.º 1 são classificadas e definidas por portaria do membro do Governo responsável pela área da agricultura.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 12.º — Rendimento por hectare
+
+1 - O rendimento máximo por hectare na RDD das vinhas destinadas exclusivamente à produção de vinhos susceptíveis de obtenção de DO é de 55 hl para os vinhos tintos e rosados e de 65 hl para os vinhos brancos.
+
+2 - De acordo com as condições climatéricas particulares e as qualidades dos mostos, o conselho interprofissional do IVDP, I. P., pode proceder, no comunicado de vindima, a ajustamentos anuais do rendimento por hectare que, no caso de ser para mais, não pode exceder 25 % do rendimento máximo previsto no número anterior.
+
+3 - Caso seja ultrapassado o rendimento por hectare mencionado nos números anteriores, não há lugar à interdição de utilizar a DO até esses limites, sendo o excedente destinado, no caso da DO «Porto» e do vinho licoroso Moscatel do Douro, à destilação sob controlo do IVDP, I. P., e no caso das outras categorias de vinhos com DO «Douro», a vinho sem direito a DO ou IG.
+
+4 - Para a determinação do rendimento por hectare na RDD e para a atribuição do direito à DO «Porto» é aplicado sobre a área da parcela, determinada nos termos dos n.os 3 e 4 do artigo 10.º, um coeficiente em função do seu declive médio e dos diferentes tipos de armação do terreno, em termos a regulamentar pelo IVDP, I. P., ouvido o conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 13.º — Aguardente de origem vitícola e beneficiação
+
+1 - A beneficiação para a obtenção de vinho do Porto e de vinho licoroso Moscatel do Douro realiza-se de forma a garantir a paragem da fermentação e de acordo com o grau de doçura de vinho pretendido, adicionando ao mosto em fermentação, proveniente das diversas prensagens, a quantidade de aguardente de origem vitícola suficiente para elevar o título alcoométrico volúmico.
+
+2 - A quantidade de aguardente de origem vitícola a utilizar nos vinhos de vindima é fixada anualmente no comunicado de vindima.
+
+3 - A aguardente de origem vitícola deve obedecer às características organoléticas, físicas e químicas fixadas em regulamento do IVDP, I.P., a emitir no prazo de 180 dias, ouvido o conselho interprofissional.
+
+4 - Para assegurar a manutenção, durante o processo de envelhecimento, do título alcoométrico dos vinhos do Porto e Moscatel do Douro, pode ser adicionada aguardente de origem vitícola até ao limite de 2 % do volume do stock total, nos termos a regulamentar pelo IVDP, I.P.
+
+5 - Todas as aguardentes de origem vitícola são sujeitas a controlo da qualidade, da exclusiva competência do IVDP, I.P., podendo este organismo recorrer, no que respeita à análise laboratorial, à colaboração de organismos nacionais ou estrangeiros.
+
+6 - As aguardentes de origem vitícola acima referidas estão sujeitas a contas correntes específicas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 77/2013 - Diário da República n.º 108/2013, Série I de 2013-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2013-513621), em vigor a partir de 2013-06-10
+
+###### Artigo 14.º — Comunicado de vindima
+
+O comunicado de vindima, a emitir pelo IVDP, I. P., estabelece o seguinte:
+
+a) O quantitativo de mosto a produzir destinado à DO «Porto», que é fixado em função da evolução das vendas do sector, das perspectivas da sua evolução e das existências no comércio e na produção;
+
+b) As normas sobre a utilização de aguardente de origem vitícola, a elaboração de vinhos e produtos vínicos da RDD, as autorizações de produção de mosto destinado à DO «Porto», as modalidades de pagamento e outras regras sobre trânsito, declarações e registos nos termos da regulamentação aplicável;
+
+c) As normas a que devem obedecer as compras a efectuar na vindima e fora desta para efeitos de obtenção da capacidade de vendas na DO «Porto»;
+
+d) Outras normas a determinar pelo IVDP, I. P.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 77/2013 - Diário da República n.º 108/2013, Série I de 2013-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2013-513621), em vigor a partir de 2013-06-10
+
+###### Artigo 15.º — Práticas e tratamentos enológicos
+
+1 - A elaboração de mostos, de vinhos e de produtos vínicos abrangidos pelo presente estatuto deve respeitar os métodos e práticas enológicos legalmente autorizados, incluindo a regulamentação do IVDP, I. P., e o disposto no comunicado de vindima, devendo ser realizada no interior da RDD, sem prejuízo do disposto no n.º 6 do artigo 4.º
+
+2 - Experimentalmente, o IVDP, I. P., pode autorizar práticas enológicas que constituam um avanço e, comprovadamente, não prejudiquem a qualidade dos vinhos produzidos.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 16.º — Características analíticas e organolépticas
+
+1 - Sem prejuízo do disposto nos capítulos seguintes, e da regulamentação do IVDP, I. P., os vinhos abrangidos pelo presente estatuto devem:
+
+a) Do ponto de vista organoléptico, satisfazer os requisitos apropriados quanto à limpidez, cor, aroma e sabor, tal como reconhecidos pelas câmaras de provadores do IVDP, I. P;
+
+b) Em relação às restantes características, os vinhos devem obedecer à regulamentação do IVDP, I. P., ouvido o conselho interprofissional.
+
+2 - As câmaras de provadores e, na qualidade de órgãos de recurso, as juntas consultivas de provadores, obedecem à disciplina a estabelecer por regulamento do IVDP, I. P., a emitir no prazo de 180 dias.
+
+3 - A realização das análises físicas, químicas, microbiológicas ou outras análises que se revelem necessárias, bem como a análise organoléptica, é da competência do IVDP, I. P., e constitui procedimento obrigatório com vista à certificação dos vinhos com direito às DO e IG da RDD.
+
+4 - As deliberações das câmaras de provadores das quais não tenha havido recurso, as deliberações das juntas consultivas, bem como os boletins ou certificados de análises e os certificados de controlo de qualidade emitidos pelo IVDP, I. P., constituem documentos autênticos, fazendo prova plena dos resultados neles atestados.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+### Capítulo II — Indicação geográfica «Duriense»
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 17.º — Vinificação
+
+Na elaboração do vinho com direito à IG «Duriense» são seguidos as práticas e os tratamentos enológicos legalmente autorizados.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 18.º — Título alcoométrico
+
+Os vinhos com direito à IG «Duriense» devem ter um título alcoométrico volúmico adquirido mínimo de 10 % vol.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 19.º — Menções tradicionais
+
+1 - As menções tradicionais da IG «Duriense» e a sua disciplina constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
+
+2 - Sem prejuízo do disposto no número anterior, são menções tradicionais da IG «Duriense», nomeadamente, as seguintes:
+
+a) Novo;
+
+b) «Colheita tardia» ou «late harvest»;
+
+c) «Reserva ou «reserve»
+
+d) «Colheita seleccionada»;
+
+e) «Grande reserva».
+
+3 - Os critérios de apreciação sensorial das menções tradicionais são estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+### Capítulo III — Denominação de origem «Douro»
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+#### Secção I — Disposições gerais
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 20.º — Práticas e tratamentos enológicos
+
+1 - Sem prejuízo do regime previsto no presente estatuto para o Moscatel do Douro e para os vinhos espumantes, os métodos de vinificação a observar na elaboração dos vinhos susceptíveis de obtenção da DO «Douro» são os legalmente previstos.
+
+2 - Quando as condições climáticas da região o justifiquem, podem ser excepcionalmente autorizadas pelo IVDP, I. P., ouvido o conselho interprofissional, as seguintes práticas enológicas:
+
+a) Aumento do título alcoométrico volúmico natural, através da adição de mosto de uvas concentrado rectificado, ou de mosto de uvas concentrado proveniente da RDD;
+
+b) Concentração parcial de mostos oriundos da RDD nos termos dos métodos legalmente autorizados e cumprindo as características legalmente estabelecidas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 21.º — Título alcoométrico
+
+Os vinhos têm de apresentar um título alcoométrico volúmico adquirido mínimo de:
+
+a) Vinhos brancos e rosados - 10,5 % vol;
+
+b) Vinhos tintos - 11 % vol.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 22.º — Estágio
+
+O estágio dos vinhos é definido em regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 23.º — Menções tradicionais
+
+1 - As menções tradicionais da DO «Douro», e sua disciplina, constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
+
+2 - Sem prejuízo do disposto no número anterior, são menções tradicionais da DO «Douro», nomeadamente, as seguintes:
+
+a) «Novo»;
+
+b) «Colheita tardia» ou «late harvest»;
+
+c) «Reserva» ou «reserve»;
+
+d) «Grande reserva»;
+
+e) «Colheita seleccionada»;
+
+f) «Reserva especial».
+
+3 - Os critérios de apreciação sensorial das menções tradicionais são estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+#### Secção II — Moscatel do Douro
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 24.º — Aguardente de origem vitícola
+
+A quantidade de aguardente de origem vitícola destinada a interromper a fermentação, de acordo com o grau de doçura desejado, é fixada anualmente no comunicado de vindima.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 77/2013 - Diário da República n.º 108/2013, Série I de 2013-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2013-513621), em vigor a partir de 2013-06-10
+
+###### Artigo 25.º — Título alcoométrico
+
+O Moscatel do Douro deve apresentar um título alcoométrico volúmico adquirido mínimo de 16,5 % vol. e máximo de 22,0 % vol.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 26.º — Menções tradicionais
+
+1 - As menções tradicionais do vinho licoroso Moscatel do Douro e a sua disciplina constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
+
+2 - Sem prejuízo do disposto no número anterior, são menções tradicionais do vinho licoroso Moscatel do Douro, nomeadamente, as seguintes:
+
+a) «Reserva» ou «reserve»;
+
+b) «10 anos de idade», «20 anos de idade», «30 anos de idade», «mais de 40 anos de idade»;
+
+c) Indicação do ano de colheita.
+
+3 - Os critérios de apreciação sensorial das menções tradicionais são estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+#### Secção III — Vinho espumante
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 27.º — Elaboração
+
+1 - O vinho espumante com direito à DO «Douro» deve obedecer aos seguintes requisitos:
+
+a) O vinho de base utilizado na sua elaboração deve ser um vinho apto a ser reconhecido como um vinho DO «Douro» em todas as suas características;
+
+b) Apresentar um título alcoométrico volúmico adquirido mínimo de 11 % vol. antes da adição do licor de expedição;
+
+c) A segunda fermentação alcoólica é obrigatoriamente realizada em garrafa.
+
+2 - A duração do processo de elaboração dos vinhos espumantes é contada a partir da segunda fermentação alcoólica, não podendo ser inferior a nove meses.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 28.º — Menções tradicionais
+
+1 - As menções tradicionais do vinho espumante com direito à DO «Douro» e sua disciplina constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
+
+2 - Sem prejuízo do disposto no número anterior, são menções tradicionais do vinho espumante com direito à DO «Douro», nomeadamente, as seguintes:
+
+a) «Branco de uvas brancas»;
+
+b) «Reserva» ou «reserve»;
+
+c) «Super-reserva» ou «extra-reserva»;
+
+d) «Velha reserva» ou «grande reserva»;
+
+e) «Colheita seleccionada».
+
+3 - Os critérios de apreciação sensorial das menções tradicionais são estabelecidos pelo IVDP, I. P., ouvido pelo conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+#### Secção IV — Aguardente vínica
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 29.º — Elaboração
+
+1 - A produção de aguardentes vínicas com direito à DO «Douro» deve resultar da destilação de vinho proveniente da RDD.
+
+2 - A DO «Douro» atribuída às aguardentes vínicas só pode ser utilizada para designar esse produto desde que associada à menção «Aguardente de vinho».
+
+3 - As características físicas, químicas e organolépticas devem cumprir as disposições legais aplicáveis.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+### Capítulo IV — Denominação de origem «Porto»
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 30.º — Práticas e tratamentos enológicos
+
+1 - A elaboração do vinho do Porto deve respeitar os métodos e práticas enológicas legalmente autorizados, incluindo a regulamentação do IVDP, I. P., e o disposto no comunicado de vindima, devendo ser realizada no interior da RDD.
+
+2 - É permitida a concentração parcial de mostos oriundos da RDD nos termos dos métodos legalmente autorizados e cumprindo as características legalmente estabelecidas.
+
+3 - A quantidade de aguardente de origem vitícola destinada a interromper a fermentação, de acordo com o grau de doçura desejado, é fixada anualmente no comunicado de vindima.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 77/2013 - Diário da República n.º 108/2013, Série I de 2013-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2013-513621), em vigor a partir de 2013-06-10
+
+###### Artigo 31.º — Características analíticas
+
+1 - O título alcoométrico volúmico potencial natural médio dos mostos é no mínimo de 11 % vol.
+
+2 - Sem prejuízo do disposto nos números seguintes, o vinho do Porto apresenta um título alcoométrico volúmico adquirido compreendido entre 19 % vol. e 22 % vol.
+
+3 - O vinho do Porto com as menções tradicionais tawny, ruby, branco ou white e rosé não integrados nas categorias especiais de vinho do Porto pode ter, no mínimo, 18 % vol.
+
+4 - O vinho do Porto branco leve seco pode ter, no mínimo, 16,5 % vol.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2019-117821809), em vigor a partir de 2019-01-16
+
+###### Artigo 32.º — Estágio
+
+1 - O vinho tem o estágio mínimo legalmente estabelecido, competindo ao IVDP, I. P., o controlo desta idade média mínima e da qualidade mínima dos vinhos.
+
+2 - É admitida a mistura de vinhos entre si ou com aguardente de origem vitícola, tradicionalmente designada lotação, refresco, trasfega e acerto de título alcoométrico por adição de aguardente de origem vitícola.
+
+3 - As existências de vinhos devem encontrar-se armazenadas em vasilhas, nos termos da regulamentação do IVDP, I. P.
+
+4 - As regras de conservação e envelhecimento constam de regulamentação do IVDP, I. P., aprovada pelo conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 77/2013 - Diário da República n.º 108/2013, Série I de 2013-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2013-513621), em vigor a partir de 2013-06-10
+
+###### Artigo 33.º — Tipos e menções tradicionais
+
+1 - Os tipos de vinhos do Porto, designadamente tawny, ruby, branco ou white e rosé ou rosado e as suas menções tradicionais, bem como a sua disciplina, constam de regulamento do IVDP, I. P., aprovado pelo conselho interprofissional, a emitir no prazo de 180 dias.
+
+2 - Sem prejuízo do disposto no número anterior, são menções tradicionais a integrar nas categorias especiais de vinho do Porto, nomeadamente, as seguintes:
+
+a) «Vintage»;
+
+b) «Late Bottled Vintage» ou «LBV»;
+
+c) Data de colheita ou «single year tawny/white»;
+
+d) Indicação de idade ou «aged tawny/white»;
+
+e) «Crusted»;
+
+f) «Reserva» ou «reserve».
+
+3 - Os critérios de apreciação sensorial, em especial das menções tradicionais integradas nas categorias especiais, são estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 34.º — Actividade comercial
+
+1 - Todas as pessoas singulares ou colectivas que se dediquem à venda de vinho do Porto ficam obrigadas a fazer a sua inscrição em registo apropriado existente no IVDP, I. P., e devem satisfazer as seguintes condições:
+
+a) Possuir armazéns próprios ou adquirir, a qualquer título, capacidade de armazenagem no EG ou na RDD;
+
+b) Possuir e manter uma existência permanente em quantidade não inferior à fixada por portaria do membro do Governo responsável pela área da agricultura;
+
+c) Submeter-se a todas as normas regulamentares do IVDP, I. P;
+
+d) Respeitar as regras de capacidade de vendas fixadas em função das existências registadas em seu nome no IVDP, I. P., nos termos do presente estatuto.
+
+2 - O limite mínimo de existências fixado na alínea b) do número anterior não é exigível em relação aos proprietários que comercializem vinho engarrafado exclusivamente elaborado com uvas produzidas em propriedades suas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2019-117821809), em vigor a partir de 2019-01-16
+
+###### Artigo 35.º — Capacidade de vendas inicial
+
+1 - A capacidade de vendas em cada ano (n) das entidades referidas no artigo anterior é calculada em função das existências registadas em seu nome no IVDP, I. P., em 31 de Dezembro do ano anterior (n - 1) e é fixada, para além do previsto no artigo 36.º, no quantitativo obtido pela adição dos quantitativos referidos nas alíneas seguintes:
+
+a) Um terço dos vinhos de mais de um ano;
+
+b) 30 % dos vinhos adquiridos ou elaborados na última vindima, desde que estes se situem entre um mínimo de 75 % e um máximo de 125 % das vendas efectuadas no ano anterior (n - 1);
+
+c) 15 % dos vinhos adquiridos ou elaborados na última vindima, no caso de ser ultrapassado o máximo de 125 % referido na alínea anterior, na parte excedente a este limite;
+
+d) A percentagem da fórmula A / B = 30 / x, se os vinhos adquiridos ou elaborados na última vindima não atingirem 75 % das vendas efectuadas no ano anterior (n - 1), representando A os 75 % que a firma deveria ter obtido, B a quantidade obtida e x a percentagem de capacidade que os vinhos obtidos atribuam.
+
+2 - Por vinhos adquiridos ou elaborados entendem-se aqueles que satisfaçam os preceitos regulamentares estabelecidos pelo IVDP, I. P., ouvido o conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 36.º — Capacidade de vendas adquirida
+
+1 - Os comerciantes podem, durante cada ano (n), adquirir capacidade de vendas pela compra à produção, incluindo a Casa do Douro, de vinhos generosos susceptíveis de obter a DO «Porto», os quais atribuem, conforme a idade, a seguinte capacidade de vendas:
+
+a) Até 3 anos de idade - 20 %;
+
+b) De mais de 3 e até 4 anos de idade - 40 %;
+
+c) De mais de 4 e até 5 anos de idade - 60 %;
+
+d) De mais de 5 e até 6 anos de idade - 80 %;
+
+e) De mais de 6 anos de idade - 100 %.
+
+2 - Só podem beneficiar do disposto no presente artigo os comerciantes que em 31 de Dezembro do ano anterior (n - 1) tenham obtido vinhos em quantidade não inferior a 75 % das vendas efectuadas nesse ano (n - 1) ou que atinjam esse mínimo pela compra de vinhos que dêem apenas 20 % de capacidade.
+
+3 - O IVDP, I. P., pronuncia-se previamente sobre a qualidade e idade dos vinhos adquiridos à produção, verificando também se apresentam as características organolépticas adequadas ou susceptíveis de assim se tornarem mediante tratamento conveniente.
+
+4 - Os vinhos em poder da produção ficam em regime de contas correntes no IVDP, I. P., de acordo com a legislação em vigor, para efeitos de controlo e confirmação de idade, se a merecerem.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 37.º — Cedências de vinho com capacidade de vendas
+
+1 - São admitidas cedências de vinhos entre comerciantes acompanhadas da respectiva capacidade de vendas até ao limite de 20 % da capacidade de vendas do adquirente determinada nos termos do artigo 35.º
+
+2 - Não são admitidas cedências de vinhos da vindima do próprio ano e do ano anterior à cedência.
+
+3 - Só podem beneficiar do disposto no presente artigo os comerciantes que tenham cumprido a condição estabelecida no n.º 2 do artigo anterior.
+
+4 - Os vinhos a serem cedidos têm de ser previamente submetidos à apreciação do IVDP, I. P., e devem estar em condições de lhe ser atribuída a DO «Porto».
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 38.º — Liquidação
+
+1 - O regime estabelecido nos artigos 35.º a 37.º do presente estatuto não é aplicável às entidades que se encontrem em regime de liquidação segundo as regras definidas pelo IVDP, I. P.
+
+2 - Às entidades que entrarem em regime de liquidação deve o IVDP, I. P., recusar a sua reinscrição, com a decorrente inibição do exercício daquela actividade pelo prazo de cinco anos, contando-se este do termo da liquidação.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+### Capítulo V — Disposições finais
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 39.º — Instalações de armazenagem
+
+1 - Sem prejuízo da legislação geral aplicável, todas as entidades que se dediquem à produção ou comercialização de vinhos e de outros produtos vitivinícolas abrangidos pelo presente estatuto, excluída a distribuição dos produtos engarrafados e a venda a retalho, são obrigadas a dispor de instalações de armazenagem inscritas, aprovadas e sujeitas ao controlo do IVDP, I. P., e nas quais devem manter registos actualizados nos termos a definir por este Instituto.
+
+2 - Sem prejuízo da legislação em vigor e de normas a definir pelo IVDP, I. P., todas as instalações de vinificação e armazenagem devem ser mantidas em boas condições de higiene e segurança, devendo todo o material ou produto enológico que entre em contacto com o vinho não provocar inquinação de natureza física ou química para além dos limites admitidos.
+
+3 - Os depósitos com capacidade superior a 7 hl devem ostentar placas identificadoras do seu conteúdo e capacidade e, no que concerne à capacidade, cumprir os requisitos previstos na regulamentação aplicável ao controlo metrológico legal daqueles instrumentos de medição, nomeadamente o Regulamento dos Reservatórios de Armazenamento de Instalação Fixa, aprovado pela Portaria n.º 1541/2007, de 6 de dezembro.
+
+4 - Sempre que nas mesmas instalações sejam elaborados vinhos ou produtos vínicos com as duas DO e ou com IG, todos da RDD, o IVDP, I. P., estabelece as condições em que deve decorrer a respectiva vinificação.
+
+5 - Em caso de coexistência dos diferentes produtos abrangidos pelo presente estatuto numa mesma instalação, os mesmos devem ser armazenados em recipientes devidamente identificados, permitindo um controlo fácil e eficiente.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 97/2020 - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2020-148599584), em vigor a partir de 2020-11-17
+
+###### Artigo 40.º — Uvas, mostos, vinhos, produtos vínicos ou afins não provenientes da RDD ou do EG
+
+1 - Salvo autorização do IVDP, I. P., e sem prejuízo da legislação aplicável à uva de mesa e ao consagrado no presente estatuto quanto aos mostos, é proibida a entrada na RDD ou no EG de uvas e mostos.
+
+2 - Sem prejuízo do disposto no n.º 9 do artigo 4.º, todos os vinhos e produtos vínicos ou afins não abrangidos pelo presente estatuto apenas podem entrar ou encontrar-se na RDD ou no EG mediante prévia autorização do IVDP, I. P., ficando sujeitos a um regime de contas correntes, sendo escrituradas pelo IVDP, I. P., todas as entradas e saídas de cada produto, estando ainda todos aqueles que os detenham obrigados a cumprir a regulamentação a emitir pelo referido instituto.
+
+3 - Aos vinhos e produtos vínicos ou afins abrangidos pelo presente artigo aplica-se, nos termos a regulamentar pelo IVDP, I. P., o disposto no n.º 5 do artigo anterior.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 41.º — Circulação e documentação de acompanhamento
+
+Os vinhos e produtos vínicos a que se refere o presente estatuto só podem ser postos em circulação e comercializados desde que sejam acompanhados da necessária documentação oficial.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+###### Artigo 42.º — Engarrafamento e rotulagem
+
+1 - O engarrafamento e acondicionamento para venda ou introdução no consumo de vinhos e produtos vínicos a que se refere o presente estatuto, bem como a respectiva rotulagem, só podem efectuar-se após aprovação dos referidos produtos e da sua rotulagem pelo IVDP, I. P.
+
+2 - É proibida a saída a granel de vinho do Porto e de vinho do Douro para o exterior da RDD e do EG, ficando proibida a saída desses produtos quando não hajam sido previamente engarrafados no interior dessas zonas geográficas.
+
+3 - No caso da DO «Douro», e cumpridas as garantias de defesa, certificação, controlo, proteção e prestígio da DO, o IVDP, I. P., pode autorizar o engarrafamento fora das áreas geográficas referidas no número anterior, desde que as entidades em causa à data de 26 de novembro de 2003 já engarrafassem fora daquelas zonas, ficando sujeitas a um regime especial de controlo nos termos a definir pelo IVDP, I. P.
+
+4 - Sem prejuízo da legislação aplicável, a rotulagem a utilizar nos vinhos e produtos vínicos abrangidos pelo presente estatuto tem de cumprir a regulamentação do IVDP, I. P.
+
+5 - A marca utilizada na designação e apresentação de vinhos com DO «Porto» ou «Douro» não pode ser usada na designação, apresentação, rotulagem e publicidade, por qualquer forma, de vinhos ou bebidas alcoólicas sem direito a DO ou IG.
+
+6 - A marca utilizada na designação e apresentação de vinhos com DO «Porto» ou «Douro» só pode ser usada na designação, apresentação, rotulagem ou publicidade, por qualquer forma, de outros vinhos ou bebidas alcoólicas com direito a DO ou IG se a marca se apresentar no mesmo campo visual e com a mesma dimensão da DO ou IG.
+
+7 - A natureza dos vedantes a utilizar no engarrafamento, o tipo e a dimensão da garrafa ou, no caso da DO «Douro» e da IG «Duriense», de outra forma de acondicionamento, são definidos pelo IVDP, I. P., e aprovados pelo conselho interprofissional.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 97/2020 - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2020-148599584), em vigor a partir de 2020-11-17
+
+###### Artigo 43.º — Selos de garantia
+
+1 - Os produtos abrangidos pelo presente estatuto só podem ser comercializados exibindo nos recipientes o respetivo selo de garantia, aprovado e emitido pelo IVDP, I. P., com modelos publicados na 2.ª série do Diário da República, e dimensões a estabelecer pelo IVDP, I. P., ouvido o conselho interprofissional.
+
+2 - Os selos de garantia são numerados sequencialmente, para permitirem um adequado controlo de utilização, podendo ainda conter outras marcas de controlo, a definir pelo IVDP, I. P.
+
+3 - [Revogado].
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6/2018 - Diário da República n.º 28/2018, Série I de 2018-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2018-114655027), em vigor a partir de 2018-02-09
+
+## Anexo I — (a que se refere o n.º 1 do artigo 3.º do estatuto)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+## Anexo II — (a que se refere o n.º 5 do artigo 4.º do estatuto)
+
+(ver documento original)
+
+Memória descritiva do EG
+
+Sistema de coordenadas: Datum 73 Hayford Gauss IGeoE.
+
+Descrição:
+
+Ponto A - cais Lugan/cais do Cavaco; limite mais a norte do EG (coordenadas - 157 670, 464 206 m). Entre os pontos A e B o limite segue a margem do rio Douro;
+
+Ponto B - Ponte do Infante D. Henrique. Entre o ponto B e o ponto C o limite segue uma linha paralela à margem do rio Douro, distando da mesma 500 m;
+
+Ponto C - início da Zona industrial de Avintes (limite nordeste da Zona Industrial). Entre os pontos C e D o limite segue o contorno da área industrial existente e da área industrial prevista de Avintes (limite este);
+
+Ponto D - limite sul da Zona industrial de Avintes é também o limite mais a sul do EG (coordenadas - 166 762, 456 344 m). Entre os pontos D e E o limite segue o contorno da área industrial existente e da área industrial prevista de Avintes (limite oeste);
+
+Ponto E - início da Zona industrial de Avintes (limite noroeste da Zona Industrial). Entre os pontos E e F o limite segue a Avenida de Vasco da Gama durante 1010 m;
+
+Ponto F - cruzamento da Avenida de Vasco da Gama com a Rua dos Pinhais Bastos. No ponto F o limite vira a norte e percorre a Rua dos Pinhais Bastos, seguindo depois pela Rua de 5 de Outubro, até ao cruzamento com a Rua do 1.º de Maio, seguindo por esta rua até entroncar na Rua de Cândido dos Reis;
+
+Ponto G - entroncamento da Rua do 1.º de Maio com a Rua de Cândido dos Reis. O limite segue do ponto G para o ponto H em linha recta (430 m);
+
+Ponto H - entroncamento da Rua de Santo António com a Rua da Balsa. No ponto H o limite percorre a Rua da Balsa até ao cruzamento da Rua do Senhor do Padrão, seguindo depois por esta até à Rua dos Febros, segue esta rua até entroncar na Rua da Azenha, seguindo por esta até entroncar novamente na Rua de 5 de Outubro. O limite do EG vira na direcção oeste e segue a Rua de 5 de Outubro, passando por baixo da A 20/IP 1 e seguindo até ao entroncamento desta rua com a Rua de Alexandre Herculano e a Rua de Santos Pousada. Daqui o limite segue a Rua de Santos Pousada até ao cruzamento desta com a Rua de José Bonaparte, vira a oeste e segue até ao fim da Rua de José Bonaparte que entronca na Rua das Lavandeiras que por sua vez entronca na Rua de Raimundo de Carvalho, segue esta rua até à Rotunda de Bartolomeu Dias e em seguida até a Rotunda de Diogo Cão;
+
+Ponto I - Rotunda de Diogo Cão. Do ponto I o limite segue para norte pela Avenida de D. João II, até cruzar com a Avenida dos Descobrimentos (cruzamento desnivelado), segue para oeste por esta rua até entroncar na Avenida do Infante D. Henrique, seguindo para sul por esta avenida, passando por cima da A 1/IC 2 até entroncar na Rua da Barreira, onde vira na direcção oeste. O limite segue a Rua da Barreira até ao entroncamento com a Rua dos Lagos onde vira a oeste e segue pela Rua dos Lagos até cruzar com a Avenida dos Descobrimentos, virando a norte e seguindo por esta avenida e passando por cima da A 1/IC 2, seguindo até ao nó da Avenida dos Descobrimentos;
+
+Ponto J - nó da Av. dos Descobrimentos. Do ponto J o limite segue para este no sentido da Rua de África, segue a Rua de África até ao cruzamento com a Rua de Latino Coelho, onde vira para norte e segue a Rua de Latino Coelho, no segundo cruzamento segue para noroeste até à Rua de Machado dos Santos. Esta rua passa por cima da linha ferroviária até entroncar na Rua da Bélgica, seguindo depois na direcção norte pela Rua Machado dos Santos, entroncando na Rua de Fernandes dos Anjos pela qual segue até à Rua de Vera Cruz, continuando nesta rua até ao cruzamento com a Rua de Alexandre Herculano, virando a oeste e seguindo por esta rua. No cruzamento da Rua de Alexandre Herculano com a Rua de Camilo Castelo Branco o limite vira na direcção norte e segue por esta até ao ponto L;
+
+Ponto L - passagem desnivelada da Rua de Camilo Castelo Branco com acesso à A 1. Este ponto liga em linha recta com o ponto A (210 m).
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2025 - Diário da República n.º 177/2025, Série I de 2025-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2025-935257200), em vigor a partir de 2025-09-20
+
+> Retificado pelo/a [Declaração de Rectificação n.º 71/2009 - Diário da República n.º 192/2009, Série I de 2009-10-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2009-491200), em vigor a partir de 2009-09-02

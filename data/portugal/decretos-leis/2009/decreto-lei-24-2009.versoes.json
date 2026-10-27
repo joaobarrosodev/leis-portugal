@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:602748:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-835640638",
+ "dre_path": "/dr/detalhe/decreto-lei/24-2009-602748",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-01-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835675930",
+    "835675931",
+    "835675932",
+    "835675933",
+    "835675934",
+    "835675935",
+    "835675936",
+    "835675937",
+    "835675938",
+    "835675939",
+    "835675940"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "835675930",
+    "835675931",
+    "835675942",
+    "835675933",
+    "835675943",
+    "835675935",
+    "835675936",
+    "835675937",
+    "835675938",
+    "835675939",
+    "835675940",
+    "835675941"
+   ]
+  },
+  {
+   "date": "2023-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835638817:por",
+     "title": "Decreto-Lei n.º 120-A/2023",
+     "published": "2023-12-22",
+     "dre_path": "/dr/detalhe/decreto-lei/120-a-2023-835638817"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "835675930",
+    "835675931",
+    "835675942",
+    "835675933",
+    "835675943",
+    "835675935",
+    "835675958",
+    "835675937",
+    "835675938",
+    "835675939",
+    "835675940",
+    "835675941"
+   ]
+  }
+ ],
+ "fragments": {
+  "835675930": {
+   "fragment_id": "835640639",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 24/2009\n\nde 21 de Janeiro\n\nO Estado tem recorrido à constituição de fundos de capitais públicos, destinados ao apoio, dinamização, modernização, revitalização ou desenvolvimento de diversos sectores de actividade, visando a agregação e gestão de recursos financeiros provenientes de diversas fontes e orientados para um mesmo objectivo, constituindo, nessa perspectiva, instrumentos relevantes na prossecução de políticas públicas.\n\nA constituição de um fundo para a reabilitação e conservação do património imobiliário do Estado é necessária dada a natureza dos imóveis que se integram num número significativo de entidades e serviços públicos, parte dos quais identificados como monumentos nacionais ou imóveis de interesse público e, em casos significativos, inseridos em zonas críticas centrais de variados centros urbanos, que importa reabilitar e dinamizar.\n\nNo entanto, a capacidade de mobilização financeira por parte dos serviços utilizadores tem-se demonstrado insuficiente, ou direccionada para outras prioridades internas igualmente tidas como pertinentes e fundamentais.\n\nO Decreto-Lei n.º 280/2007, de 7 de Agosto, diploma que corporiza a reforma do regime do património imobiliário público, veio consagrar o já instituído princípio da racionalização de uso do património do Estado, política que irá conduzir, designadamente à disponibilização de imóveis excedentários a alienar de acordo com as condições do mercado.\n\nAquele diploma veio ainda estabelecer o princípio da onerosidade da ocupação dos imóveis do Estado, o que reforça a necessidade e oportunidade de constituição de um fundo público destinado a apoiar a conservação e reabilitação dos imóveis do Estado.\n\nDe igual modo, o Programa de Gestão do Património Imobiliário do Estado, previsto no artigo 113.º do Decreto-Lei n.º 280/2007, de 7 de Agosto, e aprovado pela Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, preconiza a constituição de um fundo, no âmbito do Ministério das Finanças e da Administração Pública, com a natureza de património autónomo sem personalidade jurídica, tendo por objecto o financiamento de operações de reabilitação e de conservação dos imóveis do Estado, sem prejuízo do regime específico aplicável aos imóveis classificados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "835675931": {
+   "fragment_id": "835640640",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede à criação do Fundo de Reabilitação e Conservação Patrimonial, no âmbito do Ministério das Finanças e da Administração Pública, abreviadamente designado por Fundo, com a natureza de património autónomo sem personalidade jurídica, dotado de autonomia administrativa e financeira."
+  },
+  "835675932": {
+   "fragment_id": "835640641",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto e finalidade do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto e finalidade do Fundo\n\nO Fundo tem como objecto e finalidade o financiamento de operações de recuperação, de reconstrução, de reabilitação e de conservação dos imóveis da propriedade do Estado nas condições a definir por portaria do membro do Governo responsável pela área das finanças, a qual aprova também o respectivo regulamento de gestão."
+  },
+  "835675933": {
+   "fragment_id": "835640642",
+   "type": 11,
+   "heading": "Artigo 3.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capital\n\n1 - O Fundo tem o capital inicial de 10 milhões de euros, subscrito integralmente pelo Estado, através da Direcção-Geral do Tesouro e Finanças.\n\n2 - O capital do Fundo pode ser aumentado por despacho do membro do Governo responsável pela área das finanças, mediante proposta apresentada pela respectiva entidade gestora."
+  },
+  "835675934": {
+   "fragment_id": "835640643",
+   "type": 11,
+   "heading": "Artigo 4.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento\n\nO Fundo é financiado pelas seguintes receitas:\n\na) Até 50 % das receitas resultantes da alienação de bens imóveis do Estado, a fixar por despacho do membro do Governo responsável pela área das finanças, sem prejuízo das afectações de receita previstas na lei;\n\nb) Contrapartidas recebidas em virtude da implementação do princípio da onerosidade, previsto no artigo 4.º do Decreto-Lei n.º 280/2007, de 7 de Agosto, a fixar por despacho do membro do Governo responsável pela área das finanças;\n\nc) Comissões ou outros proveitos obtidos em resultado da sua actividade;\n\nd) Rendimentos provenientes de aplicações financeiras;\n\ne) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados."
+  },
+  "835675935": {
+   "fragment_id": "835640644",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despesas do Fundo\n\nConstituem despesas do Fundo as que resultem de encargos decorrentes da aplicação do presente decreto-lei."
+  },
+  "835675936": {
+   "fragment_id": "835640645",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissão directiva\n\n1 - O Fundo é gerido por uma comissão directiva, composta por três membros, à qual compete efectuar em nome e por conta do Fundo, as operações necessárias à realização do seu objecto, designadamente a selecção das operações a que se refere o artigo 2.º\n\n2 - Os membros da comissão directiva são nomeados por despacho do membro do Governo responsável pela área das finanças, não auferindo qualquer remuneração pelo exercício das suas funções e sendo o presidente, por inerência, o director-geral do Tesouro e Finanças.\n\n3 - O mandato dos membros da comissão directiva tem a duração de três anos.\n\n4 - A Direcção-Geral do Tesouro e Finanças presta à comissão directiva o apoio técnico, administrativo e logístico necessário ao respectivo funcionamento, podendo para o efeito adquirir os bens e serviços que se mostrem necessários.\n\n5 - Os montantes despendidos pela Direcção-Geral do Tesouro e Finanças nos termos do número anterior são considerados despesa do Fundo para efeitos do disposto no artigo anterior."
+  },
+  "835675937": {
+   "fragment_id": "835640646",
+   "type": 11,
+   "heading": "Artigo 7.º — Mobilização de saldos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mobilização de saldos\n\nPara efeitos da capitalização inicial do Fundo, são utilizados os saldos da Direcção-Geral do Tesouro e Finanças respeitantes a receitas provenientes de alienações e de rendas de imóveis auferidas em anos anteriores."
+  },
+  "835675938": {
+   "fragment_id": "835640647",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlo e fiscalização\n\nSem prejuízo das competências legalmente atribuídas a outras entidades, o controlo e fiscalização da gestão do Fundo são exercidos pela Inspecção-Geral de Finanças."
+  },
+  "835675939": {
+   "fragment_id": "835640648",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO acto regulamentar previsto no artigo 2.º é aprovado por portaria do membro do Governo responsável pela área das finanças, no prazo de 30 dias a contar da data da entrada em vigor do presente decreto-lei."
+  },
+  "835675940": {
+   "fragment_id": "835640649",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "835675942": {
+   "fragment_id": "835640641",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto e finalidade do Fundo",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 170.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto e finalidade do Fundo\n\nO Fundo tem como objeto e finalidade o financiamento de operações de recuperação, de reconstrução, de ampliação, de adaptação, de reabilitação e de conservação dos imóveis da propriedade do Estado, nas condições a definir por portaria do membro do Governo responsável pela área das finanças, a qual aprova também o respetivo regulamento de gestão.\n\n> Alterado pelo/a Artigo 170.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "835675943": {
+   "fragment_id": "835640643",
+   "type": 11,
+   "heading": "Artigo 4.º — Fontes de financiamento",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 170.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento\n\nO Fundo é financiado pelas seguintes receitas:\n\na) Até 50 % das receitas resultantes da alienação e do arrendamento de bens imóveis do Estado, a fixar por despacho do membro do Governo responsável pela área das finanças, sem prejuízo das afetações de receita previstas na lei;\n\nb) Contrapartidas recebidas em virtude da implementação do princípio da onerosidade, previsto no artigo 4.º do Decreto-Lei n.º 280/2007, de 7 de Agosto, a fixar por despacho do membro do Governo responsável pela área das finanças;\n\nc) Comissões ou outros proveitos obtidos em resultado da sua actividade;\n\nd) Rendimentos provenientes de aplicações financeiras;\n\ne) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados.\n\n> Alterado pelo/a Artigo 170.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "835675941": {
+   "fragment_id": "835640650",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.\n\nPromulgado em 13 de Janeiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de Janeiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "835675958": {
+   "fragment_id": "835640645",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissão directiva",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23, produz efeitos a partir de 2023-07-25"
+   ],
+   "markdown": "###### Artigo 6.º — Comissão directiva\n\n1 - O Fundo é gerido por uma comissão directiva, composta por três membros, à qual compete efectuar em nome e por conta do Fundo, as operações necessárias à realização do seu objecto, designadamente a selecção das operações a que se refere o artigo 2.º\n\n2 - Os membros da comissão diretiva são, por inerência:\n\na) O presidente do conselho de administração da ESTAMO - Participações Imobiliárias, S. A., que preside;\n\nb) O vice-presidente do conselho de administração da ESTAMO - Participações Imobiliárias, S. A.;\n\nc) O vogal financeiro do conselho de administração da ESTAMO - Participações Imobiliárias, S. A.\n\n3 - O mandato dos membros da comissão directiva tem a duração de três anos.\n\n4 - A ESTAMO - Participações Imobiliárias, S. A., presta à comissão diretiva o apoio técnico, administrativo e logístico necessário ao respetivo funcionamento, podendo para o efeito adquirir os bens e serviços que se mostrem necessários.\n\n5 - Os montantes despendidos pela ESTAMO - Participações Imobiliárias, S. A., nos termos do número anterior são considerados despesa do Fundo para efeitos do disposto no artigo anterior.\n\n6 - Os membros da comissão diretiva não auferem qualquer remuneração pelo exercício das suas funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23, produz efeitos a partir de 2023-07-25"
+  }
+ }
+}

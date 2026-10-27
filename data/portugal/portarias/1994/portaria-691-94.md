@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:298218:por
+title: Portaria n.º 691/94
+short_title: null
+summary: Ratifica o Plano de Pormenor - Localização de terrenos para comércio de grande superfície na zona da Azeda, no município
+  de Setúbal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 691/94
+official_date: null
+publication_date: '1994-07-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/1994, Série I-B de 1994-07-23
+  number: '169'
+  series: I
+  supplement: null
+  pages: 4081 - 4082
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/07/169b00/40814082.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/691/1994/07/23/p/dre/pt/html
+  oj: null
+  dre: '298218'
+  dre_path: /dr/detalhe/portaria/691-1994-298218
+  internal: pt:dre:298218:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/691-1994-298218
+  metadata_url: https://data.dre.pt/eli/port/691/1994/07/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/691-1994-298218
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2fb334924c58f58f42630841ab27750698b84df92d6b6263ce2300ca3a7f23a5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:35:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Política de Solos
+relationships:
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584256:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/258/1992/11/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:35:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 691/94
+
+de 23 de Julho
+
+Considerando que a Assembleia Municipal de Setúbal aprovou, em 12 de Novembro de 1993 e 29 de Abril de 1994, o Plano de Pormenor - Localização de terrenos para comércio de grande superfície na zona da Azeda, em Setúbal;
+
+Considerando que este Plano visa introduzir uma alteração ao uso previsto nas Normas Provisórias do Plano Director Municipal de Setúbal, publicadas no Diário da República, 2.ª série, n.º 219, de 22 de Setembro de 1992, por forma a viabilizar o funcionamento na zona de uma grande superfície comercial e o aumento da área de vendas, nos termos do disposto no [Decreto-Lei n.º 258/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1992-584256), de 20 de Novembro;
+
+Considerando que foi realizado o inquérito público, nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março;
+
+Considerando os pareceres favoráveis da Comissão de Coordenação da Região de Lisboa e Vale do Tejo, da Direcção Regional de Indústria e Energia de Lisboa e Vale do Tejo e da Direcção-Geral de Ordenamento do Território e os certificados emitidos pela Direcção Regional de Agricultura do Ribatejo e Oeste e pela Delegação Regional do Ambiente e Recursos Naturais de Lisboa e Vale do Tejo;
+
+Considerando que se verificou a conformidade formal do Plano de Pormenor com as demais disposições legais e regulamentares em vigor, a sua articulação com os planos municipais eficazes e com os outros planos, programas e projectos de interesse para o município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março;
+
+Ao abrigo do n.º 4 do artigo 3.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e da delegação de competências conferida pelo Despacho n.º 52/93 do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 226, de 25 de Setembro de 1993:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, o seguinte:
+
+1.º É ratificado o Plano de Pormenor - Localização de terrenos para comércio de grande superfície na zona da Azeda, no município de Setúbal, cujo regulamento e planta de síntese (extracto das Normas Provisórias) se publicam em anexo à presente portaria, dela fazendo parte integrante.
+
+2.º Ficam alteradas as Normas Provisórias do Plano Director Municipal de Setúbal, nos termos do presente Plano de Pormenor.
+
+3.º O Plano Director Municipal de Setúbal, em elaboração, regulamentará, com a sua entrada em vigor, a área em causa, revogando os parâmetros agora definidos que se revelarem, eventualmente, desconformes.
+
+Ministério do Planeamento e da Administração do Território.
+
+Assinada em 8 de Junho de 1994.
+
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
+
+Localização de terrenos para comércio de grande superfície na zona da Azeda Plano de Pormenor
+
+Regulamento
+
+Artigo 1.º O presente Plano de Pormenor tem como objectivo a alteração do uso da área urbanizável identificada nas plantas anexas, por forma a aplicar-se o disposto no [Decreto-Lei n.º 258/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1992-584256), de 20 de Novembro, relativamente a instalações de grandes superfícies comerciais.
+
+Art. 2.º Na área abrangida pelo presente Plano de Pormenor aplicar-se-ão os seguintes condicionamentos urbanísticos:
+
+Índice máximo de utilização bruto - 0,7;
+
+Cérceas - a altura das edificações não poderá exceder 25 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/169b00/40814082.pdf)

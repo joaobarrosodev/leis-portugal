@@ -1,0 +1,299 @@
+---
+schema_version: '1.0'
+id: pt:dre:513001:por
+title: Decreto-Lei n.º 52/97
+short_title: null
+summary: Estabelece as competências e o funcionamento do Conselho Superior de Desporto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 52/97
+official_date: null
+publication_date: '1997-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/1997, Série I-A de 1997-03-04
+  number: '53'
+  series: I
+  supplement: null
+  pages: 954 - 955
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/03/053a00/09540955.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-10-01'
+version_history:
+  file: decreto-lei-52-97.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1997-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-12-25'
+    amending: pt:dre:536643:por
+    amending_title: Decreto-Lei n.º 336/2001
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+  - date: '2007-10-01'
+    amending: pt:dre:642197:por
+    amending_title: Decreto-Lei n.º 315/2007
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/52/1997/p/cons/20070918/pt/html
+  oj: null
+  dre: '513001'
+  dre_path: /dr/detalhe/decreto-lei/52-1997-513001
+  internal: pt:dre:513001:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1997-513001
+  metadata_url: https://data.dre.pt/eli/dec-lei/52/1997/p/cons/20070918/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-865037092
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-865037092
+  retrieved_at: '2026-10-22T13:09:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 560945de110b9becc61534bbc5d4514592a23ca5910e077f3dcc1e61e2c9c51e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:09:02Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-52-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Superior do Desporto
+- Orgânica
+- Desporto
+relationships:
+- type: amended_by
+  target: pt:dre:536643:por
+  label: Altera Artigo 3.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-2001-536643
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:642197:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197
+  date: '2007-09-18'
+- type: cites
+  target: pt:dre:427631:por
+  label: null
+  source: http://data.dre.pt/eli/lei/19/1996/06/25/p/dre
+- type: cites
+  target: pt:dre:665351:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/145/1993/04/26/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:09:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 52/97
+
+Decreto-Lei n.º 52/97
+
+de 4 de Março
+
+O Conselho Superior de Desporto é o órgão que funciona junto do membro do Governo responsável pela área do desporto, reunindo as diferentes sensibilidades do desporto português, que acompanha a evolução e desenvolvimento do sistema desportivo.
+
+As alterações introduzidas à Lei de Bases do Sistema Desportivo através da Lei n.º 19/96, de 25 de Junho, bem como a necessidade de tornar mais flexível a actuação do Conselho, a par da experiência entretanto colhida, aconselha a revisão do Decreto-Lei n.º 145/93, de 26 de Abril, por forma a permitir a concretização dos objectivos propostos.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 1/90, de 13 de Janeiro, com a nova redacção dada pela Lei n.º 19/96, de 25 de Junho, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece a natureza, a composição, as competências e o funcionamento do Conselho Superior de Desporto, adiante designado por Conselho.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+###### Artigo 2.º — Natureza e objectivos
+
+O Conselho funciona junto do membro do Governo responsável pela área do desporto, cabendo-lhe acompanhar a evolução do sistema desportivo e, sempre que solicitado, pronunciar-se sobre as linhas orientadoras da política desportiva nacional.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+###### Artigo 3.º — Composição
+
+1 - O Conselho tem a seguinte composição:
+
+a) Um representante do membro do Governo responsável pela área do desporto, que preside, com voto de qualidade;
+
+b) Um representante do Instituto do Desporto, a designar pelo membro do Governo responsável pela área do desporto, que substitui o presidente nas suas faltas, ausências ou impedimentos;
+
+c) Um representante do Comité Olímpico de Portugal;
+
+d) Um representante da Fundação do Desporto;
+
+e) Um representante da Confederação do Desporto de Portugal;
+
+f) Um representante de cada uma das federações unidesportivas em que se disputem competições desportivas de natureza profissional, bem como das respectivas ligas profissionais, constituídas nos termos da Lei de Bases do Sistema Desportivo;
+
+g) Um representante do Clube Nacional de Imprensa Desportiva;
+
+h) Um representante do Gabinete Coordenador do Desporto Escolar;
+
+i) Um representante das instituições de ensino superior que leccionem cursos no âmbito do desporto, a designar pelo Conselho de Reitores das Universidades Portuguesas;
+
+j) Um representante da Confederação Portuguesa das Associações de Treinadores;
+
+l) Um representante das organizações sindicais de praticantes desportivos profissionais;
+
+m) Um representante do Instituto Nacional para Aproveitamento dos Tempos Livres dos Trabalhadores;
+
+n) Um representante de cada uma das Regiões Autónomas, nomeados pelos Governos Regionais;
+
+o) Um representante da Associação Nacional de Municípios Portugueses;
+
+p) Um representante da modalidade desportiva individual olímpica mais representativa;
+
+q) Seis pessoas de reconhecido mérito no âmbito da actividade desportiva, a designar pelo membro do Governo responsável pela área do desporto.
+
+2 - Sempre que exista mais de uma organização sindical de praticantes desportivos profissionais, o representante referido na alínea l) do número anterior é designado pelo Comité Olímpico de Portugal, em regime de rotatividade, de entre as organizações existentes.
+
+3 - O representante previsto na alínea p) do n.º 1 do presente artigo é designado pelo Comité Olímpico de Portugal.
+
+4 - A representação das federações unidesportivas mencionadas na alínea f) do n.º 1 do presente artigo será feita pelos respectivos presidentes.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 336/2001 - Diário da República n.º 296/2001, Série I-A de 2001-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-2001-536643), em vigor a partir de 2001-12-25
+
+###### Artigo 4.º — Garantias dos membros do Conselho
+
+1 - É garantido aos membros do Conselho que não sejam representantes de entidades públicas o direito, por participação nas reuniões, a senhas de presença, em montante e condições a fixar por despacho conjunto do Ministro das Finanças, do membro do Governo responsável pela área do desporto e do membro do Governo responsável pela Administração Pública, e, bem assim, a subsídio de viagem e ajudas de custo, nos termos da lei.
+
+2 - Os membros do Conselho que representem entidades públicas têm direito, por participação nas reuniões, a subsídio de viagem e a ajudas de custo, nos termos da lei.
+
+3 - As faltas dadas pelos membros do Conselho por motivo do exercício efectivo de funções consideram-se justificadas.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+###### Artigo 5.º — Competências
+
+1 - Compete, especialmente, ao Conselho:
+
+a) Emitir pareceres, a pedido do membro do Governo responsável pela área do desporto, sobre o desenvolvimento da política desportiva;
+
+b) Pronunciar-se sobre os projectos legislativos relativos a matérias de desporto que sejam submetidos a parecer pelo membro do Governo referido na alínea anterior;
+
+c) Dar parecer sobre os princípios da política a desenvolver para o desporto de alta competição;
+
+d) Propor a adopção de medidas com vista a assegurar a observância dos princípios da ética desportiva;
+
+e) Pronunciar-se sobre as medidas a adoptar no âmbito da formação de quadros desportivos na via não académica;
+
+f) Pronunciar-se, quando solicitado, sobre cooperação e intercâmbio desportivos a nível internacional, designadamente com os países de língua oficial portuguesa;
+
+g) Reconhecer o carácter profissional das competições desportivas, em cada modalidade;
+
+h) Desencadear, por sua iniciativa, o processo de cancelamento do estatuto de utilidade pública desportiva atribuído a uma federação;
+
+i) Exercer as competências que lhe são atribuídas por lei.
+
+2 - Os pareceres, propostas e recomendações emitidos pelo Conselho no exercício das suas competências são remetidos ao membro do Governo responsável pela área do desporto.
+
+3 - O Conselho elabora um relatório anual de actividades, que apresenta ao membro do Governo referido no número anterior.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+###### Artigo 6.º — Mandatos
+
+1 - O mandato dos membros do Conselho tem a duração de três anos.
+
+2 - Os membros do Conselho tomam posse perante o membro do Governo responsável pela área do desporto.
+
+3 - No caso de vacatura de algum lugar, por morte, impedimento ou renúncia, o membro substituto deve ser designado nos 30 dias seguintes ao facto que a originou, completando o tempo de mandato do membro substituído.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+###### Artigo 7.º — Apoio
+
+Cabe ao Instituto do Desporto fornecer o apoio técnico, logístico e material que se mostre necessário ao funcionamento do Conselho, nos termos a definir por despacho do membro do Governo responsável pela área do desporto.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+###### Artigo 8.º — Funcionamento
+
+1 - O Conselho funciona em plenário.
+
+2 - O Conselho elabora e aprova o seu regimento no prazo de 90 dias a contar da data da tomada de posse dos membros que o compõem.
+
+3 - Sempre que for entendido conveniente, podem ser convidadas, para participar em reuniões, outras entidades ou individualidades que não integrem a composição do Conselho, sem direito a voto.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+###### Artigo 9.º — Reuniões
+
+1 - O Conselho reúne, ordinariamente, de três em três meses.
+
+2 - O Conselho reúne, extraordinariamente, por iniciativa do membro do Governo responsável pela área do desporto, do presidente ou a requerimento de, pelo menos, dois terços dos seus membros.
+
+3 - O membro do Governo responsável pela área do desporto ou, em sua representação, quem este designar, pode estar presente nas reuniões do Conselho, cabendo-lhe então a presidência, sem direito a voto.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 336/2001 - Diário da República n.º 296/2001, Série I-A de 2001-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-2001-536643), em vigor a partir de 2001-12-25
+
+###### Artigo 10.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 145/93, de 26 de Abril.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+###### Artigo 11.º — Disposição final e transitória
+
+À data da entrada em vigor do presente diploma cessa o mandato dos membros que actualmente compõem o Conselho Superior de Desporto.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01
+
+Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 17 de Fevereiro de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 18 de Fevereiro de 1997.
+
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 315/2007 - Diário da República n.º 180/2007, Série I de 2007-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2007-642197), em vigor a partir de 2007-10-01

@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:333152:por
+title: Decreto-Lei n.º 109/90
+short_title: null
+summary: Reformula o regime de exclusivo previsto na base II anexa ao Decreto-Lei n.º 208/87, de 18 de Maio, permitindo, designadamente,
+  aos comerciantes de pescado o fabrico de gelo em instalações próprias para auto-abastecimento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 109/90
+official_date: null
+publication_date: '1990-04-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 78/1990, Série I de 1990-04-03
+  number: '78'
+  series: I
+  supplement: null
+  pages: 1581 - 1581
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/04/07800/15811581.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '333152'
+  dre_path: /dr/detalhe/decreto-lei/109-1990-333152
+  internal: pt:dre:333152:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1990-333152
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1990-333152
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ee749ace9ad124b08d2fb6f56ef137913abc91998a29f0d54eaaee6463df071a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:57:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- GELO
+- Licenciamento
+- Pesca
+- Pescado
+- Porto de Pesca
+- TAXA de Utilização
+relationships:
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421462:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:57:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 109/90
+
+de 3 de Abril
+
+O [Decreto-Lei n.º 208/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1987-421462), de 18 de Maio, veio autorizar as juntas autónomas dos portos do continente a celebrar, no seguimento de concurso público, contratos de concessão de construção e exploração, em regime de serviço público e de exclusivo, de instalações de fabrico de gelo destinado às embarcações de pesca nos portos sob sua jurisdição.
+
+Aos comerciantes de pescado de cada porto sempre foi, contudo, permitido, desde que o quisessem, implantar instalações para fabrico de gelo para consumo próprio, procedimento que se tem revelado aconselhável.
+
+Nos termos do Regulamento de Tarifas das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 291/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1979-377542), de 16 de Agosto, a cedência de espaço dentro da zona dos portos para o exercício de actividades pode ser objecto de licença, sujeita ao pagamento de uma taxa, a fixar pela respectiva administração portuária.
+
+Há, pois, que institucionalizar a prática que a experiência demonstrou ser a mais correcta, tornando-se necessário reformular o regime estabelecido pelo [Decreto-Lei n.º 208/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1987-421462), de forma que o exclusivo atribuído à concessionária abranja não só a fabricação e fornecimento de gelo às embarcações de pesca, mas também a qualquer interessado, sem coarctar, no entanto, aos comerciantes de pescado o direito ao fabrico de gelo para consumo próprio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo único. A base II anexa ao [Decreto-Lei n.º 208/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1987-421462), de 18 de Maio, passa a ter a seguinte redacção:
+
+BASE II
+
+Exclusivo
+
+1 - Na zona do porto de ... é atribuído à concessionária, com o contrato de concessão, o exclusivo de fabricação, comercialização e fornecimento de gelo.
+
+2 - O regime de exclusivo referido no número anterior não prejudica o fabrico de gelo, nas instalações dos comerciantes de pescado dentro das zonas dos portos, para consumo próprio, mediante o pagamento de uma taxa e sujeito a limites de capacidade de produção, a fixar pela autoridade portuária respectiva.
+
+Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1990. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
+
+Promulgado em 22 de Março de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 24 de Março de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

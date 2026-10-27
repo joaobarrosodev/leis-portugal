@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0112:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0112-20090915",
+ "dre_path": null,
+ "source_lastmod": "2009-09-15",
+ "versions": [
+  {
+   "date": "2009-08-26",
+   "future": false,
+   "celex": "32009L0112",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f8f7134e83cd3197",
+    "a737a8389c046657",
+    "1598d2b213d64381",
+    "836e7a692c1935f7",
+    "4a761425fcf9f49d"
+   ]
+  }
+ ],
+ "fragments": {
+  "f8f7134e83cd3197": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Agosto de 2009\n\nque altera a Directiva 91/439/CEE do Conselho relativa à carta de condução\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/439/CEE do Conselho, de 29 de Julho de 1991, relativa à carta de condução [([^1])](http://publications.europa.eu/resource/cellar/16519e03-daac-42f5-8991-87b5b49be4f6.0018.02/DOC_1#ntr1-L_2009223PT.01002601-E0001), nomeadamente o n.º 2 do artigo 7.ºA,\n\nConsiderando o seguinte:\n\n(1) Os requisitos mínimos aplicáveis à aptidão para a condução não estão totalmente harmonizados. Os Estados-Membros podem impor normas mais severas que as normas mínimas europeias, como previsto no anexo III, ponto 5, da Directiva 91/439/CEE.\n\n(2) Atendendo a que a existência de diferentes requisitos em diferentes Estados-Membros pode afectar o princípio da livre circulação, o Conselho, na sua resolução de 26 de Junho de 2000, determinou especificamente que as normas médicas aplicáveis à emissão da carta de condução estabelecidas no anexo III da Directiva 91/439/CEE fossem revistas.\n\n(3) À luz dessa resolução do Conselho, a Comissão recomendou que fosse realizado um trabalho a médio e longo prazo para adaptar o anexo III ao progresso científico e técnico, conforme previsto no n.º 2 do artigo 7.ºA da Directiva 91/439/CEE.\n\n(4) As deficiências visuais, a diabetes e a epilepsia foram identificadas como problemas de saúde que afectam a aptidão para a condução e que devem ser tidos em conta; para o efeito, foram criados grupos de trabalho constituídos por especialistas nomeados pelos Estados-Membros.\n\n(5) Esses grupos de trabalho elaboraram relatórios destinados a actualizar os pontos pertinentes do anexo III da Directiva 91/439/CEE.\n\n(6) A Directiva 91/439/CEE deve, portanto, ser alterada em conformidade.\n\n(7) As medidas previstas na presente directiva estão conformes com o parecer do Comité da Carta de Condução,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a737a8389c046657": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo III da Directiva 91/439/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "1598d2b213d64381": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar um ano após a sua entrada em vigor. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "836e7a692c1935f7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 25 de Agosto de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "4a761425fcf9f49d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/16519e03-daac-42f5-8991-87b5b49be4f6.0018.02/DOC_1#ntc1-L_2009223PT.01002601-E0001) [JO L 237 de 24.8.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_237_R_TOC)."
+  }
+ }
+}

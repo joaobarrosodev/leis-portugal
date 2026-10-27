@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:1034780340:por
+title: Portaria n.º 58-A/2026/1
+short_title: null
+summary: Procede à atualização do valor de referência anual da componente base, do valor de referência anual do complemento
+  da prestação social para a inclusão e do limite máximo anual de acumulação da componente base com rendimentos de trabalho.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 58-A/2026/1
+official_date: null
+publication_date: '2026-02-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 23/2026, Suplemento, Série I de 2026-02-03
+  number: '23'
+  series: I
+  supplement: null
+  pages: 2 - 3
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/02301/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/58-a/2026/02/03/p/dre/pt/html
+  oj: null
+  dre: '1034780340'
+  dre_path: /dr/detalhe/portaria/58-a-2026-1034780340
+  internal: pt:dre:1034780340:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-a-2026-1034780340
+  metadata_url: https://data.dre.pt/eli/port/58-a/2026/02/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-a-2026-1034780340
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e43077fa6ef18d1265d723485da87b4eeb1133e973c32e651b409d5baacbce48
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acumulação de Prestações Sociais
+- Deficiente
+- Pessoa em Situação de Dependência
+- Prestação Social para a Inclusão
+- Prestações da Segurança Social
+- Proteção Social
+- Regulamentação de Atos Legislativos
+- Segurança Social
+- Valor de Referência
+relationships:
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126-a/2017/10/06/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/33/2018/05/15/p/dre
+- type: cites
+  target: pt:dre:124500726:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/2019/09/06/p/dre
+- type: cites
+  target: pt:dre:156720777:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/2021/02/08/p/dre
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53-b/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: http://data.dre.pt/eli/lei/45-a/2024/12/31/p/dre
+- type: cites
+  target: pt:dre:910888301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913223400:por
+  label: null
+  source: http://data.dre.pt/eli/lei/40/2025/04/01/p/dre
+- type: cites
+  target: pt:dre:993056222:por
+  label: null
+  source: http://data.dre.pt/eli/port/480-a/2025/12/30/p/dre
+- type: cites
+  target: pt:dre:993056225:por
+  label: null
+  source: http://data.dre.pt/eli/port/480-d/2025/
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:31:08Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 58-A/2026/1
+
+de 3 de fevereiro
+
+Na continuidade das políticas sociais de melhoria das prestações sociais dirigidas às pessoas com deficiência, o XXV Governo Constitucional, procede ao reforço da proteção social e do combate da situação de pobreza das pessoas com deficiência, atualizando o valor de referência anual da componente base, do complemento e do limite máximo anual de acumulação da componente base com rendimentos de trabalho da prestação social para a inclusão (PSI), definida e regulamentada pelo [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, alterado pela [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, pelos Decretos-Leis n.os[33/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), de 15 de maio, [136/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), de 6 de setembro, e [11/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2021-156720777), de 8 de fevereiro e pelas Leis n.os [45-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), de 31 de dezembro e [40/2025](https://diariodarepublica.pt/dr/detalhe/lei/40-2025-913223400) de 1 de abril.
+
+No n.º 2 do artigo 18.º do referido decreto-lei prevê a atualização anual do valor da referência anual da componente base, nos termos previstos no n.º 2 do artigo 6.º da [Lei n.º 53-B/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-b-2006-197489), de 29 de dezembro, na sua redação atual, sendo que este remete para a forma de atualização do indexante dos apoios sociais (IAS), prevista no n.º 1 do artigo 5.º da referida lei, pelo que o valor anual da componente base da PSI para 2026 é atualizado em 2,80 %, conforme [Portaria n.º 480-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/480-a-2025-993056222), de 30 de dezembro, passando para 4003,68 €.
+
+O valor de referência anual do complemento da prestação social para a inclusão é, por força do artigo 22.º-A do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, na redação atual, equivalente ao valor de referência anual do complemento solidário para idosos, pelo que o seu valor é atualizado para 8040,00 €, conforme [Portaria n.º 480-D/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/480-d-2025-993056225), de 30 de dezembro.
+
+Por sua vez, o artigo 20.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, prevê a atualização do limite máximo anual de acumulação da componente base com rendimentos de trabalho. A definição deste limite tem como referencial o valor do mínimo de existência, definido pelo artigo 70.º do Código do Imposto sobre o Rendimento das Pessoas Singulares.
+
+Assim:
+
+Manda o Governo, pelo Ministro de Estado e das Finanças e pela Ministra do Trabalho, Solidariedade e Segurança Social, nos termos do disposto nos artigos 18.º, 20.º e 21.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, na redação atual, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à atualização do valor de referência anual da componente base, do valor de referência anual do complemento da prestação social para a inclusão e do limite máximo anual de acumulação da componente base com rendimentos de trabalho.
+
+###### Artigo 2.º — Valor de referência anual da componente base
+
+O valor de referência anual da componente base da prestação social para a inclusão é atualizado nos termos do disposto no n.º 2 do artigo 18.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, pela aplicação da percentagem de atualização do IAS, ou seja, 2,80 %, fixando-se para o ano de 2026 em 4003,68 €.
+
+###### Artigo 3.º — Valor de referência anual do complemento
+
+O valor de referência anual do complemento da prestação social para a inclusão previsto no artigo 21.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, é fixado para o ano de 2026 em 8040,00 €.
+
+###### Artigo 4.º — Limite máximo anual de acumulação da componente base com rendimentos de trabalho
+
+O limite máximo anual de acumulação da componente base da prestação social para a inclusão com rendimentos, nas situações em que existam rendimentos de trabalho, previsto no artigo 20.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, é fixado para o ano de 2026 em 12 880,00 €.
+
+###### Artigo 5.º — Norma revogatória
+
+É revogada a [Portaria n.º 113/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/113-2025-910888301), de 14 de março.
+
+###### Artigo 6.º — Produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do dia 1 de janeiro de 2026.
+
+O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 30 de janeiro de 2026. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho, em 14 de janeiro de 2026.
+
+119947558

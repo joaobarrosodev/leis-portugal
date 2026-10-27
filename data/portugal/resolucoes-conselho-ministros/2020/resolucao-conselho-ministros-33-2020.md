@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:132431978:por
+title: Resolução do Conselho de Ministros n.º 33/2020
+short_title: null
+summary: Autoriza a realização da despesa relativa à celebração do contrato relativo à gestão e prestação de cuidados de saúde
+  no Hospital de Cascais
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 33/2020
+official_date: null
+publication_date: '2020-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/2020, Série I de 2020-04-24
+  number: '81'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/04/08100/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-04-24'
+version_history:
+  file: resolucao-conselho-ministros-33-2020.versoes.json
+  count: 1
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/33/2020/04/24/p/dre/pt/html
+  oj: null
+  dre: '132431978'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/33-2020-132431978
+  internal: pt:dre:132431978:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-2020-132431978
+  metadata_url: https://data.dre.pt/eli/resolconsmin/33/2020/04/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2020-181656154
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2020-181656154
+  retrieved_at: '2026-10-22T12:50:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d07023f37310a4de3f90a608f73e95d5444a9ced9ea44c39df04dcfe62e82829
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:50:01Z'
+  notes: 1 versão(ões); histórico completo em resolucao-conselho-ministros-33-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Contrato
+- Parceria Público-Privada
+- Parcerias Saúde
+- Cuidados Médicos
+- Estabelecimento Hospitalar
+- Cascais
+relationships:
+- type: cites
+  target: pt:dre:126870686:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/170/2019/12/04/p/dre
+- type: cites
+  target: pt:dre:129793719:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10/2020/03/03/p/dre
+- type: cites
+  target: pt:dre:130399855:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/16/2020/03/19/p/dre
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:50:01Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 33/2020
+
+Resolução do Conselho de Ministros n.º 33/2020
+
+Sumário: Autoriza a realização da despesa relativa à celebração do contrato relativo à gestão e prestação de cuidados de saúde no Hospital de Cascais.
+
+Mediante o Despacho n.º 8300/2016, publicado no Diário da República, 2.ª série, n.º 121, de 27 de junho de 2016, foi determinada a constituição de uma equipa de projeto com o objetivo de identificar e avaliar tecnicamente os diferentes modelos passíveis de ser adotados para garantir a continuidade da prestação dos cuidados de saúde, após o término do contrato de gestão do Hospital de Cascais, na parte relativa à sua gestão clínica, e, de entre esses modelos, aquele que, do ponto de vista técnico, jurídico e económico-financeiro, deve ser o modelo a adotar com vista à melhor prossecução do interesse público.
+
+Posteriormente, com base no estudo apresentado por essa equipa, através do Despacho n.º 1041-A/2017, publicado no Diário da República, 2.ª série, n.º 19, de 26 de janeiro de 2017, foi adotada decisão intercalar de lançamento de uma nova parceria público-privada (PPP) como modelo preferencial, com vista à melhor prossecução do interesse público, determinando-se a prossecução dos passos subsequentes para o estudo e preparação desse lançamento, nos termos do Decreto-Lei n.º 111/2012, de 23 de maio.
+
+Na sequência dessa decisão, foi apresentada pela Administração Central do Sistema de Saúde, I. P., uma proposta fundamentada, nos termos do artigo 9.º do Decreto-Lei n.º 111/2012, de 23 de maio, indicando, nomeadamente, o objeto da parceria, os objetivos que se pretendiam alcançar, a sua fundamentação económica e a respetiva viabilidade financeira do projeto. Esta proposta fundamentada foi aprovada pelo Secretário de Estado da Saúde, a 13 de novembro de 2017, e, posteriormente, enviada pelo Secretário de Estado Adjunto e das Finanças para a equipa de projeto, com vista ao início dos trabalhos de estruturação de uma nova PPP para a gestão clínica do Hospital de Cascais.
+
+Entretanto, com a entrada em vigor do Decreto-Lei n.º 170/2019, de 4 de dezembro, foi aprovada a Resolução do Conselho de Ministros n.º 10/2020, de 3 de março, que confirmou a manutenção dos pressupostos do lançamento e da adjudicação da nova parceria para a gestão clínica do Hospital de Cascais, vigentes na data de início dos trabalhos de estruturação daquela, bem como todos os atos anteriormente praticados no âmbito do procedimento de estruturação e lançamento da parceria.
+
+Nessa sequência, a equipa de projeto, em 5 de março de 2020, submeteu aos membros do Governo responsáveis pelas áreas das finanças e da saúde, nos termos e para os efeitos do artigo 14.º do Decreto-Lei n.º 111/2012, de 23 de maio, um relatório final, completo e fundamentado relativo ao estudo e preparação do lançamento de uma parceria para a gestão e prestação de cuidados de saúde no Hospital de Cascais, propondo a respetiva aprovação, bem como a prossecução dos passos subsequentes para a aprovação do lançamento da parceria e do respetivo procedimento pré-contratual.
+
+De acordo com os estudos acima mencionados, o modelo de parceria apresenta-se, neste caso concreto, como o modelo que permite uma maior eficiência técnica e operacional e uma maior racionalidade económica e financeira, sem prejudicar a qualidade dos cuidados de saúde a prestar, apresentando, consequentemente, mais benefícios para o setor público.
+
+Importa salientar que na preparação desta nova parceria foram consideradas e refletidas a evolução havida e a experiência entretanto adquirida na área, quer da saúde, quer das PPP, e introduzidas as clarificações e os desenvolvimentos tidos por convenientes e corrigindo aquilo que foi sendo identificado nos anteriores contratos de gestão como menos adequado, como também foram introduzidas as alterações tidas por necessárias, para adaptar esta nova parceria às mais recentes decisões do Ministério da Saúde quanto ao modo de prestação dos cuidados de saúde e quanto à organização daqueles nos concelhos abrangidos pela área de influência do Hospital de Cascais.
+
+A título de exemplo, esta nova parceria prevê, para além da prestação de todos os serviços contemplados no atual contrato de gestão do Hospital de Cascais, na parte relativa à gestão clínica, (i) um alargamento do perfil assistencial através da inclusão das especialidades de oncologia médica, de doenças infeciosas e de psiquiatria da infância e da adolescência, (ii) a integração da atividade de psiquiatria comunitária na prestação de cuidados de saúde de psiquiatria e a criação do Serviço de Psiquiatria da Infância e da Adolescência e (iii) o alargamento da área de influência, passando a ser abrangida por este Hospital a população residente no concelho de Sintra, nas freguesias e uniões de freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar, Algueirão-Mem Martins, Colares, São João das Lampas e Terrugem e Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim), que atualmente pertencem à área de influência do Hospital Professor Doutor Fernando Fonseca, com exceção da área materno-infantil, onde esta população já é, hoje em dia, acompanhada pelo Hospital de Cascais.
+
+A alteração agora proposta quanto à área de influência do Hospital de Cascais permitirá reorganizar a prestação dos cuidados de saúde atualmente prestados no Hospital Professor Doutor Fernando Fonseca, E. P. E., e no Hospital de Cascais, com reflexos no contrato-programa a celebrar com o Hospital Professor Doutor Fernando Fonseca, E. P. E., cujo impacto estimado, à data, ascende a cerca de 21 milhões de euros/ano.
+
+De igual modo, o alargamento do perfil assistencial terá reflexos benéficos na organização dos cuidados de saúde, contribuindo para um melhor enquadramento e regulação contratual dos cuidados de saúde nas especialidades de doenças infeciosas e oncologia médica, sem acréscimo de custos para o erário público, na medida em que atualmente esses serviços já são pagos pelo Estado através de protocolos. Realça-se que com esta alteração cessarão os encargos atualmente existentes com os referidos protocolos que, nos anos de 2009 a 2019, representaram um encargo de (euro) 124 990 798, no caso do protocolo para a prestação de cuidados de saúde em ambulatório a doentes com VIH/sida, e de (euro) 15 597 133, no caso do protocolo com o Centro Hospitalar de Lisboa Ocidental, E. P. E., para o tratamento dos doentes no Hospital de Dia de Oncologia.
+
+De todo o modo, tendo presente o custo máximo estimado com este projeto, que corresponderá ao preço base do procedimento pré-contratual a lançar e que está detalhadamente justificado no referido relatório da equipa de projeto, equivale ao valor atualizado líquido dos encargos globais estimados para o erário público no cenário de exploração direta, pelo Estado, da parte clínica do Hospital de Cascais, esta nova parceria implicará sempre um custo inferior ao custo em que o parceiro público incorreria se aquelas mesmas atividades fossem geridas diretamente por ele.
+
+Face ao exposto, entende-se que o projeto de parceria proposto, garantindo eficiência de gestão e a melhoria dos cuidados de saúde a prestar à população abrangida, justifica a decisão pelo lançamento de nova parceria, que manterá este modelo de gestão na prestação de cuidados de saúde no Hospital de Cascais.
+
+Com efeito, esta opção, além de se encontrar devidamente fundamentada, é compaginável com o compromisso do Programa do XXII Governo Constitucional «de não fazer nenhuma nova Parceria Público-Privada (PPP) na gestão clínica num estabelecimento em que ela não exista», na medida em que a gestão clínica do Hospital de Cascais é hoje em dia já gerida em modelo de PPP.
+
+Por essas razões, e considerando, nos termos da Resolução da Assembleia da República n.º 16/2020, de 19 de março, a revogação do Decreto-Lei n.º 170/2019, de 4 de dezembro, e a repristinação das normas por este revogadas, através de despacho do Secretário de Estado Adjunto e das Finanças e da Secretária de Estado Adjunta e da Saúde, nos termos e para os efeitos previstos nos n.os 3 e 4 do artigo 14.º e no artigo 15.º do Decreto-Lei n.º 111/2012, de 23 de maio, foi aprovado o lançamento da parceria público-privada para a gestão e prestação de cuidados de saúde no Hospital de Cascais e o lançamento do procedimento de concurso limitado por prévia qualificação, com publicação de anúncio no Jornal Oficial da União Europeia, tendente à celebração do contrato relativo à gestão e prestação de cuidados de saúde no Hospital de Cascais, lançamento este cuja efetivação fica sujeita à prévia autorização da despesa inerente a esse contrato.
+
+De acordo com o previsto na alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, considerando o valor dos encargos máximos estimados associados ao contrato a celebrar na sequência do referido procedimento pré-contratual, o órgão competente para autorizar a despesa relativa a esse contrato é o Conselho de Ministros.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a realização da despesa inerente à celebração do contrato relativo à gestão e prestação de cuidados de saúde no Hospital de Cascais, em regime de parceria público-privada, no montante máximo de (euro) 881 534 657,00, a preços correntes, com a repartição prevista no número seguinte.
+
+2 - Determinar que os encargos com a despesa referida no número anterior não podem exceder, em cada ano económico compreendido entre o ano de início da gestão e prestação de cuidados de saúde no Hospital de Cascais, prevista para 2023, e os anos subsequentes de execução do contrato, os seguintes montantes, a preços correntes:
+
+a) 2023 - (euro) 77 394 974,00;
+
+b) 2024 - (euro) 100 335 837,00;
+
+c) 2025 - (euro) 105 218 444,00;
+
+d) 2026 - (euro) 109 037 156,00;
+
+e) 2027 - (euro) 112 964 374,00;
+
+f) 2028 - (euro) 117 036 701,00;
+
+g) 2029 - (euro) 121 280 611,00;
+
+h) 2030 - (euro) 125 656 971,00;
+
+i) 2031 - (euro) 12 609 589,00.
+
+3 - Estabelecer que os montantes fixados no número anterior para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede.
+
+4 - Determinar que os encargos decorrentes da presente resolução sejam satisfeitos por verbas a contemplar nos orçamentos da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.
+
+5 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua aprovação.
+
+Presidência do Conselho de Ministros, 16 de abril de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113201317

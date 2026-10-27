@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:374250:por
+title: Portaria n.º 848/82
+short_title: null
+summary: Autoriza a Universidade Técnica de Lisboa, através do Instituto Superior de Economia, a conceder o grau de mestre
+  em Métodos Matemáticos para Economia e Gestão de Empresas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 848/82
+official_date: null
+publication_date: '1982-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/1982, Série I de 1982-09-06
+  number: '206'
+  series: I
+  supplement: null
+  pages: 2643 - 2645
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20600/26432645.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '374250'
+  dre_path: /dr/detalhe/portaria/848-1982-374250
+  internal: pt:dre:374250:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/848-1982-374250
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/848-1982-374250
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:26:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d371f0f6e12cbae7445eee32eb22f3cab7343c7a522f6efe2c9ea3a5ba75d802
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Superior
+- Instituto Superior de Economia
+- Mestrado
+- Universidade Técnica de Lisboa
+relationships:
+- type: amended_by
+  target: pt:dre:374205:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:452483:por
+  label: "Alterados os n.ºs 6.º e 7.º pela PORT.730/83.24.06.1983.ME, DR.IS [143] de 24.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/730-1983-452483
+  date: '1983-06-24'
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374205:por
+  label: "Revogada, na redacção da Portaria 730/83, de 24 de Junho, pela PORT.363/88.03.06.1988.ME, DR.IS [128] de 03.06.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/363-1988-374205
+  date: '1988-06-03'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:26:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 848/82
+
+de 6 de Setembro
+
+Sob proposta do conselho científico do Instituto Superior de Economia, da Universidade Técnica de Lisboa;
+
+Ao abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+(Criação)
+
+A Universidade Técnica de Lisboa, através do Instituto Superior de Economia, concede o grau de mestre em Métodos Matemáticos para Economia e Gestão de Empresas.
+
+2.º
+
+(Organização do curso)
+
+O curso especializado conducente ao mestrado em Métodos Matemáticos para Economia e Gestão de Empresas, adiante simplesmente designado por Curso, organiza-se pelo sistema de unidades de crédito.
+
+3.º
+
+(Áreas de especialização)
+
+O Curso estrutura-se em 2 áreas de especialização:
+
+a) Métodos Matemáticos para Economia;
+
+b) Métodos Matemáticos para Gestão de Empresas.
+
+4.º
+
+(Área científica)
+
+A área científica do Curso é a Economia e a Gestão de Empresas.
+
+5.º
+
+(Áreas obrigatórias)
+
+São áreas obrigatórias:
+
+a) Teoria Económica e Planeamento Económico;
+
+b) Economia de Empresa e Métodos Quantitativos de Gestão;
+
+c) Matemática - Optimização;
+
+d) Estatística e Econometria.
+
+6.º
+
+(Duração normal)
+
+A duração normal do Curso é de 2 anos lectivos.
+
+7.º
+
+(Unidades de crédito)
+
+As unidades de crédito necessárias à obtenção do Curso distribuem-se da seguinte forma:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20600/26432645.pdf)
+
+8.º
+
+(Precedências)
+
+A tabela e regime de precedências serão fixados pelo conselho científico.
+
+9.º
+
+(Habilitação de acesso)
+
+1 - São admitidos à candidatura à matrícula no Curso os licenciados em Economia, Organização e Gestão de Empresas ou áreas afins ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.
+
+2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.
+
+3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 11.º o conselho científico poderá admitir à candidatura à matrícula no Curso os titulares de outras licenciaturas pelas universidades portuguesas ou habilitação legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.
+
+4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.
+
+10.º
+
+(«Numerus clausus»)
+
+1 - O numerus clausus do Curso será fixado anualmente por despacho do Ministro da Educação, sob proposta da universidade.
+
+2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.
+
+3 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do Curso.
+
+4 - Cada proposta de numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 15.º
+
+11.º
+
+(Critérios de selecção)
+
+1 - Os candidatos à matrícula no Curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:
+
+a) Classificação da licenciatura a que se refere o n.º 9.º ou de outros graus já obtidos pelos candidatos;
+
+b) Currículo académico, científico e técnico;
+
+c) Experiência docente.
+
+2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 10.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.
+
+3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para a avaliação do nível daqueles nas áreas científicas de base correspondentes ao Curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco da licenciatura ou outras como condição prévia para candidatura à matrícula no Curso.
+
+4 - Os candidatos a que se refere o n.º 3 do n.º 9.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.
+
+5 - A selecção a que se refere o presente artigo será feita pelo conselho científico do Instituto Superior de Economia, de cuja decisão não cabe recurso, salvo quando arguida de vício de forma.
+
+12.º
+
+(Regime geral)
+
+As regras de matrícula e inscrição, bem como os regimes de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o Curso serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.
+
+13.º
+
+(Calendário)
+
+Os prazos de candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 10.º
+
+14.º
+
+(Dispensa das provas complementares de doutoramento)
+
+Os titulares de aprovação no Curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Economia e em Organização e Gestão de Empresas.
+
+15.º
+
+(Entrada em funcionamento)
+
+A entrada em funcionamento do Curso ficará dependente da existência, na universidade da totalidade dos recursos humanos e materiais necessários à sua completa concretização.
+
+16.º
+
+(Disposições transitórias)
+
+1 - É homologado como equivalente ao Curso especializado descrito na presente portaria o curso de pós-graduação em Métodos Matemáticos para a Economia e Gestão de Empresas que vem funcionando no Instituto Superior de Economia desde o 2.º semestre do ano lectivo de 1979-1980.
+
+2 - Os alunos inscritos no Curso referido no n.º 1 são considerados, para todos os efeitos, alunos do Curso aprovado pela presente portaria desde que à data do início daquele reunissem as condições previstas no n.º 9.º e sem prejuízo do pagamento das propinas que sejam devidas.
+
+Ministério da Educação, 13 de Agosto de 1982. - O Ministro da Educação, João José Fraústo da Silva.

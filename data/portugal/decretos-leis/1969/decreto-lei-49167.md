@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:198741:por
+title: Decreto-Lei n.º 49167
+short_title: null
+summary: Cria um novo sistema de moeda metálica
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro - Casa da Moeda
+proposing_entity: null
+official_number: '49167'
+official_date: null
+publication_date: '1969-08-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 181/1969, Série I de 1969-08-04
+  number: '181'
+  series: I
+  supplement: null
+  pages: 951 - 952
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/08/18100/09510952.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '198741'
+  dre_path: /dr/detalhe/decreto-lei/49167-1969-198741
+  internal: pt:dre:198741:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49167-1969-198741
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49167-1969-198741
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:10:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3fa3f235a9167070839d019bb92d25d5dde01fcb86b6e2dd935944a842cabbbb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cunhagem de Moeda
+- Moeda
+relationships:
+- type: amended_by
+  target: pt:dre:563019:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:147786:por
+  label: "Alterados os arts. 1º e 3º do presente diploma, pelo DEC LEI.525/70.06.11.1970.MF, DG.IS [258] de 06.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/525-1970-147786
+  date: '1970-11-06'
+- type: amended_by
+  target: pt:dre:422175:por
+  label: "Elevado o limite de emissão da moeda de 10$00 fixado pelo presente diploma, pelo DEC LEI.224/73.12.05.1973.MF, DG.IS\
+    \ [112] de 12.05.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1973-422175
+  date: '1973-05-12'
+- type: amended_by
+  target: pt:dre:412669:por
+  label: "Elevado o limite de emissão da moeda de 1$00 fixado pelo presente diploma, pelo DEC LEI.76/74.01.03.1974.MF, DG.IS\
+    \ [51] de 01.03.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1974-412669
+  date: '1974-03-01'
+- type: amended_by
+  target: pt:dre:337074:por
+  label: "Elevado o limite de emissão da moeda de $50 fixado pelo presente diploma, pelo DEC LEI.321/75.27.06.1975.MF, DG.IS\
+    \ [146] de 27.06.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1975-337074
+  date: '1975-06-27'
+- type: amended_by
+  target: pt:dre:563019:por
+  label: "Retiradas de circulação as moedas metálicas de $10, de alumínio, de $20, de bronze, e de 10$00, de cuproníquel,\
+    \ criadas pelo presente diploma, pelo DEC LEI.267/81.15.09.1981.MFP, DR.IS [212] de 15.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1981-563019
+  date: '1981-09-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:10:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49167
+
+1. A flutuação do preço dos metais é fenómeno de carácter mundial que tem causado periòdicamente a alteração das moedas metálicas em circulação nos vários países. Como consequência desse fenómeno, e em íntima associação com a perda do poder de compra da moeda, verificou-se a abolição das moedas de 3 réis no reinado de D. Luís, de meio centavo (5 réis) em 1913, no princípio da República, e, posteriormente, de $01, $02 e $04.
+
+A Primeira Guerra Mundial criou uma situação que conduziu ao desaparecimento total da moeda metálica no nosso país, pelo facto de a mesma ter atingido um valor intrínseco superior ao valor facial: o País, de 1918 a 1924, esteve pràticamente sem moeda metálica, utilizando apenas cédulas de papel.
+
+2. Das reformas a que se procedeu desde então veio a resultar o actual conjunto das moedas em circulação.
+
+Assim, em 1924, foram criadas as moedas de bronze de $05, $10 e $20, constituindo o grupo de moedas de mais baixo valor do novo sistema que se ia estabelecer.
+
+Três anos mais tarde, depois de experiências mal sucedidas com ligas de bronze-alumínio, foram criadas moedas de $50 e 1$00, de liga branca de alpaca, as quais conseguiram resistir às perturbações resultantes da Segunda Guerra Mundial.
+
+Com a reforma monetária de 1931 aboliram-se as notas de banco de 2$50, 5$00 e 10$00, que foram substituídas por moedas de prata de idênticos valores.
+
+Em resultado das condições geradas pela guerra, além da supressão das moedas de $05, houve que proceder, em 1943, à substituição das moedas de bronze de $10 e $20 pelas que, com peso bastante menor, estão actualmente em circulação.
+
+Por último, o aumento progressivo do preço da prata aconselhou em 1963 o início da cunhagem de moedas de 2$50 e 5$00, de cuproníquel, e a recolha simultânea das moedas de prata de 10$00, 5$00 e 2$50, operação que ficou terminada em 1968.
+
+3. Verifica-se actualmente que as moedas de $10 e $20 de bronze estão desaparecendo por desvio ilícito para fins industriais, e as moedas de alpaca de $50 e 1$00 se encontram, em grande parte, desgastadas, carecendo de substituição. Por isso, só as moedas de cuproníquel de 2$50 e 5$00, que não apresentam desgaste apreciável nem oferecem perigo de desvio para fins industriais, serão integradas no novo sistema de moeda metálica criado pelo presente diploma.
+
+4. Reconhecida assim, por motivos de ordem técnica e económica, a necessidade de remodelação do sistema de moeda metálica, julga-se agora oportuno regressar ao tradicional sistema de dois grupos de moedas de cor diferente, criando o grupo de moedas de bronze, constituído pelo escudo e seus submúltiplos, e o grupo de moedas de ligas brancas de níquel ou prata, constituído pelas moedas de valor múltiplo do escudo.
+
+Terá de verificar-se uma excepção a esta regra, aliás verificada também em outros países, utilizando liga branca de alumínio para a moeda de menor valor ($10), dado que o seu baixo valor facial não é compatível com o custo de fabrico de liga de bronze. Não existe, porém, possibilidade de confusão com as restantes moedas brancas, dadas as notáveis diferenças de diâmetro e peso.
+
+5. O grupo de moedas de mais baixo valor do novo sistema será, portanto, constituído pela moeda de $10, de liga de alumínio, e pelas moedas de $20, $50 e 1$00, de liga de bronze. O grupo das moedas de maior valor será constituído pelas moedas brancas de cuproníquel de 2$50 e 5$00, já em circulação, e por uma nova moeda de 10$00 de liga branca de cobre e níquel, fabricada de modo a oferecer condições técnicas de segurança adequadas à generalização do uso de máquinas automáticas para venda de mercadorias. Com a mesma intenção, ultimam-se agora os estudos preparatórios da próxima emissão de nova moeda de 20$00, que será objecto de diploma a publicar oportunamente.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É criado novo tipo de moeda metálica de $10 de liga de alumínio com 1 por cento de magnésia, com o diâmetro de 16 mm e o peso de 0,6 g. Estas moedas terão a tolerância, em título e em peso, de mais ou menos 2 por cento.
+
+Art. 2.º - 1. São criados novos tipos de moedas metálicas de $20, $50 e 1$00, fabricadas em liga de bronze, na proporção de 95 por cento de cobre, 3 por cento de zinco e 2 por cento de estanho, com a tolerância, em título e em peso, de mais ou menos 2 por cento.
+
+2. As moedas de $20 terão o diâmetro de 16 mm e o peso de 1,8 g.
+
+3. As moedas de $50 terão o diâmetro de 22,5 mm e o peso de 4,5 g.
+
+4. As moedas de 1$00 terão o diâmetro de 26 mm e o peso de 8 g.
+
+Art. 3.º É criado novo tipo de moeda metálica de 10$00 fabricada com discos de níquel puro, capeados em ambas as faces com cuproníquel de 75 por cento de cobre e 25 por cento de níquel. Estas moedas terão o diâmetro de 28 mm e o peso de 10 g e a tolerância de mais ou menos 2 g em peso.
+
+Art. 4.º - 1. As moedas de $10 e $20 terão ambas o mesmo desenho, apenas com a alteração do valor.
+
+2. O anverso é constituído pelas cinco quinas, circundadas pela legenda «República Portuguesa» e a era da cunhagem.
+
+3. O reverso é constituído por um ornato de ramos de oliveira e o dístico: «10 centavos» ou «20 centavos».
+
+Art. 5.º - 1. As moedas de $50 e 1$00 terão ambas o mesmo desenho, apenas com o alteração do valor.
+
+2. O anverso é constituído pelas cinco quinas, circundadas pela legenda «República Portuguesa» e a era da cunhagem.
+
+3. O reverso é constituído por um ornato de espigas de trigo e o dístico: «50 centavos» ou «1 escudo».
+
+Art. 6.º - 1. O desenho do anverso das moedas de 10$00 é constituído pela caravela dos Descobrimentos, circundada pela legenda «República Portuguesa» e a era da cunhagem.
+
+2. O desenho do reverso é constituído pelo escudo nacional, ornamentado com duas estrelas em cada lado, com o valor da moeda em algarismos na parte inferior.
+
+Art. 7.º Continuam com curso legal as moedas de bronze de $10 e $20 e as moedas de alpaca de $50 e 1$00, actualmente em circulação, até que a respectiva recolha seja determinada por diploma oficial a publicar oportunamente.
+
+Art. 8.º O limite da emissão para as moedas criadas por este diploma é fixado em 25000 contos para a moeda de $10, em 35000 contos para a moeda de $20, em 70000 contos para a moeda de $50, em 50000 contos para a moeda de 1$00 e em 100000 contos para a moeda de 10$00.
+
+Art. 9.º Todas estas moedas serão postas a circular à medida que forem fabricadas e conforme as necessidades de circulação o aconselharem.
+
+Art. 10.º Ninguém pode ser obrigado a receber, em qualquer pagamento, moedas circulantes que ultrapassem os seguintes quantitativos: 5$00 em moedas de $10 ou de $20, 20$00 em moedas de $50 ou 1$00 e 200$00 em moedas de 2$50, 5$00 e 10$00.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+Promulgado em 24 de Julho de 1969.
+
+Publique-se.
+
+Presidência da República, 4 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

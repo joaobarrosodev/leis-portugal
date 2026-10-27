@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:126772817:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2019-1177988375",
+ "dre_path": "/dr/detalhe/despacho-extrato/11322-2019-126772817",
+ "source_lastmod": "2026-10-06",
+ "versions": [
+  {
+   "date": "2019-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1177986975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1177986975": {
+   "fragment_id": "1177988475",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho de 4 de novembro de 2019, da Presidente do Grupo Parlamentar do Partido Socialista, nos termos do disposto no n.º 5 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, cessa funções e são nomeados os seguintes funcionários:\n\nDuarte Miguel Carrilho Madeira do Carmo Moral - cessa funções, a seu pedido, no Grupo Parlamentar do Partido Socialista, do cargo de adjunto, com efeitos a partir do dia 1 de novembro de 2019, inclusive.\n\nAida Alexandra dos Santos Silveira Santos - nomeada para o cargo de secretária de gabinete, do Grupo Parlamentar do Partido Socialista, com efeitos a partir do dia 1 de novembro de 2019, inclusive.\n\nCarlos Alexandre Simões Godinho - nomeado para o cargo de técnico de apoio de nível II, do Grupo Parlamentar do Partido Socialista, com efeitos a partir do dia 1 de novembro de 2019, inclusive.\n\nNuno Miguel da Costa Pereira Jerónimo Martins - nomeado para o cargo de técnico de apoio I, do Grupo Parlamentar do Partido Socialista, com efeitos a partir do dia 1 de novembro de 2019, inclusive.\n\nMaria de Fátima Peres - nomeada para o cargo de secretária de direção, do Grupo Parlamentar do Partido Socialista, com efeitos a partir do dia 1 de novembro de 2019, inclusive.\n\nAntónio José Fernandes Cancela - nomeado, para o cargo de adjunto, do Grupo Parlamentar do Partido Socialista, com efeitos a partir do dia 1 de novembro de 2019, inclusive.\n\nIvan Miguel Alves Mendes Guerra - nomeado, para o cargo de técnico de apoio de nível III, do Grupo Parlamentar do Partido Socialista, com efeitos a partir do dia 1 de novembro de 2019, inclusive.\n\nSandra Cristina Graça Saraiva dos Anjos - nomeado, para o cargo de secretária de direção, do Grupo Parlamentar do Partido Socialista, com efeitos a partir do dia 1 de novembro de 2019, inclusive.\n\nLuís Miguel Costa Andrade - nomeado para o cargo de assessor de nível ii do Grupo Parlamentar do Partido Socialista, com efeitos a partir do dia 1 de novembro de 2019, inclusive."
+  }
+ }
+}

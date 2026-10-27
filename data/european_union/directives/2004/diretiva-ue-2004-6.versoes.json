@@ -1,0 +1,320 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004L0006:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004L0006-20100101",
+ "dre_path": null,
+ "source_lastmod": "2010-01-01",
+ "versions": [
+  {
+   "date": "2004-01-22",
+   "future": false,
+   "celex": "32004L0006",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ae03fbcf9f1e9422",
+    "6b64b0c4d876b32c",
+    "bc83e6832a03cb48",
+    "03c8638f6d672cde",
+    "d3c62f8b797a07ac",
+    "6185d80bfce07bec"
+   ]
+  },
+  {
+   "date": "2007-05-09",
+   "future": false,
+   "celex": "02004L0006-20070509",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0026:por",
+     "title": "DIRECTIVA 2007/26/CE DA COMISSÃO Texto relevante para efeitos do EEE de 7 de Maio de 2007",
+     "published": null,
+     "celex": "32007L0026"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera ANEXO",
+    "Adita SUBSTÂNCIAS QUE PODEM SER ADICIONADAS, PARA FINS NUTRICIONAIS ESPECÍFICOS, AOS GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL, NOS TERMOS DA DIRECTIVA 2001/15/CE",
+    "Adita Categoria 1: Vitaminas",
+    "Adita VITAMINA E",
+    "Adita Categoria 2: Minerais",
+    "Adita BORO",
+    "Adita CÁLCIO",
+    "Adita CRÓMIO",
+    "Adita COBRE",
+    "Adita FERRO",
+    "Adita SELÉNIO",
+    "Adita MAGNÉSIO",
+    "Adita MANGANÊS",
+    "Adita ZINCO",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "049a5797a715b3b4",
+    "f1fd580400f347ba",
+    "bc83e6832a03cb48",
+    "121bc7f29193c6b3",
+    "5c8b3cd719ea97c8",
+    "10220b9774fa9034",
+    "79d80817522aeea0",
+    "40dcee2f86bf7f0a",
+    "cc446cd164ed6e47",
+    "5545194e97d41431",
+    "bf098b6d5cb6b622",
+    "7b62343d1536cf74",
+    "550d02066d863d18",
+    "e16c38e1e1751d48",
+    "6dd1c67c3161ac80",
+    "48410acccbf0cd3a",
+    "1c2f0baa9210b8da",
+    "923187e11dcb44d1",
+    "d5aebee09f1070f3",
+    "915c4343670359bb"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "02004L0006-20100101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime ANEXO",
+    "Suprime SUBSTÂNCIAS QUE PODEM SER ADICIONADAS, PARA FINS NUTRICIONAIS ESPECÍFICOS, AOS GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL, NOS TERMOS DA DIRECTIVA 2001/15/CE",
+    "Suprime Categoria 1: Vitaminas",
+    "Suprime VITAMINA E",
+    "Suprime Categoria 2: Minerais",
+    "Suprime BORO",
+    "Suprime CÁLCIO",
+    "Suprime CRÓMIO",
+    "Suprime COBRE",
+    "Suprime FERRO",
+    "Suprime SELÉNIO",
+    "Suprime MAGNÉSIO",
+    "Suprime MANGANÊS",
+    "Suprime ZINCO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f882e64b20b19f61"
+   ]
+  }
+ ],
+ "fragments": {
+  "ae03fbcf9f1e9422": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2004/6/CE da Comissão, de 20 de Janeiro de 2004, que derroga da Directiva 2001/15/CE por forma a adiar a aplicação da proibição de comercialização a determinados produtos (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 015 de 22/01/2004 p. 0031 - 0033*\n\nDirectiva 2004/6/CE da Comissão\n\nde 20 de Janeiro de 2004\n\nque derroga da Directiva 2001/15/CE por forma a adiar a aplicação da proibição de comercialização a determinados produtos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/398/CEE do Conselho, de 3 de Maio de 1989, relativa à aproximação das legislações dos Estados-Membros respeitantes aos géneros alimentícios destinados a uma alimentação especial(1), e, nomeadamente, o n.o 2 do seu artigo 4.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2001/15/CE da Comissão, de 15 de Fevereiro de 2001, relativa às substâncias que podem ser adicionadas, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial(2) especifica determinadas categorias de substâncias e refere, para cada uma delas, as substâncias químicas que podem ser utilizadas no fabrico de géneros alimentícios destinados a uma alimentação especial. A directiva prevê que os Estados-Membros proíbam o comércio dos produtos que não satisfaçam aquele diploma, com efeitos a partir de 1 de Abril de 2004.\n\n(2) Determinadas substâncias, adicionadas para fins nutricionais específicos a alguns géneros alimentícios destinados a uma alimentação especial e comercializados em alguns Estados-Membros, não puderam, aquando da adopção da Directiva 2001/15/CE, ser incluídas no seu anexo, dado não terem sido sujeitas a avaliação pelo Comité Científico da Alimentação Humana (CCAH).\n\n(3) Enquanto a avaliação dessas substâncias estiver a ser realizada pela Autoridade Europeia para a Segurança dos Alimentos, a sua utilização deve continuar a ser permitida no âmbito do fabrico de produtos comercializados antes da entrada em vigor da referida directiva.\n\n(4) A data de 1 de Abril de 2004 prevista na alínea b) do artigo 3.o da Directiva 2001/15/CE torna necessário que a presente directiva seja transposta a curto prazo.\n\n(5) Por conseguinte, devem ser adoptadas disposições em derrogação da Directiva 2001/15/CE.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6b64b0c4d876b32c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm derrogação do n.o 2, alínea b), do artigo 3.o da Directiva 2001/15/CE, na medida da aplicação do disposto no n.o 1 do artigo 1.o do mesmo diploma, e até 31 de Dezembro de 2006, os Estados-Membros podem continuar a autorizar o comércio, no respectivo território, de produtos que contenham as substâncias enumeradas no anexo à directiva referida, desde que:\n\na) A Autoridade Europeia para a Segurança dos Alimentos não tenha emitido parecer desfavorável relativamente à utilização da substância no fabrico de géneros alimentícios destinados a uma alimentação especial abrangidos pela Directiva 2001/15/CE;\n\nb) A substância em questão seja utilizada no fabrico de um ou mais géneros alimentícios destinados a uma alimentação especial comercializados na Comunidade à data de entrada em vigor da presente directiva."
+  },
+  "bc83e6832a03cb48": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 31 de Março de 2004. Os Estados-Membros comunicarão imediatamente à Comissão o texto dessas disposições bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "03c8638f6d672cde": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "d3c62f8b797a07ac": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Janeiro de 2004.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 186 de 30.6.1989, p. 27. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n(2) JO L 52 de 22.2.2001, p. 19."
+  },
+  "6185d80bfce07bec": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nSUBSTÂNCIAS QUE PODEM SER ADICIONADAS, PARA FINS NUTRICIONAIS ESPECÍFICOS, AOS GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL, NOS TERMOS DA DIRECTIVA 2001/15/CE\n\nCategoria 1: Vitaminas\n\nVITAMINA E\n\n- succinato de D-alfa-tocoferil polietilenoglicol 1000\n\nCategoria 2: Minerais\n\nBORO\n\n- Ácido bórico\n\n- Borato de sódio\n\nCÁLCIO\n\n- Quelato com aminoácido\n\n- Pidolato\n\nCRÓMIO\n\n- Quelato com aminoácido\n\nCOBRE\n\n- Quelato com aminoácido\n\nFERRO\n\n- Hidróxido ferroso\n\n- Pidolato ferroso\n\n- Quelato com aminoácido\n\nSELÉNIO\n\n- Levedura enriquecida\n\nMAGNÉSIO\n\n- Quelato com aminoácido\n\n- Pidolato\n\nMANGANÊS\n\n- Quelato com aminoácido\n\nZINCO\n\n- Quelato com aminoácido"
+  },
+  "049a5797a715b3b4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Janeiro de 2004\n\nque derroga da Directiva 2001/15/CE por forma a adiar a aplicação da proibição de comercialização a determinados produtos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/398/CEE do Conselho, de 3 de Maio de 1989, relativa à aproximação das legislações dos Estados-Membros respeitantes aos géneros alimentícios destinados a uma alimentação especial ([^1^](http://publications.europa.eu/resource/cellar/3ef3646f-d640-4440-a8da-87fe0af568a2.0018.03/DOC_1#E0001)), e, nomeadamente, o n.º 2 do seu artigo 4.º,\n\n(1) A Directiva 2001/15/CE da Comissão, de 15 de Fevereiro de 2001, relativa às substâncias que podem ser adicionadas, para fins nutricionais específicos, aos géneros alimentícios destinados a uma alimentação especial ([^2^](http://publications.europa.eu/resource/cellar/3ef3646f-d640-4440-a8da-87fe0af568a2.0018.03/DOC_1#E0002)) especifica determinadas categorias de substâncias e refere, para cada uma delas, as substâncias químicas que podem ser utilizadas no fabrico de géneros alimentícios destinados a uma alimentação especial. A directiva prevê que os Estados-Membros proíbam o comércio dos produtos que não satisfaçam aquele diploma, com efeitos a partir de 1 de Abril de 2004.\n\n(2) Determinadas substâncias, adicionadas para fins nutricionais específicos a alguns géneros alimentícios destinados a uma alimentação especial e comercializados em alguns Estados-Membros, não puderam, aquando da adopção da Directiva 2001/15/CE, ser incluídas no seu anexo, dado não terem sido sujeitas a avaliação pelo Comité Científico da Alimentação Humana (CCAH).\n\n(3) Enquanto a avaliação dessas substâncias estiver a ser realizada pela Autoridade Europeia para a Segurança dos Alimentos, a sua utilização deve continuar a ser permitida no âmbito do fabrico de produtos comercializados antes da entrada em vigor da referida directiva.\n\n(4) A data de 1 de Abril de 2004 prevista na alínea b) do artigo 3.º da Directiva 2001/15/CE torna necessário que a presente directiva seja transposta a curto prazo.\n\n(5) Por conseguinte, devem ser adoptadas disposições em derrogação da Directiva 2001/15/CE.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f1fd580400f347ba": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm derrogação do n.º 2, alínea b), do artigo 3.º da Directiva 2001/15/CE, na medida da aplicação do disposto no n.º 1 do artigo 1.º do mesmo diploma, e até [**►M1**](http://publications.europa.eu/resource/celex/32007L0026) 31 de Dezembro de 2009,**◄** os Estados-Membros podem continuar a autorizar o comércio, no respectivo território, de produtos que contenham as substâncias enumeradas no anexo à directiva referida, desde que:\n\na) A Autoridade Europeia para a Segurança dos Alimentos não tenha emitido parecer desfavorável relativamente à utilização da substância no fabrico de géneros alimentícios destinados a uma alimentação especial abrangidos pela Directiva 2001/15/CE;\n\nb) A substância em questão seja utilizada no fabrico de um ou mais géneros alimentícios destinados a uma alimentação especial comercializados na Comunidade à data de entrada em vigor da presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "79d80817522aeea0": {
+   "fragment_id": "SUBSTÂNCIAS QUE PODEM SER ADICIONADAS, PARA FINS NUTRICIONAIS ESPECÍFICOS, AOS GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL, NOS TERMOS DA DIRECTIVA 2001/15/CE",
+   "type": "divisao",
+   "heading": "SUBSTÂNCIAS QUE PODEM SER ADICIONADAS, PARA FINS NUTRICIONAIS ESPECÍFICOS, AOS GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL, NOS TERMOS DA DIRECTIVA 2001/15/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SUBSTÂNCIAS QUE PODEM SER ADICIONADAS, PARA FINS NUTRICIONAIS ESPECÍFICOS, AOS GÉNEROS ALIMENTÍCIOS DESTINADOS A UMA ALIMENTAÇÃO ESPECIAL, NOS TERMOS DA DIRECTIVA 2001/15/CE"
+  },
+  "40dcee2f86bf7f0a": {
+   "fragment_id": "Categoria 1: Vitaminas",
+   "type": "divisao",
+   "heading": "Categoria 1: Vitaminas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria 1: Vitaminas"
+  },
+  "cc446cd164ed6e47": {
+   "fragment_id": "VITAMINA E",
+   "type": "divisao",
+   "heading": "VITAMINA E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### VITAMINA E\n\n— succinato de D-alfa-tocoferil polietilenoglicol 1000"
+  },
+  "5545194e97d41431": {
+   "fragment_id": "Categoria 2: Minerais",
+   "type": "divisao",
+   "heading": "Categoria 2: Minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categoria 2: Minerais"
+  },
+  "bf098b6d5cb6b622": {
+   "fragment_id": "BORO",
+   "type": "divisao",
+   "heading": "BORO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### BORO\n\n— Ácido bórico\n\n— Borato de sódio"
+  },
+  "7b62343d1536cf74": {
+   "fragment_id": "CÁLCIO",
+   "type": "divisao",
+   "heading": "CÁLCIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CÁLCIO\n\n— Quelato com aminoácido\n\n— Pidolato"
+  },
+  "550d02066d863d18": {
+   "fragment_id": "CRÓMIO",
+   "type": "divisao",
+   "heading": "CRÓMIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CRÓMIO\n\n— Quelato com aminoácido"
+  },
+  "e16c38e1e1751d48": {
+   "fragment_id": "COBRE",
+   "type": "divisao",
+   "heading": "COBRE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### COBRE\n\n— Quelato com aminoácido"
+  },
+  "6dd1c67c3161ac80": {
+   "fragment_id": "FERRO",
+   "type": "divisao",
+   "heading": "FERRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### FERRO\n\n— Hidróxido ferroso\n\n— Pidolato ferroso\n\n— Quelato com aminoácido"
+  },
+  "48410acccbf0cd3a": {
+   "fragment_id": "SELÉNIO",
+   "type": "divisao",
+   "heading": "SELÉNIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SELÉNIO\n\n— Levedura enriquecida"
+  },
+  "1c2f0baa9210b8da": {
+   "fragment_id": "MAGNÉSIO",
+   "type": "divisao",
+   "heading": "MAGNÉSIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### MAGNÉSIO\n\n— Quelato com aminoácido\n\n— Pidolato"
+  },
+  "923187e11dcb44d1": {
+   "fragment_id": "MANGANÊS",
+   "type": "divisao",
+   "heading": "MANGANÊS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### MANGANÊS\n\n— Quelato com aminoácido"
+  },
+  "d5aebee09f1070f3": {
+   "fragment_id": "ZINCO",
+   "type": "divisao",
+   "heading": "ZINCO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ZINCO\n\n— Quelato com aminoácido\n\n---"
+  },
+  "915c4343670359bb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3ef3646f-d640-4440-a8da-87fe0af568a2.0018.03/DOC_1#src.E0001)) JO L 186 de 30.6.1989, p. 27. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3ef3646f-d640-4440-a8da-87fe0af568a2.0018.03/DOC_1#src.E0002)) JO L 52 de 22.2.2001, p. 19."
+  },
+  "f882e64b20b19f61": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004L0006 — PT — 01.01.2010 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32004L0006) [DIRECTIVA 2004/6/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32004L0006) [de 20 de Janeiro de 2004](http://publications.europa.eu/resource/celex/32004L0006) [que derroga da Directiva 2001/15/CE por forma a adiar a aplicação da proibição de comercialização a determinados produtos](http://publications.europa.eu/resource/celex/32004L0006) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32004L0006) (JO L 015, 22.1.2004, p.31)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 953/2009 da Comissão de 13 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R0953) — L 269 — 9 — 14.10.2009"
+  }
+ }
+}

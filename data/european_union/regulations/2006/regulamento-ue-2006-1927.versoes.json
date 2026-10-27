@@ -1,0 +1,509 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R1927:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1927-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2006-12-30",
+   "future": false,
+   "celex": "32006R1927",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f4ec0e518af88f5e",
+    "318bc8e83bd2dbaa",
+    "3f3b44048b9c2d0d",
+    "d37cc1564be8cecb",
+    "beac5f4a39921a36",
+    "0d27669b6d0e02b7",
+    "2c10e42be0964048",
+    "0b67f4f35eb4fe45",
+    "6dcad6ea9967b8ea",
+    "c5d53bfc933fb78f",
+    "e9d42c5198264b9c",
+    "ca1dd8f5eeaad358",
+    "33268d02d32777bc",
+    "0071cb7389ed395d",
+    "fe4972f053df97ea",
+    "ec201c266456cab0",
+    "921e6fc60a7b5c54",
+    "a13da05d232d1e72",
+    "0e0b566f86d88417",
+    "6f4d7fb0ea21d28d",
+    "7a815ce8ef5a28e8",
+    "7734485ffa18136c",
+    "b918ca0a7c83e308"
+   ]
+  },
+  {
+   "date": "2009-07-02",
+   "future": false,
+   "celex": "02006R1927-20090702",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0546:por",
+     "title": "REGULAMENTO (CE) N. o 546/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0546"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto e âmbito de aplicação",
+    "Altera Artigo 2.º — Critérios de intervenção",
+    "Altera Artigo 3.º — Acções elegíveis",
+    "Altera Artigo 4.º — Tipo de contribuição financeira",
+    "Altera Artigo 5.º — Candidaturas",
+    "Altera Artigo 6.º — Complementaridade, conformidade e coordenação",
+    "Altera Artigo 7.º — Igualdade entre homens e mulheres e não discriminação",
+    "Altera Artigo 8.º — Assistência técnica por iniciativa da Comissão",
+    "Altera Artigo 9.º — Informação e publicidade",
+    "Altera Artigo 10.º — Determinação da contribuição financeira",
+    "Altera Artigo 11.º — Elegibilidade das despesas",
+    "Altera Artigo 12.º — Processo orçamental",
+    "Altera Artigo 13.º — Pagamento e utilização da contribuição financeira",
+    "Altera Artigo 16.º — Relatório anual",
+    "Altera Artigo 17.º — Avaliação",
+    "Altera Artigo 18.º — Gestão e controlo financeiro",
+    "Altera Artigo 19.º — Reembolso da contribuição financeira",
+    "Altera Artigo 20.º — Revisão",
+    "Altera Artigo 21.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 3.ºA — Pessoas elegíveis"
+   ],
+   "fragments": [
+    "fa38dc4c21a79a77",
+    "3213e6850c40798e",
+    "dfa9ad6d1972dfdd",
+    "444c51af5c96c6f2",
+    "e4ea3c8a2d43c112",
+    "d42ef9b5fb8595dd",
+    "55bd9d79064becbc",
+    "83f5a9b7643d7181",
+    "25a50d24ce9f5d2f",
+    "41b7613cec33953a",
+    "1487ef5dae7f8751",
+    "7f3c9844b377fa17",
+    "807be777b7110ac1",
+    "f115ae98b5ff200b",
+    "cfc94ef8e99e4467",
+    "fe4972f053df97ea",
+    "ec201c266456cab0",
+    "0b008c76deab94e3",
+    "7ceb2b9430c027e1",
+    "f2d31f941b2fcde7",
+    "c2937cf684e74d42",
+    "1b31dba143405624",
+    "44b4f38482ea5458",
+    "71a1b2c298c8c5e5"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006R1927-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Critérios de intervenção",
+    "Suprime Artigo 3.º — Acções elegíveis",
+    "Suprime Artigo 3.ºA — Pessoas elegíveis",
+    "Suprime Artigo 4.º — Tipo de contribuição financeira",
+    "Suprime Artigo 5.º — Candidaturas",
+    "Suprime Artigo 6.º — Complementaridade, conformidade e coordenação",
+    "Suprime Artigo 7.º — Igualdade entre homens e mulheres e não discriminação",
+    "Suprime Artigo 8.º — Assistência técnica por iniciativa da Comissão",
+    "Suprime Artigo 9.º — Informação e publicidade",
+    "Suprime Artigo 10.º — Determinação da contribuição financeira",
+    "Suprime Artigo 11.º — Elegibilidade das despesas",
+    "Suprime Artigo 12.º — Processo orçamental",
+    "Suprime Artigo 13.º — Pagamento e utilização da contribuição financeira",
+    "Suprime Artigo 14.º — Utilização do euro",
+    "Suprime Artigo 15.º — Relatório final e encerramento",
+    "Suprime Artigo 16.º — Relatório anual",
+    "Suprime Artigo 17.º — Avaliação",
+    "Suprime Artigo 18.º — Gestão e controlo financeiro",
+    "Suprime Artigo 19.º — Reembolso da contribuição financeira",
+    "Suprime Artigo 20.º — Revisão",
+    "Suprime Artigo 21.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "22bbdfc23085d89b"
+   ]
+  }
+ ],
+ "fragments": {
+  "f4ec0e518af88f5e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2006\n\nque institui o Fundo Europeu de Ajustamento à Globalização\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o terceiro parágrafo do artigo 159.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntr1-L_2006406PT.01000101-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntr2-L_2006406PT.01000101-E0002),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^3])](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntr3-L_2006406PT.01000101-E0003),\n\nConsiderando o seguinte:\n\n(1) Não obstante os efeitos positivos da globalização no crescimento, no emprego e na prosperidade e a necessidade de aumentar ainda mais a competitividade europeia através de mudanças estruturais, a globalização pode comportar também repercussões negativas para os trabalhadores mais vulneráveis e menos qualificados de determinados sectores. Por conseguinte, é oportuno instituir um Fundo Europeu de Ajustamento à Globalização (a seguir, «FEG»), acessível a todos os Estados-Membros, através do qual a Comunidade demonstrará solidariedade para com trabalhadores que perderam os seus empregos em resultado de mudanças nos padrões do comércio mundial.\n\n(2) É necessário preservar os valores europeus e fomentar o desenvolvimento do comércio externo justo. Os efeitos negativos da globalização devem ser enfrentados em primeiro lugar mediante uma estratégia comunitária de política comercial a longo prazo, sustentável e destinada a alcançar normas sociais e ecológicas de alto nível. A ajuda concedida pelo FEG deverá ser de carácter dinâmico e susceptível de se adaptar às condições continuamente em mudança e frequentemente imprevistas que se criam no mercado.\n\n(3) O FEG deverá providenciar apoio específico e pontual para facilitar a reintegração profissional de trabalhadores em áreas, sectores, territórios ou bacias de emprego atingidos por graves perturbações económicas. O FEG deverá promover o espírito empresarial, por exemplo, através de micro-créditos ou da criação de projectos cooperativos.\n\n(4) As acções realizadas ao abrigo do presente regulamento deverão ser definidas segundo rigorosos critérios de intervenção em função da escala da deslocalização económica e respectivo impacto num determinado sector ou área geográfica, de forma a assegurar que a contribuição financeira do FEG se concentra nos trabalhadores das regiões e dos sectores económicos da Comunidade mais seriamente afectados. Essa deslocalização não se concentra necessariamente num único Estado-Membro. Nestas circunstâncias excepcionais, os Estados-Membros poderão, por isso, apresentar conjuntamente pedidos de assistência ao abrigo do FEG.\n\n(5) As actividades do FEG deverão ser coerentes e compatíveis com as outras políticas da Comunidade e conformes com o seu acervo, sobretudo no que respeita às intervenções dos Fundos estruturais, constituindo simultaneamente um verdadeiro contributo para as políticas sociais da Comunidade.\n\n(6) O Acordo Interinstitucional de 17 de Maio de 2006 entre o Parlamento Europeu, o Conselho e a Comissão, sobre a disciplina orçamental e a boa gestão financeira [([^4])](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntr4-L_2006406PT.01000101-E0004) (a seguir, «Acordo Interinstitucional»), é vinculativo a partir de 1 de Janeiro de 2007, estabelecendo o respectivo n.º 28 o quadro orçamental do FEG.\n\n(7) Uma acção específica financiada ao abrigo do presente regulamento não deverá beneficiar de assistência financeira no âmbito de outros instrumentos financeiros da Comunidade. Porém, é necessária a coordenação com as medidas de modernização e de reestruturação existentes ou planeadas, sem que tal venha, no entanto, a resultar na criação de estruturas de gestão paralelas ou adicionais relativamente às acções financiadas pelo FEG.\n\n(8) De forma a facilitar a aplicação do presente regulamento, as despesas deverão ser elegíveis a partir da data em que o Estado-Membro dá início à prestação de serviços personalizados aos trabalhadores atingidos. Reflectindo a necessidade de uma resposta concentrada que vise especificamente a reinserção no mundo do trabalho, há que estabelecer um prazo para a utilização da contribuição financeira do FEG.\n\n(9) Os Estados-Membros devem continuar a ser os responsáveis pela utilização da contribuição financeira e pela gestão e controlo das operações financiadas pela Comunidade, de acordo com o Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^5])](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntr5-L_2006406PT.01000101-E0005). Os Estados-Membros devem justificar a utilização dada à contribuição financeira recebida.\n\n(10) O Observatório Europeu da Mudança, sedeado em Dublim, poderá apoiar a Comissão e os Estados-Membros interessados através de análises quantitativas e qualitativas, a fim de os assistir na avaliação de candidaturas ao abrigo do FEG.\n\n(11) Uma vez que os objectivos da acção a realizar não podem ser suficientemente realizados pelos Estados-Membros e podem pois, devido à dimensão ou aos efeitos da acção prevista, ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. De acordo com o princípio de proporcionalidade, mencionado no referido artigo, o presente regulamento não excede o necessário para alcançar aqueles objectivos.\n\n(12) Dado que o período de execução do FEG está vinculado à duração do quadro financeiro, de 1 de Janeiro de 2007 a 31 de Dezembro de 2013, o apoio aos trabalhadores afectados por despedimentos ligados à evolução da estrutura do comércio deve estar disponível a partir de 1 de Janeiro de 2007,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "318bc8e83bd2dbaa": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. Tendo em vista estimular o crescimento económico e a criação de mais emprego na União Europeia, o presente regulamento institui «o FEG», para permitir à Comunidade apoiar os trabalhadores que perderam os respectivos empregos em resultado de importantes mudanças na estrutura do comércio mundial causadas pela globalização, sempre que se verifique um impacto negativo considerável na economia regional ou local.\n\nO período de aplicação do presente regulamento está vinculado ao quadro financeiro para o período compreendido entre Janeiro de 2007 e 31 de Dezembro de 2013.\n\n2. O presente regulamento estabelece as regras de funcionamento do FEG, de forma a facilitar a reinserção profissional de trabalhadores que perderam os seus empregos em resultado da evolução da estrutura do comércio."
+  },
+  "3f3b44048b9c2d0d": {
+   "fragment_id": "Artigo 2.º — Critérios de intervenção",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Critérios de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Critérios de intervenção\n\nO FEG intervém financeiramente sempre que importantes mudanças na estrutura do comércio mundial conduzam a graves perturbações económicas, como é o caso de um aumento substancial de importações para a UE, de um declínio acelerado da quota de mercado da UE num determinado sector ou de uma deslocalização para países terceiros, que resultem em:\n\na) Pelo menos 1 000 despedimentos, num período de quatro meses, numa empresa de um Estado-Membro, incluindo-se neste número os trabalhadores despedidos de empresas suas fornecedoras ou produtoras a jusante; ou\n\nb) Pelo menos 1 000 despedimentos, num período de nove meses, em particular em pequenas ou médias empresas, num sector de nível 2 da NACE, numa região ou em duas regiões contíguas ao nível NUTS II;\n\nc) No caso dos mercados de trabalho de pequena dimensão, ou em circunstâncias excepcionais devidamente justificadas pelos Estados-Membros interessados, um pedido de contribuição do FEG pode considerar-se elegível mesmo que as condições fixadas nas alíneas a) ou b) não se encontrem totalmente reunidas, desde que os despedimentos tenham graves repercussões no emprego e na economia local. O montante agregado das contribuições justificado em tais circunstâncias excepcionais não pode exceder, em cada ano, 15 % do FEG."
+  },
+  "d37cc1564be8cecb": {
+   "fragment_id": "Artigo 3.º — Acções elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Acções elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acções elegíveis\n\nAo abrigo do presente regulamento, pode ser concedida uma contribuição financeira para medidas activas com incidência no mercado de trabalho que possam inscrever-se num conjunto coordenado de serviços personalizados destinados a reintegrar profissionalmente os trabalhadores vítimas de despedimento, incluindo:\n\na) Assistência na procura de emprego, orientação profissional, formação e reconversão específicas, nomeadamente em competências ligadas às tecnologias da informação e da comunicação (TIC) e validação da experiência adquirida, ajuda à recolocação e promoção do espírito empresarial ou apoio ao exercício de uma actividade por conta própria;\n\nb) Medidas especiais limitadas no tempo, tais como subsídios de procura de emprego, de mobilidade ou atribuídos a pessoas que participam em acções de formação e de formação ao longo da vida; e\n\nc) Incentivos dirigidos, em particular, aos trabalhadores desfavorecidos ou mais idosos a permanecerem ou regressarem ao mercado de trabalho.\n\nO FEG não financia medidas passivas de protecção social.\n\nPor iniciativa dos Estados-Membros, o FEG pode financiar actividades preparatórias e de gestão, informação, publicidade e controlo com vista à execução do fundo."
+  },
+  "beac5f4a39921a36": {
+   "fragment_id": "Artigo 4.º — Tipo de contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Tipo de contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipo de contribuição financeira\n\nA Comissão concede as contribuições financeiras sob a forma de pagamentos únicos, a concretizar no quadro do procedimento de gestão partilhada entre os Estados-Membros e a Comissão, nos termos da alínea b) do n.º 1 e dos n.ºs 5 e 6 do artigo 53.º do Regulamento (CE, Euratom) n.º 1605/2002."
+  },
+  "0d27669b6d0e02b7": {
+   "fragment_id": "Artigo 5.º — Candidaturas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidaturas\n\n1. Os Estados-Membros devem apresentar à Comissão as candidaturas à contribuição do FEG no prazo de 10 semanas a contar da data em que estejam cumpridos os critérios de intervenção definidos no artigo 2.º. As candidaturas podem ser posteriormente complementada pelos Estados-Membros.\n\n2. As candidaturas devem incluir as seguintes informações:\n\na) Uma análise fundamentada da ligação entre os despedimentos programados e mudanças estruturais importantes no comércio mundial, a prova do número de despedimentos e uma explicação da natureza imprevista desses despedimentos;\n\nb) A identificação das empresas que procederam aos despedimentos (nacionais ou multinacionais), dos fornecedores ou produtores a jusante, dos sectores e das categorias dos trabalhadores em questão;\n\nc) A descrição da região afectada e das suas autoridades e outros interessados, assim como o impacto esperado dos despedimentos no emprego local, regional ou nacional;\n\nd) O pacote coordenado de serviços personalizados a financiar e uma repartição dos custos previstos, incluindo a sua complementaridade com as acções financiadas pelos Fundos Estruturais, assim como informações sobre as acções obrigatórias por força da legislação nacional ou de convenções colectivas;\n\ne) As datas em que se iniciou ou se tenciona dar início às prestações de serviços personalizados aos trabalhadores atingidos;\n\nf) Os procedimentos de consulta dos parceiros sociais; e\n\ng) A autoridade responsável pela gestão e o controlo financeiro nos termos do artigo 18.º.\n\n3. Atendendo às acções empreendidas pelo Estado-Membro, a região, os parceiros sociais e as empresas abrangidas por força da legislação nacional ou de convenções colectivas, e tendo especialmente em conta actividades financiadas pelo Fundo Social Europeu (a seguir, FSE), as informações prestadas nos termos do n.º 2 devem incluir uma descrição sucinta das acções realizadas ou programadas pela autoridade nacional e as empresas implicadas, acompanhada de uma estimativa do respectivo custo.\n\n4. Os Estados-Membros interessados devem igualmente transmitir dados estatísticos e outras informações, ao nível territorial mais adequado, necessários à Comissão para a avaliação do cumprimento dos critérios de intervenção.\n\n5. Com base nas informações referidas no n.º 2 e em quaisquer informações adicionais fornecidas pelos Estados-Membros interessados, a Comissão, em consulta com os Estados-Membros, avalia se estão reunidas as condições para a concessão da contribuição financeira nos termos do presente regulamento."
+  },
+  "2c10e42be0964048": {
+   "fragment_id": "Artigo 6.º — Complementaridade, conformidade e coordenação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Complementaridade, conformidade e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Complementaridade, conformidade e coordenação\n\n1. A assistência do FEG não substitui as acções que são da responsabilidade das empresas por força da legislação nacional ou de convenções colectivas.\n\n2. A assistência do FEG deve complementar as acções dos Estados-Membros a nível nacional, regional e local, incluindo as acções co-financiadas pelos Fundos Estruturais.\n\n3. A assistência do FEG deve oferecer solidariedade e apoio aos trabalhadores a título individual que perderam o respectivo emprego em consequência de mudanças estruturais nos padrões do comércio mundial. O FEG não financia a reestruturação de empresas ou de sectores.\n\n4. No quadro das respectivas responsabilidades, a Comissão e os Estados-Membros devem assegurar a coordenação da assistência proveniente de Fundos comunitários.\n\n5. Os Estados-Membros devem assegurar que as acções específicas financiadas pelo FEG não recebem apoios por parte de outros instrumentos financeiros comunitários."
+  },
+  "0b67f4f35eb4fe45": {
+   "fragment_id": "Artigo 7.º — Igualdade entre homens e mulheres e não discriminação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Igualdade entre homens e mulheres e não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Igualdade entre homens e mulheres e não discriminação\n\nNo acesso à assistência do FEG, a Comissão e os Estados-Membros devem assegurar a igualdade entre homens e mulheres e a integração da perspectiva do género nas diversas fases de execução do FEG. A Comissão e os Estados-Membros devem adoptar as medidas adequadas para evitar qualquer discriminação em razão do sexo, da origem racial ou étnica, da religião ou crença, de deficiência, da idade ou da orientação sexual nas diversas fases de implementação do FEG e, em particular, no acesso a este."
+  },
+  "6dcad6ea9967b8ea": {
+   "fragment_id": "Artigo 8.º — Assistência técnica por iniciativa da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Assistência técnica por iniciativa da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Assistência técnica por iniciativa da Comissão\n\n1. Por iniciativa da Comissão, e num limite de 0,35 % dos recursos financeiros disponíveis para o ano em causa, o FEG pode ser utilizado para financiar actividades de acompanhamento, informação, apoio administrativo e técnico, auditoria, inspecção e avaliação necessárias à aplicação do presente regulamento.\n\n2. Tais acções devem ser executadas em conformidade com o Regulamento (CE, Euratom) n.º 1605/2002, assim como com as suas regras de execução aplicáveis a esta forma de execução do orçamento."
+  },
+  "c5d53bfc933fb78f": {
+   "fragment_id": "Artigo 9.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação e publicidade\n\n1. Os Estados-Membros devem informar sobre as acções financiadas e divulgá-las. A informação deve ser dirigida aos trabalhadores afectados, às autoridades locais e regionais, aos parceiros sociais, aos meios de comunicação e ao público em geral. O seu objectivo é realçar o papel da Comunidade e assegurar a visibilidade das intervenções do FEG.\n\n2. A Comissão deve criar um sítio Web, disponível em todas as línguas comunitárias, que faculte informações sobre o FEG e orientações sobre a apresentação de candidaturas, assim como informação actualizada relativa às candidaturas aceites e rejeitadas e realçando o papel da autoridade orçamental."
+  },
+  "e9d42c5198264b9c": {
+   "fragment_id": "Artigo 10.º — Determinação da contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Determinação da contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Determinação da contribuição financeira\n\n1. Com base na avaliação efectuada nos termos do n.º 5 do artigo 5.º, e tendo especialmente em conta o número de trabalhadores a apoiar, as acções propostas e os custos previstos, a Comissão avalia e propõe, logo que possível, o montante da contribuição financeira, se for esse o caso, que pode ser concedido dentro dos limites dos recursos disponíveis.\n\nEste montante não pode ser superior a 50 % do custo total previsto a que se refere a alínea d) do n.º 2 do artigo 5.º.\n\n2. Se, com base na avaliação efectuada nos termos do n.º 5 do artigo 5.º, a Comissão concluir que estão preenchidas as condições de concessão de assistência ao abrigo do presente regulamento, dá imediatamente início ao procedimento definido no artigo 12.º.\n\n3. Se, com base na avaliação efectuada nos termos do n.º 5 do artigo 5.º, a Comissão concluir que não estão preenchidas as condições de concessão de assistência nos termos do presente regulamento, logo que possível, informa desse facto os Estados-Membros em causa."
+  },
+  "ca1dd8f5eeaad358": {
+   "fragment_id": "Artigo 11.º — Elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Elegibilidade das despesas\n\nAs despesas são elegíveis para uma contribuição financeira do FEG a partir das datas em que os Estados-Membros interessados dão início à prestação de serviços personalizados aos trabalhadores afectados, nos termos da alínea e) do n.º 2 do artigo 5.º."
+  },
+  "33268d02d32777bc": {
+   "fragment_id": "Artigo 12.º — Processo orçamental",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Processo orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Processo orçamental\n\n1. As regras do FEG respeitam o disposto no ponto 28 do Acordo Interinstitucional e qualquer revisão dessa disposição.\n\n2. As dotações para o FEG são inscritas no orçamento geral da União Europeia a título de provisão através do processo orçamental normal, assim que a Comissão tiver identificado as margens suficientes e/ou as autorizações anuladas.\n\n3. Se a Comissão concluir que deve ser concedida uma contribuição financeira ao abrigo do FEG, apresenta à autoridade orçamental uma proposta de autorização das dotações correspondentes ao montante determinado nos termos do artigo 10.º e um pedido de transferência do montante para a rubrica orçamental relativa ao FEG. As propostas podem ser agrupadas em lotes.\n\nAs transferências respeitantes ao FEG são efectuadas nos termos do n.º 4 do artigo 24.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n4. As propostas ao abrigo do n.º 3 devem incluir os seguintes elementos:\n\na) A avaliação efectuada nos termos do n.º 5 do artigo 5.º, acompanhada de um resumo das informações em que se baseia;\n\nb) Prova do cumprimento dos critérios previstos nos artigos 2.º e 6.º; e\n\nc) A justificação dos montantes propostos.\n\n5. Simultaneamente com a apresentação da proposta, a Comissão instaura um procedimento de trílogo, eventualmente de forma simplificada, com vista à obtenção do acordo dos dois ramos da autoridade orçamental sobre a necessidade do recurso ao FEG e sobre o montante solicitado.\n\n6. Anualmente, em 1 de Setembro, pelo menos um quarto do montante anual máximo atribuído ao FEG deve permanecer disponível, a fim de cobrir necessidades que possam surgir até ao final do ano.\n\n7. Logo que as dotações sejam disponibilizadas pela autoridade orçamental, a Comissão deve aprovar uma decisão de concessão de contribuição financeira."
+  },
+  "0071cb7389ed395d": {
+   "fragment_id": "Artigo 13.º — Pagamento e utilização da contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pagamento e utilização da contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamento e utilização da contribuição financeira\n\n1. Na sequência da aprovação da decisão referida no n.º 7 do artigo 12.º, a Comissão paga, em princípio num prazo de quinze dias, a contribuição financeira aos Estados-Membros numa prestação única.\n\n2. Os Estados-Membros devem utilizar a contribuição financeira, assim como quaisquer juros recebidos sobre esta soma, no prazo de doze meses a contar da data de candidatura nos termos do artigo 5.º."
+  },
+  "fe4972f053df97ea": {
+   "fragment_id": "Artigo 14.º — Utilização do euro",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Utilização do euro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Utilização do euro\n\nOs montantes referidos nas candidaturas, nas decisões de concessão de contribuição financeira e nos relatórios elaborados ao abrigo do presente regulamento e em quaisquer outros documentos relacionados devem ser expressos em euros."
+  },
+  "ec201c266456cab0": {
+   "fragment_id": "Artigo 15.º — Relatório final e encerramento",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Relatório final e encerramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório final e encerramento\n\n1. No prazo de seis meses após o termo do prazo fixado no n.º 2 do artigo 13.º, os Estados-Membros interessados apresentam à Comissão um relatório sobre a utilização da contribuição financeira, incluindo informações sobre o tipo de acções empreendidas e os principais resultados, juntamente com um mapa fundamentado das despesas e indicação, sempre que necessário, da complementaridade das acções com outras financiadas pelo FSE.\n\n2. Até seis meses depois de ter recebido as informações exigidas no n.º 1, a Comissão dá por terminada a intervenção financeira do FEG."
+  },
+  "921e6fc60a7b5c54": {
+   "fragment_id": "Artigo 16.º — Relatório anual",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Relatório anual\n\n1. Pela primeira vez em 2008 e antes de 1 de Julho de cada ano, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório quantitativo e qualitativo sobre as actividades realizadas ao abrigo do presente regulamento. Do relatório, que incide essencialmente sobre os resultados obtidos pelo FEG, devem constar, designadamente, informações relativas às candidaturas apresentadas, às decisões aprovadas, às acções financiadas, incluindo a sua complementaridade com acções financiadas pelos Fundos Estruturais, nomeadamente, pelo FSE, e ao termo da assistência financeira concedida. O relatório deve conter igualmente informações sobre os pedidos indeferidos por falta de dotação ou por inelegibilidade.\n\n2. O relatório é transmitido, para informação, ao Comité Económico e Social Europeu, ao Comité das Regiões e aos parceiros sociais."
+  },
+  "a13da05d232d1e72": {
+   "fragment_id": "Artigo 17.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação\n\n1. A Comissão realiza por iniciativa própria e em estreita cooperação com os Estados-Membros:\n\na) Uma avaliação intercalar da eficácia e sustentabilidade dos resultados obtidos, até 31 de Dezembro de 2011; e\n\nb) Uma avaliação *ex-post*, até 31 de Dezembro de 2014, com a assistência de peritos externos, a fim de avaliar o impacto do FEG e o seu valor acrescentado.\n\n2. Os resultados da avaliação são transmitidos, para informação, ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu, ao Comité das Regiões e aos parceiros sociais."
+  },
+  "0e0b566f86d88417": {
+   "fragment_id": "Artigo 18.º — Gestão e controlo financeiro",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Gestão e controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gestão e controlo financeiro\n\n1. Sem prejuízo da responsabilidade da Comissão relativamente à execução do orçamento geral da União Europeia, os Estados-Membros são os primeiros responsáveis pela gestão das acções apoiadas pelo FEG e pelo respectivo controlo financeiro. Para tal, devem tomar as seguintes medidas:\n\na) Verificar a definição e aplicação de disposições de gestão e controlo de forma a garantir que os fundos comunitários estão a ser usados com eficácia e correcção, de acordo com os princípios da boa gestão financeira;\n\nb) Verificar a correcta realização das acções financiadas;\n\nc) Garantir que as despesas financiadas assentam em documentos de apoio verificáveis e que são correctas e regulares; e\n\nd) Prevenir, detectar e corrigir irregularidades nos termos do disposto no artigo 70º do Regulamento (CE) n.º 1083/2006 do Conselho, de 11 de Julho de 2006, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão [([^6])](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntr6-L_2006406PT.01000101-E0006), e recuperar montantes pagos indevidamente, acrescidos de juros de mora nos termos do disposto no referido artigo. Destas irregularidades devem dar conhecimento, na altura devida, à Comissão e mantê-la informada dos progressos nos procedimentos administrativos e jurídicos.\n\n2. Os Estados-Membros devem proceder às correcções financeiras necessárias quando da detecção de irregularidades. As correcções efectuadas pelos Estados-Membros consistem no cancelamento da totalidade ou de parte da contribuição comunitária. Os Estados-Membros devem recuperar qualquer montante perdido em resultado de uma irregularidade detectada e reembolsá-lo à Comissão. Nos casos em que os Estados-Membros em causa não efectuem o reembolso no prazo determinado para o efeito, são cobrados juros de mora.\n\n3. A Comissão, no âmbito da sua responsabilidade pela execução do orçamento geral da União Europeia, toma as medidas necessárias para verificar que as acções financiadas são levadas a efeito em conformidade com os princípios de uma boa e eficaz gestão financeira, no respeito das disposições do Regulamento (CE, Euratom) n.º 1605/2002. Cabe aos Estados-Membros assegurar a existência de sistemas de gestão e controlo que funcionem com eficácia. Incumbe à Comissão verificar se esses sistemas estão efectivamente instituídos.\n\nPara tal, e sem prejuízo das competências do Tribunal de Contas ou dos controlos realizados pelos Estados-Membros por força de disposições legais, regulamentares e administrativas nacionais, os funcionários ou agentes da Comissão podem efectuar inspecções no local, designadamente por amostragem, das acções financiadas pelo Fundo, com um pré-aviso mínimo de um dia útil. A Comissão notifica os Estados-Membros em questão, de forma a obter toda a assistência necessária. Funcionários ou agentes dos Estados-Membros em causa podem participar nessas inspecções.\n\n4. Os Estados-Membros devem assegurar que todos os documentos comprovativos de despesas incorridas ficam à disposição da Comissão e do Tribunal de Contas por um período de três anos após o termo da assistência financeira do FEG."
+  },
+  "6f4d7fb0ea21d28d": {
+   "fragment_id": "Artigo 19.º — Reembolso da contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Reembolso da contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reembolso da contribuição financeira\n\n1. Sempre que o montante total do custo real de uma acção seja inferior à estimativa indicada nos termos do artigo 12.º, a Comissão exige dos Estados-Membros o reembolso do montante correspondente da contribuição financeira recebida.\n\n2. Se os Estados-Membros não cumprirem as obrigações decorrentes da decisão de concessão de contribuição financeira, a Comissão toma as medidas necessárias para exigir dos Estados-Membros o reembolso total ou parcial da contribuição financeira recebida.\n\n3. Antes da aprovação de uma decisão abrigo dos n.ºs 1 ou 2, a Comissão procede a uma análise adequada do caso e, em especial, concede aos Estados-Membros um prazo para apresentar observações.\n\n4. Se, após a conclusão das verificações necessárias, a Comissão concluir que os Estados-Membros não estão a cumprir as obrigações que lhes incumbem por força do n.º 1 do artigo 18.º, caso não tenha sido alcançado nenhum acordo e os Estados-Membros não tenham procedido às correcções no prazo fixado pela Comissão, e tendo em conta eventuais observações por parte dos Estados-Membros, a Comissão decide, no prazo de três meses a contar do fim do prazo acima referido, proceder às correcções financeiras necessárias exigidas, cancelando total ou parcialmente a contribuição do FEG para a acção em questão. Qualquer montante perdido em resultado de uma irregularidade detectada deve ser recuperado e, nos casos em que os Estados-Membros em causa não procedam ao reembolso em causa no prazo previsto, são cobrados juros de mora."
+  },
+  "7a815ce8ef5a28e8": {
+   "fragment_id": "Artigo 20.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revisão\n\nNa sequência do primeiro relatório anual previsto no artigo 16.º, o Parlamento Europeu e o Conselho podem proceder à revisão do presente regulamento, com base numa proposta apresentada pela Comissão, de forma a assegurar que o objectivo de solidariedade do FEG é concretizado e que as suas disposições têm em devida conta as características económicas, sociais e territoriais de todos os Estados-Membros.\n\nO Parlamento Europeu e o Conselho devem, em todo o caso, proceder à revisão do presente regulamento até 31 de Dezembro de 2013."
+  },
+  "7734485ffa18136c": {
+   "fragment_id": "Artigo 21.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.\n\nO presente regulamento é aplicável a partir de 1 de Janeiro de 2007.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em de 20 de Dezembro de 2006.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**J. KORKEAOJA**\n\n---"
+  },
+  "b918ca0a7c83e308": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntc1-L_2006406PT.01000101-E0001) Parecer de 13 de Setembro de 2006 (ainda não publicado no JO).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntc2-L_2006406PT.01000101-E0002) Parecer de 11 de Outubro de 2006 (ainda não publicado no JO).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntc3-L_2006406PT.01000101-E0003) Parecer do Parlamento Europeu de 13 de Dezembro de 2006(ainda não publicado no JO) e Decisão do Conselho de 19 de Dezembro de 2006.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntc4-L_2006406PT.01000101-E0004) [JO C 139 de 14.6.2006, p. 1](http://publications.europa.eu/resource/oj/JOC_2006_139_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntc5-L_2006406PT.01000101-E0005) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/4f39a827-712b-4ef9-ab29-d5e2bd69a441.0017.03/DOC_1#ntc6-L_2006406PT.01000101-E0006) [JO L 210 de 31.7.2006, p. 25](http://publications.europa.eu/resource/oj/JOL_2006_210_R_TOC)."
+  },
+  "fa38dc4c21a79a77": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2006\n\nque institui o Fundo Europeu de Ajustamento à Globalização\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o terceiro parágrafo do artigo 159.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité das Regiões ([^2^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#E0003)),\n\n(1) Não obstante os efeitos positivos da globalização no crescimento, no emprego e na prosperidade e a necessidade de aumentar ainda mais a competitividade europeia através de mudanças estruturais, a globalização pode comportar também repercussões negativas para os trabalhadores mais vulneráveis e menos qualificados de determinados sectores. Por conseguinte, é oportuno instituir um Fundo Europeu de Ajustamento à Globalização (a seguir designado «FEG»), acessível a todos os Estados-Membros, através do qual a Comunidade poderá demonstrar solidariedade para com trabalhadores que perderam os seus empregos em resultado de mudanças nos padrões do comércio mundial.\n\n(2) É necessário preservar os valores europeus e fomentar o desenvolvimento do comércio externo justo. Os efeitos negativos da globalização deverão ser enfrentados em primeiro lugar mediante uma estratégia comunitária de política comercial a longo prazo, sustentável e destinada a alcançar normas sociais e ecológicas de alto nível. A ajuda concedida pelo FEG deverá ser de carácter dinâmico e susceptível de se adaptar às circunstâncias do mercado, continuamente em mudança e frequentemente imprevistas.\n\n(3) O FEG deverá providenciar apoio específico e pontual para facilitar a reintegração profissional de trabalhadores em áreas, sectores, territórios ou bacias de emprego atingidos por graves perturbações económicas. O FEG deverá promover o espírito empresarial, por exemplo, através de micro-créditos ou da criação de projectos cooperativos.\n\n(4) As acções realizadas ao abrigo do presente regulamento deverão ser definidas segundo rigorosos critérios de intervenção em função da escala da deslocalização económica e respectivo impacto num determinado sector ou área geográfica, de forma a assegurar que a contribuição financeira do FEG se concentre nos trabalhadores das regiões e dos sectores económicos da Comunidade mais seriamente afectados. Essa deslocalização não se concentra necessariamente num único Estado-Membro. Nestas circunstâncias excepcionais, os Estados-Membros poderão, por isso, apresentar conjuntamente pedidos de assistência ao abrigo do FEG.\n\n(5) As actividades do FEG deverão ser coerentes e compatíveis com as outras políticas da Comunidade e conformes com o seu acervo, sobretudo no que respeita às intervenções dos Fundos Estruturais, constituindo simultaneamente um verdadeiro contributo para as políticas sociais da Comunidade.\n\n(6) O ponto 28 do Acordo Interinstitucional de 17 de Maio de 2006 entre o Parlamento Europeu, o Conselho e a Comissão, sobre a disciplina orçamental e a boa gestão financeira ([^4^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#E0004)) (a seguir designado «Acordo Interinstitucional»), estabelece o quadro orçamental do FEG.\n\n(7) Uma acção específica financiada ao abrigo do presente regulamento não deverá beneficiar de assistência financeira no âmbito de outros instrumentos financeiros da Comunidade. Porém, é necessária a coordenação com as medidas de modernização e de reestruturação existentes ou planeadas, apesar de tal coordenação não dever resultar na criação de estruturas de gestão paralelas ou adicionais relativamente às acções financiadas pelo FEG.\n\n(8) De forma a facilitar a aplicação do presente regulamento, as despesas deverão ser elegíveis a partir da data em que o Estado-Membro dá início à prestação de serviços personalizados aos trabalhadores atingidos. Reflectindo a necessidade de uma resposta concentrada que vise especificamente a reinserção no mundo do trabalho, deverá ser estabelecido um prazo para a utilização da contribuição financeira do FEG.\n\n(9) Os Estados-Membros deverão continuar a ser os responsáveis pela utilização da contribuição financeira e pela gestão e controlo das operações financiadas pela Comunidade, de acordo com o Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europei ([^5^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#E0005)) (a seguir designado «o Regulamento Financeiro»). Os Estados-Membros deverão justificar a utilização dada à contribuição financeira recebida do FEG.\n\n(10) O Observatório Europeu da Mudança poderá apoiar a Comissão e os Estados-Membros interessados através de análises quantitativas e qualitativas, a fim de os assistir na avaliação de candidaturas a contribuições do FEG.\n\n(11) Atendendo a que os objectivos do presente regulamento não podem ser suficientemente realizados pelos Estados-Membros e podem pois, devido sua à dimensão e efeitos, ser mais bem alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio de proporcionalidade, consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar aqueles objectivos.\n\n(12) Dado que o período de execução do FEG está vinculado à duração do quadro financeiro, de 1 de Janeiro de 2007 a 31 de Dezembro de 2013, o apoio aos trabalhadores afectados por despedimentos ligados à evolução da estrutura do comércio deverá estar disponível a partir de 1 de Janeiro de 2007,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "3213e6850c40798e": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. Tendo em vista estimular o crescimento económico e a criação de mais emprego na União Europeia, o presente regulamento institui o FEG, para permitir à Comunidade apoiar os trabalhadores que perderam os respectivos empregos em resultado de importantes mudanças na estrutura do comércio mundial causadas pela globalização, sempre que se verifique um impacto negativo considerável na economia regional ou local.\n\nO período de aplicação do FEG está vinculado ao quadro financeiro para o período compreendido entre 1 Janeiro de 2007 e 31 Dezembro de 2013.\n\n1-A. Não obstante o disposto no n.º 1, o FEG apoia também trabalhadores despedidos directamente em razão da crise económica e financeira mundial, desde que as candidaturas cumpram os critérios enunciados nas alíneas a), b) ou c) do artigo 2.º. Os Estados-Membros que se candidatem a uma contribuição do FEG ao abrigo da presente disposição deverão comprovar a existência de uma relação directa entre os despedimentos e a crise económica e financeira.\n\nA presente excepção aplica-se a todas as candidaturas apresentadas até 31 de Dezembro de 2011.\n\n2. O presente regulamento estabelece as regras de funcionamento do FEG, de forma a facilitar a reinserção profissional de trabalhadores que perderam os seus empregos em resultado da evolução da estrutura do comércio."
+  },
+  "dfa9ad6d1972dfdd": {
+   "fragment_id": "Artigo 2.º — Critérios de intervenção",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Critérios de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Critérios de intervenção\n\nO FEG intervém financeiramente sempre que importantes mudanças na estrutura do comércio mundial conduzam a graves perturbações económicas, em especial a um aumento substancial de importações para a União Europeia, ou ao declínio acelerado da quota de mercado da UE num determinado sector ou a uma deslocalização para países terceiros, que tenham por consequência:\n\na) Pelo menos 500 despedimentos num período de quatro meses numa empresa de um Estado-Membro, incluindo-se neste número os trabalhadores despedidos de empresas suas fornecedoras ou produtoras a jusante;\n\nb) Pelo menos 500 despedimentos num período de nove meses, em particular em pequenas ou médias empresas, numa divisão de nível 2 da NACE, numa região ou em duas regiões contíguas ao nível NUTS II; ou\n\nc) Em mercados de trabalho de pequena dimensão ou em circunstâncias excepcionais, devidamente justificadas pelo Estado-Membro em causa, um pedido de contribuição do FEG pode considerar-se admissível mesmo que os critérios de intervenção fixados nas alíneas a) ou b) não se encontrem totalmente reunidos, desde que os despedimentos tenham graves repercussões no emprego e na economia local. O Estado-Membro deve especificar que o seu pedido não cumpre inteiramente os critérios de intervenção estabelecidos na alínea a) ou na alínea b). O montante agregado das contribuições em circunstâncias excepcionais não pode exceder 15 % da dotação máxima anual do FEG.\n\nPara efeitos do cálculo do número de despedimentos previsto nas alíneas a), b) e c) do parágrafo anterior, um despedimento deve ser contado a partir:\n\n— da data de notificação pelo empregador do despedimento ou do termo do contrato de trabalho do trabalhador,\n\n— da data do termo de facto do contrato de trabalho antes de este ter expirado, ou\n\n— da data em que o empregador, nos termos do n.º 1 do artigo 3.º da Directiva 98/59/CE do Conselho, de 20 de Julho de 1998, relativa à aproximação das legislações dos Estados-Membros respeitantes aos despedimentos colectivos ([^6^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#E0006)), notifique a autoridade pública competente, por escrito, do projecto de despedimento colectivo; neste caso, o Estado-Membro requerente deve fornecer à Comissão informações complementares sobre o número real de despedimentos efectuados de acordo com as alíneas a), b) ou c) do primeiro parágrafo, e os custos estimados do pacote coordenado de serviços personalizados, antes da conclusão da avaliação prevista no artigo 10.º do presente regulamento.\n\nOs Estados-Membros devem especificar no seu pedido, relativamente a cada empresa interessada, o modo como os despedimentos são contados."
+  },
+  "444c51af5c96c6f2": {
+   "fragment_id": "Artigo 3.º — Acções elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Acções elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acções elegíveis\n\nPode ser concedida uma contribuição financeira do FEG para medidas activas com incidência no mercado de trabalho que possam inscrever-se num conjunto coordenado de serviços personalizados destinados a reintegrar no mercado de trabalho os trabalhadores vítimas de despedimento, incluindo:\n\na) Assistência na procura de emprego, orientação profissional, formação e reconversão específicas, nomeadamente em competências ligadas às tecnologias da informação e da comunicação e validação da experiência adquirida, ajuda à recolocação e promoção do espírito empresarial ou apoio ao exercício de uma actividade por conta própria;\n\nb) Medidas especiais limitadas no tempo, tais como subsídios de procura de emprego, de mobilidade ou atribuídos a pessoas que participam em acções de formação e de formação ao longo da vida; e\n\nc) Incentivos dirigidos, em particular, aos trabalhadores desfavorecidos ou mais idosos a permanecerem ou regressarem ao mercado de trabalho.\n\nO FEG não financia medidas passivas de protecção social.\n\nPor iniciativa dos Estados-Membros interessados, o FEG pode financiar actividades preparatórias e de gestão, informação, publicidade e controlo com vista à execução do fundo."
+  },
+  "e4ea3c8a2d43c112": {
+   "fragment_id": "Artigo 3.ºA — Pessoas elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 3.ºA — Pessoas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.ºA — Pessoas elegíveis\n\nOs Estados-Membros podem fornecer serviços personalizados co-financiados pelo FEG aos trabalhadores atingidos, dos quais podem fazer parte:\n\na) Os trabalhadores despedidos durante o período previsto nas alíneas a), b) e c) do artigo 2.º; e\n\nb) Os trabalhadores despedidos antes ou depois do período previsto nas alíneas a) ou c) do artigo 2.º, nos casos em que o pedido feito ao abrigo da alínea c) do artigo 2.º não cumpra os critérios estabelecidos na alínea a) do mesmo artigo, desde que os despedimentos tenham ocorrido após o anúncio público dos despedimentos previstos e que possa ser estabelecido um vínculo causal claro com o facto que motivou os despedimentos durante o período de referência."
+  },
+  "d42ef9b5fb8595dd": {
+   "fragment_id": "Artigo 4.º — Tipo de contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Tipo de contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipo de contribuição financeira\n\nA Comissão concede as contribuições financeiras sob a forma de pagamentos únicos, a concretizar no quadro do procedimento de gestão partilhada entre os Estados-Membros e a Comissão, nos termos da alínea b) do n.º 1 e dos n.^os^ 5 e 6 do artigo 53.º do Regulamento Financeiro."
+  },
+  "55bd9d79064becbc": {
+   "fragment_id": "Artigo 5.º — Candidaturas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidaturas\n\n1. Os Estados-Membros devem apresentar à Comissão as candidaturas à contribuição do FEG no prazo de 10 semanas a contar da data em que estejam cumpridos os critérios de intervenção definidos no artigo 2.º. As candidaturas podem ser posteriormente complementadas pelos Estados-Membros interessados.\n\n2. As candidaturas devem incluir as seguintes informações:\n\na) Uma análise fundamentada da ligação entre os despedimentos e importantes mudanças na estrutura do comércio mundial ou a crise económica e financeira, a prova do número de despedimentos e uma explicação da natureza imprevista desses despedimentos.\n\nb) A identificação das empresas que procederam aos despedimentos (nacionais ou multinacionais), dos fornecedores ou produtores a jusante, dos sectores e das categorias dos trabalhadores em questão;\n\nc) A descrição da região afectada e das suas autoridades e outros interessados, assim como o impacto esperado dos despedimentos no emprego local, regional ou nacional;\n\nd) O pacote coordenado de serviços personalizados a financiar e uma repartição dos custos previstos, incluindo a sua complementaridade com as acções financiadas pelos Fundos Estruturais, assim como informações sobre as acções obrigatórias por força da legislação nacional ou de convenções colectivas;\n\ne) As datas em que se iniciou ou se tenciona dar início às prestações de serviços personalizados aos trabalhadores atingidos;\n\nf) Os procedimentos de consulta dos parceiros sociais; e\n\ng) A autoridade responsável pela gestão e o controlo financeiro nos termos do artigo 18.º\n\n3. Atendendo às acções empreendidas pelos Estados-Membros, a região, os parceiros sociais e as empresas abrangidas por força da legislação nacional ou de convenções colectivas, e tendo especialmente em conta actividades financiadas pelo Fundo Social Europeu (a seguir designado «FSE»), as informações prestadas nos termos do n.º 2 devem incluir uma descrição sucinta das acções realizadas ou programadas pela autoridade nacional e as empresas implicadas, acompanhada de uma estimativa do respectivo custo.\n\n4. Os Estados-Membros interessados devem igualmente transmitir dados estatísticos e outras informações, ao nível territorial mais adequado, necessários à Comissão para a avaliação do cumprimento dos critérios de intervenção.\n\n5. Com base nas informações fornecidas ao abrigo do n.º 2 e em quaisquer informações adicionais fornecidas pelos Estados-Membros interessados, a Comissão, em consulta com o Estado-Membro interessado, avalia se estão reunidas as condições para a concessão da contribuição financeira nos termos do presente regulamento."
+  },
+  "83f5a9b7643d7181": {
+   "fragment_id": "Artigo 6.º — Complementaridade, conformidade e coordenação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Complementaridade, conformidade e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Complementaridade, conformidade e coordenação\n\n1. A contribuição do FEG não substitui as acções que são da responsabilidade das empresas por força da legislação nacional ou de convenções colectivas.\n\n2. A contribuição do FEG deve complementar as acções dos Estados-Membros a nível nacional, regional e local, incluindo as acções co-financiadas pelos Fundos Estruturais.\n\n3. A contribuição do FEG deve oferecer solidariedade e apoio individualmente aos trabalhadores que perderam o respectivo emprego em consequência de mudanças estruturais nos padrões do comércio mundial. O FEG não financia a reestruturação de empresas ou de sectores.\n\n4. No quadro das respectivas responsabilidades, a Comissão e os Estados-Membros devem assegurar a coordenação da assistência proveniente de fundos comunitários.\n\n5. Os Estados-Membros devem assegurar que as acções específicas financiadas pelo FEG não recebem apoios por parte de outros instrumentos financeiros comunitários."
+  },
+  "25a50d24ce9f5d2f": {
+   "fragment_id": "Artigo 7.º — Igualdade entre homens e mulheres e não discriminação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Igualdade entre homens e mulheres e não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Igualdade entre homens e mulheres e não discriminação\n\nA Comissão e os Estados-Membros devem assegurar a igualdade entre homens e mulheres e a integração da perspectiva do género nas diversas fases de execução do FEG. A Comissão e os Estados-Membros devem aprovar as medidas adequadas para evitar qualquer discriminação em razão do sexo, da origem racial ou étnica, da religião ou crença, de deficiência, da idade ou da orientação sexual nas diversas fases de execução do FEG e, em particular, no acesso a este."
+  },
+  "41b7613cec33953a": {
+   "fragment_id": "Artigo 8.º — Assistência técnica por iniciativa da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Assistência técnica por iniciativa da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Assistência técnica por iniciativa da Comissão\n\n1. Por iniciativa da Comissão, e num limite de 0,35 % da dotação máxima anual do FEG, o FEG pode ser utilizado para financiar actividades de preparação, acompanhamento, informação, criação de uma base de conhecimentos relevante para o período de execução do FEG. Este também pode ser utilizado para apoio financeiro, administrativo e técnico, bem como para actividades de auditoria, inspecção e avaliação necessárias à aplicação do presente regulamento.\n\n2. Sem prejuízo do limite estabelecido no n.º 1, a autoridade orçamental disponibiliza uma verba para assistência técnica no início de cada ano, com base numa proposta da Comissão.\n\n3. As acções previstas no n.º 1 devem ser executadas de acordo com o Regulamento Financeiro e com as regras de execução aplicáveis a esta forma de execução do orçamento.\n\n4. A assistência técnica da Comissão deve incluir o fornecimento de informações e orientações aos Estados-Membros no tocante à utilização, ao acompanhamento e à avaliação do FEG. A Comissão pode igualmente prestar informações sobre a utilização do FEG aos parceiros sociais europeus e nacionais."
+  },
+  "1487ef5dae7f8751": {
+   "fragment_id": "Artigo 9.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação e publicidade\n\n1. Os Estados-Membros interessados devem informar sobre as acções financiadas e divulgá-las. A informação deve ser dirigida aos trabalhadores afectados, às autoridades locais e regionais, aos parceiros sociais, aos meios de comunicação e ao público em geral. Essa informação deve realçar o papel da Comunidade e assegurar a visibilidade das intervenções do FEG.\n\n2. A Comissão deve criar um sítio *web*, disponível em todas as línguas comunitárias, que faculte informações sobre o FEG e orientações sobre a apresentação de candidaturas, assim como informação actualizada relativa às candidaturas aceites e rejeitadas e realçando o papel da autoridade orçamental."
+  },
+  "7f3c9844b377fa17": {
+   "fragment_id": "Artigo 10.º — Determinação da contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Determinação da contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Determinação da contribuição financeira\n\n1. Com base na avaliação efectuada nos termos do n.º 5 do artigo 5.º, e tendo especialmente em conta o número de trabalhadores a apoiar, as acções propostas e os custos previstos, a Comissão avalia e propõe, logo que possível, o montante da contribuição financeira, se for o caso, que pode ser concedido dentro dos limites dos recursos disponíveis. Este montante não pode exceder 50 % do custo total previsto a que se refere a alínea d) do n.º 2 do artigo 5.º. Relativamente aos pedidos apresentados antes da data mencionada no n.º 1-A do artigo 1.º, o montante não pode exceder 65 %.\n\n2. Se, com base na avaliação efectuada nos termos do n.º 5 do artigo 5.º, a Comissão concluir que estão preenchidas as condições de concessão de contribuição financeira ao abrigo do presente regulamento, dá imediatamente início ao procedimento definido no artigo 12.º\n\n3. Se, com base na avaliação efectuada nos termos do n.º 5 do artigo 5.º, a Comissão concluir que não estão preenchidas as condições de concessão de contribuição financeira ao abrigo do presente regulamento, logo que possível, informa desse facto os Estados-Membros interessados."
+  },
+  "807be777b7110ac1": {
+   "fragment_id": "Artigo 11.º — Elegibilidade das despesas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Elegibilidade das despesas\n\nAs despesas são elegíveis para uma contribuição financeira do FEG a partir das datas em que os Estados-Membros interessados dão início à prestação de serviços personalizados aos trabalhadores afectados, nos termos da alínea e) do n.º 2 do artigo 5.º\n\nNo caso dos subsídios, os custos indirectos declarados numa base forfetária são despesas elegíveis para uma contribuição do FEG até um máximo de 20 % dos custos directos de cada operação, desde que sejam suportados nos termos da regulamentação nacional, incluindo as regras contabilísticas."
+  },
+  "f115ae98b5ff200b": {
+   "fragment_id": "Artigo 12.º — Processo orçamental",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Processo orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Processo orçamental\n\n1. As regras do FEG respeitam o disposto no ponto 28 do Acordo Interinstitucional\n\n2. As dotações para o FEG são inscritas no orçamento geral da União Europeia a título de provisão através do processo orçamental normal, assim que a Comissão tiver identificado as margens suficientes e/ou as autorizações anuladas.\n\n3. Se a Comissão concluir que deverá ser concedida uma contribuição financeira ao abrigo do FEG, apresenta à autoridade orçamental uma proposta de autorização das dotações correspondentes ao montante determinado nos termos do artigo 10.º e um pedido de transferência do montante para a rubrica orçamental relativa ao FEG. As propostas podem ser grupadas em lotes.\n\nAs transferências respeitantes ao FEG são efectuadas nos termos do n.º 4 do artigo 24.º do Regulamento Financeiro.\n\n4. As propostas ao abrigo do n.º 3 devem incluir os seguintes elementos:\n\na) A avaliação efectuada nos termos do n.º 5 do artigo 5.º, acompanhada de um resumo das informações em que se baseia;\n\nb) Prova do cumprimento dos critérios previstos nos artigos 2.º e 6.º; e\n\nc) A justificação dos montantes propostos.\n\n5. Simultaneamente com a apresentação da proposta, a Comissão instaura um procedimento de trílogo, eventualmente de forma simplificada, com vista à obtenção do acordo dos dois ramos da autoridade orçamental sobre a necessidade do recurso ao FEG e sobre o montante solicitado.\n\n6. Anualmente, em 1 de Setembro, pelo menos um quarto do montante anual máximo atribuído ao FEG deve permanecer disponível, a fim de cobrir necessidades que possam surgir até ao final do ano.\n\n7. Logo que as dotações sejam disponibilizadas pela autoridade orçamental, a Comissão deve aprovar uma decisão de concessão de contribuição financeira."
+  },
+  "cfc94ef8e99e4467": {
+   "fragment_id": "Artigo 13.º — Pagamento e utilização da contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pagamento e utilização da contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamento e utilização da contribuição financeira\n\n1. Na sequência da aprovação da decisão referida no n.º 7 do artigo 12.º, a Comissão paga, em princípio num prazo de quinze dias, a contribuição financeira aos Estados-Membros interessados numa prestação única.\n\n2. Os Estados-Membros devem realizar todas acções elegíveis incluídas no pacote coordenado de serviços personalizados logo que possível, no máximo até 24 meses após a data de candidatura nos termos do artigo 5.º ou após a data de início destas medidas, desde que entre esta última data e a data de candidatura não decorram mais de três meses."
+  },
+  "0b008c76deab94e3": {
+   "fragment_id": "Artigo 16.º — Relatório anual",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Relatório anual\n\n1. Até 1 de Julho de cada ano, e pela primeira vez em 2008, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório quantitativo e qualitativo sobre as actividades realizadas no ano anterior ao abrigo do presente regulamento. Do relatório, que incide essencialmente sobre os resultados obtidos pelo FEG, devem constar, em especial, informações relativas às candidaturas apresentadas, às decisões aprovadas, às acções financiadas, incluindo a sua complementaridade com acções financiadas pelos Fundos Estruturais, nomeadamente, pelo FSE, e ao termo da contribuição financeira concedida. O relatório deve conter igualmente informações sobre os pedidos indeferidos por falta de dotação ou por inelegibilidade.\n\n2. O relatório é transmitido, para informação, ao Comité Económico e Social Europeu, ao Comité das Regiões e aos parceiros sociais."
+  },
+  "7ceb2b9430c027e1": {
+   "fragment_id": "Artigo 17.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação\n\n1. A Comissão realiza por iniciativa própria e em estreita cooperação com os Estados-Membros:\n\na) Até 31 de Dezembro de 2011, uma avaliação intercalar da eficácia e sustentabilidade dos resultados obtidos; e\n\nb) Até 31 de Dezembro de 2014, uma avaliação *ex-post*, com a assistência de peritos externos, a fim de avaliar o impacto do FEG e o seu valor acrescentado.\n\n2. Os resultados da avaliação são transmitidos, para informação, ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu, ao Comité das Regiões e aos parceiros sociais."
+  },
+  "f2d31f941b2fcde7": {
+   "fragment_id": "Artigo 18.º — Gestão e controlo financeiro",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Gestão e controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gestão e controlo financeiro\n\n1. Sem prejuízo da responsabilidade da Comissão relativamente à execução do orçamento geral da União Europeia, os Estados-Membros são os primeiros responsáveis pela gestão das acções apoiadas pelo FEG e pelo respectivo controlo financeiro. Para tal, devem tomar as seguintes medidas:\n\na) Verificar a definição e aplicação de disposições de gestão e controlo de forma a garantir que os fundos comunitários estão a ser usados com eficácia e correcção, de acordo com os princípios da boa gestão financeira;\n\nb) Verificar a correcta realização das acções financiadas;\n\nc) Garantir que as despesas financiadas assentam em documentos de apoio verificáveis e que são correctas e regulares; e\n\nd) Prevenir, detectar e corrigir irregularidades nos termos do disposto no artigo 70.º do Regulamento (CE) n.º 1083/2006 do Conselho, de 11 de Julho de 2006, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão ([^7^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#E0007)), e recuperar montantes pagos indevidamente, acrescidos de juros de mora nos termos do disposto no referido artigo. Os Estados-Membros devem dar conhecimento destas irregularidades na altura devida, à Comissão, devendo mantê-la informada dos progressos nos procedimentos administrativos e jurídicos.\n\n2. Os Estados-Membros devem proceder às correcções financeiras necessárias aquando da detecção de irregularidades. As correcções efectuadas pelos Estados-Membros consistem no cancelamento da totalidade ou de parte da contribuição comunitária. Os Estados-Membros devem recuperar qualquer montante perdido em resultado de uma irregularidade detectada e reembolsá-lo à Comissão. Nos casos em que os Estados-Membros em causa não efectuem o reembolso no prazo determinado para o efeito, são cobrados juros de mora.\n\n3. A Comissão, no âmbito da sua responsabilidade pela execução do orçamento geral da União Europeia, toma as medidas necessárias para verificar que as acções financiadas são efectuadas em conformidade com os princípios de uma boa e eficaz gestão financeira, no respeito das disposições do Regulamento Financeiro. Cabe aos Estados-Membros interessados assegurar a existência de sistemas de gestão e controlo que funcionem com eficácia. Incumbe à Comissão verificar se esses sistemas estão efectivamente instituídos.\n\nPara tal, e sem prejuízo das competências do Tribunal de Contas ou dos controlos realizados pelos Estados-Membros por força de disposições legais, regulamentares e administrativas nacionais, os funcionários ou agentes da Comissão podem efectuar inspecções no local, designadamente por amostragem, das acções financiadas pelo FEG, com um pré-aviso mínimo de um dia útil. A Comissão notifica os Estados-Membros em questão, de forma a obter toda a assistência necessária. Funcionários ou agentes dos Estados-Membros em causa podem participar nessas inspecções.\n\n4. Os Estados-Membros devem assegurar que todos os documentos comprovativos de despesas incorridas ficam à disposição da Comissão e do Tribunal de Contas por um período de três anos após o termo da contribuição financeira do FEG."
+  },
+  "c2937cf684e74d42": {
+   "fragment_id": "Artigo 19.º — Reembolso da contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Reembolso da contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reembolso da contribuição financeira\n\n1. Sempre que o montante total do custo real de uma acção seja inferior à estimativa indicada nos termos do artigo 12.º, a Comissão exige dos Estados-Membros o reembolso do montante correspondente da contribuição financeira recebida.\n\n2. Se os Estados-Membros não cumprirem as obrigações decorrentes da decisão de concessão de contribuição financeira, a Comissão toma as medidas necessárias para exigir dos Estados-Membros o reembolso total ou parcial da contribuição financeira recebida.\n\n3. Antes da aprovação de uma decisão abrigo dos n.^os^ 1 ou 2, a Comissão procede a uma análise adequada do caso e, em especial, concede aos Estados-Membros um prazo para apresentar observações.\n\n4. Se, após a conclusão das verificações necessárias, a Comissão concluir que os Estados-Membros não estão a cumprir as obrigações que lhes incumbem por força do n.º 1 do artigo 18.º, caso não tenha sido alcançado nenhum acordo e os Estados-Membros não tenham procedido às correcções no prazo fixado pela Comissão, e tendo em conta eventuais observações por parte dos Estados-Membros, a Comissão decide, no prazo de três meses a contar do fim do prazo acima referido, proceder às correcções financeiras necessárias exigidas, cancelando total ou parcialmente a contribuição do FEG para a acção em questão. Qualquer montante perdido em resultado de uma irregularidade detectada deve ser recuperado e, nos casos em que os Estados-Membros em causa não procedam ao reembolso no prazo previsto, são cobrados juros de mora."
+  },
+  "1b31dba143405624": {
+   "fragment_id": "Artigo 20.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revisão\n\nNa sequência do primeiro relatório anual previsto no artigo 16.º, o Parlamento Europeu e o Conselho podem proceder à revisão do presente regulamento, com base numa proposta apresentada pela Comissão, de forma a assegurar que o objectivo de solidariedade do FEG é concretizado e que as suas disposições têm em devida conta as características económicas, sociais e territoriais de todos os Estados-Membros.\n\nCom base numa proposta da Comissão, o Parlamento Europeu e o Conselho podem rever o presente regulamento, incluindo a excepção temporária prevista no n.º 1-A do artigo 1.\n\nO Parlamento Europeu e o Conselho devem, em todo o caso, proceder à revisão do presente regulamento até 31 de Dezembro de 2013."
+  },
+  "44b4f38482ea5458": {
+   "fragment_id": "Artigo 21.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2007.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "71a1b2c298c8c5e5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#src.E0001)) JO C 318 de 23.12.2006, p. 38.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#src.E0002)) JO C 51 de 6.3.2007, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 13 de Dezembro de 2006 (JO C 317 E de 23.12.2006, p. 432) e Decisão do Conselho de 19 de Dezembro de 2006.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#src.E0004)) JO C 139 de 14.6.2006, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#src.E0005)) JO L 248 de 16.9.2002, p. 1. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º 1995/2006 (JO L 390 de 30.12.2006, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#src.E0006)) JO L 225 de 12.8.1998, p. 16.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b945b3fb-f798-4380-ba9f-069e4fb46f75.0018.03/DOC_1#src.E0007)) JO L 210 de 31.7.2006, p. 25. Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1989/2006 (JO L 411 de 30.12.2006, p. 6)."
+  },
+  "22bbdfc23085d89b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006R1927 — PT — 01.01.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006R1927) [REGULAMENTO (CE) N.º 1927/2006 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32006R1927) [de 20 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1927) [que institui o Fundo Europeu de Ajustamento à Globalização](http://publications.europa.eu/resource/celex/32006R1927) (JO L 406, 30.12.2006, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1309/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1309) — L 347 — 855 — 20.12.2013"
+  }
+ }
+}

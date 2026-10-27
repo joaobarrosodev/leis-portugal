@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R3118:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R3118-20111204",
+ "dre_path": null,
+ "source_lastmod": "2011-12-04",
+ "versions": [
+  {
+   "date": "1993-11-12",
+   "future": false,
+   "celex": "31993R3118",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a3c51680a1ed9176",
+    "ae411f7fb6e0f287",
+    "176104bcdac48213",
+    "d054818ddbe6aba8",
+    "e20bae993360deb2",
+    "72a839145db5d2fc",
+    "0d5a3f2f6c74b855",
+    "366636264c2553f6",
+    "d463acba9b430d36",
+    "fda4f0d9ffea0e0e",
+    "70eb0ea8715754ed",
+    "868cc3c86ba7d706",
+    "2820db199877f82c",
+    "6bb21d401a5125ab",
+    "e89dcfc1a6575239",
+    "8cf8f5cb468734e7",
+    "875086a2556fbc65"
+   ]
+  },
+  {
+   "date": "2011-12-04",
+   "future": false,
+   "celex": "01993R3118-20111204",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime ANEXO IV"
+   ],
+   "fragments": [
+    "c1c757984c4fe7b4"
+   ]
+  }
+ ],
+ "fragments": {
+  "a3c51680a1ed9176": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3118/93 do Conselho, de 25 de Outubro de 1993, que fixa as condições de admissão de transportadores não residentes aos transportes nacionais rodoviários de mercadorias num Estado-membro** *Jornal Oficial nº L 279 de 12/11/1993 p. 0001 - 0016 Edição especial finlandesa: Capítulo 7 Fascículo 5 p. 0021 Edição especial sueca: Capítulo 7 Fascículo 5 p. 0021*\n\nREGULAMENTO (CEE) No 3118/93 DO CONSELHO de 25 de Outubro de 1993 que fixa as condições de admissão de transportadores não residentes aos transportes nacionais rodoviários de mercadorias num Estado-membro\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a criação de uma política comum dos transportes implica, nomeadamente nos termos do no 1, alínea b), do artigo 75o do Tratado, o estabelecimento das condições de admissão de transportadores não residentes aos transportes nacionais num Estado-membro;\n\nConsiderando que a referida disposição implica a eliminação de todas as restrições em relação ao prestador de serviços devido à sua nacionalidade ou à circunstância de se encontrar estabelecido num Estado-membro que não seja aquele em que a prestação deve ser efectuada;\n\nConsiderando que, para possibilitar uma aplicação flexível e harmoniosa dessa disposição, convém prever um regime transitório de cabotagem antes da aplicação do regime definitivo;\n\nConsiderando que apenas os transportadores titulares da licença comunitária prevista no Regulamento (CEE) no 881/92 do Conselho, de 26 de Março de 1992, relativo ao acesso ao mercado dos transportes rodoviários de mercadorias na Comunidade efectuados a partir de ou com destino ao território de um Estado-membro ou que atravessem o território de um ou vários Estados-membros (4), ou os transportadores habilitados a efectuar determinadas categorias de transportes internacionais podem ser admitidos aos transportes de cabotagem;\n\nConsiderando que esse regime transitório deve incluir a criação de um contingente progressivo de autorizações comunitárias de cabotagem;\n\nConsiderando que há que fixar as condições de emissão e utilização das referidas autorizações de cabotagem;\n\nConsiderando que é necessário determinar as disposições do Estado-membro de acolhimento aplicáveis às operações de cabotagem;\n\nConsiderando que é necessário adoptar disposições que permitam intervir no mercado dos transportes em causa quando se verifique uma perturbação grave; que, para esse efeito, se impõem a criação de um processo de decisão adaptado e a recolha dos dados estatísticos necessários;\n\nConsiderando que é oportuno que os Estados-membros prestem assistência mútua para a boa aplicação do regime criado, nomeadamente em matéria de sanções aplicáveis em caso de infracções; que as sanções devem ser não discriminatórias e proporcionais à gravidade das infracções; que é necessário prever um sistema de recurso;\n\nConsiderando a conveniência de a Comissão apresentar, periodicamente, um relatório sobre a aplicação do presente regulamento;\n\nConsiderando que para cumprir as obrigações que incumbem ao Conselho, há que prever a entrada em vigor de um regime definitivo que permita realizar transportes de cabotagem sem restrições quantitativas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ae411f7fb6e0f287": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Qualquer transportador rodoviário de mercadorias por conta de outrem que seja titular da licença comunitária prevista no Regulamento (CEE) no 881/92 fica autorizado, nas condições fixadas pelo presente regulamento, a efectuar, a título temporário, transportes nacionais rodoviários de mercadorias por conta de outrem noutro Estado-membro, adiante designados « transportes de cabotagem » e « Estado-membro de acolhimento », respectivamente, sem aí dispor de uma sede ou de outro estabelecimento.\n\n2. Além disso, qualquer transportador autorizado no Estado-membro de estabelecimento, nos termos da legislação desse Estado, a efectuar transportes rodoviários de mercadorias por conta de outrem referidos nos pontos 1, 2 e 3 do anexo da Primeira Directiva (5) fica autorizado, nas condições fixadas no presente regulamento, a efectuar, consoante o caso, transportes de cabotagem da mesma natureza ou transportes de cabotagem com veículos da mesma categoria.\n\n3. A admissão aos transportes de cabotagem, no âmbito dos transportes referidos no ponto 5 do anexo da Primeira Directiva, não fica sujeita a qualquer restrição.\n\n4. Qualquer empresa autorizada a efectuar no Estado-membro de estabelecimento, nos termos da legislação desse Estado, transportes rodoviários de mercadorias por conta própria, fica autorizada a efectuar transportes de cabotagem por conta própria, tal como definidos no ponto 4 do anexo da Primeira Directiva.\n\nA Comissão adoptará as regras de execução do presente número."
+  },
+  "176104bcdac48213": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Tendo em vista a instituição progressiva do regime definitivo definido no artigo 12o, os transportes de cabotagem serão efectuados durante um período compreendido entre 1 de Janeiro de 1994 e 30 de Junho de 1998, no âmbito de um contingente comunitário de cabotagem, sem prejuízo do no 3 do artigo 1o\n\nAs autorizações de cabotagem serão elaboradas em conformidade com o modelo reproduzido no anexo I.\n\nO contingente comunitário de cabotagem compreende 30 000 autorizações de cabotagem com uma duração de dois meses e será aumentado anualmente em 30 % a partir de 1 de Janeiro de 1995.\n\n2. A pedido de um Estado-membro, a apresentar até 1 de Novembro de cada ano, uma autorização de cabotagem pode ser transformada em duas autorizações de curta duração, válidas por um mês.\n\nAs autorizações de cabotagem de curta duração devem ser elaboradas em conformidade com o modelo reproduzido no anexo II.\n\n3. O contingente será repartido entre os diferentes Estados-membros do seguinte modo:\n\n\"\" ID=\"01\">Bélgica> ID=\"02\">2 593> ID=\"03\">3 371> ID=\"04\">4 383> ID=\"05\">5 698> ID=\"06\">3 704\"> ID=\"01\">Dinamarca> ID=\"02\">2 516> ID=\"03\">3 271> ID=\"04\">4 253> ID=\"05\">5 529> ID=\"06\">3 594\"> ID=\"01\">Alemanha> ID=\"02\">4 252> ID=\"03\">5 528> ID=\"04\">7 187> ID=\"05\">9 344> ID=\"06\">6 074\"> ID=\"01\">Grécia> ID=\"02\">1 146> ID=\"03\">1 490> ID=\"04\">1 937> ID=\"05\">2 519> ID=\"06\">1 638\"> ID=\"01\">Espanha> ID=\"02\">2 688> ID=\"03\">3 495> ID=\"04\">4 544> ID=\"05\">5 908> ID=\"06\">3 841\"> ID=\"01\">França> ID=\"02\">3 516> ID=\"03\">4 571> ID=\"04\">5 943> ID=\"05\">7 726> ID=\"06\">5 022\"> ID=\"01\">Irlanda> ID=\"02\">1 169> ID=\"03\">1 520> ID=\"04\">1 976> ID=\"05\">2 569> ID=\"06\">1 670\"> ID=\"01\">Itália> ID=\"02\">3 520> ID=\"03\">4 576> ID=\"04\">5 949> ID=\"05\">7 734> ID=\"06\">5 028\"> ID=\"01\">Luxemburgo> ID=\"02\">1 207> ID=\"03\">1 570> ID=\"04\">2 041> ID=\"05\">2 654> ID=\"06\">1 726\"> ID=\"01\">Países Baixos> ID=\"02\">3 662> ID=\"03\">4 761> ID=\"04\">6 190> ID=\"05\">8 047> ID=\"06\">5 231\"> ID=\"01\">Portugal> ID=\"02\">1 525> ID=\"03\">1 983> ID=\"04\">2 578> ID=\"05\">3 352> ID=\"06\">2 179\"> ID=\"01\">Reino Unido> ID=\"02\">2 206> ID=\"03\">2 868> ID=\"04\">3 729> ID=\"05\">4 848> ID=\"06\">3 152 \">"
+  },
+  "d054818ddbe6aba8": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. As autorizações de cabotagem referidas no artigo 2o permitem ao titular efectuar transportes de cabotagem.\n\n2. As autorizações de cabotagem serão atribuídas pela Comissão aos Estados-membros de estabelecimento e concedidas aos transportadores que as solicitarem pela autoridade ou organismo competente do Estado-membro de estabelecimento.\n\nAs autorizações ostentarão o sinal distintivo do Estado-membro de estabelecimento.\n\n3. A autorização de cabotagem é emitida em nome de um transportador, que a não poderá transmitir a terceiros. Cada autorização de cabotagem só pode ser utilizada para um veículo de cada vez.\n\nPor « veículo » entende-se um veículo a motor registado no Estado-membro de estabelecimento ou um conjunto de veículos acoplados dos quais pelo menos o veículo a motor está registado no Estado-membro de estabelecimento, destinados exclusivamente ao transporte de mercadorias.\n\nO transportador não residente dispõe do veículo quer em propriedade plena quer a outro título, nomeadamente em virtude de um contrato de compra a prestações, de um contrato de aluguer ou de um contrato de locação financeira (leasing).\n\nEm caso de aluguer, o veículo é tomado de aluguer pelo transportador no Estado-membro de estabelecimento para efectuar transportes de cabotagem. No entanto, o transportador não residente pode, a fim de terminar uma operação de cabotagem interrompida por motivo de avaria ou de acidente, alugar um veículo no Estado-membro de acolhimento nas mesmas condições que os transportadores residentes.\n\nA autorização de cabotagem e, se for caso disso, o contrato de aluguer devem acompanhar o veículo a motor.\n\n4. A autorização de cabotagem deve ser apresentada sempre que solicitada pelos agentes encarregados do controlo.\n\n5. A data a partir da qual a autorização de cabotagem é válida será obrigatoriamente indicada na autorização antes da sua utilização pela autoridade ou organismo competente do Estado-membro de estabelecimento."
+  },
+  "e20bae993360deb2": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs transportes efectuados ao abrigo de uma autorização de cabotagem serão registados num caderno de verbetes, cujas folhas serão enviadas juntamente com a autorização, no prazo de oito dias a contar da data do termo de validade desta última, à autoridade ou organismo competente do Estado-membro de estabelecimento que emitiu a autorização.\n\nO caderno de verbetes será elaborado em conformidade com o modelo reproduzido no anexo III."
+  },
+  "72a839145db5d2fc": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. No fim de cada trimestre e num prazo de três meses, eventualmente reduzido pela Comissão para um mês no caso referido no artigo 7o, a autoridade ou organismo competente de cada Estado-membro comunicará à Comissão os dados relativos às operações de cabotagem efectuadas nesse trimestre pelos transportadores residentes. Esses dados serão expressos em toneladas transportadas e em toneladas-quilómetros.\n\nEssa comunicação será efectuada por meio de um quadro elaborado em conformidade com o modelo reproduzido no anexo IV.\n\n2. Logo que possível, a Comissão comunicará aos Estados-membros os quadros recapitulativos elaborados com base nos dados que lhe forem transmitidos nos termos do no 1."
+  },
+  "0d5a3f2f6c74b855": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A realização dos transportes de cabotagem está sujeita, sob reserva da aplicação da regulamentação comunitária, às disposições legislativas, regulamentares e administrativas em vigor no Estado-membro de acolhimento nos seguintes domínios:\n\na) Preços e condições do contrato de transporte;\n\nb) Pesos e dimensões dos veículos rodoviários: os valores desses pesos e dimensões poderão eventualmente ultrapassar os aplicáveis no Estado-membro de estabelecimento do transportador, mas nunca poderão ultrapassar os valores técnicos certificados pela prova de conformidade referida no no 1 do artigo 1o da Directiva 86/364/CEE do Conselho (6);\n\nc) Requisitos relativos ao transporte de determinadas categorias de mercadorias, nomeadamente mercadorias perigosas, géneros perecíveis, animais vivos;\n\nd) Períodos de condução e de repouso;\n\ne) Imposto sobre o valor acrescentado (IVA) sobre os serviços de transporte. Neste domínio, é aplicável às prestações referidas no artigo 1o do presente regulamento o no 1, alínea a), do artigo 21o da Directiva 77/388/CEE (7).\n\n2. As normas técnicas relativas à construção e equipamento dos veículos a que devem obedecer os veículos utilizados para efectuar transportes de cabotagem são as impostas aos veículos autorizados a circular nos transportes internacionais.\n\n3. As disposições referidas no no 1 devem ser aplicadas aos transportadores não residentes nas mesmas condições que as que o Estado-membro impõe aos seus próprios nacionais, a fim de impedir qualquer discriminação, manifesta ou dissimulada, com base na nacionalidade ou no lugar do estabelecimento.\n\n4. Se, tendo em conta a experiência adquirida, se verificar a necessidade de adaptar a lista dos domínios das disposições do Estado-membro de acolhimento referidas no no 1, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, alterará essa lista."
+  },
+  "366636264c2553f6": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Em caso de perturbação grave do mercado de transportes nacionais numa zona geográfica determinada, devido à actividade de cabotagem ou por ela agravada, os Estados-membros podem solicitar à Comissão a adopção de medidas de salvaguarda, fornecendo-lhe as informações necessárias e comunicando-lhes as medidas que tencionam tomar em relação aos transportadores residentes.\n\n2. Para efeitos do no 1, considera-se:\n\n- perturbação grave do mercado de transportes nacionais numa zona geográfica determinada: o surgimento, nesse mercado, de problemas específicos do mesmo, que possam originar um excedente grave, susceptível de persistir, da oferta em relação à procura, implicando uma ameaça para o equilíbrio financeiro e a sobrevivência de numerosas empresas de transporte rodoviário de mercadorias,\n\n- zona geográfica: uma zona que englobe parte ou todo o território de um Estado-membro ou se alargue a parte ou a todo o território de outros Estados-membros.\n\n3. A Comissão analisará a situação com base, nomeadamente, nos últimos dados trimestrais referidos no artigo 5o, e, após consulta do comité consultivo criado pelo artigo 5o do Regulamento (CEE) no 3916/90 (8), decidirá, no prazo de um mês a contar da recepção do pedido do Estado-membro, se devem ou não ser tomadas medidas de salvaguarda, procedendo, em caso afirmativo, à sua adopção.\n\nEssas medidas podem ir até à exclusão temporária da zona geográfica em questão do âmbito de aplicação do presente regulamento.\n\nAs medidas adoptadas nos termos do presente artigo continuarão em vigor por um período não superior a seis meses, renovável uma vez dentro dos mesmos limites de validade.\n\nA Comissão notificará imediatamente os Estados-membros e o Conselho de qualquer decisão tomada nos termos do presente número.\n\n4. Se a Comissão decidir tomar medidas de salvaguarda relativas a um ou vários Estados-membros, as autoridades competentes dos Estados-membros em questão serão obrigadas a tomar medidas de alcance equivalente em relação aos transportadores residentes, e informarão a Comissão desse facto.\n\nEstas medidas serão aplicáveis o mais tardar a partir da mesma data que as medidas de salvaguarda decididas pela Comissão.\n\n5. Os Estados-membros poderão submeter à apreciação do Conselho a decisão da Comissão referida no no 3, num prazo de 30 dias a contar da sua notificação.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente, num prazo de 30 dias a contar da data em que a questão lhe tiver sido apresentada por um Estado-membro ou, caso vários Estados-membros o tenham feito, a contar da data em que tiver sido contactado pela primeira vez.\n\nSerão aplicáveis à decisão do Conselho os limites de validade previstos no terceiro parágrafo do no 3.\n\nAs autoridades competentes dos Estados-membros interessados serão obrigadas a tomar medidas de alcance equivalente em relação aos transportadores residentes e informarão a Comissão desse facto.\n\nSe o Conselho não tomar uma decisão dentro do prazo referido no segundo parágrafo, a decisão da Comissão torna-se definitiva.\n\n6. Se a Comissão considerar que as medidas referidas no no 3 devem ser reconduzidas, apresentará uma proposta ao Conselho, que deliberará por maioria qualificada."
+  },
+  "d463acba9b430d36": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Os Estados-membros coadjuvar-se-ao mutuamente na aplicação do presente regulamento.\n\n2. Sem prejuízo de acções penais, a autoridade competente do Estado-membro de acolhimento pode aplicar sanções a qualquer transportador não residente que tenha cometido infracções ao presente regulamento ou à regulamentação comunitária ou nacional em matéria de transportes durante um transporte de cabotagem no território desse Estado-membro. A autoridade competente aplicará essas sanções numa base não discriminatória e nos termos do no 3.\n\n3. As sanções referidas no no 2 podem nomeadamente assumir a forma de uma advertência ou, em caso de infracção grave ou reiterada, de uma proibição temporária dos transportes de cabotagem no território do Estado-membro de acolhimento em que a infracção tiver sido cometida.\n\nEm caso de apresentação de uma autorização de cabotagem falsificada, o documento falsificado será imediatamente retirado e enviado, logo que possível, à autoridade competente do Estado-membro de estabelecimento do transportador.\n\n4. A autoridade competente do Estado-membro de acolhimento notificará a autoridade do Estado-membro de estabelecimento das infracções verificadas e das sanções eventualmente aplicadas ao transportador, podendo, em caso de infracção grave ou reiterada, fazer acompanhar essa notificação de um pedido de sanção.\n\nEm caso de infracção grave ou de reincidência, a autoridade competente do Estado-membro de estabelecimento avaliará se é conveniente aplicar uma sanção adequada ao transportador em causa; essa autoridade deve ter em conta a sanção eventualmente aplicada no Estado-membro de acolhimento e garantir que as sanções aplicadas ao transportador em causa sejam, no seu conjunto, proporcionais à infracção ou infracções que originaram essas sanções.\n\nA sanção aplicada pela autoridade competente do Estado-membro de estabelecimento, após consulta da autoridade competente do Estado-membro de acolhimento, pode ir até à retirada da autorização de exercício da profissão de transportador rodoviário de mercadorias.\n\nA autoridade competente do Estado-membro de estabelecimento pode igualmente, nos termos da legislação interna, instaurar um processo ao transportador em questão numa instância nacional competente.\n\nA autoridade competente do Estado-membro de estabelecimento informará a autoridade competente do Estado-membro de acolhimento das decisões tomadas nos termos dos parágrafos anteriores."
+  },
+  "fda4f0d9ffea0e0e": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros garantirão que o requerente ou o titular de uma autorização de cabotagem possa recorrer judicialmente da decisão de recusa ou de retirada da referida autorização, bem como de qualquer sanção administrativa que lhe tenha sido aplicada pela autoridade competente do Estado-membro de estabelecimento ou do Estado-membro de acolhimento."
+  },
+  "70eb0ea8715754ed": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros adoptarão em tempo útil, e comunicarão à Comissão, as disposições legislativas, regulamentares e administrativas relativas à execução do presente regulamento."
+  },
+  "868cc3c86ba7d706": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nDe dois em dois anos e, pela primeira vez, o mais tardar em 30 de Junho de 1996, a Comissão apresentará ao Conselho um relatório sobre a aplicação do presente regulamento."
+  },
+  "2820db199877f82c": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. O presente regulamento entra em vigor em 1 de Janeiro de 1994.\n\n2. O regime de autorização e contingentação comunitárias dos transportes de cabotagem previsto no artigo 2o deixa de ser aplicável em 1 de Julho de 1998.\n\n3. A partir dessa data, todos os transportadores não residentes que preencham as condições previstas no artigo 1o serão autorizados a efectuar, a título temporário e sem restrições quantitativas, transportes nacionais rodoviários de mercadorias noutro Estado-membro, sem que para tal necessitem de aí dispor de uma sede ou de outra forma de estabelecimento.\n\nSe necessário, a Comissão apresentará ao Conselho, tendo em conta a experiência adquirida, a evolução do mercado dos transportes e os progressos verificados em matéria de harmonização no sector dos transportes, uma proposta sobre as modalidades de acompanhamento do regime definitivo relativas a um sistema adequado de observação do mercado dos transportes de cabotagem e à adaptação das medidas de salvaguarda previstas no artigo 7o\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 25 de Outubro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nPh. MAYSTADT\n\n(1) JO no C 317 de 7. 12. 1991, p. 10, e JO no C 172 de 8. 7. 1992, p. 22.\n\n(2) JO no C 150 de 15. 6. 1992, p. 336.\n\n(3) JO no C 169 de 6. 7. 1992, p. 30.\n\n(4) JO no L 95 de 9. 4. 1992, p. 1.\n\n(5) Primeira Directiva do Conselho, de 23 de Julho de 1962, relativa ao estabelecimento de certas regras comuns para certos transportes rodoviários de mercadorias (JO no 70 de 6. 8. 1962, p. 2005/62). Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) no 881/92 (JO no L 95 de 9. 4. 1992, p. 1).\n\n(6) JO no L 221 de 7. 8. 1986, p. 48.\n\n(7) Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-membros respeitantes aos impostos sobre o volume de negócios - sistema comum do imposto sobre o valor acrescentado: matéria colectável uniforme (JO no L 145 de 13. 6. 1977, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 92/111/CEE (JO no L 384 de 30. 12. 1992, p. 47).\n\n(8) JO no L 375 de 31. 12. 1990, p. 10."
+  },
+  "6bb21d401a5125ab": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n(a)\n\n(Papel forte de cor verde - dimensões DIN A4)\n\n(Primeira página da autorização de cabotagem)\n\n(Indicação das datas limite do período de validade)\n\n[Texto redigido na, nas ou numa das línguas oficiais do Estado-membro que emite a autorização - a tradução nas outras línguas oficiais da Comunidade figura nas páginas (e) e (f)]\n\nCOMISSÃO DAS COMUNIDADES EUROPEIAS (Selo branco da Comissão das Comunidades Europeias) Estado que emite a autorização - sinal distintivo do país (1) - Denominação da autoridade ou do organismo competente\n\nAUTORIZAÇÃO DE CABOTAGEM No... para o transporte rodoviário nacional de mercadorias num Estado-membro da Comunidade Económica Europeia efectuado por um transportador não residente (cabotagem)\n\nA presente autorização habilita (2)\n\na efectuar transportes rodoviários nacionais de mercadorias num Estado-membro da Comunidade Económica Europeia diferente daquele em que estiver estabelecido o titular da presente autorização, por meio de um veículo a motor ou de um conjunto de veículos acoplados, e a deslocar em vazio esses veículos em todo o território da Comunidade.\n\nA presente autorização é válida por dois meses, de\n\na\n\nEmitida em, em\n\n(3)\n\n(b)\n\n(Segunda página da autorização de cabotagem)\n\n[Texto redigido na, nas ou numa das línguas oficiais do Estado-membro que emite a autorização - a tradução nas outras línguas oficiais da Comunidade figura nas páginas (c) e (d)]\n\nDisposições gerais A presente autorização permite efectuar transportes rodoviários nacionais de mercadorias em todos os Estados-membros da Comunidade Económica Europeia, com exclusão do Estado-membro em que estiver estabelecido o titular da autorização (cabotagem).\n\nÉ pessoal e não transmissível a terceiros.\n\nPode ser retirada pela autoridade competente do Estado-membro que a emitiu ou, em caso de falsificação da autorização, pelo Estado-membro em que são efectuados os transportes de cabotagem.\n\nSó pode ser utilizada para um único veículo de cada vez. Por veículo, entende-se um veículo a motor registado no Estado-membro de estabelecimento ou um conjunto de veículos acoplados dos quais pelo menos o veículo a motor está registado no Estado-membro de estabelecimento destinados exclusivamente ao transporte de mercadorias.\n\nNo caso de um conjunto de veículos acoplados, deve acompanhar o veículo a motor.\n\nA autorização deve encontrar-se a bordo do veículo e ser acompanhada de uma caderneta de verbetes descritivos do serviço de transportes nacionais de cabotagem efectuados ao seu abrigo.\n\nA autorização de cabotagem e a caderneta de verbetes descritivos devem ser obrigatoriamente preenchidas antes do início dos transportes de cabotagem.\n\nA autorização e a caderneta de verbetes descritivos do serviço de transportes nacionais de cabotagem devem ser apresentadas aos agentes encarregados do controlo sempre que solicitadas.\n\nSob reserva da aplicação da regulamentação comunitária, a realização dos transportes de cabotagem encontra-se sujeita às disposições legislativas, regulamentares e administrativas em vigor no Estado-membro de acolhimento, nos seguintes domínios:\n\na) Preço e condições do contrato de transporte;\n\nb) Pesos e dimensões dos veículos rodoviários; os valores desses pesos e dimensões poderão eventualmente ultrapassar os aplicáveis no Estado-membro de estabelecimento do transportador, mas nunca poderão ultrapassar os valores técnicos inscritos no certificado de conformidade;\n\nc) Requisitos relativos aos transportes de certos tipos de mercadorias, nomeadamente as mercadorias perigosas, géneros deterioráveis, animais vivos;\n\nd) Períodos de condução e de descanso;\n\ne) IVA correspondente aos serviços de transporte.\n\nAs normas técnicas relativas à construção e equipamento dos veículos a que devem obedecer os veículos utilizados para efectuar transportes de cabotagem serão as impostas aos veículos autorizados a circular nos transportes internacionais.\n\nA presente autorização deve ser devolvida à autoridade ou organismo competente que a emitiu nos oito dias seguintes ao termo da sua validade.\n\n(c) e (d)\n\n(Terceira, quarta e quinta páginas da autorização de cabotagem)\n\n[Tradução nas outras línguas oficiais da Comunidade do texto que figura na página (b)]\n\n(e) e (f)\n\n(Sexta, sétima e oitava páginas da autorização de cabotagem)\n\n[Tradução nas outras línguas oficiais da Comunidade do texto que figura na página (a)]\n\n(1) Sinal distintivo do país: Bélgica (B), Dinamarca (DK), Alemanha (D), Grécia (GR), Espanha (E), França (F), Irlanda (IRL), Itália (I), Luxemburgo (L), Países Baixos (NL), Portugal (P), Reino Unido (GB).\n\n(2) Nome ou firma e endereço completo do transportador.\n\n(3) Assinatura e carimbo da autoridade ou do organismo competente que emite a autorização."
+  },
+  "e89dcfc1a6575239": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n(a)\n\n(Papel forte cor-de-rosa - dimensões DIN A4)\n\n(Primeira página da autorização de cabotagem de curta duração)\n\n(Indicação das datas-limite do período de validade)\n\n[Texto redigido na, nas ou numa das línguas oficiais do Estado-membro que emite a autorização - a tradução nas outras línguas oficiais da Comunidade figura nas páginas (e) e (f)]\n\nCOMISSÃO DAS COMUNIDADES EUROPEIAS (Selo branco da Comissão das Comunidades Europeias) Estado que emite a autorização - sinal distintivo do país (1) - Denominação da autoridade ou do organismo competente\n\nAUTORIZAÇÃO DE CABOTAGEM No... para o transporte rodoviário nacional de mercadorias num Estado-membro da Comunidade Económica Europeia efectuado por um transportador não residente (cabotagem)\n\nA presente autorização habilita (2)\n\na efectuar transportes rodoviários nacionais de mercadorias num Estado-membro da Comunidade Económica Europeia diferente daquele em que estiver estabelecido o titular da presente autorização, por meio de um veículo a motor ou de um conjunto de veículos acoplados, e a deslocar em vazio esses veículos em todo o território da Comunidade.\n\nA presente autorização é válida por um mês, de\n\na\n\nEmitida em, em\n\n(3)\n\n(b)\n\n(Segunda página da autorização de cabotagem)\n\n[Texto redigido na, nas ou numa das línguas oficiais do Estado-membro que emite a autorização - a tradução nas outras línguas oficiais da Comunidade figura nas páginas (c) e (d)]\n\nDisposições gerais A presente autorização permite efectuar transportes rodoviários nacionais de mercadorias em todos os Estados-membros da Comunidade Económica Europeia, com exclusão do Estado-membro em que estiver estabelecido o titular da autorização (cabotagem).\n\nÉ pessoal e não transmissível a terceiros.\n\nPode ser retirada pela autoridade competente do Estado-membro que a emitiu ou, em caso de falsificação da autorização, pelo Estado-membro em que são efectuados os transportes de cabotagem.\n\nSó pode ser utilizada para um único veículo de cada vez. Por veículo entende-se um veículo a motor registado no Estado-membro de estabelecimento ou um conjunto de veículos acoplados dos quais pelo menos o veículo a motor está registado no Estado-membro de estabelecimento destinados exclusivamente ao transporte de mercadorias.\n\nNo caso de um conjunto de veículos acoplados, deve acompanhar o veículo a motor.\n\nA autorização deve encontrar-se a bordo do veículo e ser acompanhada de uma caderneta de verbetes descritivos do serviço de transportes nacionais de cabotagem efectuados ao seu abrigo.\n\nA autorização de cabotagem e a caderneta de verbetes descritivos devem ser obrigatoriamente preenchidas antes do início dos transportes de cabotagem.\n\nA autorização e a caderneta de verbetes descritivos do serviço de transportes nacionais de cabotagem devem ser apresentadas aos agentes encarregados do controlo sempre que solicitadas.\n\nSob reserva da aplicação da regulamentação comunitária, a realização dos transportes de cabotagem encontra-se sujeita às disposições legislativas, regulamentares e administrativas em vigor no Estado-membro de acolhimento, nos seguintes domínios:\n\na) Preço e condições do contrato de transporte;\n\nb) Pesos e dimensões dos veículos rodoviários; os valores desses pesos e dimensões poderão eventualmente ultrapassar os aplicáveis no Estado-membro de estabelecimento do transportador, mas nunca poderão ultrapassar os valores técnicos inscritos no certificado de conformidade;\n\nc) Requisitos relativos aos transportes de certos tipos de mercadorias, nomeadamente as mercadorias perigosas, géneros deterioráveis, animais vivos;\n\nd) Períodos de condução e de descanso;\n\ne) IVA correspondente aos serviços de transporte.\n\nAs normas técnicas relativas à construção e equipamento dos veículos a que devem obedecer os veículos utilizados para efectuar transportes de cabotagem serão as impostas aos veículos autorizados a circular nos transportes internacionais.\n\nA presente autorização deve ser devolvida à autoridade ou organismo competente que a emitiu nos oito dias seguintes ao termo da sua validade.\n\n(c) e (d)\n\n(Terceira, quarta e quinta páginas da autorização de cabotagem)\n\n[Tradução nas outras línguas oficiais da Comunidade do texto que figura na página (b)]\n\n(e) e (f)\n\n(Sexta, sétima e oitava páginas da autorização de cabotagem)\n\n[Tradução nas outras línguas oficiais da Comunidade do texto que figura na página (a)]\n\n(1) Sinal distintivo do país: Bélgica (B), Dinamarca (DK), Alemanha (D), Grécia (GR), Espanha (E), França (F), Irlanda (IRL), Itália (I), Luxemburgo (L), Países Baixos (NL), Portugal (P), Reino Unido (GB).\n\n(2) Nome ou firma e endereço completo do transportador.\n\n(3) Assinatura e carimbo da autoridade ou do organismo competente que emite a autorização."
+  },
+  "8cf8f5cb468734e7": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n(a)\n\n(Dimensões DIN A4)\n\n(Capa da caderneta de verbetes descritivos do serviço)\n\n(Texto redigido na, nas ou numa das línguas oficiais do Estado-membro que emite a caderneta - a tradução nas outras línguas oficiais da Comunidade figura no verso)\n\nEstado que emite a caderneta Denominação da autoridade ou do organismo competente\n\nSinal distintivo do país (1) Caderneta no...\n\nCADERNETA DE VERBETES DESCRITIVOS DO SERVIÇO DE TRANSPORTES NACIONAIS DE CABOTAGEM EFECTUADOS AO ABRIGO DA AUTORIZAÇÃO DE CABOTAGEM No... A presente caderneta é válida até (2)\n\nEmitida em, em\n\n(3)\n\n(b)\n\n(Verso da capa da caderneta de verbetes descritivos do serviço)\n\n1. (Tradução nas outras línguas oficiais da Comunidade do texto que figura na capa)\n\n2. (Texto redigido na, nas ou numa das línguas oficiais do Estado-membro que emite a caderneta)\n\nDisposições gerais 1. A presente caderneta contém 25 folhas destacáveis, numeradas de 1 a 25, nas quais devem ser mencionadas, aquando da carga dos veículos, todas as mercadorias transportadas ao abrigo da autorização de cabotagem a que se referem. Cada caderneta tem um número, que vem repetido em cada uma das suas folhas.\n\n2. O transportador é responsável pelo preenchimento regular dos verbetes descritivos do serviço de transportes nacionais de cabotagem.\n\n3. A caderneta deve acompanhar a autorização de cabotagem com a qual se relaciona e encontrar-se a bordo do veículo cujas deslocações em carga ou em vazio são realizadas ao abrigo da referida autorização. A caderneta deve ser apresentada aos agentes encarregados do controlo, sempre que solicitada.\n\n4. Os verbetes descritivos do serviço devem ser utilizados pela ordem da sua numeração; os registos devem respeitar a ordem cronológica pela qual se desenrolaram as sucessivas cargas.\n\n5. Cada rubrica do verbete descritiva do serviço deve ser preenchida de modo preciso e legível, em caracteres de imprensa indeléveis.\n\n6. Os verbetes descritivos do serviço utilizados devem ser devolvidos à autoridade ou organismo competente do Estado-membro que emitiu a presente caderneta, o mais tardar oito dias após o final do mês a que o verbete diz respeito. Se um transporte abranger dois períodos de referência, a data em que o carregamento é efectuado determina o período a que os respectivos verbetes devem referir-se (por exemplo, o transporte de uma mercadoria carregada no final do mês de Janeiro e descarregada no início do mês de Fevereiro deve ser incluído nos verbetes descritivos do serviço do mês de Janeiro).\n\n(c)\n\n(Rosto da página intercalar que precede as 25 folhas destacáveis)\n\n(Texto redigido na, nas ou numa das línguas oficiais do Estado-membro que emite a caderneta)\n\nNotas explicativas As indicações a colocar nas folhas seguintes dizem respeito a todas as mercadorias transportadas ao abrigo de uma autorização de cabotagem com a qual a presente caderneta se relaciona.\n\nPara cada lote de mercadorias carregadas deve ser preenchida uma linha da folha.\n\nColuna 2: Indicar, se for caso disso, a informação pedida pelo Estado-membro que emite a caderneta.\n\nColuna 3: Indicar o dia (01, 02,... 31) do mês indicado na parte superior da folha no decurso do qual teve lugar a partida em carga.\n\nColunas 4 e 5: Indicar o nome da localidade assim como, se necessário, o do departamento, da província, do Land, etc., que permitem situá-la.\n\nColuna 6: Utilizar, os seguintes sinais distintivos:\n\n- Bélgica: B,\n\n- Dinamarca: DK,\n\n- Alemanha: D,\n\n- Grécia: GR,\n\n- França: F,\n\n- Irlanda: IRL,\n\n- Espanha: E,\n\n- Itália: I,\n\n- Luxemburgo: L,\n\n- Países Baixos: NL,\n\n- Reino Unido: GB,\n\n- Portugal: P.\n\nColuna 7: Indicar a distância percorrida entre o local de carga do lote de mercadorias e o seu local de descarga.\n\nColuna 8: Indicar, em toneladas aproximadas a uma décima (por exemplo 10,0), o peso do lote de mercadorias nos mesmos termos da declaração aduaneira; não tomar em consideração o peso dos contentores ou das paletes.\n\nColuna 9: Descrever, tão exactamente quanto possível, as mercadorias compreendidas no lote.\n\nColuna 10: Reservada para uso oficial.\n\n(d)\n\nNome e endereço do transportador\n\nMês/Ano... /...\n\nMERCADORIAS TRANSPORTADAS Número da autorização:\n\nNúmero da caderneta:\n\nNúmero da folha:\n\n\"\" ID=\"01\">1 \"> ID=\"01\">2 \"> ID=\"01\">3 \"> ID=\"01\">4 \"> ID=\"01\">5 \"> ID=\"01\">6 \"> ID=\"01\">7 \"> ID=\"01\">8 \"> ID=\"01\">9 \">\n\n(1) Sinal distintivo do país: Bélgica (B), Dinamarca (DK), Alemanha (D), Grécia (GR), Espanha (E), França (F), Irlanda (IRL), Itália (I), Luxemburgo (L), Países Baixos (NL), Portugal (P), Reino Unido (GB).\n\n(2) O prazo de validade não pode ultrapassar o da autorização de cabotagem.\n\n(3) Carimbo da autoridade ou do organismo competente que emite a caderneta."
+  },
+  "875086a2556fbc65": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\nPRESTAÇÕES DE TRANSPORTE EFECTUADAS DURANTE O...... (TRIMESTRE)...... (ANO) AO ABRIGO DAS AUTORIZAÇÕES DE CABOTAGEM EMITIDAS POR...... (SINAL DISTINTIVO DO PAÍS)\n\n\"\" ID=\"01\">D\"> ID=\"01\">F\"> ID=\"01\">I\"> ID=\"01\">NL\"> ID=\"01\">B\"> ID=\"01\">L\"> ID=\"01\">GB\"> ID=\"01\">IRL\"> ID=\"01\">DK\"> ID=\"01\">GR\"> ID=\"01\">E\"> ID=\"01\">P \"> ID=\"01\">Total de cabotagem: \">"
+  },
+  "c1c757984c4fe7b4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R3118 — PT — 04.12.2011 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993R3118) [REGULAMENTO (CEE) N.º 3118/93 DO CONSELHO](http://publications.europa.eu/resource/celex/31993R3118) [de 25 de Outubro de 1993](http://publications.europa.eu/resource/celex/31993R3118) [que fixa as condições de admissão de transportadores não residentes aos transportes nacionais rodoviários de mercadorias num Estado-membro](http://publications.europa.eu/resource/celex/31993R3118) (JO L 279, 12.11.1993, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1072/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1072) — L 300 — 72 — 14.11.2009"
+  }
+ }
+}

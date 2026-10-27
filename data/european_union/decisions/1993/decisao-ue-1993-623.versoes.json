@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993D0623:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993D0623-20090701",
+ "dre_path": null,
+ "source_lastmod": "2009-07-01",
+ "versions": [
+  {
+   "date": "1993-12-03",
+   "future": false,
+   "celex": "31993D0623",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "966b69609e503341",
+    "2526b99f9efe2d5c",
+    "b66e70f6158df7bc",
+    "7d031f0d8108d8bb",
+    "6816eefdd8c0b1bc",
+    "000fb91c221f67c3",
+    "71db068794f22e5d",
+    "c0da73362480917e",
+    "20976bea9b3d72af",
+    "783155b2de926298",
+    "9866017380b21b0f",
+    "547b57a29d7e0b3e"
+   ]
+  },
+  {
+   "date": "2009-07-01",
+   "future": false,
+   "celex": "01993D0623-20090701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime ANEXO — DOCUMENTO DE IDENTIFICAÇÃO DOS EQUÍDEOS REGISTADOS PASSAPORTE Generalidades = Instruções",
+    "Suprime Capítulo VIII: — Exigências sanitárias de base",
+    "Suprime CAPÍTULO I Détails de droit de propriété",
+    "Suprime CAPÍTULO II (1) No d'identification — Identification No",
+    "Suprime CAPÍTULO IV Contrôles d'identité du cheval décrit dans ce passeport",
+    "Suprime CAPÍTULO V Grippe équine seulement — Enregistrement des vaccinations",
+    "Suprime CAPÍTULO VI Maladies autres que la grippe équine — Enregistrement des vaccinations",
+    "Suprime CAPÍTULO VII Contrôles sanitaires effectués par des laboratoires"
+   ],
+   "fragments": [
+    "36030a50a74f6d0d"
+   ]
+  }
+ ],
+ "fragments": {
+  "966b69609e503341": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**93/623/CEE: Decisão da Comissão, de 20 de Outubro de 1993, que estabelece o documento de identificação (passaporte) que acompanha os equídeos registados** *Jornal Oficial nº L 298 de 03/12/1993 p. 0045 - 0055 Edição especial finlandesa: Capítulo 3 Fascículo 53 p. 0219 Edição especial sueca: Capítulo 3 Fascículo 53 p. 0219*\n\nDECISÃO DA COMISSÃO de 20 de Outubro de 1993 que estabelece o documento de identificação (passaporte) que acompanha os equídeos registados (93/623/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 90/427/CEE do Conselho, de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos (1), e, nomeadamente, o ponto 1, primeiro parágrafo, do seu artigo 8º,\n\nConsiderando que o documento de identificação dos equídeos registados deve permitir reconstituir a origem dos animais, e conter todas as informações relativas à genealogia dos mesmos;\n\nConsiderando que o Conselho adoptou, em 26 de Junho de 1990, a Directiva 90/426/CEE, relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros (2), com a última redacção que lhe foi dada pela Directiva 92/36/CEE (3); que, em conformidade com a referida directiva, foram estabelecidos certificados sanitários específicos para as importações de cavalos registados; que esses certificados se referem ao documento de identificação (passaporte);\n\nConsiderando que, nos termos da Directiva 90/426/CEE, o documento de identificação deve ser emitido pela autoridade pecuária ou qualquer outra autoridade competente do país de origem do equídeo, responsável pelo livro genealógico ou pelo registo da raça do equídeo, ou qualquer associação ou organização internacional responsável por cavalos para concursos ou corridas; que o documento de identificação deve comportar certas informações sanitárias que permitam garantir o estatuto sanitário do equídeo;\n\nConsiderando que, a fim de garantir a identificação dos equídeos registados e de dispor de todas as informações sanitárias necessárias, nomeadamente no que se refere às vacinações e aos exames de laboratório, é conveniente estabelecer um documento de identificação;\n\nConsiderando que as medidas previstas pela presente decisão estão em conformidade com o parecer do Comité zootécnico permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "2526b99f9efe2d5c": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO documento de identificação que acompanha os equídeos registados deve estar em conformidade com o disposto no anexo."
+  },
+  "b66e70f6158df7bc": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO documento de identificação mencionado no artigo 1º:\n\n- pode acompanhar os equídeos registados nascidos antes de 1 de Janeiro de 1998,\n\n- deve acompanhar os equídeos registados nascidos após 31 de Dezembro de 1998, inclusive."
+  },
+  "7d031f0d8108d8bb": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 20 de Outubro de 1993.\n\nPela Comissão\n\nRené STEICHEN\n\nMembro da Comissão\n\n(1) JO nº L 224 de 18. 8. 1990, p. 55.\n\n(2) JO nº L 224 de 18. 8. 1990, p. 42.\n\n(3) JO nº L 157 de 10. 6. 1992, p. 28."
+  },
+  "6816eefdd8c0b1bc": {
+   "fragment_id": "ANEXO — DOCUMENTO DE IDENTIFICAÇÃO DOS EQUÍDEOS REGISTADOS PASSAPORTE Generalidades = Instruções",
+   "type": "divisao",
+   "heading": "ANEXO — DOCUMENTO DE IDENTIFICAÇÃO DOS EQUÍDEOS REGISTADOS PASSAPORTE Generalidades = Instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — DOCUMENTO DE IDENTIFICAÇÃO DOS EQUÍDEOS REGISTADOS PASSAPORTE Generalidades = Instruções\n\nI. O passaporte deve incluir todas as instruções necessárias à sua utilização, bem como as referências da autoridade competente que emitiu o passaporte.\n\nII. Teor do passaporte\n\nA. Devem constar do passaporte as seguintes informações:\n\n1. Capítulo I:\n\nProprietário do equídeo\n\nO nome do proprietário ou do seu agente deve estar indicado.\n\n2. Capítulos II e III:\n\nIdentificação do equídeo\n\nO equídeo deve ser identificado pela autoridade competente.\n\n3. Capítulo IV:\n\nRegisto dos controlos de identidade\n\nA identidade do equídeo deve ser objecto de uma verificação registada por parte da autoridade competente, sempre que as leis e regulamentos assim o exigirem.\n\n4. Capítulos V e VI:\n\nRegisto das vacinações\n\nTodas as vacinações devem ser registadas no capítulo V (unicamente a gripe equina) e no capítulo VI (todas as outras vacinações).\n\n5. Capítulo VII:\n\nControlos sanitários efectuados em laboratório\n\nDevem ser registados os resultados de todos os controlos efectuados para detecção de doenças transmissíveis.\n\nB. Podem constar do passaporte as seguintes informações:"
+  },
+  "000fb91c221f67c3": {
+   "fragment_id": "Capítulo VIII: — Exigências sanitárias de base",
+   "type": "divisao",
+   "heading": "Capítulo VIII: — Exigências sanitárias de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII: — Exigências sanitárias de base\n\nO capítulo VIII consiste num documento em que são especificadas as exigências sanitárias de base.\n\nEste capítulo contém a lista das doenças que devem ser incluídas no certificado zoo-sanitário."
+  },
+  "71db068794f22e5d": {
+   "fragment_id": "CAPÍTULO I Détails de droit de propriété",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Détails de droit de propriété",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Détails de droit de propriété\n\n1. Pour les compétitions, la nationalité du cheval est celle de son propriétaire.\n\n2. En cas de changement de propriétaire, le passeport doit être immédiatement déposé auprès de l'organisation, l'association ou le service officiel l'ayant délivré avec le nom et l'adresse du nouveau propriétaire afin de le lui transmettre après réenregistrement.\n\n3. S'il y a plus d'un propriétaire ou si le cheval appartient à une société, le nom de la personne responsable pour le cheval doit être inscrit dans le passeport ainsi que sa nationalité. Si les propriétaires sont de nationalités différentes, ils doivent préciser la nationalité du cheval.\n\n4. Lorsque la Fédération équestre internationale approuve la location d'un cheval par une Fédération équestre nationale, les détails de ces transactions doivent être enregistrés par la Fédération équestre nationale intéressée. Details of ownership\n\n1. For competitive purposes, the nationality of the horse is that of its owner.\n\n2. On change of ownership the passport must immediately be lodged with the issuing organization, association or official agency, giving the name and address of the new owner, for re-registration and forwarding to the new owner.\n\n3. If there is more than one owner or the horse is owned by a company, then the name of the individual responsible for the horse must be entered in the passport together with his nationality. If the owners are of different nationalties, they have to determine the nationality of the horse.\n\n4. When the Fédération équestre internationale approves the leasing of a horse by a national equestrian federation, the details of these transactions must be recorded by the national equestrian federation concerned. Elementos relativos ao direito de propriedade\n\n1. Para efeitos de competição, o cavalo tem a nacionalidade do seu proprietário.\n\n2. Caso se verifique uma mudança de proprietário, o passaporte deve ser imediatamente entregue à organização, associação ou serviço oficial que o emitiu, juntamente com o nome e endereço do novo proprietário, para que passe a ser entregue a este último, após o registo.\n\n3. Se houver mais do que um proprietário, ou se o cavalo pertencer a uma sociedade, deve constar do passaporte o nome da pessoa responsável pelo cavalo, bem como a sua nacionalidade. Se os proprietários forem de nacionalidades diferentes, deve ser especificada a nacionalidade do cavalo.\n\n4. Quando a Federação Equestre Internacional aprovar o aluguer de um cavalo por uma federação equestre nacional as informações relativas a estas transacções devem ser registadas pela federação equestre nacional interessada."
+  },
+  "c0da73362480917e": {
+   "fragment_id": "CAPÍTULO II (1) No d'identification — Identification No",
+   "type": "divisao",
+   "heading": "CAPÍTULO II (1) No d'identification — Identification No",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II (1) No d'identification — Identification No\n\nNúmero de identificação\n\n(2) Nom: Name Nome (3) Sexe: Sex Sexo (4) Robe: Colour Pelagem\n\n(5) Race:\n\nBreed\n\nRaça\n\n(6) par: by por (7 a) et: and e\n\n(7 b) par: by por\n\n(8) Date de naissance:\n\nDate of foaling\n\nData de nascimento\n\n(9) Lieu d'élevage:\n\nPlace where bred\n\nLugar de criação\n\n(10) Naisseur(s):\n\nBreeder(s)\n\nCriador(es)\n\n(11) Certificat d'origine validé le:\n\npar:\n\nOrigin certificate validated on:\n\nby:\n\nCertificado de origem autenticado em:\n\npor:\n\n- Nom de l'autorité compétente:\n\nName of the competent authority\n\nNome da autoridade competente\n\n- Adresse:\n\nAddress\n\nMorada\n\n- No de téléphone:\n\nTelephone number\n\nNº de telefone\n\n- No de télécopie:\n\nFax number\n\nNº de telecopiador\n\n- Signature\n\n(nom en lettres capitales et qualité du signataire)\n\nSignature\n\n(Name in capital letters and capacity of signatory)\n\nAssinatura\n\n(nome em letras maiúsculas e qualidade do signatário)\n\n- Cachet\n\nStamp\n\nCarimbo\n\nCAPITULO III (2) Nom - Name: (5) Race - Breed: (3) Sexe - Sex: (4) Robe - Colour:\n\nNome Raça Sexo Pelagem\n\n(19) Signalement relevé sous la mère par:\n\nDescription taken with dam by\n\nDescrição relativa à mae efectuada por:\n\nTête:\n\nHead\n\nCabeça\n\nAnt. G:\n\nForeleg L\n\nAnt. E\n\nAnt. D:\n\nForeleg R\n\nAnt. D\n\nPost G:\n\nHindleg L\n\nPost. E\n\nPost D:\n\nHindleg R\n\nPost D\n\nCorps:\n\nBody\n\nCorpo\n\nMarques:\n\nMarkings\n\nMarcas\n\nLe:\n\nOn\n\nEm\n\n(20) Circonscription:\n\nDistrict\n\nCircunscrição\n\n(21) Signature et cachet du vétérinaire agréé\n\n(ou de l'autorité compétente)\n\nSignature and stamp of qualified veterinary surgeon\n\n(or competent authority)\n\nAssinatura e carimbo do veterinário acreditado\n\n(ou da autoridade competente)\n\n(en lettres capitales)\n\n(in capital letters)\n\n(em letras maiúsculas)"
+  },
+  "20976bea9b3d72af": {
+   "fragment_id": "CAPÍTULO IV Contrôles d'identité du cheval décrit dans ce passeport",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV Contrôles d'identité du cheval décrit dans ce passeport",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV Contrôles d'identité du cheval décrit dans ce passeport\n\nL'identité du cheval doit être contrôlée chaque fois que les lois et règlements l'exigent: signer cette page signifie que le signalement du cheval présenté est conforme à celui de la page du signalement. Identification of the horse described in this passport\n\nThe identity of the horse must be checked each time this is required by rules and regulations and certified that it conforms with the description given on the diagram page of its passport. Controlos de identidade do cavalo descrito neste passaporte\n\nA identidade do cavalo deve ser verificada sempre que as leis e os regulamentos assim o exijam; a assinatura desta página significa que a descrição do cavalo apresentado corresponde à que consta do passaporte."
+  },
+  "783155b2de926298": {
+   "fragment_id": "CAPÍTULO V Grippe équine seulement — Enregistrement des vaccinations",
+   "type": "divisao",
+   "heading": "CAPÍTULO V Grippe équine seulement — Enregistrement des vaccinations",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V Grippe équine seulement — Enregistrement des vaccinations\n\nToute vaccination subie par le cheval doit être portée dans le cadre ci-dessous de façon lisible et précise avec le nom et la signature du vétérinaire. Equine influenza only\n\nVaccination record\n\nDetails of every vaccination which the horse undergoes must be entered clearly and in detail, and certified with the name and signature of veterinarian. Unicamente gripe equina\n\nRegisto de vacinações\n\nTodas as vacinações a que o cavalo seja submetido devem ser registadas no quadro de forma clara e precisa, com o nome e a assinatura do veterinário."
+  },
+  "9866017380b21b0f": {
+   "fragment_id": "CAPÍTULO VI Maladies autres que la grippe équine — Enregistrement des vaccinations",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI Maladies autres que la grippe équine — Enregistrement des vaccinations",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI Maladies autres que la grippe équine — Enregistrement des vaccinations\n\nToute vaccination subie par le cheval doit être portée dans le cadre ci-dessous de façon lisible et précise avec le nom et la signature du vétérinaire. Diseases other than equine influenza\n\nVaccination record\n\nDetails of every vaccination which the horse undergoes must be entered clearly and in detail, and certified with the name and signature of veterinarian. Doenças (excepto a gripe equina)\n\nRegisto de vacinação\n\nTodas as vacinações a que o cavalo seja submetido devem ser registadas no quadro de forma clara e precisa, com o nome e a assinatura do veterinário."
+  },
+  "547b57a29d7e0b3e": {
+   "fragment_id": "CAPÍTULO VII Contrôles sanitaires effectués par des laboratoires",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII Contrôles sanitaires effectués par des laboratoires",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII Contrôles sanitaires effectués par des laboratoires\n\nLe résultat de tout contrôle effectué par un vétérinaire pour une maladie transmissible ou par un laboratoire agréé par le service vétérinaire gouvernemental du pays doit être noté clairement et en détails par le vétérinaire qui représente l'autorité demandant le contrôle. Laboratory health test\n\nThe result of every test carried out for a transmissible disease by a veterinarian or a laboratory authorized by the government veterinary service of the country must be entered clearly and in detail by the veterinarian acting on behalf of the authority requesting the test. Controlos sanitários efectuados em laboratórios\n\nO resultado de qualquer controlo para detecção de uma doença transmissível efectuado por um veterinário ou por um laboratório aprovado pelo serviço veterinário oficial do país, deve ser registado de forma clara e precisa pelo veterinário que representa a autoridade que exigiu o controlo.\n\nCAPÍTULO VIII Exigences sanitaires de base Ces exigences ne sont pas valables pour l'introduction dans la Communauté Basic health requirements These requirements are not valid to enter the Community Exigências sanitárias de base Estas exigências não são válidas para a introdução na Comunidade Je soussigné (1) certifie que l'équidé décrit dans le passeport no.................... délivré par satisfait aux conditions suivantes:\n\nI, the undersigned (1), hereby certify that the equid described in passport No.................... issued by satisfies the following conditions:\n\nEu, abaixo assinado (1), certifico que o equídeo descrito no passaporte nº...................., emitido por, satisfaz as seguintes condições:\n\n(a) il a été examiné ce jour, ne présente aucun signe clinique de maladie et est apte au transport;\n\nit has been examined this day, presents no clinical sign of disease and is fit for transport;\n\nfoi examinado nesta data, não apresenta qualquer sinal clínico de doença e está apto para o transporte;\n\n(b) il n'est pas destiné à l'abattage dans le cadre d'un programme national d'éradication d'une maladie transmissible;\n\nit is not intended for slaughter under a national eradication programme for a transmissible disease;\n\nnão está destinado ao abate no âmbito de um programa nacional de erradicação de uma doença transmissível;\n\n(c) il ne provient pas d'une exploitation faisant l'objet de mesures de restriction pour des motifs de police sanitaire et n'a pas été en contact avec des équidés d'une telle exploitation;\n\nit does not come from a holding subject to restrictions for animal health reasons and has not been in contact with equidae on such a holding;\n\nnão provém de uma exploração sujeita a medidas de proibição por razões de polícia sanitária, nem esteve em contacto com equídeos de tais explorações;\n\n(d) à ma connaissance, il n'a pas été en contact avec des équidés atteints d'une maladie transmissible au cours des 15 jours précédant l'embarquement.\n\nto the best of my knowledge, it has not been in contact with equidae affected by a transmissible disease during the 15 days prior to loading.\n\no equídeo, tanto quanto me é dado a conhecer, não esteve em contacto com equídeos atingidos por uma doença transmissível durante o período de 15 dias anterior ao embarque.\n\nLA PRÉSENTE CERTIFICATION EST VALABLE 10 JOURS À COMPTER DE LA DATE DE SA SIGNATURE PAR LE VÉTÉRINAIRE OFFICIEL.\n\nTHIS CERTIFICATION IS VALID FOR 10 DAYS FROM THE DATE OF SIGNATURE BY THE OFFICIAL VETERINARIAN.\n\nO PRESENTE CERTIFICADO É VÁLIDO POR 10 DIAS A CONTAR DA DATA DA SUA ASSINATURA PELO VETERINÁRIO OFICIAL.\n\n\"\" ID=\"3\">Oui/non (barrer la mention inutile) Yes/no (delete as appropriate) Sim/não (riscar o que não interessa)\"> ID=\"3\">Oui/non (barrer la mention inutile) Yes/no (delete as appropriate) Sim/não (riscar o que não interessa)\"> ID=\"3\">Oui/non (barrer la mention inutile) Yes/no (delete as appropriate) Sim/não (riscar o que não interessa)\"> ID=\"3\">Oui/non (barrer la mention inutile) Yes/no (delete as appropriate) Sim/não (riscar o que não interessa)\"> ID=\"3\">Oui/non (barrer la mention inutile) Yes/no (delete as appropriate) Sim/não (riscar o que não interessa)\"> ID=\"3\">Oui/non (barrer la mention inutile) Yes/no (delete as appropriate) Sim/não (riscar o que não interessa) \">\n\nMaladies dont l'inclusion dans le certificat zoosanitaire joint au passeport doit être envisagée Diseases for which an endorsement must be made on the health certificate attached to the passport Doenças que devem ser incluídas no certificado sanitário anexo ao passaporte 1. Peste équine - African horse sickness - Peste equina 2. Stomatite vésiculeuse - vesicular stomatitis - Estomatite vesicular 3. Dourine - dourine - Tripanossomíase dos equídeos 4. Morve - glanders - Mormo 5. Encéphalomyélites équines (tous types) - equine encephalomyelitis (all types) - Encefalomielite equina (sob todas as formas 6. Anémie infectieuse - infectious anaemia - Anemia infecciosa 7. Rage - rabies - Raiva 8. Fièvre charbonneuse - anthrax - Carbúnculo\n\n(1) Ce document doit être signé dans les 48 heures précédant le déplacement international de l'équidé. (2) This document must be signed within 48 hours prior to international transport of the equid. (3) O presente documento deve ser assinado no prazo de 48 horas que antecede a deslocação internacional do equídeo."
+  },
+  "36030a50a74f6d0d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993D0623 — PT — 01.07.2009 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31993D0623) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31993D0623) [de 20 de Outubro de 1993](http://publications.europa.eu/resource/celex/31993D0623) [que estabelece o documento de identificação (passaporte) que acompanha os equídeos registados](http://publications.europa.eu/resource/celex/31993D0623) [(93/623/CEE)](http://publications.europa.eu/resource/celex/31993D0623) (JO L 298, 3.12.1993, p.45)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 504/2008 da Comissão de 6 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0504) — L 149 — 3 — 7.6.2008"
+  }
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:314191:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2001-74981870",
+ "dre_path": "/dr/detalhe/lei/6-2001-314191",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-05-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74915530",
+    "74915531",
+    "74915532",
+    "74915533",
+    "74915534",
+    "74915535",
+    "74915536",
+    "74915537",
+    "74915538",
+    "74915539"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66022085:por",
+     "title": "Lei n.º 82-E/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-e-2014-66022085"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "74915530",
+    "74915531",
+    "74915532",
+    "74915533",
+    "74915534",
+    "74915535",
+    "74915536",
+    "74915541",
+    "74915538",
+    "74915539",
+    "74915540"
+   ]
+  }
+ ],
+ "fragments": {
+  "74915530": {
+   "fragment_id": "74981871",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 6/2001\n\nde 11 de Maio\n\nAdopta medidas de protecção das pessoas que vivam em economia comum\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "74915531": {
+   "fragment_id": "74981872",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente lei estabelece o regime de protecção das pessoas que vivam em economia comum há mais de dois anos.\n\n2 - O disposto na presente lei não prejudica a aplicação de qualquer disposição legal ou regulamentar em vigor tendente à protecção jurídica de situações de união de facto, nem de qualquer outra legislação especial aplicável.\n\n3 - Não constitui facto impeditivo da aplicação da presente lei a coabitação em união de facto."
+  },
+  "74915532": {
+   "fragment_id": "74981873",
+   "type": 11,
+   "heading": "Artigo 2.º — Economia comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Economia comum\n\n1 - Entende-se por economia comum a situação de pessoas que vivam em comunhão de mesa e habitação há mais de dois anos e tenham estabelecido uma vivência em comum de entreajuda ou partilha de recursos.\n\n2 - O disposto na presente lei é aplicável a agregados constituídos por duas ou mais pessoas, desde que pelo menos uma delas seja maior de idade."
+  },
+  "74915533": {
+   "fragment_id": "74981874",
+   "type": 11,
+   "heading": "Artigo 3.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Excepções\n\nSão impeditivos da produção dos efeitos jurídicos decorrentes da aplicação da presente lei:\n\na) A existência entre as pessoas de vínculo contratual, designadamente sublocação e hospedagem, que implique a mesma residência ou habitação comum;\n\nb) A obrigação de convivência por prestação de actividade laboral para com uma das pessoas com quem viva em economia comum;\n\nc) As situações em que a economia comum esteja relacionada com a prossecução de finalidades transitórias;\n\nd) Encontrar-se alguma das pessoas submetida a situação de coacção física ou psicológica ou atentatória da autodeterminação individual."
+  },
+  "74915534": {
+   "fragment_id": "74985375",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos aplicáveis\n\n1 - Às pessoas em situação de economia comum são atribuídos os seguintes direitos:\n\na) Benefício do regime jurídico de férias, faltas e licenças e preferência na colocação dos funcionários da Administração Pública equiparado ao dos cônjuges, nos termos da lei;\n\nb) Benefício do regime jurídico das férias, feriados e faltas, aplicável por efeito de contrato individual de trabalho, equiparado ao dos cônjuges, nos termos da lei;\n\nc) Aplicação do regime do imposto de rendimento das pessoas singulares nas mesmas condições dos sujeitos passivos casados e não separados judicialmente de pessoas e bens, nos termos do disposto no artigo 7.º;\n\nd) Protecção da casa de morada comum, nos termos da presente lei;\n\ne) Transmissão do arrendamento por morte.\n\n2 - Quando a economia comum integrar mais de duas pessoas, os direitos consagrados nas alíneas a) e b) do número anterior apenas podem ser exercidos, em cada ocorrência, por uma delas."
+  },
+  "74915535": {
+   "fragment_id": "74985376",
+   "type": 11,
+   "heading": "Artigo 5.º — Casa de morada comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Casa de morada comum\n\n1 - Em caso de morte da pessoa proprietária da casa de morada comum, as pessoas que com ela tenham vivido em economia comum há mais de dois anos nas condições previstas na presente lei têm direito real de habitação sobre a mesma, pelo prazo de cinco anos, e, no mesmo prazo, direito de preferência na sua venda.\n\n2 - O disposto no número anterior não se aplica caso ao falecido sobrevivam descendentes ou ascendentes que com ele vivessem há pelo menos um ano e pretendam continuar a habitar a casa, ou no caso de disposição testamentária em contrário.\n\n3 - Não se aplica ainda o disposto no n.º 1 no caso de sobrevivência de descendentes menores que não coabitando com o falecido demonstrem ter absoluta carência de casa para habitação própria."
+  },
+  "74915536": {
+   "fragment_id": "74985377",
+   "type": 11,
+   "heading": "Artigo 6.º — Transmissão do arrendamento por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão do arrendamento por morte\n\nAo n.º 1 do artigo 85.º do Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de Outubro, é aditada uma alínea f), com a seguinte redacção:\n\n«f) Pessoas que com ele vivessem em economia comum há mais de dois anos.»"
+  },
+  "74915537": {
+   "fragment_id": "74985378",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime fiscal\n\nÀ situação de duas pessoas vivendo em regime de economia comum é aplicável, com as devidas adaptações, o disposto no artigo 14.º-A do Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro."
+  },
+  "74915538": {
+   "fragment_id": "74985379",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\nO Governo publicará no prazo de 90 dias os diplomas regulamentares das normas da presente lei que de tal careçam."
+  },
+  "74915539": {
+   "fragment_id": "74985380",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nOs preceitos da presente lei que tenham repercussão orçamental produzem efeitos com a lei do Orçamento do Estado posterior à sua entrada em vigor."
+  },
+  "74915541": {
+   "fragment_id": "74985378",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime fiscal",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regime fiscal\n\nÀ situação de duas pessoas vivendo em regime de economia comum é aplicável, com as devidas adaptações, o disposto no artigo 14.º-A do Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro.\n\n> Revogado pelo/a Artigo 16.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01"
+  },
+  "74915540": {
+   "fragment_id": "74985381",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de Março de 2001.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 20 de Abril de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 26 de Abril de 2001.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  }
+ }
+}

@@ -1,0 +1,1465 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:150899:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-67339181",
+ "dre_path": "/dr/detalhe/lei/66-a-2007-150899",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-12-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67334968",
+    "67334969",
+    "67334970",
+    "67334971",
+    "67334972",
+    "67334973",
+    "67334974",
+    "67340875",
+    "67340876",
+    "67340877",
+    "67340878",
+    "67340879",
+    "67340880",
+    "67340881",
+    "67340882",
+    "67340883",
+    "67340884",
+    "67340885",
+    "67340886",
+    "67340887",
+    "67340888",
+    "67340889",
+    "67340890",
+    "67340891",
+    "67340892",
+    "67340893",
+    "67340894",
+    "67340895",
+    "67340896",
+    "67340897",
+    "67340898",
+    "67340899",
+    "67340900",
+    "67340901",
+    "67340902",
+    "67340903",
+    "67340904",
+    "67340905",
+    "67340906",
+    "67340907",
+    "67340908",
+    "67340909",
+    "67340910",
+    "67340911",
+    "67340912",
+    "67340913",
+    "67340914",
+    "67340915",
+    "67340916",
+    "67340917",
+    "67340918",
+    "67340919",
+    "67340920",
+    "67340921",
+    "67340922",
+    "67340923",
+    "67340924"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:66997032:por",
+     "title": "Lei n.º 29/2015",
+     "published": "2015-04-16",
+     "dre_path": "/dr/detalhe/lei/29-2015-66997032",
+     "date": "2015-04-07"
+    }
+   ]
+  },
+  {
+   "date": "2015-04-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66997032:por",
+     "title": "Lei n.º 29/2015",
+     "published": "2015-04-16",
+     "dre_path": "/dr/detalhe/lei/29-2015-66997032"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 39.º-A",
+    "Adita Artigo 39.º-B",
+    "Adita Artigo 39.º-C",
+    "Adita Artigo 44.º-A",
+    "Adita Anexo I",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 44.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º"
+   ],
+   "fragments": [
+    "67334968",
+    "67334969",
+    "67341131",
+    "67341132",
+    "67334972",
+    "67341133",
+    "67334974",
+    "67341134",
+    "67341135",
+    "67341136",
+    "67341137",
+    "67341138",
+    "67340880",
+    "67341139",
+    "67349019",
+    "67358111",
+    "67340884",
+    "67340885",
+    "67349020",
+    "67349021",
+    "67340888",
+    "67340889",
+    "67349022",
+    "67349023",
+    "67349024",
+    "67349061",
+    "67349062",
+    "67340895",
+    "67349063",
+    "67349065",
+    "67340898",
+    "67358112",
+    "67340900",
+    "67349066",
+    "67349067",
+    "67349070",
+    "67340904",
+    "67358078",
+    "67358081",
+    "67358093",
+    "67358094",
+    "67358113",
+    "67358114",
+    "67358095",
+    "67358096",
+    "67358104",
+    "67341104",
+    "67341105",
+    "67341106",
+    "67340914",
+    "67358115",
+    "67358116",
+    "67340917",
+    "67358105",
+    "67340919",
+    "67358107",
+    "67340921",
+    "67358108",
+    "67341107",
+    "67341108",
+    "67341109",
+    "67341128",
+    "67341129"
+   ]
+  },
+  {
+   "date": "2019-02-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116043536:por",
+     "title": "Lei n.º 49/2018",
+     "published": "2018-08-14",
+     "dre_path": "/dr/detalhe/lei/49-2018-116043536"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "67334968",
+    "67334969",
+    "67341131",
+    "67341132",
+    "67334972",
+    "67341133",
+    "67334974",
+    "67341134",
+    "116056288",
+    "67341136",
+    "67341137",
+    "67341138",
+    "67340880",
+    "67341139",
+    "67349019",
+    "67358111",
+    "67340884",
+    "67340885",
+    "67349020",
+    "67349021",
+    "67340888",
+    "67340889",
+    "67349022",
+    "67349023",
+    "67349024",
+    "67349061",
+    "67349062",
+    "67340895",
+    "67349063",
+    "67349065",
+    "67340898",
+    "67358112",
+    "67340900",
+    "67349066",
+    "67349067",
+    "67349070",
+    "67340904",
+    "67358078",
+    "67358081",
+    "67358093",
+    "67358094",
+    "67358113",
+    "67358114",
+    "67358095",
+    "67358096",
+    "67358104",
+    "67341104",
+    "67341105",
+    "67341106",
+    "67340914",
+    "67358115",
+    "67358116",
+    "67340917",
+    "67358105",
+    "67340919",
+    "67358107",
+    "67340921",
+    "67358108",
+    "67341107",
+    "67341108",
+    "67341109",
+    "67341128",
+    "67341129"
+   ]
+  },
+  {
+   "date": "2023-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220113532:por",
+     "title": "Lei n.º 47/2023",
+     "published": "2023-08-21",
+     "dre_path": "/dr/detalhe/lei/47-2023-220113532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º-A",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 44.º"
+   ],
+   "fragments": [
+    "67334968",
+    "67334969",
+    "67341131",
+    "220256638",
+    "67334972",
+    "220256639",
+    "67334974",
+    "67341134",
+    "116056288",
+    "67341136",
+    "67341137",
+    "220256640",
+    "67340880",
+    "220256641",
+    "220256642",
+    "67358111",
+    "67340884",
+    "67340885",
+    "67349020",
+    "67349021",
+    "220256643",
+    "67340889",
+    "67349022",
+    "67349023",
+    "67349024",
+    "67349061",
+    "67349062",
+    "67340895",
+    "67349063",
+    "220256644",
+    "67340898",
+    "67358112",
+    "67340900",
+    "220256645",
+    "220256646",
+    "67349070",
+    "67340904",
+    "67358078",
+    "220256647",
+    "67358093",
+    "67358094",
+    "67358113",
+    "67358114",
+    "67358095",
+    "220256648",
+    "67358104",
+    "220256649",
+    "67341105",
+    "67341106",
+    "67340914",
+    "67358115",
+    "67358116",
+    "67340917",
+    "220256650",
+    "67340919",
+    "220256651",
+    "67340921",
+    "220256652",
+    "67341107",
+    "67341108",
+    "67341109",
+    "67341128",
+    "67341129"
+   ]
+  }
+ ],
+ "fragments": {
+  "67334968": {
+   "fragment_id": "67339182",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 66-A/2007\n\nde 11 de Dezembro\n\nDefine as competências, modo de organização e funcionamento do Conselho das Comunidades Portuguesas\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "67334969": {
+   "fragment_id": "67339183",
+   "type": 1,
+   "heading": "Capítulo I — Definição e competências do Conselho das Comunidades Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Definição e competências do Conselho das Comunidades Portuguesas"
+  },
+  "67334970": {
+   "fragment_id": "67339184",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\nO Conselho das Comunidades Portuguesas, adiante designado de «Conselho», é o órgão consultivo do Governo para as políticas relativas à emigração e às comunidades portuguesas."
+  },
+  "67334971": {
+   "fragment_id": "67339185",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Compete ao Conselho:\n\na) Emitir pareceres, a pedido do Governo ou da Assembleia da República, sobre projectos e propostas de lei e demais projectos de actos legislativos e administrativos, bem como sobre acordos internacionais ou normativos comunitários relativos às comunidades portuguesas residentes no estrangeiro;\n\nb) Apreciar as questões que lhe sejam colocadas pelos Governos Regionais dos Açores ou da Madeira referentes às comunidades portuguesas provenientes daquelas regiões autónomas;\n\nc) Produzir informações e emitir pareceres, por sua própria iniciativa, sobre todas as matérias que respeitem aos portugueses residentes no estrangeiro e ao desenvolvimento da presença portuguesa no mundo, e dirigi-las ao membro do Governo competente em matéria de emigração e comunidades portuguesas;\n\nd) Formular propostas e recomendações sobre os objectivos e a aplicação dos princípios da política de emigração.\n\n2 - Compete ainda ao Conselho aprovar o regulamento interno do seu funcionamento."
+  },
+  "67334972": {
+   "fragment_id": "67339186",
+   "type": 1,
+   "heading": "Capítulo II — Composição do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Composição do Conselho"
+  },
+  "67334973": {
+   "fragment_id": "67339187",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho é composto por 73 membros, entre os quais:\n\na) 63 membros eleitos;\n\nb) Um membro designado pelo Conselho Permanente das Comunidades Madeirenses;\n\nc) Um membro designado pelo Congresso das Comunidades Açorianas;\n\nd) Dois membros a designar por e de entre os luso-eleitos nos países de acolhimento na região da Europa;\n\ne) Dois membros a designar por e de entre os luso-eleitos nos países de acolhimento nas regiões fora da Europa;\n\nf) Dois membros a designar por e de entre as associações de portugueses no estrangeiro, nos países da Europa;\n\ng) Dois membros a designar por e de entre as associações de portugueses no estrangeiro, nos países fora da Europa.\n\n2 - A Mesa do Conselho é composta por um presidente, dois vice-presidentes e dois secretários, eleitos de entre os membros do Conselho referidos na alínea a) do número anterior.\n\n3 - A composição do Conselho é publicitada no sítio na Internet do Ministério dos Negócios Estrangeiros."
+  },
+  "67334974": {
+   "fragment_id": "67339188",
+   "type": 1,
+   "heading": "Capítulo III — Eleição do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Eleição do Conselho"
+  },
+  "67340875": {
+   "fragment_id": "67339189",
+   "type": 11,
+   "heading": "Artigo 4.º — Marcação de eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Marcação de eleições\n\n1 - Compete ao Governo marcar as eleições e coordenar o processo eleitoral.\n\n2 - As eleições são marcadas, com o mínimo de 70 dias de antecedência, pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, ouvido o Conselho Permanente.\n\n3 - Na inobservância do número anterior, as eleições podem ser marcadas por dois terços dos membros do Conselho Permanente, quando decorridos 90 dias após a data em que perfaçam quatro anos desde o dia da publicitação dos resultados oficiais das eleições anteriores."
+  },
+  "67340876": {
+   "fragment_id": "67339190",
+   "type": 11,
+   "heading": "Artigo 5.º — Capacidade eleitoral activa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capacidade eleitoral activa\n\n1 - Gozam de capacidade eleitoral activa os portugueses residentes no estrangeiro inscritos no posto consular da respectiva área de residência e que tenham completado 18 anos até 50 dias antes de cada eleição.\n\n2 - Em conformidade com a lei eleitoral para a Assembleia da República, não gozam de capacidade eleitoral activa:\n\na) Os interditos por sentença com trânsito em julgado;\n\nb) Os notoriamente reconhecidos como dementes, ainda que não interditos por sentença, quando internados em estabelecimento psiquiátrico ou como tais declarados por uma junta de dois médicos;\n\nc) Os que estejam privados de direitos políticos, por decisão judicial transitada em julgado."
+  },
+  "67340877": {
+   "fragment_id": "67339191",
+   "type": 11,
+   "heading": "Artigo 6.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cadernos eleitorais\n\n1 - Para os efeitos previstos na presente lei, os postos consulares organizam cadernos eleitorais onde constam os eleitores em condições de exercer o direito de voto, ao abrigo do previsto no artigo anterior.\n\n2 - Os cadernos eleitorais referidos no número anterior são organizados na data da publicação da portaria que marca as eleições e são inalteráveis nos 50 dias anteriores a cada eleição, sem prejuízo de as inscrições consulares poderem ser actualizadas a todo o tempo.\n\n3 - Cada eleitor só pode constar dos cadernos eleitorais de um posto consular.\n\n4 - Para efeitos de consulta e reclamação, são expostas nos postos consulares, durante os primeiros 10 dias dos 60 que antecedem cada eleição, cópias fiéis dos cadernos eleitorais.\n\n5 - Qualquer eleitor pode reclamar por escrito das omissões ou inscrições indevidas perante o cônsul ou, nos seus impedimentos, o seu substituto legal, devendo as reclamações ser decididas nos sete dias seguintes à sua apresentação e a decisão comunicada ao interessado e afixada no posto consular."
+  },
+  "67340878": {
+   "fragment_id": "67339192",
+   "type": 11,
+   "heading": "Artigo 7.º — Capacidade eleitoral passiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Capacidade eleitoral passiva\n\nSão elegíveis os eleitores que sejam propostos em lista completa por um mínimo de 2 % dos eleitores inscritos no respectivo círculo eleitoral até ao limite máximo de 250 cidadãos eleitores."
+  },
+  "67340879": {
+   "fragment_id": "67339193",
+   "type": 11,
+   "heading": "Artigo 8.º — Eleição dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Eleição dos membros\n\n1 - Os 63 membros são eleitos por círculos eleitorais correspondentes a áreas consulares e, quando isso não for possível, por grupos de áreas consulares, países ou grupos de países, nos termos a regulamentar pelo Governo.\n\n2 - Os membros são eleitos para mandatos de quatro anos, por sufrágio universal, directo e secreto dos eleitores constantes dos cadernos eleitorais, através de listas plurinominais.\n\n3 - Cada eleitor dispõe de um voto singular de lista.\n\n4 - Os membros só podem ser eleitos até três mandatos consecutivos."
+  },
+  "67340880": {
+   "fragment_id": "67339194",
+   "type": 11,
+   "heading": "Artigo 9.º — Sede dos círculos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sede dos círculos eleitorais\n\n1 - A sede dos círculos eleitorais correspondentes a países é a embaixada de Portugal no respectivo país.\n\n2 - Sempre que o círculo eleitoral corresponda a um grupo de países, considera-se que, para todos os efeitos, a sede desse círculo tem lugar na embaixada de Portugal situada naquele onde exista maior número de eleitores.\n\n3 - Sempre que o círculo eleitoral corresponda a um conjunto de áreas consulares, considera-se que, para todos os efeitos, a sede desse círculo tem lugar no posto consular situado naquela onde exista maior número de eleitores."
+  },
+  "67340881": {
+   "fragment_id": "67339195",
+   "type": 11,
+   "heading": "Artigo 10.º — Número de membros por círculo eleitoral e critério de eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Número de membros por círculo eleitoral e critério de eleição\n\n1 - O número de membros do Conselho a eleger por cada círculo eleitoral a que se refere o artigo anterior é proporcional ao número de eleitores inscritos, que corresponde ao total dos portugueses inscritos no conjunto das áreas consulares que o integram, e é obtido segundo o método da média mais alta de Hondt, de acordo com os seguintes critérios:\n\na) Apura-se em separado o número de votos recebidos por cada lista no círculo eleitoral respectivo;\n\nb) O número de votos apurados por cada lista é dividido, sucessivamente, por 1, 2, 3, 4, 5, etc., sendo os quocientes alinhados pela ordem decrescente da sua grandeza, numa série de tantos termos quantos os mandatos atribuídos ao círculo eleitoral respectivo;\n\nc) Os mandatos pertencem às listas a que correspondem os termos da série estabelecida pela regra anterior, recebendo cada uma das listas tantos mandatos quantos os seus termos na série;\n\nd) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de listas diferentes, o mandato cabe à lista que tiver obtido menor número de votos.\n\n2 - O número de mandatos a eleger no conjunto eleitoral de cada país não pode exceder oito membros.\n\n3 - O número de mandatos a eleger por cada círculo eleitoral é definido para cada eleição através de portaria, a publicar até 65 dias antes da eleição."
+  },
+  "67340882": {
+   "fragment_id": "67339196",
+   "type": 11,
+   "heading": "Artigo 11.º — Listas de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Listas de candidatura\n\n1 - A apresentação das listas de candidatura cabe à entidade primeira proponente de cada lista e tem lugar perante o cônsul de Portugal no círculo eleitoral de que se trate, entre os 40 e os 30 dias que antecedem a data prevista para as eleições.\n\n2 - Os candidatos de cada lista proposta à eleição consideram-se ordenados segundo a sequência da respectiva declaração de candidatura, sendo os mandatos conferidos segundo aquela ordenação.\n\n3 - As listas propostas à eleição devem conter a indicação de candidatos efectivos em número igual ao de mandatos atribuídos ao círculo eleitoral a que se refiram e de candidatos suplentes em número igual ao dos efectivos.\n\n4 - Salvo nos casos em que o número de elegíveis seja inferior a três, as listas propostas à eleição devem garantir, na indicação de candidatos efectivos e suplentes nos termos previstos no número anterior, que, pelo menos, um terço dos eleitos seja de sexo diferente.\n\n5 - Cada candidato apenas pode constar de uma lista de candidatura.\n\n6 - Cada candidato deve indicar, para efeito da apresentação da lista de candidatura, os seguintes elementos de identificação:\n\na) Nome, idade, filiação, profissão, naturalidade e residência;\n\nb) Número de inscrição consular.\n\n7 - A declaração de candidatura é assinada, conjunta ou separadamente, pelos candidatos e dela devem constar as seguintes indicações:\n\na) Que não se candidatam por qualquer outro círculo eleitoral, nem figuram em mais nenhuma lista de candidatura;\n\nb) Que aceitam a candidatura.\n\n8 - Cabe ao embaixador, ou a quem legalmente o substitua, verificar:\n\na) A regularidade do processo;\n\nb) A autenticidade dos documentos que integram o processo;\n\nc) A elegibilidade dos candidatos.\n\n9 - O embaixador, ou quem legalmente o substitua, rejeita fundamentadamente os candidatos inelegíveis, os quais devem ser substituídos no prazo de cinco dias úteis.\n\n10 - A não substituição dos candidatos declarados inelegíveis no prazo previsto no número anterior implica a recusa da lista."
+  },
+  "67340883": {
+   "fragment_id": "67339197",
+   "type": 11,
+   "heading": "Artigo 12.º — Ausência de listas de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ausência de listas de candidatura\n\nNa ausência de apresentação de listas de candidatura em qualquer círculo eleitoral, o respectivo cargo será exercido por um cidadão com capacidade eleitoral activa, nomeado pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, ouvidas as estruturas associativas locais."
+  },
+  "67340884": {
+   "fragment_id": "67339198",
+   "type": 11,
+   "heading": "Artigo 13.º — Comissões eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comissões eleitorais\n\n1 - A organização do processo eleitoral cabe às comissões eleitorais.\n\n2 - Em cada posto consular onde existam eleitores é constituída uma comissão eleitoral, composta por um representante do posto consular, que preside, e por um representante de cada lista concorrente no respectivo círculo eleitoral."
+  },
+  "67340885": {
+   "fragment_id": "67339199",
+   "type": 11,
+   "heading": "Artigo 14.º — Mesas de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Mesas de voto\n\n1 - As mesas de voto para o acto eleitoral funcionam em cada posto consular com eleitores inscritos e nas sedes das organizações não governamentais que, por reunirem as condições adequadas, tenham sido aceites através de candidatura junto da comissão eleitoral respectiva.\n\n2 - As mesas de voto são integradas pelos representantes de todas as listas concorrentes em cada círculo eleitoral e presididas por um representante do posto consular, cabendo à comissão eleitoral indicar qual a composição de cada uma das mesas.\n\n3 - O presidente da comissão eleitoral notifica as organizações não governamentais em que funcionem mesas de voto dos requisitos indispensáveis à organização do acto eleitoral e a composição das mesas, bem como faz entrega dos extractos dos cadernos eleitorais, de onde constem as inscrições dos eleitores que exerçam o seu direito de voto na respectiva organização.\n\n4 - Os actos eleitorais podem ser acompanhados por mandatários das listas de candidatos.\n\n5 - A entidade competente divulga, junto da comunidade portuguesa da respectiva área territorial, as mesas de voto existentes, indicando o espaço geográfico abrangido por cada uma delas."
+  },
+  "67340886": {
+   "fragment_id": "67339200",
+   "type": 11,
+   "heading": "Artigo 15.º — Apuramento dos resultados da eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apuramento dos resultados da eleição\n\n1 - Os presidentes das mesas de voto enviam à comissão eleitoral da respectiva área as actas de apuramento dos resultados eleitorais, rubricadas por todos os elementos que constituíram as mesas de voto.\n\n2 - O apuramento dos resultados da eleição em cada país cabe a uma assembleia de apuramento geral, que tem a seguinte composição:\n\na) Um presidente, que é o embaixador de Portugal nesse país ou, tratando-se de um grupo de países, o embaixador de Portugal no país onde haja maior número de eleitores;\n\nb) Um cônsul, ou quem desempenhe as suas funções;\n\nc) Dois elementos, sendo preferencialmente um jurista e uma pessoa com adequada formação matemática;\n\nd) Um secretário;\n\ne) Dois presidentes das mesas de voto dos círculos sorteados, sempre que existam mais de duas mesas de voto.\n\n3 - Os elementos previstos nas alíneas b), c) e d) do número anterior são designados pelo presidente da assembleia de apuramento geral."
+  },
+  "67340887": {
+   "fragment_id": "67339201",
+   "type": 11,
+   "heading": "Artigo 16.º — Publicação dos resultados da eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Publicação dos resultados da eleição\n\n1 - Os resultados do apuramento geral em cada país devem ser publicitados através da afixação de edital nos postos consulares da respectiva área territorial.\n\n2 - Os resultados gerais da eleição são publicitados no sítio na Internet do Ministério dos Negócios Estrangeiros."
+  },
+  "67340888": {
+   "fragment_id": "67339202",
+   "type": 11,
+   "heading": "Artigo 17.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Garantias\n\n1 - Cabe às embaixadas e aos postos consulares assegurar a democraticidade do processo e dos actos eleitorais que tenham lugar no âmbito da respectiva jurisdição.\n\n2 - Das decisões tomadas pela comissão eleitoral cabe recurso para a Comissão Nacional de Eleições, sem prejuízo de impugnação contenciosa nos termos gerais.\n\n3 - O recurso para a Comissão Nacional de Eleições deve ser interposto no prazo de quarenta e oito horas a contar da notificação da decisão."
+  },
+  "67340889": {
+   "fragment_id": "67339203",
+   "type": 1,
+   "heading": "Capítulo IV — Mandato dos conselheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Mandato dos conselheiros"
+  },
+  "67340890": {
+   "fragment_id": "67339204",
+   "type": 11,
+   "heading": "Artigo 18.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Mandato\n\n1 - O mandato dos conselheiros tem a duração de quatro anos.\n\n2 - O mandato inicia-se com a posse e aceitação do respectivo termo e cessa com a publicação dos resultados oficiais após as eleições subsequentes, sem prejuízo do disposto nos artigos 19.º e seguintes.\n\n3 - O modelo do termo de posse e aceitação, referido no número anterior, é definido por portaria."
+  },
+  "67340891": {
+   "fragment_id": "67339205",
+   "type": 11,
+   "heading": "Artigo 19.º — Apreciação da regularidade do mandato dos membros eleitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apreciação da regularidade do mandato dos membros eleitos\n\n1 - A regularidade dos mandatos dos membros eleitos do Conselho das Comunidades Portuguesas é verificada pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, após parecer a emitir pelo embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede de um círculo eleitoral relativamente aos eleitos pelo respectivo círculo.\n\n2 - O parecer a que se refere o número anterior inclui a apreciação da elegibilidade de cada eleito, não sendo esta prejudicada por eventuais lapsos de natureza formal."
+  },
+  "67340892": {
+   "fragment_id": "67339206",
+   "type": 11,
+   "heading": "Artigo 20.º — Substituição temporária de membros eleitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Substituição temporária de membros eleitos\n\n1 - Os membros eleitos podem requerer, uma vez por mandato, ao membro do Governo competente em matéria de emigração e comunidades portuguesas, a sua substituição temporária por motivo relevante, durante um período não superior a 65 dias.\n\n2 - Por motivo relevante entende-se:\n\na) Doença grave e prolongada;\n\nb) Caso de força maior."
+  },
+  "67340893": {
+   "fragment_id": "67339207",
+   "type": 11,
+   "heading": "Artigo 21.º — Suspensão do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Suspensão do mandato\n\n1 - Determinam a suspensão do mandato:\n\na) O deferimento de requerimento de substituição temporária por motivo relevante;\n\nb) O procedimento criminal contra o membro, em Portugal ou no estrangeiro.\n\n2 - Para efeitos da alínea b) do número anterior, os embaixadores e cônsules devem comunicar ao membro do Governo competente em matéria de emigração e comunidades portuguesas os casos de procedimento criminal contra membros do Conselho das Comunidades Portuguesas de que tenham conhecimento.\n\n3 - A suspensão do mandato de membro eleito é comunicada ao embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede do respectivo círculo eleitoral pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, para efeitos de emissão do parecer a que se refere o n.º 2 do artigo 19.º relativamente aos candidatos substitutos."
+  },
+  "67340894": {
+   "fragment_id": "67339208",
+   "type": 11,
+   "heading": "Artigo 22.º — Membro substituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Membro substituto\n\n1 - A suspensão do mandato do membro eleito determina a sua substituição pelo candidato que se seguir na ordem de precedência, o qual terá a qualidade de membro substituto.\n\n2 - No prazo de 15 dias após a recepção do aviso da comunicação de remessa do termo de aceitação, o candidato substituto aceita a substituição, assinando e devolvendo o respectivo termo, sob pena de perda da capacidade de substituição.\n\n3 - O modelo do termo de aceitação de substituto referido no número anterior será definido por portaria.\n\n4 - A perda da capacidade de substituição a que se refere o n.º 2 é notificada ao interessado pelo membro do Governo com tutela sobre a emigração e as comunidades portuguesas, precedendo parecer do embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede do círculo eleitoral respectivo.\n\n5 - Da decisão de perda de capacidade eleitoral cabe recurso, no prazo de 5 dias úteis, para o membro do Governo identificado no número anterior, que o decidirá no prazo de 10 dias úteis.\n\n6 - A perda da capacidade de substituição torna-se efectiva desde a sua publicitação no sítio na Internet do Ministério dos Negócios Estrangeiros.\n\n7 - O membro substituto cessa automaticamente funções na data em que o membro eleito retomar o exercício do seu mandato, ocupando o seu lugar na lista, para efeito de futuras substituições."
+  },
+  "67340895": {
+   "fragment_id": "67339209",
+   "type": 11,
+   "heading": "Artigo 23.º — Cessação da suspensão do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cessação da suspensão do mandato\n\n1 - Nos casos de suspensão do mandato por deferimento de requerimento de substituição temporária por motivo relevante, esta cessa:\n\na) Pela comunicação da cessação do impedimento;\n\nb) Pelo decurso do período de substituição.\n\n2 - Nos casos de suspensão do mandato em consequência de procedimento criminal contra o membro eleito, nos termos do previsto na alínea b) do n.º 1 do artigo 21.º, esta cessa por sentença absolutória ou equivalente."
+  },
+  "67340896": {
+   "fragment_id": "67339210",
+   "type": 11,
+   "heading": "Artigo 24.º — Renúncia ao mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Renúncia ao mandato\n\n1 - Os membros eleitos podem renunciar ao mandato, mediante declaração escrita enviada ao membro do Governo competente em matéria de emigração e comunidades portuguesas.\n\n2 - O requerimento para substituição equivale à renúncia, se já não existirem candidatos efectivos ou suplentes na lista de que se trate.\n\n3 - A renúncia torna-se efectiva desde a sua publicitação no sítio na Internet do Ministério dos Negócios Estrangeiros."
+  },
+  "67340897": {
+   "fragment_id": "67339211",
+   "type": 11,
+   "heading": "Artigo 25.º — Perda do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Perda do mandato\n\n1 - Determinam a perda de mandato:\n\na) A declaração de inelegibilidade na sequência da verificação da regularidade de mandatos prevista no artigo 19.º;\n\nb) A ocorrência superveniente de alguma das causas de incompatibilidade previstas no artigo 30.º;\n\nc) A ocorrência superveniente de alguma das causas de incapacidade previstas no n.º 2 do artigo 5.º;\n\nd) A perda da condição de emigrante ou de residente no círculo eleitoral pelo qual o membro foi eleito;\n\ne) A não aceitação ou renúncia ao mandato;\n\nf) A falta injustificada a uma reunião do plenário ou três reuniões das comissões ou do Conselho Permanente, sem exceder, no total, o limite de três faltas injustificadas;\n\ng) O trânsito em julgado de sentença condenatória em processo crime, de qualquer dos seus membros, em Portugal ou no estrangeiro, que haja determinado uma pena privativa da liberdade.\n\n2 - Para efeitos do disposto na alínea f) do número anterior, consideram-se justificadas as faltas dadas por motivos de doença e caso de força maior.\n\n3 - A perda de mandato é notificada ao interessado pelo membro do Governo com tutela sobre a emigração e as comunidades portuguesas, após emissão de parecer do embaixador no país em cuja embaixada de Portugal tenha tido lugar a sede do círculo eleitoral respectivo.\n\n4 - Da notificação prevista no número anterior cabe recurso, no prazo de 5 dias úteis, para o membro do Governo identificado no número anterior, que o decidirá no prazo de 10 dias úteis.\n\n5 - A perda de mandato torna-se efectiva desde a sua publicitação no sítio na Internet do Ministério dos Negócios Estrangeiros."
+  },
+  "67340898": {
+   "fragment_id": "67339212",
+   "type": 11,
+   "heading": "Artigo 26.º — Vacatura de cargo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Vacatura de cargo\n\nEm caso de vacatura do cargo, o membro eleito é substituído definitivamente pelo primeiro candidato não eleito na respectiva ordem de precedência na mesma lista, o qual adquire o estatuto de membro eleito."
+  },
+  "67340899": {
+   "fragment_id": "67339213",
+   "type": 11,
+   "heading": "Artigo 27.º — Membros designados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Membros designados\n\nO disposto nos artigos do presente capítulo é aplicável, com as devidas adaptações, aos membros designados."
+  },
+  "67340900": {
+   "fragment_id": "67339214",
+   "type": 1,
+   "heading": "Capítulo V — Direitos, deveres e incompatibilidades dos conselheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Direitos, deveres e incompatibilidades dos conselheiros"
+  },
+  "67340901": {
+   "fragment_id": "67339215",
+   "type": 11,
+   "heading": "Artigo 28.º — Deveres dos conselheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Deveres dos conselheiros\n\nConstituem deveres dos conselheiros:\n\na) Comparecer nas reuniões do plenário e das comissões que se venham a constituir e às quais pertençam, bem como nas reuniões do Conselho Permanente no caso dos membros eleitos para este órgão;\n\nb) Participar nas votações das deliberações das reuniões referidas na alínea anterior;\n\nc) Contribuir para o bom funcionamento das reuniões referidas na alínea a);\n\nd) Contribuir para o adequado desempenho das competências atribuídas ao Conselho."
+  },
+  "67340902": {
+   "fragment_id": "67339216",
+   "type": 11,
+   "heading": "Artigo 29.º — Direitos dos conselheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direitos dos conselheiros\n\nOs conselheiros gozam dos seguintes direitos:\n\na) Intervir nos debates, apresentar propostas e votar;\n\nb) Solicitar, por escrito, esclarecimentos aos titulares dos postos consulares nos círculos eleitorais pelos quais foram eleitos;\n\nc) Reunir semestralmente com os titulares das missões diplomáticas e dos postos consulares;\n\nd) Reunir trimestralmente com os conselheiros e adidos do pessoal especializado do Ministério dos Negócios Estrangeiros nas Embaixadas de Portugal, de modo a recolher toda a informação relevante sobre as questões relacionadas com as respectivas áreas funcionais, designadamente sobre questões sociais, económicas, culturais e de ensino relativas às comunidades portuguesas;\n\ne) Solicitar, por escrito, através do membro do Governo competente em matéria de emigração e comunidades portuguesas, aos diversos serviços dependentes do Estado Português no estrangeiro informações sobre questões relacionadas com as comunidades portuguesas e a emigração."
+  },
+  "67340903": {
+   "fragment_id": "67339217",
+   "type": 11,
+   "heading": "Artigo 30.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Incompatibilidades\n\nA titularidade do cargo de membro do Conselho ou de membro substituto é incompatível com:\n\na) O exercício de cargos de representação em organismos oficiais portugueses no estrangeiro;\n\nb) O exercício de actividade profissional nas representações consulares e diplomáticas de Portugal;\n\nc) O exercício, em regime de destacamento ou requisição, de qualquer actividade profissional que se encontre sob jurisdição do Estado Português."
+  },
+  "67340904": {
+   "fragment_id": "67339218",
+   "type": 1,
+   "heading": "Capítulo VI — Organização do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Organização do Conselho"
+  },
+  "67340905": {
+   "fragment_id": "67339219",
+   "type": 11,
+   "heading": "Artigo 31.º — Formas de organização do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Formas de organização do Conselho\n\nO Conselho funciona em Plenário, em Comissões e sob a forma de Conselho Permanente."
+  },
+  "67340906": {
+   "fragment_id": "67339220",
+   "type": 11,
+   "heading": "Artigo 32.º — Plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Plenário\n\n1 - Constituem o Plenário do Conselho os membros eleitos e os membros designados.\n\n2 - Podem participar nas reuniões do plenário, sem direito a voto:\n\na) O membro do Governo competente em matéria de emigração e comunidades portuguesas;\n\nb) Os deputados à Assembleia da República.\n\n3 - Pode ainda ser solicitada, ao membro do Governo competente em matéria de emigração e comunidades portuguesas, a participação nas reuniões do plenário, sem direito a voto, de:\n\na) Membros do Governo da República e dos Governos Regionais;\n\nb) Deputados à Assembleia da República e membros das Assembleias Legislativas das regiões autónomas;\n\nc) Representantes da Comissão Interministerial para as Comunidades Portuguesas;\n\nd) Representantes de organismos da Administração Pública;\n\ne) Os parceiros sociais;\n\nf) Outras entidades nacionais ou estrangeiras.\n\n4 - Os trabalhos das reuniões do plenário são conduzidos pela Mesa, constituída nos termos do n.º 2 do artigo 3.º, e eleita na primeira reunião do plenário subsequente às eleições para o Conselho.\n\n5 - O plenário reúne em Portugal, quando convocado, com a antecedência mínima de 60 dias, pelo membro do Governo competente em matéria de emigração e comunidades portuguesas ou solicitada a este por um mínimo de dois terços dos seus membros.\n\n6 - O plenário reúne ordinariamente de dois em dois anos e extraordinariamente quando, por motivos especialmente relevantes, tal se justifique.\n\n7 - Quando o membro do Governo competente em matéria de emigração e comunidades portuguesas o determinar, o plenário pode reunir fora de Portugal."
+  },
+  "67340907": {
+   "fragment_id": "67339221",
+   "type": 11,
+   "heading": "Artigo 33.º — Competências do plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competências do plenário\n\nO Conselho reunido em plenário tem as seguintes competências:\n\na) Aprovar o regulamento interno do seu funcionamento;\n\nb) Eleger os membros do Conselho Permanente;\n\nc) Criar as comissões especializadas que entenda necessárias para apreciação das matérias objecto da sua competência;\n\nd) Debater e deliberar sobre os documentos que para o efeito lhe sejam submetidos;\n\ne) Aprovar o relatório do mandato do Conselho Permanente cessante e deliberar sobre o programa de acção;\n\nf) Mandatar o Conselho Permanente para a coordenação da execução do programa de acção aprovado, bem como para assegurar a representação do Conselho das Comunidades Portuguesas em reuniões internacionais;\n\ng) Aprovar as fórmulas de distribuição pelas estruturas do Conselho das verbas que, em cada ano, lhe sejam atribuídas."
+  },
+  "67340908": {
+   "fragment_id": "67339222",
+   "type": 11,
+   "heading": "Artigo 34.º — Comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Comissões\n\n1 - As comissões especializadas podem ter carácter permanente ou temporário.\n\n2 - As comissões especializadas têm por missão elaborar relatórios e estudos sobre matérias específicas a submeter ao plenário ou a reunião do Conselho Permanente.\n\n3 - É dado conhecimento de todos os relatórios e estudos realizados pelas comissões a cada um dos membros do Conselho.\n\n4 - Para além das reuniões realizadas durante o período do plenário do Conselho, as comissões podem ainda reunir até duas vezes por ano, em Portugal, por convocatória do membro do Governo competente em matéria de emigração e comunidades portuguesas ou do presidente da comissão.\n\n5 - A composição de cada comissão especializada pode variar entre 10 a 12 membros, consoante a natureza e complexidade das matérias sobre as quais se ocupa, a fixar nos termos do n.º 1 do presente artigo.\n\n6 - De entre os membros da comissão é eleito um presidente, um vice-presidente e um secretário.\n\n7 - Cabe às comissões especializadas aprovar o regulamento interno do seu funcionamento."
+  },
+  "67340909": {
+   "fragment_id": "67339223",
+   "type": 11,
+   "heading": "Artigo 35.º — Comissões de carácter permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Comissões de carácter permanente\n\n1 - O elenco das comissões especializadas de carácter permanente, as competências materiais específicas de cada uma delas e o número de conselheiros que as integram são fixados pelo plenário, na primeira reunião subsequente às eleições para o Conselho.\n\n2 - O número de comissões especializadas de carácter permanente não pode ser superior a seis.\n\n3 - Cada conselheiro integra até duas comissões de carácter permanente, sem prejuízo de poder remeter propostas às comissões que não integra ou de participar ocasionalmente nos seus trabalhos, quando tal seja decidido pela Mesa do Conselho em parecer fundamentado."
+  },
+  "67340910": {
+   "fragment_id": "67339224",
+   "type": 11,
+   "heading": "Artigo 36.º — Comissões de carácter temporário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comissões de carácter temporário\n\n1 - O Conselho Permanente pode constituir comissões especializadas de carácter temporário para um determinado fim, até ao limite máximo de três em funcionamento simultâneo.\n\n2 - As comissões de carácter temporário extinguem-se com a aprovação do relatório final sobre o assunto que tiver sido objecto e fundamento da sua constituição."
+  },
+  "67340911": {
+   "fragment_id": "67339225",
+   "type": 11,
+   "heading": "Artigo 37.º — Conselho Permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Conselho Permanente\n\n1 - O Conselho Permanente é constituído por:\n\na) Cinco membros eleitos pelo plenário, de entre os referidos na alínea a) do n.º 1 do artigo 3.º, dos quais, pelo menos, um terço deve ser de sexo diferente;\n\nb) Os presidentes das comissões de carácter permanente que tenham sido constituídas.\n\n2 - Os membros previstos na alínea a) do número anterior são eleitos por lista completa com igual número de suplentes, que ocuparão o lugar em caso de substituição.\n\n3 - A eleição prevista no número anterior é realizada na primeira reunião do plenário após as eleições, de acordo com o previsto no regulamento do Conselho.\n\n4 - O Conselho Permanente pode ser convocado pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, pelo seu presidente ou por um mínimo de dois terços dos seus membros.\n\n5 - O Conselho Permanente funciona na Assembleia da República, reunindo ordinariamente duas vezes por ano e extraordinariamente quando, por motivos especialmente relevantes, tal se justifique.\n\n6 - No caso das reuniões extraordinárias, o direito de convocação pelo presidente ou pelos membros do Conselho só poderá ser utilizado uma vez ao longo do mandato."
+  },
+  "67340912": {
+   "fragment_id": "67339226",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências do Conselho Permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competências do Conselho Permanente\n\nCompete ao Conselho Permanente:\n\na) Eleger o presidente, o vice-presidente e um secretário, de entre os membros previstos na alínea a) do n.º 1 do artigo 37.º;\n\nb) Aprovar a sua organização interna e o regulamento interno do seu funcionamento;\n\nc) Preparar e acompanhar os trabalhos do Conselho, incluindo as reuniões plenárias;\n\nd) Coordenar a execução das deliberações e recomendações do Conselho;\n\ne) Coordenar a execução do programa de acção aprovado;\n\nf) Elaborar um relatório de actividades anual;\n\ng) Emitir parecer sobre as políticas relativas às comunidades portuguesas;\n\nh) Assegurar a representação do Conselho em reuniões internacionais;\n\ni) Gerir o seu orçamento;\n\nj) Apresentar, em cada ano, ao membro do Governo competente em matéria de emigração e comunidades portuguesas, o projecto de orçamento para o exercício das suas actividades, bem como o relatório e contas do seu funcionamento;\n\nl) Contribuir para a organização de inventário das potencialidades humanas, nomeadamente culturais, artísticas e económicas, das comunidades portuguesas e disponibilizá-lo a todas as entidades interessadas;\n\nm) Receber as consultas feitas pelo Governo e emitir os respectivos pareceres."
+  },
+  "67340913": {
+   "fragment_id": "67339227",
+   "type": 11,
+   "heading": "Artigo 39.º — Deliberações do Conselho Permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Deliberações do Conselho Permanente\n\nAs deliberações do Conselho Permanente são tomadas por maioria simples dos votos dos membros presentes, tendo o presidente voto de desempate, sempre que se justifique."
+  },
+  "67340914": {
+   "fragment_id": "67339228",
+   "type": 1,
+   "heading": "Capítulo VII — Conselho da Juventude das Comunidades Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Conselho da Juventude das Comunidades Portuguesas"
+  },
+  "67340915": {
+   "fragment_id": "67339229",
+   "type": 11,
+   "heading": "Artigo 40.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Composição\n\n1 - O Conselho da Juventude das Comunidades Portuguesas é constituído por 11 membros, designados pelas associações de juventude das comunidades portuguesas, de acordo com a seguinte representatividade:\n\na) Um membro oriundo da região da Ásia e Oceânia;\n\nb) Dois membros oriundos da região da África;\n\nc) Dois membros oriundos da região da América do Norte;\n\nd) Dois membros oriundos da região da América Central e América do Sul;\n\ne) Quatro membros oriundos da Europa.\n\n2 - O Conselho da Juventude das Comunidades Portuguesas reúne, em Portugal, quando convocado pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, com uma antecedência mínima de 60 dias.\n\n3 - As reuniões ordinárias do Conselho da Juventude das Comunidades Portuguesas realizam-se de dois em dois anos, em simultâneo com o plenário do Conselho.\n\n4 - O Conselho da Juventude das Comunidades Portuguesas pode ainda reunir extraordinariamente até duas vezes por ano, quando tal se justifique."
+  },
+  "67340916": {
+   "fragment_id": "67339230",
+   "type": 11,
+   "heading": "Artigo 41.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Competências\n\n1 - Compete ao Conselho da Juventude das Comunidades Portuguesas:\n\na) Emitir parecer, sempre que solicitado pelo Conselho ou por sua iniciativa, sobre as questões relativas à política de juventude para as comunidades portuguesas;\n\nb) Analisar e emitir pareceres sobre as questões relacionadas com a participação cívica e a integração social e económica dos jovens emigrantes e luso-descendentes nos países de acolhimento;\n\nc) Pronunciar-se sobre projectos e propostas de lei e demais projectos de actos legislativos e administrativos, bem sobre acordos internacionais ou normativos comunitários quando estejam em causa matérias relacionadas com os jovens das comunidades portuguesas residentes no estrangeiro e os luso-descendentes.\n\n2 - Compete ainda ao Conselho da Juventude das Comunidades Portuguesas:\n\na) Eleger o seu coordenador;\n\nb) Aprovar a sua organização interna e o regulamento interno do seu funcionamento.\n\n3 - Todos os pareceres e informações emitidos ao abrigo do n.º 1 do presente artigo são levados ao conhecimento do Conselho."
+  },
+  "67340917": {
+   "fragment_id": "67339231",
+   "type": 1,
+   "heading": "Capítulo VIII — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Financiamento"
+  },
+  "67340918": {
+   "fragment_id": "67339232",
+   "type": 11,
+   "heading": "Artigo 42.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Financiamento\n\nOs custos de funcionamento e as actividades do Conselho, do Conselho Permanente e do Conselho da Juventude das Comunidades Portuguesas são financiados através de verba global inscrita anualmente como dotação própria no orçamento do Ministério dos Negócios Estrangeiros e distribuída nos termos da alínea g) do artigo 33.º"
+  },
+  "67340919": {
+   "fragment_id": "67339233",
+   "type": 1,
+   "heading": "Capítulo IX — Cooperação com o Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Cooperação com o Conselho"
+  },
+  "67340920": {
+   "fragment_id": "67339234",
+   "type": 11,
+   "heading": "Artigo 43.º — Dever de cooperação com o Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Dever de cooperação com o Conselho\n\n1 - Os responsáveis dos diversos serviços dependentes do Estado português no estrangeiro devem cooperar com os membros do Conselho no quadro das competências deste órgão.\n\n2 - Os membros do Conselho têm direito de acesso à informação relativa às matérias que respeitem à comunidade portuguesa residente no estrangeiro, junto dos diversos serviços do Estado Português, incluindo representações diplomáticas e consulares, com as excepções definidas na lei sobre o direito de acesso aos documentos da Administração.\n\n3 - As embaixadas e postos consulares devem facultar, sempre que possível, aos diversos órgãos do Conselho, a utilização das respectivas instalações para a realização de acções enquadráveis na sua actividade.\n\n4 - Os membros do Conselho podem participar nas comissões sociais dos postos consulares da área geográfica do círculo eleitoral por onde são eleitos."
+  },
+  "67340921": {
+   "fragment_id": "67339235",
+   "type": 1,
+   "heading": "Capítulo X — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Disposições finais e transitórias"
+  },
+  "67340922": {
+   "fragment_id": "67339236",
+   "type": 11,
+   "heading": "Artigo 44.º — Interpretação e integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Interpretação e integração\n\nAs disposições do capítulo iii da presente lei devem ser interpretadas e integradas de harmonia com a legislação eleitoral para a Assembleia da República."
+  },
+  "67340923": {
+   "fragment_id": "67339237",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma revogatória\n\nSão revogadas:\n\na) A Lei n.º 48/96, de 4 de Setembro, na redacção que lhe foi dada pela Lei n.º 21/2002, de 21 de Agosto;\n\nb) A Portaria n.º 103/2003, de 27 de Janeiro;\n\nc) A Portaria n.º 147-A/2003, de 12 de Fevereiro;\n\nd) A Portaria n.º 411/2003, de 21 de Maio."
+  },
+  "67340924": {
+   "fragment_id": "67339238",
+   "type": 11,
+   "heading": "Artigo 46.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Entrada em vigor\n\nA presente lei entra em vigor no 5.º dia após a sua publicação."
+  },
+  "67341131": {
+   "fragment_id": "67339184",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 1.º — Definição\n\nO Conselho das Comunidades Portuguesas, adiante designado por Conselho, é o órgão consultivo do Governo para as políticas relativas às comunidades portuguesas no estrangeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341132": {
+   "fragment_id": "67339185",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Compete ao Conselho:\n\na) Emitir pareceres, a pedido do Governo ou da Assembleia da República, sobre projectos e propostas de lei e demais projectos de actos legislativos e administrativos, bem como sobre acordos internacionais ou normativos comunitários relativos às comunidades portuguesas residentes no estrangeiro;\n\nb) Apreciar as questões que lhe sejam colocadas pelos Governos Regionais dos Açores ou da Madeira referentes às comunidades portuguesas provenientes daquelas regiões autónomas;\n\nc) Produzir informações e emitir pareceres, por sua própria iniciativa, sobre todas as matérias que respeitem aos portugueses residentes no estrangeiro e ao desenvolvimento da presença portuguesa no mundo, e dirigi-las ao membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas;\n\nd) Formular propostas e recomendações sobre os objetivos e a aplicação dos princípios da política para as comunidades portuguesas.\n\n2 - O Conselho pode ainda apreciar questões relativas às comunidades portuguesas que lhe sejam colocadas pelo Governo da República.\n\n3 - Compete ainda ao Conselho aprovar o regulamento interno do seu funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341133": {
+   "fragment_id": "67339187",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho é composto por um máximo de 80 membros, eleitos pelos cidadãos portugueses residentes no estrangeiro que sejam eleitores para a Assembleia da República.\n\n2 - (Revogado).\n\n3 - A composição do Conselho é publicitada no portal do Governo e no sítio na Internet do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341134": {
+   "fragment_id": "67339189",
+   "type": 11,
+   "heading": "Artigo 4.º — Marcação de eleições",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 4.º — Marcação de eleições\n\n1 - Compete ao membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas marcar a data das eleições dos membros do Conselho e coordenar o respetivo processo eleitoral.\n\n2 - As eleições são marcadas, com o mínimo de 60 dias de antecedência, pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas.\n\n3 - Na inobservância do número anterior, as eleições podem ser marcadas por dois terços dos membros do Conselho, depois de decorridos 90 dias após a data em que perfaçam quatro anos desde o dia da publicitação dos resultados oficiais das eleições anteriores.\n\n4 - A rede diplomática e consular portuguesa e os serviços competentes da administração eleitoral colaboram no desenvolvimento de todas as diligências relativas ao processo eleitoral.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341135": {
+   "fragment_id": "67339190",
+   "type": 11,
+   "heading": "Artigo 5.º — Capacidade eleitoral activa",
+   "in_force_from": "2015-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-07"
+   ],
+   "markdown": "###### Artigo 5.º — Capacidade eleitoral activa\n\n1 - Gozam de capacidade eleitoral ativa os cidadãos portugueses residentes no estrangeiro que tenham completado 18 anos até 60 dias antes de cada eleição e estejam inscritos nos cadernos eleitorais para a Assembleia da República.\n\n2 - Em conformidade com a lei eleitoral para a Assembleia da República, não gozam de capacidade eleitoral activa:\n\na) Os interditos por sentença com trânsito em julgado;\n\nb) Os notoriamente reconhecidos como dementes, ainda que não interditos por sentença, quando internados em estabelecimento psiquiátrico ou como tais declarados por uma junta de dois médicos;\n\nc) Os que estejam privados de direitos políticos, por decisão judicial transitada em julgado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-07"
+  },
+  "67341136": {
+   "fragment_id": "67339191",
+   "type": 11,
+   "heading": "Artigo 6.º — Cadernos eleitorais",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 6.º — Cadernos eleitorais\n\n1 - Para efeitos do disposto na presente lei, os postos consulares, em articulação com os serviços competentes da administração eleitoral, organizam os cadernos eleitorais onde constam os eleitores em condições de exercer o direito de voto ao abrigo do previsto no artigo anterior.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Para efeitos de informação, são publicitadas, nos postos consulares, entre o 55.º e o 45.º dia que antecedem cada eleição, cópias fiéis dos cadernos eleitorais.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341137": {
+   "fragment_id": "67339192",
+   "type": 11,
+   "heading": "Artigo 7.º — Capacidade eleitoral passiva",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 7.º — Capacidade eleitoral passiva\n\n1 - São elegíveis os eleitores que sejam propostos em lista completa por um mínimo de 2 % dos eleitores inscritos no respetivo círculo eleitoral até ao limite máximo de 75 cidadãos eleitores.\n\n2 - Os candidatos têm que estar recenseados no círculo de candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341138": {
+   "fragment_id": "67339193",
+   "type": 11,
+   "heading": "Artigo 8.º — Eleição",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 8.º — Eleição\n\n1 - Os membros do Conselho são eleitos por círculos eleitorais correspondentes a áreas de jurisdição dos postos consulares e, quando isso não for possível, por grupos de áreas consulares, países ou grupos de países, de acordo com o anexo à presente lei, da qual faz parte integrante.\n\n2 - Os membros são eleitos para mandatos de quatro anos, por sufrágio universal, directo e secreto dos eleitores constantes dos cadernos eleitorais, através de listas plurinominais.\n\n3 - Cada eleitor dispõe de um voto singular de lista.\n\n4 - 4 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341139": {
+   "fragment_id": "67339195",
+   "type": 11,
+   "heading": "Artigo 10.º — Critério de eleição",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 10.º — Critério de eleição\n\n1 - Os membros do Conselho são eleitos, convertendo os votos em mandatos, segundo o método da média mais alta de Hondt, de acordo com os seguintes critérios:\n\na) Apura-se em separado o número de votos recebidos por cada lista no círculo eleitoral respectivo;\n\nb) O número de votos apurados por cada lista é dividido, sucessivamente, por 1, 2, 3, 4, 5, etc., sendo os quocientes alinhados pela ordem decrescente da sua grandeza, numa série de tantos termos quantos os mandatos atribuídos ao círculo eleitoral respectivo;\n\nc) Os mandatos pertencem às listas a que correspondem os termos da série estabelecida pela regra anterior, recebendo cada uma das listas tantos mandatos quantos os seus termos na série;\n\nd) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de listas diferentes, o mandato cabe à lista que tiver obtido menor número de votos.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349019": {
+   "fragment_id": "67339196",
+   "type": 11,
+   "heading": "Artigo 11.º — Listas de candidatura",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 11.º — Listas de candidatura\n\n1 - A apresentação das listas de candidatura cabe ao primeiro subscritor de cada lista e tem lugar, perante o representante diplomático ou consular de Portugal no respetivo círculo eleitoral, entre os 30 e os 20 dias que antecedem a data prevista para as eleições.\n\n2 - Os candidatos de cada lista proposta à eleição consideram-se ordenados segundo a sequência da respectiva declaração de candidatura, sendo os mandatos conferidos segundo aquela ordenação.\n\n3 - As listas propostas à eleição devem conter a indicação de candidatos efectivos em número igual ao de mandatos atribuídos ao círculo eleitoral a que se refiram e de candidatos suplentes em número igual ao dos efectivos.\n\n4 - Salvo nos casos em que o número de elegíveis seja inferior a três, as listas propostas à eleição devem garantir, na indicação de candidatos efectivos e suplentes nos termos previstos no número anterior, que, pelo menos, um terço dos eleitos seja de sexo diferente.\n\n5 - Cada candidato apenas pode constar de uma lista de candidatura.\n\n6 - Cada candidato deve indicar, para efeito da apresentação da lista de candidatura, os seguintes elementos de identificação:\n\na) Nome, idade, filiação, profissão, naturalidade e residência;\n\nb) Número de recenseamento eleitoral.\n\n7 - A declaração de candidatura é assinada, conjunta ou separadamente, pelos candidatos e dela devem constar as seguintes indicações:\n\na) Que não se candidatam por qualquer outro círculo eleitoral, nem figuram em mais nenhuma lista de candidatura;\n\nb) Que aceitam a candidatura.\n\n8 - Cabe ao representante diplomático ou consular de Portugal ou a quem legalmente o substitua, verificar:\n\na) A regularidade do processo;\n\nb) A autenticidade dos documentos que integram o processo;\n\nc) A elegibilidade dos candidatos.\n\n9 - O representante diplomático ou consular de Portugal ou quem legalmente o substitua, rejeita fundamentadamente os candidatos inelegíveis, os quais devem ser substituídos no prazo de dois dias, sob pena de rejeição de toda a lista.\n\n10 - A não substituição dos candidatos declarados inelegíveis no prazo previsto no número anterior implica a recusa da lista.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358111": {
+   "fragment_id": "67339197",
+   "type": 11,
+   "heading": "Artigo 12.º — Ausência de listas de candidatura",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 12.º — Ausência de listas de candidatura\n\nNa ausência de apresentação de listas de candidatura em qualquer círculo eleitoral, o respectivo cargo será exercido por um cidadão com capacidade eleitoral activa, nomeado pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, ouvidas as estruturas associativas locais.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349020": {
+   "fragment_id": "67339200",
+   "type": 11,
+   "heading": "Artigo 15.º — Apuramento dos resultados da eleição",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 15.º — Apuramento dos resultados da eleição\n\n1 - Os presidentes das mesas de voto enviam à comissão eleitoral da respectiva área as actas de apuramento dos resultados eleitorais, rubricadas por todos os elementos que constituíram as mesas de voto.\n\n2 - O apuramento dos resultados da eleição em cada círculo cabe a uma assembleia de apuramento geral, com a seguinte composição:\n\na) Um presidente, que é o embaixador de Portugal no país em que se insere cada círculo ou, tratando-se de um grupo de postos consulares, o embaixador de Portugal no país onde haja maior número de eleitores;\n\nb) O titular de um posto consular com jurisdição sobre o respetivo círculo, ou quem desempenhe as suas funções;\n\nc) Dois elementos, sendo preferencialmente um jurista e uma pessoa com adequada formação matemática;\n\nd) Um secretário;\n\ne) Dois presidentes das mesas de voto dos círculos sorteados, sempre que existam mais de duas mesas de voto.\n\n3 - Os elementos previstos nas alíneas b), c) e d) do número anterior são designados pelo presidente da assembleia de apuramento geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349021": {
+   "fragment_id": "67339201",
+   "type": 11,
+   "heading": "Artigo 16.º — Publicação dos resultados da eleição",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 16.º — Publicação dos resultados da eleição\n\n1 - Os resultados do apuramento geral em cada país devem ser publicitados através da afixação de edital nos postos consulares da respectiva área territorial.\n\n2 - Os resultados gerais da eleição são publicitados no portal do Governo e no sítio na Internet do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349022": {
+   "fragment_id": "67339204",
+   "type": 11,
+   "heading": "Artigo 18.º — Mandato",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 18.º — Mandato\n\n1 - O mandato dos conselheiros tem a duração de quatro anos.\n\n2 - O mandato inicia-se com a posse e aceitação do respectivo termo e cessa com a publicação dos resultados oficiais após as eleições subsequentes, sem prejuízo do disposto nos artigos 19.º e seguintes.\n\n3 - O modelo do termo de posse e aceitação, referido no número anterior, é definido por despacho do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349023": {
+   "fragment_id": "67339205",
+   "type": 11,
+   "heading": "Artigo 19.º — Apreciação da regularidade do mandato dos membros eleitos",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 19.º — Apreciação da regularidade do mandato dos membros eleitos\n\n1 - A regularidade dos mandatos dos membros eleitos do Conselho é verificada pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, após parecer emitido pelo embaixador no país onde se situe a sede do círculo eleitoral relativamente aos eleitos pelo respetivo círculo.\n\n2 - O parecer a que se refere o número anterior inclui a apreciação da elegibilidade de cada eleito, não sendo esta prejudicada por eventuais lapsos de natureza formal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349024": {
+   "fragment_id": "67339206",
+   "type": 11,
+   "heading": "Artigo 20.º — Substituição temporária de membros eleitos",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 20.º — Substituição temporária de membros eleitos\n\n1 - Os membros eleitos podem requerer, ao presidente do Conselho, a sua substituição temporária, durante um período não superior a 60 dias.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349061": {
+   "fragment_id": "67339207",
+   "type": 11,
+   "heading": "Artigo 21.º — Suspensão do mandato",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 21.º — Suspensão do mandato\n\n1 - Determinam a suspensão do mandato:\n\na) O deferimento de requerimento de substituição temporária por motivo relevante;\n\nb) A dedução de acusação no âmbito de procedimento criminal contra o membro, em Portugal ou no estrangeiro.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o representante diplomático ou consular de Portugal comunicam ao membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas os casos de dedução de acusação no âmbito de procedimento criminal contra membros do Conselho de que tenham conhecimento.\n\n3 - A suspensão do mandato de membro eleito é comunicada ao embaixador no país onde se situe a sede do respetivo círculo eleitoral, pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, para efeitos de emissão do parecer a que se refere o n.º 2 do artigo 19.º, relativamente aos candidatos substitutos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349062": {
+   "fragment_id": "67339208",
+   "type": 11,
+   "heading": "Artigo 22.º — Membro substituto",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 22.º — Membro substituto\n\n1 - A suspensão do mandato do membro eleito determina a sua substituição pelo candidato que se seguir na ordem de precedência, o qual terá a qualidade de membro substituto.\n\n2 - No prazo de 15 dias após a recepção do aviso da comunicação de remessa do termo de aceitação, o candidato substituto aceita a substituição, assinando e devolvendo o respectivo termo, sob pena de perda da capacidade de substituição.\n\n3 - O modelo do termo de aceitação de substituto referido no número anterior é definido por despacho do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas.\n\n4 - A perda da capacidade de substituição a que se refere o n.º 2 é notificada ao interessado pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, precedendo parecer do embaixador no país onde se situe a sede do respetivo círculo eleitoral.\n\n5 - Da decisão de perda de capacidade eleitoral cabe recurso, no prazo de 5 dias úteis, para o membro do Governo referido no número anterior, que o decide no prazo de 10 dias úteis.\n\n6 - A perda da capacidade de substituição referida no n.º 2 torna-se efetiva desde a sua publicitação no portal do Governo e no sítio na Internet do Ministério dos Negócios Estrangeiros.\n\n7 - O membro substituto cessa automaticamente funções na data em que o membro eleito retomar o exercício do seu mandato, ocupando o seu lugar na lista, para efeito de futuras substituições.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349063": {
+   "fragment_id": "67339210",
+   "type": 11,
+   "heading": "Artigo 24.º — Renúncia ao mandato",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 24.º — Renúncia ao mandato\n\n1 - Os membros eleitos podem renunciar ao mandato, mediante declaração escrita enviada ao membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas e comunicada ao presidente do Conselho.\n\n2 - O requerimento para substituição equivale à renúncia, se já não existirem candidatos efectivos ou suplentes na lista de que se trate.\n\n3 - A renúncia torna-se efetiva desde a sua publicitação no portal do Governo e no sítio na Internet do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349065": {
+   "fragment_id": "67339211",
+   "type": 11,
+   "heading": "Artigo 25.º — Perda do mandato",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 25.º — Perda do mandato\n\n1 - Determinam a perda de mandato:\n\na) A declaração de inelegibilidade na sequência da verificação da regularidade de mandatos prevista no artigo 19.º;\n\nb) A ocorrência superveniente de alguma das causas de incompatibilidade previstas no artigo 30.º;\n\nc) A ocorrência superveniente de alguma das causas de incapacidade previstas no n.º 2 do artigo 5.º;\n\nd) A perda da condição de emigrante ou de residente no círculo eleitoral pelo qual o membro foi eleito;\n\ne) A não aceitação ou renúncia ao mandato;\n\nf) A falta injustificada a uma reunião do plenário ou três reuniões das comissões ou do Conselho Permanente, sem exceder, no total, o limite de três faltas injustificadas;\n\ng) O trânsito em julgado de sentença condenatória em processo crime, de qualquer dos seus membros, em Portugal ou no estrangeiro, que haja determinado uma pena privativa da liberdade.\n\n2 - Para efeitos do disposto na alínea f) do número anterior, consideram-se justificadas as faltas dadas por motivos de doença e caso de força maior.\n\n3 - A perda de mandato é notificada ao interessado pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, após emissão de parecer do embaixador no país onde se situe a sede do respetivo círculo eleitoral.\n\n4 - Da notificação prevista no número anterior cabe recurso, no prazo de 5 dias úteis, para o membro do Governo identificado no número anterior, que o decide no prazo de 10 dias úteis.\n\n5 - A perda de mandato torna-se efetiva desde a sua publicitação no portal do Governo e no sítio na Internet do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358112": {
+   "fragment_id": "67339213",
+   "type": 11,
+   "heading": "Artigo 27.º — Membros designados",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 27.º — Membros designados\n\nO disposto nos artigos do presente capítulo é aplicável, com as devidas adaptações, aos membros designados.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349066": {
+   "fragment_id": "67339215",
+   "type": 11,
+   "heading": "Artigo 28.º — Deveres dos conselheiros",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 28.º — Deveres dos conselheiros\n\nConstituem deveres dos conselheiros:\n\na) Comparecer nas reuniões do Conselho onde tenham assento e das comissões que se venham a criar e às quais pertençam;\n\nb) Participar nas votações das deliberações das reuniões referidas na alínea anterior;\n\nc) Contribuir para o bom funcionamento das reuniões referidas na alínea a);\n\nd) Contribuir para o adequado desempenho das competências atribuídas ao Conselho.\n\ne) Cooperar com as comunidades portuguesas;\n\nf) Cooperar com instituições ou entidades dos países de acolhimento em matérias de interesse das comunidades portuguesas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349067": {
+   "fragment_id": "67339216",
+   "type": 11,
+   "heading": "Artigo 29.º — Direitos dos conselheiros",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 29.º — Direitos dos conselheiros\n\nOs conselheiros gozam dos seguintes direitos:\n\na) Intervir nos debates, apresentar propostas e votar;\n\nb) Solicitar, por escrito, esclarecimentos aos titulares dos postos consulares nos círculos eleitorais pelos quais foram eleitos;\n\nc) Reunir semestralmente com os titulares das missões diplomáticas e dos postos consulares;\n\nd) Reunir, pelo menos uma vez por ano na Embaixada de Portugal com os técnicos e diplomatas do Ministério dos Negócios Estrangeiros para troca de informações sobre questões de importância para o país e as comunidades portuguesas em domínios como o ensino, temas sociais, economia, associativismo, cultura, entre outros;\n\ne) Solicitar, por escrito, através do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, aos diversos serviços dependentes do Estado Português no estrangeiro informações sobre questões relacionadas com as comunidades portuguesas e a emigração.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67349070": {
+   "fragment_id": "67339217",
+   "type": 11,
+   "heading": "Artigo 30.º — Incompatibilidades",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 30.º — Incompatibilidades\n\nA titularidade do cargo de membro do Conselho ou de membro substituto é incompatível com:\n\na) O exercício de cargos de representação em organismos oficiais portugueses no estrangeiro;\n\nb) O exercício de actividade profissional nas representações consulares e diplomáticas de Portugal;\n\nc) O exercício de atividade profissional, independentemente da natureza do vínculo ou contrato ao abrigo do qual exerce funções, em qualquer pessoa coletiva pública, inclusive do setor empresarial do Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358078": {
+   "fragment_id": "67339219",
+   "type": 11,
+   "heading": "Artigo 31.º — Formas de organização do Conselho",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 31.º — Formas de organização do Conselho\n\nO Conselho funciona em plenário, em conselho permanente, em comissões temáticas, em conselhos regionais, em secções e subsecções.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358081": {
+   "fragment_id": "67339220",
+   "type": 11,
+   "heading": "Artigo 32.º — Plenário",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 32.º — Plenário\n\n1 - Constituem o plenário do Conselho os 80 membros eleitos.\n\n2 - Podem participar nas reuniões do plenário, sem direito a voto:\n\na) O membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas;\n\nb) Os deputados à Assembleia da República eleitos pelos círculos eleitorais da emigração;\n\nc) Um deputado representante de cada grupo parlamentar da Assembleia da República.\n\n3 - Podem ser convidados a participar nas reuniões do plenário, sem direito a voto:\n\na) Membros do Governo da República e dos Governos Regionais;\n\nb) Deputados à Assembleia da República e membros das Assembleias Legislativas das regiões autónomas;\n\nc) (Revogada.)\n\nd) Representantes de serviços e organismos da Administração Pública;\n\ne) Representantes do Conselho Permanente das Comunidades Madeirenses e do Congresso das Comunidades Açorianas;\n\nf) Os parceiros sociais;\n\ng) Outras entidades nacionais ou estrangeiras.\n\n4 - O Conselho reúne em Portugal quando convocado, com a antecedência mínima de 60 dias, pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas:\n\na) Ordinariamente, uma vez por mandato;\n\nb) Extraordinariamente, quando motivos especialmente relevantes o justificarem.\n\n5 - Durante o período do respetivo mandato, qualquer membro do Conselho pode ser consultado e tomar iniciativas a título individual.\n\n6 - Compete ao membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas presidir aos trabalhos do plenário, no que é secretariado por dois conselheiros por si escolhidos, bem como formular os convites às entidades referidas no n.º 3.\n\n7 - Quando o membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas o determinar, o plenário pode reunir fora de Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358093": {
+   "fragment_id": "67339221",
+   "type": 11,
+   "heading": "Artigo 33.º — Competências do plenário",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 33.º — Competências do plenário\n\nO Conselho, reunido em plenário, tem as seguintes competências:\n\na) Aprovar o regulamento interno do seu funcionamento;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Debater e deliberar sobre os documentos que para o efeito lhe sejam submetidos;\n\ne) Deliberar sobre o programa de ação para o quadriénio seguinte;\n\nf) Mandatar o conselho permanente para a coordenação da execução do programa de ação aprovado, bem como para assegurar a representação do Conselho em reuniões internacionais;\n\ng) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358094": {
+   "fragment_id": "67339222",
+   "type": 11,
+   "heading": "Artigo 34.º — Comissões temáticas",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 34.º — Comissões temáticas\n\n1 - O Conselho tem três comissões temáticas que reúnem uma vez por ano e são compostas por sete conselheiros, eleitos pelas secções regionais, segundo a seguinte fórmula: dois conselheiros regionais da Europa, dois conselheiros regionais da América do Sul, um conselheiro regional da América do Norte, um conselheiro regional de África e um conselheiro regional da Ásia.\n\n2 - Uma comissão trata das questões sociais e económicas e dos fluxos migratórios, outra do ensino do português no estrangeiro, da cultura, do associativismo e da comunicação social e, finalmente, uma terceira trata das questões consulares e da participação cívica e política.\n\n3 - As comissões temáticas têm por missão elaborar relatórios e estudos sobre matérias específicas das suas áreas a submeter ao plenário ou a reunião do conselho permanente.\n\n4 - É dado conhecimento de todos os relatórios e estudos realizados pelas comissões a cada um dos membros do Conselho.\n\n5 - A convocação da reunião destas comissões cabe ao presidente, em exercício, do conselho permanente que preside a essa mesma reunião.\n\n6 - Cabe às comissões temáticas aprovar o regulamento interno do seu funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358113": {
+   "fragment_id": "67339223",
+   "type": 11,
+   "heading": "Artigo 35.º — Comissões de carácter permanente",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 35.º — Comissões de carácter permanente\n\n1 - O elenco das comissões especializadas de carácter permanente, as competências materiais específicas de cada uma delas e o número de conselheiros que as integram são fixados pelo plenário, na primeira reunião subsequente às eleições para o Conselho.\n\n2 - O número de comissões especializadas de carácter permanente não pode ser superior a seis.\n\n3 - Cada conselheiro integra até duas comissões de carácter permanente, sem prejuízo de poder remeter propostas às comissões que não integra ou de participar ocasionalmente nos seus trabalhos, quando tal seja decidido pela Mesa do Conselho em parecer fundamentado.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358114": {
+   "fragment_id": "67339224",
+   "type": 11,
+   "heading": "Artigo 36.º — Comissões de carácter temporário",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 36.º — Comissões de carácter temporário\n\n1 - O Conselho Permanente pode constituir comissões especializadas de carácter temporário para um determinado fim, até ao limite máximo de três em funcionamento simultâneo.\n\n2 - As comissões de carácter temporário extinguem-se com a aprovação do relatório final sobre o assunto que tiver sido objecto e fundamento da sua constituição.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358095": {
+   "fragment_id": "67339225",
+   "type": 11,
+   "heading": "Artigo 37.º — Conselho Permanente",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 37.º — Conselho Permanente\n\n1 - O conselho permanente é constituído por 12 membros, eleitos pelos conselhos regionais, de acordo com a seguinte representatividade:\n\na) Conselho Regional das Comunidades Portuguesas em África, dois membros;\n\nb) Conselho Regional das Comunidades Portuguesas na Ásia e Oceânia, um membro;\n\nc) Conselho Regional das Comunidades Portuguesas na América do Norte, dois membros;\n\nd) Conselho Regional das Comunidades Portuguesas na América Central e na América do Sul, três membros;\n\ne) Conselho Regional das Comunidades Portuguesas na Europa, quatro membros.\n\n2 - Os membros do conselho permanente são eleitos para a totalidade do mandato do Conselho, de acordo com regulamento a aprovar por cada conselho regional, devendo ser indicados membros suplentes em número igual ao dos efetivos.\n\n3 - Cada conselho regional deve promover, na eleição dos respetivos membros para o conselho permanente, a paridade na representação de homens e mulheres, nos termos previstos no artigo 2.º da Lei Orgânica n.º 3/2006, de 21 de agosto, devendo, quanto aos conselhos regionais que elegem apenas um membro, ser assegurada, sempre que possível, a alternância de género na eleição.\n\n4 - O conselho permanente pode ser convocado pelo seu presidente, pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas ou por um mínimo de dois terços dos seus membros e reúne, ordinariamente, uma vez por ano, e, extraordinariamente, quando, por motivos especialmente relevantes, tal se justifique.\n\n5 - Nas reuniões do conselho permanente podem participar outros membros do Conselho e personalidades convidadas para o efeito através do seu presidente.\n\n6 - O conselho permanente reúne em Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358096": {
+   "fragment_id": "67339226",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências do Conselho Permanente",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 38.º — Competências do Conselho Permanente\n\nCompete ao conselho permanente:\n\na) Eleger, anualmente, de entre os seus membros, o presidente, o vice-presidente e um secretário;\n\nb) Aprovar a sua organização interna e o regulamento interno do seu funcionamento;\n\nc) (Revogada.)\n\nd) Acompanhar a execução das deliberações e recomendações do Conselho;\n\ne) Coordenar a execução do programa de ação a que se refere a alínea f) do artigo 33.º;\n\nf) Elaborar um relatório de actividades anual;\n\ng) Emitir parecer sobre as políticas relativas às comunidades portuguesas;\n\nh) Assegurar a representação do Conselho em reuniões internacionais e em outros órgãos institucionais;\n\ni) Dar parecer sobre a gestão do orçamento do Conselho;\n\nj) (Revogada.)\n\nl) (Revogada.)\n\nm) Tomar conhecimento de todas as consultas feitas ao Conselho;\n\nn) Homologar e registar as secções e subsecções locais definidas nos termos previstos no artigo 39.º-A;\n\no) Assegurar as ligações entre os conselhos regionais e as secções e subsecções.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358104": {
+   "fragment_id": "67339227",
+   "type": 11,
+   "heading": "Artigo 39.º — Deliberações do Conselho Permanente",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 39.º — Deliberações do Conselho Permanente\n\nAs deliberações do conselho permanente são tomadas por maioria simples dos votos dos membros presentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341104": {
+   "fragment_id": "67341017",
+   "type": 11,
+   "heading": "Artigo 39.º-A — Secções regionais",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 39.º-A — Secções regionais\n\n1 - O Conselho reúne sob a forma de secções regionais, num total de cinco, agrupando cada uma delas os membros oriundos dos continentes, partes de continentes ou grupos de continentes, conforme indicado no número seguinte.\n\n2 - As secções regionais, de acordo com a origem dos seus membros, têm as seguintes designações:\n\na) Conselho Regional das Comunidades Portuguesas em África;\n\nb) Conselho Regional das Comunidades Portuguesas na Ásia e Oceânia;\n\nc) Conselho Regional das Comunidades Portuguesas na América do Norte;\n\nd) Conselho Regional das Comunidades Portuguesas na América Central e na América do Sul;\n\ne) Conselho Regional das Comunidades Portuguesas na Europa.\n\n3 - As secções regionais aprovam a respetiva organização interna e reúnem ordinariamente uma vez por ano.\n\n4 - As secções regionais reúnem por iniciativa da respetiva mesa ou do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas.\n\n5 - Nas reuniões das secções regionais podem participar as entidades referidas na alínea b) do n.º 2 e no n.º 3 do artigo 32.º\n\n6 - Compete às secções regionais:\n\na) Eleger os membros da mesa;\n\nb) Eleger os membros do conselho permanente, de acordo com o disposto no artigo 37.º;\n\nc) Eleger os conselheiros para as comissões temáticas nos termos definidos pelo n.º 1 do artigo 34.º da presente lei;\n\nd) Pronunciar-se sobre matérias relacionadas com as comunidades portuguesas situadas na respetiva área geográfica;\n\ne) Organizar, para facultar ao conselho permanente, o inventário completo das potencialidades culturais, artísticas e económicas das comunidades instaladas na sua área.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341105": {
+   "fragment_id": "67341018",
+   "type": 11,
+   "heading": "Artigo 39.º-B — Secções e subsecções locais",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 39.º-B — Secções e subsecções locais\n\n1 - Podem ser criadas secções locais, constituídas pelos representantes eleitos por cada país, designadas 'Conselho das Comunidades Portuguesas em ...', que podem reunir ordinariamente com periodicidade não superior a um ano.\n\n2 - Se a secção local corresponder a país de grande dimensão geográfica ou onde a cobertura da rede consular e o número de eleitores por consulados ou agrupamento destes o justifique por razões de ordem funcional, podem ser criadas subsecções, a depender da secção local de que se trate.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341106": {
+   "fragment_id": "67341019",
+   "type": 11,
+   "heading": "Artigo 39.º-C — Competências dos conselhos regionais, das secções e das subsecções locais",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 39.º-C — Competências dos conselhos regionais, das secções e das subsecções locais\n\n1 - Os conselhos regionais e, quando existam, as secções locais são competentes para:\n\na) Aprovar o seu regulamento de funcionamento;\n\nb) Debater e deliberar sobre os documentos que para o efeito lhe sejam submetidos;\n\nc) Emitir parecer sobre as políticas relativas às comunidades portuguesas;\n\nd) Eleger, anualmente, um presidente e um secretário.\n\n2 - Os regulamentos de funcionamento a aprovar pelas secções locais estabelecem o modo de articulação com as subsecções, quando estas existam.\n\n3 - As subsecções, quando existam, têm as competências previstas nas alíneas a), b) e d) do n.º 1.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358115": {
+   "fragment_id": "67339229",
+   "type": 11,
+   "heading": "Artigo 40.º — Composição",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 40.º — Composição\n\n1 - O Conselho da Juventude das Comunidades Portuguesas é constituído por 11 membros, designados pelas associações de juventude das comunidades portuguesas, de acordo com a seguinte representatividade:\n\na) Um membro oriundo da região da Ásia e Oceânia;\n\nb) Dois membros oriundos da região da África;\n\nc) Dois membros oriundos da região da América do Norte;\n\nd) Dois membros oriundos da região da América Central e América do Sul;\n\ne) Quatro membros oriundos da Europa.\n\n2 - O Conselho da Juventude das Comunidades Portuguesas reúne, em Portugal, quando convocado pelo membro do Governo competente em matéria de emigração e comunidades portuguesas, com uma antecedência mínima de 60 dias.\n\n3 - As reuniões ordinárias do Conselho da Juventude das Comunidades Portuguesas realizam-se de dois em dois anos, em simultâneo com o plenário do Conselho.\n\n4 - O Conselho da Juventude das Comunidades Portuguesas pode ainda reunir extraordinariamente até duas vezes por ano, quando tal se justifique.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358116": {
+   "fragment_id": "67339230",
+   "type": 11,
+   "heading": "Artigo 41.º — Competências",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 41.º — Competências\n\n1 - Compete ao Conselho da Juventude das Comunidades Portuguesas:\n\na) Emitir parecer, sempre que solicitado pelo Conselho ou por sua iniciativa, sobre as questões relativas à política de juventude para as comunidades portuguesas;\n\nb) Analisar e emitir pareceres sobre as questões relacionadas com a participação cívica e a integração social e económica dos jovens emigrantes e luso-descendentes nos países de acolhimento;\n\nc) Pronunciar-se sobre projectos e propostas de lei e demais projectos de actos legislativos e administrativos, bem sobre acordos internacionais ou normativos comunitários quando estejam em causa matérias relacionadas com os jovens das comunidades portuguesas residentes no estrangeiro e os luso-descendentes.\n\n2 - Compete ainda ao Conselho da Juventude das Comunidades Portuguesas:\n\na) Eleger o seu coordenador;\n\nb) Aprovar a sua organização interna e o regulamento interno do seu funcionamento.\n\n3 - Todos os pareceres e informações emitidos ao abrigo do n.º 1 do presente artigo são levados ao conhecimento do Conselho.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358105": {
+   "fragment_id": "67339232",
+   "type": 11,
+   "heading": "Artigo 42.º — Custos",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 42.º — Custos\n\nOs custos de funcionamento e as atividades do Conselho, dos conselhos regionais e secções e subsecções locais, bem como os das comissões temáticas e do conselho permanente, são financiados através de verba global inscrita anualmente como dotação própria no orçamento do Ministério dos Negócios Estrangeiros, distribuída pelas estruturas nos termos a fixar por despacho do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, ouvido o conselho permanente.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358107": {
+   "fragment_id": "67339234",
+   "type": 11,
+   "heading": "Artigo 43.º — Dever de cooperação com o Conselho",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 43.º — Dever de cooperação com o Conselho\n\n1 - Os responsáveis dos diversos serviços dependentes do Estado português no estrangeiro devem cooperar com os membros do Conselho no quadro das competências deste órgão.\n\n2 - Os membros do Conselho têm direito de acesso à informação relativa às matérias que respeitem à comunidade portuguesa residente no estrangeiro, junto dos diversos serviços do Estado Português, incluindo representações diplomáticas e consulares, com as excepções definidas na lei sobre o direito de acesso aos documentos da Administração.\n\n3 - As embaixadas e postos consulares devem facultar, sempre que possível, aos diversos órgãos do Conselho, a utilização das respectivas instalações para a realização de acções enquadráveis na sua actividade.\n\n4 - Os membros do Conselho podem participar nos conselhos consultivos dos postos consulares da área geográfica do círculo eleitoral por onde são eleitos.\n\n5 - O apoio administrativo e técnico do Conselho é assegurado pelos serviços competentes do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67358108": {
+   "fragment_id": "67339236",
+   "type": 11,
+   "heading": "Artigo 44.º — Interpretação e integração",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 44.º — Interpretação e integração\n\nAs disposições da presente lei em matéria relacionada com o processo eleitoral para o Conselho, devem ser interpretadas e integradas de harmonia com a lei eleitoral para a Assembleia da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341107": {
+   "fragment_id": "67341020",
+   "type": 11,
+   "heading": "Artigo 44.º-A — Divulgação",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 44.º-A — Divulgação\n\n1 - À Assembleia da República e ao Governo compete, através dos meios ao dispor de cada um destes órgãos, a divulgação da presente lei junto dos potenciais eleitores do Conselho.\n\n2 - As organizações ou estruturas não governamentais das comunidades portuguesas, qualquer que seja a sua natureza e o respetivo estatuto jurídico, podem colaborar na divulgação da presente lei junto dos potenciais eleitores do Conselho.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341108": {
+   "fragment_id": "67339237",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma revogatória\n\nSão revogadas:\n\na) A Lei n.º 48/96, de 4 de Setembro, na redacção que lhe foi dada pela Lei n.º 21/2002, de 21 de Agosto;\n\nb) A Portaria n.º 103/2003, de 27 de Janeiro;\n\nc) A Portaria n.º 147-A/2003, de 12 de Fevereiro;\n\nd) A Portaria n.º 411/2003, de 21 de Maio."
+  },
+  "67341109": {
+   "fragment_id": "67339238",
+   "type": 11,
+   "heading": "Artigo 46.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Entrada em vigor\n\nA presente lei entra em vigor no 5.º dia após a sua publicação."
+  },
+  "67341128": {
+   "fragment_id": "67341025",
+   "type": 14,
+   "heading": "Anexo I — Mapa dos círculos eleitorais",
+   "in_force_from": "2015-04-17",
+   "changed_by": [
+    "Aditado pelo/a Anexo I do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "## Anexo I — Mapa dos círculos eleitorais\n\n(ver documento original)\n\n> Aditado pelo/a Anexo I do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "67341129": {
+   "fragment_id": "67339239",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 18 de Outubro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 29 de Novembro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 30 de Novembro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "116056288": {
+   "fragment_id": "67339190",
+   "type": 11,
+   "heading": "Artigo 5.º — Capacidade eleitoral activa",
+   "in_force_from": "2019-02-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2019-02-10",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-07"
+   ],
+   "markdown": "###### Artigo 5.º — Capacidade eleitoral activa\n\n1 - Gozam de capacidade eleitoral ativa os cidadãos portugueses residentes no estrangeiro que tenham completado 18 anos até 60 dias antes de cada eleição e estejam inscritos nos cadernos eleitorais para a Assembleia da República.\n\n2 - Em conformidade com a lei eleitoral para a Assembleia da República, não gozam de capacidade eleitoral activa:\n\na) (Revogada.)\n\nb) Os que notoriamente apresentem limitação ou alteração grave das funções mentais, ainda que não sujeitos a acompanhamento, quando internados em estabelecimento psiquiátrico ou como tais declarados por uma junta de dois médicos;\n\nc) Os que estejam privados de direitos políticos, por decisão judicial transitada em julgado.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2019-02-10\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-07"
+  },
+  "220256638": {
+   "fragment_id": "67339185",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Compete ao Conselho:\n\na) Emitir pareceres, a pedido do Governo ou da Assembleia da República, sobre projectos e propostas de lei e demais projectos de actos legislativos e administrativos, bem como sobre acordos internacionais ou normativos comunitários relativos às comunidades portuguesas residentes no estrangeiro;\n\nb) Apreciar as questões que lhe sejam colocadas pelos Governos Regionais dos Açores ou da Madeira referentes às comunidades portuguesas provenientes daquelas regiões autónomas;\n\nc) Produzir informações e emitir pareceres, por sua própria iniciativa, sobre todas as matérias que respeitem aos portugueses residentes no estrangeiro e ao desenvolvimento da presença portuguesa no mundo, e dirigi-las ao membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas;\n\nd) Formular propostas e recomendações sobre os objetivos e a aplicação dos princípios da política para as comunidades portuguesas.\n\ne) Em matérias de relevância para as comunidades portuguesas, o Conselho é consultado pelo Governo, de forma obrigatória, não vinculativa.\n\n2 - O Conselho pode ainda apreciar questões relativas às comunidades portuguesas que lhe sejam colocadas pelo Governo da República.\n\n3 - Compete ainda ao Conselho aprovar o regulamento interno do seu funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256639": {
+   "fragment_id": "67339187",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho é composto por um máximo de 90 membros, eleitos pelos cidadãos portugueses residentes no estrangeiro que sejam eleitores para a Assembleia da República.\n\n2 - (Revogado).\n\n3 - A composição do Conselho é publicitada no portal do Governo e no sítio na Internet do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256640": {
+   "fragment_id": "67339193",
+   "type": 11,
+   "heading": "Artigo 8.º — Eleição",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 8.º — Eleição\n\n1 - Os membros do Conselho são eleitos por círculos eleitorais correspondentes às áreas de jurisdição dos postos consulares e, quando isso não for possível, por grupos de áreas consulares, países ou grupos de países, de acordo com a portaria do membro do Governo responsável pela área das comunidades portuguesas.\n\n2 - Os membros são eleitos para mandatos de quatro anos, por sufrágio universal, direto, secreto e presencial dos eleitores constantes dos cadernos eleitorais, através de listas plurinominais.\n\n3 - Cada eleitor dispõe de um voto singular de lista.\n\n4 - (Revogado).\n\n5 - Os conselheiros têm um limite de três mandatos sucessivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256641": {
+   "fragment_id": "67339195",
+   "type": 11,
+   "heading": "Artigo 10.º — Critério de eleição",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 10.º — Critério de eleição\n\n1 - Os membros do Conselho são eleitos, convertendo os votos em mandatos, segundo o método da média mais alta de Hondt, de acordo com os seguintes critérios:\n\na) Apura-se em separado o número de votos recebidos por cada lista no círculo eleitoral respectivo;\n\nb) O número de votos apurados por cada lista é dividido, sucessivamente, por 1, 2, 3, 4, 5, etc., sendo os quocientes alinhados pela ordem decrescente da sua grandeza, numa série de tantos termos quantos os mandatos atribuídos ao círculo eleitoral respectivo;\n\nc) Os mandatos pertencem às listas a que correspondem os termos da série estabelecida pela regra anterior, recebendo cada uma das listas tantos mandatos quantos os seus termos na série;\n\nd) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de listas diferentes, o mandato cabe à lista que tiver obtido menor número de votos.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O número de mandatos a eleger por cada círculo eleitoral e os círculos eleitorais são definidos para cada eleição por portaria do membro do Governo responsável pela área das comunidades portuguesas, a publicar até 65 dias antes da eleição.\n\n5 - Da aplicação do critério referido no número anterior não pode resultar o desaparecimento da representação dos círculos existentes à data da entrada em vigor da presente lei, sendo que o número total de mandatos deve assegurar, pelo menos, um conselheiro em cada círculo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256642": {
+   "fragment_id": "67339196",
+   "type": 11,
+   "heading": "Artigo 11.º — Listas de candidatura",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 11.º — Listas de candidatura\n\n1 - A apresentação das listas de candidatura cabe ao primeiro subscritor de cada lista e tem lugar, perante o representante diplomático ou consular de Portugal no respetivo círculo eleitoral, entre os 30 e os 20 dias que antecedem a data prevista para as eleições.\n\n2 - Os candidatos de cada lista proposta à eleição consideram-se ordenados segundo a sequência da respectiva declaração de candidatura, sendo os mandatos conferidos segundo aquela ordenação.\n\n3 - As listas propostas à eleição devem conter a indicação de candidatos efectivos em número igual ao de mandatos atribuídos ao círculo eleitoral a que se refiram e de candidatos suplentes em número igual ao dos efectivos.\n\n4 - As listas propostas à eleição devem garantir, na indicação de candidatos efetivos e suplentes, nos termos previstos no número anterior, 50 % de candidatos de cada género.\n\n5 - Cada candidato apenas pode constar de uma lista de candidatura.\n\n6 - Cada candidato deve indicar, para efeito da apresentação da lista de candidatura, os seguintes elementos de identificação:\n\na) Nome, idade, filiação, profissão, naturalidade e residência;\n\nb) Número de recenseamento eleitoral.\n\n7 - A declaração de candidatura é assinada, conjunta ou separadamente, pelos candidatos e dela devem constar as seguintes indicações:\n\na) Que não se candidatam por qualquer outro círculo eleitoral, nem figuram em mais nenhuma lista de candidatura;\n\nb) Que aceitam a candidatura.\n\n8 - Cabe ao representante diplomático ou consular de Portugal ou a quem legalmente o substitua, verificar:\n\na) A regularidade do processo;\n\nb) A autenticidade dos documentos que integram o processo;\n\nc) A elegibilidade dos candidatos.\n\n9 - O representante diplomático ou consular de Portugal ou quem legalmente o substitua, rejeita fundamentadamente os candidatos inelegíveis, os quais devem ser substituídos no prazo de dois dias, sob pena de rejeição de toda a lista.\n\n10 - A não substituição dos candidatos declarados inelegíveis no prazo previsto no número anterior implica a recusa da lista.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256643": {
+   "fragment_id": "67339202",
+   "type": 11,
+   "heading": "Artigo 17.º — Garantias",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22"
+   ],
+   "markdown": "###### Artigo 17.º — Garantias\n\n1 - Cabe às embaixadas e aos postos consulares publicitar o ato eleitoral na respetiva área geográfica e assegurar a democraticidade do processo e dos atos eleitorais que tenham lugar no âmbito da respetiva jurisdição.\n\n2 - Das decisões tomadas pela comissão eleitoral cabe recurso para a Comissão Nacional de Eleições, sem prejuízo de impugnação contenciosa nos termos gerais.\n\n3 - O recurso para a Comissão Nacional de Eleições deve ser interposto no prazo de quarenta e oito horas a contar da notificação da decisão.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22"
+  },
+  "220256644": {
+   "fragment_id": "67339211",
+   "type": 11,
+   "heading": "Artigo 25.º — Perda do mandato",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 25.º — Perda do mandato\n\n1 - Determinam a perda de mandato:\n\na) A declaração de inelegibilidade na sequência da verificação da regularidade de mandatos prevista no artigo 19.º;\n\nb) A ocorrência superveniente de alguma das causas de incompatibilidade previstas no artigo 30.º;\n\nc) A ocorrência superveniente de alguma das causas de incapacidade previstas no n.º 2 do artigo 5.º;\n\nd) A alteração da área de residência do círculo eleitoral pelo qual se foi eleito;\n\ne) A não aceitação ou renúncia ao mandato;\n\nf) A falta injustificada a uma reunião do plenário ou três reuniões das comissões ou do Conselho Permanente, sem exceder, no total, o limite de três faltas injustificadas;\n\ng) O trânsito em julgado de sentença condenatória em processo crime, de qualquer dos seus membros, em Portugal ou no estrangeiro, que haja determinado uma pena privativa da liberdade.\n\n2 - Para efeitos do disposto na alínea f) do número anterior, consideram-se justificadas as faltas dadas por motivos de doença e caso de força maior.\n\n3 - A perda de mandato é notificada ao interessado pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, após emissão de parecer do embaixador no país onde se situe a sede do respetivo círculo eleitoral.\n\n4 - Da notificação prevista no número anterior cabe recurso, no prazo de 5 dias úteis, para o membro do Governo identificado no número anterior, que o decide no prazo de 10 dias úteis.\n\n5 - A perda de mandato torna-se efetiva desde a sua publicitação no portal do Governo e no sítio na Internet do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256645": {
+   "fragment_id": "67339215",
+   "type": 11,
+   "heading": "Artigo 28.º — Deveres dos conselheiros",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 28.º — Deveres dos conselheiros\n\nConstituem deveres dos conselheiros:\n\na) Comparecer nas reuniões do Conselho onde tenham assento e das comissões que se venham a criar e às quais pertençam;\n\nb) Participar nas votações das deliberações das reuniões referidas na alínea anterior;\n\nc) Contribuir para o bom funcionamento das reuniões referidas na alínea a) e para o adequado desempenho das competências do Conselho;\n\nd) Apresentar anualmente nas reuniões do Conselho Regional um relatório das atividades e da situação da comunidade na respetiva área de jurisdição;\n\ne) Cooperar com as comunidades portuguesas;\n\nf) Cooperar com instituições ou entidades dos países de acolhimento em matérias de interesse das comunidades portuguesas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256646": {
+   "fragment_id": "67339216",
+   "type": 11,
+   "heading": "Artigo 29.º — Direitos dos conselheiros",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 29.º — Direitos dos conselheiros\n\nOs conselheiros gozam dos seguintes direitos:\n\na) Intervir nos debates, apresentar propostas e votar;\n\nb) Solicitar, por escrito, esclarecimentos ao membro do Governo responsável pela área das comunidades portuguesas relativamente a questões verificadas nos círculos eleitorais pelos quais foram eleitos;\n\nc) Reunir semestralmente com os titulares das missões diplomáticas e dos postos consulares;\n\nd) Reunir, pelo menos uma vez por ano na Embaixada de Portugal com os técnicos e diplomatas do Ministério dos Negócios Estrangeiros para troca de informações sobre questões de importância para o país e as comunidades portuguesas em domínios como o ensino, temas sociais, economia, associativismo, cultura, entre outros;\n\ne) Solicitar, por escrito, através do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas, aos diversos serviços dependentes do Estado Português no estrangeiro informações sobre questões relacionadas com as comunidades portuguesas e a emigração.\n\nf) Assistir aos trabalhos da Assembleia da República, incluindo comissões parlamentares, que versem sobre matéria pertinente para as comunidades portuguesas, especialmente quando sujeita a consulta obrigatória;\n\ng) Ser membro, por inerência, dos conselhos consultivos dos postos consulares da área geográfica do círculo eleitoral por onde são eleitos;\n\nh) Dispor de um cartão oficial de identificação, em modelo estabelecido pelo Conselho.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256647": {
+   "fragment_id": "67339220",
+   "type": 11,
+   "heading": "Artigo 32.º — Plenário",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 32.º — Plenário\n\n1 - Constituem o plenário do Conselho os 90 membros eleitos.\n\n2 - Podem participar nas reuniões do plenário, sem direito a voto:\n\na) O membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas;\n\nb) Os deputados à Assembleia da República eleitos pelos círculos eleitorais da emigração;\n\nc) Um deputado representante de cada grupo parlamentar da Assembleia da República.\n\n3 - Podem ser convidados a participar nas reuniões do plenário, sem direito a voto:\n\na) Membros do Governo da República e dos Governos Regionais;\n\nb) Deputados à Assembleia da República e membros das Assembleias Legislativas das regiões autónomas;\n\nc) (Revogada.)\n\nd) Representantes de serviços e organismos da Administração Pública;\n\ne) Representantes do Conselho Permanente das Comunidades Madeirenses e do Congresso das Comunidades Açorianas;\n\nf) Os parceiros sociais;\n\ng) Outras entidades ou personalidades nacionais ou estrangeiras.\n\n4 - O Conselho reúne em Portugal quando convocado, com a antecedência mínima de 60 dias, pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas:\n\na) Ordinariamente, uma vez por mandato;\n\nb) Extraordinariamente, quando motivos especialmente relevantes o justificarem.\n\n5 - Durante o período do respetivo mandato, qualquer membro do Conselho pode ser consultado e tomar iniciativas a título individual.\n\n6 - Compete ao membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas presidir aos trabalhos do plenário, no que é secretariado por dois conselheiros por si escolhidos, bem como formular os convites às entidades referidas no n.º 3.\n\n7 - Quando o membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas o determinar, o plenário pode reunir fora de Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256648": {
+   "fragment_id": "67339226",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências do Conselho Permanente",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 38.º — Competências do Conselho Permanente\n\nCompete ao conselho permanente:\n\na) Eleger, anualmente, de entre os seus membros, o presidente, o vice-presidente e um secretário;\n\nb) Aprovar a sua organização interna e o regulamento interno do seu funcionamento;\n\nc) (Revogada.)\n\nd) Acompanhar a execução das deliberações e recomendações do Conselho;\n\ne) Coordenar a execução do programa de ação a que se refere a alínea f) do artigo 33.º;\n\nf) Elaborar o relatório de atividades anual e apresentar os relatórios aprovados nas reuniões do Conselho Regional sobre a situação das comunidades portuguesas nas respetivas áreas de jurisdição;\n\ng) Emitir parecer sobre as políticas relativas às comunidades portuguesas;\n\nh) Assegurar a representação do Conselho em reuniões internacionais e em outros órgãos institucionais;\n\ni) Dar parecer sobre a gestão do orçamento do Conselho;\n\nj) (Revogada.)\n\nl) (Revogada.)\n\nm) Tomar conhecimento de todas as consultas feitas ao Conselho;\n\nn) Homologar e registar as secções e subsecções locais definidas nos termos previstos no artigo 39.º-A;\n\no) Assegurar as ligações entre os conselhos regionais e as secções e subsecções.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256649": {
+   "fragment_id": "67341017",
+   "type": 11,
+   "heading": "Artigo 39.º-A — Secções regionais",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 39.º-A — Secções regionais\n\n1 - O Conselho reúne sob a forma de secções regionais, num total de cinco, agrupando cada uma delas os membros oriundos dos continentes, partes de continentes ou grupos de continentes, conforme indicado no número seguinte.\n\n2 - As secções regionais, de acordo com a origem dos seus membros, têm as seguintes designações:\n\na) Conselho Regional das Comunidades Portuguesas em África;\n\nb) Conselho Regional das Comunidades Portuguesas na Ásia e Oceânia;\n\nc) Conselho Regional das Comunidades Portuguesas na América do Norte;\n\nd) Conselho Regional das Comunidades Portuguesas na América Central e na América do Sul;\n\ne) Conselho Regional das Comunidades Portuguesas na Europa.\n\n3 - As secções regionais aprovam a respetiva organização interna e reúnem ordinariamente, pelo menos, uma vez por ano, presencialmente ou com recurso a meios telemáticos.\n\n4 - As secções regionais reúnem por iniciativa da respetiva mesa ou do membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas.\n\n5 - Nas reuniões das secções regionais podem participar as entidades referidas na alínea b) do n.º 2 e no n.º 3 do artigo 32.º\n\n6 - Compete às secções regionais:\n\na) Eleger os membros da mesa;\n\nb) Eleger os membros do conselho permanente, de acordo com o disposto no artigo 37.º;\n\nc) Eleger os conselheiros para as comissões temáticas nos termos definidos pelo n.º 1 do artigo 34.º da presente lei;\n\nd) Pronunciar-se sobre matérias relacionadas com as comunidades portuguesas situadas na respetiva área geográfica;\n\ne) Organizar, para facultar ao conselho permanente, ao Governo e a outras instituições, o inventário das potencialidades culturais, artísticas e económicas das comunidades residentes na sua área;\n\nf) Elaborar um relatório, por país, com os elementos descritivos da situação da comunidade portuguesa, incluindo a referência ao número de associações, órgãos de comunicação social, situação do ensino e serviços consulares, situação económica e social, entre outros elementos relevantes para o conhecimento da comunidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256650": {
+   "fragment_id": "67339232",
+   "type": 11,
+   "heading": "Artigo 42.º — Custos",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 42.º — Custos\n\n1 - Os custos de funcionamento e as atividades do Conselho, dos conselhos regionais e secções e subsecções locais, bem como os das comissões temáticas e do conselho permanente e a elaboração de estudos e pareceres, são financiados através de uma verba global inscrita anualmente como dotação própria no orçamento do Ministério dos Negócios Estrangeiros, distribuída pelas estruturas nos termos a fixar por despacho do membro do Governo responsável pela área das comunidades portuguesas, ouvido o conselho permanente.\n\n2 - A elaboração dos estudos e pareceres carece de parecer favorável do membro do Governo responsável pela área das comunidades portuguesas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256651": {
+   "fragment_id": "67339234",
+   "type": 11,
+   "heading": "Artigo 43.º — Dever de cooperação com o Conselho",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 43.º — Dever de cooperação com o Conselho\n\n1 - Os responsáveis dos diversos serviços dependentes do Estado português no estrangeiro devem cooperar com os membros do Conselho no quadro das competências deste órgão.\n\n2 - Os membros do Conselho têm direito de acesso à informação relativa às matérias que respeitem à comunidade portuguesa residente no estrangeiro, junto dos diversos serviços do Estado Português, incluindo representações diplomáticas e consulares, com as excepções definidas na lei sobre o direito de acesso aos documentos da Administração.\n\n3 - As embaixadas e postos consulares devem facultar, sempre que possível, aos diversos órgãos do Conselho, a utilização das respectivas instalações para a realização de acções enquadráveis na sua actividade.\n\n4 - (Revogado.)\n\n5 - O apoio administrativo e técnico do Conselho é assegurado pelos serviços competentes do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  },
+  "220256652": {
+   "fragment_id": "67339236",
+   "type": 11,
+   "heading": "Artigo 44.º — Interpretação e integração",
+   "in_force_from": "2023-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+   ],
+   "markdown": "###### Artigo 44.º — Interpretação e integração\n\nAs disposições do capítulo iii da presente lei devem ser interpretadas e integradas em harmonia com a legislação eleitoral para a Assembleia da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2023 - Diário da República n.º 161/2023, Série I de 2023-08-21](https://diariodarepublica.pt/dr/detalhe/lei/47-2023-220113532), em vigor a partir de 2023-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/lei/29-2015-66997032), em vigor a partir de 2015-04-17"
+  }
+ }
+}

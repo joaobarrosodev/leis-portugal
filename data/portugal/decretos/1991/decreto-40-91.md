@@ -1,0 +1,201 @@
+---
+schema_version: '1.0'
+id: pt:dre:659546:por
+title: Decreto n.º 40/91
+short_title: null
+summary: Aprova o Acordo de Cooperação no Domínio da Indústria e Energia entre a República Portuguesa e a República de Cabo
+  Verde
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 40/91
+official_date: null
+publication_date: '1991-06-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/1991, Série I-A de 1991-06-19
+  number: '138'
+  series: I
+  supplement: null
+  pages: 3176 - 3178
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/06/138a00/31763178.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/40/1991/06/19/p/dre/pt/html
+  oj: null
+  dre: '659546'
+  dre_path: /dr/detalhe/decreto/40-1991-659546
+  internal: pt:dre:659546:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1991-659546
+  metadata_url: https://data.dre.pt/eli/dec/40/1991/06/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/40-1991-659546
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:04:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2f363171ffa57e9292c3a9814662b061057ac2f6333a82b5cda57b32068d30d2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cabo Verde
+- Convenção
+- Cooperação Industrial
+- Energia
+- Portugal
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:04:01Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 40/91
+
+de 19 de Junho
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+Artigo único. É aprovado o Acordo de Cooperação no Domínio da Indústria e Energia entre a República Portuguesa e a República de Cabo Verde, feito em Lisboa, a 26 de Outubro de 1990, cujo texto original segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 2 de Maio de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral.
+
+Assinado em 27 de Maio de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 29 de Maio de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+ACORDO DE COOPERAÇÃO NO DOMÍNIO DA INDÚSTRIA E ENERGIA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE.
+
+A República Portuguesa e a República de Cabo Verde, em conformidade com as disposições do Acordo Geral de Cooperação entre os dois países, e no desejo de contribuírem pare a realização de objectivos de interesse comum, estabelecem, pelo presente Acordo, os princípios pelos quais se regerá a cooperação na área da indústria e energia.
+
+###### Artigo 1.º — Finalidade do Acordo
+
+O presente Acordo estabelece o âmbito e as formas de cooperação entre o Ministério da Indústria e Energia, através do Gabinete de Estudos e Planeamento, a Direcção-Geral de Energia, a Direcção-Geral de Geologia e Minas, o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, o Instituto Nacional da Propriedade Industrial, o Instituto Português da Qualidade, o Laboratório Nacional de Engenharia e Tecnologia Industrial, entre outros, e o Instituto para a Cooperação Económica, pela Parte portuguesa, e o Ministério da Indústria e Energia e a Direcção-Geral da Cooperação Internacional, pela Parte cabo-verdiana, com vista ao aproveitamento das suas capacidades para a resolução dos problemas que se ponham na área da indústria e energia.
+
+###### Artigo 2.º — Acções de cooperação
+
+As acções de cooperação a empreender inserir-se-ão nos domínios a seguir referidos, sem prejuízo de outros que, no futuro, venham a ser acordados pelas Partes:
+
+a) Consultoria e apoio técnico, designadamente na elaboração de estudos técnicos e económicos, legislação, projectos de empreendimentos, execução de obras, engenharia financeira ou de outra índole, relacionados com os domínios em causa;
+
+b) Envio, em regime de permuta, de comunicações periódicas e não periódicas que interessem ao sector, bem como o fornecimento de documentação ou outro tipo de informação não confidencial;
+
+c) Apoio à organização de centros de documentação;
+
+d) Frequência de cursos, seminários e sessões de informação técnica realizados em Portugal;
+
+e) Realização de acções de formação e aperfeiçoamento profissional de quadros técnicos em Portugal, prevendo-se igualmente a possibilidade de realização de acções do mesmo tipo na República de Cabo Verde;
+
+f) Assistência na elaboração de estudos e planos energéticos;
+
+g) Assistência no domínio das energias renováveis e da utilização racional de energia;
+
+h) Realização de estágios em Portugal, em entidades públicas ou privadas;
+
+i) Promoção e apoio à cooperação entre empresas dos dois países;
+
+j) Apoio na realização de estudos, visando a detecção de oportunidades de investimento e apoio metodológico na avaliação de projectos.
+
+###### Artigo 3.º — Troca de informações
+
+As Partes comprometem-se a promover um intercâmbio de informações sobre reuniões nacionais e internacionais no domínio da indústria e energia em que participem as instituições que as representam, ressalvando as resguardadas pelo segredo de Estado.
+
+###### Artigo 4.º — Gestão do Acordo
+
+1 - A gestão do presente Acordo competirá a uma comissão coordenadora, com carácter permanente, que se reunirá uma vez por ano, alternadamente em Portugal e em Cabo Verde, podendo realizar-se reuniões extraordinárias em qualquer dos dois países quando as circunstâncias o justifiquem.
+
+2 - A comissão coordenadora poderá integrar um membro de cada uma das entidades referidas no artigo 1.º e, sempre que tal se justifique, será alargada a outras entidades dos Ministérios da Indústria e Energia empenhadas em acções de cooperação, competindo-lhe:
+
+a) Elaborar, com base em consultas mútuas de natureza técnica, programas anuais de cooperação e submetê-los à apreciação das entidades governamentais respectivas, até 15 de Novembro do ano anterior ao da sua execução, tendo em vista a sua aprovação até 15 de Dezembro seguinte;
+
+b) Zelar pelo cumprimento dos programas aprovados e elaborar, até 31 de Janeiro de cada ano, um relatório sobre as actividades realizadas no ano anterior, com eventuais propostas para a melhoria da cooperação.
+
+###### Artigo 5.º — Disposições financeiras
+
+1 - Serão suportados pelo Ministério da Indústria e Energia os apoios referentes às acções de formação e aperfeiçoamento de quadros cabo-verdianos em Portugal, através da realização de estágios ou da frequência de cursos ou seminários, de acordo com os programas anuais que venham a ser aprovados.
+
+2 - Ao Instituto para a Cooperação Económica competirá:
+
+a) Suportar os encargos com a formação de quadros cabo-verdianos a levar a efeito em Portugal, através da concessão de bolsas nos moldes estabelecidos pela cooperação portuguesa;
+
+b) Participar nos custos das missões de curta duração a realizar na República de Cabo Verde, de acordo com os programas anuais que venham a ser aprovados, através do pagamento de viagens e ajudas de custo, segundo as tabelas em vigor para o funcionalismo público em Portugal.
+
+3 - Para as acções a realizar na República de Cabo Verde serão da responsabilidade da Parte cabo-verdiana:
+
+a) A obtenção de meios de transporte necessários para as deslocações locais;
+
+b) As autorizações para as deslocações no País, sempre que necessário;
+
+c) A garantia de alojamento compatível com a categoria do pessoal deslocado e respectiva alimentação;
+
+d) A assistência medicamentosa;
+
+e) O apoio técnico e administrativo para o bom êxito das missões, designadamente a cedência do pessoal necessário ao acompanhamento dos trabalhos;
+
+f) A isenção de direitos alfandegários e outras taxas relativas à importação temporária dos equipamentos e demais material necessário aos trabalhos a efectuar;
+
+g) A colaboração de outras entidades oficiais e serviços públicos locais.
+
+4 - Cada uma das Partes suportará os encargos decorrentes da permuta de informação técnica.
+
+5 - A execução de trabalhos especiais, tais como elaboração de estudos e projectos, acompanhamento de execução de obras, aquisição de equipamento, etc., será objecto de contrato para cada caso concreto.
+
+6 - Ambas as Partes procurarão articular as acções de cooperação bilateral com os programas de natureza multilateral a que têm acesso, designadamente favorecendo a realização de iniciativas tripartidas a levar a cabo conjuntamente com organizações internacionais.
+
+7 - O suporte financeiro das acções decorrentes da aplicação do presente Acordo e constantes dos programas anuais aprovados será assegurado pela conjugação das disponibilidades de verbas do Ministério da Indústria e Energia, do Instituto para a Cooperação Económica e do Ministério da Indústria e Energia da República de Cabo Verde e demais verbas de âmbito bilateral ou multilateral que, para o efeito, forem consignadas.
+
+###### Artigo 6.º — Validade
+
+O presente Acordo entrará em vigor na data da recepção da última notificação do cumprimento das formalidades exigidas, para o efeito, pela ordem jurídica interna de cada uma das Partes, e será válido pelo período de um ano, automaticamente prorrogável, podendo ser denunciado por qualquer das Partes mediante comunicação escrita a enviar à outra com uma antecedência mínima de 90 dias em relação ao termo do período então em curso.
+
+Feito em Lisboa, em 26 de Outubro de 1990, em dois exemplares em língua portuguesa, fazendo ambos os textos igualmente fé.
+
+Pela República Portuguesa:
+
+José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
+
+Pela República de Cabo Verde:
+
+José Brito, Ministro do Plano e da Cooperação.

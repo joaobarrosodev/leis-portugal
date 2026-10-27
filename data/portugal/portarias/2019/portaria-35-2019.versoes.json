@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:118562585:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-872180311",
+ "dre_path": "/dr/detalhe/portaria/35-2019-118562585",
+ "source_lastmod": "2024-07-17",
+ "versions": [
+  {
+   "date": "2019-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "872277375",
+    "872277376",
+    "872277377",
+    "872277378",
+    "872277379"
+   ]
+  },
+  {
+   "date": "2024-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:872087958:por",
+     "title": "Portaria n.º 175/2024/1",
+     "published": "2024-07-16",
+     "dre_path": "/dr/detalhe/portaria/175-2024-872087958"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "872277375",
+    "872277389",
+    "872277377",
+    "872277378",
+    "872277379",
+    "872277380"
+   ]
+  }
+ ],
+ "fragments": {
+  "872277375": {
+   "fragment_id": "872180312",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 35/2019\n\nde 28 de janeiro\n\nAs obrigações legais previstas no n.º 1 do artigo 2.º do Decreto-Lei n.º 8/2007, de 17 de janeiro, alterado pelos Decretos-Leis n.os 116/2008, de 4 de julho, 292/2009, de 13 de outubro, 209/2012, de 19 de setembro, 10/2015, de 16 de janeiro, pela Lei n.º 89/2017, de 21 de agosto e pelo Decreto-Lei n.º 87/2018, de 31 de outubro, devem ser cumpridas através da entrega da Informação Empresarial Simplificada, abreviadamente designada por IES, que compreende as seguintes obrigações: a entrega da declaração anual de informação contabilística e fiscal, o registo da prestação de contas, a prestação de informação de natureza estatística ao Instituto Nacional de Estatística, a prestação de informação relativa a dados contabilísticos anuais para fins estatísticos ao Banco de Portugal, a prestação de natureza estatística à Direção-Geral das Atividades Económicas (DGAE) e, ainda, a confirmação da informação sobre o beneficiário efetivo, nos termos previstos em legislação especial.\n\nConsiderando as alterações legislativas introduzidas no Código do Imposto sobre o Rendimento das Pessoas Singulares, na Tabela Geral do Imposto do Selo e, ainda, a necessidade de obtenção de informação desagregada para efeitos de controlo fiscal, designadamente em matéria de preços de transferência, com a presente portaria procede-se à alteração e aprovação da Folha de Rosto e dos modelos de impresso dos Anexos A, B, C, D, I e S da IES e dos Anexos E, H e Q da Declaração Anual de Informação Contabilística e Fiscal (DA). A reestruturação dos Anexos A e I da IES decorre da simplificação que tem vindo a ser implementada, pelo que os modelos ora aprovados foram alvo de redução e simplificação visando o cumprimento mais facilitado da obrigação de entrega da IES/DA. Com a presente portaria é ainda aprovado o Anexo A2 da IES (modelo não oficial), permitindo que os fundos e outros organismos de investimento coletivo que exercem, a título principal uma atividade comercial possam apresentar as suas contas individuais através da digitalização e submissão num ficheiro único que contenha as contas aprovadas.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 8/2007, de 17 de janeiro, o seguinte:\n\n> Nota: [Artigo 3.º, Portaria n.º 175/2024/1 - Diário da República n.º 136/2024, Série I de 2024-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/175-2024-872087958) A presente Portaria produz efeitos relativamente às declarações do período de 2025 e seguintes, a entregar a partir de 2026, devendo entender-se que tais impressos respeitam aos períodos de 2025 e seguintes."
+  },
+  "872277376": {
+   "fragment_id": "872180313",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados pela presente portaria a folha de rosto e os seguintes modelos de impressos, relativos a anexos que fazem parte integrante do modelo declarativo da IES/DA:\n\na) Folha de Rosto - Informação empresarial simplificada/declaração anual;\n\nb) Anexo A - IRC - Informação empresarial simplificada (entidades residentes que exercem, a título principal, atividade comercial, industrial ou agrícola e entidades não residentes com estabelecimento estável);\n\nc) Anexo A2 - IRC - Informação empresarial simplificada (entidades residentes que exercem, a título principal, atividade comercial (Fundos e outras entidades) - modelo não oficial);\n\nd) Anexo B - IRC - Informação empresarial simplificada (entidades do setor financeiro - Decreto-Lei n.º 298/92, de 31 de dezembro);\n\ne) Anexo C - IRC - Informação empresarial simplificada (entidades do setor segurador - Decreto-Lei n.º 94-B/98, de 17 de abril, e Lei n.º 147/2015, de 9 de setembro);\n\nf) Anexo D - IRC - Informação empresarial simplificada (entidades residentes que não exercem, a título principal, atividade comercial, industrial ou agrícola);\n\ng) Anexo E - IRC - Elementos contabilísticos e fiscais (entidades não residentes sem estabelecimento estável);\n\nh) Anexo H - IRC e IRS - Operações com entidades relacionadas e rendimentos obtidos no estrangeiro;\n\ni) Anexo I - IRS - Informação empresarial simplificada (sujeitos passivos de IRS com contabilidade organizada);\n\nj) Anexo Q - IS - Elementos contabilísticos e fiscais;\n\nk) Anexo S - Informação estatística - Informação empresarial simplificada (empresas do setor financeiro)."
+  },
+  "872277377": {
+   "fragment_id": "872180314",
+   "type": 11,
+   "heading": "Artigo 2.º — Formato e extensão dos ficheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Formato e extensão dos ficheiros\n\nAs declarações que incluam ficheiros em formato PDF não podem exceder 15 MB."
+  },
+  "872277378": {
+   "fragment_id": "872180315",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação no tempo\n\n1 - Os modelos de impressos ora aprovados respeitantes à Folha de Rosto e Anexos A, B, C, D, E, H, I, Q e S devem ser utilizados, após a entrada em vigor da presente portaria, para a entrega das declarações relativas ao período de 2019 e posteriores, mantendo-se vigentes os modelos de impressos aprovados pelas Portarias n.os 271/2014, de 23 de dezembro, 208/2007, de 16 de fevereiro, 8/2008, de 3 de janeiro, e 26/2012, de 27 de janeiro, bem como pelos despachos do SEAF de 31/01/2003 - declaração n.º 134/2003, publicada no Diário da República, 2.ª série, n.º 74, de 28 de março de 2003, e de 28/12/2004 - declaração n.º 1/2005, publicada no Diário da República, 2.ª série, n.º 7, de 11 de janeiro de 2005, para a entrega das declarações relativas ao período de 2018 e anteriores.\n\n2 - O modelo de impresso relativo ao Anexo R, a submeter para o período de 2019 e posteriores, de acordo com o constante no artigo 5.º do Decreto-Lei n.º 10/2015, de 16 de janeiro, é aprovado por portaria dos membros do Governo responsáveis pela área das finanças, da economia e pelo INE, I. P.\n\n3 - Mantêm-se em vigor os modelos de impressos respeitantes aos Anexos A1, B1, C1, F, G, L a P e T, aprovados pelas Portarias n.os 208/2007, de 16 de fevereiro, 8/2008, de 3 de janeiro, e 64-A/2011, de 3 de fevereiro, bem como pelo despacho do SEAF de 20 de fevereiro de 2002 - declaração n.º 72/2002, publicada no Diário da República, 2.ª série, n.º 63, de 15 de março de 2002.\n\n4 - O Anexo A2 (modelo não oficial) é apenas exigível às entidades a quem se destina, a partir do período de 2019 ou posteriores."
+  },
+  "872277379": {
+   "fragment_id": "872180316",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "872277389": {
+   "fragment_id": "872180313",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 175/2024/1 - Diário da República n.º 136/2024, Série I de 2024-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/175-2024-872087958), em vigor a partir de 2024-07-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados pela presente portaria a folha de rosto e os seguintes modelos de impressos, relativos a anexos que fazem parte integrante do modelo declarativo da IES/DA:\n\na) Folha de Rosto - Informação empresarial simplificada/declaração anual;\n\nb) Anexo A - IRC - Informação empresarial simplificada (entidades residentes que exercem, a título principal, atividade comercial, industrial ou agrícola e entidades não residentes com estabelecimento estável);\n\nc) Anexo A2 - IRC - Informação empresarial simplificada (entidades residentes que exercem, a título principal, atividade comercial (Fundos e outras entidades) - modelo não oficial);\n\nd) Anexo B - IRC - Informação empresarial simplificada (entidades do setor financeiro - Decreto-Lei n.º 298/92, de 31 de dezembro);\n\ne) [Revogada.]\n\nf) Anexo D - IRC - Informação empresarial simplificada (entidades residentes que não exercem, a título principal, atividade comercial, industrial ou agrícola);\n\ng) Anexo E - IRC - Elementos contabilísticos e fiscais (entidades não residentes sem estabelecimento estável);\n\nh) Anexo H - IRC e IRS - Operações com entidades relacionadas e rendimentos obtidos no estrangeiro;\n\ni) Anexo I - IRS - Informação empresarial simplificada (sujeitos passivos de IRS com contabilidade organizada);\n\nj) Anexo Q - IS - Elementos contabilísticos e fiscais;\n\nk) Anexo S - Informação estatística - Informação empresarial simplificada (empresas do setor financeiro).\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 175/2024/1 - Diário da República n.º 136/2024, Série I de 2024-07-16](https://diariodarepublica.pt/dr/detalhe/portaria/175-2024-872087958), em vigor a partir de 2024-07-17"
+  },
+  "872277380": {
+   "fragment_id": "872180317",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 7 de janeiro de 2019.\n\n(ver documento original)\n\n111981304"
+  }
+ }
+}

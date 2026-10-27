@@ -1,0 +1,354 @@
+---
+schema_version: '1.0'
+id: pt:dre:116171621:por
+title: Decreto Legislativo Regional n.º 11/2018/A
+short_title: null
+summary: Cria o Paleoparque de Santa Maria
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 11/2018/A
+official_date: null
+publication_date: '2018-08-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/2018, Série I de 2018-08-28
+  number: '165'
+  series: I
+  supplement: null
+  pages: 4373 - 4376
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/08/16500/0437304376.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/11/2018/08/28/a/dre/pt/html
+  oj: null
+  dre: '116171621'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/11-2018-116171621
+  internal: pt:dre:116171621:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-116171621
+  metadata_url: https://data.dre.pt/eli/declegreg/11/2018/08/28/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-116171621
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:22:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b7af0d248eaff2939177bf87729d7d6476631b1d7b8bb8bf9ddaae6ef2d5919c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- BENS Classificados
+- Conselho Consultivo
+- Criação de Serviços
+- Definição de Competências
+- Fiscalização
+- Gestão dos Recursos
+- ILHA de Santa Maria
+- Investigação Científica e Tecnológica
+- Monumento Natural
+- Património Arqueológico
+- Património Natural
+- Proteção do Ambiente
+- Protecção do Património
+- Recursos Naturais
+- Reserva Natural
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:176069:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/39/2012/09/19/a/dre
+- type: cites
+  target: pt:dre:439171:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/47/2008/11/07/a/dre
+- type: cites
+  target: pt:dre:553632:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/9/2012/03/20/a/dre
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/15/2012/04/02/a/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:22:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 11/2018/A
+
+Cria o Paleoparque de Santa Maria
+
+A história geológica da ilha de Santa Maria teve início há cerca de seis milhões de anos. As diversas etapas de formação da ilha, associadas aos movimentos transgressivos e regressivos do mar, fizeram com que animais e plantas marinhas fossem cobertos por sedimentos, assim os preservando.
+
+Por sua vez, um processo de soerguimento da ilha de Santa Maria relativamente aos fundos oceânicos, iniciado há cerca de três milhões e meio de anos e que se prolongou até à atualidade, promoveu a emersão desses sedimentos contendo fósseis marinhos, os quais, por ação da erosão, acabaram expostos.
+
+Assim, a mais oriental e antiga ilha do arquipélago dos Açores possui fósseis marinhos únicos, no contexto regional e nacional, e as suas jazidas fossilíferas constituem um verdadeiro laboratório ao ar livre, com relevância internacional, conforme atestam estudos científicos recentes.
+
+Pelas suas particularidades, a história e o património geológico e paleontológico de Santa Maria exigem uma interpretação e divulgação que seja acessível a todos os que vivem ou rumam à ilha, tanto mais que existem vários locais onde se conhece a ocorrência de fósseis.
+
+Neste contexto, o Governo Regional dos Açores desenvolveu, ao longo dos últimos anos, um conjunto de iniciativas, com destaque para a Rota dos Fósseis, para o circuito interpretativo da Pedreira do Campo e para a Casa dos Fósseis. Numa perspetiva de continuidade e complementaridade dessas iniciativas foi desencadeado o projeto do Paleoparque de Santa Maria.
+
+A criação do Paleoparque de Santa Maria tem como objetivo a proteção e a manutenção da paleobiodiversidade e a integridade dos valores geológicos e dos recursos e valores naturais e culturais que lhe estão associados, por via da preservação de elementos paleontológicos e geológicos notáveis, bem como a divulgação desse rico espólio existente na ilha, onde se inclui a maior jazida multiespecífica de fósseis a céu aberto do Atlântico Norte, promovendo a diversificação da oferta de turismo de natureza dos Açores.
+
+Esta classificação tem, ainda, o reconhecimento da Associação Internacional de Paleontologia, no âmbito da iniciativa mundial Paleoparques, em função da importância científica do património paleontológico da ilha de Santa Maria.
+
+Foram ouvidos os membros do Conselho Regional do Ambiente e do Desenvolvimento Sustentável e a Câmara Municipal de Vila da Porto.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º, conjugada com o n.º 4 do artigo 112.º da Constituição da República Portuguesa, e artigos 37.º e 57.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+É criado o Paleoparque de Santa Maria, abrangendo todas as jazidas fósseis da ilha de Santa Maria, classificadas ou que venham a sê-lo, no âmbito do presente diploma.
+
+###### Artigo 2.º — Objetivos
+
+O Paleoparque de Santa Maria prossegue objetivos gerais de conservação da natureza e proteção da geodiversidade e objetivos específicos de conservação in situ das jazidas fósseis de Santa Maria, de promoção do seu estudo, identificação, inventariação e catalogação, bem como de disponibilização de informação ao público e de mecanismos de fruição desse património paleontológico, enquanto fonte primária de dados científicos, de oportunidades educativas e de atividades recreativas.
+
+###### Artigo 3.º — Categorias de jazidas fósseis
+
+1 - As jazidas fósseis do Paleoparque de Santa Maria são classificadas de acordo com as seguintes categorias:
+
+a) Jazida fóssil de classe 1;
+
+b) Jazida fóssil de classe 2;
+
+c) Jazida fóssil de classe 3.
+
+2 - A classificação de jazidas fósseis integradas em áreas protegidas do Parque Natural da ilha de Santa Maria não prejudica o estatuto destas áreas, nem os critérios e objetivos que estiveram na base da respetiva classificação.
+
+###### Artigo 4.º — Jazidas fósseis de classe 1
+
+Constituem fundamentos específicos para a classificação como jazida fóssil de classe 1 o valor natural e estético em presença, a raridade e relevância internacional para a comunidade científica do património paleontológico, o potencial educativo e de visitação sustentável desses locais, tendo em conta os seguintes objetivos de gestão:
+
+a) A preservação e proteção de um património geológico e paleontológico de relevância internacional, reconhecido como tal pelo meio científico e baseado em dados publicados em revistas da especialidade;
+
+b) A preservação e promoção da singularidade e importância destes locais para a história geológica e biológica do Atlântico;
+
+c) A preservação e promoção da importância do património paleontológico para a adequada compreensão dos fenómenos evolutivos e dos processos e padrões de dispersão, colonização e especiação em ilhas vulcânicas oceânicas;
+
+d) A preservação e promoção da importância do património paleontológico para a adequada compreensão dos impactos das alterações globais nas comunidades insulares marinhas e terrestres;
+
+e) A preservação e promoção da importância do estabelecimento de correlações estratigráficas intermacaronésias e entre a Macaronésia e os continentes europeu, africano e americano;
+
+f) A preservação de exemplos únicos e singulares do ambiente natural à escala mundial, para estudos científicos em ilhas oceânicas;
+
+g) A promoção do ordenamento e disciplina das atividades turística e recreativa, de forma a evitar a degradação dos valores naturais e paisagísticos do local, possibilitando o exercício de atividades de lazer compatíveis com a sensibilidade dos valores em presença;
+
+h) A salvaguarda do caráter natural e paisagístico, possibilitando um incremento de atividades de caráter educativo e interpretativo, principalmente para benefício da população local e para divulgação dos valores encerrados na área protegida;
+
+i) Definição de limites e condicionamentos ao livre acesso público.
+
+###### Artigo 5.º — Jazidas fósseis de classe 2
+
+Constituem fundamentos específicos para a classificação como jazida fóssil de classe 2 os valores naturais e estéticos em presença, a singularidade paleontológica no contexto nacional, e a importância destes locais para a visitação sustentável, tendo em conta os seguintes objetivos de gestão:
+
+a) A proteção e preservação dos elementos naturais de grande valor geológico e paleontológico, pela sua significância, singularidade e qualidade representativas no contexto nacional;
+
+b) A promoção de oportunidades de pesquisa, educação, interpretação e apreciação pública;
+
+c) A promoção do turismo de natureza, através de atividades e visitas acompanhadas por guias certificados pelo serviço da administração regional autónoma com competência em matéria de ambiente;
+
+d) A eliminação ou prevenção de tipos de exploração, ocupação ou uso que possam constituir ameaça para o património paleontológico.
+
+###### Artigo 6.º — Jazidas fósseis de classe 3
+
+Constituem fundamentos específicos para a classificação como jazida fóssil de classe 3 os valores naturais e estéticos em presença, a ocorrência de elementos fósseis importantes no contexto regional e a possibilidade destes locais serem utilizados para a visitação sustentável, tendo em conta os seguintes objetivos de gestão:
+
+a) A proteção e preservação dos elementos naturais de grande valor geológico e paleontológico, pela sua significância, singularidade e qualidade representativas no contexto do arquipélago dos Açores;
+
+b) A promoção de oportunidades de pesquisa, educação, interpretação e apreciação pública;
+
+c) A promoção do turismo de natureza, através de atividades e visitas acompanhadas por guias certificados pelo serviço da administração regional autónoma com competência em matéria de ambiente;
+
+d) A eliminação ou prevenção de tipos de exploração, ocupação ou uso que possam constituir ameaça para o património paleontológico.
+
+###### Artigo 7.º — Atividades interditas ou condicionadas
+
+1 - Nas jazidas fósseis ficam interditos os atos e atividades seguintes:
+
+a) A alteração à morfologia do solo por escavações ou aterros, pela modificação do coberto vegetal, do corte de vegetação arbórea e arbustiva, com exceção das decorrentes da execução de ações de manutenção e limpeza da área protegida;
+
+b) O depósito de resíduos;
+
+c) A exploração e a extração de massas minerais e a instalação de novas explorações de recursos geológicos;
+
+d) As ações antrópicas com impacte ao nível da estabilidade e das taxas de erosão das falésias;
+
+e) A realização de quaisquer atividades que perturbem o equilíbrio da envolvente.
+
+2 - Nas jazidas fósseis ficam condicionados e sujeitos a parecer prévio, de caráter vinculativo, do departamento da administração regional autónoma com competência em matéria de ambiente, os atos e atividades seguintes:
+
+a) A realização de trabalhos de investigação científica;
+
+b) A recolha de qualquer amostra geológica ou paleontológica;
+
+c) A realização de ações de salvaguarda dos valores naturais e de conservação da natureza;
+
+d) A realização de ações que visem a minimização de impactes ambientais associados a zonas de extração de inertes abandonadas e não recuperadas;
+
+e) A abertura de novos trilhos e caminhos com interesse para a gestão, fruição ou usufruto da área protegida, bem como a requalificação dos existentes;
+
+f) A realização de eventos culturais e desportivos.
+
+3 - A recolha de amostras de material geológico ou paleontológico está sujeita às regras e condicionantes estabelecidas nos artigos 24.º-C, 24.º-D e 24.º-E do [Decreto Legislativo Regional n.º 47/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/47-2008-439171), de 7 de novembro, na redação que lhes foi conferida pelo [Decreto Legislativo Regional n.º 39/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2012-176069), de 19 de setembro, bem como ao disposto no regime jurídico do acesso e utilização dos recursos naturais para fins científicos, aprovado pelo [Decreto Legislativo Regional n.º 9/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2012-553632), de 20 de março.
+
+4 - Sem prejuízo do disposto nos números anteriores, aplica-se aos atos e atividades praticados nas jazidas fósseis o disposto nos artigos 21.º, 147.º, 149.º e 154.º do [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
+
+###### Artigo 8.º — Ações de relevante interesse público
+
+Na área afeta às jazidas fósseis podem ser realizadas ações de relevante interesse público que sejam reconhecidas como tal por resolução do Conselho do Governo Regional, que pode estabelecer, quando necessário, condicionamentos e medidas de minimização de afetação da sua execução.
+
+###### Artigo 9.º — Paleoparque de Santa Maria
+
+1 - O Paleoparque de Santa Maria integra as seguintes jazidas fósseis, classificadas com base nos critérios definidos nos artigos anteriores e demarcadas no anexo ao presente diploma, do qual é parte integrante:
+
+a) Jazidas fósseis de classe 1: Pedra-que-pica; Ponta do Castelo; Malbusca e Área do Aeroporto;
+
+b) Jazidas fósseis de classe 2: Prainha e Praia do Calhau; Figueiral; Pedreira do Campo; Lagoinhas; Cré e Ponta do Cedro;
+
+c) Jazidas fósseis de classe 3: Gruta dos Icnofósseis; Ponta do Norte; Baía de Nossa Senhora; Vinha Velha; Ponta dos Frades; Ponta Negra; Pedrinha da Cré; Falha Oeste da Malbusca e Macela.
+
+2 - A classificação de novas jazidas, no âmbito do Paleoparque de Santa Maria, é feita por decreto regulamentar regional, com base nos critérios e categorias definidos no presente diploma, por proposta do departamento do Governo Regional competente em matéria de ambiente, precedida de parecer das entidades com competência na gestão do respetivo território.
+
+3 - A delimitação das jazidas fósseis referidas nos números anteriores é feita por portaria do membro do Governo Regional competente em matéria de ambiente.
+
+###### Artigo 10.º — Estrutura de gestão
+
+1 - São órgãos do Paleoparque de Santa Maria:
+
+a) O diretor;
+
+b) O conselho consultivo.
+
+2 - O cargo de diretor é assumido, por inerência e em acumulação não remunerada, pelo diretor do Parque Natural da Ilha de Santa Maria.
+
+3 - A gestão, o funcionamento e as atividades do Paleoparque de Santa Maria, incluindo o necessário apoio técnico e administrativo, são asseguradas pelo serviço dependente da administração regional autónoma com competência em matéria de ambiente com sede na ilha de Santa Maria.
+
+###### Artigo 11.º — Competências do diretor
+
+Compete ao diretor:
+
+a) Representar o Paleoparque de Santa Maria;
+
+b) Administrar os interesses específicos, superintender e dirigir a atividade de gestão e o funcionamento do Paleoparque;
+
+c) Exercer o poder de orientação e decisão quanto aos atos e atividades da competência dos órgãos de gestão do Paleoparque, nomeadamente para os efeitos previstos no presente diploma e no plano de ação do Paleoparque;
+
+d) Executar as medidas contidas nos instrumentos de gestão aplicáveis e no plano de ação do Paleoparque;
+
+e) Elaborar pareceres, estudos e informações necessárias à atividade de gestão do Paleoparque ou que lhe sejam solicitados pelo membro do Governo Regional com competência em matéria de ambiente;
+
+f) Avaliar e promover ações coordenadas com as autarquias locais e outras entidades, sempre que se justifiquem;
+
+g) Acompanhar e avaliar sistematicamente a atividade desenvolvida no Paleoparque, bem como elaborar relatórios anuais de atividade;
+
+h) Elaborar relatórios periódicos de estado do Paleoparque, submetendo-os à apreciação prévia do conselho consultivo;
+
+i) Exercer as demais funções que lhe forem conferidas por lei ou delegadas.
+
+###### Artigo 12.º — Conselho consultivo
+
+1 - O conselho consultivo é o órgão de natureza consultiva do Paleoparque de Santa Maria e é constituído pelas entidades seguintes:
+
+a) Diretor do Paleoparque de Santa Maria, que preside;
+
+b) Um representante da Associação Internacional de Paleontologia;
+
+c) Um representante da Câmara Municipal de Vila do Porto;
+
+d) Um representante da Universidade dos Açores;
+
+e) Um representante do Geoparque Açores;
+
+f) Um representante das empresas de animação turística que desenvolvam atividades de turismo de natureza com sede ou representação permanente na ilha de Santa Maria;
+
+g) Um representante das organizações não-governamentais de ambiente com sede ou representação permanente na ilha de Santa Maria;
+
+h) Um representante da Escola Básica e Secundária de Santa Maria.
+
+2 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo respetivo presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.
+
+3 - As instalações necessárias ao funcionamento do conselho consultivo, tal como o apoio logístico e administrativo, são asseguradas pelo serviço dependente da administração regional autónoma com competência em matéria de ambiente com sede na ilha de Santa Maria.
+
+###### Artigo 13.º — Competências do conselho consultivo
+
+Compete ao conselho consultivo:
+
+a) Emitir parecer sobre a proposta de plano de ação do Paleoparque de Santa Maria e avaliar a sua implementação;
+
+b) Apreciar os relatórios anuais de atividades do Paleoparque;
+
+c) Apreciar os relatórios periódicos de estado do Paleoparque, precedendo a respetiva submissão ao membro do Governo Regional com competência em matéria de ambiente;
+
+d) Dar parecer sobre qualquer assunto com interesse para o Paleoparque de Santa Maria.
+
+###### Artigo 14.º — Plano de ação
+
+1 - O Paleoparque Santa Maria é dotado de um plano de ação, aprovado por portaria do membro do Governo Regional com competência em matéria de ambiente, ouvido o conselho consultivo.
+
+2 - O plano de ação referido no número anterior estabelece as medidas e ações de conservação adequadas à concretização dos regimes de salvaguarda dos recursos e valores naturais presentes no Paleoparque de Santa Maria e à implementação dos usos e do regime de gestão compatíveis com a fruição sustentável do território, definidos no plano de gestão do Parque Natural da Ilha de Santa Maria e nos instrumentos de gestão territorial em vigor.
+
+3 - O plano de ação de área protegida estabelece medidas específicas para cada uma das jazidas fósseis que integram o Paleoparque de Santa Maria, em função dos valores e interesses em presença.
+
+###### Artigo 15.º — Norma transitória
+
+Até à entrada em vigor do plano de ação referido no artigo anterior, as atividades de animação e interpretação ambiental, de visitação e animação turística e de desporto de natureza nas jazidas fósseis a que se refere o artigo 9.º do presente diploma, estão sujeitas a autorização do serviço da administração regional autónoma com competência em matéria de ambiente.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de julho de 2018.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+Assinado em Angra do Heroísmo em 13 de agosto de 2018.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+## ANEXO — (a que se refere o n.º 1 do artigo 9.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/08/16500/0437304376.pdf)
+
+111582996

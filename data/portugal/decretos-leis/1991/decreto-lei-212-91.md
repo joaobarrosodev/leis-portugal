@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:658901:por
+title: Decreto-Lei n.º 212/91
+short_title: null
+summary: Cria um fundo de diversas receitas e despesas denominado Fundo da Administração Central da Marinha
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Defesa Nacional e das Finanças
+proposing_entity: null
+official_number: 212/91
+official_date: null
+publication_date: '1991-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/1991, Série I-A de 1991-06-17
+  number: '136'
+  series: I
+  supplement: null
+  pages: 3146 - 3147
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/06/136a00/31463147.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/212/1991/06/17/p/dre/pt/html
+  oj: null
+  dre: '658901'
+  dre_path: /dr/detalhe/decreto-lei/212-1991-658901
+  internal: pt:dre:658901:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1991-658901
+  metadata_url: https://data.dre.pt/eli/dec-lei/212/1991/06/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1991-658901
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:08:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 68939d0b82b7d5a8502fa978babcf6fdab2a85e3daf8c15d178fd59bceb8fae1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fundo da Administração Central da Marinha
+- Gestão Orçamental
+- Marinha
+relationships:
+- type: cites
+  target: pt:dre:237445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431779:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:08:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 212/91
+
+de 17 de Junho
+
+Impondo-se definir em matéria de organização de orçamentos privativos das unidades e organismos da Marinha um quadro normativo similar ao previsto no [Decreto-Lei n.º 42411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42411-1959-431779), de 24 de Julho de 1959, e no [Decreto-Lei n.º 46291](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46291-1965-237445), de 24 de Abril de 1965, com a necessária harmonização às estruturas orgânica e administrativo-financeira da Marinha:
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º As receitas provenientes de actividades externas à administração das unidades e organismos da Marinha que não resultem directamente do exercício das suas funções e dirigidas ao seu pessoal ou respectivos agregados familiares constituirão o Fundo da Administração Central da Marinha (FACM), a aplicar através de orçamento próprio.
+
+Art. 2.º O disposto no artigo anterior não prejudica a manutenção dos orçamentos privativos já elaborados por alguns organismos com base nas suas receitas próprias nem os que são elaborados por organismos dotados de autonomia administrativa ou financeira que a tal são obrigados por força dos respectivos diplomas orgânicos.
+
+Art. 3.º A arrecadação das receitas e o formalismo para a realização das despesas ficam sujeitos à disciplina estabelecida nas leis da contabilidade pública aplicáveis.
+
+Art. 4.º As despesas a realizar em conta do referido orçamento privativo obedecerão a um plano de emprego a aprovar anualmente pelo Chefe do Estado-Maior da Armada, o qual contemplará, entre outras, as seguintes áreas:
+
+a) Apoio às actividades científicas, culturais e desportivas e ainda ao aproveitamento e desenvolvimento do espírito criativo na Marinha;
+
+b) Obras relacionadas com o bem-estar do pessoal da Marinha, bem como o apoio à promoção de prestação de serviços ao referido pessoal e respectivos agregados familiares;
+
+c) Apetrechamento de unidades e serviços da Armada na área do alojamento, aquartelamento e bem-estar.
+
+Art. 5.º - 1 - A gestão do FACM, com observância dos princípios da eficácia, eficiência e economia, compete à Superintendência dos Serviços Financeiros, através da sua Direcção da Fazenda Naval, a qual se pronunciará sobre os processos de autorização de despesa relativos à utilização daquele Fundo, com vista a garantir a conformidade legal e financeira e, bem assim, o cumprimento do respectivo plano de emprego.
+
+2 - Incumbe ao conselho administrativo da Administração Central da Marinha (CAACM), dentro dos correspondentes preceitos legais e regulamentares, o apoio administrativo-financeiro à gestão das verbas do FACM, assegurando a respectiva escrituração e prestação de contas.
+
+Art. 6.º O orçamento do FACM, bem como as propostas de alterações orçamentais que se tornem necessárias, serão elaborados pelo CAACM, de acordo com as disposições legais vigentes sobre a matéria.
+
+Art. 7.º O orçamento e prestação de contas obedecerá às normas legais aplicáveis aos serviços e fundos autónomos.
+
+Art. 8.º O FACM não pode acusar saldo negativo, transitando o saldo positivo verificado em cada ano para o ano seguinte, a inscrever como receita em artigo apropriado.
+
+Art. 9.º As instruções necessárias à execução e regulamentação do presente diploma serão aprovadas por despacho do Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior da Armada.
+
+Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Luís Miguel Couceiro Pizarro Beleza.
+
+Promulgado em 27 de Maio de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 29 de Maio de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

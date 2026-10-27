@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:359555:por
+title: Portaria n.º 609/2001
+short_title: null
+summary: Fixa os quantitativos a pagar pelos utentes dos serviços prestados pela Direcção-Geral da Saúde nos procedimentos
+  da comercialização e de controlo da rotulagem dos alimentos dietéticos destinados a fins medicinais específicos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 609/2001
+official_date: null
+publication_date: '2001-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/2001, Série I-B de 2001-06-20
+  number: '141'
+  series: I
+  supplement: null
+  pages: 3590 - 3591
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/06/141b00/35903591.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/609/2001/06/20/p/dre/pt/html
+  oj: null
+  dre: '359555'
+  dre_path: /dr/detalhe/portaria/609-2001-359555
+  internal: pt:dre:359555:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/609-2001-359555
+  metadata_url: https://data.dre.pt/eli/port/609/2001/06/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/609-2001-359555
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:33:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5b15ffa9a4cd9a13b09d16b1f091166ecc08ab492ebe15acc7ac3398c313bc55
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Direção Geral da Saúde
+- Etiquetagem
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:439403:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:439403:por
+  label: "Mantida em vigor pelo DEC LEI.216/2008.11.11.2008.MADRP, DR.IS [219] de 11.11.2008, enquanto não for publicada a\
+    \ portaria prevista no nº 1 do artigo 16.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2008-439403
+  date: '2008-11-11'
+- type: cites
+  target: celex:31999L0021
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/21/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:33:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 609/2001
+
+de 20 de Junho
+
+O Decreto-Lei n.º 212/2000, de 2 de Setembro, transpôs para o direito interno a Directiva n.º [1999/21/CE](https://data.europa.eu/eli/dir/1999/21/oj?locale=pt), da Comissão, de 25 de Março, que estabeleceu o regime jurídico aplicável aos alimentos dietéticos destinados a fins medicinais específicos.
+
+O n.º 1 do artigo 14.º do referido decreto-lei prevê a fixação, por portaria do Ministro da Saúde, dos quantitativos a pagar pelos utentes dos serviços prestados pela Direcção-Geral da Saúde nos procedimentos da comercialização e de controlo da rotulagem dos alimentos dietéticos destinados a fins medicinais específicos.
+
+Torna-se necessário, portanto, aprovar a tabela dos encargos a cobrar aos agentes económicos pela prestação desses serviços.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 14.º do Decreto-Lei n.º 212/2000, de 2 de Setembro:
+
+Manda o Governo, pela Ministra da Saúde, o seguinte:
+
+1.º Os quantitativos das taxas a pagar pelos utentes dos serviços prestados pela Direcção-Geral da Saúde no exercício das competências estabelecidas no Decreto-Lei n.º 212/2000, de 2 de Setembro, são fixados nos seguintes valores:
+
+a) Pela apreciação e avaliação do processo de notificação de comercialização de cada produto - 50000$00/(euro) 249,40;
+
+b) Pela apreciação e avaliação do processo de notificação de comercialização de cada produto adicional da mesma marca comercial, que se diferencie pelo seu sabor ou pela quantidade líquida contida na embalagem, apresentando a mesma composição nutricional, entregue em conjunto com o produto referido na alínea anterior - 10000$00/(euro) 49,88;
+
+c) Pela apreciação e avaliação da documentação complementar ou dos trabalhos científicos suplementares - 15000$00/(euro) 74,82;
+
+d) Pela apreciação e avaliação de uma alteração ao produto autorizado ou à rotulagem - 10000$00/(euro) 49,88.
+
+2.º O pagamento das taxas previstas nas alíneas do número anterior deve ser efectuado antecipadamente e no prazo de 10 dias úteis a contar da recepção da notificação da Direcção-Geral da Saúde para o efeito.
+
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 9 de Maio de 2001.

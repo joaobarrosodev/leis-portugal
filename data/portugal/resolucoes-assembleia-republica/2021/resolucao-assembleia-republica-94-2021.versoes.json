@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:160422283:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2021-160631165",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/94-2021-160422283",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-03-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160630848"
+   ]
+  }
+ ],
+ "fragments": {
+  "160630848": {
+   "fragment_id": "160631166",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 94/2021\n\nSumário: Eleição de membros para a Comissão de Acesso aos Documentos Administrativos.\n\nEleição de membros para a Comissão de Acesso aos Documentos Administrativos\n\nA Assembleia da República resolve, nos termos da alínea b) do n.º 1 e do n.º 2 do artigo 29.º da Lei n.º 26/2016, de 22 de agosto, alterada pelas Leis n.os 58/2019, de 8 de agosto, e 33/2020, de 12 de agosto, e do n.º 5 do artigo 166.º da Constituição, eleger para a Comissão de Acesso aos Documentos Administrativos (CADA), os seguintes membros:\n\nEfetivos:\n\nTiago Sustelo Fidalgo de Freitas.\n\nSónia Cristina Silva dos Ramos.\n\nSuplentes:\n\nMaria Luís Pereira Vaz.\n\nSílvia Damila Macedo Lino Gonçalves."
+  }
+ }
+}

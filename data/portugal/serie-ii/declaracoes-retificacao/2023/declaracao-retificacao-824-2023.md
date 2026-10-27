@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:223414325:por
+title: Declaração de Retificação n.º 824/2023
+short_title: null
+summary: Retifica o Edital n.º 1638/2023, publicado no Diário da República, 2.ª série, n.º 171, de 4 de setembro de 2023
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade Nova de Lisboa - Instituto de Higiene e Medicina Tropical
+proposing_entity: null
+official_number: 824/2023
+official_date: null
+publication_date: '2023-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/2023, Série II de 2023-10-27
+  number: '209'
+  series: II
+  supplement: null
+  pages: 101 - 101
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/10/209000000/0010100101.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '223414325'
+  dre_path: /dr/detalhe/declaracao-retificacao/824-2023-223414325
+  internal: pt:dre:223414325:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/824-2023-223414325
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/824-2023-223414325
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:49:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 229a2a781ddb3ac8f1f0461597a01de75d0d2d3bfacd5c0388dfbcfdb8637163
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:221206165:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:49:13Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 824/2023
+
+Tendo sido detetadas incorreções no departamento de um docente que integra o júri do concurso para um professor auxiliar na área disciplinar de Saúde Pública Global do Instituto de Higiene e Medicina Tropical da Universidade Nova de Lisboa, aberto pelo [Edital n.º 1638/2023](https://diariodarepublica.pt/dr/detalhe/edital/1638-2023-221206165), publicado no Diário da República, 2.ª série, n.º 171, de 4 de setembro de 2023, procede-se à respetiva retificação, nos seguintes termos:
+
+No ponto iv do referido edital, onde se lê:
+
+«Doutora Manuela Vilhena, professora associada com agregação do Departamento de Medicina da Universidade de Évora.»
+
+deve ler-se:
+
+«Doutora Manuela Vilhena, professora associada com agregação do Departamento de Medicina Veterinária da Universidade de Évora.»
+
+11 de outubro de 2023. - O Diretor do IHMT NOVA, Prof. Doutor Filomeno Fortes.
+
+316947731

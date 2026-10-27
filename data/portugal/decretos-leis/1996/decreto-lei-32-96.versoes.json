@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:554780:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-973374034",
+ "dre_path": "/dr/detalhe/decreto-lei/32-1996-554780",
+ "source_lastmod": "2025-12-10",
+ "versions": [
+  {
+   "date": "1996-04-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "973406956"
+   ]
+  },
+  {
+   "date": "1996-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:389021:por",
+     "title": "Declaração de Rectificação n.º 7-B/96",
+     "published": "1996-04-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/7-b-1996-389021"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo único"
+   ],
+   "fragments": [
+    "973406956",
+    "973406961",
+    "973406957"
+   ]
+  }
+ ],
+ "fragments": {
+  "973406956": {
+   "fragment_id": "973374035",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 32/96\n\nde 11 de Abril\n\nO Decreto-Lei n.º 320/95, de 28 de Novembro, aprovou a nova Lei Orgânica do Departamento de Relações Internacionais de Segurança Social (DRISS) e revogou o estatuto do Departamento de Relações Internacionais e Convenções de Segurança Social (DRICSS), que fora aprovado pelo Decreto-Lei n.º 345/83, de 26 de Julho.\n\nNo seu artigo 30.º estabeleceu-se o início da vigência do diploma para o dia 1 de Outubro de 1995, quando é certo que o mesmo apenas veio a ser publicado no dia 28 de Novembro de 1995.\n\nImporta, assim, proceder à alteração do artigo 30.º do dito Decreto-Lei n.º 320/95, de 28 de Novembro, com vista a eliminar a irregularidade decorrente de o diploma iniciar a sua vigência em data anterior à respectiva publicação.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "973406961": {
+   "fragment_id": "973374040",
+   "type": 11,
+   "heading": "Artigo único — Entrada em vigor do Decreto-Lei n.º 320/95 de 28 de Novembro",
+   "in_force_from": "1996-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 7-B/96 - Diário da República n.º 101/1996, 1º Suplemento, Série I-A de 1996-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-b-1996-389021), em vigor a partir de 1996-04-30"
+   ],
+   "markdown": "###### Artigo único — Entrada em vigor do Decreto-Lei n.º 320/95 de 28 de Novembro\n\n«O artigo 30.º do Decreto Lei n.º 320/95, de 28 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 30.º\n\nEntrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1996.»\n\n> Retificado pelo/a [Declaração de Rectificação n.º 7-B/96 - Diário da República n.º 101/1996, 1º Suplemento, Série I-A de 1996-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-b-1996-389021), em vigor a partir de 1996-04-30"
+  },
+  "973406957": {
+   "fragment_id": "973374036",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Março de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 25 de Março de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Março de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

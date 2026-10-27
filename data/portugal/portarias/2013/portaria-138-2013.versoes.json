@@ -1,0 +1,473 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:259952:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-838999297",
+ "dre_path": "/dr/detalhe/portaria/138-2013-259952",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-04-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1127171175",
+    "838758746",
+    "838758747",
+    "838758748",
+    "838758749",
+    "838758750",
+    "838758751",
+    "838758752",
+    "838758753",
+    "838758754",
+    "838758755"
+   ]
+  },
+  {
+   "date": "2024-01-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:838972840:por",
+     "title": "Portaria n.º 17/2024",
+     "published": "2024-01-25",
+     "dre_path": "/dr/detalhe/portaria/17-2024-838972840"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "838758745",
+    "838758746",
+    "838758747",
+    "838758748",
+    "838758756",
+    "838758757",
+    "838758761",
+    "838758759",
+    "838758762",
+    "838758763",
+    "838758764",
+    "838758765",
+    "838758766",
+    "838758767",
+    "838758768",
+    "838758769"
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126594012:por",
+     "title": "Portaria n.º 232/2026/1",
+     "published": "2026-05-26",
+     "dre_path": "/dr/detalhe/portaria/232-2026-1126594012"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1127171175",
+    "1127171375",
+    "1127171475",
+    "1127171575",
+    "1127171675",
+    "1127171775",
+    "1127171875",
+    "1127171975",
+    "1127172075",
+    "1127172175",
+    "1127172275",
+    "1127172375",
+    "1127172475",
+    "1127172575",
+    "1127172675",
+    "1127172775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1127171175": {
+   "fragment_id": "838999298",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-05-27",
+   "changed_by": [],
+   "markdown": "Portaria n.º 138/2013\n\nde 2 de abril\n\nO Decreto-Lei n.º 196/2012, de 23 de agosto, definiu a missão e as atribuições do Instituto de Informática, I.P.. Importa agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças, da Economia e do Emprego e da Solidariedade e da Segurança Social, o seguinte:"
+  },
+  "838758746": {
+   "fragment_id": "838999299",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria e da qual fazem parte integrante, os estatutos do Instituto de Informática, I.P., abreviadamente designado por II, I.P.."
+  },
+  "838758747": {
+   "fragment_id": "838999300",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 635/2007, de 30 de maio, alterada pela Portaria n.º 1329-A/2010, de 30 de dezembro."
+  },
+  "838758748": {
+   "fragment_id": "838999301",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "838758749": {
+   "fragment_id": "838999302",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Arquitetura e Desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamento de Arquitetura e Desenvolvimento\n\n1 - Compete ao Departamento de Arquitetura e Desenvolvimento, abreviadamente designado por DAD, definir, planear, normalizar, e controlar a arquitetura de sistemas, a estratégia tecnológica, o teste e acreditação de soluções aplicacionais e a visão tecnológica do planeamento estratégico de sistemas de informação, da gestão da qualidade, da segurança de informação e da gestão de riscos.\n\n2 - Compete ainda ao DAD:\n\na) Assegurar a definição, revisão e implementação do plano estratégico de sistemas de informação na sua vertente tecnológica, garantindo o seu alinhamento com a missão, objetivos e arquitetura de sistemas;\n\nb) Definir a arquitetura de sistemas de informação, garantindo o seu alinhamento com as boas práticas e as tendências da tecnologia, de acordo com as normas em vigor;\n\nc) Assegurar a modelização das bases de dados;\n\nd) Assegurar a definição da orientação tecnológica, estudando e propondo a evolução das infraestruturas físicas e lógicas e de modelos tecnológicos;\n\ne) Assegurar a coordenação técnica da gestão dos sistemas de segurança de informação e de gestão de riscos;\n\nf) Executar a acreditação de sistemas e soluções aplicacionais, desenvolvendo os testes adequados;\n\ng) Proceder à avaliação permanente do desempenho técnico das soluções e sistemas aplicacionais em produção;\n\nh) Definir e dinamizar a utilização das metodologias e ferramentas de trabalho de tecnologias de informação;\n\ni) Gerir as diferentes disciplinas de recursos humanos de tecnologias de informação, através da sua afetação às várias atividades, nomeadamente, nas especialidades de análise, programação, testes e desenvolvimento organizacional;\n\nj) Antecipar as tendências de mercado, potencial de novas soluções tecnológicas e plataformas de interoperabilidade;\n\nk) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;\n\nl) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;\n\nm) Apoiar o Departamento de Gestão de Clientes na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os clientes estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I.P. junto dos clientes;\n\nn) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade."
+  },
+  "838758750": {
+   "fragment_id": "838999303",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Gestão de Aplicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento de Gestão de Aplicações\n\n1 - Compete ao Departamento de Gestão de Aplicações, abreviadamente designado por DGA, apoiar a definição da arquitetura, o desenvolvimento e a implementação das aplicações, assim como, gerir o seu ciclo de vida.\n\n2 - Compete ainda ao DGA:\n\na) Fazer o levantamento e análise de requisitos aplicacionais e o desenvolvimento de aplicações de acordo com o calendário, especificações técnicas, resultados e custos acordados com o cliente;\n\nb) Assegurar a gestão do ciclo de vida das soluções aplicacionais, de acordo com o calendário, especificações técnicas, resultados e custos acordados com o cliente;\n\nc) Desenvolver e manter atualizados os planos dos projetos de desenvolvimento de soluções aplicacionais;\n\nd) Gerir os protocolos de interconexão de dados com os vários organismos da Administração Pública, no âmbito dos diferentes sistemas aplicacionais;\n\ne) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Clientes na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os clientes estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I.P. junto dos clientes;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade."
+  },
+  "838758751": {
+   "fragment_id": "838999304",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento de Análise e Gestão de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Departamento de Análise e Gestão de Informação\n\n1 - Compete ao Departamento de Análise e Gestão da Informação, abreviadamente designado por DAGI, conceber, planear, executar e controlar os projetos de produção e recolha de dados com vista ao seu tratamento como informação estatística, e à sua utilização como indicadores de gestão.\n\n2 - Compete ainda ao DAGI:\n\na) Conceber, desenvolver e gerir sistemas de tratamento de dados;\n\nb) Desenvolver, atualizar e gerir sistemas e processos de deteção e controlo de qualidade de dados;\n\nc) Conceber, desenvolver e gerir sistemas de extração de dados para tratamento estatístico;\n\nd) Disponibilizar e atualizar as bases de dados de suporte ao tratamento de informação estatística;\n\ne) Assegurar o cumprimento dos requisitos legais de acesso, disponibilização, manipulação e destruição de informação;\n\nf) Conceber, desenvolver e gerir sistemas inteligentes de indicadores de risco de suporte ao combate à fraude e à evasão;\n\ng) Desenvolver metodologias e obter dados para apoio à monitorização dos sistemas de gestão de qualidade, segurança de informação, auditoria e controlo interno e gestão de riscos;\n\nh) Desenvolver metodologias para apoio à implementação e controlo do sistema de gestão e avaliação de desempenho;\n\ni) Gerir os protocolos de cruzamento de informação com outros organismos da Administração Pública, nos domínios da extração de dados, para a construção de indicadores de gestão de suporte à decisão;\n\nj) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;\n\nk) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;\n\nl) Apoiar o Departamento de Gestão de Clientes na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os clientes estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I.P., junto dos clientes;\n\nm) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade."
+  },
+  "838758752": {
+   "fragment_id": "838999305",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Administração de Sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Departamento de Administração de Sistemas\n\n1 - Compete ao Departamento de Administração de Sistemas, abreviadamente designado por DAS, gerir as infraestruturas de tecnologias de informação e comunicação e assegurar a administração de sistemas.\n\n2 - Compete ainda ao DAS:\n\na) Conceber, desenvolver e implementar o plano de infraestruturas de tecnologias de informação e de comunicações de acordo com a arquitetura definida;\n\nb) Assegurar a operacionalidade, exploração e monitorização das infraestruturas nas suas componentes de hardware e networking e outros sistemas no âmbito da sua atuação, otimizando a gestão do centro de processamento de dados;\n\nc) Assegurar a administração e exploração dos sistemas aplicacionais em produção, a operação e supervisão de sistemas, as bases de dados e os sistemas centrais e distribuídos, garantindo a sua adequação permanente às necessidades e níveis de serviço acordados;\n\nd) Administrar a infraestrutura dos portais de internet, intranet e aplicações web dos serviços e organismos referidos na missão e atribuições estabelecidas;\n\ne) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Clientes com vista a uma comunicação integrada ao longo do ciclo de vida das aplicações, aproximando as expectativas do cliente à solução aplicacional, fortalecendo desta forma a imagem e valores do II, I.P., junto dos seus clientes;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade."
+  },
+  "838758753": {
+   "fragment_id": "838999306",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Apoio ao Utilizador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Departamento de Apoio ao Utilizador\n\n1 - Compete ao Departamento de Apoio ao Utilizador, abreviadamente designado por DAU, desenvolver, gerir e manter os serviços de apoio ao utilizador final interno ou externo.\n\n2 - Compete ainda ao DAU:\n\na) Assegurar a operacionalidade, exploração e monitorização dos sistemas competentes a nível central, regional e local;\n\nb) Conceber, implementar e manter todo o apoio necessário aos postos de trabalhos dos utilizadores finais, em particular a estação padrão, a telefonia e outras ferramentas de apoio ao utilizador final;\n\nc) Conceber, implementar e manter as ferramentas de produtividade e colaborativas consideradas necessárias de acordo com a arquitetura e utilização definidas;\n\nd) Assegurar a coordenação do apoio local aos utilizadores, no âmbito do apoio aplicacional e de infraestruturas;\n\ne) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Clientes na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os clientes estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I.P., junto dos clientes;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade."
+  },
+  "838758754": {
+   "fragment_id": "838999307",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Gestão de Clientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Departamento de Gestão de Clientes\n\n1 - Compete ao Departamento de Gestão de Clientes, abreviadamente designado por DGC, assumir o papel de principal contacto e promover a imagem junto do cliente, compreender as suas necessidades e assegurar um correto planeamento interno para o cumprimento de prazos, custos e receitas das soluções que garantam os adequados níveis de prestação e respetivas contrapartidas.\n\n2 - Compete ainda ao DGC:\n\na) Gerir o relacionamento com o cliente, comunicando os seus interesses, objetivos e necessidades internamente;\n\nb) Manter uma comunicação regular e planeada com os clientes, garantindo o desenvolvimento da estratégia definida;\n\nc) Conhecer e compreender os objetivos, capacidades e potencial internos, de forma a oferecer as soluções adequadas;\n\nd) Conceber, orçamentar e apresentar, com o apoio dos restantes departamentos, os produtos que correspondem às necessidades dos clientes;\n\ne) Manter o catálogo de produtos atualizado;\n\nf) Gerir os níveis de serviço;\n\ng) Manter uma relação com os clientes existentes que permitam parcerias de longo prazo, e procurar novos mercados, clientes e soluções específicas adequadas;\n\nh) Coordenar a gestão de protocolos, com entidades públicas e privadas, no âmbito do relacionamento no domínio das tecnologias de informação e comunicação;\n\ni) Promover a definição e monitorização dos acordos de níveis de prestação de serviços;\n\nj) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade."
+  },
+  "838758755": {
+   "fragment_id": "838999308",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento de Organização e Gestão de Pessoas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento de Organização e Gestão de Pessoas\n\n1 - Compete ao Departamento de Organização e Gestão de Pessoas, abreviadamente designado por DOGP, assegurar e apoiar o funcionamento interno do II, I.P., nomeadamente nas áreas da gestão de recursos humanos, da gestão administrativa, orçamental e financeira e da gestão de aquisições de bens e serviços e de contratos.\n\n2 - Compete ainda ao DOGP:\n\na) Concretizar, numa perspetiva de permanente desenvolvimento organizacional, auscultações internas e externas, elaborar estudos e pareceres com o objetivo de auditar as estruturas organizativas e respetivos postos de trabalho a fim de os adequar aos objectivos globais do II, I.P.;\n\nb) Assegurar a elaboração e a permanente atualização do plano de gestão previsional de gestão de recursos humanos, em função dos objectivos estratégicos e das prioridades superiormente definidos;\n\nc) Conceber, implementar e monitorizar indicadores de desempenho no âmbito da gestão de recursos humanos;\n\nd) Avaliar e desenvolver periodicamente as competências dos trabalhadores, em articulação com as necessidades estratégicas do II, I.P., e em consonância com as boas práticas e normas vigentes;\n\ne) Assegurar a gestão administrativa dos recursos humanos, no cumprimento de princípios de equidade interna, das disposições normativas internas e da legislação em vigor;\n\nf) Implementar, gerir e monitorizar o sistema de avaliação de desempenho individual, garantindo a operacionalização dos respectivos impactos;\n\ng) Coordenar todas as atividades inerentes à saúde, higiene e segurança no trabalho, em consonância com a legislação em vigor, e concretizando outras iniciativas que promovam o bem-estar dos trabalhadores;\n\nh) Garantir os processos de recrutamento e seleção, bem como os processos de mobilidade interna no próprio Instituto;\n\ni) Promover o acolhimento e acompanhamento de estágios curriculares e profissionais, com especial relevância para as áreas de tecnologias de informação e comunicação, em articulação direta com as necessidades estratégicas do II, I.P., e garantindo a aprendizagem nas metodologias e boas práticas em vigor no II, I.P.;\n\nj) Coordenar as atividades administrativas e transversais ao funcionamento interno dos serviços, nomeadamente expediente, arquivo, gestão do edifício e controlo de acessos;\n\nk) Assegurar a gestão do património, zelando pela conservação e utilização racional das instalações e garantir a atualização permanente do inventário;\n\nl) Assegurar a elaboração, o planeamento orçamental e o controlo da sua execução;\n\nm) Controlar a gestão financeira e patrimonial;\n\nn) Gerir os processos de candidatura a projetos cofinanciados e respectivo controlo de execução;\n\no) Assegurar as prestações de contas anuais de acordo com as normas legais em vigor e elaborar relatórios periódicos de apoio à gestão;\n\np) Garantir o desenvolvimento dos procedimentos de aquisição de bens e serviços, para satisfação das necessidades manifestadas pelas diferentes unidades orgânicas do II, I.P., em função dos planos estabelecidos e das normas legais em vigor, atendendo aos melhores critérios de economia, eficiência e eficácia, sem prejuízo das competências próprias da Secretaria-Geral do Ministério da Solidariedade e da Segurança Social;\n\nq) Assegurar, sempre que necessário, o armazenamento de bens, a gestão de stocks e o controlo de entradas e saídas em armazém;\n\nr) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;\n\ns) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;\n\nt) Apoiar o Departamento de Gestão de Clientes na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os clientes estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I.P., junto dos clientes;\n\nu) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade."
+  },
+  "838758745": {
+   "fragment_id": "838999298",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 138/2013\n\nde 2 de abril\n\nO Decreto-Lei n.º 196/2012, de 23 de agosto, definiu a missão e as atribuições do Instituto de Informática, I.P.. Importa agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças, da Economia e do Emprego e da Solidariedade e da Segurança Social, o seguinte:"
+  },
+  "838758756": {
+   "fragment_id": "838999309",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de março de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 15 de março de 2013. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 14 de março de 2013."
+  },
+  "838758757": {
+   "fragment_id": "838999310",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DO INSTITUTO DE INFORMÁTICA, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DO INSTITUTO DE INFORMÁTICA, I.P."
+  },
+  "838758761": {
+   "fragment_id": "838999311",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\nArtigo 1.º\n\n1 - A organização interna dos serviços do Instituto de Informática, I.P., abreviadamente designado por II, I.P., é constituída pelas seguintes unidades orgânicas nucleares:\n\na) Departamento de Arquitetura e Desenvolvimento;\n\nb) Departamento de Gestão de Aplicações;\n\nc) Departamento de Análise e Gestão de Informação;\n\nd) Departamento de Administração de Sistemas;\n\ne) Departamento de Apoio ao Utilizador;\n\nf) Departamento de Gestão de Serviços e Relações Externas;\n\ng) Departamento de Organização e Gestão de Pessoas.\n\n2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas unidades orgânicas flexíveis, designadas por áreas, integradas ou não em unidades orgânicas nucleares, cujo número não pode exceder, em cada momento, o limite máximo de 17.\n\n3 - As competências das unidades orgânicas flexíveis são definidas na deliberação que as cria, a qual é objeto de publicação no Diário da República.\n\n4 - Para o desenvolvimento de objetivos específicos de natureza multidisciplinar, podem ser constituídas, por deliberação do conselho diretivo a publicar em Diário da República, até quatro equipas multidisciplinares.\n\n5 - A deliberação referida no número anterior deve definir as competências, o período de duração e os recursos humanos a afetar, bem como designar o respetivo chefe de equipa e o seu estatuto remuneratório, de acordo com o disposto no artigo 3.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "838758759": {
+   "fragment_id": "838999312",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 - Os departamentos são dirigidos por diretores, cargos de direção intermédia de 1.º grau.\n\n2 - As áreas são dirigidas por coordenadores, cargos de direção intermédia de 2.º grau.\n\n3 - O secretário do conselho diretivo é um cargo de direção intermédia de 2.º grau."
+  },
+  "838758762": {
+   "fragment_id": "838999313",
+   "type": 11,
+   "heading": "Artigo 3.º — Chefes de equipas multidisciplinares",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 3.º — Chefes de equipas multidisciplinares\n\nO estatuto remuneratório dos chefes de equipa multidisciplinares pode ser fixado até ao limite da remuneração do coordenador de área, em função da natureza e da complexidade das funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "838758763": {
+   "fragment_id": "838999302",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Arquitetura e Desenvolvimento",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 4.º — Departamento de Arquitetura e Desenvolvimento\n\n1 - Compete ao Departamento de Arquitetura e Desenvolvimento, abreviadamente designado por DAD, definir, planear, normalizar, e controlar a arquitetura de sistemas, a estratégia tecnológica, o teste e acreditação de soluções aplicacionais e a visão tecnológica do planeamento estratégico de sistemas de informação, da gestão da qualidade, da segurança de informação e da gestão de riscos.\n\n2 - Compete ainda ao DAD:\n\na) Assegurar a definição, revisão e implementação do plano estratégico de sistemas de informação na sua vertente tecnológica, garantindo o seu alinhamento com a missão, objetivos e arquitetura de sistemas;\n\nb) Definir a arquitetura de sistemas de informação, garantindo o seu alinhamento com as boas práticas e as tendências da tecnologia, de acordo com as normas em vigor;\n\nc) Assegurar a modelização das bases de dados;\n\nd) Assegurar a definição da orientação tecnológica, estudando e propondo a evolução das infraestruturas físicas e lógicas e de modelos tecnológicos;\n\ne) Assegurar a coordenação técnica da gestão dos sistemas de segurança de informação e de gestão de riscos;\n\nf) Executar a acreditação de sistemas e soluções aplicacionais, desenvolvendo os testes adequados;\n\ng) Proceder à avaliação permanente do desempenho técnico das soluções e sistemas aplicacionais em produção;\n\nh) Definir e dinamizar a utilização das metodologias e ferramentas de trabalho de tecnologias de informação;\n\ni) Gerir as diferentes disciplinas de recursos humanos de tecnologias de informação, através da sua afetação às várias atividades, nomeadamente, nas especialidades de análise, programação, testes e desenvolvimento organizacional;\n\nj) Antecipar as tendências de mercado, potencial de novas soluções tecnológicas e plataformas de interoperabilidade;\n\nk) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nl) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\nm) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nn) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "838758764": {
+   "fragment_id": "838999303",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Gestão de Aplicações",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 5.º — Departamento de Gestão de Aplicações\n\n1 - Compete ao Departamento de Gestão de Aplicações, abreviadamente designado por DGA, apoiar a definição da arquitetura, o desenvolvimento e a implementação das aplicações, assim como, gerir o seu ciclo de vida.\n\n2 - Compete ainda ao DGA:\n\na) Fazer o levantamento e análise de requisitos aplicacionais e o desenvolvimento de aplicações de acordo com o calendário, especificações técnicas, resultados e custos acordados com os parceiros;\n\nb) Assegurar a gestão do ciclo de vida das soluções aplicacionais, de acordo com o calendário, especificações técnicas, resultados e custos acordados com os parceiros;\n\nc) Desenvolver e manter atualizados os planos dos projetos de desenvolvimento de soluções aplicacionais;\n\nd) Gerir os protocolos de interconexão de dados com os vários organismos da Administração Pública, no âmbito dos diferentes sistemas aplicacionais;\n\ne) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "838758765": {
+   "fragment_id": "838999304",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento de Análise e Gestão de Informação",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 6.º — Departamento de Análise e Gestão de Informação\n\n1 - Compete ao Departamento de Análise e Gestão da Informação, abreviadamente designado por DAGI, conceber, planear, executar e controlar os projetos de produção e recolha de dados com vista ao seu tratamento como informação estatística, e à sua utilização como indicadores de gestão.\n\n2 - Compete ainda ao DAGI:\n\na) Conceber, desenvolver e gerir sistemas de tratamento de dados;\n\nb) Desenvolver, atualizar e gerir sistemas e processos de deteção e controlo de qualidade de dados;\n\nc) Conceber, desenvolver e gerir sistemas de extração de dados para tratamento estatístico;\n\nd) Disponibilizar e atualizar as bases de dados de suporte ao tratamento de informação estatística;\n\ne) Assegurar o cumprimento dos requisitos legais de acesso, disponibilização, manipulação e destruição de informação;\n\nf) Conceber, desenvolver e gerir sistemas inteligentes de indicadores de risco de suporte ao combate à fraude e à evasão;\n\ng) Desenvolver metodologias e obter dados para apoio à monitorização dos sistemas de gestão de qualidade, segurança de informação, auditoria e controlo interno e gestão de riscos;\n\nh) Desenvolver metodologias para apoio à implementação e controlo do sistema de gestão e avaliação de desempenho;\n\ni) Gerir os protocolos de cruzamento de informação com outros organismos da Administração Pública, nos domínios da extração de dados, para a construção de indicadores de gestão de suporte à decisão;\n\nj) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nk) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\nl) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nm) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "838758766": {
+   "fragment_id": "838999305",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Administração de Sistemas",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 7.º — Departamento de Administração de Sistemas\n\n1 - Compete ao Departamento de Administração de Sistemas, abreviadamente designado por DAS, gerir as infraestruturas de tecnologias de informação e comunicação e assegurar a administração de sistemas.\n\n2 - Compete ainda ao DAS:\n\na) Conceber, desenvolver e implementar o plano de infraestruturas de tecnologias de informação e de comunicações de acordo com a arquitetura definida;\n\nb) Assegurar a operacionalidade, exploração e monitorização das infraestruturas nas suas componentes de hardware e networking e outros sistemas no âmbito da sua atuação, otimizando a gestão do centro de processamento de dados;\n\nc) Assegurar a administração e exploração dos sistemas aplicacionais em produção, a operação e supervisão de sistemas, as bases de dados e os sistemas centrais e distribuídos, garantindo a sua adequação permanente às necessidades e níveis de serviço acordados;\n\nd) Administrar a infraestrutura dos portais de internet, intranet e aplicações web dos serviços e organismos referidos na missão e atribuições estabelecidas;\n\ne) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Serviços e Relações Externas com vista a uma comunicação integrada ao longo do ciclo de vida das aplicações, aproximando as expectativas dos parceiros à solução aplicacional, fortalecendo desta forma a imagem e valores do II, I. P., junto dos seus parceiros;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "838758767": {
+   "fragment_id": "838999306",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Apoio ao Utilizador",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 8.º — Departamento de Apoio ao Utilizador\n\n1 - Compete ao Departamento de Apoio ao Utilizador, abreviadamente designado por DAU, desenvolver, gerir e manter os serviços de apoio ao utilizador final interno ou externo.\n\n2 - Compete ainda ao DAU:\n\na) Assegurar a operacionalidade, exploração e monitorização dos sistemas competentes a nível central, regional e local;\n\nb) Conceber, implementar e manter todo o apoio necessário aos postos de trabalhos dos utilizadores finais, em particular a estação padrão, a telefonia e outras ferramentas de apoio ao utilizador final;\n\nc) Conceber, implementar e manter as ferramentas de produtividade e colaborativas consideradas necessárias de acordo com a arquitetura e utilização definidas;\n\nd) Assegurar a coordenação do apoio local aos utilizadores, no âmbito do apoio aplicacional e de infraestruturas;\n\ne) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "838758768": {
+   "fragment_id": "838999307",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Gestão de Serviços e Relações Externas",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 9.º — Departamento de Gestão de Serviços e Relações Externas\n\n1 - Compete ao Departamento de Gestão de Serviços e Relações Externas, abreviadamente designado por DGSRE, assumir o papel de principal contacto e promover a imagem junto dos parceiros, compreender as suas necessidades e assegurar um correto planeamento interno para o cumprimento de prazos, custos e receitas das soluções que garantam os adequados níveis de prestação e respetivas contrapartidas.\n\n2 - Compete ainda ao DGSRE:\n\na) Gerir o relacionamento com os parceiros, comunicando os seus interesses, objetivos e necessidades internamente;\n\nb) Manter uma comunicação regular e planeada com os parceiros, garantindo o desenvolvimento da estratégia definida;\n\nc) Conhecer e compreender os objetivos, capacidades e potencial internos, de forma a oferecer as soluções adequadas;\n\nd) Conceber, orçamentar e apresentar, com o apoio dos restantes departamentos, os produtos que correspondem às necessidades dos parceiros;\n\ne) Manter o catálogo de produtos atualizado;\n\nf) Gerir os níveis de serviço;\n\ng) Manter uma relação com os parceiros existentes que permitam parcerias de longo prazo, e procurar novos mercados, parceiros e soluções específicas adequadas;\n\nh) Coordenar a gestão de protocolos, com entidades públicas e privadas, no âmbito do relacionamento no domínio das tecnologias de informação e comunicação;\n\ni) Promover a definição e monitorização dos acordos de níveis de prestação de serviços;\n\nj) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "838758769": {
+   "fragment_id": "838999308",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento de Organização e Gestão de Pessoas",
+   "in_force_from": "2024-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 10.º — Departamento de Organização e Gestão de Pessoas\n\n1 - Compete ao Departamento de Organização e Gestão de Pessoas, abreviadamente designado por DOGP, assegurar e apoiar o funcionamento interno do II, I.P., nomeadamente nas áreas da gestão de recursos humanos, da gestão administrativa, orçamental e financeira e da gestão de aquisições de bens e serviços e de contratos.\n\n2 - Compete ainda ao DOGP:\n\na) Concretizar, numa perspetiva de permanente desenvolvimento organizacional, auscultações internas e externas, elaborar estudos e pareceres com o objetivo de auditar as estruturas organizativas e respetivos postos de trabalho a fim de os adequar aos objectivos globais do II, I.P.;\n\nb) Assegurar a elaboração e a permanente atualização do plano de gestão previsional de gestão de recursos humanos, em função dos objectivos estratégicos e das prioridades superiormente definidos;\n\nc) Conceber, implementar e monitorizar indicadores de desempenho no âmbito da gestão de recursos humanos;\n\nd) Avaliar e desenvolver periodicamente as competências dos trabalhadores, em articulação com as necessidades estratégicas do II, I.P., e em consonância com as boas práticas e normas vigentes;\n\ne) Assegurar a gestão administrativa dos recursos humanos, no cumprimento de princípios de equidade interna, das disposições normativas internas e da legislação em vigor;\n\nf) Implementar, gerir e monitorizar o sistema de avaliação de desempenho individual, garantindo a operacionalização dos respectivos impactos;\n\ng) Coordenar todas as atividades inerentes à saúde, higiene e segurança no trabalho, em consonância com a legislação em vigor, e concretizando outras iniciativas que promovam o bem-estar dos trabalhadores;\n\nh) Garantir os processos de recrutamento e seleção, bem como os processos de mobilidade interna no próprio Instituto;\n\ni) Promover o acolhimento e acompanhamento de estágios curriculares e profissionais, com especial relevância para as áreas de tecnologias de informação e comunicação, em articulação direta com as necessidades estratégicas do II, I.P., e garantindo a aprendizagem nas metodologias e boas práticas em vigor no II, I.P.;\n\nj) Coordenar as atividades administrativas e transversais ao funcionamento interno dos serviços, nomeadamente expediente, arquivo, gestão do edifício e controlo de acessos;\n\nk) Assegurar a gestão do património, zelando pela conservação e utilização racional das instalações e garantir a atualização permanente do inventário;\n\nl) Assegurar a elaboração, o planeamento orçamental e o controlo da sua execução;\n\nm) Controlar a gestão financeira e patrimonial;\n\nn) Gerir os processos de candidatura a projetos cofinanciados e respectivo controlo de execução;\n\no) Assegurar as prestações de contas anuais de acordo com as normas legais em vigor e elaborar relatórios periódicos de apoio à gestão;\n\np) Garantir o desenvolvimento dos procedimentos de aquisição de bens e serviços, para satisfação das necessidades manifestadas pelas diferentes unidades orgânicas do II, I.P., em função dos planos estabelecidos e das normas legais em vigor, atendendo aos melhores critérios de economia, eficiência e eficácia, sem prejuízo das competências próprias da Secretaria-Geral do Ministério da Solidariedade e da Segurança Social;\n\nq) Assegurar, sempre que necessário, o armazenamento de bens, a gestão de stocks e o controlo de entradas e saídas em armazém;\n\nr) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\ns) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\nt) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nu) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127171375": {
+   "fragment_id": "838999299",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados, em anexo à presente portaria e da qual fazem parte integrante, os estatutos do Instituto de Informática, I.P., abreviadamente designado por II, I.P..\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+  },
+  "1127171475": {
+   "fragment_id": "838999300",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 635/2007, de 30 de maio, alterada pela Portaria n.º 1329-A/2010, de 30 de dezembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+  },
+  "1127171575": {
+   "fragment_id": "838999301",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+  },
+  "1127171675": {
+   "fragment_id": "838999309",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de março de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 15 de março de 2013. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 14 de março de 2013.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+  },
+  "1127171775": {
+   "fragment_id": "838999310",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DO INSTITUTO DE INFORMÁTICA, I.P.",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "## Anexo — ESTATUTOS DO INSTITUTO DE INFORMÁTICA, I.P.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+  },
+  "1127171875": {
+   "fragment_id": "838999311",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\nArtigo 1.º\n\n1 - A organização interna dos serviços do Instituto de Informática, I.P., abreviadamente designado por II, I.P., é constituída pelas seguintes unidades orgânicas nucleares:\n\na) Departamento de Arquitetura e Desenvolvimento;\n\nb) Departamento de Gestão de Aplicações;\n\nc) Departamento de Análise e Gestão de Informação;\n\nd) Departamento de Administração de Sistemas;\n\ne) Departamento de Apoio ao Utilizador;\n\nf) Departamento de Gestão de Serviços e Relações Externas;\n\ng) Departamento de Organização e Gestão de Pessoas.\n\n2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas unidades orgânicas flexíveis, designadas por áreas, integradas ou não em unidades orgânicas nucleares, cujo número não pode exceder, em cada momento, o limite máximo de 17.\n\n3 - As competências das unidades orgânicas flexíveis são definidas na deliberação que as cria, a qual é objeto de publicação no Diário da República.\n\n4 - Para o desenvolvimento de objetivos específicos de natureza multidisciplinar, podem ser constituídas, por deliberação do conselho diretivo a publicar em Diário da República, até quatro equipas multidisciplinares.\n\n5 - A deliberação referida no número anterior deve definir as competências, o período de duração e os recursos humanos a afetar, bem como designar o respetivo chefe de equipa e o seu estatuto remuneratório, de acordo com o disposto no artigo 3.º.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127171975": {
+   "fragment_id": "838999312",
+   "type": 11,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 - Os departamentos são dirigidos por diretores, cargos de direção intermédia de 1.º grau.\n\n2 - As áreas são dirigidas por coordenadores, cargos de direção intermédia de 2.º grau.\n\n3 - O secretário do conselho diretivo é um cargo de direção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27."
+  },
+  "1127172075": {
+   "fragment_id": "838999313",
+   "type": 11,
+   "heading": "Artigo 3.º — Chefes de equipas multidisciplinares",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 3.º — Chefes de equipas multidisciplinares\n\nO estatuto remuneratório dos chefes de equipa multidisciplinares pode ser fixado até ao limite da remuneração do coordenador de área, em função da natureza e da complexidade das funções.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127172175": {
+   "fragment_id": "838999302",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamento de Arquitetura e Desenvolvimento",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 4.º — Departamento de Arquitetura e Desenvolvimento\n\n1 - Compete ao Departamento de Arquitetura e Desenvolvimento, abreviadamente designado por DAD, definir, planear, normalizar, e controlar a arquitetura de sistemas, a estratégia tecnológica, o teste e acreditação de soluções aplicacionais e a visão tecnológica do planeamento estratégico de sistemas de informação, da gestão da qualidade, da segurança de informação e da gestão de riscos.\n\n2 - Compete ainda ao DAD:\n\na) Assegurar a definição, revisão e implementação do plano estratégico de sistemas de informação na sua vertente tecnológica, garantindo o seu alinhamento com a missão, objetivos e arquitetura de sistemas;\n\nb) Definir a arquitetura de sistemas de informação, garantindo o seu alinhamento com as boas práticas e as tendências da tecnologia, de acordo com as normas em vigor;\n\nc) Assegurar a modelização das bases de dados;\n\nd) Assegurar a definição da orientação tecnológica, estudando e propondo a evolução das infraestruturas físicas e lógicas e de modelos tecnológicos;\n\ne) Assegurar a coordenação técnica da gestão dos sistemas de segurança de informação e de gestão de riscos;\n\nf) Executar a acreditação de sistemas e soluções aplicacionais, desenvolvendo os testes adequados;\n\ng) Proceder à avaliação permanente do desempenho técnico das soluções e sistemas aplicacionais em produção;\n\nh) Definir e dinamizar a utilização das metodologias e ferramentas de trabalho de tecnologias de informação;\n\ni) Gerir as diferentes disciplinas de recursos humanos de tecnologias de informação, através da sua afetação às várias atividades, nomeadamente, nas especialidades de análise, programação, testes e desenvolvimento organizacional;\n\nj) Antecipar as tendências de mercado, potencial de novas soluções tecnológicas e plataformas de interoperabilidade;\n\nk) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nl) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\nm) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nn) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127172275": {
+   "fragment_id": "838999303",
+   "type": 11,
+   "heading": "Artigo 5.º — Departamento de Gestão de Aplicações",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 5.º — Departamento de Gestão de Aplicações\n\n1 - Compete ao Departamento de Gestão de Aplicações, abreviadamente designado por DGA, apoiar a definição da arquitetura, o desenvolvimento e a implementação das aplicações, assim como, gerir o seu ciclo de vida.\n\n2 - Compete ainda ao DGA:\n\na) Fazer o levantamento e análise de requisitos aplicacionais e o desenvolvimento de aplicações de acordo com o calendário, especificações técnicas, resultados e custos acordados com os parceiros;\n\nb) Assegurar a gestão do ciclo de vida das soluções aplicacionais, de acordo com o calendário, especificações técnicas, resultados e custos acordados com os parceiros;\n\nc) Desenvolver e manter atualizados os planos dos projetos de desenvolvimento de soluções aplicacionais;\n\nd) Gerir os protocolos de interconexão de dados com os vários organismos da Administração Pública, no âmbito dos diferentes sistemas aplicacionais;\n\ne) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127172375": {
+   "fragment_id": "838999304",
+   "type": 11,
+   "heading": "Artigo 6.º — Departamento de Análise e Gestão de Informação",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 6.º — Departamento de Análise e Gestão de Informação\n\n1 - Compete ao Departamento de Análise e Gestão da Informação, abreviadamente designado por DAGI, conceber, planear, executar e controlar os projetos de produção e recolha de dados com vista ao seu tratamento como informação estatística, e à sua utilização como indicadores de gestão.\n\n2 - Compete ainda ao DAGI:\n\na) Conceber, desenvolver e gerir sistemas de tratamento de dados;\n\nb) Desenvolver, atualizar e gerir sistemas e processos de deteção e controlo de qualidade de dados;\n\nc) Conceber, desenvolver e gerir sistemas de extração de dados para tratamento estatístico;\n\nd) Disponibilizar e atualizar as bases de dados de suporte ao tratamento de informação estatística;\n\ne) Assegurar o cumprimento dos requisitos legais de acesso, disponibilização, manipulação e destruição de informação;\n\nf) Conceber, desenvolver e gerir sistemas inteligentes de indicadores de risco de suporte ao combate à fraude e à evasão;\n\ng) Desenvolver metodologias e obter dados para apoio à monitorização dos sistemas de gestão de qualidade, segurança de informação, auditoria e controlo interno e gestão de riscos;\n\nh) Desenvolver metodologias para apoio à implementação e controlo do sistema de gestão e avaliação de desempenho;\n\ni) Gerir os protocolos de cruzamento de informação com outros organismos da Administração Pública, nos domínios da extração de dados, para a construção de indicadores de gestão de suporte à decisão;\n\nj) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nk) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\nl) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nm) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127172475": {
+   "fragment_id": "838999305",
+   "type": 11,
+   "heading": "Artigo 7.º — Departamento de Administração de Sistemas",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 7.º — Departamento de Administração de Sistemas\n\n1 - Compete ao Departamento de Administração de Sistemas, abreviadamente designado por DAS, gerir as infraestruturas de tecnologias de informação e comunicação e assegurar a administração de sistemas.\n\n2 - Compete ainda ao DAS:\n\na) Conceber, desenvolver e implementar o plano de infraestruturas de tecnologias de informação e de comunicações de acordo com a arquitetura definida;\n\nb) Assegurar a operacionalidade, exploração e monitorização das infraestruturas nas suas componentes de hardware e networking e outros sistemas no âmbito da sua atuação, otimizando a gestão do centro de processamento de dados;\n\nc) Assegurar a administração e exploração dos sistemas aplicacionais em produção, a operação e supervisão de sistemas, as bases de dados e os sistemas centrais e distribuídos, garantindo a sua adequação permanente às necessidades e níveis de serviço acordados;\n\nd) Administrar a infraestrutura dos portais de internet, intranet e aplicações web dos serviços e organismos referidos na missão e atribuições estabelecidas;\n\ne) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Serviços e Relações Externas com vista a uma comunicação integrada ao longo do ciclo de vida das aplicações, aproximando as expectativas dos parceiros à solução aplicacional, fortalecendo desta forma a imagem e valores do II, I. P., junto dos seus parceiros;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127172575": {
+   "fragment_id": "838999306",
+   "type": 11,
+   "heading": "Artigo 8.º — Departamento de Apoio ao Utilizador",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 8.º — Departamento de Apoio ao Utilizador\n\n1 - Compete ao Departamento de Apoio ao Utilizador, abreviadamente designado por DAU, desenvolver, gerir e manter os serviços de apoio ao utilizador final interno ou externo.\n\n2 - Compete ainda ao DAU:\n\na) Assegurar a operacionalidade, exploração e monitorização dos sistemas competentes a nível central, regional e local;\n\nb) Conceber, implementar e manter todo o apoio necessário aos postos de trabalhos dos utilizadores finais, em particular a estação padrão, a telefonia e outras ferramentas de apoio ao utilizador final;\n\nc) Conceber, implementar e manter as ferramentas de produtividade e colaborativas consideradas necessárias de acordo com a arquitetura e utilização definidas;\n\nd) Assegurar a coordenação do apoio local aos utilizadores, no âmbito do apoio aplicacional e de infraestruturas;\n\ne) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\nf) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\ng) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nh) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127172675": {
+   "fragment_id": "838999307",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamento de Gestão de Serviços e Relações Externas",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 9.º — Departamento de Gestão de Serviços e Relações Externas\n\n1 - Compete ao Departamento de Gestão de Serviços e Relações Externas, abreviadamente designado por DGSRE, assumir o papel de principal contacto e promover a imagem junto dos parceiros, compreender as suas necessidades e assegurar um correto planeamento interno para o cumprimento de prazos, custos e receitas das soluções que garantam os adequados níveis de prestação e respetivas contrapartidas.\n\n2 - Compete ainda ao DGSRE:\n\na) Gerir o relacionamento com os parceiros, comunicando os seus interesses, objetivos e necessidades internamente;\n\nb) Manter uma comunicação regular e planeada com os parceiros, garantindo o desenvolvimento da estratégia definida;\n\nc) Conhecer e compreender os objetivos, capacidades e potencial internos, de forma a oferecer as soluções adequadas;\n\nd) Conceber, orçamentar e apresentar, com o apoio dos restantes departamentos, os produtos que correspondem às necessidades dos parceiros;\n\ne) Manter o catálogo de produtos atualizado;\n\nf) Gerir os níveis de serviço;\n\ng) Manter uma relação com os parceiros existentes que permitam parcerias de longo prazo, e procurar novos mercados, parceiros e soluções específicas adequadas;\n\nh) Coordenar a gestão de protocolos, com entidades públicas e privadas, no âmbito do relacionamento no domínio das tecnologias de informação e comunicação;\n\ni) Promover a definição e monitorização dos acordos de níveis de prestação de serviços;\n\nj) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  },
+  "1127172775": {
+   "fragment_id": "838999308",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento de Organização e Gestão de Pessoas",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+   ],
+   "markdown": "###### Artigo 10.º — Departamento de Organização e Gestão de Pessoas\n\n1 - Compete ao Departamento de Organização e Gestão de Pessoas, abreviadamente designado por DOGP, assegurar e apoiar o funcionamento interno do II, I.P., nomeadamente nas áreas da gestão de recursos humanos, da gestão administrativa, orçamental e financeira e da gestão de aquisições de bens e serviços e de contratos.\n\n2 - Compete ainda ao DOGP:\n\na) Concretizar, numa perspetiva de permanente desenvolvimento organizacional, auscultações internas e externas, elaborar estudos e pareceres com o objetivo de auditar as estruturas organizativas e respetivos postos de trabalho a fim de os adequar aos objectivos globais do II, I.P.;\n\nb) Assegurar a elaboração e a permanente atualização do plano de gestão previsional de gestão de recursos humanos, em função dos objectivos estratégicos e das prioridades superiormente definidos;\n\nc) Conceber, implementar e monitorizar indicadores de desempenho no âmbito da gestão de recursos humanos;\n\nd) Avaliar e desenvolver periodicamente as competências dos trabalhadores, em articulação com as necessidades estratégicas do II, I.P., e em consonância com as boas práticas e normas vigentes;\n\ne) Assegurar a gestão administrativa dos recursos humanos, no cumprimento de princípios de equidade interna, das disposições normativas internas e da legislação em vigor;\n\nf) Implementar, gerir e monitorizar o sistema de avaliação de desempenho individual, garantindo a operacionalização dos respectivos impactos;\n\ng) Coordenar todas as atividades inerentes à saúde, higiene e segurança no trabalho, em consonância com a legislação em vigor, e concretizando outras iniciativas que promovam o bem-estar dos trabalhadores;\n\nh) Garantir os processos de recrutamento e seleção, bem como os processos de mobilidade interna no próprio Instituto;\n\ni) Promover o acolhimento e acompanhamento de estágios curriculares e profissionais, com especial relevância para as áreas de tecnologias de informação e comunicação, em articulação direta com as necessidades estratégicas do II, I.P., e garantindo a aprendizagem nas metodologias e boas práticas em vigor no II, I.P.;\n\nj) Coordenar as atividades administrativas e transversais ao funcionamento interno dos serviços, nomeadamente expediente, arquivo, gestão do edifício e controlo de acessos;\n\nk) Assegurar a gestão do património, zelando pela conservação e utilização racional das instalações e garantir a atualização permanente do inventário;\n\nl) Assegurar a elaboração, o planeamento orçamental e o controlo da sua execução;\n\nm) Controlar a gestão financeira e patrimonial;\n\nn) Gerir os processos de candidatura a projetos cofinanciados e respectivo controlo de execução;\n\no) Assegurar as prestações de contas anuais de acordo com as normas legais em vigor e elaborar relatórios periódicos de apoio à gestão;\n\np) Garantir o desenvolvimento dos procedimentos de aquisição de bens e serviços, para satisfação das necessidades manifestadas pelas diferentes unidades orgânicas do II, I.P., em função dos planos estabelecidos e das normas legais em vigor, atendendo aos melhores critérios de economia, eficiência e eficácia, sem prejuízo das competências próprias da Secretaria-Geral do Ministério da Solidariedade e da Segurança Social;\n\nq) Assegurar, sempre que necessário, o armazenamento de bens, a gestão de stocks e o controlo de entradas e saídas em armazém;\n\nr) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;\n\ns) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;\n\nt) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;\n\nu) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 232/2026/1 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/232-2026-1126594012), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 17/2024 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/portaria/17-2024-838972840), em vigor a partir de 2024-01-26"
+  }
+ }
+}

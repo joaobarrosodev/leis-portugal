@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:468838:por
+title: Decreto-Lei n.º 4/78
+short_title: null
+summary: Fixa a escolaridade obrigatória de seis anos a todos os indivíduos nascidos a partir de 1 de Janeiro de 1965
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Investigação Científica
+proposing_entity: null
+official_number: 4/78
+official_date: null
+publication_date: '1978-01-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/1978, Série I de 1978-01-11
+  number: '9'
+  series: I
+  supplement: null
+  pages: 74 - 74
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/01/00900/00740074.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '468838'
+  dre_path: /dr/detalhe/decreto-lei/4-1978-468838
+  internal: pt:dre:468838:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1978-468838
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1978-468838
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 76359d2023fc6c78cf639df16ee135cad4146c77cf42338da069b73b1ed5d07a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Diploma
+- Ensino Básico
+relationships:
+- type: amended_by
+  target: pt:dre:575352:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:504301:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:15:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 4/78
+
+de 11 de Janeiro
+
+Tornando-se necessário promover a frequência efectiva dos seis anos actualmente considerados escolaridade obrigatória:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - Aos alunos que concluíram com aproveitamento a escolaridade obrigatória de seis anos é atribuído o respectivo diploma comprovativo.
+
+2 - O diploma será passado em modelo de fundo reticulado, a fixar pela Direcção-Geral do Ensino Básico, e será editado pela Imprensa Nacional-Casa da Moeda.
+
+Art. 2.º - 1 - A Direcção-Geral do Ensino Básico passará a certidão comprovativa do aproveitamento escolar obtido pelos alunos impossibilitados da frequência do ensino obrigatório até final por incapacidade comprovada e reconhecida em despacho ministerial.
+
+2 - Da certidão referida no número anterior constará indicação da incapacidade que fundamentou a dispensa.
+
+Art. 3.º Em qualquer fase ou ano de escolaridade obrigatória poderá ser passado aos alunos que o solicitarem uma certidão de habilitações.
+
+Art. 4.º - 1 - Aos indivíduos nascidos a partir de 1 de Janeiro de 1967 que não tenham completado a escolaridade obrigatória de seis anos é vedado para todos os efeitos legais o ingresso nos quadros públicos.
+
+2 - O Ministro da Educação e Investigação Científica poderá, caso a caso, autorizar a dispensa das habilitações referidas no número anterior, sempre que se verifique o disposto no artigo 2.º deste diploma.
+
+Art. 5.º Os alunos que concluírem com aproveitamento o curso nocturno do ensino preparatório terão direito a diploma de escolaridade obrigatória.
+
+Art. 6.º - 1 - É revogado o artigo 4.º do [Decreto-Lei n.º 42994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42994-1960-504301), de 28 de Maio de 1960.
+
+2 - É eliminado a partir do ano escolar de 1977-1978, o diploma da 4.ª classe.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
+
+Promulgado em 27 de Dezembro de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

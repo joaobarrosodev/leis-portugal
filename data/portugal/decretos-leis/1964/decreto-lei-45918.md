@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:537455:por
+title: Decreto-Lei n.º 45918
+short_title: null
+summary: Regula a situação dos segundos-assistentes do ensino superior obrigatòriamente, candidatos ao doutoramento ou agregação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação Nacional - Instituto de Alta Cultura e Direcção-Geral do Ensino Superior e das Belas-Artes
+proposing_entity: null
+official_number: '45918'
+official_date: null
+publication_date: '1964-09-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 216/1964, Série I de 1964-09-14
+  number: '216'
+  series: I
+  supplement: null
+  pages: 1179 - 1180
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/09/21600/11791180.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '537455'
+  dre_path: /dr/detalhe/decreto-lei/45918-1964-537455
+  internal: pt:dre:537455:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45918-1964-537455
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45918-1964-537455
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f9d440aa9aed5d59c5f642f6249bad16db620e3541cf72eb70cd26f5911df94d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bolsa de Estudos
+- Carreira Docente Universitária
+- Doutoramento
+- Formação Profissional
+- Instituto de ALTA Cultura
+- Pessoal Docente
+- Qualificação Profissional
+relationships:
+- type: cites
+  target: pt:dre:149463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368623:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:50:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45918
+
+Em virtude do disposto no artigo 6.º do [Decreto-Lei n.º 31658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31658-1941-368623), de 21 de Novembro de 1941, os segundos-assistentes do ensino superior são obrigatòriamente candidatos ao doutoramento ou agregação e devem realizar um destes actos dentro de certo prazo, que o artigo único do [Decreto-Lei n.º 35964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35964-1946-149463), de 20 de Novembro, de 1946, fixou em seis anos.
+
+A existência daquela obrigação e de um prazo para a cumprir justifica-se por fundamentos conhecidos, que seria ocioso repetir, e corresponde a um regime generalizado nos vários países.
+
+Tem-se por vezes sugerido se amplie o referido prazo ou pelo menos se autorize em certos casos a sua prorrogação: e isto para atender à situação daqueles segundos-assistentes sobre que pesa uma acumulação excepcional de serviço, em razão de certas circunstâncias, também comuns à generalidade dos países, que dificultam de forma apreciável o recrutamento, do pessoal docente.
+
+Sinceramente se crê, contudo, que a ampliação do prazo, aliás já alargado por mas de uma vez, ou a possibilidade da sua prorrogação em determinadas hipóteses, não resolveriam o problema, pois subsistiriam as causas que anteriormente haveriam impedido o segundo-assistente de se apresentar ao doutoramento ou agregação.
+
+Ao segundo-assistente que foi na verdade impedido de efectuar o doutoramento ou agregação dentro dos seis anos, em virtude de extraordinária acumulação de serviço, mas que se encontra no firme propósito de o efectuar, preferível será ver-se liberto das funções docentes, a fim de poder consagrar-se absorventemente à ultimação dos trabalhos destinados àquele fim.
+
+O problema que se põe será o de lhe assegurar os meios económicos necessários, através da concessão de uma bolsa.
+
+Em casos semelhantes já o Ministério da Educação Nacional vem concedendo bolsas, por intermédia do Instituto de Alta Cultura.
+
+Julga-se todavia de vantagem regular expressamente a matéria, fixando legislativamente as soluções mais equilibradas e justas. É esse um dos objectivos do presente decreto-lei.
+
+De outro lado, sucede por vezes serem os segundos-assistentes forçados a abandonar o cargo no decurso do ano escolar, por se cumprir nesse decurso o sexénio. Daí resultam, não raro, inconvenientes graves, pela perturbação causada ao regular funcionamento das actividades docentes. Obviar a tais inconvenientes constitui outro dos objectivos deste diploma.
+
+Nestes termos:
+
+Usando da faculdade, conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Quando um segundo-assistente do ensino superior tenha sido impedido de realizar o seu doutoramento ou agregação dentro do prazo estabelecido no artigo único do [Decreto-Lei n.º 35964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35964-1946-149463), de 20 de Novembro de 1946, em razão de excepcional acumulação de serviço, e dê garantias de vir a efectuá-lo em espaço de tempo razoável, o Instituto de Alta Cultura conceder-lhe-á, em princípio, uma bolsa, para o efeito.
+
+2. O candidato deve reunir, além dos requisitos enunciados no número anterior, as condições gerais de que depende a concessão de bolsas, nomeadamente quanto à carência ou insuficiência de recursos económicos.
+
+3. A bolsa será de um montante mensal igual à média das remunerações líquidas percebidas no exercício do cargo durante, os três últimos anos, salvo se a situação económica do candidato justificar montante menor.
+
+4. A bolsa será concedida por doze meses. Este prazo sofrerá prorrogação se a natureza ou as particularidades dos trabalhos o justificarem; mas não pode haver mais de duas prorrogações, a primeira de nove meses e a segunda de seis.
+
+5. Concluído o doutoramento ou a agregação, findará a bolsa, ainda que esteja em curso o respectivo prazo inicial ou alguma das suas prorrogações.
+
+6. O processo de concessão de bolsa deve ser instruído com os seguintes elementos, além de outros que o Instituto de Alta Cultura entenda dever solicitar:
+
+a) Informação do director da escola, onde se refira discriminadamente a actividade docente e científica, do candidato durante todo o tempo de exercício do cargo e se indiquem as remunerações líquidas por ele percebidas nos três últimos anos;
+
+b) Relatório circunstanciado do candidato sobre o estado dos seus trabalhos para o doutoramento ou agregação;
+
+c) Informação, acerca dos mesmos trabalhos, do professor ou professores que os tenham acompanhado;
+
+d) Declaração onde o candidato especifique, sob compromisso de honra, a sua situação económica.
+
+7. O Instituto retirará a bolsa se deixarem de se verificar as condições que determinaram a sua concessão; ou modificará o montante respectivo se assim o justificarem alterações sobrevindas na situação económica do bolseiro.
+
+8. Este deve levar ao conhecimento do Instituto todas as circunstâncias que possam interessar para os fins do disposto no número precedente.
+
+Art. 2.º - 1. Se um segundo-assistente do ensino superior for atingido no decurso do ano escolar pelo limite fixado no artigo único do [Decreto-Lei n.º 35964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35964-1946-149463), o Ministro da Educação Nacional poderá autorizá-lo a permanecer no exercício do cargo até o termo do ano, mediante proposta fundamentada do director da escola.
+
+2. Para efeito do preceituado no número anterior, considera-se como termo do ano escolar o do serviço de exames da chamada normal da época de Outubro.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 14 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de, Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -1,0 +1,393 @@
+---
+schema_version: '1.0'
+id: pt:dre:175329:por
+title: Decreto-Lei n.º 193/2012
+short_title: null
+summary: Aprova a orgânica do Instituto de Ação Social das Forças Armadas, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 193/2012
+official_date: null
+publication_date: '2012-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 163/2012, Série I de 2012-08-23
+  number: '163'
+  series: I
+  supplement: null
+  pages: 4639 - 4641
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16300/0463904641.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/193/2012/08/23/p/dre/pt/html
+  oj: null
+  dre: '175329'
+  dre_path: /dr/detalhe/decreto-lei/193-2012-175329
+  internal: pt:dre:175329:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2012-175329
+  metadata_url: https://data.dre.pt/eli/dec-lei/193/2012/08/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2012-175329
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:17:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: efd06626f786668d1c0212945ab0ba13eace0748b37feab206121712b47dba9e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Consultivo
+- Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
+- Instituto de Ação Social das Forças Armadas
+- Orgânica
+- Pessoal Dirigente
+relationships:
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:74813524:por
+  label: Alterados, a partir de 01.07.2016, os arts. 3.º, 7.º e 10.º e revogada, a partir da mesma data, a al. d) do n.º 3
+    do art. 3.º do presente diploma, pelo(a) Decreto-Lei n.º 35/2016 - Diário da República n.º 123/2016, Série I de 2016-06-29
+    nos termos do seu art.º 4
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2016-74813524
+  date: '2016-06-29'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a superintendência e tutela sobre o Instituto de Ação Social das Forças
+    Armadas, I. P., com orgânica aprovada pelo presente diploma, seja exercida pelo Ministro da Defesa Nacional, pelo(a) Decreto-Lei
+    n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a superintendência e tutela sobre o Instituto de Ação Social das Forças
+    Armadas, I. P., com orgânica aprovada pelo presente diploma seja exercida pela Ministra da Defesa Nacional pelo(a) Decreto-Lei
+    n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Defesa Nacional a superintendência
+    e tutela sobre o Instituto de Ação Social das Forças Armadas, I. P. pelo(a) Decreto-Lei n.º 32/2024 - Diário da República
+    n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Defesa Nacional a superintendência
+    e tutela sobre o Instituto de Ação Social das Forças Armadas, I. P. pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República
+    n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
+- type: cites
+  target: pt:dre:281444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374609:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/250/1999/07/07/p/dre
+- type: cites
+  target: pt:dre:399788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489509:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:678447:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/284/1995/10/30/p/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:17:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 193/2012
+
+de 23 de agosto
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+O Instituto de Ação Social das Forças Armadas, I. P. (IASFA, I. P.), sucedeu aos Serviços Sociais das Forças Armadas, integrando no seu âmbito o Cofre de Previdência das Forças Armadas, bem como incorporando nos seus equipamentos sociais o Lar de Veteranos Militares, o Complexo Social de Oeiras e o Centro Médico e Educativo do Alfeite, que passaram a designar-se, respetivamente, por Centro de Apoio Social de Runa, Centro de Apoio Social de Oeiras e Centro de Apoio Social do Alfeite.
+
+O IASFA, I. P., resultou da reorganização das estruturas às quais cabiam a ação social complementar dos militares, concretizada pelo [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), de 30 de outubro, que também aprovou o seu estatuto.
+
+Atualmente, a missão do IASFA, I. P., consiste em garantir e promover a ação social complementar dos seus beneficiários, e gerir o sistema de assistência na doença aos militares das Forças Armadas, correspondendo à fusão dos subsistemas de assistência na doença aos militares da Armada (ADMA), assistência na doença aos militares do Exército (ADME) e assistência na doença aos militares da Força Aérea (ADMFA).
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 16.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto de Ação Social das Forças Armadas, I. P., abreviadamente designado por IASFA, I. P., é um instituto público integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - O IASFA, I. P., prossegue atribuições do Ministério da Defesa Nacional (MDN), sob superintendência e tutela do respetivo ministro.
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O IASFA, I. P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - O IASFA, I. P., tem sede em Lisboa.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - O IASFA, I. P., tem por missão garantir e promover a ação social complementar dos seus beneficiários e gerir o sistema de assistência na doença aos militares das Forças Armadas.
+
+2 - São atribuições do IASFA, I. P.:
+
+a) Assegurar ações de bem-estar social dos beneficiários;
+
+b) Assegurar a gestão do sistema de assistência na doença aos militares das Forças Armadas (ADM);
+
+c) Promover a satisfação de necessidades sociais não cobertas por outros sistemas de assistência social;
+
+d) Promover, em colaboração com outras entidades ou serviços, a articulação e harmonização dos esquemas de prestações de ação social complementar;
+
+e) Assegurar uma adequada gestão das receitas, designadamente as provenientes de quotizações;
+
+f) Recolher e manter permanentemente atualizada informação sobre o universo de beneficiários e de benefícios concedidos;
+
+g) Promover a realização de estudos conducentes à melhoria da ação social complementar desenvolvida e propor as medidas ou os instrumentos legais necessários.
+
+3 - A ação social complementar dos beneficiários do IASFA, I. P. (ASC), concretiza-se, nomeadamente, através dos seguintes meios:
+
+a) Equipamentos sociais;
+
+b) Apoio domiciliário;
+
+c) Comparticipações financeiras;
+
+d) Concessão de empréstimos;
+
+e) Apoio à habitação.
+
+4 - O apoio à habitação previsto na alínea e) do número anterior concretiza-se, nomeadamente, através da promoção do arrendamento social.
+
+5 - Compete ainda ao IASFA, I. P., garantir as ações de âmbito social consagradas no estatuto do extinto Cofre de Previdência das Forças Armadas, nomeadamente:
+
+a) Assegurar o pagamento do subsídio pecuniário a que se refere o artigo 3.º do Estatuto do Cofre de Previdência das Forças Armadas, aprovado pelo [Decreto-Lei n.º 42945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42945-1960-281444), de 26 de abril de 1960;
+
+b) Assegurar o processamento dos empréstimos hipotecários que foram concedidos ao abrigo da alínea d) do parágrafo 1.º do artigo 35.º do Estatuto referido na alínea anterior.
+
+###### Artigo 4.º — Beneficiários titulares da ASC
+
+1 - São beneficiários titulares da ASC do IASFA, I. P., os militares dos quadros permanentes, nas situações de ativo, reserva e reforma, e o pessoal militarizado das Forças Armadas.
+
+2 - Podem ainda ser admitidos como beneficiários titulares, desde que o requeiram:
+
+a) Os alunos dos estabelecimentos de ensino destinados à formação dos militares dos quadros permanentes;
+
+b) Os deficientes das Forças Armadas, nos termos do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de janeiro;
+
+c) Os grandes deficientes das Forças Armadas, nos termos do [Decreto-Lei n.º 314/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1990-555830), de 13 de outubro;
+
+d) Os deficientes civis das Forças Armadas abrangidos pelo [Decreto-Lei n.º 319/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1984-399788), de 1 de outubro;
+
+e) Os grandes deficientes do serviço efetivo normal a que se refere o [Decreto-Lei n.º 250/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1999-374609), de 7 de julho.
+
+3 - Mantêm-se como beneficiários titulares da ASC os que possuíam a qualidade de beneficiário dos Serviços Sociais das Forças Armadas à data da entrada em vigor do [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), de 30 de outubro, bem como os que se tenham inscrito como tal ao abrigo do n.º 2 do artigo 4.º do mesmo decreto-lei.
+
+4 - Os beneficiários titulares são obrigados ao pagamento de uma quota de valor a fixar por despacho do membro do Governo responsável pela área da defesa nacional, sob proposta do presidente do conselho diretivo do IASFA, I. P., e ouvido o respetivo conselho consultivo.
+
+###### Artigo 5.º — Beneficiários familiares da ASC
+
+1 - São beneficiários familiares da ação social complementar do IASFA, I. P.:
+
+a) Os membros do agregado familiar do beneficiário titular;
+
+b) As pessoas que tenham direito a alimentos a prestar pelo beneficiário titular.
+
+2 - A qualidade de beneficiário familiar das pessoas referidas na alínea a) do número anterior não se perde pelo falecimento do beneficiário titular.
+
+###### Artigo 6.º — Órgãos
+
+São órgãos do IASFA, I. P.:
+
+a) O conselho diretivo;
+
+b) O fiscal único;
+
+c) O conselho consultivo.
+
+###### Artigo 7.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente e por um vogal.
+
+2 - O presidente pode ser designado de entre vice-almirantes ou tenentes-generais e o vogal pode ser designado de entre contra-almirantes e majores-generais dos ramos das Forças Armadas.
+
+3 - Nos casos previstos no número anterior, os membros do conselho diretivo são designados por despacho do membro do Governo responsável pela área da defesa nacional, sendo a designação apenas precedida de audição do Conselho de Chefes de Estado-Maior.
+
+4 - Sem prejuízo das competências que lhe forem conferidas por lei, ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo no âmbito da gestão do sistema ADM:
+
+a) Celebrar acordos com outras entidades, públicas ou privadas, que tenham por objeto a prestação de cuidados de saúde aos beneficiários, quando autorizado pelo ministro da tutela e em conformidade com as condições e cláusulas tipo fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional;
+
+b) Confirmar a suspensão e a perda da qualidade de beneficiário.
+
+5 - O conselho diretivo pode delegar, com ou sem faculdade de subdelegação, competências num ou em ambos os seus membros, estabelecendo os respetivos limites e condições.
+
+6 - A atribuição de um pelouro implica a delegação das competências necessárias para dirigir e fiscalizar os serviços respetivos e para praticar os atos de gestão corrente das unidades orgânicas envolvidas.
+
+###### Artigo 8.º — Fiscal único
+
+O fiscal único é designado e tem as competências previstas na Lei-Quadro dos Institutos Públicos.
+
+###### Artigo 9.º — Conselho consultivo
+
+1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do IASFA, I. P., e nas tomadas de decisão do conselho diretivo.
+
+2 - O conselho consultivo é composto por:
+
+a) Presidente do conselho diretivo, que preside;
+
+b) Dois representantes do MDN;
+
+c) Um representante do Estado-Maior-General das Forças Armadas (EMGFA) e de cada um dos ramos das Forças Armadas;
+
+d) Um representante de cada associação profissional de militares legalmente constituída.
+
+3 - Os membros do conselho consultivo referidos nas alíneas b) a d) do número anterior são designados, respetivamente, por despacho do membro do Governo responsável pela área da defesa nacional, pelo respetivo chefe de estado-maior e por cada uma das associações.
+
+4 - A indicação dos representantes referidos no n.º 2, bem como a dos seus substitutos, deve ser comunicada ao presidente nos 30 dias anteriores ao termo do mandato dos membros cessantes ou nos 30 dias subsequentes à respetiva vacatura.
+
+5 - A designação dos membros do conselho consultivo é feita por um período de três anos, renovável, sem prejuízo de poderem ser substituídos a qualquer momento pelas entidades que os nomeiam.
+
+6 - Podem participar nas reuniões do conselho consultivo, por convite do respetivo presidente, sem direito a voto, quaisquer pessoas ou entidades cuja presença seja considerada necessária na discussão e análise de matérias específicas.
+
+###### Artigo 10.º — Vinculação do IASFA, I. P.
+
+O IASFA, I. P., obriga-se mediante as assinaturas do presidente do conselho diretivo, ou de quem o substituir, e do vogal.
+
+###### Artigo 11.º — Organização interna
+
+A organização interna do IASFA, I. P., é a prevista nos respetivos estatutos.
+
+###### Artigo 12.º — Pessoal
+
+Ao desempenho de funções no IASFA, I. P., por militares e por pessoal militarizado, aplica-se o regime estabelecido para o desempenho de funções por pessoal não dirigente do Ministério da Defesa Nacional.
+
+###### Artigo 13.º — Receitas
+
+1 - O IASFA, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - O IASFA, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) O produto das quotas pagas pelos beneficiários;
+
+b) As importâncias cobradas por serviços prestados, incluindo as resultantes do arrendamento de imóveis e da cessão de exploração de estabelecimentos ou da concessão de exploração de serviços;
+
+c) O rendimento de bens próprios e, bem assim, o produto da sua alienação e da constituição de direitos sobre eles, nos termos da lei;
+
+d) O produto da alienação de material obsoleto, nos termos da lei;
+
+e) Os saldos das contas de anos findos;
+
+f) Os descontos efetuados pelos beneficiários da ADM, nos termos da lei;
+
+g) As doações, heranças e legados concedidos por quaisquer entidades públicas ou privadas;
+
+h) As comparticipações ou subsídios concedidos por quaisquer entidades;
+
+i) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - Os saldos das receitas referidas no número anterior, verificados no final de cada ano, transitam para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.
+
+###### Artigo 14.º — Despesas
+
+Constituem despesas do IASFA, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 15.º — Património
+
+1 - O património do IASFA, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
+
+2 - O património adquirido pelo IASFA, I. P., a partir da integração neste do Cofre de Previdência das Forças Armadas mantém-se sujeito às reservas estabelecidas no enquadramento legal de origem.
+
+###### Artigo 16.º — Responsabilidade pelo pagamento
+
+O pagamento da prestação de cuidados de saúde previstos em diploma próprio, na parte excedente ao pagamento devido pelo beneficiário, é da responsabilidade exclusiva do Estado Português.
+
+###### Artigo 17.º — Regulamentação
+
+1 - O regime dos beneficiários da ASC é aprovado por portaria do membro do Governo responsável pela área da defesa nacional.
+
+2 - O regime dos beneficiários da ADM é o previsto em diploma próprio.
+
+###### Artigo 18.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 215/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2009-489509), de 4 de setembro.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Frederico Agostinho Braga Lino.
+
+Promulgado em 9 de agosto de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 14 de agosto de 2012.
+
+Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.

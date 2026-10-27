@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:279214:por
+title: Resolução n.º 253/77
+short_title: null
+summary: Dá por findas as funções de Eugénio Gabriel Codina Natividade, como membro da comissão administrativa da Eurofil
+  - Indústrias de Petróleo, Plásticos e Filamentos, S. A. R. L.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 253/77
+official_date: null
+publication_date: '1977-10-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/1977, Série I de 1977-10-07
+  number: '232'
+  series: I
+  supplement: null
+  pages: 2454 - 2454
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23200/24542454.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '279214'
+  dre_path: /dr/detalhe/resolucao/253-1977-279214
+  internal: pt:dre:279214:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/253-1977-279214
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/253-1977-279214
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:07:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ff56b32ff666acab4faad537f84eb5c8ea616360d51e1b5c60a6a2e96266477a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:07:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Administrativa
+- Empresa Intervencionada
+- Empresa Privada
+- Exoneração
+- Intervenção do Estado
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:07:12Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 253/77
+
+Considerando que, encontrando-se ultimado o processo da cessação da intervenção do Estado na Eurofil - Indústrias de Petróleo, Plásticos e Filamentos, S. A. R. L., não se justifica a manutenção da requisição feita à Tabaqueira - Empresa Industrial de Tabacos, E. P., de Eugénio Gabriel Codina Natividade para membro da comissão administrativa daquela empresa:
+
+O Conselho de Ministros, reunido em 8 de Setembro de 1977, resolveu:
+
+Dar por findas, com efeitos a partir de 7 de Setembro de 1977, as funções de Eugénio Gabriel Codina Natividade como membro da comissão administrativa da Eurofil - Indústrias de petróleo, Plásticos e Filamentos, S. A. R. L., para a qual foi nomeado por resolução do Conselho de Ministros de 27 de Janeiro de 1977 e publicada no Diário da República, 2.ª série, n.º 34, de 10 de Fevereiro de 1977, e determinar o seu regresso à empresa a que se encontra requisitado.
+
+Presidência do Conselho de Ministros, 8 de Setembro de 1977. - O Primeiro-Ministro, Mário Soares.

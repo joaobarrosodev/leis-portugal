@@ -1,0 +1,657 @@
+---
+schema_version: '1.0'
+id: pt:dre:310790:por
+title: Decreto-Lei n.º 81/83
+short_title: null
+summary: Define o regime jurídico do pessoal dos órgãos e serviços centrais do Ministério da Educação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Educação e da Reforma Administrativa
+proposing_entity: null
+official_number: 81/83
+official_date: null
+publication_date: '1983-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 34/1983, Série I de 1983-02-10
+  number: '34'
+  series: I
+  supplement: null
+  pages: 405 - 420
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03400/04050420.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '310790'
+  dre_path: /dr/detalhe/decreto-lei/81-1983-310790
+  internal: pt:dre:310790:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9c0715325f69b9d39e7af6d0f448b8c7b80c26d0ab3dee7770286adc288edc04
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:55:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Funcionário Público
+- Ministério da Educação
+- Quadro de Pessoal
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:665342:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:451653:por
+  label: "Criado 1 lugar de técnico superior principal no quadro de pessoal constante do anexo II do presente diploma, pelo\
+    \ DEC LEI.232/83.30.05.1983.MFP, DR.IS [124] de 30.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1983-451653
+  date: '1983-05-30'
+- type: amended_by
+  target: pt:dre:443542:por
+  label: "Alterado o anexo II pela PORT.1048/83.20.12.1983.PCM, DR.IS [291] de 20.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1048-1983-443542
+  date: '1983-12-20'
+- type: amended_by
+  target: pt:dre:654912:por
+  label: "Alterado o anexo II pela PORT.245/84.1984.04.18.PCM DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-1984-654912
+  date: '1984-04-18'
+- type: amended_by
+  target: pt:dre:386669:por
+  label: "Criado um lugar de assessor, Letra C, no quadro de pessoal constante do anexo II ao presente diploma, pela PORT.379/84.16.06.1984.PCM,\
+    \ DR.IS [139] de 16.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-1984-386669
+  date: '1984-06-16'
+- type: amended_by
+  target: pt:dre:373652:por
+  label: "Criado um lugar de assessor Letra C, no quadro único do pessoal dos organismos e serviços centrais constante do\
+    \ anexo II ao presente diploma, pela PORT.654/84.30.08.1984.PCM, DR.IS [201] de 30.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/654-1984-373652
+  date: '1984-08-30'
+- type: amended_by
+  target: pt:dre:399651:por
+  label: "Criado um lugar de técnico superior principal no quadro único de pessoal constante do anexo II do presente diploma,\
+    \ pela PORT.764/84.27.09.1984.PCM, DR.IS [225] de 27.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/764-1984-399651
+  date: '1984-09-27'
+- type: amended_by
+  target: pt:dre:401285:por
+  label: "Aumentado o número de lugares constante do anexo II e as dotações de pessoal constantes do anexo V e XXI, pela PORT.870/84.23.11.1984.PCM,\
+    \ DR.IS [272] de 23.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/870-1984-401285
+  date: '1984-11-23'
+- type: amended_by
+  target: pt:dre:326121:por
+  label: "Alterado o quadro de pessoal, pela PORT.123/85.1985.03.02.PCM, DR.IS [51]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-1985-326121
+  date: '1985-03-02'
+- type: amended_by
+  target: pt:dre:182872:por
+  label: "Criado um lugar de assessor no quadro de pessoal constante do anexo II ao presente diploma, pela PORT.427/85.06.07.1985.PCM,\
+    \ DR.IS [153] de 06.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1985-182872
+  date: '1985-07-06'
+- type: amended_by
+  target: pt:dre:182994:por
+  label: "Criado um lugar no quadro único de pessoal constante do anexo II ao presente diploma, pela PORT.436/85.08.07.1985.PCM,\
+    \ DR.IS [154] de 08.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1985-182994
+  date: '1985-07-08'
+- type: amended_by
+  target: pt:dre:193824:por
+  label: "Alterado o quadro de pessoal referido no anexo II, pela PORT.58/86.1986.02.19.MF DR.IS [41] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1986-193824
+  date: '1986-02-19'
+- type: amended_by
+  target: pt:dre:227046:por
+  label: "Alterado o quadro único do pessoal constante dos anexos I, II e o anexo XIV pelo DEC LEI.107/86.21.05.1986.MEC,\
+    \ DR.IS [116] de 21.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1986-227046
+  date: '1986-05-21'
+- type: amended_by
+  target: pt:dre:226993:por
+  label: "Alterado o quadro de pessoal constante do anexo II do presente diploma, com a redacção conferida pelas Ports 1048/83,\
+    \ de 20-Dez, 42/84, de 20-Jan, 245/84, de 18-Abr, 123/85, de 02-Mar e 58/86, de 19-Fev, pela PORT.262/86.31.05.1986.MF,\
+    \ DR.IS [124] de 31.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-1986-226993
+  date: '1986-05-31'
+- type: amended_by
+  target: pt:dre:297237:por
+  label: "Aditados os artigos 27.º-A, 27.º-B, 36.º-A, 43.º-A e lugares aos anexos I, II e substituído o anexo XIII pelo DEC\
+    \ LEI.151-E/86.18.06.1986.MEC, DR.IS [137-2ºSupl] de 18.06.1986\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-e-1986-297237
+  date: '1986-06-18'
+- type: amended_by
+  target: pt:dre:218738:por
+  label: "Criado um quadro de pessoal no quadro único, constante do anexo II ao presente diploma, pela PORT.407/86.28.07.1986.MF,\
+    \ DR.IS [171] de 28.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/407-1986-218738
+  date: '1986-07-28'
+- type: amended_by
+  target: pt:dre:663481:por
+  label: "Alterado o quadro de pessoal constante do anexo II ao presente diploma, pela PORT.40/87.17.01.1987.MF, DR.IS [14]\
+    \ de 17.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-1987-663481
+  date: '1987-01-17'
+- type: amended_by
+  target: pt:dre:421418:por
+  label: "Alterado o anexo II do presente diploma, pela PORT.402/87.14.05.1987.MF, DR.IS [110] de 14.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/402-1987-421418
+  date: '1987-05-14'
+- type: amended_by
+  target: pt:dre:420061:por
+  label: "Criado um lugar de assessor no quadro único constante do anexo II pela PORT.568/87.1987.07.08.MF, DR.IS [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/568-1987-420061
+  date: '1987-07-08'
+- type: amended_by
+  target: pt:dre:417778:por
+  label: "Alterado o quadro de pessoal constante do anexo II pela PORT.690/87.12.08.1987.MF, DR.IS [184] de 12.08.1987 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-1987-417778
+  date: '1987-08-12'
+- type: amended_by
+  target: pt:dre:658883:por
+  label: "Alterado o quadro de pessoal constantes dos anexos I e II do presente diploma, pela PORT.226-A/88.13.04.1988.MF,\
+    \ DR.IS [86]Supl de 13.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-a-1988-658883
+  date: '1988-04-13'
+- type: amended_by
+  target: pt:dre:192599:por
+  label: "Alterado o quadro de pessoal pela PORT.297/92.03.04.1992.MF, DR.IS-B [79] de 03.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-1992-192599
+  date: '1992-04-03'
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665342:por
+  label: "Revogado pelo DEC LEI.133/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1993-665342
+  date: '1993-04-26'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:55:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 81/83
+
+de 10 de Fevereiro
+
+O regime jurídico do pessoal dos organismos e serviços centrais do Ministério da Educação dispersa-se por 6 dezenas de diplomas legais, publicados no decurso de 11 anos, durante os quais se alterou profundamente o estatuto da função pública. Porque ainda em vigor, subsistem naqueles diplomas disposições ultrapassadas e outras que se opõem frontalmente, permitindo juridicamente soluções diferentes para situações iguais. Acresce, ainda, que não se tendo processado a sua actualização, faltam nelas muitas disposições que permitam accionar os novos mecanismos de gestão que entretanto foram surgindo no domínio da função pública.
+
+Mas também no âmbito da distribuição qualitativa dos efectivos as dificuldades são numerosas, pois é muito grande o peso das carreiras e categorias de carácter meramente executivo, em detrimento das de natureza técnica e de concepção.
+
+Estamos, em consequência, perante um quadro de situações que inviabiliza uma gestão racional e moderna dos recursos humanos, não permitindo resposta adequada às solicitações que diariamente se avolumam.
+
+É evidente que a legislação vigente acima referida se reporta também ao ordenamento orgânico do Ministério, que apresenta uma estrutura extremamente complexa, composta por numerosos órgãos e serviços resultantes de sucessivas adições em tempos e conjunturas diversificadas, a resultar num aparelho, administrativo fortemente centralizador e que dificilmente permite resposta eficaz às crescentes necessidades do sistema educativo.
+
+A complexidade dos problemas enunciados implica um conjunto de acções cautelosas e firmemente programadas de modo a operarem-se as mudanças necessárias, sem onerosas e irreparáveis soluções de continuidade. Nessa perspectiva, importa que previamente se implementem medidas de sistematização e racionalização do ordenamento dos recursos humanos, quer no aspecto normativo quer no que respeita à distribuição qualitativa e quantitativa de efectivos, de modo a alcançar-se uma situação estabilizada que propicie os passos seguintes e necessariamente mais morosos da reestruturação dos serviços.
+
+É assim, nessa perspectiva, que se situa o presente diploma que, mesmo para a estrutura vigente, conduz a significativa economia de efectivos, com um acentuado acréscimo nas carreiras técnicas, à custa de redução substancial das carreiras de execução e de apoio simples, sem que isso signifique de algum modo, antes pelo contrário, uma menor capacidade de resposta às exigências de funcionamento dos serviços.
+
+Nestes termos:
+
+O Governo decreta nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — (Âmbito de aplicação)
+
+1 - O regime de pessoal dos organismos e serviços centrais do Ministério da Educação é o constante do presente diploma.
+
+2 - As normas constantes deste diploma aplicam-se, ainda, a todo o pessoal que exerça funções nos organismos e serviços centrais, qualquer que seja o seu estatuto de origem.
+
+###### ARTIGO 2.º — (Carreiras de pessoal - Dotações)
+
+1 - Os lugares das carreiras e categorias de pessoal dos organismos e serviços centrais do Ministério da Educação são as constantes dos anexos I e II a este diploma e integram um quadro único.
+
+2 - As dotações de pessoal de cada um dos organismos e serviços centrais são as constantes dos mapas III a XXI anexos ao presente diploma.
+
+3 - As dotações referidas no número anterior poderão ser alteradas por despacho do Ministro da Educação, ouvida a Secretaria-Geral.
+
+###### ARTIGO 3.º — (Gestão do pessoal)
+
+1 - A gestão do pessoal do quadro único cabe à Secretaria-Geral.
+
+2 - A afectação do pessoal aos organismos e serviços centrais será feita por despacho do secretário-geral.
+
+3 - É da responsabilidade de cada um dos organismos e serviços centrais a administração do pessoal que lhes está afectado.
+
+4 - O Ministro da Educação determinará por despacho as formas de articulação entre a Secretaria-Geral e os restantes organismos e serviços centrais para efeitos dos números anteriores.
+
+###### ARTIGO 4.º — (Recrutamento e selecção)
+
+1 - O recrutamento e selecção de pessoal é feito nos termos fixados na lei geral.
+
+2 - A natureza, programas e condições de aplicação dos métodos de selecção a adoptar para cada categoria serão definidos por despacho conjunto dos Ministros da Educação e da Reforma Administrativa.
+
+###### ARTIGO 5.º — (Provimento)
+
+1 - O provimento do pessoal não dirigente a que se refere o presente diploma será feito por nomeação provisória ou comissão de serviço pelo período de 1 ano.
+
+2 - Findo o prazo referido no número anterior, o funcionário:
+
+a) Será provido definitivamente se tiver revelado aptidão para o lugar;
+
+b) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou comissão de serviço, se não tiver revelado aptidão para o lugar.
+
+3 - Se o funcionário a nomear já tiver provimento definitivo noutro lugar da função poderá, desde logo, ser provido definitivamente, nos casos em que exerça funções da mesma natureza.
+
+4 - O disposto no número anterior não prejudica a nomeação em comissão de serviço por um período a fixar até ao limite fixado no n.º 1, com base em opção do funcionário ou por conveniência da Administração.
+
+5 - O tempo de serviço em regime de comissão conta para todos os efeitos legais:
+
+a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
+
+b) No lugar do quadro do Ministério da Educação em que vier a ser provido definitivamente, finda a comissão.
+
+6 - Enquanto durar a comissão de serviço o funcionário mantém o direito ao lugar de origem, o qual pode, entretanto, ser preenchido interinamente.
+
+###### ARTIGO 6.º — (Promoção)
+
+À promoção do pessoal dos organismos e serviços centrais aplicam-se os princípios estabelecidos na lei geral.
+
+###### ARTIGO 7.º — (Formação e aperfeiçoamento profissional)
+
+1 - O Ministério da Educação assegurará a concretização do direito à formação permanente dos funcionários dos seus serviços, nos termos do disposto no [Decreto-Lei n.º 168/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1982-392871), de 10 de Maio.
+
+2 - O Ministro da Educação pode determinar, por despacho, a obrigatoriedade da frequência de determinados cursos ou estágios de formação quando os mesmos forem considerados indispensáveis ao bom exercício de funções ou à progressão na carreira.
+
+3 - Os cursos ou estágios de cuja aprovação dependa o provimento nos diferentes lugares do quadro serão regulamentados por portaria dos Ministros da Educação e da Reforma Administrativa.
+
+4 - Os cursos ou estágios referidos nos n.os 2 e 3 serão da responsabilidade da Secretaria-Geral, podendo vir a ser apoiados ou realizados pela Direcção-Geral de Emprego e Formação da Administração Pública e pelo Instituto Nacional de Administração.
+
+5 - Os cursos ou estágios realizados sob a responsabilidade da Secretaria-Geral poderão ser ministrados por funcionários do Ministério da Educação ou por indivíduos estranhos ao mesmo possuidores de especial competência nas matérias a tratar, sendo as respectivas remunerações fixadas por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa quando tiverem carácter de continuidade.
+
+###### ARTIGO 8.º — (Classificação de serviço)
+
+Em cada ano civil o pessoal dos organismos e serviços centrais será classificado relativamente ao serviço prestado, nos termos da lei geral.
+
+###### ARTIGO 9.º — (Horário de trabalho)
+
+O pessoal abrangido pelo presente diploma praticará o horário de trabalho em vigor nos organismos e serviços centrais, de acordo com o regulamento aprovado por despacho ministerial.
+
+###### ARTIGO 10.º — (Processo individual)
+
+1 - Por cada funcionário ou agente será organizado um processo individual, do qual constarão os actos administrativos relativos à nomeação, situação e categoria profissionais, comissões de serviço, impedimentos e situações equiparadas, licenças e tudo o mais que lhe diga respeito, incluindo títulos académicos e profissionais e méritos a eles inerentes e, bem assim, estado civil e residência.
+
+2 - O funcionário ou agente fica obrigado a dar conhecimento imediato ao serviço de qualquer alteração da sua situação pessoal que importe ao seu processo individual.
+
+3 - Os organismos e serviços centrais enviarão mensalmente à Secretaria-Geral todos os dados e documentos de alteração dos processos individuais dos seus funcionários.
+
+###### ARTIGO 11.º — (Permuta, requisição e destacamento)
+
+À permuta, requisição e destacamento de pessoal é aplicável o disposto na lei geral.
+
+###### ARTIGO 12.º — (Transferências)
+
+1 - Os funcionários do quadro único dos organismos e serviços centrais poderão ser transferidos para lugares dos quadros de outros serviços do Ministério.
+
+2 - Poderão igualmente ser transferidos para lugares do quadro único dos organismos e serviços centrais os funcionários dos quadros de outros serviços do Ministério.
+
+3 - A transferência de um quadro para outro depende de despacho do Ministro da Educação e esta condicionada à existência de vaga da mesma categoria no quadro de pessoal para que se verifique.
+
+4 - A transferência pressupõe a anuência do funcionário, salvo quando se fizer por conveniência de serviço, devidamente fundamentada em despacho, entre serviços na mesma localidade.
+
+###### ARTIGO 13.º — (Contrato além do quadro)
+
+1 - Sem prejuízo das normas restritivas sobre admissão de pessoal, poderá ser contratado além do quadro o pessoal absolutamente indispensável para a satisfação de necessidades que não possam ser asseguradas pelo pessoal permanente.
+
+2 - O contrato a que se refere o n.º 1 será celebrado por prazo não superior a 6 meses, podendo ser renovado com observância dos condicionalismos estabelecidos na lei geral.
+
+3 - O regime de pessoal contratado será o que estiver consagrado nas disposições legais aplicáveis, nomeadamente naquelas em que se contém o regime do pessoal nomeado, e que não sejam incompatíveis com a natureza do vínculo contratual.
+
+###### ARTIGO 14.º — (Contrato de tarefa)
+
+1 - A realização de estudos, inquéritos e outros trabalhos de natureza excepcional e de carácter eventual poderá ser confiada, mediante contrato, a entidades nacionais ou estrangeiras.
+
+2 - O contrato referido no número anterior, que não confere em caso algum a qualidade de agente administrativo, será sempre reduzido a escrito e nele serão fixadas as condições de prestação e o prazo de duração.
+
+###### ARTIGO 15.º — (Comissões e grupos de trabalho)
+
+1 - Para estudo de problemas específicos poderão ser constituídas comissões ou grupos de trabalho, cujo mandato, composição e funcionamento serão estabelecidos em despacho ministerial, com audição prévia da Secretaria-Geral sempre que esta tenha de lhes prestar apoio técnico-administrativo.
+
+2 - Enquanto durar a prestação de serviço nas comissões ou grupos de trabalho referidos no número anterior, os funcionários e agentes manterão os direitos e regalias inerentes aos lugares de origem.
+
+###### ARTIGO 16.º — (Pessoal dirigente)
+
+1 - Aos lugares de director-geral, subdirector-geral, director de serviços, chefe de divisão e outros a eles equiparados é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+
+2 - Sem prejuízo do disposto no número anterior, os cargos de director de serviços e de chefe de divisão das Direcções-Gerais do Ensino Básico, do Ensino Secundário, do Ensino Particular e Cooperativo e da Educação de Adultos e do Instituto de Tecnologia Educativa poderão ainda ser providos de acordo com as seguintes regras:
+
+a) Director de serviços, de entre professores licenciados da 4.ª fase;
+
+b) Chefe de divisão, de entre professores licenciados da 4.ª ou da 3.ª fases.
+
+3 - Os restantes cargos dirigentes previstos no anexo I ao presente diploma serão providos de acordo com o disposto nas leis orgânicas dos respectivos serviços.
+
+###### ARTIGO 17.º — (Pessoal de chefia)
+
+1 - Os lugares de chefe de repartição serão providos de entre:
+
+a) Chefes de secção com o mínimo de 3 anos de bom e efectivo serviço na categoria:
+
+b) Indivíduos possuidores de curso superior e experiência adequados ao cargo a prover.
+
+2 - Os lugares de chefe de secção serão providos de entre:
+
+a) Primeiros-oficiais ou técnicos auxiliares principais com o mínimo de 3 anos de bom e efectivo serviço na categoria;
+
+b) Indivíduos habilitados com o curso superior adequado.
+
+3 - O disposto no número anterior é aplicável ao provimento do cargo de secretário do Conselho Nacional do Ensino Superior.
+
+###### ARTIGO 18.º — (Carreira técnica superior)
+
+1 - Os lugares de assessor e de técnico superior principal, de 1.ª classe e de 2.ª classe serão providos nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada ao lugar a prover.
+
+2 - O disposto no número anterior aplicar-se-á a outras carreiras de pessoal técnico superior, nomeadamente a engenheiros de qualquer especialidade, arquitectos e consultores jurídicos.
+
+###### ARTIGO 19.º — (Carreira de inspecção)
+
+1 - Os lugares de pessoal técnico de inspecção integram-se em duas carreiras distintas, a pedagógica e a administrativo-financeira, e serão providos de acordo com o estabelecido nas alíneas seguintes:
+
+a) Os lugares de inspector-coordenador-chefe serão providos por despacho do Ministro da Educação, por promoção dos inspector-coordenador-chefe com mais de 3 anos de efectivo serviço prestado na categoria, mediante apreciação curricular, que incluirá a discussão de trabalho apresentado para o efeito;
+
+b) Os lugares de inspector-coordenador serão providos por despacho do Ministro da Educação, por promoção dos inspectores principais, licenciados, com mais de 3 anos de efectivo serviço prestado na categoria, mediante apreciação curricular;
+
+c) Os lugares de inspector principal serão providos por despacho do Ministro da Educação, por promoção de inspectores principais-adjuntos com, pelo menos, 3 anos de efectivo serviço na categoria, mediante apreciação curricular;
+
+d) Os lugares de inspector principal-adjunto serão providos por despacho do Ministro da Educação de entre os professores profissionalizados dos ensinos preparatório ou secundário com, pelo menos, 3 anos de bom e efectivo serviço prestado, após a profissionalização ou por promoção de inspectores com, pelo menos, 3 anos de serviço efectivo na categoria, mediante apreciação curricular;
+
+e) Os lugares de inspector serão providos por despacho do Ministro da Educação de entre diplomados pelas escolas normais de educadores de infância ou do magistério primário com, pelo menos, 5 anos de serviço docente bem qualificado e que tenham obtido aprovação em curso específico a definir por portaria do Ministro da Educação ou por promoção dos inspectores-adjuntos com mais de 2 anos de bom e efectivo serviço prestado na categoria;
+
+f) Os lugares de inspector-adjunto serão providos por apreciação curricular de entre o pessoal que preste serviço no âmbito dos órgãos e serviços do Ministério da Educação com as categorias de chefe de secção ou de chefe de serviços administrativos de 1.ª classe e de 2.ª classe, desde que possuam, pelo menos, 5 anos de bom e efectivo serviço.
+
+2 - Os métodos de apreciação curricular, para efeitos de acesso, serão regulamentados por despacho conjunto dos Ministros da Educação e da Reforma Administrativa.
+
+3 - O número de lugares a prover nos termos das alíneas d) e e) do n.º 1, relativamente às diferentes áreas de recrutamento nelas estabelecidas será fixada por despacho do Ministro da Educação, a proferir em proposta fundamentada, a qual terá em consideração as necessidades de serviço.
+
+4 - Os lugares referidos na alínea e) poderão ainda ser providos por indivíduos portadores de curso superior adequado, através da frequência, com aproveitamento, de um curso específico a definir por portaria do Ministro da Educação.
+
+5 - O disposto no número anterior será estabelecido por despacho do Ministro da Educação a proferir em proposta fundamentada, a qual terá em consideração as necessidades dos serviços e a impossibilidade da sua satisfação através das regras de provimento estabelecidas na alínea e) do n.º 1.
+
+6 - Os lugares de inspector-adjunto destinam-se exclusivamente às actividades administrativas e financeiras da Inspecção-Geral de Ensino, bem como às actividades disciplinares, desde que estas apenas envolvam o pessoal administrativo e auxiliar.
+
+7 - O ingresso no curso referido na alínea e) do n.º 1 far-se-á mediante concurso público com aviso e regulamento a publicar no Diário da República.
+
+8 - Ao pessoal técnico de inspecção oriundo da função docente é aplicável o regime constante do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro, sem prejuízo do que se dispõe no presente diploma.
+
+###### ARTIGO 20.º — (Carreiras de pessoal de BAD)
+
+Os lugares das carreiras de pessoal das áreas de biblioteca, arquivo e documentação (BAD) serão providos nos termos do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+
+###### ARTIGO 21.º — (Carreiras de informática)
+
+Os lugares das carreiras de informática serão providos nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+
+###### ARTIGO 22.º — (Carreira técnica)
+
+1 - Os lugares de técnico principal e técnico de 1.ª classe serão providos de entre, respectivamente, os técnicos de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de técnico de 2.ª classe serão providos de entre indivíduos habilitados com curso superior, que não confira o grau de licenciatura, adequado ao lugar a prover.
+
+3 - O disposto nos números anteriores é aplicável às carreiras de engenheiro técnico, técnico de contabilidade e administração e técnico de serviço social.
+
+###### ARTIGO 23.º — (Carreira de adjunto técnico)
+
+1 - Os lugares de adjunto técnico principal e de adjunto técnico de 1.ª classe serão providos de entre, respectivamente, os adjuntos técnicos de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - A carreira a que se refere o presente artigo extinguir-se-á, da base para o topo, à medida que se processarem as respectivas promoções.
+
+###### ARTIGO 24.º — (Carreira de enfermagem)
+
+Os lugares da carreira de enfermagem serão providos nos termos do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
+
+###### ARTIGO 25.º — (Pessoal técnico auxiliar dos serviços complementares de diagnóstico e terapêutica)
+
+Os lugares da carreira de pessoal técnico auxiliar dos serviços complementares de diagnóstico e terapêutica serão providos nos termos do [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), de 30 de Dezembro, e legislação complementar.
+
+###### ARTIGO 26.º — (Educadores de infância e auxiliares de educação)
+
+Às carreiras de educador de infância e auxiliar de educação é aplicável o disposto no [Decreto-Lei n.º 485/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1980-462585), de 17 de Outubro, e no [Decreto n.º 77/82](https://diariodarepublica.pt/dr/detalhe/decreto/77-1982-395884), de 17 de Junho.
+
+###### ARTIGO 27.º — (Carreira de oficial administrativo)
+
+1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de terceiro-oficial serão providos nos termos previstos no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+
+###### ARTIGO 28.º — (Carreira de tesoureiro)
+
+1 - Os lugares de tesoureiro principal e de 1.ª classe serão providos, respectivamente, de entre tesoureiros de 1.ª classe e de 2.ª classe com, pelo menos, 5 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de tesoureiro de 2.ª classe serão providos de entre segundos-oficiais habilitados com o curso geral do ensino secundário ou equiparado ou técnicos auxiliares de 1.ª classe com, pelo menos, 3 anos na categoria.
+
+###### ARTIGO 29.º — (Carreira de tradutor-correspondente-intérprete)
+
+Os lugares de tradutor-correspondente-intérprete serão providos de entre indivíduos que possuam o curso geral do ensino secundário e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
+
+###### ARTIGO 30.º — (Primeiro-verificador)
+
+Os lugares de primeiro-verificador serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e o curso de indústria hoteleira ou equivalente e, pelo menos, 3 anos de prática neste sector e ainda de entre indivíduos possuidores de carteira profissional da indústria hoteleira, comprovada pelo sindicato respectivo, e com mais de 3 anos de prática no sector.
+
+###### ARTIGO 31.º — (Carreira de desenhador)
+
+1 - Os lugares de desenhador principal e de desenhador de 1.ª classe serão providos, respectivamente, de entre os desenhadores de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de desenhador de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado, sendo dada preferência aos que possuam experiência ou formação específica para as funções a que se destinam.
+
+###### ARTIGO 32.º — (Ecónomo)
+
+1 - Os lugares de ecónomo-chefe serão providos de entre os ecónomos de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+
+2 - O acesso à categoria de ecónomo de 1.ª classe far-se-á após a permanência de 5 anos na categoria anterior e classificação de serviço não inferior a Bom.
+
+3 - O lugar de ecónomo de 2.ª classe será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
+
+###### ARTIGO 33.º — (Carreira de operador de meios áudio-visuais)
+
+1 - Os lugares de operador de meios áudio-visuais principal e de 1.ª classe serão providos de entre, respectivamente, os operadores de meios áudio-visuais de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de operador de meios áudio-visuais de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e preparação profissional adequada.
+
+###### ARTIGO 34.º — (Carreira de secretário-recepcionista)
+
+1 - Os lugares de secretário-recepcionista principal e de 1.ª classe serão providos, respectivamente, de entre secretários-recepcionistas de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de secretário-recepcionista de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado com conhecimentos de técnicas de arquivo e prática de dactilografia.
+
+###### ARTIGO 35.º — (Carreira técnica auxiliar)
+
+1 - Os lugares de técnico auxiliar principal e de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
+
+###### ARTIGO 36.º — (Carreira técnica auxiliar de microfilmagem)
+
+1 - Os lugares de técnico auxiliar de microfilmagem principal e de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de microfilmagem de 1.ª classe e de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de técnico auxiliar de microfilmagem de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e especialização adequada, devidamente comprovada.
+
+###### ARTIGO 37.º — (Carreira de escriturário-dactilógrafo)
+
+O provimento nos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+
+###### ARTIGO 38.º — (Carreiras operárias)
+
+O provimento nas categorias das carreiras de operador de offset, canalizador, carpinteiro, dactilógrafo-compositor, electricista, encadernador, fotolitógrafo, litógrafo, mecânico de instrumentos de precisão, pedreiro, projeccionista e serralheiro civil é feito nos termos da [Portaria n.º 739/79](https://diariodarepublica.pt/dr/detalhe/portaria/739-1979-231330), de 31 de Dezembro.
+
+###### ARTIGO 39.º — (Carreira de auxiliar técnico administrativo)
+
+1 - Os lugares de auxiliar técnico administrativo principal e de 1.ª classe serão providos, respectivamente, de entre auxiliares técnicos administrativos de 1.ª classe e de 2.ª classe após a permanência de 5 anos na categoria e classificação de serviço não inferior a Bom.
+
+2 - Os lugares de auxiliar técnico administrativo de 2.ª classe serão providos de entre indivíduos habilitados com a escolaridade obrigatória e formação adequada.
+
+###### ARTIGO 40.º — (Carreira de cozinheiro)
+
+1 - Os lugares de cozinheiro-chefe serão providos de entre cozinheiros de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de cozinheiro de 1.ª classe serão providos de entre cozinheiros de 2.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+
+3 - Os lugares de cozinheiro de 2.ª classe serão providos de entre ajudantes de cozinheiro com, pelo menos, 4 anos de bom e efectivo serviço na categoria.
+
+4 - Os lugares de ajudante de cozinheiro serão providos de entre indivíduos habilitados com a escolaridade obrigatória.
+
+###### ARTIGO 41.º — (Pessoal auxiliar)
+
+1 - Os lugares de encarregado do pessoal auxiliar, bem como os de fiel de armazém, motorista, telefonista, operador de reprografia, contínuo, porteiro, monitor-vigilante, servente e auxiliar de limpeza, serão providos nos termos da lei geral.
+
+2 - As carreiras de fiel de armazém e operador de reprografia são, para efeitos de progressão, consideradas carreiras horizontais.
+
+###### ARTIGO 42.º — (Intercomunicabilidade de carreiras do mesmo nível)
+
+1 - A intercomunicabilidade de carreiras do mesmo nível obedecerá ao disposto na lei geral.
+
+2 - Sem prejuízo do disposto no n.º 1, poderão os lugares das carreiras técnica superior, à excepção do que se refere à categoria de assessor, e técnica ser providos de entre, respectivamente, docentes profissionalizados licenciados e docentes profissionalizados do escalão 5, integrados em fase a que corresponda a mesma letra de vencimento do lugar a prover ou a letra de vencimento imediatamente inferior, desde que tenham neste caso um mínimo de 3 anos na respectiva fase.
+
+3 - O provimento a que se refere o número anterior será feito, inicialmente, em comissão de serviço, nos termos do artigo 5.º
+
+4 - Os lugares a prover ao abrigo do disposto no n.º 2 não poderão exceder 10% do total de lugares de cada categoria.
+
+###### ARTIGO 43.º — (Intercomunicabilidade de carreiras de nível diverso da mesma área funcional)
+
+1 - A intercomunicabilidade de carreiras de nível diverso da mesma área funcional obedecerá ao disposto na lei geral.
+
+2 - Para efeitos do disposto no n.º 1 consideram-se desde já da mesma área funcional as seguintes carreiras:
+
+a) Engenheiro técnico e engenheiro, com idêntica especialização;
+
+b) Técnico de contabilidade e administração e técnico superior, neste caso com formação em Economia, Finanças e Organização e Gestão de Empresas;
+
+c) Técnico e técnico superior dentro da mesma área de formação;
+
+d) Operador de reprografia e operador de offset.
+
+3 - Os avisos de abertura de concurso especificarão, obrigatoriamente, as carreiras que se considera integrarem a mesma área funcional, nos termos do número anterior, bem como outras que possam vir a ser consideradas para efeitos do disposto no presente artigo.
+
+###### ARTIGO 44.º — (Exercício de outras actividades)
+
+O exercício pelo pessoal abrangido pelo presente diploma de quaisquer actividades, de natureza pública ou privada, alheias ao serviço, ainda que não remuneradas, carece de autorização do Ministro da Educação.
+
+###### ARTIGO 45.º — (Transição de pessoal)
+
+1 - Os funcionários dos organismos e serviços centrais transitam, sem prejuízo das habilitações estabelecidas, para os lugares constantes dos mapas anexos, de acordo com as seguintes regras:
+
+a) Para categoria idêntica à que o funcionário já possui;
+
+b) Para categoria correspondente às funções que o funcionário actualmente desempenha, remunerada pela mesma letra de vencimento ou por letra de vencimento imediatamente superior, quando não se verifique coincidência de remuneração.
+
+2 - O tempo de serviço prestado na carreira ou categoria de que o funcionário é titular conta, para efeitos de progressão na carreira, como prestado na nova categoria, desde que no exercício de funções correspondentes às da categoria para que se operou a transição.
+
+3 - O provimento dos lugares criados pelo presente diploma será feito, independentemente de quaisquer formalidades, à excepção do visto ou anotação do Tribunal de Contas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e de publicação no Diário da República.
+
+4 - Quando na transição referida no n.º 1 se verificar que em relação às categorias de ingresso existem funcionários em número superior ao dos respectivos lugares, aplicar-se-á o disposto no [Decreto-Lei n.º 27199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27199-1936-323371), de 16 de Novembro de 1936.
+
+###### ARTIGO 46.º — (Revogação)
+
+É revogada toda a legislação dos organismos e serviços centrais que disponha sobre a matéria contemplada no presente diploma.
+
+###### ARTIGO 47.º — (Dúvidas)
+
+As dúvidas resultantes da aplicação do presente diploma serão resolvidas, consoante a sua natureza, por despacho do Ministro da Educação ou conjunto com o Ministro da Reforma Administrativa.
+
+Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva - José Manuel Meneres Sampaio Pimentel - Alípio Barrosa Pereira Dias.
+
+Promulgado em 22 de Janeiro de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 25 de Janeiro de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
+
+Do ANEXO I ao ANEXO XXI
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03400/04050420.pdf)

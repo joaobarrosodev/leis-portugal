@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:952062796:por
+title: Declaração de Retificação n.º 1073/2025/2
+short_title: null
+summary: Retifica o Despacho n.º 12126/2025, publicado no Diário da República, 2.ª série, n.º 199, de 15 de outubro de 2025.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Defesa Nacional - Marinha - Gabinete do Chefe do Estado-Maior da Armada
+proposing_entity: null
+official_number: 1073/2025/2
+official_date: null
+publication_date: '2025-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/2025, Série II de 2025-11-25
+  number: '228'
+  series: II
+  supplement: null
+  pages: 82 - 82
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/11/228000000/0008200082.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '952062796'
+  dre_path: /dr/detalhe/declaracao-retificacao/1073-2025-952062796
+  internal: pt:dre:952062796:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1073-2025-952062796
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1073-2025-952062796
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:56:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d41c2ae5ba9e309cd74ca78bab28565d72b8a604951f0dcb28cc4427819c1925
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:56:41Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 1073/2025/2
+
+Para os devidos efeitos, observando o disposto no n.º 2 do artigo 11.º do [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 12126/2025, de 8 de outubro, do Almirante Chefe do Estado-Maior da Armada, publicado no Diário da República, 2.ª série, n.º 199, de 15 de outubro de 2025, referente à passagem à situação de reforma do 20280, Comodoro ECN Bento Manuel Domingues, saiu com uma inexatidão, que assim se retifica:
+
+Onde se lê:
+
+«Manda o Almirante Chefe do Estado-Maior da Armada, nos termos da alínea b) do n.º 1 do artigo 161.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado em anexo ao [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2015-67348942), de 29 de maio, passar à situação de reforma, em 30 de outubro de 2025, o 20280, Comodoro ECN Bento Manuel Domingues.»
+
+deve ler-se:
+
+«Manda o Almirante Chefe do Estado-Maior da Armada, nos termos da alínea b) do n.º 1 do artigo 161.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado em anexo ao [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2015-67348942), de 29 de maio, passar à situação de reforma, em 31 de outubro de 2025, o 20280, Comodoro ECN Bento Manuel Domingues.»
+
+14 de novembro de 2025. - O Almirante Chefe do Estado-Maior da Armada, Jorge Nobre de Sousa, Almirante.
+
+319783663

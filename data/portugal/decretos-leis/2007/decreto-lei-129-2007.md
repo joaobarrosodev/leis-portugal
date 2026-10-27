@@ -1,0 +1,331 @@
+---
+schema_version: '1.0'
+id: pt:dre:520980:por
+title: Decreto-Lei n.º 129/2007
+short_title: null
+summary: Aprova a orgânica do Instituto dos Registos e do Notariado, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 129/2007
+official_date: null
+publication_date: '2007-04-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/2007, Série I de 2007-04-27
+  number: '82'
+  series: I
+  supplement: null
+  pages: 2639 - 2641
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26392641.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/129/2007/04/27/p/dre/pt/html
+  oj: null
+  dre: '520980'
+  dre_path: /dr/detalhe/decreto-lei/129-2007-520980
+  internal: pt:dre:520980:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2007-520980
+  metadata_url: https://data.dre.pt/eli/dec-lei/129/2007/04/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2007-520980
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:56:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7a4870ee7bb58cdf66585883de43405ae3066ce1a9c899dabc9213dce6f2250b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Técnico
+- Conservatória do Registo Civil
+- Conservatória do Registo Comercial
+- Conservatória do Registo de Veículos
+- Conservatória do Registo Predial
+- Conservatória dos Registos Centrais
+- Definição de Competências
+- Direcção Geral dos Registos e do Notariado
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Instituto dos Registos e do Notariado
+- Instituto Público
+- Orgânica
+- Presidente
+- Regime de Pessoal
+- Registo Nacional de Pessoas Coletivas
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:179775:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:608757:por
+  label: "Alterado o art 3º pelo DEC LEI.122/2009.21.05.2009.MJ, DR.IS [98] de 21.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2009-608757
+  date: '2009-05-21'
+- type: cites
+  target: pt:dre:388183:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/87/2001/03/17/p/dre
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/2003/10/08/p/dre
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/206/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: repealed_by
+  target: pt:dre:179775:por
+  label: "Revogado o presente diploma, a partir de 01.08.2012, na redação do Dec Lei 122/2009, de 21-maio, pelo DEC LEI.148/2012.12.07.2012.MJ,\
+    \ DR.IS [134] de 12.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2012-179775
+  date: '2012-07-12'
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:56:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 129/2007
+
+de 27 de Abril
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de nacionalização estrutural consagrado no [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério da Justiça, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+A nova Lei Orgânica do Ministério da Justiça reestruturou a Direcção-Geral dos Registos e do Notariado (DGRN), integrando-a na administração indirecta do Estado sob a designação de Instituto dos Registos e do Notariado, I. P.
+
+A reestruturação referida foi justificada pela consideração da necessidade de conformação da actividade da DGRN com a evolução recente no que respeita à privatização do notariado, à eliminação e simplificação de actos e ao recurso intensivo às novas tecnologias de informação e comunicação, com a perspectiva de incentivar a geração de receitas próprias através da prestação de serviços a entidades públicas e privadas.
+
+O presente decreto-lei vem complementar o [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro, aprovando a orgânica do novo Instituto dos Registos e do Notariado, I. P., em concretização do disposto no artigo 30.º daquele decreto-lei.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 9.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto dos Registos e do Notariado, I. P., abreviadamente designado por IRN, I. P., é um instituto público integrado na administração indirecta do Estado, dotado de autonomia administrativa e património próprio.
+
+2 - O IRN, I. P., prossegue atribuições do Ministério da Justiça (MJ), sob superintendência e tutela do respectivo ministro.
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O IRN, I. P., é um organismo central com jurisdição sobre todo o território nacional, sem prejuízo do disposto no [Decreto-Lei n.º 247/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2003-482474), de 8 de Outubro, quanto à Região Autónoma da Madeira.
+
+2 - O IRN, I. P., tem sede em Lisboa.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - O IRN, I. P., tem por missão executar e acompanhar as políticas relativas aos serviços de registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação civil e do registo civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas colectivas, bem como assegurar a regulamentação, controlo e fiscalização da actividade notarial.
+
+2 - São atribuições do IRN, I. P.:
+
+a) Apoiar o membro do Governo responsável pela área da justiça na formulação e concretização das políticas relativas à identificação civil e aos registos civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas colectivas e na execução e acompanhamento das medidas delas decorrentes;
+
+b) Dirigir, coordenar, apoiar, avaliar e fiscalizar a actividade das conservatórias e proceder à uniformização de normas e técnicas relativas à actividade registral, assegurando o respectivo cumprimento;
+
+c) Participar na execução de estudos tendentes à reorganização e modernização dos serviços de registo e colaborar com o Instituto das Tecnologias de Informação na Justiça, I. P. (ITIJ, I. P.) na implementação, funcionamento e evolução dos respectivos sistemas de informação;
+
+d) Conceber, operacionalizar e executar projectos de modernização no sector dos registos, nas suas várias dimensões;
+
+e) Colaborar com a Direcção-Geral da Política de Justiça (DGPJ) na recolha, tratamento e difusão dos elementos de informação, nomeadamente de natureza estatística, relativos aos registos e ao notariado;
+
+f) Programar as necessidades de instalação dos serviços de registo e colaborar com o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.) no planeamento e na execução de obras de construção, remodelação ou conservação de instalações dos registos;
+
+g) Assegurar o fornecimento e a manutenção do equipamento dos serviços de registo, em articulação com o ITIJ, I. P., e com a estrutura do MJ responsável pelas aquisições;
+
+h) Coordenar a elaboração e a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos serviços de registo e processar as remunerações e outros abonos dos funcionários em exercício de funções nos serviços de registo;
+
+i) Fornecer bens e prestar serviços a departamentos do sector da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respectivas contrapartidas;
+
+j) Fiscalizar a actividade notarial e exercer a acção disciplinar sobre os notários nos termos previstos no respectivo diploma.
+
+###### Artigo 4.º — Órgãos
+
+1 - O IRN, I. P., é dirigido por um presidente, coadjuvado por três vice-presidentes, cargos de direcção superior de 1.º e de 2.º graus, respectivamente.
+
+2 - É ainda órgão do IRN, I. P., o conselho técnico.
+
+###### Artigo 5.º — Presidente
+
+1 - Compete ao presidente dirigir e orientar a acção dos órgãos e serviços do IRN, I. P., nos termos das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+2 - Os vice-presidentes exercem as competências que lhes sejam delegadas ou subdelegadas pelo presidente, devendo este identificar quem o substitui nas suas faltas e impedimentos.
+
+###### Artigo 6.º — Conselho técnico
+
+1 - O conselho técnico é um órgão consultivo de apoio ao presidente do IRN, I. P.
+
+2 - O conselho técnico compreende as seguintes secções:
+
+a) Identificação civil, registo civil e da nacionalidade;
+
+b) Registo predial;
+
+c) Registo comercial e de bens móveis.
+
+3 - O conselho técnico é composto pelo presidente do IRN, I. P., que preside, e por conservadores dos registos, em número não inferior a três por secção, designados pelo presidente.
+
+4 - Os vogais do conselho técnico exercem as suas funções em regime de exclusividade ou de acumulação, por um período de três anos.
+
+5 - O presidente do IRN, I. P., pode chamar a participar nas reuniões do conselho técnico, sem direito a voto, inspectores, conservadores ou especialistas de reconhecido mérito.
+
+6 - Compete ao conselho técnico:
+
+a) Pronunciar-se sobre os assuntos que lhe forem submetidos pelo membro do Governo responsável pela área da Justiça ou pelo presidente do IRN, I. P.;
+
+b) Emitir parecer sobre recursos hierárquicos.
+
+7 - O funcionamento do conselho técnico é regulado por regulamento interno.
+
+###### Artigo 7.º — Organização interna
+
+A organização interna do IRN, I. P., é a prevista nos respectivos estatutos.
+
+###### Artigo 8.º — Serviços centrais e serviços de registo
+
+1 - Para desenvolvimento das actividades inerentes aos seus objectivos e atribuições o IRN, I. P., está estruturado em serviços centrais, constituídos por unidades orgânicas permanentes e não permanentes, e em serviços de registo, regulados em diploma próprio.
+
+2 - Os serviços de registo compreendem serviços desconcentrados do IRN, I. P., e serviços centrais de registo.
+
+3 - São serviços desconcentrados do IRN, I. P.:
+
+a) As conservatórias do registo civil;
+
+b) As conservatórias do registo predial;
+
+c) As conservatórias do registo comercial;
+
+d) As conservatórias do registo de veículos;
+
+e) Os serviços de gestão de arquivos e documentos.
+
+4 - São serviços centrais de registo do IRN, I. P.:
+
+a) A Conservatória dos Registos Centrais;
+
+b) O Registo Nacional de Pessoas Colectivas.
+
+5 - O presidente do IRN, I. P., pode incumbir os serviços referidos no n.º 2 da realização e execução de projectos específicos no sector dos registos.
+
+###### Artigo 9.º — Estatuto do pessoal dirigente
+
+Aos dirigentes do IRN, I. P., é aplicável o regime definido na lei quadro dos institutos públicos e, subsidiariamente, o estatuto do pessoal dirigente da Administração Pública.
+
+###### Artigo 10.º — Regime de pessoal
+
+Ao pessoal do IRN, I. P., é aplicável o regime jurídico da função pública.
+
+###### Artigo 11.º — Receitas
+
+1 - O IRN, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - O IRN, I. P., dispõe das receitas provenientes das transferências do IGFIJ, I. P.
+
+3 - O IRN, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) O produto da prestação de serviços cuja receita seja atribuída, nos termos da lei, ao IRN, I. P.;
+
+b) O produto das coimas cobradas em procedimento contra-ordenacional, nos termos e percentagens previstos na lei;
+
+c) O produto da venda dos impressos próprios, de publicações e de material informativo;
+
+d) Os subsídios, subvenções, comparticipações, doações e legados, concedidos por entidades públicas e privadas, nacionais, estrangeiras ou internacionais;
+
+e) O rendimento dos bens que possua a qualquer título;
+
+f) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+4 - As receitas referidas nos n.os 2 e 3 são consignadas à realização de despesas do IRN, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+
+5 - Os serviços de registo entregam directamente ao IRN, I. P., as receitas próprias por eles cobradas.
+
+###### Artigo 12.º — Despesas
+
+Constituem despesas do IRN, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições.
+
+###### Artigo 13.º — Património
+
+O património do IRN, I. P., é constituído pela universalidade dos seus bens, direitos e obrigações.
+
+###### Artigo 14.º — Sucessão
+
+O IRN, I. P., sucede nas atribuições da Direcção-Geral dos Registos e do Notariado, mantendo-se o regime jurídico de função pública aplicável ao seu pessoal.
+
+Artigo15.º
+
+Regulamentos internos
+
+Os regulamentos internos do IRN, I. P., são remetidos aos membros do Governo responsáveis pelas áreas da justiça e das finanças, para aprovação nos termos da alínea a) do n.º 4 do artigo 41.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
+
+###### Artigo 16.º — Regras transitórias de competência
+
+Todas as competências atribuídas pela lei ao director-geral dos registos e do notariado passam a ser exercidas pelo presidente do IRN, I. P.
+
+###### Artigo 17.º — Procedimento transitório até à implementação do Plano Oficial de Contabilidade Pública
+
+1 - Enquanto não for implementado o Plano Oficial de Contabilidade Pública é aplicado o sistema de classificação orçamental da contabilidade pública em vigor.
+
+2 - Até à implementação do plano de contas a que se refere o número anterior, a liquidação e o processamento das remunerações do pessoal dos serviços de registo ficam a cargo desses serviços e o seu pagamento fica a cargo dos serviços centrais do IRN, I. P.
+
+###### Artigo 18.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 87/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2001-388183), de 17 de Março.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
+
+Promulgado em 4 de Abril de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 5 de Abril de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

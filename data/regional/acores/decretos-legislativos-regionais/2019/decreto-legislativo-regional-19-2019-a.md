@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:123725412:por
+title: Decreto Legislativo Regional n.º 19/2019/A
+short_title: null
+summary: Aprova o Programa de Eficiência Energética na Administração Pública
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 19/2019/A
+official_date: null
+publication_date: '2019-08-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/2019, Série I de 2019-08-06
+  number: '149'
+  series: I
+  supplement: null
+  pages: 37 - 39
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14900/0003700039.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/19/2019/08/06/a/dre/pt/html
+  oj: null
+  dre: '123725412'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/19-2019-123725412
+  internal: pt:dre:123725412:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2019-123725412
+  metadata_url: https://data.dre.pt/eli/declegreg/19/2019/08/06/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2019-123725412
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 11641fc2738ab37724c410d268600788f23f69e91afc7de166cdfcdc30a47be8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração Regional
+- Consumo de Energia
+- Definição de Competências
+- Edifício Público
+- Eficiência Energética
+- Gestor Local
+- Poupança de Energia
+- Serviço Público
+relationships:
+- type: cites
+  target: celex:32010L0031
+  label: null
+  source: http://data.europa.eu/eli/dir/2010/31/oj
+- type: cites
+  target: celex:32012L0027
+  label: null
+  source: http://data.europa.eu/eli/dir/2012/27/oj
+- type: cites
+  target: pt:dre:175295:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/67/2012/08/09/p/dre
+- type: cites
+  target: pt:dre:260463:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/20/2013/04/10/p/dre
+- type: cites
+  target: pt:dre:309308:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/114/2010/10/29/p/dre
+- type: cites
+  target: pt:dre:485640:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/2/2011/01/12/p/dre
+- type: cites
+  target: pt:dre:499237:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/118/2013/08/20/p/dre
+- type: cites
+  target: pt:dre:669284:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/2011/07/13/a/dre
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/68-a/2015/04/30/p/dre
+- type: cites
+  target: pt:dre:73399498:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/4/2016/02/02/a/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:22:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 19/2019/A
+
+Aprova o Programa de Eficiência Energética na Administração Pública
+
+A eficiência energética é essencial à prossecução dos objetivos e compromissos da Região Autónoma dos Açores para a descarbonização da economia, devendo o setor público desempenhar um papel exemplar na sua implementação, incentivando a economia de mercado, em especial das empresas de serviços energéticos, e otimizando a sua atuação, através do combate ao desperdício e ao uso ineficiente de recursos públicos.
+
+Considerando o quadro comum de medidas de eficiência energética da União Europeia, nomeadamente o papel exemplar dos organismos públicos, estabelecido pela [Diretiva 2012/27/UE](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012L0027) do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, e transposto para a ordem jurídica nacional pelo [Decreto-Lei n.º 68-A/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272), de 30 de abril;
+
+Considerando a importância da transparência na Administração Pública e o escrutínio do seu desempenho energético, nomeadamente através da implementação da [Resolução da Assembleia da República n.º 114/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/114-2010-309308), de 29 de outubro, que recomenda ao Governo a elaboração de legislação para a obrigatoriedade de divulgação da fatura energética da administração pública direta e indireta;
+
+Considerando o Sistema de Certificação Energética de Edifícios (SCE), estabelecido pela [Diretiva 2010/31/UE](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32010L0031) do Parlamento Europeu e do Conselho, de 19 de maio de 2010, transposta para a ordem jurídica nacional pelo [Decreto-Lei n.º 118/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2013-499237), de 20 de agosto, adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 4/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2016-73399498), de 2 de fevereiro, que estabelece os termos específicos de afixação do certificado SCE válido para as entidades públicas e o dever de pôr em prática as suas recomendações, bem como a necessidade dos novos edifícios apresentarem necessidades quase nulas de energia;
+
+Considerando que o Plano Nacional de Ação para a Eficiência Energética, aprovado pela [Resolução do Conselho de Ministros n.º 20/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/20-2013-260463), de 10 de abril, estabelece a estratégia nacional para a eficiência energética;
+
+Considerando que o Programa de Eficiência Energética na Administração Pública (ECO.AP) aprovado pela [Resolução do Conselho de Ministros n.º 2/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2011-485640), de 12 de janeiro, e concretizado pela [Resolução do Conselho de Ministros n.º 67/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/67-2012-175295), de 9 de agosto, visa alcançar um nível de eficiência energética de 30 % nos organismos e serviços da Administração Pública até 2020, através da melhoria da eficiência energética nos edifícios e equipamentos públicos, sem aumento da despesa pública e fomentando a atividade das empresas de serviços energéticos;
+
+Considerando a importância do gestor local de energia, devidamente habilitado, com acesso facilitado à informação e real conhecimento das condições existentes no local, como elemento fundamental à prossecução dos objetivos do presente diploma;
+
+Considerando a crescente importância de modelos inovadores de gestão energética que permitem às entidades públicas contratar economias de energia a empresas especialistas do setor, através de uma remuneração meritocrática que fomenta a economia de mercado;
+
+Considerando que as especificidades de cada entidade afetam o mérito das medidas de eficiência energética a adotar e que estas devem ser analisadas de acordo com indicadores de desempenho energético próprios;
+
+Considerando que a eficiência energética na iluminação das vias públicas, pela sua especificidade técnica e atual modelo de gestão, diverge da eficiência energética na Administração Pública, carecendo de legislação própria;
+
+Considerando, por isso, a atual descontextualização do [Decreto Legislativo Regional n.º 23/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2011-669284), de 13 de julho, uma vez que não se enquadra nas políticas e boas práticas hoje preconizadas, procede-se à respetiva revogação;
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º, da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma implementa na Região Autónoma dos Açores o Programa de Eficiência Energética na Administração Pública (ECO.AP Açores) com vista à melhoria progressiva da eficiência energética nos serviços e organismos da Administração Pública Regional.
+
+###### Artigo 2.º — Âmbito subjetivo
+
+Consideram-se abrangidos pelo presente diploma todos os serviços e organismos da Administração Pública Regional, bem como as empresas públicas regionais, as fundações públicas regionais e as associações públicas ou privadas regionais com capital maioritariamente público.
+
+###### Artigo 3.º — Gestor local de energia
+
+1 - As entidades abrangidas pelo ECO.AP Açores devem, no prazo de cento e vinte dias após a publicação do presente diploma, designar e promover a formação de um gestor local de energia, recurso humano com vínculo de emprego público, preferencialmente técnico superior, com acesso facilitado à informação e real conhecimento das condições existentes no local.
+
+2 - Compete ao gestor local de energia o seguinte:
+
+a) Fomentar a literacia, a adoção de boas práticas e o acompanhamento da legislação na área da energia;
+
+b) Verificar e atualizar a informação dos consumos de energia e das características da entidade numa plataforma eletrónica específica, de acordo com o definido no artigo seguinte;
+
+c) Propor a realização de auditorias energéticas, que devem indicar as medidas de eficiência energética a adotar e sua viabilidade económica, evidenciando o seu mérito técnico e económico;
+
+d) Propor medidas de eficiência energética, de acordo com uma classificação que evidencie o seu mérito técnico e económico, que permitam o cumprimento da política energética da Região;
+
+e) Implementar e dinamizar a adoção de medidas de eficiência energética e monitorizar os respetivos resultados;
+
+f) Elaborar relatórios energéticos anuais dos quais constem as despesas com consumos de eletricidade, gasóleo, gás, fuelóleo ou outra fonte de energia, associadas ao funcionamento do edifício, especificando o consumo em Quilowatts-hora, litro, quilogramas, metros cúbicos ou outra medida comummente utilizada e respetiva conversão em toneladas equivalentes de petróleo.
+
+###### Artigo 4.º — Publicação do desempenho energético
+
+As entidades abrangidas pelo ECO.AP Açores devem, através do seu gestor local de energia:
+
+a) Disponibilizar os consumos energéticos e relatórios energéticos anuais em plataforma eletrónica específica, a definir por portaria do membro do Governo Regional com competência em matéria de energia, que permita a divulgação do seu desempenho energético;
+
+b) Partilhar com a direção regional com competência em matéria de energia a informação, com os requisitos a definir por portaria do membro do Governo Regional com competência em matéria de energia, que contemple, nomeadamente, o seguinte:
+
+i) Entidade e área de atuação;
+
+ii) Localização e características técnicas de equipamentos e construção dos edifícios;
+
+iii) Funcionamento, particularmente horários de funcionamento e perfis de utilização;
+
+iv) Consumos energéticos;
+
+v) Medidas de eficiência energética implementadas e respetivos resultados;
+
+vi) Medidas de eficiência energética propostas e resultados esperados, bem como, o seu mérito técnico e económico.
+
+###### Artigo 5.º — Medidas de eficiência energética
+
+As entidades abrangidas pelo ECO.AP Açores devem adotar as medidas de eficiência energética referidas no ponto vi) da alínea b) do artigo anterior, de acordo com uma ordenação que evidencie o seu mérito técnico e económico, conforme definido pela portaria referida na alínea b) do artigo anterior, e de forma a cumprir com a política energética da Região.
+
+###### Artigo 6.º — Competência orgânica
+
+1 - Compete à direção regional com competência em matéria de energia acompanhar e promover a implementação do ECO.AP Açores e elaborar e divulgar um relatório anual que evidencie os resultados, a avaliação e a evolução do impacto global das medidas de eficiência energética adotadas na administração pública.
+
+2 - Para efeitos do disposto no número anterior, a direção regional com competência em matéria de energia é responsável:
+
+a) Pela formação dos gestores locais de energia, pela divulgação e sensibilização de possíveis medidas de eficiência energética a adotar;
+
+b) Pela definição da plataforma eletrónica referida na alínea a) do artigo 4.º e dos requisitos de informação identificados na alínea b) do artigo 4.º
+
+###### Artigo 7.º — Norma revogatória
+
+É revogado o [Decreto Legislativo Regional n.º 23/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2011-669284), de 13 de julho.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 2 de julho de 2019.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+Assinado em Angra do Heroísmo em 22 de julho de 2019.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+112464542

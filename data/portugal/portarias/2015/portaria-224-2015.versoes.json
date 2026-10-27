@@ -1,0 +1,1218 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:69879391:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-74448401",
+ "dre_path": "/dr/detalhe/portaria/224-2015-69879391",
+ "source_lastmod": "2026-07-14",
+ "versions": [
+  {
+   "date": "2015-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74450275",
+    "74450276",
+    "74450277",
+    "74450278",
+    "74450279",
+    "74450280",
+    "74450281",
+    "74450282",
+    "74450283",
+    "74450284",
+    "74450285",
+    "74450286",
+    "74450287",
+    "74450288",
+    "74450289",
+    "74450290",
+    "74450291",
+    "74450292",
+    "74450293",
+    "74450294",
+    "74450295",
+    "74450296",
+    "74450297",
+    "74450298",
+    "74450299",
+    "74450300",
+    "74450301",
+    "74450302",
+    "74450303",
+    "74450305",
+    "74450306",
+    "74450307"
+   ]
+  },
+  {
+   "date": "2015-12-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72812702:por",
+     "title": "Portaria n.º 417/2015",
+     "published": "2015-12-04",
+     "dre_path": "/dr/detalhe/portaria/417-2015-72812702"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "74450275",
+    "74450276",
+    "74450277",
+    "74450278",
+    "74450279",
+    "74450280",
+    "74450281",
+    "74450282",
+    "74450283",
+    "75667452",
+    "74450285",
+    "74450286",
+    "74450287",
+    "74450288",
+    "74450289",
+    "74450290",
+    "74450291",
+    "74450292",
+    "74450293",
+    "74450294",
+    "74450295",
+    "74450296",
+    "74450297",
+    "74450298",
+    "74450299",
+    "74450300",
+    "74450301",
+    "74450302",
+    "74450303",
+    "74450304",
+    "74450305",
+    "74450306",
+    "74450307"
+   ]
+  },
+  {
+   "date": "2016-05-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74443078:por",
+     "title": "Portaria n.º 138/2016",
+     "published": "2016-05-13",
+     "dre_path": "/dr/detalhe/portaria/138-2016-74443078"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "74450275",
+    "74450276",
+    "74450277",
+    "74450278",
+    "74450279",
+    "75667453",
+    "74450281",
+    "74450282",
+    "74450283",
+    "75667452",
+    "74450285",
+    "74450286",
+    "74450287",
+    "74450288",
+    "74450289",
+    "74450290",
+    "74450291",
+    "74450292",
+    "74450293",
+    "74450294",
+    "74450295",
+    "74450296",
+    "74450297",
+    "74450298",
+    "74450299",
+    "74450300",
+    "74450301",
+    "74450302",
+    "74450303",
+    "74450304",
+    "74450305",
+    "74450306",
+    "74450307"
+   ]
+  },
+  {
+   "date": "2016-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75660778:por",
+     "title": "Portaria n.º 284-A/2016",
+     "published": "2016-11-04",
+     "dre_path": "/dr/detalhe/portaria/284-a-2016-75660778"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "74450275",
+    "74450276",
+    "74450277",
+    "75670621",
+    "74450279",
+    "75670622",
+    "74450281",
+    "74450282",
+    "75670623",
+    "75670596",
+    "75670597",
+    "75670624",
+    "75670599",
+    "75670600",
+    "75670625",
+    "75670626",
+    "75670603",
+    "75670604",
+    "75670627",
+    "75670628",
+    "75670607",
+    "75670629",
+    "75670609",
+    "75670610",
+    "75670611",
+    "75670612",
+    "75670613",
+    "75670614",
+    "75670615",
+    "75670616",
+    "75670617",
+    "75670618",
+    "75670619",
+    "75670620"
+   ]
+  },
+  {
+   "date": "2019-10-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125781753:por",
+     "title": "Portaria n.º 390/2019",
+     "published": "2019-10-29",
+     "dre_path": "/dr/detalhe/portaria/390-2019-125781753"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "74450275",
+    "74450276",
+    "74450277",
+    "75670621",
+    "74450279",
+    "75670622",
+    "74450281",
+    "74450282",
+    "125781791",
+    "75670596",
+    "75670597",
+    "75670624",
+    "75670599",
+    "75670600",
+    "75670625",
+    "75670626",
+    "75670603",
+    "75670604",
+    "75670627",
+    "75670628",
+    "75670607",
+    "75670629",
+    "75670609",
+    "75670610",
+    "75670611",
+    "75670612",
+    "75670613",
+    "75670614",
+    "75670615",
+    "75670616",
+    "75670617",
+    "75670618",
+    "75670619",
+    "75670620"
+   ]
+  },
+  {
+   "date": "2023-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211241821:por",
+     "title": "Portaria n.º 97/2023",
+     "published": "2023-03-31",
+     "dre_path": "/dr/detalhe/portaria/97-2023-211241821"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "74450275",
+    "74450276",
+    "74450277",
+    "75670621",
+    "74450279",
+    "75670622",
+    "74450281",
+    "74450282",
+    "125781791",
+    "75670596",
+    "75670597",
+    "75670624",
+    "75670599",
+    "75670600",
+    "896269367",
+    "75670626",
+    "75670603",
+    "75670604",
+    "75670627",
+    "75670628",
+    "75670607",
+    "75670629",
+    "75670609",
+    "75670610",
+    "75670611",
+    "75670612",
+    "75670613",
+    "75670614",
+    "75670615",
+    "75670616",
+    "75670617",
+    "75670618",
+    "75670619",
+    "75670620"
+   ]
+  },
+  {
+   "date": "2023-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:219991258:por",
+     "title": "Portaria n.º 263/2023",
+     "published": "2023-08-17",
+     "dre_path": "/dr/detalhe/portaria/263-2023-219991258"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "74450275",
+    "74450276",
+    "74450277",
+    "75670621",
+    "74450279",
+    "896271591",
+    "74450281",
+    "74450282",
+    "125781791",
+    "75670596",
+    "75670597",
+    "75670624",
+    "75670599",
+    "75670600",
+    "896271592",
+    "896271597",
+    "896271598",
+    "896271599",
+    "896271600",
+    "896271601",
+    "896271602",
+    "896271603",
+    "896271604",
+    "896271605",
+    "896271606",
+    "896271607",
+    "896271608",
+    "896271609",
+    "896271610",
+    "896271611",
+    "896271612",
+    "896271613",
+    "896271614",
+    "896271615",
+    "896271616"
+   ]
+  },
+  {
+   "date": "2026-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1144096118:por",
+     "title": "Portaria n.º 286-B/2026/1",
+     "published": "2026-07-03",
+     "dre_path": "/dr/detalhe/portaria/286-b-2026-1144096118"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "74450275",
+    "74450276",
+    "74450277",
+    "75670621",
+    "74450279",
+    "896271591",
+    "1144637675",
+    "1144638275",
+    "125781791",
+    "75670596",
+    "75670597",
+    "75670624",
+    "75670599",
+    "75670600",
+    "896271592",
+    "896271597",
+    "896271598",
+    "1144637875",
+    "896271600",
+    "1144638075",
+    "896271602",
+    "896271603",
+    "896271604",
+    "896271605",
+    "896271606",
+    "896271607",
+    "896271608",
+    "896271609",
+    "896271610",
+    "896271611",
+    "896271612",
+    "896271613",
+    "896271614",
+    "896271615",
+    "896271616"
+   ]
+  }
+ ],
+ "fragments": {
+  "74450275": {
+   "fragment_id": "74448402",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 224/2015\n\nde 27 de julho\n\nNa sequência da Lei n.º 11/2012, de 8 de março, e no desenvolvimento do regime da prescrição eletrónica do medicamento, a Portaria n.º 137-A/2012, de 11 de maio, veio estabelecer um novo regime jurídico a que obedecem as regras de prescrição de medicamentos, os modelos de receita médica e as condições de dispensa de medicamentos, bem como definir as obrigações de informação a prestar aos utentes.\n\nParalelamente, e no âmbito das prioridades definidas pelo Ministério da Saúde de privilegiar a utilização de meios eletrónicos para suporte aos processos de prescrição, dispensa e faturação de todo o tipo de medicamentos bem como o de produtos de saúde, foram realizados projetos-piloto com o objetivo de testar em ambiente real as ferramentas que visam suportar os processos de desmaterialização do processo de prescrição, encontrando-se neste momento reunidas as condições operacionais necessárias que permitem proceder à generalização deste novo modelo de desmaterialização.\n\nFruto da experiência de implementação de forma a viabilizar a completa desmaterialização do circuito de prescrição, dispensa em farmácia comunitária e conferência de medicamentos, importa assim adaptar o processo de prescrição, dispensa e faturação numa ótica desmaterializada, para que de forma progressiva possa eliminar-se os procedimentos que pressupõem o suporte de papel da receita.\n\nNeste contexto e pese embora se pretenda apenas introduzir no regime previsto na Portaria n.º 137-A/2012, de 11 de maio, a prescrição eletrónica com desmaterialização da receita, optou-se por proceder à aprovação de uma nova portaria que consolida o alargamento e adaptação das regras do procedimento de prescrição de medicamentos, os modelos de receita médica e as condições de dispensa de medicamentos atualmente em vigor para a prescrição eletrónica com materialização de receita e prescrição manual, à prescrição eletrónica com desmaterialização de receita vulgarmente designada receita sem papel.\n\nDentro deste novo modelo de prescrição eletrónica com desmaterialização da receita o conceito de receita é alargado, permitindo a prescrição simultânea de tipologias de medicamentos cuja coexistência na mesma receita não era anteriormente admitida.\n\nO processo de emissão, transmissão e conservação de receitas desmaterializadas, deve garantir a autenticidade da sua origem, a integridade do seu conteúdo, a confidencialidade e a privacidade da informação.\n\nCada medicamento prescrito corresponde a uma linha de prescrição, que, entre outros elementos, é caracterizada pelo tipo de medicamento prescrito e respetiva validade.\n\nForam ouvidas a Comissão Nacional de Proteção de Dados, a Ordem dos Farmacêuticos, a Ordem dos Médicos, a Ordem dos Médicos Dentistas, a Associação de Farmácias de Portugal e a Associação Nacional das Farmácias.\n\nAssim:\n\nManda o Governo, através do Secretário de Estado da Saúde, ao abrigo do disposto no artigo 7.º do Decreto-Lei n.º 106-A/2010, de 1 de outubro, no n.º 4 do artigo 120.º do Decreto-Lei n.º 176/2006, de 30 de agosto, com a redação dada pela Lei n.º 11/2012, de 8 de março, e no artigo 30.º-A do Decreto Regulamentar n.º 61/94, de 12 de outubro, aditado pelo Decreto Regulamentar n.º 28/2009, de 12 de outubro, o seguinte:"
+  },
+  "74450276": {
+   "fragment_id": "74448403",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime jurídico a que obedecem as regras de prescrição e dispensa de medicamentos e produtos de saúde e define as obrigações de informação a prestar aos utentes."
+  },
+  "74450277": {
+   "fragment_id": "74448404",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente portaria aplica-se a todos os medicamentos de uso humano, incluindo medicamentos manipulados e medicamentos contendo estupefacientes ou substâncias psicotrópicas, independentemente do seu local de prescrição.\n\n2 - A presente portaria aplica-se ainda, com as necessárias adaptações, a outras tecnologias de saúde comparticipadas pelo Estado."
+  },
+  "74450278": {
+   "fragment_id": "74448405",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto na presente portaria, entende-se por:\n\n1) «Prescrição por via eletrónica» a prescrição de medicamentos resultante da utilização de soluções ou equipamentos informáticos;\n\n2) «Prescrição por via manual» a prescrição de medicamentos efetuada em documento pré-impresso;\n\n3) «Materialização» a impressão da receita médica resultante da prescrição efetuada por meios eletrónicos.\n\n4) «Desmaterialização» a prescrição por via eletrónica, de receita sem papel, acessível e interpretável por meio de equipamento eletrónico e que inclui atributos que comprovam a sua autoria e integridade;\n\n5) «Código de acesso e dispensa» código gerado pelo sistema central, comunicado ao software de prescrição a utilizar apenas pelo utente para acesso à prescrição no momento de dispensa, e para validação da dispensa;\n\n6) «Código matriz» código gerado pelo sistema central, que permite à farmácia aceder à prescrição, bem como verificar a autenticidade e integridade da receita, em modo offline;\n\n7) «Código do direito de opção» código gerado pelo sistema central, comunicado ao software de prescrição, a utilizar apenas pelo utente no momento de dispensa, quando exerce o direito de opção por linha de prescrição;\n\n8) «Linha de prescrição» é o item de prescrição que, quando aplicável, tem uma correspondência unívoca com um Código Nacional para a Prescrição Eletrónica de Medicamentos (CNPEM), ou um número de registo de um medicamento ou outro código oficial identificador do produto prescrito.\n\n9) «Tipo de linha» corresponde ao tipo de produto constante em cada linha de prescrição."
+  },
+  "74450279": {
+   "fragment_id": "74448406",
+   "type": 11,
+   "heading": "Artigo 4.º — Modelos de receita médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modelos de receita médica\n\nOs modelos de materialização e pré-impresso da receita médica resultante da prescrição por via eletrónica e manual são aprovados por despacho do membro do Governo responsável pela área da saúde."
+  },
+  "74450280": {
+   "fragment_id": "74448407",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regras de prescrição\n\n1 - A prescrição de medicamentos efetua-se mediante receita médica, devendo obedecer às disposições legais em vigor e, quando aplicável, atender ao Formulário Nacional de Medicamentos e às normas de orientação clínica emitidas pela Direção-Geral da Saúde, em articulação com a Ordem dos Médicos e a Ordem dos Médicos Dentistas.\n\n2 - A prescrição de um medicamento inclui obrigatoriamente a respetiva denominação comum internacional (DCI) da substância ativa, a forma farmacêutica, a dosagem, a apresentação, a quantidade e a posologia.\n\n3 - A prescrição de medicamentos é feita por via eletrónica, sem prejuízo de, excecionalmente e nos casos previstos no artigo 8.º da presente portaria, poder ser feita por via manual.\n\n4 - Salvo o disposto nos n.os 5 a 8, em cada receita médica, podem ser prescritos:\n\na) No caso de receita materializada ou por via manual, até quatro medicamentos ou produtos de saúde distintos, em receitas distintas não podendo, em caso algum, o número total de embalagens prescritas ultrapassar o limite de duas por medicamento ou produto, nem o total de quatro embalagens;\n\nb) No caso de receita desmaterializada, mas em linhas de prescrição distintas, produtos de saúde e medicamentos distintos, sendo que cada linha de prescrição só pode incluir um produto de saúde ou um medicamento, até um máximo de duas embalagens de cada.\n\n5 - Excetua-se do disposto no número anterior a prescrição de medicamentos para dispensa ao público em quantidade individualizada, sujeita a regulamentação própria.\n\n6 - Podem ser prescritas numa receita até quatro embalagens do mesmo medicamento no caso de os medicamentos prescritos se apresentarem sob a forma de embalagem unitária, entendendo-se como tal aquela que contém uma unidade de forma farmacêutica na dosagem média usual para uma administração.\n\n7 - A prescrição de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica, compreendida nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, não pode constar de receita materializada ou por via manual, onde sejam prescritos outros medicamentos ou produtos de saúde.\n\n8 - Os medicamentos a que se refere a tabela n.º 2 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, na sua redação atual, podem:\n\na) No caso de receita materializada, ser prescritos em receita eletrónica renovável, sem prejuízo das adaptações e especificações que venham a justificar-se, a aprovar por despacho do membro do Governo responsável pela área da saúde;\n\nb) No caso de receita desmaterializada, coexistir com outros medicamentos, com um limite máximo de seis embalagens por receita.\n\n9 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. e o INFARMED Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., devem disponibilizar ao prescritor informação relativa a interações medicamentosas, por meios eletrónicos."
+  },
+  "74450281": {
+   "fragment_id": "74448408",
+   "type": 11,
+   "heading": "Artigo 6.º — Prescrição de medicamentos comparticipados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prescrição de medicamentos comparticipados\n\n1 - À prescrição de medicamentos comparticipados aplicam-se as regras previstas no artigo anterior e as definidas nos números seguintes.\n\n2 - A prescrição pode, excecionalmente, incluir a denominação comercial do medicamento, por marca ou indicação do nome do titular da autorização de introdução no mercado, nas situações de:\n\na) Prescrição de medicamento com substância ativa para a qual não exista medicamento genérico comparticipado ou para a qual só exista original de marca e licenças;\n\nb) Justificação técnica do prescritor quanto à insuscetibilidade de substituição do medicamento prescrito.\n\n3 - Para efeitos do disposto no número anterior, são apenas admissíveis justificações técnicas nos seguintes casos:\n\na) Prescrição de medicamento com margem ou índice terapêutico estreito, conforme informação prestada pelo INFARMED, I. P.;\n\nb) Fundada suspeita, previamente reportada ao INFARMED, I. P., de intolerância ou reação adversa a um medicamento com a mesma substância ativa, mas identificado por outra denominação comercial;\n\nc) Prescrição de medicamento destinado a assegurar a continuidade de um tratamento com duração estimada superior a 28 dias.\n\n4 - As exceções previstas no número anterior são assinaladas pelo prescritor em local próprio da receita e incluem obrigatoriamente ainda as seguintes menções:\n\na) «Reação adversa prévia» em relação à alínea b) do número anterior;\n\nb) «Continuidade de tratamento superior a 28 dias» em relação à alínea c) do número anterior.\n\n5 - Considera-se não verificada a exceção prevista na alínea b) do n.º 2 nas seguintes situações:\n\na) A prescrição de medicamentos ao abrigo da alínea a) do n.º 3 não conforme com a informação disponibilizada pelo INFARMED, I. P.;\n\nb) A omissão da informação prevista no n.º 4.\n\n6 - A prescrição de medicamentos nos termos das alíneas b) e c) do n.º 3 deve ainda ser adequadamente registada, nomeadamente no processo clínico do doente, para efeitos de monitorização e controlo.\n\n7 - Para efeitos da monitorização e controlo da prescrição de medicamentos a SPMS, E. P. E. envia, em formato digital, às Comissões de Farmácia e Terapêutica Regionais a informação anonimizada, relativa às prescrições previstas no n.º 3.\n\n8 - Sempre que a prescrição se destine a um pensionista abrangido pelo regime especial de comparticipação, deve constar na receita a sigla «R» junto dos dados do utente.\n\n9 - Sempre que a prescrição se destine a um utente abrangido por um regime especial de comparticipação de medicamentos em função de patologia, deve constar na receita a sigla «O» junto dos dados do utente, sendo ainda obrigatória, no campo da receita relativo à designação do medicamento, a menção ao despacho que consagra o respetivo regime."
+  },
+  "74450282": {
+   "fragment_id": "74448409",
+   "type": 11,
+   "heading": "Artigo 7.º — Prescrição de medicamentos não comparticipados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prescrição de medicamentos não comparticipados\n\n1 - À prescrição de medicamentos não comparticipados aplicam-se as regras previstas no artigo 5.º e as definidas nos números seguintes.\n\n2 - A prescrição de medicamentos não comparticipados pode incluir a denominação comercial do medicamento, por marca ou indicação do nome do titular da autorização de introdução no mercado.\n\n3 - Para os efeitos do disposto no n.º 3 do artigo 120.º do Decreto-Lei n.º 176/2006, de 30 de agosto, na redação dada pela Lei n.º 11/2012, de 8 de março, o prescritor indica na receita, as justificações técnicas que impedem o direito de opção do doente em relação ao medicamento prescrito nos seguintes casos:\n\na) Prescrição de medicamento com margem ou índice terapêutico estreito, de acordo com informação prestada pelo INFARMED, I. P.;\n\nb) Fundada suspeita, previamente reportada ao INFARMED, I. P., de intolerância ou reação adversa a um medicamento com a mesma substância ativa, mas identificado por outra denominação comercial;\n\nc) Prescrição de medicamento destinado a assegurar a continuidade de um tratamento com duração estimada superior a 28 dias.\n\n4 - As justificações referidas no número anterior são assinaladas pelo prescritor em local próprio da receita e incluem obrigatoriamente ainda as seguintes menções:\n\na) «Reação adversa prévia» em relação à alínea b) do número anterior;\n\nb) «Continuidade de tratamento superior a 28 dias» em relação à alínea c) do número anterior."
+  },
+  "74450283": {
+   "fragment_id": "74448410",
+   "type": 11,
+   "heading": "Artigo 8.º — Prescrição excecional por via manual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prescrição excecional por via manual\n\n1 - A prescrição de medicamentos pode, excecionalmente, realizar-se por via manual nas seguintes situações:\n\na) Falência do sistema informático;\n\nb) Inadaptação fundamentada do prescritor, previamente confirmada e validada anualmente pela respetiva Ordem profissional;\n\nc) Prescrição ao domicílio;\n\nd) Outras situações até um máximo de 40 receitas médicas por mês.\n\n2 - A exceção prevista na alínea c) do número anterior não é aplicável a locais de prescrição em lares de idosos.\n\n3 - Para efeitos do n.º 1, o prescritor deve assinalar, em local próprio da receita médica, a alínea aplicável.\n\n4 - A Ordem profissional do prescritor será notificada das irregularidades de prescrição sempre que sejam detetadas prescrições por via manual realizadas ao abrigo da alínea b) do n.º 1 sem a confirmação ali prevista.\n\n5 - A não verificação da situação de exceção não constitui motivo de recusa de pagamento da comparticipação do Estado à farmácia.\n\n> Nota: [Artigo 3.º, Portaria n.º 390/2019 - Diário da República n.º 208/2019, Série I de 2019-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/390-2019-125781753) A alteração introduzida pela presente portaria só é aplicável, aos prescritores que se encontrem devidamente referenciados pelas respetivas Ordens Profissionais como inadaptados aos sistemas de informação e prescrição eletrónica, a partir de 31 de março de 2020."
+  },
+  "74450284": {
+   "fragment_id": "74448411",
+   "type": 11,
+   "heading": "Artigo 9.º — Validação da prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Validação da prescrição\n\n1 - Sem prejuízo do disposto nos números seguintes, a receita só é válida se incluir os seguintes elementos:\n\na) Número da receita;\n\nb) Local de prescrição ou respetivo código;\n\nc) Identificação do médico prescritor, incluindo o número de cédula profissional e, se for o caso, a especialidade;\n\nd) Nome e número de utente;\n\ne) Entidade financeira responsável e número de beneficiário, acordo internacional e sigla do país, quando aplicável;\n\nf) Se aplicável, referência ao regime especial de comparticipação de medicamentos, nos termos previstos nos n.os 8 e 9 do artigo 6.º;\n\n2 - No caso de receita materializada, além do disposto no número anterior, a sua validade depende ainda da inclusão dos elementos seguintes:\n\na) Denominação comum internacional da substância ativa;\n\nb) Dosagem, forma farmacêutica, dimensão da embalagem, número de embalagens;\n\nc) Se aplicável, denominação comercial do medicamento;\n\nd) Se e consoante aplicável a informação nos termos previstos do n.º 4 do artigo 6.º ou n.º 4 do artigo 7.º;\n\ne) Código nacional de prescrição eletrónica de medicamentos (CNPEM) ou outro código oficial identificador do produto, se aplicável;\n\nf) Data de prescrição;\n\ng) Assinatura autógrafa do prescritor.\n\n3 - No caso de receita desmaterializada, além do disposto no n.º 1, a sua validade depende ainda da inclusão dos elementos seguintes:\n\na) Hora da prescrição;\n\nb) As linhas de prescrição, que incluem:\n\ni) Menção do tipo de linha;\n\nii) Número da linha, identificada univocamente e constituída pelo número da prescrição e pelo número de ordem da linha de prescrição;\n\niii) Tipo de medicamento ou produto de saúde prescrito;\n\niv) Data do termo da vigência da linha de prescrição;\n\nv) Os elementos previstos nas alíneas a) a f) do número anterior.\n\n4 - Por opção do utente, a receita desmaterializada pode incluir o seu número de contacto telefónico móvel, para efeitos de comunicação do código de dispensa e dos direitos de opção."
+  },
+  "74450285": {
+   "fragment_id": "74448412",
+   "type": 11,
+   "heading": "Artigo 10.º — Autenticação eletrónica do prescritor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autenticação eletrónica do prescritor\n\nA prescrição desmaterializada é obrigatoriamente realizada mediante autenticação forte, através de um certificado digital qualificado, que garanta a identidade e qualidade do prescritor, ou chave móvel digital."
+  },
+  "74450286": {
+   "fragment_id": "74448413",
+   "type": 11,
+   "heading": "Artigo 11.º — Vinhetas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vinhetas\n\n1 - A prescrição de medicamentos por via manual implica a aposição na receita médica de vinheta identificativa do prescritor, conforme modelo constante do anexo II da presente portaria, da qual faz parte integrante.\n\n2 - A prescrição de medicamentos por via manual no âmbito das instituições do Serviço Nacional de Saúde e instituições com acordos, convenções ou protocolos celebrados com as administrações regionais de saúde, implica também a aposição de vinheta identificativa do local de prescrição, conforme modelo constante do n.º 1 do anexo III da presente portaria, da qual faz parte integrante.\n\n3 - Sempre que a prescrição referida no número anterior seja dirigida a um pensionista abrangido pelo regime especial de comparticipação, a identificação a que se refere o número anterior é efetuada através de vinheta de cor verde conforme modelo constante do n.º 2 do anexo III da presente portaria, da qual faz parte integrante.\n\n4 - São aprovados as especificações e os modelos de vinheta de identificação do prescritor e do local de prescrição, que constam dos anexos I a III da presente portaria, da qual fazem parte integrante.\n\n5 - Os modelos de vinhetas são de edição exclusiva da Imprensa Nacional-Casa da Moeda, S. A.\n\n6 - Cabe à Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), em articulação com as administrações regionais de saúde e Ordens profissionais dos prescritores, assegurar a gestão do processo de emissão de vinhetas."
+  },
+  "74450287": {
+   "fragment_id": "74448414",
+   "type": 11,
+   "heading": "Artigo 12.º — Validação da prescrição por via manual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Validação da prescrição por via manual\n\n1 - A receita manual só é válida se incluir os seguintes elementos:\n\na) Se aplicável, vinheta identificativa do local de prescrição;\n\nb) Vinheta identificativa do médico prescritor;\n\nc) Identificação da especialidade médica, se aplicável, e contacto telefónico do prescritor;\n\nd) Identificação da exceção nos termos do n.º 1 do artigo 8.º;\n\ne) Os elementos previstos nas alíneas d) a f) do n.º 1 e nas alíneas a) a d) e g) do n.º 2 do artigo 9.º\n\n2 - Não é admitida mais do que uma via da receita manual."
+  },
+  "74450288": {
+   "fragment_id": "74448415",
+   "type": 11,
+   "heading": "Artigo 13.º — Vigência da prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vigência da prescrição\n\n1 - As receitas materializada e manual, bem como cada linha de prescrição da receita desmaterializada, vigoram, em regra, por 30 dias, sem prejuízo do disposto nos números seguintes.\n\n2 - A receita materializada pode ser renovável, contendo até três vias, com a indicação «1.ª via», «2.ª via» ou «3.ª via», que vigoram por seis meses.\n\n3 - Cada linha da receita desmaterializada vigora por seis meses, no caso dos medicamentos a que se refere a alínea b) do n.º 8 do artigo 5.º\n\n4 - Os prazos de vigência previstos nos números anteriores contam-se da data da respetiva prescrição."
+  },
+  "74450289": {
+   "fragment_id": "74448416",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação ao utente no momento da prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação ao utente no momento da prescrição\n\n1 - Sem prejuízo do disposto nos números seguintes, no momento da prescrição por via eletrónica é disponibilizada ao utente o guia de tratamento.\n\n2 - O guia de tratamento é um documento pessoal e intransmissível.\n\n3 - O prescritor deve informar o utente que o guia de tratamento lhe é destinado, pelo que não deve ser deixado na farmácia.\n\n4 - O guia de tratamento, para além dos elementos constantes do n.º 2 do artigo 5.º, contém informação sobre os preços de medicamentos comercializados que cumpram os critérios da prescrição.\n\n5 - No caso da receita desmaterializada, o guia de tratamento contém, para além da informação referida no número anterior, o número da prescrição, o código matriz, o código de acesso e dispensa e o código do direito de opção.\n\n6 - Os modelos de guia de tratamento são aprovados por despacho do membro do governo responsável pela área da saúde.\n\n7 - Nos casos de receita desmaterializada, o guia de tratamento e os códigos previstos no n.º 5 podem ser remetidos, no momento da prescrição, para o endereço de correio eletrónico do utente ou por SMS, mantendo-se a possibilidade de, a pedido do utente, serem fornecidos em suporte papel."
+  },
+  "74450290": {
+   "fragment_id": "74448417",
+   "type": 11,
+   "heading": "Artigo 15.º — Opção do utente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Opção do utente\n\n1 - O utente tem direito de escolha de entre os medicamentos que cumpram a prescrição médica, exceto:\n\na) Nas situações previstas pelas alíneas a) e b) do n.º 3 do artigo 6.º e pelas alíneas a) e b) do n.º 3 do artigo 7.º;\n\nb) Em medicamentos comparticipados, na situação em que o medicamento prescrito contém uma substância ativa para a qual não exista medicamento genérico comparticipado ou para a qual só exista original de marca e licenças.\n\n2 - Nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º, o direito de opção do utente está limitado a medicamentos com preço inferior ao do medicamento prescrito.\n\n3 - O exercício, ou não, do direito de opção do utente, nos termos permitidos pela lei, é, consoante o caso, demonstrado através da respetiva assinatura, ou de quem o represente, em local próprio da receita médica, ou mediante a utilização do código do direito de opção, no momento da dispensa."
+  },
+  "74450291": {
+   "fragment_id": "74448418",
+   "type": 11,
+   "heading": "Artigo 16.º — Acesso à prescrição para efeitos de dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acesso à prescrição para efeitos de dispensa\n\n1 - A farmácia acede à prescrição do utente mediante a apresentação por este, ou pelo seu representante, do cartão do cidadão ou do número da prescrição, e do código de acesso e dispensa constante do guia de tratamento.\n\n2 - É vedado à farmácia o acesso à prescrição de modos diversos dos previstos no número anterior."
+  },
+  "74450292": {
+   "fragment_id": "74448419",
+   "type": 11,
+   "heading": "Artigo 17.º — Dispensa em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Dispensa em geral\n\n1 - No momento de dispensa, o farmacêutico, ou seu colaborador devidamente habilitado, deve informar o doente sobre o medicamento comercializado que, cumprindo a prescrição, apresente o preço mais baixo.\n\n2 - As farmácias devem ter disponíveis para venda, no mínimo, três medicamentos com a mesma substância ativa, forma farmacêutica e dosagem, de entre os que correspondam aos cinco preços mais baixos de cada grupo homogéneo.\n\n3 - As farmácias devem dispensar o medicamento de menor preço de entre os referidos no número anterior, salvo se for outra a opção do utente.\n\n4 - Nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º é vedada às farmácias a dispensa de medicamento com preço superior ao do medicamento prescrito."
+  },
+  "74450293": {
+   "fragment_id": "74448420",
+   "type": 11,
+   "heading": "Artigo 18.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Procedimento\n\n1 - No ato de dispensa de medicamentos prescritos em receita materializada ou em via manual, o farmacêutico, ou quem o coadjuve, deve datar, assinar e carimbar a receita médica, devendo ser impressos informaticamente os respetivos códigos identificadores, sem prejuízo de outras exigências aplicáveis, como é o caso da assinatura do utente.\n\n2 - No ato de dispensa de medicamentos prescritos em receita desmaterializada, independentemente da forma de acesso à prescrição, a farmácia apenas pode efetivar a dispensa após indicação, pelo utente, do respetivo código de acesso e dispensa.\n\n3 - Caso o utente, ou seu representante, no caso do número anterior, exerça o direito de opção relativamente a alguma das linhas de prescrição, deve indicar o respetivo código do direito de opção.\n\n4 - Se se tratar de uma receita manual, o utente ou o seu representante, deve assinar o verso da receita de forma legível para comprovar a dispensa efetuada, salvo se não souber ou não puder assinar, caso em que o farmacêutico consigna essa menção na receita.\n\n5 - Os dados do cartão de cidadão, bem como os códigos de acesso e dispensa e de direito de opção inseridos pelo utente não podem ser utilizados para finalidades diferentes das previstas no presente diploma, nem podem ser arquivados pelo sistema da farmácia.\n\n6 - O utente pode adquirir medicamentos ou produtos prescritos em diferentes linhas de prescrição da mesma receita desmaterializada em farmácias diferentes ou em momentos diferentes, exceto em situações de falência do sistema em que aplica o disposto no artigo 23.º"
+  },
+  "74450294": {
+   "fragment_id": "74448421",
+   "type": 11,
+   "heading": "Artigo 19.º — Dispensa de substâncias estupefacientes ou psicotrópicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dispensa de substâncias estupefacientes ou psicotrópicas\n\n1 - No ato de dispensa de medicamentos contendo substâncias classificadas como estupefacientes ou psicotrópicas, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, a farmácia procede ao registo informático da seguinte informação:\n\na) Identidade do utente ou do seu representante, nomeadamente o nome, data de nascimento, número e data do bilhete de identidade ou da carta de condução, ou o nome e número do cartão de cidadão, ou, no caso de estrangeiros, do passaporte;\n\nb) Identificação da prescrição através do número de prescrição;\n\nc) Identificação da farmácia, nomeadamente o nome e número de conferência de faturas;\n\nd) Identificação do medicamento, nomeadamente o número de registo e a quantidade dispensada;\n\ne) Data de dispensa.\n\n2 - Se a aquisição for efetuada pelo utente e no caso de dispensa de medicamentos prescritos por via eletrónica, o farmacêutico solicita ao utente a introdução do cartão de cidadão no dispositivo apropriado, bem como a autorização para acesso, exclusivo ao nome, número de identificação e data de nascimento, bem como para arquivo e comunicação desses dados, nos termos da presente portaria.\n\n3 - Se se tratar de uma receita manual ou materializada, o utente ou o seu representante deve assinar o verso da receita de forma legível para comprovar a dispensa efetuada, salvo se não souber ou não puder assinar, caso em que o farmacêutico consigna essa menção na receita."
+  },
+  "74450295": {
+   "fragment_id": "74448422",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo do receituário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Controlo do receituário\n\n1 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., disponibiliza ao INFARMED, I. P., o acesso aos dados de prescrição e de dispensa das prescrições por via eletrónica que incluam medicamentos dispensados contendo uma substância classificada como estupefaciente ou psicotrópica, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro.\n\n2 - Para os casos previstos no n.º 1 do artigo 8.º, as farmácias e os serviços de saúde públicos e privados enviam ao INFARMED, I. P., até ao dia 8 do mês seguinte àquele a que respeite, fotocópia da receita manual com medicamentos dispensados contendo uma substância classificada como estupefaciente ou psicotrópica, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro.\n\n3 - As farmácias conservam em arquivo adequado, pelo período de três anos, uma reprodução em papel ou em suporte informático das receitas manuais ou materializadas que incluam medicamentos estupefacientes ou psicotrópicos, organizadas por data de dispensa, onde conste, o código do medicamento e a quantidade dispensada e os dados do utente ou do seu representante, recolhidos nos termos da alínea a) do n.º 1 do artigo 19.º\n\n4 - O INFARMED, I. P., transmite ao serviço de saúde competente e à Ordem dos Médicos ou à Ordem dos Médicos Dentistas, consoante a prescrição tenha sido efetuada no exercício de funções públicas ou privadas, as situações, que registe no controlo de receituário, de consumo individual anormal de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica."
+  },
+  "74450296": {
+   "fragment_id": "74448423",
+   "type": 11,
+   "heading": "Artigo 21.º — Normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Normas técnicas\n\n1 - O INFARMED, I. P. e a ACSS, I. P., definem, aprovam conjuntamente e publicam nas respetivas páginas eletrónicas, as normas técnicas relativas à prescrição e dispensa e a calendarização da publicação das especificações técnicas.\n\n2 - A SPMS, E. P. E., define e publica na sua página eletrónica as especificações dos sistemas informáticos de prescrição por via eletrónica de medicamentos, incluindo prazos de implementação, prazos de adaptação e procedimentos relativos à declaração de conformidade.\n\n3 - Para efeitos da dispensa eletrónica, a ACSS, I. P., o INFARMED, I. P., e a SPMS, E. P. E., no âmbito das respetivas competências:\n\na) Definem as especificações técnicas dos sistemas informáticos de dispensa eletrónica;\n\nb) Definem os procedimentos a adotar no caso de falência do sistema informático, de modo a garantir o acesso ao medicamento por parte do utente;\n\nc) Definem as especificações e requisitos técnicos dos sistemas informáticos, bem como os processos de adesão à dispensa eletrónica e faturação eletrónica pelas farmácias e as ferramentas para a sua operacionalização.\n\n4 - A SPMS, E. P. E., emite as especificações técnicas e os requisitos de segurança necessários para produção da receita desmaterializada, incluindo os mecanismos a utilizar para esse efeito e a respetiva estrutura de dados."
+  },
+  "74450297": {
+   "fragment_id": "74448424",
+   "type": 11,
+   "heading": "Artigo 22.º — Programas informáticos de prescrição por via eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Programas informáticos de prescrição por via eletrónica\n\n1 - As normas, requisitos e especificações dos sistemas informáticos de prescrição por via eletrónica de medicamentos têm em atenção a adoção as medidas técnicas e organizativas adequadas à segurança e proteção dos dados, e são precedidas de parecer da Comissão Nacional de Proteção de Dados.\n\n2 - Os sistemas informáticos referidos no número anterior não devem, em caso algum, publicitar ou, por qualquer modo, veicular publicidade a medicamentos ou produtos de saúde.\n\n3 - A utilização dos sistemas informáticos está dependente da apresentação de declaração de conformidade do respetivo fornecedor junto da SPMS, E. P. E.\n\n4 - Para efeitos do disposto no número anterior a SPMS, E. P. E., regista e publica as declarações de conformidade dos sistemas informáticos.\n\n5 - No caso de serem detetadas desconformidades nos sistemas informáticos, as mesmas deverão ser comunicadas à SPMS, E. P. E., devendo esta entidade determinar as medidas necessárias à sua correção e proceder, sempre que aplicável, à comunicação às entidades competentes, designadamente à Comissão Nacional de Proteção de Dados quando esteja em causa matéria relativa a proteção de dados."
+  },
+  "74450298": {
+   "fragment_id": "74448425",
+   "type": 11,
+   "heading": "Artigo 23.º — Falência do sistema no momento da dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Falência do sistema no momento da dispensa\n\n1 - Caso se mostre impossível a consulta da receita desmaterializada, por falência do sistema, a farmácia deve proceder à dispensa, de acordo com os procedimentos definidos na alínea b) do n.º 3 do artigo 21.º\n\n2 - No caso previsto no número anterior, a dispensa só é possível numa única farmácia e de uma única vez.\n\n3 - Sempre que haja falência do sistema a farmácia não pode dispensar os medicamentos contendo substâncias classificadas como estupefacientes ou psicotrópicas, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro."
+  },
+  "74450299": {
+   "fragment_id": "74448426",
+   "type": 11,
+   "heading": "Artigo 24.º — Prova da prescrição e dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prova da prescrição e dispensa\n\nA prova, pelo utente, da prescrição desmaterializada e da dispensa, nomeadamente para efeito de comparticipação de medicamentos por entidades terceiras, pode fazer-se:\n\na) Mediante apresentação do guia de tratamento, conjuntamente com as respetivas faturas-recibo;\n\nb) Através de outros meios eletrónicos a definir por despacho do membro do governo responsável pela área da saúde."
+  },
+  "74450300": {
+   "fragment_id": "74448427",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissão de acompanhamento\n\nÉ criada a Comissão de Acompanhamento para a Implementação e Acompanhamento de todo o processo de desmaterialização da receita, designada por Comissão de Acompanhamento da Receita Sem Papel (CARSP), que integra os representantes dos vários entidades intervenientes no processo de prescrição eletrónica e dispensa de medicamentos, sendo a respetiva composição e competências definidas por despacho do membro do Governo responsável pela área da saúde."
+  },
+  "74450301": {
+   "fragment_id": "74448428",
+   "type": 11,
+   "heading": "Artigo 26.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposições transitórias\n\n1 - Mantêm-se em vigor os modelos de receita aprovados pelo Despacho n.º 15700/2012, publicado no Diário da República, 2.ª série, n.º 238 de 10 de dezembro de 2012, alterado pelo Despacho n.º 8990-C/2013, publicado no Diário da República, 2.ª série, n.º 130, de 9 de julho de 2013, até à sua substituição por novos modelos aprovados ao abrigo da presente portaria.\n\n2 - As normas técnicas previstas no artigo 21.º são publicadas no prazo de 30 dias após a entrada em vigor da presente portaria, mantendo-se vigentes até à sua aprovação as normas técnicas emitidas ao abrigo da portaria n.º 137-A/2012, de 11 de maio.\n\n3 - A adaptação dos sistemas de prescrição, de dispensa e de conferência ao disposto na presente portaria ocorre no prazo máximo de 90 dias após a publicação das normas técnicas previstas no artigo 21.º\n\n4 - Todas as remissões legais ou regulamentares efetuadas para a Portaria n.º 137-A/2013, de 11 de maio, em tudo o que não contrarie, consideram-se efetuadas para o regime estabelecido na presente portaria."
+  },
+  "74450302": {
+   "fragment_id": "74448429",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 137-A/2012, de 11 de maio;\n\nb) A Portaria n.º 224-A/2013, de 9 de julho."
+  },
+  "74450303": {
+   "fragment_id": "74448430",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "74450305": {
+   "fragment_id": "74448432",
+   "type": 14,
+   "heading": "Anexo I — Especificações técnicas das vinhetas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Especificações técnicas das vinhetas\n\na) Papel autoadesivo;\n\nb) Formato 45 mm x 25 mm;\n\nc) Impressão offset a uma cor com conceção gráfica de segurança (fundo). As vinhetas previstas no Anexo III apresentam um fundo de cor azul no n.º 1 e um fundo de cor verde no n.º 2.\n\nd) Impressão a preto das seguintes referências:\n\n- Código alfanumérico único por vinheta e correspondente código de barras;\n\n- Nome de médico e número de cédula profissional respetiva ou nome de local de prescrição e código respetivo\n\ne) Imagem holográfica 8 mm x 8 mm no canto superior direito da vinheta, com repetição de imagem Logótipo do Ministério Saúde, em película metálica prateada"
+  },
+  "74450306": {
+   "fragment_id": "74448433",
+   "type": 14,
+   "heading": "Anexo II — Modelo de vinheta identificativa do prescritor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Modelo de vinheta identificativa do prescritor\n\nPantone 305 U\n\n(ver documento original)"
+  },
+  "74450307": {
+   "fragment_id": "74448434",
+   "type": 14,
+   "heading": "Anexo III — Modelo de vinheta de identificação do local de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Modelo de vinheta de identificação do local de prescrição\n\n1 - Vinhetas de Local de Prescrição\n\nReferência cromática - Pantone 305 U\n\n(ver documento original)\n\n2 - Vinhetas de Local de Prescrição-Regime especial de comparticipação de medicamentos para pensionistas.\n\nReferência cromática - Pantone 374 U\n\n(ver documento original)"
+  },
+  "75667452": {
+   "fragment_id": "74448411",
+   "type": 11,
+   "heading": "Artigo 9.º — Validação da prescrição",
+   "in_force_from": "2015-12-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 417/2015 - Diário da República n.º 238/2015, Série I de 2015-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/417-2015-72812702), em vigor a partir de 2015-12-04"
+   ],
+   "markdown": "###### Artigo 9.º — Validação da prescrição\n\n1 - Sem prejuízo do disposto nos números seguintes, a receita só é válida se incluir os seguintes elementos:\n\na) Número da receita;\n\nb) Local de prescrição ou respetivo código;\n\nc) Identificação do médico prescritor, incluindo o número de cédula profissional e, se for o caso, a especialidade;\n\nd) Nome e número de utente;\n\ne) Entidade financeira responsável e número de beneficiário, acordo internacional e sigla do país, quando aplicável;\n\nf) Se aplicável, referência ao regime especial de comparticipação de medicamentos, nos termos previstos nos n.os 8 e 9 do artigo 6.º;\n\n2 - No caso de receita materializada, além do disposto no número anterior, a sua validade depende ainda da inclusão dos elementos seguintes:\n\na) Denominação comum internacional da substância ativa;\n\nb) Dosagem, forma farmacêutica, dimensão da embalagem, número de embalagens;\n\nc) Se aplicável, denominação comercial do medicamento;\n\nd) Se e consoante aplicável a informação nos termos previstos do n.º 4 do artigo 6.º ou n.º 4 do artigo 7.º;\n\ne) Código nacional de prescrição eletrónica de medicamentos (CNPEM) ou outro código oficial identificador do produto, se aplicável;\n\nf) Data de prescrição;\n\ng) Assinatura autógrafa do prescritor.\n\n3 - No caso de receita desmaterializada, além do disposto no n.º 1, a sua validade depende ainda da inclusão dos elementos seguintes:\n\na) Hora da prescrição;\n\nb) As linhas de prescrição, que incluem:\n\ni) Menção do tipo de linha;\n\nii) Número da linha, identificada univocamente e constituída pelo número da prescrição e pelo número de ordem da linha de prescrição;\n\niii) Tipo de medicamento ou produto de saúde prescrito;\n\niv) Data do termo da vigência da linha de prescrição;\n\nv) Os elementos previstos nas alíneas a) a f) do número anterior.\n\n4 - Por opção do utente, a receita desmaterializada pode incluir o seu número de contacto telefónico móvel, para efeitos de comunicação do código de dispensa e dos direitos de opção.\n\n5 - Para efeitos do disposto na alínea e) do n.º 1, nos casos em que não seja de imediato apurada a entidade financeira responsável distinta do SNS, nomeadamente por motivos de acidente ou ocorrência semelhante, os sistemas de prescrição eletrónica devem assegurar a sinalização dessa situação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 417/2015 - Diário da República n.º 238/2015, Série I de 2015-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/417-2015-72812702), em vigor a partir de 2015-12-04"
+  },
+  "74450304": {
+   "fragment_id": "74448431",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 20 de julho de 2015."
+  },
+  "75667453": {
+   "fragment_id": "74448407",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras de prescrição",
+   "in_force_from": "2016-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 138/2016 - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/138-2016-74443078), em vigor a partir de 2016-05-14"
+   ],
+   "markdown": "###### Artigo 5.º — Regras de prescrição\n\n1 - A prescrição de medicamentos efetua-se mediante receita médica, devendo obedecer às disposições legais em vigor e, quando aplicável, atender ao Formulário Nacional de Medicamentos e às normas de orientação clínica emitidas pela Direção-Geral da Saúde, em articulação com a Ordem dos Médicos e a Ordem dos Médicos Dentistas.\n\n2 - A prescrição de um medicamento inclui obrigatoriamente a respetiva denominação comum internacional (DCI) da substância ativa, a forma farmacêutica, a dosagem, a apresentação, a quantidade e a posologia.\n\n3 - A prescrição de medicamentos é feita por via eletrónica desmaterializada, sem prejuízo de, excecionalmente e nos casos previstos no artigo 8.º da presente portaria, poder ser feita por via manual.\n\n4 - Salvo o disposto nos n.os 5 a 8, em cada receita médica, podem ser prescritos:\n\na) No caso de receita materializada ou por via manual, até quatro medicamentos ou produtos de saúde distintos, em receitas distintas não podendo, em caso algum, o número total de embalagens prescritas ultrapassar o limite de duas por medicamento ou produto, nem o total de quatro embalagens;\n\nb) No caso de receita desmaterializada, mas em linhas de prescrição distintas, produtos de saúde e medicamentos distintos, sendo que cada linha de prescrição só pode incluir um produto de saúde ou um medicamento, até um máximo de duas embalagens de cada.\n\n5 - Excetua-se do disposto no número anterior a prescrição de medicamentos para dispensa ao público em quantidade individualizada, sujeita a regulamentação própria.\n\n6 - Podem ser prescritas numa receita até quatro embalagens do mesmo medicamento no caso de os medicamentos prescritos se apresentarem sob a forma de embalagem unitária, entendendo-se como tal aquela que contém uma unidade de forma farmacêutica na dosagem média usual para uma administração.\n\n7 - A prescrição de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica, compreendida nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, não pode constar de receita materializada ou por via manual, onde sejam prescritos outros medicamentos ou produtos de saúde.\n\n8 - Os medicamentos a que se refere a tabela n.º 2 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, na sua redação atual, podem:\n\na) No caso de receita materializada, ser prescritos em receita eletrónica renovável, sem prejuízo das adaptações e especificações que venham a justificar-se, a aprovar por despacho do membro do Governo responsável pela área da saúde;\n\nb) No caso de receita desmaterializada, coexistir com outros medicamentos, com um limite máximo de seis embalagens por receita.\n\n9 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. e o INFARMED Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., devem disponibilizar ao prescritor informação relativa a interações medicamentosas, por meios eletrónicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 138/2016 - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/138-2016-74443078), em vigor a partir de 2016-05-14"
+  },
+  "75670621": {
+   "fragment_id": "74448405",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto na presente portaria, entende-se por:\n\n1) «Prescrição por via eletrónica» a prescrição de medicamentos resultante da utilização de soluções ou equipamentos informáticos;\n\n2) «Prescrição por via manual» a prescrição de medicamentos efetuada em documento pré-impresso;\n\n3) «Materialização» a impressão da receita médica resultante da prescrição efetuada por meios eletrónicos.\n\n4) «Desmaterialização» a prescrição por via eletrónica, de receita sem papel, acessível e interpretável por meio de equipamento eletrónico e que inclui atributos que comprovam a sua autoria e integridade;\n\n5) «Código de acesso e dispensa» código gerado pelo sistema central, comunicado ao software de prescrição a utilizar apenas pelo utente para acesso à prescrição no momento de dispensa, e para validação da dispensa;\n\n6) «Código matriz» código gerado pelo sistema central, que permite à farmácia aceder à prescrição, bem como verificar a autenticidade e integridade da receita, em modo offline;\n\n7) «Código do direito de opção» código gerado pelo sistema central, comunicado ao software de prescrição, a utilizar apenas pelo utente no momento de dispensa, quando exerce o direito de opção por linha de prescrição;\n\n8) «Linha de prescrição» é o item de prescrição que, quando aplicável, tem uma correspondência unívoca com um Código Nacional para a Prescrição Eletrónica de Medicamentos (CNPEM), ou um número de registo de um medicamento ou outro código oficial identificador do produto prescrito.\n\n9) «Tipo de linha» corresponde ao tipo de produto constante em cada linha de prescrição.\n\n10) «Ato de prescrição» - ato durante o qual o prescritor efetua a prescrição de medicamentos, nomeadamente por meios eletrónicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670622": {
+   "fragment_id": "74448407",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras de prescrição",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 138/2016 - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/138-2016-74443078), em vigor a partir de 2016-05-14"
+   ],
+   "markdown": "###### Artigo 5.º — Regras de prescrição\n\n1 - A prescrição de medicamentos efetua-se mediante receita médica, devendo obedecer às disposições legais em vigor e, quando aplicável, atender ao Formulário Nacional de Medicamentos e às normas de orientação clínica emitidas pela Direção-Geral da Saúde, em articulação com a Ordem dos Médicos e a Ordem dos Médicos Dentistas.\n\n2 - A prescrição de um medicamento inclui obrigatoriamente a respetiva denominação comum internacional (DCI) da substância ativa, a forma farmacêutica, a dosagem, a apresentação, a quantidade e a posologia.\n\n3 - A prescrição de medicamentos é feita por via eletrónica desmaterializada, sem prejuízo de, excecionalmente e nos casos previstos no artigo 8.º da presente portaria, poder ser feita por via manual.\n\n4 - Salvo o disposto nos n.os 5 a 8, a cada ato de prescrição, corresponde a emissão de uma única receita onde podem ser prescritos:\n\na) No caso de receita materializada ou por via manual, até quatro medicamentos ou produtos de saúde distintos, em receitas distintas não podendo, em caso algum, o número total de embalagens prescritas ultrapassar o limite de duas por medicamento ou produto, nem o total de quatro embalagens;\n\nb) No caso de receita desmaterializada, mas em linhas de prescrição distintas, produtos de saúde e medicamentos distintos, sendo que cada linha de prescrição só pode incluir um produto de saúde ou um medicamento, até um máximo de duas embalagens de cada.\n\n5 - Excetua-se do disposto no número anterior a prescrição de medicamentos para dispensa ao público em quantidade individualizada, sujeita a regulamentação própria.\n\n6 - Podem ser prescritas num ato de prescrição, a que corresponde apenas uma receita, até quatro embalagens do mesmo medicamento, no caso de os medicamentos prescritos se apresentarem sob a forma de embalagem unitária, entendendo-se como tal aquela que contém uma unidade de forma farmacêutica na dosagem média usual para uma administração.\n\n7 - A prescrição de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica, compreendida nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, não pode constar de receita materializada ou por via manual, onde sejam prescritos outros medicamentos ou produtos de saúde.\n\n8 - Os medicamentos a que se refere a tabela n.º 2 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, na sua redação atual, podem:\n\na) No caso de receita materializada, ser prescritos em receita eletrónica renovável, sem prejuízo das adaptações e especificações que venham a justificar-se, a aprovar por despacho do membro do Governo responsável pela área da saúde;\n\nb) No caso da receita desmaterializada coexistir com outros medicamentos, com um limite máximo de seis embalagens por ato de prescrição, ou, no caso de medicamentos em dose unitária, com um limite máximo de 12 embalagens.\n\n9 - Em casos excecionais, devidamente fundamentados pelo prescritor, podem efetuar-se prescrições sem limite de embalagens, desde que observados os seguintes requisitos:\n\na) A prescrição seja emitida obrigatoriamente de forma desmaterializada;\n\nb) A fundamentação seja inserida no Processo Clínico do Utente;\n\nc) As quantidades sejam adequadas e ajustadas à posologia instituída e à duração do tratamento.\n\n10 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. e o INFARMED Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., devem disponibilizar ao prescritor informação relativa a interações medicamentosas, por meios eletrónicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 138/2016 - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/138-2016-74443078), em vigor a partir de 2016-05-14"
+  },
+  "75670623": {
+   "fragment_id": "74448410",
+   "type": 11,
+   "heading": "Artigo 8.º — Prescrição excecional por via manual",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 8.º — Prescrição excecional por via manual\n\n1 - A prescrição de medicamentos pode, excecionalmente, realizar-se por via manual nas seguintes situações:\n\na) Falência do sistema informático;\n\nb) Inadaptação fundamentada do prescritor, previamente confirmada e validada anualmente pela respetiva Ordem profissional;\n\nc) Prescrição ao domicílio;\n\nd) Outras situações até um máximo de 40 receitas médicas por mês.\n\n2 - A exceção prevista na alínea c) do número anterior não é aplicável a locais de prescrição em lares de idosos.\n\n3 - Para efeitos do n.º 1, o prescritor deve assinalar, em local próprio da receita médica, a alínea aplicável.\n\n4 - A Ordem profissional do prescritor será notificada das irregularidades de prescrição sempre que sejam detetadas prescrições por via manual realizadas ao abrigo da alínea b) do n.º 1 sem a confirmação ali prevista.\n\n5 - A não verificação da situação de exceção não constitui motivo de recusa de pagamento da comparticipação do Estado à farmácia.\n\n6 - A SPMS, E. P. E., em conjunto com as Ordem profissionais, deve implementar medidas que permitam a eliminação progressiva da prescrição manual, nomeadamente, através do apoio de consultoria técnica e formação necessárias à adaptação dos prescritores aos softwares de prescrição.\n\n7 - As instituições do SNS devem garantir a adequada formação dos prescritores de forma a eliminar situações de inadaptação informática.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670596": {
+   "fragment_id": "75670513",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Prescrição com recurso a dispositivos móveis",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 8.º-A — Prescrição com recurso a dispositivos móveis\n\n1 - A prescrição eletrónica de medicamentos com recurso a dispositivos móveis é obrigatoriamente realizada mediante a utilização de chaves móveis digitais ou tecnologia equivalente.\n\n2 - A prescrição realizada através de dispositivos móveis encontra-se limitada à emissão de receita desmaterializada e deve observar os requisitos de validade constantes do artigo 9.º\n\n3 - A prescrição de medicamentos nesta modalidade é vedada dentro do SNS, com as seguintes exceções:\n\na) Domicílios registados nos sistemas clínicos;\n\nb) Serviços de urgência.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670597": {
+   "fragment_id": "74448411",
+   "type": 11,
+   "heading": "Artigo 9.º — Validação da prescrição",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 417/2015 - Diário da República n.º 238/2015, Série I de 2015-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/417-2015-72812702), em vigor a partir de 2015-12-04"
+   ],
+   "markdown": "###### Artigo 9.º — Validação da prescrição\n\n1 - Sem prejuízo do disposto nos números seguintes, a receita só é válida se incluir os seguintes elementos:\n\na) Número da receita;\n\nb) Local de prescrição ou respetivo código;\n\nc) Identificação do médico prescritor, incluindo o número de cédula profissional e, se for o caso, a especialidade;\n\nd) Nome e número de utente;\n\ne) Entidade financeira responsável e número de beneficiário, acordo internacional e sigla do país, quando aplicável;\n\nf) Se aplicável, referência ao regime especial de comparticipação de medicamentos, nos termos previstos nos n.os 8 e 9 do artigo 6.º;\n\n2 - No caso de receita materializada, além do disposto no número anterior, a sua validade depende ainda da inclusão dos elementos seguintes:\n\na) Denominação comum internacional da substância ativa;\n\nb) Dosagem, forma farmacêutica, dimensão da embalagem, número de embalagens;\n\nc) Se aplicável, denominação comercial do medicamento;\n\nd) Se e consoante aplicável a informação nos termos previstos do n.º 4 do artigo 6.º ou n.º 4 do artigo 7.º;\n\ne) Código nacional de prescrição eletrónica de medicamentos (CNPEM) ou outro código oficial identificador do produto, se aplicável;\n\nf) Data de prescrição;\n\ng) Assinatura autógrafa do prescritor.\n\n3 - No caso de receita desmaterializada, além do disposto no n.º 1, a sua validade depende ainda da inclusão dos elementos seguintes:\n\na) Hora da prescrição;\n\nb) As linhas de prescrição, que incluem:\n\ni) Menção do tipo de linha;\n\nii) Número da linha, identificada univocamente e constituída pelo número da prescrição e pelo número de ordem da linha de prescrição;\n\niii) Tipo de medicamento ou produto de saúde prescrito;\n\niv) Data do termo da vigência da linha de prescrição;\n\nv) Os elementos previstos nas alíneas a) a f) do número anterior.\n\n4 - Por opção do utente, a receita desmaterializada pode incluir o seu número de contacto telefónico móvel, para efeitos de comunicação do código de dispensa e dos direitos de opção.\n\n5 - Para efeitos do disposto na alínea e) do n.º 1, nos casos em que não seja de imediato apurada a entidade financeira responsável distinta do SNS, nomeadamente por motivos de acidente ou ocorrência semelhante, os sistemas de prescrição eletrónica devem assegurar a sinalização dessa situação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 417/2015 - Diário da República n.º 238/2015, Série I de 2015-12-04](https://diariodarepublica.pt/dr/detalhe/portaria/417-2015-72812702), em vigor a partir de 2015-12-04"
+  },
+  "75670624": {
+   "fragment_id": "74448412",
+   "type": 11,
+   "heading": "Artigo 10.º — Autenticação eletrónica do prescritor",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 10.º — Autenticação eletrónica do prescritor\n\n1 - Os softwares de prescrição devem assegurar que a autenticação é efetuada na infraestrutura central de autenticação de prescritores a disponibilizar pela SPMS, E. P. E..\n\n2 - A prescrição desmaterializada é obrigatoriamente realizada mediante autenticação forte, através de um certificado digital qualificado, que garanta a identidade e qualidade do prescritor, ou chave móvel digital, com exceção do disposto no n.º 4.\n\n3 - As Ordens Profissionais que disponham de meios de autenticação com certificados digitais qualificados devem emitir o respetivo certificado até 30 dias após a data de receção do pedido.\n\n4 - Em situações excecionais, os prescritores que, comprovadamente, por roubo, extravio, perda, ou defeito de funcionamento do respetivo meio de autenticação, se vejam impedidos da sua normal utilização ou que se encontrem a aguardar a emissão de certificados digitais qualificados, devem transitoriamente prescrever com recurso a prescrição eletrónica materializada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670599": {
+   "fragment_id": "74448413",
+   "type": 11,
+   "heading": "Artigo 11.º — Vinhetas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vinhetas\n\n1 - A prescrição de medicamentos por via manual implica a aposição na receita médica de vinheta identificativa do prescritor, conforme modelo constante do anexo II da presente portaria, da qual faz parte integrante.\n\n2 - A prescrição de medicamentos por via manual no âmbito das instituições do Serviço Nacional de Saúde e instituições com acordos, convenções ou protocolos celebrados com as administrações regionais de saúde, implica também a aposição de vinheta identificativa do local de prescrição, conforme modelo constante do n.º 1 do anexo III da presente portaria, da qual faz parte integrante.\n\n3 - Sempre que a prescrição referida no número anterior seja dirigida a um pensionista abrangido pelo regime especial de comparticipação, a identificação a que se refere o número anterior é efetuada através de vinheta de cor verde conforme modelo constante do n.º 2 do anexo III da presente portaria, da qual faz parte integrante.\n\n4 - São aprovados as especificações e os modelos de vinheta de identificação do prescritor e do local de prescrição, que constam dos anexos I a III da presente portaria, da qual fazem parte integrante.\n\n5 - Os modelos de vinhetas são de edição exclusiva da Imprensa Nacional-Casa da Moeda, S. A.\n\n6 - Cabe à Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), em articulação com as administrações regionais de saúde e Ordens profissionais dos prescritores, assegurar a gestão do processo de emissão de vinhetas."
+  },
+  "75670600": {
+   "fragment_id": "74448414",
+   "type": 11,
+   "heading": "Artigo 12.º — Validação da prescrição por via manual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Validação da prescrição por via manual\n\n1 - A receita manual só é válida se incluir os seguintes elementos:\n\na) Se aplicável, vinheta identificativa do local de prescrição;\n\nb) Vinheta identificativa do médico prescritor;\n\nc) Identificação da especialidade médica, se aplicável, e contacto telefónico do prescritor;\n\nd) Identificação da exceção nos termos do n.º 1 do artigo 8.º;\n\ne) Os elementos previstos nas alíneas d) a f) do n.º 1 e nas alíneas a) a d) e g) do n.º 2 do artigo 9.º\n\n2 - Não é admitida mais do que uma via da receita manual."
+  },
+  "75670625": {
+   "fragment_id": "74448415",
+   "type": 11,
+   "heading": "Artigo 13.º — Vigência da prescrição",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 13.º — Vigência da prescrição\n\n1 - Sem prejuízo do disposto nos números seguintes, as receitas materializadas e manuais vigoram por 30 dias, sendo que, cada linha de prescrição da receita desmaterializada vigora por 60 dias.\n\n2 - A receita materializada pode ser renovável, contendo até três vias, com a indicação «1.ª via», «2.ª via» ou «3.ª via», que vigoram por seis meses.\n\n3 - Cada linha da receita desmaterializada vigora por seis meses, no caso dos medicamentos a que se refere a alínea b) do n.º 8 do artigo 5.º\n\n4 - Cada linha de receita desmaterializada vigora por um período máximo de 12 meses no caso a que se refere o n.º 9 do artigo 5.º\n\n5 - Os prazos de vigência previstos nos números anteriores contam-se da data da respetiva prescrição.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670626": {
+   "fragment_id": "74448416",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação ao utente no momento da prescrição",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 14.º — Informação ao utente no momento da prescrição\n\n1 - Sem prejuízo do disposto nos números seguintes, no momento da prescrição por via eletrónica é disponibilizada ao utente o guia de tratamento.\n\n2 - O guia de tratamento é um documento pessoal e intransmissível.\n\n3 - O prescritor deve informar o utente que o guia de tratamento lhe é destinado, pelo que não deve ser deixado na farmácia.\n\n4 - O guia de tratamento, para além dos elementos constantes do n.º 2 do artigo 5.º, contém informação sobre os preços de medicamentos comercializados que cumpram os critérios da prescrição.\n\n5 - No caso da receita desmaterializada, o guia de tratamento contém, para além da informação referida no número anterior, o número da prescrição, o código matriz, o código de acesso e dispensa e o código do direito de opção.\n\n6 - Os modelos de guia de tratamento são aprovados por despacho do membro do governo responsável pela área da saúde.\n\n7 - Nos casos de receita desmaterializada, a informação constante no guia de tratamento e os códigos previstos no n.º 5 podem ser remetidos, no momento da prescrição, para o endereço de correio eletrónico do utente, por SMS, através da app MySNS, ou disponibilizados por outros meios eletrónicos, mantendo-se a possibilidade de, a pedido do utente, serem fornecidos em suporte papel.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670603": {
+   "fragment_id": "74448417",
+   "type": 11,
+   "heading": "Artigo 15.º — Opção do utente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Opção do utente\n\n1 - O utente tem direito de escolha de entre os medicamentos que cumpram a prescrição médica, exceto:\n\na) Nas situações previstas pelas alíneas a) e b) do n.º 3 do artigo 6.º e pelas alíneas a) e b) do n.º 3 do artigo 7.º;\n\nb) Em medicamentos comparticipados, na situação em que o medicamento prescrito contém uma substância ativa para a qual não exista medicamento genérico comparticipado ou para a qual só exista original de marca e licenças.\n\n2 - Nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º, o direito de opção do utente está limitado a medicamentos com preço inferior ao do medicamento prescrito.\n\n3 - O exercício, ou não, do direito de opção do utente, nos termos permitidos pela lei, é, consoante o caso, demonstrado através da respetiva assinatura, ou de quem o represente, em local próprio da receita médica, ou mediante a utilização do código do direito de opção, no momento da dispensa."
+  },
+  "75670604": {
+   "fragment_id": "74448418",
+   "type": 11,
+   "heading": "Artigo 16.º — Acesso à prescrição para efeitos de dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acesso à prescrição para efeitos de dispensa\n\n1 - A farmácia acede à prescrição do utente mediante a apresentação por este, ou pelo seu representante, do cartão do cidadão ou do número da prescrição, e do código de acesso e dispensa constante do guia de tratamento.\n\n2 - É vedado à farmácia o acesso à prescrição de modos diversos dos previstos no número anterior."
+  },
+  "75670627": {
+   "fragment_id": "74448419",
+   "type": 11,
+   "heading": "Artigo 17.º — Dispensa em geral",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 17.º — Dispensa em geral\n\n1 - No momento de dispensa, o farmacêutico, ou seu colaborador devidamente habilitado, deve informar o doente sobre o medicamento comercializado que, cumprindo a prescrição, apresente o preço mais baixo.\n\n2 - As farmácias devem ter disponíveis para venda, no mínimo, três medicamentos com a mesma substância ativa, forma farmacêutica e dosagem, de entre os que correspondam aos cinco preços mais baixos de cada grupo homogéneo.\n\n3 - As farmácias devem dispensar o medicamento de menor preço de entre os referidos no número anterior, salvo se for outra a opção do utente.\n\n4 - Nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º é vedada às farmácias a dispensa de medicamento com preço superior ao do medicamento prescrito.\n\n5 - As farmácias apenas podem dispensar um máximo de 2 embalagens, por linha de prescrição, ou de 4 embalagens, no caso das embalagens em dose unitária, por mês.\n\n6 - As farmácias podem, mediante justificação, dispensar uma quantidade superior, nomeadamente nos seguintes casos:\n\na) A quantidade de embalagens necessária para cumprir a posologia é superior a 2 embalagens por mês;\n\nb) Extravio, perda ou roubo de medicamentos;\n\nc) Dificuldade de deslocação à farmácia;\n\nd) Ausência prolongada do país.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670628": {
+   "fragment_id": "74448420",
+   "type": 11,
+   "heading": "Artigo 18.º — Procedimento",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 18.º — Procedimento\n\n1 - No ato de dispensa de medicamentos prescritos em receita materializada ou em via manual, o farmacêutico, ou quem o coadjuve, deve datar, assinar e carimbar a receita médica, devendo ser impressos informaticamente os respetivos códigos identificadores, sem prejuízo de outras exigências aplicáveis, como é o caso da assinatura do utente.\n\n2 - No ato de dispensa de medicamentos prescritos em receita desmaterializada, independentemente da forma de acesso à prescrição, a farmácia apenas pode efetivar a dispensa após indicação, pelo utente, do respetivo código de acesso e dispensa.\n\n3 - Caso o utente, ou seu representante, no caso do número anterior, exerça o direito de opção relativamente a alguma das linhas de prescrição, deve indicar o respetivo código do direito de opção.\n\n4 - Se se tratar de uma receita manual, o utente ou o seu representante, deve assinar o verso da receita de forma legível para comprovar a dispensa efetuada, salvo se não souber ou não puder assinar, caso em que o farmacêutico consigna essa menção na receita.\n\n5 - Os dados do cartão de cidadão, bem como os códigos de acesso e dispensa e de direito de opção inseridos pelo utente não podem ser utilizados para finalidades diferentes das previstas no presente diploma, nem podem ser arquivados pelo sistema da farmácia.\n\n6 - O utente pode adquirir medicamentos ou produtos prescritos em diferentes linhas de prescrição da mesma receita desmaterializada em farmácias diferentes ou em momentos diferentes, exceto em situações de falência do sistema em que aplica o disposto no artigo 23.º\n\n7 - No momento da dispensa, as farmácias podem, sempre que tal se justifique, remeter através dos respetivos sistemas informáticos, notas terapêuticas relativamente a cada medicamento ou produto de saúde que é dispensado, podendo receber informação de retorno sobre se o médico prescritor viu essas notas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670607": {
+   "fragment_id": "74448421",
+   "type": 11,
+   "heading": "Artigo 19.º — Dispensa de substâncias estupefacientes ou psicotrópicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dispensa de substâncias estupefacientes ou psicotrópicas\n\n1 - No ato de dispensa de medicamentos contendo substâncias classificadas como estupefacientes ou psicotrópicas, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, a farmácia procede ao registo informático da seguinte informação:\n\na) Identidade do utente ou do seu representante, nomeadamente o nome, data de nascimento, número e data do bilhete de identidade ou da carta de condução, ou o nome e número do cartão de cidadão, ou, no caso de estrangeiros, do passaporte;\n\nb) Identificação da prescrição através do número de prescrição;\n\nc) Identificação da farmácia, nomeadamente o nome e número de conferência de faturas;\n\nd) Identificação do medicamento, nomeadamente o número de registo e a quantidade dispensada;\n\ne) Data de dispensa.\n\n2 - Se a aquisição for efetuada pelo utente e no caso de dispensa de medicamentos prescritos por via eletrónica, o farmacêutico solicita ao utente a introdução do cartão de cidadão no dispositivo apropriado, bem como a autorização para acesso, exclusivo ao nome, número de identificação e data de nascimento, bem como para arquivo e comunicação desses dados, nos termos da presente portaria.\n\n3 - Se se tratar de uma receita manual ou materializada, o utente ou o seu representante deve assinar o verso da receita de forma legível para comprovar a dispensa efetuada, salvo se não souber ou não puder assinar, caso em que o farmacêutico consigna essa menção na receita."
+  },
+  "75670629": {
+   "fragment_id": "74448422",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo do receituário",
+   "in_force_from": "2016-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 20.º — Controlo do receituário\n\n1 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., disponibiliza ao INFARMED, I. P., o acesso aos dados de prescrição e de dispensa das prescrições por via eletrónica que incluam medicamentos dispensados contendo uma substância classificada como estupefaciente ou psicotrópica, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro.\n\n2 - Para os casos previstos no n.º 1 do artigo 8.º, as farmácias e os serviços de saúde públicos e privados enviam ao INFARMED, I. P., até ao dia 8 do mês seguinte àquele a que respeite, fotocópia da receita manual com medicamentos dispensados contendo uma substância classificada como estupefaciente ou psicotrópica, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro.\n\n3 - As farmácias conservam em arquivo adequado, pelo período de três anos, uma reprodução em papel ou em suporte informático das receitas manuais ou materializadas que incluam medicamentos estupefacientes ou psicotrópicos, organizadas por data de dispensa, onde conste, o código do medicamento e a quantidade dispensada e os dados do utente ou do seu representante, recolhidos nos termos da alínea a) do n.º 1 do artigo 19.º\n\n4 - O INFARMED, I. P., transmite ao serviço de saúde competente e à Ordem dos Médicos ou à Ordem dos Médicos Dentistas, consoante a prescrição tenha sido efetuada no exercício de funções públicas ou privadas, as situações, que registe no controlo de receituário, de consumo individual anormal de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica.\n\n5 - A SPMS, E. P. E., deve implementar mecanismos de controlo que permitam identificar situações de potencial risco de fraude, de forma a informar, sempre que solicitado, as entidades competentes em matéria de combate à fraude.\n\n6 - A SPMS, E. P. E., deve implementar mecanismos de retorno de informação de prescrição e dispensa aos utentes que permitam que o utente tenha informação e efetue uma gestão racional do seu acesso ao medicamento, nomeadamente:\n\na) Mecanismos de retorno de informação ao utente, sobre, entre outros aspetos, prescrição, embalagens dispensadas, custos e validade;\n\nb) Mecanismos de monitorização ativa da prescrição e da dispensa;\n\nc) Reforço dos mecanismos informáticos de autenticação e verificação de identidade dos prescritores;\n\nd) Diversificação dos meios de acesso à prescrição e à dispensa.\n\n7 - No âmbito das suas competências, a SPMS, E. P. E., pode efetuar auditorias aos mecanismos de prevenção e controlo da fraude, junto das instituições de saúde, públicas e privadas e fabricantes de software, bem como promover a implementação das melhores práticas que permitam salvaguardar a proteção dos dados individuais dos utentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "75670609": {
+   "fragment_id": "74448423",
+   "type": 11,
+   "heading": "Artigo 21.º — Normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Normas técnicas\n\n1 - O INFARMED, I. P. e a ACSS, I. P., definem, aprovam conjuntamente e publicam nas respetivas páginas eletrónicas, as normas técnicas relativas à prescrição e dispensa e a calendarização da publicação das especificações técnicas.\n\n2 - A SPMS, E. P. E., define e publica na sua página eletrónica as especificações dos sistemas informáticos de prescrição por via eletrónica de medicamentos, incluindo prazos de implementação, prazos de adaptação e procedimentos relativos à declaração de conformidade.\n\n3 - Para efeitos da dispensa eletrónica, a ACSS, I. P., o INFARMED, I. P., e a SPMS, E. P. E., no âmbito das respetivas competências:\n\na) Definem as especificações técnicas dos sistemas informáticos de dispensa eletrónica;\n\nb) Definem os procedimentos a adotar no caso de falência do sistema informático, de modo a garantir o acesso ao medicamento por parte do utente;\n\nc) Definem as especificações e requisitos técnicos dos sistemas informáticos, bem como os processos de adesão à dispensa eletrónica e faturação eletrónica pelas farmácias e as ferramentas para a sua operacionalização.\n\n4 - A SPMS, E. P. E., emite as especificações técnicas e os requisitos de segurança necessários para produção da receita desmaterializada, incluindo os mecanismos a utilizar para esse efeito e a respetiva estrutura de dados."
+  },
+  "75670610": {
+   "fragment_id": "74448424",
+   "type": 11,
+   "heading": "Artigo 22.º — Programas informáticos de prescrição por via eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Programas informáticos de prescrição por via eletrónica\n\n1 - As normas, requisitos e especificações dos sistemas informáticos de prescrição por via eletrónica de medicamentos têm em atenção a adoção as medidas técnicas e organizativas adequadas à segurança e proteção dos dados, e são precedidas de parecer da Comissão Nacional de Proteção de Dados.\n\n2 - Os sistemas informáticos referidos no número anterior não devem, em caso algum, publicitar ou, por qualquer modo, veicular publicidade a medicamentos ou produtos de saúde.\n\n3 - A utilização dos sistemas informáticos está dependente da apresentação de declaração de conformidade do respetivo fornecedor junto da SPMS, E. P. E.\n\n4 - Para efeitos do disposto no número anterior a SPMS, E. P. E., regista e publica as declarações de conformidade dos sistemas informáticos.\n\n5 - No caso de serem detetadas desconformidades nos sistemas informáticos, as mesmas deverão ser comunicadas à SPMS, E. P. E., devendo esta entidade determinar as medidas necessárias à sua correção e proceder, sempre que aplicável, à comunicação às entidades competentes, designadamente à Comissão Nacional de Proteção de Dados quando esteja em causa matéria relativa a proteção de dados."
+  },
+  "75670611": {
+   "fragment_id": "74448425",
+   "type": 11,
+   "heading": "Artigo 23.º — Falência do sistema no momento da dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Falência do sistema no momento da dispensa\n\n1 - Caso se mostre impossível a consulta da receita desmaterializada, por falência do sistema, a farmácia deve proceder à dispensa, de acordo com os procedimentos definidos na alínea b) do n.º 3 do artigo 21.º\n\n2 - No caso previsto no número anterior, a dispensa só é possível numa única farmácia e de uma única vez.\n\n3 - Sempre que haja falência do sistema a farmácia não pode dispensar os medicamentos contendo substâncias classificadas como estupefacientes ou psicotrópicas, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro."
+  },
+  "75670612": {
+   "fragment_id": "74448426",
+   "type": 11,
+   "heading": "Artigo 24.º — Prova da prescrição e dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prova da prescrição e dispensa\n\nA prova, pelo utente, da prescrição desmaterializada e da dispensa, nomeadamente para efeito de comparticipação de medicamentos por entidades terceiras, pode fazer-se:\n\na) Mediante apresentação do guia de tratamento, conjuntamente com as respetivas faturas-recibo;\n\nb) Através de outros meios eletrónicos a definir por despacho do membro do governo responsável pela área da saúde."
+  },
+  "75670613": {
+   "fragment_id": "74448427",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissão de acompanhamento\n\nÉ criada a Comissão de Acompanhamento para a Implementação e Acompanhamento de todo o processo de desmaterialização da receita, designada por Comissão de Acompanhamento da Receita Sem Papel (CARSP), que integra os representantes dos vários entidades intervenientes no processo de prescrição eletrónica e dispensa de medicamentos, sendo a respetiva composição e competências definidas por despacho do membro do Governo responsável pela área da saúde."
+  },
+  "75670614": {
+   "fragment_id": "74448428",
+   "type": 11,
+   "heading": "Artigo 26.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposições transitórias\n\n1 - Mantêm-se em vigor os modelos de receita aprovados pelo Despacho n.º 15700/2012, publicado no Diário da República, 2.ª série, n.º 238 de 10 de dezembro de 2012, alterado pelo Despacho n.º 8990-C/2013, publicado no Diário da República, 2.ª série, n.º 130, de 9 de julho de 2013, até à sua substituição por novos modelos aprovados ao abrigo da presente portaria.\n\n2 - As normas técnicas previstas no artigo 21.º são publicadas no prazo de 30 dias após a entrada em vigor da presente portaria, mantendo-se vigentes até à sua aprovação as normas técnicas emitidas ao abrigo da portaria n.º 137-A/2012, de 11 de maio.\n\n3 - A adaptação dos sistemas de prescrição, de dispensa e de conferência ao disposto na presente portaria ocorre no prazo máximo de 90 dias após a publicação das normas técnicas previstas no artigo 21.º\n\n4 - Todas as remissões legais ou regulamentares efetuadas para a Portaria n.º 137-A/2013, de 11 de maio, em tudo o que não contrarie, consideram-se efetuadas para o regime estabelecido na presente portaria."
+  },
+  "75670615": {
+   "fragment_id": "74448429",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 137-A/2012, de 11 de maio;\n\nb) A Portaria n.º 224-A/2013, de 9 de julho."
+  },
+  "75670616": {
+   "fragment_id": "74448430",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "75670617": {
+   "fragment_id": "74448431",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 20 de julho de 2015."
+  },
+  "75670618": {
+   "fragment_id": "74448432",
+   "type": 14,
+   "heading": "Anexo I — Especificações técnicas das vinhetas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Especificações técnicas das vinhetas\n\na) Papel autoadesivo;\n\nb) Formato 45 mm x 25 mm;\n\nc) Impressão offset a uma cor com conceção gráfica de segurança (fundo). As vinhetas previstas no Anexo III apresentam um fundo de cor azul no n.º 1 e um fundo de cor verde no n.º 2.\n\nd) Impressão a preto das seguintes referências:\n\n- Código alfanumérico único por vinheta e correspondente código de barras;\n\n- Nome de médico e número de cédula profissional respetiva ou nome de local de prescrição e código respetivo\n\ne) Imagem holográfica 8 mm x 8 mm no canto superior direito da vinheta, com repetição de imagem Logótipo do Ministério Saúde, em película metálica prateada"
+  },
+  "75670619": {
+   "fragment_id": "74448433",
+   "type": 14,
+   "heading": "Anexo II — Modelo de vinheta identificativa do prescritor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Modelo de vinheta identificativa do prescritor\n\nPantone 305 U\n\n(ver documento original)"
+  },
+  "75670620": {
+   "fragment_id": "74448434",
+   "type": 14,
+   "heading": "Anexo III — Modelo de vinheta de identificação do local de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Modelo de vinheta de identificação do local de prescrição\n\n1 - Vinhetas de Local de Prescrição\n\nReferência cromática - Pantone 305 U\n\n(ver documento original)\n\n2 - Vinhetas de Local de Prescrição-Regime especial de comparticipação de medicamentos para pensionistas.\n\nReferência cromática - Pantone 374 U\n\n(ver documento original)"
+  },
+  "125781791": {
+   "fragment_id": "74448410",
+   "type": 11,
+   "heading": "Artigo 8.º — Prescrição excecional por via manual",
+   "in_force_from": "2019-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2019 - Diário da República n.º 208/2019, Série I de 2019-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/390-2019-125781753), em vigor a partir de 2019-10-30",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 8.º — Prescrição excecional por via manual\n\n1 - A prescrição de medicamentos pode, excecionalmente, realizar-se por via manual nas situações de falência do sistema informático, de indisponibilidade da prescrição através de dispositivos móveis, ou nas situações de prescrição em que o utente não tenha a possibilidade de receber a prescrição desmaterializada ou de a materializar.\n\n2 - O Centro de Controlo e Monitorização do SNS procede ao registo dos prescritores que efetuam a prescrição excecional por via manual, comunicando, com uma regularidade trimestral, a listagem dos prescritores em causa à respetiva Ordem Profissional.\n\n3 - A não verificação da situação de exceção não constitui motivo de recusa de pagamento da comparticipação do Estado à farmácia.\n\n4 - Os procedimentos a adotar nos casos previstos no n.º 1 são definidos e publicados pela SPMS, E. P. E., na sua página eletrónica.\n\n> Nota: [Artigo 3.º, Portaria n.º 390/2019 - Diário da República n.º 208/2019, Série I de 2019-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/390-2019-125781753) A alteração introduzida pela presente portaria só é aplicável, aos prescritores que se encontrem devidamente referenciados pelas respetivas Ordens Profissionais como inadaptados aos sistemas de informação e prescrição eletrónica, a partir de 31 de março de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 390/2019 - Diário da República n.º 208/2019, Série I de 2019-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/390-2019-125781753), em vigor a partir de 2019-10-30\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "896269367": {
+   "fragment_id": "74448415",
+   "type": 11,
+   "heading": "Artigo 13.º — Vigência da prescrição",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 97/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/97-2023-211241821), em vigor a partir de 2023-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 13.º — Vigência da prescrição\n\n1 - Sem prejuízo do disposto no número seguinte, as receitas materializadas e manuais vigoram por 12 meses, sendo que cada linha de prescrição da receita desmaterializada vigora também por 12 meses.\n\n2 - A receita materializada pode ser renovável, contendo até três vias, com a indicação '1.ª via', '2.ª via' ou '3.ª via', que vigoram por 12 meses.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Os prazos de vigência previstos nos números anteriores contam-se da data da respetiva prescrição.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 97/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/97-2023-211241821), em vigor a partir de 2023-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "896271591": {
+   "fragment_id": "74448407",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras de prescrição",
+   "in_force_from": "2023-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 138/2016 - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/138-2016-74443078), em vigor a partir de 2016-05-14"
+   ],
+   "markdown": "###### Artigo 5.º — Regras de prescrição\n\n1 - A prescrição de medicamentos efetua-se mediante receita médica, devendo obedecer às disposições legais em vigor e, quando aplicável, atender ao Formulário Nacional de Medicamentos e às normas de orientação clínica emitidas pela Direção-Geral da Saúde, em articulação com a Ordem dos Médicos e a Ordem dos Médicos Dentistas.\n\n2 - A prescrição de um medicamento inclui obrigatoriamente a respetiva denominação comum internacional (DCI) da substância ativa, a forma farmacêutica, a dosagem, a apresentação, a quantidade e a posologia.\n\n3 - A prescrição de medicamentos é feita por via eletrónica desmaterializada, sem prejuízo de, excecionalmente e nos casos previstos no artigo 8.º da presente portaria, poder ser feita por via manual.\n\n4 - Salvo o disposto nos n.os 5 a 8, a cada ato de prescrição, corresponde a emissão de uma única receita onde podem ser prescritos:\n\na) No caso de receita materializada ou por via manual, até quatro medicamentos ou produtos de saúde distintos, em receitas distintas não podendo, em caso algum, o número total de embalagens prescritas ultrapassar o limite de duas por medicamento ou produto, nem o total de quatro embalagens;\n\nb) No caso de receita desmaterializada, mas em linhas de prescrição distintas, produtos de saúde e medicamentos distintos, sendo que cada linha de prescrição só pode incluir um produto de saúde ou um medicamento, até um máximo de duas embalagens de cada.\n\n5 - Excetua-se do disposto no número anterior a prescrição de medicamentos para dispensa ao público em quantidade individualizada, sujeita a regulamentação própria.\n\n6 - Podem ser prescritas num ato de prescrição, a que corresponde apenas uma receita, até quatro embalagens do mesmo medicamento, no caso de os medicamentos prescritos se apresentarem sob a forma de embalagem unitária, entendendo-se como tal aquela que contém uma unidade de forma farmacêutica na dosagem média usual para uma administração.\n\n7 - A prescrição de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica, compreendida nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, não pode constar de receita materializada ou por via manual, onde sejam prescritos outros medicamentos ou produtos de saúde.\n\n8 - Os medicamentos destinados a tratamentos prolongados, constantes da tabela n.º 2 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, na sua redação atual, podem:\n\na) No caso de receita materializada, ser prescritos em receita eletrónica renovável, sem prejuízo das adaptações e especificações que venham a justificar-se, a aprovar por despacho do membro do Governo responsável pela área da saúde;\n\nb) No caso da receita desmaterializada, por cada ato de prescrição serem prescritas as embalagens necessárias para garantir o tratamento durante 12 meses.\n\n9 - Em casos excecionais e devidamente fundamentados pelo prescritor, para os medicamentos destinados a tratamentos de curta ou média duração, constantes da tabela n.º 1 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, na sua redação atual, podem efetuar-se prescrições com um número de embalagens superior ao permitido, desde que observados os seguintes requisitos:\n\na) A prescrição seja emitida obrigatoriamente de forma desmaterializada;\n\nb) A fundamentação seja inserida no Processo Clínico do Utente;\n\nc) As quantidades sejam adequadas e ajustadas à posologia instituída e à duração do tratamento.\n\nd) Seja inscrita uma das seguintes justificações:\n\ni) Posologia;\n\nii) Ausência prolongada do país;\n\n10 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. e o INFARMED Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., devem disponibilizar ao prescritor informação relativa a interações medicamentosas, por meios eletrónicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 138/2016 - Diário da República n.º 93/2016, Série I de 2016-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/138-2016-74443078), em vigor a partir de 2016-05-14"
+  },
+  "896271592": {
+   "fragment_id": "74448415",
+   "type": 11,
+   "heading": "Artigo 13.º — Vigência da prescrição",
+   "in_force_from": "2023-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 97/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/97-2023-211241821), em vigor a partir de 2023-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 13.º — Vigência da prescrição\n\n1 - As prescrições são válidas por 12 meses, exceto:\n\na) As receitas manuais que vigoram por 30 dias;\n\nb) As receitas materializadas relativas a medicamentos destinados a tratamentos de curta/média duração, constantes da tabela n.º 1 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, que vigoram por 30 dias;\n\nc) As linhas das receitas desmaterializadas relativas a medicamentos destinados a tratamentos de curta/média duração, constantes da tabela n.º 1 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, e que não se enquadrem na exceção prevista no n.º 9 do artigo 5.º, que vigoram por 30 dias.\n\n2 - A receita materializada pode ser renovável, contendo até três vias, com a indicação '1.ª via', '2.ª via' ou '3.ª via', que vigoram por 12 meses.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Os prazos de vigência previstos nos números anteriores contam-se a partir do dia seguinte à data da respetiva prescrição.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 97/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/97-2023-211241821), em vigor a partir de 2023-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "896271597": {
+   "fragment_id": "896271460",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Acesso pelo prescritor a prescrições e dispensas anteriores",
+   "in_force_from": "2023-08-18",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18"
+   ],
+   "markdown": "###### Artigo 13.º-A — Acesso pelo prescritor a prescrições e dispensas anteriores\n\nPara efeitos de otimização da terapêutica instituída, o médico tem acesso, no momento da prescrição, ao histórico de prescrições e dispensas efetuadas ao utente.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18"
+  },
+  "896271598": {
+   "fragment_id": "74448416",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação ao utente no momento da prescrição",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 14.º — Informação ao utente no momento da prescrição\n\n1 - Sem prejuízo do disposto nos números seguintes, no momento da prescrição por via eletrónica é disponibilizada ao utente o guia de tratamento.\n\n2 - O guia de tratamento é um documento pessoal e intransmissível.\n\n3 - O prescritor deve informar o utente que o guia de tratamento lhe é destinado, pelo que não deve ser deixado na farmácia.\n\n4 - O guia de tratamento, para além dos elementos constantes do n.º 2 do artigo 5.º, contém informação sobre os preços de medicamentos comercializados que cumpram os critérios da prescrição.\n\n5 - No caso da receita desmaterializada, o guia de tratamento contém, para além da informação referida no número anterior, o número da prescrição, o código matriz, o código de acesso e dispensa e o código do direito de opção.\n\n6 - Os modelos de guia de tratamento são aprovados por despacho do membro do governo responsável pela área da saúde.\n\n7 - Nos casos de receita desmaterializada, a informação constante no guia de tratamento e os códigos previstos no n.º 5 podem ser remetidos, no momento da prescrição, para o endereço de correio eletrónico do utente, por SMS, através da app MySNS, ou disponibilizados por outros meios eletrónicos, mantendo-se a possibilidade de, a pedido do utente, serem fornecidos em suporte papel.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "896271599": {
+   "fragment_id": "74448417",
+   "type": 11,
+   "heading": "Artigo 15.º — Opção do utente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Opção do utente\n\n1 - O utente tem direito de escolha de entre os medicamentos que cumpram a prescrição médica, exceto:\n\na) Nas situações previstas pelas alíneas a) e b) do n.º 3 do artigo 6.º e pelas alíneas a) e b) do n.º 3 do artigo 7.º;\n\nb) Em medicamentos comparticipados, na situação em que o medicamento prescrito contém uma substância ativa para a qual não exista medicamento genérico comparticipado ou para a qual só exista original de marca e licenças.\n\n2 - Nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º, o direito de opção do utente está limitado a medicamentos com preço inferior ao do medicamento prescrito.\n\n3 - O exercício, ou não, do direito de opção do utente, nos termos permitidos pela lei, é, consoante o caso, demonstrado através da respetiva assinatura, ou de quem o represente, em local próprio da receita médica, ou mediante a utilização do código do direito de opção, no momento da dispensa."
+  },
+  "896271600": {
+   "fragment_id": "74448418",
+   "type": 11,
+   "heading": "Artigo 16.º — Acesso à prescrição para efeitos de dispensa",
+   "in_force_from": "2023-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18"
+   ],
+   "markdown": "###### Artigo 16.º — Acesso à prescrição para efeitos de dispensa\n\n1 - A farmácia acede à prescrição do utente mediante a apresentação por este, ou pelo seu representante, do cartão do cidadão ou do número da prescrição, e do código de acesso e dispensa constante do guia de tratamento.\n\n2 - O farmacêutico pode ainda aceder a todas as prescrições e dispensas do utente, emitidas ou dispensadas nos últimos 12 meses, mediante o consentimento do utente, manifestado através da apresentação por este, ou pelo seu representante, do Número Nacional de Utente e do código de acesso e dispensa.\n\n3 - O código de acesso e dispensa e o código de direito de opção, para fins de acesso, ao histórico de prescrições e dispensas e para fins de dispensa de medicamentos e produtos de saúde, pode ser obtido através de mensagem escrita (SMS) ou por outro meio eletrónico desenvolvido para este fim.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18"
+  },
+  "896271601": {
+   "fragment_id": "74448419",
+   "type": 11,
+   "heading": "Artigo 17.º — Dispensa em geral",
+   "in_force_from": "2023-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 17.º — Dispensa em geral\n\n1 - No momento de dispensa, o farmacêutico, ou seu colaborador devidamente habilitado, deve informar o doente sobre o medicamento comercializado que, cumprindo a prescrição, apresente o preço mais baixo.\n\n2 - As farmácias devem ter disponíveis para venda, no mínimo, três medicamentos com a mesma substância ativa, forma farmacêutica e dosagem, de entre os que correspondam aos cinco preços mais baixos de cada grupo homogéneo.\n\n3 - As farmácias devem dispensar o medicamento de menor preço de entre os referidos no número anterior, salvo se for outra a opção do utente.\n\n4 - Nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º é vedada às farmácias a dispensa de medicamento com preço superior ao do medicamento prescrito.\n\n5 - As farmácias apenas podem dispensar, no máximo, a quantidade para garantir o tratamento durante dois meses.\n\n6 - Nas situações em que não seja possível determinar a quantidade necessária para garantir o tratamento, conforme indicado no número anterior, as farmácias podem dispensar um máximo de duas embalagens, por linha de prescrição, ou de quatro embalagens, no caso das embalagens em dose unitária, por mês.\n\n7 - As farmácias podem, em situações excecionais e mediante justificação, dispensar uma quantidade superior, nomeadamente nos seguintes casos:\n\na) Extravio, perda ou roubo de medicamentos;\n\nb) Ausência prolongada do país.\n\n8 - Em situações de rutura com impacto elevado na saúde pública identificadas pelo INFARMED, I. P., a farmácia pode dispensar outras embalagens do medicamento prescrito com uma forma farmacêutica e/ou dosagens equivalentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "896271602": {
+   "fragment_id": "74448420",
+   "type": 11,
+   "heading": "Artigo 18.º — Procedimento",
+   "in_force_from": "2023-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 18.º — Procedimento\n\n1 - No ato de dispensa de medicamentos prescritos em receita materializada ou em via manual, o farmacêutico, ou quem o coadjuve, deve datar, assinar e carimbar a receita médica, devendo ser impressos informaticamente os respetivos códigos identificadores, sem prejuízo de outras exigências aplicáveis, como é o caso da assinatura do utente.\n\n2 - No ato de dispensa de medicamentos prescritos em receita desmaterializada, independentemente da forma de acesso à prescrição, a farmácia apenas pode efetivar a dispensa após indicação, pelo utente, do respetivo código de acesso e dispensa.\n\n3 - Caso o utente, ou seu representante, no caso do número anterior, exerça o direito de opção relativamente a alguma das linhas de prescrição, deve indicar o respetivo código do direito de opção.\n\n4 - Se se tratar de uma receita manual, o utente ou o seu representante, deve assinar o verso da receita de forma legível para comprovar a dispensa efetuada, salvo se não souber ou não puder assinar, caso em que o farmacêutico consigna essa menção na receita.\n\n5 - Os dados do cartão de cidadão, bem como os códigos de acesso e dispensa e de direito de opção inseridos pelo utente não podem ser utilizados para finalidades diferentes das previstas no presente diploma, nem podem ser arquivados pelo sistema da farmácia.\n\n6 - O utente pode adquirir medicamentos ou produtos prescritos em diferentes linhas de prescrição da mesma receita desmaterializada em farmácias diferentes ou em momentos diferentes, exceto em situações de falência do sistema em que aplica o disposto no artigo 23.º\n\n7 - No momento da dispensa as farmácias podem, sempre que tal se justifique, remeter através dos respetivos sistemas informáticos notas terapêuticas relativamente a cada medicamento ou produto de saúde prescrito.\n\n8 - Para efeitos do disposto no número anterior, os sistemas informáticos devem ainda permitir a troca de informação entre o médico prescritor e o farmacêutico, que acedeu à prescrição, devendo estar devidamente identificados através do número de cédula profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "896271603": {
+   "fragment_id": "74448421",
+   "type": 11,
+   "heading": "Artigo 19.º — Dispensa de substâncias estupefacientes ou psicotrópicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dispensa de substâncias estupefacientes ou psicotrópicas\n\n1 - No ato de dispensa de medicamentos contendo substâncias classificadas como estupefacientes ou psicotrópicas, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, a farmácia procede ao registo informático da seguinte informação:\n\na) Identidade do utente ou do seu representante, nomeadamente o nome, data de nascimento, número e data do bilhete de identidade ou da carta de condução, ou o nome e número do cartão de cidadão, ou, no caso de estrangeiros, do passaporte;\n\nb) Identificação da prescrição através do número de prescrição;\n\nc) Identificação da farmácia, nomeadamente o nome e número de conferência de faturas;\n\nd) Identificação do medicamento, nomeadamente o número de registo e a quantidade dispensada;\n\ne) Data de dispensa.\n\n2 - Se a aquisição for efetuada pelo utente e no caso de dispensa de medicamentos prescritos por via eletrónica, o farmacêutico solicita ao utente a introdução do cartão de cidadão no dispositivo apropriado, bem como a autorização para acesso, exclusivo ao nome, número de identificação e data de nascimento, bem como para arquivo e comunicação desses dados, nos termos da presente portaria.\n\n3 - Se se tratar de uma receita manual ou materializada, o utente ou o seu representante deve assinar o verso da receita de forma legível para comprovar a dispensa efetuada, salvo se não souber ou não puder assinar, caso em que o farmacêutico consigna essa menção na receita."
+  },
+  "896271604": {
+   "fragment_id": "74448422",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo do receituário",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 20.º — Controlo do receituário\n\n1 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., disponibiliza ao INFARMED, I. P., o acesso aos dados de prescrição e de dispensa das prescrições por via eletrónica que incluam medicamentos dispensados contendo uma substância classificada como estupefaciente ou psicotrópica, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro.\n\n2 - Para os casos previstos no n.º 1 do artigo 8.º, as farmácias e os serviços de saúde públicos e privados enviam ao INFARMED, I. P., até ao dia 8 do mês seguinte àquele a que respeite, fotocópia da receita manual com medicamentos dispensados contendo uma substância classificada como estupefaciente ou psicotrópica, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro.\n\n3 - As farmácias conservam em arquivo adequado, pelo período de três anos, uma reprodução em papel ou em suporte informático das receitas manuais ou materializadas que incluam medicamentos estupefacientes ou psicotrópicos, organizadas por data de dispensa, onde conste, o código do medicamento e a quantidade dispensada e os dados do utente ou do seu representante, recolhidos nos termos da alínea a) do n.º 1 do artigo 19.º\n\n4 - O INFARMED, I. P., transmite ao serviço de saúde competente e à Ordem dos Médicos ou à Ordem dos Médicos Dentistas, consoante a prescrição tenha sido efetuada no exercício de funções públicas ou privadas, as situações, que registe no controlo de receituário, de consumo individual anormal de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica.\n\n5 - A SPMS, E. P. E., deve implementar mecanismos de controlo que permitam identificar situações de potencial risco de fraude, de forma a informar, sempre que solicitado, as entidades competentes em matéria de combate à fraude.\n\n6 - A SPMS, E. P. E., deve implementar mecanismos de retorno de informação de prescrição e dispensa aos utentes que permitam que o utente tenha informação e efetue uma gestão racional do seu acesso ao medicamento, nomeadamente:\n\na) Mecanismos de retorno de informação ao utente, sobre, entre outros aspetos, prescrição, embalagens dispensadas, custos e validade;\n\nb) Mecanismos de monitorização ativa da prescrição e da dispensa;\n\nc) Reforço dos mecanismos informáticos de autenticação e verificação de identidade dos prescritores;\n\nd) Diversificação dos meios de acesso à prescrição e à dispensa.\n\n7 - No âmbito das suas competências, a SPMS, E. P. E., pode efetuar auditorias aos mecanismos de prevenção e controlo da fraude, junto das instituições de saúde, públicas e privadas e fabricantes de software, bem como promover a implementação das melhores práticas que permitam salvaguardar a proteção dos dados individuais dos utentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  },
+  "896271605": {
+   "fragment_id": "74448423",
+   "type": 11,
+   "heading": "Artigo 21.º — Normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Normas técnicas\n\n1 - O INFARMED, I. P. e a ACSS, I. P., definem, aprovam conjuntamente e publicam nas respetivas páginas eletrónicas, as normas técnicas relativas à prescrição e dispensa e a calendarização da publicação das especificações técnicas.\n\n2 - A SPMS, E. P. E., define e publica na sua página eletrónica as especificações dos sistemas informáticos de prescrição por via eletrónica de medicamentos, incluindo prazos de implementação, prazos de adaptação e procedimentos relativos à declaração de conformidade.\n\n3 - Para efeitos da dispensa eletrónica, a ACSS, I. P., o INFARMED, I. P., e a SPMS, E. P. E., no âmbito das respetivas competências:\n\na) Definem as especificações técnicas dos sistemas informáticos de dispensa eletrónica;\n\nb) Definem os procedimentos a adotar no caso de falência do sistema informático, de modo a garantir o acesso ao medicamento por parte do utente;\n\nc) Definem as especificações e requisitos técnicos dos sistemas informáticos, bem como os processos de adesão à dispensa eletrónica e faturação eletrónica pelas farmácias e as ferramentas para a sua operacionalização.\n\n4 - A SPMS, E. P. E., emite as especificações técnicas e os requisitos de segurança necessários para produção da receita desmaterializada, incluindo os mecanismos a utilizar para esse efeito e a respetiva estrutura de dados."
+  },
+  "896271606": {
+   "fragment_id": "74448424",
+   "type": 11,
+   "heading": "Artigo 22.º — Programas informáticos de prescrição por via eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Programas informáticos de prescrição por via eletrónica\n\n1 - As normas, requisitos e especificações dos sistemas informáticos de prescrição por via eletrónica de medicamentos têm em atenção a adoção as medidas técnicas e organizativas adequadas à segurança e proteção dos dados, e são precedidas de parecer da Comissão Nacional de Proteção de Dados.\n\n2 - Os sistemas informáticos referidos no número anterior não devem, em caso algum, publicitar ou, por qualquer modo, veicular publicidade a medicamentos ou produtos de saúde.\n\n3 - A utilização dos sistemas informáticos está dependente da apresentação de declaração de conformidade do respetivo fornecedor junto da SPMS, E. P. E.\n\n4 - Para efeitos do disposto no número anterior a SPMS, E. P. E., regista e publica as declarações de conformidade dos sistemas informáticos.\n\n5 - No caso de serem detetadas desconformidades nos sistemas informáticos, as mesmas deverão ser comunicadas à SPMS, E. P. E., devendo esta entidade determinar as medidas necessárias à sua correção e proceder, sempre que aplicável, à comunicação às entidades competentes, designadamente à Comissão Nacional de Proteção de Dados quando esteja em causa matéria relativa a proteção de dados."
+  },
+  "896271607": {
+   "fragment_id": "74448425",
+   "type": 11,
+   "heading": "Artigo 23.º — Falência do sistema no momento da dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Falência do sistema no momento da dispensa\n\n1 - Caso se mostre impossível a consulta da receita desmaterializada, por falência do sistema, a farmácia deve proceder à dispensa, de acordo com os procedimentos definidos na alínea b) do n.º 3 do artigo 21.º\n\n2 - No caso previsto no número anterior, a dispensa só é possível numa única farmácia e de uma única vez.\n\n3 - Sempre que haja falência do sistema a farmácia não pode dispensar os medicamentos contendo substâncias classificadas como estupefacientes ou psicotrópicas, compreendidas nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro."
+  },
+  "896271608": {
+   "fragment_id": "74448426",
+   "type": 11,
+   "heading": "Artigo 24.º — Prova da prescrição e dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prova da prescrição e dispensa\n\nA prova, pelo utente, da prescrição desmaterializada e da dispensa, nomeadamente para efeito de comparticipação de medicamentos por entidades terceiras, pode fazer-se:\n\na) Mediante apresentação do guia de tratamento, conjuntamente com as respetivas faturas-recibo;\n\nb) Através de outros meios eletrónicos a definir por despacho do membro do governo responsável pela área da saúde."
+  },
+  "896271609": {
+   "fragment_id": "74448427",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissão de acompanhamento\n\nÉ criada a Comissão de Acompanhamento para a Implementação e Acompanhamento de todo o processo de desmaterialização da receita, designada por Comissão de Acompanhamento da Receita Sem Papel (CARSP), que integra os representantes dos vários entidades intervenientes no processo de prescrição eletrónica e dispensa de medicamentos, sendo a respetiva composição e competências definidas por despacho do membro do Governo responsável pela área da saúde."
+  },
+  "896271610": {
+   "fragment_id": "74448428",
+   "type": 11,
+   "heading": "Artigo 26.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposições transitórias\n\n1 - Mantêm-se em vigor os modelos de receita aprovados pelo Despacho n.º 15700/2012, publicado no Diário da República, 2.ª série, n.º 238 de 10 de dezembro de 2012, alterado pelo Despacho n.º 8990-C/2013, publicado no Diário da República, 2.ª série, n.º 130, de 9 de julho de 2013, até à sua substituição por novos modelos aprovados ao abrigo da presente portaria.\n\n2 - As normas técnicas previstas no artigo 21.º são publicadas no prazo de 30 dias após a entrada em vigor da presente portaria, mantendo-se vigentes até à sua aprovação as normas técnicas emitidas ao abrigo da portaria n.º 137-A/2012, de 11 de maio.\n\n3 - A adaptação dos sistemas de prescrição, de dispensa e de conferência ao disposto na presente portaria ocorre no prazo máximo de 90 dias após a publicação das normas técnicas previstas no artigo 21.º\n\n4 - Todas as remissões legais ou regulamentares efetuadas para a Portaria n.º 137-A/2013, de 11 de maio, em tudo o que não contrarie, consideram-se efetuadas para o regime estabelecido na presente portaria."
+  },
+  "896271611": {
+   "fragment_id": "74448429",
+   "type": 11,
+   "heading": "Artigo 27.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 137-A/2012, de 11 de maio;\n\nb) A Portaria n.º 224-A/2013, de 9 de julho."
+  },
+  "896271612": {
+   "fragment_id": "74448430",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "896271613": {
+   "fragment_id": "74448431",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 20 de julho de 2015."
+  },
+  "896271614": {
+   "fragment_id": "74448432",
+   "type": 14,
+   "heading": "Anexo I — Especificações técnicas das vinhetas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Especificações técnicas das vinhetas\n\na) Papel autoadesivo;\n\nb) Formato 45 mm x 25 mm;\n\nc) Impressão offset a uma cor com conceção gráfica de segurança (fundo). As vinhetas previstas no Anexo III apresentam um fundo de cor azul no n.º 1 e um fundo de cor verde no n.º 2.\n\nd) Impressão a preto das seguintes referências:\n\n- Código alfanumérico único por vinheta e correspondente código de barras;\n\n- Nome de médico e número de cédula profissional respetiva ou nome de local de prescrição e código respetivo\n\ne) Imagem holográfica 8 mm x 8 mm no canto superior direito da vinheta, com repetição de imagem Logótipo do Ministério Saúde, em película metálica prateada"
+  },
+  "896271615": {
+   "fragment_id": "74448433",
+   "type": 14,
+   "heading": "Anexo II — Modelo de vinheta identificativa do prescritor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Modelo de vinheta identificativa do prescritor\n\nPantone 305 U\n\n(ver documento original)"
+  },
+  "896271616": {
+   "fragment_id": "74448434",
+   "type": 14,
+   "heading": "Anexo III — Modelo de vinheta de identificação do local de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Modelo de vinheta de identificação do local de prescrição\n\n1 - Vinhetas de Local de Prescrição\n\nReferência cromática - Pantone 305 U\n\n(ver documento original)\n\n2 - Vinhetas de Local de Prescrição-Regime especial de comparticipação de medicamentos para pensionistas.\n\nReferência cromática - Pantone 374 U\n\n(ver documento original)"
+  },
+  "1144637675": {
+   "fragment_id": "74448408",
+   "type": 11,
+   "heading": "Artigo 6.º — Prescrição de medicamentos",
+   "in_force_from": "2026-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286-B/2026/1 - Diário da República n.º 127/2026, Suplemento, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2026-1144096118), em vigor a partir de 2026-07-04."
+   ],
+   "markdown": "###### Artigo 6.º — Prescrição de medicamentos\n\n1 - À prescrição de medicamentos aplicam-se as regras previstas no artigo anterior e as definidas nos números seguintes.\n\n2 - A prescrição pode, excecionalmente, incluir a denominação comercial do medicamento, por marca ou indicação do nome do titular da autorização de introdução no mercado, nas situações de:\n\na) Prescrição de medicamento com substância ativa para a qual não exista medicamento genérico ou biossimilar ou para a qual só exista original de marca e licenças;\n\nb) Justificação técnica do prescritor quanto à insuscetibilidade de substituição do medicamento prescrito.\n\n3 - Para efeitos do disposto no número anterior, são apenas admissíveis justificações técnicas nos seguintes casos:\n\na) Prescrição de medicamento com margem ou índice terapêutico estreito, conforme informação prestada pelo INFARMED, I. P.;\n\nb) Fundada suspeita, previamente reportada ao INFARMED, I. P., de intolerância ou reação adversa a um medicamento com a mesma substância ativa, mas identificado por outra denominação comercial;\n\nc) [Revogada.]\n\n4 - Para efeitos da alínea b) do número anterior, deve ser assinalada pelo prescritor em local próprio da receita e inclui obrigatoriamente ainda a seguinte menção: «Reação adversa prévia».\n\n5 - Considera-se não verificada a exceção prevista na alínea b) do n.º 2 nas seguintes situações:\n\na) A prescrição de medicamentos ao abrigo da alínea a) do n.º 3 não conforme com a informação disponibilizada pelo INFARMED, I. P.;\n\nb) A omissão da informação prevista no n.º 4.\n\n6 - A prescrição de medicamentos nos termos da alínea b) do n.º 3 deve ainda ser adequadamente registada, nomeadamente no processo clínico do doente, para efeitos de monitorização e controlo.\n\n7 - Sem prejuízo do disposto nos números anteriores, a título indicativo e para efeitos do disposto no n.º 2 do artigo 120.º do Decreto-Lei n.º 176/2006, de 30 de agosto, na sua atual redação, a prescrição de medicamentos, nas situações não abrangidas pelo n.º 2 do presente artigo, pode ainda incluir uma denominação comercial por marca ou indicação do nome do titular de introdução no mercado.\n\n8 - Para efeitos da monitorização e controlo da prescrição de medicamentos, a SPMS, E. P. E., envia, em formato digital, às Comissões de Farmácia e Terapêutica a informação anonimizada, relativa às prescrições previstas no n.º 3.\n\n9 - Sempre que a prescrição se destine a um pensionista abrangido pelo regime especial de comparticipação, deve constar na receita a sigla «R» junto dos dados do utente.\n\n10 - Sempre que a prescrição se destine a um utente abrangido por um regime especial de comparticipação de medicamentos em função de patologia, deve constar na receita a sigla «O» junto dos dados do utente, sendo ainda obrigatória, no campo da receita relativo à designação do medicamento, a menção ao despacho que consagra o respetivo regime.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286-B/2026/1 - Diário da República n.º 127/2026, Suplemento, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2026-1144096118), em vigor a partir de 2026-07-04."
+  },
+  "1144638275": {
+   "fragment_id": "74448409",
+   "type": 11,
+   "heading": "Artigo 7.º — Prescrição de medicamentos não comparticipados",
+   "in_force_from": "2026-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 286-B/2026/1 - Diário da República n.º 127/2026, Suplemento, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2026-1144096118), em vigor a partir de 2026-07-04."
+   ],
+   "markdown": "###### Artigo 7.º — Prescrição de medicamentos não comparticipados\n\n1 - À prescrição de medicamentos não comparticipados aplicam-se as regras previstas no artigo 5.º e as definidas nos números seguintes.\n\n2 - A prescrição de medicamentos não comparticipados pode incluir a denominação comercial do medicamento, por marca ou indicação do nome do titular da autorização de introdução no mercado.\n\n3 - Para os efeitos do disposto no n.º 3 do artigo 120.º do Decreto-Lei n.º 176/2006, de 30 de agosto, na redação dada pela Lei n.º 11/2012, de 8 de março, o prescritor indica na receita, as justificações técnicas que impedem o direito de opção do doente em relação ao medicamento prescrito nos seguintes casos:\n\na) Prescrição de medicamento com margem ou índice terapêutico estreito, de acordo com informação prestada pelo INFARMED, I. P.;\n\nb) Fundada suspeita, previamente reportada ao INFARMED, I. P., de intolerância ou reação adversa a um medicamento com a mesma substância ativa, mas identificado por outra denominação comercial;\n\nc) Prescrição de medicamento destinado a assegurar a continuidade de um tratamento com duração estimada superior a 28 dias.\n\n4 - As justificações referidas no número anterior são assinaladas pelo prescritor em local próprio da receita e incluem obrigatoriamente ainda as seguintes menções:\n\na) «Reação adversa prévia» em relação à alínea b) do número anterior;\n\nb) «Continuidade de tratamento superior a 28 dias» em relação à alínea c) do número anterior.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 286-B/2026/1 - Diário da República n.º 127/2026, Suplemento, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2026-1144096118), em vigor a partir de 2026-07-04."
+  },
+  "1144637875": {
+   "fragment_id": "74448417",
+   "type": 11,
+   "heading": "Artigo 15.º — Opção do utente",
+   "in_force_from": "2026-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286-B/2026/1 - Diário da República n.º 127/2026, Suplemento, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2026-1144096118), em vigor a partir de 2026-07-04."
+   ],
+   "markdown": "###### Artigo 15.º — Opção do utente\n\n1 - O utente tem direito de escolha de entre os medicamentos que cumpram a prescrição médica, exceto:\n\na) Nas situações previstas pelas alíneas a) e b) do n.º 3 do artigo 6.º;\n\nb) Em medicamentos comparticipados, na situação em que o medicamento prescrito contém uma substância ativa para a qual não exista medicamento genérico ou biossimilar comparticipado ou para a qual só exista original de marca e licenças.\n\n2 - [Revogado.]\n\n3 - O exercício, ou não, do direito de opção do utente, nos termos permitidos pela lei, é, consoante o caso, demonstrado através da respetiva assinatura, ou de quem o represente, em local próprio da receita médica, ou mediante a utilização do código do direito de opção, no momento da dispensa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286-B/2026/1 - Diário da República n.º 127/2026, Suplemento, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2026-1144096118), em vigor a partir de 2026-07-04."
+  },
+  "1144638075": {
+   "fragment_id": "74448419",
+   "type": 11,
+   "heading": "Artigo 17.º — Dispensa em geral",
+   "in_force_from": "2026-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286-B/2026/1 - Diário da República n.º 127/2026, Suplemento, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2026-1144096118), em vigor a partir de 2026-07-04.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+   ],
+   "markdown": "###### Artigo 17.º — Dispensa em geral\n\n1 - No momento de dispensa, o farmacêutico, ou seu colaborador devidamente habilitado, deve informar o doente sobre o medicamento comercializado que, cumprindo a prescrição, apresente o preço mais baixo.\n\n2 - As farmácias devem ter disponíveis para venda, no mínimo, três medicamentos com a mesma substância ativa, forma farmacêutica e dosagem, de entre os que correspondam aos cinco preços mais baixos de cada grupo homogéneo.\n\n3 - As farmácias devem dispensar o medicamento de menor preço de entre os referidos no número anterior, salvo se for outra a opção do utente.\n\n4 - [Revogado.]\n\n5 - As farmácias apenas podem dispensar, no máximo, a quantidade para garantir o tratamento durante dois meses.\n\n6 - Nas situações em que não seja possível determinar a quantidade necessária para garantir o tratamento, conforme indicado no número anterior, as farmácias podem dispensar um máximo de duas embalagens, por linha de prescrição, ou de quatro embalagens, no caso das embalagens em dose unitária, por mês.\n\n7 - As farmácias podem, em situações excecionais e mediante justificação, dispensar uma quantidade superior, nomeadamente nos seguintes casos:\n\na) Extravio, perda ou roubo de medicamentos;\n\nb) Ausência prolongada do país.\n\n8 - Em situações de rutura com impacto elevado na saúde pública identificadas pelo INFARMED, I. P., a farmácia pode dispensar outras embalagens do medicamento prescrito com uma forma farmacêutica e/ou dosagens equivalentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 286-B/2026/1 - Diário da República n.º 127/2026, Suplemento, Série I de 2026-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-2026-1144096118), em vigor a partir de 2026-07-04.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 263/2023 - Diário da República n.º 159/2023, Série I de 2023-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/263-2023-219991258), em vigor a partir de 2023-08-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284-A/2016 - Diário da República n.º 212/2016, 1º Suplemento, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/284-a-2016-75660778), em vigor a partir de 2016-11-05"
+  }
+ }
+}

@@ -1,0 +1,682 @@
+---
+schema_version: '1.0'
+id: pt:dre:150515:por
+title: Decreto Legislativo Regional n.º 9/99/A
+short_title: null
+summary: Disciplina as actividades de observação de cetáceos nos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 9/99/A
+official_date: null
+publication_date: '1999-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 68/1999, Série I-A de 1999-03-22
+  number: '68'
+  series: I
+  supplement: null
+  pages: 1605 - 1613
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/03/068a00/16051613.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2004-03-23'
+version_history:
+  file: decreto-legislativo-regional-9-99-a.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-03-23'
+    amending: pt:dre:217369:por
+    amending_title: Decreto Legislativo Regional n.º 10/2003/A
+    changes:
+    - Revoga Anexo II
+    - Revoga Anexo IV
+    - Revoga Anexo V
+  - date: '2004-03-23'
+    amending: pt:dre:209653:por
+    amending_title: Decreto Legislativo Regional n.º 13/2004/A
+    changes:
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/9/1999/a/cons/20040323/pt/html
+  oj: null
+  dre: '150515'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/9-1999-150515
+  internal: pt:dre:150515:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1999-150515
+  metadata_url: https://data.dre.pt/eli/declegreg/9/1999/a/cons/20040323/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1999-868786088
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1999-868786088
+  retrieved_at: '2026-10-22T13:09:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 45f67c02e219ca99a2c2ad048fa40128dab314b3b633747a818e1062d08ba948
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:09:38Z'
+  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-9-99-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Investigação Científica e Tecnológica
+- Mamífero Marinho
+- Contra-ordenação
+- Direcção Regional de Turismo
+- Ecologia
+- Ecoturismo
+- Fiscalização
+- Licenciamento
+- Proteção do Ambiente
+- Património Natural
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:217369:por
+  label: Revoga Anexo II; Revoga Anexo IV; Revoga Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369
+  date: '2003-03-22'
+- type: amended_by
+  target: pt:dre:209653:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2004-209653
+  date: '2004-03-23'
+article_structure:
+  article_count: 33
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:09:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 9/99/A
+
+Decreto Legislativo Regional n.º 9/99/A
+
+Observação de cetáceos
+
+O fim da caça à baleia - secular actividade com raízes sócio-económicas, culturais e religiosas, que enriquece a história das ilhas açorianas e a relação destas com o exterior - projecta uma nova realidade de inegável interesse para as comunidades envolvidas: a observação de cetáceos.
+
+A herança de um vasto património baleeiro e todas as medidas legislativas cautelares à sua preservação são elementos imprescindíveis, que denotam uma preocupação respeitadora do passado, sem deixar de evoluir para uma situação de prosperidade económica.
+
+Exigências ambientais do mundo de hoje, que fazem parte de um novo quadro de valores da humanidade, conduziram à extinção da baleação nos Açores, enquanto actividade industrial e comercial.
+
+Porém, essa envolvência ambiental remete-nos agora para a potenciação de outras vertentes deste património natural, que a relação dos homens com os cetáceos o mar encerra, permitindo assim que se retire os necessários proveitos ecológicos, científicos e turísticos, sem pôr em causa o equilíbrio do mundo marinho.
+
+Considerando que a revisão constitucional de 1997 consagrou expressamente a protecção dos recursos naturais e o turismo como matérias de interesse específico das Regiões Autónomas, no artigo 228.º, alíneas d) e l) da Constituição, pelo que, neste caso, o legislador regional apenas está limitado pela reserva de competência própria dos órgãos de soberania e pelos princípios fundamentais das leis gerais da República que vigorem no âmbito da presente proposta.
+
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma tem por objecto a disciplina das actividades de observação de cetáceos, a partir de plataformas, numa perspectiva de equilíbrio entre os interesses da protecção, conservação e gestão de cetáceos nos Açores e do desenvolvimento da animação turística regional.
+
+###### Artigo 2.º — Âmbito
+
+O presente diploma aplica-se nas águas territoriais e subzona económica exclusiva (ZEE) dos Açores a todas as espécies de cetáceos descritas para os Açores, enumeradas no anexo I, assim como para todas as espécies que nele não constem, mas relativamente às quais venha a ser reconhecida a sua ocorrência nas áreas mencionadas por instituições científicas, nacionais ou internacionais, oficialmente reconhecidas.
+
+###### Artigo 3.º — Definições
+
+1 - Para efeitos do presente diploma considera-se:
+
+a) «Baleia», todas as espécies comummente conhecidas por baleias enumeradas de 1 a 19 no anexo I;
+
+b) «Golfinho», todas as espécies comummente conhecidas como golfinhos ou toninhas e inclui as espécies enumeradas de 20 a 26 no anexo I;
+
+c) «Observação de cetáceos», o acto de observar cetáceos em estado selvagem e na Natureza, conduzido a partir de uma plataforma, seja esta uma embarcação, aeronave ou outro dispositivo não implantado em terra, independentemente da finalidade da observação, considerando-se ainda incluída no conceito a actividade de nadar com golfinhos;
+
+d) «Operação turística», uma operação de natureza comercial realizada regularmente com vista ao aprazimento dos clientes ou à satisfação de qualquer outro interesse não profissional destes e tendo por finalidade principal ou acessória a observação de cetáceos;
+
+e) «Operador turístico», pessoa singular ou colectiva licenciada para realizar observação de cetáceos, com os objectivos estabelecidos na alínea anterior;
+
+f) «Observação científica», o acto de conduzir um programa de investigação científica, não letal, em cetáceos em estado selvagem;
+
+g) «Observação recreativa», o acto de observar cetáceos, ocasionalmente e sem objectivos comerciais ou profissionais;
+
+h) «Operação de registo áudio-visual», as actividades não regulares de recolha e registo de imagem ou som, durante a observação de cetáceos, em qualquer suporte tecnicamente adequado e para fins comerciais ou profissionais;
+
+i) «Casos especiais», todas as actividades não definidas nas alíneas anteriores mas que possam ser enquadradas nos objectivos deste diploma;
+
+j) «Perturbação», o acto de causar danos físicos, de molestar ou de interferir, por qualquer forma, no bem-estar dos cetáceos, considerando-se eventuais sinais de perturbação, nomeadamente os comportamentos seguidamente indicados, perante a aproximação ou presença de plataformas ou nadadores:
+
+i) Alteração da direcção e da velocidade do movimento inicial dos cetáceos;
+
+ii) Natação evasiva e repetido evitamento da fonte de perturbação;
+
+iii) Prolongamento do tempo de mergulho, após a aproximação da(s) plataforma(s) ou nadador(es);
+
+iv) Batimentos repetidos da barbatana caudal na superfície da água;
+
+v) Movimentos dos adultos de forma a afastarem as crias ou a interporem-se entre elas e a(s) plataforma(s) ou nadador(es);
+
+vi) Silêncio (ausência de emissão de estalidos), durante mais de quinze minutos;
+
+vii) Defecação, à excepção das situações de mergulho, com elevação da barbatana caudal;
+
+viii) Afastamento, aceleração ou flexão brusca do corpo, associados a movimentos da cauda e da cabeça, acompanhados ou não de defecação;
+
+ix) Mergulho brusco de todo o grupo em actividade social, com elevação da barbatana caudal;
+
+x) Mergulhos curtos, de um a cinco minutos de duração, sem elevação da barbatana caudal dos animais em alimentação;
+
+l) «Grupo de cetáceos», grupo de animais que se encontrem dentro de uma área circular de 400 m de diâmetro, cujo centro deverá fixar-se no ponto que, idealmente, permita abranger o maior número possível de animais;
+
+m)  'Capacidade de carga', número máximo de plataformas, de passageiros por plataforma, de viagens diárias e ou outros factores considerados relevantes na operação turística, dentro de uma zona delimitada, e que será determinada em função de estudos científicos dirigidos quer à estatística da ocorrência de cetáceos, em grupo ou individualmente, quer à aferição dos níveis de tolerância dos animais relativamente à presença humana, a fixar por portaria conjunta dos membros do Governo Regional com competência nas áreas do turismo e do ambiente.
+
+2 - Em princípio, os sinais de perturbação descritos nas subalíneas vi) a x) da alínea j) do número anterior são específicos dos cachalotes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+### Capítulo II — Modalidades de observação de cetáceos
+
+###### Artigo 4.º — Modalidades
+
+Para efeitos do presente diploma, consideram-se as seguintes modalidades de observação de cetáceos:
+
+a) Operação turística;
+
+b) Operação de registo áudio-visual;
+
+c) Observação científica;
+
+d) Observação recreativa;
+
+e) Casos especiais.
+
+###### Artigo 5.º — Licenciamento das operações turísticas
+
+1 - A realização de operações turísticas nas áreas indicadas no artigo 2.º está sujeita a licenciamento pela Direcção Regional de Turismo (DRT), ouvida a Direcção Regional do Ambiente (DRA), devendo os interessados requerer a respectiva licença no prazo e nos termos a definir por portaria conjunta dos membros do Governo Regional com competência nas áreas do turismo e do ambiente.
+
+2 - (Revogado).
+
+3 - São concedidas licenças às pessoas singulares ou colectivas que:
+
+a) Tenham sede ou domicílio em países da União Europeia;
+
+b) Tenham declarado o início da sua actividade à administração fiscal e comprovem documentalmente que estão a cumprir a legislação fiscal nacional e regional;
+
+c) Comprovem documentalmente que têm a sua situação regularizada perante a segurança social nacional ou do país de residência ou sede, consoante os casos;
+
+d) Comprovem estar devidamente licenciadas para o exercício de actividades marítimo-turísticas na Região ou que estão a diligenciar a obtenção das licenças legalmente exigidas, nos termos a estabelecer por portaria conjunta dos membros do Governo Regional com competência nas áreas do turismo e do ambiente;
+
+e) Paguem a taxa devida pela licença a conceder no prazo estabelecido pela DRT;
+
+f) Comprovem estar dotadas do quadro técnico mínimo exigido no artigo 10.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 6.º — Conteúdo e forma
+
+1 - As licenças identificam as plataformas que podem ser utilizadas pelo respectivo titular na observação de cetáceos e podem introduzir limitações ao número e características das plataformas, ao número diário de viagens, áreas de operação e outros factores que venham a ser regulados na portaria mencionada na alínea m) do n.º 1 do artigo 3.º
+
+2 - O título das licenças e o respectivo processo de concessão serão aprovados por portaria do membro do Governo Regional com competência na área do turismo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 7.º — Validade das licenças
+
+1 - As licenças são inicialmente válidas por cinco anos, renovando-se automaticamente todos os anos, desde que não se verifique o incumprimento das regras estabelecidas no presente diploma e cumprido um nível mínimo de actividade a fixar por portaria do Secretário Regional da Economia.
+
+2 - A contagem dos prazos das licenças inicia-se sempre no dia 1 de Abril.
+
+3 - As licenças caducam imediatamente quando deixem de subsistir os requisitos previstos nas alíneas a) a f) do n.º 3 do artigo 5.º e no artigo 9.º e devem ser cassadas pela DRT, antes do termo do respectivo prazo e sem direito a indemnização, se:
+
+a) Devido a risco, actual ou potencial, para os cetáceos e ou para a qualidade e imagem do produto turístico, a DRT notificar os titulares da cassação das licenças com a antecedência mínima de um ano;
+
+b) A actividade do titular não atingir um nível mínimo, a fixar por portaria conjunta dos membros do Governo Regional com competência nas áreas do turismo e do ambiente;
+
+c) Não forem pagas as taxas devidas;
+
+d) Os respectivos titulares incorrerem em violação das normas do presente diploma e seus regulamentos.
+
+4 - No caso previsto na alínea a) do número anterior, as taxas pagas pelos titulares são reembolsadas em função do período decorrido desde a emissão até à cassação das licenças.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2004/A - Diário da República n.º 70/2004, Série I-A de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2004-209653), em vigor a partir de 2004-03-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 8.º — Excesso de procura de licenças
+
+1 - Sempre que se verifique um excesso de procura de licenças relativamente à capacidade de carga fixada para uma determinada área, as licenças disponíveis serão adjudicadas por concurso, a regular na portaria mencionada na alínea m) do n.º 1 do artigo 3.º
+
+2 - Sem prejuízo de outros critérios a definir na mesma portaria, as licenças disponíveis serão adjudicadas ao concorrente melhor dotado de recursos técnicos e humanos, que apresente o melhor programa de exploração turística, viável económica e financeiramente e compatível com a protecção dos cetáceos.
+
+###### Artigo 9.º — Plataformas de observação
+
+1 - É proibida a utilização de aeronaves, excepto para fins científicos ou de registos áudio-visuais, bem como de motas de água e pranchas motorizadas (jet-ski).
+
+2 - As plataformas de observação de cetáceos devem estar em conformidade com os requisitos técnicos estabelecidos na lei para a área onde vão operar e, além disso, estar dotadas com GPS e sistema de comunicações em VHF, não só para fins de navegação e segurança, mas também para registo da localização das observações de cetáceos.
+
+3 - Por portaria conjunta dos membros do Governo Regional com competência nas áreas do turismo e do ambiente, serão estabelecidas exigências específicas para os equipamentos de bordo e seus requisitos técnicos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 10.º — Meios humanos
+
+1 - As pessoas singulares ou colectivas licenciadas para operar turisticamente devem assegurar a colaboração de um quadro técnico mínimo, nomeadamente:
+
+a) Um técnico com formação média ou superior em áreas científicas afins da biologia marinha ou do comportamento animal, responsável pelo aconselhamento sobre a conduta perante os cetáceos, pela realização de acções de divulgação e pelo registo de informação relativa às observações de cetáceos;
+
+b) Tripulação habilitada académica e profissionalmente, nos termos da lei, para o exercício das suas funções, com conhecimento profundo das condições meteorológicas e oceanográficas da área onde opera a entidade licenciada, que tenha frequentado e obtido aprovação numa acção de formação sobre a conduta a ter perante os cetáceos;
+
+c) Guia ou monitor de bordo, que divulgue aos turistas informações relevantes sobre a vida marinha, os cetáceos em particular, e sobre a Região, cujas funções podem ser acumuladas com outras funções da tripulação.
+
+d) Vigia para localização de cetáceos a partir de terra, salvo quando disponham de outro sistema autónomo e eficaz de detecção de cetáceos que não seja proibido por lei;
+
+2 - A acção de formação mencionada na alínea b) do número anterior será regulamentada por portaria conjunta dos membros do Governo Regional com competência nas áreas da formação profissional, do turismo e do ambiente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 11.º — Deveres dos operadores
+
+1 - Os operadores devem:
+
+a) Exigir um termo de responsabilidade dos clientes, no qual estes assumam a responsabilidade por toda e qualquer lesão que lhes seja causada ao nadarem com golfinhos;
+
+b) Oferecer aos turistas informação significativa sobre as espécies de cetáceos e o seu habitat, com especial ênfase, se for o caso, nos riscos pessoais inerentes à natação com golfinhos, bem como um resumo das normas de conduta próprias da observação dos mesmos;
+
+c) Afixar o título da respectiva licença, em local bem visível, no centro de recepção e informação dos clientes;
+
+d) Fornecer à DRT, até ao fim de cada ano civil, a estatística da clientela da empresa durante o ano em causa, organizada por mês e nacionalidade;
+
+e) Sempre que solicitado pela DRT, com 15 dias de antecedência, autorizar o embarque gratuito nas suas plataformas de observadores científicos, em número não superior a três por ano;
+
+f) Colaborar com as autoridades fiscalizadoras da actividade, nomeadamente facultando o seu livre acesso às suas instalações e equipamentos e o embarque gratuito nas suas plataformas de observação, bem como toda a documentação e informação solicitadas.
+
+2 - As informações previstas na alínea d) do número anterior têm carácter confidencial e serão utilizadas exclusivamente para fins estatísticos ou de investigação científica.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 12.º — Suspensão da operação turística
+
+O Governo Regional pode decretar a suspensão total ou parcial da operação turística, com base em estudos científicos que comprovem haver risco significativo de a continuidade da operação ser nociva para o bem-estar dos animais, não sendo devida qualquer indemnização aos operadores turísticos licenciados, desde que notificados com a antecedência mínima de um ano.
+
+###### Artigo 13.º — Operações de registo áudio-visual
+
+1 - As operações de registo áudio-visual realizadas com aeronaves ou em derrogação de normas do capítulo III carecem de autorização, a requerer ao director regional de Ambiente no mínimo com 30 dias de antecedência, especificando:
+
+a) A identificação completa dos responsáveis;
+
+b) A descrição detalhada dos objectivos e metodologia da operação;
+
+c) A identificação das espécies alvo;
+
+d) A duração e local da operação;
+
+e) O tipo e as características das plataformas a utilizar;
+
+f) Outros equipamentos e meios humanos envolvidos, com os respectivos currículos;
+
+g) O tipo de contacto que pretendam efectuar com os cetáceos e quais as condições de excepção solicitadas relativamente às regras de conduta para observação de cetáceos nos Açores;
+
+h) A inventariação dos riscos da operação e das soluções adoptadas para os minimizar, bem como a avaliação da probabilidade de sucesso.
+
+2 - A autorização depende de parecer da DRT, que é vinculativo quando negativo e que se considera favorável se nada for comunicado à DRA no prazo de 15 dias.
+
+3 - A autorização pode ser condicionada à presença de um observador a bordo e ao fornecimento de exemplares do produto final da operação.
+
+4 - O requerimento pode ser indeferido com base, nomeadamente:
+
+a) Na sua extemporaneidade;
+
+b) Na valoração negativa de experiências anteriores, de toda a equipa responsável ou de alguns dos seus elementos, quer na observação de cetáceos quer na realização de trabalhos similares;
+
+c) Nos riscos da operação, se as soluções mitigadoras não forem consideradas suficientes.
+
+5 - A concessão das autorizações depende da prestação de caução, nos termos e montantes a fixar por portaria do membro do Governo Regional com competência na área do ambiente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 14.º — Observação científica
+
+As acções de observação científica regem-se pelo disposto no Decreto-Lei n.º 140/99, de 24 de Abril.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 15.º — Observação recreativa
+
+A observação recreativa não está sujeita a autorização ou licença administrativa.
+
+###### Artigo 16.º — Casos especiais
+
+A outras modalidades de observação directa ou indirecta de cetáceos não previstas nos artigos precedentes aplica-se o disposto no artigo 13.º, com as devidas adaptações.
+
+###### Artigo 17.º — Taxas
+
+O valor das taxas previstas nos artigos anteriores e os termos do seu pagamento serão fixados por portaria conjunta dos membros do Governo Regional com competência nas áreas das finanças e do turismo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+### Capítulo III — Conduta na observação de cetáceos
+
+###### Artigo 18.º — Regras gerais
+
+1 - As regras expressas no presente artigo e nos seguintes são aplicáveis a todas as modalidades de observação, independentemente das espécies, e todos os participantes têm o dever de as conhecer, aplicar e fazer aplicar, de acordo com as respectivas responsabilidades.
+
+2 - Na observação devem cumprir-se as seguintes regras:
+
+a) Evitar ruídos, na proximidade dos animais, que os perturbem ou atraiam;
+
+b) Avisar imediatamente as autoridades marítimas da localização de algum animal acidentalmente ferido ou do corpo de um cetáceo morto.
+
+3 - Na observação é proibido:
+
+a) Perseguir os cetáceos, considerando-se como tal, nomeadamente, a tentativa de aproximação aos animais, ainda que de acordo com as regras do artigo seguinte, quando aqueles evitem repetidamente a embarcação ou denotem os sinais de perturbação enunciados na alínea j) do n.º 1 do artigo 3.º;
+
+b) Provocar a separação de animais em grupo, especialmente o isolamento de crias;
+
+c) Alimentar os animais;
+
+d) A presença de mergulhadores com escafandro autónomo ou semiautónomo, assim como a utilização de veículos motorizados de deslocação subaquática, na área de aproximação dos cetáceos;
+
+e) Poluir o mar com resíduos sólidos ou líquidos;
+
+f) Utilizar o sonar, inclusive fora da área de aproximação.
+
+4 - A observação nocturna é proibida, excepto para fins científicos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 19.º — Aproximação
+
+1 - Considera-se que as plataformas ou pessoas se encontram em aproximação aos cetáceos a partir do ponto em que distam menos de 500 m do animal mais próximo, excepto quando sejam os próprios cetáceos a dirigir-se para junto da plataforma, caso em que esta deve manter rigidamente o seu rumo e velocidade iniciais até que os animais se afastem espontaneamente para além da distância atrás referida.
+
+2 - Durante a aproximação, deve-se:
+
+a) Ter em atenção o surgimento de outros animais nas imediações e vigiar a movimentação dos cetáceos;
+
+b) Manter um rumo paralelo e ligeiramente pela retaguarda dos animais, de modo que estes tenham um campo de 180.º livre à sua frente, segundo o esquema do anexo II;
+
+c) Evitar mudanças de direcção e sentido no rumo das embarcações utilizadas;
+
+d) Não exceder a velocidade de deslocação dos animais em mais de 2 nós, mantendo-a constante;
+
+e) (Revogada.)
+
+3 - É proibido:
+
+a) A utilização da marcha à ré, a não ser em situações de emergência;
+
+b) A aproximação a menos de 50 m de qualquer cetáceo, sem prejuízo de distâncias superiores a estabelecer por portaria conjunta dos membros do Governo Regional com competência nas áreas do turismo e do ambiente;
+
+c) A aproximação em embarcações à vela sem utilização de motor;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+4 - Caso os animais a observar se revelem muito activos, os responsáveis pelo governo das embarcações devem incrementar, em conformidade, os limites máximos de aproximação previstos nos números anteriores.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 20.º — Observação
+
+1 - O tempo total de permanência na área de aproximação, definida nos termos do n.º 1 do artigo anterior, é limitado ao máximo de trinta minutos.
+
+2 - Durante a observação de animais em deslocação, deve observar-se o disposto na alínea b) do n.º 2 do artigo anterior; em caso de observação à deriva, obrigatória sempre que os animais se aproximem das embarcações a menos de 50 m, os respectivos motores devem permanecer desengrenados.
+
+3 - Esgotado o tempo de observação ou sempre que os animais mostrem sinais de perturbação, as plataformas devem afastar-se para além da área de aproximação, pela retaguarda dos animais.
+
+4 - A observação em grupos de plataformas dentro do perímetro da área de aproximação obedece às seguintes regras, explicitadas no anexo II:
+
+a) É proibida a permanência de mais de três plataformas num raio de 300 m em redor do indivíduo ou grupo de cetáceos observado;
+
+b)  As embarcações devem deslocar-se paralelamente entre si, posicionando-se num sector de 60º à retaguarda dos animais;
+
+c) As manobras de aproximação serão coordenadas via rádio, pela embarcação que primeiramente entrar na área de aproximação, de modo a minimizar a perturbação nos animais;
+
+d) É proibida a permanência de embarcações num raio de 500 m em redor do animal ou grupo de animais que se encontrem imóveis, em descanso ou em actividade de parto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 21.º — Natação na área de aproximação
+
+1 - É proibida a natação com baleias.
+
+2 - A largada de nadadores na proximidade de golfinhos, bem como o limite máximo de aproximação aos mesmos pelos nadadores, são decisões da responsabilidade exclusiva de quem governe a embarcação, a tomar em função da prévia avaliação do comportamento dos animais e do estado do mar, devendo observar-se, com as devidas adaptações, o disposto no artigo anterior quando a largada envolva mais de uma embarcação.
+
+3 - As embarcações envolvidas na largada de nadadores devem ser especialmente assinaladas, em termos a estabelecer por portaria do membro do Governo Regional com competência na área do turismo, e dispor, no mínimo, além do tripulante afecto à sua governação, de outro, que estará equipado para a natação e que, durante a largada, se ocupará exclusivamente do apoio e vigilância dos nadadores.
+
+4 - Cada embarcação está limitada a um máximo de três tentativas para largada de nadadores.
+
+5 - Os nadadores, sempre equipados com dispositivos para mergulho em apneia e nunca em número superior a dois, devem permanecer juntos à superfície da água, dentro de um raio de 50 m relativamente à embarcação donde foram largados, calmos e o mais silenciosos que for possível, sendo proibido o contacto físico voluntário com os animais.
+
+6 - A permanência de nadadores na água não pode exceder quinze minutos.
+
+7 - Enquanto os nadadores permanecerem na água, o motor da embarcação deverá estar desengrenado.
+
+8 - A recolha dos nadadores deve ser feita com o mínimo de perturbação para os animais e mantendo, em relação a estes, uma distância superior a 50 m.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 22.º — Princípios específicos para baleias
+
+1 - É proibida a aproximação a crias de baleias quando sozinhas à superfície, bem como a aproximação a baleias com crias pequenas, a menos de 100 m.
+
+2 - A observação de baleias por grupos de embarcações obedece às seguintes regras específicas:
+
+a) É proibida a permanência de mais de três embarcações num raio de 500 m em redor de um indivíduo ou grupo de baleias;
+
+b) A precedência na observação é determinada pela ordem de entrada na área de aproximação ou pela maior proximidade aos animais quando estes emirjam a menos de 500 m de um conjunto de embarcações;
+
+c) Na área de aproximação, as embarcações devem deslocar-se paralelamente entre si, posicionando-se num sector de 60º à retaguarda dos animais, segundo o esquema do anexo II;
+
+d) As manobras de aproximação são coordenadas via rádio pela embarcação que tem precedência, de acordo com a alínea b);
+
+e) Cada embarcação pode permanecer em observação a menos de 500 m dos animais durante quinze minutos, no máximo, após o que se deve afastar para além dos 500 m, sendo-lhe vedado na mesma saída de mar voltar a aproximar-se do mesmo indivíduo ou grupo de baleias;
+
+f) Se os animais mergulharem durante o decurso do período de quinze minutos referido na alínea anterior, reinicia-se a sua contagem, mas a embarcação em causa perde precedência em relação às três embarcações que, eventualmente, se encontrem mais próximas dos animais no local onde estes venham a surgir de novo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 23.º — Princípios específicos aplicados às operações de registo áudio-visual
+
+Nas operações de registo áudio-visual devem observar-se, para além do disposto nos artigos 18.º, 19.º, 20.º e 22.º, os seguintes princípios:
+
+a) As plataformas a partir das quais se realizem as operações devem comunicar os objectivos da sua presença a qualquer outra plataforma que se encontre em observação na mesma área de aproximação;
+
+b) São interditas as operações de registo áudio-visual em simultâneo com as operações turísticas visando o mesmo grupo de cetáceos, tendo estas prioridade sobre as primeiras, excepto quando tenham por objecto o registo dessas mesmas operações;
+
+c) As operações devem ser assistidas por guias e cientistas locais com experiência na área da cetologia;
+
+d) O comportamento natural dos cetáceos não pode ser manipulado;
+
+e) Os produtos áudio-visuais finais resultantes das operações devem incluir, obrigatoriamente, uma explicação das precauções tomadas pelos profissionais de registo áudio-visual, para evitar a perturbação dos animais, durante as operações em causa, sempre que se destinem a divulgação ao público em geral.
+
+###### Artigo 24.º — Princípios específicos aplicados à observação recreativa
+
+As plataformas em que se realize observação recreativa devem dar prioridade a todas as outras modalidades de observação de cetáceos citadas no artigo 4.º deste diploma.
+
+### Capítulo IV — Fiscalização e sanções
+
+###### Artigo 25.º — Fiscalização
+
+1 - A fiscalização do cumprimento do presente diploma compete à autoridade marítima, nos termos da lei, e às Direcções Regionais de Turismo e do Ambiente.
+
+2 - Os operadores turísticos devem denunciar, a qualquer das entidades mencionadas no número anterior, todos os casos de infracção da lei por eles observados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 26.º — Contra-ordenações
+
+1 - Pratica contra-ordenação, punível com coima de (euro) 2500 a (euro) 3740 ou de (euro) 15000 a (euro) 40000, consoante seja, respectivamente, pessoa singular ou colectiva:
+
+a) Quem exerça operações de observação de cetáceos sem a licença ou autorizações exigidas no presente diploma;
+
+b) O operador turístico que viole o dever imposto pela alínea f) do n.º 1 do artigo 11.º;
+
+c) Quem realize operações turísticas durante o período de suspensão decretado ao abrigo do artigo 12.º;
+
+d) Quem viole as proibições impostas pelo n.º 1 do artigo 9.º, pelas alíneas a), b) e g) do n.º 3 e pelo n.º 4 do artigo 18.º, pelo n.º 3, excepto a sua alínea a), do artigo 19.º, pelo n.º 1 do artigo 21.º e pela alínea d) do artigo 23.º;
+
+e) Quem viole a norma específica de observação de baleias prevista no n.º 1 do artigo 22.º;
+
+f) Quem se encontre em observação recreativa em violação da norma de prioridade estabelecida no artigo 24.º
+
+2 - Pratica contra-ordenação, punível com coima de (euro) 1000 a (euro) 3740 ou de (euro) 5000 a (euro) 15000, consoante seja, respectivamente, pessoa singular ou colectiva:
+
+a) Quem utilize plataformas sem o equipamento GPS exigido no n.º 2 do artigo 9.º, sem o equipamento exigido na portaria referida no n.º 3 do artigo 9.º ou que utilize equipamento sem os requisitos técnicos estabelecidos no mesmo regulamento;
+
+b) O operador licenciado para operar turisticamente que não disponha do quadro técnico mínimo e com as qualificações estabelecidas no n.º 1 do artigo 10.º;
+
+c) Quem viole o dever imposto pela alínea a) do n.º 1 do artigo 11.º;
+
+d) Quem viole as proibições impostas pelas alíneas c), d) e f) do n.º 3 do artigo 18.º e pela alínea a) do n.º 3 do artigo 19.º;
+
+e) Quem viole as normas de aproximação definidas nos n.os 2 e 4 do artigo 19.º;
+
+f) Quem viole as normas de observação constantes dos n.os 1 e 4 do artigo 20.º;
+
+g) Quem viole as normas de natação junto aos golfinhos definidas no artigo 21.º;
+
+h) Quem viole as normas específicas de observação de baleias definidas no n.º 2 do artigo 22.º;
+
+i) Quem viole as normas específicas das operações de registo áudio-visual constantes das alíneas b) e c) do artigo 23.º
+
+3 - Constitui contra-ordenação, punível com coima de (euro) 250 a (euro) 2500 ou de (euro) 1500 a (euro) 5000, consoante o infractor seja, respectivamente, pessoa singular ou colectiva:
+
+a) A violação dos deveres previstos nas alíneas b) a e) do n.º 1 do artigo 11.º e no n.º 2 do artigo 18.º;
+
+b) A violação das normas de observação constantes dos n.os 2 e 3 do artigo 20.º;
+
+c) (Revogada.)
+
+d) A violação das normas específicas das operações de registo áudio-visual constantes das alíneas a) e e) do artigo 23.º
+
+4 - Pratica contra-ordenação, punível com coima de (euro) 150 até (euro) 2500 ou de (euro) 300 a (euro) 5000, consoante seja, respectivamente, pessoa singular ou colectiva, quem:
+
+a) Publicitar, por qualquer processo, a oferta ao público de produtos de observação turística de cetáceos que sejam proibidos por lei;
+
+b) Não proceder atempadamente aos averbamentos, comunicações ou actualizações de registos a que estejam obrigados.
+
+5 - A negligência e a tentativa são puníveis.
+
+6 - Pode ser determinada como sanção acessória:
+
+a) A imediata cassação da licença ou revogação da autorização, em caso de prática das contra-ordenações previstas nas alíneas b), d) e e) do n.º 1;
+
+b) A interdição do exercício da actividade por um período máximo de dois anos;
+
+c) A privação do direito a subsídio ou benefício concedido por entidades ou serviços públicos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 27.º — Equiparações
+
+A violação das condições estabelecidas nas autorizações concedidas ao abrigo dos artigos 13.º, 14.º e 16.º é equiparada à observação de cetáceos sem as autorizações legalmente exigidas em cada caso.
+
+###### Artigo 28.º — Competências
+
+1 - Compete às autoridades marítimas a instrução dos processos, sempre que tomem conhecimento, em primeiro lugar, dos factos indiciadores da prática de qualquer das contra-ordenações previstas no artigo 26.º; nos casos restantes, tal competência pertence à DRT.
+
+2 - Compete ao membro do Governo Regional com competência na área do turismo a aplicação das coimas de valor superior a (euro) 2500 e das sanções acessórias previstas nas alíneas b) e c) do n.º 6 do artigo 26.º; nos casos restantes, tal competência cabe ao director regional de Turismo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 29.º — Receitas
+
+1 - A receita arrecadada pela cobrança das coimas previstas no artigo 26.º reverte para a Região.
+
+2 - Quando a entidade autuante for a autoridade marítima, a receita reverte em 60% para a Região e o remanescente para aquela entidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 30.º — Apreensão de embarcações e aeronaves
+
+A solicitação da DRT ou por iniciativa própria, a autoridade marítima ou aeroportuária competentes podem apreender, nos termos da lei e nas áreas sob sua jurisdição, as embarcações ou aeronaves estrangeiras utilizadas na prática de contra-ordenação prevista neste diploma ou seus regulamentos até que se prove o pagamento total das coimas e custas processuais ou seja prestada caução suficiente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 31.º — Regulamentação
+
+Sem prejuízo das competências regulamentares especialmente previstas nas disposições anteriores, as medidas regulamentares necessárias à boa execução da presente lei são adoptadas por portaria conjunta dos membros do Governo Regional com competência nas áreas do turismo e do ambiente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+###### Artigo 32.º — Direito transitório
+
+1 - As pessoas singulares ou colectivas que, anteriormente à data de entrada em vigor do presente diploma, tinham por objecto a realização de operações turísticas de observação de cetáceos devem, caso pretendam prosseguir tal actividade, requerer a licença prevista no presente diploma nos 30 dias seguintes àquela data, sob pena de incorrerem na sanção prevista na alínea a) do n.º 1 do artigo 26.º
+
+2 - No caso previsto no número anterior, as pessoas singulares ou colectivas terão de comprovar e cumprir o disposto no n.º 2 do artigo 5.º, salvo a respectiva alínea f), para cujo cumprimento dispõem do prazo de um ano contado da entrada em vigor do presente diploma, sob pena de caducidade da licença entretanto concedida.
+
+3 - A acção de formação mencionada na alínea b) do artigo 10.º é de inscrição obrigatória para as tripulações das plataformas utilizadas pelas pessoas singulares ou colectivas abrangidas pelo número anterior, sob pena de estas incorrerem na sanção prevista na alínea a) do n.º 2 do artigo 26.º
+
+###### Artigo 33.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Janeiro de 1999.
+
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
+
+Assinado em Angra do Heroísmo em 26 de Fevereiro de 1999.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
+
+## Anexo I — Lista de espécies de cetáceos dos Açores
+
+(ver lista no documento original)
+
+## Anexo II — Ficha de registo das observações
+
+(ver modelo no documento original)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-23
+
+## Anexo II — Princípios relativos à observação de cetáceos por uma embarcação
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-27
+
+## Anexo IV — Observação de cetáceos por aeronaves
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-23
+
+## Anexo V — Princípios relativos à observação de cetáceos por mais de uma embarcação
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2003/A - Diário da República n.º 69/2003, Série I-A de 2003-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2003-217369), em vigor a partir de 2003-03-23

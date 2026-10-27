@@ -1,0 +1,173 @@
+---
+schema_version: '1.0'
+id: pt:dre:116747965:por
+title: Resolução do Conselho de Ministros n.º 139/2018
+short_title: null
+summary: Cria o grupo de acompanhamento da implementação da reforma do modelo de gestão dos meios aéreos e define o modelo
+  de transição do comando e gestão centralizados dos meios aéreos de combate a incêndios rurais
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 139/2018
+official_date: null
+publication_date: '2018-10-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/2018, Série I de 2018-10-23
+  number: '204'
+  series: I
+  supplement: null
+  pages: 5059 - 5060
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/10/20400/0505905060.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre/pt/html
+  oj: null
+  dre: '116747965'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/139-2018-116747965
+  internal: pt:dre:116747965:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/139-2018-116747965
+  metadata_url: https://data.dre.pt/eli/resolconsmin/139/2018/10/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/139-2018-116747965
+  consolidated_url: null
+  retrieved_at: '2026-10-27T01:03:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6a2dfaea1e048027c4e126f56f23756f2956d7b6eb802b4bf460d18a3712ae72
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T01:03:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeronave com Motor
+- Autoridade Nacional de Protecção Civil
+- Definição de Competências
+- Financiamento
+- Força Aérea
+- GNR
+- Grupo para o Acompanhamento da Implementação da Reforma do Modelo de Comando e Gestão Centralizados dos Meios Aéreos
+- Incêndio
+- Instituto da Conservação da Natureza e das Florestas
+- Prevenção de Incêndios
+- Sistema de Gestão Integrada de Fogos Rurais
+relationships:
+- type: repealed_by
+  target: pt:dre:159841269:por
+  label: Revogado o n.º 15 pelo(a) Resolução do Conselho de Ministros n.º 27/2021 - Diário da República n.º 56/2021, Série
+    I de 2021-03-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/27-2021-159841269
+  date: '2021-03-22'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T01:03:20Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 139/2018
+
+A [Resolução do Conselho de Ministros n.º 157-A/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114109966/details/normal?l=1), de 27 de outubro, prevê a reforma do modelo de gestão dos meios aéreos que integram o Dispositivo Especial de Combate a Incêndios Rurais (DECIR), no âmbito da capacitação do sistema de gestão integrada de fogos rurais, e confia à Força Aérea o comando e gestão centralizados dos meios aéreos de combate a incêndios rurais por meios próprios do Estado ou outros que sejam sazonalmente necessários.
+
+Foi criado um Grupo de Trabalho, através do Despacho n.º 10963/2017, de 5 de dezembro, publicado no Diário da República, 2.ª série, n.º 239, de 14 de dezembro, e do Despacho n.º 595/2018, de 22 de dezembro de 2017, publicado no Diário da República, 2.ª série, n.º 9, de 12 de janeiro, tendo o mesmo elaborado um relatório sobre esta matéria.
+
+Encontrando-se em revisão a lei orgânica da Autoridade Nacional de Proteção Civil, que estabelecerá os mecanismos de articulação com a Força Aérea e a repartição das respetivas responsabilidades no quadro do novo modelo de gestão dos meios aéreos de combate aos incêndios rurais, a presente resolução tem já em linha de conta as diretrizes aí previstas.
+
+Pretende-se, assim, implementar a gestão centralizada dos meios aéreos pela Força Aérea e intensificar a edificação da capacidade permanente de combate aos incêndios rurais.
+
+Neste quadro, o Estado Português irá reforçar a capacidade permanente e própria de meios aéreos face às necessidades operacionais.
+
+Considerando o risco específico de incêndio florestal, o dispositivo próprio permanente será ainda reforçado por um dispositivo complementar, no nível de maior empenhamento operacional.
+
+Assim:
+
+Nos termos do disposto no n.º 12 da Parte I. B) da [Resolução do Conselho de Ministros n.º 157-A/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114109966/details/normal?l=1), de 27 de outubro, e na alínea b) do n.º 2 do artigo 32.º da [Lei n.º 27/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/537862/details/normal?l=1), de 3 de julho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar um Grupo para o acompanhamento da implementação da reforma do modelo de comando e gestão centralizados dos meios aéreos, composto por:
+
+a) Quatro elementos designados pelo membro do Governo responsável pela área da defesa nacional;
+
+b) Quatro elementos designados pelo membro do Governo responsável pela área da administração interna.
+
+2 - Determinar que a Força Aérea assuma a posição contratual da Autoridade Nacional de Proteção Civil (ANPC) no âmbito dos contratos plurianuais de locação de meios aéreos referentes ao DECIR, celebrados em 2018, abrangendo 8 aviões médios anfíbios, 2 aviões pesados anfíbios, 2 aviões de coordenação e 10 helicópteros ligeiros, com efeito a partir de 1 de janeiro de 2019.
+
+3 - Estabelecer que a Força Aérea inicia, de imediato e em coordenação com a ANPC, os procedimentos pré-contratuais necessários à locação de meios aéreos e à aquisição de serviços relativos à operação, manutenção e gestão da aeronavegabilidade dos meios próprios do Estado, para o dispositivo de ataque inicial a empenhar no DECIR de 2019 e, se possível, para os anos seguintes.
+
+4 - Determinar que se inicie a transferência da ANPC para a Força Aérea do processo de comando e gestão centralizada dos meios aéreos próprios do Estado.
+
+5 - Determinar que a Força Aérea inicia no imediato os procedimentos para a operação, manutenção, a gestão e, quando necessário, a reposição da aeronavegabilidade das aeronaves do Estado, nomeadamente:
+
+a) Da frota de helicópteros ligeiros ECUREUIL AS 350 B3, no termo do contrato vigente de operação, manutenção e gestão da aeronavegabilidade permanente;
+
+b) Da frota de helicópteros pesados KAMOV 32AllBC;
+
+c) Das frotas de aeronaves, tripuladas ou não tripuladas, que futuramente venham a ser adquiridas.
+
+6 - Determinar que:
+
+a) Os meios aéreos referidos do número anterior sejam transferidos para a Força Aérea livres de ónus ou encargos, nomeadamente de natureza administrativa, financeira e jurídica;
+
+b) No momento da transferência seja elaborado e apresentado o ponto de situação administrativa, financeira e jurídica da execução dos contratos vigentes;
+
+c) Os meios aéreos transferidos sejam objeto de auditoria e avaliação, a realizar pela Autoridade Nacional de Aviação Civil (ANAC), ANPC e Força Aérea, sobre as condições de aeronavegabilidade e, se necessário, consequente plano técnico e financeiro para a reposição da condição de voo das aeronaves.
+
+7 - Atribuir à Força Aérea o comando e a gestão centralizados dos meios aéreos no âmbito das missões de Proteção Civil, nomeadamente os integrados no DECIR.
+
+8 - Estabelecer que a definição do dispositivo de meios aéreos, no que concerne à sua tipologia, número, localização e período da operação, é efetuada pela ANPC, em coordenação com a Força Aérea, nos termos do n.º 15.
+
+9 - Atribuir à ANPC o despacho de meios aéreos e o subsequente emprego dos mesmos em resposta aos incêndios rurais, o acionamento e emprego de meios aéreos no âmbito das demais missões de Proteção Civil, incluindo, em articulação com a Força Aérea, o pré-posicionamento e vigilância aérea armada.
+
+10 - Determinar que o Grupo para o acompanhamento elabore, até ao final de 2018, a proposta de diretiva operacional que estabelece os mecanismos de coordenação entre ANPC e a FA, bem como uma proposta de dispositivo de meios aéreos próprios e permanentes do Estado para operações de proteção civil, designadamente para o combate a incêndios rurais, contemplando a tipologia e o número dos meios a adquirir, identificando os custos e eventuais fontes de financiamento para as várias opções, e um cronograma para implementação das respetivas capacidades, sujeito a parecer da ANPC, da Força Aérea, da Guarda Nacional Republicana, da Estrutura de Missão para a Instalação do Sistema de Gestão Integrada de Fogos Rurais (SGIFR) e do Instituto da Conservação da Natureza e das Florestas (ICNF), no respeitante às capacidades operacionais dos mesmos.
+
+11 - Estabelecer que os meios aéreos permanentes do Estado são baseados preferencialmente nas infraestruturas do Estado, podendo, em qualquer caso, ser reposicionados em função da conveniência operacional.
+
+12 - Determinar que à Força Aérea seja atribuído financiamento específico e autónomo para suportar todos os encargos relacionados com a edificação, sustentação e operação do novo modelo de comando e gestão centralizados de meios aéreos em missões de proteção civil, incluindo a reposição da condição de voo de aeronaves, bem como, a construção de infraestruturas e o recrutamento e formação de pessoal.
+
+13 - Determinar que à ANPC seja atribuído financiamento específico e autónomo para suportar todos os encargos relacionados com o exercício do previsto nos n.os 8 e 9, incluindo a operacionalidade das Bases Permanentes e os Centros de Meios Aéreos, se estes não forem Unidades da Força Aérea.
+
+14 - Determinar que sejam promovidas todas as alterações organizacionais na Força Aérea e na ANPC, de modo a enquadrar a adaptação a esta nova realidade, e acomodar o modelo resultante desta reforma, a regular por legislação própria.
+
+15 - Determinar que a ANPC, até 30 de novembro de cada ano e sem prejuízo de uma programação plurianual no sentido de reajustar o dispositivo em função dos recursos disponíveis e dos contratos em vigor ou a celebrar, informe a Força Aérea:
+
+a) Das suas necessidades, em relação às operações de proteção civil durante todo o ano, nomeadamente em relação às Bases Permanentes a partir das quais as operações podem ser lançadas, no máximo de quatro no Continente e de preferência Unidades da Força Aérea, o número de meios necessários e as suas capacidades, o início e fim da operação diária e anual;
+
+b) Das suas necessidades em relação às operações de combate a incêndios rurais, durante os períodos mais críticos, nomeadamente em relação aos Centros de Meios Aéreos a partir dos quais as operações podem ser lançadas, o tipo, o número de meios necessários, as suas capacidades e o início e fim da operação diária, sazonal e anual.
+
+16 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua aprovação.
+
+Presidência do Conselho de Ministros, 4 de outubro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+111750292

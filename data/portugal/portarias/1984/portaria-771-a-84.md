@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:536617:por
+title: Portaria n.º 771-A/84
+short_title: null
+summary: Altera para 31 de Dezembro de 1984 os prazos previstos no n.º 6 da alínea b) do n.º 5.º e na alínea a) do n.º 8.º
+  da Portaria n.º 110-A/84, de 20 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, do Trabalho e Segurança Social e do Comércio e Turismo
+proposing_entity: null
+official_number: 771-A/84
+official_date: null
+publication_date: '1984-10-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/1984, 1º Suplemento, Série I de 1984-10-01
+  number: '228'
+  series: I
+  supplement: null
+  pages: 3020-(1) a 3020-(1)
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/10/22801/00010001.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '536617'
+  dre_path: /dr/detalhe/portaria/771-a-1984-536617
+  internal: pt:dre:536617:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-a-1984-536617
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/771-a-1984-536617
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d61d4ad445e4819fc8d952eae2f8592db70efa5a90eb2e2fee54868d2c2bf1a8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:12:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Liquidatária
+- Extinção de Empresas
+- Gelmar
+relationships:
+- type: amended_by
+  target: pt:dre:324300:por
+  label: Última alteração registada na importação inicial
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:12:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 771-A/84
+
+de 1 de Outubro
+
+1 - Nos termos do n.º 6 da alínea b) do n.º 5.º da Portaria n.º 110-A/84, de 20 de Fevereiro, competiria à comissão liquidatária da GELMAR - Empresa Distribuidora de Produtos Alimentares, Lda., submeter o relatório e contas dos exercícios de 1983 e 1984, até à extinção da empresa, bem como o inventário de todos os bens e direitos da mesma, à aprovação dos Secretários de Estado das Finanças e do Comércio Interno até 30 de Setembro de 1984.
+
+2 - Nos termos da alínea a) do n.º 8.º da mesma portaria, a referida comissão deveria ainda proceder, também até 30 de Setembro de 1984, à apreciação das reclamações e impugnações dos créditos sobre a empresa, assim como à publicação do mapa dos mesmos.
+
+3 - Porém, o grande volume e complexidade dos créditos reclamados, bem como as dificuldades havidas no levantamento dos créditos da empresa, não permitem, conforme fundamenta a sua comissão liquidatária, que aquele prazo venha a ser cumprido.
+
+Assim, ao abrigo do artigo 11.º do Decreto-Lei n.º 57-D/84, de 20 de Setembro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, do Trabalho e Segurança Social e do Comércio e Turismo, que os prazos previstos no n.º 6 da alínea b) do n.º 5.º e na alínea a) do n.º 8.º da Portaria n.º 110-A/84, de 20 de Fevereiro, sejam alterados para 31 de Dezembro de 1984.
+
+Ministérios das Finanças e do Plano, do Trabalho e Segurança Social e do Comércio e Turismo.
+
+Assinada em 12 de Outubro de 1984.
+
+Pelo Ministro das Finanças e do Plano, Rui Jorge Martins dos Santos, Secretário de Estado das Finanças. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno.

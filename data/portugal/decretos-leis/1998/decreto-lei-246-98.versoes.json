@@ -1,0 +1,375 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:438176:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-165095913",
+ "dre_path": "/dr/detalhe/decreto-lei/246-1998-438176",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165096002",
+    "165096003",
+    "165096004",
+    "165096005",
+    "165096006",
+    "165096007",
+    "165096008",
+    "165096009",
+    "165096010",
+    "165096011",
+    "165096012",
+    "165096013",
+    "165096014",
+    "165096015",
+    "165096016",
+    "165096017",
+    "165096018",
+    "165096019",
+    "165096020",
+    "165096021",
+    "165096022"
+   ]
+  },
+  {
+   "date": "1999-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:316942:por",
+     "title": "Lei n.º 37/99",
+     "published": "1999-05-26",
+     "dre_path": "/dr/detalhe/lei/37-1999-316942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "165096002",
+    "165096003",
+    "215603939",
+    "855278193",
+    "215603940",
+    "215603941",
+    "215603942",
+    "215603943",
+    "165096010",
+    "215603944",
+    "855278194",
+    "165096013",
+    "165096014",
+    "215603945",
+    "165096016",
+    "165096017",
+    "165096018",
+    "215603946",
+    "165096020",
+    "215603947",
+    "165096022",
+    "165096023"
+   ]
+  }
+ ],
+ "fragments": {
+  "165096002": {
+   "fragment_id": "165095914",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 246/98\n\nde 11 de Agosto\n\nA Lei n.º 95/88, de 17 de Agosto, estabeleceu os direitos de actuação e participação das associações de mulheres.\n\nPosteriormente a Lei n.º 10/97, de 12 de Maio, veio reforçar esses direitos, não só reconhecendo àquelas associações o estatuto de parceiro social, como concedendo-lhes o direito a apoio para o desenvolvimento de actividades, com vista à igualdade de oporturnidades.\n\nNeste contexto, o Estado não só pode como deve contribuir para melhorar a qualidade do desempenho das associações de mulheres que se empenhem no aprofundamento da cidadania, através da eliminação das várias formas de discriminação contra as mulheres, ainda verificadas na nossa sociedade.\n\nPara isso é fundamental delimitar os sectores de actuação e estabelecer mecanismos de responsabilização, transparência e controlo quer das decisões quer das actividades que afectam as/os cidadãs/os.\n\nAssim, nos termos do artigo 5.º da Lei n.º 10/97, de 12 de Maio, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "165096003": {
+   "fragment_id": "165095915",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma disciplina o processo de reconhecimento de representatividade genérica, as formas de apoio técnico e financeiro e o registo das associações não governamentais de mulheres, adiante designadas ONGM."
+  },
+  "165096004": {
+   "fragment_id": "165095916",
+   "type": 11,
+   "heading": "Artigo 2.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reconhecimento\n\n1 - O reconhecimento de representatividade genérica depende de requerimento da ONGM interessada e da verificação dos requisitos legais, previstos na Lei n.º 95/88, de 17 de Agosto.\n\n2 - O requerimento referido no número anterior é dirigido ao Alto-Comissário para a Igualdade e a Família, adiante designado por Alto-Comissário, instruído com os seguintes documentos:\n\na) Cópia dos estatutos e do respectivo extracto, publicado no Diário da República;\n\nb) Cópia do cartão de identificação de pessoa colectiva da associação;\n\nc) Declaração onde conste o número total de associados e o âmbito territorial de actuação, cujo modelo será aprovado por portaria do membro do Governo competente.\n\n3 - O Gabinete do Alto-Comissário envia à Comissão para a Igualdade e para os Direitos das Mulheres, adiante designada por CIDM, cópia dos elementos referidos no número anterior.\n\n4 - Anualmente, durante o mês de Janeiro, as ONGM devem enviar ao Alto-Comissário a confirmação do número de associados, de acordo com a declaração referida na alínea c) do n.º 1."
+  },
+  "165096005": {
+   "fragment_id": "165095917",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instrução do processo\n\n1 - A CIDM reúne todos os elementos e emite parecer no prazo de 15 dias a contar da recepção dos documentos referidos no n.º 2 do artigo anterior.\n\n2 - A CIDM pode solicitar, complementarmente, quaisquer informações ou outros documentos que considere imprescindíveis à tomada de decisão, ficando suspenso o prazo referido no n.º 1 do presente artigo."
+  },
+  "165096006": {
+   "fragment_id": "165095918",
+   "type": 11,
+   "heading": "Artigo 4.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Decisão\n\nO Alto-Comissário profere a decisão no prazo máximo de 10 dias a contar da data da recepção do parecer referido no artigo anterior."
+  },
+  "165096007": {
+   "fragment_id": "165095919",
+   "type": 11,
+   "heading": "Artigo 5.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recurso\n\nNo caso de indeferimento, podem os interessados recorrer da decisão a que se refere o artigo anterior para o membro do Governo responsável pelos assuntos da igualdade, com competências próprias ou delegadas, no prazo de 10 dias a contar da notificação."
+  },
+  "165096008": {
+   "fragment_id": "165095920",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicidade\n\nO Alto-Comissário promove, no prazo de 10 dias, a publicação no Diário da República do extracto da decisão proferida nos termos do artigo 4.º do presente regulamento, independentemente da interposição do recurso previsto no artigo anterior."
+  },
+  "165096009": {
+   "fragment_id": "165095921",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio do Estado\n\n1 - O Estado apoia e valoriza o contributo das ONGM na execução das políticas nacionais para a promoção da igualdade de oportunidades entre mulheres e homens.\n\n2 - O apoio do Estado efectiva-se através da prestação de ajuda de carácter técnico e financeiro às ONGM que desenvolvam as seguintes actividades sob a forma de programas, projectos ou acções e que tenham como objectivo:\n\na) A mudança de atitudes e mentalidades, no âmbito da igualdade de oportunidades, nomeadamente ao nível da educação, da cultura e dos meios de comunicação social;\n\nb) A prestação de assistência médica, pedagógica e psicológica às mulheres vítimas de violência doméstica e abusos sexuais e às que sofram de problemas específicos de isolamento;\n\nc) A formação técnica de suporte a iniciativas empresariais, com vista a estimular a actividade empreendedora das mulheres;\n\nd) A formação profissional, de forma a fomentar o aumento da participação das mulheres em áreas profissionais novas ou onde estão sub-representadas;\n\ne) A criação de serviços de apoio que visem facilitar a conjugação da vida familiar com a actividade profissional;\n\nf) O intercâmbio de experiências e de informações, na perspectiva do estabelecimento duradouro de uma dinâmica de desenvolvimento da igualdade de oportunidades e da melhoria da qualidade de vida das mulheres;\n\ng) O estudo e a investigação destinados à formulação de novas propostas para completar e reforçar o quadro jurídico em matéria de igualdade de oportunidades;\n\nh) O estudo e a investigação, nomeadamente sobre o valor económico do trabalho doméstico, da participação na exploração agrícola e da prestação de cuidados de assistência a familiares;\n\ni) O combate à exploração da prostituição e do tráfico de mulheres e à concretização de medidas de apoio às mulheres vítimas de tráfico.\n\n3 - O apoio referido no número anterior não pode exceder 60% do total do valor do programa, projecto ou acção.\n\n4 - Em caso algum os apoios se destinam às despesas com a aquisição, construção, conservação ou reparação das instalações afectas às ONGM."
+  },
+  "165096010": {
+   "fragment_id": "165095922",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios para apreciação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios para apreciação dos pedidos\n\n1 - Os pedidos de apoio formulados ao abrigo do artigo anterior são apreciados de acordo com os seguintes critérios:\n\na) A idoneidade e a capacidade organizacional;\n\nb) A qualidade técnica da acção proposta, nomeadamente quanto aos objectivos, conteúdos programáticos e duração da acção;\n\nc) A coerência entre o conteúdo da acção pretendida, as competências e as experiências profissionais possuídas;\n\nd) A relação entre o custo e os resultados esperados;\n\ne) As zonas abrangidas e o público alvo;\n\nf) A continuidade e a estabilidade dos efeitos pretendidos;\n\ng) A participação de trabalho de voluntariado;\n\nh) O grau de carência da região abrangida pela actividade.\n\n2 - O apoio não será concedido às ONGM que se encontrem em dívida para com o Estado e a segurança social."
+  },
+  "165096011": {
+   "fragment_id": "165095923",
+   "type": 11,
+   "heading": "Artigo 9.º — Formalização do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formalização do pedido\n\n1 - As ONGM devem formalizar os seus pedidos de apoio ao Alto-Comissário, de acordo com os impressos oficiais, cujo modelo será aprovado por portaria do membro do Governo competente.\n\n2 - Cada ONGM só pode candidatar-se a um pedido de financiamento por ano civil."
+  },
+  "165096012": {
+   "fragment_id": "165095924",
+   "type": 11,
+   "heading": "Artigo 10.º — Majoração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Majoração\n\nO Alto-Comissário poderá considerar a atribuição de uma majoração até 20% do montante do apoio concedido às ONGM que entenda terem obtido resultados superiores aos previstos para a acção financiada."
+  },
+  "165096013": {
+   "fragment_id": "165095925",
+   "type": 11,
+   "heading": "Artigo 11.º — Dispensa de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dispensa de candidatura\n\nQuando a atribuição de um apoio a uma ONGM não puder ser executada exclusivamente por motivos de ordem orçamental, a respectiva candidatura será considerada com precedência no ano seguinte."
+  },
+  "165096014": {
+   "fragment_id": "165095926",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prazo\n\n1 - O prazo para apresentação dos pedidos é de 1 de Abril até 30 de Junho de cada ano.\n\n2 - O Alto-Comissário profere a decisão no prazo de 30 dias após o fim do período de recepção dos pedidos.\n\n3 - O prazo previsto no número anterior suspende-se sempre que sejam solicitados esclarecimentos ou documentos considerados necessários."
+  },
+  "165096015": {
+   "fragment_id": "165095927",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Forma\n\nO apoio formaliza-se através de um contrato celebrado entre o Alto-Comissário e a ONGM à qual o apoio é concedido."
+  },
+  "165096016": {
+   "fragment_id": "165095928",
+   "type": 11,
+   "heading": "Artigo 14.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apoio financeiro\n\n1 - Os apoios são concedidos em duas ou mais parcelas em função do montante pretendido e da duração do projecto.\n\n2 - O pagamento da primeira parcela é efectuado nos 30 dias subsequentes à assinatura do contrato."
+  },
+  "165096017": {
+   "fragment_id": "165095929",
+   "type": 11,
+   "heading": "Artigo 15.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Deveres\n\n1 - A ONGM que tenha recebido qualquer apoio fica obrigada a:\n\na) Aceitar a avaliação e o acompanhamento das actividades apoiadas;\n\nb) Articular as suas actividades com as actividades que a CIDM promova no mesmo âmbito;\n\nc) Apresentar até 31 de Janeiro de cada ano relatório, do qual conste a informação necessária à avaliação das acções levadas a efeito no ano anterior;\n\nd) Apresentar, até 60 dias após o final da acção, relatório detalhado das actividades desenvolvidas, bem como da aplicação das verbas concedidas.\n\n2 - Em caso de ocorrerem irregularidades na aplicação das verbas, nomeadamente a sua utilização para fins diferentes dos indicados, a ONGM fica impedida de concorrer a qualquer espécie de apoio por um prazo de dois anos, sem prejuízo da responsabilidade civil ou criminal."
+  },
+  "165096018": {
+   "fragment_id": "165095930",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nCompete à CIDM o acompanhamento e fiscalização da aplicação das verbas concedidas às ONGM."
+  },
+  "165096019": {
+   "fragment_id": "165095931",
+   "type": 11,
+   "heading": "Artigo 17.º — Associações regionais e locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Associações regionais e locais\n\n1 - A audição das associações regionais e locais pelas autarquias, na elaboração dos respectivos planos de desenvolvimento regional e local, depende de requerimento das interessadas acompanhado de certidão do registo.\n\n2 - As associações regionais e locais têm direito ao apoio nos termos previstos neste diploma."
+  },
+  "165096020": {
+   "fragment_id": "165095932",
+   "type": 11,
+   "heading": "Artigo 18.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Registo\n\n1 - A CIDM organiza o registo das ONGM que gozem de representatividade genérica, bem como das associações regionais e locais.\n\n2 - Para efeitos de confirmação do número de sócios, as ONGM devem apresentar declaração, cujo modelo será aprovado por portaria do membro do Governo competente."
+  },
+  "165096021": {
+   "fragment_id": "165095933",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Relatório final\n\nAs associações apoiadas devem apresentar à CIDM um relatório anual de actividades e de contas."
+  },
+  "165096022": {
+   "fragment_id": "165095934",
+   "type": 11,
+   "heading": "Artigo 20.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processos pendentes\n\n1 - O presente diploma aplica-se, com as necessárias adaptações, aos apoios solicitados e ainda não atribuídos à data da sua entrada em vigor.\n\n2 - O prazo previsto no n.º 2 do artigo 12.º conta-se a partir da entrada em vigor do presente diploma."
+  },
+  "215603939": {
+   "fragment_id": "165095916",
+   "type": 11,
+   "heading": "Artigo 2.º — Reconhecimento",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 2.º — Reconhecimento\n\n1 - O reconhecimento de representatividade genérica depende de requerimento da ONGM interessada e da verificação dos requisitos legais, previstos na Lei n.º 95/88, de 17 de Agosto.\n\n2 - O requerimento referido no número anterior é dirigido ao presidente da Comissão para a Igualdade e para os Direitos das Mulheres (CIDM), instruído com os seguintes documentos:\n\na) Cópia dos estatutos e do respectivo extracto, publicado no Diário da República;\n\nb) Cópia do cartão de identificação de pessoa colectiva da associação;\n\nc) Declaração onde conste o número total de associados e o âmbito territorial de actuação, cujo modelo será aprovado por portaria do membro do Governo competente.\n\n3 - O Gabinete do Alto-Comissário envia à Comissão para a Igualdade e para os Direitos das Mulheres, adiante designada por CIDM, cópia dos elementos referidos no número anterior.\n\n4 - Anualmente, durante o mês de Janeiro, as ONGM devem enviar ao Alto-Comissário a confirmação do número de associados, de acordo com a declaração referida na alínea c) do n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "855278193": {
+   "fragment_id": "165095917",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrução do processo",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 3.º — Instrução do processo\n\n1 - A CIDM reúne todos os elementos e emite parecer no prazo de 15 dias a contar da recepção dos documentos referidos no n.º 2 do artigo anterior.\n\n2 - A CIDM pode solicitar, complementarmente, quaisquer informações ou outros documentos que considere imprescindíveis à tomada de decisão, ficando suspenso o prazo referido no n.º 1 do presente artigo.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "215603940": {
+   "fragment_id": "165095918",
+   "type": 11,
+   "heading": "Artigo 4.º — Decisão",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 4.º — Decisão\n\nO presidente da CIDM profere despacho de conformidade de acordo com os requisitos legais, no prazo máximo de 15 dias a contar da recepção do requerimento e demais documentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "215603941": {
+   "fragment_id": "165095919",
+   "type": 11,
+   "heading": "Artigo 5.º — Recurso",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Recurso\n\nSem prejuízo do direito ao recurso contencioso nos termos da lei geral, em caso de despacho de não comformidade cabe recurso para o presidente da CIDM, e da decisão deste para o ministro da tutela, ambos os recursos a interpor no prazo de 10 dias a contar da notificação, sucessivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "215603942": {
+   "fragment_id": "165095920",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 6.º — Publicidade\n\nO presidente da CIDM profere, no prazo de 10 dias, a publicação no Diário da República do extracto da decisão proferida nos termos do artigo 4.º do presente regulamento, independentemente da interposição de recurso previsto no artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "215603943": {
+   "fragment_id": "165095921",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio do Estado",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio do Estado\n\n1 - O Estado apoia e valoriza o contributo das ONGM na execução das políticas nacionais para a promoção da igualdade de oportunidades entre mulheres e homens.\n\n2 - O apoio do Estado efectiva-se através da prestação de ajuda de carácter técnico e financeiro às ONGM que desenvolvam actividades sob a forma de programas, projectos ou acções que tenham como finalidade a promoção da dignidade e da igualdade da mulher face aos demais membros da sociedade, nomeadamente os que prossigam os seguintes objectivos:\n\na) A mudança de atitudes e mentalidades, no âmbito da igualdade de oportunidades, nomeadamente ao nível da educação, da cultura e dos meios de comunicação social;\n\nb) A prestação de assistência médica, pedagógica e psicológica às mulheres vítimas de violência doméstica e abusos sexuais e às que sofram de problemas específicos de isolamento;\n\nc) A formação técnica de suporte a iniciativas empresariais, com vista a estimular a actividade empreendedora das mulheres;\n\nd) A formação profissional, de forma a fomentar o aumento da participação das mulheres em áreas profissionais novas ou onde estão sub-representadas;\n\ne) A criação de serviços de apoio que visem facilitar a conjugação da vida familiar com a actividade profissional;\n\nf) O intercâmbio de experiências e de informações, na perspectiva do estabelecimento duradouro de uma dinâmica de desenvolvimento da igualdade de oportunidades e da melhoria da qualidade de vida das mulheres;\n\ng) O estudo e a investigação destinados à formulação de novas propostas para completar e reforçar o quadro jurídico em matéria de igualdade de oportunidades;\n\nh) O estudo e a investigação, nomeadamente sobre o valor económico do trabalho doméstico, da participação na exploração agrícola e da prestação de cuidados de assistência a familiares;\n\ni) O combate à exploração da prostituição e do tráfico de mulheres e à concretização de medidas de apoio às mulheres vítimas de tráfico.\n\nj) A promoção da participação directa e activa das mulheres no exercício da vida política e de não discriminação no acesso a cargos políticos.\n\n3 - O apoio referido no número anterior não pode exceder 70% do total do valor do programa, projecto ou acção.\n\n4 - Em caso algum os apoios se destinam às despesas com a aquisição, construção, conservação ou reparação das instalações afectas às ONGM.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "215603944": {
+   "fragment_id": "165095923",
+   "type": 11,
+   "heading": "Artigo 9.º — Formalização do pedido",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 9.º — Formalização do pedido\n\n1 - As ONGM devem formalizar os seus pedidos de apoio à CIDM, de acordo com os impressos oficiais, cujo modelo será aprovado por portaria do membro do Governo competente.\n\n2 - Cada ONGM só pode candidatar-se a um pedido de financiamento por ano civil.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "855278194": {
+   "fragment_id": "165095924",
+   "type": 11,
+   "heading": "Artigo 10.º — Majoração",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 10.º — Majoração\n\nO Alto-Comissário poderá considerar a atribuição de uma majoração até 20% do montante do apoio concedido às ONGM que entenda terem obtido resultados superiores aos previstos para a acção financiada.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "215603945": {
+   "fragment_id": "165095927",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 13.º — Forma\n\nO apoio formaliza-se através de um contrato celebrado entre a CIDM e a ONGM à qual o apoio é concedido.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "215603946": {
+   "fragment_id": "165095931",
+   "type": 11,
+   "heading": "Artigo 17.º — Associações e delegações regionais e locais",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 17.º — Associações e delegações regionais e locais\n\n1 - A audição das associações regionais e locais ou das delegações regionais e locais das associações pelas autarquias ou outros organismos da Administração Pública, na elaboração de planos de desenvolvimento regional e local, depende de requerimento das interessadas acompanhado de certidão do registo.\n\n2 - As associações regionais e locais têm direito ao apoio nos termos previstos neste diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "215603947": {
+   "fragment_id": "165095933",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+   ],
+   "markdown": "###### Artigo 19.º — Relatório\n\nAs ONGM devem apresentar à CIDM um relatório anual de actividades e de contas, sempre que os seus programas, projectos ou acções tenham beneficiado de apoio estatal.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/99 - Diário da República n.º 122/1999, Série I-A de 1999-05-26](https://diariodarepublica.pt/dr/detalhe/lei/37-1999-316942), em vigor a partir de 1999-05-31"
+  },
+  "165096023": {
+   "fragment_id": "165095935",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 24 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

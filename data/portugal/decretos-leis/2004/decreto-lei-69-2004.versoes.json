@@ -1,0 +1,1073 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:211029:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-107596723",
+ "dre_path": "/dr/detalhe/decreto-lei/69-2004-211029",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-03-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107609606",
+    "107609607",
+    "107609608",
+    "107609609",
+    "107609610",
+    "107609611",
+    "107609612",
+    "107609613",
+    "107609614",
+    "107609615",
+    "107609616",
+    "107609617",
+    "107609618",
+    "107609619",
+    "107609620",
+    "107609621",
+    "107609622",
+    "107609623",
+    "107609624",
+    "107609625",
+    "107609626",
+    "107609627",
+    "107609628",
+    "107609629",
+    "107609630",
+    "107609631",
+    "107609632",
+    "107609633",
+    "107609634",
+    "107609635",
+    "107609636",
+    "107609637"
+   ]
+  },
+  {
+   "date": "2006-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:667337:por",
+     "title": "Decreto-Lei n.º 52/2006",
+     "published": "2006-03-15",
+     "dre_path": "/dr/detalhe/decreto-lei/52-2006-667337"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "107609606",
+    "107609607",
+    "107609608",
+    "107609609",
+    "107609610",
+    "107609611",
+    "107609612",
+    "107609613",
+    "107609614",
+    "107609615",
+    "107609616",
+    "107609617",
+    "107609618",
+    "107609619",
+    "107609620",
+    "107609639",
+    "107609640",
+    "107609623",
+    "107609624",
+    "107609625",
+    "107609626",
+    "107609627",
+    "107609628",
+    "107609629",
+    "107609630",
+    "107609631",
+    "107609641",
+    "107609633",
+    "107609634",
+    "107609635",
+    "107609636",
+    "107609637",
+    "107609638"
+   ]
+  },
+  {
+   "date": "2014-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572638:por",
+     "title": "Decreto-Lei n.º 29/2014",
+     "published": "2014-02-25",
+     "dre_path": "/dr/detalhe/decreto-lei/29-2014-572638"
+    }
+   ],
+   "changes": [
+    "Adita Anexo",
+    "Adita Artigo 20.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "107609606",
+    "107614358",
+    "107614359",
+    "107614327",
+    "107614367",
+    "107614328",
+    "107614360",
+    "107614329",
+    "107614365",
+    "107609614",
+    "107609615",
+    "107614330",
+    "107609617",
+    "107614331",
+    "107614332",
+    "107614361",
+    "107614333",
+    "107614366",
+    "107614334",
+    "107614335",
+    "107614336",
+    "107614362",
+    "107614337",
+    "107609628",
+    "107609629",
+    "107614338",
+    "107614357",
+    "107614363",
+    "107614339",
+    "107609633",
+    "107609634",
+    "107609635",
+    "107609636",
+    "107609637",
+    "107614364"
+   ]
+  },
+  {
+   "date": "2017-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107596682:por",
+     "title": "Decreto-Lei n.º 77/2017",
+     "published": "2017-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/77-2017-107596682"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "107609606",
+    "107614373",
+    "107614368",
+    "107614367",
+    "107614328",
+    "107614374",
+    "107614329",
+    "107614365",
+    "107614369",
+    "107609615",
+    "107614330",
+    "107609617",
+    "107614370",
+    "107614332",
+    "107614372",
+    "107618575",
+    "107614333",
+    "107614366",
+    "107614334",
+    "107614335",
+    "107614336",
+    "107618576",
+    "107614371",
+    "107609628",
+    "107609629",
+    "107614338",
+    "107614357",
+    "107618577",
+    "107614339",
+    "107609633",
+    "107609634",
+    "107609635",
+    "107609636",
+    "107609637",
+    "107618578",
+    "107618579"
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1125313601:por",
+     "title": "Decreto-Lei n.º 102/2026",
+     "published": "2026-05-22",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2026-1125313601"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º-A",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 20.º-A",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "107609606",
+    "107614373",
+    "1125615275",
+    "107614367",
+    "107614328",
+    "107614374",
+    "1125615475",
+    "107614365",
+    "1125615675",
+    "107609615",
+    "107614330",
+    "107609617",
+    "107614370",
+    "107614332",
+    "1125616075",
+    "107618575",
+    "1125616275",
+    "107614366",
+    "107614334",
+    "1125616475",
+    "1125616875",
+    "107618576",
+    "1125628175",
+    "1125617075",
+    "1125617275",
+    "1125617475",
+    "1125617875",
+    "107618577",
+    "1125618075",
+    "107609633",
+    "107609634",
+    "107609635",
+    "107609636",
+    "107609637",
+    "107618578",
+    "107618579"
+   ]
+  }
+ ],
+ "fragments": {
+  "107609606": {
+   "fragment_id": "107596724",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 69/2004\n\nde 25 de Março\n\nO regime jurídico dos valores representativos de dívida de curto prazo, vulgarmente denominados «papel comercial», foi fixado no Decreto-Lei n.º 181/92, de 22 de Agosto, tendo sido ulteriormente alterado pelos Decretos-Leis n.os 231/94, de 14 de Setembro, 343/98, de 6 de Novembro, e 26/2000, de 3 de Março.\n\nÀ luz do desenvolvimento dos mercados de capitais e monetários, torna-se aconselhável a revisão do regime jurídico do «papel comercial», no sentido de criar condições de funcionamento do respectivo mercado mais eficientes e mais próximas das da realidade europeia, e com o particular objectivo de contribuir para o reforço da dinamização do mercado de capitais em Portugal.\n\nO presente diploma substitui integralmente o regime jurídico em vigor, ocupando-se, apenas, da disciplina relativa a valores mobiliários com prazo inferior a um ano, para os quais se mantém a dispensa de registo comercial e a possibilidade de serem emitidos de forma contínua ou por séries. Fora do âmbito de aplicação deste decreto-lei ficam os valores mobiliários de prazo igual ou superior a um ano aos quais é aplicável o regime do Código dos Valores Mobiliários.\n\nDas alterações introduzidas merece especial destaque a não exigibilidade de rating ou de prestação de garantia quando se trate de emitentes com capitais próprios ou património líquido não inferiores a 5 milhões de euros ou sempre que o valor nominal unitário da emissão seja igual ou superior a (euro) 50000.\n\nPor outro lado, acompanhando alterações introduzidas no Código dos Valores Mobiliários, é transferida para a Comissão do Mercado de Valores Mobiliários a competência regulamentar e fiscalizadora. Mantém-se, para a emissão e oferta à subscrição pública e particular, um sistema simplificado de informação ao mercado, prevendo-se a possibilidade de registo em qualquer dos sistemas centralizados de valores mobiliários.\n\nForam ouvidos o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários, a Associação Portuguesa de Bancos, a Associação Portuguesa das Sociedades Gestoras de Patrimónios e de Fundos de Investimento, a Euronext Lisbon - Sociedade Gestora de Mercados Regulamentados, S. A., e a OPEX - Sociedade Gestora de Mercado de Valores Mobiliários não Regulamentado, S. A.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "107609607": {
+   "fragment_id": "107596725",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "107609608": {
+   "fragment_id": "107596726",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma regula a disciplina aplicável aos valores mobiliários de natureza monetária designados por papel comercial.\n\n2 - São papel comercial os valores mobiliários representativos de dívida emitidos pelas entidades referidas no n.º 1 do artigo seguinte por prazo inferior a um ano."
+  },
+  "107609609": {
+   "fragment_id": "107596727",
+   "type": 11,
+   "heading": "Artigo 2.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Capacidade\n\n1 - Têm capacidade para emitir papel comercial as sociedades comerciais ou civis sob a forma comercial, as cooperativas, as empresas públicas e as demais pessoas colectivas de direito público ou privado.\n\n2 - As entidades emitentes de papel comercial, com excepção das instituições de crédito, das sociedades financeiras, das empresas de seguros e das sociedades gestoras de fundos de pensões, não podem obter, com a emissão deste tipo de valor mobiliário, recursos financeiros superiores ao triplo dos seus capitais próprios ou, no caso de entidades que não estejam sujeitas à adopção do plano oficial de contabilidade, ao triplo do seu património líquido."
+  },
+  "107609610": {
+   "fragment_id": "107596728",
+   "type": 11,
+   "heading": "Artigo 3.º — Capital próprio, património líquido e fundos próprios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capital próprio, património líquido e fundos próprios\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Capitais próprios» o somatório do capital realizado, deduzidas as acções próprias, com as reservas, os resultados transitados e os ajustamentos de partes de capital em filiais e associadas;\n\nb) «Património líquido» a diferença entre o montante total líquido dos bens activos detidos e o total das responsabilidades assumidas e não liquidadas.\n\nc) «Fundos próprios» os montantes indicados no Aviso do Banco de Portugal n.º 12/92, de 29 de Dezembro, calculados nas condições aí estabelecidas;"
+  },
+  "107609611": {
+   "fragment_id": "107596729",
+   "type": 13,
+   "heading": "Título II — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Emissão"
+  },
+  "107609612": {
+   "fragment_id": "107596730",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de emissão\n\n1 - Para a emissão de papel comercial, devem as entidades emitentes preencher um dos seguintes requisitos:\n\na) Evidenciar no último balanço aprovado e sujeito a certificação legal de contas ou a auditoria efectuada por revisor oficial de contas, consoante o caso, capitais próprios ou património líquido não inferior a 5 milhões de euros ou o seu contravalor em euros, caso esses capitais ou património sejam expressos em moeda diferente do euro; ou\n\nb) Apresentar notação de risco da emissão do programa de emissão a que se refere o n.º 1 do artigo 7.º ou notação de risco de curto prazo do emitente, atribuída por sociedade de notação de risco registada na Comissão do Mercado de Valores Mobiliários; ou\n\nc) Obter, a favor dos detentores, garantia autónoma à primeira interpelação que assegure o cumprimento das obrigações de pagamento decorrentes da emissão ou do programa a que se refere o n.º 1 do artigo 7.º\n\n2 - A exigência dos requisitos a que se refere o número anterior não se aplica ao papel comercial cujo valor nominal unitário seja igual ou superior a (euro) 50000 ou o seu contravalor em euros, caso seja expresso em moeda diferente do euro."
+  },
+  "107609613": {
+   "fragment_id": "107596731",
+   "type": 11,
+   "heading": "Artigo 5.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Garantias\n\nA garantia a que se refere a alínea c) do n.º 1 do artigo anterior só pode ser prestada por instituição de crédito:\n\na) Cujo objecto abranja a prestação de garantias; e\n\nb) Cujos fundos próprios não sejam inferiores a 5 milhões de euros, ou o seu contravalor em euros, se aqueles forem expressos numa outra moeda."
+  },
+  "107609614": {
+   "fragment_id": "107596732",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipicidade\n\nSalvo disposição legal em contrário, é proibida a emissão de valores mobiliários de natureza monetária de prazo inferior a um ano que não cumpram o disposto no presente diploma."
+  },
+  "107609615": {
+   "fragment_id": "107596733",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modalidades de emissão\n\n1 - O papel comercial pode ser objecto de emissão simples ou, de acordo com o programa de emissão, contínua ou por séries.\n\n2 - À emissão de papel comercial não é aplicável o disposto no artigo 169.º do Código dos Valores Mobiliários e no artigo 349.º do Código das Sociedades Comerciais."
+  },
+  "107609616": {
+   "fragment_id": "107596734",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo da emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo da emissão\n\n1 - A emissão de papel comercial deve ser registada junto da respectiva entidade emitente ou em conta aberta junto de intermediário financeiro que, para o efeito, a represente.\n\n2 - Do registo de emissão de papel comercial constam, com as devidas adaptações, as menções a que se refere o artigo 44.º do Código dos Valores Mobiliários.\n\n3 - A emissão de papel comercial não está sujeita a registo comercial."
+  },
+  "107609617": {
+   "fragment_id": "107596735",
+   "type": 11,
+   "heading": "Artigo 9.º — Reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reembolso\n\n1 - O papel comercial pode ser reembolsado antes do fim do prazo de emissão, nos termos previstos nas condições de emissão ou do programa de emissão.\n\n2 - A aquisição de papel comercial pela respectiva entidade emitente equivale ao seu reembolso."
+  },
+  "107609618": {
+   "fragment_id": "107596736",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma de representação\n\nO papel comercial pode ser nominativo ou ao portador registado e deve observar a forma escritural."
+  },
+  "107609619": {
+   "fragment_id": "107596737",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo de titularidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo de titularidade\n\nA titularidade do papel comercial é registada nos termos dos artigos 61.º e seguintes do Código dos Valores Mobiliários."
+  },
+  "107609620": {
+   "fragment_id": "107596738",
+   "type": 13,
+   "heading": "Título III — Ofertas e admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Ofertas e admissão"
+  },
+  "107609621": {
+   "fragment_id": "107596739",
+   "type": 11,
+   "heading": "Artigo 12.º — Modalidades e registo simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Modalidades e registo simplificado\n\n1 - À qualificação da oferta de papel comercial como pública ou particular é aplicável, com as devidas adaptações, o disposto nos artigos 109.º e 110.º do Código dos Valores Mobiliários, sendo sempre havida como particular a oferta cujo valor nominal unitário seja o previsto no n.º 2 do artigo 4.º\n\n2 - A realização de oferta pública de papel comercial dirigida especificamente a pessoas com residência ou estabelecimento em Portugal está sujeita a registo prévio simplificado na Comissão do Mercado de Valores Mobiliários, podendo o mesmo respeitar à emissão ou ao programa de emissão a que se refere o n.º 1 do artigo 7.º\n\n3 - O registo ou a sua recusa devem ser comunicados ao emitente no prazo de três dias úteis.\n\n4 - O lançamento de ofertas públicas de distribuição de papel comercial exige a emissão de certificação legal de contas ou de auditoria às contas do emitente efectuada por um revisor oficial de contas ou por uma sociedade revisora oficial de contas, pelo menos no que respeita ao exercício imediatamente anterior, e o cumprimento de um dos requisitos previstos nas alíneas b) e c) do n.º 1 do artigo 4.º\n\n5 - À publicidade da oferta é aplicável, com as devidas adaptações, o disposto nos artigos 121.º e 122.º do Código dos Valores Mobiliários."
+  },
+  "107609622": {
+   "fragment_id": "107596740",
+   "type": 11,
+   "heading": "Artigo 13.º — Instrução do pedido de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instrução do pedido de registo\n\nO pedido de registo é instruído com cópia da nota informativa a elaborar nos termos do artigo 17.º"
+  },
+  "107609623": {
+   "fragment_id": "107596741",
+   "type": 11,
+   "heading": "Artigo 14.º — Retirada da oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Retirada da oferta\n\n1 - A Comissão do Mercado de Valores Mobiliários deve ordenar a retirada da oferta se verificar que esta enferma de alguma ilegalidade ou violação de regulamento insanáveis.\n\n2 - A decisão de retirada é divulgada pela Comissão do Mercado de Valores Mobiliários, a expensas do oferente, nos mesmos termos em que foi divulgada a nota informativa."
+  },
+  "107609624": {
+   "fragment_id": "107596742",
+   "type": 11,
+   "heading": "Artigo 15.º — Assistência e colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Assistência e colocação\n\n1 - As ofertas públicas de papel comercial devem ser realizadas com intervenção de intermediário financeiro, legalmente habilitado para o efeito, que presta, pelo menos, os seguintes serviços:\n\na) Assistência e colocação nas ofertas públicas de distribuição;\n\nb) Pagamento, por conta e ordem da entidade emitente, dos direitos patrimoniais decorrentes da emissão.\n\n2 - As ofertas particulares de papel comercial emitido por entidade sem certificação legal de contas ou auditoria às contas efectuada por um revisor oficial de contas ou por uma sociedade revisora oficial de contas exigem a intervenção de um intermediário financeiro que, em qualquer caso e independentemente de outros deveres impostos por lei, deve proceder à prévia verificação da observância do limite estabelecido no n.º 2 do artigo 2.º"
+  },
+  "107609625": {
+   "fragment_id": "107596743",
+   "type": 11,
+   "heading": "Artigo 16.º — Admissão à negociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Admissão à negociação\n\n1 - O papel comercial pode ser admitido à negociação em mercado de valores mobiliários.\n\n2 - A Comissão do Mercado de Valores Mobiliários pode definir por regulamento, sob proposta da entidade gestora do mercado, a informação a prestar pela entidade emitente, em complemento da constante da nota informativa a que se refere o artigo 17.º, que se revele necessária para a negociação em mercado."
+  },
+  "107609626": {
+   "fragment_id": "107596744",
+   "type": 13,
+   "heading": "Título IV — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Deveres de informação"
+  },
+  "107609627": {
+   "fragment_id": "107596745",
+   "type": 11,
+   "heading": "Artigo 17.º — Nota informativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Nota informativa\n\n1 - As entidades que emitam papel comercial devem elaborar uma nota informativa que tem por objecto a emissão ou o programa de emissão, contendo informação sobre a sua situação patrimonial, económica e financeira, da qual devem constar obrigatoriamente:\n\na) Os elementos a que se refere o artigo 171.º do Código das Sociedades Comerciais;\n\nb) A identificação das pessoas responsáveis pela qualidade da informação contida na nota informativa;\n\nc) As características genéricas do programa de emissão, nomeadamente no respeitante a montantes, prazos, denominação e cadência da emissão do papel comercial;\n\nd) O modo de determinação dos juros e, nas ofertas públicas, os termos da sua divulgação;\n\ne) A natureza e âmbito de eventuais garantias prestadas à emissão;\n\nf) Informação sobre a notação de risco atribuída por empresa de notação de risco registada na Comissão do Mercado de Valores Mobiliários, caso exista;\n\ng) O código de identificação do papel comercial objecto da oferta, caso exista;\n\nh) O regime fiscal aplicável;\n\ni) O balanço, a demonstração de resultados e a demonstração da origem e da aplicação de fundos da entidade emitente relativos aos três últimos exercícios anteriores ao do programa da emissão ou apenas aos exercícios decorridos desde a constituição do emitente com contas aprovadas;\n\nj) A indicação sumária da dependência da entidade emitente relativamente a quaisquer factos que tenham importância significativa para a sua actividade e sejam susceptíveis de afectar a rentabilidade do emitente no prazo abrangido pelo programa de emissão até à data do último reembolso, designadamente alvarás, patentes, contratos ou novos processos de fabrico.\n\n2 - A nota informativa de oferta pública de papel comercial deve ainda incluir, na sua capa, uma descrição dos factores de risco inerentes à oferta, ao emitente ou às suas actividades e uma descrição das limitações relevantes do investimento proposto, bem como, caso exista, a notação de risco atribuída à emissão ou ao programa de emissão.\n\n3 - Respeitando a nota informativa a um programa de emissão, a entidade emitente deve elaborar, previamente a cada emissão, uma informação complementar na medida do necessário para a individualização da mesma.\n\n4 - Sempre que a entidade emitente seja uma sociedade em relação de domínio, as informações referidas nas alíneas i) e j) do n.º 1 devem ser facultadas autonomamente no que respeita à sociedade e, de forma consolidada, ao grupo.\n\n5 - Deve ser elaborada nova nota informativa, de que constem todos os elementos previstos nos números anteriores, sempre que ocorra qualquer circunstância susceptível de influir de maneira relevante na avaliação da capacidade financeira da entidade emitente ou do garante.\n\n6 - O disposto nos artigos 116.º e 156.º do Código dos Valores Mobiliários não se aplica às entidades emitentes de papel comercial."
+  },
+  "107609628": {
+   "fragment_id": "107596746",
+   "type": 11,
+   "heading": "Artigo 18.º — Idioma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Idioma\n\n1 - A nota informativa de oferta particular não está sujeita ao disposto no artigo 6.º do Código dos Valores Mobiliários.\n\n2 - À nota informativa de ofertas públicas de papel comercial é aplicável o disposto nos artigos 163.º-A e 237.º-A do Código dos Valores Mobiliários."
+  },
+  "107609629": {
+   "fragment_id": "107596747",
+   "type": 11,
+   "heading": "Artigo 19.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Divulgação\n\nA nota informativa é divulgada gratuitamente aos investidores:\n\na) Nas ofertas públicas de papel comercial até ao início da oferta através de disponibilização junto do emitente e das entidades colocadoras e por meio do sistema de difusão de informação da Comissão do Mercado de Valores Mobiliários;\n\nb) Nas ofertas particulares de papel comercial, junto do emitente, antes do início do período de subscrição da emissão."
+  },
+  "107609630": {
+   "fragment_id": "107596748",
+   "type": 11,
+   "heading": "Artigo 20.º — Responsabilidade pelo conteúdo da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Responsabilidade pelo conteúdo da informação\n\nAplica-se à informação incluída na nota informativa de ofertas públicas de papel comercial o disposto nos artigos 149.º e seguintes do Código dos Valores Mobiliários."
+  },
+  "107609631": {
+   "fragment_id": "107596749",
+   "type": 13,
+   "heading": "Título V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Disposições finais e transitórias"
+  },
+  "107609632": {
+   "fragment_id": "107596750",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regulamentação\n\nCompete à Comissão do Mercado de Valores Mobiliários elaborar os regulamentos necessários à concretização do disposto no presente diploma e aos demais aspectos relacionados com o papel comercial, nomeadamente sobre as seguintes matérias:\n\na) Instrução do pedido de registo;\n\nb) Forma de liquidação dos juros relativos à emissão de papel comercial;\n\nc) Condições de rateio;\n\nd) Caducidade do registo da oferta;\n\ne) Adaptação do conteúdo da nota informativa às entidades emitentes de papel comercial que se encontrem, com outras sociedades, em relação de domínio;\n\nf) Termos em que deve ser divulgada a oferta pública de papel comercial;\n\ng) Termos em que devem ser divulgados os factos relevantes respeitantes aos emitentes."
+  },
+  "107609633": {
+   "fragment_id": "107596751",
+   "type": 11,
+   "heading": "Artigo 22.º — Supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Supervisão\n\nCompete à Comissão do Mercado de Valores Mobiliários fiscalizar o cumprimento do presente diploma e a supervisão dos mercados onde seja negociado papel comercial."
+  },
+  "107609634": {
+   "fragment_id": "107596752",
+   "type": 11,
+   "heading": "Artigo 23.º — Informação estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Informação estatística\n\nA informação estatística relativa à emissão de papel comercial é prestada ao Banco de Portugal nos termos a definir por este."
+  },
+  "107609635": {
+   "fragment_id": "107596753",
+   "type": 11,
+   "heading": "Artigo 24.º — Direito transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Direito transitório\n\nO presente diploma é aplicável às emissões de papel comercial deliberadas em data posterior à da sua entrada em vigor e, bem assim, às emissões de papel comercial efectuadas ao abrigo de novos programas ou de programas renovados em data posterior à da sua entrada em vigor."
+  },
+  "107609636": {
+   "fragment_id": "107596754",
+   "type": 11,
+   "heading": "Artigo 25.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação\n\nSão revogados o Decreto-Lei n.º 181/92, de 22 de Agosto, com as alterações introduzidas pelos Decretos-Leis n.os 231/94, de 14 de Setembro, 343/98, de 6 de Novembro, e 26/2000, de 3 de Março, e a Portaria n.º 815-A/94, de 14 de Setembro."
+  },
+  "107609637": {
+   "fragment_id": "107596755",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "107609639": {
+   "fragment_id": "107596739",
+   "type": 11,
+   "heading": "Artigo 12.º — Modalidades e aprovação de nota informativa",
+   "in_force_from": "2006-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+   ],
+   "markdown": "###### Artigo 12.º — Modalidades e aprovação de nota informativa\n\n1 - À qualificação da oferta de papel comercial como pública ou particular é aplicável, com as devidas adaptações, o disposto nos artigos 109.º e 110.º do Código dos Valores Mobiliários, sendo sempre havida como particular a oferta cujo valor nominal unitário seja o previsto no n.º 2 do artigo 4.º\n\n2 - A nota informativa de oferta pública de papel comercial dirigida especificamente a pessoas com residência ou estabelecimento em Portugal está sujeita a aprovação na Comissão do Mercado de Valores Mobiliários, podendo esta respeitar à emissão ou ao programa de emissão a que se refere o n.º 1 do artigo 7.º\n\n3 - A aprovação da nota informativa ou a sua recusa devem ser comunicados ao emitente no prazo de três dias úteis.\n\n4 - O lançamento de ofertas públicas de distribuição de papel comercial exige a emissão de certificação legal de contas ou de auditoria às contas do emitente efectuada por um revisor oficial de contas ou por uma sociedade revisora oficial de contas, pelo menos no que respeita ao exercício imediatamente anterior, e o cumprimento de um dos requisitos previstos nas alíneas b) e c) do n.º 1 do artigo 4.º\n\n5 - À publicidade da oferta é aplicável, com as devidas adaptações, o disposto nos artigos 121.º e 122.º do Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+  },
+  "107609640": {
+   "fragment_id": "107596740",
+   "type": 11,
+   "heading": "Artigo 13.º — Instrução do pedido",
+   "in_force_from": "2006-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+   ],
+   "markdown": "###### Artigo 13.º — Instrução do pedido\n\nO pedido de aprovação é instruído com cópia da nota informativa a elaborar nos termos do artigo 17.º\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+  },
+  "107609641": {
+   "fragment_id": "107596750",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamentação",
+   "in_force_from": "2006-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+   ],
+   "markdown": "###### Artigo 21.º — Regulamentação\n\nCompete à Comissão do Mercado de Valores Mobiliários elaborar os regulamentos necessários à concretização do disposto no presente diploma e aos demais aspectos relacionados com o papel comercial, nomeadamente sobre as seguintes matérias:\n\na) Instrução do pedido de aprovação de nota informativa;\n\nb) Forma de liquidação dos juros relativos à emissão de papel comercial;\n\nc) Condições de rateio;\n\nd) Caducidade da aprovação da nota informativa;\n\ne) Adaptação do conteúdo da nota informativa às entidades emitentes de papel comercial que se encontrem, com outras sociedades, em relação de domínio;\n\nf) Termos em que deve ser divulgada a oferta pública de papel comercial;\n\ng) Termos em que devem ser divulgados os factos relevantes respeitantes aos emitentes.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+  },
+  "107609638": {
+   "fragment_id": "107596756",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.\n\nPromulgado em 12 de Março de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Março de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "107614358": {
+   "fragment_id": "107614142",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 17.º)",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 17.º)\n\nModelo de nota informativa\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614359": {
+   "fragment_id": "107596725",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "107614327": {
+   "fragment_id": "107596726",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma regula a disciplina aplicável aos valores mobiliários de natureza monetária designados por papel comercial.\n\n2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo inferior a um ano.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614367": {
+   "fragment_id": "107596727",
+   "type": 11,
+   "heading": "Artigo 2.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638)"
+   ],
+   "markdown": "###### Artigo 2.º — Capacidade\n\n1 - Têm capacidade para emitir papel comercial as sociedades comerciais ou civis sob a forma comercial, as cooperativas, as empresas públicas e as demais pessoas colectivas de direito público ou privado.\n\n2 - (revogado).\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638)"
+  },
+  "107614328": {
+   "fragment_id": "107596728",
+   "type": 11,
+   "heading": "Artigo 3.º — Capital próprio, património líquido e fundos próprios",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 3.º — Capital próprio, património líquido e fundos próprios\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Capitais próprios», o somatório do capital realizado, deduzidas as ações próprias, com as reservas, os resultados transitados e os ajustamentos em ativos financeiros;\n\nb) «Património líquido» a diferença entre o montante total líquido dos bens activos detidos e o total das responsabilidades assumidas e não liquidadas.\n\nc) «Fundos próprios», os fundos próprios referidos na parte II e no capítulo 1 do título I da parte III do Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614360": {
+   "fragment_id": "107596729",
+   "type": 13,
+   "heading": "Título II — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Emissão"
+  },
+  "107614329": {
+   "fragment_id": "107596730",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de emissão",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de emissão\n\n1 - A emissão de papel comercial depende do preenchimento de um dos seguintes requisitos pela entidade emitente:\n\na) [Revogada];\n\nb) Apresentar notação de risco da emissão ou do programa de emissão a que se refere o n.º 1 do artigo 7.º ou notação de risco de curto prazo da entidade emitente, atribuída por agência de notação de risco registada na Autoridade Europeia dos Valores Mobiliários e dos Mercados (ESMA) ou notação de risco emitida por Agência de Notação Externa (ECAI), registada junto do Banco de Portugal;\n\nc) Obter, a favor dos detentores, garantia que assegure o cumprimento das obrigações de pagamento decorrentes da emissão ou do programa a que se refere o n.º 1 do artigo 7.º;\n\nd) Ser emitente de outros valores mobiliários admitidos à negociação em mercado regulamentado;\n\ne) Apresentar, com exceção das instituições de crédito, das sociedades financeiras, das empresas de seguros e das sociedades gestoras de fundos de pensões, após a emissão, um rácio de autonomia financeira adequado, nos termos a definir em regulamento da Comissão do Mercado de Valores Mobiliários;\n\nf) Existir um patrocinador da emissão que detenha em carteira pelo menos 5% da emissão até à maturidade.\n\n2 - A exigência dos requisitos previstos no número anterior não se aplica à emissão de papel comercial:\n\na) Cujo valor nominal unitário seja igual ou superior a (euro) 50 000,00, ou o seu contravalor em euros, ou cuja subscrição seja efetuada exclusivamente em lotes mínimos de valor igual ou superior a (euro) 50 000,00, ou o seu contravalor em euros;\n\nb) Que seja integralmente subscrita por investidores qualificados.\n\n3 - A garantia prevista na alínea c) do n.º 1 pode ser prestada:\n\na) Por instituição de crédito para tal autorizada;\n\nb) Por entidade cujos capitais próprios, em euros ou o seu contravalor em euros se expressos numa outra moeda, não sejam inferiores ao dobro do valor da emissão garantida;\n\nc) Com recurso a sistemas, regimes ou linhas de garantia, apoios ou incentivos, públicos ou privados, incluindo regimes de garantia mútua.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614365": {
+   "fragment_id": "107596731",
+   "type": 11,
+   "heading": "Artigo 5.º — Garantias",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 5.º — Garantias\n\nA garantia a que se refere a alínea c) do n.º 1 do artigo anterior só pode ser prestada por instituição de crédito:\n\na) Cujo objecto abranja a prestação de garantias; e\n\nb) Cujos fundos próprios não sejam inferiores a 5 milhões de euros, ou o seu contravalor em euros, se aqueles forem expressos numa outra moeda.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614330": {
+   "fragment_id": "107596734",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo da emissão",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 8.º — Registo da emissão\n\n1 - A emissão de papel comercial deve ser registada junto da respectiva entidade emitente ou em conta aberta junto de intermediário financeiro que, para o efeito, a represente.\n\n2 - Do registo de emissão de papel comercial constam, com as devidas adaptações, as menções a que se refere o artigo 44.º do Código dos Valores Mobiliários.\n\n3 - A emissão de papel comercial não está sujeita a registo comercial.\n\n4 - A entidade emitente de papel comercial pode promover a sua integração em sistema centralizado para efeitos de registo e liquidação de operações.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614331": {
+   "fragment_id": "107596736",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma de representação",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 10.º — Forma de representação\n\nO papel comercial pode ser nominativo ou ao portador e deve observar a forma escritural.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614332": {
+   "fragment_id": "107596737",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo de titularidade",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 11.º — Registo de titularidade\n\nSem prejuízo do disposto no n.º 4 do artigo 8.º, a titularidade do papel comercial é registada nos termos dos artigos 61.º e seguintes do Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614361": {
+   "fragment_id": "107596738",
+   "type": 13,
+   "heading": "Título III — Ofertas e admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Ofertas e admissão"
+  },
+  "107614333": {
+   "fragment_id": "107596739",
+   "type": 11,
+   "heading": "Artigo 12.º — Modalidades e aprovação de nota informativa",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+   ],
+   "markdown": "###### Artigo 12.º — Modalidades e aprovação de nota informativa\n\n1 - À qualificação da oferta de papel comercial como pública ou particular é aplicável, com as devidas adaptações, o disposto nos artigos 109.º e 110.º do Código dos Valores Mobiliários, sendo sempre havida como particular a oferta de papel comercial cujo valor nominal unitário seja o previsto na alínea a) do n.º 2 do artigo 4.º\n\n2 - A nota informativa de oferta pública de papel comercial dirigida especificamente a pessoas com residência ou estabelecimento em Portugal está sujeita a aprovação na Comissão do Mercado de Valores Mobiliários, podendo esta respeitar à emissão ou ao programa de emissão a que se refere o n.º 1 do artigo 7.º\n\n3 - A aprovação da nota informativa ou a sua recusa devem ser comunicadas à entidade emitente no prazo de três dias úteis.\n\n4 - O lançamento de ofertas públicas de distribuição de papel comercial exige a emissão de certificação legal de contas ou de auditoria às contas da entidade emitente efetuada por um revisor oficial de contas ou por uma sociedade de revisores oficiais de contas, pelo menos no que respeita ao exercício imediatamente anterior, e o cumprimento de um dos requisitos previstos nas alíneas b), c), d) e f) do n.º 1 do artigo 4.º.\n\n5 - À publicidade da oferta é aplicável, com as devidas adaptações, o disposto nos artigos 121.º e 122.º do Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+  },
+  "107614366": {
+   "fragment_id": "107596740",
+   "type": 11,
+   "heading": "Artigo 13.º — Instrução do pedido",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+   ],
+   "markdown": "###### Artigo 13.º — Instrução do pedido\n\nO pedido de aprovação é instruído com cópia da nota informativa a elaborar nos termos do artigo 17.º\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+  },
+  "107614334": {
+   "fragment_id": "107596741",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão e retirada da oferta",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 14.º — Suspensão e retirada da oferta\n\n1 - A Comissão do Mercado de Valores Mobiliários deve ordenar a suspensão ou a retirada da oferta se verificar que esta enferma de alguma ilegalidade ou violação de regulamento que seja, respetivamente, sanável ou insanável.\n\n2 - A decisão de suspensão ou retirada da oferta é divulgada pela Comissão do Mercado de Valores Mobiliários, a expensas do oferente, nos mesmos termos em que foi divulgada a nota informativa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614335": {
+   "fragment_id": "107596742",
+   "type": 11,
+   "heading": "Artigo 15.º — Assistência e colocação",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 15.º — Assistência e colocação\n\n1 - As ofertas públicas de papel comercial devem ser realizadas com intervenção de intermediário financeiro, legalmente habilitado para o efeito, que presta, pelo menos, os seguintes serviços:\n\na) Assistência e colocação nas ofertas públicas de distribuição;\n\nb) Serviços financeiros decorrentes da emissão, incluindo o pagamento, por conta e ordem da entidade emitente.\n\n2 - As ofertas particulares de papel comercial emitido por entidade sem certificação legal de contas ou auditoria às contas efetuada por um revisor oficial de contas ou por uma sociedade de revisores oficiais de contas exigem a intervenção de um intermediário financeiro ou de um patrocinador da emissão que, em qualquer caso e independentemente de outros deveres impostos por lei, deve proceder à prévia verificação dos requisitos previstos no artigo 4.º, se aplicáveis.\n\n3 - Podem assumir-se como patrocinadores de uma emissão de papel comercial as seguintes entidades:\n\na) Instituições de crédito;\n\nb) Sociedade emitente de valores mobiliários admitidos à negociação em mercado regulamentado que detenha na entidade emitente uma participação dominante, nos termos do artigo 21.º do Código dos Valores Mobiliários.\n\n4 - O patrocinador da emissão atua como criador de mercado, estando para tal devidamente autorizado, em relação ao papel comercial patrocinado, ou estabelece acordo com intermediário financeiro para esse efeito.\n\n5 - O patrocinador da emissão toma e retém obrigatoriamente em carteira própria 5% da emissão de papel comercial em que intervém como patrocinador.\n\n6 - Sem prejuízo da possibilidade de divulgação pelo emitente através do sistema de difusão de informação da Comissão do Mercado de Valores Mobiliários, o intermediário financeiro ou o patrocinador da emissão, conforme aplicável, garantem a produção e a divulgação de informação ao mercado, por parte da entidade emitente, através do sítio na Internet desta, com observância do disposto no artigo 7.º do Código dos Valores Mobiliários.\n\n7 - Caso o papel comercial não seja admitido à negociação em mercado regulamentado, o intermediário financeiro ou o patrocinador da emissão, consoante aplicável, publicam semestralmente um relatório sobre o papel comercial emitido, nos termos a definir por regulamento da Comissão do Mercado de Valores Mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614336": {
+   "fragment_id": "107596743",
+   "type": 11,
+   "heading": "Artigo 16.º — Admissão à negociação",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 16.º — Admissão à negociação\n\n1 - O papel comercial pode ser admitido à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação.\n\n2 - [Revogado].\n\n3 - Previamente à admissão, a entidade emitente disponibiliza ao mercado a nota informativa a que se refere o artigo seguinte.\n\n4 - Sem prejuízo do disposto no n.º 1 do artigo 233.º do Código dos Valores Mobiliários, o investidor qualificado que subscreva mais de 50% da emissão de papel comercial pode requerer a sua admissão à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação, sem necessidade de autorização de entidade emitente.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614362": {
+   "fragment_id": "107596744",
+   "type": 13,
+   "heading": "Título IV — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Deveres de informação"
+  },
+  "107614337": {
+   "fragment_id": "107596745",
+   "type": 11,
+   "heading": "Artigo 17.º — Nota informativa",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 17.º — Nota informativa\n\n1 - As entidades emitentes de papel comercial devem elaborar uma nota informativa sobre a emissão ou o programa de emissão, contendo informação sobre a sua situação patrimonial, económica e financeira, individual e consolidado, e do grupo em que se inserem, consoante o caso, e as características da emissão, com o conteúdo indicado no anexo ao presente diploma, do qual faz parte integrante.\n\n2 - [Revogado].\n\n3 - Respeitando a nota informativa a um programa de emissão, a entidade emitente deve elaborar, previamente a cada emissão, uma informação complementar na medida do necessário para a individualização da mesma.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - Caso exista um prospeto válido que inclua a possibilidade de emissão de papel comercial considera-se dispensada a nota informativa, desde que o prospeto contenha informação equivalente à referida no anexo ao presente diploma.\n\n8 - Caso exista um prospeto quando o mesmo não seja obrigatório, a emissão ou a admissão à negociação do papel comercial nos termos desse prospeto seguem o regime previsto no Código dos Valores Mobiliários para as situações em que o prospeto é obrigatório.\n\n9 - No caso de ser utilizado um prospeto de base, relativamente a cada emissão de papel comercial, a informação complementar prevista no n.º 3 é prestada através das condições finais da oferta a divulgar nos termos previstos no Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614338": {
+   "fragment_id": "107596748",
+   "type": 11,
+   "heading": "Artigo 20.º — Responsabilidade pelo conteúdo da informação",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 20.º — Responsabilidade pelo conteúdo da informação\n\nAplica-se à informação incluída na nota informativa de ofertas públicas e de admissão à negociação de papel comercial o disposto nos artigos 149.º e seguintes do Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614357": {
+   "fragment_id": "107614141",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Outros deveres de informação",
+   "in_force_from": "2014-03-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 20.º-A — Outros deveres de informação\n\n1 - A entidade emitente de papel comercial admitido à negociação em mercado regulamentado informa imediatamente o mercado sobre qualquer facto ou informação precisa de que tome conhecimento e que não sejam públicos, suscetíveis de influenciar de maneira sensível o preço do papel comercial.\n\n2 - Para efeitos do número anterior, considera-se suscetível de influenciar de maneira sensível o preço do papel comercial a informação que afete de modo previsível e significativo a capacidade do emitente de proceder ao reembolso da emissão.\n\n3 - Enquanto não for integralmente reembolsada uma emissão ou estiver válido um programa de emissão, o emitente deve divulgar, através do seu sítio na Internet e sem prejuízo da possibilidade de divulgação através do sistema de difusão de informação da Comissão do Mercado de Valores Mobiliários, o relatório e contas relativos ao exercício mais recente.\n\n4 - Quando a emissão em causa não se destine a ser admitida à negociação em mercado, a informação a que se referem os números anteriores apenas tem que ser dada aos respetivos titulares.\n\n5 - As entidades emitentes de papel comercial admitido à negociação em mercado regulamentado não são consideradas, por efeito dessa admissão, entidades de interesse público nos termos e para os efeitos previstos no Decreto-Lei n.º 225/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 71/2010, de 18 de junho, e na Lei n.º 28/2009, de 19 de junho.\n\n6 - Salvo disposição legal em contrário, não são aplicáveis às entidades emitentes que tenham exclusivamente papel comercial admitido à negociação em mercado regulamentado quaisquer disposições sobre a estrutura e governo societário das sociedades com valores mobiliários admitidos à negociação em mercado regulamentado.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614363": {
+   "fragment_id": "107596749",
+   "type": 13,
+   "heading": "Título V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Disposições finais e transitórias"
+  },
+  "107614339": {
+   "fragment_id": "107596750",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638)",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+   ],
+   "markdown": "###### Artigo 21.º — Regulamentação\n\nCompete à Comissão do Mercado de Valores Mobiliários elaborar os regulamentos necessários à concretização do disposto no presente diploma e aos demais aspectos relacionados com o papel comercial, nomeadamente sobre as seguintes matérias:\n\na) Rácios de autonomia financeira adequados que as entidades emitentes de papel comercial devem apresentar;\n\nb) Instrução do pedido de aprovação de nota informativa;\n\nc) Forma de liquidação dos juros relativos à emissão de papel comercial;\n\nd) Condições de rateio;\n\ne) [Revogada];\n\nf) Caducidade da aprovação da nota informativa;\n\ng) Termos em que devem ser divulgados os factos relevantes respeitantes aos emitentes.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638)\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+  },
+  "107614364": {
+   "fragment_id": "107596756",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.\n\nPromulgado em 12 de Março de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Março de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "107614373": {
+   "fragment_id": "107596725",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "107614368": {
+   "fragment_id": "107596726",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma regula a disciplina aplicável aos valores mobiliários de natureza monetária designados por papel comercial.\n\n2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo igual ou inferior a 397 dias.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614374": {
+   "fragment_id": "107596729",
+   "type": 13,
+   "heading": "Título II — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Emissão"
+  },
+  "107614369": {
+   "fragment_id": "107596732",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipicidade",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Tipicidade\n\nSalvo disposição legal em contrário, é proibida a emissão de valores mobiliários de natureza monetária de prazo igual ou inferior a 397 dias que não cumpram o disposto no presente diploma.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01"
+  },
+  "107614370": {
+   "fragment_id": "107596736",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma de representação",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 10.º — Forma de representação\n\nO papel comercial é nominativo e deve observar a forma escritural.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107614372": {
+   "fragment_id": "107614143",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Certificados de dívida de curto prazo",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Certificados de dívida de curto prazo\n\n1 - Denomina-se certificado de dívida de curto prazo o papel comercial que respeite cumulativamente e a todo o tempo os seguintes requisitos:\n\na) Seja dotado de liquidez, nos termos do disposto nos n.os 4 e 6 do artigo 169.º do Regime Geral dos Organismos de Investimento Coletivo;\n\nb) Apresente um valor suscetível de ser determinado com exatidão, a todo o tempo, nos termos do disposto nos n.os 5 e 6 do artigo 169.º do Regime Geral dos Organismos de Investimento Coletivo;\n\nc) Seja livremente transmissível.\n\n2 - Para efeitos da alínea a) do número anterior, quando seja contratado patrocinador da emissão considera-se que os certificados de dívida de curto prazo abrangidos são líquidos.\n\n3 - Os certificados de dívida de curto prazo devem ser identificados enquanto tais na informação apresentada aos investidores e nas mensagens publicitárias.\n\n4 - Ao emitente de certificados de dívida de curto prazo, ainda que não admitidos à negociação em mercado regulamentado, são aplicáveis os deveres de informação estabelecidos no artigo 20.º-A.\n\n> Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01"
+  },
+  "107618575": {
+   "fragment_id": "107596738",
+   "type": 13,
+   "heading": "Título III — Ofertas e admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Ofertas e admissão"
+  },
+  "107618576": {
+   "fragment_id": "107596744",
+   "type": 13,
+   "heading": "Título IV — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Deveres de informação"
+  },
+  "107614371": {
+   "fragment_id": "107596745",
+   "type": 11,
+   "heading": "Artigo 17.º — Nota informativa",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 17.º — Nota informativa\n\n1 - As entidades emitentes de papel comercial devem elaborar uma nota informativa sobre a emissão ou o programa de emissão, contendo informação sobre a sua situação patrimonial, económica e financeira, individual e consolidado, e do grupo em que se inserem, consoante o caso, e as características da emissão, com o conteúdo indicado no anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A nota informativa de papel comercial não admitido à negociação em mercado regulamentado deve incluir, além da informação relativa à emissão ou ao programa de emissão e sobre a situação jurídica e financeira do emitente anterior à emissão do instrumento de mercado monetário, um parecer elaborado por intermediário financeiro, pelo patrocinador da emissão ou por revisor oficial de contas, em qualquer caso, desde que não sujeito a instruções do emitente, tendo por objeto a verificação das informações ali contidas, nos termos da alínea c) do n.º 6 do artigo 172.º do Regime Geral dos Organismos de Investimento Coletivo.\n\n3 - Respeitando a nota informativa a um programa de emissão, a entidade emitente deve elaborar, previamente a cada emissão, uma informação complementar na medida do necessário para a individualização da mesma.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - Caso exista um prospeto válido que inclua a possibilidade de emissão de papel comercial considera-se dispensada a nota informativa, desde que o prospeto contenha informação equivalente à referida no anexo ao presente diploma.\n\n8 - Caso exista um prospeto quando o mesmo não seja obrigatório, a emissão ou a admissão à negociação do papel comercial nos termos desse prospeto seguem o regime previsto no Código dos Valores Mobiliários para as situações em que o prospeto é obrigatório.\n\n9 - No caso de ser utilizado um prospeto de base, relativamente a cada emissão de papel comercial, a informação complementar prevista no n.º 3 é prestada através das condições finais da oferta a divulgar nos termos previstos no Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "107618577": {
+   "fragment_id": "107596749",
+   "type": 13,
+   "heading": "Título V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Disposições finais e transitórias"
+  },
+  "107618578": {
+   "fragment_id": "107596756",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.\n\nPromulgado em 12 de Março de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Março de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "107618579": {
+   "fragment_id": "107614142",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682)",
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 17.º)\n\nModelo de nota informativa\n\n(ver documento original)\n\n> Alterado pelo/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682)\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "1125615275": {
+   "fragment_id": "107596726",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma regula a disciplina aplicável aos valores mobiliários de natureza monetária designados por papel comercial.\n\n2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo inferior a um ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "1125615475": {
+   "fragment_id": "107596730",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de emissão",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de emissão\n\n1 - A emissão de papel comercial depende do preenchimento de um dos seguintes requisitos pela entidade emitente:\n\na) [Revogada];\n\nb) Apresentar notação de risco da emissão ou do programa de emissão a que se refere o n.º 1 do artigo 7.º ou notação de risco de curto prazo da entidade emitente, atribuída por agência de notação de risco registada na Autoridade Europeia dos Valores Mobiliários e dos Mercados (ESMA) ou notação de risco emitida por Agência de Notação Externa (ECAI), registada junto do Banco de Portugal;\n\nc) Obter, a favor dos detentores, garantia que assegure o cumprimento das obrigações de pagamento decorrentes da emissão ou do programa a que se refere o n.º 1 do artigo 7.º;\n\nd) Ser emitente de outros valores mobiliários admitidos à negociação em mercado regulamentado;\n\ne) Apresentar, com exceção das instituições de crédito, das sociedades financeiras, das empresas de seguros e das sociedades gestoras de fundos de pensões, após a emissão, um rácio de autonomia financeira adequado, nos termos a definir em regulamento da Comissão do Mercado de Valores Mobiliários;\n\nf) Existir um patrocinador da emissão que detenha em carteira pelo menos 5% da emissão até à maturidade.\n\n2 - A exigência dos requisitos previstos no número anterior não se aplica à emissão de papel comercial relativamente à qual se verifique uma das seguintes condições:\n\na) Tenha um valor nominal unitário igual ou superior a 50 000,00 €, ou o seu contravalor em euros, ou cuja subscrição seja efetuada exclusivamente em lotes mínimos de valor igual ou superior a 50 000,00 €, ou o seu contravalor em euros;\n\nb) Seja integralmente subscrita por investidores profissionais.\n\n3 - A garantia prevista na alínea c) do n.º 1 pode ser prestada com recurso a sistemas, regimes ou linhas de garantia, apoios ou incentivos, públicos ou privados, incluindo regimes de garantia mútua, desde que esteja preenchida uma das seguintes condições:\n\na) A entidade garante ser instituição de crédito ou outra entidade legalmente habilitada à concessão de garantias;\n\nb) A entidade garante possuir capitais próprios, em euros ou o seu contravalor em euros se expressos numa outra moeda, não inferiores ao dobro do valor da emissão garantida, devendo tal garantia ter em consideração a totalidade do programa de emissão, caso tal seja aplicável;\n\nc) [Revogada.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "1125615675": {
+   "fragment_id": "107596732",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipicidade",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Tipicidade\n\nSalvo disposição legal em contrário, é proibida a emissão de valores mobiliários de natureza monetária de prazo inferior a um ano que não cumpram o disposto no presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01"
+  },
+  "1125616075": {
+   "fragment_id": "107614143",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Certificados de dívida de curto prazo",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Certificados de dívida de curto prazo\n\n1 - Denomina-se certificado de dívida de curto prazo o papel comercial que respeite cumulativamente e a todo o tempo os seguintes requisitos:\n\na) Seja dotado de liquidez, nos termos do disposto nos n.os 5 e 7 da secção II do anexo V do Regime da Gestão de Ativos, aprovado em anexo ao Decreto-Lei n.º 27/2023, de 28 de abril;\n\nb) Apresente um valor suscetível de ser determinado com exatidão, a todo o tempo, nos termos do disposto nos n.os 6 e 7 da secção II do anexo V do Regime da Gestão de Ativos, aprovado em anexo ao Decreto-Lei n.º 27/2023, de 28 de abril;\n\nc) Seja livremente transmissível.\n\n2 - Para efeitos da alínea a) do número anterior, quando seja contratado patrocinador da emissão considera-se que os certificados de dívida de curto prazo abrangidos são líquidos.\n\n3 - Os certificados de dívida de curto prazo devem ser identificados enquanto tais na informação apresentada aos investidores e nas mensagens publicitárias.\n\n4 - Ao emitente de certificados de dívida de curto prazo, ainda que não admitidos à negociação em mercado regulamentado, são aplicáveis os deveres de informação estabelecidos no artigo 20.º-A.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01"
+  },
+  "1125616275": {
+   "fragment_id": "107596739",
+   "type": 11,
+   "heading": "Artigo 12.º — Comunicação prévia de nota informativa e de publicidade",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+   ],
+   "markdown": "###### Artigo 12.º — Comunicação prévia de nota informativa e de publicidade\n\n1 - [Revogado.]\n\n2 - Está sujeita a comunicação prévia à Comissão do Mercado de Valores Mobiliários, a nota informativa de oferta de papel comercial:\n\na) Dirigida, no todo ou em parte, a destinatários indeterminados;\n\nb) Que, no todo ou em parte, seja precedida ou acompanhada de prospeção ou de recolha de intenções de investimento junto de destinatários indeterminados ou de promoção publicitária;\n\nc) Dirigida a mais de 150 investidores não profissionais com residência ou estabelecimento em Portugal.\n\n3 - Caso a Comissão do Mercado de Valores Mobiliários não notifique o emitente da sua oposição à nota informativa no prazo de 10 dias úteis, a emissão pode iniciar-se.\n\n4 - A nota informativa pode respeitar à emissão ou ao programa de emissão a que se refere o n.º 1 do artigo 7.º\n\n5 - À publicidade da oferta é aplicável, com as devidas adaptações, o disposto nos n.os 1 e 3 do artigo 121.º e no artigo 122.º do Código dos Valores Mobiliários, sendo o material publicitário sujeito a comunicação prévia à Comissão do Mercado de Valores Mobiliários.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+  },
+  "1125616475": {
+   "fragment_id": "107596742",
+   "type": 11,
+   "heading": "Artigo 15.º — Patrocínio da emissão",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 15.º — Patrocínio da emissão\n\n1 - [Revogado.]\n\n2 - As ofertas de papel comercial emitido por entidade sem certificação legal de contas ou auditoria às contas efetuada por um revisor oficial de contas ou por uma sociedade de revisores oficiais de contas exigem a intervenção de um patrocinador da emissão que, em qualquer caso e independentemente de outros deveres impostos por lei, deve proceder à prévia verificação dos requisitos previstos no artigo 4.º, se aplicáveis.\n\n3 - Podem assumir-se como patrocinadores de uma emissão de papel comercial as seguintes entidades:\n\na) Instituições de crédito;\n\nb) Sociedade emitente de valores mobiliários admitidos à negociação em mercado regulamentado que detenha na entidade emitente uma participação dominante, nos termos do artigo 21.º do Código dos Valores Mobiliários.\n\n4 - O patrocinador da emissão atua como criador de mercado, estando para tal devidamente autorizado, em relação ao papel comercial patrocinado, ou estabelece acordo com intermediário financeiro para esse efeito.\n\n5 - O patrocinador da emissão toma e retém obrigatoriamente em carteira própria 5% da emissão de papel comercial em que intervém como patrocinador.\n\n6 - Sem prejuízo da possibilidade de divulgação pelo emitente através do sistema de difusão de informação da Comissão do Mercado de Valores Mobiliários, o patrocinador da emissão garante a produção e a divulgação de informação ao mercado, por parte da entidade emitente, através do sítio na Internet desta, com observância do disposto no artigo 7.º do Código dos Valores Mobiliário.\n\n7 - Caso o papel comercial não seja admitido à negociação em mercado regulamentado, o patrocinador da emissão publica semestralmente um relatório sobre o papel comercial emitido, nos termos a definir por regulamento da Comissão do Mercado de Valores Mobiliários.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "1125616875": {
+   "fragment_id": "107596743",
+   "type": 11,
+   "heading": "Artigo 16.º — Admissão à negociação",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 16.º — Admissão à negociação\n\n1 - O papel comercial pode ser admitido à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação.\n\n2 - [Revogado].\n\n3 - Previamente à admissão, a entidade emitente disponibiliza ao mercado a nota informativa a que se refere o artigo seguinte.\n\n4 - Sem prejuízo do disposto no n.º 1 do artigo 233.º do Código dos Valores Mobiliários, o investidor profissional que subscreva mais de 50 % da emissão de papel comercial pode requerer a sua admissão à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação, sem necessidade de autorização de entidade emitente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "1125628175": {
+   "fragment_id": "107596745",
+   "type": 11,
+   "heading": "Artigo 17.º — Nota informativa",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601).",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 17.º — Nota informativa\n\n1 - As entidades emitentes de papel comercial devem elaborar uma nota informativa sobre a emissão ou o programa de emissão, contendo informação sobre a sua situação patrimonial, económica e financeira, individual e consolidado, e do grupo em que se inserem, consoante o caso, e as características da emissão, com o conteúdo indicado no anexo ao presente diploma, do qual faz parte integrante.\n\n2 - [Revogado].\n\n3 - Respeitando a nota informativa a um programa de emissão, a entidade emitente deve elaborar, previamente a cada emissão, uma informação complementar na medida do necessário para a individualização da mesma.\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - [Revogado].\n\n7 - [Revogado].\n\n8 - [Revogado].\n\n9 - [Revogado].\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601).\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2017-107596682), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "1125617075": {
+   "fragment_id": "107596746",
+   "type": 11,
+   "heading": "Artigo 18.º — Idioma",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 18.º — Idioma\n\n1 - [Revogado.]\n\n2 - À nota informativa de ofertas de papel comercial previstas no n.º 2 do artigo 12.º é aplicável o disposto no artigo 163.º-A do Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27."
+  },
+  "1125617275": {
+   "fragment_id": "107596747",
+   "type": 11,
+   "heading": "Artigo 19.º — Divulgação",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 19.º — Divulgação\n\nA nota informativa é divulgada gratuitamente aos investidores:\n\na) Nas ofertas de papel comercial referidas no n.º 2 do artigo 12.º, até ao início da oferta através de disponibilização junto do emitente e das entidades colocadoras, se existentes, e por meio do sistema de difusão de informação da Comissão do Mercado de Valores Mobiliários;\n\nb) Nas demais ofertas de papel comercial, junto do emitente, antes do início do período de subscrição da emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27."
+  },
+  "1125617475": {
+   "fragment_id": "107596748",
+   "type": 11,
+   "heading": "Artigo 20.º — Responsabilidade pelo conteúdo da informação",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 20.º — Responsabilidade pelo conteúdo da informação\n\nAplica-se à informação incluída na nota informativa de ofertas referidas no n.º 2 do artigo 12.º e de admissão à negociação de papel comercial o disposto nos artigos 149.º e seguintes do Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "1125617875": {
+   "fragment_id": "107614141",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Outros deveres de informação",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+   ],
+   "markdown": "###### Artigo 20.º-A — Outros deveres de informação\n\n1 - A entidade emitente de papel comercial admitido à negociação em mercado regulamentado informa imediatamente o mercado sobre qualquer facto ou informação precisa de que tome conhecimento e que não sejam públicos, suscetíveis de influenciar de maneira sensível o preço do papel comercial.\n\n2 - Para efeitos do número anterior, considera-se suscetível de influenciar de maneira sensível o preço do papel comercial a informação que afete de modo previsível e significativo a capacidade do emitente de proceder ao reembolso da emissão.\n\n3 - Enquanto não for integralmente reembolsada uma emissão ou estiver válido um programa de emissão, o emitente deve divulgar, através do seu sítio na Internet e sem prejuízo da possibilidade de divulgação através do sistema de difusão de informação da Comissão do Mercado de Valores Mobiliários, o relatório e contas relativos ao exercício mais recente.\n\n4 - Quando a emissão em causa não se destine a ser admitida à negociação em mercado, a informação a que se referem os números anteriores apenas tem que ser dada aos respetivos titulares.\n\n5 - Os emitentes de papel comercial admitido à negociação em mercado regulamentado não são considerados, por efeito dessa admissão, entidades de interesse público nos termos e para os efeitos previstos na Lei n.º 148/2015, de 9 de setembro, na sua redação atual.\n\n6 - Salvo disposição legal em contrário, não são aplicáveis às entidades emitentes que tenham exclusivamente papel comercial admitido à negociação em mercado regulamentado quaisquer disposições sobre a estrutura e governo societário das sociedades com valores mobiliários admitidos à negociação em mercado regulamentado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638), em vigor a partir de 2014-03-27"
+  },
+  "1125618075": {
+   "fragment_id": "107596750",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamentação",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638)",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+   ],
+   "markdown": "###### Artigo 21.º — Regulamentação\n\nCompete à Comissão do Mercado de Valores Mobiliários elaborar os regulamentos necessários à concretização do disposto no presente diploma e aos demais aspectos relacionados com o papel comercial, nomeadamente sobre as seguintes matérias:\n\na) Rácios de autonomia financeira adequados que as entidades emitentes de papel comercial devem apresentar;\n\nb) [Revogada.]\n\nc) Forma de liquidação dos juros relativos à emissão de papel comercial;\n\nd) Condições de rateio;\n\ne) [Revogada];\n\nf) [Revogada.]\n\ng) Relatório a publicar semestralmente pelo patrocinador da emissão do papel comercial emitido e não admitido à negociação em mercado regulamentado;\n\nh) Termos em que deve ser divulgada a oferta de papel comercial e locais de prestação ao público de informação relevante referida no n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2014 - Diário da República n.º 39/2014, Série I de 2014-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638)\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 52/2006 - Diário da República n.º 53/2006, Série I-A de 2006-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2006-667337), em vigor a partir de 2006-03-30"
+  }
+ }
+}

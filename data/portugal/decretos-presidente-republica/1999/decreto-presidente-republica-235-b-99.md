@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:243686:por
+title: Decreto do Presidente da República n.º 235-B/99
+short_title: null
+summary: Estende ao território de Macau a Convenção n.º 103 da Organização Internacional do Trabalho, sobre a Protecção da
+  Maternidade (revista)
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 235-B/99
+official_date: null
+publication_date: '1999-12-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 289/1999, 1º Suplemento, Série I-A de 1999-12-14
+  number: '289'
+  series: I
+  supplement: null
+  pages: 8864-(2) a 8864-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/12/289a01/00020002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decpresrep/235-b/1999/12/14/p/dre/pt/html
+  oj: null
+  dre: '243686'
+  dre_path: /dr/detalhe/decreto-presidente-republica/235-b-1999-243686
+  internal: pt:dre:243686:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/235-b-1999-243686
+  metadata_url: https://data.dre.pt/eli/decpresrep/235-b/1999/12/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/235-b-1999-243686
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:32:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c1c24cfb61fa3b6a5b33d8215a388e7b143f7b0172ece6a9fae747e7b081eba8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Macau
+- OIT
+- Portugal
+- Protecção da Maternidade
+- Segurança Social
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:32:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 235-B/99
+
+de 14 de Dezembro
+
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
+
+É estendida ao território de Macau a Convenção n.º 103 da Organização Internacional do Trabalho, sobre a Protecção da Maternidade (revista), de 28 de Junho de 1952, aprovada pelo Decreto n.º 63/84, de 10 de Outubro, cujo texto foi publicado no Diário da República, 1.ª série, de 10 de Outubro de 1984.
+
+A República Portuguesa declara que a Convenção será aplicada ao território sem prejuízo das alterações decorrentes da utilização das excepções previstas no artigo 7.º, n.º 1, alíneas a), c), d) e e), da Convenção.
+
+Foram ouvidos os órgãos de governo próprio do território de Macau.
+
+Assinado em 10 de Dezembro de 1999.
+
+Publique-se no Boletim Oficial de Macau, em conjunto com o referido decreto de aprovação e texto da Convenção.
+
+O Presidente da República, JORGE SAMPAIO.

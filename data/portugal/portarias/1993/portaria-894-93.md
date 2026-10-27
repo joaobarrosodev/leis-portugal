@@ -1,0 +1,266 @@
+---
+schema_version: '1.0'
+id: pt:dre:654757:por
+title: Portaria n.º 894/93
+short_title: null
+summary: Estabelece normas relativas à frequência do curso de formação que habilita ao ingresso na categoria de sargento dos
+  quadros permanentes da Força Aérea
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Defesa Nacional e da Educação
+proposing_entity: null
+official_number: 894/93
+official_date: null
+publication_date: '1993-09-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 220/1993, Série I-B de 1993-09-18
+  number: '220'
+  series: I
+  supplement: null
+  pages: 5112 - 5119
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/09/220b00/51125119.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/894/1993/09/18/p/dre/pt/html
+  oj: null
+  dre: '654757'
+  dre_path: /dr/detalhe/portaria/894-1993-654757
+  internal: pt:dre:654757:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/894-1993-654757
+  metadata_url: https://data.dre.pt/eli/port/894/1993/09/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/894-1993-654757
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:12:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f4175ac0225a1259906d48107c19dbb850377059d4a21aa272a6bf36a55117ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:12:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Formação Militar e Técnica da Força Aérea
+- Curso de Formação de Sargentos
+- Equivalência de Habilitações Literárias
+- Estágio de Formação
+- Força Aérea
+- Formação Profissional
+- Plano de Estudos
+- Promoção Profissional
+- Qualificação Profissional
+- Sargento
+relationships:
+- type: amended_by
+  target: pt:dre:284678:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:275443:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/157/1992/07/31/p/dre
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:657447:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/51/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:662958:por
+  label: null
+  source: http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
+- type: repealed_by
+  target: pt:dre:284678:por
+  label: "Revogada, quando finalizarem os cursos iniciados nos anos lectivos de 1999-2000 e 2000-2001, pela PORT.145/2002.2002.02.15.MDN\
+    \ DR.IS-B [39]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/145-2002-284678
+  date: '2002-02-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:12:38Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 894/93
+
+de 18 de Setembro
+
+O Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 43-A/90, de 24 de Janeiro, com as alterações introduzidas pela [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), de 17 de Julho, e pelo [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), de 31 de Julho, veio definir uma nova política de formação dos militares das Forças Armadas, caracterizada, no que respeita ao ingresso nos quadros permanentes, por especiais exigências de nível habilitacional e pela possibilidade de equiparação a cursos ministrados nos estabelecimentos oficiais de ensino.
+
+Por seu turno, o [Decreto-Lei n.º 51/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1993-657447), de 26 de Fevereiro, veio consagrar a existência do Centro de Formação Militar e Técnica da Força Aérea e a extinção da Base Aérea n.º 2, onde funcionava, como antecessor do actual centro de formação, o Centro de Instrução n.º 2.
+
+Pelo exposto, importa adequar os aspectos relativos à organização e orientação de ensino dos cursos de formação que habilitam ao ingresso na categoria de sargento dos quadros permanentes da Força Aérea, com as inovações decorrentes das referidas alterações legislativas.
+
+Impunha-se, por fim, ter presente o disposto nos artigos 74.º e 204.º do EMFAR e no [Decreto-Lei n.º 70/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1993-628044), de 10 de Março, que define os parâmetros a que deve obedecer a formação ministrada nas escolas profissionais, a cujos cursos são equiparáveis os cursos de formação de sargentos iniciados a partir do ano lectivo de 1991-1992.
+
+Assim, manda o Governo, pelos Ministros da Defesa Nacional e da Educação, o seguinte:
+
+1.º
+
+Curso
+
+1 - O curso de formação de sargentos (CFS), que habilita ao ingresso na categoria de sargento dos quadros permanentes da Força Aérea, nas especialidades abaixo discriminadas, é ministrado no Centro de Formação Militar e Técnica da Força Aérea (CFMTFA).
+
+2 - O curso a que se refere o n.º 1 habilita ao ingresso nas seguintes especialidades:
+
+a) Operadores de comunicações (OPCOM);
+
+b) Operadores de meteorologia (OPMET);
+
+c) Operadores de circulação aérea e radaristas de tráfego (OPCART);
+
+d) Operadores de radaristas de detecção (OPRDET);
+
+e) Operadores de informática (OPINF);
+
+f) Operadores de sistemas de assistência e socorros (OPSAS);
+
+g) Mecânicos de material aéreo (MMA);
+
+h) Mecânicos de material terrestre (MMT);
+
+i) Mecânicos de electricidade (MELECT);
+
+j) Mecânicos de electrónica (MELECA);
+
+l) Mecânicos de electricidade e instrumentos de avião (MELIAV);
+
+m) Mecânicos de armamento e equipamento (MARME);
+
+n) Abastecimento (ABST);
+
+o) Construção e manutenção de infra-estruturas (CMI);
+
+p) Polícia aérea (PA);
+
+q) Secretariado e apoio dos serviços (SAS);
+
+r) Músicos (MUS);
+
+s) Pára-quedistas (PARAQ).
+
+3 - Na Escola de Sargentos da Força Aérea (ESARFA) podem ser ministrados cursos técnico-militares a indivíduos já habilitados com cursos de qualificação profissional de nível 3, completando a sua habilitação para ingresso nos respectivos quadros especiais.
+
+4 - O CFS goza de autonomia pedagógica.
+
+2.º
+
+Duração
+
+1 - O CFS tem a duração de três anos, incluída a frequência de um estágio.
+
+2 - O estágio tem lugar no último ano curricular do curso e destina-se a exercitar, através de instrução caracterizada pela aplicação prática, as capacidades do instruendo para o desempenho das funções que lhe irão ser cometidas no âmbito do seu quadro especial.
+
+3.º
+
+Estrutura curricular
+
+1 - A estrutura curricular do curso que habilita às diferentes especialidades referidas no n.º 2 do artigo 1.º é a constante, respectivamente, dos anexos I a XVIII à presente portaria.
+
+2 - Os currículos conciliam as especificidades da formação militar com o modelo aprovado para as escolas profissionais.
+
+4.º
+
+Planos de estudo
+
+1 - Os planos de estudo do CFS são aprovados por despacho do Chefe do Estado-Maior da Força Aérea (CEMFA), sob proposta do comandante do Pessoal da Força Aérea (CPESFA).
+
+2 - Os planos de estudo incluem, além do estágio, as seguintes componentes:
+
+a) Sócio-cultural;
+
+b) Científica;
+
+c) Técnica, tecnológica e prática.
+
+5.º
+
+Prova final de aptidão profissional
+
+1 - Faz parte integrante do curso a realização de uma prova final de aptidão profissional (PFAP), organizada para avaliar de forma integrada todos os conhecimentos ministrados ao longo da formação.
+
+2 - A organização e forma de realização da prova, bem como a constituição do respectivo júri, são definidas por despacho do CEMFA, sob proposta do CPESFA.
+
+6.º
+
+Equivalências
+
+A frequência, com aproveitamento, do CFS confere:
+
+a) Equivalência ao 12.º ano de escolaridade, com garantia de acesso aos estabelecimentos de ensino superior, civis e militares, nas condições definidas na lei aplicável;
+
+b) Equiparação a cursos de qualificação profissional de nível 3, previstos na rede de estabelecimentos de ensino oficial ou oficialmente reconhecidos;
+
+c) Certificado de aptidão e qualificação profissional nas áreas constantes do mapa anexo XIX à presente portaria;
+
+d) Outras qualificações de natureza estabelecidas em acordos com entidades não previstas na alínea b).
+
+7.º
+
+Regime de classificação
+
+A classificação final do curso é elaborada segundo as normas fixadas no Regulamento Escolar do Curso de Formação de Sargentos da Força Aérea.
+
+8.º
+
+Nomeação de professores
+
+A nomeação de professores obedece aos princípios definidos para as escolas profissionais de ensino não superior.
+
+9.º
+
+Nomeação de pessoal instrutor
+
+A nomeação de instrutores, encarregados de instrução e auxiliares de intrução obedece aos princípios definidos para os estabelecimentos de ensino da Força Aérea.
+
+10.º
+
+Produção de efeitos
+
+O disposto na presente portaria é aplicável aos cursos iniciados a partir do ano lectivo de 1991-1992.
+
+Ministérios da Defesa Nacional e da Educação.
+
+Assinada em 20 de Agosto de 1993.
+
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Educação, António Fernando Couto dos Santos.
+
+Do ANEXO I ao ANEXO XIX
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/220b00/51125119.pdf)

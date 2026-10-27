@@ -1,0 +1,234 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0105:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0105-20211231",
+ "dre_path": null,
+ "source_lastmod": "2021-12-31",
+ "versions": [
+  {
+   "date": "1993-01-08",
+   "future": false,
+   "celex": "31992L0105",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1c417a926714e7e1",
+    "42f961ed6d594e03",
+    "415e861537c30176",
+    "2a2a86f25de92f04",
+    "d437f88b79dfece7",
+    "11862ecb2209d4c5",
+    "4f32083f17cda45e",
+    "b489a6012270677f"
+   ]
+  },
+  {
+   "date": "2005-03-23",
+   "future": false,
+   "celex": "01992L0105-20050323",
+   "acts": [
+    {
+     "id": "eu:celex:32005L0017:por",
+     "title": "DIRECTIVA 2005/17/CE DA COMISSÃO de 2 de Março de 2005",
+     "published": null,
+     "celex": "32005L0017"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita ANEXO",
+    "Adita INFORMAÇÕES EXIGIDAS",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 3 de Dezembro de 1992. Pela Comissão",
+    "Suprime ANEXO — INFORMAÇÕES EXIGIDAS"
+   ],
+   "fragments": [
+    "99f4084ab7db1cbe",
+    "79af2ec3be153303",
+    "e85a0ab2fe307100",
+    "5a620c713deb1646",
+    "1e9f8af11430cf16",
+    "cbdc6addc4b6054d",
+    "10220b9774fa9034",
+    "a6103c199375f629",
+    "3461eac20cf7cef5"
+   ]
+  },
+  {
+   "date": "2021-12-31",
+   "future": false,
+   "celex": "01992L0105-20211231",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime ANEXO",
+    "Suprime INFORMAÇÕES EXIGIDAS",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "6ddb4d27d1ec1c7e"
+   ]
+  }
+ ],
+ "fragments": {
+  "1c417a926714e7e1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/105/CEE da Comissão, de 3 de Dezembro de 1992, que estabelece uma determinada normalização para os passaportes fitossanitários a utilizar para a circulação de certas plantas, produtos vegetais ou outros materiais na Comunidade, os processos pormenorizados para a emissão desses passaportes e as condições e processos pormenorizados para a sua substituição** *Jornal Oficial nº L 004 de 08/01/1993 p. 0022 - 0025 Edição especial finlandesa: Capítulo 3 Fascículo 47 p. 0181 Edição especial sueca: Capítulo 3 Fascículo 47 p. 0181*\n\nDIRECTIVA 92/105/CEE DA COMISSÃO de 3 de Dezembro de 1992 que estabelece uma determinada normalização para os passaportes fitossanitários a utilizar para a circulação de certas plantas, produtos vegetais ou outros materiais na Comunidade, os processos pormenorizados para a emissão desses passaportes e as condições e processos pormenorizados para a sua substituição\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 77/93/CEE do Conselho, de 21 de Dezembro de 1976, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais às plantas e produtos vegetais (1), com a última redacção que lhe foi dada pela Directiva 92/10/CEE da Comissão (2), e, nomeadamente, o no 1, primeiro parágrafo da alínea f), do seu artigo 2o e o no 4 do seu artigo 10o,\n\nConsiderando que a aplicação do regime fitossanitário comunitário à Comunidade enquanto espaço sem fronteiras internas tornará necessária a realização de controlos fitossanitários dos produtos comunitários problemáticos do ponto de vista fitossanitário antes da sua entrada em circulação na Comunidade; que o local mais adequado para a realização desses controlos é o local de produção de produtores inscritos num registo oficial;\n\nConsiderando que, no caso de o resultado desses controlos ser satisfatório, as plantas, a embalagem que as contenha ou o veículo em que são transportadas devem ser acompanhados, em vez do certificado fitossanitário utilizado no comércio internacional, de um passaporte fitossanitário adaptado ao tipo de produto que assegure a sua livre circulação na Comunidade ou a dos seus constituintes para os quais é válido;\n\nConsiderando que, para o mesmo efeito, as plantas, os produtos vegetais ou outros materiais originários do exterior da Comunidade e submetidos satisfatoriamente aos controlos fitossanitários exigidos quando primeiramente introduzidos na Comunidade devem ser também acompanhados de um passaporte fitossanitário;\n\nConsiderando que é necessário prever uma normalização para os diferentes tipos de plantas e produtos vegetais;\n\nConsiderando, porém, que durante uma primeira fase deve ser utilizado um regime que recorra a um passaporte fitossanitário com uma determinada normalização, a fim de tornar possível a circulação de plantas, produtos vegetais ou outros materiais de 1 de Janeiro de 1993 em diante; que este regime será reconsiderado com base numa avaliação da experiência adquirida durante a referida fase;\n\nConsiderando que, no caso de um passaporte fitossanitário ter que ser substituído por um outro, deve ser definida uma marca especial para o passaporte de substituição;\n\nConsiderando que, para a realização de um controlo adequado da circulação de plantas, produtos vegetais ou outros materiais pelos Estados-membros, é necessário estabelecer processos mais pormenorizados e uniformes para a emissão e substituição de passaportes fitossanitários;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité fitossanitário permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "42f961ed6d594e03": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros assegurarão a satisfação das condições previstas no no 2 na preparação pelos seus organismos oficiais do passaporte fitossanitário referido no no 1, primeiro parágrafo da alínea f), do artigo 2o da Directiva 77/93/CEE do Conselho para utilização em conformidade com o disposto nos artigos 2o e 3o\n\n2. Serão satisfeitas as seguintes condições:\n\na) O passaporte fitossanitário consistirá numa etiqueta oficial e num documento que a acompanhe de que constem as informações exigidas previstas no anexo. A etiqueta não deve ter sido utilizada anteriormente e deve ser de material adequado. É autorizada a utilização de etiquetas oficiais adesivas. O documento pode ser qualquer documento habitualmente utilizado para fins comerciais. Este documento não será necessário se as informações exigidas, conforme previstas no anexo, constarem da referida etiqueta;\n\nb) As informações exigidas serão, de preferência, impressas e, pelo menos, numa das línguas oficiais da Comunidade;\n\nc) Os passaportes fitossanitários para tubérculos de Solanum tuberosum L. destinados à plantação serão constituídos pela etiqueta oficial prevista na Directiva 66/403/CEE do Conselho (3). O cumprimento das disposições relativas à introdução de batata de semente numa zona protegida e à sua circulação no interior de uma dessas zonas, reconhecida relativamente a organismos prejudiciais para a batata de semente, será indicado na etiqueta ou em qualquer outro documento comercial.\n\n3. Quando o passaporte fitossanitário referido no no 1 for constituído pela etiqueta e pelo documento que a acompanha, os Estados-membros exigirão que da parte do passaporte fitossanitário constituída:\n\na) Pela etiqueta constem, pelo menos, os dados exigidos nos nos 1, 2, 3, 4 e 5 do anexo;\n\nb) Pelo documento que a acompanha constem, pelo menos, os dados exigidos nos nos 1 a 10 do anexo.\n\n4. Quaisquer dados não referidos no anexo e que sejam de importância para efeitos de rotulagem ao abrigo das directivas 91/682/CEE do Conselho (4), 92/33/CEE do Conselho (5) e 92/34/CEE do Conselho (6) podem também ser indicados no documento de acompanhamento, devendo, porém, estar claramente separados das informações especificadas no anexo."
+  },
+  "415e861537c30176": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Aquando da produção, impressão e armazenagem dos passaportes fitossanitários, os Estados-membros assegurarão a satisfação das condições previstas no no 2.\n\n2. O passaporte fitossanitário referido no no 1 do artigo 1o será produzido, impresso e/ou armazenado quer directamente pelos organismos oficiais responsáveis referidos no no 1 do artigo 1o quer - sob controlo daqueles organismos - pelo produtor referido no no 4, terceiro parágrafo, do artigo 6o, pela pessoa referida no no 3, segundo travessão, do artigo 10o ou pelo importador referido no no 6, segundo parágrafo, do artigo 12o da Directiva 77/93/CEE."
+  },
+  "2a2a86f25de92f04": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros assegurarão a satisfação das condições previstas no no 2 sempre que o passaporte fitossanitário for emitido e acompanhar as plantas, os produtos vegetais e outros materiais, as embalagens que os contenham ou os veículos em que são transportados.\n\nA emissão inclui o preenchimento do passaporte, nomeadamente das informações exigidas, e as acções necessárias para colocar o passaporte à disposição do requerente.\n\n2. Para efeitos do no 1 e sem prejuízo das exigências estabelecidas na referida Directiva 77/93/CEE, os organismos oficiais responsáveis mencionados no no 1 do artigo 1o:\n\na) Assegurarão que o produtor, a pessoa ou o importador referidos no no 2 do artigo 2o lhes solicitem a emissão ou a substituição do passaporte fitossanitário;\n\nb) Com base nos controlos previstos nos nos 1, 2 e 3 do artigo 6o da Directiva 77/93/CEE, efectuados em conformidade com o no 4 do artigo 6o, ou nas exigências previstas no no 3 do artigo 10o ou no no 6 do artigo 12o, conforme o caso, da mesma directiva, determinarão as restrições aplicáveis às plantas, produtos vegetais ou outros materiais e, em conformidade com a validade territorial do passaporte fitossanitário ou determinarão a substituição do referido passaporte fitossanitário, bem como as informações que dele devem constar.\n\nSe o produtor, a pessoa ou o importador referidos no no 2 do artigo 2o tiver a intenção de expedir uma planta, um produto vegetal ou outro material para uma zona protegida referida no no 1, alínea h), do artigo 2o da mesma directiva para a qual não disponha de um passaporte fitossanitário válido, os referidos organismos oficiais responsáveis tomarão as medidas necessárias, com base nas quais determinarão a qualificação do produto para a zona protegida em causa. Os organismos oficiais responsáveis assegurarão que o produtor, a pessoa ou o importador referidos no no 2 do artigo 2o os notifiquem da intenção acima mencionada num prazo razoável antes da expedição e que, simultaneamente, solicitem o correspondente passaporte fitossanitário;\n\nc) Assegurarão que as informações sejam registadas, em maiúsculas no caso de o passaporte fitossanitário ser previamente impresso ou em maiúsculas ou inteiramente dactilografadas em todos os outros casos. Será indicado o nome latino das plantas ou produtos vegetais. As alterações ou rasuras não autenticadas invalidarão o referido passaporte fitossanitário;\n\nd) Assegurarão que, no caso de terem aprovado uma planta, produto vegetal ou outro material para uma zona ou zonas protegidas específicas, o código da zona ou zonas protegidas seja aposto no passaporte fitossanitário, sobre a marca « ZP » (zona protecta), indicando, assim, que o referido passaporte fitossanitário respeita a uma planta, um produto vegetal ou outro material aprovado para uma zona protegida;\n\ne) Assegurarão que, no caso da emissão de um passaporte fitossanitário para uma planta, um produto vegetal ou outro material originário do exterior da Comunidade, seja utilizado o passaporte fitossanitário, onde será indicado o país de origem ou, se for caso disso, o país expedidor;\n\nf) Assegurarão que, caso um passaporte fitossanitário tenha que ser substituído, seja utilizado o passaporte referido no no 1 do artigo 1o; o código do produtor registado originariamente ou do importador será aposto no novo passaporte fitossanitário sobre a marca « RP » (replacement passport), indicando, assim, que o referido passaporte fitossanitário substitui outro passaporte fitossanitário;\n\ng) Em função do local onde se conserve o referido passaporte fitossanitário, emiti-lo-ao ou autorizarão o produtor, a pessoa ou o importador referidos no no 2 do artigo 2o a usá-lo em conformidade;\n\nh) Assegurarão que a parte do referido passaporte fitossanitário constituída pela etiqueta acompanhe, sob a responsabilidade do produtor, da pessoa ou do importador referidos no no 2 do artigo 2o, as plantas, os produtos vegetais ou outros materiais, embalagens que os contenham ou veículos em que são transportados, de forma a que não possa voltar a ser utilizada."
+  },
+  "d437f88b79dfece7": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO regime de utilização do passaporte fitossanitário referido no no 1 do artigo 1o será reconsiderado até 30 de Junho de 1994, o mais tardar.\n\nO passaporte fitossanitário referido no no 2, alínea c), do artigo 1o será utilizado por um período que termina em 30 de Junho de 1993."
+  },
+  "11862ecb2209d4c5": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao disposto na presente directiva na data referida no no 1 do artigo 3o da Directiva 91/683/CEE do Conselho (7). Desse facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-membros devem conter uma referência à presente directiva, devendo, quando oficialmente publicadas, ser acompanhadas dessa referência. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão imediatamente à Comissão todas as disposições do direito nacional que adoptarem no domínio regulado pela presente directiva. A Comissão informará os outros Estados-membros desse facto."
+  },
+  "4f32083f17cda45e": {
+   "fragment_id": "Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 3 de Dezembro de 1992. Pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 3 de Dezembro de 1992. Pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 3 de Dezembro de 1992. Pela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO no L 26 de 31. 1. 1977, p. 20. (2) JO no L 70 de 17. 3. 1992, p. 27. (3) JO no 125 de 11. 7. 1966, p. 2320/66. (4) JO no L 376 de 31. 12. 1991, p. 21. (5) JO no L 157 de 10. 6. 1992, p. 1. (6) JO no L 157 de 10. 6. 1992, p. 10. (7) JO no L 376 de 31. 12. 1991, p. 29."
+  },
+  "b489a6012270677f": {
+   "fragment_id": "ANEXO — INFORMAÇÕES EXIGIDAS",
+   "type": "divisao",
+   "heading": "ANEXO — INFORMAÇÕES EXIGIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — INFORMAÇÕES EXIGIDAS\n\n1. « Passaporte fitossanitário CEE ».\n\n2. Código do Estado-membro da Comunidade Europeia.\n\n3. Organismo oficial responsável ou o seu código.\n\n4. Número de registo.\n\n5. Número da série, semana ou número do lote.\n\n6. Designação botânica.\n\n7. Quantidade.\n\n8. Marca « ZP » relativa à validade territorial do passaporte e, se for caso disso, menção da zona ou zonas protegidas para as quais o produto foi aprovado.\n\n9. Marca « RP » no caso de substituição de um passaporte fitossanitário e, se for caso disso, código do produtor inicialmente registado ou do importador.\n\n10. Se for caso disso, indicação do país de origem ou do país expedidor para os produtos de países terceiros."
+  },
+  "99f4084ab7db1cbe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro de 1992\n\nque estabelece uma determinada normalização para os passaportes fitossanitários a utilizar para a circulação de certas plantas, produtos vegetais ou outros materiais na Comunidade, os processos pormenorizados para a emissão desses passaportes e as condições e processos pormenorizados para a sua substituição"
+  },
+  "79af2ec3be153303": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os Estados-membros assegurarão a satisfação das condições previstas no n.º 2 na preparação pelos seus organismos oficiais do passaporte fitossanitário referido no n.º 1, primeiro parágrafo da alínea f), do artigo 2.º da Directiva 77/93/CEE do Conselho para utilização em conformidade com o disposto nos artigos 2.º e 3.º\n\n2. Serão satisfeitas as seguintes condições:\n\na) O passaporte fitossanitário consistirá numa etiqueta oficial e num documento que a acompanhe de que constem as informações exigidas previstas no anexo. A etiqueta não deve ter sido utilizada anteriormente e deve ser de material adequado. É autorizada a utilização de etiquetas oficiais adesivas. O documento pode ser qualquer documento habitualmente utilizado para fins comerciais. Este documento não será necessário se as informações exigidas, conforme previstas no anexo, constarem da referida etiqueta;\n\nb) As informações exigidas serão, de preferência, impressas e, pelo menos, numa das línguas oficiais da Comunidade;\n\nc) No caso dos tubérculos de *Solanum tuberosum* L., destinados à plantação, enumerados no ponto 18.1 da secção II da parte A do anexo IV da Directiva 2000/29/CE ([^1^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0001)), a etiqueta oficial definida no anexo III da Directiva 2002/56/CE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0002)) pode ser utilizada em vez de um passaporte fitossanitário, desde que a etiqueta ateste o cumprimento dos requisitos referidos no n.º 4 do artigo 6.º da Directiva 2000/29/CE (após 31 de Dezembro de 2005, a etiqueta deve conter a menção «Passaporte fitossanitário CE»); o cumprimento das disposições relativas à introdução de tubérculos *Solanum tuberosum* L., destinados à plantação numa zona protegida e à sua circulação no interior de uma dessas zonas, reconhecida relativamente a organismos prejudiciais para os tubérculos, será indicado na etiqueta ou em qualquer outro documento comercial;\n\nd) No caso das sementes de *Helianthus annuus* L., enumeradas no ponto 26 da secção II da parte A do anexo IV da Directiva 2000/29/CE, a etiqueta oficial definida no anexo IV da Directiva 2002/57/CE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0003)) pode ser utilizada em vez de um passaporte fitossanitário, desde que a etiqueta ateste o cumprimento dos requisitos referidos no n.º 4 do artigo 6.º da Directiva 2000/29/CE (após 31 de Agosto de 2005, a etiqueta deve conter a menção «Passaporte fitossanitário CE»);\n\ne) No caso das sementes de *Lycopersicon lycopersicum* (L.) Karsten ex Farw., e *Phaseolus* L., enumeradas nos pontos 27 e 29 da secção II da parte A do anexo IV da Directiva 2000/29/CE, a etiqueta oficial definida no anexo IV A da Directiva 2002/55/CE do Conselho ([^4^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0004)) pode ser utilizada em vez de um passaporte fitossanitário, desde que a etiqueta ateste o cumprimento dos requisitos referidos no n.º 4 do artigo 6.º da Directiva 2000/29/CE (após 31 de Agosto de 2005, a etiqueta deve conter a menção «Passaporte fitossanitário CE»);\n\nf) No caso das sementes de *Medicago sativa* L., enumeradas nos pontos 28.1 e 28.2 da secção II da parte A do anexo IV da Directiva 2000/29/CE, a etiqueta oficial definida na parte A do anexo IV da Directiva 66/401/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0005)) pode ser utilizada em vez de um passaporte fitossanitário, desde que a etiqueta ateste o cumprimento dos requisitos referidos no n.º 4 do artigo 6.º da Directiva 2000/29/CE (após 31 de Agosto de 2005, a etiqueta deve conter a menção «Passaporte fitossanitário CE»).\n\n3. Quando o passaporte fitossanitário referido no n.º 1 for constituído pela etiqueta e pelo documento que a acompanha, os Estados-membros exigirão que da parte do passaporte fitossanitário constituída:\n\na) Pela etiqueta constem, pelo menos, os dados exigidos nos n.^os^ 1, 2, 3, 4 e 5 do anexo;\n\nb) Pelo documento que a acompanha constem, pelo menos, os dados exigidos nos n.^os^ 1 a 10 do anexo.\n\n4. Quaisquer dados não referidos no anexo e que sejam de importância para efeitos de rotulagem ao abrigo das directivas 91/682/CEE do Conselho ([^6^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0006)), 92/33/CEE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0007)) e 92/34/CEE do Conselho ([^8^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0008)) podem também ser indicados no documento de acompanhamento, devendo, porém, estar claramente separados das informações especificadas no anexo."
+  },
+  "e85a0ab2fe307100": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Aquando da produção, impressão e armazenagem dos passaportes fitossanitários, os Estados-membros assegurarão a satisfação das condições previstas no n.º 2.\n\n2. O passaporte fitossanitário referido no n.º 1 do artigo 1.º será produzido, impresso e/ou armazenado quer directamente pelos organismos oficiais responsáveis referidos no n.º 1 do artigo 1.º quer — sob controlo daqueles organismos — pelo produtor referido no n.º 4, terceiro parágrafo, do artigo 6.º, pela pessoa referida no n.º 3, segundo travessão, do artigo 10.º ou pelo importador referido no n.º 6, segundo parágrafo, do artigo 12.º da Directiva 77/93/CEE."
+  },
+  "5a620c713deb1646": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros assegurarão a satisfação das condições previstas no n.º 2 sempre que o passaporte fitossanitário for emitido e acompanhar as plantas, os produtos vegetais e outros materiais, as embalagens que os contenham ou os veículos em que são transportados.\n\nA emissão inclui o preenchimento do passaporte, nomeadamente das informações exigidas, e as acções necessárias para colocar o passaporte à disposição do requerente.\n\n2. Para efeitos do n.º 1 e sem prejuízo das exigências estabelecidas na referida Directiva 77/93/CEE, os organismos oficiais responsáveis mencionados no n.º 1 do artigo 1.º:\n\na) Assegurarão que o produtor, a pessoa ou o importador referidos no n.º 2 do artigo 2.º lhes solicitem a emissão ou a substituição do passaporte fitossanitário;\n\nb) Com base nos controlos previstos nos n.^os^ 1, 2 e 3 do artigo 6.º da Directiva 77/93/CEE, efectuados em conformidade com o n.º 4 do artigo 6.º, ou nas exigências previstas no n.º 3 do artigo 10.º ou no n.º 6 do artigo 12.º, conforme o caso, da mesma directiva, determinarão as restrições aplicáveis às plantas, produtos vegetais ou outros materiais e, em conformidade com a validade territorial do passaporte fitossanitário ou determinarão a substituição do referido passaporte fitossanitário, bem como as informações que dele devem constar.\n\nc) Assegurarão que as informações sejam registadas, em maiúsculas no caso de o passaporte fitossanitário ser previamente impresso ou em maiúsculas ou inteiramente dactilografadas em todos os outros casos. Será indicado o nome latino das plantas ou produtos vegetais. As alterações ou rasuras não autenticadas invalidarão o referido passaporte fitossanitário;\n\nd) Assegurarão que, no caso de terem aprovado uma planta, produto vegetal ou outro material para uma zona ou zonas protegidas específicas, o código da zona ou zonas protegidas seja aposto no passaporte fitossanitário, sobre a marca «ZP» (*zona protecta*), indicando, assim, que o referido passaporte fitossanitário respeita a uma planta, um produto vegetal ou outro material aprovado para uma zona protegida;\n\ne) Assegurarão que, no caso da emissão de um passaporte fitossanitário para uma planta, um produto vegetal ou outro material originário do exterior da Comunidade, seja utilizado o passaporte fitossanitário, onde será indicado o país de origem ou, se for caso disso, o país expedidor;\n\nf) Assegurarão que, caso um passaporte fitossanitário tenha que ser substituído, seja utilizado o passaporte referido no n.º 1 do artigo 1.º; o código do produtor registado originariamente ou do importador será aposto no novo passaporte fitossanitário sobre a marca «RP» (replacement passport), indicando, assim, que o referido passaporte fitossanitário substitui outro passaporte fitossanitário;\n\ng) Em função do local onde se conserve o referido passaporte fitossanitário, emiti-lo-ão ou autorizarão o produtor, a pessoa ou o importador referidos no n.º 2 do artigo 2.º a usá-lo em conformidade;\n\nh) Assegurarão que a parte do referido passaporte fitossanitário constituída pela etiqueta acompanhe, sob a responsabilidade do produtor, da pessoa ou do importador referidos no n.º 2 do artigo 2.º, as plantas, os produtos vegetais ou outros materiais, embalagens que os contenham ou veículos em que são transportados, de forma a que não possa voltar a ser utilizada."
+  },
+  "1e9f8af11430cf16": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao disposto na presente directiva na data referida no n.º 1 do artigo 3.º da Directiva 91/683/CEE do Conselho ([^9^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#E0009)). Desse facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-membros devem conter uma referência à presente directiva, devendo, quando oficialmente publicadas, ser acompanhadas dessa referência. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão imediatamente à Comissão todas as disposições do direito nacional que adoptarem no domínio regulado pela presente directiva. A Comissão informará os outros Estados-membros desse facto."
+  },
+  "cbdc6addc4b6054d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "a6103c199375f629": {
+   "fragment_id": "INFORMAÇÕES EXIGIDAS",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES EXIGIDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES EXIGIDAS\n\n1. «Passaporte fitossanitário CE» (durante um período transitório, que expira em 1 de Janeiro de 2006, pode ser usada a menção «Passaporte fitossanitário CEE»).\n\n2. Código do Estado-membro da Comunidade Europeia.\n\n3. Organismo oficial responsável ou o seu código.\n\n4. Número de registo.\n\n5. Número da série, semana ou número do lote.\n\n6. Designação botânica.\n\n7. Quantidade.\n\n8. Marca «ZP» relativa à validade territorial do passaporte e, se for caso disso, menção da zona ou zonas protegidas para as quais o produto foi aprovado.\n\n9. Marca «RP» no caso de substituição de um passaporte fitossanitário e, se for caso disso, código do produtor inicialmente registado ou do importador.\n\n10. Se for caso disso, indicação do país de origem ou do pais expedidor para os produtos de países terceiros.\n\n---"
+  },
+  "3461eac20cf7cef5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0001)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0002)) JO L 193 de 20.7.2002, p. 60.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0003)) JO L 193 de 20.7.2002, p. 74.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0004)) JO L 193 de 20.7.2002, p. 33.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0005)) JO 125 de 11.7.1966, p. 2298/66.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0006)) JO n.º L 376 de 31.12.1991, p. 21.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0007)) JO n.º L 157 de 10.6.1992, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0008)) JO n.º L 157 de 10.6.1992, p. 10.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/94265f9c-232e-4afc-a6ca-867efd0f0a13.0015.02/DOC_1#src.E0009)) JO n.º L 376 de 31.12.1991, p. 29."
+  },
+  "6ddb4d27d1ec1c7e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01992L0105 — PT — 31.12.2021 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31992L0105) [DIRECTIVA 92/105/CEE DA COMISSÃO](http://publications.europa.eu/resource/celex/31992L0105) [de 3 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31992L0105) [que estabelece uma determinada normalização para os passaportes fitossanitários a utilizar para a circulação de certas plantas, produtos vegetais ou outros materiais na Comunidade, os processos pormenorizados para a emissão desses passaportes e as condições e processos pormenorizados para a sua substituição](http://publications.europa.eu/resource/celex/31992L0105) (JO L 004, 8.1.1993, p.22)\n\n**Revogada por:**\n\n- [Regulamento de Execução (UE) 2020/1770 da Comissão de 26 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1770) — L 398 — 6 — 27.11.2020"
+  }
+ }
+}

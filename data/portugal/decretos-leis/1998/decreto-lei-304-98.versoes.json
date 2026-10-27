@@ -1,0 +1,526 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:235926:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-114200748",
+ "dre_path": "/dr/detalhe/decreto-lei/304-1998-235926",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-10-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114198433",
+    "114198434",
+    "114198435",
+    "114198436",
+    "114198437",
+    "114198438",
+    "114198439",
+    "114198440",
+    "114198441",
+    "114198442",
+    "114198443",
+    "114198444",
+    "114198446",
+    "114198447",
+    "114198448",
+    "114198449"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:610740:por",
+     "title": "Declaração de Rectificação n.º 19-A/98",
+     "published": "1998-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/19-a-1998-610740",
+     "date": "1998-10-08"
+    }
+   ]
+  },
+  {
+   "date": "2011-10-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671233:por",
+     "title": "Decreto-Lei n.º 103/2011",
+     "published": "2011-10-04",
+     "dre_path": "/dr/detalhe/decreto-lei/103-2011-671233"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 8.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Parte I",
+    "Altera Parte II",
+    "Altera Parte III"
+   ],
+   "fragments": [
+    "114198433",
+    "114198434",
+    "114198451",
+    "114198455",
+    "114198456",
+    "114198457",
+    "114198458",
+    "114198459",
+    "114198460",
+    "114198461",
+    "114198467",
+    "114198468",
+    "114198469",
+    "114198470",
+    "114198471",
+    "114198472",
+    "114198473",
+    "114198474",
+    "114202275"
+   ]
+  },
+  {
+   "date": "2017-11-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114163923:por",
+     "title": "Decreto-Lei n.º 137/2017",
+     "published": "2017-11-08",
+     "dre_path": "/dr/detalhe/decreto-lei/137-2017-114163923"
+    }
+   ],
+   "changes": [
+    "Altera Parte II"
+   ],
+   "fragments": [
+    "114198433",
+    "114198434",
+    "114198451",
+    "114198455",
+    "114198456",
+    "114198457",
+    "114198458",
+    "114198459",
+    "114198460",
+    "114198461",
+    "114198467",
+    "114198468",
+    "114198469",
+    "114198470",
+    "114198471",
+    "114198472",
+    "114198473",
+    "114202276",
+    "114202275"
+   ]
+  },
+  {
+   "date": "2025-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:920796196:por",
+     "title": "Decreto-Lei n.º 83/2025",
+     "published": "2025-06-06",
+     "dre_path": "/dr/detalhe/decreto-lei/83-2025-920796196"
+    }
+   ],
+   "changes": [
+    "Adita Parte IV",
+    "Altera Artigo 2.º-A",
+    "Altera Artigo 4.º",
+    "Altera Parte I",
+    "Altera Parte II",
+    "Altera Parte III"
+   ],
+   "fragments": [
+    "114198433",
+    "114198434",
+    "114198451",
+    "920662467",
+    "114198456",
+    "920662468",
+    "114198458",
+    "114198459",
+    "114198460",
+    "114198461",
+    "114198467",
+    "114198468",
+    "114198469",
+    "114198470",
+    "114198471",
+    "114198472",
+    "920662469",
+    "920662470",
+    "920662471",
+    "920662472"
+   ]
+  }
+ ],
+ "fragments": {
+  "114198433": {
+   "fragment_id": "114200749",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 304/98\n\nde 7 de Outubro\n\nO Decreto-Lei n.º 82/92, de 7 de Maio, e a Portaria n.º 1034/92, de 5 de Novembro, ao transporem para o direito nacional a Directiva do Conselho n.º <a href=\"eurlex.asp?ano=1988&id=388L0344\" title=\"Link para Directiva da Comunidade Europeia\">88/344/CEE</a>, de 13 de Junho de 1988, fixaram uma lista única de solventes de extracção para a preparação de géneros alimentícios ou outros ingredientes alimentares, especificaram os critérios gerais de pureza dos solventes de extracção e estabeleceram as condições de utilização de determinados solventes e os resíduos permitidos nos géneros alimentícios e seus ingredientes.\n\nO conhecimento científico e o progresso técnico levaram à criação de novas substâncias, às quais o Comité Científico da Alimentação Humana (CCAH) deu parecer favorável, determinando a adopção das Directivas n.os <a href=\"eurlex.asp?ano=1992&id=392L0115\" title=\"Link para Directiva da Comunidade Europeia\">92/115/CEE</a>, do Conselho, de 17 de Dezembro de 1992, e <a href=\"eurlex.asp?ano=1994&id=394L0052\" title=\"Link para Directiva da Comunidade Europeia\">94/52/CE</a>, do Parlamento Europeu e do Conselho, de 7 de Dezembro de 1994, transpostas para o direito nacional pelas Portarias n.os 263/94, de 30 de Abril, e 712/96, de 9 de Dezembro, respectivamente.\n\nA evolução técnica no domínio dos solventes de extracção tem prosseguido e disso é reflexo a Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0060\" title=\"Link para Directiva da Comunidade Europeia\">97/60/CE</a>, do Parlamento Europeu e do Conselho, de 27 de Outubro de 1997, que, pela terceira vez, altera a Directiva do Conselho n.º <a href=\"eurlex.asp?ano=1988&id=388L0344\" title=\"Link para Directiva da Comunidade Europeia\">88/344/CEE</a>, de 13 de Junho de 1988, relativa à aproximação das legislações dos Estados membros sobre os solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes.\n\nAproveita-se a necessidade de transpor para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0060\" title=\"Link para Directiva da Comunidade Europeia\">97/60/CE</a>, em conformidade com o disposto no n.º 9 do artigo 112.º da Constituição, para reunir num único diploma legal a disciplina dos solventes de extracção.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º e dos n.os 5 e 9 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114198434": {
+   "fragment_id": "114200750",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se aos solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes.\n\n2 - Ficam excluídos do âmbito de aplicação deste diploma os solventes de extracção utilizados na produção de aditivos alimentares, de vitaminas e de outros nutrientes, com excepção dos que constam das listas do anexo ao presente diploma, que dele faz parte integrante."
+  },
+  "114198435": {
+   "fragment_id": "114200751",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Género alimentício» toda a substância, seja ou não tratada, destinada à alimentação humana, englobando as bebidas e os produtos do tipo pastilhas elásticas, com todos os ingredientes utilizados no seu fabrico, preparação e tratamento;\n\nb) «Ingrediente» toda a substância, inclusive aditivo alimentar, incorporada intencionalmente como componente de um género alimentício durante o fabrico ou preparação e presente no produto acabado, embora modificado;\n\nc) «Auxiliar tecnológico» toda a substância utilizada intencionalmente para desempenhar uma dada função tecnológica durante a obtenção, tratamento ou transformação de matérias-primas, géneros alimentícios ou seus ingredientes e que pode ocasionar a presença involuntária, mas inevitável, de resíduos ou de seus derivados no produto acabado;\n\nd) «Solvente» qualquer substância própria para dissolver um género alimentício ou o composto de um género alimentício, incluindo o agente contaminador presente neste ou sobre este género alimentício;\n\ne) «Solvente de extracção» um solvente utilizado durante o processo de extracção, aquando do tratamento de matérias-primas de géneros alimentícios, de componentes ou de ingredientes destes produtos, que é eliminado e que pode provocar a presença involuntária mas tecnicamente inevitável de resíduos ou de derivados no género alimentício ou no ingrediente."
+  },
+  "114198436": {
+   "fragment_id": "114200752",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de utilização dos solventes de extracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de utilização dos solventes de extracção\n\n1 - Apenas podem ser utilizadas, como solventes de extracção no fabrico de géneros alimentícios ou dos seus ingredientes, as substâncias e matérias enumeradas no anexo ao presente diploma, que dele faz parte integrante, nas condições de utilização e dentro dos limites máximos de resíduos que aí vêm referidos.\n\n2 - São autorizados como solventes de extracção no fabrico de géneros alimentícios ou dos seus ingredientes a água, à qual podem ter sido adicionadas substâncias para regular a acidez ou a alcalinidade, bem como outras substâncias alimentares que possuam propriedades de solventes."
+  },
+  "114198437": {
+   "fragment_id": "114200753",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de pureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de pureza\n\nOs solventes de extracção devem obedecer aos seguintes critérios de pureza:\n\na) Não conter qualquer elemento ou substância em quantidade perigosa do ponto de vista toxicológico;\n\nb) Salvo os casos eventualmente previstos para os critérios de pureza específicos referidos na alínea c), não conter mais de 1 mg/kg de arsénio ou mais de 1 mg/kg de chumbo;\n\nc) Corresponder aos critérios específicos de pureza estabelecidos de acordo com as regras comunitárias."
+  },
+  "114198438": {
+   "fragment_id": "114200754",
+   "type": 11,
+   "heading": "Artigo 5.º — Suspensão ou restrição temporária de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suspensão ou restrição temporária de utilização\n\nSe o uso nos géneros alimentícios de uma das substâncias referidas no anexo ao presente diploma, que dele faz parte integrante, ou se a presença nessas substâncias de um ou mais componentes referidos no artigo 4.º for susceptível de ser nociva para a saúde humana, a sua utilização pode ser suspensa ou restringida temporariamente, nos termos da lei geral."
+  },
+  "114198439": {
+   "fragment_id": "114200755",
+   "type": 11,
+   "heading": "Artigo 6.º — Menções de rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Menções de rotulagem\n\n1 - Na rotulagem dos auxiliares tecnológicos colocados no mercado devem constar nas embalagens ou recipientes, em caracteres bem visíveis, claramente visíveis e indeléveis, as seguintes indicações:\n\na) A denominação de venda indicada nos termos do anexo;\n\nb) A menção «Para usar na extracção de géneros alimentícios ou seus ingredientes»;\n\nc) Identificação do lote;\n\nd) O nome ou a denominação social e o endereço do fabricante ou do embalador ou de um vendedor estabelecido no interior da Comunidade;\n\ne) A quantidade líquida, expressa em unidades de volume;\n\nf) Se necessário, as condições especiais de conservação ou de utilização.\n\n2 - As referências indicadas nas alíneas c), d), e) e f) do n.º 1 podem constar apenas dos documentos comerciais relativos ao lote a fornecer antes ou no acto da entrega.\n\n3 - As disposições anteriores aplicam-se sem prejuízo da legislação em vigor relativa a metrologia e, ainda, à classificação, acondicionamento e rotulagem de substâncias e preparações perigosas."
+  },
+  "114198440": {
+   "fragment_id": "114200756",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime sancionatório\n\n1 - Constituem contra-ordenações as infracções ao disposto no n.º 1 do artigo 3.º, no artigo 4.º e no n.º 1 do artigo 6.º do presente diploma.\n\n2 - Às contra-ordenações previstas no número anterior aplica-se o regime consagrado no Decreto-Lei n.º 28/84, de 20 de Janeiro, e, supletivamente, o regime constante do Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 356/89, de 17 de Outubro, e 244/95, de 14 de Setembro."
+  },
+  "114198441": {
+   "fragment_id": "114200757",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidade competente para a aplicação de coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidade competente para a aplicação de coimas e sanções acessórias\n\nCompete ao director da Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar a aplicação de coimas e sanções acessórias no âmbito do presente diploma."
+  },
+  "114198442": {
+   "fragment_id": "114200758",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\nOs produtos não conformes com o presente diploma, mas que tenham sido colocados no mercado ou rotulados, antes de 27 de Abril de 1999, poderão ser comercializados até ao esgotamento das existências."
+  },
+  "114198443": {
+   "fragment_id": "114200759",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 82/92, de 7 de Maio, e as Portarias n.os 1034/92, de 5 de Novembro, 263/94, de 30 de Abril, e 712/96, de 9 de Dezembro."
+  },
+  "114198444": {
+   "fragment_id": "114200760",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114198446": {
+   "fragment_id": "114200762",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nSolventes de extracção cuja utilização é autorizada para o tratamento de matérias-primas, de géneros alimentícios ou de compostos de géneros alimentícios ou dos respectivos ingredientes."
+  },
+  "114198447": {
+   "fragment_id": "114200763",
+   "type": 4,
+   "heading": "Parte I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte I\n\nSolventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos (ver nota 1)\n\nPropano.\n\nButano.\n\nAcetato de etilo.\n\nEtanol.\n\nAnidrido carbónico.\n\nAcetona (ver nota 2).\n\nProtóxido de azoto.\n\n(nota 1) Considera-se que um solvente de extracção é utilizado respeitando as boas práticas de fabrico se o seu emprego levar apenas à presença de resíduos ou de derivados em quantidades tecnicamente inevitáveis e que não representem riscos para a saúde humana.\n\n(nota 2) É proibido o uso de acetona na refinação de óleo de bagaço de azeitona."
+  },
+  "114198448": {
+   "fragment_id": "114200764",
+   "type": 4,
+   "heading": "Parte II — Solventes de extracção cujas condições de utilização são especificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte II — Solventes de extracção cujas condições de utilização são especificadas\n\n(ver tabela no documento original)"
+  },
+  "114198449": {
+   "fragment_id": "114200765",
+   "type": 4,
+   "heading": "Parte III — Solventes de extracção cujas condições de utilização são especificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte III — Solventes de extracção cujas condições de utilização são especificadas\n\n(ver tabela no documento original)"
+  },
+  "114198451": {
+   "fragment_id": "114200751",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Género alimentício ou alimento para consumo humano» qualquer substância ou produto, transformado, parcialmente transformado ou não transformado, destinado a ser ingerido pelo ser humano ou com razoáveis probabilidades de o ser, nos mesmos termos em que o artigo 2.º do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de Janeiro, define este termo;\n\nb) «Ingrediente» toda a substância, inclusive aditivo alimentar, incorporada intencionalmente como componente de um género alimentício durante o fabrico ou preparação e presente no produto acabado, embora modificado;\n\nc) «Auxiliar tecnológico» qualquer substância que não seja consumida como género alimentício em si mesma, seja intencionalmente utilizada na transformação das matérias-primas, dos géneros alimentícios ou dos seus ingredientes, para atingir determinado objectivo tecnológico durante o tratamento ou a transformação, e possa resultar na presença não intencional mas tecnicamente inevitável de resíduos da substância ou dos seus derivados no produto final, desde que esses resíduos não apresentem qualquer risco sanitário nem produzam efeitos tecnológicos sobre o produto final, nos mesmos termos em que a alínea b) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 1333/2008, do Parlamento Europeu e do Conselho, de 16 de Dezembro, define este termo;\n\nd) «Solvente» qualquer substância própria para dissolver um género alimentício ou o composto de um género alimentício, incluindo o agente contaminador presente neste ou sobre este género alimentício;\n\ne) «Solvente de extracção» um solvente utilizado durante o processo de extracção, aquando do tratamento de matérias-primas de géneros alimentícios, de componentes ou de ingredientes destes produtos, que é eliminado e que pode provocar a presença involuntária mas tecnicamente inevitável de resíduos ou de derivados no género alimentício ou no ingrediente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114198455": {
+   "fragment_id": "114200767",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Controlo oficial",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "###### Artigo 2.º-A — Controlo oficial\n\n1 - Compete ao Gabinete de Planeamento e Políticas (GPP) do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, designadamente:\n\na) Seleccionar e aplicar as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Elaborar e coordenar a execução do plano de controlo oficial elaborado ao abrigo do Regulamento (CE) n.º 882/2004, do Parlamento Europeu e do Conselho, de 29 de Abril, respeitante aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas atinentes à saúde e ao bem-estar dos animais;\n\nc) Verificar o cumprimento, por parte dos operadores, das obrigações estabelecidas no presente diploma, nomeadamente no decurso das acções enquadradas no plano de controlo oficial referido na alínea anterior.\n\n2 - A execução do plano de controlo oficial previsto na alínea b) do número anterior cabe às direcções regionais de agricultura e pescas e aos serviços competentes das regiões autónomas.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114198456": {
+   "fragment_id": "114200752",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de utilização dos solventes de extracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de utilização dos solventes de extracção\n\n1 - Apenas podem ser utilizadas, como solventes de extracção no fabrico de géneros alimentícios ou dos seus ingredientes, as substâncias e matérias enumeradas no anexo ao presente diploma, que dele faz parte integrante, nas condições de utilização e dentro dos limites máximos de resíduos que aí vêm referidos.\n\n2 - São autorizados como solventes de extracção no fabrico de géneros alimentícios ou dos seus ingredientes a água, à qual podem ter sido adicionadas substâncias para regular a acidez ou a alcalinidade, bem como outras substâncias alimentares que possuam propriedades de solventes."
+  },
+  "114198457": {
+   "fragment_id": "114200753",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de pureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de pureza\n\nOs solventes de extracção devem obedecer aos seguintes critérios de pureza:\n\na) Não conter qualquer elemento ou substância em quantidade perigosa do ponto de vista toxicológico;\n\nb) Salvo os casos eventualmente previstos para os critérios de pureza específicos referidos na alínea c), não conter mais de 1 mg/kg de arsénio ou mais de 1 mg/kg de chumbo;\n\nc) Corresponder aos critérios específicos de pureza estabelecidos de acordo com as regras comunitárias."
+  },
+  "114198458": {
+   "fragment_id": "114200754",
+   "type": 11,
+   "heading": "Artigo 5.º — Suspensão ou restrição temporária de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suspensão ou restrição temporária de utilização\n\nSe o uso nos géneros alimentícios de uma das substâncias referidas no anexo ao presente diploma, que dele faz parte integrante, ou se a presença nessas substâncias de um ou mais componentes referidos no artigo 4.º for susceptível de ser nociva para a saúde humana, a sua utilização pode ser suspensa ou restringida temporariamente, nos termos da lei geral."
+  },
+  "114198459": {
+   "fragment_id": "114200755",
+   "type": 11,
+   "heading": "Artigo 6.º — Menções de rotulagem",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "###### Artigo 6.º — Menções de rotulagem\n\n1 - Na rotulagem dos auxiliares tecnológicos colocados no mercado devem constar das embalagens ou recipientes, em caracteres bem visíveis, claramente legíveis e indeléveis, as seguintes indicações:\n\na) A denominação de venda indicada nos termos do anexo;\n\nb) A menção «Para usar na extracção de géneros alimentícios ou seus ingredientes»;\n\nc) Identificação do lote;\n\nd) O nome ou a denominação social e o endereço do fabricante ou do embalador ou de um vendedor estabelecido no interior da Comunidade;\n\ne) A quantidade líquida, expressa em unidades de volume;\n\nf) Se necessário, as condições especiais de conservação ou de utilização.\n\n2 - As referências indicadas nas alíneas c), d), e) e f) do n.º 1 podem constar apenas dos documentos comerciais relativos ao lote a fornecer antes ou no acto da entrega.\n\n3 - As disposições anteriores aplicam-se sem prejuízo da legislação em vigor relativa a metrologia e, ainda, à classificação, acondicionamento e rotulagem de substâncias e preparações perigosas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114198460": {
+   "fragment_id": "114200756",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime sancionatório",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "###### Artigo 7.º — Regime sancionatório\n\n1 - Constituem contra-ordenações as infracções ao disposto no n.º 1 do artigo 3.º, no artigo 4.º e no n.º 1 do artigo 6.º do presente diploma.\n\n2 - As contra-ordenações referidas no número anterior são punidas com coima de (euro) 100 a (euro) 3740, no caso de pessoa singular, e de (euro) 1000 a (euro) 44 890, no caso de pessoa colectiva.\n\n3 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n4 - A tentativa é punível com a coima aplicável à contra-ordenação consumada, especialmente atenuada.\n\n5 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras e mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n6 - Às contra-ordenações previstas no presente diploma é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114198461": {
+   "fragment_id": "114200757",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscalização, instrução e decisão",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "###### Artigo 8.º — Fiscalização, instrução e decisão\n\n1 - Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infracção ao disposto no presente diploma competem à Autoridade de Segurança Alimentar e Económica (ASAE) e aos serviços competentes nas regiões autónomas.\n\n2 - Finda a instrução, os processos são remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para a decisão de aplicação de coima e sanções acessórias.\n\n3 - A CACMEP envia à ASAE e ao GPP cópia das decisões finais de aplicação de coima e sanções acessórias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114198467": {
+   "fragment_id": "114200768",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Destino do produto das coimas",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "###### Artigo 8.º-A — Destino do produto das coimas\n\nO produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para os cofres do Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 20 % para a entidade que instruiu o processo;\n\nd) 10 % para a CACMEP.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114198468": {
+   "fragment_id": "114200758",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\nOs produtos não conformes com o presente diploma, mas que tenham sido colocados no mercado ou rotulados, antes de 27 de Abril de 1999, poderão ser comercializados até ao esgotamento das existências."
+  },
+  "114198469": {
+   "fragment_id": "114200759",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 82/92, de 7 de Maio, e as Portarias n.os 1034/92, de 5 de Novembro, 263/94, de 30 de Abril, e 712/96, de 9 de Dezembro."
+  },
+  "114198470": {
+   "fragment_id": "114200760",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114198471": {
+   "fragment_id": "114200761",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/98 - Diário da República n.º 252/1998, 2º Suplemento, Série I-A de 1998-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-1998-610740), em vigor a partir de 1998-10-08"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Agosto de 1998. - Jaime José Matos da Gama - José Manuel de Matos Fernandes - Vítor Manuel Sampaio Caetano Ramalho - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 18 de Setembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Setembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/98 - Diário da República n.º 252/1998, 2º Suplemento, Série I-A de 1998-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-1998-610740), em vigor a partir de 1998-10-08"
+  },
+  "114198472": {
+   "fragment_id": "114200762",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nSolventes de extracção cuja utilização é autorizada para o tratamento de matérias-primas, de géneros alimentícios ou de compostos de géneros alimentícios ou dos respectivos ingredientes."
+  },
+  "114198473": {
+   "fragment_id": "114200763",
+   "type": 4,
+   "heading": "Parte I",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "## Parte I\n\nSolventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos (ver nota 1)\n\nPropano.\n\nButano.\n\nAcetato de etilo.\n\nEtanol.\n\nAnidrido carbónico.\n\nDióxido de carbono.\n\nAcetona (ver nota 2).\n\nProtóxido de azoto.\n\nÓxido nitroso.\n\n(nota 1) Considera-se que um solvente de extracção é utilizado respeitando as boas práticas de fabrico se o seu emprego levar apenas à presença de resíduos ou de derivados em quantidades tecnicamente inevitáveis e que não representem riscos para a saúde humana.\n\n(nota 2) É proibido o uso de acetona na refinação de óleo de bagaço de azeitona.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114198474": {
+   "fragment_id": "114200764",
+   "type": 4,
+   "heading": "Parte II — Solventes de extracção cujas condições de utilização são especificadas",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "## Parte II — Solventes de extracção cujas condições de utilização são especificadas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114202275": {
+   "fragment_id": "114200765",
+   "type": 4,
+   "heading": "Parte III — Solventes de extracção cujas condições de utilização são especificadas",
+   "in_force_from": "2011-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "## Parte III — Solventes de extracção cujas condições de utilização são especificadas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "114202276": {
+   "fragment_id": "114200764",
+   "type": 4,
+   "heading": "Parte II — Solventes de extracção cujas condições de utilização são especificadas",
+   "in_force_from": "2017-11-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2017-114163923), em vigor a partir de 2017-11-09",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "## Parte II — Solventes de extracção cujas condições de utilização são especificadas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2017-114163923), em vigor a partir de 2017-11-09\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "920662467": {
+   "fragment_id": "114200767",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Controlo oficial",
+   "in_force_from": "2025-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "###### Artigo 2.º-A — Controlo oficial\n\n1 - Compete à Direção-Geral de Alimentação e Veterinária, designadamente:\n\na) Seleccionar e aplicar as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Elaborar, coordenar e executar o plano de controlo oficial elaborado ao abrigo do Regulamento (UE) n.º 2017/625, do Parlamento Europeu e do Conselho, de 15 de março de 2017, na sua redação atual, relativo aos controlos oficiais e outras atividades oficiais que visam assegurar a aplicação da legislação em matéria de géneros alimentícios e alimentos para animais e das regras sobre saúde e bem-estar animal, fitossanidade e produtos fitofarmacêuticos;\n\nc) Verificar o cumprimento, por parte dos operadores, das obrigações estabelecidas no presente diploma, nomeadamente no decurso das acções enquadradas no plano de controlo oficial referido na alínea anterior.\n\n2 - Compete à Autoridade de Segurança Alimentar e Económica, no âmbito das suas competências, designadamente:\n\na) Executar o plano de controlo oficial elaborado ao abrigo do Regulamento (UE) n.º 2017/625, do Parlamento Europeu e do Conselho, de 15 de março de 2017, na sua redação atual, previsto na alínea b) do número anterior;\n\nb) Verificar o cumprimento, por parte dos operadores, das obrigações estabelecidas no presente diploma, nomeadamente no decurso das ações enquadradas no plano de controlo oficial.\n\n3 - A execução, nas regiões autónomas, do plano de controlo oficial previsto na alínea b) do n.º 1 cabe aos respetivos serviços competentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "920662468": {
+   "fragment_id": "114200753",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de pureza",
+   "in_force_from": "2025-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07"
+   ],
+   "markdown": "###### Artigo 4.º — Critérios de pureza\n\nOs solventes de extracção devem obedecer aos seguintes critérios de pureza:\n\na) Não conter qualquer elemento ou substância em quantidade perigosa do ponto de vista toxicológico;\n\nb) Salvo os casos eventualmente previstos para os critérios de pureza específicos referidos na alínea c), não conter mais de 1 mg/kg de arsénio ou mais de 1 mg/kg de chumbo;\n\nc) Corresponder aos critérios específicos de pureza para os solventes de extração previstos na parte iv do anexo ao presente diploma e do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07"
+  },
+  "920662469": {
+   "fragment_id": "114200763",
+   "type": 4,
+   "heading": "Parte I — SOLVENTES DE EXTRAÇÃO A UTILIZAR RESPEITANDO AS BOAS PRÁTICAS DE FABRICO, PARA TODOS OS USOS (1)",
+   "in_force_from": "2025-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "## Parte I — SOLVENTES DE EXTRAÇÃO A UTILIZAR RESPEITANDO AS BOAS PRÁTICAS DE FABRICO, PARA TODOS OS USOS (1)\n\nPropano.\n\nButano.\n\nAcetato de etilo.\n\nEtanol.\n\nAnidrido carbónico.\n\nAcetona (2).\n\nProtóxido de azoto.\n\nÓxido nitroso.\n\n(1) Considera-se que um solvente de extração é utilizado respeitando as boas práticas de fabrico se o seu emprego levar apenas à presença de resíduos ou de derivados em quantidades tecnicamente inevitáveis e que não representem riscos para a saúde humana.\n\n(2) É proibido o uso de acetona na refinação de óleo de bagaço de azeitona.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "920662470": {
+   "fragment_id": "114200764",
+   "type": 4,
+   "heading": "Parte II — SOLVENTES DE EXTRAÇÃO CUJAS CONDIÇÕES DE UTILIZAÇÃO SÃO ESPECIFICADAS",
+   "in_force_from": "2025-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2017-114163923), em vigor a partir de 2017-11-09",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "## Parte II — SOLVENTES DE EXTRAÇÃO CUJAS CONDIÇÕES DE UTILIZAÇÃO SÃO ESPECIFICADAS\n\n| Nome | Condições utilização (descrição sucinta da extração) | Limites máximos de resíduos máximos nos géneros alimentícios ou nos ingredientes alimentares extraídos |\n| --- | --- | --- |\n| Hexano (1) | Produção ou fracionamento de gorduras e óleos e produção de manteiga de cacau. | 1 mg/kg na gordura ou óleo ou manteiga de cacau. |\n|  | Preparação de produtos à base de proteínas desengorduradas e de farinhas desengorduradas. | 10 mg/kg no género alimentício contendo o produto à base de proteínas desengorduradas e nas farinhas desengorduradas. |\n|  |  | 30 mg/kg nos produtos de soja desengordurados tal como são vendidos ao consumidor final. |\n|  | Preparação de gérmenes de cereais desengordurados. | 5 mg/kg nos gérmenes de cereais desengordurados. |\n| 2- metiloxolano | Produção ou fracionamento de gorduras e óleos e produção de manteiga de cacau. | 1 mg/kg na gordura ou óleo ou manteiga de cacau. |\n|  | Preparação de produtos à base de proteínas desengorduradas e de farinhas desengorduradas. | 10 mg/kg no género alimentício contendo o produto à base de proteínas desengorduradas e nas farinhas desengorduradas. |\n|  |  | 30 mg/kg nos produtos de soja desengordurados tal como são vendidos ao consumidor final. |\n|  | Preparação de gérmenes de cereais desengordurados. | 5 mg/kg nos gérmenes de cereais desengordurados. |\n| Acetato de metilo | Descafeinação ou supressão das matérias irritantes e amargas do café ou do chá. | 20 mg/kg no café ou no chá. |\n|  | Produção de açúcar a partir do melaço. | 1 mg/kg no açúcar. |\n| Etilmetilcetona (2) | Fracionamento de gorduras e óleos. | 5 mg/kg na gordura ou no óleo. |\n|  | Descafeinação ou supressão das matérias irritantes e amargas do café e do chá. | 20 mg/kg no café ou no chá. |\n| Diclorometano | Descafeinação ou supressão das matérias irritantes e amargas do café e do chá. | 2 mg/kg no café torrado e 5 mg/kg no chá. |\n| Metanol | Todas as utilizações. | 10 mg/kg. |\n| Propanol-2 | Todas as utilizações. | 10 mg/kg. |\n| Éter dimetílico | Preparação de produtos à base de proteínas animais desengorduradas, incluindo gelatina (3). | 0,009 mg/kg nos produtos à base de proteínas animais desengorduradas, incluindo gelatina. |\n|  | Preparação de colagénio (4) e seus derivados, exceto gelatina. | 3 mg/kg de colagénio e seus derivados, exceto gelatina. |\n\n(\n\n1\n\n) Hexano: produto comercial composto essencialmente de hidrocarbonetos acíclicos saturados contendo 6 átomos de carbono e que destila entre os 64°C e os 70°C. É proibida a utilização combinada do Hexano e da Etilmetilcetona.\n(\n\n2\n\n) O teor de n-hexano neste solvente não pode exceder 50 mg/kg. É proibida a utilização combinada do Hexano e da Etilmetilcetona.\n(\n\n3\n\n) Gelatina proteínas naturais solúveis, coaguladas ou não, obtidas pela hidrólise parcial do colagénio produzido a partir de ossos, couros, peles, tendões e nervos de animais, em conformidade com os requisitos pertinentes do Regulamento (CE) n.º 853/2004.\n(\n\n4\n\n) Colagénio o produto à base de proteínas produzido a partir de ossos, couros e peles e tendões de animais e fabricado em conformidade com os requisitos pertinentes do Regulamento (CE) n.º 853/2004.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2017-114163923), em vigor a partir de 2017-11-09\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "920662471": {
+   "fragment_id": "114200765",
+   "type": 4,
+   "heading": "Parte III — SOLVENTES DE EXTRAÇÃO CUJAS CONDIÇÕES DE UTILIZAÇÃO SÃO ESPECIFICADAS",
+   "in_force_from": "2025-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+   ],
+   "markdown": "## Parte III — SOLVENTES DE EXTRAÇÃO CUJAS CONDIÇÕES DE UTILIZAÇÃO SÃO ESPECIFICADAS\n\n| Nome | Teores máximos de resíduos no género alimentício devidos à utilização de solventes de extração na preparação de aromas a partir de aromatos naturais. |\n| --- | --- |\n| Éter dietílico | 2 mg/kg |\n| Hexano (1) | 1 mg/kg |\n| 2-metiloxolano | 1 mg/kg |\n| Ciclohexano | 1 mg/kg |\n| Acetato de metilo | 1 mg/kg |\n| Butanol-1 | 1 mg/kg |\n| Butanol-2 | 1 mg/kg |\n| Etilmetilcetona (1) | 1 mg/kg |\n| Diclorometano | 0,02 mg/kg |\n| Propanol-1 | 1 mg/kg |\n| 1,1,1,2-tetrafluoroetano | 0,02 mg/kg |\n| Metanol | 1,5 mg/kg |\n| Propan-2-ol | 1 mg/kg |\n\n(\n\n1\n\n) É proibida a utilização combinada de Hexano e da Etilmetilcetona.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2011 - Diário da República n.º 191/2011, Série I de 2011-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233), em vigor a partir de 2011-10-05"
+  },
+  "920662472": {
+   "fragment_id": "920845153",
+   "type": 4,
+   "heading": "Parte IV — CRITÉRIOS DE PUREZA ESPECÍFICOS PARA OS SOLVENTES DE EXTRAÇÃO CONSTANTES DO PRESENTE ANEXO",
+   "in_force_from": "2025-06-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07"
+   ],
+   "markdown": "## Parte IV — CRITÉRIOS DE PUREZA ESPECÍFICOS PARA OS SOLVENTES DE EXTRAÇÃO CONSTANTES DO PRESENTE ANEXO\n\n| 2-metiloxolano |  |  |\n| --- | --- | --- |\n| Número CAS | 96-47-9 |  |\n| Doseamento | Teor não inferior a 99,9 %, expresso numa base seca. |  |\n| Pureza |  |  |\n| Furano | Teor não superior a 50 mg/kg (expresso numa base seca). |  |\n| 2-metilfurano | Teor não superior a 500 mg/kg (expresso numa base seca). |  |\n| Etanol | Teor não superior a 450 mg/kg (expresso numa base seca). |  |\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 83/2025 - Diário da República n.º 109/2025, Série I de 2025-06-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2025-920796196), em vigor a partir de 2025-06-07"
+  }
+ }
+}

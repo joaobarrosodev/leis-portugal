@@ -1,0 +1,1099 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131193441:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-134776325",
+ "dre_path": "/dr/detalhe/lei/4-c-2020-131193441",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215195275",
+    "134770799",
+    "134770800",
+    "134770801",
+    "134770802",
+    "134770803",
+    "134770804",
+    "134770805",
+    "134770806",
+    "134770807",
+    "134770808",
+    "134770809",
+    "134770810",
+    "134770811",
+    "134770812",
+    "134770813",
+    "134770814",
+    "134770815",
+    "134770816",
+    "134770817",
+    "134770818",
+    "134770819"
+   ]
+  },
+  {
+   "date": "2020-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:134762424:por",
+     "title": "Lei n.º 17/2020",
+     "published": "2020-05-29",
+     "dre_path": "/dr/detalhe/lei/17-2020-134762424"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "134770798",
+    "134770799",
+    "134770800",
+    "134770801",
+    "134770802",
+    "134770803",
+    "134770804",
+    "134770805",
+    "134770806",
+    "134770807",
+    "134770826",
+    "134770827",
+    "134770828",
+    "134770829",
+    "134770812",
+    "134770813",
+    "134770814",
+    "134770830",
+    "134770816",
+    "134770817",
+    "134770831",
+    "134770819",
+    "134770820"
+   ]
+  },
+  {
+   "date": "2020-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145132198:por",
+     "title": "Declaração de Retificação n.º 39/2020",
+     "published": "2020-10-12",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/39-2020-145132198"
+    },
+    {
+     "id": "pt:dre:140631236:por",
+     "title": "Lei n.º 45/2020",
+     "published": "2020-08-20",
+     "dre_path": "/dr/detalhe/lei/45-2020-140631236"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 8.º",
+    "Retifica Artigo 13.º-A",
+    "Retifica Artigo 14.º",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "134770798",
+    "134770799",
+    "134770800",
+    "134770801",
+    "134770802",
+    "134770803",
+    "134770804",
+    "134770805",
+    "134770806",
+    "134770807",
+    "134770826",
+    "140630136",
+    "140630130",
+    "140630131",
+    "140630137",
+    "134770812",
+    "134770813",
+    "134770814",
+    "134770830",
+    "140630133",
+    "140630134",
+    "140630135",
+    "134770817",
+    "140630138",
+    "134770819",
+    "134770820"
+   ]
+  },
+  {
+   "date": "2020-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639821:por",
+     "title": "Decreto-Lei n.º 106-A/2020",
+     "published": "2020-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/106-a-2020-152639821"
+    },
+    {
+     "id": "pt:dre:152639820:por",
+     "title": "Lei n.º 75-A/2020",
+     "published": "2020-12-30",
+     "dre_path": "/dr/detalhe/lei/75-a-2020-152639820"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 14.º",
+    "Adita Artigo 8.º-B",
+    "Adita Artigo 8.º-C",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "134770798",
+    "134770799",
+    "134770800",
+    "134770801",
+    "134770802",
+    "153013550",
+    "153013541",
+    "153013551",
+    "134770806",
+    "134770807",
+    "134770826",
+    "145225184",
+    "140630130",
+    "153013544",
+    "153013547",
+    "158239822",
+    "158239823",
+    "158239824",
+    "134770812",
+    "134770813",
+    "134770814",
+    "153013543",
+    "140630133",
+    "140630134",
+    "145225185",
+    "134770817",
+    "153013552",
+    "134770819",
+    "134770820"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825",
+     "date": "2021-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2021-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:166660387:por",
+     "title": "Decreto-Lei n.º 56-B/2021",
+     "published": "2021-07-07",
+     "dre_path": "/dr/detalhe/decreto-lei/56-b-2021-166660387"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "134770798",
+    "134770799",
+    "134770800",
+    "134770801",
+    "134770802",
+    "153013550",
+    "153013541",
+    "166888401",
+    "134770806",
+    "134770807",
+    "134770826",
+    "145225184",
+    "140630130",
+    "153013544",
+    "153013547",
+    "158239822",
+    "158239823",
+    "158239824",
+    "134770812",
+    "134770813",
+    "134770814",
+    "153013543",
+    "140630133",
+    "140630134",
+    "145225185",
+    "134770817",
+    "166888402",
+    "134770819",
+    "134770820"
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097639:por",
+     "title": "Lei n.º 31/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/31-2023-215097639"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215195275",
+    "215195276",
+    "215195277",
+    "215195278",
+    "215195279",
+    "215195280",
+    "215195281",
+    "215195282",
+    "215195283",
+    "215195284",
+    "215195285",
+    "215195286",
+    "215195287",
+    "215195288",
+    "215195289",
+    "215195290",
+    "215195291",
+    "215195292",
+    "215195293",
+    "215195294",
+    "215195295",
+    "215195296",
+    "215195297",
+    "215195298",
+    "215195299",
+    "215195300",
+    "215195301",
+    "215195302",
+    "215195303"
+   ]
+  }
+ ],
+ "fragments": {
+  "215195275": {
+   "fragment_id": "134776326",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [],
+   "markdown": "Lei n.º 4-C/2020\n\nde 6 de abril\n\nSumário: Regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia COVID-19.\n\nRegime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia COVID-19\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "134770799": {
+   "fragment_id": "134776327",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "134770800": {
+   "fragment_id": "134776328",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece um regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, atendendo à situação epidemiológica provocada pela doença COVID-19.\n\n2 - O disposto na presente lei é ainda aplicável, com as necessárias adaptações, a outras formas contratuais de exploração de imóveis."
+  },
+  "134770801": {
+   "fragment_id": "134776329",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nA presente lei é aplicável em todo o território nacional."
+  },
+  "134770802": {
+   "fragment_id": "134776330",
+   "type": 1,
+   "heading": "Capítulo II — Arrendamento habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Arrendamento habitacional"
+  },
+  "134770803": {
+   "fragment_id": "134776331",
+   "type": 11,
+   "heading": "Artigo 3.º — Quebra de rendimentos dos arrendatários e senhorios habitacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Quebra de rendimentos dos arrendatários e senhorios habitacionais\n\n1 - No caso de arrendamentos habitacionais, a presente lei é aplicável quando se verifique:\n\na) Uma quebra superior a 20 % dos rendimentos do agregado familiar do arrendatário face aos rendimentos do mês anterior ou do período homólogo do ano anterior; e\n\nb) A taxa de esforço do agregado familiar do arrendatário, calculada como percentagem dos rendimentos de todos os membros daquele agregado destinada ao pagamento da renda, seja ou se torne superior a 35 %; ou\n\nc) Uma quebra superior a 20 % dos rendimentos do agregado familiar do senhorio face aos rendimentos do mês anterior ou do período homólogo do ano anterior; e\n\nd) Essa percentagem da quebra de rendimentos seja provocada pelo não pagamento de rendas pelos arrendatários ao abrigo do disposto na presente lei.\n\n2 - A demonstração da quebra de rendimentos é efetuada nos termos de portaria a aprovar pelo membro do Governo responsável pela área da habitação."
+  },
+  "134770804": {
+   "fragment_id": "134776332",
+   "type": 11,
+   "heading": "Artigo 4.º — Mora do arrendatário habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Mora do arrendatário habitacional\n\nNas situações previstas no artigo anterior, o senhorio só tem direito à resolução do contrato de arrendamento, por falta de pagamento das rendas vencidas nos meses em que vigore o estado de emergência e no primeiro mês subsequente, se o arrendatário não efetuar o seu pagamento, no prazo de 12 meses contados do termo desse período, em prestações mensais não inferiores a um duodécimo do montante total, pagas juntamente com a renda de cada mês."
+  },
+  "134770805": {
+   "fragment_id": "134776333",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - Os arrendatários habitacionais, bem como, no caso dos estudantes que não aufiram rendimentos do trabalho, os respetivos fiadores, que tenham, comprovadamente a quebra referida no artigo 3.º, e se vejam incapacitados de pagar a renda das habitações que constituem a sua residência permanente ou, no caso de estudantes, que constituem residência por frequência de estabelecimentos de ensino localizado a uma distância superior a 50 km da residência permanente do agregado familiar, podem solicitar ao Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a concessão de um empréstimo sem juros para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento do agregado familiar de uma taxa de esforço máxima de 35 %, de forma a permitir o pagamento da renda devida, não podendo o rendimento disponível restante do agregado ser inferior ao indexante dos apoios sociais (IAS).\n\n2 - O disposto no número anterior não é aplicável aos arrendatários habitacionais, cuja quebra de rendimentos determine a redução do valor das rendas por eles devidas, nos termos estabelecidos em regimes especiais de arrendamento ou de renda, como o arrendamento apoiado, a renda apoiada e a renda social.\n\n3 - Os senhorios habitacionais que tenham, comprovadamente, a quebra de rendimentos referida na alínea c) do n.º 1 do artigo 3.º, cujos arrendatários não recorram a empréstimo do IHRU, I. P., nos termos dos números anteriores, podem solicitar ao IHRU, I. P., a concessão de um empréstimo sem juros para compensar o valor da renda mensal, devida e não paga, sempre que o rendimento disponível restante do agregado desça, por tal razão, abaixo do IAS.\n\n4 - Os empréstimos a que se referem os n.os 1 e 3 são concedidos pelo IHRU, I. P., ao abrigo das suas atribuições, em particular da competência prevista na alínea k) do n.º 2 do artigo 3.º do Decreto-Lei n.º 175/2012, de 2 de agosto, na sua redação atual, e têm, como primeiras fontes de financiamento, as verbas inscritas no seu orçamento para 2020 provenientes da consignação de receita de impostos sobre o rendimento e, se necessário, das verbas a transferir para o IHRU, I. P., pela Direção-Geral do Tesouro e Finanças no âmbito de políticas de promoção de habitação, financiadas por receitas de impostos inscritas no capítulo 60, ambas nos termos previstos no Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, bem como nos saldos transitados do Programa SOLARH, criado pelo Decreto-Lei n.º 39/2001, de 9 de fevereiro, na sua redação atual.\n\n5 - O regulamento a ser elaborado pelo IHRU, I. P., com as condições de concessão dos empréstimos referidos nos números anteriores, atendendo à urgência e ao seu especial fim, produz todos os seus efeitos a contar da data da sua divulgação no Portal da Habitação, na sequência de aprovação pelo conselho diretivo do IHRU, I. P., sujeita a homologação do membro do Governo responsável pela área da habitação."
+  },
+  "134770806": {
+   "fragment_id": "134776334",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres de informação\n\n1 - Os arrendatários que se vejam impossibilitados do pagamento da renda têm o dever de informar o senhorio, por escrito, até cinco dias antes do vencimento da primeira renda em que pretendem beneficiar do regime previsto no presente capítulo, juntando a documentação comprovativa da situação, nos termos da portaria a que se refere o n.º 2 do artigo 3.º\n\n2 - O disposto no número anterior não se aplica às rendas que se vençam na data prevista no artigo 14.º, podendo em tal caso a notificação ser feita até 20 dias após a data de entrada em vigor da presente lei."
+  },
+  "134770807": {
+   "fragment_id": "134776335",
+   "type": 1,
+   "heading": "Capítulo III — Arrendamento não habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Arrendamento não habitacional"
+  },
+  "134770808": {
+   "fragment_id": "134776336",
+   "type": 11,
+   "heading": "Artigo 7.º — Quebra de rendimentos dos arrendatários não habitacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Quebra de rendimentos dos arrendatários não habitacionais\n\nO presente capítulo aplica-se:\n\na) Aos estabelecimentos abertos ao público destinados a atividades de comércio a retalho e de prestação de serviços encerrados ou que tenham as respetivas atividades suspensas ao abrigo do Decreto n.º 2-A/2020, de 20 de março, ou por determinação legislativa ou administrativa, nos termos previstos no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou ao abrigo da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, ou de outras disposições destinadas à execução do estado de emergência, incluindo nos casos em que estes mantenham a prestação de atividades de comércio eletrónico, ou de prestação de serviços à distância ou através de plataforma eletrónica;\n\nb) Aos estabelecimentos de restauração e similares, incluindo nos casos em que estes mantenham atividade para efeitos exclusivos de confeção destinada a consumo fora do estabelecimento ou entrega no domicílio, nos termos previstos no Decreto n.º 2-A/2020, de 20 de março, ou em qualquer outra disposição que o permita."
+  },
+  "134770809": {
+   "fragment_id": "134776337",
+   "type": 11,
+   "heading": "Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais\n\nO arrendatário que preencha o disposto no artigo anterior pode diferir o pagamento das rendas vencidas nos meses em que vigore o estado de emergência e no primeiro mês subsequente, para os 12 meses posteriores ao término desse período, em prestações mensais não inferiores a um duodécimo do montante total, pagas juntamente com a renda do mês em causa."
+  },
+  "134770810": {
+   "fragment_id": "134776338",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação do contrato ou outras penalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cessação do contrato ou outras penalidades\n\n1 - A falta de pagamento das rendas que se vençam nos meses em que vigore o estado de emergência e no primeiro mês subsequente, nos termos do artigo anterior, não pode ser invocada como fundamento de resolução, denúncia ou outra forma de extinção de contratos, nem como fundamento de obrigação de desocupação de imóveis.\n\n2 - Aos arrendatários abrangidos pelo artigo 7.º não é exigível o pagamento de quaisquer outras penalidades que tenham por base a mora no pagamento de rendas que se vençam nos termos do número anterior."
+  },
+  "134770811": {
+   "fragment_id": "134776339",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessação do contrato ou outras penalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cessação do contrato ou outras penalidades\n\nO disposto no presente capítulo aplica-se, com as necessárias adaptações, a outras formas contratuais de exploração de imóveis para fins comerciais."
+  },
+  "134770812": {
+   "fragment_id": "134776340",
+   "type": 1,
+   "heading": "Capítulo IV — Entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Entidades públicas"
+  },
+  "134770813": {
+   "fragment_id": "134776341",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão, redução ou isenção de renda devidas a entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Suspensão, redução ou isenção de renda devidas a entidades públicas\n\n1 - Sem prejuízo do disposto nos artigos anteriores, as entidades públicas com imóveis arrendados ou cedidos sob outra forma contratual podem, durante o período de vigência da presente lei, reduzir as rendas aos arrendatários que tenham, comprovadamente, uma quebra de rendimentos superior a 20 % face aos rendimentos do mês anterior ou do período homólogo do ano anterior, quando da mesma resulte uma taxa de esforço superior a 35 % relativamente à renda.\n\n2 - O disposto no número anterior não se aplica àqueles que sejam beneficiários de regimes especiais de arrendamento habitacional ou de renda, como o arrendamento apoiado, a renda apoiada e a renda social.\n\n3 - As entidades públicas com imóveis arrendados ou cedidos sob outra forma contratual podem isentar do pagamento de renda os seus arrendatários que comprovem ter deixado de auferir quaisquer rendimentos após 1 de março de 2020.\n\n4 - As entidades públicas com imóveis arrendados ou cedidos sob outra forma contratual podem estabelecer moratórias aos seus arrendatários."
+  },
+  "134770814": {
+   "fragment_id": "134776342",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares"
+  },
+  "134770815": {
+   "fragment_id": "134776343",
+   "type": 11,
+   "heading": "Artigo 12.º — Indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Indemnização\n\n1 - A indemnização prevista no n.º 1 do artigo 1041.º do Código Civil, por atraso no pagamento de rendas que se vençam nos meses em que vigore o estado de emergência e no primeiro mês subsequente, não é exigível sempre que se verifique o disposto nos artigos 4.º e 7.º da presente lei.\n\n2 - O disposto no n.º 3 do artigo 1041.º do Código Civil não é aplicável durante o período de aplicação da presente lei."
+  },
+  "134770816": {
+   "fragment_id": "134776344",
+   "type": 11,
+   "heading": "Artigo 13.º — Vencimento imediato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vencimento imediato\n\nA cessação do contrato por iniciativa do arrendatário torna exigível, a partir da data da cessação, o pagamento imediato das rendas vencidas e não pagas, nos termos da presente lei."
+  },
+  "134770817": {
+   "fragment_id": "134776345",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "134770818": {
+   "fragment_id": "134776346",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação da lei no tempo\n\nA presente lei é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020."
+  },
+  "134770819": {
+   "fragment_id": "134776347",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "134770798": {
+   "fragment_id": "134776326",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 4-C/2020\n\nde 6 de abril\n\nSumário: Regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia COVID-19.\n\nRegime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia COVID-19\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "134770826": {
+   "fragment_id": "134776336",
+   "type": 11,
+   "heading": "Artigo 7.º — Quebra de rendimentos dos arrendatários não habitacionais",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 7.º — Quebra de rendimentos dos arrendatários não habitacionais\n\nO presente capítulo aplica-se:\n\na) Aos estabelecimentos abertos ao público destinados a atividades de comércio a retalho e de prestação de serviços encerrados ou que tenham as respetivas atividades suspensas ao abrigo do Decreto n.º 2-A/2020, de 20 de março, ou por determinação legislativa ou administrativa, nos termos previstos no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou ao abrigo da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, ou de outras disposições destinadas à execução do estado de emergência, bem como, após a sua cessação, ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19 que determine o encerramento de instalações ou suspensão de atividades, incluindo nos casos em que estes mantenham a prestação de atividades de comércio eletrónico, ou de prestação de serviços à distância ou através de plataforma eletrónica;\n\nb) Aos estabelecimentos de restauração e similares, encerrados nos termos das disposições anteriores, incluindo nos casos em que estes mantenham atividade para efeitos exclusivos de confeção destinada a consumo fora do estabelecimento ou entrega no domicílio, nos termos previstos no Decreto n.º 2-A/2020, de 20 de março, ou em qualquer outra disposição que o permita.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "134770827": {
+   "fragment_id": "134776337",
+   "type": 11,
+   "heading": "Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais\n\n1 - O arrendatário que preencha o disposto no artigo anterior pode diferir o pagamento das rendas vencidas nos meses em que vigore o estado de emergência e no primeiro mês subsequente, para os 12 meses posteriores ao término desse período, em prestações mensais não inferiores a um duodécimo do montante total, pagas juntamente com a renda do mês em causa.\n\n2 - Até 1 de setembro de 2020, o arrendatário que preencha o disposto no artigo anterior pode igualmente diferir o pagamento das rendas vencidas, pelos meses em que ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19 seja determinado o encerramento de instalações ou suspensão de atividades ou no primeiro mês subsequente desde que compreendido no referido período, aplicando-se o disposto nos n.os 4 e 5.\n\n3 - No caso de arrendatários abrangidos pelo disposto nos números anteriores, o período de regularização da dívida só tem início a 1 de setembro de 2020, ou após o término do mês subsequente àquele em que cessar o impedimento se anterior a esta data.\n\n4 - Do disposto nos números anteriores não pode, contudo, resultar um período de regularização da dívida que ultrapasse o mês de junho de 2021.\n\n5 - As rendas vencidas e cujo pagamento foi diferido ao abrigo do presente regime devem ser satisfeitas em prestações mensais não inferiores ao valor resultante do rateio do montante total em dívida pelo número de meses em que esta deva ser regularizada, pagas juntamente com a renda do mês em causa.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "134770828": {
+   "fragment_id": "134776338",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação do contrato ou outras penalidades",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 9.º — Cessação do contrato ou outras penalidades\n\n1 - A falta de pagamento das rendas que se vençam nos meses em que vigore o estado de emergência e no primeiro mês subsequente, bem como, no caso de estabelecimentos e instalações que permaneçam encerrados ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19 que determine o encerramento de instalações ou suspensão de atividades, nos meses em que esta vigorar e no mês subsequente, e até 1 de setembro de 2020, nos termos do artigo anterior, não pode ser invocada como fundamento de resolução, denúncia ou outra forma de extinção de contratos, nem como fundamento de obrigação de desocupação de imóveis.\n\n2 - Aos arrendatários abrangidos pelo artigo 7.º não é exigível o pagamento de quaisquer outras penalidades que tenham por base a mora no pagamento de rendas que se vençam nos termos do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "134770829": {
+   "fragment_id": "134776339",
+   "type": 11,
+   "heading": "Artigo 10.º — Outras formas contratuais",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 10.º — Outras formas contratuais\n\nO disposto no presente capítulo aplica-se, com as necessárias adaptações, a outras formas contratuais de exploração de imóveis para fins comerciais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "134770830": {
+   "fragment_id": "134776343",
+   "type": 11,
+   "heading": "Artigo 12.º — Indemnização",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 12.º — Indemnização\n\n1 - A indemnização prevista no n.º 1 do artigo 1041.º do Código Civil, por atraso no pagamento de rendas que se vençam nos meses em que vigore o estado de emergência e no primeiro mês subsequente, não é exigível sempre que se verifique o disposto nos artigos 4.º e 7.º da presente lei.\n\n2 - A indemnização a que se refere o número anterior, por atraso no pagamento de rendas que se vençam até 1 de setembro de 2020, não é exigível nos casos em que o seu pagamento possa ser diferido conforme o disposto no n.º 2 do artigo 8.º\n\n3 - O disposto no n.º 3 do artigo 1041.º do Código Civil não é aplicável durante o período de aplicação da presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "134770831": {
+   "fragment_id": "134776346",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação da lei no tempo",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 14.º — Aplicação da lei no tempo\n\n1 - A presente lei é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020.\n\n2 - O disposto nos artigos 5.º e 11.º é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020 até ao dia 1 de setembro de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "134770820": {
+   "fragment_id": "134776348",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 3 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 6 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113170838"
+  },
+  "140630136": {
+   "fragment_id": "134776337",
+   "type": 11,
+   "heading": "Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais",
+   "in_force_from": "2020-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais\n\n1 - O arrendatário que preencha o disposto no artigo anterior pode diferir o pagamento das rendas vencidas:\n\na) Nos meses em que vigore o estado de emergência e no primeiro mês subsequente;\n\nb) Nos meses em que, ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19, seja determinado o encerramento das suas instalações ou suspensão da respetiva atividade;\n\nc) Nos três meses subsequentes àquele em que ocorra o levantamento da imposição do encerramento das suas instalações ou da suspensão da respetiva atividade.\n\n2 - Nos casos previstos no número anterior:\n\na) O diferimento não pode, em qualquer caso, aplicar-se a rendas que se vençam após 31 de dezembro de 2020;\n\nb) O período de regularização da dívida tem início a 1 de janeiro de 2021 e prolonga-se até 31 de dezembro de 2022;\n\nc) O pagamento é efetuado em 24 prestações sucessivas, de valor correspondente ao resultante do rateio do montante total em dívida por 24, liquidadas juntamente com a renda do mês em causa ou até ao oitavo dia do calendário de cada mês, no caso de renda não mensal.\n\n3 - Para efeitos do disposto na alínea b) do número anterior, o montante total em dívida exclui as rendas vencidas e já pagas, as quais se consideram, para todos os efeitos, liquidadas.\n\n4 - Sem prejuízo do disposto no n.º 3, o arrendatário pode, a qualquer altura, proceder ao pagamento total ou parcial das prestações em dívida.\n\n5 - Os senhorios cujos arrendatários deixem de pagar as rendas nos termos dos n.os 1 a 3 podem solicitar a concessão de uma linha de crédito com custos reduzidos, a regulamentar, para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento mensal ou à faturação mensal do senhorio, de uma taxa de esforço máxima de 35 %, cuja demonstração é efetuada nos termos da portaria a aprovar pelo membro do governo responsável pela área da economia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "140630130": {
+   "fragment_id": "140695738",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Dever de comunicação e proposta de acordo",
+   "in_force_from": "2020-08-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 8.º-A — Dever de comunicação e proposta de acordo\n\n1 - O arrendatário que pretenda beneficiar do regime previsto no artigo anterior deve comunicar a sua intenção ao senhorio, por escrito e até cinco dias antes do vencimento da primeira renda em que pretenda beneficiar deste regime, mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior.\n\n2 - Em alternativa à comunicação prevista no número anterior, o arrendatário pode endereçar ao senhorio, mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, uma proposta de acordo de pagamento das rendas vencidas e vincendas, diferente da solução prevista no artigo anterior.\n\n3 - As comunicações previstas nos n.os 1 e 2 devem conter, para além dos elementos ali indicados, sob pena de ineficácia:\n\na) O prazo de resposta de 10 dias, nos termos do n.º 4, considerando-se como falta de resposta o incumprimento deste prazo;\n\nb) O conteúdo que pode apresentar a resposta, nos termos dos n.os 4 e 6;\n\nc) As consequências da falta de resposta, nos termos do n.º 5.\n\n4 - A aceitação do acordo ou a respetiva recusa devem ser transmitidas pelo senhorio, por escrito, através de carta registada com aviso de receção para a morada do locado, no prazo de 10 dias após a receção da proposta do arrendatário.\n\n5 - Em caso de ausência de resposta do senhorio ou de resposta transmitida depois do prazo previsto no número anterior, presume-se que o senhorio manifesta o seu acordo à proposta do arrendatário.\n\n6 - O senhorio pode, no prazo previsto no n.º 3, formular uma contraproposta ao arrendatário, à qual este deve responder no prazo de 10 dias, determinando a rejeição da mesma pelo arrendatário ou a ausência de resposta deste dentro do prazo a aplicabilidade do regime previsto no artigo anterior.\n\n7 - O disposto no n.º 1 do artigo 10.º do Novo Regime do Arrendamento Urbano (NRAU) não se aplica às comunicações referidas nos n.os 1 e 2 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+  },
+  "140630131": {
+   "fragment_id": "134776338",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação do contrato ou outras penalidades",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 9.º — Cessação do contrato ou outras penalidades\n\n1 - A falta de pagamento das rendas que se vençam nos meses em que vigore o estado de emergência e no primeiro mês subsequente, bem como, no caso de estabelecimentos e instalações que permaneçam encerrados ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19 que determine o encerramento de instalações ou suspensão de atividades, nos meses em que esta vigorar e no mês subsequente, e até 1 de setembro de 2020, nos termos do artigo anterior, não pode ser invocada como fundamento de resolução, denúncia ou outra forma de extinção de contratos, nem como fundamento de obrigação de desocupação de imóveis.\n\n2 - Aos arrendatários abrangidos pelo artigo 7.º não é exigível o pagamento de quaisquer outras penalidades que tenham por base a mora no pagamento de rendas que se vençam nos termos do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "140630137": {
+   "fragment_id": "134776339",
+   "type": 11,
+   "heading": "Artigo 10.º — Outras formas contratuais",
+   "in_force_from": "2020-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 10.º — Outras formas contratuais\n\n1- O disposto no presente capítulo aplica-se, com as necessárias adaptações, a outras formas contratuais de exploração de imóveis para fins comerciais.\n\n2 - Sem prejuízo do disposto no número anterior, o presente capítulo não se aplica aos estabelecimentos inseridos em conjuntos comerciais que beneficiem do regime previsto no n.º 5 do artigo 168.º-A da Lei n.º 2/2020, de 31 de março, na redação que lhe foi dada pela Lei n.º 27-A/2020, de 24 de julho.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "140630133": {
+   "fragment_id": "140695739",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Garantias bancárias",
+   "in_force_from": "2020-08-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 12.º-A — Garantias bancárias\n\nNo decurso da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, o senhorio não pode executar garantias bancárias pelo incumprimento no pagamento de rendas não habitacionais.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+  },
+  "140630134": {
+   "fragment_id": "134776344",
+   "type": 11,
+   "heading": "Artigo 13.º — Vencimento imediato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vencimento imediato\n\nA cessação do contrato por iniciativa do arrendatário torna exigível, a partir da data da cessação, o pagamento imediato das rendas vencidas e não pagas, nos termos da presente lei."
+  },
+  "140630135": {
+   "fragment_id": "140695740",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Regimes mais favoráveis",
+   "in_force_from": "2020-08-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 13.º-A — Regimes mais favoráveis\n\n1 - O disposto na presente lei não prejudica a existência de regimes mais favoráveis ao arrendatário, decorrentes da lei ou de acordo, celebrado ou a celebrar entre as partes, nomeadamente acordos de perdão de dívida ou acordos de diferimento no pagamento de rendas mais benéficos para o arrendatário.\n\n2 - Nos casos de arrendamento não habitacional, existindo acordo previamente celebrado que estabeleça condições menos favoráveis para o arrendatário, o mesmo fica sem efeito mediante comunicação a enviar pelo arrendatário, no prazo de 30 dias após a entrada em vigor da Lei n.º 45/2020, de 20 de agosto, para a morada do senhorio constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, através da qual o arrendatário manifesta a intenção de aplicar o presente regime.\n\n3 - São nulas as cláusulas de renúncia a direitos atribuídos pela presente lei ou de recurso a meios judiciais e de aceitação de aumentos de renda ou do período do contrato dispostas nos contratos referidos no número anterior.\n\n4 - No caso previsto no n.º 2, as quantias que já tenham sido pagas a título de renda não são devolvidas ao arrendatário, relevando antes para efeitos de cálculo do montante total em dívida a que se refere a alínea b) do n.º 3 do artigo 8.º\n\n5 - O disposto no n.º 1 do artigo 10.º do NRAU não se aplica à comunicação referida no n.º 1 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+  },
+  "140630138": {
+   "fragment_id": "134776346",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação da lei no tempo",
+   "in_force_from": "2020-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 14.º — Aplicação da lei no tempo\n\n1 - A presente lei é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020.\n\n2 - O disposto no artigo 8.º-A é aplicável às rendas que se vençam a partir de 1 de julho de 2020 até ao dia 31 de dezembro de 2020, sendo de 20 dias o prazo indicado no n.º 1 do artigo 8.º-A para as rendas que se vençam durante o mês de julho de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "153013550": {
+   "fragment_id": "134776331",
+   "type": 11,
+   "heading": "Artigo 3.º — Quebra de rendimentos dos arrendatários e senhorios habitacionais",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Quebra de rendimentos dos arrendatários e senhorios habitacionais\n\n1 - No caso de arrendamentos habitacionais, a presente lei é aplicável quando se verifique:\n\na) Uma quebra superior a 20 % dos rendimentos do agregado familiar do arrendatário face aos rendimentos do mês de fevereiro de 2020, do mês anterior, ou do período homólogo do ano anterior; e\n\nb) A taxa de esforço do agregado familiar do arrendatário, calculada como percentagem dos rendimentos de todos os membros daquele agregado destinada ao pagamento da renda, seja ou se torne superior a 35 %; ou\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n2 - A demonstração da quebra de rendimentos é efetuada nos termos de portaria a aprovar pelo membro do Governo responsável pela área da habitação.\n\n3 - Os beneficiários do apoio previsto no artigo 5.º devem remeter, trimestralmente, informação atualizada que comprove a quebra de rendimentos.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+  },
+  "153013541": {
+   "fragment_id": "134776332",
+   "type": 11,
+   "heading": "Artigo 4.º — Mora do arrendatário habitacional",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Mora do arrendatário habitacional\n\nNas situações previstas no artigo anterior, o senhorio só tem direito à resolução do contrato de arrendamento, por falta de pagamento das rendas vencidas se o arrendatário, tendo diferido o pagamento da renda nos meses de abril a junho de 2020, não efetue o seu pagamento, no prazo de 12 meses contados do termo desse período, em prestações mensais não inferiores a um duodécimo do montante total, pagas juntamente com a renda de cada mês.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+  },
+  "153013551": {
+   "fragment_id": "134776333",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - Os arrendatários habitacionais, bem como, no caso dos estudantes que não aufiram rendimentos do trabalho, os respetivos fiadores, que tenham, comprovadamente a quebra referida no artigo 3.º, e se vejam incapacitados de pagar a renda das habitações que constituem a sua residência permanente ou, no caso de estudantes, que constituem residência por frequência de estabelecimentos de ensino localizado a uma distância superior a 50 km da residência permanente do agregado familiar, podem solicitar ao Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a concessão de um empréstimo sem juros para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento do agregado familiar de uma taxa de esforço máxima de 35 %, de forma a permitir o pagamento da renda devida, não podendo o rendimento disponível restante do agregado ser inferior ao indexante dos apoios sociais (IAS).\n\n2 - No caso de mutuários de empréstimos com baixos rendimentos, cuja taxa de esforço destinada ao pagamento da renda seja ou se torne superior a 35 % e inferior a 100 %, o empréstimo previsto no número anterior é atribuído, mediante requerimento, a título de comparticipação financeira não reembolsável nos termos da seguinte fórmula:\n\n(ver documento original)\n\n3 - No caso de mutuários de empréstimos com baixos rendimentos, cuja taxa de esforço destinada ao pagamento da renda seja igual ou superior a 100 %, o empréstimo previsto no n.º 1 é convertido na sua totalidade, mediante requerimento, em comparticipação financeira não reembolsável.\n\n4 - São considerados como tendo baixos rendimentos os mutuários dos empréstimos cujo rendimento médio mensal cumpra o limite de acesso ao programa 1.º Direito, regulado pelo Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual.\n\n5 - Para efeitos do disposto no número anterior, o rendimento médio mensal é o que resulta da divisão por três do total dos rendimentos auferidos pelo agregado familiar do mutuário no trimestre correspondente às últimas rendas objeto de apoio através de empréstimo, corrigido de acordo com uma escala de equivalência que atribua uma ponderação nos termos previstos nas alíneas do n.º 1 do artigo 9.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual.\n\n6 - O disposto nos números anteriores não é aplicável aos arrendatários habitacionais, cuja quebra de rendimentos determine a redução do valor das rendas por eles devidas, nos termos estabelecidos em regimes especiais de arrendamento ou de renda, como o arrendamento apoiado, a renda apoiada e a renda social.\n\n7 - Os empréstimos a que se refere o n.º 1 são concedidos pelo IHRU, I. P., nos termos, designadamente, da competência prevista na alínea k) do n.º 2 do artigo 3.º do Decreto-Lei n.º 175/2012, de 2 de agosto, na sua redação atual, e têm, como primeiras fontes de financiamento, as verbas inscritas no seu orçamento para 2020 e 2021 provenientes da consignação de receita de impostos sobre o rendimento e, se necessário, das verbas a transferir para o IHRU, I. P., pela Direção-Geral do Tesouro e Finanças no âmbito de políticas de promoção de habitação, financiadas por receitas de impostos inscritas no capítulo 60, ambas nos termos previstos no Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, na sua redação atual e no Orçamento do Estado para 2021, bem como nos saldos transitados do Programa SOLARH, criado pelo Decreto-Lei n.º 39/2001, de 9 de fevereiro, na sua redação atual.\n\n8 - O regulamento a ser elaborado pelo IHRU, I. P., com as condições de concessão dos empréstimos referidos nos números anteriores, atendendo à urgência e ao seu especial fim, produz todos os seus efeitos a contar da data da sua divulgação no Portal da Habitação, na sequência de aprovação pelo conselho diretivo do IHRU, I. P., sujeita a homologação do membro do Governo responsável pela área da habitação.\n\n9 - Sem prejuízo do disposto nos números anteriores, o beneficiário pode optar pela apresentação de declaração do próprio, sob compromisso de honra, ou de contabilista certificado, sendo o apoio atribuído sem verificação preliminar da quebra de rendimentos.\n\n10 - Nos casos previstos no número anterior, o beneficiário deve apresentar, no prazo de 60 dias após a submissão do requerimento, os comprovativos da quebra de rendimentos.\n\n11 - Sempre que o IHRU, I. P., verifique que não são entregues os comprovativos no prazo indicado no número anterior, que foram prestadas falsas declarações ou que exista erro na declaração sob compromisso de honra, devem os valores já pagos ser restituídos pelos respetivos beneficiários.\n\n12 - A aplicação do apoio previsto no presente artigo, no caso de contratos que venham a ser celebrados ou renovados a partir de 1 de janeiro de 2021, é regulamentada por portaria do membro do Governo responsável pela área da habitação.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+  },
+  "145225184": {
+   "fragment_id": "134776337",
+   "type": 11,
+   "heading": "Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais",
+   "in_force_from": "2020-08-21",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais\n\n1 - O arrendatário que preencha o disposto no artigo anterior pode diferir o pagamento das rendas vencidas:\n\na) Nos meses em que vigore o estado de emergência e no primeiro mês subsequente;\n\nb) Nos meses em que, ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19, seja determinado o encerramento das suas instalações ou suspensão da respetiva atividade;\n\nc) Nos três meses subsequentes àquele em que ocorra o levantamento da imposição do encerramento das suas instalações ou da suspensão da respetiva atividade.\n\n2 - Nos casos previstos no número anterior:\n\na) O diferimento não pode, em qualquer caso, aplicar-se a rendas que se vençam após 31 de dezembro de 2020;\n\nb) O período de regularização da dívida tem início a 1 de janeiro de 2021 e prolonga-se até 31 de dezembro de 2022;\n\nc) O pagamento é efetuado em 24 prestações sucessivas, de valor correspondente ao resultante do rateio do montante total em dívida por 24, liquidadas juntamente com a renda do mês em causa ou até ao oitavo dia do calendário de cada mês, no caso de renda não mensal.\n\n3 - Para efeitos do disposto na alínea b) do número anterior, o montante total em dívida exclui as rendas vencidas e já pagas, as quais se consideram, para todos os efeitos, liquidadas.\n\n4 - Sem prejuízo do disposto no n.º 2, o arrendatário pode, a qualquer altura, proceder ao pagamento total ou parcial das prestações em dívida.\n\n5 - Os senhorios cujos arrendatários deixem de pagar as rendas nos termos dos n.os 1 e 2 podem solicitar a concessão de uma linha de crédito com custos reduzidos, a regulamentar, para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento mensal ou à faturação mensal do senhorio, de uma taxa de esforço máxima de 35 %, cuja demonstração é efetuada nos termos da portaria a aprovar pelo membro do Governo responsável pela área da economia.\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "153013544": {
+   "fragment_id": "153013455",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Estabelecimentos que permanecem encerrados a 1 de janeiro de 2021",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 8.º-B — Estabelecimentos que permanecem encerrados a 1 de janeiro de 2021\n\n1 - Aos arrendatários cujos estabelecimentos tenham sido encerrados, por determinação legal ou administrativa da responsabilidade do Governo, desde, pelo menos, março de 2020, e que, a 1 de janeiro de 2021, ainda permaneçam encerrados aplica-se o disposto nos números seguintes.\n\n2 - Relativamente às rendas vencidas em 2020, cujo pagamento tenha sido diferido ao abrigo da presente lei, o arrendatário pode voltar a diferir o respetivo pagamento, nos seguintes termos:\n\na) O período de regularização da dívida tem início a 1 de janeiro de 2022 e prolonga-se até 31 de dezembro de 2023;\n\nb) O pagamento é efetuado em 24 prestações sucessivas, de valor correspondente ao resultante do rateio do montante total em dívida por 24, liquidadas juntamente com a renda do mês em causa ou até ao oitavo dia do calendário de cada mês, no caso de renda não mensal.\n\n3 - Relativamente às rendas vencidas em 2021, o arrendatário pode requerer o diferimento do pagamento das rendas, correspondentes aos meses em que os estabelecimentos se encontrem encerrados, aplicando-se o disposto nas alíneas do número anterior.\n\n4 - O arrendatário que pretenda beneficiar do regime previsto nos números anteriores deve comunicar a sua intenção ao senhorio, por escrito e até 20 dias após a entrada em vigor da Lei n.º 75-A/2020, de 30 de dezembro, retroagindo os seus efeitos a 1 de janeiro de 2021, se a comunicação tiver sido posterior a esta data.\n\n5 - A comunicação prevista no número anterior é efetuada mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior.\n\n6 - Caso o arrendatário requeira o diferimento do pagamento das rendas nos termos do presente artigo, os senhorios podem requerer a concessão de um empréstimo, nos termos da linha de crédito com custos reduzidos prevista no n.º 5 do artigo 8.º, por referência às rendas do ano de 2020 e de 2021, vencidas e não liquidadas.\n\n7 - O diferimento no pagamento das rendas nos termos do presente artigo não constitui falta ou mora no pagamento das rendas em causa para quaisquer efeitos legais.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+  },
+  "153013547": {
+   "fragment_id": "153013456",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Apoios a fundo perdido",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 8.º-C — Apoios a fundo perdido\n\n1 - Os arrendatários que, no ano de 2020, sofreram uma quebra de faturação entre 25 % e 40 %, recebem um apoio a fundo perdido de valor equivalente a 30 % do valor da renda, com o limite de 1200 (euro) por mês.\n\n2 - Os arrendatários que, no ano de 2020, sofreram uma quebra de faturação superior a 40 %, recebem um apoio a fundo perdido de valor equivalente a 50 % do valor da renda, com o limite de 2000 (euro) por mês.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+  },
+  "158239822": {
+   "fragment_id": "158240120",
+   "type": 11,
+   "heading": "Artigo 8.º-D — Redução da remuneração fixa ou mínima",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 439.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-D — Redução da remuneração fixa ou mínima\n\n1 - A remuneração mensal fixa ou mínima devida pelos lojistas de estabelecimentos abertos ao público inseridos em centros comerciais é reduzida proporcionalmente à redução da faturação mensal, até ao limite de 50 % do valor daquela, quando tais estabelecimentos tenham uma quebra do volume de vendas mensal, face ao volume de vendas do mês homólogo do ano de 2019 ou, na sua falta, ao volume médio de vendas dos últimos seis meses antecedentes ao Decreto do Presidente da República n.º 14-A/2020, de 18 de março, ou de período inferior, se aplicável.\n\n2 - O disposto no presente artigo vigora no primeiro trimestre de 2021 e pode ser prorrogado por despacho do Governo, até 30 de junho de 2021, caso a situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19 se prolongue para além do primeiro trimestre de 2021.\n\n> Aditado pelo/a Artigo 439.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+  },
+  "158239823": {
+   "fragment_id": "134776338",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação do contrato ou outras penalidades",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 9.º — Cessação do contrato ou outras penalidades\n\n1 - A falta de pagamento das rendas que se vençam nos meses em que vigore o estado de emergência e no primeiro mês subsequente, bem como, no caso de estabelecimentos e instalações que permaneçam encerrados ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19 que determine o encerramento de instalações ou suspensão de atividades, nos meses em que esta vigorar e no mês subsequente, e até 1 de setembro de 2020, nos termos do artigo anterior, não pode ser invocada como fundamento de resolução, denúncia ou outra forma de extinção de contratos, nem como fundamento de obrigação de desocupação de imóveis.\n\n2 - Aos arrendatários abrangidos pelo artigo 7.º não é exigível o pagamento de quaisquer outras penalidades que tenham por base a mora no pagamento de rendas que se vençam nos termos do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "158239824": {
+   "fragment_id": "134776339",
+   "type": 11,
+   "heading": "Artigo 10.º — Outras formas contratuais",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 10.º — Outras formas contratuais\n\n1- O disposto no presente capítulo aplica-se, com as necessárias adaptações, a outras formas contratuais de exploração de imóveis para fins comerciais.\n\n2 - Sem prejuízo do disposto no número anterior:\n\na) O presente capítulo não se aplica aos estabelecimentos inseridos em conjuntos comerciais que beneficiem do regime previsto no n.º 5 do artigo 168.º-A da Lei n.º 2/2020, de 31 de março, na redação que lhe foi dada pela Lei n.º 27-A/2020, de 24 de julho;\n\nb) O artigo 8.º-B não se aplica aos estabelecimentos inseridos em conjuntos comerciais que beneficiem, para o ano de 2021, de um regime de redução ou desconto na remuneração devida nos termos do contrato.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "153013543": {
+   "fragment_id": "134776343",
+   "type": 11,
+   "heading": "Artigo 12.º — Indemnização",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 12.º — Indemnização\n\n1 - A indemnização prevista no n.º 1 do artigo 1041.º do Código Civil, por atraso no pagamento de rendas que se vençam nos meses em que é possível o respetivo diferimento, não é exigível sempre que se verifique o disposto nos artigos 4.º e 7.º da presente lei.\n\n2 - A indemnização a que se refere o número anterior, por atraso no pagamento de rendas que se vençam até 1 de setembro de 2020, não é exigível nos casos em que o seu pagamento possa ser diferido conforme o disposto no n.º 2 do artigo 8.º\n\n3 - O disposto no n.º 3 do artigo 1041.º do Código Civil não é aplicável durante o período de aplicação da presente lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "145225185": {
+   "fragment_id": "140695740",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Regimes mais favoráveis",
+   "in_force_from": "2020-08-21",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 13.º-A — Regimes mais favoráveis\n\n1 - O disposto na presente lei não prejudica a existência de regimes mais favoráveis ao arrendatário, decorrentes da lei ou de acordo, celebrado ou a celebrar entre as partes, nomeadamente acordos de perdão de dívida ou acordos de diferimento no pagamento de rendas mais benéficos para o arrendatário.\n\n2 - Nos casos de arrendamento não habitacional, existindo acordo previamente celebrado que estabeleça condições menos favoráveis para o arrendatário, o mesmo fica sem efeito mediante comunicação a enviar pelo arrendatário, no prazo de 30 dias após a entrada em vigor da Lei n.º 45/2020, de 20 de agosto, para a morada do senhorio constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, através da qual o arrendatário manifesta a intenção de aplicar o presente regime.\n\n3 - São nulas as cláusulas de renúncia a direitos atribuídos pela presente lei ou de recurso a meios judiciais e de aceitação de aumentos de renda ou do período do contrato dispostas nos contratos referidos no número anterior.\n\n4 - No caso previsto no n.º 2, as quantias que já tenham sido pagas a título de renda não são devolvidas ao arrendatário, relevando antes para efeitos de cálculo do montante total em dívida a que se refere a alínea b) do n.º 3 do artigo 8.º\n\n5 - O disposto no n.º 1 do artigo 10.º do NRAU não se aplica à comunicação referida no n.º 2 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+  },
+  "153013552": {
+   "fragment_id": "134776346",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação da lei no tempo",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 14.º — Aplicação da lei no tempo\n\n1 - A presente lei é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020.\n\n2 - O disposto nos artigos 5.º e 11.º é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020 até ao dia 1 de julho de 2021.\n\n3 - O disposto no artigo 8.º-A é aplicável às rendas que se vençam a partir de 1 de julho de 2020 até ao dia 31 de dezembro de 2020, sendo de 20 dias o prazo indicado no n.º 1 do artigo 8.º-A para as rendas que se vençam durante o mês de julho de 2020.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "166888401": {
+   "fragment_id": "134776333",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": "2021-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-B/2021 - Diário da República n.º 130/2021, 1º Suplemento, Série I de 2021-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-b-2021-166660387), em vigor a partir de 2021-07-12, produz efeitos a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - Os arrendatários habitacionais, bem como, no caso dos estudantes que não aufiram rendimentos do trabalho, os respetivos fiadores, que tenham, comprovadamente a quebra referida no artigo 3.º, e se vejam incapacitados de pagar a renda das habitações que constituem a sua residência permanente ou, no caso de estudantes, que constituem residência por frequência de estabelecimentos de ensino localizado a uma distância superior a 50 km da residência permanente do agregado familiar, podem solicitar ao Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a concessão de um empréstimo sem juros para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento do agregado familiar de uma taxa de esforço máxima de 35 %, de forma a permitir o pagamento da renda devida, não podendo o rendimento disponível restante do agregado ser inferior ao indexante dos apoios sociais (IAS).\n\n2 - No caso de mutuários de empréstimos com baixos rendimentos, cuja taxa de esforço destinada ao pagamento da renda seja ou se torne superior a 35 % e inferior a 100 %, o empréstimo previsto no número anterior é atribuído, mediante requerimento, a título de comparticipação financeira não reembolsável nos termos da seguinte fórmula:\n\n(ver documento original)\n\n3 - No caso de mutuários de empréstimos com baixos rendimentos, cuja taxa de esforço destinada ao pagamento da renda seja igual ou superior a 100 %, o empréstimo previsto no n.º 1 é convertido na sua totalidade, mediante requerimento, em comparticipação financeira não reembolsável.\n\n4 - São considerados como tendo baixos rendimentos os mutuários dos empréstimos cujo rendimento médio mensal cumpra o limite de acesso ao programa 1.º Direito, regulado pelo Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual.\n\n5 - Para efeitos do disposto no número anterior, o rendimento médio mensal é o que resulta da divisão por três do total dos rendimentos auferidos pelo agregado familiar do mutuário no trimestre correspondente às últimas rendas objeto de apoio através de empréstimo, corrigido de acordo com uma escala de equivalência que atribua uma ponderação nos termos previstos nas alíneas do n.º 1 do artigo 9.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual.\n\n6 - O disposto nos números anteriores não é aplicável aos arrendatários habitacionais, cuja quebra de rendimentos determine a redução do valor das rendas por eles devidas, nos termos estabelecidos em regimes especiais de arrendamento ou de renda, como o arrendamento apoiado, a renda apoiada e a renda social.\n\n7 - Os empréstimos a que se refere o n.º 1 são concedidos pelo IHRU, I. P., nos termos, designadamente, da competência prevista na alínea k) do n.º 2 do artigo 3.º do Decreto-Lei n.º 175/2012, de 2 de agosto, na sua redação atual, e têm, como primeiras fontes de financiamento, as verbas inscritas no seu orçamento para 2020 e 2021 provenientes da consignação de receita de impostos sobre o rendimento e, se necessário, das verbas a transferir para o IHRU, I. P., pela Direção-Geral do Tesouro e Finanças no âmbito de políticas de promoção de habitação, financiadas por receitas de impostos inscritas no capítulo 60, ambas nos termos previstos no Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, na sua redação atual e no Orçamento do Estado para 2021, bem como nos saldos transitados do Programa SOLARH, criado pelo Decreto-Lei n.º 39/2001, de 9 de fevereiro, na sua redação atual.\n\n8 - Para efeitos de mora ou incumprimento do contrato de arrendamento, a contagem dos prazos é suspensa desde o momento da apresentação do pedido de apoio financeiro pelo arrendatário até à decisão final por parte do IHRU, I. P.\n\n9 - O regulamento a ser elaborado pelo IHRU, I. P., com as condições de concessão dos empréstimos referidos nos números anteriores, atendendo à urgência e ao seu especial fim, produz todos os seus efeitos a contar da data da sua divulgação no Portal da Habitação, na sequência de aprovação pelo conselho diretivo do IHRU, I. P., sujeita a homologação do membro do Governo responsável pela área da habitação.\n\n10 - Sem prejuízo do disposto nos números anteriores, o beneficiário pode optar pela apresentação de declaração do próprio, sob compromisso de honra, ou de contabilista certificado, sendo o apoio atribuído sem verificação preliminar da quebra de rendimentos.\n\n11 - Nos casos previstos no número anterior, o beneficiário deve apresentar, no prazo de 60 dias após a submissão do requerimento, os comprovativos da quebra de rendimentos.\n\n12 - Sempre que o IHRU, I. P., verifique que não são entregues os comprovativos no prazo indicado no número anterior, que foram prestadas falsas declarações ou que exista erro na declaração sob compromisso de honra, devem os valores já pagos ser restituídos pelos respetivos beneficiários.\n\n13 - A aplicação do apoio previsto no presente artigo, no caso de contratos que venham a ser celebrados ou renovados a partir de 1 de janeiro de 2021, é regulamentada por portaria do membro do Governo responsável pela área da habitação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-B/2021 - Diário da República n.º 130/2021, 1º Suplemento, Série I de 2021-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-b-2021-166660387), em vigor a partir de 2021-07-12, produz efeitos a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+  },
+  "166888402": {
+   "fragment_id": "134776346",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação da lei no tempo",
+   "in_force_from": "2021-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-B/2021 - Diário da República n.º 130/2021, 1º Suplemento, Série I de 2021-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-b-2021-166660387), em vigor a partir de 2021-07-12, produz efeitos a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 14.º — Aplicação da lei no tempo\n\n1 - A presente lei é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020.\n\n2 - O disposto nos artigos 5.º e 11.º é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020 até ao dia 1 de julho de 2021.\n\n3 - Os empréstimos já concedidos ou em avaliação junto do IHRU, I. P., desde que elegíveis e apresentados até 1 de julho de 2021, podem ser atribuídos até três meses depois da cessação do regime previsto no número anterior.\n\n4 - O disposto no artigo 8.º-A é aplicável às rendas que se vençam a partir de 1 de julho de 2020 até ao dia 31 de dezembro de 2020, sendo de 20 dias o prazo indicado no n.º 1 do artigo 8.º-A para as rendas que se vençam durante o mês de julho de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-B/2021 - Diário da República n.º 130/2021, 1º Suplemento, Série I de 2021-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-b-2021-166660387), em vigor a partir de 2021-07-12, produz efeitos a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "215195276": {
+   "fragment_id": "134776327",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195277": {
+   "fragment_id": "134776328",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece um regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, atendendo à situação epidemiológica provocada pela doença COVID-19.\n\n2 - O disposto na presente lei é ainda aplicável, com as necessárias adaptações, a outras formas contratuais de exploração de imóveis.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195278": {
+   "fragment_id": "134776329",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nA presente lei é aplicável em todo o território nacional.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195279": {
+   "fragment_id": "134776330",
+   "type": 1,
+   "heading": "Capítulo II — Arrendamento habitacional",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "### Capítulo II — Arrendamento habitacional\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195280": {
+   "fragment_id": "134776331",
+   "type": 11,
+   "heading": "Artigo 3.º — Quebra de rendimentos dos arrendatários e senhorios habitacionais",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 3.º — Quebra de rendimentos dos arrendatários e senhorios habitacionais\n\n1 - No caso de arrendamentos habitacionais, a presente lei é aplicável quando se verifique:\n\na) Uma quebra superior a 20 % dos rendimentos do agregado familiar do arrendatário face aos rendimentos do mês de fevereiro de 2020, do mês anterior, ou do período homólogo do ano anterior; e\n\nb) A taxa de esforço do agregado familiar do arrendatário, calculada como percentagem dos rendimentos de todos os membros daquele agregado destinada ao pagamento da renda, seja ou se torne superior a 35 %; ou\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n2 - A demonstração da quebra de rendimentos é efetuada nos termos de portaria a aprovar pelo membro do Governo responsável pela área da habitação.\n\n3 - Os beneficiários do apoio previsto no artigo 5.º devem remeter, trimestralmente, informação atualizada que comprove a quebra de rendimentos.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+  },
+  "215195281": {
+   "fragment_id": "134776332",
+   "type": 11,
+   "heading": "Artigo 4.º — Mora do arrendatário habitacional",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 4.º — Mora do arrendatário habitacional\n\nNas situações previstas no artigo anterior, o senhorio só tem direito à resolução do contrato de arrendamento, por falta de pagamento das rendas vencidas se o arrendatário, tendo diferido o pagamento da renda nos meses de abril a junho de 2020, não efetue o seu pagamento, no prazo de 12 meses contados do termo desse período, em prestações mensais não inferiores a um duodécimo do montante total, pagas juntamente com a renda de cada mês.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+  },
+  "215195282": {
+   "fragment_id": "134776333",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio financeiro",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-B/2021 - Diário da República n.º 130/2021, 1º Suplemento, Série I de 2021-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-b-2021-166660387), em vigor a partir de 2021-07-12, produz efeitos a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio financeiro\n\n1 - Os arrendatários habitacionais, bem como, no caso dos estudantes que não aufiram rendimentos do trabalho, os respetivos fiadores, que tenham, comprovadamente a quebra referida no artigo 3.º, e se vejam incapacitados de pagar a renda das habitações que constituem a sua residência permanente ou, no caso de estudantes, que constituem residência por frequência de estabelecimentos de ensino localizado a uma distância superior a 50 km da residência permanente do agregado familiar, podem solicitar ao Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a concessão de um empréstimo sem juros para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento do agregado familiar de uma taxa de esforço máxima de 35 %, de forma a permitir o pagamento da renda devida, não podendo o rendimento disponível restante do agregado ser inferior ao indexante dos apoios sociais (IAS).\n\n2 - No caso de mutuários de empréstimos com baixos rendimentos, cuja taxa de esforço destinada ao pagamento da renda seja ou se torne superior a 35 % e inferior a 100 %, o empréstimo previsto no número anterior é atribuído, mediante requerimento, a título de comparticipação financeira não reembolsável nos termos da seguinte fórmula:\n\n(ver documento original)\n\n3 - No caso de mutuários de empréstimos com baixos rendimentos, cuja taxa de esforço destinada ao pagamento da renda seja igual ou superior a 100 %, o empréstimo previsto no n.º 1 é convertido na sua totalidade, mediante requerimento, em comparticipação financeira não reembolsável.\n\n4 - São considerados como tendo baixos rendimentos os mutuários dos empréstimos cujo rendimento médio mensal cumpra o limite de acesso ao programa 1.º Direito, regulado pelo Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual.\n\n5 - Para efeitos do disposto no número anterior, o rendimento médio mensal é o que resulta da divisão por três do total dos rendimentos auferidos pelo agregado familiar do mutuário no trimestre correspondente às últimas rendas objeto de apoio através de empréstimo, corrigido de acordo com uma escala de equivalência que atribua uma ponderação nos termos previstos nas alíneas do n.º 1 do artigo 9.º do Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual.\n\n6 - O disposto nos números anteriores não é aplicável aos arrendatários habitacionais, cuja quebra de rendimentos determine a redução do valor das rendas por eles devidas, nos termos estabelecidos em regimes especiais de arrendamento ou de renda, como o arrendamento apoiado, a renda apoiada e a renda social.\n\n7 - Os empréstimos a que se refere o n.º 1 são concedidos pelo IHRU, I. P., nos termos, designadamente, da competência prevista na alínea k) do n.º 2 do artigo 3.º do Decreto-Lei n.º 175/2012, de 2 de agosto, na sua redação atual, e têm, como primeiras fontes de financiamento, as verbas inscritas no seu orçamento para 2020 e 2021 provenientes da consignação de receita de impostos sobre o rendimento e, se necessário, das verbas a transferir para o IHRU, I. P., pela Direção-Geral do Tesouro e Finanças no âmbito de políticas de promoção de habitação, financiadas por receitas de impostos inscritas no capítulo 60, ambas nos termos previstos no Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, na sua redação atual e no Orçamento do Estado para 2021, bem como nos saldos transitados do Programa SOLARH, criado pelo Decreto-Lei n.º 39/2001, de 9 de fevereiro, na sua redação atual.\n\n8 - Para efeitos de mora ou incumprimento do contrato de arrendamento, a contagem dos prazos é suspensa desde o momento da apresentação do pedido de apoio financeiro pelo arrendatário até à decisão final por parte do IHRU, I. P.\n\n9 - O regulamento a ser elaborado pelo IHRU, I. P., com as condições de concessão dos empréstimos referidos nos números anteriores, atendendo à urgência e ao seu especial fim, produz todos os seus efeitos a contar da data da sua divulgação no Portal da Habitação, na sequência de aprovação pelo conselho diretivo do IHRU, I. P., sujeita a homologação do membro do Governo responsável pela área da habitação.\n\n10 - Sem prejuízo do disposto nos números anteriores, o beneficiário pode optar pela apresentação de declaração do próprio, sob compromisso de honra, ou de contabilista certificado, sendo o apoio atribuído sem verificação preliminar da quebra de rendimentos.\n\n11 - Nos casos previstos no número anterior, o beneficiário deve apresentar, no prazo de 60 dias após a submissão do requerimento, os comprovativos da quebra de rendimentos.\n\n12 - Sempre que o IHRU, I. P., verifique que não são entregues os comprovativos no prazo indicado no número anterior, que foram prestadas falsas declarações ou que exista erro na declaração sob compromisso de honra, devem os valores já pagos ser restituídos pelos respetivos beneficiários.\n\n13 - A aplicação do apoio previsto no presente artigo, no caso de contratos que venham a ser celebrados ou renovados a partir de 1 de janeiro de 2021, é regulamentada por portaria do membro do Governo responsável pela área da habitação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-B/2021 - Diário da República n.º 130/2021, 1º Suplemento, Série I de 2021-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-b-2021-166660387), em vigor a partir de 2021-07-12, produz efeitos a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+  },
+  "215195283": {
+   "fragment_id": "134776334",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres de informação",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Deveres de informação\n\n1 - Os arrendatários que se vejam impossibilitados do pagamento da renda têm o dever de informar o senhorio, por escrito, até cinco dias antes do vencimento da primeira renda em que pretendem beneficiar do regime previsto no presente capítulo, juntando a documentação comprovativa da situação, nos termos da portaria a que se refere o n.º 2 do artigo 3.º\n\n2 - O disposto no número anterior não se aplica às rendas que se vençam na data prevista no artigo 14.º, podendo em tal caso a notificação ser feita até 20 dias após a data de entrada em vigor da presente lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195284": {
+   "fragment_id": "134776335",
+   "type": 1,
+   "heading": "Capítulo III — Arrendamento não habitacional",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "### Capítulo III — Arrendamento não habitacional\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195285": {
+   "fragment_id": "134776336",
+   "type": 11,
+   "heading": "Artigo 7.º — Quebra de rendimentos dos arrendatários não habitacionais",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 7.º — Quebra de rendimentos dos arrendatários não habitacionais\n\nO presente capítulo aplica-se:\n\na) Aos estabelecimentos abertos ao público destinados a atividades de comércio a retalho e de prestação de serviços encerrados ou que tenham as respetivas atividades suspensas ao abrigo do Decreto n.º 2-A/2020, de 20 de março, ou por determinação legislativa ou administrativa, nos termos previstos no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou ao abrigo da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, ou de outras disposições destinadas à execução do estado de emergência, bem como, após a sua cessação, ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19 que determine o encerramento de instalações ou suspensão de atividades, incluindo nos casos em que estes mantenham a prestação de atividades de comércio eletrónico, ou de prestação de serviços à distância ou através de plataforma eletrónica;\n\nb) Aos estabelecimentos de restauração e similares, encerrados nos termos das disposições anteriores, incluindo nos casos em que estes mantenham atividade para efeitos exclusivos de confeção destinada a consumo fora do estabelecimento ou entrega no domicílio, nos termos previstos no Decreto n.º 2-A/2020, de 20 de março, ou em qualquer outra disposição que o permita.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "215195286": {
+   "fragment_id": "134776337",
+   "type": 11,
+   "heading": "Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 8.º — Diferimento de rendas de contratos de arrendamento não habitacionais\n\n1 - O arrendatário que preencha o disposto no artigo anterior pode diferir o pagamento das rendas vencidas:\n\na) Nos meses em que vigore o estado de emergência e no primeiro mês subsequente;\n\nb) Nos meses em que, ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19, seja determinado o encerramento das suas instalações ou suspensão da respetiva atividade;\n\nc) Nos três meses subsequentes àquele em que ocorra o levantamento da imposição do encerramento das suas instalações ou da suspensão da respetiva atividade.\n\n2 - Nos casos previstos no número anterior:\n\na) O diferimento não pode, em qualquer caso, aplicar-se a rendas que se vençam após 31 de dezembro de 2020;\n\nb) O período de regularização da dívida tem início a 1 de janeiro de 2021 e prolonga-se até 31 de dezembro de 2022;\n\nc) O pagamento é efetuado em 24 prestações sucessivas, de valor correspondente ao resultante do rateio do montante total em dívida por 24, liquidadas juntamente com a renda do mês em causa ou até ao oitavo dia do calendário de cada mês, no caso de renda não mensal.\n\n3 - Para efeitos do disposto na alínea b) do número anterior, o montante total em dívida exclui as rendas vencidas e já pagas, as quais se consideram, para todos os efeitos, liquidadas.\n\n4 - Sem prejuízo do disposto no n.º 2, o arrendatário pode, a qualquer altura, proceder ao pagamento total ou parcial das prestações em dívida.\n\n5 - Os senhorios cujos arrendatários deixem de pagar as rendas nos termos dos n.os 1 e 2 podem solicitar a concessão de uma linha de crédito com custos reduzidos, a regulamentar, para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento mensal ou à faturação mensal do senhorio, de uma taxa de esforço máxima de 35 %, cuja demonstração é efetuada nos termos da portaria a aprovar pelo membro do Governo responsável pela área da economia.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "215195287": {
+   "fragment_id": "140695738",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Dever de comunicação e proposta de acordo",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 8.º-A — Dever de comunicação e proposta de acordo\n\n1 - O arrendatário que pretenda beneficiar do regime previsto no artigo anterior deve comunicar a sua intenção ao senhorio, por escrito e até cinco dias antes do vencimento da primeira renda em que pretenda beneficiar deste regime, mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior.\n\n2 - Em alternativa à comunicação prevista no número anterior, o arrendatário pode endereçar ao senhorio, mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, uma proposta de acordo de pagamento das rendas vencidas e vincendas, diferente da solução prevista no artigo anterior.\n\n3 - As comunicações previstas nos n.os 1 e 2 devem conter, para além dos elementos ali indicados, sob pena de ineficácia:\n\na) O prazo de resposta de 10 dias, nos termos do n.º 4, considerando-se como falta de resposta o incumprimento deste prazo;\n\nb) O conteúdo que pode apresentar a resposta, nos termos dos n.os 4 e 6;\n\nc) As consequências da falta de resposta, nos termos do n.º 5.\n\n4 - A aceitação do acordo ou a respetiva recusa devem ser transmitidas pelo senhorio, por escrito, através de carta registada com aviso de receção para a morada do locado, no prazo de 10 dias após a receção da proposta do arrendatário.\n\n5 - Em caso de ausência de resposta do senhorio ou de resposta transmitida depois do prazo previsto no número anterior, presume-se que o senhorio manifesta o seu acordo à proposta do arrendatário.\n\n6 - O senhorio pode, no prazo previsto no n.º 3, formular uma contraproposta ao arrendatário, à qual este deve responder no prazo de 10 dias, determinando a rejeição da mesma pelo arrendatário ou a ausência de resposta deste dentro do prazo a aplicabilidade do regime previsto no artigo anterior.\n\n7 - O disposto no n.º 1 do artigo 10.º do Novo Regime do Arrendamento Urbano (NRAU) não se aplica às comunicações referidas nos n.os 1 e 2 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+  },
+  "215195288": {
+   "fragment_id": "153013455",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Estabelecimentos que permanecem encerrados a 1 de janeiro de 2021",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 8.º-B — Estabelecimentos que permanecem encerrados a 1 de janeiro de 2021\n\n1 - Aos arrendatários cujos estabelecimentos tenham sido encerrados, por determinação legal ou administrativa da responsabilidade do Governo, desde, pelo menos, março de 2020, e que, a 1 de janeiro de 2021, ainda permaneçam encerrados aplica-se o disposto nos números seguintes.\n\n2 - Relativamente às rendas vencidas em 2020, cujo pagamento tenha sido diferido ao abrigo da presente lei, o arrendatário pode voltar a diferir o respetivo pagamento, nos seguintes termos:\n\na) O período de regularização da dívida tem início a 1 de janeiro de 2022 e prolonga-se até 31 de dezembro de 2023;\n\nb) O pagamento é efetuado em 24 prestações sucessivas, de valor correspondente ao resultante do rateio do montante total em dívida por 24, liquidadas juntamente com a renda do mês em causa ou até ao oitavo dia do calendário de cada mês, no caso de renda não mensal.\n\n3 - Relativamente às rendas vencidas em 2021, o arrendatário pode requerer o diferimento do pagamento das rendas, correspondentes aos meses em que os estabelecimentos se encontrem encerrados, aplicando-se o disposto nas alíneas do número anterior.\n\n4 - O arrendatário que pretenda beneficiar do regime previsto nos números anteriores deve comunicar a sua intenção ao senhorio, por escrito e até 20 dias após a entrada em vigor da Lei n.º 75-A/2020, de 30 de dezembro, retroagindo os seus efeitos a 1 de janeiro de 2021, se a comunicação tiver sido posterior a esta data.\n\n5 - A comunicação prevista no número anterior é efetuada mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior.\n\n6 - Caso o arrendatário requeira o diferimento do pagamento das rendas nos termos do presente artigo, os senhorios podem requerer a concessão de um empréstimo, nos termos da linha de crédito com custos reduzidos prevista no n.º 5 do artigo 8.º, por referência às rendas do ano de 2020 e de 2021, vencidas e não liquidadas.\n\n7 - O diferimento no pagamento das rendas nos termos do presente artigo não constitui falta ou mora no pagamento das rendas em causa para quaisquer efeitos legais.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+  },
+  "215195289": {
+   "fragment_id": "153013456",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Apoios a fundo perdido",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 8.º-C — Apoios a fundo perdido\n\n1 - Os arrendatários que, no ano de 2020, sofreram uma quebra de faturação entre 25 % e 40 %, recebem um apoio a fundo perdido de valor equivalente a 30 % do valor da renda, com o limite de 1200 (euro) por mês.\n\n2 - Os arrendatários que, no ano de 2020, sofreram uma quebra de faturação superior a 40 %, recebem um apoio a fundo perdido de valor equivalente a 50 % do valor da renda, com o limite de 2000 (euro) por mês.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31"
+  },
+  "215195290": {
+   "fragment_id": "158240120",
+   "type": 11,
+   "heading": "Artigo 8.º-D — Redução da remuneração fixa ou mínima",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Aditado pelo/a Artigo 439.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-D — Redução da remuneração fixa ou mínima\n\n1 - A remuneração mensal fixa ou mínima devida pelos lojistas de estabelecimentos abertos ao público inseridos em centros comerciais é reduzida proporcionalmente à redução da faturação mensal, até ao limite de 50 % do valor daquela, quando tais estabelecimentos tenham uma quebra do volume de vendas mensal, face ao volume de vendas do mês homólogo do ano de 2019 ou, na sua falta, ao volume médio de vendas dos últimos seis meses antecedentes ao Decreto do Presidente da República n.º 14-A/2020, de 18 de março, ou de período inferior, se aplicável.\n\n2 - O disposto no presente artigo vigora no primeiro trimestre de 2021 e pode ser prorrogado por despacho do Governo, até 30 de junho de 2021, caso a situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19 se prolongue para além do primeiro trimestre de 2021.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Aditado pelo/a Artigo 439.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+  },
+  "215195291": {
+   "fragment_id": "134776338",
+   "type": 11,
+   "heading": "Artigo 9.º — Cessação do contrato ou outras penalidades",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 9.º — Cessação do contrato ou outras penalidades\n\n1 - A falta de pagamento das rendas que se vençam nos meses em que vigore o estado de emergência e no primeiro mês subsequente, bem como, no caso de estabelecimentos e instalações que permaneçam encerrados ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19 que determine o encerramento de instalações ou suspensão de atividades, nos meses em que esta vigorar e no mês subsequente, e até 1 de setembro de 2020, nos termos do artigo anterior, não pode ser invocada como fundamento de resolução, denúncia ou outra forma de extinção de contratos, nem como fundamento de obrigação de desocupação de imóveis.\n\n2 - Aos arrendatários abrangidos pelo artigo 7.º não é exigível o pagamento de quaisquer outras penalidades que tenham por base a mora no pagamento de rendas que se vençam nos termos do número anterior.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "215195292": {
+   "fragment_id": "134776339",
+   "type": 11,
+   "heading": "Artigo 10.º — Outras formas contratuais",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 10.º — Outras formas contratuais\n\n1- O disposto no presente capítulo aplica-se, com as necessárias adaptações, a outras formas contratuais de exploração de imóveis para fins comerciais.\n\n2 - Sem prejuízo do disposto no número anterior:\n\na) O presente capítulo não se aplica aos estabelecimentos inseridos em conjuntos comerciais que beneficiem do regime previsto no n.º 5 do artigo 168.º-A da Lei n.º 2/2020, de 31 de março, na redação que lhe foi dada pela Lei n.º 27-A/2020, de 24 de julho;\n\nb) O artigo 8.º-B não se aplica aos estabelecimentos inseridos em conjuntos comerciais que beneficiem, para o ano de 2021, de um regime de redução ou desconto na remuneração devida nos termos do contrato.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "215195293": {
+   "fragment_id": "134776340",
+   "type": 1,
+   "heading": "Capítulo IV — Entidades públicas",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "### Capítulo IV — Entidades públicas\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195294": {
+   "fragment_id": "134776341",
+   "type": 11,
+   "heading": "Artigo 11.º — Suspensão, redução ou isenção de renda devidas a entidades públicas",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 11.º — Suspensão, redução ou isenção de renda devidas a entidades públicas\n\n1 - Sem prejuízo do disposto nos artigos anteriores, as entidades públicas com imóveis arrendados ou cedidos sob outra forma contratual podem, durante o período de vigência da presente lei, reduzir as rendas aos arrendatários que tenham, comprovadamente, uma quebra de rendimentos superior a 20 % face aos rendimentos do mês anterior ou do período homólogo do ano anterior, quando da mesma resulte uma taxa de esforço superior a 35 % relativamente à renda.\n\n2 - O disposto no número anterior não se aplica àqueles que sejam beneficiários de regimes especiais de arrendamento habitacional ou de renda, como o arrendamento apoiado, a renda apoiada e a renda social.\n\n3 - As entidades públicas com imóveis arrendados ou cedidos sob outra forma contratual podem isentar do pagamento de renda os seus arrendatários que comprovem ter deixado de auferir quaisquer rendimentos após 1 de março de 2020.\n\n4 - As entidades públicas com imóveis arrendados ou cedidos sob outra forma contratual podem estabelecer moratórias aos seus arrendatários.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195295": {
+   "fragment_id": "134776342",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "### Capítulo V — Disposições complementares\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195296": {
+   "fragment_id": "134776343",
+   "type": 11,
+   "heading": "Artigo 12.º — Indemnização",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 12.º — Indemnização\n\n1 - A indemnização prevista no n.º 1 do artigo 1041.º do Código Civil, por atraso no pagamento de rendas que se vençam nos meses em que é possível o respetivo diferimento, não é exigível sempre que se verifique o disposto nos artigos 4.º e 7.º da presente lei.\n\n2 - A indemnização a que se refere o número anterior, por atraso no pagamento de rendas que se vençam até 1 de setembro de 2020, não é exigível nos casos em que o seu pagamento possa ser diferido conforme o disposto no n.º 2 do artigo 8.º\n\n3 - O disposto no n.º 3 do artigo 1041.º do Código Civil não é aplicável durante o período de aplicação da presente lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 75-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2020-152639820), em vigor a partir de 2020-12-31\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "215195297": {
+   "fragment_id": "140695739",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Garantias bancárias",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 12.º-A — Garantias bancárias\n\nNo decurso da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, o senhorio não pode executar garantias bancárias pelo incumprimento no pagamento de rendas não habitacionais.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+  },
+  "215195298": {
+   "fragment_id": "134776344",
+   "type": 11,
+   "heading": "Artigo 13.º — Vencimento imediato",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 13.º — Vencimento imediato\n\nA cessação do contrato por iniciativa do arrendatário torna exigível, a partir da data da cessação, o pagamento imediato das rendas vencidas e não pagas, nos termos da presente lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195299": {
+   "fragment_id": "140695740",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Regimes mais favoráveis",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 13.º-A — Regimes mais favoráveis\n\n1 - O disposto na presente lei não prejudica a existência de regimes mais favoráveis ao arrendatário, decorrentes da lei ou de acordo, celebrado ou a celebrar entre as partes, nomeadamente acordos de perdão de dívida ou acordos de diferimento no pagamento de rendas mais benéficos para o arrendatário.\n\n2 - Nos casos de arrendamento não habitacional, existindo acordo previamente celebrado que estabeleça condições menos favoráveis para o arrendatário, o mesmo fica sem efeito mediante comunicação a enviar pelo arrendatário, no prazo de 30 dias após a entrada em vigor da Lei n.º 45/2020, de 20 de agosto, para a morada do senhorio constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, através da qual o arrendatário manifesta a intenção de aplicar o presente regime.\n\n3 - São nulas as cláusulas de renúncia a direitos atribuídos pela presente lei ou de recurso a meios judiciais e de aceitação de aumentos de renda ou do período do contrato dispostas nos contratos referidos no número anterior.\n\n4 - No caso previsto no n.º 2, as quantias que já tenham sido pagas a título de renda não são devolvidas ao arrendatário, relevando antes para efeitos de cálculo do montante total em dívida a que se refere a alínea b) do n.º 3 do artigo 8.º\n\n5 - O disposto no n.º 1 do artigo 10.º do NRAU não se aplica à comunicação referida no n.º 2 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21"
+  },
+  "215195300": {
+   "fragment_id": "134776345",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195301": {
+   "fragment_id": "134776346",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação da lei no tempo",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-B/2021 - Diário da República n.º 130/2021, 1º Suplemento, Série I de 2021-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-b-2021-166660387), em vigor a partir de 2021-07-12, produz efeitos a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 14.º — Aplicação da lei no tempo\n\n1 - A presente lei é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020.\n\n2 - O disposto nos artigos 5.º e 11.º é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020 até ao dia 1 de julho de 2021.\n\n3 - Os empréstimos já concedidos ou em avaliação junto do IHRU, I. P., desde que elegíveis e apresentados até 1 de julho de 2021, podem ser atribuídos até três meses depois da cessação do regime previsto no número anterior.\n\n4 - O disposto no artigo 8.º-A é aplicável às rendas que se vençam a partir de 1 de julho de 2020 até ao dia 31 de dezembro de 2020, sendo de 20 dias o prazo indicado no n.º 1 do artigo 8.º-A para as rendas que se vençam durante o mês de julho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-B/2021 - Diário da República n.º 130/2021, 1º Suplemento, Série I de 2021-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-b-2021-166660387), em vigor a partir de 2021-07-12, produz efeitos a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 45/2020 - Diário da República n.º 162/2020, Série I de 2020-08-20](https://diariodarepublica.pt/dr/detalhe/lei/45-2020-140631236), em vigor a partir de 2020-08-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/17-2020-134762424), em vigor a partir de 2020-05-30"
+  },
+  "215195302": {
+   "fragment_id": "134776347",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195303": {
+   "fragment_id": "134776348",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "Aprovada em 2 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 3 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 6 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113170838\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  }
+ }
+}

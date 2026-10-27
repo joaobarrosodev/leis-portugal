@@ -1,0 +1,595 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0041:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0041-20191221",
+ "dre_path": null,
+ "source_lastmod": "2019-12-21",
+ "versions": [
+  {
+   "date": "1998-07-02",
+   "future": false,
+   "celex": "31998L0041",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fb729c245b412dab",
+    "d7215d8d065ecef3",
+    "62d49ab6cf55bb10",
+    "837fd4c5ff107626",
+    "8b4342fe132e9542",
+    "4ded119321b684fa",
+    "02eb3276b9d22bba",
+    "90c8e4fb31843a84",
+    "60094e86ef21e88d",
+    "f302b597c8474530",
+    "8b276cdf175e5faa",
+    "e691df2c3c9401fc",
+    "bdf7faf9e920a4ed",
+    "5cb4e667aa68abc6",
+    "212a401c5f2baedf",
+    "e8ad2116b49aa84a",
+    "451a68a34f4336bf",
+    "1851940486af395d"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "01998L0041-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32002L0084:por",
+     "title": "DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro de 2002",
+     "published": null,
+     "celex": "32002L0084"
+    },
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º"
+   ],
+   "fragments": [
+    "6850b0e9bf483d26",
+    "70f31830ddee075c",
+    "b7ba857da086bd99",
+    "d0f60008364b6fd6",
+    "89c53526cd3560a6",
+    "fdc6e984fc3edd64",
+    "88a032d00ab6dee5",
+    "f9dde69408a1dd72",
+    "9be249f0ef51bef1",
+    "fb86b8fb7800de29",
+    "7d394f1970032d99",
+    "06dc77a36ae1bcb3",
+    "74a156269fee878e",
+    "e1199a1034fa3c55",
+    "7b5423de898156bc",
+    "7b7fc29bef4cac4c",
+    "305ef9b677c372ac",
+    "93902f051da1284a",
+    "0e3202d6384c2b91"
+   ]
+  },
+  {
+   "date": "2019-12-21",
+   "future": false,
+   "celex": "01998L0041-20191221",
+   "acts": [
+    {
+     "id": "eu:celex:32017L2109:por",
+     "title": "DIRETIVA (UE) 2017/2109 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017",
+     "published": null,
+     "celex": "32017L2109"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Notas",
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 14.º-A"
+   ],
+   "fragments": [
+    "9c523d302cddb05d",
+    "70f31830ddee075c",
+    "0477511e976d08d8",
+    "b314970e8506ec3f",
+    "59c4fd58854670d1",
+    "d0ec2056561e148e",
+    "b798d15f7fcb2826",
+    "f9dde69408a1dd72",
+    "972550cbcd79b452",
+    "647e849e4f376ca4",
+    "6f64371420c8df71",
+    "13af0485ab43c828",
+    "af351b038426743e",
+    "9432d4a2020096ab",
+    "85a6605c21015386",
+    "f474d0cf785f5c1e",
+    "7b5423de898156bc",
+    "173f6f5430e2cb61",
+    "7b7fc29bef4cac4c",
+    "305ef9b677c372ac",
+    "93902f051da1284a",
+    "ebda00108492c32d"
+   ]
+  }
+ ],
+ "fragments": {
+  "fb729c245b412dab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/41/CE do Conselho de 18 de Junho de 1998 relativa ao registo das pessoas que viajam em navios de passageiros que operam a partir de ou para portos dos Estados-membros da Comunidade** *Jornal Oficial nº L 188 de 02/07/1998 p. 0035 - 0039*\n\nDIRECTIVA 98/41/CE DO CONSELHO de 18 de Junho de 1998 relativa ao registo das pessoas que viajam em navios de passageiros que operam a partir de ou para portos dos Estados-membros da Comunidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o nº 2 do seu artigo 84º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do artigo 189ºC do Tratado (3),\n\n(1) Considerando que serão tomadas novas medidas no âmbito da política comum de transportes, para reforçar a segurança do transporte marítimo;\n\n(2) Considerando que a Comunidade está extremamente preocupada com os acidentes que envolveram navios de passageiros e causaram enormes perdas de vidas humanas, em particular os acidentes do «Herald of Free Enterprise» e do «Estonia»; que as pessoas que utilizam navios de passageiros e embarcações de passageiros de alta velocidade na Comunidade têm o direito de esperar e contar com um nível de segurança adequado e um sistema de informação apropriado que facilite as operações de busca e salvamento e a actuação eficaz em subsequentes operações a desenvolver na sequência de um acidente;\n\n(3) Considerando que é necessário assegurar que o número de passageiros embarcados num navio de passageiros não exceda o número para o qual o navio e o seu equipamento de segurança foram certificados; que as companhias deverão poder informar os serviços de busca e salvamento do número de pessoas envolvidas num possível acidente;\n\n(4) Considerando que é necessária informação sobre os passageiros e a tripulação para facilitar a busca, o salvamento e uma actuação eficaz nas subsequentes operações a desenvolver na sequência de um acidente, por exemplo, identificação de pessoas envolvidas, maior clareza em questões jurídicas pertinentes e contribuição para cuidados médicos mais adequados das pessoas salvas; que essa informação tranquilizaria ansiedades desnecessárias de parentes e outras pessoas relacionadas com pessoas a bordo de navios de passageiros envolvidos em acidentes marítimos em águas que, nos termos da Convenção Internacional sobre Busca e Salvamento Marítimo de 1979 (SAR), são da responsabilidade dos Estados-membros;\n\n(5) Considerando que os passageiros deverão ser por conseguinte contados e registados antes da partida do navio;\n\n(6) Considerando que o Regulamento III/27 da Convenção SOLAS prevê a contagem e registo de todas as pessoas a bordo de todos os navios de passageiros que operam em viagens internacionais, a partir respectivamente de 1 de Julho de 1997 e de 1 de Janeiro de 1999, permitindo embora às administrações isentar dessas exigências os navios de passageiros que operem em águas abrigadas, assim como da obrigatoriedade de registo se os horários das viagens desses navios tornarem impossível esse registo; que o Regulamento SOLAS não se aplica às viagens domésticas e deixa pontos importantes de interpretação ao critério dos Estados-membros;\n\n(7) Considerando que a presente directiva se conjuga com o direito dos Estados-membros de imporem determinadas normas mais estritas do que as previstas na Convenção SOLAS aos navios de passageiros que operem de ou para os seus portos;\n\n(8) Considerando que, dada nomeadamente a dimensão de mercado interno do transporte marítimo de passageiros, a acção a nível da Comunidade é a maneira mais eficaz de estabelecer, em toda a Comunidade, um nível de segurança mínimo comum para os navios;\n\n(9) Considerando que, tendo em vista o princípio da proporcionalidade, uma directiva do Conselho constitui o instrumento jurídico adequado, na medida em que fornece um quadro para uma aplicação uniforme e vinculativa das normas de segurança pelos Estados-membros, deixando ao mesmo tempo a cada Estado-membro o direito de decidir dos meios de execução que melhor se coadunem com o seu sistema interno;\n\n(10) Considerando que os Estados-membros podem assegurar que os navios de passageiros que arvorem o seu pavilhão e as companhias que os exploram observam regras de segurança aplicáveis; que essas regras não deverão ser impostas aos navios que operam entre portos de países terceiros; que as disposições da Convenção SOLAS se aplicam a essas travessias;\n\n(11) Considerando que a única maneira de garantir a segurança de todos os navios de passageiros, independentemente do seu pavilhão, que operem ou pretendam operar a partir dos seus portos, assim como uma actuação eficaz em operações a desenvolver na sequência de acidentes que possam ocorrer, é os Estado-membros exigirem o cumprimento efectivo das regras aplicáveis como condição para os navios operarem a partir dos seus portos; que a concessão de isenções a essas regras não pode ser deixada exclusivamente ao Estado de pavilhão já que apenas o Estado do porto está em condições de determinar os requisitos necessários para que as operações de busca e salvamento se processem da melhor maneira em relação aos navios de passageiros que operem de e para um porto;\n\n(12) Considerando que, a fim de harmonizar a protecção da segurança e evitar distorções de concorrência, os Estados-membros não deverão, por motivos que não os mencionados na presente directiva prever isenções ou derrogações das disposições aplicáveis da Convenção SOLAS em matéria de informação sobre os passageiros para viagens com partida ou destino em portos comunitários;\n\n(13) Considerando que, por questões de exequibilidade e para evitar distorções da concorrência, é necessário estabelecer um regime uniforme no que se refere à determinação de viagens em que o registo de pessoas a bordo deve ser obrigatório; que o limite das 20 milhas resulta da ponderação de princípios gerais e preocupações específicas subscritos por todos os Estados-membros;\n\n(14) Considerando que, por razões de operacionalidade específicas, a contagem de pessoas a bordo de navios de passageiros que atravessem o Estreito de Messina pode, durante um período de tempo limitado, ser efectuada de uma forma mais simples que a contagem individual; que os Estados-membros deverão poder desfrutar de uma certa flexibilidade quanto à obrigatoriedade de comunicar para terra o número de pessoas a bordo de navios de passageiros que operem serviços regulares de curta duração em águas marítimas protegidas, tal como definido na presente directiva; que os navios de passageiros que operam exclusivamente em águas marítimas abrigadas representam um risco menor e deverão, portanto, beneficiar de uma possibilidade de isenção; que, em certas circunstâncias específicas, pode ser altamente impraticável para as companhias de navegação registar pessoas a bordo e por conseguinte deverá permitir-se uma derrogação da obrigatoriedade de registo em circunstâncias específicas e condições bem definidas;\n\n(15) Considerando que é necessário recolher e tratar dados pessoais para a identificação dos passageiros em caso de acidente; que a recolha e tratamento desses dados devem processar-se de acordo com os princípios relativos à protecção de dados estabelecidos na Directiva 95/46/CE (4); que, nomeadamente, as pessoas devem ser devidamente informadas, quando da recolha dos dados, dos fins a que os mesmos se destinam e que os dados devem ser conservados apenas por um período muito curto, que nunca deve ser mais longo do que o necessário para efeitos da presente directiva;\n\n(16) Considerando que é necessário que um comité composto por representantes dos Estados-membros assista a Comissão na aplicação efectiva da presente directiva; que o Comité instituído pelo artigo 12º da Directiva 93/75/CEE (5) pode assumir essas funções;\n\n(17) Considerando que, por intermédio do referido comité, poderão ser adaptadas certas disposições da directiva a fim de ter em conta futuras alterações da Convenção SOLAS que venham a entrar em vigor,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d7215d8d065ecef3": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva tem por objecto aumentar a segurança e as possibilidades de salvamento dos passageiros e tripulantes a bordo de navios de passageiros que operem de ou para portos dos Estados-membros da Comunidade, bem como garantir uma actuação mais eficaz na busca, salvamento e subsequentes operações a desenvolver na sequência de um eventual acidente."
+  },
+  "62d49ab6cf55bb10": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\n- «pessoa», qualquer pessoa a bordo, independentemente da idade,\n\n- «navio de passageiros», um navio de mar ou uma embarcação marítima de alta velocidade que transporte mais de doze passageiros,\n\n- «embarcação de alta velocidade», uma embarcação de alta velocidade como definida na regra 1 do capítulo X da Convenção SOLAS de 1974, na versão em vigor à data de adopção da presente directiva,\n\n- «companhia», o proprietário de um navio de passageiros ou qualquer outra organização ou pessoa, como o armador ou o afretador em casco nu, que tenha assumido, perante o proprietário, a responsabilidade pela exploração do navio,\n\n- «assentador de passageiros», a pessoa em terra designada por uma companhia e responsável pelo cumprimento das obrigações do Código ISM ou uma pessoa em terra designada pela companhia como responsável pela conservação das informações relativas às pessoas embarcadas num navio de passageiros da companhia,\n\n- «autoridade designada», a autoridade competente do Estado-membro, responsável pelas operações de busca e salvamento ou responsável pelas restantes operações necessárias na sequência de um acidente,\n\n- «código ISM», o Código internacional de gestão para a segurança da exploração dos navios e a prevenção da poluição, adoptado pela OMI através da Resolução A.741(18) da Assembleia de 4 de Novembro de 1993,\n\n- «uma milha», 1 852 metros,\n\n- «área marítima protegida», uma área marítima abrigada dos efeitos do mar aberto, na qual um navio nunca fique a mais de 6 milhas de um local abrigado onde os náufragos possam chegar a terra e no qual seja garantida a proximidade de estruturas de busca e salvamento,\n\n- «serviço regular», uma série de travessias marítimas organizadas para satisfazer as necessidades de tráfego entre dois ou mais portos:\n\na) Segundo um horário publicado; ou\n\nb) Com uma regularidade ou frequência tais que constituam uma série sistemática reconhecível como tal,\n\n- «país terceiro», um país que não é um Estado-membro."
+  },
+  "837fd4c5ff107626": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente directiva é aplicável aos navios de passageiros, com excepção:\n\n- dos navios de guerra e de transporte de tropas, e\n\n- das embarcações de recreio, excepto se forem ou se destinarem a ser tripuladas e transportarem mais de doze passageiros com fins comerciais."
+  },
+  "8b4342fe132e9542": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Deve proceder-se à contagem de todas as pessoas que embarquem em navios de passageiros que partam de um porto situado num Estado-membro, antes da partida do navio.\n\n2. O número de pessoas deve ser comunicado, antes da partida do navio de passageiros, ao comandante e ao assentador de passageiros da companhia ou a um sistema da companhia instalado em terra para o mesmo efeito."
+  },
+  "4ded119321b684fa": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Para todos os navios de passageiros que partam de um porto situado num Estado-membro para viagens numa distância superior a 20 milhas do ponto de partida devem ser registadas as seguintes informações:\n\n- os apelidos das pessoas a bordo,\n\n- os nomes próprios ou as suas iniciais,\n\n- o sexo,\n\n- a indicação da categoria etária da pessoa (adulto, criança, bebé) ou a idade ou ano de nascimento,\n\n- elementos sobre a necessidade de cuidados ou assistência especiais em situações de emergência, quando comunicados voluntariamente pelos passageiros.\n\n2. Estas informações devem ser recolhidas antes da partida e ser comunicadas ao assentador de passageiros da companhia ou a um sistema da companhia instalado em terra para o mesmo efeito, o mais tardar 30 minutos após a partida do navio."
+  },
+  "02eb3276b9d22bba": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros exigirão, para os navios de passageiros que arvorem o seu pavilhão e partam de portos fora da Comunidade com destino a portos comunitários, que as respectivas companhias assegurem a disponibilização da informação prevista no nº 1 do artigo 4º e no nº 1 do artigo 5º, tal como especificado no nº 2 do artigo 4º e do nº 2 do artigo 5º\n\n2. Os Estados-membros exigirão, para os navios de passageiros que arvorem pavilhão de países terceiros e partam de portos fora da Comunidade com destino a portos comunitários, que as respectivas companhias assegurem que as informações contidas no nº 1 do artigo 4º e no nº 1 do artigo 5º da presente directiva sejam recolhidas e conservadas, de modo a estarem disponíveis para a autoridade designada, se tal for necessário para efeitos de busca e salvamento e outras operações na sequência de um acidente.\n\n3. Quando, ao abrigo das disposições aplicáveis da Convenção SOLAS, concederem isenções ou derrogações relativas à informação sobre os passageiros aos navios que arvorem os seus pavilhões e que cheguem a portos da Comunidade procedentes de portos exteriores à Comunidade, os Estados-membros devem respeitar as condições de isenção ou de derrogação previstas na presente directiva."
+  },
+  "90c8e4fb31843a84": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO comandante de um navio de passageiros que parte de um porto situado num Estado-membro deve certificar-se antes da partida de que o número de pessoas a bordo não exceda aquele que o navio está autorizado a transportar."
+  },
+  "60094e86ef21e88d": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nTodas as companhias que tenham assumido a responsabilidade pela exploração de um navio de passageiros devem, sempre que os artigos 4º e 5º o exam:\n\n- criar um sistema de registo de informações sobre passageiros. Esse sistema deve obedecer aos critérios previstos no artigo 11º,\n\n- designar um assentador de passageiros responsável pela conservação dessas informações e pela sua comunicação, em caso de emergência ou na sequência de um acidente.\n\nA companhia deve garantir que as informações exigidas pela presente directiva estejam facilmente disponíveis, a qualquer momento, podendo ser facultadas à autoridade designada para efeitos de busca e salvamento na eventualidade de uma emergência ou na sequência de um acidente.\n\nOs dados pessoais recolhidos ao abrigo do artigo 5º não devem ser conservados mais do que o tempo necessário para efeitos da presente directiva.\n\nA companhia deve garantir que as informações específicas relativas às pessoas que declararam necessitar de cuidados ou assistência especiais em situações de emergência são devidamente registadas e comunicadas ao comandante do navio de passageiros antes da partida deste."
+  },
+  "f302b597c8474530": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Os Estados-membros de cujos portos partam navios de passageiros podem baixar o limite de 20 milhas referido no artigo 5º\n\nAs decisões relativas à redução desse limite para viagens entre dois portos de diferentes Estados-membros devem ser tomadas conjuntamente por esses dois países.\n\n2. a) Ao aplicar o nº 1 do artigo 4º, relativamente a serviços regulares que atravessem o Estreito de Messina, a República Italiana poderá adoptar disposições para a contagem do número máximo de pessoas que podem ser transportadas a bordo de um navio de passageiros que transporte carruagens de comboios de passageiros e veículos rodoviários, baseando-se no número máximo de passageiros que é permitido transportar em carruagens de comboios e em todos os outros veículos a bordo, se não for possível proceder a uma contagem individual por razões operacionais. Esta disposição será aplicada durante um período de quatro anos. Qualquer futura prorrogação será decidida nos termos do nº 3, em função da experiência adquirida;\n\nb) Os Estados-membros de cujos portos partam navios podem isentar da obrigação, estabelecida no nº 2 do artigo 4º, de comunicar ao assentador de passageiros ou a um sistema da companhia instalado em terra e que sirva para o mesmo efeito, o número de pessoas a bordo, os navios de passageiros a operar exclusivamente numa área marítima protegida que ofereçam serviços regulares de duração inferior a uma hora entre escalas;\n\nc) Cada Estado-membro pode isentar das obrigações referidas no artigo 5º os navios de passageiros que, nas viagens entre dois portos ou de ida e volta de e para o mesmo porto, sem escalas, naveguem exclusivamente em áreas marítimas protegidas.\n\n3. Nas circunstâncias mencionadas no nº 2, aplica-se o seguinte procedimento:\n\na) O Estado-membro informa sem demora a Comissão da sua decisão de isenção ou derrogação do disposto nos artigos 4º e 5º, indicando os motivos que a justificam;\n\nb) Se, seis meses após a notificação, considerar que essa decisão não se justifica ou pode ter efeitos adversos na concorrência, a Comissão pode, nos termos do artigo 13º, requerer ao Estado-membro que a altere ou retire.\n\n4. Para efeitos de serviços regulares efectuados em áreas onde a probabilidade anual de a altura de vaga significativa exceder dois metros for inferior a 10 %, e\n\n- desde que as viagens não excedam cerca de 30 milhas do ponto de partida, ou\n\n- quando o objectivo essencial do serviço for fornecer ligações regulares a utentes habituais provenientes de comunidades isoladas,\n\num Estado-membro de cujo porto larguem navios de passageiros para viagens internas, ou dois Estados-membros entre cujos portos naveguem navios de passageiros, poderão requerer à comissão que essa exigência seja parcial ou totalmente derrogada, se considerarem impraticável que as companhias registem as informações referidas no nº 1 do artigo 6º\n\nPara o efeito, deverão ser fornecidas provas da impraticabilidade invocada. Deve ser demonstrado que na área em que os navios visados operam lhes são prestadas em terra orientações à navegação e previsões meteorológicas de confiança, e que se encontram aí disponíveis suficientes estruturas de busca e salvamento. As derrogações concedidas ao abrigo no presente número em nada devem prejudicar a concorrência.\n\nTodas as decisões devem ser tomadas nos termos do artigo 13º\n\n5. Os Estados-membros não devem, nos termos da presente directiva, conceder isenções nem derrogações aos navios de passageiros que larguem dos seus portos e arvorem pavilhão de um Estado terceiro parte contratante na Convenção SOLAS que, de acordo com as disposições aplicáveis da Convenção SOLAS, não concorde com a aplicação dessas isenções."
+  },
+  "8b276cdf175e5faa": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs sistemas de registo estabelecidos nos termos do artigo 8º devem ser aprovados pelos Estados-membros.\n\nOs Estados-membros procederão a verificações, pelo menos aleatórias, do funcionamento dos sistemas de registo estabelecidos nos seus territórios, nos termos da presente directiva.\n\nOs Estados-membros designarão a autoridade à qual as companhias referidas no artigo 8º devem comunicar a informação exigida pela presente directiva."
+  },
+  "e691df2c3c9401fc": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Para efeitos da presente directiva, os sistemas de registo devem obedecer aos seguintes critérios funcionais:\n\ni) Inteligibilidade:\n\nos dados devem ser apresentados num formato que torne a sua leitura fácil,\n\nii) Disponibilidade:\n\nos dados devem estar facilmente disponíveis para as autoridades designadas para as quais as informações contidas no sistema são pertinentes,\n\niii) Facilidade:\n\no sistema deve ser concebido de modo a não causar atrasos indevidos aos passageiros que embarquem e/ou desembarquem do navio,\n\niv) Segurança:\n\nos dados devem ser devidamente protegidos contra o risco de destruição acidental ou ilícita ou de perdas, e contra alterações, divulgação ou acesso não autorizados.\n\n2. Deve ser evitada uma multiplicidade de sistemas para as mesmas rotas ou rotas similares."
+  },
+  "bdf7faf9e920a4ed": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nSem prejuízo dos sistemas de alteração da Convenção SOLAS, a presente directiva pode ser alterada nos termos do artigo 13º, tendo em vista assegurar a aplicação, para os fins da presente directiva e sem alargar o seu âmbito de aplicação, das subsequentes alterações da Convenção SOLAS relativas aos sistemas de registo que tenham entrado em vigor após a adopção da presente directiva."
+  },
+  "5cb4e667aa68abc6": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nA Comissão será assistida pelo comité instituído nos termos do nº 1 do artigo 12º da Directiva 93/75/CEE. O comité funcionará nos termos dos nºs 2 e 3 do referido artigo."
+  },
+  "212a401c5f2baedf": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros estabelecerão o sistema de sanções a aplicar em caso de infracção às disposições nacionais adoptadas nos termos da presente directiva e tomarão todas as medidas necessárias para assegurar a aplicação dessas sanções. As sanções devem ser eficazes, proporcionadas e dissuasivas."
+  },
+  "e8ad2116b49aa84a": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 1 de Janeiro de 1999. Desse facto informarão imediatamente a Comissão. O disposto no artigo 5º será aplicável o mais tardar em 1 de Janeiro de 2000.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Cada Estado-membro notificará imediatamente a Comissão das disposições de direito interno que adoptar nas matérias reguladas pela presente directiva. A Comissão informará os restantes Estados-membros."
+  },
+  "451a68a34f4336bf": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação."
+  },
+  "1851940486af395d": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 18 de Junho de 1998.\n\nPelo Conselho\n\nO Presidente\n\nG. STRANG\n\n(1) JO C 31 de 31. 1. 1997, p. 5 e JO C 275 de 11. 9. 1997, p. 7.\n\n(2) JO C 206 de 7. 7. 1997, p. 111.\n\n(3) Parecer do Parlamento Europeu de 29 de Maio de 1997 (JO C 138 de 16. 6. 1998, p. 31), posição comum do Conselho de 11 de Dezembro de 1997 (JO C 23 de 23. 1. 1998, p. 17), e decisão do Parlamento Europeu de 11 de Março de 1998 (JO C 104 de 6. 4. 1998).\n\n(4) JO L 281 de 23. 11. 1995, p. 31.\n\n(5) JO L 247 de 5. 10. 1993, p. 19."
+  },
+  "6850b0e9bf483d26": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Junho de 1998\n\nrelativa ao registo das pessoas que viajam em navios de passageiros que operam a partir de ou para portos dos Estados-membros da Comunidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o n.º 2 do seu artigo 84.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.ºC do Tratado ([^3^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#E0003)),\n\n(1) Considerando que serão tomadas novas medidas no âmbito da política comum de transportes, para reforçar a segurança do transporte marítimo;\n\n(2) Considerando que a Comunidade está extremamente preocupada com os acidentes que envolveram navios de passageiros e causaram enormes perdas de vidas humanas, em particular os acidentes do «Herald of Free Enterprise» e do «Estonia»; que as pessoas que utilizam navios de passageiros e embarcações de passageiros de alta velocidade na Comunidade têm o direito de esperar e contar com um nível de segurança adequado e um sistema de informação apropriado que facilite as operações de busca e salvamento e a actuação eficaz em subsequentes operações a desenvolver na sequência de um acidente;\n\n(3) Considerando que é necessário assegurar que o número de passageiros embarcados num navio de passageiros não exceda o número para o qual o navio e o seu equipamento de segurança foram certificados; que as companhias deverão poder informar os serviços de busca e salvamento do número de pessoas envolvidas num possível acidente;\n\n(4) Considerando que é necessária informação sobre os passageiros e a tripulação para facilitar a busca, o salvamento e uma actuação eficaz nas subsequentes operações a desenvolver na sequência de um acidente, por exemplo, identificação de pessoas envolvidas, maior clareza em questões jurídicas pertinentes e contribuição para cuidados médicos mais adequados das pessoas salvas; que essa informação tranquilizaria ansiedades desnecessárias de parentes e outras pessoas relacionadas com pessoas a bordo de navios de passageiros envolvidos em acidentes marítimos em águas que, nos termos da Convenção Internacional sobre Busca e Salvamento Marítimo de 1979 (SAR), são da responsabilidade dos Estados-membros;\n\n(5) Considerando que os passageiros deverão ser por conseguinte contados e registados antes da partida do navio;\n\n(6) Considerando que o Regulamento III/27 da Convenção SOLAS prevê a contagem e registo de todas as pessoas a bordo de todos os navios de passageiros que operam em viagens internacionais, a partir respectivamente de 1 de Julho de 1997 e de 1 de Janeiro de 1999, permitindo embora às administrações isentar dessas exigências os navios de passageiros que operem em águas abrigadas, assim como da obrigatoriedade de registo se os horários das viagens desses navios tornarem impossível esse registo; que o Regulamento SOLAS não se aplica às viagens domésticas e deixa pontos importantes de interpretação ao critério dos Estados-membros;\n\n(7) Considerando que a presente directiva se conjuga com o direito dos Estados-membros de imporem determinadas normas mais estritas do que as previstas na Convenção SOLAS aos navios de passageiros que operem de ou para os seus portos;\n\n(8) Considerando que, dada nomeadamente a dimensão de mercado interno do transporte marítimo de passageiros, a acção a nível da Comunidade é a maneira mais eficaz de estabelecer, em toda a Comunidade, um nível de segurança mínimo comum para os navios;\n\n(9) Considerando que, tendo em vista o princípio da proporcionalidade, uma directiva do Conselho constitui o instrumento jurídico adequado, na medida em que fornece um quadro para uma aplicação uniforme e vinculativa das normas de segurança pelos Estados-membros, deixando ao mesmo tempo a cada Estado-membro o direito de decidir dos meios de execução que melhor se coadunem com o seu sistema interno;\n\n(10) Considerando que os Estados-membros podem assegurar que os navios de passageiros que arvorem o seu pavilhão e as companhias que os exploram observam regras de segurança aplicáveis; que essas regras não deverão ser impostas aos navios que operam entre portos de países terceiros; que as disposições da Convenção SOLAS se aplicam a essas travessias;\n\n(11) Considerando que a única maneira de garantir a segurança de todos os navios de passgeiros, independentemente do seu pavilhão, que operem ou pretendam operar a partir dos seus portos, assim como uma actuação eficaz em operações a desenvolver na sequência de acidentes que possam ocorrer, é os Estado-membros exigirem o cumprimento efectivo das regras aplicáveis como condição para os navios operarem a partir dos seus portos; que a concessão de isenções a essas regras não pode ser deixada exclusivamente ao Estado de pavilhão já que apenas o Estado do porto está em condições de determinar os requisitos necessários para que as operações de busca e salvamento se processem da melhor maneira em relação aos navios de passageiros que operem de e para um porto;\n\n(12) Considerando que, a fim de harmonizar a protecção da segurança e evitar distorções de concorrência, os Estados-membros não deverão, por motivos que não os mencionados na presente directiva prever isenções ou derrogações das disposições aplicáveis da Convenção SOLAS em matéria de informação sobre os passageiros para viagens com partida ou destino em portos comunitários;\n\n(13) Considerando que, por questões de exequibilidade e para evitar distorções da concorrência, é necessário estabelecer um regime uniforme no que se refere à determinação de viagens em que o registo de pessoas a bordo deve ser obrigatório; que o limite das 20 milhas resulta da ponderação de princípios gerais e preocupações específicas subscritos por todos os Estados-membros;\n\n(14) Considerando que, por razões de operacionalidade específicas, a contagem de pessoas a bordo de navios de passageiros que atravessem o Estreito de Messina pode, durante um período de tempo limitado, ser efectuada de uma forma mais simples que a contagem individual; que os Estados-membros deverão poder desfrutar de uma certa flexibilidade quanto à obrigatoriedade de comunicar para terra o número de pessoas a bordo de navios de passageiros que operem serviços regulares de curta duração em águas marítimas protegidas, tal como definido na presente directiva; que os navios de passageiros que operam exclusivamente em águas marítimas abrigadas representam um risco menor e deverão, portanto, beneficiar de uma possibilidade de isenção; que, em certas circunstâncias específicas, pode ser altamente impraticável para as companhias de navegação registar pessoas a bordo e por conseguinte deverá permitir-se uma derrogação da obrigatoriedade de registo em circunstâncias específicas e condições bem definidas;\n\n(15) Considerando que é necessário recolher e tratar dados pessoais para a identificação dos passageiros em caso de acidente; que a recolha e tratamento desses dados devem processar-se de acordo com os princípios relativos à protecção de dados estabelecidos na Directiva 95/46/CE ([^4^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#E0004)); que, nomeadamente, as pessoas devem ser devidamente informadas, quando da recolha dos dados, dos fins a que os mesmos se destinam e que os dados devem ser conservados apenas por um período muito curto, que nunca deve ser mais longo do que o necessário para efeitos da presente directiva;\n\n(16) Considerando que é necessário que um comité composto por representantes dos Estados-membros assista a Comissão na aplicação efectiva da presente directiva; que o Comité instituído pelo artigo 12.º da Directiva 93/75/CEE ([^5^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#E0005)) pode assumir essas funções;\n\n(17) Considerando que, por intermédio do referido comité, poderão ser adaptadas certas disposições da directiva a fim de ter em conta futuras alterações da Convenção SOLAS que venham a entrar em vigor,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "70f31830ddee075c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva tem por objecto aumentar a segurança e as possibilidades de salvamento dos passageiros e tripulantes a bordo de navios de passageiros que operem de ou para portos dos Estados-membros da Comunidade, bem como garantir uma actuação mais eficaz na busca, salvamento e subsequentes operações a desenvolver na sequência de um eventual acidente."
+  },
+  "b7ba857da086bd99": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n— «pessoa», qualquer pessoa a bordo, independentemente da idade,\n\n— «navio de passageiros», um navio de mar ou uma embarcação marítima de alta velocidade que transporte mais de doze passageiros,\n\n— «embarcação de alta velocidade», uma embarcação de alta velocidade como definida na regra 1 do capítulo X da Convenção SOLAS de 1974, [**►M1**](http://publications.europa.eu/resource/celex/32002L0084) na versão actualizada**◄**,\n\n— «companhia», o proprietário de um navio de passageiros ou qualquer outra organização ou pessoa, como o armador ou o afretador em casco nu, que tenha assumido, perante o proprietário, a responsabilidade pela exploração do navio,\n\n— «assentador de passageiros», a pessoa em terra designada por uma companhia e responsável pelo cumprimento das obrigações do Código ISM ou uma pessoa em terra designada pela companhia como responsável pela conservação das informações relativas às pessoas embarcadas num navio de passageiros da companhia,\n\n— «autoridade designada», a autoridade competente do Estado-membro, responsável pelas operações de busca e salvamento ou responsável pelas restantes operações necessárias na sequência de um acidente,\n\n— «código ISM», o Código internacional de gestão para a segurança da exploração dos navios e a prevenção da poluição, adoptado pela OMI através da Resolução A.741(18) da Assembleia de 4 de Novembro de 1993,\n\n— «uma milha», 1 852 metros,\n\n— «área marítima protegida», uma área marítima abrigada dos efeitos do mar aberto, na qual um navio nunca fique a mais de 6 milhas de um local abrigado onde os náufragos possam chegar a terra e no qual seja garantida a proximidade de estruturas de busca e salvamento,\n\n— «serviço regular», uma série de travessias marítimas organizadas para satisfazer as necessidades de tráfego entre dois ou mais portos:\n\na) Segundo um horário publicado; ou\n\nb) Com uma regularidade ou frequência tais que constituam uma série sistemática reconhecível como tal,\n\n— «país terceiro», um país que não é um Estado-membro."
+  },
+  "d0f60008364b6fd6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva é aplicável aos navios de passageiros, com excepção:\n\n— dos navios de guerra e de transporte de tropas, e\n\n— das embarcações de recreio, excepto se forem ou se destinarem a ser tripuladas e transportarem mais de doze passageiros com fins comerciais."
+  },
+  "89c53526cd3560a6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Deve proceder-se à contagem de todas as pessoas que embarquem em navios de passageiros que partam de um porto situado num Estado-membro, antes da partida do navio.\n\n2. O número de pessoas deve ser comunicado, antes da partida do navio de passageiros, ao comandante e ao assentador de passageiros da companhia ou a um sistema da companhia instalado em terra para o mesmo efeito."
+  },
+  "fdc6e984fc3edd64": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Para todos os navios de passageiros que partam de um porto situado num Estado-membro para viagens numa distância superior a 20 milhas do ponto de partida devem ser registadas as seguintes informações:\n\n— os apelidos das pessoas a bordo,\n\n— os nomes próprios ou as suas iniciais,\n\n— o sexo,\n\n— a indicação da categoria etária da pessoa (adulto, criança, bebé) ou a idade ou ano de nascimento,\n\n— elementos sobre a necessidade de cuidados ou assistência especiais em situações de emergência, quando comunicados voluntariamente pelos passageiros.\n\n2. Estas informações devem ser recolhidas antes da partida e ser comunicadas ao assentador de passageiros da companhia ou a um sistema da companhia instalado em terra para o mesmo efeito, o mais tardar 30 minutos após a partida do navio."
+  },
+  "88a032d00ab6dee5": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros exigirão, para os navios de passageiros que arvorem o seu pavilhão e partam de portos fora da Comunidade com destino a portos comunitários, que as respectivas companhias assegurem a disponibilização da informação prevista no n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º, tal como especificado no n.º 2 do artigo 4.º e do n.º 2 do artigo 5.º\n\n2. Os Estados-membros exigirão, para os navios de passageiros que arvorem pavilhão de países terceiros e partam de portos fora da Comunidade com destino a portos comunitários, que as respectivas companhias assegurem que as informações contidas no n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º da presente directiva sejam recolhidas e conservadas, de modo a estarem disponíveis para a autoridade designada, se tal for necessário para efeitos de busca e salvamento e outras operações na sequência de um acidente.\n\n3. Quando, ao abrigo das disposições aplicáveis da Convenção SOLAS, concederem isenções ou derrogações relativas à informação sobre os passageiros aos navios que arvorem os seus pavilhões e que cheguem a portos da Comunidade procedentes de portos exteriores à Comunidade, os Estados-membros devem respeitar as condições de isenção ou de derrogação previstas na presente directiva."
+  },
+  "f9dde69408a1dd72": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO comandante de um navio de passageiros que parte de um porto situado num Estado-membro deve certificar-se antes da partida de que o número de pessoas a bordo não exceda aquele que o navio está autorizado a transportar."
+  },
+  "9be249f0ef51bef1": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nTodas as companhias que tenham assumido a responsabilidade pela exploração de um navio de passageiros devem, sempre que os artigos 4.º e 5.º o exijam:\n\n— criar um sistema de registo de informações sobre passageiros. Esse sistema deve obedecer aos critérios previstos no artigo 11.º,\n\n— designar um assentador de passageiros responsável pela conservação dessas informações e pela sua comunicação, em caso de emergência ou na sequência de um acidente.\n\nA companhia deve garantir que as informações exigidas pela presente directiva estejam facilmente disponíveis, a qualquer momento, podendo ser facultadas à autoridade designada para efeitos de busca e salvamento na eventualidade de uma emergência ou na sequência de um acidente.\n\nOs dados pessoais recolhidos ao abrigo do artigo 5.º não devem ser conservados mais do que o tempo necessário para efeitos da presente directiva.\n\nA companhia deve garantir que as informações específicas relativas às pessoas que declararam necessitar de cuidados ou assistência especiais em situações de emergência são devidamente registadas e comunicadas ao comandante do navio de passageiros antes da partida deste."
+  },
+  "fb86b8fb7800de29": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-membros de cujos portos partam navios de passageiros podem baixar o limite de 20 milhas referido no artigo 5.º\n\nAs decisões relativas à redução desse limite para viagens entre dois portos de diferentes Estados-membros devem ser tomadas conjuntamente por esses dois países.\n\na) Ao aplicar o n.º 1 do artigo 4.º, relativamente a serviços regulares que atravessem o Estreito de Messina, a República Italiana poderá adoptar disposições para a contagem do número máximo de pessoas que podem ser transportadas a bordo de um navio de passageiros que transporte carruagens de comboios de passageiros e veículos rodoviários, baseando-se no número máximo de passageiros que é permitido transportar em carruagens de comboios e em todos os outros veículos a bordo, se não for possível proceder a uma contagem individual por razões operacionais. Esta disposição será aplicada durante um período de quatro anos. Qualquer futura prorrogação será decidida nos termos do n.º 3, em função da experiência adquirida;\n\nb) Os Estados-membros de cujos portos partam navios podem isentar da obrigação, estabelecida no n.º 2 do artigo 4.º, de comunicar ao assentador de passageiros ou a um sistema da companhia instalado em terra e que sirva para o mesmo efeito, o número de pessoas a bordo, os navios de passageiros a operar exclusivamente numa área marítima protegida que ofereçam serviços regulares de duração inferior a uma hora entre escalas;\n\nc) Cada Estado-membro pode isentar das obrigações referidas no artigo 5.º os navios de passageiros que, nas viagens entre dois portos ou de ida e volta de e para o mesmo porto, sem escalas, naveguem exclusivamente em áreas marítimas protegidas.\n\n3. Nas circunstâncias mencionadas no n.º 2, aplica-se o seguinte procedimento:\n\na) O Estado-membro informa sem demora a Comissão da sua decisão de isenção ou derrogação do disposto nos artigos 4.º e 5.º, indicando os motivos que a justificam;\n\nb) Se, seis meses após a notificação, considerar que essa decisão não se justifica ou pode ter efeitos adversos na concorrência, a Comissão pode, nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32008R1137) n.º 2 do artigo 13.º **◄**, requerer ao Estado-membro que a altere ou retire.\n\n4. Para efeitos de serviços regulares efectuados em áreas onde a probabilidade anual de a altura de vaga significativa exceder dois metros for inferior a 10 %, e\n\n— desde que as viagens não excedam cerca de 30 milhas do ponto de partida, ou\n\n— quando o objectivo essencial do serviço for fornecer ligações regulares a utentes habituais provenientes de comunidades isoladas,\n\num Estado-membro de cujo porto larguem navios de passageiros para viagens internas, ou dois Estados-membros entre cujos portos naveguem navios de passageiros, poderão requerer à comissão que essa exigência seja parcial ou totalmente derrogada, se considerarem impraticável que as companhias registem as informações referidas no n.º 1 do artigo 6.º\n\nPara o efeito, deverão ser fornecidas provas da impraticabilidade invocada. Deve ser demonstrado que na área em que os navios visados operam lhes são prestadas em terra orientações à navegação e previsões meteorológicas de confiança, e que se encontram aí disponíveis suficientes estruturas de busca e salvamento. As derrogações concedidas ao abrigo no presente número em nada devem prejudicar a concorrência.\n\nTodas as decisões devem ser tomadas nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32008R1137) n.º 2 do artigo 13.º **◄**\n\n5. Os Estados-membros não devem, nos termos da presente directiva, conceder isenções nem derrogações aos navios de passageiros que larguem dos seus portos e arvorem pavilhão de um Estado terceiro parte contratante na Convenção SOLAS que, de acordo com as disposições aplicáveis da Convenção SOLAS, não concorde com a aplicação dessas isenções."
+  },
+  "7d394f1970032d99": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs sistemas de registo estabelecidos nos termos do artigo 8.º devem ser aprovados pelos Estados-membros.\n\nOs Estados-membros procederão a verificações, pelo menos aleatórias, do funcionamento dos sistemas de registo estabelecidos nos seus territórios, nos termos da presente directiva.\n\nOs Estados-membros designarão a autoridade à qual as companhias referidas no artigo 8.º devem comunicar a informação exigida pela presente directiva."
+  },
+  "06dc77a36ae1bcb3": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Para efeitos da presente directiva, os sistemas de registo devem obedecer aos seguintes critérios funcionais:\n\ni) *Inteligibilidade*:\n\nii) *Disponibilidade*:\n\niii) *Facilidade*:\n\niv) *Segurança*:\n\n2. Deve ser evitada uma multiplicidade de sistemas para as mesmas rotas ou rotas similares."
+  },
+  "74a156269fee878e": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSem prejuízo dos sistemas de alteração da Convenção SOLAS, a presente directiva pode ser alterada, tendo em vista assegurar a aplicação, para os fins da presente directiva e sem alargar o seu âmbito de aplicação, das alterações da Convenção SOLAS relativas aos sistemas de registo que tenham entrado em vigor após a aprovação da presente directiva. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 13.º.\n\nAs alterações dos instrumentos internacionais mencionados no artigo 2.º podem ser excluídas do âmbito de aplicação da presente directiva, nos termos do disposto no artigo 5.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002, que estabelece um Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) ([^6^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#E0006))."
+  },
+  "e1199a1034fa3c55": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#E0007)) tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "7b5423de898156bc": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros estabelecerão o sistema de sanções a aplicar em caso de infracção às disposições nacionais adoptadas nos termos da presente directiva e tomarão todas as medidas necessárias para assegurar a aplicação dessas sanções. As sanções devem ser eficazes, proporcionadas e dissuasivas."
+  },
+  "7b7fc29bef4cac4c": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 1 de Janeiro de 1999. Desse facto informarão imediatamente a Comissão. O disposto no artigo 5.º será aplicável o mais tardar em 1 de Janeiro de 2000.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Cada Estado-membro notificará imediatamente a Comissão das disposições de direito interno que adoptar nas matérias reguladas pela presente directiva. A Comissão informará os restantes Estados-membros."
+  },
+  "305ef9b677c372ac": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação."
+  },
+  "93902f051da1284a": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "0e3202d6384c2b91": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#src.E0001)) JO C 31 de 31.1.1997, p. 5 e JO C 275 de 11.9.1997, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#src.E0002)) JO C 206 de 7.7.1997, p. 111.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 29 de Maio de 1997 (JO C 138 de 16.6.1998, p. 31), posição comum do Conselho de 11 de Dezembro de 1997 (JO C 23 de 23.1.1998, p. 17), e decisão do Parlamento Europeu de 11 de Março de 1998 (JO C 104 de 6.4.1998).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#src.E0004)) JO L 281 de 23.11.1995, p. 31.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#src.E0005)) JO L 247 de 5.10.1993, p. 19.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#src.E0006)) JO L 324 de 29.11.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c36273ce-e89f-44b7-b806-cbdf6dca3011.0019.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "9c523d302cddb05d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Junho de 1998\n\nrelativa ao registo das pessoas que viajam em navios de passageiros que operam a partir de ou para portos dos Estados-membros da Comunidade"
+  },
+  "0477511e976d08d8": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n— «pessoa», qualquer pessoa a bordo, independentemente da idade,\n\n— «navio de passageiros», um navio ou uma embarcação de alta velocidade que transporta mais de 12 passageiros,\n\n— «embarcação de alta velocidade», uma embarcação de alta velocidade como definida na regra 1 do capítulo X da Convenção SOLAS de 1974, [**►M1**](http://publications.europa.eu/resource/celex/32002L0084) na versão actualizada**◄**,\n\n— «companhia», o proprietário de um navio de passageiros ou qualquer outra organização ou pessoa, como o armador ou o afretador em casco nu, que tenha assumido, perante o proprietário, a responsabilidade pela exploração do navio,\n\n— «assentador de passageiros», a pessoa em terra designada por uma companhia e responsável pelo cumprimento das obrigações do Código ISM ou uma pessoa em terra designada pela companhia como responsável pela conservação das informações relativas às pessoas embarcadas num navio de passageiros da companhia,\n\n— «assentador de passageiros», uma pessoa, designada por uma companhia, responsável pelo cumprimento das obrigações do Código ISM, se for caso disso, ou uma pessoa designada por uma companhia como responsável pela transmissão das informações relativas às pessoas embarcadas num navio de passageiros da companhia,\n\n— «autoridade designada», a autoridade competente do Estado-Membro responsável pelas operações de busca e salvamento ou responsável pelas restantes operações necessárias na sequência de um acidente, que tem acesso às informações exigidas nos termos da presente diretiva,\n\n— «uma milha», 1 852 metros,\n\n— «serviço regular», uma série de travessias marítimas organizadas para satisfazer as necessidades de tráfego entre dois ou mais portos, ou uma série de viagens de ou para o mesmo porto sem escalas intermédias:\n\na) Segundo um horário publicado; ou\n\nb) Com uma regularidade ou frequência tais que constituam uma série sistemática reconhecível como tal,\n\n— «país terceiro», um país que não é um Estado-membro,\n\n— «zona portuária», uma zona definida no artigo 2.º, alínea r), da Diretiva 2009/45/CE,\n\n— «iate de recreio ou embarcação de recreio», um navio não envolvido em atividades de comércio, independentemente do seu meio de propulsão."
+  },
+  "b314970e8506ec3f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A presente diretiva é aplicável aos navios de passageiros, com exceção:\n\n— dos navios de guerra e de transporte de tropas,\n\n— dos iates de recreio e das embarcações de recreio,\n\n— dos navios utilizados exclusivamente em zonas portuárias ou em vias navegáveis interiores.\n\n2. Os Estados-Membros que não têm portos marítimos nem navios de passageiros que arvorem a sua bandeira que se insiram no âmbito de aplicação da presente diretiva podem derrogar das disposições da presente diretiva, com exceção da obrigação estabelecida no segundo parágrafo.\n\nOs Estados-Membros que pretendam recorrer a essa derrogação comunicam à Comissão, até 21 de dezembro de 2019, se estão preenchidas as condições e, em seguida, informam-na anualmente de qualquer alteração subsequente. Esses Estados-Membros não podem autorizar navios de passageiros que se insiram no âmbito de aplicação da presente diretiva a arvorar a sua bandeira antes de terem transposto e aplicado a presente diretiva."
+  },
+  "59c4fd58854670d1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Deve proceder-se à contagem de todas as pessoas que embarquem em navios de passageiros que partam de um porto situado num Estado-membro, antes da partida do navio.\n\n2. Antes da partida do navio de passageiros, o número de pessoas a bordo deve ser comunicado ao comandante do navio e declarado por meios técnicos apropriados na plataforma única criada nos termos do artigo 5.º da Diretiva 2010/65/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1#E0001)), ou, se o Estado-Membro assim o entender, à autoridade designada através do sistema de identificação automática.\n\nDurante um período transitório de seis anos a partir de 20 de dezembro de 2017, os Estados-Membros podem continuar a permitir que as informações sejam comunicadas ao assentador de passageiros da companhia ou ao sistema da companhia instalado em terra para o mesmo efeito, em vez de exigirem que sejam declaradas na plataforma única ou à autoridade designada através do sistema de identificação automática."
+  },
+  "d0ec2056561e148e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Caso um navio de passageiros que parta de um porto situado num Estado-Membro para fazer uma viagem cuja distância navegada desde o ponto de partida até ao porto de escala seguinte seja superior a 20 milhas, devem ser registadas as seguintes informações:\n\n— os apelidos das pessoas a bordo, os seus nomes próprios, o seu género, a sua nacionalidade, e as suas datas de nascimento,\n\n— elementos sobre cuidados ou assistência especiais eventualmente necessários em situações de emergência, quando comunicados voluntariamente pelos passageiros,\n\n— se o Estado-Membro assim o entender, um número de telefone de contacto em caso de emergência, quando comunicado voluntariamente pelos passageiros.\n\n2. As informações a que se refere o n.º 1 devem ser recolhidas antes da partida do navio de passageiros, e declaradas na plataforma única criada nos termos do artigo 5.º da Diretiva 2010/65/UE após a partida do navio, no máximo 15 minutos após a partida.\n\n3. Durante um período transitório de seis anos a partir de 20 de dezembro de 2017, os Estados-Membros podem continuar a permitir que as informações sejam comunicadas ao assentador de passageiros da companhia ou ao sistema da companhia instalado em terra para o mesmo efeito, em vez de exigirem que sejam declaradas na plataforma única.\n\n4. Sem prejuízo de outras obrigações legais necessárias para o cumprimento da legislação da União e da legislação nacional sobre a proteção de dados, os dados pessoais recolhidos para efeitos da presente diretiva não podem ser tratados nem utilizados para outros fins. Estes dados pessoais devem ser sempre tratados em conformidade com a legislação da União sobre a proteção de dados e a privacidade, e devem ser suprimidos automaticamente e sem demora injustificada assim que já não forem necessários."
+  },
+  "b798d15f7fcb2826": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros exigirão, para os navios de passageiros que arvorem o seu pavilhão e partam de portos fora da Comunidade com destino a portos comunitários, que as respectivas companhias assegurem a disponibilização da informação prevista no n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º, tal como especificado no n.º 2 do artigo 4.º e do n.º 2 do artigo 5.º\n\n2. Os Estados-Membros devem exigir, em relação aos navios de passageiros que arvorem bandeira de países terceiros e que partam de portos fora da União com destino a portos situados nesses Estados-Membros, que as respetivas companhias assegurem que as informações especificadas no artigo 4.º, n.º 1, e no artigo 5.º, n.º 1, sejam disponibilizadas nos termos do artigo 4.º, n.º 2, e do artigo 5.º, n.º 2.\n\n3. Quando, ao abrigo das disposições aplicáveis da Convenção SOLAS, concederem isenções ou derrogações relativas à informação sobre os passageiros aos navios que arvorem os seus pavilhões e que cheguem a portos da Comunidade procedentes de portos exteriores à Comunidade, os Estados-membros devem respeitar as condições de isenção ou de derrogação previstas na presente directiva."
+  },
+  "972550cbcd79b452": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As companhias responsáveis pela exploração de um navio de passageiros devem designar, sempre que os artigos 4.º e 5.º da presente diretiva o exijam, um assentador de passageiros responsável pela declaração das informações referidas nessas disposições na plataforma única criada nos termos do artigo 5.º da Diretiva 2010/65/UE ou à autoridade designada através do sistema de identificação automática.\n\n2. Os dados pessoais recolhidos nos termos do artigo 5.º da presente diretiva não podem ser conservados pela companhia durante mais tempo do que o necessário para efeitos da presente diretiva, e, em qualquer caso, apenas até ao momento em que a viagem do navio em causa tenha sido completada de forma segura e os dados tenham sido declarados na plataforma única criada nos termos do artigo 5.º da Diretiva 2010/65/UE. Sem prejuízo de outras obrigações legais específicas requeridas pelo direito da União ou pelo direito nacional, inclusive para fins estatísticos, assim que as informações já não forem necessárias para este efeito, devem ser suprimidas automaticamente e sem demora injustificada.\n\n3. As companhias devem garantir que as informações específicas relativas aos passageiros que tenham declarado necessitar de cuidados ou de assistência especiais em situações de emergência sejam devidamente registadas e comunicadas ao comandante do navio de passageiros antes da partida deste."
+  },
+  "647e849e4f376ca4": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-membros de cujos portos partam navios de passageiros podem baixar o limite de 20 milhas referido no artigo 5.º\n\nAs decisões relativas à redução desse limite para viagens entre dois portos de diferentes Estados-membros devem ser tomadas conjuntamente por esses dois países.\n\n2. Os Estados-Membros de cujos portos partam navios de passageiros podem isentá-los da obrigação de declarar o número de pessoas a bordo na plataforma única criada nos termos do artigo 5.º da Diretiva 2010/65/UE, desde que o navio em causa não seja uma embarcação de alta velocidade, efetue serviços regulares entre portos de escala com duração inferior a uma hora exclusivamente na zona marítima da classe D, tal como definida nos termos do artigo 4.º da Diretiva 2009/45/CE, e que a proximidade de estruturas de busca e salvamento esteja garantida nessa zona marítima.\n\nOs Estados-Membros podem isentar os navios de passageiros que naveguem entre dois portos ou de ida e volta de e para o mesmo porto, sem escalas, das obrigações estabelecidas no artigo 5.º da presente diretiva, desde que o navio em causa navegue exclusivamente na zona marítima da classe D, tal como definida nos termos do artigo 4.º da Diretiva 2009/45/CE, e que a proximidade de estruturas de busca e salvamento esteja garantida nessa zona marítima.\n\nEm derrogação do artigo 5.º, n.º 2, e sem prejuízo do período transitório previsto no artigo 5.º, n.º 3, os seguintes Estados-Membros têm o direito de aplicar as seguintes isenções:\n\ni) a Alemanha pode prorrogar os prazos para a recolha e a declaração das informações a que se refere o artigo 5.º, n.º 1, até uma hora após a partida no caso de navios de passageiros que naveguem de e para a ilha de Heligoland, e\n\nii) a Dinamarca e a Suécia podem prorrogar os prazos para a recolha e a declaração das informações a que se refere o artigo 5.º, n.º 1, até uma hora após a partida no caso de navios de passageiros que naveguem de e para a ilha de Bornholm.\n\n3. Nas circunstâncias mencionadas no n.º 2, aplica-se o seguinte procedimento:\n\na) O Estado-Membro notifica sem demora a Comissão da sua decisão de conceder uma isenção das obrigações previstas no artigo 5.º, indicando os motivos para o fazer. Esta notificação é efetuada por meio de uma base de dados criada e mantida pela Comissão para esse efeito, à qual a Comissão e os Estados-Membros têm acesso. A Comissão disponibiliza as medidas adotadas num sítio web acessível ao público;\n\nb) Se, seis meses após a notificação, a Comissão considerar que a isenção não se justifica ou pode ter efeitos adversos na concorrência, pode adotar atos de execução que exijam que o Estado-Membro altere ou retire a sua decisão. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 13.º, n.º 2.\n\n4. Para efeitos de serviços regulares efectuados em áreas onde a probabilidade anual de a altura de vaga significativa exceder dois metros for inferior a 10 %, e\n\n— desde que as viagens não excedam cerca de 30 milhas do ponto de partida, ou\n\n— quando o objectivo essencial do serviço for fornecer ligações regulares a utentes habituais provenientes de comunidades isoladas,\n\num Estado-membro de cujo porto larguem navios de passageiros para viagens internas, ou dois Estados-membros entre cujos portos naveguem navios de passageiros, poderão requerer à comissão que essa exigência seja parcial ou totalmente derrogada, se considerarem impraticável que as companhias registem as informações referidas no n.º 1 do artigo 6.º\n\nPara o efeito, deverão ser fornecidas provas da impraticabilidade invocada. Deve ser demonstrado que na área em que os navios visados operam lhes são prestadas em terra orientações à navegação e previsões meteorológicas de confiança, e que se encontram aí disponíveis suficientes estruturas de busca e salvamento. As derrogações concedidas ao abrigo no presente número em nada devem prejudicar a concorrência.\n\nO pedido é apresentado à Comissão através da base de dados referida no n.º 3. Se, seis meses após a apresentação do pedido, a Comissão considerar que a derrogação não se justifica ou pode ter efeitos adversos na concorrência, pode adotar atos de execução que exijam que o Estado-Membro altere ou não adote a decisão proposta. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 13.º, n.º 2.\n\n5. Os Estados-membros não devem, nos termos da presente directiva, conceder isenções nem derrogações aos navios de passageiros que larguem dos seus portos e arvorem pavilhão de um Estado terceiro parte contratante na Convenção SOLAS que, de acordo com as disposições aplicáveis da Convenção SOLAS, não concorde com a aplicação dessas isenções."
+  },
+  "6f64371420c8df71": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros asseguram que as companhias disponham de um procedimento de registo dos dados que garanta que as informações exigidas pela presente diretiva sejam declaradas de forma exata e atempada.\n\n2. Os Estados-Membros designam a autoridade que terá acesso às informações exigidas nos termos da presente diretiva. Os Estados-Membros asseguram que, na eventualidade de uma emergência ou na sequência de um acidente, essa autoridade designada tenha acesso imediato às informações exigidas nos termos da presente diretiva.\n\n3. Os dados pessoais recolhidos nos termos do artigo 5.º não podem ser conservados pelos Estados-Membros durante mais tempo do que o necessário para efeitos da presente diretiva, e, em qualquer caso, apenas:\n\na) Até que a viagem do navio em causa tenha sido completada de forma segura, mas nunca durante mais de 60 dias após a partida do navio; ou\n\nb) Na eventualidade de uma emergência ou na sequência de um acidente, até à conclusão de inquéritos ou processos judiciais em curso.\n\n4. Sem prejuízo de outras obrigações legais específicas requeridas pelo direito da União ou pelo direito nacional, inclusive para fins estatísticos, assim que as informações já não forem necessárias para efeitos da presente diretiva, devem ser suprimidas automaticamente e sem demora injustificada."
+  },
+  "13af0485ab43c828": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Para efeitos da presente diretiva, os dados necessários são recolhidos e registados de modo a não causar atrasos indevidos aos passageiros que embarquem ou desembarquem do navio.\n\n2. Deve ser evitada uma multiplicidade de recolha de dados para as mesmas rotas ou para rotas similares."
+  },
+  "af351b038426743e": {
+   "fragment_id": "Artigo 11.º-A",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A\n\n1. O tratamento de dados pessoais nos termos da presente diretiva é efetuado nos termos do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1#E0002)).\n\n2. O tratamento de dados pessoais pelas instituições e organismos da União nos termos da presente diretiva, como, por exemplo, na plataforma única e no SafeSeaNet, é efetuado em conformidade com o Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1#E0003))."
+  },
+  "9432d4a2020096ab": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Em circunstâncias excecionais, devidamente justificadas por uma análise adequada da Comissão, e a fim de evitar uma ameaça grave e inaceitável para a segurança marítima, ou incompatibilidades com a legislação marítima da União, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 12.º-A, que alterem a presente diretiva para que não se aplique, para efeitos da presente diretiva, uma alteração dos instrumentos internacionais a que se refere o artigo 2.º.\n\n2. Esses atos delegados são adotados pelo menos três meses antes do termo do período estabelecido internacionalmente para a aceitação tácita da alteração em causa, ou da data prevista para a entrada em vigor da referida alteração. No período anterior à entrada em vigor de um tal ato delegado, os Estados-Membros abstêm-se de qualquer iniciativa destinada a integrar a alteração na legislação nacional ou a aplicá-la ao instrumento internacional em causa."
+  },
+  "85a6605c21015386": {
+   "fragment_id": "Artigo 12.º-A",
+   "type": "artigo",
+   "heading": "Artigo 12.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A\n\n1. O poder de adotar atos delegados a que se refere o artigo 12.º é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 12.º é conferido à Comissão por um prazo de sete anos a contar de 20 de dezembro de 2017. A Comissão elabora um relatório sobre a delegação de poderes o mais tardar nove meses antes do final do prazo de sete anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem o mais tardar três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 12.º pode ser revogada a qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão deve consultar os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional de 13 de abril de 2016 sobre Legislar Melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 12.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "f474d0cf785f5c1e": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1#E0004))."
+  },
+  "173f6f5430e2cb61": {
+   "fragment_id": "Artigo 14.º-A",
+   "type": "artigo",
+   "heading": "Artigo 14.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-A\n\nA Comissão procede à avaliação da aplicação da presente diretiva e apresenta os resultados dessa avaliação ao Parlamento Europeu e ao Conselho 22 de dezembro de 2026.\n\nAté 22 de dezembro de 2022, a Comissão apresenta um relatório intercalar ao Parlamento Europeu e ao Conselho sobre a aplicação da presente diretiva."
+  },
+  "ebda00108492c32d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1#src.E0001)) Diretiva 2010/65/UE do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativa às formalidades de declaração exigidas aos navios à chegada e/ou à partida dos portos dos Estados-Membros e que revoga a Diretiva 2002/6/CE (JO L 283 de 29.10.2010, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1#src.E0002)) Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) (JO L 119 de 4.5.2016, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1#src.E0003)) Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados (JO L 8 de 12.1.2001, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/eb6aa2a7-44b8-4105-a749-451973a99719.0019.03/DOC_1#src.E0004)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  }
+ }
+}

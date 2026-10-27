@@ -1,0 +1,997 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0090:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0090-20221013",
+ "dre_path": null,
+ "source_lastmod": "2022-10-13",
+ "versions": [
+  {
+   "date": "2008-10-08",
+   "future": false,
+   "celex": "32008L0090",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "aebc2234f0edf8a5",
+    "f6c2eb219fe1b284",
+    "5ab355e9e3267ddf",
+    "8be57bd1375b08d6",
+    "45c5925c18119b19",
+    "8a6992ea3c104fd1",
+    "f7fde10207e7c7c8",
+    "0bfcfd6ba0c42f6d",
+    "b9e32d157dc3eb9f",
+    "a3b195c08c38f795",
+    "3181b2dd2933fb24",
+    "7dfc4b0a306312e2",
+    "649ffa5165b3485f",
+    "6cc3b57c1b453c93",
+    "36b0942441b3c84e",
+    "48e8e9bc22d47ee1",
+    "fd6241d7bd461bfc",
+    "787d5059e46722b3",
+    "ba538fa7b6eb44e8",
+    "321b8ba2225777f6",
+    "f26c0156793c49aa",
+    "5f6aa3c672c73444",
+    "47858455157b62ca",
+    "f794cda8a7d735ac",
+    "1340da5aa9ea9b08",
+    "3c86a15ddc0878af",
+    "d8b24293e4d70925",
+    "b8fef1d6c33e04f6",
+    "51043b648523e95c",
+    "a45c81543c9f54e8",
+    "47c26354a195d959",
+    "906b320adabe224c",
+    "966d3b11fd5a17ca",
+    "28d8aeebe019f4ff",
+    "baef340087b5ebb0",
+    "047ccc634f9cae54",
+    "8d48f4d534155524",
+    "4094e1a41cc47b91",
+    "154170fc88bee0d4",
+    "8ec0b39660dab8d9",
+    "573776364e60a1a7",
+    "457a41302068f8e6"
+   ]
+  },
+  {
+   "date": "2010-12-16",
+   "future": false,
+   "celex": "02008L0090-20101216",
+   "acts": [
+    {
+     "id": "eu:celex:32010D0777:por",
+     "title": "DECISÃO DA COMISSÃO de 15 de Dezembro de 2010",
+     "published": null,
+     "celex": "32010D0777"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 7.º — Identificação da variedade",
+    "Altera Artigo 9.º — Rotulagem",
+    "Altera Artigo 12.º",
+    "Altera Artigo 24.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Lista de géneros e espécies a que é aplicável a presente directiva",
+    "Adita ANEXO II",
+    "Adita PARTE A",
+    "Adita Directiva revogada e sucessivas alterações",
+    "Adita (a que se refere o artigo 22.º)",
+    "Adita PARTE B",
+    "Adita Lista dos prazos de transposição para o direito interno e de aplicação",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "51b637509611ba1b",
+    "f6c2eb219fe1b284",
+    "5ab355e9e3267ddf",
+    "8be57bd1375b08d6",
+    "0e6dc3673d7dab37",
+    "8a6992ea3c104fd1",
+    "f7fde10207e7c7c8",
+    "0bfcfd6ba0c42f6d",
+    "b9e32d157dc3eb9f",
+    "a3b195c08c38f795",
+    "3181b2dd2933fb24",
+    "7dfc4b0a306312e2",
+    "649ffa5165b3485f",
+    "6cc3b57c1b453c93",
+    "36b0942441b3c84e",
+    "87b3356d9716079c",
+    "fd6241d7bd461bfc",
+    "d97b98fe4554b345",
+    "ba538fa7b6eb44e8",
+    "321b8ba2225777f6",
+    "f26c0156793c49aa",
+    "5f6aa3c672c73444",
+    "47858455157b62ca",
+    "f794cda8a7d735ac",
+    "92d1550a960273fd",
+    "3c86a15ddc0878af",
+    "d8b24293e4d70925",
+    "b8fef1d6c33e04f6",
+    "51043b648523e95c",
+    "a45c81543c9f54e8",
+    "47c26354a195d959",
+    "906b320adabe224c",
+    "966d3b11fd5a17ca",
+    "28d8aeebe019f4ff",
+    "baef340087b5ebb0",
+    "047ccc634f9cae54",
+    "8d48f4d534155524",
+    "4094e1a41cc47b91",
+    "154170fc88bee0d4",
+    "8ec0b39660dab8d9",
+    "7f5cb5a573b1a793",
+    "d664376e2a8dcecd",
+    "558079fac14e9deb",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "85c8c207ff8cbcb0",
+    "0d4546903d84e340",
+    "6041be3baf7dcb43",
+    "3a50225de650af6a",
+    "b2e3e2e1895f98e3",
+    "64426a7c34455a74",
+    "5038123c92809459"
+   ]
+  },
+  {
+   "date": "2014-06-30",
+   "future": false,
+   "celex": "02008L0090-20140630",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0652:por",
+     "title": "REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014",
+     "published": null,
+     "celex": "32014R0652"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 19.º — Comité",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "ccb9cc4e6324eb3b",
+    "f6c2eb219fe1b284",
+    "5ab355e9e3267ddf",
+    "8be57bd1375b08d6",
+    "0e6dc3673d7dab37",
+    "8a6992ea3c104fd1",
+    "f7fde10207e7c7c8",
+    "0bfcfd6ba0c42f6d",
+    "b9e32d157dc3eb9f",
+    "a3b195c08c38f795",
+    "3181b2dd2933fb24",
+    "7dfc4b0a306312e2",
+    "649ffa5165b3485f",
+    "6cc3b57c1b453c93",
+    "36b0942441b3c84e",
+    "87b3356d9716079c",
+    "fd6241d7bd461bfc",
+    "d97b98fe4554b345",
+    "ba538fa7b6eb44e8",
+    "321b8ba2225777f6",
+    "f26c0156793c49aa",
+    "5f6aa3c672c73444",
+    "47858455157b62ca",
+    "f794cda8a7d735ac",
+    "92d1550a960273fd",
+    "3c86a15ddc0878af",
+    "d8b24293e4d70925",
+    "b8fef1d6c33e04f6",
+    "51043b648523e95c",
+    "a45c81543c9f54e8",
+    "47c26354a195d959",
+    "906b320adabe224c",
+    "966d3b11fd5a17ca",
+    "28d8aeebe019f4ff",
+    "baef340087b5ebb0",
+    "821774873afb71ea",
+    "8d48f4d534155524",
+    "4094e1a41cc47b91",
+    "154170fc88bee0d4",
+    "8ec0b39660dab8d9",
+    "7f5cb5a573b1a793",
+    "d664376e2a8dcecd",
+    "558079fac14e9deb",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "85c8c207ff8cbcb0",
+    "0d4546903d84e340",
+    "6041be3baf7dcb43",
+    "3a50225de650af6a",
+    "6a409250ea55f55a",
+    "64426a7c34455a74",
+    "1fe62c747a1769bc"
+   ]
+  },
+  {
+   "date": "2019-01-28",
+   "future": false,
+   "celex": "02008L0090-20190128",
+   "acts": [
+    {
+     "id": "eu:celex:32019D0120:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2019/120 DA COMISSÃO de 24 de janeiro de 2019",
+     "published": null,
+     "celex": "32019D0120"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 12.º",
+    "Altera Artigo 19.º — Comité",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "c726e4c195713fe8",
+    "f6c2eb219fe1b284",
+    "5ab355e9e3267ddf",
+    "8be57bd1375b08d6",
+    "0e6dc3673d7dab37",
+    "8a6992ea3c104fd1",
+    "f7fde10207e7c7c8",
+    "0bfcfd6ba0c42f6d",
+    "b9e32d157dc3eb9f",
+    "a3b195c08c38f795",
+    "3181b2dd2933fb24",
+    "7dfc4b0a306312e2",
+    "649ffa5165b3485f",
+    "6cc3b57c1b453c93",
+    "36b0942441b3c84e",
+    "87b3356d9716079c",
+    "fd6241d7bd461bfc",
+    "d97b98fe4554b345",
+    "ba538fa7b6eb44e8",
+    "321b8ba2225777f6",
+    "f26c0156793c49aa",
+    "5f6aa3c672c73444",
+    "47858455157b62ca",
+    "f794cda8a7d735ac",
+    "9ef4ec03660895c3",
+    "3c86a15ddc0878af",
+    "d8b24293e4d70925",
+    "b8fef1d6c33e04f6",
+    "51043b648523e95c",
+    "a45c81543c9f54e8",
+    "47c26354a195d959",
+    "906b320adabe224c",
+    "966d3b11fd5a17ca",
+    "28d8aeebe019f4ff",
+    "baef340087b5ebb0",
+    "e47ea12f81a54e28",
+    "8d48f4d534155524",
+    "4094e1a41cc47b91",
+    "154170fc88bee0d4",
+    "8ec0b39660dab8d9",
+    "7f5cb5a573b1a793",
+    "d664376e2a8dcecd",
+    "558079fac14e9deb",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "85c8c207ff8cbcb0",
+    "0d4546903d84e340",
+    "6041be3baf7dcb43",
+    "3a50225de650af6a",
+    "e2db6e08184e388b",
+    "64426a7c34455a74",
+    "f04fb3aa1e427de1"
+   ]
+  },
+  {
+   "date": "2022-10-13",
+   "future": false,
+   "celex": "02008L0090-20221013",
+   "acts": [
+    {
+     "id": "eu:celex:32022D1933:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2022/1933 DA COMISSÃO de 12 de outubro de 2022",
+     "published": null,
+     "celex": "32022D1933"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 19.º — Comité",
+    "Altera Lista de géneros e espécies a que é aplicável a presente directiva",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "c726e4c195713fe8",
+    "f6c2eb219fe1b284",
+    "5ab355e9e3267ddf",
+    "8be57bd1375b08d6",
+    "0e6dc3673d7dab37",
+    "8a6992ea3c104fd1",
+    "f7fde10207e7c7c8",
+    "f54021135ea4bfb4",
+    "b9e32d157dc3eb9f",
+    "a3b195c08c38f795",
+    "3181b2dd2933fb24",
+    "7dfc4b0a306312e2",
+    "3183169cc33d0f1e",
+    "6cc3b57c1b453c93",
+    "36b0942441b3c84e",
+    "583d81f09ed6e146",
+    "fd6241d7bd461bfc",
+    "934219ab8c04efe5",
+    "ba538fa7b6eb44e8",
+    "321b8ba2225777f6",
+    "9f06ab9b2003ac21",
+    "5f6aa3c672c73444",
+    "47858455157b62ca",
+    "f794cda8a7d735ac",
+    "c8c503f24b1db2eb",
+    "3c86a15ddc0878af",
+    "d8b24293e4d70925",
+    "b8fef1d6c33e04f6",
+    "f4013244afb93c77",
+    "a45c81543c9f54e8",
+    "47c26354a195d959",
+    "906b320adabe224c",
+    "966d3b11fd5a17ca",
+    "28d8aeebe019f4ff",
+    "baef340087b5ebb0",
+    "c41e5da0313e65af",
+    "8d48f4d534155524",
+    "4094e1a41cc47b91",
+    "154170fc88bee0d4",
+    "8ec0b39660dab8d9",
+    "7f5cb5a573b1a793",
+    "d664376e2a8dcecd",
+    "a77c2396ba57c89f",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "85c8c207ff8cbcb0",
+    "0d4546903d84e340",
+    "6041be3baf7dcb43",
+    "3a50225de650af6a",
+    "805e4da9b993e748",
+    "64426a7c34455a74",
+    "9fa360beff5c1eb3"
+   ]
+  }
+ ],
+ "fragments": {
+  "aebc2234f0edf8a5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Setembro de 2008\n\nrelativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos\n\n(Versão reformulada)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntr1-L_2008267PT.01000801-E0001),\n\nConsiderando o seguinte:\n\n(1) A Directiva 92/34/CEE do Conselho, de 28 de Abril de 1992, relativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos [([^2])](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntr2-L_2008267PT.01000801-E0002) foi por diversas vezes alterada de forma substancial [([^3])](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntr3-L_2008267PT.01000801-E0003). Efectuando-se agora novas alterações, por uma questão de clareza, deverá proceder-se a uma reformulação da referida directiva.\n\n(2) A produção de frutos ocupa um lugar importante na agricultura da Comunidade.\n\n(3) A obtenção de resultados satisfatórios na cultura de frutos depende em larga medida da qualidade e do estado fitossanitário dos materiais de propagação utilizados e das fruteiras destinados à produção de frutos.\n\n(4) A existência de condições harmonizadas a nível comunitário garante que os compradores recebem, em toda a Comunidade, materiais de propagação e fruteiras em bom estado fitossanitário e de boa qualidade.\n\n(5) Na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes com a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade [([^4])](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntr4-L_2008267PT.01000801-E0004).\n\n(6) Convém estabelecer normas comunitárias para as espécies e géneros de fruteiras que se revistam de especial importância económica na Comunidade, prevendo um procedimento comunitário que permita posteriormente aditar outros géneros e espécies à lista de géneros e espécies a que é aplicável a presente directiva. Os géneros e espécies enumerados nessa lista deverão ser os que são geralmente cultivados nos Estados-Membros e para cujos materiais de propagação e/ou fruteiras exista um mercado substancial que abranja mais do que um Estado-Membro.\n\n(7) Sem prejuízo das disposições fitossanitárias contidas na Directiva 2000/29/CE, não se deverão aplicar as citadas normas comunitárias relativas à comercialização de materiais de propagação e de fruteiras quando se provar que esses produtos se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva.\n\n(8) Por uma questão de clareza, deverão ser estabelecidas as definições necessárias. Tais definições deverão ser baseadas no progresso científico e técnico e abranger cada termo de forma clara e exaustiva, por forma a facilitar a harmonização do mercado interno, tendo em consideração todas as novas oportunidades do mercado e todos os novos processos utilizados na produção de materiais de propagação. As definições deverão ser harmonizadas com as aprovadas para efeitos de comercialização de outros materiais de propagação abrangidos pela legislação comunitária.\n\n(9) É conveniente estabelecer normas fitossanitárias e de qualidade para cada género e espécie de fruteira com base em sistemas internacionais, que podem incluir, nomeadamente, disposições em matéria de ensaios relativos a agentes patogénicos. Assim, afigura-se adequado prever um sistema de regras harmonizadas para as diferentes categorias de materiais de propagação e de fruteiras a comercializar mediante remissão para esses sistemas internacionais, sempre que estiverem disponíveis.\n\n(10) É compatível com a prática agrícola corrente exigir que os materiais de propagação e as fruteiras sejam submetidos a exame oficial ou sejam examinados sob supervisão oficial, tal como previsto para outras espécies abrangidas pela legislação comunitária.\n\n(11) Os materiais de propagação e fruteiras geneticamente modificados não deverão ser colocados no mercado, e as variedades de frutos não deverão ser oficialmente registadas, a menos que tenham sido tomadas todas as medidas adequadas para evitar quaisquer riscos para a saúde humana e o ambiente, tal como referido na Directiva 2001/18/CE do Parlamento Europeu e do Conselho, de 12 de Março de 2001, relativa à libertação deliberada no ambiente de organismos geneticamente modificados [([^5])](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntr5-L_2008267PT.01000801-E0005), e no Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo a géneros alimentícios e alimentos para animais geneticamente modificados [([^6])](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntr6-L_2008267PT.01000801-E0006).\n\n(12) Importa assegurar a preservação e a utilização sustentável da diversidade genética. Deverão ser tomadas, em sintonia com outras disposições comunitárias relevantes, medidas adequadas de conservação da biodiversidade para garantir a conservação das variedades existentes.\n\n(13) É apropriado estabelecer as condições de comercialização dos materiais destinados a ensaios, fins científicos ou trabalhos de selecção, na eventualidade de estes materiais não satisfazerem as normas habituais de qualidade e fitossanidade, em virtude da sua utilização especial.\n\n(14) Compete em primeiro lugar aos fornecedores de materiais de propagação ou de fruteiras garantir que os seus produtos preencham as condições previstas na presente directiva. É pois necessário definir o papel dos fornecedores e as condições que se lhes aplicam. Para o estabelecimento de um processo transparente e economicamente viável de certificação de materiais de propagação e de fruteiras, os fornecedores deverão estar registados oficialmente.\n\n(15) Os fornecedores que apenas comercializam os seus produtos a consumidores finais não profissionais podem ser dispensados da obrigação de registo.\n\n(16) O comprador de materiais de propagação e de fruteiras tem interesse em que seja conhecida a denominação da variedade e em que seja salvaguardada a sua identidade para permitir a rastreabilidade do sistema e aumentar a confiança no mercado.\n\n(17) Este objectivo pode ser mais bem concretizado quer por um conhecimento comum da variedade, em particular no que toca às variedades antigas, quer pela disponibilidade de uma descrição baseada nos protocolos do Instituto Comunitário das Variedades Vegetais (ICVV) ou, se estes não existirem, noutras normas nacionais ou internacionais.\n\n(18) Para garantir a identidade e a comercialização disciplinada do material de propagação e das fruteiras, deverão ser estabelecidas normas comunitárias no que diz respeito à separação dos lotes e à marcação. Os rótulos deverão fornecer as indicações necessárias para controlo oficial e para informação do utilizador.\n\n(19) Ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-Membros deverão garantir que estão satisfeitas as condições aplicáveis aos materiais de propagação ou às fruteiras e aos fornecedores. O nível, a intensidade e a frequência dessas inspecções deverão ser determinados tendo em conta a categoria dos materiais em causa.\n\n(20) Deverão ser previstas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-Membros das normas estabelecidas na presente directiva.\n\n(21) Deverão ser estabelecidas regras que, em caso de dificuldades de fornecimento temporárias causadas por catástrofes naturais, tais como incêndios e tempestades, ou circunstâncias imprevistas, permitam a comercialização de materiais de propagação e fruteiras sujeitos a exigências menos rigorosas do que as previstas na presente directiva durante um período limitado e desde que se respeitem determinadas condições.\n\n(22) Em conformidade com o princípio da proporcionalidade, deverá prever-se a possibilidade de os Estados-Membros dispensarem dos requisitos de rotulagem e dos controlos e inspecções oficiais os pequenos produtores cuja produção total e venda de material de propagação e de fruteiras tenha como destino final, no mercado local, pessoas que não façam profissão da produção de vegetais («circulação local»).\n\n(23) No que se refere aos géneros e espécies referidos no anexo I, os Estados-Membros deverão ser proibidos de impor novas condições ou restrições de comercialização, para além das previstas na presente directiva.\n\n(24) Deverá ser prevista a autorização de comercialização, na Comunidade, de materiais de propagação e fruteiras produzidos em países terceiros, desde que estes produtos ofereçam sempre as mesmas garantias que os materiais de propagação e fruteiras produzidos na Comunidade em conformidade com as normas comunitárias.\n\n(25) A fim de harmonizar as técnicas de controlo utilizadas nos Estados-Membros e de comparar os materiais de propagação e fruteiras produzidos na Comunidade com os produzidos em países terceiros, deverão ser efectuados ensaios comparativos que permitam verificar a conformidade destes produtos com as exigências da presente directiva.\n\n(26) A fim de evitar perturbações no comércio, convém permitir que os Estados-Membros deverão poder autorizar a comercialização, no seu território, durante um período transitório, de materiais certificados e materiais CAC (*Conformitas Agraria Communitatis*) colhidos de materiais de origem existentes e já certificados ou aceites como materiais CAC à data de aplicação da presente directiva, mesmo que esses materiais não satisfaçam as novas condições.\n\n(27) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^7])](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntr7-L_2008267PT.01000801-E0007).\n\n(28) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito interno e de aplicação das directivas indicados na parte B do anexo II,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "5ab355e9e3267ddf": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "8be57bd1375b08d6": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva é aplicável à comercialização, na Comunidade, de fruteiras e materiais de propagação de fruteiras destinados à produção de frutos.\n\n2. A presente directiva é aplicável aos géneros e espécies enumerados no anexo I, bem como aos seus híbridos. É igualmente aplicável aos porta-enxertos e a outras partes de plantas de géneros ou espécies não referidos no anexo I, ou aos seus híbridos, se neles tiver sido ou vier a ser enxertado material dos géneros ou espécies enumerados no anexo I, ou dos seus híbridos.\n\n3. A presente directiva é aplicável sem prejuízo das normas fitossanitárias previstas na Directiva 2000/29/CE.\n\n4. A presente directiva não se aplica aos materiais de propagação nem às fruteiras comprovadamente destinados à exportação para países terceiros, desde que estes sejam como tal identificados e mantidos suficientemente isolados.\n\nAs medidas de execução do primeiro parágrafo, nomeadamente as respeitantes à identificação e ao isolamento, são aprovadas nos termos do n.º 2 do artigo 19.º"
+  },
+  "45c5925c18119b19": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. *Material de propagação*, as sementes, partes de plantas e qualquer material proveniente de plantas, incluindo os porta-enxertos, destinados à propagação e à produção de fruteiras.\n\n2. *Fruteiras*, as plantas destinadas, após a comercialização, à plantação ou à repicagem.\n\n3. *Variedade*, um conjunto vegetal pertencente ao mesmo táxon botânico, da ordem mais baixa conhecida, que pode ser: a) Definido pela expressão de características resultante de um determinado genótipo ou de uma determinada combinação de genótipos; b) Distinguido de qualquer outro conjunto vegetal pela expressão de pelo menos uma das referidas características; e c) Considerado como uma entidade tendo em conta a capacidade de ser reproduzido sem alteração.\n\na) Definido pela expressão de características resultante de um determinado genótipo ou de uma determinada combinação de genótipos;\n\nb) Distinguido de qualquer outro conjunto vegetal pela expressão de pelo menos uma das referidas características; e\n\nc) Considerado como uma entidade tendo em conta a capacidade de ser reproduzido sem alteração.\n\n4. *Clone*, uma descendência vegetativa geneticamente uniforme de uma única planta.\n\n5. *Material pré-básico*, material de propagação: a) Produzido de acordo com métodos geralmente aceites para a conservação da identidade da variedade, incluindo as características pomológicas pertinentes, e para a prevenção de doenças; b) Destinado à produção de material básico ou de material certificado, com excepção de fruteiras; c) Que preencha os requisitos específicos para o material pré-básico estabelecidos nos termos do artigo 4.º; e d) Que uma inspecção oficial tenha considerado preencher os requisitos das alíneas a), b) e c).\n\na) Produzido de acordo com métodos geralmente aceites para a conservação da identidade da variedade, incluindo as características pomológicas pertinentes, e para a prevenção de doenças;\n\nb) Destinado à produção de material básico ou de material certificado, com excepção de fruteiras;\n\nc) Que preencha os requisitos específicos para o material pré-básico estabelecidos nos termos do artigo 4.º; e\n\nd) Que uma inspecção oficial tenha considerado preencher os requisitos das alíneas a), b) e c).\n\n6. *Material básico*, material de propagação: a) Produzido directamente a partir de material pré-básico ou que dele provenha de modo vegetativo num número limitado de etapas, de acordo com métodos geralmente aceites para a conservação da identidade da variedade incluindo as características pomológicas pertinentes, e para a prevenção de doenças; b) Destinado à produção de material certificado; c) Que preencha os requisitos específicos para o material básico estabelecidos nos termos do artigo 4.º; e d) Que uma inspecção oficial tenha considerado preencher os requisitos das alíneas a), b) e c).\n\na) Produzido directamente a partir de material pré-básico ou que dele provenha de modo vegetativo num número limitado de etapas, de acordo com métodos geralmente aceites para a conservação da identidade da variedade incluindo as características pomológicas pertinentes, e para a prevenção de doenças;\n\nb) Destinado à produção de material certificado;\n\nc) Que preencha os requisitos específicos para o material básico estabelecidos nos termos do artigo 4.º; e\n\nd) Que uma inspecção oficial tenha considerado preencher os requisitos das alíneas a), b) e c).\n\n7. *Material certificado*: a) Material de propagação: i) produzido directamente de modo vegetativo a partir de material básico ou de material pré-básico ou, caso se destine a ser utilizado para a produção de porta-enxertos, a partir de sementes certificadas provenientes de material básico ou certificado proveniente de porta-enxertos, ii) destinado à produção de fruteiras; iii) que preencha os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e iv) que uma inspecção oficial tenha considerado preencher os requisitos das subalíneas i), ii) e iii); b) Fruteiras: i) produzidas directamente a partir de material de propagação certificado, básico ou pré-básico, ii) destinadas à produção de frutos; iii) que preencham os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e iv) que uma inspecção oficial tenha considerado preencherem os requisitos das subalíneas i), ii) e iii).\n\na) Material de propagação: i) produzido directamente de modo vegetativo a partir de material básico ou de material pré-básico ou, caso se destine a ser utilizado para a produção de porta-enxertos, a partir de sementes certificadas provenientes de material básico ou certificado proveniente de porta-enxertos, ii) destinado à produção de fruteiras; iii) que preencha os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e iv) que uma inspecção oficial tenha considerado preencher os requisitos das subalíneas i), ii) e iii);\n\ni) produzido directamente de modo vegetativo a partir de material básico ou de material pré-básico ou, caso se destine a ser utilizado para a produção de porta-enxertos, a partir de sementes certificadas provenientes de material básico ou certificado proveniente de porta-enxertos,\n\nii) destinado à produção de fruteiras;\n\niii) que preencha os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e\n\niv) que uma inspecção oficial tenha considerado preencher os requisitos das subalíneas i), ii) e iii);\n\nb) Fruteiras: i) produzidas directamente a partir de material de propagação certificado, básico ou pré-básico, ii) destinadas à produção de frutos; iii) que preencham os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e iv) que uma inspecção oficial tenha considerado preencherem os requisitos das subalíneas i), ii) e iii).\n\ni) produzidas directamente a partir de material de propagação certificado, básico ou pré-básico,\n\nii) destinadas à produção de frutos;\n\niii) que preencham os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e\n\niv) que uma inspecção oficial tenha considerado preencherem os requisitos das subalíneas i), ii) e iii).\n\n8. *Material CAC (Conformitas Agraria Communitatis)*, material de propagação e fruteiras: a) Que possuam identidade varietal e pureza adequada; b) Destinados: — à produção de material de propagação, — à produção de fruteiras, e/ou — à produção de frutos; c) Que preencham os requisitos específicos para o material CAC estabelecidos nos termos do artigo 4.º\n\na) Que possuam identidade varietal e pureza adequada;\n\nb) Destinados: — à produção de material de propagação, — à produção de fruteiras, e/ou — à produção de frutos;\n\n— à produção de material de propagação,\n\n— à produção de fruteiras, e/ou\n\n— à produção de frutos;\n\nc) Que preencham os requisitos específicos para o material CAC estabelecidos nos termos do artigo 4.º\n\n9. *Fornecedor*, qualquer pessoa singular ou colectiva que desempenhe, a título profissional, pelo menos uma das actividades seguintes relacionadas com material de propagação ou fruteiras: reprodução, produção, conservação e/ou tratamento, importação e comercialização.\n\n10. *Comercialização*, a venda, posse com vista à venda, oferta para venda e qualquer acto de disposição, fornecimento ou transferência de materiais de propagação ou de fruteiras a terceiros, a título oneroso ou gratuito, para fins de exploração comercial.\n\n11. *Organismo oficial responsável*: a) Uma autoridade, criada ou designada por cada Estado-Membro, sob controlo do governo central e responsável pelas questões de qualidade do material de propagação e das fruteiras; b) Qualquer autoridade pública criada: — quer a nível nacional, — quer a nível regional, sob controlo das autoridades nacionais, dentro dos limites fixados pela legislação nacional do respectivo Estado-Membro.\n\na) Uma autoridade, criada ou designada por cada Estado-Membro, sob controlo do governo central e responsável pelas questões de qualidade do material de propagação e das fruteiras;\n\nb) Qualquer autoridade pública criada: — quer a nível nacional, — quer a nível regional, sob controlo das autoridades nacionais, dentro dos limites fixados pela legislação nacional do respectivo Estado-Membro.\n\n— quer a nível nacional,\n\n— quer a nível regional, sob controlo das autoridades nacionais, dentro dos limites fixados pela legislação nacional do respectivo Estado-Membro.\n\n12. *Inspecção oficial*, a inspecção efectuada pelo organismo oficial responsável ou sob a sua responsabilidade.\n\n13. *Lote*, o conjunto de unidades de uma única mercadoria, identificável pela sua homogeneidade de composição e origem."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "f7fde10207e7c7c8": {
+   "fragment_id": "REQUISITOS APLICÁVEIS AO MATERIAL DE PROPAGAÇÃO E ÀS FRUTEIRAS",
+   "type": "divisao",
+   "heading": "REQUISITOS APLICÁVEIS AO MATERIAL DE PROPAGAÇÃO E ÀS FRUTEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS APLICÁVEIS AO MATERIAL DE PROPAGAÇÃO E ÀS FRUTEIRAS"
+  },
+  "0bfcfd6ba0c42f6d": {
+   "fragment_id": "Artigo 3.º — Requisitos gerais aplicáveis à colocação no mercado",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos gerais aplicáveis à colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos gerais aplicáveis à colocação no mercado\n\n1. O material de propagação e as fruteiras só podem ser comercializados se:\n\na) O material de propagação tiver sido oficialmente certificado como «material pré-básico», «material básico» ou «material certificado» ou se preencher as condições para ser qualificado como material CAC;\n\nb) As fruteiras tiverem sido oficialmente certificadas como «material certificado» ou preencherem as condições para serem qualificadas como material CAC.\n\n2. Os materiais de propagação e fruteiras constituídos por um organismo geneticamente modificado, na acepção dos pontos 1 e 2 do artigo 2.º da Directiva 2001/18/CE, só são colocados no mercado se o organismo geneticamente modificado tiver sido autorizado em conformidade com a referida directiva ou com o Regulamento (CE) n.º 1829/2003.\n\n3. Quando os produtos derivados de fruteiras ou materiais de propagação se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003, o material de propagação e a fruteira em causa só são colocados no mercado se o género alimentício ou o alimento para animais derivado desses materiais tiverem sido autorizados em conformidade com o referido regulamento.\n\n4. Não obstante o n.º 1, os Estados-Membros podem autorizar os fornecedores estabelecidos nos seus territórios a colocar no mercado as quantidades adequadas de materiais de propagação e fruteiras destinados a:\n\na) Ensaios ou fins científicos;\n\nb) Trabalhos de selecção; ou\n\nc) Ajudar a preservar a diversidade genética.\n\nAs condições em que os Estados-Membros podem conceder essa autorização podem ser aprovadas nos termos do n.º 2 do artigo 19.º"
+  },
+  "b9e32d157dc3eb9f": {
+   "fragment_id": "Artigo 4.º — Requisitos específicos aplicáveis aos géneros e às espécies",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos específicos aplicáveis aos géneros e às espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos específicos aplicáveis aos géneros e às espécies\n\nNos termos do n.º 3 do artigo 19.º, são estabelecidos requisitos específicos para cada um dos géneros ou espécies referidos no anexo I, que indiquem:\n\na) Os requisitos que os materiais CAC devem satisfazer, especialmente os que dizem respeito ao sistema de propagação aplicado, à pureza da cultura, à fitossanidade e, excepto no caso dos porta-enxertos cujo material não pertença a uma variedade, ao aspecto varietal;\n\nb) Os requisitos a que o material pré-básico, básico e certificado deve obedecer, relativos à qualidade (incluindo, no caso do material pré-básico e básico, os métodos para a conservação da identidade da variedade e, se for caso disso, do clone, incluindo as características pomológicas pertinentes), às condições fitossanitárias, aos métodos e processos de análise utilizados, ao(s) sistema(s) de propagação aplicado(s) e, excepto no caso dos porta-enxertos cujo material não pertença a uma variedade, ao aspecto varietal;\n\nc) Os requisitos a que devem obedecer os porta-enxertos e outras partes de plantas de géneros ou espécies que não os enumerados no anexo I, ou os seus híbridos, se o material de propagação do género ou da espécie enumerado no anexo I, ou dos seus híbridos, neles for enxertado."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "3181b2dd2933fb24": {
+   "fragment_id": "REQUISITOS APLICÁVEIS AOS FORNECEDORES",
+   "type": "divisao",
+   "heading": "REQUISITOS APLICÁVEIS AOS FORNECEDORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS APLICÁVEIS AOS FORNECEDORES"
+  },
+  "7dfc4b0a306312e2": {
+   "fragment_id": "Artigo 5.º — Registo",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo\n\n1. Os Estados-Membros devem garantir que os fornecedores estejam oficialmente registados para as actividades que pratiquem nos termos da presente directiva.\n\n2. Os Estados-Membros podem decidir não aplicar o n.º 1 aos fornecedores que apenas comercializam os seus produtos a consumidores finais não profissionais.\n\n3. As medidas de execução dos n.^os^ 1 e 2 podem ser aprovadas nos termos do n.º 2 do artigo 19.º"
+  },
+  "649ffa5165b3485f": {
+   "fragment_id": "Artigo 6.º — Requisitos específicos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos específicos\n\n1. Os Estados-Membros devem assegurar que os materiais pré-básicos, básicos e certificados, bem como o material CAC, sejam produzidos sob a responsabilidade de fornecedores que estejam implicados na produção ou na reprodução de materiais de propagação e de fruteiras. Para tal, esses fornecedores devem:\n\n— identificar e controlar os pontos críticos do seu processo de produção que influenciam a qualidade do material,\n\n— conservar informações sobre os controlos a que se refere o primeiro travessão para exame, a pedido do organismo oficial responsável,\n\n— recolher amostras, sempre que necessário, para análise num laboratório, e\n\n— garantir que, ao longo da produção, os lotes de material de propagação se mantenham identificáveis separadamente.\n\n2. Os Estados-Membros devem assegurar que, se, nas instalações de um fornecedor, surgir um organismo prejudicial enumerado nos anexos da Directiva 2000/29/CE ou em quaisquer requisitos específicos estabelecidos nos termos do artigo 4.º da presente directiva num nível superior ao permitido nesses requisitos, o fornecedor comunique esse facto ao organismo oficial responsável sem demora, não obstante as obrigações de comunicação previstas na Directiva 2000/29/CE, e aplique todas as medidas prescritas por aquele organismo.\n\n3. Os Estados-Membros devem assegurar que, quando os materiais de propagação ou as fruteiras forem comercializados, os fornecedores conservem os registos das suas vendas ou compras durante, pelo menos, três anos.\n\nO primeiro parágrafo não se aplica aos fornecedores dispensados de registo ao abrigo do n.º 2 do artigo 5.º\n\n4. As medidas de execução do n.º 1 podem ser aprovadas nos termos do n.º 2 do artigo 19.º"
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "36b0942441b3c84e": {
+   "fragment_id": "IDENTIFICAÇÃO DA VARIEDADE E ROTULAGEM",
+   "type": "divisao",
+   "heading": "IDENTIFICAÇÃO DA VARIEDADE E ROTULAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IDENTIFICAÇÃO DA VARIEDADE E ROTULAGEM"
+  },
+  "48e8e9bc22d47ee1": {
+   "fragment_id": "Artigo 7.º — Identificação da variedade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Identificação da variedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Identificação da variedade\n\n1. Os materiais de propagação e as fruteiras devem ser comercializados com uma referência à variedade a que pertencem. No caso dos porta-enxertos, se o material não pertencer a uma variedade, deve referir-se a espécie ou o híbrido interespecífico em causa.\n\n2. As variedades a que se faça referência nos termos do n.º 1 devem ser:\n\na) Legalmente protegidas por um direito de obtenção de acordo com as disposições relativas à protecção das novas variedades;\n\nb) Oficialmente registadas nos termos do n.º 4; ou\n\nc) Do conhecimento geral. Considera-se que uma variedade é do conhecimento geral se: i) tiver sido oficialmente registada noutro Estado-Membro, ii) for objecto de um pedido de registo oficial em qualquer Estado-Membro, ou de um pedido de direito de obtenção a que se refere a alínea a), ou iii) já tiver sido comercializada antes de 30 de Setembro de 2012 no território do Estado-Membro em causa ou de outro Estado-Membro, desde que tenha uma descrição oficialmente reconhecida. Podem também ser objecto de referência nos termos do n.º 1 variedades sem valor intrínseco para a produção vegetal comercial, desde que tenham uma descrição oficialmente reconhecida e que os materiais de propagação e fruteiras sejam comercializados como material CAC no território do Estado-Membro em causa e sejam identificados por uma referência à presente disposição no rótulo e/ou documento.\n\ni) tiver sido oficialmente registada noutro Estado-Membro,\n\nii) for objecto de um pedido de registo oficial em qualquer Estado-Membro, ou de um pedido de direito de obtenção a que se refere a alínea a), ou\n\niii) já tiver sido comercializada antes de 30 de Setembro de 2012 no território do Estado-Membro em causa ou de outro Estado-Membro, desde que tenha uma descrição oficialmente reconhecida.\n\n3. Tanto quanto possível, cada variedade deve ter a mesma designação em todos os Estados-Membros, em conformidade com medidas de execução que possam vir a ser aprovadas nos termos do n.º 2 do artigo 19.º ou, na sua ausência, em conformidade com directrizes internacionais aceites.\n\n4. As variedades podem ser oficialmente registadas se se considerar que preenchem determinadas condições aprovadas oficialmente e se estiverem oficialmente descritas. Podem igualmente ser oficialmente registadas se o respectivo material já tiver sido comercializado antes de 30 de Setembro de 2012 no território do Estado-Membro em causa, desde que tenham uma descrição oficialmente reconhecida.\n\nAs variedades geneticamente modificadas só podem ser oficialmente registadas se o organismo geneticamente modificado de que são constituídas tiver sido autorizado em conformidade com a Directiva 2001/18/CE ou com o Regulamento (CE) n.º 1829/2003.\n\nQuando os produtos derivados de fruteiras ou materiais de propagação se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003, a variedade em causa só deve ser oficialmente registada se o género alimentício ou o alimento para animais derivado desses materiais tiverem sido autorizados em conformidade com o referido regulamento.\n\n5. As exigências de registo oficial a que se faz referência no n.º 4 devem ser estabelecidas nos termos do n.º 2 do artigo 19.º, tendo em conta o avanço dos conhecimentos científicos e técnicos, e devem abranger:\n\na) As condições de registo oficial, que podem incluir, nomeadamente, a distinção, a estabilidade e uma homogeneidade suficiente;\n\nb) As características mínimas que devem ser objecto do exame das várias espécies;\n\nc) As exigências mínimas para realização dos exames;\n\nd) O prazo máximo de validade do registo oficial de uma variedade.\n\n6. Nos termos do n.º 2 do artigo 19.º:\n\n— pode estabelecer-se um sistema de notificação das variedades ou espécies ou híbridos interespecíficos aos organismos oficiais responsáveis dos Estados-Membros,\n\n— pode decidir-se que seja elaborada e publicada uma lista comum das variedades elegíveis para certificação."
+  },
+  "fd6241d7bd461bfc": {
+   "fragment_id": "Artigo 8.º — Composição e identificação do lote",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Composição e identificação do lote",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição e identificação do lote\n\n1. No período de cultivo e durante as operações de colheita ou separação do material de origem, o material de propagação e as fruteiras devem ser mantidos em lotes separados.\n\n2. Caso o material de propagação ou as fruteiras de origens diferentes sejam colocados conjuntamente ou misturados durante o acondicionamento, a armazenagem, o transporte ou o fornecimento, o fornecedor deve conservar registos com os seguintes dados: composição do lote e origem de cada um dos componentes."
+  },
+  "787d5059e46722b3": {
+   "fragment_id": "Artigo 9.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rotulagem\n\n1. Os materiais de propagação e as fruteiras apenas devem ser comercializados em lotes suficientemente homogéneos, e se forem:\n\na) Qualificados como materiais CAC e acompanhados de um documento redigido pelo fornecedor, em conformidade com os requisitos específicos estabelecidos nos termos do artigo 4.º. Caso este documento contenha uma declaração oficial, esta deve ficar claramente separada das outras partes do documento; ou\n\nb) Qualificados como material pré-básico, básico ou certificado e declarados como tal pelo organismo oficial responsável, em conformidade com os requisitos específicos estabelecidos nos termos do artigo 4.º Nas medidas de execução aprovadas nos termos do n.º 3 do artigo 19.º, podem indicar-se os requisitos relativos à rotulagem e/ou selagem e acondicionamento do material de propagação e/ou das fruteiras.\n\n2. No fornecimento a retalho de materiais de propagação e fruteiras a consumidores finais não profissionais, os requisitos relativos à rotulagem a que se refere o n.º 1 podem ser limitados a informações adequadas sobre o produto.\n\n3. No caso de materiais de propagação ou fruteiras de uma variedade que tenha sido modificada geneticamente, qualquer rótulo aposto no material de propagação e qualquer documento que o acompanhe por força das disposições da presente directiva, oficial ou não, devem indicar claramente que a variedade foi geneticamente modificada e identificar os organismos geneticamente modificados."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "321b8ba2225777f6": {
+   "fragment_id": "ISENÇÕES",
+   "type": "divisao",
+   "heading": "ISENÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ISENÇÕES"
+  },
+  "f26c0156793c49aa": {
+   "fragment_id": "Artigo 10.º — Circulação local",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Circulação local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Circulação local\n\n1. Os Estados-Membros podem dispensar:\n\na) Da aplicação do n.º 1 do artigo 9.º os pequenos produtores cuja produção total e venda de material de propagação e de fruteiras tenha como destino final, no mercado local, pessoas que não façam profissão da produção de vegetais («circulação local»);\n\nb) Dos controlos e inspecções oficiais previstos no artigo 13.º a circulação local de material de propagação e fruteiras produzidos pelos cultivadores isentos ao abrigo da alínea anterior.\n\n2. Nos termos do n.º 2 do artigo 19.º, podem ser aprovadas regras de execução relativas a outras exigências referentes às dispensas mencionadas no n.º 1 do presente artigo, em especial no que se refere às noções de «pequenos produtores» e «mercado local» e aos procedimentos que lhes dizem respeito."
+  },
+  "5f6aa3c672c73444": {
+   "fragment_id": "Artigo 11.º — Dificuldades temporárias de fornecimento",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Dificuldades temporárias de fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dificuldades temporárias de fornecimento\n\nCaso surjam dificuldades temporárias, causadas por catástrofes naturais ou circunstâncias imprevistas, no fornecimento de material de propagação ou de fruteiras que satisfaçam as exigências da presente directiva, podem ser aprovadas, nos termos do n.º 2 do artigo 19.º, disposições que condicionem a comercialização de material de propagação e fruteiras a exigências menos rigorosas."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "f794cda8a7d735ac": {
+   "fragment_id": "MATERIAL DE PROPAGAÇÃO E FRUTEIRAS PRODUZIDOS EM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "MATERIAL DE PROPAGAÇÃO E FRUTEIRAS PRODUZIDOS EM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MATERIAL DE PROPAGAÇÃO E FRUTEIRAS PRODUZIDOS EM PAÍSES TERCEIROS"
+  },
+  "1340da5aa9ea9b08": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Deve decidir-se, nos termos do n.º 2 do artigo 19.º, se o material de propagação e as fruteiras produzidos num país terceiro, e que ofereçam as mesmas garantias no que diz respeito às obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, modalidades de inspecção, marcação e selagem, são equivalentes em todos estes aspectos ao material de propagação e às fruteiras produzidos na Comunidade em conformidade com as exigências e condições previstas na presente directiva.\n\n2. Enquanto se aguarda a decisão a que se refere o n.º 1, os Estados-Membros podem, até 31 de Dezembro de 2010, sem prejuízo do disposto na Directiva 2000/29/CE, aplicar à importação de material de propagação e de fruteiras provenientes de países terceiros condições pelo menos equivalentes às estabelecidas, numa base temporária ou permanente, nos requisitos específicos aprovados nos termos do artigo 4.º. No caso de essas condições não estarem previstas nos referidos requisitos específicos, as condições de importação devem ser pelo menos equivalentes às condições aplicáveis à produção no Estado-Membro em causa.\n\nEnquanto se aguarda a decisão a que se refere o n.º 1 do presente artigo, a data mencionada no primeiro parágrafo do presente número pode ser prorrogada para os diferentes países terceiros, nos termos do n.º 2 do artigo 19.º\n\nO material de propagação e as fruteiras importados por um Estado-Membro na sequência de uma decisão tomada por esse Estado-Membro nos termos do primeiro parágrafo não são sujeitos noutros Estados-Membros a quaisquer restrições de comercialização relativamente aos aspectos referidos no n.º 1."
+  },
+  "3c86a15ddc0878af": {
+   "fragment_id": "CAPÍTULO 7",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 7"
+  },
+  "d8b24293e4d70925": {
+   "fragment_id": "MEDIDAS DE CONTROLO",
+   "type": "divisao",
+   "heading": "MEDIDAS DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE CONTROLO"
+  },
+  "b8fef1d6c33e04f6": {
+   "fragment_id": "Artigo 13.º — Inspecções oficiais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Inspecções oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Inspecções oficiais\n\n1. Os Estados-Membros devem assegurar que o material de propagação e as fruteiras sejam inspeccionados oficialmente aquando da produção e comercialização para verificação da observância das exigências e condições previstas na presente directiva. Para o efeito, o organismo oficial responsável deve ter livre acesso a todas as partes das instalações dos fornecedores, sempre que razoável.\n\n2. Os organismos oficiais responsáveis podem, nos termos da legislação nacional, delegar as funções que lhes são confiadas na presente directiva, para serem desempenhadas sob a sua autoridade e controlo, em pessoas colectivas, de direito público ou privado que, nos termos dos seus estatutos oficialmente aprovados, desempenhem exclusivamente funções públicas específicas, desde que nem essas pessoas colectivas nem os seus membros tenham qualquer interesse pessoal no resultado das medidas que tomem.\n\nNos termos do n.º 2 do artigo 19.º, podem ser aprovadas outras pessoas colectivas criadas por conta de um organismo oficial responsável que actuem sob a autoridade e o controlo desse organismo, desde que essas pessoas colectivas não tenham qualquer interesse pessoal no resultado das medidas que tomem.\n\nOs Estados-Membros devem notificar a Comissão dos seus organismos oficiais responsáveis. A Comissão transmite essa informação aos outros Estados-Membros.\n\n3. As medidas de execução do n.º 1 são aprovadas nos termos do n.º 2 do artigo 19.º. Essas medidas devem ser proporcionadas relativamente à categoria de materiais em causa."
+  },
+  "51043b648523e95c": {
+   "fragment_id": "Artigo 14.º — Vigilância comunitária",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Vigilância comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vigilância comunitária\n\n1. Devem efectuar-se nos Estados-Membros ensaios ou, eventualmente, testes em amostras, a fim de verificar a conformidade do material de propagação e das fruteiras com as exigências e condições da presente directiva, incluindo as de carácter fitossanitário. A Comissão pode organizar inspecções aos ensaios, a efectuar por representantes dos Estados-Membros e da Comissão.\n\n2. Podem ser efectuados na Comunidade ensaios e testes comparativos comunitários para o controlo ulterior de amostras de material de propagação ou de fruteiras colocados no mercado ao abrigo das disposições, compulsivas ou facultativas e inclusivamente fitossanitárias, da presente directiva. Os ensaios e testes comparativos podem incluir o seguinte:\n\n— material de propagação ou fruteiras produzidos em países terceiros,\n\n— material de propagação ou fruteiras próprios para a agricultura biológica,\n\n— material de propagação ou fruteiras comercializados no âmbito de medidas destinadas a contribuir para a preservação da diversidade genética.\n\n3. Os ensaios e testes comparativos referidos no n.º 2 devem ser utilizados para harmonizar os métodos técnicos de análise de material de propagação e de fruteiras e verificar a observância das condições a que esse material deve obedecer.\n\n4. A Comissão, deliberando nos termos do n.º 2 do artigo 19.º, toma as disposições necessárias para a realização dos ensaios e testes comparativos. A Comissão deve informar o comité referido no n.º 2 do artigo 19.º sobre as disposições técnicas relativas à realização dos ensaios e testes e respectivos resultados. Sempre que surjam problemas fitossanitários, a Comissão deve notificar o facto ao Comité Fitossanitário Permanente.\n\n5. A Comunidade pode contribuir financeiramente para a realização dos ensaios e testes referidos nos n.^os^ 2 e 3.\n\nA contribuição financeira não deve exceder as dotações anuais estabelecidas pela autoridade orçamental.\n\n6. Os ensaios e testes que podem beneficiar de apoio financeiro da Comunidade, bem como as normas pormenorizadas para a concessão da contribuição financeira, são estabelecidos nos termos do n.º 2 do artigo 19.º\n\n7. Os ensaios e testes previstos nos n.^os^ 2 e 3 apenas podem ser efectuados por autoridades estatais ou por pessoas colectivas agindo sob a responsabilidade do Estado."
+  },
+  "a45c81543c9f54e8": {
+   "fragment_id": "Artigo 15.º — Verificações comunitárias nos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Verificações comunitárias nos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Verificações comunitárias nos Estados-Membros\n\n1. Os peritos da Comissão, em cooperação com os organismos oficiais responsáveis dos Estados-Membros, podem efectuar verificações *in loco*, na medida do necessário, para assegurar a aplicação uniforme da presente directiva, e nomeadamente para verificar se os fornecedores estão efectivamente a respeitar as suas exigências. O Estado-Membro em cujo território se efectue uma verificação deve prestar toda a assistência necessária aos peritos no desempenho das suas funções. A Comissão informa os Estados-Membros do resultado das investigações.\n\n2. As medidas de execução do n.º 1 são aprovadas nos termos do n.º 2 do artigo 19.º"
+  },
+  "47c26354a195d959": {
+   "fragment_id": "Artigo 16.º — Acompanhamento pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Acompanhamento pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acompanhamento pelos Estados-Membros\n\n1. Os Estados-Membros devem assegurar que o material de propagação e as fruteiras produzidos no seu território e destinados à comercialização satisfaçam as exigências previstas na presente directiva.\n\n2. Se, por ocasião da inspecção oficial prevista no artigo 13.º ou dos ensaios referidos no artigo 14.º, se verificar que o material de propagação ou as fruteiras comercializados não respeitam as exigências da presente directiva, o organismo oficial responsável do Estado-Membro em causa deve tomar as medidas adequadas para garantir a sua conformidade com o disposto na presente directiva, ou, caso isso não seja possível, para impedir a comercialização desse material de propagação e dessas fruteiras na Comunidade.\n\n3. Se se verificar que o material de propagação ou as fruteiras comercializados por um determinado fornecedor não respeitam as exigências e condições previstas na presente directiva, o Estado-Membro em causa deve assegurar que sejam tomadas medidas adequadas contra esse fornecedor. Caso o fornecedor seja proibido de comercializar material de propagação e fruteiras, o Estado-Membro deve notificar desse facto a Comissão e os organismos nacionais competentes dos Estados-Membros.\n\n4. As medidas tomadas ao abrigo do n.º 3 são revogadas logo que se verifique, com suficiente rigor, que o material de propagação ou as fruteiras destinados a ser comercializados pelo referido fornecedor passaram a respeitar as exigências e condições previstas na presente directiva."
+  },
+  "906b320adabe224c": {
+   "fragment_id": "CAPÍTULO 8",
+   "type": "divisao",
+   "heading": "CAPÍTULO 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 8"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "28d8aeebe019f4ff": {
+   "fragment_id": "Artigo 17.º — Livre circulação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Livre circulação\n\n1. Os materiais de propagação e as fruteiras que satisfaçam as exigências e condições previstas na presente directiva não devem ser sujeitos a quaisquer restrições de comercialização relativamente ao fornecedor, estado fitossanitário, meio de cultura e modalidades de inspecção, para além das previstas na presente directiva.\n\n2. No que diz respeito aos materiais de propagação e fruteiras dos géneros e espécies referidos no anexo I, os Estados-Membros não devem impor condições mais rigorosas ou restrições à comercialização diferentes das previstas na presente directiva ou nos requisitos específicos estabelecidos nos termos do artigo 4.º ou em vigor em 28 de Abril de 1992, consoante o caso."
+  },
+  "baef340087b5ebb0": {
+   "fragment_id": "Artigo 18.º — Alteração e adaptação dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Alteração e adaptação dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração e adaptação dos anexos\n\nA Comissão pode, nos termos do n.º 3 do artigo 19.º, alterar o anexo I, a fim de o adaptar à evolução dos conhecimentos científicos e técnicos."
+  },
+  "047ccc634f9cae54": {
+   "fragment_id": "Artigo 19.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comité\n\n1. A Comissão é assistida pelo Comité Permanente dos Materiais de Propagação e Fruteiras, a seguir designado «comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O Comité aprova o seu regulamento interno."
+  },
+  "8d48f4d534155524": {
+   "fragment_id": "Artigo 20.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transposição\n\n1. Os Estados-Membros devem aprovar e publicar, até 31 de Março de 2010, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento aos n.^os^ 2 e 3 do artigo 1.º, aos artigos 2.º, 3.º, 5.º e 6.º, aos n.^os^ 2, 3 e 4 do artigo 7.º, ao n.º 3 do artigo 9.º, ao n.º 2 do artigo 12.º, ao n.º 1 do artigo 13.º e aos artigos 16.º e 21.º. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nDevem aplicar tais disposições a partir de 30 de Setembro de 2012.\n\n2. Quando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Tais disposições devem igualmente precisar que as referências feitas, nas disposições legislativas, regulamentares e administrativas em vigor, às directivas revogadas pela presente directiva se consideram como sendo feitas para a presente directiva. As modalidades daquela referência e desta precisão são aprovadas pelos Estados-Membros.\n\n3. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "4094e1a41cc47b91": {
+   "fragment_id": "Artigo 21.º — Medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Medidas transitórias\n\nOs Estados-Membros podem autorizar, até 31 de Dezembro de 2018, a comercialização nos respectivos territórios de material de propagação e fruteiras colhidos de materiais de origem existentes antes de 30 de Setembro de 2012 que tenham sido oficialmente certificados ou preencham as condições para serem qualificados como material CAC antes de 31 de Dezembro de 2018. Aquando da sua comercialização, esses materiais de propagação e fruteiras devem ser identificados mediante uma referência ao presente artigo no rótulo e/ou no documento. Depois de 31 de Dezembro de 2018, os materiais de propagação e as fruteiras podem ser comercializados se preencherem as exigências da presente directiva."
+  },
+  "154170fc88bee0d4": {
+   "fragment_id": "Artigo 22.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Revogação\n\n1. A Directiva 92/34/CEE, alterada pelos actos enumerados na parte A do anexo II, é revogada com efeitos a partir de 30 de Setembro de 2012, sem prejuízo das obrigações dos Estados-Membros no que diz respeito aos prazos de transposição para o direito interno e de aplicação das directivas constantes da parte B do anexo II.\n\n2. As referências à directiva revogada devem entender-se como sendo feitas para a presente directiva e ler-se nos termos do quadro de correspondência constante do anexo III."
+  },
+  "8ec0b39660dab8d9": {
+   "fragment_id": "Artigo 23.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "573776364e60a1a7": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Setembro de 2008.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**M. BARNIER**\n\n---"
+  },
+  "457a41302068f8e6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntc1-L_2008267PT.01000801-E0001) Parecer emitido em 11 de Dezembro de 2007 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntc2-L_2008267PT.01000801-E0002) [JO L 157 de 10.6.1992, p. 10](http://publications.europa.eu/resource/oj/JOL_1992_157_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntc3-L_2008267PT.01000801-E0003) Ver parte A do anexo II.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntc4-L_2008267PT.01000801-E0004) [JO L 169 de 10.7.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_169_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntc5-L_2008267PT.01000801-E0005) [JO L 106 de 17.4.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_106_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntc6-L_2008267PT.01000801-E0006) [JO L 268 de 18.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.03/DOC_1#ntc7-L_2008267PT.01000801-E0007) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)."
+  },
+  "51b637509611ba1b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Setembro de 2008\n\nrelativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos\n\n(Versão reformulada)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#E0001)),\n\n(1) A Directiva 92/34/CEE do Conselho, de 28 de Abril de 1992, relativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos ([^2^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#E0002)) foi por diversas vezes alterada de forma substancial ([^3^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#E0003)). Efectuando-se agora novas alterações, por uma questão de clareza, deverá proceder-se a uma reformulação da referida directiva.\n\n(2) A produção de frutos ocupa um lugar importante na agricultura da Comunidade.\n\n(3) A obtenção de resultados satisfatórios na cultura de frutos depende em larga medida da qualidade e do estado fitossanitário dos materiais de propagação utilizados e das fruteiras destinados à produção de frutos.\n\n(4) A existência de condições harmonizadas a nível comunitário garante que os compradores recebem, em toda a Comunidade, materiais de propagação e fruteiras em bom estado fitossanitário e de boa qualidade.\n\n(5) Na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes com a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^4^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#E0004)).\n\n(6) Convém estabelecer normas comunitárias para as espécies e géneros de fruteiras que se revistam de especial importância económica na Comunidade, prevendo um procedimento comunitário que permita posteriormente aditar outros géneros e espécies à lista de géneros e espécies a que é aplicável a presente directiva. Os géneros e espécies enumerados nessa lista deverão ser os que são geralmente cultivados nos Estados-Membros e para cujos materiais de propagação e/ou fruteiras exista um mercado substancial que abranja mais do que um Estado-Membro.\n\n(7) Sem prejuízo das disposições fitossanitárias contidas na Directiva 2000/29/CE, não se deverão aplicar as citadas normas comunitárias relativas à comercialização de materiais de propagação e de fruteiras quando se provar que esses produtos se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva.\n\n(8) Por uma questão de clareza, deverão ser estabelecidas as definições necessárias. Tais definições deverão ser baseadas no progresso científico e técnico e abranger cada termo de forma clara e exaustiva, por forma a facilitar a harmonização do mercado interno, tendo em consideração todas as novas oportunidades do mercado e todos os novos processos utilizados na produção de materiais de propagação. As definições deverão ser harmonizadas com as aprovadas para efeitos de comercialização de outros materiais de propagação abrangidos pela legislação comunitária.\n\n(9) É conveniente estabelecer normas fitossanitárias e de qualidade para cada género e espécie de fruteira com base em sistemas internacionais, que podem incluir, nomeadamente, disposições em matéria de ensaios relativos a agentes patogénicos. Assim, afigura-se adequado prever um sistema de regras harmonizadas para as diferentes categorias de materiais de propagação e de fruteiras a comercializar mediante remissão para esses sistemas internacionais, sempre que estiverem disponíveis.\n\n(10) É compatível com a prática agrícola corrente exigir que os materiais de propagação e as fruteiras sejam submetidos a exame oficial ou sejam examinados sob supervisão oficial, tal como previsto para outras espécies abrangidas pela legislação comunitária.\n\n(11) Os materiais de propagação e fruteiras geneticamente modificados não deverão ser colocados no mercado, e as variedades de frutos não deverão ser oficialmente registadas, a menos que tenham sido tomadas todas as medidas adequadas para evitar quaisquer riscos para a saúde humana e o ambiente, tal como referido na Directiva 2001/18/CE do Parlamento Europeu e do Conselho, de 12 de Março de 2001, relativa à libertação deliberada no ambiente de organismos geneticamente modificados ([^5^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#E0005)), e no Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo a géneros alimentícios e alimentos para animais geneticamente modificados ([^6^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#E0006)).\n\n(12) Importa assegurar a preservação e a utilização sustentável da diversidade genética. Deverão ser tomadas, em sintonia com outras disposições comunitárias relevantes, medidas adequadas de conservação da biodiversidade para garantir a conservação das variedades existentes.\n\n(13) É apropriado estabelecer as condições de comercialização dos materiais destinados a ensaios, fins científicos ou trabalhos de selecção, na eventualidade de estes materiais não satisfazerem as normas habituais de qualidade e fitossanidade, em virtude da sua utilização especial.\n\n(14) Compete em primeiro lugar aos fornecedores de materiais de propagação ou de fruteiras garantir que os seus produtos preencham as condições previstas na presente directiva. É pois necessário definir o papel dos fornecedores e as condições que se lhes aplicam. Para o estabelecimento de um processo transparente e economicamente viável de certificação de materiais de propagação e de fruteiras, os fornecedores deverão estar registados oficialmente.\n\n(15) Os fornecedores que apenas comercializam os seus produtos a consumidores finais não profissionais podem ser dispensados da obrigação de registo.\n\n(16) O comprador de materiais de propagação e de fruteiras tem interesse em que seja conhecida a denominação da variedade e em que seja salvaguardada a sua identidade para permitir a rastreabilidade do sistema e aumentar a confiança no mercado.\n\n(17) Este objectivo pode ser mais bem concretizado quer por um conhecimento comum da variedade, em particular no que toca às variedades antigas, quer pela disponibilidade de uma descrição baseada nos protocolos do Instituto Comunitário das Variedades Vegetais (ICVV) ou, se estes não existirem, noutras normas nacionais ou internacionais.\n\n(18) Para garantir a identidade e a comercialização disciplinada do material de propagação e das fruteiras, deverão ser estabelecidas normas comunitárias no que diz respeito à separação dos lotes e à marcação. Os rótulos deverão fornecer as indicações necessárias para controlo oficial e para informação do utilizador.\n\n(19) Ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-Membros deverão garantir que estão satisfeitas as condições aplicáveis aos materiais de propagação ou às fruteiras e aos fornecedores. O nível, a intensidade e a frequência dessas inspecções deverão ser determinados tendo em conta a categoria dos materiais em causa.\n\n(20) Deverão ser previstas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-Membros das normas estabelecidas na presente directiva.\n\n(21) Deverão ser estabelecidas regras que, em caso de dificuldades de fornecimento temporárias causadas por catástrofes naturais, tais como incêndios e tempestades, ou circunstâncias imprevistas, permitam a comercialização de materiais de propagação e fruteiras sujeitos a exigências menos rigorosas do que as previstas na presente directiva durante um período limitado e desde que se respeitem determinadas condições.\n\n(22) Em conformidade com o princípio da proporcionalidade, deverá prever-se a possibilidade de os Estados-Membros dispensarem dos requisitos de rotulagem e dos controlos e inspecções oficiais os pequenos produtores cuja produção total e venda de material de propagação e de fruteiras tenha como destino final, no mercado local, pessoas que não façam profissão da produção de vegetais («circulação local»).\n\n(23) No que se refere aos géneros e espécies referidos no anexo I, os Estados-Membros deverão ser proibidos de impor novas condições ou restrições de comercialização, para além das previstas na presente directiva.\n\n(24) Deverá ser prevista a autorização de comercialização, na Comunidade, de materiais de propagação e fruteiras produzidos em países terceiros, desde que estes produtos ofereçam sempre as mesmas garantias que os materiais de propagação e fruteiras produzidos na Comunidade em conformidade com as normas comunitárias.\n\n(25) A fim de harmonizar as técnicas de controlo utilizadas nos Estados-Membros e de comparar os materiais de propagação e fruteiras produzidos na Comunidade com os produzidos em países terceiros, deverão ser efectuados ensaios comparativos que permitam verificar a conformidade destes produtos com as exigências da presente directiva.\n\n(26) A fim de evitar perturbações no comércio, convém permitir que os Estados-Membros deverão poder autorizar a comercialização, no seu território, durante um período transitório, de materiais certificados e materiais CAC (*Conformitas Agraria Communitatis*) colhidos de materiais de origem existentes e já certificados ou aceites como materiais CAC à data de aplicação da presente directiva, mesmo que esses materiais não satisfaçam as novas condições.\n\n(27) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#E0007)).\n\n(28) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito interno e de aplicação das directivas indicados na parte B do anexo II,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "0e6dc3673d7dab37": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. *Material de propagação*, as sementes, partes de plantas e qualquer material proveniente de plantas, incluindo os porta-enxertos, destinados à propagação e à produção de fruteiras.\n\n2. *Fruteiras*, as plantas destinadas, após a comercialização, à plantação ou à repicagem.\n\n3. *Variedade*, um conjunto vegetal pertencente ao mesmo táxon botânico, da ordem mais baixa conhecida, que pode ser:\n\na) Definido pela expressão de características resultante de um determinado genótipo ou de uma determinada combinação de genótipos;\n\nb) Distinguido de qualquer outro conjunto vegetal pela expressão de pelo menos uma das referidas características; e\n\nc) Considerado como uma entidade tendo em conta a capacidade de ser reproduzido sem alteração.\n\n4. *Clone*, uma descendência vegetativa geneticamente uniforme de uma única planta.\n\n5. *Material pré-básico*, material de propagação:\n\na) Produzido de acordo com métodos geralmente aceites para a conservação da identidade da variedade, incluindo as características pomológicas pertinentes, e para a prevenção de doenças;\n\nb) Destinado à produção de material básico ou de material certificado, com excepção de fruteiras;\n\nc) Que preencha os requisitos específicos para o material pré-básico estabelecidos nos termos do artigo 4.º; e\n\nd) Que uma inspecção oficial tenha considerado preencher os requisitos das alíneas a), b) e c).\n\n6. *Material básico*, material de propagação:\n\na) Produzido directamente a partir de material pré-básico ou que dele provenha de modo vegetativo num número limitado de etapas, de acordo com métodos geralmente aceites para a conservação da identidade da variedade incluindo as características pomológicas pertinentes, e para a prevenção de doenças;\n\nb) Destinado à produção de material certificado;\n\nc) Que preencha os requisitos específicos para o material básico estabelecidos nos termos do artigo 4.º; e\n\nd) Que uma inspecção oficial tenha considerado preencher os requisitos das alíneas a), b) e c).\n\n7. *Material certificado*:\n\na) Material de propagação:\n\ni) produzido directamente de modo vegetativo a partir de material básico ou de material pré-básico ou, caso se destine a ser utilizado para a produção de porta-enxertos, a partir de sementes certificadas provenientes de material básico ou certificado proveniente de porta-enxertos,\n\nii) destinado à produção de fruteiras;\n\niii) que preencha os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e\n\niv) que uma inspecção oficial tenha considerado preencher os requisitos das subalíneas i), ii) e iii);\n\nb) Fruteiras:\n\ni) produzidas directamente a partir de material de propagação certificado, básico ou pré-básico,\n\nii) destinadas à produção de frutos;\n\niii) que preencham os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e\n\niv) que uma inspecção oficial tenha considerado preencherem os requisitos das subalíneas i), ii) e iii).\n\n8. *Material CAC (Conformitas Agraria Communitatis)*, material de propagação e fruteiras:\n\na) Que possuam identidade varietal e pureza adequada;\n\nb) Destinados:\n\n— à produção de material de propagação,\n\n— à produção de fruteiras, e/ou\n\n— à produção de frutos;\n\nc) Que preencham os requisitos específicos para o material CAC estabelecidos nos termos do artigo 4.º\n\n9. *Fornecedor*, qualquer pessoa singular ou colectiva que desempenhe, a título profissional, pelo menos uma das actividades seguintes relacionadas com material de propagação ou fruteiras: reprodução, produção, conservação e/ou tratamento, importação e comercialização.\n\n10. *Comercialização*, a venda, posse com vista à venda, oferta para venda e qualquer acto de disposição, fornecimento ou transferência de materiais de propagação ou de fruteiras a terceiros, a título oneroso ou gratuito, para fins de exploração comercial.\n\n11. *Organismo oficial responsável*:\n\na) Uma autoridade, criada ou designada por cada Estado-Membro, sob controlo do governo central e responsável pelas questões de qualidade do material de propagação e das fruteiras;\n\nb) Qualquer autoridade pública criada:\n\n— quer a nível nacional,\n\n— quer a nível regional, sob controlo das autoridades nacionais, dentro dos limites fixados pela legislação nacional do respectivo Estado-Membro.\n\n12. *Inspecção oficial*, a inspecção efectuada pelo organismo oficial responsável ou sob a sua responsabilidade.\n\n13. *Lote*, o conjunto de unidades de uma única mercadoria, identificável pela sua homogeneidade de composição e origem."
+  },
+  "87b3356d9716079c": {
+   "fragment_id": "Artigo 7.º — Identificação da variedade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Identificação da variedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Identificação da variedade\n\n1. Os materiais de propagação e as fruteiras devem ser comercializados com uma referência à variedade a que pertencem. No caso dos porta-enxertos, se o material não pertencer a uma variedade, deve referir-se a espécie ou o híbrido interespecífico em causa.\n\n2. As variedades a que se faça referência nos termos do n.º 1 devem ser:\n\na) Legalmente protegidas por um direito de obtenção de acordo com as disposições relativas à protecção das novas variedades;\n\nb) Oficialmente registadas nos termos do n.º 4; ou\n\nc) Do conhecimento geral. Considera-se que uma variedade é do conhecimento geral se:\n\ni) tiver sido oficialmente registada noutro Estado-Membro,\n\nii) for objecto de um pedido de registo oficial em qualquer Estado-Membro, ou de um pedido de direito de obtenção a que se refere a alínea a), ou\n\niii) já tiver sido comercializada antes de 30 de Setembro de 2012 no território do Estado-Membro em causa ou de outro Estado-Membro, desde que tenha uma descrição oficialmente reconhecida.\n\n3. Tanto quanto possível, cada variedade deve ter a mesma designação em todos os Estados-Membros, em conformidade com medidas de execução que possam vir a ser aprovadas nos termos do n.º 2 do artigo 19.º ou, na sua ausência, em conformidade com directrizes internacionais aceites.\n\n4. As variedades podem ser oficialmente registadas se se considerar que preenchem determinadas condições aprovadas oficialmente e se estiverem oficialmente descritas. Podem igualmente ser oficialmente registadas se o respectivo material já tiver sido comercializado antes de 30 de Setembro de 2012 no território do Estado-Membro em causa, desde que tenham uma descrição oficialmente reconhecida.\n\nAs variedades geneticamente modificadas só podem ser oficialmente registadas se o organismo geneticamente modificado de que são constituídas tiver sido autorizado em conformidade com a Directiva 2001/18/CE ou com o Regulamento (CE) n.º 1829/2003.\n\nQuando os produtos derivados de fruteiras ou materiais de propagação se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003, a variedade em causa só deve ser oficialmente registada se o género alimentício ou o alimento para animais derivado desses materiais tiverem sido autorizados em conformidade com o referido regulamento.\n\n5. As exigências de registo oficial a que se faz referência no n.º 4 devem ser estabelecidas nos termos do n.º 2 do artigo 19.º, tendo em conta o avanço dos conhecimentos científicos e técnicos, e devem abranger:\n\na) As condições de registo oficial, que podem incluir, nomeadamente, a distinção, a estabilidade e uma homogeneidade suficiente;\n\nb) As características mínimas que devem ser objecto do exame das várias espécies;\n\nc) As exigências mínimas para realização dos exames;\n\nd) O prazo máximo de validade do registo oficial de uma variedade.\n\n6. Nos termos do n.º 2 do artigo 19.º:\n\n— pode estabelecer-se um sistema de notificação das variedades ou espécies ou híbridos interespecíficos aos organismos oficiais responsáveis dos Estados-Membros,\n\n— pode decidir-se que seja elaborada e publicada uma lista comum das variedades elegíveis para certificação."
+  },
+  "d97b98fe4554b345": {
+   "fragment_id": "Artigo 9.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rotulagem\n\n1. Os materiais de propagação e as fruteiras apenas devem ser comercializados em lotes suficientemente homogéneos, e se forem:\n\na) Qualificados como materiais CAC e acompanhados de um documento redigido pelo fornecedor, em conformidade com os requisitos específicos estabelecidos nos termos do artigo 4.º. Caso este documento contenha uma declaração oficial, esta deve ficar claramente separada das outras partes do documento; ou\n\nb) Qualificados como material pré-básico, básico ou certificado e declarados como tal pelo organismo oficial responsável, em conformidade com os requisitos específicos estabelecidos nos termos do artigo 4.º\n\n2. No fornecimento a retalho de materiais de propagação e fruteiras a consumidores finais não profissionais, os requisitos relativos à rotulagem a que se refere o n.º 1 podem ser limitados a informações adequadas sobre o produto.\n\n3. No caso de materiais de propagação ou fruteiras de uma variedade que tenha sido modificada geneticamente, qualquer rótulo aposto no material de propagação e qualquer documento que o acompanhe por força das disposições da presente directiva, oficial ou não, devem indicar claramente que a variedade foi geneticamente modificada e identificar os organismos geneticamente modificados."
+  },
+  "92d1550a960273fd": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Deve decidir-se, nos termos do n.º 2 do artigo 19.º, se o material de propagação e as fruteiras produzidos num país terceiro, e que ofereçam as mesmas garantias no que diz respeito às obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, modalidades de inspecção, marcação e selagem, são equivalentes em todos estes aspectos ao material de propagação e às fruteiras produzidos na Comunidade em conformidade com as exigências e condições previstas na presente directiva.\n\n2. Enquanto se aguarda a decisão a que se refere o n.º 1, os Estados-Membros podem, até [**►M1**](http://publications.europa.eu/resource/celex/32010D0777) 31 de Dezembro de 2018**◄**, sem prejuízo do disposto na Directiva 2000/29/CE, aplicar à importação de material de propagação e de fruteiras provenientes de países terceiros condições pelo menos equivalentes às estabelecidas, numa base temporária ou permanente, nos requisitos específicos aprovados nos termos do artigo 4.º. No caso de essas condições não estarem previstas nos referidos requisitos específicos, as condições de importação devem ser pelo menos equivalentes às condições aplicáveis à produção no Estado-Membro em causa.\n\nEnquanto se aguarda a decisão a que se refere o n.º 1 do presente artigo, a data mencionada no primeiro parágrafo do presente número pode ser prorrogada para os diferentes países terceiros, nos termos do n.º 2 do artigo 19.º\n\nO material de propagação e as fruteiras importados por um Estado-Membro na sequência de uma decisão tomada por esse Estado-Membro nos termos do primeiro parágrafo não são sujeitos noutros Estados-Membros a quaisquer restrições de comercialização relativamente aos aspectos referidos no n.º 1."
+  },
+  "7f5cb5a573b1a793": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "558079fac14e9deb": {
+   "fragment_id": "Lista de géneros e espécies a que é aplicável a presente directiva",
+   "type": "divisao",
+   "heading": "Lista de géneros e espécies a que é aplicável a presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de géneros e espécies a que é aplicável a presente directiva\n\n*Castanea sativa* Mill.\n\n*Citrus* L.\n\n*Corylus avellana* L.\n\n*Cydonia oblonga* Mill.\n\n*Ficus carica* L.\n\n*Fortunella* Swingle\n\n*Fragaria* L.\n\n*Juglans regia* L.\n\n*Malus* Mill.\n\n*Olea europaea* L.\n\n*Pistacia vera* L.\n\n*Poncirus* Raf.\n\n*Prunus amygdalus* Batsch\n\n*Prunus armeniaca* L.\n\n*Prunus avium* (L.) L.\n\n*Prunus cerasus* L.\n\n*Prunus domestica* L.\n\n*Prunus persica* (L.) Batsch\n\n*Prunus salicina* Lindley\n\n*Pyrus* L.\n\n*Ribes* L.\n\n*Rubus* L.\n\n*Vaccinium* L."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "85c8c207ff8cbcb0": {
+   "fragment_id": "Directiva revogada e sucessivas alterações",
+   "type": "divisao",
+   "heading": "Directiva revogada e sucessivas alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Directiva revogada e sucessivas alterações"
+  },
+  "0d4546903d84e340": {
+   "fragment_id": "(a que se refere o artigo 22.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o artigo 22.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o artigo 22.º)\n\nDirectiva 92/34/CEE do Conselho (JO L 157 de 10.6.1992, p. 10).\n\nDecisão 93/401/CEE da Comissão (JO L 177 de 21.7.1993, p. 28).\n\nDecisão 94/150/CE da Comissão (JO L 66 de 10.3.1994, p. 31).\n\nDecisão 95/26/CE da Comissão (JO L 36 de 16.2.1995, p. 36).\n\nDecisão 97/110/CE da Comissão (JO L 39 de 8.2.1997, p. 22).\n\nDecisão 1999/30/CE da Comissão (JO L 8 de 14.1.1999, p. 30).\n\nDecisão 2002/112/CE da Comissão (JO L 41 de 13.2.2002, p. 44).\n\nRegulamento (CE) n.º 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1). Apenas o ponto 7 do anexo II e o ponto 28 do anexo III\n\nDirectiva 2003/61/CE do Conselho (JO L 165 de 3.7.2003, p. 23). Apenas o n.º 5 do artigo 1.º\n\nDirectiva 2003/111/CE da Comissão (JO L 311 de 27.11.2003, p. 12).\n\nDecisão 2005/54/CE da Comissão (JO L 22 de 26.1.2005, p. 16).\n\nDecisão 2007/776/CE da Comissão (JO L 312 de 30.11.2007, p. 48)"
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "3a50225de650af6a": {
+   "fragment_id": "Lista dos prazos de transposição para o direito interno e de aplicação",
+   "type": "divisao",
+   "heading": "Lista dos prazos de transposição para o direito interno e de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos prazos de transposição para o direito interno e de aplicação"
+  },
+  "b2e3e2e1895f98e3": {
+   "fragment_id": "(a que se refere o artigo 22.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o artigo 22.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o artigo 22.º)\n\n| Directiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 92/34/CEE | 31 de Dezembro de 1992 | 31 de Dezembro de 1992 [(^1^)](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#E0008) |\n| 2003/61/CE | 10 de Outubro de 2003 |  |\n| 2003/111/CE | 31 de Outubro de 2004 |  |\n| (^1^)No que diz respeito aos artigos 5.º a 11.º, 14.º, 15.º, 17.º, 19.º e 24.º, a data de aplicação para cada género ou espécie referida no anexo II será adoptada de acordo com o procedimento previsto no artigo 21.º, ao ser elaborada a ficha a que se refere o artigo 4.º (ver n.º 2 do artigo 26.º da Directiva 92/34/CEE). |  |  |"
+  },
+  "64426a7c34455a74": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 92/34/CEE Presente directiva\n\nArtigo 1.º, n.º 1 Artigo 1.º, n.º 1\n\nArtigo 1.º, n.º 2 —\n\nArtigo 1.º, n.º 3 Artigo 18.º, alterado\n\n— Artigo 1.º, n.^os^ 2 e 3\n\nArtigo 2.º Artigo 1.º, n.º 4\n\nArtigo 3.º, alíneas a) e b) Artigo 2.º, pontos 1 e 2\n\n— Artigo 2.º, pontos 3 e 4\n\nArtigo 3.º, alíneas c) a f) Artigo 2.º, pontos 5 a 8, alterados\n\nArtigo 3.º, alíneas g) e h) —\n\nArtigo 3.º, alíneas i) e j) Artigo 2.º, pontos 9 e 10, alterados\n\nArtigo 3.º, alínea k), subalíneas i) e ii) Artigo 2.º, ponto 11\n\nArtigo 3.º, alínea k), em parte Artigo 13.º, n.º 2, alterado\n\nArtigo 3.º, alíneas l) e m) Artigo 2.º, pontos 12 e 13\n\nArtigo 3.º, alínea n) —\n\nArtigo 3.º, alínea o) Artigo 2.º, ponto 14\n\nArtigo 3.º, alínea p) —\n\nArtigo 4.º, n.º 1 Artigo 4.º, alterado\n\nArtigo 4.º, n.º 2 —\n\nArtigo 5.º —\n\n— Artigo 5.º\n\nArtigo 6.º —\n\n— Artigo 6.º\n\nArtigo 7.º Artigo 15.º\n\nArtigo 8.º, n.^os^ 1 e 2 Artigo 3.º, n.º 1, alíneas a), e b), alteradas\n\n— Artigo 3.º, n.º 2\n\n— Artigo 3.º, n.º 3\n\nArtigo 8.º, n.º 3 Artigo 3.º, n.º 4, alterado\n\nArtigo 9.º, n.º 1 Artigo 7.º, n.º 1\n\n— Artigo 7.º, n.º 2\n\nArtigo 9.º, n.º 2, alíneas i) e ii) Artigo 7.º, n.º 3, alíneas a) e b), alteradas\n\nArtigo 9.º, n.º 2, disposição final Artigo 7.º, n.º 4, alterado\n\nArtigo 9.º, n.º 3 Artigo 7.º, n.º 5\n\nArtigo 9.º, n.º 4 —\n\nArtigo 9.º, n.º 5 Artigo 7.º, n.º 6\n\nArtigo 9.º, n.º 6 Artigo 7.º, n.º 7\n\nArtigo 10.º, n.^os^ 1 e 2 Artigo 8.º, n.^os^ 1 e 2, alterados\n\nArtigo 10.º, n.º 3 —\n\nArtigo 11.º Artigo 9.º, alterado\n\nArtigo 12.º Artigo 10.º\n\nArtigo 13.º Artigo 11.º, alterado\n\nArtigo 14.º Artigo 17.º, n.º 1\n\nArtigo 15.º Artigo 17.º, n.º 2, alterado\n\nArtigo 16.º Artigo 12.º\n\nArtigo 17.º Artigo 13.º, n.º 1, alterado\n\nArtigo 18.º Artigo 13.º, n.º 3, alterado\n\nArtigo 19.º, n.º 1 Artigo 16.º, n.º 2\n\nArtigo 19.º, n.º 2 Artigo 16.º, n.º 3\n\nArtigo 19.º, n.º 3 Artigo 16.º, n.º 4\n\nArtigo 20.º Artigo 14.º\n\nArtigo 21.º, n.^os^ 1 e 2 Artigo 19.º, n.^os^ 1 e 2\n\nArtigo 21.º, n.º 3 Artigo 19.º, n.º 4\n\nArtigo 22.º, n.^os^ 1 e 2 Artigo 19.º, n.^os^ 1 e 3\n\nArtigo 23.º –\n\nArtigo 24.º, n.º 1 Artigo 16.º, n.º 1\n\nArtigo 24.º, n.º 2 —\n\nArtigo 25.º —\n\nArtigo 26.º Artigo 20.º\n\n— Artigo 21.º\n\n— Artigo 22.º\n\n— Artigo 23.º\n\nArtigo 27.º Artigo 24.º\n\nAnexo I —\n\nAnexo II Anexo I\n\n— Anexos II e III\n\n---"
+  },
+  "5038123c92809459": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#src.E0001)) Parecer emitido em 11 de Dezembro de 2007 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#src.E0002)) JO L 157 de 10.6.1992, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#src.E0003)) Ver parte A do anexo II.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#src.E0004)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#src.E0005)) JO L 106 de 17.4.2001, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#src.E0006)) JO L 268 de 18.10.2003, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d3f16992-0dd6-4654-ba9e-56dc3841c7f0.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "ccb9cc4e6324eb3b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Setembro de 2008\n\nrelativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos\n\n(Versão reformulada)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0001)),\n\n(1) A Directiva 92/34/CEE do Conselho, de 28 de Abril de 1992, relativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos ([^2^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0002)) foi por diversas vezes alterada de forma substancial ([^3^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0003)). Efectuando-se agora novas alterações, por uma questão de clareza, deverá proceder-se a uma reformulação da referida directiva.\n\n(2) A produção de frutos ocupa um lugar importante na agricultura da Comunidade.\n\n(3) A obtenção de resultados satisfatórios na cultura de frutos depende em larga medida da qualidade e do estado fitossanitário dos materiais de propagação utilizados e das fruteiras destinados à produção de frutos.\n\n(4) A existência de condições harmonizadas a nível comunitário garante que os compradores recebem, em toda a Comunidade, materiais de propagação e fruteiras em bom estado fitossanitário e de boa qualidade.\n\n(5) Na medida em que digam respeito aos aspectos fitossanitários, as referidas condições harmonizadas devem ser conformes com a Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^4^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0004)).\n\n(6) Convém estabelecer normas comunitárias para as espécies e géneros de fruteiras que se revistam de especial importância económica na Comunidade, prevendo um procedimento comunitário que permita posteriormente aditar outros géneros e espécies à lista de géneros e espécies a que é aplicável a presente directiva. Os géneros e espécies enumerados nessa lista deverão ser os que são geralmente cultivados nos Estados-Membros e para cujos materiais de propagação e/ou fruteiras exista um mercado substancial que abranja mais do que um Estado-Membro.\n\n(7) Sem prejuízo das disposições fitossanitárias contidas na Directiva 2000/29/CE, não se deverão aplicar as citadas normas comunitárias relativas à comercialização de materiais de propagação e de fruteiras quando se provar que esses produtos se destinam à exportação para países terceiros, uma vez que as disposições em vigor nesses países podem ser diferentes das previstas na presente directiva.\n\n(8) Por uma questão de clareza, deverão ser estabelecidas as definições necessárias. Tais definições deverão ser baseadas no progresso científico e técnico e abranger cada termo de forma clara e exaustiva, por forma a facilitar a harmonização do mercado interno, tendo em consideração todas as novas oportunidades do mercado e todos os novos processos utilizados na produção de materiais de propagação. As definições deverão ser harmonizadas com as aprovadas para efeitos de comercialização de outros materiais de propagação abrangidos pela legislação comunitária.\n\n(9) É conveniente estabelecer normas fitossanitárias e de qualidade para cada género e espécie de fruteira com base em sistemas internacionais, que podem incluir, nomeadamente, disposições em matéria de ensaios relativos a agentes patogénicos. Assim, afigura-se adequado prever um sistema de regras harmonizadas para as diferentes categorias de materiais de propagação e de fruteiras a comercializar mediante remissão para esses sistemas internacionais, sempre que estiverem disponíveis.\n\n(10) É compatível com a prática agrícola corrente exigir que os materiais de propagação e as fruteiras sejam submetidos a exame oficial ou sejam examinados sob supervisão oficial, tal como previsto para outras espécies abrangidas pela legislação comunitária.\n\n(11) Os materiais de propagação e fruteiras geneticamente modificados não deverão ser colocados no mercado, e as variedades de frutos não deverão ser oficialmente registadas, a menos que tenham sido tomadas todas as medidas adequadas para evitar quaisquer riscos para a saúde humana e o ambiente, tal como referido na Directiva 2001/18/CE do Parlamento Europeu e do Conselho, de 12 de Março de 2001, relativa à libertação deliberada no ambiente de organismos geneticamente modificados ([^5^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0005)), e no Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo a géneros alimentícios e alimentos para animais geneticamente modificados ([^6^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0006)).\n\n(12) Importa assegurar a preservação e a utilização sustentável da diversidade genética. Deverão ser tomadas, em sintonia com outras disposições comunitárias relevantes, medidas adequadas de conservação da biodiversidade para garantir a conservação das variedades existentes.\n\n(13) É apropriado estabelecer as condições de comercialização dos materiais destinados a ensaios, fins científicos ou trabalhos de selecção, na eventualidade de estes materiais não satisfazerem as normas habituais de qualidade e fitossanidade, em virtude da sua utilização especial.\n\n(14) Compete em primeiro lugar aos fornecedores de materiais de propagação ou de fruteiras garantir que os seus produtos preencham as condições previstas na presente directiva. É pois necessário definir o papel dos fornecedores e as condições que se lhes aplicam. Para o estabelecimento de um processo transparente e economicamente viável de certificação de materiais de propagação e de fruteiras, os fornecedores deverão estar registados oficialmente.\n\n(15) Os fornecedores que apenas comercializam os seus produtos a consumidores finais não profissionais podem ser dispensados da obrigação de registo.\n\n(16) O comprador de materiais de propagação e de fruteiras tem interesse em que seja conhecida a denominação da variedade e em que seja salvaguardada a sua identidade para permitir a rastreabilidade do sistema e aumentar a confiança no mercado.\n\n(17) Este objectivo pode ser mais bem concretizado quer por um conhecimento comum da variedade, em particular no que toca às variedades antigas, quer pela disponibilidade de uma descrição baseada nos protocolos do Instituto Comunitário das Variedades Vegetais (ICVV) ou, se estes não existirem, noutras normas nacionais ou internacionais.\n\n(18) Para garantir a identidade e a comercialização disciplinada do material de propagação e das fruteiras, deverão ser estabelecidas normas comunitárias no que diz respeito à separação dos lotes e à marcação. Os rótulos deverão fornecer as indicações necessárias para controlo oficial e para informação do utilizador.\n\n(19) Ao efectuarem os controlos e inspecções, as autoridades competentes dos Estados-Membros deverão garantir que estão satisfeitas as condições aplicáveis aos materiais de propagação ou às fruteiras e aos fornecedores. O nível, a intensidade e a frequência dessas inspecções deverão ser determinados tendo em conta a categoria dos materiais em causa.\n\n(20) Deverão ser previstas medidas comunitárias de controlo que garantam uma aplicação uniforme em todos os Estados-Membros das normas estabelecidas na presente directiva.\n\n(21) Deverão ser estabelecidas regras que, em caso de dificuldades de fornecimento temporárias causadas por catástrofes naturais, tais como incêndios e tempestades, ou circunstâncias imprevistas, permitam a comercialização de materiais de propagação e fruteiras sujeitos a exigências menos rigorosas do que as previstas na presente directiva durante um período limitado e desde que se respeitem determinadas condições.\n\n(22) Em conformidade com o princípio da proporcionalidade, deverá prever-se a possibilidade de os Estados-Membros dispensarem dos requisitos de rotulagem e dos controlos e inspecções oficiais os pequenos produtores cuja produção total e venda de material de propagação e de fruteiras tenha como destino final, no mercado local, pessoas que não façam profissão da produção de vegetais («circulação local»).\n\n(23) No que se refere aos géneros e espécies referidos no anexo I, os Estados-Membros deverão ser proibidos de impor novas condições ou restrições de comercialização, para além das previstas na presente directiva.\n\n(24) Deverá ser prevista a autorização de comercialização, na Comunidade, de materiais de propagação e fruteiras produzidos em países terceiros, desde que estes produtos ofereçam sempre as mesmas garantias que os materiais de propagação e fruteiras produzidos na Comunidade em conformidade com as normas comunitárias.\n\n(25) A fim de harmonizar as técnicas de controlo utilizadas nos Estados-Membros e de comparar os materiais de propagação e fruteiras produzidos na Comunidade com os produzidos em países terceiros, deverão ser efectuados ensaios comparativos que permitam verificar a conformidade destes produtos com as exigências da presente directiva.\n\n(26) A fim de evitar perturbações no comércio, convém permitir que os Estados-Membros deverão poder autorizar a comercialização, no seu território, durante um período transitório, de materiais certificados e materiais CAC (*Conformitas Agraria Communitatis*) colhidos de materiais de origem existentes e já certificados ou aceites como materiais CAC à data de aplicação da presente directiva, mesmo que esses materiais não satisfaçam as novas condições.\n\n(27) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0007)).\n\n(28) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito interno e de aplicação das directivas indicados na parte B do anexo II,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "821774873afb71ea": {
+   "fragment_id": "Artigo 19.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comité\n\n1. A Comissão é assistida pelo Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal instituído pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0008)). Esse Comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0009)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O Comité aprova o seu regulamento interno."
+  },
+  "6a409250ea55f55a": {
+   "fragment_id": "(a que se refere o artigo 22.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o artigo 22.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o artigo 22.º)\n\n| Directiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 92/34/CEE | 31 de Dezembro de 1992 | 31 de Dezembro de 1992 [(^1^)](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#E0010) |\n| 2003/61/CE | 10 de Outubro de 2003 |  |\n| 2003/111/CE | 31 de Outubro de 2004 |  |\n| (^1^)No que diz respeito aos artigos 5.º a 11.º, 14.º, 15.º, 17.º, 19.º e 24.º, a data de aplicação para cada género ou espécie referida no anexo II será adoptada de acordo com o procedimento previsto no artigo 21.º, ao ser elaborada a ficha a que se refere o artigo 4.º (ver n.º 2 do artigo 26.º da Directiva 92/34/CEE). |  |  |"
+  },
+  "1fe62c747a1769bc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0001)) Parecer emitido em 11 de Dezembro de 2007 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0002)) JO L 157 de 10.6.1992, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0003)) Ver parte A do anexo II.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0004)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0005)) JO L 106 de 17.4.2001, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0006)) JO L 268 de 18.10.2003, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0008)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4a5a9d55-45b8-4927-abd9-89f47a678eb0.0015.02/DOC_1#src.E0009)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  },
+  "c726e4c195713fe8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Setembro de 2008\n\nrelativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos\n\n(Versão reformulada)"
+  },
+  "9ef4ec03660895c3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Deve decidir-se, nos termos do n.º 2 do artigo 19.º, se o material de propagação e as fruteiras produzidos num país terceiro, e que ofereçam as mesmas garantias no que diz respeito às obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, modalidades de inspecção, marcação e selagem, são equivalentes em todos estes aspectos ao material de propagação e às fruteiras produzidos na Comunidade em conformidade com as exigências e condições previstas na presente directiva.\n\n2. Enquanto se aguarda a decisão a que se refere o n.º 1, os Estados-Membros podem, até [**►M3**](http://publications.europa.eu/resource/celex/32019D0120) 31 de dezembro de 2022**◄**, sem prejuízo do disposto na Directiva 2000/29/CE, aplicar à importação de material de propagação e de fruteiras provenientes de países terceiros condições pelo menos equivalentes às estabelecidas, numa base temporária ou permanente, nos requisitos específicos aprovados nos termos do artigo 4.º. No caso de essas condições não estarem previstas nos referidos requisitos específicos, as condições de importação devem ser pelo menos equivalentes às condições aplicáveis à produção no Estado-Membro em causa.\n\nEnquanto se aguarda a decisão a que se refere o n.º 1 do presente artigo, a data mencionada no primeiro parágrafo do presente número pode ser prorrogada para os diferentes países terceiros, nos termos do n.º 2 do artigo 19.º\n\nO material de propagação e as fruteiras importados por um Estado-Membro na sequência de uma decisão tomada por esse Estado-Membro nos termos do primeiro parágrafo não são sujeitos noutros Estados-Membros a quaisquer restrições de comercialização relativamente aos aspectos referidos no n.º 1."
+  },
+  "e47ea12f81a54e28": {
+   "fragment_id": "Artigo 19.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comité\n\n1. A Comissão é assistida pelo Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal instituído pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/4b7cb59f-4676-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#E0001)). Esse Comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/4b7cb59f-4676-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#E0002)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O Comité aprova o seu regulamento interno."
+  },
+  "e2db6e08184e388b": {
+   "fragment_id": "(a que se refere o artigo 22.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o artigo 22.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o artigo 22.º)\n\n| Directiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 92/34/CEE | 31 de Dezembro de 1992 | 31 de Dezembro de 1992 [(^1^)](http://publications.europa.eu/resource/cellar/4b7cb59f-4676-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#E0003) |\n| 2003/61/CE | 10 de Outubro de 2003 |  |\n| 2003/111/CE | 31 de Outubro de 2004 |  |\n| (^1^)No que diz respeito aos artigos 5.º a 11.º, 14.º, 15.º, 17.º, 19.º e 24.º, a data de aplicação para cada género ou espécie referida no anexo II será adoptada de acordo com o procedimento previsto no artigo 21.º, ao ser elaborada a ficha a que se refere o artigo 4.º (ver n.º 2 do artigo 26.º da Directiva 92/34/CEE). |  |  |"
+  },
+  "f04fb3aa1e427de1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4b7cb59f-4676-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4b7cb59f-4676-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  },
+  "f54021135ea4bfb4": {
+   "fragment_id": "Artigo 3.º — Requisitos gerais aplicáveis à colocação no mercado",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos gerais aplicáveis à colocação no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos gerais aplicáveis à colocação no mercado\n\n1.\n\nO material de propagação e as fruteiras só podem ser comercializados se:\n\na) O material de propagação tiver sido oficialmente certificado como «material pré-básico», «material básico» ou «material certificado» ou se preencher as condições para ser qualificado como material CAC;\n\nb) As fruteiras tiverem sido oficialmente certificadas como «material certificado» ou preencherem as condições para serem qualificadas como material CAC.\n\n2. Os materiais de propagação e fruteiras constituídos por um organismo geneticamente modificado, na acepção dos pontos 1 e 2 do artigo 2.º da Directiva 2001/18/CE, só são colocados no mercado se o organismo geneticamente modificado tiver sido autorizado em conformidade com a referida directiva ou com o Regulamento (CE) n.º 1829/2003.\n\n3. Quando os produtos derivados de fruteiras ou materiais de propagação se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003, o material de propagação e a fruteira em causa só são colocados no mercado se o género alimentício ou o alimento para animais derivado desses materiais tiverem sido autorizados em conformidade com o referido regulamento.\n\n4.\n\nNão obstante o n.º 1, os Estados-Membros podem autorizar os fornecedores estabelecidos nos seus territórios a colocar no mercado as quantidades adequadas de materiais de propagação e fruteiras destinados a:\n\na) Ensaios ou fins científicos;\n\nb) Trabalhos de selecção; ou\n\nc) Ajudar a preservar a diversidade genética.\n\nAs condições em que os Estados-Membros podem conceder essa autorização podem ser aprovadas nos termos do n.º 2 do artigo 19.º"
+  },
+  "3183169cc33d0f1e": {
+   "fragment_id": "Artigo 6.º — Requisitos específicos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos específicos\n\n1.\n\nOs Estados-Membros devem assegurar que os materiais pré-básicos, básicos e certificados, bem como o material CAC, sejam produzidos sob a responsabilidade de fornecedores que estejam implicados na produção ou na reprodução de materiais de propagação e de fruteiras. Para tal, esses fornecedores devem:\n\n— identificar e controlar os pontos críticos do seu processo de produção que influenciam a qualidade do material,\n\n— conservar informações sobre os controlos a que se refere o primeiro travessão para exame, a pedido do organismo oficial responsável,\n\n— recolher amostras, sempre que necessário, para análise num laboratório, e\n\n— garantir que, ao longo da produção, os lotes de material de propagação se mantenham identificáveis separadamente.\n\n2. Os Estados-Membros devem assegurar que, se, nas instalações de um fornecedor, surgir um organismo prejudicial enumerado nos anexos da Directiva 2000/29/CE ou em quaisquer requisitos específicos estabelecidos nos termos do artigo 4.º da presente directiva num nível superior ao permitido nesses requisitos, o fornecedor comunique esse facto ao organismo oficial responsável sem demora, não obstante as obrigações de comunicação previstas na Directiva 2000/29/CE, e aplique todas as medidas prescritas por aquele organismo.\n\n3. Os Estados-Membros devem assegurar que, quando os materiais de propagação ou as fruteiras forem comercializados, os fornecedores conservem os registos das suas vendas ou compras durante, pelo menos, três anos.\n\nO primeiro parágrafo não se aplica aos fornecedores dispensados de registo ao abrigo do n.º 2 do artigo 5.º\n\n4. As medidas de execução do n.º 1 podem ser aprovadas nos termos do n.º 2 do artigo 19.º"
+  },
+  "583d81f09ed6e146": {
+   "fragment_id": "Artigo 7.º — Identificação da variedade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Identificação da variedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Identificação da variedade\n\n1. Os materiais de propagação e as fruteiras devem ser comercializados com uma referência à variedade a que pertencem. No caso dos porta-enxertos, se o material não pertencer a uma variedade, deve referir-se a espécie ou o híbrido interespecífico em causa.\n\n2.\n\nAs variedades a que se faça referência nos termos do n.º 1 devem ser:\n\na) Legalmente protegidas por um direito de obtenção de acordo com as disposições relativas à protecção das novas variedades;\n\nb) Oficialmente registadas nos termos do n.º 4; ou\n\nc) Do conhecimento geral. Considera-se que uma variedade é do conhecimento geral se:\n\ni) tiver sido oficialmente registada noutro Estado-Membro,\n\nii) for objecto de um pedido de registo oficial em qualquer Estado-Membro, ou de um pedido de direito de obtenção a que se refere a alínea a), ou\n\niii) já tiver sido comercializada antes de 30 de Setembro de 2012 no território do Estado-Membro em causa ou de outro Estado-Membro, desde que tenha uma descrição oficialmente reconhecida.\n\n3. Tanto quanto possível, cada variedade deve ter a mesma designação em todos os Estados-Membros, em conformidade com medidas de execução que possam vir a ser aprovadas nos termos do n.º 2 do artigo 19.º ou, na sua ausência, em conformidade com directrizes internacionais aceites.\n\n4. As variedades podem ser oficialmente registadas se se considerar que preenchem determinadas condições aprovadas oficialmente e se estiverem oficialmente descritas. Podem igualmente ser oficialmente registadas se o respectivo material já tiver sido comercializado antes de 30 de Setembro de 2012 no território do Estado-Membro em causa, desde que tenham uma descrição oficialmente reconhecida.\n\nAs variedades geneticamente modificadas só podem ser oficialmente registadas se o organismo geneticamente modificado de que são constituídas tiver sido autorizado em conformidade com a Directiva 2001/18/CE ou com o Regulamento (CE) n.º 1829/2003.\n\nQuando os produtos derivados de fruteiras ou materiais de propagação se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003, a variedade em causa só deve ser oficialmente registada se o género alimentício ou o alimento para animais derivado desses materiais tiverem sido autorizados em conformidade com o referido regulamento.\n\n5.\n\nAs exigências de registo oficial a que se faz referência no n.º 4 devem ser estabelecidas nos termos do n.º 2 do artigo 19.º, tendo em conta o avanço dos conhecimentos científicos e técnicos, e devem abranger:\n\na) As condições de registo oficial, que podem incluir, nomeadamente, a distinção, a estabilidade e uma homogeneidade suficiente;\n\nb) As características mínimas que devem ser objecto do exame das várias espécies;\n\nc) As exigências mínimas para realização dos exames;\n\nd) O prazo máximo de validade do registo oficial de uma variedade.\n\n6.\n\nNos termos do n.º 2 do artigo 19.º:\n\n— pode estabelecer-se um sistema de notificação das variedades ou espécies ou híbridos interespecíficos aos organismos oficiais responsáveis dos Estados-Membros,\n\n— pode decidir-se que seja elaborada e publicada uma lista comum das variedades elegíveis para certificação."
+  },
+  "934219ab8c04efe5": {
+   "fragment_id": "Artigo 9.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rotulagem\n\n1.\n\nOs materiais de propagação e as fruteiras apenas devem ser comercializados em lotes suficientemente homogéneos, e se forem:\n\na) Qualificados como materiais CAC e acompanhados de um documento redigido pelo fornecedor, em conformidade com os requisitos específicos estabelecidos nos termos do artigo 4.º. Caso este documento contenha uma declaração oficial, esta deve ficar claramente separada das outras partes do documento; ou\n\nb) Qualificados como material pré-básico, básico ou certificado e declarados como tal pelo organismo oficial responsável, em conformidade com os requisitos específicos estabelecidos nos termos do artigo 4.º\n\n2. No fornecimento a retalho de materiais de propagação e fruteiras a consumidores finais não profissionais, os requisitos relativos à rotulagem a que se refere o n.º 1 podem ser limitados a informações adequadas sobre o produto.\n\n3. No caso de materiais de propagação ou fruteiras de uma variedade que tenha sido modificada geneticamente, qualquer rótulo aposto no material de propagação e qualquer documento que o acompanhe por força das disposições da presente directiva, oficial ou não, devem indicar claramente que a variedade foi geneticamente modificada e identificar os organismos geneticamente modificados."
+  },
+  "9f06ab9b2003ac21": {
+   "fragment_id": "Artigo 10.º — Circulação local",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Circulação local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Circulação local\n\n1.\n\nOs Estados-Membros podem dispensar:\n\na) Da aplicação do n.º 1 do artigo 9.º os pequenos produtores cuja produção total e venda de material de propagação e de fruteiras tenha como destino final, no mercado local, pessoas que não façam profissão da produção de vegetais («circulação local»);\n\nb) Dos controlos e inspecções oficiais previstos no artigo 13.º a circulação local de material de propagação e fruteiras produzidos pelos cultivadores isentos ao abrigo da alínea anterior.\n\n2. Nos termos do n.º 2 do artigo 19.º, podem ser aprovadas regras de execução relativas a outras exigências referentes às dispensas mencionadas no n.º 1 do presente artigo, em especial no que se refere às noções de «pequenos produtores» e «mercado local» e aos procedimentos que lhes dizem respeito."
+  },
+  "c8c503f24b1db2eb": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Deve decidir-se, nos termos do n.º 2 do artigo 19.º, se o material de propagação e as fruteiras produzidos num país terceiro, e que ofereçam as mesmas garantias no que diz respeito às obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, modalidades de inspecção, marcação e selagem, são equivalentes em todos estes aspectos ao material de propagação e às fruteiras produzidos na Comunidade em conformidade com as exigências e condições previstas na presente directiva.\n\n2. Enquanto se aguarda a decisão a que se refere o n.º 1, os Estados-Membros podem, até [**►M4**](http://publications.europa.eu/resource/celex/32022D1933) 31 de dezembro de 2025**◄**, sem prejuízo do disposto na Directiva 2000/29/CE, aplicar à importação de material de propagação e de fruteiras provenientes de países terceiros condições pelo menos equivalentes às estabelecidas, numa base temporária ou permanente, nos requisitos específicos aprovados nos termos do artigo 4.º. No caso de essas condições não estarem previstas nos referidos requisitos específicos, as condições de importação devem ser pelo menos equivalentes às condições aplicáveis à produção no Estado-Membro em causa.\n\nEnquanto se aguarda a decisão a que se refere o n.º 1 do presente artigo, a data mencionada no primeiro parágrafo do presente número pode ser prorrogada para os diferentes países terceiros, nos termos do n.º 2 do artigo 19.º\n\nO material de propagação e as fruteiras importados por um Estado-Membro na sequência de uma decisão tomada por esse Estado-Membro nos termos do primeiro parágrafo não são sujeitos noutros Estados-Membros a quaisquer restrições de comercialização relativamente aos aspectos referidos no n.º 1."
+  },
+  "f4013244afb93c77": {
+   "fragment_id": "Artigo 14.º — Vigilância comunitária",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Vigilância comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vigilância comunitária\n\n1. Devem efectuar-se nos Estados-Membros ensaios ou, eventualmente, testes em amostras, a fim de verificar a conformidade do material de propagação e das fruteiras com as exigências e condições da presente directiva, incluindo as de carácter fitossanitário. A Comissão pode organizar inspecções aos ensaios, a efectuar por representantes dos Estados-Membros e da Comissão.\n\n2.\n\nPodem ser efectuados na Comunidade ensaios e testes comparativos comunitários para o controlo ulterior de amostras de material de propagação ou de fruteiras colocados no mercado ao abrigo das disposições, compulsivas ou facultativas e inclusivamente fitossanitárias, da presente directiva. Os ensaios e testes comparativos podem incluir o seguinte:\n\n— material de propagação ou fruteiras produzidos em países terceiros,\n\n— material de propagação ou fruteiras próprios para a agricultura biológica,\n\n— material de propagação ou fruteiras comercializados no âmbito de medidas destinadas a contribuir para a preservação da diversidade genética.\n\n3. Os ensaios e testes comparativos referidos no n.º 2 devem ser utilizados para harmonizar os métodos técnicos de análise de material de propagação e de fruteiras e verificar a observância das condições a que esse material deve obedecer.\n\n4. A Comissão, deliberando nos termos do n.º 2 do artigo 19.º, toma as disposições necessárias para a realização dos ensaios e testes comparativos. A Comissão deve informar o comité referido no n.º 2 do artigo 19.º sobre as disposições técnicas relativas à realização dos ensaios e testes e respectivos resultados. Sempre que surjam problemas fitossanitários, a Comissão deve notificar o facto ao Comité Fitossanitário Permanente.\n\n5. A Comunidade pode contribuir financeiramente para a realização dos ensaios e testes referidos nos n.^os^ 2 e 3.\n\nA contribuição financeira não deve exceder as dotações anuais estabelecidas pela autoridade orçamental.\n\n6. Os ensaios e testes que podem beneficiar de apoio financeiro da Comunidade, bem como as normas pormenorizadas para a concessão da contribuição financeira, são estabelecidos nos termos do n.º 2 do artigo 19.º\n\n7. Os ensaios e testes previstos nos n.^os^ 2 e 3 apenas podem ser efectuados por autoridades estatais ou por pessoas colectivas agindo sob a responsabilidade do Estado."
+  },
+  "c41e5da0313e65af": {
+   "fragment_id": "Artigo 19.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comité\n\n1. A Comissão é assistida pelo Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal instituído pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#E0001)). Esse Comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#E0002)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n4. O Comité aprova o seu regulamento interno."
+  },
+  "a77c2396ba57c89f": {
+   "fragment_id": "Lista de géneros e espécies a que é aplicável a presente directiva",
+   "type": "divisao",
+   "heading": "Lista de géneros e espécies a que é aplicável a presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de géneros e espécies a que é aplicável a presente directiva"
+  },
+  "805e4da9b993e748": {
+   "fragment_id": "(a que se refere o artigo 22.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o artigo 22.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o artigo 22.º)\n\n| Directiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 92/34/CEE | 31 de Dezembro de 1992 | 31 de Dezembro de 1992 [(^1^)](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#E0003) |\n| 2003/61/CE | 10 de Outubro de 2003 |  |\n| 2003/111/CE | 31 de Outubro de 2004 |  |\n| (^1^) No que diz respeito aos artigos 5.º a 11.º, 14.º, 15.º, 17.º, 19.º e 24.º, a data de aplicação para cada género ou espécie referida no anexo II será adoptada de acordo com o procedimento previsto no artigo 21.º, ao ser elaborada a ficha a que se refere o artigo 4.º (ver n.º 2 do artigo 26.º da Directiva 92/34/CEE). |  |  |"
+  },
+  "9fa360beff5c1eb3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  }
+ }
+}

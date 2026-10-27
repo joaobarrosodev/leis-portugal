@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:1237821:por
+title: Portaria n.º 1839/2001 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 1839/2001(2.ªsérie)
+official_date: null
+publication_date: '2001-11-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 262/2001, Série II de 2001-11-12
+  number: '262'
+  series: II
+  supplement: null
+  pages: 18693 - 18693
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/11/262000000/1869318693.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1237821'
+  dre_path: /dr/detalhe/portaria/1839-2001-1237821
+  internal: pt:dre:1237821:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1839-2001-1237821
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1839-2001-1237821
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e7fe121a32f9ede8861eb66a1f16346440841c81d444c6fe35255274391c9963
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:19:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Inatel
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:19:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1839/2001 (2.ª série)
+
+Portaria n.º 1839/2001 (2.ª série). - Considerando que o Instituto Nacional para o Aproveitamento dos Tempos Livres dos Trabalhadores (INATEL), organismo de autonomia administrativa e financeira, tem necessidade de promover a aquisição de serviços de impressão da revista Tempo Livre;
+
+Considerando o disposto no artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho:
+
+Manda o Governo, pelos Ministros do Trabalho e da Solidariedade e das Finanças, o seguinte:
+
+1.º É autorizada a direcção do INATEL, a contrair encargos decorrentes do processo relativo à celebração do contrato de aquisição dos serviços acima mencionados, até ao montante de Euro 795 000 (159 383 190$00), a que acresce o valor correspondente ao IVA.
+
+2.º Os encargos resultantes da execução do presente contrato ocorrerão no ano económico de 2002.
+
+3.º Os encargos resultantes da presente portaria serão satisfeitos pelas adequadas verbas a inscrever no orçamento do INATEL, para o ano de 2002.
+
+17 de Outubro de 2001. - O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.

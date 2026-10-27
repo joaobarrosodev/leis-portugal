@@ -1,0 +1,211 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:619714:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-163007278",
+ "dre_path": "/dr/detalhe/decreto-lei/219-1989-619714",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-07-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "163011961",
+    "163011876",
+    "163011877",
+    "163011878",
+    "163011879"
+   ]
+  },
+  {
+   "date": "1996-09-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:241227:por",
+     "title": "Decreto-Lei n.º 158/96",
+     "published": "1996-09-03",
+     "dre_path": "/dr/detalhe/decreto-lei/158-1996-241227"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "163011875",
+    "163011958",
+    "163011959",
+    "163011960",
+    "163011879",
+    "163011880"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "163011961",
+    "163011962",
+    "163011963",
+    "163011964",
+    "163011965",
+    "163011966"
+   ]
+  }
+ ],
+ "fragments": {
+  "163011961": {
+   "fragment_id": "163007279",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 219/89\n\nde 4 de Julho\n\nTorna-se necessário proceder a um ajustamento do exercício da função de presidente da Junta do Crédito Público às novas atribuições que lhe foram conferidas pelo Decreto-Lei n.º 453/88, de 13 de Dezembro, ou seja, ao exercício inerente das funções de presidente do Fundo de Regularização da Dívida Pública.\n\nO presente diploma, ao introduzir algumas alterações ao Decreto-Lei n.º 76/83, de 8 de Fevereiro, prossegue esse objectivo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "163011876": {
+   "fragment_id": "163007280",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A Junta do Crédito Público é um órgão colegial composto pelo presidente e três vogais.\n\n2 - O presidente é nomeado, para um mandato de três anos, renovável, por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.\n\n3 - O exercício de funções de presidente da Junta do Crédito Público não confere quaisquer direitos como funcionário ou agente da Administração Pública.\n\n4 - Os vogais são designados, para um mandato de três anos, por despacho do Ministro das Finanças, sendo um deles, por inerência, o director-geral da Junta do Crédito Público.\n\n5 - Cada um dos vogais terá um substituto designado nos termos do número anterior, sendo o vogal director-geral substituído pelo subdirector-geral da mesma Junta.\n\n6 - O presidente e os vogais da Junta auferirão remuneração a fixar por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças."
+  },
+  "163011877": {
+   "fragment_id": "163007281",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A Junta funciona com a maioria dos seus membros.\n\n2 - As deliberações são tomadas em sessão, por maioria de votos, cabendo ao presidente voto de qualidade."
+  },
+  "163011878": {
+   "fragment_id": "163007282",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCompete ao presidente da Junta:\n\na) Assegurar a representação externa da Junta;\n\nb) Participar na elaboração do Programa da Dívida Pública (PDP) e contribuir para a sua boa gestão, na parte da dívida interna;\n\nc) Exercer o controlo do desempenho das atribuições e competências fixadas para a Junta pelo Decreto-Lei n.º 76/83, de 8 de Fevereiro;\n\nd) Exercer, por inerência, as funções de presidente do Fundo de Regularização da Dívida Pública, nos termos da alínea a) do n.º 1 do artigo 6.º do Decreto-Lei n.º 453/88, de 13 de Dezembro."
+  },
+  "163011879": {
+   "fragment_id": "163007283",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ revogado o artigo 2.º do Decreto-Lei n.º 76/83, de 8 de Fevereiro."
+  },
+  "163011875": {
+   "fragment_id": "163007279",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 219/89\n\nde 4 de Julho\n\nTorna-se necessário proceder a um ajustamento do exercício da função de presidente da Junta do Crédito Público às novas atribuições que lhe foram conferidas pelo Decreto-Lei n.º 453/88, de 13 de Dezembro, ou seja, ao exercício inerente das funções de presidente do Fundo de Regularização da Dívida Pública.\n\nO presente diploma, ao introduzir algumas alterações ao Decreto-Lei n.º 76/83, de 8 de Fevereiro, prossegue esse objectivo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "163011958": {
+   "fragment_id": "163007280",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1996-09-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A Junta do Crédito Público é um órgão colegial composto pelo presidente e três vogais.\n\n2 - O presidente é nomeado, para um mandato de três anos, renovável, por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.\n\n3 - O exercício de funções de presidente da Junta do Crédito Público não confere quaisquer direitos como funcionário ou agente da Administração Pública.\n\n4 - Os vogais são designados, para um mandato de três anos, por despacho do Ministro das Finanças, sendo um deles, por inerência, o director-geral da Junta do Crédito Público.\n\n5 - Cada um dos vogais terá um substituto designado nos termos do número anterior, sendo o vogal director-geral substituído pelo subdirector-geral da mesma Junta.\n\n6 - O presidente e os vogais da Junta auferirão remuneração a fixar por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+  },
+  "163011959": {
+   "fragment_id": "163007281",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1996-09-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A Junta funciona com a maioria dos seus membros.\n\n2 - As deliberações são tomadas em sessão, por maioria de votos, cabendo ao presidente voto de qualidade.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+  },
+  "163011960": {
+   "fragment_id": "163007282",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1996-09-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+   ],
+   "markdown": "###### Artigo 3.º\n\nCompete ao presidente da Junta:\n\na) Assegurar a representação externa da Junta;\n\nb) Participar na elaboração do Programa da Dívida Pública (PDP) e contribuir para a sua boa gestão, na parte da dívida interna;\n\nc) Exercer o controlo do desempenho das atribuições e competências fixadas para a Junta pelo Decreto-Lei n.º 76/83, de 8 de Fevereiro;\n\nd) Exercer, por inerência, as funções de presidente do Fundo de Regularização da Dívida Pública, nos termos da alínea a) do n.º 1 do artigo 6.º do Decreto-Lei n.º 453/88, de 13 de Dezembro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+  },
+  "163011880": {
+   "fragment_id": "163007284",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 22 de Junho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Junho de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "163011962": {
+   "fragment_id": "163007280",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A Junta do Crédito Público é um órgão colegial composto pelo presidente e três vogais.\n\n2 - O presidente é nomeado, para um mandato de três anos, renovável, por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.\n\n3 - O exercício de funções de presidente da Junta do Crédito Público não confere quaisquer direitos como funcionário ou agente da Administração Pública.\n\n4 - Os vogais são designados, para um mandato de três anos, por despacho do Ministro das Finanças, sendo um deles, por inerência, o director-geral da Junta do Crédito Público.\n\n5 - Cada um dos vogais terá um substituto designado nos termos do número anterior, sendo o vogal director-geral substituído pelo subdirector-geral da mesma Junta.\n\n6 - O presidente e os vogais da Junta auferirão remuneração a fixar por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+  },
+  "163011963": {
+   "fragment_id": "163007281",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A Junta funciona com a maioria dos seus membros.\n\n2 - As deliberações são tomadas em sessão, por maioria de votos, cabendo ao presidente voto de qualidade.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+  },
+  "163011964": {
+   "fragment_id": "163007282",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+   ],
+   "markdown": "###### Artigo 3.º\n\nCompete ao presidente da Junta:\n\na) Assegurar a representação externa da Junta;\n\nb) Participar na elaboração do Programa da Dívida Pública (PDP) e contribuir para a sua boa gestão, na parte da dívida interna;\n\nc) Exercer o controlo do desempenho das atribuições e competências fixadas para a Junta pelo Decreto-Lei n.º 76/83, de 8 de Fevereiro;\n\nd) Exercer, por inerência, as funções de presidente do Fundo de Regularização da Dívida Pública, nos termos da alínea a) do n.º 1 do artigo 6.º do Decreto-Lei n.º 453/88, de 13 de Dezembro.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 158/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), em vigor a partir de 1996-09-08"
+  },
+  "163011965": {
+   "fragment_id": "163007283",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\nÉ revogado o artigo 2.º do Decreto-Lei n.º 76/83, de 8 de Fevereiro.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "163011966": {
+   "fragment_id": "163007284",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Maio de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 22 de Junho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Junho de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

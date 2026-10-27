@@ -1,0 +1,2593 @@
+---
+schema_version: '1.0'
+id: pt:dre:540016:por
+title: Decreto-Lei n.º 178/2006
+short_title: null
+summary: Aprova o regime geral da gestão de resíduos, transpondo para a ordem jurídica interna a Directiva n.º 2006/12/CE,
+  do Parlamento Europeu e do Conselho, de 5 de Abril, e a Directiva n.º 91/689/CEE, do Conselho, de 12 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 178/2006
+official_date: null
+publication_date: '2006-09-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/2006, Série I de 2006-09-05
+  number: '171'
+  series: I
+  supplement: null
+  pages: 6526 - 6545
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17100/65266545.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes:
+- O Decreto-Lei n.º 178/2006, de 05 de setembro, vigorou até dia 30 de junho de 2021, uma vez que no dia 01 de julho, produz
+  efeitos a revogação operada pelo Decreto-Lei n.º 102-D/2020, de 10 de dezembro (com exceção do n.º 2 do artigo 5.º, que
+  se mantém em vigor até 31.12.2021).
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-04-17'
+version_history:
+  file: decreto-lei-178-2006.versoes.json
+  count: 14
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-06-18'
+    amending: pt:dre:670034:por
+    amending_title: Decreto-Lei n.º 73/2011
+    changes:
+    - Adita Artigo 10.º-A
+  - date: '2008-08-31'
+    amending: pt:dre:453550:por
+    amending_title: Decreto-Lei n.º 173/2008
+    changes:
+    - Entrada Vigor Diploma
+    - Revoga Artigo 41.º
+  - date: '2009-01-01'
+    amending: pt:dre:243747:por
+    amending_title: Lei n.º 64-A/2008
+    changes:
+    - Altera Artigo 58.º
+    - Altera Artigo 60.º
+    - Entrada Vigor Diploma
+  - date: '2009-08-15'
+    amending: pt:dre:493485:por
+    amending_title: Decreto-Lei n.º 183/2009
+    changes:
+    - Altera Artigo 76.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 53.º
+  - date: '2011-06-18'
+    amending: pt:dre:670034:por
+    amending_title: Decreto-Lei n.º 73/2011
+    changes:
+    - Adita Artigo 17.º-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 21.º-A
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+    - Adita Artigo 26.º-A
+    - Adita Artigo 31.º-A
+    - Adita Artigo 41.º-A
+    - Adita Artigo 41.º-B
+    - Adita Artigo 41.º-C
+    - Adita Artigo 42.º-A
+    - Adita Capítulo IV
+    - Adita Artigo 44.º-A
+    - Adita Artigo 44.º-B
+    - Adita Artigo 49.º-A
+    - Adita Artigo 49.º-B
+    - Adita Artigo 51.º-A
+    - Adita Artigo 59.º-A
+    - Adita Artigo 72.º-A
+    - Adita Artigo 75.º-A
+    - Adita Anexo I
+    - Adita Anexo II
+    - Adita Anexo III
+    - Adita Anexo IV
+    - Adita Anexo V
+    - Adita Anexo VI
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Capítulo II
+  - date: '2013-08-31'
+    amending: pt:dre:499546:por
+    amending_title: Decreto-Lei n.º 127/2013
+    changes:
+    - Altera Artigo 32.º
+    - Revoga Artigo 56.º
+  - date: '2015-01-05'
+    amending: pt:dre:66022084:por
+    amending_title: Lei n.º 82-D/2014
+    changes:
+    - Altera Artigo 58.º
+  - date: '2015-06-01'
+    amending: pt:dre:67185043:por
+    amending_title: Decreto-Lei n.º 75/2015
+    changes:
+    - Altera Artigo 42.º
+  - date: '2015-08-14'
+    amending: pt:dre:67485179:por
+    amending_title: Decreto-Lei n.º 103/2015
+    changes:
+    - Altera Artigo 67.º
+    - Revoga Artigo 22.º-B
+  - date: '2016-03-31'
+    amending: pt:dre:73958532:por
+    amending_title: Lei n.º 7-A/2016
+    changes:
+    - Altera Artigo 58.º
+  - date: '2016-11-05'
+    amending: pt:dre:75662181:por
+    amending_title: Decreto-Lei n.º 71/2016
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 10.º-A
+    - Altera Artigo 20.º
+    - Altera Artigo 44.º
+    - Altera Artigo 50.º
+    - Altera Anexo II
+  - date: '2018-01-01'
+    amending: pt:dre:114337042:por
+    amending_title: Decreto-Lei n.º 152-D/2017
+    changes:
+    - Altera Artigo 67.º
+  - date: '2021-01-01'
+    amending: pt:dre:152639825:por
+    amending_title: Lei n.º 75-B/2020; Decreto-Lei n.º 92/2020
+    changes:
+    - Altera Artigo 58.º
+    - Altera Artigo 60.º
+    - Altera Artigo 76.º
+  - date: '2021-04-17'
+    amending: pt:dre:162834698:por
+    amending_title: Declaração de Retificação n.º 14/2021; Lei n.º 20/2021
+    changes:
+    - Altera Artigo 58.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/178/2006/p/cons/20210506/pt/html
+  oj: null
+  dre: '540016'
+  dre_path: /dr/detalhe/decreto-lei/178-2006-540016
+  internal: pt:dre:540016:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016
+  metadata_url: https://data.dre.pt/eli/dec-lei/178/2006/p/cons/20210506/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34530275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34530275
+  retrieved_at: '2026-10-22T11:50:06Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f6e8f2742d774e2887dde6b33c0474b8dbb56bbf8aefa549c23c77a02b3e20f7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:50:06Z'
+  notes: 14 versão(ões); histórico completo em decreto-lei-178-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Gestão de Resíduos
+- Multa
+- Comissão de Acompanhamento
+- Gestão Financeira
+- Contra-ordenação
+- Criação de Serviços
+- Fiscalização
+- Autoridade Nacional dos Resíduos
+- Comissão de Acompanhamento da Gestão de Resíduos
+- Transporte de Resíduos
+- Licenciamento
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Tratamento de Resíduos
+- Política do Ambiente
+- Sistema de Informação
+- Madeira.região Autónoma
+- Açores
+- Eliminação de Resíduos
+- Sirer
+- TAXA de Prestação de Serviços
+- Comércio
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:453550:por
+  label: Entrada Vigor Diploma; Revoga Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2008-453550
+  date: '2008-08-26'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: Altera Artigo 58.º; Altera Artigo 60.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:493485:por
+  label: Altera Artigo 76.º; Entrada Vigor Diploma; Revoga Artigo 53.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2009-493485
+  date: '2009-08-10'
+- type: amended_by
+  target: pt:dre:670034:por
+  label: Adita Artigo 10.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034
+  date: '2011-06-17'
+- type: amended_by
+  target: pt:dre:499546:por
+  label: Altera Artigo 32.º; Revoga Artigo 56.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Altera Artigo 58.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:67185043:por
+  label: Altera Artigo 42.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2015-67185043
+  date: '2015-05-11'
+- type: amended_by
+  target: pt:dre:67485179:por
+  label: Altera Artigo 67.º; Revoga Artigo 22.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2015-67485179
+  date: '2015-06-15'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Altera Artigo 58.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:75662181:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo 10.º-A; Altera Artigo 20.º; Altera Artigo
+    44.º; Altera Artigo 50.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181
+  date: '2016-11-04'
+- type: amended_by
+  target: pt:dre:114337042:por
+  label: Altera Artigo 67.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
+- type: amended_by
+  target: pt:dre:146240980:por
+  label: Altera Artigo 58.º; Altera Artigo 60.º; Altera Artigo 76.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2020-146240980
+  date: '2020-10-23'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Altera Artigo 58.º; Altera Artigo 60.º; Altera Artigo 76.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:161518655:por
+  label: Altera Artigo 58.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2021-161518655
+  date: '2021-04-16'
+- type: amended_by
+  target: pt:dre:162834698:por
+  label: Altera Artigo 58.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2021-162834698
+  date: '2021-05-06'
+- type: cites
+  target: celex:31975L0442
+  label: null
+  source: http://data.europa.eu/eli/dir/1975/442/oj
+- type: cites
+  target: celex:31991L0156
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/156/oj
+- type: cites
+  target: celex:31991L0689
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/689/oj
+- type: cites
+  target: celex:31996L0061
+  label: null
+  source: null
+- type: cites
+  target: celex:32006L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/12/oj
+- type: cites
+  target: celex:32006R1013
+  label: null
+  source: null
+- type: cites
+  target: celex:32006R1907
+  label: null
+  source: null
+- type: cites
+  target: celex:32008R1272
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R0790
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R1069
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R1357
+  label: null
+  source: null
+- type: transposes
+  target: celex:32008L0098
+  label: null
+  source: null
+article_structure:
+  article_count: 101
+  section_count: 27
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:50:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 178/2006
+
+1 - O regime jurídico de gestão de resíduos foi pela primeira vez aprovado em Portugal por meio do Decreto-Lei n.º 488/85, de 25 de Novembro. A evolução rápida do direito comunitário - com a alteração da Directiva n.º <a href="eurlex.asp?ano=1975&id=375L0442" title="Link para Directiva da Comunidade Europeia">75/442/CEE</a>, do Conselho, de 15 de Julho, pela Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0156" title="Link para Directiva da Comunidade Europeia">91/156/CEE</a>, do Conselho, de 18 de Março, e a aprovação da Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0689" title="Link para Directiva da Comunidade Europeia">91/689/CEE</a>, do Conselho, de 12 de Dezembro - determinaria a revogação daquele diploma pelo Decreto-Lei n.º 310/95, de 20 de Novembro, e, mais tarde, a revogação deste pelo Decreto-Lei n.º 239/97, de 9 de Setembro, actualmente em vigor.
+
+Vários factores concorrem para a necessidade de aprovar um novo regime jurídico para a gestão de resíduos que substitua este último regime de 1997. Desde logo, avulta a de transpor para o ordenamento jurídico interno a Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0012" title="Link para Directiva da Comunidade Europeia">2006/12/CE</a>, do Parlamento Europeu e do Conselho, de 5 de Abril, codificadora da dispersa regulamentação comunitária sobre resíduos. Essa codificação, por seu turno, reflecte a evolução do direito e da ciência que nesta área atingiu, no quadro europeu, a estabilidade suficiente para consagrar agora no ordenamento jurídico nacional um conjunto de princípios rectores da maior importância em matéria de gestão de resíduos. É o que se verifica relativamente à noção da auto-suficiência, ao princípio da prevenção, à prevalência da valorização dos resíduos sobre a sua eliminação e, no âmbito daquela, ao estabelecimento de uma preferência tendencial pela reutilização sobre a reciclagem, e de uma preferência tendencial da reciclagem sobre a recuperação energética.
+
+A necessidade de minimizar a produção de resíduos e de assegurar a sua gestão sustentável transformou-se, entretanto, numa questão de cidadania. Existe uma consciência cada vez mais clara de que a responsabilidade pela gestão dos resíduos deve ser partilhada pelo todo da colectividade: do produtor de um bem ao cidadão consumidor, do produtor do resíduo ao detentor, dos operadores de gestão às autoridades administrativas reguladoras. No que diz respeito aos custos inerentes à gestão de resíduos, a afirmação crescente do princípio do «poluidor-pagador» tem vindo a determinar a responsabilização prioritária dos produtores de bens de consumo, dos produtores de resíduos ou dos detentores. No campo da valorização energética, o Decreto-Lei n.º 85/2005, de 28 de Abril, que regula a incineração e co-incineração de resíduos perigosos e não perigosos, havia já feito eco da importância dada à recuperação energética dos resíduos ao determinar a aplicação dos mesmos valores limite às emissões geradas por estas operações independentemente do tipo de resíduos em causa, uma vez que a distinção entre resíduos perigosos e resíduos não perigosos se baseia essencialmente nas propriedades que possuem antes da sua valorização energética e não nas diferenças de emissões que estão associadas a essa valorização.
+
+O panorama do sector dos resíduos sofreu ainda outras transformações desde a aprovação do Decreto-Lei n.º 239/97, de 9 de Setembro.
+
+Por um lado, aceitava-se então que a actuação do Estado se cingisse à fórmula tradicional do «comando e controlo», concretizada na elaboração pública de planos e na sujeição das operações de gestão de resíduos a um procedimento de autorização prévia. Contudo, uma análise dos impactes produzidos por esse modelo de relação de autoridade estabelecido entre administração e administrado, empregue sem amparo de outros instrumentos de diferente natureza, veio revelar que o mesmo foi até hoje insuficiente - dir-se-á, ineficiente e ineficaz à luz dos custos por si gerados - para assegurar a concretização dos princípios e objectivos então vigentes na matéria. Esse modelo regulatório carece de flexibilidade para acompanhar uma inovação tecnológica imparável e uma incontornável diminuição da capacidade de carga do meio ambiente para acolher os resíduos gerados pela sociedade.
+
+Por outro lado, os compromissos internacionais e comunitários assumidos pelo Estado Português vieram elevar a exigência dos objectivos ambientais a atingir, como bem ilustra a necessidade comunitária de restringir drasticamente e num curto espaço de tempo o volume de resíduos depositados em aterro. Não resta, por isso, outra alternativa que não seja a de alargar o leque de instrumentos técnicos, jurídicos e económicos a empregar na composição de uma política pública para os resíduos de forma a que os mesmos não constituam perigo ou causem prejuízo para a saúde humana ou para o ambiente.
+
+2 - No domínio da regulação, presta-se especial atenção ao planeamento da gestão de resíduos, uma tarefa indeclinável para o Estado enquanto responsável que é pela política nacional de resíduos. O Decreto-Lei n.º 239/97, de 9 de Setembro, determinava a elaboração de cinco planos de gestão de resíduos, um nacional e quatro sectoriais para cada uma das categorias de resíduos: urbanos, hospitalares, industriais e agrícolas. Não obstante estarem actualmente em vigor três planos sectoriais - para os resíduos urbanos [Plano Estratégico de Resíduos Sólidos Urbanos (PERSU)], para os resíduos industriais [Plano Estratégico de Resíduos Industriais (PESGRI)] e para os resíduos hospitalares [Plano Estratégico dos Resíduos Hospitalares (PERH)] -, cujas orientações e linhas estratégicas de decisão têm norteado a gestão de resíduos no território nacional ao longo dos últimos anos, a experiência acumulada com a sua aplicação ao nível local demonstra a necessidade de serem criados instrumentos municipais de gestão de resíduos que permitam concretizar estas orientações a um nível mais restrito. Mais ainda, ficou patente, ao longo destes anos, a necessidade de conceber um procedimento pormenorizado de elaboração e de revisão dos planos existentes que permita o acompanhamento permanente do sector.
+
+Ainda no domínio da regulação, e sendo a gestão de resíduos uma actividade já condicionada, pretende-se agora reformar o mecanismo da autorização prévia de molde a aproximá-lo dos modelos em vigor nos ordenamentos jurídicos dos demais parceiros comunitários. Assim, as operações de gestão de resíduos ficam sujeitas a um procedimento administrativo célere de controlo prévio, que se conclui com a emissão de uma licença, e, sobretudo, a procedimentos administrativos que asseguram uma efectiva monitorização da actividade desenvolvida após esse licenciamento. Inovadora é a introdução de mecanismos de constante adaptação das licenças às inovações tecnológicas que sempre surgem com rapidez neste sector e de mecanismos de resposta a efeitos negativos para o ambiente que não tenham sido previstos na fase de licenciamento, bem como a introdução de procedimentos que visam acompanhar as vicissitudes da actividade de gestão de resíduos, como sejam as da transmissão, alteração e renovação das licenças.
+
+O regime que ora se institui também não perde de vista a necessidade ponderosa de simplificar as relações administrativas que o Estado estabelece com o particular. Desde logo, o prazo previsto para o procedimento geral de licenciamento previsto neste decreto-lei é 20 dias mais breve do que o do anterior procedimento de autorização prévia constante do Decreto-Lei n.º 239/97, de 9 de Setembro; e é igualmente prevista a aplicação de um regime de licenciamento simplificado que permite a emissão de uma licença num prazo máximo de 20 dias. Prevê-se ainda a possibilidade de dispensa de licenciamento para determinadas operações quando sejam definidas normas específicas para o exercício das mesmas, ficando neste caso sujeitas a uma comunicação prévia. Ainda no âmbito dos procedimentos criados pelo presente decreto-lei, adopta-se o recurso aos meios informáticos como método de agilização da tramitação procedimental e desloca-se a obrigação de obter informação detida por autoridades públicas para a esfera da entidade licenciadora. E de modo a evitar uma oneração desnecessária do particular com o esforço de se sujeitar a procedimentos administrativos diferentes com vista a exercer uma mesma actividade, o licenciamento ora criado articula-se numa relação de complementaridade e alternatividade com os regimes de licenciamento ambiental e de licenciamento industrial já em vigor. Assim, as operações de gestão de resíduos sujeitas aos regimes do licenciamento ambiental ou industrial não ficam sujeitas à emissão de qualquer outra licença adicional, sendo o cumprimento do presente decreto-lei assegurado no âmbito desses procedimentos. O novo regime introduz, portanto, um acréscimo de eficiência e de eficácia na prossecução dos seus objectivos, sem prejuízo da imperativa defesa do interesse público em causa.
+
+3 - O diploma que agora se aprova não se limita, porém, à introdução de aperfeiçoamentos ao regime legal até agora em vigor. Bem pelo contrário, pretende-se com ele introduzir instrumentos novos no ordenamento jurídico português, desde logo aqueles que se prendem com uma melhor gestão da informação em matéria de gestão dos resíduos, hoje em dia imprescindível não apenas para que a Administração realize cabalmente as suas funções como para operadores económicos e grande público.
+
+A necessidade de garantir a recolha de toda a informação relevante sobre o «ciclo de vida» dos resíduos havia determinado a obrigatoriedade de realização de um registo de um conjunto de dados relativos à sua produção e gestão já no âmbito do Decreto-Lei n.º 239/97, de 9 de Setembro. O ónus de recolha desses elementos recaía, porém, ainda que em moldes distintos, sobre produtores e operadores de gestão de resíduos, de onde resultou o agravamento dos encargos burocráticos dos particulares e a ineficácia do sistema de registo. Mais ainda, o próprio sistema de registo a implementar divergia consoante o tipo de resíduos em causa, tornando a informação disponível incoerente, por um lado, insuficiente, por outro. Actualmente, a evolução dos meios tecnológicos permite e impõe o recurso a mecanismos de registo de informação mais evoluídos. A Internet, ao potenciar a recolha e o tratamento fáceis, rápidos e seguros de dados de proveniência distinta, tem vindo a ganhar importância crescente no processamento de informação sobre resíduos. Neste contexto, foi assumida como prioritária a reestruturação do Sistema de Gestão de Informação sobre Resíduos (SGIR), tendo sido posto em execução um conjunto de mecanismos que procuram optimizar os recursos afectos ao processamento da informação estatística neste sector.
+
+É neste enquadramento que surge, com o novo regime ora aprovado, o Sistema Integrado de Registo Electrónico de Resíduos (SIRER), um projecto ambicioso, faseado no tempo, que visa disponibilizar, por via electrónica, um mecanismo uniforme de registo e acesso a dados sobre todos os tipos de resíduos, substituindo os anteriores sistemas e mapas de registo. Para o efeito, a obrigatoriedade de efectuar o registo permanece a cargo de produtores, operadores de gestão de resíduos e entidades responsáveis pelos sistemas de gestão, mas o sistema agora instituído permite a interacção entre a Autoridade Nacional dos Resíduos e as entidades registadas, de forma a garantir maior facilidade no registo, no tratamento dos dados e na optimização dos procedimentos de carregamento e validação da informação, bem como a disponibilização ao público de informação actualizada sobre o sector.
+
+No domínio da gestão da informação em matéria de resíduos, é inovação deste diploma a criação da Comissão de Acompanhamento de Gestão dos Resíduos (CAGER), à qual cabe acompanhar as condições e evolução do mercado de resíduos, as operações e sistemas de gestão de resíduos e desempenhar um papel activo, tanto no incentivo ao aproveitamento dos resíduos enquanto matérias-primas secundárias, quanto na adopção das novas e melhores tecnologias disponíveis para a sua gestão. Ao concentrar na CAGER as estruturas de observação já existentes e alargando as suas funções, reforçam-se as políticas públicas de gestão de resíduos, pois estas exigem o conhecimento real e quotidiano do sector, e reforça-se também a participação dos interessados na concepção dessas políticas, ganhando a decisão pública legitimação por via procedimental. A par disto, prevê-se ainda que o desempenho ambiental das actividades desenvolvidas nos centros integrados de recuperação, valorização e eliminação de resíduos sólidos perigosos (CIRVER) e nas instalações de incineração e co-incineração seja objecto de acompanhamento público através da criação de uma comissão local de acompanhamento, matéria de especial sensibilidade para o grande público.
+
+4 - O novo regime económico e financeiro da gestão dos resíduos constitui uma componente essencial do presente decreto-lei.
+
+Em matéria tributária, os propósitos subjacentes ao regime económico e financeiro da gestão dos resíduos são o de sistematizar os materiais normativos já em vigor e o de criar novos instrumentos que ajudem ao cumprimento dos objectivos ambientais a que o País se propõe. A produção legislativa no domínio dos resíduos, muito intensa nos últimos anos, tem sido acompanhada pela criação de taxas variadas, por regra associadas a procedimentos de licenciamento, taxas que, partilhando embora características comuns, mostram alguma dispersão e assistematicidade. O primeiro propósito do regime ora aprovado nesta matéria reside, portanto, em simplificar, condensar e racionalizar as diferentes taxas em vigor, tornando o seu conhecimento e aplicação mais fáceis por parte da Administração e dos particulares. Cria-se por isso uma categoria residual de taxas gerais de licenciamento e, a par desta, disciplinam-se de forma autónoma e completa as taxas de licenciamento de operações ou operadores sujeitos a enquadramento específico próprio, como ocorre com os aterros, os sistemas de gestão de fluxos específicos de resíduos, os CIRVER e as instalações de incineração e co-incineração, bem como com os movimentos transfronteiriços de resíduos. A consulta do presente decreto-lei bastará, assim, para que se tome conhecimento preciso e global das taxas que integram os respectivos procedimentos de licenciamento e das regras comuns a que estão sujeitas, reduzindo-se ao mínimo indispensável a consulta de diplomas complementares.
+
+Todavia, por razões que se prendem com as exigências do direito comunitário e com as exigências da sociedade portuguesa em matéria ambiental, o regime económico e financeiro da gestão dos resíduos não poderia contentar-se, em matéria tributária, com a sistematização dos instrumentos já existentes. O cumprimento dos objectivos a que o País se obrigou, no quadro comunitário ou por iniciativa própria, justifica que o segundo propósito deste diploma em matéria tributária esteja na instituição de novos instrumentos tributários que sirvam à orientação do comportamento de operadores económicos e consumidores finais, no sentido da redução da produção de resíduos e do seu tratamento mais eficiente. Com a taxa de gestão de resíduos agora criada, uma taxa de natureza periódica incidente, com montante diferenciado, sobre resíduos depositados em aterro ou geridos por entidades gestoras de sistemas de fluxos específicos de resíduos, de CIRVER ou de instalações de incineração ou co-incineração, pretende-se trazer para o ordenamento nacional um instrumento tributário de que se têm servido com sucesso outros países que nos são próximos, mobilizando os tributos públicos na promoção de uma gestão eficiente dos resíduos que passe pela interiorização por produtores e consumidores dos custos ambientais que lhes estão associados. Os instrumentos tributários que se sistematizam e instituem por meio do regime económico e financeiro que integra o presente diploma servem, assim, à concretização do disposto na alínea h) do n.º 2 do artigo 66.º da Constituição da República Portuguesa - que incumbe o Estado de compatibilizar no quadro da sua política fiscal o desenvolvimento com a protecção do ambiente e qualidade de vida - e na alínea r) do n.º 1 do artigo 27.º da Lei de Bases do Ambiente, que, precisamente, identifica a taxa como instrumento da política do ambiente. Os mesmos instrumentos servem ainda à concretização das recomendações mais urgentes das políticas comunitárias na matéria e dos textos jurídicos que as acompanham e à concretização desse princípio elementar de igualdade tributária que reside em fazer com que cada cidadão contribua na medida do custo ambiental que gere ao todo da comunidade, de acordo com uma regra de equivalência.
+
+Para além dos instrumentos tributários, o regime económico e financeiro dos resíduos contempla um instrumento de índole voluntária, materializado no mercado dos resíduos, o qual tem vindo a denotar um assinalável crescimento, envolvendo um cada vez maior número de operadores, especializando-se em fileiras cada vez mais numerosas. Trata-se de um sector importante da nossa economia que importa estimular, não só por razões de fomento mas, sobretudo, por razões de natureza ambiental: um dos instrumentos fulcrais para garantir que os resíduos são efectiva e adequadamente valorizados e reintroduzidos no sistema económico sob a forma material é a aceitabilidade, pelo mercado, dos produtos que integram componentes reutilizáveis ou materiais reciclados, pelo que o mesmo deve estar munido de instrumentos que facilitem a troca de resíduos e que incentivem a sua procura com vista à sua utilização como recurso.
+
+Há, pois, que proporcionar um enquadramento jurídico seguro ao mercado de resíduos e estabelecer os mecanismos institucionais que possam facilitar o encontro da oferta com a procura. O presente diploma consagra, por isso, o princípio da liberdade de comércio dos resíduos, condicionando embora essa liberdade, como é indispensável, às regras que visam acautelar a protecção do ambiente e da saúde pública. É ponto assente na estruturação deste diploma o de que o mercado não contraria, antes ajuda, a concretização de uma alocação eficiente dos resíduos gerados em sociedade, razão pela qual merece estímulo e amparo seguro. Um dos instrumentos que mais podem contribuir para o desenvolvimento do mercado dos resíduos consiste na introdução de um mercado organizado de resíduos que possa permitir o encontro da procura e da oferta destes produtos com rapidez, segurança e eficácia. O presente diploma fixa assim os seus princípios rectores, permitindo a sua institucionalização e desenvolvimento a breve prazo.
+
+O nosso país acompanhará, nesta matéria, a experiência de outros países que nos são próximos e que têm feito das bolsas de resíduos instrumentos fundamentais na dinamização da sua economia e na prossecução das suas políticas ambientais.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional dos Municípios Portugueses, a Comissão Nacional de Protecção de Dados e as organizações não governamentais do ambiente.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+> Alterado pelo/a [Decreto-Lei n.º 183/2009 - Diário da República n.º 153/2009, Série I de 2009-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2009-493485), em vigor a partir de 2009-08-15
+
+> Alterado pelo/a Artigo 174.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, Suplemento n.º 1, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a [Decreto-Lei n.º 173/2008 - Diário da República n.º 164/2008, Série I de 2008-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2008-453550), em vigor a partir de 2008-08-31
+
+## Título I — Disposições e princípios gerais
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime geral aplicável à prevenção, produção e gestão de resíduos, transpondo para a ordem jurídica interna a Directiva n.º 2008/98/CE, do Parlamento Europeu e do Conselho, de 19 de Novembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei é aplicável às operações de gestão de resíduos destinadas a prevenir ou reduzir a produção de resíduos, o seu carácter nocivo e os impactes adversos decorrentes da sua produção e gestão, bem como a diminuição dos impactes associados à utilização dos recursos, de forma a melhorar a eficiência da sua utilização e a protecção do ambiente e da saúde humana.
+
+2 - Excluem-se do âmbito de aplicação do presente decreto-lei:
+
+a) Os efluentes gasosos lançados na atmosfera, o dióxido de carbono captado e transportado para efeitos de armazenamento geológico e geologicamente armazenado, nos termos do regime jurídico relativo ao armazenamento geológico de dióxido de carbono, e o dióxido de carbono objecto de armazenamento geológico em quantidades totais inferiores a 100 000 t, destinado à investigação, desenvolvimento ou ensaio de novos produtos e processos;
+
+b) A terra (in situ), incluindo os solos contaminados não escavados e os edifícios com ligação permanente ao solo;
+
+c) O solo não contaminado e outros materiais naturais resultantes de escavações no âmbito de actividades de construção desde que os materiais em causa sejam utilizados para construção no seu estado natural e no local em que foram escavados;
+
+d) Os resíduos radioactivos;
+
+e) Os explosivos abatidos à carga ou em fim de vida;
+
+f) As matérias fecais não abrangidas pela alínea c) do n.º 3, as palhas e outro material natural não perigoso de origem agrícola ou silvícola que seja utilizado na agricultura ou na silvicultura ou para a produção de energia a partir dessa biomassa através de processos ou métodos que não prejudiquem o ambiente nem ponham em perigo a saúde humana;
+
+g) Os sedimentos deslocados no interior das águas de superfície para efeitos de gestão das águas e dos cursos de água, de prevenção de inundações ou de atenuação dos efeitos de inundações e secas ou da recuperação de terras, caso se demonstre a sua não perigosidade.
+
+3 - São ainda excluídos do âmbito de aplicação do presente decreto-lei, nos termos da lei:
+
+a) As águas residuais;
+
+b) Resíduos resultantes da prospecção, extracção, tratamento e armazenagem de recursos minerais, bem como da exploração de pedreiras, abrangidos pelo Decreto-Lei n.º 10/2010, de 4 de Fevereiro;
+
+c) Os subprodutos animais, incluindo os produtos transformados abrangidos pelo Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de Outubro, com excepção dos destinados à incineração, à deposição em aterros ou à utilização numa unidade de biogás ou de compostagem;
+
+d) As carcaças de animais cuja morte não tenha resultado de abate, incluindo os animais mortos para erradicação de doenças epizoóticas, e que tenham sido eliminadas nos termos do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de Outubro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 3.º — Definições
+
+Para os efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) «Abandono» a renúncia ao controlo de resíduo sem qualquer beneficiário determinado, impedindo a sua gestão;
+
+b) «Armazenagem» a deposição controlada de resíduos, antes do seu tratamento e por prazo determinado, designadamente as operações R13 e D15 identificadas nos anexos i e ii do presente decreto-lei, do qual fazem parte integrante;
+
+c) «Armazenagem preliminar» a deposição controlada de resíduos, no próprio local de produção, por período não superior a um ano, antes da recolha, em instalações onde os resíduos são produzidos ou descarregados a fim de serem preparados para posterior transporte para outro local para efeitos de tratamento;
+
+d) «Biorresíduos» os resíduos biodegradáveis de espaços verdes, nomeadamente os de jardins, parques, campos desportivos, bem como os resíduos biodegradáveis alimentares e de cozinha das habitações, das unidades de fornecimento de refeições e de retalho e os resíduos similares das unidades de transformação de alimentos;
+
+e) «Centro de recepção de resíduos» a instalação onde se procede à armazenagem ou triagem de resíduos inseridos quer em sistemas integrados de gestão de fluxos de resíduos quer em sistemas de gestão de resíduos urbanos;
+
+f) «Comerciante» qualquer pessoa singular ou colectiva que intervenha a título principal na compra e subsequente venda de resíduos mesmo que não tome a posse física dos resíduos;
+
+g) «Composto» a matéria fertilizante resultante da decomposição controlada de resíduos orgânicos, obtida pelo processo de compostagem ou por digestão anaeróbia seguida de compostagem;
+
+h) «Corretor» qualquer empresa que organize a valorização ou eliminação de resíduos por conta de outrem mesmo que não tome a posse física dos resíduos;
+
+i) «Descarga» a operação de deposição de resíduos;
+
+j) «Descontaminação de solos» o procedimento de remoção da fonte de contaminação e o confinamento, tratamento, in situ ou ex situ, conducente à remoção e ou à redução de agentes poluentes nos solos, bem como à eliminação ou diminuição dos efeitos por estes causados;
+
+l)«Detentor» a pessoa singular ou colectiva que tenha resíduos, pelo menos, na sua simples detenção, nos termos da legislação civil;
+
+m) «Eliminação» qualquer operação que não seja de valorização, nomeadamente as incluídas no anexo i do presente decreto-lei, ainda que se verifique como consequência secundária a recuperação de substâncias ou de energia;
+
+n)«Fileira de resíduos» o tipo de material constituinte dos resíduos, nomeadamente fileira dos vidros, fileira dos plásticos, fileira dos metais, fileira da matéria orgânica ou fileira do papel e cartão;
+
+o) «Fluxo específico de resíduos» a categoria de resíduos cuja proveniência é transversal às várias origens ou sectores de actividade, sujeitos a uma gestão específica;
+
+p) «Gestão de resíduos» a recolha, o transporte, a valorização e a eliminação de resíduos, incluindo a supervisão destas operações, a manutenção dos locais de eliminação no pós-encerramento, bem como as medidas adoptadas na qualidade de comerciante ou corretor;
+
+q)«Instalação» a unidade fixa ou móvel em que se desenvolvem operações de gestão de resíduos;
+
+r) «Operador» qualquer pessoa singular ou colectiva que procede, a título profissional, à gestão de resíduos;
+
+s)«Passivo ambiental» a situação de degradação ambiental resultante do lançamento de contaminantes ao longo do tempo e ou de forma não controlada, nomeadamente nos casos em que não seja possível identificar o respectivo agente poluidor;
+
+t)«Plano» o estudo integrado dos elementos que regulam as acções de intervenção no âmbito da gestão de resíduos, identificando os objectivos a alcançar, as actividades a realizar, as competências e atribuições dos agentes envolvidos e os meios necessários à concretização das acções previstas;
+
+u) «Ponto de retoma» o local do estabelecimento de comercialização e ou de distribuição de produtos que retoma, por obrigação legal ou a título voluntário, os resíduos resultantes da utilização desses produtos;
+
+v) «Preparação para reutilização» as operações de valorização que consistem no controlo, limpeza ou reparação, mediante as quais os produtos ou os componentes de produtos que assumam a natureza de resíduos são preparados para serem utilizados novamente, sem qualquer outro tipo de pré-processamento;
+
+x) «Prevenção» a adopção de medidas antes de uma substância, material ou produto assumir a natureza de resíduo, destinadas a reduzir:
+
+i) A quantidade de resíduos produzidos, designadamente através da reutilização de produtos ou do prolongamento do tempo de vida dos produtos;
+
+ii) Os impactes adversos no ambiente e na saúde humana resultantes dos resíduos produzidos; ou
+
+iii) O teor de substâncias nocivas presentes nos materiais e nos produtos;
+
+z) «Produtor de resíduos» qualquer pessoa, singular ou colectiva, cuja actividade produza resíduos (produtor inicial de resíduos) ou que efectue operações de pré-processamento, de mistura ou outras que alterem a natureza ou a composição desses resíduos;
+
+aa) «Produtor do produto» qualquer pessoa, singular ou colectiva, que desenvolva, fabrique, embale ou faça embalar, transforme, trate, venda ou importe produtos para o território nacional no âmbito da sua actividade profissional;
+
+bb) «Reciclagem» qualquer operação de valorização, incluindo o reprocessamento de materiais orgânicos, através da qual os materiais constituintes dos resíduos são novamente transformados em produtos, materiais ou substâncias para o seu fim original ou para outros fins mas que não inclui a valorização energética nem o reprocessamento em materiais que devam ser utilizados como combustível ou em operações de enchimento;
+
+cc) 'Recolha' a coleta de resíduos, incluindo a triagem e o armazenamento preliminares dos resíduos, para fins de transporte para uma instalação de tratamento de resíduos;
+
+dd) «Recolha selectiva» a recolha efectuada de forma a manter o fluxo de resíduos separados por tipo e natureza com vista a facilitar o tratamento específico;
+
+ee) «Resíduos» quaisquer substâncias ou objectos de que o detentor se desfaz ou tem a intenção ou a obrigação de se desfazer;
+
+ff) «Resíduo agrícola» o resíduo proveniente de exploração agrícola e ou pecuária ou similar;
+
+gg) «Resíduo de construção e demolição» o resíduo proveniente de obras de construção, reconstrução, ampliação, alteração, conservação e demolição e da derrocada de edificações;
+
+hh) «Resíduo hospitalar» os resíduos resultantes de actividades de prestação de cuidados de saúde a seres humanos ou a animais, nas áreas da prevenção, diagnóstico, tratamento, reabilitação ou investigação e ensino, bem como de outras actividades envolvendo procedimentos invasivos, tais como acupunctura,
+
+piercings e tatuagens;
+
+ii) «Resíduo industrial» o resíduo gerado em processos produtivos industriais, bem como o que resulte das actividades de produção e distribuição de electricidade, gás e água;
+
+jj) «Resíduo inerte» o resíduo que não sofre transformações físicas, químicas ou biológicas importantes e, em consequência, não pode ser solúvel nem inflamável, nem ter qualquer outro tipo de reacção física ou química, e não pode ser biodegradável, nem afectar negativamente outras substâncias com as quais entre em contacto de forma susceptível de aumentar a poluição do ambiente ou prejudicar a saúde humana, e cujos lixiviabilidade total, conteúdo poluente e ecotoxicidade do lixiviado são insignificantes e, em especial, não põem em perigo a qualidade das águas superficiais e ou subterrâneas;
+
+ll) 'Resíduo perigoso' resíduo que apresenta uma ou mais características de perigosidade constantes do Regulamento (UE) n.º 1357/2014, da Comissão, de 18 de dezembro de 2014;
+
+mm)  «Resíduo urbano» o resíduo proveniente de habitações bem como outro resíduo que, pela sua natureza ou composição, seja semelhante ao resíduo proveniente de habitações;
+
+nn) «Reutilização» qualquer operação mediante a qual produtos ou componentes que não sejam resíduos são utilizados novamente para o mesmo fim para que foram concebidos;
+
+oo) «Tratamento» qualquer operação de valorização ou de eliminação de resíduos, incluindo a preparação prévia à valorização ou eliminação e as actividades económicas referidas no anexo iv do presente decreto-lei, do qual faz parte integrante;
+
+pp) «Triagem» o acto de separação de resíduos mediante processos manuais ou mecânicos, sem alteração das suas características, com vista ao seu tratamento;
+
+qq) «Valorização» qualquer operação, nomeadamente as constantes no anexo ii do presente decreto-lei, cujo resultado principal seja a transformação dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico ou a preparação dos resíduos para esse fim na instalação ou conjunto da economia.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+### Capítulo II — Princípios gerais da gestão de resíduos
+
+###### Artigo 4.º — Princípio da auto-suficiência e da proximidade
+
+1 - As operações de tratamento devem decorrer em instalações adequadas com recurso às tecnologias e métodos apropriados para assegurar um nível elevado de protecção do ambiente e da saúde pública, preferencialmente em território nacional e obedecendo a critérios de proximidade.
+
+2 - A Autoridade Nacional de Resíduos (ANR) pode interditar as transferências de resíduos de e para o território nacional, nos termos do Regulamento (CE) n.º 1013/2006, do Parlamento Europeu e do Conselho, de 14 de Junho, executado na ordem jurídica interna pelo Decreto-Lei n.º 45/2008, de 11 de Março.
+
+3 - A ANR pode ainda para proteger a rede de instalações nacional, e em derrogação do disposto no Regulamento (CE) n.º 1013/2006, do Parlamento Europeu e do Conselho, de 14 de Junho, limitar as entradas de resíduos destinados a incineradoras que sejam classificadas como operações de valorização caso se verifique que tais entradas implicam a eliminação dos resíduos nacionais ou o tratamento desses resíduos de modo incompatível com os respectivos planos de gestão de resíduos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 5.º — Princípio da responsabilidade pela gestão
+
+1 - A responsabilidade pela gestão dos resíduos, incluindo os respectivos custos, cabe ao produtor inicial dos resíduos, sem prejuízo de poder ser imputada, na totalidade ou em parte, ao produtor do produto que deu origem aos resíduos e partilhada pelos distribuidores desse produto se tal decorrer de legislação específica aplicável.
+
+2 - Exceptuam-se do disposto no número anterior os resíduos urbanos cuja produção diária não exceda 1100 l por produtor, caso em que a respectiva gestão é assegurada pelos municípios.
+
+3 - Em caso de impossibilidade de determinação do produtor do resíduo, a responsabilidade pela respectiva gestão recai sobre o seu detentor.
+
+4 - Quando os resíduos tenham proveniência externa, a sua gestão cabe ao responsável pela sua introdução em território nacional, salvo nos casos expressamente definidos na legislação referente à transferência de resíduos.
+
+5 - O produtor inicial dos resíduos ou o detentor devem, em conformidade com os princípios da hierarquia de gestão de resíduos e da protecção da saúde humana e do ambiente, assegurar o tratamento dos resíduos, podendo para o efeito recorrer:
+
+a) A um comerciante ou a uma entidade que execute operações de recolha de resíduos;
+
+b) A uma entidade licenciada que execute operações de tratamento de resíduos;
+
+c) A uma entidade licenciada responsável por sistemas de gestão de fluxos específicos de resíduos.
+
+6 - A responsabilidade pela gestão dos resíduos, conforme definido nos n.os 1 e 3 do presente artigo, extingue-se pela transferência para uma das entidades referidas nas alíneas b) e c) do número anterior.
+
+7 - As pessoas singulares ou colectivas que procedem, a título profissional, à recolha ou transporte de resíduos devem entregar os resíduos recolhidos e transportados em operadores licenciados para o tratamento de resíduos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 6.º — Princípio da protecção da saúde humana e do ambiente
+
+Constitui objectivo prioritário da política de gestão de resíduos evitar e reduzir os riscos para a saúde humana e para o ambiente, garantindo que a produção, a recolha e transporte, o armazenamento preliminar e o tratamento de resíduos sejam realizados recorrendo a processos ou métodos que não sejam susceptíveis de gerar efeitos adversos sobre o ambiente, nomeadamente poluição da água, do ar, do solo, afectação da fauna ou da flora, ruído ou odores ou danos em quaisquer locais de interesse e na paisagem.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 7.º — Princípio da hierarquia dos resíduos
+
+1 - A política e a legislação em matéria de resíduos devem respeitar a seguinte ordem de prioridades no que se refere às opções de prevenção e gestão de resíduos:
+
+a) Prevenção e redução;
+
+b) Preparação para a reutilização;
+
+c) Reciclagem;
+
+d) Outros tipos de valorização;
+
+e) Eliminação.
+
+2 - No caso de fluxos específicos de resíduos, a ordem de prioridades estabelecida no número anterior pode não ser observada desde que as opções adoptadas se justifiquem pela aplicação do conceito de ciclo de vida aos impactes globais da produção e gestão dos resíduos em causa.
+
+3 - Sempre que se aplique o disposto no número anterior, devem ser tidos em consideração princípios gerais de protecção do ambiente, da precaução e da sustentabilidade, a exequibilidade técnica e a viabilidade económica, bem como a protecção dos recursos e os impactes globais no ambiente, na saúde humana e sociais de acordo com o disposto nos artigos 2.º e 6.º do presente decreto-lei, devendo ser assegurada a participação pública nos termos do artigo 18.º-A.
+
+4 - Os produtores de resíduos devem proceder à separação dos resíduos na origem de forma a promover a sua valorização por fluxos e fileiras.
+
+5 - Deve ser privilegiado o recurso às melhores tecnologias disponíveis com custos economicamente sustentáveis que permitam o prolongamento do ciclo de vida dos materiais através da sua reutilização, em conformidade com as estratégias complementares adoptadas noutros domínios.
+
+6 - No âmbito do disposto no n.º 1, são fixadas as seguintes metas a alcançar até 2020:
+
+a) Um aumento mínimo global para 50 % em peso relativamente à preparação para a reutilização e a reciclagem de resíduos urbanos, incluindo o papel, o cartão, o plástico, o vidro, o metal, a madeira e os resíduos urbanos biodegradáveis;
+
+b) Um aumento mínimo para 70 % em peso relativamente à preparação para a reutilização, a reciclagem e outras formas de valorização material, incluindo operações de enchimento que utilizem resíduos como substituto de outros materiais, resíduos de construção e demolição não perigosos, com exclusão dos materiais naturais definidos na categoria 17 05 04 da Lista Europeia de Resíduos (LER).
+
+7 - Compete à ANR assegurar a monitorização do cumprimento das metas definidas no número anterior, de acordo com os métodos de aplicação e de cálculo estabelecidos por decisão da Comissão Europeia.
+
+8 - Com vista à concretização das metas previstas no n.º 6, sempre que tecnicamente exequível, é obrigatória a utilização de pelo menos 5 % de materiais reciclados ou que incorporem materiais reciclados relativamente à quantidade total de matérias-primas usadas em obra, no âmbito da contratação de empreitadas de construção e de manutenção de infra-estruturas ao abrigo do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro.
+
+9 - Os materiais referidos no número anterior devem ser certificados pelas entidades competentes, nacionais ou europeias, de acordo com a legislação aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 8.º — Princípio da responsabilidade do cidadão
+
+Os cidadãos contribuem para a prossecução dos princípios e objectivos referidos nos artigos anteriores, adoptando comportamentos de carácter preventivo em matéria de produção de resíduos, bem como práticas que facilitem a respectiva reutilização e valorização.
+
+###### Artigo 9.º — Princípio da regulação da gestão de resíduos
+
+1 - A gestão de resíduos é realizada de acordo com os princípios gerais fixados nos termos do presente decreto-lei e demais legislação aplicável e em respeito dos critérios qualitativos e quantitativos fixados nos instrumentos regulamentares e de planeamento.
+
+2 - É proibida a realização de operações de tratamento de resíduos não licenciadas nos termos do presente decreto-lei.
+
+3 - São igualmente proibidos o abandono de resíduos, a incineração de resíduos no mar e a sua injecção no solo, a queima a céu aberto nos termos do artigo 13.º do Decreto-Lei n.º 78/2004, de 3 de Abril, bem como a descarga de resíduos em locais não licenciados para realização de tratamento de resíduos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 10.º — Princípios da equivalência, da eficiência e da eficácia
+
+1- O regime económico e financeiro das actividades de gestão de resíduos visa a compensação tendencial dos custos sociais e ambientais que o produtor gera à comunidade ou dos benefícios que a comunidade lhe faculta, de acordo com um princípio geral de equivalência.
+
+2 - Constituem ainda princípios fundamentais da política de gestão de resíduos a promoção de níveis crescentes de eficiência e da eficácia na gestão dos sistemas integrados, que se concretizam:
+
+a) Através da definição de prestações e contrapartidas financeiras que reflitam o custo de oportunidade associado ao esforço despendido por todos os intervenientes no ciclo da vida dos produtos abrangidos pelo sistema em causa, desde a sua conceção e utilização até ao manuseamento dos respetivos resíduos;
+
+b) Através da aplicação dos resultados líquidos positivos do exercício da atividade das entidades licenciadas responsáveis por sistemas de gestão de fluxos específicos de resíduos, que ultrapassem os limites das reservas ou provisões previstas na respetiva licença, os quais devem ser usados na diminuição das prestações com vista a assegurar a sustentabilidade económica e financeira dos sistemas de gestão de fluxos específicos de resíduos.
+
+3 - Os mecanismos de definição dos custos de oportunidade referidos na alínea a) do n.º 2 do artigo anterior devem tendencialmente ser os da livre concorrência e da liberdade de escolha nos mercados.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+###### Artigo 10.º-A — Princípio da responsabilidade alargada do produtor
+
+1 - A responsabilidade alargada do produtor consiste em atribuir, total ou parcialmente, física e ou financeiramente, ao produtor do produto a responsabilidade pelos impactes ambientais e pela produção de resíduos decorrentes do processo produtivo e da posterior utilização dos respectivos produtos, bem como da sua gestão quando atingem o final de vida.
+
+2 - Para efeitos da aplicação do disposto no número anterior, o produtor do produto pode ser obrigado a promover alterações na concepção do produto de modo a assegurar a aplicação do princípio estabelecido no artigo 6.º e dando origem a menos resíduos na sua produção e posterior utilização, bem como a garantir que o tratamento dos produtos que tenham assumido a natureza de resíduos se realize em conformidade com os princípios estabelecidos nos artigos 6.º e 7.º
+
+3 - A aplicação do disposto nos números anteriores está dependente da exequibilidade técnica e da viabilidade económica, dos impactes globais no ambiente, na saúde humana e sociais e do respeito pelo funcionamento adequado do mercado interno.
+
+4 - A responsabilidade do produtor do produto pela gestão dos resíduos provenientes dos seus próprios produtos pode ser assumida a título individual ou transferida para um sistema integrado, nos termos da lei, ou ainda através da celebração de acordos voluntários entre o produtor do produto e a ANR.
+
+5 - Os produtores de produtos abrangidos pela responsabilidade alargada do produtor, bem como os fornecedores de embalagens de serviço, no que respeita ao fluxo específico de embalagens e resíduos de embalagens, estão obrigados a comunicar à ANR, através do sistema integrado de registo eletrónico de resíduos previsto no artigo 45.º, a informação necessária ao acompanhamento da aplicação do disposto no n.º 1, nomeadamente o tipo e a quantidade de produtos colocados no mercado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2001-06-18
+
+## Título II — Regulação da gestão de resíduos
+
+### Capítulo I — Planeamento da gestão de resíduos
+
+###### Artigo 11.º — Autoridade Nacional dos Resíduos
+
+Compete ao organismo com atribuições na área dos resíduos tutelado pelo ministério responsável pela área do ambiente, enquanto Autoridade Nacional dos Resíduos, doravante designada ANR, assegurar e acompanhar a implementação de uma estratégia nacional para os resíduos, mediante o exercício de competências próprias de licenciamento, da emissão de normas técnicas aplicáveis às operações de gestão de resíduos, do desempenho de tarefas de acompanhamento das actividades de gestão de resíduos, de uniformização dos procedimentos de licenciamento e dos assuntos internacionais e comunitários no domínio dos resíduos.
+
+###### Artigo 12.º — Autoridades regionais dos resíduos
+
+Incumbe aos serviços desconcentrados do ministério responsável pela área do ambiente, enquanto autoridades regionais dos resíduos, doravante designadas ARR, assegurar o exercício das competências relativas à gestão de resíduos numa relação de proximidade com os operadores.
+
+###### Artigo 13.º — Planos de gestão de resíduos
+
+1 - As orientações fundamentais da política de gestão de resíduos constam do plano nacional de gestão de resíduos, dos planos específicos de gestão de resíduos e dos planos multimunicipais, intermunicipais e municipais de acção.
+
+2 - Os planos de gestão de resíduos devem ser conformes com os requisitos de planeamento em matéria de gestão de fluxos específicos de resíduos, designadamente os estabelecidos no regime jurídico da gestão de embalagens e resíduos de embalagens.
+
+3 - Os planos de gestão de resíduos devem ainda ser conformes com a estratégia para a redução dos resíduos urbanos biodegradáveis destinados a aterros, referida no artigo 8.º do Decreto-Lei n.º 183/2009, de 10 de Agosto, cabendo à ANR avaliar e, se necessário, propor medidas que incentivem:
+
+a) A recolha selectiva de biorresíduos, tendo em vista a sua compostagem e digestão anaeróbia;
+
+b) O tratamento dos biorresíduos em moldes que satisfaçam um elevado nível de protecção do ambiente;
+
+c) A utilização de materiais ambientalmente seguros produzidos a partir de biorresíduos, designadamente composto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 14.º — Plano nacional de gestão de resíduos
+
+1 - O plano nacional de gestão de resíduos estabelece as orientações estratégicas de âmbito nacional da política de gestão de resíduos e as regras orientadoras da disciplina a definir pelos planos específicos de gestão de resíduos no sentido de garantir a concretização dos princípios referidos no título I, bem como a constituição de uma rede integrada e adequada de instalações de valorização e eliminação de todo o tipo de resíduos, tendo em conta as melhores tecnologias disponíveis com custos economicamente sustentáveis.
+
+2 - O plano nacional de gestão de resíduos é elaborado pela ANR e é aprovado por resolução do Conselho de Ministros, após audição da Associação Nacional de Municípios Portugueses.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 15.º — Planos específicos de gestão de resíduos
+
+1 - Os planos específicos de gestão de resíduos concretizam o plano nacional de gestão de resíduos em cada área específica de actividade geradora de resíduos, nomeadamente industrial, urbana, agrícola e hospitalar, estabelecendo as respectivas prioridades a observar, metas a atingir e acções a implementar e as regras orientadoras da disciplina a definir pelos planos multimunicipais, intermunicipais e municipais de acção.
+
+2 - Os planos específicos de gestão de resíduos são aprovados por portaria conjunta dos membros do Governo responsáveis pela área do ambiente e pela área geradora do respectivo tipo de resíduos, sendo previamente ouvida a Associação Nacional de Municípios Portugueses no caso do plano específico de gestão de resíduos urbanos.
+
+3 - Compete à ANR, em articulação com outras entidades com competência em razão da matéria, elaborar os planos específicos de gestão de resíduos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 16.º — Planos multimunicipais, intermunicipais e municipais de acção
+
+1 - Os planos multimunicipais, intermunicipais e municipais de acção definem a estratégia de gestão de resíduos urbanos e as acções a desenvolver pela entidade responsável pela respectiva elaboração quanto à gestão deste tipo de resíduos, em articulação com o plano nacional de gestão de resíduos e o plano específico de gestão de resíduos urbanos.
+
+2 - Os planos multimunicipais e intermunicipais são elaborados pelas entidades gestoras dos respectivos sistemas de gestão, ouvida a ARR competente.
+
+3 - A elaboração dos planos municipais de acção pelos municípios é facultativa, adoptando-se o procedimento de aprovação previsto para os regulamentos municipais.
+
+###### Artigo 17.º — Conteúdo dos planos de gestão de resíduos
+
+1 - Os planos de gestão de resíduos devem integrar:
+
+a) A análise da situação actual da gestão de resíduos;
+
+b) A definição das medidas a adoptar para melhorar o tratamento de resíduos;
+
+c) A avaliação do modo como o plano é susceptível de apoiar a execução dos objectivos do presente decreto-lei.
+
+2 - A elaboração dos planos de gestão de resíduos deve obedecer ao disposto no anexo vi do presente decreto-lei, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 17.º-A — Programas de prevenção de resíduos
+
+1 - Até 12 de Dezembro de 2013 são elaborados programas de prevenção de resíduos, de acordo com as medidas constantes do anexo v do presente decreto-lei, do qual faz parte integrante, tendo em vista dissociar o crescimento económico dos impactes ambientais relacionados com a produção de resíduos.
+
+2 - Os programas referidos no número anterior podem ser integrados em planos de gestão de resíduos ou noutros programas de política ambiental, devendo, nestes casos, ficar claramente identificadas as componentes relativas à prevenção.
+
+3 - Os programas de prevenção de resíduos devem conter as medidas e os objectivos de prevenção, existentes e previstos, bem como indicadores e valores de referência qualitativos ou quantitativos específicos adequados às medidas de prevenção que garantam o acompanhamento e a avaliação dos progressos da implementação das referidas medidas.
+
+4 - Os programas de prevenção de resíduos são aprovados por portaria dos membros do Governo responsáveis pelas áreas do ambiente e da geradora dos resíduos em causa.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 18.º — Avaliação e revisão dos planos e programas
+
+1 - Os planos de gestão e os programas de prevenção de resíduos são avaliados e, se necessário, revistos, pelo menos, de seis em seis anos contados a partir da data da sua aprovação.
+
+2 - Os planos específicos de gestão de resíduos e os programas de prevenção de resíduos são reavaliados no prazo máximo de dois anos a contar da aprovação do plano nacional de gestão de resíduos e, se necessário, revistos no prazo máximo de três anos em articulação com a entidade competente em razão da matéria.
+
+3 - Os planos multimunicipais, intermunicipais e municipais de acção são revistos no prazo máximo de um ano a contar da aprovação da revisão do plano específico de gestão de resíduos urbanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 18.º-A — Consulta pública
+
+1 - Os planos de gestão de resíduos e os programas de prevenção de resíduos são sujeitos a consulta pública antes da respectiva aprovação, a efectuar nos termos do Decreto-Lei n.º 232/2007, de 15 de Junho, com as necessárias adaptações.
+
+2 - Os planos e programas previstos no número anterior que sejam sujeitos ao regime de avaliação dos efeitos de determinados planos e programas no ambiente, nos termos do Decreto-Lei n.º 232/2007, de 15 de Junho, seguem o procedimento nele estabelecido.
+
+3 - Após a aprovação, os planos de gestão de resíduos e os programas de prevenção de resíduos são disponibilizados ao público no sítio da Internet da ANR.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 19.º — Relatório
+
+1 - A ANR elabora e remete ao ministro responsável pela área do ambiente um relatório anual sobre os resultados obtidos na prevenção, recolha, tratamento, valorização e eliminação de resíduos decorrentes da aplicação dos planos de gestão de resíduos.
+
+2 - As informações contidas no relatório a que refere o número anterior são disponibilizadas ao público até ao dia 30 de Abril do ano seguinte a que respeite o relatório.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+### Capítulo II — Normas técnicas das actividades de tratamento de resíduos
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 20.º — Normas e especificações técnicas
+
+1 - Podem ser estabelecidas normas técnicas relativas à gestão de resíduos de modo a assegurar que os resíduos são tratados em conformidade com o princípio da protecção da saúde humana e do ambiente previsto no artigo 6.º
+
+2 - As normas técnicas que enquadrem isenções de licenciamento previstas no artigo 23.º devem observar o disposto no artigo 6.º e definem, para a operação de tratamento de resíduos em causa, os tipos e quantidades de resíduos isentos, o método de tratamento a utilizar e, no caso de operações de eliminação, consideram ainda as melhores técnicas disponíveis, na acepção da alínea l) do artigo 2.º do Decreto-Lei n.º 173/2008, de 26 de Agosto.
+
+3 - Quando estejam em causa resíduos perigosos, as normas técnicas que enquadrem isenções de licenciamento estabelecem ainda condições específicas para o efeito, designadamente actividades abrangidas, requisitos necessários para a valorização, valores limite para o teor de substâncias perigosas nos resíduos e valores limite de emissão.
+
+4 - As normas técnicas são aprovadas por portaria do membro do Governo responsável pela área do ambiente, devendo as normas técnicas de maior relevância para o sector dos resíduos, identificadas por proposta da ANR, ser aprovadas no prazo de um ano a contar da data da entrada em vigor do presente decreto-lei.
+
+5 - As operações de tratamento de resíduos são realizadas sob a direcção de um responsável técnico, cujas obrigações e habilitações profissionais são definidas por portaria do membro do Governo responsável pela área do ambiente.
+
+6 - As atualizações e adaptações ao progresso técnico das especificações técnicas dos fluxos específicos de resíduos é efetuada pela ANR e pela Direção-Geral das Atividades Económicas (DGAE), mediante parecer prévio das associações representativas dos fabricantes de matérias-primas e produtos abrangidos por legislação relativa a fluxos específicos de resíduos e em articulação com as seguintes entidades, em razão da matéria:
+
+a) Os municípios ou as entidades gestoras de sistemas municipais, multimunicipais ou intermunicipais;
+
+b) Associações representativas dos operadores de tratamento de resíduos;
+
+c) As entidades gestoras dos sistemas integrados de gestão de fluxos específicos de resíduos.
+
+7 - As especificações técnicas a que se refere o número anterior devem ser publicitadas nos sítios na Internet da ANR e da DGAE, bem como nos sítios das entidades gestoras de sistemas de fluxos específicos de resíduos e no sistema de pesquisa online de informação pública, previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado e republicado pelo Decreto-Lei n.º 73/2014, de 13 de maio.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 21.º — Transporte de resíduos
+
+1 - O transporte de resíduos está sujeito a registo electrónico a efectuar pelos produtores, detentores, transportadores e destinatários dos resíduos, através de uma e-GAR disponível no sítio da ANR na Internet.
+
+2 - As normas técnicas sobre o transporte de resíduos em território nacional e os modelos das respectivas guias de acompanhamento são aprovadas por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, do ambiente, dos transportes e da saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 21.º-A — Resíduos perigosos
+
+1 - A produção, a recolha e o transporte de resíduos perigosos, bem como o seu armazenamento e tratamento, são realizados em condições que assegurem a protecção do ambiente e da saúde nos termos do artigo 6.º, observando medidas de garantia da rastreabilidade desde a produção até ao destino final.
+
+2 - A operação de mistura, incluindo a diluição, de resíduos perigosos com outras categorias de resíduos perigosos ou com outros resíduos, substâncias ou materiais é proibida, salvo em casos devidamente autorizados em que, cumulativamente, a operação:
+
+a) Seja executada por um operador licenciado nos termos do capítulo iii do título ii do presente decreto-lei;
+
+b) Observe o disposto no artigo 6.º e não agrave os impactes negativos da gestão de resíduos na saúde humana e no ambiente;
+
+c) Seja conforme às melhores técnicas disponíveis.
+
+3 - Sem prejuízo do disposto no capítulo i do título v do presente decreto-lei, caso tenha ocorrido mistura de resíduos perigosos em desrespeito pelo disposto no número anterior deve proceder-se à sua separação, se tal for possível, necessário e viável técnica e economicamente, a fim de dar cumprimento ao disposto no princípio da protecção da saúde humana e do ambiente previsto no artigo 6.º
+
+4 - O disposto nos números anteriores não se aplica a resíduos urbanos recolhidos indiferenciadamente.
+
+5 - Para efeitos de recolha, transporte e armazenamento preliminar, os resíduos perigosos, com excepção dos urbanos, são embalados e rotulados nos termos da legislação em vigor.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 22.º — Centros integrados de recuperação, valorização e eliminação de resíduos perigosos
+
+1 - As operações de gestão de resíduos efectuadas nos centros integrados de recuperação, valorização e eliminação de resíduos perigosos, adiante designados por CIRVER, são realizadas de acordo com as normas técnicas constantes do respectivo regulamento de funcionamento, aprovado por portaria dos membros do Governo responsáveis pelas áreas do ambiente, da economia e da saúde.
+
+2 - Os CIRVER devem realizar operações de preparação de combustíveis alternativos a partir de resíduos perigosos para posterior valorização energética em instalações de incineração ou co-incineração, podendo ainda essas operações de tratamento, desde que exclusivamente físicas, ser realizadas noutras instalações devidamente licenciadas para o efeito nos termos do presente decreto-lei.
+
+###### Artigo 22.º-A — Óleos usados
+
+1 - A gestão de óleos usados rege-se pelo regime jurídico específico sem prejuízo da aplicação do disposto no presente decreto-lei em tudo o que não estiver naquele previsto.
+
+2 - Entende-se por 'óleos usados' quaisquer lubrificantes, minerais ou sintéticos, ou óleos industriais que se tenham tornado impróprios para o uso a que estavam inicialmente destinados, tais como os óleos usados dos motores de combustão e dos sistemas de transmissão, os óleos lubrificantes usados e os óleos usados para turbinas e sistemas hidráulicos.
+
+3 - Os óleos usados são recolhidos selectivamente sempre que tecnicamente exequível e tratados em conformidade com os princípios da hierarquia de gestão de resíduos e da protecção da saúde humana e do ambiente.
+
+4 - É proibida a mistura de óleos usados de características diferentes bem como a mistura de óleos usados com outros tipos de resíduos ou substâncias se tecnicamente exequível e economicamente viável e quando a mistura em causa impeça o tratamento dos óleos usados.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 22.º-B — Composto
+
+1 - O composto pode ser colocado no mercado como correctivo orgânico desde que sejam observados os requisitos constantes de portaria a aprovar pelos membros do Governo responsáveis pelas áreas do ambiente, da agricultura e da economia.
+
+2 - Para efeitos de colocação no mercado, podem ser utilizados para a produção de composto os resíduos indicados na lista de resíduos a definir na portaria referida no número anterior.
+
+3 - Para efeitos do disposto no número anterior, o operador responsável pela colocação do composto no mercado, antes de proceder a essa colocação, deve certificar-se de que o composto cumpre os requisitos de qualidade estabelecidos na portaria referida no n.º 1 e as obrigações em matéria de marcação, rotulagem, embalagem, registo e documentação constantes do Decreto-Lei n.º 190/2004, de 17 de Agosto.
+
+4 - O operador responsável pela colocação do composto no mercado deve elaborar e executar um plano de controlo de qualidade que observe os requisitos previstos na portaria referida no n.º 1.
+
+5 - O operador responsável pela colocação do composto no mercado deve dispor de um técnico qualificado e de um laboratório, para o controlo analítico previsto no número anterior, podendo para o efeito recorrer a entidade externa.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 103/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2015-67485179), em vigor a partir de 2015-08-14
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+### Capítulo III — Licenciamento das actividades de tratamento de resíduos
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+#### Secção I — Disposições gerais
+
+###### Artigo 23.º — Sujeição e licenciamento
+
+1 - A actividade de tratamento de resíduos está sujeita a licenciamento por razões de saúde pública e de protecção do ambiente, nos termos do presente capítulo.
+
+2 - O disposto no presente capítulo aplica-se, com as necessárias adaptações, às operações de descontaminação dos solos e de valorização agrícola de resíduos, sem prejuízo do disposto em legislação especial.
+
+3 - O disposto no presente capítulo é ainda aplicável, com as necessárias adaptações, às operações de tratamento de resíduos que se desenvolvam em instalações móveis, devendo o acto de licenciamento, nestes casos, definir os tipos de locais em que o seu desenvolvimento é permitido, de acordo com o tipo de resíduos e de operações de gestão em causa.
+
+4 - Estão isentas de licenciamento nos termos do presente capítulo as seguintes operações de tratamento:
+
+a) Valorização energética de resíduos vegetais fibrosos provenientes da produção de pasta virgem e de papel, se forem co-incinerados no local de produção;
+
+b) Valorização energética de resíduos de madeira e cortiça, com excepção daqueles que possam conter compostos orgânicos halogenados ou metais pesados resultantes de tratamento com conservantes ou revestimento, incluindo, em especial, os provenientes de obras de construção e demolição;
+
+c) Valorização energética da fracção dos biorresíduos provenientes de espaços verdes;
+
+d) Valorização energética da fracção dos biorresíduos de origem vegetal provenientes da indústria de transformação de produtos alimentares;
+
+e) Valorização não energética de resíduos não perigosos, quando efectuada pelo produtor dos resíduos resultantes da sua própria actividade, no local de produção ou em local análogo ao local de produção pertencente à mesma entidade;
+
+f) Valorização não energética de resíduos perigosos, quando efectuada pelo produtor dos resíduos, desde que abrangida por normas técnicas previstas nos n.os 2 e 3 do artigo 20.º
+
+5 - Estão ainda isentas de licenciamento, desde que enquadradas por normas técnicas aprovadas nos termos do artigo 20.º:
+
+a) As operações de valorização de resíduos não previstas no número anterior ou de eliminação de resíduos não perigosos quando efectuadas pelo seu produtor e no próprio local de produção;
+
+b) As operações de valorização de resíduos, designadamente de resíduos transaccionados no mercado organizado de resíduos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 24.º — Entidades licenciadoras
+
+Sem prejuízo do disposto nos artigos 41.º a 44.º do presente decreto-lei, o licenciamento das operações de gestão de resíduos compete:
+
+a) À ANR, no caso de operações efectuadas em instalações referidas no anexo I do Decreto-Lei n.º 69/2000, de 3 de Maio, na redacção que lhe foi dada pelos Decretos-Leis n.os 74/2001, de 26 de Fevereiro, e 69/2003, de 10 de Abril, pela Lei n.º 12/2004, de 30 de Março, e pelo Decreto-Lei n.º 197/2005, de 8 de Novembro;
+
+b) Às ARR, nos restantes casos de operações de gestão de resíduos, bem como nos casos de operações de descontaminação dos solos.
+
+###### Artigo 25.º — Dispensa de licenciamento e comunicação prévia
+
+1 - As operações de eliminação de resíduos não perigosos, quando efectuadas pelo seu produtor e no próprio local de produção, bem como as operações de valorização de resíduos não perigosos, estão dispensadas de licenciamento sempre que dos planos específicos de gestão de resíduos ou de portaria conjunta aprovada pelos membros do Governo responsáveis pela área do ambiente e pela área geradora do respectivo tipo de resíduos resulte a adopção de normas específicas para cada tipo de operação e a fixação dos tipos e das quantidades de resíduos a eliminar ou valorizar.
+
+2 - As operações referidas no número anterior devem ser realizadas sem pôr em perigo a saúde humana e sem utilizar processos ou métodos susceptíveis de gerar efeitos adversos sobre o ambiente, nomeadamente através da criação de perigos para a água, o ar, o solo, a fauna e a flora, perturbações sonoras ou odoríficas ou de danos em quaisquer locais de interesse e na paisagem, estando ainda sujeitas à obrigação de comunicação prévia à ARR competente.
+
+3 - A comunicação prévia deve ser instruída com a identificação do interessado, a localização geográfica e a descrição das operações em causa e do tipo e quantidade de resíduos envolvidos, bem como das medidas ambientais e de saúde pública a implementar, aplicando-se o disposto no artigo 26.º do presente decreto-lei, podendo as operações iniciar-se decorrido o prazo de 10 dias após a sua entrega.
+
+4 - No prazo de 10 dias após a recepção da comunicação prévia, a ARR indefere liminarmente o pedido quando verifique que não estão reunidos os requisitos da comunicação prévia previstos nos n.os 1 e 2 do presente artigo.
+
+5 - A ARR informa a ANR do início das operações de gestão de resíduos objecto de comunicação prévia.
+
+6 - Às operações de gestão de resíduos sujeitas a comunicação prévia aplica-se, com as devidas adaptações, o disposto nos artigos 34.º a 40.º do presente decreto-lei.
+
+7 - Sob solicitação de entidades judiciais, policiais ou de outras entidades públicas com competência específica na matéria, pode ser ainda excepcionalmente dispensada de licenciamento, por despacho do dirigente máximo da ANR e com fundamento em razões de ordem ou saúde públicas, a realização de operações de gestão de resíduos não perigosos com vista à sua eliminação.
+
+8 - A decisão a que se refere o número anterior fixa os termos e as condições de realização das operações em causa.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 26.º — Apresentação de documentos
+
+1 - O pedido de licença para a actividade de tratamento de resíduos bem como os outros documentos exigidos no âmbito do presente decreto-lei são apresentados pelo requerente em suporte informático e por meios electrónicos, através do balcão único electrónico dos serviços, podendo as peças desenhadas ser apresentadas em suporte de papel.
+
+2 - Os documentos são acompanhados de declaração que ateste a autenticidade das declarações prestadas, elaborada e assinada pelo interessado ou pelo seu representante legal quando se trate de pessoa colectiva, sendo a assinatura feita através dos meios de certificação electrónica.
+
+3 - Todas as comunicações subsequentes entre a entidade licenciadora e o interessado, no âmbito do procedimento referido no n.º 1, são realizadas por meios electrónicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 26.º-A — Plataforma electrónica de gestão dos processos de licenciamento
+
+1 - A ANR mantém disponível ao público, no seu sítio na Internet, uma plataforma electrónica de gestão dos processos de licenciamento, através da qual podem ser consultados o estado e o cadastro dos processos actualizado e articulado com o cadastro ambiental previsto na Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro.
+
+2 - A ANR, em colaboração com as demais entidades licenciadoras, garante a interoperabilidade da plataforma electrónica de gestão dos processos de licenciamento com outras plataformas electrónicas de licenciamento, nomeadamente a que suporta o licenciamento do exercício da actividade industrial.
+
+3 - A actualização da plataforma electrónica de gestão dos processos de licenciamento, incluindo designadamente a emissão, renovação, alteração ou transmissão de licenças bem como as respectivas suspensões ou revogações, é da competência das entidades licenciadoras definidas nos termos do artigo 24.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+#### Secção II — Procedimento
+
+###### Artigo 27.º — Pedido de licenciamento
+
+1 - O pedido de licenciamento é apresentado junto da entidade licenciadora, instruído com os seguintes elementos:
+
+a) Documento do qual constem:
+
+i) A identificação do requerente e o seu número de identificação fiscal;
+
+ii) Descrição da operação que pretende realizar e da sua localização geográfica, com os elementos definidos em portaria aprovada pelo membro do Governo responsável pela área do ambiente;
+
+b) Outros elementos tidos pelo requerente como relevantes para a apreciação do pedido.
+
+2 - No prazo de 10 dias, a entidade licenciadora verifica se o pedido se encontra instruído com a totalidade dos elementos exigidos, podendo solicitar, por uma única vez, a prestação de informações ou elementos complementares, bem como o seu aditamento ou reformulação.
+
+3 - A entidade licenciadora pode igualmente convocar o requerente para a realização de uma conferência instrutória na qual são abordados todos os aspectos considerados necessários para a boa decisão do pedido e eventualmente solicitados elementos instrutórios adicionais.
+
+4 - No caso de o requerente não juntar os elementos solicitados pela entidade licenciadora nos termos dos números anteriores no prazo de 60 dias a contar da notificação de pedido de elementos ou de os juntar de forma deficiente ou insuficiente, o pedido é liminarmente indeferido.
+
+###### Artigo 28.º — Consultas
+
+1 - No prazo de 10 dias a contar da recepção do pedido ou da recepção dos elementos adicionais referidos nos n.os 2 a 4 do artigo anterior, a autoridade licenciadora promove a consulta das entidades que devam pronunciar-se no âmbito do procedimento de licenciamento, nomeadamente:
+
+a) Do organismo regional com responsabilidade pela gestão da água, relativamente à afectação dos recursos hídricos;
+
+b) Do serviço regional desconcentrado responsável pela área do ordenamento do território, quanto à compatibilidade da localização prevista com os instrumentos de gestão territorial e com as servidões administrativas e restrições de utilidade pública respectivamente aplicáveis.
+
+2 - (Revogado).
+
+3 - No termo do prazo fixado no n.º 1 para a autoridade licenciadora promover as consultas às entidades que devam pronunciar-se no âmbito do procedimento, pode o requerente solicitar a passagem de certidão da promoção das consultas devidas, devendo esta ser emitida no prazo de 10 dias.
+
+4 - Se a certidão referida no número anterior for negativa ou não for emitida no respectivo prazo, o interessado pode promover directamente as respectivas consultas ou pedir ao tribunal que promova as consultas ou que condene a autoridade licenciadora a promovê-las.
+
+5 - A não emissão de parecer no prazo de 15 dias contados a partir da data de promoção das consultas previstas nos números anteriores equivale à emissão de parecer favorável.
+
+6 - Quando os meios disponíveis o permitam e a entidade licenciadora o determine, os pareceres previstos no presente artigo podem ser emitidos em conferência de serviços, a qual pode decorrer por via electrónica.
+
+7 - Os pareceres referidos no número anterior são reduzidos a escrito em acta da conferência assinada por todos os presentes ou documentados através de outro meio que ateste a posição assumida pelo representante da entidade consultada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 29.º — Comunicação
+
+1 - A entidade licenciadora comunica ao requerente, no prazo de 30 dias após o termo do prazo referido no n.º 1 do artigo anterior, se o respectivo projecto:
+
+a) Está conforme aos princípios referidos no título I do presente decreto-lei e aos planos de gestão de resíduos aplicáveis; e
+
+b) Cumpre as normas técnicas a que se referem os artigos 20.º a 22.º
+
+2 - Com a comunicação referida no número anterior, a entidade licenciadora informa o requerente das condições impostas por si e pelas demais entidades consultadas.
+
+3 - A comunicação é válida por um período de dois anos, sendo o seu prazo de validade prorrogável a pedido do requerente, com fundamento em motivo que não lhe seja imputável.
+
+4 - Sem prejuízo da possibilidade de exercício dos meios de garantia jurisdicional ao dispor do requerente para reagir à omissão administrativa, a falta da comunicação pela entidade licenciadora no prazo referido no n.º 1 do presente artigo concede ao requerente a faculdade de notificar para o efeito aquela entidade, a qual tem o prazo de oito dias contados da recepção da notificação para se pronunciar, equivalendo a falta de pronúncia à emissão de comunicação favorável ao projecto.
+
+5 - São nulos os actos que autorizem ou licenciem a realização de qualquer projecto relativo a operações de gestão de resíduos sem que tenha sido previamente emitida a comunicação favorável a que se refere o n.º 1 do presente artigo ou verificada a produção do deferimento tácito nos termos previstos no número anterior.
+
+###### Artigo 30.º — Vistoria
+
+1 - O requerente solicita a realização de uma vistoria com uma antecedência mínima de 40 dias da data prevista para o início da realização da operação de gestão de resíduos.
+
+2 - Quando tiverem sido impostas condições nos termos do n.º 2 do artigo anterior, o pedido de vistoria é acompanhado de elementos comprovativos do respectivo cumprimento.
+
+3 - A vistoria é efectuada pela entidade licenciadora, acompanhada pelas entidades que tenham emitido parecer, não constituindo a ausência destas fundamento para a sua não realização.
+
+4 - A vistoria efectua-se no prazo de 20 dias a contar da data de apresentação da solicitação, sendo o requerente notificado para o efeito pela entidade licenciadora com uma antecedência mínima de 10 dias.
+
+5 - Da vistoria é lavrado um auto, assinado pelos intervenientes, do qual consta a informação sobre:
+
+a) A conformidade ou desconformidade da instalação e ou equipamento com o projecto que tenha merecido uma apreciação favorável nos termos do artigo 29.º;
+
+b) O cumprimento das condições previamente estabelecidas.
+
+6 - A não realização da vistoria no prazo de 20 dias após a recepção do pedido equivale à verificação da conformidade da instalação ou equipamento com o projecto inicialmente apresentado.
+
+###### Artigo 31.º — Decisão final
+
+1 - A decisão final é proferida no prazo de 10 dias a contar da data da realização da vistoria ou do decurso do prazo referido no n.º 6 do artigo anterior.
+
+2 - O licenciamento de operações de gestão de resíduos depende do cumprimento dos seguintes requisitos:
+
+a) Verificação da conformidade da instalação e ou equipamento com o projecto que tenha merecido uma apreciação favorável nos termos do artigo 29.º;
+
+b) Conformidade da operação de gestão com os princípios referidos no título I do presente decreto-lei e com os planos de gestão de resíduos aplicáveis; e
+
+c) Cumprimento pela operação a realizar das normas técnicas a que se referem os artigos 20.º a 22.º
+
+3 - A decisão final estabelece os termos e as condições de que depende a realização da operação de gestão de resíduos licenciada.
+
+4 - (Revogado).
+
+5 - Sem prejuízo da possibilidade de exercício dos meios de garantia jurisdicional ao dispor do requerente para reagir à omissão administrativa, a falta de decisão pela entidade licenciadora no prazo referido no n.º 1 do presente artigo concede ao requerente a faculdade de notificar para o efeito aquela entidade, a qual tem o prazo de oito dias contados da recepção da notificação para se pronunciar, equivalendo a falta de pronúncia à emissão de decisão favorável ao projecto.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 31.º-A — Instalações sujeitas a avaliação de impacte ambiental
+
+1 - No caso de uma instalação sujeita a AIA, nos termos do regime jurídico de AIA, aprovado pelo Decreto-Lei n.º 69/2000, de 3 de Maio, o pedido de licença para a operação de tratamento de resíduos é entregue após:
+
+a) A emissão de DIA favorável ou condicionalmente favorável, no caso de o procedimento de AIA decorrer em fase de projecto de execução;
+
+b) A emissão de parecer relativo à conformidade do projecto de execução com a DIA, no caso de o procedimento de AIA decorrer em fase de estudo prévio;
+
+c) A emissão de declaração relativa à dispensa do procedimento de AIA; ou
+
+d) O decurso do prazo necessário para deferimento tácito nos termos previstos no regime jurídico de AIA, aprovado pelo Decreto-Lei n.º 69/2000, de 3 de Maio.
+
+2 - Por opção do operador, o procedimento de licenciamento da actividade de tratamento de resíduos pode decorrer em simultâneo com o procedimento de AIA desde que este seja relativo a um projecto de execução.
+
+3 - No caso referido no número anterior, o procedimento de licenciamento da actividade de tratamento de resíduos inicia-se logo que seja emitida a declaração de conformidade do estudo de impacte ambiental, nos termos do n.º 4 do artigo 13.º do regime jurídico da avaliação de impacte ambiental, aprovado pelo Decreto-Lei n.º 69/2000, de 3 de Maio.
+
+4 - No caso de o procedimento de licenciamento da operação de tratamento de resíduos decorrer em simultâneo com o procedimento de AIA, a comunicação referida no artigo 29.º só ocorre após a emissão da DIA favorável ou condicionalmente favorável e, no caso de emissão de DIA desfavorável, a comunicação é de indeferimento do projecto.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 32.º — Licenciamento simplificado
+
+1 - São licenciados em procedimento de regime simplificado, analisado e decidido no prazo de 30 dias pela entidade licenciadora:
+
+a) O tratamento de resíduos relativo a situações pontuais, dotadas de carácter não permanente ou em que os resíduos não resultem da normal actividade produtiva;
+
+b) Armazenagem de resíduos, quando efectuadas no próprio local de produção, no respeito pelas especificações técnicas aplicáveis e por período superior a um ano;
+
+c) (Revogada).
+
+d) O armazenamento e a triagem de resíduos em centros de recepção que integram sistemas de gestão de fluxos específicos de resíduos;
+
+e) (Revogada).
+
+f) A valorização de resíduos realizada a título experimental destinada a fins de investigação, desenvolvimento e ensaio de medidas de aperfeiçoamento dos processos de gestão de resíduos, por um período máximo de 6 meses, prorrogável até 18 meses;
+
+g) A valorização de resíduos não perigosos que não seja efectuada pelo produtor dos resíduos, com excepção da valorização energética e da valorização orgânica;
+
+h) (Revogada).
+
+i) Valorização de resíduos inertes, de betão e de betuminosos;
+
+j) Valorização de resíduos tendo em vista a recuperação de metais preciosos;
+
+l) (Revogada).
+
+m) (Revogada).
+
+2 - O pedido de licenciamento simplificado é instruído com os seguintes elementos:
+
+a) Memória descritiva das operações em causa e do tipo e quantidade de resíduos envolvidos;
+
+b) Informação relativa à sua localização geográfica definida na portaria a que se refere a subalínea ii) da alínea a) do n.º 1 do artigo 27.º e que seja relevante para a apreciação do pedido;
+
+c) Identificação das medidas de protecção do ambiente e da saúde pública a implementar.
+
+3 - No prazo de 10 dias, a entidade licenciadora verifica se o pedido se encontra instruído com a totalidade dos elementos exigidos, podendo solicitar, por uma única vez, a prestação de informações ou elementos complementares, bem como o seu aditamento ou reformulação, suspendendo-se o prazo referido no n.º 1 do presente artigo.
+
+4 - A entidade licenciadora pode igualmente convocar o requerente para a realização de uma conferência instrutória na qual são abordados todos os aspectos considerados necessários para a boa decisão do pedido e eventualmente solicitados elementos instrutórios adicionais.
+
+5 - No caso de o requerente não juntar os elementos solicitados pela entidade licenciadora nos termos dos números anteriores no prazo de 30 dias a contar da notificação de pedido de elementos ou de os juntar de forma deficiente ou insuficiente, o pedido é liminarmente indeferido.
+
+6 - O licenciamento de operações de tratamento de resíduos nos termos do presente artigo depende do cumprimento dos seguintes requisitos:
+
+a) Conformidade do pedido com os princípios referidos no título I do presente decreto-lei e com os planos de gestão de resíduos aplicáveis;
+
+b) Observância das normas técnicas a que se referem os artigos 20.º a 22º
+
+c) Compatibilidade da localização pretendida com os instrumentos de gestão territorial e com as servidões administrativas e restrições de utilidade pública aplicáveis, de acordo com parecer emitido pelo serviço regional desconcentrado responsável pela área do ordenamento do território no decurso do procedimento de licenciamento simplificado.
+
+7 - Em caso de deferimento, a licença é emitida nos termos do artigo 33.º
+
+2.º
+
+8 - Sem prejuízo da possibilidade de exercício dos meios de garantia jurisdicional ao dispor do requerente para reagir à omissão administrativa, a falta de decisão da entidade licenciadora no prazo referido no n.º 1 do presente artigo concede ao requerente a faculdade de notificar para o efeito aquela entidade, a qual tem o prazo de oito dias contados da recepção da notificação para se pronunciar, equivalendo a falta de pronúncia à emissão de decisão favorável.
+
+9 - As actividades abrangidas pelo licenciamento simplificado estão sujeitas a vistoria de controlo, efectuada pela entidade licenciadora no prazo máximo de seis meses após emissão do alvará, aplicando-se, com as necessárias adaptações, o disposto no artigo 30.º
+
+> Alterado pelo/a Artigo 119.º do/a [Decreto-Lei n.º 127/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546), em vigor a partir de 2013-08-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 33.º — Alvará de licença
+
+1 - Com o proferimento da decisão final é emitido e enviado ao operador o respectivo alvará de licença, do qual constam, nomeadamente:
+
+a) A identificação do titular da licença, incluindo o endereço completo da instalação licenciada e a sua georreferenciação;
+
+b) O tipo de operação de gestão de resíduos para o qual o operador está licenciado, nomeadamente as normas técnicas aplicáveis e o método de tratamento utilizável;
+
+c) Indicação exacta dos códigos dos resíduos abrangidos, de acordo com a LER, e das quantidades máximas, total e instantânea, de resíduos objecto da operação de valorização ou eliminação, classificada de acordo com os anexos i e ii do presente decreto-lei;
+
+d) As condições a que fica submetida a operação de gestão de resíduos, incluindo as precauções a tomar em matéria de segurança;
+
+e) A identificação do(s) responsável(eis) técnico(s) pela operação de gestão de resíduos;
+
+f) A identificação das instalações e ou equipamentos licenciados, incluindo a indicação dos mesmos em peça desenhada e os requisitos técnicos relevantes;
+
+g) O prazo de validade da licença.
+
+h) As operações de acompanhamento e controlo que forem necessárias;
+
+i) As disposições que forem necessárias em matéria de encerramento e de manutenção após o encerramento;
+
+j) A indicação da eficiência energética quando esteja em causa uma operação de incineração ou de co-incineração, com valorização energética;
+
+l) Consequências do não cumprimento das condições da licença.
+
+2 - A licença é válida pelo período nela fixado, que não pode ser superior a cinco anos.
+
+3 - A ANR disponibiliza o modelo de alvará de licença na plataforma de gestão dos processos de licenciamento e no seu sítio da Internet.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+#### Secção III — Vicissitudes da licença e controlo da operação licenciada
+
+###### Artigo 34.º — Adaptabilidade da licença
+
+1 - O operador de gestão de resíduos assegura a adopção das medidas preventivas adequadas ao combate à poluição, mediante a utilização das melhores técnicas disponíveis.
+
+2 - A entidade licenciadora pode impor ao operador de gestão de resíduos, mediante decisão fundamentada, a adopção das medidas que considere adequadas para minimizar ou compensar efeitos negativos não previstos para o ambiente ou para a saúde pública ocorridos durante as operações de gestão de resíduos.
+
+###### Artigo 35.º — Renovação da licença
+
+1 - O pedido de renovação da licença é apresentado pelo operador de gestão de resíduos no prazo de 120 dias antes do termo do prazo de validade da licença em vigor, instruído com documento do qual conste a menção de que a operação será realizada de forma integralmente conforme com a anteriormente licenciada e nos termos da legislação e regulamentação aplicáveis.
+
+2 - O requerente fica dispensado de apresentar com o pedido de renovação os documentos que hajam instruído o anterior pedido de licença e que se mantenham válidos.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - A decisão de renovação é proferida no prazo de 30 dias a contar da data de apresentação do requerimento, sendo realizada, pela entidade licenciadora, vistoria prévia para verificação do cumprimento das condições fixadas no alvará de licença nos termos do artigo 30.º
+
+7 - Os termos da renovação da licença são averbados no alvará original.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 36.º — Alteração do alvará de licença
+
+1 - O alvará de licença da operação de tratamento de resíduos pode ser alterado na sequência de decisão da entidade licenciadora nos termos do n.º 2 do artigo 34.º ou por solicitação do operador, quando pretenda modificar o tipo de operação realizada, o tipo de resíduo objecto de gestão, a quantidade de resíduos tratados ou a área de instalação.
+
+2 - No caso de alteração requerida pelo operador, a entidade licenciadora pode decidir e notificar o requerente para apresentar um novo pedido de licença, nos termos do disposto nos artigos 27.º e 32.º, sempre que das alterações introduzidas resulte o exercício de uma operação substancialmente diferente da originalmente licenciada, nomeadamente quando se verifique:
+
+a) A modificação da operação de valorização ou eliminação, classificada de acordo com os anexos i e ii do presente decreto-lei, aplicada a cada resíduo a tratar;
+
+b) O tratamento de resíduos, classificados de acordo com a LER, não contemplados no alvará de licença anterior, e que impliquem uma alteração do processo de tratamento;
+
+c) O aumento da área ocupada pela instalação exceda em mais de 20% a área ocupada à data de emissão da licença; ou ainda
+
+d) Se verifique um aumento superior a 20% da quantidade de resíduos geridos.
+
+3 - Sempre que as alterações introduzidas consubstanciem um novo pedido nos termos do número anterior, o pedido é instruído, com as necessárias adaptações, nos termos do disposto nos artigos 27.º e 32.º
+
+4 - Os termos da alteração da licença são averbados no alvará original.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 37.º — Transmissão da licença
+
+1 - A licença de operação de gestão de resíduos pode ser transmitida desde que o transmissário realize a operação de gestão de resíduos nos termos definidos no procedimento de licenciamento.
+
+2 - A transmissão da licença é solicitada mediante apresentação à entidade licenciadora de requerimento conjunto instruído de documento elaborado pelo transmissário do qual constem:
+
+a) A declaração de que a operação será realizada nos termos licenciados e de acordo com a legislação e regulamentação aplicáveis;
+
+b) A identificação do responsável técnico da operação licenciada e das respectivas habilitações profissionais.
+
+3 - A entidade licenciadora decide o pedido de transmissão no prazo de 15 dias, equivalendo a falta de decisão a deferimento tácito.
+
+4 - A transmissão da licença é averbada no respectivo alvará.
+
+###### Artigo 38.º — Suspensão e revogação da licença
+
+1 - Sem prejuízo do disposto no capítulo I do título V do presente decreto-lei, a entidade licenciadora pode suspender ou revogar a licença por si emitida.
+
+2 - A licença pode ser suspensa nos seguintes casos:
+
+a) Verificação de um risco significativo de produção de efeitos negativos ou prejudiciais para a saúde pública ou para o ambiente em resultado de actividades relacionadas com a operação de gestão de resíduos objecto de licenciamento;
+
+b) Necessidade de suspensão da operação para assegurar o cumprimento das medidas impostas nos termos do n.º 2 do artigo 34.º
+
+c) Incumprimento das condições impostas no âmbito das vistorias de controlo efectuadas nos termos do n.º 9 do artigo 32.º;
+
+d) Desconformidade da instalação e ou equipamento com o projecto objecto de licenciamento.
+
+3 - A suspensão da licença mantém-se até deixarem de se verificar os factos que a determinaram.
+
+4 - A licença é total ou parcialmente revogável quando:
+
+a) For inviável a minimização ou compensação de significativos efeitos negativos não previstos para o ambiente ou para a saúde pública que ocorram durante as operações de gestão de resíduos;
+
+b) Se verificar o incumprimento reiterado dos termos da respectiva licença ou das medidas impostas nos termos do n.º 2 do artigo 34.º;
+
+c) Não for assegurada a constante adopção de medidas preventivas adequadas ao combate à poluição mediante a utilização das melhores técnicas disponíveis, daí resultando a produção de efeitos negativos para o ambiente que sejam evitáveis;
+
+d) O operador realizar operações proibidas, nos termos do n.º 3 do artigo 9.º
+
+e) O operador realizar operações de tratamento em instalações não abrangidas pelo licenciamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 39.º — Falta de início e suspensão de actividade
+
+1 - A licença caduca caso não seja iniciada a operação de gestão de resíduos no prazo de um ano a contar da data da sua emissão, devendo nesse caso ser solicitada a sua renovação nos termos do artigo 35.º
+
+2 - A licença caduca igualmente com a suspensão das operações de gestão de resíduos por um período de tempo superior a um ano, aplicando-se o disposto no artigo seguinte, excepto quando o operador demonstre perante a entidade licenciadora que lhe é impossível retomar a operação de gestão de resíduos por motivo que não lhe seja imputável.
+
+3 - O início da suspensão do exercício da actividade é comunicado pelo operador à entidade licenciadora no prazo de cinco dias a contar dessa mesma data.
+
+###### Artigo 40.º — Cessação da actividade
+
+1 - A cessação de actividade da operação de gestão de resíduos licenciada depende da aceitação por parte da entidade licenciadora de um pedido de renúncia da respectiva licença.
+
+2 - O pedido de renúncia é apresentado junto da entidade licenciadora instruído com a documentação que o operador entenda relevante para evidenciar que a cessação de actividade não produzirá qualquer passivo ambiental, podendo a entidade licenciadora no prazo de 30 dias solicitar ao operador a informação que entenda relevante para a decisão a produzir.
+
+3 - A entidade licenciadora decide o pedido de renúncia no prazo de 60 dias, podendo nesse prazo realizar as vistorias que entenda necessárias.
+
+4 - A entidade licenciadora aceita o pedido de renúncia quando verificar que o local onde a operação de gestão de resíduos tem lugar não apresenta qualquer passivo ambiental.
+
+5 - A entidade licenciadora pode sujeitar a aceitação do pedido de renúncia ao cumprimento de condições, nomeadamente determinando ao operador a adopção de mecanismos de minimização e correcção de efeitos negativos para o ambiente.
+
+#### Secção IV — Outros regimes de licenciamento
+
+###### Artigo 41.º — Licença ambiental
+
+As operações de gestão de resíduos a que se aplique o regime da licença ambiental são licenciadas nos termos dessa legislação.
+
+> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 173/2008 - Diário da República n.º 164/2008, Série I de 2008-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2008-453550), em vigor a partir de 2008-08-31
+
+###### Artigo 41.º-A — Licença ambiental
+
+No caso de instalações de tratamento de resíduos sujeitas ao regime de prevenção e controlo integrados da poluição, aprovado pelo Decreto-Lei n.º 173/2008, de 26 de Agosto, o pedido de licença previsto no artigo 27.º do presente decreto-lei é apresentado através do formulário para o pedido de licença ambiental, designado por formulário PCIP.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 41.º-B — Regime jurídico de urbanização e edificação
+
+1 - Sempre que a actividade de tratamento de resíduos objecto de licenciamento envolva a realização de operação urbanística sujeita a controlo prévio nos termos do regime jurídico de urbanização e edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, o requerente pode apresentar à câmara municipal competente o pedido de licença ou comunicação prévia, antes de iniciado o procedimento de licenciamento previsto no presente capítulo.
+
+2 - A câmara municipal só pode emitir decisão sobre o pedido referido o número anterior após a emissão da comunicação favorável da entidade licenciadora relativa ao projecto a que se refere o n.º 1 do artigo 29.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 41.º-C — Título de utilização dos recursos hídricos
+
+O licenciamento da actividade de tratamento de resíduos nos termos do presente decreto-lei não prejudica a necessidade de obtenção de título de utilização de recursos hídricos sempre que o mesmo seja exigível nos termos da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de Dezembro, e do regime de utilização dos recursos hídricos, aprovado pelo Decreto-Lei n.º 226-A/2007, de 31 de Maio.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 42.º — Licenciamento industrial
+
+1 - O licenciamento de operações de tratamento de resíduos realizadas num estabelecimento industrial é sujeito à seguinte articulação:
+
+a) No licenciamento de uma instalação industrial, na aceção do Sistema da Indústria Responsável (SIR) que efetue a substituição total ou parcial de matérias-primas virgens por resíduos, considera-se que o título a emitir no âmbito do SIR constitui condição suficiente para o exercício da atividade industrial;
+
+b) No licenciamento de uma instalação de tratamento de resíduos titulada com CAE incluída nos grupos 382, 383 e 390, que careça de licenciamento ao abrigo do presente decreto-lei, é emitido alvará de licença da atividade de tratamento de resíduos.
+
+2 - O alvará referido na alínea b) do número anterior é emitido no âmbito do procedimento de licenciamento industrial pela entidade competente para o licenciamento da atividade de tratamento de resíduos nos termos do artigo 24.º
+
+3 - (Revogado),
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 75/2015 - Diário da República n.º 90/2015, Série I de 2015-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2015-67185043), em vigor a partir de 2015-06-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 42.º-A — Licenciamento de instalação pecuária
+
+O licenciamento de uma unidade de biogás ou compostagem de efluentes pecuários, na acepção das alíneas t) e u) da Portaria n.º 631/2009, de 9 de Junho, é efectuado no âmbito do regime de exercício da actividade pecuária, aprovado pelo Decreto-Lei n.º 214/2008, de 10 de Novembro, com parecer vinculativo a emitir pela entidade competente para o licenciamento da actividade de tratamento de resíduos nos termos do artigo 24.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 43.º — Regimes especiais de licenciamento
+
+A instalação e a exploração de CIRVER e as operações de valorização agrícola de lamas de depuração, de gestão de resíduos hospitalares, de gestão de resíduos gerados em navios, de incineração e co-incineração de resíduos e de deposição de resíduos em aterro encontram-se sujeitas a licenciamento nos termos da legislação e regulamentação respectivamente aplicáveis, aplicando-se o disposto no presente capítulo em tudo o que não estiver nela previsto.
+
+###### Artigo 44.º — Sistemas de gestão de fluxos específicos de resíduos
+
+1 - A gestão de fluxos específicos de resíduos está sujeita a licença ou autorização nos termos da legislação especial, aplicando-se as disposições do presente decreto-lei a tudo o que não estiver nela previsto.
+
+2 - A licença ou autorização prevista no número anterior é atribuída por despacho dos membros do Governo responsáveis pelas áreas da economia e do ambiente, por período não superior a cinco anos, podendo ser prorrogada por um ano, e estabelece as condições de gestão do fluxo, designadamente as relativas:
+
+a) À rede de recolha dos resíduos;
+
+b) Aos objetivos e metas de gestão;
+
+c) Aos planos de prevenção, sensibilização e investigação e desenvolvimento;
+
+d) Às prestações e contrapartidas financeiras;
+
+e) Ao equilíbrio económico-financeiro do sistema do fluxo de resíduos; e
+
+f) Às relações com outros operadores e entidades intervenientes no fluxo, no âmbito da monitorização e na prestação de informação.
+
+3 - No que se refere ao modelo económico e financeiro dos sistemas integrados de gestão de fluxos específicos de resíduos, a fixação de prestações financeiras e contrapartidas, no âmbito das respetivas licenças ou autorizações, é assegurada pela ANR e pela DGAE, em colaboração com a Entidade Reguladora dos Serviços de Águas e Resíduos, I. P., no que respeita aos fluxos com interface com os resíduos urbanos.
+
+4 - As entidades licenciadas, nos termos dos números anteriores, são responsáveis pela prestação de contrapartidas financeiras destinadas a suportar os acréscimos de custos com a recolha seletiva e triagem dos fluxos específicos de resíduos, bem como pela prestação de contrapartidas financeiras destinadas a suportar os custos da triagem dos fluxos específicos de resíduos nas estações de tratamento mecânico e de tratamento mecânico e biológico, da valorização orgânica e do tratamento das escórias metálicas resultantes da incineração dos resíduos urbanos e demais frações consideradas reciclagem.
+
+5 - Sempre que em determinado fluxo específico de resíduos atue mais do que uma entidade gestora, há lugar à aplicação de mecanismos de alocação e compensação com vista a compensar a entidade gestora que assume a responsabilidade pela gestão de resíduos e cuja responsabilidade pela gestão não se lhe encontra atribuída, garantindo o cumprimento das responsabilidades ambientais, de forma a promover a concorrência entre estas entidades, bem como a eficiência do sistema.
+
+6 - A definição de mecanismos de alocação e compensação é da responsabilidade da entidade referida no artigo 50.º, a quem compete igualmente a fixação da taxa referida no número seguinte.
+
+7 - O financiamento do desenvolvimento aplicacional e do funcionamento dos mecanismos de alocação e compensação é assegurado pelas entidades licenciadas previstas no n.º 2, através de uma taxa não superior a 1 % do montante da receita resultante da cobrança das prestações financeiras.
+
+8 - O incumprimento reiterado das condições da licença ou da autorização previstas no n.º 2 constitui fundamento para a respectiva cassação, sem prejuízo do regime contra-ordenacional aplicável.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+### Capítulo IV — Subproduto e fim do estatuto de resíduo
+
+> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 44.º-A — Disposições gerais
+
+1 - Podem ser considerados 'subprodutos e não resíduos' quaisquer substâncias ou objectos resultantes de um processo produtivo cujo principal objectivo não seja a sua produção quando verificadas as seguintes condições:
+
+a) Existir a certeza de posterior utilização da substância ou objecto;
+
+b) A substância ou objecto poder ser utilizado directamente, sem qualquer outro processamento que não seja o da prática industrial normal;
+
+c) A produção da substância ou objecto ser parte integrante de um processo produtivo; e
+
+d) A substância ou objecto cumprir os requisitos relevantes como produto em matéria ambiental e de protecção da saúde e não acarretar impactes globalmente adversos do ponto de vista ambiental ou da saúde humana, face à posterior utilização específica.
+
+2 - Na ausência de critérios comunitários, para efeitos da aplicação do disposto no número anterior, a ANR pode, depois de ouvidos os operadores económicos directamente interessados ou as suas estruturas representativas, definir os critérios que garantam o cumprimento das condições a verificar para que uma substância ou objecto seja considerado 'subproduto'.
+
+3 - Para que determinada substância ou objecto possa ser considerado 'subproduto', os interessados, através das respectivas associações sectoriais ou individualmente, apresentam um pedido junto da ANR, o qual é decidido no prazo de 90 dias.
+
+4 - A ANR publicita no seu sítio na Internet os critérios referidos no n.º 2, a lista dos interessados que obtiveram decisão favorável, bem como a informação relevante para a decisão adoptada.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 44.º-B — Fim do estatuto de resíduo
+
+1 - O fim do estatuto de resíduo pode aplicar-se a determinados resíduos quando tenham sido submetidos a uma operação de valorização, incluindo a reciclagem, e satisfaçam critérios específicos a estabelecer nos termos das seguintes condições:
+
+a) A substância ou objecto ser habitualmente utilizado para fins específicos;
+
+b) Existir um mercado ou procura para essa substância ou objecto;
+
+c) A substância ou objecto satisfazer os requisitos técnicos para os fins específicos e respeitar a legislação e as normas aplicáveis aos produtos; e
+
+d) A utilização da substância ou objecto não acarretar impactes globalmente adversos do ponto de vista ambiental ou da saúde humana.
+
+2 - Os critérios podem incluir valores limite para os poluentes e ter em conta eventuais efeitos ambientais adversos da substância ou objecto.
+
+3 - Na ausência de definição de critérios a nível comunitário, pode ser decidido, relativamente a determinado resíduo, o fim do estatuto de resíduo, cujos critérios são determinados através de portaria do membro do Governo responsável pela área do ambiente, sob proposta da ANR e tendo em conta a jurisprudência aplicável.
+
+4 - A ANR notifica a Comissão Europeia das decisões adoptadas referidas no número anterior, nos termos do disposto no Decreto-Lei n.º 58/2000, de 18 de Abril.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+## Título III — Registo de informação e acompanhamento da gestão de resíduos
+
+### Capítulo I — Sistema Integrado de Registo Electrónico de Resíduos
+
+###### Artigo 45.º — Registo electrónico
+
+1 - Compete à ANR manter, no seu sítio na Internet, um sistema integrado de registo electrónico de resíduos, designado por SIRER, suportado no Sistema Integrado de Registo da Agência Portuguesa do Ambiente (SIRAPA), que permita o registo e o armazenamento de dados relativos a produção e gestão de resíduos e a produtos colocados no mercado abrangidos por legislação relativa a fluxos específicos de resíduos, bem como a transmissão e consulta de informação sobre a matéria.
+
+2 - A informação recolhida no SIRER está sujeita ao regime de acesso aos documentos administrativos, sem prejuízo da sujeição ao regime de protecção de dados pessoais, quando aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 46.º — Funcionamento do SIRER
+
+1 - A gestão do SIRER é assegurada pela ANR e engloba todos os actos praticados com o objectivo de garantir o seu normal e seguro funcionamento, nomeadamente:
+
+a) O recurso a práticas que garantam a confidencialidade e integridade da informação constante do sistema informático;
+
+b) O recurso a práticas que garantam a adequada gestão e conservação dos dados lançados no sistema informático;
+
+c) A adopção de medidas impeditivas do acesso ao sistema por quem não possua autorização e habilitação adequadas;
+
+d) A promoção de medidas de protecção contra práticas de pirataria informática;
+
+e) A concessão de actos autorizativos nos casos legalmente previstos;
+
+f) A emissão de ordens, instruções, recomendações e advertências necessárias à manutenção do bom funcionamento do sistema informático.
+
+2 - O regulamento de funcionamento do SIRER é aprovado por portaria do membro do Governo responsável pela área do ambiente e dele devem constar, designadamente, os procedimentos de inscrição e registo bem como o regime de acesso e de utilização da plataforma.
+
+3 - A ANR pode transferir a gestão do SIRER, total ou parcialmente, a outra entidade, nos termos a fixar por portaria do membro do Governo responsável pela área do ambiente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 47.º — Confidencialidade
+
+1 - Os titulares dos órgãos que exerçam competências relativamente ao SIRER, bem como o pessoal a eles afecto, independentemente da natureza jurídica do respectivo vínculo, estão obrigados a guardar sigilo sobre os dados de que tenham conhecimento por virtude do exercício das respectivas funções.
+
+2 - A violação do dever de sigilo constitui infracção grave para efeitos de responsabilidade disciplinar, sem prejuízo da responsabilidade civil e penal que ao caso couber.
+
+3 - A ANR faculta às entidades competentes para assegurar o cumprimento do disposto no presente decreto-lei o livre acesso aos dados inseridos no SIRER.
+
+###### Artigo 48.º — Obrigatoriedade de inscrição e de registo
+
+1 - Estão sujeitos a inscrição e a registo de dados no SIRER:
+
+a) As pessoas singulares ou colectivas responsáveis por estabelecimentos que empreguem mais de 10 trabalhadores e que produzam resíduos não urbanos;
+
+b) As pessoas singulares ou colectivas responsáveis por estabelecimentos que produzam resíduos perigosos;
+
+c) As pessoas singulares ou colectivas que procedam ao tratamento de resíduos a título profissional;
+
+d) As pessoas singulares ou colectivas que procedam à recolha ou ao transporte de resíduos a título profissional;
+
+e) As entidades responsáveis pelos sistemas de gestão de resíduos urbanos;
+
+f) As entidades responsáveis pela gestão de sistemas individuais ou integrados de fluxos específicos de resíduos;
+
+g) Os operadores que actuam no mercado de resíduos, designadamente como corretores ou comerciantes;
+
+h) Os produtores de produtos sujeitos à obrigação de registo nos termos da legislação relativa a fluxos específicos.
+
+2 - Estão ainda sujeitos a inscrição produtores de resíduos que não se enquadrem no número anterior mas que se encontrem obrigados ao registo electrónico das guias de acompanhamento do transporte rodoviário de resíduos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 49.º — Informação objecto de registo
+
+1 - O SIRER agrega, nomeadamente, a seguinte informação prestada pelas entidades sujeitas a registo:
+
+a) Origens discriminadas dos resíduos;
+
+b) Quantidade, classificação e destino discriminados dos resíduos;
+
+c) Identificação das operações efectuadas;
+
+d) Identificação dos transportadores.
+
+2 - Para efeitos de registo na plataforma, os produtores de produtos devem prestar, pelo menos, a seguinte informação:
+
+a) Identificação do produtor e marcas comercializadas, se aplicável;
+
+b) Identificação do tipo de produto e quantidades colocadas no mercado anualmente;
+
+c) Indicação do sistema de gestão de resíduos adoptado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 49.º-A — Manutenção de registos
+
+1 - As entidades sujeitas a registo nos termos do artigo 48.º devem manter um registo cronológico dos dados registados nos termos do artigo anterior por um período mínimo de três anos.
+
+2 - As informações referidas no número anterior devem ser facultadas às autoridades competentes, sempre que solicitado.
+
+3 - Os documentos comprovativos da execução das operações de gestão de resíduos devem, quando solicitados, ser facultados às autoridades competentes, bem como ao detentor anterior dos resíduos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 49.º-B — Prazo de inscrição e de registo
+
+1 - A inscrição no SIRER deve ser efectuada no prazo de um mês após o início da actividade ou do funcionamento da instalação ou do estabelecimento.
+
+2 - O prazo para registo anual da informação relativa aos resíduos e aos produtos colocados no mercado termina no dia 31 de Março do ano seguinte ao do ano a reportar.
+
+3 - Sem prejuízo do disposto no número anterior, as entidades responsáveis pelos CIRVER, pelas instalações de incineração e co-incineração de resíduos ou pela deposição de resíduos em aterro submetem, até ao termo do 1.º semestre do ano a reportar, a informação necessária para efeitos de liquidação da taxa de gestão de resíduos.
+
+4 - O prazo para registo referido no n.º 2 não se aplica aos sistemas de gestão de resíduos urbanos, cuja informação é submetida mensalmente, até ao termo do mês seguinte a que respeitam os dados.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+### Capítulo II — Acompanhamento da gestão de resíduos
+
+###### Artigo 50.º — Comissão de Acompanhamento da Gestão de Resíduos
+
+1 - É criada a Comissão de Acompanhamento da Gestão de Resíduos, doravante designada por CAGER, que constitui uma entidade de apoio técnico à formulação, ao acompanhamento e à avaliação de políticas sustentáveis de gestão de resíduos, em particular dos fluxos específicos de resíduos, com vista a uma gestão mais eficiente dos recursos que promova uma efetiva transição de uma economia linear para uma economia circular, a quem compete, nomeadamente:
+
+a) Preparar decisões ou dar parecer, quando solicitada, sobre todas as questões relacionadas com a gestão de resíduos;
+
+b) Acompanhar a execução e a revisão dos planos de gestão de resíduos;
+
+c) Acompanhar os aspectos técnicos, económicos e sociais ligados ao mercado de resíduos em Portugal, especialmente no que concerne aos fluxos de resíduos e materiais abrangidos por sociedades gestoras e aos resíduos que sejam transaccionados em bolsa de resíduos;
+
+d) Acompanhar o funcionamento do mercado de resíduos e auxiliar a ANR a disponibilizar informação relevante nesse âmbito potenciando as trocas de resíduos entre indústrias com vista à sua valorização;
+
+e) Auxiliar a ANR na disponibilização de informação técnica fiável relacionada com produtos fabricados com materiais reciclados através de uma base de dados online;
+
+f) Assegurar a definição, regulamentação e supervisão dos mecanismos de alocação e compensação entre as entidades gestoras dos fluxos específicos de resíduos.
+
+2 - Podem ser constituídos, no âmbito da CAGER, grupos de trabalho e comissões de acompanhamento de gestão em função dos tipos de resíduos e das operações de gestão de resíduos.
+
+3 - (Revogado).
+
+4 - A participação na CAGER não é remunerada.
+
+5 - A composição e o funcionamento da CAGER são definidos em regulamento interno, aprovado por portaria do membro do Governo responsável pela área do ambiente.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+###### Artigo 51.º — Comissões de acompanhamento local
+
+1 - O desempenho ambiental das actividades desenvolvidas nos CIRVER e nas instalações de incineração e co-incineração pode ser objecto de acompanhamento público através da criação, por despacho do membro do Governo responsável pela área do ambiente, de uma comissão de acompanhamento local, nomeadamente quando tal for solicitado pelo município cuja circunscrição concelhia seja abrangida pela operação.
+
+2 - São ouvidos quanto à constituição da comissão de acompanhamento local o operador do CIRVER ou da instalação de incineração ou co-incineração e a ANR.
+
+3 - As comissões de acompanhamento local são compostas pelos elementos indicados no despacho a que se refere o n.º 1, bem como por representantes dos municípios cuja circunscrição concelhia seja abrangida pela operação e dos municípios limítrofes, quando sejam afectados pelos efeitos das actividades desenvolvidas nas instalações em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 51.º-A — Auditorias
+
+1 - A ANR pode promover auditorias técnico-ambientais ou económico-financeiras à actividade exercida por operadores de gestão de resíduos sempre que tal se revele necessário para efeitos de monitorização e avaliação do cumprimento dos planos de gestão e programas de prevenção de resíduos.
+
+2 - Compete ainda à ANR a realização de auditorias técnico-financeiras, para balanço de actividade, no âmbito dos sistemas de gestão de fluxos específicos de resíduos.
+
+3 - Para efeitos do disposto do número anterior, a ANR realiza, pelo menos, um balanço relativo ao 1.º triénio do período de vigência da licença ou autorização para gestão de fluxo específico, bem como um balanço no final da respectiva vigência.
+
+4 - O operador faculta à ANR os elementos necessários à realização de auditorias.
+
+5 - Em casos devidamente fundamentados, a ANR pode exigir aos titulares de licença ou autorização para gestão de fluxo específico a realização de auditorias anuais efectuadas por entidades independentes.
+
+6 - As entidades gestoras de fluxos específicos que apresentem a certificação pelo Sistema Comunitário de Ecogestão e Auditoria (EMAS) ficam isentas na vertente técnica do balanço da actividade no final do período de licença ou da autorização.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+## Título IV — Regime económico e financeiro da gestão de resíduos
+
+### Capítulo I — Taxas
+
+###### Artigo 52.º — Taxas gerais de licenciamento
+
+1 - Sem prejuízo do disposto nos artigos seguintes, o licenciamento e a autorização de operações e de operadores de gestão de resíduos que seja da competência da ANR ou das ARR estão sujeitos ao pagamento de taxas destinadas a custear os encargos administrativos que lhe são inerentes.
+
+2 - São devidas taxas pelos seguintes actos:
+
+a) Emissão de licenças ou autorizações - (euro) 2000;
+
+b) Emissão de licenças mediante procedimento simplificado - (euro) 1500;
+
+c) Auto de vistoria - (euro) 1000;
+
+d) Averbamento resultante da alteração das condições da licença ou autorização - (euro) 500.
+
+###### Artigo 53.º — Taxas de licenciamento de aterros
+
+1 - O licenciamento de aterros destinados a resíduos que seja da competência da ANR ou das ARR está sujeito ao pagamento de taxas destinadas a custear os encargos administrativos que lhe são inerentes.
+
+2 - São devidas taxas pelos seguintes actos:
+
+a) Licenciamento da exploração - (euro) 20000;
+
+b) Auto de vistoria - (euro) 1000;
+
+c) Averbamento resultante da alteração das condições da licença - (euro) 1000.
+
+> Revogado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 183/2009 - Diário da República n.º 153/2009, Série I de 2009-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2009-493485), em vigor a partir de 2009-08-15
+
+###### Artigo 54.º — Taxas de licenciamento de sistemas de gestão de fluxos específicos de resíduos
+
+1 - O licenciamento dos sistemas de gestão de fluxos específicos de resíduos, individuais ou colectivos, está sujeito ao pagamento de taxas destinadas a custear os encargos administrativos que lhe são inerentes.
+
+2 - São devidas taxas pelos seguintes actos:
+
+a) Licenciamento de entidades gestoras de sistemas integrados de gestão de resíduos - (euro) 25000;
+
+b) (Revogada).
+
+c) Autorização de sistemas individuais de gestão de resíduos - (euro) 5000;
+
+d) (Revogada).
+
+e) (Revogada).
+
+f) (Revogada).
+
+g) (Revogada).
+
+h) Averbamento resultante da alteração das condições da licença ou autorização - (euro) 1000.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 55.º — Taxas de licenciamento de CIRVER
+
+1 - O licenciamento dos centros integrados de recuperação, valorização e eliminação de resíduos perigosos está sujeito ao pagamento de taxas destinadas a custear os encargos administrativos que lhe são inerentes.
+
+2 - São devidas taxas pelos seguintes actos:
+
+a) Fase de pré-qualificação - (euro) 3750;
+
+b) Fase de apreciação e selecção de projectos - (euro) 5000;
+
+c) Licenciamento de instalação, licenciamento de exploração ou autorização provisória de funcionamento - (euro) 25000;
+
+d) Auto de vistoria - (euro) 2500;
+
+e) Averbamento resultante da alteração das condições da licença - (euro) 1000.
+
+###### Artigo 56.º — Taxas de licenciamento de instalações de incineração e co-incineração
+
+1 - O licenciamento das instalações de incineração e co-incineração de resíduos abrangidas pelo regime do Decreto-Lei n.º 85/2005, de 28 de Abril, está sujeito ao pagamento de taxas destinadas a custear os encargos administrativos que lhe são inerentes.
+
+2 - São devidas taxas pelos seguintes actos:
+
+a) Emissão de licenças de instalação e de exploração - (euro) 25000;
+
+b) Auto de vistoria - (euro) 2500;
+
+c) Averbamento resultante da alteração das condições da licença - (euro) 1000.
+
+3 - A receita das taxas de licenciamento previstas no número anterior é repartida da seguinte forma:
+
+a) Autoridade competente nos termos do Decreto-Lei n.º 85/2005, de 28 de Abril - 50%;
+
+b) ANR - 40%;
+
+c) ARR que assegure a consulta pública - 10%.
+
+> Revogado pelo/a Artigo 119.º do/a [Decreto-Lei n.º 127/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546), em vigor a partir de 2013-08-31
+
+###### Artigo 57.º — Taxas de registo
+
+1 - Os produtores e operadores sujeitos a registo no SIRER estão obrigados ao pagamento de uma taxa anual de registo destinada a custear a sua gestão.
+
+2 - A taxa anual de registo é fixada em (euro) 25, sendo a sua liquidação e pagamento disciplinados pelo regulamento de funcionamento do SIRER.
+
+###### Artigo 58.º — Taxa de gestão de resíduos
+
+1 - As entidades responsáveis por sistemas de gestão de fluxos específicos de resíduos, individuais ou integrados, de sistemas de gestão de resíduos urbanos multimunicipais ou intermunicipais, de instalações de incineração e deposição de resíduos, estão obrigadas ao pagamento de uma taxa de gestão de resíduos visando compensar os custos administrativos de acompanhamento das respetivas atividades, incentivar a redução da produção de resíduos, estimular o cumprimento dos objetivos nacionais em matéria de gestão de resíduos e melhorar o desempenho do sector.
+
+2 - A taxa de gestão de resíduos deve ser objeto de aumento gradual de acordo com os princípios gerais previstos no presente decreto-lei e nos instrumentos de planeamento em vigor, devendo assumir, entre 2015 e 2020, sem prejuízo do número seguinte, os seguintes valores:
+
+(ver documento original)
+
+3 - A partir de 1 de janeiro de 2021, a taxa de gestão de resíduos assume o valor de 22 (euro)/t de resíduos.
+
+4 - (Revogado.)
+
+5 - O valor da taxa de gestão de resíduos estabelecido no n.º 3 vigora até à data de início de produção de efeitos dos valores previstos no número anterior.
+
+6 - A taxa de gestão de resíduos tem periodicidade anual e incide sobre a quantidade e o destino final de resíduos geridos pelas entidades referidas no n.º 1, nos termos seguintes:
+
+a) 100 prct. do valor da TGR definida no número anterior, por cada tonelada de resíduos depositados em aterro (operação de eliminação D1);
+
+b) 85 prct. do valor da TGR definida no número anterior, por cada tonelada de resíduos que sejam submetidos à operação incineração em terra (operação de eliminação D10);
+
+c) 25 prct. do valor da TGR definida no número anterior, por cada tonelada de resíduos que sejam submetidos à operação de valorização energética (operação de valorização R1).
+
+7 - Em 2021, 30 % do valor da diferença que resulta do aumento da TGR de 11 (euro)/t para 22 (euro)/t de resíduos, pago pelos municípios, é devolvido aos municípios, através do Fundo Ambiental, mediante a realização comprovada de investimentos na melhoria da gestão de resíduos, dirigidos à inversão da tendência de aumento de resíduos para eliminação em aterro.
+
+8 - Ao montante de TGR aplicado aos resíduos submetidos às operações de incineração em terra (operação de eliminação D10) e valorização energética (operação de valorização R1) referidas, respetivamente, nas alíneas b) e c) do número anterior, devem ser deduzidos os valores correspondentes à valorização material nos seguintes termos:
+
+a) O valor da TGR definida na alínea b) do número anterior, por cada tonelada de resíduos valorizados materialmente a partir das escórias, quando a operação de eliminação D10 ocorre em incinerador dedicado;
+
+b) O valor da TGR definida na alínea c) do número anterior, por cada tonelada de resíduos valorizados materialmente a partir das escórias, quando a operação de valorização R1 ocorre em incinerador dedicado;
+
+c) O valor da TGR definida na alínea c) do número anterior, por cada tonelada de resíduos incorporados no produto final (valorização material), quando a operação de valorização R1 ocorre em fornos de processo de instalações industriais;
+
+d) A metodologia para determinação da tonelagem de resíduos objeto de deduções à TGR deve ser aprovada, previamente, pela ANR, mediante proposta devidamente fundamentada do sujeito passivo
+
+9 - O n.º 6 não é aplicável aos resíduos produzidos em Portugal cujas soluções técnicas impostas por legislação nacional para o seu tratamento sejam sujeitas a TGR ou aos materiais que sejam eliminados por ordem judicial.
+
+10 - Os resíduos abrangidos pela alínea a) do n.º 6 que sejam resultantes de outros já sujeitos a TGR pelas alíneas b) ou c) do n.º 6, nomeadamente rejeitados, inqueimados, cinzas, escórias, veem a TGR reduzida do valor correspondente à taxa cobrada nos termos das alíneas b) ou c) do mesmo número, conforme aplicável.
+
+11 - A taxa de gestão de resíduos possui o valor mínimo de (euro) 5000 por sujeito passivo, com exceção das entidades responsáveis por sistemas de gestão de fluxos específicos de resíduos, individuais ou integrados.
+
+12 - A TGR deve ser repercutida nas tarifas e prestações financeiras cobradas pelos sujeitos passivos e ao longo da cadeia de valor da gestão de resíduos até ao produtor dos resíduos, sem prejuízo do estabelecido no n.º 25 do presente artigo.
+
+13 - O disposto no número anterior não se aplica à:
+
+a) Componente da TGR que venha a ser liquidada nos termos do n.º 14, não podendo o seu valor ser incluído na tarifa cobrada aos municípios;
+
+b) Componente da TGR que venha a ser liquidada nos termos do número seguinte, no que respeita à parcela respeitante aos desvios em relação ao cumprimento das metas definidas em licença associada por parte das entidades responsáveis por sistemas de gestão de fluxos específicos de resíduos, individuais ou integrados, nem pode ser incluída nas prestações financeiras cobradas aos produtores.
+
+14 - A taxa de gestão de resíduos aplicável às entidades responsáveis por sistemas de gestão de fluxos específicos de resíduos, individuais ou integrados possui periodicidade anual e é determinada pela soma de um valor mínimo e sujeita a um fator de aumento progressivo de acordo com a seguinte fórmula:
+
+TGR = VM + a x TGR EG x (delta)
+
+em que:
+
+TGR = corresponde ao valor de TGR a pagar pela entidade;
+
+VM = corresponde, no caso dos sistemas integrados, ao valor mínimo a pagar de acordo com os rendimentos provenientes das vendas e serviços prestados obtidos pelas entidades gestoras resultantes da sua atividade:
+
+i) (euro) 25 000 para rendimentos superiores a (euro) 15 000 000;
+
+ii) (euro) 15 000 para rendimentos entre (euro) 500 000 e (euro) 15 000 000;
+
+iii) (euro) 8 000 para rendimentos inferiores a (euro) 500 000;
+
+VM = corresponde, no caso dos sistemas individuais, a (euro) 5000;
+
+a = fator de aumento progressivo (1 para 1.º ano de vigência da licença; 1,2 para 2.º ano; 1,4 para 3.º e 4.º ano; 1,6 para 5.º ano e seguintes, se aplicável);
+
+TGR EG = 30 % do valor base de TGR definido no n.º 2 por cada tonelada de resíduo que represente um desvio às metas definidas nas licenças das entidades responsáveis por sistemas de gestão de fluxos específicos de resíduos, integrados ou individuais;
+
+(delta) = desvio em relação ao cumprimento da meta (t).
+
+15 - As entidades responsáveis pelos sistemas de gestão de resíduos urbanos multimunicipais ou intermunicipais estão sujeitas a uma taxa de gestão de resíduos adicional e não repercutível (TGR-NR) junto dos clientes, calculada em função do desvio às metas para o ano de 2020 constantes no Plano Estratégico de Gestão de Resíduos Urbanos (PERSU 2020) e às metas intercalares que vierem a ser definidas neste âmbito para os anos de 2016 e 2018:
+
+a) A avaliação intercalar nos anos de 2016 e 2018 incide sobre as metas A - metas de retomas de recolha seletiva e B - metas de deposição de RUB em aterro, de acordo com o seguinte:
+
+i) Em caso de desvio ao cumprimento das metas, a TGR-NR é calculada nos seguintes termos e sujeita a um fator de aumento progressivo:
+
+TGR-NR (A, B) = a x TGR x (Delta) (A) + a x TGR x (Delta) (B)
+
+em que:
+
+a = fator de aumento progressivo (0,2 para 2016 e 0,5 para 2018);
+
+TGR = valor base de TGR definido no n.º 2 ((euro)/t);
+
+(Delta) = desvio em relação ao cumprimento da meta (t);
+
+ii) O valor da TGR-NR é incluído na liquidação da TGR referida no n.º 6 referente aos anos de 2016 e 2018;
+
+iii) Em caso de cumprimento ou superação das metas, o sujeito passivo não é devedor de qualquer valor de TGR-NR;
+
+b) A avaliação final no ano de 2020 incide sobre a meta C - meta de preparação para reutilização e reciclagem, de acordo com o seguinte:
+
+i) Em caso de desvio ao cumprimento da meta, a TGR-NR é calculada nos seguintes termos e sujeita a um fator de aumento progressivo:
+
+TGR-NR (C) = a x TGR x (Delta) (C)
+
+em que:
+
+a = fator de aumento progressivo (1 para 2020);
+
+TGR = valor base de TGR definido no n.º 2 ((euro)/t);
+
+(Delta) = desvio em relação ao cumprimento da meta (t);
+
+ii) O valor da TGR-NR é incluído na liquidação da TGR referida no n.º 6 referente ao ano de 2020;
+
+iii) Em caso de cumprimento ou superação das metas, o sujeito passivo não é devedor de qualquer valor de TGR-NR.
+
+16 - O produto da taxa de gestão de resíduos é afeto nos seguintes termos:
+
+a) 5 % a favor da Inspeção-Geral dos Ministérios do Ambiente e do Ordenamento do Território e Energia e da Agricultura e do Mar (IGAMAOT);
+
+b) Até 5 % do montante de TGR a favor dos municípios que tiverem cumprido integralmente as suas obrigações financeiras para com as entidades, sujeitos passivos de TGR, a regulamentar em portaria;
+
+c) 40 % a favor da entidade licenciadora das instalações de gestão de resíduos em causa;
+
+d) O remanescente a favor da ANR.
+
+17 - O produto da taxa de gestão de resíduos abrangidos pelos n.os 13 e 14 é afeto nos seguintes termos:
+
+a) 5/prct. a favor da IGAMAOT;
+
+b) O remanescente a favor da ANR.
+
+18 - As entidades responsáveis pelos sistemas de gestão de resíduos urbanos multimunicipais ou intermunicipais estão sujeitas a uma taxa de gestão de resíduos adicional e não repercutível (TGR-NR) junto dos clientes, calculada em função do desvio às metas para o ano de 2020 constantes no Plano Estratégico de Gestão de Resíduos Urbanos (PERSU 2020) e às metas intercalares que vierem a ser definidas neste âmbito para os anos de 2016 e 2018:
+
+a) Ao Fundo Ambiental, em 50 % do valor global arrecadado pela ANR;
+
+b) A avaliação final no ano de 2020 incide sobre a meta C - meta de preparação para reutilização e reciclagem, de acordo com o seguinte:
+
+i) Em caso de desvio ao cumprimento da meta, a TGR-NR é calculada nos seguintes termos e sujeita a um fator de aumento progressivo:
+
+TGR-NR (C) = a x TGR x (Delta) (C)
+
+em que:
+
+a = fator de aumento progressivo (1 para 2020);
+
+TGR = valor base de TGR definido no n.º 2 ((euro)/t);
+
+(Delta) = desvio em relação ao cumprimento da meta (t);
+
+ii) O valor da TGR-NR é incluído na liquidação da TGR referida no n.º 6 referente ao ano de 2020;
+
+iii) Em caso de cumprimento ou superação das metas, o sujeito passivo não é devedor de qualquer valor de TGR-NR.
+
+c) Às despesas com o financiamento de iniciativas dos municípios que visem o aumento da eficiência do setor dos resíduos, a criação e manutenção de novos fluxos de resíduos, como é o caso dos biorresíduos, ou a implementação de modelos de recolha seletiva mais eficientes.
+
+19 - Os procedimentos de liquidação e de cobrança da taxa de gestão de resíduos são fixados por portaria do membro do Governo responsável pela área do ambiente.
+
+20 - A taxa de gestão de resíduos é calculada com base na informação registada pelos sujeitos passivos na plataforma de registo de dados, sem prejuízo de, por motivos inerentes ao funcionamento da plataforma ou violação do dever de informação da responsabilidade dos sujeitos passivos, ser calculada por recurso a métodos indiretos de estimativa fundamentada das quantidades de resíduos geridos.
+
+21 - O membro do Governo responsável pela área do ambiente pode definir, através de portaria, isenções temporárias e específicas à aplicação do n.º 6, em situações em que a ausência de TGR não ponha em causa os objetivos ambientais.
+
+22 - O disposto no número anterior só é aplicável em situações de resolução de passivos ambientais a cargo do Estado, ou em nome deste, quando tenha sido evidenciado que o tratamento dos resíduos em causa não poderia ter sido efetuado, de forma técnica ou economicamente viável, através de operações não sujeitas a TGR.
+
+23 - Na recuperação de resíduos valorizáveis de aterro, que obedece às normas definidas no Decreto-Lei n.º 183/2009, de 10 de agosto, alterado pelos Decretos-Leis n.os 84/2011, de 20 de junho, e 88/2013, de 9 de julho, deduz-se ao valor da TGR definida no n.º 2 o valor correspondente ao peso desses resíduos, até ao máximo do montante de TGR devida pelo sujeito passivo.
+
+24 - É aplicada uma moratória ao disposto no n.º 3 do presente artigo até 30 de junho de 2021, sendo que, até essa data, a TGR assume o valor de 11 (euro)/t de resíduos.
+
+25 - As receitas previstas na alínea a) do n.º 18 que, por razão não diretamente imputável aos municípios, designadamente por não apresentação de candidaturas, não sejam a estes distribuídas no âmbito de avisos por parte do Fundo Ambiental, revertem, anualmente, a favor destes, devendo os municípios repercutir integralmente essa diferença na redução das tarifas e prestações financeiras cobradas.
+
+26 - O Governo deve adotar medidas que permitam aumentar a transparência e o escrutínio da utilização das receitas da TGR, nomeadamente através da publicação obrigatória, até março de cada ano, de um relatório anual onde conste a atribuição desagregada, por ações, objetivos e destinatários, das receitas geradas pela TGR.'
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 20/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/lei/20-2021-161518655), em vigor a partir de 2021-04-17
+
+> Alterado pelo/a Artigo 422.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2020 - Diário da República n.º 207/2020, Série I de 2020-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2020-146240980), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 203.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+> Alterado pelo/a Artigo 121.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, Suplemento n.º 1, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 59.º — Taxas relativas ao movimento transfronteiriço de resíduos
+
+1 - A apreciação dos processos de notificação relativos ao movimento transfronteiriço de resíduos, realizada nos termos do Decreto-Lei n.º 296/95, de 17 de Novembro, está sujeita ao pagamento de taxa destinada a custear os encargos administrativos que lhe são inerentes.
+
+2 - As taxas de apreciação são fixadas em portaria do ministro responsável pela área do ambiente.
+
+###### Artigo 59.º-A — Taxas de classificação de subprodutos
+
+São ainda devidas taxas pelos seguintes actos:
+
+a) Decisão relativa à classificação de uma substância ou objecto específico como um subproduto - (euro) 5000;
+
+b) Decisão relativa à alteração das condições da decisão referida na alínea anterior - (euro) 1000.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 60.º — Actualização e liquidação
+
+1 - O valor das taxas previstas no presente capítulo considera-se automaticamente actualizado todos os anos por aplicação do índice de preços no consumidor publicado pelo Instituto Nacional de Estatística, arredondando-se o resultado para a casa decimal superior, devendo a ANR proceder à divulgação regular dos valores em vigor para cada ano.
+
+2 - O pagamento das taxas de licenciamento previstas no presente capítulo é prévio à prática dos actos, devendo ser rejeitado liminarmente o requerimento de qualquer entidade pública ou privada ao qual não se junte o comprovativo de pagamento.
+
+3 - Exceptuam-se do disposto no número anterior os casos de requerimentos de vistoria, nos quais a junção do comprovativo de pagamento deve ocorrer no prazo de 10 dias após a emissão da respectiva guia de pagamento por parte da entidade licenciadora.
+
+4 - As taxas de licenciamento e de autorização previstas no presente capítulo não contemplam isenções subjectivas nem objectivas e são devidas por inteiro no caso de renovação e no valor correspondente a 20 % do valor por inteiro nos casos de transmissão ou prorrogação das licenças, não havendo então lugar à liquidação de taxa por averbamento.
+
+5 - Sem prejuízo das regras de afectação constantes dos artigos 54.º, 56.º e 58.º do presente decreto-lei, a receita gerada pelas taxas disciplinadas no presente capítulo constitui receita própria e exclusiva da ANR ou das ARR, consoante aquela que se revele competente na matéria.
+
+6 - A receita prevista na alínea a) do n.º 15 do artigo 58.º constitui receite própria da IGAMAOT.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2020 - Diário da República n.º 207/2020, Série I de 2020-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2020-146240980), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+> Alterado pelo/a Artigo 121.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, Suplemento n.º 1, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+### Capítulo II — Mercado de resíduos
+
+###### Artigo 61.º — Liberdade de comércio
+
+Sem prejuízo das normas destinadas a assegurar a protecção do ambiente e da saúde pública, nomeadamente das que respeitam aos resíduos perigosos, os resíduos constituem bens de comercialização livre, devendo o mercado dos resíduos ser organizado, promovido e regulamentado de modo a estimular o encontro da oferta e procura destes bens, assim como a sua reutilização, reciclagem e valorização.
+
+###### Artigo 62.º — Mercado organizado de resíduos
+
+1 - O mercado dos resíduos deverá integrar um mercado organizado que centralize num só espaço ou sistema de negociação as transacções de tipos diversos de resíduos, garantindo a sua alocação racional, eliminando custos de transacção, estimulando o seu reaproveitamento e reciclagem, diminuindo a procura de matérias-primas primárias e contribuindo para a modernização tecnológica dos respectivos produtores.
+
+2 - O regime de constituição, gestão e funcionamento de mercados organizados de resíduos ou de instrumentos financeiros a prazo sobre resíduos bem como as regras aplicáveis às transacções neles realizadas e aos respectivos operadores constam de legislação complementar, sem prejuízo das disposições da legislação financeira que sejam aplicáveis aos mercados em que se realizem operações a prazo.
+
+###### Artigo 63.º — Organização do mercado de resíduos
+
+1 - O mercado organizado de resíduos deve funcionar em condições que garantam o acesso igualitário ao mercado, a transparência, universalidade e rigor da informação que nele circula e a segurança nas transacções realizadas, bem como o respeito das normas destinadas à protecção do ambiente e da saúde pública.
+
+2 - Na criação do mercado organizado de resíduos deve estimular-se a participação dos sectores económicos que os produzem.
+
+###### Artigo 64.º — Regime financeiro
+
+O regime financeiro do mercado organizado de resíduos deve visar a cobertura dos custos de gestão do respectivo sistema sem que por seu efeito se introduzam distorções no mercado ou os custos de transacção se tornem superiores aos custos de regulação.
+
+###### Artigo 65.º — Regime contra-ordenacional
+
+O regular funcionamento do mercado de resíduos é assegurado pela criação de um regime contra-ordenacional relativo ao incumprimento dos princípios, proibições e condições relativos ao seu funcionamento.
+
+## Título V — Regime contra-ordenacional e disposições finais e transitórias
+
+### Capítulo I — Fiscalização e contra-ordenações
+
+###### Artigo 66.º — Fiscalização
+
+A fiscalização do cumprimento do presente diploma compete às ARR, à Inspecção-Geral do Ambiente e do Ordenamento do Território, aos municípios e às autoridades policiais.
+
+###### Artigo 67.º — Contra-ordenações ambientais
+
+1 - Constitui contra-ordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, a prática dos seguintes actos:
+
+a) A violação das proibições previstas no n.º 3 do artigo 9.º;
+
+b) A violação da proibição de proceder à operação de mistura, incluindo a diluição de resíduos perigosos nos termos do n.º 2 do artigo 21.º-A;
+
+c) (Revogada);
+
+d) O exercício não licenciado das actividades de tratamento de resíduos em violação do disposto no n.º 2 do artigo 9.º e no artigo 23.º;
+
+e) O incumprimento pelo operador de gestão de resíduos das medidas impostas pela entidade licenciadora nos termos do n.º 2 do artigo 34.º;
+
+f) A realização de operações de gestão de resíduos com base em licença suspensa ou revogada pela entidade licenciadora nos termos do artigo 38.º;
+
+g) (Revogada);
+
+2 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, a prática dos seguintes actos:
+
+a) O incumprimento do dever de assegurar  a gestão de resíduos, a quem, nos termos do previsto no nº 5, caiba essa responsabilidade;
+
+b) A violação pelo produtor do produto da obrigação de promover as alterações na concepção do produto nos termos dos n.os 2 e 3 do artigo 10.º-A;
+
+c) A violação das normas técnicas relativas à gestão de resíduos previstas no artigo 20.º;
+
+d) A realização de operações de gestão de resíduos em incumprimento das obrigações do responsável técnico constantes da portaria prevista no n.º 5 do artigo 20.º;
+
+e) A realização de operações de gestão de resíduos em incumprimento das normas relativas às habilitações profissionais do responsável técnico constantes da portaria prevista no n.º 5 do artigo 20.º;
+
+f) O transporte de resíduos em violação das normas técnicas previstas no n.º 2 do artigo 21.º;
+
+g) A produção, a recolha e o transporte de resíduos perigosos realizadas em violação do disposto no n.º 1 do artigo 21.º-A;
+
+h) O incumprimento do dever de proceder à separação dos resíduos perigosos nos termos do n.º 3 do artigo 21.º-A;
+
+i) A violação da obrigação de tratamento nos termos do n.º 3 do artigo 22.º-A;
+
+j) A violação da obrigação de recolha selectiva nos termos do n.º 3 do artigo 22.º-A;
+
+l) (Revogada);
+
+m) (Revogada);
+
+n) O exercício das actividades de tratamento de resíduos em violação das condições impostas no alvará de licença nos termos do artigo 33.º;
+
+o) A realização de operações de gestão de resíduos com base em licença transmitida sem observância do procedimento de transmissão de licenças previsto no artigo 37.º;
+
+p) A cessação de actividade da operação de gestão de resíduos licenciada sem a aceitação por parte da entidade licenciadora de um pedido de renúncia da respectiva licença, nos termos previstos no artigo 40.º
+
+q)(Revogada);
+
+r) O incumprimento da obrigação de inscrição e registo de dados no SIRER, em violação do disposto no artigo 48.º;
+
+s) A violação da obrigação de facultar informações nos termos dos n.os 2 do artigo 49.º-A e 4 do artigo 51.º-A;
+
+t) O não cumprimento da determinação de realização de auditorias nos termos do n.º 5 do artigo 51.º-A;
+
+u) O incumprimento do dever de manutenção e de monitorização ambiental das lixeiras nos termos do n.º 1 do artigo 75.º-A;
+
+v) A manutenção e a monitorização ambiental das lixeiras em inobservância das normas técnicas nos termos no n.º 2 do artigo 75.º-A.
+
+3 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, a prática dos seguintes actos:
+
+a) A não separação na origem dos resíduos produzidos de forma a promover preferencialmente a sua valorização, em violação do disposto no n.º 4 do artigo 7.º;
+
+b) O incumprimento do disposto no n.º 8 do artigo 7.º;
+
+c) O transporte de resíduos em incumprimento da obrigação de registo na e-GAR prevista no n.º 1 do artigo 21.º;
+
+d) O transporte de resíduos sem se fazer acompanhar da guia de acompanhamento de resíduos prevista na Portaria n.º 335/97, de 16 de Maio;
+
+e) O incumprimento da obrigação de registo de dados ou o registo de dados incorrecto ou insuficiente nos termos do artigo 49.º;
+
+f) O incumprimento da obrigação de manutenção de registo de dados nos termos do n.º 1 do artigo 49.º-A;
+
+g) O incumprimento dos prazos de inscrição e de registo nos termos do artigo 49.º-B.
+
+4 - A tentativa e a negligência são puníveis.
+
+5 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, a condenação pela prática das infracções muito graves e graves previstas nos n.os 1 e 2 quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+> Alterado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 103/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2015-67485179), em vigor a partir de 2015-08-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 68.º — Sanções acessórias e apreensão cautelar
+
+1 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, consoante o tipo de contra-ordenação aplicável.
+
+2 - As entidades referidas no artigo 66.º podem ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 69.º — Reposição da situação anterior
+
+1 - Sem prejuízo do disposto no artigo anterior, o infractor está obrigado a remover as causas da infracção e a reconstituir a situação anterior à prática da mesma.
+
+2 - Sempre que o dever de reposição da situação anterior não seja voluntariamente cumprido, as entidades competentes para a fiscalização actuam directamente por conta do infractor, sendo as despesas cobradas coercivamente através do processo previsto para as execuções fiscais.
+
+###### Artigo 70.º — Instrução de processos e aplicação de sanções
+
+1 - Compete às entidades fiscalizadoras, exceptuadas as autoridades policiais, instruir os processos relativos às contra-ordenações referidas nos artigos anteriores e decidir da aplicação da coima e sanções acessórias.
+
+2 - Quando a entidade autuante não tenha competência para instruir o processo, o mesmo é instruído e decidido pela ARR territorialmente competente face ao local da prática da infracção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 71.º — Produto das coimas
+
+Nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, a afectação do produto das coimas resultante da aplicação das contra-ordenações previstas no presente decreto-lei é realizada da seguinte forma:
+
+a) 50 % para o Fundo de Intervenção Ambiental;
+
+b) 25 % para a autoridade que a aplique;
+
+c) 15 % para a entidade autuante;
+
+d) 10 % para o Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 72.º — Medidas cautelares
+
+1 - Os membros do Governo responsáveis pelas áreas do ambiente e da saúde podem, por despacho e em caso de emergência ou perigo grave para a saúde pública ou para o ambiente, adoptar medidas cautelares adequadas, nomeadamente a suspensão de qualquer operação de gestão de resíduos.
+
+2 - As medidas cautelares caducam se não for tomada uma decisão definitiva sobre a situação jurídica em causa no prazo de seis meses, prorrogável uma única vez por igual período.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+### Capítulo II — Disposições finais e transitórias
+
+###### Artigo 72.º-A — Relatório e informação à Comissão Europeia
+
+1 - A ANR elabora e apresenta à Comissão Europeia, de três em três anos, um relatório relativo à execução do presente decreto-lei, devendo o primeiro relatório ser apresentado até 12 de Dezembro de 2014.
+
+2 - O relatório inclui informações relativas a gestão de óleos usados, os resultados da execução dos programas de prevenção de resíduos, informação sobre as medidas previstas no artigo 10.º-A, informação sobre resíduos considerados perigosos que não figurem nessa qualidade na LER e informações registadas relativas a cumprimento de objectivos de reutilização e reciclagem.
+
+3 - A ANR informa a Comissão Europeia:
+
+a) Das normas técnicas que consubstanciem uma isenção de licenciamento nos termos do artigo 20.º;
+
+b) Dos planos de gestão de resíduos e dos programas de prevenção de resíduos, bem como de quaisquer revisões substanciais a que sejam sujeitos;
+
+c) Das decisões relativas a transferências de resíduos adoptadas ao abrigo do disposto nos n.os 2 e 3 do artigo 4.º;
+
+d) Dos resíduos considerados perigosos apesar de não figurarem nessa qualidade na lista de resíduos;
+
+e) Dos resíduos que apesar de constarem como perigosos na lista de resíduos sejam fundamentadamente considerados não perigosos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 73.º — Regimes especiais
+
+O lançamento e a imersão de resíduos em águas regem-se pelo disposto em legislação especial e pelas normas internacionais em vigor.
+
+###### Artigo 74.º — Comissões de acompanhamento
+
+As comissões de acompanhamento relativas à gestão de resíduos constituídas ao abrigo da legislação em vigor e em funcionamento à data da entrada em vigor do presente decreto-lei são integradas na CAGER, nos termos do n.º 3 do artigo 50.º
+
+###### Artigo 75.º — Planos de gestão de resíduos
+
+O primeiro plano nacional de gestão de resíduos é aprovado no prazo de dois anos a contar da entrada em vigor do presente decreto-lei, devendo os planos municipais de acção ser aprovados no prazo de um ano a contar daquela data, aplicando-se a todos, daí em diante, o disposto no artigo 18.º do presente decreto-lei.
+
+###### Artigo 75.º-A — Manutenção e monitorização ambiental de antigas lixeiras encerradas
+
+1 - A responsabilidade pela manutenção e pela monitorização ambiental das antigas lixeiras municipais encerradas cabe às entidades gestoras responsáveis pelo tratamento de resíduos urbanos da área onde essas antigas lixeiras se localizam.
+
+2 - A manutenção e a monitorização ambiental referidas no número anterior são efectuadas de acordo com um plano de manutenção e monitorização ambiental a estabelecer pela ANR em articulação com as ARR, as administrações das regiões hidrográficas e a IGAOT, o qual integra, designadamente, a identificação das antigas lixeiras que seja necessário manter e monitorizar, os parâmetros a controlar, a periodicidade do controlo e os requisitos de manutenção.
+
+3 - As entidades gestoras referidas no n.º 1, quando configurem sistemas de gestão de resíduos urbanos, não são responsáveis pelos eventuais danos causados ao ambiente ou à saúde pública decorrentes da deposição de resíduos nas lixeiras em causa.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 76.º — Regime transitório
+
+1 - O disposto nos artigos 23.º a 44.º do presente decreto-lei aplica-se apenas aos procedimentos iniciados após a sua entrada em vigor.
+
+2 - A requerimento do interessado, pode a entidade licenciadora aplicar as disposições referidas no número anterior ao respectivo procedimento em curso.
+
+3 - O disposto nos artigos 12.º, 20.º e 31.º do Decreto-Lei n.º 194/2000, de 21 de Agosto, 65.º do Decreto-Lei n.º 3/2004, de 3 de Janeiro, e 5.º, 6.º, 7.º, 9.º e 17.º do Decreto-Lei n.º 85/2005, de 28 de Abril, na redacção que lhes é conferida, respectivamente, pelos artigos 77.º, 78.º e 79.º do presente decreto-lei, é aplicável aos procedimentos pendentes à data da entrada em vigor do presente decreto-lei.
+
+4 - As taxas de licenciamento previstas no presente decreto-lei aplicam-se apenas aos procedimentos de licenciamento que tenham início depois de 1 de Janeiro de 2007.
+
+5 - A taxa de gestão de resíduos prevista no artigo 58.º do presente decreto-lei aplica-se a partir de 1 de Janeiro de 2007.
+
+6 - O valor das taxas previstas no n.º 2 do artigo 58.º é agravado anualmente em (euro) 0,50 entre 2008 e 2011, inclusive, e a partir daí atualizado nos termos do artigo 60.º
+
+7 - O registo das entidades a que se refere a subalínea i) da alínea a) do artigo 48.º é realizado de forma progressiva, nos termos a definir na portaria a que se refere o n.º 2 do artigo 46.º
+
+8 - Sem prejuízo do disposto no número seguinte, os depósitos de sucata existentes à data da entrada em vigor do presente decreto-lei que não disponham de licença emitida ao abrigo do Decreto-Lei n.º 268/98, de 28 de Agosto, dispõem de um prazo de 90 dias para apresentar o pedido de licenciamento a que se refere o artigo 27.º
+
+9 - As certidões provisórias emitidas ao abrigo do despacho n.º 24571/2002 (2.ª série), de 18 de Novembro, mantêm-se válidas durante o prazo nelas fixado.
+
+10 - Até à entrada em vigor das portarias regulamentares previstas no presente decreto-lei, mantêm-se em vigor as Portarias n.os 335/97, de 16 de Maio, e 792/98, de 22 de Setembro, e demais actos complementares.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2020 - Diário da República n.º 207/2020, Série I de 2020-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2020-146240980), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 183/2009 - Diário da República n.º 153/2009, Série I de 2009-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2009-493485), em vigor a partir de 2009-08-15
+
+###### Artigo 77.º — Alteração ao Decreto-Lei n.º 194/2000, de 21 de Agosto
+
+(Revogado pelo Decreto-Lei nº 173/2008).
+
+> Republicado pelo/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 78.º — Alteração ao Decreto-Lei n.º 3/2004, de 3 de Janeiro
+
+O artigo 65.º do Decreto-Lei n.º 3/2004, de 3 de Janeiro, passa a ter a seguinte redacção:
+
+«Artigo 65.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - Quando seja emitida uma declaração de impacte ambiental desfavorável, a entidade licenciada pode submeter a avaliação um novo estudo de impacte ambiental, introduzindo alterações ao projecto que, pela sua natureza, não devessem ser apreciadas nos termos do artigo 52.º do presente decreto-lei.
+
+11 - (Anterior n.º 10.)
+
+12 - (Anterior n.º 11.)
+
+13 - (Anterior n.º 12.)
+
+14 - (Anterior n.º 13.)
+
+15 - (Anterior n.º 14.)»
+
+###### Artigo 79.º — Alteração ao Decreto-Lei n.º 85/2005, de 28 de Abril
+
+Os artigos 5.º, 6.º, 7.º, 9.º e 17.º do Decreto-Lei n.º 85/2005, de 28 de Abril, passam a ter a seguinte redacção:
+
+«Artigo 5.º
+
+[...]
+
+1 - Todas as instalações de incineração e de co-incineração de resíduos carecem de uma licença de instalação e de uma licença de exploração, a conceder pela autoridade competente no respeito pelo presente decreto-lei, com excepção das instalações de co-incineração de resíduos combustíveis não perigosos resultantes do tratamento mecânico de resíduos, as quais ficam sujeitos ao respectivo regime de licenciamento estabelecido no Decreto-Lei n.º 178/2006, de 5 de Setembro.
+
+2 - No caso de instalações de incineração ou co-incineração de resíduos abrangidas pelo Decreto-Lei n.º 69/2000, de 3 de Maio, e ou pelo Decreto-Lei n.º 194/2000, de 21 de Agosto, a licença de instalação referida no número anterior só pode ser atribuída no caso de declaração de impacte ambiental (DIA) favorável ou favorável condicionada ou, ainda, de dispensa do procedimento de avaliação de impacte ambiental e ou depois de concedida licença ambiental à instalação.
+
+3 - ...
+
+4 - ...
+
+Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - No caso de instalações de incineração e co-incineração de resíduos sujeitas ao regime jurídico da avaliação de impacte ambiental, nos termos do Decreto-Lei n.º 69/2000, de 3 de Maio, o pedido de licença é sempre acompanhado de cópia da correspondente DIA favorável ou favorável condicionada ou da decisão de dispensa do procedimento de avaliação de impacte ambiental, sob pena de indeferimento liminar.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+Artigo 7.º
+
+[...]
+
+...
+
+1) ...
+
+2) ...
+
+a) O referido na alínea a) do n.º 1 do artigo 27.º do Decreto-Lei n.º 178/2006, de 5 de Setembro;
+
+b) [Anterior alínea d).]
+
+c) [Anterior alínea e).]
+
+3) ...
+
+4) ...
+
+5) ...
+
+Artigo 9.º
+
+[...]
+
+1 - ...
+
+2 - No âmbito do procedimento de apreciação técnica, a autoridade competente requer a outras entidades e organismos da Administração os pareceres e ou as licenças específicos que estes devam emitir no cumprimento das atribuições que lhes estão conferidas, nomeadamente aqueles a que se refere o n.º 1 do artigo 28.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, a licença de descarga de efluentes, se aplicável, bem como aqueles que entenda necessários para a adequada instrução do processo, os quais devem ser-lhe enviados no prazo de 30 dias úteis contados da data da solicitação.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+Artigo 17.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Nos casos previstos no número anterior, o operador fica dispensado de apresentar os elementos que já tenham sido apresentados no âmbito dos procedimentos de licenciamento aplicáveis e se mantenham válidos.»
+
+###### Artigo 80.º — Norma revogatória
+
+1 - São revogados:
+
+a) O Decreto-Lei n.º 239/97, de 9 de Setembro;
+
+b) O artigo 16.º do Decreto-Lei n.º 366-A/97, de 20 de Dezembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 92/2006, de 25 de Maio;
+
+c) O Decreto-Lei n.º 268/98, de 28 de Agosto;
+
+d) O artigo 13.º do Decreto-Lei n.º 111/2001, de 6 de Abril;
+
+e) O artigo 49.º do Decreto-Lei n.º 152/2002, de 23 de Maio;
+
+f) O n.º 3 do artigo 15.º, o n.º 1 do artigo 16.º, o artigo 20.º, o n.º 4 do artigo 22.º, a alínea g) do n.º 1 do artigo 25.º e o artigo 29.º do Decreto-Lei n.º 153/2003, de 11 de Julho;
+
+g) O n.º 1 do artigo 18.º e o artigo 28.º do Decreto-Lei n.º 196/2003, de 23 de Agosto;
+
+h) O artigo 95.º do Decreto-Lei n.º 3/2004, de 3 de Janeiro;
+
+i) Os n.os 5 e 6 do artigo 20.º do Decreto-Lei n.º 230/2004, de 10 de Dezembro;
+
+j) O artigo 38.º do Decreto-Lei n.º 85/2005, de 28 de Abril;
+
+l) A Portaria n.º 961/98, de 10 de Novembro;
+
+m) A Portaria n.º 611/2005, de 27 de Julho;
+
+n) A Portaria n.º 612/2005, de 27 de Julho;
+
+o) A Portaria n.º 613/2005, de 27 de Julho;
+
+p) O despacho n.º 24571/2002 (2.ª série), de 18 de Novembro.
+
+2 - As remissões legais e regulamentares para os diplomas identificados no número anterior consideram-se feitas para o presente decreto-lei e para a legislação e regulamentação complementar nele previstas.
+
+###### Artigo 81.º — Regiões Autónomas
+
+O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira com as adaptações determinadas pelo interesse específico, cabendo a sua execução administrativa aos órgãos e serviços das respectivas administrações regionais, sem prejuízo da gestão a nível nacional.
+
+Visto e aprovado em Conselho de Ministros de 22 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Luís Medeiros Vieira - Francisco Ventura Ramos.
+
+Promulgado em 28 de Agosto de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 30 de Agosto de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Operações de eliminação
+
+D 1 - Depósito no solo, em profundidade ou à superfície (por exemplo, em aterros, etc.).
+
+D 2 - Tratamento no solo (por exemplo, biodegradação de efluentes líquidos ou de lamas de depuração nos solos, etc.).
+
+D 3 - Injecção em profundidade (por exemplo, injecção de resíduos por bombagem em poços, cúpulas salinas ou depósitos naturais, etc.).
+
+D 4 - Lagunagem (por exemplo, descarga de resíduos líquidos ou de lamas de depuração em poços, lagos naturais ou artificiais, etc.).
+
+D 5 - Depósitos subterrâneos especialmente concebidos (por exemplo, deposição em alinhamentos de células que são seladas e isoladas umas das outras e do ambiente, etc.).
+
+D 6 - Descarga para massas de água, com excepção dos mares e dos oceanos.
+
+D 7 - Descargas para os mares e ou oceanos, incluindo inserção nos fundos marinhos.
+
+D 8 - Tratamento biológico não especificado em qualquer outra parte do presente anexo que produza compostos ou misturas finais rejeitados por meio de qualquer das operações enumeradas de D 1 a D 12.
+
+D 9 - Tratamento físico-químico não especificado em qualquer outra parte do presente anexo que produza compostos ou misturas finais rejeitados por meio de qualquer das operações enumeradas de D 1 a D 12 (por exemplo, evaporação, secagem, calcinação, etc.).
+
+D 10 - Incineração em terra.
+
+D 11 - Incineração no mar (1).
+
+D 12 - Armazenamento permanente (por exemplo, armazenamento de contentores numa mina, etc.).
+
+D 13 - Mistura anterior à execução de uma das operações enumeradas de D 1 a D 12 (2).
+
+D 14 - Reembalagem anterior a uma das operações enumeradas de D 1 a D 13.
+
+D 15 - Armazenamento antes de uma das operações enumeradas de D 1 a D 14 (com exclusão do armazenamento temporário, antes da recolha, no local onde os resíduos foram produzidos) (3).
+
+(1) Esta operação é proibida pela legislação da UE e pelas convenções internacionais.
+
+(2) Se não houver outro código D adequado, este pode incluir operações preliminares anteriores à eliminação, incluindo o pré-processamento, tais como a triagem, a trituração, a compactação, a peletização, a secagem, a desintegração a seco, o acondicionamento ou a separação antes de qualquer das operações enumeradas de D 1 a D 12.
+
+(3) Por «armazenamento temporário» entende-se o armazenamento preliminar, nos termos da alínea c) do artigo 3.º
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+## Anexo II — Operações de valorização
+
+R 1 - Utilização principal como combustível ou outro meio de produção de energia (1).
+
+R 2 - Recuperação/regeneração de solventes.
+
+R 3 - Reciclagem/recuperação de substâncias orgânicas não utilizadas como solventes (incluindo digestão anaeróbia e ou compostagem e outros processos de transformação biológica) (2).
+
+R 4 - Reciclagem/recuperação de metais e compostos metálicos.
+
+R 5 - Reciclagem/recuperação de outros materiais inorgânicos (3).
+
+R 6 - Regeneração de ácidos ou bases.
+
+R 7 - Valorização de componentes utilizados na redução da poluição.
+
+R 8 - Valorização de componentes de catalisadores.
+
+R 9 - Refinação de óleos e outras reutilizações de óleos.
+
+R 10 - Tratamento do solo para benefício agrícola ou melhoramento ambiental.
+
+R 11 - Utilização de resíduos obtidos a partir de qualquer das operações enumeradas de R 1 a R 10.
+
+R 12 - Troca de resíduos com vista a submetê-los a uma das operações enumeradas de R 1 a R 11 (4).
+
+R 13 - Armazenamento de resíduos destinados a uma das operações enumeradas de R 1 a R 12 (com exclusão do armazenamento temporário, antes da recolha, no local onde os resíduos foram produzidos) (5).
+
+(1) Inclui instalações de incineração dedicadas ao processamento de resíduos sólidos urbanos apenas quando a sua eficiência energética é igual ou superior aos seguintes valores:
+
+0,60 para instalações em funcionamento e licenciadas nos termos da legislação comunitária aplicável antes de 1 de Janeiro de 2009;
+
+0,65 para instalações licenciadas após 31 de Dezembro de 2008, por recurso à fórmula:
+
+Eficiência energética = [Ep - (Ef + Ei)]/[0,97 x (Ew + Ef)]
+
+em que:
+
+Ep representa a energia anual produzida sob a forma de calor ou electricidade. É calculada multiplicando por 2,6 a energia sob a forma de electricidade e por 1,1 o calor produzido para uso comercial (GJ/ano);
+
+Ef representa a entrada anual de energia no sistema a partir de combustíveis que contribuem para a produção de vapor (GJ/ano);
+
+Ew representa a energia anual contida nos resíduos tratados calculada utilizando o valor calorífico líquido dos resíduos (GJ/ano);
+
+Ei representa a energia anual importada com exclusão de Ew e Ef (GJ/ano);
+
+0,97 é um factor que representa as perdas de energia nas cinzas de fundo e por radiação.
+
+Esta fórmula é aplicada nos termos do documento de referência sobre as melhores técnicas disponíveis para a incineração de resíduos.
+
+O valor da fórmula da eficiência energética é multiplicado por um fator de correção climática (FCC), como indicado a seguir:
+
+A) FCC para as instalações em funcionamento e licenciadas nos termos da legislação da União aplicável antes de 1 de setembro de 2015.
+
+FCC = 1 se GDA (igual ou maior que) 3350
+
+FCC = 1,25 se GDA (igual ou menor que) 2150
+
+FCC = - (0,25/1200) x GDA + 1,698 quando 2150 (menor que) GDA (menor que) 3350
+
+B) FCC para as instalações licenciadas após 31 de agosto de 2015 e para as instalações visadas no ponto 1 após 31 de dezembro de 2029:
+
+FCC = 1 se GDA (igual ou maior que) 3350
+
+FCC = 1,12 se GDA (igual ou menor que) 2150
+
+FCC = - (0,12/1 200) x GDA + 1,335 quando 2150 (menor que) GDA (menor que) 3350
+
+(O valor resultante para o FCC é arredondado à terceira casa decimal).
+
+O valor de GDA (graus-dias de aquecimento) a considerar deve ser a média dos valores anuais de GDA no local em que se situa a instalação de incineração, calculada durante o período de 20 anos consecutivos anterior ao ano em que o FCC é calculado. Para calcular o valor de GDA, aplica-se o seguinte método estabelecido pelo Eurostat: o valor de GDA é igual a (18ºC - Tm) x d se Tm for inferior ou igual a 15ºC (limiar de aquecimento) e é nulo se Tm for superior a 15ºC, sendo Tm a temperatura média (Tmin + Tmax)/2 exterior durante um período de d dias. Os cálculos devem ser efetuados diariamente (d = 1) e adicionados para obter um ano.
+
+(2) Esta operação inclui as operações de gaseificação e de pirólise que utilizem os componentes como produtos químicos.
+
+(3) Esta operação inclui a limpeza dos solos para efeitos de valorização e a reciclagem de materiais de construção inorgânicos.
+
+(4) Se não houver outro código R adequado, este pode incluir operações preliminares anteriores à valorização, incluindo o pré-processamento, tais como o desmantelamento, a triagem, a trituração, a compactação, a peletização, a secagem, a fragmentação, o acondicionamento, a reembalagem, a separação e a mistura antes de qualquer das operações enumeradas de R 1 a R 11.
+
+(5) Por «armazenamento temporário» entende-se o armazenamento preliminar, nos termos da alínea c) do artigo 3.º
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+## Anexo III — Características dos resíduos que os tornam perigosos
+
+H 1 - «Explosivo» - substâncias e misturas que podem explodir sob o efeito de uma chama ou ser mais sensíveis ao choque e à fricção que o dinitrobenzeno.
+
+H 2 - «Comburente» - substâncias e preparações que, em contacto com outras substâncias, nomeadamente com substâncias inflamáveis, apresentam uma reacção fortemente exotérmica.
+
+H 3-A - «Facilmente inflamável»:
+
+Substâncias e preparações no estado líquido cujo ponto de inflamação é inferior a 21ºC (incluindo os líquidos extremamente inflamáveis); ou
+
+Substâncias e preparações que podem aquecer até ao ponto de inflamação em contacto com o ar a uma temperatura normal, sem emprego de energia; ou
+
+Substâncias e preparações no estado sólido que se podem inflamar facilmente por breve contacto com uma fonte de inflamação e que continuam a arder ou a consumir-se após a retirada da fonte de inflamação; ou
+
+Substâncias e preparações gasosas, inflamáveis em contacto com o ar à pressão normal; ou
+
+Substâncias e preparações que em contacto com a água ou o ar húmido libertam gases facilmente inflamáveis em quantidades perigosas.
+
+H 3-B - «Inflamável» - substâncias e preparações líquidas cujo ponto de inflamação é igual ou superior a 21ºC e inferior ou igual a 55ºC.
+
+H 4 - «Irritante» - substâncias e preparações não corrosivas que por contacto imediato, prolongado ou repetido com a pele ou as mucosas podem provocar uma reacção inflamatória.
+
+H 5 - «Nocivo» - substâncias e preparações cuja inalação, ingestão ou penetração cutânea pode representar um risco, limitado, para a saúde.
+
+H 6 - «Tóxico» - substâncias e preparações (incluindo as substâncias e preparações muito tóxicas) cuja inalação, ingestão ou penetração cutânea pode representar um risco grave, agudo ou crónico para a saúde e inclusivamente causar a morte.
+
+H 7 - «Cancerígeno» - substâncias e preparações cuja inalação, ingestão ou penetração cutânea pode provocar cancro ou aumentar a sua ocorrência.
+
+H 8 - «Corrosivo» - substâncias e preparações que podem destruir tecidos vivos por contacto.
+
+H 9 - «Infeccioso» - substâncias e preparações que contêm microrganismos viáveis ou suas toxinas, em relação aos quais se sabe ou há boas razões para crer que causam doenças nos seres humanos ou noutros organismos vivos.
+
+H 10 - «Tóxico para a reprodução» - substâncias e preparações cuja inalação, ingestão ou penetração cutânea pode induzir malformações congénitas não hereditárias ou aumentar a sua ocorrência.
+
+H 11 - «Mutagénico» - substâncias e preparações cuja inalação, ingestão ou penetração cutânea pode induzir defeitos genéticos hereditários ou aumentar a sua ocorrência.
+
+H 12 - Resíduos que em contacto com a água, o ar ou um ácido libertam gases tóxicos ou muito tóxicos.
+
+H 13 (1) - «Sensibilizante» - substâncias e preparações cuja inalação ou penetração cutânea pode causar uma reacção de hipersensibilização tal que uma exposição posterior à substância ou à preparação produza efeitos nefastos característicos.
+
+H 14 - «Ecotóxico» - resíduos que representam ou podem representar um risco imediato ou diferido para um ou vários sectores do ambiente.
+
+H 15 - Resíduos susceptíveis de, após a sua eliminação, darem origem, por qualquer meio, a outra substância, por exemplo um lixiviado, que possua uma das características acima enumeradas.
+
+Notas
+
+1 - A atribuição das características de perigosidade, «tóxico» (e «muito tóxico»), «nocivo», «corrosivo», «irritante», «cancerígeno», «tóxico para a reprodução», «mutagénico» e «ecotóxico», é feita com base nos critérios estabelecidos no anexo i do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativo à classificação, rotulagem e embalagem das substâncias e misturas, que altera e revoga as Directivas n.os 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006.
+
+2 - Se relevante, são aplicáveis os valores limite enumerados no Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de Dezembro (1), adaptado ao progresso técnico e científico pelo Regulamento (CE) n.º 790/2009, da Comissão, de 10 de Agosto.
+
+3 - A reclassificação de resíduos perigosos em resíduos não perigosos não pode ser obtida por diluição ou mistura de resíduos de que resulte uma redução da concentração inicial em substâncias perigosas para valores inferiores aos limiares que definem o carácter perigoso de um resíduo.
+
+Métodos de ensaio
+
+Os métodos a utilizar são os descritos nos Regulamentos (CE) n.os 440/2008, da Comissão, de 30 de Maio, e 761/2009, da Comissão, de 23 de Julho.
+
+(1) Na medida em que estejam disponíveis os métodos de ensaio.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+## Anexo IV — CAE tratamento
+
+Consideram-se «operações de tratamento», nos termos da alínea rr) do artigo 3.º do presente decreto-lei, as actividades económicas incluídas nas subclasses da Classificação Portuguesa das Actividades Económicas (CAE - Rev.3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de Novembro, que seguidamente se apresentam, com excepção das actividades que expressamente se excluem no referido diploma, através da expressão «não inclui», na respectiva subclasse.
+
+Secção E - Captação, tratamento e distribuição de água; saneamento gestão de resíduos e despoluição
+
+Divisão 38 - Recolha, tratamento e eliminação de resíduos; valorização de materiais
+
+(ver documento original)
+
+Divisão 39 - Descontaminação e actividades similares
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+## Anexo V — Exemplos de medidas de prevenção de resíduos
+
+Medidas com incidência nas condições quadro relativas à geração de resíduos
+
+1 - Recurso a medidas de planeamento ou a outros instrumentos económicos que promovam a utilização eficiente dos recursos.
+
+2 - Promoção da investigação e desenvolvimento de tecnologias que permitam a obtenção de produtos mais limpos e menos produtores de resíduos e difusão e utilização dos resultados dessa investigação e desenvolvimento.
+
+3 - Desenvolvimento de indicadores eficazes e relevantes das pressões ambientais associadas à geração de resíduos destinados a contribuir para a prevenção da geração de resíduos a todos os níveis, desde comparações de produtos a nível comunitário até medidas a nível nacional, passando por acções desenvolvidas pelas autoridades locais.
+
+Medidas com incidência na fase de concepção, produção e distribuição
+
+1 - Promoção da «concepção ecológica» (integração sistemática dos aspectos ambientais na concepção de produtos, no intuito de melhorar o desempenho ambiental do produto ao longo de todo o seu ciclo de vida).
+
+2 - Prestação de informações sobre técnicas de prevenção de resíduos tendo em vista facilitar a aplicação das melhores técnicas disponíveis por parte da indústria.
+
+3 - Organização de acções de formação destinadas às autoridades competentes sobre a inserção dos requisitos de prevenção de resíduos nas licenças concedidas ao abrigo do presente decreto-lei e da Directiva n.º 96/61/CE.
+
+4 - Inclusão de medidas de prevenção da produção de resíduos em instalações não abrangidas pela Directiva n.º 96/61/CE. Se adequado, essas medidas podem incluir avaliações ou planos de prevenção de resíduos.
+
+5 - Realização de campanhas de sensibilização ou prestação de apoio às empresas a nível financeiro, decisório ou outro. Estas medidas podem ser especialmente eficazes caso visem pequenas e médias empresas, estejam adaptadas às mesmas e funcionem através de redes comerciais estabelecidas.
+
+6 - Recurso a acordos voluntários, painéis de consumidores/produtores ou negociações sectoriais para que as empresas ou sectores industriais relevantes estabeleçam os seus próprios planos ou objectivos de prevenção de resíduos ou rectifiquem produtos ou embalagens produtores de resíduos.
+
+7 - Promoção de sistemas de gestão ambiental credíveis, designadamente o EMAS e a ISO 14001.
+
+Medidas com incidência na fase de consumo e utilização
+
+1 - Utilização de instrumentos económicos, tais como incentivos às compras ecológicas ou instituição de um regime que obrigue os consumidores ao pagamento de determinado artigo ou elemento de uma embalagem que seria, caso contrário, fornecido gratuitamente.
+
+2 - Realização de campanhas de sensibilização e de informação dirigidas ao público em geral ou a grupos de consumidores específicos.
+
+3 - Promoção de rótulos ecológicos credíveis.
+
+4 - Acordos com a indústria, tais como o recurso a painéis de produtos do tipo utilizado no âmbito das políticas integradas de produtos, ou com retalhistas sobre a disponibilização de informações em matéria de prevenção de resíduos e de produtos com menor impacte ambiental.
+
+5 - No contexto da celebração de contratos no sector público e privado, integração de critérios ambientais e de prevenção de resíduos nos concursos e contratos, em consonância com o manual sobre contratos públicos ecológicos (Handbook on Environmental Public Procurement), publicado pela Comissão em 29 de Outubro de 2004.
+
+6 - Promoção da reutilização e ou reparação de certos produtos rejeitados ou dos seus componentes, nomeadamente através da utilização de medidas educativas, económicas, logísticas ou outras, como a criação de redes e centros de reparação/reutilização acreditados ou o apoio às redes e centros existentes, especialmente nas regiões densamente povoadas.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+## Anexo VI — Conteúdo dos planos de gestão de resíduos
+
+A - Elementos obrigatórios
+
+Dos planos de gestão de resíduos deve constar a análise da situação actual da gestão de resíduos, a definição das medidas a adoptar para melhorar, de modo ambientalmente correcto, o tratamento de resíduos, bem como a avaliação do modo como o plano é susceptível de apoiar a execução dos objectivos e do regime decorrente do presente decreto-lei.
+
+Os planos de gestão de resíduos devem conter, conforme adequado e de acordo com a abrangência geográfica e da zona de planeamento, pelo menos, os seguintes elementos:
+
+a) Tipo, origem e quantidade dos resíduos produzidos no território, dos resíduos que podem ser transferidos para o território nacional ou a partir deste e a avaliação prospectiva da evolução das fileiras e fluxos específicos de resíduos;
+
+b) Sistemas de recolha de resíduos e principais instalações existentes apropriadas para o tratamento, incluindo designadamente disposições especiais relativas aos óleos usados, aos resíduos perigosos ou aos fluxos específicos de resíduos, Uma avaliação das necessidades em matéria de novos sistemas de recolha, de encerramento das instalações de resíduos existentes, de infra-estruturas suplementares para as instalações de resíduos, de acordo com os princípios gerais de gestão de resíduos em particular do princípio da auto-suficiência e da proximidade e, se necessário, dos investimentos correspondentes;
+
+c) Informações suficientes sobre os critérios de localização para a identificação dos locais e a capacidade das futuras instalações de eliminação ou das principais instalações de valorização, se necessário;
+
+d) Políticas gerais de gestão de resíduos, designadamente tecnologias e normas técnicas aplicáveis à gestão de resíduos, ou políticas relativas a outros resíduos que coloquem problemas de gestão específicos, incluindo especificações técnicas e disposições especiais;
+
+e) Objectivos quantitativos e qualitativos a atingir, em conformidade com os objectivos definidos pela legislação nacional ou comunitária aplicável.
+
+B - Elementos opcionais
+
+Os planos de gestão de resíduos podem conter, tendo em conta a abrangência geográfica e a zona de planeamento, os seguintes elementos:
+
+a) Aspectos organizacionais relacionados com a gestão de resíduos, designadamente uma descrição da partilha de responsabilidades entre os intervenientes que efectuam a gestão de resíduos;
+
+b) Uma avaliação da utilidade e adequação da utilização de instrumentos económicos e de outros instrumentos para a resolução de problemas relacionados com os resíduos, tendo em conta a necessidade de manter o bom funcionamento do mercado interno;
+
+c) A realização de campanhas de sensibilização e de informação dirigidas ao público em geral ou a grupos específicos de consumidores;
+
+d) Uma indicação dos locais contaminados que constituem passivos ambientais e medidas para a sua reabilitação.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18

@@ -1,0 +1,246 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308277:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1983-888712945",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/7-1983-308277",
+ "source_lastmod": "2024-09-24",
+ "versions": [
+  {
+   "date": "1983-02-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888563660",
+    "888563661",
+    "888563662",
+    "888563663",
+    "888563664",
+    "888563665",
+    "888563666",
+    "888563667",
+    "888563668",
+    "888563669",
+    "888563670"
+   ]
+  },
+  {
+   "date": "1983-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:401293:por",
+     "title": "Declaração",
+     "published": "1983-02-28",
+     "dre_path": "/dr/detalhe/declaracao/1983-401293"
+    }
+   ],
+   "changes": [
+    "Adita Anexo"
+   ],
+   "fragments": [
+    "888563660",
+    "888844869",
+    "888844870",
+    "888844871",
+    "888844872",
+    "888844873",
+    "888844874",
+    "888845775",
+    "888845776",
+    "888845777",
+    "888845778",
+    "888845779",
+    "888845780"
+   ]
+  }
+ ],
+ "fragments": {
+  "888563660": {
+   "fragment_id": "888712946",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 7/83\n\nde 3 de Fevereiro\n\nAs zonas confinantes com os aeródromos civis e instalações de apoio à aviação civil estão sujeitas a servidões aeronáuticas, nos termos do Decreto-Lei n.º 45987, de 22 de Outubro de 1964.\n\nTorna-se, no entanto, necessário que em cada aeródromo sejam definidas as zonas da respectiva servidão e os limites de espaço aéreo por ela abrangido.\n\nPelo presente diploma define-se a servidão aeronáutica do aeroporto do Porto.\n\nConsiderando que se deu oportunamente cumprimento ao disposto no artigo 2.º do Decreto-Lei n.º 45986, aplicável de acordo com o disposto no artigo 11.º do Decreto-Lei n.º 45987:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "888563661": {
+   "fragment_id": "888712947",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica sujeita a servidão aeronáutica a área confinante com o aeroporto do Porto abrangida na planta anexa ao presente diploma e que dele faz parte integrante."
+  },
+  "888563662": {
+   "fragment_id": "888712948",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A área sujeita a servidão compreende as seguintes zonas:\n\na) Zona 1 (zona de ocupação) - área de terreno ocupada pelo aeroporto e a necessária ao seu plano director de desenvolvimento, área cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:\n\n(ver documento original)\n\nb) Zona 2 (zona de protecção) - área de terreno confinante com a zona 1 e interior à linha poligonal com vértice nos pontos com as seguintes coordenadas:\n\n(ver documento original)\n\nc) Zona 3 (canais operacionais), compreendendo os sectores 3-A, 3-B, 3-C e 3-D - estes sectores são superfícies de terreno ou de água limitadas por linhas poligonais com vértices nos pontos com as seguintes coordenadas:\n\n(ver documento original)\n\nd) Zona 4 (zona de protecção de radioajudas), compreendendo os sectores 4-A, 4-B, 4-C, 4-D e 4-E.\n\nO sector 4-A é a superfície de terreno exterior à zona 2 e com esta confinando, limitada, a norte e a sul, pela projecção vertical de arcos de circunferência horizontais de 4500 m de raio, com centros nos pontos de coordenadas M = -46282 e P = +177330 (a norte) e M = -45604 e P = +173794 (a sul), a nascente pelo alinhamento recto que contém os 2 pontos de coordenadas M = -43943 e P = +176391 e M = -42776 e P = +170293, e a poente pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -46941 e P = +169497.\n\nOs limites dos sectores 4-B, 4-C, 4-D e 4-E são circunferências horizontais cujos raios e coordenadas dos seus centros são, respectivamente, os seguintes:\n\n4-B: raio de 750 m e coordenadas M = -47450 e P = +183434;\n\n4-C: raio de 300 m e coordenadas M = -44823 e P = +169708;\n\n4-D: raio de 750 m e coordenadas M = -44258 e P = +166753;\n\n4-E: raio de 300 m e coordenadas M = -42936 e P = +159845.\n\nO sector 4-A abrange as seguintes áreas:\n\n4-A1 - área do sector 4-A coincidente com o sector 3-A da zona 3;\n\n4-A2 - área do sector 4-A coincidente com o sector 3-B da zona 3;\n\n4-A3 - área confinante com 4-A1 e limitada a norte pela zona 6 (adiante referida), a nascente pela área A-1 e pela zona 2, a sul pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -43943 e P = +176391 e a poente pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -46941 e P = +169496;\n\n4-A4 - área confinante com 4-A1 e limitada a norte pela zona 6, a nascente pelo alinhamento recto que contém os pontos de coordenadas M = -43943 e P = +176391 e M = -42776 e P = +170293, a sul pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -43943 e P = +176391 e a poente pela área 4-A1 e pela zona 2;\n\n4-A5 - área confinante com 4-A2 e limitada a norte pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -43943 e P = +176391, a nascente pela área 4-A2 e pela zona 2, a sul pela zona 6 e a poente pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -46941 e P = +169497;\n\n4-A6 - área confinante com 4-A2 e limitada a norte pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -43943 e P = +176391, a nascente pelo alinhamento recto que contém os pontos de coordenadas M = -43943 e P = +176391 e M = -42776 e P = +170293, a sul pela zona 6 e a poente pela área 4-A2 e pela zona 2.\n\ne) Zona 5 (superfície horizontal interior) - superfície de terreno ou de água confinante com os sectores 4-A3, 4-A4, 4-A5 e 4-A6 da zona 4 e limitada exteriormente pela projecção vertical de 2 arcos de circunferência horizontais de 4500 m de raio e respectivos segmentos tangentes.\n\nOs centros destes arcos de circunferência têm as coordenadas M = -46282 e P = +177330 e M = -45604 e P = +173794.\n\nf) Zona 6 (superfície cónica) - superfície de terreno ou de água confinante com a zona 5, com os sectores 3-A, 3-B e 3-C da zona 3 e com os sectores 4-A3, 4-A4, 4-A5 e 4-A6 da zona 4 e limitada exteriormente pela projecção vertical de 2 arcos de circunferência horizontais de 6500 m de raio e respectivos segmentos tangentes.\n\nEstes arcos de circunferência são concêntricos com os que delimitam a zona 5.\n\ng) Zona 7 (superfície horizontal exterior) - superfície de terreno ou de água confinante com a zona 6 e sectores 3-A, 3-C e 3-D da zona 3 e limitada exteriormente por uma circunferência horizontal de 15 km de raio, com centro no ponto de coordenadas M = -45943 e P = +175562.\n\n2 - As coordenadas referidas neste diploma são do sistema Hayford-Gauss, com datum no ponto central."
+  },
+  "888563663": {
+   "fragment_id": "888712949",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nFicam sujeitos a servidão geral, nos termos do artigo 4.º do Decreto-Lei n.º 45987, os terrenos compreendidos nas zonas 1 e 2."
+  },
+  "888563664": {
+   "fragment_id": "888712950",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Ficam sujeitas a servidão particular, de harmonia com o disposto no artigo 5.º do Decreto-Lei n.º 45987, as áreas de terreno ou de água compreendidas nas zonas abaixo indicadas, carecendo de licença prévia da Direcção-Geral da Aviação Civil as construções ou a criação de quaisquer outros obstáculos, mesmo de carácter temporário, nas seguintes condições:\n\n1.º Na zona 3, quando ultrapassem as seguintes cotas:\n\nI) Sector 3-A - variável entre 73 m e 190 m;\n\nII) Sector 3-B - 90 m;\n\nIII) Sector 3-C - variável entre 120 m e 190 m;\n\nIV) Sector 3-D - 190 m.\n\n2.º Na zona 4:\n\na) Obstáculos metálicos, tais como linhas aéreas de transporte de energia em alta tensão, agregados de mais de 4 linhas telefónicas aéreas (8 fios), hangares, armazéns e pavilhões de grande vão com estruturas ou coberturas metálicas, torres para antenas, vedações em rede metálica com altura superior a 2 m, grandes depósitos de sucatas ou de materiais metálicos, independentemente da sua cota;\n\nb) Restantes obstáculos, quando ultrapassem as seguintes cotas:\n\nEm 4-A1 - as cotas estipuladas para o sector 3-A da zona 3, na área que é coincidente com 4-A1;\n\nEm 4-A2 - 90 m;\n\nEm 4-A3 - 58 m, quando situados a menos de 600 m da zona 2, e 70 m para além desta distância;\n\nEm 4-A4 - 56 m, quando situados a menos de 750 m da zona 2, e 70 m para além desta distância;\n\nEm 4-A5 - 74 m, quando situados a menos de 300 m da zona 2, e 80 m para além desta distância;\n\nEm 4-A6 - 80 m;\n\nEm 4-B - 52 m, quando situados a menos de 300 m do centro da área 4-B, e variável entre 52 m e 61 m para além desta distância;\n\nEm 4-C - 75 m;\n\nEm 4-D - 70 m, quando situados a menos de 300 m do centro da área 4-D, e variável entre 70 m e 79 m para além desta distância;\n\nEm 4-E - 35 m;\n\n3.º Na zona 5 - quando ultrapassem a cota de 90 m;\n\n4.º Na zona 6 - quando ultrapassem a cota variável entre 90 m e 190 m;\n\n5.º Na zona 7 - quando, simultaneamente, tenham mais de 30 m acima do solo e se elevem acima da cota de 190 m.\n\n2 - Aos locais abrangidos simultaneamente pelas zonas 3 e 4 é aplicável o conjunto dos respectivos condicionamentos ou aqueles que conduzam a uma cota mais baixa.\n\n3 - As cotas indicadas neste artigo são cotas absolutas e, quando variáveis, aumentam uniformemente com a distância à pista do aeroporto ou, no caso das áreas circulares, com a distância aos respectivos centros."
+  },
+  "888563665": {
+   "fragment_id": "888712951",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nCarece de licença prévia da Direcção-Geral da Aviação Civil a instalação de linhas aéreas de transporte de energia eléctrica numa área circular de 8 km de raio com centro no ponto de coordenadas M = -45943 e P = +175562."
+  },
+  "888563666": {
+   "fragment_id": "888712952",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNas zonas 1, 2, 3, 4 e 5 fica proibido, sem licença prévia da Direcção-Geral da Aviação Civil, o lançamento para o ar de projécteis ou objectos susceptíveis de porem em risco a segurança da navegação aérea (incluindo fogos-de-artifício e outros), bem como a execução de todas as construções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações rádio avião-aeroporto ou produzir poeiras ou fumos susceptíveis de alterar as condições de visibilidade."
+  },
+  "888563667": {
+   "fragment_id": "888712953",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNas zonas 1 e 2 carecem também de licença prévia da Direcção-Geral da Aviação Civil a construção de escolas, estabelecimentos de carácter hospitalar e recintos desportivos ou outros susceptíveis de conduzirem à aglomeração de grande número de pessoas e a afectação aos fins indicados de edifícios ou recintos existentes."
+  },
+  "888563668": {
+   "fragment_id": "888712954",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nCompete à Direcção-Geral da Aviação Civil a fiscalização e licenciamento de trabalhos nas zonas sujeitas a servidão, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas."
+  },
+  "888563669": {
+   "fragment_id": "888712955",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - As licenças previstas no presente diploma serão requeridas ao director-geral da Aviação Civil, por intermédio das câmaras municipais respectivas, nos termos do disposto no artigo 8.º e seus parágrafos do Decreto-Lei n.º 45986, de 22 de Outubro de 1964, aplicável por força do disposto no artigo 11.º do Decreto-Lei n.º 45987, da mesma data.\n\n2 - A planta de localização referida na alínea b) do § 1.º do artigo 8.º do Decreto-Lei n.º 45986 deverá ser à escala de 1:5000, devidamente referenciada por coordenadas."
+  },
+  "888563670": {
+   "fragment_id": "888712956",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSem prejuízo de recurso contencioso, das decisões do director-geral da Aviação Civil cabe recurso hierárquico facultativo para o Ministro da Habitação, Obras Públicas e Transportes.\n\nFrancisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista."
+  },
+  "888844869": {
+   "fragment_id": "888712947",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica sujeita a servidão aeronáutica a área confinante com o aeroporto do Porto abrangida na planta anexa ao presente diploma e que dele faz parte integrante."
+  },
+  "888844870": {
+   "fragment_id": "888712948",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A área sujeita a servidão compreende as seguintes zonas:\n\na) Zona 1 (zona de ocupação) - área de terreno ocupada pelo aeroporto e a necessária ao seu plano director de desenvolvimento, área cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:\n\n(ver documento original)\n\nb) Zona 2 (zona de protecção) - área de terreno confinante com a zona 1 e interior à linha poligonal com vértice nos pontos com as seguintes coordenadas:\n\n(ver documento original)\n\nc) Zona 3 (canais operacionais), compreendendo os sectores 3-A, 3-B, 3-C e 3-D - estes sectores são superfícies de terreno ou de água limitadas por linhas poligonais com vértices nos pontos com as seguintes coordenadas:\n\n(ver documento original)\n\nd) Zona 4 (zona de protecção de radioajudas), compreendendo os sectores 4-A, 4-B, 4-C, 4-D e 4-E.\n\nO sector 4-A é a superfície de terreno exterior à zona 2 e com esta confinando, limitada, a norte e a sul, pela projecção vertical de arcos de circunferência horizontais de 4500 m de raio, com centros nos pontos de coordenadas M = -46282 e P = +177330 (a norte) e M = -45604 e P = +173794 (a sul), a nascente pelo alinhamento recto que contém os 2 pontos de coordenadas M = -43943 e P = +176391 e M = -42776 e P = +170293, e a poente pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -46941 e P = +169497.\n\nOs limites dos sectores 4-B, 4-C, 4-D e 4-E são circunferências horizontais cujos raios e coordenadas dos seus centros são, respectivamente, os seguintes:\n\n4-B: raio de 750 m e coordenadas M = -47450 e P = +183434;\n\n4-C: raio de 300 m e coordenadas M = -44823 e P = +169708;\n\n4-D: raio de 750 m e coordenadas M = -44258 e P = +166753;\n\n4-E: raio de 300 m e coordenadas M = -42936 e P = +159845.\n\nO sector 4-A abrange as seguintes áreas:\n\n4-A1 - área do sector 4-A coincidente com o sector 3-A da zona 3;\n\n4-A2 - área do sector 4-A coincidente com o sector 3-B da zona 3;\n\n4-A3 - área confinante com 4-A1 e limitada a norte pela zona 6 (adiante referida), a nascente pela área A-1 e pela zona 2, a sul pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -43943 e P = +176391 e a poente pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -46941 e P = +169496;\n\n4-A4 - área confinante com 4-A1 e limitada a norte pela zona 6, a nascente pelo alinhamento recto que contém os pontos de coordenadas M = -43943 e P = +176391 e M = -42776 e P = +170293, a sul pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -43943 e P = +176391 e a poente pela área 4-A1 e pela zona 2;\n\n4-A5 - área confinante com 4-A2 e limitada a norte pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -43943 e P = +176391, a nascente pela área 4-A2 e pela zona 2, a sul pela zona 6 e a poente pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -46941 e P = +169497;\n\n4-A6 - área confinante com 4-A2 e limitada a norte pelo alinhamento recto que contém os pontos de coordenadas M = -48108 e P = +175594 e M = -43943 e P = +176391, a nascente pelo alinhamento recto que contém os pontos de coordenadas M = -43943 e P = +176391 e M = -42776 e P = +170293, a sul pela zona 6 e a poente pela área 4-A2 e pela zona 2.\n\ne) Zona 5 (superfície horizontal interior) - superfície de terreno ou de água confinante com os sectores 4-A3, 4-A4, 4-A5 e 4-A6 da zona 4 e limitada exteriormente pela projecção vertical de 2 arcos de circunferência horizontais de 4500 m de raio e respectivos segmentos tangentes.\n\nOs centros destes arcos de circunferência têm as coordenadas M = -46282 e P = +177330 e M = -45604 e P = +173794.\n\nf) Zona 6 (superfície cónica) - superfície de terreno ou de água confinante com a zona 5, com os sectores 3-A, 3-B e 3-C da zona 3 e com os sectores 4-A3, 4-A4, 4-A5 e 4-A6 da zona 4 e limitada exteriormente pela projecção vertical de 2 arcos de circunferência horizontais de 6500 m de raio e respectivos segmentos tangentes.\n\nEstes arcos de circunferência são concêntricos com os que delimitam a zona 5.\n\ng) Zona 7 (superfície horizontal exterior) - superfície de terreno ou de água confinante com a zona 6 e sectores 3-A, 3-C e 3-D da zona 3 e limitada exteriormente por uma circunferência horizontal de 15 km de raio, com centro no ponto de coordenadas M = -45943 e P = +175562.\n\n2 - As coordenadas referidas neste diploma são do sistema Hayford-Gauss, com datum no ponto central."
+  },
+  "888844871": {
+   "fragment_id": "888712949",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nFicam sujeitos a servidão geral, nos termos do artigo 4.º do Decreto-Lei n.º 45987, os terrenos compreendidos nas zonas 1 e 2."
+  },
+  "888844872": {
+   "fragment_id": "888712950",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Ficam sujeitas a servidão particular, de harmonia com o disposto no artigo 5.º do Decreto-Lei n.º 45987, as áreas de terreno ou de água compreendidas nas zonas abaixo indicadas, carecendo de licença prévia da Direcção-Geral da Aviação Civil as construções ou a criação de quaisquer outros obstáculos, mesmo de carácter temporário, nas seguintes condições:\n\n1.º Na zona 3, quando ultrapassem as seguintes cotas:\n\nI) Sector 3-A - variável entre 73 m e 190 m;\n\nII) Sector 3-B - 90 m;\n\nIII) Sector 3-C - variável entre 120 m e 190 m;\n\nIV) Sector 3-D - 190 m.\n\n2.º Na zona 4:\n\na) Obstáculos metálicos, tais como linhas aéreas de transporte de energia em alta tensão, agregados de mais de 4 linhas telefónicas aéreas (8 fios), hangares, armazéns e pavilhões de grande vão com estruturas ou coberturas metálicas, torres para antenas, vedações em rede metálica com altura superior a 2 m, grandes depósitos de sucatas ou de materiais metálicos, independentemente da sua cota;\n\nb) Restantes obstáculos, quando ultrapassem as seguintes cotas:\n\nEm 4-A1 - as cotas estipuladas para o sector 3-A da zona 3, na área que é coincidente com 4-A1;\n\nEm 4-A2 - 90 m;\n\nEm 4-A3 - 58 m, quando situados a menos de 600 m da zona 2, e 70 m para além desta distância;\n\nEm 4-A4 - 56 m, quando situados a menos de 750 m da zona 2, e 70 m para além desta distância;\n\nEm 4-A5 - 74 m, quando situados a menos de 300 m da zona 2, e 80 m para além desta distância;\n\nEm 4-A6 - 80 m;\n\nEm 4-B - 52 m, quando situados a menos de 300 m do centro da área 4-B, e variável entre 52 m e 61 m para além desta distância;\n\nEm 4-C - 75 m;\n\nEm 4-D - 70 m, quando situados a menos de 300 m do centro da área 4-D, e variável entre 70 m e 79 m para além desta distância;\n\nEm 4-E - 35 m;\n\n3.º Na zona 5 - quando ultrapassem a cota de 90 m;\n\n4.º Na zona 6 - quando ultrapassem a cota variável entre 90 m e 190 m;\n\n5.º Na zona 7 - quando, simultaneamente, tenham mais de 30 m acima do solo e se elevem acima da cota de 190 m.\n\n2 - Aos locais abrangidos simultaneamente pelas zonas 3 e 4 é aplicável o conjunto dos respectivos condicionamentos ou aqueles que conduzam a uma cota mais baixa.\n\n3 - As cotas indicadas neste artigo são cotas absolutas e, quando variáveis, aumentam uniformemente com a distância à pista do aeroporto ou, no caso das áreas circulares, com a distância aos respectivos centros."
+  },
+  "888844873": {
+   "fragment_id": "888712951",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nCarece de licença prévia da Direcção-Geral da Aviação Civil a instalação de linhas aéreas de transporte de energia eléctrica numa área circular de 8 km de raio com centro no ponto de coordenadas M = -45943 e P = +175562."
+  },
+  "888844874": {
+   "fragment_id": "888712952",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNas zonas 1, 2, 3, 4 e 5 fica proibido, sem licença prévia da Direcção-Geral da Aviação Civil, o lançamento para o ar de projécteis ou objectos susceptíveis de porem em risco a segurança da navegação aérea (incluindo fogos-de-artifício e outros), bem como a execução de todas as construções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações rádio avião-aeroporto ou produzir poeiras ou fumos susceptíveis de alterar as condições de visibilidade."
+  },
+  "888845775": {
+   "fragment_id": "888712953",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNas zonas 1 e 2 carecem também de licença prévia da Direcção-Geral da Aviação Civil a construção de escolas, estabelecimentos de carácter hospitalar e recintos desportivos ou outros susceptíveis de conduzirem à aglomeração de grande número de pessoas e a afectação aos fins indicados de edifícios ou recintos existentes."
+  },
+  "888845776": {
+   "fragment_id": "888712954",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nCompete à Direcção-Geral da Aviação Civil a fiscalização e licenciamento de trabalhos nas zonas sujeitas a servidão, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas."
+  },
+  "888845777": {
+   "fragment_id": "888712955",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - As licenças previstas no presente diploma serão requeridas ao director-geral da Aviação Civil, por intermédio das câmaras municipais respectivas, nos termos do disposto no artigo 8.º e seus parágrafos do Decreto-Lei n.º 45986, de 22 de Outubro de 1964, aplicável por força do disposto no artigo 11.º do Decreto-Lei n.º 45987, da mesma data.\n\n2 - A planta de localização referida na alínea b) do § 1.º do artigo 8.º do Decreto-Lei n.º 45986 deverá ser à escala de 1:5000, devidamente referenciada por coordenadas."
+  },
+  "888845778": {
+   "fragment_id": "888712956",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSem prejuízo de recurso contencioso, das decisões do director-geral da Aviação Civil cabe recurso hierárquico facultativo para o Ministro da Habitação, Obras Públicas e Transportes.\n\nFrancisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista."
+  },
+  "888845779": {
+   "fragment_id": "888712957",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Promulgado em 19 de Janeiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 21 de Janeiro de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "888845780": {
+   "fragment_id": "888824600",
+   "type": 14,
+   "heading": "Anexo — Mapa",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a [Declaração - Diário da República n.º 48/1983, 3º Suplemento, Série I de 1983-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-401293), em vigor a partir de 1983-02-28"
+   ],
+   "markdown": "## Anexo — Mapa\n\n(ver documento original)\n\n> Aditado pelo/a [Declaração - Diário da República n.º 48/1983, 3º Suplemento, Série I de 1983-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-401293), em vigor a partir de 1983-02-28"
+  }
+ }
+}

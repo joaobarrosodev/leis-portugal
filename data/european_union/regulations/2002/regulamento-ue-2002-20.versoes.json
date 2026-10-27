@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R0020:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0020-20060603",
+ "dre_path": null,
+ "source_lastmod": "2006-06-03",
+ "versions": [
+  {
+   "date": "2006-06-03",
+   "future": false,
+   "celex": "02002R0020-20060603",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "97a3141627e81b76"
+   ]
+  }
+ ],
+ "fragments": {
+  "97a3141627e81b76": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002R0020 — PT — 03.06.2006 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002R0020) [REGULAMENTO (CE) N.º 20/2002 DA COMISSÃO](http://publications.europa.eu/resource/celex/32002R0020) [de 28 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32002R0020) [que estabelece as normas de execução dos regimes específicos de abastecimento das regiões ultraperiféricas estabelecidos pelos Regulamentos (CE) n.º 1452/2001, (CE) n.º 1453/2001 e (CE) n.º 1454/2001 do Conselho](http://publications.europa.eu/resource/celex/32002R0020) (JO L 008, 11.1.2002, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 793/2006 da Comissão de 12 de Abril de 2006](http://publications.europa.eu/resource/celex/32006R0793) — L 145 — 1 — 31.5.2006"
+  }
+ }
+}

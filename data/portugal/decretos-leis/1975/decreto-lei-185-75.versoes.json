@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:161688:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-181429392",
+ "dre_path": "/dr/detalhe/decreto-lei/185-1975-161688",
+ "source_lastmod": "2025-06-18",
+ "versions": [
+  {
+   "date": "1975-04-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921943657",
+    "181429151",
+    "181429152",
+    "181429153"
+   ]
+  },
+  {
+   "date": "1975-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:336312:por",
+     "title": "Declaração",
+     "published": "1975-04-30",
+     "dre_path": "/dr/detalhe/declaracao/1975-336312"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "181429150",
+    "181429151",
+    "921824264",
+    "181429153",
+    "181429154"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "921943657",
+    "921943658",
+    "921943659",
+    "921943660",
+    "921943661"
+   ]
+  }
+ ],
+ "fragments": {
+  "921943657": {
+   "fragment_id": "181429393",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 185/75\n\nde 4 de Abril\n\nConsiderando a transferência para Tomar da Casa de Reclusão da Região Militar de Coimbra, sedeada em Viseu;\n\nConsiderando a necessidade de os tribunais militares territoriais e as casas de reclusão que têm atribuída a mesma área se encontrarem situados na mesma localidade;\n\nConsiderando a existência de instalações militares disponíveis em Tomar;\n\nUsando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "181429151": {
+   "fragment_id": "181429394",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Tribunal Militar Territorial sedeado em Viseu, de acordo com o disposto no artigo 266.º do Código de Justiça Militar, é transferido para Tomar."
+  },
+  "181429152": {
+   "fragment_id": "181429395",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente Tribunal Militar Territorial passa a designar-se por Tribunal Territorial de Tomar e mantém a sua jurisdição territorial."
+  },
+  "181429153": {
+   "fragment_id": "181429396",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do disposto neste decreto-lei, a transferência do Tribunal Militar Territorial de Viseu para Tomar considera-se referida a 1 de Janeiro de 1975."
+  },
+  "181429150": {
+   "fragment_id": "181429393",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 185/75\n\nde 4 de Abril\n\nConsiderando a transferência para Tomar da Casa de Reclusão da Região Militar de Coimbra, sedeada em Viseu;\n\nConsiderando a necessidade de os tribunais militares territoriais e as casas de reclusão que têm atribuída a mesma área se encontrarem situados na mesma localidade;\n\nConsiderando a existência de instalações militares disponíveis em Tomar;\n\nUsando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "921824264": {
+   "fragment_id": "181429395",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1975-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 100/1975, Série I de 1975-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1975-336312), em vigor a partir de 1975-04-30"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO presente Tribunal Militar Territorial  passa a designar-se por Tribunal Militar Territorial de Tomar e mantém a sua jurisdição territorial.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 100/1975, Série I de 1975-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1975-336312), em vigor a partir de 1975-04-30"
+  },
+  "181429154": {
+   "fragment_id": "181429397",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.\n\nPromulgado em 13 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "921943658": {
+   "fragment_id": "181429394",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO Tribunal Militar Territorial sedeado em Viseu, de acordo com o disposto no artigo 266.º do Código de Justiça Militar, é transferido para Tomar.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "921943659": {
+   "fragment_id": "181429395",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 100/1975, Série I de 1975-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1975-336312), em vigor a partir de 1975-04-30"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO presente Tribunal Militar Territorial  passa a designar-se por Tribunal Militar Territorial de Tomar e mantém a sua jurisdição territorial.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 100/1975, Série I de 1975-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1975-336312), em vigor a partir de 1975-04-30"
+  },
+  "921943660": {
+   "fragment_id": "181429396",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos do disposto neste decreto-lei, a transferência do Tribunal Militar Territorial de Viseu para Tomar considera-se referida a 1 de Janeiro de 1975.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "921943661": {
+   "fragment_id": "181429397",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.\n\nPromulgado em 13 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

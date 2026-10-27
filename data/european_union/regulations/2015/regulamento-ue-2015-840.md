@@ -1,0 +1,249 @@
+---
+schema_version: '1.0'
+id: eu:celex:32015R0840:por
+title: Regulamento de Execução (UE) 2015/840 da Comissão, de 29 de maio de 2015
+short_title: null
+summary: Regulamento de Execução (UE) 2015/840 da Comissão, de 29 de maio de 2015, relativo aos controlos realizados pelas
+  autoridades responsáveis nos termos do disposto no Regulamento (UE) n.° 514/2014 do Parlamento Europeu e do Conselho, que
+  estabelece disposições gerais aplicáveis ao Fundo para o Asilo, a Migração e a Integração e ao instrumento de apoio financeiro
+  à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2015/840
+official_date: null
+publication_date: '2015-05-30'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 134 de 30.5.2015
+  number: '134'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/3a652307-068d-11e5-8817-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2015-05-31'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2020-07-15'
+identifiers:
+  celex: 32015R0840
+  eli: http://data.europa.eu/eli/reg_impl/2015/840/oj
+  oj: oj:JOL_2015_134_R_0001
+  dre: null
+  dre_path: null
+  internal: eu:celex:32015R0840:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32015R0840
+  metadata_url: http://publications.europa.eu/resource/cellar/3a652307-068d-11e5-8817-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/7c2abfa6-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R0840-20200715
+  retrieved_at: '2026-10-26T14:16:06Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-13T01:48:20.637+02:00'
+integrity:
+  source_sha256: e86e654971dc268a401f09a0703b4a0ada071bb42143d690498410ad68145305
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T14:16:06Z'
+  notes: Texto consolidado 02015R0840-20200715.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- ajuda financeira
+- aplicação do direito da UE
+- controlo administrativo
+- controlo da UE
+- controlo financeiro
+- cooperação policial (UE)
+- direito de asilo
+- funcionamento institucional
+- imigração
+- memorização de dados
+relationships:
+- type: amended_by
+  target: celex:32020R1019
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3f9f34fa-c5cc-11ea-b3a4-01aa75ed71a1
+  date: '2020-07-14'
+- type: based_on
+  target: celex:32014R0514
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d14ce739-dff0-11e3-8cd4-01aa75ed71a1
+  date: '2014-05-20'
+- type: cites
+  target: celex:32012R0966
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6e42ca04-1e94-11e2-91ce-01aa75ed71a1
+- type: cites
+  target: celex:32014R1042
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4f253ab6-4ac5-11e4-a0cb-01aa75ed71a1
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T14:16:06Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento de Execução (UE) 2015/840 da Comissão, de 29 de maio de 2015
+
+> 02015R0840 — PT — 15.07.2020 — 001.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32020R1019) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1019 DA COMISSÃO de 13 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1019) — L 225 — 13 — 14.7.2020
+
+## REGULAMENTO DE EXECUÇÃO (UE) 2015/840 DA COMISSÃO
+
+de 29 de maio de 2015
+
+relativo aos controlos realizados pelas autoridades responsáveis nos termos do disposto no Regulamento (UE) n.º 514/2014 do Parlamento Europeu e do Conselho, que estabelece disposições gerais aplicáveis ao Fundo para o Asilo, a Migração e a Integração e ao instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises
+
+###### Artigo 1.º — Controlos administrativos
+
+1. A autoridade responsável procede a controlos administrativos de todas as declarações financeiras enviadas pelos beneficiários com o objetivo de receber financiamento da União, em conformidade com as convenções de subvenção definidas no artigo 1.º, alínea d), do Regulamento Delegado (UE) n.º 1042/2014 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7c2abfa6-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0001)) («declarações financeiras»). Estes controlos devem incluir, no mínimo, os seguintes elementos:
+
+a) Controlos destinados a verificar a correção formal e a exatidão aritmética das declarações financeiras;
+
+b) Controlos destinados a verificar se o projeto atingiu os objetivos fixados na convenção de subvenção ou se estão a ser realizados progressos para a consecução dos mesmos;
+
+c) Um estudo analítico para avaliar a pertinência das despesas declaradas nas declarações financeiras e a sua conformidade com os requisitos previstos na convenção de subvenção e nas normas nacionais e da União aplicáveis.
+
+2. Se os controlos administrativos revelarem incoerências ou irregularidades, a autoridade responsável deverá proceder a controlos rigorosos a fim de avaliar a legalidade e a regularidade das despesas, nomeadamente através da análise de uma amostra dos documentos comprovativos.
+
+3. A autoridade responsável pode exigir ao beneficiário a apresentação de um certificado de auditoria e de um relatório de auditoria incluindo todos os aspetos referidos no n.º 1, alíneas a) e c), emitidos por um auditor independente. Nesse caso, a autoridade responsável deve definir o âmbito dos controlos a efetuar pelo auditor independente, bem como o modelo do relatório de auditoria.
+
+###### Artigo 2.º — Princípios gerais relativos aos controlos in loco
+
+A autoridade responsável deve proceder a controlos financeiros e operacionais *in loco*.
+
+Os controlos *in loco* devem ser efetuados com base nos documentos e registos conservados pelos beneficiários dos projetos.
+
+Podem ser efetuados controlos *in loco* sem aviso prévio em conformidade com a legislação nacional, se o nível de fiabilidade puder ser comprometido caso se proceda a aviso prévio.
+
+###### Artigo 3.º — Controlos financeiros in loco
+
+1. O objetivo dos controlos financeiros *in loco* consiste em garantir um nível suficiente de fiabilidade no que se refere à legalidade e à regularidade das operações e dos contratos subjacentes às declarações financeiras.
+
+2. A autoridade responsável deve certificar-se de que:
+
+a) As despesas constantes das declarações financeiras correspondem aos registos contabilísticos e documentos comprovativos conservados pelos beneficiários dos projetos;
+
+b) As despesas constantes das declarações financeiras satisfazem os critérios de elegibilidade estabelecidos na convenção de subvenção e nas normas nacionais e da União aplicáveis;
+
+c) As fontes de financiamento cumprem os requisitos enunciados no artigo 16.º, n.º 2.º, do Regulamento (UE) n.º 514/2014.
+
+3. Sem prejuízo do disposto no artigo 4.º, n.º 2, os controlos financeiros *in loco* devem abranger, no mínimo, 10 % da contribuição cumulativa da União para os projetos declarados como concluídos nas contas anuais referidas no artigo 39.º do Regulamento (UE) n.º 514/2014.
+
+###### Artigo 4.º — Condições para reduzir ou aumentar os controlos financeiros in loco
+
+1. A autoridade responsável deve verificar o nível da taxa de erro na contribuição da União que é objeto de controlo nas contas anuais referidas no artigo 39.º do Regulamento (UE) n.º 514/2014, para o exercício financeiro N.
+
+2. A autoridade responsável pode reduzir o grau de cobertura dos controlos financeiros *in loco* no exercício seguinte N + 1, desde que estejam preenchidas as duas condições seguintes:
+
+a) A taxa de erro seja inferior a 2 % da contribuição da União que é objeto de controlo nas contas anuais para o exercício financeiro N,
+
+b) Os controlos *in loco* efetuados desde o início do programa nacional incidam sobre pelo menos 10 % da contribuição cumulativa da União para todos os projetos declarados como concluídos nas contas anuais desde o início do programa.
+
+3. Se a taxa de erro for igual ou superior a 2 % da contribuição da União que é objeto de controlo nas contas anuais para o exercício N, a autoridade responsável deve analisar a importância dessa taxa de erro, a fim de determinar a dimensão e os efeitos dos erros e se a taxa de erro é representativa da totalidade dos pagamentos declarados. A autoridade responsável deve tomar as medidas preventivas e corretivas necessárias, incluindo controlos adicionais, e indicar os resultados dessa análise no resumo anual referido no artigo 59.º, n.º 5, primeiro parágrafo, alínea b), do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/7c2abfa6-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0002)).
+
+Os controlos financeiros *in loco* para o exercício seguinte (N + 1) devem cobrir uma percentagem da contribuição cumulativa da União para os projetos declarados como concluídos nas contas anuais para o exercício financeiro N + 1, superior à percentagem correspondente no exercício N. A percentagem mais elevada não pode ser inferior a 10 %. Além disso, até ao exercício financeiro N + 1, os controlos *in loco* efetuados desde o início do programa nacional devem abranger, no mínimo, 10 % da contribuição cumulativa da União para todos os projetos declarados como concluídos nas contas anuais desde o início do programa.
+
+Se a taxa de erro resultante do aumento dos controlos efetuados no exercício N + 1 for inferior a 2 %, a autoridade responsável deve, no âmbito do exercício financeiro seguinte (N + 2) efetuar controlos financeiros *in loco* de, no mínimo, 10 % da contribuição cumulativa da União para os projetos declarados como concluídos nas contas anuais relativamente ao exercício financeiro N + 2.
+
+###### Artigo 5.º — Controlos operacionais in loco
+
+1. Aquando da realização de controlos operacionais *in loco*, a autoridade responsável deve verificar se o projeto em causa está a ser executado em conformidade com a convenção de subvenção. Em particular, deve verificar se os indicadores comunicados pelos beneficiários são fiáveis e se o projeto está a decorrer sem atrasos indevidos.
+
+2. Os controlos operacionais *in loco* efetuados no exercício financeiro N devem incidir, no mínimo, sobre 20% do número de projetos em curso durante esse exercício, em conformidade com as declarações nas contas anuais correspondentes referidas no artigo 39.º do Regulamento (UE) n.º 514/2014. Sempre que este mínimo não puder ser alcançado durante exercício financeiro N devido à pandemia de COVID-19, os controlos que não tiverem sido efetuados no exercício financeiro N serão realizados numa fase posterior durante o período de programação.
+
+###### Artigo 6.º — Metodologia de amostragem para os controlos in loco
+
+A autoridade responsável deve efetuar controlos *in loco* a partir de uma amostra dos projetos, representativa dos vários tipos e dimensões de projetos, operações, beneficiários e modos de execução. A amostra deve ter em conta todos os fatores de risco, bem como a relação custo/eficácia dos controlos.
+
+###### Artigo 7.º — Relatórios de controlo
+
+1. A autoridade responsável redige um relatório sobre cada controlo administrativo *in loco*, prestando as seguintes informações:
+
+a) Identificação completa do projeto e da respetiva convenção de subvenção;
+
+b) Nome e assinatura do responsável pelo controlo;
+
+c) Nome do beneficiário;
+
+d) Tipo de controlo (administrativo, financeiro ou operacional, ou uma combinação);
+
+e) Se necessário, âmbito do controlo;
+
+f) Despesas que se inscrevem no âmbito do controlo e despesas efetivamente verificadas (amostra);
+
+g) Montante das despesas consideradas não elegíveis; bem como
+
+h) Uma descrição das principais constatações, deficiências, erros e irregularidades, controlos adicionais e análises realizadas, recomendações e medidas corretivas propostas, bem como a reação do beneficiário.
+
+2. Os relatórios de controlo podem ser apresentados sob a forma de uma lista de controlo.
+
+###### Artigo 8.º — Condições específicas
+
+Nos casos em que a autoridade responsável atue como organismo de execução, tal como referido no artigo 8.º do Regulamento (UE) n.º 1042/2014, os controlos administrativos e *in loco* a que se referem os artigos 1.º e 2.º devem ser efetuados por uma entidade ou pessoa funcionalmente independente das entidades ou pessoas responsáveis pela gestão dos projetos.
+
+###### Artigo 9.º — Conservação dos documentos comprovativos
+
+1. A autoridade responsável deve garantir que todos os registos, documentos e metadados relativos às despesas declaradas e às receitas afetadas, assim como às auditorias e controlos efetuados, são mantidos à disposição da Comissão (incluindo o OLAF) e do Tribunal de Contas Europeu durante, pelo menos, quatro anos após o exercício financeiro em que o pagamento final foi declarado.
+
+Para o efeito, a autoridade responsável deve estabelecer regras em matéria de conservação de registos, documentos e metadados por parte dos beneficiários.
+
+2. Em caso de irregularidades detetadas pela autoridade responsável, os documentos comprovativos a que se refere o n.º 1 devem ser mantidos à disposição da Comissão durante, pelo menos, os três anos seguintes ao ano em que os montantes em causa foram integralmente recuperados junto dos beneficiários e creditados ao programa nacional.
+
+3. Quando se inicia um procedimento de apuramento da conformidade, nos termos do artigo 47.º do Regulamento (UE) n.º 514/2014, os documentos comprovativos referidos no n.º 1 devem ser mantidos à disposição da Comissão durante, pelo menos, um ano a contar do ano em que o procedimento for concluído.
+
+4. Se uma decisão de conformidade for objeto de uma ação judicial perante o Tribunal de Justiça da União Europeia, os documentos comprovativos pertinentes devem ser mantidos à disposição da Comissão durante, pelo menos, um ano após o ano da conclusão do processo judicial.
+
+5. Os documentos comprovativos referidos nos n.^os^ 1, 2, 3 e 4 devem ser mantidos à disposição da Comissão em suporte de papel ou em formato eletrónico.
+
+Os documentos só podem ser conservados exclusivamente em formato digital se a legislação nacional do Estado-Membro em causa permitir a utilização, nos processos perante os tribunais nacionais, de documentos digitais como prova das transações correspondentes.
+
+6. Os Estados-Membros podem prever um período mais longo para a conservação dos referidos documentos.
+
+###### Artigo 10.º
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável nos Estados-Membros, em conformidade com os Tratados.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/7c2abfa6-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento Delegado (UE) n.º 1042/2014 da Comissão, de 25 de julho de 2014, que completa o Regulamento (UE) n.º 514/2014 no que se refere à designação e às competências de gestão e de controlo das autoridades responsáveis, e no que se refere ao estatuto e obrigações das autoridades de auditoria (JO L 289 de 3.10.2014, p. 3).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/7c2abfa6-d0f6-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.º 1605/2002 (JO L 298 de 26.10.2012, p. 1).

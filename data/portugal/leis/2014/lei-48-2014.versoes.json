@@ -1,0 +1,108 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:55021032:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2014-55032393",
+ "dre_path": "/dr/detalhe/lei/48-2014-55021032",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-07-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "154917337",
+    "55032326",
+    "55032327",
+    "55032328",
+    "55032329"
+   ]
+  },
+  {
+   "date": "2021-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:154945779:por",
+     "title": "Lei n.º 4/2021",
+     "published": "2021-01-22",
+     "dre_path": "/dr/detalhe/lei/4-2021-154945779"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "154917337",
+    "154917338",
+    "55032327",
+    "55032328",
+    "154917339"
+   ]
+  }
+ ],
+ "fragments": {
+  "154917337": {
+   "fragment_id": "55032394",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-01-23",
+   "changed_by": [],
+   "markdown": "Lei n.º 48/2014\n\nde 28 de julho\n\nComissões de inquérito das Assembleias Legislativas das Regiões Autónomas dos Açores e da Madeira\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "55032326": {
+   "fragment_id": "55032395",
+   "type": 11,
+   "heading": "Artigo 1.º — Coadjuvação das comissões de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Coadjuvação das comissões de inquérito\n\nAs comissões de inquérito da Assembleia Legislativa da Região Autónoma dos Açores têm direito à coadjuvação das autoridades judiciárias, dos órgãos da polícia criminal e das autoridades administrativas, nos mesmos termos que os tribunais."
+  },
+  "55032327": {
+   "fragment_id": "55032396",
+   "type": 11,
+   "heading": "Artigo 2.º — Do depoimento e das justificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Do depoimento e das justificações\n\n1 - Ao depoimento perante a comissão de inquérito aplicam-se, com as necessárias adaptações, as normas do Código de Processo Penal relativas à prova testemunhal.\n\n2 - A recusa de apresentação de documentos, a falta de comparência, a recusa de depoimento perante a comissão de inquérito ou a falta de prestação de informação ou colaboração considerada relevante, só podem ser justificadas nos termos do Código de Processo Penal."
+  },
+  "55032328": {
+   "fragment_id": "55032397",
+   "type": 11,
+   "heading": "Artigo 3.º — Desobediência qualificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Desobediência qualificada\n\n1 - Fora dos casos previstos no n.º 2 do artigo anterior, a não apresentação de documentos, a falta de comparência, a recusa de depoimento perante uma comissão parlamentar de inquérito ou a falta de prestação de informação ou colaboração considerada relevante, constituem crime de desobediência qualificada, punível nos termos previstos no Código Penal.\n\n2 - Verificado qualquer dos factos previstos no número anterior, o presidente da comissão de inquérito, precedendo audição desta, comunica-os ao Presidente da Assembleia Legislativa, com os elementos indispensáveis à instrução do processo, para efeitos de participação à Procuradoria-Geral da República."
+  },
+  "55032329": {
+   "fragment_id": "55032398",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos na data de entrada em vigor do decreto legislativo regional que estabelecer o regime jurídico das comissões de inquérito da Assembleia Legislativa da Região Autónoma dos Açores, se esta for posterior.\n\nAprovada em 27 de junho de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 17 de julho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 18 de julho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "154917338": {
+   "fragment_id": "55032395",
+   "type": 11,
+   "heading": "Artigo 1.º — Coadjuvação das comissões de inquérito",
+   "in_force_from": "2021-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/2021 - Diário da República n.º 15/2021, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/lei/4-2021-154945779), em vigor a partir de 2021-01-23"
+   ],
+   "markdown": "###### Artigo 1.º — Coadjuvação das comissões de inquérito\n\nAs comissões de inquérito das Assembleias Legislativas das Regiões Autónomas têm direito à coadjuvação das autoridades judiciárias, dos órgãos de polícia criminal e das autoridades administrativas, nos mesmos termos que os tribunais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/2021 - Diário da República n.º 15/2021, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/lei/4-2021-154945779), em vigor a partir de 2021-01-23"
+  },
+  "154917339": {
+   "fragment_id": "55032398",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2021-01-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/2021 - Diário da República n.º 15/2021, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/lei/4-2021-154945779), em vigor a partir de 2021-01-23"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos na data de entrada em vigor do decreto legislativo regional que estabelecer o regime jurídico das comissões de inquérito da respetiva Assembleia Legislativa, se este for posterior.\n\nAprovada em 27 de junho de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 17 de julho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 18 de julho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 4/2021 - Diário da República n.º 15/2021, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/lei/4-2021-154945779), em vigor a partir de 2021-01-23"
+  }
+ }
+}

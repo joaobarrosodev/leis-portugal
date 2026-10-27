@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:2032219:por
+title: Portaria n.º 1294/2001 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 1294/2001 (2.ª série)
+official_date: null
+publication_date: '2001-07-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/2001, Série II de 2001-07-28
+  number: '174'
+  series: II
+  supplement: null
+  pages: 12763 - 12763
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/07/174000000/1276312763.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2032219'
+  dre_path: /dr/detalhe/portaria/1294-2001-2032219
+  internal: pt:dre:2032219:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1294-2001-2032219
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1294-2001-2032219
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:16:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d37418da56c823c9ec0a223252c0a0987fa420b00158b794da5996ba646cdd09
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:16:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Normalização Contabilística
+- Conselho Geral
+- Contabilidade
+- Normalização
+relationships:
+- type: cites
+  target: pt:dre:569883:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:16:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1294/2001 (2.ª série)
+
+Portaria n.º 1294/2001 (2.ª série). - As atribuições da Comissão de Normalização Contabilística, bem como a respectiva estrutura orgânica, encontram-se fixadas no [Decreto-Lei n.º 367/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1999-569883), de 18 de Setembro.
+
+No artigo 6.º do citado diploma define-se a composição do conselho geral, prevendo-se ainda no mesmo preceito, que o Ministro das Finanças pode, ouvida a Comissão de Normalização Contabilística, alterar essa composição.
+
+Assim, ao abrigo do n.º 3 do artigo 6.º do [Decreto-Lei n.º 367/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1999-569883), de 18 de Setembro, ouvida a Comissão de Normalização Contabilística, manda o Governo, pelo Ministro das Finanças, o seguinte:
+
+O conselho geral da Comissão de Normalização Contabilística passa a incluir nos representantes das instituições de ensino e científicas o ISCAC - Instituto Superior de Contabilidade e Administração de Coimbra, com um membro.
+
+10 de Julho de 2001. - O Ministro das Finanças, Guilherme Waldemar Pereira d'Oliveira Martins.

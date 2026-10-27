@@ -1,0 +1,870 @@
+---
+schema_version: '1.0'
+id: pt:dre:343448:por
+title: Decreto Legislativo Regional n.º 22/2010/M
+short_title: null
+summary: Define o regime jurídico aplicável à constituição, organização, funcionamento e extinção dos corpos de bombeiros
+  na Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 22/2010/M
+official_date: null
+publication_date: '2010-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/2010, Série I de 2010-08-20
+  number: '162'
+  series: I
+  supplement: null
+  pages: 3646 - 3654
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16200/0364603654.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2016-03-12'
+version_history:
+  file: decreto-legislativo-regional-22-2010-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-03-12'
+    amending: pt:dre:73841235:por
+    amending_title: Decreto Legislativo Regional n.º 14/2016/M
+    changes:
+    - Adita Artigo 21.º-A
+    - Adita Artigo 23.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 26.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/22/2010/m/cons/20160311/pt/html
+  oj: null
+  dre: '343448'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/22-2010-343448
+  internal: pt:dre:343448:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2010-343448
+  metadata_url: https://data.dre.pt/eli/declegreg/22/2010/m/cons/20160311/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-74717268
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-74717268
+  retrieved_at: '2026-10-22T12:06:28Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 119b7bcbbbe901ed4f9600a106b83aaea754329fd58e30f67057c6154a367600
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:06:28Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-22-2010-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Definição de Competências
+- Carreira Profissional
+- Federação de Bombeiros
+- Veículo
+- Bombeiro
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Regime Jurídico
+- Serviço Regional de Protecção Civil
+- Siops
+relationships:
+- type: amended_by
+  target: pt:dre:73841235:por
+  label: Adita Artigo 21.º-A; Adita Artigo 23.º-A; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo
+    9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo
+    16.º; Altera Artigo 18.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo
+    25.º; Altera Artigo 27.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235
+  date: '2016-03-11'
+- type: cites
+  target: pt:dre:247042:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2008/03/14/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:491927:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2009/06/30/m/dre
+- type: cites
+  target: pt:dre:491931:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/16/2009/06/30/m/dre
+- type: cites
+  target: pt:dre:493012:por
+  label: null
+  source: http://data.dre.pt/eli/lei/48/2009/08/04/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/247/2007/06/27/
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/241/2007/06/21/p/dre
+article_structure:
+  article_count: 36
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:06:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 22/2010/M
+
+Decreto Legislativo Regional n.º 22/2010/M
+
+Define o regime jurídico aplicável à constituição, organização, funcionamento e extinção dos corpos de bombeiros na Região Autónoma da Madeira
+
+O Decreto Legislativo Regional n.º 16/2009/M, de 30 de Junho, aprovou o regime jurídico do Sistema de Protecção Civil da Região Autónoma da Madeira em função das particularidades específicas e das necessidades de protecção civil da região.
+
+Na sequência do estabelecido naquele regime, pretende-se agora que os corpos de bombeiros da região disponham igualmente de um regime jurídico próprio, adequado às suas especificidades e necessidades, atento à evolução e crescente importância do papel que desempenham no âmbito do novo quadro normativo porque se rege a protecção civil.
+
+Com efeito, o dispositivo de socorro e emergência da região, essencialmente constituído pelas corporações de bombeiros, é a base da resposta às situações de acidente grave e catástrofe que ocorram, tanto a nível local como, de forma articulada e sob um comando único, a nível regional, tendo subjacente o quadro de competências da autoridade municipal da protecção civil, atribuída ao presidente de câmara ou vereador com delegação de poderes.
+
+Importa pois que, do ponto de vista operacional, se concretizem as necessárias mudanças na estruturação dos corpos de bombeiros, tendo como objectivo a sua articulação em intervenções próprias ou operações conjuntas, no âmbito do Sistema Integrado de Operações de Protecção e Socorro da Região Autónoma da Madeira, quer entre si, quer com outros agentes de protecção civil e com outras entidades cujo objecto social estatutário contempla funções de protecção civil, nomeadamente a delegação na Madeira da Cruz Vermelha Portuguesa e o corpo operacional do SANAS, e bem assim as entidades que por lei devem colaborar com os agentes de protecção civil.
+
+Por outro lado, são definidas as bases da actividade operacional e consagrada a integração dos bombeiros da região na plataforma do RNBP - recenseamento nacional dos bombeiros portugueses.
+
+Os bombeiros, componente fundamental do dispositivo de socorro da região, passam a ser inseridos em duas carreiras: a de oficial-bombeiro, que vem suprimir uma lacuna no âmbito da incorporação de técnicos de nível superior, e a carreira de bombeiro.
+
+No que concerne à estrutura dos quadros de comando, são introduzidas alterações significativas, tendo em vista a sua adequação à dimensão e realidade de cada uma das corporações e das respectivas áreas de actuação própria.
+
+Pretende-se também reforçar a importância do voluntariado nos corpos de bombeiros, numa actividade vocacionada para o auxílio à população, que se assume por excelência, como a expressão do exercício livre de uma cidadania activa e solidária. É expectável que as entidades detentoras de corpos de bombeiros sejam convergentes com a actuação do voluntário, o qual, naturalmente, deve conformar a sua actuação com a cultura e objectivos da entidade.
+
+Foram ouvidas a Associação de Municípios da Região Autónoma da Madeira, a Delegação Regional da Associação Nacional de Freguesias, a Federação de Bombeiros da Região Autónoma da Madeira.
+
+Foram, ainda, cumpridos os procedimentos previstos na Lei n.º 23/98, de 16 de Maio.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º, da alínea vv) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto legislativo regional define o regime jurídico aplicável à constituição, organização, funcionamento e extinção dos corpos de bombeiros na Região Autónoma da Madeira.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do disposto no presente decreto legislativo regional, entende-se por:
+
+a) «Área de actuação» a área geográfica predefinida, na qual um corpo de bombeiros opera regularmente e ou é responsável pela primeira intervenção;
+
+b) «Bombeiro» o indivíduo que, integrado de forma profissional ou voluntária num corpo de bombeiros, tem por actividade cumprir as missões do corpo de bombeiros, nomeadamente a protecção de vidas humanas e bens em perigo, mediante a prevenção e extinção de incêndios, o socorro de feridos, doentes ou náufragos e a prestação de outros serviços previstos nos regulamentos internos e demais legislação aplicável;
+
+c) «Corpo de bombeiros» a unidade operacional, oficialmente homologada e tecnicamente organizada, preparada e equipada para o cabal exercício das missões atribuídas pelo presente decreto legislativo regional e demais legislação aplicável;
+
+d) «Quartel de bombeiros» é o edifício ou conjunto de edifícios destinado à instalação dos serviços operacionais da unidade operacional definida na alínea anterior, incluindo área destinada ao aparcamento, oficinas, arrumos, camaratas, vestiários e balneários, área de parada operacional bem como área de comando e gestão de emergência, que deve observar toda a regulamentação aplicável;
+
+e) «Entidade detentora de corpo de bombeiros» a entidade pública ou privada que cria, detém e mantém em actividade um corpo de bombeiros com observância do disposto no presente decreto legislativo regional e demais legislação aplicável;
+
+f) «Unidade de comando» o princípio de organização dos corpos de bombeiros que determina que todos os seus elementos actuam sob um comando hierarquizado único.
+
+###### Artigo 3.º — Missão dos corpos de bombeiros
+
+1 - Constitui missão dos corpos de bombeiros:
+
+a) A prevenção e o combate a incêndios;
+
+b) O socorro às populações, em caso de incêndios, inundações, desabamentos e, de um modo geral, em todos os acidentes;
+
+c) O socorro a náufragos e buscas subaquáticas, em articulação com a autoridade marítima e outras organizações vocacionadas para o socorro no mar, e sempre que para o efeito sejam accionados pelas entidades coordenadoras do socorro;
+
+d) O socorro e transporte de acidentados e doentes urgentes, incluindo a urgência pré-hospitalar, no âmbito do sistema integrado de emergência médica;
+
+e) A participação em acções de fiscalização no âmbito da actividade de segurança contra incêndios em edifícios, na respectiva área geográfica de intervenção, desde que devidamente credenciados pelo SRPC, IP-RAM, nos termos definidos pela legislação aplicável;
+
+f) A participação em outras actividades de protecção civil, no âmbito do exercício das funções específicas que lhes forem cometidas;
+
+g) O exercício de actividades de formação e sensibilização, com especial incidência para a prevenção do risco de incêndio e acidentes junto das populações;
+
+h) A participação em outras acções e o exercício de outras actividades, para as quais estejam tecnicamente preparados e se enquadrem nos seus fins específicos e nos fins das respectivas entidades detentoras;
+
+i) A prestação de outros serviços previstos nos regulamentos internos e demais legislação aplicável.
+
+2 - O exercício da actividade definida nas alíneas a), b) e c) do número anterior é exclusivo dos corpos de bombeiros, demais agentes de protecção civil e de entidades cujos estatutos estabeleçam funções de protecção civil, nomeadamente os referidos nos n.os 2 e 3 do artigo 17.º do Decreto Legislativo Regional n.º 16/2009/M, de 30 de Junho.
+
+### Capítulo II — Constituição, extinção e organização
+
+#### Secção I — Constituição e extinção
+
+###### Artigo 4.º — Constituição e extinção de corpos de bombeiros
+
+1 - A constituição de corpos de bombeiros pode ser promovida pelas seguintes entidades:
+
+a) Municípios;
+
+b) Associações humanitárias de bombeiros;
+
+c) Outras pessoas colectivas privadas que pretendam criar corpos privativos de bombeiros.
+
+2 - O processo de extinção de corpos de bombeiros deve ser promovido pelas entidades suas detentoras ou pelo Serviço Regional de Protecção Civil (SRPC, IP-RAM), ouvida a entidade detentora.
+
+3 - A constituição e extinção dos corpos de bombeiros devem resultar de uma ponderação técnica dos riscos, dos tempos de actuação na área a proteger e das condições humanas, técnicas e operacionais disponíveis nos corpos de bombeiros existentes e sua articulação na correspondente área municipal.
+
+4 - A criação de corpos de bombeiros depende de autorização do SRPC, IP-RAM.
+
+5 - A extinção de um corpo de bombeiros pelo SRPC, IP-RAM tem em conta os fatores previstos no n.º 3 e pode ter lugar quando esse corpo de bombeiros, de forma continuada e prolongada no tempo, tenha deixado de assegurar o pleno cumprimento das suas missões, careça dos recursos materiais e dos recursos humanos aptos, qualificados e habilitados, necessários ao cumprimento dessas missões ou desenvolva a sua atividade de forma que viole gravemente as normas que lhe são aplicáveis.
+
+6 - A criação e extinção de corpos de bombeiros da iniciativa de associações humanitárias de bombeiros são precedidas de parecer das seguintes entidades:
+
+a) Câmara municipal da área de actuação do corpo de bombeiros;
+
+b) Juntas de freguesia da área a proteger;
+
+c) Federação dos Bombeiros da Região Autónoma da Madeira.
+
+7 - O parecer do órgão referido na alínea a) do número anterior relativo à criação dos corpos de bombeiros, quando negativo, é vinculativo.
+
+8 - As condições de criação de corpos privativos de bombeiros são definidas por diploma próprio.
+
+9 - O SRPC, IP-RAM pode suspender total ou parcialmente a atividade de um corpo de bombeiros detido por uma associação humanitária de bombeiros, quando, por razões que lhes sejam imputáveis, se constate manifesta carência de recursos materiais ou de recursos humanos qualificados necessários para o cumprimento das suas missões, bem como em caso de grave e reiterado incumprimento dessas missões ou das normas aplicáveis à atividade dos corpos de bombeiros.
+
+10 - Os bombeiros pertencentes a um corpo de bombeiros detido por uma associação humanitária de bombeiros, que seja extinto, podem ser afetos a outros corpos de bombeiros, nos termos a definir por deliberação do Conselho Diretivo do SRPC, IP-RAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+#### Secção II — Organização dos corpos de bombeiros
+
+###### Artigo 5.º — Espécies de corpos de bombeiros
+
+1 - Nos municípios podem existir os seguintes corpos de bombeiros:
+
+a) Corpos de bombeiros profissionais;
+
+b) Corpos de bombeiros mistos;
+
+c) Corpos de bombeiros voluntários;
+
+d) Corpos privativos de bombeiros.
+
+2 - Os corpos de bombeiros profissionais têm as seguintes características:
+
+a) São criados, detidos e mantidos na dependência directa de uma câmara municipal;
+
+b) São exclusivamente integrados por elementos profissionais.;
+
+c) Poderão deter uma estrutura que compreenda a existência de companhias e secções, ou pelo menos uma destas unidades estruturais;
+
+d) Por opção dos municípios a que pertencem e verificado o cumprimento dos requisitos legais aplicáveis, poderão ser designados bombeiros sapadores.
+
+3 - Os corpos de bombeiros mistos têm as seguintes características:
+
+a) São criados, detidos e mantidos na dependência de uma câmara municipal ou por uma associação humanitária de bombeiros;
+
+b) São constituídos por bombeiros profissionais e por bombeiros voluntários, sujeitos aos respectivos regimes jurídicos;
+
+c) Estão organizados de acordo com o modelo próprio, definido pela respectiva câmara municipal ou pela associação humanitária de bombeiros, nos termos de regulamento aprovado pelo SRPC, IP-RAM.
+
+4 - Os corpos de bombeiros voluntários têm as características seguintes:
+
+a) São criados, detidos e mantidos por uma associação humanitária de bombeiros;
+
+b) São constituídos por bombeiros em regime de voluntariado;
+
+c) Podem dispor de uma unidade profissional mínima a definir por regulamento do SRPC, IP-RAM, ouvidos o conselho consultivo, a Federação de Bombeiros da RAM e a câmara municipal do respectivo município;
+
+d) Estão organizados de acordo com o modelo próprio, definido pela respectiva associação humanitária de bombeiros, nos termos de regulamento aprovado pelo SRPC, IP-RAM.
+
+5 - Os corpos de bombeiros profissionais, mistos e voluntários, integram o dispositivo de resposta operacional do Sistema Regional de Proteção Civil e, através das entidades que os detêm e mantêm, estão filiados na Federação dos Bombeiros da Região Autónoma da Madeira.
+
+6 - Os corpos privativos de bombeiros têm as características seguintes:
+
+a) Pertencem a uma pessoa colectiva privada que, por razões da sua actividade ou do seu património, tem necessidade de criar e manter um corpo profissional de bombeiros para autoprotecção;
+
+b) São integrados por bombeiros com a formação adequada;
+
+c) Organizam-se segundo um modelo adequado às suas missões e objectivos, nos termos de regulamento aprovado pelo SRPC, IP-RAM;
+
+d) Têm uma área de actuação definida dentro dos limites da propriedade da entidade ou entidades à qual pertencem, podendo actuar fora dessa área por requisição do presidente de câmara do respectivo município ou do SRPC, IP-RAM, quando fora do município, e neste caso esta entidade suporta os encargos inerentes;
+
+e) A sua criação e manutenção constituem encargo das entidades a que pertencem, não sendo abrangidas por apoios do SRPC, IP-RAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 6.º — Áreas de actuação
+
+1 - Cada corpo de bombeiros tem a sua área de actuação definida pelo SRPC, IP-RAM, ouvido o conselho consultivo, de acordo com os seguintes princípios:
+
+a) A área de actuação de cada corpo de bombeiros é correspondente à do município onde se insere, se for o único existente;
+
+b) Se existirem vários corpos de bombeiros no mesmo município, as diferentes áreas de atuação correspondem a uma parcela que coincide, em regra, com uma ou mais freguesias contíguas, sem prejuízo da articulação para uma atividade conjunta e partilhada, de acordo com disposto no n.º 3 deste artigo e do definido na alínea a) do n.º 1 do artigo 7.º do presente diploma;
+
+c) Existindo municípios que não disponham de corpo de bombeiros, a respetiva área acrescerá à área de atuação do corpo de bombeiros do concelho contíguo que, para esse efeito, vier a ser designado pelo SRPC, IP-RAM, nos termos do definido na alínea f) do n.º 5 do artigo 3.º do anexo ao Decreto Legislativo Regional n.º 12/2013/M, de 5 de março, que procede à segunda alteração e republicação do Decreto Legislativo Regional n.º 17/2009/M, de 30 de junho, e na alínea a) do n.º 1 do artigo 7.º do presente diploma.
+
+2 - Havendo no mesmo município um corpo de bombeiros profissional ou misto e um ou mais corpos de bombeiros voluntários, a responsabilidade de atuação prioritária e comando cabe ao corpo de bombeiros profissional e, quando este não exista, ao corpo de bombeiros misto de base municipal, sem prejuízo de eventual primeira intervenção de um corpo de bombeiros misto de base associativa ou de algum dos outros, em benefício da rapidez e prontidão do socorro ou de procedimentos previstos nos planos de emergência municipal ou regional.
+
+3 - Não estando presentes elementos da estrutura de comando dos corpos profissionais ou mistos de base municipal, a função de comando deverá ser exercida por elemento do quadro de comando do corpo de base associativa, se presente, ainda que transitoriamente, nos termos do SIOPS-RAM.
+
+4 - Poderão, por acordo das entidades detentoras de corpos de bombeiros e com parecer dos comandantes das corporações existentes no município e sob a égide do respectivo Serviço Municipal de Protecção Civil, ser celebrados protocolos de actuação visando a definição de áreas de actuação prioritária, com o objectivo de favorecer a rapidez, prontidão e eficácia do socorro.
+
+5 - Os protocolos celebrados ao abrigo do disposto no número anterior serão sujeitos a homologação por parte do SRPC, IP-RAM e constarão da directiva operacional que vier a definir as áreas de actuação dos corpos de bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 7.º — Tutela
+
+1 - Ressalvando a autonomia das entidades detentoras de corpos de bombeiros e sem prejuízo do disposto no presente decreto legislativo regional, o SRPC, IP-RAM exerce a tutela sobre os corpos de bombeiros nos seguintes termos:
+
+a) Definição das áreas de actuação;
+
+b) Coordenação, inspecção técnica e comando operacional integrado no âmbito e de acordo com o sistema integrado de operações de protecção e socorro da Região Autónoma da Madeira (SIOPS-RAM);
+
+c) Homologação da adequação técnico-operacional de veículos e suas características;
+
+d) Definição das características técnicas dos equipamentos;
+
+e) Definição dos programas de formação e de instrução.
+
+2 - A tutela do SRPC, IP-RAM sobre os corpos de bombeiros criados e detidos pelas associações humanitárias de bombeiros é exercida, ainda, nas seguintes áreas:
+
+a) Aprovação dos regulamentos internos;
+
+b) Homologação dos quadros de pessoal.
+
+3 - As câmaras municipais dão conhecimento ao SRPC, IP-RAM dos regulamentos internos e dos quadros de pessoal dos corpos de bombeiros profissionais e mistos.
+
+###### Artigo 8.º — Veículos e equipamentos
+
+Os tipos, características, classificações, normalização técnica e dotações mínimas de veículos e demais equipamentos operacionais que podem ser detidos pelos corpos de bombeiros, dos diversos tipos e espécies, são definidos por regulamento do SRPC, IP-RAM e homologados por despacho do secretário regional que tutela a área da protecção civil.
+
+### Capítulo III — Funcionamento
+
+#### Secção I — Quadros de pessoal
+
+###### Artigo 9.º — Quadros de pessoal
+
+1 - Os quadros dos corpos de bombeiros profissionais e mistos detidos pelos municípios, bem como dos corpos privativos de bombeiros, estruturam-se de acordo com o regime a definir em diploma próprio.
+
+2 - Os bombeiros que compõem os corpos de bombeiros voluntários ou mistos detidos por associações humanitárias de bombeiros, integram os seguintes quadros de pessoal:
+
+a) Quadro de comando;
+
+b) Quadro activo;
+
+c) Revogada;
+
+d) Quadro de reserva;
+
+e) Quadro de honra.
+
+3 - O quadro de comando é constituído pelos elementos do corpo de bombeiros a quem é conferida a autoridade para organizar, comandar e coordenar as actividades exercidas pelo respectivo corpo, incluindo, a nível operacional, a definição estratégica dos objectivos e das missões a desempenhar.
+
+4 - O quadro ativo é constituído pelos elementos pertencentes às respetivas carreiras e aptos para a execução das missões a que se refere o artigo 3.º, normalmente integrados em equipas, em cumprimento das ordens que lhes são determinadas pela hierarquia, bem como das normas e procedimentos estabelecidos.
+
+5 - (Revogado).
+
+6 - O quadro de reserva é constituído pelos elementos que atinjam o limite de idade para permanecer na sua categoria ou que, não podendo permanecer no quadro ativo por motivos profissionais ou pessoais, o requeiram e obtenham aprovação do comandante do corpo de bombeiros, e ainda pelos elementos que, nos últimos 12 meses, não tenham cumprido o serviço operacional previsto no n.º 6 do artigo 18.º
+
+7 - O quadro de honra é constituído pelos elementos com 40 ou mais anos de idade que, com zelo, dedicação, disponibilidade e abnegação, exerceram funções ou prestaram serviço efetivo durante 15 ou mais anos, sem qualquer punição disciplinar nos últimos três anos, nos quadros de comando ou ativo de um corpo de bombeiros, e ainda aqueles que, independentemente da idade e do tempo de serviço prestado, adquiriram incapacidade por doença ou acidente ocorrido em serviço ou tenham prestado serviços de caráter relevante à causa dos bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 10.º — Dotação de pessoal nos quadros
+
+1 - A dotação em recursos humanos dos quadros de comando e activo dos corpos de bombeiros detidos e mantidos na dependência de um município é fixada em diploma próprio.
+
+2 - A estrutura do quadro de comando dos corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias de bombeiros têm a dotação máxima de cinco elementos.
+
+3 - A dotação em recursos humanos dos corpos de bombeiros detidos e mantidos na dependência de uma associação humanitária de bombeiros tem a seguinte tipologia:
+
+a) Tipo 4 - até 60 elementos;
+
+b) Tipo 3 - até 90 elementos;
+
+c) Tipo 2 - até 120 elementos;
+
+d) Tipo 1 - superior a 120 elementos.
+
+4 - A dotação de oficiais bombeiros no quadro activo não pode ser superior a 20 % da dotação efectiva dos elementos de carreira de bombeiro.
+
+5 - O número de elementos dos corpos de bombeiros não pertencentes aos quadros de comando e activo não releva para efeitos de tipificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 11.º — Situação no quadro
+
+1 - Os bombeiros voluntários do quadro activo e de comando dos corpos de bombeiros voluntários e mistos podem encontrar-se nas situações de actividade ou inactividade.
+
+2 - Encontram-se na situação de actividade no quadro os elementos que estão no desempenho activo das missões confiadas ao corpo de bombeiros, de acordo com as escalas de serviço e ainda:
+
+a) Os que estão no gozo autorizado de férias ou de licença por doença, por acidente em serviço, maternidade ou paternidade, nos termos da lei geral;
+
+b) Os bombeiros do sexo feminino que se encontram indisponíveis para o desempenho assíduo e activo de funções por motivos de gravidez, parto e pós-parto, num período máximo de um ano;
+
+c) Os que estão ausentes por tempo não superior a um ano em missão considerada, nos termos da lei, de relevante serviço público.
+
+3 - Consideram-se na situação de inactividade:
+
+a) Os que se encontram fora do exercício de funções por tempo não superior a um ano e por motivo diverso dos referidos no número anterior;
+
+b) Aqueles a quem foi aplicada a pena de suspensão.
+
+4 - Aos elementos que integram o quadro de comando não é aplicável o disposto na alínea a) do número anterior.
+
+5 - O tempo decorrido na situação de inactividade não é considerado para efeitos de contagem de tempo de serviço e suspende os direitos previstos no regime jurídico dos bombeiros portugueses.
+
+6 - O comandante do corpo de bombeiros remete anualmente ao SRPC, IP-RAM e à respectiva câmara municipal, em modelo próprio e por via informática, a relação do pessoal que se encontra na situação de actividade no quadro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 12.º — Quadro de comando nos corpos de bombeiros voluntários ou mistos
+
+1 - A estrutura do quadro de comando nos corpos de bombeiros mistos e voluntários detidos pelas associações humanitárias de bombeiros é composta por:
+
+a) Comandante;
+
+b) 2.º comandante;
+
+c) Adjuntos de comando.
+
+2 - O comando do corpo de bombeiros tem por atribuições organizar, comandar e coordenar as atividades exercidas pelo respetivo corpo, incluindo, a nível operacional, a definição estratégica dos objetivos e das missões a desempenhar no âmbito da competente área de atuação.
+
+3 - Ao comandante compete o comando, direção, administração e organização da atividade do corpo de bombeiros, sendo o primeiro responsável pelo desempenho do corpo de bombeiros e dos seus elementos, no cumprimento das missões que lhes são cometidas, sem prejuízo dos poderes da entidade detentora do corpo de bombeiros e do SRPC, IP-RAM.
+
+4 - Ao 2.º comandante compete coadjuvar o comandante, substituí-lo nas suas ausências e impedimentos.
+
+5 - Aos adjuntos de comando compete apoiar o comandante e o 2.º comandante, bem como superintender a atividade da estrutura operacional, nas áreas atribuídas pelo comandante.
+
+6 - A estrutura de comando dos corpos de bombeiros é composta:
+
+a) Nos corpos de bombeiros voluntários ou mistos de tipo 4 e 3, por um comandante, um 2.º comandante e um adjunto;
+
+b) Nos corpos de bombeiros voluntários ou mistos de tipo 2, por um comandante, um 2.º comandante e dois adjuntos;
+
+c) Nos corpos de bombeiros voluntários ou mistos de tipo 1, por um comandante, um 2.º comandante e três adjuntos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 13.º — Quadro ativo nos corpos de bombeiros voluntários ou mistos
+
+1 - O quadro ativo compreende as seguintes carreiras:
+
+a) Carreira de oficial bombeiro;
+
+b) Carreira de bombeiro;
+
+c) Carreira de bombeiro especialista.
+
+2 - À carreira de oficial bombeiro deverão corresponder, preferencialmente, funções técnicas de execução e chefia intermédia ou superior.
+
+3 - À carreira de bombeiro deverão corresponder, preferencialmente, funções de execução e chefia intermédia.
+
+4 - À carreira de bombeiro especialista correspondem funções especializadas de apoio e socorro.
+
+5 - O desempenho da atividade de bombeiro nas diferentes carreiras do quadro ativo, quer em fase de admissão quer no decurso das várias fases de progressão, depende da avaliação física e psíquica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 14.º — Quadro de especialistas e de auxiliares
+
+1 - Integram o quadro de especialistas e de auxiliares:
+
+a) Os elementos que, após um período de formação básica pluridisciplinar, exerçam funções especializadas de apoio ou assessoria com interesse para o corpo de bombeiros;
+
+b) Os músicos, maestros e regentes que integrem banda ou fanfarra da corporação;
+
+c) Os infantes, cadetes e estagiários, enquanto não reunirem condições para integrar o quadro activo, de acordo com as vagas existentes no corpo de bombeiros e tendo em conta a respectiva tipificação.
+
+2 - Os elementos referidos nas alíneas a) e b) do número anterior com idade mínima de 18 anos podem aceder às categorias a equiparar às do quadro activo através de despacho do presidente do SRPC, IP-RAM, a requerimento dos interessados e mediante parecer favorável do comandante do corpo de bombeiros, sendo as equiparações feitas nos seguintes termos:
+
+a) Um elemento por especialidade e o maestro ou regente de banda equiparado a chefe;
+
+b) Restantes especialistas equiparados a subchefe e demais categorias inferiores;
+
+c) Os licenciados e bacharéis são equiparados a adjunto de comando;
+
+d) As equiparações às categorias do quadro activo não conferem aos equiparados quaisquer direitos ou regalias não vigentes no quadro a que efectivamente pertencem.
+
+3 - Os infantes, cadetes e estagiários deverão cumprir planos de formação específicos, sob coordenação do comandante, tendo em vista a sua adequada preparação e habilitação técnica.
+
+4 - Aos estagiários é permitido, sob orientação e direcção dos elementos do quadro de comando e de acordo com programas previamente estabelecidos, desempenhar funções e executar tarefas a que se refere o artigo 3.º
+
+5 - Os elementos deste quadro são incluídos em apólice especial de seguros de acidentes pessoais.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 15.º — Quadro de reserva nos corpos de bombeiros voluntários ou mistos
+
+1 - Integram o quadro de reserva:
+
+a) Os elementos dos corpos de bombeiros que atinjam o limite de idade para permanência na respectiva carreira e não reúnam os requisitos para ingressar no quadro de honra;
+
+b) Os que estejam impedidos de prestar serviço regular por período superior a um ano;
+
+c) Os que, por razões de saúde, revelem incapacidade ou dificuldade no exercício das suas funções;
+
+d) Os elementos do quadro ativo que não tenham cumprido, durante o ano anterior, o serviço operacional previsto no n.º 6 do artigo 18.º do presente diploma.
+
+2 - Os elementos do quadro de reserva podem solicitar o seu regresso ao quadro ativo, desde que exista vaga no respetivo quadro e para tal reúnam condições físicas e técnicas, nomeadamente quanto à instrução e formação consideradas necessárias para o desempenho do exercício da função.
+
+3 - No caso previsto na alínea d) do n.º 1 do presente artigo, os elementos só podem solicitar o seu regresso ao quadro ativo decorridos 90 dias a contar da data da sua transição para o quadro de reserva e verificados os pressupostos referidos no número anterior.
+
+4 - Compete ao comandante do corpo de bombeiros verificar se os elementos do quadro de reserva que requeiram o regresso ao quadro ativo reúnem ou não as condições necessárias referidas no n.º 2 do presente artigo.
+
+5 - O regresso ao quadro ativo não pode ser autorizado mais que cinco vezes a cada bombeiro, no decurso da sua carreira.
+
+6 - Nas situações previstas nas alíneas b) e d) do n.º 1, o limite de tempo de permanência no quadro de reserva é de 10 anos, findo o qual o bombeiro é excluído dos quadros, sem prejuízo de poder requerer a sua passagem para o quadro de honra.
+
+7 - Na situação prevista no número anterior, o bombeiro perde o vínculo ao corpo de bombeiros, salvo se transitar para o quadro de honra.
+
+8 - Os elementos do quadro de reserva devem ser dotados de fardamento e equipamento adequado e incluídos em apólice especial de seguros de acidentes pessoais, desde que lhes sejam atribuídas as funções ou missões referidas nas alíneas a), b) e c) do número seguinte.
+
+9 - O comandante do corpo de bombeiros pode acordar com os elementos que integram o quadro de reserva a execução das seguintes funções ou missões:
+
+a) Integrar a representação do corpo de bombeiros em cerimónias, festividades e outros atos similares;
+
+b) Colaborar, partilhando a experiência e os conhecimentos adquiridos, em ações de formação, no seio dos corpos de bombeiros;
+
+c) Colaborar nas diversas atividades desenvolvidas pelo corpo de bombeiros, compatíveis com as respetivas capacidades físicas e aptidões técnicas.
+
+10 - Aos elementos que integram o quadro de reserva está vedado o exercício de qualquer atividade operacional externa ao Quartel.
+
+11 - O tempo decorrido na situação de reserva não é considerado para efeitos de contagem de tempo de serviço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 16.º — Quadro de honra nos corpos de bombeiros voluntários ou mistos
+
+1 - Podem ingressar no quadro de honra, no cargo que detinham, os elementos do quadro de comando que:
+
+a) Tenham 40 ou mais anos de idade e exercido funções de comando durante mais de 15 anos;
+
+b) Tenham 40 ou mais anos de idade e prestado serviço efetivo, no corpo de bombeiros, com zelo, dedicação, disponibilidade e abnegação, durante mais de 20 anos, com pelo menos 10 anos de funções no quadro de comando;
+
+c) Independentemente da idade e do tempo de serviço, tenham adquirido incapacidade física em resultado de doença ou acidente ocorridos no exercício das funções de comando;
+
+d) Independentemente da idade e do tempo de serviço, tenham prestado serviços à causa dos bombeiros nas funções de comando, classificados, justificadamente, como de caráter excecional.
+
+2 - Podem ingressar no quadro de honra os elementos do quadro ativo que:
+
+a) Tenham 40 ou mais anos de idade e prestado serviço efetivo, com zelo, dedicação, disponibilidade e abnegação, durante mais de 15 anos;
+
+b) Independentemente da idade e do tempo de serviço, tenham adquirido incapacidade física em resultado de doença ou acidente ocorridos em serviço;
+
+c) Independentemente da idade e do tempo de serviço, tenham prestado serviços à causa dos bombeiros, classificados, justificadamente, como de caráter excecional.
+
+3 - Podem ingressar no quadro de honra os elementos do quadro de reserva que venham a reunir os requisitos previstos no número anterior.
+
+4 - Para efeitos do disposto na alínea d) do n.º 1 e da alínea c) do n.º 2, o elemento deverá ser titular de medalha de mérito de proteção e socorro ou distinção honorífica atribuída pela Liga dos Bombeiros Portugueses, designadamente, a fénix de honra, o crachá de ouro ou a medalha de coragem e abnegação.
+
+5 - O ingresso no quadro de honra é feito a requerimento do interessado, dirigido ao SRPC, IP-RAM, e depende de parecer favorável da entidade detentora do corpo de bombeiros, caso se trate do comandante, ou do comandante e da entidade detentora do corpo de bombeiros, tratando-se dos restantes elementos.
+
+6 - O ingresso no quadro de honra de elementos do quadro ativo permite a promoção, a título honorífico, à categoria seguinte da que era exercida na respetiva carreira do quadro ativo, desde que requerida pelo interessado, obtido o parecer favorável das entidades referidas no número anterior.
+
+7 - O comandante do corpo de bombeiros pode acordar com os elementos que integram o quadro de honra a execução das seguintes funções ou missões:
+
+a) Integrar a representação do corpo de bombeiros em cerimónias, festividades e outros atos similares;
+
+b) Colaborar, partilhando a experiência e os conhecimentos adquiridos, em ações de formação, no seio do corpo de bombeiros;
+
+c) Colaborar nas diversas atividades de natureza não operacional, desenvolvidas pelo corpo de bombeiros, compatíveis com as respetivas capacidades físicas e intelectuais.
+
+8 - Para os fins do número anterior, os elementos do quadro de honra devem ser dotados de fardamento adequado e, bem assim, incluídos em apólice especial de seguros de acidentes pessoais.
+
+9 - Aos elementos que integram o quadro de honra está vedado o exercício de qualquer atividade operacional.
+
+10 - Os elementos do quadro de honra, oriundos do quadro ativo, não podem solicitar o seu regresso a este quadro, podendo, no entanto, ser nomeados para a estrutura de comando.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+#### Secção II — Actividade operacional
+
+###### Artigo 17.º — Unidade de comando
+
+Os corpos de bombeiros organizam-se de acordo com o princípio da unidade de comando.
+
+###### Artigo 18.º — Serviço operacional
+
+1 - A actividade operacional desenvolvida pelo pessoal dos corpos de bombeiros tem natureza interna ou externa.
+
+2 - A actividade interna é prestada no perímetro interior das instalações do corpo de bombeiros, de acordo com os regulamentos.
+
+3 - A actividade externa é prestada fora das instalações, no cumprimento das missões previstas no artigo 3.º do presente decreto legislativo regional.
+
+4 - Na sua área de actuação, cada corpo de bombeiros assegura a actividade operacional em todos os serviços para os quais for solicitado e seja considerado apto ou, fora dela, em todos aqueles que, nos termos legais, lhe forem requisitados.
+
+5 - Sem prejuízo do que vier a ser determinado por regulamento a ser aprovado por portaria do membro do Governo responsável pela protecção civil, sob proposta do SRPC, IP-RAM, os corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias de bombeiros deverão assegurar a disponibilidade permanente dos meios susceptíveis de garantir a prontidão e eficácia da intervenção operacional na sua área de actuação própria.
+
+6 - O serviço operacional dos bombeiros voluntários, designadamente no que concerne ao número de horas de atividade, tipologia de serviço a prestar e obrigações no âmbito da formação que devem ser cumpridas para obtenção dos direitos, benefícios e regalias previstos no Regime Jurídico dos Bombeiros Portugueses, é aprovado por portaria do membro do Governo Regional responsável pela área da proteção civil, ouvida a Federação de Bombeiros da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 19.º — Conteúdo operacional
+
+O serviço operacional dos bombeiros voluntários, designadamente no que concerne ao número de horas de actividade, tipologia de serviço a prestar e obrigações no âmbito da instrução que devem ser cumpridas, para obtenção dos direitos, benefícios e regalias previstos no regime jurídico dos bombeiros portugueses, rege-se pelo cumprimento do artigo 3.º e pelo disposto nas alíneas que se seguem e pode conter os seguintes tipos de serviço operacional:
+
+a) Assistência - a actividade de transporte de doentes urgentes, respectivo apoio e acompanhamento;
+
+b) Formação e instrução - a actividade de formação e instrução, incluindo adquirir ou ministrar conhecimentos no âmbito da missão do corpo de bombeiros;
+
+c) Informação e sensibilização - a actividade de divulgação, informação e sensibilização das populações nas matérias de protecção civil e autoprotecção;
+
+d) Manutenção, organização e controlo das instalações e sistemas operacionais do corpo de bombeiros - a actividade técnica e logística de apoio, sustentação e manutenção da operatividade das instalações, equipamentos e sistemas afectos à missão do corpo de bombeiros;
+
+e) Prevenção e patrulhamento - a actividade de prevenção e controlo, com vista a atenuar, reduzir ou limitar a ocorrência de riscos;
+
+f) Piquete - a actividade de prontidão integrando forças de reserva preparadas para ocorrer a situações de emergência;
+
+g) Simulacro ou exercício - a actividade de treino e simulação de ocorrências, com vista a melhorar a proficiência dos bombeiros e a avaliar procedimentos e planos;
+
+h) Socorro - a actividade de carácter de emergência, de socorro às populações desenvolvida em caso de incêndios, inundações, desabamentos e, de um modo geral, em caso de acidentes de socorro a náufragos, de buscas subaquáticas e de urgência pré-hospitalar;
+
+i) A participação em acções de fiscalização no âmbito da actividade de segurança contra incêndios em edifícios, de acordo com o definido na alínea e) do artigo 3.º
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 20.º — Actividades, obrigações e registos
+
+1 - Para efeitos de permanência na situação de actividade no quadro, bem como para obtenção dos direitos, benefícios e regalias previstos no regime jurídico dos bombeiros portugueses, é obrigatória a prestação anual do tempo mínimo de 275 horas de serviço operacional, sendo, no mínimo, 70 horas de socorro, simulacro ou piquete e 45 horas de formação e instrução.
+
+2 - Transitam para o quadro de reserva, nos termos do disposto na alínea d) do n.º 1 do artigo 15.º os elementos do quadro activo que não tenham, durante o ano anterior, efectuado o tempo mínimo de serviço operacional previsto no número anterior.
+
+3 - Os elementos abrangidos pelo estipulado no número anterior poderão voltar ao activo, desde que seja cumprido o estipulado no n.º 1, nos termos do n.º 2 do artigo 15.º
+
+4 - Compete ao comandante do corpo de bombeiros assegurar o registo tempestivo do serviço operacional na plataforma do recenseamento nacional dos bombeiros portugueses destinada aos bombeiros da RAM, bem como a sua inclusão no processo individual dos bombeiros.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 21.º — Actividade conjunta
+
+1 - Tendo como objetivo a maximização dos meios e o aproveitamento de sinergias, podem os corpos de bombeiros cujas áreas de atuação sejam contíguas, desenvolver atividade operacional conjunta, de forma partilhada, a qual deverá ser obrigatoriamente comunicada ao SRPC, IP-RAM.
+
+2 - A actividade conjunta pode integrar a totalidade, ou parte, dos quadros activos de cada corpo de bombeiros.
+
+3 - O comando operacional da atividade conjunta cabe ao comandante do corpo de bombeiros em cuja área de atuação própria a atividade se desenvolva ou, na sua ausência, por decisão dos comandantes dos corpos de bombeiros envolvidos, sem prejuízo das competências do SRPC, IP-RAM, previstas no Decreto Legislativo Regional n.º 16/2009/M, de 30 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 21.º-A — Agrupamentos
+
+1 - Sem prejuízo do disposto no artigo anterior, podem ser criados agrupamentos de corpos de bombeiros que integrem uma parte ou a totalidade dos elementos pertencentes a diferentes corpos de bombeiros cujas áreas de atuação sejam contíguas.
+
+2 - A constituição de agrupamentos de corpos de bombeiros depende da criação prévia de agrupamentos de associações humanitárias ou de outras entidades detentoras de corpos de bombeiros.
+
+3 - A criação de agrupamentos de corpos de bombeiros depende de autorização do SRPC, IP-RAM.
+
+4 - O regime da criação, funcionamento, comando e financiamento dos agrupamentos de corpos de bombeiros é aprovado por portaria do membro do Governo responsável pela área da proteção civil, sem prejuízo da manutenção do atual modelo de financiamento às Associações Humanitárias de Bombeiros que os integrem.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 22.º — Forças conjuntas
+
+1 - Para fazer face a situações de acidente grave ou catástrofe, ou outras que justifiquem o empenhamento extraordinário e previsivelmente prolongado de meios e recursos, poderá o SRPC, IP-RAM determinar a constituição de forças conjuntas de bombeiros, as quais poderão integrar outros agentes de proteção civil, cujas competências e capacidades se mostrem determinantes para a eficácia do socorro e assistência às populações, da supressão dos sinistros e mitigação das suas consequências e reabilitação de zonas afetadas.
+
+2 - O comando e coordenação das forças conjuntas rege-se pelo disposto no Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma da Madeira (SIOPS-RAM), conforme consta do artigo 18.º do Decreto Legislativo Regional n.º 16/2009/M, de 30 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 23.º — Unidades de intervenção para missões específicas
+
+1 - No âmbito do cumprimento das missões previstas no artigo 3.º do presente diploma, o SRPC, IP-RAM pode promover a criação de unidades de intervenção para missões específicas na Região, com base no recrutamento de oficiais bombeiros e bombeiros do quadro ativo, podendo as mesmas integrar missões nacionais de cooperação internacional, ou de auxílio a operações no restante território nacional.
+
+2 - Estas unidades poderão ainda participar em missões transnacionais de cooperação europeia, no espaço da Macaronésia, no âmbito dos protocolos de ajuda mútua celebrados ao abrigo de programas comunitários envolvendo os arquipélagos desta região biogeográfica.
+
+3 - As unidades de intervenção para missões específicas têm uma estrutura e comando próprios.
+
+4 - A estrutura de comando é constituída por recrutamento no universo de oficiais bombeiros e quadros de comando dos corpos de bombeiros.
+
+5 - O indispensável apoio logístico à participação destas unidades nas missões realizadas fora da Região, será articulado para o efeito com o Comando Nacional de Operações e Socorro da Autoridade Nacional de Proteção Civil.
+
+6 - A integração de bombeiros das diferentes Corporações nestas Unidades de Intervenção para Missões Específicas, deverá ser validada pelas respetivas entidades detentoras, ouvido o comando.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 23.º-A — Dispositivo operacional dos corpos de bombeiros
+
+É definido por portaria do membro do Governo responsável pela área da proteção civil o dispositivo operacional dos corpos de bombeiros, para efeitos de coordenação, comando e controlo, em articulação com o SRPC, IP-RAM e as câmaras municipais das áreas de atuação envolvidas, ouvida a Federação de Bombeiros da RAM.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+### Capítulo IV — Instrução e formação
+
+###### Artigo 24.º — Instrução
+
+1 - A instrução do pessoal dos corpos de bombeiros é ministrada sob direção e orientação do comandante e de acordo com programa previamente estabelecido e aprovado pela Autoridade Nacional de Proteção Civil, sem prejuízo das adaptações a introduzir pelo SRPC, IP-RAM, sob proposta da Inspeção Regional de Bombeiros em articulação com o Centro de Formação de Proteção Civil e Bombeiros.
+
+2 - A instrução visa o treino e o saber fazer, através do aperfeiçoamento permanente dos conhecimentos adquiridos pelo pessoal dos corpos de bombeiros nas acções de formação.
+
+3 - O comandante elabora, até ao final de cada ano, um plano de instrução que estabelece as actividades mínimas a desenvolver no ano seguinte, pelo seu corpo de bombeiros, do qual dá conhecimento à entidade detentora e submete a aprovação do SRPC, IP-RAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 25.º — Formação
+
+1 - Os elementos do quadro de comando e do quadro ativo que se encontrem na situação de atividade, têm direito à formação adequada para o exercício da missão de socorro e ainda à frequência de cursos, colóquios, seminários e outras ações destinadas ao seu aperfeiçoamento técnico.
+
+2 - A formação compreende as seguintes modalidades:
+
+a) Formação inicial, destinada a habilitar os cadetes e estagiários para o ingresso na carreira de bombeiro;
+
+b) Formação inicial, destinada a habilitar os estagiários para o ingresso na carreira de oficial bombeiro e de bombeiro especialista;
+
+c) Formação de acesso, destinada a todos os elementos das carreiras de oficial bombeiro e bombeiro, necessária à progressão na carreira;
+
+d) (Revogada);
+
+e) Formação de quadro de comando, destinada a habilitar os elementos nomeados para o exercício dos cargos.
+
+3 - O comandante elabora, até 31 de outubro de cada ano, um plano de necessidades de formação inicial e acesso para o pessoal do seu corpo de bombeiros para o ano seguinte, do qual dá conhecimento à entidade detentora e remete ao SRPC, IP-RAM para efeitos de planeamento.
+
+4 - Quando se trate de acções formativas cuja realização ou simples frequência esteja prevista no plano de actividades do SRPC, IP-RAM, a participação dos bombeiros pode envolver, em condições a definir pela mesma entidade, o pagamento de comparticipações por salários perdidos, despesas de transportes, alojamento e alimentação, ocasionados por ausências ao serviço, autorizadas pelas respectivas entidades empregadoras e por deslocações para fora da área do corpo de bombeiros.
+
+5 - Compete ao SRPC, IP-RAM, através do Centro de Formação de Proteção Civil e Bombeiros, assegurar, em articulação com a ENB - Escola Nacional de Bombeiros, as ações de formação necessárias ao ingresso nas estruturas de comando, ao ingresso e acesso na carreira de oficial bombeiro, ao acesso na carreira de bombeiro e ao ingresso na carreira de bombeiro especialista.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 26.º — Formação específica
+
+Compete ao SRPC, IP-RAM assegurar as acções de formação específicas necessárias ao ingresso nas estruturas de comando, ao ingresso e progressão nas carreiras de oficial bombeiro e de bombeiro nos termos e condições definidas no n.º 3 do artigo anterior.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+### Capítulo V — Registo e recenseamento
+
+###### Artigo 27.º — Processos individuais
+
+1 - Os corpos de bombeiros dispõem de um processo individual de cada bombeiro, independentemente do quadro a que pertença, do qual constam os factos relacionados com o tempo e a qualidade do serviço prestado, incluindo o seu registo disciplinar.
+
+2 - O modelo de processo individual é aprovado por Despacho do membro do Governo Regional com a tutela da proteção civil, sob proposta do SRPC, IP-RAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 28.º — Recenseamento dos bombeiros da RAM
+
+1 - Conforme o disposto no artigo 1.º-A da Lei n.º 48/2009, de 4 de Agosto, o recenseamento nacional dos bombeiros portugueses (RNBP), regulado pelo Decreto-Lei n.º 49/2008, de 14 de Março, inclui também os bombeiros das regiões autónomas, cujos recenseamentos são efectuados pelos serviços regionais competentes, que articulam, na medida do necessário, com os serviços do RNBP, as acções e os procedimentos adequados à sua implementação e integram a base de dados nacional.
+
+2 - Compete ao SRPC, IP-RAM, em articulação com a ANPC, promover a integração dos bombeiros da RAM na plataforma do recenseamento nacional dos bombeiros portugueses.
+
+3 - Os corpos de bombeiros, através da sua entidade detentora e com base nos elementos fornecidos pelo comandante, devem manter permanentemente atualizada, por via informática, a informação sobre os seus quadros de comando, ativo, de reserva e de honra, na plataforma do recenseamento nacional dos bombeiros portugueses, destinada aos bombeiros da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+### Capítulo VI — Escolas de infantes e cadetes
+
+###### Artigo 29.º — Escolas de infantes e cadetes
+
+1 - Os corpos de bombeiros podem criar e deter escolas de infantes e cadetes.
+
+2 - As escolas de infantes e cadetes destinam-se à formação no âmbito do voluntariado e da protecção e socorro.
+
+3 - O universo de recrutamento das escolas de infantes é feito de entre indivíduos com idades entre os 6 e os 13 anos.
+
+4 - O universo de recrutamento das escolas de cadetes é feito de entre indivíduos com idades entre os 14 e os 16 anos.
+
+5 - A matéria objeto da formação a que se refere o n.º 2 do presente artigo articula-se com a área de formação cívica ministrada no ensino básico, nos termos a regulamentar por despacho dos membros do Governo responsáveis pelas áreas da proteção civil e da educação.
+
+6 - É vedado aos infantes e cadetes o exercício de actividade operacional.
+
+7 - Os infantes e cadetes integram a apólice de seguros do quadro de reserva do respetivo corpo de bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+### Capítulo VII — Disposições transitórias e finais
+
+###### Artigo 30.º — Regulamentos internos
+
+Com base em modelo a elaborar pelo SRPC, IP-RAM, os corpos de bombeiros da RAM devem adaptar os seus regulamentos internos ao presente decreto legislativo regional, no prazo máximo de 120 dias, contados a partir da sua entrada em vigor.
+
+###### Artigo 31.º — Regulamento de ordem unida, honra e continências
+
+A matéria respeitante à ordem unida, honra e continências constará de regulamento a aprovar por portaria do membro do Governo Regional com a tutela da proteção civil, sob proposta do SRPC, IP-RAM, ouvida a Federação Regional de Bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 32.º — Regulamentação
+
+A regulamentação prevista no presente decreto legislativo regional deve ser aprovada no prazo de 180 dias após a sua publicação.
+
+###### Artigo 33.º — Direito subsidiário
+
+A regulamentação do Decreto-Lei n.º 247/2007, de 27 de junho, retificado pela Declaração de Retificação n.º 4/2013, de 18 de janeiro, e alterado pelo Decreto-Lei n.º 248/2012, de 21 de novembro, é aplicável à Região em tudo o que não contrarie o disposto no presente diploma, sem prejuízo do exercício de iniciativa legislativa própria quanto à sua adaptação ou aprovação de regulamentação específica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2016/M - Diário da República n.º 50/2016, Série I de 2016-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2016-73841235), em vigor a partir de 2016-03-12
+
+###### Artigo 34.º — Entrada em vigor
+
+O presente decreto legislativo regional entra em vigor no 1.º dia após a sua publicação, sem prejuízo do disposto no artigo 32.º
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Julho de 2010.
+
+O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.
+
+Assinado em 9 de Agosto de 2010.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

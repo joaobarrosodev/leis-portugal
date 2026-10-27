@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:392467:por
+title: Decreto-Lei n.º 192/82
+short_title: null
+summary: Cria parques de campismo rural
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 192/82
+official_date: null
+publication_date: '1982-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/1982, Série I de 1982-05-19
+  number: '113'
+  series: I
+  supplement: null
+  pages: 1311 - 1313
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/11300/13111313.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392467'
+  dre_path: /dr/detalhe/decreto-lei/192-1982-392467
+  internal: pt:dre:392467:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1982-392467
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1982-392467
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:42:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 394684661a6ff26a233000072f591387471c425af690fd53937acf4d3bdbe340
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Parque de Campismo
+- Região Rural
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:247248:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Repristinado, por recusa de ratificação do Dec Lei 327/95 de 05-Dez, pela RES.10/96.17.02.1996.AR, DR.IS-A [41]\
+    \ de 17.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-17'
+- type: cites
+  target: pt:dre:146879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579163:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633726:por
+  label: "Revogado pelo DEC LEI.327/95.1995.12.05.MCT, DR.IS-A [280], sem prejuízo do disposto no nº 2 do art. 2º do referido\
+    \ diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1995-633726
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: Revogado pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele
+    previstas
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:42:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 192/82
+
+de 19 de Maio
+
+Considerando que a crescente procura de locais de acampamento para permanecer durante os períodos de férias ou outros tempos livres conduziu à patente insuficiência dos actuais parques de campismo e que esta situação determinou o aparecimento do denominado «campismo clandestino», gerador de numerosos inconvenientes, entre os quais avulta a degradação do meio ambiente;
+
+Considerando, por isso, oportuno, paralelamente à necessidade que levou o [Decreto Regulamentar n.º 38/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1980-471112), de 19 de Agosto, a institucionalizar normas definidoras dos requisitos mínimos exigíveis aos parques de campismo em terrenos normalmente destinados a esse fim, procurar-se outras alternativas que conduzam a soluções de pronta resposta;
+
+Considerando, de acordo com o disposto no artigo 2.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), de 27 de Novembro, existir a maior conveniência em criar o tipo de instalação de acampamento regular que se denominará «parque de campismo rural», obedecendo a requisitos consideravelmente mais aligeirados em relação aos parques até agora previstos;
+
+Considerando necessário estabelecer as normas mínimas aconselhadas para os parques de campismo rural, que se julga irão colmatar a enorme carência de instalações neste sector turístico em grande expansão, inspiradas na experiência francesa do campismo nas quintas agrícolas e em zonas tipicamente rurais:
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - Consideram-se parques de campismo rural os terrenos destinados permanente ou temporariamente à instalação de acampamentos, integrados ou não em explorações agrícolas, cuja área não seja superior a 5000 m2.
+
+2 - O perímetro dos parques de campismo rural deve ser devidamente demarcado durante o período de funcionamento.
+
+Art. 2.º - 1 - Os processos respeitantes à instalação dos parques de campismo rural serão organizados pela câmara municipal do concelho onde se pretende que venha a funcionar o respectivo parque, ouvidas as Secretarias de Estado do Turismo e do Ordenamento e Ambiente, nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 307/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1980-470586), com a redacção dada pela [Lei n.º 7/81](https://diariodarepublica.pt/dr/detalhe/lei/7-1981-579163), de 12 de Junho.
+
+2 - No caso de o terreno onde se pretende instalar o parque se situar na área de 2 ou mais municípios, o processo previsto no n.º 1 correrá na câmara municipal do concelho que abranja a maior parte da área do mesmo parque.
+
+Art. 3.º Os parques de campismo rural deverão, obrigatoriamente, assegurar o seguinte:
+
+a) Fornecimento de energia eléctrica;
+
+b) Fornecimento de água potável;
+
+c) Instalação de receptáculos para lixos em locais apropriados e a respectiva remoção;
+
+d) Escoamento eficaz de águas residuais e de esgotos;
+
+e) Sistema de prevenção de incêndios;
+
+f) Ligações telefónicas, postais e de socorros médicos a pelos 5 km de distância da sua localização;
+
+g) Fácil acesso a ambulâncias.
+
+Art. 4.º - 1 - Para poder instalar-se um parque de campismo rural deverão os interessados requerer a aprovação da respectiva localização à câmara municipal competente, que obrigatoriamente ouvirá o Ministério da Agricultura, Comércio e Pescas para emitir parecer, o qual será considerado favorável se não for recebido no prazo de 20 dias.
+
+2 - O requerimento previsto no número anterior deverá indicar o local onde se pretende fazer a instalação e ser acompanhado dos seguintes documentos:
+
+a) Planta de localização do terreno à escala de 1/25000, indicando a área, o nome pelo qual o local é conhecido, a freguesia, o concelho e os meios de acesso existentes;
+
+b) Descrição das instalações sanitárias existentes a uma distância inferior a 100 m do acampamento, desde que compreendam acomodações para ambos os sexos, com entradas independentes, que incluam um mínimo de 2 duches, de 2 lavatórios e de 3 sanitários por sexo;
+
+c) Projecto das instalações sanitárias a construir, caso não existam as referidas anteriormente, com observação dos requisitos mínimos mencionados na alínea anterior;
+
+d) Esboço do conjunto para lavagem de roupa e de louça, com tanques e 2 torneiras, protegido por cobertura eficaz;
+
+e) Memória descritiva do projecto do parque.
+
+3 - Não poderá ser autorizada a instalação de parques de campismo rural que prejudiquem a utilização de terrenos classificados nas categorias A e B.
+
+Art. 5.º - 1 - A memória descritiva referida na alínea e) do n.º 2 do artigo anterior deverá indicar de forma sumária o seguinte:
+
+a) Origem da água potável a fornecer e do local para o seu abastecimento;
+
+b) Solução prevista para o destino dos esgotos domésticos e pluviais e dos lixos;
+
+c) Localização dos estabelecimentos mais próximos para fornecimento de géneros alimentícios, bem como a menção relativa ao eventual abastecimento de produtos alimentares pela exploração agrícola onde o parque se integra;
+
+d) Período de funcionamento do parque.
+
+2 - No caso de a água a fornecer não provir da rede de distribuição municipal ou da freguesia respectiva deverá acompanhar a memória descritiva um boletim da sua análise química e bacteriológica, realizada em laboratório oficial.
+
+3 - No caso de o destino dos esgotos não ser um colector público, a fossa existente ou a construir deverá ser mencionada, na memória descritiva, sendo o seu tipo e dimensionamento definidos pela câmara municipal competente em função do número de utentes.
+
+4 - No caso de inexistência de serviço municipal de lixos, a memória descritiva deverá mencionar qual o tratamento a que os mesmos serão submetidos.
+
+Artigo 6.º - 1 - Os preços a cobrar pela utilização dos parques de campismo rural deverão ser propostos pelos interessados e aprovados pela câmara municipal competente.
+
+2 - O pedido de aprovação será apresentado com a memória descritiva a que se refere o artigo 4.º deste diploma.
+
+3 - Quando o parque se achar em funcionamento, o pedido de aprovação de novas tabelas de preços deverá ser apresentado até ao dia 30 de Novembro do ano anterior àquele em que irão vigorar os preços actualizados.
+
+4 - Em caso algum podem os preços de utilização exceder os praticados pelos parques de campismo com a classificação de uma estrela.
+
+5 - O modelo da tabela de preços a utilizar nos parques de campismo rurais será aprovado por despacho do Secretário de Estado do Turismo, sob proposta da Direcção-Geral do Turismo.
+
+Art. 7.º Consideram-se interessadas para efeitos de aplicação dos artigos 4.º e 5.º deste diploma as pessoas singulares ou colectivas que sejam proprietárias dos terrenos onde se pretenda instalar parques rurais ou sejam proprietárias ou detentoras de explorações agrícolas onde se integrem os parques.
+
+Art. 8.º A câmara municipal competente para o licenciamento destes parques poderá solicitar dos interessados quaisquer elementos documentais, esclarecimentos ou alterações à memória descritiva apresentada.
+
+Art. 9.º Se o requerimento para aprovação da localização de um parque de campismo rural ou o pedido de aprovação de tabela de preços não obtiver resposta no prazo de 60 dias, contados a partir da data da sua apresentação na respectiva câmara municipal, entende-se que o mesmo foi deferido.
+
+Art. 10.º - 1 - A capacidade máxima dos parques de campismo rural não poderá exceder as 30 instalações, tendas, caravanas ou outros veículos habitáveis, nem o número de 90 campistas.
+
+2 - Sendo a área do parque inferior ao limite fixado no n.º 1 do artigo 1.º deste diploma, o número de instalações deve ser proporcionalmente reduzido, de tal forma que a cada instalação corresponda uma área aproximada de 150 m2, e a cada campista, a de 50 m2.
+
+Art. 11.º - 1 - A entidade proprietária ou exploradora do parque de campismo rural deverá colocar um painel de informação bem visível na entrada principal, donde constará a indicação de se tratar de «Parque de Campismo Rural», seguido do nome do local ou da exploração agrícola em que se integra.
+
+2 - Do mesmo painel deverá constar a indicação da existência de lugares vagos ou da circunstância de a lotação do parque estar esgotada.
+
+Art. 12.º O parque de campismo rural só poderá começar a funcionar após a aprovação expressa ou tácita da sua localização e da respectiva vistoria.
+
+Art. 13.º O ingresso nos parques de campismo rural dependerá de prévia identificação dos campistas, mediante a apresentação dos respectivos passaportes, bilhetes de identidade ou, quando exigida, da carta de campista passada por organismo nacional ou internacional oficialmente reconhecido.
+
+Art. 14.º - 1 - O utente do parque deverá depositar à entrada um documento de identificação que lhe será restituído à saída, após o pagamento dos preços devidos.
+
+2 - O utente poderá deixar de proceder ao depósito previsto no número anterior desde que deposite, contra recibo, o montante em dinheiro correspondente ao preço de utilização do parque durante 1 semana.
+
+Art. 15.º O acesso aos parques de campismo rural é livre, podendo, no entanto, o proprietário ou explorador impedir a entrada ou permanência a quem não manifeste o propósito de praticar o campismo ou desobedeça às regras constantes deste diploma e do regulamento interno do parque.
+
+Art. 16.º Os parques de campismo rural deverão possuir 1 caixa-ambulância munida do material necessário para curativos e dos medicamentos normalmente usados para socorros urgentes.
+
+Art. 17.º Os parques de campismo rural deverão dispor de um sistema de protecção contra incêndios, cuja eficácia deverá ser apreciada pela câmara municipal competente, precedida de parecer da corporação de bombeiros concelhia.
+
+Art. 18.º - 1 - A Direcção-Geral do Turismo organizará um registo de todos os parques de campismo rural existentes.
+
+2 - A câmara municipal competente dará conhecimento à Direcção-Geral do Turismo da entrada em funcionamento dos parques e dos requisitos que os mesmos oferecem no prazo de 15 dias, a contar daquela entrada.
+
+3 - A Direcção-Geral do Turismo poderá, a qualquer tempo, solicitar à câmara municipal competente as informações que julgue necessárias.
+
+Art. 19.º A fiscalização do cumprimento do disposto no presente diploma e dos regulamentos que vierem a ser publicados compete à câmara municipal competente nos termos do artigo 2.º, à Direcção-Geral do Turismo, à Direcção-Geral de Saúde e às autoridades administrativas e policiais.
+
+Art. 20.º No que respeita às matérias de fiscalização e sanções é aplicável aos parques de campismo rural o capítulo IV do [Decreto Regulamentar n.º 38/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1980-471112), de 19 de Agosto, com as necessárias adaptações.
+
+Art. 21.º Aos casos omissos e dúvidas suscitadas na aplicação do presente diploma será aplicável o [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), de 27 de Novembro, e legislação complementar, com as devidas adaptações, a definir por despacho do Secretário de Estado do Turismo.
+
+Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 26 de Abril de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

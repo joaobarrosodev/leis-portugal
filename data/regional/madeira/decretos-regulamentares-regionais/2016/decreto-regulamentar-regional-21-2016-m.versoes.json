@@ -1,0 +1,442 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75437528:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2016-124821504",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/21-2016-75437528",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1029684166",
+    "124819851",
+    "124819852",
+    "124819853",
+    "124819854",
+    "124819855",
+    "124819856",
+    "124819857",
+    "124819858",
+    "124819859",
+    "124819860",
+    "124819861",
+    "124819862",
+    "124819863",
+    "124819864",
+    "124819866"
+   ]
+  },
+  {
+   "date": "2019-09-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124793108:por",
+     "title": "Decreto Regulamentar Regional n.º 7/2019/M",
+     "published": "2019-09-18",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "124819850",
+    "124819851",
+    "124819852",
+    "124819872",
+    "124819873",
+    "124819874",
+    "124819856",
+    "124819857",
+    "124819858",
+    "124819859",
+    "124819860",
+    "124819861",
+    "124819862",
+    "124819863",
+    "124819864",
+    "124819865",
+    "124819866"
+   ]
+  },
+  {
+   "date": "2026-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1031110263:por",
+     "title": "Decreto Regulamentar Regional n.º 3/2026/M",
+     "published": "2026-02-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1029684166",
+    "1029684167",
+    "1029684168",
+    "1029684169",
+    "1029684170",
+    "1029684171",
+    "1029684172",
+    "1029684173",
+    "1029684174",
+    "1033275775",
+    "1033275776",
+    "1033275777",
+    "1033275778",
+    "1033275779",
+    "1033275780",
+    "1033275781",
+    "1033275782"
+   ]
+  }
+ ],
+ "fragments": {
+  "1029684166": {
+   "fragment_id": "124821505",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-02-03",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 21/2016/M\n\nAprova a orgânica da Direção Regional de Estradas\n\nNo contexto da previsão da Secretaria Regional dos Assuntos Parlamentares e Europeus no Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, foi aprovada a respetiva orgânica através do Decreto Regulamentar Regional n.º 6/2015/M, de 10 de julho, alterado e republicado pelo Decreto Regulamentar Regional n.º 3/2016/M, de 21 de janeiro.\n\nNessa sequência, torna-se imperioso proceder à aprovação da orgânica da Direção Regional de Estradas, um dos serviços que integram a administração direta da Secretaria Regional dos Assuntos Parlamentares e Europeus.\n\nAssim, nos termos do n.º 5 do artigo 5.º do Decreto Regulamentar Regional n.º 6/2015/M, de 10 de julho, alterado e republicado pelo Decreto Regulamentar Regional n.º 3/2016/M, de 21 de janeiro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do n.º 1 do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado e republicado pelo Decreto Legislativo Regional n.º 24/2012/M, de 30 de agosto, e pelo Decreto Legislativo Regional n.º 2/2013/M, de 2 de janeiro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "124819851": {
+   "fragment_id": "124821506",
+   "type": 1,
+   "heading": "Capítulo I — Objeto, natureza, missão, atribuições e órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto, natureza, missão, atribuições e órgãos"
+  },
+  "124819852": {
+   "fragment_id": "124821507",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma aprova a estrutura orgânica da Direção Regional de Estradas, abreviadamente designada por DRE."
+  },
+  "124819853": {
+   "fragment_id": "124821508",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nA DRE é um serviço executivo central, integrado na estrutura da Secretaria Regional dos Assuntos Parlamentares e Europeus, conforme decorre da alínea g) do n.º 1 do artigo 3.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, sob a administração direta da Região Autónoma da Madeira, que prossegue as atribuições relativas ao setor das estradas."
+  },
+  "124819854": {
+   "fragment_id": "124821509",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nA DRE tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da responsabilidade do Governo Regional da Madeira, nos termos do Decreto Legislativo Regional n.º 15/2005/M, de 9 de agosto, alterado pelo Decreto Legislativo Regional n.º 1/2013/M, de 2 de janeiro, que procede à classificação das estradas regionais, e que não estejam afetas às concessões rodoviárias e do Decreto Legislativo Regional n.º 15/93/M, de 4 de setembro, alterado pelo Decreto Legislativo Regional n.º 10/96/M, de 4 de julho, pelo Decreto Legislativo Regional n.º 25/2010/M, de 30 de dezembro, e alterado e republicado pelo Decreto Legislativo Regional n.º 41/2012/M, de 28 de dezembro."
+  },
+  "124819855": {
+   "fragment_id": "124821510",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições da DRE:\n\na) Apoiar a Secretaria Regional dos Assuntos Parlamentares e Europeus na formulação e concretização das políticas relativas às estradas regionais e acompanhar a execução das medidas delas decorrentes;\n\nb) Estudar, propor a implementação de medidas e definir normas técnicas de atuação que contribuam para a realização dos seus objetivos, nomeadamente, para o desenvolvimento, modernização e qualidade das estradas regionais;\n\nc) Prestar serviços de limpeza, correção e escavação de taludes em altura, a entidades públicas ou privadas, de acordo com tabela de preços aprovada pelo membro do Governo Regional de que depende a DRE, com exceção dos serviços da administração pública regional, aos quais os serviços serão prestados graciosamente;\n\nd) Promover, dirigir, acompanhar e executar as atividades inerentes à planificação, construção, ampliação, remodelação, conservação e manutenção das estradas regionais;\n\ne) Assegurar e desenvolver a fiscalização das obras incluídas no âmbito da sua atuação;\n\nf) Executar as ações para prevenção da sinistralidade e para o incremento da segurança rodoviária;\n\ng) Promover a realização periódica de recenseamentos de tráfego, bem como a inventariação permanente dos equipamentos coletivos sob a sua ação;\n\nh) Promover relações de cooperação com entidades públicas ou privadas, nacionais, regionais ou estrangeiras, tendo em vista o aproveitamento das melhores potencialidades para o desenvolvimento do sector das estradas;\n\ni) Superintender na organização dos serviços que de si dependem;\n\nj) Programar, promover e executar as ações necessárias à formação dos recursos humanos afetos aos serviços da DRE;\n\nk) Promover as ações necessárias relativas ao aproveitamento e desenvolvimento dos recursos patrimoniais e financeiros afetos aos serviços da DRE;\n\nl) Assegurar, na área da engenharia, o acompanhamento permanente da execução dos planos operacionais referentes às concessões rodoviárias;\n\nm) Utilizar e administrar os bens de domínio público ou privado da Região Autónoma da Madeira afetos a título permanente ou provisório, à sua atividade.\n\n2 - Para os efeitos da alínea j) do n.º 1 do presente artigo, podem ser celebrados protocolos, com vista à realização de ações de formação, sem prejuízo da competência própria da DRE para promover formação ao pessoal dos seus serviços."
+  },
+  "124819856": {
+   "fragment_id": "124821511",
+   "type": 11,
+   "heading": "Artigo 5.º — Diretor regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Diretor regional\n\n1 - A DRE é dirigida pelo diretor regional de estradas, adiante designado, abreviadamente, por diretor regional, cargo de direção superior de 1.º grau.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei, das que decorram do normal exercício das suas funções ou que lhe sejam delegadas ou subdelegadas, compete, designadamente, ao diretor regional:\n\na) Promover a execução da política e prossecução dos objetivos definidos pelo Governo Regional da Madeira para o setor das estradas;\n\nb) Superintender a realização de estudos e outros trabalhos considerados importantes para o referido setor;\n\nc) Exercer todos os poderes relativos à proteção, desocupação, demolição e defesa administrativa da posse de terrenos e ou instalações que estejam ou venham a estar afetos à DRE e das obras por si contratadas ou realizadas;\n\nd) Contratar com fornecedores ou empreiteiros e autorizar despesas no âmbito e limite das suas competências;\n\ne) Instaurar e decidir os processos de contraordenação relativos ao âmbito da atuação da DRE;\n\nf) Emitir licenças ou autorizações de ocupação de estradas e de terrenos sob a jurisdição da DRE, aplicando as taxas correspondentes, quando tal seja da sua competência nos termos definidos na lei;\n\ng) Nomear nos termos legais, coordenadores de segurança em projeto e coordenadores de segurança em obra;\n\nh) Coordenar, orientar e dirigir os serviços da DRE e aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\ni) Coordenar superiormente a interligação dos serviços da DRE com outros organismos do Governo Regional;\n\nj) Promover a gestão participativa por objetivos, criando as condições necessárias a uma maior descentralização e atribuição de responsabilidades, que conduzam a um aumento da eficiência dos diversos serviços;\n\nk) Definir e propor para superior decisão tudo o que se torne necessário ao bom e correto funcionamento da DRE;\n\nl) Assegurar a cobrança das receitas devidas, nomeadamente pela prestação de serviços e emissão de licenças pela DRE e que constituem receita da Região;\n\nm) Representar a DRE junto de outros serviços e entidades.\n\n3 - O diretor regional pode, nos termos da lei, delegar competências, com possibilidade de subdelegação.\n\n4 - O diretor regional é substituído, nas suas ausências e impedimentos, pelo diretor de serviços para o efeito designado."
+  },
+  "124819857": {
+   "fragment_id": "124821512",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "124819858": {
+   "fragment_id": "124821513",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipo de organização interna\n\nA organização interna dos serviços da DRE obedece ao modelo de estrutura organizacional hierarquizado."
+  },
+  "124819859": {
+   "fragment_id": "124821514",
+   "type": 11,
+   "heading": "Artigo 7.º — Dotação de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dotação de cargos de direção\n\nA dotação de cargos de direção superior de 1.º grau e de direção intermédia de 1.º grau constam do anexo I ao presente diploma, do qual faz parte integrante."
+  },
+  "124819860": {
+   "fragment_id": "124821515",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "124819861": {
+   "fragment_id": "124821516",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de gestão de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sistema de gestão de pessoal\n\nO pessoal da DRE integra o sistema centralizado de gestão previsto no Decreto Regulamentar Regional n.º 6/2015/M, de 10 de julho, alterado e republicado pelo Decreto Regulamentar Regional n.º 3/2016/M, de 21 de janeiro."
+  },
+  "124819862": {
+   "fragment_id": "124821517",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nAté a entrada em vigor dos diplomas que aprovam a organização interna da DRE, mantêm-se em vigor a Portaria n.º 11-A/2013, de 14 de fevereiro, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 19, de 14 de fevereiro, e o Despacho n.º 40-A/2013, de 15 de fevereiro, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 36, de 20 de fevereiro, bem como as comissões de serviço dos titulares de cargos de direção intermédia naqueles previstas."
+  },
+  "124819863": {
+   "fragment_id": "124821518",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional n.º 4/2013/M, de 14 de fevereiro."
+  },
+  "124819864": {
+   "fragment_id": "124821519",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124819866": {
+   "fragment_id": "124821521",
+   "type": 14,
+   "heading": "Anexo I — Mapa de cargos dirigentes a que se refere o artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Mapa de cargos dirigentes a que se refere o artigo 7.º\n\n(ver documento original)"
+  },
+  "124819850": {
+   "fragment_id": "124821505",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 21/2016/M\n\nAprova a orgânica da Direção Regional de Estradas\n\nNo contexto da previsão da Secretaria Regional dos Assuntos Parlamentares e Europeus no Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, foi aprovada a respetiva orgânica através do Decreto Regulamentar Regional n.º 6/2015/M, de 10 de julho, alterado e republicado pelo Decreto Regulamentar Regional n.º 3/2016/M, de 21 de janeiro.\n\nNessa sequência, torna-se imperioso proceder à aprovação da orgânica da Direção Regional de Estradas, um dos serviços que integram a administração direta da Secretaria Regional dos Assuntos Parlamentares e Europeus.\n\nAssim, nos termos do n.º 5 do artigo 5.º do Decreto Regulamentar Regional n.º 6/2015/M, de 10 de julho, alterado e republicado pelo Decreto Regulamentar Regional n.º 3/2016/M, de 21 de janeiro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do n.º 1 do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado e republicado pelo Decreto Legislativo Regional n.º 24/2012/M, de 30 de agosto, e pelo Decreto Legislativo Regional n.º 2/2013/M, de 2 de janeiro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "124819872": {
+   "fragment_id": "124821508",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2019-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\nA DRE é um serviço executivo central, integrado na estrutura da Secretaria Regional dos Equipamentos e Infraestruturas, conforme decorre da alínea b) do n.º 1 do artigo 9.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, sob a administração direta da Região Autónoma da Madeira, que prossegue as atribuições relativas ao setor das estradas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+  },
+  "124819873": {
+   "fragment_id": "124821509",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2019-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nA Direção Regional de Estradas tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da rede regional que não estejam afetas às concessões rodoviárias, bem como promover e assegurar o apoio técnico às competências previstas no n.º 3 do artigo 3.º e no n.º 2 do artigo 6.º do Decreto Regulamentar Regional n.º 2/2018/M, de 24 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+  },
+  "124819874": {
+   "fragment_id": "124821510",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2019-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições da DRE:\n\na) Apoiar a Secretaria Regional dos Equipamentos e Infraestruturas na formulação e concretização das políticas relativas às estradas regionais e acompanhar a execução das medidas delas decorrentes;\n\nb) Estudar, propor a implementação de medidas e definir normas técnicas de atuação que contribuam para a realização dos seus objetivos, nomeadamente, para o desenvolvimento, modernização e qualidade das estradas regionais;\n\nc) Prestar serviços de limpeza, correção e escavação de taludes em altura, a entidades públicas ou privadas, de acordo com tabela de preços aprovada pelo membro do Governo Regional de que depende a DRE, com exceção dos serviços da administração pública regional, aos quais os serviços serão prestados graciosamente;\n\nd) Promover, dirigir, acompanhar e executar as atividades inerentes à planificação, construção, ampliação, remodelação, conservação e manutenção das estradas regionais;\n\ne) Assegurar e desenvolver a fiscalização das obras incluídas no âmbito da sua atuação;\n\nf) Executar as ações para prevenção da sinistralidade e para o incremento da segurança rodoviária;\n\ng) Promover a realização periódica de recenseamentos de tráfego, bem como a inventariação permanente dos equipamentos coletivos sob a sua ação;\n\nh) Promover relações de cooperação com entidades públicas ou privadas, nacionais, regionais ou estrangeiras, tendo em vista o aproveitamento das melhores potencialidades para o desenvolvimento do sector das estradas;\n\ni) Superintender na organização dos serviços que de si dependem;\n\nj) Programar, promover e executar as ações necessárias à formação dos recursos humanos afetos aos serviços da DRE;\n\nk) Promover as ações necessárias relativas ao aproveitamento e desenvolvimento dos recursos patrimoniais e financeiros afetos aos serviços da DRE;\n\nl) Promover e assegurar o apoio técnico ao Secretário Regional dos Equipamentos e Infraestruturas na definição das orientações na Concessionária de Estradas, VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira;\n\nm) Utilizar e administrar os bens de domínio público ou privado da Região Autónoma da Madeira afetos a título permanente ou provisório, à sua atividade.\n\n2 - Para os efeitos da alínea j) do n.º 1 do presente artigo, podem ser celebrados protocolos, com vista à realização de ações de formação, sem prejuízo da competência própria da DRE para promover formação ao pessoal dos seus serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+  },
+  "124819865": {
+   "fragment_id": "124821520",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em reunião do Conselho do Governo Regional de 8 de setembro de 2016.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 19 de setembro de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "1029684167": {
+   "fragment_id": "124821506",
+   "type": 1,
+   "heading": "Capítulo I — Objeto, natureza, missão, atribuições e órgãos",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "### Capítulo I — Objeto, natureza, missão, atribuições e órgãos\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1029684168": {
+   "fragment_id": "124821507",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma aprova a estrutura orgânica da Direção Regional de Estradas, abreviadamente designada por DRE.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1029684169": {
+   "fragment_id": "124821508",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\nA DRE é um serviço executivo central, integrado na estrutura da Secretaria Regional dos Equipamentos e Infraestruturas, conforme decorre da alínea b) do n.º 1 do artigo 9.º do Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, sob a administração direta da Região Autónoma da Madeira, que prossegue as atribuições relativas ao setor das estradas.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+  },
+  "1029684170": {
+   "fragment_id": "124821509",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nA Direção Regional de Estradas tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da rede regional que não estejam afetas às concessões rodoviárias, bem como promover e assegurar o apoio técnico às competências previstas no n.º 3 do artigo 3.º e no n.º 2 do artigo 6.º do Decreto Regulamentar Regional n.º 2/2018/M, de 24 de janeiro.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+  },
+  "1029684171": {
+   "fragment_id": "124821510",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições da DRE:\n\na) Apoiar a Secretaria Regional dos Equipamentos e Infraestruturas na formulação e concretização das políticas relativas às estradas regionais e acompanhar a execução das medidas delas decorrentes;\n\nb) Estudar, propor a implementação de medidas e definir normas técnicas de atuação que contribuam para a realização dos seus objetivos, nomeadamente, para o desenvolvimento, modernização e qualidade das estradas regionais;\n\nc) Prestar serviços de limpeza, correção e escavação de taludes em altura, a entidades públicas ou privadas, de acordo com tabela de preços aprovada pelo membro do Governo Regional de que depende a DRE, com exceção dos serviços da administração pública regional, aos quais os serviços serão prestados graciosamente;\n\nd) Promover, dirigir, acompanhar e executar as atividades inerentes à planificação, construção, ampliação, remodelação, conservação e manutenção das estradas regionais;\n\ne) Assegurar e desenvolver a fiscalização das obras incluídas no âmbito da sua atuação;\n\nf) Executar as ações para prevenção da sinistralidade e para o incremento da segurança rodoviária;\n\ng) Promover a realização periódica de recenseamentos de tráfego, bem como a inventariação permanente dos equipamentos coletivos sob a sua ação;\n\nh) Promover relações de cooperação com entidades públicas ou privadas, nacionais, regionais ou estrangeiras, tendo em vista o aproveitamento das melhores potencialidades para o desenvolvimento do sector das estradas;\n\ni) Superintender na organização dos serviços que de si dependem;\n\nj) Programar, promover e executar as ações necessárias à formação dos recursos humanos afetos aos serviços da DRE;\n\nk) Promover as ações necessárias relativas ao aproveitamento e desenvolvimento dos recursos patrimoniais e financeiros afetos aos serviços da DRE;\n\nl) Promover e assegurar o apoio técnico ao Secretário Regional dos Equipamentos e Infraestruturas na definição das orientações na Concessionária de Estradas, VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira;\n\nm) Utilizar e administrar os bens de domínio público ou privado da Região Autónoma da Madeira afetos a título permanente ou provisório, à sua atividade.\n\n2 - Para os efeitos da alínea j) do n.º 1 do presente artigo, podem ser celebrados protocolos, com vista à realização de ações de formação, sem prejuízo da competência própria da DRE para promover formação ao pessoal dos seus serviços.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2019/M - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108), em vigor a partir de 2019-09-19"
+  },
+  "1029684172": {
+   "fragment_id": "124821511",
+   "type": 11,
+   "heading": "Artigo 5.º — Diretor regional",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "###### Artigo 5.º — Diretor regional\n\n1 - A DRE é dirigida pelo diretor regional de estradas, adiante designado, abreviadamente, por diretor regional, cargo de direção superior de 1.º grau.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei, das que decorram do normal exercício das suas funções ou que lhe sejam delegadas ou subdelegadas, compete, designadamente, ao diretor regional:\n\na) Promover a execução da política e prossecução dos objetivos definidos pelo Governo Regional da Madeira para o setor das estradas;\n\nb) Superintender a realização de estudos e outros trabalhos considerados importantes para o referido setor;\n\nc) Exercer todos os poderes relativos à proteção, desocupação, demolição e defesa administrativa da posse de terrenos e ou instalações que estejam ou venham a estar afetos à DRE e das obras por si contratadas ou realizadas;\n\nd) Contratar com fornecedores ou empreiteiros e autorizar despesas no âmbito e limite das suas competências;\n\ne) Instaurar e decidir os processos de contraordenação relativos ao âmbito da atuação da DRE;\n\nf) Emitir licenças ou autorizações de ocupação de estradas e de terrenos sob a jurisdição da DRE, aplicando as taxas correspondentes, quando tal seja da sua competência nos termos definidos na lei;\n\ng) Nomear nos termos legais, coordenadores de segurança em projeto e coordenadores de segurança em obra;\n\nh) Coordenar, orientar e dirigir os serviços da DRE e aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\ni) Coordenar superiormente a interligação dos serviços da DRE com outros organismos do Governo Regional;\n\nj) Promover a gestão participativa por objetivos, criando as condições necessárias a uma maior descentralização e atribuição de responsabilidades, que conduzam a um aumento da eficiência dos diversos serviços;\n\nk) Definir e propor para superior decisão tudo o que se torne necessário ao bom e correto funcionamento da DRE;\n\nl) Assegurar a cobrança das receitas devidas, nomeadamente pela prestação de serviços e emissão de licenças pela DRE e que constituem receita da Região;\n\nm) Representar a DRE junto de outros serviços e entidades.\n\n3 - O diretor regional pode, nos termos da lei, delegar competências, com possibilidade de subdelegação.\n\n4 - O diretor regional é substituído, nas suas ausências e impedimentos, pelo diretor de serviços para o efeito designado.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1029684173": {
+   "fragment_id": "124821512",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "### Capítulo II — Estrutura orgânica\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1029684174": {
+   "fragment_id": "124821513",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipo de organização interna",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "###### Artigo 6.º — Tipo de organização interna\n\nA organização interna dos serviços da DRE obedece ao modelo de estrutura organizacional hierarquizado.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1033275775": {
+   "fragment_id": "124821514",
+   "type": 11,
+   "heading": "Artigo 7.º — Dotação de cargos de direção",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "###### Artigo 7.º — Dotação de cargos de direção\n\nA dotação de cargos de direção superior de 1.º grau e de direção intermédia de 1.º grau constam do anexo I ao presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1033275776": {
+   "fragment_id": "124821515",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "### Capítulo III — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1033275777": {
+   "fragment_id": "124821516",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de gestão de pessoal",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de gestão de pessoal\n\nO pessoal da DRE integra o sistema centralizado de gestão previsto no Decreto Regulamentar Regional n.º 6/2015/M, de 10 de julho, alterado e republicado pelo Decreto Regulamentar Regional n.º 3/2016/M, de 21 de janeiro.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1033275778": {
+   "fragment_id": "124821517",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nAté a entrada em vigor dos diplomas que aprovam a organização interna da DRE, mantêm-se em vigor a Portaria n.º 11-A/2013, de 14 de fevereiro, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 19, de 14 de fevereiro, e o Despacho n.º 40-A/2013, de 15 de fevereiro, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 36, de 20 de fevereiro, bem como as comissões de serviço dos titulares de cargos de direção intermédia naqueles previstas.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1033275779": {
+   "fragment_id": "124821518",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional n.º 4/2013/M, de 14 de fevereiro.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1033275780": {
+   "fragment_id": "124821519",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1033275781": {
+   "fragment_id": "124821520",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "Aprovado em reunião do Conselho do Governo Regional de 8 de setembro de 2016.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 19 de setembro de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  },
+  "1033275782": {
+   "fragment_id": "124821521",
+   "type": 14,
+   "heading": "Anexo I — Mapa de cargos dirigentes a que se refere o artigo 7.º",
+   "in_force_from": "2026-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+   ],
+   "markdown": "## Anexo I — Mapa de cargos dirigentes a que se refere o artigo 7.º\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 3/2026/M - Diário da República n.º 22/2026, Série I de 2026-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2026-1031110263), em vigor a partir de 2026-02-03"
+  }
+ }
+}

@@ -1,0 +1,497 @@
+---
+schema_version: '1.0'
+id: pt:dre:313405:por
+title: Portaria n.º 48/2001
+short_title: null
+summary: Aprova o Regulamento de Aplicação da Acção n.º 7, «Valorização do Ambiente e do Património Rural», da medida AGRIS,
+  dos programas operacionais regionais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 48/2001
+official_date: null
+publication_date: '2001-01-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2001, Série I-B de 2001-01-26
+  number: '22'
+  series: I
+  supplement: null
+  pages: 406 - 411
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/01/022b00/04060411.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2006-09-05'
+version_history:
+  file: portaria-48-2001.versoes.json
+  count: 4
+  source_lastmod: '2026-04-01'
+  versions:
+  - date: '2001-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-20'
+    amending: pt:dre:650304:por
+    amending_title: Portaria n.º 1103-B/2001
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2003-09-27'
+    amending: pt:dre:499808:por
+    amending_title: Portaria n.º 1043/2003
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 26.º
+    - Altera Artigo 31.º
+    - Revoga Artigo 32.º
+  - date: '2006-09-05'
+    amending: pt:dre:540002:por
+    amending_title: Portaria n.º 903/2006
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/48/2001/p/cons/20060904/pt/html
+  oj: null
+  dre: '313405'
+  dre_path: /dr/detalhe/portaria/48-2001-313405
+  internal: pt:dre:313405:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/48-2001-313405
+  metadata_url: https://data.dre.pt/eli/port/48/2001/p/cons/20060904/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1017377006
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1017377006
+  retrieved_at: '2026-10-22T13:42:23Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-04-01T00:00:00Z'
+integrity:
+  source_sha256: 2eeeedcfcd3026df38caa597ebe34bf67e991822585e2b938590b0a9fc0505fc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:42:23Z'
+  notes: 4 versão(ões); histórico completo em portaria-48-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- QCA III
+- Regulamento
+- Regulamento de Aplicação da Acção Nº7-valorização do Ambiente e do Património Rural
+- Programa AGRO
+- Medida Agris
+- Ifadap
+relationships:
+- type: amended_by
+  target: pt:dre:650304:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304
+  date: '2001-09-15'
+- type: amended_by
+  target: pt:dre:499808:por
+  label: Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 17.º; Altera Artigo 26.º; Altera Artigo
+    31.º; Revoga Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808
+  date: '2003-09-22'
+- type: amended_by
+  target: pt:dre:540002:por
+  label: Altera Artigo 14.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/903-2006-540002
+  date: '2006-09-04'
+- type: cites
+  target: celex:31999R1257
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: cites
+  target: celex:32000R1685
+  label: null
+  source: http://data.europa.eu/eli/reg/2000/1685/oj
+- type: cites
+  target: celex:32002R0445
+  label: null
+  source: null
+article_structure:
+  article_count: 32
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:42:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 48/2001
+
+No âmbito do III Quadro Comunitário de Apoio para o período de 2000 a 2006 foram aprovados o Programa Operacional de Agricultura e Desenvolvimento Rural (Programa AGRO), bem como os programas operacionais de âmbito regional, onde se inclui a medida Agricultura e Desenvolvimento Rural, abreviadamente designada por medida AGRIS.
+
+A medida AGRIS pretende garantir a promoção e o desenvolvimento das zonas rurais, nomeadamente através da preservação e valorização dos pequenos aglomerados populacionais rurais e da melhoria das condições de vida e do bem-estar da população e igualmente da requalificação ambiental agro-florestal e agro-industrial.
+
+O primeiro dos objectivos só é porém alcançável se se perspectivar uma intervenção que não só possibilite acções com impacte sobre pequenos núcleos populacionais de concentração residencial, e respectiva periferia, mas também sobre territórios contínuos ocupados de forma dispersa pela população rural.
+
+O objectivo de requalificação ambiental entende-se aqui associado a interesses de natureza colectiva no âmbito do pré-tratamento de efluentes de origem agro-pecuária e agro-industrial e respectivo destino e pressupõe a existência de um plano de intervenção da responsabilidade de uma entidade promotora com competência e capacidade adequadas.
+
+A medida AGRIS integra, neste contexto, a acção «Valorização do ambiente e do património rural», enquadrada no âmbito do artigo 33.º do Regulamento (CE) n.º 1257/1999, do Conselho, de 17 de Maio, e tendo por objectivo a recuperação e valorização do património natural, da paisagem e dos núcleos populacionais em meio rural e a conservação do ambiente e dos recursos naturais.
+
+Assim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:
+
+Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Acção n.º 7, «Valorização do Ambiente e do Património Rural», da medida AGRIS, dos programas operacionais regionais, em anexo ao presente diploma e do qual faz parte integrante.
+
+Em 18 de Dezembro de 2000.
+
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
+
+## Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 7, «VALORIZAÇÃO DO AMBIENTE E DO PATRIMÓNIO RURAL»
+
+### Capítulo I — Enquadramento
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de aplicação da acção n.º 7, «Valorização do ambiente e do património rural» da medida AGRIS.
+
+###### Artigo 2.º — Subacções
+
+A presente acção desenvolve-se através das seguintes subacções:
+
+a) Recuperação e valorização do património natural, da paisagem e dos núcleos populacionais em meio rural;
+
+b) Conservação do ambiente e dos recursos naturais.
+
+### Capítulo II — Recuperação e valorização do património natural, da paisagem e dos núcleos populacionais em meio rural
+
+###### Artigo 3.º — Objectivos
+
+As ajudas previstas neste capítulo visam a recuperação e valorização do património, da paisagem e dos núcleos populacionais em meio rural, através da elaboração e da execução de planos de intervenção abrangendo operações de:
+
+a) Requalificação de espaços públicos em pequenos aglomerados populacionais rurais;
+
+b) Recuperação de construções rurais de traça tradicional, nomeadamente de instalações relacionadas com actividades agrícolas e florestais;
+
+c) Preservação e valorização paisagística dos espaços rurais;
+
+d) Dinamização de espaços agro-florestais para fins lúdicos e ou pedagógicos relacionados com as actividades económicas em meio rural e melhoramento das condições de acesso aos locais de interesse colectivo;
+
+e) Criação de espaços museológicos de temática rural.
+
+###### Artigo 4.º — Definições
+
+Para efeitos do presente Regulamento, entende-se por:
+
+a) Pequeno aglomerado populacional rural - espaço territorial contínuo fortemente dependente da actividade agrícola e florestal, com uma população residente igual ou inferior a 2000 habitantes;
+
+b) Plano de intervenção (PI) - instrumento operacional de intervenção com uma duração máxima de três anos, para um pequeno aglomerado populacional rural, contendo, nomeadamente, a delimitação e caracterização da zona de intervenção, o diagnóstico da situação, a definição dos objectivos a atingir e as medidas e acções a realizar, a definição da estrutura de suporte responsável pela dinamização e execução do plano e pelo seu acompanhamento e avaliação, a programação financeira e o calendário previsional de concretização e os indicadores de acompanhamento e de resultados;
+
+c) Entidades promotoras dos PI - entidades que, isolada ou conjuntamente, promovem a elaboração e apresentação do PI, asseguram a respectiva dinamização, divulgação, acompanhamento e avaliação.
+
+###### Artigo 5.º — Beneficiários
+
+Podem beneficiar das ajudas previstas neste capítulo:
+
+a) Preparação, divulgação, dinamização, acompanhamento e avaliação dos PI - as seguintes entidades, isolada ou conjuntamente:
+
+i) Associações de desenvolvimento regional e local;
+
+ii) Agricultores e produtores florestais e respectivas organizações;
+
+iii) Autarquias locais e outras entidades públicas;
+
+iv) Pessoas colectivas de direito privado sem fins lucrativos;
+
+b) Elaboração e concretização de projectos e obras enquadráveis nos PI - todas as pessoas singulares ou colectivas.
+
+###### Artigo 6.º — Condições de acesso
+
+1 - O acesso às ajudas previstas neste capítulo desenvolve-se em duas fases consecutivas:
+
+a) 1.ª fase: apresentação e aprovação do PI;
+
+b) 2.ª fase: apresentação e aprovação dos projectos de investimento enquadrados nos PI.
+
+2 - As candidaturas às presentes ajudas têm de cumprir as seguintes condições:
+
+a) Os PI devem apresentar uma estimativa global de despesas de valor igual ou inferior a 1000000 de euros;
+
+b) Para um mesmo espaço territorial não pode haver mais de um PI durante a vigência do III Quadro Comunitário de Apoio e não são admitidas sobreposições entre espaços territoriais integrados em diferentes PI;
+
+c) O custo total dos investimentos privados previstos nos PI deverá representar pelo menos 25% da despesa global programada;
+
+d) Nos casos de candidaturas subscritas por várias entidades, deve ser celebrado protocolo entre elas, no qual, nomeadamente, seja indicada a entidade que as representa.
+
+###### Artigo 7.º — Forma e valor das ajudas
+
+1 - As ajudas são concedidas sob a forma de incentivo não reembolsável, em função das despesas elegíveis, no valor de:
+
+a) 100% para as despesas de elaboração, divulgação, dinamização, acompanhamento e avaliação dos PI;
+
+b) 100% para os investimentos de interesse colectivo promovidos por entidades públicas e despesas de elaboração dos respectivos projectos;
+
+c) 75% para os investimentos de interesse colectivo promovidos por entidades colectivas de carácter privado sem fins lucrativos e despesas de elaboração dos respectivos projectos;
+
+d) 50% para os investimentos privados, incluindo as despesas de elaboração dos respectivos projectos.
+
+2 - No caso previsto na alínea b) do n.º 1, a contrapartida nacional do financiamento é suportada pelo beneficiário.
+
+3 - A ajuda prevista na alínea d) do n.º 1 é atribuída até ao limite de (euro) 25000 por beneficiário.
+
+> Alterado pelo/a Artigo 12.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20.
+
+###### Artigo 8.º — Despesas elegíveis
+
+1 - No âmbito do presente regime de ajudas são elegíveis as seguintes despesas:
+
+a) Custos de elaboração, divulgação, dinamização, acompanhamento e avaliação do PI;
+
+b) Custos de elaboração dos projectos de investimento enquadrados no PI;
+
+c) Construção, beneficiação e recuperação de infra-estruturas colectivas e criação de zonas de lazer e espaços verdes;
+
+d) Recuperação e beneficiação do património rural de interesse colectivo;
+
+e) Recuperação de fachadas de edifícios de traça tradicional;
+
+f) Recuperação ou reconversão de edificações e seu apetrechamento para dinamização de actividades culturais em meio rural;
+
+g) Preservação e valorização paisagística dos espaços agrícolas e florestais abrangidos pelo PI;
+
+h) Melhoria do espaço envolvente do núcleo populacional beneficiário do PI, quando associados a candidaturas individuais ao grupo II das medidas agro-ambientais do plano de desenvolvimento rural;
+
+i) Construção ou recuperação de passagens, zonas pedonais, itinerários, muros de protecção e sinalética de locais de interesse.
+
+2 - Sem prejuízo das limitações impostas nos normativos comunitários aplicáveis, designadamente no Regulamento (CE) n.º 1685/2000, da Comissão, de 28 de Julho, são igualmente elegíveis as despesas gerais e imprevistas, até ao limite de 10% das despesas previstas na alínea a) do número anterior, quando se trate de candidaturas de entidades promotoras de PI.
+
+3 - As despesas de funcionamento e as remunerações do pessoal dos organismos da Administração Pública não são elegíveis.
+
+4 - As despesas referidas na alínea a) do n.º 1 são elegíveis até ao limite de 10% da despesa global prevista no PI.
+
+> Alterado pelo/a Artigo 12.º do/a [Portaria n.º 1103-B/2001 - Diário da República n.º 215/2001, 2º Suplemento, Série I-B de 2001-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), em vigor a partir de 2001-09-20.
+
+###### Artigo 9.º — Apresentação das candidaturas
+
+1 - As candidaturas são formalizadas através da apresentação de um formulário próprio e demais documentos indicados nas respectivas instruções.
+
+2 - No caso de projectos de investimento, a candidatura é, também, acompanhada de um parecer técnico e de enquadramento da entidade promotora do PI.
+
+3 - As candidaturas são apresentadas, ao longo de todo o ano, nas direcções regionais de agricultura (DRA) competentes.
+
+###### Artigo 10.º — Análise das candidaturas
+
+A análise das candidaturas compete ao coordenador da medida AGRIS, que as remeterá ao gestor da intervenção operacional regional, nos termos do disposto no artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+###### Artigo 11.º — Parecer da unidade de gestão
+
+O gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão.
+
+###### Artigo 12.º — Decisão sobre as candidaturas
+
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+2 - (Revogado.)
+
+3 - São recusadas as candidaturas que não reúnam todas as condições estabelecidas neste Regulamento, bem como as que não sejam aprovadas, por insuficiência orçamental, em três períodos de decisão consecutivos.
+
+4 - As candidaturas são aprovadas em função da dotação orçamental.
+
+5 - As candidaturas serão hierarquizadas, tendo em conta as seguintes prioridades:
+
+a) PI e projectos de investimento apresentados em simultâneo;
+
+b) Candidaturas apresentadas por organizações de agricultores e produtores florestais e por associações de desenvolvimento local ou regional;
+
+c) PI e projectos de investimento com maior importância relativa de promotores privados.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1043/2003 - Diário da República n.º 219/2003, Série I-B de 2003-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808), em vigor a partir de 2003-09-27.
+
+###### Artigo 13.º — Contrato de atribuição das ajudas
+
+1 - A atribuição das ajudas faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), no prazo máximo de 30 dias a contar da data da notificação ao interessado e àquele Instituto da aprovação da candidatura.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1043/2003 - Diário da República n.º 219/2003, Série I-B de 2003-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808), em vigor a partir de 2003-09-27.
+
+###### Artigo 14.º — Realização dos PI
+
+1 - O PI deve ser concretizado de acordo, designadamente, com os objectivos e intervenções propostas e o calendário estabelecido.
+
+2 - O coordenador da Medida AGRIS pode, em casos devidamente fundamentados, conceder a prorrogação do prazo de realização do PI.
+
+3 - A não apresentação de candidaturas de projectos de investimento constantes do PI no prazo de seis meses contados da data da comunicação da aprovação deste implica a rescisão do contrato de atribuição de ajudas, devendo todas as candidaturas ser apresentadas no prazo de um ano a contar da mesma data.
+
+4 - No caso dos PI já aprovados, o prazo de um ano referido no número anterior é contado da data da entrada em vigor da presente portaria.
+
+> Nota: [2.º, Portaria n.º 903/2006 - Diário da República n.º 170/2006, Série I de 2006-09-04](https://diariodarepublica.pt/dr/detalhe/portaria/903-2006-540002) A alteração ao presente artigo aplica-se aos contratos celebrados após 1 de Dezembro de 2001.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 903/2006 - Diário da República n.º 170/2006, Série I de 2006-09-04](https://diariodarepublica.pt/dr/detalhe/portaria/903-2006-540002), em vigor a partir de 2006-09-05.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1043/2003 - Diário da República n.º 219/2003, Série I-B de 2003-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808), em vigor a partir de 2003-09-27 00:00:00.
+
+###### Artigo 15.º — Realização dos investimentos
+
+1 - Os investimentos devem ser realizados de acordo com o respectivo projecto e ter início no prazo máximo de três meses após a assinatura do contrato de atribuição das ajudas.
+
+2 - O coordenador da Medida AGRIS pode, em casos devidamente fundamentados, conceder a prorrogação dos prazos de início e de realização dos projectos de investimento.
+
+> Nota: [2.º, Portaria n.º 903/2006 - Diário da República n.º 170/2006, Série I de 2006-09-04](https://diariodarepublica.pt/dr/detalhe/portaria/903-2006-540002) A alteração ao presente artigo aplica-se aos contratos celebrados após 1 de Dezembro de 2001.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 903/2006 - Diário da República n.º 170/2006, Série I de 2006-09-04](https://diariodarepublica.pt/dr/detalhe/portaria/903-2006-540002), em vigor a partir de 2006-09-05.
+
+###### Artigo 16.º — Alterações ao PI e aos projectos
+
+As alterações aos projectos serão apreciadas e decididas de acordo com o processo de decisão estabelecido.
+
+###### Artigo 17.º — Pagamento das ajudas
+
+1 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos das cláusulas contratuais.
+
+2 - Os pedidos de pagamento são apresentados através das direcções regionais de agricultura ao coordenador da medida, que, após análise dos mesmos, procede ao envio de um recapitulativo das despesas ao IFADAP, conforme formulário predefinido, com base no qual este procede ao processamento das ajudas.
+
+3 - Podem ser estabelecidos contratualmente mecanismos de adiantamento das ajudas às entidades promotoras dos PI, nos termos e condições previstas no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.
+
+4 - O pagamento das despesas relativas ao acompanhamento e avaliação dos PI são efectuados, anualmente e na proporção da taxa de execução, às entidades promotoras dos PI.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1043/2003 - Diário da República n.º 219/2003, Série I-B de 2003-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808), em vigor a partir de 2003-09-27.
+
+### Capítulo III — Conservação do ambiente e dos recursos naturais
+
+###### Artigo 18.º — Objectivos
+
+As ajudas previstas neste capítulo visam apoiar a requalificação ambiental em áreas de interface com as explorações agrícolas e as agro-industriais, num quadro de intervenções de carácter colectivo, assegurando o pré-tratamento e o destino adequado dos efluentes de origem agro-pecuária e agro-industrial.
+
+###### Artigo 19.º — Beneficiários
+
+1 - Podem beneficiar das ajudas previstas neste capítulo todas as pessoas singulares ou colectivas, de direito público ou privado, que promovam projectos de carácter ou interesse colectivo de requalificação e adaptação ambiental.
+
+2 - As condições que determinam a qualificação dos projectos como de interesse colectivo são objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 9-L/2001 - Diário da República n.º 77/2001, 3º Suplemento, Série I-B de 2001-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-l-2001-621321), com efeitos a partir de 2001-01-31.
+
+###### Artigo 20.º — Condições de acesso das candidaturas
+
+Para acesso às presentes ajudas têm de ser satisfeitas as seguintes condições:
+
+a) Apresentação de um projecto de requalificação e adaptação ambiental, devidamente fundamentado e enquadrado na legislação aplicável;
+
+b) Integração numa acção de requalificação ambiental de carácter colectivo com incidência particular no pré-tratamento de efluentes;
+
+c) Identificação das explorações agrícolas e das agro-indústrias a beneficiar.
+
+###### Artigo 21.º — Forma e valor das ajudas
+
+1 - As ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 75% das despesas elegíveis, até ao limite de 37500 euros por beneficiário.
+
+2 - Por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas podem ser estabelecidos outros valores e limites das ajudas.
+
+###### Artigo 22.º — Despesas elegíveis
+
+No âmbito deste capítulo são elegíveis as seguintes despesas:
+
+a) Elaboração do projecto de requalificação ambiental;
+
+b) Construção e adaptação de instalações e aquisição de equipamentos, desde que enquadrados num projecto de requalificação e adaptação ambiental.
+
+###### Artigo 23.º — Apresentação das candidaturas
+
+1 - As candidaturas são formalizadas através da apresentação de formulário próprio, devendo este ser acompanhado dos documentos indicados nas respectivas instruções.
+
+2 - As candidaturas são apresentadas, ao longo de todo o ano, nas direcções regionais de agricultura (DRA) competentes.
+
+###### Artigo 24.º — Análise das candidaturas
+
+A análise das candidaturas compete ao coordenador da medida AGRIS, que as remete ao gestor da intervenção operacional regional, nos termos do disposto no artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+###### Artigo 25.º — Parecer da unidade de gestão
+
+As propostas de decisão sobre as candidaturas são submetidas a parecer da unidade de gestão.
+
+###### Artigo 26.º — Decisão sobre as candidaturas
+
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+2 - (Revogado.)
+
+3 - São recusadas as candidaturas que não reúnam todas as condições estabelecidas neste Regulamento, bem como as que não sejam aprovadas, por insuficiência orçamental, em três períodos de decisão consecutivos.
+
+4 - As candidaturas são aprovadas em função da dotação orçamental.
+
+5 - As candidaturas serão hierarquizadas, tendo em conta os seguintes critérios:
+
+a) Nível de degradação ambiental da zona onde se pretendem realizar os investimentos;
+
+b) Nível do impacte do projecto de requalificação e adaptação ambiental, medida, nomeadamente, pela importância relativa das explorações agrícolas e das unidades agro-industriais a beneficiar.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1043/2003 - Diário da República n.º 219/2003, Série I-B de 2003-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808), em vigor a partir de 2003-09-27.
+
+###### Artigo 27.º — Contrato de atribuição das ajudas
+
+1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o IFADAP e o beneficiário, no prazo máximo de 30 dias a contar da data da notificação ao interessado e àquele Instituto da aprovação da respectiva candidatura.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1043/2003 - Diário da República n.º 219/2003, Série I-B de 2003-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808).
+
+###### Artigo 28.º — Obrigações dos beneficiários
+
+Constituem, nomeadamente, obrigações dos beneficiários:
+
+a) Executar o projecto de acordo com o calendário proposto;
+
+b) Aplicar a ajuda exclusivamente na realização do projecto, tendo em vista o cumprimento integral dos objectivos que fundamentaram a sua atribuição;
+
+c) Cumprir a legislação ambiental e demais legislação aplicável;
+
+d) Assegurar a exploração e a conservação das instalações e dos equipamentos após a conclusão do projecto durante um período mínimo de 10 anos.
+
+###### Artigo 29.º — Execução do projecto
+
+1 - Os projectos devem ter início e estar concluídos nos prazos estabelecidos no contrato de atribuição de ajudas.
+
+2 - O coordenador da medida AGRIS pode, em casos excepcionais devidamente fundamentados, conceder uma prorrogação do prazo de realização do projecto, no máximo, por mais um ano.
+
+###### Artigo 30.º — Alterações ao projecto
+
+As alterações aos projectos serão apreciadas e decididas de acordo com o processo de decisão estabelecido.
+
+###### Artigo 31.º — Pagamento das ajudas
+
+1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.
+
+2 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida AGRIS, que, após análise dos mesmos, procederá ao envio de um recapitulativo das despesas ao IFADAP, conforme formulário predefinido, com base no qual este procederá ao processamento das ajudas.
+
+3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e nas condições previstas no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1043/2003 - Diário da República n.º 219/2003, Série I-B de 2003-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808), em vigor a partir de 2003-09-27.
+
+###### Artigo 32.º — Despesas já realizadas
+
+As despesas efectuadas a partir de 19 de Novembro de 1999 poderão ser consideradas elegíveis, desde que os proponentes apresentem a respectiva candidatura no prazo de 60 dias contados a partir da data de entrada em vigor deste Regulamento.
+
+> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 1043/2003 - Diário da República n.º 219/2003, Série I-B de 2003-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/1043-2003-499808), em vigor a partir de 2003-09-27.

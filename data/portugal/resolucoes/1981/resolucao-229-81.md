@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:568527:por
+title: Resolução n.º 229/81
+short_title: null
+summary: Aprova a localização proposta pelo grupo de trabalho para a nova ponte ferroviária sobre o rio Douro, no Porto
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 229/81
+official_date: null
+publication_date: '1981-11-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 260/1981, Série I de 1981-11-11
+  number: '260'
+  series: I
+  supplement: null
+  pages: 2983 - 2984
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26000/29832984.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '568527'
+  dre_path: /dr/detalhe/resolucao/229-1981-568527
+  internal: pt:dre:568527:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/229-1981-568527
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/229-1981-568527
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:39:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 91c35df30f73374b79b52a6fa09dcabac02c633fbad1a678fd96daea129de713
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:39:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ponte
+- Porto
+- RIO Douro
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:39:46Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 229/81
+
+A construção de uma ponte ferroviária de via dupla sobre o rio Douro, no Porto, é uma necessidade sentida desde há vários anos, sendo imprescindível para uma exploração racional e para o estabelecimento de ligações ferroviárias adequadas entre toda a Região Norte e o resto do País.
+
+De facto, a actual Ponte de D. Maria Pia, de via única, construída há 100 anos, tem hoje um tráfego intenso, que já não responde, minimamente, aos requisitos da procura, quer em volume, quer em qualidade. Ela constitui um forte estrangulamento de carga, velocidade e capacidade de custos económicos e sociais elevados.
+
+Por variadas razões o arranque da construção dessa nova ponte ferroviária de via dupla tem sido constantemente protelado, enquanto as necessidades das populações, em matéria de transportes, têm crescido inexoravelmente. Neste momento, e devido às indecisões do passado, não é possível oferecer às populações do Minho, Douro e Trás-os-Montes as frequências de comboios rápidos e directos de passageiros e de mercadorias de que carecem.
+
+Daí que, pela Resolução do Conselho de Ministros n.º 28/81, de 6 de Fevereiro, se tenha explicitado, de forma bem clara, a decisão de se construir uma nova ponte ferroviária sobre o rio Douro e remetido para o grupo de trabalho o estudo da opção do seu traçado, entre as várias hipóteses existentes, tendo em conta as razões que levaram à sua formulação.
+
+No relatório apresentado pelo referido grupo de trabalho propõe-se a implantação da nova ponte ferroviária, por razões estéticas e por realidades físicas existentes, numa faixa próxima do traçado China II.
+
+Verifica-se, também, que não existe qualquer dúvida quanto à necessidade urgente de se construir uma nova ponte sobre o rio Douro, como meio indispensável para a racionalização da exploração ferroviária e para o bem-estar das populações, sobretudo das que se situam em toda a Região Norte.
+
+A sua construção permitirá, também, uma melhor viabilização de projectos industriais, nomeadamente o projecto de Moncorvo.
+
+A eventual construção de uma nova travessia rodoviária é aspecto que não se encontra, porém, ainda suficientemente clarificado quanto à data da sua construção.
+
+Nestes termos, o Conselho de Ministros, reunido em 22 de Outubro de 1981, resolveu:
+
+a) Aprovar a localização proposta pelo grupo de trabalho para a nova ponte ferroviária sobre o rio Douro;
+
+b) Incumbir o Ministro da Habitação, Obras Públicas e Transportes de preparar e apresentar ao Conselho de Ministros, com urgência, um projecto de decreto-lei, criando e definindo as atribuições de um gabinete, com o objectivo de levar a cabo, de forma muito dinâmica e eficiente, todas as acções relacionadas com a construção da nova ponte ferroviária sobre o rio Douro;
+
+c) Determinar a inclusão deste investimento no PIDDAC 1982 e anos seguintes até à total concretização da obra;
+
+d) Fixar o final do 1.º semestre de 1982 como prazo limite para a adjudicação e início da obra;
+
+e) Indicar como prazo desejável para a conclusão da construção da nova ponte o final de 1984;
+
+f) Mandar prosseguir com urgência os estudos de tráfego rodoviário determinantes da construção de uma nova travessia rodoviária na zona do Porto, de modo a poderem superar-se em tempo útil as dificuldades já sentidas resultantes do intenso tráfego existente entre o Porto e Gaia.
+
+Presidência do Conselho de Ministros, 22 de Outubro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

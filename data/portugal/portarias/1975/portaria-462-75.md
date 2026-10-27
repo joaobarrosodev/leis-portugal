@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:336361:por
+title: Portaria n.º 462/75
+short_title: null
+summary: Altera a designação da categoria de técnico especialista para a de técnico principal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 462/75
+official_date: null
+publication_date: '1975-07-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 172/1975, Série I de 1975-07-28
+  number: '172'
+  series: I
+  supplement: null
+  pages: 1047 - 1047
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/07/17200/10471047.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '336361'
+  dre_path: /dr/detalhe/portaria/462-1975-336361
+  internal: pt:dre:336361:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-1975-336361
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-1975-336361
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:47:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1a10c462d432d5a41fcd2b57f4ed82a297c9dcf256d0b945c0cb9151ddd67787
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Carreira Técnica Superior
+- Formas de Provimento
+- Reestruturação de Carreiras
+- Secretariado da Administração Pública
+relationships:
+- type: cites
+  target: pt:dre:400845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675638:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:47:19Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 462/75
+
+de 28 de Julho
+
+Considerando que as regras constantes dos artigos 3.º a 6.º do [Decreto-Lei n.º 147/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1973-675638), de 5 de Abril, se configuram inteiramente inadequadas ao provimento dos lugares de técnico especialista do ex-Secretariado da Administração Pública:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, ao abrigo do disposto no n.º 2 do artigo 8.º do mesmo diploma legal, o seguinte:
+
+A categoria de técnico especialista, criada pelo [Decreto-Lei n.º 48058](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48058-1967-400845), de 23 de Novembro de 1967, e mantida pelo [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio, passe a designar-se como técnico principal.
+
+Ministério da Administração Interna, 14 de Julho de 1975. - O Ministro da Administração Interna, António Carlos Magalhães Arnão Metelo.

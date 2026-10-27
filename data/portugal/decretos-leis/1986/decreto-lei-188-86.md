@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:228046:por
+title: Decreto-Lei n.º 188/86
+short_title: null
+summary: Dá nova redacção ao n.º 3 do artigo 1.º e adita um n.º 6 ao artigo 3.º do Decreto-Lei n.º 353-J/77, de 29 de Agosto,
+  que permite aos bancos comerciais efectuarem operações de crédito a médio e longo prazos que resultam da aplicação de capitais
+  alheios
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 188/86
+official_date: null
+publication_date: '1986-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/1986, Série I de 1986-07-15
+  number: '160'
+  series: I
+  supplement: null
+  pages: 1716 - 1716
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/07/16000/17161716.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '228046'
+  dre_path: /dr/detalhe/decreto-lei/188-1986-228046
+  internal: pt:dre:228046:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1986-228046
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1986-228046
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:12:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b71c0212479e6eb74486181c8b312b94bb46fe47df09f537e23429b81d15bd73
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:12:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Banco Comercial
+- Crédito a Longo Prazo
+- Crédito a Médio Prazo
+relationships:
+- type: cites
+  target: pt:dre:240855:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:12:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 188/86
+
+de 15 de Julho
+
+É objectivo prioritário orientar a poupança captada pelas instituições de crédito para o aumento da capacidade produtiva, nomeadamente no domínio da agricultura.
+
+Há também que apoiar os projectos de desenvolvimento regional, incentivando a aplicação do crédito bancário em zonas prioritárias, procedendo-se a um aproveitamento mais eficaz do crédito das instituições internacionais e conciliando ainda o período de financiamento dos referidos projectos com o da sua vida útil.
+
+Por outro lado, o recente alargamento aos bancos comerciais da possibilidade de concessão de crédito a longo prazo justifica a necessária adequação do [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855), de 29 de Agosto.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º O n.º 3 do artigo 1.º do [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855), de 29 de Agosto, passa a ter a seguinte redacção:
+
+3 - As operações de crédito a longo prazo não poderão exceder dez anos, excepto para os fins previstos nos n.os 5 e 6 do artigo 3.º deste decreto-lei, casos em que vigorará o limite de 25 anos.
+
+Art. 2.º É aditado ao artigo 3.º do mesmo [Decreto-Lei n.º 353-J/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-j-1977-240855) um n.º 6 com a seguinte redacção:
+
+6 - São ainda abrangidas por este diploma as operações de crédito realizadas no âmbito de programas de desenvolvimento regional que correspondam à utilização de financiamentos externos, desde que essas operações sejam susceptíveis de refinanciamento junto do Banco de Portugal, Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas ou outras instituições que façam refinanciamento.
+
+Visto e aprovado em Conselho de Ministros de 28 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+Promulgado em 22 de Junho de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 30 de Junho de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

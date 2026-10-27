@@ -1,0 +1,770 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0059:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0059-20190627",
+ "dre_path": null,
+ "source_lastmod": "2019-06-27",
+ "versions": [
+  {
+   "date": "2000-12-28",
+   "future": false,
+   "celex": "32000L0059",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5ec257ba239fa185",
+    "a70a4da87c5274ab",
+    "d0a29d533c7b5c5a",
+    "afced005931f8f13",
+    "7bc1c7fb5ce15acf",
+    "213ab6fea560658e",
+    "435aff394378d271",
+    "49a2121c01bf242a",
+    "f929a1ed40eeb4ff",
+    "bab614f9d7c98836",
+    "c85f67de7f2efab5",
+    "0bb572841bc1fbb7",
+    "de96ea9ea2db76a1",
+    "fbfa633e75eed568",
+    "9560e0c22f5142e5",
+    "c0164ce46fd88b42",
+    "4d16a90ad981a3a0",
+    "ab971641ea9470b3",
+    "c1d432f405f62b7b",
+    "e4fa21816ac1ff5a",
+    "27c9503097ba9dd3",
+    "b98698b6e76fe877"
+   ]
+  },
+  {
+   "date": "2007-12-15",
+   "future": false,
+   "celex": "02000L0059-20071215",
+   "acts": [
+    {
+     "id": "eu:celex:32002L0084:por",
+     "title": "DIRECTIVA 2002/84/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Novembro de 2002",
+     "published": null,
+     "celex": "32002L0084"
+    },
+    {
+     "id": "eu:celex:32007L0071:por",
+     "title": "DIRECTIVA 2007/71/CE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de Dezembro de 2007",
+     "published": null,
+     "celex": "32007L0071"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 12.º — Medidas de acompanhamento",
+    "Altera Artigo 14.º — Comité de regulamentação",
+    "Altera Artigo 15.º — Procedimento de alteração",
+    "Altera Artigo 19.º — Destinatários",
+    "Adita ANEXO I",
+    "Adita PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS",
+    "Adita (referidas no artigo 5.º)",
+    "Adita Informação a disponibilizar aos utilizadores do porto:",
+    "Adita ANEXO II",
+    "Adita INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE",
+    "Adita Notas:",
+    "Adita Notas",
+    "Suprime ANEXO I — PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS",
+    "Suprime ANEXO II — >PIC FILE= \"L_2000332PT.008802.EPS\">"
+   ],
+   "fragments": [
+    "00e5b5c8e6a1dccf",
+    "a70a4da87c5274ab",
+    "03644da3b40ad725",
+    "afced005931f8f13",
+    "465f793a48b3a393",
+    "17cd3dec429e3d17",
+    "deac47775a5060b0",
+    "2a15e5ade7933218",
+    "f0f0fcab33132432",
+    "ee441d530b3b8e67",
+    "c85f67de7f2efab5",
+    "96ec6af785da6ff5",
+    "541718bcafe06056",
+    "fbfa633e75eed568",
+    "02b2fe78e61a6d0b",
+    "9ca95aaa654cfbcf",
+    "3a07e2e3915a7ca1",
+    "c8a9df04efccf348",
+    "44f17340a00d3136",
+    "b33e5d35a5fa15e1",
+    "d664376e2a8dcecd",
+    "a8b6fd68efa63054",
+    "1c2f4c084268f5a5",
+    "e643319036fe7291",
+    "852174729551523b",
+    "df3beec7e20ec414",
+    "1d9e8e7b00ca20bb",
+    "d183718cc881f228"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02000L0059-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO DE22 de Outubro de 2008 que adapta à Decisão 1999/468/CE do Conselho certos actos sujeitos ao procedimento previsto no artigo 251. o do Tratado, no que se refere ao procedimento de regulamentação com controlo",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 12.º — Medidas de acompanhamento",
+    "Altera Artigo 15.º — Procedimento de alteração",
+    "Altera (referidas no artigo 5.º)",
+    "Altera INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE",
+    "Altera Notas",
+    "Adita Artigo 14.º — Procedimento de comité",
+    "Suprime Artigo 14.º — Comité de regulamentação"
+   ],
+   "fragments": [
+    "a0471ac435f32c16",
+    "a70a4da87c5274ab",
+    "a988e8316a7a9a14",
+    "afced005931f8f13",
+    "465f793a48b3a393",
+    "17cd3dec429e3d17",
+    "deac47775a5060b0",
+    "2a15e5ade7933218",
+    "f0f0fcab33132432",
+    "ee441d530b3b8e67",
+    "c85f67de7f2efab5",
+    "96ec6af785da6ff5",
+    "869e34981fcb9aa0",
+    "fbfa633e75eed568",
+    "35114c15ec9a6b39",
+    "cb7918be62bd8dd0",
+    "3a07e2e3915a7ca1",
+    "c8a9df04efccf348",
+    "44f17340a00d3136",
+    "b33e5d35a5fa15e1",
+    "d664376e2a8dcecd",
+    "a8b6fd68efa63054",
+    "c90ebcdca7c94a6e",
+    "e643319036fe7291",
+    "852174729551523b",
+    "2c92bece3f64caa2",
+    "1d9e8e7b00ca20bb",
+    "325ae72b84b06795"
+   ]
+  },
+  {
+   "date": "2015-12-09",
+   "future": false,
+   "celex": "02000L0059-20151209",
+   "acts": [
+    {
+     "id": "eu:celex:32015L2087:por",
+     "title": "DIRETIVA (UE) 2015/2087 DA COMISSÃO Texto relevante para efeitos do EEE de 18 de novembro de 2015",
+     "published": null,
+     "celex": "32015L2087"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 12.º — Medidas de acompanhamento",
+    "Altera Artigo 14.º — Procedimento de comité",
+    "Altera (referidas no artigo 5.º)",
+    "Altera Notas",
+    "Adita INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE …",
+    "Adita (Porto de destino a que se faz referência no artigo 6.º da Diretiva 2000/59/CE)",
+    "Suprime INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE",
+    "Suprime Notas:"
+   ],
+   "fragments": [
+    "a35111f2fc14e079",
+    "a70a4da87c5274ab",
+    "389b9e1c25a47147",
+    "afced005931f8f13",
+    "465f793a48b3a393",
+    "17cd3dec429e3d17",
+    "deac47775a5060b0",
+    "2a15e5ade7933218",
+    "f0f0fcab33132432",
+    "ee441d530b3b8e67",
+    "c85f67de7f2efab5",
+    "96ec6af785da6ff5",
+    "88205b421940dcaf",
+    "fbfa633e75eed568",
+    "3d515f177fb3d7df",
+    "cb7918be62bd8dd0",
+    "3a07e2e3915a7ca1",
+    "c8a9df04efccf348",
+    "44f17340a00d3136",
+    "b33e5d35a5fa15e1",
+    "d664376e2a8dcecd",
+    "a8b6fd68efa63054",
+    "d7ff48bcd37ab9b4",
+    "e643319036fe7291",
+    "852174729551523b",
+    "c3d771d99ec74961",
+    "f76cc50d68bdaf8b",
+    "e1f892166221740c",
+    "57b133093f4e83b5"
+   ]
+  },
+  {
+   "date": "2019-06-27",
+   "future": false,
+   "celex": "02000L0059-20190627",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivo",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Âmbito",
+    "Suprime Artigo 4.º — Meios portuários de recepção",
+    "Suprime Artigo 5.º — Planos de recepção e gestão dos resíduos",
+    "Suprime Artigo 6.º — Notificação",
+    "Suprime Artigo 7.º — Entrega dos resíduos gerados em navios",
+    "Suprime Artigo 8.º — Taxas sobre os resíduos gerados em navios",
+    "Suprime Artigo 9.º — Isenções",
+    "Suprime Artigo 10.º — Entrega dos resíduos da carga",
+    "Suprime Artigo 11.º — Aplicação",
+    "Suprime Artigo 12.º — Medidas de acompanhamento",
+    "Suprime Artigo 13.º — Sanções",
+    "Suprime Artigo 14.º — Procedimento de comité",
+    "Suprime Artigo 15.º — Procedimento de alteração",
+    "Suprime Artigo 16.º — Transposição",
+    "Suprime Artigo 17.º — Avaliação",
+    "Suprime Artigo 18.º — Entrada em vigor",
+    "Suprime Artigo 19.º — Destinatários",
+    "Suprime ANEXO I",
+    "Suprime PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS",
+    "Suprime (referidas no artigo 5.º)",
+    "Suprime Informação a disponibilizar aos utilizadores do porto:",
+    "Suprime ANEXO II",
+    "Suprime INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE …",
+    "Suprime (Porto de destino a que se faz referência no artigo 6.º da Diretiva 2000/59/CE)",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1b27d733f3e65f2d"
+   ]
+  }
+ ],
+ "fragments": {
+  "5ec257ba239fa185": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/59/CE do Parlamento Europeu e do Conselho, de 27 de Novembro de 2000, relativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga - Declaração da Comissão** *Jornal Oficial nº L 332 de 28/12/2000 p. 0081 - 0090*\n\nDirectiva 2000/59/CE do Parlamento Europeu e do Conselho\n\nde 27 de Novembro de 2000\n\nrelativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 80.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nDeliberando nos termos do artigo 251.o do Tratado(4), à luz do projecto comum aprovado pelo Comité de Conciliação em 18 de Julho de 2000,\n\nConsiderando o seguinte:\n\n(1) A política comunitária para o ambiente visa um nível de protecção elevado. Ela baseia-se nos princípios da precaução, do poluidor-pagador e da acção preventiva.\n\n(2) Um importante domínio da acção comunitária no sector dos transportes marítimos diz respeito à redução da poluição dos oceanos. Pode conseguir-se tal objectivo dando cumprimento às convenções, códigos e resoluções internacionais, preservando simultaneamente a liberdade de navegação estabelecida pela Convenção das Nações Unidas sobre o Direito do Mar e a liberdade de prestação de serviços estabelecida pela legislação comunitária.\n\n(3) A Comunidade está seriamente preocupada com a poluição dos mares e costas dos Estados-Membros causada por descargas de resíduos de navios e de resíduos da carga e, em especial, com a aplicação da Convenção Internacional para a Prevenção da Poluição por Navios de 1973, alterada pelo Protocolo de 1978 (Marpol 73/78), que define que resíduos os navios podem descarregar para o meio marinho e requer que os Estados partes asseguram a disponibilidade de meios de recepção adequados nos portos. Todos os Estados-Membros ratificaram a Marpol 73/78.\n\n(4) Pode aumentar-se a protecção do meio marinho reduzindo as descargas no mar de resíduos gerados em navios e de resíduos da carga. Tal pode conseguir-se melhorando a disponibilidade e a utilização dos meios de recepção e melhorando o regime de aplicação. Na sua Resolução, de 8 de Junho de 1993, sobre uma política comum de segurança marítima(5), o Conselho incluiu entre as suas acções prioritárias o desenvolvimento da disponibilidade e da utilização dos meios de recepção na Comunidade.\n\n(5) A Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os portos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida de trabalho a bordo dos navios (inspecção pelo Estado do porto)(6), estabelece que os navios que representem um risco irrazoável de danos para o meio marinho não devem ser autorizados a sair para o mar.\n\n(6) A poluição dos mares tem, por natureza, repercussões transnacionais; à luz do princípio da subsidiariedade, uma acção a nível comunitário constitui o modo mais eficaz de garantir normas ambientais comuns para os navios e portos em toda a Comunidade.\n\n(7) À luz do princípio da proporcionalidade, uma directiva constitui o instrumento jurídico adequado, visto proporcionar um quadro para a aplicação uniforme e vinculativa das normas ambientais pelos Estados-Membros, deixando-lhes, todavia, o direito de decidirem dos meios de aplicação que melhor se coadunem com o seu sistema interno.\n\n(8) Deve ser assegurada a coerência com os acordos regionais em vigor, como a Convenção para a Protecção do Meio Marinho na Zona do Mar Báltico, de 1974/1992.\n\n(9) Para reforçar a prevenção da poluição e evitar distorções da concorrência, as prescrições ambientais deverão aplicar-se a todos os navios, qualquer que seja o seu pavilhão e que devem ser disponibilizados meios de recepção adequados em todos os portos da Comunidade.\n\n(10) Os meios portuários de recepção adequados deverão satisfazer as necessidades dos utilizadores, do maior navio mercante à mais pequena embarcação de recreio, e do ambiente, sem causar atrasos indevidos aos navios que os utilizam. A obrigação de garantir a disponibilidade de meios portuários de recepção adequados deixa aos Estados-Membros uma grande margem de liberdade para organizar a recepção dos resíduos da forma mais conveniente, permitindo-lhes, designadamente, prever instalações de recepção fixas ou designar prestadores de serviços que tragam até aos portos unidades móveis para a recepção dos resíduos. Esta obrigação implica igualmente a obrigação de prever todos os serviços e/ou medidas de acompanhamento necessárias para o uso correcto e adequado desses meios.\n\n(11) A adequação dos meios pode ser melhorada através de planos actualizados de recepção e gestão estabelecidos em consulta com as partes interessadas.\n\n(12) A eficácia dos meios portuários de recepção pode ser melhorada exigindo que os navios notifiquem a sua necessidade de utilizar meios de recepção. Esta notificação deverá igualmente conter informações que possibilitem uma clarificação eficaz da gestão de resíduos. Os resíduos provenientes de navios de pesca e de embarcações de recreio com autorização para um máximo de doze passageiros podem ser geridos pelos meios portuários de recepção sem notificação prévia.\n\n(13) As descargas no mar de resíduos gerados em navios podem ser reduzidas exigindo que todos os navios entreguem os resíduos em meios portuários de recepção antes de deixarem o porto. A fim de conciliar o interesse do funcionamento normal dos transportes marítimos com a protecção do ambiente, deverão ser possíveis as excepções a esta imposição tomando-se em conta a adequação da capacidade máxima de armazenamento a bordo, a possibilidade de entrega noutro porto sem riscos de descarga no mar e as condições de entrega específicas adoptadas em conformidade com o direito internacional.\n\n(14) Em virtude do princípio do \"poluidor-pagador\", os custos dos meios portuários de recepção, incluindo o tratamento e eliminação dos resíduos gerados em navios, deverão ser cobertos pelo navio. Com o intuito de proteger o ambiente, o regime de taxas deverá incentivar a entrega nos portos de resíduos gerados em navios em vez da descarga no mar. Tal pode ser facilitado determinando-se que todos os navios contribuam para os custos da recepção e gestão dos resíduos gerados em navios de modo a reduzir os incentivos económicos à descarga no mar. Em virtude do princípio da subsidiariedade, os Estados-Membros deverão continuar a ser competentes para decidir, de acordo com a respectiva legislação nacional e com as práticas em vigor no seu território, se e em que medida as taxas relacionadas com as quantidades de resíduos efectivamente entregues pelos navios serão incorporadas nos sistemas de recuperação dos custos de utilização de meios portuários de recepção. As taxas pela utilização destes meios deverão ser equitativas, não discriminatórias e transparentes.\n\n(15) Os navios que produzam quantidades reduzidas de resíduos deverão ser tratados de modo mais favorável no que diz respeito aos sistemas de recuperação dos custos. A adopção de critérios comuns facilitaria a identificação de tais navios.\n\n(16) A fim de evitar encargos exagerados para as partes interessadas, os navios com escalas frequentes e regulares poderão ser dispensados de certas obrigações decorrentes da presente directiva desde que haja provas suficientes que existem disposições para assegurar a entrega dos resíduos e o pagamento de taxas.\n\n(17) Os resíduos da carga deverão ser entregues em meios portuários de recepção em conformidade com o disposto na Marpol 73/78. A Marpol 73/78 exige que os resíduos da carga sejam entregues a meios portuários de recepção, na medida do necessário para cumprir as disposições em matéria de limpeza dos tanques. Qualquer taxa cobrada por essa entrega deverá ser paga pelo utilizador do meio de recepção, sendo o utilizador habitualmente definido em disposições contratuais entre as partes interessadas ou noutras disposições de carácter local.\n\n(18) É necessário realizar inspecções orientadas para verificar o cumprimento da presente directiva. O número de inspecções, bem como as sanções aplicadas, deverão ser o suficiente para prevenir o incumprimento do disposto na presente directiva. Por uma questão de eficiência e de relação custo-eficácia, essas inspecções poderão ser realizadas no âmbito da Directiva 95/21/CE em casos adequados.\n\n(19) Os Estados-Membros deverão garantir um enquadramento administrativo adequado para o funcionamento correcto dos meios portuários de recepção; nos termos da Marpol 73/78, as alegações de insuficiência dos meios portuários de recepção devem ser transmitidas à Organização Marítima Internacional (OMI). Essas mesmas alegações poderão ser transmitidas simultaneamente à Comissão para informação.\n\n(20) Um sistema de informação para identificação dos navios poluidores ou potencialmente poluidores facilitaria a aplicação da presente directiva e contribuiria para a avaliação da sua execução. O sistema de informação SIRENAC, criado no âmbito do Memorando de Acordo de Paris para a Inspecção pelo Estado do Porto, fornece muita da informação adicional necessária para esse efeito.\n\n(21) É necessário que um comité composto de representantes dos Estados-Membros assista a Comissão na aplicação efectiva da presente directiva. As medidas necessárias à execução da presente directiva são medidas de âmbito geral na acepção do artigo 2.o da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(7), pelo que essas medidas devem ser aprovadas pelo procedimento de regulamentação a que se refere o artigo 5.o da referida decisão.\n\n(22) Certas disposições da presente directiva poderão, sem que se alargue o seu âmbito de aplicação, ser modificadas de acordo com aquele procedimento a fim de ter em conta disposições comunitárias ou da OMI que no futuro entrem em vigor, de modo a assegurar a sua aplicação harmonizada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "a70a4da87c5274ab": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo da presente directiva é reduzir as descargas no mar, especialmente as descargas ilegais, de resíduos gerados em navios e de resíduos da carga, provenientes de navios que utilizem os portos da Comunidade, mediante o melhoramento da disponibilidade e da utilização de meios portuários de recepção de resíduos gerados em navios e de resíduos da carga, aumentando, assim, a protecção do meio marinho."
+  },
+  "d0a29d533c7b5c5a": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) \"Navio\", uma embarcação de mar de qualquer tipo que opere no meio marinho, incluindo embarcações de sustentação dinâmica, veículos de sustentação por ar, submersíveis e estruturas flutuantes;\n\nb) \"Marpol 73/78\", a Convenção Internacional para a Prevenção da Poluição por Navios, de 1973, alterada pelo Protocolo de 1978, com a redacção em vigor à data de aprovação da presente directiva;\n\nc) \"Resíduos gerados em navios\", todos os resíduos, incluindo os esgotos sanitários, e os resíduos que não sejam resíduos da carga, produzidos no serviço de um navio e abrangidos pelos Anexos I, IV e V da Marpol 73/78, bem como os resíduos associados à carga, conforme definidos nas directrizes para a aplicação do Anexo V da Marpol 73/78;\n\nd) \"Resíduos da carga\", os restos das matérias transportadas como carga em porões ou tanques de carga que ficam das operações de descarga e das operações de limpeza, incluindo excedentes de carga/descarga e derrames;\n\ne) \"Meios portuários de recepção\", as estruturas fixas, flutuantes ou móveis aptas a receber resíduos gerados em navios ou resíduos da carga;\n\nf) \"Navio de pesca\", um navio equipado ou utilizado comercialmente para a captura de peixe ou outros recursos vivos do mar;\n\ng) \"Embarcação de recreio\", um navio de qualquer tipo, independentemente do meio de propulsão, utilizado para fins desportivos ou recreativos;\n\nh) \"Porto\", qualquer lugar ou área geográfica em que tenham sido efectuados trabalhos de beneficiação ou instalados equipamentos que permitam, principalmente, a recepção de navios, incluindo navios de pesca e embarcações de recreio.\n\nSem prejuízo das definições das alíneas c) e d), os \"resíduos gerados em navios\" e os \"resíduos da carga\" são considerados resíduos na acepção do disposto no n.o 1, alínea a), da Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos(8)."
+  },
+  "afced005931f8f13": {
+   "fragment_id": "Artigo 3.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nA presente directiva aplica-se a:\n\na) Todos os navios, incluindo os navios de pesca e as embarcações de recreio, qualquer que seja o seu pavilhão, que escalem ou operem num porto de um Estado-Membro, com excepção dos navios de guerra, das unidades auxiliares de marinha e dos navios pertencentes ou operados por um Estado e utilizados, no momento considerado, unicamente para fins de serviço público não comercial; e\n\nb) Todos os portos dos Estados-Membros habitualmente demandados pelos navios que se enquadram no âmbito da alínea a).\n\nOs Estados-Membros tomarão medidas que garantam que os navios excluídos do âmbito de aplicação da presente directiva em virtude da alínea a) entreguem os resíduos gerados a bordo e os resíduos da carga de maneira conforme ao disposto na presente directiva, desde que tal seja razoável e exequível."
+  },
+  "7bc1c7fb5ce15acf": {
+   "fragment_id": "Artigo 4.º — Meios portuários de recepção",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Meios portuários de recepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios portuários de recepção\n\n1. Os Estados-Membros devem assegurar a disponibilidade de meios portuários de recepção adequados às necessidades dos navios que normalmente utilizam esse porto, sem lhes causar atrasos indevidos.\n\n2. Para que sejam considerados adequados, os meios de recepção devem ter capacidade para receber os tipos e as quantidades de resíduos gerados em navios e de resíduos da carga dos navios que normalmente utilizam esse porto, tendo em conta as necessidades operacionais dos utilizadores do porto, as dimensões e a localização geográfica do porto, o tipo de navios que o escalam, bem como as isenções estabelecidas no artigo 9.o\n\n3. Os Estados-Membros devem estabelecer procedimentos, em conformidade com os que forem acordados pela Organização Marítima Internacional (OMI), para a comunicação ao Estado do porto de alegadas insuficiências dos meios portuários de recepção."
+  },
+  "213ab6fea560658e": {
+   "fragment_id": "Artigo 5.º — Planos de recepção e gestão dos resíduos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Planos de recepção e gestão dos resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Planos de recepção e gestão dos resíduos\n\n1. Deve ser elaborado e aplicado em cada porto um plano adequado de recepção e gestão de resíduos, após consulta às partes implicadas, designadamente aos utilizadores do porto ou aos seus representantes, tendo em conta as disposições dos artigos 4.o, 6.o, 7.o, 10.o e 12.o O Anexo I estabelece prescrições pormenorizadas para a elaboração dos planos.\n\n2. Os planos de recepção e gestão de resíduos referidos no n.o 1 podem, se tal for aconselhável por motivos de eficácia, ser elaborados num contexto regional, com um nível adequado de participação de cada porto, desde que a necessidade e a disponibilidade de meios de recepção seja especificada para cada um dos portos.\n\n3. Os Estados-Membros devem avaliar e aprovar os planos de recepção e gestão de resíduos, controlar a respectiva execução e assegurar que os planos sejam de novo aprovados pelo menos de três em três anos e sempre que ocorram mudanças sensíveis no funcionamento do porto."
+  },
+  "435aff394378d271": {
+   "fragment_id": "Artigo 6.º — Notificação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Notificação\n\n1. À excepção dos navios de pesca e embarcações de recreio com autorização para um máximo de doze passageiros, o comandante de um navio em rota para um porto situado na Comunidade deve preencher com veracidade e exactidão o formulário apresentado no Anexo II e notificar essa informação à autoridade ou organismo designado para o efeito pelo Estado-Membro em que se situa o porto:\n\na) Pelo menos 24 horas antes da chegada, se for conhecido o porto de escala; ou\n\nb) Logo que se conheça o porto de escala, se esta informação só for obtida a menos de 24 horas da chegada; ou\n\nc) O mais tardar à partida do porto precedente, se a duração da viagem for inferior a 24 horas.\n\nOs Estados-Membros podem determinar que a informação seja notificada ao operador do meio portuário de recepção, que a transmitirá à autoridade competente.\n\n2. A informação referida no n.o 1 deve ser conservada a bordo pelo menos até ao porto de escala seguinte e facultada às autoridades dos Estados-Membros, a pedido destas."
+  },
+  "49a2121c01bf242a": {
+   "fragment_id": "Artigo 7.º — Entrega dos resíduos gerados em navios",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrega dos resíduos gerados em navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrega dos resíduos gerados em navios\n\n1. O comandante de um navio que escale um porto da Comunidade deve entregar todos os resíduos gerados no navio num meio portuário de recepção, antes de deixar o porto.\n\n2. Não obstante o n.o 1, um navio pode continuar para o porto de escala seguinte sem entregar resíduos nele gerados se se concluir, com base na informação prestada nos termos do artigo 6.o e do anexo II, que há capacidade de armazenamento suficiente para todos os resíduos gerados no navio que se acumularam e acumularão durante a projectada viagem do navio até ao porto de entrega.\n\nSe houver motivos suficientes para crer que o porto de entrega previsto não dispõe de meios adequados ou se esse porto for desconhecido e, por conseguinte, existir o risco de os resíduos virem a ser descarregados no mar, o Estado-Membro deve tomar todas as medidas necessárias para evitar a poluição marinha, se necessário obrigando o navio a entregar os seus resíduos antes de deixar o porto.\n\n3. O n.o 2 é aplicável sem prejuízo da imposição aos navios de condições de entrega mais rigorosas adoptadas em conformidade com o direito internacional."
+  },
+  "f929a1ed40eeb4ff": {
+   "fragment_id": "Artigo 8.º — Taxas sobre os resíduos gerados em navios",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Taxas sobre os resíduos gerados em navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxas sobre os resíduos gerados em navios\n\n1. Os Estados-Membros devem assegurar que os custos dos meios portuários de recepção dos resíduos gerados em navios, incluindo os custos de tratamento e eliminação desses resíduos, sejam recuperados mediante a cobrança de uma taxa aos navios.\n\n2. Os sistemas de recuperação dos custos de utilização dos meios portuários de recepção não devem constituir um incentivo à descarga dos resíduos no mar. Para esse efeito, aos outros navios que não navios de pesca e embarcações de recreio com autorização para um máximo de doze passageiros são aplicáveis os seguintes princípios:\n\na) Os navios que escalem um porto de um Estado-Membro devem contribuir de modo significativo para os custos referidos no n.o 1, independentemente da utilização efectiva dos meios existentes. As disposições a tomar para este efeito podem incluir a incorporação da taxa nos direitos portuários ou a criação de uma taxa distinta sobre os resíduos. As taxas podem ser diferenciadas segundo, nomeadamente, a categoria, o tipo e a dimensão do navio;\n\nb) A parte dos custos que eventualmente não seja coberta pela taxa referida na alínea a), deve ser coberta com base nos tipos e nas quantidades de resíduos gerados em navios efectivamente entregues pelo navio;\n\nc) As taxas poderão ser reduzidas se a gestão ambiental, o projecto, o equipamento e a operação de um navio forem de molde a que o seu comandante possa demonstrar que o navio produz quantidades reduzidas de resíduos gerados em navios.\n\n3. Para assegurar que as taxas cobradas sejam equitativas, transparentes e não discriminatórias e reflictam os custos dos meios e serviços oferecidos e, quando adequado, utilizados, o montante das taxas e a sua base de cálculo deveriam ser dados a conhecer aos utilizadores do porto.\n\n4. A Comissão apresentará ao Parlamento Europeu e ao Conselho, no prazo de três anos a contar da data a que se refere o n.o 1 do artigo 16.o, um relatório de avaliação do impacto dos diversos sistemas de recuperação de custos adoptados nos termos do n.o 2 sobre o ambiente marinho e os padrões de fluxo de resíduos. Esse relatório será elaborado em colaboração com as autoridades competentes dos Estados-Membros e com representantes dos portos.\n\nA Comissão apresentará, se a avaliação revelar tal necessidade, uma proposta de alteração da presente directiva através da instauração de um sistema que implique o pagamento de uma percentagem adequada dos custos referidos no n.o 1, percentagem não inferior a um terço, por todos os navios que escalem um porto de um Estado-Membro, independentemente da utilização efectiva das instalações, ou de um sistema alternativo com efeitos equivalentes."
+  },
+  "bab614f9d7c98836": {
+   "fragment_id": "Artigo 9.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenções\n\n1. No caso de os navios efectuarem serviços regulares com escalas frequentes e regulares e se houver provas suficientes da existência de disposições para assegurar a entrega dos resíduos nele gerados e o pagamento de taxas num porto da sua rota, os Estados-Membros dos portos implicados poderão dispensar os ditos navios das obrigações estabelecidas no artigo 6.o, no n.o 1 do artigo 7.o e no artigo 8.o\n\n2. Os Estados-Membros devem informar regularmente a Comissão, pelo menos uma vez por ano, das dispensas concedidas ao abrigo do n.o 1."
+  },
+  "c85f67de7f2efab5": {
+   "fragment_id": "Artigo 10.º — Entrega dos resíduos da carga",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrega dos resíduos da carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrega dos resíduos da carga\n\nO comandante de um navio que escale um porto da Comunidade deve assegurar que os resíduos da carga sejam entregues num meio portuário de recepção em conformidade com as disposições da Marpol 73/78. Qualquer taxa cobrada pela entrega de resíduos de carga deve ser paga pelo utilizador do meio de recepção."
+  },
+  "0bb572841bc1fbb7": {
+   "fragment_id": "Artigo 11.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação\n\n1. Os Estados-Membros devem assegurar que qualquer navio possa ser objecto de inspecção para se verificar se cumpre o disposto nos artigos 7.o e 10.o e que essas inspecções são em número suficiente.\n\n2. Nas inspecções de navios que não navios de pesca ou embarcações de recreio com autorização para um máximo de doze passageiros:\n\na) Ao seleccionarem os navios para inspecção, os Estados-Membros devem dar especial atenção:\n\n- aos navios que não tenham cumprido as prescrições de notificação do artigo 6.o,\n\n- aos navios relativamente aos quais a verificação da informação fornecida pelo comandante em conformidade com o artigo 6.o tenha revelado outros motivos para crer que o navio não cumpre o disposto na presente directiva;\n\nb) A inspecção poderá ser realizada no âmbito da Directiva 95/21/CE em casos adequados; seja qual for o âmbito das inspecções, aplicar-se-à o requisito de inspecção de 25 % previsto nessa directiva;\n\nc) Se os resultados da inspecção não a satisfizerem, a autoridade competente assegurará que o navio não deixe o porto enquanto não entregar os resíduos nele gerados e os seus resíduos da carga num meio portuário de recepção, em conformidade com os artigos 7.o e 10.o;\n\nd) Quando haja provas suficientes de que um navio saiu para o mar sem ter cumprido o disposto nos artigos 7.o ou 10.o, a autoridade competente do porto de escala seguinte deve ser informada desse facto e, sem prejuízo da aplicação das sanções referidas no artigo 13.o, o navio não deve ser autorizado a deixar esse porto até que se realize uma avaliação mais aprofundada dos factores relativos ao cumprimento da presente directiva pelo navio, como a exactidão da informação fornecida nos termos do artigo 6.o\n\n3. Os Estados-Membros devem estabelecer, na medida do necessário, procedimentos de controlo dos navios de pesca e embarcações de recreio com autorização para um máximo de doze passageiros destinados a assegurar o cumprimento das prescrições aplicáveis da presente directiva."
+  },
+  "de96ea9ea2db76a1": {
+   "fragment_id": "Artigo 12.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas de acompanhamento\n\n1. Os Estados-Membros devem:\n\na) Tomar todas as medidas necessárias para assegurar que os comandantes, os operadores dos meios portuários de recepção e outros interessados sejam devidamente informados das prescrições que lhes são aplicáveis nos termos da presente directiva e cumpram tais prescrições;\n\nb) Designar as autoridades ou organismos competentes para desempenhar as funções decorrentes da presente directiva;\n\nc) Velar pela cooperação entre as autoridades competentes e as organizações comerciais, a fim de assegurar a aplicação efectiva da presente directiva;\n\nd) Assegurar que a informação notificada pelos comandantes nos termos do artigo 6.o seja devidamente verificada;\n\ne) Assegurar que as formalidades associadas à utilização dos meios portuários de recepção sejam simples e rápidas, a fim de incentivar os comandantes a utilizarem esses meios e de evitar aos navios atrasos indevidos;\n\nf) Assegurar que a Comissão receba cópia das alegações de insuficiência dos meios portuários de recepção a que se refere o n.o 3 do artigo 4.o;\n\ng) Assegurar que o tratamento, valorização ou eliminação dos resíduos gerados em navios e dos resíduos da carga sejam executados em conformidade com o disposto na Directiva 75/442/CEE e noutros actos legislativos comunitários pertinentes no domínio dos resíduos, em particular a Directiva 75/439/CEE do Conselho, de 16 de Junho de 1975, relativa à eliminação dos óleos usados(9), e a Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos(10);\n\nh) Assegurar, de acordo com a respectiva legislação nacional, que qualquer parte envolvida na entrega ou recepção de resíduos gerados em navios ou resíduos da carga possa reclamar uma indemnização pelos prejuízos causados por atrasos indevidos.\n\n2. A entrega de resíduos gerados em navios e de resíduos da carga é considerada introdução em livre prática na acepção do artigo 79.o do Regulamento (CEE) n.o 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o Código Aduaneiro Comunitário(11). Em conformidade com o artigo 45.o do Código Aduaneiro Comunitário, as autoridades aduaneiras não exigirão a entrega de declaração sumária.\n\n3. Os Estados-Membros e a Comissão devem cooperar no estabelecimento de um sistema de informação e controlo adequado, que cubra pelo menos toda a Comunidade, destinado a:\n\n- melhorar a identificação dos navios que não tenham entregue os resíduos neles gerados e os resíduos da carga em conformidade com o disposto na presente directiva,\n\n- avaliar se os objectivos estabelecidos no artigo 1.o foram alcançados.\n\n4. Os Estados-Membros e a Comissão devem cooperar na definição de critérios comuns para a identificação dos navios referidos na alínea c) do n.o 2 do artigo 8.o"
+  },
+  "fbfa633e75eed568": {
+   "fragment_id": "Artigo 13.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções\n\nOs Estados-Membros devem estabelecer o regime de sanções a aplicar em caso de violação das disposições nacionais adoptadas nos termos da presente directiva e tomar todas as medidas necessárias para assegurar que tais sanções sejam aplicadas. As sanções previstas devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "9560e0c22f5142e5": {
+   "fragment_id": "Artigo 14.º — Comité de regulamentação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comité de regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comité de regulamentação\n\n1. A Comissão é assistida pelo comité instituído no n.o 1 do artigo 12.o da Directiva 93/75/CEE(12), a seguir designado \"Comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1994/468/CE, tendo-se em conta o disposto no artigo 8.o da mesma.\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "c0164ce46fd88b42": {
+   "fragment_id": "Artigo 15.º — Procedimento de alteração",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de alteração\n\nOs anexos da presente directiva, a definição que consta da alínea b) do artigo 2.o, as remissões para actos comunitários e para instrumentos da OMI podem ser alterados nos termos do n.o 2 do artigo 14.o para os adaptar às disposições comunitárias ou da OMI que tenham entrado em vigor, na medida em que tais alterações não alarguem o âmbito de aplicação da presente directiva.\n\nAlém disso, os anexos da presente directiva podem ser alterados nos referidos termos sempre que necessário para melhorar o regime estabelecido pela presente directiva, na medida em que tais alterações não alarguem o âmbito de aplicação da presente directiva."
+  },
+  "4d16a90ad981a3a0": {
+   "fragment_id": "Artigo 16.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 28 de Dezembro de 2002 e informar imediatamente a Comissão desse facto.\n\nContudo, no que diz respeito aos esgotos sanitários referidos na alínea c) do artigo 2.o, a execução da presente directiva fica suspensa até 12 meses após a entrada em vigor do Anexo IV da Marpol 73/78, sendo contudo respeitada a distinção feita naquela convenção entre navios novos e navios existentes.\n\n2. Quando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "ab971641ea9470b3": {
+   "fragment_id": "Artigo 17.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação\n\n1. Os Estados-Membros devem apresentar à Comissão, de três em três anos, um relatório sobre a aplicação da presente directiva.\n\n2. A Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório de avaliação do funcionamento do regime estabelecido na presente directiva, baseado nos relatórios dos Estados-Membros referidos no n.o 1 e acompanhado, se for caso disso, das propostas necessárias atinentes à aplicação da presente directiva."
+  },
+  "c1d432f405f62b7b": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "e4fa21816ac1ff5a": {
+   "fragment_id": "Artigo 19.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários\n\nOs Estados-Membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 27 de Novembro de 2000.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nL. Fabius\n\n(1) JO C 271 de 31.8.1998, p. 79 e\n\nJO C 148 de 28.5.1999, p. 7.\n\n(2) JO C 138 de 18.5.1999, p. 12.\n\n(3) JO C 198 de 14.7.1999, p. 27.\n\n(4) Parecer do Parlamento Europeu de 11 de Fevereiro de 1999 (JO C 150 de 28.9.1999, p. 432), confirmado em 16 de Setembro de 1999, posição comum do Conselho de 8 de Novembro de 1999 (JO C 10 de 13.1.2000, p. 14) e decisão do Parlamento Europeu de 14 de Março de 2000 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 6 de Setembro de 2000 e decisão do Conselho de 14 de Setembro de 2000.\n\n(5) JO C 271 de 7.10.1993, p. 1.\n\n(6) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/42/CE (JO L 184 de 27.6.1998, p. 40).\n\n(7) JO L 184 de 17.7.1999, p. 23.\n\n(8) JO L 194 de 25.7.1975, p. 39. Directiva com a última redacção que lhe foi dada pela Decisão 96/350/CE da Comissão (JO L 135 de 6.6.1996, p. 32).\n\n(9) JO L 194 de 25.7.1975, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE (JO L 377 de 31.12.1991, p. 48).\n\n(10) JO L 377 de 31.12.1991, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 94/31/CEE (JO L 168 de 2.7.1994, p. 28).\n\n(11) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 955/99 (JO L 119 de 7.5.1999, p. 1).\n\n(12) JO L 247 de 5.10.1993, p. 19. Directiva com a última redacção que lhe foi dada pela Directiva 98/74/CE (JO L 276 de 13.10.1998, p. 7)."
+  },
+  "27c9503097ba9dd3": {
+   "fragment_id": "ANEXO I — PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS",
+   "type": "divisao",
+   "heading": "ANEXO I — PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS\n\n(referidas no artigo 5.o)\n\nOs planos devem abranger todos os tipos de resíduos gerados em navios e de resíduos da carga procedentes dos navios que normalmente demandam o porto e a sua elaboração deve ter em conta a dimensão do porto e o tipo de navios que o escalam.\n\nOs planos devem conter os seguintes elementos:\n\n- uma avaliação da necessidade de meios portuários de recepção, à luz das necessidades dos navios que normalmente demandam o porto,\n\n- uma descrição do tipo e capacidade dos meios portuários de recepção,\n\n- uma descrição detalhada dos procedimentos de recepção e recolha dos resíduos gerados em navios e dos resíduos da carga,\n\n- a descrição do regime de taxas,\n\n- os procedimentos de comunicação de alegadas insuficiências dos meios portuários de recepção,\n\n- os procedimentos de consulta permanente com os utilizadores do porto, as empresas responsáveis pelos resíduos, os operadores de terminais e outros interessados,\n\n- os tipos e as quantidades de resíduos gerados em navios e de resíduos da carga recebidos e processados.\n\nOs planos deveriam ainda incluir:\n\n- um resumo da legislação pertinente e das formalidades de entrega,\n\n- a identificação da pessoa ou pessoas responsáveis pela aplicação do plano,\n\n- a descrição do equipamento e processos de pré-tratamento eventualmente disponíveis no porto,\n\n- uma descrição dos métodos de registo da utilização dos meios de recepção,\n\n- uma descrição dos métodos de registo das quantidades recebidas de resíduos gerados em navios e de resíduos da carga,\n\n- a descrição do modo de eliminação dos resíduos gerados em navios e dos resíduos da carga.\n\nOs procedimentos de recepção, recolha, armazenamento, tratamento e eliminação deveriam obedecer, em todos os aspectos, a um plano de gestão ambiental adequado para a redução progressiva do impacte ambiental destas actividades. Tais procedimentos serão considerados conformes se cumprirem os requisitos do Regulamento (CEE) n.o 1836/93 do Conselho, de 29 de Junho de 1993, que permite a participação voluntária das empresas do sector industrial num sistema comunitário de ecogestão e auditoria(1).\n\nInformação a disponibilizar aos utilizadores do porto:\n\n- breve referência à importância fundamental da entrega dos resíduos gerados em navios e dos resíduos da carga,\n\n- localização dos meios portuários de recepção correspondentes a cada cais por meio de diagramas/mapas,\n\n- lista dos resíduos gerados em navios e dos resíduos da carga normalmente processados,\n\n- lista das pessoas a contactar, operadores e serviços propostos,\n\n- descrição dos procedimentos de entrega,\n\n- descrição do regime de taxas e\n\n- procedimentos de comunicação de alegadas insuficiências dos meios portuários de recepção.\n\n(1) JO L 168 de 10.7.1993, p. 1."
+  },
+  "b98698b6e76fe877": {
+   "fragment_id": "ANEXO II — >PIC FILE= \"L_2000332PT.008802.EPS\">",
+   "type": "divisao",
+   "heading": "ANEXO II — >PIC FILE= \"L_2000332PT.008802.EPS\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >PIC FILE= \"L_2000332PT.008802.EPS\">\n\n>PIC FILE= \"L_2000332PT.008901.EPS\">\n\nDeclaração da Comissão\n\nA Comissão interpreta o termo \"significativo\" como um número da ordem de pelo menos 30 % dos custos a que se refere o n.o 1 do artigo 8.o"
+  },
+  "00e5b5c8e6a1dccf": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro de 2000\n\nrelativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0004)), à luz do projecto comum aprovado pelo Comité de Conciliação em 18 de Julho de 2000,\n\n(1) A política comunitária para o ambiente visa um nível de protecção elevado. Ela baseia-se nos princípios da precaução, do poluidor-pagador e da acção preventiva.\n\n(2) Um importante domínio da acção comunitária no sector dos transportes marítimos diz respeito à redução da poluição dos oceanos. Pode conseguir-se tal objectivo dando cumprimento às convenções, códigos e resoluções internacionais, preservando simultaneamente a liberdade de navegação estabelecida pela Convenção das Nações Unidas sobre o Direito do Mar e a liberdade de prestação de serviços estabelecida pela legislação comunitária.\n\n(3) A Comunidade está seriamente preocupada com a poluição dos mares e costas dos Estados-Membros causada por descargas de resíduos de navios e de resíduos da carga e, em especial, com a aplicação da Convenção Internacional para a Prevenção da Poluição por Navios de 1973, alterada pelo Protocolo de 1978 (Marpol 73/78), que define que resíduos os navios podem descarregar para o meio marinho e requer que os Estados partes asseguram a disponibilidade de meios de recepção adequados nos portos. Todos os Estados-Membros ratificaram a Marpol 73/78.\n\n(4) Pode aumentar-se a protecção do meio marinho reduzindo as descargas no mar de resíduos gerados em navios e de resíduos da carga. Tal pode conseguir-se melhorando a disponibilidade e a utilização dos meios de recepção e melhorando o regime de aplicação. Na sua Resolução, de 8 de Junho de 1993, sobre uma política comum de segurança marítima ([^5^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0005)), o Conselho incluiu entre as suas acções prioritárias o desenvolvimento da disponibilidade e da utilização dos meios de recepção na Comunidade.\n\n(5) A Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os portos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida de trabalho a bordo dos navios (inspecção pelo Estado do porto) ([^6^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0006)), estabelece que os navios que representem um risco irrazoável de danos para o meio marinho não devem ser autorizados a sair para o mar.\n\n(6) A poluição dos mares tem, por natureza, repercussões transnacionais; à luz do princípio da subsidiariedade, uma acção a nível comunitário constitui o modo mais eficaz de garantir normas ambientais comuns para os navios e portos em toda a Comunidade.\n\n(7) À luz do princípio da proporcionalidade, uma directiva constitui o instrumento jurídico adequado, visto proporcionar um quadro para a aplicação uniforme e vinculativa das normas ambientais pelos Estados-Membros, deixando-lhes, todavia, o direito de decidirem dos meios de aplicação que melhor se coadunem com o seu sistema interno.\n\n(8) Deve ser assegurada a coerência com os acordos regionais em vigor, como a Convenção para a Protecção do Meio Marinho na Zona do Mar Báltico, de 1974/1992.\n\n(9) Para reforçar a prevenção da poluição e evitar distorções da concorrência, as prescrições ambientais deverão aplicar-se a todos os navios, qualquer que seja o seu pavilhão e que devem ser disponibilizados meios de recepção adequados em todos os portos da Comunidade.\n\n(10) Os meios portuários de recepção adequados deverão satisfazer as necessidades dos utilizadores, do maior navio mercante à mais pequena embarcação de recreio, e do ambiente, sem causar atrasos indevidos aos navios que os utilizam. A obrigação de garantir a disponibilidade de meios portuários de recepção adequados deixa aos Estados-Membros uma grande margem de liberdade para organizar a recepção dos resíduos da forma mais conveniente, permitindo-lhes, designadamente, prever instalações de recepção fixas ou designar prestadores de serviços que tragam até aos portos unidades móveis para a recepção dos resíduos. Esta obrigação implica igualmente a obrigação de prever todos os serviços e/ou medidas de acompanhamento necessárias para o uso correcto e adequado desses meios.\n\n(11) A adequação dos meios pode ser melhorada através de planos actualizados de recepção e gestão estabelecidos em consulta com as partes interessadas.\n\n(12) A eficácia dos meios portuários de recepção pode ser melhorada exigindo que os navios notifiquem a sua necessidade de utilizar meios de recepção. Esta notificação deverá igualmente conter informações que possibilitem uma clarificação eficaz da gestão de resíduos. Os resíduos provenientes de navios de pesca e de embarcações de recreio com autorização para um máximo de doze passageiros podem ser geridos pelos meios portuários de recepção sem notificação prévia.\n\n(13) As descargas no mar de resíduos gerados em navios podem ser reduzidas exigindo que todos os navios entreguem os resíduos em meios portuários de recepção antes de deixarem o porto. A fim de conciliar o interesse do funcionamento normal dos transportes marítimos com a protecção do ambiente, deverão ser possíveis as excepções a esta imposição tomando-se em conta a adequação da capacidade máxima de armazenamento a bordo, a possibilidade de entrega noutro porto sem riscos de descarga no mar e as condições de entrega específicas adoptadas em conformidade com o direito internacional.\n\n(14) Em virtude do princípio do «poluidor-pagador», os custos dos meios portuários de recepção, incluindo o tratamento e eliminação dos resíduos gerados em navios, deverão ser cobertos pelo navio. Com o intuito de proteger o ambiente, o regime de taxas deverá incentivar a entrega nos portos de resíduos gerados em navios em vez da descarga no mar. Tal pode ser facilitado determinando-se que todos os navios contribuam para os custos da recepção e gestão dos resíduos gerados em navios de modo a reduzir os incentivos económicos à descarga no mar. Em virtude do princípio da subsidiariedade, os Estados-Membros deverão continuar a ser competentes para decidir, de acordo com a respectiva legislação nacional e com as práticas em vigor no seu território, se e em que medida as taxas relacionadas com as quantidades de resíduos efectivamente entregues pelos navios serão incorporadas nos sistemas de recuperação dos custos de utilização de meios portuários de recepção. As taxas pela utilização destes meios deverão ser equitativas, não discriminatórias e transparentes.\n\n(15) Os navios que produzam quantidades reduzidas de resíduos deverão ser tratados de modo mais favorável no que diz respeito aos sistemas de recuperação dos custos. A adopção de critérios comuns facilitaria a identificação de tais navios.\n\n(16) A fim de evitar encargos exagerados para as partes interessadas, os navios com escalas frequentes e regulares poderão ser dispensados de certas obrigações decorrentes da presente directiva desde que haja provas suficientes que existem disposições para assegurar a entrega dos resíduos e o pagamento de taxas.\n\n(17) Os resíduos da carga deverão ser entregues em meios portuários de recepção em conformidade com o disposto na Marpol 73/78. A Marpol 73/78 exige que os resíduos da carga sejam entregues a meios portuários de recepção, na medida do necessário para cumprir as disposições em matéria de limpeza dos tanques. Qualquer taxa cobrada por essa entrega deverá ser paga pelo utilizador do meio de recepção, sendo o utilizador habitualmente definido em disposições contratuais entre as partes interessadas ou noutras disposições de carácter local.\n\n(18) É necessário realizar inspecções orientadas para verificar o cumprimento da presente directiva. O número de inspecções, bem como as sanções aplicadas, deverão ser o suficiente para prevenir o incumprimento do disposto na presente directiva. Por uma questão de eficiência e de relação custo-eficácia, essas inspecções poderão ser realizadas no âmbito da Directiva 95/21/CE em casos adequados.\n\n(19) Os Estados-Membros deverão garantir um enquadramento administrativo adequado para o funcionamento correcto dos meios portuários de recepção; nos termos da Marpol 73/78, as alegações de insuficiência dos meios portuários de recepção devem ser transmitidas à Organização Marítima Internacional (OMI). Essas mesmas alegações poderão ser transmitidas simultaneamente à Comissão para informação.\n\n(20) Um sistema de informação para identificação dos navios poluidores ou potencialmente poluidores facilitaria a aplicação da presente directiva e contribuiria para a avaliação da sua execução. O sistema de informação SIRENAC, criado no âmbito do Memorando de Acordo de Paris para a Inspecção pelo Estado do Porto, fornece muita da informação adicional necessária para esse efeito.\n\n(21) É necessário que um comité composto de representantes dos Estados-Membros assista a Comissão na aplicação efectiva da presente directiva. As medidas necessárias à execução da presente directiva são medidas de âmbito geral na acepção do artigo 2.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0007)), pelo que essas medidas devem ser aprovadas pelo procedimento de regulamentação a que se refere o artigo 5.º da referida decisão.\n\n(22) Certas disposições da presente directiva poderão, sem que se alargue o seu âmbito de aplicação, ser modificadas de acordo com aquele procedimento a fim de ter em conta disposições comunitárias ou da OMI que no futuro entrem em vigor, de modo a assegurar a sua aplicação harmonizada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "03644da3b40ad725": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Navio», uma embarcação de mar de qualquer tipo que opere no meio marinho, incluindo embarcações de sustentação dinâmica, veículos de sustentação por ar, submersíveis e estruturas flutuantes;\n\nb) «Marpol 73/78», a Convenção Internacional para a Prevenção da Poluição por Navios, de 1973, alterada pelo Protocolo de 1978, com a redacção em vigor[**►M1**](http://publications.europa.eu/resource/celex/32002L0084) —————**◄**;\n\nc) «Resíduos gerados em navios», todos os resíduos, incluindo os esgotos sanitários, e os resíduos que não sejam resíduos da carga, produzidos no serviço de um navio e abrangidos pelos Anexos I, IV e V da Marpol 73/78, bem como os resíduos associados à carga, conforme definidos nas directrizes para a aplicação do Anexo V da Marpol 73/78;\n\nd) «Resíduos da carga», os restos das matérias transportadas como carga em porões ou tanques de carga que ficam das operações de descarga e das operações de limpeza, incluindo excedentes de carga/descarga e derrames;\n\ne) «Meios portuários de recepção», as estruturas fixas, flutuantes ou móveis aptas a receber resíduos gerados em navios ou resíduos da carga;\n\nf) «Navio de pesca», um navio equipado ou utilizado comercialmente para a captura de peixe ou outros recursos vivos do mar;\n\ng) «Embarcação de recreio», um navio de qualquer tipo, independentemente do meio de propulsão, utilizado para fins desportivos ou recreativos;\n\nh) «Porto», qualquer lugar ou área geográfica em que tenham sido efectuados trabalhos de beneficiação ou instalados equipamentos que permitam, principalmente, a recepção de navios, incluindo navios de pesca e embarcações de recreio.\n\nSem prejuízo das definições das alíneas c) e d), os «resíduos gerados em navios» e os «resíduos da carga» são considerados resíduos na acepção do disposto no n.º 1, alínea a), da Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos ([^8^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0008))."
+  },
+  "465f793a48b3a393": {
+   "fragment_id": "Artigo 4.º — Meios portuários de recepção",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Meios portuários de recepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios portuários de recepção\n\n1. Os Estados-Membros devem assegurar a disponibilidade de meios portuários de recepção adequados às necessidades dos navios que normalmente utilizam esse porto, sem lhes causar atrasos indevidos.\n\n2. Para que sejam considerados adequados, os meios de recepção devem ter capacidade para receber os tipos e as quantidades de resíduos gerados em navios e de resíduos da carga dos navios que normalmente utilizam esse porto, tendo em conta as necessidades operacionais dos utilizadores do porto, as dimensões e a localização geográfica do porto, o tipo de navios que o escalam, bem como as isenções estabelecidas no artigo 9.º\n\n3. Os Estados-Membros devem estabelecer procedimentos, em conformidade com os que forem acordados pela Organização Marítima Internacional (OMI), para a comunicação ao Estado do porto de alegadas insuficiências dos meios portuários de recepção."
+  },
+  "17cd3dec429e3d17": {
+   "fragment_id": "Artigo 5.º — Planos de recepção e gestão dos resíduos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Planos de recepção e gestão dos resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Planos de recepção e gestão dos resíduos\n\n1. Deve ser elaborado e aplicado em cada porto um plano adequado de recepção e gestão de resíduos, após consulta às partes implicadas, designadamente aos utilizadores do porto ou aos seus representantes, tendo em conta as disposições dos artigos 4.º, 6.º, 7.º, 10.º e 12.º O Anexo I estabelece prescrições pormenorizadas para a elaboração dos planos.\n\n2. Os planos de recepção e gestão de resíduos referidos no n.º 1 podem, se tal for aconselhável por motivos de eficácia, ser elaborados num contexto regional, com um nível adequado de participação de cada porto, desde que a necessidade e a disponibilidade de meios de recepção seja especificada para cada um dos portos.\n\n3. Os Estados-Membros devem avaliar e aprovar os planos de recepção e gestão de resíduos, controlar a respectiva execução e assegurar que os planos sejam de novo aprovados pelo menos de três em três anos e sempre que ocorram mudanças sensíveis no funcionamento do porto."
+  },
+  "deac47775a5060b0": {
+   "fragment_id": "Artigo 6.º — Notificação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Notificação\n\n1. À excepção dos navios de pesca e embarcações de recreio com autorização para um máximo de doze passageiros, o comandante de um navio em rota para um porto situado na Comunidade deve preencher com veracidade e exactidão o formulário apresentado no Anexo II e notificar essa informação à autoridade ou organismo designado para o efeito pelo Estado-Membro em que se situa o porto:\n\na) Pelo menos 24 horas antes da chegada, se for conhecido o porto de escala; ou\n\nb) Logo que se conheça o porto de escala, se esta informação só for obtida a menos de 24 horas da chegada; ou\n\nc) O mais tardar à partida do porto precedente, se a duração da viagem for inferior a 24 horas.\n\nOs Estados-Membros podem determinar que a informação seja notificada ao operador do meio portuário de recepção, que a transmitirá à autoridade competente.\n\n2. A informação referida no n.º 1 deve ser conservada a bordo pelo menos até ao porto de escala seguinte e facultada às autoridades dos Estados-Membros, a pedido destas."
+  },
+  "2a15e5ade7933218": {
+   "fragment_id": "Artigo 7.º — Entrega dos resíduos gerados em navios",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entrega dos resíduos gerados em navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrega dos resíduos gerados em navios\n\n1. O comandante de um navio que escale um porto da Comunidade deve entregar todos os resíduos gerados no navio num meio portuário de recepção, antes de deixar o porto.\n\n2. Não obstante o n.º 1, um navio pode continuar para o porto de escala seguinte sem entregar resíduos nele gerados se se concluir, com base na informação prestada nos termos do artigo 6.º e do anexo II, que há capacidade de armazenamento suficiente para todos os resíduos gerados no navio que se acumularam e acumularão durante a projectada viagem do navio até ao porto de entrega.\n\nSe houver motivos suficientes para crer que o porto de entrega previsto não dispõe de meios adequados ou se esse porto for desconhecido e, por conseguinte, existir o risco de os resíduos virem a ser descarregados no mar, o Estado-Membro deve tomar todas as medidas necessárias para evitar a poluição marinha, se necessário obrigando o navio a entregar os seus resíduos antes de deixar o porto.\n\n3. O n.º 2 é aplicável sem prejuízo da imposição aos navios de condições de entrega mais rigorosas adoptadas em conformidade com o direito internacional."
+  },
+  "f0f0fcab33132432": {
+   "fragment_id": "Artigo 8.º — Taxas sobre os resíduos gerados em navios",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Taxas sobre os resíduos gerados em navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxas sobre os resíduos gerados em navios\n\n1. Os Estados-Membros devem assegurar que os custos dos meios portuários de recepção dos resíduos gerados em navios, incluindo os custos de tratamento e eliminação desses resíduos, sejam recuperados mediante a cobrança de uma taxa aos navios.\n\n2. Os sistemas de recuperação dos custos de utilização dos meios portuários de recepção não devem constituir um incentivo à descarga dos resíduos no mar. Para esse efeito, aos outros navios que não navios de pesca e embarcações de recreio com autorização para um máximo de doze passageiros são aplicáveis os seguintes princípios:\n\na) Os navios que escalem um porto de um Estado-Membro devem contribuir de modo significativo para os custos referidos no n.º 1, independentemente da utilização efectiva dos meios existentes. As disposições a tomar para este efeito podem incluir a incorporação da taxa nos direitos portuários ou a criação de uma taxa distinta sobre os resíduos. As taxas podem ser diferenciadas segundo, nomeadamente, a categoria, o tipo e a dimensão do navio;\n\nb) A parte dos custos que eventualmente não seja coberta pela taxa referida na alínea a), deve ser coberta com base nos tipos e nas quantidades de resíduos gerados em navios efectivamente entregues pelo navio;\n\nc) As taxas poderão ser reduzidas se a gestão ambiental, o projecto, o equipamento e a operação de um navio forem de molde a que o seu comandante possa demonstrar que o navio produz quantidades reduzidas de resíduos gerados em navios.\n\n3. Para assegurar que as taxas cobradas sejam equitativas, transparentes e não discriminatórias e reflictam os custos dos meios e serviços oferecidos e, quando adequado, utilizados, o montante das taxas e a sua base de cálculo deveriam ser dados a conhecer aos utilizadores do porto.\n\n4. A Comissão apresentará ao Parlamento Europeu e ao Conselho, no prazo de três anos a contar da data a que se refere o n.º 1 do artigo 16.º, um relatório de avaliação do impacto dos diversos sistemas de recuperação de custos adoptados nos termos do n.º 2 sobre o ambiente marinho e os padrões de fluxo de resíduos. Esse relatório será elaborado em colaboração com as autoridades competentes dos Estados-Membros e com representantes dos portos.\n\nA Comissão apresentará, se a avaliação revelar tal necessidade, uma proposta de alteração da presente directiva através da instauração de um sistema que implique o pagamento de uma percentagem adequada dos custos referidos no n.º 1, percentagem não inferior a um terço, por todos os navios que escalem um porto de um Estado-Membro, independentemente da utilização efectiva das instalações, ou de um sistema alternativo com efeitos equivalentes."
+  },
+  "ee441d530b3b8e67": {
+   "fragment_id": "Artigo 9.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenções\n\n1. No caso de os navios efectuarem serviços regulares com escalas frequentes e regulares e se houver provas suficientes da existência de disposições para assegurar a entrega dos resíduos nele gerados e o pagamento de taxas num porto da sua rota, os Estados-Membros dos portos implicados poderão dispensar os ditos navios das obrigações estabelecidas no artigo 6.º, no n.º 1 do artigo 7.º e no artigo 8.º\n\n2. Os Estados-Membros devem informar regularmente a Comissão, pelo menos uma vez por ano, das dispensas concedidas ao abrigo do n.º 1."
+  },
+  "96ec6af785da6ff5": {
+   "fragment_id": "Artigo 11.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação\n\n1. Os Estados-Membros devem assegurar que qualquer navio possa ser objecto de inspecção para se verificar se cumpre o disposto nos artigos 7.º e 10.º e que essas inspecções são em número suficiente.\n\n2. Nas inspecções de navios que não navios de pesca ou embarcações de recreio com autorização para um máximo de doze passageiros:\n\na) Ao seleccionarem os navios para inspecção, os Estados-Membros devem dar especial atenção:\n\n— aos navios que não tenham cumprido as prescrições de notificação do artigo 6.º,\n\n— aos navios relativamente aos quais a verificação da informação fornecida pelo comandante em conformidade com o artigo 6.º tenha revelado outros motivos para crer que o navio não cumpre o disposto na presente directiva;\n\nb) A inspecção poderá ser realizada no âmbito da Directiva 95/21/CE em casos adequados; seja qual for o âmbito das inspecções, aplicar-se-à o requisito de inspecção de 25 % previsto nessa directiva;\n\nc) Se os resultados da inspecção não a satisfizerem, a autoridade competente assegurará que o navio não deixe o porto enquanto não entregar os resíduos nele gerados e os seus resíduos da carga num meio portuário de recepção, em conformidade com os artigos 7.º e 10.º;\n\nd) Quando haja provas suficientes de que um navio saiu para o mar sem ter cumprido o disposto nos artigos 7.º ou 10.º, a autoridade competente do porto de escala seguinte deve ser informada desse facto e, sem prejuízo da aplicação das sanções referidas no artigo 13.º, o navio não deve ser autorizado a deixar esse porto até que se realize uma avaliação mais aprofundada dos factores relativos ao cumprimento da presente directiva pelo navio, como a exactidão da informação fornecida nos termos do artigo 6.º\n\n3. Os Estados-Membros devem estabelecer, na medida do necessário, procedimentos de controlo dos navios de pesca e embarcações de recreio com autorização para um máximo de doze passageiros destinados a assegurar o cumprimento das prescrições aplicáveis da presente directiva."
+  },
+  "541718bcafe06056": {
+   "fragment_id": "Artigo 12.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas de acompanhamento\n\n1. Os Estados-Membros devem:\n\na) Tomar todas as medidas necessárias para assegurar que os comandantes, os operadores dos meios portuários de recepção e outros interessados sejam devidamente informados das prescrições que lhes são aplicáveis nos termos da presente directiva e cumpram tais prescrições;\n\nb) Designar as autoridades ou organismos competentes para desempenhar as funções decorrentes da presente directiva;\n\nc) Velar pela cooperação entre as autoridades competentes e as organizações comerciais, a fim de assegurar a aplicação efectiva da presente directiva;\n\nd) Assegurar que a informação notificada pelos comandantes nos termos do artigo 6.º seja devidamente verificada;\n\ne) Assegurar que as formalidades associadas à utilização dos meios portuários de recepção sejam simples e rápidas, a fim de incentivar os comandantes a utilizarem esses meios e de evitar aos navios atrasos indevidos;\n\nf) Assegurar que a Comissão receba cópia das alegações de insuficiência dos meios portuários de recepção a que se refere o n.º 3 do artigo 4.º;\n\ng) Assegurar que o tratamento, valorização ou eliminação dos resíduos gerados em navios e dos resíduos da carga sejam executados em conformidade com o disposto na Directiva 75/442/CEE e noutros actos legislativos comunitários pertinentes no domínio dos resíduos, em particular a Directiva 75/439/CEE do Conselho, de 16 de Junho de 1975, relativa à eliminação dos óleos usados ([^9^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0009)), e a Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^10^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0010));\n\nh) Assegurar, de acordo com a respectiva legislação nacional, que qualquer parte envolvida na entrega ou recepção de resíduos gerados em navios ou resíduos da carga possa reclamar uma indemnização pelos prejuízos causados por atrasos indevidos.\n\n2. A entrega de resíduos gerados em navios e de resíduos da carga é considerada introdução em livre prática na acepção do artigo 79.º do Regulamento (CEE) n.º 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o Código Aduaneiro Comunitário ([^11^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0011)). Em conformidade com o artigo 45.º do Código Aduaneiro Comunitário, as autoridades aduaneiras não exigirão a entrega de declaração sumária.\n\n3. Os Estados-Membros e a Comissão devem cooperar no estabelecimento de um sistema de informação e controlo adequado, que cubra pelo menos toda a Comunidade, destinado a:\n\n— melhorar a identificação dos navios que não tenham entregue os resíduos neles gerados e os resíduos da carga em conformidade com o disposto na presente directiva,\n\n— avaliar se os objectivos estabelecidos no artigo 1.º foram alcançados.\n\n4. Os Estados-Membros e a Comissão devem cooperar na definição de critérios comuns para a identificação dos navios referidos na alínea c) do n.º 2 do artigo 8.º"
+  },
+  "02b2fe78e61a6d0b": {
+   "fragment_id": "Artigo 14.º — Comité de regulamentação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comité de regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comité de regulamentação\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002, que estabelece um Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS) ([^12^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0012)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1994/468/CE, tendo-se em conta o disposto no artigo 8.º da mesma.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "9ca95aaa654cfbcf": {
+   "fragment_id": "Artigo 15.º — Procedimento de alteração",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de alteração\n\nOs anexos da presente directiva, a definição que consta da alínea b) do artigo 2.º, as remissões para actos comunitários e para instrumentos da OMI podem ser alterados nos termos do n.º 2 do artigo 14.º para os adaptar às disposições comunitárias ou da OMI que tenham entrado em vigor, na medida em que tais alterações não alarguem o âmbito de aplicação da presente directiva.\n\nAlém disso, os anexos da presente directiva podem ser alterados nos referidos termos sempre que necessário para melhorar o regime estabelecido pela presente directiva, na medida em que tais alterações não alarguem o âmbito de aplicação da presente directiva.\n\nAs alterações dos instrumentos internacionais mencionados no artigo 2.º podem ser excluídas do âmbito de aplicação da presente directiva, nos termos do disposto no artigo 5.º do Regulamento (CE) n.º 2099/2002."
+  },
+  "3a07e2e3915a7ca1": {
+   "fragment_id": "Artigo 16.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 28 de Dezembro de 2002 e informar imediatamente a Comissão desse facto.\n\nContudo, no que diz respeito aos esgotos sanitários referidos na alínea c) do artigo 2.º, a execução da presente directiva fica suspensa até 12 meses após a entrada em vigor do Anexo IV da Marpol 73/78, sendo contudo respeitada a distinção feita naquela convenção entre navios novos e navios existentes.\n\n2. Quando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "c8a9df04efccf348": {
+   "fragment_id": "Artigo 17.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação\n\n1. Os Estados-Membros devem apresentar à Comissão, de três em três anos, um relatório sobre a aplicação da presente directiva.\n\n2. A Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório de avaliação do funcionamento do regime estabelecido na presente directiva, baseado nos relatórios dos Estados-Membros referidos no n.º 1 e acompanhado, se for caso disso, das propostas necessárias atinentes à aplicação da presente directiva."
+  },
+  "44f17340a00d3136": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente directiva entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "b33e5d35a5fa15e1": {
+   "fragment_id": "Artigo 19.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destinatários\n\nOs Estados-Membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "a8b6fd68efa63054": {
+   "fragment_id": "PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS",
+   "type": "divisao",
+   "heading": "PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRESCRIÇÕES PARA OS PLANOS PORTUÁRIOS DE RECEPÇÃO E GESTÃO DOS RESÍDUOS"
+  },
+  "1c2f4c084268f5a5": {
+   "fragment_id": "(referidas no artigo 5.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 5.º)\n\nOs planos devem abranger todos os tipos de resíduos gerados em navios e de resíduos da carga procedentes dos navios que normalmente demandam o porto e a sua elaboração deve ter em conta a dimensão do porto e o tipo de navios que o escalam.\n\nOs planos devem conter os seguintes elementos:\n\n— uma avaliação da necessidade de meios portuários de recepção, à luz das necessidades dos navios que normalmente demandam o porto,\n\n— uma descrição do tipo e capacidade dos meios portuários de recepção,\n\n— uma descrição detalhada dos procedimentos de recepção e recolha dos resíduos gerados em navios e dos resíduos da carga,\n\n— a descrição do regime de taxas,\n\n— os procedimentos de comunicação de alegadas insuficiências dos meios portuários de recepção,\n\n— os procedimentos de consulta permanente com os utilizadores do porto, as empresas responsáveis pelos resíduos, os operadores de terminais e outros interessados,\n\n— os tipos e as quantidades de resíduos gerados em navios e de resíduos da carga recebidos e processados.\n\nOs planos deveriam ainda incluir:\n\n— um resumo da legislação pertinente e das formalidades de entrega,\n\n— a identificação da pessoa ou pessoas responsáveis pela aplicação do plano,\n\n— a descrição do equipamento e processos de pré-tratamento eventualmente disponíveis no porto,\n\n— uma descrição dos métodos de registo da utilização dos meios de recepção,\n\n— uma descrição dos métodos de registo das quantidades recebidas de resíduos gerados em navios e de resíduos da carga,\n\n— a descrição do modo de eliminação dos resíduos gerados em navios e dos resíduos da carga.\n\nOs procedimentos de recepção, recolha, armazenamento, tratamento e eliminação deveriam obedecer, em todos os aspectos, a um plano de gestão ambiental adequado para a redução progressiva do impacte ambiental destas actividades. Tais procedimentos serão considerados conformes se cumprirem os requisitos do Regulamento (CEE) n.º 1836/93 do Conselho, de 29 de Junho de 1993, que permite a participação voluntária das empresas do sector industrial num sistema comunitário de ecogestão e auditoria ([^13^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0013))."
+  },
+  "e643319036fe7291": {
+   "fragment_id": "Informação a disponibilizar aos utilizadores do porto:",
+   "type": "divisao",
+   "heading": "Informação a disponibilizar aos utilizadores do porto:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informação a disponibilizar aos utilizadores do porto:\n\n— breve referência à importância fundamental da entrega dos resíduos gerados em navios e dos resíduos da carga,\n\n— localização dos meios portuários de recepção correspondentes a cada cais por meio de diagramas/mapas,\n\n— lista dos resíduos gerados em navios e dos resíduos da carga normalmente processados,\n\n— lista das pessoas a contactar, operadores e serviços propostos,\n\n— descrição dos procedimentos de entrega,\n\n— descrição do regime de taxas e\n\n— procedimentos de comunicação de alegadas insuficiências dos meios portuários de recepção."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "df3beec7e20ec414": {
+   "fragment_id": "INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE\n\n(Porto de destino referido no artigo 6.º da Directiva 2000/59/CE)\n\n1. Nome, indicativo de chamada e, se for caso disso, número IMO de identificação do navio:\n\n2. Estado de bandeira:\n\n3. Hora estimada de chegada (ETA):\n\n4. Hora estimada de partida (ETD):\n\n5. Porto de escala anterior:\n\n6. Próximo porto de escala:\n\n7. Último porto e data em que foram entregues resíduos gerados no navio:\n\n| 8. | Pretende entregar em meios portuários de recepção (assinalar a casa apropriada) a totalidade  parte  nenhuns  dos resíduos a bordo? |  |\n| --- | --- | --- |\n| a totalidade  | parte  | nenhuns  |\n\n| 9. | Tipo e quantidade de resíduos a entregar e/ou a conservar a bordo e percentagem da capacidade máxima de armazenamento: Tipo Resíduos a entregar m^3^ Capacidade máxima de armazenamento a bordo m^3^ Quantidade de resíduos que permanecem a bordo m^3^ Porto em que serão entregues os resíduos que permanecem a bordo Estimativa da quantidade de resíduos que será produzida entre a presente notificação e o próximo porto de escala m^3^ Resíduos de hidrocarbonetos Lamas Águas de porão Outros (especificar) Lixo Resíduos de alimentos Plásticos Outros **Esgotos sanitários** [(^1^)](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0014) **Resíduos associados à carga** [(^2^)](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0015) (especificar) **Resíduos da carga** [(^2^)](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0015) (especificar) (^1^)A regra 11 do anexo IV da Marpol 73/78 permite a descarga de esgotos sanitários no mar em certos casos. Caso se pretenda efectuar uma descarga autorizada no mar, não é necessário preencher as casas correspondentes. (^2^)Aceitam-se estimativas. |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Tipo | Resíduos a entregar m^3^ | Capacidade máxima de armazenamento a bordo m^3^ | Quantidade de resíduos que permanecem a bordo m^3^ | Porto em que serão entregues os resíduos que permanecem a bordo | Estimativa da quantidade de resíduos que será produzida entre a presente notificação e o próximo porto de escala m^3^ |\n| Resíduos de hidrocarbonetos |  |  |  |  |  |\n| Lamas |  |  |  |  |  |\n| Águas de porão |  |  |  |  |  |\n| Outros (especificar) |  |  |  |  |  |\n| Lixo |  |  |  |  |  |\n| Resíduos de alimentos |  |  |  |  |  |\n| Plásticos |  |  |  |  |  |\n| Outros |  |  |  |  |  |\n| **Esgotos sanitários** [(^1^)](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0014) |  |  |  |  |  |\n| **Resíduos associados à carga** [(^2^)](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0015) (especificar) |  |  |  |  |  |\n| **Resíduos da carga** [(^2^)](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#E0015) (especificar) |  |  |  |  |  |\n| (^1^)A regra 11 do anexo IV da Marpol 73/78 permite a descarga de esgotos sanitários no mar em certos casos. Caso se pretenda efectuar uma descarga autorizada no mar, não é necessário preencher as casas correspondentes. (^2^)Aceitam-se estimativas. |  |  |  |  |  |"
+  },
+  "1d9e8e7b00ca20bb": {
+   "fragment_id": "Notas:",
+   "type": "divisao",
+   "heading": "Notas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notas:\n\n1. Esta informação pode ser utilizada para efeitos das inspecções pelo Estado do porto e outras inspecções.\n\n2. Os Estados-Membros determinarão que organismos devem receber cópia da presente notificação.\n\n3. O presente formulário é de preenchimento obrigatório, excepto se o navio beneficiar de dispensa ao abrigo do artigo 9.º da Directiva 2000/59/CE.\n\nConfirmo que:\n\n— as informações fornecidas são exactas e correctas;\n\n— existe a bordo capacidade suficiente para armazenar todos os resíduos produzidos no período que medeia entre a presente notificação e a entrada no próximo porto em que serão entregues resíduos.\n\nData …\n\nHora …\n\nAssinatura …\n\n---"
+  },
+  "d183718cc881f228": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0001)) JO C 271 de 31.8.1998, p. 79 e JO C 148 de 28.5.1999, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0002)) JO C 138 de 18.5.1999, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0003)) JO C 198 de 14.7.1999, p. 27.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 11 de Fevereiro de 1999 (JO C 150 de 28.9.1999, p. 432), confirmado em 16 de Setembro de 1999, posição comum do Conselho de 8 de Novembro de 1999 (JO C 10 de 13.1.2000, p. 14) e decisão do Parlamento Europeu de 14 de Março de 2000 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 6 de Setembro de 2000 e decisão do Conselho de 14 de Setembro de 2000.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0005)) JO C 271 de 7.10.1993, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0006)) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/42/CE (JO L 184 de 27.6.1998, p. 40).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0008)) JO L 194 de 25.7.1975, p. 39. Directiva com a última redacção que lhe foi dada pela Decisão 96/350/CE da Comissão (JO L 135 de 6.6.1996, p. 32).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0009)) JO L 194 de 25.7.1975, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE (JO L 377 de 31.12.1991, p. 48).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0010)) JO L 377 de 31.12.1991, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 94/31/CEE (JO L 168 de 2.7.1994, p. 28).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0011)) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 955/99 (JO L 119 de 7.5.1999, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0012)) JO L 324 de 29.11.2002, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/b2914db5-7e14-427c-b3f2-6a89ff2715e0.0018.03/DOC_1#src.E0013)) JO L 168 de 10.7.1993, p. 1."
+  },
+  "a0471ac435f32c16": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro de 2000\n\nrelativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0004)), à luz do projecto comum aprovado pelo Comité de Conciliação em 18 de Julho de 2000,\n\n(1) A política comunitária para o ambiente visa um nível de protecção elevado. Ela baseia-se nos princípios da precaução, do poluidor-pagador e da acção preventiva.\n\n(2) Um importante domínio da acção comunitária no sector dos transportes marítimos diz respeito à redução da poluição dos oceanos. Pode conseguir-se tal objectivo dando cumprimento às convenções, códigos e resoluções internacionais, preservando simultaneamente a liberdade de navegação estabelecida pela Convenção das Nações Unidas sobre o Direito do Mar e a liberdade de prestação de serviços estabelecida pela legislação comunitária.\n\n(3) A Comunidade está seriamente preocupada com a poluição dos mares e costas dos Estados-Membros causada por descargas de resíduos de navios e de resíduos da carga e, em especial, com a aplicação da Convenção Internacional para a Prevenção da Poluição por Navios de 1973, alterada pelo Protocolo de 1978 (Marpol 73/78), que define que resíduos os navios podem descarregar para o meio marinho e requer que os Estados partes asseguram a disponibilidade de meios de recepção adequados nos portos. Todos os Estados-Membros ratificaram a Marpol 73/78.\n\n(4) Pode aumentar-se a protecção do meio marinho reduzindo as descargas no mar de resíduos gerados em navios e de resíduos da carga. Tal pode conseguir-se melhorando a disponibilidade e a utilização dos meios de recepção e melhorando o regime de aplicação. Na sua Resolução, de 8 de Junho de 1993, sobre uma política comum de segurança marítima ([^5^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0005)), o Conselho incluiu entre as suas acções prioritárias o desenvolvimento da disponibilidade e da utilização dos meios de recepção na Comunidade.\n\n(5) A Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os portos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida de trabalho a bordo dos navios (inspecção pelo Estado do porto) ([^6^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0006)), estabelece que os navios que representem um risco irrazoável de danos para o meio marinho não devem ser autorizados a sair para o mar.\n\n(6) A poluição dos mares tem, por natureza, repercussões transnacionais; à luz do princípio da subsidiariedade, uma acção a nível comunitário constitui o modo mais eficaz de garantir normas ambientais comuns para os navios e portos em toda a Comunidade.\n\n(7) À luz do princípio da proporcionalidade, uma directiva constitui o instrumento jurídico adequado, visto proporcionar um quadro para a aplicação uniforme e vinculativa das normas ambientais pelos Estados-Membros, deixando-lhes, todavia, o direito de decidirem dos meios de aplicação que melhor se coadunem com o seu sistema interno.\n\n(8) Deve ser assegurada a coerência com os acordos regionais em vigor, como a Convenção para a Protecção do Meio Marinho na Zona do Mar Báltico, de 1974/1992.\n\n(9) Para reforçar a prevenção da poluição e evitar distorções da concorrência, as prescrições ambientais deverão aplicar-se a todos os navios, qualquer que seja o seu pavilhão e que devem ser disponibilizados meios de recepção adequados em todos os portos da Comunidade.\n\n(10) Os meios portuários de recepção adequados deverão satisfazer as necessidades dos utilizadores, do maior navio mercante à mais pequena embarcação de recreio, e do ambiente, sem causar atrasos indevidos aos navios que os utilizam. A obrigação de garantir a disponibilidade de meios portuários de recepção adequados deixa aos Estados-Membros uma grande margem de liberdade para organizar a recepção dos resíduos da forma mais conveniente, permitindo-lhes, designadamente, prever instalações de recepção fixas ou designar prestadores de serviços que tragam até aos portos unidades móveis para a recepção dos resíduos. Esta obrigação implica igualmente a obrigação de prever todos os serviços e/ou medidas de acompanhamento necessárias para o uso correcto e adequado desses meios.\n\n(11) A adequação dos meios pode ser melhorada através de planos actualizados de recepção e gestão estabelecidos em consulta com as partes interessadas.\n\n(12) A eficácia dos meios portuários de recepção pode ser melhorada exigindo que os navios notifiquem a sua necessidade de utilizar meios de recepção. Esta notificação deverá igualmente conter informações que possibilitem uma clarificação eficaz da gestão de resíduos. Os resíduos provenientes de navios de pesca e de embarcações de recreio com autorização para um máximo de doze passageiros podem ser geridos pelos meios portuários de recepção sem notificação prévia.\n\n(13) As descargas no mar de resíduos gerados em navios podem ser reduzidas exigindo que todos os navios entreguem os resíduos em meios portuários de recepção antes de deixarem o porto. A fim de conciliar o interesse do funcionamento normal dos transportes marítimos com a protecção do ambiente, deverão ser possíveis as excepções a esta imposição tomando-se em conta a adequação da capacidade máxima de armazenamento a bordo, a possibilidade de entrega noutro porto sem riscos de descarga no mar e as condições de entrega específicas adoptadas em conformidade com o direito internacional.\n\n(14) Em virtude do princípio do «poluidor-pagador», os custos dos meios portuários de recepção, incluindo o tratamento e eliminação dos resíduos gerados em navios, deverão ser cobertos pelo navio. Com o intuito de proteger o ambiente, o regime de taxas deverá incentivar a entrega nos portos de resíduos gerados em navios em vez da descarga no mar. Tal pode ser facilitado determinando-se que todos os navios contribuam para os custos da recepção e gestão dos resíduos gerados em navios de modo a reduzir os incentivos económicos à descarga no mar. Em virtude do princípio da subsidiariedade, os Estados-Membros deverão continuar a ser competentes para decidir, de acordo com a respectiva legislação nacional e com as práticas em vigor no seu território, se e em que medida as taxas relacionadas com as quantidades de resíduos efectivamente entregues pelos navios serão incorporadas nos sistemas de recuperação dos custos de utilização de meios portuários de recepção. As taxas pela utilização destes meios deverão ser equitativas, não discriminatórias e transparentes.\n\n(15) Os navios que produzam quantidades reduzidas de resíduos deverão ser tratados de modo mais favorável no que diz respeito aos sistemas de recuperação dos custos. A adopção de critérios comuns facilitaria a identificação de tais navios.\n\n(16) A fim de evitar encargos exagerados para as partes interessadas, os navios com escalas frequentes e regulares poderão ser dispensados de certas obrigações decorrentes da presente directiva desde que haja provas suficientes que existem disposições para assegurar a entrega dos resíduos e o pagamento de taxas.\n\n(17) Os resíduos da carga deverão ser entregues em meios portuários de recepção em conformidade com o disposto na Marpol 73/78. A Marpol 73/78 exige que os resíduos da carga sejam entregues a meios portuários de recepção, na medida do necessário para cumprir as disposições em matéria de limpeza dos tanques. Qualquer taxa cobrada por essa entrega deverá ser paga pelo utilizador do meio de recepção, sendo o utilizador habitualmente definido em disposições contratuais entre as partes interessadas ou noutras disposições de carácter local.\n\n(18) É necessário realizar inspecções orientadas para verificar o cumprimento da presente directiva. O número de inspecções, bem como as sanções aplicadas, deverão ser o suficiente para prevenir o incumprimento do disposto na presente directiva. Por uma questão de eficiência e de relação custo-eficácia, essas inspecções poderão ser realizadas no âmbito da Directiva 95/21/CE em casos adequados.\n\n(19) Os Estados-Membros deverão garantir um enquadramento administrativo adequado para o funcionamento correcto dos meios portuários de recepção; nos termos da Marpol 73/78, as alegações de insuficiência dos meios portuários de recepção devem ser transmitidas à Organização Marítima Internacional (OMI). Essas mesmas alegações poderão ser transmitidas simultaneamente à Comissão para informação.\n\n(20) Um sistema de informação para identificação dos navios poluidores ou potencialmente poluidores facilitaria a aplicação da presente directiva e contribuiria para a avaliação da sua execução. O sistema de informação SIRENAC, criado no âmbito do Memorando de Acordo de Paris para a Inspecção pelo Estado do Porto, fornece muita da informação adicional necessária para esse efeito.\n\n(21) É necessário que um comité composto de representantes dos Estados-Membros assista a Comissão na aplicação efectiva da presente directiva. As medidas necessárias à execução da presente directiva são medidas de âmbito geral na acepção do artigo 2.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0007)), pelo que essas medidas devem ser aprovadas pelo procedimento de regulamentação a que se refere o artigo 5.º da referida decisão.\n\n(22) Certas disposições da presente directiva poderão, sem que se alargue o seu âmbito de aplicação, ser modificadas de acordo com aquele procedimento a fim de ter em conta disposições comunitárias ou da OMI que no futuro entrem em vigor, de modo a assegurar a sua aplicação harmonizada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "a988e8316a7a9a14": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Navio», uma embarcação de mar de qualquer tipo que opere no meio marinho, incluindo embarcações de sustentação dinâmica, veículos de sustentação por ar, submersíveis e estruturas flutuantes;\n\nb) «Marpol 73/78», a Convenção Internacional para a Prevenção da Poluição por Navios, de 1973, alterada pelo Protocolo de 1978, com a redacção em vigor[**►M1**](http://publications.europa.eu/resource/celex/32002L0084) —————**◄**;\n\nc) «Resíduos gerados em navios», todos os resíduos, incluindo os esgotos sanitários, e os resíduos que não sejam resíduos da carga, produzidos no serviço de um navio e abrangidos pelos Anexos I, IV e V da Marpol 73/78, bem como os resíduos associados à carga, conforme definidos nas directrizes para a aplicação do Anexo V da Marpol 73/78;\n\nd) «Resíduos da carga», os restos das matérias transportadas como carga em porões ou tanques de carga que ficam das operações de descarga e das operações de limpeza, incluindo excedentes de carga/descarga e derrames;\n\ne) «Meios portuários de recepção», as estruturas fixas, flutuantes ou móveis aptas a receber resíduos gerados em navios ou resíduos da carga;\n\nf) «Navio de pesca», um navio equipado ou utilizado comercialmente para a captura de peixe ou outros recursos vivos do mar;\n\ng) «Embarcação de recreio», um navio de qualquer tipo, independentemente do meio de propulsão, utilizado para fins desportivos ou recreativos;\n\nh) «Porto», qualquer lugar ou área geográfica em que tenham sido efectuados trabalhos de beneficiação ou instalados equipamentos que permitam, principalmente, a recepção de navios, incluindo navios de pesca e embarcações de recreio.\n\nSem prejuízo das definições das alíneas c) e d), os «resíduos gerados em navios» e os «resíduos da carga» são considerados resíduos na acepção do disposto no n.º 1, alínea a), da Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos ([^8^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0008))."
+  },
+  "869e34981fcb9aa0": {
+   "fragment_id": "Artigo 12.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas de acompanhamento\n\n1. Os Estados-Membros devem:\n\na) Tomar todas as medidas necessárias para assegurar que os comandantes, os operadores dos meios portuários de recepção e outros interessados sejam devidamente informados das prescrições que lhes são aplicáveis nos termos da presente directiva e cumpram tais prescrições;\n\nb) Designar as autoridades ou organismos competentes para desempenhar as funções decorrentes da presente directiva;\n\nc) Velar pela cooperação entre as autoridades competentes e as organizações comerciais, a fim de assegurar a aplicação efectiva da presente directiva;\n\nd) Assegurar que a informação notificada pelos comandantes nos termos do artigo 6.º seja devidamente verificada;\n\ne) Assegurar que as formalidades associadas à utilização dos meios portuários de recepção sejam simples e rápidas, a fim de incentivar os comandantes a utilizarem esses meios e de evitar aos navios atrasos indevidos;\n\nf) Assegurar que a Comissão receba cópia das alegações de insuficiência dos meios portuários de recepção a que se refere o n.º 3 do artigo 4.º;\n\ng) Assegurar que o tratamento, valorização ou eliminação dos resíduos gerados em navios e dos resíduos da carga sejam executados em conformidade com o disposto na Directiva 75/442/CEE e noutros actos legislativos comunitários pertinentes no domínio dos resíduos, em particular a Directiva 75/439/CEE do Conselho, de 16 de Junho de 1975, relativa à eliminação dos óleos usados ([^9^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0009)), e a Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^10^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0010));\n\nh) Assegurar, de acordo com a respectiva legislação nacional, que qualquer parte envolvida na entrega ou recepção de resíduos gerados em navios ou resíduos da carga possa reclamar uma indemnização pelos prejuízos causados por atrasos indevidos.\n\n2. A entrega de resíduos gerados em navios e de resíduos da carga é considerada introdução em livre prática na acepção do artigo 79.º do Regulamento (CEE) n.º 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o Código Aduaneiro Comunitário ([^11^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0011)). Em conformidade com o artigo 45.º do Código Aduaneiro Comunitário, as autoridades aduaneiras não exigirão a entrega de declaração sumária.\n\n3. Os Estados-Membros e a Comissão devem cooperar no estabelecimento de um sistema de informação e controlo adequado, que cubra pelo menos toda a Comunidade, destinado a:\n\n— melhorar a identificação dos navios que não tenham entregue os resíduos neles gerados e os resíduos da carga em conformidade com o disposto na presente directiva,\n\n— avaliar se os objectivos estabelecidos no artigo 1.º foram alcançados.\n\n4. Os Estados-Membros e a Comissão devem cooperar na definição de critérios comuns para a identificação dos navios referidos na alínea c) do n.º 2 do artigo 8.º"
+  },
+  "35114c15ec9a6b39": {
+   "fragment_id": "Artigo 14.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^12^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0012)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "cb7918be62bd8dd0": {
+   "fragment_id": "Artigo 15.º — Procedimento de alteração",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de alteração\n\nOs anexos da presente directiva, a definição que consta da alínea b) do artigo 2.º, as remissões para actos comunitários e da OMI podem ser adaptados pela Comissão para os alinhar pelas medidas comunitárias ou da OMI que tenham entrado em vigor, desde que as alterações não alarguem o seu âmbito de aplicação.\n\nAlém disso, os anexos da presente directiva podem ser alterados pela Comissão sempre que necessário para melhorar o regime estabelecido pela presente directiva, desde que as alterações não alarguem o seu âmbito de aplicação.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 14.º.\n\nAs alterações dos instrumentos internacionais referidos no artigo 2.º podem ser excluídos do âmbito de aplicação da presente directiva, nos termos do artigo 5.º do Regulamento (CE) n.º 2099/2002."
+  },
+  "c90ebcdca7c94a6e": {
+   "fragment_id": "(referidas no artigo 5.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 5.º)\n\nOs planos devem abranger todos os tipos de resíduos gerados em navios e de resíduos da carga procedentes dos navios que normalmente demandam o porto e a sua elaboração deve ter em conta a dimensão do porto e o tipo de navios que o escalam.\n\nOs planos devem conter os seguintes elementos:\n\n— uma avaliação da necessidade de meios portuários de recepção, à luz das necessidades dos navios que normalmente demandam o porto,\n\n— uma descrição do tipo e capacidade dos meios portuários de recepção,\n\n— uma descrição detalhada dos procedimentos de recepção e recolha dos resíduos gerados em navios e dos resíduos da carga,\n\n— a descrição do regime de taxas,\n\n— os procedimentos de comunicação de alegadas insuficiências dos meios portuários de recepção,\n\n— os procedimentos de consulta permanente com os utilizadores do porto, as empresas responsáveis pelos resíduos, os operadores de terminais e outros interessados,\n\n— os tipos e as quantidades de resíduos gerados em navios e de resíduos da carga recebidos e processados.\n\nOs planos deveriam ainda incluir:\n\n— um resumo da legislação pertinente e das formalidades de entrega,\n\n— a identificação da pessoa ou pessoas responsáveis pela aplicação do plano,\n\n— a descrição do equipamento e processos de pré-tratamento eventualmente disponíveis no porto,\n\n— uma descrição dos métodos de registo da utilização dos meios de recepção,\n\n— uma descrição dos métodos de registo das quantidades recebidas de resíduos gerados em navios e de resíduos da carga,\n\n— a descrição do modo de eliminação dos resíduos gerados em navios e dos resíduos da carga.\n\nOs procedimentos de recepção, recolha, armazenamento, tratamento e eliminação deveriam obedecer, em todos os aspectos, a um plano de gestão ambiental adequado para a redução progressiva do impacte ambiental destas actividades. Tais procedimentos serão considerados conformes se cumprirem os requisitos do Regulamento (CEE) n.º 1836/93 do Conselho, de 29 de Junho de 1993, que permite a participação voluntária das empresas do sector industrial num sistema comunitário de ecogestão e auditoria ([^13^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0013))."
+  },
+  "2c92bece3f64caa2": {
+   "fragment_id": "INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE\n\n(Porto de destino referido no artigo 6.º da Directiva 2000/59/CE)\n\n1. Nome, indicativo de chamada e, se for caso disso, número IMO de identificação do navio:\n\n2. Estado de bandeira:\n\n3. Hora estimada de chegada (ETA):\n\n4. Hora estimada de partida (ETD):\n\n5. Porto de escala anterior:\n\n6. Próximo porto de escala:\n\n7. Último porto e data em que foram entregues resíduos gerados no navio:\n\n| 8. | Pretende entregar em meios portuários de recepção (assinalar a casa apropriada) a totalidade  parte  nenhuns  dos resíduos a bordo? |  |\n| --- | --- | --- |\n| a totalidade  | parte  | nenhuns  |\n\n| 9. | Tipo e quantidade de resíduos a entregar e/ou a conservar a bordo e percentagem da capacidade máxima de armazenamento: Tipo Resíduos a entregar m^3^ Capacidade máxima de armazenamento a bordo m^3^ Quantidade de resíduos que permanecem a bordo m^3^ Porto em que serão entregues os resíduos que permanecem a bordo Estimativa da quantidade de resíduos que será produzida entre a presente notificação e o próximo porto de escala m^3^ Resíduos de hidrocarbonetos Lamas Águas de porão Outros (especificar) Lixo Resíduos de alimentos Plásticos Outros **Esgotos sanitários** [(^1^)](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0014) **Resíduos associados à carga** [(^2^)](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0015) (especificar) **Resíduos da carga** [(^2^)](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0015) (especificar) (^1^)A regra 11 do anexo IV da Marpol 73/78 permite a descarga de esgotos sanitários no mar em certos casos. Caso se pretenda efectuar uma descarga autorizada no mar, não é necessário preencher as casas correspondentes. (^2^)Aceitam-se estimativas. |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Tipo | Resíduos a entregar m^3^ | Capacidade máxima de armazenamento a bordo m^3^ | Quantidade de resíduos que permanecem a bordo m^3^ | Porto em que serão entregues os resíduos que permanecem a bordo | Estimativa da quantidade de resíduos que será produzida entre a presente notificação e o próximo porto de escala m^3^ |\n| Resíduos de hidrocarbonetos |  |  |  |  |  |\n| Lamas |  |  |  |  |  |\n| Águas de porão |  |  |  |  |  |\n| Outros (especificar) |  |  |  |  |  |\n| Lixo |  |  |  |  |  |\n| Resíduos de alimentos |  |  |  |  |  |\n| Plásticos |  |  |  |  |  |\n| Outros |  |  |  |  |  |\n| **Esgotos sanitários** [(^1^)](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0014) |  |  |  |  |  |\n| **Resíduos associados à carga** [(^2^)](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0015) (especificar) |  |  |  |  |  |\n| **Resíduos da carga** [(^2^)](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#E0015) (especificar) |  |  |  |  |  |\n| (^1^)A regra 11 do anexo IV da Marpol 73/78 permite a descarga de esgotos sanitários no mar em certos casos. Caso se pretenda efectuar uma descarga autorizada no mar, não é necessário preencher as casas correspondentes. (^2^)Aceitam-se estimativas. |  |  |  |  |  |"
+  },
+  "325ae72b84b06795": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0001)) JO C 271 de 31.8.1998, p. 79 e JO C 148 de 28.5.1999, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0002)) JO C 138 de 18.5.1999, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0003)) JO C 198 de 14.7.1999, p. 27.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 11 de Fevereiro de 1999 (JO C 150 de 28.9.1999, p. 432), confirmado em 16 de Setembro de 1999, posição comum do Conselho de 8 de Novembro de 1999 (JO C 10 de 13.1.2000, p. 14) e decisão do Parlamento Europeu de 14 de Março de 2000 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 6 de Setembro de 2000 e decisão do Conselho de 14 de Setembro de 2000.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0005)) JO C 271 de 7.10.1993, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0006)) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/42/CE (JO L 184 de 27.6.1998, p. 40).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0008)) JO L 194 de 25.7.1975, p. 39. Directiva com a última redacção que lhe foi dada pela Decisão 96/350/CE da Comissão (JO L 135 de 6.6.1996, p. 32).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0009)) JO L 194 de 25.7.1975, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE (JO L 377 de 31.12.1991, p. 48).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0010)) JO L 377 de 31.12.1991, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 94/31/CEE (JO L 168 de 2.7.1994, p. 28).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0011)) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 955/99 (JO L 119 de 7.5.1999, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0012)) JO L 324 de 29.11.2002, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/3a97a791-7c64-48e6-a994-828635b791d2.0018.03/DOC_1#src.E0013)) JO L 168 de 10.7.1993, p. 1."
+  },
+  "a35111f2fc14e079": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro de 2000\n\nrelativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 80.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0004)), à luz do projecto comum aprovado pelo Comité de Conciliação em 18 de Julho de 2000,\n\n(1) A política comunitária para o ambiente visa um nível de protecção elevado. Ela baseia-se nos princípios da precaução, do poluidor-pagador e da acção preventiva.\n\n(2) Um importante domínio da acção comunitária no sector dos transportes marítimos diz respeito à redução da poluição dos oceanos. Pode conseguir-se tal objectivo dando cumprimento às convenções, códigos e resoluções internacionais, preservando simultaneamente a liberdade de navegação estabelecida pela Convenção das Nações Unidas sobre o Direito do Mar e a liberdade de prestação de serviços estabelecida pela legislação comunitária.\n\n(3) A Comunidade está seriamente preocupada com a poluição dos mares e costas dos Estados-Membros causada por descargas de resíduos de navios e de resíduos da carga e, em especial, com a aplicação da Convenção Internacional para a Prevenção da Poluição por Navios de 1973, alterada pelo Protocolo de 1978 (Marpol 73/78), que define que resíduos os navios podem descarregar para o meio marinho e requer que os Estados partes asseguram a disponibilidade de meios de recepção adequados nos portos. Todos os Estados-Membros ratificaram a Marpol 73/78.\n\n(4) Pode aumentar-se a protecção do meio marinho reduzindo as descargas no mar de resíduos gerados em navios e de resíduos da carga. Tal pode conseguir-se melhorando a disponibilidade e a utilização dos meios de recepção e melhorando o regime de aplicação. Na sua Resolução, de 8 de Junho de 1993, sobre uma política comum de segurança marítima ([^5^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0005)), o Conselho incluiu entre as suas acções prioritárias o desenvolvimento da disponibilidade e da utilização dos meios de recepção na Comunidade.\n\n(5) A Directiva 95/21/CE do Conselho, de 19 de Junho de 1995, relativa à aplicação, aos navios que escalem os portos da Comunidade ou naveguem em águas sob jurisdição dos Estados-Membros, das normas internacionais respeitantes à segurança da navegação, à prevenção da poluição e às condições de vida de trabalho a bordo dos navios (inspecção pelo Estado do porto) ([^6^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0006)), estabelece que os navios que representem um risco irrazoável de danos para o meio marinho não devem ser autorizados a sair para o mar.\n\n(6) A poluição dos mares tem, por natureza, repercussões transnacionais; à luz do princípio da subsidiariedade, uma acção a nível comunitário constitui o modo mais eficaz de garantir normas ambientais comuns para os navios e portos em toda a Comunidade.\n\n(7) À luz do princípio da proporcionalidade, uma directiva constitui o instrumento jurídico adequado, visto proporcionar um quadro para a aplicação uniforme e vinculativa das normas ambientais pelos Estados-Membros, deixando-lhes, todavia, o direito de decidirem dos meios de aplicação que melhor se coadunem com o seu sistema interno.\n\n(8) Deve ser assegurada a coerência com os acordos regionais em vigor, como a Convenção para a Protecção do Meio Marinho na Zona do Mar Báltico, de 1974/1992.\n\n(9) Para reforçar a prevenção da poluição e evitar distorções da concorrência, as prescrições ambientais deverão aplicar-se a todos os navios, qualquer que seja o seu pavilhão e que devem ser disponibilizados meios de recepção adequados em todos os portos da Comunidade.\n\n(10) Os meios portuários de recepção adequados deverão satisfazer as necessidades dos utilizadores, do maior navio mercante à mais pequena embarcação de recreio, e do ambiente, sem causar atrasos indevidos aos navios que os utilizam. A obrigação de garantir a disponibilidade de meios portuários de recepção adequados deixa aos Estados-Membros uma grande margem de liberdade para organizar a recepção dos resíduos da forma mais conveniente, permitindo-lhes, designadamente, prever instalações de recepção fixas ou designar prestadores de serviços que tragam até aos portos unidades móveis para a recepção dos resíduos. Esta obrigação implica igualmente a obrigação de prever todos os serviços e/ou medidas de acompanhamento necessárias para o uso correcto e adequado desses meios.\n\n(11) A adequação dos meios pode ser melhorada através de planos actualizados de recepção e gestão estabelecidos em consulta com as partes interessadas.\n\n(12) A eficácia dos meios portuários de recepção pode ser melhorada exigindo que os navios notifiquem a sua necessidade de utilizar meios de recepção. Esta notificação deverá igualmente conter informações que possibilitem uma clarificação eficaz da gestão de resíduos. Os resíduos provenientes de navios de pesca e de embarcações de recreio com autorização para um máximo de doze passageiros podem ser geridos pelos meios portuários de recepção sem notificação prévia.\n\n(13) As descargas no mar de resíduos gerados em navios podem ser reduzidas exigindo que todos os navios entreguem os resíduos em meios portuários de recepção antes de deixarem o porto. A fim de conciliar o interesse do funcionamento normal dos transportes marítimos com a protecção do ambiente, deverão ser possíveis as excepções a esta imposição tomando-se em conta a adequação da capacidade máxima de armazenamento a bordo, a possibilidade de entrega noutro porto sem riscos de descarga no mar e as condições de entrega específicas adoptadas em conformidade com o direito internacional.\n\n(14) Em virtude do princípio do «poluidor-pagador», os custos dos meios portuários de recepção, incluindo o tratamento e eliminação dos resíduos gerados em navios, deverão ser cobertos pelo navio. Com o intuito de proteger o ambiente, o regime de taxas deverá incentivar a entrega nos portos de resíduos gerados em navios em vez da descarga no mar. Tal pode ser facilitado determinando-se que todos os navios contribuam para os custos da recepção e gestão dos resíduos gerados em navios de modo a reduzir os incentivos económicos à descarga no mar. Em virtude do princípio da subsidiariedade, os Estados-Membros deverão continuar a ser competentes para decidir, de acordo com a respectiva legislação nacional e com as práticas em vigor no seu território, se e em que medida as taxas relacionadas com as quantidades de resíduos efectivamente entregues pelos navios serão incorporadas nos sistemas de recuperação dos custos de utilização de meios portuários de recepção. As taxas pela utilização destes meios deverão ser equitativas, não discriminatórias e transparentes.\n\n(15) Os navios que produzam quantidades reduzidas de resíduos deverão ser tratados de modo mais favorável no que diz respeito aos sistemas de recuperação dos custos. A adopção de critérios comuns facilitaria a identificação de tais navios.\n\n(16) A fim de evitar encargos exagerados para as partes interessadas, os navios com escalas frequentes e regulares poderão ser dispensados de certas obrigações decorrentes da presente directiva desde que haja provas suficientes que existem disposições para assegurar a entrega dos resíduos e o pagamento de taxas.\n\n(17) Os resíduos da carga deverão ser entregues em meios portuários de recepção em conformidade com o disposto na Marpol 73/78. A Marpol 73/78 exige que os resíduos da carga sejam entregues a meios portuários de recepção, na medida do necessário para cumprir as disposições em matéria de limpeza dos tanques. Qualquer taxa cobrada por essa entrega deverá ser paga pelo utilizador do meio de recepção, sendo o utilizador habitualmente definido em disposições contratuais entre as partes interessadas ou noutras disposições de carácter local.\n\n(18) É necessário realizar inspecções orientadas para verificar o cumprimento da presente directiva. O número de inspecções, bem como as sanções aplicadas, deverão ser o suficiente para prevenir o incumprimento do disposto na presente directiva. Por uma questão de eficiência e de relação custo-eficácia, essas inspecções poderão ser realizadas no âmbito da Directiva 95/21/CE em casos adequados.\n\n(19) Os Estados-Membros deverão garantir um enquadramento administrativo adequado para o funcionamento correcto dos meios portuários de recepção; nos termos da Marpol 73/78, as alegações de insuficiência dos meios portuários de recepção devem ser transmitidas à Organização Marítima Internacional (OMI). Essas mesmas alegações poderão ser transmitidas simultaneamente à Comissão para informação.\n\n(20) Um sistema de informação para identificação dos navios poluidores ou potencialmente poluidores facilitaria a aplicação da presente directiva e contribuiria para a avaliação da sua execução. O sistema de informação SIRENAC, criado no âmbito do Memorando de Acordo de Paris para a Inspecção pelo Estado do Porto, fornece muita da informação adicional necessária para esse efeito.\n\n(21) É necessário que um comité composto de representantes dos Estados-Membros assista a Comissão na aplicação efectiva da presente directiva. As medidas necessárias à execução da presente directiva são medidas de âmbito geral na acepção do artigo 2.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0007)), pelo que essas medidas devem ser aprovadas pelo procedimento de regulamentação a que se refere o artigo 5.º da referida decisão.\n\n(22) Certas disposições da presente directiva poderão, sem que se alargue o seu âmbito de aplicação, ser modificadas de acordo com aquele procedimento a fim de ter em conta disposições comunitárias ou da OMI que no futuro entrem em vigor, de modo a assegurar a sua aplicação harmonizada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "389b9e1c25a47147": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Navio», uma embarcação de mar de qualquer tipo que opere no meio marinho, incluindo embarcações de sustentação dinâmica, veículos de sustentação por ar, submersíveis e estruturas flutuantes;\n\nb) «Marpol 73/78», a Convenção Internacional para a Prevenção da Poluição por Navios, de 1973, alterada pelo Protocolo de 1978, com a redacção em vigor [**►M1**](http://publications.europa.eu/resource/celex/32002L0084) —————**◄**;\n\nc) «Resíduos gerados em navios», todos os resíduos, incluindo os esgotos sanitários, e os resíduos que não sejam resíduos da carga, produzidos no serviço de um navio e abrangidos pelos Anexos I, IV e V da Marpol 73/78, bem como os resíduos associados à carga, conforme definidos nas directrizes para a aplicação do Anexo V da Marpol 73/78;\n\nd) «Resíduos da carga», os restos das matérias transportadas como carga em porões ou tanques de carga que ficam das operações de descarga e das operações de limpeza, incluindo excedentes de carga/descarga e derrames;\n\ne) «Meios portuários de recepção», as estruturas fixas, flutuantes ou móveis aptas a receber resíduos gerados em navios ou resíduos da carga;\n\nf) «Navio de pesca», um navio equipado ou utilizado comercialmente para a captura de peixe ou outros recursos vivos do mar;\n\ng) «Embarcação de recreio», um navio de qualquer tipo, independentemente do meio de propulsão, utilizado para fins desportivos ou recreativos;\n\nh) «Porto», qualquer lugar ou área geográfica em que tenham sido efectuados trabalhos de beneficiação ou instalados equipamentos que permitam, principalmente, a recepção de navios, incluindo navios de pesca e embarcações de recreio.\n\nSem prejuízo das definições das alíneas c) e d), os «resíduos gerados em navios» e os «resíduos da carga» são considerados resíduos na acepção do disposto no n.º 1, alínea a), da Directiva 75/442/CEE do Conselho, de 15 de Julho de 1975, relativa aos resíduos ([^8^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0008))."
+  },
+  "88205b421940dcaf": {
+   "fragment_id": "Artigo 12.º — Medidas de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Medidas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas de acompanhamento\n\n1. Os Estados-Membros devem:\n\na) Tomar todas as medidas necessárias para assegurar que os comandantes, os operadores dos meios portuários de recepção e outros interessados sejam devidamente informados das prescrições que lhes são aplicáveis nos termos da presente directiva e cumpram tais prescrições;\n\nb) Designar as autoridades ou organismos competentes para desempenhar as funções decorrentes da presente directiva;\n\nc) Velar pela cooperação entre as autoridades competentes e as organizações comerciais, a fim de assegurar a aplicação efectiva da presente directiva;\n\nd) Assegurar que a informação notificada pelos comandantes nos termos do artigo 6.º seja devidamente verificada;\n\ne) Assegurar que as formalidades associadas à utilização dos meios portuários de recepção sejam simples e rápidas, a fim de incentivar os comandantes a utilizarem esses meios e de evitar aos navios atrasos indevidos;\n\nf) Assegurar que a Comissão receba cópia das alegações de insuficiência dos meios portuários de recepção a que se refere o n.º 3 do artigo 4.º;\n\ng) Assegurar que o tratamento, valorização ou eliminação dos resíduos gerados em navios e dos resíduos da carga sejam executados em conformidade com o disposto na Directiva 75/442/CEE e noutros actos legislativos comunitários pertinentes no domínio dos resíduos, em particular a Directiva 75/439/CEE do Conselho, de 16 de Junho de 1975, relativa à eliminação dos óleos usados ([^9^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0009)), e a Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^10^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0010));\n\nh) Assegurar, de acordo com a respectiva legislação nacional, que qualquer parte envolvida na entrega ou recepção de resíduos gerados em navios ou resíduos da carga possa reclamar uma indemnização pelos prejuízos causados por atrasos indevidos.\n\n2. A entrega de resíduos gerados em navios e de resíduos da carga é considerada introdução em livre prática na acepção do artigo 79.º do Regulamento (CEE) n.º 2913/92 do Conselho, de 12 de Outubro de 1992, que estabelece o Código Aduaneiro Comunitário ([^11^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0011)). Em conformidade com o artigo 45.º do Código Aduaneiro Comunitário, as autoridades aduaneiras não exigirão a entrega de declaração sumária.\n\n3. Os Estados-Membros e a Comissão devem cooperar no estabelecimento de um sistema de informação e controlo adequado, que cubra pelo menos toda a Comunidade, destinado a:\n\n— melhorar a identificação dos navios que não tenham entregue os resíduos neles gerados e os resíduos da carga em conformidade com o disposto na presente directiva,\n\n— avaliar se os objectivos estabelecidos no artigo 1.º foram alcançados.\n\n4. Os Estados-Membros e a Comissão devem cooperar na definição de critérios comuns para a identificação dos navios referidos na alínea c) do n.º 2 do artigo 8.º"
+  },
+  "3d515f177fb3d7df": {
+   "fragment_id": "Artigo 14.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), instituído pelo artigo 3.º do Regulamento (CE) n.º 2099/2002 do Parlamento Europeu e do Conselho ([^12^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0012)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "d7ff48bcd37ab9b4": {
+   "fragment_id": "(referidas no artigo 5.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 5.º)\n\nOs planos devem abranger todos os tipos de resíduos gerados em navios e de resíduos da carga procedentes dos navios que normalmente demandam o porto e a sua elaboração deve ter em conta a dimensão do porto e o tipo de navios que o escalam.\n\nOs planos devem conter os seguintes elementos:\n\n— uma avaliação da necessidade de meios portuários de recepção, à luz das necessidades dos navios que normalmente demandam o porto,\n\n— uma descrição do tipo e capacidade dos meios portuários de recepção,\n\n— uma descrição detalhada dos procedimentos de recepção e recolha dos resíduos gerados em navios e dos resíduos da carga,\n\n— a descrição do regime de taxas,\n\n— os procedimentos de comunicação de alegadas insuficiências dos meios portuários de recepção,\n\n— os procedimentos de consulta permanente com os utilizadores do porto, as empresas responsáveis pelos resíduos, os operadores de terminais e outros interessados,\n\n— os tipos e as quantidades de resíduos gerados em navios e de resíduos da carga recebidos e processados.\n\nOs planos deveriam ainda incluir:\n\n— um resumo da legislação pertinente e das formalidades de entrega,\n\n— a identificação da pessoa ou pessoas responsáveis pela aplicação do plano,\n\n— a descrição do equipamento e processos de pré-tratamento eventualmente disponíveis no porto,\n\n— uma descrição dos métodos de registo da utilização dos meios de recepção,\n\n— uma descrição dos métodos de registo das quantidades recebidas de resíduos gerados em navios e de resíduos da carga,\n\n— a descrição do modo de eliminação dos resíduos gerados em navios e dos resíduos da carga.\n\nOs procedimentos de recepção, recolha, armazenamento, tratamento e eliminação deveriam obedecer, em todos os aspectos, a um plano de gestão ambiental adequado para a redução progressiva do impacte ambiental destas actividades. Tais procedimentos serão considerados conformes se cumprirem os requisitos do Regulamento (CEE) n.º 1836/93 do Conselho, de 29 de Junho de 1993, que permite a participação voluntária das empresas do sector industrial num sistema comunitário de ecogestão e auditoria ([^13^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0013))."
+  },
+  "c3d771d99ec74961": {
+   "fragment_id": "INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE …",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE …",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A NOTIFICAR ANTES DA ENTRADA NO PORTO DE …"
+  },
+  "f76cc50d68bdaf8b": {
+   "fragment_id": "(Porto de destino a que se faz referência no artigo 6.º da Diretiva 2000/59/CE)",
+   "type": "divisao",
+   "heading": "(Porto de destino a que se faz referência no artigo 6.º da Diretiva 2000/59/CE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Porto de destino a que se faz referência no artigo 6.º da Diretiva 2000/59/CE)\n\n1. Nome, indicativo de chamada e, se for o caso, número IMO de identificação do navio:\n\n2. Estado de bandeira:\n\n3. Hora estimada de chegada (ETA):\n\n4. Hora estimada de partida (ETD):\n\n5. Porto de escala anterior:\n\n6. Próximo porto de escala:\n\n7. Último porto em que foram entregues resíduos gerados no navio e data da entrega, com indicação da quantidade (m^3^) e do tipo de resíduos entregues:\n\n8. Vai entregar-se (assinalar a casa apropriada):\n\n| a totalidade □ | parte □ | nenhuns □ |\n| --- | --- | --- |\n\n9. Tipo e quantidade de resíduos a entregar e/ou a conservar a bordo e percentagem da capacidade máxima de armazenamento:\n\n*Se for entregue a totalidade dos resíduos, preencher a segunda e a última coluna. Se for entregue parte dos resíduos ou não se entregar nenhuns resíduos, preencher todas as colunas.*\n\n| Tipo | Resíduos a entregar (m^3^) | Capacidade máxima de armazena-mento de resíduos a bordo (m^3^) | Quantidade de resíduos que ficam a bordo (m^3^) | Porto em que serão entregues os resíduos que ficam a bordo | Quantidade estimada de resíduos produzidos entre a notificação e o próximo porto de escala (m^3^) | Resíduos entregues no porto identifi-cado no ponto 7 (m^3^) |\n| --- | --- | --- | --- | --- | --- | --- |\n| **Resíduos de hidrocarbonetos** |  |  |  |  |  |  |\n| Águas de porão |  |  |  |  |  |  |\n| Lamas |  |  |  |  |  |  |\n| Outros (especificar) |  |  |  |  |  |  |\n| **Esgotos sanitários** [(^1^)](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0014) |  |  |  |  |  |  |\n| **Lixo** |  |  |  |  |  |  |\n| Plásticos |  |  |  |  |  |  |\n| Restos de alimentos |  |  |  |  |  |  |\n| Resíduos domésticos (p. ex. papel, trapos, vidro, metais, garrafas, loiça, etc.) |  |  |  |  |  |  |\n| Óleos de cozinha |  |  |  |  |  |  |\n| Cinzas de incineração |  |  |  |  |  |  |\n| Resíduos operacionais |  |  |  |  |  |  |\n| Carcaças de animais |  |  |  |  |  |  |\n| **Resíduos da carga** [(^2^)](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0015) (especificar) [(^3^)](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#E0016) |  |  |  |  |  |  |\n| (^1^)A regra 11 do anexo IV da Marpol permite a descarga de esgotos sanitários no mar em certos casos. Caso se pretenda efetuar uma descarga autorizada no mar, não é necessário preencher as casas correspondentes. (^2^)Aceitam-se estimativas. (^3^)Os resíduos da carga devem ser especificados e classificados em categorias segundo o prescrito nos anexos da Marpol, em particular os anexos I, II e V. |  |  |  |  |  |  |"
+  },
+  "e1f892166221740c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notas\n\n1. Esta informação pode ser utilizada para os fins das inspeções pelo Estado do porto e outras inspeções.\n\n2. Os Estados-Membros determinam que organismos deverão receber cópia da presente notificação.\n\n3. O presente formulário é de preenchimento obrigatório, exceto se o navio beneficiar de dispensa ao abrigo do artigo 9.º da Diretiva 2000/59/CE.\n\nConfirma-se que:\n\n— as informações fornecidas são exatas e corretas;\n\n— há a bordo capacidade suficiente para armazenar todos os resíduos produzidos no período que medeia entre a presente notificação e a chegada ao próximo porto em que serão entregues resíduos.\n\nData …\n\nHora …\n\nAssinatura\n\n---"
+  },
+  "57b133093f4e83b5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0001)) JO C 271 de 31.8.1998, p. 79 e JO C 148 de 28.5.1999, p. 7.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0002)) JO C 138 de 18.5.1999, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0003)) JO C 198 de 14.7.1999, p. 27.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 11 de Fevereiro de 1999 (JO C 150 de 28.9.1999, p. 432), confirmado em 16 de Setembro de 1999, posição comum do Conselho de 8 de Novembro de 1999 (JO C 10 de 13.1.2000, p. 14) e decisão do Parlamento Europeu de 14 de Março de 2000 (ainda não publicada no Jornal Oficial). Decisão do Parlamento Europeu de 6 de Setembro de 2000 e decisão do Conselho de 14 de Setembro de 2000.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0005)) JO C 271 de 7.10.1993, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0006)) JO L 157 de 7.7.1995, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 98/42/CE (JO L 184 de 27.6.1998, p. 40).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0008)) JO L 194 de 25.7.1975, p. 39. Directiva com a última redacção que lhe foi dada pela Decisão 96/350/CE da Comissão (JO L 135 de 6.6.1996, p. 32).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0009)) JO L 194 de 25.7.1975, p. 23. Directiva com a última redacção que lhe foi dada pela Directiva 91/692/CEE (JO L 377 de 31.12.1991, p. 48).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0010)) JO L 377 de 31.12.1991, p. 20. Directiva com a última redacção que lhe foi dada pela Directiva 94/31/CEE (JO L 168 de 2.7.1994, p. 28).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0011)) JO L 302 de 19.10.1992, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 955/99 (JO L 119 de 7.5.1999, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0012)) JO L 324 de 29.11.2002, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/af5d77d3-5a86-4a53-b1e2-8c528ac0a734.0015.02/DOC_1#src.E0013)) JO L 168 de 10.7.1993, p. 1."
+  },
+  "1b27d733f3e65f2d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02000L0059 — PT — 27.06.2019 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32000L0059) [DIRECTIVA 2000/59/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32000L0059) [de 27 de Novembro de 2000](http://publications.europa.eu/resource/celex/32000L0059) [relativa aos meios portuários de recepção de resíduos gerados em navios e de resíduos da carga](http://publications.europa.eu/resource/celex/32000L0059) (JO L 332, 28.12.2000, p.81)\n\n**Revogada por:**\n\n- [Diretiva (UE) 2019/883 do Parlamento Europeu e do Conselho de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019L0883) — L 151 — 116 — 7.6.2019"
+  }
+ }
+}

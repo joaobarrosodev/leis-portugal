@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:193459:por
+title: Assento n.º 1/86
+short_title: null
+summary: Não se aplica às carreiras horizontais o regime especial estabelecido no n.º 3 do artigo 4.º do Decreto-Lei n.º 191-C/79,
+  de 25 de Junho
+jurisdiction: portugal
+territory: null
+document_type: assento
+document_type_label: Assento
+issuing_authority:
+- Tribunal de Contas
+proposing_entity: null
+official_number: 1/86
+official_date: null
+publication_date: '1986-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/1986, Série I de 1986-03-11
+  number: '58'
+  series: I
+  supplement: null
+  pages: 595 - 596
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05800/05950596.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '193459'
+  dre_path: /dr/detalhe/assento/1-1986-193459
+  internal: pt:dre:193459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/assento/1-1986-193459
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/assento/1-1986-193459
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d8e98f7f11b10a3009ecefe16fbee8a0e73495a15e3f13b335eb64aead46eed1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:26:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Função Pública
+- Interpretação do Direito
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599924:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:227179:por
+  label: Rectificado pela DECL.DD4734.16.04.1986.MF, DR.IS [112] de 16.05.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-227179
+  date: '1986-04-16'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:26:44Z'
+  warnings: []
+  errors: []
+---
+
+# Assento n.º 1/86
+
+Recurso extraordinário n.º 4/85
+
+Acórdão
+
+I - Em sessão de 16 de Maio de 1985, o Tribunal de Contas recusou o visto aos diplomas de provimento de Rosa Maria Duarte Borges, Maria de Fátima Bento Almeida Combra e António da Conceição Nunes Veiga nos cargos de escriturários-dactilógrafos de 1.ª classe, as duas primeiras, e de motorista de ligeiros de 1.ª classe, o último, todos da Comissão de Coordenação da Região do Centro, do Ministério da Administração Interna.
+
+Fundamentou-se tal decisão no facto de os interessados não se encontrarem, nas datas indicadas, em «Observações», nos diplomas de provimento, como início dos efeitos dos provimentos (12 de Janeiro de 1985, 16 de Setembro de 1984 e 1 de Fevereiro de 1985) nas condições exigidas para beneficiarem do disposto no artigo 12.º, n.º 3, quanto às duas primeiras, e no artigo 16.º, n.º 5, quanto ao último, todos do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, uma vez que não contavam, naquelas datas, 5 anos de serviço nas anteriores categorias, não lhes sendo aplicável o disposto no n.º 3 do artigo 4.º do mesmo diploma legal, por se tratar de carreiras horizontais.
+
+II - Notificado destas decisões, o Sr. Ministro da Administração Interna veio requerer que seja fixada jurisprudência por meio de assento, ao abrigo do disposto no artigo 6.º da [Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/lei/8-1982-392382), de 26 de Maio, uma vez que, em 22 de Novembro de 1983, o Tribunal de Contas visou o dactilógrafo diploma de provimento de Ana Maria Gonçalves Alves de Oliveira como escriturária de 1.ª classe do Gabinete de Apoio Técnico de Aveiro (processo n.º 89407, de 18 de Novembro de 1983).
+
+III - Por ter sido interposto em tempo e com legitimidade e serem recorríveis as decisões em causa, foi o recurso admitido, determinando-se o cumprimento do disposto no n.º 2 do artigo 9.º da mesma [Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/lei/8-1982-392382).
+
+IV - Dada vista ao Exmo. Procurador-Geral-Adjunto, pronunciou-se este digno magistrado no sentido de que, verificando-se, de facto, oposição de julgados, deve ser proferido assento, para o qual propõe a fórmula seguinte:
+
+Durante a vigência do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, a redução do tempo de permanência na categoria anterior prevista no n.º 3 do artigo 4.º apenas era aplicável nos casos de acesso nas carreiras verticais.
+
+V - Corridos os vistos legais, cumpre decidir.
+
+De acordo com as disposições legais citadas, e como, de resto, vem decidindo o Supremo Tribunal de Justiça em numerosos arestos, por forma contínua e pacífica, com base no disposto no artigo 763.º do Código de Processo Civil, só há oposição sobre a mesma questão fundamental de direito quando se verifique:
+
+a) Identidade de normas legais;
+
+b) Identidade de factos;
+
+c) Aplicação e interpretação dos mesmos preceitos legais diversamente a factos idênticos;
+
+d) Decisões proferidas no domínio da mesma legislação.
+
+No caso em apreço é evidente que são os mesmos os factos a que diz respeito o processo visado (a promoção de um escriturário-dactilógrafo de 2.ª classe do GAT de Aveiro) e aqueles a que foram recusados os vistos e são também os mesmos os preceitos legais invocados [artigos 12.º, n.º 3, e 4.º, n.º 3, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e 1.º, alínea b), do [Decreto Regulamentar n.º 9/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1982-599924), de 3 de Março].
+
+Por outro lado, não se põe em dúvida que todas as decisões foram proferidas no domínio da mesma legislação, tendo aquelas disposições sido interpretadas de maneira diversa a factos perfeitamente idênticos.
+
+Verificam-se, assim, todos os pressupostos para que o Tribunal de Contas fixe jurisprudência, por meio de assento, sobre a questão controvertida.
+
+VI - Dispõe o já citado artigo 4.º, n.º 3, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673) que o tempo mínimo de permanência previsto na alínea b) do n.º 1 do seu artigo 2.º pode ser reduzido de um ano, para efeito de progressão na carreira, se ao interessado for atribuída a classificação de Muito bom ou equivalente durante dois anos consecutivos.
+
+Atendendo à remissão expressa que neste artigo se faz para a alínea b) do n.º 1 do artigo 2.º do diploma legal em questão, impõe-se, desde logo, a conclusão de que ele se dirige somente às carreiras verticais, cujo acesso está condicionado não só a determinado tempo de serviço na categoria anterior (mínimo de três anos), como também a classificação de serviço não inferior a Bom e aplicação de métodos de selecção.
+
+No caso dos autos, tanto a carreira de escriturário-dactilógrafo como a de motorista são carreiras horizontais, definidas no artigo 5.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, como as que integram categorias com o mesmo conteúdo funcional, cuja mudança de categoria corresponde apenas à maior eficiência na execução das respectivas tarefas.
+
+Trata-se de carreiras em que o acesso se faz através de sucessivos escalões integrados no mesmo grau, com uma dotação global para o conjunto das classes e não estando, por isso, a progressão condicionada à existência de vagas (cf. mapa anexo ao [Decreto-Lei n.º 384/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1982-375809), de 16 de Setembro).
+
+Por se tratar de uma carreira desta natureza, não se lhe aplica, assim, o regime especial estabelecido no artigo 4.º, n.º 3, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), como, de resto, tem sido jurisprudência constante e pacífica deste Tribunal.
+
+VII - No que se refere ao processo n.º 89407, visado não em plenário mas sim em sessão normal de visto, não se fez, de facto, correcta aplicação da lei, uma vez que a interessada, embora integrada numa carreira horizontal, veio a beneficiar do regime estabelecido no n.º 3 do artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673).
+
+VIII - Em face do exposto, e sem necessidade de mais considerações, põe-se termo à apontada divergência de julgados firmando-se o seguinte assento:
+
+Não se aplica às carreiras horizontais o regime especial estabelecido no n.º 3 do artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+
+Não são devidos emolumentos.
+
+Comunique-se e cumpra-se oportunamente o disposto no artigo 11.º da [Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/lei/8-1982-392382), de 26 de Maio.
+
+Desapensem-se e voltem ao arquivo os processos juntos por linha.
+
+Tribunal de Contas, 4 de Fevereiro de 1986. - João de Deus Pinheiro Farinha - Pedro Tavares do Amaral (relator) - Francisco Pereira Neto de Carvalho - António Rodrigues Lufinha - José Lourenço de Almeida Castello Branco (vencido. O [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, foi expressamente revogado pelo artigo 44.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho; por essa razão, entendo que não será de firmar-se assento) - Alberto Leite Ferreira - Orlando Soares Gomes da Costa. - Fui presente, João Manuel Fernandes Neto.

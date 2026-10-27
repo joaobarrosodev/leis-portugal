@@ -1,0 +1,310 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:319888:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1003479155",
+ "dre_path": "/dr/detalhe/portaria/72-2001-319888",
+ "source_lastmod": "2026-02-04",
+ "versions": [
+  {
+   "date": "2001-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1005340175",
+    "1005340375",
+    "1005340575",
+    "1005340775",
+    "1005340975",
+    "1005341175",
+    "1005341375",
+    "1005341575",
+    "1005341775",
+    "1005341975",
+    "1005342175",
+    "1005342375",
+    "1005342575",
+    "1005342775",
+    "1005342975",
+    "1005343175",
+    "1005343375",
+    "1005343575",
+    "1005343775",
+    "1005343975",
+    "1005344175",
+    "1005344375"
+   ]
+  },
+  {
+   "date": "2001-11-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570101:por",
+     "title": "Portaria n.º 1300/2001",
+     "published": "2001-11-21",
+     "dre_path": "/dr/detalhe/portaria/1300-2001-570101"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "1005340175",
+    "1005340375",
+    "1005340575",
+    "1034877986",
+    "1005340975",
+    "1034877987",
+    "1005341375",
+    "1037796097",
+    "1034877988",
+    "1005341975",
+    "1005342175",
+    "1005342375",
+    "1005342575",
+    "1005342775",
+    "1034877989",
+    "1005343175",
+    "1005343375",
+    "1005343575",
+    "1005343775",
+    "1005343975",
+    "1005344175",
+    "1005344375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1005340175": {
+   "fragment_id": "1005340075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No âmbito do Programa Operacional Regional do Centro foi integrada como eixo prioritário uma intervenção visando garantir a concretização de acções integradas de base territorial (AIBT) que, nomeadamente, permitissem redinamizar as estruturas de povoamento rural como forma de inverter os processos de despovoamento e desertificação e garantissem a mobilização de recursos e potencialidades de espaços sub-regionais específicos relevantes para o desenvolvimento económico e social do território, de uma forma sustentável e equilibrada.\n\nA Acção Integrada de Base Territorial do Pinhal Interior é uma das que integram o eixo prioritário atrás referido e entre as medidas a aplicar para realização dos objectivos estratégicos estabelecidos encontra-se a que perspectiva como objectivo central o lançamento de um programa coerente de conservação e valorização da floresta com vista, fundamentalmente, a explorar novas oportunidades de desenvolvimento.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:\n\nManda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Medida II.7, «Acção Integrada de Base Territorial do Pinhal Interior - Vertente FEOGA-O», integrada no eixo prioritário «Acções integradas de base territorial» do Programa Operacional Regional do Centro, em anexo ao presente diploma e do qual faz parte integrante."
+  },
+  "1005340375": {
+   "fragment_id": "1005340275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 11 de Janeiro de 2001.\n\nA Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
+  },
+  "1005340575": {
+   "fragment_id": "1005340475",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO INTEGRADA DE BASE TERRITORIAL DO PINHAL INTERIOR - VERTENTE FEOGA-O",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO INTEGRADA DE BASE TERRITORIAL DO PINHAL INTERIOR - VERTENTE FEOGA-O"
+  },
+  "1005340775": {
+   "fragment_id": "1005340675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e objectivos\n\n1 - O presente Regulamento estabelece o regime de aplicação da medida II.7, «Acção Integrada de Base Territorial do Pinhal Interior - Vertente FEOGA-O», integrada no eixo prioritário «Acções integradas de base territorial» do Programa Operacional Regional do Centro.\n\n2 - As ajudas previstas neste Regulamento visam os seguintes objectivos centrais:\n\na) Promover a arborização, a beneficiação e o reforço da multifuncionalidade dos espaços florestais;\n\nb) Incentivar a produção de materiais florestais de reprodução de qualidade e a beneficiação de materiais de base;\n\nc) Estimular a modernização e o desenvolvimento das actividades de exploração florestal e de transformação e comercialização de produtos florestais;\n\nd) Promover a qualificação e divulgação dos produtos florestais;\n\ne) Estimular a instalação de organizações de produtores florestais e de outros prestadores de serviços florestais e a prestação de serviços florestais especializados;\n\nf) Valorizar e conservar os espaços florestais de interesse público;\n\ng) Dinamizar a preparação e aplicação de sistemas de prevenção de riscos por agentes bióticos e abióticos."
+  },
+  "1005340975": {
+   "fragment_id": "1005340875",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial de aplicação\n\nO regime de apoios previsto neste Regulamento aplica-se nos concelhos de Castelo Branco (freguesias de Almaceda, Santo André das Tojeiras, São Vicente da Beira e Sarzedas), Fundão (freguesias de Barroca, Bogas de Baixo, Bogas de Cima, Janeiro de Cima e Silvares), Oleiros, Proença-a-Nova, Sertã, Vila de Rei, Vila Velha de Ródão (freguesias de Fratel, Sarnadas do Ródão e Vila Velha de Ródão), Arganil, Góis, Lousã, Miranda do Corvo, Pampilhosa da Serra, Penela, Tábua, Vila Nova de Poiares, Alvaiázere, Ansião, Castanheira de Pêra, Figueiró dos Vinhos, Pedrógão Grande e Mação."
+  },
+  "1005341175": {
+   "fragment_id": "1005341075",
+   "type": 11,
+   "heading": "Artigo 3.º — Subacções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Subacções\n\n1 - A presente acção desenvolve-se através das seguintes subacções:\n\na) Apoio à silvicultura;\n\nb) Apoio ao restabelecimento do potencial de produção silvícola;\n\nc) Apoio à produção de plantas e sementes;\n\nd) Apoio à colheita, transformação e comercialização de cortiça;\n\ne) Apoio à exploração florestal, comercialização e transformação de material lenhoso e de gema de pinheiro;\n\nf) Apoio à promoção de novos mercados e qualificação dos produtos florestais;\n\ng) Apoio à instalação de organizações de produtores florestais;\n\nh) Apoio à constituição e instalação de prestadores de serviços florestais;\n\ni) Apoio à prestação de serviços florestais;\n\nj) Apoio à prevenção de riscos provocados por agentes bióticos e abióticos;\n\nk) Apoio à valorização e conservação dos espaços florestais de interesse público.\n\n2 - As subacções referidas no número anterior regem-se, em tudo o que não se encontre especialmente previsto neste Regulamento, pelos regulamentos de aplicação das correspondentes acções e subacções do Programa AGRO e da medida AGRIS."
+  },
+  "1005341375": {
+   "fragment_id": "1005341275",
+   "type": 11,
+   "heading": "Artigo 4.º — Apoio à silvicultura e ao restabelecimento do potencial de produção silvícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoio à silvicultura e ao restabelecimento do potencial de produção silvícola\n\n1 - No âmbito das subacções referidas nas alíneas a) e b) do artigo 3.º são elegíveis as operações que visem a substituição de povoamentos de espécies de rápido crescimento, explorados em rotações inferiores a 20 anos, ecologicamente mal adaptados ou cuja produção se encontre significativamente abaixo do seu potencial produtivo, ou seja, com produtividades inferiores a 50% da produção estimada para a estação, desde que visem a sua reconversão em povoamentos de outras espécies.\n\n2 - Na análise dos projectos relativos às subacções referidas no número anterior constituem, ainda, critérios de análise os seguintes:\n\na) Conformidade com a estratégia estabelecida pelo plano global de intervenção da presente Acção Integrada;\n\nb) Criação de descontinuidade do coberto através da introdução de espécies menos combustíveis no interior da área intervencionada e de separação entre esta e a área não intervencionada.\n\n3 - Para efeitos de aprovação das candidaturas, a hierarquização dos projectos relativos às subacções a que se referem os números anteriores faz-se de acordo com os seguintes critérios:\n\na) Natureza da área, por ordem decrescente de prioridade:\n\ni) Áreas sujeitas ao regime florestal parcial;\n\nii) Áreas agrupadas de espaços florestais contínuos, quando os respectivos projectos sejam apresentados, executados e acompanhados por associações ou cooperativas de produtores florestais;\n\niii) Áreas agrupadas de espaços florestais não contínuos, quando os respectivos projectos sejam apresentados, executados e acompanhados por associações ou cooperativas de produtores florestais ou sectores florestais de cooperativas agrícolas;\n\niv) Áreas agrupadas cujos projectos sejam apresentados através de associações ou cooperativas de produtores florestais ou sectores florestais de cooperativas agrícolas;\n\nv) Áreas agrupadas não incluídas nos pontos anteriores;\n\nvi) Restantes áreas e, dentro destas, as que tenham uma dimensão superior a 10 ha;\n\nb) Natureza do projecto: os projectos incluídos em cada uma das situações referidas na alínea anterior são hierarquizados por ordem decrescente da soma da pontuação que recolherem de acordo com as intervenções preconizadas, ponderadas pela respectiva área:\n\ni) Projectos de beneficiação que introduzam ou mantenham descontinuidades no coberto e que potenciem o efeito de áreas tampão - 6 pontos;\n\nii) Projectos de rearborização de áreas ardidas, com aproveitamento de regeneração natural - 5 pontos;\n\niii) Projectos de reconversão de povoamentos mal instalados ou decrépitos - 4 pontos;\n\niv) Projectos de arborização que introduzam ou mantenham descontinuidades no coberto ou que potenciem o efeito de áreas tampão - 3 pontos;\n\nv) Projectos incidentes em freguesias com elevada susceptibilidade à desertificação ou em áreas classificadas - 3 pontos;\n\nvi) Outros projectos de beneficiação - 2 pontos;\n\nvii) Outros projectos de (re)arborização e projectos que incluam uma componente de uso múltiplo - 1 ponto."
+  },
+  "1005341575": {
+   "fragment_id": "1005341475",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio à produção de plantas e sementes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoio à produção de plantas e sementes\n\nNa decisão relativa aos projectos apresentados no âmbito da subacção referida na alínea c) do n.º 1 do artigo 3.º, constituem primeira prioridade os projectos que visem as superfícies com material de base de pinheiro-bravo instalado ou a colheita, processamento e conservação de sementes de pinheiro-bravo."
+  },
+  "1005341775": {
+   "fragment_id": "1005341675",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio à promoção de novos mercados e qualificação dos produtos florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio à promoção de novos mercados e qualificação dos produtos florestais\n\nNa decisão relativa às candidaturas à subacção referida na alínea f) do n.º 1 do artigo 3.º, e para efeitos de selecção quanto ao domínio, serão considerados os seguintes projectos por ordem decrescente de prioridade:\n\na) Projectos que visem a implementação de sistemas de gestão florestal sustentável e respectiva certificação;\n\nb) Projectos que visem a divulgação e sensibilização para a gestão florestal sustentável ou a elaboração de manuais de boas práticas;\n\nc) Projectos que visem a melhoria da eficácia da comercialização de matérias-primas e produtos florestais;\n\nd) Projectos relativos a estudos de caracterização de denominações de origem ou de indicações geográficas dos produtos florestais."
+  },
+  "1005341975": {
+   "fragment_id": "1005341875",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio à instalação de organizações de produtores florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio à instalação de organizações de produtores florestais\n\n1 - Para efeitos de acesso às ajudas no âmbito da subacção referida na alínea g) do n.º 1 do artigo 3.º, os beneficiários devem comprometer-se a colaborar e participar nas acções de formação para funcionários e dirigentes de associações promovidas no âmbito da presente Acção Integrada.\n\n2 - A sede, ou o núcleo da organização, e o plano de acção a apresentar no âmbito das candidaturas à subacção referida no número anterior devem ter um âmbito territorial incluído na área da presente Acção."
+  },
+  "1005342175": {
+   "fragment_id": "1005342075",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio à prevenção de riscos provocados por agentes bióticos e abióticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio à prevenção de riscos provocados por agentes bióticos e abióticos\n\n1 - Para acesso às ajudas à subacção prevista na alínea j) do n.º 1 do artigo 3.º, a superfície objecto de intervenção deve, no caso da prevenção de riscos provocados por agentes abióticos, ter uma área mínima de 100 ha.\n\n2 - No âmbito da acção referida no número anterior, a hierarquização dos projectos faz-se de acordo com os seguintes critérios:\n\na) Natureza da área, por ordem decrescente de prioridade:\n\ni) Áreas sujeitas ao regime florestal parcial;\n\nii) Áreas agrupadas quando os respectivos projectos sejam apresentados, executados e acompanhados por associações ou cooperativas de produtores florestais;\n\niii) Áreas agrupadas cujos projectos sejam apresentados através de uma associação ou cooperativa;\n\niv) Áreas agrupadas cujos projectos sejam apresentados por um organismo da administração pública central ou local;\n\nv) Restantes áreas;\n\nb) Natureza do projecto: os projectos incluídos em cada uma das situações referidas na alínea anterior são hierarquizados por ordem decrescente da soma da pontuação que recolherem, de acordo com as intervenções preconizadas, ponderadas pela respectiva área:\n\ni) Projectos que criem descontinuidade do coberto no interior da área de intervenção quer através de espécies menos combustíveis quer de outras áreas corta-fogo - 7 pontos;\n\nii) Projectos que incidam sobre uma área maioritariamente confinante com áreas florestais ordenadas e sujeitas a um regime de gestão florestal - 5 pontos;\n\niii) Projectos que abranjam áreas classificadas, nomeadamente no âmbito da Rede Natura 2000 - 3 pontos;\n\niv) Projectos que permitam diminuir áreas florestais contínuas não geridas ou intervencionadas - 1 ponto."
+  },
+  "1005342375": {
+   "fragment_id": "1005342275",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio à valorização e conservação dos espaços florestais de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio à valorização e conservação dos espaços florestais de interesse público\n\nNa decisão dos projectos apresentados no âmbito da subacção referida na alínea k) do n.º 1 do artigo 3.º, constituem primeira prioridade os projectos inseridos em áreas classificadas, nomeadamente no âmbito da Rede Natura 2000."
+  },
+  "1005342575": {
+   "fragment_id": "1005342475",
+   "type": 11,
+   "heading": "Artigo 10.º — Unidade técnica de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Unidade técnica de coordenação\n\n1 - O coordenador da AIBT do Pinhal Interior é apoiado, no que concerne à vertente FEOGA-O desta AIBT, por uma unidade técnica de coordenação (UTC), constituída por um representante de cada direcção regional de agricultura (DRA), um representante de cada direcção regional do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) abrangida e um representante da Direcção-Geral das Florestas.\n\n2 - A unidade referida no número anterior terá como objectivos principais coadjuvar o coordenador da AIBT na coordenação da acção dos diversos organismos envolvidos, nomeadamente no que concerne à adequação dos procedimentos à estratégia definida, à respectiva avaliação e à análise da compatibilidade das candidaturas de projectos à medida II.7 da Intervenção Operacional da Região do Centro com o respectivo plano global de intervenção, podendo ainda apoiar o coordenador nas diferentes tarefas que lhe são cometidas pelo n.º 3, do artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n3 - A unidade técnica de coordenação reunirá com uma periodicidade mínima de 30 dias e sempre que o coordenador considerar necessário para que sejam cumpridos os seus objectivos."
+  },
+  "1005342775": {
+   "fragment_id": "1005342675",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio técnico ao coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio técnico ao coordenador\n\nNo que concerne às candidaturas apresentadas ao abrigo do presente Regulamento e relativamente às tarefas previstas no n.º 1 do artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril, o coordenador da AIBT é apoiado pelos serviços das DRA e do IFADAP, que, para o efeito, funcionam como estrutura de apoio técnico, reportando ao seu representante na unidade técnica de coordenação."
+  },
+  "1005342975": {
+   "fragment_id": "1005342875",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas, nos termos do artigo anterior, através da apresentação de formulário próprio, acompanhado de todos os documentos indicados nas respectivas instruções:\n\na) Junto do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), relativamente às subacções identificadas nas alíneas a) a f) do n.º 1 do artigo 3.º;\n\nb) Junto das direcções regionais de agricultura (DRA) competentes, as candidaturas às subacções identificadas nas alíneas g) a k) do n.º 1 do artigo 3.º\n\n2 - Com excepção das candidaturas às subacções previstas nas alíneas c), d) e e) do n.º 1 do artigo 3.º, que devem ser apresentadas até 31 de Maio de cada ano, as candidaturas podem ser apresentadas durante todo o ano."
+  },
+  "1005343175": {
+   "fragment_id": "1005343075",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise das candidaturas\n\n1 - O IFADAP e as DRA competentes procedem à análise dos projectos recepcionados e à elaboração de pareceres técnicos, de acordo com o presente Regulamento.\n\n2 - Os dossiers de análise acompanhados dos respectivos pareceres técnicos são remetidos ao coordenador da AIBT do Pinhal Interior.\n\n3 - A análise final das candidaturas compete ao coordenador da AIBT, que as remete ao gestor da Intervenção Operacional da Região do Centro, conforme disposto no n.º 2 do artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril."
+  },
+  "1005343375": {
+   "fragment_id": "1005343275",
+   "type": 11,
+   "heading": "Artigo 14.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Parecer da unidade de gestão\n\nO gestor da Intervenção Operacional da Região Centro formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão, nos termos da alínea e) do n.º 1 do artigo 29.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril."
+  },
+  "1005343575": {
+   "fragment_id": "1005343475",
+   "type": 11,
+   "heading": "Artigo 15.º — Decisão sobre as candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decisão sobre as candidaturas\n\n1 - A decisão sobre as candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento, sendo as demais hierarquizadas de acordo com os critérios de prioridade nele referidos e, supletivamente, nos regulamentos de aplicação das acções e subacções do Programa AGRO e da medida AGRIS.\n\n3 - As candidaturas são aprovadas em função da dotação orçamental do presente regime de ajudas.\n\n4 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.\n\n5 - A decisão das candidaturas às subacções referidas nas alíneas c), d) e e) do n.º 1 do artigo 3.º terá lugar até ao dia 31 de Julho de cada ano."
+  },
+  "1005343775": {
+   "fragment_id": "1005343675",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de atribuição das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Estado Português, representado pelo IFADAP, e os beneficiários, no prazo de 30 dias contados a partir da decisão de aprovação.\n\n2 - Poderá ser exigida a prestação de garantias a favor do IFADAP, para segurança do reembolso das ajudas atribuídas."
+  },
+  "1005343975": {
+   "fragment_id": "1005343875",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos.\n\n2 - Os pedidos de pagamento relativos a projectos apoiados pelas subacções identificadas nas alíneas a) a f) do n.º 1 do artigo 3.º são apresentados junto do IFADAP enquanto os relativos a projectos apoiados pelas subacções identificadas nas alíneas g) a k) do n.º 1 do artigo 3.º são apresentados junto das direcções regionais de agricultura (DRA) competentes que os remeterão, após validação, ao IFADAP.\n\n3 - De todos os pagamentos efectuados será dado conhecimento pelo IFADAP ao coordenador da AIBT."
+  },
+  "1005344175": {
+   "fragment_id": "1005344075",
+   "type": 11,
+   "heading": "Artigo 18.º — Candidaturas apresentadas no âmbito do QCA II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Candidaturas apresentadas no âmbito do QCA II\n\n1 - As candidaturas apresentadas no âmbito do anterior Quadro Comunitário de Apoio e que não foram objecto de decisão podem beneficiar das presentes ajudas, desde que reúnam as condições estabelecidas neste Regulamento e sejam reformuladas no prazo de 60 dias após a entrada em vigor deste Regulamento.\n\n2 - Nas situações referidas no número anterior, são elegíveis as despesas realizadas a partir da data da apresentação da candidatura."
+  },
+  "1005344375": {
+   "fragment_id": "1005344275",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas já realizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Despesas já realizadas\n\nAs despesas efectuadas a partir de 19 de Novembro de 1999 relativamente à realização de projectos ainda não apresentados poderão ser consideradas elegíveis desde que os proponentes apresentem a respectiva candidatura no prazo de 60 dias contados a partir da data de entrada em vigor deste Regulamento."
+  },
+  "1034877986": {
+   "fragment_id": "1005340675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e objectivos",
+   "in_force_from": "2001-11-26",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e objectivos\n\n1 - O presente Regulamento estabelece o regime de aplicação da medida II.7, «Acção Integrada de Base Territorial do Pinhal Interior - Vertente FEOGA-O», integrada no eixo prioritário «Acções integradas de base territorial» do Programa Operacional Regional do Centro.\n\n2 - As ajudas previstas neste Regulamento visam os seguintes objectivos centrais:\n\na) Promover a arborização, a beneficiação e o reforço da multifuncionalidade dos espaços florestais;\n\nb) [Revogada];\n\nc) Estimular a modernização e o desenvolvimento das actividades de exploração florestal e de transformação e comercialização de produtos florestais;\n\nd) Promover a qualificação e divulgação dos produtos florestais;\n\ne) Estimular a instalação de organizações de produtores florestais e de outros prestadores de serviços florestais e a prestação de serviços florestais especializados;\n\nf) Valorizar e conservar os espaços florestais de interesse público;\n\ng) Dinamizar a preparação e aplicação de sistemas de prevenção de riscos por agentes bióticos e abióticos.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+  },
+  "1034877987": {
+   "fragment_id": "1005341075",
+   "type": 11,
+   "heading": "Artigo 3.º — Subacções",
+   "in_force_from": "2001-11-26",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+   ],
+   "markdown": "###### Artigo 3.º — Subacções\n\n1 - A presente acção desenvolve-se através das seguintes subacções:\n\na) Apoio à silvicultura;\n\nb) Apoio ao restabelecimento do potencial de produção silvícola;\n\nc) [Revogada];\n\nd) [Revogada];\n\ne) Apoio à exploração florestal, comercialização e transformação de material lenhoso e de gema de pinheiro;\n\nf) Apoio à promoção de novos mercados e qualificação dos produtos florestais;\n\ng) Apoio à instalação de organizações de produtores florestais;\n\nh) Apoio à constituição e instalação de prestadores de serviços florestais;\n\ni) Apoio à prestação de serviços florestais;\n\nj) Apoio à prevenção de riscos provocados por agentes bióticos e abióticos;\n\nk) Apoio à valorização e conservação dos espaços florestais de interesse público.\n\n2 - As subacções referidas no número anterior regem-se, em tudo o que não se encontre especialmente previsto neste Regulamento, pelos regulamentos de aplicação das correspondentes acções e subacções do Programa AGRO e da medida AGRIS.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+  },
+  "1037796097": {
+   "fragment_id": "1005341475",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio à produção de plantas e sementes",
+   "in_force_from": "2001-11-26",
+   "changed_by": [
+    "Revogado pelo/a 1.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio à produção de plantas e sementes\n\nNa decisão relativa aos projectos apresentados no âmbito da subacção referida na alínea c) do n.º 1 do artigo 3.º, constituem primeira prioridade os projectos que visem as superfícies com material de base de pinheiro-bravo instalado ou a colheita, processamento e conservação de sementes de pinheiro-bravo.\n\n> Revogado pelo/a 1.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+  },
+  "1034877988": {
+   "fragment_id": "1005341675",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio à promoção de novos mercados e qualificação dos produtos florestais",
+   "in_force_from": "2001-11-26",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+   ],
+   "markdown": "###### Artigo 6.º — Apoio à promoção de novos mercados e qualificação dos produtos florestais\n\nNa decisão relativa às candidaturas à subacção referida na alínea f) do n.º 1 do artigo 3.º, e para efeitos de selecção quanto ao domínio, serão considerados os seguintes projectos por ordem decrescente de prioridade:\n\na) Projectos que visem a implementação de sistemas de gestão florestal sustentável;\n\nb) Projectos que visem a divulgação e sensibilização para a gestão florestal sustentável ou a elaboração de manuais de boas práticas;\n\nc) Projectos que visem a melhoria da eficácia da comercialização de matérias-primas e produtos florestais;\n\nd) Projectos que visem a implementação de denominações de origem ou de indicações geográficas dos produtos ou a elaboração e adopção de sistemas de gestão florestal sustentável.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+  },
+  "1034877989": {
+   "fragment_id": "1005342875",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": "2001-11-26",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+   ],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas, nos termos do artigo anterior, através da apresentação de formulário próprio, acompanhado de todos os documentos indicados nas respectivas instruções:\n\na) Junto do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), relativamente às subacções identificadas nas alíneas a) a f) do n.º 1 do artigo 3.º;\n\nb) Junto das direcções regionais de agricultura (DRA) competentes, as candidaturas às subacções identificadas nas alíneas g) a k) do n.º 1 do artigo 3.º\n\n2 - Com excepção das candidaturas à subacção prevista na alínea e) do n.º 1 do artigo 3.º, que devem ser apresentadas até 31 de Maio de cada ano, as candidaturas podem ser apresentadas durante todo o ano.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1300/2001 - Diário da República n.º 270/2001, Série I-B de 2001-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/1300-2001-570101), em vigor a partir de 2001-11-26"
+  }
+ }
+}

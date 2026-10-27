@@ -1,0 +1,961 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:118748850:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-118813666",
+ "dre_path": "/dr/detalhe/decreto-lei/23-2019-118748850",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "118290863",
+    "118290864",
+    "118290865",
+    "118290866",
+    "118290867",
+    "118290868",
+    "118290869",
+    "118290870",
+    "118290871",
+    "118290872",
+    "118290873",
+    "118290874",
+    "118872875",
+    "118872876",
+    "118872877",
+    "118872878",
+    "118872879",
+    "118872880",
+    "118872881",
+    "118872882",
+    "118872883",
+    "118872884",
+    "118872885",
+    "118872886",
+    "118872887",
+    "118872888",
+    "118872889",
+    "118872890",
+    "118872891",
+    "118872893",
+    "118872894"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "118290863",
+    "118290864",
+    "118290865",
+    "118290866",
+    "118290867",
+    "118290868",
+    "118290869",
+    "118290870",
+    "118290871",
+    "118290872",
+    "118290873",
+    "122773955",
+    "118872875",
+    "118872876",
+    "118872877",
+    "122773956",
+    "118872879",
+    "118872880",
+    "118872881",
+    "122773957",
+    "118872883",
+    "118872884",
+    "118872885",
+    "118872886",
+    "118872887",
+    "118872888",
+    "118872889",
+    "118872890",
+    "118872891",
+    "118872892",
+    "118872893",
+    "118872894"
+   ]
+  },
+  {
+   "date": "2020-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140087206:por",
+     "title": "Decreto-Lei n.º 56/2020",
+     "published": "2020-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/56-2020-140087206"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "118290863",
+    "118290864",
+    "118290865",
+    "118290866",
+    "118290867",
+    "118290868",
+    "118290869",
+    "118290870",
+    "118290871",
+    "118290872",
+    "118290873",
+    "122773955",
+    "118872875",
+    "118872876",
+    "118872877",
+    "869919467",
+    "118872879",
+    "118872880",
+    "118872881",
+    "122773957",
+    "118872883",
+    "118872884",
+    "118872885",
+    "118872886",
+    "118872887",
+    "118872888",
+    "118872889",
+    "118872890",
+    "139891173",
+    "118872892",
+    "118872893",
+    "118872894"
+   ]
+  },
+  {
+   "date": "2022-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:204734601:por",
+     "title": "Decreto-Lei n.º 84-E/2022",
+     "published": "2022-12-14",
+     "dre_path": "/dr/detalhe/decreto-lei/84-e-2022-204734601"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "118290863",
+    "118290864",
+    "118290865",
+    "204734508",
+    "118290867",
+    "118290868",
+    "118290869",
+    "204734499",
+    "204734510",
+    "204734511",
+    "204734512",
+    "204734513",
+    "204734514",
+    "204734515",
+    "204734516",
+    "204734517",
+    "869919473",
+    "204734519",
+    "204734520",
+    "204734521",
+    "204734522",
+    "204734523",
+    "204734524",
+    "204734525",
+    "204734526",
+    "204734527",
+    "204734528",
+    "204734529",
+    "204734530",
+    "204734531",
+    "204734532",
+    "204734533",
+    "204734534"
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223906278:por",
+     "title": "Decreto-Lei n.º 102/2023",
+     "published": "2023-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2023-223906278"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "118290863",
+    "118290864",
+    "223940400",
+    "204734508",
+    "118290867",
+    "118290868",
+    "118290869",
+    "204734499",
+    "204734510",
+    "204734511",
+    "204734512",
+    "204734513",
+    "204734514",
+    "204734515",
+    "204734516",
+    "204734517",
+    "869919473",
+    "204734519",
+    "204734520",
+    "223940401",
+    "223940402",
+    "223940403",
+    "223940404",
+    "223940405",
+    "223940406",
+    "223940407",
+    "223940408",
+    "223940409",
+    "223940410",
+    "223940411",
+    "223940412",
+    "223940413",
+    "223940414",
+    "223940415"
+   ]
+  }
+ ],
+ "fragments": {
+  "118290863": {
+   "fragment_id": "118813667",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 23/2019\n\nde 30 de janeiro\n\nO Programa do XXI Governo Constitucional estabeleceu como pedra angular da reforma do Estado a concretização dos princípios da subsidiariedade, da autonomia das autarquias locais e da descentralização democrática da administração pública, plasmados no n.º 1 do artigo 6.º da Constituição.\n\nNeste contexto, o Programa do Governo prevê reforçar as competências das autarquias locais, bem como das suas estruturas associativas, as entidades intermunicipais, tendo, assim, em conta o melhor interesse dos cidadãos e das empresas que procuram da parte da Administração Pública uma resposta mais ágil e eficiente.\n\nNos termos da Lei de Bases da Saúde, a proteção da saúde assume-se como um dos mais importantes direitos dos cidadãos, cabendo ao Estado promover e garantir a todos o melhor acesso ao Serviço Nacional de Saúde (SNS) e às estratégias de prevenção da doença, numa lógica de equidade na distribuição dos recursos.\n\nO presente decreto-lei é, pois, o resultado de um extenso e profícuo trabalho realizado com a Associação Nacional de Municípios Portugueses, estabelecendo os procedimentos de transferência de competências para as autarquias locais e para as entidades intermunicipais na área da saúde.\n\nSão, assim, transferidas para os municípios as competências de manutenção, conservação e equipamento das instalações de unidades de prestação de cuidados de saúde primários.\n\nSão também transferidas para os municípios as competências de gestão e execução dos serviços de apoio logístico das unidades funcionais dos Agrupamentos de Centros de Saúde (ACES) que integram o SNS, excluindo-se, porém, todos os serviços de apoio logístico relacionados com equipamentos médicos, que se mantém na esfera da Administração central.\n\nÉ, ainda, transferida para os municípios a competência de gestão dos trabalhadores inseridos na carreira de assistente operacional das unidades funcionais dos ACES que integram o SNS, assegurando-se a esses trabalhadores a manutenção dos direitos adquiridos, nomeadamente o direito de mobilidade para quaisquer serviços ou organismos da Administração central ou local, o direito à avaliação de desempenho ou o direito à ADSE. A transferência da competência de gestão dos trabalhadores inseridos na carreira de assistente operacional das unidades funcionais dos ACES que integram o SNS é naturalmente acompanhada da transferência dos recursos financeiros necessários ao pagamento das despesas que lhes estão associadas, nomeadamente dos encargos da nova entidade empregadora. Tal sucede também no que respeita à transferência das já mencionadas competências de gestão e execução dos serviços de apoio logístico.\n\nContudo, não se transferem para os municípios apenas competências de gestão, prevendo-se também o estabelecimento de uma parceria estratégica entre os municípios e o SNS relativa aos programas de prevenção da doença, com especial incidência na promoção de estilos de vida saudáveis e de envelhecimento ativo. Trata-se de uma antiga reivindicação dos municípios, prevendo-se assim que estes possam vir a participar e influenciar o plano das políticas de saúde a nível dos respetivos territórios.\n\nDe salientar, ainda, que, nos termos do artigo 33.º da Lei n.º 50/2018, de 16 de agosto, também se transfere competências neste âmbito para as entidades intermunicipais, designadamente para participar na definição da rede de unidades de cuidados de saúde primários e de unidades de cuidados continuados de âmbito intermunicipal.\n\nO presente decreto-lei prevê finalmente a criação de uma comissão com o intuito de acompanhar, numa lógica de proximidade, o desenvolvimento e a evolução das competências transferidas.\n\nFace à data da publicação do presente decreto-lei, e à dificuldade que muitos municípios e entidades intermunicipais terão para cumprir o prazo de comunicação estabelecido na alínea a) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, prevê-se um regime próprio para o ano de 2019. Assim, tendo em consideração estes factos, os municípios e as entidades intermunicipais que não pretendam a transferência das competências previstas no presente decreto-lei no ano de 2019 podem ainda comunicar esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias após a entrada em vigor do presente decreto-lei.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "118290864": {
+   "fragment_id": "118813668",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei concretiza a transferência de competências para os órgãos municipais e para as entidades intermunicipais no domínio da saúde, ao abrigo dos artigos 13.º e 33.º da Lei n.º 50/2018, de 16 de agosto.\n\n2 - O presente decreto-lei procede à sétima alteração ao Decreto-Lei n.º 28/2008, de 22 de fevereiro, alterado pelos Decretos-Leis n.os 81/2009, de 2 de abril, 102/2009, de 11 de maio, 248/2009, de 22 de setembro, 253/2012, de 27 de novembro, 137/2013, de 7 de outubro, e 239/2018, de 14 de outubro."
+  },
+  "118290865": {
+   "fragment_id": "118813669",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transferência de competências\n\nÉ da competência dos órgãos municipais a:\n\na) Participação no planeamento, na gestão e na realização de investimentos relativos a novas unidades de prestação de cuidados de saúde primários, nomeadamente na sua construção, equipamento e manutenção;\n\nb) Gestão, manutenção e conservação de outros equipamentos afetos aos cuidados de saúde primários;\n\nc) Gestão dos trabalhadores, inseridos na carreira de assistente operacional, das unidades funcionais dos Agrupamentos de Centros de Saúde (ACES) que integram o Serviço Nacional de Saúde (SNS);\n\nd) Gestão dos serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS;\n\ne) Parceria estratégica nos programas de prevenção da doença, com especial incidência na promoção de estilos de vida saudáveis e de envelhecimento ativo."
+  },
+  "118290866": {
+   "fragment_id": "118813670",
+   "type": 11,
+   "heading": "Artigo 3.º — Acompanhamento da transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acompanhamento da transferência de competências\n\n1 - A transferência de competências concretizada pelo presente decreto-lei não prejudica as competências de acompanhamento do Ministério da Saúde relativamente ao nível da prestação do serviço e ao cumprimento das obrigações aqui definidas.\n\n2 - O acompanhamento a que se refere o número anterior é efetuado nos termos do presente decreto-lei, nomeadamente do previsto no n.º 3 do artigo 14.º, e na demais legislação em vigor."
+  },
+  "118290867": {
+   "fragment_id": "118813671",
+   "type": 11,
+   "heading": "Artigo 4.º — Exercício de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exercício de competências\n\n1 - Salvo disposição em contrário, todas as competências de órgãos municipais previstas no presente decreto-lei são exercidas pela câmara municipal.\n\n2 - Aos conselhos intermunicipais nas comunidades intermunicipais e aos conselhos metropolitanos nas áreas metropolitanas compete o exercício das competências previstas no artigo 33.º da Lei n.º 50/2018, de 16 de agosto."
+  },
+  "118290868": {
+   "fragment_id": "118813672",
+   "type": 11,
+   "heading": "Artigo 5.º — Objetivos estratégicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos estratégicos\n\n1 - A transferência das competências visa o contínuo processo de aperfeiçoamento do serviço público, através do desenvolvimento de projetos de excelência, de melhoria e inovação, com respostas mais eficazes e mensuráveis que permitam o crescente envolvimento da comunidade, designadamente através de uma maior participação na gestão dos cuidados de saúde e no reforço da responsabilização das diferentes entidades pela qualidade do serviço de saúde prestado.\n\n2 - A transferência de competências assume-se como ponto de referência para um modelo de gestão articulado e integrado dos cuidados de saúde primários no território municipal através:\n\na) Da promoção da eficácia e eficiência da gestão dos recursos na área da saúde;\n\nb) Da criação de sinergias e potencialidades resultantes do envolvimento da comunidade local na prestação de cuidados de saúde;\n\nc) Do aumento da eficiência da gestão dos recursos afetos à saúde no território do município;\n\nd) De ganhos de eficácia e melhoria dos resultados em saúde no município;\n\ne) Da articulação entre os diversos níveis da Administração Pública."
+  },
+  "118290869": {
+   "fragment_id": "118813673",
+   "type": 11,
+   "heading": "Artigo 6.º — Autonomia dos Agrupamentos de Centros de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Autonomia dos Agrupamentos de Centros de Saúde\n\n1 - No processo de transferência de competências para os municípios e entidades intermunicipais, bem como no seu exercício, é assegurada a autonomia técnica dos ACES, na qualidade de serviços desconcentrados das administrações regionais de saúde.\n\n2 - Para efeitos do presente decreto-lei, não integram o conceito de autonomia técnica previsto no número anterior as competências transferidas para os municípios nos termos do artigo 2.º"
+  },
+  "118290870": {
+   "fragment_id": "118813674",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos estratégicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Documentos estratégicos\n\n1 - A câmara municipal, no prazo de um ano a contar da entrada em vigor do presente decreto-lei e ouvido o Conselho da Comunidade do ACES, elabora ou atualiza a Estratégia Municipal de Saúde, devidamente enquadrada e alinhada com o Plano Nacional de Saúde e os Planos Regionais e Municipais de Saúde, submetendo-a a aprovação da assembleia municipal.\n\n2 - A Estratégia Municipal de Saúde contempla as linhas gerais de ação e as respetivas metas, indicadores, estratégias, atividades, recursos e calendarização."
+  },
+  "118290871": {
+   "fragment_id": "118872775",
+   "type": 11,
+   "heading": "Artigo 8.º — Articulação local em matéria de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Articulação local em matéria de saúde\n\nO Conselho da Comunidade do ACES assegura a articulação em matéria de saúde com os municípios da sua área geográfica, promovendo o diálogo e envolvimento entre os municípios e os responsáveis do ACES."
+  },
+  "118290872": {
+   "fragment_id": "118872776",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho municipal de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho municipal de saúde\n\n1 - É criado, em cada município, o conselho municipal de saúde com a seguinte composição:\n\na) O presidente da câmara municipal, que preside;\n\nb) O presidente da assembleia municipal;\n\nc) Um presidente da junta de freguesia eleito em assembleia municipal em representação das freguesias do município;\n\nd) Um representante da respetiva administração regional de saúde;\n\ne) Os diretores executivos e os presidentes dos conselhos clínicos e de saúde dos agrupamentos de centros de saúde;\n\nf) Um representante das instituições particulares de solidariedade social, designado, anualmente, pelo órgão executivo de associação representativa das mesmas, em regime de rotatividade;\n\ng) Um representante dos serviços de segurança social, designado pelo respetivo conselho diretivo;\n\nh) Um representante das associações da área da saúde, por acordo entre as mesmas.\n\n2 - Quando a sua contribuição para a discussão das matérias em agenda seja considerada pertinente à boa decisão, o presidente, por sua iniciativa ou por proposta de pelo menos um terço dos membros do conselho municipal de saúde, pode convidar a participar nas suas reuniões, sem direito a voto, personalidades de reconhecido mérito na área da saúde.\n\n3 - O conselho municipal de saúde tem as seguintes competências:\n\na) Contribuir para a definição de uma política de saúde a nível municipal;\n\nb) Emitir parecer sobre a estratégia municipal de saúde;\n\nc) Emitir parecer sobre o planeamento da rede de unidades de cuidados de saúde primários;\n\nd) Propor o desenvolvimento de programas de promoção de saúde e prevenção da doença;\n\ne) Promover a troca de informações e cooperação entre as entidades representadas;\n\nf) Recomendar a adoção de medidas e apresentar propostas e sugestões sobre questões relativas à saúde;\n\ng) Analisar o funcionamento dos estabelecimentos de saúde integrados no processo de descentralização objeto do presente decreto-lei, refletir sobre as causas das situações analisadas e propor as ações adequadas à promoção da eficiência e eficácia do sistema de saúde.\n\n4 - O regimento do conselho municipal de saúde é aprovado pela assembleia municipal do respetivo município.\n\n5 - A participação em reuniões ou em quaisquer outras atividades do conselho municipal de saúde não confere aos seus membros o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, abono, compensação, subsídio ou senha de presença."
+  },
+  "118290873": {
+   "fragment_id": "118872777",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão de acompanhamento e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissão de acompanhamento e monitorização\n\n1 - É criada, em cada município, uma comissão de acompanhamento e monitorização da implementação e desenvolvimento do quadro de competências regulado no presente decreto-lei com competências específica para:\n\na) Acompanhar, numa lógica de proximidade, o desenvolvimento e a evolução das competências transferidas para o município;\n\nb) Propor a adoção de medidas tendo em vista a concretização dos objetivos enunciados no artigo 5.º\n\n2 - A comissão de acompanhamento e monitorização a que se refere o número anterior integra:\n\na) O presidente da câmara municipal, que preside;\n\nb) O representante da respetiva administração regional de saúde que integra o conselho municipal de saúde;\n\nc) Um representante dos diretores executivos dos ACES.\n\n3 - Podem participar nos trabalhos, quando a natureza das matérias a tratar o justifique, representantes das entidades intermunicipais ou representantes de outras entidades e organismos da Administração Pública.\n\n4 - A comissão de acompanhamento e monitorização reúne, pelo menos, de forma trimestral.\n\n5 - A comissão de acompanhamento e monitorização efetua balanço anual do desenvolvimento e da evolução das competências transferidas ao abrigo do presente decreto-lei, através da publicação de um relatório.\n\n6 - A comissão de acompanhamento e monitorização aprova o respetivo regulamento interno.\n\n7 - A comissão de acompanhamento e monitorização extingue-se após a publicação do relatório referido no n.º 5 referente ao ano de 2021.\n\n8 - A participação em reuniões ou em quaisquer outras atividades da comissão de acompanhamento e monitorização não confere aos seus membros o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, abono, compensação, subsídio ou senha de presença."
+  },
+  "118290874": {
+   "fragment_id": "118872778",
+   "type": 11,
+   "heading": "Artigo 11.º — Titularidade de instalações e equipamentos afetos aos cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Titularidade de instalações e equipamentos afetos aos cuidados de saúde\n\n1 - São transferidos para a titularidade dos municípios as instalações e equipamentos, salvo os equipamentos médicos, afetos aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde da propriedade do Estado.\n\n2 - Os imóveis transferidos ao abrigo do presente decreto-lei não podem ser objeto de direitos privados ou de transmissão por instrumentos de direito privado, enquanto estiverem afetos à prestação de cuidados de saúde primários.\n\n3 - O presente decreto-lei constitui título bastante para o registo de imóveis transferidos, nos termos do presente artigo, a favor dos municípios, previstos no anexo I ao presente decreto-lei, do qual faz parte integrante, os quais ficam isentos de quaisquer taxas ou emolumentos.\n\n4 - O registo efetuado nos termos do presente artigo é comunicado ao departamento governamental com competência na gestão dos bens imóveis do domínio privado do Estado."
+  },
+  "118872875": {
+   "fragment_id": "118872779",
+   "type": 11,
+   "heading": "Artigo 12.º — Construção, manutenção, conservação e equipamento de estabelecimentos de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Construção, manutenção, conservação e equipamento de estabelecimentos de saúde\n\n1 - São transferidas para os municípios as competências de gestão e realização de investimentos relativos a novas unidades de prestação de cuidados de saúde primários, nomeadamente na sua construção e equipamento.\n\n2 - A realização de investimentos a que se refere o número anterior é precedida de parecer prévio vinculativo do membro do Governo responsável pela área da saúde.\n\n3 - São ainda transferidas para os municípios as competências de gestão, manutenção e conservação das instalações e equipamentos afetos aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde.\n\n4 - O disposto no presente artigo não prejudica os procedimentos pré-contratuais já abertos pelo Ministério da Saúde e que se destinam à construção, manutenção e equipamento das instalações afetas aos cuidados de saúde primários.\n\n5 - A posição contratual do Ministério da Saúde nos contratos de arrendamento das instalações afetas aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde, transfere-se para os municípios, nos termos do disposto no auto referido no artigo 20.º"
+  },
+  "118872876": {
+   "fragment_id": "118872780",
+   "type": 11,
+   "heading": "Artigo 13.º — Programas financeiros para o investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Programas financeiros para o investimento\n\n1 - Os departamentos governamentais com competência na matéria, em articulação com as comissões de coordenação e desenvolvimento regional, criam programas de apoio financeiro às operações de investimento em unidades de prestação de cuidados de saúde primários, quer através de dotações do Orçamento do Estado, quer mediante a afetação de verbas provenientes de fundos europeus estruturais e de investimento.\n\n2 - Os programas referidos no número anterior dão, obrigatoriamente, prioridade ao investimento na supressão de carências de oferta de cuidados de saúde primários, à intervenção em unidades de prestação de cuidados de saúde primários cujo estado de conservação e indicadores de utilização e conforto sejam inadequados ao desenvolvimento qualitativo dos respetivos projetos de saúde, à remoção de materiais potencialmente nocivos à saúde humana presentes nos edifícios e à racionalização da rede de oferta de cuidados de saúde primários.\n\n3 - O lançamento de programas de apoio financeiro às operações de investimento em unidades de prestação de cuidados de saúde primários é precedido do mapeamento das operações prioritárias, no cumprimento dos critérios fixados no número anterior.\n\n4 - Os programas de apoio financeiro às operações de investimento em unidades de prestação de cuidados de saúde primários fixam custos padrão para o apuramento do investimento elegível ao respetivo financiamento, que atendem à natureza da intervenção."
+  },
+  "118872877": {
+   "fragment_id": "118872781",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações no âmbito das atividades de gestão de infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações no âmbito das atividades de gestão de infraestruturas\n\n1 - Constituem obrigações do Ministério da Saúde:\n\na) Acompanhar a execução dos serviços prestados;\n\nb) Verificar se estão a ser observadas as condições necessárias e adequadas ao funcionamento das atividades de gestão, manutenção e conservação de infraestruturas.\n\n2 - Constituem obrigações do município:\n\na) Assegurar a qualidade das intervenções, bem como garantir as adequadas condições de funcionamento e segurança das instalações;\n\nb) Prestar ao Ministério da Saúde a informação necessária ao exercício das obrigações previstas no número anterior;\n\nc) Garantir os adequados níveis de prestação de serviços objeto de transferência.\n\n3 - Para efeitos da aplicação da alínea c) do número anterior, entende-se por adequados níveis de prestação de serviços o nível de prestação observado em cada uma das instalações e equipamentos afetos aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde cujas competências de gestão são transferidas ao abrigo do presente decreto-lei, à data da respetiva transferência."
+  },
+  "118872878": {
+   "fragment_id": "118872782",
+   "type": 11,
+   "heading": "Artigo 15.º — Serviços de apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Serviços de apoio logístico\n\n1 - São transferidas para os municípios as competências de gestão e execução de serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS, assegurando, nomeadamente, as seguintes responsabilidades:\n\na) Serviços de limpeza;\n\nb) Atividades de apoio à vigilância e de segurança;\n\nc) Arranjos exteriores, incluindo a jardinagem;\n\nd) Fornecimento de eletricidade, gás, água e saneamento;\n\ne) Viaturas e respetivos encargos com seguros, imposto único de circulação, via verde, combustível, inspeção periódica obrigatória e manutenção;\n\nf) Encargos com meios de deslocação, utilizados para a prestação de cuidados de saúde;\n\ng) Seguros dos estabelecimentos de saúde;\n\nh) Manutenção e conservação de elevadores;\n\ni) Manutenção dos sistemas de aquecimento, ventilação e ar condicionado, incluindo o sistema AVAC;\n\nj) Pagamento de rendas e de outros encargos, quando a eles haja lugar.\n\n2 - É transferida anualmente para os municípios uma verba para pagamento das despesas realizadas com os serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS elencadas no número anterior, correspondente às despesas efetivamente realizadas naquele âmbito pelo Ministério da Saúde, no ano anterior à concretização da transferência de competências.\n\n3 - O disposto no presente artigo não prejudica os procedimentos contratuais e pré-contratuais já abertos pelo Ministério da Saúde e que se destinam aos serviços de apoio logístico.\n\n4 - A posição contratual do Ministério da Saúde nos contratos de prestação de serviços de apoio logístico transfere-se para os municípios, nos termos do disposto no auto referido no artigo 20.º\n\n5 - O montante das verbas a que se refere o n.º 2 é atualizado, anualmente, com base na última taxa de inflação anual apurada e publicada pelo Instituto Nacional de Estatística, I. P. (INE, I. P.)."
+  },
+  "118872879": {
+   "fragment_id": "118872783",
+   "type": 11,
+   "heading": "Artigo 16.º — Programas de prevenção da doença, promoção de estilos de vida saudáveis e de envelhecimento ativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Programas de prevenção da doença, promoção de estilos de vida saudáveis e de envelhecimento ativo\n\n1 - Os municípios são parceiros estratégicos do SNS nos programas de prevenção da doença, com especial incidência na promoção de estilos de vida saudáveis e de envelhecimento ativo.\n\n2 - No âmbito dos programas referidos no número anterior, compete aos municípios:\n\na) Desenvolver ou participar em atividades no âmbito da prevenção da doença, nomeadamente na promoção da alimentação saudável, na prática de exercício físico regular e no envelhecimento ativo e saudável, nos termos da Estratégia Nacional de Envelhecimento Ativo e Saudável, em parceria com o ACES e administração regional de saúde respetivos, no quadro dos respetivos planos de ação e do Plano Municipal de Saúde;\n\nb) Articular as atividades de cariz social que desenvolvam no apoio domiciliário a utentes, com as intervenções de saúde, no âmbito das unidades dos Cuidados de Saúde Primários e da Rede Nacional de Cuidados Continuados Integrados;\n\nc) Promover atividades de apoio a iniciativas das unidades coordenadoras funcionais, nomeadamente da mulher, da criança e do adolescente e da diabetes;\n\nd) Implementar unidades móveis de intervenção em saúde, em articulação com os ACES.\n\n3 - Sem prejuízo do disposto nos números anteriores, podem ser celebrados contratos-programa com os municípios, desde que no âmbito dos programas prioritários da Direção-Geral da Saúde, focados na prevenção da doença e na promoção da saúde, competindo àquela Direção-Geral aprovar os seus conteúdos e priorizar as respostas, mediante audição prévia da Associação Nacional de Municípios Portugueses (ANMP).\n\n4 - O financiamento dos contratos-programa referidos no número anterior efetua-se através da verba correspondente a 1 % da receita obtida com o imposto incidente sobre as bebidas não alcoólicas previstas no artigo 87.º-A do Código dos Impostos Especiais sobre o Consumo, até ao limite de 50 % da despesa total, sendo os restantes 50 % financiados pelos municípios ou outras instituições, e é operacionalizado por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais e da saúde, ouvida previamente a ANMP."
+  },
+  "118872880": {
+   "fragment_id": "118872784",
+   "type": 11,
+   "heading": "Artigo 17.º — Construção e equipamento de unidades de prestação de cuidados de saúde primários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Construção e equipamento de unidades de prestação de cuidados de saúde primários\n\n1 - O exercício da competência de construção e equipamento de novas unidades de prestação de cuidados de saúde primários concretiza-se mediante a celebração de contrato-programa a celebrar entre o Ministério da Saúde e o respetivo município, dele devendo constar as orientações técnicas do Ministério da Saúde quanto à sua instalação, e os termos do financiamento através da definição de custos padrão.\n\n2 - É transferida anualmente para os municípios uma verba a incluir no Fundo de Financiamento da Descentralização, para pagamento das despesas de manutenção e conservação das instalações afetas aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde.\n\n3 - A verba referida no número anterior corresponde à soma dos valores apurados para cada edifício, de acordo com a seguinte fórmula: Valor por metro quadrado (Vm2) x Área bruta do edificado.\n\n4 - Para efeitos de apuramento do Vm2 dos edifícios cuja titularidade é transferida para os municípios, nos termos do artigo 11.º, deve-se ter em conta a antiguidade do edificado conforme mapa constante do anexo II ao presente decreto-lei, do qual faz parte integrante.\n\n5 - No que se refere aos edifícios arrendados o Vm2 a considerar, independentemente da antiguidade do edificado, é de quatro euros.\n\n6 - Em casos excecionais, nomeadamente quando as estruturas dos edifícios cuja titularidade é transferida para os municípios, nos termos do artigo 11.º, se encontrem extremamente degradadas, pode ser afeta uma verba específica para a intervenção nesses edifícios, em plano anual a acordar entre a ANMP e o Ministério da Saúde, sendo que a soma dos valores desta despesa com a despesa referida nos n.os 4 e 5 não pode ultrapassar os valores efetivamente gastos por cada administração regional de saúde no ano anterior à concretização da transferência de competências com a manutenção e conservação das instalações referidas no n.º 2.\n\n7 - O montante que resultar da fórmula constante do n.º 3 é transferido para cada município tendo em conta a superfície total que as instalações aí indicadas ocupam no seu território.\n\n8 - O montante das verbas a que se refere o n.º 2 é atualizado, anualmente, com base na última taxa de inflação anual apurada e publicada pelo INE, I. P."
+  },
+  "118872881": {
+   "fragment_id": "118872785",
+   "type": 11,
+   "heading": "Artigo 18.º — Procedimento de transição de trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Procedimento de transição de trabalhadores\n\n1 - Os trabalhadores com vínculo de emprego público dos mapas de pessoal das Administrações Regionais de Saúde do Norte, I. P., do Centro, I. P., de Lisboa e Vale do Tejo, I. P., do Alentejo, I. P., e do Algarve, I. P., da carreira geral de assistente operacional, que exerçam funções nas unidades funcionais dos ACES e das Divisões de Intervenção nos Comportamentos Aditivos e nas Dependências das Administrações Regionais de Saúde, que integram o SNS, transitam para os mapas de pessoal das câmaras municipais da localização geográfica respetiva.\n\n2 - A transição referida no número anterior implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.\n\n3 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1, mantêm-se inalteradas até ao respetivo termo.\n\n4 - A transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1 produz efeitos com a publicação de lista nominativa dos referidos trabalhadores, organizada por município, na 2.ª série do Diário da República, homologada pelo membro do Governo responsável pelo serviço de origem.\n\n5 - A lista referida no número anterior contém obrigatoriamente a caracterização do posto de trabalho nos serviços de origem, bem como a carreira, categoria e posição remuneratória de cada trabalhador.\n\n6 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da câmara municipal para onde transitam os trabalhadores referidos no n.º 1.\n\n7 - Os processos individuais dos trabalhadores são entregues pelo serviço de origem nos serviços da câmara municipal de destino no prazo de 90 dias após a publicação referida no n.º 4.\n\n8 - São transferidos para os municípios os montantes equivalentes às remunerações devidas aos trabalhadores a transferir e, bem assim, os encargos a cargo da entidade empregadora.\n\n9 - As transferências de recursos referidas no número anterior são atualizadas, anualmente, nos termos equivalentes à variação prevista para as remunerações dos trabalhadores em funções públicas.\n\n10 - Os trabalhadores a que se refere o presente artigo continuam a beneficiar do regime da ADSE e de reembolso das despesas com o SNS vigente nos respetivos lugares de origem.\n\n11 - Os encargos relativos às despesas com a ADSE e o SNS dos trabalhadores a transitar para os mapas de pessoal das câmaras municipais são da responsabilidade da Administração central."
+  },
+  "118872882": {
+   "fragment_id": "118872786",
+   "type": 11,
+   "heading": "Artigo 19.º — Gestão de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gestão de pessoal\n\nAs competências próprias do presidente da câmara municipal e dos órgãos municipais em matéria de gestão dos trabalhadores que exerçam funções nas unidades funcionais dos ACES e das Divisões de Intervenção nos Comportamentos Aditivos e nas Dependências das Administrações Regionais de Saúde, que integram o SNS, podem ser objeto de delegação nos diretores dos ACES."
+  },
+  "118872883": {
+   "fragment_id": "118872787",
+   "type": 11,
+   "heading": "Artigo 20.º — Auto de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Auto de transferência\n\n1 - A transferência das competências a que se refere o artigo 2.º é formalizada através de auto de transferência a assinar pelo Ministério da Saúde, as administrações regionais de saúde e os municípios, contemplando as seguintes matérias:\n\na) Identificação dos recursos humanos, patrimoniais e financeiros associados ao desempenho das competências transferidas para os municípios ao abrigo do presente decreto-lei;\n\nb) Definição dos instrumentos financeiros utilizáveis;\n\nc) Níveis de prestação dos serviços relativamente às competências transferidas, nomeadamente no que se refere à gestão e conservação das instalações e equipamentos.\n\n2 - Os autos de transferência devem efetivar-se até ao ano 2021."
+  },
+  "118872884": {
+   "fragment_id": "118872788",
+   "type": 11,
+   "heading": "Artigo 21.º — Intervenção das entidades intermunicipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Intervenção das entidades intermunicipais\n\nOs órgãos deliberativos das entidades intermunicipais emitem pareceres prévios relativamente à celebração de acordos e definição da rede de unidades de cuidados de saúde primários e de unidades de cuidados continuados de âmbito intermunicipal."
+  },
+  "118872885": {
+   "fragment_id": "118872789",
+   "type": 11,
+   "heading": "Artigo 22.º — Transferência de recursos financeiros para os municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Transferência de recursos financeiros para os municípios\n\n1 - O financiamento das competências objeto do presente decreto-lei é anualmente previsto na Lei do Orçamento do Estado, nos termos do artigo 5.º da Lei n.º 50/2018, de 16 de agosto, e do artigo 80.º-B da Lei n.º 73/2013, de 3 de setembro, na sua redação atual.\n\n2 - O previsto no número anterior não prejudica o estabelecimento de acordos específicos para financiamento adicional de projetos de saúde nas áreas dos municípios.\n\n3 - Sem prejuízo do disposto no n.º 8 do artigo 17.º, as despesas resultantes da oferta de cuidados de saúde complementares, ou que correspondam ao alargamento da oferta atualmente existente, devem ser suportadas pelos municípios, salvo se o alargamento tiver sido previamente aprovado pelas administrações regionais de saúde.\n\n4 - A transferência financeira relativa à transição dos trabalhadores da Administração central para o mapa de pessoal das câmaras municipais previsto no artigo 18.º inclui os eventuais abonos que os trabalhadores aufiram."
+  },
+  "118872886": {
+   "fragment_id": "118872790",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Decreto-Lei n.º 28/2008, de 22 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Decreto-Lei n.º 28/2008, de 22 de fevereiro\n\nO artigo 32.º do Decreto-Lei n.º 28/2008, de 22 de fevereiro, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 32.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) Propor à administração regional de saúde alterações ao número e localização das unidades funcionais do ACES;\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) [Anterior alínea e).]\n\ng) Propor à administração regional de saúde alterações ao horário de funcionamento das unidades funcionais dos ACES;\n\nh) Dar parecer sobre a avaliação do desempenho das unidades funcionais e de serviços de apoio;\n\ni) [Anterior alínea f).]\n\nj) Apresentar proposta e dar parecer sobre as necessidades de formação específica dos funcionários dos ACES, no que concerne aos trabalhadores inseridos na carreira de assistente operacional;\n\nk) [Anterior alínea g)].»"
+  },
+  "118872887": {
+   "fragment_id": "118872791",
+   "type": 11,
+   "heading": "Artigo 24.º — Regulamento interno dos Agrupamentos de Centros de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regulamento interno dos Agrupamentos de Centros de Saúde\n\nOs ACES ficam obrigados a adequar os seus regulamentos internos ao disposto no presente decreto-lei, no prazo de 90 dias após a sua entrada em vigor."
+  },
+  "118872888": {
+   "fragment_id": "118872792",
+   "type": 11,
+   "heading": "Artigo 25.º — Recursos financeiros para os anos de 2019 e de 2020",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Recursos financeiros para os anos de 2019 e de 2020\n\n1 - No prazo de 15 dias corridos após a entrada em vigor do presente decreto-lei, os membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde remetem a cada uma das câmaras municipais projeto de mapa contendo os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2019, bem como a listagem dos imóveis afetos aos cuidados de saúde primários cujas competências de gestão, manutenção e conservação são transferidas para as câmaras municipais nos termos do n.º 3 do artigo 12.º\n\n2 - As câmaras municipais dispõem de um prazo de 30 dias corridos após a receção do projeto referido no número anterior para remeterem ao membro do Governo responsável pela área da saúde pronúncia sobre o seu teor, presumindo-se, na falta de pronúncia por parte das câmaras municipais, que manifestam a sua concordância com o teor daquele projeto.\n\n3 - Para efeitos da deliberação referida na alínea a) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, é publicado, no prazo de 45 dias corridos após a entrada em vigor do presente decreto-lei, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde, o mapa com os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2019, bem como a listagem dos imóveis afetos aos cuidados de saúde primários cujas competências de gestão, manutenção e conservação são transferidas para as câmaras municipais nos termos do n.º 3 do artigo 12.º\n\n4 - Caso se revele necessário, no decurso do ano de 2019, rever os montantes referidos no número anterior, os membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde remetem a fundamentação de revisão aos municípios, e a variação do montante é considerada autonomamente, em sede de Orçamento do Estado para 2020, na respetiva dotação do Fundo de Financiamento da Descentralização a transferir.\n\n5 - Para efeitos do disposto na alínea b) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, é publicado, até 30 de maio de 2019, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde, o mapa com os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2020."
+  },
+  "118872889": {
+   "fragment_id": "118872793",
+   "type": 11,
+   "heading": "Artigo 26.º — Acordo prévio dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acordo prévio dos municípios\n\n1 - A transferência das competências para as entidades intermunicipais depende de prévio acordo de todos os municípios que as integrem.\n\n2 - O acordo referido no número anterior é da competência da assembleia municipal de cada um dos municípios que integram a entidade intermunicipal."
+  },
+  "118872890": {
+   "fragment_id": "118872794",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposições transitórias\n\n1 - Consideram-se feitas aos municípios as referências constantes de outros diplomas legais relativas às competências objeto do presente decreto-lei.\n\n2 - Caso os contratos relativos aos serviços de logística ou de manutenção dos equipamentos celebrados com a administração regional de saúde respetiva não permitam a cedência de posição contratual relativa a cada município, mantêm-se em vigor pelo decurso do respetivo prazo, não sendo suscetíveis de renovação.\n\n3 - Nos termos dos n.os 2 e 3 dos artigos 40.º e 41.º da Lei n.º 50/2018, de 16 de agosto, mantêm-se em vigor os contratos interadministrativos de delegação de competências celebrados entre a Presidência do Conselho de Ministros, o Ministério da Saúde, as administrações regionais de saúde, as unidades locais de saúde e os municípios, celebrados ao abrigo do Decreto-Lei n.º 30/2015, de 12 de fevereiro, e os acordos de execução celebrados ao abrigo da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, até à data em que as autarquias locais assumam, no âmbito do presente decreto-lei, as competências aí previstas.\n\n4 - Os contratos interadministrativos de delegação de competências e os acordos de execução previstos no número anterior caducam na data em que os respetivos municípios assumam as novas competências, no âmbito do presente decreto-lei."
+  },
+  "118872891": {
+   "fragment_id": "118872795",
+   "type": 11,
+   "heading": "Artigo 28.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Relativamente ao ano de 2019, os municípios e as entidades intermunicipais que não pretendam a transferência das competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após a publicação do despacho referido no n.º 3 do artigo 25.º"
+  },
+  "118872893": {
+   "fragment_id": "118872797",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 11.º)\n\n(ver documento original)"
+  },
+  "118872894": {
+   "fragment_id": "118872798",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 4 do artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 4 do artigo 17.º)\n\n(ver documento original)\n\n112010122"
+  },
+  "122773955": {
+   "fragment_id": "118872778",
+   "type": 11,
+   "heading": "Artigo 11.º — Titularidade de viaturas, instalações e equipamentos afetos aos cuidados de saúde",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 11.º — Titularidade de viaturas, instalações e equipamentos afetos aos cuidados de saúde\n\n1 - São transferidos para a titularidade dos municípios as viaturas, as instalações e os equipamentos, salvo os equipamentos médicos, afetos aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde, que sejam da propriedade do Estado.\n\n2 - Os imóveis que integram o processo de descentralização, cuja titularidade é transferida para os municípios, não podem ser objeto de direitos privados ou de transmissão por instrumentos de direito privado enquanto estiverem afetos à prestação de cuidados de saúde primários.\n\n3 - O presente decreto-lei constitui título bastante para o registo de imóveis transferidos, nos termos do presente artigo, a favor dos municípios, previstos no anexo I ao presente decreto-lei, do qual faz parte integrante, os quais ficam isentos de quaisquer taxas ou emolumentos.\n\n4 - O registo efetuado nos termos do presente artigo é comunicado ao departamento governamental com competência na gestão dos bens imóveis do domínio privado do Estado.\n\n5 - Não há lugar à cobrança de rendas às instituições do Ministério da Saúde, pelos edifícios abrangidos pelo presente decreto-lei, quando nos mesmos sejam prestados cuidados de saúde.\n\n> Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773956": {
+   "fragment_id": "118872782",
+   "type": 11,
+   "heading": "Artigo 15.º — Serviços de apoio logístico",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 15.º — Serviços de apoio logístico\n\n1 - São transferidas para os municípios as competências de gestão e execução de serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS, assegurando, nomeadamente, as seguintes responsabilidades:\n\na) Serviços de limpeza;\n\nb) Atividades de apoio à vigilância e de segurança;\n\nc) Arranjos exteriores, incluindo a jardinagem;\n\nd) Fornecimento de eletricidade, gás, água e saneamento;\n\ne) Viaturas e respetivos encargos com seguros, imposto único de circulação, via verde, combustível, inspeção periódica obrigatória e manutenção;\n\nf) Encargos com meios de deslocação, utilizados para a prestação de cuidados de saúde;\n\ng) Seguros dos estabelecimentos de saúde;\n\nh) Manutenção e conservação de elevadores;\n\ni) Manutenção dos sistemas de aquecimento, ventilação e ar condicionado, incluindo o sistema AVAC;\n\nj) Pagamento de rendas e de outros encargos, quando a eles haja lugar.\n\n2 - É transferida anualmente para os municípios uma verba para pagamento das despesas realizadas com os serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS elencadas no número anterior, correspondente às despesas efetivamente realizadas naquele âmbito pelo Ministério da Saúde, no ano anterior à concretização da transferência de competências.\n\n3 - O disposto no presente artigo não prejudica os procedimentos contratuais e pré-contratuais já abertos pelo Ministério da Saúde e que se destinam aos serviços de apoio logístico.\n\n4 - A posição contratual do Ministério da Saúde nos contratos de prestação de serviços de apoio logístico transfere-se para os municípios, nos termos do disposto no auto referido no artigo 20.º\n\n5 - A transferência para os municípios das competências de gestão e execução de serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS, previstas na alínea e) do n.º 1, incluem a transferência da propriedade das respetivas viaturas.\n\n6 - O montante das verbas a que se refere o n.º 2 é atualizado, anualmente, com base na última taxa de inflação anual apurada e publicada pelo Instituto Nacional de Estatística, I. P. (INE, I. P.).\n\n> Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773957": {
+   "fragment_id": "118872786",
+   "type": 11,
+   "heading": "Artigo 19.º — Gestão de pessoal",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 19.º — Gestão de pessoal\n\nAs competências próprias do presidente da câmara municipal e dos órgãos municipais em matéria de gestão dos trabalhadores que exerçam funções nas unidades funcionais dos ACES e das Divisões de Intervenção nos Comportamentos Aditivos e nas Dependências das Administrações Regionais de Saúde, que integram o SNS, podem ser objeto de delegação nos diretores dos ACES e coordenadores das divisões de intervenção nos comportamentos aditivos e nas dependências.\n\n> Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "118872892": {
+   "fragment_id": "118872796",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de novembro de 2018. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - Eduardo Arménio do Nascimento Cabrita - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 17 de janeiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 22 de janeiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "869919467": {
+   "fragment_id": "118872782",
+   "type": 11,
+   "heading": "Artigo 15.º — Serviços de apoio logístico",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206)",
+    "Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 15.º — Serviços de apoio logístico\n\n1 - São transferidas para os municípios as competências de gestão e execução de serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS, assegurando, nomeadamente, as seguintes responsabilidades:\n\na) Serviços de limpeza;\n\nb) Atividades de apoio à vigilância e de segurança;\n\nc) Arranjos exteriores, incluindo a jardinagem;\n\nd) Fornecimento de eletricidade, gás, água e saneamento;\n\ne) Viaturas e respetivos encargos com seguros, imposto único de circulação, via verde, combustível, inspeção periódica obrigatória e manutenção;\n\nf) Encargos com meios de deslocação, utilizados para a prestação de cuidados de saúde;\n\ng) Seguros dos estabelecimentos de saúde;\n\nh) Manutenção e conservação de elevadores;\n\ni) Manutenção dos sistemas de aquecimento, ventilação e ar condicionado, incluindo o sistema AVAC;\n\nj) Pagamento de rendas e de outros encargos, quando a eles haja lugar.\n\n2 - É transferida anualmente para os municípios uma verba para pagamento das despesas realizadas com os serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS elencadas no número anterior, correspondente às despesas efetivamente realizadas naquele âmbito pelo Ministério da Saúde, no ano anterior à concretização da transferência de competências.\n\n3 - O disposto no presente artigo não prejudica os procedimentos contratuais e pré-contratuais já abertos pelo Ministério da Saúde e que se destinam aos serviços de apoio logístico.\n\n4 - A posição contratual do Ministério da Saúde nos contratos de prestação de serviços de apoio logístico transfere-se para os municípios, nos termos do disposto no auto referido no artigo 20.º\n\n5 - A transferência para os municípios das competências de gestão e execução de serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS, previstas na alínea e) do n.º 1, incluem a transferência da propriedade das respetivas viaturas.\n\n6 - O montante das verbas a que se refere o n.º 2 é atualizado, anualmente, com base na última taxa de inflação anual apurada e publicada pelo Instituto Nacional de Estatística, I. P. (INE, I. P.).\n\n> Alterado pelo/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206)\n\n> Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "139891173": {
+   "fragment_id": "118872795",
+   "type": 11,
+   "heading": "Artigo 28.º — Produção de efeitos",
+   "in_force_from": "2020-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13"
+   ],
+   "markdown": "###### Artigo 28.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Sem prejuízo do número anterior, todas as competências previstas no presente decreto-lei consideram-se transferidas para as autarquias locais e entidades intermunicipais até 31 de março de 2022.\n\n3 - Relativamente ao ano de 2021, os municípios e entidades intermunicipais que ainda não tenham aceitado as competências previstas no presente decreto-lei, e que não o pretendam fazer no ano de 2021, comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13"
+  },
+  "204734508": {
+   "fragment_id": "118813670",
+   "type": 11,
+   "heading": "Artigo 3.º — Acompanhamento da transferência de competências",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 3.º — Acompanhamento da transferência de competências\n\n1 - A transferência de competências concretizada pelo presente decreto-lei não prejudica as competências de acompanhamento do Ministério da Saúde relativamente ao nível da prestação do serviço e ao cumprimento das obrigações aqui definidas.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734499": {
+   "fragment_id": "118813674",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos estratégicos",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos estratégicos\n\n1 - A Estratégia Municipal de Saúde (EMS) é um instrumento de planeamento estratégico que contempla, a nível municipal, as linhas gerais de ação e as respetivas metas, indicadores, atividades, recursos e calendário.\n\n2 - A EMS contém a descrição dos estabelecimentos de saúde existentes a nível municipal, em construção ou com financiamento aprovado, a respetiva localização, bem como uma análise prospetiva que, em matéria de instalações e equipamentos identificados para responder às necessidades em saúde, determine os domínios e os locais de intervenção prioritária a nível municipal.\n\n3 - Compete à câmara municipal, ouvido o Conselho da Comunidade do ACES e o Conselho Municipal de Saúde, elaborar e rever a EMS, devidamente enquadrada e alinhada com o Plano Nacional de Saúde e os Planos Regionais e Locais de Saúde, enquanto base da Estratégia Supramunicipal de Saúde, submetendo-a a aprovação da assembleia municipal.\n\n4 - A Estratégia Supramunicipal de Saúde (ESS) é um instrumento de planeamento estratégico que contempla, a nível supramunicipal, as linhas gerais de ação e as respetivas metas, indicadores, atividades, recursos e calendário.\n\n5 - A ESS contém a descrição de todos os estabelecimentos de saúde existentes a nível supramunicipal, em construção ou com financiamento aprovado, a respetiva localização, bem como uma análise prospetiva que, em matéria de instalações e equipamentos identificados para responder às necessidades em saúde, determine os domínios e os locais de intervenção prioritária a nível supramunicipal.\n\n6 - Compete à comissão executiva metropolitana das áreas metropolitanas ou ao secretariado executivo intermunicipal das comunidades intermunicipais, ouvida a Administração Central do Sistema de Saúde, I. P., elaborar, rever e divulgar a ESS, devidamente enquadrada e alinhada com o Plano Nacional de Saúde e os Planos Regionais e Locais de Saúde, submetendo-a à aprovação do respetivo conselho metropolitano ou conselho intermunicipal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734510": {
+   "fragment_id": "204811011",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Participação dos municípios e das entidades intermunicipais na fixação dos horários dos estabelecimentos de saúde",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 7.º-A — Participação dos municípios e das entidades intermunicipais na fixação dos horários dos estabelecimentos de saúde\n\n1 - Sem prejuízo do disposto no artigo 7.º, as câmaras municipais, os conselhos intermunicipais ou os conselhos metropolitanos das entidades intermunicipais, consoante o caso, participam na fixação dos horários de funcionamento das unidades de cuidados de saúde de proximidade que se localizem no respetivo território, respeitando as orientações técnicas comuns no SNS, adequando-os às necessidades da população e ao funcionamento em rede do SNS, mediante um processo de diálogo institucional.\n\n2 - Os municípios e as entidades intermunicipais participam nos custos adicionais referentes aos assistentes operacionais que decorram da alteração do horário dos estabelecimentos de saúde integrados no processo de descentralização objeto do presente decreto-lei, quando essa alteração seja por si proposta.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734511": {
+   "fragment_id": "118872775",
+   "type": 11,
+   "heading": "Artigo 8.º — Articulação local em matéria de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Articulação local em matéria de saúde\n\nO Conselho da Comunidade do ACES assegura a articulação em matéria de saúde com os municípios da sua área geográfica, promovendo o diálogo e envolvimento entre os municípios e os responsáveis do ACES."
+  },
+  "204734512": {
+   "fragment_id": "118872776",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho municipal de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho municipal de saúde\n\n1 - É criado, em cada município, o conselho municipal de saúde com a seguinte composição:\n\na) O presidente da câmara municipal, que preside;\n\nb) O presidente da assembleia municipal;\n\nc) Um presidente da junta de freguesia eleito em assembleia municipal em representação das freguesias do município;\n\nd) Um representante da respetiva administração regional de saúde;\n\ne) Os diretores executivos e os presidentes dos conselhos clínicos e de saúde dos agrupamentos de centros de saúde;\n\nf) Um representante das instituições particulares de solidariedade social, designado, anualmente, pelo órgão executivo de associação representativa das mesmas, em regime de rotatividade;\n\ng) Um representante dos serviços de segurança social, designado pelo respetivo conselho diretivo;\n\nh) Um representante das associações da área da saúde, por acordo entre as mesmas.\n\n2 - Quando a sua contribuição para a discussão das matérias em agenda seja considerada pertinente à boa decisão, o presidente, por sua iniciativa ou por proposta de pelo menos um terço dos membros do conselho municipal de saúde, pode convidar a participar nas suas reuniões, sem direito a voto, personalidades de reconhecido mérito na área da saúde.\n\n3 - O conselho municipal de saúde tem as seguintes competências:\n\na) Contribuir para a definição de uma política de saúde a nível municipal;\n\nb) Emitir parecer sobre a estratégia municipal de saúde;\n\nc) Emitir parecer sobre o planeamento da rede de unidades de cuidados de saúde primários;\n\nd) Propor o desenvolvimento de programas de promoção de saúde e prevenção da doença;\n\ne) Promover a troca de informações e cooperação entre as entidades representadas;\n\nf) Recomendar a adoção de medidas e apresentar propostas e sugestões sobre questões relativas à saúde;\n\ng) Analisar o funcionamento dos estabelecimentos de saúde integrados no processo de descentralização objeto do presente decreto-lei, refletir sobre as causas das situações analisadas e propor as ações adequadas à promoção da eficiência e eficácia do sistema de saúde.\n\n4 - O regimento do conselho municipal de saúde é aprovado pela assembleia municipal do respetivo município.\n\n5 - A participação em reuniões ou em quaisquer outras atividades do conselho municipal de saúde não confere aos seus membros o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, abono, compensação, subsídio ou senha de presença."
+  },
+  "204734513": {
+   "fragment_id": "118872777",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão de acompanhamento e monitorização",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 10.º — Comissão de acompanhamento e monitorização\n\n1 - É criada, em cada município, uma comissão de acompanhamento e monitorização da implementação e desenvolvimento do quadro de competências regulado no presente decreto-lei com competências específica para:\n\na) Acompanhar, numa lógica de proximidade, o desenvolvimento e a evolução das competências transferidas para o município;\n\nb) Propor a adoção de medidas tendo em vista a concretização dos objetivos enunciados no artigo 5.º\n\n2 - A comissão de acompanhamento e monitorização a que se refere o número anterior integra:\n\na) O presidente da câmara municipal, que preside;\n\nb) O representante da respetiva administração regional de saúde que integra o conselho municipal de saúde;\n\nc) Um representante dos diretores executivos dos ACES.\n\n3 - Podem participar nos trabalhos, quando a natureza das matérias a tratar o justifique, representantes das entidades intermunicipais ou representantes de outras entidades e organismos da Administração Pública.\n\n4 - A comissão de acompanhamento e monitorização reúne, pelo menos, de forma trimestral.\n\n5 - A comissão de acompanhamento e monitorização efetua balanço anual do desenvolvimento e da evolução das competências transferidas ao abrigo do presente decreto-lei, através da publicação de um relatório.\n\n6 - A comissão de acompanhamento e monitorização aprova o respetivo regulamento interno.\n\n7 - A comissão de acompanhamento e monitorização extingue-se com a publicação do relatório que reconhece que o processo está concluído, no limite até 31 de dezembro de 2026.\n\n8 - A participação em reuniões ou em quaisquer outras atividades da comissão de acompanhamento e monitorização não confere aos seus membros o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, abono, compensação, subsídio ou senha de presença.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734514": {
+   "fragment_id": "118872778",
+   "type": 11,
+   "heading": "Artigo 11.º — Titularidade de viaturas, instalações e equipamentos afetos aos cuidados de saúde",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15",
+    "Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 11.º — Titularidade de viaturas, instalações e equipamentos afetos aos cuidados de saúde\n\n1 - A propriedade do Estado ou dos institutos públicos sobre viaturas, instalações ou parte de instalações, e equipamentos fixos ao edificado, designadamente sistemas de ar condicionado ou sistemas de deteção de incêndio, afetos aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde, é transmitida aos municípios.\n\n2 - Ressalva-se do disposto no número anterior os equipamentos médicos.\n\n3 - Os imóveis que integram o processo de descentralização, cuja titularidade é transferida para os municípios, não podem ser objeto de direitos privados ou de transmissão por instrumentos de direito privado enquanto estiverem afetos à prestação de cuidados de saúde primários.\n\n4 - O presente decreto-lei constitui título bastante para o registo de imóveis transferidos, nos termos do presente artigo, a favor dos municípios, previstos no anexo I ao presente decreto-lei, do qual faz parte integrante, os quais ficam isentos de quaisquer taxas ou emolumentos.\n\n5 - O presente decreto-lei e o auto de transferência constituem título bastante para o registo dos seguintes imóveis, os quais ficam isentos de quaisquer taxas ou emolumentos:\n\na) Imóveis previstos no anexo i do presente decreto-lei, ainda não registados;\n\nb) Imóveis não previstos no anexo i do presente decreto-lei que sejam transferidos, nos termos do presente artigo, a favor dos municípios.\n\n6 - O registo efetuado nos termos do presente artigo é comunicado ao departamento governamental com competência na gestão dos bens imóveis do domínio privado do Estado ou dos institutos públicos.\n\n7 - Não há lugar à cobrança de rendas às instituições do Ministério da Saúde, pelos edifícios abrangidos pelo presente decreto-lei, quando nos mesmos sejam prestados cuidados de saúde.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15\n\n> Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "204734515": {
+   "fragment_id": "118872779",
+   "type": 11,
+   "heading": "Artigo 12.º — Construção, manutenção, conservação e equipamento de estabelecimentos de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Construção, manutenção, conservação e equipamento de estabelecimentos de saúde\n\n1 - São transferidas para os municípios as competências de gestão e realização de investimentos relativos a novas unidades de prestação de cuidados de saúde primários, nomeadamente na sua construção e equipamento.\n\n2 - A realização de investimentos a que se refere o número anterior é precedida de parecer prévio vinculativo do membro do Governo responsável pela área da saúde.\n\n3 - São ainda transferidas para os municípios as competências de gestão, manutenção e conservação das instalações e equipamentos afetos aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde.\n\n4 - O disposto no presente artigo não prejudica os procedimentos pré-contratuais já abertos pelo Ministério da Saúde e que se destinam à construção, manutenção e equipamento das instalações afetas aos cuidados de saúde primários.\n\n5 - A posição contratual do Ministério da Saúde nos contratos de arrendamento das instalações afetas aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde, transfere-se para os municípios, nos termos do disposto no auto referido no artigo 20.º"
+  },
+  "204734516": {
+   "fragment_id": "118872780",
+   "type": 11,
+   "heading": "Artigo 13.º — Programas financeiros para o investimento",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 13.º — Programas financeiros para o investimento\n\n1 - Os departamentos governamentais com competência na matéria, em articulação com as comissões de coordenação e desenvolvimento regional, desenvolvem programas de apoio financeiro às operações de investimento em instalações e equipamentos de unidades de prestação de cuidados de saúde primários, nomeadamente viaturas, quer através de dotações do Orçamento do Estado quer mediante a afetação de verbas provenientes de fundos europeus.\n\n2 - Os programas referidos no número anterior dão, obrigatoriamente, prioridade ao investimento na supressão de carências de oferta de cuidados de saúde primários, à intervenção em unidades de prestação de cuidados de saúde primários cujo estado de conservação e indicadores de utilização e conforto sejam inadequados ao desenvolvimento qualitativo dos respetivos projetos de saúde, à remoção de materiais potencialmente nocivos à saúde humana presentes nos edifícios e à racionalização da rede de oferta de cuidados de saúde primários.\n\n3 - Para efeitos do disposto nos números anteriores, o membro do Governo responsável pela área da saúde, sob proposta da administração regional de saúde respetiva, e após audição dos municípios, da comissão de coordenação e desenvolvimento regional respetiva e da Associação Nacional de Municípios Portugueses, aprova, até 31 de março de 2023, o mapeamento e cronograma de intervenção nas instalações e equipamentos carentes de investimento prioritário, bem como de intervenções de requalificação e modernização de grande dimensão, com indicação das respetivas fontes de financiamento, a executar até 2030.\n\n4 - Os programas de apoio financeiro às operações de investimento em unidades de prestação de cuidados de saúde primários fixam custos padrão para o apuramento do investimento elegível ao respetivo financiamento, que atendem à natureza da intervenção.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734517": {
+   "fragment_id": "118872781",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações no âmbito das atividades de gestão de infraestruturas",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 14.º — Obrigações no âmbito das atividades de gestão de infraestruturas\n\n1 - Constituem obrigações do Ministério da Saúde:\n\na) Acompanhar a execução dos serviços prestados;\n\nb) Verificar se estão a ser observadas as condições necessárias e adequadas ao funcionamento das atividades de gestão, manutenção e conservação de infraestruturas.\n\n2 - Constituem obrigações do município:\n\na) Assegurar a qualidade das intervenções, bem como garantir as adequadas condições de funcionamento e segurança das instalações;\n\nb) Prestar ao Ministério da Saúde a informação necessária ao exercício das obrigações previstas no número anterior;\n\nc) Garantir os adequados níveis de prestação de serviços objeto de transferência.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "869919473": {
+   "fragment_id": "118872782",
+   "type": 11,
+   "heading": "Artigo 15.º — Serviços de apoio logístico",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15",
+    "Alterado pelo/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206)",
+    "Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 15.º — Serviços de apoio logístico\n\n1 - São transferidas para os municípios as competências de gestão e execução de serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS, assegurando, nomeadamente, as seguintes responsabilidades:\n\na) Serviços de limpeza;\n\nb) Atividades de apoio à vigilância e de segurança;\n\nc) Arranjos exteriores, incluindo a jardinagem;\n\nd) Fornecimento de eletricidade, gás, água e saneamento;\n\ne) Encargos com meios de deslocação utilizados para a prestação de cuidados de saúde, exceto transporte de doentes;\n\nf) Encargos com meios de deslocação, utilizados para a prestação de cuidados de saúde;\n\ng) Seguros dos estabelecimentos de saúde;\n\nh) Manutenção e conservação de elevadores;\n\ni) Manutenção dos sistemas de aquecimento, ventilação e ar condicionado, incluindo o sistema AVAC;\n\nj) Pagamento de rendas e de outros encargos, quando a eles haja lugar.\n\n2 - Para efeitos dos encargos previstos na alínea c) do número anterior, é transferida anualmente para os municípios uma verba correspondente a (euro) 0,50 por m2 de área descoberta, desde que os espaços em causa não estejam integrados no espaço público ou sejam objeto de contrato.\n\n3 - É transferida anualmente para os municípios uma verba para pagamento de:\n\na) Despesas realizadas com os serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS elencados no n.º 1;\n\nb) Despesas de seguro de acidentes de trabalho e de higiene, segurança e medicina no trabalho a que haja lugar por força dos trabalhadores transferidos e dos que sejam contratados dentro dos rácios definidos;\n\nc) Abonos ou subsídios que os trabalhadores estejam a auferir no momento da transferência.\n\n4 - As verbas necessárias ao financiamento das despesas mencionadas nos números anteriores são incluídas naquelas anualmente fixadas, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças, da saúde e das autarquias locais, e, em regra, correspondem às despesas realizadas pelo Ministério da Saúde no ano anterior à concretização da transferência de competências, sendo revistas a cada ano com base na última taxa de inflação anual apurada e publicada pelo Instituto Nacional de Estatística, I. P. (INE, I. P.)\n\n5 - O disposto no presente artigo não prejudica os procedimentos contratuais e pré-contratuais já abertos pelo Ministério da Saúde e que se destinam aos serviços de apoio logístico.\n\n6 - A posição contratual do Ministério da Saúde nos contratos de prestação de serviços de apoio logístico transfere-se para os municípios, nos termos do disposto no auto referido no artigo 20.º\n\n7 - A transferência para os municípios das competências de gestão e execução de serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS, previstas na alínea e) do n.º 1, inclui a transferência da propriedade das viaturas existentes e das que venham a ser adquiridas no âmbito de fundos europeus.\n\n8 - As viaturas municipais ou que devam ser transferidas para o município podem ser conduzidas pelos profissionais de saúde nos termos e ao abrigo do Decreto-Lei n.º 490/99, de 17 de novembro, sempre que o município não disponha de motoristas suficientes para assegurar a normal prestação de cuidados de saúde.\n\n9 - Os rácios de viaturas a afetar a cada centro de saúde são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde e das autarquias locais, a emitir até 31 de março de 2023, tendo em consideração os utentes e os serviços prestados na comunidade.\n\n10 - A Associação Nacional de Municípios Portugueses emite parecer vinculativo sobre o projeto de portaria referido no número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15\n\n> Alterado pelo/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206)\n\n> Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "204734519": {
+   "fragment_id": "118872783",
+   "type": 11,
+   "heading": "Artigo 16.º — Programas de prevenção da doença, promoção de estilos de vida saudáveis e de envelhecimento ativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Programas de prevenção da doença, promoção de estilos de vida saudáveis e de envelhecimento ativo\n\n1 - Os municípios são parceiros estratégicos do SNS nos programas de prevenção da doença, com especial incidência na promoção de estilos de vida saudáveis e de envelhecimento ativo.\n\n2 - No âmbito dos programas referidos no número anterior, compete aos municípios:\n\na) Desenvolver ou participar em atividades no âmbito da prevenção da doença, nomeadamente na promoção da alimentação saudável, na prática de exercício físico regular e no envelhecimento ativo e saudável, nos termos da Estratégia Nacional de Envelhecimento Ativo e Saudável, em parceria com o ACES e administração regional de saúde respetivos, no quadro dos respetivos planos de ação e do Plano Municipal de Saúde;\n\nb) Articular as atividades de cariz social que desenvolvam no apoio domiciliário a utentes, com as intervenções de saúde, no âmbito das unidades dos Cuidados de Saúde Primários e da Rede Nacional de Cuidados Continuados Integrados;\n\nc) Promover atividades de apoio a iniciativas das unidades coordenadoras funcionais, nomeadamente da mulher, da criança e do adolescente e da diabetes;\n\nd) Implementar unidades móveis de intervenção em saúde, em articulação com os ACES.\n\n3 - Sem prejuízo do disposto nos números anteriores, podem ser celebrados contratos-programa com os municípios, desde que no âmbito dos programas prioritários da Direção-Geral da Saúde, focados na prevenção da doença e na promoção da saúde, competindo àquela Direção-Geral aprovar os seus conteúdos e priorizar as respostas, mediante audição prévia da Associação Nacional de Municípios Portugueses (ANMP).\n\n4 - O financiamento dos contratos-programa referidos no número anterior efetua-se através da verba correspondente a 1 % da receita obtida com o imposto incidente sobre as bebidas não alcoólicas previstas no artigo 87.º-A do Código dos Impostos Especiais sobre o Consumo, até ao limite de 50 % da despesa total, sendo os restantes 50 % financiados pelos municípios ou outras instituições, e é operacionalizado por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais e da saúde, ouvida previamente a ANMP."
+  },
+  "204734520": {
+   "fragment_id": "118872784",
+   "type": 11,
+   "heading": "Artigo 17.º — Construção e equipamento de unidades de prestação de cuidados de saúde primários",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 17.º — Construção e equipamento de unidades de prestação de cuidados de saúde primários\n\n1 - O exercício da competência de construção e equipamento de novas unidades de prestação de cuidados de saúde primários concretiza-se mediante a celebração de contrato-programa a celebrar entre o Ministério da Saúde e o respetivo município, dele devendo constar as orientações técnicas do Ministério da Saúde quanto à sua instalação, e os termos do financiamento através da definição de custos padrão.\n\n2 - É transferida anualmente para os municípios uma verba a incluir no Fundo de Financiamento da Descentralização, para pagamento das despesas de manutenção e conservação das instalações afetas aos cuidados de saúde primários e à divisão de intervenção nos comportamentos aditivos e nas dependências das administrações regionais de saúde.\n\n3 - A verba referida no número anterior corresponde à soma dos valores apurados para cada edifício, de acordo com a seguinte fórmula: Valor por metro quadrado (Vm2) x Área bruta do edificado.\n\n4 - Para efeitos de apuramento do Vm2 dos edifícios transferidos nos termos do artigo 11.º ou cedidos aos municípios, deve ter-se em conta a antiguidade do edificado conforme mapa constante do anexo ii do presente decreto-lei e do qual faz parte integrante.\n\n5 - No que se refere aos edifícios arrendados o Vm2 a considerar, independentemente da antiguidade do edificado, é de quatro euros.\n\n6 - Em casos excecionais, nomeadamente quando as estruturas dos edifícios cuja titularidade é transferida para os municípios, nos termos do artigo 11.º, se encontrem extremamente degradadas, pode ser afeta uma verba específica para a intervenção nesses edifícios, em plano anual a acordar entre a ANMP e o Ministério da Saúde, sendo que a soma dos valores desta despesa com a despesa referida nos n.os 4 e 5 não pode ultrapassar os valores efetivamente gastos por cada administração regional de saúde no ano anterior à concretização da transferência de competências com a manutenção e conservação das instalações referidas no n.º 2.\n\n7 - O montante que resultar da fórmula constante do n.º 3 é transferido para cada município tendo em conta a superfície total que as instalações aí indicadas ocupam no seu território.\n\n8 - Os valores constantes do n.º 5 e do anexo ii do presente decreto-lei são atualizados anualmente com base na última taxa de inflação anual apurada e publicada pelo INE, I. P.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734521": {
+   "fragment_id": "118872785",
+   "type": 11,
+   "heading": "Artigo 18.º — Procedimento de transição de trabalhadores",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 18.º — Procedimento de transição de trabalhadores\n\n1 - Os trabalhadores com vínculo de emprego público dos mapas de pessoal das Administrações Regionais de Saúde do Norte, I. P., do Centro, I. P., de Lisboa e Vale do Tejo, I. P., do Alentejo, I. P., e do Algarve, I. P., da carreira geral de assistente operacional, que exerçam funções nas unidades funcionais dos ACES e das Divisões de Intervenção nos Comportamentos Aditivos e nas Dependências das Administrações Regionais de Saúde, que integram o SNS, transitam para os mapas de pessoal das câmaras municipais da localização geográfica respetiva.\n\n2 - A transição referida no número anterior implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.\n\n3 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1, mantêm-se inalteradas até ao respetivo termo.\n\n4 - A transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1 produz efeitos com a publicação de lista nominativa dos referidos trabalhadores, organizada por município, na 2.ª série do Diário da República, homologada pelo membro do Governo responsável pelo serviço de origem.\n\n5 - A lista referida no número anterior contém obrigatoriamente a caracterização do posto de trabalho nos serviços de origem, bem como a carreira, categoria e posição remuneratória de cada trabalhador.\n\n6 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da câmara municipal para onde transitam os trabalhadores referidos no n.º 1.\n\n7 - Os processos individuais dos trabalhadores são entregues pelo serviço de origem nos serviços da câmara municipal de destino no prazo de 90 dias após a publicação referida no n.º 4.\n\n8 - São transferidos para os municípios os montantes equivalentes às remunerações devidas aos trabalhadores a transferir e, bem assim, os encargos a cargo da entidade empregadora.\n\n9 - As transferências de recursos referidas no número anterior são revistas, anualmente, nos termos equivalentes à variação prevista para as remunerações dos trabalhadores em funções públicas, e abrangem também:\n\na) Os montantes equivalentes às remunerações, e respetivos encargos sociais, devidas aos trabalhadores contratados para substituir trabalhadores transitados que cessem funções, a título temporário ou definitivo, por alguma das causas previstas no artigo 289.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual;\n\nb) Os montantes necessários ao pagamento de trabalho suplementar realizado por trabalhadores que transitem para os municípios ou dos que venham a ser contratados nos termos do presente decreto-lei.\n\n10 - Os trabalhadores a que se refere o presente artigo continuam a beneficiar do regime da ADSE e de reembolso das despesas com o SNS vigente nos respetivos lugares de origem.\n\n11 - O regime da ADSE - Instituto de Proteção e Assistência na Doença, I. P., e do SNS dos trabalhadores da administração central direta é aplicável:\n\na) Aos trabalhadores que transitam da administração central para os municípios no âmbito do processo de descentralização de competências;\n\nb) Aos trabalhadores que sejam contratados para substituir os trabalhadores referidos na alínea anterior que tenham cessado funções, temporária ou definitivamente, conforme previsto na alínea a) do n.º 9;\n\nc) Aos novos recrutamentos dentro dos rácios definidos.\n\n12 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao recrutamento de trabalhador adequado ao preenchimento de posto de trabalho anteriormente ocupado por trabalhador que, reunindo condições para ser abrangido pelo n.º 1, tenha cessado funções a título definitivo nos 12 meses anteriores à data do auto de transferência.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734522": {
+   "fragment_id": "118872786",
+   "type": 11,
+   "heading": "Artigo 19.º — Gestão de pessoal",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 19.º — Gestão de pessoal\n\nAs competências próprias do presidente da câmara municipal e dos órgãos municipais em matéria de gestão dos trabalhadores que exerçam funções nas unidades funcionais dos ACES e das Divisões de Intervenção nos Comportamentos Aditivos e nas Dependências das Administrações Regionais de Saúde, que integram o SNS, podem ser objeto de delegação nos diretores dos ACES e coordenadores das divisões de intervenção nos comportamentos aditivos e nas dependências.\n\n> Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "204734523": {
+   "fragment_id": "118872787",
+   "type": 11,
+   "heading": "Artigo 20.º — Auto de transferência",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 20.º — Auto de transferência\n\n1 - A transferência das competências a que se refere o artigo 2.º é formalizada através de auto de transferência a assinar pelo Ministério da Saúde, as administrações regionais de saúde e os municípios, contemplando as seguintes matérias:\n\na) Identificação dos recursos humanos, patrimoniais e financeiros associados ao desempenho das competências transferidas para os municípios ao abrigo do presente decreto-lei;\n\nb) Identificação do estado de conservação das instalações e dos equipamentos dos estabelecimentos de saúde integrados no processo de descentralização;\n\nc) (Regogada.)\n\nd) Definição dos instrumentos financeiros utilizáveis;\n\n2 - (Revogado.)\n\n3 - O auto de transferência pode ser alterado mediante aditamento subscrito por todas as partes.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734524": {
+   "fragment_id": "118872788",
+   "type": 11,
+   "heading": "Artigo 21.º — Intervenção das entidades intermunicipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Intervenção das entidades intermunicipais\n\nOs órgãos deliberativos das entidades intermunicipais emitem pareceres prévios relativamente à celebração de acordos e definição da rede de unidades de cuidados de saúde primários e de unidades de cuidados continuados de âmbito intermunicipal."
+  },
+  "204734525": {
+   "fragment_id": "118872789",
+   "type": 11,
+   "heading": "Artigo 22.º — Transferência de recursos financeiros para os municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Transferência de recursos financeiros para os municípios\n\n1 - O financiamento das competências objeto do presente decreto-lei é anualmente previsto na Lei do Orçamento do Estado, nos termos do artigo 5.º da Lei n.º 50/2018, de 16 de agosto, e do artigo 80.º-B da Lei n.º 73/2013, de 3 de setembro, na sua redação atual.\n\n2 - O previsto no número anterior não prejudica o estabelecimento de acordos específicos para financiamento adicional de projetos de saúde nas áreas dos municípios.\n\n3 - Sem prejuízo do disposto no n.º 8 do artigo 17.º, as despesas resultantes da oferta de cuidados de saúde complementares, ou que correspondam ao alargamento da oferta atualmente existente, devem ser suportadas pelos municípios, salvo se o alargamento tiver sido previamente aprovado pelas administrações regionais de saúde.\n\n4 - A transferência financeira relativa à transição dos trabalhadores da Administração central para o mapa de pessoal das câmaras municipais previsto no artigo 18.º inclui os eventuais abonos que os trabalhadores aufiram."
+  },
+  "204734526": {
+   "fragment_id": "118872790",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Decreto-Lei n.º 28/2008, de 22 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Decreto-Lei n.º 28/2008, de 22 de fevereiro\n\nO artigo 32.º do Decreto-Lei n.º 28/2008, de 22 de fevereiro, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 32.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) Propor à administração regional de saúde alterações ao número e localização das unidades funcionais do ACES;\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) [Anterior alínea e).]\n\ng) Propor à administração regional de saúde alterações ao horário de funcionamento das unidades funcionais dos ACES;\n\nh) Dar parecer sobre a avaliação do desempenho das unidades funcionais e de serviços de apoio;\n\ni) [Anterior alínea f).]\n\nj) Apresentar proposta e dar parecer sobre as necessidades de formação específica dos funcionários dos ACES, no que concerne aos trabalhadores inseridos na carreira de assistente operacional;\n\nk) [Anterior alínea g)].»"
+  },
+  "204734527": {
+   "fragment_id": "118872791",
+   "type": 11,
+   "heading": "Artigo 24.º — Regulamento interno dos Agrupamentos de Centros de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regulamento interno dos Agrupamentos de Centros de Saúde\n\nOs ACES ficam obrigados a adequar os seus regulamentos internos ao disposto no presente decreto-lei, no prazo de 90 dias após a sua entrada em vigor."
+  },
+  "204734528": {
+   "fragment_id": "118872792",
+   "type": 11,
+   "heading": "Artigo 25.º — Recursos financeiros para os anos de 2019 e de 2020",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Recursos financeiros para os anos de 2019 e de 2020\n\n1 - No prazo de 15 dias corridos após a entrada em vigor do presente decreto-lei, os membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde remetem a cada uma das câmaras municipais projeto de mapa contendo os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2019, bem como a listagem dos imóveis afetos aos cuidados de saúde primários cujas competências de gestão, manutenção e conservação são transferidas para as câmaras municipais nos termos do n.º 3 do artigo 12.º\n\n2 - As câmaras municipais dispõem de um prazo de 30 dias corridos após a receção do projeto referido no número anterior para remeterem ao membro do Governo responsável pela área da saúde pronúncia sobre o seu teor, presumindo-se, na falta de pronúncia por parte das câmaras municipais, que manifestam a sua concordância com o teor daquele projeto.\n\n3 - Para efeitos da deliberação referida na alínea a) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, é publicado, no prazo de 45 dias corridos após a entrada em vigor do presente decreto-lei, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde, o mapa com os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2019, bem como a listagem dos imóveis afetos aos cuidados de saúde primários cujas competências de gestão, manutenção e conservação são transferidas para as câmaras municipais nos termos do n.º 3 do artigo 12.º\n\n4 - Caso se revele necessário, no decurso do ano de 2019, rever os montantes referidos no número anterior, os membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde remetem a fundamentação de revisão aos municípios, e a variação do montante é considerada autonomamente, em sede de Orçamento do Estado para 2020, na respetiva dotação do Fundo de Financiamento da Descentralização a transferir.\n\n5 - Para efeitos do disposto na alínea b) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, é publicado, até 30 de maio de 2019, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde, o mapa com os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2020."
+  },
+  "204734529": {
+   "fragment_id": "118872793",
+   "type": 11,
+   "heading": "Artigo 26.º — Acordo prévio dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acordo prévio dos municípios\n\n1 - A transferência das competências para as entidades intermunicipais depende de prévio acordo de todos os municípios que as integrem.\n\n2 - O acordo referido no número anterior é da competência da assembleia municipal de cada um dos municípios que integram a entidade intermunicipal."
+  },
+  "204734530": {
+   "fragment_id": "118872794",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições transitórias",
+   "in_force_from": "2022-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 27.º — Disposições transitórias\n\n1 - Consideram-se feitas aos municípios as referências constantes de outros diplomas legais relativas às competências objeto do presente decreto-lei.\n\n2 - Caso os contratos relativos aos serviços de logística ou de manutenção dos equipamentos celebrados com a administração regional de saúde respetiva não permitam a cedência de posição contratual relativa a cada município, mantêm-se em vigor pelo decurso do respetivo prazo, não sendo suscetíveis de renovação.\n\n3 - Nos termos dos n.os 2 e 3 dos artigos 40.º e 41.º da Lei n.º 50/2018, de 16 de agosto, mantêm-se em vigor os contratos interadministrativos de delegação de competências celebrados entre a Presidência do Conselho de Ministros, o Ministério da Saúde, as administrações regionais de saúde, as unidades locais de saúde e os municípios, celebrados ao abrigo do Decreto-Lei n.º 30/2015, de 12 de fevereiro, e os acordos de execução celebrados ao abrigo da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, até à data em que as autarquias locais assumam, no âmbito do presente decreto-lei, as competências aí previstas.\n\n4 - Os contratos interadministrativos de delegação de competências e os acordos de execução previstos no número anterior caducam na data em que os respetivos municípios assumam as novas competências, no âmbito do presente decreto-lei.\n\n5 - Sem prejuízo do disposto no artigo 18.º, nos casos em que, para satisfazer necessidades transitórias que não pressuponham subordinação hierárquica, tenham sido celebrados contratos em regime de prestação de serviços para o exercício de funções idênticas ao conteúdo funcional de um assistente operacional, são igualmente transferidas para o município as verbas relativas a esse encargo, sempre que haja necessidade de manter esses contratos.\n\n6 - Nas situações referidas no número anterior, se, em momento posterior, vier a concluir-se que se justifica a celebração de um contrato de trabalho em funções públicas, a verba a transferir passa a corresponder à remuneração e encargos sociais resultantes desse contrato, com os limites resultantes do disposto no número seguinte.\n\n7 - Os critérios e a fórmula de cálculo para determinar a dotação dos trabalhadores das unidades funcionais dos ACES inseridos na carreira de assistente operacional são definidos, até ao fim do ano de 2022, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde, ouvida a Associação Nacional de Municípios Portugueses.\n\n8 - São transferidas para os municípios as verbas necessárias ao cumprimento da dotação que vier a apurar-se nos termos do disposto no número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "204734531": {
+   "fragment_id": "118872795",
+   "type": 11,
+   "heading": "Artigo 28.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13"
+   ],
+   "markdown": "###### Artigo 28.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Sem prejuízo do número anterior, todas as competências previstas no presente decreto-lei consideram-se transferidas para as autarquias locais e entidades intermunicipais até 31 de março de 2022.\n\n3 - Relativamente ao ano de 2021, os municípios e entidades intermunicipais que ainda não tenham aceitado as competências previstas no presente decreto-lei, e que não o pretendam fazer no ano de 2021, comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13"
+  },
+  "204734532": {
+   "fragment_id": "118872796",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de novembro de 2018. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - Eduardo Arménio do Nascimento Cabrita - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 17 de janeiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 22 de janeiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "204734533": {
+   "fragment_id": "118872797",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 11.º)\n\n(ver documento original)"
+  },
+  "204734534": {
+   "fragment_id": "118872798",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 4 do artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 4 do artigo 17.º)\n\n(ver documento original)\n\n112010122"
+  },
+  "223940400": {
+   "fragment_id": "118813669",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de competências",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Transferência de competências\n\nÉ da competência dos órgãos municipais a:\n\na) Participação no planeamento, na gestão e na realização de investimentos relativos a novas unidades de prestação de cuidados de saúde primários, nomeadamente na sua construção, equipamento e manutenção;\n\nb) Gestão, manutenção e conservação de outros equipamentos afetos aos cuidados de saúde primários;\n\nc) Gestão dos trabalhadores, inseridos na carreira de assistente operacional, das unidades funcionais dos Agrupamentos de Centros de Saúde (ACES) e dos trabalhadores com contrato individual de trabalho celebrado ao abrigo do Código do Trabalho dos cuidados de saúde primários das Unidades Locais de Saúde que integram o Serviço Nacional de Saúde (SNS);\n\nd) Gestão dos serviços de apoio logístico das unidades funcionais dos ACES que integram o SNS;\n\ne) Parceria estratégica nos programas de prevenção da doença, com especial incidência na promoção de estilos de vida saudáveis e de envelhecimento ativo.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01"
+  },
+  "223940401": {
+   "fragment_id": "118872785",
+   "type": 11,
+   "heading": "Artigo 18.º — Procedimento de transição de trabalhadores",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 18.º — Procedimento de transição de trabalhadores\n\n1 - Os trabalhadores com vínculo de emprego público dos mapas de pessoal das Administrações Regionais de Saúde do Norte, I. P., do Centro, I. P., de Lisboa e Vale do Tejo, I. P., do Alentejo, I. P., e do Algarve, I. P., da carreira geral de assistente operacional, que exerçam funções nas unidades funcionais dos ACES e das Divisões de Intervenção nos Comportamentos Aditivos e nas Dependências das Administrações Regionais de Saúde, que integram o SNS, transitam para os mapas de pessoal das câmaras municipais da localização geográfica respetiva.\n\n2 - A transição referida no número anterior implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.\n\n3 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1, mantêm-se inalteradas até ao respetivo termo.\n\n4 - A transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1 produz efeitos com a publicação de lista nominativa dos referidos trabalhadores, organizada por município, na 2.ª série do Diário da República, homologada pelo membro do Governo responsável pelo serviço de origem.\n\n5 - A lista referida no número anterior contém obrigatoriamente a caracterização do posto de trabalho nos serviços de origem, bem como a carreira, categoria e posição remuneratória de cada trabalhador.\n\n6 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da câmara municipal para onde transitam os trabalhadores referidos no n.º 1.\n\n7 - Os processos individuais dos trabalhadores são entregues pelo serviço de origem nos serviços da câmara municipal de destino no prazo de 90 dias após a publicação referida no n.º 4.\n\n8 - São transferidos para os municípios os montantes equivalentes às remunerações devidas aos trabalhadores a transferir e, bem assim, os encargos a cargo da entidade empregadora.\n\n9 - As transferências de recursos referidas no número anterior são revistas, anualmente, nos termos equivalentes à variação prevista para as remunerações dos trabalhadores em funções públicas, e abrangem também:\n\na) Os montantes equivalentes às remunerações, e respetivos encargos sociais, devidas aos trabalhadores contratados para substituir trabalhadores transitados que cessem funções, a título temporário ou definitivo, por alguma das causas previstas no artigo 289.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual;\n\nb) Os montantes necessários ao pagamento de trabalho suplementar realizado por trabalhadores que transitem para os municípios ou dos que venham a ser contratados nos termos do presente decreto-lei.\n\n10 - Os trabalhadores a que se refere o presente artigo continuam a beneficiar do regime da ADSE e de reembolso das despesas com o SNS vigente nos respetivos lugares de origem.\n\n11 - O regime da ADSE - Instituto de Proteção e Assistência na Doença, I. P., e do SNS dos trabalhadores da administração central direta é aplicável:\n\na) Aos trabalhadores que transitam da administração central para os municípios no âmbito do processo de descentralização de competências;\n\nb) Aos trabalhadores que sejam contratados para substituir os trabalhadores referidos na alínea anterior que tenham cessado funções, temporária ou definitivamente, conforme previsto na alínea a) do n.º 9;\n\nc) Aos novos recrutamentos dentro dos rácios definidos.\n\n12 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao recrutamento de trabalhador adequado ao preenchimento de posto de trabalho anteriormente ocupado por trabalhador que, reunindo condições para ser abrangido pelo n.º 1, tenha cessado funções a título definitivo nos 12 meses anteriores à data do auto de transferência.\n\n13 - O disposto no presente artigo aplica-se, com as necessárias adaptações, aos assistentes operacionais com contrato de trabalho, celebrado ao abrigo do Código do Trabalho, que exerçam funções nos ACES ou centros de saúde das Unidades Locais de Saúde, E. P. E.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "223940402": {
+   "fragment_id": "223940647",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Regime transitório aplicável aos atuais trabalhadores com contrato de trabalho",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 18.º-A — Regime transitório aplicável aos atuais trabalhadores com contrato de trabalho\n\n1 - A transição dos trabalhadores referidos no n.º 13 do artigo anterior, implica a sucessão na posição jurídica entre a entidade pública empresarial e a câmara municipal, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.\n\n2 - Para os efeitos previstos no número anterior, é criado na câmara municipal um mapa de pessoal residual, cujos postos de trabalho são a extinguir quando vagarem, destinado ao provimento dos trabalhadores com contrato de trabalho.\n\n3 - Sem prejuízo do disposto no número anterior, os trabalhadores providos no mapa de pessoal residual, podem candidatar-se, a todo o tempo, a procedimentos concursais, exclusivamente aberto para estes trabalhadores, para a carreira e categoria de assistente operacional, abertos pela autarquia a cujo mapa de pessoal residual pertencem.\n\n4 - Aos trabalhadores que nos termos previstos no número anterior, venham a adquirir um vínculo de emprego público por tempo indeterminado, é integralmente contabilizado, para todos os efeitos legais, designadamente para avaliação de desempenho e alteração da posição remuneratória, o tempo de serviço prestado enquanto titulares de contrato de trabalho.\n\n> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), em vigor a partir de 2023-11-08, produz efeitos a partir de 2024-01-01"
+  },
+  "223940403": {
+   "fragment_id": "118872786",
+   "type": 11,
+   "heading": "Artigo 19.º — Gestão de pessoal",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 19.º — Gestão de pessoal\n\nAs competências próprias do presidente da câmara municipal e dos órgãos municipais em matéria de gestão dos trabalhadores que exerçam funções nas unidades funcionais dos ACES e das Divisões de Intervenção nos Comportamentos Aditivos e nas Dependências das Administrações Regionais de Saúde, que integram o SNS, podem ser objeto de delegação nos diretores dos ACES e coordenadores das divisões de intervenção nos comportamentos aditivos e nas dependências.\n\n> Alterado pelo/a Artigo 191.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "223940404": {
+   "fragment_id": "118872787",
+   "type": 11,
+   "heading": "Artigo 20.º — Auto de transferência",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 20.º — Auto de transferência\n\n1 - A transferência das competências a que se refere o artigo 2.º é formalizada através de auto de transferência a assinar pelo Ministério da Saúde, as administrações regionais de saúde e os municípios, contemplando as seguintes matérias:\n\na) Identificação dos recursos humanos, patrimoniais e financeiros associados ao desempenho das competências transferidas para os municípios ao abrigo do presente decreto-lei;\n\nb) Identificação do estado de conservação das instalações e dos equipamentos dos estabelecimentos de saúde integrados no processo de descentralização;\n\nc) (Regogada.)\n\nd) Definição dos instrumentos financeiros utilizáveis;\n\n2 - (Revogado.)\n\n3 - O auto de transferência pode ser alterado mediante aditamento subscrito por todas as partes.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "223940405": {
+   "fragment_id": "118872788",
+   "type": 11,
+   "heading": "Artigo 21.º — Intervenção das entidades intermunicipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Intervenção das entidades intermunicipais\n\nOs órgãos deliberativos das entidades intermunicipais emitem pareceres prévios relativamente à celebração de acordos e definição da rede de unidades de cuidados de saúde primários e de unidades de cuidados continuados de âmbito intermunicipal."
+  },
+  "223940406": {
+   "fragment_id": "118872789",
+   "type": 11,
+   "heading": "Artigo 22.º — Transferência de recursos financeiros para os municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Transferência de recursos financeiros para os municípios\n\n1 - O financiamento das competências objeto do presente decreto-lei é anualmente previsto na Lei do Orçamento do Estado, nos termos do artigo 5.º da Lei n.º 50/2018, de 16 de agosto, e do artigo 80.º-B da Lei n.º 73/2013, de 3 de setembro, na sua redação atual.\n\n2 - O previsto no número anterior não prejudica o estabelecimento de acordos específicos para financiamento adicional de projetos de saúde nas áreas dos municípios.\n\n3 - Sem prejuízo do disposto no n.º 8 do artigo 17.º, as despesas resultantes da oferta de cuidados de saúde complementares, ou que correspondam ao alargamento da oferta atualmente existente, devem ser suportadas pelos municípios, salvo se o alargamento tiver sido previamente aprovado pelas administrações regionais de saúde.\n\n4 - A transferência financeira relativa à transição dos trabalhadores da Administração central para o mapa de pessoal das câmaras municipais previsto no artigo 18.º inclui os eventuais abonos que os trabalhadores aufiram."
+  },
+  "223940407": {
+   "fragment_id": "118872790",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Decreto-Lei n.º 28/2008, de 22 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Decreto-Lei n.º 28/2008, de 22 de fevereiro\n\nO artigo 32.º do Decreto-Lei n.º 28/2008, de 22 de fevereiro, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 32.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) Propor à administração regional de saúde alterações ao número e localização das unidades funcionais do ACES;\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) [Anterior alínea e).]\n\ng) Propor à administração regional de saúde alterações ao horário de funcionamento das unidades funcionais dos ACES;\n\nh) Dar parecer sobre a avaliação do desempenho das unidades funcionais e de serviços de apoio;\n\ni) [Anterior alínea f).]\n\nj) Apresentar proposta e dar parecer sobre as necessidades de formação específica dos funcionários dos ACES, no que concerne aos trabalhadores inseridos na carreira de assistente operacional;\n\nk) [Anterior alínea g)].»"
+  },
+  "223940408": {
+   "fragment_id": "118872791",
+   "type": 11,
+   "heading": "Artigo 24.º — Regulamento interno dos Agrupamentos de Centros de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regulamento interno dos Agrupamentos de Centros de Saúde\n\nOs ACES ficam obrigados a adequar os seus regulamentos internos ao disposto no presente decreto-lei, no prazo de 90 dias após a sua entrada em vigor."
+  },
+  "223940409": {
+   "fragment_id": "118872792",
+   "type": 11,
+   "heading": "Artigo 25.º — Recursos financeiros para os anos de 2019 e de 2020",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Recursos financeiros para os anos de 2019 e de 2020\n\n1 - No prazo de 15 dias corridos após a entrada em vigor do presente decreto-lei, os membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde remetem a cada uma das câmaras municipais projeto de mapa contendo os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2019, bem como a listagem dos imóveis afetos aos cuidados de saúde primários cujas competências de gestão, manutenção e conservação são transferidas para as câmaras municipais nos termos do n.º 3 do artigo 12.º\n\n2 - As câmaras municipais dispõem de um prazo de 30 dias corridos após a receção do projeto referido no número anterior para remeterem ao membro do Governo responsável pela área da saúde pronúncia sobre o seu teor, presumindo-se, na falta de pronúncia por parte das câmaras municipais, que manifestam a sua concordância com o teor daquele projeto.\n\n3 - Para efeitos da deliberação referida na alínea a) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, é publicado, no prazo de 45 dias corridos após a entrada em vigor do presente decreto-lei, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde, o mapa com os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2019, bem como a listagem dos imóveis afetos aos cuidados de saúde primários cujas competências de gestão, manutenção e conservação são transferidas para as câmaras municipais nos termos do n.º 3 do artigo 12.º\n\n4 - Caso se revele necessário, no decurso do ano de 2019, rever os montantes referidos no número anterior, os membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde remetem a fundamentação de revisão aos municípios, e a variação do montante é considerada autonomamente, em sede de Orçamento do Estado para 2020, na respetiva dotação do Fundo de Financiamento da Descentralização a transferir.\n\n5 - Para efeitos do disposto na alínea b) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, é publicado, até 30 de maio de 2019, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da saúde, o mapa com os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2020."
+  },
+  "223940410": {
+   "fragment_id": "118872793",
+   "type": 11,
+   "heading": "Artigo 26.º — Acordo prévio dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acordo prévio dos municípios\n\n1 - A transferência das competências para as entidades intermunicipais depende de prévio acordo de todos os municípios que as integrem.\n\n2 - O acordo referido no número anterior é da competência da assembleia municipal de cada um dos municípios que integram a entidade intermunicipal."
+  },
+  "223940411": {
+   "fragment_id": "118872794",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+   ],
+   "markdown": "###### Artigo 27.º — Disposições transitórias\n\n1 - Consideram-se feitas aos municípios as referências constantes de outros diplomas legais relativas às competências objeto do presente decreto-lei.\n\n2 - Caso os contratos relativos aos serviços de logística ou de manutenção dos equipamentos celebrados com a administração regional de saúde respetiva não permitam a cedência de posição contratual relativa a cada município, mantêm-se em vigor pelo decurso do respetivo prazo, não sendo suscetíveis de renovação.\n\n3 - Nos termos dos n.os 2 e 3 dos artigos 40.º e 41.º da Lei n.º 50/2018, de 16 de agosto, mantêm-se em vigor os contratos interadministrativos de delegação de competências celebrados entre a Presidência do Conselho de Ministros, o Ministério da Saúde, as administrações regionais de saúde, as unidades locais de saúde e os municípios, celebrados ao abrigo do Decreto-Lei n.º 30/2015, de 12 de fevereiro, e os acordos de execução celebrados ao abrigo da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, até à data em que as autarquias locais assumam, no âmbito do presente decreto-lei, as competências aí previstas.\n\n4 - Os contratos interadministrativos de delegação de competências e os acordos de execução previstos no número anterior caducam na data em que os respetivos municípios assumam as novas competências, no âmbito do presente decreto-lei.\n\n5 - Sem prejuízo do disposto no artigo 18.º, nos casos em que, para satisfazer necessidades transitórias que não pressuponham subordinação hierárquica, tenham sido celebrados contratos em regime de prestação de serviços para o exercício de funções idênticas ao conteúdo funcional de um assistente operacional, são igualmente transferidas para o município as verbas relativas a esse encargo, sempre que haja necessidade de manter esses contratos.\n\n6 - Nas situações referidas no número anterior, se, em momento posterior, vier a concluir-se que se justifica a celebração de um contrato de trabalho em funções públicas, a verba a transferir passa a corresponder à remuneração e encargos sociais resultantes desse contrato, com os limites resultantes do disposto no número seguinte.\n\n7 - Os critérios e a fórmula de cálculo para determinar a dotação dos trabalhadores das unidades funcionais dos ACES inseridos na carreira de assistente operacional são definidos, até ao fim do ano de 2022, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde, ouvida a Associação Nacional de Municípios Portugueses.\n\n8 - São transferidas para os municípios as verbas necessárias ao cumprimento da dotação que vier a apurar-se nos termos do disposto no número anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 84-E/2022 - Diário da República n.º 239/2022, 1º Suplemento, Série I de 2022-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-e-2022-204734601), em vigor a partir de 2022-12-15"
+  },
+  "223940412": {
+   "fragment_id": "118872795",
+   "type": 11,
+   "heading": "Artigo 28.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13"
+   ],
+   "markdown": "###### Artigo 28.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.\n\n2 - Sem prejuízo do número anterior, todas as competências previstas no presente decreto-lei consideram-se transferidas para as autarquias locais e entidades intermunicipais até 31 de março de 2022.\n\n3 - Relativamente ao ano de 2021, os municípios e entidades intermunicipais que ainda não tenham aceitado as competências previstas no presente decreto-lei, e que não o pretendam fazer no ano de 2021, comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 56/2020 - Diário da República n.º 156/2020, Série I de 2020-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2020-140087206), em vigor a partir de 2020-08-13"
+  },
+  "223940413": {
+   "fragment_id": "118872796",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de novembro de 2018. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - Eduardo Arménio do Nascimento Cabrita - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 17 de janeiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 22 de janeiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "223940414": {
+   "fragment_id": "118872797",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 11.º)\n\n(ver documento original)"
+  },
+  "223940415": {
+   "fragment_id": "118872798",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 4 do artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 4 do artigo 17.º)\n\n(ver documento original)\n\n112010122"
+  }
+ }
+}

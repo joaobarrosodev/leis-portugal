@@ -1,0 +1,639 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518431:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2007-885064440",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-2007-518431",
+ "source_lastmod": "2024-08-21",
+ "versions": [
+  {
+   "date": "2007-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885064504",
+    "885064505",
+    "885064506",
+    "885064507",
+    "885064508",
+    "885064509",
+    "885064510",
+    "885064511",
+    "885064512",
+    "885064513",
+    "885064514",
+    "885064515",
+    "885064516",
+    "885064517",
+    "885064518",
+    "885064519",
+    "885064520",
+    "885064521",
+    "885064522",
+    "885064523",
+    "885064524",
+    "885064525",
+    "885064526",
+    "885064527",
+    "885064528",
+    "885064529",
+    "885064530",
+    "885064531",
+    "885064532",
+    "885064533",
+    "885064534",
+    "885064535"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:191860:por",
+     "title": "Decreto Legislativo Regional n.º 30/2012/M",
+     "published": "2012-11-08",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/30-2012-191860"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º"
+   ],
+   "fragments": [
+    "885064504",
+    "885064505",
+    "885064506",
+    "885064507",
+    "885064508",
+    "885064509",
+    "885064510",
+    "885064545",
+    "885064546",
+    "885064547",
+    "885064548",
+    "885064549",
+    "885064550",
+    "885064551",
+    "885064552",
+    "885064553",
+    "885064554",
+    "885064555",
+    "885064556",
+    "885064557",
+    "885064558",
+    "885064559",
+    "885064560",
+    "885064561",
+    "885064562",
+    "885064563",
+    "885064564",
+    "885064565",
+    "885064566",
+    "885064567",
+    "885064568",
+    "885064569",
+    "885064536"
+   ]
+  }
+ ],
+ "fragments": {
+  "885064504": {
+   "fragment_id": "885064441",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 9/2007/M\n\nCriação da rede de cuidados continuados integrados da Região Autónoma da Madeira\n\nO envelhecimento demográfico e as alterações no padrão epidemiológico e na estrutura social e familiar verificadas em Portugal determinaram o aparecimento de novas necessidades, cuja satisfação reclama a introdução de mudanças nas políticas de saúde e de solidariedade social, as quais devem revelar-se capazes de desenvolver novas respostas que possam contribuir para a manutenção e restauração da dignidade e qualidade de vida e para minorar o sofrimento dos cidadãos que, por causas várias, se encontram em situação de elevado grau de dependência e perda de autonomia funcional, prevenindo a ocorrência de situações de exclusão e desigualdade social.\n\nNeste contexto, importa reconhecer a insuficiência e inadequação de uma abordagem sectorizada estanque dos cuidados de saúde e das prestações de apoio social e assumir que a prevenção, tratamento e recuperação destas situações de vulnerabilidade e incapacidade requer a implementação de um modelo alternativo de intervenção que articule as dimensões da saúde e da acção social e possa abranger respostas diferenciadas e personalizadas em conformidade com as condições particulares dos seus destinatários.\n\nA criação da Rede de Cuidados Continuados Integrados da Madeira corresponde justamente a esta preocupação, de garantir a coordenação das áreas da saúde e da acção social, com base na definição de soluções que, mediante a conjugação de prestações típicas de cada um dos sectores, se revelem, em cada momento, aptas a satisfazer adequadamente as carências específicas das pessoas idosas e das pessoas com elevado grau de perda de autonomia e dos doentes terminais, em função de uma avaliação permanente das necessidades individuais existentes.\n\nNão está, assim, em causa a criação de um novo programa de acção social, mas, antes, a institucionalização de um novo modelo de articulação entre a saúde e a acção social, que constitua uma inovadora abordagem de intervenção na Região envolvendo as várias entidades responsáveis pela prestação de cuidados de saúde e de apoio social.\n\nA experiência recolhida com o projecto piloto, lançado em Abril de 2004, permitiu não apenas confirmar a procura crescente de respostas que restaurem a qualidade de vida daqueles cidadãos como sobretudo demonstrar as virtualidades inerentes à implementação de um modelo de abordagem integrada do binómio cuidados de saúde-acção social, assente na cooperação institucional e na conjugação de esforços de várias entidades envolvidas na prestação de cuidados de saúde e de apoio social, como aquele que agora se propõe.\n\nPor outro lado, os ensinamentos do projecto piloto conferem também um grau de segurança acrescida relativamente à capacidade de mitigar os riscos geralmente associados ao pioneirismo das novas soluções e de definir com rigor o papel de cada um dos serviços existentes e de estruturar novas respostas, de forma a garantir o apoio a pessoas cujo grau de dependência exige tipos de intervenção diferenciados.\n\nA filosofia e os princípios subjacentes ao projecto piloto mantêm-se, mas, neste momento, afigura-se necessário avançar para o estabelecimento de parcerias com um número crescente de entidades públicas, sociais e privadas, vocacionadas para a prestação deste tipo de cuidados continuados integrados, bem como para a institucionalização de uma gestão centralizada, que assegure o cumprimento de elevados padrões de qualidade na prestação dos cuidados e garanta a articulação, optimização, reconversão e racionalização dos recursos disponíveis.\n\nPretende-se essencialmente, mais do que cristalizar um modelo, desenvolver um projecto que encerre em si mesmo a capacidade de se adaptar a uma realidade que é por definição evolutiva, e de responder a todas as carências, que, a cada momento, vierem a exigir uma intervenção concertada da saúde e da acção social.\n\nFoi ouvida a Associação de Municípios da Região Autónoma da Madeira.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo das alíneas a) e c) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º, ambos da Constituição da República Portuguesa, do artigo 46.º da Lei Constitucional n.º 1/2004, de 24 de Julho, e das alíneas c) e e) do n.º 1 do artigo 37.º e da alínea m) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, e no desenvolvimento do regime jurídico estabelecido na Lei n.º 48/90, de 24 de Agosto, com as alterações que lhe foram introduzidas pela Lei n.º 27/2002, de 8 de Novembro, e na Lei n.º 4/2007, de 16 de Janeiro, o seguinte:"
+  },
+  "885064505": {
+   "fragment_id": "885064442",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma cria a rede de cuidados continuados integrados da Madeira, adiante designada por REDE, a qual constitui parte integrante do sistema regional de saúde e do sistema de protecção social."
+  },
+  "885064506": {
+   "fragment_id": "885064443",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição da REDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição da REDE\n\nA REDE constitui-se como um conjunto de respostas, que, articulando diferentes linhas e modalidades de intervenção nas áreas da saúde e da segurança social, promove a autonomia dos seus utentes através da prestação integrada de cuidados de saúde e de apoio social e contribui para a melhoria do acesso, das pessoas com perda de funcionalidades, a cuidados técnica e humanamente adequados."
+  },
+  "885064507": {
+   "fragment_id": "885064444",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos da REDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos da REDE\n\nConstituem objectivos da REDE, designadamente:\n\na) Tratar, de forma integral e global, as pessoas em risco, em situação de dependência ou terminal, privilegiando a manutenção dos mesmos junto do respectivo núcleo familiar sempre que não necessitem de tratamento que requeira tecnologia hospitalar;\n\nb) Recuperar as incapacidades geradas pela evolução de doenças crónicas ou acidentes, através da reabilitação e cuidados no domicílio, respeitando a plena participação do próprio e da respectiva família, a privacidade individual e familiar, as capacidades individuais remanescentes, as competências familiares e ainda os seus interesses e aspirações;\n\nc) Prevenir a dependência da pessoa em risco de perda de autonomia, através de um plano individual de intervenção, no qual a reabilitação global desempenha um papel de especial relevo;\n\nd) Promover a integração da pessoa com perda de autonomia, de modo a prevenir o seu isolamento e a marginalização social, fomentando a participação dos utentes na comunidade de acordo com as suas capacidades;\n\ne) Assegurar o bem-estar físico e psicológico e a dignidade de todos os utentes da REDE;\n\nf) Habilitar a rede familiar e os mais directos conviventes para a prestação de cuidados informais, constituindo a família como núcleo privilegiado para o equilíbrio e bem-estar dos utentes;\n\ng) Preservar o equilíbrio da família, da pessoa apoiada e de outros prestadores informais de cuidados para que possam manter a sua vida sócio-profissional de uma forma activa, minimizando o seu desgaste;\n\nh) Criar sistemas de informação que permitam a quantificação de ganhos em saúde e apoio social decorrentes da criação da REDE;\n\ni) Organizar modelos de gestão que favoreçam a optimização dos recursos existentes em cada área de intervenção."
+  },
+  "885064508": {
+   "fragment_id": "885064445",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios\n\nA REDE baseia-se no respeito pelos seguintes princípios:\n\na) A co-responsabilização da família na prestação de cuidados enquanto suporte e meio preferencial do utente;\n\nb) A humanidade e defesa da integridade física e moral, identidade e privacidade do utente;\n\nc) A continuidade de cuidados;\n\nd) A recuperação global;\n\ne) A multidisciplinaridade como estipulação e prossecução de objectivos comuns e complementaridade de actuação dos profissionais que integram a equipa de prestação de cuidados;\n\nf) A proximidade de cuidados, de forma a manter o utente, sempre que possível, no seu enquadramento familiar e comunitário;\n\ng) A qualidade e eficiência na prestação de cuidados continuados integrados de saúde e de apoio social;\n\nh) A integração dos serviços prestados ao utente, de modo a responder às suas diversas necessidades de forma global e a promover a sua autonomia e reinserção social na comunidade;\n\ni) O consentimento informado relativamente às intervenções a efectuar;\n\nj) A participação do utente e da respectiva família e ou representante legal na elaboração do plano individual de intervenção;\n\nl) A definição de planos individuais de intervenção que estabeleçam objectivos comuns orientadores dos cuidados prestados."
+  },
+  "885064509": {
+   "fragment_id": "885064446",
+   "type": 11,
+   "heading": "Artigo 5.º — Cuidados continuados integrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cuidados continuados integrados\n\nEntende-se por «cuidados continuados integrados» o conjunto de intervenções de saúde e de apoio social, sequenciais e coordenadas, baseadas numa avaliação global das necessidades do utente, com a finalidade de promover a autonomia, melhorando a funcionalidade da pessoa em situação de dependência, através da sua reabilitação, readaptação e reinserção familiar e social."
+  },
+  "885064510": {
+   "fragment_id": "885064447",
+   "type": 11,
+   "heading": "Artigo 6.º — Utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Utentes\n\nSão utentes da REDE os cidadãos de qualquer grupo etário com domicílio na Região Autónoma da Madeira, que se encontrem em situação de perda de funcionalidade ou em situação de dependência, afectados na estrutura anatómica ou nas funções psicológica ou fisiológica, com limitação acentuada e que necessitem de cuidados interdisciplinares de saúde e de apoio social."
+  },
+  "885064511": {
+   "fragment_id": "885064448",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição da REDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição da REDE\n\n1 - Integram a REDE a Região Autónoma da Madeira, através da secretaria regional que tutela os sectores da saúde e da segurança social, o Serviço Regional de Saúde, E. P. E., e o Centro de Segurança Social da Madeira.\n\n2 - Poderão ainda integrar a REDE as instituições particulares de solidariedade social, misericórdias, pessoas colectivas de utilidade pública e entidades privadas que contratem a prestação de serviços de cuidados continuados de saúde e de apoio social com a entidade gestora, nos termos do artigo 21.º, e as autarquias locais."
+  },
+  "885064512": {
+   "fragment_id": "885064449",
+   "type": 11,
+   "heading": "Artigo 8.º — Modelo de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modelo de intervenção\n\n1 - A REDE baseia-se num modelo de intervenção articulada e integrada de saúde e acção social e assenta num plano individual de intervenção, centrado na recuperação global da pessoa, onde os cuidados são entendidos como um processo terapêutico e de apoio social, activo e contínuo.\n\n2 - O plano individual de intervenção deverá integrar o diagnóstico das situações do utente, a natureza e periodicidade das intervenções multidisciplinares a desenvolver, de acordo com os objectivos estabelecidos com o utente ou cuidador, especificando as necessidades de intervenção e encaminhando para a unidade de cuidados continuados integrados daquela.\n\n3 - A prestação dos cuidados é garantida por equipas prestadoras estruturadas em unidades locais, que funcionam na dependência das equipas de coordenação local, a quem compete assegurar a conjugação e coordenação das diversas respostas existentes para a prestação de cuidados continuados integrados ao nível local."
+  },
+  "885064513": {
+   "fragment_id": "885064450",
+   "type": 11,
+   "heading": "Artigo 9.º — Estrutura operacional da REDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estrutura operacional da REDE\n\n1 - A estrutura operacional da REDE é constituída pelas seguintes equipas, as quais funcionam na dependência da entidade gestora:\n\na) As equipas de coordenação local;\n\nb) As equipas prestadoras que funcionam sob a dependência da equipa de coordenação local.\n\n2 - Deverá ainda funcionar, nos estabelecimentos hospitalares, uma equipa de cuidados integrados hospitalares, nos termos enunciados no artigo 15.º\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M."
+  },
+  "885064514": {
+   "fragment_id": "885064451",
+   "type": 11,
+   "heading": "Artigo 10.º — Gestão da REDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gestão da REDE\n\nA gestão e coordenação da REDE são asseguradas por uma cooperativa de interesse público, doravante designada por entidade gestora."
+  },
+  "885064515": {
+   "fragment_id": "885064452",
+   "type": 11,
+   "heading": "Artigo 11.º — Funções da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Funções da entidade gestora\n\nSão funções da entidade gestora:\n\na) Gerir os recursos humanos, financeiros e materiais afectos à REDE;\n\nb) Assegurar o funcionamento adequado da REDE promovendo para o efeito a articulação das várias equipas de coordenação local;\n\nc) Recolher, gerir e avaliar de forma permanente toda a informação relativa à oferta e procura das respostas integradas na REDE, nomeadamente no que se refere a admissões, demoras médias e altas no âmbito de cada unidade local;\n\nd) Identificar e planear as necessidades de cada unidade local;\n\ne) Promover a realização de inquéritos e estudos com vista à elaboração de diagnósticos actualizados das necessidades de prestação de cuidados continuados integrados de saúde e de apoio social;\n\nf) Propor ao membro do Governo Regional que tutela as áreas da saúde e da segurança social a adopção das medidas normativas adequadas à prossecução dos objectivos da REDE, designadamente em sede de criação, reconversão ou extinção das modalidades de intervenção compreendidas na mesma;\n\ng) Celebrar acordos e convenções com entidades públicas ou privadas ao abrigo da legislação em vigor, tendo por objecto a prestação de cuidados continuados de saúde e de apoio social aos utentes da REDE;\n\nh) Definir os indicadores e os procedimentos de avaliação do funcionamento e qualidade das respostas e entidades integradas na REDE;\n\ni) Propor ao membro do Governo que tutela as áreas da saúde e da segurança social a criação de unidades locais, que poderão integrar um ou mais dos serviços mencionados no artigo 15.º;\n\nj) Incentivar a formação de cuidadores informais;\n\nl) Promover o acompanhamento e a avaliação do funcionamento das respostas e das entidades integradas em cada unidade local quanto ao processo global e resultados;\n\nm) Excluir da REDE as entidades públicas ou privadas que não cumpram os requisitos previstos no presente diploma, na demais legislação aplicável ou nos acordos e convenções celebrados com as mesmas;\n\nn) Promover programas e actividades de formação permanente dos diversos profissionais a envolver na prestação dos cuidados continuados integrados."
+  },
+  "885064516": {
+   "fragment_id": "885064453",
+   "type": 11,
+   "heading": "Artigo 12.º — Unidades locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Unidades locais\n\n1 - As unidades locais estruturam-se de acordo com critérios territoriais a definir pela entidade gestora e são criadas por despacho do membro do Governo que tutela as áreas da saúde e segurança social, sob proposta da mesma.\n\n2 - As unidades locais podem integrar um ou mais serviços que constituem a REDE."
+  },
+  "885064517": {
+   "fragment_id": "885064454",
+   "type": 11,
+   "heading": "Artigo 13.º — Equipas de coordenação local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Equipas de coordenação local\n\nA coordenação de cada unidade local é assegurada por uma equipa multidisciplinar, designada por equipa de coordenação local, à qual compete, designadamente:\n\na) Proceder à admissão e encaminhamento no âmbito da REDE, mediante a avaliação da situação de cada utente, em função das necessidades identificadas, no plano individual de intervenção;\n\nb) Elaborar, supervisionar e orientar o plano individual de intervenção para cada utente, em articulação com as equipas prestadoras;\n\nc) Designar, de entre os elementos da equipa, um gestor de caso, que será o elemento de referência do utente admitido;\n\nd) Organizar um processo individual de cuidados continuados, que corresponde ao conjunto de informação respeitante a cada utente em situação de dependência que recebe cuidados continuados integrados;\n\ne) Proceder à alta do utente, sempre que estejam reunidos os requisitos necessários, e providenciar a admissão do utente noutro tipo de serviço ou a preparação do seu regresso, com mais autonomia, ao domicílio;\n\nf) Manter actualizada a informação relativa ao número e características dos estabelecimentos, serviços e utentes existentes no âmbito de cada unidade local;\n\ng) Assegurar a divulgação da informação adequada à população sobre a natureza, o número e a localização das respostas existentes na respectiva unidade local;\n\nh) Manter a entidade gestora informada sobre o acesso e o movimento da unidade local.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M."
+  },
+  "885064518": {
+   "fragment_id": "885064455",
+   "type": 11,
+   "heading": "Artigo 14.º — Equipas prestadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Equipas prestadoras\n\nA prestação dos cuidados continuados integrados é assegurada pelas equipas prestadoras, constituídas por profissionais oriundos dos serviços e instituições que integram a REDE.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M."
+  },
+  "885064519": {
+   "fragment_id": "885064456",
+   "type": 11,
+   "heading": "Artigo 15.º — Equipas de coordenação hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Equipas de coordenação hospitalar\n\n1 - Nos estabelecimentos hospitalares integrados no Serviço Regional de Saúde, E. P. E., deverão ser criadas as equipas de coordenação necessárias para a articulação com as equipas de coordenação local.\n\n2 - As equipas de coordenação hospitalar deverão acompanhar a programação da alta hospitalar, identificando a necessidade de cuidados continuados integrados dos utentes.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M."
+  },
+  "885064520": {
+   "fragment_id": "885064457",
+   "type": 11,
+   "heading": "Artigo 16.º — Tipos de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tipos de serviços\n\n1 - A REDE compreende os seguintes tipos de serviços:\n\na) Apoio integrado domiciliário;\n\nb) Centros de promoção de autonomia;\n\nc) Unidades de apoio integrado de internamento de curta, média e longa durações.\n\n2 - Poderão vir a ser implementados outros tipos de serviços, através de proposta da entidade gestora e de aprovação por despacho do membro do Governo Regional que tutela as áreas da saúde e da segurança social, em função da identificação de novas necessidades dos utentes.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M."
+  },
+  "885064521": {
+   "fragment_id": "885064458",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio integrado domiciliário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apoio integrado domiciliário\n\n1 - O apoio integrado domiciliário é um serviço que se concretiza através de um conjunto de acções e cuidados pluridisciplinares de saúde e apoio social prestados no domicílio do utente.\n\n2 - O apoio integrado domiciliário compreende, designadamente, o apoio médico, de enfermagem e psicossocial, bem como o apoio na satisfação das necessidades básicas, como higiene pessoal e habitacional, alimentação, tratamento de roupas e apoio na execução das rotinas diárias de natureza indispensável.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M."
+  },
+  "885064522": {
+   "fragment_id": "885064459",
+   "type": 11,
+   "heading": "Artigo 18.º — Centros de promoção da autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Centros de promoção da autonomia\n\n1 - Os centros de promoção de autonomia são unidades de dia, destinadas à prevenção da dependência e promoção de autonomia, que se caracterizam por ser pólos dinamizadores de actividades, com plena participação dos utentes, potenciando a manutenção destes no seu meio habitual de vida e a sua auto-estima.\n\n2 - Os centros de promoção de autonomia prestam apoio quer ao nível do desenvolvimento de actividades de treino cognitivo, motor, sensorial e de vida diária, para potenciação das capacidades existentes, quer ao nível do ensino e formação dos familiares e cuidadores directos do utente na prestação de cuidados informais.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M."
+  },
+  "885064523": {
+   "fragment_id": "885064460",
+   "type": 11,
+   "heading": "Artigo 19.º — Unidades de apoio integrado de internamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Unidades de apoio integrado de internamento\n\n1 - As unidades de apoio integrado de internamento, como unidades complementares à unidade de apoio integrado domiciliário, destinam-se a prestar cuidados continuados integrados, em regime de internamento de curta, média e longa durações.\n\n2 - A intervenção e os cuidados prestados pelas unidades de apoio integrado de internamento, de natureza curativa e de reabilitação global, decorrem da prestação de cuidados de saúde iniciada em internamento hospitalar ou necessários em virtude da agudização ou repetição de episódio de doença crónica ocorrido no domicílio do utente.\n\n3 - Os cuidados prestados pelas unidades de apoio integrado de internamento visam a rápida reabilitação e reintegração do utente no seu meio habitual, em condições da máxima autonomia, e a preservação do equilíbrio psicossocial do seu cuidador.\n\n4 - Os internamentos de curta, média e longa durações estruturam-se respectivamente pelos seguintes períodos:\n\na) Não superior a 30 dias;\n\nb) Superior a 30 e inferior a 90 dias;\n\nc) Superior a 90 e tendencialmente inferior a 180 dias.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M."
+  },
+  "885064524": {
+   "fragment_id": "885064461",
+   "type": 11,
+   "heading": "Artigo 20.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acesso\n\nO acesso à REDE é determinado pela equipa de coordenação local, mediante proposta:\n\na) Do Serviço Regional de Saúde, E. P. E., através da equipa de coordenação hospitalar prevista no artigo 15.º ou dos centros de saúde;\n\nb) Do Centro de Segurança Social da Madeira, através dos serviços de acção social;\n\nc) Através de outras entidades com as quais tenham sido celebrados protocolos para o efeito."
+  },
+  "885064525": {
+   "fragment_id": "885064462",
+   "type": 11,
+   "heading": "Artigo 21.º — Contratação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contratação de serviços\n\n1 - Na contratação de serviços a integrar na REDE, a entidade gestora deve garantir o cumprimento dos princípios da imparcialidade, da proporcionalidade, da publicidade, da transparência e da não discriminação, da qualidade e da economicidade, de modo a alcançar a melhor gestão dos recursos disponíveis.\n\n2 - As entidades a contratar para a prestação de cuidados continuados integrados na REDE podem assumir uma das seguintes formas:\n\na) Instituições particulares de solidariedade social, misericórdias e pessoas colectivas de utilidade pública administrativa;\n\nb) Pessoas colectivas públicas, com ou sem natureza empresarial;\n\nc) Entidades privadas, com ou sem fins lucrativos.\n\n3 - A entidade gestora manterá um registo organizado contendo a identificação de todas as entidades que, a cada momento, prestam cuidados continuados de saúde e de apoio social no âmbito da REDE, com indicação da ou das unidades locais abrangidas pelos seus serviços."
+  },
+  "885064526": {
+   "fragment_id": "885064463",
+   "type": 11,
+   "heading": "Artigo 22.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Requisitos\n\nAs entidades referidas no artigo anterior devem garantir a adequação dos equipamentos e instalações utilizados, de acordo com os critérios a definir por despacho do membro do Governo que tutela as áreas da saúde e segurança social."
+  },
+  "885064527": {
+   "fragment_id": "885064464",
+   "type": 11,
+   "heading": "Artigo 23.º — Promoção e garantia da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Promoção e garantia da qualidade\n\nOs modelos de promoção e gestão da qualidade, que serão fixados por despacho do membro do Governo que tutela as áreas da saúde e segurança social, assentarão em métodos de medição, de análise e melhoria contínua, sendo de aplicação obrigatória em cada uma das unidades e nas equipas da REDE."
+  },
+  "885064528": {
+   "fragment_id": "885064465",
+   "type": 11,
+   "heading": "Artigo 24.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Avaliação\n\nAs unidades e equipas da REDE serão sujeitas a avaliações periódicas, que se concretizam em auditorias internas, realizadas segundo o plano anual definido pela entidade gestora, e em avaliações externas, de acordo com critérios a estabelecer por despacho do membro do Governo que tutela as áreas da saúde e da segurança social."
+  },
+  "885064529": {
+   "fragment_id": "885064466",
+   "type": 11,
+   "heading": "Artigo 25.º — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Recursos humanos\n\n1 - Aos trabalhadores da entidade gestora aplica-se o regime jurídico do contrato individual de trabalho bem como o regime geral da segurança social.\n\n2 - Os funcionários da administração pública regional, central ou local, bem como os funcionários de quaisquer institutos públicos, empresas públicas, podem ser autorizados a exercer funções na entidade gestora, em regime de requisição ou destacamento, por períodos até um ano, sucessiva e ilimitadamente prorrogáveis, conservando todos os direitos e regalias inerentes ao seu lugar de origem, nomeadamente a natureza do vínculo e o regime da segurança social.\n\n3 - O período de duração da requisição ou do destacamento, nos termos do número anterior, considera-se como serviço prestado no quadro de origem.\n\n4 - A responsabilidade pela remuneração e demais encargos com os funcionários requisitados cabe à entidade onde se encontrem a exercer funções.\n\n5 - Os funcionários que se encontrem requisitados e destacados na entidade gestora estão sujeitos ao poder de direcção desta entidade e ao poder disciplinar da entidade de origem.\n\n6 - A REDE poderá beneficiar da colaboração de voluntários formados como prestadores de cuidados informais."
+  },
+  "885064530": {
+   "fragment_id": "885064467",
+   "type": 11,
+   "heading": "Artigo 26.º — Do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Do financiamento\n\nSão receitas da REDE:\n\na) As transferências da Região Autónoma da Madeira e de outras entidades públicas;\n\nb) O produto do pagamento dos serviços prestados;\n\nc) Outras receitas legalmente previstas e permitidas."
+  },
+  "885064531": {
+   "fragment_id": "885064468",
+   "type": 11,
+   "heading": "Artigo 27.º — Pagamento dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pagamento dos serviços\n\nRespondem pelos encargos resultantes da prestação de cuidados no âmbito dos serviços da REDE:\n\na) Os subsistemas de saúde ou entidades que se responsabilizem pelo pagamento de cuidados de saúde ou de apoio social, relativamente aos utentes por eles abrangidos;\n\nb) Os utentes e respectivos familiares, de acordo com parâmetros que têm em conta os respectivos rendimentos;\n\nc) As entidades que estejam a tal obrigadas por força de lei ou de contrato."
+  },
+  "885064532": {
+   "fragment_id": "885064469",
+   "type": 11,
+   "heading": "Artigo 28.º — Taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Taxas moderadoras\n\nO acesso às prestações de saúde no âmbito da REDE poderá ser sujeito ao pagamento de taxas moderadoras, nos termos da legislação em vigor na Região Autónoma da Madeira, em casos justificáveis."
+  },
+  "885064533": {
+   "fragment_id": "885064470",
+   "type": 11,
+   "heading": "Artigo 29.º — Comparticipações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Comparticipações\n\nAs comparticipações dos utentes e respectivos familiares, relativas à utilização dos serviços e equipamentos sociais no âmbito da REDE, são definidas segundo parâmetros que têm em conta os rendimentos dos seus destinatários e respectivas famílias, numa óptica de responsabilização global da família e em concretização dos princípios da solidariedade e subsidiariedade social."
+  },
+  "885064534": {
+   "fragment_id": "885064471",
+   "type": 11,
+   "heading": "Artigo 30.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regulamentação\n\nCompete ao Governo Regional a aprovação dos diplomas necessários à execução do presente decreto legislativo regional."
+  },
+  "885064535": {
+   "fragment_id": "885064472",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "885064545": {
+   "fragment_id": "885064448",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição da REDE",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Composição da REDE\n\n1 - Integram a REDE a Região Autónoma da Madeira, através da secretaria regional que tutela os sectores da saúde e da segurança social, o Serviço Regional de Saúde, E. P. E., e o Centro de Segurança Social da Madeira.\n\n2 - Poderão ainda integrar a REDE as instituições particulares de solidariedade social, misericórdias, pessoas colectivas de utilidade pública e entidades privadas que contratem a prestação de serviços de cuidados continuados de saúde e de apoio social com a entidade gestora, nos termos do artigo 21.º, e as autarquias locais.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064546": {
+   "fragment_id": "885064449",
+   "type": 11,
+   "heading": "Artigo 8.º — Modelo de intervenção",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Modelo de intervenção\n\n1 - A REDE baseia-se num modelo de intervenção articulada e integrada de saúde e acção social e assenta num plano individual de intervenção, centrado na recuperação global da pessoa, onde os cuidados são entendidos como um processo terapêutico e de apoio social, activo e contínuo.\n\n2 - O plano individual de intervenção deverá integrar o diagnóstico das situações do utente, a natureza e periodicidade das intervenções multidisciplinares a desenvolver, de acordo com os objectivos estabelecidos com o utente ou cuidador, especificando as necessidades de intervenção e encaminhando para a unidade de cuidados continuados integrados daquela.\n\n3 - A prestação dos cuidados é garantida por equipas prestadoras estruturadas em unidades locais, que funcionam na dependência das equipas de coordenação local, a quem compete assegurar a conjugação e coordenação das diversas respostas existentes para a prestação de cuidados continuados integrados ao nível local.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064547": {
+   "fragment_id": "885064450",
+   "type": 11,
+   "heading": "Artigo 9.º — Estrutura operacional da REDE",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Estrutura operacional da REDE\n\n1 - A estrutura operacional da REDE é constituída pelas seguintes equipas, as quais funcionam na dependência da entidade gestora:\n\na) As equipas de coordenação local;\n\nb) As equipas prestadoras que funcionam sob a dependência da equipa de coordenação local.\n\n2 - Deverá ainda funcionar, nos estabelecimentos hospitalares, uma equipa de cuidados integrados hospitalares, nos termos enunciados no artigo 15.º\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064548": {
+   "fragment_id": "885064451",
+   "type": 11,
+   "heading": "Artigo 10.º — Gestão da REDE",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Gestão da REDE\n\nA gestão e coordenação da REDE são asseguradas por uma cooperativa de interesse público, doravante designada por entidade gestora.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064549": {
+   "fragment_id": "885064452",
+   "type": 11,
+   "heading": "Artigo 11.º — Funções da entidade gestora",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Funções da entidade gestora\n\nSão funções da entidade gestora:\n\na) Gerir os recursos humanos, financeiros e materiais afectos à REDE;\n\nb) Assegurar o funcionamento adequado da REDE promovendo para o efeito a articulação das várias equipas de coordenação local;\n\nc) Recolher, gerir e avaliar de forma permanente toda a informação relativa à oferta e procura das respostas integradas na REDE, nomeadamente no que se refere a admissões, demoras médias e altas no âmbito de cada unidade local;\n\nd) Identificar e planear as necessidades de cada unidade local;\n\ne) Promover a realização de inquéritos e estudos com vista à elaboração de diagnósticos actualizados das necessidades de prestação de cuidados continuados integrados de saúde e de apoio social;\n\nf) Propor ao membro do Governo Regional que tutela as áreas da saúde e da segurança social a adopção das medidas normativas adequadas à prossecução dos objectivos da REDE, designadamente em sede de criação, reconversão ou extinção das modalidades de intervenção compreendidas na mesma;\n\ng) Celebrar acordos e convenções com entidades públicas ou privadas ao abrigo da legislação em vigor, tendo por objecto a prestação de cuidados continuados de saúde e de apoio social aos utentes da REDE;\n\nh) Definir os indicadores e os procedimentos de avaliação do funcionamento e qualidade das respostas e entidades integradas na REDE;\n\ni) Propor ao membro do Governo que tutela as áreas da saúde e da segurança social a criação de unidades locais, que poderão integrar um ou mais dos serviços mencionados no artigo 15.º;\n\nj) Incentivar a formação de cuidadores informais;\n\nl) Promover o acompanhamento e a avaliação do funcionamento das respostas e das entidades integradas em cada unidade local quanto ao processo global e resultados;\n\nm) Excluir da REDE as entidades públicas ou privadas que não cumpram os requisitos previstos no presente diploma, na demais legislação aplicável ou nos acordos e convenções celebrados com as mesmas;\n\nn) Promover programas e actividades de formação permanente dos diversos profissionais a envolver na prestação dos cuidados continuados integrados.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064550": {
+   "fragment_id": "885064453",
+   "type": 11,
+   "heading": "Artigo 12.º — Unidades locais",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Unidades locais\n\n1 - As unidades locais estruturam-se de acordo com critérios territoriais a definir pela entidade gestora e são criadas por despacho do membro do Governo que tutela as áreas da saúde e segurança social, sob proposta da mesma.\n\n2 - As unidades locais podem integrar um ou mais serviços que constituem a REDE.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064551": {
+   "fragment_id": "885064454",
+   "type": 11,
+   "heading": "Artigo 13.º — Equipas de coordenação local",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Equipas de coordenação local\n\nA coordenação de cada unidade local é assegurada por uma equipa multidisciplinar, designada por equipa de coordenação local, à qual compete, designadamente:\n\na) Proceder à admissão e encaminhamento no âmbito da REDE, mediante a avaliação da situação de cada utente, em função das necessidades identificadas, no plano individual de intervenção;\n\nb) Elaborar, supervisionar e orientar o plano individual de intervenção para cada utente, em articulação com as equipas prestadoras;\n\nc) Designar, de entre os elementos da equipa, um gestor de caso, que será o elemento de referência do utente admitido;\n\nd) Organizar um processo individual de cuidados continuados, que corresponde ao conjunto de informação respeitante a cada utente em situação de dependência que recebe cuidados continuados integrados;\n\ne) Proceder à alta do utente, sempre que estejam reunidos os requisitos necessários, e providenciar a admissão do utente noutro tipo de serviço ou a preparação do seu regresso, com mais autonomia, ao domicílio;\n\nf) Manter actualizada a informação relativa ao número e características dos estabelecimentos, serviços e utentes existentes no âmbito de cada unidade local;\n\ng) Assegurar a divulgação da informação adequada à população sobre a natureza, o número e a localização das respostas existentes na respectiva unidade local;\n\nh) Manter a entidade gestora informada sobre o acesso e o movimento da unidade local.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064552": {
+   "fragment_id": "885064455",
+   "type": 11,
+   "heading": "Artigo 14.º — Equipas prestadoras",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Equipas prestadoras\n\nA prestação dos cuidados continuados integrados é assegurada pelas equipas prestadoras, constituídas por profissionais oriundos dos serviços e instituições que integram a REDE.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064553": {
+   "fragment_id": "885064456",
+   "type": 11,
+   "heading": "Artigo 15.º — Equipas de coordenação hospitalar",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Equipas de coordenação hospitalar\n\n1 - Nos estabelecimentos hospitalares integrados no Serviço Regional de Saúde, E. P. E., deverão ser criadas as equipas de coordenação necessárias para a articulação com as equipas de coordenação local.\n\n2 - As equipas de coordenação hospitalar deverão acompanhar a programação da alta hospitalar, identificando a necessidade de cuidados continuados integrados dos utentes.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064554": {
+   "fragment_id": "885064457",
+   "type": 11,
+   "heading": "Artigo 16.º — Tipos de serviços",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Tipos de serviços\n\n1 - A REDE compreende os seguintes tipos de serviços:\n\na) Apoio integrado domiciliário;\n\nb) Centros de promoção de autonomia;\n\nc) Unidades de apoio integrado de internamento de curta, média e longa durações.\n\n2 - Poderão vir a ser implementados outros tipos de serviços, através de proposta da entidade gestora e de aprovação por despacho do membro do Governo Regional que tutela as áreas da saúde e da segurança social, em função da identificação de novas necessidades dos utentes.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064555": {
+   "fragment_id": "885064458",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio integrado domiciliário",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Apoio integrado domiciliário\n\n1 - O apoio integrado domiciliário é um serviço que se concretiza através de um conjunto de acções e cuidados pluridisciplinares de saúde e apoio social prestados no domicílio do utente.\n\n2 - O apoio integrado domiciliário compreende, designadamente, o apoio médico, de enfermagem e psicossocial, bem como o apoio na satisfação das necessidades básicas, como higiene pessoal e habitacional, alimentação, tratamento de roupas e apoio na execução das rotinas diárias de natureza indispensável.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064556": {
+   "fragment_id": "885064459",
+   "type": 11,
+   "heading": "Artigo 18.º — Centros de promoção da autonomia",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Centros de promoção da autonomia\n\n1 - Os centros de promoção de autonomia são unidades de dia, destinadas à prevenção da dependência e promoção de autonomia, que se caracterizam por ser pólos dinamizadores de actividades, com plena participação dos utentes, potenciando a manutenção destes no seu meio habitual de vida e a sua auto-estima.\n\n2 - Os centros de promoção de autonomia prestam apoio quer ao nível do desenvolvimento de actividades de treino cognitivo, motor, sensorial e de vida diária, para potenciação das capacidades existentes, quer ao nível do ensino e formação dos familiares e cuidadores directos do utente na prestação de cuidados informais.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064557": {
+   "fragment_id": "885064460",
+   "type": 11,
+   "heading": "Artigo 19.º — Unidades de apoio integrado de internamento",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Unidades de apoio integrado de internamento\n\n1 - As unidades de apoio integrado de internamento, como unidades complementares à unidade de apoio integrado domiciliário, destinam-se a prestar cuidados continuados integrados, em regime de internamento de curta, média e longa durações.\n\n2 - A intervenção e os cuidados prestados pelas unidades de apoio integrado de internamento, de natureza curativa e de reabilitação global, decorrem da prestação de cuidados de saúde iniciada em internamento hospitalar ou necessários em virtude da agudização ou repetição de episódio de doença crónica ocorrido no domicílio do utente.\n\n3 - Os cuidados prestados pelas unidades de apoio integrado de internamento visam a rápida reabilitação e reintegração do utente no seu meio habitual, em condições da máxima autonomia, e a preservação do equilíbrio psicossocial do seu cuidador.\n\n4 - Os internamentos de curta, média e longa durações estruturam-se respectivamente pelos seguintes períodos:\n\na) Não superior a 30 dias;\n\nb) Superior a 30 e inferior a 90 dias;\n\nc) Superior a 90 e tendencialmente inferior a 180 dias.\n\n> Nota: [Artigo 6.º, Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860) Apesar de revogado, as equipas e os serviços criados nos termos deste artigo mantêm-se em vigor até à efetiva implementação da nova estrutura referida no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064558": {
+   "fragment_id": "885064461",
+   "type": 11,
+   "heading": "Artigo 20.º — Acesso",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Acesso\n\nO acesso à REDE é determinado pela equipa de coordenação local, mediante proposta:\n\na) Do Serviço Regional de Saúde, E. P. E., através da equipa de coordenação hospitalar prevista no artigo 15.º ou dos centros de saúde;\n\nb) Do Centro de Segurança Social da Madeira, através dos serviços de acção social;\n\nc) Através de outras entidades com as quais tenham sido celebrados protocolos para o efeito.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064559": {
+   "fragment_id": "885064462",
+   "type": 11,
+   "heading": "Artigo 21.º — Contratação de serviços",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Contratação de serviços\n\n1 - Na contratação de serviços a integrar na REDE, a entidade gestora deve garantir o cumprimento dos princípios da imparcialidade, da proporcionalidade, da publicidade, da transparência e da não discriminação, da qualidade e da economicidade, de modo a alcançar a melhor gestão dos recursos disponíveis.\n\n2 - As entidades a contratar para a prestação de cuidados continuados integrados na REDE podem assumir uma das seguintes formas:\n\na) Instituições particulares de solidariedade social, misericórdias e pessoas colectivas de utilidade pública administrativa;\n\nb) Pessoas colectivas públicas, com ou sem natureza empresarial;\n\nc) Entidades privadas, com ou sem fins lucrativos.\n\n3 - A entidade gestora manterá um registo organizado contendo a identificação de todas as entidades que, a cada momento, prestam cuidados continuados de saúde e de apoio social no âmbito da REDE, com indicação da ou das unidades locais abrangidas pelos seus serviços.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064560": {
+   "fragment_id": "885064463",
+   "type": 11,
+   "heading": "Artigo 22.º — Requisitos",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Requisitos\n\nAs entidades referidas no artigo anterior devem garantir a adequação dos equipamentos e instalações utilizados, de acordo com os critérios a definir por despacho do membro do Governo que tutela as áreas da saúde e segurança social.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064561": {
+   "fragment_id": "885064464",
+   "type": 11,
+   "heading": "Artigo 23.º — Promoção e garantia da qualidade",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Promoção e garantia da qualidade\n\nOs modelos de promoção e gestão da qualidade, que serão fixados por despacho do membro do Governo que tutela as áreas da saúde e segurança social, assentarão em métodos de medição, de análise e melhoria contínua, sendo de aplicação obrigatória em cada uma das unidades e nas equipas da REDE.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064562": {
+   "fragment_id": "885064465",
+   "type": 11,
+   "heading": "Artigo 24.º — Avaliação",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Avaliação\n\nAs unidades e equipas da REDE serão sujeitas a avaliações periódicas, que se concretizam em auditorias internas, realizadas segundo o plano anual definido pela entidade gestora, e em avaliações externas, de acordo com critérios a estabelecer por despacho do membro do Governo que tutela as áreas da saúde e da segurança social.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064563": {
+   "fragment_id": "885064466",
+   "type": 11,
+   "heading": "Artigo 25.º — Recursos humanos",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Recursos humanos\n\n1 - Aos trabalhadores da entidade gestora aplica-se o regime jurídico do contrato individual de trabalho bem como o regime geral da segurança social.\n\n2 - Os funcionários da administração pública regional, central ou local, bem como os funcionários de quaisquer institutos públicos, empresas públicas, podem ser autorizados a exercer funções na entidade gestora, em regime de requisição ou destacamento, por períodos até um ano, sucessiva e ilimitadamente prorrogáveis, conservando todos os direitos e regalias inerentes ao seu lugar de origem, nomeadamente a natureza do vínculo e o regime da segurança social.\n\n3 - O período de duração da requisição ou do destacamento, nos termos do número anterior, considera-se como serviço prestado no quadro de origem.\n\n4 - A responsabilidade pela remuneração e demais encargos com os funcionários requisitados cabe à entidade onde se encontrem a exercer funções.\n\n5 - Os funcionários que se encontrem requisitados e destacados na entidade gestora estão sujeitos ao poder de direcção desta entidade e ao poder disciplinar da entidade de origem.\n\n6 - A REDE poderá beneficiar da colaboração de voluntários formados como prestadores de cuidados informais.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064564": {
+   "fragment_id": "885064467",
+   "type": 11,
+   "heading": "Artigo 26.º — Do financiamento",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Do financiamento\n\nSão receitas da REDE:\n\na) As transferências da Região Autónoma da Madeira e de outras entidades públicas;\n\nb) O produto do pagamento dos serviços prestados;\n\nc) Outras receitas legalmente previstas e permitidas.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064565": {
+   "fragment_id": "885064468",
+   "type": 11,
+   "heading": "Artigo 27.º — Pagamento dos serviços",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Pagamento dos serviços\n\nRespondem pelos encargos resultantes da prestação de cuidados no âmbito dos serviços da REDE:\n\na) Os subsistemas de saúde ou entidades que se responsabilizem pelo pagamento de cuidados de saúde ou de apoio social, relativamente aos utentes por eles abrangidos;\n\nb) Os utentes e respectivos familiares, de acordo com parâmetros que têm em conta os respectivos rendimentos;\n\nc) As entidades que estejam a tal obrigadas por força de lei ou de contrato.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064566": {
+   "fragment_id": "885064469",
+   "type": 11,
+   "heading": "Artigo 28.º — Taxas moderadoras",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Taxas moderadoras\n\nO acesso às prestações de saúde no âmbito da REDE poderá ser sujeito ao pagamento de taxas moderadoras, nos termos da legislação em vigor na Região Autónoma da Madeira, em casos justificáveis.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064567": {
+   "fragment_id": "885064470",
+   "type": 11,
+   "heading": "Artigo 29.º — Comparticipações",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Comparticipações\n\nAs comparticipações dos utentes e respectivos familiares, relativas à utilização dos serviços e equipamentos sociais no âmbito da REDE, são definidas segundo parâmetros que têm em conta os rendimentos dos seus destinatários e respectivas famílias, numa óptica de responsabilização global da família e em concretização dos princípios da solidariedade e subsidiariedade social.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064568": {
+   "fragment_id": "885064471",
+   "type": 11,
+   "heading": "Artigo 30.º — Regulamentação",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Regulamentação\n\nCompete ao Governo Regional a aprovação dos diplomas necessários à execução do presente decreto legislativo regional.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064569": {
+   "fragment_id": "885064472",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2012/M - Diário da República n.º 216/2012, Série I de 2012-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2012-191860), em vigor a partir de 2013-01-01"
+  },
+  "885064536": {
+   "fragment_id": "885064473",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de Fevereiro de 2007.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 26 de Fevereiro de 2007.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  }
+ }
+}

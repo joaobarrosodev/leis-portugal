@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:432860:por
+title: Portaria n.º 257-A/81
+short_title: null
+summary: Estabelece as normas complementares às medidas preventivas susceptíveis de diminuir os consumos de energia eléctrica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, do Comércio e Turismo e da Indústria e Energia
+proposing_entity: null
+official_number: 257-A/81
+official_date: null
+publication_date: '1981-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/1981, 1º Suplemento, Série I de 1981-03-11
+  number: '58'
+  series: I
+  supplement: null
+  pages: 672-(1) a 672-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05801/00010002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '432860'
+  dre_path: /dr/detalhe/portaria/257-a-1981-432860
+  internal: pt:dre:432860:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-a-1981-432860
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-a-1981-432860
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:41:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2aa923c6fd7c97296089545c9ca8de91f1c980de3f6d7dcd3f8297a884807df3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:41:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Consumo de Energia
+- Energia
+- Ministério da Indústria e Energia
+- Poupança de Energia
+relationships:
+- type: amended_by
+  target: pt:dre:326967:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:326967:por
+  label: "Revogada pela PORT.157/85.21.03.1985.PCM, DR.IS [67] de 21.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-1985-326967
+  date: '1985-03-21'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:41:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 257-A/81
+
+de 11 de Março
+
+Em complemento das medidas preventivas susceptíveis de diminuir os consumos de energia eléctrica, determinadas pela situação hidrologicamente crítica que o País atravessa:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, do Comércio e Turismo e da Indústria e Energia, em conformidade com a orientação do Conselho de Ministros de 10 de Fevereiro de 1981, o seguinte:
+
+1.º Os consumos de energia eléctrica doméstica e de estabelecimentos comerciais, na parte em que excedam 90% do consumo do ano anterior, nos períodos normais entre leituras de contadores, serão facturados com um agravamento de 100%
+
+2.º Relativamente aos novos consumidores e, excepcionalmente, nos casos em que não seja possível praticar o disposto na alínea a), o agravamento de 100% será aplicado à parte que exceder o consumo correspondente a quarenta horas de utilização mensal da potência contratada.
+
+3.º Os primeiros consumos a serem facturados nestas condições serão os que ocorrerem a partir da primeira leitura de contadores após a publicação da presente portaria.
+
+4.º Na facturação deverá ficar bem expressa, se necessário por documento separado, a parcela agravada do consumo de energia eléctrica.
+
+5.º Os distribuidores de energia eléctrica comunicarão, com a máxima antecedência possível, a todos os consumidores abrangidos pela disposição acima determinada no n.º 2.º, os volumes mensais de energia, expressa em kilowatts-hora, a partir dos quais a facturação será agravada de modo a que aqueles possam controlar convenientemente os seus consumos, com base na leitura dos contadores.
+
+6.º As receitas provenientes do agravamento da facturação previsto nos n.os 1.º e 2.º reverterão para o Fundo de Abastecimento.
+
+7.º Por um período de seis meses após a sua cobrança, tais receitas ficarão, todavia, à ordem do Fundo de Apoio Térmico para ocorrer a necessidades de tesouraria motivadas pelo efeito da estiagem.
+
+8.º Não serão abrangidos pelas presentes medidas os consumidores domésticos com habitação até três divisões e potência contratada até 1,1 kVA que não tenham consumido mais de 240 kWh durante o ano de 1980.
+
+9.º O fim das presentes medidas será determinado por portaria e sê-lo-á logo que a situação anormal decorrente do mau ano hidrológico se regularize.
+
+Ministérios das Finanças e do Plano, do Comércio e Turismo e da Indústria e Energia, 27 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto. - O Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta.

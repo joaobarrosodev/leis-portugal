@@ -1,0 +1,273 @@
+---
+schema_version: '1.0'
+id: pt:dre:439468:por
+title: Decreto Regulamentar Regional n.º 32/2002/A
+short_title: null
+summary: Define e regulamenta a estrutura das carreiras do grupo de pessoal técnico de inspecção do quadro de pessoal da Inspecção
+  Regional do Trabalho (IRT)
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 32/2002/A
+official_date: null
+publication_date: '2002-11-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 276/2002, Série I-B de 2002-11-29
+  number: '276'
+  series: I
+  supplement: null
+  pages: 7460 - 7465
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/32/2002/11/29/a/dre/pt/html
+  oj: null
+  dre: '439468'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/32-2002-439468
+  internal: pt:dre:439468:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-2002-439468
+  metadata_url: https://data.dre.pt/eli/decregulreg/32/2002/11/29/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-2002-439468
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:29:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b0398a207428ba55724a4060669e08a020f263c0d0a4507ac6066a022c44fd57
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Inspecção Regional do Trabalho
+- Pessoal de Inspecção
+- Pessoal Técnico de Inspecção
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+relationships:
+- type: amended_by
+  target: pt:dre:518232:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: http://data.dre.pt/eli/lei/116/1999/08/04/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:580641:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/21/2000/09/04/a/dre
+- type: cites
+  target: pt:dre:601987:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/28-b/1998/11/26/a/dre
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/22/2001/11/13/a/dre
+- type: repealed_by
+  target: pt:dre:518232:por
+  label: "Revogado pelo DRR.2/2007/A.29.12.2006.PG-RAA, DR.IS [21] de 30.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2007-518232
+  date: '2006-12-29'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:29:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 32/2002/A
+
+As carreiras de inspecção superior e de inspecção do grupo de pessoal técnico de inspecção do quadro da Inspecção Regional do Trabalho regem-se actualmente pelo [Decreto Regulamentar Regional n.º 28-B/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-b-1998-601987), de 26 de Novembro, alterado pelo [Decreto Regulamentar Regional n.º 21/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2000-580641), de 4 de Setembro.
+
+Entrementes foi publicado o [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, que estabelece o enquadramento e define a estrutura das carreiras de inspecção da Administração Pública, o qual foi aplicado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de Novembro.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim, em execução do disposto no artigo 2.º do [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de Novembro, que adapta à Região o [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente diploma define e regulamenta a estrutura das carreiras do grupo de pessoal técnico de inspecção do quadro de pessoal da Inspecção Regional do Trabalho (IRT).
+
+###### Artigo 2.º — Carreiras de inspector do trabalho
+
+1 - A IRT, para a prossecução das competências que legalmente lhe estão cometidas, dispõe das seguintes carreiras de inspector do trabalho:
+
+a) A carreira de inspector superior do trabalho;
+
+b) Transitoriamente, e enquanto haja funcionários nelas integrados, as carreiras de inspector técnico do trabalho e de inspector-adjunto do trabalho.
+
+2 - As vagas que forem ocorrendo nas carreiras referidas na alínea b) do número anterior transitam, automaticamente, para a carreira de inspector superior do trabalho.
+
+###### Artigo 3.º — Conteúdo funcional
+
+1 - Os inspectores do trabalho concebem e desenvolvem metodologias e acções de informação, aconselhamento e de controlo, no âmbito de poderes de autoridade pública, nas empresas e outras organizações, com vista à promoção da melhoria das condições de trabalho.
+
+2 - Na acção de promoção da melhoria das condições de trabalho, compete aos inspectores do trabalho:
+
+a) Desenvolver as acções necessárias à avaliação da qualidade de trabalho, das condições de trabalho e da gestão e organização da segurança, higiene e saúde do trabalho;
+
+b) Prestar a entidades patronais, trabalhadores e seus representantes, nos locais de trabalho, ou nos serviços da IRT, informações e conselhos técnicos sobre o modo mais adequado de observarem essas disposições;
+
+c) Notificar para que, dentro de um prazo fixado, sejam realizadas nos locais de trabalho as modificações necessárias para assegurar a aplicação das disposições relativas à segurança, higiene e saúde dos trabalhadores;
+
+d) Notificar o empregador para adoptar medidas de prevenção no domínio da avaliação dos riscos profissionais, designadamente promover, através de organismos especializados, medições, testes ou peritagens incidentes sobre os componentes materiais de trabalho;
+
+e) Notificar para que sejam adoptadas medidas imediatamente executórias, incluindo a suspensão de trabalhos em curso, em caso de risco grave ou probabilidade séria de verificação de lesão da vida, da integridade física ou da saúde dos trabalhadores;
+
+f) Controlar a obrigatoriedade da criação, por parte de empresas, dos serviços e órgãos de segurança, higiene e saúde no trabalho e do seu funcionamento;
+
+g) Realizar inquéritos em casos de acidentes de trabalho mortais ou que evidenciem situações particularmente graves, ou de doenças profissionais que provoquem lesões graves, sem prejuízo, neste caso, das competências de outras entidades, com vista ao desenvolvimento de medidas de prevenção adequadas nos locais de trabalho;
+
+h) Dar pareceres no âmbito de processos de licenciamento relativos à instalação, alteração e laboração de estabelecimentos, tendo em vista a prevenção de riscos profissionais;
+
+i) Participar em vistorias conjuntas no âmbito de processos de licenciamento relativos à instalação, alteração e laboração de estabelecimentos, tendo em vista a prevenção de riscos profissionais;
+
+j) Promover processos de contra-ordenação ou contravenção, levantando autos de notícia, elaborando participação ou procedendo a inquérito prévio;
+
+l) Promover a colaboração de outras entidades com competência no âmbito das condições de trabalho;
+
+m) Participar a outras entidades situações relacionadas com as condições de trabalho no âmbito das suas competências;
+
+n) Elaborar os relatórios, informações e outros documentos decorrentes da acção inspectiva;
+
+o) Instruir processos relativos a autorizações administrativas no âmbito das condições e relações de trabalho;
+
+p) Elaborar informações, pareceres e estudos de natureza diversa no âmbito das competências da IRT;
+
+q) Participar em grupos de trabalho, comissões, equipas de projecto e missões específicas, para que seja designado.
+
+3 - Aos inspectores do trabalho integrados na carreira de inspector técnico do trabalho, a que faz referência a alínea b) do n.º 1 do artigo 2.º, para além das funções indicadas no número anterior, compete:
+
+a) Colaborar na programação da actividade inspectiva, de acordo com os planos de actividades anuais, e de acções conjuntas desenvolvidas no âmbito de articulações com outros sistemas inspectivos, de âmbito nacional e regional;
+
+b) Executar acções inspectivas de âmbito regional;
+
+c) Instruir processos de contra-ordenação laboral que lhes sejam confiados nos termos do artigo 25.º da [Lei n.º 116/99](https://diariodarepublica.pt/dr/detalhe/lei/116-1999-426747), de 4 de Agosto.
+
+4 - Aos inspectores do trabalho integrados na carreira de inspector superior do trabalho, para além das funções indicadas nos números anteriores, compete:
+
+a) Realizar trabalhos e estudos de apoio às decisões programáticas dos dirigentes da IRT;
+
+b) Assessorar os dirigentes da IRT, quando solicitado;
+
+c) Assegurar a instrução de processos de averiguações, de inquérito e disciplinares.
+
+###### Artigo 4.º — Estágio
+
+1 - A admissão ao estágio para ingresso na carreira de inspector superior é feita mediante concurso, de entre indivíduos que satisfaçam, cumulativamente, os requisitos gerais de admissão e estejam habilitados com carta de condução de veículos ligeiros.
+
+2 - O regulamento de estágio é aprovado por despacho conjunto dos secretários regionais que tutelem as áreas do trabalho e da administração pública regional.
+
+3 - Os estagiários aprovados que excedam o número de vagas fixado poderão ser nomeados dentro do prazo de validade do concurso para admissão ao estágio.
+
+4 - A partir da nomeação a que se refere o número anterior e por causa que lhes seja imputável, os inspectores que não prestem o tempo de serviço correspondente à duração do estágio ficam obrigados ao reembolso de todas as despesas efectuadas com a sua formação.
+
+###### Artigo 5.º — Formação profissional
+
+1 - A IRT assegura ao pessoal integrado nas carreiras referidas no artigo 2.º a realização das acções de formação necessárias ao ingresso e acesso nas mesmas, bem como as destinadas à actualização e valorização profissional.
+
+2 - A regulamentação e a definição da formação exigida pelos requisitos de intercomunicabilidade entre carreiras, a que se refere o artigo 9.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, adaptado pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de Novembro, é estabelecida por despacho conjunto dos secretários regionais competentes em matéria de trabalho e da administração pública regional.
+
+###### Artigo 6.º — Transição
+
+A transição dos funcionários integrados no grupo de pessoal técnico de inspecção do quadro da IRT para as carreiras de inspecção faz-se conforme a tabela constante do anexo I ao presente diploma, do qual faz parte integrante, e obedece às seguintes regras:
+
+a) Os inspectores superiores principais, os inspectores superiores, os inspectores principais e os inspectores são integrados nas categorias com a mesma designação da carreira de inspector superior do trabalho;
+
+b) Os inspectores técnicos especialistas principais, os inspectores técnicos especialistas e os inspectores técnicos principais são integrados nas categorias com a mesma designação da carreira de inspector técnico do trabalho;
+
+c) Os inspectores-adjuntos principais e os inspectores-adjuntos são integrados, respectivamente, nas categorias de inspector-adjunto especialista principal e de inspector-adjunto especialista, da carreira de inspector-adjunto do trabalho.
+
+###### Artigo 7.º — Alteração do quadro de pessoal
+
+1 - O quadro de pessoal da IRT, constante do mapa I anexo ao [Decreto Regulamentar Regional n.º 28-B/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-b-1998-601987), de 26 de Novembro, alterado pelo artigo 4.º do [Decreto Regulamentar Regional n.º 21/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2000-580641), de 4 de Setembro, é substituído pelo mapa constante do anexo II ao presente diploma, do qual faz parte integrante.
+
+2 - Os lugares vagos das carreiras de inspector do trabalho referidas na alínea b) do n.º 1 do artigo 2.º transitam para a carreira de inspector superior do trabalho.
+
+###### Artigo 8.º — Remunerações
+
+O mapa III anexo ao [Decreto Regulamentar Regional n.º 28-B/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-b-1998-601987), de 26 de Novembro, alterado pelo artigo 4.º do [Decreto Regulamentar Regional n.º 21/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2000-580641), de 4 de Setembro, é substituído pelo mapa constante do anexo III ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 9.º — Suplemento de função inspectiva
+
+Os inspectores do trabalho e o pessoal dirigente têm direito a um subsídio mensal, nos termos dos artigos 12.º e 13.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, adaptado à Região pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de Novembro.
+
+###### Artigo 10.º — Disposição transitória
+
+Até à aprovação do regulamento a que se refere o n.º 2 do artigo 4.º mantém-se em vigor a actual regulamentação, com as necessárias adaptações.
+
+###### Artigo 11.º — Norma revogatória
+
+São revogados os n.os I e II do mapa II a que se refere o artigo 24.º do [Decreto Regulamentar Regional n.º 28-B/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-b-1998-601987), de 26 de Novembro.
+
+###### Artigo 12.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, sem prejuízo do disposto no artigo 19.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril.
+
+Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 18 de Setembro de 2002.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 19 de Novembro de 2002.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
+
+## ANEXO I — Mapa de transição a que se refere o artigo 6.º
+
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)
+
+## ANEXO II — Mapa a que se refere o n.º 1 do artigo 7.º
+
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)
+
+## ANEXO III — Mapa a que se refere o artigo 8.º
+
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)](https://files.diariodarepublica.pt/1s/2002/11/276b00/74607465.pdf)

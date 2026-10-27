@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:661477:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1984-889973562",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-1984-661477",
+ "source_lastmod": "2024-10-04",
+ "versions": [
+  {
+   "date": "1984-02-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890051123",
+    "890051124",
+    "890051125",
+    "890051126",
+    "890051127"
+   ]
+  },
+  {
+   "date": "1984-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:631460:por",
+     "title": "Declaração",
+     "published": "1984-03-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-631460"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "890051123",
+    "890051124",
+    "890051125",
+    "890051131",
+    "890051127",
+    "890051128"
+   ]
+  }
+ ],
+ "fragments": {
+  "890051123": {
+   "fragment_id": "889973563",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 1/84/M\n\nControle público da riqueza dos titulares de cargos políticos\n\nA Lei n.º 4/83, de 2 de Abril, obriga os titulares de cargos políticos a declararem os bens e rendimentos pessoais, quer à entrada quer à saída do exercício de funções.\n\nNo cumprimento do artigo 7.º da Lei n.º 4/83, de 2 de Abril, o Governo da República aprovou as disposições necessárias à execução daquela lei, através do Decreto Regulamentar n.º 74/83, de 6 de Outubro, cabendo às assembleias regionais aprovar as disposições necessárias ao mesmo fim, na esfera das suas competências.\n\nAssim, a Assembleia Regional da Madeira, nos termos da alínea a) do artigo 229.º da Constituição, e para cumprimento do n.º 2 do artigo 7.º da Lei n.º 4/83, de 2 de Abril, aprova para valer como lei o seguinte:"
+  },
+  "890051124": {
+   "fragment_id": "889973564",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs declarações a prestar para efeitos da Lei n.º 4/83, de 2 de Abril, pelos titulares de cargos políticos na Região Autónoma da Madeira devem obedecer às normas regulamentares constantes do Decreto Regulamentar n.º 74/83, de 6 de Outubro."
+  },
+  "890051125": {
+   "fragment_id": "889973565",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - São cargos políticos na Região Autónoma da Madeira:\n\na) O de membro do Governo Regional;\n\nb) O de deputado à assembleia Regional;\n\nc) O de presidente e vereador da câmara municipal;\n\nd) Os que, por lei, venham a ser considerados políticos para o efeito da sua equiparação aos aqui presentes.\n\n2 - É equiparado a cargo político, para efeitos do presente diploma:\n\na) O de delegado do Governo Regional na ilha de Porto Santo;\n\nb) O de gestor de empresa pública;\n\nc) O de director regional."
+  },
+  "890051126": {
+   "fragment_id": "889973566",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs titulares de cargos políticos na Região Autónoma da Madeira apresentarão a declaração a que se refere o artigo 1.º, até 90 dias após a entrada em após a sua publicação."
+  },
+  "890051127": {
+   "fragment_id": "889973567",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma entra em vigor 5 dias apsó a sua publicação."
+  },
+  "890051131": {
+   "fragment_id": "889973566",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1984-03-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 77/1984, 2º Suplemento, Série I de 1984-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-631460), em vigor a partir de 1984-03-31"
+   ],
+   "markdown": "###### Artigo 3.º\n\nOs titulares de cargos políticos na Região Autónoma da Madeira apresentarão a declaração a que se refere o artigo 1.º, até 90 dias após a entrada em vigor do presente diploma.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 77/1984, 2º Suplemento, Série I de 1984-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-631460), em vigor a partir de 1984-03-31"
+  },
+  "890051128": {
+   "fragment_id": "889973568",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária em 17 de Janeiro de 1984.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 6 de Fevereiro de 1984.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+  }
+ }
+}

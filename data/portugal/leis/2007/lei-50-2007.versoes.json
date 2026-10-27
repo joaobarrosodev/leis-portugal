@@ -1,0 +1,824 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641157:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-67051321",
+ "dre_path": "/dr/detalhe/lei/50-2007-641157",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "838305283",
+    "67019371",
+    "67019372",
+    "67019373",
+    "67019374",
+    "67056475",
+    "67056476",
+    "67056477",
+    "67056478",
+    "67056479",
+    "67056480",
+    "67056481",
+    "67056482",
+    "67056483",
+    "67056484",
+    "67056485",
+    "67056486",
+    "67056487",
+    "67056488",
+    "67056489"
+   ]
+  },
+  {
+   "date": "2015-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67051302:por",
+     "title": "Lei n.º 30/2015",
+     "published": "2015-04-22",
+     "dre_path": "/dr/detalhe/lei/30-2015-67051302"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "67019370",
+    "67019371",
+    "67019372",
+    "67019373",
+    "67019374",
+    "67056475",
+    "67056476",
+    "67056477",
+    "67056478",
+    "67056479",
+    "67056480",
+    "67056481",
+    "67056482",
+    "67056483",
+    "67056484",
+    "67056493",
+    "67056486",
+    "67056487",
+    "67056488",
+    "67056489",
+    "67056491"
+   ]
+  },
+  {
+   "date": "2017-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106955050:por",
+     "title": "Lei n.º 13/2017",
+     "published": "2017-05-02",
+     "dre_path": "/dr/detalhe/lei/13-2017-106955050"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "67019370",
+    "67019371",
+    "67019372",
+    "106928746",
+    "67019374",
+    "106928753",
+    "106928754",
+    "106928755",
+    "106928756",
+    "106928757",
+    "67056479",
+    "106928749",
+    "106958750",
+    "106928750",
+    "106928758",
+    "106928759",
+    "106928762",
+    "106928763",
+    "106928764",
+    "106928765",
+    "67056486",
+    "67056487",
+    "67056488",
+    "67056489",
+    "67056491"
+   ]
+  },
+  {
+   "date": "2022-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176235804:por",
+     "title": "Lei n.º 94/2021",
+     "published": "2021-12-21",
+     "dre_path": "/dr/detalhe/lei/94-2021-176235804"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "67019370",
+    "67019371",
+    "67019372",
+    "106928746",
+    "67019374",
+    "106928753",
+    "106928754",
+    "106928755",
+    "106928756",
+    "106928757",
+    "67056479",
+    "106928749",
+    "106958750",
+    "176314961",
+    "106928758",
+    "106928759",
+    "106928762",
+    "106928763",
+    "176314962",
+    "106928765",
+    "67056486",
+    "67056487",
+    "67056488",
+    "67056489",
+    "67056491"
+   ]
+  },
+  {
+   "date": "2024-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:837135334:por",
+     "title": "Lei n.º 14/2024",
+     "published": "2024-01-19",
+     "dre_path": "/dr/detalhe/lei/14-2024-837135334"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "838305283",
+    "838305284",
+    "838305285",
+    "838305286",
+    "838305287",
+    "838305288",
+    "838305289",
+    "838305290",
+    "838305291",
+    "838305292",
+    "838305293",
+    "838305294",
+    "838305295",
+    "838305296",
+    "838305297",
+    "838305298",
+    "838305299",
+    "838305300",
+    "838305301",
+    "838305302",
+    "838305303",
+    "838305304",
+    "838305305",
+    "838305306",
+    "838305307"
+   ]
+  }
+ ],
+ "fragments": {
+  "838305283": {
+   "fragment_id": "67051322",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-02-03",
+   "changed_by": [],
+   "markdown": "Lei n.º 50/2007\n\nde 31 de Agosto\n\nEstabelece um novo regime de responsabilidade penal por comportamentos susceptíveis de afectar a verdade, a lealdade e a correcção da competição e do seu resultado na actividade desportiva.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "67019371": {
+   "fragment_id": "67051323",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "67019372": {
+   "fragment_id": "67051324",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece o regime de responsabilidade penal por comportamentos antidesportivos, contrários aos valores da verdade, da lealdade e da correcção e susceptíveis de alterarem fraudulentamente os resultados da competição."
+  },
+  "67019373": {
+   "fragment_id": "67051325",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente lei, considera-se:\n\na) «Dirigente desportivo» o titular do órgão ou o representante da pessoa colectiva desportiva, quem nela tiver autoridade para exercer o controlo da actividade e o director desportivo ou equiparado;\n\nb) «Técnico desportivo» o treinador, o orientador técnico, o preparador físico, o médico, o massagista, os respectivos adjuntos e quem, a qualquer título, orienta praticantes desportivos no desempenho da sua actividade;\n\nc) «Árbitro desportivo» quem, a qualquer título, principal ou auxiliar, aprecia, julga, decide, observa ou avalia a aplicação das regras técnicas e disciplinares próprias da modalidade desportiva;\n\nd) «Empresário desportivo» quem exerce a actividade de representação, intermediação ou assistência, ocasionais ou permanentes, na negociação ou celebração de contratos desportivos;\n\ne) «Pessoas colectivas desportivas» os clubes desportivos, as sociedades desportivas, as federações desportivas, as ligas profissionais, associações e agrupamentos de clubes nelas filiados, bem como as pessoas colectivas, sociedades civis ou associações de facto que se dedicam à actividade de empresário desportivo;\n\nf) «Agente desportivo» as pessoas singulares ou colectivas referidas nas alíneas anteriores, bem como as que, mesmo provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, a título individual ou integradas num conjunto, participem em competição desportiva ou sejam chamadas a desempenhar ou a participar no desempenho de competição desportiva;\n\ng) «Competição desportiva» a actividade desportiva regulamentada, organizada e exercida sob a égide das federações desportivas ou das ligas profissionais, associações e agrupamentos de clubes nelas filiados ou das instâncias internacionais de que aquelas pessoas colectivas façam parte."
+  },
+  "67019374": {
+   "fragment_id": "67051326",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsabilidade penal das pessoas colectivas e equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidade penal das pessoas colectivas e equiparadas\n\n1 - As pessoas colectivas e entidades equiparadas, incluindo as pessoas colectivas desportivas, são responsáveis, nos termos gerais, pelos crimes previstos na presente lei.\n\n2 - O estatuto de utilidade pública ou de utilidade pública desportiva não exclui a responsabilidade penal das pessoas colectivas desportivas."
+  },
+  "67056475": {
+   "fragment_id": "67051327",
+   "type": 11,
+   "heading": "Artigo 4.º — Penas acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Penas acessórias\n\nAos agentes dos crimes previstos na presente lei podem ser aplicadas as seguintes penas acessórias:\n\na) Suspensão de participação em competição desportiva por um período de seis meses a três anos;\n\nb) Privação do direito a subsídios, subvenções ou incentivos outorgados pelo Estado, Regiões Autónomas, autarquias locais e demais pessoas colectivas públicas por um período de um a cinco anos;\n\nc) Proibição do exercício de profissão, função ou actividade, pública ou privada, por um período de um a cinco anos, tratando-se de dirigente desportivo, técnico desportivo, árbitro desportivo, empresário desportivo ou pessoa colectiva ou entidade equiparada."
+  },
+  "67056476": {
+   "fragment_id": "67051328",
+   "type": 11,
+   "heading": "Artigo 5.º — Concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Concurso\n\nO exercício da acção penal ou a aplicação de penas ou medidas de segurança pelos crimes previstos na presente lei não impedem, suspendem ou prejudicam o exercício do poder disciplinar ou a aplicação de sanções disciplinares nos termos dos regulamentos desportivos."
+  },
+  "67056477": {
+   "fragment_id": "67051329",
+   "type": 11,
+   "heading": "Artigo 6.º — Denúncia obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Denúncia obrigatória\n\nOs titulares dos órgãos e os funcionários das federações desportivas ou das ligas profissionais, associações e agrupamentos de clubes nelas filiados devem transmitir ao Ministério Público notícia dos crimes previstos na presente lei de que tenham conhecimento no exercício das suas funções e por causa delas."
+  },
+  "67056478": {
+   "fragment_id": "67051330",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito subsidiário\n\nAos crimes previstos na presente lei são subsidiariamente aplicáveis as disposições do Código Penal."
+  },
+  "67056479": {
+   "fragment_id": "67051331",
+   "type": 1,
+   "heading": "Capítulo II — Crimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Crimes"
+  },
+  "67056480": {
+   "fragment_id": "67051332",
+   "type": 11,
+   "heading": "Artigo 8.º — Corrupção passiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Corrupção passiva\n\nO agente desportivo que por si ou mediante o seu consentimento ou ratificação, por interposta pessoa, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para um qualquer acto ou omissão destinados a alterar ou falsear o resultado de uma competição desportiva é punido com pena de prisão de 1 a 5 anos."
+  },
+  "67056481": {
+   "fragment_id": "67051333",
+   "type": 11,
+   "heading": "Artigo 9.º — Corrupção activa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Corrupção activa\n\n1 - Quem por si ou mediante o seu consentimento ou ratificação, por interposta pessoa, der ou prometer a agente desportivo, ou a terceiro com conhecimento daquele, vantagem patrimonial ou não patrimonial, que lhe não seja devida, com o fim indicado no artigo anterior, é punido com pena de prisão até 3 anos ou com pena de multa.\n\n2 - A tentativa é punível."
+  },
+  "67056482": {
+   "fragment_id": "67051334",
+   "type": 11,
+   "heading": "Artigo 10.º — Tráfico de influência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Tráfico de influência\n\n1 - Quem por si ou mediante o seu consentimento ou ratificação, por interposta pessoa, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para abusar da sua influência, real ou suposta, junto de qualquer agente desportivo, com o fim de obter uma qualquer decisão destinada a alterar ou falsear o resultado de uma competição desportiva é punido com pena de prisão até 3 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal.\n\n2 - Quem por si ou mediante o seu consentimento ou ratificação, por interposta pessoa, der ou prometer a outra pessoa vantagem patrimonial ou não patrimonial para o fim referido no número anterior é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias, se pena mais grave lhe não couber por força de outra disposição legal."
+  },
+  "67056483": {
+   "fragment_id": "67051335",
+   "type": 11,
+   "heading": "Artigo 11.º — Associação criminosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Associação criminosa\n\n1 - Quem promover, fundar, participar ou apoiar grupo, organização ou associação cuja finalidade ou actividade seja dirigida à prática de um ou mais crimes previstos na presente lei é punido com pena de prisão de 1 a 5 anos.\n\n2 - Quem chefiar ou dirigir os grupos, organizações ou associações referidos no número anterior é punido com a pena nele prevista agravada de um terço nos seus limites mínimo e máximo.\n\n3 - Para os efeitos do presente artigo, considera-se que existe grupo, organização ou associação quando esteja em causa um conjunto de, pelo menos, três pessoas actuando concertadamente durante um certo período de tempo."
+  },
+  "67056484": {
+   "fragment_id": "67051336",
+   "type": 11,
+   "heading": "Artigo 12.º — Agravação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Agravação\n\n1 - As penas previstas no artigo 8.º e no n.º 1 do artigo 10.º são agravadas de um terço nos seus limites mínimo e máximo se o agente for dirigente desportivo, árbitro desportivo, empresário desportivo ou pessoa colectiva desportiva.\n\n2 - Se os crimes previstos no artigo 9.º e no n.º 2 do artigo 10.º forem praticados relativamente a pessoa referida no número anterior, o agente é punido com a pena que ao caso caberia, agravada de um terço nos seus limites mínimo e máximo."
+  },
+  "67056485": {
+   "fragment_id": "67051337",
+   "type": 11,
+   "heading": "Artigo 13.º — Atenuação especial e dispensa de pena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Atenuação especial e dispensa de pena\n\n1 - Nos crimes previstos na presente lei:\n\na) A pena é especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis;\n\nb) O agente é dispensado de pena se repudiar voluntariamente, antes da prática do facto, o oferecimento ou a promessa que aceitara ou restituir a vantagem ou, tratando-se de coisa fungível, o seu valor.\n\n2 - No crime previsto no artigo 11.º, a pena pode ser especialmente atenuada ou não ter lugar a punição se o agente impedir ou se esforçar seriamente por impedir a continuação dos grupos, organizações ou associações ou comunicar à autoridade a sua existência de modo a esta poder evitar a prática de crimes."
+  },
+  "67056486": {
+   "fragment_id": "67051338",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "67056487": {
+   "fragment_id": "67051339",
+   "type": 11,
+   "heading": "Artigo 14.º — Prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prevenção\n\nAs federações, as sociedades e os clubes desportivos promovem anualmente acções formativas, pedagógicas e educativas com a finalidade de sensibilizar todos os agentes desportivos para os valores da verdade, da lealdade e da correcção e prevenir a prática de factos susceptíveis de alterarem fraudulentamente os resultados da competição."
+  },
+  "67056488": {
+   "fragment_id": "67051340",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados todos os artigos do Decreto-Lei n.º 390/91, de 10 de Outubro, com excepção do artigo 5.º"
+  },
+  "67056489": {
+   "fragment_id": "67051341",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente lei entra em vigor em 15 de Setembro de 2007."
+  },
+  "67019370": {
+   "fragment_id": "67051322",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 50/2007\n\nde 31 de Agosto\n\nEstabelece um novo regime de responsabilidade penal por comportamentos susceptíveis de afectar a verdade, a lealdade e a correcção da competição e do seu resultado na actividade desportiva.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "67056493": {
+   "fragment_id": "67051337",
+   "type": 11,
+   "heading": "Artigo 13.º — Atenuação especial e dispensa de pena",
+   "in_force_from": "2015-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 13.º — Atenuação especial e dispensa de pena\n\n1 - Nos crimes previstos na presente lei:\n\na) A pena pode ser especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis;\n\nb) O agente pode ser dispensado de pena se repudiar voluntariamente, antes da prática do facto, o oferecimento ou a promessa que aceitara ou restituir a vantagem ou, tratando-se de coisa fungível, o seu valor.\n\n2 - No crime previsto no artigo 11.º, a pena pode ser especialmente atenuada ou não ter lugar a punição se o agente impedir ou se esforçar seriamente por impedir a continuação dos grupos, organizações ou associações ou comunicar à autoridade a sua existência de modo a esta poder evitar a prática de crimes.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "67056491": {
+   "fragment_id": "67051342",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 12 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 20 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 21 de Agosto de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "106928746": {
+   "fragment_id": "67051325",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente lei, considera-se:\n\na) «Dirigente desportivo» o titular do órgão ou o representante da pessoa colectiva desportiva, quem nela tiver autoridade para exercer o controlo da actividade e o director desportivo ou equiparado;\n\nb) «Técnico desportivo» o treinador, o orientador técnico, o preparador físico, o médico, o massagista, os respectivos adjuntos e quem, a qualquer título, orienta praticantes desportivos no desempenho da sua actividade;\n\nc) «Árbitro desportivo» quem, a qualquer título, principal ou auxiliar, aprecia, julga, decide, observa ou avalia a aplicação das regras técnicas e disciplinares próprias da modalidade desportiva;\n\nd) «Empresário desportivo» quem exerce a actividade de representação, intermediação ou assistência, ocasionais ou permanentes, na negociação ou celebração de contratos desportivos;\n\ne) 'Pessoas coletivas desportivas' os clubes desportivos, as sociedades desportivas, as federações desportivas, as ligas profissionais, as associações e agrupamentos de clubes nelas filiados, bem como as pessoas coletivas, sociedades civis ou associações que representem qualquer das categorias de agente desportivo referidas nas alíneas anteriores;\n\nf) «Agente desportivo» as pessoas singulares ou colectivas referidas nas alíneas anteriores, bem como as que, mesmo provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, a título individual ou integradas num conjunto, participem em competição desportiva ou sejam chamadas a desempenhar ou a participar no desempenho de competição desportiva;\n\ng) «Competição desportiva» a actividade desportiva regulamentada, organizada e exercida sob a égide das federações desportivas ou das ligas profissionais, associações e agrupamentos de clubes nelas filiados ou das instâncias internacionais de que aquelas pessoas colectivas façam parte.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928753": {
+   "fragment_id": "106955821",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Medidas de coação",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 3.º-A — Medidas de coação\n\n1 - Após a constituição de arguido pela prática de crimes previstos na presente lei, o tribunal pode decidir, com respeito pelos pressupostos gerais e específicos de aplicação das medidas de coação previstas no Código de Processo Penal, pela aplicação das seguintes medidas:\n\na) Suspensão provisória da participação de praticante desportivo, técnico desportivo, dirigente desportivo ou árbitro desportivo em competições desportivas;\n\nb) No caso das pessoas coletivas desportivas, suspensão da atribuição de subsídios, subvenções ou incentivos outorgados pelo Estado, regiões autónomas, autarquias locais e demais pessoas coletivas públicas.\n\n2 - As medidas de coação previstas no número anterior são cumuláveis com qualquer outra medida de coação prevista no Código de Processo Penal.\n\n3 - As medidas de coação previstas no n.º 1 extinguem-se quando, desde a sua execução, tiverem decorrido os prazos referidos no n.º 1 do artigo 215.º de Código de Processo Penal.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928754": {
+   "fragment_id": "67051327",
+   "type": 11,
+   "heading": "Artigo 4.º — Penas acessórias",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 4.º — Penas acessórias\n\nAos agentes dos crimes previstos na presente lei podem ser aplicadas as seguintes penas acessórias:\n\na) Suspensão de participação em competição desportiva por um período de seis meses a três anos;\n\nb) Privação do direito a subsídios, subvenções ou incentivos outorgados pelo Estado, Regiões Autónomas, autarquias locais e demais pessoas colectivas públicas por um período de um a cinco anos;\n\nc) Proibição do exercício de profissão, função ou atividade, pública ou privada, por um período de 1 a 5 anos, tratando-se de agente desportivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928755": {
+   "fragment_id": "67051328",
+   "type": 11,
+   "heading": "Artigo 5.º — Concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Concurso\n\nO exercício da acção penal ou a aplicação de penas ou medidas de segurança pelos crimes previstos na presente lei não impedem, suspendem ou prejudicam o exercício do poder disciplinar ou a aplicação de sanções disciplinares nos termos dos regulamentos desportivos."
+  },
+  "106928756": {
+   "fragment_id": "67051329",
+   "type": 11,
+   "heading": "Artigo 6.º — Denúncia obrigatória",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 6.º — Denúncia obrigatória\n\nOs titulares dos órgãos e os funcionários das pessoas coletivas desportivas devem transmitir ao Ministério Público notícia dos crimes previstos na presente lei de que tenham conhecimento no exercício das suas funções ou por causa delas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928757": {
+   "fragment_id": "67051330",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito subsidiário\n\nAos crimes previstos na presente lei são subsidiariamente aplicáveis as disposições do Código Penal."
+  },
+  "106928749": {
+   "fragment_id": "67051332",
+   "type": 11,
+   "heading": "Artigo 8.º — Corrupção passiva",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 8.º — Corrupção passiva\n\nO agente desportivo que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para um qualquer ato ou omissão destinados a alterar ou falsear o resultado de uma competição desportiva, ainda que anteriores àquela solicitação ou aceitação, é punido com pena de prisão de 1 a 8 anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106958750": {
+   "fragment_id": "67051333",
+   "type": 11,
+   "heading": "Artigo 9.º — Corrupção activa",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 9.º — Corrupção activa\n\n1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a agente desportivo, ou a terceiro com conhecimento daquele, vantagem patrimonial ou não patrimonial, que lhe não seja devida, com o fim indicado no artigo anterior, é punido com pena de prisão de 1 a 5 anos.\n\n2 - A tentativa é punível.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928750": {
+   "fragment_id": "67051334",
+   "type": 11,
+   "heading": "Artigo 10.º — Tráfico de influência",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 10.º — Tráfico de influência\n\n1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para abusar da sua influência, real ou suposta, junto de qualquer agente desportivo, com o fim de obter uma qualquer decisão destinada a alterar ou falsear o resultado de uma competição desportiva, é punido com pena de prisão de 1 a 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.\n\n2 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a outra pessoa vantagem patrimonial ou não patrimonial, para o fim referido no número anterior, é punido com pena de prisão até 3 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928758": {
+   "fragment_id": "106955822",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Oferta ou recebimento indevido de vantagem",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 10.º-A — Oferta ou recebimento indevido de vantagem\n\n1 - O agente desportivo que, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, direta ou indiretamente, no exercício das suas funções ou por causa delas, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, de agente que perante ele tenha tido, tenha ou possa vir a ter pretensão dependente do exercício dessas suas funções, é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.\n\n2 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a agente desportivo, ou a terceiro por indicação ou conhecimento daquele, vantagem patrimonial ou não patrimonial, que não lhe seja devida, no exercício das suas funções ou por causa delas, é punido com pena de prisão até 3 anos ou com pena de multa até 360 dias.\n\n3 - Excluem-se dos números anteriores as condutas socialmente adequadas e conformes aos usos e costumes.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928759": {
+   "fragment_id": "67051335",
+   "type": 11,
+   "heading": "Artigo 11.º — Associação criminosa",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 11.º — Associação criminosa\n\n1 - Quem promover, fundar, participar ou apoiar grupo, organização ou associação cuja finalidade ou actividade seja dirigida à prática de um ou mais crimes previstos na presente lei é punido com pena de prisão de 1 a 5 anos.\n\n2 - Quem chefiar ou dirigir os grupos, organizações ou associações referidos no número anterior é punido com pena de prisão de 2 a 8 anos.\n\n3 - Para os efeitos do presente artigo, considera-se que existe grupo, organização ou associação quando esteja em causa um conjunto de, pelo menos, três pessoas actuando concertadamente durante um certo período de tempo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928762": {
+   "fragment_id": "106955823",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Aposta antidesportiva",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 11.º-A — Aposta antidesportiva\n\nO agente desportivo que fizer, ou em seu benefício mandar fazer, aposta desportiva à cota, online ou de base territorial, relativamente a incidências ou a resultado de quaisquer eventos, provas ou competições desportivas nos quais participe ou esteja envolvido, é punido com pena de prisão até 3 anos ou com pena de multa até 600 dias.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928763": {
+   "fragment_id": "67051336",
+   "type": 11,
+   "heading": "Artigo 12.º — Agravação",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 12.º — Agravação\n\n1 - As penas previstas no artigo 8.º, no n.º 1 do artigo 10.º e no n.º 1 do artigo 10.º-A são agravadas de um terço nos seus limites mínimo e máximo se o agente for dirigente desportivo, árbitro desportivo, empresário desportivo ou pessoa coletiva desportiva.\n\n2 - Se os crimes previstos no artigo 9.º, no n.º 2 do artigo 10.º e no n.º 2 do artigo 10.º-A forem praticados por agente desportivo ou relativamente a pessoa referida no número anterior, o agente é punido com a pena que ao caso caberia, agravada de um terço nos seus limites mínimo e máximo.\n\n3 - Se a vantagem referida nos artigos 8.º, 9.º, 10.º e 10.º-A for de valor elevado, o agente é punido com apena aplicável ao crime respetivo, agravada de um quarto nos seus limites mínimo e máximo.\n\n4 - Se a vantagem referida nos artigos 8.º, 9.º, 10.º e 10.º-A for de valor consideravelmente elevado, o agente é punido com a pena aplicável ao crime respetivo, agravada de um terço nos seus limites mínimo e máximo.\n\n5 - Para efeitos dos n.os 3 e 4, é aplicável o disposto nas alíneas a) e b) do artigo 202.º do Código Penal.\n\n6 - Se no mesmo comportamento concorrerem mais do que uma das circunstâncias referidas nos números anteriores, só é considerada para efeito da determinação da pena aplicável a que tiver efeito agravante mais forte, sendo a outra ou outras valoradas na medida da pena.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "106928764": {
+   "fragment_id": "67051337",
+   "type": 11,
+   "heading": "Artigo 13.º — Atenuação especial e dispensa de pena",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 13.º — Atenuação especial e dispensa de pena\n\n1 - Nos crimes previstos na presente lei:\n\na) A pena pode ser especialmente atenuada se o agente auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis;\n\nb) O agente pode ser dispensado de pena se repudiar voluntariamente, antes da prática do facto, o oferecimento ou a promessa que aceitara ou restituir a vantagem ou, tratando-se de coisa fungível, o seu valor.\n\n2 - No crime previsto no artigo 11.º, a pena pode ser especialmente atenuada ou não ter lugar a punição se o agente impedir ou se esforçar seriamente por impedir a continuação dos grupos, organizações ou associações ou comunicar à autoridade a sua existência de modo a esta poder evitar a prática de crimes.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "106928765": {
+   "fragment_id": "106955824",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Apreensão e perda a favor do Estado",
+   "in_force_from": "2017-05-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 13.º-A — Apreensão e perda a favor do Estado\n\nAos instrumentos, produtos e vantagens relacionados com a prática de crimes previstos na presente lei aplica-se o regime da apreensão e perda a favor do Estado previstos no Código Penal, no Código de Processo Penal e na Lei n.º 5/2002, de 11 de janeiro.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "176314961": {
+   "fragment_id": "67051334",
+   "type": 11,
+   "heading": "Artigo 10.º — Tráfico de influência",
+   "in_force_from": "2022-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 10.º — Tráfico de influência\n\n1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para abusar da sua influência, real ou suposta, junto de qualquer agente desportivo, com o fim de obter uma qualquer decisão destinada a alterar ou falsear o resultado de uma competição desportiva, é punido com pena de prisão de 1 a 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.\n\n2 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a outra pessoa vantagem patrimonial ou não patrimonial, para o fim referido no número anterior, é punido com pena de prisão até 3 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal.\n\n3 - É correspondentemente aplicável o disposto no artigo 13.º\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "176314962": {
+   "fragment_id": "67051337",
+   "type": 11,
+   "heading": "Artigo 13.º — Dispensa ou atenuação da pena",
+   "in_force_from": "2022-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 13.º — Dispensa ou atenuação da pena\n\n1 - O agente é dispensado de pena sempre que tiver denunciado o crime antes da instauração de procedimento criminal e, nas situações previstas:\n\na) No artigo 8.º, não tenha praticado o ato ou omissão destinados a alterar ou falsear o resultado de uma competição desportiva para o qual solicitou ou aceitou a vantagem e restitua ou repudie voluntariamente a vantagem ou, tratando-se de coisa ou animal fungíveis, restitua o seu valor;\n\nb) No n.º 1 do artigo 10.º-A, restitua ou repudie voluntariamente a vantagem ou, tratando-se de coisa ou animal fungíveis, restitua o seu valor;\n\nc) No artigo 9.º, tenha retirado a promessa de vantagem ou solicitado a sua restituição ou repúdio ao agente desportivo, antes da prática do ato ou da omissão destinados a alterar ou falsear o resultado de uma competição desportiva;\n\nd) No n.º 2 do artigo 10.º-A, tenha retirado a promessa de vantagem ou solicitado a sua restituição ou repúdio ao agente desportivo.\n\n2 - O agente pode ser dispensado de pena sempre que, durante o inquérito ou a instrução, e verificando-se o disposto nas alíneas do número anterior, conforme aplicável, tiver contribuído decisivamente para a descoberta da verdade.\n\n3 - A dispensa de pena abrange os crimes que sejam efeito dos crimes previstos nos artigos 8.º, 9.º e 10.º-A, ou que se hajam destinado a continuar ou a ocultar estes crimes ou as vantagens provenientes dos mesmos, desde que o agente os tenha denunciado ou tenha contribuído decisivamente para a sua descoberta.\n\n4 - Ressalvam-se do disposto no número anterior os crimes praticados contra bens eminentemente pessoais.\n\n5 - A pena é especialmente atenuada se, até ao encerramento da audiência de julgamento em primeira instância, o agente colaborar ativamente na descoberta da verdade relativamente à prática de qualquer um dos crimes previstos nesta lei, contribuindo de forma relevante para a prova dos factos.\n\n6 - Na situação prevista no artigo 11.º:\n\na) O agente é dispensado de pena se comunicar às autoridades a existência de grupos, organizações ou associações criminosas e se conseguir evitar a consumação de crimes que se propunham praticar;\n\nb) A pena é especialmente atenuada se o agente se esforçar seriamente para evitar a consumação dos crimes que aqueles grupos, organizações ou associações criminosas se propunham praticar ou se, até ao encerramento da audiência de julgamento em primeira instância, colaborar ativamente na descoberta da verdade relativamente à prática de qualquer um dos crimes previstos nesta lei, contribuindo de forma relevante para a prova dos factos.\n\n7 - A dispensa e a atenuação da pena não são excluídas nas hipóteses de agravação previstas no artigo 12.º.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "838305284": {
+   "fragment_id": "67051323",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305285": {
+   "fragment_id": "67051324",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece o regime de responsabilidade penal por comportamentos antidesportivos, contrários aos valores da verdade, da lealdade e da correcção e susceptíveis de alterarem fraudulentamente os resultados da competição.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305286": {
+   "fragment_id": "67051325",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente lei, considera-se:\n\na) «Dirigente desportivo» o titular do órgão ou o representante da pessoa colectiva desportiva, quem nela tiver autoridade para exercer o controlo da actividade e o director desportivo ou equiparado;\n\nb) «Técnico desportivo» o treinador, o orientador técnico, o preparador físico, o médico, o massagista, os respectivos adjuntos e quem, a qualquer título, orienta praticantes desportivos no desempenho da sua actividade;\n\nc) «Árbitro desportivo» quem, a qualquer título, principal ou auxiliar, aprecia, julga, decide, observa ou avalia a aplicação das regras técnicas e disciplinares próprias da modalidade desportiva;\n\nd) «Empresário desportivo» quem exerce a actividade de representação, intermediação ou assistência, ocasionais ou permanentes, na negociação ou celebração de contratos desportivos;\n\ne) 'Pessoas coletivas desportivas' os clubes desportivos, as sociedades desportivas, as federações desportivas, as ligas profissionais, as associações e agrupamentos de clubes nelas filiados, bem como as pessoas coletivas, sociedades civis ou associações que representem qualquer das categorias de agente desportivo referidas nas alíneas anteriores;\n\nf) «Agente desportivo» as pessoas singulares ou colectivas referidas nas alíneas anteriores, bem como as que, mesmo provisória ou temporariamente, mediante remuneração ou a título gratuito, voluntária ou obrigatoriamente, a título individual ou integradas num conjunto, participem em competição desportiva ou sejam chamadas a desempenhar ou a participar no desempenho de competição desportiva;\n\ng) «Competição desportiva» a actividade desportiva regulamentada, organizada e exercida sob a égide das federações desportivas ou das ligas profissionais, associações e agrupamentos de clubes nelas filiados ou das instâncias internacionais de que aquelas pessoas colectivas façam parte.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305287": {
+   "fragment_id": "67051326",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsabilidade penal das pessoas colectivas e equiparadas",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 3.º — Responsabilidade penal das pessoas colectivas e equiparadas\n\n1 - As pessoas colectivas e entidades equiparadas, incluindo as pessoas colectivas desportivas, são responsáveis, nos termos gerais, pelos crimes previstos na presente lei.\n\n2 - O estatuto de utilidade pública ou de utilidade pública desportiva não exclui a responsabilidade penal das pessoas colectivas desportivas.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305288": {
+   "fragment_id": "106955821",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Medidas de coação",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 3.º-A — Medidas de coação\n\n1 - Após a constituição de arguido pela prática de crimes previstos na presente lei, o tribunal pode decidir, com respeito pelos pressupostos gerais e específicos de aplicação das medidas de coação previstas no Código de Processo Penal, pela aplicação das seguintes medidas:\n\na) Suspensão provisória da participação de praticante desportivo, técnico desportivo, dirigente desportivo ou árbitro desportivo em competições desportivas;\n\nb) No caso das pessoas coletivas desportivas, suspensão da atribuição de subsídios, subvenções ou incentivos outorgados pelo Estado, regiões autónomas, autarquias locais e demais pessoas coletivas públicas.\n\n2 - As medidas de coação previstas no número anterior são cumuláveis com qualquer outra medida de coação prevista no Código de Processo Penal.\n\n3 - As medidas de coação previstas no n.º 1 extinguem-se quando, desde a sua execução, tiverem decorrido os prazos referidos no n.º 1 do artigo 215.º de Código de Processo Penal.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305289": {
+   "fragment_id": "67051327",
+   "type": 11,
+   "heading": "Artigo 4.º — Penas acessórias",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 4.º — Penas acessórias\n\nAos agentes dos crimes previstos na presente lei podem ser aplicadas as seguintes penas acessórias:\n\na) Suspensão de participação em competição desportiva por um período de seis meses a três anos;\n\nb) Privação do direito a subsídios, subvenções ou incentivos outorgados pelo Estado, Regiões Autónomas, autarquias locais e demais pessoas colectivas públicas por um período de um a cinco anos;\n\nc) Proibição do exercício de profissão, função ou atividade, pública ou privada, por um período de 1 a 5 anos, tratando-se de agente desportivo.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305290": {
+   "fragment_id": "67051328",
+   "type": 11,
+   "heading": "Artigo 5.º — Concurso",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 5.º — Concurso\n\nO exercício da acção penal ou a aplicação de penas ou medidas de segurança pelos crimes previstos na presente lei não impedem, suspendem ou prejudicam o exercício do poder disciplinar ou a aplicação de sanções disciplinares nos termos dos regulamentos desportivos.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305291": {
+   "fragment_id": "67051329",
+   "type": 11,
+   "heading": "Artigo 6.º — Denúncia obrigatória",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 6.º — Denúncia obrigatória\n\nOs titulares dos órgãos e os funcionários das pessoas coletivas desportivas devem transmitir ao Ministério Público notícia dos crimes previstos na presente lei de que tenham conhecimento no exercício das suas funções ou por causa delas.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305292": {
+   "fragment_id": "67051330",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito subsidiário",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 7.º — Direito subsidiário\n\nAos crimes previstos na presente lei são subsidiariamente aplicáveis as disposições do Código Penal.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305293": {
+   "fragment_id": "67051331",
+   "type": 1,
+   "heading": "Capítulo II — Crimes",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "### Capítulo II — Crimes\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305294": {
+   "fragment_id": "67051332",
+   "type": 11,
+   "heading": "Artigo 8.º — Corrupção passiva",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 8.º — Corrupção passiva\n\nO agente desportivo que por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, para um qualquer ato ou omissão destinados a alterar ou falsear o resultado de uma competição desportiva, ainda que anteriores àquela solicitação ou aceitação, é punido com pena de prisão de 1 a 8 anos.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305295": {
+   "fragment_id": "67051333",
+   "type": 11,
+   "heading": "Artigo 9.º — Corrupção activa",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 9.º — Corrupção activa\n\n1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a agente desportivo, ou a terceiro com conhecimento daquele, vantagem patrimonial ou não patrimonial, que lhe não seja devida, com o fim indicado no artigo anterior, é punido com pena de prisão de 1 a 5 anos.\n\n2 - A tentativa é punível.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305296": {
+   "fragment_id": "67051334",
+   "type": 11,
+   "heading": "Artigo 10.º — Tráfico de influência",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 10.º — Tráfico de influência\n\n1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, para abusar da sua influência, real ou suposta, junto de qualquer agente desportivo, com o fim de obter uma qualquer decisão destinada a alterar ou falsear o resultado de uma competição desportiva, é punido com pena de prisão de 1 a 5 anos, se pena mais grave lhe não couber por força de outra disposição legal.\n\n2 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a outra pessoa vantagem patrimonial ou não patrimonial, para o fim referido no número anterior, é punido com pena de prisão até 3 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal.\n\n3 - É correspondentemente aplicável o disposto no artigo 13.º\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305297": {
+   "fragment_id": "106955822",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Oferta ou recebimento indevido de vantagem",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 10.º-A — Oferta ou recebimento indevido de vantagem\n\n1 - O agente desportivo que, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, direta ou indiretamente, no exercício das suas funções ou por causa delas, sem que lhe seja devida, vantagem patrimonial ou não patrimonial, ou a sua promessa, de agente que perante ele tenha tido, tenha ou possa vir a ter pretensão dependente do exercício dessas suas funções, é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.\n\n2 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a agente desportivo, ou a terceiro por indicação ou conhecimento daquele, vantagem patrimonial ou não patrimonial, que não lhe seja devida, no exercício das suas funções ou por causa delas, é punido com pena de prisão até 3 anos ou com pena de multa até 360 dias.\n\n3 - Excluem-se dos números anteriores as condutas socialmente adequadas e conformes aos usos e costumes.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305298": {
+   "fragment_id": "67051335",
+   "type": 11,
+   "heading": "Artigo 11.º — Associação criminosa",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 11.º — Associação criminosa\n\n1 - Quem promover, fundar, participar ou apoiar grupo, organização ou associação cuja finalidade ou actividade seja dirigida à prática de um ou mais crimes previstos na presente lei é punido com pena de prisão de 1 a 5 anos.\n\n2 - Quem chefiar ou dirigir os grupos, organizações ou associações referidos no número anterior é punido com pena de prisão de 2 a 8 anos.\n\n3 - Para os efeitos do presente artigo, considera-se que existe grupo, organização ou associação quando esteja em causa um conjunto de, pelo menos, três pessoas actuando concertadamente durante um certo período de tempo.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305299": {
+   "fragment_id": "106955823",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Aposta antidesportiva",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 11.º-A — Aposta antidesportiva\n\nO agente desportivo que fizer, ou em seu benefício mandar fazer, aposta desportiva à cota, online ou de base territorial, relativamente a incidências ou a resultado de quaisquer eventos, provas ou competições desportivas nos quais participe ou esteja envolvido, é punido com pena de prisão até 3 anos ou com pena de multa até 600 dias.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305300": {
+   "fragment_id": "67051336",
+   "type": 11,
+   "heading": "Artigo 12.º — Agravação",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 12.º — Agravação\n\n1 - As penas previstas no artigo 8.º, no n.º 1 do artigo 10.º e no n.º 1 do artigo 10.º-A são agravadas de um terço nos seus limites mínimo e máximo se o agente for dirigente desportivo, árbitro desportivo, empresário desportivo ou pessoa coletiva desportiva.\n\n2 - Se os crimes previstos no artigo 9.º, no n.º 2 do artigo 10.º e no n.º 2 do artigo 10.º-A forem praticados por agente desportivo ou relativamente a pessoa referida no número anterior, o agente é punido com a pena que ao caso caberia, agravada de um terço nos seus limites mínimo e máximo.\n\n3 - Se a vantagem referida nos artigos 8.º, 9.º, 10.º e 10.º-A for de valor elevado, o agente é punido com apena aplicável ao crime respetivo, agravada de um quarto nos seus limites mínimo e máximo.\n\n4 - Se a vantagem referida nos artigos 8.º, 9.º, 10.º e 10.º-A for de valor consideravelmente elevado, o agente é punido com a pena aplicável ao crime respetivo, agravada de um terço nos seus limites mínimo e máximo.\n\n5 - Para efeitos dos n.os 3 e 4, é aplicável o disposto nas alíneas a) e b) do artigo 202.º do Código Penal.\n\n6 - Se no mesmo comportamento concorrerem mais do que uma das circunstâncias referidas nos números anteriores, só é considerada para efeito da determinação da pena aplicável a que tiver efeito agravante mais forte, sendo a outra ou outras valoradas na medida da pena.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305301": {
+   "fragment_id": "67051337",
+   "type": 11,
+   "heading": "Artigo 13.º — Dispensa ou atenuação da pena",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+   ],
+   "markdown": "###### Artigo 13.º — Dispensa ou atenuação da pena\n\n1 - O agente é dispensado de pena sempre que tiver denunciado o crime antes da instauração de procedimento criminal e, nas situações previstas:\n\na) No artigo 8.º, não tenha praticado o ato ou omissão destinados a alterar ou falsear o resultado de uma competição desportiva para o qual solicitou ou aceitou a vantagem e restitua ou repudie voluntariamente a vantagem ou, tratando-se de coisa ou animal fungíveis, restitua o seu valor;\n\nb) No n.º 1 do artigo 10.º-A, restitua ou repudie voluntariamente a vantagem ou, tratando-se de coisa ou animal fungíveis, restitua o seu valor;\n\nc) No artigo 9.º, tenha retirado a promessa de vantagem ou solicitado a sua restituição ou repúdio ao agente desportivo, antes da prática do ato ou da omissão destinados a alterar ou falsear o resultado de uma competição desportiva;\n\nd) No n.º 2 do artigo 10.º-A, tenha retirado a promessa de vantagem ou solicitado a sua restituição ou repúdio ao agente desportivo.\n\n2 - O agente pode ser dispensado de pena sempre que, durante o inquérito ou a instrução, e verificando-se o disposto nas alíneas do número anterior, conforme aplicável, tiver contribuído decisivamente para a descoberta da verdade.\n\n3 - A dispensa de pena abrange os crimes que sejam efeito dos crimes previstos nos artigos 8.º, 9.º e 10.º-A, ou que se hajam destinado a continuar ou a ocultar estes crimes ou as vantagens provenientes dos mesmos, desde que o agente os tenha denunciado ou tenha contribuído decisivamente para a sua descoberta.\n\n4 - Ressalvam-se do disposto no número anterior os crimes praticados contra bens eminentemente pessoais.\n\n5 - A pena é especialmente atenuada se, até ao encerramento da audiência de julgamento em primeira instância, o agente colaborar ativamente na descoberta da verdade relativamente à prática de qualquer um dos crimes previstos nesta lei, contribuindo de forma relevante para a prova dos factos.\n\n6 - Na situação prevista no artigo 11.º:\n\na) O agente é dispensado de pena se comunicar às autoridades a existência de grupos, organizações ou associações criminosas e se conseguir evitar a consumação de crimes que se propunham praticar;\n\nb) A pena é especialmente atenuada se o agente se esforçar seriamente para evitar a consumação dos crimes que aqueles grupos, organizações ou associações criminosas se propunham praticar ou se, até ao encerramento da audiência de julgamento em primeira instância, colaborar ativamente na descoberta da verdade relativamente à prática de qualquer um dos crimes previstos nesta lei, contribuindo de forma relevante para a prova dos factos.\n\n7 - A dispensa e a atenuação da pena não são excluídas nas hipóteses de agravação previstas no artigo 12.º.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 94/2021 - Diário da República n.º 245/2021, Série I de 2021-12-21](https://diariodarepublica.pt/dr/detalhe/lei/94-2021-176235804), em vigor a partir de 2022-03-21\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 30/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/lei/30-2015-67051302), em vigor a partir de 2015-04-27"
+  },
+  "838305302": {
+   "fragment_id": "106955824",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Apreensão e perda a favor do Estado",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+   ],
+   "markdown": "###### Artigo 13.º-A — Apreensão e perda a favor do Estado\n\nAos instrumentos, produtos e vantagens relacionados com a prática de crimes previstos na presente lei aplica-se o regime da apreensão e perda a favor do Estado previstos no Código Penal, no Código de Processo Penal e na Lei n.º 5/2002, de 11 de janeiro.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03"
+  },
+  "838305303": {
+   "fragment_id": "67051338",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "### Capítulo III — Disposições finais\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305304": {
+   "fragment_id": "67051339",
+   "type": 11,
+   "heading": "Artigo 14.º — Prevenção",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 14.º — Prevenção\n\nAs federações, as sociedades e os clubes desportivos promovem anualmente acções formativas, pedagógicas e educativas com a finalidade de sensibilizar todos os agentes desportivos para os valores da verdade, da lealdade e da correcção e prevenir a prática de factos susceptíveis de alterarem fraudulentamente os resultados da competição.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305305": {
+   "fragment_id": "67051340",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados todos os artigos do Decreto-Lei n.º 390/91, de 10 de Outubro, com excepção do artigo 5.º\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305306": {
+   "fragment_id": "67051341",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente lei entra em vigor em 15 de Setembro de 2007.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  },
+  "838305307": {
+   "fragment_id": "67051342",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "Aprovada em 12 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 20 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 21 de Agosto de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03"
+  }
+ }
+}

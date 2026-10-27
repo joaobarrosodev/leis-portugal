@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:140560:por
+title: Decreto-Lei n.º 44331
+short_title: null
+summary: Modifica algumas disposições do Estatuto do Cofre de Previdência das Forças Armadas, aprovado pelo Decreto-Lei n.º
+  42945
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '44331'
+official_date: null
+publication_date: '1962-05-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 106/1962, Série I de 1962-05-10
+  number: '106'
+  series: I
+  supplement: null
+  pages: 689 - 690
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/05/10600/06890690.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '140560'
+  dre_path: /dr/detalhe/decreto-lei/44331-1962-140560
+  internal: pt:dre:140560:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44331-1962-140560
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44331-1962-140560
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e15c9a9c29a7062bcf3e357710cb5a898941b0a221229d9d3ea53336194af652
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cofre de Previdência das Forças Armadas
+- Estatuto
+- Forças Armadas
+- Gestão Financeira
+- Serviços Sociais
+relationships:
+- type: cites
+  target: pt:dre:281444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:40:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44331
+
+Tendo-se verificado na execução do Estatuto do Cofre de Previdência das Forças Armadas, aprovado pelo [Decreto-Lei n.º 42945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42945-1960-281444), de 26 de Abril de 1960, a necessidade de dar nova redacção a algumas das suas disposições e ainda de estabelecer outras com o fim de aumentar pequenos subsídios e de tornar mais eficiente e económica a administração do Cofre.
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Passam a ter as redacções que vão indicadas as seguintes disposições do Estatuto do Cofre de Previdência das Forças Armadas:
+
+Art. 2.º O Cofre de Previdência das Forças Armadas é uma instituição de utilidade pública, com personalidade jurídica e autonomia administrativa, e sede em Lisboa, em edifício cedido, a título gratuito, pelo Estado, e funciona integrado nos Serviços Sociais das Forças Armadas, nos termos do artigo 25.º e seu § único do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958.
+
+...
+
+Art. 24.º A atribuição e partilha dos subsídios são feitas por um sistema misto, obrigatório e facultativo, nos seguintes termos:
+
+1) O subsídio considera-se constituído por duas partes distintas: uma, de valor igual ou inferior aos quantitativos indicados no artigo 9.º, que será designada parte indisponível; outra, de valor igual ao excedente dos mesmos quantitativos, que será designada parte disponível;
+
+2) A parte indisponível do subsídio será deferida pela seguinte ordem de prioridade:
+
+1.º À viúva e aos filhos que satisfaçam às condições indicadas no § único deste artigo, sendo metade para aquela e a outra metade para estes, em partes iguais; na falta de uma das partes, na totalidade à viúva ou aos filhos, em partes iguais, conforme o caso;
+
+2.º Aos pais e aos irmãos menores, quando uns e outros estivessem a cargo do subscritor em partes iguais;
+
+3.º Às irmãs solteiras, viúvas, divorciadas ou separadas judicialmente, quando umas e outras estivessem a cargo do subscritor, em partes iguais;
+
+4.º À pessoa ou pessoas designadas pelo subscritor na declaração a que se refere o artigo 27.º do estatuto, salvo se for declarada nula, e nos termos por ele indicados;
+
+5.º Aos parentes herdeiros do subscritor, nos termos da lei geral.
+
+3) Por sua vez, a parte disponível será deferida à pessoa ou pessoas designadas na declaração a que se refere o artigo 27.º do estatuto e nos termos nela indicados; e, caso de falta ou nulidade da declaração, seguirá, sucessivamente e por ordem de prioridade, o destino dos n.os 1.º, 2.º, 3.º e 5.º da alínea 2) deste artigo.
+
+§ único. Os filhos a que se refere o n.º 1.º da alínea 2) são, quando a cargo do subscritor, os filhos menores e os maiores com incapacidade mental, os estudantes com menos de 25 anos, as filhas solteiras maiores e as filhas viúvas, divorciadas ou separadas judicialmente.
+
+Art. 73.º (transitório). As declarações dos actuais subscritores feitas ao abrigo do regime estabelecido nos Decretos n.os 14589, de 18 de Novembro de 1927, e 22199, de 15 de Fevereiro de 1933, serão cumpridas segundo o disposto no presente estatuto, se for possível e na medida em que o for; no caso contrário, serão nulas e de nenhum efeito.
+
+Art. 2.º As contribuições dos subscritores (quotas e adicionais) são arredondadas para a unidade imediatamente superior de escudos, e para as contribuições mensais inferiores a 14$00, para oficiais, e a 8$00, para outros subscritores, o arredondamento é feito por essas importâncias.
+
+Art. 3.º Os actuais subscritores têm direito a um adicional ao subsídio correspondente à importância do arredondamento, calculado pela tábua Hm 3 por cento, com base na idade do subscritor a data do início do arredondamento e concedido em conformidade com o disposto no artigo 13.º, seu § único, artigo 14.º e outras disposições do estatuto que a direcção entenda dever aplicar.
+
+Art. 4.º Na relação dos descontos a que se refere o § 2.º do artigo 20.º do estatuto apenas se passam a mencionar as totalidades das contribuições (quotas, adicionais e arredondamento) dos subscritores, modificando-se em conformidade o impresso modelo II do estatuto, que será remetido em triplicado ao Cofre de Previdência das Forcas Armadas.
+
+§ 1.º Para efeitos do cálculo das receitas do Fundo de administração e do Fundo do Cofre determinam-se as percentagens médias das contribuições que correspondem a essas receitas, com base no orçamento.
+
+§ 2.º Para efeito do cálculo dos acréscimos aos subsídios provenientes dos lucros a esse fim destinados é considerada a contribuição efectivamente entregue pelo subscritor (quota, adicional e arredondamento).
+
+Art. 5.º Os subscritores abrangidos pela alínea b) do artigo 20.º do estatuto pagam as contribuições adiantadamente por anos, semestres ou trimestres, sempre que se verifique que estão em condições de o fazer.
+
+Art. 6.º A publicação dos éditos no Diário do Governo a que se referem os artigos 29.º e 32.º do estatuto é gratuita.
+
+Art. 7.º As rendas das casas pertencentes ao Cofre são pagas pelos militares por descontos feitos nos respectivos vencimentos ou pensões abonadas pelos conselhos administrativos das forças armadas, pelas repartições competentes dos diferentes Ministérios e serviços públicos e pela Caixa Geral de Aposentações.
+
+§ único. De forma análoga são pagas as mensalidades para liquidação dos empréstimos feitos pela Caixa Económica do extinto Cofre de Previdência dos Sargentos de Terra e Mar.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 10 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

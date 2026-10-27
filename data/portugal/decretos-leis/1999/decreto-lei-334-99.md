@@ -1,0 +1,281 @@
+---
+schema_version: '1.0'
+id: pt:dre:434008:por
+title: Decreto-Lei n.º 334/99
+short_title: null
+summary: Extingue o Gabinete para a Pesquisa e Exploração de Petróleo e altera o artigo 5.º do Decreto-Lei n.º 122/93, de
+  16 de Abril, e os artigos 8.º e 30.º do Decreto-Lei n.º 222/96, de 25 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 334/99
+official_date: null
+publication_date: '1999-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/1999, Série I-A de 1999-08-20
+  number: '194'
+  series: I
+  supplement: null
+  pages: 5557 - 5559
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/194a00/55575559.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/334/1999/08/20/p/dre/pt/html
+  oj: null
+  dre: '434008'
+  dre_path: /dr/detalhe/decreto-lei/334-1999-434008
+  internal: pt:dre:434008:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1999-434008
+  metadata_url: https://data.dre.pt/eli/dec-lei/334/1999/08/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1999-434008
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3406771019a3def5de6d3d7844983c25493b528b23f7911e3f460e325f4dd95f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Diretivo
+- Definição de Competências
+- Extinção de Serviços
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Gestão de Recursos Humanos
+- Instituto Geológico e Mineiro
+- Instituto Público
+- Integração de Trabalhadores
+- Ministro da Economia
+- Ministro das Finanças
+- Nomeação
+- Orgânica
+- Pessoal Dirigente
+- Presidente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Recursos Geológicos
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:654681:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
+- type: cites
+  target: pt:dre:139954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151505:por
+  label: null
+  source: http://data.dre.pt/eli/port/1326/1993/12/31/p/dre
+- type: cites
+  target: pt:dre:168625:por
+  label: null
+  source: http://data.dre.pt/eli/port/142/1992/03/05/p/dre
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre
+- type: cites
+  target: pt:dre:259699:por
+  label: null
+  source: http://data.dre.pt/eli/port/184/1994/03/31/p/dre
+- type: cites
+  target: pt:dre:573555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690983:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/122/1993/04/16/p/dre
+- type: repealed_by
+  target: pt:dre:654681:por
+  label: "Revogado pelo DEC LEI.186/2003.2003.08.20.MECO DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2003-654681
+  date: '2003-08-20'
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:10:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 334/99
+
+de 20 de Agosto
+
+Na sequência do processo de modernização do Ministério da Economia, iniciado com a publicação do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro, vários têm sido os sectores estratégicos a merecer uma crescente atenção por parte do Governo, quer no sentido de promover a sua melhor adequação às novas realidades, quer pelo reconhecimento da necessidade de imprimir uma nova dinâmica à actuação de alguns serviços, aumentando a sua eficácia e operacionalidade, ao mesmo tempo que se promove a racionalização dos seus recursos, contribuindo, assim, também para a contenção das despesas públicas.
+
+São, pois, esses os motivos que levam à extinção do Gabinete para a Pesquisa e Exploração de Petróleo, promovendo-se a transição das suas atribuições, nomeadamente aquelas que se prendem com a gestão dos recursos geológicos do domínio público (petróleo, recursos minerais e hidrominerais), para o Instituto Geológico e Mineiro.
+
+Para além disso, o facto de se centralizar num único organismo as competências anteriormente referidas simplifica as relações entre a Administração e os promotores de projectos de prospecção, pesquisa, avaliação, desenvolvimento e exploração daqueles recursos, indo também, do mesmo modo, beneficiar as acções técnico-científicas de promoção da actividade para a generalidade dos recursos geológicos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Extinção
+
+É extinto o Gabinete para a Pesquisa e Exploração de Petróleo (GPEP), criado pelo [Decreto-Lei n.º 156/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1977-139954), de 15 de Abril, e regulamentado pelo [Decreto Regulamentar n.º 23/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1990-573555), de 7 de Agosto, rectificado conforme declaração publicada no Diário da República, 1.ª série, n.º 226, de 29 de Setembro de 1990.
+
+###### Artigo 2.º — Competências e atribuições
+
+São transferidas para o Instituto Geológico e Mineiro (IGM), criado pelo [Decreto-Lei n.º 122/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1993-690983), de 16 de Abril, as competências e atribuições cometidas ao GPEP pelo artigo 31.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro.
+
+###### Artigo 3.º — Transição de pessoal
+
+1 - Os funcionários providos no quadro de pessoal do GPEP, constante do mapa I anexo ao [Decreto Regulamentar n.º 23/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1990-573555), de 7 de Agosto, alterado pelas Portarias n.os [142/92](https://diariodarepublica.pt/dr/detalhe/portaria/142-1992-168625), de 5 de Março, [184/94](https://diariodarepublica.pt/dr/detalhe/portaria/184-1994-259699), publicada no Diário da República, 2.ª série, n.º 288, de 15 de Dezembro de 1994, e 1015/95, de 21 de Agosto, transitam, por lista nominativa a publicar no Diário da República, para o quadro de pessoal do IGM, aprovado pela [Portaria n.º 1326/93](https://diariodarepublica.pt/dr/detalhe/portaria/1326-1993-151505), de 31 de Dezembro, que, para o efeito, deverá ser alargado em conformidade.
+
+2 - A transição a que se refere o número anterior far-se-á nos termos do disposto nos n.os 3, 4 e 5 do artigo 45.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro.
+
+###### Artigo 4.º — Comissões de serviço
+
+Com a entrada em vigor do presente diploma cessam as comissões de serviço do pessoal dirigente.
+
+###### Artigo 5.º — Situações especiais
+
+1 - O pessoal que se encontre na situação de licença sem vencimento mantém os direitos de que era titular à data de início da respectiva licença, sendo-lhe aplicável o regime previsto no [Decreto-Lei n.º 100/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1999-138777), de 31 de Março.
+
+2 - Sem prejuízo do disposto no artigo 3.º, mantêm-se válidas as situações de requisição, destacamento e comissão de serviço do pessoal do GPEP noutros organismos e destes no GPEP, nos termos que vierem a ser determinados no despacho a que se refere o n.º 1 do artigo 8.º do presente diploma.
+
+3 - O pessoal que, à data da entrada em vigor do presente diploma, se encontre em regime de estágio mantém-se nessa situação até à conclusão do mesmo, devendo, se necessário, ser nomeado um novo júri ou proceder-se à substituição de elementos desse júri, o qual terá a seu cargo a avaliação e classificação final.
+
+4 - Mantêm-se válidos os concursos abertos à data da entrada em vigor do presente diploma, devendo entender-se que se destinam ao preenchimento de lugares da mesma carreira e igual categoria do quadro do pessoal do IGM.
+
+5 - Mantêm-se, igualmente, válidos os contratos de pessoal ainda em vigor.
+
+###### Artigo 6.º — Sucessão aos direitos e obrigações
+
+1 - O IGM sucede nos direitos e obrigações anteriormente na titularidade do GPEP.
+
+2 - Consideram-se como sendo feitas ao IGM as referências ao GPEP efectuadas em diplomas legais, contratos ou quaisquer outros actos.
+
+###### Artigo 7.º — Providências orçamentais
+
+1 - Transitam para o IGM os saldos das verbas orçamentais atribuídas ao GPEP após as devidas alterações orçamentais.
+
+2 - Os encargos financeiros com os funcionários a integrar no IGM, nos termos do n.º 1 do artigo 3.º, continuam a ser suportados pelo orçamento do GPEP até à efectivação das necessárias alterações orçamentais.
+
+###### Artigo 8.º — Regulamentação
+
+1 - A transição necessária dos meios humanos, financeiros e físicos para o IGM na sequência da extinção do GPEP a que se refere o artigo 1.º é feita por despacho do Ministro da Economia.
+
+2 - As atribuições, organização e regime de funcionamento do IGM são fixados por decreto regulamentar.
+
+3 - O quadro de pessoal é aprovado por portaria conjunta dos Ministros das Finanças e da Economia e do membro do Governo que tutela a Administração Pública.
+
+###### Artigo 9.º — Alteração de redacção
+
+O artigo 5.º do [Decreto-Lei n.º 122/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1993-690983), de 16 de Abril, que criou o Instituto Geológico e Mineiro, passa a ter a seguinte redacção:
+
+«Artigo 5.º
+
+Composição
+
+1 - O conselho directivo é constituído por um presidente e quatro vice-presidentes, nomeados por despacho conjunto do Primeiro-Ministro e do ministro da tutela.
+
+2 - ...»
+
+###### Artigo 10.º — Alteração de redacção
+
+Os artigos 8.º e 30.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro, que aprovou a Lei Orgânica do Ministério da Economia, passam a ter a seguinte redacção:
+
+«Artigo 8.º
+
+Organismos sob tutela
+
+Funcionam sob tutela do Ministro da Economia:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) [Antiga alínea j).]
+
+Artigo 30.º
+
+Instituto Geológico e Mineiro
+
+1 - O Instituto Geológico e Mineiro (IGM) é um instituto público vocacionado para o conhecimento e investigação da infra-estrutura geológica e hidrogeológica do território e da área submersa sob jurisdição nacional e para estudos de revelação, aproveitamento, protecção e valorização dos seus recursos geológicos, incluindo os petrolíferos, numa perspectiva de desenvolvimento económico sustentado, cabendo-lhe ainda colaborar na concepção e execução de políticas nestes domínios, através do exercício das seguintes atribuições:
+
+a) Produzir, interpretar, gerir e difundir a informação geológica, hidrogeológica e sobre os recursos geológicos, incluindo os recursos petrolíferos, relativa ao território nacional e à área sob jurisdição nacional, como missão de serviço público desenvolvida no interesse dos seus utilizadores e beneficiários;
+
+b) Promover e realizar investigação no domínio das geociências, visando o conhecimento geológico sistemático do território da área submersa e a sua aplicação ao desenvolvimento económico, à preservação do ambiente e à qualidade de vida;
+
+c) Propor legislação reguladora da actividade e velar pelo seu cumprimento;
+
+d) Executar acções de fomento da exploração e valorização dos recursos geológicos nacionais e apoiar actividades empresariais do sector extractivo, visando a melhoria da sua capacidade competitiva;
+
+e) Propor orientações no domínio da utilização dos recursos geológicos;
+
+f) Conduzir a negociação e preparação dos contratos administrativos de outorga de direitos sobre recursos geológicos do domínio público.
+
+2 - O IGM é um instituto público dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.»
+
+###### Artigo 11.º — Norma revogatória
+
+É revogado o artigo 31.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro, bem como as disposições legais e regulamentares que contrariem o presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 1 de Julho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura.
+
+Promulgado em 4 de Agosto de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 12 de Agosto de 1999.
+
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

@@ -1,0 +1,423 @@
+---
+schema_version: '1.0'
+id: pt:dre:575550:por
+title: Decreto-Lei n.º 62/2005
+short_title: null
+summary: Transpõe para a ordem jurídica interna a Directiva n.º 2003/48/CE, do Conselho, de 3 de Junho, relativa à tributação
+  dos rendimentos da poupança sob a forma de juros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 62/2005
+official_date: null
+publication_date: '2005-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2005, Série I-A de 2005-03-11
+  number: '50'
+  series: I
+  supplement: null
+  pages: 2162 - 2167
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/03/050a00/21622167.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/62/2005/03/11/p/dre/pt/html
+  oj: null
+  dre: '575550'
+  dre_path: /dr/detalhe/decreto-lei/62-2005-575550
+  internal: pt:dre:575550:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2005-575550
+  metadata_url: https://data.dre.pt/eli/dec-lei/62/2005/03/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2005-575550
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:51:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c5af3448cd3d8ba11972245ffcd17fb4b15641b35dfc3d4ae97877a63c1fd75d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Aproximação das Legislações
+- Benefícios Fiscais
+- Cobrança de Impostos
+- Código do IRS
+- Definição de Competências
+- Direcção Geral dos Impostos
+- IRS
+- Juros
+- Nacional das Comunidades
+- Pessoa Singular
+- Política Fiscal
+- Tributação
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:912653926:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o artigo 15.º e aditado o artigo 15.º-A, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 78º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, alterado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterado o art. 78º do Código IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, - revisto e republicado pelo Dec Lei\
+    \ 198/2001, de 03-Jul -, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 78.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:344257:por
+  label: "Alterado o art. 1º pela LEI.37/2010.02.09.2010.AR, DR.IS [171] de 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2010-344257
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 78º do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado pelo Dec Lei 442-A/88,\
+    \ de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 78º do Código do IRS, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl]\
+    \ de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 78º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-nov, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 78º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterado o art. 78.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma,
+    pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: cites
+  target: celex:31980L0390
+  label: null
+  source: http://data.europa.eu/eli/dir/1980/390/oj
+- type: cites
+  target: celex:31985L0611
+  label: null
+  source: http://data.europa.eu/eli/dir/1985/611/oj
+- type: cites
+  target: celex:31991L0308
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/308/oj
+- type: cites
+  target: celex:32003L0048
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/48/oj
+- type: repealed_by
+  target: pt:dre:912653926:por
+  label: Revogado, a partir de 1 de julho de 2025, pelo(a) Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série
+    I de 2025-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2025-912653926
+  date: '2025-03-27'
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:51:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 62/2005
+
+de 11 de Março
+
+A ausência de coordenação dos regimes fiscais nacionais aplicáveis aos rendimentos da poupança sob a forma de juros, e designadamente no que se refere ao tratamento destes rendimentos quando auferidos por não residentes, possibilita que residentes de Estados membros da União Europeia evitem qualquer forma de tributação nesse Estado membro relativamente a rendimentos oriundos de outros Estados membros. Esta situação é susceptível de criar distorções ao nível dos movimentos de capitais entre Estados membros, as quais são incompatíveis com o mercado interno.
+
+Neste contexto, o Conselho da União Europeia adoptou a Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho, relativa à tributação dos rendimentos da poupança sob a forma de juros, a qual prevê a instituição de um mecanismo de troca de informações entre Estados membros relativas aos pagamentos de rendimentos da poupança sob a forma de juros aplicável aos pagamentos efectuados ou atribuídos por operadores económicos estabelecidos nos Estados membros a beneficiários efectivos que sejam pessoas singulares residentes noutro Estado membro. O objectivo final desta directiva consiste em permitir que tais rendimentos pagos num Estado membro a beneficiários efectivos que sejam pessoas singulares residentes noutro Estado membro sejam sujeitos a uma tributação efectiva em conformidade com a legislação deste último Estado membro.
+
+O presente diploma transpõe esta directiva para a ordem jurídica interna, estabelecendo as obrigações de obtenção e prestação de informações relativas aos rendimentos da poupança sob a forma de juros pagos ou atribuídos por operadores económicos residentes ou estabelecidos em território português em benefício efectivo de pessoas singulares residentes noutros Estados membros da União Europeia.
+
+Nos termos do artigo 2.º do presente decreto-lei, considera-se agente pagador qualquer operador económico que pague ou atribua rendimentos da poupança sob a forma de juros, conforme definidos no artigo 4.º, em proveito imediato do beneficiário efectivo, tal como definido no artigo 5.º, independentemente de esse operador ser o devedor daqueles rendimentos ou o operador encarregado, pelo devedor ou pelo beneficiário efectivo, de pagar ou atribuir aqueles rendimentos.
+
+Por sua vez, os artigos 6.º e 7.º estipulam, respectivamente, as regras para a determinação da identificação e do lugar de residência do beneficiário efectivo.
+
+Os artigos 8.º e 9.º determinam os elementos que os agentes pagadores e os operadores económicos devem transmitir à administração tributária, os quais, de acordo com o disposto no artigo 10.º, são objecto de comunicação às autoridades competentes do Estado membro de residência do beneficiário efectivo.
+
+Com o objectivo de evitar perturbações nos mercados financeiros, e de acordo com o previsto na directiva, o estipulado no presente decreto-lei não se aplica, durante o período transitório, aos pagamentos de juros relativos aos títulos de dívida negociáveis referidos no artigo 12.º
+
+Por outro lado, atendendo a que, durante o período transitório, a Bélgica, o Luxemburgo e a Áustria podem não aplicar a troca automática de informações e optar pela aplicação aos rendimentos da poupança abrangidos pela directiva de uma taxa de retenção que aumentará progressivamente até 35% e cujas receitas são, na sua maior parte, transferidas para os Estados membros de residência dos beneficiários efectivos, estabelece-se que as quantias retidas pelo agente pagador ao abrigo do artigo 11.º da directiva são dedutíveis à colecta, nos termos do n.º 2 do artigo 78.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, assim garantindo a supressão de qualquer dupla tributação eventualmente resultante da aplicação dessa retenção.
+
+Por último, condiciona-se a entrada em vigor do presente regime à observância do disposto no artigo 17.º da directiva, de forma a salvaguardar o risco de deslocalização de capitais.
+
+Foi ouvida a Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo n.º 1 do artigo 32.º da Lei n.º 107-B/2003, de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho, relativa à tributação dos rendimentos da poupança sob a forma de juros, estabelecendo o regime de obtenção e prestação de informações pelos agentes pagadores relativamente aos rendimentos da poupança sob a forma de juros de que sejam beneficiárias efectivas pessoas singulares residentes noutro Estado membro da União Europeia.
+
+###### Artigo 2.º — Definição de agente pagador
+
+1 - Para efeitos do presente diploma, considera-se agente pagador qualquer operador económico residente ou estabelecido em território português que, no exercício da sua actividade, paga ou atribui rendimentos da poupança sob a forma de juros, tal como definidos no artigo 4.º, em proveito imediato do beneficiário efectivo, independentemente de esse operador ser o devedor daqueles rendimentos ou o operador mandatado, pelo devedor ou pelo beneficiário efectivo, para pagar ou atribuir o pagamento daqueles rendimentos.
+
+2 - Consideram-se agentes pagadores, designadamente:
+
+a) As pessoas colectivas de direito público ou privado com sede ou direcção efectiva em território português;
+
+b) Os organismos de investimento colectivo em valores mobiliários autorizados nos termos da Directiva n.º [85/611/CEE](https://data.europa.eu/eli/dir/1985/611/oj?locale=pt), de 20 de Dezembro, estabelecidos em território português;
+
+c) Os demais sujeitos passivos de imposto sobre o rendimento das pessoas colectivas (IRC) com sede ou direcção efectiva em território português que exerçam a título principal uma actividade de natureza comercial, industrial ou agrícola;
+
+d) Os estabelecimentos estáveis situados em território português de entidades, com ou sem personalidade jurídica, que não tenham sede nem direcção efectiva em território português;
+
+e) As pessoas singulares, residentes em território português, no exercício de uma actividade empresarial ou profissional.
+
+###### Artigo 3.º — Entidades equiparadas
+
+1 - São igualmente consideradas agentes pagadores as entidades desprovidas de personalidade jurídica que não sejam abrangidas pelas alíneas c) e d) do n.º 2 do artigo anterior, aquando do recebimento de rendimentos da poupança sob a forma de juros em proveito de beneficiários efectivos, tal como definidos no presente diploma.
+
+2 - As entidades referidas no número anterior podem optar, mediante declaração de modelo oficial, pela comunicação das informações referidas no artigo 8.º, quando tais rendimentos sejam efectivamente pagos ou colocados à disposição do respectivo beneficiário efectivo.
+
+3 - O exercício da opção referida no número anterior é objecto de um certificado de modelo oficial que deve ser entregue por essas entidades ao operador económico que lhes pague ou atribua rendimentos da poupança sob a forma de juros.
+
+###### Artigo 4.º — Rendimentos da poupança sob a forma de juros
+
+1 - Consideram-se rendimentos da poupança sob a forma de juros, para efeitos do presente regime:
+
+a) Os juros decorrentes de contratos de mútuo, abertura de crédito, reporte e outros que proporcionem, a título oneroso, a disponibilidade temporária de dinheiro;
+
+b) Os juros derivados de depósitos, em qualquer modalidade, em instituições financeiras;
+
+c) Os juros de certificados de depósitos;
+
+d) Os juros, os prémios de amortização ou de reembolso de títulos da dívida pública, os títulos de participação, os certificados de consignação, as obrigações de caixa ou outros títulos análogos emitidos por entidades públicas ou privadas e demais instrumentos de aplicação financeira, designadamente letras, livranças e outros títulos de crédito negociáveis, enquanto utilizados como tais;
+
+e) O saldo dos juros apurados em conta corrente;
+
+f) Os juros de suprimentos, abonos ou adiantamentos de capital feitos pelos sócios às sociedades;
+
+g) Os juros devidos pelo facto de os sócios não levantarem os lucros ou remunerações colocados à sua disposição;
+
+h) Os juros pagos ou atribuídos pelas seguintes entidades:
+
+i) Organismos de investimento colectivo em valores mobiliários, autorizados nos termos da Directiva n.º [85/611/CEE](https://data.europa.eu/eli/dir/1985/611/oj?locale=pt), de 20 de Dezembro;
+
+ii) Entidades que exerçam a opção referida no n.º 2 do artigo 3.º;
+
+iii) Organismos de investimento colectivo estabelecidos fora do território em que o Tratado da Comunidade Europeia é aplicável nos termos do seu artigo 299.º;
+
+i) Os rendimentos obtidos aquando da cessão, do reembolso ou do resgate de partes ou unidades de participação nas entidades referidas na alínea anterior, quando estas tenham investido, directa ou indirectamente, por intermédio das mesmas entidades, mais de 40% do respectivo activo em créditos e outras aplicações que gerem rendimentos previstos nas alíneas a) a e).
+
+2 - Os juros referidos na alínea d) do n.º 1 compreendem os juros contáveis desde a data do último vencimento ou da emissão, primeira colocação ou endosso, se ainda não houver ocorrido qualquer vencimento, até à data em que ocorra alguma transmissão dos respectivos créditos, bem como a diferença, pela parte correspondente àqueles períodos, entre o valor de reembolso e o preço de emissão, nos casos em que a remuneração seja constituída, total ou parcialmente, por essa diferença.
+
+3 - Estão excluídos, para efeitos da alínea h) do n.º 1, os rendimentos provenientes dos organismos ou entidades aí referidos cujos investimentos em créditos e outras aplicações que gerem rendimentos previstos nas alíneas a) a e) do mesmo número não excedam 15% do respectivo activo.
+
+4 - Estão excluídos os rendimentos referidos na alínea i) do n.º 1 na proporção em que não correspondam a rendimentos que, directa ou indirectamente, provenham de pagamentos de juros previstos nas alíneas a) a e) do mesmo número.
+
+5 - As percentagens referidas na alínea i) do n.º 1 e no n.º 3 são determinadas em função da política de investimento tal como definida no regulamento ou nos documentos constitutivos das entidades aí referidas ou, na sua falta, em função da composição, avaliada em termos de média anual, dos activos dessas entidades no exercício fiscal anterior ao da cessão, do reembolso ou do resgate, considerando-se, na ausência destes elementos, que as mesmas são superiores aos limiares referidos.
+
+6 - Para efeitos das alíneas h) e i) do n.º 1, sempre que não seja possível determinar a parte dos rendimentos provenientes de juros e outras vantagens económicas referidos nas alíneas a) a e) do n.º 1, considera-se que corresponde ao montante total dos rendimentos.
+
+7 - A partir de 1 de Janeiro de 2011, a percentagem a que se refere a alínea i) do n.º 1 passa a ser de 25%.
+
+###### Artigo 5.º — Definição de beneficiário efectivo
+
+1 - Para efeitos do presente regime, entende-se por «beneficiário efectivo» qualquer pessoa singular que recebe ou a quem são atribuídos rendimentos da poupança sob a forma de juros, tal como definidos no artigo 4.º
+
+2 - Fica, porém, excluída do âmbito do n.º 1 a pessoa singular que, quando recebe ou lhe são atribuídos rendimentos referidos no número anterior, prove que actua:
+
+a) Como agente pagador, nos termos do artigo 2.º;
+
+b) Por conta de uma pessoa colectiva, de uma entidade estabelecida noutro Estado membro da União Europeia cujos lucros sejam tributáveis no quadro das disposições de direito comum sobre a tributação das empresas, de um organismo de investimento colectivo em valores mobiliários autorizado nos termos da Directiva n.º [85/611/CEE](https://data.europa.eu/eli/dir/1985/611/oj?locale=pt), de 20 de Dezembro, da respectiva entidade gestora quando actua por conta deste ou, ainda, de uma das entidades referidas nas alíneas c) ou d) do artigo 2.º;
+
+c) Por conta de uma entidade das referidas no artigo 3.º ou no artigo 9.º, desde que revele o nome e o endereço dessa entidade ao agente pagador, o qual, por sua vez, deve transmitir, por declaração de modelo oficial, esta informação à Direcção-Geral dos Impostos;
+
+d) Por conta de outra pessoa singular que seja beneficiária efectiva, desde que comunique ao agente pagador a identidade do beneficiário efectivo, em conformidade com o disposto no artigo 6.º
+
+3 - Caso o agente pagador tenha conhecimento ou fundadamente suspeite que a pessoa singular que recebe ou a quem são atribuídos rendimentos da poupança sob a forma de juros não é o beneficiário efectivo, e caso essa pessoa não seja abrangida pelas alíneas a) a c) do n.º 2, deve procurar determinar a identidade do beneficiário efectivo, designadamente através da obtenção junto dessa pessoa singular das informações necessárias para determinar a identidade do beneficiário efectivo, em conformidade com o artigo 6.º
+
+4 - Caso não seja possível identificar o beneficiário efectivo nos termos do número anterior, o agente pagador deve considerar essa pessoa singular como o beneficiário efectivo.
+
+###### Artigo 6.º — Identificação dos beneficiários efectivos
+
+1 - O agente pagador deve determinar a identidade do beneficiário efectivo da seguinte forma:
+
+a) Para as relações contratuais estabelecidas antes de 1 de Janeiro de 2004, através do seu nome e endereço, com base nas informações de que dispõe, nomeadamente em aplicação da legislação de transposição da Directiva n.º [91/308/CEE](https://data.europa.eu/eli/dir/1991/308/oj?locale=pt), de 10 de Junho, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais, actualmente constante da Lei n.º 11/2004, de 27 de Março;
+
+b) Para as relações contratuais estabelecidas ou, na ausência destas, para as transacções efectuadas a partir de 1 de Janeiro de 2004, através do seu nome, endereço e, caso exista, número de identificação fiscal atribuído pelo Estado membro de residência fiscal, com base no passaporte ou no bilhete de identidade oficial apresentado pelo beneficiário efectivo.
+
+2 - Para efeitos da alínea b) do número anterior:
+
+a) Se o endereço não constar dos documentos aí referidos, é determinado como base em qualquer documento comprovativo apresentado pelo beneficiário efectivo;
+
+b) Se o número de identificação fiscal não constar dos documentos aí referidos, do certificado de residência fiscal nem de qualquer outro documento comprovativo apresentado pelo beneficiário efectivo, a identidade é completada pela menção da data e do local de nascimento do beneficiário efectivo determinados com base no seu passaporte ou bilhete de identidade oficial.
+
+###### Artigo 7.º — Determinação do local de residência dos beneficiários efectivos
+
+1 - Sem prejuízo do disposto nos números seguintes, considera-se que a residência do beneficiário efectivo se situa no país em que o mesmo tem o seu domicílio permanente.
+
+2 - O agente pagador deve determinar o local de residência do beneficiário efectivo da seguinte forma:
+
+a) Para as relações contratuais estabelecidas antes de 1 de Janeiro de 2004, com base nas informações de que dispõe, nomeadamente em aplicação da legislação de transposição da Directiva n.º [91/308/CEE](https://data.europa.eu/eli/dir/1991/308/oj?locale=pt), de 10 de Junho, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais, actualmente constante da Lei n.º 11/2004, de 27 de Março;
+
+b) Para as relações contratuais estabelecidas ou, na ausência destas, para as transacções efectuadas a partir de 1 de Janeiro de 2004, com base no passaporte ou no bilhete de identidade ou, se necessário, em qualquer outro documento comprovativo apresentado pelo beneficiário efectivo.
+
+3 - No caso de pessoas singulares que apresentem passaporte ou bilhete de identidade emitido por um Estado membro e declarem ser residentes num país terceiro, a residência deve ser determinada com base em certificado de residência fiscal emitido pela autoridade competente deste país.
+
+4 - Na falta de apresentação do certificado referido no número anterior, considera-se que a residência do beneficiário efectivo se situa no Estado membro que emitiu o passaporte ou o bilhete de identidade.
+
+###### Artigo 8.º — Obrigações de comunicação
+
+1 - Sempre que o beneficiário efectivo seja residente noutro Estado membro, o agente pagador comunica à Direcção-Geral dos Impostos os seguintes elementos:
+
+a) Identidade e residência do beneficiário efectivo, determinadas em conformidade com o disposto nos artigos 6.º e 7.º;
+
+b) Nome ou denominação e endereço do agente pagador;
+
+c) Número de conta do beneficiário efectivo ou, na sua falta, identificação do crédito ou de outras aplicações geradoras dos rendimentos referidos no n.º 1 do artigo 4.º;
+
+d) Os montantes dos rendimentos abrangidos pelo artigo 4.º
+
+2 - Os elementos referidos no número anterior são comunicados à Direcção-Geral dos Impostos através de declaração de modelo oficial.
+
+3 - Quando forem pagos ou atribuídos rendimentos da poupança sob a forma de juros a uma entidade referida no n.º 1 do artigo 3.º que não tenha exercido a opção prevista no n.º 2 desse artigo, esta deve comunicar, de acordo com os procedimentos previstos nos n.os 1 e 2, o montante dos rendimentos que cabe a cada pessoa singular abrangida pelo n.º 1 do artigo 5.º que seja residente noutro Estado membro.
+
+###### Artigo 9.º — Outras obrigações de comunicação
+
+1 - Os operadores económicos residentes ou estabelecidos em território português que, no exercício da sua actividade, paguem ou atribuam rendimentos da poupança sob a forma de juros a entidades estabelecidas noutro Estado membro que não sejam pessoas colectivas, com excepção das referidas no n.º 5 do artigo 4.º da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho, cujos lucros não sejam tributáveis no quadro de disposições de direito comum sobre a tributação das empresas, nem sejam organismos de investimento colectivo em valores mobiliários autorizados nos termos da Directiva n.º [85/611/CEE](https://data.europa.eu/eli/dir/1985/611/oj?locale=pt), de 20 de Dezembro, devem comunicar à Direcção-Geral dos Impostos, através de declaração de modelo oficial, o nome e o endereço dessas entidades, bem como o montante total dos rendimentos abrangidos pelo artigo 4.º
+
+2 - Os operadores económicos devem considerar compreendida no número anterior qualquer entidade que não apresente elementos comprovativos oficiais bastantes para verificação das situações referidas naquele número.
+
+3 - O disposto no n.º 1 não se aplica desde que a entidade beneficiária de rendimentos da poupança sob a forma de juros apresente um certificado, nos termos do n.º 3 do artigo 4.º da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho, emitido pelo Estado membro em que se encontra estabelecida.
+
+###### Artigo 10.º — Troca automática de informações
+
+1 - A Direcção-Geral dos Impostos comunica as informações referidas no artigo 8.º à autoridade competente do Estado membro de residência do beneficiário efectivo, nos termos e condições previstos no artigo 9.º da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho.
+
+2 - A Direcção-Geral dos Impostos comunica ainda as informações referidas no artigo 9.º à autoridade competente do Estado membro em que se encontram estabelecidas as entidades aí referidas.
+
+###### Artigo 11.º — Certificado para isenção da retenção
+
+1 - Para efeitos de aplicação da isenção da retenção prevista na alínea b) do n.º 1 do artigo 13.º da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho, a Direcção-Geral dos Impostos emite, mediante requerimento prévio, um certificado contendo os seguintes elementos:
+
+a) Nome, endereço e número de identificação fiscal;
+
+b) Nome ou denominação e endereço do agente pagador;
+
+c) Número de conta do sujeito passivo ou, na sua falta, identificação do título de crédito.
+
+2 - O certificado referido no número anterior deve ser passado a qualquer beneficiário efectivo que o solicite no prazo máximo de dois meses, a contar da data da apresentação do respectivo requerimento, e é válido pelo período de um ano.
+
+###### Artigo 12.º — Títulos de dívida negociáveis
+
+1 - Não são abrangidos pelo presente regime os rendimentos provenientes de obrigações e outros títulos de dívida negociáveis, nacionais ou estrangeiros, cuja emissão inicial seja anterior a 1 de Março de 2001 ou cujos prospectos iniciais tenham sido visados antes dessa data pelas autoridades competentes na acepção da Directiva n.º [80/390/CEE](https://data.europa.eu/eli/dir/1980/390/oj?locale=pt), de 27 de Março, ou pelas autoridades competentes em países terceiros, desde que não se tenha realizado ou venha a realizar qualquer nova emissão desses títulos desde 1 de Março de 2002.
+
+2 - Se, a partir de 1 de Março de 2002, se tiver realizado ou vier a realizar uma nova emissão relativa aos títulos referidos no número anterior por uma administração pública, bem como por uma entidade afim ou cuja função seja reconhecida num tratado internacional, conforme consta do anexo da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho, todos os rendimentos provenientes das emissões desses títulos, quer da emissão inicial quer de qualquer emissão adicional, ficam abrangidos pelo presente regime.
+
+3 - Se, a partir de 1 de Março de 2002, se tiver realizado ou vier a realizar uma nova emissão de um dos títulos referidos no n.º 1 por entidade não abrangida pelo número anterior, essa emissão é considerada como emissão de um novo título, ficando os rendimentos dela provenientes abrangidos pelo presente regime.
+
+4 - As disposições do presente artigo vigorarão durante o período de transição referido no artigo 10.º da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho, ou até 31 de Dezembro de 2010, caso aquele período se prolongue para além desta data.
+
+###### Artigo 13.º — Declarações e certificados
+
+Os modelos de declarações e certificados referidos nos n.os 2 e 3 do artigo 3.º, na alínea c) do n.º 2 do artigo 5.º, no n.º 2 do artigo 8.º, no n.º 1 do artigo 9.º e no artigo 11.º são aprovados por portaria do Ministro das Finanças e da Administração Pública, a qual define as especificações dos modelos, procedimentos e prazos para a respectiva entrega.
+
+###### Artigo 14.º — Regime aplicável às infracções ao presente diploma
+
+É aplicável às infracções ao disposto nos artigos 6.º, 7.º, 8.º e 9.º deste diploma o regime geral das infracções tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho.
+
+###### Artigo 15.º — Aplicação a outros Estados ou territórios
+
+Aplica-se o presente regime, com as necessárias adaptações, aos rendimentos da poupança sob a forma de juros de que sejam beneficiárias efectivas pessoas singulares residentes em Estados terceiros ou noutros territórios com os quais Portugal celebre acordos ou convénios que visem permitir que tais rendimentos sejam sujeitos a uma tributação efectiva em conformidade com a legislação aplicável no Estado ou território de residência do beneficiário efectivo.
+
+###### Artigo 16.º — Alteração ao Código do IRS
+
+O artigo 78.º do Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, passa a ter a seguinte redacção:
+
+«Artigo 78.º
+
+Deduções à colecta
+
+1 - ...
+
+2 - São ainda deduzidos à colecta os pagamentos por conta do imposto e as importâncias retidas na fonte que tenham aquela natureza, respeitantes ao mesmo período de tributação, bem como as retenções efectuadas ao abrigo do artigo 11.º da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho.
+
+3 - ...
+
+4 - ...»
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente regime entra em vigor em 1 de Julho de 2005, desde que se mostre observado o disposto no artigo 17.º da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), de 3 de Junho.
+
+Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Victor Martins Monteiro.
+
+Promulgado em 7 de Janeiro de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 19 de Janeiro de 2005.
+
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

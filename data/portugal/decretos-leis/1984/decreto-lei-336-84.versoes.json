@@ -1,0 +1,834 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400198:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-890051583",
+ "dre_path": "/dr/detalhe/decreto-lei/336-1984-400198",
+ "source_lastmod": "2024-10-04",
+ "versions": [
+  {
+   "date": "1984-10-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890050126",
+    "890050127",
+    "890050128",
+    "890050129",
+    "890050130",
+    "890050131",
+    "890050133",
+    "890050134",
+    "890050135",
+    "890050136",
+    "890050137",
+    "890050138",
+    "890050139",
+    "890050140",
+    "890050141",
+    "890050142",
+    "890050143",
+    "890050144",
+    "890050145",
+    "890050146",
+    "890050147",
+    "890050148",
+    "890050149",
+    "890050150",
+    "890050151",
+    "890050152",
+    "890050153",
+    "890050154",
+    "890050155",
+    "890050156",
+    "890050157",
+    "890050158",
+    "890050159",
+    "890050160",
+    "890050161",
+    "890050162",
+    "890050163",
+    "890050164",
+    "890050165",
+    "890050166",
+    "890050167",
+    "890050168",
+    "890050169",
+    "890050170",
+    "890050171",
+    "890050172",
+    "890050173",
+    "890050174",
+    "890051675",
+    "890051676",
+    "890051677",
+    "890051678",
+    "890051679",
+    "890051680",
+    "890051681",
+    "890051682",
+    "890051683",
+    "890051684",
+    "890051685",
+    "890051686",
+    "890051687",
+    "890051688",
+    "890051689",
+    "890051690",
+    "890051691",
+    "890051692",
+    "890051693",
+    "890051694",
+    "890051695",
+    "890051696",
+    "890051697"
+   ]
+  },
+  {
+   "date": "1990-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:333153:por",
+     "title": "Decreto-Lei n.º 111/90",
+     "published": "1990-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/111-1990-333153"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "890050126",
+    "890050127",
+    "890051701",
+    "890050129",
+    "890050130",
+    "890050131",
+    "890050132",
+    "890050133",
+    "890050134",
+    "890050135",
+    "890050136",
+    "890050137",
+    "890050138",
+    "890050139",
+    "890190624",
+    "890050141",
+    "890050142",
+    "890190626",
+    "890050144",
+    "890050145",
+    "890051698",
+    "890050146",
+    "890050147",
+    "890050148",
+    "890050149",
+    "890050150",
+    "890050151",
+    "890050152",
+    "890050153",
+    "890050154",
+    "890050155",
+    "890050156",
+    "890050157",
+    "890050158",
+    "890050159",
+    "890050160",
+    "890050161",
+    "890050162",
+    "890050163",
+    "890050164",
+    "890050165",
+    "890051699",
+    "890050166",
+    "890050167",
+    "890050168",
+    "890050169",
+    "890050170",
+    "890050171",
+    "890190625",
+    "890050173",
+    "890050174",
+    "890190627",
+    "890051676",
+    "890051677",
+    "890051700",
+    "890051678",
+    "890051679",
+    "890051680",
+    "890051681",
+    "890051682",
+    "890051683",
+    "890051684",
+    "890051685",
+    "890051686",
+    "890051687",
+    "890051688",
+    "890051689",
+    "890051690",
+    "890051691",
+    "890051692",
+    "890051693",
+    "890051694",
+    "890051695",
+    "890051696",
+    "890051697"
+   ]
+  }
+ ],
+ "fragments": {
+  "890050126": {
+   "fragment_id": "890051584",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 336/84\n\nde 18 de Outubro\n\nNa óptica do abastecimento, o País não pode prescindir de dispor de uma autonomia mínima no que se refere ao transporte marítimo de produtos fundamentais em termos energéticos, alimentares e/ou necessários ao funcionamento de certas unidades produtivas básicas.\n\nTal objectivo só foi atingido em condições satisfatórias para as ramas de petróleo.\n\nAtendendo, por outro lado, à importância básica que tem para o desenvolvimento do País o poder assegurar no tráfego marítimo com as Regiões Autónomas dos Açores e da Madeira uma satisfatória eficiência e regularidade, considera-se imperativo reestruturar o sector da marinha de comércio, nomeadamente o sector público, e decide-se criar duas novas empresas de transportes marítimos.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "890050127": {
+   "fragment_id": "890051585",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão criadas a PORTLINE - Transportes Marítimos Internacionais, S. A. R. L., e a TRANSINSULAR - Transportes Marítimos Insulares, S. A. R. L., as quais ficam sujeitas às disposições do presente diploma e se regerão pelos estatutos anexos e subsidiariamente pela lei aplicável às sociedades anónimas."
+  },
+  "890050128": {
+   "fragment_id": "890051586",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Uma parcela não inferior a 51% do capital social de cada uma das sociedades referidas no artigo anterior pertencerá obrigatoriamente ao Estado, a outras pessoas colectivas de direito público ou a sociedades de capitais públicos.\n\n2 - O capital social será exclusivamente representado por acções nominativas."
+  },
+  "890050129": {
+   "fragment_id": "890051587",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs direitos sociais do Estado, quando accionista, e designadamente a sua representação na assembleia geral das mencionadas sociedades serão exercidos por quem for designado por despacho conjunto dos Ministros das Finanças e do Plano e do Mar."
+  },
+  "890050130": {
+   "fragment_id": "890051588",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - São aprovados os estatutos da PORTLINE - Transportes Marítimos Internacionais, S. A. R. L., e da TRANSINSULAR - Transportes Marítimos Insulares, S. A. R. L., os quais se consideram partes integrantes deste diploma.\n\n2 - Os estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.\n\n3 - Sem prejuízo do disposto no n.º 1, eventuais alterações aos referidos estatutos não carecem de forma legislativa, produzindo todos os seus efeitos após redução a escritura pública e subsequente registo.\n\n4 - O presente diploma é título bastante para a inscrição da denominação das referidas sociedades no Registo Nacional de Pessoas Colectivas, ficando as mesmas isentas de todas as taxas, emolumentos e outros encargos previstos na legislação reguladora daquele instituto público."
+  },
+  "890050131": {
+   "fragment_id": "890051589",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO pessoal das referidas sociedades fica sujeito ao regime jurídico do pessoal da marinha mercante, bem como às regras definidas pelos competentes órgãos das empresas, não lhe sendo aplicáveis as disposições da regulamentação colectiva de trabalho ou portarias de regulamentação de trabalho para o sector, salvo se, e na medida em que, aqueles órgãos determinarem expressamente a sua aplicação."
+  },
+  "890050133": {
+   "fragment_id": "890051591",
+   "type": 14,
+   "heading": "PORTLINE - Transportes Marítimos Internacionais, S. A. R. L. — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PORTLINE - Transportes Marítimos Internacionais, S. A. R. L. — Estatutos"
+  },
+  "890050134": {
+   "fragment_id": "890051592",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede, duração e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede, duração e objecto"
+  },
+  "890050135": {
+   "fragment_id": "890051593",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ constituída, nos termos da lei e dos presentes estatutos, uma sociedade anónima de responsabilidade limitada denominada PORTLINE - Transportes Marítimos Internacionais, S. A. R. L."
+  },
+  "890050136": {
+   "fragment_id": "890051594",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA sociedade tem a sua sede em Lisboa, podendo, mediante deliberação do conselho de administração, estabelecer, em qualquer ponto do território nacional ou no estrangeiro, agências, delegações ou qualquer outra forma de representação que considere necessária à prossecução dos seus fins."
+  },
+  "890050137": {
+   "fragment_id": "890051595",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA duração da sociedade é por tempo indeterminado."
+  },
+  "890050138": {
+   "fragment_id": "890051596",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA PORTLINE - Transportes Marítimos Internacionais, S. A. R. L., tem por objecto o exercício da indústria de transportes marítimos, compreendendo, nomeadamente, a navegação de longo curso, de cabotagem e costeira para o transporte de pessoas e bens, fretamento e afretamento de navios, bem como das actividades que possam concorrer para o seu desenvolvimento ou para completar os seus fins sociais."
+  },
+  "890050139": {
+   "fragment_id": "890051597",
+   "type": 1,
+   "heading": "Capítulo II — Capital social, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social, acções e obrigações"
+  },
+  "890050140": {
+   "fragment_id": "890051598",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O capital social é de 5000000000$00, representado por acções de 1000$00 cada uma, integralmente subscrito pelo Estado e pela IPE - Investimentos e Participações do Estado, S. A. R. L., na proporção de 4000000000$00 e 1000000000$00, respectivamente.\n\n2 - Uma parcela não inferior a 51% do capital social pertencerá obrigatoriamente ao Estado, outras pessoas colectivas de direito público ou sociedades de capitais públicos.\n\n3 - Do capital social serão imediatamente realizados 51%, sendo o restante realizado no prazo máximo de 1 ano."
+  },
+  "890050141": {
+   "fragment_id": "890051599",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nHaverá títulos de 50, 100 e 1000 acções, podendo o conselho de administração emitir certificados, provisórios ou definitivos, representativos de qualquer número de acções."
+  },
+  "890050142": {
+   "fragment_id": "890051600",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O aumento do capital depende de deliberação da assembleia geral.\n\n2 - Na subscrição de novas acções resultantes do aumento do capital têm preferência os accionistas, na proporção das respectivas posições.\n\n3 - A realização dos aumentos de capital pode ser efectuada escalonadamente, nos termos que forem fixados pela assembleia geral.\n\n4 - Quando num aumento de capital haja accionistas que renunciem à subscrição de acções que lhes caberiam, poderão as mesmas acções ser subscritas pelos demais accionistas, na proporção das respectivas participações, sem prejuízo do estabelecido no n.º 2 do artigo 5.º"
+  },
+  "890050143": {
+   "fragment_id": "890051601",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs acções podem ser livremente alienadas, sem prejuízo do disposto no n.º 2 do artigo 5.º"
+  },
+  "890050144": {
+   "fragment_id": "890051602",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "890050145": {
+   "fragment_id": "890051603",
+   "type": 8,
+   "heading": "Secção I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Assembleia geral"
+  },
+  "890050146": {
+   "fragment_id": "890051604",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - A assembleia geral é constituída pelos accionistas com direito a voto.\n\n2 - A cada 10000 acções corresponderá 1 voto na assembleia geral.\n\n3 - Os accionistas possuidores de um número de acções que não atinja o fixado no número anterior poderão agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem entre si o número necessário ao exercício do direito de voto.\n\n4 - Qualquer accionista com direito a voto pode fazer-se representar na assembleia geral por outro accionista com igual direito mediante simples carta dirigida ao presidente da mesa.\n\n5 - O Estado, quando accionista, será representado na assembleia geral pela pessoa designada mediante despacho conjunto dos ministros responsáveis pelas finanças e pela marinha mercante; os fundos, pela pessoa indicada pela respectiva gestão em carta dirigida ao presidente da mesa; as empresas públicas e outras entidades públicas, pela pessoa indicada pelo respectivo conselho ou órgão de gestão ou administração em carta dirigida ao presidente da mesa."
+  },
+  "890050147": {
+   "fragment_id": "890051605",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCompete à assembleia geral:\n\na) Discutir e aprovar o balanço e as contas anuais de gerência, acompanhados do relatório do conselho de administração e do parecer do conselho fiscal, bem como decidir sobre o destino dos resultados do exercício;\n\nb) Definir políticas gerais relativas à actividade da sociedade, com vista à prossecução do objecto social, mediante aprovação de um plano e um orçamento anuais;\n\nc) Eleger a mesa da assembleia geral, bem como os membros do conselho de administração e do conselho fiscal;\n\nd) Deliberar sobre quaisquer alterações aos presentes estatutos e acerca de aumentos de capital;\n\ne) Estabelecer directivas gerais quanto à aquisição, alienação, troca ou oneração de navios, bens imóveis ou participação noutras sociedades, bem como quanto à emissão de obrigações e à contracção de empréstimos de duração superior a 2 anos;\n\nf) Fixar as remunerações dos membros dos conselhos de administração e fiscal ou delegar tais poderes em comissão especial, eleita pela assembleia geral;\n\ng) Tratar de qualquer outro assunto para que tenha sido convocada."
+  },
+  "890050148": {
+   "fragment_id": "890051606",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA mesa da assembleia geral é composta por 3 membros, 1 presidente, 1 vice-presidente e 1 secretário, eleitos por períodos de 3 anos renováveis."
+  },
+  "890050149": {
+   "fragment_id": "890051607",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nCompete à mesa da assembleia geral dirigir os trabalhos da assembleia geral e ao respectivo presidente convocar, nos termos legais e estatutários, as assembleias ordinárias e extraordinárias."
+  },
+  "890050150": {
+   "fragment_id": "890051608",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA convocação da assembleia geral faz-se com uma antecedência mínima de 15 dias, com indicação expressa dos assuntos a tratar."
+  },
+  "890050151": {
+   "fragment_id": "890051609",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA assembleia geral reunirá ordinariamente uma vez por ano e extraordinariamente a solicitação do conselho de administração, do conselho fiscal, do Estado, quando accionista, ou de accionistas que representem, pelo menos, 20% do capital social."
+  },
+  "890050152": {
+   "fragment_id": "890051610",
+   "type": 8,
+   "heading": "Secção II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de administração"
+  },
+  "890050153": {
+   "fragment_id": "890051611",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - O conselho de administração é composto por 3, 5 ou 7 membros, um dos quais será o presidente, eleitos em assembleia geral por períodos de 3 anos renováveis.\n\n2 - Os administradores eleitos nos termos do n.º 1 manter-se-ão em funções até à data da sua efectiva substituição."
+  },
+  "890050154": {
+   "fragment_id": "890051612",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCompete ao conselho de administração:\n\na) Gerir a sociedade e praticar todos os actos e operações necessários ao cumprimento do objecto social;\n\nb) Representar a sociedade em juízo ou fora dele, activa ou passivamente, propondo e seguindo quaisquer acções, com poderes para confessar, desistir, transigir ou comprometer-se em árbitros;\n\nc) Adquirir, vender, hipotecar, trocar ou, por qualquer forma, alienar ou onerar direitos e bens, assim como emitir obrigações e contrair empréstimos, sem prejuízo do disposto na alínea e) do artigo 11.º\n\nd) Dar de arrendamento os bens imóveis pertencentes à sociedade e tomar de arrendamento os que para a sua actividade forem necessários;\n\ne) Estabelecer a organização técnico-administrativa da sociedade e as normas de funcionamento e de gestão dos recursos humanos;\n\nf) Elaborar o plano e o orçamento anuais para aprovação pela asembleia geral;\n\ng) Elaborar o relatório e as contas anuais de gerência, bem como a proposta de aplicação dos resultados do exercício, e submetê-los a parecer do conselho fiscal e, posteriormente, a aprovação da assembleia geral até ao final do mês de Março de cada ano;\n\nh) Executar e fazer cumprir os preceitos legais e estatutários e as deliberações da assembleia geral."
+  },
+  "890050155": {
+   "fragment_id": "890051613",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO conselho de administração poderá designar um administrador-delegado, definindo os respectivos poderes e atribuições."
+  },
+  "890050156": {
+   "fragment_id": "890051614",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - O conselho de administração reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque por sua iniciativa ou a solicitação de 2 administradores.\n\n2 - O conselho de administração poderá fixar as condições de realização das reuniões extraordinárias do conselho, as quais devem ficar consignadas em acta.\n\n3 - O conselho de administração só poderá funcionar com a presença da maioria dos seus membros.\n\n4 - As deliberações são tomadas por maioria dos votos dos membros presentes, cabendo ao presidente voto de qualidade.\n\n5 - De todas as reuniões serão lavradas actas, a assinar por todos os participantes, e delas constarão, obrigatoriamente, as deliberações e declarações correspondentes aos votos de vencido."
+  },
+  "890050157": {
+   "fragment_id": "890051615",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO conselho de administração pode deliberar a constituição de mandatários com os poderes que julgue convenientes e fiquem definidos em acta, precisando na procuração os limites e as condições do exercício dos mandatos."
+  },
+  "890050158": {
+   "fragment_id": "890051616",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - A sociedade obriga-se pela assinatura de 2 administradores, pela de 1 administrador e de 1 procurador ou de 2 procuradores constituídos nos termos do artigo anterior.\n\n2 - Em assuntos de mero expediente bastará a assinatura de 1 administrador ou de 1 procurador com poderes suficientes."
+  },
+  "890050159": {
+   "fragment_id": "890051617",
+   "type": 8,
+   "heading": "Secção III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho fiscal"
+  },
+  "890050160": {
+   "fragment_id": "890051618",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - A fiscalização da actividade social compete a um conselho fiscal, composto por 1 presidente e 2 ou 4 vogais, um dos quais será obrigatoriamente revisor oficial de contas, eleitos em assembleia geral por um período de 3 anos renovável.\n\n2 - Em vez do conselho fiscal, poderá a assembleia geral, nos termos legais, eleger uma sociedade revisora de contas.\n\n3 - Quando os membros do conselho fiscal forem pessoas colectivas, estas deverão, em carta dirigida à sociedade, designar os indivíduos que as representarão e os respectivos substitutos."
+  },
+  "890050161": {
+   "fragment_id": "890051619",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nCompete ao conselho fiscal:\n\na) Emitir parecer acerca do relatório e das contas anuais de gerência elaborados pelo conselho de administração;\n\nb) Examinar a escrituração e os cofres da sociedade sempre que o julgue conveniente;\n\nc) Chamar a atenção do conselho de administração para qualquer assunto que entenda dever ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão;\n\nd) Assistir, sempre que os seus membros o entendam conveniente, às reuniões do conselho de administração, bem como participar naquelas para que o presidente do conselho de administração o convoque ou em que se apreciem as contas do exercício;\n\ne) Praticar todos os demais actos que lhe sejam cometidos por lei ou pelos presentes estatutos."
+  },
+  "890050162": {
+   "fragment_id": "890051620",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - O conselho fiscal reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque.\n\n2 - Ao conselho fiscal aplica-se o disposto nos n.os 2 a 5 do artigo 19.º dos presentes estatutos."
+  },
+  "890050163": {
+   "fragment_id": "890051621",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "890050164": {
+   "fragment_id": "890051622",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs membros do conselho de administração e do conselho fiscal estão dispensados de prestar caução."
+  },
+  "890050165": {
+   "fragment_id": "890051623",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nA sociedade dissolve-se nos casos e termos legais e a sua liquidação reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "890050166": {
+   "fragment_id": "890051624",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede, duração e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede, duração e objecto"
+  },
+  "890050167": {
+   "fragment_id": "890051625",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ constituída, nos termos da lei e dos presentes estatutos, uma sociedade anónima de responsabilidade limitada denominada TRANSINSULAR - Transportes Marítimos Insulares, S. A. R. L."
+  },
+  "890050168": {
+   "fragment_id": "890051626",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA sociedade tem a sua sede em Lisboa, podendo, mediante deliberação do conselho de administração, estabelecer, em qualquer ponto do território nacional ou no estrangeiro, agências, delegações ou qualquer outra forma de representação que considere necessária à prossecução dos seus fins."
+  },
+  "890050169": {
+   "fragment_id": "890051627",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA duração da sociedade é por tempo indeterminado."
+  },
+  "890050170": {
+   "fragment_id": "890051628",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA TRANSINSULAR - Transportes Marítimos Insulares, S. A. R. L., tem por objecto o exercício da indústria de transportes marítimos, compreendendo, nomeadamente, os transportes marítimos insulares de cabotagem e costeiros para o transporte de pessoas e bens, fretamento e afretamento de navios, bem como das actividades que possam concorrer para o seu desenvolvimento ou para completar os seus fins sociais."
+  },
+  "890050171": {
+   "fragment_id": "890051629",
+   "type": 1,
+   "heading": "Capítulo II — Capital social, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social, acções e obrigações"
+  },
+  "890050172": {
+   "fragment_id": "890051630",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O capital social é de 1000000000$00, representado por acções de 1000$00 cada uma, integralmente subscrito pelo Estado e pela IPE - Investimentos e Participações do Estado, S. A. R. L., na proporção de 800000000$00 e 200000000$00, respectivamente.\n\n2 - Uma parcela não inferior a 51% do capital social pertencerá obrigatoriamente ao Estado, outras pessoas colectivas de direito público ou sociedades de capitais públicos.\n\n3 - Do capital social serão imediatamente realizados 51%, sendo o restante realizado no prazo máximo de 1 ano."
+  },
+  "890050173": {
+   "fragment_id": "890051631",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nHaverá títulos de 50, 100 e 1000 acções, podendo o conselho de administração emitir certificados, provisórios ou definitivos, representativos de qualquer número de acções."
+  },
+  "890050174": {
+   "fragment_id": "890051632",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O aumento do capital depende de deliberação da assembleia geral.\n\n2 - Na subscrição de novas acções resultantes do aumento do capital têm preferência os accionistas, na proporção das respectivas posições.\n\n3 - A realização dos aumentos de capital pode ser efectuada escalonadamente, nos termos que forem fixados pela assembleia geral.\n\n4 - Quando num aumento de capital haja accionistas que renunciem à subscrição de acções que lhes caberiam, poderão as mesmas acções ser subscritas pelos demais accionistas, na proporção das respectivas participações, sem prejuízo do estabelecido no n.º 2 do artigo 5.º"
+  },
+  "890051675": {
+   "fragment_id": "890051633",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs acções podem ser livremente alienadas, sem prejuízo do disposto no n.º 2 do artigo 5.º"
+  },
+  "890051676": {
+   "fragment_id": "890051634",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "890051677": {
+   "fragment_id": "890051635",
+   "type": 8,
+   "heading": "Secção I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Assembleia geral"
+  },
+  "890051678": {
+   "fragment_id": "890051636",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - A assembleia geral é constituída pelos accionistas com direito a voto.\n\n2 - A cada 10000 acções corresponderá 1 voto na assembleia geral.\n\n3 - Os accionistas possuidores de um número de acções que não atinja o fixado no número anterior poderão agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem entre si o número necessário ao exercício do direito de voto.\n\n4 - Qualquer accionista com direito a voto pode fazer-se representar na assembleia geral por outro accionista com igual direito mediante simples carta dirigida ao presidente da mesa.\n\n5 - O Estado, quando accionista, será representado na assembleia geral pela pessoa designada mediante despacho conjunto dos ministros responsáveis pelas finanças e pela marinha mercante; os fundos, pela pessoa indicada pela respectiva gestão em carta dirigida ao presidente da mesa; as empresas públicas e outras entidades públicas, pela pessoa indicada pelo respectivo conselho ou órgão de gestão ou administração em carta dirigida ao presidente da mesa."
+  },
+  "890051679": {
+   "fragment_id": "890051637",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCompete à assembleia geral:\n\na) Discutir e aprovar o balanço e as contas anuais de gerência, acompanhados do relatório do conselho de administração e do parecer do conselho fiscal, bem como decidir sobre o destino dos resultados do exercício;\n\nb) Definir políticas gerais relativas à actividade da sociedade, com vista à prossecução do objecto social, mediante aprovação de um plano e um orçamento anuais;\n\nc) Eleger a mesa da assembleia geral, bem como os membros do conselho de administração e do conselho fiscal;\n\nd) Deliberar sobre quaisquer alterações aos presentes estatutos e acerca de aumentos de capital;\n\ne) Estabelecer directivas gerais quanto à aquisição, alienação, troca ou oneração de navios, bens imóveis ou participação noutras sociedades, bem como quanto à emissão de obrigações e à contracção de empréstimos de duração superior a 2 anos;\n\nf) Fixar as remunerações dos membros dos conselhos de administração e fiscal ou delegar tais poderes em comissão especial, eleita pela assembleia geral;\n\ng) Tratar de qualquer outro assunto para que tenha sido convocada."
+  },
+  "890051680": {
+   "fragment_id": "890051638",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA mesa da assembleia geral é composta por 3 membros, 1 presidente, 1 vice-presidente e 1 secretário, eleitos por períodos de 3 anos renováveis."
+  },
+  "890051681": {
+   "fragment_id": "890051639",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nCompete à mesa da assembleia geral dirigir os trabalhos da assembleia geral e ao respectivo presidente convocar, nos termos legais e estatutários, as assembleias ordinárias e extraordinárias."
+  },
+  "890051682": {
+   "fragment_id": "890051640",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA convocação da assembleia geral faz-se com uma antecedência mínima de 15 dias, com indicação expressa dos assuntos a tratar."
+  },
+  "890051683": {
+   "fragment_id": "890051641",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA assembleia geral reunirá ordinariamente uma vez por ano e extraordinariamente a solicitação do conselho de administração, do conselho fiscal, do Estado, quando accionista, ou de accionistas que representem, pelo menos, 20% do capital social."
+  },
+  "890051684": {
+   "fragment_id": "890051642",
+   "type": 8,
+   "heading": "Secção II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de administração"
+  },
+  "890051685": {
+   "fragment_id": "890051643",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - O conselho de administração é composto por 3 ou 5 membros, um dos quais será o presidente, eleitos em assembleia geral por períodos de 3 anos renováveis.\n\n2 - Os administradores eleitos nos termos do n.º 1 manter-se-ão em funções até à data da sua efectiva substituição."
+  },
+  "890051686": {
+   "fragment_id": "890051644",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCompete ao conselho de administração:\n\na) Gerir a sociedade e praticar todos os actos e operações necessários ao cumprimento do objecto social;\n\nb) Representar a sociedade em juízo ou fora dele, activa ou passivamente, propondo e seguindo quaisquer acções, com poderes para confessar, desistir, transigir ou comprometer-se em árbitros;\n\nc) Adquirir, vender, hipotecar, trocar ou, por qualquer forma, alienar ou onerar direitos e bens, assim como emitir obrigações e contrair empréstimos, sem prejuízo do disposto na alínea e) do artigo 11.º\n\nd) Dar de arrendamento os bens imóveis pertencentes à sociedade e tomar de arrendamento os que para a sua actividade forem necessários;\n\ne) Estabelecer a organização técnico-administrativa da sociedade e as normas de funcionamento e de gestão dos recursos humanos;\n\nf) Elaborar o plano e o orçamento anuais para aprovação pela assembleia geral;\n\ng) Elaborar o relatório e as contas anuais de gerência, bem como a proposta de aplicação dos resultados do exercício, e submetê-los a parecer do conselho fiscal e, posteriormente, a aprovação da assembleia geral até ao final do mês de Março de cada ano;\n\nh) Executar e fazer cumprir os preceitos legais e estatutários e as deliberações da assembleia geral."
+  },
+  "890051687": {
+   "fragment_id": "890051645",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO conselho de administração poderá designar um administrador-delegado, definindo os respectivos poderes e atribuições."
+  },
+  "890051688": {
+   "fragment_id": "890051646",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - O conselho de administração reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque por sua iniciativa ou a solicitação de 2 administradores.\n\n2 - O conselho de administração poderá fixar as condições de realização das reuniões extraordinárias do conselho, as quais devem ficar consignadas em acta.\n\n3 - O conselho de administração só poderá funcionar com a presença da maioria dos seus membros.\n\n4 - As deliberações são tomadas por maioria dos votos dos membros presentes, cabendo ao presidente voto de qualidade.\n\n5 - De todas as reuniões serão lavradas actas, a assinar por todos os participantes, e delas constarão, obrigatoriamente, as deliberações e declarações correspondentes aos votos de vencido."
+  },
+  "890051689": {
+   "fragment_id": "890051647",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO conselho de administração pode deliberar a constituição de mandatários com os poderes que julgue convenientes e fiquem definidos em acta, precisando na procuração os limites e as condições do exercício dos mandatos."
+  },
+  "890051690": {
+   "fragment_id": "890051648",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - A sociedade obriga-se pela assinatura de 2 administradores, pela de 1 administrador e de 1 procurador ou de 2 procuradores constituídos nos termos do artigo anterior.\n\n2 - Em assuntos de mero expediente bastará a assinatura de 1 administrador ou de 1 procurador com poderes suficientes."
+  },
+  "890051691": {
+   "fragment_id": "890051649",
+   "type": 8,
+   "heading": "Secção III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho fiscal"
+  },
+  "890051692": {
+   "fragment_id": "890051650",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - A fiscalização da actividade social compete a um conselho fiscal, composto por 1 presidente e 2 ou 4 vogais, um dos quais será obrigatoriamente revisor oficial de contas, eleitos em assembleia geral por um período de 3 anos renovável.\n\n2 - Em vez do conselho fiscal, poderá a assembleia geral, nos termos legais, eleger uma sociedade revisora de contas.\n\n3 - Quando os membros do conselho fiscal forem pessoas colectivas, estas deverão, em carta dirigida à sociedade, designar os indivíduos que as representarão e os respectivos substitutos."
+  },
+  "890051693": {
+   "fragment_id": "890051651",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nCompete ao conselho fiscal:\n\na) Emitir parecer acerca do relatório e das contas anuais de gerência elaborados pelo conselho de administração;\n\nb) Examinar a escrituração e os cofres da sociedade sempre que o julgue conveniente;\n\nc) Chamar a atenção do conselho de administração para qualquer assunto que entenda dever ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão;\n\nd) Assistir, sempre que os seus membros o entendam conveniente, às reuniões do conselho de administração, bem como participar naquelas para que o presidente do conselho de administração o convoque ou em que se apreciem as contas do exercício;\n\ne) Praticar todos os demais actos que lhe sejam cometidos por lei ou pelos presentes estatutos."
+  },
+  "890051694": {
+   "fragment_id": "890051652",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - O conselho fiscal reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque.\n\n2 - Ao conselho fiscal aplica-se o disposto nos n.os 2.a 5 do artigo 19.º dos presentes estatutos."
+  },
+  "890051695": {
+   "fragment_id": "890051653",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "890051696": {
+   "fragment_id": "890051654",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs membros do conselho de administração e do conselho fiscal estão dispensados de prestar caução."
+  },
+  "890051697": {
+   "fragment_id": "890051655",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nA sociedade dissolve-se nos casos e termos legais e a sua liquidação reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "890051701": {
+   "fragment_id": "890051586",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1990-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Uma parcela não inferior a 51% do capital social de cada uma das sociedades referidas no artigo anterior pertencerá obrigatoriamente ao Estado, a outras pessoas colectivas de direito público ou a sociedades de capitais públicos.\n\n2 - O capital social será exclusivamente representado por acções nominativas.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+  },
+  "890050132": {
+   "fragment_id": "890051590",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Carlos Montez Melancia.\n\nPromulgado em 8 de Outubro de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 9 de Outubro de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "890190624": {
+   "fragment_id": "890051598",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1990-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O capital social é de 5000000000$00, representado por acções de 1000$00 cada uma, integralmente subscrito pelo Estado e pela IPE - Investimentos e Participações do Estado, S. A. R. L., na proporção de 4000000000$00 e 1000000000$00, respectivamente.\n\n2 - (Revogado).\n\n3 - Do capital social serão imediatamente realizados 51%, sendo o restante realizado no prazo máximo de 1 ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+  },
+  "890190626": {
+   "fragment_id": "890051601",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1990-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+   ],
+   "markdown": "###### Artigo 8.º\n\nAs acções podem ser livremente alienadas, sem prejuízo do disposto no n.º 2 do artigo 5.º\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+  },
+  "890051698": {
+   "fragment_id": "890051656",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão órgãos da sociedade:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O conselho fiscal."
+  },
+  "890051699": {
+   "fragment_id": "890051657",
+   "type": 14,
+   "heading": "TRANSINSULAR - Transportes Marítimos Insulares, S. A. R. L. — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TRANSINSULAR - Transportes Marítimos Insulares, S. A. R. L. — Estatutos"
+  },
+  "890190625": {
+   "fragment_id": "890051630",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1990-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O capital social é de 1000000000$00, representado por acções de 1000$00 cada uma, integralmente subscrito pelo Estado e pela IPE - Investimentos e Participações do Estado, S. A. R. L., na proporção de 800000000$00 e 200000000$00, respectivamente.\n\n2 - (Revogado).\n\n3 - Do capital social serão imediatamente realizados 51%, sendo o restante realizado no prazo máximo de 1 ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+  },
+  "890190627": {
+   "fragment_id": "890051633",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1990-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+   ],
+   "markdown": "###### Artigo 8.º\n\nAs acções podem ser livremente alienadas, sem prejuízo do disposto no n.º 2 do artigo 5.º\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/90 - Diário da República n.º 78/1990, Série I de 1990-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1990-333153), em vigor a partir de 1990-04-08"
+  },
+  "890051700": {
+   "fragment_id": "890051658",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão órgãos da sociedade:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O conselho fiscal."
+  }
+ }
+}

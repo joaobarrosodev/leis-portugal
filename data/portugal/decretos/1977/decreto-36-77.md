@@ -1,0 +1,201 @@
+---
+schema_version: '1.0'
+id: pt:dre:140322:por
+title: Decreto n.º 36/77
+short_title: null
+summary: Aprova o Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Hungria sobre Cooperação
+  no Domínio do Turismo
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos
+proposing_entity: null
+official_number: 36/77
+official_date: null
+publication_date: '1977-03-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/1977, Série I de 1977-03-11
+  number: '59'
+  series: I
+  supplement: null
+  pages: 477 - 478
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05900/04770478.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '140322'
+  dre_path: /dr/detalhe/decreto/36-1977-140322
+  internal: pt:dre:140322:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1977-140322
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/36-1977-140322
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:47:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7f05bff3041cdfad74d89520f30e90542321a35383d04058c2e104cc2a91e9a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:47:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Hungria
+- Intercâmbio Turístico
+- Portugal
+- Turismo
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:47:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 36/77
+
+de 11 de Março
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+Artigo único. É aprovado o Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Hungria sobre Cooperação no Domínio do Turismo, assinado em Lisboa em 19 de Março de 1976, cujo texto em português vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel Medeiros Ferreira.
+
+Assinado em 21 de Fevereiro de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA POPULAR DA HUNGRIA SOBRE COOPERAÇÃO NO DOMÍNIO DO TURISMO.
+
+O Governo da República Portuguesa e o Governo da República Popular da Hungria;
+
+Persuadidos da necessidade de desenvolver as relações entre os dois países;
+
+Tendo em consideração a importância do turismo como um dos factores de consolidação das relações de amizade, do conhecimento mútuo e da compreensão entre os dois povos;
+
+Reconhecendo o interesse comum dos dois países no estabelecimento de uma cooperação estreita e durável no domínio do turismo em condições reciprocamente vantajosas;
+
+Inspirados nas recomendações da Conferência das Nações Unidas para o Turismo e as Viagens Internacionais, que teve lugar em Roma de 21 de Agosto a 5 de Setembro de 1963, e da União Internacional dos Organismos Oficiais de Turismo,
+
+Decidiram assinar um acordo e, para esse fim, nomearam como plenipotenciários:
+
+Pelo Governo da República Portuguesa, S. Ex.ª o Prof. Jorge Campinos, Ministro do Comércio Externo e Turismo;
+
+Pelo Governo da República Popular da Hungria, S. Ex.ª o Sr. Jstván Szurdi, Ministro do Comércio Interno, presidente do Conselho Nacional de Turismo,
+
+os quais acordaram no que segue:
+
+###### ARTIGO 1
+
+As Partes Contratantes esforçar-se-ão, por todos os meios possíveis, por desenvolver o turismo entre os dois países e por promover relações de cooperação mais estreitas entre as organizações oficiais de turismo, as agências turísticas e outros organismos e organizações que se ocupam da actividade turística.
+
+###### ARTIGO 2
+
+Cada Parte Contratante concederá, em conformidade com a sua legislação, os vistos necessários para fins turísticos e esforçar-se-á por simplificar as formalidades e o contrôle das fronteiras em favor dos turistas da outra Parte Contratante.
+
+###### ARTIGO 3
+
+1. As Partes Contratantes facilitarão, numa base de reciprocidade, a distribuição de documentação e material promocional, de informação e de publicidade turísticas.
+
+2. As duas Partes tomarão medidas destinadas a respeitar as realidades históricas e culturais dos dois países na publicidade e na informação turísticas levadas a efeito pelas suas organizações de turismo.
+
+3. O material de propaganda, quer seja adquirido, oferecido ou trocado entre os dois países, ou importado directamente, será isento de direitos alfandegários, em conformidade com o Acordo, assinado em Nova Iorque em 4 de Junho de 1954, sobre as Facilidades Aduaneiras para o Intercâmbio Turístico e respectivo Protocolo.
+
+###### ARTIGO 4
+
+1. As Partes Contratantes favorecerão a informação recíproca das possibilidades turísticas dos seus países organizando viagens de jornalistas, repórteres e peritos de turismo.
+
+2. Estabelecer-se-á uma troca efectiva de conhecimentos turísticos, nomeadamente no domínio da legislação, da formação profissional, do equipamento e do ordenamento do território, das estatísticas, da promoção e da planificação do turismo.
+
+3. Para assegurar o intercâmbio de experiência de especialistas ou a realização de acções promocionais, as Partes Contratantes autorizarão, numa base de reciprocidade, a presença temporária, no território de cada país e nos termos da respectiva legislação, de profissionais do turismo, de hotelaria e dos restaurantes do outro país.
+
+###### ARTIGO 5
+
+1. As Partes Contratantes encorajarão o desenvolvimento da colaboração entre os automóveis clubes dos dois países, com vista à promoção do turismo automóvel. À medida que for considerado necessário, os automóveis clubes dos dois países concluirão protocolos de colaboração.
+
+2. As medidas tomadas relativamente aos automóveis clubes poderão ser aplicadas a qualquer outra organização que favoreça o intercâmbio turístico.
+
+###### ARTIGO 6
+
+1. Serão estabelecidas medidas especiais tendo em vista a facilitação do turismo de grupos, do turismo social e do turismo de jovens, incluindo os participantes e espectadores de manifestações culturais e desportivas.
+
+2. As Pares Contratantes facilitarão contactos entre as organizações de turismo de massa dos dois países, a fim de realizar contratos de troca de grupos turísticos, sem despesa em divisas para as prestações turísticas terrestres.
+
+3. No domínio do turismo social, as Partes Contratantes favorecerão a realização de visitas com vista ao conhecimento sócio-económico de cada um dos países.
+
+###### ARTIGO 7
+
+Cada Parte Contratante encorajará as suas agências de viagens no sentido de organizarem excursões ao outro país para turistas de terceiros países aquando da sua visita a Portugal e à Hungria e favorecerão a realização de campanhas publicitárias conjuntas visando os dois países.
+
+###### ARTIGO 8
+
+Os pagamentos resultantes das operações realizadas no quadro do presente Acordo serão efectuados em conformidade com o Acordo de pagamentos em vigor entre os dois países.
+
+###### ARTIGO 9
+
+As Partes Contratantes facilitarão, numa base de reciprocidade, a instalação e a actividade de escritórios de informação turística dos dois países.
+
+###### ARTIGO 10
+
+As Partes Contratantes prestar-se-ão mutuamente assistência no que respeita aos problemas da colaboração internacional e da adesão aos organismos internacionais de turismo.
+
+###### ARTIGO 11
+
+1. A fim de realizar e assegurar as consultas mútuas relativas ao presente Acordo, as Partes Contratantes decidem constituir uma Subcomissão Mista, que se reunirá a pedido de uma das Partes Contratantes.
+
+As reuniões terão lugar alternadamente em cada um dos dois países, na data estabelecida de comum acordo pelas Partes Contratantes.
+
+2. A Subcomissão apresentará os seus relatórios à Comissão Mista Luso-Húngara estabelecida pelas disposições do Acordo sobre as Trocas Comerciais e o Desenvolvimento da Cooperação Económica, Industrial e Técnica, de 23 de Janeiro de 1975.
+
+###### ARTIGO 12
+
+O presente Acordo será aprovado em conformidade com as disposições constitucionais da cada uma das Partes Contratantes e entrará em vigor na data da última notificação relativa à sua aprovação pelas autoridades competentes de cada um dos países.
+
+O Acordo terá uma duração de cinco anos, a partir da sua entrada em vigor, e será renovado automaticamente por períodos sucessivos de um ano se nenhuma das Partes Contratantes o denunciar, por via diplomática, pelo menos três meses antes da expiração do período de validade.
+
+Feito em Lisboa, em 19 de Março de 1976, em dois exemplares originais nas línguas portuguesa e húngara, fazendo os dois textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+Jorge Campinos.
+
+Pelo Governo da República Popular da Hungria:
+
+Jstván Szurdi.

@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122541300:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-123256217",
+ "dre_path": "/dr/detalhe/portaria/182-2019-122541300",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-06-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123259692",
+    "123259693",
+    "123259694",
+    "123259695"
+   ]
+  },
+  {
+   "date": "2019-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123234423:por",
+     "title": "Portaria n.º 223/2019",
+     "published": "2019-07-17",
+     "dre_path": "/dr/detalhe/portaria/223-2019-123234423"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "123259692",
+    "123259693",
+    "123223164",
+    "123259695",
+    "123259696"
+   ]
+  }
+ ],
+ "fragments": {
+  "123259692": {
+   "fragment_id": "123256218",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 182/2019\n\nde 11 de junho\n\nO Decreto-Lei n.º 159/2014, de 27 de outubro, estabeleceu as regras gerais de aplicação dos programas operacionais e dos programas de desenvolvimento rural (PDR) financiados pelos fundos europeus estruturais e de investimento, para o período de 2014-2020.\n\nO artigo 15.º do citado decreto-lei estabelece que os pagamentos em numerário, efetuados pelos beneficiários aos seus fornecedores, não são elegíveis para comparticipação financeira nos programas. Contudo, no que respeita aos fundos da política de coesão, sempre que o pagamento em numerário se revele como o meio mais frequente, em função da natureza das despesas, e desde que o valor da despesa seja inferior a 250 euros, é admitido o referido método de pagamento.\n\nSucede que o programa de desenvolvimento rural Continente (PDR2020), financiado pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), não se encontrava abrangido pela exceção admitida quanto aos pagamentos em numerário.\n\nA experiência adquirida nos procedimentos tendentes à atribuição dos apoios no âmbito do PDR2020 tem revelado as dificuldades dos potenciais beneficiários no cumprimento da regra relativa ao método de pagamento.\n\nNestes termos, o Governo considerou fundamental que a referida exceção, quanto aos pagamentos em numerário, seja aplicável não apenas aos fundos da política de coesão, mas também ao FEADER, consagrando-se a elegibilidade das despesas pagas em numerário sempre que determinadas condições sejam cumpridas, alteração preconizada pelo Decreto-Lei n.º 88/2018, de 6 de novembro.\n\nApesar desta alteração, que determinou a elegibilidade das despesas efetuadas pelos beneficiários em numerário, a regulamentação europeia, nomeadamente o Regulamento (UE) n.º 1303/2013 e do Regulamento (UE) n.º 1305/2013, ambos do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, preveem normas especificas no que respeita à verificabilidade e controlabilidade dos pagamentos cujo cumprimento importa ressalvar, de forma a garantir uma boa governação económica.\n\nPor último, importa salientar que todas as normas relativas ao procedimento de pagamento de despesas constantes das portarias regulamentadoras das medidas e ações do Programa de Desenvolvimento Rural do Continente (PDR2020) se mantêm em vigor.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo da alínea b) do n.º 2 do artigo 5.º e do n.º 14 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, e pelo Decreto-Lei n.º 88/2018, de 6 de novembro, o seguinte:"
+  },
+  "123259693": {
+   "fragment_id": "123256219",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula o regime excecional aplicável à apresentação dos pedidos de pagamento relativos a despesas pagas, em numerário, pelos beneficiários aos seus fornecedores no âmbito do Programa de Desenvolvimento Rural do Continente (PDR2020)."
+  },
+  "123259694": {
+   "fragment_id": "123256220",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamentos em numerário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pagamentos em numerário\n\nSem prejuízo do disposto nos regimes de aplicação do PDR2020, no que se refere à apresentação dos pedidos de pagamento de despesas, os beneficiários das respetivas medidas e ações podem efetuar pagamentos em numerário nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que, cumulativamente, se preencham os seguintes requisitos:\n\na) O valor unitário do bem ou serviço objeto de pagamento seja inferior a 250 euros;\n\nb) O valor total dos pagamentos em numerário não ultrapasse 10 % do valor total das despesas financiadas no âmbito da mesma candidatura ou projeto com o limite máximo de 3000 euros."
+  },
+  "123259695": {
+   "fragment_id": "123256221",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se às despesas efetuadas a partir de 17 de junho de 2017."
+  },
+  "123223164": {
+   "fragment_id": "123256220",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamentos em numerário",
+   "in_force_from": "2019-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 223/2019 - Diário da República n.º 135/2019, Série I de 2019-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/223-2019-123234423), em vigor a partir de 2019-07-18"
+   ],
+   "markdown": "###### Artigo 2.º — Pagamentos em numerário\n\nSem prejuízo do disposto nos regimes de aplicação do PDR2020, no que se refere à apresentação dos pedidos de pagamento de despesas, os beneficiários das respetivas medidas e ações podem efetuar pagamentos em numerário nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que, cumulativamente, se preencham os seguintes requisitos:\n\na) O valor unitário do bem ou serviço objeto de pagamento seja inferior a 250 euros;\n\nb) O valor total dos pagamentos em numerário das despesas financiadas no âmbito da mesma candidatura ou projeto não ultrapasse o limite máximo de 3000 euros.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 223/2019 - Diário da República n.º 135/2019, Série I de 2019-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/223-2019-123234423), em vigor a partir de 2019-07-18"
+  },
+  "123259696": {
+   "fragment_id": "123256222",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 5 de junho de 2019.\n\n112364612"
+  }
+ }
+}

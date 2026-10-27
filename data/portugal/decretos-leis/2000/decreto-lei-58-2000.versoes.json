@@ -1,0 +1,308 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522389:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-136788915",
+ "dre_path": "/dr/detalhe/decreto-lei/58-2000-522389",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "136991180",
+    "136693021",
+    "136693022",
+    "136693023",
+    "136693024",
+    "136693025",
+    "136693026",
+    "136693027",
+    "136693028",
+    "136693029",
+    "136693030",
+    "136693031",
+    "136693033"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:241796:por",
+     "title": "Declaração de Rectificação n.º 6-C/2000",
+     "published": "2000-05-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/6-c-2000-241796",
+     "date": "2000-04-19"
+    }
+   ]
+  },
+  {
+   "date": "2020-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:136678512:por",
+     "title": "Decreto-Lei n.º 30/2020",
+     "published": "2020-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/30-2020-136678512"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "136991180",
+    "136991181",
+    "136991182",
+    "136991183",
+    "136991184",
+    "136991185",
+    "136991186",
+    "136991187",
+    "136991188",
+    "136991189",
+    "136991190",
+    "136991191",
+    "136991192",
+    "136991193"
+   ]
+  }
+ ],
+ "fragments": {
+  "136991180": {
+   "fragment_id": "136788916",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-06-30",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 58/2000\n\nde 18 de Abril\n\nOs serviços da sociedade da informação, em que se incluem as regras específicas dos serviços prestados a distância, necessitam de uma especial atenção naquilo que diz respeito à sua regulamentação.\n\nEsta matéria, bem como a que diz respeito às normas e regulamentações técnicas, tem contornos específicos que se prendem com a globalização dos mercados. Esta implica a necessidade de eliminar ou, pelo menos, reduzir os obstáculos ao comércio de produtos industriais e agrícolas, incluindo os provenientes da pesca, bem como a necessidade de assegurar a livre prestação de serviços no domínio da sociedade da informação no âmbito do território comunitário.\n\nUrge, pois, transpor para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, a qual se designa «directiva do Parlamento Europeu e do Conselho relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação».\n\nA Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a> é codificadora de anteriores, como é o caso da Directiva n.º <a href=\"eurlex.asp?ano=1983&id=383L0189\" title=\"Link para Directiva da Comunidade Europeia\">83/189/CEE</a>, do Conselho, de 28 de Março.\n\nEsta última directiva estabeleceu um procedimento de notificação prévia, no domínio das normas e das regulamentações técnicas, com a finalidade de permitir uma maior transparência das iniciativas nacionais e a livre circulação de mercadorias e de garantir o bom funcionamento do mercado interno. Posteriormente, foi alterada pela Directiva n.º <a href=\"eurlex.asp?ano=1988&id=388L0182\" title=\"Link para Directiva da Comunidade Europeia\">88/182/CEE</a>, do Conselho, de 22 de Março, e pela Directiva n.º <a href=\"eurlex.asp?ano=1994&id=394L0010\" title=\"Link para Directiva da Comunidade Europeia\">94/10/CE</a>, do Parlamento Europeu e do Conselho, de 23 de Março, e transposta para o direito interno pelas Resoluções do Conselho de Ministros n.os 41/90, de 13 de Outubro, e 95/95, de 3 de Outubro.\n\nFoi, contudo, a directiva que agora se transpõe para a ordem jurídica interna, Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho, que veio modificar a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, ampliando o seu campo de aplicação.\n\nPrevê-se no presente diploma que o organismo português responsável pelas actividades de normalização - Instituto Português da Qualidade - fique obrigado a proceder à notificação da Comissão Europeia e dos organismos europeus de normalização dos demais Estados membros das regras específicas que se prendem com normas técnicas e com os serviços prestados a distância e por via electrónica, relativamente aos serviços da sociedade da informação. Ficam também abrangidas por esse procedimento as regras que dizem respeito ao acesso ao exercício daquela actividade, como é o caso das relativas ao estabelecimento dos prestadores desses serviços, em especial as que se prendem com o regime de autorização e de licença, mesmo que essas regras estejam incluídas em regulamentação com um objectivo mais geral.\n\nTodos os outros serviços e organismos da Administração Pública com competências nessas matérias devem, através daquele organismo, canalizar todos os assuntos sujeitos a notificação, sendo através dele também canalizada toda a informação fornecida pela Comissão Europeia.\n\nExcluem-se do âmbito do presente diploma as licenças em matéria de telecomunicações, certas disposições relativas ao exercício de actividades de radiodifusão televisiva, bem como os casos excepcionais em que situações graves e imprevisíveis obriguem a medidas urgentes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "136693021": {
+   "fragment_id": "136788917",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\nO presente diploma estabelece os procedimentos administrativos a que obedece a troca de informação no domínio das normas e das regulamentações técnicas, bem como das regras, relativas aos serviços da sociedade da informação, transpondo para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho."
+  },
+  "136693022": {
+   "fragment_id": "136788918",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação do presente diploma, entende-se por:\n\na) «Produto» qualquer bem de fabrico industrial ou agrícola, incluindo os provenientes da pesca;\n\nb) «Serviço» qualquer prestação de actividade a distância, por via electrónica e mediante pedido individual do seu destinatário, geralmente mediante remuneração, considerando-se, para efeitos da presente definição:\n\ni) «A distância» um serviço prestado sem que as partes estejam simultaneamente presentes;\n\nii) «Por via electrónica» um serviço enviado da origem e recebido no destino através de meios electrónicos de processamento e de armazenamento de dados que seja inteiramente transmitido, encaminhado e recebido por cabo, rádio, meios ópticos ou outros meios electromagnéticos;\n\niii) «Mediante pedido individual do seu destinatário» um serviço fornecido por transmissão de dados mediante um pedido individualizado;\n\nc) «Especificação técnica» a discriminação que consta de um documento em que se definam:\n\ni) As características exigidas a um produto, tais como os níveis de qualidade, a propriedade de utilização, a segurança, as dimensões, incluindo as prescrições que lhe são aplicáveis no que respeita à denominação de venda, à terminologia, aos símbolos, aos ensaios e respectivos métodos, à embalagem, à marcação e rotulagem, bem como aos procedimentos de avaliação da conformidade;\n\nii) Os métodos e os processos de produção relativos aos produtos agrícolas, ao abrigo do n.º 1 do artigo 32.º do Tratado que instituiu as Comunidades Europeias;\n\niii) Os métodos e os processos de produção relativos aos produtos destinados à alimentação humana e animal;\n\niv) Os métodos e os processos relativos aos medicamentos definidos no artigo 3.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro;\n\nv) Os métodos e os processos de produção relativos a outros produtos que revistam as mesmas características dos referidos na alínea anterior;\n\nd) «Outra exigência» qualquer requisito que, não constituindo uma especificação técnica, seja imposto a um produto, por motivos de defesa, nomeadamente dos consumidores ou do ambiente, e que vise o seu ciclo de vida após colocação no mercado, em que se incluem as condições da respectiva utilização, de reciclagem, de reutilização ou de eliminação, sempre que essas condições possam influenciar significativamente a composição ou a natureza do produto ou a sua comercialização;\n\ne) «Norma» a especificação técnica aprovada por um organismo reconhecido que exerça actividade de normalização para aplicação repetida ou contínua, cujo cumprimento não é obrigatório, e que pertença a uma das seguintes categorias:\n\ni) Norma internacional - norma adoptada por uma organização internacional de normalização e colocada à disposição do público;\n\nii) Norma europeia - norma adoptada por um organismo europeu de normalização e colocada à disposição do público;\n\niii) Norma nacional - norma adoptada por um organismo nacional de normalização e colocada à disposição do público;\n\nf) «Projecto de norma» o documento com o texto das especificações técnicas que se prevê venham a ser adoptadas relativamente a um assunto determinado, de acordo com os procedimentos de normalização nacional, tal como resulta dos trabalhos preparatórios difundidos para comentário ou inquérito público;\n\ng) «Regra técnica» a especificação técnica ou outro requisito, regra ou exigência relativa aos serviços, incluindo as disposições regulamentares internas que lhes são aplicáveis e cujo cumprimento seja obrigatório, de jure ou de facto, para a comercialização, a utilização, a prestação de serviços ou o estabelecimento de um operador de serviços, abrangendo, nomeadamente:\n\ni) As disposições legais e regulamentares que remetam para especificações técnicas, outros requisitos ou regras relativas aos serviços ou para códigos profissionais ou de boa prática;\n\nii) Os acordos voluntários em que uma entidade pública seja parte contratante e que visem, numa perspectiva de interesse geral, a observância de especificações técnicas, de outros requisitos ou de regras relativas aos serviços, com excepção dos cadernos de encargos dos contratos públicos;\n\niii) As especificações técnicas, outros requisitos ou regras relativas aos serviços relacionados com medidas de carácter fiscal ou financeiro que afectem o consumo dos produtos ou dos serviços e que se destinem a garantir a observância das referidas especificações técnicas, outros requisitos ou regras relativas aos serviços, com excepção dos relacionados com os regimes nacionais de segurança social;\n\nh) «Projecto de regra técnica» o texto de uma especificação técnica, de outro requisito ou de uma regra relativa aos serviços, incluindo disposições regulamentares internas, elaborado com o objectivo de ser adoptado como regra técnica e que se encontre numa fase de preparação que permita ainda a introdução de alterações substanciais;\n\ni) «Regra relativa aos serviços» qualquer requisito de natureza geral especificamente relacionado com o acesso às actividades incluídas nos serviços referidos no alínea b) do presente artigo, com o seu exercício, bem como com qualquer disposição relativa ao próprio serviço ou relativa aos respectivos prestadores e destinatários, considerando-se que:\n\ni) Uma regra tem em vista especificamente os serviços da sociedade da informação sempre que a sua motivação e o texto do seu articulado tenham como objectivo específico, na totalidade ou em algumas disposições, regulamentar de modo explícito e circunscrito esses serviços;\n\nii) Uma regra não tem em vista os serviços da sociedade da informação caso diga apenas respeito a esses serviços de modo implícito ou incidental."
+  },
+  "136693023": {
+   "fragment_id": "136788919",
+   "type": 11,
+   "heading": "Artigo 3.º — Organismo competente para a notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organismo competente para a notificação\n\nCompete ao Instituto Português da Qualidade, adiante designado «organismo de notificação», gerir a informação relativa às normas e regras técnicas a que se refere o presente diploma."
+  },
+  "136693024": {
+   "fragment_id": "136788920",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições dos organismos regulamentadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições dos organismos regulamentadores\n\n1 - Os serviços que pretendam elaborar regras técnicas relativas aos produtos ou regras relativas aos serviços definidos no artigo 2.º do presente diploma devem, através do organismo de notificação:\n\na) Comunicar, de imediato, à Comissão Europeia qualquer projecto de regra técnica;\n\nb) Transmitir, simultaneamente, o texto das disposições legislativas e regulamentares de base, caso o seu conhecimento seja necessário para apreciar o alcance do projecto de regra técnica, salvo se já tiver sido apresentado com uma comunicação anterior;\n\nc) Comunicar, nas condições referidas na alínea anterior, as alterações significativas ao projecto de regras técnicas que tenham por efeito modificar o âmbito de aplicação, reduzir o calendário de aplicação inicialmente previsto ou aditar especificações e outras exigências, tornando-as mais rigorosas;\n\nd) Comunicar, se for o caso, um resumo ou as referências dos dados pertinentes de um projecto de regra técnica que se destine, em especial, a limitar a comercialização ou a utilização de uma substância, de uma preparação ou de um produto químico, designadamente por razões de saúde pública, defesa dos consumidores ou protecção do ambiente;\n\ne) Comunicar também, se for o caso, um resumo ou as referências dos dados pertinentes relativos à substância, à preparação ou ao produto em causa e os referentes aos produtos alternativos conhecidos e disponíveis à medida que tais informações se tornem acessíveis, bem como os efeitos previsíveis da medida sobre a saúde pública, a defesa dos consumidores e a protecção do ambiente, efectuando, quando necessário, uma análise de risco, de acordo com os princípios gerais de avaliação de riscos dos produtos químicos referidos no n.º 4 do artigo 10.º do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1993&id=393R0793\" title=\"Link para Regulamento da Comunidade Europeia\">793/93</a>, do Conselho, de 23 de Março, quando se trate de uma substância existente a que alude o artigo 7.º do Decreto-Lei n.º 82/95, de 22 de Abril, ou quando se trate de uma nova substância;\n\nf) Comunicar, de imediato, à Comissão Europeia o texto definitivo de qualquer regra técnica, sem prejuízo do disposto no n.º 2 do artigo 6.º;\n\ng) Ponderar na elaboração final de uma regra técnica as observações que tenham sido feitas pela Comissão ou por outros Estados membros sobre o respectivo projecto.\n\n2 - Os serviços interessados podem, através do organismo de notificação, dirigir a qualquer Estado membro que tenha apresentado um projecto de regra técnica as observações e os comentários que se afigurem pertinentes relativamente a matéria que seja susceptível de entravar as trocas comerciais.\n\n3 - Pode ser requerida, expressamente, a confidencialidade da notificação através de pedido devidamente fundamentado, sem prejuízo de ser permitido aos serviços da Administração Pública, adoptando as precauções necessárias, efectuarem consultas, para efeitos de peritagem, através de pessoas singulares ou colectivas."
+  },
+  "136693025": {
+   "fragment_id": "136788921",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazos de aprovação dos projectos de regras técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazos de aprovação dos projectos de regras técnicas\n\n1 - Nenhum projecto de regra técnica pode ser aprovado antes do decurso de três meses contados a partir da data da sua recepção pela Comissão.\n\n2 - O prazo referido no número anterior passa a ser de 4, 6, 12 ou 18 meses, nas condições referidas nas alíneas seguintes:\n\na) 4 meses:\n\ni) Quando o projecto de regra técnica adoptar a forma de acordo voluntário em que uma entidade pública seja parte contratante e que vise, numa perspectiva de interesse geral, a observância de especificações técnicas ou de outras exigências, com excepção dos cadernos de encargos dos contratos públicos;\n\nii) Quando se tratar de um projecto de regra a adoptar relativo aos serviços definidos no artigo 2.º;\n\nb) 6 meses, quando se tratar da adopção de projecto de regra técnica não relativa aos serviços, se, no prazo de 3 meses a contar da sua recepção pela Comissão, esta ou outro Estado membro emitir parecer circunstanciado no sentido de a medida prevista conter aspectos eventualmente contrários à livre circulação de mercadorias;\n\nc) 12 meses:\n\ni) Quando se tratar da adopção de projecto de regras técnicas, com exclusão das relativas aos serviços, a contar da data da recepção pela Comissão, se, no prazo de 3 meses, esta manifestar intenção de propor ou adoptar uma directiva, um regulamento ou uma decisão sobre a matéria, nos termos do artigo 249.º do Tratado que instituiu as Comunidades Europeias;\n\nii) Quando a Comissão, nos 3 meses subsequentes à data da sua recepção, verificar que o projecto de regra técnica incide sobre matéria abrangida por uma proposta de directiva, de regulamento ou de decisão apresentada ao Conselho nos termos do artigo 249.º do Tratado que instituiu as Comunidades Europeias;\n\nd) 18 meses, se o Conselho adoptar uma posição comum durante o período referido na alínea anterior, sem prejuízo do disposto no n.º 4 do presente artigo.\n\n3 - O prazo a que se refere a alínea a) do número anterior conta-se a partir da data da recepção pela Comissão do projecto se, nos três meses subsequentes, esta instituição ou outro Estado membro emitir um parecer circunstanciado segundo o qual a medida prevista poderá, eventualmente, criar obstáculos à livre circulação dos serviços ou à sua liberdade de estabelecimento.\n\n4 - As obrigações a que se referem as alíneas b) e c) do n.º 2 cessam quando a Comissão informar os Estados membros que renuncia a propor ou a adoptar um acto comunitário vinculativo ou que retira o seu projecto ou proposta e ainda quando o Conselho adoptar, nesse domínio, um acto comunitário vinculativo."
+  },
+  "136693026": {
+   "fragment_id": "136788922",
+   "type": 11,
+   "heading": "Artigo 6.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Excepções\n\n1 - O disposto nos artigos 4.º e 5.º deste diploma não é aplicável às disposições legislativas e regulamentares ou aos acordos voluntários que, em matéria de especificações técnicas, prossigam as seguintes finalidades:\n\na) Dar cumprimento a actos comunitários vinculativos cujo efeito seja a adopção de especificações técnicas ou de regras relativas aos serviços;\n\nb) Observar os compromissos decorrentes de um acordo internacional cujo efeito seja a adopção de especificações técnicas ou de regras relativas aos serviços e que sejam comuns a toda a Comunidade;\n\nc) Invocar cláusulas de salvaguarda previstas em actos comunitários vinculativos;\n\nd) Aplicar o regime previsto no Decreto-Lei n.º 311/95, de 20 de Novembro, relativo à segurança geral dos produtos;\n\ne) Dar apenas execução a acórdão do Tribunal de Justiça das Comunidades Europeias;\n\nf) Alterar apenas uma regra técnica na acepção da alínea g) do artigo 2.º do presente diploma, de acordo com um pedido da Comissão, tendo em vista eliminar entraves às trocas comerciais.\n\n2 - Não é igualmente aplicável o disposto no artigo 4.º quando se trate de mera transposição integral de uma norma internacional ou europeia, bastando, neste caso, disponibilizar a adequada informação à Comissão sobre essa norma.\n\n3 - A informação referida no número anterior deve ser acompanhada de notificação da qual conste a sua justificação, salvo se esta se depreender, claramente, do projecto.\n\n4 - O disposto nas alíneas b) e c) do n.º 2 do artigo 5.º não se aplica aos acordos voluntários a que se refere o ponto ii) da alínea g) do artigo 2.º\n\n5 - O disposto no artigo 5.º do presente diploma também não é aplicável:\n\na) Às disposições legislativas e regulamentares que visem a proibição de fabrico, na medida em que não entravem a livre circulação de produtos;\n\nb) Às especificações técnicas ou outros requisitos, bem como às regras, relativos aos serviços a que se refere a alínea b) do artigo 2.º deste diploma."
+  },
+  "136693027": {
+   "fragment_id": "136788923",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimento de urgência\n\n1 - O disposto no artigo 5.º não é aplicável quando, por razões de urgência resultantes de uma situação grave e imprevisível, que envolva a defesa da saúde das pessoas e dos animais, a preservação das plantas, a segurança e a ordem públicas, nomeadamente a protecção dos menores, seja necessário elaborar, com a maior brevidade, regras técnicas, a adoptar e a aplicar de imediato.\n\n2 - Não é também aplicável o disposto no artigo 5.º deste diploma quando, por razões de urgência resultantes de uma situação grave que envolva a protecção da segurança e integridade do sistema financeiro, nomeadamente a defesa dos depositantes, investidores ou segurados, se torne necessário adoptar e aplicar de imediato regras relativas a serviços financeiros.\n\n3 - Na comunicação referida na alínea a) do n.º 1 do artigo 4.º devem constar os motivos que justificam a urgência das medidas em questão."
+  },
+  "136693028": {
+   "fragment_id": "136788924",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços não abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviços não abrangidos\n\nOs serviços não abrangidos pelo presente diploma são os indicados no anexo I do presente diploma, que dele faz parte integrante."
+  },
+  "136693029": {
+   "fragment_id": "136788925",
+   "type": 11,
+   "heading": "Artigo 9.º — Referência às directivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Referência às directivas\n\nA adopção de regras técnicas pela legislação nacional deve fazer referência à Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, com as alterações introduzidas pela Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho."
+  },
+  "136693030": {
+   "fragment_id": "136788926",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nÉ revogada a Resolução do Conselho de Ministros n.º 95/95, de 3 de Outubro."
+  },
+  "136693031": {
+   "fragment_id": "136788927",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "136693033": {
+   "fragment_id": "136788929",
+   "type": 14,
+   "heading": "Anexo I — (referido no artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (referido no artigo 8.º)\n\nLista dos serviços que não estão abrangidos pelo presente diploma\n\n1 - O presente diploma não é aplicável:\n\na) Aos serviços de radiodifusão sonora;\n\nb) Aos serviços de radiodifusão televisiva referidos na alínea a) do artigo 1.º da Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0552\" title=\"Link para Directiva da Comunidade Europeia\">89/552/CEE</a>, do Conselho, de 3 de Outubro;\n\nc) Às regras relativas a questões sujeitas à regulamentação comunitária em matéria de serviços de telecomunicações definidos na Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0387\" title=\"Link para Directiva da Comunidade Europeia\">90/387/CEE</a>, do Conselho, de 28 de Junho;\n\nd) Às regras relativas a questões sujeitas à regulamentação comunitária em matéria de serviços financeiros;\n\ne) Às regras enunciadas pelos ou para os mercados regulamentados na acepção da Directiva n.º <a href=\"eurlex.asp?ano=1993&id=393L0022\" title=\"Link para Directiva da Comunidade Europeia\">93/22/CE</a>, do Conselho, de 10 de Maio, outros mercados ou órgãos que efectuam operações de compensação ou de liquidação desses mercados, sem prejuízo do disposto na alínea f) do artigo 4.º do presente diploma.\n\n2 - O presente diploma também não é aplicável aos serviços prestados na presença física do prestador e do destinatário, ainda que a sua prestação implique a utilização de dispositivos electrónicos:\n\na) Exames ou tratamentos num consultório médico por meio de equipamentos electrónicos, mas na presença física do paciente;\n\nb) Consulta de um catálogo electrónico num estabelecimento comercial na presença física do cliente;\n\nc) Reserva de um bilhete de aviso de uma rede de computadores numa agência de viagens na presença física do cliente;\n\nd) Disponibilização de jogos electrónicos numa sala de jogos na presença física do utilizador.\n\n3 - São também excluídos da aplicação do diploma os serviços que não são fornecidos por via electrónica:\n\na) Serviços cujo conteúdo é material, mesmo quando impliquem a utilização de dispositivos electrónicos:\n\ni) Distribuição automática de notas e bilhetes, tais como notas de banco e bilhetes de comboio;\n\nii) Acesso às redes rodoviárias, parques de estacionamento, etc., mediante pagamento, mesmo que existam dispositivos electrónicos à entrada e ou saída para controlar o acesso e ou garantir o correcto pagamento;\n\nb) Serviços off-line: distribuição de CD-ROM ou de software em disquettes;\n\nc) Serviços não fornecidos por intermédio de sistemas electrónicos de armazenagem e processamento de dados:\n\ni) Serviços de telefonia vocal;\n\nii) Serviços de telecópia e telex;\n\niii) Teletexto televisivo;\n\niv) Serviços prestados por telefonia vocal ou telecópia;\n\nv) Consulta de um médico por telefone ou telecópia;\n\nvi) Consulta de um advogado por telefone ou telecópia;\n\nvii) Marketing directo por telefone ou telecópia."
+  },
+  "136991181": {
+   "fragment_id": "136788917",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\nO presente diploma estabelece os procedimentos administrativos a que obedece a troca de informação no domínio das normas e das regulamentações técnicas, bem como das regras, relativas aos serviços da sociedade da informação, transpondo para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991182": {
+   "fragment_id": "136788918",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30",
+    "Retificado pelo/a [Declaração de Rectificação n.º 6-C/2000 - Diário da República n.º 126/2000, 2º Suplemento, Série I-A de 2000-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-c-2000-241796), em vigor a partir de 2000-04-19"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação do presente diploma, entende-se por:\n\na) «Produto» qualquer bem de fabrico industrial ou agrícola, incluindo os provenientes da pesca;\n\nb) «Serviço» qualquer prestação de actividade a distância, por via electrónica e mediante pedido individual do seu destinatário, geralmente mediante remuneração, considerando-se, para efeitos da presente definição:\n\ni) «A distância» um serviço prestado sem que as partes estejam simultaneamente presentes;\n\nii) «Por via electrónica» um serviço enviado da origem e recebido no destino através de meios electrónicos de processamento e de armazenamento de dados que seja inteiramente transmitido, encaminhado e recebido por cabo, rádio, meios ópticos ou outros meios electromagnéticos;\n\niii) «Mediante pedido individual do seu destinatário» um serviço fornecido por transmissão de dados mediante um pedido individualizado;\n\nc) «Especificação técnica» a discriminação que consta de um documento em que se definam:\n\ni) As características exigidas a um produto, tais como os níveis de qualidade, a propriedade de utilização, a segurança, as dimensões, incluindo as prescrições que lhe são aplicáveis no que respeita à denominação de venda, à terminologia, aos símbolos, aos ensaios e respectivos métodos, à embalagem, à marcação e rotulagem, bem como aos procedimentos de avaliação da conformidade;\n\nii) Os métodos e os processos de produção relativos aos produtos agrícolas, ao abrigo do n.º 1 do artigo 32.º do Tratado que instituiu as Comunidades Europeias;\n\niii) Os métodos e os processos de produção relativos aos produtos destinados à alimentação humana e animal;\n\niv) Os métodos e os processos relativos aos medicamentos definidos no artigo 3.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro;\n\nv) Os métodos e os processos de produção relativos a outros produtos que revistam as mesmas características das referidos na alínea anterior;\n\nd) «Outra exigência» qualquer requisito que, não constituindo uma especificação técnica, seja imposto a um produto, por motivos de defesa, nomeadamente dos consumidores ou do ambiente, e que vise o seu ciclo de vida após colocação no mercado, em que se incluem as condições da respectiva utilização, de reciclagem, de reutilização ou de eliminação, sempre que essas condições possam influenciar significativamente a composição ou a natureza do produto ou a sua comercialização;\n\ne) «Norma» a especificação técnica aprovada por um organismo reconhecido que exerça actividade de normalização para aplicação repetida ou contínua, cujo cumprimento não é obrigatório, e que pertença a uma das seguintes categorias:\n\ni) Norma internacional - norma adoptada por uma organização internacional de normalização e colocada à disposição do público;\n\nii) Norma europeia - norma adoptada por um organismo europeu de normalização e colocada à disposição do público;\n\niii) Norma nacional - norma adoptada por um organismo nacional de normalização e colocada à disposição do público;\n\nf) «Projecto de norma» o documento com o texto das especificações técnicas que se prevê venham a ser adoptadas relativamente a um assunto determinado, de acordo com os procedimentos de normalização nacional, tal como resulta dos trabalhos preparatórios difundidos para comentário ou inquérito público;\n\ng) «Regra técnica» a especificação técnica ou outro requisito, regra ou exigência relativa aos serviços, incluindo as disposições regulamentares internas que lhes são aplicáveis e cujo cumprimento seja obrigatório, de jure ou de facto, para a comercialização, a utilização, a prestação de serviços ou o estabelecimento de um operador de serviços, abrangendo, nomeadamente:\n\ni) As disposições legais e regulamentares que remetam para especificações técnicas, outros requisitos ou regras relativas aos serviços ou para códigos profissionais ou de boa prática;\n\nii) Os acordos voluntários em que uma entidade pública seja parte contratante e que visem, numa perspectiva de interesse geral, a observância de especificações técnicas, de outros requisitos ou de regras relativas aos serviços, com excepção dos cadernos de encargos dos contratos públicos;\n\niii) As especificações técnicas, outros requisitos ou regras relativas aos serviços relacionados com medidas de carácter fiscal ou financeiro que afectem o consumo dos produtos ou dos serviços e que se destinem a garantir a observância das referidas especificações técnicas, outros requisitos ou regras relativas aos serviços, com excepção dos relacionados com os regimes nacionais de segurança social;\n\nh) «Projecto de regra técnica» o texto de uma especificação técnica, de outro requisito ou de uma regra relativa aos serviços, incluindo disposições regulamentares internas, elaborado com o objectivo de ser adoptado como regra técnica e que se encontre numa fase de preparação que permita ainda a introdução de alterações substanciais;\n\ni) «Regra relativa aos serviços» qualquer requisito de natureza geral especificamente relacionado com o acesso às actividades incluídas nos serviços referidos no alínea b) do presente artigo, com o seu exercício, bem como com qualquer disposição relativa ao próprio serviço ou relativa aos respectivos prestadores e destinatários, considerando-se que:\n\ni) Uma regra tem em vista especificamente os serviços da sociedade da informação sempre que a sua motivação e o texto do seu articulado tenham como objectivo específico, na totalidade ou em algumas disposições, regulamentar de modo explícito e circunscrito esses serviços;\n\nii) Uma regra não tem em vista os serviços da sociedade da informação caso diga apenas respeito a esses serviços de modo implícito ou incidental.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30\n\n> Retificado pelo/a [Declaração de Rectificação n.º 6-C/2000 - Diário da República n.º 126/2000, 2º Suplemento, Série I-A de 2000-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-c-2000-241796), em vigor a partir de 2000-04-19"
+  },
+  "136991183": {
+   "fragment_id": "136788919",
+   "type": 11,
+   "heading": "Artigo 3.º — Organismo competente para a notificação",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 3.º — Organismo competente para a notificação\n\nCompete ao Instituto Português da Qualidade, adiante designado «organismo de notificação», gerir a informação relativa às normas e regras técnicas a que se refere o presente diploma.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991184": {
+   "fragment_id": "136788920",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições dos organismos regulamentadores",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições dos organismos regulamentadores\n\n1 - Os serviços que pretendam elaborar regras técnicas relativas aos produtos ou regras relativas aos serviços definidos no artigo 2.º do presente diploma devem, através do organismo de notificação:\n\na) Comunicar, de imediato, à Comissão Europeia qualquer projecto de regra técnica;\n\nb) Transmitir, simultaneamente, o texto das disposições legislativas e regulamentares de base, caso o seu conhecimento seja necessário para apreciar o alcance do projecto de regra técnica, salvo se já tiver sido apresentado com uma comunicação anterior;\n\nc) Comunicar, nas condições referidas na alínea anterior, as alterações significativas ao projecto de regras técnicas que tenham por efeito modificar o âmbito de aplicação, reduzir o calendário de aplicação inicialmente previsto ou aditar especificações e outras exigências, tornando-as mais rigorosas;\n\nd) Comunicar, se for o caso, um resumo ou as referências dos dados pertinentes de um projecto de regra técnica que se destine, em especial, a limitar a comercialização ou a utilização de uma substância, de uma preparação ou de um produto químico, designadamente por razões de saúde pública, defesa dos consumidores ou protecção do ambiente;\n\ne) Comunicar também, se for o caso, um resumo ou as referências dos dados pertinentes relativos à substância, à preparação ou ao produto em causa e os referentes aos produtos alternativos conhecidos e disponíveis à medida que tais informações se tornem acessíveis, bem como os efeitos previsíveis da medida sobre a saúde pública, a defesa dos consumidores e a protecção do ambiente, efectuando, quando necessário, uma análise de risco, de acordo com os princípios gerais de avaliação de riscos dos produtos químicos referidos no n.º 4 do artigo 10.º do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1993&id=393R0793\" title=\"Link para Regulamento da Comunidade Europeia\">793/93</a>, do Conselho, de 23 de Março, quando se trate de uma substância existente a que alude o artigo 7.º do Decreto-Lei n.º 82/95, de 22 de Abril, ou quando se trate de uma nova substância;\n\nf) Comunicar, de imediato, à Comissão Europeia o texto definitivo de qualquer regra técnica, sem prejuízo do disposto no n.º 2 do artigo 6.º;\n\ng) Ponderar na elaboração final de uma regra técnica as observações que tenham sido feitas pela Comissão ou por outros Estados membros sobre o respectivo projecto.\n\n2 - Os serviços interessados podem, através do organismo de notificação, dirigir a qualquer Estado membro que tenha apresentado um projecto de regra técnica as observações e os comentários que se afigurem pertinentes relativamente a matéria que seja susceptível de entravar as trocas comerciais.\n\n3 - Pode ser requerida, expressamente, a confidencialidade da notificação através de pedido devidamente fundamentado, sem prejuízo de ser permitido aos serviços da Administração Pública, adoptando as precauções necessárias, efectuarem consultas, para efeitos de peritagem, através de pessoas singulares ou colectivas.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991185": {
+   "fragment_id": "136788921",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazos de aprovação dos projectos de regras técnicas",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 5.º — Prazos de aprovação dos projectos de regras técnicas\n\n1 - Nenhum projecto de regra técnica pode ser aprovado antes do decurso de três meses contados a partir da data da sua recepção pela Comissão.\n\n2 - O prazo referido no número anterior passa a ser de 4, 6, 12 ou 18 meses, nas condições referidas nas alíneas seguintes:\n\na) 4 meses:\n\ni) Quando o projecto de regra técnica adoptar a forma de acordo voluntário em que uma entidade pública seja parte contratante e que vise, numa perspectiva de interesse geral, a observância de especificações técnicas ou de outras exigências, com excepção dos cadernos de encargos dos contratos públicos;\n\nii) Quando se tratar de um projecto de regra a adoptar relativo aos serviços definidos no artigo 2.º;\n\nb) 6 meses, quando se tratar da adopção de projecto de regra técnica não relativa aos serviços, se, no prazo de 3 meses a contar da sua recepção pela Comissão, esta ou outro Estado membro emitir parecer circunstanciado no sentido de a medida prevista conter aspectos eventualmente contrários à livre circulação de mercadorias;\n\nc) 12 meses:\n\ni) Quando se tratar da adopção de projecto de regras técnicas, com exclusão das relativas aos serviços, a contar da data da recepção pela Comissão, se, no prazo de 3 meses, esta manifestar intenção de propor ou adoptar uma directiva, um regulamento ou uma decisão sobre a matéria, nos termos do artigo 249.º do Tratado que instituiu as Comunidades Europeias;\n\nii) Quando a Comissão, nos 3 meses subsequentes à data da sua recepção, verificar que o projecto de regra técnica incide sobre matéria abrangida por uma proposta de directiva, de regulamento ou de decisão apresentada ao Conselho nos termos do artigo 249.º do Tratado que instituiu as Comunidades Europeias;\n\nd) 18 meses, se o Conselho adoptar uma posição comum durante o período referido na alínea anterior, sem prejuízo do disposto no n.º 4 do presente artigo.\n\n3 - O prazo a que se refere a alínea a) do número anterior conta-se a partir da data da recepção pela Comissão do projecto se, nos três meses subsequentes, esta instituição ou outro Estado membro emitir um parecer circunstanciado segundo o qual a medida prevista poderá, eventualmente, criar obstáculos à livre circulação dos serviços ou à sua liberdade de estabelecimento.\n\n4 - As obrigações a que se referem as alíneas b) e c) do n.º 2 cessam quando a Comissão informar os Estados membros que renuncia a propor ou a adoptar um acto comunitário vinculativo ou que retira o seu projecto ou proposta e ainda quando o Conselho adoptar, nesse domínio, um acto comunitário vinculativo.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991186": {
+   "fragment_id": "136788922",
+   "type": 11,
+   "heading": "Artigo 6.º — Excepções",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 6.º — Excepções\n\n1 - O disposto nos artigos 4.º e 5.º deste diploma não é aplicável às disposições legislativas e regulamentares ou aos acordos voluntários que, em matéria de especificações técnicas, prossigam as seguintes finalidades:\n\na) Dar cumprimento a actos comunitários vinculativos cujo efeito seja a adopção de especificações técnicas ou de regras relativas aos serviços;\n\nb) Observar os compromissos decorrentes de um acordo internacional cujo efeito seja a adopção de especificações técnicas ou de regras relativas aos serviços e que sejam comuns a toda a Comunidade;\n\nc) Invocar cláusulas de salvaguarda previstas em actos comunitários vinculativos;\n\nd) Aplicar o regime previsto no Decreto-Lei n.º 311/95, de 20 de Novembro, relativo à segurança geral dos produtos;\n\ne) Dar apenas execução a acórdão do Tribunal de Justiça das Comunidades Europeias;\n\nf) Alterar apenas uma regra técnica na acepção da alínea g) do artigo 2.º do presente diploma, de acordo com um pedido da Comissão, tendo em vista eliminar entraves às trocas comerciais.\n\n2 - Não é igualmente aplicável o disposto no artigo 4.º quando se trate de mera transposição integral de uma norma internacional ou europeia, bastando, neste caso, disponibilizar a adequada informação à Comissão sobre essa norma.\n\n3 - A informação referida no número anterior deve ser acompanhada de notificação da qual conste a sua justificação, salvo se esta se depreender, claramente, do projecto.\n\n4 - O disposto nas alíneas b) e c) do n.º 2 do artigo 5.º não se aplica aos acordos voluntários a que se refere o ponto ii) da alínea g) do artigo 2.º\n\n5 - O disposto no artigo 5.º do presente diploma também não é aplicável:\n\na) Às disposições legislativas e regulamentares que visem a proibição de fabrico, na medida em que não entravem a livre circulação de produtos;\n\nb) Às especificações técnicas ou outros requisitos, bem como às regras, relativos aos serviços a que se refere a alínea b) do artigo 2.º deste diploma.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991187": {
+   "fragment_id": "136788923",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimento de urgência",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 7.º — Procedimento de urgência\n\n1 - O disposto no artigo 5.º não é aplicável quando, por razões de urgência resultantes de uma situação grave e imprevisível, que envolva a defesa da saúde das pessoas e dos animais, a preservação das plantas, a segurança e a ordem públicas, nomeadamente a protecção dos menores, seja necessário elaborar, com a maior brevidade, regras técnicas, a adoptar e a aplicar de imediato.\n\n2 - Não é também aplicável o disposto no artigo 5.º deste diploma quando, por razões de urgência resultantes de uma situação grave que envolva a protecção da segurança e integridade do sistema financeiro, nomeadamente a defesa dos depositantes, investidores ou segurados, se torne necessário adoptar e aplicar de imediato regras relativas a serviços financeiros.\n\n3 - Na comunicação referida na alínea a) do n.º 1 do artigo 4.º devem constar os motivos que justificam a urgência das medidas em questão.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991188": {
+   "fragment_id": "136788924",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços não abrangidos",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 8.º — Serviços não abrangidos\n\nOs serviços não abrangidos pelo presente diploma são os indicados no anexo I do presente diploma, que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991189": {
+   "fragment_id": "136788925",
+   "type": 11,
+   "heading": "Artigo 9.º — Referência às directivas",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 9.º — Referência às directivas\n\nA adopção de regras técnicas pela legislação nacional deve fazer referência à Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, com as alterações introduzidas pela Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991190": {
+   "fragment_id": "136788926",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nÉ revogada a Resolução do Conselho de Ministros n.º 95/95, de 3 de Outubro.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991191": {
+   "fragment_id": "136788927",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991192": {
+   "fragment_id": "136788928",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura.\n\nPromulgado em 31 de Março de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Abril de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30"
+  },
+  "136991193": {
+   "fragment_id": "136788929",
+   "type": 14,
+   "heading": "Anexo I — (referido no artigo 8.º)",
+   "in_force_from": "2020-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30",
+    "Retificado pelo/a [Declaração de Rectificação n.º 6-C/2000 - Diário da República n.º 126/2000, 2º Suplemento, Série I-A de 2000-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-c-2000-241796), em vigor a partir de 2000-04-19"
+   ],
+   "markdown": "## Anexo I — (referido no artigo 8.º)\n\nLista dos serviços que não estão abrangidos pelo presente diploma\n\n1 - O presente diploma não é aplicável:\n\na) Aos serviços de radiodifusão sonora;\n\nb) Aos serviços de radiodifusão televisiva referidos na alínea a) do artigo 1.º da Directiva n.º <a href=\"eurlex.asp?ano=1989&id=389L0552\" title=\"Link para Directiva da Comunidade Europeia\">89/552/CEE</a>, do Conselho, de 3 de Outubro;\n\nc) Às regras relativas a questões sujeitas à regulamentação comunitária em matéria de serviços de telecomunicações definidos na Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0387\" title=\"Link para Directiva da Comunidade Europeia\">90/387/CEE</a>, do Conselho, de 28 de Junho;\n\nd) Às regras relativas a questões sujeitas à regulamentação comunitária em matéria de serviços financeiros;\n\ne) Às regras enunciadas pelos ou para os mercados regulamentados na acepção da Directiva n.º <a href=\"eurlex.asp?ano=1993&id=393L0022\" title=\"Link para Directiva da Comunidade Europeia\">93/22/CE</a>, do Conselho, de 10 de Maio, outros mercados ou órgãos que efectuam operações de compensação ou de liquidação desses mercados, sem prejuízo do disposto na alínea f) do artigo 4.º do presente diploma.\n\n2 - O presente diploma também não é aplicável aos serviços prestados na presença física do prestador e do destinatário, ainda que a sua prestação implique a utilização de dispositivos electrónicos:\n\na) Exames ou tratamentos num consultório médico por meio de equipamentos electrónicos, mas na presença física do paciente;\n\nb) Consulta de um catálogo electrónico num estabelecimento comercial na presença física do cliente;\n\nc) Reserva de um bilhete de avião através de uma rede de computadores numa agência de viagens na presença física do cliente;\n\nd) Disponibilização de jogos electrónicos numa sala de jogos na presença física do utilizador.\n\n3 - São também excluídos da aplicação do diploma os serviços que não são fornecidos por via electrónica:\n\na) Serviços cujo conteúdo é material, mesmo quando impliquem a utilização de dispositivos electrónicos:\n\ni) Distribuição automática de notas e bilhetes, tais como notas de banco e bilhetes de comboio;\n\nii) Acesso às redes rodoviárias, parques de estacionamento, etc., mediante pagamento, mesmo que existam dispositivos electrónicos à entrada e ou saída para controlar o acesso e ou garantir o correcto pagamento;\n\nb) Serviços off-line: distribuição de CD-ROM ou de software em disquettes;\n\nc) Serviços não fornecidos por intermédio de sistemas electrónicos de armazenagem e processamento de dados:\n\ni) Serviços de telefonia vocal;\n\nii) Serviços de telecópia e telex;\n\niii) Teletexto televisivo;\n\niv) Serviços prestados por telefonia vocal ou telecópia;\n\nv) Consulta de um médico por telefone ou telecópia;\n\nvi) Consulta de um advogado por telefone ou telecópia;\n\nvii) Marketing directo por telefone ou telecópia.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 30/2020 - Diário da República n.º 124/2020, Série I de 2020-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512), em vigor a partir de 2020-06-30\n\n> Retificado pelo/a [Declaração de Rectificação n.º 6-C/2000 - Diário da República n.º 126/2000, 2º Suplemento, Série I-A de 2000-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-c-2000-241796), em vigor a partir de 2000-04-19"
+  }
+ }
+}

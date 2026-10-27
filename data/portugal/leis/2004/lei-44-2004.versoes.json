@@ -1,0 +1,302 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:480525:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-865433876",
+ "dre_path": "/dr/detalhe/lei/44-2004-480525",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-08-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "865421975",
+    "865421976",
+    "865421977",
+    "865421978",
+    "865421979",
+    "865421980",
+    "865421981",
+    "865421982",
+    "865421983",
+    "865421984",
+    "865421985",
+    "865421986",
+    "865421987",
+    "865421988",
+    "865421989"
+   ]
+  },
+  {
+   "date": "2006-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:537262:por",
+     "title": "Decreto-Lei n.º 129/2006",
+     "published": "2006-07-07",
+     "dre_path": "/dr/detalhe/decreto-lei/129-2006-537262"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º-A"
+   ],
+   "fragments": [
+    "865421975",
+    "865421976",
+    "865421977",
+    "865421978",
+    "865421996",
+    "865421997",
+    "865421981",
+    "865421982",
+    "865421998",
+    "865421984",
+    "865421985",
+    "865421986",
+    "865421987",
+    "865421988",
+    "865422006",
+    "865422000",
+    "865422001"
+   ]
+  },
+  {
+   "date": "2009-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:494253:por",
+     "title": "Decreto-Lei n.º 135/2009",
+     "published": "2009-06-03",
+     "dre_path": "/dr/detalhe/decreto-lei/135-2009-494253"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "865421975",
+    "865421976",
+    "865421977",
+    "865421978",
+    "865422012",
+    "865421997",
+    "865421981",
+    "865421982",
+    "865421998",
+    "865421984",
+    "865421985",
+    "865421986",
+    "865421987",
+    "865421988",
+    "865422011",
+    "865422000",
+    "865422001"
+   ]
+  }
+ ],
+ "fragments": {
+  "865421975": {
+   "fragment_id": "865433877",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 44/2004\n\nde 19 de Agosto\n\nDefine o regime jurídico da assistência nos locais destinados a banhistas\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "865421976": {
+   "fragment_id": "865433878",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei tem por objecto a garantia de segurança dos banhistas nas praias marítimas, nas praias de águas fluviais e lacustres, reconhecidas pelas entidades competentes como adequadas para a prática de banhos.\n\n2 - Exclui-se da presente lei a segurança dos utilizadores de piscinas ou outros recintos públicos, destinados à prática de diversões aquáticas, constantes do Regulamento das Condições Técnicas e de Segurança dos Recintos com Diversões Aquáticas, aprovado pelo Decreto Regulamentar n.º 5/97, de 31 de Março."
+  },
+  "865421977": {
+   "fragment_id": "865433879",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) Banhista - o utilizador dos locais a que se refere o n.º 1 do artigo anterior;\n\nb) Praias marítimas - as que se encontrem qualificadas como tal por diploma legal;\n\nc) Praias de águas fluviais e lacustres - as que se encontrem qualificadas como tal por diploma legal;\n\nd) Praias de banhos - as definidas nas anteriores alíneas b) e c);\n\ne) Assistência a banhistas - o exercício de actividades de informação, vigilância, salvamento e prestação de socorro por nadadores salvadores;\n\nf) Nadador salvador - pessoa singular habilitada com curso de nadador salvador, pela Escola de Autoridade Marítima e certificado pelo Instituto de Socorros a Náufragos, com a função de vigilância, socorro, salvamento e assistência aos banhistas;\n\ng) Concessionário - titular de licença ou autorização para a exploração de equipamentos ou instalações balneares, mediante o pagamento de uma taxa, bem como prestação de determinados serviços de apoio, vigilância e segurança aos utentes da praia;\n\nh) Praia concessionada - a área de uma praia relativamente à qual é licenciada ou autorizada a prestação de serviços a utentes por entidade privada;\n\ni) Época balnear - o período de tempo, fixado anualmente por determinação administrativa da autoridade competente, ao longo do qual vigora a obrigatoriedade de garantia da assistência aos banhistas."
+  },
+  "865421978": {
+   "fragment_id": "865433880",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípio geral\n\n1 - A assistência a banhistas deve ser assegurada nas praias durante todo o período definido para a época balnear.\n\n2 - O material e equipamento para prestação de informação, vigilância, socorro e salvamento deve ser instalado em local visível e reconhecível pelos banhistas e em permanência durante a época balnear, bem como de fácil acesso pelos nadadores salvadores."
+  },
+  "865421979": {
+   "fragment_id": "865433881",
+   "type": 11,
+   "heading": "Artigo 4.º — Época balnear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Época balnear\n\n1 - A época balnear é definida para cada praia de banhos concessionada em função das condições climatéricas e das características geofísicas de cada zona ou local, das tendências de frequência dos banhistas e dos interesses sociais ou ambientais próprios da localização.\n\n2 - A época balnear é fixada por portaria a publicar até 31 de Janeiro de cada ano, sob proposta dos presidentes das câmaras municipais abrangidas.\n\n3 - Na ausência de proposta, nos termos do número anterior, relativa a praias de banhos não concessionadas, a época balnear decorre entre 1 de Junho e 30 de Setembro de cada ano.\n\n4 - Sem prejuízo do disposto no n.º 2 do artigo 9.º, o Governo fixará as medidas e procedimentos adequados para garantia da segurança dos banhistas em zonas com praias de banhos não concessionadas."
+  },
+  "865421980": {
+   "fragment_id": "865433882",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências\n\nO cumprimento da garantia da assistência aos banhistas compete às seguintes entidades:\n\na) Ao Ministério da Defesa Nacional, através da Autoridade Marítima Nacional, estabelecer os critérios e condições gerais para o cumprimento da prestação da actividade nas áreas de jurisdição marítima;\n\nb) Ao Ministério da Defesa Nacional, através da Autoridade Marítima Nacional, para estatuir critérios, entidades e métodos competentes para a fiscalização do cumprimento da garantia do pessoal devidamente habilitado para o exercício da assistência a banhistas;\n\nc) Ao Ministério da Defesa Nacional, através da Autoridade Marítima Nacional, definir os materiais e equipamentos necessários ao exercício das actividades;\n\nd) Ao Ministério da Defesa Nacional, no âmbito dos órgãos locais da Direcção-Geral da Autoridade Marítima, difundir as determinações aos banhistas através de edital de praia e demais informações tidas como necessárias;\n\ne) À Autoridade Marítima Nacional, através do Instituto de Socorros a Náufragos, certificar e fiscalizar a actividade de vigilância, salvamento e prestação de assistência aos banhistas;\n\nf) Ao Ministério das Cidades, Ordenamento do Território e Ambiente, no âmbito dos seus órgãos regionais, contratar os nadadores salvadores, assegurando uma prestação dos seus serviços, no período da época balnear;\n\ng) Ao Ministério das Cidades, Ordenamento do Território e Ambiente, através do Instituto da Água, informar os banhistas relativamente aos locais referidos na alínea c) do artigo 2.º;\n\nh) Ao Governo, que definirá o regime jurídico relativo ao estatuto do nadador salvador, bem como o enquadramento legal das associações de nadadores salvadores."
+  },
+  "865421981": {
+   "fragment_id": "865433883",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres dos nadadores salvadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres dos nadadores salvadores\n\nSão deveres do nadador salvador, no desempenho das suas actividades:\n\na) Vigiar a forma como decorrem os banhos;\n\nb) Auxiliar os banhistas, prevenindo-os ou advertindo-os para a ocorrência de situações de risco ou perigosas;\n\nc) Alertar os banhistas, demovendo-os da prática de actos que, no meio aquático, constituam risco para a sua saúde ou integridade física;\n\nd) Socorrer os banhistas em situação de perigo ou de emergência;\n\ne) Socorrer os banhistas em casos de acidente ou situações de emergência;\n\nf) Observar as instruções das autoridades competentes, nomeadamente as que lhe sejam dadas pela Polícia Marítima no âmbito de acidente pessoal ocorrido com banhistas ou em caso de alteração das condições meteorológicas."
+  },
+  "865421982": {
+   "fragment_id": "865433884",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres de outro pessoal encarregue da assistência a banhistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres de outro pessoal encarregue da assistência a banhistas\n\nSão obrigações específicas de outro pessoal encarregue da segurança dos banhistas o apoio, a colaboração e o complemento da actividade dos nadadores salvadores, sempre que necessário, ao nível da prestação dos cuidados imediatos, designadamente de saúde."
+  },
+  "865421983": {
+   "fragment_id": "865433885",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações dos concessionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações dos concessionários\n\nSão obrigações dos concessionários:\n\na) Possuir os materiais e equipamentos destinados à informação, vigilância e prestação de socorro e salvamento, de acordo com as especificações determinadas pelo Instituto de Socorros a Náufragos;\n\nb) Providenciar na manutenção em estado de adequada operacionalidade do material de informação, vigilância, prestação de socorro e salvamento;\n\nc) Instalar os materiais e equipamentos referidos na alínea anterior;\n\nd) Colaborar e cooperar com as entidades de superintendência de garantia da segurança dos banhistas;\n\ne) Liquidar com prontidão as taxas devidas nos termos do contrato de concessão."
+  },
+  "865421984": {
+   "fragment_id": "865433886",
+   "type": 11,
+   "heading": "Artigo 9.º — Aquisição de materiais e equipamentos para o exercício das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aquisição de materiais e equipamentos para o exercício das actividades\n\n1 - Nas praias de banhos concessionadas compete aos titulares da concessão a aquisição dos materiais e equipamentos para prestação de informação, vigilância, operações de socorro e salvamento.\n\n2 - Nas praias de banhos não concessionadas compete às entidades a indicar pelo Governo providenciar pela existência de material e equipamento de informação, vigilância, socorro e salvamento."
+  },
+  "865421985": {
+   "fragment_id": "865433887",
+   "type": 11,
+   "heading": "Artigo 10.º — Delimitação de perímetro de exclusão do exercício de actividades náuticas motorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Delimitação de perímetro de exclusão do exercício de actividades náuticas motorizadas\n\n1 - Para garantir a segurança dos banhistas serão definidas, por portaria, delimitações territoriais de proibição de actividades náuticas motorizadas nas praias situadas em áreas de águas fluviais e lacustres.\n\n2 - A fiscalização e a competência contra-ordenacional serão definidas pelo Governo."
+  },
+  "865421986": {
+   "fragment_id": "865433888",
+   "type": 11,
+   "heading": "Artigo 11.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regulamentação\n\nO Governo regulamentará a presente lei no prazo de 120 dias após a sua entrada em vigor."
+  },
+  "865421987": {
+   "fragment_id": "865433889",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação nas Regiões Autónomas dos Açores e da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aplicação nas Regiões Autónomas dos Açores e da Madeira\n\nO regime previsto na presente lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as necessárias adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado."
+  },
+  "865421988": {
+   "fragment_id": "865433890",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nCom a entrada em vigor da presente lei são revogados o Decreto n.º 42305, de 5 de Junho de 1959, e o Decreto n.º 49007, de 13 de Maio de 1969, bem como todas as disposições legais e regulamentares complementares."
+  },
+  "865421989": {
+   "fragment_id": "865433891",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor com o Orçamento do Estado para 2005, com excepção do disposto no artigo 11.º, que tem a sua vigência no dia imediato ao da publicação."
+  },
+  "865421996": {
+   "fragment_id": "865433881",
+   "type": 11,
+   "heading": "Artigo 4.º — Época balnear",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 4.º — Época balnear\n\n1 - A época balnear é definida para cada praia de banhos concessionada em função das condições climatéricas e das características geofísicas de cada zona ou local, das tendências de frequência dos banhistas e dos interesses sociais ou ambientais próprios da localização.\n\n2 - A época balnear é fixada por portaria a publicar até 31 de Janeiro de cada ano, sob proposta dos presidentes das câmaras municipais abrangidas.\n\n3 - Na ausência de proposta, nos termos do número anterior, a época balnear decorre entre 1 de Junho e 30 de Setembro de cada ano.\n\n4 - Sem prejuízo do disposto no n.º 2 do artigo 9.º, o Governo fixará as medidas e procedimentos adequados para garantia da segurança dos banhistas em zonas com praias de banhos não concessionadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+  },
+  "865421997": {
+   "fragment_id": "865433882",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 5.º — Competências\n\nO cumprimento da garantia da assistência aos banhistas compete às seguintes entidades:\n\na) Ao Ministério da Defesa Nacional, através da Autoridade Marítima Nacional, estabelecer os critérios e condições gerais para o cumprimento da prestação da actividade nas áreas de jurisdição marítima;\n\nb) Ao Ministério da Defesa Nacional, através da Autoridade Marítima Nacional, para estatuir critérios, entidades e métodos competentes para a fiscalização do cumprimento da garantia do pessoal devidamente habilitado para o exercício da assistência a banhistas;\n\nc) Ao Ministério da Defesa Nacional, através da Autoridade Marítima Nacional, definir os materiais e equipamentos necessários ao exercício das actividades;\n\nd) Ao Ministério da Defesa Nacional, no âmbito dos órgãos locais da Direcção-Geral da Autoridade Marítima, difundir as determinações aos banhistas através de edital de praia e demais informações tidas como necessárias;\n\ne) À Autoridade Marítima Nacional, através do Instituto de Socorros a Náufragos, certificar e fiscalizar a actividade de vigilância, salvamento e prestação de assistência aos banhistas;\n\nf) Ao Ministério das Cidades, Ordenamento do Território e Ambiente, através do Instituto da Água, informar os banhistas relativamente aos locais referidos na alínea c) do artigo 2.º;\n\ng) Ao Governo, que definirá o regime jurídico relativo ao estatuto do nadador salvador, bem como o enquadramento legal das associações de nadadores salvadores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+  },
+  "865421998": {
+   "fragment_id": "865433885",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações dos concessionários",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 8.º — Obrigações dos concessionários\n\nSão obrigações dos concessionários:\n\na) Possuir os materiais e equipamentos destinados à informação, vigilância e prestação de socorro e salvamento, de acordo com as especificações determinadas pelo Instituto de Socorros a Náufragos;\n\nb) Providenciar na manutenção em estado de adequada operacionalidade do material de informação, vigilância, prestação de socorro e salvamento;\n\nc) Instalar os materiais e equipamentos referidos na alínea anterior;\n\nd) Contratar os nadadores-salvadores, assegurando uma prestação dos seus serviços no período da época balnear;\n\ne) Colaborar e cooperar com as entidades de superintendência de garantia da segurança dos banhistas;\n\nf) Liquidar com prontidão as taxas devidas nos termos do contrato de concessão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+  },
+  "865422006": {
+   "fragment_id": "865433901",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Época balnear de 2006",
+   "in_force_from": "2006-07-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2006 - Diário da República n.º 130/2006, Série I de 2006-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2006-537262), em vigor a partir de 2006-07-08",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 13.º-A — Época balnear de 2006\n\n1 - Enquanto as matérias referidas nas alíneas a) a e) e g) do artigo 5.º não conhecerem regulamentação definitiva, mantêm-se em vigor, para a época balnear de 2006, todos os mecanismos de fiscalização, segurança e assistência balnear aplicáveis pelos órgãos e serviços dependentes da Autoridade Marítima Nacional (AMN), em especial do Instituto de Socorros a Náufragos e das capitanias dos portos, designadamente os que resultam da aplicação do quadro legal mencionado no artigo anterior.\n\n2 - A fiscalização a efectuar pelos órgãos da AMN, e especificamente pela Polícia Marítima, e o regime contra-ordenacional aplicável à matéria de assistência aos banhistas nas praias, que incluirá, designadamente, as situações previstas no artigo 10.º são estabelecidos por meio de decreto regulamentar, a publicar no prazo de 20 dias contados da publicação do presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2006 - Diário da República n.º 130/2006, Série I de 2006-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2006-537262), em vigor a partir de 2006-07-08\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+  },
+  "865422000": {
+   "fragment_id": "865433891",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor com o Orçamento do Estado para 2005, com excepção do disposto no artigo 11.º, que tem a sua vigência no dia imediato ao da publicação."
+  },
+  "865422001": {
+   "fragment_id": "865433892",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 1 de Julho de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 2 de Agosto de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 5 de Agosto de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "865422012": {
+   "fragment_id": "865433881",
+   "type": 11,
+   "heading": "Artigo 4.º — Época balnear",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 135/2009 - Diário da República n.º 107/2009, Série I de 2009-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2009-494253), em vigor a partir de 2009-11-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 4.º — Época balnear\n\n1 - A época balnear para cada praia de banhos concessionada é fixada nos termos do Decreto-Lei n.º 135/2009, de 3 de Junho.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Sem prejuízo do disposto no n.º 2 do artigo 9.º, o Governo fixará as medidas e procedimentos adequados para garantia da segurança dos banhistas em zonas com praias de banhos não concessionadas.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 135/2009 - Diário da República n.º 107/2009, Série I de 2009-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2009-494253), em vigor a partir de 2009-11-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+  },
+  "865422011": {
+   "fragment_id": "865433901",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Época balnear de 2007",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/2007 - Diário da República n.º 134/2007, Série I de 2007-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2007-636071), produz efeitos a partir de 2007-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2006 - Diário da República n.º 130/2006, Série I de 2006-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2006-537262), em vigor a partir de 2006-07-08",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+   ],
+   "markdown": "###### Artigo 13.º-A — Época balnear de 2007\n\n1 - Mantêm-se em vigor, para a época balnear de 2007, todos os mecanismos de fiscalização, segurança e assistência balnear aplicáveis pelos órgãos e serviços dependentes da Autoridade Marítima Nacional (AMN), em especial as determinações das capitanias dos portos e as directivas técnicas do Instituto de Socorros a Náufragos resultantes do seu quadro próprio de competências, designadamente as existentes em todas as matérias relativas ao quadro legal mencionado no artigo anterior.\n\n2 - A fiscalização a efectuar pelos órgãos da AMN, e especificamente pela Polícia Marítima, e o regime contra-ordenacional aplicável à matéria de assistência aos banhistas nas praias, que incluirá, designadamente, as situações previstas no artigo 10.º são estabelecidos por meio de decreto regulamentar, a publicar no prazo de 20 dias contados da publicação do presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/2007 - Diário da República n.º 134/2007, Série I de 2007-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2007-636071), produz efeitos a partir de 2007-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2006 - Diário da República n.º 130/2006, Série I de 2006-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2006-537262), em vigor a partir de 2006-07-08\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186), produz efeitos a partir de 2005-06-24"
+  }
+ }
+}

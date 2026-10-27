@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:505051:por
+title: Portaria n.º 22517
+short_title: null
+summary: Mantém em vigor, com a nova redacção do artigo 97.º, as tarifas provisórias da Junta Autónoma dos Portos do Norte,
+  aprovadas pela Portaria n.º 19878
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Junta Central de Portos
+proposing_entity: null
+official_number: '22517'
+official_date: null
+publication_date: '1967-02-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 36/1967, Série I de 1967-02-11
+  number: '36'
+  series: I
+  supplement: null
+  pages: 186 - 186
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/02/03600/01860186.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '505051'
+  dre_path: /dr/detalhe/portaria/22517-1967-505051
+  internal: pt:dre:505051:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22517-1967-505051
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22517-1967-505051
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2c57c1ffd6680c21fc41f8cc0713d838b7aa3bacb9a4444d73ab123883a28f29
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Exploração Portuária
+- Junta Autónoma dos Portos do Norte
+- Prestação de Serviços
+- Regulamento
+- Tarifa Portuária
+- TAXA de Prestação de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:396745:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:234938:por
+  label: "Mantidas em vigor as tarifas provisórias da Junta Autónoma dos Portos do Norte constantes do Regulamento aprovado\
+    \ pela Port 19878 de 29-Mai de 1963, com a redacção conferida no presente diploma, pela PORT.23296.04.04.1968.MCOMN, DG.IS\
+    \ [81] de 04.04.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23296-1968-234938
+  date: '1968-04-04'
+- type: amended_by
+  target: pt:dre:530375:por
+  label: "Mantidas em vigor as tarifas provisórias da Junta Autónoma dos Portos do Norte constantes do Regulamento aprovado\
+    \ pela Port 19878 de 29-Mai de 1963, com a redacção conferida no presente diploma, pela PORT.24043.24.04.1969.MCOMN, DG.IS\
+    \ [97] de 24.04.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24043-1969-530375
+  date: '1969-04-24'
+- type: amended_by
+  target: pt:dre:447306:por
+  label: "Mantidas em vigor as tarifas constante do Regulamento de Tarifas da Junta Autónoma dos Portos do Norte aprovado\
+    \ pela Port 19878 de 29-Mai de 1963, com a redacção conferida no presente diploma, pela PORT.66/71.09.02.1971.MCOMN, DG.IS\
+    \ [33] de 09.02.1971\071\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/66-1971-447306
+  date: '1971-02-09'
+- type: amended_by
+  target: pt:dre:396745:por
+  label: "Mantidas em vigor as tarifas provisórias constantes do Regulamento de Tarifas da Junta Autónoma dos Portos do Norte\
+    \ aprovado pela Port 19878 de 29-Mai de 1963, com a redacção conferida no presente diploma, pela PORT.160/72.21.03.1972.MCOMN,\
+    \ DG.IS [68] de 21.03.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-1972-396745
+  date: '1972-03-21'
+- type: cites
+  target: pt:dre:627628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:27:17Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22517
+
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos do Norte, aprovadas pela [Portaria n.º 19878](https://diariodarepublica.pt/dr/detalhe/portaria/19878-1963-627628), de 29 de Maio de 1963, com a seguinte alteração da redacção do artigo 97.º:
+
+Art. 97.º Pela utilização da lota serão cobradas aos donos do pescado e aos seus compradores, respectivamente, por cada compra ou por cada venda de peixe, as seguintes taxas:
+
+a) Por cada teca vendida ... 3$00
+
+b) Por cada teca comprada ... 1$50
+
+§ 1.º Estas taxas terão aplicação nos portos sob jurisdição da Junta onde exista a seu cargo edifício próprio para o funcionamento de lota.
+
+§ 2.º A taxa da alínea a) só entrará em vigor quando a comissão administrativa da Junta o achar conveniente.
+
+Ministério das Comunicações, 11 de Fevereiro de 1967. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636046:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-74200446",
+ "dre_path": "/dr/detalhe/portaria/784-2007-636046",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-07-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74209430"
+   ]
+  },
+  {
+   "date": "2016-04-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74216973:por",
+     "title": "Portaria n.º 97/2016",
+     "published": "2016-04-20",
+     "dre_path": "/dr/detalhe/portaria/97-2016-74216973"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "74209430",
+    "74209432",
+    "74209433",
+    "74209434",
+    "74209435",
+    "74209436",
+    "74209443",
+    "74209438",
+    "74209439",
+    "74209440",
+    "74209431"
+   ]
+  }
+ ],
+ "fragments": {
+  "74209430": {
+   "fragment_id": "74200447",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 784/2007\n\nde 19 de Julho\n\nA requerimento da Cruz Vermelha Portuguesa, entidade instituidora da Escola Superior de Saúde da Cruz Vermelha Portuguesa, reconhecida, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (Decreto-Lei n.º 271/89, de 19 de Agosto), pela Portaria n.º 557/93, de 31 de Maio, conjugada com o disposto no Decreto-Lei n.º 44/2003, de 13 de Março;\n\nConsiderando o disposto no Decreto-Lei n.º 353/99, de 3 de Setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela Portaria n.º 268/2002, de 13 de Março;\n\nColhido o parecer da comissão técnica para o ensino da enfermagem nomeada pelo despacho conjunto n.º 291/2003 (2.ª série), de 27 de Março;\n\nOuvida a Ordem dos Enfermeiros;\n\nAo abrigo do disposto nos artigos 64.º do referido Estatuto e 14.º e 15.º do Decreto-Lei n.º 353/99, de 3 de Setembro:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  },
+  "74209432": {
+   "fragment_id": "74200449",
+   "type": 11,
+   "heading": "Artigo 1.º — Autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Autorização de funcionamento\n\nÉ autorizado o funcionamento do curso de pós-licenciatura de especialização em Enfermagem de Reabilitação na Escola Superior de Saúde da Cruz Vermelha Portuguesa."
+  },
+  "74209433": {
+   "fragment_id": "74200450",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamento\n\nO curso cujo funcionamento é autorizado pela presente portaria rege-se pelo disposto no Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela Portaria n.º 268/2002, de 13 de Março."
+  },
+  "74209434": {
+   "fragment_id": "74200451",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nO curso tem a duração de dois semestres lectivos."
+  },
+  "74209435": {
+   "fragment_id": "74200452",
+   "type": 11,
+   "heading": "Artigo 4.º — Créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Créditos\n\nO número de créditos, segundo o sistema europeu de transferência e acumulação de créditos, necessário à obtenção do diploma de especialização em Enfermagem de Reabilitação é de 60."
+  },
+  "74209436": {
+   "fragment_id": "74200453",
+   "type": 11,
+   "heading": "Artigo 5.º — Plano de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plano de estudos\n\nÉ aprovado o plano de estudos do curso nos termos do anexo à presente portaria."
+  },
+  "74209443": {
+   "fragment_id": "74200454",
+   "type": 11,
+   "heading": "Artigo 6.º — Número máximo de alunos",
+   "in_force_from": "2016-04-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Portaria n.º 97/2016 - Diário da República n.º 77/2016, Série I de 2016-04-20](https://diariodarepublica.pt/dr/detalhe/portaria/97-2016-74216973), em vigor a partir de 2016-04-25"
+   ],
+   "markdown": "###### Artigo 6.º — Número máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder os 30.\n\n2 - A frequência global do curso não pode exceder 45 alunos.\n\n> Alterado pelo/a Artigo Único do/a [Portaria n.º 97/2016 - Diário da República n.º 77/2016, Série I de 2016-04-20](https://diariodarepublica.pt/dr/detalhe/portaria/97-2016-74216973), em vigor a partir de 2016-04-25"
+  },
+  "74209438": {
+   "fragment_id": "74200455",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei."
+  },
+  "74209439": {
+   "fragment_id": "74200456",
+   "type": 11,
+   "heading": "Artigo 8.º — Início de funcionamento do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Início de funcionamento do curso\n\nO curso pode iniciar o seu funcionamento a partir do ano lectivo de 2007-2008, inclusive."
+  },
+  "74209440": {
+   "fragment_id": "74200457",
+   "type": 11,
+   "heading": "Artigo 9.º — Condicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Ciência, Tecnologia e Ensino Superior, quer por não cumprimento dos pressupostos de autorização e de reconhecimento quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo."
+  },
+  "74209431": {
+   "fragment_id": "74200448",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 2 de Julho de 2007.\n\n(ver documento original)"
+  }
+ }
+}

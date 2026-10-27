@@ -1,0 +1,94 @@
+---
+schema_version: '1.0'
+id: pt:dre:682019:por
+title: Resolução n.º 126/80
+short_title: null
+summary: Atribui à Anop - Agência Noticiosa Portuguesa, E. P., a título de subsídio não reembolsável, a verba de 5835 contos,
+  correspondente ao duodécimo de Março do corrente ano
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 126/80
+official_date: null
+publication_date: '1980-04-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/1980, Série I de 1980-04-11
+  number: '85'
+  series: I
+  supplement: null
+  pages: 716 - 716
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/04/08500/07160716.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '682019'
+  dre_path: /dr/detalhe/resolucao/126-1980-682019
+  internal: pt:dre:682019:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/126-1980-682019
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/126-1980-682019
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f85d3638328a35caaa408539bded6c9542dfbc0d9df79f82c0dfe6daa5c28eb9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:27:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ANOP
+- Subsídio não Reembolsável
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:27:23Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 126/80
+
+Considerando que enquanto não se encontrar aprovado o Orçamento Geral do Estado para 1980 há que facultar à Anop - Agência Noticiosa Portuguesa, E. P., os meios financeiros necessários ao seu adequado funcionamento, atenta a natureza dos serviços que a mesma presta;
+
+Considerando, por outro lado, que na aplicação do regime orçamental transitório, actualmente vigente, a atribuição de subsídios de exploração a empresas públicas está dependente de aprovação de resolução do Conselho de Ministros:
+
+O Conselho de Ministros, reunido em 27 de Março de 1980, resolveu atribuir à Anop - Agência Noticiosa Portuguesa, E. P., a título de subsídio não reembolsável, a verba de 5835 contos, correspondente ao duodécimo de Março do corrente ano, calculado com base no subsídio de exploração em 1979 concedido àquela empresa pública, sobre o qual não incidirão quaisquer descontos.
+
+Presidência do Conselho de Ministros, 27 de Março de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.

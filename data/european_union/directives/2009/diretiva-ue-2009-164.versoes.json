@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0164:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0164-20100112",
+ "dre_path": null,
+ "source_lastmod": "2010-01-12",
+ "versions": [
+  {
+   "date": "2009-12-23",
+   "future": false,
+   "celex": "32009L0164",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "661f63014cf71f96",
+    "46216ef26c4fc8bc",
+    "f2fafe24b1aa2ecf",
+    "02105a29f27b757d",
+    "96bec1a1c53a1261",
+    "139a10adfdb9a902",
+    "ab94271de7e8c777"
+   ]
+  },
+  {
+   "date": "2010-01-12",
+   "future": false,
+   "celex": "02009L0164-20100112",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "7a3af1e91469e3dc",
+    "46216ef26c4fc8bc",
+    "f2fafe24b1aa2ecf",
+    "02105a29f27b757d",
+    "96bec1a1c53a1261",
+    "c2768784123201be",
+    "05056d4fc8b2ee34",
+    "be3d5408ba2ab39b"
+   ]
+  }
+ ],
+ "fragments": {
+  "661f63014cf71f96": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 2009\n\nque altera, para fins de adaptação ao progresso técnico, os anexos II e III da Directiva 76/768/CEE do Conselho relativa aos produtos cosméticos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia e o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos [([^1])](http://publications.europa.eu/resource/cellar/873a8d89-3962-42d3-8966-919ff167e489.0018.02/DOC_1#ntr1-L_2009344PT.01004101-E0001), nomeadamente o artigo 8.º, n.º 2,\n\nApós consulta do Comité Científico da Segurança dos Consumidores,\n\nConsiderando o seguinte:\n\n(1) A utilização do óleo de verbena (*Lippia citriodora* Kunth.) em produtos cosméticos está actualmente proibida, constando a substância da lista do anexo II da Directiva 76/768/CEE, com o número de ordem 450. A proibição desta substância foi introduzida com base num parecer, de Maio de 2000, do Comité Científico dos Produtos Cosméticos e dos Produtos Não Alimentares Destinados aos Consumidores (SCCNFP), substituído subsequentemente pelo Comité Científico dos Produtos de Consumo (CCPC), ao abrigo da Decisão 2004/210/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/873a8d89-3962-42d3-8966-919ff167e489.0018.02/DOC_1#ntr2-L_2009344PT.01004101-E0002), e mais tarde pelo Comité Científico da Segurança dos Consumidores (CCSC), ao abrigo da Decisão 2008/721/CE da Comissão [([^3])](http://publications.europa.eu/resource/cellar/873a8d89-3962-42d3-8966-919ff167e489.0018.02/DOC_1#ntr3-L_2009344PT.01004101-E0003). O SCCNFP recomendou a proibição de óleos essenciais e produtos derivados, por exemplo, concretos e absolutos, de verbena (*Lippia citriodora* Kunth.), quando usados como ingredientes de perfumaria, com base no potencial sensibilizante.\n\n(2) Contudo, o SCCNFP concluiu mais tarde, num parecer emitido em 2001, que o absoluto de verbena obtido de *Lippia citriodora* Kunth. não deveria ser utilizado de modo a que o seu teor nos produtos cosméticos acabados exceda 0,2 %. É por conseguinte adequado incluir o absoluto de verbena (*Lippia citriodora* Kunth.), com a respectiva restrição, na primeira parte do anexo III da Directiva 76/768/CEE. É igualmente adequado alterar o número de ordem 450 do anexo II a fim de especificar que os óleos essenciais de verbena (*Lippia citriodora* Kunth.) e produtos derivados, à excepção do absoluto, são proibidos como ingredientes de perfumaria.\n\n(3) A Directiva 2008/42/CE da Comissão, de 3 de Abril de 2008, que altera a Directiva 76/768/CEE do Conselho, no que se refere aos produtos cosméticos, a fim de adaptar os seus anexos II e III aos progressos da técnica [([^4])](http://publications.europa.eu/resource/cellar/873a8d89-3962-42d3-8966-919ff167e489.0018.02/DOC_1#ntr4-L_2009344PT.01004101-E0004), inclui, na primeira parte do anexo III da Directiva 76/768/CEE, diversos ésteres de alilo que contêm álcool alílico como impureza. A substância «allyl phenethyl ether» também pode conter álcool alílico como impureza. Para esta substância, o SCCNFP emitiu um parecer em 2000 recomendando um limite máximo de 0,1 % de álcool alílico como impureza.\n\n(4) À luz do parecer do SCCNFP, bem como por razões de coerência, é adequado incluir na primeira parte do anexo III da Directiva 76/768/CEE a substância «allyl phenethyl ether» com a respectiva restrição.\n\n(5) O grupo de substâncias designado por «Terpene terpenoids sinpine» figura actualmente com o número de ordem 130 na primeira parte do anexo III da Directiva 76/768/CEE. Contudo, o termo «sinpine» é a designação comercial e, como tal, deve ser suprimido da designação desse grupo de substâncias.\n\n(6) A Directiva 76/768/CEE deve, consequentemente, ser alterada em conformidade.\n\n(7) Com vista a assegurar uma transição sem problemas entre as fórmulas dos produtos cosméticos existentes e as fórmulas conformes aos requisitos estabelecidos na presente directiva, é necessário prever períodos de transição adequados.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Produtos Cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "46216ef26c4fc8bc": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos II e III da Directiva 76/768/CEE são alterados nos termos do anexo da presente directiva."
+  },
+  "f2fafe24b1aa2ecf": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros tomarão as medidas necessárias para que, a partir de 15 de Fevereiro de 2011, não sejam colocados no mercado da União, pelos fabricantes ou pelos importadores estabelecidos na União, produtos cosméticos que não cumpram a presente directiva.\n\nOs Estados-Membros tomarão as medidas necessárias para que, a partir de 15 de Agosto de 2011, não sejam vendidos ou postos à disposição do consumidor final na União produtos cosméticos que não cumpram a presente directiva."
+  },
+  "02105a29f27b757d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros adoptarão e publicarão, o mais tardar em 15 de Agosto de 2010 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto das referidas disposições.\n\nOs Estados-Membros aplicarão essas disposições a partir de 15 de Fevereiro de 2011.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas incluirão uma referência à presente directiva ou serão acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "96bec1a1c53a1261": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "139a10adfdb9a902": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 22 de Dezembro de 2009.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "ab94271de7e8c777": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/873a8d89-3962-42d3-8966-919ff167e489.0018.02/DOC_1#ntc1-L_2009344PT.01004101-E0001) [JO L 262 de 27.9.1976, p. 169](http://publications.europa.eu/resource/oj/JOL_1976_262_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/873a8d89-3962-42d3-8966-919ff167e489.0018.02/DOC_1#ntc2-L_2009344PT.01004101-E0002) [JO L 66 de 4.3.2004, p. 45](http://publications.europa.eu/resource/oj/JOL_2004_066_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/873a8d89-3962-42d3-8966-919ff167e489.0018.02/DOC_1#ntc3-L_2009344PT.01004101-E0003) [JO L 241 de 10.9.2008, p. 21](http://publications.europa.eu/resource/oj/JOL_2008_241_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/873a8d89-3962-42d3-8966-919ff167e489.0018.02/DOC_1#ntc4-L_2009344PT.01004101-E0004) [JO L 93 de 4.4.2008, p. 13](http://publications.europa.eu/resource/oj/JOL_2008_093_R_TOC)."
+  },
+  "7a3af1e91469e3dc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 2009\n\nque altera, para fins de adaptação ao progresso técnico, os anexos II e III da Directiva 76/768/CEE do Conselho relativa aos produtos cosméticos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia e o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos ([^1^](http://publications.europa.eu/resource/cellar/d32ca68b-5965-4062-a719-bd0b2d900765.0018.03/DOC_1#E0001)), nomeadamente o artigo 8.º, n.º 2,\n\nApós consulta do Comité Científico da Segurança dos Consumidores,\n\n(1) A utilização do óleo de verbena (*Lippia citriodora* Kunth.) em produtos cosméticos está actualmente proibida, constando a substância da lista do anexo II da Directiva 76/768/CEE, com o número de ordem 450. A proibição desta substância foi introduzida com base num parecer, de Maio de 2000, do Comité Científico dos Produtos Cosméticos e dos Produtos Não Alimentares Destinados aos Consumidores (SCCNFP), substituído subsequentemente pelo Comité Científico dos Produtos de Consumo (CCPC), ao abrigo da Decisão 2004/210/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/d32ca68b-5965-4062-a719-bd0b2d900765.0018.03/DOC_1#E0002)), e mais tarde pelo Comité Científico da Segurança dos Consumidores (CCSC), ao abrigo da Decisão 2008/721/CE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/d32ca68b-5965-4062-a719-bd0b2d900765.0018.03/DOC_1#E0003)). O SCCNFP recomendou a proibição de óleos essenciais e produtos derivados, por exemplo, concretos e absolutos, de verbena (*Lippia citriodora* Kunth.), quando usados como ingredientes de perfumaria, com base no potencial sensibilizante.\n\n(2) Contudo, o SCCNFP concluiu mais tarde, num parecer emitido em 2001, que o absoluto de verbena obtido de *Lippia citriodora* Kunth. não deveria ser utilizado de modo a que o seu teor nos produtos cosméticos acabados exceda 0,2 %. É por conseguinte adequado incluir o absoluto de verbena (*Lippia citriodora* Kunth.), com a respectiva restrição, na primeira parte do anexo III da Directiva 76/768/CEE. É igualmente adequado alterar o número de ordem 450 do anexo II a fim de especificar que os óleos essenciais de verbena (*Lippia citriodora* Kunth.) e produtos derivados, à excepção do absoluto, são proibidos como ingredientes de perfumaria.\n\n(3) A Directiva 2008/42/CE da Comissão, de 3 de Abril de 2008, que altera a Directiva 76/768/CEE do Conselho, no que se refere aos produtos cosméticos, a fim de adaptar os seus anexos II e III aos progressos da técnica ([^4^](http://publications.europa.eu/resource/cellar/d32ca68b-5965-4062-a719-bd0b2d900765.0018.03/DOC_1#E0004)), inclui, na primeira parte do anexo III da Directiva 76/768/CEE, diversos ésteres de alilo que contêm álcool alílico como impureza. A substância «allyl phenethyl ether» também pode conter álcool alílico como impureza. Para esta substância, o SCCNFP emitiu um parecer em 2000 recomendando um limite máximo de 0,1 % de álcool alílico como impureza.\n\n(4) À luz do parecer do SCCNFP, bem como por razões de coerência, é adequado incluir na primeira parte do anexo III da Directiva 76/768/CEE a substância «allyl phenethyl ether» com a respectiva restrição.\n\n(5) O grupo de substâncias designado por «Terpene terpenoids sinpine» figura actualmente com o número de ordem 130 na primeira parte do anexo III da Directiva 76/768/CEE. Contudo, o termo «sinpine» é a designação comercial e, como tal, deve ser suprimido da designação desse grupo de substâncias.\n\n(6) A Directiva 76/768/CEE deve, consequentemente, ser alterada em conformidade.\n\n(7) Com vista a assegurar uma transição sem problemas entre as fórmulas dos produtos cosméticos existentes e as fórmulas conformes aos requisitos estabelecidos na presente directiva, é necessário prever períodos de transição adequados.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Produtos Cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "05056d4fc8b2ee34": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nA Directiva 76/768/CEE é alterada do seguinte modo:\n\n1. No anexo II, número de ordem 450, a expressão «Óleo de verbena (*Lippia citriodora* Kunth.) (número CAS 8024-12-2), quando usado como ingrediente de perfumaria» é substituída por «Óleos essenciais de verbena (*Lippia citriodora* Kunth.) e produtos derivados com excepção do absoluto (número CAS 8024-12-2), quando usados como ingredientes de perfumaria».\n\n2. A primeira parte do anexo III é alterada do seguinte modo:\n\na) É inserida, a seguir à entrada com o número de ordem 151, a seguinte entrada:\n\n| Número de ordem | Substâncias | Restrições | Condições de utilização e advertências a fazer obrigatoriamente na rotulagem |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Campo de aplicação e/ou utilização | Concentração máxima autorizada no produto cosmético final | Outras limitações e exigências |  |  |  |\n| a | b | c | d | e | f |\n| «151 bis | Allyl phenethyl ether N.º CAS 14289-65-7 N.º CE 238-212-2 |  |  | O nível de álcool alílico livre no éter deve ser inferior a 0,1 %» |  |\n\nb) É aditada a seguinte entrada:\n\n| Número de ordem | Substâncias | Restrições | Condições de utilização e advertências a fazer obrigatoriamente na rotulagem |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Campo de aplicação e/ou utilização | Concentração máxima autorizada no produto cosmético final | Outras limitações e exigências |  |  |  |\n| a | b | c | d | e | f |\n| «[**►C1**](http://publications.europa.eu/resource/celex/32009L0164R%2801%29) 206**◄** | Absoluto de verbena (*Lippia citriodora* Kunth.) N.º CAS 8024-12-2 |  | 0,2 %» |  |  |\n\nc) Na coluna b da entrada com o número de ordem 130, os termos «Terpene terpenoids sinpine» são substituídos por «Terpenes e terpenoids».\n\n---"
+  },
+  "be3d5408ba2ab39b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d32ca68b-5965-4062-a719-bd0b2d900765.0018.03/DOC_1#src.E0001)) JO L 262 de 27.9.1976, p. 169.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d32ca68b-5965-4062-a719-bd0b2d900765.0018.03/DOC_1#src.E0002)) JO L 66 de 4.3.2004, p. 45.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d32ca68b-5965-4062-a719-bd0b2d900765.0018.03/DOC_1#src.E0003)) JO L 241 de 10.9.2008, p. 21.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d32ca68b-5965-4062-a719-bd0b2d900765.0018.03/DOC_1#src.E0004)) JO L 93 de 4.4.2008, p. 13."
+  }
+ }
+}

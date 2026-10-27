@@ -1,0 +1,979 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115200303:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-121665758",
+ "dre_path": "/dr/detalhe/portaria/113-2018-115200303",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "840060640",
+    "121702036",
+    "121702037",
+    "121702038",
+    "121702039",
+    "121702040",
+    "121702041",
+    "121702042",
+    "121702043",
+    "121702044",
+    "121702045",
+    "121702046",
+    "121702047",
+    "121702048",
+    "121702049",
+    "121702050",
+    "121702051",
+    "121702052",
+    "121702053",
+    "121702054",
+    "121702055",
+    "121702056",
+    "121702057",
+    "121702058",
+    "121702059",
+    "121702060",
+    "121702061",
+    "121702062",
+    "121702063",
+    "121702064",
+    "121702065",
+    "121702066",
+    "121702068",
+    "121702069",
+    "121702070"
+   ]
+  },
+  {
+   "date": "2019-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121665683:por",
+     "title": "Portaria n.º 94/2019",
+     "published": "2019-03-28",
+     "dre_path": "/dr/detalhe/portaria/94-2019-121665683"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 23.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "121702035",
+    "121702036",
+    "121702037",
+    "121702038",
+    "121702039",
+    "121702040",
+    "121702041",
+    "121702042",
+    "121702043",
+    "121702044",
+    "121702045",
+    "121702046",
+    "121702047",
+    "121702048",
+    "121702049",
+    "121702050",
+    "121702051",
+    "121702052",
+    "121702053",
+    "121702054",
+    "121702055",
+    "121712779",
+    "121712780",
+    "121702058",
+    "121702059",
+    "121702060",
+    "121702061",
+    "121702062",
+    "121702063",
+    "121712781",
+    "121702065",
+    "121702066",
+    "121702067",
+    "121702068",
+    "121712782",
+    "121702070"
+   ]
+  },
+  {
+   "date": "2023-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207062784:por",
+     "title": "Portaria n.º 40/2023",
+     "published": "2023-02-06",
+     "dre_path": "/dr/detalhe/portaria/40-2023-207062784"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "121702035",
+    "121702036",
+    "121702037",
+    "121702038",
+    "121702039",
+    "121702040",
+    "121702041",
+    "121702042",
+    "121702043",
+    "207110295",
+    "207110296",
+    "121702046",
+    "121702047",
+    "207110297",
+    "121702049",
+    "207110298",
+    "121702051",
+    "121702052",
+    "121702053",
+    "121702054",
+    "121702055",
+    "207110299",
+    "207110300",
+    "121702058",
+    "121702059",
+    "121702060",
+    "121702061",
+    "121702062",
+    "121702063",
+    "121712781",
+    "121702065",
+    "121702066",
+    "121702067",
+    "121702068",
+    "121712782",
+    "121702070"
+   ]
+  },
+  {
+   "date": "2024-02-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:839900710:por",
+     "title": "Portaria n.º 37/2024",
+     "published": "2024-02-01",
+     "dre_path": "/dr/detalhe/portaria/37-2024-839900710"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "840060640",
+    "840060641",
+    "840060642",
+    "840060643",
+    "840060644",
+    "840060645",
+    "840060646",
+    "840060647",
+    "840060648",
+    "840060649",
+    "840060650",
+    "840060651",
+    "840060652",
+    "840060653",
+    "840060654",
+    "840060655",
+    "840060656",
+    "840060657",
+    "840060658",
+    "840060659",
+    "840060660",
+    "840060661",
+    "840060662",
+    "840060663",
+    "840060664",
+    "840060665",
+    "840060666",
+    "840060667",
+    "840060668",
+    "840060669",
+    "840060670",
+    "840060671",
+    "840060672",
+    "840060673",
+    "840060674",
+    "840062475"
+   ]
+  }
+ ],
+ "fragments": {
+  "840060640": {
+   "fragment_id": "121665759",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-02-02",
+   "changed_by": [],
+   "markdown": "Portaria n.º 113/2018\n\nde 30 de abril\n\nTendo por objetivo promover o consumo de fruta, produtos hortícolas e bananas e de leite e produtos lácteos nas escolas, a União Europeia instituiu, através do Regulamento (CE) 1234/2007, do Conselho, de 22 de outubro, revogado e substituído, entretanto, pelo Regulamento (UE) 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, uma ajuda à distribuição desses produtos, consubstanciada em dois programas independentes, com tradução em regimes jurídicos e financeiros distintos. Em Portugal, a distribuição gratuita de fruta, produtos hortícolas e bananas, nos estabelecimentos de ensino público foi inicialmente regulamentada pela Portaria n.º 1242/2009, de 12 de outubro, e, a partir do ano letivo 2014/2015, pela Portaria n.º 375/2015, de 20 de outubro. Paralelamente, a concessão de ajuda comunitária à distribuição de leite e produtos lácteos aos alunos dos estabelecimentos de ensino público encontra-se atualmente regulamentada pela Portaria n.º 161/2011 de 18 de abril.\n\nCom vista a uma melhor eficiência e orientação da ajuda a atribuir e reforço da sua dimensão educativa, o Regulamento (UE) 2016/791, do Parlamento Europeu e do Conselho, de 11 de maio, que alterou o referido Regulamento (UE) 1308/2013, veio estabelecer uma abordagem unificada dos referidos regimes, que passam a estar fundidos no novo regime escolar, ao abrigo de um quadro jurídico e financeiro comum.\n\nO Regulamento (UE) 2016/795, do Conselho, de 11 de abril, que altera o Regulamento (UE) 1370/2013, do Conselho, de 16 de dezembro, fixou as novas dotações orçamentais a atribuir ao financiamento do regime escolar, as quais podem ser complementadas através de fundos nacionais.\n\nPor sua vez, o Regulamento de Execução (UE) 2017/39, da Comissão, e o Regulamento Delegado (UE) 2017/40, da Comissão, ambos de 3 de novembro de 2016, vieram estabelecer as normas de execução e complementares do referido regime escolar.\n\nFace à entrada em vigor do novo quadro regulamentar comunitário e respetiva estratégia nacional, importa, pois, adequar a regulamentação nacional em vigor em conformidade. A transição para o novo quadro regulamentar requer, contudo, por razões de certeza e segurança jurídicas, a manutenção dos anteriores regimes até à conclusão das operações objeto de ajuda ao abrigo desses regimes, bem como a aplicação de regras transitórias aplicáveis ao ano letivo 2017/2018 já em curso.\n\nNestes termos, a presente portaria institui, a nível nacional, o novo regime escolar que estabelece as regras de atribuição de ajudas comunitárias à distribuição da referida tipologia de produtos nos estabelecimentos de ensino e à aplicação de medidas educativas de acompanhamento. A fim de avaliar a eficácia da sua aplicação e promover o seu conhecimento pelo público em geral, o regime escolar prevê igualmente a atribuição de ajudas para a realização de ações de monitorização, avaliação e publicidade.\n\nPor fim, o âmbito de aplicação da presente portaria poderá ser alargado, designadamente o universo de destinatários aprovados na Estratégia Nacional, mediante revisão da mesma.\n\nAssim:\n\nManda o Governo, pelos Ministros da Educação, Saúde e Agricultura, Florestas e Desenvolvimento Rural, ao abrigo do disposto no Regulamento (UE) 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na redação dada pelo Regulamento (UE) 2016/791, do Parlamento Europeu e do Conselho, de 11 de maio, do Regulamento de Execução (UE) 2017/39, da Comissão, da Comissão de 3 de novembro de 2016, do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, e do Regulamento (UE) 1370/2013, do Conselho, de 16 de dezembro, na redação dada pelo Regulamento (UE) 2016/795, do Conselho, de 11 de abril, o seguinte:"
+  },
+  "121702036": {
+   "fragment_id": "121665760",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "121702037": {
+   "fragment_id": "121665761",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria institui o regime escolar previsto no Regulamento (UE) 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na redação dada pelo Regulamento (UE) 2016/791, do Parlamento Europeu e do Conselho, de 11 de maio, estabelecendo as regras nacionais complementares da ajuda à distribuição de fruta, produtos hortícolas e bananas e leite e produtos lácteos, nos estabelecimentos de ensino, às medidas educativas de acompanhamento e a certos custos conexos, em aplicação da respetiva Estratégia Nacional (EN) para o período compreendido entre 1 de agosto de 2017 e 31 de julho de 2023."
+  },
+  "121702038": {
+   "fragment_id": "121665762",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO regime escolar é aplicável aos estabelecimentos de ensino público dos agrupamentos de escolas do continente e das regiões autónomas, abrangendo:\n\na) Os alunos que frequentam o 1.º ciclo do ensino básico, no que respeita à distribuição de fruta, produtos hortícolas e bananas e leite e produtos lácteos;\n\nb) Os alunos que frequentam o ensino pré-escolar, no que respeita à distribuição de leite e produtos lácteos."
+  },
+  "121702039": {
+   "fragment_id": "121665763",
+   "type": 11,
+   "heading": "Artigo 3.º — Ano letivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ano letivo\n\nPara efeitos do regime escolar entende-se por ano letivo o período compreendido entre 1 de agosto e 31 de julho do ano seguinte."
+  },
+  "121702040": {
+   "fragment_id": "121665764",
+   "type": 11,
+   "heading": "Artigo 4.º — Integração curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Integração curricular\n\nO Ministério da Educação promove a articulação do regime escolar com os currículos escolares, competindo essa atribuição, nas regiões autónomas, aos órgãos de governo próprio respetivos."
+  },
+  "121702041": {
+   "fragment_id": "121665765",
+   "type": 11,
+   "heading": "Artigo 5.º — Custos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Custos elegíveis\n\n1 - São elegíveis, no âmbito do regime escolar, os custos relativos a:\n\na) Fornecimento e distribuição nos estabelecimentos de ensino dos produtos, incluindo os custos previstos nas alíneas a) e f) do n.º 1 do artigo 4.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016;\n\nb) Medidas educativas de acompanhamento, a que se refere o artigo 3.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, incluindo os custos previstos na alínea b) do artigo 4.º do mesmo regulamento;\n\nc) Monitorização e avaliação, a que se referem os artigos 8.º do Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro de 2016, e 9.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016;\n\nd) Publicidade, a que se refere o artigo 12.º do Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro, incluindo os custos previstos na alínea c) do n.º 1 artigo 4.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016;\n\n2 - Os custos previstos no número anterior não podem ser financiados no âmbito de qualquer outro regime de ajuda da União."
+  },
+  "121702042": {
+   "fragment_id": "121665766",
+   "type": 1,
+   "heading": "Capítulo II — Distribuição de produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Distribuição de produtos"
+  },
+  "121702043": {
+   "fragment_id": "121665767",
+   "type": 11,
+   "heading": "Artigo 6.º — Produtos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produtos elegíveis\n\n1 - São elegíveis, no âmbito da ajuda prevista no presente capítulo, os seguintes produtos:\n\na) Frutas, produtos hortícolas e bananas, previstos na lista constante do anexo i à presente portaria, da qual faz parte integrante;\n\nb) Leite de consumo do código NC 0401, previsto da alínea c) do ponto iii da Parte IV do Anexo VII do Regulamento (UE) 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual, ou as suas variantes sem lactose.\n\n2 - As quantidades de produto objeto de ajuda, por aluno e por dia, são as seguintes:\n\na) 100 gramas, para os produtos referidos na alínea a) do número anterior;\n\nb) 1 embalagem com capacidade entre 0,2 e 0,25 l, para os produtos referidos na alínea b) do número anterior.\n\n3 - Apenas são elegíveis os produtos que se encontrem em conformidade com a legislação aplicável."
+  },
+  "121702044": {
+   "fragment_id": "121665768",
+   "type": 11,
+   "heading": "Artigo 7.º — Montantes e limites da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Montantes e limites da ajuda\n\n1 - A ajuda prevista no presente capítulo está limitada a:\n\na) 6,73 (euro) por aluno/ano, no caso da distribuição dos produtos a que se refere a alínea a) do n.º 1 do artigo anterior;\n\nb) 4 (euro) por aluno/ano, no caso da distribuição dos produtos a que se refere a alínea b) do n.º 1 do artigo anterior.\n\n2 - Caso o montante total elegível exceda a dotação disponível, é aplicado um coeficiente de atribuição, em função do número de alunos inscritos em cada estabelecimento de ensino e dos produtos a distribuir."
+  },
+  "121702045": {
+   "fragment_id": "121665769",
+   "type": 11,
+   "heading": "Artigo 8.º — Modelo de distribuição dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modelo de distribuição dos produtos\n\nA distribuição de produtos é realizada durante 30 semanas por ano letivo, com a seguinte frequência:\n\na) No caso dos produtos a que se refere a alínea a) do n.º 1 do artigo 6.º, em quantidade correspondente a duas distribuições por semana, a efetuar em dias distintos;\n\nb) No caso dos produtos a que se refere a alínea b) do n.º 1 do artigo 6.º, uma vez por semana."
+  },
+  "121702046": {
+   "fragment_id": "121665770",
+   "type": 11,
+   "heading": "Artigo 9.º — Entidades requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entidades requerentes\n\n1 - Podem requerer a atribuição da ajuda à distribuição dos produtos a que se refere a alínea a) do n.º 1 do artigo 6.º:\n\na) Os municípios, para fornecimento e distribuição de produtos aos agrupamentos de escolas integrados na respetiva área de atuação;\n\nb) No caso de agrupamentos de escolas não abrangidos pela alínea anterior, e das Regiões Autónomas, os serviços e organismos previstos no anexo ii da presente portaria, da qual faz parte integrante, de acordo com a hierarquia aí definida.\n\n2 - Podem requerer a ajuda à distribuição dos produtos a que se refere a alínea b) do n.º 1 do artigo 6.º, os serviços e organismos previstos no anexo ii da presente portaria, da qual faz parte integrante, de acordo com a hierarquia aí definida."
+  },
+  "121702047": {
+   "fragment_id": "121665771",
+   "type": 1,
+   "heading": "Capítulo III — Medidas educativas de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Medidas educativas de acompanhamento"
+  },
+  "121702048": {
+   "fragment_id": "121665772",
+   "type": 11,
+   "heading": "Artigo 10.º — Objetivos e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Objetivos e âmbito\n\n1 - As medidas educativas de acompanhamento visam a prossecução dos objetivos gerais do programa escolar, designadamente, o aumento a curto e médio prazo do consumo dos produtos abrangidos pelo regime escolar, a aproximação das crianças à agricultura, a promoção de hábitos alimentares saudáveis e outros, como a atividade física, e a educação relativamente a questões conexas, como as cadeias alimentares locais, a agricultura biológica, a produção sustentável ou o combate ao desperdício de alimentos.\n\n2 - Os estabelecimentos de ensino abrangidos pelo regime escolar devem implementar uma ou mais das seguintes medidas educativas de acompanhamento, designadas medidas escolares, de âmbito local, tendo em conta os objetivos definidos, a suficiência das medidas e as disponibilidades orçamentais:\n\na) Organização de aulas de degustação, criação e manutenção de atividades de jardinagem, organização de visitas a explorações agrícolas e atividades similares destinadas a sensibilizar as crianças para a agricultura;\n\nb) Medidas destinadas a promover o conhecimento das crianças sobre a agricultura, designadamente a diversidade e sazonalidade dos produtos, os hábitos alimentares saudáveis e as questões ambientais relacionadas com a produção, a distribuição e o consumo de frutas, produtos hortícolas, leite e produtos lácteos.\n\n3 - As medidas escolares devem ser acessíveis a todos os alunos e a sua aplicação é obrigatória em todos os anos letivos abrangidos pelo regime escolar.\n\n4 - O regime escolar abrange, ainda, uma medida de âmbito nacional, designada medida educativa nacional, a implementar através de concurso público, cujo caderno de encargos é definido conjuntamente pelo Gabinete de Planeamento, Políticas e Administração Geral (GPP), pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), pela Direção-Geral de Educação e pela Direção-Geral da Saúde, e divulgado nos respetivos sítios da Internet."
+  },
+  "121702049": {
+   "fragment_id": "121665773",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidades requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entidades requerentes\n\nPodem requerer atribuição de ajuda às medidas escolares previstas no n.º 2 do artigo anterior os requerentes da ajuda à distribuição previstos no artigo 9.º"
+  },
+  "121702050": {
+   "fragment_id": "121665774",
+   "type": 11,
+   "heading": "Artigo 12.º — Níveis e limites da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Níveis e limites da ajuda\n\n1 - A ajuda prevista no presente capítulo não excede 10 % da dotação definitiva anual atribuída a Portugal no âmbito do regime escolar, sendo distribuída do seguinte modo:\n\na) Até 3 %, para as medidas escolares previstas no n.º 2 do artigo 10.º;\n\nb) Até 7 %, para a medida educativa nacional prevista no n.º 4 do artigo 10.º\n\n2 - Caso o montante total dos pedidos de ajuda às medidas previstas na alínea b) do número anterior exceda a dotação disponível, os montantes da ajuda a conceder são sujeitos a rateio proporcional ao número de alunos dos estabelecimentos de ensino abrangidos."
+  },
+  "121702051": {
+   "fragment_id": "121712675",
+   "type": 1,
+   "heading": "Capítulo IV — Monitorização, avaliação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Monitorização, avaliação e publicidade"
+  },
+  "121702052": {
+   "fragment_id": "121712676",
+   "type": 11,
+   "heading": "Artigo 13.º — Monitorização e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Monitorização e avaliação\n\n1 - A monitorização e avaliação da aplicação do regime escolar, nos termos previstos no artigo 8.º do Regulamento (UE) 2017/39, da Comissão, de 3 de novembro de 2016, e no artigo 9.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, competem à Direção-Geral da Saúde (DGS), em articulação com as entidades relevantes, incluindo das regiões autónomas.\n\n2 - A monitorização e avaliação incluem, designadamente, a elaboração dos seguintes relatórios, agregados a nível nacional com os dados do continente e das regiões autónomas:\n\na) Relatórios anuais de monitorização;\n\nb) Relatório de avaliação referente ao período de execução dos primeiros cinco anos letivos abrangidos pela EN.\n\n3 - Os relatórios previstos no número anterior são sujeitos a aprovação da Comissão de Acompanhamento a que se refere o artigo seguinte, até 15 de fevereiro do ano letivo em causa, no que respeita aos relatórios previstos na alínea a), e até 15 de fevereiro de 2023, no que respeita ao relatório previsto na alínea b).\n\n4 - São elegíveis os custos com a monitorização e a avaliação previstos na alínea e) do n.º 1 do artigo 4.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, podendo a atribuição da respetiva ajuda ser requerida pela entidade competente referida no n.º 1.\n\n5 - As ajudas à monitorização, avaliação e publicidade, estão limitadas a 1 % da dotação global durante o período de cinco anos e a 10 % dessa dotação no ano de avaliação quinquenal, para cada tipologia de produtos referida no n.º 1 do artigo 6.º"
+  },
+  "121702053": {
+   "fragment_id": "121712677",
+   "type": 11,
+   "heading": "Artigo 14.º — Comissão de Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comissão de Acompanhamento\n\n1 - É constituída uma Comissão de Acompanhamento com o objetivo de acompanhar a implementação do regime escolar, que integra os seguintes serviços e organismos:\n\na) GPP, que coordena;\n\nb) IFAP, I. P.;\n\nc) Direção-Geral dos Estabelecimentos Escolares;\n\nd) Direção-Geral da Educação;\n\ne) Direção-Geral da Saúde.\n\n2 - Integram ainda a Comissão de Acompanhamento, um representante da Região Autónoma dos Açores e um representante da Região Autónoma da Madeira, a indicar pelos respetivos governos regionais.\n\n3 - Sempre que se mostre conveniente, podem ser convidados a colaborar com a Comissão de Acompanhamento outros elementos relevantes em função das matérias em análise, de natureza pública ou privada, designadamente das áreas da agricultura, educação e saúde.\n\n4 - A Comissão de Acompanhamento reúne mediante convocatória da entidade coordenadora.\n\n5 - Cabe à Comissão de Acompanhamento, designadamente, aprovar os relatórios previstos no n.º 2 do artigo anterior.\n\n6 - O apoio logístico e administrativo necessário ao funcionamento da Comissão de Acompanhamento é assegurado pelo GPP.\n\n7 - As entidades que integram a Comissão de Acompanhamento devem indicar ao GPP os respetivos representantes, no prazo de dez dias úteis a contar da data de publicação da presente portaria."
+  },
+  "121702054": {
+   "fragment_id": "121712678",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Publicidade\n\n1 - Os estabelecimentos de ensino abrangidos pelo regime escolar devem publicitar a contribuição financeira da União Europeia através do cartaz previsto no artigo 12.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, a afixar em permanência num local claramente visível, localizado na entrada principal do estabelecimento.\n\n2 - A Direção-Geral da Educação e a Direção-Geral da Saúde definem as linhas de orientação pedagógicas relativas ao cartaz.\n\n3 - A Direção-Geral dos Estabelecimentos Escolares é responsável pela elaboração e reprodução do cartaz, bem como pela sua distribuição aos estabelecimentos de ensino abrangidos pelo regime escolar.\n\n4 - São elegíveis os custos previstos na alínea d) do n.º 1 do artigo 5.º, designadamente os custos com a elaboração, reprodução e distribuição do cartaz, podendo a atribuição da respetiva ajuda ser requerida pela Direção-Geral dos Estabelecimentos Escolares.\n\n5 - A ajuda respeitante aos custos previstos no número anterior está sujeita aos limites estabelecidos no n.º 5 do artigo 13.º"
+  },
+  "121702055": {
+   "fragment_id": "121712679",
+   "type": 1,
+   "heading": "Capítulo V — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Procedimentos"
+  },
+  "121702056": {
+   "fragment_id": "121712680",
+   "type": 11,
+   "heading": "Artigo 16.º — Aprovação das entidades requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Aprovação das entidades requerentes\n\n1 - As entidades requerentes das ajudas à distribuição previstas no artigo 9.º carecem de aprovação prévia junto do IFAP, I. P., mediante apresentação de um pedido de aprovação até 31 de julho anterior ao início do ano letivo, estando dependente da assunção escrita dos seguintes compromissos:\n\na) Utilizar os produtos financiados pelo regime para consumo pelas crianças nos estabelecimentos de ensino para os quais solicitem uma ajuda;\n\nb) Adequar a gestão dos montantes que lhes são afetos com vista a garantir a disponibilização dos produtos do regime escolar à população alvo, com a frequência e calendarização definidas, em articulação com os elementos a designar pelos estabelecimentos de ensino;\n\nc) Disponibilizar os documentos justificativos às autoridades competentes, quando solicitado;\n\nd) Sujeitar-se a qualquer verificação decidida pelas autoridades competentes, nomeadamente no que respeita ao exame de registos de alunos inscritos e controlos de distribuição e fornecimento de produtos;\n\ne) Manter os registos dos nomes e endereços dos estabelecimentos de ensino, dos produtos e quantidades fornecidos a esses estabelecimentos, devidamente organizados e disponibilizá-los às entidades intervenientes no regime, sempre que solicitados;\n\nf) Ajustar a frequência das entregas e das quantidades a distribuir por alteração da disponibilidade orçamental do regime escolar;\n\ng) Efetuar procedimentos específicos para aquisição dos produtos a financiar ao abrigo do presente regime;\n\nh) Cumprir os normativos legais em matéria de contratação pública relativamente ao provisionamento dos produtos financiados ao abrigo de presente regime.\n\n2 - A aprovação prevista no número anterior mantém-se nos anos letivos seguintes ao da sua atribuição, desde que sejam mantidos os compromissos assumidos, nos termos dos procedimentos a fixar pelo IFAP, I. P., e a divulgar no respetivo sítio da Internet, em portal.ifap.pt, e até cancelamento formal por parte da entidade requerente.\n\n3 - As entidades referidas na alínea b) do n.º 1 do artigo 9.º devem ainda comunicar ao IFAP, I. P., até 15 de setembro de cada ano letivo, os agrupamentos e escolas que pretendem abranger no regime escolar.\n\n4 - Até 31 de outubro de cada ano letivo, as entidades aprovadas devem confirmar ao IFAP, I. P., o número de alunos inscritos e comunicar a proposta de calendarização semanal das distribuições, para o ano letivo em questão, bem como, quando aplicável, as medidas escolares a implementar.\n\n5 - O disposto nos n.os 1 e 2 é aplicável, com as necessárias adaptações, às entidades requerentes das ajudas à monitorização, avaliação e publicidade."
+  },
+  "121702057": {
+   "fragment_id": "121712681",
+   "type": 11,
+   "heading": "Artigo 17.º — Pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pedidos de pagamento\n\n1 - Os pedidos de pagamento relativos aos custos previstos na alínea a) do artigo 5.º são apresentados pelas entidades requerentes junto do IFAP, I. P., em modelo próprio disponível no respetivo sítio da Internet, em portal.ifap.pt, corretamente preenchido, até ao último dia do 3.º mês subsequente ao final dos trimestres letivos anualmente definidos.\n\n2 - Os pedidos de pagamento referidos no número anterior são acompanhados dos comprovativos da realização das despesas de aquisição e fornecimento, discriminados por produto, bem como dos comprovativos das quantidades efetivamente entregues nos estabelecimentos de ensino.\n\n3 - Os pedidos de pagamento relativos aos custos previstos na alínea b) do artigo 5.º, no que concerne às medidas escolares, são apresentados em conjunto com os pedidos de pagamento previstos no n.º 1.\n\n4 - Os pedidos de pagamento relativos aos custos previstos nas alíneas c) e d) do artigo 5.º são apresentados após conclusão das respetivas ações.\n\n5 - Os pedidos de pagamento previstos nos n.os 3 e 4 são acompanhados dos comprovativos de despesa e do relatório de execução das respetivas ações, em modelo a definir pelo IFAP, I. P., e a divulgar no respetivo sítio da Internet, em portal.ifap.pt, bem como de cópias do material produzido, quando aplicável."
+  },
+  "121702058": {
+   "fragment_id": "121712682",
+   "type": 11,
+   "heading": "Artigo 18.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Controlo\n\nA implementação do regime escolar está sujeita a controlos administrativos e no local, nos termos do artigo 59.º do Regulamento (UE) 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e dos artigos 9.º e 10.º do Regulamento de Execução (UE) 2017/39, da Comissão, de 3 de novembro."
+  },
+  "121702059": {
+   "fragment_id": "121712683",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamento\n\nO pagamento das ajudas é efetuado às entidades requerentes pelo IFAP, I. P., no prazo de três meses a contar da data de apresentação do respetivo pedido devidamente instruído."
+  },
+  "121702060": {
+   "fragment_id": "121712684",
+   "type": 11,
+   "heading": "Artigo 20.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reduções e exclusões\n\n1 - Ao pagamento da ajuda são aplicáveis as reduções previstas no n.º 5 do artigo 4.º do Regulamento (UE) 2017/39, da Comissão, de 3 de novembro de 2016.\n\n2 - As entidades requerentes procedem à restituição das ajudas pagas indevidamente, nos termos previstos no artigo 11.º do Regulamento (UE) 2017/39, da Comissão, de 3 de novembro de 2016, quando se verifique que os produtos não tenham sido distribuídos aos alunos abrangidos pelo regime escolar ou quando a ajuda tenha sido atribuída para produtos não elegíveis.\n\n3 - As entidades requerentes que não procedam às comunicações previstas nos n.os 3 e 4 do artigo 16.º, nos prazos estipulados, ficam excluídas do regime no ano letivo em questão."
+  },
+  "121702061": {
+   "fragment_id": "121712685",
+   "type": 11,
+   "heading": "Artigo 21.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sanções\n\n1 - A ausência de distribuição dos produtos, detetada em sede de controlo no local, dá lugar a uma redução no montante a pagar de 5 % por cada verificação irregular, aplicável a partir da segunda falha verificada, até ao limite de quatro irregularidades, a partir da qual o requerente ficará excluído do regime no ano letivo em causa.\n\n2 - A aplicação da sanção de exclusão prevista no n.º 1 em dois anos letivos consecutivos determina a exclusão do regime no ano letivo em causa e no seguinte.\n\n3 - A ausência de afixação do cartaz em conformidade com o previsto no artigo 15.º, se constatada em sede de controlo no local, determina a aplicação das sanções previstas nos n.os 1 e 2.\n\n4 - O incumprimento dos compromissos assumidos ao abrigo do n.º 1 do artigo 16.º, determina a aplicação das sanções previstas no artigo 8.º do Regulamento (UE) 2017/40, da Comissão, de 3 de novembro de 2016."
+  },
+  "121702062": {
+   "fragment_id": "121712686",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "121702063": {
+   "fragment_id": "121712687",
+   "type": 11,
+   "heading": "Artigo 22.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comunicações\n\n1 - O GPP apresenta anualmente à Comissão Europeia, até 31 de janeiro, o pedido de ajuda referente ao ano letivo seguinte e, se for caso disso, as atualizações ao pedido de ajuda relativo ao ano letivo em curso, contendo as informações previstas no artigo 3.º do Regulamento de Execução (UE) 2017/39, da Comissão, de 3 de novembro de 2016, o qual se baseia na avaliação da aplicação do regime escolar do ano letivo em curso e nas previsões para o ano letivo seguinte.\n\n2 - O IFAP, I. P., notifica a Comissão Europeia dos controlos realizados no local e respetivas conclusões, até 31 de outubro do ano civil subsequente ao ano letivo em causa.\n\n3 - O IFAP, I. P., notifica, ainda, a Comissão Europeia, dos resultados do exercício de acompanhamento, até ao dia 31 de janeiro seguinte ao termo do ano letivo em causa, que inclui informações sobre os montantes utilizados para o fornecimento e a distribuição de cada um dos grupos de produtos e para as medidas educativas de acompanhamento, o número de estabelecimentos de ensino e de alunos que participam no regime de distribuição nas escolas, o tamanho médio das doses e o preço médio por dose, a frequência de entrega de produtos, bem como as quantidades de produtos discriminadas por grupos de produtos.\n\n4 - O GPP apresenta à Comissão Europeia, até 1 de março do ano seguinte ao termo do período de execução referido na alínea b) do n.º 2 do artigo 13.º, o relatório quinquenal de avaliação aprovado pela Comissão de Acompanhamento."
+  },
+  "121702064": {
+   "fragment_id": "121712688",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposição transitória\n\n1 - Para os anos letivos anteriores a 2017/2018, são aplicáveis os regimes previstos na Portaria n.º 161/2011, de 18 de abril, alterada pela Portaria n.º 233/2011, de 15 de junho, e na Portaria n.º 375/2015, de 20 de outubro, até à conclusão das operações objeto de ajuda no âmbito desses regimes.\n\n2 - Para o ano letivo 2017/2018, o pedido de aprovação a que se refere o artigo 16.º, é apresentado no prazo de 15 dias úteis a contar da data de entrada em vigor da presente portaria, sendo dispensadas as comunicações previstas nos n.os 3 e 4 do mesmo preceito, e o pedido de pagamento a que se refere o n.º 1 do artigo 17.º, relativo ao primeiro trimestre letivo, é apresentado no prazo de 30 dias úteis a contar da referida aprovação.\n\n3 - São consideradas elegíveis, no ano letivo 2017/2018, as aquisições e respetivas operações de fornecimento e distribuição, efetuadas antes da entrada em vigor da presente portaria, em quantidades correspondentes às definidas no artigo 8.º, desde que respeitem a produtos elegíveis previstos no n.º 1 do artigo 6.º"
+  },
+  "121702065": {
+   "fragment_id": "121712689",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 161/2011, de 18 de abril, alterada pela Portaria n.º 233/2011, de 15 de junho;\n\nb) A Portaria n.º 375/2015, de 20 de outubro."
+  },
+  "121702066": {
+   "fragment_id": "121712690",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a partir de 1 de agosto de 2017."
+  },
+  "121702068": {
+   "fragment_id": "121712692",
+   "type": 14,
+   "heading": "Anexo S",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo S"
+  },
+  "121702069": {
+   "fragment_id": "121712693",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nLista de produtos elegíveis no âmbito da ajuda à distribuição de fruta e produtos hortícolas e bananas\n\n[a que se refere a alínea a) do n.º 1 do artigo 6.º]\n\nProdutos elegíveis no âmbito da ajuda à distribuição de fruta e produtos hortícolas e bananas\n\nMaçã\n\nPera\n\nClementina\n\nTangerina\n\nLaranja\n\nBanana\n\nCereja\n\nUvas\n\nAmeixa\n\nPêssego\n\nCenoura\n\nTomate (incluindo variedade cereja ou equivalente)"
+  },
+  "121702070": {
+   "fragment_id": "121712694",
+   "type": 14,
+   "heading": "Anexo II — Entidades requerentes da ajuda à distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Entidades requerentes da ajuda à distribuição\n\n[a que se refere a alínea b) do n.º 1 e o n.º 2 do artigo 9.º]\n\n(ver documento original)\n\n111303066"
+  },
+  "121702035": {
+   "fragment_id": "121665759",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 113/2018\n\nde 30 de abril\n\nTendo por objetivo promover o consumo de fruta, produtos hortícolas e bananas e de leite e produtos lácteos nas escolas, a União Europeia instituiu, através do Regulamento (CE) 1234/2007, do Conselho, de 22 de outubro, revogado e substituído, entretanto, pelo Regulamento (UE) 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, uma ajuda à distribuição desses produtos, consubstanciada em dois programas independentes, com tradução em regimes jurídicos e financeiros distintos. Em Portugal, a distribuição gratuita de fruta, produtos hortícolas e bananas, nos estabelecimentos de ensino público foi inicialmente regulamentada pela Portaria n.º 1242/2009, de 12 de outubro, e, a partir do ano letivo 2014/2015, pela Portaria n.º 375/2015, de 20 de outubro. Paralelamente, a concessão de ajuda comunitária à distribuição de leite e produtos lácteos aos alunos dos estabelecimentos de ensino público encontra-se atualmente regulamentada pela Portaria n.º 161/2011 de 18 de abril.\n\nCom vista a uma melhor eficiência e orientação da ajuda a atribuir e reforço da sua dimensão educativa, o Regulamento (UE) 2016/791, do Parlamento Europeu e do Conselho, de 11 de maio, que alterou o referido Regulamento (UE) 1308/2013, veio estabelecer uma abordagem unificada dos referidos regimes, que passam a estar fundidos no novo regime escolar, ao abrigo de um quadro jurídico e financeiro comum.\n\nO Regulamento (UE) 2016/795, do Conselho, de 11 de abril, que altera o Regulamento (UE) 1370/2013, do Conselho, de 16 de dezembro, fixou as novas dotações orçamentais a atribuir ao financiamento do regime escolar, as quais podem ser complementadas através de fundos nacionais.\n\nPor sua vez, o Regulamento de Execução (UE) 2017/39, da Comissão, e o Regulamento Delegado (UE) 2017/40, da Comissão, ambos de 3 de novembro de 2016, vieram estabelecer as normas de execução e complementares do referido regime escolar.\n\nFace à entrada em vigor do novo quadro regulamentar comunitário e respetiva estratégia nacional, importa, pois, adequar a regulamentação nacional em vigor em conformidade. A transição para o novo quadro regulamentar requer, contudo, por razões de certeza e segurança jurídicas, a manutenção dos anteriores regimes até à conclusão das operações objeto de ajuda ao abrigo desses regimes, bem como a aplicação de regras transitórias aplicáveis ao ano letivo 2017/2018 já em curso.\n\nNestes termos, a presente portaria institui, a nível nacional, o novo regime escolar que estabelece as regras de atribuição de ajudas comunitárias à distribuição da referida tipologia de produtos nos estabelecimentos de ensino e à aplicação de medidas educativas de acompanhamento. A fim de avaliar a eficácia da sua aplicação e promover o seu conhecimento pelo público em geral, o regime escolar prevê igualmente a atribuição de ajudas para a realização de ações de monitorização, avaliação e publicidade.\n\nPor fim, o âmbito de aplicação da presente portaria poderá ser alargado, designadamente o universo de destinatários aprovados na Estratégia Nacional, mediante revisão da mesma.\n\nAssim:\n\nManda o Governo, pelos Ministros da Educação, Saúde e Agricultura, Florestas e Desenvolvimento Rural, ao abrigo do disposto no Regulamento (UE) 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na redação dada pelo Regulamento (UE) 2016/791, do Parlamento Europeu e do Conselho, de 11 de maio, do Regulamento de Execução (UE) 2017/39, da Comissão, da Comissão de 3 de novembro de 2016, do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, e do Regulamento (UE) 1370/2013, do Conselho, de 16 de dezembro, na redação dada pelo Regulamento (UE) 2016/795, do Conselho, de 11 de abril, o seguinte:"
+  },
+  "121712779": {
+   "fragment_id": "121712680",
+   "type": 11,
+   "heading": "Artigo 16.º — Aprovação das entidades requerentes",
+   "in_force_from": "2019-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 16.º — Aprovação das entidades requerentes\n\n1 - As entidades requerentes das ajudas à distribuição previstas no artigo 9.º carecem de aprovação prévia junto do IFAP, I. P., mediante apresentação de um pedido de aprovação até 31 de julho anterior ao início do ano letivo, estando dependente da assunção escrita dos seguintes compromissos:\n\na) Utilizar os produtos financiados pelo regime para consumo pelas crianças nos estabelecimentos de ensino para os quais solicitem uma ajuda;\n\nb) Adequar a gestão dos montantes que lhes são afetos com vista a garantir a disponibilização dos produtos do regime escolar à população alvo, com a frequência e calendarização definidas, em articulação com os elementos a designar pelos estabelecimentos de ensino;\n\nc) Disponibilizar os documentos justificativos às autoridades competentes, quando solicitado;\n\nd) Sujeitar-se a qualquer verificação decidida pelas autoridades competentes, nomeadamente no que respeita ao exame de registos de alunos inscritos e controlos de distribuição e fornecimento de produtos;\n\ne) Manter os registos dos nomes e endereços dos estabelecimentos de ensino, dos produtos e quantidades fornecidos a esses estabelecimentos, devidamente organizados e disponibilizá-los às entidades intervenientes no regime, sempre que solicitados;\n\nf) Ajustar a frequência das entregas e das quantidades a distribuir por alteração da disponibilidade orçamental do regime escolar;\n\ng) Efetuar procedimentos específicos para aquisição dos produtos a financiar ao abrigo do presente regime;\n\nh) Cumprir os normativos legais em matéria de contratação pública relativamente ao provisionamento dos produtos financiados ao abrigo de presente regime.\n\n2 - A aprovação prevista no número anterior mantém-se nos anos letivos seguintes ao da sua atribuição, desde que sejam mantidos os compromissos assumidos, nos termos dos procedimentos a fixar pelo IFAP, I. P., e a divulgar no respetivo sítio da Internet, em portal.ifap.pt, e até cancelamento formal por parte da entidade requerente.\n\n3 - As entidades referidas na alínea b) do n.º 1 do artigo 9.º devem ainda comunicar ao IFAP, I. P., até 15 de setembro de cada ano letivo, os agrupamentos e escolas que pretendem abranger no regime escolar.\n\n4 - Até 31 de outubro de cada ano letivo, as entidades aprovadas devem confirmar junto do IFAP, I. P., os estabelecimentos de ensino abrangidos e a respetiva proposta de calendarização semanal das distribuições, para o ano letivo em questão, bem como, quando aplicável, as medidas escolares a implementar.\n\n5 - O disposto nos n.os 1 e 2 é aplicável, com as necessárias adaptações, às entidades requerentes das ajudas à monitorização, avaliação e publicidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "121712780": {
+   "fragment_id": "121712681",
+   "type": 11,
+   "heading": "Artigo 17.º — Pedidos de pagamento",
+   "in_force_from": "2019-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 17.º — Pedidos de pagamento\n\n1 - Os pedidos de pagamento relativos aos custos previstos na alínea a) do artigo 5.º são apresentados pelas entidades requerentes junto do IFAP, I. P., em modelo próprio disponível no respetivo sítio da Internet, em portal.ifap.pt, corretamente preenchido, até ao último dia do 3.º mês subsequente ao final dos trimestres letivos anualmente definidos.\n\n2 - Sem prejuízo do número anterior, caso a ajuda seja requerida pela Direção-Geral dos Estabelecimentos Escolares (DGEstE) do Continente ou pela Direção Regional do Planeamento, Recursos e Infraestruturas da Região Autónoma da Madeira, ao abrigo da alínea b) do n.º 1 do artigo 9.º e abrangidas pela prioridade 1 do anexo II, os respetivos pedidos de pagamento podem ter caráter mensal, devendo ser apresentados junto do IFAP, I. P., até ao 10.º dia útil do mês subsequente.\n\n3 - Os pedidos de pagamento referidos nos n.os 1 e 2 são acompanhados dos comprovativos da realização das despesas de aquisição e fornecimento, discriminados por produto, bem como dos comprovativos das quantidades efetivamente entregues nos estabelecimentos de ensino.\n\n4 - Os pedidos de pagamento relativos aos custos previstos na alínea b) do artigo 5.º, no que concerne às medidas escolares, são apresentados em conjunto com os pedidos de pagamento previstos no n.º 1.\n\n5 - Os pedidos de pagamento relativos aos custos previstos nas alíneas c) e d) do artigo 5.º são apresentados após conclusão das respetivas ações.\n\n6 - Os pedidos de pagamento previstos nos n.os 4 e 5 são acompanhados dos comprovativos de despesa e do relatório de execução das respetivas ações, em modelo a definir pelo IFAP, I. P., e a divulgar no respetivo sítio da Internet, em portal.ifap.pt, bem como de cópias do material produzido, quando aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "121712781": {
+   "fragment_id": "121712688",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição transitória",
+   "in_force_from": "2019-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 23.º — Disposição transitória\n\n1 - Para os anos letivos anteriores a 2017/2018, são aplicáveis os regimes previstos na Portaria n.º 161/2011, de 18 de abril, alterada pela Portaria n.º 233/2011, de 15 de junho, e na Portaria n.º 375/2015, de 20 de outubro, até à conclusão das operações objeto de ajuda no âmbito desses regimes.\n\n2 - Para o ano letivo 2017/2018, o pedido de aprovação a que se refere o artigo 16.º, é apresentado no prazo de 15 dias úteis a contar da data de entrada em vigor da presente portaria, sendo dispensadas as comunicações previstas nos n.os 3 e 4 do mesmo preceito, e o pedido de pagamento a que se refere o n.º 1 do artigo 17.º, relativo aos dois primeiros trimestres letivos, é apresentado até ao final do 3.º mês subsequente à data da comunicação da referida aprovação.\n\n3 - São consideradas elegíveis, no âmbito do regime escolar, as aquisições e respetivas operações de fornecimento e distribuição, efetuadas antes da entrada em vigor da presente portaria, em quantidades correspondentes às definidas no artigo 8.º, desde que respeitem a produtos elegíveis de acordo com a legislação em vigor à data da respetiva contratação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "121702067": {
+   "fragment_id": "121712691",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Educação, Tiago Brandão Rodrigues, em 18 de abril de 2018. - O Ministro da Saúde, Adalberto Campos Fernandes, em 24 de abril de 2018. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 24 de abril de 2018."
+  },
+  "121712782": {
+   "fragment_id": "121712693",
+   "type": 14,
+   "heading": "Anexo I — Lista de produtos elegíveis no âmbito da ajuda à distribuição de fruta e produtos hortícolas e bananas",
+   "in_force_from": "2019-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "## Anexo I — Lista de produtos elegíveis no âmbito da ajuda à distribuição de fruta e produtos hortícolas e bananas\n\n[a que se refere a alínea a) do n.º 1 do artigo 6.º]\n\nProdutos elegíveis no âmbito da ajuda à distribuição de fruta e produtos hortícolas e bananas:\n\nMaçã\n\nPera\n\nClementina\n\nTangerina\n\nLaranja\n\nBanana\n\nCereja\n\nUvas\n\nAmeixa\n\nPêssego\n\nAnona\n\nQuivi\n\nDióspiro\n\nCenoura\n\nTomate (incluindo variedade cereja ou equivalente).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "207110295": {
+   "fragment_id": "121665768",
+   "type": 11,
+   "heading": "Artigo 7.º — Montantes e limites da ajuda",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Montantes e limites da ajuda\n\n1 - A ajuda prevista no presente capítulo está limitada a:\n\na) (euro) 11,10, por aluno e por ano, no caso da distribuição dos produtos a que se refere a alínea a) do n.º 1 do artigo anterior;\n\nb) (euro) 7,03, por aluno e por ano, no caso da distribuição dos produtos a que se refere a alínea b) do n.º 1 do artigo anterior.\n\n2 - Caso o montante total elegível exceda a dotação disponível, é aplicado um coeficiente de atribuição, em função do número de alunos inscritos em cada estabelecimento de ensino e dos produtos a distribuir.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+  },
+  "207110296": {
+   "fragment_id": "121665769",
+   "type": 11,
+   "heading": "Artigo 8.º — Modelo de distribuição dos produtos",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Modelo de distribuição dos produtos\n\nA distribuição de produtos é realizada durante 37 semanas por ano letivo, com a seguinte frequência:\n\na) No caso dos produtos a que se refere a alínea a) do n.º 1 do artigo 6.º, em quantidade correspondente a duas distribuições por semana, a efetuar em dias distintos;\n\nb) No caso dos produtos a que se refere a alínea b) do n.º 1 do artigo 6.º, uma vez por semana.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+  },
+  "207110297": {
+   "fragment_id": "121665772",
+   "type": 11,
+   "heading": "Artigo 10.º — Objetivos e âmbito",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Objetivos e âmbito\n\n1 - As medidas educativas de acompanhamento visam a prossecução dos objetivos gerais do programa escolar, designadamente, o aumento a curto e médio prazo do consumo dos produtos abrangidos pelo regime escolar, a aproximação das crianças à agricultura, a promoção de hábitos alimentares saudáveis e outros, como a atividade física, e a educação relativamente a questões conexas, como as cadeias alimentares locais, a agricultura biológica, a produção sustentável ou o combate ao desperdício de alimentos.\n\n2 - Os estabelecimentos de ensino abrangidos pelo regime escolar devem implementar uma ou mais das seguintes medidas educativas de acompanhamento, designadas medidas escolares, de âmbito local, tendo em conta os objetivos definidos, a suficiência das medidas e as disponibilidades orçamentais:\n\na) Organização de aulas de degustação, criação e manutenção de atividades de jardinagem, organização de visitas a explorações agrícolas e atividades similares destinadas a sensibilizar as crianças para a agricultura;\n\nb) Medidas destinadas a promover o conhecimento das crianças sobre a agricultura, designadamente a diversidade e sazonalidade dos produtos, os hábitos alimentares saudáveis e as questões ambientais relacionadas com a produção, a distribuição e o consumo de frutas, produtos hortícolas, leite e produtos lácteos.\n\n3 - As medidas escolares devem ser acessíveis a todos os alunos e a sua aplicação é obrigatória em todos os anos letivos abrangidos pelo regime escolar.\n\n4 - O regime escolar abrange, ainda, uma medida de âmbito nacional, designada \"medida educativa nacional\", a implementar através de candidatura, a submeter na área reservada do portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).\n\n5 - Para efeitos de candidatura ao apoio previsto no número anterior, é publicitado aviso de candidatura definido conjuntamente pelo Gabinete de Planeamento, Políticas e Administração Geral (GPP), pelo IFAP, I. P., pela Direção-Geral de Educação (DGE) e pela Direção-Geral da Saúde (DGS) e é divulgado nos respetivos sítios da Internet.\n\n6 - O GPP, em conjunto com o IFAP, I. P., estabelecem as regras de elegibilidade para a aprovação das candidaturas apresentadas ao abrigo do n.º 4 do presente artigo, as quais são publicitadas em conjunto com o aviso de abertura de candidaturas referido no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+  },
+  "207110298": {
+   "fragment_id": "121665774",
+   "type": 11,
+   "heading": "Artigo 12.º — Níveis e limites da ajuda",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Níveis e limites da ajuda\n\n1 - A ajuda prevista no presente capítulo não excede 10 % da dotação definitiva anual atribuída a Portugal no âmbito do regime escolar, sendo distribuída do seguinte modo:\n\na) Até 3 %, para as medidas escolares previstas no n.º 2 do artigo 10.º;\n\nb) Até 7 %, para a medida educativa nacional prevista no n.º 4 do artigo 10.º\n\n2 - Caso o montante total dos pedidos de ajuda às medidas previstas na alínea b) do número anterior exceda a dotação disponível, os montantes da ajuda a conceder são disponibilizados às candidaturas aprovadas até ao limite da dotação, de acordo com os critérios de seriação estabelecidos nas regras de elegibilidade referidas no n.º 6 do artigo 10.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+  },
+  "207110299": {
+   "fragment_id": "121712680",
+   "type": 11,
+   "heading": "Artigo 16.º — Aprovação das entidades requerentes",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 16.º — Aprovação das entidades requerentes\n\n1 - As entidades requerentes das ajudas à distribuição previstas no artigo 9.º carecem de aprovação prévia junto do IFAP, I. P., mediante apresentação de um pedido de aprovação até 31 de julho anterior ao início do ano letivo, estando dependente da assunção escrita dos seguintes compromissos:\n\na) Utilizar os produtos financiados pelo regime para consumo pelas crianças nos estabelecimentos de ensino para os quais solicitem uma ajuda;\n\nb) Adequar a gestão dos montantes que lhes são afetos com vista a garantir a disponibilização dos produtos do regime escolar à população alvo, com a frequência e calendarização definidas, em articulação com os elementos a designar pelos estabelecimentos de ensino;\n\nc) Disponibilizar os documentos justificativos às autoridades competentes, quando solicitado;\n\nd) Sujeitar-se a qualquer verificação decidida pelas autoridades competentes, nomeadamente no que respeita ao exame de registos de alunos inscritos e controlos de distribuição e fornecimento de produtos;\n\ne) Manter os registos dos nomes e endereços dos estabelecimentos de ensino, dos produtos e quantidades fornecidos a esses estabelecimentos, devidamente organizados e disponibilizá-los às entidades intervenientes no regime, sempre que solicitados;\n\nf) Ajustar a frequência das entregas e das quantidades a distribuir por alteração da disponibilidade orçamental do regime escolar;\n\ng) Efetuar procedimentos específicos para aquisição dos produtos a financiar ao abrigo do presente regime;\n\nh) Cumprir os normativos legais em matéria de contratação pública relativamente ao provisionamento dos produtos financiados ao abrigo de presente regime.\n\n2 - A aprovação prevista no número anterior mantém-se nos anos letivos seguintes ao da sua atribuição, desde que sejam mantidos os compromissos assumidos, nos termos dos procedimentos a fixar pelo IFAP, I. P., e a divulgar no respetivo sítio da Internet, em portal.ifap.pt, e até cancelamento formal por parte da entidade requerente.\n\n3 - As entidades referidas na alínea b) do n.º 1 do artigo 9.º devem ainda comunicar ao IFAP, I. P., até 15 de setembro de cada ano letivo, os agrupamentos e escolas que pretendem abranger no regime escolar.\n\n4 - Até 31 de outubro de cada ano letivo, as entidades aprovadas devem confirmar junto do IFAP, I. P., os estabelecimentos de ensino abrangidos e a respetiva proposta de calendarização semanal das distribuições, para o ano letivo em questão, bem como, quando aplicável, as medidas escolares a implementar.\n\n5 - O disposto nos n.os 1 e 2 é aplicável, com as necessárias adaptações, às entidades requerentes das ajudas à monitorização, avaliação e publicidade.\n\n6 - Excecionalmente, para o ano letivo 2022/2023, a data-limite prevista no n.º 1 do presente artigo é prorrogada até 1 de março de 2023.\n\n7 - Excecionalmente, para o ano letivo 2022/2023, a data-limite prevista no n.º 4 do presente artigo é prorrogada até 15 de março de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "207110300": {
+   "fragment_id": "121712681",
+   "type": 11,
+   "heading": "Artigo 17.º — Pedidos de pagamento",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 17.º — Pedidos de pagamento\n\n1 - Os pedidos de pagamento relativos aos custos previstos na alínea a) do artigo 5.º são apresentados pelas entidades requerentes junto do IFAP, I. P., em modelo próprio disponível no respetivo sítio da Internet, em portal.ifap.pt, corretamente preenchido, até ao último dia do 3.º mês subsequente ao final dos trimestres letivos anualmente definidos.\n\n2 - Sem prejuízo do número anterior, caso a ajuda seja requerida pela Direção-Geral dos Estabelecimentos Escolares (DGEstE) do Continente ou pela Direção Regional do Planeamento, Recursos e Infraestruturas da Região Autónoma da Madeira, ao abrigo da alínea b) do n.º 1 do artigo 9.º e abrangidas pela prioridade 1 do anexo II, os respetivos pedidos de pagamento podem ter caráter mensal, devendo ser apresentados junto do IFAP, I. P., até ao 10.º dia útil do mês subsequente.\n\n3 - Os pedidos de pagamento referidos nos n.os 1 e 2 são acompanhados dos comprovativos da realização das despesas de aquisição e fornecimento, discriminados por produto, bem como dos comprovativos das quantidades efetivamente entregues nos estabelecimentos de ensino.\n\n4 - Os pedidos de pagamento relativos aos custos previstos na alínea b) do artigo 5.º, no que concerne à medida educativa nacional, bem como os custos previstos nas alíneas c) e d) do mesmo artigo, são apresentados após conclusão das respetivas ações.\n\n5 - Os pedidos de pagamento relativos aos custos previstos nas alíneas c) e d) do artigo 5.º são apresentados após conclusão das respetivas ações.\n\n6 - Os pedidos de pagamento previstos nos n.os 4 e 5 são acompanhados dos comprovativos de despesa e do relatório de execução das respetivas ações, em modelo a definir pelo IFAP, I. P., e a divulgar no respetivo sítio da Internet, em portal.ifap.pt, bem como de cópias do material produzido, quando aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "840060641": {
+   "fragment_id": "121665760",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060642": {
+   "fragment_id": "121665761",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria institui o regime escolar previsto no Regulamento (UE) 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na redação dada pelo Regulamento (UE) 2016/791, do Parlamento Europeu e do Conselho, de 11 de maio, estabelecendo as regras nacionais complementares da ajuda à distribuição de fruta, produtos hortícolas e bananas e leite e produtos lácteos, nos estabelecimentos de ensino, às medidas educativas de acompanhamento e a certos custos conexos, em aplicação da respetiva Estratégia Nacional (EN) para o período compreendido entre 1 de agosto de 2017 e 31 de julho de 2023.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060643": {
+   "fragment_id": "121665762",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO regime escolar é aplicável aos estabelecimentos de ensino público dos agrupamentos de escolas do continente e das regiões autónomas, abrangendo:\n\na) Os alunos que frequentam o 1.º ciclo do ensino básico, no que respeita à distribuição de fruta, produtos hortícolas e bananas e leite e produtos lácteos;\n\nb) Os alunos que frequentam o ensino pré-escolar, no que respeita à distribuição de leite e produtos lácteos.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060644": {
+   "fragment_id": "121665763",
+   "type": 11,
+   "heading": "Artigo 3.º — Ano letivo",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Ano letivo\n\nPara efeitos do regime escolar entende-se por ano letivo o período compreendido entre 1 de agosto e 31 de julho do ano seguinte.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060645": {
+   "fragment_id": "121665764",
+   "type": 11,
+   "heading": "Artigo 4.º — Integração curricular",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 4.º — Integração curricular\n\nO Ministério da Educação promove a articulação do regime escolar com os currículos escolares, competindo essa atribuição, nas regiões autónomas, aos órgãos de governo próprio respetivos.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060646": {
+   "fragment_id": "121665765",
+   "type": 11,
+   "heading": "Artigo 5.º — Custos elegíveis",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 5.º — Custos elegíveis\n\n1 - São elegíveis, no âmbito do regime escolar, os custos relativos a:\n\na) Fornecimento e distribuição nos estabelecimentos de ensino dos produtos, incluindo os custos previstos nas alíneas a) e f) do n.º 1 do artigo 4.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016;\n\nb) Medidas educativas de acompanhamento, a que se refere o artigo 3.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, incluindo os custos previstos na alínea b) do artigo 4.º do mesmo regulamento;\n\nc) Monitorização e avaliação, a que se referem os artigos 8.º do Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro de 2016, e 9.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016;\n\nd) Publicidade, a que se refere o artigo 12.º do Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro, incluindo os custos previstos na alínea c) do n.º 1 artigo 4.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016;\n\n2 - Os custos previstos no número anterior não podem ser financiados no âmbito de qualquer outro regime de ajuda da União.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060647": {
+   "fragment_id": "121665766",
+   "type": 1,
+   "heading": "Capítulo II — Distribuição de produtos",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo II — Distribuição de produtos\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060648": {
+   "fragment_id": "121665767",
+   "type": 11,
+   "heading": "Artigo 6.º — Produtos elegíveis",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 6.º — Produtos elegíveis\n\n1 - São elegíveis, no âmbito da ajuda prevista no presente capítulo, os seguintes produtos:\n\na) Frutas, produtos hortícolas e bananas, previstos na lista constante do anexo i à presente portaria, da qual faz parte integrante;\n\nb) Leite de consumo do código NC 0401, previsto da alínea c) do ponto iii da Parte IV do Anexo VII do Regulamento (UE) 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual, ou as suas variantes sem lactose.\n\n2 - As quantidades de produto objeto de ajuda, por aluno e por dia, são as seguintes:\n\na) 100 gramas, para os produtos referidos na alínea a) do número anterior;\n\nb) 1 embalagem com capacidade entre 0,2 e 0,25 l, para os produtos referidos na alínea b) do número anterior.\n\n3 - Apenas são elegíveis os produtos que se encontrem em conformidade com a legislação aplicável.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060649": {
+   "fragment_id": "121665768",
+   "type": 11,
+   "heading": "Artigo 7.º — Montantes e limites da ajuda",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Montantes e limites da ajuda\n\n1 - A ajuda prevista no presente capítulo está limitada a:\n\na) (euro) 11,10, por aluno e por ano, no caso da distribuição dos produtos a que se refere a alínea a) do n.º 1 do artigo anterior;\n\nb) (euro) 7,03, por aluno e por ano, no caso da distribuição dos produtos a que se refere a alínea b) do n.º 1 do artigo anterior.\n\n2 - Caso o montante total elegível exceda a dotação disponível, é aplicado um coeficiente de atribuição, em função do número de alunos inscritos em cada estabelecimento de ensino e dos produtos a distribuir.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+  },
+  "840060650": {
+   "fragment_id": "121665769",
+   "type": 11,
+   "heading": "Artigo 8.º — Modelo de distribuição dos produtos",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Modelo de distribuição dos produtos\n\nA distribuição de produtos é realizada durante 37 semanas por ano letivo, com a seguinte frequência:\n\na) No caso dos produtos a que se refere a alínea a) do n.º 1 do artigo 6.º, em quantidade correspondente a duas distribuições por semana, a efetuar em dias distintos;\n\nb) No caso dos produtos a que se refere a alínea b) do n.º 1 do artigo 6.º, uma vez por semana.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+  },
+  "840060651": {
+   "fragment_id": "121665770",
+   "type": 11,
+   "heading": "Artigo 9.º — Entidades requerentes",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entidades requerentes\n\n1 - Podem requerer a atribuição da ajuda à distribuição dos produtos a que se refere a alínea a) do n.º 1 do artigo 6.º:\n\na) Os municípios, para fornecimento e distribuição de produtos aos agrupamentos de escolas integrados na respetiva área de atuação;\n\nb) No caso de agrupamentos de escolas não abrangidos pela alínea anterior, e das Regiões Autónomas, os serviços e organismos previstos no anexo ii da presente portaria, da qual faz parte integrante, de acordo com a hierarquia aí definida.\n\n2 - Podem requerer a ajuda à distribuição dos produtos a que se refere a alínea b) do n.º 1 do artigo 6.º, os serviços e organismos previstos no anexo ii da presente portaria, da qual faz parte integrante, de acordo com a hierarquia aí definida.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060652": {
+   "fragment_id": "121665771",
+   "type": 1,
+   "heading": "Capítulo III — Medidas educativas de acompanhamento",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo III — Medidas educativas de acompanhamento\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060653": {
+   "fragment_id": "121665772",
+   "type": 11,
+   "heading": "Artigo 10.º — Objetivos e âmbito",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Objetivos e âmbito\n\n1 - As medidas educativas de acompanhamento visam a prossecução dos objetivos gerais do programa escolar, designadamente, o aumento a curto e médio prazo do consumo dos produtos abrangidos pelo regime escolar, a aproximação das crianças à agricultura, a promoção de hábitos alimentares saudáveis e outros, como a atividade física, e a educação relativamente a questões conexas, como as cadeias alimentares locais, a agricultura biológica, a produção sustentável ou o combate ao desperdício de alimentos.\n\n2 - Os estabelecimentos de ensino abrangidos pelo regime escolar devem implementar uma ou mais das seguintes medidas educativas de acompanhamento, designadas medidas escolares, de âmbito local, tendo em conta os objetivos definidos, a suficiência das medidas e as disponibilidades orçamentais:\n\na) Organização de aulas de degustação, criação e manutenção de atividades de jardinagem, organização de visitas a explorações agrícolas e atividades similares destinadas a sensibilizar as crianças para a agricultura;\n\nb) Medidas destinadas a promover o conhecimento das crianças sobre a agricultura, designadamente a diversidade e sazonalidade dos produtos, os hábitos alimentares saudáveis e as questões ambientais relacionadas com a produção, a distribuição e o consumo de frutas, produtos hortícolas, leite e produtos lácteos.\n\n3 - As medidas escolares devem ser acessíveis a todos os alunos e a sua aplicação é obrigatória em todos os anos letivos abrangidos pelo regime escolar.\n\n4 - O regime escolar abrange, ainda, uma medida de âmbito nacional, designada \"medida educativa nacional\", a implementar através de candidatura, a submeter na área reservada do portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).\n\n5 - Para efeitos de candidatura ao apoio previsto no número anterior, é publicitado aviso de candidatura definido conjuntamente pelo Gabinete de Planeamento, Políticas e Administração Geral (GPP), pelo IFAP, I. P., pela Direção-Geral de Educação (DGE) e pela Direção-Geral da Saúde (DGS) e é divulgado nos respetivos sítios da Internet.\n\n6 - O GPP, em conjunto com o IFAP, I. P., estabelecem as regras de elegibilidade para a aprovação das candidaturas apresentadas ao abrigo do n.º 4 do presente artigo, as quais são publicitadas em conjunto com o aviso de abertura de candidaturas referido no número anterior.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+  },
+  "840060654": {
+   "fragment_id": "121665773",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidades requerentes",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 11.º — Entidades requerentes\n\nPodem requerer atribuição de ajuda às medidas escolares previstas no n.º 2 do artigo anterior os requerentes da ajuda à distribuição previstos no artigo 9.º\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060655": {
+   "fragment_id": "121665774",
+   "type": 11,
+   "heading": "Artigo 12.º — Níveis e limites da ajuda",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Níveis e limites da ajuda\n\n1 - A ajuda prevista no presente capítulo não excede 10 % da dotação definitiva anual atribuída a Portugal no âmbito do regime escolar, sendo distribuída do seguinte modo:\n\na) Até 3 %, para as medidas escolares previstas no n.º 2 do artigo 10.º;\n\nb) Até 7 %, para a medida educativa nacional prevista no n.º 4 do artigo 10.º\n\n2 - Caso o montante total dos pedidos de ajuda às medidas previstas na alínea b) do número anterior exceda a dotação disponível, os montantes da ajuda a conceder são disponibilizados às candidaturas aprovadas até ao limite da dotação, de acordo com os critérios de seriação estabelecidos nas regras de elegibilidade referidas no n.º 6 do artigo 10.º\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01"
+  },
+  "840060656": {
+   "fragment_id": "121712675",
+   "type": 1,
+   "heading": "Capítulo IV — Monitorização, avaliação e publicidade",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo IV — Monitorização, avaliação e publicidade\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060657": {
+   "fragment_id": "121712676",
+   "type": 11,
+   "heading": "Artigo 13.º — Monitorização e avaliação",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Monitorização e avaliação\n\n1 - A monitorização e avaliação da aplicação do regime escolar, nos termos previstos no artigo 8.º do Regulamento (UE) 2017/39, da Comissão, de 3 de novembro de 2016, e no artigo 9.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, competem à Direção-Geral da Saúde (DGS), em articulação com as entidades relevantes, incluindo das regiões autónomas.\n\n2 - A monitorização e avaliação incluem, designadamente, a elaboração dos seguintes relatórios, agregados a nível nacional com os dados do continente e das regiões autónomas:\n\na) Relatórios anuais de monitorização;\n\nb) Relatório de avaliação referente ao período de execução dos primeiros cinco anos letivos abrangidos pela EN.\n\n3 - Os relatórios previstos no número anterior são sujeitos a aprovação da Comissão de Acompanhamento a que se refere o artigo seguinte, até 15 de fevereiro do ano letivo em causa, no que respeita aos relatórios previstos na alínea a), e até 15 de fevereiro de 2023, no que respeita ao relatório previsto na alínea b).\n\n4 - São elegíveis os custos com a monitorização e a avaliação previstos na alínea e) do n.º 1 do artigo 4.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, podendo a atribuição da respetiva ajuda ser requerida pela entidade competente referida no n.º 1.\n\n5 - As ajudas à monitorização, avaliação e publicidade, estão limitadas a 1 % da dotação global durante o período de cinco anos e a 10 % dessa dotação no ano de avaliação quinquenal, para cada tipologia de produtos referida no n.º 1 do artigo 6.º\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060658": {
+   "fragment_id": "121712677",
+   "type": 11,
+   "heading": "Artigo 14.º — Comissão de Acompanhamento",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 14.º — Comissão de Acompanhamento\n\n1 - É constituída uma Comissão de Acompanhamento com o objetivo de acompanhar a implementação do regime escolar, que integra os seguintes serviços e organismos:\n\na) GPP, que coordena;\n\nb) IFAP, I. P.;\n\nc) Direção-Geral dos Estabelecimentos Escolares;\n\nd) Direção-Geral da Educação;\n\ne) Direção-Geral da Saúde.\n\n2 - Integram ainda a Comissão de Acompanhamento, um representante da Região Autónoma dos Açores e um representante da Região Autónoma da Madeira, a indicar pelos respetivos governos regionais.\n\n3 - Sempre que se mostre conveniente, podem ser convidados a colaborar com a Comissão de Acompanhamento outros elementos relevantes em função das matérias em análise, de natureza pública ou privada, designadamente das áreas da agricultura, educação e saúde.\n\n4 - A Comissão de Acompanhamento reúne mediante convocatória da entidade coordenadora.\n\n5 - Cabe à Comissão de Acompanhamento, designadamente, aprovar os relatórios previstos no n.º 2 do artigo anterior.\n\n6 - O apoio logístico e administrativo necessário ao funcionamento da Comissão de Acompanhamento é assegurado pelo GPP.\n\n7 - As entidades que integram a Comissão de Acompanhamento devem indicar ao GPP os respetivos representantes, no prazo de dez dias úteis a contar da data de publicação da presente portaria.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060659": {
+   "fragment_id": "121712678",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicidade",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 15.º — Publicidade\n\n1 - Os estabelecimentos de ensino abrangidos pelo regime escolar devem publicitar a contribuição financeira da União Europeia através do cartaz previsto no artigo 12.º do Regulamento Delegado (UE) 2017/40, da Comissão, de 3 de novembro de 2016, a afixar em permanência num local claramente visível, localizado na entrada principal do estabelecimento.\n\n2 - A Direção-Geral da Educação e a Direção-Geral da Saúde definem as linhas de orientação pedagógicas relativas ao cartaz.\n\n3 - A Direção-Geral dos Estabelecimentos Escolares é responsável pela elaboração e reprodução do cartaz, bem como pela sua distribuição aos estabelecimentos de ensino abrangidos pelo regime escolar.\n\n4 - São elegíveis os custos previstos na alínea d) do n.º 1 do artigo 5.º, designadamente os custos com a elaboração, reprodução e distribuição do cartaz, podendo a atribuição da respetiva ajuda ser requerida pela Direção-Geral dos Estabelecimentos Escolares.\n\n5 - A ajuda respeitante aos custos previstos no número anterior está sujeita aos limites estabelecidos no n.º 5 do artigo 13.º\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060660": {
+   "fragment_id": "121712679",
+   "type": 1,
+   "heading": "Capítulo V — Procedimentos",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo V — Procedimentos\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060661": {
+   "fragment_id": "121712680",
+   "type": 11,
+   "heading": "Artigo 16.º — Aprovação das entidades requerentes",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 16.º — Aprovação das entidades requerentes\n\n1 - As entidades requerentes das ajudas à distribuição previstas no artigo 9.º carecem de aprovação prévia junto do IFAP, I. P., mediante apresentação de um pedido de aprovação até 31 de julho anterior ao início do ano letivo, estando dependente da assunção escrita dos seguintes compromissos:\n\na) Utilizar os produtos financiados pelo regime para consumo pelas crianças nos estabelecimentos de ensino para os quais solicitem uma ajuda;\n\nb) Adequar a gestão dos montantes que lhes são afetos com vista a garantir a disponibilização dos produtos do regime escolar à população alvo, com a frequência e calendarização definidas, em articulação com os elementos a designar pelos estabelecimentos de ensino;\n\nc) Disponibilizar os documentos justificativos às autoridades competentes, quando solicitado;\n\nd) Sujeitar-se a qualquer verificação decidida pelas autoridades competentes, nomeadamente no que respeita ao exame de registos de alunos inscritos e controlos de distribuição e fornecimento de produtos;\n\ne) Manter os registos dos nomes e endereços dos estabelecimentos de ensino, dos produtos e quantidades fornecidos a esses estabelecimentos, devidamente organizados e disponibilizá-los às entidades intervenientes no regime, sempre que solicitados;\n\nf) Ajustar a frequência das entregas e das quantidades a distribuir por alteração da disponibilidade orçamental do regime escolar;\n\ng) Efetuar procedimentos específicos para aquisição dos produtos a financiar ao abrigo do presente regime;\n\nh) Cumprir os normativos legais em matéria de contratação pública relativamente ao provisionamento dos produtos financiados ao abrigo de presente regime.\n\n2 - A aprovação prevista no número anterior mantém-se nos anos letivos seguintes ao da sua atribuição, desde que sejam mantidos os compromissos assumidos, nos termos dos procedimentos a fixar pelo IFAP, I. P., e a divulgar no respetivo sítio da Internet, em portal.ifap.pt, e até cancelamento formal por parte da entidade requerente.\n\n3 - As entidades referidas na alínea b) do n.º 1 do artigo 9.º devem ainda comunicar ao IFAP, I. P., até 15 de setembro de cada ano letivo, os agrupamentos e escolas que pretendem abranger no regime escolar.\n\n4 - Até 31 de outubro de cada ano letivo, as entidades aprovadas devem confirmar junto do IFAP, I. P., os estabelecimentos de ensino abrangidos e a respetiva proposta de calendarização semanal das distribuições, para o ano letivo em questão, bem como, quando aplicável, as medidas escolares a implementar.\n\n5 - O disposto nos n.os 1 e 2 é aplicável, com as necessárias adaptações, às entidades requerentes das ajudas à monitorização, avaliação e publicidade.\n\n6 - Excecionalmente, para o ano letivo 2022/2023, a data-limite prevista no n.º 1 do presente artigo é prorrogada até 1 de março de 2023.\n\n7 - Excecionalmente, para o ano letivo 2022/2023, a data-limite prevista no n.º 4 do presente artigo é prorrogada até 15 de março de 2023.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "840060662": {
+   "fragment_id": "121712681",
+   "type": 11,
+   "heading": "Artigo 17.º — Pedidos de pagamento",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 17.º — Pedidos de pagamento\n\n1 - Os pedidos de pagamento relativos aos custos previstos na alínea a) do artigo 5.º são apresentados pelas entidades requerentes junto do IFAP, I. P., em modelo próprio disponível no respetivo sítio da Internet, em portal.ifap.pt, corretamente preenchido, até ao último dia do 3.º mês subsequente ao final dos trimestres letivos anualmente definidos.\n\n2 - Sem prejuízo do número anterior, caso a ajuda seja requerida pela Direção-Geral dos Estabelecimentos Escolares (DGEstE) do Continente ou pela Direção Regional do Planeamento, Recursos e Infraestruturas da Região Autónoma da Madeira, ao abrigo da alínea b) do n.º 1 do artigo 9.º e abrangidas pela prioridade 1 do anexo II, os respetivos pedidos de pagamento podem ter caráter mensal, devendo ser apresentados junto do IFAP, I. P., até ao 10.º dia útil do mês subsequente.\n\n3 - Os pedidos de pagamento referidos nos n.os 1 e 2 são acompanhados dos comprovativos da realização das despesas de aquisição e fornecimento, discriminados por produto, bem como dos comprovativos das quantidades efetivamente entregues nos estabelecimentos de ensino.\n\n4 - Os pedidos de pagamento relativos aos custos previstos na alínea b) do artigo 5.º, no que concerne à medida educativa nacional, bem como os custos previstos nas alíneas c) e d) do mesmo artigo, são apresentados após conclusão das respetivas ações.\n\n5 - Os pedidos de pagamento relativos aos custos previstos nas alíneas c) e d) do artigo 5.º são apresentados após conclusão das respetivas ações.\n\n6 - Os pedidos de pagamento previstos nos n.os 4 e 5 são acompanhados dos comprovativos de despesa e do relatório de execução das respetivas ações, em modelo a definir pelo IFAP, I. P., e a divulgar no respetivo sítio da Internet, em portal.ifap.pt, bem como de cópias do material produzido, quando aplicável.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 40/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2023-207062784), em vigor a partir de 2023-02-07, produz efeitos a partir de 2022-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "840060663": {
+   "fragment_id": "121712682",
+   "type": 11,
+   "heading": "Artigo 18.º — Controlo",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 18.º — Controlo\n\nA implementação do regime escolar está sujeita a controlos administrativos e no local, nos termos do artigo 59.º do Regulamento (UE) 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e dos artigos 9.º e 10.º do Regulamento de Execução (UE) 2017/39, da Comissão, de 3 de novembro.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060664": {
+   "fragment_id": "121712683",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamento",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 19.º — Pagamento\n\nO pagamento das ajudas é efetuado às entidades requerentes pelo IFAP, I. P., no prazo de três meses a contar da data de apresentação do respetivo pedido devidamente instruído.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060665": {
+   "fragment_id": "121712684",
+   "type": 11,
+   "heading": "Artigo 20.º — Reduções e exclusões",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — Reduções e exclusões\n\n1 - Ao pagamento da ajuda são aplicáveis as reduções previstas no n.º 5 do artigo 4.º do Regulamento (UE) 2017/39, da Comissão, de 3 de novembro de 2016.\n\n2 - As entidades requerentes procedem à restituição das ajudas pagas indevidamente, nos termos previstos no artigo 11.º do Regulamento (UE) 2017/39, da Comissão, de 3 de novembro de 2016, quando se verifique que os produtos não tenham sido distribuídos aos alunos abrangidos pelo regime escolar ou quando a ajuda tenha sido atribuída para produtos não elegíveis.\n\n3 - As entidades requerentes que não procedam às comunicações previstas nos n.os 3 e 4 do artigo 16.º, nos prazos estipulados, ficam excluídas do regime no ano letivo em questão.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060666": {
+   "fragment_id": "121712685",
+   "type": 11,
+   "heading": "Artigo 21.º — Sanções",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 21.º — Sanções\n\n1 - A ausência de distribuição dos produtos, detetada em sede de controlo no local, dá lugar a uma redução no montante a pagar de 5 % por cada verificação irregular, aplicável a partir da segunda falha verificada, até ao limite de quatro irregularidades, a partir da qual o requerente ficará excluído do regime no ano letivo em causa.\n\n2 - A aplicação da sanção de exclusão prevista no n.º 1 em dois anos letivos consecutivos determina a exclusão do regime no ano letivo em causa e no seguinte.\n\n3 - A ausência de afixação do cartaz em conformidade com o previsto no artigo 15.º, se constatada em sede de controlo no local, determina a aplicação das sanções previstas nos n.os 1 e 2.\n\n4 - O incumprimento dos compromissos assumidos ao abrigo do n.º 1 do artigo 16.º, determina a aplicação das sanções previstas no artigo 8.º do Regulamento (UE) 2017/40, da Comissão, de 3 de novembro de 2016.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060667": {
+   "fragment_id": "121712686",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060668": {
+   "fragment_id": "121712687",
+   "type": 11,
+   "heading": "Artigo 22.º — Comunicações",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 22.º — Comunicações\n\n1 - O GPP apresenta anualmente à Comissão Europeia, até 31 de janeiro, o pedido de ajuda referente ao ano letivo seguinte e, se for caso disso, as atualizações ao pedido de ajuda relativo ao ano letivo em curso, contendo as informações previstas no artigo 3.º do Regulamento de Execução (UE) 2017/39, da Comissão, de 3 de novembro de 2016, o qual se baseia na avaliação da aplicação do regime escolar do ano letivo em curso e nas previsões para o ano letivo seguinte.\n\n2 - O IFAP, I. P., notifica a Comissão Europeia dos controlos realizados no local e respetivas conclusões, até 31 de outubro do ano civil subsequente ao ano letivo em causa.\n\n3 - O IFAP, I. P., notifica, ainda, a Comissão Europeia, dos resultados do exercício de acompanhamento, até ao dia 31 de janeiro seguinte ao termo do ano letivo em causa, que inclui informações sobre os montantes utilizados para o fornecimento e a distribuição de cada um dos grupos de produtos e para as medidas educativas de acompanhamento, o número de estabelecimentos de ensino e de alunos que participam no regime de distribuição nas escolas, o tamanho médio das doses e o preço médio por dose, a frequência de entrega de produtos, bem como as quantidades de produtos discriminadas por grupos de produtos.\n\n4 - O GPP apresenta à Comissão Europeia, até 1 de março do ano seguinte ao termo do período de execução referido na alínea b) do n.º 2 do artigo 13.º, o relatório quinquenal de avaliação aprovado pela Comissão de Acompanhamento.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060669": {
+   "fragment_id": "121712688",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição transitória",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 23.º — Disposição transitória\n\n1 - Para os anos letivos anteriores a 2017/2018, são aplicáveis os regimes previstos na Portaria n.º 161/2011, de 18 de abril, alterada pela Portaria n.º 233/2011, de 15 de junho, e na Portaria n.º 375/2015, de 20 de outubro, até à conclusão das operações objeto de ajuda no âmbito desses regimes.\n\n2 - Para o ano letivo 2017/2018, o pedido de aprovação a que se refere o artigo 16.º, é apresentado no prazo de 15 dias úteis a contar da data de entrada em vigor da presente portaria, sendo dispensadas as comunicações previstas nos n.os 3 e 4 do mesmo preceito, e o pedido de pagamento a que se refere o n.º 1 do artigo 17.º, relativo aos dois primeiros trimestres letivos, é apresentado até ao final do 3.º mês subsequente à data da comunicação da referida aprovação.\n\n3 - São consideradas elegíveis, no âmbito do regime escolar, as aquisições e respetivas operações de fornecimento e distribuição, efetuadas antes da entrada em vigor da presente portaria, em quantidades correspondentes às definidas no artigo 8.º, desde que respeitem a produtos elegíveis de acordo com a legislação em vigor à data da respetiva contratação.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "840060670": {
+   "fragment_id": "121712689",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 161/2011, de 18 de abril, alterada pela Portaria n.º 233/2011, de 15 de junho;\n\nb) A Portaria n.º 375/2015, de 20 de outubro.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060671": {
+   "fragment_id": "121712690",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 25.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a partir de 1 de agosto de 2017.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060672": {
+   "fragment_id": "121712691",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "O Ministro da Educação, Tiago Brandão Rodrigues, em 18 de abril de 2018. - O Ministro da Saúde, Adalberto Campos Fernandes, em 24 de abril de 2018. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 24 de abril de 2018.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060673": {
+   "fragment_id": "121712692",
+   "type": 14,
+   "heading": "Anexo S",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "## Anexo S\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  },
+  "840060674": {
+   "fragment_id": "121712693",
+   "type": 14,
+   "heading": "Anexo I — Lista de produtos elegíveis no âmbito da ajuda à distribuição de fruta e produtos hortícolas e bananas",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+   ],
+   "markdown": "## Anexo I — Lista de produtos elegíveis no âmbito da ajuda à distribuição de fruta e produtos hortícolas e bananas\n\n[a que se refere a alínea a) do n.º 1 do artigo 6.º]\n\nProdutos elegíveis no âmbito da ajuda à distribuição de fruta e produtos hortícolas e bananas:\n\nMaçã\n\nPera\n\nClementina\n\nTangerina\n\nLaranja\n\nBanana\n\nCereja\n\nUvas\n\nAmeixa\n\nPêssego\n\nAnona\n\nQuivi\n\nDióspiro\n\nCenoura\n\nTomate (incluindo variedade cereja ou equivalente).\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 94/2019 - Diário da República n.º 62/2019, Série I de 2019-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/94-2019-121665683), em vigor a partir de 2019-03-29, produz efeitos a partir de 2018-05-01"
+  },
+  "840062475": {
+   "fragment_id": "121712694",
+   "type": 14,
+   "heading": "Anexo II — Entidades requerentes da ajuda à distribuição",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+   ],
+   "markdown": "## Anexo II — Entidades requerentes da ajuda à distribuição\n\n[a que se refere a alínea b) do n.º 1 e o n.º 2 do artigo 9.º]\n\n(ver documento original)\n\n111303066\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 37/2024 - Diário da República n.º 23/2024, Série I de 2024-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/37-2024-839900710), em vigor a partir de 2024-02-02, produz efeitos a partir de 2023-08-01"
+  }
+ }
+}

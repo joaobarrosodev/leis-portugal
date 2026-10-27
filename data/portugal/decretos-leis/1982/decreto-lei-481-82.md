@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:380887:por
+title: Decreto-Lei n.º 481/82
+short_title: null
+summary: Revê o sistema de pagamento de dívidas ao Estado por vale de correio ou cheque, instituído pelo Decreto-Lei n.º 157/80,
+  de 24 de Maio
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 481/82
+official_date: null
+publication_date: '1982-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 296/1982, Série I de 1982-12-24
+  number: '296'
+  series: I
+  supplement: null
+  pages: 4219 - 4220
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29600/42194220.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '380887'
+  dre_path: /dr/detalhe/decreto-lei/481-1982-380887
+  internal: pt:dre:380887:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1982-380887
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1982-380887
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:48:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: de00fda73a09100bdf673b79abb7b350dd2536627fb3ba24630a62e48a4dc16e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:48:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cheque
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Tesouraria da Fazenda Pública
+- VALE de Correio
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474525:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:686384:por
+  label: Revogado o presente diploma pelo(a) Decreto-Lei n.º 275-A/93 - Diário da República n.º 185/1993, 1º Suplemento, Série
+    I-A de 1993-08-09, salvo o disposto no art. 52º daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-a-1993-686384
+  date: '1993-08-09'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:48:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 481/82
+
+de 24 de Dezembro
+
+Através do [Decreto-Lei n.º 157/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1980-474525), de 24 de Maio, institucionalizou-se um novo regime de pagamento de dívidas ao Estado por vale de correio ou cheque, o qual teve em vista a necessária articulação com o sistema de contas bancárias, introduzido pelos Decretos-Leis n.os [475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro, e [158/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1980-474512), de 24 de Maio, uma maior simplificação do processo administrativo decorrente da devolução de cheques, com inteira salvaguarda dos interesses da tesouraria do Estado, e o preenchimento de lacunas que caracterizavam o anterior sistema.
+
+A experiência demonstrou a necessidade de colmatar certas insuficiências que o actual sistema revela, tais como as resultantes do preenchimento de cheques com preterição de formalidades que não podem ser detectadas pelo tomador, v. g. assinatura, cujas condições são desconhecidas pela tesouraria, e que pode ter natureza abusiva com vista à obtenção de diferimento de prazos para cumprimento da obrigação tributária, face à apresentação de documentos de falso crédito, e a limitação do uso do vale do correio ou cheque, quando remetidos através dos CTT, às dívidas de natureza virtual.
+
+Por outro lado, há que tomar medidas análogas à da inibição do uso de cheque, no caso de se verificar reincidência na emissão de cheques sem provisão, facultando ao tesoureiro gerente da respectiva tesouraria da Fazenda Pública os meios legais que lhe permitam, nesta situação, a exigência de cheques visados.
+
+Reconhece-se, ainda, a necessidade de providenciar no sentido de dotar as tesourarias da Fazenda Pública dos meios que lhes permitam a dinamização do processo de ressarcimento da tesouraria do Estado, no caso de devolução de cheques em relação aos quais seja desconhecida a morada dos respectivos sacadores.
+
+Verifica-se também a necessidade de actualizar a taxa de regularização, de forma a evitar que da actualização de cheques sem provisão resulte um gravame inferior ao do artigo 8.º do [Decreto-Lei n.º 746/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/746-1975-355159), de 31 de Dezembro, bem como os seus limites, mínimo e máximo.
+
+Finalmente, e atendendo à salvaguarda dos direitos do Estado e dos interesses do próprio contribuinte, prevê-se a aceitação de cheques para pagamentos parciais de natureza virtual, sem obediência a quaisquer limites.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 4.º, 6.º e 7.º do [Decreto-Lei n.º 157/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1980-474525), de 24 de Maio, passam a ter a seguinte redacção:
+
+Art. 4.º - 1 - Os cheques e vales de correio destinados a pagamentos nas tesourarias da Fazenda Pública, quer se trate de receita virtual, de impostos recebidos nos casos de autoliquidação e, ainda, de receita retida na fonte, poderão ser enviados às mesmas pelo correio e, neste caso, sob registo, acompanhados de sobrescritos endereçados, devendo o respectivo tesoureiro-gerente remeter ao contribuinte, pela via postal, como correspondência oficial, num prazo não superior a 10 dias após a cobrança, o correspondente recibo de quitação.
+
+2 - A remessa deverá ser feita com a antecedência mínima de 3 dias úteis em relação ao último dia do prazo para pagamento, sendo os pedidos acompanhados das guias respeitantes às receitas de natureza eventual, devidamente processadas, identificando-se sempre a dívida a pagar, no caso de receita de natureza virtual, com indicação do imposto, prestação, número e nome do contribuinte ou por remessa do respectivo aviso. No caso de qualquer deficiência ou insuficiência no processamento das guias ou mau encaminhamento em qualquer dos tipos de receita, que não possa ser suprido pelos serviços, o tesoureiro gerente deve proceder à devolução ao interessado da documentação enviada.
+
+3 - No caso de errado encaminhamento dos cheques, vales de correio e demais documentação, o respectivo tesoureiro gerente deverá diligenciar no sentido de averiguar qual a tesouraria onde o pagamento terá de ser efectuado, após o que depositará o cheque que tiver recebido na competente conta bancária, emitindo, de seguida, cheque cruzado a favor do tesoureiro gerente daquela tesouraria, o qual será remetido com a documentação recebida.
+
+4 - O contribuinte que não tenha em seu poder os avisos de todos os impostos e contribuições que deseje satisfazer e cuja expedição deva ser feita pelo tesoureiro da Fazenda Pública poderá requisitá-los ao tesoureiro, que lhos enviará, com a possível brevidade, mencionando a quantia a pagar, incluindo juros de mora e taxa de relaxe, se forem devidos.
+
+5 - As diligências a praticar pela tesouraria da Fazenda Pública com vista ao prévio registo, na repartição de finanças respectiva, das receitas eventuais a que se refere o n.º 1 do presente artigo deverão ficar ultimadas até ao primeiro dia útil seguinte ao da sua recepção, devendo a repartição de finanças proceder ao necessário registo e devolução à tesouraria da Fazenda Pública até ao segundo dia útil imediato.
+
+6 - As receitas de natureza eventual cobradas fora do prazo normal em consequência do disposto no número anterior não ficam sujeitas a quaisquer imposições legais, sem prejuízo do disposto no n.º 2 deste artigo.
+
+Art. 6.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - No caso de devolução de cheques por deficiência ou insuficiência de assinaturas, autenticação inexacta ou falta dela, se for devida, o pagamento a que se refere o n.º 1 deste artigo será acerscido de uma taxa de regularização, calculada pelo tesoureiro da Fazenda Pública, de 5% sobre o valor do cheque, sem qualquer adicional, constituindo receita do Estado e não podendo o produto dessa percentagem ser superior ao montante do cheque ou a 100000$00, nem inferior a 500$00, se a regularização não for efectuada dentro do prazo normal do pagamento do imposto, sendo as competentes guias de pagamento processadas pelo tesoureiro gerente da respectiva tesouraria da Fazenda Pública.
+
+6 - À devolução de cheques a que se refere o número anterior aplica-se o disposto nos n.os 3, 4 e 5 do artigo 7.º do presente diploma, se for caso disso, bem como os artigos 8.º e 9.º na parte aplicável.
+
+7 - Não sendo possível proceder à notificação a que se refere o n.º 1 deste artigo, o tesoureiro gerente promoverá as diligências necessárias para nova notificação do devedor, as quais, se resultarem infrutíferas, implicarão o cumprimento do disposto no n.º 2 do presente artigo, considerando-se para o efeito a notificação feita no segundo dia útil posterior àquele em que a carta tiver sido recebida após a devolução.
+
+8 - Para os efeitos do disposto no presente artigo, consideram-se como cheques devolvidos por falta de provisão os que contenham qualquer declaração aposta pelo banco sacado, ou pelo serviço de compensação, que permita extrair a conclusão de que, no momento da sua apresentação à cobrança, o saldo da conta do sacador é insuficiente para se concretizar a referida cobrança.
+
+Art. 7.º - 1 - No caso de devolução de cheques por falta de provisão, o tesoureiro oficiará, nos dois dias úteis seguintes, sob registo e com aviso de recepção, ao sacador, para, no prazo de 5 dias úteis, regularizar a situação, mediante a entrega da importância respectiva, em numerário ou cheque visado, bem como ao devedor, no caso de não ser o sacador, o qual poderá também proceder à regularização da situação nos termos deste artigo.
+
+2 - O pagamento a que se refere o número anterior será acrescido de uma importância, calculada pela aplicação de uma taxa de regularização liquidada pelo tesoureiro gerente da respectiva tesouraria da Fazenda Pública, de 10% sobre o valor do cheque, sem qualquer adicional, constituindo receita do Estado e não podendo o produto dessa percentagem ser inferior a 500$00 nem superior a 200000$00, sendo as competentes guias de pagamento processadas pelo tesoureiro gerente da respectiva tesouraria da Fazenda Pública.
+
+3 - A regularização efectivada nos termos dos números anteriores fará extinguir todo o procedimento fiscal contra o devedor.
+
+4 - Se a devolução do cheque for imputada a erro da entidade sacada e esta o confessar por escrito, será responsável para com o Estado pela importância da taxa de regularização.
+
+5 - Se o pagamento a que se refere o número anterior não for feito dentro do prazo indicado no n.º 1 deste artigo, o tesoureiro gerente da respectiva tesouraria da Fazenda Pública processará as competentes guias de pagamento nos termos e para os efeitos do artigo 24.º do Código de Processo das Contribuições e Impostos.
+
+6 - Não sendo possível proceder à notificação a que se refere o n.º 1 deste artigo, o tesoureiro promoverá as diligências consideradas necessárias para nova notificação do devedor, as quais, a resultarem infrutíferas, implicarão o cumprimento do disposto nos n.os 1 e 3 do artigo 8.º e artigo 10.º do presente diploma, considerando-se, para o efeito, a notificação feita no segundo dia útil posterior àquele em que a carta tenha sido recebida após a devolução.
+
+Art. 2.º São aditados ao [Decreto-Lei n.º 157/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1980-474525), de 24 de Maio, os seguintes artigos:
+
+Art. 4.º-A - 1 - Os tesoureiros-gerentes das respectivas tesourarias da Fazenda Pública devem sempre receber os vales de correio ou cheques que se encontrem nas condições legais, ainda que de montante inferior à dívida, no caso de se tratar de receitas de natureza virtual.
+
+2 - Por despacho do director-geral do Tesouro, serão fixadas as regras para cumprimento do disposto no número anterior.
+
+Art. 7.º-A. No caso de devolução de cheques, quer por falta de provisão, quer por preterição de formalidades essenciais, deverá a instituição de crédito sacada comunicar o nome do sacador e respectivo domicílio ou sede.
+
+Art. 7.º-B. No caso de reincidência na emissão de cheques sem provisão, poderá o director-geral do Tesouro, mediante proposta do respectivo tesoureiro gerente, autorizar a recusa de aceitação de cheques para pagamento de dívidas ao Estado, salvo se os mesmos estiverem visados, bem como poderá, igualmente, propor ao Banco de Portugal a aplicação das medidas previstas no [Decreto-Lei n.º 530/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1975-312053), de 25 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
+
+Promulgado em 13 de Dezembro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

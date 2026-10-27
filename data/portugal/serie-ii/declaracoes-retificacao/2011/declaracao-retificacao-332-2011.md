@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:2912761:por
+title: Declaração de Rectificação n.º 332/2011
+short_title: null
+summary: Rectificação do despacho n.º 1142/2011, publicado no Diário da República n.º 9, de 13 de Janeiro de 2011
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Administração Interna - Polícia de Segurança Pública
+proposing_entity: null
+official_number: 332/2011
+official_date: null
+publication_date: '2011-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/2011, Série II de 2011-02-09
+  number: '28'
+  series: II
+  supplement: null
+  pages: 7255 - 7256
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/02/028000000/0725507256.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2912761'
+  dre_path: /dr/detalhe/declaracao-rectificacao/332-2011-2912761
+  internal: pt:dre:2912761:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/332-2011-2912761
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/332-2011-2912761
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:36:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 36ff8da072964cefef83a87e2c6d9b6ac6c22716b0579cec3129cd0ddb6fa317
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:36:04Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 332/2011
+
+Delegação e subdelegação de competências
+
+Por ter sido publicado com inexactidão, republica-se na íntegra o despacho n.º 1142/2011, publicado no Diário da República n.º 9, de 13 de Janeiro de 2011.
+
+Despacho
+
+Considerando que o comissário Cristina Marques, por despacho do Director Nacional, de 9 de Setembro de 2010, foi colocada na EPP com efeitos a 13 de Setembro de 2010, cessando, dessa forma, as funções de comandante da Divisão Policial de Angra do Heroísmo, para as quais havia sido nomeado por graduação pelo despacho n.º 14/GDN/2010, de 10 de Maio de 2010, da mesma entidade;
+
+Considerando também que por força dos artigo 41.º, n.º 2, do CPA, na falta de nomeação do titular do cargo, o comissário M/133295, Alfredo Manuel Ramalho Rodrigues, passou a desempenhar as funções de comandante da Divisão Policial de Angra do Heroísmo, em substituição, com efeitos reportados a 13 de Setembro de 2010;
+
+Assim:
+
+1 - A fim de garantir o cabal exercício das funções de comando da Divisão, ao abrigo do disposto no artigo 36.º, n.º 4, da [Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/lei/53-2007-641142), de 31 de Agosto, e no artigo 35.º, n.º 1, do Código do Procedimento Administrativo, delego no referido oficial a competência para a prática dos seguintes actos relativamente ao efectivo da respectiva Divisão Policial:
+
+1.1 - Nomear os comandantes das subunidades operacionais, nos casos em que não haja inconveniente por parte do Comando;
+
+1.2 - Presidir às Juntas de Saúde que tenham lugar na sede da respectiva Divisão;
+
+1.3 - Autorizar averbamentos no registo biográfico;
+
+1.4 - Alterar o mapa de férias do pessoal com funções policiais;
+
+1.5 - Autorizar a acumulação de férias do ano, no ano civil seguinte, do pessoal com funções policiais e não policiais;
+
+1.6 - Autorizar o gozo de férias por antecipação à elaboração do mapa respectivo, do pessoal com funções policiais e não policiais;
+
+1.7 - Nomear o pessoal a admitir à frequência de acções/cursos de formação;
+
+1.8 - Instruir os processos de credenciação em matérias classificadas;
+
+1.9 - Certificar e emitir declarações a pedido dos interessados e oficiosamente quando a lei o determinar.
+
+2 - No uso das competências delegadas por despacho do director nacional da Polícia de Segurança Pública, de 16 de Outubro de 2008, publicado no Diário da República, 2.ª série, n.º 225, de 19 de Novembro, ao abrigo do disposto no artigo 21.º, n.º 3, da [Lei n.º 53/2007](https://diariodarepublica.pt/dr/detalhe/lei/53-2007-641142), de 31 de Agosto, nos artigos 35.º e 36.º do Código do Procedimento Administrativo, no artigo 109.º, n.º 1, do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, no artigo 84.º da [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608), de 23 de Fevereiro, e no artigo 34.º, n.º 3, do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, nos termos do n.º 4 do citado despacho, subdelego no mesmo oficial a competência para a prática dos seguintes actos:
+
+2.1 - Conceder licenças até 30 dias;
+
+2.2 - Conceder o estatuto de trabalhador estudante e autorizar os benefícios dele decorrentes, nos termos da lei;
+
+2.3 - Justificar e injustificar faltas do pessoal com funções policiais até ao posto de comissário, inclusive, e do pessoal com funções não policiais;
+
+2.4 - Autorizar as faltas por conta do período de férias do próprio ano e do ano seguinte ao pessoal com funções policiais até ao posto de comissário, inclusive, e ao pessoal com funções não policiais;
+
+2.5 - Autorizar o início das férias de acordo com o plano respectivo;
+
+2.6 - Autorizar as deslocações dentro da sua área de jurisdição e a requisição de passagens nos seguintes casos:
+
+2.6.1 - Realização de diligências em processos disciplinares, de sanidade e administrativos, entre ilhas;
+
+2.6.2 - Deslocações por motivos de saúde;
+
+2.6.3 - Autorizar a requisição de passagens, sendo que para fora da área da Divisão as deslocações têm de ser previamente autorizadas superiormente;
+
+2.6.4 - Todas as outras deslocações desde que sem custos para a Fazenda Nacional;
+
+2.7 - Assinar os termos de aceitação nos casos de provimento no posto de agente principal;
+
+2.8 - Assinar os termos de posse e aceitação nos casos de nomeação para agente;
+
+2.9 - Instruir os processos de sanidade e decidir aqueles de cujos acidentes sejam considerados em serviço e dos quais não resulte a morte ou incapacidade permanente para os acidentados;
+
+2.10 - Autorizar despesas com contratos de locação, de aquisição de bens móveis, de aquisição de serviços e com empreitadas de obras públicas até ao limite máximo de (euro) 5000 e sem exceder a dotação de cada rubrica estabelecida pelo Centro de Custos do Comando Regional para a respectiva Divisão Policial;
+
+2.11 - Emitir, autorizar e aprovar pedidos de autorização de pagamentos (PAP) de despesas relativas a processos que decorram no âmbito das respectivas divisões até ao máximo de (euro) 5000;
+
+2.12 - Decidir os pedidos de autorização prévia para aquisição de armas de sinalização;
+
+2.13 - Decidir os pedidos de renovação de licenças B1, C, D, E, F e da licença de detenção de arma no domicílio.
+
+2.14 - Autorizar os pedidos de averbamento em nome do cabeça de casal de armas manifestadas até à partilha dos bens do autor da herança;
+
+2.15 - Decidir os pedidos de autorização prévia para a inscrição e a frequência dos cursos de formação técnica e cívica dos portadores de arma de fogo das classes C e D embora e sempre em articulação com o Núcleo de Armas e Explosivos e o Núcleo de formação do CR Açores;
+
+2.16 - Emitir os livros de registo de munições para as armas das classes B e B1, a requerimento dos interessados;
+
+2.17 - Certificar os documentos de cedência a título de empréstimo, de armas das classes C e D, emitidos pelos respectivos proprietários, desde que destinados ao exercício da prática venatória;
+
+2.18 - Decidir os pedidos de autorização para detenção de armas de fogo em território nacional, sob forma de visto prévio, apresentados por titulares de Cartão Europeu de Armas de Fogo de outros Estados membros da União Europeia;
+
+2.19 - Processar as contra-ordenações por infracções cometidas na respectiva área de jurisdição, por violação ao regime jurídico relativo ao fabrico, montagem, reparação, importação, exportação, transferência, armazenamento, circulação, comércio, aquisição, cedência, detenção, manifesto, guarda, segurança, uso e porte de armas, seus componentes e munições, bem como ao comércio, aquisição, controlo, produção, importação, exportação, detenção e uso de produtos explosivos e de matérias perigosas.
+
+3 - Ainda nos termos das competências delegadas no n.º 2 do referido despacho do director nacional da PSP, ao abrigo do disposto no n.º 3 do artigo 137.º do Código do Procedimento Administrativo, ratifico todos os actos praticados pelo referido oficial no âmbito das competências previstas nos números anteriores, até à publicação do presente despacho.
+
+24 de Setembro de 2010. - O Comandante Regional, José Augusto de Barros Correia, superintendente.
+
+26 de Janeiro de 2011. - O Comandante Regional, José Augusto de Barros Correia, superintendente.
+
+204300357

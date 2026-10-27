@@ -1,0 +1,439 @@
+---
+schema_version: '1.0'
+id: pt:dre:942710377:por
+title: Decreto-Lei n.º 116-A/2025
+short_title: null
+summary: Executa o Regulamento (UE) 2024/1358, relativo à criação do sistema Eurodac de comparação de dados biométricos.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 116-A/2025
+official_date: null
+publication_date: '2025-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/2025, Suplemento, Série I de 2025-10-27
+  number: '207'
+  series: I
+  supplement: null
+  pages: 2 - 8
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/10/20701/0000200008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/116-a/2025/10/27/p/dre/pt/html
+  oj: null
+  dre: '942710377'
+  dre_path: /dr/detalhe/decreto-lei/116-a-2025-942710377
+  internal: pt:dre:942710377:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-a-2025-942710377
+  metadata_url: https://data.dre.pt/eli/dec-lei/116-a/2025/10/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-a-2025-942710377
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 696eb8dc690ce9bb5ef2ec8775a7a73e511c44764d23637646a63d5cadf252b7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Agência para a Integração Migrações e Asilo I. P.
+- Comissão Nacional de Protecção de Dados
+- Dados Pessoais
+- Definição de Competências
+- GNR
+- Magistrado do Ministério Público
+- Polícia Judiciária
+- Polícia Marítima
+- Ponto Único de Contacto para a Cooperação Policial Internacional
+- PSP
+- Regulamento
+- Regulamento CE
+- Regulamento Eurodac
+relationships:
+- type: cites
+  target: celex:32001L0055
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/55/oj
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/679/oj
+- type: cites
+  target: celex:32019R0818
+  label: null
+  source: http://data.europa.eu/eli/reg/2019/818/oj
+- type: cites
+  target: celex:32024R1350
+  label: null
+  source: http://data.europa.eu/eli/reg/2024/1350/oj
+- type: cites
+  target: celex:32024R1351
+  label: null
+  source: http://data.europa.eu/eli/reg/2024/1351/oj
+- type: cites
+  target: celex:32024R1358
+  label: null
+  source: http://data.europa.eu/eli/reg/2024/1358/oj
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/41/2023/06/02/p/dre
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+- type: repeals
+  target: pt:numero:decreto-lei:41/2023
+  label: Revoga, a partir de 28 de outubro de 2025, com efeitos em 12 de junho de 2026, as alíneas ff) e gg) do n.º 2 do artigo
+    3.º do anexo ao Decreto-Lei n.º 41/2023, de 2 de junho, Diário da República n.º 107/2023, Série I
+  source: null
+  date: '2023-06-02'
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:51:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 116-A/2025
+
+de 27 de outubro
+
+O [Regulamento (UE) 2024/1358](https://data.europa.eu/eli/reg/2024/1358/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de maio de 2024 (Regulamento Eurodac), estabelece o sistema Eurodac para a comparação de dados biométricos, com o objetivo de assegurar a aplicação efetiva dos Regulamentos (UE) [2024/1351](https://data.europa.eu/eli/reg/2024/1351/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de maio de 2024, e [2024/1350](https://data.europa.eu/eli/reg/2024/1350/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de maio de 2024, bem como da [Diretiva 2001/55/CE](https://data.europa.eu/eli/dir/2001/55/oj?locale=pt), do Conselho, de 20 de julho de 2001. Este sistema visa reforçar a cooperação entre os Estados-Membros no âmbito da gestão de fluxos migratórios, permitindo a identificação de nacionais de países terceiros e apátridas em situação irregular e garantindo a correta aplicação das normas europeias em matéria de asilo e migração.
+
+A criação e implementação do Regulamento Eurodac são fundamentais para assegurar uma gestão eficiente da migração dentro da União Europeia, reforçando os mecanismos de cooperação entre os Estados-Membros no processamento de pedidos de proteção internacional e na aplicação dos regulamentos comunitários. Neste sentido, revela-se essencial garantir a plena operacionalização do sistema Eurodac em Portugal, assegurando a correta integração das suas diretrizes na legislação nacional.
+
+Do Regulamento Eurodac resulta a obrigação de cada Estado-Membro criar uma infraestrutura nacional adequada que assegure a recolha e o intercâmbio rápido e seguro de dados biométricos, sempre em estrito respeito pelos direitos dos indivíduos, contribuindo para uma gestão eficaz e coordenada dos fluxos migratórios e para a rigorosa aplicação da lei em toda a União Europeia.
+
+A partir de 12 de junho de 2026, o sistema Eurodac será interligado ao portal de pesquisa europeu referido no artigo 6.º do [Regulamento (UE) 2019/818](https://data.europa.eu/eli/reg/2019/818/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de maio de 2019, com o objetivo de permitir a interoperabilidade com o Sistema Europeu de Informação e Autorização de Viagem, bem como com o Sistema de Informação sobre Vistos.
+
+Atendendo ao caráter vinculativo e diretamente aplicável do Regulamento, impõe-se a adoção de disposições complementares no ordenamento jurídico português para assegurar a sua plena execução e garantir a correta articulação com as entidades competentes, nomeadamente no que respeita à recolha, transmissão, armazenamento e utilização de dados biométricos no âmbito do sistema Eurodac.
+
+A execução deste Regulamento exige, ainda, a definição de medidas de fiscalização e sanções aplicáveis, assegurando o cumprimento das normas europeias e a proteção dos direitos fundamentais dos indivíduos abrangidos pelo sistema.
+
+Neste contexto, o Governo, pelo presente decreto-lei, cinge-se à definição das regras indispensáveis para a implementação do sistema Eurodac em Portugal, as quais correspondem somente à designação das entidades responsáveis pela recolha, transmissão, armazenamento, tratamento e utilização de dados biométricos no âmbito do sistema Eurodac, não legislando, assim, acerca de regimes substantivos de proteção de dados cujo tratamento decorre do regime previsto no Regulamento Eurodac.
+
+Ademais, a regulamentação ora proposta reforça o compromisso de Portugal com os princípios de proteção de dados, transparência e segurança jurídica, em conformidade com o [Regulamento (UE) n.º 2016/679](https://data.europa.eu/eli/reg/2016/679/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de abril, e demais legislação nacional aplicável. Deste modo, este diploma assegura a aplicação eficaz do sistema Eurodac, respeitando os direitos fundamentais e os compromissos assumidos por Portugal no quadro da União Europeia.
+
+Foram ouvidos o Centro Nacional de Cibersegurança e a Comissão Nacional de Proteção de Dados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei assegura a execução e a implementação, na ordem jurídica interna, do [Regulamento (UE) 2024/1358](https://data.europa.eu/eli/reg/2024/1358/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de maio de 2024 (Regulamento Eurodac).
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, aplicam-se as definições constantes do Regulamento Eurodac.
+
+###### Artigo 3.º — Ponto de acesso nacional
+
+O ponto de acesso nacional é assegurado pelo Sistema de Segurança Interna, através da Unidade de Coordenação de Fronteiras e Estrangeiros (UCFE).
+
+###### Artigo 4.º — Autoridades designadas
+
+1 - No âmbito da aplicação do Regulamento Eurodac, são autoridades nacionais designadas a Guarda Nacional Republicana (GNR), a Polícia de Segurança Pública (PSP), a Polícia Judiciária (PJ) e a Polícia Marítima (PM), estando autorizadas a pedir comparações com os dados Eurodac por intermédio do ponto de acesso nacional.
+
+2 - No âmbito das autoridades designadas funcionam as respetivas unidades operacionais, constantes da lista do anexo ao presente decreto-lei e do qual faz parte integrante.
+
+###### Artigo 5.º — Proteção internacional
+
+A Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), é responsável por recolher, tratar e manter os dados pessoais dos requerentes de proteção internacional, bem como pela inserção dessas informações no sistema Eurodac, por intermédio do ponto de acesso nacional.
+
+###### Artigo 6.º — Autoridade de controlo
+
+No âmbito da aplicação do Regulamento Eurodac, a autoridade de controlo designada é o Sistema de Segurança Interna, através dos Magistrados do Ministério Público aí destacados, no Ponto Único de Contacto para a Cooperação Policial Internacional.
+
+###### Artigo 7.º — Recolha de dados
+
+1 - A PSP, a GNR e a AIMA, I. P., são as entidades responsáveis por recolher e transmitir ao sistema Eurodac os dados biométricos das pessoas a que se refere o n.º 1 do artigo 13.º do Regulamento Eurodac.
+
+2 - A PSP, a GNR e a AIMA, I. P., informam as pessoas referidas no número anterior dos seus direitos e deveres, nomeadamente da obrigatoriedade de disponibilizar os seus dados biométricos, podendo ser aplicadas medidas administrativas, destinadas a assegurar o cumprimento dessa obrigação, conforme previsto no n.º 1 do artigo 212.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
+
+3 - A PJ, no âmbito das suas competências, pode proceder à recolha de dados para transmissão ao sistema Eurodac.
+
+###### Artigo 8.º — Comparação de impressões digitais e imagem facial
+
+A PSP, a GNR e a AIMA, I. P., devem assegurar que a transmissão dos dados biométricos se processa com qualidade adequada para permitir a comparação pelo sistema Eurodac.
+
+###### Artigo 9.º — Direitos de informação
+
+A autoridade responsável pela recolha dos dados assegura, no momento da recolha, o cumprimento do direito à informação nos moldes do artigo 42.º do Regulamento Eurodac, devendo ser obrigatoriamente registada.
+
+###### Artigo 10.º — Supervisão pelas autoridades nacionais de controlo
+
+A Comissão Nacional de Proteção de Dados (CNPD) é responsável por verificar a licitude do tratamento dos dados pessoais, cooperar na fiscalização do tratamento de dados e supervisionar adequadamente a transmissão, utilização e o acesso aos dados do Eurodac.
+
+###### Artigo 11.º — Segurança dos dados
+
+1 - As autoridades designadas enviam, anualmente, ao ponto de acesso nacional, o plano de segurança de dados e as correspondentes medidas necessárias relativamente a todos os dados que sejam por eles tratados.
+
+2 - O ponto de acesso nacional comunica à eu-LISA os incidentes de segurança relacionados com o Eurodac detetados nos sistemas, sem prejuízo da notificação e comunicação ao Centro Nacional de Cibersegurança.
+
+###### Artigo 12.º — Transferência de dados para países terceiros para efeitos de regresso
+
+A transferência de dados pessoais para países terceiros ao abrigo do artigo 50.º do Regulamento Eurodac estão sujeitas a controlo pela CNPD.
+
+###### Artigo 13.º — Registo e documentação
+
+A CNPD é responsável pela fiscalização da admissibilidade do pedido e da licitude do tratamento dos dados, bem como da sua integridade e segurança, tendo acesso ao registo de todas as operações de tratamento de dados resultantes de pedidos de comparação com dados Eurodac, mediante pedido, para efeitos do cumprimento das suas atribuições.
+
+###### Artigo 14.º — Custos
+
+1 - Os custos incorridos pelo ponto de acesso nacional e os respetivos custos de ligação ao Eurodac ficam a cargo do ponto de acesso nacional.
+
+2 - O ponto de acesso nacional cria e mantém por expensas próprias, a infraestrutura técnica necessária para a aplicação e execução do Regulamento Eurodac, e suporta os respetivos custos decorrentes dos pedidos de comparação com os dados Eurodac para fins de aplicação da lei.
+
+###### Artigo 15.º — Relatórios, acompanhamento e avaliação
+
+O ponto de acesso nacional presta à eu-LISA e à Comissão as informações necessárias para a elaboração do relatório anual previsto no n.º 1 do artigo 57.º do Regulamento Eurodac.
+
+###### Artigo 16.º — Sanções
+
+O tratamento ilícito dos dados registados no Eurodac é sancionado nos termos da [Lei n.º 58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto.
+
+###### Artigo 17.º — Norma revogatória
+
+São revogadas as alíneas ff) e gg) do n.º 2 do artigo 3.º do anexo ao [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, na sua redação atual.
+
+###### Artigo 18.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos no dia 12 de junho de 2026.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 4 de setembro de 2025. - Luís Montenegro - António Leitão Amaro.
+
+Promulgado em 24 de outubro de 2025.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 27 de outubro de 2025.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO — (a que se refere o n.º 2 do artigo 4.º)
+
+Lista das unidades operacionais
+
+São unidades operacionais as seguintes:
+
+Polícia Judiciária:
+
+Laboratório de Polícia Científica da Polícia Judiciária;
+
+Diretoria do Norte;
+
+Diretoria do Centro;
+
+Diretoria do Sul;
+
+Departamento Investigação Criminal de Braga;
+
+Departamento Investigação Criminal de Aveiro;
+
+Departamento Investigação Criminal de Vila Real;
+
+Departamento Investigação Criminal da Guarda;
+
+Departamento Investigação Criminal de Leiria;
+
+Diretoria de Lisboa e Vale do Tejo;
+
+Unidade Local de Investigação Criminal de Évora;
+
+Departamento Investigação Criminal dos Açores;
+
+Departamento Investigação Criminal da Madeira;
+
+Departamento Investigação Criminal de Setúbal;
+
+Departamento Investigação Criminal de Portimão;
+
+Unidade de Informação Criminal;
+
+Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica;
+
+Unidade Nacional de Combate à Corrupção;
+
+Unidade Nacional Contraterrorismo;
+
+Unidade Nacional de Combate ao Tráfico de Estupefacientes;
+
+Unidade de Cooperação Internacional;
+
+Polícia de Segurança Pública:
+
+Direção Nacional - Unidade Nacional de Estrangeiros e Fronteiras - Unidade Central de Gestão de Fronteiras Aeroportuárias;
+
+Departamento de Investigação Criminal;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Metropolitano de Lisboa;
+
+LSB/DSACF Lisboa - Aeroporto Humberto Delgado;
+
+CAT/DSACF Lisboa - Aeroporto de Cascais;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital FARO;
+
+FAR/DSACF Faro - Aeroporto Gago Coutinho;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Metropolitano PORTO;
+
+OPO/DSACF Porto - Aeroporto Francisco Sá Carneiro;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Regional MADEIRA;
+
+FNC/DSACF Madeira - Aeroporto Cristiano Ronaldo;
+
+PXO/DSACF Madeira - Aeroporto do Porto Santo;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Regional AÇORES;
+
+TER/DSACF Açores - Aeroporto Internacional das Lajes;
+
+SMA/DSACF Açores - Aeroporto de Santa Maria;
+
+PDL/DSACF Açores - Aeroporto João Paulo II;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital BEJA;
+
+BYJ/CD Beja - Aeroporto Internacional de Beja;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital BRAGANÇA;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital AVEIRO;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital LEIRIA;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital ÉVORA;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital SETÚBAL;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital BRAGA;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital CASTELO BRANCO;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital COIMBRA;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital GUARDA;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital PORTALEGRE;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital SANTARÉM;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital VIANA DO CASTELO;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital VILA REAL;
+
+Núcleo de Estrangeiros e Controlo Fronteiriço - Comando Distrital VISEU.
+
+Guarda Nacional Republicana:
+
+Direção de Investigação Criminal;
+
+Destacamento de Guarda de Fronteiras de Matosinhos;
+
+Posto de Guarda de Fronteiras de Viana do Castelo;
+
+Posto de Guarda de Fronteiras de Leixões;
+
+Posto de Guarda de Fronteiras de Aveiro;
+
+Posto de Guarda de Fronteiras da Figueira da Foz;
+
+Posto de Guarda de Fronteiras de Valença;
+
+Posto de Guarda de Fronteiras de Quintanilha;
+
+Posto de Guarda de Fronteiras de Vilar Formoso;
+
+Destacamento de Guarda de Fronteiras de Lisboa;
+
+Posto de Guarda de Fronteiras de Lisboa;
+
+Posto de Guarda de Fronteiras de Peniche;
+
+Posto de Guarda de Fronteiras de Setúbal;
+
+Posto de Guarda de Fronteiras de Sines;
+
+Posto de Guarda de Fronteiras de Elvas;
+
+Destacamento de Guarda de Fronteiras de Portimão;
+
+Posto de Guarda de Fronteiras de Portimão;
+
+Posto de Guarda de Fronteiras de Vilamoura;
+
+Posto de Guarda de Fronteiras de Castro Marim;
+
+Destacamento de Guarda de Fronteiras dos Açores;
+
+Posto de Guarda de Fronteiras de Ponta Delgada;
+
+Posto de Guarda de Fronteiras da Horta;
+
+Posto de Guarda de Fronteiras de Angra do Heroísmo;
+
+Destacamento de Guarda de Fronteiras da Madeira;
+
+Posto de Guarda de Fronteiras do Funchal;
+
+Posto de Guarda de Fronteiras de Porto Santo;
+
+Polícia Marítima:
+
+Divisão de Análise e Informações Policiais;
+
+Unidade Central de Investigação Criminal.
+
+119701439

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:915072128:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-representante-republica-para-regiao-autonoma-madeira/2025-915713602",
+ "dre_path": "/dr/detalhe/decreto-representante-republica-para-regiao-autonoma-madeira/4-2025-915072128",
+ "source_lastmod": "2025-04-22",
+ "versions": [
+  {
+   "date": "2025-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915671952"
+   ]
+  }
+ ],
+ "fragments": {
+  "915671952": {
+   "fragment_id": "915713603",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Representante da República para a Região Autónoma da Madeira n.º 4/2025\n\nNos termos do n.º 4 do artigo 231.º da Constituição da República e dos n.º 2 do artigo 56.º e n.º 2 do artigo 57.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, com as alterações introduzidas pelas Leis n.<sup>os </sup>130/99, de 21 de agosto, e 12/2000, de 21 de junho, nomeio, sob proposta do Presidente do Governo Regional, o Dr. Jorge Maria Abreu de Carvalho Secretário Regional de Educação, Ciência e Tecnologia, o Dr. António Eduardo de Freitas Jesus Secretário Regional de Turismo, Ambiente e Cultura, o Sr. José Manuel de Sousa Rodrigues Secretário Regional da Economia, a Dr.ª Micaela Cristina Fonseca de Freitas Secretária Regional de Saúde e Proteção Civil, o Dr. Duarte Nuno Nunes de Freitas Secretário Regional das Finanças, o Dr. Nuno Dinarte de Gouveia Maciel Secretário Regional de Agricultura e Pescas, a Dr.ª Paula Cristina Baptista Margarido Secretária Regional de Inclusão, Trabalho e Juventude e o engenheiro Pedro Alexandre Fagundes de Freitas Rodrigues Secretário Regional de Equipamentos e Infraestruturas."
+  }
+ }
+}

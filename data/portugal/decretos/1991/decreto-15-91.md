@@ -1,0 +1,221 @@
+---
+schema_version: '1.0'
+id: pt:dre:475541:por
+title: Decreto n.º 15/91
+short_title: null
+summary: Protocolo de Cooperação Agrícola entre a República Portuguesa e a República da Guiné-Bissau
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 15/91
+official_date: null
+publication_date: '1991-03-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/1991, Série I-A de 1991-03-15
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1336 - 1337
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/03/062a00/13361337.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/15/1991/03/15/p/dre/pt/html
+  oj: null
+  dre: '475541'
+  dre_path: /dr/detalhe/decreto/15-1991-475541
+  internal: pt:dre:475541:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1991-475541
+  metadata_url: https://data.dre.pt/eli/dec/15/1991/03/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/15-1991-475541
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:03:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7010f78cc374cc96d085d2019381da2d8925270eab20a01bbe80d5ad3e42e907
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:03:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Cooperação Agrícola
+- Guiné-Bissau
+- Portugal
+relationships: []
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:03:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 15/91
+
+de 15 de Março
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+Artigo único. É aprovado o Protocolo de Cooperação Agrícola entre a República Portuguesa e a República da Guiné-Bissau, feito em Lisboa, em 9 de Novembro de 1989, cujo texto original segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1991. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha.
+
+Assinado em 25 de Fevereiro de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 26 de Fevereiro de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+PROTOCOLO DE COOPERAÇÃO AGRÍCOLA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU
+
+A República Portuguesa e a República da Guiné-Bissau, com a convicção de que uma intensificação de cooperação em matéria de agricultura será positiva para ambos os países, acordam no seguinte:
+
+I - Disposições gerais
+
+###### Artigo I
+
+A cooperação científica e técnica no âmbito da agricultura entre os dois países far-se-á através da mobilização das estruturas do Ministério da Agricultura, Pescas e Alimentação (MAPA) e do Instituto para a Cooperação Económica (ICE) de Portugal e o Ministério do Desenvolvimento Rural e Agricultura da Guiné-Bissau, adiante designados por Partes, podendo efectuar-se em todos os domínios, na esfera das suas competências próprias.
+
+###### Artigo II
+
+1 - Sem prejuízo de outros domínios que venham a ser reconhecidos de interesse pelas Partes, são desde já estabelecidos os seguintes:
+
+a) Formação profissional;
+
+b) Extensão rural;
+
+c) Informação e documentação agrária;
+
+d) Investigação e experimentação agrárias;
+
+e) Hidráulica e engenharia agrícola;
+
+f) Solos e fertilização de culturas;
+
+g) Associativismo agrícola;
+
+h) Produção florestal;
+
+i) Gestão da vida selvagem e recursos cinegéticos;
+
+j) Produção, melhoramento, higiene e saúde animal;
+
+l) Protecção fitossanitária;
+
+m) Industrialização e transformação de produtos agro-pecuários e florestais.
+
+2 - As acções de cooperação desenvolver-se-ão, no geral, sob a forma de assistência técnica, apoio laboratorial, formação profissional e especificamente através de:
+
+a) Intercâmbio de técnicos e investigadores;
+
+b) Estudos e elaboração de projectos e assistência técnica;
+
+c) Intercâmbio sistemático de informação e de publicações de carácter científico e técnico;
+
+d) Cursos, estágios e outras acções de formação de pessoal;
+
+e) Exposições, seminários, reuniões e conferências;
+
+f) Fornecimento de equipamento e mobiliário para apetrechamento de laboratório e centro de documentação;
+
+g) Dinamizar e apoiar a constituição de empresas mistas no âmbito do sector agro-pecuário e florestal.
+
+###### Artigo III
+
+A Parte portuguesa e a Parte guineense promoverão por intermédio das suas estruturas o estabelecimento de programas conjuntos, anuais ou plurianuais, nos quais se explicitarão:
+
+a) Os objectivos e duração previstos;
+
+b) A natureza exacta dos trabalhos a realizar;
+
+c) O pessoal responsável pela realização;
+
+d) A atribuição das tarefas;
+
+e) O financiamento necessário e a sua distribuição.
+
+###### Artigo IV
+
+A gestão deste Protocolo será feita por uma Comissão Coordenadora, que integrará representantes dos dois países, competindo-lhe:
+
+a) Elaborar um plano de trabalho anual;
+
+b) Zelar pelo cumprimento das acções acordadas;
+
+c) Elaborar, no final de cada ano, um relatório sobre as actividades desenvolvidas, com eventuais propostas das correcções a introduzir na acção futura a desenvolver.
+
+2 - A Comissão Coordenadora poderá ser apoiada por elementos das estruturas executivas para os efeitos que julgarem necessários.
+
+3 - Para a elaboração dos planos de trabalho anuais e relatórios, a Comissão Coordenadora deverá reunir uma vez por ano, alternadamente em Portugal e na Guine-Bissau.
+
+II- Disposições financeiras
+
+###### Artigo V
+
+1 - O suporte financeiro das acções decorrentes da aplicação deste Protocolo, constante dos planos de trabalho estabelecidos, será assegurado pela conjugação das disponibilidades de verbas das Partes guineense e portuguesa.
+
+2 - As duas Partes acordam em realizar programas conjuntos a serem submetidos a organismos internacionais ou outras instituições de financiamento para efeito de cobertura financeira.
+
+###### Artigo VI
+
+Constitui obrigação da Parte guineense o pagamento dos encargos com o seguro de vida, acidentes pessoais e profissionais dos técnicos portugueses durante a sua permanência na Guiné-Bissau.
+
+III - Disposições finais
+
+###### Artigo VII
+
+O texto do presente Protocolo poderá ser modificado através de negociações directas ou através de troca de correspondência entre as Partes, mas a entrada em vigor das respectivas modificações ficará dependente do cumprimento das formalidades previstas no artigo seguinte.
+
+###### Artigo VIII
+
+1 - Este Protocolo é estabelecido pelo período de um ano, prorrogável por iguais períodos, se não for denunciado por qualquer das Partes pelo menos três meses antes de caducar o respectivo período de validade, salvaguardada a continuidade dos programas em curso, os quais deverão prosseguir até o seu termo.
+
+2 - Este Protocolo é provisoriamente aplicado a partir da data da sua assinatura e entrará em vigor quando os Governos se notificarem mutuamente de que foram cumpridos os respectivos requisitos internos necessários à sua entrada em vigor.
+
+Feito em Lisboa aos 9 de Novembro de 1989, em dois originais em língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
+
+Pela República da Guiné-Bissau:
+
+O Ministro de Estado do Desenvolvimento Rural e Agricultura, Carlos Correia.

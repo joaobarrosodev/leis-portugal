@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R1794:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1794-20150101",
+ "dre_path": null,
+ "source_lastmod": "2015-01-01",
+ "versions": [
+  {
+   "date": "2006-12-07",
+   "future": false,
+   "celex": "32006R1794",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4689ac65de50ba5f",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "c5ad8cefa6cbaf1e",
+    "17490c8212123ad2",
+    "de842fdabd468d31",
+    "4741b106f2b9f50b",
+    "f0f8c960bfdbce9b",
+    "4d75ebe8e0f336d7",
+    "58799adbf44ddfbf",
+    "c8effd553366a30f",
+    "a85ba1a8fad8e658",
+    "ccb3db6ad51c0d2e",
+    "1e7a0903d2eed348",
+    "7ff0dbbeee6326ce",
+    "f4c2f0fc4d2b6b74",
+    "1bfdc0814757c10c",
+    "f5c49cf311ac4990",
+    "22bc53e0a763ecc3",
+    "90c7bd314c13f65b",
+    "c0ea0b0ee7501fc4",
+    "232ff6d9e3895895",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "6041dcf40c38d94d",
+    "8f9cfbe6a18a17ab",
+    "237eb84caf8d8766",
+    "b30bec3e5a86a82c"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "celex": "02006R1794-20150101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Princípios do regime de tarifação",
+    "Suprime Artigo 4.º — Estabelecimento de zonas de tarifação",
+    "Suprime CAPÍTULO II",
+    "Suprime CUSTOS DA PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA",
+    "Suprime Artigo 5.º — Serviços, instalações e actividades elegíveis",
+    "Suprime Artigo 6.º — Cálculo dos custos",
+    "Suprime Artigo 7.º — Imputação dos custos",
+    "Suprime Artigo 8.º — Transparência da base de custos",
+    "Suprime CAPÍTULO III",
+    "Suprime FINANCIAMENTO DA PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA ATRAVÉS DE TAXAS DE NAVEGAÇÃO AÉREA",
+    "Suprime Artigo 9.º — Isenções de taxas de navegação aérea",
+    "Suprime Artigo 10.º — Cálculo das taxas de rota",
+    "Suprime Artigo 11.º — Cálculo das taxas de terminal",
+    "Suprime Artigo 12.º — Regimes de incentivos",
+    "Suprime Artigo 13.º — Fixação de taxas unitárias para as zonas de tarifação",
+    "Suprime Artigo 14.º — Cobrança das taxas",
+    "Suprime Artigo 15.º — Transparência do mecanismo de tarifação",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 16.º — Recurso",
+    "Suprime Artigo 17.º — Facilitação do controlo da conformidade",
+    "Suprime Artigo 18.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "380058dd5f7434d6"
+   ]
+  }
+ ],
+ "fragments": {
+  "4689ac65de50ba5f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Dezembro de 2006\n\nque estabelece o regime comum de tarifação dos serviços de navegação aérea\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu («regulamento relativo à prestação de serviços») [([^1])](http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce.0016.03/DOC_1#ntr1-L_2006341PT.01000301-E0001), nomeadamente o n.º 4 do artigo 15.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce.0016.03/DOC_1#ntr2-L_2006341PT.01000301-E0002), nomeadamente o n.º 2 do artigo 8.º,\n\nConsiderando o seguinte:\n\n(1) Cabe à Comissão estabelecer um regime comum de tarifação dos serviços de navegação aérea em toda a Comunidade. O instrumento mais adequado para garantir a aplicação uniforme do regime comum de tarifação no âmbito do céu único europeu é um regulamento, que é de aplicação directa.\n\n(2) O Eurocontrol foi mandatado, nos termos do n.º 1 do artigo 8.º do regulamento-quadro, para assistir a Comissão no desenvolvimento das regras de execução do regime comum de tarifação dos serviços de navegação aérea. O presente regulamento baseia-se no relatório de 29 de Outubro de 2004, que resultou do referido mandato.\n\n(3) O desenvolvimento de um regime comum de tarifação dos serviços de navegação aérea prestados em todas as fases do voo é de importância primordial para a realização do céu único europeu. O sistema deveria contribuir para uma maior transparência em matéria de criação, liquidação e execução de taxas aos utilizadores do espaço aéreo. O sistema deveria ainda incentivar a prestação segura, eficiente e eficaz de serviços de navegação aérea aos utilizadores de serviços de navegação aérea que financiam o sistema, bem como a promoção da prestação de serviços integrados.\n\n(4) Em conformidade com o objectivo geral de aumento da rentabilidade dos serviços de navegação aérea, o regime de tarifação deveria promover a melhoria da eficiência a nível operacional e dos custos.\n\n(5) A fim de proporcionar o acesso dos passageiros à rede de transporte aéreo e, em especial, a aeroportos de pequena e média dimensão, bem como a aeroportos de maior dimensão, a um custo aceitável, os Estados-Membros devem poder aplicar a mesma taxa unitária a serviços de terminal em todos os aeroportos servidos pelo mesmo prestador de serviços de tráfego aéreo, ou em vários grupos desses aeroportos, conforme o caso, a fim de cobrir os custos totais dos serviços de terminal.\n\n(6) O regime comum de tarifação deveria ser coerente com o artigo 15.º da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional.\n\n(7) Dado que a maioria dos Estados-Membros é parte no Acordo Multilateral do Eurocontrol sobre Taxas de Rota, de 12 de Fevereiro de 1981, e que a Comunidade assinou o protocolo de adesão à Convenção Eurocontrol revista, as regras previstas no presente regulamento deveriam ser coerentes com o sistema de taxas de rota do Eurocontrol.\n\n(8) O regime de tarifação deveria permitir a utilização optimizada do espaço aéreo, tendo em conta os fluxos de tráfego aéreo, em especial dentro de blocos funcionais de espaço aéreo, de acordo com o artigo 5.º do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu («regulamento relativo ao espaço aéreo») [([^3])](http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce.0016.03/DOC_1#ntr3-L_2006341PT.01000301-E0003).\n\n(9) De acordo com a declaração apensa ao regulamento relativo ao espaço aéreo [([^4])](http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce.0016.03/DOC_1#ntr4-L_2006341PT.01000301-E0004), a Comissão elaborará, até 2008, um relatório sobre a experiência adquirida na criação de blocos funcionais de espaço aéreo. Nessa ocasião, a Comissão avaliará as eventuais dificuldades decorrentes da manutenção de taxas unitárias separadas dentro de um bloco funcional de espaço aéreo.\n\n(10) É necessário estabelecer regras para disponibilizar oportunamente aos representantes dos utilizadores do espaço aéreo e às autoridades competentes informações completas e transparentes sobre a base de custos.\n\n(11) Em particular, o nível das taxas fixadas para aeronaves ligeiras, não deveria desencorajar a utilização de instalações e serviços necessários em termos de segurança nem a introdução de novas técnicas e procedimentos.\n\n(12) A fórmula de tarifação de serviços de navegação aérea de terminal deveria reflectir a natureza diferente dos serviços em comparação com os serviços de navegação aérea de rota.\n\n(13) Os Estados-Membros devem ter a possibilidade de fixar colectivamente as suas taxas unitárias, especialmente quando as zonas de tarifação abrangem o espaço aéreo de mais de um Estado-Membro, ou quando fazem parte de um sistema conjunto de taxas de rota.\n\n(14) A fim de melhorar a eficiência do regime de tarifação e de reduzir a carga administrativa e contabilística, os Estados-Membros devem ter a possibilidade de cobrar taxas de rota colectivamente, no âmbito de um sistema conjunto de taxas de rota, mediante uma taxa unitária por voo.\n\n(15) É importante reforçar os meios legais necessários para assegurar o pagamento rápido e integral das taxas de navegação aérea por parte dos utilizadores de serviços de navegação aérea.\n\n(16) As taxas a aplicar a utilizadores do espaço aéreo devem ser criadas e liquidadas de forma justa e transparente, após consulta dos utilizadores. As referidas taxas devem ser objecto de revisão periódica.\n\n(17) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "c5ad8cefa6cbaf1e": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece as medidas necessárias para o desenvolvimento de um regime de tarifação dos serviços de navegação aérea, coerente com o sistema de taxas de rota do Eurocontrol.\n\n2. O presente regulamento é aplicável a serviços de navegação aérea fornecidos por prestadores de serviços de tráfego aéreo designados de acordo com o artigo 8.º do Regulamento (CE) n.º 550/2004 e por prestadores de serviços meteorológicos, se designados de acordo com o n.º 1 do artigo 9.º do referido regulamento, relativamente a tráfego aéreo geral no âmbito das regiões EUR e AFI da OACI em que os Estados-Membros são responsáveis pela prestação de serviços de navegação aérea.\n\n3. Os Estados-Membros podem aplicar o presente regulamento a serviços de navegação aérea prestados no espaço aéreo sob a sua responsabilidade noutras regiões da OACI, desde que informem do facto a Comissão e os demais Estados-Membros.\n\n4. Os Estados-Membros podem aplicar o presente regulamento a prestadores de serviços de navegação aérea autorizados a prestar serviços de navegação aérea sem certificação, de acordo com o estabelecido no n.º 5 do artigo 7.º do regulamento relativo à prestação de serviços.\n\n5. Os Estados-Membros podem decidir não aplicar o presente regulamento a serviços de navegação aérea prestados em aeroportos com menos de 50 000 movimentos de transporte aéreo comercial por ano, independentemente da massa máxima à descolagem e do número de lugares da aeronave, movimentos contados como a soma das descolagens e aterragens e calculados como uma média dos três anos anteriores.\n\nOs Estados-Membros devem informar a Comissão desse facto. A Comissão publicará periodicamente uma lista actualizada dos aeroportos isentos.\n\n6. Sem prejuízo da aplicação dos princípios referidos nos artigos 14.º e 15.º do regulamento relativo à prestação de serviços, os Estados-Membros podem decidir não calcular as taxas de terminal conforme mencionado no artigo 11.º do presente regulamento e não fixar taxas unitárias de terminal conforme referido no artigo 13.º do presente regulamento no que diz respeito a serviços de navegação aérea prestados em aeródromos com menos de 150 000 movimentos de transporte aéreo comercial por ano, independentemente da massa máxima à descolagem e do número de lugares de passageiros ocupados, contados como a soma das descolagens e aterragens e calculados como uma média dos três anos anteriores.\n\nAntes de tomar essa decisão, os Estados-Membros devem efectuar uma avaliação da medida em que estão preenchidas as condições referidas no anexo I, incluindo a consulta de representantes dos utilizadores do espaço aéreo.\n\nA avaliação final quanto ao preenchimento das condições e a decisão dos Estados-Membros devem ser publicadas e comunicadas à Comissão, com plena justificação das conclusões dos Estados-Membros, incluindo o resultado da consulta aos utilizadores."
+  },
+  "17490c8212123ad2": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 2.º do regulamento-quadro.\n\nSão, além disso, aplicáveis as seguintes definições:\n\na) «Utilizador de serviços de navegação aérea»: o operador da aeronave no momento da realização do voo ou, se a identidade do operador não for conhecida, o proprietário da aeronave, a menos que possa provar que o operador era outro nesse momento;\n\nb) «Representante dos utilizadores do espaço aéreo»: qualquer entidade ou pessoa colectiva que represente os interesses de uma ou várias categorias de utilizadores de serviços de navegação aérea;\n\nc) «IFR»: regras de voo por instrumentos, tal como definidas no anexo 2 da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional (Décima edição — Julho de 2005);\n\nd) «VFR»: regras de voo visual, tal como definidas no anexo 2 da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional (Décima edição — Julho de 2005);\n\ne) «Zona de tarifação de rota»: um volume de espaço aéreo relativamente ao qual são estabelecidas uma base de custos única e uma taxa unitária única;\n\nf) «Zona de tarifação de terminal»: um aeroporto ou um grupo de aeroportos relativamente aos quais são estabelecidas uma base de custos única e uma taxa unitária única;\n\ng) «Transporte aéreo comercial»: a operação de uma aeronave que envolva o transporte de passageiros, carga ou correio mediante remuneração ou contrato de fretamento."
+  },
+  "de842fdabd468d31": {
+   "fragment_id": "Artigo 3.º — Princípios do regime de tarifação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Princípios do regime de tarifação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios do regime de tarifação\n\n1. O regime de tarifação deve reflectir os custos incorridos, directa ou indirectamente, na prestação de serviços de navegação aérea.\n\n2. Os custos dos serviços de rota devem ser financiados pelas taxas de rota cobradas aos utilizadores de serviços de navegação aérea.\n\n3. Os custos dos serviços de terminal devem ser financiados por taxas de terminal cobradas aos utilizadores de serviços de navegação aérea e/ou por outras receitas, incluindo subvenções cruzadas em conformidade com o direito comunitário.\n\n4. Os n.^os^ 2 e 3 são aplicáveis sem prejuízo do financiamento de isenções concedidas a determinados utilizadores de serviços de navegação aérea através de outras fontes de financiamento, em conformidade com o disposto no artigo 9.º\n\n5. O regime de tarifação deve ser transparente e garantir a consulta sobre as bases de custos e a imputação dos custos a diferentes serviços."
+  },
+  "4741b106f2b9f50b": {
+   "fragment_id": "Artigo 4.º — Estabelecimento de zonas de tarifação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Estabelecimento de zonas de tarifação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estabelecimento de zonas de tarifação\n\n1. Os Estados-Membros devem estabelecer zonas de tarifação no espaço aéreo sob a sua responsabilidade nas quais são prestados serviços de navegação aérea a utilizadores do espaço aéreo.\n\n2. As zonas de tarifação devem ser definidas em consonância com as operações e serviços de controlo do tráfego aéreo, após consulta aos representantes dos utilizadores do espaço aéreo.\n\n3. Uma zona de tarifação de rota estende-se do solo até ao espaço aéreo superior, inclusive, sem prejuízo da possibilidade que têm os Estados-Membros de estabelecer uma zona específica para uma área terminal complexa após consulta aos representantes dos utilizadores do espaço aéreo.\n\n4. Se as zonas de tarifação abrangerem o espaço aéreo de mais de um Estado-Membro, os Estados-Membros em causa devem tomar as disposições adequadas para garantir a coerência e uniformidade da aplicação do presente regulamento no espaço aéreo em questão. Esses Estados-Membros devem informar a Comissão e o Eurocontrol do facto."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "4d75ebe8e0f336d7": {
+   "fragment_id": "CUSTOS DA PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA",
+   "type": "divisao",
+   "heading": "CUSTOS DA PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CUSTOS DA PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA"
+  },
+  "58799adbf44ddfbf": {
+   "fragment_id": "Artigo 5.º — Serviços, instalações e actividades elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Serviços, instalações e actividades elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços, instalações e actividades elegíveis\n\n1. Os prestadores de serviços de navegação aérea referidos nos n.^os^ 2 e 4 do artigo 1.º devem estabelecer os custos incorridos na prestação dos serviços de navegação aérea em função das instalações e serviços previstos e implementados ao abrigo do plano regional de navegação aérea da OACI para a região europeia, nas zonas de tarifação sob a sua responsabilidade.\n\nEsses custos devem incluir despesas gerais administrativas, formação, estudos, testes e ensaios, bem como investigação e desenvolvimento afectos a esses serviços.\n\n2. Os Estados-Membros podem estabelecer os custos a seguir indicados, caso estes sejam incorridos no contexto da prestação de serviços de navegação aérea:\n\na) Custos incorridos pelas autoridades nacionais competentes;\n\nb) Custos incorridos pelas organizações reconhecidas, conforme referido no artigo 3.º do regulamento relativo à prestação de serviços;\n\nc) Custos decorrentes de acordos internacionais.\n\n3. Sem prejuízo de outras fontes de financiamento e a fim de obter um elevado nível de segurança, de rentabilidade e de prestação de serviços, as taxas podem ser utilizadas para o financiamento de projectos que tenham como objectivo apoiar categorias específicas de utilizadores do espaço aéreo e/ou de prestadores de serviços de navegação área com vista a melhorar infra-estruturas de navegação aérea colectivas, a prestação de serviços de navegação aérea e a utilização do espaço aéreo de acordo com o direito comunitário."
+  },
+  "c8effd553366a30f": {
+   "fragment_id": "Artigo 6.º — Cálculo dos custos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Cálculo dos custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cálculo dos custos\n\n1. Os custos dos serviços, instalações e actividades elegíveis ao abrigo do artigo 5.º devem ser estabelecidos em consonância com as contas referidas no artigo 12.º do regulamento relativo à prestação de serviços relativas ao período de 1 de Janeiro a 31 de Dezembro. Contudo, os efeitos não recorrentes resultantes da introdução das Normas Internacionais de Contabilidade podem ser distribuídos ao longo de um período não superior a 15 anos.\n\n2. Os custos referidos no n.º 1 devem ser divididos em custos de pessoal, outros custos operacionais, custos de depreciação, custo de capital e itens extraordinários, incluindo impostos não recuperáveis e direitos aduaneiros pagos, bem como todos os outros custos relacionados:\n\nOs custos de pessoal devem incluir a remuneração bruta, o pagamento de horas extraordinárias, as contribuições dos empregadores para regimes de segurança social, bem como os pagamentos para o regime de pensões e outros benefícios.\n\nOs outros custos operacionais devem incluir os custos incorridos com a aquisição de bens e serviços utilizados para a prestação dos serviços de navegação aérea, em especial, serviços subcontratados tais como serviços de comunicação, pessoal externo — nomeadamente consultores —, materiais, energia, bens de desgaste rápido, aluguer de edifícios, equipamentos e instalações, manutenção, custos de seguros e despesas de deslocação. Quando adquire outros serviços de navegação aérea, o prestador de serviços de tráfego aéreo deve incluir as despesas reais referentes a esses serviços nos seus outros custos operacionais.\n\nOs custos de depreciação devem relacionar-se com o total dos activos fixos em operação para fins dos serviços de navegação aérea. Os activos fixos devem ser objecto de depreciação, em função da sua vida útil prevista, utilizando o método linear aplicado aos custos históricos dos activos a depreciar. Quando os activos pertencem a um prestador de serviços de navegação aérea abrangido por um mecanismo de incentivos, conforme referido no n.º 2 do artigo 12.º, pode ser aplicada a contabilização pelos custos correntes, em lugar da contabilização pelos custos históricos, para o cálculo da depreciação. O método deve permanecer constante ao longo do período de depreciação.\n\nO custo de capital é igual ao produto da:\n\na) soma do valor contabilístico líquido médio dos activos fixos utilizados pelo prestador de serviços de navegação aérea, estejam tais activos operacionais ou em construção, e do valor médio líquido dos activos correntes necessários para a prestação dos serviços de navegação aérea; e\n\nb) média ponderada da taxa de juro das dívidas e do rendimento do capital próprio.\n\nOs itens extraordinários são custos não recorrentes relacionados com a prestação de serviços de navegação aérea ocorridos no decurso do ano.\n\n3. Para efeitos do quinto parágrafo do nº 2 os factores de ponderação devem ser baseados na proporção do financiamento por endividamento ou por capital próprio. A taxa de juros das dívidas é igual à taxa de juro média das dívidas do prestador de serviços de navegação aérea. O rendimento do capital próprio deve ter em conta o risco financeiro do prestador de serviços de navegação aérea, considerando como base a taxa de obrigações nacional. Quando o prestador de serviços de navegação aérea está abrangido por um mecanismo de incentivos conforme referido no n.º 2 do artigo 12.º, pode ser acrescentado um prémio adicional a fim de assegurar que seja tido em devida consideração o risco financeiro específico assumido por esse prestador de serviços.\n\nQuando os activos não pertencem ao prestador de serviços de navegação aérea, mas estão incluídos no cálculo do custo de capital, os Estados-Membros devem assegurar que os custos desses activos não sejam recuperados duas vezes."
+  },
+  "a85ba1a8fad8e658": {
+   "fragment_id": "Artigo 7.º — Imputação dos custos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Imputação dos custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Imputação dos custos\n\n1. Os custos dos serviços, instalações e actividades elegíveis nos termos do artigo 5.º devem ser imputados de uma forma transparente às zonas de tarifação em que foram efectivamente incorridos.\n\nQuando abrangem diferentes zonas de tarifação, os custos incorridos devem ser imputados de uma forma proporcional com base numa metodologia transparente, conforme estabelecido no artigo 8.º\n\n2. Os custos dos serviços de terminal devem estar relacionados com os seguintes serviços:\n\na) Serviços de controlo de aeródromo, serviços de informação de voo de aeródromo, incluindo serviços consultivos de tráfego aéreo, e serviços de alerta;\n\nb) Serviços de tráfego aéreo relacionados com a aproximação e partida de aeronaves dentro de uma determinada distância de um aeroporto com base em requisitos operacionais;\n\nc) Imputação adequada de todas as outras componentes dos serviços de navegação aérea, reflectindo uma distribuição proporcional entre serviços de rota e de terminal.\n\n3. O custo dos serviços de rota devem relacionar-se com os custos referidos no n.º 1, com exclusão dos custos referidos no n.º 2.\n\n4. Em caso de concessão de isenções a voos VFR em conformidade com o estabelecido no artigo 9.º, o prestador de serviços de navegação aérea deve identificar separadamente os custos dos serviços de navegação aérea prestados a voos VFR e os custos dos serviços prestados a voos IFR. Tais custos podem ser estabelecidos mediante uma metodologia de custos marginais que tome em consideração os benefícios para os voos IFR decorrentes dos serviços prestados a voos VFR."
+  },
+  "ccb3db6ad51c0d2e": {
+   "fragment_id": "Artigo 8.º — Transparência da base de custos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Transparência da base de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transparência da base de custos\n\n1. Sem prejuízo do disposto no artigo 18.º do regulamento relativo à prestação de serviços, os Estados-Membros e/ou os prestadores de serviços de navegação aérea devem organizar um intercâmbio de informações sobre bases de custos, investimentos programados e tráfego previsto com os representantes dos utilizadores do espaço aéreo, se estes o solicitarem. Subsequentemente, os custos respectivos estabelecidos em conformidade com o disposto no artigo 5.º devem ser apresentados de forma transparente a representantes dos utilizadores do espaço aéreo, à Comissão e, quando aplicável, ao Eurocontrol pelo menos com uma periodicidade anual.\n\n2. A informação referida no n.º 1 deve basear-se nos quadros de informação e nas regras de execução constantes do anexo II ou, caso um Estado-Membro tenha tomado a decisão ou tenha informado a Comissão de que está a considerar a possibilidade de tomar a decisão referida no n.º 6 do artigo 1.º, na parte 1 do anexo III."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "7ff0dbbeee6326ce": {
+   "fragment_id": "FINANCIAMENTO DA PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA ATRAVÉS DE TAXAS DE NAVEGAÇÃO AÉREA",
+   "type": "divisao",
+   "heading": "FINANCIAMENTO DA PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA ATRAVÉS DE TAXAS DE NAVEGAÇÃO AÉREA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FINANCIAMENTO DA PRESTAÇÃO DE SERVIÇOS DE NAVEGAÇÃO AÉREA ATRAVÉS DE TAXAS DE NAVEGAÇÃO AÉREA"
+  },
+  "f4c2f0fc4d2b6b74": {
+   "fragment_id": "Artigo 9.º — Isenções de taxas de navegação aérea",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Isenções de taxas de navegação aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenções de taxas de navegação aérea\n\n1. Os Estados-Membros devem isentar de taxas de rota:\n\na) Os voos realizados por aeronaves cuja massa máxima permitida na descolagem seja inferior a duas toneladas métricas;\n\nb) Os voos mistos VFR/IFR nas zonas de tarifação em que estes forem realizados exclusivamente sob VFR e em que não seja cobrada uma taxa para voos VFR;\n\nc) Os voos realizados exclusivamente para o transporte, em missão oficial, de monarcas reinantes e sua família directa, de chefes de Estado, de chefes de Governo e de ministros, devendo esta situação ser sistematicamente comprovada pela indicação, no plano de voo, do respectivo estatuto;\n\nd) Os voos de busca e salvamento autorizados pelo organismo competente.\n\n2. Os Estados-Membros podem isentar de taxas de rota:\n\na) Os voos militares realizados por aviões militares de qualquer país;\n\nb) Os voos de treino realizados exclusivamente para fins de obtenção de uma licença, ou de qualificação no caso da tripulação de cabina, e desde que tal esteja devidamente comprovado por uma observação adequada no plano de voo. Os voos devem ser realizados exclusivamente no espaço aéreo do Estado em causa e não devem servir para o transporte de passageiros e/ou de carga, nem para o posicionamento de aeronaves;\n\nc) Os voos realizados exclusivamente para fins de verificação ou ensaio de equipamentos utilizados, ou destinados a utilização, como ajudas terrestres à navegação aérea, com exclusão de voos de posicionamento realizados pela aeronave em causa;\n\nd) Os voos que terminam no aeroporto do qual a aeronave descolou e durante os quais não se realizaram aterragens intermédias;\n\ne) Os voos VFR;\n\nf) Os voos humanitários autorizados pelo organismo competente;\n\ng) Os voos da polícia e das alfândegas.\n\n3. Os Estados-Membros podem isentar de taxas de terminal os voos referidos nos n.^os^ 1 e 2.\n\n4. Os custos incorridos com voos isentos não devem ser tidos em conta no cálculo das taxas unitárias.\n\nEsses custos são compostos por:\n\na) Custos dos voos VFR isentos conforme identificados no n.º 4 do artigo 7.º; e\n\nb) Custos dos voos IFR isentos que são calculados como o produto dos custos incorridos para voos IFR e da proporção entre o número de unidades de serviço isentas e o número total de unidades de serviço, sendo o custo incorrido com voos IFR igual aos custos totais deduzidos do custo dos voos VFR.\n\nOs Estados-Membros devem assegurar que os prestadores de serviços de navegação aérea sejam reembolsados dos serviços que tiverem prestado voos isentos."
+  },
+  "1bfdc0814757c10c": {
+   "fragment_id": "Artigo 10.º — Cálculo das taxas de rota",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Cálculo das taxas de rota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cálculo das taxas de rota\n\n1. A taxa de rota aplicável a um voo específico numa zona de tarifação de rota específica é igual ao produto da taxa unitária estabelecida para essa zona de tarifação de rota e das unidades de serviço de rota relativas a esse voo.\n\n2. Sem prejuízo da aplicação por um Estado-Membro de um regime de incentivos a prestadores de serviços de navegação aérea de acordo com o estabelecido no n.º 2 do artigo 12.º, a taxa unitária na zona de tarifação de rota é calculada dividindo, para o ano em causa, os custos previstos dos serviços de navegação aérea pelo número previsto de unidades de serviço de rota passíveis de taxa. Os custos previstos devem incluir o saldo resultante de sobrerrecuperação ou sub-recuperação relativo a anos anteriores.\n\n3. As unidades de serviços de rota são calculadas de acordo com o estabelecido no anexo IV."
+  },
+  "f5c49cf311ac4990": {
+   "fragment_id": "Artigo 11.º — Cálculo das taxas de terminal",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Cálculo das taxas de terminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cálculo das taxas de terminal\n\n1. Sem prejuízo da possibilidade prevista no n.º 1 do artigo 3.º de financiamento de serviços de navegação aérea de terminal através de outras fontes de financiamento, a taxa de terminal aplicável a um voo específico numa zona de tarifação de terminal específica é igual ao produto da taxa unitária estabelecida para essa zona de tarifação de terminal e das unidades de serviço de terminal desse voo.\n\n2. Sem prejuízo da aplicação por um Estado-Membro de um regime de incentivos a prestadores de serviços de navegação aérea de acordo com o estabelecido no n.º 2 do artigo 12.º, a taxa unitária na zona de tarifação de terminal é calculada dividindo, para o ano em causa, os custos previstos dos serviços de navegação aérea pelo número previsto de unidades de serviços de terminal passíveis de taxa. Os custos previstos devem incluir o saldo resultante de sobrerrecuperação ou sub-recuperação de custos relativo a anos anteriores.\n\n3. As unidades de serviços de terminal são calculadas em conformidade com o estabelecido no anexo V do presente regulamento."
+  },
+  "22bc53e0a763ecc3": {
+   "fragment_id": "Artigo 12.º — Regimes de incentivos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Regimes de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regimes de incentivos\n\n1. Os Estados-Membros podem estabelecer ou aprovar regimes de incentivos que consistam em vantagens ou desvantagens financeiras aplicados, numa base não discriminatória e transparente, a fim de apoiar melhorias na prestação de serviços de navegação aérea que resultem num cálculo diferente das taxas de acordo com os n.^os^ 2 e 3. Esses incentivos podem ser aplicados a prestadores de serviços de navegação aérea e/ou a utilizadores do espaço aéreo.\n\n2. Ao decidir aplicar um regime de incentivos a prestadores de serviços de navegação aérea, um Estado-Membro deve, após a consulta referida no artigo 15.º, fixar antecipadamente, para um período não superior a cinco anos, as regras para determinar, relativamente a cada ano, o nível máximo da taxa unitária ou da receita. Essas regras são fixadas com base no nível previsto de custos (incluindo o custo de capital) ao longo do período e podem também prever modulações financeiras (acima ou abaixo dos custos previstos) baseadas em aspectos específicos do desempenho dos prestadores de serviços de navegação aérea, que podem incluir: eficiência, qualidade do serviço, desempenho de determinados projectos, marcos de referência ou competências, bem como nível de cooperação com outros prestadores de serviços de navegação aérea com vista à tomada em consideração de efeitos de rede.\n\n3. Ao decidir aplicar um regime de incentivos, incluindo modulações de períodos nocturnos, a utilizadores de serviços de navegação aérea, um Estado-Membro deve, na sequência da consulta referida no artigo 15.º, modular as taxas por estes incorridas a fim de reflectir os esforços envidados por estes utilizadores para optimizar a utilização dos serviços de navegação aérea, para reduzir os custos globais desses serviços e para aumentar a sua eficiência, em especial mediante a redução das taxas em função dos equipamentos de bordo que aumentam a capacidade, ou para compensar os inconvenientes da escolha de rotas menos congestionadas.\n\nEsses regimes de incentivos devem ser limitados em termos de tempo, âmbito e montante. As poupanças previstas geradas por melhorias da eficiência operacional devem compensar, no mínimo, os custos dos incentivos numa escala temporal razoável. O regime deve ser sujeito a revisão regular com a participação dos representantes dos utilizadores do espaço aéreo.\n\n4. Os Estados-Membros que tiverem estabelecido ou aprovado regimes de incentivos devem monitorizar a aplicação adequada desses regimes por parte dos prestadores de serviços de navegação aérea."
+  },
+  "90c7bd314c13f65b": {
+   "fragment_id": "Artigo 13.º — Fixação de taxas unitárias para as zonas de tarifação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Fixação de taxas unitárias para as zonas de tarifação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fixação de taxas unitárias para as zonas de tarifação\n\n1. Os Estados-Membros devem assegurar o estabelecimento anual de taxas unitárias para cada zona de tarifação. Os Estados-Membros podem também assegurar que as taxas unitárias para cada ano sejam fixadas antecipadamente, para um período não superior a cinco anos.\n\n2. Em caso de alterações importantes e inesperadas do tráfego ou dos custos, as taxas unitárias podem ser alteradas no decurso do ano.\n\n3. Quando adequado, os Estados-Membros devem informar a Comissão e o Eurocontrol sobre essas taxas unitárias."
+  },
+  "c0ea0b0ee7501fc4": {
+   "fragment_id": "Artigo 14.º — Cobrança das taxas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Cobrança das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cobrança das taxas\n\n1. Os Estados-Membros podem proceder à cobrança das taxas através de uma taxa única por voo.\n\n2. Os utilizadores de serviços de navegação aérea devem efectuar o pagamento das taxas de navegação aérea prontamente e na íntegra.\n\n3. Em caso de não pagamento, os Estados-Membros devem assegurar a aplicação de medidas coercivas eficazes. Essas medidas podem incluir a recusa de prestação de serviços, o arresto da aeronave ou outras medidas coercivas ao abrigo do direito aplicável."
+  },
+  "232ff6d9e3895895": {
+   "fragment_id": "Artigo 15.º — Transparência do mecanismo de tarifação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Transparência do mecanismo de tarifação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transparência do mecanismo de tarifação\n\n1. Os Estados-Membros devem assegurar que os representantes dos utilizadores do espaço aéreo são periodicamente consultados sobre a política de tarifação. Para tal, devem fornecer-lhes a informação necessária sobre o seu mecanismo de tarifação conforme estabelecido no anexo VI ou, quando um Estado-Membro tiver tomado a decisão referida no n.º 6 do artigo 1.º, a informação necessária conforme estabelecido na parte 2 do anexo III, bem como organizar uma consulta eficaz e transparente, para fins de apresentação dessa informação e da informação referida no artigo 8.º, na presença dos prestadores de serviços de navegação aérea em causa.\n\n2. Sem prejuízo do disposto no artigo 18.º do regulamento relativo à prestação de serviços, a documentação relevante será disponibilizada aos representantes dos utilizadores do espaço aéreo, da Comissão, do Eurocontrol e das autoridades supervisoras nacionais três semanas antes da consulta."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "6041dcf40c38d94d": {
+   "fragment_id": "Artigo 16.º — Recurso",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Recurso\n\nOs Estados-Membros devem assegurar que as decisões tomadas nos termos do presente regulamento são adequadamente fundamentadas e sujeitas a um procedimento eficaz de revisão e/ou recurso."
+  },
+  "8f9cfbe6a18a17ab": {
+   "fragment_id": "Artigo 17.º — Facilitação do controlo da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Facilitação do controlo da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Facilitação do controlo da conformidade\n\nOs prestadores de serviços de navegação aérea devem facilitar as inspecções e vistorias realizadas pelas autoridades supervisoras nacionais ou por uma organização reconhecida que actue em seu nome, incluindo visitas no local. As pessoas autorizadas devem estar habilitadas a:\n\na) Examinar os documentos contabilísticos relevantes, registos de activos, inventários e qualquer outro material relevante para o estabelecimento das taxas de navegação aérea;\n\nb) Efectuar cópias ou extractos desses documentos;\n\nc) Solicitar esclarecimentos orais no local;\n\nd) Aceder a instalações, terrenos ou meios de transporte relevantes.\n\nEssas inspecções e vistorias devem ser efectuadas em conformidade com os procedimentos em vigor no Estado-Membro em que serão realizadas."
+  },
+  "237eb84caf8d8766": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. O presente regulamento é aplicável a partir de 1 de Janeiro de 2007.\n\nTodavia, os Estados-Membros podem diferir o início de aplicação dos artigos 9.º, 10.º, 12.º, 13.º e 14.º relativamente a taxas de rota, até 1 de Janeiro de 2008;\n\nOs Estados-Membros podem diferir o início de aplicação do artigo 9.º e dos artigos 11.º a 15.º, relativamente a taxas de terminal até 1 de Janeiro de 2010.\n\nSe os Estados-Membros decidirem diferir o início de aplicação nos termos do segundo e terceiro parágrafos, notificarão à Comissão esse facto.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 6 de Dezembro de 2006.\n\n***Pela Comissão***\n\n**Jacques BARROT**\n\n***Vice-Presidente***\n\n---"
+  },
+  "b30bec3e5a86a82c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce.0016.03/DOC_1#ntc1-L_2006341PT.01000301-E0001) [JO L 96 de 31.3.2004, p. 10](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce.0016.03/DOC_1#ntc2-L_2006341PT.01000301-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce.0016.03/DOC_1#ntc3-L_2006341PT.01000301-E0003) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/5f392bb6-83e1-476a-8a3c-b885895d6bce.0016.03/DOC_1#ntc4-L_2006341PT.01000301-E0004) [JO L 96 de 31.3.2004, p. 25](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC)."
+  },
+  "380058dd5f7434d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006R1794 — PT — 01.01.2015 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32006R1794) [REGULAMENTO (CE) N.º 1794/2006 DA COMISSÃO](http://publications.europa.eu/resource/celex/32006R1794) [de 6 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1794) [que estabelece o regime comum de tarifação dos serviços de navegação aérea](http://publications.europa.eu/resource/celex/32006R1794) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32006R1794) (JO L 341, 7.12.2006, p.3)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) n.o 391/2013 da Comissão de 3 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0391) — L 128 — 31 — 9.5.2013"
+  }
+ }
+}

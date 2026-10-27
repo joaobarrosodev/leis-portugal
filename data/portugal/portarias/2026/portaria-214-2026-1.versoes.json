@@ -1,0 +1,309 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1118713683:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2026-1118739775",
+ "dre_path": "/dr/detalhe/portaria/214-2026-1118713683",
+ "source_lastmod": "2026-08-04",
+ "versions": [
+  {
+   "date": "2026-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1153698652:por",
+     "title": "Portaria n.º 320-C/2026/1",
+     "published": "2026-07-31",
+     "dre_path": "/dr/detalhe/portaria/320-c-2026-1153698652"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "1118739975",
+    "1118740175",
+    "1118740375",
+    "1118740575",
+    "1118742775",
+    "1118743175",
+    "1118743675",
+    "1154289275",
+    "1118744075",
+    "1118744275",
+    "1118744475",
+    "1118744675",
+    "1118744875",
+    "1118745075",
+    "1118745275",
+    "1118745475",
+    "1118745675",
+    "1118745875",
+    "1118746075",
+    "1118746275",
+    "1118746475",
+    "1118746675",
+    "1118746875",
+    "1118747075",
+    "1118747275",
+    "1118747475",
+    "1118747675",
+    "1118747875",
+    "1118748075",
+    "1118748275",
+    "1118748475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1118739975": {
+   "fragment_id": "1118739875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  },
+  "1118740175": {
+   "fragment_id": "1118740075",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "1118740375": {
+   "fragment_id": "1118740275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime específico dos apoios a conceder no que se refere à tipologia C.4.1.2 «Prevenção de calamidades e catástrofes naturais», da intervenção C.4.1, «Gestão de riscos», do domínio C.4, «Risco e organização da produção», do eixo C, «Desenvolvimento rural», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal)."
+  },
+  "1118740575": {
+   "fragment_id": "1118740475",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos específicos\n\nO apoio previsto na presente portaria, no âmbito do eixo C, «Desenvolvimento rural», do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), destina-se a prosseguir os seguintes objetivos:\n\na) Apoiar o rendimento viável das explorações agrícolas e a resiliência do setor agrícola em toda a União Europeia, a fim de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como de garantir a sustentabilidade económica da produção agrícola na União Europeia;\n\nb) Contribuir para a atenuação das alterações climáticas e a adaptação às mesmas, nomeadamente através da redução das emissões de gases com efeito de estufa e do reforço do sequestro de carbono, bem como promover a energia sustentável."
+  },
+  "1118742775": {
+   "fragment_id": "1118742675",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria entende-se por:\n\na) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais e a detenção de animais para fins de produção;\n\nb) «Candidatura em parceria», a candidatura apresentada em simultâneo por duas ou mais pessoas coletivas ou por pessoas coletivas e singulares que tenham celebrado entre si um contrato de parceria;\n\nc) «Catástrofe natural», um acontecimento natural, biótico ou abiótico, que perturba gravemente os sistemas de produção agrícola ou as estruturas florestais, provocando, a prazo, prejuízos económicos importantes para os setores agrícola ou florestal;\n\nd) «Contrato de parceria», o documento de constituição de uma parceria com ou sem personalidade jurídica, por via do qual entidades públicas ou privadas se obrigam a assegurar o desenvolvimento de atividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objetivos dessa parceria, as obrigações, os deveres e as responsabilidades de todos os seus membros, a respetiva participação financeira, bem como identificação da entidade gestora da parceria;\n\ne) «Entidade gestora da parceria», a entidade responsável pela gestão administrativa e executiva da parceria, designada pelos respetivos membros para a representar, submeter o termo de aceitação e apresentar os pedidos de pagamento;\n\nf) «Exploração agrícola», o conjunto das unidades de produção utilizadas para atividades agrícolas e geridas por um agricultor, situadas no território continental;\n\ng) «Fenómenos climatéricos adversos equiparáveis a catástrofes naturais», as condições meteorológicas desfavoráveis, como a geada, as tempestades, o granizo, o gelo, as chuvas fortes ou persistentes, as secas graves que afetam o potencial produtivo;\n\nh) «Organismos de quarentena ou outros regulados», praga ou doença para a qual é necessário adotar medidas a fim de prevenir a sua introdução e propagação na totalidade do território da União Europeia, ou que, não sendo de quarentena, estejam sujeitas a medidas oficiais de controlo;\n\ni) «Plano de ação», plano de contingência oficial que contém informações sobre o processo de tomada de decisão, os procedimentos e os protocolos a seguir, bem como os recursos a disponibilizar em caso de confirmação oficial ou suspeita da presença de um organismo de quarentena;\n\nj) «Medida fitossanitária», ações determinadas pela autoridade nacional fitossanitária para prevenir, erradicar ou controlar um organismo de quarentena ou outros regulados;\n\nk) «Poda sanitária», o processo de remoção de partes de plantas, nomeadamente lançamentos e pernadas secas, doentes, danificados ou infestados por pragas ou doenças, com o objetivo de melhorar a saúde da planta, prevenir a propagação e promover um crescimento equilibrado;\n\nl) «Potencial produtivo», os ativos fixos tangíveis e os ativos biológicos."
+  },
+  "1118743175": {
+   "fragment_id": "1118742875",
+   "type": 1,
+   "heading": "Capítulo II — TIPOLOGIA C.4.1.2, «PREVENÇÃO DE CALAMIDADES E CATÁSTROFES NATURAIS»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — TIPOLOGIA C.4.1.2, «PREVENÇÃO DE CALAMIDADES E CATÁSTROFES NATURAIS»"
+  },
+  "1118743675": {
+   "fragment_id": "1118743575",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar do apoio previsto na presente portaria, a título individual ou em parceria:\n\na) Pessoas singulares ou coletivas que exerçam a atividade agrícola;\n\nb) Pessoas coletivas sem fins lucrativos cujo objeto social inclua o desenvolvimento de atividades de serviços relacionados com a agricultura."
+  },
+  "1154289275": {
+   "fragment_id": "1118743775",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 320-C/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652), em vigor a partir de 2026-08-01, com efeitos a partir de 2026-05-12."
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Nos termos do disposto no artigo 7.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os candidatos aos apoios previstos na presente portaria devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos, no caso de pessoas coletivas;\n\nb) Terem a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\nc) Cumprirem as condições legais necessárias ao exercício das atividades desenvolvidas na exploração, diretamente relacionadas com a natureza da operação;\n\nd) Terem a situação regularizada em matéria de reposições, no âmbito do financiamento do FEADER e do FEAGA ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).\n\n2 - Sem prejuízo dos critérios de elegibilidade referidos no número anterior, os candidatos ao apoio previsto na presente portaria devem ainda cumprir as seguintes condições:\n\na) Possuírem registo e declaração do beneficiário efetivo devidamente atualizada, sempre que se trate de beneficiários sujeitos ao Regime Jurídico do Registo Central do Beneficiário Efetivo (RCBE);\n\nb) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito dos Fundos Europeus;\n\nc) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar (iSIP), bem como assegurar a identificação dos polígonos de investimento.\n\n3 - As condições previstas nas alíneas a), c) e d) do n.º 1 e nas alíneas b) e c) do n.º 2 do presente artigo devem encontrar-se cumpridas à data de submissão da candidatura.\n\n4 - A condição prevista na alínea b) do n.º 1 pode ser aferida até ao momento da apresentação do primeiro pedido de pagamento e a condição prevista na alínea a) do n.º 2 pode ser aferida até à data da decisão da candidatura.\n\n5 - A condição prevista na alínea c) do n.º 1 é cumprida, quando aplicável, com a apresentação, nomeadamente, dos seguintes documentos:\n\na) Licenciamento pecuário, ou demonstração de que a exploração se encontra em processo de licenciamento, no âmbito do Novo Regime de Exercício da Atividade Pecuária (NREAP), para explorações em que seja desenvolvida a atividade;\n\nb) Título de utilização dos recursos hídricos (TURH), para captações de água existentes na exploração;\n\nc) Registo vitícola (RV) atualizado, quando seja desenvolvida a atividade de produção de uva;\n\nd) Comprovativo de registo como produtores ou fornecedores de materiais de propagação de plantas.\n\n6 - No caso de candidaturas em parceria, todos os parceiros devem reunir as condições estabelecidas no n.º 1 e no n.º 2, bem como apresentar o respetivo contrato de parceria.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 320-C/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/320-c-2026-1153698652), em vigor a partir de 2026-08-01, com efeitos a partir de 2026-05-12."
+  },
+  "1118744075": {
+   "fragment_id": "1118743975",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das operações\n\nPodem beneficiar do apoio previsto na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º, e que reúnam as seguintes condições:\n\na) Enquadrem-se em plano de ação a que se refere a alínea i) do artigo 3.º, no Programa de Ação para a Adaptação às Alterações Climáticas - P3-AC ou, na sua falta, em estudo prévio que demonstre vulnerabilidade da zona de intervenção a catástrofes naturais ou fenómenos climatéricos adversos equiparáveis a catástrofes naturais e o benefício da intervenção, ou no âmbito de despacho da entidade competente para o efeito;\n\nb) Tenham início após a data definida no aviso para a apresentação das candidaturas;\n\nc) Apresentem coerência técnica;\n\nd) Não respeitem a operações apoiadas no âmbito de outros regimes de apoio, designadamente os relativos à intervenção C.2.1, «Investimento na exploração agrícola», e às intervenções C.2.2, «Investimento de jovens agricultores na exploração agrícola», e D.1.1.1.1, «Pequenos investimentos nas explorações agrícolas», do PEPAC;\n\ne) Cumpram as condições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento;\n\nf) Se destinem a reforçar a resiliência ou reduzir os impactos nas explorações agrícolas de prováveis catástrofes naturais, fenómenos climatéricos adversos equiparáveis a catástrofes naturais, designadamente doenças que afetem culturas permanentes."
+  },
+  "1118744275": {
+   "fragment_id": "1118744175",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo i à presente portaria da qual faz parte integrante."
+  },
+  "1118744475": {
+   "fragment_id": "1118744375",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção aos apoios previstos na presente portaria, são consideradas as candidaturas que preencham, designadamente, os seguintes critérios:\n\na) Apresentem investimentos relacionados com o clima;\n\nb) Apresentem investimentos relacionados com os recursos naturais;\n\nc) Apresentem investimentos em soluções digitais na agricultura;\n\nd) Apresentem investimentos na modernização das explorações agrícolas, inclusive para melhorarem a eficiência dos recursos;\n\ne) Apresentem investimentos em energia renovável proveniente da agricultura, da silvicultura e de outras fontes renováveis;\n\nf) Espécies vegetais;\n\ng) Gestão do risco;\n\nh) Territoriais, designadamente territórios vulneráveis.\n\n2 - A hierarquização dos critérios referidos nos números anteriores, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate são definidos pela autoridade de gestão do PEPAC no continente e constam do aviso abertura do período de apresentação de candidaturas."
+  },
+  "1118744675": {
+   "fragment_id": "1118744575",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma, nível e limites do apoio\n\n1 - Os apoios previstos na presente portaria são concedidos sob a forma de subvenção não reembolsável.\n\n2 - Os apoios a conceder no âmbito da presente portaria assumem as seguintes formas:\n\na) Reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário;\n\nb) Custos unitários.\n\n3 - A forma do apoio a conceder é definida no aviso para apresentação das candidaturas.\n\n4 - Caso os apoios assumam a forma de custos unitários são publicitados em anexo ao respetivo aviso para apresentação de candidaturas ou à orientação técnica da respetiva intervenção ou tipologia.\n\n5 - Os níveis de apoio a conceder são os seguintes:\n\na) 100 % da despesa total elegível quando igual ou inferior a 10 000 €;\n\nb) 50 % da despesa total elegível quando superior a 10 000 €.\n\n6 - Para efeitos de aplicação dos níveis de apoio, a despesa elegível é fracionada, sucessivamente, pelos escalões previstos nas alíneas a) e b) do número anterior, de acordo com as respetivas condições, até ao limite do respetivo montante, recebendo cada fração da despesa elegível o nível de apoio que corresponda ao escalão em que fica enquadrada."
+  },
+  "1118744875": {
+   "fragment_id": "1118744775",
+   "type": 1,
+   "heading": "Capítulo III — PROCEDIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — PROCEDIMENTO"
+  },
+  "1118745075": {
+   "fragment_id": "1118744975",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação das candidaturas\n\nA apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal da agricultura, em https://agricultura.gov.pt/, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt, e estão sujeitas a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "1118745275": {
+   "fragment_id": "1118745175",
+   "type": 11,
+   "heading": "Artigo 11.º — Avisos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avisos\n\n1 - Os avisos para apresentação de candidaturas são aprovados pelo presidente da Comissão Diretiva da Autoridade de Gestão do PEPAC no continente, após parecer vinculativo prévio da Autoridade de Gestão Nacional, e indicam, nomeadamente, o seguinte:\n\na) A intervenção e tipologia se aplicável;\n\nb) A natureza dos beneficiários;\n\nc) O âmbito geográfico da intervenção a apoiar;\n\nd) A dotação orçamental indicativa;\n\ne) O número limite de candidaturas a apresentar por beneficiário;\n\nf) As orientações técnicas a observar;\n\ng) Os critérios de seleção e respetiva metodologia de avaliação;\n\nh) O processo de divulgação dos resultados;\n\ni) O prazo para apresentação de candidaturas;\n\nj) A forma e limite do apoio a conceder;\n\nk) Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações, quando sejam mais restritivos do que os previstos no artigo 15.º;\n\nl) A elegibilidade temporal das despesas.\n\n2 - Os avisos para apresentação de candidaturas podem prever dotações e despesas elegíveis específicas para determinadas operações a apoiar.\n\n3 - Os avisos para apresentação de candidaturas são divulgados no portal da Agricultura, em https://agricultura.gov.pt/ e no portal da Autoridade de Gestão do PEPAC no continente, em www.pepacc.pt."
+  },
+  "1118745475": {
+   "fragment_id": "1118745375",
+   "type": 11,
+   "heading": "Artigo 12.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão do PEPAC no continente, ou as entidades com competências delegadas para o efeito, emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade dos beneficiários e das operações, do apuramento do montante do custo total elegível e do nível de apoio previsional.\n\n2 - Sem prejuízo do disposto no n.º 4 do artigo 11.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, são solicitados aos candidatos, quando se justifique, documentos, esclarecimentos ou informações complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis a contar da data-limite de apresentação das candidaturas.\n\n4 - O secretariado técnico da Autoridade de Gestão do PEPAC no continente aplica os critérios de seleção, em função da dotação orçamental referida no respetivo aviso e submete a decisão do presidente da comissão diretiva.\n\n5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - As candidaturas são objeto de decisão pelo presidente da comissão diretiva da autoridade de gestão do PEPAC, no continente no prazo de 60 dias úteis contados a partir da data-limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão do PEPAC no continente, no prazo máximo de 5 dias úteis a contar da data da decisão."
+  },
+  "1118745675": {
+   "fragment_id": "1118745575",
+   "type": 11,
+   "heading": "Artigo 13.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação do termo de aceitação, conforme disposto no artigo 12.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, a contar da data da notificação da disponibilização do mesmo, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão do PEPAC no continente."
+  },
+  "1118745875": {
+   "fragment_id": "1118745775",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações dos beneficiários\n\n1 - Nos termos do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, os beneficiários dos apoios previstos na presente portaria são obrigados a:\n\na) Executar as operações nos termos, condições e resultados aprovados;\n\nb) Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução;\n\nc) Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nd) Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável, se esta estabelecer prazo superior;\n\ne) Manter as condições legais necessárias ao exercício da atividade;\n\nf) Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido;\n\ng) Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nh) Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal;\n\ni) Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;\n\nj) Repor os montantes indevidamente recebidos e cumprir as sanções administrativas aplicadas.\n\n2 - Além do disposto no artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, referido no número anterior do presente artigo, os beneficiários dos apoios constantes na presente portaria são, ainda, obrigados a:\n\na) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação de pedido de pagamento no mesmo prazo, não relevando para este efeito o pedido de pagamento a título de adiantamento, sem prejuízo do disposto no n.º 5 do presente artigo;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nc) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas em sede de pedido de pagamento;\n\nd) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\ne) Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão do PEPAC no continente;\n\nf) Comprovar a não interrupção da execução da operação por período superior a 90 dias seguidos através da apresentação de pedido de pagamento no mesmo prazo, não relevando para este efeito o pedido de pagamento a título de adiantamento, sem prejuízo do disposto no n.º 5 do presente artigo;\n\ng) Manter a titularidade das parcelas que intercetam o polígono de investimento e o respetivo registo atualizado no Sistema de Informação Parcelar, durante o período de cinco anos a contar da liquidação do último pagamento.\n\n3 - Em casos excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação do prazo estabelecido nas alíneas a) e f) do n.º 2 do presente artigo.\n\n4 - O incumprimento das obrigações previstas nas alíneas a) e f) do n.º 2 constitui fundamento suscetível de determinar a revogação da decisão de aprovação.\n\n5 - No caso de operação inteiramente sujeita a custos unitários, as obrigações previstas nas alíneas a) e f) do n.º 2 são comprovadas através da submissão de pedido de pagamento ou da apresentação de fotografia digital georreferenciada e datada, recolhida dentro do prazo definido ou através da apresentação de documento comprovativo a definir em normativo específico.\n\n6 - O incumprimento dos prazos de execução previstos no artigo seguinte constitui fundamento suscetível de determinar a revogação da decisão de aprovação."
+  },
+  "1118746075": {
+   "fragment_id": "1118745975",
+   "type": 11,
+   "heading": "Artigo 15.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução das operações\n\n1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações são, respetivamente, de 6 e 24 meses contados a partir da data da submissão autenticada do termo de aceitação, sem prejuízo do previsto nos avisos para apresentação de candidaturas.\n\n2 - Em caso excecionais e devidamente justificados, o presidente da comissão diretiva da autoridade de gestão do PEPAC no continente pode autorizar a prorrogação dos prazos previstos no número anterior."
+  },
+  "1118746275": {
+   "fragment_id": "1118746175",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedidos de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pedidos de alteração\n\n1 - Após a data da submissão autenticada do termo de aceitação, caso se verifique qualquer ocorrência excecional e impossível de prever aquando da apresentação da candidatura, que justifique a necessidade de proceder a alterações ao projeto aprovado, nomeadamente no que diz respeito à sua titularidade, localização, componentes de investimento e prazos de execução, os beneficiários podem apresentar pedido de alteração, nos termos previstos em orientação técnica transversal (OTT) divulgada no portal da agricultura, em https://agricultura.gov.pt/, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt.\n\n2 - A alteração proposta não pode alterar substancialmente a natureza do projeto aprovado, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais."
+  },
+  "1118746475": {
+   "fragment_id": "1118746375",
+   "type": 11,
+   "heading": "Artigo 17.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal da Agricultura, em https://agricultura.gov.pt/, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento, nos termos previstos em OTT a emitir pelo IFAP, I. P.\n\n2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato da conta bancária específica afeta à operação, nos termos previstos no termo de aceitação e nos números seguintes do presente artigo.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor total do apoio, no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n5 - A regularização do adiantamento previsto no número anterior é efetuada de forma proporcional nos pedidos de pagamento apresentados no decurso da operação.\n\n6 - Cada pedido de pagamento deve representar no mínimo 10 % do montante da despesa pública aprovada.\n\n7 - Devem ser apresentados pedidos de pagamento intercalares no prazo máximo de 90 dias seguidos a contar da data de liquidação do anterior pedido.\n\n8 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias seguidos a contar da data de conclusão da operação, sob pena de indeferimento.\n\n9 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n10 - O disposto nos n.<sup>os </sup>2, 3, 6 e 7 não é aplicável aos projetos exclusivamente aprovados com custos unitários, sendo o número máximo de pedidos de pagamentos definidos no respetivo aviso.\n\n11 - No ano do encerramento do PEPAC, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal da autoridade de gestão do PEPAC no continente, em www.pepacc.pt."
+  },
+  "1118746675": {
+   "fragment_id": "1118746575",
+   "type": 11,
+   "heading": "Artigo 18.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer no prazo máximo de 45 dias úteis contados a partir da data de submissão dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação, durante o seu período de execução, são definidos de acordo com o disposto no Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho."
+  },
+  "1118746875": {
+   "fragment_id": "1118746775",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta referida na alínea c) do n.º 2 do artigo 14.º"
+  },
+  "1118747075": {
+   "fragment_id": "1118746975",
+   "type": 11,
+   "heading": "Artigo 20.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Controlo\n\nAs operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitas a controlos administrativos, in loco ou por teledeteção, nos termos do Regulamento (UE) 2021/2116."
+  },
+  "1118747275": {
+   "fragment_id": "1118747175",
+   "type": 11,
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detetada, são aplicáveis as disposições nacionais em conjugação com o previsto no título iv do Regulamento (UE) 2021/2116, bem como o disposto no artigo 5.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, relativo à perenidade.\n\n2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, em matéria de recuperação de apoios indevidamente recebidos, são aplicáveis as reduções e exclusões dos apoios concedidos ou a conceder de acordo com o previsto no anexo ii à presente portaria que desta faz parte integrante.\n\n3 - Caso se verifique uma diferença entre o montante declarado e o montante validado superior a 10 %, o apoio é reduzido na mesma proporção, sendo ainda aplicada uma redução adicional no montante correspondente à diferença apurada.\n\n4 - A soma das reduções referidas nos números anteriores, não pode ser superior à recuperação total do apoio."
+  },
+  "1118747475": {
+   "fragment_id": "1118747375",
+   "type": 1,
+   "heading": "Capítulo IV — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — DISPOSIÇÕES FINAIS"
+  },
+  "1118747675": {
+   "fragment_id": "1118747575",
+   "type": 11,
+   "heading": "Artigo 22.º — Contributo para o desempenho do PEPAC Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Contributo para o desempenho do PEPAC Portugal\n\n1 - A presente tipologia de intervenção contribui para os objetivos específicos estabelecidos no n.º 1 do artigo 6.º do Regulamento (UE) 2021/2115, nomeadamente os constantes do artigo 2.º da presente portaria.\n\n2 - Para efeitos do cumprimento das metas dos indicadores de resultados do PEPAC Portugal, relevam os seguintes indicadores estabelecidos no anexo i do Regulamento (UE) 2021/2115:\n\na) R.3 - percentagem de explorações agrícolas que beneficiam de apoio para tecnologias agrícolas digitais da PAC;\n\nb) R.9 - percentagem de agricultores que receberam um apoio ao investimento para reestruturar e modernizar, incluindo melhorar a eficiência dos recursos;\n\nc) R.16 - percentagem de explorações agrícolas que beneficiam de um apoio ao investimento no âmbito da PAC que contribua para a atenuação das alterações climáticas e a adaptação às mesmas, e para a produção de energias renováveis ou de biomateriais;\n\nd) R.26 - percentagem de explorações agrícolas que beneficiam de apoio da PAC a investimentos produtivos e não produtivos relacionados com a proteção dos recursos naturais."
+  },
+  "1118747875": {
+   "fragment_id": "1118747775",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1118748075": {
+   "fragment_id": "1118747975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura e Mar, José Manuel Fernandes, em 5 de maio de 2026."
+  },
+  "1118748275": {
+   "fragment_id": "1118748175",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 7.º)\n\n1 - São elegíveis as despesas de investimento, tangíveis ou intangíveis, destinadas a reforçar a resiliência ou reduzir os impactos nas explorações agrícolas de prováveis catástrofes naturais, fenómenos climatéricos adversos equiparáveis a catástrofes naturais, nomeadamente:\n\na) Edifícios e outras construções;\n\nb) Equipamentos de prevenção, incluindo estruturas de proteção e outros melhoramentos fundiários, designadamente, de produção e utilização de energias renováveis e outros necessários ao exercício da atividade, atentos os objetivos específicos do aviso;\n\nc) Aplicação de medidas fitossanitárias designadamente destruição de plantas, tratamentos, podas sanitárias e colocação de armadilhas;\n\nd) Despesas gerais de consultoria e acompanhamento, com o limite de 3 % da despesa elegível total aprovada da operação, com exceção dos projetos a executar exclusivamente com custos unitários, em que estas despesas não são elegíveis.\n\n2 - Não são elegíveis:\n\na) Bens de equipamento em estado de uso;\n\nb) IVA recuperável."
+  },
+  "1118748475": {
+   "fragment_id": "1118748375",
+   "type": 14,
+   "heading": "Anexo II — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Reduções e exclusões\n\n(a que se refere o n.º 2 do artigo 21.º)\n\n| Artigo 14.º da presente portaria | Obrigações dos beneficiários | Número de incumprimentos verificados | Consequências do incumprimento |\n| --- | --- | --- | --- |\n| N.º 1, alínea a) | Executar as operações nos termos, condições e resultados aprovados. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |\n|  |  | 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |\n| N.º 1, alínea b) | Evidenciar o apoio financeiro recebido, inclusive mediante a utilização do emblema da União Europeia, em conformidade com as regras estabelecidas pela Comissão nos respetivos regulamentos de execução. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |\n| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |\n| N.º 1, alínea c) | Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 100 %. |\n| N.º 1, alínea d) | Conservar os documentos relativos à realização da operação, em suporte digital ou papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PEPAC Portugal, consoante a fase em que o encerramento da operação tenha ocorrido, ou pelo prazo estabelecido na legislação nacional aplicável, se estas estabelecerem prazo superior. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |\n| N.º 1, alínea e) | Manter as condições legais necessárias ao exercício da atividade. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |\n| 2 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 15 %. |  |  |\n| N.º 1, alínea f) | Ter um sistema de contabilidade organizada ou simplificada, de acordo com o legalmente exigido. | 1 | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 5 %. |\n| N.º 1, alínea g) | Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |\n| N.º 1, alínea h) | Fornecer à autoridade de gestão do PEPAC no continente, ou a outros organismos nos quais esta tenha delegado funções, todas as informações necessárias para efeitos de acompanhamento e de avaliação do PEPAC Portugal. | 1 ou mais | Redução dos pagamentos do apoio, já realizados ou a realizar, numa percentagem de 2 %. |\n| N.º 1, alínea i) | Respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços. | 1 | Redução do pagamento do apoio, numa percentagem de 20 % sobre a despesa objeto de incumprimento |\n| 2 ou mais | Redução do pagamento do apoio, numa percentagem de 40 %, sobre a despesa objeto de incumprimento. |  |  |\n| N.º 2, alínea b) | Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável. | Não aplicável | Redução dos pagamentos dos apoios, já realizados ou a realizar, conforme norma divulgada pelo IFAP, I. P.: e de acordo com as orientações da Comissão para determinação das correções a aplicar às despesas cofinanciadas em caso de incumprimento das regras de contratos públicos. |\n| N.º 2, alínea c) | Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas, em sede de pedido de pagamento. | Não aplicável | Exclusão dos pagamentos dos apoios já realizados ou a realizar, relativos aos investimentos pagos por conta que não a conta única e não exclusiva, em situações não devidamente justificadas. |\n| N.º 2, alínea e) | Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da liquidação do último pagamento, sem a prévia autorização da autoridade de gestão do PEPAC no continente. | Não aplicável | Exclusão dos pagamentos dos apoios, já realizados, relativos aos investimentos locados ou alienados, com aplicação adicional de uma redução de 2 % sobre a totalidade dos pagamentos efetuados. |\n| N.º 2, alínea g) | Manter a titularidade das parcelas que intercetam o polígono de investimento e o respetivo registo atualizado no SIP, durante o período de cinco anos a contar da liquidação do último pagamento. | Não aplicável | Redução proporcional ao período de incumprimento, dos pagamentos já realizados. |"
+  }
+ }
+}

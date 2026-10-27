@@ -1,0 +1,100 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:928506355:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-928671789",
+ "dre_path": "/dr/detalhe/decreto-lei/89-2025-928506355",
+ "source_lastmod": "2025-09-22",
+ "versions": [
+  {
+   "date": "2025-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "928520455",
+    "928801504",
+    "928801505",
+    "928801517",
+    "928801518",
+    "928801519",
+    "928801521",
+    "928801522",
+    "928801523"
+   ]
+  }
+ ],
+ "fragments": {
+  "928520455": {
+   "fragment_id": "928671790",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 89/2025\n\nde 12 de agosto\n\nO Decreto-Lei n.º 127/2013, de 30 de agosto, alterado pelo Decreto-Lei n.º 11/2023, de 10 de fevereiro, estabelece o regime jurídico de emissões industriais (REI), aplicável à prevenção e ao controlo integrados da poluição, bem como as regras destinadas a evitar e ou reduzir as emissões para o ar, a água e o solo e a produção de resíduos, com o objetivo de alcançar um nível elevado de proteção do ambiente no seu todo, tendo transposto para a ordem jurídica interna a Diretiva (UE) n.º 2010/75/UE, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, relativa às emissões industriais (prevenção e controlo integrados da poluição), também designada de Diretiva Emissões Industriais, procedeu à revogação de um conjunto de Diretivas, designadamente da Diretiva n.º 2008/1/CE, do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, com efeitos a partir de 1 de janeiro de 2016.\n\nA Comissão Europeia adotou várias diligências de avaliação da transposição da Diretiva mencionada, tendo vindo a considerar a necessidade de corrigir determinados artigos constantes do Decreto-Lei n.º 127/2013, de 30 de agosto, por não terem sido corretamente transpostos. Assim, a 3 de março de 2025, o Estado português foi notificado da decisão da Comissão Europeia de instauração de um processo de infração [INFR (2022/2085)] de 27 de fevereiro de 2025, ao abrigo do artigo 258.º do Tratado de Funcionamento da União Europeia, com fundamento na incorreta transposição de vários artigos da Diretiva Emissões Industriais, dando origem ao Processo n.º C-166/25, inscrito no registo do Tribunal de Justiça. A Comissão Europeia alegou que o Estado português incumpriu as obrigações que lhe incumbem, ao não transpor correta nem completamente o ponto 18 do artigo 3.º, as alíneas a) e c) do artigo 7.º, as alíneas a) e c) do n.º 2 do artigo 8.º, o n.º 1 do artigo 17.º, o segundo parágrafo do n.º 2 do artigo 21.º, o n.º 4 do artigo 26.º, a alínea d) do n.º 1 e o n.º 2 do artigo 45.º, o segundo parágrafo do n.º 4 do artigo 46.º, o ponto 1 do artigo 57.º e o ponto 1.3 da parte 8 do anexo vi conjugado com o artigo 49.º da Diretiva.\n\nAs principais alterações referem-se nomeadamente ao dever de informação imediata do operador à autoridade competente em caso de acidente ou incidente, à revisão das condições de licenciamento, ao dever de informação da autoridade competente quando consultada por outro Estado Membro e bem assim à alteração de certos requisitos técnicos, exigíveis no licenciamento.\n\nDe forma a corresponder com a correta transposição da Diretiva mencionada para a ordem jurídica interna, o presente decreto-lei procede à segunda alteração ao Decreto-Lei n.º 127/2013, de 30 de agosto, na sua redação atual, de modo a garantir a cumprimento integral do direito europeu, bem como o encerramento do respetivo processo de infração.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "928801504": {
+   "fragment_id": "928671846",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei completa a transposição da Diretiva (UE) n.º 2010/75/UE, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, relativa às emissões industriais (prevenção e controlo integrados da poluição).\n\n2 - Para o efeito previsto no número anterior, o presente decreto-lei procede à segunda alteração ao Decreto-Lei n.º 127/2013, de 30 de agosto, alterado pelo Decreto-Lei n.º 11/2023, de 10 de fevereiro, que estabelece o regime de emissões industriais aplicável à prevenção e ao controlo integrados da poluição, bem como as regras destinadas a evitar e/ou reduzir as emissões para o ar, a água e o solo e a produção de resíduos."
+  },
+  "928801505": {
+   "fragment_id": "928671847",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 127/2013, de 30 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 127/2013, de 30 de agosto\n\nOs artigos 3.º, 8.º, 9.º, 10.º, 13.º, 24.º, 40.º, 43.º, 91.º, 93.º, 98.º e 110.º do Decreto-Lei n.º 127/2013, de 30 de agosto, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) [...]\n\nr) [...]\n\ns) [...]\n\nt) [...]\n\nu) [...]\n\nv) [...]\n\nw) [...]\n\nx) [...]\n\ny) [...]\n\nz) [...]\n\naa) [...]\n\nbb) [...]\n\ncc) [...]\n\ndd) [...]\n\nee) [...]\n\nff) [...]\n\ngg) [...]\n\nhh) [...]\n\nii) [...]\n\njj) [...]\n\nkk) [...]\n\nll) [...]\n\nmm) [...]\n\nnn) [...]\n\noo) [...]\n\npp) [...]\n\nqq) [...]\n\nrr) [...]\n\nss) [...]\n\ntt) [...]\n\nuu) [...]\n\nvv) [...]\n\nww) [...]\n\nxx) [...]\n\nyy) [...]\n\nzz) [...]\n\naaa) [...]\n\nbbb) [...]\n\nccc) [...]\n\nddd) [...]\n\neee) [...]\n\nfff) [...]\n\nggg) ‘Substâncias perigosas’, substâncias ou misturas na aceção do artigo 3.º do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas;\n\nhhh) [...]\n\niii) [...]\n\njjj) [...]\n\nkkk) [...]\n\nlll) [...]\n\nmmm) [...]\n\nnnn) [...]\n\nArtigo 8.º\n\n[...]\n\n1 - Sem prejuízo da obrigação de titularidade de uma licença, a APA, IP, pode incluir obrigações para determinadas categorias de instalações abrangidas pelo presente decreto-lei, adotando, para o efeito, regras vinculativas gerais.\n\n2 - A APA, IP, garante uma abordagem integrada e um nível elevado de proteção do ambiente equivalente ao nível possível de atingir através das condições que sejam apostas em licenças individuais, ao adotar as regras previstas no número anterior.\n\n3 - Sempre que sejam aprovadas regras vinculativas gerais, a licença pode incluir apenas uma menção a essas mesmas regras.\n\n4 - (Anterior n.º 2.)\n\n5 - (Anterior n.º 3.)\n\n6 - (Anterior n.º 4.)\n\n7 - (Anterior n.º 5.)\n\nArtigo 9.º\n\n[...]\n\nSem prejuízo do disposto no regime jurídico da responsabilidade por danos ambientais aprovado pelo Decreto-Lei n.º 147/2008, de 29 de julho, na sua redação atual, se ocorrer algum incidente ou acidente que afete de forma significativa o ambiente, o operador deve:\n\na) [...]\n\nb) Informar de imediato a(s) entidade(s) competente(s), por meio eletrónico;\n\nc) Executar as medidas complementares que a(s) entidade(s) competente(s) exija(m) como sendo necessárias para limitar as consequências para o ambiente e prevenir outros eventuais incidentes ou acidentes.\n\nArtigo 10.º\n\n[...]\n\n1 - [...]\n\na) Informar de imediato a EC e a APA, IP, ou a CCDR territorialmente competente, conforme aplicável, por meio eletrónico;\n\nb) [...]\n\nc) Executar as medidas complementares que as autoridades referidas na alínea a) exijam como sendo necessárias para restabelecer o cumprimento.\n\n2 - [...]\n\nArtigo 13.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - Sempre que o operador opte pela adoção de condições técnicas padronizadas, nos termos previstos nos n.os 5 a 7 do artigo 8.º, o pedido deve ser apresentado em conformidade com o disposto no despacho referido no n.º 7 daquele artigo.\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\nArtigo 24.º\n\n[...]\n\n1 - A licença de uma instalação que desenvolva atividades abrangidas pelo regime de comércio europeu de licenças de emissão de gases com efeito de estufa (CELE), enumeradas no anexo ii do Decreto-Lei n.º 12/2020, de 6 de abril, na sua redação atual, não deve incluir um VLE aplicável às emissões diretas de um gás com efeito de estufa (GEE), previsto no mesmo anexo, salvo nos casos em que for necessário assegurar que não é causada qualquer poluição local significativa.\n\n2 - Verificando-se desconformidades com o estabelecido no número anterior, a APA, IP, deve alterar a LA ou a LE, conforme adequado.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\nArtigo 40.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - As LA não possuem prazo de validade, sem prejuízo do disposto no n.º 7 do artigo 19.º, no artigo 19.º-A e no artigo 22.º\n\n9 - [...]\n\nArtigo 43.º\n\n[...]\n\n1 - Nos casos em que a APA, IP, verifique que a exploração de uma instalação pode ter efeitos significativos nocivos no ambiente de outro Estado-Membro, transmite-lhe, para aquele efeito, toda a informação constante do anexo iv, de modo a permitir a participação do público desse Estado-Membro antes da tomada de decisão relativa ao pedido.\n\n2 - [...]\n\n3 - [...]\n\n4 - A APA, IP, informa o Estado-Membro que tenha sido consultado nos termos dos números anteriores da decisão proferida no procedimento de LA e envia-lhe todas as informações previstas no n.º 1 do artigo 18.º\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\nArtigo 91.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - Nos casos em que as águas residuais provenientes do tratamento dos efluentes gasosos sejam tratadas em conjunto com águas provenientes de outras fontes, na instalação ou fora da mesma, o operador efetua o cálculo apropriado dos balanços ponderais, utilizando os resultados das medições previstas no n.º 3 da parte 4 do anexo vi, de forma a possibilitar a determinação dos níveis de emissão na descarga final de águas residuais suscetíveis de serem atribuídos às águas residuais resultantes do tratamento dos efluentes gasosos.\n\n9 - [...]\n\nArtigo 93.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - A APA, IP, determina a localização dos pontos de colheita de amostras ou de medição a utilizar para a monitorização das emissões.\n\nArtigo 98.º\n\n[...]\n\n1 - [...]\n\n2 - Para efeitos da aplicação da parte 2 do anexo vii, a instalação existente corresponde a uma instalação em funcionamento em 29 de março de 1999, ou à qual tenha sido concedida uma licença ou tenha sido registada antes de 1 de abril de 2001 ou cujo operador tenha apresentado um pedido de licença completo antes de abril de 2001, na condição de ter entrado em funcionamento até 1 de abril de 2002.\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\nArtigo 110.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - São realizadas inspeções ambientais não rotineiras para investigar, logo que possível e, quando apropriado, antes da concessão, da revisão ou da atualização de uma licença, queixas graves e casos graves de acidente, incidente e infração em matéria de ambiente.\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]»"
+  },
+  "928801517": {
+   "fragment_id": "928671859",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração do anexo v ao Decreto-Lei n.º 127/2013, de 30 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração do anexo v ao Decreto-Lei n.º 127/2013, de 30 de agosto\n\nO anexo v ao Decreto-Lei n.º 127/2013, de 30 de agosto, na sua redação atual, é alterado com a redação constante do anexo i ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "928801518": {
+   "fragment_id": "928671860",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração do anexo vi ao Decreto-Lei n.º 127/2013, de 30 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração do anexo vi ao Decreto-Lei n.º 127/2013, de 30 de agosto\n\nO anexo vi do Decreto-Lei n.º 127/2013, de 30 de agosto, na sua redação atual, é alterado com a redação constante do anexo ii ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "928801519": {
+   "fragment_id": "928671861",
+   "type": 11,
+   "heading": "Artigo 5.º — Aditamento ao Decreto-Lei n.º 127/2013, de 30 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aditamento ao Decreto-Lei n.º 127/2013, de 30 de agosto\n\nSão aditados os artigos 19.º-A e 61.º-A ao Decreto-Lei n.º 127/2013, de 30 de agosto, na sua redação atual, com a seguinte redação:\n\n«Artigo 19.º-A\n\nRevisão da licença\n\n1 - O procedimento de revisão da LA ocorre no prazo de sete anos, contados a partir da data da sua emissão ou da data, consoante o caso, da sua última alteração ou revisão, podendo resultar a manutenção, a alteração ou a revogação da licença.\n\n2 - Para efeitos no número anterior, o operador submete à APA, IP, o pedido de revisão até seis meses antes do termo do prazo previsto no n.º 1.\n\n3 - Para efeitos da instrução do pedido de revisão, o operador deve apresentar todas as informações adicionais necessárias, nomeadamente os resultados da monitorização das emissões e outros dados que permitam uma comparação do funcionamento da instalação com as melhores técnicas disponíveis descritas nas conclusões MTD aplicáveis e com os valores de emissão associados à MTD.\n\n4 - No procedimento de revisão das condições de licenciamento, a APA, IP, deve utilizar todas as informações que resultem da monitorização e das inspeções entretanto realizadas.\n\n5 - O resultado do procedimento de revisão é inscrito na LA e comunicado ao operador, à EC e à IGAMAOT.\n\n6 - Na ausência de submissão do pedido de revisão nos termos previstos no n.º 2, a APA, IP, pode determinar a suspensão da LA.\n\n7 - Caso o operador não submeta o pedido antes do termo do prazo previsto no n.º 1, a APA, IP, declara a caducidade da LA.\n\n8 - A suspensão e a declaração de caducidade referidas nos números anteriores devem ser devidamente fundamentadas.\n\nArtigo 61.º-A\n\nConteúdo da licença de exploração\n\n1 - Para além de outras menções julgadas convenientes, a decisão final da APA, IP, que autoriza o desenvolvimento da operação de incineração ou coincineração de resíduos, contém obrigatoriamente toda a informação definida no artigo 63.º do Regime Geral de Gestão de Resíduos, aprovado no anexo i ao Decreto-Lei n.º 102-D/2020, de 10 de dezembro, na sua redação atual.\n\n2 - Sem prejuízo do referido no número anterior, a licença deve obrigatoriamente incluir a seguinte informação específica:\n\na) Os requisitos em termos de pH, temperatura e caudal das descargas de águas residuais;\n\nb) Os procedimentos e frequências de amostragem e medição a utilizar para garantir o cumprimento das condições estabelecidas relativamente à monitorização das emissões;\n\nc) Quando forem admitidos resíduos perigosos, a licença deve incluir ainda os seguintes elementos:\n\ni) Uma lista com as quantidades das diversas categorias de resíduos perigosos que podem ser tratados;\n\nii) Os fluxos, mínimos e máximos, em massa destes resíduos perigosos, o seu poder calorífico mínimo e máximo, bem como os seus teores máximos de bifenilos, policlorados, pentaclorofenol, cloro, flúor, enxofre, metais pesados e outras substâncias poluentes.»"
+  },
+  "928801521": {
+   "fragment_id": "928671863",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposições transitórias\n\n1 - No caso das licenças ambientais emitidas ou alteradas há mais de seis anos, os respetivos titulares devem submeter o pedido de revisão previsto no artigo 19.º-A do Decreto-Lei n.º 127/2013, de 30 de agosto, na redação dada pelo presente diploma, no prazo de seis meses a contar da data da entrada em vigor do presente decreto-lei.\n\n2 - No caso das licenças ambientais emitidas ou alteradas há seis ou menos anos, os respetivos titulares devem submeter o pedido de revisão nos termos previstos no artigo 19.º-A do Decreto-Lei n.º 127/2013, de 30 de agosto, na redação dada pelo presente decreto-lei.\n\n3 - Caso o operador não submeta o pedido antes do termo do prazo previsto no n.º 1, a APA, IP, declara a caducidade da licença.\n\n4 - A declaração de caducidade referida no número anterior deve ser devidamente fundamentada."
+  },
+  "928801522": {
+   "fragment_id": "928671864",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o n.º 2 do artigo 61.º do Decreto-Lei n.º 127/2013, de 30 de agosto, na sua redação atual."
+  },
+  "928801523": {
+   "fragment_id": "928671865",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

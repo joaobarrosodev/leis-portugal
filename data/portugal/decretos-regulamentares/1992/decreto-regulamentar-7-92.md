@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:216757:por
+title: Decreto Regulamentar n.º 7/92
+short_title: null
+summary: Regulamenta o regime excepcional de trabalho de duração superior a trinta e cinco horas semanais, relativamente à
+  carreira de técnicos de diagnóstico e terapêutica prevista no n.º 2 do artigo 4.º do Decreto-Lei n.º 203/90, de 20 de Junho
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 7/92
+official_date: null
+publication_date: '1992-04-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/1992, Série I-B de 1992-04-23
+  number: '95'
+  series: I
+  supplement: null
+  pages: 1905 - 1906
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/04/095b00/19051906.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/7/1992/04/23/p/dre/pt/html
+  oj: null
+  dre: '216757'
+  dre_path: /dr/detalhe/decreto-regulamentar/7-1992-216757
+  internal: pt:dre:216757:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1992-216757
+  metadata_url: https://data.dre.pt/eli/decregul/7/1992/04/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1992-216757
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 22bf9db8988770213e47ba970684174d1acf0fde49607dcc251504d690ad7d76
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Duração do Trabalho
+- Horário de Trabalho
+- Pessoal de Saúde
+- Pessoal Técnico de Diagnóstico e Terapêutica
+relationships:
+- type: amended_by
+  target: pt:dre:661768:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575159:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661768:por
+  label: "Revogado pelo DEC LEI.564/99.1999.12.21.MS DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/564-1999-661768
+  date: '1999-12-21'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:20:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 7/92
+
+de 23 de Abril
+
+O [Decreto-Lei n.º 203/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1990-575159), de 20 de Junho, prevê, no n.º 2 do seu artigo 4.º, que possa ser adoptada na carreira dos técnicos de diagnóstico e terapêutica uma duração semanal de trabalho superior a trinta e cinco horas, diferindo para diploma regulamentar a fixação dos termos e condições a que tal adopção deve obedecer.
+
+Ponderada a oportunidade de regulamentar aquele preceito, estabelecem-se agora os critérios e os efeitos de atribuição de um regime de duração semanal do trabalho acrescida, numa perspectiva de conjugação dos interesses em presença.
+
+Este diploma foi objecto de negociação colectiva com as organizações sindicais nos termos do disposto no [Decreto-Lei n.º 45-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-a-1984-367986), de 3 de Fevereiro.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 203/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1990-575159), de 20 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Regime de duração semanal de trabalho acrescida
+
+1 - O regime de duração do trabalho acrescida da carreira de técnicos de diagnóstico e terapêutica corresponde à prestação de quarenta e duas horas de trabalho por semana.
+
+2 - O regime a que se refere o número anterior só pode ser adoptado quando seja considerado indispensável ao regular e eficiente funcionamento dos serviços.
+
+3 - A aplicação desta modalidade de regime de duração de trabalho é aprovada por despacho ministerial, sob proposta fundamentada do órgão máximo de gestão da instituição, tendo como limite, salvo em casos excepcionais, 30% do número total dos lugares de técnico de diagnóstico e terapêutica previsto no respectivo quadro, seleccionados mediante critérios estabelecidos previamente pelos respectivos órgãos dirigentes máximos.
+
+4 - Em casos excepcionais, mediante proposta fundamentada do órgão máximo de gestão, pode, por despacho ministerial, ser ultrapassada a percentagem referida no número anterior.
+
+###### Artigo 2.º — Efeitos do regime de duração semanal de trabalho acrescido
+
+1 - À modalidade de duração semanal do trabalho acrescida corresponde um acréscimo salarial de 37% sobre a remuneração base mensal.
+
+2 - A remuneração prevista no número anterior releva para efeitos de pagamento de subsídios de férias e de Natal.
+
+3 - Haverá lugar à suspensão deste regime durante a frequência de cursos ou outras actividades de formação de duração superior a três meses.
+
+4 - Salvo nos casos de faltas por maternidade e de férias, o acréscimo salarial previsto no n.º 1 só é devido em situação de prestação efectiva de funções.
+
+5 - O regime previsto no presente diploma confere direito a um aumento de 25% no tempo de serviço para efeitos de aposentação e o correspondente acréscimo salarial é considerado no cálculo da pensão, nos termos do disposto na alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação.
+
+###### Artigo 3.º — Afectação ao regime de duração do trabalho acrescida
+
+1 - A afectação ao regime de duração semanal do trabalho acrescida pressupõe o assentimento, por escrito, do trabalhador.
+
+2 - A afectação ao regime de duração do trabalho acrescida pode cessar por despacho do órgão máximo de gestão da instituição, com pré-aviso de 60 dias:
+
+a) Quando se verifique o deficiente cumprimento das obrigações do trabalhador;
+
+b) Quando ocorra modificação na sua situação funcional;
+
+c) Quando cessarem as necessidades que o determinaram.
+
+3 - A afectação ao regime de duração semanal do trabalho acrescida cessa mediante requerimento do trabalhador, apresentado com a antecedência mínima de seis meses.
+
+4 - Independentemente da observância do prazo previsto no número anterior, poderá ser autorizada a antecipação da cessação do regime, em casos excepcionais, mediante requerimento fundamentado do interessado.
+
+5 - Aos técnicos de diagnóstico e terapêutica com idade superior a 55 anos, que venham praticando este regime há pelo menos cinco anos, ininterruptamente, será concedida redução de uma hora se a requererem, em cada ano, no horário de trabalho semanal, até que o mesmo perfaça as trinta e cinco horas, sem perda de regalias.
+
+Presidência do Conselho de Ministros, 9 de Dezembro de 1991.
+
+Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
+
+Promulgado em 2 de Abril de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 4 de Abril de 1992.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

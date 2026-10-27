@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:934054877:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2025-934151702",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/129-2025-934054877",
+ "source_lastmod": "2026-05-04",
+ "versions": [
+  {
+   "date": "2025-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1103937475",
+    "934153875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1103937475": {
+   "fragment_id": "934153575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Através da Portaria n.º 229/2025/2, de 31 de março, foi a Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), autorizada a assumir a plurianualidade dos encargos orçamentais com a renovação de protocolos de mediação sociocultural, para o biénio 2024/2025. Ao montante de despesa autorizado pela mencionada portaria, para o ano económico de 2025, acrescerá, ainda, o montante previsto para o mesmo ano económico na presente resolução.\n\nTem a AIMA, I. P., interesse na continuidade das 16 (dezasseis) parcerias existentes e em vigor, bem como na constituição de novas parcerias, com entidades privadas, em matérias com relevo para a captação, fixação e integração de migrantes, designadamente no que respeita à mediação sociocultural, ao abrigo da alínea x) do n.º 2 do artigo 3.º da respetiva orgânica, aprovada em anexo ao Decreto-Lei n.º 41/2023, de 2 de junho, na sua atual redação, do artigo 3.º da Lei n.º 105/2001, de 31 de agosto, e do artigo 6.º-A do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua atual redação.\n\nNeste enquadramento, torna-se necessário acautelar a despesa inerente aos referidos protocolos, celebrados e a celebrar, para o horizonte temporal de 36 meses, que resulta no encargo máximo total de € 20 533 875,98, repartido por quatro anos económicos (2025 a 2028).\n\nAssim:\n\nNos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar a Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), a assumir a plurianualidade dos encargos orçamentais e a realizar a despesa, até ao montante máximo de 27 901 296,97 €, ao qual não acresce o imposto sobre o valor acrescentado (IVA), para o período de 36 meses, repartido por 4 anos económicos, no âmbito dos protocolos de mediação sociocultural celebrados e a celebrar.\n\n2 - Determinar que os encargos financeiros decorrentes dos protocolos de mediação sociocultural referidos no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais não acresce o IVA:\n\na) 2025 - € 3 220 436,63;\n\nb) 2026 - 9 363 240,39 €;\n\nc) 2027 - 9 363 240,39 €;\n\nd) 2028 - 5 954 379,56 €.\n\n3 - Determinar que os encargos financeiros decorrentes da presente resolução são integralmente satisfeitos por verbas adequadas, inscritas, nos anos de 2025 e 2026, e a inscrever nos anos subsequentes, na fonte de financiamento 513 - receitas próprias do ano com outras origens do orçamento da AIMA, I. P.\n\n4 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "934153875": {
+   "fragment_id": "934153775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 28 de agosto de 2025. - O Primeiro-Ministro, Luís Montenegro.\n\n119489982"
+  }
+ }
+}

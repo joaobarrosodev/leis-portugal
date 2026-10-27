@@ -1,0 +1,481 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:548464:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1995-34534075",
+ "dre_path": "/dr/detalhe/lei/83-1995-548464",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "44432575",
+    "44377675",
+    "44377775",
+    "44377875",
+    "44377975",
+    "44378075",
+    "44378175",
+    "44378275",
+    "44378375",
+    "44378475",
+    "44378575",
+    "44378675",
+    "44378775",
+    "44378875",
+    "44378975",
+    "44379075",
+    "44379175",
+    "44379275",
+    "44379375",
+    "44379475",
+    "44379575",
+    "44379675",
+    "44379775",
+    "44379875",
+    "44379975",
+    "44380075",
+    "44380175",
+    "44380275",
+    "44380375",
+    "44380475",
+    "44380575",
+    "44380675",
+    "44380775",
+    "44380875"
+   ]
+  },
+  {
+   "date": "1995-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:663769:por",
+     "title": "Rectificação n.º 4/95",
+     "published": "1995-10-12",
+     "dre_path": "/dr/detalhe/rectificacao/4-1995-663769"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma",
+    "Retifica Artigo 12.º"
+   ],
+   "fragments": [
+    "44432575",
+    "44377675",
+    "44377775",
+    "44377875",
+    "44377975",
+    "44378075",
+    "44378175",
+    "44378275",
+    "44378375",
+    "44378475",
+    "44378575",
+    "44378675",
+    "44378775",
+    "44378875",
+    "44378975",
+    "44432475",
+    "44379175",
+    "44379275",
+    "44379375",
+    "44379475",
+    "44379575",
+    "44379675",
+    "44379775",
+    "44379875",
+    "44379975",
+    "44380075",
+    "44380175",
+    "44380275",
+    "44380375",
+    "44380475",
+    "44380575",
+    "44380675",
+    "44380775",
+    "44380875",
+    "44380975"
+   ]
+  },
+  {
+   "date": "2015-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70423756:por",
+     "title": "Decreto-Lei n.º 214-G/2015",
+     "published": "2015-10-02",
+     "dre_path": "/dr/detalhe/decreto-lei/214-g-2015-70423756"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "44432575",
+    "44377675",
+    "44377775",
+    "44377875",
+    "44377975",
+    "44378075",
+    "44378175",
+    "44378275",
+    "44378375",
+    "44378475",
+    "44378575",
+    "44378675",
+    "44378775",
+    "44378875",
+    "44378975",
+    "70456952",
+    "44379175",
+    "44379275",
+    "44379375",
+    "70456953",
+    "44379575",
+    "44379675",
+    "70456954",
+    "44379875",
+    "44379975",
+    "44380075",
+    "44380175",
+    "44380275",
+    "44380375",
+    "44380475",
+    "44380575",
+    "44380675",
+    "44380775",
+    "44380875",
+    "44380975"
+   ]
+  }
+ ],
+ "fragments": {
+  "44432575": {
+   "fragment_id": "35153875",
+   "type": 15,
+   "heading": "Diploma — Direito de participação procedimental e de acção popular",
+   "in_force_from": "1995-10-12",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 52.º, n.º 3, 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "44377675": {
+   "fragment_id": "35300575",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "44377775": {
+   "fragment_id": "36582975",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito da presente lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito da presente lei\n\n1 - A presente lei define os casos e termos em que são conferidos e podem ser exercidos o direito de participação popular em procedimentos administrativos e o direito de acção popular para a prevenção, a cessação ou a perseguição judicial das infracções previstas no n.º 3 do artigo 52.º da Constituição.\n\n2 - Sem prejuízo do disposto no número anterior, são designadamente interesses protegidos pela presente lei a saúde pública, o ambiente, a qualidade de vida, a protecção do consumo de bens e serviços, o património cultural e o domínio público."
+  },
+  "44377875": {
+   "fragment_id": "36583075",
+   "type": 11,
+   "heading": "Artigo 2.º — Titularidade dos direitos de participação procedimental e do direito de acção popular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Titularidade dos direitos de participação procedimental e do direito de acção popular\n\n1 - São titulares do direito procedimental de participação popular e do direito de acção popular quaisquer cidadãos no gozo dos seus direitos civis e políticos e as associações e fundações defensoras dos interesses previstos no artigo anterior, independentemente de terem ou não interesse directo na demanda.\n\n2 - São igualmente titulares dos direitos referidos no número anterior as autarquias locais em relação aos interesses de que sejam titulares residentes na área da respectiva circunscrição."
+  },
+  "44377975": {
+   "fragment_id": "36583175",
+   "type": 11,
+   "heading": "Artigo 3.º — Legitimidade activa das associações e fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Legitimidade activa das associações e fundações\n\nConstituem requisitos da legitimidade activa das associações e fundações:\n\na) A personalidade jurídica;\n\nb) O incluírem expressamente nas suas atribuições ou nos seus objectivos estatutários a defesa dos interesses em causa no tipo de acção de que se trate;\n\nc) Não exercerem qualquer tipo de actividade profissional concorrente com empresas ou profissionais liberais."
+  },
+  "44378075": {
+   "fragment_id": "35300675",
+   "type": 1,
+   "heading": "Capítulo II — Direito de participação popular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direito de participação popular"
+  },
+  "44378175": {
+   "fragment_id": "36583275",
+   "type": 11,
+   "heading": "Artigo 4.º — Dever de prévia audiência na preparação de planos ou na localização e realização de obras e investimentos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dever de prévia audiência na preparação de planos ou na localização e realização de obras e investimentos públicos\n\n1 - A adopção de planos de desenvolvimento das actividades da Administração Pública, de planos de urbanismo, de planos directores e de ordenamento do território e a decisão sobre a localização e a realização de obras públicas ou de outros investimentos públicos com impacte relevante no ambiente ou nas condições económicas e sociais e da vida em geral das populações ou agregados populacionais de certa área do território nacional devem ser precedidos, na fase de instrução dos respectivos procedimentos, da audição dos cidadãos interessados e das entidades defensoras dos interesses que possam vir a ser afectados por aqueles planos ou decisões.\n\n2 - Para efeitos desta lei, considera-se equivalente aos planos a preparação de actividades coordenadas da Administração a desenvolver com vista à obtenção de resultados com impacte relevante.\n\n3 - São consideradas como obras públicas ou investimentos públicos com impacte relevante para efeitos deste artigo os que se traduzam em custos superiores a um milhão de contos ou que, sendo de valor inferior, influenciem significativamente as condições de vida das populações de determinada área, quer sejam executados directamente por pessoas colectivas públicas quer por concessionários."
+  },
+  "44378275": {
+   "fragment_id": "36583375",
+   "type": 11,
+   "heading": "Artigo 5.º — Anúncio público do início do procedimento para elaboração dos planos ou decisões de realizar as obras ou investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Anúncio público do início do procedimento para elaboração dos planos ou decisões de realizar as obras ou investimentos\n\n1 - Para a realização da audição dos interessados serão afixados editais nos lugares de estilo, quando os houver, e publicados anúncios em dois jornais diários de grande circulação, bem como num jornal regional, quando existir.\n\n2 - Os editais e anúncios identificarão as principais características do plano, obra ou investimento e seus prováveis efeitos e indicarão a data a partir da qual será realizada a audição dos interessados.\n\n3 - Entre a data do anúncio e a realização da audição deverão mediar, pelo menos, 20 dias, salvo casos de urgência devidamente justificados."
+  },
+  "44378375": {
+   "fragment_id": "36583475",
+   "type": 11,
+   "heading": "Artigo 6.º — Consulta dos documentos e demais actos do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Consulta dos documentos e demais actos do procedimento\n\n1 - Durante o período referido no n.º 3 do artigo anterior, os estudos e outros elementos preparatórios dos projectos dos planos ou das obras deverão ser facultados à consulta dos interessados.\n\n2 - Dos elementos preparatórios referidos no número anterior constarão obrigatoriamente indicações sobre eventuais consequências que a adopção dos planos ou decisões possa ter sobre os bens, ambiente e condições de vida das pessoas abrangidas.\n\n3 - Poderão também durante o período de consulta ser pedidos, oralmente ou por escrito, esclarecimentos sobre os elementos facultados."
+  },
+  "44378475": {
+   "fragment_id": "36583575",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedido de audiência ou de apresentação de observações escritas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedido de audiência ou de apresentação de observações escritas\n\n1 - No prazo de cinco dias a contar do termo do período da consulta, os interessados deverão comunicar à autoridade instrutora a sua pretensão de serem ouvidos oralmente ou de apresentarem observações escritas.\n\n2 - No caso de pretenderem ser ouvidos, os interessados devem indicar os assuntos sobre que pretendem intervir e qual o sentido geral da sua intervenção."
+  },
+  "44378575": {
+   "fragment_id": "36583675",
+   "type": 11,
+   "heading": "Artigo 8.º — Audição dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Audição dos interessados\n\n1 - Os interessados serão ouvidos em audiência pública.\n\n2 - A autoridade encarregada da instrução prestará os esclarecimentos que entender úteis durante a audiência, sem prejuízo do disposto nos artigos seguintes.\n\n3 - Das audiências serão lavradas actas assinadas pela autoridade encarregada da instrução."
+  },
+  "44378675": {
+   "fragment_id": "36583775",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de ponderação e de resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de ponderação e de resposta\n\n1 - A autoridade instrutora ou, por seu intermédio, a autoridade promotora do projecto, quando aquela não for competente para a decisão, responderá às observações formuladas e justificará as opções tomadas.\n\n2 - A resposta será comunicada por escrito aos interessados, sem prejuízo do disposto no artigo seguinte."
+  },
+  "44378775": {
+   "fragment_id": "36583875",
+   "type": 11,
+   "heading": "Artigo 10.º — Procedimento colectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento colectivo\n\n1 - Sempre que a autoridade instrutora deva proceder a mais de 20 audições, poderá determinar que os interessados se organizem de modo a escolherem representantes nas audiências a efectuar, os quais serão indicados no prazo de cinco dias a contar do fim do período referido no n.º 1 do artigo 7.º\n\n2 - No caso de os interessados não se fazerem representar, poderá a entidade instrutora escolher, de entre os interessados, representantes de posições afins, de modo a não exceder o número de 20 audições.\n\n3 - As observações escritas ou os pedidos de intervenção idênticos serão agrupados a fim de que a audição se restrinja apenas ao primeiro interessado que solicitou a audiência ou ao primeiro subscritor das observações feitas.\n\n4 - No caso de se adoptar a forma de audição através de representantes, ou no caso de a apresentação de observações escritas ser em número superior a 20, poderá a autoridade instrutora optar pela publicação das respostas aos interessados em dois jornais diários e num jornal regional, quando exista."
+  },
+  "44378875": {
+   "fragment_id": "36583975",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação do Código do Procedimento Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação do Código do Procedimento Administrativo\n\nSão aplicáveis aos procedimentos e actos previstos no artigo anterior as pertinentes disposições do Código do Procedimento Administrativo."
+  },
+  "44378975": {
+   "fragment_id": "35300775",
+   "type": 1,
+   "heading": "Capítulo III — Do exercício da acção popular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do exercício da acção popular"
+  },
+  "44379075": {
+   "fragment_id": "36584075",
+   "type": 11,
+   "heading": "Artigo 12.º — Acção procedimental administrativa e acção popular civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acção procedimental administrativa e acção popular civil\n\n1 - A acção procedimental administrativa compreende a acção para defesa dos interesses referidos no artigo 1.º e o recurso contencioso com fundamento em ilegalidade contra quaisquer actos administrativos lesivos dos mesmos interesses.\n\n2 - A acção popular civil pode revestir qualquer das formas previstas no Código de Processo Civil."
+  },
+  "44379175": {
+   "fragment_id": "36584175",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime especial de indeferimento da petição inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime especial de indeferimento da petição inicial\n\nA petição deve ser indeferida quando o julgador entenda que é manifestamente improvável a procedência do pedido, ouvido o Ministério Público e feitas preliminarmente as averiguações que o julgador tenha por justificadas ou que o autor ou o Ministério Público requeiram."
+  },
+  "44379275": {
+   "fragment_id": "36584275",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime especial de representação processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime especial de representação processual\n\nNos processos de acção popular, o autor representa por iniciativa própria, com dispensa de mandato ou autorização expressa, todos os demais titulares dos direitos ou interesses em causa que não tenham exercido o direito de auto-exclusão previsto no artigo seguinte, com as consequências constantes da presente lei."
+  },
+  "44379375": {
+   "fragment_id": "36584375",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de exclusão por parte de titulares dos interesses em causa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito de exclusão por parte de titulares dos interesses em causa\n\n1 - Recebida petição de acção popular, serão citados os titulares dos interesses em causa na acção de que se trate, e não intervenientes nela, para o efeito de, no prazo fixado pelo juiz, passarem a intervir no processo a título principal, querendo, aceitando-o na fase em que se encontrar, e para declararem nos autos se aceitam ou não ser representados pelo autor ou se, pelo contrário, se excluem dessa representação, nomeadamente para o efeito de lhes não serem aplicáveis as decisões proferidas, sob pena de a sua passividade valer como aceitação, sem prejuízo do disposto no n.º 4.\n\n2 - A citação será feita por anúncio ou anúncios tornados públicos através de qualquer meio de comunicação social ou editalmente, consoante estejam em causa interesses gerais ou geograficamente localizados, sem obrigatoriedade de identificação pessoal dos destinatários, que poderão ser referenciados enquanto titulares dos mencionados interesses, e por referência à acção de que se trate, à identificação de pelo menos o primeiro autor, quando seja um entre vários, do réu ou réus e por menção bastante do pedido e da causa de pedir.\n\n3 - Quando não for possível individualizar os respectivos titulares, a citação prevista no número anterior far-se-á por referência ao respectivo universo, determinado a partir de circunstância ou qualidade que lhes seja comum, da área geográfica em que residam ou do grupo ou comunidade que constituam, em qualquer caso sem vinculação à identificação constante da petição inicial, seguindo-se no mais o disposto no número anterior.\n\n4 - A representação referida no n.º 1 é ainda susceptível de recusa pelo representado até ao termo da produção de prova ou fase equivalente, por declaração expressa nos autos."
+  },
+  "44379475": {
+   "fragment_id": "36584475",
+   "type": 11,
+   "heading": "Artigo 16.º — Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Ministério Público\n\n1 - O Ministério Público fiscaliza a legalidade e representa o Estado quando este for parte na causa, os ausentes, os menores e demais incapazes, neste último caso quer sejam autores ou réus.\n\n2 - O Ministério Público poderá ainda representar outras pessoas colectivas públicas quando tal for autorizado por lei.\n\n3 - No âmbito da fiscalização da legalidade, o Ministério Público poderá, querendo, substituir-se ao autor em caso de desistência da lide, bem como de transacção ou de comportamentos lesivos dos interesses em causa."
+  },
+  "44379575": {
+   "fragment_id": "36584575",
+   "type": 11,
+   "heading": "Artigo 17.º — Recolha de provas pelo julgador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Recolha de provas pelo julgador\n\nNa acção popular e no âmbito das questões fundamentais definidas pelas partes, cabe ao juiz iniciativa própria em matéria de recolha de provas, sem vinculação à iniciativa das partes."
+  },
+  "44379675": {
+   "fragment_id": "36584675",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime especial de eficácia dos recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime especial de eficácia dos recursos\n\nMesmo que determinado recurso não tenha efeito suspensivo, nos termos gerais, pode o julgador, em acção popular, conferir-lhe esse efeito, para evitar dano irreparável ou de difícil reparação."
+  },
+  "44379775": {
+   "fragment_id": "36584775",
+   "type": 11,
+   "heading": "Artigo 19.º — Efeitos do caso julgado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Efeitos do caso julgado\n\n1 - As sentenças transitadas em julgado proferidas em acções ou recursos administrativos ou em acções cíveis, salvo quando julgadas improcedentes por insuficiência de provas, ou quando o julgador deva decidir por forma diversa fundado em motivações próprias do caso concreto, têm eficácia geral, não abrangendo, contudo, os titulares dos direitos ou interesses que tiverem exercido o direito de se auto-excluírem da representação.\n\n2 - As decisões transitadas em julgado são publicadas a expensas da parte vencida e sob pena de desobediência, com menção do trânsito em julgado, em dois dos jornais presumivelmente lidos pelo universo dos interessados no seu conhecimento, à escolha do juiz da causa, que poderá determinar que a publicação se faça por extracto dos seus aspectos essenciais, quando a sua extensão desaconselhar a publicação por inteiro."
+  },
+  "44379875": {
+   "fragment_id": "36584875",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime especial de preparos e custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime especial de preparos e custas\n\n1 - Pelo exercício do direito de acção popular não são exigíveis preparos.\n\n2 - O autor fica isento do pagamento de custas em caso de procedência parcial do pedido.\n\n3 - Em caso de decaimento total, o autor interveniente será condenado em montante a fixar pelo julgador entre um décimo e metade das custas que normalmente seriam devidas, tendo em conta a sua situação económica e a razão formal ou substantiva da improcedência.\n\n4 - A litigância de má-fé rege-se pela lei geral.\n\n5 - A responsabilidade por custas dos autores intervenientes é solidária, nos termos gerais."
+  },
+  "44379975": {
+   "fragment_id": "36584975",
+   "type": 11,
+   "heading": "Artigo 21.º — Procuradoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Procuradoria\n\nO juiz da causa arbitrará o montante da procuradoria, de acordo com a complexidade e o valor da causa."
+  },
+  "44380075": {
+   "fragment_id": "35300875",
+   "type": 1,
+   "heading": "Capítulo IV — Responsabilidade civil e penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Responsabilidade civil e penal"
+  },
+  "44380175": {
+   "fragment_id": "36585075",
+   "type": 11,
+   "heading": "Artigo 22.º — Responsabilidade civil subjectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Responsabilidade civil subjectiva\n\n1 - A responsabilidade por violação dolosa ou culposa dos interesses previstos no artigo 1.º constitui o agente causador no dever de indemnizar o lesado ou lesados pelos danos causados.\n\n2 - A indemnização pela violação de interesses de titulares não individualmente identificados é fixada globalmente.\n\n3 - Os titulares de interesses identificados têm direito à correspondente indemnização nos termos gerais da responsabilidade civil.\n\n4 - O direito à indemnização prescreve no prazo de três anos a contar do trânsito em julgado da sentença que o tiver reconhecido.\n\n5 - Os montantes correspondentes a direitos prescritos serão entregues ao Ministério da Justiça, que os escriturará em conta especial e os afectará ao pagamento da procuradoria, nos termos do artigo 21.º, e ao apoio no acesso ao direito e aos tribunais de titulares de direito de acção popular que justificadamente o requeiram."
+  },
+  "44380275": {
+   "fragment_id": "36585175",
+   "type": 11,
+   "heading": "Artigo 23.º — Responsabilidade civil objectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Responsabilidade civil objectiva\n\nExiste ainda a obrigação de indemnização por danos independentemente de culpa sempre que de acções ou omissões do agente tenha resultado ofensa de direitos ou interesses protegidos nos termos da presente lei e no âmbito ou na sequência de actividade objectivamente perigosa."
+  },
+  "44380375": {
+   "fragment_id": "36585275",
+   "type": 11,
+   "heading": "Artigo 24.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Seguro de responsabilidade civil\n\nSempre que o exercício de uma actividade envolva risco anormal para os interesses protegidos pela presente lei, deverá ser exigido ao respectivo agente seguro da correspondente responsabilidade civil como condição do início ou da continuação daquele exercício, em termos a regulamentar."
+  },
+  "44380475": {
+   "fragment_id": "36585375",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime especial de intervenção no exercício da acção penal dos cidadãos e associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime especial de intervenção no exercício da acção penal dos cidadãos e associações\n\nAos titulares do direito de acção popular é reconhecido o direito de denúncia, queixa ou participação ao Ministério Público por violação dos interesses previstos no artigo 1.º que revistam natureza penal, bem como o de se constituírem assistentes no respectivo processo, nos termos previstos nos artigos 68.º, 69.º e 70.º do Código de Processo Penal."
+  },
+  "44380575": {
+   "fragment_id": "35300975",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "44380675": {
+   "fragment_id": "36585475",
+   "type": 11,
+   "heading": "Artigo 26.º — Dever de cooperação das entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dever de cooperação das entidades públicas\n\n1 - É dever dos agentes da administração central, regional e local, bem como dos institutos, empresas e demais entidades públicas, cooperar com o tribunal e as partes intervenientes em processo de acção popular.\n\n2 - As partes intervenientes em processo de acção popular poderão, nomeadamente, requerer às entidades competentes as certidões e informações que julgarem necessárias ao êxito ou à improcedência do pedido, a fornecer em tempo útil.\n\n3 - A recusa, o retardamento ou a omissão de dados e informações indispensáveis, salvo quando justificados por razões de segredo de Estado ou de justiça, fazem incorrer o agente responsável em responsabilidade civil e disciplinar."
+  },
+  "44380775": {
+   "fragment_id": "36585575",
+   "type": 11,
+   "heading": "Artigo 27.º — Ressalva de casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Ressalva de casos especiais\n\nOs casos de acção popular não abrangidos pelo disposto na presente lei regem-se pelas normas que lhes são aplicáveis."
+  },
+  "44380875": {
+   "fragment_id": "36585675",
+   "type": 11,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente lei entra em vigor no 60.º dia seguinte ao da sua publicação."
+  },
+  "44432475": {
+   "fragment_id": "36584075",
+   "type": 11,
+   "heading": "Artigo 12.º — Acção popular administrativa e acção popular civil",
+   "in_force_from": "1995-10-12",
+   "changed_by": [
+    "Rectificado pelo/a [Rectificação n.º 4/95 - Diário da República n.º 236/1995, Série I-A de 1995-10-12](https://diariodarepublica.pt/dr/detalhe/rectificacao/4-1995-663769), em vigor a partir de 1995-10-12"
+   ],
+   "markdown": "###### Artigo 12.º — Acção popular administrativa e acção popular civil\n\n1 - A acção popular administrativa compreende a acção para defesa dos interesses referidos no artigo 1.º e o recurso contencioso com fundamento em ilegalidade contra quaisquer actos administrativos lesivos dos mesmos interesses.\n\n2 - A acção popular civil pode revestir qualquer das formas previstas no Código de Processo Civil.\n\n> Rectificado pelo/a [Rectificação n.º 4/95 - Diário da República n.º 236/1995, Série I-A de 1995-10-12](https://diariodarepublica.pt/dr/detalhe/rectificacao/4-1995-663769), em vigor a partir de 1995-10-12"
+  },
+  "44380975": {
+   "fragment_id": "35301075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 21 de Junho de 1995.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 8 de Agosto de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 11 de Agosto de 1995.\n\nPelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna."
+  },
+  "70456952": {
+   "fragment_id": "36584075",
+   "type": 11,
+   "heading": "Artigo 12.º — Acção popular administrativa e acção popular civil",
+   "in_force_from": "2015-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01",
+    "Rectificado pelo/a [Rectificação n.º 4/95 - Diário da República n.º 236/1995, Série I-A de 1995-10-12](https://diariodarepublica.pt/dr/detalhe/rectificacao/4-1995-663769), em vigor a partir de 1995-10-12"
+   ],
+   "markdown": "###### Artigo 12.º — Acção popular administrativa e acção popular civil\n\n1 - A ação popular administrativa pode revestir qualquer das formas de processo previstas no Código de Processo nos Tribunais Administrativos.\n\n2 - A acção popular civil pode revestir qualquer das formas previstas no Código de Processo Civil.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01\n\n> Rectificado pelo/a [Rectificação n.º 4/95 - Diário da República n.º 236/1995, Série I-A de 1995-10-12](https://diariodarepublica.pt/dr/detalhe/rectificacao/4-1995-663769), em vigor a partir de 1995-10-12"
+  },
+  "70456953": {
+   "fragment_id": "36584475",
+   "type": 11,
+   "heading": "Artigo 16.º — Ministério Público",
+   "in_force_from": "2015-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+   ],
+   "markdown": "###### Artigo 16.º — Ministério Público\n\n1 - No âmbito de ações populares, o Ministério Público é titular da legitimidade ativa e dos poderes de representação e de intervenção processual que lhe são conferidos por lei, podendo substituir-se ao autor em caso de desistência da lide, bem como de transação ou de comportamentos lesivos dos interesses em causa.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+  },
+  "70456954": {
+   "fragment_id": "36584775",
+   "type": 11,
+   "heading": "Artigo 19.º — Decisões transitadas em julgado",
+   "in_force_from": "2015-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+   ],
+   "markdown": "###### Artigo 19.º — Decisões transitadas em julgado\n\n1 - Salvo quando julgadas improcedentes por insuficiência de provas ou quando o julgador deva decidir por forma diversa fundado em motivações próprias do caso concreto, os efeitos das sentenças transitadas em julgado proferidas no âmbito de processo que tenham por objeto a defesa de interesses individuais homogéneos abrangem os titulares dos direitos ou interesses que não tiverem exercido o direito de se autoexcluírem da representação, nos termos do artigo 16.º\n\n2 - As decisões transitadas em julgado são publicadas a expensas da parte vencida e sob pena de desobediência, com menção do trânsito em julgado, em dois dos jornais presumivelmente lidos pelo universo dos interessados no seu conhecimento, à escolha do juiz da causa, que poderá determinar que a publicação se faça por extracto dos seus aspectos essenciais, quando a sua extensão desaconselhar a publicação por inteiro.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+  }
+ }
+}

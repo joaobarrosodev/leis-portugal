@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:416632:por
+title: Decreto n.º 4249
+short_title: null
+summary: Decreto n.º 4249, aprovando a organização do Ministério da Agricultura em substituìção da que foi aprovada pelo decreto
+  n.º 4151, publicado em 2.º Suplemento ao Diário n.º 88, de 26 de Abril de 1918
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Agricultura - Secretaria Geral
+proposing_entity: null
+official_number: '4249'
+official_date: null
+publication_date: '1918-05-10'
+publication:
+  gazette: Diário do Govêrno
+  reference: Diário do Govêrno n.º 101/1918, 1º Suplemento, Série I de 1918-05-10
+  number: '101'
+  series: I
+  supplement: null
+  pages: 689 - 727
+  pdf_url: https://files.diariodarepublica.pt/1s/1918/05/10101/06890727.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '416632'
+  dre_path: /dr/detalhe/decreto/4249-1918-416632
+  internal: pt:dre:416632:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/4249-1918-416632
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/4249-1918-416632
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:15:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Agricultura
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:213264:por
+  label: "Extintas as Divisões do Comércio Interno dos Produtos Agrícolas e dos Serviços da Fiscalização dos Produtos Agrícolas\
+    \ bem como os estabelecimentos comerciais agrícolas, Mercado Central dos Produtos Agrícolas e armazéns gerais agrícolas\
+    \ da Direcção Geral do Ensino e Fomento, pelo DEC.10805.28.05.1925.MA, DG.IS [117] de 28.05.1925\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/10805-1925-213264
+  date: '1925-05-28'
+- type: repealed_by
+  target: pt:dre:466013:por
+  label: "Revogado o nº 1) e § único do art. 361º da organização do Ministério da Agricultura pelo DEC LEI.24124.30.06.1934.MF,\
+    \ DG.IS [152] de 30.06.1934\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24124-1934-466013
+  date: '1934-06-30'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:15:13Z'
+  warnings:
+  - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
+  errors: []
+---
+
+# Decreto n.º 4249
+
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/1s/1918/05/10101/06890727.pdf)

@@ -1,0 +1,173 @@
+---
+schema_version: '1.0'
+id: pt:dre:215647923:por
+title: Resolução do Conselho de Ministros n.º 78/2023
+short_title: null
+summary: Autoriza o Fundo Ambiental a proceder a transferências para a cobertura do risco da execução da infraestrutura da
+  Agenda «H2 Green Valley»
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 78/2023
+official_date: null
+publication_date: '2023-07-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/2023, Série I de 2023-07-14
+  number: '136'
+  series: I
+  supplement: null
+  pages: 65 - 66
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13600/0006500066.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/78/2023/07/14/p/dre/pt/html
+  oj: null
+  dre: '215647923'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/78-2023-215647923
+  internal: pt:dre:215647923:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2023-215647923
+  metadata_url: https://data.dre.pt/eli/resolconsmin/78/2023/07/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2023-215647923
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ff13068801fca7683b95c580cec94b2d35dee5b361a55bc8752c784847c5a214
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:29:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- Conselho de Ministros
+- Delegação de Competências
+- Despesas Públicas
+- Fundo Ambiental
+- Gás
+- Governo XXIII
+- Hidrogénio
+- Ministro do Ambiente e da Ação Climática
+- Obras Públicas
+- Plano de Recuperação e Resiliência
+- Produção de Hidrogénio
+- Responsabilidade pelo Risco
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346286:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/63/2020/08/14/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:29:02Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 78/2023
+
+Nos termos do Roteiro para a Neutralidade Carbónica 2050, aprovado pela [Resolução do Conselho de Ministros n.º 107/2019](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-2019-122777644), de 1 de julho, Portugal assumiu o objetivo da transição para uma sociedade neutra em carbono em 2050, para cujo cumprimento se impõe o progressivo aproveitamento das fontes de energia renovável de caráter endógeno mediante, entre outros, o adequado e significativo desenvolvimento do vetor do hidrogénio de fonte renovável, designado como «hidrogénio verde».
+
+Com efeito, o «hidrogénio verde» assume inequívoca relevância para a progressiva eletrificação dos consumos, da sociedade e da economia, assim como para o estabelecimento e consolidação de uma economia circular da energia para a produção, entre outros, de biogás e de eletricidade de origem renovável a consumir, a título de exemplo, nos processos industriais, sem descurar a eficiência energética e na utilização de recursos.
+
+Nos termos da Estratégia Nacional para o Hidrogénio, aprovada pela [Resolução do Conselho de Ministros n.º 63/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2020-140346286), de 14 de agosto, Portugal assumiu o objetivo de promover a introdução gradual do hidrogénio verde enquanto pilar sustentável e integrado numa estratégia mais abrangente de transição para uma economia descarbonizada, revelando, assim, a importância estratégica da concretização das novas infraestruturas necessárias para a sua veiculação.
+
+Nesse sentido, a empresa REN Gás, S. A., apresentou a proposta do projeto «H2G Backbone», cujo âmbito inclui um conjunto de projetos complementares na cadeia de valor do hidrogénio verde para o desenvolvimento de uma rede de infraestruturas de transmissão, armazenamento e distribuição com vista à criação do primeiro hub de hidrogénio verde na Zona Industrial e Logística de Sines (ZILS). O presente projeto permitirá a capitalização das condições favoráveis da ZILS para o referido efeito, nomeadamente, a sua localização estratégica em relação ao único porto marítimo nacional de águas profundas, conforme se pode comprovar face às manifestações de interesse de diversos promotores para desenvolver os seus projetos industriais de grande escala para a produção e/ou consumo de hidrogénio verde.
+
+A execução do projeto «H2G Backbone» compreende uma primeira fase, a concluir até ao final de 2025, através da construção de parte da infraestrutura de 16" do anel previsto (9,1 km) e a estação de compressão, e uma segunda fase, com comissionamento previsto para 2030, com a construção da restante infraestrutura de 16" do anel (17,2 km) e de um sistema de armazenamento a 200 bar. Para o financiamento dos trabalhos da primeira fase, a REN Gás, S. A., submeteu a Agenda «H2 Green Valley» no quadro do aviso n.º 01/C05-i01/2021 do Plano de Recuperação e Resiliência (PRR), que a vincula ao cumprimento dos respetivos prazos máximos (dezembro de 2025), assegurando, assim, financiamento a contratualizar nos termos aplicáveis, no montante previsto de ((euro)) até 9 600 000,00 (euro), para a conclusão desta primeira fase.
+
+Todavia, a viabilização deste investimento carece de um compromisso e decisão final de, pelo menos, um cliente âncora, sendo que os potenciais candidatos não se encontram em condições de assumir o compromisso de decisão final de investimento antes de 2023. Assim, de forma que estejam reunidas as condições necessárias para que a REN Gás, S. A., possa avançar com a materialização deste investimento, cumprindo assim os prazos impostos pelo PRR, é necessário assegurar a mitigação do risco da infraestrutura até que um cliente âncora esteja em condições de utilizar a rede.
+
+Com vista ao apuramento de uma solução viável, foi solicitada a análise e o parecer da Entidade Reguladora dos Serviços Energéticos (ERSE), segundo o qual a cobertura do risco pode ser assegurada mediante o recurso a um fundo do Estado associado à economia verde permitindo, por um lado, a concretização atempada do projeto compatível com o financiamento PRR e, por outro, a garantia do não comprometimento da sustentabilidade económica do Sistema Nacional de Gás por força da sua execução.
+
+Como tal, os custos, em cujo âmbito se inclui a amortização do ativo e a remuneração igual à fixada pela ERSE para a rede de gás em alta pressão e custos de manutenção, devem ser transitoriamente suportados por verbas do Fundo Ambiental, até 2030, após o qual as transferências acumuladas serão recuperadas a favor deste fundo através das tarifas a praticar e a pagar pelos utilizadores da infraestrutura, numa ótica de utilizador-pagador e em conformidade com as condições normais de mercado.
+
+Nesse sentido assegura-se, por um lado, a viabilidade dos projetos de hidrogénio no território nacional e que dependem da existência desta infraestrutura e, por outro, a existência de adequado incentivo à célere execução e ligação à rede destes projetos por força da isenção do pagamento da tarifa até 2030, pelo que importa proceder em conformidade.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, dos artigos 44.º e seguintes do Código do Procedimento Administrativo, aprovado em anexo ao [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a realização da despesa pelo Fundo Ambiental, sob condição do cofinanciamento através do Plano de Recuperação e Resiliência no âmbito do aviso n.º 01/C05-i01/2021, com vista a proceder às necessárias transferências para a cobertura do risco da execução da infraestrutura objeto da Agenda «H2 Green Valley» submetida pela REN Gás, S. A., e aprovada no quadro do referido aviso, com início em 2026, até ao montante global de (euro) 8 320 000,00, isento de imposto sobre o valor acrescentado.
+
+2 - Estabelecer que os encargos orçamentais decorrentes do disposto no número anterior são repartidos, em cada ano económico, pelos seguintes montantes:
+
+a) Em 2026: (euro) 1 400 000,00;
+
+b) Em 2027: (euro) 1 800 000,00;
+
+c) Em 2028: (euro) 1 750 000,00;
+
+d) Em 2029: (euro) 1 710 000,00;
+
+e) Em 2030: (euro) 1 660 000,00.
+
+3 - Estabelecer que o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que lhe antecede.
+
+4 - Determinar que as transferências do Fundo Ambiental referidas no n.º 1 são recuperadas através das tarifas a pagar pelos utilizadores da infraestrutura a partir do ano da sua ligação, a processar em conformidade com as condições normais de mercado, reconhecendo-se estar em causa uma intervenção de especial relevância.
+
+5 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da energia a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+6 - Decidir que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 6 de julho de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116665495

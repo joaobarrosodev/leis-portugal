@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:187078:por
+title: Decreto n.º 10/98
+short_title: null
+summary: Aprova a Emenda ao Acordo de Transporte Aéreo entre a República Portuguesa e a República da Polónia, assinada em
+  Varsóvia a 30 de Setembro de 1997
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 10/98
+official_date: null
+publication_date: '1998-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/1998, Série I-A de 1998-03-13
+  number: '61'
+  series: I
+  supplement: null
+  pages: 982 - 982
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/03/061a00/09820982.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/10/1998/03/13/p/dre/pt/html
+  oj: null
+  dre: '187078'
+  dre_path: /dr/detalhe/decreto/10-1998-187078
+  internal: pt:dre:187078:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1998-187078
+  metadata_url: https://data.dre.pt/eli/dec/10/1998/03/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1998-187078
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:08:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ce9a7f503b0aaae14c4e212a01da174450a491ee005ca6d149ed9e029a0e1d9b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:08:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: pt:dre:140312:por
+  label: null
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:08:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 10/98
+
+de 13 de Março
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+É aprovada a Emenda ao Acordo de Transporte Aéreo entre a República Portuguesa e a República da Polónia, aprovado pelo [Decreto n.º 34/77](https://diariodarepublica.pt/dr/detalhe/decreto/34-1977-140312), de 11 de Março, assinada em Varsóvia a 30 de Setembro de 1997, cujas versões autênticas nas línguas portuguesa e inglesa seguem em anexo.
+
+Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
+
+Assinado em 26 de Janeiro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Janeiro de 1998.
+
+Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
+
+EMENDA AO ACORDO DE TRANSPORTE AÉREO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA POLÓNIA
+
+Considerando ser de relevante interesse mútuo a Emenda ao Acordo de Transporte Aéreo, assinado em Varsóvia em 30 de Setembro de 1975, a República Portuguesa e a República da Polónia acordam na introdução do artigo seguinte:
+
+«Artigo 10.º bis
+
+1 - Tendo em consideração o princípio da reciprocidade e em conformidade com as leis e regulamentos da outra Parte contratante, uma empresa designada de cada Parte contratante poderá:
+
+a) Estabelecer no território da outra Parte contratante representações destinadas à promoção do transporte aéreo e venda de bilhetes, assim como outras facilidades inerentes à exploração do transporte aéreo;
+
+b) Estabelecer e manter no território da outra Parte contratante pessoal administrativo, comercial, técnico, operacional e outro especializado necessário à exploração do transporte aéreo;
+
+c) Proceder no território da outra Parte contratante à venda de transporte aéreo directamente e, se essa empresa assim o desejar, através dos seus agentes.
+
+2 - Cada empresa designada poderá proceder à venda desse transporte, na moeda daquele território ou em moedas livremente convertíveis de outros países, em conformidade com os regulamentos de câmbio em vigor, sendo, na mesma medida, qualquer pessoa livre para adquirir esse transporte.»
+
+Feito em Varsóvia aos 30 de Setembro de 1997, em dois originais em língua portuguesa e inglesa, sendo todos os textos igualmente autênticos.
+
+Em caso de diferente interpretação, prevalecerá o texto em língua inglesa.
+
+Pela República Portuguesa:
+
+Manuel Barreiros.
+
+Pela República da Polónia:
+
+Adam Halamfki.
+
+AMENDMENT TO THE AIR TRANSPORT AGREEMENT BETWEEN THE REPUBLIC OF PORTUGAL AND THE REPUBLIC OF POLAND
+
+Considering of relevant mutual interest the amendement of the Air Transport greement signed at Warsaw on September 30th, 1975, the Republic of Portugal and the Republic of Poland agreed upon the introduction of the following article:
+
+«rticle 10 bis
+
+1 - Taking into account a principle of reciprocity and in conformity with laws and regulations of the other Contracting Party, a designated airline of each Contracting Party shall be allowed:
+
+a) To establish in the territory of the other Contracting Party offices for the promotion of air transportation and sale of air tickets as well as other facilities required for the provision of air transportation;
+
+b) To bring in and maintain in the territory of the other Contracting Party managerial, sales, technical, operational and other specialized staff required for the provision of air transportation; and
+
+c) In the territory of the other Contracting Party to engage directly and, at hat airlines discretion, through its agents in the sale of air transportation.
+
+2 - Each designated airline shall have the right to sell such transportation, and any person shall be free to purchase such transportation, in the currency of that territory or in freely convertible currencies of other countries in accordance with the foreign exchange regulation in force.»
+
+Done in duplicate at Warsaw on September 30 th, 1997, in the Portuguese and English languages.
+
+For the Republic of Portugal:
+
+Manuel Barreiros.
+
+For the Republic of Poland:
+
+Adam Halamfki.

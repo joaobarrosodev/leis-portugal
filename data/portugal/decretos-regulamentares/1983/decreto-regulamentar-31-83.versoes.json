@@ -1,0 +1,1618 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:297783:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1983-202402835",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/31-1983-297783",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1983-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202403617",
+    "202388039",
+    "202388040",
+    "202388041",
+    "202388042",
+    "202388044",
+    "202388045",
+    "202388046",
+    "202388047",
+    "202388048",
+    "202388049",
+    "202388050",
+    "202388051",
+    "202388052",
+    "202388053",
+    "202388054",
+    "202388055",
+    "202388056",
+    "202388057",
+    "202388058",
+    "202388059",
+    "202388060",
+    "202388061",
+    "202388062",
+    "202388063",
+    "202388064",
+    "202388065",
+    "202388066",
+    "202388067",
+    "202388068",
+    "202388069",
+    "202388070",
+    "202388071",
+    "202388072",
+    "202388073",
+    "202388074",
+    "202403575",
+    "202403576",
+    "202403577",
+    "202403578",
+    "202403579",
+    "202403580",
+    "202403581",
+    "202403582",
+    "202403583",
+    "202403584",
+    "202403585",
+    "202403586",
+    "202403587",
+    "202403588",
+    "202403589",
+    "202403590",
+    "202403591",
+    "202403592",
+    "202403593",
+    "202403594",
+    "202403595",
+    "202403596",
+    "202403597",
+    "202403598",
+    "202403599",
+    "202403600",
+    "202403601",
+    "202403602",
+    "202403603",
+    "202403604",
+    "202403605",
+    "202403606"
+   ]
+  },
+  {
+   "date": "2006-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:545060:por",
+     "title": "Decreto-Lei n.º 229/2006",
+     "published": "2006-11-24",
+     "dre_path": "/dr/detalhe/decreto-lei/229-2006-545060"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 30.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º"
+   ],
+   "fragments": [
+    "202388038",
+    "202388039",
+    "202388040",
+    "202388041",
+    "202388042",
+    "202388043",
+    "202388044",
+    "202388045",
+    "202388046",
+    "202388047",
+    "202388048",
+    "202388049",
+    "202388050",
+    "202403607",
+    "202388052",
+    "202388053",
+    "202403608",
+    "202403612",
+    "202388056",
+    "202388057",
+    "202388058",
+    "202388059",
+    "202388060",
+    "202388061",
+    "202388062",
+    "202403609",
+    "202388064",
+    "202388065",
+    "202388066",
+    "202388067",
+    "202388068",
+    "202388069",
+    "202388070",
+    "202388071",
+    "202388072",
+    "202388073",
+    "202388074",
+    "202403575",
+    "202403576",
+    "202403610",
+    "202403578",
+    "202403579",
+    "202403580",
+    "202403581",
+    "202403582",
+    "202403583",
+    "202403611",
+    "202403613",
+    "202403614",
+    "202403587",
+    "202403588",
+    "202403615",
+    "202403616",
+    "202403591",
+    "202403592",
+    "202403593",
+    "202403594",
+    "202403595",
+    "202403596",
+    "202403597",
+    "202403598",
+    "202403599",
+    "202403600",
+    "202403601",
+    "202403602",
+    "202403603",
+    "202403604",
+    "202403605",
+    "202403606"
+   ]
+  },
+  {
+   "date": "2015-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66528823:por",
+     "title": "Lei n.º 14/2015",
+     "published": "2015-02-16",
+     "dre_path": "/dr/detalhe/lei/14-2015-66528823"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202403617",
+    "202403618",
+    "202403619",
+    "202403620",
+    "202403621",
+    "202403622",
+    "202403623",
+    "202403624",
+    "202403625",
+    "202403626",
+    "202403627",
+    "202403628",
+    "202403629",
+    "202403630",
+    "202403631",
+    "202403632",
+    "202403633",
+    "202403634",
+    "202403635",
+    "202403636",
+    "202403637",
+    "202403638",
+    "202403639",
+    "202403640",
+    "202403641",
+    "202403642",
+    "202403643",
+    "202403644",
+    "202403645",
+    "202403646",
+    "202403647",
+    "202403648",
+    "202403649",
+    "202403650",
+    "202403651",
+    "202403652",
+    "202403653",
+    "202403654",
+    "202403655",
+    "202403656",
+    "202403657",
+    "202403658",
+    "202403659",
+    "202403660",
+    "202403661",
+    "202403662",
+    "202403663",
+    "202403664",
+    "202403665",
+    "202403666",
+    "202403667",
+    "202403668",
+    "202403669",
+    "202403670",
+    "202403671",
+    "202403672",
+    "202403673",
+    "202403674",
+    "202404275",
+    "202404276",
+    "202404277",
+    "202404278",
+    "202404279",
+    "202404280",
+    "202404281",
+    "202404282",
+    "202404283",
+    "202404284",
+    "202404285"
+   ]
+  }
+ ],
+ "fragments": {
+  "202403617": {
+   "fragment_id": "202402836",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-08-15",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 31/83\n\nde 18 de Abril\n\nRemonta aos princípios do século a primeira referência à responsabilidade técnica por instalações eléctricas. De facto, o Decreto de 30 de Novembro de 1912, no seu artigo 31.º, § 2.º, estabelece: «Os desenhos e peças escritas devem ser elaborados e assinados por um engenheiro devidamente habilitado, que deve juntar ao projecto um documento reconhecido por notário, no qual declare responsabilizar-se pela execução dos trabalhos e pela exploração das instalações.»\n\nEmbora o Regulamento de Licenças para Instalações Eléctricas, aprovado pelo Decreto-Lei n.º 26852, de 30 de Julho de 1936, tenha retomado mais detalhadamente o assunto, é só em 1976 que, através das modificações introduzidas naquele Regulamento pelo Decreto-Lei n.º 446/76, de 5 de Junho, se determina que o exercício da actividade do técnico responsável será regulamentado por diploma dos Ministérios da Indústria e Tecnologia e do Trabalho. É o que se tem em vista com o estatuto cuja aprovação e entrada em vigor são objectos do presente diploma.\n\nJulgou-se prioritário contemplar o caso da responsabilidade técnica pelas instalações de serviço particular. De facto, as entidades proprietárias ou exploradoras destas não estão vocacionadas para os assuntos do âmbito da electricidade, razão pela qual se torna mais necessária a intervenção de técnicos devidamente habilitados, o que se julga conseguir com o presente instrumento legal.\n\nQuanto às instalações de serviço público, dado o facto de serem exploradas por entidades conhecedoras dos problemas inerentes ao estabelecimento, execução e exploração de instalações eléctricas, o modo de tratar a responsabilização será diferente e tratado em diploma futuro, que poderá aproveitar a experiência da aplicação do presente Estatuto e ter em conta a nova estruturação que se pretende para o sector da energia eléctrica.\n\nNa elaboração do presente Estatuto participaram as organizações mais representativas e procurou-se que não fosse apenas um repositório de obrigações e sanções para os técnicos responsáveis, mas também lhes facultasse os meios legais para fazerem valer os seus pareceres e pontos de vista a favor da qualidade e segurança das instalações eléctricas, com o apoio, como é óbvio, da Direcção-Geral de Energia e dos distribuidores.\n\nAssim:\n\nTendo presente o disposto no n.º 5 do artigo 17.º do Regulamento de Licenças para Instalações Eléctricas, na redacção que lhe foi dada pelo Decreto-Lei n.º 446/76, de 5 de Junho:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "202388039": {
+   "fragment_id": "202402837",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Estatuto do Técnico Responsável por Instalações Eléctricas de Serviço Particular, anexo ao presente decreto regulamentar e que dele faz parte integrante."
+  },
+  "202388040": {
+   "fragment_id": "202402838",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs instalações eléctricas de serviço particular referidas no Estatuto são as definidas no artigo 7.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo Decreto-Lei n.º 26852, de 30 de Junho de 1936, e alterado pelo artigo 18.º do Decreto-Lei n.º 517/80, de 31 de Outubro."
+  },
+  "202388041": {
+   "fragment_id": "202402839",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEnquanto não for regulamentada a actividade de técnico responsável por instalações eléctricas de serviço público, o exercício dessa actividade relativamente aos técnicos que não façam parte dos quadros de pessoal do respectivo distribuidor será regulado, na parte aplicável, pelo Estatuto ora aprovado."
+  },
+  "202388042": {
+   "fragment_id": "202402840",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente decreto regulamentar é aplicável apenas no território do continente e entra em vigor 30 dias após a sua publicação.\n\nFrancisco José Pereira Pinto Balsemão - Luís Alberto Ferrero Morales - Ricardo Manuel Simões Bayão Horta."
+  },
+  "202388044": {
+   "fragment_id": "202402842",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "202388045": {
+   "fragment_id": "202402843",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "202388046": {
+   "fragment_id": "202402844",
+   "type": 11,
+   "heading": "Artigo 1.º — (Objectivo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Objectivo)\n\nO presente Estatuto regulamenta a actividade dos técnicos responsáveis no que diz respeito à elaboração de projectos, à execução e à exploração de instalações eléctricas de serviço particular."
+  },
+  "202388047": {
+   "fragment_id": "202402845",
+   "type": 11,
+   "heading": "Artigo 2.º — (Conceito de técnico responsável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Conceito de técnico responsável)\n\n1 - Consideram-se técnicos responsáveis por instalações eléctricas os indivíduos que, preenchendo os requisitos fixados no presente Estatuto, podem assumir a responsabilidade pelo projecto, pela execução ou pela exploração das referidas instalações.\n\n2 - É permitida a acumulação das qualidades de técnico responsável previstas nos artigos 4.º, 5.º e 6.º do presente Estatuto."
+  },
+  "202388048": {
+   "fragment_id": "202402846",
+   "type": 11,
+   "heading": "Artigo 3.º — (Código deontológico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Código deontológico)\n\nO código deontológico dos técnicos responsáveis (anexo I) faz parte integrante deste Estatuto."
+  },
+  "202388049": {
+   "fragment_id": "202402847",
+   "type": 1,
+   "heading": "Capítulo II — Competência dos técnicos responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Competência dos técnicos responsáveis"
+  },
+  "202388050": {
+   "fragment_id": "202402848",
+   "type": 11,
+   "heading": "Artigo 4.º — (Técnicos responsáveis pelo projecto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Técnicos responsáveis pelo projecto)\n\n1 - Salvo o disposto nos n.os 3 e 4 deste artigo, só podem ser técnicos responsáveis pelo projecto de instalações eléctricas os engenheiros electrotécnicos e os engenheiros técnicos da especialidade de electrotecnia.\n\n2 - Tratando-se de projectos de instalações eléctricas com tensão nominal igual ou superior a 60 kV, para assumir a responsabilidade é indispensável a experiência profissional, no âmbito do assunto versado no projecto, de, pelo menos, 2 anos para os engenheiros e de 4 para os engenheiros técnicos.\n\n3 - Tratando-se de projectos de instalações eléctricas de concepção simples, a responsabilidade pode ser assumida por electricistas que provem ter competência para o efeito e possuam habilitação considerada apropriada.\n\n4 - As instalações eléctricas de concepção simples, a que se refere o número anterior, são as de serviço particular de 5.ª categoria definidas no Regulamento de Licenças para Instalações Eléctricas, de potência total prevista, não afectada de coeficientes, igual ou inferior a 50 kVA, estabelecidas nos seguintes locais:\n\na) Locais residenciais ou de uso profissional;\n\nb) Estabelecimentos recebendo público, com exclusão dos hospitalares e hoteleiros;\n\nc) Estabelecimentos industriais que não comportem locais sujeitos a risco de incêndio ou de explosão;\n\nd) Estabelecimentos agrícolas ou pecuários que não comportem locais sujeitos a risco de incêndio ou de explosão.\n\n5 - Relativamente às competências de técnicos responsáveis pelo projecto referidas nos números anteriores serão atribuídos os seguintes níveis:\n\na) Nível I. - Aos técnicos que possam ser responsáveis pelo projecto de qualquer instalação eléctrica;\n\nb) Nível II. - Aos técnicos que possam ser responsáveis pelo projecto de qualquer instalação eléctrica de tensão nominal inferior a 60 kV;\n\nc) Nível III. - Aos técnicos que possam ser responsáveis pelos projectos das instalações eléctricas referidas nos n.os 3 e 4."
+  },
+  "202388051": {
+   "fragment_id": "202402849",
+   "type": 11,
+   "heading": "Artigo 5.º — (Técnicos responsáveis pela execução)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Técnicos responsáveis pela execução)\n\n1 - Com as limitações constantes dos números seguintes, podem ser técnicos responsáveis pela execução de instalações eléctricas:\n\na) Engenheiros electrotécnicos;\n\nb) Engenheiros técnicos da especialidade de electrotecnia;\n\nc) Electricistas que possuam habilitação considerada apropriada e tenham, pelo menos, 2 anos de experiência;\n\nd) Electricistas com a categoria de oficial, possuidores de carteira profissional passada pelo competente sindicato com data anterior a 30 de Abril de 1981;\n\ne) Electricistas que provem possuir experiência profissional equivalente à dos técnicos referidos na alínea d) e tenham requerido a inscrição até 30 de Abril de 1981.\n\n2 - Os técnicos indicados nas alíneas a) e b) do número anterior podem assumir a responsabilidade por qualquer instalação e ser-lhes-á atribuído, quanto à competência, o nível I.\n\n3 - Os técnicos indicados nas alíneas c), d) e e) podem ser responsáveis por qualquer instalação, desde que não incluam subestações de transformação ou de conversão e redes de alta tensão, e ser-lhes-á atribuído, quanto à competência, o nível II.\n\n4 - Os electricistas referidos nas alíneas d) e e) do n.º 1 só podem assumir responsabilidades no âmbito das respectivas especialidades.\n\n5 - Tratando-se da execução de instalações que compreendam tubos de descarga de tensão em vazio superior a 1 kV, a responsabilidade só pode ser assumida por técnicos que provem ter experiência e competência dentro deste ramo de actividade.\n\n6 - Tratando-se da montagem de elevadores eléctricos, a responsabilidade só pode ser assumida por técnicos que provem ter experiência e competência dentro deste ramo de actividade."
+  },
+  "202388052": {
+   "fragment_id": "202402850",
+   "type": 11,
+   "heading": "Artigo 6.º — (Técnicos responsáveis pela exploração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Técnicos responsáveis pela exploração)\n\n1 - Podem ser técnicos responsáveis pela exploração de instalações eléctricas:\n\na) Engenheiros electrotécnicos;\n\nb) Engenheiros técnicos da especialidade de electrotecnia.\n\n2 - Para instalações de potência nominal até 250 kVA e tensão até 30 kV, a responsabilidade pode ser assumida por electricistas que possuam habilitação considerada apropriada e tenham, pelo menos, 4 anos de experiência comprovada neste âmbito.\n\n3 - Quando a dimensão ou complexidade das instalações eléctricas o justificar, pode haver mais de um técnico responsável pela exploração, devendo um deles exercer as funções de coordenador e considerando-se todos eles solidários na sua responsabilidade.\n\n4 - Relativamente às competências referidas nos n.os 1 e 2, serão atribuídos os seguintes níveis:\n\na) Nível I. - Aos técnicos que possam assumir a responsabilidade pela exploração de qualquer instalação eléctrica;\n\nb) Nível II. - Aos técnicos que possam assumir a responsabilidade pela exploração das instalações eléctricas de potência nominal até 250 kVA e tensão até 30 kV."
+  },
+  "202388053": {
+   "fragment_id": "202402851",
+   "type": 1,
+   "heading": "Capítulo III — Inscrição dos técnicos responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Inscrição dos técnicos responsáveis"
+  },
+  "202388054": {
+   "fragment_id": "202402852",
+   "type": 11,
+   "heading": "Artigo 7.º — (Pedido de inscrição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Pedido de inscrição)\n\n1 - O requerimento para a inscrição do técnico responsável por instalações eléctricas (anexo II-1), dirigido ao director-geral de Energia, deve ser acompanhado de:\n\na) Documento comprovativo das habilitações literárias ou profissionais apropriadas ou ainda documento comprovativo da experiência profissional;\n\nb) Questionário devidamente preenchido, em duplicado (anexo II-2);\n\nc) Ficha de inscrição devidamente preenchida, em quadruplicado (anexo II-3);\n\nd) Impresso do cartão de técnico responsável devidamente preenchido (anexo II-4);\n\ne) Um selo fiscal de 500$00.\n\n2 - Nos casos previstos nos n.os 2 e 3 do artigo 4.º, nos n.os 5 e 6 do artigo 5.º e no n.º 2 do artigo 6.º deverá ser apresentada documentação comprovativa da experiência ou da competência profissionais aí referidas.\n\n3 - Para melhor apreciação do pedido poderão ser solicitados ao requerente outros elementos ou esclarecimentos.\n\n4 - A passagem do nível II ao nível I de competência dos técnicos responsáveis pelo projecto será requerida ao director-geral de Energia, devendo o interessado juntar os documentos comprovativos da experiência profissional exigida no n.º 2 do artigo 4.º"
+  },
+  "202388055": {
+   "fragment_id": "202402853",
+   "type": 11,
+   "heading": "Artigo 8.º — (Comissão de análise e classificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Comissão de análise e classificação)\n\n1 - A comissão de análise e classificação de técnicos responsáveis é constituída por 2 representantes da Direcção-Geral de Energia, 2 representantes de cada um dos grupos profissionais (engenheiros electrotécnicos, engenheiros técnicos da especialidade de electrotecnia e electricistas), 2 representantes dos instaladores, 2 representantes dos distribuidores públicos de energia eléctrica e 1 reresentante do Ministério do Trabalho, licenciado em Direito, nomeados pelo director-geral de Energia nos termos do artigo 34.º, e compete-lhe apreciar e informar os assuntos que lhe forem submetidos pela Direcção-Geral de Energia no âmbito deste Estatuto.\n\n2 - A comissão a que se refere o número anterior reunirá sempre que necessário, mas só poderá deliberar validamente desde que se encontrem presentes, pelo menos, 7 elementos, dos quais 2 serão obrigatoriamente os representantes, da Direcção-Geral de Energia."
+  },
+  "202388056": {
+   "fragment_id": "202402854",
+   "type": 11,
+   "heading": "Artigo 9.º — (Inscrição provisória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Inscrição provisória)\n\n1 - A inscrição na Direcção-Geral de Energia dos técnicos responsáveis pelo projecto, pela execução ou pela exploração de instalações eléctricas, quando não seja comprovada a experiência nestes domínios, será feita a título provisório.\n\n2 - A inscrição provisória referida no número anterior será válida pelo prazo de 2 anos, findo o qual caducará se não for requerida a inscrição definitiva ou a sua prorrogação por mais um período de 2 anos.\n\n3 - A inscrição a título provisório confere ao técnico responsável as mesmas regalias que a inscrição definitiva.\n\n4 - O requerimento referido no n.º 2 (anexo II-5) deverá dar entrada até 60 dias antes do termo do prazo de validade da inscrição provisória.\n\n5 - Os técnicos inscritos provisoriamente são obrigados, sem o que não poderão ser inscritos definitivamente, a enviar à Direcção-Geral de Energia, anualmente, a partir da data de inscrição, relatório circunstanciado dos trabalhos realizados e relação das responsabilidades assumidas durante esse período de tempo (anexo III-1).\n\n6 - O requerimento solicitando a inscrição definitiva deverá ser acompanhado do relatório dos trabalhos realizados (anexo III-1) no período decorrido desde a data do último relatório, apresentado nos termos do número anterior, até à data do requerimento."
+  },
+  "202388057": {
+   "fragment_id": "202402855",
+   "type": 11,
+   "heading": "Artigo 10.º — (Comunicação ao requerente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Comunicação ao requerente)\n\n1 - Dos despachos do director-geral de Energia que recaírem sobre os requerimentos será dado conhecimento, por escrito, ao requerente.\n\n2 - Se o técnico responsável for inscrito definitivamente, ser-lhe-á enviado o cartão de técnico responsável referido no artigo 7.º\n\n3 - Enquanto durar a inscrição provisória, esta será comprovada pela comunicação feita nos termos do n.º 1 deste artigo."
+  },
+  "202388058": {
+   "fragment_id": "202402856",
+   "type": 11,
+   "heading": "Artigo 11.º — (Cadastro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Cadastro)\n\n1 - Na Direcção-Geral de Energia haverá um cadastro, devidamente actualizado, com os elementos respeitantes aos técnicos inscritos e a indicação dos diversos níveis de responsabilidade em cada um dos domínios considerados (projecto, execução, exploração).\n\n2 - Para os técnicos responsáveis pela execução de instalações eléctricas de tubos de descarga de tensão em vazio superior a 1 kV e pela montagem de elevadores eléctricos a Direcção-Geral de Energia organizará cadastros próprios, onde serão anotados todos os elementos respeitantes aos técnicos inscritos.\n\n3 - Além da Direcção-Geral de Energia, os distribuidores públicos de energia eléctrica ou outras entidades encarregadas da fiscalização de instalações eléctricas possuirão um cadastro dos técnicos responsáveis, incluindo os referidos nos n.os 5 e 6 do artigo 5.º, que exerçam a actividade na área da sua actuação.\n\n4 - Para a organização dos cadastros referidos no número anterior, o técnico responsável deve fornecer os elementos necessários à sua organização, nomeadamente o número e data de inscrição na Direcção-Geral de Energia, bem como os domínios e níveis em que está inscrito e os concelhos onde habitualmente exerce a sua actividade.\n\n5 - Os distribuidores públicos de energia eléctrica e outras entidades encarregadas da fiscalização de instalações eléctricas comunicarão à Direcção-Geral de Energia as faltas cometidas pelos técnicos responsáveis de que tenham conhecimento."
+  },
+  "202388059": {
+   "fragment_id": "202402857",
+   "type": 1,
+   "heading": "Capítulo IV — Atribuições e obrigações dos técnicos responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Atribuições e obrigações dos técnicos responsáveis\n\nARTIGO 12.º\n\n(Atribuições gerais)\n\n1 - Dentro da esfera da sua competência, os técnicos responsáveis pelo projecto, pela execução ou pela exploração de instalações eléctricas respondem por tudo o que se prenda com os aspectos técnicos e regulamentares.\n\n2 - Sem prejuízo dos aspectos técnicos e regulamentares referidos no número anterior, sempre predominantes em qualquer tipo de instalação eléctrica, deverão os técnicos procurar a solução mais económica para as instalações.\n\n3 - Na sua qualidade de representantes dos proprietários das instalações eléctricas por que são responsáveis, devem os técnicos, a solicitação da fiscalização do Governo ou dos distribuidores públicos de energia eléctrica, satisfazer todos os pedidos de esclarecimento, incluindo os referentes a eventuais alterações ou correcções ao projecto."
+  },
+  "202388060": {
+   "fragment_id": "202402858",
+   "type": 8,
+   "heading": "Secção I — Do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do projecto"
+  },
+  "202388061": {
+   "fragment_id": "202402859",
+   "type": 11,
+   "heading": "Artigo 13.º — (Obrigações e direitos do técnico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Obrigações e direitos do técnico)\n\n1 - O técnico responsável obriga-se a elaborar o projecto de acordo com a legislação aplicável a cada tipo de instalação e a completá-lo com as condições gerais e especiais do caderno de encargos.\n\n2 - Durante a execução da instalação, o técnico responsável pelo projecto deverá prestar ao responsável pela execução todos os esclarecimentos necessários à sua correcta interpretação. Esta obrigação caduca ao fim de 4 anos, contados da data da entrega do projecto completo ao proprietário, se outro prazo não for fixado no contrato celebrado entre os interessados.\n\n3 - Findo o prazo indicado no número anterior, qualquer esclarecimento ou trabalho complementar do projecto deverá ser confiado ao autor, mediante contrato suplementar. No caso de este o não aceitar ou de não ser possível obter a sua colaboração, poderá ser encarregado outro técnico dessa tarefa.\n\n4 - O técnico responsável pelo projecto poderá, sempre que o entender, visitar a instalação eléctrica durante a sua execução, devendo datar e rubricar a respectiva ficha de execução (anexo III-2), anotando qualquer observação, se for caso disso.\n\n5 - Sempre que lhe for solicitado pelo proprietário, o técnico responsável pelo projecto apresentará uma estimativa do custo da instalação eléctrica, bem como os pormenores técnicos necessários à conveniente execução dos trabalhos.\n\n6 - A responsabilidade do técnico responsável termina com a aprovação do projecto ou 2 anos após a sua entrega ao proprietário da Instalação eléctrica, caso o mesmo não seja submetido a aprovação.\n\n7 - Quaisquer alterações ao projecto durante o período em que vigorar a responsabilidade do técnico deverão ser feitas por ele ou ter o seu parecer favorável, por escrito."
+  },
+  "202388062": {
+   "fragment_id": "202402860",
+   "type": 8,
+   "heading": "Secção II — Da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da execução"
+  },
+  "202388063": {
+   "fragment_id": "202402861",
+   "type": 11,
+   "heading": "Artigo 14.º — (Obrigações e direitos do técnico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Obrigações e direitos do técnico)\n\n1 - Durante a execução da instalação eléctrica, o respectivo técnico responsável deve acompanhar de perto o andamento dos trabalhos, por forma a ser assegurado o cumprimento das disposições regulamentares de segurança em vigor e das boas regras da técnica e respeitado o projecto, quando exista.\n\n2 - De acordo com o disposto no n.º 7 do artigo anterior, o técnico responsável pela execução não poderá alterar o projecto sem o parecer favorável, por escrito, do seu autor.\n\n3 - Durante a execução da instalação, o respectivo técnico responsável deverá fazer, pelo menos, as inspecções e medições seguintes:\n\na) Verificação do correcto estabelecimento dos eléctrodos de terra, incluindo as ligações aos circuitos de protecção;\n\nb) Medição da resistência de contacto dos eléctrodos de terra;\n\nc) Verificação da qualidade e da cuidadosa execução das ligações da aparelhagem;\n\nd) Verificação e ensaio dos sistemas de protecção de pessoas e das protecções contra sobreintensidades e sobretensões, quando existam.\n\n4 - Tratando-se de instalações de utilização de energia eléctrica e de instalações colectivas de edifícios e entradas, deverá o técnico responsável efectuar as seguintes verificações:\n\na) Traçado das colunas e localização dos quadros e portinholas;\n\nb) Estabelecimento das tubagens ou enterramento dos cabos;\n\nc) Enfiamento dos condutores.\n\n5 - Tratando-se de outras instalações, deverão efectuar-se as verificações adequadas às suas características e especificidade.\n\n6 - Concluída, a execução da instalação, deverá o respectivo técnico responsável proceder a uma inspecção final, verificando se ela satisfaz a todos as prescrições de segurança regulamentares e regras de técnica, fazendo as medições e ensaios necessários à verificação daquelas condições, nomeadamente as previstas na regulamentação de segurança. Esta inspecção deve, em regra, ser acompanhada pelo técnico responsável pela exploração, se o houver.\n\n7 - No local da obra, e durante a sua execução, é obrigatória a existência da ficha de execução da instalação (anexo III-2), onde serão anotadas todas as inspecções referidas nos números anteriores, bem como quaisquer outras que o técnico considere úteis.\n\n8 - A ficha a que se refere o número anterior deverá acompanhar o pedido de vistoria da instalação eléctrica.\n\n9 - A responsabilidade do técnico pela execução da instalação eléctrica durará até à sua aprovação definitiva, sem prejuízo das disposições legais aplicáveis, nomeadamente as do Código Civil sobre empreitadas e as do Código Penal sobre acidentes por negligência.\n\n10 - No caso de haver um técnico encarregado da fiscalização da instalação eléctrica por parte do proprietário, ele deverá ser, de preferência:\n\na) O técnico responsável pelo projecto, se se tratar de uma instalação nova;\n\nb) O técnico responsável pela exploração, se se tratar da modificação de uma instalação eléctrica já em exploração."
+  },
+  "202388064": {
+   "fragment_id": "202402862",
+   "type": 8,
+   "heading": "Secção III — Da exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da exploração"
+  },
+  "202388065": {
+   "fragment_id": "202402863",
+   "type": 11,
+   "heading": "Artigo 15.º — (Inspecções da instalação eléctrica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Inspecções da instalação eléctrica)\n\n1 - O técnico responsável pela exploração deverá inspeccionar a instalação eléctrica com a frequência exigida pelas características da exploração, no mínimo 2 vezes por ano, a fim de proceder às verificações, ensaios e medições regulamentares. As 2 inspecções obrigatórias devem ser feitas, uma durante os meses de Verão e outra durante os meses de Inverno.\n\n2 - O número de inspecções, para além das 2 anuais obrigatórias a que se refere o número anterior, deve constar do contrato de prestação de serviços (anexo IV) e ter em conta a sua complexidade e a perigosidade da sua exploração.\n\n3 - Além das inspecções indicadas nos números anteriores, o técnico responsável deverá efectuar visitas técnicas a solicitação justificada da entidade exploradora."
+  },
+  "202388066": {
+   "fragment_id": "202402864",
+   "type": 11,
+   "heading": "Artigo 16.º — (Instalações irregulares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Instalações irregulares)\n\n1 - Sempre que o técnico responsável pela exploração detectar deficiências anti-regulamentares, delas dará conhecimento, por escrito, à entidade exploradora da instalação, com vista à sua eliminação dentro de um prazo compatível com a importância e natureza daquelas, que para o efeito fixará. Quando as deficiências colidam notoriamente com a segurança de pessoas e coisas, devem ser rapidamente eliminadas.\n\n2 - Se, nos casos referidos na parte final do número anterior, findo o prazo fixado, a entidade exploradora não tiver eliminado as deficiências indicadas pelo técnico, deverá este dar conhecimento do facto à fiscalização do Governo."
+  },
+  "202388067": {
+   "fragment_id": "202402865",
+   "type": 11,
+   "heading": "Artigo 17.º — (Ampliações das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Ampliações das instalações)\n\nAs ampliações da instalação eléctrica carecem do parecer favorável do técnico responsável pela exploração nos aspectos relacionados com as disposições regulamentares de segurança e com as boas regras da técnica."
+  },
+  "202388068": {
+   "fragment_id": "202402866",
+   "type": 11,
+   "heading": "Artigo 18.º — (Mapas estatísticos e outra documentação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Mapas estatísticos e outra documentação)\n\n1 - Os mapas estatísticos, a enviar anualmente à Direcção-Geral de Energia no prazo legalmente estabelecido, deverão ser verificados e devidamente assinados pelo técnico responsável para o fim designado.\n\n2 - Quaisquer documentos a incluir nos processos que digam respeito à responsabilidade do técnico devem ser por si visados ou assinados, nomeadamente os requerimentos de licença, de vistoria, de pedidos de prorrogação de prazo e de anulação de cláusulas."
+  },
+  "202388069": {
+   "fragment_id": "202402867",
+   "type": 11,
+   "heading": "Artigo 19.º — (Esclarecimentos a prestar pelo técnico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Esclarecimentos a prestar pelo técnico)\n\nO técnico responsável pela exploração da instalação eléctrica deve esclarecer a entidade exploradora sobre o cumprimento das cláusulas impostas pela fiscalização técnica do Governo, seus delegados mandatados ou distribuidor público de energia eléctrica, nos aspectos técnicos e de segurança."
+  },
+  "202388070": {
+   "fragment_id": "202402868",
+   "type": 11,
+   "heading": "Artigo 20.º — (Acidente por acção da corrente eléctrica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Acidente por acção da corrente eléctrica)\n\n1 - Quando na instalação ocorrer algum acidente por acção da corrente eléctrica, o técnico responsável pela exploração participará o facto à fiscalização do Governo, através da competente participação de acidente (anexo III-4).\n\n2 - A fim de minorar as consequências de acidentes por acção da corrente eléctrica, o técnico responsável deve providenciar para que existam, em local adequado, as instruções de primeiros socorros e o equipamento indispensável à sua observância, bem como prestar os esclarecimentos necessários à sua utilização.\n\n3 - O técnico responsável deverá fazer formação em segurança do pessoal afecto à execução e exploração da instalação eléctrica pelo menos de 2 em 2 anos."
+  },
+  "202388071": {
+   "fragment_id": "202402869",
+   "type": 11,
+   "heading": "Artigo 21.º — (Vistoria da instalação eléctrica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Vistoria da instalação eléctrica)\n\n1 - O técnico responsável pela exploração deverá acompanhar a fiscalização do Governo, ou seus delegados mandatados, na vistoria à instalação eléctrica.\n\n2 - Em casos justificados, o técnico responsável pela exploração poderá fazer-se substituir na vistoria da instalação por um delegado devidamente qualificado e credenciado para o efeito.\n\n3 - O delegado referido no número anterior deverá, em regra, estar inscrito na Direcção-Geral de Energia para o tipo de instalação em causa."
+  },
+  "202388072": {
+   "fragment_id": "202402870",
+   "type": 11,
+   "heading": "Artigo 22.º — (Projecto da instalação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Projecto da instalação)\n\nO técnico responsável pela exploração deve providenciar para que no recinto servido pela instalação eléctrica exista sempre, devidamente actualizado, o respectivo projecto."
+  },
+  "202388073": {
+   "fragment_id": "202402871",
+   "type": 1,
+   "heading": "Capítulo V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V\n\nDas relações entre a entidade exploradora da instalação eléctrica e o técnico responsável pela exploração."
+  },
+  "202388074": {
+   "fragment_id": "202402872",
+   "type": 11,
+   "heading": "Artigo 23.º — (Princípios gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Princípios gerais)\n\n1 - A entidade exploradora da instalação eléctrica e o técnico responsável estabelecerão entre si um programa das tarefas a desempenhar e o respectivo calendário e celebrarão, obrigatoriamente, um contrato escrito de prestação de serviços (anexo IV).\n\n2 - No caso de o técnico responsável pertencer ao quadro técnico da entidade exploradora das instalações, o contrato de prestação de serviços referido no número anterior poderá constituir um complemento do seu contrato normal de trabalho, sem prejuízo da sua autonomia."
+  },
+  "202403575": {
+   "fragment_id": "202402873",
+   "type": 11,
+   "heading": "Artigo 24.º — (Obrigações da entidade exploradora)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Obrigações da entidade exploradora)\n\n1 - A entidade exploradora da instalação eléctrica deve cumprir todas as indicações dadas pelo técnico responsável no que respeita aos aspectos relacionados com as disposições regulamentares de segurança e com as boas regras da técnica, especialmente quando se trate de eliminar quaisquer deficiências que atentem ou possam vir a atentar contra a segurança de pessoas ou coisas.\n\n2 - A entidade exploradora da instalação eléctrica não deverá efectuar quaisquer modificações, mesmo não estruturais, sem prévio conhecimento e acordo do técnico responsável pela exploração no que respeita aos aspectos regulamentares de segurança e boas regras da técnica.\n\n3 - A entidade exploradora da instalação eléctrica deverá permitir que a mesma seja visitada, inspeccionada e ensaiada pelo técnico responsável sempre que este o considere necessário ao seu regular e normal funcionamento, para o que porá à sua disposição os elementos e meios indispensáveis ao bom desempenho das suas funções.\n\n4 - A entidade exploradora da instalação eléctrica deverá participar ao técnico responsável todos os acidentes que, por acção da corrente eléctrica, ali ocorram, sem prejuízo das participações obrigatórias referidas no artigo 146.º do Decreto-Lei n.º 43335, de 19 de Novembro de 1960."
+  },
+  "202403576": {
+   "fragment_id": "202402874",
+   "type": 1,
+   "heading": "Capítulo VI — Relações entre o técnico responsável e a Direcção-Geral de Energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Relações entre o técnico responsável e a Direcção-Geral de Energia"
+  },
+  "202403577": {
+   "fragment_id": "202403675",
+   "type": 11,
+   "heading": "Artigo 25.º — (Obrigatoriedade de inscrição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Obrigatoriedade de inscrição)\n\nPara o exercício da sua actividade, o técnico responsável deverá estar inscrito na Direcção-Geral de Energia, nas condições estabelecidas no capítulo III do presente Estatuto."
+  },
+  "202403578": {
+   "fragment_id": "202403676",
+   "type": 11,
+   "heading": "Artigo 26.º — (Relatório anual)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Relatório anual)\n\n1 - O técnico responsável pela exploração da instalação eléctrica deverá enviar anualmente à fiscalização do Governo, excepto no caso referido no artigo 29.º, um relatório (anexo III-3) mencionando os resultados das medidas e ensaios efectuados e informando sobre o estado geral das instalações e sobre as recomendações que formulou tendentes à eliminação das deficiências que eventualmente existam.\n\n2 - O relatório a que se refere o número anterior deverá igualmente ser apresentado quando o técnico assuma a responsabilidade pela exploração de uma instalação eléctrica e quando o contrato de prestação de serviços cesse antes do prazo estabelecido.\n\n3 - O prazo de 1 ano referido no n.º 1 é contado a partir da data em que o técnico responsável assuma as suas funções."
+  },
+  "202403579": {
+   "fragment_id": "202403677",
+   "type": 11,
+   "heading": "Artigo 27.º — (Relações de responsabilidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Relações de responsabilidades)\n\n1 - O técnico responsável pela exploração de instalações eléctricas deverá enviar à Direcção-Geral de Energia, até ao dia 31 de Janeiro de cada ano, uma relação das instalações de que foi responsável no ano anterior, elaborada nos moldes do anexo III-5.\n\n2 - Aos técnicos responsáveis pelo projecto ou pela execução de instalações eléctricas poderá ser exigido pela Direcção-Geral de Energia o envio da relação dos trabalhos executados durante o ano em modelo semelhante ao do anexo III-5, com as convenientes adaptações."
+  },
+  "202403580": {
+   "fragment_id": "202403678",
+   "type": 1,
+   "heading": "Capítulo VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII\n\nRelações entre os técnicos responsáveis pela exploração de instalações eléctricas de serviço particular e o distribuidor público de energia eléctrica."
+  },
+  "202403581": {
+   "fragment_id": "202403679",
+   "type": 11,
+   "heading": "Artigo 28.º — (Alterações das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Alterações das instalações)\n\nSempre que qualquer alteração de instalações eléctricas interfira ou possa vir a interferir com a rede de distribuição, designadamente aumentos de potência e montagem de centrais eléctricas, compete ao técnico responsável pela exploração, como representante da entidade exploradora e com o seu acordo, dar conhecimento prévio ao respectivo distribuidor."
+  },
+  "202403582": {
+   "fragment_id": "202403680",
+   "type": 11,
+   "heading": "Artigo 29.º — (Relatório anual)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Relatório anual)\n\nO relatório a que se refere o artigo 26.º será enviado ao distribuidor público de energia eléctrica sempre que a fiscalização da respectiva instalação seja da competência deste."
+  },
+  "202403583": {
+   "fragment_id": "202403681",
+   "type": 1,
+   "heading": "Capítulo VIII — Sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Sanções disciplinares"
+  },
+  "202403584": {
+   "fragment_id": "202403682",
+   "type": 11,
+   "heading": "Artigo 30.º — (Sanções aplicáveis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Sanções aplicáveis)\n\n1 - Os técnicos responsáveis por instalações eléctricas estão sujeitos às seguintes sanções disciplinares, em função da gravidade das faltas cometidas:\n\na) Advertência por escrito;\n\nb) Multa de 1000$00 a 5000$00;\n\nc) Multa de 5000$00 a 20000$00, em caso de reincidência;\n\nd) Suspensão do exercício da actividade até 1 ano;\n\ne) Suspensão do exercício da actividade por período superior a 1 ano, até ao máximo de 5 anos.\n\n2 - A pena de suspensão do exercício da actividade pode ter lugar no caso de a frequência de infracções inculcar negligência habitual do cumprimento das obrigações como técnico responsável ou em casos considerados graves, nomeadamente quando da infracção resultem consequências que afectem ou ponham em risco a segurança de pessoas ou coisas.\n\n3 - Consoante a gravidade da infracção, a pena de suspensão do exercício da actividade poderá ser limitada à instalação onde tenha sido cometida a infracção ou determinar a impossibilidade da actividade de técnico responsável em um ou mais domínios de responsabilidade."
+  },
+  "202403585": {
+   "fragment_id": "202403683",
+   "type": 11,
+   "heading": "Artigo 31.º — (Comissões disciplinares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Comissões disciplinares)\n\n1 - As comissões disciplinares, a nível regional, constituídas por 2 representantes do respectivo serviço regional da Direcção-Geral de Energia, 1 representante de cada grupo ou classe profissional (engenheiros electrotécnicos, engenheiros técnicos da especialidade de electrotecnia e electricistas), 1 representante dos instaladores, 1 representante dos distribuidores públicos de energia eléctrica e 1 representante do Ministério do Trabalho, licenciado em Direito, nomeados pelo director do serviço regional da Direcção-Geral de Energia, nos termos do artigo 34.º, apreciarão e informarão as acusações de infracções cometidas pelos técnicos responsáveis às prescrições do presente Estatuto que lhes sejam submetidas pelos serviços regionais da Direcção-Geral de Energia e proporão as sanções a aplicar.\n\n2 - As comissões referidas no número anterior terão áreas de actuação coincidentes com as áreas de jurisdição dos serviços regionais da Direcção-Geral de Energia.\n\n3 - As comissões a que se refere o n.º 1 reunirão sempre que necessário, mas as suas deliberações só serão válidas desde que estejam presentes um mínimo de 5 elementos, 3 dos quais serão obrigatoriamente 1 dos representantes do serviço regional da Direcção-Geral de Energia, o representante do Ministério do Trabalho e o representante do grupo ou classe profissional do técnico arguido."
+  },
+  "202403586": {
+   "fragment_id": "202403684",
+   "type": 11,
+   "heading": "Artigo 32.º — (Competência para a aplicação de sanções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Competência para a aplicação de sanções)\n\n1 - Para a aplicação das penas previstas no artigo 30.º é competente o director do serviço regional da Direcção-Geral de Energia da área onde foi cometida a infracção, mediante processo disciplinar, com audição obrigatória do arguido, em termos de lhe ser proporcionada a sua defesa.\n\n2 - As sanções previstas nas alíneas d) e e) do n.º 1 do artigo 30.º só podem ser aplicadas após a audição da comissão disciplinar.\n\n3 - Da aplicação das sanções referidas no número anterior cabe recurso para o director-geral de Energia."
+  },
+  "202403587": {
+   "fragment_id": "202403685",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições gerais e transitórias"
+  },
+  "202403588": {
+   "fragment_id": "202403686",
+   "type": 11,
+   "heading": "Artigo 33.º — (Passagem de cartão aos técnicos já inscritos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Passagem de cartão aos técnicos já inscritos)\n\n1 - Os técnicos responsáveis inscritos na Direcção-Geral de Energia à data de entrada em vigor deste Estatuto deverão requerer a passagem do cartão a que se refere a alínea d) do n.º 1 do artigo 7.º (anexo II-4). O cartão deverá ser devidamente preenchido e acompanhado de um selo fiscal de 500$00.\n\n2 - Aos engenheiros electrotécnicos e aos engenheiros técnicos da especialidade de electrotecnia inscritos antes de 1 de Junho de 1976 ser-lhes-á atribuído o nível I em todos os domínios e aos restantes técnicos o nível II.\n\n3 - Aos técnicos responsáveis inscritos entre a data indicada no número anterior e a data da entrada em vigor do presente Estatuto ser-lhes-ão atribuídos os seguintes níveis:\n\na) Projecto:\n\nNível II. - Aos engenheiros electrotécnicos e engenheiros técnicos da especialidade de electrotecnia;\n\nb) Execução:\n\nNível I. - Aos engenheiros electrotécnicos e engenheiros técnicos da especiadade de electrotecnia;\n\nNível II. - Aos electricistas referidos nas alíneas c), d) e e) do n.º 1 do artigo 5.º;\n\nc) Exploração:\n\nNível I. - Aos engenheiros electrotécnicos e engenheiros técnicos da especialidade de electrotecnia;\n\nNível II. - Aos electricistas referidos no n.º 2 do artigo 6.º\n\n4 - É mantida a faculdade de assinar termos de responsabilidade aos indivíduos que, à data da publicação do presente Estatuto, eram considerados habilitados para o fazer e se encontrem inscritos na Direcção-Geral de Energia."
+  },
+  "202403589": {
+   "fragment_id": "202403687",
+   "type": 11,
+   "heading": "Artigo 34.º — (Regulamento das comissões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Regulamento das comissões)\n\nO funcionamento das comissões referidas nos artigos 8.º e 31.º e a forma de designação dos elementos que as constituem serão objecto de regulamento a aprovar pelo director-geral de Energia, depois de ouvidas as entidades nelas representadas."
+  },
+  "202403590": {
+   "fragment_id": "202403688",
+   "type": 11,
+   "heading": "Artigo 35.º — (Prova de conhecimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Prova de conhecimentos)\n\n1 - Os técnicos que não possuam os requisitos fixados nos artigos 5.º e 6.º poderão ser inscritos como responsáveis pela execução ou exploração de instalações eléctricas desde que demonstrem, em provas especiais de avaliação, possuir os conhecimentos adequados.\n\n2 - A forma como é feita a prova dos conhecimentos referidos no número anterior será objecto de portaria do Ministro da Indústria, Energia e Exportação, depois de ouvida a Direcção-Geral do Ensino Secundário."
+  },
+  "202403591": {
+   "fragment_id": "202403689",
+   "type": 11,
+   "heading": "Artigo 36.º — (Habilitações apropriadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Habilitações apropriadas)\n\n1 - Para os efeitos previstos no n.º 3 do artigo 4.º, na alínea c) do n.º 1 do artigo 5.º e no n.º 2 do artigo 6.º, consideram-se, desde já, como habilitações apropriadas os cursos constantes do anexo V.\n\n2 - Por despacho do Ministro da Indústria, Energia e Exportação, depois de ouvida a Direcção-Geral do Ensino Secundário, poderão ser consideradas apropriadas outras habilitações."
+  },
+  "202403592": {
+   "fragment_id": "202403690",
+   "type": 11,
+   "heading": "Artigo 37.º — (Engenheiros técnicos electromecânicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Engenheiros técnicos electromecânicos)\n\nPara efeitos da aplicação do presente Estatuto, considera-se equivalente à especialidade de electrotecnia o curso de electrotecnia e máquinas a que corresponde a designação profissional de engenheiro técnico electromecânico."
+  },
+  "202403593": {
+   "fragment_id": "202403691",
+   "type": 11,
+   "heading": "Artigo 38.º — (Desacordo entra a entidade exploradora e o técnico responsável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Desacordo entra a entidade exploradora e o técnico responsável)\n\nNa eventualidade de desacordo entre a entidade exploradora da instalação eléctrica e o técnico responsável, nomeadamente nos casos referidos no n.º 7 do artigo 13.º, no n.º 2 do artigo 14.º, no artigo 17.º, nos n.os 1 e 2 do artigo 24.º e no artigo 28.º, deverá ser ouvida a fiscalização do Governo."
+  },
+  "202403594": {
+   "fragment_id": "202403692",
+   "type": 14,
+   "heading": "Anexo I — CÓDIGO DEONTOLÓGICO DOS TÉCNICOS RESPONSÁVEIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — CÓDIGO DEONTOLÓGICO DOS TÉCNICOS RESPONSÁVEIS\n\n1. - RESPONSABILIDADE GERAL NO EXERCÍCIO DA PROFISSÃO\n\n1.1 - O Técnico Responsável deve abster-se de aceitar trabalhos cuja execução exija mais tempo do que aquele de que dispõe ou ultrapasse a sua competência.\n\n1.2 - O Técnico Responsável deve ponderar a economia e a qualidade das instalações que projecte ou de que seja responsável, tendo plena consciência de que é um dos elementos responsáveis pela organização em que se insere.\n\n1.3 - O Técnico Responsável deve opor-se à utilização fraudulenta do resultado do seu trabalho e não colaborar na fabricação, venda ou utilização de materiais que contrariem as disposições regulamentares, a segurança ou interesses da comunidade.\n\n1.4 - O Técnico Responsável deve opor-se à utilização de meios desleais na concorrência e adoptará a sobriedade no anúncio dos seus serviços profissionais.\n\n1.5 - O Técnico Responsável nas soluções técnicas que propuser e adoptar, deve sempre seguir as normas de segurança para o pessoal executante, para os utilizadores e para o público em geral.\n\n1.6 - O Técnico Responsável deve tomar em consideração nas soluções técnicas que propuser ou adoptar a protecção do meio ambiente e dos recursos naturais renováveis sempre que estes estiverem em causa.\n\n2. - RELAÇÕES ENTRE OS TÉCNICOS\n\n2.1 - O Técnico Responsável deve, nas suas relações com os colegas, actuar sempre com boa fé, com inteira lealdade e em conformidade com os preceitos da deontologia profissional.\n\n2.2 - O Técnico Responsável deve empenhar-se em não prejudicar, directa ou indirectamente, a reputação profissional, ou as actividades profissionais de outros técnicos.\n\n2.3 - O Técnico Responsável deve empenhar-se em que não sejam menosprezados os trabalhos de outros colegas, devendo apreciá-los com elevação e apenas no aspecto profissional.\n\n2.4 - O Técnico Responsável deve prestar aos colegas toda a colaboração possível, de modo a fazer tudo ao seu alcance para que o trabalho de todos tenha o maior êxito e seja prestigiado.\n\n2.5 - O Técnico Responsável não concorrerá deslealmente com colegas na obtenção de trabalhos ou responsabilidades, nomeadamente:\n\n- Não aceitará honorários abaixo dos mínimos fixados por tabelas oficiais nem reduzirá honorários, nem abdicará de direitos legítimos após conhecimento de propostas de outros profissionais.\n\n- Não se servirá de vantagens resultantes de utilização ilegítima de cargos que exerça.\n\n2.6 - O Técnico Responsável deve recusar substituir um colega quando as razões dessa substituição não forem correctas, nunca o fazendo sem o seu acordo prévio ou o da Comissão de Análise e Classificação de Técnicos Responsáveis no caso de haver litígio a tal respeito.\n\n2.7 - O Técnico Responsável deve recusar proceder à revisão, alteração ou continuação dos trabalhos de outro colega sem prévio acordo deste ou, na sua falta, do da Comissão de Análise e Classificação de Técnicos Responsáveis, enquanto não tiver terminado o compromisso desse colega nos trabalhos em causa.\n\nTodavia, mesmo que esteja satisfeito o compromisso, deve comunicar a esse colega que o seu trabalho vai por ele ser revisto, alterado ou continuado.\n\n2.8 - O Técnico Responsável deve levar ao conhecimento da Comissão de Análise e Classificação de Técnicos Responsáveis, justificada e responsavelmente, actuações contrárias aos preceitos da deontologia profissional, informando do facto o colega em causa, sempre que possível previamente.\n\n3. - RELAÇÕES COM OS PROPRIETÁRIOS OU UTILIZADORES DAS INSTALAÇÕES, EMPREITEIROS E FORNECEDORES\n\n3.1 - O Técnico Responsável deve nas suas relações profissionais usar de inteira lealdade, procurando dar aos problemas as melhores soluções técnicas e económicas sem lesar os legítimos direitos dos intervenientes.\n\n3.2 - É obrigação do Técnico Responsável contribuir para a realização dos objectivos económico-sociais dos empreendimentos em que coopera.\n\n3.3 - O Técnico Responsável deve abster-se de exercer actividades concorrentes com as do seu empregador.\n\n3.4 - O Técnico Responsável apenas deve apresentar-se a concursos públicos ou privados, para prestação de serviços da sua competência, quando aqueles sejam abertos em condições que não contrariem o Estatuto do Técnico Responsável.\n\n3.5 - O Técnico Responsável só deve assinar os pareceres, projectos ou outros trabalhos profissionais desde que seja seu autor ou orientador-coordenador.\n\n3.6 - O Técnico Responsável deve prestar os seus serviços com diligência e pontualidade, nunca abandonando, sem justificação, os trabalhos ou cargos que lhe estejam confiados.\n\n3.7 - O Técnico Responsável não retardará injustificadamente a emissão de documentos que habilitem os empreiteiros ou fornecedores a cobrar os seus serviços ou a exercerem as suas actividades.\n\n3.8 - O Técnico Responsável não receberá, da parte de fornecedores ou empreiteiros, quaisquer benefícios, percentagens ou comissões sobre fornecimentos.\n\n3.9 - O Técnico Responsável deve recusar a execução de trabalhos ou colaboração sobre os quais saiba que terá de pronunciar-se no exercício de outras funções.\n\n4. - RELAÇÕES COM COLABORADORES\n\n4.1 - O Técnico Responsável deve, nos trabalhos ou nos serviços de que está encarregado, actuar, no que se refere às suas relações com colaboradores, de forma a eliminar ou impedir a prática de qualquer discriminação.\n\n4.2 - O Técnico Responsável deve promover a aplicação das técnicas de prevenção e segurança no trabalho, cooperando no alargamento e melhoria dessas técnicas.\n\n4.3 - O Técnico Responsável deve avaliar com objectividade o trabalho dos seus colaboradores, contribuindo, sempre que possível, para a sua valorização e promoção profissionais.\n\n5. - SEGREDO PROFISSIONAL\n\n5.1 - O Técnico Responsável não divulgará nem utilizará segredos profissionais nem informações científicas e técnicas obtidas no exercício das suas funções na medida em que disso possam vir a resultar prejuízos para os autores das descobertas correspondentes ou para os seus legítimos detentores.\n\n5.2 - O Técnico Responsável procederá, no que respeita às políticas das empresas, com o mesmo espírito com que deve encarar os segredos científicos e técnicos.\n\n6. - REMUNERAÇÕES\n\n6.1 - O Técnico Responsável deve ser remunerado apenas por serviços que efectivamente preste e na proporção do seu justo valor, não praticando dicotomia de honorários ou outra forma de distribuição destes.\n\n6.2 - O Técnico Responsável deve recusar a sua colaboração em trabalhos cujo pagamento esteja dependente dos seus resultados confirmarem uma conclusão pré-determinada ou demonstrarem a viabilidade económica de um empreendimento.\n\n7. - PERITAGEM E ARBITRAGEM\n\n7.1 - O Técnico Responsável deve, ao emitir pareceres profissionais, fazê-lo com objectividade e isenção.\n\n7.2 - O Técnico Responsável deve, quando testemunhar perante tribunal ou inquiridor, exprimir apenas opiniões fundamentadas em conhecimentos técnicos adequados e com honesta convicção.\n\n8. - ACTIVIDADE ASSOCIATIVA E PROFISSIONAL\n\n8.1 - O Técnico Responsável deve, na sua actividade associativa profissional actuar no sentido de promover o desenvolvimento da técnica e a melhor aplicação desta ao progresso económico-social da comunidade de que faz parte.\n\n8.2 - O Técnico Responsável deve, nas associações profissionais a que aderir, manter o prestígio da profissão por uma conduta irrepreensível e pelo valor da sua colaboração."
+  },
+  "202403595": {
+   "fragment_id": "202403693",
+   "type": 14,
+   "heading": "Anexo II-1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II-1\n\n(ver documento original)"
+  },
+  "202403596": {
+   "fragment_id": "202403694",
+   "type": 14,
+   "heading": "Anexo II-2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II-2\n\n(ver documento original)"
+  },
+  "202403597": {
+   "fragment_id": "202403695",
+   "type": 14,
+   "heading": "Anexo II-3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II-3\n\n(ver documento original)"
+  },
+  "202403598": {
+   "fragment_id": "202403696",
+   "type": 14,
+   "heading": "Anexo II-4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II-4\n\n(ver documento original)"
+  },
+  "202403599": {
+   "fragment_id": "202403697",
+   "type": 14,
+   "heading": "Anexo II-5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II-5\n\n(ver documento original)"
+  },
+  "202403600": {
+   "fragment_id": "202403698",
+   "type": 14,
+   "heading": "Anexo III-1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III-1\n\n(ver documento original)"
+  },
+  "202403601": {
+   "fragment_id": "202403699",
+   "type": 14,
+   "heading": "Anexo III-2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III-2\n\n(ver documento original)"
+  },
+  "202403602": {
+   "fragment_id": "202403700",
+   "type": 14,
+   "heading": "Anexo III-3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III-3\n\n(ver documento original)"
+  },
+  "202403603": {
+   "fragment_id": "202403701",
+   "type": 14,
+   "heading": "Anexo III-4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III-4\n\n(ver documento original)"
+  },
+  "202403604": {
+   "fragment_id": "202403702",
+   "type": 14,
+   "heading": "Anexo III-5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III-5\n\n(ver documento original)"
+  },
+  "202403605": {
+   "fragment_id": "202403703",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV\n\n(ver documento original)"
+  },
+  "202403606": {
+   "fragment_id": "202403704",
+   "type": 14,
+   "heading": "Anexo V — HABILITAÇÕES CONSIDERADAS APROPRIADAS:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — HABILITAÇÕES CONSIDERADAS APROPRIADAS:\n\n1 - CURSOS DE ESTABELECIMENTOS DE ENSINO CIVIS:\n\n1.1 - Ao abrigo do disposto no Decreto n.º 20420, de 20/10/1931:\n\nCurso de electricista.\n\n1.2 - Ao abrigo do disposto no Decreto n.º 37029, de 25/8/1948:\n\nCurso Complementar de Aprendizagem de Electricista;\n\nCurso de Formação de Montador-Electricista;\n\nCurso de Formação de Electromecânico.\n\n1.3 - Ao abrigo do disposto no Decreto-Lei n.º 47587, de 10/3/1967:\n\nCurso Geral de Electricidade;\n\nCurso Complementar de Electrotecnia;\n\nCurso Complementar de Radiotecnia.\n\n1.4 - Ao abrigo do disposto no Decreto-Lei n.º 240/80, de 19/6/1980:\n\nCurso de Desenhador Projectista Electrotécnico;\n\nCurso Técnico de Instalações Eléctricas.\n\n2 - CURSOS DE ESTABELECIMENTOS DE ENSINO MILITARES:\n\nCurso de chefe de mecânico do ramo eléctrico;\n\nCurso de 1.º mecânico do ramo eléctrico;\n\nCurso de 2.º mecânico do ramo eléctrico;\n\nCurso de técnica complementar (CTC) das Escolas da Armada;\n\nCurso de formação técnica de electricistas (CFTE) das Escolas da Armada;\n\nCurso de 1.º grau de electricista das Escolas da Armada."
+  },
+  "202388038": {
+   "fragment_id": "202402836",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 31/83\n\nde 18 de Abril\n\nRemonta aos princípios do século a primeira referência à responsabilidade técnica por instalações eléctricas. De facto, o Decreto de 30 de Novembro de 1912, no seu artigo 31.º, § 2.º, estabelece: «Os desenhos e peças escritas devem ser elaborados e assinados por um engenheiro devidamente habilitado, que deve juntar ao projecto um documento reconhecido por notário, no qual declare responsabilizar-se pela execução dos trabalhos e pela exploração das instalações.»\n\nEmbora o Regulamento de Licenças para Instalações Eléctricas, aprovado pelo Decreto-Lei n.º 26852, de 30 de Julho de 1936, tenha retomado mais detalhadamente o assunto, é só em 1976 que, através das modificações introduzidas naquele Regulamento pelo Decreto-Lei n.º 446/76, de 5 de Junho, se determina que o exercício da actividade do técnico responsável será regulamentado por diploma dos Ministérios da Indústria e Tecnologia e do Trabalho. É o que se tem em vista com o estatuto cuja aprovação e entrada em vigor são objectos do presente diploma.\n\nJulgou-se prioritário contemplar o caso da responsabilidade técnica pelas instalações de serviço particular. De facto, as entidades proprietárias ou exploradoras destas não estão vocacionadas para os assuntos do âmbito da electricidade, razão pela qual se torna mais necessária a intervenção de técnicos devidamente habilitados, o que se julga conseguir com o presente instrumento legal.\n\nQuanto às instalações de serviço público, dado o facto de serem exploradas por entidades conhecedoras dos problemas inerentes ao estabelecimento, execução e exploração de instalações eléctricas, o modo de tratar a responsabilização será diferente e tratado em diploma futuro, que poderá aproveitar a experiência da aplicação do presente Estatuto e ter em conta a nova estruturação que se pretende para o sector da energia eléctrica.\n\nNa elaboração do presente Estatuto participaram as organizações mais representativas e procurou-se que não fosse apenas um repositório de obrigações e sanções para os técnicos responsáveis, mas também lhes facultasse os meios legais para fazerem valer os seus pareceres e pontos de vista a favor da qualidade e segurança das instalações eléctricas, com o apoio, como é óbvio, da Direcção-Geral de Energia e dos distribuidores.\n\nAssim:\n\nTendo presente o disposto no n.º 5 do artigo 17.º do Regulamento de Licenças para Instalações Eléctricas, na redacção que lhe foi dada pelo Decreto-Lei n.º 446/76, de 5 de Junho:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "202388043": {
+   "fragment_id": "202402841",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Promulgado em 25 de Março de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 29 de Março de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\nESTATUTO DO TÉCNICO RESPONSÁVEL POR INSTALAÇÕES ELÉCTRICAS DE SERVIÇO PARTICULAR"
+  },
+  "202403607": {
+   "fragment_id": "202402849",
+   "type": 11,
+   "heading": "Artigo 5.º — (Técnicos responsáveis pela execução)",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 5.º — (Técnicos responsáveis pela execução)\n\n1 - Com as limitações constantes dos números seguintes, podem ser técnicos responsáveis pela execução de instalações eléctricas:\n\na) Engenheiros electrotécnicos;\n\nb) Engenheiros técnicos da especialidade de electrotecnia;\n\nc) Electricistas que possuam habilitação considerada apropriada e tenham, pelo menos, 2 anos de experiência;\n\nd) Os electricistas sem as habilitações previstas na alínea anterior que possuam, pelo menos, sete anos de experiência profissional na área de execução de instalações eléctricas de baixa tensão, desde que, através de um processo de reconhecimento e validação de competências adquiridas pela via da experiência, demonstrem possuir os conhecimentos adequados;\n\ne) Electricistas com a categoria de oficial, possuidores de carteira profissional passada pelo competente sindicato com data anterior a 30 de Abril de 1981;\n\nf) Electricistas que provem possuir experiência profissional equivalente à dos técnicos referidos na alínea d) e tenham requerido a inscrição até 30 de Abril de 1981.\n\n2 - Os técnicos indicados nas alíneas a) e b) do número anterior podem assumir a responsabilidade por qualquer instalação e ser-lhes-á atribuído, quanto à competência, o nível I.\n\n3 - Os electricistas indicados nas alíneas c) a f) do n.º 1 podem ser responsáveis por qualquer instalação, desde que não incluam subestações de transformação ou de conversão e redes de alta tensão, sendo-lhes atribuído, quanto à competência, o nível II.\n\n4 - Os electricistas referidos nas alíneas e) e f) do n.º 1 só podem assumir responsabilidades no âmbito das respectivas especialidades.\n\n5 - Tratando-se da execução de instalações que compreendam tubos de descarga de tensão em vazio superior a 1 kV, a responsabilidade só pode ser assumida por técnicos que provem ter experiência e competência dentro deste ramo de actividade.\n\n6 - Tratando-se da montagem de elevadores eléctricos, a responsabilidade só pode ser assumida por técnicos que provem ter experiência e competência dentro deste ramo de actividade.\n\n7 - O processo de reconhecimento e validação de competências referido na alínea d) do n.º 1 é realizado ao abrigo e nos termos de protocolo de colaboração celebrado, para o efeito, entre a Direcção-Geral de Geologia e Energia, o Instituto do Emprego e Formação Profissional, I. P., e o Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, I. P.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403608": {
+   "fragment_id": "202402852",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição\n\n1 - O exercício das funções de técnico responsável pela execução e pela exploração de instalações eléctricas por parte de electricistas depende de inscrição na direcção regional de economia territorialmente competente, devendo o requerimento para a inscrição ser dirigido ao respectivo director regional e ser acompanhado de:\n\na) Documento comprovativo das habilitações literárias ou profissionais apropriadas ou ainda documento comprovativo da experiência profissional;\n\nb) Questionário devidamente preenchido, em duplicado (anexo II-2);\n\nc) Valor a título de taxa de inscrição, a definir por portaria do ministro responsável pela área da economia, a entregar à direcção regional de economia territorialmente competente, que constituirá receita própria do organismo;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - O exercício das funções de técnico responsável por instalações eléctricas por parte dos engenheiros electrotécnicos e dos engenheiros técnicos de electrotecnia depende de estarem inscritos, respectivamente, na Ordem dos Engenheiros e na Associação Nacional dos Engenheiros Técnicos, nos termos previstos nos respectivos Estatutos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403612": {
+   "fragment_id": "202402853",
+   "type": 11,
+   "heading": "Artigo 8.º — (Comissão de análise e classificação)",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 8.º — (Comissão de análise e classificação)\n\n1 - A comissão de análise e classificação de técnicos responsáveis é constituída por 2 representantes da Direcção-Geral de Energia, 2 representantes de cada um dos grupos profissionais (engenheiros electrotécnicos, engenheiros técnicos da especialidade de electrotecnia e electricistas), 2 representantes dos instaladores, 2 representantes dos distribuidores públicos de energia eléctrica e 1 reresentante do Ministério do Trabalho, licenciado em Direito, nomeados pelo director-geral de Energia nos termos do artigo 34.º, e compete-lhe apreciar e informar os assuntos que lhe forem submetidos pela Direcção-Geral de Energia no âmbito deste Estatuto.\n\n2 - A comissão a que se refere o número anterior reunirá sempre que necessário, mas só poderá deliberar validamente desde que se encontrem presentes, pelo menos, 7 elementos, dos quais 2 serão obrigatoriamente os representantes, da Direcção-Geral de Energia.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403609": {
+   "fragment_id": "202402861",
+   "type": 11,
+   "heading": "Artigo 14.º — (Obrigações e direitos do técnico)",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 14.º — (Obrigações e direitos do técnico)\n\n1 - Durante a execução da instalação eléctrica, o respectivo técnico responsável deve acompanhar de perto o andamento dos trabalhos, por forma a ser assegurado o cumprimento das disposições regulamentares de segurança em vigor e das boas regras da técnica e respeitado o projecto, quando exista.\n\n2 - De acordo com o disposto no n.º 7 do artigo anterior, o técnico responsável pela execução não poderá alterar o projecto sem o parecer favorável, por escrito, do seu autor.\n\n3 - Durante a execução da instalação, o respectivo técnico responsável deverá fazer, pelo menos, as inspecções e medições seguintes:\n\na) Verificação do correcto estabelecimento dos eléctrodos de terra, incluindo as ligações aos circuitos de protecção;\n\nb) Medição da resistência de contacto dos eléctrodos de terra;\n\nc) Verificação da qualidade e da cuidadosa execução das ligações da aparelhagem;\n\nd) Verificação e ensaio dos sistemas de protecção de pessoas e das protecções contra sobreintensidades e sobretensões, quando existam.\n\n4 - Tratando-se de instalações de utilização de energia eléctrica e de instalações colectivas de edifícios e entradas, deverá o técnico responsável efectuar as seguintes verificações:\n\na) Traçado das colunas e localização dos quadros e portinholas;\n\nb) Estabelecimento das tubagens ou enterramento dos cabos;\n\nc) Enfiamento dos condutores.\n\n5 - Tratando-se de outras instalações, deverão efectuar-se as verificações adequadas às suas características e especificidade.\n\n6 - Concluída, a execução da instalação, deverá o respectivo técnico responsável proceder a uma inspecção final, verificando se ela satisfaz a todos as prescrições de segurança regulamentares e regras de técnica, fazendo as medições e ensaios necessários à verificação daquelas condições, nomeadamente as previstas na regulamentação de segurança. Esta inspecção deve, em regra, ser acompanhada pelo técnico responsável pela exploração, se o houver.\n\n7 - No local da obra, e durante a sua execução, é obrigatória a existência da ficha de execução da instalação (anexo III-2), onde serão anotadas todas as inspecções referidas nos números anteriores, bem como quaisquer outras que o técnico considere úteis.\n\n8 - A ficha de execução deve acompanhar o pedido de vistoria da instalação eléctrica, excepto quando se trate de uma inspecção da competência de uma associação inspectora de instalações eléctricas.\n\n9 - A responsabilidade do técnico pela execução da instalação eléctrica durará até à sua aprovação definitiva, sem prejuízo das disposições legais aplicáveis, nomeadamente as do Código Civil sobre empreitadas e as do Código Penal sobre acidentes por negligência.\n\n10 - No caso de haver um técnico encarregado da fiscalização da instalação eléctrica por parte do proprietário, ele deverá ser, de preferência:\n\na) O técnico responsável pelo projecto, se se tratar de uma instalação nova;\n\nb) O técnico responsável pela exploração, se se tratar da modificação de uma instalação eléctrica já em exploração.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403610": {
+   "fragment_id": "202403675",
+   "type": 11,
+   "heading": "Artigo 25.º — Obrigatoriedade de inscrição dos electricistas",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 25.º — Obrigatoriedade de inscrição dos electricistas\n\nPara o exercício da sua actividade, o electricista que seja técnico responsável deverá estar inscrito na direcção regional de economia territorialmente competente, nas condições estabelecidas no capítulo III do presente Estatuto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403611": {
+   "fragment_id": "202403682",
+   "type": 11,
+   "heading": "Artigo 30.º — (Sanções aplicáveis)",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 30.º — (Sanções aplicáveis)\n\n1 - Os electricistas que sejam técnicos responsáveis por instalações eléctricas estão sujeitos às seguintes sanções disciplinares, em função da gravidade das faltas cometidas:\n\na) Advertência por escrito;\n\nb) Coima de (euro) 40 a (euro) 200;\n\nc) Coima de (euro) 200 a (euro) 800, em caso de reincidência;\n\nd) Suspensão do exercício da actividade até 1 ano;\n\ne) Suspensão do exercício da actividade por período superior a 1 ano, até ao máximo de 5 anos.\n\n2 - A pena de suspensão do exercício da actividade pode ter lugar no caso de a frequência de infracções inculcar negligência habitual do cumprimento das obrigações como técnico responsável ou em casos considerados graves, nomeadamente quando da infracção resultem consequências que afectem ou ponham em risco a segurança de pessoas ou coisas.\n\n3 - Consoante a gravidade da infracção, a pena de suspensão do exercício da actividade poderá ser limitada à instalação onde tenha sido cometida a infracção ou determinar a impossibilidade da actividade de técnico responsável em um ou mais domínios de responsabilidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403613": {
+   "fragment_id": "202403683",
+   "type": 11,
+   "heading": "Artigo 31.º — (Comissões disciplinares)",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 31.º — (Comissões disciplinares)\n\n1 - As comissões disciplinares, a nível regional, constituídas por 2 representantes do respectivo serviço regional da Direcção-Geral de Energia, 1 representante de cada grupo ou classe profissional (engenheiros electrotécnicos, engenheiros técnicos da especialidade de electrotecnia e electricistas), 1 representante dos instaladores, 1 representante dos distribuidores públicos de energia eléctrica e 1 representante do Ministério do Trabalho, licenciado em Direito, nomeados pelo director do serviço regional da Direcção-Geral de Energia, nos termos do artigo 34.º, apreciarão e informarão as acusações de infracções cometidas pelos técnicos responsáveis às prescrições do presente Estatuto que lhes sejam submetidas pelos serviços regionais da Direcção-Geral de Energia e proporão as sanções a aplicar.\n\n2 - As comissões referidas no número anterior terão áreas de actuação coincidentes com as áreas de jurisdição dos serviços regionais da Direcção-Geral de Energia.\n\n3 - As comissões a que se refere o n.º 1 reunirão sempre que necessário, mas as suas deliberações só serão válidas desde que estejam presentes um mínimo de 5 elementos, 3 dos quais serão obrigatoriamente 1 dos representantes do serviço regional da Direcção-Geral de Energia, o representante do Ministério do Trabalho e o representante do grupo ou classe profissional do técnico arguido.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403614": {
+   "fragment_id": "202403684",
+   "type": 11,
+   "heading": "Artigo 32.º — (Competência para a aplicação de sanções)",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 32.º — (Competência para a aplicação de sanções)\n\n1 - Para a aplicação das penas previstas no artigo 30.º é competente o director do serviço regional da Direcção-Geral de Energia da área onde foi cometida a infracção, mediante processo disciplinar, com audição obrigatória do arguido, em termos de lhe ser proporcionada a sua defesa.\n\n2 - As sanções previstas nas alíneas d) e e) do n.º 1 do artigo 30.º só podem ser aplicadas após a audição da comissão disciplinar.\n\n3 - Da aplicação das sanções referidas no número anterior cabe recurso para o director-geral de Energia.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403615": {
+   "fragment_id": "202403687",
+   "type": 11,
+   "heading": "Artigo 34.º — (Regulamento das comissões)",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 34.º — (Regulamento das comissões)\n\nO funcionamento das comissões referidas nos artigos 8.º e 31.º e a forma de designação dos elementos que as constituem serão objecto de regulamento a aprovar pelo director-geral de Energia, depois de ouvidas as entidades nelas representadas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403616": {
+   "fragment_id": "202403688",
+   "type": 11,
+   "heading": "Artigo 35.º — (Prova de conhecimentos)",
+   "in_force_from": "2006-12-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 35.º — (Prova de conhecimentos)\n\n1 - Os técnicos que não possuam os requisitos fixados nos artigos 5.º e 6.º poderão ser inscritos como responsáveis pela execução ou exploração de instalações eléctricas desde que demonstrem, em provas especiais de avaliação, possuir os conhecimentos adequados.\n\n2 - A forma como é feita a prova dos conhecimentos referidos no número anterior será objecto de portaria do Ministro da Indústria, Energia e Exportação, depois de ouvida a Direcção-Geral do Ensino Secundário.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403618": {
+   "fragment_id": "202402837",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Estatuto do Técnico Responsável por Instalações Eléctricas de Serviço Particular, anexo ao presente decreto regulamentar e que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403619": {
+   "fragment_id": "202402838",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 2.º\n\nAs instalações eléctricas de serviço particular referidas no Estatuto são as definidas no artigo 7.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo Decreto-Lei n.º 26852, de 30 de Junho de 1936, e alterado pelo artigo 18.º do Decreto-Lei n.º 517/80, de 31 de Outubro.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403620": {
+   "fragment_id": "202402839",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 3.º\n\nEnquanto não for regulamentada a actividade de técnico responsável por instalações eléctricas de serviço público, o exercício dessa actividade relativamente aos técnicos que não façam parte dos quadros de pessoal do respectivo distribuidor será regulado, na parte aplicável, pelo Estatuto ora aprovado.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403621": {
+   "fragment_id": "202402840",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 4.º\n\nO presente decreto regulamentar é aplicável apenas no território do continente e entra em vigor 30 dias após a sua publicação.\n\nFrancisco José Pereira Pinto Balsemão - Luís Alberto Ferrero Morales - Ricardo Manuel Simões Bayão Horta.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403622": {
+   "fragment_id": "202402841",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "Promulgado em 25 de Março de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 29 de Março de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\nESTATUTO DO TÉCNICO RESPONSÁVEL POR INSTALAÇÕES ELÉCTRICAS DE SERVIÇO PARTICULAR\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403623": {
+   "fragment_id": "202402842",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403624": {
+   "fragment_id": "202402843",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403625": {
+   "fragment_id": "202402844",
+   "type": 11,
+   "heading": "Artigo 1.º — (Objectivo)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 1.º — (Objectivo)\n\nO presente Estatuto regulamenta a actividade dos técnicos responsáveis no que diz respeito à elaboração de projectos, à execução e à exploração de instalações eléctricas de serviço particular.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403626": {
+   "fragment_id": "202402845",
+   "type": 11,
+   "heading": "Artigo 2.º — (Conceito de técnico responsável)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 2.º — (Conceito de técnico responsável)\n\n1 - Consideram-se técnicos responsáveis por instalações eléctricas os indivíduos que, preenchendo os requisitos fixados no presente Estatuto, podem assumir a responsabilidade pelo projecto, pela execução ou pela exploração das referidas instalações.\n\n2 - É permitida a acumulação das qualidades de técnico responsável previstas nos artigos 4.º, 5.º e 6.º do presente Estatuto.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403627": {
+   "fragment_id": "202402846",
+   "type": 11,
+   "heading": "Artigo 3.º — (Código deontológico)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 3.º — (Código deontológico)\n\nO código deontológico dos técnicos responsáveis (anexo I) faz parte integrante deste Estatuto.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403628": {
+   "fragment_id": "202402847",
+   "type": 1,
+   "heading": "Capítulo II — Competência dos técnicos responsáveis",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo II — Competência dos técnicos responsáveis\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403629": {
+   "fragment_id": "202402848",
+   "type": 11,
+   "heading": "Artigo 4.º — (Técnicos responsáveis pelo projecto)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 4.º — (Técnicos responsáveis pelo projecto)\n\n1 - Salvo o disposto nos n.os 3 e 4 deste artigo, só podem ser técnicos responsáveis pelo projecto de instalações eléctricas os engenheiros electrotécnicos e os engenheiros técnicos da especialidade de electrotecnia.\n\n2 - Tratando-se de projectos de instalações eléctricas com tensão nominal igual ou superior a 60 kV, para assumir a responsabilidade é indispensável a experiência profissional, no âmbito do assunto versado no projecto, de, pelo menos, 2 anos para os engenheiros e de 4 para os engenheiros técnicos.\n\n3 - Tratando-se de projectos de instalações eléctricas de concepção simples, a responsabilidade pode ser assumida por electricistas que provem ter competência para o efeito e possuam habilitação considerada apropriada.\n\n4 - As instalações eléctricas de concepção simples, a que se refere o número anterior, são as de serviço particular de 5.ª categoria definidas no Regulamento de Licenças para Instalações Eléctricas, de potência total prevista, não afectada de coeficientes, igual ou inferior a 50 kVA, estabelecidas nos seguintes locais:\n\na) Locais residenciais ou de uso profissional;\n\nb) Estabelecimentos recebendo público, com exclusão dos hospitalares e hoteleiros;\n\nc) Estabelecimentos industriais que não comportem locais sujeitos a risco de incêndio ou de explosão;\n\nd) Estabelecimentos agrícolas ou pecuários que não comportem locais sujeitos a risco de incêndio ou de explosão.\n\n5 - Relativamente às competências de técnicos responsáveis pelo projecto referidas nos números anteriores serão atribuídos os seguintes níveis:\n\na) Nível I. - Aos técnicos que possam ser responsáveis pelo projecto de qualquer instalação eléctrica;\n\nb) Nível II. - Aos técnicos que possam ser responsáveis pelo projecto de qualquer instalação eléctrica de tensão nominal inferior a 60 kV;\n\nc) Nível III. - Aos técnicos que possam ser responsáveis pelos projectos das instalações eléctricas referidas nos n.os 3 e 4.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403630": {
+   "fragment_id": "202402849",
+   "type": 11,
+   "heading": "Artigo 5.º — (Técnicos responsáveis pela execução)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 5.º — (Técnicos responsáveis pela execução)\n\n1 - Com as limitações constantes dos números seguintes, podem ser técnicos responsáveis pela execução de instalações eléctricas:\n\na) Engenheiros electrotécnicos;\n\nb) Engenheiros técnicos da especialidade de electrotecnia;\n\nc) Electricistas que possuam habilitação considerada apropriada e tenham, pelo menos, 2 anos de experiência;\n\nd) Os electricistas sem as habilitações previstas na alínea anterior que possuam, pelo menos, sete anos de experiência profissional na área de execução de instalações eléctricas de baixa tensão, desde que, através de um processo de reconhecimento e validação de competências adquiridas pela via da experiência, demonstrem possuir os conhecimentos adequados;\n\ne) Electricistas com a categoria de oficial, possuidores de carteira profissional passada pelo competente sindicato com data anterior a 30 de Abril de 1981;\n\nf) Electricistas que provem possuir experiência profissional equivalente à dos técnicos referidos na alínea d) e tenham requerido a inscrição até 30 de Abril de 1981.\n\n2 - Os técnicos indicados nas alíneas a) e b) do número anterior podem assumir a responsabilidade por qualquer instalação e ser-lhes-á atribuído, quanto à competência, o nível I.\n\n3 - Os electricistas indicados nas alíneas c) a f) do n.º 1 podem ser responsáveis por qualquer instalação, desde que não incluam subestações de transformação ou de conversão e redes de alta tensão, sendo-lhes atribuído, quanto à competência, o nível II.\n\n4 - Os electricistas referidos nas alíneas e) e f) do n.º 1 só podem assumir responsabilidades no âmbito das respectivas especialidades.\n\n5 - Tratando-se da execução de instalações que compreendam tubos de descarga de tensão em vazio superior a 1 kV, a responsabilidade só pode ser assumida por técnicos que provem ter experiência e competência dentro deste ramo de actividade.\n\n6 - Tratando-se da montagem de elevadores eléctricos, a responsabilidade só pode ser assumida por técnicos que provem ter experiência e competência dentro deste ramo de actividade.\n\n7 - O processo de reconhecimento e validação de competências referido na alínea d) do n.º 1 é realizado ao abrigo e nos termos de protocolo de colaboração celebrado, para o efeito, entre a Direcção-Geral de Geologia e Energia, o Instituto do Emprego e Formação Profissional, I. P., e o Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, I. P.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403631": {
+   "fragment_id": "202402850",
+   "type": 11,
+   "heading": "Artigo 6.º — (Técnicos responsáveis pela exploração)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 6.º — (Técnicos responsáveis pela exploração)\n\n1 - Podem ser técnicos responsáveis pela exploração de instalações eléctricas:\n\na) Engenheiros electrotécnicos;\n\nb) Engenheiros técnicos da especialidade de electrotecnia.\n\n2 - Para instalações de potência nominal até 250 kVA e tensão até 30 kV, a responsabilidade pode ser assumida por electricistas que possuam habilitação considerada apropriada e tenham, pelo menos, 4 anos de experiência comprovada neste âmbito.\n\n3 - Quando a dimensão ou complexidade das instalações eléctricas o justificar, pode haver mais de um técnico responsável pela exploração, devendo um deles exercer as funções de coordenador e considerando-se todos eles solidários na sua responsabilidade.\n\n4 - Relativamente às competências referidas nos n.os 1 e 2, serão atribuídos os seguintes níveis:\n\na) Nível I. - Aos técnicos que possam assumir a responsabilidade pela exploração de qualquer instalação eléctrica;\n\nb) Nível II. - Aos técnicos que possam assumir a responsabilidade pela exploração das instalações eléctricas de potência nominal até 250 kVA e tensão até 30 kV.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403632": {
+   "fragment_id": "202402851",
+   "type": 1,
+   "heading": "Capítulo III — Inscrição dos técnicos responsáveis",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo III — Inscrição dos técnicos responsáveis\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403633": {
+   "fragment_id": "202402852",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição\n\n1 - O exercício das funções de técnico responsável pela execução e pela exploração de instalações eléctricas por parte de electricistas depende de inscrição na direcção regional de economia territorialmente competente, devendo o requerimento para a inscrição ser dirigido ao respectivo director regional e ser acompanhado de:\n\na) Documento comprovativo das habilitações literárias ou profissionais apropriadas ou ainda documento comprovativo da experiência profissional;\n\nb) Questionário devidamente preenchido, em duplicado (anexo II-2);\n\nc) Valor a título de taxa de inscrição, a definir por portaria do ministro responsável pela área da economia, a entregar à direcção regional de economia territorialmente competente, que constituirá receita própria do organismo;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - O exercício das funções de técnico responsável por instalações eléctricas por parte dos engenheiros electrotécnicos e dos engenheiros técnicos de electrotecnia depende de estarem inscritos, respectivamente, na Ordem dos Engenheiros e na Associação Nacional dos Engenheiros Técnicos, nos termos previstos nos respectivos Estatutos.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403634": {
+   "fragment_id": "202402853",
+   "type": 11,
+   "heading": "Artigo 8.º — (Comissão de análise e classificação)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 8.º — (Comissão de análise e classificação)\n\n1 - A comissão de análise e classificação de técnicos responsáveis é constituída por 2 representantes da Direcção-Geral de Energia, 2 representantes de cada um dos grupos profissionais (engenheiros electrotécnicos, engenheiros técnicos da especialidade de electrotecnia e electricistas), 2 representantes dos instaladores, 2 representantes dos distribuidores públicos de energia eléctrica e 1 reresentante do Ministério do Trabalho, licenciado em Direito, nomeados pelo director-geral de Energia nos termos do artigo 34.º, e compete-lhe apreciar e informar os assuntos que lhe forem submetidos pela Direcção-Geral de Energia no âmbito deste Estatuto.\n\n2 - A comissão a que se refere o número anterior reunirá sempre que necessário, mas só poderá deliberar validamente desde que se encontrem presentes, pelo menos, 7 elementos, dos quais 2 serão obrigatoriamente os representantes, da Direcção-Geral de Energia.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403635": {
+   "fragment_id": "202402854",
+   "type": 11,
+   "heading": "Artigo 9.º — (Inscrição provisória)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 9.º — (Inscrição provisória)\n\n1 - A inscrição na Direcção-Geral de Energia dos técnicos responsáveis pelo projecto, pela execução ou pela exploração de instalações eléctricas, quando não seja comprovada a experiência nestes domínios, será feita a título provisório.\n\n2 - A inscrição provisória referida no número anterior será válida pelo prazo de 2 anos, findo o qual caducará se não for requerida a inscrição definitiva ou a sua prorrogação por mais um período de 2 anos.\n\n3 - A inscrição a título provisório confere ao técnico responsável as mesmas regalias que a inscrição definitiva.\n\n4 - O requerimento referido no n.º 2 (anexo II-5) deverá dar entrada até 60 dias antes do termo do prazo de validade da inscrição provisória.\n\n5 - Os técnicos inscritos provisoriamente são obrigados, sem o que não poderão ser inscritos definitivamente, a enviar à Direcção-Geral de Energia, anualmente, a partir da data de inscrição, relatório circunstanciado dos trabalhos realizados e relação das responsabilidades assumidas durante esse período de tempo (anexo III-1).\n\n6 - O requerimento solicitando a inscrição definitiva deverá ser acompanhado do relatório dos trabalhos realizados (anexo III-1) no período decorrido desde a data do último relatório, apresentado nos termos do número anterior, até à data do requerimento.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403636": {
+   "fragment_id": "202402855",
+   "type": 11,
+   "heading": "Artigo 10.º — (Comunicação ao requerente)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 10.º — (Comunicação ao requerente)\n\n1 - Dos despachos do director-geral de Energia que recaírem sobre os requerimentos será dado conhecimento, por escrito, ao requerente.\n\n2 - Se o técnico responsável for inscrito definitivamente, ser-lhe-á enviado o cartão de técnico responsável referido no artigo 7.º\n\n3 - Enquanto durar a inscrição provisória, esta será comprovada pela comunicação feita nos termos do n.º 1 deste artigo.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403637": {
+   "fragment_id": "202402856",
+   "type": 11,
+   "heading": "Artigo 11.º — (Cadastro)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 11.º — (Cadastro)\n\n1 - Na Direcção-Geral de Energia haverá um cadastro, devidamente actualizado, com os elementos respeitantes aos técnicos inscritos e a indicação dos diversos níveis de responsabilidade em cada um dos domínios considerados (projecto, execução, exploração).\n\n2 - Para os técnicos responsáveis pela execução de instalações eléctricas de tubos de descarga de tensão em vazio superior a 1 kV e pela montagem de elevadores eléctricos a Direcção-Geral de Energia organizará cadastros próprios, onde serão anotados todos os elementos respeitantes aos técnicos inscritos.\n\n3 - Além da Direcção-Geral de Energia, os distribuidores públicos de energia eléctrica ou outras entidades encarregadas da fiscalização de instalações eléctricas possuirão um cadastro dos técnicos responsáveis, incluindo os referidos nos n.os 5 e 6 do artigo 5.º, que exerçam a actividade na área da sua actuação.\n\n4 - Para a organização dos cadastros referidos no número anterior, o técnico responsável deve fornecer os elementos necessários à sua organização, nomeadamente o número e data de inscrição na Direcção-Geral de Energia, bem como os domínios e níveis em que está inscrito e os concelhos onde habitualmente exerce a sua actividade.\n\n5 - Os distribuidores públicos de energia eléctrica e outras entidades encarregadas da fiscalização de instalações eléctricas comunicarão à Direcção-Geral de Energia as faltas cometidas pelos técnicos responsáveis de que tenham conhecimento.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403638": {
+   "fragment_id": "202402857",
+   "type": 1,
+   "heading": "Capítulo IV — Atribuições e obrigações dos técnicos responsáveis",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo IV — Atribuições e obrigações dos técnicos responsáveis\n\nARTIGO 12.º\n\n(Atribuições gerais)\n\n1 - Dentro da esfera da sua competência, os técnicos responsáveis pelo projecto, pela execução ou pela exploração de instalações eléctricas respondem por tudo o que se prenda com os aspectos técnicos e regulamentares.\n\n2 - Sem prejuízo dos aspectos técnicos e regulamentares referidos no número anterior, sempre predominantes em qualquer tipo de instalação eléctrica, deverão os técnicos procurar a solução mais económica para as instalações.\n\n3 - Na sua qualidade de representantes dos proprietários das instalações eléctricas por que são responsáveis, devem os técnicos, a solicitação da fiscalização do Governo ou dos distribuidores públicos de energia eléctrica, satisfazer todos os pedidos de esclarecimento, incluindo os referentes a eventuais alterações ou correcções ao projecto.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403639": {
+   "fragment_id": "202402858",
+   "type": 8,
+   "heading": "Secção I — Do projecto",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "#### Secção I — Do projecto\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403640": {
+   "fragment_id": "202402859",
+   "type": 11,
+   "heading": "Artigo 13.º — (Obrigações e direitos do técnico)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 13.º — (Obrigações e direitos do técnico)\n\n1 - O técnico responsável obriga-se a elaborar o projecto de acordo com a legislação aplicável a cada tipo de instalação e a completá-lo com as condições gerais e especiais do caderno de encargos.\n\n2 - Durante a execução da instalação, o técnico responsável pelo projecto deverá prestar ao responsável pela execução todos os esclarecimentos necessários à sua correcta interpretação. Esta obrigação caduca ao fim de 4 anos, contados da data da entrega do projecto completo ao proprietário, se outro prazo não for fixado no contrato celebrado entre os interessados.\n\n3 - Findo o prazo indicado no número anterior, qualquer esclarecimento ou trabalho complementar do projecto deverá ser confiado ao autor, mediante contrato suplementar. No caso de este o não aceitar ou de não ser possível obter a sua colaboração, poderá ser encarregado outro técnico dessa tarefa.\n\n4 - O técnico responsável pelo projecto poderá, sempre que o entender, visitar a instalação eléctrica durante a sua execução, devendo datar e rubricar a respectiva ficha de execução (anexo III-2), anotando qualquer observação, se for caso disso.\n\n5 - Sempre que lhe for solicitado pelo proprietário, o técnico responsável pelo projecto apresentará uma estimativa do custo da instalação eléctrica, bem como os pormenores técnicos necessários à conveniente execução dos trabalhos.\n\n6 - A responsabilidade do técnico responsável termina com a aprovação do projecto ou 2 anos após a sua entrega ao proprietário da Instalação eléctrica, caso o mesmo não seja submetido a aprovação.\n\n7 - Quaisquer alterações ao projecto durante o período em que vigorar a responsabilidade do técnico deverão ser feitas por ele ou ter o seu parecer favorável, por escrito.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403641": {
+   "fragment_id": "202402860",
+   "type": 8,
+   "heading": "Secção II — Da execução",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "#### Secção II — Da execução\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403642": {
+   "fragment_id": "202402861",
+   "type": 11,
+   "heading": "Artigo 14.º — (Obrigações e direitos do técnico)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 14.º — (Obrigações e direitos do técnico)\n\n1 - Durante a execução da instalação eléctrica, o respectivo técnico responsável deve acompanhar de perto o andamento dos trabalhos, por forma a ser assegurado o cumprimento das disposições regulamentares de segurança em vigor e das boas regras da técnica e respeitado o projecto, quando exista.\n\n2 - De acordo com o disposto no n.º 7 do artigo anterior, o técnico responsável pela execução não poderá alterar o projecto sem o parecer favorável, por escrito, do seu autor.\n\n3 - Durante a execução da instalação, o respectivo técnico responsável deverá fazer, pelo menos, as inspecções e medições seguintes:\n\na) Verificação do correcto estabelecimento dos eléctrodos de terra, incluindo as ligações aos circuitos de protecção;\n\nb) Medição da resistência de contacto dos eléctrodos de terra;\n\nc) Verificação da qualidade e da cuidadosa execução das ligações da aparelhagem;\n\nd) Verificação e ensaio dos sistemas de protecção de pessoas e das protecções contra sobreintensidades e sobretensões, quando existam.\n\n4 - Tratando-se de instalações de utilização de energia eléctrica e de instalações colectivas de edifícios e entradas, deverá o técnico responsável efectuar as seguintes verificações:\n\na) Traçado das colunas e localização dos quadros e portinholas;\n\nb) Estabelecimento das tubagens ou enterramento dos cabos;\n\nc) Enfiamento dos condutores.\n\n5 - Tratando-se de outras instalações, deverão efectuar-se as verificações adequadas às suas características e especificidade.\n\n6 - Concluída, a execução da instalação, deverá o respectivo técnico responsável proceder a uma inspecção final, verificando se ela satisfaz a todos as prescrições de segurança regulamentares e regras de técnica, fazendo as medições e ensaios necessários à verificação daquelas condições, nomeadamente as previstas na regulamentação de segurança. Esta inspecção deve, em regra, ser acompanhada pelo técnico responsável pela exploração, se o houver.\n\n7 - No local da obra, e durante a sua execução, é obrigatória a existência da ficha de execução da instalação (anexo III-2), onde serão anotadas todas as inspecções referidas nos números anteriores, bem como quaisquer outras que o técnico considere úteis.\n\n8 - A ficha de execução deve acompanhar o pedido de vistoria da instalação eléctrica, excepto quando se trate de uma inspecção da competência de uma associação inspectora de instalações eléctricas.\n\n9 - A responsabilidade do técnico pela execução da instalação eléctrica durará até à sua aprovação definitiva, sem prejuízo das disposições legais aplicáveis, nomeadamente as do Código Civil sobre empreitadas e as do Código Penal sobre acidentes por negligência.\n\n10 - No caso de haver um técnico encarregado da fiscalização da instalação eléctrica por parte do proprietário, ele deverá ser, de preferência:\n\na) O técnico responsável pelo projecto, se se tratar de uma instalação nova;\n\nb) O técnico responsável pela exploração, se se tratar da modificação de uma instalação eléctrica já em exploração.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403643": {
+   "fragment_id": "202402862",
+   "type": 8,
+   "heading": "Secção III — Da exploração",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "#### Secção III — Da exploração\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403644": {
+   "fragment_id": "202402863",
+   "type": 11,
+   "heading": "Artigo 15.º — (Inspecções da instalação eléctrica)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 15.º — (Inspecções da instalação eléctrica)\n\n1 - O técnico responsável pela exploração deverá inspeccionar a instalação eléctrica com a frequência exigida pelas características da exploração, no mínimo 2 vezes por ano, a fim de proceder às verificações, ensaios e medições regulamentares. As 2 inspecções obrigatórias devem ser feitas, uma durante os meses de Verão e outra durante os meses de Inverno.\n\n2 - O número de inspecções, para além das 2 anuais obrigatórias a que se refere o número anterior, deve constar do contrato de prestação de serviços (anexo IV) e ter em conta a sua complexidade e a perigosidade da sua exploração.\n\n3 - Além das inspecções indicadas nos números anteriores, o técnico responsável deverá efectuar visitas técnicas a solicitação justificada da entidade exploradora.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403645": {
+   "fragment_id": "202402864",
+   "type": 11,
+   "heading": "Artigo 16.º — (Instalações irregulares)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 16.º — (Instalações irregulares)\n\n1 - Sempre que o técnico responsável pela exploração detectar deficiências anti-regulamentares, delas dará conhecimento, por escrito, à entidade exploradora da instalação, com vista à sua eliminação dentro de um prazo compatível com a importância e natureza daquelas, que para o efeito fixará. Quando as deficiências colidam notoriamente com a segurança de pessoas e coisas, devem ser rapidamente eliminadas.\n\n2 - Se, nos casos referidos na parte final do número anterior, findo o prazo fixado, a entidade exploradora não tiver eliminado as deficiências indicadas pelo técnico, deverá este dar conhecimento do facto à fiscalização do Governo.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403646": {
+   "fragment_id": "202402865",
+   "type": 11,
+   "heading": "Artigo 17.º — (Ampliações das instalações)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 17.º — (Ampliações das instalações)\n\nAs ampliações da instalação eléctrica carecem do parecer favorável do técnico responsável pela exploração nos aspectos relacionados com as disposições regulamentares de segurança e com as boas regras da técnica.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403647": {
+   "fragment_id": "202402866",
+   "type": 11,
+   "heading": "Artigo 18.º — (Mapas estatísticos e outra documentação)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 18.º — (Mapas estatísticos e outra documentação)\n\n1 - Os mapas estatísticos, a enviar anualmente à Direcção-Geral de Energia no prazo legalmente estabelecido, deverão ser verificados e devidamente assinados pelo técnico responsável para o fim designado.\n\n2 - Quaisquer documentos a incluir nos processos que digam respeito à responsabilidade do técnico devem ser por si visados ou assinados, nomeadamente os requerimentos de licença, de vistoria, de pedidos de prorrogação de prazo e de anulação de cláusulas.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403648": {
+   "fragment_id": "202402867",
+   "type": 11,
+   "heading": "Artigo 19.º — (Esclarecimentos a prestar pelo técnico)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 19.º — (Esclarecimentos a prestar pelo técnico)\n\nO técnico responsável pela exploração da instalação eléctrica deve esclarecer a entidade exploradora sobre o cumprimento das cláusulas impostas pela fiscalização técnica do Governo, seus delegados mandatados ou distribuidor público de energia eléctrica, nos aspectos técnicos e de segurança.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403649": {
+   "fragment_id": "202402868",
+   "type": 11,
+   "heading": "Artigo 20.º — (Acidente por acção da corrente eléctrica)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 20.º — (Acidente por acção da corrente eléctrica)\n\n1 - Quando na instalação ocorrer algum acidente por acção da corrente eléctrica, o técnico responsável pela exploração participará o facto à fiscalização do Governo, através da competente participação de acidente (anexo III-4).\n\n2 - A fim de minorar as consequências de acidentes por acção da corrente eléctrica, o técnico responsável deve providenciar para que existam, em local adequado, as instruções de primeiros socorros e o equipamento indispensável à sua observância, bem como prestar os esclarecimentos necessários à sua utilização.\n\n3 - O técnico responsável deverá fazer formação em segurança do pessoal afecto à execução e exploração da instalação eléctrica pelo menos de 2 em 2 anos.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403650": {
+   "fragment_id": "202402869",
+   "type": 11,
+   "heading": "Artigo 21.º — (Vistoria da instalação eléctrica)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 21.º — (Vistoria da instalação eléctrica)\n\n1 - O técnico responsável pela exploração deverá acompanhar a fiscalização do Governo, ou seus delegados mandatados, na vistoria à instalação eléctrica.\n\n2 - Em casos justificados, o técnico responsável pela exploração poderá fazer-se substituir na vistoria da instalação por um delegado devidamente qualificado e credenciado para o efeito.\n\n3 - O delegado referido no número anterior deverá, em regra, estar inscrito na Direcção-Geral de Energia para o tipo de instalação em causa.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403651": {
+   "fragment_id": "202402870",
+   "type": 11,
+   "heading": "Artigo 22.º — (Projecto da instalação)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 22.º — (Projecto da instalação)\n\nO técnico responsável pela exploração deve providenciar para que no recinto servido pela instalação eléctrica exista sempre, devidamente actualizado, o respectivo projecto.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403652": {
+   "fragment_id": "202402871",
+   "type": 1,
+   "heading": "Capítulo V",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo V\n\nDas relações entre a entidade exploradora da instalação eléctrica e o técnico responsável pela exploração.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403653": {
+   "fragment_id": "202402872",
+   "type": 11,
+   "heading": "Artigo 23.º — (Princípios gerais)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 23.º — (Princípios gerais)\n\n1 - A entidade exploradora da instalação eléctrica e o técnico responsável estabelecerão entre si um programa das tarefas a desempenhar e o respectivo calendário e celebrarão, obrigatoriamente, um contrato escrito de prestação de serviços (anexo IV).\n\n2 - No caso de o técnico responsável pertencer ao quadro técnico da entidade exploradora das instalações, o contrato de prestação de serviços referido no número anterior poderá constituir um complemento do seu contrato normal de trabalho, sem prejuízo da sua autonomia.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403654": {
+   "fragment_id": "202402873",
+   "type": 11,
+   "heading": "Artigo 24.º — (Obrigações da entidade exploradora)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 24.º — (Obrigações da entidade exploradora)\n\n1 - A entidade exploradora da instalação eléctrica deve cumprir todas as indicações dadas pelo técnico responsável no que respeita aos aspectos relacionados com as disposições regulamentares de segurança e com as boas regras da técnica, especialmente quando se trate de eliminar quaisquer deficiências que atentem ou possam vir a atentar contra a segurança de pessoas ou coisas.\n\n2 - A entidade exploradora da instalação eléctrica não deverá efectuar quaisquer modificações, mesmo não estruturais, sem prévio conhecimento e acordo do técnico responsável pela exploração no que respeita aos aspectos regulamentares de segurança e boas regras da técnica.\n\n3 - A entidade exploradora da instalação eléctrica deverá permitir que a mesma seja visitada, inspeccionada e ensaiada pelo técnico responsável sempre que este o considere necessário ao seu regular e normal funcionamento, para o que porá à sua disposição os elementos e meios indispensáveis ao bom desempenho das suas funções.\n\n4 - A entidade exploradora da instalação eléctrica deverá participar ao técnico responsável todos os acidentes que, por acção da corrente eléctrica, ali ocorram, sem prejuízo das participações obrigatórias referidas no artigo 146.º do Decreto-Lei n.º 43335, de 19 de Novembro de 1960.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403655": {
+   "fragment_id": "202402874",
+   "type": 1,
+   "heading": "Capítulo VI — Relações entre o técnico responsável e a Direcção-Geral de Energia",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo VI — Relações entre o técnico responsável e a Direcção-Geral de Energia\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403656": {
+   "fragment_id": "202403675",
+   "type": 11,
+   "heading": "Artigo 25.º — Obrigatoriedade de inscrição dos electricistas",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 25.º — Obrigatoriedade de inscrição dos electricistas\n\nPara o exercício da sua actividade, o electricista que seja técnico responsável deverá estar inscrito na direcção regional de economia territorialmente competente, nas condições estabelecidas no capítulo III do presente Estatuto.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403657": {
+   "fragment_id": "202403676",
+   "type": 11,
+   "heading": "Artigo 26.º — (Relatório anual)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 26.º — (Relatório anual)\n\n1 - O técnico responsável pela exploração da instalação eléctrica deverá enviar anualmente à fiscalização do Governo, excepto no caso referido no artigo 29.º, um relatório (anexo III-3) mencionando os resultados das medidas e ensaios efectuados e informando sobre o estado geral das instalações e sobre as recomendações que formulou tendentes à eliminação das deficiências que eventualmente existam.\n\n2 - O relatório a que se refere o número anterior deverá igualmente ser apresentado quando o técnico assuma a responsabilidade pela exploração de uma instalação eléctrica e quando o contrato de prestação de serviços cesse antes do prazo estabelecido.\n\n3 - O prazo de 1 ano referido no n.º 1 é contado a partir da data em que o técnico responsável assuma as suas funções.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403658": {
+   "fragment_id": "202403677",
+   "type": 11,
+   "heading": "Artigo 27.º — (Relações de responsabilidades)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 27.º — (Relações de responsabilidades)\n\n1 - O técnico responsável pela exploração de instalações eléctricas deverá enviar à Direcção-Geral de Energia, até ao dia 31 de Janeiro de cada ano, uma relação das instalações de que foi responsável no ano anterior, elaborada nos moldes do anexo III-5.\n\n2 - Aos técnicos responsáveis pelo projecto ou pela execução de instalações eléctricas poderá ser exigido pela Direcção-Geral de Energia o envio da relação dos trabalhos executados durante o ano em modelo semelhante ao do anexo III-5, com as convenientes adaptações.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403659": {
+   "fragment_id": "202403678",
+   "type": 1,
+   "heading": "Capítulo VII",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo VII\n\nRelações entre os técnicos responsáveis pela exploração de instalações eléctricas de serviço particular e o distribuidor público de energia eléctrica.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403660": {
+   "fragment_id": "202403679",
+   "type": 11,
+   "heading": "Artigo 28.º — (Alterações das instalações)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 28.º — (Alterações das instalações)\n\nSempre que qualquer alteração de instalações eléctricas interfira ou possa vir a interferir com a rede de distribuição, designadamente aumentos de potência e montagem de centrais eléctricas, compete ao técnico responsável pela exploração, como representante da entidade exploradora e com o seu acordo, dar conhecimento prévio ao respectivo distribuidor.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403661": {
+   "fragment_id": "202403680",
+   "type": 11,
+   "heading": "Artigo 29.º — (Relatório anual)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 29.º — (Relatório anual)\n\nO relatório a que se refere o artigo 26.º será enviado ao distribuidor público de energia eléctrica sempre que a fiscalização da respectiva instalação seja da competência deste.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403662": {
+   "fragment_id": "202403681",
+   "type": 1,
+   "heading": "Capítulo VIII — Sanções disciplinares",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo VIII — Sanções disciplinares\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403663": {
+   "fragment_id": "202403682",
+   "type": 11,
+   "heading": "Artigo 30.º — (Sanções aplicáveis)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 30.º — (Sanções aplicáveis)\n\n1 - Os electricistas que sejam técnicos responsáveis por instalações eléctricas estão sujeitos às seguintes sanções disciplinares, em função da gravidade das faltas cometidas:\n\na) Advertência por escrito;\n\nb) Coima de (euro) 40 a (euro) 200;\n\nc) Coima de (euro) 200 a (euro) 800, em caso de reincidência;\n\nd) Suspensão do exercício da actividade até 1 ano;\n\ne) Suspensão do exercício da actividade por período superior a 1 ano, até ao máximo de 5 anos.\n\n2 - A pena de suspensão do exercício da actividade pode ter lugar no caso de a frequência de infracções inculcar negligência habitual do cumprimento das obrigações como técnico responsável ou em casos considerados graves, nomeadamente quando da infracção resultem consequências que afectem ou ponham em risco a segurança de pessoas ou coisas.\n\n3 - Consoante a gravidade da infracção, a pena de suspensão do exercício da actividade poderá ser limitada à instalação onde tenha sido cometida a infracção ou determinar a impossibilidade da actividade de técnico responsável em um ou mais domínios de responsabilidade.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403664": {
+   "fragment_id": "202403683",
+   "type": 11,
+   "heading": "Artigo 31.º — (Comissões disciplinares)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 31.º — (Comissões disciplinares)\n\n1 - As comissões disciplinares, a nível regional, constituídas por 2 representantes do respectivo serviço regional da Direcção-Geral de Energia, 1 representante de cada grupo ou classe profissional (engenheiros electrotécnicos, engenheiros técnicos da especialidade de electrotecnia e electricistas), 1 representante dos instaladores, 1 representante dos distribuidores públicos de energia eléctrica e 1 representante do Ministério do Trabalho, licenciado em Direito, nomeados pelo director do serviço regional da Direcção-Geral de Energia, nos termos do artigo 34.º, apreciarão e informarão as acusações de infracções cometidas pelos técnicos responsáveis às prescrições do presente Estatuto que lhes sejam submetidas pelos serviços regionais da Direcção-Geral de Energia e proporão as sanções a aplicar.\n\n2 - As comissões referidas no número anterior terão áreas de actuação coincidentes com as áreas de jurisdição dos serviços regionais da Direcção-Geral de Energia.\n\n3 - As comissões a que se refere o n.º 1 reunirão sempre que necessário, mas as suas deliberações só serão válidas desde que estejam presentes um mínimo de 5 elementos, 3 dos quais serão obrigatoriamente 1 dos representantes do serviço regional da Direcção-Geral de Energia, o representante do Ministério do Trabalho e o representante do grupo ou classe profissional do técnico arguido.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403665": {
+   "fragment_id": "202403684",
+   "type": 11,
+   "heading": "Artigo 32.º — (Competência para a aplicação de sanções)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 32.º — (Competência para a aplicação de sanções)\n\n1 - Para a aplicação das penas previstas no artigo 30.º é competente o director do serviço regional da Direcção-Geral de Energia da área onde foi cometida a infracção, mediante processo disciplinar, com audição obrigatória do arguido, em termos de lhe ser proporcionada a sua defesa.\n\n2 - As sanções previstas nas alíneas d) e e) do n.º 1 do artigo 30.º só podem ser aplicadas após a audição da comissão disciplinar.\n\n3 - Da aplicação das sanções referidas no número anterior cabe recurso para o director-geral de Energia.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403666": {
+   "fragment_id": "202403685",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições gerais e transitórias",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "### Capítulo IX — Disposições gerais e transitórias\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403667": {
+   "fragment_id": "202403686",
+   "type": 11,
+   "heading": "Artigo 33.º — (Passagem de cartão aos técnicos já inscritos)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 33.º — (Passagem de cartão aos técnicos já inscritos)\n\n1 - Os técnicos responsáveis inscritos na Direcção-Geral de Energia à data de entrada em vigor deste Estatuto deverão requerer a passagem do cartão a que se refere a alínea d) do n.º 1 do artigo 7.º (anexo II-4). O cartão deverá ser devidamente preenchido e acompanhado de um selo fiscal de 500$00.\n\n2 - Aos engenheiros electrotécnicos e aos engenheiros técnicos da especialidade de electrotecnia inscritos antes de 1 de Junho de 1976 ser-lhes-á atribuído o nível I em todos os domínios e aos restantes técnicos o nível II.\n\n3 - Aos técnicos responsáveis inscritos entre a data indicada no número anterior e a data da entrada em vigor do presente Estatuto ser-lhes-ão atribuídos os seguintes níveis:\n\na) Projecto:\n\nNível II. - Aos engenheiros electrotécnicos e engenheiros técnicos da especialidade de electrotecnia;\n\nb) Execução:\n\nNível I. - Aos engenheiros electrotécnicos e engenheiros técnicos da especiadade de electrotecnia;\n\nNível II. - Aos electricistas referidos nas alíneas c), d) e e) do n.º 1 do artigo 5.º;\n\nc) Exploração:\n\nNível I. - Aos engenheiros electrotécnicos e engenheiros técnicos da especialidade de electrotecnia;\n\nNível II. - Aos electricistas referidos no n.º 2 do artigo 6.º\n\n4 - É mantida a faculdade de assinar termos de responsabilidade aos indivíduos que, à data da publicação do presente Estatuto, eram considerados habilitados para o fazer e se encontrem inscritos na Direcção-Geral de Energia.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403668": {
+   "fragment_id": "202403687",
+   "type": 11,
+   "heading": "Artigo 34.º — (Regulamento das comissões)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 34.º — (Regulamento das comissões)\n\nO funcionamento das comissões referidas nos artigos 8.º e 31.º e a forma de designação dos elementos que as constituem serão objecto de regulamento a aprovar pelo director-geral de Energia, depois de ouvidas as entidades nelas representadas.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403669": {
+   "fragment_id": "202403688",
+   "type": 11,
+   "heading": "Artigo 35.º — (Prova de conhecimentos)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+   ],
+   "markdown": "###### Artigo 35.º — (Prova de conhecimentos)\n\n1 - Os técnicos que não possuam os requisitos fixados nos artigos 5.º e 6.º poderão ser inscritos como responsáveis pela execução ou exploração de instalações eléctricas desde que demonstrem, em provas especiais de avaliação, possuir os conhecimentos adequados.\n\n2 - A forma como é feita a prova dos conhecimentos referidos no número anterior será objecto de portaria do Ministro da Indústria, Energia e Exportação, depois de ouvida a Direcção-Geral do Ensino Secundário.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2006 - Diário da República n.º 227/2006, Série I de 2006-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060), em vigor a partir de 2006-12-24"
+  },
+  "202403670": {
+   "fragment_id": "202403689",
+   "type": 11,
+   "heading": "Artigo 36.º — (Habilitações apropriadas)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 36.º — (Habilitações apropriadas)\n\n1 - Para os efeitos previstos no n.º 3 do artigo 4.º, na alínea c) do n.º 1 do artigo 5.º e no n.º 2 do artigo 6.º, consideram-se, desde já, como habilitações apropriadas os cursos constantes do anexo V.\n\n2 - Por despacho do Ministro da Indústria, Energia e Exportação, depois de ouvida a Direcção-Geral do Ensino Secundário, poderão ser consideradas apropriadas outras habilitações.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403671": {
+   "fragment_id": "202403690",
+   "type": 11,
+   "heading": "Artigo 37.º — (Engenheiros técnicos electromecânicos)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 37.º — (Engenheiros técnicos electromecânicos)\n\nPara efeitos da aplicação do presente Estatuto, considera-se equivalente à especialidade de electrotecnia o curso de electrotecnia e máquinas a que corresponde a designação profissional de engenheiro técnico electromecânico.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403672": {
+   "fragment_id": "202403691",
+   "type": 11,
+   "heading": "Artigo 38.º — (Desacordo entra a entidade exploradora e o técnico responsável)",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "###### Artigo 38.º — (Desacordo entra a entidade exploradora e o técnico responsável)\n\nNa eventualidade de desacordo entre a entidade exploradora da instalação eléctrica e o técnico responsável, nomeadamente nos casos referidos no n.º 7 do artigo 13.º, no n.º 2 do artigo 14.º, no artigo 17.º, nos n.os 1 e 2 do artigo 24.º e no artigo 28.º, deverá ser ouvida a fiscalização do Governo.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403673": {
+   "fragment_id": "202403692",
+   "type": 14,
+   "heading": "Anexo I — CÓDIGO DEONTOLÓGICO DOS TÉCNICOS RESPONSÁVEIS",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo I — CÓDIGO DEONTOLÓGICO DOS TÉCNICOS RESPONSÁVEIS\n\n1. - RESPONSABILIDADE GERAL NO EXERCÍCIO DA PROFISSÃO\n\n1.1 - O Técnico Responsável deve abster-se de aceitar trabalhos cuja execução exija mais tempo do que aquele de que dispõe ou ultrapasse a sua competência.\n\n1.2 - O Técnico Responsável deve ponderar a economia e a qualidade das instalações que projecte ou de que seja responsável, tendo plena consciência de que é um dos elementos responsáveis pela organização em que se insere.\n\n1.3 - O Técnico Responsável deve opor-se à utilização fraudulenta do resultado do seu trabalho e não colaborar na fabricação, venda ou utilização de materiais que contrariem as disposições regulamentares, a segurança ou interesses da comunidade.\n\n1.4 - O Técnico Responsável deve opor-se à utilização de meios desleais na concorrência e adoptará a sobriedade no anúncio dos seus serviços profissionais.\n\n1.5 - O Técnico Responsável nas soluções técnicas que propuser e adoptar, deve sempre seguir as normas de segurança para o pessoal executante, para os utilizadores e para o público em geral.\n\n1.6 - O Técnico Responsável deve tomar em consideração nas soluções técnicas que propuser ou adoptar a protecção do meio ambiente e dos recursos naturais renováveis sempre que estes estiverem em causa.\n\n2. - RELAÇÕES ENTRE OS TÉCNICOS\n\n2.1 - O Técnico Responsável deve, nas suas relações com os colegas, actuar sempre com boa fé, com inteira lealdade e em conformidade com os preceitos da deontologia profissional.\n\n2.2 - O Técnico Responsável deve empenhar-se em não prejudicar, directa ou indirectamente, a reputação profissional, ou as actividades profissionais de outros técnicos.\n\n2.3 - O Técnico Responsável deve empenhar-se em que não sejam menosprezados os trabalhos de outros colegas, devendo apreciá-los com elevação e apenas no aspecto profissional.\n\n2.4 - O Técnico Responsável deve prestar aos colegas toda a colaboração possível, de modo a fazer tudo ao seu alcance para que o trabalho de todos tenha o maior êxito e seja prestigiado.\n\n2.5 - O Técnico Responsável não concorrerá deslealmente com colegas na obtenção de trabalhos ou responsabilidades, nomeadamente:\n\n- Não aceitará honorários abaixo dos mínimos fixados por tabelas oficiais nem reduzirá honorários, nem abdicará de direitos legítimos após conhecimento de propostas de outros profissionais.\n\n- Não se servirá de vantagens resultantes de utilização ilegítima de cargos que exerça.\n\n2.6 - O Técnico Responsável deve recusar substituir um colega quando as razões dessa substituição não forem correctas, nunca o fazendo sem o seu acordo prévio ou o da Comissão de Análise e Classificação de Técnicos Responsáveis no caso de haver litígio a tal respeito.\n\n2.7 - O Técnico Responsável deve recusar proceder à revisão, alteração ou continuação dos trabalhos de outro colega sem prévio acordo deste ou, na sua falta, do da Comissão de Análise e Classificação de Técnicos Responsáveis, enquanto não tiver terminado o compromisso desse colega nos trabalhos em causa.\n\nTodavia, mesmo que esteja satisfeito o compromisso, deve comunicar a esse colega que o seu trabalho vai por ele ser revisto, alterado ou continuado.\n\n2.8 - O Técnico Responsável deve levar ao conhecimento da Comissão de Análise e Classificação de Técnicos Responsáveis, justificada e responsavelmente, actuações contrárias aos preceitos da deontologia profissional, informando do facto o colega em causa, sempre que possível previamente.\n\n3. - RELAÇÕES COM OS PROPRIETÁRIOS OU UTILIZADORES DAS INSTALAÇÕES, EMPREITEIROS E FORNECEDORES\n\n3.1 - O Técnico Responsável deve nas suas relações profissionais usar de inteira lealdade, procurando dar aos problemas as melhores soluções técnicas e económicas sem lesar os legítimos direitos dos intervenientes.\n\n3.2 - É obrigação do Técnico Responsável contribuir para a realização dos objectivos económico-sociais dos empreendimentos em que coopera.\n\n3.3 - O Técnico Responsável deve abster-se de exercer actividades concorrentes com as do seu empregador.\n\n3.4 - O Técnico Responsável apenas deve apresentar-se a concursos públicos ou privados, para prestação de serviços da sua competência, quando aqueles sejam abertos em condições que não contrariem o Estatuto do Técnico Responsável.\n\n3.5 - O Técnico Responsável só deve assinar os pareceres, projectos ou outros trabalhos profissionais desde que seja seu autor ou orientador-coordenador.\n\n3.6 - O Técnico Responsável deve prestar os seus serviços com diligência e pontualidade, nunca abandonando, sem justificação, os trabalhos ou cargos que lhe estejam confiados.\n\n3.7 - O Técnico Responsável não retardará injustificadamente a emissão de documentos que habilitem os empreiteiros ou fornecedores a cobrar os seus serviços ou a exercerem as suas actividades.\n\n3.8 - O Técnico Responsável não receberá, da parte de fornecedores ou empreiteiros, quaisquer benefícios, percentagens ou comissões sobre fornecimentos.\n\n3.9 - O Técnico Responsável deve recusar a execução de trabalhos ou colaboração sobre os quais saiba que terá de pronunciar-se no exercício de outras funções.\n\n4. - RELAÇÕES COM COLABORADORES\n\n4.1 - O Técnico Responsável deve, nos trabalhos ou nos serviços de que está encarregado, actuar, no que se refere às suas relações com colaboradores, de forma a eliminar ou impedir a prática de qualquer discriminação.\n\n4.2 - O Técnico Responsável deve promover a aplicação das técnicas de prevenção e segurança no trabalho, cooperando no alargamento e melhoria dessas técnicas.\n\n4.3 - O Técnico Responsável deve avaliar com objectividade o trabalho dos seus colaboradores, contribuindo, sempre que possível, para a sua valorização e promoção profissionais.\n\n5. - SEGREDO PROFISSIONAL\n\n5.1 - O Técnico Responsável não divulgará nem utilizará segredos profissionais nem informações científicas e técnicas obtidas no exercício das suas funções na medida em que disso possam vir a resultar prejuízos para os autores das descobertas correspondentes ou para os seus legítimos detentores.\n\n5.2 - O Técnico Responsável procederá, no que respeita às políticas das empresas, com o mesmo espírito com que deve encarar os segredos científicos e técnicos.\n\n6. - REMUNERAÇÕES\n\n6.1 - O Técnico Responsável deve ser remunerado apenas por serviços que efectivamente preste e na proporção do seu justo valor, não praticando dicotomia de honorários ou outra forma de distribuição destes.\n\n6.2 - O Técnico Responsável deve recusar a sua colaboração em trabalhos cujo pagamento esteja dependente dos seus resultados confirmarem uma conclusão pré-determinada ou demonstrarem a viabilidade económica de um empreendimento.\n\n7. - PERITAGEM E ARBITRAGEM\n\n7.1 - O Técnico Responsável deve, ao emitir pareceres profissionais, fazê-lo com objectividade e isenção.\n\n7.2 - O Técnico Responsável deve, quando testemunhar perante tribunal ou inquiridor, exprimir apenas opiniões fundamentadas em conhecimentos técnicos adequados e com honesta convicção.\n\n8. - ACTIVIDADE ASSOCIATIVA E PROFISSIONAL\n\n8.1 - O Técnico Responsável deve, na sua actividade associativa profissional actuar no sentido de promover o desenvolvimento da técnica e a melhor aplicação desta ao progresso económico-social da comunidade de que faz parte.\n\n8.2 - O Técnico Responsável deve, nas associações profissionais a que aderir, manter o prestígio da profissão por uma conduta irrepreensível e pelo valor da sua colaboração.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202403674": {
+   "fragment_id": "202403693",
+   "type": 14,
+   "heading": "Anexo II-1",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo II-1\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404275": {
+   "fragment_id": "202403694",
+   "type": 14,
+   "heading": "Anexo II-2",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo II-2\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404276": {
+   "fragment_id": "202403695",
+   "type": 14,
+   "heading": "Anexo II-3",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo II-3\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404277": {
+   "fragment_id": "202403696",
+   "type": 14,
+   "heading": "Anexo II-4",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo II-4\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404278": {
+   "fragment_id": "202403697",
+   "type": 14,
+   "heading": "Anexo II-5",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo II-5\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404279": {
+   "fragment_id": "202403698",
+   "type": 14,
+   "heading": "Anexo III-1",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo III-1\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404280": {
+   "fragment_id": "202403699",
+   "type": 14,
+   "heading": "Anexo III-2",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo III-2\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404281": {
+   "fragment_id": "202403700",
+   "type": 14,
+   "heading": "Anexo III-3",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo III-3\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404282": {
+   "fragment_id": "202403701",
+   "type": 14,
+   "heading": "Anexo III-4",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo III-4\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404283": {
+   "fragment_id": "202403702",
+   "type": 14,
+   "heading": "Anexo III-5",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo III-5\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404284": {
+   "fragment_id": "202403703",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo IV\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  },
+  "202404285": {
+   "fragment_id": "202403704",
+   "type": 14,
+   "heading": "Anexo V — HABILITAÇÕES CONSIDERADAS APROPRIADAS:",
+   "in_force_from": "2015-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+   ],
+   "markdown": "## Anexo V — HABILITAÇÕES CONSIDERADAS APROPRIADAS:\n\n1 - CURSOS DE ESTABELECIMENTOS DE ENSINO CIVIS:\n\n1.1 - Ao abrigo do disposto no Decreto n.º 20420, de 20/10/1931:\n\nCurso de electricista.\n\n1.2 - Ao abrigo do disposto no Decreto n.º 37029, de 25/8/1948:\n\nCurso Complementar de Aprendizagem de Electricista;\n\nCurso de Formação de Montador-Electricista;\n\nCurso de Formação de Electromecânico.\n\n1.3 - Ao abrigo do disposto no Decreto-Lei n.º 47587, de 10/3/1967:\n\nCurso Geral de Electricidade;\n\nCurso Complementar de Electrotecnia;\n\nCurso Complementar de Radiotecnia.\n\n1.4 - Ao abrigo do disposto no Decreto-Lei n.º 240/80, de 19/6/1980:\n\nCurso de Desenhador Projectista Electrotécnico;\n\nCurso Técnico de Instalações Eléctricas.\n\n2 - CURSOS DE ESTABELECIMENTOS DE ENSINO MILITARES:\n\nCurso de chefe de mecânico do ramo eléctrico;\n\nCurso de 1.º mecânico do ramo eléctrico;\n\nCurso de 2.º mecânico do ramo eléctrico;\n\nCurso de técnica complementar (CTC) das Escolas da Armada;\n\nCurso de formação técnica de electricistas (CFTE) das Escolas da Armada;\n\nCurso de 1.º grau de electricista das Escolas da Armada.\n\n> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/14-2015-66528823), em vigor a partir de 2015-08-15"
+  }
+ }
+}

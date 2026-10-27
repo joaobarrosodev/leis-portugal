@@ -1,0 +1,859 @@
+---
+schema_version: '1.0'
+id: eu:celex:32019R2088:por
+title: Regulamento (UE) 2019/2088 do Parlamento Europeu e do Conselho de 27 de novembro de 2019
+short_title: null
+summary: Regulamento (UE) 2019/2088 do Parlamento Europeu e do Conselho de 27 de novembro de 2019 relativo à divulgação de
+  informações relacionadas com a sustentabilidade no setor dos serviços financeiros (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2019/2088
+official_date: '2019-11-27'
+publication_date: '2019-12-09'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 317 de 9.12.2019
+  number: '317'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/4f50e277-1a53-11ea-8c1f-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2019-12-29'
+- '2020-07-12'
+- '2021-03-10'
+- '2022-01-01'
+- '2023-01-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2026-07-02'
+version_history:
+  file: regulamento-ue-2019-2088.versoes.json
+  count: 4
+  source_lastmod: '2026-07-02'
+  versions:
+  - date: '2019-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-12'
+    amending: eu:celex:32020R0852:por
+    amending_title: REGULAMENTO (UE) 2020/852 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de junho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2. — Definições
+    - Altera Artigo 8. — Transparência da promoção de características ambientais ou sociais na divulgação de informações pré‐contratuais
+    - Altera Artigo 9. — Transparência dos investimentos sustentáveis na divulgação de informações pré‐contratuais
+    - Altera Artigo 11. — Transparência da promoção das características ambientais ou sociais e dos investimentos sustentáveis
+      nos relatórios periódicos
+    - Altera Artigo 20. — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 2.º-A — Princípio de «não prejudicar significativamente»
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2. — Definições
+    - Altera Artigo 8. — Transparência da promoção de características ambientais ou sociais na divulgação de informações pré‐contratuais
+    - Altera Artigo 9. — Transparência dos investimentos sustentáveis na divulgação de informações pré‐contratuais
+    - Altera Notas
+    - Adita Artigo 18.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2026-07-02'
+    amending: eu:celex:32024R3005:por
+    amending_title: REGULAMENTO (UE) 2024/3005 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 2. — Definições
+    - Altera Artigo 8. — Transparência da promoção de características ambientais ou sociais na divulgação de informações pré‐contratuais
+    - Altera Artigo 9. — Transparência dos investimentos sustentáveis na divulgação de informações pré‐contratuais
+    - Altera Artigo 13. — Comunicações comerciais
+    - Altera Artigo 18.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Notas
+identifiers:
+  celex: 32019R2088
+  eli: http://data.europa.eu/eli/reg/2019/2088/oj
+  oj: oj:JOL_2019_317_R_0001
+  dre: null
+  dre_path: null
+  internal: eu:celex:32019R2088:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32019R2088
+  metadata_url: http://publications.europa.eu/resource/cellar/4f50e277-1a53-11ea-8c1f-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R2088-20260702
+  retrieved_at: '2026-10-22T17:10:18Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-13T23:53:52.823+01:00'
+integrity:
+  source_sha256: 9aecf49cbd31030de1466a94896965fc40258ae607add0bbe4cb40eb5be37d96
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:18Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2019-2088.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- comunicação de dados
+- gestão de riscos
+- informação do consumidor
+- investimento
+- profissão financeira
+- regulamentação financeira
+- risco financeiro
+- seguro
+- serviços financeiros
+- sociedade de investimento
+relationships:
+- type: amended_by
+  target: celex:32020R0852
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e5ba36a8-b454-11ea-bb7a-01aa75ed71a1
+  date: '2020-06-22'
+- type: amended_by
+  target: celex:32023R2869
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e934cc57-9ed8-11ee-b164-01aa75ed71a1
+  date: '2023-12-20'
+- type: amended_by
+  target: celex:32024R3005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cfb94521-b829-11ef-91ed-01aa75ed71a1
+  date: '2024-12-12'
+- type: based_on
+  target: celex:12016E114
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d3888e0c-402f-4c03-9a52-950ed36e0aae
+  date: '2016-06-09'
+- type: cited_by
+  target: pt:dre:1075988790:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:914597185:por
+  label: null
+  source: null
+- type: cites
+  target: celex:12016E290
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2336cfbf-797f-4c59-b9f7-e859ed72817e
+- type: cites
+  target: celex:12016E291
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9a75ce7b-ec84-48e9-a4ff-91a24890a022
+- type: cites
+  target: celex:12016M005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c404f9ba-4b2f-403c-8517-f911d61cbbd7
+- type: cites
+  target: celex:22016A1019(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8e9b8d04-95ca-11e6-a9e2-01aa75ed71a1
+- type: cites
+  target: celex:32009L0065
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0baaf4bd-450e-4b61-8bfd-6d7bad1f97cf
+- type: cites
+  target: celex:32009L0138
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b11ac130-fd92-46f8-a63a-940b0663bd79
+- type: cites
+  target: celex:32010R1093
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c2eecef2-5a33-4525-931e-53cf6e6f96c7
+- type: cites
+  target: celex:32010R1094
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4bd6de5a-ce58-4243-a5ad-bdd19d7cd556
+- type: cites
+  target: celex:32010R1095
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d6206116-a910-4ffa-b6cd-f14b1b503568
+- type: cites
+  target: celex:32011L0061
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d75d4591-19f4-470f-a1ba-6833902d0d76
+- type: cites
+  target: celex:32013L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/aef88894-e08d-11e2-9165-01aa75ed71a1
+- type: cites
+  target: celex:32013L0036
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2ff66fd7-df0b-11e2-9165-01aa75ed71a1
+- type: cites
+  target: celex:32013R0345
+  label: null
+  source: http://publications.europa.eu/resource/cellar/001cf2ee-acc8-11e2-ab01-01aa75ed71a1
+- type: cites
+  target: celex:32013R0346
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5914d3f1-acc8-11e2-ab01-01aa75ed71a1
+- type: cites
+  target: celex:32014L0065
+  label: null
+  source: http://publications.europa.eu/resource/cellar/056587cf-f1f8-11e3-8cd4-01aa75ed71a1
+- type: cites
+  target: celex:32014R1286
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cdc2a6c0-abba-11e4-b5b2-01aa75ed71a1
+- type: cites
+  target: celex:32015R0760
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a0abe09c-fdf9-11e4-a4c8-01aa75ed71a1
+- type: cites
+  target: celex:32016D1841
+  label: null
+  source: http://publications.europa.eu/resource/cellar/07fa5f0d-95ca-11e6-a9e2-01aa75ed71a1
+- type: cites
+  target: celex:32016L0097
+  label: null
+  source: http://publications.europa.eu/resource/cellar/71ac60f7-c97f-11e5-a4b5-01aa75ed71a1
+- type: cites
+  target: celex:32016L2341
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3dbea47a-c8a2-11e6-a6db-01aa75ed71a1
+- type: cites
+  target: celex:32016R1011
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5f55dd2e-3dbb-11e6-a825-01aa75ed71a1
+- type: cites
+  target: celex:32019R1238
+  label: null
+  source: http://publications.europa.eu/resource/cellar/59b7f33d-ae8d-11e9-9d01-01aa75ed71a1
+- type: cites
+  target: celex:52016DC0739
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2272fb15-b166-11e6-871e-01aa75ed71a1
+- type: cites
+  target: celex:52018AE2766
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f043b369-30f5-11e9-8d04-01aa75ed71a1
+- type: corrected_by
+  target: celex:32019R2088R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/099501dd-b778-11ea-bb7a-01aa75ed71a1
+  date: '2020-06-26'
+- type: corrected_by
+  target: celex:32019R2088R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/697bc8eb-b778-11ea-bb7a-01aa75ed71a1
+  date: '2020-06-26'
+- type: corrected_by
+  target: celex:32019R2088R(03)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/28fa0c0a-c271-11ea-b3a4-01aa75ed71a1
+  date: '2020-07-10'
+- type: corrected_by
+  target: celex:32019R2088R(04)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a6c3ef4c-6c3f-11eb-aeb5-01aa75ed71a1
+  date: '2021-02-11'
+- type: corrected_by
+  target: celex:32019R2088R(05)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e1dc0200-9ddc-11eb-b85c-01aa75ed71a1
+  date: '2021-04-15'
+- type: corrected_by
+  target: celex:32019R2088R(06)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/45743f23-c6b1-11ec-b6f4-01aa75ed71a1
+  date: '2022-04-28'
+- type: corrected_by
+  target: celex:32019R2088R(07)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d24f2cc9-4544-11ed-92ed-01aa75ed71a1
+  date: '2022-10-06'
+- type: corrected_by
+  target: celex:32019R2088R(08)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/927c867f-7150-11ed-9887-01aa75ed71a1
+  date: '2022-12-01'
+article_structure:
+  article_count: 22
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T17:10:18Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (UE) 2019/2088 do Parlamento Europeu e do Conselho de 27 de novembro de 2019
+
+de 27 de novembro de 2019
+
+relativo à divulgação de informações relacionadas com a sustentabilidade no setor dos serviços financeiros
+
+(Texto relevante para efeitos do EEE)
+
+###### Artigo 1. — Objeto
+
+O presente regulamento estabelece regras harmonizadas de transparência aplicáveis aos intervenientes no mercado financeiro e aos consultores financeiros no que se refere à integração dos riscos em matéria de sustentabilidade e à consideração dos impactos negativos para a sustentabilidade nos seus processos, e à prestação de informações relacionadas com a sustentabilidade em relação a produtos financeiros.
+
+###### Artigo 2. — Definições
+
+Para efeitos do presente regulamento, entende‐se por:
+
+1) «Interveniente no mercado financeiro»:
+
+a) uma empresa de seguros que propõe um produto de investimento com base em seguros (IBIP);
+
+b) uma empresa de investimento que presta serviços de gestão de carteiras;
+
+c) uma instituição de realização de planos de pensões profissionais (IRPPP);
+
+d) um criador de um produto de pensão;
+
+e) um gestor de um fundo de investimento alternativo (GFIA);
+
+f) um prestador de produtos individuais de reforma pan‐europeus (PEPP);
+
+g) um gestor de um fundo de capital de risco qualificado registado nos termos do artigo 14.º do Regulamento (UE) n.º 345/2013;
+
+h) um gestor de um fundo de empreendedorismo social qualificado registado nos termos do artigo 15.º do Regulamento (UE) n.º 346/2013;
+
+i) uma sociedade gestora de um organismo de investimento coletivo em valores mobiliários («sociedade gestora de OICVM»); ou
+
+j) uma instituição de crédito que presta serviços de gestão de carteiras;
+
+2) «Empresa de seguros», uma empresa de seguros autorizada nos termos do artigo 18.º da Diretiva 2009/138/CE;
+
+3) «Produto de investimento com base em seguros» ou «IBIP»:
+
+a) um produto de investimento com base em seguros, na aceção do artigo 4.º, ponto 2, do Regulamento (UE) n.º 1286/2014 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#E0001)); ou
+
+b) um produto de seguros, que é proposto a um investidor profissional e prevê um prazo de vencimento ou um valor de resgate que está total ou parcialmente exposto, de forma direta ou indireta, a flutuações de mercado;
+
+4) «Gestores de fundos de investimento alternativos» ou «GFIA», um GFIA na aceção do artigo 4.º, ponto 1, alínea b), da Diretiva 2011/61/UE;
+
+5) «Empresa de investimento», uma empresa de investimento na aceção do artigo 4.º, n.º 1, ponto 1), da Diretiva 2014/65/UE;
+
+6) «Gestão de carteiras», a gestão de carteiras na aceção do artigo 4.º, n.º 1, ponto 8), da Diretiva 2014/65/UE;
+
+7) «Instituição de realização de planos de pensões profissionais» ou «IRPPP», uma instituição de realização de planos de pensões profissionais autorizada ou registada nos termos do artigo 9.º da Diretiva (UE) 2016/2341, exceto uma instituição em relação à qual um Estado‐Membro tenha optado por aplicar o artigo 5.º da referida diretiva ou uma instituição que gira planos de pensões que tenham, no seu conjunto, um número de participantes inferior a 15;
+
+8) «Produto de pensões»:
+
+a) um produto de pensões a que se refere o artigo 2.º, n.º 2, alínea e), do Regulamento (UE) n.º 1286/2014; ou
+
+b) um produto de pensões individual a que se refere o artigo 2.º, n.º 2, alínea g), do Regulamento (UE) n.º 1286/2014;
+
+9) «produto individual de reforma pan‐europeu» ou «PEPP», um produto a que se refere o artigo 2.º, ponto 2, do Regulamento (UE) 2019/1238;
+
+10) «Sociedade gestora de OICVM»:
+
+a) uma sociedade gestora na aceção do artigo 2.º, n.º 1, alínea b), da Diretiva 2009/65/CE; ou
+
+b) uma sociedade de investimento autorizada nos termos da Diretiva 2009/65/CE que não tenha designado uma sociedade gestora autorizada nos termos dessa diretiva para a sua gestão;
+
+11) «Consultor financeiro»:
+
+a) um mediador de seguros que presta aconselhamento em matéria de seguros no que se refere a IBIP;
+
+b) uma empresa de seguros que presta aconselhamento em matéria de seguros no que se refere a IBIP;
+
+c) uma instituição de crédito que presta serviços de consultoria para investimento;
+
+d) uma empresa de investimento que presta serviços de consultoria para investimento;
+
+e) um GFIA que presta serviços de consultoria para investimento nos termos do artigo 6.º, n.º 4, alínea b), subalínea i), da Diretiva 2011/61/UE; ou
+
+f) uma sociedade gestora de OICVM que presta serviços de consultoria para investimento nos termos do artigo 6.º, n.º 3, alínea b), subalínea i), da Diretiva 2009/65/CE;
+
+12) «Produto financeiro»:
+
+a) uma carteira gerida nos termos da alínea 6) do presente artigo;
+
+b) um fundo de investimento alternativo (FIA);
+
+c) um IBIP;
+
+d) um produto de pensões;
+
+e) um plano de pensões;
+
+f) um OICVM; ou
+
+g) um PEPP;
+
+13) «Fundos de investimento alternativo» ou «FIAs», FIAs na aceção do artigo 4.º, n.º 1, alínea a), da Diretiva 2011/61/UE;
+
+14) «Plano de pensões», um plano de pensões na aceção do artigo 6.º, n.º 2, da Diretiva (UE) 2016/2341;
+
+15) «Organismo de investimento coletivo em valores mobiliários» ou «OICVM», um organismo autorizado nos termos do artigo 5.º da Diretiva 2009/65/CE;
+
+16) «Consultoria para investimento», a consultoria para investimento na aceção do artigo 4.º, n.º 1, ponto 4, da Diretiva 2014/65/UE;
+
+17) «Investimento sustentável», um investimento numa atividade económica que contribui para um objetivo de natureza ambiental, tal como medido, por exemplo, pelos indicadores fundamentais da eficiência dos recursos em matéria de utilização de energia, de energias renováveis, de matérias‐primas, da água e dos solos, de produção de resíduos e de emissões de gases com efeito de estufa, ou do impacto na biodiversidade e na economia circular, ou um investimento numa atividade económica que contribui para um objetivo de natureza social, em particular um investimento que contribui para combater as desigualdades ou que promove a coesão social, a integração social e as relações laborais, ou um investimento em capital humano ou em comunidades económica ou socialmente desfavorecidas, desde que tais investimentos não prejudiquem significativamente nenhum desses objetivos e desde que as empresas beneficiárias do investimento empreguem práticas de boa governação, em particular no que diz respeito a estruturas de gestão, relações laborais e práticas de remuneração do pessoal sãs e ao cumprimento das obrigações fiscais;
+
+18) «Investidor profissional», um cliente que satisfaz os critérios estabelecidos no anexo II da Diretiva 2014/65/UE;
+
+19) «Investidor não profissional», um investidor que não é um investidor profissional;
+
+20) «Mediador de seguros», um mediador de seguros na aceção do artigo 2.º, n.º 1, ponto 3), da Diretiva (UE) 2016/97;
+
+21) «Aconselhamento em matéria de seguros», aconselhamento na aceção do artigo 2.º, n.º 1, ponto 15), da Diretiva (UE) 2016/97;
+
+22) «Risco em matéria de sustentabilidade», um acontecimento ou condição de natureza ambiental, social ou de governação cuja ocorrência é suscetível de provocar um impacto negativo significativo efetivo ou potencial no valor do investimento;
+
+23) «Fundo europeu de investimento a longo prazo» ou «ELTIF», um fundo autorizado nos termos do artigo 6.º do Regulamento (UE) 2015/760;
+
+24) «Fatores de sustentabilidade», as questões ambientais, sociais e laborais, o respeito dos direitos humanos, a luta contra a corrupção e o suborno.
+
+###### Artigo 2.º-A — Princípio de «não prejudicar significativamente»
+
+1. As Autoridades Europeias de Supervisão criadas pelos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho (coletivamente designadas «ESA») elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem em pormenor o teor e a apresentação das informações à luz do princípio de «não prejudicar significativamente» a que se refere o artigo 2.º, ponto 17, do presente regulamento, em conformidade com o conteúdo, as metodologias e a apresentação dos indicadores de sustentabilidade relacionados com os impactos negativos a que se refere o artigo 4.º, n.^os^ 6 e 7, do presente regulamento.
+
+2. Até 30 de dezembro de 2020, as ESA apresentam à Comissão os projetos de normas técnicas de regulamentação a que se refere o n.º 1.
+
+3. É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o n.º 1 do presente artigo, nos termos dos artigos 10.º a 14.° dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+###### Artigo 3. — Transparência das políticas relativas aos riscos em matéria de sustentabilidade
+
+1. Os intervenientes no mercado financeiro publicam nos respetivos sítios Web informações relativas às suas políticas sobre a integração dos riscos em matéria de sustentabilidade no seu processo de tomada de decisões de investimento.
+
+2. Os consultores financeiros publicam nos respetivos sítios Web informações relativas às suas políticas sobre a integração dos riscos em matéria de sustentabilidade na sua consultoria para investimento ou no seu aconselhamento em matéria de seguros.
+
+###### Artigo 4. — Transparência dos impactos negativos para a sustentabilidade a nível da entidade
+
+1.
+
+Os intervenientes no mercado financeiro publicam e atualizam nos respetivos sítios Web:
+
+a) Se tiverem em conta os principais impactos negativos das decisões de investimento sobre os fatores de sustentabilidade, uma declaração sobre as políticas de diligência devida relativamente a esses impactos, atendendo devidamente à sua dimensão, à natureza e à escala das suas atividades e aos tipos de produtos financeiros que disponibilizam; ou
+
+b) Se não tiverem em conta os impactos negativos das decisões de investimento sobre os fatores de sustentabilidade, motivos claros para tal, incluindo, se for caso disso, informações sobre se e quando tencionam ter em conta esses impactos negativos.
+
+2.
+
+Os intervenientes no mercado financeiro incluem nas informações fornecidas nos termos do n.º 1, alínea a), pelo menos, o seguinte:
+
+a) Informações sobre as suas políticas relativas à identificação e definição de prioridades no que se refere aos principais impactos negativos e indicadores em matéria de sustentabilidade;
+
+b) Uma descrição dos principais impactos negativos em matéria de sustentabilidade e das medidas conexas tomadas ou, se for o caso, planeadas;
+
+c) Breves sínteses das políticas de envolvimento, nos termos do artigo 3.º‐G da Diretiva 2007/36/CE, quando aplicável;
+
+d) A referência ao cumprimento, pelos intervenientes no mercado financeiro, dos códigos de conduta empresarial responsável e das normas internacionalmente reconhecidas em matéria de diligência devida e de apresentação de relatórios e, se for o caso, ao grau do seu alinhamento com os objetivos do Acordo de Paris.
+
+3. Em derrogação do n.º 1, a partir de 30 de junho de 2021, os intervenientes no mercado financeiro que, à data de encerramento do respetivo balanço, excedam o critério do número médio de 500 trabalhadores durante o exercício financeiro, publicam e atualizam nos seus sítios Web uma declaração sobre as suas políticas de diligência devida no que respeita aos principais impactos negativos das decisões de investimento sobre os fatores de sustentabilidade. Essa declaração deve incluir, pelo menos, as informações referidas no n.º 2.
+
+4. Em derrogação do n.º 1 do presente artigo, a partir de 30 de junho de 2021, os intervenientes no mercado financeiro que sejam empresas‐mãe de um grande grupo a que se refere o artigo 3.º, n.º 7, da Diretiva 2013/34/UE que, à data de encerramento do balanço consolidado do grupo, excedam o critério do número médio de 500 trabalhadores durante o exercício financeiro, publicam e atualizam nos respetivos sítios Web uma declaração sobre as suas políticas de diligência devida no que respeita aos principais impactos negativos das decisões de investimento sobre os fatores de sustentabilidade. Essa declaração deve incluir, pelo menos, as informações referidas no n.º 2.
+
+5.
+
+Os consultores financeiros publicam e atualizam nos respetivos sítios Web:
+
+a) Informações sobre se, atendendo devidamente à sua dimensão, à natureza e escala das suas atividades e aos tipos dos produtos financeiros sobre os quais prestam aconselhamento, nos seus serviços de consultoria para investimento ou de seguros têm em conta os principais impactos negativos sobre os fatores de sustentabilidade; ou
+
+b) Informações sobre a razão pela qual não têm em conta os impactos negativos das decisões de investimento sobre os fatores de sustentabilidade nos seus serviços de consultoria para investimento ou de seguros e, se for caso disso, informações sobre se e quando tencionam ter em conta esses impactos negativos.
+
+6. Até 30 de dezembro de 2020, as ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010 sobre o teor, as metodologias e a apresentação das informações a que se referem os n.^os^ 1 a 5 do presente artigo, no que diz respeito aos indicadores de sustentabilidade relacionados com os impactos negativos no clima e outros impactos negativos relacionados com o ambiente.
+
+As ESA solicitam, se for caso disso, o contributo da Agência Europeia do Ambiente e do Centro Comum de Investigação da Comissão Europeia.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo, nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+7. Até 30 de dezembro de 2021, as ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010 sobre o teor, as metodologias e a apresentação das informações a que se referem os n.^os^ 1 a 5 do presente artigo, no que diz respeito aos indicadores de sustentabilidade relacionados com os impactos negativos nos domínios das questões sociais e laborais, do respeito dos direitos humanos, da luta contra a corrupção e o suborno.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo, nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+###### Artigo 5. — Transparência das políticas de remuneração no que diz respeito à integração dos riscos em matéria de sustentabilidade
+
+1. Os intervenientes no mercado financeiro e os consultores financeiros incluem nas suas políticas de remuneração informações sobre a forma como essas políticas correspondem à integração dos riscos em matéria de sustentabilidade e publicam essas informações nos respetivos sítios Web.
+
+2. A informação a que se refere o n.º 1 é incluída nas políticas de remuneração que os intervenientes no mercado financeiro e os consultores financeiros devem estabelecer e atualizar em conformidade com a legislação setorial, em especial as Diretivas 2009/65/CE, 2009/138/CE, 2011/61/UE, 2013/36/UE, 2014/65/UE, (UE) 2016/97 e (UE) 2016/2341.
+
+###### Artigo 6. — Transparência no que diz respeito à integração dos riscos em matéria de sustentabilidade
+
+1.
+
+Os intervenientes no mercado financeiro incluem, na divulgação de informações pré‐contratuais, descrições dos seguintes elementos:
+
+a) O modo como os riscos em matéria de sustentabilidade são integrados nas suas decisões de investimento; e
+
+b) Os resultados da avaliação dos potenciais impactos dos riscos em matéria de sustentabilidade no rendimento dos produtos financeiros que disponibilizarem.
+
+Sempre que os intervenientes no mercado financeiro considerarem que os riscos em matéria de sustentabilidade não são relevantes, as descrições referidas no primeiro parágrafo devem incluir uma explicação clara e concisa das razões para tal.
+
+2.
+
+Os consultores financeiros incluem, na divulgação de informações pré‐contratuais, descrições dos seguintes elementos:
+
+a) O modo como os riscos em matéria de sustentabilidade são integrados nos seus serviços de consultoria para investimento ou aconselhamento em matéria de seguros; e
+
+b) O resultado da avaliação dos potenciais impactos dos riscos em matéria de sustentabilidade no rendimento dos produtos financeiros sobre os quais prestem aconselhamento.
+
+Sempre que os consultores financeiros considerarem que os riscos em matéria de sustentabilidade não são relevantes, as descrições referidas no primeiro parágrafo devem incluir uma explicação clara e concisa das razões para tal.
+
+3.
+
+As informações referidas nos n.^os^ 1 e 2 do presente artigo são divulgadas do seguinte modo:
+
+a) Para os GFIA, na divulgação de informações aos investidores a que se refere o artigo 23.º, n.º 1, da Diretiva 2011/61/UE;
+
+b) Para as empresas de seguros, na comunicação de informações a que se refere o artigo 185.º, n.º 2, da Diretiva 2009/138/CE ou, se for caso disso, nos termos do artigo 29.º, n.º 1, da Diretiva (UE) 2016/97;
+
+c) Para as IRPPP, na prestação de informações a que se refere o artigo 41.º da Diretiva (UE) 2016/2341;
+
+d) Para os gestores de fundos de capital de risco qualificados, na prestação de informações a que se refere o artigo 13.º, n.º 1, do Regulamento (UE) n.º 345/2013;
+
+e) Para os gestores de fundos de empreendedorismo social qualificados, na prestação de informações a que se refere o artigo 14.º, n.º 1, do Regulamento (UE) n.º 346/2013;
+
+f) Para os criadores de produtos de pensões, por escrito, em tempo útil, antes de um investidor não profissional estar vinculado por um contrato relacionado com um produto de pensões;
+
+g) Para as sociedades gestoras de OICVM, no prospeto a que se refere o artigo 69.º da Diretiva 2009/65/CE;
+
+h) Para as empresas de investimento que prestam serviços de gestão de carteiras ou serviços de consultoria para investimento, nos termos do artigo 24.º, n.º 4, da Diretiva 2014/65/UE;
+
+i) Para as instituições de crédito que prestam serviços de gestão de carteiras ou serviços de consultoria para investimento, em conformidade com o artigo 24.º, n.º 4, da Diretiva 2014/65/UE;
+
+j) Para os mediadores de seguros e as empresas de seguros que prestam aconselhamento em matéria de seguros no que se refere a IBIP e para mediadores de seguros que prestam aconselhamento em matéria de seguros no que se refere a produtos de pensões expostos a flutuações de mercado, em conformidade com o artigo 29.º, n.º 1, da Diretiva (UE) 2016/97;
+
+k) Para os GFIA ou ELTIF, no prospeto a que se refere o artigo 23.º do Regulamento (UE) 2015/760;
+
+l) Para os prestadores de PEPP, no documento de informação fundamental relativo ao PEPP a que se refere o artigo 26.º do Regulamento (UE) 2019/1238.
+
+###### Artigo 7. — Transparência dos impactos negativos para a sustentabilidade a nível do produto financeiro
+
+1.
+
+Até 30 de dezembro de 2022, para cada produto financeiro, sempre que um interveniente no mercado financeiro aplicar o artigo 4.º, n.^os^ 1, alínea a), ou o artigo 4.º, n.^os^ 3 ou 4, a divulgação de informações a que se refere o artigo 6.º, n.º 3, deve incluir o seguinte:
+
+a) Uma explicação clara e fundamentada sobre se, e em caso afirmativo de que forma, um produto financeiro tem em conta os principais impactos negativos sobre os fatores de sustentabilidade;
+
+b) Uma declaração de que está disponível informação sobre os principais impactos negativos sobre os fatores de sustentabilidade nas informações a divulgar nos termos do artigo 11.º, n.º 2.
+
+Sempre que as informações constantes do artigo 11.º, n.º 2, incluírem quantificações dos principais impactos negativos sobre os fatores de sustentabilidade, essas informações podem basear‐se nas disposições das normas técnicas de regulamentação adotadas nos termos do artigo 4.º, n.^os^ 6 e 7.
+
+2. Sempre que um interveniente no mercado financeiro aplicar o artigo 4.º, n.º 1, alínea b), a divulgação de informações a que se refere o artigo 6.º, n.º 3, deve incluir, para cada produto financeiro, uma declaração de que o interveniente no mercado financeiro não tem em conta os impactos negativos das decisões de investimento sobre os fatores de sustentabilidade e as razões para tal.
+
+###### Artigo 8. — Transparência da promoção de características ambientais ou sociais na divulgação de informações pré‐contratuais
+
+1.
+
+Sempre que um produto financeiro promova, entre outras, características ambientais ou sociais, ou uma combinação destas características, desde que as empresas em que são efetuados os investimentos respeitem as práticas de boa governação, as informações a divulgar nos termos do artigo 6.º, n.^os^ 1 e 3, devem incluir o seguinte:
+
+a) Informações sobre o modo como essas características são alcançadas;
+
+b) Se tiver sido designado um índice de referência, informações sobre se e de que forma este índice corresponde a essas características.
+
+2. Os intervenientes no mercado financeiro incluem, nas informações a divulgar nos termos do artigo 6.º, n.^os^ 1 e 3, uma indicação do local onde é possível consultar a metodologia utilizada para o cálculo do índice referido no n.º 1 do presente artigo.
+
+2-A. Sempre que os intervenientes no mercado financeiro disponibilizarem um produto financeiro a que se refere o artigo 6.º do Regulamento (UE) 2020/852 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#E0002)), incluem nas informações a divulgar nos termos do artigo 6.º, n.^os^ 1 e 3, do presente regulamento, as informações exigidas por força do artigo 6.º do Regulamento (UE) 2020/852.
+
+3. As ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem em pormenor o teor e a apresentação das informações a divulgar nos termos dos n.^os^ 1 e 2 do presente artigo.
+
+Ao elaborarem os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo, as ESA têm em conta os diferentes tipos de produtos financeiros, as suas características e as respetivas diferenças, bem como o objetivo de divulgação de informações exatas, justas, claras, que não induzam em erro, simples e concisas.
+
+As ESA apresentam à Comissão os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo até 30 de dezembro de 2020.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo, nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+4. As ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem em pormenor o teor e a apresentação das informações a que se refere o n.º 2-A do presente artigo.
+
+Ao elaborarem os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, as ESA têm em conta os diferentes tipos de produtos financeiros, as características desses produtos financeiros e as diferenças entre esses produtos financeiros, bem como o objetivo de divulgação de informações exatas, justas, claras, que não induzam em erro, simples e concisas, e, se necessário para atingir esse objetivo, elaboram projetos de alteração das normas técnicas de regulamentação a que se refere o n.º 3 do presente artigo. Os projetos de normas técnicas de regulamentação devem ter em conta as respetivas datas de aplicação estabelecidas no artigo 27.º, n.º 2, alíneas a) e b), do Regulamento (UE) 2020/852, no que diz respeito aos objetivos ambientais a que se refere o artigo 9.º desse regulamento.
+
+As ESA apresentam à Comissão os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo:
+
+a) No que diz respeito aos objetivos ambientais a que se refere o artigo 9.º, alíneas a) e b), do Regulamento (UE) 2020/852, até 1 de junho de 2021; e
+
+b) No que diz respeito aos objetivos ambientais a que se refere o artigo 9.º, alíneas c) a f), do Regulamento (UE) 2020/852, até 1 de junho de 2022.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, nos termos dos artigos 10.º a 14.° dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+###### Artigo 9. — Transparência dos investimentos sustentáveis na divulgação de informações pré‐contratuais
+
+1.
+
+Sempre que um produto financeiro tiver como objetivo investimentos sustentáveis e tiver sido designado um índice de referência, as informações a divulgar nos termos do artigo 6.º, n.^os^ 1 e 3, devem ser acompanhadas de:
+
+a) Informações sobre a forma como o índice designado está alinhado com esse objetivo;
+
+b) Uma explicação sobre por que razão e de que forma o índice designado alinhado com esse objetivo difere de um índice geral de mercado.
+
+2. Sempre que um produto financeiro tiver como objetivo investimentos sustentáveis e não tiver sido designado um índice de referência, as informações a divulgar nos termos do artigo 6.º, n.^os^ 1 e 3, devem incluir uma explicação da forma como esse objetivo deve ser alcançado.
+
+3. Sempre que um produto financeiro tiver como objetivo a redução das emissões de carbono, as informações a divulgar nos termos do artigo 6.º, n.^os^ 1 e 3, devem incluir o objetivo de exposição a baixas emissões de carbono, a fim de alcançar os objetivos de longo prazo relativos ao aquecimento global do Acordo de Paris.
+
+Em derrogação do n.º 2 do presente artigo, se não estiver disponível nenhum índice de referência da UE para a transição climática ou índice de referência da UE alinhado com o acordo de Paris de acordo com o Regulamento (UE) 2016/1011 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#E0003)), as informações referidas no artigo 6.º devem incluir uma explicação pormenorizada da forma como é assegurado o esforço continuado para alcançar o objetivo de redução das emissões de carbono, a fim de alcançar os objetivos de longo prazo relativos ao aquecimento global do Acordo de Paris.
+
+4. Os intervenientes no mercado financeiro incluem, nas informações a divulgar nos termos do artigo 6.º, n.^os^ 1 e 3, uma indicação do local onde é possível consultar a metodologia utilizada para o cálculo dos índices referidos no n.º 1 do presente artigo e dos índices de referência referidos no n.º 3, segundo parágrafo, do presente artigo.
+
+4-A. Os intervenientes no mercado financeiro incluem nas informações a divulgar nos termos do artigo 6.º, n.^os^ 1 e 3, do presente regulamento, as informações exigidas por força do artigo 5.º do Regulamento (UE) 2020/852
+
+5. As ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem em pormenor o teor e a apresentação das informações a divulgar nos termos dos n.^os^ 1 a 4 do presente artigo.
+
+Ao desenvolverem os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, as ESA devem ter em conta os diferentes tipos de produtos financeiros, os seus objetivos a que se referem os n.^os^ 1, 2 e 3 e as diferenças entre eles, bem como o objetivo de divulgação de informações exatas, justas, claras, que não induzam em erro, simples e concisas.
+
+As ESA apresentam à Comissão os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo até 30 de dezembro de 2020.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo, nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+6. As ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem em pormenor o teor e a apresentação das informações a que se refere o n.º 4-A do presente artigo.
+
+Ao elaborarem os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, as ESA têm em conta os vários tipos de produtos financeiros, os seus objetivos tal como referidos no n.º 4-A do presente artigo e as diferenças entre eles, bem como o objetivo de divulgação de informações exatas, justas, claras, que não induzam em erro, simples e concisas, e, se necessário para atingir esse objetivo, elaboram projetos de alteração das normas técnicas de regulamentação a que se refere o n.º 5 do presente artigo. Os projetos de normas técnicas de regulamentação devem ter em conta as respetivas datas de aplicação estabelecidas no artigo 27.º, n.º 2, alíneas a) e b), do Regulamento (UE) 2020/852, no que diz respeito aos objetivos ambientais a que se refere o artigo 9.º do mesmo regulamento.
+
+As ESA apresentam à Comissão os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo:
+
+a) No que diz respeito aos objetivos ambientais a que se refere o artigo 9.º, alíneas a) e b), do Regulamento (UE) 2020/852, até 1 de junho de 2021; e
+
+b) No que diz respeito aos objetivos ambientais a que se refere o artigo 9.º, alíneas c) a f), do Regulamento (UE) 2020/852, até 1 de junho de 2022.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, nos termos dos artigos 10.º a 14.° dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+###### Artigo 10. — Transparência da promoção das características ambientais ou sociais e dos investimentos sustentáveis nos sítios Web
+
+1.
+
+Os intervenientes no mercado financeiro publicam e atualizam nos respetivos sítios Web, para cada produto financeiro referido no artigo 8.º, n.º 1, e no artigo 9.º, n.^os^ 1, 2 e 3, os elementos que se seguem:
+
+a) Uma descrição das características ambientais ou sociais ou do objetivo de investimento sustentável;
+
+b) Informação sobre as metodologias utilizadas para avaliar, medir e monitorizar as características ambientais ou sociais do impacto dos investimentos sustentáveis selecionados para o produto financeiro, incluindo as suas fontes de dados, os critérios de análise para os ativos subjacentes e os indicadores de sustentabilidade relevantes utilizados para medir as características ambientais ou sociais ou o impacto global do produto financeiro em matéria de sustentabilidade;
+
+c) As informações referidas nos artigos 8.º e 9.º;
+
+d) As informações referidas no artigo 11.º.
+
+As informações a divulgar nos termos do primeiro parágrafo devem ser claras, concisas e compreensíveis para os investidores. Devem ser publicadas de forma exata, justa, clara, que não induza em erro, simples e concisa, e num local bem visível do sítio Web.
+
+2. As ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem com maior detalhe o conteúdo das informações referidas no n.º 1, primeiro parágrafo, alíneas a) e b), e os requisitos de apresentação referidos no segundo parágrafo do mesmo número.
+
+Ao desenvolverem os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, as ESA têm em conta os diferentes tipos de produtos financeiros, as suas características e objetivos a que se refere o n.º 1 e diferenças entre eles. As ESA atualizam as normas técnicas de regulamentação à luz da evolução regulamentar e tecnológica.
+
+As ESA apresentam à Comissão os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo até 30 de dezembro de 2020.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo, nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+###### Artigo 11. — Transparência da promoção das características ambientais ou sociais e dos investimentos sustentáveis nos relatórios periódicos
+
+1.
+
+Sempre que os intervenientes no mercado financeiro propuserem um produto financeiro a que se refere o artigo 8.º, n.º 1, ou o artigo 9.º, n.^os^ 1, 2 ou 3, devem incluir nos relatórios periódicos uma descrição dos elementos que se seguem:
+
+a) Para um produto financeiro a que se refere o artigo 8.º, n.º 1, em que medida são alcançadas as características ambientais ou sociais;
+
+b) Para um produto financeiro a que se refere o artigo 9.º, n.^os^ 1, 2 ou 3,
+
+i) o impacto global do produto financeiro em matéria de sustentabilidade, através de indicadores de sustentabilidade relevantes; ou
+
+ii) caso tenha sido designado um índice de referência, uma comparação entre o impacto global do produto financeiro em matéria de sustentabilidade com os impactos do índice designado e de um índice geral através de indicadores de sustentabilidade;
+
+c) Para um produto financeiro abrangido pelo artigo 5.º do Regulamento (UE) 2020/852, as informações exigidas por força desse artigo;
+
+d) Para um produto financeiro abrangido pelo artigo 6.º do Regulamento (UE) 2020/852, as informações exigidas por força desse artigo.
+
+2.
+
+As informações referidas no n.º 1 do presente artigo são divulgadas do seguinte modo:
+
+a) Para os GFIA, no relatório anual a que se refere o artigo 22.º da Diretiva 2011/61/UE;
+
+b) Para as empresas de seguros, anualmente e por escrito, nos termos do artigo 185.º, n.º 6, da Diretiva 2009/138/CE;
+
+c) Para as IRPPP, no relatório anual a que se refere o artigo 29.º da Diretiva (UE) 2016/2341;
+
+d) Para os gestores de fundos de capital de risco qualificados, no relatório anual a que se refere o artigo 12.º do Regulamento (UE) n.º 345/2013;
+
+e) Para os gestores de fundos de empreendedorismo social qualificados, no relatório anual a que se refere o artigo 13.º do Regulamento (UE) n.º 346/2013;
+
+f) Para os criadores de produtos de pensões, por escrito no relatório anual ou no relatório elaborado de acordo com a legislação nacional;
+
+g) Para as sociedades gestoras de OICVM, nos relatórios anuais a que se refere o artigo 69.º da Diretiva 2009/65/CE;
+
+h) Para as empresas de investimento que prestam serviços de gestão de carteiras, no relatório periódico a que se refere o artigo 25.º, n.º 6, da Diretiva 2014/65/UE;
+
+i) Para as instituições de crédito que prestam serviços de gestão de carteiras, no relatório periódico a que se refere o artigo 25.º, n.º 6, da Diretiva 2014/65/UE;
+
+j) Para os prestadores de PEPP, na declaração sobre os benefícios do PEPP a que se refere o artigo 36.º do Regulamento (UE) 2019/1238.
+
+3. Para efeitos do n.º 1 do presente artigo, os intervenientes no mercado financeiro podem utilizar as informações constantes dos relatórios de gestão, nos termos do artigo 19.º da Diretiva 2013/34/UE, ou as informações constantes das demonstrações não financeiras, nos termos do artigo 19.º‐A dessa diretiva, nos casos pertinentes.
+
+4. As ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem em pormenor o teor e a apresentação das informações a que se refere no n.º 1, alíneas a) e b).
+
+Ao desenvolverem os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo, as ESA têm em conta os diferentes tipos de produtos financeiros, as suas características e objetivos e as diferenças entre eles. As ESA atualizam as normas técnicas de regulamentação à luz das evoluções regulamentares e tecnológicas.
+
+As ESA apresentam à Comissão os projetos de normas técnicas de regulamentação referidos no n.º 1 até 30 de dezembro de 2020.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo, nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+5. As ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem em pormenor o teor e a apresentação das informações a que se refere no n.º 1, alíneas c) e d).
+
+Ao desenvolverem os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, as ESA têm em conta os vários tipos de produtos financeiros, as suas características e objetivos e as diferenças entre eles e, se necessário, elaboram projetos de alteração das normas técnicas de regulamentação a que se refere o n.º 4 do presente artigo. Os projetos de normas técnicas de regulamentação devem ter em conta as respetivas datas de aplicação estabelecidas no artigo 27.º, n.º 2, alíneas a) e b), do Regulamento (UE) 2020/852, no que diz respeito aos objetivos ambientais estabelecidos no artigo 9.º do referido regulamento. As ESA atualizam as normas técnicas de regulamentação à luz da evolução regulamentar e tecnológica.
+
+As ESA apresentam à Comissão os projetos de normas técnicas de regulamentação a que se refere o primeiro parágrafo:
+
+a) No que diz respeito aos objetivos ambientais a que se refere o artigo 9.º, alíneas a) e b), do Regulamento (UE) 2020/852, até 1 de junho de 2021;
+
+b) No que diz respeito aos objetivos ambientais a que se refere o artigo 9.º, alíneas c) a f), do Regulamento (UE) 2020/852, até 1 de junho de 2022.
+
+É delegado na Comissão o poder de completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o primeiro parágrafo do presente número, nos termos dos artigos 10.º a 14.° dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+###### Artigo 12. — Revisão da divulgação de informações
+
+1. Os intervenientes no mercado financeiro asseguram que todas as informações publicadas nos termos do artigo 3.º, 5.º ou 10.º são mantidas atualizadas. Sempre que um interveniente no mercado financeiro alterar essas informações, deve ser publicada uma explicação clara dessa alteração no mesmo sítio Web.
+
+2. O n.º 1 aplica‐se, *mutatis mutandis*, aos consultores financeiros no que se refere a todas as informações publicadas nos termos dos artigos 3.º e 5.º.
+
+###### Artigo 13. — Comunicações comerciais
+
+1. Sem prejuízo do disposto em legislação setorial mais rigorosa, em especial nas Diretivas 2009/65/CE, 2014/65/UE e (UE) 2016/97 e no Regulamento (UE) n.º 1286/2014, os intervenientes no mercado financeiro e os consultores financeiros asseguram que as suas comunicações comerciais não contradizem as informações divulgadas nos termos do presente regulamento.
+
+2. As ESA podem elaborar, através do Comité Conjunto, projetos de normas técnicas de execução para estabelecer a apresentação normalizada das informações sobre a promoção de características ambientais ou sociais e os investimentos sustentáveis.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo nos termos do artigo 15.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+3. Caso um interveniente no mercado financeiro ou um consultor financeiro emita ou divulgue a terceiros uma notação ASG, na aceção do artigo 3.º, ponto 1, do Regulamento (UE) 2024/3005 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#E0004)), no âmbito das suas comunicações promocionais, deve incluir no seu sítio Web as mesmas informações que são exigidas pelo anexo III, ponto 1, do referido regulamento e divulgar nessas comunicações promocionais uma ligação para essas divulgações no seu sítio Web.
+
+As ESA elaboram, através do Comité Conjunto, projetos de normas técnicas de regulamentação que especifiquem a informação a que se refere o primeiro parágrafo do presente número, tendo em consideração a informação já divulgada nos termos do artigo 10.º do presente regulamento.
+
+As ESA apresentam à Comissão os projetos de normas técnicas de execução a que se refere o segundo parágrafo.
+
+A Comissão fica habilitada a completar o presente regulamento através da adoção das normas técnicas de regulamentação a que se refere o segundo parágrafo do presente número, nos termos dos artigos 10.º a 14.º dos Regulamentos (UE) n.º 1093/2010, (UE) n.º 1094/2010 e (UE) n.º 1095/2010.
+
+###### Artigo 14. — Autoridades competentes
+
+1. Os Estados‐Membros asseguram que as autoridades competentes designadas em conformidade com a legislação setorial, em especial a legislação setorial a que se refere o artigo 6.º, n.º 3, do presente regulamento e com a Diretiva 2013/36/UE, monitorizam o cumprimento dos requisitos previstos no presente regulamento pelos intervenientes no mercado financeiro e pelos consultores financeiros. As autoridades competentes devem dispor dos poderes de supervisão e de investigação necessários para o exercício das suas atribuições ao abrigo do presente regulamento.
+
+2. Para efeitos do presente regulamento, as autoridades competentes cooperam entre si e trocam, sem demora indevida, as informações relevantes para o exercício das funções que lhes incumbem nos termos do presente regulamento.
+
+###### Artigo 15. — Transparência das IRPPP e dos mediadores de seguros
+
+1. As IRPPP publicam e atualizam as informações referidas nos artigos 3.º a 7.º e no artigo 10.º, n.º 1, primeiro parágrafo, do presente regulamento, nos termos do artigo 36.º, n.º 2, alínea f), da Diretiva (UE) 2016/2341.
+
+2. Os mediadores de seguros comunicam as informações referidas no artigo 3.º, no artigo 4.º, n.º 5, nos artigos 5.º e 6.º e no artigo 10.º, n.º 1, primeiro parágrafo, do presente regulamento, nos termos do artigo 23.º da Diretiva (UE) 2016/97.
+
+###### Artigo 16. — Produtos de pensões abrangidos pelos Regulamentos (CE) n.º 883/2004 e (CE) n.º 987/2009
+
+1. Os Estados‐Membros podem decidir aplicar o presente regulamento aos criadores de produtos de pensões que gerem regimes nacionais de segurança social abrangidos pelos Regulamentos (CE) n.º 883/2004 e (CE) n.º 987/2009. Nesse caso, os criadores de produtos de pensões a que se refere o artigo 2.º, ponto 1), alínea d), do presente regulamento incluem os criadores de produtos de pensões que gerem regimes nacionais de segurança social e de produtos de pensões referidos no artigo 2.º, ponto 8) do presente regulamento. Nesse caso, presume‐se que a definição de produto de pensões constante do artigo 2.º, ponto 8) do presente regulamento inclui os produtos de pensões referidos na primeira frase.
+
+2. Os Estados‐Membros notificam a Comissão e as ESA das decisões tomadas nos termos do n.º 1.
+
+###### Artigo 17. — Isenções
+
+1. O presente regulamento não se aplica aos mediadores de seguros que prestam aconselhamento em matéria de seguros no que se refere a IBIP nem às empresas de investimento que prestam serviços de consultoria para investimento que sejam empresas, independentemente da sua forma jurídica, incluindo pessoas singulares ou trabalhadores por conta própria, desde que empreguem menos de tês pessoas.
+
+2. Os Estados‐Membros podem decidir aplicar o presente regulamento aos mediadores de seguros que prestam aconselhamento em matéria de seguros no que se refere a IBIP e às empresas de investimento que prestam serviços de consultoria para investimento a que se refere o n.º 1.
+
+3. Os Estados‐Membros notificam a Comissão e as ESA das decisões tomadas nos termos do n.º 2.
+
+###### Artigo 18. — Relatório
+
+As ESA fazem o balanço do grau de divulgação de informações voluntária, nos termos do artigo 4.º, n.º 1, alínea a), e do artigo 7.º, n.º 1, alínea a). Até 10 de setembro de 2022 e posteriormente todos os anos, as ESA apresentam à Comissão um relatório sobre as melhores práticas e formulam recomendações relativamente a normas de apresentação voluntária de relatórios. Esse relatório anual analisa as implicações das práticas em matéria de diligência devida na divulgação de informações nos termos do presente regulamento, e fornece orientações sobre esta matéria. Esse relatório é tornado público e transmitido ao Parlamento Europeu e ao Conselho.
+
+###### Artigo 18.º-A — Acessibilidade da informação no ponto de acesso único europeu
+
+1. A partir de 10 de janeiro de 2028, sempre que tornem públicas quaisquer informações nos termos do artigo 3.º, n.^os^ 1 e 2, do artigo 4.º, n.^os^ 1, 3, 4 e 5, do artigo 5.º, n.º 1, e do artigo 10.º, n.º 1, do presente regulamento, os intervenientes no mercado financeiro e os consultores financeiros transmitem simultaneamente essas informações ao organismo de recolha competente a que se refere o n.º 3 do presente artigo, para efeitos de tornar essas informações acessíveis no ponto de acesso único europeu (ESAP) criado ao abrigo do Regulamento (UE) 2023/2859 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#E0005)).
+
+Essas informações devem cumprir os seguintes requisitos:
+
+a) Serem transmitidas num formato que permita a extração de dados, na aceção do artigo 2.º, ponto 3, do Regulamento (UE) 2023/2859 ou, quando tal for exigido pelo direito da União, num formato legível por máquina, na aceção do artigo 2.º, ponto 4, desse regulamento;
+
+b) Serem acompanhadas dos seguintes metadados:
+
+i) todos os nomes do interveniente no mercado financeiro e do consultor financeiro a que as informações dizem respeito;
+
+ii) para as pessoas coletivas, o identificador de entidade jurídica do interveniente no mercado financeiro ou do consultor financeiro, especificado nos termos do artigo 7.º, n.º 4, alínea b), do Regulamento (UE) 2023/2859,
+
+iii) para pessoas coletivas, a dimensão, por categoria, do interveniente no mercado financeiro ou do consultor financeiro, especificada nos termos do artigo 7.º, n.º 4, alínea d), desse regulamento,
+
+iv) o tipo de informação, classificada nos termos do artigo 7.º, n.º 4, alínea c), desse regulamento,
+
+v) uma indicação sobre se as informações contêm dados pessoais.
+
+2. Para efeitos do n.º 1, alínea b), subalínea ii), os intervenientes no mercado financeiro e os consultores financeiros que sejam pessoas coletivas devem obter um identificador de entidade jurídica.
+
+3. Até 9 de janeiro de 2028, para efeitos de tornar acessíveis no ESAP as informações referidas no n.º 1 do presente artigo, os Estados-Membros devem designar pelo menos um organismo de recolha, na aceção do artigo 2.º, ponto 2, do Regulamento (UE) 2023/2859, e notificar a ESMA desse facto.
+
+4.
+
+A fim de assegurar a recolha e administração eficientes das informações transmitidas nos termos do n.º 1, as ESA elaboram, através do Comité Misto, projetos de normas técnicas de execução para especificar:
+
+a) Quaisquer outros metadados que devam acompanhar as informações;
+
+b) A estruturação dos dados nas informações;
+
+c) As informações para as quais é exigido um formato legível por máquina e, nesses casos, qual o formato legível por máquina a utilizar.
+
+Para efeitos da alínea c), as ESA avaliam as vantagens e desvantagens dos diferentes formatos legíveis por máquina e realizam testes no terreno adequados para o efeito.
+
+As ESA apresentam à Comissão os referidos projetos de normas técnicas de execução.
+
+É conferido à Comissão o poder de adotar as normas técnicas de execução a que se refere o primeiro parágrafo do presente número, nos termos do artigo 15.º do Regulamento (UE) n.º 1093/2010, do artigo 15.º do Regulamento (UE) n.º 1094/2010 e do artigo 15.º do Regulamento (UE) n.º 1095/2010.
+
+5. Sempre que necessário, as ESA, através do Comité Misto, adotam orientações destinadas a assegurar que os metadados transmitidos nos termos do n.º 4, primeiro parágrafo, alínea a), sejam corretos.
+
+###### Artigo 19. — Avaliação
+
+1.
+
+Até 30 de dezembro de 2022, a Comissão realiza uma avaliação da aplicação do presente regulamento e, em especial considera:
+
+a) Se a referência ao número médio de trabalhadores no artigo 4.º, n.^os^ 3 e 4, deverá ser mantida, substituída ou acompanhada de outros critérios, e deve considerar os benefícios e a proporcionalidade dos encargos administrativos conexos;
+
+b) Se o funcionamento do presente regulamento é prejudicado pela falta de dados ou pela sua qualidade insuficiente, incluindo os indicadores relativos aos impactos negativos sobre os fatores de sustentabilidade das empresas beneficiárias do investimento.
+
+2. A avaliação a que se refere o n.º 1 é acompanhada, se for caso disso, de uma proposta legislativa.
+
+###### Artigo 20. — Entrada em vigor e aplicação
+
+1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+2. O presente regulamento é aplicável a partir de 10 de março de 2021.
+
+3.
+
+Em derrogação do n.º 2 do presente artigo:
+
+a) O artigo 4.º, n.^os^ 6 e 7, o artigo 8.º, n.º 3, o artigo 9.º, n.º 5, o artigo 10.º, n.º 2, o artigo 11.º, n.º 4, e o artigo 13.º, n.º 2, são aplicáveis a partir de 29 de dezembro de 2019;
+
+b) O artigo 2.º-A, o artigo 8.º, n.º 4, o artigo 9.º, n.º 6, e o artigo 11.º, n.º 5, são aplicáveis a partir de 12 de julho de 2020;
+
+c) O artigo 8.º, n.º 2-A, e o artigo 9.º, n.º 4-A, são aplicáveis:
+
+i) no que diz respeito aos objetivos ambientais referidos no artigo 9.º, alíneas a) e b), do Regulamento (UE) 2020/852, a partir de 1 de janeiro de 2022; e
+
+ii) no que diz respeito aos objetivos ambientais referidos no artigo 9.º, alíneas c) a f), do Regulamento (UE) 2020/852 a partir de 1 de janeiro de 2023;
+
+d) O artigo 11.º, n.^os^ 1, 2 e 3, é aplicável a partir de 1 de janeiro de 2022.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados‐Membros.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1286/2014 do Parlamento Europeu e do Conselho, de 26 de novembro de 2014, sobre os documentos de informação fundamental para pacotes de produtos de investimento de retalho e de produtos de investimento com base em seguros (PRIIPs) (JO L 352 de 9.12.2014, p. 1).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) 2020/852 do Parlamento Europeu e do Conselho, de 18 de junho de 2020, relativo ao estabelecimento de um regime para a promoção do investimento sustentável, e que altera o Regulamento (UE) 2019/2088 (JO L 198 de 22.6.2020, p. 13).
+
+> ([^3^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (UE) 2016/1011 do Parlamento Europeu e do Conselho, de 8 de junho de 2016, relativo aos índices utilizados como índices de referência no quadro de instrumentos e contratos financeiros ou para aferir o desempenho de fundos de investimento e que altera as Diretivas 2008/48/CE e 2014/17/UE e o Regulamento (UE) n.º 596/2014 (JO L 171 de 29.6.2016, p. 1).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento (UE) 2024/3005 do Parlamento Europeu e do Conselho, de 27 de novembro de 2024, relativo à transparência e integridade das atividades de notação ambiental, social e de governação (ASG), e que altera os Regulamentos (UE) 2019/2088 e (UE) 2023/2859 (JO L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj).
+
+> ([^5^](http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Regulamento (UE) 2023/2859 do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023, que cria um ponto de acesso único europeu destinado a permitir um acesso centralizado a informações publicamente disponíveis com relevância para os serviços financeiros, os mercados de capitais e a sustentabilidade (JO L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).

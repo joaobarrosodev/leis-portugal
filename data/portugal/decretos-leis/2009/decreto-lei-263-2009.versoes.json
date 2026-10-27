@@ -1,0 +1,425 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:490689:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-74862819",
+ "dre_path": "/dr/detalhe/decreto-lei/263-2009-490689",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75339494",
+    "75339495",
+    "75339496",
+    "75339497",
+    "75339498",
+    "75339499",
+    "75339500",
+    "75339501",
+    "75339502",
+    "75339503",
+    "75339504",
+    "75339505",
+    "75339506",
+    "75339507",
+    "75339508",
+    "75339509",
+    "75339510",
+    "75339511",
+    "75339512",
+    "75339513",
+    "75339514",
+    "75339515",
+    "75339516",
+    "75339517",
+    "75339518",
+    "75339519",
+    "75339520",
+    "75339521",
+    "75339522",
+    "75339523",
+    "75339524",
+    "75339525",
+    "75339526",
+    "75339527",
+    "75339528",
+    "75339529",
+    "75339530"
+   ]
+  },
+  {
+   "date": "2009-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:482593:por",
+     "title": "Declaração de Rectificação n.º 89/2009",
+     "published": "2009-11-25",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/89-2009-482593"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "75339494",
+    "75339495",
+    "75339496",
+    "105693176",
+    "75339498",
+    "75339499",
+    "75339500",
+    "75339501",
+    "75339502",
+    "75339503",
+    "75339504",
+    "75339505",
+    "75339506",
+    "75339507",
+    "75339508",
+    "75339509",
+    "75339510",
+    "75339511",
+    "75339512",
+    "75339513",
+    "75339514",
+    "75339515",
+    "75339516",
+    "75339517",
+    "75339518",
+    "75339519",
+    "75339520",
+    "75339521",
+    "75339522",
+    "75339523",
+    "75339524",
+    "75339525",
+    "75339526",
+    "75339527",
+    "75339528",
+    "75339529",
+    "75339530",
+    "75339531"
+   ]
+  }
+ ],
+ "fragments": {
+  "75339494": {
+   "fragment_id": "74862820",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 263/2009\n\nde 28 de Setembro\n\nNo quadro geral da segurança marítima, a segurança do tráfego marítimo assume particular relevância no caso português desde logo face à extensão da costa continental e à amplitude das zonas marítimas sob soberania ou jurisdição nacional, as quais são cruzadas por algumas das mais intensas e movimentadas rotas comerciais marítimas.\n\nNos últimos anos, foram sendo adoptadas a nível nacional diversas medidas destinadas ao reforço da segurança do tráfego marítimo, entre as quais se destacam o sistema de notificação e acompanhamento de navios, previsto no Decreto-Lei n.º 180/2004, de 27 de Julho, alterado pelos Decretos-Leis n.os 236/2004, de 18 de Dezembro, e 51/2005, de 25 de Fevereiro, os novos esquemas de separação de tráfego, aprovados pelo Decreto-Lei n.º 198/2006, de 19 de Outubro, e as regras de protecção de navios, portos e instalações portuárias, consagradas no Decreto-Lei n.º 226/2006, de 15 de Novembro.\n\nPresentemente e estando já em funcionamento o vessel traffic service (VTS) costeiro do continente, estrutura nuclear que permite assegurar o controlo de todo o tráfego marítimo ao nível da costa continental portuguesa, até uma distância de 50 milhas da mesma, considera-se que é oportuno agora proceder à instituição do sistema nacional de controlo de tráfego marítimo (SNCTM) enquanto quadro geral de intervenção dos órgãos e serviços públicos directamente responsáveis pelo controlo do tráfego marítimo.\n\nNessa medida, o presente decreto-lei regulamenta os diferentes serviços de controlo de tráfego marítimo, enquanto conjunto de elementos funcionais do SNCTM dirigidos à prestação de um serviço de controlo de tráfego marítimo quer ao nível costeiro quer ao nível portuário.\n\nO SNCTM é coordenado pela Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM), entidade já referenciada em diversos diplomas legais, mantendo-se a solução legalmente consagrada de atribuição por inerência ao presidente do conselho directivo do Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), do exercício dessas funções. Para a prossecução das suas atribuições e competências, a ANCTM conta com o apoio dos órgãos e serviços do IPTM, I. P., enquanto organismo central responsável em matéria de controlo de tráfego marítimo.\n\nNo presente decreto-lei, opta-se por estabelecer desde já as regras de participação, organização, controlo e supervisão de tráfego ao nível do VTS costeiro do continente, remetendo-se para legislação especial as regras a observar nos VTS costeiros regionais e para regulamento próprio no caso dos VTS portuários.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "75339495": {
+   "fragment_id": "74862821",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "75339496": {
+   "fragment_id": "74862822",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei institui o sistema nacional de controlo de tráfego marítimo (SNCTM), enquanto quadro geral de intervenção dos órgãos e serviços públicos responsáveis pelo controlo do tráfego marítimo em zonas marítimas sob a soberania ou jurisdição nacional, tal como definidas na Lei n.º 34/2006, de 28 de Julho."
+  },
+  "75339497": {
+   "fragment_id": "74862823",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridade Nacional de Controlo de Tráfego Marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridade Nacional de Controlo de Tráfego Marítimo\n\n1 - O SNCTM é coordenado pela Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM), a qual exerce as suas competências em todo o território nacional.\n\n2 - O presidente do conselho directivo do Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), é, por inerência, a ANCTM.\n\n3 - Nos casos de ausência ou impedimento do presidente do conselho directivo do IPTM, I. P., este é substituí-do nos mesmos termos previstos para o efeito na respectiva lei orgânica, aprovada pelo Decreto-Lei n.º 147/2007, de 27 de Abril.\n\n4 - Compete aos órgãos e serviços do IPTM, I. P., de acordo com o disposto nos respectivos estatutos, apoiar a ANCTM na prossecução das suas atribuições."
+  },
+  "75339498": {
+   "fragment_id": "74862824",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - A ANCTM tem por missão garantir as condições indispensáveis ao controlo do tráfego marítimo, contribuindo, com as demais entidades com competências na matéria, para a segurança da navegação.\n\n2 - Para além de outras que lhe sejam cometidas por lei, são atribuições da ANCTM:\n\na) Zelar pelo cumprimento das normas nacionais e internacionais relativas ao controlo de tráfego marítimo e à segurança da navegação;\n\nb) Assegurar que o SNCTM é estruturado e operado de acordo com as normas nacionais e internacionais aplicáveis, designadamente as resoluções da Organização Marítima Internacional (OMI) e as recomendações da Associação Internacional de Sinalização Marítima (AISM/IALA) elaboradas na matéria;\n\nc) Assessorar o Governo, a pedido deste ou por iniciativa própria, na definição de políticas gerais sobre controlo de tráfego e segurança da navegação marítima, designadamente através da emissão de pareceres e, se tal for solicitado, colaborando activamente na elaboração de legislação no domínio do SNCTM;\n\nd) Colaborar com outras entidades, nacionais ou estrangeiras, com a finalidade de aprofundar os mecanismos tendentes a um mais eficaz controlo da navegação marítima;\n\ne) Assegurar a participação e representação nacional junto das organizações internacionais com competência em matérias de controlo do tráfego marítimo."
+  },
+  "75339499": {
+   "fragment_id": "74862825",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\nPara além de outras que lhe sejam cometidas pelo presente decreto-lei ou por legislação específica, são competências da ANCTM:\n\na) Garantir a eficiência e a eficácia do controlo do tráfego marítimo nas áreas de intervenção dos serviços de controlo de tráfego marítimo, designadamente através da emissão de normas orientadoras do seu funcionamento;\n\nb) Supervisionar o funcionamento dos serviços de controlo de tráfego marítimo;\n\nc) Certificar o pessoal operador dos serviços de controlo de tráfego marítimo;\n\nd) Garantir o cumprimento de padrões de eficiência do SNCTM, de qualificação dos seus operadores e de desempenho dos equipamentos utilizados;\n\ne) Proceder à credenciação das entidades nacionais que ministrem cursos de formação de operadores de controlo de tráfego marítimo, através do reconhecimento dos respectivos cursos;\n\nf) Aplicar as coimas respeitantes às contra-ordenações previstas no presente decreto-lei."
+  },
+  "75339500": {
+   "fragment_id": "74862826",
+   "type": 1,
+   "heading": "Capítulo II — Controlo de tráfego marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Controlo de tráfego marítimo"
+  },
+  "75339501": {
+   "fragment_id": "74862827",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "75339502": {
+   "fragment_id": "74862828",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços de controlo de tráfego marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços de controlo de tráfego marítimo\n\n1 - Consideram-se serviços de controlo de tráfego marítimo, enquanto elementos funcionais do SNCTM, todas as infra-estruturas e os procedimentos dirigidos à prestação de um serviço de controlo de tráfego marítimo.\n\n2 - São, designadamente, serviços de controlo de tráfego marítimo:\n\na) Os serviços de controlo de tráfego marítimo de âmbito costeiro (VTS costeiros);\n\nb) Os serviços de controlo de tráfego marítimo de âmbito portuário (VTS portuários)."
+  },
+  "75339503": {
+   "fragment_id": "74862829",
+   "type": 8,
+   "heading": "Secção II — VTS costeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — VTS costeiros"
+  },
+  "75339504": {
+   "fragment_id": "74862830",
+   "type": 3,
+   "heading": "Subsecção I — VTS costeiro do continente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — VTS costeiro do continente"
+  },
+  "75339505": {
+   "fragment_id": "74862831",
+   "type": 11,
+   "heading": "Artigo 6.º — Área de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Área de intervenção\n\nO VTS costeiro do continente presta um serviço de controlo de tráfego marítimo de âmbito nacional, geograficamente delimitado a partir da linha de costa continental e até aos seguintes limites:\n\na) A norte: paralelo 41º 51' 5'' N.;\n\nb) A oeste e a sul: a linha que junta as seguintes coordenadas:\n\ni) 41º 51' 5'' N., 10º 14' W.;\n\nii) 38º 41' N., 10º 14' W.;\n\niii) 36º 30' N., 9º 35' W.;\n\niv) 36º 12' N., 7º 24' W.;\n\nc) A leste: meridiano 7º 24' W."
+  },
+  "75339506": {
+   "fragment_id": "74862832",
+   "type": 11,
+   "heading": "Artigo 7.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Âmbito de aplicação\n\n1 - Encontram-se sujeitos ao VTS costeiro do continente os navios com arqueação bruta igual ou superior a 300 GRT.\n\n2 - Encontram-se ainda sujeito(a)s ao VTS costeiro do continente, independentemente da sua arqueação:\n\na) Os navios que transportem mercadorias perigosas ou poluentes, na acepção do disposto nas alíneas g) e h) do artigo 3.º do Decreto-Lei n.º 180/2004, de 27 de Julho;\n\nb) Os navios que efectuem o transporte de passageiros;\n\nc) Os navios de pesca de comprimento igual ou superior a 24 m;\n\nd) As embarcações de recreio de comprimento igual ou superior a 24 m;\n\ne) Os navios que participem em operações de reboque, nas quais o conjunto rebocador e reboque seja superior a 100 m de comprimento.\n\n3 - O disposto nos números anteriores não se aplica a navios da Marinha e aos meios navais da Autoridade Marítima Nacional e da Guarda Nacional Republicana, sem prejuízo do cumprimento das regras da segurança da navegação, em especial das regras para evitar abalroamentos no mar."
+  },
+  "75339507": {
+   "fragment_id": "74862833",
+   "type": 11,
+   "heading": "Artigo 8.º — Participação e vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Participação e vinculação\n\n1 - Os navios sujeitos ao VTS costeiro do continente devem participar no sistema de intercâmbio de informação com o respectivo centro de controlo de tráfego marítimo, encontrando-se vinculados ao cumprimento das instruções por este emitidas, sem prejuízo do disposto na Convenção Internacional para a Salvaguarda da Vida Humana no Mar em matéria de autoridade do comandante do navio.\n\n2 - Para os restantes navios, a participação no VTS costeiro é facultativa, sem prejuízo da necessidade de cumprirem as instruções referidas no número anterior."
+  },
+  "75339508": {
+   "fragment_id": "74862834",
+   "type": 11,
+   "heading": "Artigo 9.º — Centro de Controlo de Tráfego Marítimo do Continente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Centro de Controlo de Tráfego Marítimo do Continente\n\n1 - O Centro de Controlo de Tráfego Marítimo do Continente (CCTMC) dirige o funcionamento do VTS costeiro do continente e centraliza todas as comunicações efectuadas no âmbito do serviço.\n\n2 - O CCTMC é dirigido por um gestor.\n\n3 - O CCTMC e todas as estruturas que compõem o VTS costeiro do continente estão integrados no IPTM, I. P., em conformidade com o disposto nos respectivos estatutos."
+  },
+  "75339509": {
+   "fragment_id": "74862835",
+   "type": 11,
+   "heading": "Artigo 10.º — Organização, controlo e supervisão de tráfego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Organização, controlo e supervisão de tráfego\n\n1 - O controlo de tráfego marítimo na área de intervenção do VTS costeiro do continente é organizado de forma a contribuir para reduzir o risco de colisão entre navios e para evitar a congestão do tráfego.\n\n2 - Em cumprimento do disposto no número anterior, o CCTMC pode emitir, designadamente, as seguintes instruções:\n\na) Restringir a navegação numa área definida;\n\nb) Restringir a ultrapassagem em área definida;\n\nc) Proceder à separação de tráfego em termos de tempo ou distância;\n\nd) Indicar as rotas a serem utilizadas por navios com cargas perigosas ou poluentes;\n\ne) Designar o fundeadouro, em articulação com o capitão do porto.\n\n3 - A título excepcional e em articulação com o capitão do porto, se a situação ocorrer em mar territorial e, em especial, no acesso ao porto, o CCTMC pode impor restrições aos navios com fundamento em condições meteorológicas anormais, operações de busca e salvamento ou qualquer outro facto que possa colocar em perigo o tráfego marítimo, designadamente as seguintes:\n\na) Interdição de uma zona marítima, de um canal de acesso ou parte desse canal;\n\nb) Imposição de limites de velocidade numa determinada zona ou canal.\n\n4 - No âmbito das funções de supervisão, o CCTMC zela, em geral, pela observância das regras nacionais e internacionais sobre o controlo e segurança da navegação, designadamente o Regulamento Internacional para Evitar Abalroamentos no Mar e, em particular, pela observância das regras aplicáveis aos esquemas de separação de tráfego.\n\n5 - O CCTMC exerce as funções de centro costeiro previstas no Decreto-Lei n.º 180/2004, de 27 de Julho, na acepção da subalínea 1) da alínea p) do artigo 3.º"
+  },
+  "75339510": {
+   "fragment_id": "74862836",
+   "type": 11,
+   "heading": "Artigo 11.º — Assistência à navegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Assistência à navegação\n\n1 - O CCTMC presta assistência à navegação, por iniciativa própria ou por solicitação dos navios.\n\n2 - A assistência à navegação é sempre prestada a título meramente informativo.\n\n3 - A assistência à navegação pode incluir, designadamente, as seguintes indicações:\n\na) O rumo e velocidade do navio sobre o fundo;\n\nb) A posição do navio em referência aos esquemas de separação de tráfego, ao seu planeamento de viagem ou em relação à aproximação a um porto;\n\nc) As posições, identificação e intenções do tráfego;\n\nd) Informações específicas de interesse imediato.\n\n4 - O CCTMC funciona como ponto focal dos serviços de assistência marítima [maritime assistance services (MAS)] no âmbito previsto na Resolução A.950(23) da Organização Marítima Internacional."
+  },
+  "75339511": {
+   "fragment_id": "74862837",
+   "type": 11,
+   "heading": "Artigo 12.º — Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informações\n\n1 - O CCTMC presta informações aos navios, por iniciativa própria ou a pedido destes.\n\n2 - A informação prestada pode incluir, designadamente:\n\na) A situação do tráfego marítimo;\n\nb) Informações meteorológicas;\n\nc) Elementos relativos a pilotagem ou aproximação a portos;\n\nd) Elementos relativos ao estado operacional das ajudas à navegação na zona;\n\ne) Quaisquer circunstâncias que possam afectar as condições de navegabilidade dos navios, em particular, e da segurança do tráfego marítimo, em geral."
+  },
+  "75339512": {
+   "fragment_id": "74862838",
+   "type": 11,
+   "heading": "Artigo 13.º — Regras a observar no âmbito da participação no VTS costeiro do continente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regras a observar no âmbito da participação no VTS costeiro do continente\n\nO comandante do navio deve comunicar ao CCTMC a ocorrência de quaisquer acidentes ou incidentes na área de intervenção do VTS costeiro do continente ou na sua proximidade, designadamente os seguintes:\n\na) Quaisquer incidentes ou acidentes que possam afectar a segurança do navio, tais como colisões, encalhes, avarias, funcionamento defeituoso ou paragem das máquinas, derrame ou correr da carga e quaisquer defeitos do casco ou estruturais;\n\nb) Quaisquer incidentes ou acidentes que afectem a segurança da navegação, tais como avarias que diminuam a capacidade de manobra ou as condições de navegabilidade do navio e quaisquer avarias que afectem o aparelho propulsor, máquina do leme, geradores eléctricos, instrumentos de navegação ou de rádio comunicação;\n\nc) Quaisquer circunstâncias que possam causar poluição das águas ou da costa, tais como o derrame ou descarga de substâncias poluentes;\n\nd) Derrame de substâncias poluentes e de contentores ou outro tipo de objectos flutuantes detectados à deriva."
+  },
+  "75339513": {
+   "fragment_id": "74862839",
+   "type": 11,
+   "heading": "Artigo 14.º — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Registos\n\n1 - O CCTMC mantém registos de imagem e de comunicação VHF relacionados com o tráfego marítimo na sua área de intervenção.\n\n2 - Os registos são conservados por um período de 30 dias.\n\n3 - Adicionalmente, são mantidos registos dos incidentes e acidentes detectados pelo CCTMC em suporte alternativo, para utilização futura, designadamente os que sejam necessários para integrar processos contra-ordenacionais ou penais em curso e que, por tal facto, tenham de ter prazos de conservação superiores.\n\n4 - Os dados registados podem ser divulgados a quaisquer autoridades, designadamente para efeitos de instrução de inquéritos.\n\n5 - Qualquer terceiro que demonstre interesse legítimo pode aceder aos dados registados, mediante o pagamento das taxas que sejam devidas.\n\n6 - As taxas previstas no número anterior constam de regulamento aprovado pela ANCTM, a publicar no Diário da República, e constituem receita do IPTM, I. P."
+  },
+  "75339514": {
+   "fragment_id": "74862840",
+   "type": 3,
+   "heading": "Subsecção II — VTS costeiros regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — VTS costeiros regionais"
+  },
+  "75339515": {
+   "fragment_id": "74862841",
+   "type": 11,
+   "heading": "Artigo 15.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Âmbito\n\n1 - Os VTS costeiros regionais prestam um serviço de controlo de tráfego marítimo nas Regiões Autónomas dos Açores e da Madeira.\n\n2 - A criação dos VTS costeiros regionais, as respectivas áreas de intervenção e as regras específicas de funcionamento são reguladas por legislação especial."
+  },
+  "75339516": {
+   "fragment_id": "74862842",
+   "type": 8,
+   "heading": "Secção III — VTS portuários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — VTS portuários"
+  },
+  "75339517": {
+   "fragment_id": "74862843",
+   "type": 11,
+   "heading": "Artigo 16.º — Áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Áreas de intervenção\n\n1 - Os VTS portuários prestam um serviço de controlo de tráfego marítimo de âmbito portuário.\n\n2 - A área de intervenção dos VTS portuários em funcionamento à data da entrada em vigor do presente decreto-lei fica geograficamente delimitada pelas seguintes coordenadas:\n\na) Porto de Aveiro: círculo de raio de 6 milhas náuticas centrado no Farol de Aveiro;\n\nb) Porto de Leixões: círculo de raio de 6 milhas náuticas centrado no farolim da ponta do molhe norte;\n\nc) Porto de Lisboa: linha entre o cabo Raso e o cabo Espichel;\n\nd) Porto de Setúbal: círculo de raio de 4 milhas náuticas centrado no RACON (baliza n.º 2);\n\ne) Porto de Sines:\n\ni) A norte: paralelo 38º 2' 7'' N.;\n\nii) A sul: paralelo 37º 52' N.;\n\niii) A oeste: meridiano 8º 55' 1'' W.;\n\niv) A leste: linha da costa.\n\n3 - A área de intervenção de novos VTS portuários fica geograficamente delimitada pelas seguintes coordenadas:\n\na) Porto de Faro: círculo de raio de 5 milhas náuticas centrado no Farol de Santa Maria;\n\nb) Porto da Figueira da Foz: círculo de raio de 5 milhas náuticas centrado no farolim do molhe exterior norte;\n\nc) Porto de Portimão: círculo de raio de 5 milhas náuticas centrado no farolim do molhe oeste;\n\nd) Porto de Viana do Castelo: círculo de raio de 5 milhas náuticas centrado no farolim do molhe exterior norte."
+  },
+  "75339518": {
+   "fragment_id": "74862844",
+   "type": 11,
+   "heading": "Artigo 17.º — Regras de participação e funcionamento do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regras de participação e funcionamento do serviço\n\nAs regras de participação, organização, controlo e supervisão de tráfego e demais matérias relativas a cada VTS portuário constam de regulamento a aprovar pela ANCTM, sob proposta da respectiva administração portuária."
+  },
+  "75339519": {
+   "fragment_id": "74862845",
+   "type": 1,
+   "heading": "Capítulo III — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime sancionatório"
+  },
+  "75339520": {
+   "fragment_id": "74862846",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\nCompete ao IPTM, I. P., à ANCTM, através do CCTMC, e à AMN, através dos meios navais disponíveis, a fiscalização do cumprimento do estabelecido no presente decreto-lei."
+  },
+  "75339521": {
+   "fragment_id": "74862847",
+   "type": 11,
+   "heading": "Artigo 19.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Coimas\n\n1 - As infracções às normas previstas no presente decreto-lei constituem:\n\na) Contra-ordenação, punível com coima de (euro) 350 a (euro) 3500, no caso de pessoas singulares, e de (euro) 3500 a (euro) 35 000, no caso de pessoas colectivas, o incumprimento do disposto no artigo 8.º;\n\nb) Contra-ordenação, punível com coima de (euro) 350 a (euro) 3500, no caso de pessoas singulares, e de (euro) 3500 a (euro) 35 000, no caso de pessoas colectivas, o incumprimento das restrições previstas no n.º 3 do artigo 10.º\n\n2 - A negligência e a tentativa são sempre puníveis, sendo os montantes mínimos e máximos das coimas reduzidos a metade.\n\n3 - O processamento das contra-ordenações compete ao IPTM, I. P."
+  },
+  "75339522": {
+   "fragment_id": "74862848",
+   "type": 11,
+   "heading": "Artigo 20.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Produto das coimas\n\nO produto das coimas previstas no presente decreto-lei reverte:\n\na) 15 % para a entidade que levantar o auto de notícia;\n\nb) 25 % para a entidade que proceder à instrução processual;\n\nc) 60 % para o Estado."
+  },
+  "75339523": {
+   "fragment_id": "74862849",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "75339524": {
+   "fragment_id": "74862850",
+   "type": 11,
+   "heading": "Artigo 21.º — Operadores de controlo de tráfego marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Operadores de controlo de tráfego marítimo\n\n1 - O exercício da actividade de operador dos sistemas de controlo de tráfego marítimo carece de certificado emitido pela ANCTM.\n\n2 - A certificação em causa é objecto de regulamentação própria, a aprovar por despacho da ANCTM."
+  },
+  "75339525": {
+   "fragment_id": "74862851",
+   "type": 11,
+   "heading": "Artigo 22.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposições transitórias\n\n1 - As administrações portuárias dos portos que já disponham de um serviço de controlo de tráfego marítimo devem remeter à ANCTM a proposta de regulamento a que se refere o artigo 17.º, no prazo de 30 dias a contar da entrada em vigor do presente decreto-lei.\n\n2 - Os operadores de controlo de tráfego marítimo que, à data da entrada em vigor do presente decreto-lei, tenham executado funções de operadores de controlo de tráfego marítimo por um período mínimo de dois anos consideram-se automaticamente certificados para o exercício da actividade.\n\n3 - Sem prejuízo do disposto no número anterior, os operadores de controlo de tráfego marítimo abrangidos pelo seu âmbito de aplicação devem requerer à ANCTM que emita declaração que ateste o preenchimento daqueles requisitos, para o que juntam a documentação que se revele necessária para esse efeito."
+  },
+  "75339526": {
+   "fragment_id": "74862852",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração do Decreto-Lei n.º 43/2002, de 2 de Março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração do Decreto-Lei n.º 43/2002, de 2 de Março\n\nO artigo 7.º do Decreto-Lei n.º 43/2002, de 2 de Março, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nk) ...\n\nl) Autoridade Nacional de Controlo de Tráfego Marítimo.\n\n2 - ...»"
+  },
+  "75339527": {
+   "fragment_id": "74862853",
+   "type": 11,
+   "heading": "Artigo 24.º — Alteração do Decreto-Lei n.º 180/2004, de 27 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alteração do Decreto-Lei n.º 180/2004, de 27 de Julho\n\nO artigo 25.º do Decreto-Lei n.º 180/2004, de 27 de Julho, alterado pelos Decretos-Leis n.os 236/2004, de 18 de Dezembro, e 51/2005, de 25 de Fevereiro, passa a ter a seguinte redacção:\n\n«Artigo 25.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) Contra-ordenação, punível com coima de (euro) 400 a (euro) 2500, no caso de pessoas singulares, e de (euro) 2500 a (euro) 30 000, no caso de pessoas colectivas, o incumprimento do disposto no n.º 1 do artigo 5.º, sendo a entidade competente para o seu processamento e respectiva aplicação da coima o IPTM, I. P.;\n\nc) [Anterior alínea b).]\n\nd) Contra-ordenação, punível com coima de (euro) 400 a (euro) 2500, no caso de pessoas singulares, e de (euro) 2500 a (euro) 30 000, no caso de pessoas colectivas, o incumprimento do disposto no artigo 8.º, com excepção do que se encontra previsto no decreto-lei que institui o Sistema Nacional de Controlo de Tráfego Marítimo, sendo a entidade competente para o seu processamento e respectiva aplicação da coima o IPTM, I. P.;\n\ne) [Anterior alínea c).]\n\nf) [Anterior alínea d).]\n\ng) [Anterior alínea e).]\n\n2 - ...\n\n3 - ...\n\n4 - ...»"
+  },
+  "75339528": {
+   "fragment_id": "74862854",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração do Decreto-Lei n.º 198/2006, de 19 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Alteração do Decreto-Lei n.º 198/2006, de 19 de Outubro\n\nOs artigos 3.º e 9.º do Decreto-Lei n.º 198/2006, de 19 de Outubro, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), a Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM) e a Autoridade Marítima Nacional (AMN) asseguram o acompanhamento e adoptam as medidas necessárias e adequadas para garantir que todos os navios que naveguem pelos EST estabelecidos utilizam esses sistemas de acordo com as orientações e critérios pertinentes definidos pela OMI.\n\nArtigo 9.º\n\n[...]\n\nCompete ao IPTM, I. P., à ANCTM, através do CCTMC, e à AMN, através dos meios navais disponíveis, a fiscalização do cumprimento do estabelecido no presente decreto-lei.»"
+  },
+  "75339529": {
+   "fragment_id": "74862855",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma revogatória\n\n1 - É revogada a alínea l) do n.º 1 do artigo 4.º do Decreto-Lei n.º 45/2002, de 2 de Março, alterado pelo Decreto-Lei n.º 180/2004, de 27 de Julho.\n\n2 - São revogados os n.os 1 e 2 do artigo 3.º do Decreto-Lei n.º 198/2006, de 19 de Outubro."
+  },
+  "75339530": {
+   "fragment_id": "74862856",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a data da sua publicação."
+  },
+  "105693176": {
+   "fragment_id": "74862823",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridade Nacional de Controlo de Tráfego Marítimo",
+   "in_force_from": "2009-12-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 89/2009 - Diário da República n.º 229/2009, Série I de 2009-11-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-2009-482593), em vigor a partir de 2009-12-27"
+   ],
+   "markdown": "###### Artigo 2.º — Autoridade Nacional de Controlo de Tráfego Marítimo\n\n1 - O SNCTM é coordenado pela Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM), a qual exerce as suas competências em todo o território nacional.\n\n2 - O presidente do conselho directivo do Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), é, por inerência, a ANCTM.\n\n3 - Nos casos de ausência ou impedimento do presidente do conselho directivo do IPTM, I. P., este é substituído nos mesmos termos previstos para o efeito na respectiva Lei Orgânica, aprovada pelo Decreto-Lei n.º 146/2007, de 27 de Abril.\n\n4 - Compete aos órgãos e serviços do IPTM, I. P., de acordo com o disposto nos respectivos estatutos, apoiar a ANCTM na prossecução das suas atribuições.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 89/2009 - Diário da República n.º 229/2009, Série I de 2009-11-25](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-2009-482593), em vigor a partir de 2009-12-27"
+  },
+  "75339531": {
+   "fragment_id": "74862857",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Francisco Carlos da Graça Nunes Correia - Luís Medeiros Vieira - Mário Lino Soares Correia.\n\nPromulgado em 15 de Setembro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 15 de Setembro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

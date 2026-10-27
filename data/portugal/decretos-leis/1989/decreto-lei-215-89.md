@@ -1,0 +1,6329 @@
+---
+schema_version: '1.0'
+id: pt:dre:620928:por
+title: Decreto-Lei n.º 215/89
+short_title: null
+summary: Aprova o Estatuto dos Benefícios Fiscais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 215/89
+official_date: null
+publication_date: '1989-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/1989, Série I de 1989-07-01
+  number: '149'
+  series: I
+  supplement: null
+  pages: 2578 - 2591
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/07/14900/25782591.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-08-18'
+version_history:
+  file: decreto-lei-215-89.versoes.json
+  count: 96
+  source_lastmod: '2026-08-17'
+  versions:
+  - date: '1989-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-31'
+    amending: pt:dre:505254:por
+    amending_title: Declaração; Declaração
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Diploma
+    - Retifica Artigo 7.º
+    - Retifica Artigo 8.º
+    - Retifica Artigo 11.º
+    - Retifica Artigo 12.º
+    - Retifica Artigo 39.º
+    - Retifica Artigo 41.º
+    - Retifica Artigo 44.º
+    - Retifica Artigo 46.º
+    - Retifica Artigo 48.º
+    - Retifica Artigo 50.º
+    - Retifica Artigo 51.º
+    - Retifica Artigo 52.º
+    - Retifica Anexo
+    - Altera Artigo 49.º
+  - date: '1989-12-05'
+    amending: pt:dre:550816:por
+    amending_title: Decreto-Lei n.º 416/89
+    changes:
+    - Adita Artigo 22.º-A
+    - Entrada Vigor Diploma
+  - date: '1990-02-22'
+    amending: pt:dre:332881:por
+    amending_title: Lei n.º 4/90
+    changes:
+    - Altera Artigo 19.º
+    - Entrada Vigor Diploma
+  - date: '1990-03-25'
+    amending: pt:dre:333296:por
+    amending_title: Decreto-Lei n.º 95/90
+    changes:
+    - Adita Artigo 49.º-A
+    - Altera Artigo 48.º
+    - Entrada Vigor Diploma
+  - date: '1990-06-13'
+    amending: pt:dre:575135:por
+    amending_title: Decreto-Lei n.º 189/90
+    changes:
+    - Adita Artigo 56.º
+    - Altera Artigo 21.º
+    - Altera Artigo 38.º
+    - Altera Artigo 52.º
+    - Entrada Vigor Diploma
+  - date: '1991-01-02'
+    amending: pt:dre:469072:por
+    amending_title: Lei n.º 65/90
+    changes:
+    - Altera Artigo 26.º
+    - Altera Artigo 35.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Entrada Vigor Diploma
+  - date: '1991-04-15'
+    amending: pt:dre:322324:por
+    amending_title: Decreto-Lei n.º 142-B/91
+    changes:
+    - Adita Artigo 30.º-A
+    - Adita Artigo 30.º-B
+    - Adita Artigo 34.º-A
+    - Altera Artigo 50.º
+    - Entrada Vigor Diploma
+  - date: '1991-08-01'
+    amending: pt:dre:691435:por
+    amending_title: Lei n.º 36/91
+    changes:
+    - Altera Artigo 48.º
+    - Entrada Vigor Diploma
+  - date: '1991-08-18'
+    amending: pt:dre:676040:por
+    amending_title: Decreto-Lei n.º 293/91
+    changes:
+    - Adita Artigo 30.º-C
+    - Adita Artigo 30.º-D
+    - Adita Artigo 32.º-A
+    - Adita Artigo 49.º-B
+    - Altera Parte II
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 41.º
+    - Altera Artigo 52.º
+    - Entrada Vigor Diploma
+  - date: '1991-10-03'
+    amending: pt:dre:292879:por
+    amending_title: Decreto-Lei n.º 360/91
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 24.º
+    - Entrada Vigor Diploma
+  - date: '1992-03-14'
+    amending: pt:dre:626237:por
+    amending_title: Lei n.º 2/92
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 52.º
+    - Entrada Vigor Diploma
+  - date: '1992-07-21'
+    amending: pt:dre:292306:por
+    amending_title: Rectificação n.º 6/92
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Artigo 21.º
+  - date: '1992-08-30'
+    amending: pt:dre:260592:por
+    amending_title: Decreto-Lei n.º 187/92
+    changes:
+    - Adita Artigo 32.º-B
+    - Adita Artigo 47.º-A
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 44.º
+    - Altera Artigo 55.º
+    - Entrada Vigor Diploma
+  - date: '1992-09-30'
+    amending: pt:dre:361328:por
+    amending_title: Declaração de Rectificação n.º 146/92
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Artigo 40.º
+  - date: '1992-12-31'
+    amending: pt:dre:621680:por
+    amending_title: Decreto-Lei n.º 289/92
+    changes:
+    - Altera Artigo 49.º-A
+    - Entrada Vigor Diploma
+  - date: '1993-11-30'
+    amending: pt:dre:428825:por
+    amending_title: Lei n.º 72/93
+    changes:
+    - Altera Artigo 50.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 49.º
+  - date: '1993-12-25'
+    amending: pt:dre:311209:por
+    amending_title: Lei n.º 75/93
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 27.º
+    - Altera Artigo 38.º
+    - Altera Artigo 40.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 49.º-A
+    - Altera Artigo 52.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 30.º-C
+  - date: '1994-02-13'
+    amending: pt:dre:521446:por
+    amending_title: Decreto-Lei n.º 37/94
+    changes:
+    - Altera Artigo 41.º
+    - Entrada Vigor Diploma
+  - date: '1994-07-23'
+    amending: pt:dre:298873:por
+    amending_title: Lei n.º 24/94
+    changes:
+    - Altera Artigo 50.º
+    - Entrada Vigor Diploma
+  - date: '1995-01-01'
+    amending: pt:dre:233945:por
+    amending_title: Lei n.º 39-B/94
+    changes:
+    - Adita Artigo 20.º-A
+    - Altera Artigo 10.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º-C
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 32.º-B
+    - Altera Artigo 39.º
+    - Altera Artigo 44.º
+    - Altera Artigo 49.º-A
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Entrada Vigor Diploma
+  - date: '1995-04-15'
+    amending: pt:dre:230113:por
+    amending_title: Rectificação n.º 2/95
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Artigo 55.º
+  - date: '1995-08-10'
+    amending: pt:dre:478414:por
+    amending_title: Decreto-Lei n.º 204/95
+    changes:
+    - Adita Artigo 21.º-A
+    - Entrada Vigor Diploma
+  - date: '1995-11-25'
+    amending: pt:dre:690175:por
+    amending_title: Decreto-Lei n.º 307/95
+    changes:
+    - Altera Artigo 41.º
+    - Entrada Vigor Diploma
+  - date: '1996-01-02'
+    amending: pt:dre:621765:por
+    amending_title: Lei n.º 92-A/95
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 49.º-A
+    - Entrada Vigor Diploma
+  - date: '1996-03-28'
+    amending: pt:dre:477288:por
+    amending_title: Lei n.º 10-B/96
+    changes:
+    - Altera Artigo 20.º-A
+    - Altera Artigo 21.º
+    - Altera Artigo 32.º
+    - Altera Artigo 32.º-B
+    - Altera Artigo 39.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 52.º
+    - Altera Artigo 55.º
+    - Entrada Vigor Diploma
+  - date: '1996-05-11'
+    amending: pt:dre:469192:por
+    amending_title: Decreto-Lei n.º 37/96
+    changes:
+    - Altera Artigo 19.º
+    - Entrada Vigor Diploma
+  - date: '1996-11-13'
+    amending: pt:dre:177385:por
+    amending_title: Decreto-Lei n.º 208/96
+    changes:
+    - Adita Artigo 57.º
+    - Entrada Vigor Diploma
+  - date: '1997-01-01'
+    amending: pt:dre:276219:por
+    amending_title: Decreto-Lei n.º 257-B/96; Lei n.º 52-C/96
+    changes:
+    - Altera Artigo 34.º
+    - Altera Artigo 36.º-A
+    - Entrada Vigor Diploma
+    - Adita Artigo 42.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 20.º-A
+    - Altera Artigo 21.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º-A
+    - Altera Artigo 52.º
+    - Revoga Artigo 30.º
+  - date: '1997-01-24'
+    amending: pt:dre:581227:por
+    amending_title: Decreto-Lei n.º 24/97
+    changes:
+    - Altera Artigo 19.º
+    - Entrada Vigor Diploma
+  - date: '1997-02-28'
+    amending: pt:dre:574705:por
+    amending_title: Declaração de Rectificação n.º 5-E/97
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Artigo 19.º
+  - date: '1997-12-28'
+    amending: pt:dre:419394:por
+    amending_title: Decreto-Lei n.º 367/97
+    changes:
+    - Altera Artigo 19.º
+    - Entrada Vigor Diploma
+  - date: '1998-02-15'
+    amending: pt:dre:229284:por
+    amending_title: Decreto-Lei n.º 25/98
+    changes:
+    - Altera Artigo 41.º
+    - Entrada Vigor Diploma
+  - date: '1999-01-01'
+    amending: pt:dre:570520:por
+    amending_title: Lei n.º 87-B/98; Lei n.º 72/98
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º-A
+    - Altera Artigo 21.º
+    - Altera Artigo 21.º-A
+    - Altera Artigo 32.º
+    - Altera Artigo 32.º-B
+    - Altera Artigo 34.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 40.º-A
+    - Altera Artigo 44.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º-A
+    - Altera Artigo 49.º-C
+    - Altera Artigo 49.º-D
+    - Altera Artigo 49.º-E
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Entrada Vigor Diploma
+    - Adita Artigo 48.º-A
+  - date: '2000-01-01'
+    amending: pt:dre:679669:por
+    amending_title: Lei n.º 3-B/2000; Decreto-Lei n.º 433/99
+    changes:
+    - Adita Artigo 32.º-C
+    - Adita Artigo 47.º-B
+    - Adita Artigo 49.º-F
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º-A
+    - Altera Artigo 21.º
+    - Altera Artigo 21.º-A
+    - Altera Artigo 26.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º-B
+    - Altera Artigo 33.º
+    - Altera Artigo 39.º
+    - Altera Artigo 44.º
+    - Altera Artigo 48.º-A
+    - Altera Artigo 49.º-B
+    - Altera Artigo 49.º-D
+    - Altera Artigo 49.º-E
+    - Altera Artigo 50.º
+    - Altera Artigo 52.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 14.º
+    - Revoga Artigo 17.º
+  - date: '2001-01-01'
+    amending: pt:dre:389654:por
+    amending_title: Declaração de Rectificação n.º 7/2001; Declaração de Rectificação n.º 5/2001; Lei n.º 30-C/2000; Lei n.º
+      30-G/2000; Lei n.º 30-F/2000
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Artigo 21.º
+    - Retifica Artigo 41.º-A
+    - Altera Artigo 10.º
+    - Altera Artigo 20.º-A
+    - Altera Artigo 21.º
+    - Altera Artigo 32.º-B
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 44.º
+    - Altera Artigo 49.º-D
+    - Altera Artigo 49.º-E
+    - Altera Artigo 50.º
+    - Altera Artigo 52.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º-A
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 30.º-A
+    - Revoga Artigo 30.º-B
+    - Revoga Artigo 30.º-C
+    - Revoga Artigo 37.º
+    - Adita Artigo 41.º-A
+    - Altera Artigo 41.º
+  - date: '2001-02-08'
+    amending: pt:dre:315564:por
+    amending_title: Decreto-Lei n.º 28/2001
+    changes:
+    - Altera Artigo 38.º
+    - Entrada Vigor Diploma
+  - date: '2001-07-08'
+    amending: pt:dre:347542:por
+    amending_title: Decreto-Lei n.º 198/2001
+    changes:
+    - Adita Capítulo III
+    - Adita Capítulo IV
+    - Adita Capítulo V
+    - Adita Capítulo VI
+    - Adita Capítulo VII
+    - Adita Capítulo VIII
+    - Adita Artigo 58.º
+    - Adita Artigo 59.º
+    - Adita Artigo 60.º
+    - Adita Artigo 61.º
+    - Adita Artigo 62.º
+    - Adita Artigo 63.º
+    - Adita Artigo 64.º
+    - Altera Capítulo III
+    - Altera Capítulo V
+    - Altera Capítulo VI
+    - Altera Capítulo VII
+    - Altera Capítulo VIII
+    - Altera Capítulo IV
+    - Altera Anexo
+    - Altera Parte I
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Parte II
+    - Altera Capítulo I
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+  - date: '2001-08-09'
+    amending: pt:dre:522865:por
+    amending_title: Lei n.º 85/2001
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Entrada Vigor Diploma
+  - date: '2002-01-01'
+    amending: pt:dre:229157:por
+    amending_title: Lei n.º 109-B/2001
+    changes:
+    - Adita Artigo 56.º-A
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 53.º
+    - Altera Artigo 62.º
+    - Altera Artigo 64.º
+    - Entrada Vigor Diploma
+  - date: '2002-06-05'
+    amending: pt:dre:533809:por
+    amending_title: Lei n.º 16-A/2002
+    changes:
+    - Altera Artigo 42.º
+    - Entrada Vigor Diploma
+  - date: '2002-11-05'
+    amending: pt:dre:425931:por
+    amending_title: Decreto-Lei n.º 229/2002
+    changes:
+    - Adita Artigo 11.º-A
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Entrada Vigor Diploma
+  - date: '2003-01-01'
+    amending: pt:dre:209041:por
+    amending_title: Decreto-Lei n.º 17/2003; Lei n.º 32-B/2002; Decreto-Lei n.º 228/2002
+    changes:
+    - Adita Artigo 66.º
+    - Entrada Vigor Diploma
+    - Adita Artigo 22.º-A
+    - Adita Artigo 65.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 57.º
+    - Altera Artigo 64.º
+    - Revoga Artigo 32.º
+  - date: '2003-07-29'
+    amending: pt:dre:673640:por
+    amending_title: Decreto-Lei n.º 163/2003
+    changes:
+    - Altera Diploma
+    - Altera Artigo 34.º
+  - date: '2004-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013; Lei n.º 107-B/2003; Decreto-Lei n.º 287/2003; Decreto-Lei n.º 256/2003
+    changes:
+    - Revoga Artigo 32.º
+    - Revoga Artigo 42.º
+    - Altera Artigo 22.º
+    - Altera Artigo 31.º
+    - Altera Artigo 34.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 45.º
+    - Altera Artigo 66.º
+  - date: '2005-01-01'
+    amending: pt:dre:689420:por
+    amending_title: Lei n.º 55-B/2004
+    changes:
+    - Adita Artigo 33.º-A
+    - Altera Artigo 11.º-A
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 56.º
+    - Altera Artigo 59.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 60.º
+    - Revoga Artigo 66.º
+  - date: '2006-01-01'
+    amending: pt:dre:376234:por
+    amending_title: Lei n.º 60-A/2005; Decreto-Lei n.º 192/2005
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 33.º
+    - Altera Artigo 33.º-A
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 64.º
+    - Altera Artigo 22.º
+  - date: '2007-01-01'
+    amending: pt:dre:197511:por
+    amending_title: Lei n.º 53-A/2006
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 22.º-B
+    - Adita Artigo 39.º-A
+    - Adita Artigo 39.º-B
+    - Adita Artigo 40.º-A
+    - Adita Capítulo IX
+    - Adita Artigo 56.º-B
+    - Adita Capítulo X
+    - Adita Artigo 56.º-C
+    - Adita Artigo 56.º-D
+    - Adita Artigo 56.º-E
+    - Adita Artigo 56.º-F
+    - Adita Artigo 56.º-G
+    - Adita Artigo 56.º-H
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 40.º
+    - Altera Artigo 40.º-A
+    - Altera Artigo 42.º
+    - Altera Artigo 46.º
+    - Altera Artigo 56.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 44.º
+    - Revoga Artigo 51.º
+  - date: '2008-01-01'
+    amending: pt:dre:529450:por
+    amending_title: Lei n.º 67-A/2007
+    changes:
+    - Adita Artigo 14.º-A
+    - Altera Artigo 31.º
+    - Altera Artigo 39.º-A
+    - Altera Artigo 39.º-B
+    - Altera Artigo 56.º-D
+    - Altera Artigo 65.º
+    - Revoga Artigo 20.º
+  - date: '2008-01-23'
+    amending: pt:dre:248499:por
+    amending_title: Decreto-Lei n.º 13/2008
+    changes:
+    - Adita Artigo 34.º-A
+  - date: '2008-07-01'
+    amending: pt:dre:456221:por
+    amending_title: Decreto-Lei n.º 108/2008
+    changes:
+    - Adita Artigo 67.º
+    - Adita Artigo 68.º
+    - Adita Artigo 69.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Capítulo I
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Capítulo II
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Capítulo III
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+  - date: '2008-12-06'
+    amending: pt:dre:440498:por
+    amending_title: Lei n.º 64/2008
+    changes:
+    - Altera Artigo 46.º
+  - date: '2009-01-01'
+    amending: pt:dre:604822:por
+    amending_title: Lei n.º 10/2009; Lei n.º 64-A/2008
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 32.º
+    - Altera Artigo 68.º
+    - Adita Artigo 70.º
+    - Adita Artigo 71.º
+  - date: '2009-08-17'
+    amending: pt:dre:493506:por
+    amending_title: Decreto-Lei n.º 185/2009
+    changes:
+    - Altera Artigo 60.º
+  - date: '2009-09-28'
+    amending: pt:dre:490420:por
+    amending_title: Decreto-Lei n.º 249/2009
+    changes:
+    - Altera Artigo 41.º
+  - date: '2009-10-18'
+    amending: pt:dre:491734:por
+    amending_title: Decreto-Lei n.º 292/2009
+    changes:
+    - Altera Artigo 16.º
+  - date: '2010-04-29'
+    amending: pt:dre:609990:por
+    amending_title: Lei n.º 3-B/2010
+    changes:
+    - Altera Artigo 32.º
+    - Altera Artigo 44.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 70.º
+    - Revoga Artigo 68.º
+  - date: '2010-07-27'
+    amending: pt:dre:334098:por
+    amending_title: Lei n.º 15/2010
+    changes:
+    - Adita Artigo 72.º
+    - Altera Artigo 22.º
+  - date: '2011-01-01'
+    amending: pt:dre:105637672:por
+    amending_title: Lei n.º 42/2016; Lei n.º 55-A/2010
+    changes:
+    - Altera Artigo 66.º-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 73.º
+    - Adita Artigo 74.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 27.º
+    - Altera Artigo 32.º
+    - Altera Artigo 44.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 70.º
+    - Revoga Artigo 67.º
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Adita Artigo 32.º-A
+    - Adita Artigo 62.º-A
+    - Adita Capítulo XI
+    - Adita Artigo 66.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Altera Artigo 58.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 74.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 43.º
+    - Revoga Artigo 56.º
+    - Revoga Artigo 57.º
+    - Revoga Artigo 65.º
+    - Revoga Artigo 73.º
+  - date: '2012-05-15'
+    amending: pt:dre:552023:por
+    amending_title: Lei n.º 20/2012
+    changes:
+    - Altera Artigo 33.º
+    - Altera Artigo 44.º
+  - date: '2012-11-12'
+    amending: pt:dre:175305:por
+    amending_title: Lei n.º 31/2012
+    changes:
+    - Altera Artigo 44.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012; Decreto-Lei n.º 198/2012
+    changes:
+    - Altera Artigo 22.º
+    - Altera Artigo 48.º
+    - Altera Artigo 58.º
+    - Altera Artigo 66.º-B
+    - Altera Artigo 69.º
+    - Altera Artigo 71.º
+    - Revoga Artigo 72.º
+    - Adita Capítulo XII
+    - Adita Artigo 66.º-B
+  - date: '2013-06-18'
+    amending: pt:dre:496766:por
+    amending_title: Decreto-Lei n.º 82/2013
+    changes:
+    - Altera Artigo 41.º
+  - date: '2013-07-25'
+    amending: pt:dre:498764:por
+    amending_title: Lei n.º 51/2013
+    changes:
+    - Altera Artigo 66.º-B
+  - date: '2013-12-10'
+    amending: pt:dre:484127:por
+    amending_title: Lei n.º 83/2013
+    changes:
+    - Altera Artigo 36.º
+    - Altera Artigo 66.º-B
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Adita Capítulo XIII
+    - Adita Artigo 66.º-C
+    - Adita Artigo 66.º-D
+    - Adita Artigo 66.º-E
+    - Adita Artigo 66.º-F
+    - Adita Artigo 66.º-G
+    - Adita Artigo 66.º-H
+    - Adita Artigo 66.º-I
+    - Adita Artigo 66.º-J
+    - Adita Artigo 66.º-K
+    - Adita Artigo 66.º-L
+    - Altera Artigo 32.º-A
+    - Altera Artigo 36.º
+    - Altera Artigo 41.º
+    - Altera Artigo 46.º
+    - Altera Artigo 49.º
+    - Altera Artigo 60.º
+    - Altera Artigo 69.º
+  - date: '2014-10-01'
+    amending: pt:dre:57701290:por
+    amending_title: Lei n.º 75-A/2014
+    changes:
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 36.º
+  - date: '2014-11-05'
+    amending: pt:dre:58683382:por
+    amending_title: Decreto-Lei n.º 162/2014
+    changes:
+    - Adita Artigo 41.º-A
+    - Altera Capítulo VI
+    - Revoga Artigo 41.º
+    - Revoga Artigo 66.º-C
+    - Revoga Artigo 66.º-D
+    - Revoga Artigo 66.º-E
+    - Revoga Artigo 66.º-F
+    - Revoga Artigo 66.º-G
+    - Revoga Artigo 66.º-H
+    - Revoga Artigo 66.º-I
+    - Revoga Artigo 66.º-J
+    - Revoga Artigo 66.º-K
+    - Revoga Artigo 66.º-L
+  - date: '2015-01-01'
+    amending: pt:dre:66022085:por
+    amending_title: Lei n.º 82-E/2014; Lei n.º 82-B/2014
+    changes:
+    - Adita Artigo 20.º-A
+    - Adita Artigo 39.º-A
+    - Altera Artigo 18.º
+    - Altera Artigo 58.º
+    - Revoga Artigo 66.º-B
+    - Revoga Artigo 74.º
+    - Adita Artigo 62.º-B
+    - Altera Artigo 48.º
+    - Altera Artigo 62.º
+    - Altera Artigo 69.º
+  - date: '2015-01-18'
+    amending: pt:dre:66145328:por
+    amending_title: Decreto-Lei n.º 7/2015
+    changes:
+    - Adita Artigo 22.º-A
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 71.º
+  - date: '2015-07-06'
+    amending: pt:dre:67647961:por
+    amending_title: Lei n.º 64/2015
+    changes:
+    - Adita Artigo 36.º-A
+    - Altera Artigo 7.º
+  - date: '2016-03-31'
+    amending: pt:dre:73958532:por
+    amending_title: Lei n.º 7-A/2016
+    changes:
+    - Adita Artigo 32.º-B
+    - Adita Artigo 32.º-C
+    - Adita Artigo 32.º-D
+    - Adita Artigo 40.º-A
+    - Altera Artigo 22.º-A
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 44.º
+    - Altera Artigo 55.º
+    - Altera Artigo 66.º-A
+    - Altera Artigo 69.º
+    - Altera Artigo 71.º
+    - Revoga Artigo 48.º
+    - Revoga Artigo 49.º
+  - date: '2016-07-16'
+    amending: pt:dre:74953317:por
+    amending_title: Decreto-Lei n.º 38/2016
+    changes:
+    - Altera Artigo 70.º
+  - date: '2017-01-01'
+    amending: pt:dre:105637672:por
+    amending_title: Lei n.º 42/2016
+    changes:
+    - Adita Artigo 41.º-B
+    - Adita Artigo 43.º-A
+    - Adita Artigo 59.º-E
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 22.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º-A
+    - Altera Artigo 44.º-B
+    - Altera Artigo 46.º
+    - Altera Artigo 70.º
+  - date: '2017-02-23'
+    amending: pt:dre:106509196:por
+    amending_title: Decreto-Lei n.º 22/2017
+    changes:
+    - Adita Artigo 59.º-F
+  - date: '2018-01-01'
+    amending: pt:dre:114766028:por
+    amending_title: Declaração de Retificação n.º 6/2018; Lei n.º 114/2017; Lei n.º 110/2017
+    changes:
+    - Adita Artigo 59.º-I
+    - Altera Artigo 59.º-H
+    - Adita Artigo 19.º-A
+    - Adita Artigo 43.º-C
+    - Adita Artigo 43.º-B
+    - Adita Artigo 59.º-H
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 41.º-A
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 59.º-D
+    - Altera Artigo 59.º-F
+    - Altera Artigo 60.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º-A
+    - Altera Artigo 71.º
+    - Adita Artigo 59.º-G
+  - date: '2018-06-20'
+    amending: pt:dre:115536002:por
+    amending_title: Decreto-Lei n.º 45/2018
+    changes:
+    - Revoga Artigo 59.º-F
+  - date: '2018-08-10'
+    amending: pt:dre:115946548:por
+    amending_title: Lei n.º 43/2018
+    changes:
+    - Altera Artigo 15.º-A
+    - Altera Artigo 19.º-A
+    - Altera Artigo 20.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 47.º
+    - Revoga Artigo 50.º
+  - date: '2019-01-01'
+    amending: pt:dre:120454102:por
+    amending_title: Declaração de Retificação n.º 6/2019; Lei n.º 71/2018
+    changes:
+    - Retifica Artigo 71.º
+    - Adita Artigo 59.º-J
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 41.º-B
+    - Altera Artigo 59.º-D
+    - Altera Artigo 59.º-G
+    - Altera Artigo 59.º-H
+    - Altera Artigo 60.º
+    - Altera Artigo 64.º
+    - Altera Artigo 71.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Altera Artigo 41.º-B
+    - Altera Artigo 59.º-A
+    - Altera Artigo 60.º
+    - Altera Artigo 71.º
+  - date: '2021-01-01'
+    amending: pt:dre:152639825:por
+    amending_title: Lei n.º 75-B/2020
+    changes:
+    - Altera Artigo 62.º
+    - Altera Artigo 62.º-B
+    - Altera Artigo 63.º
+  - date: '2021-04-21'
+    amending: pt:dre:161766414:por
+    amending_title: Lei n.º 21/2021
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 28.º
+    - Altera Artigo 36.º-A
+    - Altera Artigo 52.º
+  - date: '2022-06-28'
+    amending: pt:dre:185224662:por
+    amending_title: Lei n.º 12/2022
+    changes:
+    - Altera Artigo 22.º-A
+    - Altera Artigo 36.º-A
+    - Altera Artigo 41.º-B
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 64.º
+    - Altera Artigo 66.º-A
+  - date: '2023-01-01'
+    amending: pt:dre:205557192:por
+    amending_title: Lei n.º 24-D/2022
+    changes:
+    - Adita Artigo 19.º-B
+    - Adita Artigo 43.º-D
+    - Altera Artigo 41.º-B
+    - Altera Artigo 44.º
+    - Altera Artigo 71.º
+    - Revoga Artigo 41.º-A
+  - date: '2023-05-18'
+    amending: pt:dre:213132930:por
+    amending_title: Lei n.º 20/2023
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 28.º
+    - Altera Artigo 39.º-A
+    - Altera Artigo 43.º-D
+  - date: '2023-05-26'
+    amending: pt:dre:213498830:por
+    amending_title: Lei n.º 21/2023
+    changes:
+    - Altera Artigo 43.º-C
+  - date: '2023-10-07'
+    amending: pt:dre:222477692:por
+    amending_title: Lei n.º 56/2023
+    changes:
+    - Adita Artigo 45.º-A
+    - Adita Artigo 71.º-A
+    - Adita Artigo 74.º-A
+    - Altera Artigo 46.º
+    - Altera Artigo 71.º
+  - date: '2024-01-01'
+    amending: pt:dre:835864042:por
+    amending_title: Lei n.º 82/2023
+    changes:
+    - Adita Artigo 46.º-A
+    - Adita Artigo 58.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 19.º-B
+    - Altera Artigo 36.º-A
+    - Altera Artigo 39.º
+    - Altera Artigo 43.º-C
+    - Altera Artigo 43.º-D
+    - Altera Artigo 46.º
+    - Altera Artigo 59.º-D
+    - Altera Artigo 71.º-A
+  - date: '2024-06-29'
+    amending: pt:dre:870265813:por
+    amending_title: Lei n.º 31/2024
+    changes:
+    - Adita Artigo 24.º-A
+    - Adita Artigo 32.º-E
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+  - date: '2025-01-01'
+    amending: pt:dre:901667918:por
+    amending_title: Lei n.º 45-A/2024
+    changes:
+    - Altera Artigo 15.º-A
+    - Altera Artigo 19.º-B
+    - Altera Artigo 36.º-A
+    - Altera Artigo 43.º-B
+    - Altera Artigo 43.º-D
+  - date: '2025-07-01'
+    amending: pt:dre:912653926:por
+    amending_title: Decreto-Lei n.º 49/2025
+    changes:
+    - Altera Artigo 41.º-B
+  - date: '2025-11-12'
+    amending: pt:dre:944874409:por
+    amending_title: Lei n.º 65/2025
+    changes:
+    - Altera Artigo 19.º-B
+  - date: '2026-01-01'
+    amending: pt:dre:993270096:por
+    amending_title: Lei n.º 73-A/2025
+    changes:
+    - Altera Artigo 19.º-B
+    - Altera Artigo 36.º-A
+  - date: '2026-05-25'
+    amending: pt:dre:1124493227:por
+    amending_title: Decreto-Lei n.º 97/2026
+    changes:
+    - Adita Artigo 45.º-B
+    - Adita Artigo 45.º-C
+    - Altera Artigo 24.º-A
+  - date: '2026-08-18'
+    amending: pt:dre:1159105698:por
+    amending_title: Decreto-Lei n.º 167/2026
+    changes:
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 62.º-A
+    - Altera Artigo 62.º-B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/215/1989/p/cons/20260817/pt/html
+  oj: null
+  dre: '620928'
+  dre_path: /dr/detalhe/decreto-lei/215-1989-620928
+  internal: pt:dre:620928:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928
+  metadata_url: https://data.dre.pt/eli/dec-lei/215/1989/p/cons/20260817/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-34554075
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-34554075
+  retrieved_at: '2026-10-22T13:50:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-17T00:00:00Z'
+integrity:
+  source_sha256: 8ea316f0e17f884b9958802d1b06dfc17db2ab1cc424fabe6619172a5716319f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:50:29Z'
+  notes: 96 versão(ões); histórico completo em decreto-lei-215-89.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Benefícios Fiscais
+- Código do IRC
+- Código do IRS
+- Estatuto dos Benefícios Fiscais
+- IRC
+- IRS
+relationships:
+- type: amended_by
+  target: pt:dre:505235:por
+  label: Entrada Vigor Diploma; Retifica Diploma; Retifica Artigo 7.º; Retifica Artigo 8.º; Retifica Artigo 11.º; Retifica
+    Artigo 12.º; Retifica Artigo 39.º; Retifica Artigo 41.º; Retifica Artigo 44.º; Retifica Artigo 46.º; Retifica Artigo 48.º;
+    Retifica Artigo 50.º; Retifica Artigo 51.º; Retifica Artigo 52.º; Retifica Anexo; Altera Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505235
+  date: '1989-10-31'
+- type: amended_by
+  target: pt:dre:505254:por
+  label: Entrada Vigor Diploma; Retifica Diploma; Retifica Artigo 7.º; Retifica Artigo 8.º; Retifica Artigo 11.º; Retifica
+    Artigo 12.º; Retifica Artigo 39.º; Retifica Artigo 41.º; Retifica Artigo 44.º; Retifica Artigo 46.º; Retifica Artigo 48.º;
+    Retifica Artigo 50.º; Retifica Artigo 51.º; Retifica Artigo 52.º; Retifica Anexo; Altera Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254
+  date: '1989-10-31'
+- type: amended_by
+  target: pt:dre:550816:por
+  label: Adita Artigo 22.º-A; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1989-550816
+  date: '1989-11-30'
+- type: amended_by
+  target: pt:dre:332881:por
+  label: Altera Artigo 19.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/4-1990-332881
+  date: '1990-02-17'
+- type: amended_by
+  target: pt:dre:333296:por
+  label: Adita Artigo 49.º-A; Altera Artigo 48.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296
+  date: '1990-03-20'
+- type: amended_by
+  target: pt:dre:575135:por
+  label: Adita Artigo 56.º; Altera Artigo 21.º; Altera Artigo 38.º; Altera Artigo 52.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1990-575135
+  date: '1990-06-08'
+- type: amended_by
+  target: pt:dre:575148:por
+  label: Adita Artigo 56.º; Altera Artigo 21.º; Altera Artigo 38.º; Altera Artigo 52.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1990-575148
+  date: '1990-06-09'
+- type: amended_by
+  target: pt:dre:469072:por
+  label: Altera Artigo 26.º; Altera Artigo 35.º; Altera Artigo 44.º; Altera Artigo 45.º; Altera Artigo 46.º; Altera Artigo
+    48.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072
+  date: '1990-12-28'
+- type: amended_by
+  target: pt:dre:322324:por
+  label: Adita Artigo 30.º-A; Adita Artigo 30.º-B; Adita Artigo 34.º-A; Altera Artigo 50.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-b-1991-322324
+  date: '1991-04-10'
+- type: amended_by
+  target: pt:dre:691435:por
+  label: Altera Artigo 48.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435
+  date: '1991-07-27'
+- type: amended_by
+  target: pt:dre:676040:por
+  label: Adita Artigo 30.º-C; Adita Artigo 30.º-D; Adita Artigo 32.º-A; Adita Artigo 49.º-B; Altera Parte II; Altera Artigo
+    19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 41.º; Altera Artigo 52.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1991-676040
+  date: '1991-08-13'
+- type: amended_by
+  target: pt:dre:292879:por
+  label: Altera Artigo 18.º; Altera Artigo 24.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1991-292879
+  date: '1991-09-28'
+- type: amended_by
+  target: pt:dre:626237:por
+  label: Altera Artigo 21.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 52.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:292306:por
+  label: Entrada Vigor Diploma; Retifica Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/rectificacao/6-1992-292306
+  date: '1992-07-21'
+- type: amended_by
+  target: pt:dre:260592:por
+  label: Adita Artigo 32.º-B; Adita Artigo 47.º-A; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 39.º; Altera Artigo
+    40.º; Altera Artigo 44.º; Altera Artigo 55.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1992-260592
+  date: '1992-08-25'
+- type: amended_by
+  target: pt:dre:361328:por
+  label: Entrada Vigor Diploma; Retifica Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/146-1992-361328
+  date: '1992-09-30'
+- type: amended_by
+  target: pt:dre:621680:por
+  label: Altera Artigo 49.º-A; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1992-621680
+  date: '1992-12-26'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: Altera Artigo 49.º-A; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:283563:por
+  label: Altera Artigo 49.º-A; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1993-283563
+  date: '1993-01-09'
+- type: amended_by
+  target: pt:dre:634689:por
+  label: Altera Artigo 49.º-A; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:593710:por
+  label: Altera Artigo 50.º; Entrada Vigor Diploma; Revoga Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/71-1993-593710
+  date: '1993-11-26'
+- type: amended_by
+  target: pt:dre:428825:por
+  label: Altera Artigo 50.º; Entrada Vigor Diploma; Revoga Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: Altera Artigo 21.º; Altera Artigo 27.º; Altera Artigo 38.º; Altera Artigo 40.º; Altera Artigo 44.º; Altera Artigo
+    46.º; Altera Artigo 49.º-A; Altera Artigo 52.º; Entrada Vigor Diploma; Revoga Artigo 30.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:521446:por
+  label: Altera Artigo 41.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1994-521446
+  date: '1994-02-08'
+- type: amended_by
+  target: pt:dre:298873:por
+  label: Altera Artigo 50.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-1994-298873
+  date: '1994-07-18'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: Adita Artigo 20.º-A; Altera Artigo 10.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo
+    26.º; Altera Artigo 28.º; Altera Artigo 30.º-C; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 32.º-B; Altera Artigo
+    39.º; Altera Artigo 44.º; Altera Artigo 49.º-A; Altera Artigo 52.º; Altera Artigo 53.º; Altera Artigo 54.º; Altera Artigo
+    55.º; Altera Artigo 56.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:230113:por
+  label: Entrada Vigor Diploma; Retifica Artigo 55.º
+  source: https://diariodarepublica.pt/dr/detalhe/rectificacao/2-1995-230113
+  date: '1995-04-15'
+- type: amended_by
+  target: pt:dre:478414:por
+  label: Adita Artigo 21.º-A; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1995-478414
+  date: '1995-08-05'
+- type: amended_by
+  target: pt:dre:690175:por
+  label: Altera Artigo 41.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1995-690175
+  date: '1995-11-20'
+- type: amended_by
+  target: pt:dre:621765:por
+  label: Altera Artigo 5.º; Altera Artigo 49.º-A; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/92-a-1995-621765
+  date: '1995-12-28'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: Altera Artigo 20.º-A; Altera Artigo 21.º; Altera Artigo 32.º; Altera Artigo 32.º-B; Altera Artigo 39.º; Altera Artigo
+    44.º; Altera Artigo 45.º; Altera Artigo 46.º; Altera Artigo 52.º; Altera Artigo 55.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:469192:por
+  label: Altera Artigo 19.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1996-469192
+  date: '1996-05-06'
+- type: amended_by
+  target: pt:dre:177385:por
+  label: Adita Artigo 57.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1996-177385
+  date: '1996-11-08'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: Altera Artigo 34.º; Altera Artigo 36.º-A; Entrada Vigor Diploma; Adita Artigo 42.º-A; Altera Artigo 5.º; Altera Artigo
+    20.º-A; Altera Artigo 21.º; Altera Artigo 35.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 46.º; Altera Artigo
+    48.º; Altera Artigo 49.º-A; Altera Artigo 52.º; Revoga Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:276219:por
+  label: Altera Artigo 34.º; Altera Artigo 36.º-A; Entrada Vigor Diploma; Adita Artigo 42.º-A; Altera Artigo 5.º; Altera Artigo
+    20.º-A; Altera Artigo 21.º; Altera Artigo 35.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 46.º; Altera Artigo
+    48.º; Altera Artigo 49.º-A; Altera Artigo 52.º; Revoga Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-b-1996-276219
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:581227:por
+  label: Altera Artigo 19.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1997-581227
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:574705:por
+  label: Entrada Vigor Diploma; Retifica Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-e-1997-574705
+  date: '1997-02-28'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: Altera Artigo 19.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:419394:por
+  label: Altera Artigo 19.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1997-419394
+  date: '1997-12-23'
+- type: amended_by
+  target: pt:dre:229284:por
+  label: Altera Artigo 41.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1998-229284
+  date: '1998-02-10'
+- type: amended_by
+  target: pt:dre:223021:por
+  label: Altera Artigo 5.º; Altera Artigo 19.º; Altera Artigo 20.º-A; Altera Artigo 21.º; Altera Artigo 21.º-A; Altera Artigo
+    32.º; Altera Artigo 32.º-B; Altera Artigo 34.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 40.º-A; Altera Artigo
+    44.º; Altera Artigo 48.º; Altera Artigo 49.º-A; Altera Artigo 49.º-C; Altera Artigo 49.º-D; Altera Artigo 49.º-E; Altera
+    Artigo 52.º; Altera Artigo 54.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/72-1998-223021
+  date: '1998-11-03'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: Altera Artigo 5.º; Altera Artigo 19.º; Altera Artigo 20.º-A; Altera Artigo 21.º; Altera Artigo 21.º-A; Altera Artigo
+    32.º; Altera Artigo 32.º-B; Altera Artigo 34.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 40.º-A; Altera Artigo
+    44.º; Altera Artigo 48.º; Altera Artigo 49.º-A; Altera Artigo 49.º-C; Altera Artigo 49.º-D; Altera Artigo 49.º-E; Altera
+    Artigo 52.º; Altera Artigo 54.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:692261:por
+  label: Adita Artigo 32.º-C; Adita Artigo 47.º-B; Adita Artigo 49.º-F; Altera Artigo 19.º; Altera Artigo 20.º-A; Altera Artigo
+    21.º; Altera Artigo 21.º-A; Altera Artigo 26.º; Altera Artigo 31.º; Altera Artigo 32.º-B; Altera Artigo 33.º; Altera Artigo
+    39.º; Altera Artigo 44.º; Altera Artigo 48.º-A; Altera Artigo 49.º-B; Altera Artigo 49.º-D; Altera Artigo 49.º-E; Altera
+    Artigo 50.º; Altera Artigo 52.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261
+  date: '1999-10-26'
+- type: amended_by
+  target: pt:dre:682983:por
+  label: Adita Artigo 32.º-C; Adita Artigo 47.º-B; Adita Artigo 49.º-F; Altera Artigo 19.º; Altera Artigo 20.º-A; Altera Artigo
+    21.º; Altera Artigo 21.º-A; Altera Artigo 26.º; Altera Artigo 31.º; Altera Artigo 32.º-B; Altera Artigo 33.º; Altera Artigo
+    39.º; Altera Artigo 44.º; Altera Artigo 48.º-A; Altera Artigo 49.º-B; Altera Artigo 49.º-D; Altera Artigo 49.º-E; Altera
+    Artigo 50.º; Altera Artigo 52.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983
+  date: '1999-11-13'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: Adita Artigo 32.º-C; Adita Artigo 47.º-B; Adita Artigo 49.º-F; Altera Artigo 19.º; Altera Artigo 20.º-A; Altera Artigo
+    21.º; Altera Artigo 21.º-A; Altera Artigo 26.º; Altera Artigo 31.º; Altera Artigo 32.º-B; Altera Artigo 33.º; Altera Artigo
+    39.º; Altera Artigo 44.º; Altera Artigo 48.º-A; Altera Artigo 49.º-B; Altera Artigo 49.º-D; Altera Artigo 49.º-E; Altera
+    Artigo 50.º; Altera Artigo 52.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: Entrada Vigor Diploma; Retifica Artigo 21.º; Retifica Artigo 41.º-A; Altera Artigo 10.º; Altera Artigo 20.º-A; Altera
+    Artigo 21.º; Altera Artigo 32.º-B; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 44.º; Altera Artigo 49.º-D; Altera
+    Artigo 49.º-E; Altera Artigo 50.º; Altera Artigo 52.º; Altera Artigo 19.º; Altera Artigo 21.º-A; Altera Artigo 22.º; Altera
+    Artigo 23.º; Altera Artigo 33.º; Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212014:por
+  label: Entrada Vigor Diploma; Retifica Artigo 21.º; Retifica Artigo 41.º-A; Altera Artigo 10.º; Altera Artigo 20.º-A; Altera
+    Artigo 21.º; Altera Artigo 32.º-B; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 44.º; Altera Artigo 49.º-D; Altera
+    Artigo 49.º-E; Altera Artigo 50.º; Altera Artigo 52.º; Altera Artigo 19.º; Altera Artigo 21.º-A; Altera Artigo 22.º; Altera
+    Artigo 23.º; Altera Artigo 33.º; Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-f-2000-212014
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: Entrada Vigor Diploma; Retifica Artigo 21.º; Retifica Artigo 41.º-A; Altera Artigo 10.º; Altera Artigo 20.º-A; Altera
+    Artigo 21.º; Altera Artigo 32.º-B; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 44.º; Altera Artigo 49.º-D; Altera
+    Artigo 49.º-E; Altera Artigo 50.º; Altera Artigo 52.º; Altera Artigo 19.º; Altera Artigo 21.º-A; Altera Artigo 22.º; Altera
+    Artigo 23.º; Altera Artigo 33.º; Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:315564:por
+  label: Altera Artigo 38.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2001-315564
+  date: '2001-02-03'
+- type: amended_by
+  target: pt:dre:400663:por
+  label: Entrada Vigor Diploma; Retifica Artigo 21.º; Retifica Artigo 41.º-A; Altera Artigo 10.º; Altera Artigo 20.º-A; Altera
+    Artigo 21.º; Altera Artigo 32.º-B; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 44.º; Altera Artigo 49.º-D; Altera
+    Artigo 49.º-E; Altera Artigo 50.º; Altera Artigo 52.º; Altera Artigo 19.º; Altera Artigo 21.º-A; Altera Artigo 22.º; Altera
+    Artigo 23.º; Altera Artigo 33.º; Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-2001-400663
+  date: '2001-03-08'
+- type: amended_by
+  target: pt:dre:389654:por
+  label: Entrada Vigor Diploma; Retifica Artigo 21.º; Retifica Artigo 41.º-A; Altera Artigo 10.º; Altera Artigo 20.º-A; Altera
+    Artigo 21.º; Altera Artigo 32.º-B; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo 44.º; Altera Artigo 49.º-D; Altera
+    Artigo 49.º-E; Altera Artigo 50.º; Altera Artigo 52.º; Altera Artigo 19.º; Altera Artigo 21.º-A; Altera Artigo 22.º; Altera
+    Artigo 23.º; Altera Artigo 33.º; Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-2001-389654
+  date: '2001-03-12'
+- type: amended_by
+  target: pt:dre:347542:por
+  label: Adita Capítulo III; Adita Capítulo IV; Adita Capítulo V; Adita Capítulo VI; Adita Capítulo VII; Adita Capítulo VIII;
+    Adita Artigo 58.º; Adita Artigo 59.º; Adita Artigo 60.º; Adita Artigo 61.º; Adita Artigo 62.º; Adita Artigo 63.º; Adita
+    Artigo 64.º; Altera Capítulo III; Altera Capítulo V; Altera Capítulo VI; Altera Capítulo VII; Altera Capítulo VIII; Altera
+    Capítulo IV; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542
+  date: '2001-07-03'
+- type: amended_by
+  target: pt:dre:522865:por
+  label: Altera Artigo 21.º; Altera Artigo 23.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865
+  date: '2001-08-04'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: Adita Artigo 56.º-A; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo
+    21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 29.º; Altera Artigo
+    30.º; Altera Artigo 31.º; Altera Artigo 33.º; Altera Artigo 35.º; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo
+    41.º; Altera Artigo 42.º; Altera Artigo 53.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:533809:por
+  label: Altera Artigo 42.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809
+  date: '2002-05-31'
+- type: amended_by
+  target: pt:dre:425931:por
+  label: Adita Artigo 11.º-A; Altera Artigo 7.º; Altera Artigo 12.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2002-425931
+  date: '2002-10-31'
+- type: amended_by
+  target: pt:dre:425933:por
+  label: Adita Artigo 66.º; Entrada Vigor Diploma; Adita Artigo 22.º-A; Adita Artigo 65.º; Altera Artigo 14.º; Altera Artigo
+    15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo
+    22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo
+    31.º; Altera Artigo 33.º; Altera Artigo 39.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2002-425933
+  date: '2002-10-31'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: Adita Artigo 66.º; Entrada Vigor Diploma; Adita Artigo 22.º-A; Adita Artigo 65.º; Altera Artigo 14.º; Altera Artigo
+    15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo
+    22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo
+    31.º; Altera Artigo 33.º; Altera Artigo 39.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:209041:por
+  label: Adita Artigo 66.º; Entrada Vigor Diploma; Adita Artigo 22.º-A; Adita Artigo 65.º; Altera Artigo 14.º; Altera Artigo
+    15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo
+    22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo
+    31.º; Altera Artigo 33.º; Altera Artigo 39.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2003-209041
+  date: '2003-02-03'
+- type: amended_by
+  target: pt:dre:673640:por
+  label: Altera Diploma; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2003-673640
+  date: '2003-07-24'
+- type: amended_by
+  target: pt:dre:476751:por
+  label: Revoga Artigo 32.º; Revoga Artigo 42.º; Altera Artigo 22.º; Altera Artigo 31.º; Altera Artigo 34.º; Altera Artigo
+    41.º; Altera Artigo 42.º; Altera Artigo 45.º; Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2003-476751
+  date: '2003-10-21'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: Revoga Artigo 32.º; Revoga Artigo 42.º; Altera Artigo 22.º; Altera Artigo 31.º; Altera Artigo 34.º; Altera Artigo
+    41.º; Altera Artigo 42.º; Altera Artigo 45.º; Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: Revoga Artigo 32.º; Revoga Artigo 42.º; Altera Artigo 22.º; Altera Artigo 31.º; Altera Artigo 34.º; Altera Artigo
+    41.º; Altera Artigo 42.º; Altera Artigo 45.º; Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: Adita Artigo 33.º-A; Altera Artigo 11.º-A; Altera Artigo 12.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo
+    24.º; Altera Artigo 56.º; Altera Artigo 59.º; Revoga Artigo 18.º; Revoga Artigo 60.º; Revoga Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:583434:por
+  label: Altera Artigo 21.º; Altera Artigo 33.º; Altera Artigo 33.º-A; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo
+    64.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2005-583434
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: Altera Artigo 21.º; Altera Artigo 33.º; Altera Artigo 33.º-A; Altera Artigo 39.º; Altera Artigo 40.º; Altera Artigo
+    64.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: Adita Artigo 2.º-A; Adita Artigo 22.º-B; Adita Artigo 39.º-A; Adita Artigo 39.º-B; Adita Artigo 40.º-A; Adita Capítulo
+    IX; Adita Artigo 56.º-B; Adita Capítulo X; Adita Artigo 56.º-C; Adita Artigo 56.º-D; Adita Artigo 56.º-E; Adita Artigo
+    56.º-F; Adita Artigo 56.º-G; Adita Artigo 56.º-H; Altera Artigo 14.º; Altera Artigo 17.º; Altera Artigo 21.º; Altera Artigo
+    22.º-A; Altera Artigo 40.º; Altera Artigo 40.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: Adita Artigo 14.º-A; Altera Artigo 31.º; Altera Artigo 39.º-A; Altera Artigo 39.º-B; Altera Artigo 56.º-D; Altera
+    Artigo 65.º; Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:248499:por
+  label: Adita Artigo 34.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2008-248499
+  date: '2008-01-18'
+- type: amended_by
+  target: pt:dre:456221:por
+  label: Adita Artigo 67.º; Adita Artigo 68.º; Adita Artigo 69.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera
+    Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Capítulo I; Altera Artigo 16.º; Altera
+    Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221
+  date: '2008-06-26'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: Altera Artigo 46.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: Altera Artigo 19.º; Altera Artigo 32.º; Altera Artigo 68.º; Adita Artigo 70.º; Adita Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:604822:por
+  label: Altera Artigo 19.º; Altera Artigo 32.º; Altera Artigo 68.º; Adita Artigo 70.º; Adita Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822
+  date: '2009-03-10'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: Altera Artigo 60.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: Altera Artigo 32.º; Altera Artigo 44.º; Altera Artigo 47.º; Altera Artigo 49.º; Altera Artigo 70.º; Revoga Artigo
+    68.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:334098:por
+  label: Adita Artigo 72.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/15-2010-334098
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: Altera Artigo 66.º-A; Adita Artigo 15.º-A; Adita Artigo 73.º; Adita Artigo 74.º; Altera Artigo 19.º; Altera Artigo
+    21.º; Altera Artigo 27.º; Altera Artigo 32.º; Altera Artigo 44.º; Altera Artigo 48.º; Altera Artigo 49.º; Altera Artigo
+    70.º; Revoga Artigo 67.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Adita Artigo 32.º-A; Adita Artigo 62.º-A; Adita Capítulo XI; Adita Artigo 66.º-A; Altera Artigo 3.º; Altera Artigo
+    16.º; Altera Artigo 17.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo
+    32.º; Altera Artigo 33.º; Altera Artigo 46.º; Altera Artigo 48.º; Altera Artigo 52.º; Altera Artigo 54.º; Altera Artigo
+    58.º; Altera Artigo 69.º; Altera Artigo 70.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: Altera Artigo 33.º; Altera Artigo 44.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:175305:por
+  label: Altera Artigo 44.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/31-2012-175305
+  date: '2012-08-14'
+- type: amended_by
+  target: pt:dre:174543:por
+  label: Altera Artigo 22.º; Altera Artigo 48.º; Altera Artigo 58.º; Altera Artigo 66.º-B; Altera Artigo 69.º; Altera Artigo
+    71.º; Revoga Artigo 72.º; Adita Capítulo XII; Adita Artigo 66.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 22.º; Altera Artigo 48.º; Altera Artigo 58.º; Altera Artigo 66.º-B; Altera Artigo 69.º; Altera Artigo
+    71.º; Revoga Artigo 72.º; Adita Capítulo XII; Adita Artigo 66.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:496766:por
+  label: Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766
+  date: '2013-06-17'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: Altera Artigo 66.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:484127:por
+  label: Altera Artigo 36.º; Altera Artigo 66.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127
+  date: '2013-12-09'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Revoga Artigo 32.º; Revoga Artigo 42.º; Altera Artigo 22.º; Altera Artigo 31.º; Altera Artigo 34.º; Altera Artigo
+    41.º; Altera Artigo 42.º; Altera Artigo 45.º; Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:56388820:por
+  label: Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820
+  date: '2014-09-02'
+- type: amended_by
+  target: pt:dre:57701290:por
+  label: Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290
+  date: '2014-09-30'
+- type: amended_by
+  target: pt:dre:58683382:por
+  label: Adita Artigo 41.º-A; Altera Capítulo VI; Revoga Artigo 41.º; Revoga Artigo 66.º-C; Revoga Artigo 66.º-D; Revoga Artigo
+    66.º-E; Revoga Artigo 66.º-F; Revoga Artigo 66.º-G; Revoga Artigo 66.º-H; Revoga Artigo 66.º-I; Revoga Artigo 66.º-J;
+    Revoga Artigo 66.º-K; Revoga Artigo 66.º-L
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382
+  date: '2014-10-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Adita Artigo 20.º-A; Adita Artigo 39.º-A; Altera Artigo 18.º; Altera Artigo 58.º; Revoga Artigo 66.º-B; Revoga Artigo
+    74.º; Adita Artigo 62.º-B; Altera Artigo 48.º; Altera Artigo 62.º; Altera Artigo 69.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Adita Artigo 20.º-A; Adita Artigo 39.º-A; Altera Artigo 18.º; Altera Artigo 58.º; Revoga Artigo 66.º-B; Revoga Artigo
+    74.º; Adita Artigo 62.º-B; Altera Artigo 48.º; Altera Artigo 62.º; Altera Artigo 69.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Adita Artigo 20.º-A; Adita Artigo 39.º-A; Altera Artigo 18.º; Altera Artigo 58.º; Revoga Artigo 66.º-B; Revoga Artigo
+    74.º; Adita Artigo 62.º-B; Altera Artigo 48.º; Altera Artigo 62.º; Altera Artigo 69.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66145328:por
+  label: Adita Artigo 22.º-A; Altera Artigo 22.º; Altera Artigo 24.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2015-66145328
+  date: '2015-01-13'
+- type: amended_by
+  target: pt:dre:66619889:por
+  label: Adita Artigo 20.º-A; Adita Artigo 39.º-A; Altera Artigo 18.º; Altera Artigo 58.º; Revoga Artigo 66.º-B; Revoga Artigo
+    74.º; Adita Artigo 62.º-B; Altera Artigo 48.º; Altera Artigo 62.º; Altera Artigo 69.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2015-66619889
+  date: '2015-02-27'
+- type: amended_by
+  target: pt:dre:67647961:por
+  label: Adita Artigo 36.º-A; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-2015-67647961
+  date: '2015-07-01'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Adita Artigo 32.º-B; Adita Artigo 32.º-C; Adita Artigo 32.º-D; Adita Artigo 40.º-A; Altera Artigo 22.º-A; Altera
+    Artigo 24.º; Altera Artigo 27.º; Altera Artigo 44.º; Altera Artigo 55.º; Altera Artigo 66.º-A; Altera Artigo 69.º; Altera
+    Artigo 71.º; Revoga Artigo 48.º; Revoga Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:74953317:por
+  label: Altera Artigo 70.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2016-74953317
+  date: '2016-07-15'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Altera Artigo 66.º-A; Adita Artigo 15.º-A; Adita Artigo 73.º; Adita Artigo 74.º; Altera Artigo 19.º; Altera Artigo
+    21.º; Altera Artigo 27.º; Altera Artigo 32.º; Altera Artigo 44.º; Altera Artigo 48.º; Altera Artigo 49.º; Altera Artigo
+    70.º; Revoga Artigo 67.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:106509196:por
+  label: Adita Artigo 59.º-F
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2017-106509196
+  date: '2017-02-22'
+- type: amended_by
+  target: pt:dre:114358690:por
+  label: Adita Artigo 59.º-I; Altera Artigo 59.º-H; Adita Artigo 19.º-A; Adita Artigo 43.º-C; Adita Artigo 43.º-B; Adita Artigo
+    59.º-H; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 41.º-A; Altera Artigo 44.º; Altera Artigo 45.º; Altera Artigo
+    59.º-D; Altera Artigo 59.º-F; Altera Artigo 60.º; Altera Artigo 62.º; Altera Artigo 66.º-A; Altera Artigo 71.º; Adita
+    Artigo 59.º-G
+  source: https://diariodarepublica.pt/dr/detalhe/lei/110-2017-114358690
+  date: '2017-12-15'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Adita Artigo 59.º-I; Altera Artigo 59.º-H; Adita Artigo 19.º-A; Adita Artigo 43.º-C; Adita Artigo 43.º-B; Adita Artigo
+    59.º-H; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 41.º-A; Altera Artigo 44.º; Altera Artigo 45.º; Altera Artigo
+    59.º-D; Altera Artigo 59.º-F; Altera Artigo 60.º; Altera Artigo 62.º; Altera Artigo 66.º-A; Altera Artigo 71.º; Adita
+    Artigo 59.º-G
+  source: https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:114766028:por
+  label: Adita Artigo 59.º-I; Altera Artigo 59.º-H; Adita Artigo 19.º-A; Adita Artigo 43.º-C; Adita Artigo 43.º-B; Adita Artigo
+    59.º-H; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 41.º-A; Altera Artigo 44.º; Altera Artigo 45.º; Altera Artigo
+    59.º-D; Altera Artigo 59.º-F; Altera Artigo 60.º; Altera Artigo 62.º; Altera Artigo 66.º-A; Altera Artigo 71.º; Adita
+    Artigo 59.º-G
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2018-114766028
+  date: '2018-02-26'
+- type: amended_by
+  target: pt:dre:115536002:por
+  label: Revoga Artigo 59.º-F
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2018-115536002
+  date: '2018-06-19'
+- type: amended_by
+  target: pt:dre:115946548:por
+  label: Altera Artigo 15.º-A; Altera Artigo 19.º-A; Altera Artigo 20.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo
+    31.º; Revoga Artigo 19.º; Revoga Artigo 26.º; Revoga Artigo 47.º; Revoga Artigo 50.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548
+  date: '2018-08-09'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Retifica Artigo 71.º; Adita Artigo 59.º-J; Altera Artigo 17.º; Altera Artigo 21.º; Altera Artigo 24.º; Altera Artigo
+    27.º; Altera Artigo 41.º-B; Altera Artigo 59.º-D; Altera Artigo 59.º-G; Altera Artigo 59.º-H; Altera Artigo 60.º; Altera
+    Artigo 64.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:120454102:por
+  label: Retifica Artigo 71.º; Adita Artigo 59.º-J; Altera Artigo 17.º; Altera Artigo 21.º; Altera Artigo 24.º; Altera Artigo
+    27.º; Altera Artigo 41.º-B; Altera Artigo 59.º-D; Altera Artigo 59.º-G; Altera Artigo 59.º-H; Altera Artigo 60.º; Altera
+    Artigo 64.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2019-120454102
+  date: '2019-03-01'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Altera Artigo 41.º-B; Altera Artigo 59.º-A; Altera Artigo 60.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Altera Artigo 62.º; Altera Artigo 62.º-B; Altera Artigo 63.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:161766414:por
+  label: Altera Artigo 3.º; Altera Artigo 28.º; Altera Artigo 36.º-A; Altera Artigo 52.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/21-2021-161766414
+  date: '2021-04-20'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Altera Artigo 22.º-A; Altera Artigo 36.º-A; Altera Artigo 41.º-B; Altera Artigo 45.º; Altera Artigo 46.º; Altera
+    Artigo 64.º; Altera Artigo 66.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: amended_by
+  target: pt:dre:205557192:por
+  label: Adita Artigo 19.º-B; Adita Artigo 43.º-D; Altera Artigo 41.º-B; Altera Artigo 44.º; Altera Artigo 71.º; Revoga Artigo
+    41.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:213132930:por
+  label: Altera Artigo 3.º; Altera Artigo 28.º; Altera Artigo 39.º-A; Altera Artigo 43.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930
+  date: '2023-05-17'
+- type: amended_by
+  target: pt:dre:213498830:por
+  label: Altera Artigo 43.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/lei/21-2023-213498830
+  date: '2023-05-25'
+- type: amended_by
+  target: pt:dre:222477692:por
+  label: Adita Artigo 45.º-A; Adita Artigo 71.º-A; Adita Artigo 74.º-A; Altera Artigo 46.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692
+  date: '2023-10-06'
+- type: amended_by
+  target: pt:dre:835864042:por
+  label: Adita Artigo 46.º-A; Adita Artigo 58.º-A; Altera Artigo 3.º; Altera Artigo 19.º-B; Altera Artigo 36.º-A; Altera Artigo
+    39.º; Altera Artigo 43.º-C; Altera Artigo 43.º-D; Altera Artigo 46.º; Altera Artigo 59.º-D; Altera Artigo 71.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:870265813:por
+  label: Adita Artigo 24.º-A; Adita Artigo 32.º-E; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 22.º-A; Altera Artigo
+    23.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/31-2024-870265813
+  date: '2024-06-28'
+- type: amended_by
+  target: pt:dre:901667918:por
+  label: Altera Artigo 15.º-A; Altera Artigo 19.º-B; Altera Artigo 36.º-A; Altera Artigo 43.º-B; Altera Artigo 43.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918
+  date: '2024-12-31'
+- type: amended_by
+  target: pt:dre:912653926:por
+  label: Altera Artigo 41.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926
+  date: '2025-03-27'
+- type: amended_by
+  target: pt:dre:944874409:por
+  label: Altera Artigo 19.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/65-2025-944874409
+  date: '2025-11-07'
+- type: amended_by
+  target: pt:dre:993270096:por
+  label: Altera Artigo 19.º-B; Altera Artigo 36.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096
+  date: '2025-12-30'
+- type: amended_by
+  target: pt:dre:1124493227:por
+  label: Adita Artigo 45.º-B; Adita Artigo 45.º-C; Altera Artigo 24.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227
+  date: '2026-05-20'
+- type: amended_by
+  target: pt:dre:1159105698:por
+  label: Altera Artigo 61.º; Altera Artigo 62.º; Altera Artigo 62.º-A; Altera Artigo 62.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2026-1159105698
+  date: '2026-08-17'
+- type: cites
+  target: celex:32003L0041
+  label: null
+  source: null
+- type: cites
+  target: celex:32008R0800
+  label: null
+  source: null
+- type: cites
+  target: celex:32011L0096
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0651
+  label: null
+  source: null
+article_structure:
+  article_count: 140
+  section_count: 18
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:50:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 215/89
+
+A multiplicidade e dispersão dos benefícios fiscais, abolidos com a entrada em vigor dos novos impostos sobre o rendimento, constituía um dos aspectos mais criticáveis do sistema tributário português, dada a sua manifesta falta de coerência, as consequências negativas de que era causa no plano da equidade e a receita cessante que implicava.
+
+Na revisão do regime que agora se concretiza com a aprovação do Estatuto dos Benefícios Fiscais, respeitante sobretudo aos impostos sobre o rendimento, entendeu o Governo acolher princípios que passam pela atribuição aos benefícios fiscais de um carácter obrigatoriamente excepcional, só devendo ser concedidos em casos de reconhecido interesse público; pela estabilidade, de modo a garantir aos contribuintes uma situação clara e segura; pela moderação, dado que as receitas são postas em causa com a concessão de benefício, quando o País tem de reduzir o peso do défice público e, simultaneamente, realizar investimentos em infra-estruturas e serviços públicos.
+
+Nessa linha, introduzidos que foram nos Códigos do IRS, do IRC e da CA os desagravamentos caracterizados por uma máxima permanência e estabilidade, são incluídos no Estatuto dos Benefícios Fiscais aqueles que se caracterizam por um carácter menos estrutural, mas que revestem, ainda assim, relativa estabilidade. Os benefícios com finalidades marcadamente conjunturais ou requerendo uma regulação relativamente frequente serão, por sua vez, incluídos nos futuros Orçamentos do Estado.
+
+O Estatuto dos Benefícios Fiscais contém os princípios gerais a que deve obedecer a criação das situações de benefício, as regras da sua atribuição e reconhecimento administrativo e o elenco desses mesmos benefícios, com o duplo objectivo de, por um lado, garantir maior estabilidade aos diplomas reguladores das novas espécies tributárias e, por outro, conferir um carácter mais sistemático ao conjunto dos benefícios fiscais.
+
+Quanto aos benefícios, em especial, importa salientar a preocupação havida com a garantia da continuação dos benefícios fiscais existentes à data de entrada em vigor dos novos impostos sobre o rendimento, prevendo-se para o efeito mecanismos adequados, cujo objectivo é o de fazer reflectir nos novos impostos os benefícios que se reportavam aos impostos extintos.
+
+Os benefícios fiscais respeitantes a investimentos efectuados até 31 de Dezembro de 1988 e que, nos termos da legislação anterior, se iriam concretizar em deduções à matéria colectável ou à colecta nos anos seguintes são devidamente salvaguardados em sede de IRS e IRC.
+
+Além disso, de modo a assegurar que projectos de investimento em curso na data de entrada em vigor dos novos impostos não vejam as suas expectativas diminuídas em termos de crédito fiscal por investimento, prevê-se que poderão ser deduzidos na colecta do IRS ou do IRC, relativa ao período em que os bens entrem em funcionamento, 4% do investimento concluído até 31 de Dezembro de 1988 ou iniciado até esta data e concluído em 1989, bem como 4% do valor das imobilizações em curso em 31 de Dezembro de 1989, relativamente a investimentos iniciados antes de 1 de Janeiro de 1989.
+
+Quanto às obrigações em circulação em 31 de Dezembro de 1988 - com o objectivo de contemplar as expectativas dos obrigacionistas no que respeita à sua remuneração líquida -, aplicar-se-á aos respectivos juros o regime de tributação em vigor à data da sua emissão. E isto será assim até ao fim da vida dessas obrigações.
+
+Para efeitos de tributação em IRS e IRC, prevê-se que seja considerada só uma parte dos juros de obrigações emitidas por empresas em 1989. Essa redução é de 20% daqueles juros.
+
+Trata-se de um benefício de carácter conjuntural que deverá ser ponderado, anualmente, no âmbito do Orçamento do Estado. No entanto, define-se desde já que as obrigações emitidas durante os anos de 1989 a 1992, inclusive, ficam isentas de imposto sobre as sucessões e doações.
+
+A tributação dos dividendos de acções cotadas em bolsa é desagravada. Assim, o IRS e o IRC incidirão apenas sobre 80% dos seus dividendos, ou seja, é-lhes concedido tratamento fiscal análogo ao dos juros da dívida pública a emitir após 1 de Maio de 1989.
+
+De modo a privilegiar fiscalmente as acções adquiridas na sequência do processo de privatizações, prevê-se que, até ao limite de cinco anos, o IRS e o IRC incidam apenas sobre 60% dos seus dividendos.
+
+O artigo 44.º do Código do IRC prevê que as mais-valias obtidas através da transmissão onerosa de activo corpóreo possam ser excluídas da tributação desde que o respectivo valor de realização seja reinvestido, total ou parcialmente, até ao fim do 2.º exercício posterior, na aquisição de outros bens do activo corpóreo.
+
+O Estatuto permite o alargamento desse regime às mais-valias realizadas através da transmissão onerosa de imobilizações financeiras, desde que o correspondente valor de realização seja reinvestido em activo corpóreo ou em quotas, acções ou títulos do Estado Português.
+
+Procurando evitar-se situações de dupla tributação para os participantes dos fundos de investimento mobiliário, imobiliário e de pensões, fica consagrada a isenção do IRC dos seus rendimentos por se reconhecer o importante papel regulador que os mesmos assumem no mercado de capitais e como fomentadores da poupança. Relativamente aos fundos de pensões, deve ainda sublinhar-se que:
+
+a) No Código do IRC (artigo 38.º) está prevista a consideração como custo, em geral até ao limite de 15% da respectiva massa salarial, das contribuições das empresas para fundos de pensões em benefício do seu pessoal;
+
+b) No Código do IRS (artigo 55.º) está prevista a possibilidade de abatimento ao rendimento líquido total, dentro dos limites aí mencionados, das contribuições para fundos de pensões relativas ao sujeito passivo ou aos seus dependentes.
+
+Os fundos de investimento afectos a planos pessoais de reforma (PPR) ficam igualmente isentos de IRC.
+
+Por sua vez, o valor investido, em cada ano, no PPR é dedutível para efeitos de IRS, com o limite máximo do menor dos seguintes valores: 20% do rendimento total bruto englobado e 500 contos.
+
+Os beneficiários da «reforma» serão, a seu tempo, tributados em IRS, mas em condições favoráveis.
+
+O Estatuto prevê a isenção de IRC, no ano da sua constituição e nos quatro anos seguintes, relativamente às sociedades de capital de risco e de desenvolvimento regional, e no ano da constituição e nos sete anos seguintes, para as sociedades de fomento empresarial. Quanto às sociedades de gestão e investimento imobiliário, prevê-se, até um máximo de dez anos, a redução para 25% da taxa de IRC e o aumento para o dobro do crédito de imposto relativo à chamada «dupla tributação económica» de lucros distribuídos (que assim passa de 20% para 40%), com reflexo em IRS ou IRC, conforme os sócios sejam pessoas singulares ou colectivas.
+
+Tendo em conta que relativamente aos rendimentos de actividades agrícolas, silvícolas ou pecuárias se prevê, no artigo 18.º do Decreto-Lei n.º 442-B/88, de 30 de Novembro, que aprovou o Código do IRC, um regime de aproximação gradual das suas taxas de tributação ao respectivo regime geral, o Estatuto estabelece que um regime semelhante se aplique aos rendimentos das caixas de crédito agrícola mútuo.
+
+O Código do IRC prevê, no seu artigo 45.º, que a chamada «dupla tributação económica» possa ser eliminada relativamente aos lucros atribuídos a participações quando estas ultrapassem certa percentagem (25%) e sejam detidas com características de estabilidade (isto é, por um prazo mínimo de dois anos consecutivos).
+
+Dadas as particularidades das participações detidas por bancos de investimento, sociedades de investimento e sociedades financeiras de corretagem, estas quanto aos seus rendimentos decorrentes da actividade por conta própria, permite-se que aquele regime possa ser aplicado a essas participações independentemente da percentagem de participação e do prazo.
+
+Nos termos do Código do IRC, os rendimentos dos clubes e associações desportivas directamente derivados do exercício de actividades desportivas, recreativas e culturais estão isentos. Os rendimentos que não se encontram nessas condições são tributados à taxa de 20%. Note-se que a taxa geral aplicável às entidades que exerçam a título principal uma actividade comercial, industrial ou agrícola é de 36,5%.
+
+Não obstante aquela taxa reduzida, prevê-se que os rendimentos dos pequenos clubes e associações que não sejam directamente derivados da actividade desportiva (até ao máximo de rendimento bruto total de 800 contos) fiquem também isentos de IRC. Além disso, estabelece-se, com carácter geral, que os clubes e associações desportivas fiquem isentos de contribuição autárquica relativamente aos prédios ou partes de prédios destinados directamente à realização dos seus fins.
+
+No sentido de incentivar a criação artística ou literária, prevê-se que os rendimentos auferidos por pintores, escultores ou escritores, residentes em Portugal, relativos à sua produção artística ou literária, sejam apenas englobados por 50% para efeitos de IRS.
+
+Os prédios destinados a habitação própria (a que, como é sabido, não é imputado qualquer rendimento para efeitos de IRS - contrariamente ao que acontecia em contribuição predial e imposto complementar) poderão beneficiar de um regime de isenção em contribuição autárquica por um período de dez anos se o respectivo valor tributável for igual ou inferior a 10000 contos, aplicando-se um período de isenção menor quanto aos prédios de valor superior, mas inferior a 15000 contos.
+
+Por outro lado, prevê-se a isenção total dos juros das «contas poupança-habitação» que se destinem a financiar a compra, construção ou obras em habitação própria permanente.
+
+Quanto às casas destinadas a arrendamento para habitação, as de renda condicionada ficam isentas de contribuição autárquica por um período até quinze anos, sendo aplicável às restantes, quanto a esta contribuição, um regime de isenção por um período até dez anos, tanto maior quanto menor for o respectivo valor tributável.
+
+Ficam ainda isentos de contribuição autárquica os prédios pertencentes a famílias cujo rendimento bruto total para efeitos de IRS não seja superior ao dobro do salário mínimo nacional.
+
+Os deficientes cujo grau de invalidez permanente seja igual ou superior a 60% terão um regime fiscal mais favorável, traduzido em:
+
+a) Englobamento, para efeitos de tributação em IRS, de apenas 50% dos seus rendimentos de trabalho dependente e independente;
+
+b) Abatimento na totalidade das despesas efectuadas com educação e reabilitação e, bem assim, dos prémios de seguros em que o deficiente figure como primeiro beneficiário;
+
+c) Extensão aos deficientes do regime das «contas poupança-reformados».
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 8/89, de 22 de Abril, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Aprovação e entrada em vigor
+
+1 - É aprovado o Estatuto dos Benefícios Fiscais, anexo ao presente diploma e que dele faz parte integrante.
+
+2 - O Estatuto dos Benefícios Fiscais produz efeitos desde 1 de Janeiro de 1989.
+
+###### Artigo 2.º — Regime transitório geral
+
+1 - São mantidos nos termos em que foram concedidos, com as necessárias adaptações, os benefícios fiscais cujo direito tenha sido adquirido até 31 de Dezembro de 1988 ou aqueles que, tendo sido objecto de decisão em data posterior, forem reportados a 31 de Dezembro de 1988, nos termos do n.º 5, sendo de observar o seguinte:
+
+a) Os benefícios fiscais que se traduziam em aumento de custos, designadamente aceleração de reintegrações e amortizações ou em deduções ao lucro tributável, efectivam-se em sede de IRS ou de IRC nos termos da legislação que lhes era aplicável;
+
+b) Os benefícios fiscais que se traduziam em isenções dos impostos parcelares e do imposto complementar correspondente convertem-se em isenção dos respectivos rendimentos em sede de IRS ou de IRC;
+
+c) As isenções de imposto de mais-valias convertem-se em exclusão dos respectivos ganhos para apuramento do rendimento ou lucro tributável em IRS ou em IRC;
+
+d) As isenções de contribuição predial concedidas às entidades referidas no artigo 50.º do Estatuto dos Benefícios Fiscais anteriormente à data da entrada em vigor do presente diploma são convertidas em isenções da contribuição autárquica, com as necessárias adaptações;
+
+e) Os benefícios fiscais não compreendidos nas alíneas anteriores são substituídos por benefícios fiscais equivalentes mediante a aplicação de tabelas de conversão anexas ao Estatuto dos Benefícios Fiscais e que dele fazem parte integrante.
+
+2 - Para efeitos do disposto no número anterior, são direitos adquiridos os benefícios fiscais de fonte internacional e contratual e os benefícios temporários e condicionados, sem prejuízo do disposto nos Códigos do IRS, do IRC e da CA.
+
+3 - Para efeitos do disposto no artigo 74.º do Código do IRS e dos artigos 69.º e 75.º do Código do IRC, o regime de tributação aplicável aos juros das obrigações em circulação em 31 de Dezembro de 1988 é o que lhes corresponderia em sede de imposto de capitais nos termos da legislação em vigor à data da sua emissão.
+
+4 - No quadro do regime de equivalências dos benefícios fiscais, o disposto no número anterior não prejudica a consideração dos juros aí mencionados para efeitos de determinação da matéria colectável de IRC, aplicando-se então as tabelas de conversão a que se refere a alínea e) do n.º 1.
+
+5 - Os benefícios fiscais requeridos nos serviços competentes até 31 de Dezembro de 1988, cuja decisão se encontre pendente de instrução dos respectivos processos, reger-se-ão pelas disposições ao abrigo das quais foram solicitados, devendo a decisão que sobre eles vier a recair reportar-se a 31 de Dezembro de 1988 para efeitos do disposto no n.º 1.
+
+###### Artigo 3.º — Procedimentos no regime transitório
+
+1 - Para as situações que ocorreram entre 1 de Janeiro de 1989 e a data de entrada em vigor do presente diploma deverão os interessados, no prazo de 60 dias a contar desta última data, requerer, sendo caso disso, a concessão dos benefícios estabelecidos no Estatuto aprovado por este decreto-lei.
+
+2 - No caso de os pedidos de concessão serem apresentados para além do prazo previsto no número anterior, o respectivo benefício iniciar-se-á a partir da data da apresentação do pedido, cessando, todavia, na data que lhe corresponderia caso o pedido tivesse sido apresentado dentro do referido prazo.
+
+3 - Aos imóveis adquiridos até 31 de Dezembro de 1988 ao abrigo do sistema «poupança-emigrante», para os quais não tenha sido requerida a isenção de contribuição predial, poderá esta ainda ser concedida, com efeitos a partir da data do respectivo título aquisitivo, desde que solicitada no prazo de 180 dias a contar da data da entrada em vigor do presente diploma, aplicando-se a partir de 1 de Janeiro de 1989 o disposto no artigo 3.º do Decreto-Lei n.º 442-C/88, de 30 de Novembro.
+
+###### Artigo 4.º — Obrigações emitidas em 1989
+
+As obrigações de qualquer tipo, que não sejam de dívida pública, e os títulos de participação e certificados de consignação que venham a ser emitidos durante o ano de 1989 beneficiam da redução de 20% do respectivo rendimento para efeitos de IRS ou de IRC.
+
+###### Artigo 5.º — Obrigações - Imposto sobre as sucessões e doações por avença
+
+Ficam isentas de imposto sobre as sucessões e doações por avença as obrigações emitidas durante os anos de 1999 até ao final do ano 2002.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, Suplemento n.º 2, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 92-A/95 - Diário da República n.º 298/1995, Suplemento n.º 1, Série I-A de 1995-12-28](https://diariodarepublica.pt/dr/detalhe/lei/92-a-1995-621765), em vigor a partir de 1996-01-02
+
+> Alterado pelo/a Artigo 31.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, Suplemento n.º 1, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+###### Artigo 6.º — Crédito fiscal por investimento nos casos de falta ou insuficiência de colecta
+
+1 - O desconto correspondente ao crédito fiscal por investimento (CFI) estabelecido nos Decretos-Leis n.os 197-C/86, de 18 de Julho, e 161/87, de 6 de Abril, que, por falta ou insuficiência de colecta da contribuição industrial ou do imposto sobre a indústria agrícola, não tiver sido efectuado, poderá sê-lo, nos termos previstos naqueles diplomas, à colecta do IRS, de acordo com o disposto nos números seguintes, depois de efectuadas as deduções previstas nos n.os 1, 2 e 3 do artigo 80.º do respectivo Código, não podendo da dedução resultar valor negativo.
+
+2 - Para efeitos do disposto no número anterior, a colecta do IRS em que se efectua a dedução será a que resultar da aplicação do coeficiente determinado pela relação entre os rendimentos líquidos das categorias C e ou D e o rendimento líquido total.
+
+3 - A dedução do CFI a que se referem os números anteriores deverá efectuar-se nas condições temporais definidas no n.º 3 do artigo 4.º do Decreto-Lei n.º 197-C/86, de 18 de Julho.
+
+4 - O disposto no artigo 19.º do Decreto-Lei n.º 442-B/88, de 30 de Novembro, é igualmente aplicável ao CFI que não tiver sido efectuado por falta ou insuficiência da colecta do imposto sobre a indústria agrícola.
+
+###### Artigo 7.º — Crédito fiscal por investimento - investimento concluído em 1988 ou iniciado até 31 de Dezembro de 1988 e concluído em 1989
+
+1 - Poderão ser deduzidos, nos termos previstos nos Decretos-Leis n.os 197-C/86, de 18 de Julho, e 161/87, de 6 de Abril, nas colectas do IRS ou do IRC relativas ao período da entrada em funcionamento dos bens, 4% do valor do investimento, contemplado naquela legislação, concluído em 1988 ou iniciado até 31 de Dezembro de 1988 e concluído em 1989.
+
+2 - Para efeitos da aplicação do disposto no número anterior, a data da conclusão do investimento será referenciada à data em que esta ocorrer.
+
+3 - Para efeitos da dedução prevista no n.º 1, aplicar-se-á, com as necessárias adaptações, o disposto no artigo 19.º do Decreto-Lei n.º 442-B/88, de 30 de Novembro, e no artigo 6.º do presente diploma.
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 8.º — Crédito fiscal por investimento - investimento iniciado até 31 de Dezembro de 1988 e em curso em 31 de Dezembro de 1989
+
+1 - Poderão ainda ser deduzidos, nos termos previstos nos Decretos-Leis n.os 197-C/86, de 18 de Julho, e 161/87, de 6 de Abril, nas colectas do IRS ou do IRC relativas ao período da entrada em funcionamento dos bens, 4% do valor das imobilizações em curso em 31 de Dezembro de 1989, relativas a investimentos iniciados até 31 de Dezembro de 1988 e susceptíveis de beneficiarem do disposto naquela legislação.
+
+2 - Para efeitos da dedução prevista no número anterior, aplicar-se-á, com as necessárias adaptações, o disposto no artigo 19.º do Decreto-Lei n.º 442-B/88, de 30 de Novembro, e no artigo 6.º do presente diploma.
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 9.º — Retenção na fonte em casos de isenção total ou parcial
+
+1 - Quando os sujeitos passivos de IRS ou de IRC beneficiem de isenção total ou parcial relativa a rendimentos que seriam sujeitos a retenção na fonte, esta não se efectuará, no todo ou em parte, consoante os casos, feita que seja a prova pelos sujeitos passivos, perante a entidade pagadora, da isenção de que aproveitam.
+
+2 - Quando se trate de isenção parcial de rendimentos das categorias A ou B, definidas no artigo 1.º do Código do IRS, as retenções na fonte, por conta do respectivo imposto, serão calculadas considerando apenas a parte dos rendimentos que não beneficie de isenção.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 10.º — Dispensa de retenção na fonte e retenção a título definitivo
+
+1 - Não existe a obrigação de efectuar a retenção na fonte de IRC, quando este tenha natureza de imposto por conta, no caso de juros ou quaisquer outros rendimentos de capitais de que sejam titulares instituições financeiras sujeitas, em relação aos mesmos, a IRC.
+
+2 - Quando, nos termos dos artigos 8.º e 9.º do Código do IRC, ou nos casos previstos no Estatuto dos Benefícios Fiscais, se excluam da isenção de IRC todos ou parte dos rendimentos de capitais, a retenção na fonte far-se-á a título definitivo segundo as taxas que lhes correspondam.
+
+3 - Exceptuam-se do disposto no número anterior as entidades referidas no artigo 8.º do Código do IRC que realizem operações de financiamento a empresas com recurso a fundos obtidos de empréstimo, com essa finalidade específica, junto de instituições de crédito, caso em que os rendimentos se encontram sujeitos a tributação, com dispensa de retenção na fonte de IRC, pela diferença, verificada em cada exercício, entre os juros e outros rendimentos de capitais de que sejam titulares relativamente a essas operações e os juros devidos a essas instituições, sendo o imposto liquidado na declaração periódica de rendimentos.
+
+4 - Exceptua-se ainda do disposto no n.º 2 o Estado, actuando através da Direcção-Geral do Tesouro, relativamente aos rendimentos de capitais provenientes das aplicações financeiras que realize, caso em que estes rendimentos se encontram sujeitos a tributação, autonomamente, com dispensa de retenção na fonte de IRC, pela diferença, verificada em cada exercício, entre aqueles rendimentos de capitais e os juros devidos pela remuneração de contas no âmbito da prestação de serviços equiparados aos da actividade bancária, ao abrigo do artigo 2.º do Regime de Tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de Junho, sendo o imposto entregue até 15 de Janeiro do ano seguinte, sem prejuízo da tributação destes últimos por retenção na fonte nos termos gerais.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, Suplemento n.º 2, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+###### Artigo 11.º — Alterações ao Código do IRS
+
+1 - Os artigos 2.º e 21.º do Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, passam a ter a seguinte redacção:
+
+Artigo 2.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) Os benefícios ou regalias auferidos pela prestação ou em razão da prestação do trabalho dependente, com excepção dos abonos de família e das respectivas prestações complementares, na parte em que não excedam os limites legais estabelecidos, bem como dos subsídios de refeição até à concorrência do respectivo limite legal acrescido de 50%;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+Artigo 21.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - Sempre que a lei imponha o englobamento de rendimentos isentos, observar-se-á o seguinte:
+
+a) Os rendimentos isentos serão considerados, sem deduções, para efeitos do disposto no artigo 72.º, sendo caso disso, e para determinação das taxas a aplicar ao restante rendimento colectável;
+
+b) Para efeitos da alínea anterior, quando seja de aplicar o disposto no artigo 72.º, o quociente da divisão por 2 ou por 1,85, consoante os casos, dos rendimentos isentos será imputado proporcionalmente à fracção de rendimento a que corresponde a taxa média e a taxa normal.
+
+2 - As alterações introduzidas pelo número anterior produzem efeitos desde 1 de Janeiro de 1989.
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 12.º — Alterações ao Código do IRC
+
+Os artigos 2.º e 8.º do Código do IRC, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, passam a ter a seguinte redacção:
+
+Artigo 2.º
+
+[...]
+
+1 - ...
+
+2 - Consideram-se incluídas na alínea b) do n.º 1, designadamente, as heranças jacentes, as pessoas colectivas em relação às quais seja declarada a invalidade, as associações e sociedades civis sem personalidade jurídica e as sociedades comerciais ou civis sob forma comercial, anteriormente ao registo definitivo.
+
+3 - Para efeitos deste Código, consideram-se residentes as pessoas colectivas e outras entidades que tenham a sede ou a direcção efectiva em território português.
+
+Artigo 8.º
+
+Estado, regiões autónomas, autarquias locais, associações de municípios e instituições de segurança social
+
+Estão isentos de IRC, excepto no que respeita a rendimentos de capitais tal como são definidos para efeitos de IRS:
+
+1) O Estado, as regiões autónomas e as autarquias locais e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos e, bem assim, as associações e federações de municípios que não exerçam actividades comerciais, industriais ou agrícolas;
+
+2) As instituições de segurança social e, bem assim, as instituições de previdência referidas no artigo 79.º da Lei n.º 28/84, de 14 de Agosto.
+
+###### Artigo 13.º — Regulamentação do Estatuto
+
+O Governo aprovará as normas regulamentares necessárias à aplicação do Estatuto dos Benefícios Fiscais.
+
+Visto e aprovado em Conselho de Ministros, 27 de Abril de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+Promulgado em 21 de Junho de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 23 de Junho de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo — ESTATUTO DOS BENEFÍCIOS FISCAIS
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+## Parte I — Princípios gerais
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 1.º — Âmbito de aplicação
+
+As disposições da parte I do presente Estatuto aplicam-se aos benefícios fiscais nele previstos, sendo extensivas aos restantes benefícios fiscais, com as necessárias adaptações, sendo caso disso.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 2.º — Conceito de benefício fiscal e de despesa fiscal e respectivo controlo
+
+1 - Consideram-se benefícios fiscais as medidas de carácter excepcional instituídas para tutela de interesses públicos extrafiscais relevantes que sejam superiores aos da própria tributação que impedem.
+
+2 - São benefícios fiscais as isenções, as reduções de taxas, as deduções à matéria colectável e à colecta, as amortizações e reintegrações aceleradas e outras medidas fiscais que obedeçam às características enunciadas no número anterior.
+
+3 - Os benefícios fiscais são considerados despesas fiscais, as quais podem ser previstas no Orçamento do Estado ou em documento anexo e, sendo caso disso, nos orçamentos das Regiões Autónomas e das autarquias locais.
+
+4 - Para efeitos de controlo da despesa fiscal inerente aos benefícios fiscais concedidos, pode ser exigida aos interessados a declaração dos rendimentos isentos auferidos, salvo tratando-se de benefícios fiscais genéricos e automáticos, casos em que podem os serviços fiscais obter os elementos necessários ao cálculo global do imposto que seria devido.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 3.º — Caducidade dos benefícios fiscais
+
+1 - As normas que consagram os benefícios fiscais constantes das partes ii e iii do presente Estatuto vigoram durante um período de cinco anos, salvo quando disponham em contrário.
+
+2 - São mantidos os benefícios fiscais cujo direito tenha sido adquirido durante a vigência das normas que os consagram, sem prejuízo de disposição legal em contrário.
+
+3 - O disposto no n.º 1 não se aplica aos benefícios fiscais previstos nos artigos 16.º, 17.º, 18.º, 21.º, 22.º, 22.º-A, 23.º, 24.º, 27.º, 32.º, 44.º, 60.º e 66.º-A, bem como ao capítulo v da parte ii do presente Estatuto.
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), em vigor a partir de 2023-05-18, produz efeitos a partir de 2023-07-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 21/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/lei/21-2021-161766414), em vigor a partir de 2021-04-21, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 4.º — Desagravamentos fiscais que não são benefícios fiscais
+
+1 - Não são benefícios fiscais as situações de não sujeição tributária.
+
+2 - Para efeitos do disposto no número anterior, consideram-se, genericamente, não sujeições tributárias as medidas fiscais estruturais de carácter normativo que estabeleçam delimitações negativas expressas da incidência.
+
+3 - Sempre que o julgar necessário, pode a administração fiscal exigir dos interessados os elementos necessários para o cálculo da receita que deixa de cobrar-se por efeito das situações de não sujeição tributária.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 5.º — Benefícios fiscais automáticos e dependentes de reconhecimento
+
+1 - Os benefícios fiscais são automáticos ou dependentes de reconhecimento; os primeiros resultam directa e imediatamente da lei, os segundos pressupõem um ou mais actos posteriores de reconhecimento.
+
+2 - O reconhecimento dos benefícios fiscais pode ter lugar por acto administrativo ou por acordo entre a Administração e os interessados, tendo, em ambos os casos, efeito meramente declarativo, salvo quando a lei dispuser em contrário.
+
+3 - O procedimento de reconhecimento dos benefícios fiscais regula-se pelo disposto na lei geral tributária e no Código de Procedimento e de Processo Tributário.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 6.º — Carácter genérico dos benefícios fiscais; Respeito pela livre concorrência
+
+1 - A definição dos pressupostos objectivos e subjectivos dos benefícios fiscais deve ser feita em termos genéricos, e tendo em vista a tutela de interesses públicos relevantes, só se admitindo benefícios de natureza individual por razões excepcionais, devidamente justificadas no diploma que os instituir.
+
+2 - A formulação genérica dos benefícios fiscais deve obedecer ao princípio da igualdade, de modo a não falsear ou ameaçar falsear a concorrência.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 7.º — Fiscalização
+
+1 - Todas as pessoas, singulares ou coletivas, de direito público ou de direito privado, a quem sejam concedidos benefícios fiscais, automáticos ou dependentes de reconhecimento, ficam sujeitas a fiscalização da Autoridade Tributária e Aduaneira, da Direção Regional dos Assuntos Fiscais e das demais entidades competentes, para controlo da verificação dos pressupostos dos benefícios fiscais respetivos e do cumprimento das obrigações impostas aos titulares do direito aos benefícios.
+
+2 - As entidades licenciadas para operar na Zona Franca da Madeira que beneficiem dos regimes previstos nos artigos 36.º e 36.º-A são fiscalizadas nos termos do número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 64/2015 - Diário da República n.º 126/2015, Série I de 2015-07-01](https://diariodarepublica.pt/dr/detalhe/lei/64-2015-67647961), em vigor a partir de 2015-07-06
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2002 - Diário da República n.º 252/2002, Série I-A de 2002-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2002-425931), em vigor a partir de 2002-11-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 8.º — Medidas impeditivas, suspensivas ou extintivas de benefícios fiscais
+
+As sanções impeditivas, suspensivas ou extintivas de benefícios fiscais podem ser aplicadas sempre que seja cometida uma infracção fiscal relacionada com os impostos sobre o rendimento, a despesa ou o património ou, às normas do sistema de segurança social, independentemente da sua relação com o benefício concedido.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 9.º — Declaração pelos interessados da cessação dos pressupostos dos benefícios fiscais
+
+As pessoas titulares do direito aos benefícios fiscais são obrigadas a declarar, no prazo de 30 dias, que cessou a situação de facto ou de direito em que se baseava o benefício, salvo quando essa cessação for de conhecimento oficioso.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 10.º — Interpretação e integração das lacunas da lei
+
+As normas que estabeleçam benefícios fiscais não são susceptíveis de integração analógica, mas admitem interpretação extensiva.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 11.º — Aplicação no tempo das normas sobre benefícios fiscais
+
+1 - As normas que alterem benefícios fiscais convencionais, condicionados ou temporários, não são aplicáveis aos contribuintes que já aproveitem do direito ao benefício fiscal respectivo, em tudo que os prejudique, salvo quando a lei dispuser em contrário.
+
+2 - É aplicável o disposto no número anterior quando o fundamento do benefício fiscal for um regime jurídico de direito comum que limite os direitos do contribuinte, especialmente quando restrinja os poderes de fruição ou de disposição dos seus bens, designadamente nos casos previstos no n.º 2 do artigo 15.º que revistam essa natureza.
+
+3 - O disposto nos números anteriores não prejudica o estabelecido no artigo 2.º do Decreto-Lei n.º 215/89, de 1 de Julho.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 12.º — Constituição do direito aos benefícios fiscais
+
+O direito aos benefícios fiscais deve reportar-se à data da verificação dos respectivos pressupostos, ainda que esteja dependente de reconhecimento declarativo pela administração fiscal ou de acordo entre esta e a pessoa beneficiada, salvo quando a lei dispuser de outro modo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 229/2002 - Diário da República n.º 252/2002, Série I-A de 2002-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2002-425931), em vigor a partir de 2002-11-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 13.º — Impedimento de reconhecimento do direito a benefícios fiscais
+
+1 - Os benefícios fiscais dependentes de reconhecimento não podem ser concedidos quando:
+
+a) No final do ano civil anterior ao pedido, o sujeito passivo tenha deixado de efetuar o pagamento de qualquer imposto sobre o rendimento, a despesa ou o património, e a situação se mantenha no termo do prazo para o exercício do direito de audição no âmbito do procedimento de concessão do benefício;
+
+b) O sujeito passivo tenha deixado de efetuar o pagamento de contribuições relativas ao sistema da segurança social, se, no momento em que ocorre a consulta, a situação contributiva não se encontrar regularizada.
+
+2 - Para efeitos do disposto no número anterior, tal situação só é impeditiva do reconhecimento dos benefícios fiscais se a dívida tributária em causa, sendo exigível, não tenha sido objeto de reclamação, impugnação ou oposição e prestada garantia idónea, quando devida.
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 14.º — Extinção dos benefícios fiscais
+
+1 - A extinção dos benefícios fiscais tem por consequência a reposição automática da tributação-regra.
+
+2 - Os benefícios fiscais, quando temporários, caducam pelo decurso do prazo por que foram concedidos e, quando condicionados, pela verificação dos pressupostos da respectiva condição resolutiva ou pela inobservância das obrigações impostas, imputável ao beneficiário.
+
+3 - Quando o benefício fiscal respeite a aquisição de bens destinados à directa realização dos fins dos adquirentes, fica sem efeito se aqueles forem alienados ou lhes for dado outro destino sem autorização do Ministro das Finanças, sem prejuízo das restantes sanções ou de regimes diferentes estabelecidos por lei.
+
+4 - O acto administrativo que conceda um benefício fiscal não é revogável, nem pode rescindir-se o respectivo acordo de concessão, ou ainda diminuir-se, por acto unilateral da administração tributária, os direitos adquiridos, salvo se houver inobservância imputável ao beneficiário das obrigações impostas, ou se o benefício tiver sido indevidamente concedido, caso em que aquele acto pode ser revogado.
+
+5 - No caso de benefícios fiscais permanentes ou temporários dependentes de reconhecimento da administração tributária, o acto administrativo que os concedeu cessa os seus efeitos nas seguintes situações:
+
+a) O sujeito passivo tenha deixado de efectuar o pagamento de qualquer imposto sobre o rendimento, a despesa ou o património e das contribuições relativas ao sistema da segurança social, e se mantiver a situação de incumprimento;
+
+b) A dívida tributária não tenha sido objecto de reclamação, impugnação ou oposição, com a prestação de garantia idónea, quando exigível.
+
+6 - Verificando-se as situações previstas nas alíneas a) e b) do número anterior, os benefícios automáticos não produzem os seus efeitos no ano ou período de tributação em que ocorram os seus pressupostos.
+
+7 - O disposto nos números anteriores aplica-se sempre que as situações previstas no n.º 5 ocorram:
+
+a) Relativamente aos impostos sobre o rendimento, no final do ano ou período de tributação em que se verificou o facto tributário e se mantenham no termo do prazo para o exercício do direito de audição no âmbito do procedimento de liquidação do imposto a que o benefício respeita;
+
+b) Relativamente aos impostos periódicos sobre o património, no momento em que se verificou o facto tributário e se mantenham no termo do prazo para o pagamento voluntário do imposto ou da primeira prestação, quando aplicável;
+
+c) Nos impostos de obrigação única, na data em que o facto tributário ocorreu.
+
+d) Quanto às contribuições relativas ao sistema da segurança social, se, no momento em que ocorre a consulta, a situação contributiva não se encontrar regularizada.
+
+8 - É proibida a renúncia aos benefícios fiscais automáticos e dependentes de reconhecimento oficioso, sendo, porém, permitida aos benefícios fiscais dependentes de requerimento do interessado, bem como aos constantes de acordo, desde que aceite pela administração tributária.
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 82.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 433/99 - Diário da República n.º 250/1999, Série I-A de 1999-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), em vigor a partir de 2000-01-01
+
+###### Artigo 15.º — Transmissão dos benefícios fiscais
+
+1 - O direito aos benefícios fiscais, sem prejuízo do disposto nos números seguintes, é intransmissível inter vivos, sendo, porém, transmissível mortis causa se se verificarem no transmissário os pressupostos do benefício, salvo se este for de natureza estritamente pessoal.
+
+2 - É transmissível inter vivos o direito aos benefícios fiscais objectivos que sejam indissociáveis do regime jurídico aplicável a certos bens, designadamente os que beneficiem os rendimentos de obrigações, títulos de dívida pública e os prédios sujeitos ao regime de renda limitada.
+
+3 - É igualmente transmissível inter vivos, mediante autorização do Ministro das Finanças, o direito aos benefícios fiscais concedidos, por acto ou contrato fiscal, a pessoas singulares ou colectivas, desde que no transmissário se verifiquem os pressupostos do benefício e fique assegurada a tutela dos interesses públicos com ele prosseguidos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 15.º-A — Divulgação da despesa fiscal
+
+1 - O Governo elabora anualmente um relatório quantitativo da despesa fiscal, entendida como toda a despesa decorrente das disposições legais e regulamentares ou práticas que configurem uma redução ou um diferimento do imposto devido por um grupo específico de sujeitos passivos em relação ao regime normal de tributação, nomeadamente benefícios fiscais, que inclua uma análise com a identificação e avaliação discriminada dos custos e resultados efetivamente obtidos face aos objetivos inerentes à sua criação ou atribuição.
+
+2 - O relatório a que se refere o número anterior é remetido à Assembleia da República durante o primeiro semestre do ano subsequente àquele a que respeita.
+
+3 - A Autoridade Tributária e Aduaneira divulga, até ao fim do mês de setembro de cada ano, os sujeitos passivos de IRC que utilizaram benefícios fiscais, individualizando o tipo e o montante do benefício utilizado.
+
+> Alterado pelo/a Artigo 91.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10
+
+> Aditado pelo/a Artigo 120.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+## Parte II — Benefícios fiscais com carácter estrutural
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 293/91 - Diário da República n.º 185/1991, Série I-A de 1991-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1991-676040), em vigor a partir de 1991-08-18
+
+### Capítulo I — Benefícios fiscais de natureza social
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 16.º — Fundos de pensões e equiparáveis
+
+1 - São isentos de IRC os rendimentos dos fundos de pensões e equiparáveis, que se constituam e operem de acordo com a legislação nacional.
+
+2 - São isentos de imposto municipal sobre as transmissões onerosas de imóveis os fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional.
+
+3 - Às contribuições individuais dos participantes e aos reembolsos pagos por fundos de pensões e outros regimes complementares de segurança social, incluindo os disponibilizados por associações mutualistas, que garantam exclusivamente o benefício de reforma, complemento de reforma, invalidez ou sobrevivência, incapacidade para o trabalho, desemprego e doença grave são aplicáveis as regras previstas no artigo 21.º, com as necessárias adaptações.
+
+4 - Em caso de inobservância dos requisitos estabelecidos no n.º 1, a fruição do benefício aí previsto fica, no respectivo exercício, sem efeito, sendo as sociedades gestoras dos fundos de pensões e equiparáveis, incluindo as associações mutualistas, responsáveis originariamente pelas dívidas de imposto dos fundos ou patrimónios cuja gestão lhes caiba, devendo efectuar o pagamento do imposto em dívida no prazo previsto no n.º 1 do artigo 120.º do Código do IRC.
+
+5 - Os benefícios fiscais previstos no n.º 3 deste artigo e no n.º 2 do artigo 21.º são cumuláveis, não podendo, no seu conjunto, exceder os limites fixados no n.º 2 do artigo 21.º
+
+6 - As contribuições para fundos de pensões e outros regimes complementares de segurança social referidas no n.º 3, incluindo os disponibilizados por associações mutualistas, são dedutíveis à colecta do IRS, nos termos aí estabelecidos, desde que:
+
+a) Quando pagas e suportadas por terceiros, tenham sido, comprovadamente, tributadas como rendimentos do sujeito passivo;
+
+b) Quando pagas e suportadas pelo sujeito passivo, não constituam encargos inerentes à obtenção de rendimentos da categoria B.
+
+7 - São isentos de IRC os rendimentos dos fundos de pensões que se constituam, operem de acordo com a legislação e estejam estabelecidos noutro Estado membro da União Europeia ou do espaço económico europeu, neste último caso desde que esse Estado membro esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia, não imputáveis a estabelecimento estável situado em território português, desde que se verifiquem cumulativamente os seguintes requisitos:
+
+a) Garantam exclusivamente o pagamento de prestações de reforma por velhice ou invalidez, sobrevivência, pré-reforma ou reforma antecipada, benefícios de saúde pós-emprego e, quando complementares e acessórios destas prestações, a atribuição de subsídios por morte;
+
+b) Sejam geridos por instituições de realização de planos de pensões profissionais às quais seja aplicável a Directiva n.º 2003/41/CE, do Parlamento Europeu e do Conselho, de 3 de Junho;
+
+c) O fundo de pensões seja o beneficiário efectivo dos rendimentos;
+
+d) Tratando-se de lucros distribuídos, as correspondentes partes sociais sejam detidas, de modo ininterrupto, há pelo menos um ano.
+
+8 - Sem prejuízo do disposto no artigo 98.º do Código do IRC, para que seja imediatamente aplicável o disposto no número anterior, deve ser feita prova perante a entidade que se encontra obrigada a efectuar a retenção na fonte, anteriormente à data de colocação à disposição dos rendimentos, da verificação dos requisitos previstos nas alíneas a), b) e c) mediante declaração confirmada e autenticada pelas autoridades do Estado membro da União Europeia ou do espaço económico europeu a quem compete a respectiva supervisão.
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 292/2009 - Diário da República n.º 198/2009, Série I de 2009-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2009-491734), em vigor a partir de 2009-10-18, produz efeitos a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 87.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 17.º — Regime público de capitalização
+
+1 - São dedutíveis à coleta de IRS, nos termos e condições previstos no artigo 78.º do respetivo Código, 20 % dos valores aplicados, por sujeito passivo não casado, ou por cada um dos cônjuges não separados judicialmente de pessoas e bens, em contas individuais geridas em regime público de capitalização, tendo como limite máximo:
+
+a) (euro) 400 por sujeito passivo com idade inferior a 35 anos;
+
+b) (euro) 350 por sujeito passivo com idade superior a 35 anos.
+
+2 - Às importâncias pagas, sob a forma de renda vitalícia ou resgate de capital acumulado, no âmbito do regime público de capitalização é aplicável o regime previsto nos n.os 3 a 5 do artigo 21.º
+
+3 - Os benefícios previstos no presente artigo são aplicáveis às entregas efetuadas pelas entidades empregadoras em nome e a favor dos seus trabalhadores.
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 82.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 433/99 - Diário da República n.º 250/1999, Série I-A de 1999-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), em vigor a partir de 2000-01-01
+
+###### Artigo 18.º — Contribuições das entidades patronais para regimes de segurança social
+
+1 - São isentos de IRS, no ano em que as correspondentes importâncias são despendidas, os rendimentos a que se refere a subalínea i) do n.º 3) da alínea b) do n.º 3 do artigo 2.º do Código do IRS, quando respeitem a contratos que garantam exclusivamente o benefício de reforma, complemento de reforma, invalidez ou sobrevivência, desde que sejam observadas, cumulativamente, as condições previstas nas alíneas a), b), d), e) e f) do n.º 4 do artigo 43.º do Código do IRC, na parte em que não excedam os limites previstos nos n.os 2 e 3 do mesmo artigo, e sem prejuízo do disposto nos seus n.os 5 e 6.
+
+2 - A inobservância de qualquer das condições previstas no número anterior determina:
+
+a) Para o trabalhador ou trabalhadores beneficiados pelo incumprimento, a perda da isenção e o englobamento como rendimento da categoria A de IRS, no ano em que ocorrer o facto extintivo, da totalidade das importâncias que beneficiaram da isenção, acrescidas de 10 %, por cada ano ou fracção, decorrido desde a data em que as respectivas contribuições tiverem sido efectuadas;
+
+b) Para a empresa, a tributação autónoma, à taxa de 40 %, no exercício do incumprimento das contribuições que nesse exercício, bem como nos dois exercícios anteriores, beneficiaram do regime de isenção previsto no n.º 1.
+
+3 - Verificando-se o disposto na subalínea ii) do n.º 3) da alínea b) do n.º 3 do artigo 2.º do Código do IRS, beneficia de isenção o montante correspondente a um terço das importâncias pagas ou colocadas à disposição com o limite de (euro) 11 704,70.
+
+4 - A isenção a que se refere o número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS, bem como a determinação da taxa aplicável ao restante rendimento colectável.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 71/93 - Diário da República n.º 277/1993, Suplemento n.º 1, Série I-A de 1993-11-26](https://diariodarepublica.pt/dr/detalhe/lei/71-1993-593710), em vigor a partir de 1993-12-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 6/93 - Diário da República n.º 7/1993, Série I-A de 1993-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1993-283563), em vigor a partir de 1993-01-01
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, Suplemento n.º 1, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 187/92 - Diário da República n.º 195/1992, Série I-A de 1992-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1992-260592), em vigor a partir de 1992-08-30
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 360/91 - Diário da República n.º 224/1991, Série I-A de 1991-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1991-292879), em vigor a partir de 1991-10-03
+
+###### Artigo 19.º — Criação de emprego
+
+1 - Para a determinação do lucro tributável dos sujeitos passivos de IRC e dos sujeitos passivos de IRS com contabilidade organizada, os encargos correspondentes à criação líquida de postos de trabalho para jovens e para desempregados de longa duração, admitidos por contrato de trabalho por tempo indeterminado, são considerados em 150 % do respectivo montante, contabilizado como custo do exercício.
+
+2 - Para efeitos do disposto no número anterior, consideram-se:
+
+a) 'Jovens' os trabalhadores com idade superior a 16 e inferior a 35 anos, inclusive, aferida na data da celebração do contrato de trabalho, com excepção dos jovens com menos de 23 anos, que não tenham concluído o ensino secundário, e que não estejam a frequentar uma oferta de educação-formação que permita elevar o nível de escolaridade ou qualificação profissional para assegurar a conclusão desse nível de ensino;
+
+b) 'Desempregados de longa duração' os trabalhadores disponíveis para o trabalho, nos termos do Decreto-Lei n.º 220/2006, de 3 de Novembro, que se encontrem desempregados e inscritos nos centros de emprego há mais de 9 meses, sem prejuízo de terem sido celebrados, durante esse período, contratos a termo por período inferior a 6 meses, cuja duração conjunta não ultrapasse os 12 meses;
+
+c) «Encargos» os montantes suportados pela entidade empregadora com o trabalhador, a título da remuneração fixa e das contribuições para a segurança social a cargo da mesma entidade;
+
+d) «Criação líquida de postos de trabalho» a diferença positiva, num dado exercício económico, entre o número de contratações elegíveis nos termos do n.º 1 e o número de saídas de trabalhadores que, à data da respectiva admissão, se encontravam nas mesmas condições.
+
+3 - O montante máximo da majoração anual, por posto de trabalho, é o correspondente a 14 vezes a retribuição mínima mensal garantida.
+
+4 - Para efeitos da determinação da criação líquida de postos de trabalho, não são considerados os trabalhadores que integrem o agregado familiar da respectiva entidade patronal.
+
+5 - A majoração referida no n.º 1 aplica-se durante um período de cinco anos a contar do início da vigência do contrato de trabalho, não sendo cumulável, quer com outros benefícios fiscais da mesma natureza, quer com outros incentivos de apoio ao emprego previstos noutros diplomas, quando aplicáveis ao mesmo trabalhador ou posto de trabalho.
+
+6 - O regime previsto no n.º 1 só pode ser concedido uma única vez por trabalhador admitido nessa entidade ou noutra entidade com a qual existam relações especiais nos termos do artigo 63.º do Código do IRC.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 119.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 367/97 - Diário da República n.º 295/1997, Série I-A de 1997-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1997-419394), em vigor a partir de 1997-12-28
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 5-E/97 - Diário da República n.º 50/1997, Suplemento n.º 2, Série I-A de 1997-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-e-1997-574705), em vigor a partir de 1997-02-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/97 - Diário da República n.º 19/1997, Série I-A de 1997-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1997-581227), em vigor a partir de 1997-01-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 37/96 - Diário da República n.º 105/1996, Série I-A de 1996-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1996-469192), em vigor a partir de 1996-05-11
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, Suplemento n.º 1, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1994-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 187/92 - Diário da República n.º 195/1992, Série I-A de 1992-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1992-260592), em vigor a partir de 1992-08-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 293/91 - Diário da República n.º 185/1991, Série I-A de 1991-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1991-676040), em vigor a partir de 1991-08-18
+
+> Alterado pelo/a Artigo Único do/a [Lei n.º 4/90 - Diário da República n.º 41/1990, Série I de 1990-02-17](https://diariodarepublica.pt/dr/detalhe/lei/4-1990-332881), em vigor a partir de 1990-02-22
+
+###### Artigo 19.º-A — Deduções no âmbito de parcerias de títulos de impacto social
+
+1 - São considerados gastos e perdas do período de tributação, em valor correspondente a 130 % do respetivo total e até ao limite de 8/1000 do volume de vendas ou de serviços prestados, os fluxos financeiros prestados por investidores sociais, reconhecidos por estes como gastos, no âmbito de parcerias de títulos de impacto social.
+
+2 - Os títulos de impacto social devem ser entendidos na aceção prevista na Resolução do Conselho de Ministros n.º 73-A/2014, de 16 de dezembro, alterada e republicada pela Resolução do Conselho de Ministros n.º 157/2017, de 19 de outubro.
+
+3 - Constituem investidores sociais as entidade privadas, públicas ou da economia social, com objetivos filantrópicos ou comerciais, que contribuem com recursos financeiros para o desenvolvimento de uma iniciativa de inovação e empreendedorismo social, com o objetivo de obtenção de impacto social.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10
+
+> Aditado pelo/a Artigo 264.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+###### Artigo 19.º-B — Incentivo fiscal à valorização salarial
+
+1 - Para a determinação do lucro tributável dos sujeitos passivos do IRC e dos sujeitos passivos do IRS com contabilidade organizada, os encargos correspondentes aos aumentos salariais relativos a trabalhadores com contrato de trabalho por tempo indeterminado são considerados em 200 % do respetivo montante, contabilizado como custo do exercício, quando:
+
+a) O aumento da retribuição base anual média na empresa, por referência ao final do ano anterior, seja, no mínimo, de 4,6 %; e
+
+b) O aumento da retribuição base anual dos trabalhadores que aufiram um valor inferior ou igual à retribuição base média anual da empresa no final do ano anterior seja, no mínimo, de 4,6 %.
+
+2 - (Revogado).
+
+3 - Apenas são considerados os encargos relativos a trabalhadores abrangidos por instrumento de regulamentação coletiva de trabalho celebrado ou atualizado há menos de três anos.
+
+4 - Para efeitos do disposto nos números anteriores, consideram-se:
+
+a) ‘Encargos’, os montantes suportados pela entidade empregadora com o trabalhador, a título de retribuição base e das contribuições para a segurança social a cargo da mesma entidade;
+
+b) ‘Instrumento de regulamentação coletiva de trabalho’, os definidos no artigo 2.º do Código do Trabalho;
+
+c) (Revogada.)
+
+d) 'Aumento salarial', aumento ocorrido entre o último dia do período de tributação do exercício e o último dia do período de tributação do exercício anterior;
+
+e) ‘Retribuição base’, a correspondente à aceção do artigo 258.º do Código do Trabalho;
+
+f) 'Remuneração mínima mensal garantida', o valor da remuneração mínima mensal vigente no último dia do período de tributação.
+
+5 - O montante máximo anual dos encargos majoráveis, por trabalhador, é o correspondente a cinco vezes a retribuição mínima mensal garantida, não sendo considerados os encargos que resultem da atualização desse valor.
+
+6 - Para efeitos do disposto no n.º 1, não são considerados:
+
+a) Os trabalhadores que integrem o agregado familiar da entidade patronal;
+
+b) (Revogada.)
+
+c) Os trabalhadores que detenham, direta ou indiretamente, uma participação não inferior a 50 % do capital social ou dos direitos de voto do sujeito passivo de IRC, bem como os membros do respetivo agregado familiar.
+
+> Nota: [Artigo 3.º, Lei n.º 65/2025 - Diário da República n.º 216/2025, Série I de 2025-11-07](https://diariodarepublica.pt/dr/detalhe/lei/65-2025-944874409) A alteração introduzida ao presente artigo pela Lei n.º 65/2025, de 7 de novembro, aplica-se aos períodos de tributação que se iniciem em ou após 1 de janeiro de 2025.
+
+> Nota: [Artigo 282.º, Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192) O presente artigo cessa a sua vigência em 31 de dezembro de 2026.
+
+> Alterado pelo/a Artigo 73.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 65/2025 - Diário da República n.º 216/2025, Série I de 2025-11-07](https://diariodarepublica.pt/dr/detalhe/lei/65-2025-944874409), em vigor a partir de 2025-11-12
+
+> Alterado pelo/a Artigo 91.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Aditado pelo/a Artigo 251.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+### Capítulo II — Benefícios fiscais à poupança
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 20.º — Conta poupança-reformados
+
+1 - Beneficiam de isenção de IRS os juros das contas poupança-reformados, constituídas nos termos legais, na parte cujo saldo não ultrapasse (euro) 10 500.
+
+2 - O benefício fiscal previsto no número anterior apenas pode ser utilizado por sujeito passivo relativamente a uma única conta de que seja titular.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 75.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 31.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, Suplemento n.º 1, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 293/91 - Diário da República n.º 185/1991, Série I-A de 1991-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1991-676040), em vigor a partir de 1991-08-18
+
+###### Artigo 20.º-A — Incentivo à poupança de longo prazo
+
+1 - Os rendimentos obtidos por sujeitos passivos de IRS e derivados da remuneração de depósitos ou de quaisquer aplicações em instituições financeiras ou de títulos de dívida pública podem beneficiar do regime previsto no n.º 3 do artigo 5.º do Código do IRS, desde que tenha sido contratualmente fixado que:
+
+a) O capital investido deve ficar imobilizado por um período mínimo de cinco anos; e
+
+b) O vencimento da remuneração ocorra no final do período contratualizado.
+
+2 - A fruição do benefício previsto no número anterior fica sem efeito caso o reembolso do capital investido ocorra em violação das condições aí previstas.
+
+> Aditado pelo/a Artigo 6.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+###### Artigo 21.º — Produtos individuais de reforma
+
+1 - Ficam isentos de IRC os rendimentos dos fundos de poupança-reforma, poupança-educação e poupança-reforma/educação, que se constituam e operem nos termos da legislação nacional.
+
+2 - São dedutíveis à colecta do IRS, nos termos e condições previstos no artigo 78.º do respectivo Código, 20 % dos valores aplicados no respectivo ano por sujeito passivo não casado, ou por cada um dos cônjuges não separados judicialmente de pessoas e bens, em planos de poupança-reforma, tendo como limite máximo:
+
+a) (euro) 400 por sujeito passivo com idade inferior a 35 anos;
+
+b) (euro) 350 por sujeito passivo com idade compreendida entre os 35 e os 50 anos;
+
+c) (euro) 300 por sujeito passivo com idade superior a 50 anos.
+
+3 - As importâncias pagas pelos fundos de poupança-reforma, mesmo nos casos de reembolso por morte do participante, ficam sujeitas a tributação nos seguintes termos:
+
+a) De acordo com as regras aplicáveis aos rendimentos da categoria H de IRS, incluindo as relativas a retenções na fonte, quando a sua perceção ocorra sob a forma de prestações regulares e periódicas não referidas na alínea b);
+
+b) De acordo com as regras aplicáveis aos rendimentos da categoria E de IRS, incluindo as relativas a retenções na fonte, em caso de reembolso total ou parcial, incluindo os que sejam efetuados com natureza prestacional, durante um período não superior a dez anos, devendo, todavia, observar-se o seguinte:
+
+1) A matéria colectável é constituída por dois quintos do rendimento;
+
+2) A tributação é autónoma, sendo efectuada à taxa de 20 %;
+
+c) De acordo com as regras estabelecidas nas alíneas anteriores, nos casos em que se verifiquem, simultaneamente, as modalidades nelas referidas.
+
+4 - A fruição do benefício previsto no n.º 2 fica sem efeito, devendo as importâncias deduzidas, majoradas em 10 %, por cada ano ou fracção, decorrido desde aquele em que foi exercido o direito à dedução, ser acrescidas à colecta do IRS do ano da verificação dos factos, se aos participantes for atribuído qualquer rendimento ou for concedido o reembolso dos certificados, salvo em caso de morte do subscritor ou quando tenham decorrido, pelo menos, cinco anos a contar da respectiva entrega e ocorra qualquer uma das situações definidas na lei.
+
+5 - A fruição do benefício previsto no n.º 3 fica sem efeito quando o reembolso dos certificados ocorrer fora de qualquer uma das situações definidas na lei, devendo o rendimento ser tributado, autonomamente, à taxa de 21,5 %, de acordo com as regras aplicáveis aos rendimentos da categoria E de IRS, incluindo as relativas a retenções na fonte, sem prejuízo da eventual aplicação das alíneas a) e b) do n.º 3 do artigo 5.º do Código do IRS, quando o montante das entregas pagas na primeira metade de vigência do plano representar, pelo menos, 35 % da totalidade daquelas.
+
+6 - Em caso de inobservância do estabelecido no n.º 1, a fruição do benefício fica, no respectivo exercício, sem efeito, devendo a sociedade gestora pagar o imposto em dívida no prazo previsto no n.º 1 do artigo 112.º do Código do IRC.
+
+7 - As sociedades gestoras dos fundos de poupança-reforma são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
+
+8 - Os benefícios previstos nos n.os 2 e 3 são aplicáveis às entregas efectuadas pelas entidades empregadoras em nome e a favor dos seus trabalhadores.
+
+9 - Para efeitos do n.º 2, considera-se a idade do sujeito passivo à data de 1 de Janeiro do ano em que efectue a aplicação.
+
+10 - Não são dedutíveis à colecta do IRS, nos termos do n.º 2, os valores aplicados pelos sujeitos passivos após a data da passagem à reforma.
+
+11 - O regime previsto nos números anteriores é igualmente aplicável aos produtos individuais de reforma pan-europeus, que se constituam e operem nos termos da legislação nacional ou que, não estando estabelecidos em território português, sejam domiciliados noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 31/2024 - Diário da República n.º 124/2024, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/lei/31-2024-870265813), em vigor a partir de 2024-06-29
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 119.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 82.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 55.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 85/2001 - Diário da República n.º 180/2001, Série I-A de 2001-08-04](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), em vigor a partir de 2001-08-09
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 7/2001 - Diário da República n.º 60/2001, Série I-A de 2001-03-12](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-2001-389654), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, Suplemento n.º 2, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, Suplemento n.º 2, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, Suplemento n.º 2, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, Suplemento n.º 1, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25
+
+> Rectificado pelo/a [Rectificação n.º 6/92 - Diário da República n.º 166/1992, Série I-A de 1992-07-21](https://diariodarepublica.pt/dr/detalhe/rectificacao/6-1992-292306), em vigor a partir de 1992-07-21
+
+> Alterado pelo/a Artigo 37.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, Suplemento n.º 1, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 293/91 - Diário da República n.º 185/1991, Série I-A de 1991-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1991-676040), em vigor a partir de 1991-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 189/90 - Diário da República n.º 132/1990, Série I de 1990-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1990-575135), em vigor a partir de 1990-06-13
+
+### Capítulo III — Benefícios fiscais ao sistema financeiro e mercado de capitais
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 22.º — Organismos de Investimento Coletivo
+
+1 - São tributados em IRC, nos termos previstos neste artigo, os organismos de investimento coletivo que se constituam e operem de acordo com a legislação nacional.
+
+2 - O lucro tributável dos sujeitos passivos de IRC referidos no número anterior corresponde ao resultado líquido do exercício, apurado de acordo com as normas contabilísticas legalmente aplicáveis às entidades referidas no número anterior, sem prejuízo do disposto no número seguinte.
+
+3 - Para efeitos do apuramento do lucro tributável, não são considerados os rendimentos referidos nos artigos 5.º, 8.º e 10.º do Código do IRS, exceto quando tais rendimentos provenham de entidades com residência ou domicílio em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada em portaria do membro do Governo responsável pela área das finanças, os gastos ligados àqueles rendimentos ou previstos no artigo 23.º-A do Código do IRC, bem como os rendimentos, incluindo os descontos, e gastos relativos a comissões de gestão e outras comissões que revertam para as entidades referidas no n.º 1.
+
+4 - Os prejuízos fiscais apurados nos termos do disposto nos números anteriores são deduzidos aos lucros tributáveis nos termos do disposto nos n.º 1 e 2 do artigo 52.º do Código do IRC.
+
+5 - Sobre a matéria coletável correspondente ao lucro tributável deduzido dos prejuízos fiscais, tal como apurado nos termos dos números anteriores, aplica-se a taxa geral prevista no n.º 1 do artigo 87.º do Código do IRC.
+
+6 - As entidades referidas no n.º 1 estão isentas de derrama municipal e derrama estadual.
+
+7 - Às fusões, cisões ou subscrições em espécie entre as entidades referidas no n.º 1, incluindo as que não sejam dotadas de personalidade jurídica, é aplicável, com as necessárias adaptações, o disposto nos artigos 73.º, 74.º, 76.º e 78.º do Código do IRC, sendo aplicável às subscrições em espécie o regime das entradas de ativos previsto no n.º 3 do artigo 73.º do referido Código.
+
+8 - As taxas de tributação autónoma previstas no artigo 88.º do Código do IRC têm aplicação, com as necessárias adaptações, no presente regime.
+
+9 - O IRC incidente sobre os rendimentos das entidades a que se aplique o presente regime é devido por cada período de tributação, o qual coincide com o ano civil, podendo no entanto ser inferior a um ano civil:
+
+a) No ano do início da atividade, em que é constituído pelo período decorrido entre a data em que se inicia a atividade e o fim do ano civil;
+
+b) No ano da cessação da atividade, em que é constituído pelo período decorrido entre o início do ano civil e a data da cessação da atividade.
+
+10 - Não existe obrigação de efetuar a retenção na fonte de IRC relativamente aos rendimentos obtidos pelos sujeitos passivos referidos no n.º 1.
+
+11 - A liquidação de IRC é efetuada através da declaração de rendimentos a que se refere o artigo 120.º do Código do IRC, aplicando-se, com as necessárias adaptações, o disposto no artigo 89.º, no n.º 1 do artigo 90.º, no artigo 99.º e nos artigos 101.º a 103.º do referido Código.
+
+12 - O pagamento do imposto deve ser efetuado até ao último dia do prazo fixado para o envio da declaração de rendimentos, aplicando-se, com as necessárias adaptações, o disposto nos artigos 109.º a 113.º e 116.º do Código do IRC.
+
+13 - As entidades referidas no n.º 1 estão ainda sujeitas, com as necessárias adaptações, às obrigações previstas nos artigos 117.º a 123.º, 125.º e 128.º a 130.º do Código do IRC.
+
+14 - O disposto no n.º 7 aplica-se às operações aí mencionadas que envolvam entidades com sede, direção efetiva ou domicílio em território português, noutro Estado membro da União Europeia ou, ainda, no Espaço Económico Europeu, neste último caso desde que exista obrigação de cooperação administrativa no domínio do intercâmbio de informações e da assistência à cobrança equivalente à estabelecida na União Europeia.
+
+15 - As entidades gestoras de sociedades ou fundos referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto das sociedades ou fundos cuja gestão lhes caiba.
+
+16 - No caso de entidades referidas no n.º 1 divididas em compartimentos patrimoniais autónomos, as regras previstas no presente artigo são aplicáveis, com as necessárias adaptações, a cada um dos referidos compartimentos, sendo-lhes ainda aplicável o disposto no Decreto-Lei n.º 14/2013, de 28 de janeiro.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 31/2024 - Diário da República n.º 124/2024, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/lei/31-2024-870265813), em vigor a partir de 2024-06-29
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2015 - Diário da República n.º 8/2015, Série I de 2015-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2015-66145328), em vigor a partir de 2015-01-18, produz efeitos a partir de 2015-07-01
+
+> Alterado pelo/a Artigo 218.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 15/2010 - Diário da República n.º 143/2010, Série I de 2010-07-26](https://diariodarepublica.pt/dr/detalhe/lei/15-2010-334098), em vigor a partir de 2010-07-27
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 192/2005 - Diário da República n.º 213/2005, Série I-A de 2005-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2005-583434), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01, produz efeitos a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 228/2002 - Diário da República n.º 252/2002, Série I-A de 2002-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2002-425933), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 22.º-A — Rendimentos pagos por organismos de investimento coletivo aos seus participantes
+
+1 - Sem prejuízo do disposto no n.º 3, os rendimentos de unidades de participação ou participações sociais em entidades a que se aplique o regime previsto no artigo anterior, são tributados em IRS ou IRC, nos seguintes termos:
+
+a) No caso de rendimentos distribuídos a titulares residentes em território português, ou que sejam imputáveis a um estabelecimento estável situado neste território, por retenção na fonte:
+
+i) À taxa prevista no n.º 1 do artigo 71.º do Código do IRS, quando os titulares sejam sujeitos passivos de IRS, tendo a retenção na fonte caráter definitivo quando os rendimentos sejam obtidos fora do âmbito de uma atividade comercial, industrial ou agrícola;
+
+ii) À taxa prevista no n.º 4 do artigo 94.º do Código do IRC, quando os titulares sejam sujeitos passivos deste imposto, tendo a retenção na fonte a natureza de imposto por conta, exceto quando o titular beneficie de isenção de IRC que exclua os rendimentos de capitais, caso em que tem caráter definitivo;
+
+b) No caso de rendimentos decorrentes do resgate de unidades de participação ou de participações sociais auferidos por sujeitos passivos de IRS residentes em território português fora do âmbito de uma atividade comercial, industrial ou agrícola, ou que sejam imputáveis a um estabelecimento estável situado neste território, por retenção na fonte a título definitivo à taxa prevista no n.º 1 do artigo 72.º do Código do IRS, tendo em conta o disposto no n.º 5 do artigo 43.º do mesmo Código;
+
+c) No caso de rendimentos de unidades de participação ou de participações sociais em organismos de investimento imobiliário de que sejam titulares sujeitos passivos não residentes, que não possuam um estabelecimento estável em território português ao qual estes rendimentos sejam imputáveis, por retenção na fonte a título definitivo à taxa de 10 %, quando se trate de rendimentos distribuídos ou decorrentes de operações de resgate de unidades de participação ou de participações sociais, ou autonomamente à taxa de 10 %, nas restantes situações;
+
+d) No caso de rendimentos de unidades de participação ou de participações sociais em organismos de investimento mobiliário a que se aplique o regime previsto no artigo anterior, incluindo as mais-valias que resultem do respetivo resgate ou liquidação, cujos titulares sejam não residentes em território português sem estabelecimento estável aí situado ao qual estes rendimentos sejam imputáveis, os mesmos estão isentos de IRS ou de IRC;
+
+e) Nos restantes casos, nos termos previstos no Código do IRS ou no Código do IRC.
+
+2 - O disposto na subalínea i) da alínea a) e na alínea b) do número anterior não prejudica a opção pelo englobamento quando os rendimentos sejam obtidos por sujeitos passivos de IRS fora do âmbito de uma atividade comercial, industrial ou agrícola, caso em que o imposto retido tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
+
+3 - O disposto nas alíneas c) e d) do n.º 1 não é aplicável quando:
+
+a) Os titulares sejam residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças, caso em que os rendimentos são tributados:
+
+i) Por retenção na fonte a título definitivo à taxa prevista no n.º 12 do artigo 71.º do Código do IRS ou na alínea i) do n.º 4 do artigo 87.º do Código do IRC, consoante o caso, tratando-se de rendimentos distribuídos ou decorrentes do resgate de unidades de participação;
+
+ii) Nos termos da alínea e) do n.º 1, nos restantes casos.
+
+b) Os rendimentos sejam pagos ou colocados à disposição em contas abertas em nome de um ou mais titulares mas por conta de terceiros não identificados, caso em que, exceto quando seja identificado o beneficiário efetivo, os rendimentos são tributados, por retenção na fonte a título definitivo à taxa prevista no n.º 12 do artigo 71.º do Código do IRS ou na alínea h) do n.º 4 do artigo 87.º do Código do IRC, consoante o caso;
+
+c) Os titulares sejam entidades não residentes que sejam detidas, direta ou indiretamente, em mais de 25 % por entidades ou pessoas singulares residentes em território nacional, exceto quando essa entidade seja residente noutro Estado membro da União Europeia, num Estado membro do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia ou num Estado com o qual tenha sido celebrada e se encontre em vigor convenção para evitar a dupla tributação que preveja a troca de informações, caso em que os rendimentos são tributados nos termos da alínea e) do n.º 1.
+
+4 - Nas situações referidas nas alíneas c) e d) do n.º 1, os titulares dos rendimentos devem fazer prova da qualidade de não residente em território português perante a entidade que se encontra obrigada a efetuar a retenção na fonte, até ao termo do prazo estabelecido para a entrega do imposto, devendo observar-se, com as necessárias adaptações, o disposto nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de novembro.
+
+5 - Quando não seja efetuada a prova prevista no número anterior, o substituto tributário fica obrigado a entregar a totalidade do imposto que deveria ter sido deduzido nos termos das alíneas a) ou b) do n.º 1.
+
+6 - Os titulares dos rendimentos que verifiquem as condições referidas na alínea c) e d) do n.º 1, quando não tenha sido efetuada a prova nos prazos e nas condições estabelecidas, podem solicitar o reembolso total ou parcial do imposto que tenha sido retido na fonte, no prazo de dois anos contados a partir do termo do ano em que se verificou o facto gerador do imposto, mediante a apresentação de um formulário de modelo a aprovar por despacho do membro do Governo responsável pela área das finanças, que seja:
+
+a) Certificado pelas autoridades competentes do respetivo Estado de residência; ou
+
+b) Acompanhado de documento emitido pelas autoridades competentes do respetivo Estado de residência, que ateste a sua residência para efeitos fiscais no período em causa e a sujeição a imposto sobre o rendimento nesse Estado.
+
+7 - O formulário previsto no número anterior deve, quando necessário, ser acompanhado de outros elementos que permitam aferir da legitimidade do reembolso.
+
+8 - O reembolso do excesso do imposto retido na fonte deve ser efetuado no prazo de um ano contado da data da apresentação do pedido e dos elementos que constituem a prova da verificação dos pressupostos de que depende a concessão do benefício acrescendo, em caso de incumprimento desse prazo, à quantia a reembolsar, juros indemnizatórios calculados a taxa idêntica à aplicável aos juros compensatórios a favor do Estado.
+
+9 - Para efeitos da contagem do prazo referido no número anterior, considera-se que o mesmo se suspende sempre que o procedimento estiver parado por motivo imputável ao requerente.
+
+10 - No caso de rendimentos decorrentes de unidades de participação adquiridas em mercado secundário ou adquiridas a título gratuito, o adquirente deve comunicar à entidade registadora ou depositária, ou, na ausência destas, à entidade responsável pela gestão ou ao organismo de investimento coletivo sob a forma societária, a data e o valor de aquisição ou o valor que tenha sido considerado para efeitos de liquidação de imposto do selo ou que serviria de base à liquidação de imposto do selo, caso este fosse devido.
+
+11 - Em caso de incumprimento da obrigação prevista no número anterior, a retenção na fonte sobre os rendimentos decorrentes de resgate das unidades de participação é efetuada sobre o montante bruto do resgate.
+
+12 - As entidades responsáveis pela gestão do fundo ou sociedade, ou os próprios quando autogeridos, são responsáveis pelo cumprimento das obrigações declarativas que, nos termos dos artigos 119.º e 125.º do Código do IRS, impendem sobre as entidades registadoras ou depositárias de unidades de participação e de participações sociais, sempre que não existam estas últimas entidades.
+
+13 - Para efeitos da aplicação deste regime, os rendimentos de unidades de participação em fundos de investimento imobiliário e as participações sociais em sociedades de investimento imobiliário, incluindo as mais-valias que resultem da respetiva transmissão onerosa, resgate ou liquidação, são considerados rendimentos de bens imóveis.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 31/2024 - Diário da República n.º 124/2024, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/lei/31-2024-870265813), em vigor a partir de 2024-06-29
+
+> Alterado pelo/a Artigo 305.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 170.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 7/2015 - Diário da República n.º 8/2015, Série I de 2015-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2015-66145328), em vigor a partir de 2015-01-18, produz efeitos a partir de 2015-07-01
+
+###### Artigo 23.º — Organismos de investimento alternativo de capital de risco e de créditos
+
+1 - Ficam isentos de IRC os rendimentos de qualquer natureza, obtidos pelos organismos de investimento alternativo de capital de risco e de créditos, que se constituam e operem de acordo com a legislação nacional.
+
+2 - Os rendimentos respeitantes a unidades de participação ou ações dos organismos de investimento previstos no número anterior, pagos ou colocados à disposição dos respetivos titulares, quer seja por distribuição ou mediante operação de resgate, são sujeitos a retenção na fonte de IRS ou de IRC, à taxa de 10 %, exceto quando os titulares dos rendimentos sejam entidades isentas quanto aos rendimentos de capitais ou entidades não residentes sem estabelecimento estável em território português, ao qual os rendimentos sejam imputáveis, excluindo:
+
+a) As entidades que sejam residentes em países, territórios ou regiões, sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças;
+
+b) As entidades não residentes detidas, directa ou indirectamente, em mais de 25 %, por entidades residentes.
+
+3 - A retenção na fonte a que se refere o número anterior tem carácter definitivo sempre que os titulares sejam entidades não residentes sem estabelecimento estável em território português ou sujeitos passivos de IRS residentes que obtenham os rendimentos fora do âmbito de uma actividade comercial, industrial ou agrícola, podendo estes, porém, optar pelo englobamento para efeitos deste imposto, caso em que o imposto retido tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
+
+4 - A dispensa de retenção na fonte nos casos previstos no n.º 2 só se verifica quando os beneficiários dos rendimentos fizerem prova, perante a entidade pagadora, da isenção de que aproveitam ou da qualidade de não residente em território português, até à data em que deve ser efectuada a retenção na fonte, ficando, em caso de omissão da prova, o substituto tributário obrigado a entregar a totalidade do imposto que deveria ter sido deduzido nos termos da lei, sendo aplicáveis as normas gerais previstas nos competentes códigos relativas à responsabilidade pelo eventual imposto em falta.
+
+5 - A prova da qualidade de não residente em território português é feita nos termos previstos nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de Novembro.
+
+6 - Os titulares de rendimentos respeitantes a unidades de participação ou ações dos organismos de investimento previstos no n.º 1, quando englobem os rendimentos que lhes sejam distribuídos, têm direito a deduzir 50 % dos rendimentos relativos a dividendos, nos termos e condições previstos no artigo 40.º-A do Código do IRS.
+
+7 - O saldo positivo entre as mais-valias e as menos-valias resultantes da alienação de unidades de participação ou ações dos organismos de investimento previstos no n.º 1 é tributado à taxa de 10 %, quando os titulares sejam entidades não residentes a que não seja aplicável a isenção prevista no artigo 27.º deste Estatuto ou sujeitos passivos de IRS residentes em território português que obtenham os rendimentos fora do âmbito de uma atividade comercial, industrial ou agrícola e não optem pelo respetivo englobamento.
+
+8 - As obrigações previstas no artigo 119.º e no n.º 1 do artigo 125.º do Código do IRS devem ser cumpridas pelas entidades gestoras ou registadoras.
+
+9 - As sociedades gestoras dos organismos de investimento previstos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
+
+10 - O disposto no presente artigo é aplicável, com as necessárias adaptações, às sociedades de investimento mobiliário para fomento da economia previstas no Decreto-Lei n.º 77/2017, de 30 de junho, alterado pelos Decretos-Leis n.os 56/2018, de 9 de julho, 19/2019, de 28 de janeiro, e 72/2021, de 16 de agosto.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 31/2024 - Diário da República n.º 124/2024, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/lei/31-2024-870265813), em vigor a partir de 2024-06-29
+
+> Alterado pelo/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 85/2001 - Diário da República n.º 180/2001, Série I-A de 2001-08-04](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), em vigor a partir de 2001-08-09
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 24.º — Organismos de investimento coletivo em recursos florestais
+
+1 - Ficam isentos de IRC os rendimentos de qualquer natureza obtidos por fundos de investimento imobiliário ou sociedades de investimento imobiliário que se constituam e operem de acordo com a legislação nacional, desde que pelo menos 75 % dos seus ativos estejam afetos à exploração de recursos florestais e desde que a mesma esteja submetida a planos de gestão florestal, aprovados e executados de acordo com a regulamentação em vigor, ou seja objeto de certificação florestal realizada por entidade legalmente acreditada.
+
+2 - Os rendimentos de unidades de participação ou participações sociais em entidades a que se aplique o número anterior, pagos ou colocados à disposição dos respetivos titulares, quer seja por distribuição ou mediante operação de resgate ou liquidação, são sujeitos a retenção na fonte de IRS ou de IRC, à taxa de 10 %, exceto quando os titulares dos rendimentos sejam entidades isentas quanto aos rendimentos de capitais ou entidades não residentes sem estabelecimento estável em território português ao qual os rendimentos sejam imputáveis, excluindo:
+
+a) As entidades que sejam residentes em países, territórios ou regiões, sujeitos a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças;
+
+b) As entidades não residentes detidas, directa ou indirectamente, em mais de 25 % por entidades residentes.
+
+3 - A retenção na fonte a que se refere o n.º 2 tem carácter definitivo sempre que os titulares sejam entidades não residentes sem estabelecimento estável em território português ou sujeitos passivos de IRS residentes que obtenham os rendimentos fora do âmbito de uma actividade comercial, industrial ou agrícola, podendo estes, porém, optar pelo englobamento para efeitos desse imposto, caso em que o imposto retido tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
+
+4 - A dispensa de retenção na fonte nos casos previstos no n.º 2 só se verifica quando os beneficiários dos rendimentos fizerem prova, perante a entidade pagadora, da isenção de que aproveitam ou da qualidade de não residente em território português, até à data em que deve ser efectuada a retenção na fonte, ficando, em caso de omissão da prova, o substituto tributário obrigado a entregar a totalidade do imposto que deveria ter sido deduzido nos termos da lei, sendo aplicáveis as normas gerais previstas nos competentes códigos relativas à responsabilidade pelo eventual imposto em falta.
+
+5 - A prova da qualidade de não residente em território português é feita nos termos previstos nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de Novembro.
+
+6 - Os titulares de rendimentos de unidades de participação ou participações sociais em entidades a que se aplique o n.º 1, quando englobem os rendimentos que lhes sejam distribuídos, têm direito a deduzir 50 % dos rendimentos relativos a dividendos, nos termos e condições previstos no artigo 40.º-A do Código do IRS.
+
+7 - O saldo positivo entre as mais-valias e as menos-valias resultantes da alienação de unidades de participação ou participações sociais em entidades a que se aplique o n.º 1 é tributado à taxa de 10 %, quando os titulares sejam entidades não residentes a que não seja aplicável a isenção prevista no artigo 27.º ou sujeitos passivos de IRS residentes em território português que obtenham os rendimentos fora do âmbito de uma atividade comercial, industrial ou agrícola e não optem pelo respetivo englobamento.
+
+8 - Ficam isentas de imposto do selo as aquisições onerosas do direito de propriedade ou de figuras parcelares desse direito relativas a prédios rústicos destinados à exploração florestal pelas entidades a que se aplique o n.º 1.
+
+9 - As obrigações previstas no artigo 119.º e no n.º 1 do artigo 125.º do Código do IRS devem ser cumpridas pelas entidades gestoras ou registadoras ou pelas sociedades de investimento imobiliário, consoante os casos.
+
+10 - As entidades gestoras dos fundos de investimento e as sociedades de investimento imobiliário a que se aplique o n.º 1 são obrigadas a publicar o valor do rendimento distribuído, o valor do imposto retido aos titulares das unidades de participação ou participações sociais, bem como a dedução que lhes corresponder, para efeitos do disposto no n.º 6.
+
+11 - Caso os requisitos referidos no n.º 1 deixem de se verificar, cessa nessa data a aplicação do regime previsto no presente artigo, passando a aplicar-se às entidades a que se aplique o n.º 1 o regime previsto no artigo 22.º, considerando-se, para este efeito, como um período de tributação, o tempo decorrido entre a data de cessação e o final do ano civil em que esta ocorreu.
+
+12 - Cessando a aplicação do regime previsto no presente artigo nos termos do número anterior, os rendimentos de unidades de participação ou participações sociais em entidades a que se aplique o n.º 1 que sejam pagos ou colocados à disposição dos participantes após a data daquela cessação, bem como as mais-valias realizadas após essa data que resultem da transmissão onerosa, resgate ou liquidação dessas unidades de participação ou participações sociais, são tributados nos termos previstos no artigo 22.º-A.
+
+13 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
+
+14 - A isenção prevista no n.º 8 fica sem efeito caso os prédios rústicos destinados à exploração florestal sejam transmitidos, a qualquer título, nos dois anos subsequentes, não podendo concretizar-se a respetiva transmissão sem que se encontre assegurada a liquidação do imposto devido, acrescido dos respetivos juros compensatórios.
+
+15 - Quando se efetuem entradas em espécie na subscrição de unidades de participação ou participações sociais em entidades a que se aplique o n.º 1, realizadas por pessoas singulares residentes ou não residentes, não é apurado rendimento derivado da transferência dos prédios rústicos destinados à exploração florestal, sendo considerado como valor de aquisição daquelas entradas, para efeitos fiscais, o valor de aquisição desses prédios.
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 170.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2015 - Diário da República n.º 8/2015, Série I de 2015-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2015-66145328), em vigor a partir de 2015-01-18, produz efeitos a partir de 2015-07-01
+
+> Alterado pelo/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 1.º do/a Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03, em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 360/91 - Diário da República n.º 224/1991, Série I-A de 1991-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1991-292879), em vigor a partir de 1991-10-03
+
+###### Artigo 24.º-A — Organismos de investimento coletivo de apoio ao arrendamento
+
+1 - São tributados em IRS ou IRC, nos termos previstos nos números seguintes, os rendimentos auferidos por participantes ou acionistas decorrentes de unidades de participação ou participações sociais em entidades a que se aplique o regime previsto no artigo 22.º, desde que:
+a) Os organismos de investimento alternativo, previstos na alínea b) do n.º 1 do artigo 5.º do Regime da Gestão de Ativos, aprovado em anexo ao Decreto-Lei n.º 27/2023, de 28 de abril, sejam constituídos, ou sejam alterados os seus documentos constitutivos, até 31 de dezembro de 2029;
+b) Os respetivos documentos constitutivos prevejam que o seu ativo deva ser constituído em 5 % ou mais, em conformidade com o previsto no n.º 2, por direitos de propriedade ou outros direitos de conteúdo equivalente sobre imóveis que sejam objeto de contratos celebrados ao abrigo do regime simplificado de arrendamento acessível (RSAA) ou de outros diplomas que promovam o arrendamento ou subarrendamento habitacional a preços acessíveis, desde que legalmente qualificados como similares; e
+c) Os ativos do organismo de investimento alternativo, na proporção da percentagem definida nos termos da alínea anterior e atendendo ao valor de balanço relativo ao último dia do período de tributação imediatamente anterior ao dos rendimentos auferidos, e a todo o tempo a partir de um ano após a constituição do organismo de investimento alternativo ou alteração dos respetivos documentos constitutivos, sejam objeto de contratos celebrados ao abrigo do RSAA, ou de outros diplomas que promovam o arrendamento ou subarrendamento habitacional a preços acessíveis, desde que legalmente qualificados como similares.
+2 - Verificados os requisitos previstos no número anterior:
+a) Os rendimentos auferidos por participantes ou acionistas decorrentes de unidades de participação ou participações sociais, por distribuição, que respeitem a resultados do período de tributação imediatamente anterior, são tributados à taxa de 5 % na proporção correspondente aos rendimentos resultantes de contratos de arrendamento ou subarrendamento habitacional previstos na alínea b) do número anterior;
+b) O montante dos restantes rendimentos auferidos por participantes ou acionistas decorrentes de unidades de participação ou participações sociais, por distribuição ou mediante operação de resgate ou liquidação, é, para efeitos de IRS ou de IRC, igual à diferença entre o montante obtido e o montante correspondente à percentagem de exclusão a considerar de acordo com a tabela seguinte:
+
+| Ativo elegível | Exclusão de tributação |  |
+| --- | --- | --- |
+| De 5 % até 10 % | 2,5 % |  |
+| Mais de 10 % até 15 % | 5 % |  |
+| Mais de 15 % até 25 % | 7,5 % |  |
+| Mais de 25 % a 50 % | 15 % |  |
+| Mais de 50 % | 30 % |  |
+
+3 - A tudo o que não esteja previsto no número anterior é aplicável o artigo 22.º-A do EBF, com as necessárias adaptações.4 - Aos organismos de investimento alternativo que se enquadrem nos dois últimos escalões da tabela prevista na alínea b) do n.º 2 é aplicável uma redução em 25 % da taxa prevista na verba 29.2 da TGIS.
+
+> Retificado pelo/a [Declaração de Retificação n.º 26/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2026-1146287134), com efeitos a partir de 2026-05-25.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 97/2026 - Diário da República n.º 97/2026, Série I de 2026-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), em vigor a partir de 2026-05-25, com efeitos a partir de 2026-01-01.
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 31/2024 - Diário da República n.º 124/2024, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/lei/31-2024-870265813), em vigor a partir de 2024-06-29
+
+###### Artigo 25.º — Aplicações a prazo
+
+Os rendimentos de certificados de depósito e de depósitos bancários a prazo, emitidos ou constituídos por prazos superiores a cinco anos, que não sejam negociáveis, contam para efeitos de IRS pelos seguintes valores:
+
+a) 80 % do seu valor, se a data de vencimento dos rendimentos ocorrer após cinco anos e antes de oito anos a contar da data da emissão ou da constituição;
+
+b) 40 % do seu valor, se a data de vencimento dos rendimentos ocorrer após oito anos a contar da emissão ou da constituição.
+
+> Revogado pelo/a Artigo 146.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 87.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 26.º — Planos de poupança em acções
+
+1 - Ficam isentos de IRC os rendimentos de fundos de poupança em acções, que se constituam e operem de acordo com a legislação nacional.
+
+2 - A diferença, quando positiva, entre o valor devido aquando do encerramento dos planos de poupança em acções e as importâncias entregues pelo subscritor está sujeita a retenção na fonte à taxa liberatória de 21,5 %, sem prejuízo da possibilidade de englobamento, por opção do sujeito passivo, caso em que o imposto retido tem a natureza de pagamento por conta.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 65/90 - Diário da República n.º 298/1990, Suplemento n.º 3, Série I de 1990-12-28](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), em vigor a partir de 1991-01-02
+
+###### Artigo 27.º — Mais-valias realizadas por não residentes
+
+1 - Ficam isentas de IRS e de IRC as mais-valias realizadas com a transmissão onerosa de partes sociais, outros valores mobiliários, warrants autónomos emitidos por entidades residentes em território português e negociados em mercados regulamentados de bolsa e instrumentos financeiros derivados celebrados em mercados regulamentados de bolsa, por entidades ou pessoas singulares que não tenham domicílio em território português e aí não possuam estabelecimento estável ao qual as mesmas sejam imputáveis.
+
+2 - O disposto no número anterior não é aplicável:
+
+a) A entidades não residentes e sem estabelecimento estável em território português que sejam detidas, direta ou indiretamente, em mais de 25 %, por entidades residentes, exceto quando se verifiquem cumulativamente os seguintes requisitos e condições relativamente à sociedade alienante:
+
+i) Seja residente noutro Estado membro da União Europeia, num Estado membro do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia ou num Estado com o qual tenha sido celebrada e se encontre em vigor convenção para evitar a dupla tributação que preveja a troca de informações;
+
+ii) Esteja sujeita e não isenta de um imposto referido no artigo 2.º da Diretiva 2011/96/UE, do Conselho, de 30 de novembro, ou de um imposto de natureza idêntica ou similar ao IRC desde que a taxa legal aplicável à entidade não seja inferior a 60 % da taxa prevista no n.º 1 do artigo 87.º do CIRC;
+
+iii) Detenha direta ou direta e indiretamente, nos termos do n.º 6 do artigo 69.º do CIRC, uma participação não inferior a 10 % do capital social ou dos direitos de voto da entidade objeto de alienação;
+
+iv) Detenha a referida participação de modo ininterrupto, durante o ano anterior à alienação;
+
+v) Não seja parte de uma construção, ou série de construções, artificial ou artificiais, com o principal objetivo, ou com um dos principais objetivos, de obtenção de uma vantagem fiscal.
+
+b) A entidades não residentes e sem estabelecimento estável em território português que sejam domiciliadas em país, território ou região sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
+
+c) Às mais-valias realizadas por entidades não residentes com a transmissão onerosa de partes sociais em sociedades residentes em território português cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados ou que, sendo sociedades gestoras ou detentoras de participações sociais, se encontrem em relação de domínio, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, a título de dominantes, com sociedades dominadas, igualmente residentes em território português, cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados.
+
+d) Às mais-valias resultantes da transmissão onerosa de partes de capital ou de direitos similares em sociedades ou outras entidades que não tenham sede nem direção efetiva em território português, quando, em qualquer momento durante os 365 dias anteriores, o valor dessas partes de capital ou direitos resulte, direta ou indiretamente, em mais de 50 % de bens imóveis ou direitos reais sobre bens imóveis situados em território português, com exceção dos bens imóveis afetos a uma atividade de natureza agrícola, industrial ou comercial que não consista na compra e venda de bens imóveis.
+
+3 - O disposto no n.º 1 não é ainda aplicável:
+
+a) A pessoas singulares não residentes e sem estabelecimento estável em território português que sejam domiciliadas em país, território ou região sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
+
+b) Às mais-valias realizadas por pessoas singulares com a transmissão onerosa de partes sociais em sociedades residentes em território português cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados ou que, sendo sociedades gestoras ou detentoras de participações sociais, se encontrem em relação de domínio, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, a título de dominantes, com sociedades dominadas, igualmente residentes em território português, cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados.
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 170.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 119.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, Suplemento n.º 1, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25
+
+###### Artigo 28.º — Empréstimos externos e rendas de locação de equipamentos importados
+
+1 - Ficam isentos de IRS ou de IRC os juros de capitais provenientes do estrangeiro, representativos de empréstimos e rendas de locação de equipamentos importados de natureza industrial, comercial ou científica, de que sejam devedores o Estado, as regiões autónomas, as autarquias locais e as suas federações ou uniões, ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, e as empresas que prestem serviços públicos, desde que os credores não possuam sede nem direção efetiva em território português nem disponham neste território de estabelecimento estável ao qual o empréstimo seja imputável.
+
+2 - A cessão pelo credor da respetiva posição contratual no âmbito dos contratos de empréstimo e de locação previstos no número anterior não prejudica a manutenção dos benefícios, desde que o cessionário não possua sede nem direção efetiva em território português nem disponha neste território de estabelecimento estável ao qual o contrato seja imputável.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), em vigor a partir de 2023-05-18, produz efeitos a partir de 2023-07-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 21/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/lei/21-2021-161766414), em vigor a partir de 2021-04-21, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+###### Artigo 29.º — Serviços financeiros de entidades públicas
+
+1 - As entidades referidas no artigo 9.º do Código do IRC que realizem operações de financiamento a empresas, com recurso a fundos obtidos de empréstimo, com essa finalidade específica, junto de instituições de crédito, são sujeitas a tributação, nos termos gerais do IRC, relativamente a estes rendimentos, pela diferença, verificada em cada exercício, entre os juros e outros rendimentos de capitais de que sejam titulares relativamente a essas operações e os juros devidos a essas instituições, com dispensa de retenção na fonte de IRC, sendo o imposto liquidado na declaração periódica de rendimentos.
+
+2 - O Estado, atuando através da Direção-Geral do Tesouro e Finanças, é sujeito a tributação, nos termos gerais do IRC, relativamente aos rendimentos de capitais provenientes das aplicações financeiras que realize, pela diferença, verificada em cada exercício, entre aqueles rendimentos de capitais e os juros devidos pela remuneração de contas, no âmbito da prestação de serviços equiparados aos da atividade bancária, ao abrigo do artigo 2.º do regime da tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de junho, na sua redação atual.
+
+3 - No caso do número anterior, a tributação faz-se autonomamente, com dispensa de retenção na fonte de IRC, sendo o imposto entregue até 15 de Janeiro do ano seguinte, sem prejuízo da tributação dos juros devidos pela remuneração das contas referidas na parte final do número anterior, por retenção na fonte, nos termos gerais.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 30.º — Swaps e empréstimos de instituições financeiras não residentes
+
+1 - Ficam isentos de IRC os juros decorrentes de empréstimos concedidos por instituições financeiras não residentes a instituições de crédito residentes, bem como os ganhos obtidos por aquelas instituições, decorrentes de operações de swap, efectuadas com instituições de crédito residentes, desde que esses juros ou ganhos não sejam imputáveis a estabelecimento estável daquelas instituições situado em território português.
+
+2 - Ficam igualmente isentos de IRC os ganhos e os juros obtidos por instituições financeiras não residentes, decorrentes de operações de swap e forwards e das operações com estas conexas, efetuadas com o Estado, atuando através da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., bem como efetuadas com o Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P., em nome próprio ou em representação dos fundos sob sua gestão, desde que esses ganhos não sejam imputáveis a estabelecimento estável daquelas instituições situado no território português.
+
+3 - Os benefícios fiscais previstos nos números anteriores não são aplicáveis nas seguintes situações:
+
+a) Quando os titulares dos rendimentos obtidos sejam entidades com residência ou domicílio em país, território ou região a que se referem o n.º 1 do artigo 63.º-D da Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, na sua redação atual;
+
+b) Quando as entidades não residentes e sem estabelecimento estável em território português sejam detidas, direta ou indiretamente, em mais de 25 %, por entidades residentes, exceto quando essa entidade seja residente noutro Estado-Membro da União Europeia, num Estado signatário do Acordo sobre Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia ou num Estado com o qual tenha sido celebrada e se encontre em vigor convenção para evitar a dupla tributação que preveja a troca de informações.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+###### Artigo 31.º — Depósitos de instituições de crédito não residentes
+
+1 - Ficam isentos de IRC os juros de depósitos a prazo efectuados em estabelecimentos legalmente autorizados a recebê-los por instituições de crédito não residentes.
+
+2 - O benefício fiscal previsto no número anterior não é aplicável:
+
+a) Quando os titulares dos rendimentos obtidos sejam entidades com residência ou domicílio em país, território ou região a que se referem o n.º 1 do artigo 63.º-D da Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, na sua redação atual;
+
+b) Quando as entidades não residentes e sem estabelecimento estável em território português sejam detidas, direta ou indiretamente, em mais de 25 %, por entidades residentes, exceto quando essa entidade seja residente noutro Estado-Membro da União Europeia, num Estado signatário do Acordo sobre Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia ou num Estado com o qual tenha sido celebrada e se encontre em vigor convenção para evitar a dupla tributação que preveja a troca de informações.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10, produz efeitos a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 73.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01, produz efeitos a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, Suplemento n.º 1, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Alterado pelo/a Artigo 37.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, Suplemento n.º 1, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14
+
+###### Artigo 32.º — Sociedades gestoras de participações sociais (SGPS)
+
+1 - (Revogado.)
+
+2 - As mais-valias e as menos-valias realizadas pelas SGPS de partes de capital de que sejam titulares, desde que detidas por período não inferior a um ano, e, bem assim, os encargos financeiros suportados com a sua aquisição não concorrem para a formação do lucro tributável destas sociedades.
+
+3 - O disposto no número anterior não é aplicável relativamente às mais-valias realizadas e aos encargos financeiros suportados quando as partes de capital tenham sido adquiridas a entidades com as quais existam relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, ou a entidades com domicílio, sede ou direcção efectiva em território sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças, ou residentes em território português sujeitas a um regime especial de tributação, e desde que tenham sido detidas, pela alienante, por período inferior a três anos e, bem assim, quando a alienante tenha resultado de transformação de sociedade à qual não fosse aplicável o regime previsto naquele número, relativamente às mais-valias das partes de capital objecto de transmissão, desde que, neste último caso, tenham decorrido menos de três anos entre a data da transformação e a data da transmissão.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - O disposto nos n.os 2 e 3 é igualmente aplicável a sociedades cuja sede ou direcção efectiva esteja situada em território português, constituídas segundo o direito de outro Estado membro da União Europeia, que tenham por único objecto contratual a gestão de participações sociais de outras sociedades, desde que preencham os demais requisitos a que se encontram sujeitas as sociedades regidas pelo Decreto-Lei n.º 495/88, de 30 de Dezembro.
+
+> Revogado pelo/a Artigo 210.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 119.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 109.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, Suplemento n.º 2, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, Suplemento n.º 1, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Alterado pelo/a Artigo 37.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, Suplemento n.º 1, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14
+
+###### Artigo 32.º-A — Sociedades de capital de risco (SCR) e investidores de capital de risco (ICR)
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - As SCR podem deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, e até à sua concorrência, uma importância correspondente ao limite da soma das colectas de IRC dos cinco exercícios anteriores àquele a que respeita o benefício, desde que seja utilizada na realização de investimentos em sociedades com potencial de crescimento e valorização.
+
+4 - A dedução a que se refere o número anterior é feita nos termos da alínea b) do n.º 2 do artigo 90.º do Código do IRC, na liquidação do IRC respeitante ao exercício em que foram realizados os investimentos ou, quando o não possa ser integralmente, a importância ainda não deduzida poderá sê-lo, nas mesmas condições, na liquidação dos cinco exercícios seguintes.
+
+5 - Os sócios das sociedades por quotas unipessoais ICR, os investidores informais das sociedades veículo de investimento em empresas com potencial de crescimento, certificadas no âmbito do Programa COMPETE, e os investidores informais em capital de risco a título individual certificados pelo IAPMEI, no âmbito do Programa FINICIA, podem deduzir à sua colecta em IRS do próprio ano, até ao limite de 15 % desta, um montante correspondente a 20 % do valor investido por si ou pela sociedade por quotas unipessoais ICR de que sejam sócios.
+
+6 - A dedução à colecta referida no número anterior não se aplica aos seguintes casos:
+
+a) Investimentos em sociedades cotadas em bolsa de valores e em sociedades cujo capital seja controlado maioritariamente por outras sociedades, exceptuados os investimentos efectuados em SCR e em fundos de capital de risco;
+
+b) Investimentos em sociedades sujeitas a regulação pelo Banco de Portugal ou pelo Instituto dos Seguros de Portugal.
+
+7 - Por valor investido entende-se a entrada de capitais em dinheiro destinados à subscrição ou aquisição de quotas ou acções ou à realização de prestações acessórias ou suplementares de capital em sociedades que usem efectivamente essas entradas de capital na realização de investimentos com potencial de crescimento e valorização.
+
+> Alterado pelo/a Artigo 210.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Aditado pelo/a Artigo 145.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 32.º-B — Regime fiscal dos empréstimos externos
+
+1 - Ficam isentos de IRS ou de IRC os juros de capitais provenientes do estrangeiro representativos de contratos de empréstimo Schuldscheindarlehen celebrados pelo IGCP, E. P. E., em nome e em representação da República Portuguesa, desde que o credor seja um não residente sem estabelecimento estável em território português ao qual o empréstimo seja imputado.
+
+2 - A isenção fiscal prevista no número anterior fica subordinada à verificação, pelo IGCP, E. P. E., da não residência dos credores em Portugal e da não existência de estabelecimento estável em território português ao qual o empréstimo seja imputado, até à data de pagamento do rendimento ou, caso o IGCP, E. P. E., não conheça nessa data o beneficiário efetivo, nos 60 dias posteriores ao respetivo conhecimento.
+
+> Aditado pelo/a Artigo 171.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+###### Artigo 32.º-C — Operações de reporte com instituições financeiras não residentes
+
+Ficam isentos de IRC os ganhos obtidos por instituições financeiras não residentes na realização de operações de reporte de valores mobiliários efetuadas com instituições de crédito residentes, desde que os ganhos não sejam imputáveis a estabelecimento estável daquelas instituições situado em território português.
+
+> Aditado pelo/a Artigo 171.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+###### Artigo 32.º-D — Operações de reporte
+
+Beneficiam de isenção de imposto do selo as operações de reporte de valores mobiliários ou direitos equiparados realizadas em bolsa de valores, bem como o reporte e a alienação fiduciária em garantia realizados pelas instituições financeiras, designadamente por instituições de crédito e sociedades financeiras, com interposição de contrapartes centrais.
+
+> Aditado pelo/a Artigo 171.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+###### Artigo 32.º-E — Incentivo à negociação em mercado regulamentado
+
+1 - Os gastos suportados pelos sujeitos passivos de IRC elegíveis nos termos do número seguinte, relativos à primeira admissão à negociação em mercado regulamentado dos valores mobiliários representativos do seu capital social, bem como os relativos à oferta de valores mobiliários ao público realizada no mesmo período de tributação ou no período de tributação anterior a essa admissão à negociação, da qual resulte uma dispersão mínima de 20 % do seu capital social, são majorados em valor correspondente a 100 % do respetivo montante, para efeitos da determinação do lucro tributável.
+
+2 - Consideram-se elegíveis os sujeitos passivos de IRC residentes em território português, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, que preencham, cumulativamente, as seguintes condições:
+
+a) Sejam empresas qualificadas como micro, pequena ou média empresa, ou empresa de pequena-média ou média capitalização (Small Mid Cap ou Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual;
+
+b) Disponham de contabilidade organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;
+
+c) O seu lucro tributável não seja determinado por métodos indiretos;
+
+d) Tenham a situação fiscal e contributiva regularizada.
+
+3 - Para efeitos do n.º 1, consideram-se os gastos dedutíveis correspondentes a taxas, comissões e outros encargos diretamente relacionados com a admissão à negociação, incluindo os correspondentes a atos preparatórios necessários à mesma, bem como os gastos de intermediação, diretamente relacionados com a primeira admissão à negociação em mercado regulamentado dos valores mobiliários representativos do seu capital social ou com a oferta de valores mobiliários ao público realizada no mesmo período de tributação ou no período de tributação anterior a essa admissão à negociação da qual resulte a dispersão de pelo menos 20 % do seu capital social.
+
+4 - Caso não se verifique até ao período de tributação subsequente a primeira admissão à negociação em mercado regulamentado dos valores mobiliários representativos do seu capital social, ou a oferta de valores mobiliários ao público realizada no período de tributação ou no período de tributação anterior a essa admissão à negociação, da qual resulte uma dispersão mínima de 20 % do seu capital social, é considerado rendimento para efeitos da determinação do lucro tributável daquele período de tributação, o valor correspondente a 100 % dos gastos e perdas a que se refere o número anterior, majorado em 5 %.
+
+5 - O regime previsto no presente artigo é aplicável à segunda admissão em mercado regulamentado, sem dispersão de capital social mínimo, sendo os gastos e perdas elegíveis majorados em valor correspondente a 50 % do respetivo montante, para efeitos da determinação do lucro tributável, nos termos definidos no presente artigo.
+
+6 - A aplicação do regime do presente artigo está sujeita às regras europeias aplicáveis em matéria de auxílios de minimis.
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 31/2024 - Diário da República n.º 124/2024, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/lei/31-2024-870265813), em vigor a partir de 2024-06-29
+
+### Capítulo IV — Benefícios fiscais às zonas francas
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 33.º — Zona Franca da Madeira e Zona Franca da ilha de Santa Maria
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - São isentos de IRC os juros de empréstimos contraídos por entidades instaladas nas zonas francas, desde que o produto desses empréstimos se destine à realização de investimentos e ao normal funcionamento das mutuárias, no âmbito da zona franca, e desde que os mutuantes sejam não residentes no restante território português, exceptuados os respectivos estabelecimentos estáveis nele situados.
+
+5 - São isentos de IRS ou de IRC:
+
+a) Os rendimentos resultantes da concessão ou cedência temporária, por entidades não residentes em território português, exceptuados os estabelecimentos estáveis aí situados e fora das zonas francas, de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processos de fabrico ou conservação de produtos e direitos análogos, bem como os derivados da assistência técnica e da prestação de informações relativas a uma dada experiência no sector industrial, comercial ou científico, desde que respeitantes a actividade desenvolvida pelas empresas no âmbito da zona franca;
+
+b) Os rendimentos das prestações de serviços auferidos por entidades não residentes e não imputáveis a estabelecimento estável situado em território português fora das zonas francas, desde que devidos por entidades instaladas na mesma e respeitem à actividade aí desenvolvida.
+
+6 - (Revogado.)
+
+7 - São isentos de IRS ou de IRC os rendimentos pagos pelas sociedades e sucursais de trust off-shore instaladas nas zonas francas a utentes dos seus serviços, desde que estes sejam entidades instaladas nas zonas francas ou não residentes no território português.
+
+8 - São isentos de IRS os tripulantes dos navios registados no registo internacional de navios, criado e regulamentado no âmbito da Zona Franca da Madeira, ou no registo internacional de navios, a criar e regulamentar, nos mesmos termos, no âmbito da Zona Franca da ilha de Santa Maria, relativamente às remunerações auferidas nessa qualidade, e enquanto tais registos se mantiverem válidos.
+
+9 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS.
+
+10 - São excluídos das isenções de IRS e de IRC estabelecidas nos números anteriores os rendimentos obtidos em território português, exceptuadas as zonas francas, considerando-se como tais:
+
+a) Os rendimentos previstos, respectivamente, no artigo 18.º do Código do IRS e nos n.os 3 e seguintes do artigo 4.º do Código do IRC, os resultantes de valores mobiliários representativos da dívida pública nacional e de valores mobiliários emitidos pelas Regiões Autónomas, pelas autarquias locais, por institutos ou fundos públicos e, bem assim, os resultantes de quaisquer outros valores mobiliários que venham a ser classificados como fundos públicos;
+
+b) Todos os rendimentos decorrentes da prestação de serviços a pessoas singulares ou colectivas residentes em território português, bem como a estabelecimentos estáveis de entidades não residentes, localizados nesse território, excepto tratando-se de entidades instaladas nas zonas francas.
+
+11 - São isentos de imposto do selo os documentos, livros, papéis, contratos, operações, actos e produtos previstos na tabela geral do imposto do selo respeitantes a entidades licenciadas nas Zonas Francas da Madeira e da ilha de Santa Maria, bem como às empresas concessionárias de exploração das mesmas Zonas Francas, salvo quando tenham por intervenientes ou destinatários entidades residentes no território nacional, exceptuadas as zonas francas, ou estabelecimentos estáveis de entidades não residentes que naquele se situem.
+
+12 - Às empresas concessionárias das zonas francas, aos respectivos sócios ou titulares e aos actos e operações por elas praticados conexos com o seu objecto aplica-se o regime fiscal previsto nos n.os 2, 4 e 5, beneficiando, ainda, as primeiras de isenção de IRC até 31 de Dezembro de 2017.
+
+13 - Para os efeitos do disposto nos números anteriores, consideram-se residentes em território português as entidades como tal qualificadas nos termos dos Códigos do IRS e do IRC, e que não sejam consideradas residentes noutro Estado, por força de convenção destinada a eliminar a dupla tributação de que o Estado Português seja parte.
+
+14 - Para efeitos do disposto nos números anteriores, sempre que a qualidade de não residente seja condição necessária à verificação dos pressupostos da isenção, deve aquela ser comprovada da seguinte forma:
+
+a) Quando forem bancos centrais, instituições de direito público ou organismos internacionais, bem como quando forem instituições de crédito, sociedades financeiras, fundos de investimento mobiliário ou imobiliário, fundos de pensões ou empresas de seguros, domiciliados em qualquer país da OCDE ou em país com o qual Portugal tenha celebrado convenção para evitar a dupla tributação internacional, e estejam submetidos a um regime especial de supervisão ou de registo administrativo, de acordo com as seguintes regras:
+
+1) A respectiva identificação fiscal, sempre que o titular dela disponha;
+
+2) Certidão, da entidade responsável pelo registo ou pela supervisão, que ateste a existência jurídica do titular e o seu domicílio;
+
+3) Declaração do próprio titular, devidamente assinada e autenticada, se se tratar de bancos centrais, instituições de direito público que integrem a administração pública central, regional ou a demais administração periférica, estadual indirecta ou autónoma do Estado da residência fiscalmente relevante, ou organismos internacionais;
+
+4) Comprovação da qualidade de não residente, nos termos da alínea c), caso o titular opte pelos meios de prova aí previstos;
+
+b) Quando forem emigrantes no activo, através dos documentos previstos para a comprovação desta qualidade em portaria do Ministro das Finanças, que regulamente o sistema poupança-emigrante;
+
+c) Nos restantes casos, de acordo com as seguintes regras:
+
+1) A comprovação deve ser realizada mediante a apresentação de certificado de residência ou documento equivalente emitido pelas autoridades fiscais, de documento emitido por consulado português, comprovativo da residência no estrangeiro, ou de documento especificamente emitido com o objectivo de certificar a residência por entidade oficial do respectivo Estado, que integre a sua administração pública central, regional ou a demais administração periférica, estadual indirecta ou autónoma do mesmo, não sendo designadamente admissível para o efeito documento de identificação como passaporte ou bilhete de identidade, ou documento de que apenas indirectamente se possa presumir uma eventual residência fiscalmente relevante, como uma autorização de trabalho ou permanência;
+
+2) O documento referido na subalínea anterior é necessariamente o original ou cópia devidamente autenticada, e tem de possuir data de emissão não anterior a três anos, nem posterior a três meses, em relação à data de realização das operações, salvo o disposto nas subalíneas seguintes;
+
+3) Se o prazo de validade do documento for inferior ou se este indicar um ano de referência, o mesmo é válido para o ano referido e para o ano subsequente, quando este último coincida com o da emissão do documento;
+
+4) O documento que, à data da contratação de uma operação, comprove validamente a qualidade de não residente, nos termos das subalíneas anteriores, permanece eficaz até ao termo inicialmente previsto para aquela, desde que este não seja superior a um ano.
+
+15 - As entidades referidas nas alíneas g) e h) do n.º 1 estão dispensadas da comprovação, pelos meios e nos termos previstos no n.º 14, da qualidade de não residente das entidades com quem se relacionem, quer nas operações de pagamento que lhes sejam dirigidas, quer nos pagamentos por si efectuados relativos a aquisições de bens e serviços, sendo admissível, para estes casos, qualquer meio que constitua prova bastante, salvo quanto aos pagamentos a qualquer entidade dos tipos de rendimentos referidos na alínea d) do n.º 2 e nos n.os 3 e 4 do artigo 71.º do Código do IRS, aos quais se continua a aplicar o disposto no n.º 14.
+
+16 - Compete às entidades a que se refere o n.º 1 a prova, nos termos dos n.os 14 e 15, da qualidade de não residente das entidades com as quais estabeleçam relações, a qual é extensível, nas situações de contitularidade, nomeadamente aquando da constituição de contas de depósito de numerário ou de valores mobiliários com mais de um titular, a todos os titulares, devendo os meios de prova ser conservados durante um período não inferior a cinco anos e exibidos ou facultados à administração tributária sempre que solicitados.
+
+17 - As entidades responsáveis pela administração e exploração das Zonas Francas da Madeira e da ilha de Santa Maria devem comunicar, anualmente, até ao último dia do mês de Fevereiro, com referência ao exercício anterior, a identificação das entidades que, naquele exercício ou em parte dele, estiveram autorizadas a exercer actividades no âmbito institucional da respectiva zona franca.
+
+18 - A falta de apresentação das provas de não residente, pelas entidades instaladas nas zonas francas que a tal estejam respectivamente obrigadas, nos termos dos n.os 14 e 15, tem, no período de tributação a que respeita, as consequências seguintes:
+
+a) Ficam sem efeito os benefícios concedidos às entidades beneficiárias que pressuponham a referida qualidade ou a ausência daquelas condições;
+
+b) São aplicáveis as normas gerais previstas nos competentes códigos relativas à responsabilidade pelo pagamento do imposto em falta;
+
+c) Presume-se que as operações foram realizadas com entidades residentes em território português, para efeitos do disposto neste preceito, sem prejuízo de se poder ilidir a presunção, de acordo com o artigo 73.º da lei geral tributária, e nos termos do artigo 64.º do Código de Procedimento e de Processo Tributário.
+
+19 - (Revogado.)
+
+20 - Para efeitos do disposto no n.º 1, não se consideram compreendidas no âmbito institucional da zona franca as actividades de intermediação na celebração de quaisquer contratos em que o alienante dos bens ou o prestador de serviços ou, bem assim, o adquirente ou o utilizador dos mesmos, seja entidade residente no restante território português, fora das zonas francas, ou seja estabelecimento estável de não residente aqui situado, mesmo que os rendimentos auferidos pela entidade instalada na zona franca sejam pagos por não residentes em território português.
+
+> Alterado pelo/a Artigo 15.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 55.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+###### Artigo 34.º — Lucro tributável das operações realizadas no âmbito das Zonas Francas da Madeira e da ilha de Santa Maria
+
+1 - Para efeitos do disposto no n.º 19 do artigo anterior, considera-se que, pelo menos, 85 % do lucro tributável resultante da actividade global das entidades a que se refere a alínea c) do n.º 1 daquele preceito corresponde a actividades exercidas fora do âmbito institucional das Zonas Francas da Madeira e da ilha de Santa Maria.
+
+2 - O disposto no número anterior é aplicável às entidades que, no âmbito do território português, não exerçam a sua actividade em exclusivo nas Zonas Francas da Madeira e da ilha de Santa Maria.
+
+3 - As entidades mencionadas no n.º 1 apuram o lucro tributável global da sua actividade, o lucro tributável da sucursal instalada na zona franca e o lucro tributável da instituição de crédito ou sociedade financeira, excluindo o da sucursal na zona franca.
+
+4 - Para as entidades a que se refere a alínea c) do n.º 1 do artigo 33.º, que exerçam predominantemente a sua actividade nas Zonas Francas da Madeira e da ilha de Santa Maria, considera-se que 40 % do lucro tributável resultante da sua actividade global corresponde a actividades exercidas fora do âmbito institucional daquelas Zonas Francas.
+
+5 - A actividade exercida no âmbito institucional daquelas Zonas Francas é considerada predominante quando a proporção entre o valor dos activos líquidos afectos à sucursal financeira exterior e o valor total dos activos líquidos da instituição seja superior a 50 %.
+
+6 - Não obstante o disposto no n.º 4, caso a proporção a que se refere o número anterior seja superior a 80 %, pode o Ministro das Finanças, após requerimento dos interessados devidamente fundamentado, fixar por despacho a percentagem do lucro tributável da actividade global que resulte de actividades exercidas fora do âmbito institucional das referidas Zonas Francas.
+
+> Revogado pelo/a Artigo 146.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01, produz efeitos a partir de 2004-01-01
+
+> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 163/2003 - Diário da República n.º 169/2003, Série I-A de 2003-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2003-673640), em vigor a partir de 2003-07-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 257-B/96 - Diário da República n.º 302/1996, Suplemento n.º 1, Série I-A de 1996-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-b-1996-276219), em vigor a partir de 1997-01-01
+
+###### Artigo 35.º — Regime especial aplicável às entidades licenciadas na Zona Franca da Madeira a partir de 1 de Janeiro de 2003
+
+1 - Os rendimentos das entidades licenciadas, a partir de 1 de Janeiro de 2003 e até 31 de Dezembro de 2006, para o exercício de actividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, que observem os respectivos condicionalismos previstos no n.º 1 do artigo 33.º, são tributados em IRC, até 31 de Dezembro de 2011, nos seguintes termos:
+
+a) Nos anos de 2003 e 2004, à taxa de 1 %;
+
+b) Nos anos de 2005 e 2006, à taxa de 2 %;
+
+c) Nos anos de 2007 a 2011, à taxa de 3 %.
+
+2 - As entidades referidas no número anterior que pretendam beneficiar do presente regime devem observar um dos seguintes tipos de requisitos:
+
+a) Criação de um até cinco postos de trabalho nos seis primeiros meses de actividade e realização de um investimento mínimo de (euro) 75 000 na aquisição de activos fixos, corpóreos ou incorpóreos, nos dois primeiros anos de actividade;
+
+b) Criação de seis ou mais postos de trabalho nos primeiros seis meses de actividade.
+
+3 - As entidades referidas nos números anteriores ficam sujeitas à limitação do benefício a conceder através da aplicação de plafonds máximos à matéria colectável objecto do benefício fiscal em sede de IRC, nos termos seguintes:
+
+a) Criação de 1 e até 2 postos de trabalho - (euro) 1 500 000;
+
+b) Criação de 3 e até 5 postos de trabalho - (euro) 2 000 000;
+
+c) Criação de 6 e até 30 postos de trabalho - (euro) 12 000 000;
+
+d) Criação de 31 e até 50 postos de trabalho - (euro) 20 000 000;
+
+e) Criação de 51 e até 100 postos de trabalho - (euro) 30 000 000;
+
+f) Criação de mais de 100 postos de trabalho - (euro) 125 000 000.
+
+4 - A inserção das entidades licenciadas nos escalões de plafonds constantes do n.º 3 deverá efectuar-se em função do número de postos de trabalho nelas existentes em cada exercício.
+
+5 - Os rendimentos das sociedades gestoras de participações sociais, licenciadas a partir de 1 de Janeiro de 2003 e até 31 de Dezembro de 2006, são tributados em IRC nos termos referidos no n.º 1, salvo os obtidos no território português, exceptuadas as zonas francas, ou em outros Estados membros da União Europeia, que são tributados nos termos gerais.
+
+6 - As entidades referidas no n.º 1 que prossigam actividades industriais beneficiam ainda de uma dedução de 50 % à colecta do IRC desde que preencham, pelo menos, duas das seguintes condições:
+
+a) Contribuam para a modernização da economia regional, nomeadamente através da inovação tecnológica de produtos e de processos de fabrico ou de modelos de negócio;
+
+b) Contribuam para a diversificação da economia regional, nomeadamente através do exercício de novas actividades de elevado valor acrescentado;
+
+c) Contribuam para a fixação na Região Autónoma de recursos humanos de elevado mérito e competência nos domínios técnico-científicos;
+
+d) Contribuam para a melhoria das condições ambientais;
+
+e) Criem, pelo menos, 15 postos de trabalho, que deverão ser mantidos durante um período mínimo de cinco anos.
+
+7 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de Janeiro de 2003 e até 31 de Dezembro de 2006, poderão, designadamente, exercer as seguintes actividades económicas:
+
+a) Actividades dos serviços relacionados com a agricultura e com a produção animal, excepto serviços de veterinária e serviços relacionados com a silvicultura e a exploração florestal (NACE A, 01.4 e 02.02);
+
+b) Pesca, aquicultura e serviços relacionados (NACE B, 05);
+
+c) Indústrias transformadoras (NACE D);
+
+d) Produção e distribuição de electricidade, gás e água (NACE E, 40);
+
+e) Comércio por grosso (NACE G, 50 e 51);
+
+f) Transportes, armazenagem e comunicações (NACE I, 60, 61, 62, 63 e 64);
+
+g) Actividades imobiliárias, alugueres e serviços prestados às empresas (NACE K, 70, 71, 72, 73 e 74);
+
+h) Ensino superior, ensino para adultos e outras actividades educativas (NACE M, 80.3 e 80.4);
+
+i) Outras actividades de serviços colectivos (NACE O, 90, 92 e 93.01).
+
+8 - Da lista de actividades prevista no número anterior encontram-se excluídas as actividades de intermediação financeira e de seguros, as actividades das instituições auxiliares de intermediação financeira e de seguros, bem como as actividades do tipo «serviços intragrupo», designadamente centros de coordenação, de tesouraria e de distribuição.
+
+9 - Às restantes situações não referidas nos números anteriores são aplicáveis, nos termos da legislação respectiva e relativamente às actividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, os demais benefícios fiscais e condicionalismos actualmente vigentes na Zona Franca da Madeira.
+
+> Revogado pelo/a Artigo 146.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 65/90 - Diário da República n.º 298/1990, Suplemento n.º 3, Série I de 1990-12-28](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), em vigor a partir de 1991-01-02
+
+###### Artigo 36.º — Regime especial aplicável às entidades licenciadas na Zona Franca da Madeira a partir de 1 de Janeiro de 2007
+
+1 - Os rendimentos das entidades licenciadas a partir de 1 de janeiro de 2007 e até 31 de dezembro de 2014 para o exercício de atividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, que observem os respetivos condicionalismos previstos no n.º 1 do artigo 33.º, são tributados em IRC, até 31 de dezembro de 2020, nos seguintes termos:
+
+a) Nos anos de 2007 a 2009, à taxa de 3 %;
+
+b) Nos anos de 2010 a 2012, à taxa de 4 %;
+
+c) Nos anos de 2013 a 2020, à taxa de 5 %.
+
+2 - As entidades referidas no número anterior que pretendam beneficiar do presente regime devem iniciar as suas actividades no prazo de seis meses, no caso de serviços internacionais, e de um ano, no caso de actividades industriais ou de registo marítimo, contado da data de licenciamento e devem ainda observar um dos seguintes requisitos de elegibilidade:
+
+a) Criação de um a cinco postos de trabalho, nos seis primeiros meses de actividade e realização de um investimento mínimo de (euro) 75 000 na aquisição de activos fixos corpóreos ou incorpóreos, nos dois primeiros anos de actividade;
+
+b) Criação de seis ou mais postos de trabalho, nos seis primeiros meses de actividade.
+
+3 - As entidades referidas nos números anteriores ficam sujeitas à limitação do benefício a conceder, através da aplicação de plafonds máximos à matéria colectável a que é aplicável a taxa reduzida prevista, nos termos seguintes:
+
+a) 2,73 milhões de euros pela criação de 1 até 2 postos de trabalho;
+
+b) 3,55 milhões de euros pela criação de 3 a 5 postos de trabalho;
+
+c) 21,87 milhões de euros pela criação de 6 a 30 postos de trabalho;
+
+d) 35,54 milhões de euros pela criação de 31 a 50 postos de trabalho;
+
+e) 54,68 milhões de euros pela criação de 51 a 100 postos de trabalho;
+
+f) 205,50 milhões de euros pela criação de mais de 100 postos de trabalho.
+
+4 - Os limites máximos da matéria colectável previstos no número anterior são determinados em função do número de postos de trabalho que as entidades beneficiárias mantêm em cada exercício.
+
+5 - As entidades referidas no n.º 1 que prossigam actividades industriais beneficiam ainda de uma dedução de 50 % à colecta do IRC desde que preencham, pelo menos, duas das seguintes condições:
+
+a) Contribuam para a modernização da economia regional, nomeadamente através da inovação tecnológica de produtos e de processos de fabrico ou de modelos de negócio;
+
+b) Contribuam para a diversificação da economia regional, nomeadamente através do exercício de novas actividades de elevado valor acrescentado;
+
+c) Promovam a contratação de recursos humanos altamente qualificados;
+
+d) Contribuam para a melhoria das condições ambientais;
+
+e) Criem, pelo menos, 15 postos de trabalho, que devem ser mantidos durante um período mínimo de cinco anos.
+
+6 - As entidades licenciadas na Zona Franca da Madeira a partir de 1 de janeiro de 2007 e até 31 de dezembro de 2014 podem, designadamente, exercer as seguintes atividades económicas relacionadas com:
+
+a) Agricultura e com a produção animal (NACE Rev. 1.1, secção A, códigos 01.4 e 02.02);
+
+b) Pesca, aquicultura e serviços relacionados (NACE Rev. 1.1, secção B, código 05);
+
+c) Indústrias transformadoras (NACE Rev. 1.1, secção D);
+
+d) Produção e distribuição de electricidade, gás e água (NACE Rev. 1.1, secção E, código 40);
+
+e) Comércio por grosso (NACE Rev. 1.1, secção G, códigos 50 e 51);
+
+f) Transportes e comunicações (NACE Rev. 1.1, secção I, códigos 60, 61, 62, 63 e 64);
+
+g) Actividades imobiliárias, alugueres e serviços prestados às empresas (NACE Rev. 1.1, secção K, códigos 70, 71, 72, 73 e 74);
+
+h) Ensino superior, ensino para adultos e outras actividades educativas (NACE Rev. 1.1, secção M, códigos 80.3 e 80.4);
+
+i) Outras actividades de serviços colectivos (NACE Rev. 1.1, secção O, códigos 90, 92 e 93.01).
+
+7 - Da lista de actividades prevista no número anterior encontram-se excluídas as actividades de intermediação financeira, de seguros e das instituições auxiliares de intermediação financeira e de seguros (NACE Rev. 1.1, secção J, 65, 66 e 67) bem como as actividades do tipo «serviços intragrupo», designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev. 1.1, secção K, código 74).
+
+8 - Os rendimentos das sociedades gestoras de participações sociais licenciadas a partir de 1 de janeiro de 2007 e até 31 de dezembro de 2014 são tributados em IRC nos termos referidos no n.º 1, salvo os obtidos no território português, excetuadas as zonas francas, ou em outros Estados membros da União Europeia, que são tributados nos termos gerais.
+
+9 - Às restantes situações não referidas nos números anteriores são aplicáveis, nos termos da legislação respectiva e relativamente às actividades industriais, comerciais, de transportes marítimos e de outros serviços não excluídos do presente regime, os demais benefícios fiscais e condicionalismos actualmente vigentes na Zona Franca da Madeira.
+
+10 - As entidades que estejam licenciadas ao abrigo dos regimes previstos nos artigos 33.º e 34.º do presente Estatuto podem beneficiar do novo regime, a partir de 1 de Janeiro de 2012.
+
+> Alterado pelo/a [Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I de 2014-09-30](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 206.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 36.º-A — Regime aplicável às entidades licenciadas na Zona Franca da Madeira a partir de 1 de janeiro de 2015
+
+1 - Os rendimentos das entidades licenciadas para operar na Zona Franca da Madeira a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2026 são tributados em IRC, até 31 de dezembro de 2033, à taxa de 5 %, nos seguintes termos:
+
+a) As entidades licenciadas no âmbito da zona franca industrial relativamente aos rendimentos derivados do exercício das atividades de natureza industrial, previstas no n.º 1 e qualificadas nos termos dos n.os 2 e 3 do artigo 4.º do Decreto Regulamentar n.º 53/82, de 23 de agosto, e, bem assim, das atividades acessórias ou complementares daquela;
+
+b) As entidades devidamente licenciadas que prossigam a atividade de transportes marítimos e aéreos, relativamente aos rendimentos derivados do exercício da atividade licenciada, excetuados os rendimentos derivados do transporte de passageiros ou de carga entre portos nacionais;
+
+c) As entidades referidas na alínea a), relativamente aos rendimentos derivados das atividades exercidas na zona franca industrial não abrangidas por aquela alínea, e as restantes entidades não mencionadas nas alíneas anteriores, relativamente aos rendimentos derivados das suas atividades compreendidas no âmbito institucional da zona franca, desde que, em ambos os casos, respeitem a operações realizadas com entidades instaladas na zona franca ou com não residentes em território português, excetuados os estabelecimentos estáveis aí situados e fora da zona franca.
+
+2 - As entidades referidas no número anterior que pretendam beneficiar do presente regime devem iniciar as suas atividades no prazo de seis meses, exceto quanto às atividades industriais ou de transportes marítimos e aéreos que devem iniciar as suas atividades no prazo de um ano, contado da data de licenciamento, devendo ainda observar um dos seguintes requisitos de elegibilidade:
+
+a) Criação de um a cinco postos de trabalho, nos seis primeiros meses de atividade e realização de um investimento mínimo de (euro) 75 000 na aquisição de ativos fixos tangíveis ou intangíveis nos dois primeiros anos de atividade;
+
+b) Criação de seis ou mais postos de trabalho, nos seis primeiros meses de atividade.
+
+3 - As entidades referidas no n.º 1 ficam sujeitas a um dos seguintes limites máximos anuais aplicáveis aos benefícios fiscais previstos no presente regime:
+
+a) 20,1 % do valor acrescentado bruto gerado anualmente na Região Autónoma da Madeira; ou
+
+b) 30,1 % dos custos anuais de mão-de-obra suportados na Região Autónoma da Madeira; ou
+
+c) 15,1 % do volume anual de negócios realizado na Região Autónoma da Madeira.
+
+4 - As entidades referidas nos números anteriores ficam sujeitas à limitação do benefício a conceder, através da aplicação de plafonds máximos à matéria coletável a que é aplicável a taxa reduzida prevista, nos termos seguintes:
+
+a) 2,73 milhões de euros pela criação de um a dois postos de trabalho;
+
+b) 3,55 milhões de euros pela criação de três a cinco postos de trabalho;
+
+c) 21,87 milhões de euros pela criação de seis a 30 postos de trabalho;
+
+d) 35,54 milhões de euros pela criação de 31 a 50 postos de trabalho;
+
+e) 54,68 milhões de euros pela criação de 51 a 100 postos de trabalho;
+
+f) 205,50 milhões de euros pela criação de mais de 100 postos de trabalho.
+
+5 - Os limites máximos da matéria coletável previstos no número anterior são determinados em função do número de postos de trabalho que as entidades beneficiárias mantêm em cada exercício, tendo por referência o seguinte:
+
+a) O número de postos de trabalho é determinado por referência ao número de pessoas que aufiram rendimentos de trabalho dependente, pagos ou colocados à disposição pela entidade licenciada, desde que residam, para efeitos fiscais, na Região Autónoma da Madeira ou, não residindo, nela exerçam a sua atividade ou sejam trabalhadores ou tripulantes de navios ou embarcações de recreio registados no Registo Internacional de Navios da Madeira (MAR);
+
+b) Os trabalhadores a tempo indeterminado, parcial ou intermitente são considerados proporcionalmente ao praticado a tempo inteiro numa situação comparável, medido em número de unidades de trabalho-ano (UTA);
+
+c) São excluídos do cômputo do número de postos de trabalho:
+
+i) Os trabalhadores cedidos por empresas de trabalho temporário, no que respeita às respetivas entidades utilizadoras;
+
+ii) Os trabalhadores em regime de cedência ocasional, no que respeita à entidade cessionária;
+
+iii) Os trabalhadores em regime de pluralidade de empregadores, quando o empregador que representa os demais no âmbito da relação de trabalho não se encontre licenciado na Zona Franca da Madeira.
+
+6 - As entidades referidas no n.º 1 licenciadas para operar na zona franca industrial beneficiam ainda de uma dedução de 50 % à coleta do IRC desde que preencham, pelo menos, duas das seguintes condições:
+
+a) Contribuam para a modernização da economia regional, nomeadamente através da inovação tecnológica de produtos e de processos de fabrico ou de modelos de negócio;
+
+b) Contribuam para a diversificação da economia regional, nomeadamente através do exercício de novas atividades de elevado valor acrescentado;
+
+c) Promovam a contratação de recursos humanos altamente qualificados;
+
+d) Contribuam para a melhoria das condições ambientais;
+
+e) Criem, pelo menos, 15 postos de trabalho, que devem ser mantidos durante um período mínimo de cinco anos.
+
+7 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2026, podem, designadamente, exercer as seguintes atividades económicas relacionadas com:
+
+a) Indústrias transformadoras (NACE Rev. 2, secção C);
+
+b) Produção e distribuição de eletricidade, gás e água (NACE Rev. 2, secção D, divisão 35; NACE Rev. 2, secção E, divisões 36, 37, 38 e 39);
+
+c) Comércio por grosso (NACE Rev. 2, secção G, divisões 45 e 46);
+
+d) Transportes e comunicações (NACE Rev. 2, secção H, divisões 49, 50, 51, 52 e 53; NACE Rev. 2, secção N, divisão 79; NACE Rev. 2, secção J, divisão 61);
+
+e) Atividades imobiliárias, alugueres e serviços prestados às empresas [NACE Rev. 2, secção L, divisão 68 (Atividades imobiliárias); NACE Rev. 2, secção N, divisão 77 (Atividades de aluguer); NACE Rev. 2, secção J, divisões 58, 59, 60, 62 e 63; NACE Rev. 2, secção C, divisão 33; NACE Rev. 2, secção S, divisão 95; NACE Rev. 2, secção M, divisões 69, 70, 71, 72, 73 e 74; NACE Rev. 2, secção N, divisão 77, grupo 77.4; NACE Rev. 2, secção N, divisões 78, 80, 81 e 82; NACE Rev. 2, secção P, divisão 85, grupo 85.6, classe 8560; NACE Rev. 2, secção K, divisão 64, grupo 64.2, classe 64.20 (Atividades das sociedades gestoras de participações sociais não financeiras)];
+
+f) Ensino superior, ensino para adultos e outras atividades educativas (NACE Rev. 2, secção P, divisão 85, grupo 85.3, classe 85.32; NACE Rev. 2, secção P, divisão 85, grupos 85.4, 85.5 e 85.6);
+
+g) Outras atividades de serviços coletivos (NACE Rev. 2, secção E, divisão 37; NACE Rev. 2, secção J, divisões 59, 60 e 63; NACE Rev. 2, secção R, divisões 90, 91, 92 e 93; NACE Rev. 2, secção P, divisão 85, grupo 85.5, classe 85.51; NACE Rev. 2, secção N, divisões 78 e 79; NACE Rev. 2, secção S, divisão 96; NACE Rev. 2, secção R, divisão 91, classe 91.04; NACE Rev. 2, secção J, divisão 94, grupo 94.9, classe 94.99).
+
+8 - Estão excluídas do presente regime:
+
+a) As entidades que exerçam atividades intragrupo e cuja atividade principal se insira nas subdivisões 70.10 «Atividades das sedes sociais» ou 70.22 «Atividades de consultoria para os negócios e outra consultoria para a gestão» da secção M da NACE Rev. 2, bem como as entidades cuja atividade principal se insira na secção K «Atividades financeiras e de seguros» da NACE Rev. 2, sem prejuízo do disposto na parte final da alínea e) do número anterior;
+
+b) As entidades que exerçam atividade nos setores siderúrgico e das fibras sintéticas, tal como definidos nos parágrafos 43 e 44 do artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, bem como nos setores do carvão e da construção naval, nos termos da alínea a) do artigo 13.º do mesmo Regulamento;
+
+c) As entidades que exerçam atividade nos setores da agricultura, da silvicultura, da pesca, da aquicultura e da indústria extrativa, nos termos das subalíneas i) e ii) da alínea c) do artigo 13.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;
+
+d) As entidades consideradas empresas em dificuldade nos termos do disposto no parágrafo 18 do artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;
+
+e) As entidades sujeitas a uma injunção de recuperação, ainda pendente, na sequência de uma decisão da Comissão Europeia que declare um auxílio ilegal e incompatível com o mercado interno.
+
+9 - Os rendimentos das entidades licenciadas na Zona Franca da Madeira cuja atividade principal consista na gestão de participações sociais de natureza não financeira, são tributados nos termos do n.º 1, sendo-lhes igualmente aplicáveis os limites previstos no n.º 3.
+
+10 - Os sócios ou acionistas das sociedades licenciadas para operar na Zona Franca da Madeira que beneficiem do presente regime gozam de isenção do IRS ou do IRC, até 31 de dezembro de 2033, relativamente:
+
+a) Aos lucros colocados à sua disposição por essas sociedades, incluindo a amortização de partes sociais sem redução de capital, na proporção da soma da parte do resultado líquido do período correspondente, acrescido do valor líquido das variações patrimoniais não refletidas nesse resultado, determinado para efeitos de IRC, que beneficie da aplicação da taxa reduzida prevista no n.º 1 e da parte daquele resultado que, não beneficiando daquela taxa, derive de rendimentos obtidos fora do território português, com exceção dos resultantes de operações realizadas com entidades que tenham residência ou domicílio em países, territórios ou regiões com regimes de tributação privilegiada, claramente mais favoráveis, constantes da lista aprovada pelo Estado português para esse efeito, de acordo com as melhores práticas internacionais;
+
+b) Aos rendimentos provenientes de juros e outras formas de remuneração de suprimentos, abonos ou adiantamentos de capital por si feitos à sociedade ou devidos pelo facto de não levantarem os lucros ou remunerações colocados à sua disposição.
+
+11 - Para efeitos da aplicação do disposto no número anterior, observa-se o seguinte:
+
+a) Se o montante dos lucros colocados à disposição dos sócios ou acionistas incluir a distribuição de reservas, considera-se, para efeitos do cálculo da proporção a que se refere a alínea a) do número anterior, que as reservas mais antigas são as primeiramente distribuídas;
+
+b) Não gozam da isenção prevista no número anterior os sócios ou acionistas residentes em território português, com exceção dos sócios ou acionistas das sociedades referidas nas alíneas a) e b) do n.º 1, nem os sócios ou acionistas que tenham residência ou domicílio em países, territórios, ou regiões com regimes de tributação privilegiada, claramente mais favoráveis, constantes da lista aprovada pelo Estado português para esse efeito, de acordo com as melhores práticas internacionais.
+
+12 - Os benefícios concedidos às entidades referidas nos números anteriores em imposto do selo, imposto municipal sobre imóveis, imposto municipal sobre as transmissões onerosas de imóveis, derramas regional e municipal e taxas, ficam sujeitos à limitação de 80 % relativamente a cada um destes tributos e a cada ato ou período a eles sujeitos.
+
+13 - Às restantes situações não referidas nos números anteriores são aplicáveis, nos termos da legislação respetiva, os demais benefícios fiscais e condicionalismos atualmente vigentes na Zona Franca da Madeira.
+
+14 - As entidades licenciadas na Zona Franca da Madeira ficam sujeitas ao pagamento especial por conta de IRC e às tributações autónomas apenas na proporção da taxa de IRC aplicável, exceto quanto às tributações autónomas previstas nos n.os 1 e 8 do artigo 88.º do Código do IRC.
+
+15 - Os benefícios previstos no presente regime não são cumuláveis com outros benefícios da mesma natureza previstos no âmbito de quaisquer regimes locais, regionais ou nacionais.
+
+16 - As entidades que estejam licenciadas ao abrigo do regime previsto no artigo anterior podem beneficiar do novo regime a partir de 1 de janeiro de 2015, desde que preencham os requisitos previstos neste regime.
+
+17 - Para efeitos do n.º 3, consideram-se gerados, suportados ou realizados na Região Autónoma da Madeira os rendimentos e ganhos, bem como os gastos e perdas, imputáveis à atividade realizada pela entidade licenciada através de uma estrutura empresarial adequada localizada na Região Autónoma da Madeira.
+
+18 - O disposto no n.º 5 é aplicável, com as devidas adaptações, à criação de postos de trabalho prevista nos n.os 2 e 6 do presente artigo.
+
+> Alterado pelo/a Artigo 73.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 91.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 305.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 21/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/lei/21-2021-161766414), em vigor a partir de 2021-04-21, produz efeitos a partir de 2021-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 64/2015 - Diário da República n.º 126/2015, Série I de 2015-07-01](https://diariodarepublica.pt/dr/detalhe/lei/64-2015-67647961), em vigor a partir de 2015-07-06
+
+### Capítulo V — Benefícios fiscais relativos a relações internacionais
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 37.º — Isenção do pessoal das missões diplomáticas e consulares e das organizações estrangeiras ou internacionais
+
+1 - Fica isento de IRS, nos termos do direito internacional aplicável, ou desde que haja reciprocidade:
+
+a) O pessoal das missões diplomáticas e consulares, quanto às remunerações auferidas nessa qualidade;
+
+b) O pessoal ao serviço de organizações estrangeiras ou internacionais, quanto às remunerações auferidas nessa qualidade.
+
+2 - As isenções previstas no número anterior não abrangem, designadamente, os membros do pessoal administrativo, técnico, de serviço e equiparados, das missões diplomáticas e consulares, quando sejam residentes em território português e não se verifique a existência de reciprocidade.
+
+3 - Os rendimentos isentos nos termos do n.º 1 são obrigatoriamente englobados para efeito de determinação da taxa a aplicar aos restantes rendimentos.
+
+4 - O reconhecimento relativo ao preenchimento dos requisitos de isenção, quando necessário, é da competência do Ministro das Finanças.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+###### Artigo 38.º — Isenção do pessoal em missões de salvaguarda de paz
+
+1 - Ficam isentos de IRS os militares e elementos das forças de segurança quanto às remunerações auferidas no desempenho de funções integradas em missões de carácter militar, efectuadas no estrangeiro, com objectivos humanitários ou destinadas ao estabelecimento, consolidação ou manutenção da paz, ao serviço das Nações Unidas ou de outras organizações internacionais, independentemente da entidade que suporta as respectivas importâncias.
+
+2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS e determinação da taxa aplicável ao restante rendimento colectável.
+
+3 - O reconhecimento relativo ao preenchimento dos requisitos de isenção, quando necessário, é da competência do Ministro das Finanças.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 28/2001 - Diário da República n.º 29/2001, Série I-A de 2001-02-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2001-315564), em vigor a partir de 2001-02-08
+
+> Alterado pelo/a Artigo 35.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, Suplemento n.º 1, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, Suplemento n.º 1, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 189/90 - Diário da República n.º 132/1990, Série I de 1990-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1990-575135), em vigor a partir de 1990-06-13
+
+###### Artigo 39.º — Acordos e relações de cooperação
+
+1 - Ficam isentas de IRS as pessoas deslocadas no estrangeiro, ao abrigo de acordos de cooperação, relativamente aos rendimentos auferidos no âmbito do respectivo acordo.
+
+2 - Ficam igualmente isentos de IRS os militares e elementos das forças de segurança deslocados no estrangeiro, ao abrigo de acordos de cooperação técnico-militar celebrados pelo Estado Português e ao serviço deste, relativamente aos rendimentos auferidos no âmbito do respectivo acordo.
+
+3 - O Ministro das Finanças pode, a requerimento das entidades interessadas, conceder isenção de IRS relativamente aos rendimentos auferidos por pessoas deslocadas no estrangeiro ao serviço daquelas, ao abrigo de contratos celebrados com entidades estrangeiras, desde que sejam demonstradas as vantagens desses contratos para o interesse nacional.
+
+4 - O disposto nos números anteriores não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS, e determinação da taxa aplicável ao restante rendimento colectável.
+
+5 - A isenção a que se refere o n.º 3 é extensível, nas mesmas condições, a rendimentos auferidos por pessoas deslocadas no estrangeiro, desde que exerçam a sua actividade no âmbito das profissões constantes da lista referida no artigo 151.º do Código do IRS, líquidos dos encargos dedutíveis nos termos do mesmo Código.
+
+6 - Ficam isentas de IRC as entidades públicas que prossigam fins educativos, culturais ou científicos, no âmbito de acordos de cooperação internacional nesses domínios, quando haja reciprocidade, competindo ao membro do Governo responsável pela área dos negócios estrangeiros a emissão de despacho que ateste a existência dessa reciprocidade.
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 55.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, Suplemento n.º 2, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, Suplemento n.º 2, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, Suplemento n.º 2, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 31.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, Suplemento n.º 1, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 187/92 - Diário da República n.º 195/1992, Série I-A de 1992-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1992-260592), em vigor a partir de 1992-08-30
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 39.º-A — Trabalhadores deslocados no estrangeiro
+
+1 - Ficam isentos de IRS os rendimentos do trabalho dependente referidos no artigo 18.º do Código do IRS auferidos por sujeitos passivos que, no ano a que respeitam os rendimentos, tendo sido deslocados do seu normal local de trabalho para o estrangeiro por período não inferior a 90 dias, dos quais 60 necessariamente seguidos, sejam considerados residentes em território português, na parte relativa à remuneração paga ou colocada à disposição do trabalhador exclusivamente a título de compensação pela deslocação e permanência no estrangeiro que exceda os limites legais previstos no Código do IRS.
+
+2 - O montante anual da compensação isenta nos termos do número anterior, por sujeito passivo, não pode exceder o valor correspondente à diferença entre o montante anual da remuneração do trabalhador sujeita a imposto, incluindo a compensação, e o montante global das remunerações regulares com carácter de retribuição sujeitas a imposto auferidas pelo trabalhador no período de tributação anterior, excluindo qualquer compensação que haja sido paga, durante esse período, em virtude dessa ou outras deslocações ao abrigo deste regime, e não pode, em qualquer caso, exceder o valor de (euro) 10 000.
+
+3 - Em caso de ausência de remuneração auferida em território português ou no estrangeiro, devida por qualquer entidade a título de trabalho dependente por período superior a seis meses no período de tributação anterior àquele a que respeitam os rendimentos, o montante global das remunerações regulares com carácter de retribuição sujeitas a imposto auferidas no ano anterior deve ser apurado, relativamente aos meses em que não tenha havido remuneração, por referência à retribuição mínima mensal garantida.
+
+4 - Para efeitos do n.º 1, apenas são considerados os residentes nos termos da alínea d) do n.º 1 do artigo 16.º do Código do IRS.
+
+5 - (Revogado.)
+
+6 - O disposto no n.º 1 determina o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS.
+
+7 - A isenção prevista no n.º 1 não é cumulável com quaisquer outros benefícios fiscais aplicáveis aos rendimentos da categoria A, automáticos ou de reconhecimento prévio, previstos neste ou noutros diplomas legais e com o regime previsto para os residentes não habituais.
+
+8 - A isenção prevista no presente artigo fica dependente de acordo escrito celebrado entre o sujeito passivo e a entidade empregadora, no qual expressamente se identifique o destino e o período da deslocação, bem como a remuneração total a pagar ou a colocar à disposição do sujeito passivo e a compensação a que se refere o n.º 1, devendo o sujeito passivo ficar na posse de uma cópia do documento.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), em vigor a partir de 2023-05-18, produz efeitos a partir de 2023-07-01
+
+> Aditado pelo/a Artigo 6.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+###### Artigo 40.º — Empreiteiros e arrematantes de obras e trabalhos das infra-estruturas comuns NATO
+
+1 - Ficam isentos de IRS os empreiteiros ou arrematantes, nacionais ou estrangeiros, relativamente aos lucros derivados de obras ou trabalhos das infra-estruturas comuns NATO, a realizar em território português, nos termos do Decreto-Lei n.º 41 561, de 17 de Março de 1958.
+
+2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS, e determinação da taxa aplicável ao restante rendimento colectável.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 82.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 55.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, Suplemento n.º 2, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 30-G/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, Suplemento n.º 2, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, Suplemento n.º 1, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 146/92 - Diário da República n.º 226/1992, Suplemento n.º 4, Série I-A de 1992-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/146-1992-361328), em vigor a partir de 1992-09-30
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 187/92 - Diário da República n.º 195/1992, Série I-A de 1992-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1992-260592), em vigor a partir de 1992-08-30
+
+###### Artigo 40.º-A — Regime especial de tributação de valores mobiliários representativos de dívida emitida por entidades não residentes
+
+1 - Beneficiam de isenção de IRS e de IRC os rendimentos dos valores mobiliários representativos de dívida pública e não pública emitida por entidades não residentes, que sejam considerados obtidos em território português nos termos dos Códigos do IRS e do IRC, quando venham a ser pagos pelo Estado Português enquanto garante de obrigações assumidas por sociedades das quais é acionista em conjunto com outros Estados membros da União Europeia.
+
+2 - A isenção a que se refere o número anterior aplica-se exclusivamente aos beneficiários efetivos que cumpram os requisitos previstos no artigo 5.º do regime especial de tributação de valores mobiliários representativos de dívida, aprovado em anexo ao Decreto-Lei n.º 193/2005, de 7 de novembro, alterado pelo Decretos-Leis n.os 25/2006, de 8 de fevereiro, e 29-A/2011, de 1 de março, e pela Lei n.º 83/2013, de 9 de dezembro.
+
+> Aditado pelo/a Artigo 171.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+### Capítulo VI — Benefícios fiscais à capitalização das empresas
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 41.º — Benefícios fiscais ao investimento de natureza contratual
+
+1 - Os projetos de investimento em unidades produtivas realizados até 31 de dezembro de 2020, de montante igual ou superior a 3 000 000,00 EUR, que sejam relevantes para o desenvolvimento dos sectores considerados de interesse estratégico para a economia nacional e para a redução das assimetrias regionais, que induzam à criação de postos de trabalho e que contribuam para impulsionar a inovação tecnológica e a investigação científica nacional, podem beneficiar de incentivos fiscais, em regime contratual, com período de vigência até 10 anos, a conceder nos termos, condições e procedimentos definidos no Código Fiscal do Investimento, de acordo com os princípios estabelecidos nos n.os 2 e 3.
+
+2 - Aos projectos de investimento previstos no n.º 1 podem ser concedidos, cumulativamente, os incentivos fiscais seguintes:
+
+a) Crédito de imposto, determinado com base na aplicação de uma percentagem, compreendida entre 10 % e 20 % das aplicações relevantes do projecto efectivamente realizadas, a deduzir ao montante apurado, nos termos da alínea a) do n.º 1 do artigo 83.º do Código do IRC;
+
+b) Isenção ou redução de imposto municipal sobre imóveis, relativamente aos prédios utilizados pela entidade na actividade desenvolvida no quadro do projecto de investimento;
+
+c) Isenção ou redução de imposto municipal sobre as transmissões onerosas de imóveis, relativamente aos imóveis adquiridos pela entidade, destinados ao exercício da sua actividade desenvolvida no âmbito do projecto de investimento;
+
+d) Isenção ou redução de imposto do selo, que for devido em todos os actos ou contratos necessários à realização do projecto de investimento.
+
+3 - Os incentivos fiscais a conceder não são cumuláveis com outros benefícios da mesma natureza susceptíveis de serem atribuídos ao mesmo projecto de investimento.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 - (Revogado).
+
+8 - Os contratos relativos a projectos de investimento realizados em território português devem prever normas que salvaguardem as contrapartidas dos incentivos fiscais em caso de cessação de actividade da entidade beneficiária, designadamente por transferência da sede e direcção efectiva para fora do território português.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Alterado pelo/a Artigo 210.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2013 - Diário da República n.º 114/2013, Série I de 2013-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766), em vigor a partir de 2013-06-18
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 249/2009 - Diário da República n.º 185/2009, Série I de 2009-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2009-490420), em vigor a partir de 2009-09-28, produz efeitos a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 87.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 287/2003 - Diário da República n.º 262/2003, Série I-A de 2003-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), em vigor a partir de 2004-01-01, produz efeitos a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 30-F/2000 - Diário da República n.º 299/2000, Suplemento n.º 3, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-f-2000-212014), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 25/98 - Diário da República n.º 34/1998, Série I-A de 1998-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1998-229284), em vigor a partir de 1998-02-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 307/95 - Diário da República n.º 268/1995, Série I-A de 1995-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1995-690175), em vigor a partir de 1995-11-25
+
+> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 37/94 - Diário da República n.º 32/1994, Série I-A de 1994-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1994-521446), em vigor a partir de 1994-02-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/93 - Diário da República n.º 65/1993, Série I-A de 1993-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689), em vigor a partir de 1993-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 293/91 - Diário da República n.º 185/1991, Série I-A de 1991-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1991-676040), em vigor a partir de 1991-08-18
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 41.º-A — Remuneração convencional do capital social
+
+1 - Na determinação do lucro tributável das sociedades comerciais ou civis sob forma comercial, cooperativas, empresas públicas, e demais pessoas coletivas de direito público ou privado com sede ou direção efetiva em território português, pode ser deduzida uma importância correspondente à remuneração convencional do capital social, calculada mediante a aplicação, limitada a cada exercício, da taxa de 7 % ao montante das entradas realizadas até (euro) 2 000 000, por entregas em dinheiro ou através da conversão de créditos, ou do recurso aos lucros do próprio exercício no âmbito da constituição de sociedade ou do aumento do capital social, desde que:
+
+a) (Revogada);
+
+b) (Revogada);
+
+c) O seu lucro tributável não seja determinado por métodos indiretos.
+
+d) A sociedade beneficiaria não reduza o seu capital social com restituição aos sócios, quer no período de tributação em que sejam realizadas as entradas relevantes para efeitos da remuneração convencional do capital social, quer nos cinco períodos de tributação seguintes.
+
+2 - A dedução a que se refere o número anterior:
+
+a) Aplica-se exclusivamente às entradas efetivamente realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital social da sociedade beneficiária, às entradas em espécie realizadas no âmbito de aumento do capital social que correspondam à conversão de créditos em capital, e ao aumento de capital com recurso aos lucros gerados no próprio exercício, desde que, neste último caso, o registo do aumento de capital se realize até à entrega da declaração de rendimentos relativa ao exercício em causa;
+
+b) É efetuada no apuramento do lucro tributável relativo ao período de tributação em que sejam realizadas as entradas mencionadas na alínea anterior e nos cinco períodos de tributação seguintes;
+
+c) Apenas considera as entradas em espécie correspondentes à conversão de suprimentos ou de empréstimos de sócios realizadas a partir de 1 de janeiro de 2017 ou a partir do primeiro dia do período de tributação que se inicie após essa data, quando este não coincida com o ano civil;
+
+d) Apenas considera as entradas em espécie correspondentes à conversão de créditos de terceiros realizadas a partir de 1 de janeiro de 2018 ou a partir do primeiro dia do período de tributação que se inicie após essa data, quando este não coincida com o ano civil.
+
+3 - (Revogado).
+
+4 - O incumprimento do disposto na alínea d) do n.º 1 implica a consideração, como rendimento do período de tributação em que ocorra a redução do capital com restituição aos sócios, do somatório das importâncias deduzidas a título de remuneração convencional do capital social, majorado em 15 %.
+
+5 - É reduzido a 25 % o limite previsto na alínea b) do n.º 1 do artigo 67.º do Código do IRC quando os sujeitos passivos beneficiem da dedução prevista no n.º 1.
+
+6 - O regime previsto no presente artigo não se aplica quando, no mesmo período de tributação ou num dos cinco períodos de tributação anteriores, o mesmo seja ou haja sido aplicado a sociedades que detenham direta ou indiretamente uma participação no capital social da empresa beneficiária, ou sejam participadas, direta ou indiretamente, pela mesma sociedade, na parte referente ao montante das entradas realizadas no capital social daquelas sociedades que haja beneficiado do presente regime.
+
+> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+###### Artigo 41.º-B — Benefícios fiscais aplicáveis aos territórios do Interior e às Regiões Autónomas
+
+1 - Às empresas que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços em territórios do interior, que sejam qualificadas como micro, pequenas ou médias empresas ou empresas de pequena-média capitalização (Small Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, é aplicável a taxa de IRC de 12,5 % aos primeiros 50 000 (euro) de matéria coletável.
+
+2 - São condições para usufruir dos benefícios fiscais previstos no número anterior:
+
+a) Exercer a atividade e ter direção efetiva nas áreas beneficiárias;
+
+b) Não ter salários em atraso;
+
+c) A empresa não resultar de cisão efetuada nos dois anos anteriores à usufruição dos benefícios;
+
+d) A determinação do lucro tributável ser efetuada com recurso a métodos diretos de avaliação ou no âmbito do regime simplificado de determinação da matéria coletável.
+
+3 - O benefício fiscal previsto no presente artigo não é cumulativo com outros benefícios de idêntica natureza, não prejudicando a opção por outro mais favorável.
+
+4 - (Revogado.)
+
+5 - No caso das regiões autónomas, a taxa prevista no n.º 1 pode ser adaptada nos termos previstos no n.º 2 do artigo 59.º da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro.
+
+6 - Para determinação do lucro tributável das empresas a que se refere o n.º 1, os encargos correspondentes à criação líquida de postos de trabalho são considerados em 120 % do respetivo montante, contabilizado como custo do exercício.
+
+7 - Para efeitos do número anterior considera-se:
+
+a) «Criação líquida de postos de trabalho», o aumento líquido do número de trabalhadores diretamente empregados na empresa, calculado pela diferença entre a média mensal do exercício em causa e a média mensal do exercício anterior;
+
+b) «Encargos», os montantes suportados pela entidade empregadora com o trabalhador, a título da remuneração fixa e das contribuições para a segurança social a cargo da mesma entidade.
+
+8 - Para efeitos do disposto nos n.os 6 e 7 apenas são considerados os postos de trabalho referentes a trabalhadores a tempo indeterminado que aufiram rendimentos de trabalho dependente que residam, para efeitos fiscais, em territórios do interior, sendo excluídos do cômputo do número de postos de trabalho:
+
+a) Os trabalhadores cedidos por empresas de trabalho temporário, no que respeita às respetivas entidades utilizadoras;
+
+b) Os trabalhadores em regime de cedência ocasional, no que respeita à entidade cessionária;
+
+c) Os trabalhadores em regime de pluralidade de empregadores, quando o empregador que representa os demais no âmbito da relação de trabalho não preencha as condições previstas nos n.os 1 e 2.
+
+9 - O benefício fiscal previsto nos números anteriores está sujeito às regras europeias aplicáveis em matéria de auxílios de minimis, não podendo o montante do benefício exceder o limiar de minimis.
+
+10 - A delimitação das áreas territoriais beneficiárias é estabelecida por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e do planeamento e das infraestruturas, ou, no caso das regiões autónomas, pelos respetivos Governos Regionais, e obedece a critérios como a emigração e o envelhecimento, a atividade económica e o emprego, o empreendedorismo e a infraestruturação do território.
+
+11 - No caso de estudantes que frequentem estabelecimentos de ensino situados em território do interior identificado na portaria a que se refere o n.º 10, ou em estabelecimentos de ensino situados nas regiões autónomas, é aplicável uma majoração de 10 pontos percentuais ao valor suportado a título de despesas de educação e formação a que se refere o n.º 1 do artigo 78.º-D do Código do IRS, sendo o limite global aí estabelecido elevado para 1000 (euro) quando a diferença seja relativa a estas despesas.
+
+12 - A dedução à coleta do IRS a que se refere a alínea a) do n.º 1 do artigo 78.º-E do Código do IRS tem o limite de 1000 (euro) durante três anos, sendo o primeiro o da celebração do contrato, no caso de os encargos aí previstos resultarem da transferência da residência permanente para um território do interior identificado na portaria a que se refere o n.º 10.
+
+13 - Para efeitos do disposto nos n.os 11 e 12, os sujeitos passivos devem indicar no Portal das Finanças, até ao final do mês de fevereiro do ano seguinte àquele a que o imposto respeita:
+
+a) Os membros do agregado familiar que frequentam estabelecimentos de ensino situados em território do interior ou das regiões autónomas e o valor total das respetivas despesas suportadas;
+
+b) As faturas ou outro documento que sejam relativos a arrendamento de que resulte a transferência da residência permanente para um território do interior.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01
+
+> Alterado pelo/a Artigo 250.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 305.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 355.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Aditado pelo/a Artigo 225.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 42.º — Eliminação da dupla tributação económica dos lucros distribuídos por sociedades residentes nos países africanos de língua oficial portuguesa e na República Democrática de Timor-Leste.
+
+1 - A dedução prevista no n.º 1 do artigo 46.º do Código do IRC é aplicável aos lucros distribuídos a entidades residentes por sociedades afiliadas residentes em países africanos de língua oficial portuguesa e em Timor-Leste, desde que verificadas as seguintes condições:
+
+a) A entidade beneficiária dos lucros esteja sujeita e não isenta de IRC e a sociedade afiliada esteja sujeita e não isenta de um imposto sobre o rendimento análogo ao IRC;
+
+b) A entidade beneficiária detenha, de forma directa, uma participação que represente, pelo menos, 25 % do capital da sociedade afiliada durante um período não inferior a dois anos;
+
+c) Os lucros distribuídos provenham de lucros da sociedade afiliada que tenham sido tributados a uma taxa não inferior a 10 % e não resultem de actividades geradoras de rendimentos passivos, designadamente royalties, mais-valias e outros rendimentos relativos a valores mobiliários, rendimentos de imóveis situados fora do país de residência da sociedade, rendimentos da actividade seguradora oriundos predominantemente de seguros relativos a bens situados fora do território de residência da sociedade ou de seguros respeitantes a pessoas que não residam nesse território e rendimentos de operações próprias da actividade bancária não dirigidas principalmente ao mercado desse território.
+
+2 - Para efeitos do disposto no número anterior, o sujeito passivo de IRC titular da participação deve dispor de prova da verificação das condições de que depende a dedução.
+
+> Revogado pelo/a Artigo 210.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 82.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 287/2003 - Diário da República n.º 262/2003, Série I-A de 2003-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), em vigor a partir de 2004-01-01, produz efeitos a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, Suplemento n.º 1, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-06-05
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 43.º — Benefícios fiscais relativos à interioridade
+
+1 - Às empresas que exerçam, directamente e a título principal, uma actividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços nas áreas do interior, adiante designadas «áreas beneficiárias», são concedidos os benefícios fiscais seguintes:
+
+a) É reduzida a 15 % a taxa de IRC, prevista no n.º 1 do artigo 80.º do respectivo Código, para as entidades cuja actividade principal se situe nas áreas beneficiárias;
+
+b) No caso de instalação de novas entidades, cuja actividade principal se situe nas áreas beneficiárias, a taxa referida no número anterior é reduzida a 10 % durante os primeiros cinco exercícios de actividade;
+
+c) As reintegrações e amortizações relativas a despesas de investimentos até (euro) 500 000, com exclusão das respeitantes à aquisição de terrenos e de veículos ligeiros de passageiros, dos sujeitos passivos de IRC que exerçam a sua actividade principal nas áreas beneficiárias podem ser deduzidas, para efeitos da determinação do lucro tributável, com a majoração de 30 %;
+
+d) Os encargos sociais obrigatórios suportados pela entidade empregadora relativos à criação líquida de postos de trabalho, por tempo indeterminado, nas áreas beneficiárias são deduzidos, para efeitos da determinação do lucro tributável, com uma majoração de 50 %, uma única vez por trabalhador admitido nessa entidade ou noutra entidade com a qual existam relações especiais, nos termos do artigo 58.º do Código do IRC;
+
+e) Os prejuízos fiscais apurados em determinado exercício nos termos do Código do IRC são deduzidos aos lucros tributáveis, havendo-os, de um ou mais dos sete exercícios posteriores.
+
+2 - São condições para usufruir dos benefícios fiscais previstos no número anterior:
+
+a) A determinação do lucro tributável ser efectuada com recurso a métodos directos de avaliação;
+
+b) Terem situação tributária regularizada;
+
+c) Não terem salários em atraso;
+
+d) Não resultarem de cisão efectuada nos últimos dois anos anteriores à usufruição dos benefícios.
+
+3 - Ficam isentas do pagamento de imposto municipal sobre as transmissões onerosas de imóveis as aquisições seguintes:
+
+a) Por jovens, com idade compreendida entre os 18 e os 35 anos, de prédio ou fracção autónoma de prédio urbano situado nas áreas beneficiárias, destinado exclusivamente a primeira habitação própria e permanente, desde que o valor sobre o qual incidiria o imposto não ultrapasse os valores máximos de habitação a custos controlados, acrescidos de 50 %;
+
+b) De prédios ou fracções autónomas de prédios urbanos, desde que situados nas áreas beneficiárias e afectos duradouramente à actividade das empresas.
+
+4 - As isenções previstas no número anterior só se verificam se as aquisições forem devidamente participadas ao serviço de finanças da área onde estiverem situados os imóveis a adquirir, mediante declaração de que conste não ter o declarante aproveitado anteriormente de idêntico benefício.
+
+5 - As isenções previstas no n.º 3 ficam dependentes de autorização do órgão deliberativo do respectivo município.
+
+6 - Para efeitos do presente artigo, as áreas beneficiárias são delimitadas de acordo com critérios que atendam, especialmente, à baixa densidade populacional, ao índice de compensação ou carência fiscal e à desigualdade de oportunidades sociais, económicas e culturais.
+
+7 - A definição dos critérios e a delimitação das áreas territoriais beneficiárias, nos termos do número anterior, bem como todas as normas regulamentares necessárias à boa execução do presente artigo, são estabelecidas por portaria do Ministro das Finanças.
+
+8 - Os benefícios fiscais previstos no presente artigo não são cumulativos com outros benefícios de idêntica natureza, não prejudicando a opção por outro mais favorável.
+
+> Revogado pelo/a Artigo 146.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 43.º-A — Programa Semente
+
+1 - Os sujeitos passivos de Imposto sobre o Rendimento das Pessoas Singulares (IRS) que efetuem investimentos elegíveis no âmbito do Programa Semente, fora do âmbito de atividades geradoras de rendimentos empresariais e profissionais, podem deduzir à coleta do IRS, até ao limite de 40 % desta, um montante correspondente a 25 % do montante dos investimentos elegíveis efetuados em cada ano.
+
+2 - Para efeitos da dedução prevista no número anterior, o montante anual dos investimentos elegíveis, por sujeito passivo, não pode ser superior a (euro) 100 000.
+
+3 - A importância que não possa ser deduzida nos termos dos números anteriores por exceder o limite referido no n.º 1 pode sê-lo, nas mesmas condições, nos dois períodos de tributação subsequentes.
+
+4 - Para efeitos do n.º 1, consideram-se como investimentos elegíveis no âmbito do Programa Semente as entradas em dinheiro efetivamente pagas em razão da subscrição de participações sociais, desde que:
+
+a) A sociedade participada seja uma micro ou pequena empresa que não tenha sido formalmente constituída há mais de cinco anos;
+
+b) Sejam de montante superior a (euro) 10 000, por sociedade;
+
+c) A participação social detida pelo subscritor, após a subscrição e durante os três anos subsequentes, não corresponda a mais de 30 % do capital ou dos direitos de voto da sociedade;
+
+d) A participação social subscrita seja mantida durante, pelo menos, 48 meses;
+
+e) A percentagem do capital e dos direitos de voto detida por sociedades e outras pessoas coletivas, quer na data da subscrição quer nos três anos anteriores, seja inferior a 50 %; e
+
+f) As entradas sejam efetivamente utilizadas, até ao fim do terceiro período de tributação posterior ao da subscrição, em despesas de investigação ou desenvolvimento, na aquisição de ativos intangíveis ou na aquisição de ativos fixos tangíveis, com exceção de terrenos, edifícios, viaturas ligeiras de passageiros ou mistas, mobiliário e equipamentos sociais.
+
+5 - São elegíveis, para efeitos do benefício fiscal previsto neste artigo, os investimentos realizados em empresas que cumulativamente reúnam os seguintes requisitos:
+
+a) Sejam qualificadas como micro ou pequena empresa, de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho;
+
+b) Não tenham mais do que 20 trabalhadores e não detenham bens e direitos sobre bens imóveis cujo valor global exceda (euro) 200 000;
+
+c) Não estejam cotadas em mercado regulamentado ou não regulamentado de bolsa de valores;
+
+d) Tenham a sua situação fiscal e contributiva regularizada;
+
+e) Sejam certificadas pela Rede Nacional de Incubadoras.
+
+6 - As mais-valias que resultem da alienação onerosa das participações sociais correspondentes a investimentos elegíveis que tenham beneficiado da dedução prevista no n.º 1, desde que detidas durante, pelo menos, 48 meses, não são consideradas no saldo a que se refere o n.º 1 do artigo 43.º do Código do IRS caso o sujeito passivo reinvista, no ano da realização ou no ano subsequente, a totalidade dos respetivos valores de realização em investimentos elegíveis nos termos do n.º 4.
+
+7 - No caso de se verificar apenas o reinvestimento parcial do valor de realização, o disposto no número anterior aplica-se à parte da mais-valia realizada proporcionalmente correspondente ao valor reinvestido.
+
+8 - Para efeitos do disposto nos n.os 6 e 7, os sujeitos passivos devem mencionar a intenção de efetuar o reinvestimento na declaração do ano de realização, indicando na mesma e na declaração do ano seguinte, os investimentos efetuados.
+
+9 - No caso de incumprimento do disposto na alínea f) do n.º 4 é adicionado ao IRC da sociedade participada relativo 3.º período de tributação posterior ao da subscrição uma importância correspondente a 30 % do montante das entradas que não tenham sido utilizadas para os fins previstos naquela alínea.
+
+10 - O benefício fiscal previsto no n.º 1 está sujeito às regras europeias aplicáveis em matéria de auxílios de minimis, não podendo o montante dos investimentos elegíveis exceder o limiar de minimis.
+
+11 - Não são aplicáveis ao benefício fiscal previsto no presente artigo os limites previstos no n.º 7 do artigo 78.º do Código do IRS.
+
+###### Artigo 43.º-B — Incentivos à recapitalização das empresas
+
+1 - O sujeito passivo do IRS que realize entradas de capital em dinheiro a favor de uma sociedade na qual detenha uma participação social poderá deduzir até 20 % dessas entradas ao montante bruto dos lucros colocados à disposição por essa sociedade ou, no caso de alienação dessa participação, ao saldo apurado entre as mais-valias e menos-valias realizadas nos termos da alínea b) do n.º 1 do artigo 10.º do Código do IRS.
+
+2 - A dedução a que se refere o número anterior verificar-se-á no apuramento do rendimento tributável relativo ao ano em que sejam realizadas as entradas mencionadas e nos cinco anos seguintes.
+
+3 - O disposto no presente artigo não se aplica às entradas em entidades sujeitas à supervisão do Banco de Portugal ou da Autoridade de Supervisão de Seguros e Fundos de Pensões, nem em sucursais em Portugal de instituições de crédito, de outras instituições financeiras ou de empresas de seguros.
+
+> Alterado pelo/a Artigo 91.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Aditado pelo/a Artigo 264.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+###### Artigo 43.º-C — Incentivo fiscal à aquisição de participações sociais de startups
+
+1 - Os ganhos previstos no n.º 7) da alínea b) do n.º 3 do artigo 2.º do Código do IRS são apenas tributados, sem prejuízo da sua qualificação como rendimentos de trabalho dependente, ao abrigo do presente regime e considerados em 50 % do seu valor quando o plano seja atribuído por entidade que, no ano anterior à aprovação do plano, ou no ano de aprovação do plano caso este seja o primeiro ano de atividade da empresa, seja reconhecida como startup, nos termos do regime legal em vigor, e preencha pelo menos um dos requisitos previstos no número seguinte.
+
+2 - São ainda abrangidos pelo disposto no número anterior os ganhos nele referido que sejam atribuídos por entidade relativamente à qual, no ano anterior à aprovação do plano, se verifique uma das seguintes condições:
+
+a) Seja qualificada como micro, pequena ou média empresa ou como empresa de pequena-média capitalização, de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro; ou
+
+b) Desenvolva a sua atividade no âmbito da inovação, considerando-se como tal as entidades que tenham incorrido em despesas com investimento em investigação e desenvolvimento (I&D), patentes, desenhos ou modelos industriais ou programas de computador equivalentes a pelo menos 10 % dos seus gastos ou volume de negócios.
+
+3 - Para efeitos da alínea b) do número anterior, consideram-se despesas com I&D as previstas nas alíneas a) e b) do artigo 36.º do Código Fiscal do Investimento.
+
+4 - A tributação nos termos do presente artigo depende da manutenção dos direitos subjacentes aos títulos geradores dos ganhos ou dos direitos equivalentes, ainda que de natureza ideal, por um período mínimo de um ano, sendo os ganhos tributados no primeiro dos seguintes momentos:
+
+a) Alienação dos valores mobiliários ou direitos equiparados adquiridos por via do exercício da opção, sendo apurados pela diferença positiva entre o valor de realização e o preço de exercício da opção ou direito, acrescido do que haja sido pago para aquisição dessa opção ou direito;
+
+b) Perda da qualidade de residente em território português, reportando-se ao momento do exercício da opção ou direito, sendo apurados nos termos do n.º 4 do artigo 24.º do Código do IRS;
+
+c) Transmissão gratuita dos valores mobiliários ou direitos equiparados adquiridos por via do exercício ou subscrição da opção, ou do direito de efeito equivalente, sendo apurados pela diferença positiva entre o valor determinado nos termos do artigo 45.º do Código do IRS e o preço do exercício ou subscrição, acrescido do que eventualmente haja sido pago para a aquisição dessa opção ou direito.
+
+5 - Os rendimentos apurados nos termos da alínea b) do número anterior ficam parcialmente isentos de IRS até ao montante correspondente a 20 vezes o valor do indexante dos apoios sociais, sendo englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos.
+
+6 - A isenção prevista no número anterior só pode ser utilizada uma vez pelo sujeito passivo.
+
+7 - Os trabalhadores ou membros de órgãos sociais das startups, nos termos do regime legal em vigor, e das restantes entidades abrangidas pelo presente regime podem solicitar por escrito à entidade que atribuiu as opções ou direitos referidos nos números anteriores a confirmação de que a mesma reunia as condições previstas nos n.os 1 ou 2.
+
+8 - Quando, na sequência de pedido efetuado nos termos do número anterior, a entidade que atribuiu as opções ou direitos referidos no n.º 1 confirme, por escrito, que reunia as condições referidas, ou não responda por escrito a esse pedido no prazo de 90 dias, a mesma é subsidiariamente responsável pelo pagamento do imposto em falta resultante do não cumprimento daquelas condições.
+
+9 - Estão excluídos do presente benefício os sujeitos passivos que detenham, direta ou indiretamente, uma participação não inferior a 20 % do capital social ou dos direitos de voto da entidade atribuidora do plano.
+
+10 - O disposto no número anterior não é aplicável a entidades que, no ano anterior à aprovação do plano, sejam qualificadas como startup, nos termos da legislação em vigor, ou como micro ou pequena empresa, de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.
+
+11 - Para efeitos do disposto no n.º 1, é aplicável, com as necessárias adaptações, o n.º 10 do artigo 2.º do Código do IRS.
+
+> Nota: [Artigo 12.º, Lei n.º 21/2023 - Diário da República n.º 101/2023, Série I de 2023-05-25](https://diariodarepublica.pt/dr/detalhe/lei/21-2023-213498830) As alterações aopresente artigo, aplicam-se igualmente a planos aprovados até 31 de dezembro de 2022, desde que atribuídos por entidades que, no prazo de 12 meses após a entrada em vigor da presente lei, sejam reconhecidas como startup, nos termos do regime legal em vigor, ou, possam demonstrar que na data da aprovação do plano eram qualificadas como startup.
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 21/2023 - Diário da República n.º 101/2023, Série I de 2023-05-25](https://diariodarepublica.pt/dr/detalhe/lei/21-2023-213498830), em vigor a partir de 2023-05-26, produz efeitos a partir de 2023-01-01
+
+> Aditado pelo/a Artigo 264.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+###### Artigo 43.º-D — Regime fiscal de incentivo à capitalização das empresas
+
+1 - Na determinação do lucro tributável das sociedades comerciais ou civis sob forma comercial, cooperativas, empresas públicas, e demais pessoas coletivas de direito público ou privado com sede ou direção efetiva em território português pode ser deduzida uma importância correspondente à aplicação da taxa Euribor a 12 meses, que corresponda à média do período de tributação, calculada tendo por base o último dia de cada mês, adicionada de um spread de 2 pontos percentuais, ao montante dos aumentos líquidos dos capitais próprios elegíveis.
+
+2 - (Revogado.)
+
+3 - Para efeitos da dedução prevista no n.º 1, o montante dos aumentos líquidos dos capitais próprios elegíveis deve ser apurado por referência ao somatório dos valores apurados no próprio exercício e em cada um dos seis períodos de tributação anteriores, considerando-se que o montante dos aumentos líquidos dos capitais próprios elegíveis corresponde a zero nas situações em que desse somatório resulte uma diferença negativa.
+
+4 - A dedução prevista nos números anteriores não pode exceder, em cada período de tributação, o maior dos seguintes limites:
+
+a) 4 000 000 (euro); ou
+
+b) 30 % do resultado antes de depreciações, amortizações, gastos de financiamento líquidos e impostos, nos termos do artigo 67.º do Código do IRC.
+
+5 - A parte da dedução que exceda o limite previsto na alínea b) do número anterior é dedutível na determinação do lucro tributável de um ou mais dos cinco períodos de tributação posteriores, após a dedução relativa a esse mesmo período, com os limites previstos no número anterior.
+
+6 - Sem prejuízo do disposto no n.º 8, para efeitos do presente regime considera-se:
+
+a) «Aumentos de capitais próprios elegíveis»:
+
+i) As entradas realizadas em dinheiro no âmbito da constituição de sociedades ou do aumento do capital social da sociedade beneficiária;
+
+ii) As entradas em espécie realizadas no âmbito de aumento do capital social que correspondam à conversão de créditos em capital;
+
+iii) Os prémios de emissão de participações sociais;
+
+iv) A aplicação dos lucros contabilísticos passíveis de distribuição, de acordo com a legislação comercial, em resultados transitados ou, diretamente, em reservas ou no aumento do capital;
+
+b) 'Aumentos líquidos dos capitais próprios elegíveis', a diferença, positiva ou negativa, entre:
+
+i) Os aumentos dos capitais próprios elegíveis; e,
+
+ii) As saídas, em dinheiro ou em espécie, a favor dos titulares do capital, a título de redução do mesmo ou de partilha do património, e as distribuições de reservas ou resultados transitados.
+
+7 - O disposto no presente artigo aplica-se exclusivamente aos sujeitos passivos que, no exercício em causa, exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola e que preencham, cumulativamente, as seguintes condições:
+
+a) Não sejam entidades sujeitas à supervisão do Banco de Portugal ou da Autoridade de Supervisão de Seguros e Fundos de Pensões, nem sucursais em Portugal de instituições de crédito, de outras instituições financeiras ou de empresas de seguros;
+
+b) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;
+
+c) O seu lucro tributável não seja determinado por métodos indiretos; e
+
+d) Tenham a situação fiscal e contributiva regularizada.
+
+8 - Para efeitos do presente regime não são considerados os aumentos de capitais próprios elegíveis que resultem de:
+
+a) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital da sociedade beneficiária, que sejam financiadas por aumentos de capitais próprios elegíveis na esfera de outra entidade;
+
+b) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital da sociedade beneficiária por entidade com a qual o sujeito passivo esteja em situação de relações especiais que sejam financiadas através de mútuos concedidos, no próprio período de tributação ou num dos seis períodos de tributação anteriores, pelo próprio sujeito passivo ou por outra entidade com a qual essa entidade e o sujeito passivo estejam em situação de relações especiais, presumindo-se, nestes casos, que os aumentos de capital foram financiados por esses mútuos, exceto se o sujeito passivo comprovar que estes se destinaram a outros fins;
+
+c) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital da sociedade beneficiária, por uma entidade que não seja residente para efeitos fiscais noutro Estado-Membro da União Europeia ou no Espaço Económico Europeu ou noutro Estado ou jurisdição com o qual esteja em vigor convenção para evitar a dupla tributação internacional, acordo bilateral ou multilateral que preveja a troca de informações para fins fiscais.
+
+9 - Para efeitos do apuramento a que se refere o n.º 3, apenas se consideram os aumentos líquidos dos capitais próprios elegíveis verificados nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2023.
+
+> Nota: [Artigo 252.º, Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192) Para efeitos do disposto no presente artigo, apenas se consideram os aumentos líquidos dos capitais próprios que ocorram nos períodos de tributação que se iniciem em, ou após, 1 de janeiro de 2023.
+
+> Alterado pelo/a Artigo 91.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), em vigor a partir de 2023-05-18, produz efeitos a partir de 2023-07-01
+
+> Aditado pelo/a Artigo 251.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+### Capítulo VII — Benefícios fiscais relativos a imóveis
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 44.º — Isenções
+
+1 - Estão isentos de imposto municipal sobre imóveis:
+
+a) Os Estados estrangeiros, quanto aos prédios destinados às respectivas representações diplomáticas ou consulares, quando haja reciprocidade;
+
+b) As instituições de segurança social e de previdência, a que se referem artigos 115.º e 126.º da Lei n.º 32/2002, de 20 de Dezembro, quanto aos prédios ou partes de prédios destinados directamente à realização dos seus fins;
+
+c) As associações ou organizações de qualquer religião ou culto às quais seja reconhecida personalidade jurídica, quanto aos templos ou edifícios exclusivamente destinados ao culto ou à realização de fins não económicos com este directamente relacionados;
+
+d) As associações sindicais e as associações de agricultores, de comerciantes, de industriais e de profissionais independentes, quanto aos prédios ou parte de prédios destinados directamente à realização dos seus fins;
+
+e) As pessoas colectivas de utilidade pública administrativa e as de mera utilidade pública, quanto aos prédios ou parte de prédios destinados directamente à realização dos seus fins;
+
+f) As instituições particulares de solidariedade social e as pessoas colectivas a elas legalmente equiparadas, quanto aos prédios ou parte de prédios destinados directamente à realização dos seus fins, salvo no que respeita às misericórdias, caso em que o benefício abrange quaisquer imóveis de que sejam proprietárias;
+
+g) As entidades licenciadas ou que venham a ser licenciadas para operar no âmbito institucional da Zona Franca da Madeira e da Zona Franca da ilha de Santa Maria, quanto aos prédios ou parte de prédios destinados directamente à realização dos seus fins;
+
+h) Os estabelecimentos de ensino particular integrados no sistema educativo, quanto aos prédios ou parte de prédios destinados directamente à realização dos seus fins;
+
+i) As associações desportivas e as associações juvenis legalmente constituídas, quanto aos prédios ou parte de prédios destinados directamente à realização dos seus fins;
+
+j) Os prédios ou parte de prédios cedidos gratuitamente pelos respectivos proprietários, usufrutuários ou superficiários a entidades públicas isentas de imposto municipal sobre imóveis enumeradas no artigo 11.º do respectivo Código, ou a entidades referidas nas alíneas anteriores, para o prosseguimento directo dos respectivos fins;
+
+l) As sociedades de capitais exclusivamente públicos, quanto aos prédios cedidos a qualquer título ao Estado ou a outras entidades públicas, no exercício de uma actividade de interesse público;
+
+m) As colectividades de cultura e recreio, as organizações não governamentais e outro tipo de associações não lucrativas, a quem tenha sido reconhecida utilidade pública, relativamente aos prédios utilizados como sedes destas entidades, e mediante deliberação da assembleia municipal da autarquia onde os mesmos se situem, nos termos previstos pelo n.º 2 do artigo 12.º da Lei n.º 2/2007, de 15 de Janeiro;
+
+n) Os prédios classificados como monumentos nacionais e os prédios individualmente classificados como de interesse público ou de interesse municipal, nos termos da legislação aplicável.
+
+o) As entidades públicas empresariais responsáveis pela rede pública de escolas, quanto aos prédios ou parte de prédios destinados directamente ou indirectamente à realização dos seus fins.
+
+p) Os prédios exclusivamente afetos à atividade de abastecimento público de água às populações, de saneamento de águas residuais urbanas e de sistemas municipais de gestão de resíduos urbanos.
+
+q) Os prédios ou parte de prédios afetos a lojas com história, reconhecidos pelo município como estabelecimentos de interesse histórico e cultural ou social local e que integrem o inventário nacional dos estabelecimentos e entidades de interesse histórico e cultural ou social local, nos termos previstos na Lei n.º 42/2017, de 14 de junho.
+
+2 - As isenções a que se refere o número anterior iniciam-se:
+
+a) Relativamente às situações previstas nas alíneas a) a d), g) a i), m) e p), no ano, inclusive, em que o prédio ou parte do prédio for destinado aos fins nelas referidos;
+
+b) Relativamente às situações previstas nas alíneas e) e f), a partir do ano, inclusive, em que se constitua o direito de propriedade;
+
+c) Nos casos previstos nas alíneas j) e l), no ano, inclusive, em que se verifique a cedência;
+
+d) Relativamente às situações previstas na alínea n), no ano, inclusive, em que ocorra a classificação ou se verifique o reconhecimento da isenção pelo município, consoante os casos;
+
+e) Relativamente às situações previstas na alínea q) no ano em que se verifique o reconhecimento pelo município e a integração no inventário nacional dos estabelecimentos e entidades de interesse histórico e cultural ou social local.
+
+3 - A isenção a que se refere a alínea a) do n.º 1 é reconhecida por despacho do Ministro das Finanças, a requerimento das entidades interessadas.
+
+4 - As isenções a que se refere a alínea b) do n.º 2 são reconhecidas oficiosamente, desde que se verifique a inscrição na matriz em nome das entidades beneficiárias, que os prédios se destinem directamente à realização dos seus fins e que seja feita prova da respectiva natureza jurídica.
+
+5 - A isenção a que se refere a alínea n) do n.º 1 vigora mesmo que os prédios venham a ser transmitidos e é:
+
+a) Automática e comunicada pela Direção-Geral do Património Cultural à Autoridade Tributária e Aduaneira, nos casos das classificações como monumentos nacionais ou como imóveis de interesse público;
+
+b) Dependente de reconhecimento pelo município, nos casos das classificações como imóveis de interesse municipal, operando mediante a comunicação à Autoridade Tributária e Aduaneira, nos termos e prazos previstos no artigo 16.º da Lei n.º 73/2013, de 3 de setembro.
+
+6 - A isenção a que se refere a alínea q) do n.º 1 é automática e é aplicada aos prédios que, de acordo com a comunicação da Direção-Geral das Atividades Económicas à Autoridade Tributária e Aduaneira, integrem o inventário nacional dos estabelecimentos e entidades de interesse histórico e cultural ou social local, vigorando mesmo que os prédios venham a ser transmitidos.
+
+7 - A isenção a que se refere a alínea g) do n.º 1 é reconhecida pelo director-geral dos Impostos, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção.
+
+8 - Nos restantes casos previstos no presente artigo, a isenção é reconhecida pelo chefe do serviço de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos da área da situação do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção ou, quando aplicável, da entrada em vigor da isenção, que, no caso da alínea p) do n.º 1, deve ser uma declaração emitida pelas entidades gestoras daqueles serviços.
+
+9 - Nas situações abrangidas nos n.os 7 e 8, se o pedido for apresentado para além do prazo aí referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação
+
+10 - Os benefícios do n.º 1 cessam:
+
+a) Nos casos das alíneas b) a m), o) e p), logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, aprovado em anexo ao Decreto-Lei n.º 287/2003, de 12 de novembro;
+
+b) Nos casos da alínea n), no ano, inclusive, em que os prédios venham a ser desclassificados ou em que o benefício deixe de estar reconhecido pelo município, ou sejam considerados devolutos ou em ruínas, nos termos do n.º 3 do artigo 112.º e do artigo 112.º-B do Código do Imposto Municipal sobre Imóveis;
+
+c) Nos casos da alínea q), no ano, inclusive, em que os prédios deixem de estar reconhecidos pelo município e integrados no inventário nacional de estabelecimentos e entidades com interesse histórico e cultural ou social local, ou sejam considerados devolutos ou em ruínas, nos termos do n.º 3 do artigo 112.º e do artigo 112.º-B do Código do Imposto Municipal sobre Imóveis.
+
+11 - As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
+
+12 - O benefício previsto na alínea g) do n.º 1 não é aplicável às entidades que exerçam atividades de intermediação financeira, de seguros e às instituições auxiliares de intermediação financeira e de seguros (NACE Rev. 1.1, secção J, códigos 65, 66 e 67) e do tipo «serviços intragrupo»,
+
+designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev. 1.1, secção K, código 74).
+
+13 - O disposto na alínea n) do n.º 1 não é aplicável aos prédios individualmente considerados que integrem conjuntos ou sítios classificados como monumentos nacionais, sem prejuízo dos poderes tributários próprios dos municípios e do reconhecimento e da comunicação pelo município competente à Autoridade Tributária e Aduaneira, nos termos e prazos previstos no artigo 16.º da Lei n.º 73/2013, de 3 de setembro.
+
+###### Artigo 44.º-A — Prédios urbanos destinados à produção de energia a partir de fontes renováveis
+
+1 - Ficam sujeitos a uma redução de 50 % da taxa de imposto municipal sobre imóveis os prédios previstos na alínea d) do n.º 1 do artigo 6.º do Código do Imposto Municipal sobre Imóveis que sejam exclusivamente afetos à produção de energia a partir de fontes renováveis.
+
+2 - A redução de taxa a que se refere o número anterior inicia-se no ano, inclusive, em que se verifique a afetação prevista para efeitos da redução da coleta.
+
+3 - A redução de taxa prevista no n.º 1 é reconhecida pelo chefe do serviço de finanças da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área do prédio, no prazo de 60 dias contados da verificação do facto determinante da redução à coleta.
+
+4 - Na situação abrangida pelo número anterior, se o pedido for apresentado para além do prazo referido, o benefício inicia-se a partir do ano imediato, inclusive, ao da sua apresentação.
+
+A redução de taxa prevista no n.º 1 é aplicável enquanto a afetação à produção de energia a partir de fontes renováveis se mantiver, ficando o sujeito passivo obrigado a comunicar ao serviço de finanças da área do prédio, no prazo de 30 dias contados do facto relevante, o termo dessa afetação.
+
+6 -O benefício previsto no presente artigo é aplicável pelo período de cinco anos
+
+> Retificado pelo/a [Declaração de Retificação n.º 6/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2015-66619889), em vigor a partir de 2015-01-05
+
+> Aditado pelo/a Artigo 10.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05
+
+###### Artigo 44.º-B — Outros benefícios com caráter ambiental atribuídos a imóveis
+
+1 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução até 25 % da taxa do imposto municipal sobre imóveis a vigorar no ano a que respeita o imposto, a aplicar aos prédios urbanos com eficiência energética.
+
+2 - Considera-se haver eficiência energética, para os efeitos do número anterior, nos seguintes casos:
+
+a) Quando tenha sido atribuída ao prédio uma classe energética igual ou superior a A, nos termos do disposto no Decreto-Lei n.º 118/2013, de 20 de agosto;
+
+b) Quando, em resultado da execução de obras de construção, reconstrução, alteração, ampliação e conservação de edifícios, a classe energética atribuída ao prédio seja superior, em pelo menos duas classes, face à classe energética anteriormente certificada; ou
+
+c) Quando o prédio aproveite águas residuais tratadas ou águas pluviais, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
+
+3 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução, até 50 %, da taxa de imposto municipal sobre imóveis que vigorar no ano a que respeita o imposto, a aplicar aos prédios rústicos integrados em áreas classificadas que proporcionem serviços de ecossistema não apropriáveis pelo mercado, desde que sejam reconhecidos como tal pelo Instituto da Conservação da Natureza e das Florestas, I. P.
+
+4 - Os benefícios previstos no n.º 1 e no número anterior iniciam-se no ano, inclusive, da verificação do facto determinante da redução da taxa.
+
+5 - Os benefícios previstos nos n.os 1 e 3 dependem de reconhecimento do chefe do serviço de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 60 dias contados da verificação do facto determinante do referido benefício.
+
+6 - Nas situações abrangidas pelo número anterior, se o pedido for apresentado para além do prazo referido, o benefício inicia-se a partir do ano imediato, inclusive, ao da sua apresentação.
+
+7 - Os benefícios previstos no presente artigo são aplicáveis pelo período de cinco anos.
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 6/2015 - Diário da República n.º 41/2015, Série I de 2015-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2015-66619889), em vigor a partir de 2015-01-05
+
+> Aditado pelo/a Artigo 10.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05
+
+###### Artigo 45.º — Prédios urbanos objecto de reabilitação
+
+1 - Os prédios urbanos ou frações autónomas concluídos há mais de 30 anos ou localizados em áreas de reabilitação urbana beneficiam dos incentivos previstos no presente artigo, desde que preencham cumulativamente as seguintes condições:
+
+a) Sejam objeto de intervenções de reabilitação de edifícios promovidas nos termos do Regime Jurídico da Reabilitação Urbana, aprovado pelo Decreto-Lei n.º 307/2009, de 23 de outubro, ou do regime excecional do Decreto-Lei n.º 53/2014, de 8 de abril;
+
+b) Em consequência da intervenção prevista na alínea anterior, o respetivo estado de conservação esteja dois níveis acima do anteriormente atribuído e tenha, no mínimo, um nível bom nos termos do disposto no Decreto-Lei n.º 266-B/2012, de 31 de dezembro, e sejam cumpridos os requisitos de eficiência energética e de qualidade térmica aplicáveis aos edifícios a que se refere o artigo 30.º do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado pelo Decreto-Lei n.º 194/2015, de 14 de setembro, sem prejuízo do disposto no artigo 6.º do Decreto-Lei n.º 53/2014, de 8 de abril.
+
+2 - Aos imóveis que preencham os requisitos a que se refere o número anterior são aplicáveis os seguintes benefícios fiscais:
+
+a) Isenção do imposto municipal sobre imóveis por um período de três anos a contar do ano, inclusive, da conclusão das obras de reabilitação, podendo ser renovado, a requerimento do proprietário, por mais cinco anos no caso de imóveis afetos a arrendamento para habitação permanente ou a habitação própria e permanente;
+
+b) Isenção do imposto municipal sobre as transmissões onerosas de imóveis nas aquisições de imóveis destinados a intervenções de reabilitação, desde que o adquirente inicie as respetivas obras no prazo máximo de três anos a contar da data de aquisição;
+
+c) Isenção do imposto municipal sobre as transmissões onerosas de imóveis na primeira transmissão, subsequente à intervenção de reabilitação, a afetar a arrendamento para habitação permanente ou, quando localizado em área de reabilitação urbana, também a habitação própria e permanente;
+
+d) Redução a metade das taxas devidas pela avaliação do estado de conservação a que se refere a alínea b) do n.º 1.
+
+3 - Os benefícios referidos nas alíneas a), b) e c) do número anterior não prejudicam a liquidação e cobrança dos respetivos impostos, nos termos gerais.
+
+4 - O reconhecimento da intervenção de reabilitação para efeito de aplicação do disposto no presente artigo deve ser requerido conjuntamente com a comunicação prévia ou com o pedido de licença da operação urbanística, cabendo à câmara municipal competente ou, se for o caso, à entidade gestora da reabilitação urbana comunicar esse reconhecimento ao serviço de finanças da área da situação do edifício ou fração, no prazo máximo de 20 dias a contar da data da determinação do estado de conservação resultante das obras ou da emissão da respetiva certificação energética, se esta for posterior.
+
+5 - A anulação das liquidações de imposto municipal sobre imóveis e de imposto municipal sobre as transmissões onerosas de imóveis e as correspondentes restituições são efetuadas pelo serviço de finanças no prazo máximo de 15 dias a contar da comunicação prevista na parte final do número anterior.
+
+6 - A prorrogação da isenção prevista na alínea a) do n.º 2 está dependente de deliberação da assembleia municipal, sob proposta da câmara municipal, nos termos do n.º 2 do artigo 16.º do Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais, sendo o respetivo reconhecimento efetuado pela câmara municipal nos termos do n.º 4 do presente artigo.
+
+7 - O regime previsto no presente artigo não é cumulativo com outros benefícios fiscais de idêntica natureza, não prejudicando, porém, a opção por outro mais favorável.
+
+8 - A isenção prevista na alínea c) do n.º 2 fica sem efeito se:
+
+a) Aos imóveis for dado destino diferente daquele em que assentou o benefício, no prazo de seis anos a contar da data da transmissão; ou
+
+b) Os imóveis não forem afetos a habitação própria e permanente no prazo de seis meses a contar da data da transmissão; ou
+
+c) Os imóveis não forem objeto da celebração de um contrato de arrendamento para habitação permanente no prazo de um ano a contar da data da transmissão.
+
+9 - No caso de a isenção ficar sem efeito, nos termos do disposto no número anterior, o sujeito passivo deve solicitar à Autoridade Tributária e Aduaneira a liquidação do respetivo imposto, no prazo de 30 dias, através de declaração de modelo oficial.
+
+> Alterado pelo/a Artigo 305.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 287/2003 - Diário da República n.º 262/2003, Série I-A de 2003-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), em vigor a partir de 2004-01-01, produz efeitos a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, Suplemento n.º 2, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, Suplemento n.º 2, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 65/90 - Diário da República n.º 298/1990, Suplemento n.º 3, Série I de 1990-12-28](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), em vigor a partir de 1991-01-02
+
+###### Artigo 45.º-A — Prédios urbanos destinados ao Programa de Apoio ao Arrendamento
+
+1 - Ficam isentas de imposto municipal sobre as transmissões onerosas de imóveis as aquisições de terrenos para construção destinados à construção de imóveis habitacionais que preencham, cumulativamente, os seguintes requisitos:
+
+a) Pelo menos 700/1000 dos prédios em propriedade horizontal, ou a totalidade dos prédios em propriedade total ou frações autónomas, sejam afetos ao Programa de Apoio ao Arrendamento, independentemente do promotor, desde que certificadas pelo IHRU, I. P., ou, quando promovidas na Região Autónoma da Madeira ou na Região Autónoma dos Açores, pela IHM - Investimentos Habitacionais da Madeira, EPERAM, ou pela Direção Regional da Habitação dos Açores, respetivamente;
+
+b) O procedimento de controlo prévio para obras de construção, nos termos definidos na alínea b) do artigo 2.º do Regime Jurídico da Urbanização e da Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, de imóveis com afetação habitacional seja iniciado junto da entidade competente no prazo de dois anos após a aquisição.
+
+2 - Aos prédios urbanos ou frações autónomas adquiridos, reabilitados ou construídos para afetação ao Programa de Apoio ao Arrendamento são aplicáveis os seguintes benefícios fiscais:
+
+a) Isenção do imposto municipal sobre imóveis por um período de três anos a contar do ano da aquisição, inclusive, podendo ser renovado, a requerimento do proprietário, por mais cinco anos; e
+
+b) Isenção de imposto municipal sobre as transmissões onerosas de imóveis.
+
+3 - As isenções previstas nos números anteriores ficam sem efeito se:
+
+a) Aos imóveis for dado destino diferente daquele em que assentou o benefício, no prazo de cinco anos a contar da data da transmissão, ou, no caso de renovação do benefício previsto na parte final da alínea a) do n.º 2, no prazo de 10 anos; ou
+
+b) Os imóveis não forem objeto da celebração de um contrato de arrendamento no âmbito do Programa de Apoio ao Arrendamento no prazo de seis meses a contar da data da transmissão.
+
+4 - Para efeitos da contagem dos prazos previstos na alínea a) do número anterior, considera-se que o imóvel mantém a sua afetação ao Programa de Apoio ao Arrendamento se, em caso de cessação do contrato de arrendamento, for celebrado novo contrato no âmbito do mesmo programa no prazo de três meses.
+
+5 - Aos benefícios referidos nos n.os 1 e 2 aplica-se o disposto nos n.os 3, 5, 7 e 8 do artigo anterior.
+
+6 - Os benefícios fiscais previstos nos n.os 1 e 2 aplicam-se ainda a imóveis adquiridos, reabilitados ou construídos, afetos ao arrendamento, no âmbito de programas habitacionais promovidos pelas entidades com competência na área da habitação nas Regiões Autónomas.
+
+> Aditado pelo/a Artigo 29.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 45.º-B — Aquisição de habitações de custos controlados
+
+1 - À primeira aquisição de prédio urbano ou de fração autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente, e quando se trate de habitações de custos controlados, nos termos previstos em regime próprio, são aplicáveis os seguintes benefícios:
+
+a) Isenção de IMT nas aquisições cujo valor que serviria de base à liquidação não exceda o valor máximo do 1.º escalão a que se refere a alínea b) do n.º 1 do artigo 17.º Código do IMT;
+
+b) Aplicação das taxas referidas na alínea b) do n.º 1 do artigo 17.º do Código do IMT, nos termos dos n.os 2, 3, 5, 6 e 9 do mesmo artigo, às aquisições cujo valor exceda o valor máximo referido na alínea anterior.
+
+2 - As aquisições previstas no número anterior beneficiam de uma dedução à coleta da verba 1.1 da TGIS, até à sua concorrência, com o limite resultante da aplicação da referida verba ao limite superior do 1.º escalão da tabela prevista na alínea b) do n.º 1 do artigo 17.º do Código do IMT.
+
+3 - Ficam excluídos dos benefícios previstos nos números anteriores os sujeitos passivos que sejam titulares de direito de propriedade, ou de figura parcelar desse direito, sobre prédio urbano habitacional, à data da transmissão ou em qualquer momento nos três anos anteriores.
+
+4 - Nos casos previstos na alínea b) do n.º 6 do artigo 17.º do Código do IMT e nas permutas de imóveis, o limite estabelecido no n.º 2 é reduzido proporcionalmente à quota-parte ou direito adquiridos, ou à diferença de valores, respetivamente.
+
+5 - A verificação dos pressupostos das isenções e o apuramento do IMT e do imposto do selo, relativos às aquisições previstas no n.º 1, de imóveis que venham a constituir bem comum de um casal, são efetuados individualmente em relação a cada cônjuge em partes iguais, devendo cada um apresentar uma declaração prevista no n.º 1 do artigo 19.º do Código do IMT.
+
+6 - Os benefícios previstos no presente artigo caducam caso se verifique alguma das situações previstas no n.º 8 do artigo 11.º do Código do IMT.
+
+7 - A aplicação dos benefícios previstos no n.º 1 depende de deliberação da assembleia municipal, sob proposta da câmara municipal, nos termos dos n.os 2 e 3 do artigo 16.º do Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais, aprovado pela Lei n.º 73/2013, de 3 de setembro.
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 97/2026 - Diário da República n.º 97/2026, Série I de 2026-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), em vigor a partir de 2026-05-25.
+
+###### Artigo 45.º-C — Rendimentos prediais no âmbito do arrendamento para habitação
+
+1 - A taxa de tributação autónoma aplicável aos rendimentos prediais decorrentes de contratos de arrendamento destinados exclusivamente ao arrendamento para habitação cujo valor de renda mensal não exceda os limites a que se referem os n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio, auferidos até 31 de dezembro de 2029, é de 10 %, salvo quando seja aplicável uma taxa mais favorável.
+
+2 - Os rendimentos prediais decorrentes de contratos de arrendamento destinados exclusivamente ao arrendamento para habitação com renda mensal que não exceda os limites a que se referem os n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio, auferidos até 31 de dezembro de 2029, são considerados apenas em 50 %, quando obtidos por sujeitos passivos de IRC, ou por sujeitos passivos de IRS, com contabilidade organizada, no âmbito da categoria B.»
+
+> pelo/a Artigo 9.º do/a [Decreto-Lei n.º 97/2026 - Diário da República n.º 97/2026, Série I de 2026-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), em vigor a partir de 2026-05-25, com efeitos a partir de 2026-01-01.
+
+###### Artigo 46.º — Prédios urbanos construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados a habitação
+
+1 - Ficam isentos de imposto municipal sobre imóveis, nos termos do n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos a título oneroso, destinados à habitação própria e permanente do sujeito passivo ou do seu agregado familiar, cujo rendimento bruto total do agregado familiar, no ano anterior, não seja superior a 153 300 (euro), e que sejam efetivamente afetos a tal fim, no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser apresentado pelos sujeitos passivos até ao termo dos 60 dias subsequentes àquele prazo, exceto nas situações constantes da alínea a) do n.º 6.
+
+2 - A isenção a que se refere o número anterior abrange os arrumos, despensas e garagens, ainda que fisicamente separados, mas integrando o mesmo edifício ou conjunto habitacional, desde que utilizados exclusivamente pelo proprietário, inquilino ou seu agregado familiar, como complemento da habitação isenta.
+
+3 - Ficam igualmente isentos, nos termos do n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação permanente do inquilino, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
+
+4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveita apenas ao valor patrimonial tributário correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta, para a determinação dos respectivos limite e período de isenção, a totalidade do valor patrimonial tributário do prédio após o aumento derivado de tais ampliações ou melhoramentos.
+
+5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é de três anos, aplicável a prédios urbanos cujo valor patrimonial tributário não exceda 125 000 (euro), prorrogáveis por mais dois, mediante deliberação da assembleia municipal, que deve ser comunicada à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, até 31 de dezembro, para vigorar no ano seguinte.
+
+6 - Nos casos previstos no presente artigo, a isenção é:
+
+a) Automática, nas situações de aquisição onerosa a que se refere o n.º 1, com base nos elementos de que a Autoridade Tributária e Aduaneira disponha;
+
+b) Reconhecida, nos demais casos, pelo chefe do serviço de finanças da área da situação do prédio, em requerimento devidamente documentado.
+
+7 - Se a afetação a habitação própria e permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo previsto no n.º 1 e, nas situações dependentes de reconhecimento, se o pedido for apresentado fora do prazo, a isenção inicia-se no ano da afetação ou do pedido, respetivamente, cessando, todavia, no ano em que findaria se os prazos tivessem sido cumpridos.
+
+8 - Os benefícios fiscais a que se refere este artigo cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto no n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis.
+
+9 - Para efeitos do disposto no presente artigo, considera-se ter havido afectação dos prédios ou partes de prédios à habitação própria e permanente do sujeito passivo ou do seu agregado familiar se aí se fixar o respectivo domicílio fiscal.
+
+10 - O disposto nos n.os 1 e 3 não é aplicável quando os prédios ou parte de prédios tiverem sido construídos de novo, ampliados, melhorados ou adquiridos a título oneroso por entidades que tenham o domicílio em países, territórios ou regiões sujeito a um regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças.
+
+11 - A isenção prevista nos n.os 1 e 2 só pode ser reconhecida duas vezes ao mesmo sujeito passivo ou agregado familiar.
+
+12 - A isenção prevista no n.º 3 pode ser reconhecida ao mesmo sujeito passivo por cada prédio ou fracção autónoma destinada ao fim nele prevista.
+
+13 - Podem beneficiar da isenção prevista neste artigo os emigrantes, na definição que lhes é dada pelo artigo 3.º do Decreto-Lei n.º 323/95, de 29 de Novembro, desde que verificados os condicionalismos previstos, salvo quanto ao prazo para a respectiva afectação do imóvel a sua habitação própria e permanente ou do respectivo agregado familiar.
+
+> Nota: [Artigo 51.º, Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692) O disposto no n.º 5 do presente artigo, na redação dada pela presente Lei n.º 56/2023, de 6 de outubro, aplica-se aos prédios ou parte de prédios urbanos habitacionais cuja construção, ampliação, melhoramento ou aquisição a título oneroso tenha ocorrido no ano de 2022 ou que, tendo ocorrido em momento anterior, tenham beneficiado da isenção prevista no n.º 1 em 2022, sendo nesses casos deduzido ao período de duração da isenção os anos já transcorridos.
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 28.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+> Alterado pelo/a Artigo 305.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 206.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 64/2008 - Diário da República n.º 236/2008, Série I de 2008-12-05](https://diariodarepublica.pt/dr/detalhe/lei/64-2008-440498), em vigor a partir de 2008-12-06
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 82.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, Suplemento n.º 2, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, Suplemento n.º 2, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, Suplemento n.º 1, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 65/90 - Diário da República n.º 298/1990, Suplemento n.º 3, Série I de 1990-12-28](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), em vigor a partir de 1991-01-02
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 46.º-A — Arrendamentos para habitação celebrados antes do Regime do Arrendamento Urbano
+
+1 - Ficam isentos de tributação em IRS, pelo período de duração dos respetivos contratos, os rendimentos prediais tributados no âmbito da categoria F, obtidos no âmbito de contrato de arrendamento para habitação celebrados antes da entrada em vigor do Regime do Arrendamento Urbano (RAU), aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro, e sujeitos ao regime previsto nos artigos 35.º ou 36.º do Novo Regime do Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro.
+
+2 - Ficam isentos de IMI, pelo mesmo período, os imóveis objeto dos contratos referidos no número anterior.
+
+> Aditado pelo/a Artigo 263.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+###### Artigo 47.º — Prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística
+
+1 - Ficam isentos de imposto municipal sobre imóveis, por um período de sete anos, os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística.
+
+2 - Os prédios integrados em empreendimentos a que tenha sido atribuída a utilidade turística a título prévio beneficiam da isenção prevista no número anterior, a partir da data da atribuição da utilidade turística, desde que tenha sido observado o prazo fixado para a abertura ou reabertura ao público do empreendimento ou para o termo das obras.
+
+3 - Os prédios urbanos afectos ao turismo de habitação beneficiam de isenção de imposto municipal sobre imóveis, por um período de sete anos contado a partir do termo das respectivas obras.
+
+4 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no prazo de 60 dias contados da data da publicação do despacho de atribuição da utilidade turística.
+
+5 - Se o pedido for apresentado para além do prazo referido no número anterior, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando, porém, no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
+
+6 - Em todos os aspectos que não estejam regulados no presente artigo ou no Código do Imposto Municipal sobre Imóveis aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 423/83, de 5 de Dezembro.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 109.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 48.º — Prédios de reduzido valor patrimonial de sujeitos passivos de baixos rendimentos
+
+1 - Ficam isentos de imposto municipal sobre imóveis os prédios rústicos e o prédio ou parte de prédio urbano destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, e que seja efetivamente afeto a tal fim, desde que o rendimento bruto total do agregado familiar não seja superior a 2,3 vezes o valor anual do IAS e o valor patrimonial tributário global da totalidade dos prédios rústicos e urbanos pertencentes ao agregado familiar não exceda 10 vezes o valor anual do IAS.
+
+2 - Para efeitos do disposto no número anterior, os rendimentos do agregado familiar são os do ano anterior àquele a que respeita a isenção.
+
+3 - O rendimento referido no n.º 1 é determinado individualmente sempre que, no ano do pedido da isenção, o sujeito passivo já não integre o agregado familiar a que se refere o número anterior.
+
+4 - As isenções a que se refere o n.º 1 são automáticas, sendo reconhecidas oficiosamente e com uma periodicidade anual pela Autoridade Tributária e Aduaneira, a partir da data da aquisição dos prédios ou da data da verificação dos respetivos pressupostos.
+
+5 - O não cumprimento atempado, pelo sujeito passivo ou pelos membros do seu agregado familiar, das suas obrigações declarativas em sede de IRS e de IMI, determina a não atribuição das isenções previstas no n.º 1.
+
+6 - A isenção a que se refere o n.º 1 abrange os arrumos, despensas e garagens, ainda que fisicamente separados, mas integrando o mesmo edifício ou conjunto habitacional, desde que utilizados exclusivamente pelo proprietário ou seu agregado familiar, como complemento da habitação isenta.
+
+7 - Em caso de compropriedade, o valor patrimonial tributário global a que alude o n.º 1 é o que, proporcionalmente, corresponder à quota do sujeito passivo e dos restantes membros do seu agregado familiar.
+
+> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 217.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 218.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 119.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 36/91 - Diário da República n.º 171/1991, Série I-A de 1991-07-27](https://diariodarepublica.pt/dr/detalhe/lei/36-1991-691435), em vigor a partir de 1991-08-01
+
+> Alterado pelo/a Artigo 29.º do/a [Lei n.º 65/90 - Diário da República n.º 298/1990, Suplemento n.º 3, Série I de 1990-12-28](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), em vigor a partir de 1991-01-02
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 95/90 - Diário da República n.º 66/1990, Série I de 1990-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1990-333296), em vigor a partir de 1990-03-25
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 49.º — Fundos de investimento imobiliário, fundos de pensões e fundos de poupança-reforma
+
+1 - São reduzidas para metade as taxas de imposto municipal sobre imóveis e de imposto municipal sobre as transmissões onerosas de imóveis aplicáveis aos prédios integrados em fundos de investimento imobiliário abertos ou fechados de subscrição pública, em fundos de pensões e em fundos de poupança-reforma que se constituam e operem de acordo com a legislação nacional.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 215.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 206.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 119.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 109.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, Suplemento n.º 1, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-11-30
+
+> Alterado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505235), em vigor a partir de 1989-10-31
+
+###### Artigo 50.º — Parques de estacionamento subterrâneos
+
+1 - Ficam isentos de imposto municipal sobre imóveis, por um período de 25 anos, os prédios urbanos afectos exclusivamente a parques de estacionamento subterrâneos públicos, declarados de utilidade municipal por deliberação da respectiva assembleia municipal, nos termos previstos pelo n.º 2 do artigo 12.º da Lei n.º 2/2007, de 15 de Janeiro.
+
+2 - A isenção prevista no número anterior é reconhecida pelo chefe de finanças da área da situação dos prédios, mediante requerimento devidamente fundamentado, e documentado com a declaração de utilidade municipal, que deve ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da data da conclusão das obras.
+
+3 - Se o pedido de isenção for apresentado para além do prazo referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 43/2018 - Diário da República n.º 153/2018, Série I de 2018-08-09](https://diariodarepublica.pt/dr/detalhe/lei/43-2018-115946548), em vigor a partir de 2018-08-10, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, Suplemento n.º 2, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, Suplemento n.º 2, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/94 - Diário da República n.º 164/1994, Série I-A de 1994-07-18](https://diariodarepublica.pt/dr/detalhe/lei/24-1994-298873), em vigor a partir de 1994-07-23
+
+> Alterado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, Suplemento n.º 1, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-11-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142-B/91 - Diário da República n.º 83/1991, Suplemento n.º 1, Série I-A de 1991-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-b-1991-322324), em vigor a partir de 1991-04-15
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+### Capítulo VIII — Outros benefícios fiscais
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 51.º — Empresas armadoras da marinha mercante nacional
+
+Às empresas armadoras da marinha mercante nacional são concedidos os seguintes benefícios fiscais:
+
+a) Tributação dos lucros, resultantes exclusivamente da actividade de transporte marítimo, incidindo apenas sobre 30 % dos mesmos;
+
+b) Isenção de imposto do selo nas operações de financiamento externo para aquisição de navios, contentores e outro equipamento para navios, contratados por empresas armadoras da marinha mercante, ainda que essa contratação seja feita através de instituições financeiras nacionais.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 87.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 52.º — Entidades gestoras de denominações de origem e indicações geográficas
+
+Ficam isentas de IRC, exceto quanto aos rendimentos de capitais tal como definidos para efeitos de IRS, as entidades gestoras de denominações de origem e indicações geográficas dos vinhos, vinagres, bebidas espirituosas de origem vínica e produtos vitivinícolas aromatizados reconhecidas nos termos da legislação aplicável.»
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 21/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/lei/21-2021-161766414), em vigor a partir de 2021-04-21, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 30-C/2000 - Diário da República n.º 299/2000, Suplemento n.º 2, Série I-A de 2000-12-29](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), em vigor a partir de 2001-01-01
+
+> Alterado pelo/a Artigo 56.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, Suplemento n.º 2, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), em vigor a partir de 2000-01-01
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 43.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, Suplemento n.º 2, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, Suplemento n.º 3, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, Suplemento n.º 2, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 75/93 - Diário da República n.º 295/1993, Suplemento n.º 1, Série I-A de 1993-12-20](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), em vigor a partir de 1993-12-25
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 30-C/92 - Diário da República n.º 298/1992, Suplemento n.º 1, Série I-A de 1992-12-28](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), em vigor a partir de 1993-01-02
+
+> Alterado pelo/a Artigo 36.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, Suplemento n.º 1, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 293/91 - Diário da República n.º 185/1991, Série I-A de 1991-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1991-676040), em vigor a partir de 1991-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 189/90 - Diário da República n.º 132/1990, Série I de 1990-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1990-575135), em vigor a partir de 1990-06-13
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31
+
+###### Artigo 53.º — Entidades gestoras de sistemas integrados de gestão de fluxos específicos de resíduos
+
+Ficam isentas de IRC, excepto quanto aos rendimentos de capitais, tal como são definidos para efeitos de IRS, as entidades gestoras de sistemas integrados de gestão de fluxos específicos de resíduos, devidamente licenciadas nos termos legais, durante todo o período correspondente ao licenciamento, relativamente aos resultados que, durante esse período, sejam reinvestidos ou utilizados para a realização dos fins que lhes sejam legalmente atribuídos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+###### Artigo 54.º — Colectividades desportivas, de cultura e recreio
+
+1 - Ficam isentos de IRC os rendimentos das colectividades desportivas, de cultura e recreio, abrangidas pelo artigo 11.º do Código do IRC, desde que a totalidade dos seus rendimentos brutos sujeitos a tributação, e não isentos nos termos do mesmo Código, não exceda o montante de (euro) 7500.
+
+2 - As importâncias investidas pelos clubes desportivos em novas infra-estruturas, não provenientes de subsídios, podem ser deduzidas à matéria colectável até ao limite de 50 % da mesma, sendo o eventual excesso deduzido até ao final do segundo exercício seguinte ao do investimento.
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 42.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, Suplemento n.º 5, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+###### Artigo 55.º — Associações e confederações
+
+1 - Ficam isentos de IRC, excepto no que respeita a rendimentos de capitais e a rendimentos comerciais, industriais ou agrícolas, tal como são definidos para efeitos de IRS, e sem prejuízo do disposto no número seguinte:
+
+a) As pessoas colectivas públicas, de tipo associativo, criadas por lei para assegurar a disciplina e representação do exercício de profissões liberais;
+
+b) As confederações e associações patronais e sindicais.
+
+2 - Ficam isentos de IRC os rendimentos das associações sindicais e das pessoas colectivas públicas, de tipo associativo, criadas por lei para assegurar a disciplina e representação do exercício de profissões liberais, derivados de acções de formação prestadas aos respectivos associados no âmbito dos seus fins estatutários.
+
+3 - Ficam isentos de IRC os rendimentos obtidos por associações de pais derivados da exploração de cantinas escolares.
+
+4 - Sem prejuízo do disposto no número anterior, ficam ainda isentos de IRC os rendimentos obtidos por associações de pais, exceto no que respeita a rendimentos de capitais tal como são definidos para efeitos de IRS, desde que a totalidade dos seus rendimentos brutos sujeitos e não isentos não exceda o montante de (euro) 7500.
+
+> Alterado pelo/a Artigo 170.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 48.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, Suplemento n.º 2, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Rectificado pelo/a [Rectificação n.º 2/95 - Diário da República n.º 89/1995, Série I-A de 1995-04-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/2-1995-230113), em vigor a partir de 1995-04-15
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 187/92 - Diário da República n.º 195/1992, Série I-A de 1992-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1992-260592), em vigor a partir de 1992-08-30
+
+###### Artigo 56.º — Estabelecimentos de ensino particular
+
+Os rendimentos dos estabelecimentos de ensino particular integrados no sistema educativo ficam sujeitos a tributação em IRC à taxa de 20 %, salvo se beneficiarem de taxa inferior.
+
+> Revogado pelo/a Artigo 146.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 82.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, Suplemento n.º 2, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 189/90 - Diário da República n.º 132/1990, Série I de 1990-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1990-575135), em vigor a partir de 1990-06-13
+
+###### Artigo 57.º — Sociedades ou associações científicas internacionais
+
+1 - O Ministro das Finanças pode, a requerimento das interessadas e com base em informação fundamentada da Direcção-Geral dos Impostos, conceder isenção total ou parcial de IRC às sociedades ou associações científicas internacionais sem fim lucrativo que estabeleçam as suas sedes permanentes em Portugal.
+
+2 - A Direcção-Geral dos Impostos pode solicitar parecer aos serviços competentes do ministério da tutela, com vista à elaboração da informação mencionada no número anterior.
+
+> Revogado pelo/a Artigo 146.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+> Aditado pelo/a Artigo único do/a [Decreto-Lei n.º 208/96 - Diário da República n.º 259/1996, Série I-A de 1996-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1996-177385), em vigor a partir de 1996-11-13
+
+###### Artigo 58.º — Propriedade intelectual
+
+1 - Os rendimentos provenientes da propriedade literária, artística e científica, incluindo os provenientes da alienação de obras de arte de exemplar único e os provenientes das obras de divulgação pedagógica e científica, quando auferidos por titulares de direitos de autor ou conexos residentes em território português, desde que sejam os titulares originários, são considerados no englobamento, para efeitos do IRS, apenas por 50 % do seu valor, líquido de outros benefícios.
+
+2 - Excluem-se do disposto no número anterior os rendimentos provenientes de obras escritas sem carácter literário, artístico ou científico, obras de arquitectura e obras publicitárias.
+
+3 - A importância a excluir do englobamento nos termos do n.º 1 não pode exceder (euro) 10 000.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 218.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 58.º-A — Incentivo fiscal à investigação científica e inovação
+
+1 - Beneficiam do regime de incentivo fiscal à investigação científica e inovação os sujeitos passivos que, tornando-se fiscalmente residentes nos termos dos n.os 1 e 2 do artigo 16.º do Código do IRS, não tenham sido residentes em território português em qualquer dos cinco anos anteriores e que exerçam atividades que se enquadrem em:
+
+a) Docência no ensino superior e investigação científica, incluindo emprego científico em entidades, estruturas e redes dedicadas à produção, difusão e transmissão de conhecimento, integradas no sistema nacional de ciência e tecnologia, bem como postos de trabalho e membros de órgãos sociais em entidades reconhecidas como centros de tecnologia e inovação, no âmbito do Decreto-Lei n.º 126-B/2021, de 31 de dezembro;
+
+b) Postos de trabalho qualificados e membros de órgãos sociais no âmbito dos benefícios contratuais ao investimento produtivo, nos termos do capítulo ii do Código Fiscal do Investimento;
+
+c) Profissões altamente qualificadas, definidas em portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, desenvolvidas em:
+
+i) Empresas com aplicações relevantes, no exercício do início de funções ou nos cinco exercícios anteriores, que beneficiem ou tenham beneficiado do regime fiscal de apoio ao investimento, nos termos do capítulo iii do Código Fiscal do Investimento; ou,
+
+ii) Empresas industriais e de serviços, cuja atividade principal corresponda a código CAE definido em portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia e que exportem pelo menos 50 % do seu volume de negócios, no exercício do início de funções ou em qualquer dos dois exercícios anteriores;
+
+d) Outros postos de trabalho qualificados e membros de órgãos sociais, em entidades que exerçam atividades económicas reconhecidas pela AICEP, E. P. E., ou pelo IAPMEI, I. P., como relevantes para a economia nacional, designadamente de atração de investimento produtivo e de redução das assimetrias regionais;
+
+e) Investigação e desenvolvimento de pessoal cujos custos sejam elegíveis para efeitos do sistema de incentivos fiscais em investigação e desenvolvimento empresarial, nos termos da alínea b) do n.º 1 do artigo 37.º do Código Fiscal do Investimento;
+
+f) Postos de trabalho e membros de órgãos sociais em entidades certificadas como startups, nos termos da Lei n.º 21/2023, de 25 de maio; ou
+
+g) Postos de trabalho ou outras atividades desenvolvidas por residentes fiscais nas Regiões Autónomas dos Açores e da Madeira, nos termos a definir por decreto legislativo regional.
+
+2 - O sujeito passivo que cumpra os requisitos previstos no número anterior pode ser tributado, em sede de IRS, à taxa especial de 20 % sobre os rendimentos líquidos das categorias A e B auferidos no âmbito das atividades referidas, durante um prazo de 10 anos consecutivos a partir do ano da sua inscrição como residente em território português, sem prejuízo da opção pelo englobamento.
+
+3 - O direito a ser tributado nos termos do presente artigo, em cada ano do período referido no número anterior, depende de o sujeito passivo ser considerado fiscalmente residente em território português, em qualquer momento desse ano e de continuar a auferir, em cada ano, rendimentos enquadrados no exercício de uma das atividades elencadas no n.º 1.
+
+4 - Para efeitos do disposto no número anterior, considera-se que o sujeito passivo continua a auferir rendimentos enquadrados numa das atividades elencadas no n.º 1, sempre que o início do exercício da nova atividade ocorra no prazo máximo de seis meses após o término da atividade anteriormente exercida.
+
+5 - O sujeito passivo que não tenha gozado do direito a ser tributado nos termos do presente artigo em um ou mais anos do período referido no n.º 2 pode retomar o gozo do mesmo em qualquer dos anos remanescentes daquele período, a partir do ano, inclusive, em que volte a ser considerado residente para efeitos fiscais em território português e volte a auferir rendimentos enquadrados no exercício de uma das atividades elencadas no n.º 1.
+
+6 - A inscrição dos beneficiários junto da FCT, I. P., quanto à alínea a), da AICEP, E. P. E., quanto à alínea b), da AT, quanto à alínea c), do IAPMEI, I. P., ou da AICEP, E. P. E., quanto à alínea d), da Agência Nacional de Inovação, S. A., da Startup Portugal e das Regiões Autónomas dos Açores e da Madeira, respetivamente, quanto às alíneas e), f) e g) do n.º 1, e a comunicação dos respetivos dados pelas demais entidades à AT, é regulada por portaria dos membros do Governo responsáveis pelas áreas das finanças, da economia e da ciência e do ensino superior.
+
+7 - Nos casos em que a inscrição seja efetuada fora do prazo definido na portaria prevista no número anterior, a tributação nos termos previstos no n.º 2 produz efeitos a partir do ano em que a inscrição seja efetuada e vigora pelo remanescente período legal previsto.
+
+8 - Até à aprovação da portaria prevista na alínea c) do n.º 1, consideram-se como profissões altamente qualificadas aquelas que correspondam às atividades previstas na Portaria n.º 12/2010, de 7 de janeiro, e consideram-se como empresas industriais e de serviços aquelas cujo código CAE principal corresponda a um dos definidos na Portaria n.º 282/2014, de 30 de dezembro.
+
+9 - Até à aprovação da portaria prevista no n.º 6, a inscrição dos beneficiários indicados na alínea c) do n.º 1 é efetuada junto da AT, nos termos dos n.os 4 e 5 do artigo 236.º da Lei do Orçamento do Estado para 2024.
+
+10 - Não podem beneficiar do disposto no presente artigo os sujeitos passivos que:
+
+a) Beneficiem ou tenham beneficiado do regime do residente não habitual;
+
+b) Tenham optado pela tributação nos termos do artigo 12.º-A do Código do IRS.
+
+11 - O presente regime não é aplicável aos rendimentos auferidos relativamente a postos de trabalho abrangidos pela alínea c) do n.º 2 do artigo 22.º do Código Fiscal do Investimento.
+
+12 - O regime previsto no presente artigo só pode ser utilizado uma vez pelo mesmo sujeito passivo.
+
+> Aditado pelo/a Artigo 263.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+###### Artigo 59.º — Baldios
+
+1 - Estão isentos de IRC os baldios, enquadráveis nos termos da alínea b) do n.º 1 do artigo 2.º do Código do IRC, quanto aos rendimentos derivados dos terrenos baldios, incluindo os resultantes de cessão de exploração ou de arrendamento, bem como os da transmissão de bens ou da prestação de serviços comuns aos compartes, quando, em qualquer caso, aqueles rendimentos sejam afetos, de acordo com o plano de utilização aprovado, com os usos ou costumes locais, ou com as deliberações dos órgãos competentes dos compartes, em investimento florestal ou outras benfeitorias nos próprios baldios ou, bem assim, em melhoramentos junto da comunidade que os possui e gere, até ao fim do quarto exercício posterior ao da sua obtenção, salvo em caso de justo impedimento no cumprimento do prazo de afetação, notificado à Autoridade Tributária e Aduaneira, acompanhado da respetiva fundamentação escrita, até ao último dia útil do 1.º mês subsequente ao termo do referido prazo.
+
+2 - Não são abrangidos pelas isenções previstas no número anterior os rendimentos de capitais, tal como são definidos para efeitos de IRS, e as mais-valias resultantes da alienação, a título oneroso, de partes de baldios.
+
+3 - Aos rendimentos dos baldios, administrados, em regime de delegação ou de utilização direta, pelas juntas de freguesia em cuja área o baldio se localize ou pelo serviço da Administração Pública que superintenda na modalidade ou modalidades de aproveitamento a que a delegação se reporte, que revertam a favor da autarquia ou serviço em causa, aplica-se o disposto no artigo 9.º do Código do IRC.
+
+4 - Os rendimentos dos baldios que sejam diretamente distribuídos aos compartes, em dinheiro ou em espécie, neste último caso quando não enquadráveis nas situações previstas no n.º 1, são considerados rendimentos de capitais em sede de IRS, estando sujeitos a retenção na fonte à taxa de 28 %.
+
+5 - A retenção na fonte a que se refere o número anterior tem caráter definitivo, podendo os sujeitos passivos optar pelo englobamento para efeitos de IRS, caso em que o imposto retido tem a natureza de imposto por conta, seguindo os termos previstos no artigo 78.º do Código do IRS.
+
+6 - Os terrenos baldios estão isentos de IMI, sendo esta isenção reconhecida oficiosamente, desde que:
+
+a) Se verifique a inscrição dos prédios na matriz em nome do baldio; e
+
+b) Os prédios não sejam explorados por terceiro fora de uma atividade agrícola, silvícola ou silvopastoril.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 59.º-A — Medidas de apoio ao transporte rodoviário de passageiros e de mercadorias
+
+Os gastos suportados com a aquisição, em território português, de eletricidade e gás natural veicular (GNV) para abastecimento de veículos são dedutíveis em valor correspondente a 130 %, no caso de eletricidade, e a 120 %, no caso de GNV, do respetivo montante, para efeitos da determinação do lucro tributável em sede de IRC e da categoria B do IRS, neste último caso havendo opção pelo regime da contabilidade organizada, quando se trate de:
+
+a) Veículos afetos ao transporte público de passageiros, com lotação igual ou superior a 22 lugares que estejam registados como elementos do ativo fixo tangível de sujeitos passivos de IRC que estejam licenciados pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.);
+
+b) Veículos afetos ao transporte rodoviário de mercadorias, público ou por conta de outrem, com peso bruto igual ou superior a 3,5 t, registados como elementos do ativo fixo tangível de sujeitos passivos de IRC e que estejam licenciados pelo IMT, I. P.;
+
+c) Veículos afetos ao transporte em táxi, registados como elementos do ativo fixo tangível dos sujeitos passivos de IRS ou de IRC, com contabilidade organizada e que estejam devidamente licenciados.
+
+> Alterado pelo/a Artigo 355.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Aditado pelo/a Artigo 10.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05
+
+###### Artigo 59.º-B — Despesas com sistemas de car-sharing e bike-sharing
+
+1 - É considerado gasto do período de tributação para efeitos de determinação do lucro tributável o valor correspondente a 110 % ou 140 %, respetivamente, das despesas com sistemas de car-sharing e bike-sharing incorridas por sujeitos passivos de IRC e de IRS, com contabilidade organizada.
+
+2 - Para efeitos do disposto no número anterior, consideram-se despesas com sistemas de car-sharing e bike-sharing as realizadas pelo sujeito passivo, mediante contrato celebrado com empresas que tenham por objeto a gestão de sistemas de car-sharing e bike-sharing, com vista a suprir as suas necessidades de mobilidade e logística ou para promover a opção por soluções de mobilidade sustentável entre o seu pessoal nas deslocações casa trabalho e desde que, em qualquer caso, o sujeito passivo não esteja em relação de grupo, domínio, ou simples participação com a empresa com quem celebra o contrato de car-sharing ou bike-sharing e o referido benefício tenha caráter geral.
+
+3 - O benefício previsto no n.º 1, relativo à promoção da opção por soluções de mobilidade sustentável pelo pessoal do sujeito passivo, é cumulável com o benefício previsto no n.º 15 do artigo 43.º do Código do IRC relativo à aquisição de passes sociais, com o limite, em qualquer caso, de (euro) 6250 por trabalhador dependente.
+
+> Aditado pelo/a Artigo 10.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05
+
+###### Artigo 59.º-C — Despesas com frotas de velocípedes
+
+É considerado gasto do período de tributação, para efeitos de determinação do lucro tributável, o valor correspondente a 120 % das despesas com a aquisição de frotas de velocípedes em benefício do pessoal do sujeito passivo, a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente, que se mantenham no património do mesmo durante, pelo menos, 18 meses, bem como os custos suportados com a reparação e manutenção dos velocípedes pertencentes a essas frotas, a definir na mesma portaria, desde que o referido benefício tenha caráter geral.
+
+> Aditado pelo/a Artigo 10.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05
+
+###### Artigo 59.º-D — Incentivos fiscais à atividade silvícola e agrícola
+
+1 - Para efeitos de determinação da taxa de IRS a aplicar a rendimentos da categoria B decorrentes de explorações silvícolas plurianuais, o respetivo valor é dividido:
+
+a) Por 12, para os rendimentos que sejam determinados com base na aplicação das regras decorrentes do regime simplificado, incluindo o ato isolado;
+
+b) Pela soma do número de anos ou fração a que respeitem os gastos imputados ao respetivo lucro tributável, nos termos do n.º 7 do artigo 18.º do Código do IRC, para os rendimentos que sejam determinados com base na contabilidade, incluindo o ato isolado.
+
+2 - Ficam isentas de imposto municipal sobre as transmissões onerosas de imóveis e de imposto do selo, no que se refere à verba 1.1 da tabela geral do imposto do selo, as aquisições onerosas de prédios ou parte de prédios rústicos que correspondam a áreas florestais abrangidas por zona de intervenção florestal (ZIF), nos termos do disposto no Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, e 27/2014, de 18 de fevereiro, ou de prédios contíguos aos mesmos, na condição de estes últimos serem abrangidos por uma ZIF num período de três anos contados a partir da data de aquisição.
+
+3 - Ficam isentas de imposto municipal sobre as transmissões onerosas de imóveis e de imposto do selo, no que se refere à verba 1.1 da tabela geral do imposto do selo, as aquisições onerosas de prédios ou parte de prédios rústicos destinados à exploração florestal que sejam confinantes com prédios rústicos submetidos a plano de gestão florestal elaborado, aprovado e executado nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, e 27/2014, de 18 de fevereiro, desde que o adquirente seja proprietário do prédio rústico confinante.
+
+4 - As isenções previstas nos n.os 2 e 3 são reconhecidas pelo chefe do serviço de finanças da situação dos prédios, mediante requerimento apresentado pelos sujeitos passivos nesse serviço, acompanhado de documento comprovativo da inclusão do prédio na ZIF ou de que o prédio é contíguo a prédio abrangido por ZIF, nas situações previstas no n.º 2, e do documento comprovativo da aprovação do plano de gestão florestal e da situação de contiguidade do prédio, nas situações previstas no número anterior, a apresentar, em qualquer caso, antes do ato ou contrato que originou a transmissão.
+
+5 - O pedido a que se refere o número anterior deve conter a identificação e descrição dos prédios, o fim a que se destinam, bem como cópia da decisão de criação ou de alteração da ZIF e da relação dos proprietários e produtores florestais aderentes, nas situações previstas no n.º 2.
+
+6 - A aquisição a que se refere a parte final do n.º 2, relativa aos prédios contíguos a prédios abrangidos por ZIF, deixa de beneficiar da isenção quando, após o período de três anos previsto no referido número, tal prédio não esteja abrangido por ZIF.
+
+7 - Ficam isentos de Imposto Municipal sobre Imóveis os prédios rústicos que correspondam a áreas florestais aderentes a ZIF, nos termos do disposto no Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, e 27/2014, de 18 de fevereiro, e os prédios rústicos destinados à exploração florestal submetidos a plano de gestão florestal elaborado, aprovado e executado nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, e 27/2014, de 18 de fevereiro.
+
+8 - A isenção a que se refere o número anterior inicia-se no ano, inclusive, em que o prédio seja abrangido por zona de intervenção florestal ou a partir do ano em que o prédio seja submetido a plano de gestão florestal elaborado, aprovado e executado nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, e 27/2014, de 18 de fevereiro, consoante aplicável.
+
+9 - A isenção prevista no n.º 7 é reconhecida pelo chefe do serviço de finanças da situação do prédio, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção.
+
+10 - Na situação abrangida pelo n.º 7, se o pedido for apresentado para além do prazo aí referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação.
+
+11 - A isenção prevista no n.º 7 cessa quando o prédio deixe de estar abrangido por zona de intervenção florestal ou com o termo da vigência do plano de gestão florestal.
+
+12 - Para efeitos de determinação do lucro tributável dos sujeitos passivos de IRC e dos sujeitos passivos de IRS com contabilidade organizada que exerçam diretamente uma atividade económica de natureza silvícola ou florestal, as contribuições financeiras dos proprietários e produtores florestais aderentes a uma zona de intervenção florestal destinadas ao fundo comum constituído pela respetiva entidade gestora nos termos do artigo 18.º do Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, e 27/2014, de 18 de fevereiro, são consideradas em 130 % do respetivo montante, contabilizado como gasto do exercício.
+
+13 - O montante máximo da majoração prevista no número anterior não pode exceder o equivalente a 8/1000 do volume de negócios referente ao exercício em que são realizadas as contribuições.
+
+14 - Aos sujeitos passivos de IRS ou IRC abrangidos pelas regras decorrentes do regime simplificado é igualmente aplicável uma dedução ao rendimento tributável ou à matéria coletável, respetivamente, obtidos após a aplicação dos respetivos coeficientes e até à sua concorrência, de um montante equivalente à majoração prevista nos n.os 12 e 13.
+
+15 - O disposto nos n.os 12, 13 e 14 é aplicável aos sujeitos de IRS e de IRC que preencham, cumulativamente, as seguintes condições
+
+a) O seu lucro tributável não seja determinado por métodos indiretos;
+
+b) A respetiva produção silvícola ou florestal esteja submetida a um plano de gestão florestal elaborado, aprovado e executado nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, e 27/2014, de 18 de fevereiro.
+
+16 - Aos prémios de primeira instalação a jovens agricultores é aplicado um coeficiente de 0,1 para efeitos da alínea e) do n.º 1 do artigo 31.º do Código do IRS, sendo estes rendimentos considerados apenas em 50 % quando abrangidos pelo regime da contabilidade organizada.
+
+> Nota: [Artigo 319.º, Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) A vigência do presente artigo é prorrogada até 31 de dezembro de 2024.
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 10.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-05
+
+###### Artigo 59.º-E — Despesas com certificação biológica de explorações
+
+É considerado gasto do período de tributação para efeitos de determinação do lucro tributável, o valor correspondente a 140 % das despesas de certificação biológica de explorações com produção em modo biológico, incorridas por sujeitos passivos de IRC e IRS, com contabilidade organizada.
+
+> Aditado pelo/a Artigo 225.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+###### Artigo 59.º-F — Incentivo fiscal à produção cinematográfica e audiovisual
+
+1 - Os sujeitos passivos de IRC residentes em território português, e os não residentes com estabelecimento estável nesse território, registados nos termos dos artigos 58.º e 59.º do Decreto-Lei n.º 124/2013, de 30 de agosto, podem deduzir ao montante da coleta do IRC apurado de acordo com o artigo 90.º do Código do IRC o valor correspondente a 25 % das despesas de produção e pós-produção cinematográfica e audiovisual realizadas em território nacional e elegíveis para efeitos deste incentivo, nos termos estabelecidos no presente artigo e na respetiva regulamentação.
+
+2 - À percentagem de dedução referida no número anterior pode ser aplicada uma majoração até um máximo de 30 %, no caso de obras com versão original em língua portuguesa e de obras com especial relevância artístico-cultural ou cuja produção tenha um impacto muito significativo no desenvolvimento dos recursos criativos, produtivos e territoriais nacionais.
+
+3 - A percentagem aplicada, para os efeitos do n.º 1, é sempre de 30 % sobre as seguintes despesas:
+
+a) Despesas realizadas nos territórios de baixa densidade, de acordo com a área geográfica considerada para efeitos do Programa Nacional de Coesão Territorial;
+
+b) Remunerações de atores e técnicos portadores de deficiência.
+
+c) De produção cinematográfica e audiovisual no âmbito de projetos com impacto significativo relativamente aos objetivos do presente incentivo, conforme critérios a definir e reconhecer pelo Instituto do Cinema e do Audiovisual, I. P. (ICA, I. P.)
+
+4 - As despesas que por insuficiência de coleta não possam ser deduzidas no período de tributação em que foram realizadas podem ser deduzidas até ao período de tributação que coincida com a conclusão da obra.
+
+5 - O incentivo aplica-se a despesas de projetos que satisfaçam, cumulativamente, os seguintes requisitos:
+
+a) Ser um projeto de obra cinematográfica destinada a uma exploração inicial em salas de cinema comerciais ou obra audiovisual para difusão televisiva ou para exploração através de serviços de comunicação audiovisual a pedido ou de outros serviços de comunicações eletrónicas, nomeadamente filmes ou séries de episódios de ficção, documentários ou animação;
+
+b) Implicar despesas de produção elegíveis, realizadas em território nacional, no valor mínimo de (euro) 500 000 ou, no caso de documentários, de (euro) 250 000;
+
+c) Não se incluir na alínea d) do n.º 3 do artigo 12.º do Decreto-Lei n.º 124/2013, de 30 de agosto.
+
+6 - São elegíveis as despesas de produção de obras dos seguintes tipos:
+
+a) Obras de produção portuguesa na aceção do Decreto-Lei n.º 124/2013, de 30 de agosto;
+
+b) Obras em coprodução internacional portuguesa na aceção do Decreto-Lei n.º 124/2013, de 30 de agosto, podendo a participação portuguesa ser maioritária ou minoritária;
+
+c) Obras de iniciativa portuguesa, realizadas por meios contratuais privados, em regime análogo ao da coprodução internacional portuguesa, mas não suscetíveis de reconhecimento enquanto coprodução oficial ao abrigo de tratados internacionais de coprodução;
+
+d) Obras de iniciativa estrangeira, realizadas por meios contratuais privados, em regime análogo ao da coprodução internacional portuguesa, mas não suscetíveis de reconhecimento enquanto coprodução oficial ao abrigo de tratados internacionais de coprodução;
+
+e) Obras estrangeiras produzidas total ou parcialmente em Portugal, mediante recurso a produtor executivo local, ou através de sucursal em Portugal ou de veículo específico e de duração limitada.
+
+7 - O incentivo não pode ser superior a (euro) 4 000 000 por obra.
+
+8 - Como condição para a dedução à coleta prevista no n.º 1, as entidades aí referidas devem, previamente à realização das despesas, obter um reconhecimento provisório junto do ICA, I. P., que declara a elegibilidade do promotor, do projeto e das respetivas despesas.
+
+9 - O reconhecimento provisório referido no número anterior é obrigatoriamente revisto sempre que ocorram modificações da execução do projeto face ao previsto, bem como no termo de cada exercício fiscal nos casos em que a produção implique despesas em mais do que um exercício.
+
+10 - Após a conclusão da obra e a certificação das respetivas contas finais por revisor oficial de contas, o sujeito passivo solicita ao ICA, I. P., o reconhecimento definitivo da conformidade geral e da elegibilidade das despesas, bem como o apuramento final das taxas de dedução aplicáveis e do valor da dedução, através de requerimento a enviar até ao final do mês de janeiro do ano seguinte, ou até ao final do mês seguinte ao termo do período de tributação, no caso dos sujeitos passivos a que se apliquem os n.os 2 e 3 do artigo 8.º do Código do IRC.
+
+11 - No caso de se verificar que o montante deduzido à coleta é superior ao que resulta das despesas elegíveis após o reconhecimento definitivo pelo ICA, I. P., é adicionado ao valor do IRC liquidado relativamente ao período de tributação da conclusão da obra o IRC que deixou de ser liquidado em resultado daquela dedução, acrescido dos juros compensatórios correspondentes.
+
+12 - A parte do valor a deduzir apurado, nos termos do n.º 10, que não possa ser deduzida, é objeto de reembolso no prazo de 60 dias após a comunicação à Autoridade Tributária e Aduaneira da decisão do ICA, I. P., quanto ao reconhecimento definitivo.
+
+13 - O presente incentivo é cumulável com outros apoios estatais, até aos limites da taxa de intensidade de auxílio estabelecidos no Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014, não podendo, em qualquer caso, haver duplo financiamento de uma mesma rubrica.
+
+14 - Os procedimentos de requerimento e reconhecimento do direito ao incentivo, de restituição do crédito remanescente, bem como os critérios de admissão dos projetos e de majoração da taxa de dedução são regulamentados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 45/2018 - Diário da República n.º 116/2018, Série I de 2018-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2018-115536002), em vigor a partir de 2018-06-20
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2017 - Diário da República n.º 38/2017, Série I de 2017-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2017-106509196), em vigor a partir de 2017-02-23
+
+###### Artigo 59.º-G — Entidades de gestão florestal e unidades de gestão florestal
+
+1 - Ficam isentos de IRC os rendimentos obtidos no âmbito da gestão de recursos florestais por entidades de gestão florestal (EGF) reconhecidas, que se constituam e operem de acordo com a legislação nacional, desde que as mesmas estejam submetidas a planos de gestão florestal, aprovados e executados de acordo com a regulamentação em vigor.
+
+2 - Os rendimentos respeitantes a participações sociais em EGF, pagos ou colocados à disposição dos respetivos titulares, são sujeitos a retenção na fonte de IRS ou de IRC, à taxa de 10 %, exceto quando os titulares dos rendimentos sejam pessoas singulares não residentes, entidades isentas quanto aos rendimentos de capitais ou entidades não residentes sem estabelecimento estável em território português ao qual os rendimentos sejam imputáveis, excluindo:
+
+a) As entidades que sejam residentes em países, territórios ou regiões, com regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do membro do Governo responsável pela área das finanças;
+
+b) As entidades não residentes que sejam detidas, direta ou indiretamente, em mais de 25 % por entidades ou pessoas singulares residentes em território nacional, exceto quando essa entidade seja residente noutro Estado-Membro da União Europeia, num Estado-Membro do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia ou num Estado com o qual tenha sido celebrada e se encontre em vigor convenção para evitar a dupla tributação que preveja a troca de informações.
+
+3 - A retenção na fonte a que se refere o número anterior tem caráter definitivo sempre que os titulares sejam pessoas singulares não residentes em território português ou entidades não residentes sem estabelecimento estável neste território, bem como sujeitos passivos de IRS residentes que obtenham os rendimentos fora do âmbito de uma atividade comercial, industrial ou agrícola, podendo estes, porém, optar pelo englobamento para efeitos desse imposto, caso em que o imposto retido tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
+
+4 - A dispensa de retenção na fonte nos casos previstos no n.º 2 só se verifica quando os beneficiários dos rendimentos fizerem prova, perante a entidade pagadora, da isenção de que aproveitam ou da qualidade de não residente em território português, até à data em que deve ser efetuada a retenção na fonte, ficando, em caso de omissão da prova, o substituto tributário obrigado a entregar a totalidade do imposto que deveria ter sido deduzido nos termos da lei, sendo aplicáveis as normas gerais previstas nos competentes códigos relativas à responsabilidade pelo eventual imposto em falta.
+
+5 - A prova da qualidade de não residente em território português é feita nos termos previstos nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de novembro, alterado pelos Decretos-Leis n.os 25/2006, de 8 de fevereiro, e 29-A/2011, de 1 de março, e pelas Leis n.º 83/2013, de 9 de dezembro, e 42/2016, de 28 de dezembro.
+
+6 - O saldo positivo entre as mais-valias e as menos-valias resultantes da alienação de participações sociais em EGF reconhecidas e abrangidas pelo n.º 1 é tributado à taxa de 10 %, quando os titulares sejam pessoas singulares não residentes ou entidades não residentes a que não seja aplicável a isenção prevista no artigo 27.º ou sujeitos passivos de IRS residentes em território português que obtenham os rendimentos fora do âmbito de uma atividade comercial, industrial ou agrícola e não optem pelo respetivo englobamento.
+
+7 - Ficam isentas de imposto do selo as aquisições onerosas do direito de propriedade ou de figuras parcelares desse direito relativas a prédios rústicos destinados à exploração florestal, por EGF reconhecidas e abrangidas pelo n.º 1, bem como a afetação desses prédios pelos associados à gestão da EGF, desde que realizada no prazo de seis meses contados da respetiva associação à EGF.
+
+8 - Cabe ao órgão periférico regional da Autoridade Tributária e Aduaneira da área da situação dos prédios, mediante requerimento prévio dos interessados comprovando os respetivos requisitos, reconhecer a isenção prevista no número anterior relativa à afetação dos prédios rústicos destinados à exploração florestal, no prazo de 30 dias.
+
+9 - As EGF reconhecidas e abrangidas pelo n.º 1 ficam isentas de imposto do selo nas operações de crédito que lhes seja concedido e por estas utilizado, bem como nos juros decorrentes dessas operações, quando este imposto constitua seu encargo.
+
+10 - A isenção prevista no n.º 7 fica sem efeito caso se verifique alguma das seguintes circunstâncias:
+
+a) Os prédios rústicos destinados à exploração florestal sejam transmitidos, a qualquer título, nos dois anos subsequentes, não podendo concretizar-se a respetiva transmissão sem que se encontre assegurada a liquidação do imposto devido, acrescido dos respetivos juros compensatórios;
+
+b) Seja revogado o reconhecimento como EGF, nos termos previstos no artigo 12.º do Decreto-Lei n.º 66/2017, de 12 de junho.
+
+11 - Os rendimentos prediais auferidos por sujeitos passivos de IRS, quando decorrentes de arrendamentos a EGF, reconhecidas e abrangidas pelo n.º 1, são considerados em 50 % do seu valor, sem prejuízo da opção de englobamento.
+
+12 - Os rendimentos auferidos por sujeitos passivos de IRS, residentes ou não residentes, ainda que obtidos no âmbito de atividade comercial, industrial, agrícola, silvícola ou pecuária, respeitantes ao saldo apurado entre as mais-valias e as menos-valias derivadas da alienação a EGF, reconhecidas e abrangidas pelo n.º 1, de prédios rústicos destinados à exploração florestal, são considerados em 50 % do seu valor, sem prejuízo do disposto no n.º 2 do artigo 43.º do Código do IRS.
+
+13 - Não obstante o disposto no número anterior, no caso de entradas em espécie no capital das EGF realizadas por pessoas singulares residentes ou não residentes, não é apurado rendimento derivado da transferência dos prédios rústicos destinados à exploração florestal, sendo considerado como valor de aquisição daquelas entradas, para efeitos fiscais, o valor de aquisição desses prédios.
+
+14 - O regime previsto nos n.os 11, 12 e 13 é aplicável às transmissões e arrendamentos efetuados até 31 de dezembro de 2020 e, no caso dos rendimentos referidos no n.º 11, tem a duração de 12 anos, contados desde o ano da celebração do contrato.
+
+15 - O disposto no presente artigo é também aplicável às unidades de gestão florestal (UGF) reconhecidas, que se constituam e operem de acordo com a legislação nacional, desde que as mesmas estejam submetidas a planos de gestão florestal, aprovados e executados de acordo com a regulamentação em vigor.
+
+16 - O reconhecimento previsto no artigo 7.º do Decreto-Lei n.º 66/2017, de 12 de junho, bem como a revogação desse reconhecimento, devem ser comunicados à Autoridade Tributária e Aduaneira pelo Instituto da Conservação da Natureza e das Florestas, I. P., por transmissão eletrónica de dados, em termos e condições a estabelecer através de protocolo entre as partes, no prazo de 30 dias a contar da respetiva decisão.
+
+> Nota: [Artigo 319.º, Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) A vigência do presente artigo é prorrogada até 31 de dezembro de 2024.
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 110/2017 - Diário da República n.º 240/2017, Série I de 2017-12-15](https://diariodarepublica.pt/dr/detalhe/lei/110-2017-114358690), em vigor a partir de 2018-01-01
+
+###### Artigo 59.º-H — Produção cinematográfica e audiovisual
+
+São excluídos do disposto no n.º 3 do artigo 88.º do Código do IRC relativamente aos encargos que suportem com viaturas ligeiras de passageiros, viaturas ligeiras de mercadorias referidas na alínea b) do n.º 1 do artigo 7.º do Código do Imposto sobre Veículos, motos e motociclos, os sujeitos passivos no exercício da atividade de produção cinematográfica e audiovisual desenvolvida com o apoio do Fundo de Apoio ao Turismo e ao Cinema.
+
+> Nota: [Artigo 319.º, Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) A vigência do presente artigo é prorrogada até 31 de dezembro de 2024.
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a [Declaração de Retificação n.º 6/2018 - Diário da República n.º 40/2018, Série I de 2018-02-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2018-114766028), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 264.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+###### Artigo 59.º-I — Prédios ou parte de prédios afetos a lojas com história
+
+1 - Na determinação do lucro tributável dos sujeitos passivos de IRC que exerçam a título principal uma atividade comercial, industrial ou agrícola, bem como na determinação dos rendimentos empresariais e profissionais não abrangidos pelo regime simplificado dos sujeitos passivos de IRS, são considerados em 110 % do respetivo montante os gastos e perdas do período relativo a obras de conservação e manutenção dos prédios ou parte de prédios afetos a lojas com história, reconhecidas pelo município como estabelecimentos de interesse histórico e cultural ou social local e que integrem o inventário nacional dos estabelecimentos e entidades de interesse histórico e cultural ou social, nos termos previstos na Lei n.º 42/2017, de 14 de junho.
+
+2 - Os gastos previstos no n.º 7 do artigo 41.º do Código do IRS são considerados em 110 % quando respeitem a prédios ou parte de prédios afetos a lojas com história, reconhecidas pelo município como estabelecimentos de interesse histórico e cultural ou social local e que integrem o inventário nacional dos estabelecimentos e entidades de interesse histórico e cultural ou social, nos termos previstos na Lei n.º 42/2017, de 14 de junho.
+
+3 - Sem prejuízo das demais obrigações acessórias aplicáveis, os documentos comprovativos dos gastos e perdas referidos nos números anteriores devem conter expressamente a morada da fração autónoma que beneficiou das obras de manutenção e conservação, bem como os dados identificativos do sujeito passivo ao qual está afeta a fração autónoma.
+
+> Aditado pelo/a [Declaração de Retificação n.º 6/2018 - Diário da República n.º 40/2018, Série I de 2018-02-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2018-114766028), em vigor a partir de 2018-01-01
+
+###### Artigo 59.º-J — Embarcações eletrossolares ou exclusivamente elétricas
+
+Na determinação do lucro tributável dos sujeitos passivos de IRC que exerçam a título principal uma atividade comercial, industrial ou agrícola, bem como na determinação dos rendimentos empresariais e profissionais dos sujeitos passivos de IRS com contabilidade organizada, são considerados em 120 % do respetivo montante os gastos e perdas do período de tributação relativos a depreciações fiscalmente aceites de elementos do ativo fixo tangível correspondentes a embarcações eletrossolares ou exclusivamente elétricas.
+
+> Nota: [Artigo 319.º, Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) A vigência do presente artigo é prorrogada até 31 de dezembro de 2024.
+
+> Aditado pelo/a Artigo 292.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+### Capítulo IX — Benefícios fiscais à reestruturação empresarial
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Aditado pelo/a Artigo 83.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+###### Artigo 60.º — Reorganização de entidades em resultado de operações de restruturação ou de acordos de cooperação
+
+1 - Às entidades que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços, e que se reorganizem, em resultado de operações de reestruturação ou acordos de cooperação, são aplicáveis os seguintes benefícios:
+
+a) Isenção do imposto municipal sobre transmissões onerosas de imóveis, relativamente aos imóveis não habitacionais e, quando afetos à atividade exercida a título principal, aos imóveis habitacionais, necessárias às operações de reestruturação ou aos acordos de cooperação;
+
+b) Isenção do imposto do selo, relativamente à transmissão dos imóveis referidos na alínea anterior ou de estabelecimento comercial, industrial ou agrícola, necessários às operações de reestruturação ou aos acordos de cooperação;
+
+c) Isenção dos emolumentos e de outros encargos legais que se mostrem devidos pela prática dos atos inseridos nos processos de reestruturação ou de cooperação.
+
+2 - O regime previsto no presente artigo é aplicável às operações de reestruturação ou aos acordos de cooperação que envolvam entidades com sede, direção efetiva ou domicílio em território português, noutro Estado-Membro da União Europeia ou, ainda, no Estado em relação ao qual vigore uma convenção para evitar a dupla tributação sobre o rendimento e o capital celebrada com Portugal, com exceção das entidades domiciliadas em países, territórios ou regiões com regimes de tributação privilegiada, claramente mais favoráveis, constantes de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
+
+3 - Para efeitos do presente artigo, consideram-se 'operações de reestruturação' apenas as seguintes:
+
+a) A fusão de sociedades, empresas públicas, cooperativas ou outras entidades;
+
+b) A incorporação por uma entidade do conjunto ou de um ou mais ramos de atividade de outra entidade;
+
+c) A cisão de entidade, através da qual:
+
+i) Uma entidade destaque um ou mais ramos da sua atividade para com eles constituir outras entidades ou para os fundir com entidades já existentes, mantendo, pelo menos, um dos ramos de atividade; ou
+
+ii) Uma entidade se dissolva, dividindo o seu património em duas ou mais partes que constituam, cada uma delas, pelo menos, um ramo de atividade, sendo cada uma delas destinada a constituir uma nova entidade ou a ser fundida com entidades já existentes ou com partes do património de outras entidades, separadas por idênticos processos e com igual finalidade.
+
+4 - Para efeitos do presente artigo, entende-se por:
+
+a) 'Acordos de cooperação':
+
+i) A constituição de agrupamentos complementares de empresas ou de agrupamentos europeus de interesse económico, nos termos da legislação em vigor, que se proponham a prestação de serviços comuns, a compra ou venda em comum ou em colaboração, a especialização ou racionalização produtivas, o estudo de mercados, a promoção de vendas, a aquisição e transmissão de conhecimentos técnicos ou de organização aplicada, o desenvolvimento de novas técnicas e produtos, a formação e aperfeiçoamento do pessoal, a execução de obras ou serviços específicos e quaisquer outros objectivos comuns, de natureza relevante;
+
+ii) A constituição de pessoas colectivas de direito privado sem fim lucrativo, mediante a associação de empresas públicas, sociedades de capitais públicos ou de maioria de capitais públicos, de sociedades e de outras pessoas de direito privado, com a finalidade de, relativamente ao sector a que respeitam, manter um serviço de assistência técnica, organizar um sistema de informação, promover a normalização e a qualidade dos produtos e a conveniente tecnologia dos processos de fabrico, bem como, de um modo geral, estudar as perspectivas de evolução do sector;
+
+iii) A celebração de contratos de consórcio e de associação em participação, nos termos da legislação em vigor, sempre que as contribuições realizadas no âmbito dos mesmos visem o desenvolvimento directo de actividades produtivas, com excepção de actividades de natureza imobiliária.
+
+b) 'Ramo de atividade' o conjunto de elementos que constituem, do ponto de vista organizacional, uma unidade económica autónoma, ou seja, um conjunto capaz de funcionar pelos seus próprios meios, o qual pode compreender as dívidas contraídas para a sua organização ou funcionamento.
+
+5 - Nos casos em que a operação esteja sujeita a notificação nos termos da Lei n.º 19/2012, de 8 de maio, os benefícios previstos no n.º 1 só podem ser aplicados quando seja emitida decisão favorável pela Autoridade da Concorrência.
+
+6 - O disposto no presente artigo não é aplicável quando se conclua que as operações abrangidas pelo mesmo tiveram como principal objetivo ou como um dos principais objetivos obter uma vantagem fiscal, o que pode considerar-se verificado, designadamente, quando as operações não tenham sido realizadas por razões económicas válidas e não reflitam substância económica, tais como o reforço da competitividade das empresas ou da respetiva estrutura produtiva, procedendo-se então, se for caso disso, às correspondentes liquidações adicionais de imposto, majoradas em 15 %.
+
+7 - (Revogado.)
+
+8 - Para efeitos de justificação e comprovação dos pressupostos das isenções previstas no presente artigo, devem constar do processo de documentação fiscal, previsto no artigo 130.º do Código do IRC, os seguintes elementos:
+
+a) Descrição das operações de reestruturação ou dos acordos de cooperação realizados;
+
+b) Projeto de fusão ou cisão quando exigido pelo Código das Sociedades Comerciais;
+
+c) Estudo demonstrativo das vantagens económicas da operação;
+
+d) Decisão da Autoridade da Concorrência, quando a operação esteja sujeita a notificação nos termos da Lei n.º 19/2012, de 8 de maio.
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+12 -  (Revogado.)
+
+13 -  (Revogado.)
+
+14 - O regime previsto no n.º 1 é igualmente aplicável às operações de fusão e cisão de confederações e associações patronais e sindicais, bem como associações de cariz empresarial ou setorial, com as necessárias adaptações.
+
+15 - Para efeitos do número anterior, consideram-se 'associações de cariz empresarial ou setorial' as associações que tenham como objeto principal representar, promover, fomentar e apoiar as empresas de determinada zona geográfica ou atividade económica.
+
+> Alterado pelo/a Artigo 355.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 206.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 185/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506), em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+### Capítulo X — Benefícios fiscais relativos ao mecenato
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Aditado pelo/a Artigo 83.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01
+
+###### Artigo 61.º — Noção de donativo
+
+1 - Para efeitos fiscais, os donativos constituem entregas em dinheiro ou em espécie, concedidos, sem contrapartidas que configurem obrigações de carácter pecuniário ou comercial, às entidades públicas ou privadas, previstas nos artigos seguintes, cuja actividade consista predominantemente na realização de iniciativas nas áreas social, cultural, ambiental, desportiva ou educacional.
+
+2 - Para efeitos do número anterior, são considerados donativos em espécie as entregas de bens, a cedência temporária de trabalhadores, bem como a prestação de serviços que se insiram na atividade normal da entidade mecenas.
+
+3 - Para efeitos do n.º 1, não são consideradas contrapartidas com caráter pecuniário ou comercial as regalias em espécie concedidas pela entidade beneficiária ao mecenas que não ponham em causa o espírito de liberalidade do doador, designadamente:
+
+a) As regalias cujo valor de mercado não ultrapasse, anualmente, o limite de 5 % dos donativos atribuídos pelo mecenas à entidade beneficiária;
+
+b) A divulgação institucional ou associação pública do nome ou designação social do mecenas ao beneficiário ou à atividade apoiada, desde que:
+
+i) Não seja feita qualquer referência a marcas, produtos ou serviços do mecenas, permitindo-se, apenas, a referência ao respetivo nome ou designação social e logótipo;
+
+ii) Não revista a natureza de mensagem publicitária, devendo efetuar-se num plano secundário relativamente ao beneficiário ou iniciativa aos quais aparece associada, em suportes destinados a divulgar ou enquadrar a própria iniciativa, se existentes, de acordo com os usos aceites neste domínio e sempre com alusão à qualidade de mecenas.
+
+4 - Nos donativos em espécie, a determinação do valor a considerar para efeitos do cálculo da dedução ao lucro tributável obedece às seguintes regras:
+
+a) No caso dos donativos de bens, incluindo de bens alimentares, é considerado o seu custo de aquisição ou de produção deduzido, quando for caso disso, das depreciações, perdas por imparidade e outras correções de valor aceites como gasto fiscal ao abrigo da legislação aplicável, dos valores reconhecidos como gasto fiscal nos termos do artigo 45.º-A do Código do IRC e das quotas mínimas de depreciação ou amortização que não possam ser deduzidas nos termos da parte final do n.º 3 do artigo 31.º-A e da alínea e) do n.º 1 do artigo 34.º do mesmo Código;
+
+b) No caso de cedência temporária e gratuita de trabalhadores, o valor a considerar corresponde ao montante dos encargos da entidade cedente com a respetiva remuneração, incluindo os suportados com regimes obrigatórios de segurança social a cargo da entidade empregadora, correspondente ao período da respetiva cedência;
+
+c) No caso de prestação de serviços a título gratuito, que se insiram na atividade normal do prestador, o valor normal dos serviços deve ser calculado de acordo com a alínea c) do n.º 2 do artigo 16.º do Código do IVA.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167/2026 - Diário da República n.º 158/2026, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2026-1159105698), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 62.º — Dedução para efeitos da determinação do lucro tributável das empresas
+
+1 - São considerados custos ou perdas do exercício, na sua totalidade, os donativos concedidos às seguintes entidades:
+
+a) Estado, Regiões Autónomas e autarquias locais e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;
+
+b) Associações de municípios e de freguesias;
+
+c) Fundações em que o Estado, as Regiões Autónomas ou as autarquias locais participem no património inicial;
+
+d) Fundações de iniciativa exclusivamente privada que prossigam fins de natureza predominantemente social, relativamente à sua dotação inicial, nas condições previstas no n.º 9.
+
+2 - Os donativos referidos no número anterior são considerados custos em valor correspondente a 140 % do respetivo total, quando se destinarem exclusivamente à prossecução de fins de caráter social, a 120 %, se destinados exclusivamente a fins de caráter ambiental, desportivo e educacional, ou a 130 % do respetivo total, quando forem atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos, que fixem os objetivos a prosseguir pelas entidades beneficiárias, e os montantes a atribuir pelos sujeitos passivos.
+
+3 - São considerados gastos ou perdas do exercício, até ao limite de 1 % do volume de vendas ou dos serviços prestados, os donativos atribuídos às seguintes entidades:
+
+a) Instituições particulares de solidariedade social, bem como pessoas colectivas legalmente equiparadas;
+
+b) Pessoas colectivas de utilidade pública administrativa e de mera utilidade pública que prossigam fins de caridade, assistência, beneficência e solidariedade social e cooperativas de solidariedade social;
+
+c) Centros de desporto organizados nos termos dos Estatutos do Instituto Nacional de Aproveitamento dos Tempos Livres dos Trabalhadores (INATEL), desde que destinados ao desenvolvimento de atividades de natureza social no âmbito daquelas entidades;
+
+d) Organizações não governamentais cujo objecto estatutário se destine essencialmente à promoção dos valores da cidadania, da defesa dos direitos humanos, dos direitos das mulheres e da igualdade de género, nos termos legais aplicáveis;
+
+e) Organizações não governamentais para o desenvolvimento;
+
+f) Outras entidades promotoras de iniciativas de auxílio a populações carecidas de ajuda humanitária, em consequência de catástrofes naturais ou de outras situações de calamidade internacional, reconhecidas pelo Estado Português, mediante despacho conjunto do Ministro das Finanças e do Ministro dos Negócios Estrangeiros.
+
+g) Entidades hospitalares EPE.
+
+4 - Os donativos referidos no número anterior são levados a custos em valor correspondente a 130 % do respectivo total ou a 140 % no caso de se destinarem a custear as seguintes medidas:
+
+a) Apoio à infância ou à terceira idade;
+
+b) Apoio e tratamento de toxicodependentes ou de doentes com sida, com cancro ou diabéticos;
+
+c) Promoção de iniciativas dirigidas à criação de oportunidades de trabalho e de reinserção social de pessoas, famílias ou grupos em situações de exclusão ou risco de exclusão social, designadamente no âmbito do rendimento social de inserção, de programas de luta contra a pobreza ou de programas e medidas adoptadas no contexto do mercado social de emprego.
+
+5 - São considerados gastos ou perdas do exercício, até ao limite de 1 % do volume de vendas ou de serviços prestados, em valor correspondente a 150 % do respetivo total, os donativos concedidos às entidades referidas nos números anteriores, que se destinem a custear as seguintes medidas:
+
+a) Apoio pré-natal a adolescentes e a mulheres em situação de risco e à promoção de iniciativas com esse fim;
+
+b) Apoio a meios de informação, de aconselhamento, de encaminhamento e de ajuda a mulheres grávidas em situação social, psicológica ou economicamente difícil;
+
+c) Apoio, acolhimento e ajuda humana e social a mães solteiras;
+
+d) Apoio, acolhimento, ajuda social e encaminhamento de crianças nascidas em situações de risco ou vítimas de abandono;
+
+e) Ajuda à instalação de centros de apoio à vida para adolescentes e mulheres grávidas cuja situação sócio-económica ou familiar as impeça de assegurar as condições de nascimento e educação da criança;
+
+f) Apoio à criação de infra-estruturas e serviços destinados a facilitar a conciliação da maternidade com a actividade profissional dos pais.
+
+6 - São considerados custos ou perdas do exercício, até ao limite de 6/1000 do volume de vendas ou dos serviços prestados, os donativos atribuídos às seguintes entidades:
+
+a) Institutos, fundações e associações que prossigam atividades de investigação, exceto as de natureza científica e de defesa do património histórico-cultural e do ambiente;
+
+b) [Revogada;]
+
+c) Organizações não governamentais de ambiente (ONGA);
+
+d) Comité Olímpico de Portugal, Confederação do Desporto de Portugal e pessoas colectivas titulares do estatuto de utilidade pública desportiva;
+
+e) Associações promotoras do desporto e associações dotadas do estatuto de utilidade pública que tenham como objecto o fomento e a prática de actividades desportivas, com excepção das secções participantes em competições desportivas de natureza profissional;
+
+f) Centros de cultura e desporto organizados nos termos dos Estatutos do Instituto Nacional de Aproveitamento dos Tempos Livres dos Trabalhadores (INATEL), com excepção dos donativos abrangidos pela alínea c) do n.º 3;
+
+g) Estabelecimentos de ensino, escolas profissionais, escolas artísticas, creches, lactários e jardins-de-infância legalmente reconhecidos pelo ministério competente;
+
+h) Instituições responsáveis pela organização de feiras universais ou mundiais, nos termos a definir por resolução do Conselho de Ministros;
+
+i) (Revogada.)
+
+7 - Os donativos previstos no número anterior são levados a custos, em valor correspondente a:
+
+a) 120 % ou, no caso das alíneas d) e e) do número anterior, 130 % do respetivo total;
+
+b) 130 % ou, no caso das alíneas d) e e) do número anterior, 140 %, quando atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos que fixem objetivos a prosseguir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos;
+
+c) 140 %, quando atribuídos às creches, lactários e jardins-de-infância previstos na alínea g) e para as entidades referidas na alínea i) do número anterior.
+
+8 - São considerados custos ou perdas do exercício, até ao limite de 1/1000 do volume de vendas ou dos serviços prestados no exercício da actividade comercial, industrial ou agrícola, as importâncias atribuídas pelos associados aos respectivos organismos associativos a que pertençam, com vista à satisfação dos seus fins estatutários.
+
+9 - Estão sujeitos a reconhecimento, a efetuar por despacho do membro do Governo responsável pelas áreas das finanças e da tutela, os donativos concedidos para a dotação inicial de fundações de iniciativa exclusivamente privada, desde que prossigam fins de natureza predominantemente social, e os respetivos estatutos prevejam que, no caso de extinção, os bens revertam para o Estado ou, em alternativa, sejam cedidos às entidades abrangidas pelo artigo 10.º do Código do IRC.
+
+10 - As entidades a que se referem as alíneas a), e) e g) do n.º 6 devem obter junto do membro do Governo da tutela, previamente à obtenção dos donativos, a declaração do seu enquadramento no presente capítulo e do interesse ambiental, desportivo ou educacional das atividades prosseguidas ou das ações a desenvolver.
+
+11 - [Revogado.]
+
+12 - Os donativos concedidos nos termos dos n.os 3 a 8, bem como dos n.os 3 a 6 do artigo 62.º-A e dos n.os 15 e 16 do artigo 62.º-B, não podem ultrapassar na sua globalidade 1 % do volume de vendas ou dos serviços prestados realizados pela empresa no exercício.
+
+> Nota: [Artigo 260.º, Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096) A vigência do presente artigo é prorrogada até 31 de dezembro de 2026, tendo em vista a sua revisão no quadro de avaliação de benefícios fiscais a realizar no ano de 2026.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167/2026 - Diário da República n.º 158/2026, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2026-1159105698), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a Artigo 396.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 217.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 62.º-A — Mecenato científico
+
+1 - São consideradas entidades beneficiárias as destinatárias directas dos donativos, nomeadamente, fundações, associações e institutos públicos ou privados, instituições do ensino superior, bibliotecas, mediatecas, centros de documentação, laboratórios do Estado, laboratórios associados, unidades de investigação e desenvolvimento, centros de transferência e centros tecnológicos, órgãos de comunicação social que se dediquem à divulgação científica e empresas que desenvolvam acções de demonstração de resultados de investigação e desenvolvimento tecnológico, sempre que a respectiva actividade assuma, predominantemente, carácter científico.
+
+2 - São considerados gastos ou perdas do exercício, em valor correspondente a 130 % do respectivo total, para efeitos de IRC ou da categoria B do IRS, os donativos atribuídos às entidades referidas no número anterior, pertencentes:
+
+a) Ao Estado, às regiões autónomas e autarquias locais e a qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;
+
+b) Associações de municípios e freguesias;
+
+c) Fundações em que o Estado, as regiões autónomas ou as autarquias locais participem no património inicial.
+
+3 - São considerados gastos ou perdas do exercício, até ao limite de 1 % do volume de vendas ou de serviços prestados, em valor correspondente a 130 % para efeitos do IRC ou da categoria B do IRS, os donativos atribuídos às entidades de natureza privada, previstas no n.º 1.
+
+4 - Os donativos previstos nos n.os 2 e 3 anteriores são considerados gastos em valor correspondente a 140 % do seu valor quando atribuídos ao abrigo de contratos plurianuais que fixem objectivos a atingir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos.
+
+5 - No caso de donativos em espécie efectuados por sujeitos passivos de IRC ou por sujeitos passivos de IRS que exerçam actividades empresariais e profissionais, considera-se, para efeitos do presente artigo, que o valor dos bens é o valor fiscal que os mesmos tiverem no exercício em que forem doados, ou seja;
+
+a) No caso de bens do activo fixo tangível, o custo de aquisição ou de produção deduzido das depreciações efectivamente praticadas e aceites para efeitos fiscais, sem prejuízo do disposto na parte final da alínea a) do n.º 5 do artigo 29.º do Código do IRC;
+
+b) No caso de bens com a natureza de inventários, o custo de aquisição ou de produção eventualmente deduzido das perdas por imparidade que devam ser constituídas de acordo com o respectivo regime fiscal.
+
+6 - No caso de mecenato de recursos humanos, considera-se, para efeitos do presente artigo, que o valor da cedência de um investigador ou especialista é o valor correspondente aos encargos despendidos pela entidade patronal com a sua remuneração, incluindo os suportados para regimes obrigatórios de segurança social, durante o período da respectiva cedência.
+
+7 - A usufruição de qualquer dos incentivos previstos neste artigo depende de acreditação, por uma entidade acreditadora designada por despacho do Ministro da Educação e Ciência, que comprove a afectação do donativo a uma actividade de natureza científica.
+
+8 - Sem prejuízo do disposto no número anterior, nos casos em que a entidade beneficiária seja de natureza privada, a acreditação depende de prévio reconhecimento, através de despacho conjunto dos Ministros das Finanças e da Educação e Ciência.
+
+9 - A entidade beneficiária privada deve requerer, fundamentadamente, junta da entidade acreditadora, o reconhecimento de natureza científica da actividade por si desenvolvida, competindo à entidade acreditadora emitir parecer sobre o mesmo e remeter o pedido à tutela.
+
+10 - Do despacho conjunto referido no n.º 8, consta necessariamente a fixação do prazo de validade de tal reconhecimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167/2026 - Diário da República n.º 158/2026, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2026-1159105698), em vigor a partir de 2026-08-18.
+
+> Aditado pelo/a Artigo 145.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 62.º-B — Mecenato cultural
+
+1 - São consideradas entidades beneficiárias do mecenato cultural:
+
+a) As entidades mencionadas nas alíneas a), b) e c) do n.º 1 do artigo 62.º que desenvolvam atividades de natureza cultural;
+
+b) As seguintes entidades que se dediquem exclusiva ou predominantemente a atividades culturais:
+
+i) As entidades enquadráveis no artigo 10.º do Código do IRC; e
+
+ii) As entidades do setor empresarial do Estado e do setor empresarial local;
+
+c) As entidades públicas ou privadas sem fins lucrativos com título de entidade cultural, atribuído nos termos do presente artigo:
+
+d) Quaisquer entidades, públicas ou privadas, para a realização de iniciativas ou de projetos a que seja atribuído título de iniciativa cultural, nos termos do presente artigo;
+
+e) As pessoas singulares para a realização de iniciativas ou projetos a que seja atribuído título de iniciativa cultural.
+
+2 - Podem requerer o título de entidade cultural as seguintes entidades:
+
+a) Entidades detentoras ou responsáveis por equipamentos culturais, designadamente teatros, museus, bibliotecas, arquivos históricos e documentais;
+
+b) Cooperativas culturais, institutos, fundações e associações que se dediquem à defesa do património histórico-cultural material e imaterial; e
+
+c) Os centros de cultura organizados nos termos dos Estatutos do INATEL.
+
+3 - Para efeitos do número anterior, devem ser observados pelas entidades ali referidas os seguintes critérios:
+
+a) O objeto social ou os estatutos preveja a realização de atividades de natureza cultural, artística ou de exploração ou conservação do património histórico-cultural;
+
+b) As atividades referidas na alínea anterior assumam caráter exclusivo ou predominante;
+
+c) A missão institucional abranja expressamente a promoção, produção, difusão ou conservação de bens e atividades culturais;
+
+d) Existência de meios técnicos e humanos adequados à realização da atividade a que se dedicam;
+
+e) Solvabilidade financeira e idoneidade de gestão proporcionais à dimensão dos projetos culturais a desenvolver.
+
+4 - Para efeitos do disposto na alínea e) do n.º 1, podem requerer o título de iniciativa cultural as pessoas singulares que:
+
+a) Se encontrem inscritas na Autoridade Tributária e Aduaneira para o exercício de atividade profissional ou empresarial;
+
+b) Exerçam atividades enquadráveis na tabela a que se refere o artigo 151.º do Código do IRS, correspondentes aos códigos 2010, 2011, 2012, 2013, 2014, 2015 ou 2019, ou, em alternativa, atividades classificadas com o código CAE principal 90010 ou 90030; e
+
+c) Disponham de contabilidade organizada.
+
+5 - São elegíveis para atribuição do título de iniciativa cultural as iniciativas e projetos culturais que observem os seguintes critérios:
+
+a) O projeto ou iniciativa deve inserir-se em uma ou mais das seguintes áreas culturais:
+
+i) Artes performativas ou do espetáculo, nomeadamente teatro, ópera, bailado, música, dança ou circo;
+
+ii) Cinema, audiovisual, videografia, fotografia, discografia, imprensa, rádio e congéneres;
+
+iii) Literatura e língua portuguesa;
+
+iv) Organização de festivais e outras manifestações artísticas;
+
+v) Artes visuais, digitais e multimédia;
+
+vi) Artes gráficas, gravuras, cartazes, filatelia e congéneres;
+
+vii) Folclore e artesanato;
+
+viii) Património cultural, material e imaterial, incluindo o património histórico, museológico, artístico, musical, arquitetónico, arqueológico, arquivístico e bibliográfico;
+
+ix) Museus, arquivos e demais acervos;
+
+x) Moda e design;
+
+xi) Edição de videojogos;
+
+b) O projeto ou iniciativa deve prosseguir um ou mais dos seguintes objetivos:
+
+i) Incentivo à formação ou produção artística, cultural e cívica;
+
+ii) Preservação e difusão do património artístico, cultural e histórico;
+
+iii) Promoção dos bens e valores culturais;
+
+iv) Apoio à realização de missões em Portugal ou no estrangeiro de promoção da cultura nacional;
+
+v) Apoio à promoção e divulgação da língua, história e cultura portuguesas em Portugal e no estrangeiro;
+
+vi) Preservação e valorização de arquivos e documentação histórica.
+
+6 - O título de iniciativa cultural pode ainda ser atribuído a projetos e iniciativas que não se insiram nas áreas ou não prossigam os objetivos previstos no número anterior, quando razões de relevante interesse público o justifiquem, mediante despacho fundamentado dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
+
+7 - Para efeitos dos números anteriores, devem ser observados pelas entidades referidas nas alíneas d) e e) do n.º 1 os seguintes critérios:
+
+a) Existência de meios humanos, técnicos e materiais adequados à iniciativa ou projeto;
+
+b) Demonstração da viabilidade técnica e financeira da iniciativa ou projeto.
+
+8 - A atribuição dos títulos de entidade cultural e de iniciativa cultural depende de reconhecimento por despacho do membro do Governo responsável pela área da cultura, após parecer prévio do Gabinete de Estratégia, Planeamento e Avaliação Cultural.
+
+9 - Não dependem de despacho proferido nos termos do número anterior as iniciativas culturais que sejam desenvolvidas por entidades que:
+
+a) Tenham sido, nos últimos três anos, comprovadamente, objeto de apoios públicos atribuídos por organismos sob a tutela do membro do Governo responsável pela área da cultura; ou
+
+b) Tenham tido, nos últimos três anos, pelo menos uma candidatura admitida para obtenção de apoios ao abrigo do Decreto-Lei n.º 45/2021, de 7 de junho, da Portaria n.º 146/2021, de 13 de julho, ou da Portaria n.º 299/2023, de 4 de outubro.
+
+10 - O título de entidade cultural é válido por um período de cinco anos e o título de iniciativa cultural é válido pelo período fixado nos despachos mencionados nos n.os 6 e 8.
+
+11 - A cessação do cumprimento de qualquer dos pressupostos que determinaram o reconhecimento mencionado nos n.os 5 e 7, bem como a verificação de situação fiscal ou contributiva irregular, determina a perda dos títulos de entidade cultural e de iniciativa cultural.
+
+12 - Os pedidos de atribuição dos títulos de entidade e de iniciativa cultural devem ser apresentados em plataforma eletrónica própria, nos termos do artigo 3.º do Decreto-Lei n.º 167/2026, de 17 de agosto.
+
+13 - Todas as entidades beneficiárias do mecenato cultural devem estar registadas na plataforma a que se refere o número anterior e constam de listagem elaborada pelo Gabinete de Estratégica, Planeamento e Avaliação Culturais e divulgada no Portal das Finanças até 31 de dezembro de cada ano.
+
+14 - São considerados gastos ou perdas do exercício, em valor correspondente a 140 % do respetivo total, para efeitos de IRC ou de categoria B do IRS, os donativos atribuídos às entidades referidas na alínea a) do n.º 1.
+
+15 - Nos restantes casos, os donativos realizados no âmbito do presente regime são considerados gastos ou perdas do exercício, até ao limite de 1 % do volume de vendas ou de serviços prestados, em valor correspondente a 140 % para efeitos do IRC ou da categoria B do IRS.
+
+16 - Quando atribuídos ao abrigo de contratos plurianuais que fixem objetivos a atingir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos, os donativos são considerados gastos ou perdas do exercício em valor correspondente a 150 %, até ao limite de 1 % do volume de vendas ou de serviços prestado.
+
+17 - Não concorrem para a formação do lucro tributável das entidades beneficiárias os montantes recebidos a título de mecenato nem os gastos comprovadamente incorridos com cada atividade, projeto ou iniciativa a que tenha sido atribuído título de entidade cultural ou título de iniciativa cultural até à concorrência daqueles montantes.
+
+18 - Caso os montantes dos donativos recebidos não sejam comprovadamente aplicados na sua totalidade na execução da atividade, projeto ou iniciativa a que tenha sido atribuído título de entidade cultural ou título de iniciativa cultural e, bem assim, nos casos previstos no n.º 9, o remanescente é transferido para o Fundo de Fomento Cultural.
+
+19 - As entidades e pessoas singulares referidas nas alíneas d) e e) do n.º 1 estão obrigadas a possuir:
+
+a) Uma conta bancária através da qual devem ser, exclusivamente, movimentados os pagamentos e recebimentos respeitantes ao projeto ou iniciativa;
+
+b) Registo simplificado de escrituração respeitante ao projeto ou iniciativa, incluindo o registo dos rendimentos, encargos e ativos adquiridos ou gerados no âmbito do projeto ou iniciativa.
+
+20 - Os ativos adquiridos ou gerados no âmbito de iniciativas ou projetos beneficiários do presente regime devem permanecer no ativo do beneficiário e manter-se exclusivamente afetos aos fins culturais que fundamentaram atribuição do título de iniciativa cultural, não podendo ser onerados, alienados ou afetos a qualquer outro fim, nem objeto de exploração económica autónoma, salvo quando tal seja expressamente autorizado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
+
+21 - Não são elegíveis para efeitos do presente regime os donativos concedidos a uma entidade com fins lucrativos com a qual o mecenas esteja em situação de relações especiais, nos termos e condições previstas no n.º 4 do artigo 63.º do Código do IRC, com as necessárias adaptações.
+
+22 - Não são igualmente elegíveis, para efeitos do presente regime, os donativos concedidos a uma fundação de iniciativa exclusivamente privada, por parte dos seus fundadores, incluindo para a sua dotação inicial, exceto quando aquela prossiga fins de natureza exclusiva ou predominantemente cultural e os respetivos estatutos prevejam que, no caso de extinção, os bens revertam para o Estado ou, em alternativa, sejam cedidos às entidades abrangidas pelo artigo 10.º do Código do IRC.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167/2026 - Diário da República n.º 158/2026, Série I de 2026-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2026-1159105698), em vigor a partir de 2026-08-18.
+
+> Alterado pelo/a Artigo 396.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Aditado pelo/a Artigo 218.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 63.º — Deduções à colecta do imposto sobre o rendimento das pessoas singulares
+
+1 - Os donativos em dinheiro atribuídos pelas pessoas singulares residentes em território nacional, nos termos e condições previstos nos artigos anteriores, são dedutíveis à colecta do IRS do ano a que digam respeito, com as seguintes especificidades:
+
+a) Em valor correspondente a 25 % das importâncias atribuídas, nos casos em que não estejam sujeitos a qualquer limitação;
+
+b) Em valor correspondente a 25 % das importâncias atribuídas, até ao limite de 15 % da colecta, nos restantes casos;
+
+c) As deduções só são efectuadas no caso de não terem sido contabilizadas como custos.
+
+2 - São ainda dedutíveis à colecta, nos termos e limites fixados nas alíneas b) e c) do número anterior, os donativos concedidos a igrejas, instituições religiosas, pessoas colectivas de fins não lucrativos pertencentes a confissões religiosas ou por elas instituídas, sendo a sua importância considerada em 130 % do seu quantitativo.
+
+3 - Quando o valor anual dos donativos seja superior a 50 000 (euro) e a dedução referida nos números anteriores não possa ser efetuada integralmente por insuficiência de coleta ou por terem sido atingidos os limites estabelecidos pela alínea b) do n.º 1, a importância ainda não deduzida pode sê-lo nas liquidações dos três períodos de tributação seguintes, até ao limite de 10 % da coleta de IRS apurada em cada um dos períodos de tributação.
+
+> Alterado pelo/a Artigo 396.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 64.º — Imposto sobre o valor acrescentado - Transmissões de bens e prestações de serviços a título gratuito
+
+Não estão sujeitas a IVA as transmissões de bens e as prestações de serviços efetuadas, a título gratuito, pelas entidades a quem sejam concedidos donativos abrangidos pelo presente Estatuto, em benefício direto das pessoas singulares ou coletivas que os atribuam, quando o correspondente valor não ultrapassar, no seu conjunto, 25 % do montante do donativo recebido.
+
+> Alterado pelo/a Artigo 305.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 55.º do/a [Lei n.º 60-A/2005 - Diário da República n.º 250/2005, 1º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2005-376234), em vigor a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 45.º do/a [Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), em vigor a partir de 2002-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 65.º — Mecenato para a sociedade de informação
+
+1 - São considerados custos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou de serviços prestados, em valor correspondente a 130 % do respectivo total, para efeitos de IRC, os donativos de equipamento informático, programas de computadores, formação e consultadoria na área da informática, concedidos às entidades referidas nos n.os 1 e 3 e nas alíneas b), d), e), f) e g) do n.º 6 do artigo 61.º
+
+2 - Os donativos previstos no número anterior são levados a custos em valor correspondente a 140 % do respectivo quantitativo, quando atribuídos ao abrigo de contratos plurianuais, que fixem objectivos a atingir pelas entidades beneficiárias e os bens e serviços a atribuir pelos sujeitos passivos.
+
+3 - O período de amortização de equipamento informático pelos sujeitos passivos referidos no n.º 1 é de dois anos, ou pelo valor residual se ocorrer após dois anos, no caso de doação do mesmo às entidades referidas naquele número.
+
+4 - Não relevam para os efeitos do número anterior as doações feitas a entidades em que os doadores sejam associados ou em que participem nos respectivos órgãos sociais.
+
+5 - Os sujeitos passivos que utilizem o regime de amortização previsto no n.º 3 comunicam ao Ministério da Ciência, Tecnologia e Ensino Superior as doações que o justificaram.
+
+6 - Para os efeitos do disposto no presente artigo, consideram-se equipamentos informáticos os computadores, modems, placas RDIS e aparelhos de terminal, incluindo impressoras, digitalizadores e set-top-boxes.
+
+> Revogado pelo/a Artigo 146.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 73.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Aditado pelo/a Artigo 38.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, Suplemento n.º 2, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+###### Artigo 66.º — Obrigações acessórias das entidades beneficiárias
+
+1 - As entidades beneficiárias dos donativos são obrigadas a:
+
+a) Emitir documento comprovativo dos montantes dos donativos recebidos dos seus mecenas, com a indicação do seu enquadramento no âmbito do presente capítulo e, bem assim, com a menção de que o donativo é concedido sem contrapartidas, de acordo com o previsto no artigo 60.º;
+
+b) Possuir registo actualizado das entidades mecenas, do qual constem, nomeadamente, o nome, o número de identificação fiscal, bem como a data e o valor de cada donativo que lhes tenha sido atribuído, nos termos do presente capítulo;
+
+c) Entregar à Direcção-Geral dos Impostos, até ao final do mês de Fevereiro de cada ano, uma declaração de modelo oficial referente aos donativos recebidos no ano anterior.
+
+2 - Para efeitos da alínea a) do número anterior, o documento comprovativo deve conter:
+
+a) A qualidade jurídica da entidade beneficiária;
+
+b) O normativo legal onde se enquadra, bem como, se for caso disso, a identificação do despacho necessário ao reconhecimento;
+
+c) O montante do donativo em dinheiro, quando este seja de natureza monetária;
+
+d) A identificação dos bens, no caso de donativos em espécie.
+
+3 - Os donativos em dinheiro de valor superior a (euro) 200 devem ser efectuados através de meio de pagamento que permita a identificação do mecenas, designadamente transferência bancária, cheque nominativo ou débito directo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+> Revogado pelo/a Artigo 39.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 256/2003 - Diário da República n.º 244/2003, Série I-A de 2003-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2003-476751), em vigor a partir de 2004-01-01
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2003 - Diário da República n.º 28/2003, Série I-A de 2003-02-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2003-209041), em vigor a partir de 2003-01-01
+
+### Capítulo XI — Benefícios às cooperativas
+
+> Aditado pelo/a Artigo 145.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 66.º-A — Cooperativas
+
+1 - Estão isentas de IRC, com excepção dos resultados provenientes de operações com terceiros e de actividades alheias aos próprios fins:
+
+a) As cooperativas agrícolas;
+
+b) As cooperativas culturais;
+
+c) As cooperativas de consumo;
+
+d) As cooperativas de habitação e construção;
+
+e) As cooperativas de solidariedade social.
+
+2 - Estão ainda isentas de IRC as cooperativas, dos demais ramos do sector cooperativo, desde que, cumulativamente:
+
+a) 75 % das pessoas que nelas aufiram rendimentos do trabalho dependente sejam membros da cooperativa;
+
+b) 75 % dos membros da cooperativa nela prestem serviço efectivo.
+
+3 - Nas cooperativas mistas do ramo do ensino não entram para o cômputo previsto na alínea b) do número anterior os alunos e respectivos encarregados de educação.
+
+4 - A isenção prevista no n.º 1 não abrange os rendimentos sujeitos a IRC por retenção na fonte, a qual tem carácter definitivo no caso de a cooperativa não ter outros rendimentos sujeitos a imposto, aplicando-se as taxas que lhe correspondam.
+
+5 - As cooperativas isentas nos termos dos números anteriores podem renunciar à isenção, com efeitos a partir do período de tributação seguinte àquele a que respeita a declaração periódica de rendimentos em que manifestarem essa intenção, aplicando-se então o regime geral de tributação em IRC durante, pelo menos, cinco períodos de tributação.
+
+6 - São isentos de IRC:
+
+a) Os apoios e subsídios financeiros ou de qualquer outra natureza atribuídos pelo Estado, nos termos da lei às cooperativas de primeiro grau, de grau superior ou às régies cooperativas como compensação pelo exercício de funções de interesse e utilidade públicas delegados pelo Estado;
+
+b) Os rendimentos resultantes das quotas pagas pelas cooperativas associadas e cooperativas de grau superior.
+
+7 - As despesas realizadas em aplicação da reserva para educação e formação cooperativas, prevista no artigo 70.º e com observância do disposto no artigo 3.º - 5.º princípio, ambos do Código Cooperativo, podem ser consideradas como gasto para efeitos da determinação do lucro tributável em IRC, no período de tributação em que sejam suportadas, em valor correspondente a 120 % do respectivo total.
+
+8 - As cooperativas estão isentas de imposto municipal sobre as transmissões onerosas de imóveis na aquisição de quaisquer direitos sobre imóveis destinados à sede e ao exercício das actividades que constituam o respectivo objecto social.
+
+9 - As cooperativas estão igualmente isentas de imposto municipal sobre imóveis relativamente aos imóveis referidos no número anterior.
+
+10 - Aos prédios urbanos habitacionais, propriedade de cooperativas de habitação e construção ou associações de moradores e por estas cedidas aos seus membros em regime de propriedade coletiva, qualquer que seja a respetiva modalidade desde que destinados à habitação própria e permanente destes, aplicam-se as isenções previstas no artigo 11.º-A do Código do Imposto Municipal sobre Imóveis e no artigo 46.º do presente diploma, nos termos e condições aí estabelecidos.
+
+11 - As isenções previstas no número anterior dependem de requerimento, a apresentar anualmente à Autoridade Tributária e Aduaneira, durante o mês de janeiro, pelas cooperativas de habitação e construção ou as associações de moradores, que identifique os cooperantes ou associados a quem os prédios estavam cedidos em 31 de dezembro do ano anterior.
+
+12 - A usufruição dos benefícios previstos nos n.os 8 e 9 só pode ser revogada, ou a sua medida alterada, por deliberação das assembleias municipais em cuja circunscrição estejam situados os respectivos prédios.
+
+13 - As cooperativas estão isentas de imposto do selo sobre os actos, contratos, documentos, títulos e outros factos, incluindo as transmissões gratuitas de bens, quando este imposto constitua seu encargo.
+
+14 - O disposto no presente artigo não é aplicável às instituições de crédito, sociedades financeiras, empresas de seguros e resseguros ou a outras entidades a elas legalmente equiparadas.
+
+15- (Revogado).
+
+16 - As isenções e demais benefícios previstos neste artigo aplicam-se às cooperativas de primeiro grau, de grau superior e às régies cooperativas, desde que constituídas, registadas e funcionando nos termos do Código Cooperativo e demais legislação aplicável.
+
+> Alterado pelo/a Artigo 305.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 227.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 170.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Aditado pelo/a Artigo 145.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+### Capítulo XII — Benefícios pela existência de fatura
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+###### Artigo 66.º-B — Dedução em sede de IRS de IVA suportado em fatura
+
+1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 15 % do IVA suportado por qualquer membro do agregado familiar, com o limite global de (euro) 250, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira (AT) nos termos do Decreto-Lei n.º 197/2012, de 24 de agosto, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3, CAE - Rev. 3, aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
+
+a) Secção G, Classe 4520 - Manutenção e reparação de veículos automóveis;
+
+b) Secção G, Classe 45402 - Manutenção e reparação de motociclos, de suas peças e acessórios;
+
+c) Secção I - Alojamento, restauração e similares;
+
+d) Secção S, Classe 9602 - Atividades de salões de cabeleireiro e institutos de beleza.
+
+2 - O incentivo previsto no número anterior opera por dedução à coleta do IRS do ano em que as faturas foram emitidas, desde que a declaração de rendimentos do agregado familiar seja entregue nos prazos previstos no artigo 60.º do Código do IRS.
+
+3 - Os adquirentes que pretendam beneficiar do incentivo devem exigir ao emitente a inclusão do seu número de identificação fiscal nas faturas.
+
+4 - As pessoas singulares que sejam sujeitos passivos de IVA apenas podem beneficiar do incentivo relativamente às faturas que titulam aquisições efetuadas fora do âmbito da sua atividade empresarial ou profissional.
+
+5 - O valor do incentivo é apurado pela AT com base nas faturas que lhe forem comunicadas, por via eletrónica, até ao dia 15 de fevereiro do ano seguinte ao da sua emissão, relativamente a cada adquirente nelas identificado.
+
+6 - A AT disponibiliza no Portal das Finanças o montante do incentivo até ao final do mês de fevereiro do ano seguinte ao da emissão das faturas.
+
+7 - Do cálculo do montante do incentivo referido no número anterior, pode o adquirente reclamar, até ao final do mês de março do ano seguinte ao da emissão, de acordo com as normas aplicáveis ao procedimento de reclamação graciosa com as devidas adaptações.
+
+8 - Os adquirentes que pretendam beneficiar deste incentivo devem manter na sua posse as faturas que não tenham sido regularmente comunicadas pelo sujeito passivo emitente à AT e disponibilizadas no Portal das Finanças, por um período de quatro anos, contado a partir do final do ano em que ocorreu a aquisição.
+
+9 - Havendo divergências entre os elementos comunicados pelos adquirentes e pelos sujeitos passivos emitentes, ou havendo indícios de que as faturas não correspondem a prestações de serviços reais enquadradas no n.º 1, o direito ao incentivo depende de confirmação pela AT da veracidade da operação.
+
+10 - Este incentivo não se encontra abrangido pelos limites constantes da tabela do n.º 2 do artigo 88.º do Código do IRS.
+
+11 - O valor do incentivo, calculado nos termos do presente artigo, pode ser atribuído à mesma igreja ou comunidade religiosa radicada em Portugal, à mesma pessoa coletiva de utilidade pública de fins de beneficência, de assistência ou humanitários, ou à mesma instituição particular de solidariedade social, constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista na Lei da Liberdade Religiosa, aprovada pela Lei n.º 16/2001, de 22 de junho.
+
+> Revogado pelo/a Artigo 16.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 83/2013 - Diário da República n.º 238/2013, Série I de 2013-12-09](https://diariodarepublica.pt/dr/detalhe/lei/83-2013-484127), em vigor a partir de 2013-12-10, produz efeitos a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25, produz efeitos a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 218.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 198/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2012-174543), em vigor a partir de 2013-01-01
+
+### Capítulo XIII — Benefício ao reinvestimento de lucros e reservas
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-C — Objeto
+
+A dedução por lucros retidos e reinvestidos (DLRR) constitui um regime de incentivos fiscais ao investimento em favor de pequenas e médias empresas nos termos do Regulamento (CE) n.º 800/2008, da Comissão, de 6 de agosto, publicado no Jornal Oficial da União Europeia, n.º L 214, de 9 de agosto de 2008, que declara certas categorias de auxílios compatíveis com o mercado comum, em aplicação dos artigos 87.º e 88.º do Tratado (Regulamento Geral de Isenção por Categoria).
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-D — Âmbito de aplicação subjetiva
+
+Podem beneficiar da DLRR os sujeitos passivos de IRC residentes em território português, bem como os sujeitos passivos não residentes com estabelecimento estável neste território, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, que preencham, cumulativamente, as seguintes condições:
+
+a) Sejam pequenas e médias empresas, consideradas como tal nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro;
+
+b) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;
+
+c) O seu lucro tributável não seja determinado por métodos indiretos;
+
+d) Tenham a situação fiscal e contributiva regularizada.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-E — Dedução por lucros retidos e reinvestidos
+
+1 - Os sujeitos passivos referidos no artigo anterior podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2014, até 10 % dos lucros retidos que sejam reinvestidos em ativos elegíveis nos termos do artigo 66.º-F, no prazo de dois anos contado a partir do final do período de tributação a que correspondam os lucros retidos.
+
+2 - Para efeitos da dedução prevista no número anterior, o montante máximo dos lucros retidos e reinvestidos, em cada período de tributação, é de (euro) 5 000 000, por sujeito passivo.
+
+3 - A dedução prevista no número anterior é feita, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, até à concorrência de 25 % da coleta do IRC.
+
+4 - Aplicando-se o regime especial de tributação de grupos de sociedades, a dedução prevista no n.º 1:
+
+a) Efetua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, com base na matéria coletável do grupo;
+
+b) É feita até 25 % do montante mencionado na alínea anterior e não pode ultrapassar, em relação a cada sociedade e por cada período de tributação, o limite de 25 % da coleta que seria apurada pela sociedade que realizou as despesas elegíveis caso não se aplicasse o regime especial de tributação de grupos de sociedades.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-F — Ativos elegíveis
+
+1 - Consideram-se 'ativos elegíveis', para efeitos do presente regime, os ativos fixos tangíveis, adquiridos em estado de novo, com exceção de:
+
+a) Terrenos, salvo no caso de se destinarem à exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projetos de indústria extrativa;
+
+b) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo quando afetos a atividades produtivas ou administrativas;
+
+c) Viaturas ligeiras de passageiros ou mistas, barcos de recreio e aeronaves de turismo;
+
+d) Artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;
+
+e) Ativos afetos a atividades no âmbito de acordos de concessão ou de parceria público-privada celebrados com entidades do setor público.
+
+2 - Considera-se 'investimento realizado em ativos elegíveis' o correspondente às adições, verificadas em cada período de tributação, de ativos fixos tangíveis e bem assim o que, tendo a natureza de ativo fixo tangível e não dizendo respeito a adiantamentos, se traduza em adições aos investimentos em curso.
+
+3 - Para efeitos do número anterior, não se consideram as adições de ativos que resultem de transferências de investimentos em curso.
+
+4 - No caso de ativos adquiridos em regime de locação financeira, a dedução a que se refere o n.º 1 do artigo 66.º-C é condicionada ao exercício da opção de compra pelo sujeito passivo no prazo de cinco anos contado da data da aquisição.
+
+5 - Os ativos elegíveis em que seja concretizado o reinvestimento dos lucros retidos devem ser detidos e contabilizados de acordo com as regras que determinaram a sua elegibilidade por um período mínimo de cinco anos.
+
+6 - Quando ocorra a transmissão onerosa dos ativos em que seja concretizado o reinvestimento dos lucros retidos antes de decorrido o prazo previsto no número anterior, o sujeito passivo deve reinvestir, no mesmo período de tributação ou no período de tributação seguinte, o respetivo valor de realização em ativos elegíveis nos termos deste artigo
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-G — Não cumulação
+
+A DLRR não é cumulável, relativamente às mesmas despesas de investimento elegíveis, com quaisquer outros benefícios fiscais ao investimento da mesma natureza.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-H — Reserva especial por lucros retidos e reinvestidos
+
+1 - Os sujeitos passivos que beneficiem da DLRR devem proceder à constituição, no balanço, de reserva especial correspondente ao montante dos lucros retidos e reinvestidos.
+
+2 - A reserva especial a que se refere o número anterior não pode ser utilizada para distribuição aos sócios antes do fim do quinto exercício posterior ao da sua constituição, sem prejuízo dos demais requisitos legais exigíveis.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-I — Outras obrigações acessórias
+
+1 - A dedução prevista no artigo 66.º-E é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC, que identifique discriminadamente o montante dos lucros retidos e reinvestidos, as despesas de investimento em ativos elegíveis, o respetivo montante e outros elementos considerados relevantes.
+
+2 - A contabilidade dos sujeitos passivos de IRC beneficiários da DLRR deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 66.º-E, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efetua a dedução.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-J — Resultado da liquidação
+
+O presente benefício fiscal encontra-se excluído do âmbito de aplicação do n.º 1 do artigo 92.º do Código do IRC.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-K — Norma sancionatória
+
+Sem prejuízo do disposto no Regime Geral das Infrações Tributárias:
+
+a) A não concretização da totalidade do investimento nos termos previstos no artigo 66.º-F até ao termo do prazo de dois anos previsto no n.º 1 do artigo 66.º-E implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente ao montante dos lucros não reinvestidos, ao qual é adicionado ao montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
+
+b) O incumprimento do disposto nos n.os 4, 5 ou 6 do artigo 66.º-F implica a devolução do montante de imposto que deixou de ser liquidado na parte correspondente aos ativos relativamente aos quais não seja exercida a opção de compra ou que sejam transmitidos antes de decorrido o prazo de cinco anos, ao qual é adicionado ao montante de imposto a pagar relativo ao período em que se verifiquem esses factos, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
+
+c) A não constituição da reserva especial nos termos do n.º 1 do artigo 66.º-H implica a devolução do montante de imposto que deixou de ser liquidado, ao qual é adicionado ao montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais;
+
+d) O incumprimento do disposto no n.º 2 do artigo 66.º-H implica a devolução do montante de imposto que deixou de ser liquidado correspondente à parte da reserva que seja utilizada para distribuição aos sócios, ao qual é adicionado ao montante de imposto a pagar relativo ao segundo período de tributação seguinte, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 66.º-L — Lucros reinvestidos no exercício de 2014
+
+Os lucros retidos relativos ao primeiro período de tributação que se inicie em ou após 1 de janeiro de 2014 podem ser reinvestidos em ativos elegíveis nos termos do artigo 66.º-F nesse período de tributação ou no prazo de dois anos contado do final desse período.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2014-58683382), em vigor a partir de 2014-11-05
+
+> Aditado pelo/a Artigo 208.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+## Parte III — Benefícios fiscais com carácter temporário
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 198/2001 - Diário da República n.º 152/2001, Série I-A de 2001-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2001-347542), em vigor a partir de 2001-07-08
+
+###### Artigo 67.º — Acções adquiridas no âmbito das privatizações
+
+1 - Os dividendos de acções adquiridas na sequência de processo de privatização realizado até ao final do ano de 2002, ainda que resultantes de aumentos de capital, contam desde a data de início do processo até decorridos os cinco primeiros exercícios encerrados após a sua data de finalização, apenas por 50 % do seu quantitativo, líquido de outros benefícios, para fins de IRS ou de IRC.
+
+2 - O benefício a que se refere o número anterior pode ainda ser concedido, por despacho do Ministro das Finanças e da Administração Pública, com efeitos até ao termo do ano de 2007, para dividendos de acções adquiridas na sequência de processo de privatização inicial até ao final de 2002, incluindo as resultantes de aumentos de capital, mediante requerimento das entidades interessadas, apresentado antes da realização da operação, desde que sejam demonstradas as vantagens para dinamizar o mercado de capitais e a protecção dos interesses dos pequenos investidores.
+
+> Revogado pelo/a Artigo 121.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+###### Artigo 68.º — Aquisição de computadores
+
+1 - São dedutíveis à colecta do IRS, até à sua concorrência, após as deduções referidas no n.º 1 do artigo 78.º e no artigo 88.º do respectivo Código, 50 % dos montantes despendidos com a aquisição de computadores de uso pessoal, incluindo software, aparelhos de terminal, bem como com equipamento relacionado com redes de banda larga de nova geração, até ao limite de (euro) 250.
+
+2 - A dedução referida no número anterior é aplicável, durante os anos de 2009 a 2011, uma vez por cada membro do agregado familiar do sujeito passivo que frequente um nível de ensino, e fica dependente da verificação das seguintes condições:
+
+a) Que a taxa normal aplicável ao sujeito passivo seja inferior a 42 %;
+
+b) Que o equipamento tenha sido adquirido no estado de novo;
+
+c) Que o sujeito passivo ou qualquer membro do seu agregado familiar frequente qualquer nível de ensino;
+
+d) Que a factura de aquisição contenha o número de identificação fiscal do adquirente e a menção «uso pessoal».
+
+3 - A utilização da dedução prevista no n.º 1 impede, para efeitos fiscais, a afectação dos equipamentos aí referidos para uso profissional.
+
+> Revogado pelo/a Artigo 111.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 10/2009 - Diário da República n.º 48/2009, Série I de 2009-03-10](https://diariodarepublica.pt/dr/detalhe/lei/10-2009-604822), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 98.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+###### Artigo 69.º — Prédios situados nas áreas de localização empresarial (ALE)
+
+1 - São isentas de imposto municipal sobre as transmissões onerosas de imóveis as aquisições de imóveis situados nas áreas de localização empresarial, efectuadas pelas respectivas sociedades gestoras e pelas empresas que nelas se instalarem.
+
+2 - São isentos de imposto municipal sobre imóveis, pelo período de 10 anos, os prédios situados nas áreas de localização empresarial, adquiridos ou construídos pelas respectivas sociedades gestoras e pelas empresas que neles se instalarem.
+
+3 - As isenções previstas nos n.os 1 e 2 ficam dependentes de reconhecimento prévio do interesse municipal pelo órgão competente do município.
+
+4 - A isenção referida no n.º 2 é reconhecida pelo chefe do serviço de finanças da área da situação dos prédios, mediante requerimento devidamente fundamentado, e instruído com o documento comprovativo do interesse municipal, a apresentar pelo sujeito passivo no prazo de 90 dias contados da data da aquisição ou conclusão das obras.
+
+5 - Se o pedido de isenção for apresentado para além do prazo referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
+
+6 - O regime referido nos n.os 1 e 2 vigora para os imóveis adquiridos ou concluídos até 31 de dezembro de 2016.
+
+7 - O presente regime aplica-se igualmente aos parques empresariais da Região Autónoma da Madeira, criados e regulados pelo Decreto Legislativo Regional n.º 28/2001/M, de 28 de Agosto, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 12/2002/M, de 17 de Julho.
+
+> Alterado pelo/a Artigo 170.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 217.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 206.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 218.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 122/2008, Série I de 2008-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2008-456221), em vigor a partir de 2008-07-01
+
+###### Artigo 70.º — Medidas de apoio ao transporte rodoviário de passageiros e de mercadorias
+
+1 - [Revogado].
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - Os gastos suportados com a aquisição, em território português, de combustíveis para abastecimento de veículos são dedutíveis, em valor correspondente a 120 % do respectivo montante, para efeitos da determinação do lucro tributável, quando se trate de:
+
+a) Veículos afetos ao transporte público de passageiros e estejam registados como elementos do ativo fixo tangível de sujeitos passivos de IRC que estejam licenciados pelo IMT, I. P.;
+
+b) Veículos afetos ao transporte rodoviário de mercadorias público ou por conta de outrem, com peso bruto igual ou superior a 3,5 t, registados como elementos do ativo fixo tangível de sujeitos passivos IRC ou alugados sem condutor por estes e que estejam licenciados pelo IMT, I. P.;
+
+c) Veículos afectos ao transporte em táxi, registados como elementos do activo fixo tangível dos sujeitos passivos de IRS ou de IRC, com contabilidade organizada e que estejam devidamente licenciados.
+
+5 - O benefício previsto no número anterior encontra-se excluído do âmbito de aplicação do n.º 1 do artigo 92.º do Código do IRC.
+
+6 - Os benefícios fiscais previstos no presente artigo são aplicáveis durante o período de tributação que se inicie em ou após 1 de janeiro de 2016 e seguintes.
+
+7 - O benefício fiscal previsto no presente artigo não é aplicável, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2017, aos gastos suportados com a aquisição de combustíveis que tenham beneficiado do regime de reembolso parcial para gasóleo profissional.
+
+> Nota: [Artigo 3.º, Lei n.º 84/2021 - Diário da República n.º 235/2021, Série I de 2021-12-06](https://diariodarepublica.pt/dr/detalhe/lei/84-2021-175397115) A vigência do artigo 70.º do Estatuto dos Benefícios Fiscais é prorrogada até 31 de dezembro de 2026.
+
+> Alterado pelo/a Artigo 224.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2016 - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2016-74953317), em vigor a partir de 2016-07-16
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 119.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 109.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Aditado pelo/a Artigo 99.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 71.º — Incentivos à reabilitação urbana
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - São dedutíveis à colecta, em sede de IRS, até ao limite de (euro) 500, 30 % dos encargos suportados pelo proprietário relacionados com a reabilitação de:
+
+a) Imóveis, localizados em 'áreas de reabilitação urbana' e recuperados nos termos das respectivas estratégias de reabilitação; ou
+
+b) Imóveis arrendados passíveis de actualização faseada das rendas nos termos dos artigos 27.º e seguintes do Novo Regime de Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de Fevereiro, que sejam objecto de acções de reabilitação.
+
+5 - (Revogado.)
+
+6 - É aplicável ao Fundo Nacional de Reabilitação do Edificado o regime tributário previsto no artigo 8.º do Regime Jurídico dos Fundos e Sociedades de Investimento Imobiliário para Arrendamento Habitacional, aprovado pelo artigo 102.º da Lei n.º 64-A/2008, de 31 de dezembro, com as necessárias adaptações, compreendendo as finalidades previstas na alínea b) do n.º 3 da Resolução do Conselho de Ministros n.º 48/2016, de 1 de setembro, com a alteração introduzida pela Resolução do Conselho de Ministros n.º 50-A/2018, de 2 de maio.
+
+7 - (Revogado.)
+
+a) Imóveis situados em 'área de reabilitação urbana', recuperados nos termos das respectivas estratégias de reabilitação;
+
+b) Imóveis arrendados passíveis de actualização faseada das rendas nos termos dos artigos 27.º e seguintes do NRAU, que sejam objecto de acções de reabilitação.
+
+8 - (Revogado).
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+12 - (Revogado.)
+
+13 - (Revogado.)
+
+14 - (Revogado.)
+
+15 - (Revogado.)
+
+16 - (Revogado.)
+
+17 - (Revogado.)
+
+18 - Os encargos a que se refere o n.º 4 devem ser devidamente comprovados e dependem de certificação prévia por parte do órgão de gestão da área de reabilitação ou da comissão arbitral municipal, consoante os casos.
+
+19 - As entidades mencionadas no número anterior devem remeter à administração tributária as certificações referidas no número anterior.
+
+20 - (Revogado.)
+
+21 - (Revogado.)
+
+22 - (Revogado.)
+
+23 - Para efeitos do presente artigo, considera-se:
+
+a) 'Ações de reabilitação' as intervenções de reabilitação de edifícios, tal como definidas no Regime Jurídico da Reabilitação Urbana, estabelecido pelo Decreto-Lei n.º 307/2009, de 23 de outubro, em imóveis que cumpram uma das seguintes condições:
+
+i) Da intervenção resultar um estado de conservação de, pelo menos, dois níveis acima do verificado antes do seu início;
+
+ii) Um nível de conservação mínimo 'bom' em resultado de obras realizadas nos quatro anos anteriores à data do requerimento para a correspondente avaliação, desde que o custo das obras, incluindo imposto sobre valor acrescentado, corresponda, pelo menos, a 25 % do valor patrimonial tributário do imóvel e este se destine a arrendamento para habitação permanente;
+
+b) 'Área de reabilitação urbana' a área territorialmente delimitada nos termos do Regime Jurídico da Reabilitação Urbana, estabelecido pelo Decreto-Lei n.º 307/2009, de 23 de outubro;
+
+c) 'Estado de conservação' o estado do edifício ou da habitação determinado nos termos do disposto no Decreto-Lei n.º 266-B/2012, de 31 de dezembro.
+
+24 - A comprovação do início e da conclusão das ações de reabilitação é da competência da câmara municipal ou de outra entidade legalmente habilitada para gerir um programa de reabilitação urbana para a área da localização do imóvel, incumbindo-lhes certificar o estado dos imóveis, antes e após as obras compreendidas na ação de reabilitação, sem prejuízo do disposto na subalínea ii) da alínea a) do número anterior.
+
+25 - (Revogado.)
+
+26 - (Revogado.)
+
+27 - (Revogado.)
+
+28 - (Revogado.)
+
+29 - (Revogado.)
+
+30 - (Revogado.)
+
+> Alterado pelo/a Artigo 28.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+> Alterado pelo/a Artigo 250.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 355.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 6/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2019-120454102), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 291.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 263.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 170.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2015 - Diário da República n.º 8/2015, Série I de 2015-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2015-66145328), em vigor a partir de 2015-01-18, produz efeitos a partir de 2015-07-01
+
+> Alterado pelo/a Artigo 218.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Aditado pelo/a Artigo 99.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 71.º-A — Incentivos ao arrendamento habitacional a custos acessíveis e à venda de imóveis ao Estado
+
+1 - Beneficiam do incentivo previsto no número seguinte os fundos de investimento imobiliário e as sociedades de investimento imobiliário que operem de acordo com a legislação nacional, desde que pelo menos 75 % dos seus ativos sejam bens imóveis afetos a arrendamento habitacional a custos acessíveis.
+
+2 - O saldo positivo entre as mais-valias e as menos-valias resultantes da alienação de unidades de participação nos organismos referidos no número anterior é tributado à taxa de 10 % quando os titulares sejam entidades não residentes a que não seja aplicável a isenção prevista no artigo 27.º ou sujeitos passivos de IRS residentes em território português que obtenham os rendimentos fora do âmbito de uma atividade comercial, industrial ou agrícola e não optem pelo respetivo englobamento.
+
+3 - Ficam isentos de tributação em IRS e em IRC, pelo período de duração dos respetivos contratos, os rendimentos prediais obtidos no âmbito dos programas municipais de oferta para arrendamento habitacional a custos acessíveis e para alojamento estudantil, sendo os rendimentos isentos englobados, em sede de IRS, para efeitos de determinação da taxa a aplicar aos restantes rendimentos, quando o sujeito passivo opte pelo englobamento dos rendimentos prediais.
+
+4 - Para efeitos do disposto no número anterior, consideram-se:
+
+a) 'Programas municipais de oferta para arrendamento habitacional a custos acessíveis', os programas de iniciativa municipal que tenham por objeto contratos de arrendamento e subarrendamento habitacional por um prazo mínimo de arrendamento não inferior a cinco anos e cujo limite geral de preço de renda por tipologia não exceda o definido nas tabelas 1 e 2 do anexo i à Portaria n.º 176/2019, de 6 de junho;
+
+b) 'Programas municipais de oferta para alojamento estudantil', os programas de iniciativa municipal que tenham por objeto contratos de arrendamento e subarrendamento dirigido a estudantes deslocados e cujo limite geral de preço de renda por tipologia não exceda o definido pela portaria a que se refere alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio.
+
+5 - Em tudo o que não esteja previsto nos números anteriores aplica-se o regime do Decreto-Lei n.º 68/2019, de 22 de maio, com as necessárias adaptações.
+
+6 - A isenção prevista no n.º 3 depende de reconhecimento pelo membro do Governo responsável pela área das finanças.
+
+7 - Ficam isentos de tributação em IRS e IRC os ganhos provenientes da alienação onerosa, ao Estado, às regiões autónomas, às entidades públicas empresariais na área da habitação ou às autarquias locais, de imóveis para habitação e terrenos para construção, com exceção:
+
+a) Dos ganhos realizados por residentes com domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças;
+
+b) Dos ganhos decorrentes de alienações onerosas através do exercício de direito de preferência.
+
+8 - Os rendimentos isentos nos termos dos números anteriores são englobados, em sede de IRS, para efeitos de determinação da taxa a aplicar aos restantes rendimentos.
+
+> Alterado pelo/a Artigo 262.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Aditado pelo/a Artigo 29.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 72.º — Pequenos investidores
+
+Fica isento de IRS, até ao valor anual de (euro) 500, o saldo positivo entre as mais-valias e menos-valias resultante da alienação de acções, de obrigações e de outros títulos de dívida, obtido por residentes em território português.
+
+> Revogado pelo/a Artigo 219.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 15/2010 - Diário da República n.º 143/2010, Série I de 2010-07-26](https://diariodarepublica.pt/dr/detalhe/lei/15-2010-334098), em vigor a partir de 2010-07-27
+
+###### Artigo 73.º — Equipamentos de energias renováveis
+
+1 - São dedutíveis à colecta do IRS, desde que não susceptíveis de serem considerados custos para efeitos da categoria B, 30 % das importâncias despendidas com a aquisição dos seguintes bens, desde que afectos a utilização pessoal, com o limite de (euro) 803:
+
+a) Equipamentos novos para utilização de energias renováveis e de equipamentos para a produção de energia eléctrica ou térmica (co-geração) por microturbinas, com potência até 100 kW, que consumam gás natural, incluindo equipamentos complementares indispensáveis ao seu funcionamento;
+
+b) Equipamentos e obras de melhoria das condições de comportamento térmico de edifícios, dos quais resulte directamente o seu maior isolamento;
+
+c) Veículos sujeitos a matrícula exclusivamente eléctricos ou movidos a energias renováveis não combustíveis.
+
+2 - Os benefícios referidos em cada uma das alíneas do número anterior apenas podem ser utilizados uma vez em cada período de quatro anos.
+
+> Revogado pelo/a Artigo 146.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Aditado pelo/a Artigo 120.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 74.º — Seguros de saúde
+
+1 - São dedutíveis à colecta do IRS 10 % dos prémios de seguros ou contribuições pagas a associações mutualistas ou a instituições sem fins lucrativos que tenham por objecto a prestação de cuidados de saúde que, em qualquer dos casos, cubram exclusivamente os riscos de saúde relativamente ao sujeito passivo ou aos seus dependentes, pagos por aquele ou por terceiros, desde que, neste caso, tenham sido comprovadamente tributados como rendimento do sujeito passivo, com os seguintes limites:
+
+a) Tratando-se de sujeitos passivos não casados ou separados judicialmente de pessoas e bens, até ao limite de (euro) 50;
+
+b) Tratando-se de sujeitos passivos casados e não separados judicialmente de pessoas e bens, até ao limite de (euro) 100.
+
+2 - Por cada dependente a cargo do sujeito passivo, os limites das alíneas a) e b) do número anterior são elevados em (euro) 25.
+
+> Revogado pelo/a Artigo 16.º do/a [Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-e-2014-66022085), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Aditado pelo/a Artigo 120.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 74.º-A — Transferência de imóveis de alojamento local para arrendamento
+
+1 - Ficam isentos de tributação em IRS e IRC os rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente, desde que verificadas, cumulativamente, as seguintes condições:
+
+a) Os rendimentos resultem da transferência para arrendamento, para habitação permanente, de imóveis afetos à exploração de estabelecimentos de alojamento local;
+
+b) O estabelecimento de alojamento local tenha sido registado e estivesse afeto a esse fim até 31 de dezembro de 2022;
+
+c) A celebração do contrato de arrendamento e respetiva inscrição no Portal das Finanças ocorra até 31 de dezembro de 2024.
+
+2 - A isenção prevista no número anterior é aplicável aos rendimentos prediais obtidos até 31 de dezembro de 2029.
+
+> Aditado pelo/a Artigo 29.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+## Anexo — Tabelas a que se refere a alínea e) do artigo 2.º do decreto-lei que aprova o Estatuto dos Benefícios Fiscais
+
+TABELA A
+
+Coeficientes de conversão
+
+Benefícios fiscais - transição para o IRC
+
+(ver documento original)
+
+TABELA B
+
+Coeficientes de conversão
+
+Benefícios fiscais - transição para o IRS
+
+(ver documento original)
+
+Normas de aplicação das tabelas A e B
+
+1 - Os coeficientes de conversão definidos nas tabelas A e B aplicam-se aos rendimentos objecto de desagravamento fiscal cujo direito tenha sido adquirido até 31 de Dezembro de 1988, designadamente os benefícios de fonte internacional e contratual e os benefícios temporários e condicionados.
+
+2 - O coeficiente de conversão a aplicar aos rendimentos objecto de desagravamento fiscal é o que se obtém na correspondente tabela da situação desses rendimentos (transição para o IRS ou IRC) pela intersecção do respectivo imposto parcelar com o imposto complementar.
+
+3 - A conversão de benefícios fiscais no âmbito do IRS será efectuada mediante:
+
+a) Dedução ao rendimento líquido total do produto resultante do coeficiente de conversão pelo rendimento líquido desagravado, no caso do seu englobamento obrigatório ou facultativo;
+
+b) Tributação a taxa reduzida correspondente à diferença entre a taxa aplicável e a que resulta do produto desta pelo coeficiente de conversão, no caso de rendimentos sujeitos a taxas liberatórias referidas no artigo 74.º do Código do IRS, quando não englobados.
+
+4 - A conversão de benefícios fiscais no âmbito do IRC será obtida mediante crédito do imposto correspondente ao produto da taxa aplicável pela matéria colectável objecto de desagravamento fiscal e pelo coeficiente de conversão.
+
+5 - O crédito de imposto referido no número anterior será deduzido à colecta do IRC nos termos da alínea d) do n.º 2 do artigo 71.º do respectivo Código.
+
+6 - Para efeitos de aplicação das tabelas A e B, o coeficiente de redução (coef. red.) é a percentagem de redução da taxa anteriormente aplicada, consoante os casos, em sede dos impostos parcelares.
+
+7 - As retenções na fonte de rendimentos desagravados referidos na alínea b) do artigo 74.º do Código do IRS devem ser efectuadas pela taxa reduzida prevista na alínea b) do n.º 3 das presentes normas, sem prejuízo do disposto no n.º 3 do artigo 2.º do diploma que aprovou o Estatuto dos Benefícios Fiscais.
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 251/1989, Suplemento n.º 2, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505254), em vigor a partir de 1989-10-31

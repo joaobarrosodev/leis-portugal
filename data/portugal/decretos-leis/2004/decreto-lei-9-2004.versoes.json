@@ -1,0 +1,247 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:241184:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-215486975",
+ "dre_path": "/dr/detalhe/decreto-lei/9-2004-241184",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-01-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215461790",
+    "215461791",
+    "215461792",
+    "215461793",
+    "215461794",
+    "215461795",
+    "215461796",
+    "215461797",
+    "215461798",
+    "215461799",
+    "215461800",
+    "215461801",
+    "215461802",
+    "215461803",
+    "215461804",
+    "215461805",
+    "215461806"
+   ]
+  },
+  {
+   "date": "2009-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:248222:por",
+     "title": "Decreto-Lei n.º 22/2008",
+     "published": "2008-02-01",
+     "dre_path": "/dr/detalhe/decreto-lei/22-2008-248222"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "215461790",
+    "215461791",
+    "215461828",
+    "215461829",
+    "215461830",
+    "215461795",
+    "215461796",
+    "215461797",
+    "215461798",
+    "215461799",
+    "215461800",
+    "215461801",
+    "215461802",
+    "215461803",
+    "215461804",
+    "215461805",
+    "215461806",
+    "215461807"
+   ]
+  }
+ ],
+ "fragments": {
+  "215461790": {
+   "fragment_id": "215486976",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 9/2004\n\nde 9 de Janeiro\n\nA criação e instalação de julgados de paz, em estreita parceria entre o Estado e o poder local, possibilitou a institucionalização de uma nova forma de administração da justiça no nosso ordenamento jurídico.\n\nOs princípios orientadores e caracterizadores dos julgados de paz, ao permitirem e pugnarem pela participação e responsabilização das partes na superação dos conflitos, pelo recurso a um meio não adversarial de resolução de litígios, a mediação, ou submissão ao julgamento pelo juiz de paz, consubstanciam-se num contributo assinalável na ambicionada mudança do sistema de administração da justiça, no sentido de a tornar mais acessível aos cidadãos.\n\nCom a publicação do Decreto-Lei n.º 140/2003, de 2 de Julho, operou-se o alargamento da competência territorial dos Julgados de Paz de Lisboa, do Seixal e de Vila Nova de Gaia a todas as freguesias dos respectivos concelhos e converteu-se o Julgado de Paz de Oliveira do Bairro num julgado de paz de agrupamento de concelhos contíguos, passando a sua jurisdição a abranger não só o concelho de Oliveira do Bairro como também os de Águeda, Anadia e Mealhada.\n\nTorna-se, pois, conveniente, orientado pelos mesmos princípios e critérios, criar outros julgados de paz no âmbito do território nacional.\n\nO presente diploma visa, assim, proceder à criação e instalação de novos julgados de paz noutras circunscrições territoriais.\n\nForam ouvidos o Conselho Superior da Magistratura, a Associação Nacional de Freguesias e o Conselho de Acompanhamento dos Julgados de Paz. Foi cumprido o disposto no n.º 1 do artigo 3.º da Lei n.º 78/2001, de 13 de Julho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "215461791": {
+   "fragment_id": "215486977",
+   "type": 1,
+   "heading": "Capítulo I — Julgados de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Julgados de paz"
+  },
+  "215461792": {
+   "fragment_id": "215486978",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma procede, nos termos e ao abrigo do disposto no artigo 3.º da Lei n.º 78/2001, de 13 de Julho, à criação dos seguintes julgados de paz:\n\na) Julgado de Paz do Agrupamento dos Concelhos de Aguiar da Beira e Trancoso;\n\nb) Julgado de Paz do Agrupamento dos Concelhos de Cantanhede, Mira e Montemor-o-Velho;\n\nc) Julgado de Paz do Concelho de Miranda do Corvo;\n\nd) Julgado de Paz do Concelho do Porto;\n\ne) Julgado de Paz do Agrupamento dos Concelhos de Santa Marta de Penaguião, Alijó, Murça, Peso da Régua, Sabrosa e Vila Real;\n\nf) Julgado de Paz do Agrupamento dos Concelhos de Tarouca, Armamar, Castro Daire, Lamego, Moimenta da Beira e Resende;\n\ng) Julgado de Paz do Concelho de Terras de Bouro;\n\nh) Julgado de Paz do Concelho de Vila Nova de Poiares."
+  },
+  "215461793": {
+   "fragment_id": "215486979",
+   "type": 11,
+   "heading": "Artigo 2.º — Circunscrição territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Circunscrição territorial\n\n1 - O Julgado de Paz do Agrupamento dos Concelhos de Aguiar da Beira e Trancoso abrange todas as freguesias destes concelhos.\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Cantanhede, Mira e Montemor-o-Velho abrange todas as freguesias destes concelhos.\n\n3 - O Julgado de Paz do Concelho de Miranda do Corvo abrange todas as freguesias deste concelho.\n\n4 - O Julgado de Paz do Concelho do Porto abrange todas as freguesias deste concelho.\n\n5 - O Julgado de Paz do Agrupamento dos Concelhos de Santa Marta de Penaguião, Alijó, Murça, Peso da Régua, Sabrosa e Vila Real abrange todas as freguesias destes concelhos.\n\n6 - O Julgado de Paz do Agrupamento dos Concelhos de Tarouca, Armamar, Castro Daire, Lamego, Moimenta da Beira e Resende abrange todas as freguesias destes concelhos.\n\n7 - O Julgado de Paz do Concelho de Terras de Bouro abrange todas as freguesias deste concelho.\n\n8 - O Julgado de Paz do Concelho de Vila Nova de Poiares abrange todas as freguesias deste concelho."
+  },
+  "215461794": {
+   "fragment_id": "215486980",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos\n\n1 - O Julgado de Paz do Agrupamento dos Concelhos de Aguiar da Beira e Trancoso tem a sua sede no concelho de Aguiar da Beira.\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Cantanhede, Mira e Montemor-o-Velho tem a sua sede no concelho de Cantanhede.\n\n3 - O Julgado de Paz do Agrupamento dos Concelhos de Santa Marta de Penaguião, Alijó, Murça, Peso da Régua, Sabrosa e Vila Real tem a sua sede no concelho de Santa Marta de Penaguião.\n\n4 - O Julgado de Paz do Agrupamento dos Concelhos de Tarouca, Armamar, Castro Daire, Lamego, Moimenta da Beira e Resende tem a sua sede no concelho de Tarouca."
+  },
+  "215461795": {
+   "fragment_id": "215486981",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição dos julgados de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição dos julgados de paz\n\n1 - Cada julgado de paz é composto por uma ou mais secções, dirigida cada uma delas por um juiz de paz.\n\n2 - O número das secções de cada julgado de paz é estabelecido na portaria que procede à respectiva instalação."
+  },
+  "215461796": {
+   "fragment_id": "215486982",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Organização interna\n\n1 - Os julgados de paz criados pelo presente diploma podem dispor, caso se justifique, de delegações e de postos de atendimento no âmbito da respectiva área de circunscrição, nos termos a fixar nos respectivos regulamentos internos, aprovados por portaria do Ministro da Justiça.\n\n2 - As delegações dispõem de serviço de atendimento, de serviço de apoio administrativo e de serviço de mediação.\n\n3 - As delegações dispõem, ainda, de instalações adequadas à realização de actos processuais, nomeadamente a audiência de julgamento.\n\n4 - Os postos de atendimento dispõem de um serviço de atendimento e de um serviço de apoio administrativo."
+  },
+  "215461797": {
+   "fragment_id": "215486983",
+   "type": 11,
+   "heading": "Artigo 6.º — Período de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Período de funcionamento\n\nO período de funcionamento e de atendimento ao público da sede, delegações e postos de atendimento de cada julgado de paz é fixado no respectivo regulamento interno."
+  },
+  "215461798": {
+   "fragment_id": "215486984",
+   "type": 11,
+   "heading": "Artigo 7.º — Coordenação do julgado de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coordenação do julgado de paz\n\n1 - A coordenação, representação e gestão do julgado de paz compete ao juiz de paz.\n\n2 - Nos julgados de paz onde exista mais de um juiz a coordenação, representação e gestão compete ao juiz de paz designado nos termos definidos no respectivo regulamento interno."
+  },
+  "215461799": {
+   "fragment_id": "215486985",
+   "type": 1,
+   "heading": "Capítulo II — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Serviços"
+  },
+  "215461800": {
+   "fragment_id": "215486986",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviço de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de mediação\n\n1 - O serviço de mediação disponibiliza a qualquer interessado a mediação como forma alternativa de resolução de quaisquer litígios, ainda que excluídos da competência do julgado de paz, com excepção dos que tenham por objecto direitos indisponíveis.\n\n2 - Compete-lhe em especial:\n\na) Realizar a sessão de pré-mediação, explicando às partes a natureza, as características e o objectivo da mediação, bem como as regras a que a mesma obedece;\n\nb) Informar as partes sobre a escolha do mediador e respectiva forma de intervenção e posição de neutralidade e imparcialidade face às partes;\n\nc) Verificar a predisposição das partes para um possível acordo na base de mediação;\n\nd) Submeter, se for o caso, o acordo de mediação assinado pelas partes à imediata homologação pelo juiz de paz, quando o julgado de paz seja competente para a apreciação da causa respectiva;\n\ne) Facultar a qualquer interessado o regulamento interno do serviço de mediação e demais legislação conexa.\n\n3 - O serviço de mediação é assegurado pelos mediadores inscritos na lista do julgado de paz, nos termos do regulamento aprovado por portaria do Ministro da Justiça."
+  },
+  "215461801": {
+   "fragment_id": "215486987",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviço de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviço de atendimento\n\n1 - Compete ao serviço de atendimento, junto do qual funciona a secretaria do julgado de paz, designadamente:\n\na) Assegurar o atendimento ao público, prestando informação sobre as atribuições e competências do julgado de paz e respectiva tramitação processual, bem como sobre a pré-mediação e a mediação;\n\nb) Receber os requerimentos apresentados pelos interessados, reduzindo a escrito, mediante o preenchimento de formulário, os pedidos formulados verbalmente;\n\nc) Proceder às citações e notificações previstas na lei;\n\nd) Receber a contestação, reduzindo-a a escrito quando apresentada verbalmente;\n\ne) Designar os mediadores através do coordenador na falta de escolha consensual pelas partes;\n\nf) Marcar as sessões de pré-mediação e de mediação;\n\ng) Comunicar a data da audiência de julgamento, nos casos previstos na lei, de acordo com a orientação do juiz de paz.\n\n2 - É dada prioridade à marcação da mediação solicitada pelas partes em processos judiciais pendentes mediante a suspensão voluntária da instância."
+  },
+  "215461802": {
+   "fragment_id": "215486988",
+   "type": 11,
+   "heading": "Artigo 10.º — Serviço de apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Serviço de apoio administrativo\n\nAo serviço de apoio administrativo compete a prestação do apoio administrativo necessário ao funcionamento eficaz dos serviços do julgado de paz."
+  },
+  "215461803": {
+   "fragment_id": "215486989",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "215461804": {
+   "fragment_id": "215486990",
+   "type": 11,
+   "heading": "Artigo 11.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pessoal\n\nO funcionamento dos julgados de paz criados pelo presente diploma é assegurado por funcionários e agentes das autarquias locais, em regime de destacamento, ou por pessoal para o efeito contratado, sem prejuízo do recurso à mobilidade de funcionários, agentes e demais trabalhadores da administração central, nos termos da lei."
+  },
+  "215461805": {
+   "fragment_id": "215486991",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas de funcionamento\n\n1 - Sem prejuízo do disposto no número seguinte, as despesas decorrentes da instalação e funcionamento dos julgados de paz criados pelo presente diploma, incluindo as relativas ao pessoal a eles afecto, são suportadas nos termos dos protocolos celebrados entre o Ministério da Justiça e os municípios referidos no artigo 1.º\n\n2 - As despesas com a remuneração dos juízes de paz e com o pagamento dos honorários dos mediadores são suportadas pelo Ministério da Justiça, nos termos a definir por portaria do Ministro da Justiça."
+  },
+  "215461806": {
+   "fragment_id": "215486992",
+   "type": 11,
+   "heading": "Artigo 13.º — Instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instalação\n\nOs julgados de paz criados pelo presente diploma entram em funcionamento na data que, para o efeito, seja determinada na portaria que, nos termos do n.º 3 do artigo 3.º da Lei n.º 78/2001, de 13 de Julho, proceda à respectiva instalação."
+  },
+  "215461828": {
+   "fragment_id": "215486978",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 22/2008 - Diário da República n.º 23/2008, Série I de 2008-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2008-248222), em vigor a partir de 2009-05-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma procede, nos termos e ao abrigo do disposto no artigo 3.º da Lei n.º 78/2001, de 13 de Julho, à criação dos seguintes julgados de paz:\n\na) Revogada;\n\nb) Julgado de Paz do Agrupamento dos Concelhos de Cantanhede, Mira e Montemor-o-Velho;\n\nc) Julgado de Paz do Concelho de Miranda do Corvo;\n\nd) Julgado de Paz do Concelho do Porto;\n\ne) Julgado de Paz do Agrupamento dos Concelhos de Santa Marta de Penaguião, Alijó, Murça, Peso da Régua, Sabrosa e Vila Real;\n\nf) Julgado de Paz do Agrupamento dos Concelhos de Tarouca, Armamar, Castro Daire, Lamego, Moimenta da Beira e Resende;\n\ng) Julgado de Paz do Concelho de Terras de Bouro;\n\nh) Julgado de Paz do Concelho de Vila Nova de Poiares.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 22/2008 - Diário da República n.º 23/2008, Série I de 2008-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2008-248222), em vigor a partir de 2009-05-27"
+  },
+  "215461829": {
+   "fragment_id": "215486979",
+   "type": 11,
+   "heading": "Artigo 2.º — Circunscrição territorial",
+   "in_force_from": "2009-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 22/2008 - Diário da República n.º 23/2008, Série I de 2008-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2008-248222), em vigor a partir de 2009-05-27"
+   ],
+   "markdown": "###### Artigo 2.º — Circunscrição territorial\n\n1 - (Revogado.)\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Cantanhede, Mira e Montemor-o-Velho abrange todas as freguesias destes concelhos.\n\n3 - O Julgado de Paz do Concelho de Miranda do Corvo abrange todas as freguesias deste concelho.\n\n4 - O Julgado de Paz do Concelho do Porto abrange todas as freguesias deste concelho.\n\n5 - O Julgado de Paz do Agrupamento dos Concelhos de Santa Marta de Penaguião, Alijó, Murça, Peso da Régua, Sabrosa e Vila Real abrange todas as freguesias destes concelhos.\n\n6 - O Julgado de Paz do Agrupamento dos Concelhos de Tarouca, Armamar, Castro Daire, Lamego, Moimenta da Beira e Resende abrange todas as freguesias destes concelhos.\n\n7 - O Julgado de Paz do Concelho de Terras de Bouro abrange todas as freguesias deste concelho.\n\n8 - O Julgado de Paz do Concelho de Vila Nova de Poiares abrange todas as freguesias deste concelho.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 22/2008 - Diário da República n.º 23/2008, Série I de 2008-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2008-248222), em vigor a partir de 2009-05-27"
+  },
+  "215461830": {
+   "fragment_id": "215486980",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos",
+   "in_force_from": "2009-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 22/2008 - Diário da República n.º 23/2008, Série I de 2008-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2008-248222), em vigor a partir de 2009-05-27"
+   ],
+   "markdown": "###### Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos\n\n1 - (Revogada;)\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Cantanhede, Mira e Montemor-o-Velho tem a sua sede no concelho de Cantanhede.\n\n3 - O Julgado de Paz do Agrupamento dos Concelhos de Santa Marta de Penaguião, Alijó, Murça, Peso da Régua, Sabrosa e Vila Real tem a sua sede no concelho de Santa Marta de Penaguião.\n\n4 - O Julgado de Paz do Agrupamento dos Concelhos de Tarouca, Armamar, Castro Daire, Lamego, Moimenta da Beira e Resende tem a sua sede no concelho de Tarouca.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 22/2008 - Diário da República n.º 23/2008, Série I de 2008-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2008-248222), em vigor a partir de 2009-05-27"
+  },
+  "215461807": {
+   "fragment_id": "215486993",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.\n\nPromulgado em 22 de Dezembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 29 de Dezembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

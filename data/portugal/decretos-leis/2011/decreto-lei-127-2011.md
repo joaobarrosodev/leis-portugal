@@ -1,0 +1,355 @@
+---
+schema_version: '1.0'
+id: pt:dre:413399:por
+title: Decreto-Lei n.º 127/2011
+short_title: null
+summary: Procede à transmissão para o Estado das responsabilidades com pensões previstas no regime de segurança social substitutivo
+  constante de instrumento de regulamentação colectiva de trabalho vigente no sector bancário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 127/2011
+official_date: null
+publication_date: '2011-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250-A/2011, Série I de 2011-12-31
+  number: '250'
+  series: I
+  supplement: null
+  pages: 5540 - 5543
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/12/250a00/0554005543.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2013-01-01'
+version_history:
+  file: decreto-lei-127-2011.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2011-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-05-15'
+    amending: pt:dre:552023:por
+    amending_title: Lei n.º 20/2012
+    changes:
+    - Altera Artigo 8.º
+    - Altera Anexo
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/127/2011/p/cons/20121231/pt/html
+  oj: null
+  dre: '413399'
+  dre_path: /dr/detalhe/decreto-lei/127-2011-413399
+  internal: pt:dre:413399:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2011-413399
+  metadata_url: https://data.dre.pt/eli/dec-lei/127/2011/p/cons/20121231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-229973303
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-229973303
+  retrieved_at: '2026-10-22T13:01:08Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c816f7d78afa5ecc7eac716441b4ee3fee5f01d4980176d519120e7a1ad9d924
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:01:08Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-127-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Actualização de Pensões
+- Instituto da Segurança Social
+- Instituição de Crédito
+- Centro Nacional de Pensões
+- Definição de Competências
+- Empregado Bancário
+- Fundo de Pensões
+- Pagamento
+- Pensionista
+- Pensões
+- Prestações da Segurança Social
+- Reformado
+- Segurança Social
+- Subsídio por Morte
+- Transferência de Competências
+- Transferência Patrimonial
+relationships:
+- type: amended_by
+  target: pt:dre:552023:por
+  label: Altera Artigo 8.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: cites
+  target: pt:dre:406906:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/1-a/2011/01/03/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:604649:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2009/03/02/p/dre
+article_structure:
+  article_count: 12
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:01:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 127/2011
+
+Decreto-Lei n.º 127/2011
+
+de 31 de Dezembro
+
+O Decreto-Lei n.º 54/2009, de 2 de Março, determinou a inscrição dos novos trabalhadores bancários no regime geral de segurança social, dando um passo decisivo na concretização da integração no sistema previdencial dos grupos sócio-profissionais parcialmente abrangidos pelo sistema de segurança social.
+
+Na sequência do referido diploma, o Decreto-Lei n.º 1-A/2011, de 3 de Janeiro, aprofundou o processo de integração dos trabalhadores do sector bancário no regime geral de segurança social, concretizando o acordo celebrado, em 20 de Outubro de 2010, entre o Governo, através do então Ministério do Trabalho e da Solidariedade Social, a Associação Portuguesa de Bancos, em representação das instituições de crédito, e a Federação do Sector Financeiro (FEBASE), procedendo à integração no regime geral de segurança social, para algumas eventualidades, dos trabalhadores bancários no activo, ainda abrangidos por regimes de segurança social substitutivos daquele regime geral.
+
+Esta integração representou um importante passo na harmonização do sistema de protecção social dos trabalhadores bancários com o regime geral de segurança social, e na concretização dos princípios de convergência e universalização dos regimes de protecção social públicos, previstos nas Bases Gerais do Sistema de Segurança Social, aprovadas pela Lei n.º 4/2007, de 16 de Janeiro. Tal processo apenas produziu efeitos para o futuro, tendo-se mantido as responsabilidades das instituições de crédito, através dos respectivos fundos de pensões, pelos pagamentos devidos por força da aplicação dos instrumentos de regulamentação colectiva de trabalho do sector.
+
+Assim, em prossecução dos mesmos objectivos, pretende-se agora proceder à definição das condições de transferência para o âmbito da Segurança Social dos reformados e pensionistas que em 31 de Dezembro de 2011 se encontram no regime de segurança social substitutivo constante dos instrumentos de regulamentação colectiva de trabalho vigentes no sector bancário, prevendo-se a transmissão para a Segurança Social das responsabilidades pelos encargos com as pensões de reforma e sobrevivência e a manutenção da responsabilidade das instituições de crédito, através dos respectivos fundos de pensões, do pagamento das actualizações do valor das pensões, dos benefícios de natureza complementar às pensões de reforma e sobrevivência assumidas pela Segurança Social, da contribuição para os Serviços de Assistência Médico-Social sobre as pensões de reforma e sobrevivência, do subsídio por morte, da pensão de sobrevivência a filhos, da pensão de sobrevivência a filhos e cônjuge sobrevivo desde que referente ao mesmo trabalhador e da pensão de sobrevivência devida a familiar de actual reformado, cujas condições de atribuição ocorram a partir de 1 de Janeiro de 2012 (pensão de sobrevivência diferida).
+
+Para pagamento das responsabilidades assumidas pela Segurança Social são transmitidos para o Estado activos dos fundos de pensões em causa, de acordo com os prazos e valores definidos no âmbito do processo de audição que envolveu o Governo, a Associação Portuguesa de Bancos e as instituições de crédito, tendo sido baseado em pressupostos consistentes e respeitando as melhores práticas, que permitiram acautelar devidamente os interesses financeiros do Estado e, em especial, da Segurança Social nesta operação, bem como o rigoroso respeito pelos direitos adquiridos pelos pensionistas e reformados nos termos e condições daqueles instrumentos de regulamentação colectiva, relativamente às prestações transferidas, nos termos dos artigos 5.º e 20.º das Bases Gerais do Sistema de Segurança Social, aprovadas pela Lei n.º 4/2007, de 16 de Janeiro.
+
+Foram ouvidas as estruturas patronais e sindicais representativas do sector bancário, tendo sido celebrados Acordos Tripartidos entre o Governo, através do Ministério das Finanças, a Associação Portuguesa de Bancos, em representação das Instituições de Crédito constantes do anexo ao presente diploma, e as Federações Sindicais que representam os trabalhadores do sector, através do qual foi expressa a concordância quanto aos termos e condições da transferência para o âmbito da segurança social dos reformados e pensionistas integrados no regime de segurança social substitutivo constante dos instrumentos de regulamentação colectiva de trabalho vigentes no sector bancário. O presente diploma foi, ainda, objecto de apreciação pública, tendo sido publicado na separata n.º 5 do Boletim do Trabalho e Emprego de 9 de Dezembro de 2011.
+
+O Banco de Portugal e o Instituto de Seguros de Portugal acompanharam tecnicamente o processo de audição desenvolvido entre o Governo, a Associação Portuguesa de Bancos e as instituições de crédito, no quadro das responsabilidades de regulação e supervisão que lhes estão cometidas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma visa promover:
+
+a) A assunção, pela Segurança Social, da responsabilidade pelas pensões em pagamento em 31 de Dezembro de 2011 previstas no regime de segurança social substitutivo constante de instrumento de regulamentação colectiva de trabalho vigente no sector bancário;
+
+b) A transmissão para o Estado da titularidade do património dos fundos de pensões, na parte afecta à satisfação da responsabilidade pelas pensões referidas na alínea anterior;
+
+c) Os termos do financiamento pelo Estado da responsabilidade pelas pensões referidas.
+
+2 - Para efeitos do presente diploma, entende-se por regime de segurança social substitutivo constante de instrumento de regulamentação colectiva de trabalho vigente no sector bancário o regime aplicável aos reformados, pensionistas e trabalhadores à data da integração destes últimos no regime geral de segurança social, operada pelo Decreto-Lei n.º 1-A/2011, de 3 de Janeiro.
+
+###### Artigo 2.º — Âmbito subjectivo
+
+São abrangidos pelo presente diploma:
+
+a) Os reformados e pensionistas integrados no regime de segurança social substitutivo constante de instrumento de regulamentação colectiva de trabalho vigente para o sector bancário, que se encontrem nessas condições à data de 31 de Dezembro de 2011;
+
+b) Os bancos e outras instituições de crédito abrangidos pelos instrumentos de regulamentação colectiva de trabalho que prevejam regime de segurança social substitutivo, e que se encontram identificadas no anexo ao presente diploma, do qual faz parte integrante, adiante designados por instituições de crédito.
+
+### Capítulo II — Responsabilidades da Segurança Social, do Estado, das instituições de crédito
+
+###### Artigo 3.º — Responsabilidade da Segurança Social e do Estado
+
+1 - A responsabilidade pelas pensões a pagamento em 31 de Dezembro de 2011 e previstas no regime de segurança social substitutivo constante de instrumento de regulamentação colectiva de trabalho vigente no sector bancário, é assumida pela Segurança Social.
+
+2 - A Segurança Social é responsável, a partir de 1 de Janeiro de 2012, pelas pensões referidas no número anterior, no valor correspondente ao pensionamento da remuneração à data de 31 de Dezembro de 2011, nos termos e condições previstos nos instrumentos de regulamentação colectiva de trabalho do sector bancário aplicáveis, incluindo os valores relativos ao subsídio de Natal e ao 14.º mês.
+
+3 - A responsabilidade da Segurança Social, referida nos números anteriores, é assumida com salvaguarda dos direitos adquiridos nos termos e condições estabelecidos nos mencionados instrumentos de regulamentação colectiva de trabalho do sector bancário aplicáveis, garantindo o Estado a manutenção integral das prestações em causa.
+
+4 - O Estado é responsável pelo financiamento das pensões a que se refere o n.º 1, incluindo os encargos administrativos, devendo para tanto transferir para a Segurança Social os respectivos montantes.
+
+5 - A transferência a que se refere o número anterior constitui uma dotação específica, não incluída nas dotações previstas na Lei de Bases da Segurança Social.
+
+###### Artigo 4.º — Responsabilidade das instituições de crédito
+
+1 - As instituições de crédito, através dos respectivos fundos de pensões, mantêm a responsabilidade pelo pagamento:
+
+a) Das actualizações do valor das pensões referidas no artigo 3.º, de acordo com o previsto nos instrumentos de regulamentação colectiva de trabalho do sector bancário aplicáveis;
+
+b) Das contribuições patronais para os Serviços de Assistência Médico-Social (SAMS), geridos pelos respectivos sindicatos, que incidem sobre as pensões de reforma e de sobrevivência, nos termos previstos nos instrumentos de regulamentação colectiva de trabalho do sector bancário aplicáveis;
+
+c) Do subsídio por morte;
+
+d) Da pensão de sobrevivência a filhos;
+
+e) Da pensão de sobrevivência a filhos e cônjuge sobrevivo, desde que referente ao mesmo trabalhador;
+
+f) Da pensão de sobrevivência devida a familiar de actual reformado, cujas condições de atribuição ocorram a partir de 1 de Janeiro de 2012.
+
+2 - A responsabilidade assumida pela Segurança Social através do presente diploma não abrange os benefícios complementares à Segurança Social, quando a eles haja lugar, os quais se mantêm sem alteração.
+
+### Capítulo III — Transferência de valores dos fundos de pensões
+
+###### Artigo 5.º — Transferência da titularidade de activos dos fundos de pensões
+
+1 - A titularidade dos activos dos fundos de pensões das respectivas instituições de crédito, na parte afecta à satisfação da responsabilidade pelas pensões referidas no artigo 3.º, é transmitida para o Estado.
+
+2 - A transmissão efectuada nos termos do número anterior é realizada como contrapartida e para tornar possível o cumprimento das obrigações assumidas pela Segurança Social nos termos previstos nos n.os 2 e 3 do artigo 3.º
+
+###### Artigo 6.º — Termos e condições das transferências de activos
+
+1 - O valor dos activos dos fundos de pensões a transmitir para o Estado deve ser igual ao valor das responsabilidades assumidas pela Segurança Social de acordo com o disposto no presente diploma, e é determinado nos termos dos números seguintes, tendo em conta os seguintes pressupostos:
+
+a) Taxa de desconto: 4 %;
+
+b) Tábuas de mortalidade, nos termos da regulamentação definida pelo Instituto de Seguros de Portugal: população masculina: TV 73/77 menos 1 ano; população feminina: TV 88/90.
+
+2 - O valor actual das responsabilidades assumidas pela Segurança Social de acordo com o disposto no presente diploma é apurado da seguinte forma:
+
+a) As instituições de crédito procedem a um apuramento provisório, reportado a 31 de Dezembro de 2011, e comunicam esse valor ao Ministério das Finanças até 15 de Dezembro de 2011;
+
+b) O valor definitivo é determinado por uma entidade independente a contratar pelo Ministério das Finanças, sem prejuízo do disposto no número seguinte.
+
+3 - Se entre os valores provisórios e o apuramento efectuado pela entidade referida na alínea b) do número anterior existir uma diferença superior a 0,5 %, a fixação do valor definitivo das responsabilidades é realizada por uma entidade independente escolhida por acordo entre a instituição de crédito e o Ministério das Finanças, sendo a remuneração dessa entidade independente repartida em partes iguais entre a instituição de crédito e o Ministério das Finanças.
+
+4 - Os activos a transmitir nos termos do artigo anterior podem ser constituídos por numerário e, até 50 % do valor dos activos a transmitir, por títulos da dívida pública portuguesa, neste caso valorizados pelo respectivo valor de mercado, apurado com referência à média dos três dias úteis imediatamente anteriores à data da transmissão, com base nos métodos de cálculo habitualmente utilizados pelo Instituto de Gestão da Tesouraria e do Crédito Público, I. P.
+
+5 - A transmissão da titularidade dos activos é realizada pelas instituições de crédito nos seguintes termos:
+
+a) Até 31 de Dezembro de 2011, o valor equivalente a, pelo menos, 55 % do valor actual provisório das responsabilidades, apurado nos termos da alínea a) do n.º 2 do presente artigo;
+
+b) Até 30 de Junho de 2012, o valor remanescente para completar o valor actual definitivo das responsabilidades, apurado nos termos da alínea b) do n.º 2.
+
+6 - Se à data da realização da transmissão prevista na alínea b) do número anterior ainda não estiver apurado o valor actual definitivo das responsabilidades assumidas pela Segurança Social, as instituições de crédito transmitem os activos no valor necessário para completar 95 % do valor actual provisório das responsabilidades apurado nos termos da alínea a) do n.º 2, sendo realizado o acerto final no prazo de 30 dias após a determinação daquele valor definitivo.
+
+7 - As operações de transferência dos activos dos fundos de pensões são coordenadas pelo Instituto de Gestão da Tesouraria e do Crédito Público, I. P.
+
+###### Artigo 7.º — Extinção das responsabilidades das instituições de crédito
+
+A transferência dos montantes a que se refere o artigo 5.º determina a extinção definitiva e irreversível das responsabilidades das instituições de crédito para com os reformados e pensionistas, assumidas pela Segurança Social e pelo Estado nos termos do presente diploma, assegurando este a integral cobertura dessas responsabilidades.
+
+### Capítulo IV — Normas procedimentais
+
+###### Artigo 8.º — Pagamento das pensões
+
+1 - Compete ao Instituto da Segurança Social, I. P., através do Centro Nacional de Pensões, assegurar o pagamento das pensões referidas no artigo 3.º
+
+2 - As pensões referidas no número anterior são processadas pelas instituições de crédito aos respectivos titulares, sem prejuízo do disposto no artigo anterior.
+
+3 - Para efeitos do disposto no número anterior, o Instituto de Gestão Financeira da Segurança Social, I. P., transfere, antecipadamente, para as instituições de crédito os montantes correspondentes às pensões devidas nos termos do n.º 1.
+
+4 - No caso de se verificar alteração do valor das prestações que, nos termos dos instrumentos de regulamentação coletiva de trabalho do setor bancário aplicáveis, devam ser deduzidas ao valor total das pensões estabelecido nos mesmos instrumentos, e que, nos termos dos artigos 3.º e 6.º, foi utilizado para o apuramento das responsabilidades e ativos a transferir, a respetiva diferença não é abatida nem adicionada ao montante a entregar às entidades pagadoras, constituindo, respetivamente, receita ou encargo dos fundos de pensões que asseguravam o pagamento daquelas pensões.
+
+5 - O disposto no número anterior é aplicável aos aumentos que se destinem a produzir efeitos a partir de 1 de fevereiro de 2012.
+
+6 - Para cumprimento do disposto no número anterior, o Instituto de Gestão da Tesouraria e do Crédito Público, I. P., transfere, antecipadamente, para o Instituto de Gestão Financeira da Segurança Social, I. P., o valor correspondente aos encargos apurados.
+
+7 - A operacionalização do disposto nos n.os 1 a 3 é feita nos termos de protocolo a celebrar entre o Instituto da Segurança Social, I. P., o Instituto de Gestão Financeira da Segurança Social, I. P., e as instituições de crédito.
+
+> Alterado pelo/a Artigo 82.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 18.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15
+
+### Capítulo V — Disposições finais
+
+###### Artigo 9.º — Tratamento fiscal das operações de transmissão
+
+Aos gastos e variações patrimoniais negativas registados em consequência da transferência de responsabilidades com pensões para a Segurança Social no âmbito do presente diploma, que não tenham sido deduzidos em períodos de tributação anteriores, é aplicável o disposto no n.º 12 do artigo 18.º do Código do IRC, sendo os mesmos considerados dedutíveis para efeitos de apuramento do lucro tributável, em partes iguais, nos períodos de tributação que se iniciem em ou após 1 de Janeiro de 2012 em função da média do número de anos de esperança de vida dos pensionistas cujas responsabilidades foram transferidas arredondado para a unidade mais próxima.
+
+###### Artigo 10.º — Imperatividade
+
+O disposto no presente diploma tem natureza imperativa, não podendo ser afastado por instrumento de regulamentação colectiva de trabalho.
+
+###### Artigo 11.º — Manutenção de direitos e obrigações
+
+Mantêm-se os direitos e obrigações de natureza previdencial dos participantes e beneficiários dos fundos de pensões que não sejam abrangidos pelo presente diploma.
+
+###### Artigo 12.º — Produção de efeitos
+
+O presente diploma produz efeitos a partir da data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
+
+Promulgado em 31 de Dezembro de 2011.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 31 de Dezembro de 2011.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — [a que se refere a alínea b) do artigo 2.º]
+
+Barclays Bank PLC - Sucursal em Portugal;
+
+BANIF - Banco Internacional do Funchal, S. A.;
+
+Banco Bilbao Vizcaya Argentaria (Portugal), S. A.;
+
+Banco BPI, S. A.;
+
+Banco Português de Investimento, S. A.;
+
+Banco do Brasil AG - Sucursal em Portugal;
+
+Banco Espírito Santo, S. A.;
+
+Banco Espírito Santo de Investimento, S. A.;
+
+Banco Espírito Santo dos Açores, S. A.;
+
+Banco Credibom, S. A.;
+
+Banco Popular Portugal, S. A.;
+
+Banco Santander Totta, S. A. - fundo de pensões do ex-Crédito Predial Português e do ex-Banco Santander Portugal;
+
+BNP Paribas, S. A. - Sucursal em Portugal;
+
+BNP Paribas Wealth Management, S.A. - Sucursal em Portugal;
+
+BNP Paribas Lease Group, S.A. - Sucursal em Portugal;
+
+Caixa Económica Montepio Geral;
+
+Banco Comercial Português, S. A.;
+
+Banco de Investimento Imobiliário, S. A.;
+
+Banco Activobank (Portugal), S. A.;
+
+UNICRE - Instituição Financeira de Crédito, S. A.
+
+> Alterado pelo/a Artigo 18.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15

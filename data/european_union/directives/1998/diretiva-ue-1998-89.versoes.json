@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0089:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0089-19981221",
+ "dre_path": null,
+ "source_lastmod": "1998-12-21",
+ "versions": [
+  {
+   "date": "1998-12-01",
+   "future": false,
+   "celex": "31998L0089",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "238a0419fec82ca7",
+    "1ebe5badbe8eb833",
+    "900bf332cfdee620",
+    "18736de28fe1cb4c",
+    "bdf913f3c7407289",
+    "fea9b09fd0d968d7"
+   ]
+  }
+ ],
+ "fragments": {
+  "238a0419fec82ca7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/89/CE da Comissão de 20 de Novembro de 1998 que adapta ao progresso técnico a Directiva 74/152/CEE do Conselho relativa à velocidade máxima, por construção, e às plataformas de carga dos tractores agrícolas ou florestais de rodas (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 322 de 01/12/1998 p. 0040 - 0041*\n\nDIRECTIVA 98/89/CE DA COMISSÃO de 20 de Novembro de 1998 que adapta ao progresso técnico a Directiva 74/152/CEE do Conselho relativa à velocidade máxima, por construção, e às plataformas de carga dos tractores agrícolas ou florestais de rodas (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à recepção dos tractores agrícolas ou florestais de rodas (1), com a última redacção que lhe foi dada pela Directiva 97/54/CE do Parlamento Europeu e do Conselho (2), e, nomeadamente, o seu artigo 13º,\n\nTendo em conta a Directiva 74/152/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à velocidade máxima, por construção, e às plataformas de carga dos tractores agrícolas ou florestais de rodas (3), com a última redacção que lhe foi dada pela Directiva 97/54/CE, e, nomeadamente, o seu artigo 5º,\n\nConsiderando que, tendo em conta o aumento da velocidade máxima por construção para 40 km/h e a evolução das técnicas, é conveniente adaptar a exigência sobre a tolerância da medição de velocidade referida no ponto 1.5 do anexo da Directiva 74/152/CEE;\n\nConsiderando que as disposições da presente directiva estão em conformidade com o parecer do Comité de Adaptação ao Progresso Técnico instituído pela Directiva 74/150/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1ebe5badbe8eb833": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nNo ponto 1.5, do anexo da Directiva 74/152/CEE a parte final da frase passa a ter a seguinte redacção: «que a velocidade medida exceda em 3 km/h o valor da velocidade máxima por construção.»."
+  },
+  "900bf332cfdee620": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A partir de 1 de Janeiro de 2000 os Estados-membros não podem:\n\n- recusar a homologação CE ou a emissão do documento previsto no nº 1, último travessão, do artigo 10º da Directiva 74/150/CEE ou a recepção de âmbito nacional a um modelo de tractor, nem\n\n- proibir a primeira entrada em circulação de tractores,\n\nse esses tractores satisfizerem os requisitos da Directiva 74/152/CEE, com a redacção que lhe é dada pela presente directiva.\n\n2. A partir de 1 de Outubro de 2004, os Estados-membros:\n\n- deixam de poder emitir o documento previsto no nº 1, último travessão, do artigo 10º da Directiva 74/150/CEE a um modelo de tractor se este não satisfizer os requisitos da Directiva 74/152/CEE, com a redacção que lhe é dada pela presente directiva,\n\n- podem recusar a homologação de âmbito nacional de um modelo de tractor se este não satisfizer os requisitos da Directiva 74/152/CEE, com a redacção que lhe é dada pela presente directiva."
+  },
+  "18736de28fe1cb4c": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 31 de Dezembro de 1999. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, essas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "bdf913f3c7407289": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "fea9b09fd0d968d7": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Novembro de 1998.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO L 84 de 28. 3. 1974, p. 10.\n\n(2) JO L 277 de 10. 10. 1997, p. 24.\n\n(3) JO L 84 de 28. 3. 1974, p. 33."
+  }
+ }
+}

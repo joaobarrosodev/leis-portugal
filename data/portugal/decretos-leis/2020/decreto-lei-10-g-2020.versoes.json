@@ -1,0 +1,692 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130779506:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-130779526",
+ "dre_path": "/dr/detalhe/decreto-lei/10-g-2020-130779506",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202009140",
+    "130788383",
+    "130788384",
+    "130788385",
+    "130788386",
+    "130788387",
+    "130788388",
+    "130788389",
+    "130788390",
+    "130788391",
+    "130788392",
+    "130788393",
+    "130788394",
+    "130788395",
+    "130788396",
+    "130788397",
+    "130788398",
+    "130788399",
+    "130788400",
+    "130788401",
+    "130788402",
+    "130788403"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:130835104:por",
+     "title": "Declaração de Retificação n.º 14/2020",
+     "published": "2020-03-28",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/14-2020-130835104",
+     "date": "2020-03-27"
+    }
+   ]
+  },
+  {
+   "date": "2020-04-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131393157:por",
+     "title": "Decreto-Lei n.º 14-F/2020",
+     "published": "2020-04-13",
+     "dre_path": "/dr/detalhe/decreto-lei/14-f-2020-131393157"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "130788449",
+    "130788383",
+    "130788384",
+    "130788385",
+    "130788386",
+    "130788387",
+    "131393196",
+    "130788389",
+    "130788390",
+    "130788391",
+    "130788392",
+    "130788393",
+    "130788394",
+    "130788450",
+    "130788396",
+    "130788397",
+    "130788398",
+    "130788451",
+    "130788400",
+    "130788401",
+    "130788402",
+    "130788403",
+    "130788404"
+   ]
+  },
+  {
+   "date": "2020-06-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:136260572:por",
+     "title": "Decreto-Lei n.º 27-B/2020",
+     "published": "2020-06-19",
+     "dre_path": "/dr/detalhe/decreto-lei/27-b-2020-136260572"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "130788449",
+    "130788383",
+    "130788384",
+    "130788385",
+    "130788386",
+    "130788387",
+    "131393196",
+    "130788389",
+    "130788390",
+    "130788391",
+    "136054169",
+    "130788393",
+    "130788394",
+    "130788450",
+    "130788396",
+    "130788397",
+    "130788398",
+    "130788451",
+    "130788400",
+    "130788401",
+    "136054170",
+    "130788403",
+    "130788404"
+   ]
+  },
+  {
+   "date": "2021-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:154202310:por",
+     "title": "Decreto-Lei n.º 6-C/2021",
+     "published": "2021-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/6-c-2021-154202310"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "130788449",
+    "130788383",
+    "130788384",
+    "130788385",
+    "130788386",
+    "130788387",
+    "154229114",
+    "130788389",
+    "130788390",
+    "130788391",
+    "136054169",
+    "130788393",
+    "130788394",
+    "130788450",
+    "130788396",
+    "130788397",
+    "130788398",
+    "130788451",
+    "130788400",
+    "130788401",
+    "136054170",
+    "130788403",
+    "130788404"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202009140",
+    "202009141",
+    "202009142",
+    "202009143",
+    "202009144",
+    "202009145",
+    "202009146",
+    "202009147",
+    "202009148",
+    "202009149",
+    "202009150",
+    "202009151",
+    "202009152",
+    "202009153",
+    "202009154",
+    "202009155",
+    "202009156",
+    "202009157",
+    "202009158",
+    "202009159",
+    "202009160",
+    "202009161",
+    "202009162"
+   ]
+  }
+ ],
+ "fragments": {
+  "202009140": {
+   "fragment_id": "130779527",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-G/2020\n\nde 26 de março\n\nSumário: Estabelece uma medida excecional e temporária de proteção dos postos de trabalho, no âmbito da pandemia COVID-19.\n\nA Organização Mundial de Saúde qualificou, no passado dia 11 de março de 2020, a emergência de saúde pública ocasionada pela doença COVID-19 como uma pandemia internacional, constituindo uma calamidade pública. A situação tem evoluído muito rapidamente em todo o mundo e, em particular, na União Europeia.\n\nO Governo determinou, numa primeira fase, medidas para acautelar a proteção social dos trabalhadores que se encontrem impedidos, temporariamente, do exercício da sua atividade profissional por ordem da autoridade de saúde, devido a perigo de contágio pelo SARS-Cov-2, consagrando a equiparação a doença com internamento hospitalar, para efeitos do Decreto-Lei n.º 28/2004, de 4 de fevereiro, na sua redação atual, não ficando nestes casos a atribuição do subsídio de doença sujeita a prazo de garantia, índice de profissionalidade e período de espera, nos termos do Despacho n.º 2875-A/2020, publicado no Diário da República, 2.ª série, n.º 44, de 3 de março;\n\nNuma segunda fase, o Governo, reconhecendo a excecionalidade da situação e emergência desencadeada por este surto, aprovou um conjunto de medidas de caráter extraordinário e temporário, destinadas aos trabalhadores e empregadores afetados pela pandemia da doença COVID-19, tendo em vista apoiar a manutenção dos postos de trabalho e mitigar situações de crise empresarial, através da Resolução do Conselho de Ministros n.º 10-A/2020, de 13 de março, e com base no Decreto-Lei n.º 13/2015, de 26 de janeiro, que define os objetivos e os princípios da política de emprego e regula a concessão, a execução, o acompanhamento, a avaliação e o financiamento dos respetivos programa e medidas.\n\nA referida Resolução do Conselho de Ministros prevê medidas extraordinárias de apoio imediato aos trabalhadores e às empresas, as quais foram materializadas na Portaria n.º 71-A/2020, de 15 de março, na sua redação atual.\n\nFace à rápida evolução da pandemia da doença COVID-19 o Presidente da República decretou, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, o estado de emergência, com fundamento na verificação de uma situação de calamidade pública. O Governo, por sua vez, regulamentou a aplicação da declaração do estado de emergência, através do Decreto n.º 2-A/2020, de 20 de março, consagrando medidas robustas com vista a prevenir a doença, conter a pandemia, salvar vidas e assegurar que as cadeias de abastecimento fundamentais de bens e serviços essenciais continuam a ser asseguradas.\n\nEste cenário, em constante mutação, obriga a que as primeiras medidas adotadas pelo Governo sejam reforçadas de forma a apoiar a manutenção dos postos de trabalho e mitigar situações de crise empresarial.\n\nA figura da redução temporária do período normal de trabalho ou suspensão do contrato de trabalho por facto respeitante ao empregador em situação de crise empresarial, prevista no Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual (vulgo lay-off), tem demonstrado ao longo da história ser um instrumento robusto para ajudar a responder à situações de crise como a que o País atravessa, importando, no entanto, garantir a sua flexibilidade procedimental de forma que este possa ser operacionalizado rapidamente, à semelhança do que foi aprovado na Portaria n.º 71-A/2020, de 15 de março, na sua redação atual.\n\nAssim, mostra-se conveniente alargar as medidas previstas naquela Portaria n.º 71-A/2020, de 15 de março, na sua redação atual, aproveitando para a substituir por um regime simplificado da redução temporária do período normal de trabalho ou suspensão de contrato de trabalho, previsto nos artigos 298.º e seguintes do Código do Trabalho, o presente decreto-lei estabelece medidas excecionais e temporárias de resposta à pandemia da COVID-19, definindo e regulamentando os apoios financeiros aos trabalhadores e às empresas abrangidos pelos referidos regimes.\n\nO presente decreto-lei clarifica também o conceito de crise empresarial para efeitos das medidas excecionais e temporárias, acrescentando o encerramento total ou parcial de empresa ou estabelecimento decorrente do dever de encerramento de instalações e estabelecimentos, previsto no Decreto n.º 2-A/2020, de 20 de março, ou por determinação legislativa ou administrativa, nos termos previstos no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou ao abrigo da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, assim como da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro.\n\nDe forma a tornar claro que os apoios financeiros previstos no presente decreto-lei têm em vista a manutenção dos contratos de trabalho e evitar despedimentos por razões económicas, nesta fase crítica que o País está a viver, o presente decreto-lei prevê ainda que, durante o período de redução ou suspensão, bem como nos 60 dias seguintes à aplicação das medidas de apoio extraordinário à manutenção de contrato de trabalho previstas, o empregador não pode fazer cessar contratos de trabalho ao abrigo das modalidades de despedimento coletivo ou despedimento por extinção do posto de trabalho, previstos nos artigos 359.º e 367.º do Código do Trabalho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "130788383": {
+   "fragment_id": "130779528",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece medidas excecionais e temporárias, definindo e regulamentando os termos e as condições de atribuição dos apoios destinados aos trabalhadores e às empresas afetados pela pandemia da COVID-19, tendo em vista a manutenção dos postos de trabalho e a mitigação de situações de crise empresarial."
+  },
+  "130788384": {
+   "fragment_id": "130779529",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As medidas excecionais previstas no presente decreto-lei aplicam-se aos empregadores de natureza privada, incluindo as entidades empregadoras do setor social, e trabalhadores ao seu serviço, afetados pela pandemia da COVID-19 e que se encontrem, em consequência, em situação de crise empresarial., mediante requerimento eletrónico apresentado pela entidade empregadora junto dos serviços da Segurança Social.\n\n2 - O disposto no presente decreto-lei não prejudica o regime contemplado no Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, relativo à redução temporária do período normal de trabalho ou suspensão do contrato de trabalho por facto respeitante ao empregador."
+  },
+  "130788385": {
+   "fragment_id": "130779530",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação de crise empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Situação de crise empresarial\n\n1 - Para efeitos do presente decreto-lei, considera-se situação de crise empresarial:\n\na) O encerramento total ou parcial da empresa ou estabelecimento, decorrente do dever de encerramento de instalações e estabelecimentos, previsto no Decreto n.º 2-A/2020, de 20 de março, ou por determinação legislativa ou administrativa, nos termos previstos no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou ao abrigo da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, assim como da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, relativamente ao estabelecimento ou empresa efetivamente encerrados e abrangendo os trabalhadores a estes diretamente afetos; ou\n\nb) Mediante declaração do empregador conjuntamente com certidão do contabilista certificado da empresa que o ateste:\n\ni) A paragem total ou parcial da atividade da empresa ou estabelecimento que resulte da interrupção das cadeias de abastecimento globais, ou da suspensão ou cancelamento de encomendas, que possam ser documentalmente comprovadas nos termos da alínea c) do n.º 3;\n\nii) A quebra abrupta e acentuada de, pelo menos, 40 % da faturação no período de trinta dias anterior ao do pedido junto dos serviços competentes da segurança social, com referência à média mensal dos dois meses anteriores a esse período, ou face ao período homólogo do ano anterior ou, ainda, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período.\n\n2 - As entidades beneficiárias do presente apoio podem ser fiscalizadas, a posteriori, pelas entidades públicas competentes, devendo comprovar nesse momento os factos em que se baseou o pedido e as respetivas renovações.\n\n3 - O comprovativo referido no número anterior é efetuado por prova documental, podendo ser requerida a apresentação de documentos, nos casos aplicáveis, nomeadamente:\n\na) Balancete contabilístico referente ao mês do apoio bem como do respetivo mês homólogo ou meses anteriores, quando aplicável;\n\nb) Declaração de Imposto Sobre o Valor Acrescentado (IVA) referente ao mês do apoio bem como dos dois meses imediatamente anteriores, ou a declaração referente ao último trimestre de 2019 e o primeiro de 2020, conforme a requerente se encontre no regime de IVA mensal ou trimestral respetivamente, que evidenciem a intermitência ou interrupção das cadeias de abastecimento ou a suspensão ou cancelamento de encomendas; e\n\nc) Para os efeitos da segunda parte da subalínea i) da alínea b) do n.º 1, documentos demonstrativos do cancelamento de encomendas ou de reservas, dos quais resulte que a utilização da empresa ou da unidade afetada será reduzida em mais de 40 % da sua capacidade de produção ou de ocupação no mês seguinte ao do pedido de apoio; e\n\nd) Elementos comprovativos adicionais a fixar por despacho do membro do Governo responsável pela área do trabalho e da segurança social."
+  },
+  "130788386": {
+   "fragment_id": "130779531",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos do empregador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos do empregador\n\n1 - Em situação de crise empresarial, nos termos previstos no artigo anterior, o empregador tem direito a:\n\na) Apoio extraordinário à manutenção de contrato de trabalho, com ou sem formação, em caso de redução temporária do período normal de trabalho ou da suspensão do contrato de trabalho, nos termos dos artigos 298.º e seguintes do Código do Trabalho;\n\nb) Plano extraordinário de formação;\n\nc) Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa;\n\nd) Isenção temporária do pagamento de contribuições para a Segurança Social, a cargo da entidade empregadora.\n\n2 - Para efeitos de aplicação do previsto nas alínea a) do número anterior, o empregador comunica, por escrito, aos trabalhadores a respetiva decisão, indicando a duração previsível, ouvidos os delegados sindicais e comissões de trabalhadores, quando existam, e remetendo de imediato requerimento eletrónico ao serviço competente da área da segurança social acompanhado de declaração do empregador contendo a descrição sumária da situação de crise empresarial que o afeta e, nos casos previstos na alínea b) do n.º 1 do artigo 3.º, de certidão do contabilista certificado da empresa que o ateste, bem como da listagem nominativa dos trabalhadores abrangidos e respetivo número de segurança social.\n\n3 - As medidas previstas nas alíneas a) e d) do n.º 1 têm a duração de um mês, sendo, excecionalmente, prorrogáveis mensalmente, até ao máximo de três meses.\n\n4 - As medidas previstas no presente decreto-lei são cumuláveis com outros apoios."
+  },
+  "130788387": {
+   "fragment_id": "130779532",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial\n\n1 - O apoio extraordinário à manutenção de contrato de trabalho em empresa em situação de crise empresarial reveste a forma de um apoio financeiro, por trabalhador, atribuído à empresa nos termos do n.º 4 do artigo 305.º do Código do Trabalho e destinado, exclusivamente, ao pagamento de remunerações.\n\n2 - Este apoio é cumulável com um plano de formação aprovado pelo Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), ao qual acresce uma bolsa nos mesmos termos do previsto no n.º 5 do artigo 305.º do Código do Trabalho."
+  },
+  "130788388": {
+   "fragment_id": "130779533",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução ou suspensão em situação de crise empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Redução ou suspensão em situação de crise empresarial\n\n1 - Em situação de crise empresarial, o empregador pode reduzir temporariamente os períodos normais de trabalho ou suspender os contratos de trabalho, sendo aplicável, com as necessárias adaptações, o disposto nos artigos 298.º e seguintes do Código do Trabalho.\n\n2 - Durante a vigência das medidas previstas no presente decreto-lei, em caso de redução do período normal de trabalho, mantêm-se os direitos, deveres e garantias das partes, nos termos previstos no Código do Trabalho\n\n3 - Durante a vigência das medidas previstas no presente decreto-lei, em caso de suspensão do contrato de trabalho, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a efetiva prestação de trabalho, nos termos previstos no Código do Trabalho.\n\n4 - A compensação retributiva a que o trabalhador tem direito é fixada nos termos do n.º 3 do artigo 305.º do Código do Trabalho, sendo paga pelo empregador.\n\n5 - Durante o período de aplicação desta medida, a empresa tem direito a um apoio financeiro para efeitos de pagamento da compensação retributiva prevista no número anterior, nos termos do n.º 4 do artigo 305.º do Código do Trabalho.\n\n6 - Sem prejuízo do disposto nos n.os 4 e 5, até 30 de junho de 2020, a compensação retributiva é paga por referência à retribuição normal ilíquida do trabalho prestado na empresa, devendo os serviços da Segurança Social proceder subsequentemente aos ajustamentos que se revelem necessários, com eventual restituição das quantias indevidamente recebidas.\n\n7 - Para efeitos do disposto no número anterior, caso o trabalhador exerça atividade remunerada fora da empresa deve comunicar o facto ao empregador, no prazo de cinco dias a contar do início da mesma, para efeitos de eventual redução na compensação retributiva, sob pena de perda do direito da compensação retributiva e, bem assim, dever de restituição dos montantes recebidos a este titulo, constituindo a omissão uma infração disciplinar.\n\n8 - O empregador deve comunicar junto do Instituto da Segurança Social, I. P. (ISS, I. P.), a situação referida no número anterior, no prazo de dois dias a contar da data em que dela teve conhecimento."
+  },
+  "130788389": {
+   "fragment_id": "130779534",
+   "type": 11,
+   "heading": "Artigo 7.º — Plano extraordinário de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Plano extraordinário de formação\n\n1 - As empresas que, abrangidas no âmbito do presente decreto-lei, não tenham recorrido ao apoio extraordinário previsto no artigo 5.º, podem aceder a um apoio extraordinário para formação profissional a tempo parcial, mediante um plano de formação definido nos termos do artigo seguinte, tendo em vista a manutenção dos respetivos postos de trabalho e o reforço das competências dos seus trabalhadores, de forma a atuar preventivamente sobre o desemprego, nos termos do disposto no Decreto-Lei n.º 13/2015, de 26 de janeiro.\n\n2 - O apoio extraordinário referido neste artigo tem a duração de um mês e destina-se à implementação do plano de formação definido no artigo seguinte.\n\n3 - O apoio extraordinário a atribuir a cada trabalhador abrangido é suportado pelo IEFP, I. P., e é concedido em função das horas de formação frequentadas, até ao limite de 50 % da retribuição ilíquida, com o limite máximo de uma remuneração mínima mensal garantida (RMMG).\n\n4 - Nas situações previstas no n.º 1, o empregador comunica aos trabalhadores, por escrito, a decisão de iniciar um plano de formação e a duração previsível da medida, remetendo de imediato informação ao IEFP, I. P., acompanhada dos documentos referidos no n.º 2 do artigo 4.º"
+  },
+  "130788390": {
+   "fragment_id": "130779535",
+   "type": 11,
+   "heading": "Artigo 8.º — Planos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Planos de formação\n\n1 - O plano de formação referido no artigo anterior deve:\n\na) Ser implementado em articulação com a entidade, cabendo ao IEFP, I. P., a sua organização, podendo ser desenvolvido a distância quando possível e as condições o permitirem;\n\nb) Contribuir para a melhoria das competências profissionais dos trabalhadores, sempre que possível aumentando o seu nível de qualificação, e contribuir para o aumento da competitividade da empresa;\n\nc) Corresponder às modalidades de qualificação previstas no âmbito do Sistema Nacional de Qualificações.\n\n2 - No caso da formação prevista no artigo anterior, a sua duração não deve ultrapassar 50 % do período normal de trabalho durante o período em que decorre.\n\n3 - O número mínimo de formandos a integrar em cada ação de formação é definido por acordo entre o IEFP, I. P., e o empregador, atenta a legislação aplicável à respetiva modalidade de formação."
+  },
+  "130788391": {
+   "fragment_id": "130779536",
+   "type": 11,
+   "heading": "Artigo 9.º — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entidades formadoras\n\nPara a operacionalização do plano de formação previsto no artigo 7.º, são entidades formadoras os centros de emprego e formação profissional do IEFP, I. P.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 20-H/2020 - Diário da República n.º 94/2020, 2º Suplemento, Série I de 2020-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-h-2020-133723695) É derrogado o disposto no n.º 1 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, devendo as instituições científicas e de ensino superior garantir a combinação gradual e efetiva de atividades na presença de estudantes, docentes e investigadores com processos a distância, bem como de teletrabalho, designadamente destinadas a aulas e outras atividades, tais como atividades laboratoriais, realização de estágios e atividades de avaliação de estudantes, entre outras."
+  },
+  "130788392": {
+   "fragment_id": "130779537",
+   "type": 11,
+   "heading": "Artigo 10.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa\n\n1 - Os empregadores que beneficiem das medidas previstas no presente decreto-lei têm direito a um incentivo financeiro extraordinário para apoio à retoma da atividade da empresa, a conceder pelo IEFP, I. P., pago de uma só vez e com o valor de uma RMMG por trabalhador.\n\n2 - Para aceder ao incentivo, o empregador apresenta requerimento ao IEFP, I. P., acompanhado, nomeadamente, dos documentos referidos no n.º 3 do artigo 3.º\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572) As alterações ao Decreto-Lei n.º 10-G/2020, operadas pelo presente decreto-lei produzem efeitos até 31 de dezembro de 2020.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356) O incentivo financeiro extraordinário para apoio à normalização da atividade da empresa, previsto no n.º 1 do presente artigo, é regulamentado por portaria do membro do Governo responsável pela área do trabalho, designadamente no que respeita aos procedimentos, condições e termos de acesso."
+  },
+  "130788393": {
+   "fragment_id": "130779538",
+   "type": 11,
+   "heading": "Artigo 11.º — Isenção temporária do pagamento de contribuições para a Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Isenção temporária do pagamento de contribuições para a Segurança Social\n\n1 - Os empregadores que beneficiem das medidas previstas no presente decreto-lei têm direito à isenção total do pagamento das contribuições à Segurança Social a cargo da entidade empregadora, relativamente aos trabalhadores abrangidos e membros dos órgãos estatutários, durante o período de vigência das mesmas.\n\n2 - O direito à isenção prevista no número anterior é aplicável igualmente aos trabalhadores independentes que sejam entidades empregadoras beneficiárias das medidas e respetivos cônjuges.\n\n3 - A isenção reporta-se às contribuições referentes às remunerações relativas aos meses em que a empresa seja beneficiária das medidas.\n\n4 - A dispensa do pagamento de contribuições relativa aos trabalhadores independentes determina o registo de remunerações por equivalência à entrada de contribuições de acordo com a base de incidência contributiva que for aplicável.\n\n5 - As entidades empregadoras entregam as declarações de remunerações autónomas relativas aos trabalhadores abrangidos e efetuam o pagamento das respetivas quotizações.\n\n6 - A isenção do pagamento de contribuições aplicável aos trabalhadores independentes não afasta a obrigação de entrega da declaração trimestral.\n\n7 - A isenção do pagamento de contribuições relativamente aos trabalhadores abrangidos é reconhecida oficiosamente, designadamente com base na informação transmitida pelo IEFP, I. P."
+  },
+  "130788394": {
+   "fragment_id": "130779539",
+   "type": 11,
+   "heading": "Artigo 12.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Falsas declarações\n\nAs falsas declarações para obtenção das isenções previstas no artigo anterior tornam exigíveis as contribuições relativas ao período em que tenha vigorado o regime excecional, sem prejuízo da aplicação das sanções legais previstas para o respetivo ilícito."
+  },
+  "130788395": {
+   "fragment_id": "130779540",
+   "type": 11,
+   "heading": "Artigo 13.º — Proibição do despedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Proibição do despedimento\n\nDurante o período de aplicação das medidas de apoio previstas no presente decreto-lei, bem como nos 60 dias seguintes, o empregador não pode fazer cessar contratos de trabalho de trabalhador abrangido por aquelas medidas, ao abrigo das modalidades de despedimento coletivo ou despedimento por extinção do posto de trabalho, previstos nos artigos 359.º e 367.º do Código do Trabalho."
+  },
+  "130788396": {
+   "fragment_id": "130779541",
+   "type": 11,
+   "heading": "Artigo 14.º — Incumprimento e restituição do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Incumprimento e restituição do apoio\n\n1 - O incumprimento por parte do empregador ou do trabalhador das obrigações relativas aos apoios previstos no presente decreto-lei implica a imediata cessação dos mesmos e a restituição ou pagamento, conforme o caso, ao ISS, I. P., e ao IEFP, I. P., total ou proporcional, dos montantes já recebidos ou isentados, quando se verifique alguma das seguintes situações:\n\na) Despedimento, exceto por facto imputável ao trabalhador;\n\nb) Não cumprimento pontual das obrigações retributivas devidas aos trabalhadores;\n\nc) Não cumprimento pelo empregador das suas obrigações legais, fiscais ou contributivas;\n\nd) Distribuição de lucros durante a vigência das obrigações decorrentes da concessão do incentivo, sob qualquer forma, nomeadamente a título de levantamento por conta;\n\ne) Incumprimento, imputável ao empregador, das obrigações assumidas, nos prazos estabelecidos;\n\nf) Prestação de falsas declarações;\n\ng) Prestação de trabalho à própria entidade empregadora por trabalhador abrangido pela medida de apoio extraordinário à manutenção de contrato de trabalho na modalidade de suspensão do contrato, ou para lá do horário estabelecido, na modalidade de redução temporária do período normal de trabalho.\n\n2 - Caso a restituição prevista nos números anteriores não seja efetuada, voluntariamente, no prazo fixado pelo IEFP, I. P., são devidos juros de mora à taxa legal em vigor, desde o fim desse prazo, ou aplicável, no que respeita aos valores devidos à Segurança Social, o disposto no Decreto-Lei n.º 133/88, de 20 de abril, na sua redação atual, sendo realizada cobrança coerciva nos termos da legislação em vigor."
+  },
+  "130788397": {
+   "fragment_id": "130779542",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsabilidade contraordenacional\n\nEm caso de violação de normas legais relativas à redução temporária do período normal de trabalho ou suspensão do contrato de trabalho, previstas nos artigos 298.º e seguintes do Código do Trabalho, aplica-se o regime da responsabilidade contraordenacional previsto nos artigos 548.º e seguintes daquele diploma e, subsidiariamente, o regime geral das contraordenações."
+  },
+  "130788398": {
+   "fragment_id": "130779543",
+   "type": 11,
+   "heading": "Artigo 16.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Financiamento\n\n1 - Os valores da compensação retributiva da responsabilidade da Segurança Social pagos ao abrigo do presente decreto-lei são financiados pelo Orçamento do Estado.\n\n2 - Os apoios previstos no presente decreto-lei são passíveis de financiamento comunitário, sendo-lhe aplicável as respetivas disposições do direito comunitário e nacional."
+  },
+  "130788399": {
+   "fragment_id": "130779544",
+   "type": 11,
+   "heading": "Artigo 17.º — Situação tributária e contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Situação tributária e contributiva\n\nAté ao dia 30 de abril de 2020, não relevam, para efeitos da alínea a) do n.º 1 do artigo 177.º-A do Código de Procedimento e de Processo Tributário e do n.º 1 do artigo 208.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, as dívidas constituídas no mês de março de 2020."
+  },
+  "130788400": {
+   "fragment_id": "130779545",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Avaliação\n\nAs medidas previstas no presente decreto-lei são objeto de avaliação regular por parte da Comissão Permanente da Concertação Social."
+  },
+  "130788401": {
+   "fragment_id": "130779546",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\n1 - É revogada a Portaria n.º 71-A/2020, de 15 de março, na sua redação atual.\n\n2 - Os requerimentos que hajam sido entregues ao abrigo da Portaria n.º 71-A/2020, de 15 de março, na sua redação atual, e antes da entrada em vigor do presente decreto-lei, para efeitos da aplicação dos apoios financeiros previstos naquela, mantêm a sua eficácia e são analisados à luz do presente decreto-lei."
+  },
+  "130788402": {
+   "fragment_id": "130779547",
+   "type": 11,
+   "heading": "Artigo 20.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos até 30 de junho de 2020.\n\n2 - A prorrogação por mais três meses do período referido no número anterior será devidamente ponderada em função da evolução das consequências económicas e sociais da COVID-19."
+  },
+  "130788403": {
+   "fragment_id": "130779548",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "130788449": {
+   "fragment_id": "130779527",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "Decreto-Lei n.º 10-G/2020\n\nde 26 de março\n\nSumário: Estabelece uma medida excecional e temporária de proteção dos postos de trabalho, no âmbito da pandemia COVID-19.\n\nA Organização Mundial de Saúde qualificou, no passado dia 11 de março de 2020, a emergência de saúde pública ocasionada pela doença COVID-19 como uma pandemia internacional, constituindo uma calamidade pública. A situação tem evoluído muito rapidamente em todo o mundo e, em particular, na União Europeia.\n\nO Governo determinou, numa primeira fase, medidas para acautelar a proteção social dos trabalhadores que se encontrem impedidos, temporariamente, do exercício da sua atividade profissional por ordem da autoridade de saúde, devido a perigo de contágio pelo SARS-Cov-2, consagrando a equiparação a doença com internamento hospitalar, para efeitos do Decreto-Lei n.º 28/2004, de 4 de fevereiro, na sua redação atual, não ficando nestes casos a atribuição do subsídio de doença sujeita a prazo de garantia, índice de profissionalidade e período de espera, nos termos do Despacho n.º 2875-A/2020, publicado no Diário da República, 2.ª série, n.º 44, de 3 de março;\n\nNuma segunda fase, o Governo, reconhecendo a excecionalidade da situação e emergência desencadeada por este surto, aprovou um conjunto de medidas de caráter extraordinário e temporário, destinadas aos trabalhadores e empregadores afetados pela pandemia da doença COVID-19, tendo em vista apoiar a manutenção dos postos de trabalho e mitigar situações de crise empresarial, através da Resolução do Conselho de Ministros n.º 10-A/2020, de 13 de março, e com base no Decreto-Lei n.º 13/2015, de 26 de janeiro, que define os objetivos e os princípios da política de emprego e regula a concessão, a execução, o acompanhamento, a avaliação e o financiamento dos respetivos programa e medidas.\n\nA referida Resolução do Conselho de Ministros prevê medidas extraordinárias de apoio imediato aos trabalhadores e às empresas, as quais foram materializadas na Portaria n.º 71-A/2020, de 15 de março, na sua redação atual.\n\nFace à rápida evolução da pandemia da doença COVID-19 o Presidente da República decretou, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, o estado de emergência, com fundamento na verificação de uma situação de calamidade pública. O Governo, por sua vez, regulamentou a aplicação da declaração do estado de emergência, através do Decreto n.º 2-A/2020, de 20 de março, consagrando medidas robustas com vista a prevenir a doença, conter a pandemia, salvar vidas e assegurar que as cadeias de abastecimento fundamentais de bens e serviços essenciais continuam a ser asseguradas.\n\nEste cenário, em constante mutação, obriga a que as primeiras medidas adotadas pelo Governo sejam reforçadas de forma a apoiar a manutenção dos postos de trabalho e mitigar situações de crise empresarial.\n\nA figura da redução temporária do período normal de trabalho ou suspensão do contrato de trabalho por facto respeitante ao empregador em situação de crise empresarial, prevista no Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual (vulgo lay-off), tem demonstrado ao longo da história ser um instrumento robusto para ajudar a responder à situações de crise como a que o País atravessa, importando, no entanto, garantir a sua flexibilidade procedimental de forma que este possa ser operacionalizado rapidamente, à semelhança do que foi aprovado na Portaria n.º 71-A/2020, de 15 de março, na sua redação atual.\n\nAssim, mostra-se conveniente alargar as medidas previstas naquela Portaria n.º 71-A/2020, de 15 de março, na sua redação atual, aproveitando para a substituir por um regime simplificado da redução temporária do período normal de trabalho ou suspensão de contrato de trabalho, previsto nos artigos 298.º e seguintes do Código do Trabalho, o presente decreto-lei estabelece medidas excecionais e temporárias de resposta à pandemia da COVID-19, definindo e regulamentando os apoios financeiros aos trabalhadores e às empresas abrangidos pelos referidos regimes.\n\nO presente decreto-lei clarifica também o conceito de crise empresarial para efeitos das medidas excecionais e temporárias, acrescentando o encerramento total ou parcial de empresa ou estabelecimento decorrente do dever de encerramento de instalações e estabelecimentos, previsto no Decreto n.º 2-A/2020, de 20 de março, ou por determinação legislativa ou administrativa, nos termos previstos no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou ao abrigo da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, assim como da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro.\n\nDe forma a tornar claro que os apoios financeiros previstos no presente decreto-lei têm em vista a manutenção dos contratos de trabalho e evitar despedimentos por razões económicas, nesta fase crítica que o País está a viver, o presente decreto-lei prevê ainda que, durante o período de redução ou suspensão, bem como nos 60 dias seguintes à aplicação das medidas de apoio extraordinário à manutenção de contrato de trabalho previstas, o empregador não pode fazer cessar contratos de trabalho ao abrigo das modalidades de despedimento coletivo ou despedimento por extinção do posto de trabalho, previstos nos artigos 359.º e 367.º do Código do Trabalho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+  },
+  "131393196": {
+   "fragment_id": "130779533",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução ou suspensão em situação de crise empresarial",
+   "in_force_from": "2020-04-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14"
+   ],
+   "markdown": "###### Artigo 6.º — Redução ou suspensão em situação de crise empresarial\n\n1 - Em situação de crise empresarial, o empregador pode reduzir temporariamente os períodos normais de trabalho ou suspender os contratos de trabalho, sendo aplicável, com as necessárias adaptações, o disposto nos artigos 298.º e seguintes do Código do Trabalho.\n\n2 - Durante a vigência das medidas previstas no presente decreto-lei, em caso de redução do período normal de trabalho, mantêm-se os direitos, deveres e garantias das partes, nos termos previstos no Código do Trabalho\n\n3 - Durante a vigência das medidas previstas no presente decreto-lei, em caso de suspensão do contrato de trabalho, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a efetiva prestação de trabalho, nos termos previstos no Código do Trabalho.\n\n4 - A compensação retributiva a que o trabalhador tem direito é fixada nos termos do n.º 3 do artigo 305.º do Código do Trabalho, sendo paga pelo empregador.\n\n5 - Durante o período de aplicação desta medida, a empresa tem direito a um apoio financeiro para efeitos de pagamento da compensação retributiva prevista no número anterior, nos termos do n.º 4 do artigo 305.º do Código do Trabalho.\n\n6 - Sem prejuízo do disposto nos n.os 4 e 5, até 30 de junho de 2020, a compensação retributiva é paga por referência à retribuição normal ilíquida do trabalho prestado na empresa, devendo os serviços da Segurança Social proceder subsequentemente aos ajustamentos que se revelem necessários, com eventual restituição das quantias indevidamente recebidas.\n\n7 - Para efeitos do disposto no número anterior, caso o trabalhador exerça atividade remunerada fora da empresa deve comunicar o facto ao empregador, no prazo de cinco dias a contar do início da mesma, para efeitos de eventual redução na compensação retributiva, sob pena de perda do direito da compensação retributiva e, bem assim, dever de restituição dos montantes recebidos a este titulo, constituindo a omissão uma infração disciplinar.\n\n8 - O empregador deve comunicar junto do Instituto da Segurança Social, I. P. (ISS, I. P.), a situação referida no número anterior, no prazo de dois dias a contar da data em que dela teve conhecimento.\n\n9 - Ao trabalhador abrangido pelo regime de redução do período normal de trabalho ou suspensão do contrato de trabalho que exerça atividade remunerada fora da empresa com a qual mantém a relação jurídico laboral suspensa ou cujo período normal de trabalho se encontre reduzido, na pendência da redução ou suspensão, não se aplica, excecionalmente, o n.º 7, na parte referente à eventual redução da compensação retributiva, caso a referida a atividade se exerça nas áreas do apoio social, saúde, produção alimentar, logística e distribuição.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14"
+  },
+  "130788450": {
+   "fragment_id": "130779540",
+   "type": 11,
+   "heading": "Artigo 13.º — Proibição do despedimento",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 13.º — Proibição do despedimento\n\nDurante o período de aplicação das medidas de apoio previstas no presente decreto-lei, bem como nos 60 dias seguintes, o empregador abrangido por aquelas medidas não pode fazer cessar contratos de trabalho ao abrigo das modalidades de despedimento coletivo ou despedimento por extinção do posto de trabalho, previstos nos artigos 359.º e 367.º do Código do Trabalho.\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+  },
+  "130788451": {
+   "fragment_id": "130779544",
+   "type": 11,
+   "heading": "Artigo 17.º — Situação tributária e contributiva",
+   "in_force_from": "2020-03-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 17.º — Situação tributária e contributiva\n\n1 - Para aceder às medidas previstas no presente decreto-lei, o empregador deve, comprovadamente, ter as situações contributiva e tributária regularizadas perante a Segurança Social e a Autoridade Tributária e Aduaneira.\n\n2 - Até ao dia 30 de abril de 2020, não relevam, para efeitos da alínea a) do n.º 1 do artigo 177.º-A do Código de Procedimento e de Processo Tributário e do n.º 1 do artigo 208.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, as dívidas constituídas no mês de março de 2020.\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+  },
+  "130788404": {
+   "fragment_id": "130779549",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 26 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113149081"
+  },
+  "136054169": {
+   "fragment_id": "130779537",
+   "type": 11,
+   "heading": "Artigo 10.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa",
+   "in_force_from": "2020-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572), em vigor a partir de 2020-06-20"
+   ],
+   "markdown": "###### Artigo 10.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa\n\n1 - Os empregadores que beneficiem das medidas previstas no presente decreto-lei têm direito a um incentivo financeiro extraordinário para apoio à retoma da atividade da empresa, a conceder pelo IEFP, I. P., pago de uma só vez e com o valor de uma RMMG por trabalhador.\n\n2 - Para aceder ao incentivo, o empregador apresenta requerimento ao IEFP, I. P., acompanhado, nomeadamente, dos documentos referidos no n.º 3 do artigo 3.º\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572) As alterações ao Decreto-Lei n.º 10-G/2020, operadas pelo presente decreto-lei produzem efeitos até 31 de dezembro de 2020.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356) O incentivo financeiro extraordinário para apoio à normalização da atividade da empresa, previsto no n.º 1 do presente artigo, é regulamentado por portaria do membro do Governo responsável pela área do trabalho, designadamente no que respeita aos procedimentos, condições e termos de acesso.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572), em vigor a partir de 2020-06-20"
+  },
+  "136054170": {
+   "fragment_id": "130779547",
+   "type": 11,
+   "heading": "Artigo 20.º — Produção de efeitos",
+   "in_force_from": "2020-06-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572), em vigor a partir de 2020-06-20"
+   ],
+   "markdown": "###### Artigo 20.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos até 30 de setembro, sem prejuízo do disposto nos números seguintes.\n\n2 - (Revogado.)\n\n3 - As empresas que não tenham recorrido ao apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial, previsto na alínea a) do n.º 1 do artigo 4.º, apenas podem apresentar os respetivos requerimentos iniciais com efeitos até 30 de junho de 2020, podendo nesse caso prorrogar mensalmente a aplicação da medida até ao máximo de três meses, nos termos previstos no n.º 3 do artigo 4.º\n\n4 - Não obstante o disposto no n.º 1, as empresas e estabelecimentos que se encontrem sujeitas ao dever de encerramento de instalações e estabelecimentos por determinação legislativa ou administrativa de fonte governamental, no âmbito da pandemia da doença COVID-19, podem aceder ou manter o direito ao apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial, ao abrigo da alínea a) do n.º 1 do artigo 3.º, bem como à respetiva prorrogação, enquanto se mantiver esse dever, não sendo aplicável, nestas situações, o limite previsto no n.º 3 do artigo 4.º\n\n5 - As empresas que tenham recorrido ao apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial previsto na alínea a) do n.º 1 do artigo 4.º e que tenham atingido o limite de renovações previsto no n.º 3 do artigo 4.º até 30 de junho de 2020 podem beneficiar da prorrogação desse apoio até 31 de julho de 2020.\n\n6 - Nas situações previstas nos n.os 3 a 5 é aplicável o disposto no artigo 11.º do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572), em vigor a partir de 2020-06-20"
+  },
+  "154229114": {
+   "fragment_id": "130779533",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução ou suspensão em situação de crise empresarial",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14"
+   ],
+   "markdown": "###### Artigo 6.º — Redução ou suspensão em situação de crise empresarial\n\n1 - Em situação de crise empresarial, o empregador pode reduzir temporariamente os períodos normais de trabalho ou suspender os contratos de trabalho, sendo aplicável, com as necessárias adaptações, o disposto nos artigos 298.º e seguintes do Código do Trabalho.\n\n2 - Durante a vigência das medidas previstas no presente decreto-lei, em caso de redução do período normal de trabalho, mantêm-se os direitos, deveres e garantias das partes, nos termos previstos no Código do Trabalho\n\n3 - Durante a vigência das medidas previstas no presente decreto-lei, em caso de suspensão do contrato de trabalho, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a efetiva prestação de trabalho, nos termos previstos no Código do Trabalho.\n\n4 - A compensação retributiva a que o trabalhador tem direito é fixada nos termos do n.º 3 do artigo 305.º do Código do Trabalho, sendo paga pelo empregador.\n\n5 - Durante o período de aplicação desta medida, a empresa tem direito a um apoio financeiro para efeitos de pagamento da compensação retributiva prevista no número anterior, nos termos do n.º 4 do artigo 305.º do Código do Trabalho.\n\n6 - Sem prejuízo do disposto nos n.os 4 e 5, até 30 de junho de 2020, a compensação retributiva é paga por referência à retribuição normal ilíquida do trabalho prestado na empresa, devendo os serviços da Segurança Social proceder subsequentemente aos ajustamentos que se revelem necessários, com eventual restituição das quantias indevidamente recebidas.\n\n7 - Para efeitos do disposto no número anterior, caso o trabalhador exerça atividade remunerada fora da empresa deve comunicar o facto ao empregador, no prazo de cinco dias a contar do início da mesma, para efeitos de eventual redução na compensação retributiva, sob pena de perda do direito da compensação retributiva e, bem assim, dever de restituição dos montantes recebidos a este titulo, constituindo a omissão uma infração disciplinar.\n\n8 - O empregador deve comunicar junto do Instituto da Segurança Social, I. P. (ISS, I. P.), a situação referida no número anterior, no prazo de dois dias a contar da data em que dela teve conhecimento.\n\n9 - Se da aplicação do disposto no n.º 4.º resultar montante mensal inferior à retribuição normal ilíquida do trabalhador, o valor da compensação retributiva pago pela segurança social é aumentado na medida do estritamente necessário de modo a assegurar aquela retribuição, até ao limite máximo de uma retribuição normal ilíquida correspondente a três vezes o valor da RMMG.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14"
+  },
+  "202009141": {
+   "fragment_id": "130779528",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece medidas excecionais e temporárias, definindo e regulamentando os termos e as condições de atribuição dos apoios destinados aos trabalhadores e às empresas afetados pela pandemia da COVID-19, tendo em vista a manutenção dos postos de trabalho e a mitigação de situações de crise empresarial.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009142": {
+   "fragment_id": "130779529",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As medidas excecionais previstas no presente decreto-lei aplicam-se aos empregadores de natureza privada, incluindo as entidades empregadoras do setor social, e trabalhadores ao seu serviço, afetados pela pandemia da COVID-19 e que se encontrem, em consequência, em situação de crise empresarial., mediante requerimento eletrónico apresentado pela entidade empregadora junto dos serviços da Segurança Social.\n\n2 - O disposto no presente decreto-lei não prejudica o regime contemplado no Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, relativo à redução temporária do período normal de trabalho ou suspensão do contrato de trabalho por facto respeitante ao empregador.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009143": {
+   "fragment_id": "130779530",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação de crise empresarial",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Situação de crise empresarial\n\n1 - Para efeitos do presente decreto-lei, considera-se situação de crise empresarial:\n\na) O encerramento total ou parcial da empresa ou estabelecimento, decorrente do dever de encerramento de instalações e estabelecimentos, previsto no Decreto n.º 2-A/2020, de 20 de março, ou por determinação legislativa ou administrativa, nos termos previstos no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou ao abrigo da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, assim como da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, relativamente ao estabelecimento ou empresa efetivamente encerrados e abrangendo os trabalhadores a estes diretamente afetos; ou\n\nb) Mediante declaração do empregador conjuntamente com certidão do contabilista certificado da empresa que o ateste:\n\ni) A paragem total ou parcial da atividade da empresa ou estabelecimento que resulte da interrupção das cadeias de abastecimento globais, ou da suspensão ou cancelamento de encomendas, que possam ser documentalmente comprovadas nos termos da alínea c) do n.º 3;\n\nii) A quebra abrupta e acentuada de, pelo menos, 40 % da faturação no período de trinta dias anterior ao do pedido junto dos serviços competentes da segurança social, com referência à média mensal dos dois meses anteriores a esse período, ou face ao período homólogo do ano anterior ou, ainda, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período.\n\n2 - As entidades beneficiárias do presente apoio podem ser fiscalizadas, a posteriori, pelas entidades públicas competentes, devendo comprovar nesse momento os factos em que se baseou o pedido e as respetivas renovações.\n\n3 - O comprovativo referido no número anterior é efetuado por prova documental, podendo ser requerida a apresentação de documentos, nos casos aplicáveis, nomeadamente:\n\na) Balancete contabilístico referente ao mês do apoio bem como do respetivo mês homólogo ou meses anteriores, quando aplicável;\n\nb) Declaração de Imposto Sobre o Valor Acrescentado (IVA) referente ao mês do apoio bem como dos dois meses imediatamente anteriores, ou a declaração referente ao último trimestre de 2019 e o primeiro de 2020, conforme a requerente se encontre no regime de IVA mensal ou trimestral respetivamente, que evidenciem a intermitência ou interrupção das cadeias de abastecimento ou a suspensão ou cancelamento de encomendas; e\n\nc) Para os efeitos da segunda parte da subalínea i) da alínea b) do n.º 1, documentos demonstrativos do cancelamento de encomendas ou de reservas, dos quais resulte que a utilização da empresa ou da unidade afetada será reduzida em mais de 40 % da sua capacidade de produção ou de ocupação no mês seguinte ao do pedido de apoio; e\n\nd) Elementos comprovativos adicionais a fixar por despacho do membro do Governo responsável pela área do trabalho e da segurança social.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009144": {
+   "fragment_id": "130779531",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos do empregador",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Direitos do empregador\n\n1 - Em situação de crise empresarial, nos termos previstos no artigo anterior, o empregador tem direito a:\n\na) Apoio extraordinário à manutenção de contrato de trabalho, com ou sem formação, em caso de redução temporária do período normal de trabalho ou da suspensão do contrato de trabalho, nos termos dos artigos 298.º e seguintes do Código do Trabalho;\n\nb) Plano extraordinário de formação;\n\nc) Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa;\n\nd) Isenção temporária do pagamento de contribuições para a Segurança Social, a cargo da entidade empregadora.\n\n2 - Para efeitos de aplicação do previsto nas alínea a) do número anterior, o empregador comunica, por escrito, aos trabalhadores a respetiva decisão, indicando a duração previsível, ouvidos os delegados sindicais e comissões de trabalhadores, quando existam, e remetendo de imediato requerimento eletrónico ao serviço competente da área da segurança social acompanhado de declaração do empregador contendo a descrição sumária da situação de crise empresarial que o afeta e, nos casos previstos na alínea b) do n.º 1 do artigo 3.º, de certidão do contabilista certificado da empresa que o ateste, bem como da listagem nominativa dos trabalhadores abrangidos e respetivo número de segurança social.\n\n3 - As medidas previstas nas alíneas a) e d) do n.º 1 têm a duração de um mês, sendo, excecionalmente, prorrogáveis mensalmente, até ao máximo de três meses.\n\n4 - As medidas previstas no presente decreto-lei são cumuláveis com outros apoios.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009145": {
+   "fragment_id": "130779532",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial\n\n1 - O apoio extraordinário à manutenção de contrato de trabalho em empresa em situação de crise empresarial reveste a forma de um apoio financeiro, por trabalhador, atribuído à empresa nos termos do n.º 4 do artigo 305.º do Código do Trabalho e destinado, exclusivamente, ao pagamento de remunerações.\n\n2 - Este apoio é cumulável com um plano de formação aprovado pelo Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), ao qual acresce uma bolsa nos mesmos termos do previsto no n.º 5 do artigo 305.º do Código do Trabalho.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009146": {
+   "fragment_id": "130779533",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução ou suspensão em situação de crise empresarial",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14"
+   ],
+   "markdown": "###### Artigo 6.º — Redução ou suspensão em situação de crise empresarial\n\n1 - Em situação de crise empresarial, o empregador pode reduzir temporariamente os períodos normais de trabalho ou suspender os contratos de trabalho, sendo aplicável, com as necessárias adaptações, o disposto nos artigos 298.º e seguintes do Código do Trabalho.\n\n2 - Durante a vigência das medidas previstas no presente decreto-lei, em caso de redução do período normal de trabalho, mantêm-se os direitos, deveres e garantias das partes, nos termos previstos no Código do Trabalho\n\n3 - Durante a vigência das medidas previstas no presente decreto-lei, em caso de suspensão do contrato de trabalho, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a efetiva prestação de trabalho, nos termos previstos no Código do Trabalho.\n\n4 - A compensação retributiva a que o trabalhador tem direito é fixada nos termos do n.º 3 do artigo 305.º do Código do Trabalho, sendo paga pelo empregador.\n\n5 - Durante o período de aplicação desta medida, a empresa tem direito a um apoio financeiro para efeitos de pagamento da compensação retributiva prevista no número anterior, nos termos do n.º 4 do artigo 305.º do Código do Trabalho.\n\n6 - Sem prejuízo do disposto nos n.os 4 e 5, até 30 de junho de 2020, a compensação retributiva é paga por referência à retribuição normal ilíquida do trabalho prestado na empresa, devendo os serviços da Segurança Social proceder subsequentemente aos ajustamentos que se revelem necessários, com eventual restituição das quantias indevidamente recebidas.\n\n7 - Para efeitos do disposto no número anterior, caso o trabalhador exerça atividade remunerada fora da empresa deve comunicar o facto ao empregador, no prazo de cinco dias a contar do início da mesma, para efeitos de eventual redução na compensação retributiva, sob pena de perda do direito da compensação retributiva e, bem assim, dever de restituição dos montantes recebidos a este titulo, constituindo a omissão uma infração disciplinar.\n\n8 - O empregador deve comunicar junto do Instituto da Segurança Social, I. P. (ISS, I. P.), a situação referida no número anterior, no prazo de dois dias a contar da data em que dela teve conhecimento.\n\n9 - Se da aplicação do disposto no n.º 4.º resultar montante mensal inferior à retribuição normal ilíquida do trabalhador, o valor da compensação retributiva pago pela segurança social é aumentado na medida do estritamente necessário de modo a assegurar aquela retribuição, até ao limite máximo de uma retribuição normal ilíquida correspondente a três vezes o valor da RMMG.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14"
+  },
+  "202009147": {
+   "fragment_id": "130779534",
+   "type": 11,
+   "heading": "Artigo 7.º — Plano extraordinário de formação",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Plano extraordinário de formação\n\n1 - As empresas que, abrangidas no âmbito do presente decreto-lei, não tenham recorrido ao apoio extraordinário previsto no artigo 5.º, podem aceder a um apoio extraordinário para formação profissional a tempo parcial, mediante um plano de formação definido nos termos do artigo seguinte, tendo em vista a manutenção dos respetivos postos de trabalho e o reforço das competências dos seus trabalhadores, de forma a atuar preventivamente sobre o desemprego, nos termos do disposto no Decreto-Lei n.º 13/2015, de 26 de janeiro.\n\n2 - O apoio extraordinário referido neste artigo tem a duração de um mês e destina-se à implementação do plano de formação definido no artigo seguinte.\n\n3 - O apoio extraordinário a atribuir a cada trabalhador abrangido é suportado pelo IEFP, I. P., e é concedido em função das horas de formação frequentadas, até ao limite de 50 % da retribuição ilíquida, com o limite máximo de uma remuneração mínima mensal garantida (RMMG).\n\n4 - Nas situações previstas no n.º 1, o empregador comunica aos trabalhadores, por escrito, a decisão de iniciar um plano de formação e a duração previsível da medida, remetendo de imediato informação ao IEFP, I. P., acompanhada dos documentos referidos no n.º 2 do artigo 4.º\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009148": {
+   "fragment_id": "130779535",
+   "type": 11,
+   "heading": "Artigo 8.º — Planos de formação",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Planos de formação\n\n1 - O plano de formação referido no artigo anterior deve:\n\na) Ser implementado em articulação com a entidade, cabendo ao IEFP, I. P., a sua organização, podendo ser desenvolvido a distância quando possível e as condições o permitirem;\n\nb) Contribuir para a melhoria das competências profissionais dos trabalhadores, sempre que possível aumentando o seu nível de qualificação, e contribuir para o aumento da competitividade da empresa;\n\nc) Corresponder às modalidades de qualificação previstas no âmbito do Sistema Nacional de Qualificações.\n\n2 - No caso da formação prevista no artigo anterior, a sua duração não deve ultrapassar 50 % do período normal de trabalho durante o período em que decorre.\n\n3 - O número mínimo de formandos a integrar em cada ação de formação é definido por acordo entre o IEFP, I. P., e o empregador, atenta a legislação aplicável à respetiva modalidade de formação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009149": {
+   "fragment_id": "130779536",
+   "type": 11,
+   "heading": "Artigo 9.º — Entidades formadoras",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entidades formadoras\n\nPara a operacionalização do plano de formação previsto no artigo 7.º, são entidades formadoras os centros de emprego e formação profissional do IEFP, I. P.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 20-H/2020 - Diário da República n.º 94/2020, 2º Suplemento, Série I de 2020-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-h-2020-133723695) É derrogado o disposto no n.º 1 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, devendo as instituições científicas e de ensino superior garantir a combinação gradual e efetiva de atividades na presença de estudantes, docentes e investigadores com processos a distância, bem como de teletrabalho, designadamente destinadas a aulas e outras atividades, tais como atividades laboratoriais, realização de estágios e atividades de avaliação de estudantes, entre outras.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009150": {
+   "fragment_id": "130779537",
+   "type": 11,
+   "heading": "Artigo 10.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572), em vigor a partir de 2020-06-20"
+   ],
+   "markdown": "###### Artigo 10.º — Incentivo financeiro extraordinário para apoio à normalização da atividade da empresa\n\n1 - Os empregadores que beneficiem das medidas previstas no presente decreto-lei têm direito a um incentivo financeiro extraordinário para apoio à retoma da atividade da empresa, a conceder pelo IEFP, I. P., pago de uma só vez e com o valor de uma RMMG por trabalhador.\n\n2 - Para aceder ao incentivo, o empregador apresenta requerimento ao IEFP, I. P., acompanhado, nomeadamente, dos documentos referidos no n.º 3 do artigo 3.º\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572) As alterações ao Decreto-Lei n.º 10-G/2020, operadas pelo presente decreto-lei produzem efeitos até 31 de dezembro de 2020.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356) O incentivo financeiro extraordinário para apoio à normalização da atividade da empresa, previsto no n.º 1 do presente artigo, é regulamentado por portaria do membro do Governo responsável pela área do trabalho, designadamente no que respeita aos procedimentos, condições e termos de acesso.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572), em vigor a partir de 2020-06-20"
+  },
+  "202009151": {
+   "fragment_id": "130779538",
+   "type": 11,
+   "heading": "Artigo 11.º — Isenção temporária do pagamento de contribuições para a Segurança Social",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Isenção temporária do pagamento de contribuições para a Segurança Social\n\n1 - Os empregadores que beneficiem das medidas previstas no presente decreto-lei têm direito à isenção total do pagamento das contribuições à Segurança Social a cargo da entidade empregadora, relativamente aos trabalhadores abrangidos e membros dos órgãos estatutários, durante o período de vigência das mesmas.\n\n2 - O direito à isenção prevista no número anterior é aplicável igualmente aos trabalhadores independentes que sejam entidades empregadoras beneficiárias das medidas e respetivos cônjuges.\n\n3 - A isenção reporta-se às contribuições referentes às remunerações relativas aos meses em que a empresa seja beneficiária das medidas.\n\n4 - A dispensa do pagamento de contribuições relativa aos trabalhadores independentes determina o registo de remunerações por equivalência à entrada de contribuições de acordo com a base de incidência contributiva que for aplicável.\n\n5 - As entidades empregadoras entregam as declarações de remunerações autónomas relativas aos trabalhadores abrangidos e efetuam o pagamento das respetivas quotizações.\n\n6 - A isenção do pagamento de contribuições aplicável aos trabalhadores independentes não afasta a obrigação de entrega da declaração trimestral.\n\n7 - A isenção do pagamento de contribuições relativamente aos trabalhadores abrangidos é reconhecida oficiosamente, designadamente com base na informação transmitida pelo IEFP, I. P.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009152": {
+   "fragment_id": "130779539",
+   "type": 11,
+   "heading": "Artigo 12.º — Falsas declarações",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Falsas declarações\n\nAs falsas declarações para obtenção das isenções previstas no artigo anterior tornam exigíveis as contribuições relativas ao período em que tenha vigorado o regime excecional, sem prejuízo da aplicação das sanções legais previstas para o respetivo ilícito.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009153": {
+   "fragment_id": "130779540",
+   "type": 11,
+   "heading": "Artigo 13.º — Proibição do despedimento",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 13.º — Proibição do despedimento\n\nDurante o período de aplicação das medidas de apoio previstas no presente decreto-lei, bem como nos 60 dias seguintes, o empregador abrangido por aquelas medidas não pode fazer cessar contratos de trabalho ao abrigo das modalidades de despedimento coletivo ou despedimento por extinção do posto de trabalho, previstos nos artigos 359.º e 367.º do Código do Trabalho.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+  },
+  "202009154": {
+   "fragment_id": "130779541",
+   "type": 11,
+   "heading": "Artigo 14.º — Incumprimento e restituição do apoio",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 14.º — Incumprimento e restituição do apoio\n\n1 - O incumprimento por parte do empregador ou do trabalhador das obrigações relativas aos apoios previstos no presente decreto-lei implica a imediata cessação dos mesmos e a restituição ou pagamento, conforme o caso, ao ISS, I. P., e ao IEFP, I. P., total ou proporcional, dos montantes já recebidos ou isentados, quando se verifique alguma das seguintes situações:\n\na) Despedimento, exceto por facto imputável ao trabalhador;\n\nb) Não cumprimento pontual das obrigações retributivas devidas aos trabalhadores;\n\nc) Não cumprimento pelo empregador das suas obrigações legais, fiscais ou contributivas;\n\nd) Distribuição de lucros durante a vigência das obrigações decorrentes da concessão do incentivo, sob qualquer forma, nomeadamente a título de levantamento por conta;\n\ne) Incumprimento, imputável ao empregador, das obrigações assumidas, nos prazos estabelecidos;\n\nf) Prestação de falsas declarações;\n\ng) Prestação de trabalho à própria entidade empregadora por trabalhador abrangido pela medida de apoio extraordinário à manutenção de contrato de trabalho na modalidade de suspensão do contrato, ou para lá do horário estabelecido, na modalidade de redução temporária do período normal de trabalho.\n\n2 - Caso a restituição prevista nos números anteriores não seja efetuada, voluntariamente, no prazo fixado pelo IEFP, I. P., são devidos juros de mora à taxa legal em vigor, desde o fim desse prazo, ou aplicável, no que respeita aos valores devidos à Segurança Social, o disposto no Decreto-Lei n.º 133/88, de 20 de abril, na sua redação atual, sendo realizada cobrança coerciva nos termos da legislação em vigor.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009155": {
+   "fragment_id": "130779542",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsabilidade contraordenacional",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Responsabilidade contraordenacional\n\nEm caso de violação de normas legais relativas à redução temporária do período normal de trabalho ou suspensão do contrato de trabalho, previstas nos artigos 298.º e seguintes do Código do Trabalho, aplica-se o regime da responsabilidade contraordenacional previsto nos artigos 548.º e seguintes daquele diploma e, subsidiariamente, o regime geral das contraordenações.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009156": {
+   "fragment_id": "130779543",
+   "type": 11,
+   "heading": "Artigo 16.º — Financiamento",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 16.º — Financiamento\n\n1 - Os valores da compensação retributiva da responsabilidade da Segurança Social pagos ao abrigo do presente decreto-lei são financiados pelo Orçamento do Estado.\n\n2 - Os apoios previstos no presente decreto-lei são passíveis de financiamento comunitário, sendo-lhe aplicável as respetivas disposições do direito comunitário e nacional.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009157": {
+   "fragment_id": "130779544",
+   "type": 11,
+   "heading": "Artigo 17.º — Situação tributária e contributiva",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+   ],
+   "markdown": "###### Artigo 17.º — Situação tributária e contributiva\n\n1 - Para aceder às medidas previstas no presente decreto-lei, o empregador deve, comprovadamente, ter as situações contributiva e tributária regularizadas perante a Segurança Social e a Autoridade Tributária e Aduaneira.\n\n2 - Até ao dia 30 de abril de 2020, não relevam, para efeitos da alínea a) do n.º 1 do artigo 177.º-A do Código de Procedimento e de Processo Tributário e do n.º 1 do artigo 208.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, as dívidas constituídas no mês de março de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2020 - Diário da República n.º 62-A/2020, Série I de 2020-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2020-130835104), em vigor a partir de 2020-03-27"
+  },
+  "202009158": {
+   "fragment_id": "130779545",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 18.º — Avaliação\n\nAs medidas previstas no presente decreto-lei são objeto de avaliação regular por parte da Comissão Permanente da Concertação Social.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009159": {
+   "fragment_id": "130779546",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\n1 - É revogada a Portaria n.º 71-A/2020, de 15 de março, na sua redação atual.\n\n2 - Os requerimentos que hajam sido entregues ao abrigo da Portaria n.º 71-A/2020, de 15 de março, na sua redação atual, e antes da entrada em vigor do presente decreto-lei, para efeitos da aplicação dos apoios financeiros previstos naquela, mantêm a sua eficácia e são analisados à luz do presente decreto-lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009160": {
+   "fragment_id": "130779547",
+   "type": 11,
+   "heading": "Artigo 20.º — Produção de efeitos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572), em vigor a partir de 2020-06-20"
+   ],
+   "markdown": "###### Artigo 20.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos até 30 de setembro, sem prejuízo do disposto nos números seguintes.\n\n2 - (Revogado.)\n\n3 - As empresas que não tenham recorrido ao apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial, previsto na alínea a) do n.º 1 do artigo 4.º, apenas podem apresentar os respetivos requerimentos iniciais com efeitos até 30 de junho de 2020, podendo nesse caso prorrogar mensalmente a aplicação da medida até ao máximo de três meses, nos termos previstos no n.º 3 do artigo 4.º\n\n4 - Não obstante o disposto no n.º 1, as empresas e estabelecimentos que se encontrem sujeitas ao dever de encerramento de instalações e estabelecimentos por determinação legislativa ou administrativa de fonte governamental, no âmbito da pandemia da doença COVID-19, podem aceder ou manter o direito ao apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial, ao abrigo da alínea a) do n.º 1 do artigo 3.º, bem como à respetiva prorrogação, enquanto se mantiver esse dever, não sendo aplicável, nestas situações, o limite previsto no n.º 3 do artigo 4.º\n\n5 - As empresas que tenham recorrido ao apoio extraordinário à manutenção de contrato de trabalho em situação de crise empresarial previsto na alínea a) do n.º 1 do artigo 4.º e que tenham atingido o limite de renovações previsto no n.º 3 do artigo 4.º até 30 de junho de 2020 podem beneficiar da prorrogação desse apoio até 31 de julho de 2020.\n\n6 - Nas situações previstas nos n.os 3 a 5 é aplicável o disposto no artigo 11.º do presente diploma.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 27-B/2020 - Diário da República n.º 118/2020, 2º Suplemento, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2020-136260572), em vigor a partir de 2020-06-20"
+  },
+  "202009161": {
+   "fragment_id": "130779548",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009162": {
+   "fragment_id": "130779549",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 26 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113149081\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

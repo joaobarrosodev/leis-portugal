@@ -1,0 +1,890 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R1035:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1035-20200102",
+ "dre_path": null,
+ "source_lastmod": "2020-01-02",
+ "versions": [
+  {
+   "date": "2011-10-18",
+   "future": false,
+   "celex": "32011R1035",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9e3eb0b6ee85d785",
+    "4592fbb794a1719a",
+    "5a50c8ccfb8e6554",
+    "965e745976213125",
+    "1698977dfdede7df",
+    "1ae03eed32e6b22f",
+    "9b62d54190a4c2b4",
+    "80ac61f90b8617d1",
+    "53c2c0653ee101c4",
+    "a7a8a2b21d5bbfbe",
+    "1e3e852b1131049a",
+    "d63f805bd7d063a9",
+    "a9f03589fd5b7168",
+    "dd08d28b844f8b17",
+    "48a6dc1eb54299d5",
+    "b90c5246bb222911",
+    "29c21273f3e9d5fc"
+   ]
+  },
+  {
+   "date": "2014-05-23",
+   "future": false,
+   "celex": "02011R1035-20140523",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0923:por",
+     "title": "Regulamento de Execução (UE) n. o 923/2012 da Comissão de 26 de setembro de 2012",
+     "published": null,
+     "celex": "32012R0923"
+    },
+    {
+     "id": "eu:celex:32014R0448:por",
+     "title": "Regulamento de Execução (UE) n. o 448/2014 da Comissão de 2 de maio de 2014",
+     "published": null,
+     "celex": "32014R0448"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Autoridade competente para a certificação",
+    "Altera Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008",
+    "Altera Artigo 15.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Requisitos gerais para a prestação de serviços de navegação aérea",
+    "Adita 1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA",
+    "Adita 2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO",
+    "Adita 2.1. Estrutura da organização",
+    "Adita 2.2. Gestão da organização",
+    "Adita 2.2.1. Plano de actividades",
+    "Adita 2.2.2. Plano anual",
+    "Adita 2.2.3. Parte dos planos relativa ao desempenho",
+    "Adita 3. GESTÃO DA SEGURANÇA (SAFETY) E DA QUALIDADE",
+    "Adita 3.1. Gestão da segurança",
+    "Adita 3.2. Sistema de gestão da qualidade",
+    "Adita 3.3. Manuais de operações",
+    "Adita 4. SEGURANÇA (SECURITY)",
+    "Adita 5. RECURSOS HUMANOS",
+    "Adita 6. CAPACIDADE FINANCEIRA",
+    "Adita 6.1. Capacidade económica e financeira",
+    "Adita 6.2. Auditoria financeira",
+    "Adita 7. RESPONSABILIDADE CIVIL E COBERTURA DE SEGURO",
+    "Adita 8. QUALIDADE DOS SERVIÇOS",
+    "Adita 8.1. Prestação aberta e transparente de serviços de navegação aérea",
+    "Adita 8.2. Planos de contingência",
+    "Adita 9. REQUISITOS EM MATÉRIA DE RELATÓRIOS",
+    "Adita ANEXO II",
+    "Adita Requisitos específicos para a prestação de serviços de tráfego aéreo",
+    "Adita 1. PROPRIEDADE",
+    "Adita 2. PRESTAÇÃO DE SERVIÇOS ABERTA E TRANSPARENTE",
+    "Adita 3. SEGURANÇA (SAFETY) DOS SERVIÇOS",
+    "Adita 3.1. Sistema de gestão da segurança (SMS)",
+    "Adita 3.1.1. Requisitos gerais de segurança",
+    "Adita 3.1.2. Requisitos para a obtenção da segurança",
+    "Adita 3.1.3. Requisitos para a garantia de segurança",
+    "Adita 3.1.4. Requisitos para a promoção da segurança",
+    "Adita 3.2. Requisitos de segurança para avaliação e atenuação dos riscos relativamente a alterações",
+    "Adita 3.2.1. Secção 1",
+    "Adita 3.2.2. Secção 2",
+    "Adita 3.2.3. Secção 3",
+    "Adita 3.2.4. Secção 4",
+    "Adita 3.2.5. Secção 5",
+    "Adita 3.3. Requisitos de segurança aplicáveis ao pessoal técnico que desempenha tarefas relacionadas com a segurança operacional",
+    "Adita 4. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+    "Adita ANEXO III",
+    "Adita Requisitos específicos para a prestação de serviços meteorológicos",
+    "Adita 1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA",
+    "Adita 2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+    "Adita ANEXO IV",
+    "Adita Requisitos específicos para a prestação de serviços de informação aeronáutica",
+    "Adita ANEXO V",
+    "Adita Requisitos específicos para a prestação de serviços de comunicação, navegação ou vigilância",
+    "Adita 2. SEGURANÇA DOS SERVIÇOS",
+    "Adita 3. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS"
+   ],
+   "fragments": [
+    "a68ad41e02bcc45f",
+    "4592fbb794a1719a",
+    "9750f122ee0ba7b5",
+    "cdec14bfc07b5bcd",
+    "1698977dfdede7df",
+    "1ae03eed32e6b22f",
+    "9b62d54190a4c2b4",
+    "80ac61f90b8617d1",
+    "53c2c0653ee101c4",
+    "a7a8a2b21d5bbfbe",
+    "1e3e852b1131049a",
+    "d63f805bd7d063a9",
+    "a9f03589fd5b7168",
+    "a8937da57a8a1336",
+    "48a6dc1eb54299d5",
+    "51455d527a22a6a7",
+    "d664376e2a8dcecd",
+    "2626a56439322005",
+    "d2398cb8d4821798",
+    "b6a036bd4d6c5fb3",
+    "c99d51cbd08e665f",
+    "d729e07d8712c398",
+    "a7579e716de82e6e",
+    "640cc4aa53db855b",
+    "0af2d67b2e3484c8",
+    "2fc68baf1c3cdbcb",
+    "c5f949a17116586d",
+    "42e10d93d469518f",
+    "a2f5631a35f201af",
+    "782f8bff405a666b",
+    "ccfcb3269e1cc828",
+    "edb0f9fd8e984346",
+    "54b8f150a1f5f364",
+    "19cf03c39a817314",
+    "9996af0ad3f1df5a",
+    "3f5bf0130be6eff6",
+    "3fb5e2bc629a2dc2",
+    "21efa06e81daf9e1",
+    "1975f33f9815dac7",
+    "852174729551523b",
+    "a86e1cca7fcc0180",
+    "6a6e03025b02ff83",
+    "0e5a5a60545de976",
+    "c4f25dbfef04500f",
+    "badd293a7f111be2",
+    "685f2af76fc7c4f2",
+    "23486918c5ef4e7e",
+    "0cc701ff5031395e",
+    "2d87d4408253214e",
+    "4f0e4b17b314e5d7",
+    "dfb628478eb7036d",
+    "b3a7a6ccc2cc984d",
+    "1ee1ee6e8e776275",
+    "10b07d671f3f568c",
+    "972c6c63c51202cd",
+    "9323ee49cef0fe76",
+    "656a03651c183c57",
+    "720af75c92791b10",
+    "6ade1c8fcbf6f654",
+    "9e0a0c32d11f5b98",
+    "673b5f4799f080b4",
+    "e03a0eb4d5b2eef3",
+    "03320c5bf96e92df",
+    "dd5098367b7a3ed4",
+    "51910d049c5fe5ae",
+    "64610ae29a6cb67c",
+    "a35efbcfe807160d",
+    "e739be57f882765d",
+    "408687db41e542a8",
+    "2045b62111672bb0",
+    "13373510e58f0bf1"
+   ]
+  },
+  {
+   "date": "2020-01-02",
+   "future": false,
+   "celex": "02011R1035-20200102",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Autoridade competente para a certificação",
+    "Suprime Artigo 4.º — Concessão de certificados",
+    "Suprime Artigo 5.º — Derrogações",
+    "Suprime Artigo 6.º — Demonstração do cumprimento",
+    "Suprime Artigo 7.º — Facilitação da verificação do cumprimento",
+    "Suprime Artigo 8.º — Continuidade do cumprimento",
+    "Suprime Artigo 9.º — Regulamentação de segurança aplicável ao pessoal técnico",
+    "Suprime Artigo 10.º — Procedimento de avaliação pelos pares",
+    "Suprime Artigo 11.º — Disposições transitórias",
+    "Suprime Artigo 12.º — Revogação",
+    "Suprime Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008",
+    "Suprime Artigo 14.º — Alteração ao Regulamento (UE) n.º 691/2010",
+    "Suprime Artigo 15.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime Requisitos gerais para a prestação de serviços de navegação aérea",
+    "Suprime 1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA",
+    "Suprime 2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO",
+    "Suprime 2.1. Estrutura da organização",
+    "Suprime 2.2. Gestão da organização",
+    "Suprime 2.2.1. Plano de actividades",
+    "Suprime 2.2.2. Plano anual",
+    "Suprime 2.2.3. Parte dos planos relativa ao desempenho",
+    "Suprime 3. GESTÃO DA SEGURANÇA (SAFETY) E DA QUALIDADE",
+    "Suprime 3.1. Gestão da segurança",
+    "Suprime 3.2. Sistema de gestão da qualidade",
+    "Suprime 3.3. Manuais de operações",
+    "Suprime 4. SEGURANÇA (SECURITY)",
+    "Suprime 5. RECURSOS HUMANOS",
+    "Suprime 6. CAPACIDADE FINANCEIRA",
+    "Suprime 6.1. Capacidade económica e financeira",
+    "Suprime 6.2. Auditoria financeira",
+    "Suprime 7. RESPONSABILIDADE CIVIL E COBERTURA DE SEGURO",
+    "Suprime 8. QUALIDADE DOS SERVIÇOS",
+    "Suprime 8.1. Prestação aberta e transparente de serviços de navegação aérea",
+    "Suprime 8.2. Planos de contingência",
+    "Suprime 9. REQUISITOS EM MATÉRIA DE RELATÓRIOS",
+    "Suprime ANEXO II",
+    "Suprime Requisitos específicos para a prestação de serviços de tráfego aéreo",
+    "Suprime 1. PROPRIEDADE",
+    "Suprime 2. PRESTAÇÃO DE SERVIÇOS ABERTA E TRANSPARENTE",
+    "Suprime 3. SEGURANÇA (SAFETY) DOS SERVIÇOS",
+    "Suprime 3.1. Sistema de gestão da segurança (SMS)",
+    "Suprime 3.1.1. Requisitos gerais de segurança",
+    "Suprime 3.1.2. Requisitos para a obtenção da segurança",
+    "Suprime 3.1.3. Requisitos para a garantia de segurança",
+    "Suprime 3.1.4. Requisitos para a promoção da segurança",
+    "Suprime 3.2. Requisitos de segurança para avaliação e atenuação dos riscos relativamente a alterações",
+    "Suprime 3.2.1. Secção 1",
+    "Suprime 3.2.2. Secção 2",
+    "Suprime 3.2.3. Secção 3",
+    "Suprime 3.2.4. Secção 4",
+    "Suprime 3.2.5. Secção 5",
+    "Suprime 3.3. Requisitos de segurança aplicáveis ao pessoal técnico que desempenha tarefas relacionadas com a segurança operacional",
+    "Suprime 4. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+    "Suprime ANEXO III",
+    "Suprime Requisitos específicos para a prestação de serviços meteorológicos",
+    "Suprime 1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA",
+    "Suprime 2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+    "Suprime ANEXO IV",
+    "Suprime Requisitos específicos para a prestação de serviços de informação aeronáutica",
+    "Suprime ANEXO V",
+    "Suprime Requisitos específicos para a prestação de serviços de comunicação, navegação ou vigilância",
+    "Suprime 2. SEGURANÇA DOS SERVIÇOS",
+    "Suprime 3. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1b53c6387e66d12b"
+   ]
+  }
+ ],
+ "fragments": {
+  "9e3eb0b6ee85d785": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Outubro de 2011\n\nque estabelece requisitos comuns para a prestação de serviços de navegação aérea e que altera os Regulamentos (CE) n.º 482/2008 e (UE) n.º 691/2010\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu (o Regulamento «Prestação de serviços») [([^1])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr1-L_2011271PT.01002301-E0001), nomeadamente os artigos 4.º, 6.º e 7.º,\n\nTendo em conta o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Directiva 91/670/CEE do Conselho, o Regulamento (CE) n.º 1592/2002 e a Directiva 2004/36/CE [([^2])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr2-L_2011271PT.01002301-E0002), nomeadamente o n.º 6 do artigo 8.º-B,\n\nConsiderando o seguinte:\n\n(1) Nos termos do Regulamento (CE) n.º 216/2008, a Comissão, assistida pela Agência Europeia para a Segurança da Aviação («a Agência»), deve adoptar regras de execução para a prestação de serviços de gestão do tráfego aéreo e de serviços de navegação aérea (ATM/ANS) na União. Nos termos do artigo 8.º-B, n.º 6, do Regulamento (CE) n.º 216/2008, estas regras de execução devem basear-se nos regulamentos adoptados ao abrigo do artigo 5.º, n.º 3, do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu (o «Regulamento-Quadro») [([^3])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr3-L_2011271PT.01002301-E0003).\n\n(2) A prestação de serviços de navegação aérea na União deve estar sujeita a certificação pelos Estados-Membros ou pela Agência. Os prestadores de serviços de navegação aérea que cumpram os requisitos comuns devem ser certificados nos termos do artigo 7.º do Regulamento (CE) n.º 550/2004 e do artigo 8.º-B, n.º 2, do Regulamento (CE) n.º 216/2008.\n\n(3) A aplicação dos requisitos comuns estabelecidos nos termos do artigo 6.º do Regulamento (CE) n.º 550/2004 e do artigo 8.º-B do Regulamento (CE) n.º 216/2008 não deve prejudicar a soberania dos Estados-Membros sobre o seu espaço aéreo ou as normas dos Estados-Membros no que respeita à ordem pública, à segurança pública e às questões de defesa, tal como previsto no artigo 13.º do Regulamento (CE) n.º 549/2004. Os requisitos comuns não devem abranger operações e treinos militares nos termos do artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004 e do artigo 1.º, n.º 2, do Regulamento (CE) n.º 216/2008.\n\n(4) O estabelecimento de requisitos comuns para a prestação de serviços de navegação aérea deve ter em devida conta o estatuto jurídico dos prestadores de tais serviços nos Estados-Membros. Por outro lado, sempre que uma organização desenvolva outras actividades para além da prestação de serviços de navegação aérea, os requisitos comuns não se devem aplicar a essas outras actividades nem a recursos afectados a actividades que não se incluam na prestação de serviços de navegação aérea, salvo disposição em contrário.\n\n(5) A aplicação de requisitos comuns a prestadores de serviços de navegação aérea deve ser proporcionada aos riscos associados às especificidades de cada actividade, como o número e/ou a natureza e as características dos movimentos tratados. Caso alguns prestadores de serviços de navegação aérea decidam não aproveitar a oportunidade de prestar serviços transfronteiriços no âmbito do céu único europeu, a autoridade competente deve poder autorizá-los a cumprirem de forma proporcionada, respectivamente, determinados requisitos gerais para a prestação de serviços de navegação aérea e determinados requisitos específicos para a prestação de serviços de tráfego aéreo. Por conseguinte, as condições associadas ao certificado devem reflectir a natureza e o âmbito da derrogação.\n\n(6) Para garantir o funcionamento correcto do sistema de certificação, os Estados-Membros devem fornecer à Comissão e à Agência todas as informações relevantes sobre as derrogações concedidas pelas respectivas autoridades competentes no contexto dos seus relatórios anuais.\n\n(7) Os diferentes tipos de actividades no âmbito dos serviços de navegação aérea não estão necessariamente sujeitos aos mesmos requisitos. Por conseguinte, é necessário adaptar os requisitos comuns às características especiais de cada tipo de actividade.\n\n(8) O ónus da prova do cumprimento dos requisitos deve recair sobre os prestadores de serviços de navegação aérea durante o prazo de validade do certificado e relativamente a todos os serviços abrangidos.\n\n(9) A fim de garantir a aplicação efectiva dos requisitos comuns, deve ser estabelecido um sistema de supervisão e inspecção periódicas do seu cumprimento e dos termos do certificado. A autoridade competente deve examinar a aptidão dos prestadores antes da emissão do respectivo certificado e proceder a uma avaliação anual da continuidade da conformidade dos prestadores de serviços de navegação aérea por ela certificados. Por conseguinte, deve estabelecer e actualizar anualmente um programa de inspecção indicativo que cubra todos os prestadores por ela certificados, com base numa avaliação dos riscos. O programa deve permitir a inspecção de todas as partes relevantes dos prestadores de serviços de navegação aérea num prazo razoável. Ao avaliar a conformidade dos prestadores designados de serviços de tráfego aéreo e de serviços meteorológicos, a autoridade competente deve ter o direito de verificar os requisitos pertinentes decorrentes de obrigações internacionais impostas ao Estado-Membro em causa.\n\n(10) A avaliação das autoridades supervisoras nacionais pelos pares poderá promover uma abordagem comum da supervisão dos prestadores de serviços de navegação aérea em toda a União. A Comissão, em cooperação com os Estados-Membros e a Agência, pode organizar estas avaliações pelos pares, que devem ser coordenadas com as actividades desenvolvidas no quadro dos artigos 24.º e 54.º do Regulamento (CE) n.º 216/2008 e de outros programas internacionais de controlo e supervisão. Isto evitará a duplicação de trabalho. Para permitir o intercâmbio de experiências e de boas práticas durante uma avaliação pelos pares, os peritos devem ser, de preferência, provenientes de uma autoridade competente.\n\n(11) O Eurocontrol desenvolveu especificações regulamentares de segurança (ESARR – *Eurocontrol Safety Regulatory Requirements*) que são da maior importância para a prestação segura de serviços de tráfego aéreo. Em conformidade com o Regulamento (CE) n.º 550/2004, a Comissão deve identificar e transpor as disposições relevantes das ESARR para regulamentos da União. As ESARR incorporadas no Regulamento (CE) n.º 2096/2005 da Comissão, de 20 de Dezembro de 2005, que estabelece requisitos comuns para a prestação de serviços de navegação aérea [([^4])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr4-L_2011271PT.01002301-E0004) constituem a base para estas regras de execução.\n\n(12) Quando da adopção do Regulamento (CE) n.º 2096/2005, a Comissão concluiu que não era adequado repetir as disposições das ESARR 2 relativas à comunicação e avaliação de ocorrências em matéria de segurança na gestão do tráfego aéreo, que são abrangidas pelo Regulamento (UE) n.º 996/2010 do Parlamento Europeu e do Conselho, de 20 de Outubro de 2010, relativo à investigação e à prevenção de acidentes e incidentes na aviação civil e que revoga a Directiva 94/56/CE [([^5])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr5-L_2011271PT.01002301-E0005), e pela Directiva 2003/42/CE do Parlamento Europeu e do Conselho, de 13 de Junho de 2003, relativa à comunicação de ocorrências na aviação civil [([^6])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr6-L_2011271PT.01002301-E0006). Não obstante, devem ser introduzidas disposições relativas a ocorrências em matéria de segurança que obriguem uma autoridade competente, conforme definida no presente regulamento, a verificar se os prestadores de serviços de tráfego aéreo e os prestadores de serviços de comunicação, navegação ou vigilância cumprem os requisitos de comunicação e avaliação de ocorrências em matéria de segurança.\n\n(13) Importa, nomeadamente, reconhecer que, em primeiro lugar, a gestão da segurança é a componente dos serviços de navegação aérea que garante que todos os riscos em matéria de segurança são identificados, avaliados e reduzidos de forma satisfatória e, em segundo lugar, que uma abordagem formal e sistemática da gestão da segurança e dos sistemas de gestão, no sentido de uma abordagem sistémica total, maximizará os benefícios em termos de segurança de forma visível e rastreável. A Agência deve avaliar ainda os requisitos de segurança do presente regulamento e integrá-los numa estrutura regulamentar comum para a segurança da aviação civil.\n\n(14) Enquanto a Agência não elaborar as medidas de execução que transponham as normas da Organização da Aviação Civil Internacional (ICAO) relevantes para medidas de execução da União, meios de conformidade aceitáveis, especificações de certificação e documentos de orientação, os prestadores de serviços de navegação aérea devem operar em conformidade com as normas da ICAO relevantes. Com vista a facilitar a prestação de serviços transfronteiriços de navegação aérea, e enquanto não estiver finalizado o trabalho da Agência de elaboração das medidas pertinentes para transpor as normas da ICAO, os Estados-Membros, a Comissão e a Agência, em estreita cooperação com o Eurocontrol, quando aplicável, devem trabalhar no sentido de minimizar as diferenças notificadas pelos Estados-Membros relativas à aplicação das normas da ICAO no domínio dos serviços de navegação aérea, por forma a chegar a um conjunto comum de normas no céu único europeu para todos os Estados-Membros.\n\n(15) As diferentes disposições nacionais em matéria de responsabilidade não devem impedir os prestadores de serviços de navegação aérea de chegar a acordo sobre a prestação de serviços transfronteiriços, desde que tenham regulado a indemnização por perdas e danos decorrente de responsabilidades nos termos da lei aplicável. O método utilizado deve respeitar as normas legais nacionais. Os Estados-Membros que permitam a prestação de serviços de navegação aérea sem certificação na totalidade ou numa parte do espaço aéreo sob a sua responsabilidade, em conformidade com o Regulamento (CE) n.º 550/2004, devem cobrir a responsabilidade civil de tais prestadores.\n\n(16) A Agência deve avaliar mais aprofundadamente as disposições do presente regulamento, nomeadamente as relativas à avaliação da segurança de alterações à prestação de serviços de navegação aérea pela organização certificada e pelo pessoal técnico, e emitir um parecer que as adapte no sentido de uma abordagem sistémica global, tendo em conta a integração destas disposições na estrutura regulamentar comum para a segurança da aviação civil e a experiência adquirida pelas partes interessadas e as autoridades competentes no domínio da supervisão da segurança.\n\n(17) Nos termos do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu (Regulamento «Espaço aéreo») [([^7])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr7-L_2011271PT.01002301-E0007), devem ser estabelecidas funções específicas, conhecidas como «funções da rede», para permitir a utilização optimizada do espaço aéreo e dos recursos escassos, atribuindo ao mesmo tempo aos utilizadores o máximo acesso ao espaço aéreo e a capacidade para operarem as suas trajectórias preferidas. Tal como previsto no Regulamento (CE) n.º 551/2004, o Regulamento (UE) n.º 677/2011 da Comissão, de 7 de Julho de 2011, que estabelece as regras de execução para a implementação das funções da rede na gestão do tráfego aéreo (ATM) e que altera o Regulamento (CE) n.º 691/2010 [([^8])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr8-L_2011271PT.01002301-E0008) estabelece os direitos, obrigações e responsabilidades da entidade envolvida na prestação dessas funções.\n\n(18) Para a segurança da execução de certas funções da rede, a entidade envolvida deve cumprir certos requisitos. O objectivo desses requisitos, previstos no anexo VI do Regulamento (CE) n.º 677/2011 (relativo às funções da rede), é assegurar que a entidade ou organização opere de forma segura. Trata-se de requisitos de segurança aplicáveis à organização, muito semelhantes aos requisitos gerais aplicáveis aos prestadores de serviços de navegação aérea mas adaptados às responsabilidades em matéria de segurança das funções da rede.\n\n(19) É, por conseguinte, conveniente revogar o Regulamento (CE) n.º 2096/2005.\n\n(20) O Regulamento (CE) n.º 482/2008 da Comissão, de 30 de Maio de 2008, que estabelece um sistema de garantia de segurança do *software* a aplicar pelos prestadores de serviços de navegação aérea e que altera o anexo II do Regulamento (CE) n.º 2096/2005 [([^9])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr9-L_2011271PT.01002301-E0009) e o Regulamento (UE) n.º 691/2010 da Comissão, de 29 de Julho de 2010, que estabelece um sistema de desempenho para os serviços de navegação aérea e as funções da rede e que altera o Regulamento (CE) n.º 2096/2005 que estabelece requisitos comuns para a prestação de serviços de navegação aérea [([^10])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr10-L_2011271PT.01002301-E0010) devem ser alterados para ser adaptados ao presente regulamento.\n\n(21) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4592fbb794a1719a": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente regulamento estabelece os requisitos comuns para a prestação de serviços de navegação aérea.\n\nTodavia, salvo disposição em contrário dos anexos I ou II, estes requisitos comuns não se aplicam:\n\na) Às actividades não incluídas na prestação de serviços de navegação aérea pelo prestador de tais serviços;\n\nb) Aos recursos afectados a actividades não incluídas na prestação de serviços de navegação aérea."
+  },
+  "5a50c8ccfb8e6554": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente regulamento, são aplicáveis as definições estabelecidas no artigo 2.º do Regulamento (CE) n.º 549/2004 e no artigo 3.º do Regulamento (CE) n.º 216/2008. Contudo, a definição de certificado no artigo 2.º, n.º 15, do Regulamento (CE) n.º 549/2004 não é aplicável.\n\nSão também aplicáveis as seguintes definições:\n\n1) **«Trabalho aéreo»**: a operação de uma aeronave para serviços especializados, designadamente na agricultura, na construção, na fotografia, na vigilância, na observação e no patrulhamento, na busca e no salvamento ou na publicidade aérea;\n\n2) **«Transporte aéreo comercial»**: a operação de uma aeronave que envolva o transporte de passageiros, carga ou correio mediante remuneração ou mediante locação;\n\n3) **«Sistema funcional»**: uma combinação de sistemas, procedimentos e recursos humanos organizados para desempenhar uma função no contexto da gestão do tráfego aéreo (ATM);\n\n4) **«Aviação geral»**: qualquer operação de aviação civil que não o transporte aéreo comercial ou o trabalho aéreo;\n\n5) **«Autoridade supervisora nacional»**: o organismo ou os organismos nomeado(s) ou designado(s) pelos Estados-Membros na qualidade de autoridades nacionais em conformidade com o n.º 1 do artigo 4.º do Regulamento (CE) n.º 549/2004;\n\n6) **«Situação de perigo»**: qualquer situação, acontecimento ou circunstância susceptível de induzir um acidente;\n\n7) **«Organização»**: uma entidade que presta serviços de navegação aérea;\n\n8) **«Organismo operador»**: organismo responsável pela prestação de serviços técnicos de apoio aos serviços de tráfego aéreo, comunicação, navegação ou vigilância;\n\n9) **«Risco»**: a combinação da probabilidade global ou da frequência de ocorrência de um efeito nocivo induzido por uma situação de perigo e da gravidade desse efeito;\n\n10) **«Garantia de segurança»**: o conjunto de acções planeadas e sistemáticas necessárias para proporcionar a confiança adequada na obtenção de um nível de segurança aceitável ou tolerável por um produto, um serviço, uma organização ou um sistema funcional;\n\n11) **«Objectivo de segurança»**: uma declaração qualitativa ou quantitativa que define a frequência ou a probabilidade máximas previsíveis de ocorrência de uma situação de perigo;\n\n12) **«Requisito de segurança»**: um meio de atenuação dos riscos, definido no contexto de uma estratégia de atenuação dos riscos, que permite atingir um objectivo de segurança específico, incluindo requisitos organizacionais, operacionais, processuais, funcionais, de desempenho e de interoperabilidade ou características envolventes;\n\n13) **«Serviços»**: um serviço de navegação aérea ou um conjunto de serviços de navegação aérea;\n\n14) **«Serviço de navegação aérea pan-europeu»**: um serviço de navegação aérea concebido e estabelecido para os utilizadores na maioria ou na totalidade dos Estados-Membros e que pode também ser alargado para além do espaço aéreo do território a que se aplica o Tratado;\n\n15) **«Prestador de serviços de navegação aérea»**: uma entidade pública ou privada que presta serviços de navegação aérea para o tráfego aéreo geral, incluindo qualquer organização que tenha requerido um certificado para prestar tais serviços."
+  },
+  "965e745976213125": {
+   "fragment_id": "Artigo 3.º — Autoridade competente para a certificação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Autoridade competente para a certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridade competente para a certificação\n\n1. Para efeitos do presente regulamento, a autoridade competente para a certificação é:\n\na) Para as organizações que têm o seu principal centro de actividades e, se for caso disso, a sua sede social num Estado-Membro, a autoridade supervisora nacional nomeada ou estabelecida por esse Estado-Membro;\n\nb) Para as organizações que prestam serviços de navegação aérea no espaço aéreo do território a que se aplica o Tratado, e que têm o seu principal centro de actividades e, se for caso disso, a sua sede social fora do território abrangido pelas disposições do Tratado, a Agência;\n\nc) Para as organizações que prestam serviços de navegação aérea pan-europeus no espaço aéreo do território a que se aplica o Tratado, a Agência.\n\n2. A autoridade competente para a supervisão da segurança é determinada em conformidade com o artigo 3.º do Regulamento de Execução (UE) n.º 1034/2011 [([^11])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr11-L_2011271PT.01002301-E0011)."
+  },
+  "1698977dfdede7df": {
+   "fragment_id": "Artigo 4.º — Concessão de certificados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Concessão de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Concessão de certificados\n\n1. Para obterem o certificado necessário para prestar serviços de navegação aérea, e sem prejuízo do artigo 7.º, n.º 5, do Regulamento (CE) n.º 550/2004, as organizações devem cumprir:\n\na) Os requisitos gerais para prestação de serviços de navegação aérea estabelecidos no anexo I;\n\nb) Os requisitos específicos estabelecidos nos anexos II a V, em função do tipo de serviço que prestam.\n\n2. Antes de emitir um certificado a um prestador de serviços de navegação aérea, a autoridade competente deve verificar o cumprimento dos requisitos comuns por esse prestador.\n\n3. Uma organização deve cumprir os requisitos comuns o mais tardar à data em que o certificado é emitido:\n\na) Nos termos do artigo 7.º do Regulamento (CE) n.º 550/2004;\n\nb) Nos termos do artigo 8.º-B, n.º 2, e do artigo 22.º-A, alíneas b) e c), do Regulamento (CE) n.º 216/2008."
+  },
+  "1ae03eed32e6b22f": {
+   "fragment_id": "Artigo 5.º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Derrogações\n\n1. Em derrogação ao disposto no artigo 4.º, n.º 1, determinados prestadores de serviços de navegação aérea podem decidir não beneficiar da oportunidade de fornecer serviços transfronteiriços e renunciar ao direito ao reconhecimento mútuo no âmbito do céu único europeu.\n\nEm tais circunstâncias, podem requerer um certificado limitado ao espaço aéreo sob a responsabilidade do Estado-Membro referido no artigo 7.º, n.º 2, do Regulamento (CE) n.º 550/2004.\n\n2. Para apresentarem tal requerimento, os prestadores de serviços de navegação aérea devem prestar serviços ou ter intenção de os prestar unicamente numa ou em várias das seguintes categorias:\n\na) Trabalho aéreo;\n\nb) Aviação geral;\n\nc) Transporte aéreo comercial limitado a aeronaves com massa máxima à descolagem inferior a 10 toneladas ou capacidade inferior a 20 lugares;\n\nd) Transporte aéreo comercial com menos de 10 000 movimentos por ano (contados como a soma das descolagens e aterragens), independentemente da massa máxima à descolagem e do número de lugares da aeronave, sendo o número de movimentos calculado como a média dos três anos anteriores.\n\nPara poderem apresentar esse requerimento, os prestadores de serviços de navegação aérea que não sejam prestadores de serviços de tráfego aéreo devem registar um volume de negócios anual bruto relativo aos serviços que prestam ou tencionam prestar igual ou inferior a 1 000 000 EUR.\n\nSempre que, devido a razões práticas objectivas, um prestador de serviços de navegação aérea não esteja em condições de provar que cumpre esses critérios, a autoridade competente pode aceitar valores ou previsões análogos em relação aos limites definidos no primeiro e no segundo parágrafos.\n\nNa apresentação do requerimento, os prestadores de serviços de navegação aérea devem apresentar simultaneamente à respectiva autoridade competente as provas relevantes do cumprimento dos critérios de qualificação.\n\n3. A autoridade competente pode conceder derrogações específicas aos requerentes que satisfaçam os critérios do n.º 1, de forma proporcionada à contribuição destes para a gestão do tráfego aéreo no espaço aéreo sob a responsabilidade do Estado-Membro em causa.\n\nEstas derrogações podem aplicar-se apenas aos requisitos do anexo I.\n\nNão será, contudo, concedida derrogação relativamente aos seguintes requisitos:\n\na) Competência e aptidão operacional e técnica (ponto 1);\n\nb) Gestão da segurança (ponto 3.1);\n\nc) Recursos humanos (ponto 5);\n\nd) Prestação de serviços de navegação aérea aberta e transparente (ponto 8.1).\n\n4. Para além das derrogações referidas no n.º 3, a autoridade competente pode conceder derrogações a requerentes que prestem serviços de informação de voo de aeródromo mediante a operação regular de não mais de uma posição de trabalho em qualquer aeródromo. Deve fazê-lo de forma proporcionada à contribuição do requerente para a gestão do tráfego aéreo no espaço aéreo sob a responsabilidade do Estado-Membro em causa.\n\nEstas derrogações podem aplicar-se apenas aos seguintes requisitos do anexo II, ponto 3:\n\na) Responsabilidade pela gestão da segurança, bem como serviços e fornecimentos externos (ponto 3.1.2, alíneas b) e e));\n\nb) Auditorias de segurança (ponto 3.1.3, alínea a));\n\nc) Requisitos de segurança para avaliação e atenuação de riscos no que se refere a alterações (ponto 3.2).\n\n5. Não são concedidas derrogações relativamente aos requisitos previstos nos anexos III, IV e V.\n\n6. Em conformidade com o anexo II do Regulamento (CE) n.º 550/2004, a autoridade competente deve:\n\na) Precisar a natureza e o âmbito da derrogação nas condições associadas ao certificado, indicando o seu fundamento jurídico;\n\nb) Limitar o período de validade do certificado, se tal for considerado necessário para fins de supervisão; e\n\nc) Verificar se os prestadores de serviços de navegação aérea continuam a reunir os requisitos necessários para beneficiarem da derrogação."
+  },
+  "9b62d54190a4c2b4": {
+   "fragment_id": "Artigo 6.º — Demonstração do cumprimento",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Demonstração do cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Demonstração do cumprimento\n\n1. A pedido da autoridade competente, as organizações devem fornecer todos os elementos necessários para demonstrar que cumprem os requisitos comuns aplicáveis. As organizações podem fazer plena utilização dos dados existentes.\n\n2. Uma organização certificada deve notificar a autoridade competente de quaisquer alterações previstas na sua prestação de serviços de navegação aérea que possam afectar o cumprimento dos requisitos comuns aplicáveis ou, se for caso disso, as condições associadas ao certificado.\n\n3. Caso uma organização certificada deixe de cumprir os requisitos comuns aplicáveis ou, se for caso disso, as condições associadas ao certificado, a autoridade competente deve, no prazo de um mês a contar da data em que teve conhecimento do não cumprimento, exigir que a organização adopte medidas correctivas.\n\nA decisão deve ser imediatamente notificada à organização em causa.\n\nAntes de notificar a sua aprovação à organização em causa, a autoridade competente deve verificar se as medidas correctivas foram adoptadas.\n\nSe a autoridade competente considerar que as acções correctivas não foram adoptadas de forma adequada respeitando o calendário acordado com a organização, deve tomar medidas coercivas adequadas em conformidade com o artigo 7.º, n.º 7, do Regulamento (CE) n.º 550/2004 e com os artigos 10.º, 22.ºA, alínea d), 25.º e 68.º do Regulamento (CE) n.º 216/2008, tendo em conta a necessidade de assegurar a continuidade dos serviços de navegação aérea."
+  },
+  "80ac61f90b8617d1": {
+   "fragment_id": "Artigo 7.º — Facilitação da verificação do cumprimento",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Facilitação da verificação do cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Facilitação da verificação do cumprimento\n\nAs organizações devem facilitar a realização de inspecções e vistorias pela autoridade competente ou por uma entidade qualificada que actue em seu nome, incluindo visitas ao local e visitas sem aviso prévio.\n\nAs pessoas habilitadas devem ter poderes para praticar os seguintes actos:\n\na) Examinar os registos, dados e procedimentos relevantes, bem como qualquer outro material pertinente para a prestação de serviços de navegação aérea;\n\nb) Obter cópias ou extractos desses registos, dados, procedimentos e outro material;\n\nc) Pedir esclarecimentos orais no local;\n\nd) Aceder a instalações, terrenos ou meios de transporte relevantes.\n\nAs inspecções e vistorias, quando conduzidas por uma autoridade competente ou por uma entidade qualificada que actue em seu nome, devem ser efectuadas em conformidade com as disposições legais do Estado-Membro em que decorram."
+  },
+  "53c2c0653ee101c4": {
+   "fragment_id": "Artigo 8.º — Continuidade do cumprimento",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Continuidade do cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Continuidade do cumprimento\n\nA autoridade competente deve verificar anualmente, com base nos elementos à sua disposição, a continuidade da conformidade das organizações por ela certificadas.\n\nPara tal, a autoridade competente deve estabelecer e actualizar anualmente um programa de inspecção indicativo que cubra todos os prestadores por ela certificados, com base numa avaliação dos riscos associados às diferentes operações que constituem os serviços de navegação aérea prestados. Antes de estabelecer esse programa, a autoridade competente deve consultar a organização em causa, bem como, se for caso disso, qualquer outra autoridade competente em causa.\n\nO programa deve indicar o intervalo previsto entre as inspecções dos vários locais."
+  },
+  "a7a8a2b21d5bbfbe": {
+   "fragment_id": "Artigo 9.º — Regulamentação de segurança aplicável ao pessoal técnico",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Regulamentação de segurança aplicável ao pessoal técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação de segurança aplicável ao pessoal técnico\n\nNo que se refere à prestação de serviços de tráfego aéreo, comunicação, navegação ou vigilância, a autoridade competente ou outra autoridade designada por um Estado-Membro para desempenhar essa tarefa deve:\n\na) Publicar regras de segurança adequadas aplicáveis ao pessoal técnico que desempenha tarefas relacionadas com a segurança operacional;\n\nb) Garantir uma supervisão de segurança adequada e apropriada do pessoal técnico designado por qualquer organismo operador para exercer tarefas relacionadas com a segurança operacional;\n\nc) Por motivos razoáveis e após a devida averiguação, tomar medidas adequadas a respeito do organismo operador e/ou do seu pessoal técnico caso não satisfaçam as disposições do anexo II, ponto 3.3;\n\nd) Verificar se existem métodos adequados que garantam que terceiros encarregados de tarefas relacionadas com a segurança operacional satisfazem as disposições do anexo II, ponto 3.3."
+  },
+  "1e3e852b1131049a": {
+   "fragment_id": "Artigo 10.º — Procedimento de avaliação pelos pares",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Procedimento de avaliação pelos pares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de avaliação pelos pares\n\n1. A Comissão, em colaboração com os Estados-Membros e com a Agência, pode organizar avaliações das autoridades supervisoras nacionais pelos pares, em conformidade com os n.^os^ 2 a 6.\n\n2. As avaliações pelos pares serão efectuadas por uma equipa de peritos nacionais e, sempre que adequado, observadores da Agência.\n\nA equipa será composta por peritos oriundos de, pelo menos, três Estados-Membros diferentes e da Agência.\n\nOs peritos não podem participar em avaliações pelos pares no Estado-Membro em que exercem a sua actividade profissional.\n\nA Comissão estabelecerá e manterá uma lista de peritos nacionais, designados pelos Estados-Membros, cobrindo todos os aspectos dos requisitos comuns conforme enumerados no artigo 6.º do Regulamento (CE) n.º 550/2004.\n\n3. No prazo mínimo de três meses antes de uma avaliação pelos pares, a Comissão informará o Estado-Membro e a autoridade supervisora nacional da realização da dita avaliação pelos pares, da data prevista para a mesma e da identidade dos peritos que nela participam.\n\nO Estado-Membro cuja autoridade supervisora nacional está sujeita à avaliação deve aprovar a equipa de peritos antes do início da mesma.\n\n4. No prazo de três meses após a data da avaliação, a equipa por ela responsável deve elaborar, de forma consensual, um relatório, que pode conter recomendações.\n\nA Comissão convocará uma reunião com a Agência, os peritos e a autoridade supervisora nacional para discutir o relatório.\n\n5. A Comissão transmite o relatório ao Estado-Membro em causa.\n\nO Estado-Membro dispõe de um prazo de três meses a contar da sua recepção para apresentar as suas observações.\n\nQuando relevante, estas observações devem incluir as medidas adoptadas pelo Estado-Membro ou que este tenciona adoptar num prazo determinado em reacção à avaliação.\n\nSalvo acordo em contrário com o Estado-Membro em questão, o relatório da avaliação e as medidas tomadas para dar seguimento às suas recomendações não serão tornados públicos.\n\n6. A Comissão informa anualmente os Estados-Membros, através do Comité do Céu Único, das principais conclusões destas avaliações."
+  },
+  "d63f805bd7d063a9": {
+   "fragment_id": "Artigo 11.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições transitórias\n\n1. Os prestadores de serviços de navegação aérea que sejam titulares de um certificado emitido em conformidade com o Regulamento (CE) n.º 2096/2005 à data de entrada em vigor do presente regulamento serão considerados titulares de certificados emitidos em conformidade com o presente regulamento.\n\n2. Os requerentes de certificados de prestadores de serviços de navegação aérea que tiverem apresentado um requerimento antes da data de entrada em vigor do presente regulamento e que não tiverem ainda obtido o certificado nessa data devem demonstrar a conformidade com as disposições do presente regulamento antes da emissão do certificado.\n\n3. Caso as organizações para as quais, em conformidade com o artigo 3.º, a autoridade competente é a Agência tiverem requerido a emissão de um certificado junto da autoridade supervisora nacional de um Estado-Membro antes da entrada em vigor do presente regulamento, a autoridade supervisora nacional deve finalizar o processo de certificação em coordenação com a Agência e transferir o ficheiro para a Agência no momento da emissão do certificado."
+  },
+  "a9f03589fd5b7168": {
+   "fragment_id": "Artigo 12.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação\n\nO Regulamento (CE) n.º 2096/2005 é revogado."
+  },
+  "dd08d28b844f8b17": {
+   "fragment_id": "Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008\n\nO Regulamento (CE) n.º 482/2008 é alterado do seguinte modo:\n\n1) A referência no artigo 4.º, n.º 5, ao «Regulamento (CE) n.º 2096/2005» é substituída pela referência ao «Regulamento de Execução (UE) n.º 1035/2011 [([^*1])](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntr*1-L_2011271PT.01002301-E0012);\n\n2) O artigo 6.º é revogado;\n\n3) As referências no anexo I, pontos 1 e 2, ao «Regulamento (CE) n.º 2096/2005» são substituídas pela referência ao «Regulamento de Execução (UE) n.º 1035/2011»."
+  },
+  "48a6dc1eb54299d5": {
+   "fragment_id": "Artigo 14.º — Alteração ao Regulamento (UE) n.º 691/2010",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Alteração ao Regulamento (UE) n.º 691/2010",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração ao Regulamento (UE) n.º 691/2010\n\nNo Regulamento (UE) n.º 691/2010, é revogado o artigo 25.º."
+  },
+  "b90c5246bb222911": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 17 de Outubro de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "29c21273f3e9d5fc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc1-L_2011271PT.01002301-E0001) [JO L 96 de 31.3.2004, p. 10](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc2-L_2011271PT.01002301-E0002) [JO L 79 de 19.3.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_079_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc3-L_2011271PT.01002301-E0003) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc4-L_2011271PT.01002301-E0004) [JO L 335 de 21.12.2005, p. 13](http://publications.europa.eu/resource/oj/JOL_2005_335_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc5-L_2011271PT.01002301-E0005) [JO L 295 de 12.11.2010, p. 35](http://publications.europa.eu/resource/oj/JOL_2010_295_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc6-L_2011271PT.01002301-E0006) [JO L 167 de 4.7.2003, p. 23](http://publications.europa.eu/resource/oj/JOL_2003_167_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc7-L_2011271PT.01002301-E0007) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc8-L_2011271PT.01002301-E0008) [JO L 185 de 15.7.2011, p. 1](http://publications.europa.eu/resource/oj/JOL_2011_185_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc9-L_2011271PT.01002301-E0009) [JO L 141 de 31.5.2008, p. 5](http://publications.europa.eu/resource/oj/JOL_2008_141_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc10-L_2011271PT.01002301-E0010) [JO L 201 de 3.8.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_201_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc11-L_2011271PT.01002301-E0011) Ver página 15 do presente Jornal Oficial.\n\n> [(^*1^)](http://publications.europa.eu/resource/cellar/1f0e9fe6-c265-4fdc-9585-d1041bc36970.0022.03/DOC_1#ntc*1-L_2011271PT.01002301-E0012) [JO L 271 de 18.10.2011, p 23](http://publications.europa.eu/resource/oj/JOL_2011_271_R_TOC).»;"
+  },
+  "a68ad41e02bcc45f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Outubro de 2011\n\nque estabelece requisitos comuns para a prestação de serviços de navegação aérea e que altera os Regulamentos (CE) n.º 482/2008 e (UE) n.º 691/2010\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 550/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à prestação de serviços de navegação aérea no céu único europeu (o Regulamento «Prestação de serviços») ([^1^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0001)), nomeadamente os artigos 4.º, 6.º e 7.º,\n\nTendo em conta o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Directiva 91/670/CEE do Conselho, o Regulamento (CE) n.º 1592/2002 e a Directiva 2004/36/CE ([^2^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0002)), nomeadamente o n.º 6 do artigo 8.º-B,\n\n(1) Nos termos do Regulamento (CE) n.º 216/2008, a Comissão, assistida pela Agência Europeia para a Segurança da Aviação («a Agência»), deve adoptar regras de execução para a prestação de serviços de gestão do tráfego aéreo e de serviços de navegação aérea (ATM/ANS) na União. Nos termos do artigo 8.º-B, n.º 6, do Regulamento (CE) n.º 216/2008, estas regras de execução devem basear-se nos regulamentos adoptados ao abrigo do artigo 5.º, n.º 3, do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu (o «Regulamento-Quadro») ([^3^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0003)).\n\n(2) A prestação de serviços de navegação aérea na União deve estar sujeita a certificação pelos Estados-Membros ou pela Agência. Os prestadores de serviços de navegação aérea que cumpram os requisitos comuns devem ser certificados nos termos do artigo 7.º do Regulamento (CE) n.º 550/2004 e do artigo 8.º-B, n.º 2, do Regulamento (CE) n.º 216/2008.\n\n(3) A aplicação dos requisitos comuns estabelecidos nos termos do artigo 6.º do Regulamento (CE) n.º 550/2004 e do artigo 8.º-B do Regulamento (CE) n.º 216/2008 não deve prejudicar a soberania dos Estados-Membros sobre o seu espaço aéreo ou as normas dos Estados-Membros no que respeita à ordem pública, à segurança pública e às questões de defesa, tal como previsto no artigo 13.º do Regulamento (CE) n.º 549/2004. Os requisitos comuns não devem abranger operações e treinos militares nos termos do artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004 e do artigo 1.º, n.º 2, do Regulamento (CE) n.º 216/2008.\n\n(4) O estabelecimento de requisitos comuns para a prestação de serviços de navegação aérea deve ter em devida conta o estatuto jurídico dos prestadores de tais serviços nos Estados-Membros. Por outro lado, sempre que uma organização desenvolva outras actividades para além da prestação de serviços de navegação aérea, os requisitos comuns não se devem aplicar a essas outras actividades nem a recursos afectados a actividades que não se incluam na prestação de serviços de navegação aérea, salvo disposição em contrário.\n\n(5) A aplicação de requisitos comuns a prestadores de serviços de navegação aérea deve ser proporcionada aos riscos associados às especificidades de cada actividade, como o número e/ou a natureza e as características dos movimentos tratados. Caso alguns prestadores de serviços de navegação aérea decidam não aproveitar a oportunidade de prestar serviços transfronteiriços no âmbito do céu único europeu, a autoridade competente deve poder autorizá-los a cumprirem de forma proporcionada, respectivamente, determinados requisitos gerais para a prestação de serviços de navegação aérea e determinados requisitos específicos para a prestação de serviços de tráfego aéreo. Por conseguinte, as condições associadas ao certificado devem reflectir a natureza e o âmbito da derrogação.\n\n(6) Para garantir o funcionamento correcto do sistema de certificação, os Estados-Membros devem fornecer à Comissão e à Agência todas as informações relevantes sobre as derrogações concedidas pelas respectivas autoridades competentes no contexto dos seus relatórios anuais.\n\n(7) Os diferentes tipos de actividades no âmbito dos serviços de navegação aérea não estão necessariamente sujeitos aos mesmos requisitos. Por conseguinte, é necessário adaptar os requisitos comuns às características especiais de cada tipo de actividade.\n\n(8) O ónus da prova do cumprimento dos requisitos deve recair sobre os prestadores de serviços de navegação aérea durante o prazo de validade do certificado e relativamente a todos os serviços abrangidos.\n\n(9) A fim de garantir a aplicação efectiva dos requisitos comuns, deve ser estabelecido um sistema de supervisão e inspecção periódicas do seu cumprimento e dos termos do certificado. A autoridade competente deve examinar a aptidão dos prestadores antes da emissão do respectivo certificado e proceder a uma avaliação anual da continuidade da conformidade dos prestadores de serviços de navegação aérea por ela certificados. Por conseguinte, deve estabelecer e actualizar anualmente um programa de inspecção indicativo que cubra todos os prestadores por ela certificados, com base numa avaliação dos riscos. O programa deve permitir a inspecção de todas as partes relevantes dos prestadores de serviços de navegação aérea num prazo razoável. Ao avaliar a conformidade dos prestadores designados de serviços de tráfego aéreo e de serviços meteorológicos, a autoridade competente deve ter o direito de verificar os requisitos pertinentes decorrentes de obrigações internacionais impostas ao Estado-Membro em causa.\n\n(10) A avaliação das autoridades supervisoras nacionais pelos pares poderá promover uma abordagem comum da supervisão dos prestadores de serviços de navegação aérea em toda a União. A Comissão, em cooperação com os Estados-Membros e a Agência, pode organizar estas avaliações pelos pares, que devem ser coordenadas com as actividades desenvolvidas no quadro dos artigos 24.º e 54.º do Regulamento (CE) n.º 216/2008 e de outros programas internacionais de controlo e supervisão. Isto evitará a duplicação de trabalho. Para permitir o intercâmbio de experiências e de boas práticas durante uma avaliação pelos pares, os peritos devem ser, de preferência, provenientes de uma autoridade competente.\n\n(11) O Eurocontrol desenvolveu especificações regulamentares de segurança (ESARR – *Eurocontrol Safety Regulatory Requirements*) que são da maior importância para a prestação segura de serviços de tráfego aéreo. Em conformidade com o Regulamento (CE) n.º 550/2004, a Comissão deve identificar e transpor as disposições relevantes das ESARR para regulamentos da União. As ESARR incorporadas no Regulamento (CE) n.º 2096/2005 da Comissão, de 20 de Dezembro de 2005, que estabelece requisitos comuns para a prestação de serviços de navegação aérea ([^4^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0004)) constituem a base para estas regras de execução.\n\n(12) Quando da adopção do Regulamento (CE) n.º 2096/2005, a Comissão concluiu que não era adequado repetir as disposições das ESARR 2 relativas à comunicação e avaliação de ocorrências em matéria de segurança na gestão do tráfego aéreo, que são abrangidas pelo Regulamento (UE) n.º 996/2010 do Parlamento Europeu e do Conselho, de 20 de Outubro de 2010, relativo à investigação e à prevenção de acidentes e incidentes na aviação civil e que revoga a Directiva 94/56/CE ([^5^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0005)), e pela Directiva 2003/42/CE do Parlamento Europeu e do Conselho, de 13 de Junho de 2003, relativa à comunicação de ocorrências na aviação civil ([^6^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0006)). Não obstante, devem ser introduzidas disposições relativas a ocorrências em matéria de segurança que obriguem uma autoridade competente, conforme definida no presente regulamento, a verificar se os prestadores de serviços de tráfego aéreo e os prestadores de serviços de comunicação, navegação ou vigilância cumprem os requisitos de comunicação e avaliação de ocorrências em matéria de segurança.\n\n(13) Importa, nomeadamente, reconhecer que, em primeiro lugar, a gestão da segurança é a componente dos serviços de navegação aérea que garante que todos os riscos em matéria de segurança são identificados, avaliados e reduzidos de forma satisfatória e, em segundo lugar, que uma abordagem formal e sistemática da gestão da segurança e dos sistemas de gestão, no sentido de uma abordagem sistémica total, maximizará os benefícios em termos de segurança de forma visível e rastreável. A Agência deve avaliar ainda os requisitos de segurança do presente regulamento e integrá-los numa estrutura regulamentar comum para a segurança da aviação civil.\n\n(14) Enquanto a Agência não elaborar as medidas de execução que transponham as normas da Organização da Aviação Civil Internacional (ICAO) relevantes para medidas de execução da União, meios de conformidade aceitáveis, especificações de certificação e documentos de orientação, os prestadores de serviços de navegação aérea devem operar em conformidade com as normas da ICAO relevantes. Com vista a facilitar a prestação de serviços transfronteiriços de navegação aérea, e enquanto não estiver finalizado o trabalho da Agência de elaboração das medidas pertinentes para transpor as normas da ICAO, os Estados-Membros, a Comissão e a Agência, em estreita cooperação com o Eurocontrol, quando aplicável, devem trabalhar no sentido de minimizar as diferenças notificadas pelos Estados-Membros relativas à aplicação das normas da ICAO no domínio dos serviços de navegação aérea, por forma a chegar a um conjunto comum de normas no céu único europeu para todos os Estados-Membros.\n\n(15) As diferentes disposições nacionais em matéria de responsabilidade não devem impedir os prestadores de serviços de navegação aérea de chegar a acordo sobre a prestação de serviços transfronteiriços, desde que tenham regulado a indemnização por perdas e danos decorrente de responsabilidades nos termos da lei aplicável. O método utilizado deve respeitar as normas legais nacionais. Os Estados-Membros que permitam a prestação de serviços de navegação aérea sem certificação na totalidade ou numa parte do espaço aéreo sob a sua responsabilidade, em conformidade com o Regulamento (CE) n.º 550/2004, devem cobrir a responsabilidade civil de tais prestadores.\n\n(16) A Agência deve avaliar mais aprofundadamente as disposições do presente regulamento, nomeadamente as relativas à avaliação da segurança de alterações à prestação de serviços de navegação aérea pela organização certificada e pelo pessoal técnico, e emitir um parecer que as adapte no sentido de uma abordagem sistémica global, tendo em conta a integração destas disposições na estrutura regulamentar comum para a segurança da aviação civil e a experiência adquirida pelas partes interessadas e as autoridades competentes no domínio da supervisão da segurança.\n\n(17) Nos termos do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu (Regulamento «Espaço aéreo») ([^7^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0007)), devem ser estabelecidas funções específicas, conhecidas como «funções da rede», para permitir a utilização optimizada do espaço aéreo e dos recursos escassos, atribuindo ao mesmo tempo aos utilizadores o máximo acesso ao espaço aéreo e a capacidade para operarem as suas trajectórias preferidas. Tal como previsto no Regulamento (CE) n.º 551/2004, o Regulamento (UE) n.º 677/2011 da Comissão, de 7 de Julho de 2011, que estabelece as regras de execução para a implementação das funções da rede na gestão do tráfego aéreo (ATM) e que altera o Regulamento (CE) n.º 691/2010 ([^8^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0008)) estabelece os direitos, obrigações e responsabilidades da entidade envolvida na prestação dessas funções.\n\n(18) Para a segurança da execução de certas funções da rede, a entidade envolvida deve cumprir certos requisitos. O objectivo desses requisitos, previstos no anexo VI do Regulamento (CE) n.º 677/2011 (relativo às funções da rede), é assegurar que a entidade ou organização opere de forma segura. Trata-se de requisitos de segurança aplicáveis à organização, muito semelhantes aos requisitos gerais aplicáveis aos prestadores de serviços de navegação aérea mas adaptados às responsabilidades em matéria de segurança das funções da rede.\n\n(19) É, por conseguinte, conveniente revogar o Regulamento (CE) n.º 2096/2005.\n\n(20) O Regulamento (CE) n.º 482/2008 da Comissão, de 30 de Maio de 2008, que estabelece um sistema de garantia de segurança do *software* a aplicar pelos prestadores de serviços de navegação aérea e que altera o anexo II do Regulamento (CE) n.º 2096/2005 ([^9^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0009)) e o Regulamento (UE) n.º 691/2010 da Comissão, de 29 de Julho de 2010, que estabelece um sistema de desempenho para os serviços de navegação aérea e as funções da rede e que altera o Regulamento (CE) n.º 2096/2005 que estabelece requisitos comuns para a prestação de serviços de navegação aérea ([^10^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0010)) devem ser alterados para ser adaptados ao presente regulamento.\n\n(21) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9750f122ee0ba7b5": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente regulamento, são aplicáveis as definições estabelecidas no artigo 2.º do Regulamento (CE) n.º 549/2004 e no artigo 3.º do Regulamento (CE) n.º 216/2008. Contudo, a definição de certificado no artigo 2.º, n.º 15, do Regulamento (CE) n.º 549/2004 não é aplicável.\n\nSão também aplicáveis as seguintes definições:\n\n1) «Trabalho aéreo»: a operação de uma aeronave para serviços especializados, designadamente na agricultura, na construção, na fotografia, na vigilância, na observação e no patrulhamento, na busca e no salvamento ou na publicidade aérea;\n\n2) «Transporte aéreo comercial»: a operação de uma aeronave que envolva o transporte de passageiros, carga ou correio mediante remuneração ou mediante locação;\n\n3) «Sistema funcional»: uma combinação de sistemas, procedimentos e recursos humanos organizados para desempenhar uma função no contexto da gestão do tráfego aéreo (ATM);\n\n4) «Aviação geral»: qualquer operação de aviação civil que não o transporte aéreo comercial ou o trabalho aéreo;\n\n5) «Autoridade supervisora nacional»: o organismo ou os organismos nomeado(s) ou designado(s) pelos Estados-Membros na qualidade de autoridades nacionais em conformidade com o n.º 1 do artigo 4.º do Regulamento (CE) n.º 549/2004;\n\n6) «Situação de perigo»: qualquer situação, acontecimento ou circunstância susceptível de induzir um acidente;\n\n7) «Organização»: uma entidade que presta serviços de navegação aérea;\n\n8) «Organismo operador»: organismo responsável pela prestação de serviços técnicos de apoio aos serviços de tráfego aéreo, comunicação, navegação ou vigilância;\n\n9) «Risco»: a combinação da probabilidade global ou da frequência de ocorrência de um efeito nocivo induzido por uma situação de perigo e da gravidade desse efeito;\n\n10) «Garantia de segurança»: o conjunto de acções planeadas e sistemáticas necessárias para proporcionar a confiança adequada na obtenção de um nível de segurança aceitável ou tolerável por um produto, um serviço, uma organização ou um sistema funcional;\n\n11) «Objectivo de segurança»: uma declaração qualitativa ou quantitativa que define a frequência ou a probabilidade máximas previsíveis de ocorrência de uma situação de perigo;\n\n12) «Requisito de segurança»: um meio de atenuação dos riscos, definido no contexto de uma estratégia de atenuação dos riscos, que permite atingir um objectivo de segurança específico, incluindo requisitos organizacionais, operacionais, processuais, funcionais, de desempenho e de interoperabilidade ou características envolventes;\n\n13) «Serviços»: um serviço de navegação aérea ou um conjunto de serviços de navegação aérea;\n\n14) «Serviço de navegação aérea pan-europeu»: um serviço de navegação aérea concebido e estabelecido para os utilizadores na maioria ou na totalidade dos Estados-Membros e que pode também ser alargado para além do espaço aéreo do território a que se aplica o Tratado;\n\n15) «Prestador de serviços de navegação aérea»: uma entidade pública ou privada que presta serviços de navegação aérea para o tráfego aéreo geral, incluindo qualquer organização que tenha requerido um certificado para prestar tais serviços."
+  },
+  "cdec14bfc07b5bcd": {
+   "fragment_id": "Artigo 3.º — Autoridade competente para a certificação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Autoridade competente para a certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridade competente para a certificação\n\n1. Para efeitos do presente regulamento, a autoridade competente para a certificação é:\n\na) Para as organizações que têm o seu principal centro de actividades e, se for caso disso, a sua sede social num Estado-Membro, a autoridade supervisora nacional nomeada ou estabelecida por esse Estado-Membro;\n\nb) Para as organizações que prestam serviços de navegação aérea no espaço aéreo do território a que se aplica o Tratado, e que têm o seu principal centro de actividades e, se for caso disso, a sua sede social fora do território abrangido pelas disposições do Tratado, a Agência;\n\nc) Para as organizações que prestam serviços de navegação aérea pan-europeus no espaço aéreo do território a que se aplica o Tratado, a Agência.\n\n2. A autoridade competente para a supervisão da segurança é determinada em conformidade com o artigo 3.º do Regulamento de Execução (UE) n.º 1034/2011 ([^11^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0011))."
+  },
+  "a8937da57a8a1336": {
+   "fragment_id": "Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração ao Regulamento (CE) n.º 482/2008\n\nO Regulamento (CE) n.º 482/2008 é alterado do seguinte modo:\n\n1) A referência no artigo 4.º, n.º 5, ao «Regulamento (CE) n.º 2096/2005» é substituída pela referência ao «Regulamento de Execução (UE) n.º 1035/2011 ([^12^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0012));\n\n2) O artigo 6.º é revogado;\n\n3) As referências no anexo I, pontos 1 e 2, ao «Regulamento (CE) n.º 2096/2005» são substituídas pela referência ao «Regulamento de Execução (UE) n.º 1035/2011»."
+  },
+  "51455d527a22a6a7": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "2626a56439322005": {
+   "fragment_id": "Requisitos gerais para a prestação de serviços de navegação aérea",
+   "type": "divisao",
+   "heading": "Requisitos gerais para a prestação de serviços de navegação aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos gerais para a prestação de serviços de navegação aérea"
+  },
+  "d2398cb8d4821798": {
+   "fragment_id": "1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA",
+   "type": "divisao",
+   "heading": "1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. COMPETÊNCIA E APTIDÃO OPERACIONAL E TÉCNICA\n\nOs prestadores de serviços de navegação aérea devem estar em condições de prestar os seus serviços de forma segura, eficiente, contínua e sustentável, compatível com um nível razoável de procura global num determinado espaço aéreo. Para tal, devem manter uma capacidade operacional e técnica e uma especialização adequadas."
+  },
+  "b6a036bd4d6c5fb3": {
+   "fragment_id": "2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO",
+   "type": "divisao",
+   "heading": "2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. ESTRUTURA E GESTÃO DA ORGANIZAÇÃO"
+  },
+  "c99d51cbd08e665f": {
+   "fragment_id": "2.1. Estrutura da organização",
+   "type": "divisao",
+   "heading": "2.1. Estrutura da organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Estrutura da organização\n\nOs prestadores de serviços de navegação aérea devem estabelecer e gerir a sua organização de acordo com uma estrutura que sirva de base à prestação segura, eficiente e contínua de serviços de navegação aérea.\n\nA estrutura organizativa deve definir:\n\na) Os poderes, obrigações e responsabilidades dos detentores de postos nomeados, em especial dos gestores da segurança (nas duas vertentes: *safety* e *security*), da qualidade, dos recursos financeiros e dos recursos humanos;\n\nb) A relação e os canais de comunicação obrigatória entre as diferentes partes e processos da organização."
+  },
+  "d729e07d8712c398": {
+   "fragment_id": "2.2. Gestão da organização",
+   "type": "divisao",
+   "heading": "2.2. Gestão da organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Gestão da organização"
+  },
+  "a7579e716de82e6e": {
+   "fragment_id": "2.2.1. Plano de actividades",
+   "type": "divisao",
+   "heading": "2.2.1. Plano de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.1. Plano de actividades\n\nOs prestadores de serviços de navegação aérea devem elaborar um plano de actividades que cubra um período mínimo de cinco anos. O plano de actividades deve:\n\na) Estabelecer os objectivos e metas globais do prestador de serviços de navegação aérea e a sua estratégia para os atingir, em coerência com qualquer plano geral a mais longo prazo do prestador de serviços de navegação aérea e com os requisitos relevantes da União relativos ao desenvolvimento da infra-estrutura ou outras tecnologias;\n\nb) Conter objectivos de desempenho adequados em termos de segurança (*safety*), capacidade, ambiente e custo-eficiência, conforme o caso.\n\nAs informações previstas nas alíneas a) e b) devem ser coerentes com o plano de desempenho nacional ou do bloco funcional de espaço aéreo referido no artigo 11.º do Regulamento (CE) n.º 549/2004 e, no que respeita aos dados sobre segurança (*safety*), coerentes com o Programa de Segurança (*safety*) do Estado, a que se refere a Norma 3.1.1 do anexo 19 da Convenção da Aviação Civil Internacional (ICAO), conforme aplicável.\n\nOs prestadores de serviços de navegação aérea devem apresentar justificação, do ponto de vista económico e da segurança (*safety*), para os grandes projectos de investimento, incluindo, se for pertinente, o impacto previsto nos objectivos de desempenho adequados referidos no ponto 2.2, alínea b), e identificar os investimentos decorrentes dos requisitos legais associados à aplicação do SESAR."
+  },
+  "640cc4aa53db855b": {
+   "fragment_id": "2.2.2. Plano anual",
+   "type": "divisao",
+   "heading": "2.2.2. Plano anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2. Plano anual\n\nOs prestadores de serviços de navegação aérea devem elaborar um plano anual para o ano seguinte, que especifique com mais pormenor as características do plano de actividades e descreva as eventuais alterações a este plano.\n\nO plano anual deve incluir os seguintes elementos relativos ao nível e à qualidade do serviço, nomeadamente o nível esperado de capacidade, segurança (*safety*), respeito do ambiente e custo-eficiência, conforme aplicável:\n\na) Informações sobre a implementação de novas infra-estruturas ou outros desenvolvimentos e uma declaração sobre a forma como irão contribuir para melhorar o desempenho do prestador de serviços de navegação aérea, incluindo o nível e a qualidade dos serviços;\n\nb) Indicadores de desempenho coerentes com o plano de desempenho nacional ou do bloco funcional de espaço aéreo referido no artigo 11.º do Regulamento (CE) n.º 549/2004, em função dos quais seja possível avaliar de forma razoável o nível de desempenho e a qualidade do serviço;\n\nc) Informações sobre as medidas previstas para reduzir os riscos de segurança (*safety*) identificados no plano de segurança do prestador de serviços de navegação aérea, incluindo indicadores de segurança para monitorização do risco de segurança e, se for caso disso, o custo estimado das medidas de atenuação dos riscos;\n\nd) A situação financeira de curto prazo prevista para o prestador de serviços de navegação aérea, bem como quaisquer alterações ao plano de actividades ou seus efeitos."
+  },
+  "0af2d67b2e3484c8": {
+   "fragment_id": "2.2.3. Parte dos planos relativa ao desempenho",
+   "type": "divisao",
+   "heading": "2.2.3. Parte dos planos relativa ao desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.3. Parte dos planos relativa ao desempenho\n\nO prestador de serviços de navegação aérea coloca à disposição da Comissão, a pedido desta, o conteúdo da parte do plano de actividades e do plano anual relativa ao desempenho, nas condições estabelecidas pela autoridade competente em conformidade com a legislação nacional."
+  },
+  "2fc68baf1c3cdbcb": {
+   "fragment_id": "3. GESTÃO DA SEGURANÇA (SAFETY) E DA QUALIDADE",
+   "type": "divisao",
+   "heading": "3. GESTÃO DA SEGURANÇA (SAFETY) E DA QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. GESTÃO DA SEGURANÇA (SAFETY) E DA QUALIDADE"
+  },
+  "c5f949a17116586d": {
+   "fragment_id": "3.1. Gestão da segurança",
+   "type": "divisao",
+   "heading": "3.1. Gestão da segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Gestão da segurança\n\nOs prestadores de serviços de navegação aérea devem gerir a segurança de todos os seus serviços. Para tal, devem estabelecer interfaces formais com todos os interessados que possam ter influência directa na segurança dos seus serviços.\n\nOs prestadores devem elaborar procedimentos para gerir a segurança sempre que introduzam novos sistemas funcionais ou alterem os existentes."
+  },
+  "42e10d93d469518f": {
+   "fragment_id": "3.2. Sistema de gestão da qualidade",
+   "type": "divisao",
+   "heading": "3.2. Sistema de gestão da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Sistema de gestão da qualidade\n\nOs prestadores de serviços de navegação aérea devem estabelecer um sistema de gestão da qualidade que cubra todos os serviços de navegação aérea por eles prestados, de acordo com os princípios a seguir enumerados.\n\nO sistema deve:\n\na) Definir a política de qualidade de forma a satisfazer, tanto quanto possível, as necessidades dos vários utilizadores;\n\nb) Estabelecer um programa de garantia da qualidade que preveja procedimentos para verificar se todas as operações estão a ser realizadas em conformidade com os requisitos, normas e procedimentos aplicáveis;\n\nc) Demonstrar o funcionamento do sistema de qualidade através de manuais e de documentos de controlo;\n\nd) Nomear representantes da direcção para controlar o cumprimento e a adequação dos procedimentos que visam garantir práticas operacionais seguras e eficientes;\n\ne) Efectuar revisões do sistema de qualidade em vigor e tomar acções correctivas, se adequado.\n\nUm certificado EN ISO 9001 que cubra os serviços de navegação aérea do prestador, emitido por uma organização devidamente acreditada, será considerado meio suficiente de prova do cumprimento. A pedido da autoridade competente, o prestador de serviços de navegação aérea dar-lhe-á acesso à documentação relacionada com a certificação.\n\nOs prestadores de serviços de navegação aérea podem integrar os sistemas de gestão da segurança (nas duas vertentes: *safety* e *security*) e da qualidade no seu sistema de gestão."
+  },
+  "a2f5631a35f201af": {
+   "fragment_id": "3.3. Manuais de operações",
+   "type": "divisao",
+   "heading": "3.3. Manuais de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Manuais de operações\n\nOs prestadores de serviços de navegação aérea devem fornecer e manter actualizados manuais de operações para os serviços por eles prestados, para utilização e orientação do pessoal responsável pelas operações em causa.\n\nDevem garantir que:\n\na) Os manuais de operações contenham as instruções e informações necessárias ao desempenho das tarefas que incumbem ao pessoal responsável pelas operações;\n\nb) As partes relevantes dos manuais de operações estejam acessíveis ao pessoal em causa;\n\nc) O pessoal responsável pelas operações seja rapidamente informado de quaisquer alterações aos manuais de operações aplicáveis às tarefas por si desempenhadas, bem como da entrada em vigor das mesmas."
+  },
+  "782f8bff405a666b": {
+   "fragment_id": "4. SEGURANÇA (SECURITY)",
+   "type": "divisao",
+   "heading": "4. SEGURANÇA (SECURITY)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. SEGURANÇA (SECURITY)\n\nOs prestadores de serviços de navegação aérea estabelecem um sistema de gestão da segurança a fim de garantir:\n\na) A protecção das suas instalações e do seu pessoal por forma a prevenir interferências ilícitas na prestação dos serviços;\n\nb) A protecção dos dados operacionais que recebem, produzem ou, de outro modo, utilizam por forma a que o acesso esteja limitado unicamente às pessoas autorizadas.\n\nO sistema de gestão da segurança deve estabelecer:\n\na) Os procedimentos relacionados com a avaliação e a atenuação dos riscos para a segurança, o controlo e o reforço da segurança, as avaliações da segurança e a difusão de ensinamentos;\n\nb) Os meios para detectar falhas da segurança e alertar o pessoal através de avisos adequados;\n\nc) Os meios para circunscrever os efeitos das falhas da segurança e identificar as acções de recuperação e os procedimentos de atenuação para prevenir a repetição de ocorrências.\n\nOs prestadores de serviços de navegação aérea devem garantir as autorizações de segurança do seu pessoal, se adequado, bem como a coordenação com as autoridades civis e militares pertinentes para garantir a segurança das suas instalações, do pessoal e dos dados.\n\nOs sistemas de gestão da segurança (nas duas vertentes: *safety* e *security*) e da qualidade podem ser concebidos e funcionar como um sistema integrado de gestão."
+  },
+  "ccfcb3269e1cc828": {
+   "fragment_id": "5. RECURSOS HUMANOS",
+   "type": "divisao",
+   "heading": "5. RECURSOS HUMANOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. RECURSOS HUMANOS\n\nOs prestadores de serviços de navegação aérea devem empregar pessoal devidamente qualificado para garantir a prestação dos serviços de navegação aérea de forma segura, eficiente, contínua e sustentável. Neste contexto, devem estabelecer políticas para o recrutamento e a formação do pessoal."
+  },
+  "edb0f9fd8e984346": {
+   "fragment_id": "6. CAPACIDADE FINANCEIRA",
+   "type": "divisao",
+   "heading": "6. CAPACIDADE FINANCEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. CAPACIDADE FINANCEIRA"
+  },
+  "54b8f150a1f5f364": {
+   "fragment_id": "6.1. Capacidade económica e financeira",
+   "type": "divisao",
+   "heading": "6.1. Capacidade económica e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.1. Capacidade económica e financeira\n\nOs prestadores de serviços de navegação aérea devem estar em condições de satisfazer as suas obrigações financeiras, nomeadamente custos fixos e variáveis de exploração ou custos em capital de investimento. Devem utilizar um sistema de contabilidade de custos adequado e demonstrar a sua capacidade através do plano anual referido no ponto 2.2.2, bem como através dos balanços e contas de resultados, em conformidade com o seu estatuto jurídico."
+  },
+  "19cf03c39a817314": {
+   "fragment_id": "6.2. Auditoria financeira",
+   "type": "divisao",
+   "heading": "6.2. Auditoria financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6.2. Auditoria financeira\n\nEm conformidade com o artigo 12.º, n.º 2, do Regulamento (CE) n.º 550/2004, os prestadores de serviços de navegação aérea devem demonstrar que se submetem regularmente a uma auditoria independente."
+  },
+  "9996af0ad3f1df5a": {
+   "fragment_id": "7. RESPONSABILIDADE CIVIL E COBERTURA DE SEGURO",
+   "type": "divisao",
+   "heading": "7. RESPONSABILIDADE CIVIL E COBERTURA DE SEGURO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. RESPONSABILIDADE CIVIL E COBERTURA DE SEGURO\n\nOs prestadores de serviços de navegação aérea devem dispor de cobertura adequada das suas responsabilidades ao abrigo da legislação aplicável.\n\nO método utilizado para garantir a cobertura deve ser adequado às perdas e danos potenciais em questão, tendo em conta o estatuto jurídico da organização e o nível de cobertura de seguro comercial disponível.\n\nUm prestador de serviços de navegação aérea que recorra aos serviços de outro prestador de serviços de navegação aérea deve garantir que os acordos cubram a repartição de responsabilidade civil entre eles."
+  },
+  "3f5bf0130be6eff6": {
+   "fragment_id": "8. QUALIDADE DOS SERVIÇOS",
+   "type": "divisao",
+   "heading": "8. QUALIDADE DOS SERVIÇOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. QUALIDADE DOS SERVIÇOS"
+  },
+  "3fb5e2bc629a2dc2": {
+   "fragment_id": "8.1. Prestação aberta e transparente de serviços de navegação aérea",
+   "type": "divisao",
+   "heading": "8.1. Prestação aberta e transparente de serviços de navegação aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.1. Prestação aberta e transparente de serviços de navegação aérea\n\nOs prestadores de serviços de navegação aérea devem prestar os seus serviços de forma aberta e transparente. Devem publicar as condições de acesso aos seus serviços e estabelecer um processo de consulta formal e regular com os utentes dos seus serviços, individual ou colectivamente, pelo menos uma vez por ano.\n\nOs prestadores de serviços de navegação aérea não podem fazer discriminações com base na nacionalidade ou na identidade do utilizador ou na categoria de utilizadores, em conformidade com a legislação aplicável da União."
+  },
+  "21efa06e81daf9e1": {
+   "fragment_id": "8.2. Planos de contingência",
+   "type": "divisao",
+   "heading": "8.2. Planos de contingência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8.2. Planos de contingência\n\nOs prestadores de serviços de navegação aérea devem dispor de planos de contingência para todos os serviços por eles prestados para o caso de acontecimentos que resultem numa degradação significativa ou na interrupção dos seus serviços."
+  },
+  "1975f33f9815dac7": {
+   "fragment_id": "9. REQUISITOS EM MATÉRIA DE RELATÓRIOS",
+   "type": "divisao",
+   "heading": "9. REQUISITOS EM MATÉRIA DE RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. REQUISITOS EM MATÉRIA DE RELATÓRIOS\n\nOs prestadores de serviços de navegação aérea devem estar aptos a apresentar um relatório anual das suas actividades à respectiva autoridade competente.\n\nO relatório deve abranger os seus resultados financeiros, sem prejuízo do artigo 12.º do Regulamento (CE) n.º 550/2004, bem como o seu desempenho operacional e quaisquer outras actividades e desenvolvimentos significativos, em particular no domínio da segurança (*safety*).\n\nO relatório anual deve incluir, no mínimo, os seguintes elementos:\n\na) Uma avaliação do nível de desempenho do serviço de navegação aérea prestado;\n\nb) O desempenho do prestador de serviços de navegação aérea comparativamente aos objectivos de desempenho estabelecidos no plano de actividades referido no ponto 2.2.1, comparando o desempenho efectivo com o plano anual através da utilização de indicadores de desempenho estabelecidos no plano anual;\n\nc) Explicação das eventuais diferenças em relação aos objectivos e identificação de medidas para colmatar lacunas durante o período de referência mencionado no artigo 11.º do Regulamento (CE) n.º 549/2004;\n\nd) Desenvolvimento das operações e das infra-estruturas;\n\ne) Os resultados financeiros, na medida em que não sejam publicados separadamente em conformidade com o artigo 12.º, n.º 1, do Regulamento (CE) n.º 550/2004;\n\nf) Informações sobre o processo de consulta formal dos utilizadores dos seus serviços;\n\ng) Informações sobre a política de recursos humanos.\n\nOs prestadores de serviços de navegação aérea devem colocar o conteúdo do seu relatório anual à disposição da Comissão e da Agência, mediante pedido, e do público nas condições estabelecidas pela autoridade competente em conformidade com a legislação nacional."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "a86e1cca7fcc0180": {
+   "fragment_id": "Requisitos específicos para a prestação de serviços de tráfego aéreo",
+   "type": "divisao",
+   "heading": "Requisitos específicos para a prestação de serviços de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos específicos para a prestação de serviços de tráfego aéreo"
+  },
+  "6a6e03025b02ff83": {
+   "fragment_id": "1. PROPRIEDADE",
+   "type": "divisao",
+   "heading": "1. PROPRIEDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. PROPRIEDADE\n\nOs prestadores de serviços de tráfego aéreo devem comunicar às autoridades competentes referidas no artigo 7.º, n.º 2, do Regulamento (CE) n.º 550/2004:\n\na) O seu estatuto jurídico, a sua estrutura de propriedade e os possíveis acordos com impacto significativo no controlo dos seus activos;\n\nb) As suas relações com organizações não envolvidas na prestação de serviços de navegação aérea, incluindo actividades comerciais em que participem directamente ou através de empresas associadas, que representem mais de 1 % das suas receitas previstas. Além disso, devem notificar qualquer alteração relativa a qualquer accionista individual que represente 10 % ou mais do total do seu capital;\n\nOs prestadores de serviços de tráfego aéreo devem tomar todas as medidas necessárias para evitar situações de conflito de interesses que possam comprometer a prestação imparcial e objectiva dos seus serviços."
+  },
+  "0e5a5a60545de976": {
+   "fragment_id": "2. PRESTAÇÃO DE SERVIÇOS ABERTA E TRANSPARENTE",
+   "type": "divisao",
+   "heading": "2. PRESTAÇÃO DE SERVIÇOS ABERTA E TRANSPARENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. PRESTAÇÃO DE SERVIÇOS ABERTA E TRANSPARENTE\n\nPara além do disposto no ponto 8.1 do anexo I, e caso um Estado-Membro decida organizar a prestação de serviços de tráfego aéreo específicos num ambiente concorrencial, esse Estado-Membro pode tomar todas as medidas adequadas para garantir que os prestadores desses serviços de tráfego aéreo específicos não adoptam condutas que tenham por objecto ou efeito impedir, restringir ou falsear a concorrência, que não constituam condutas equivalentes a um abuso de posição dominante nos termos da legislação nacional e da União aplicáveis."
+  },
+  "c4f25dbfef04500f": {
+   "fragment_id": "3. SEGURANÇA (SAFETY) DOS SERVIÇOS",
+   "type": "divisao",
+   "heading": "3. SEGURANÇA (SAFETY) DOS SERVIÇOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. SEGURANÇA (SAFETY) DOS SERVIÇOS"
+  },
+  "badd293a7f111be2": {
+   "fragment_id": "3.1. Sistema de gestão da segurança (SMS)",
+   "type": "divisao",
+   "heading": "3.1. Sistema de gestão da segurança (SMS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Sistema de gestão da segurança (SMS)"
+  },
+  "685f2af76fc7c4f2": {
+   "fragment_id": "3.1.1. Requisitos gerais de segurança",
+   "type": "divisao",
+   "heading": "3.1.1. Requisitos gerais de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.1. Requisitos gerais de segurança\n\nOs prestadores de serviços de tráfego aéreo devem estabelecer, como parte integrante da gestão dos seus serviços, um sistema de gestão da segurança (SMS) que:\n\na) Garanta uma abordagem formalizada, explícita e dinâmica da gestão sistemática da segurança no cumprimento das suas responsabilidades em matéria de segurança no contexto da prestação dos seus serviços; funcione para todos os seus serviços e processos de apoio sob a sua gestão; assente numa declaração de política de segurança que defina a abordagem fundamental da organização para gerir a segurança (gestão da segurança);\n\nb) Garanta que todas as pessoas implicadas nos aspectos de segurança da prestação de serviços de tráfego aéreo sejam individualmente responsáveis, em matéria de segurança, pelas suas acções, que os gestores sejam responsáveis pelo desempenho em matéria de segurança dos respectivos departamentos ou divisões e que a gestão de topo do prestador assuma a responsabilidade global pela segurança (responsabilidade pela segurança);\n\nc) Garanta que seja atribuída máxima prioridade à obtenção de um nível de segurança satisfatório nos serviços de tráfego aéreo (prioridade à segurança);\n\nd) Garanta que, durante a prestação de serviços de tráfego aéreo, o principal objectivo de segurança seja reduzir ao mínimo a sua contribuição para o risco de um acidente aéreo na medida do razoavelmente praticável (objectivo de segurança)."
+  },
+  "23486918c5ef4e7e": {
+   "fragment_id": "3.1.2. Requisitos para a obtenção da segurança",
+   "type": "divisao",
+   "heading": "3.1.2. Requisitos para a obtenção da segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.2. Requisitos para a obtenção da segurança\n\nNo contexto do funcionamento do SMS, os prestadores de serviços de tráfego aéreo devem:\n\na) Assegurar que o pessoal possui a formação e a competência adequadas às tarefas a desempenhar, para além de dispor das licenças adequadas nos casos em que tal seja necessário, e que satisfaz os requisitos de aptidão médica aplicáveis (competência);\n\nb) Assegurar a identificação de uma função de gestão da segurança com responsabilidade pelo desenvolvimento e manutenção do SMS para toda a organização; assegurar que a pessoa que desempenha essa função seja independente da estrutura hierárquica e responda directamente perante o nível organizacional mais elevado. Todavia, no caso de organizações pequenas em que a combinação de responsabilidades pode impedir uma independência suficiente a este respeito, as disposições que visam a garantia da segurança devem ser complementadas por meios independentes adicionais; e assegurar que a gestão de topo da organização de prestação de serviços tenha um papel activo na garantia da gestão da segurança (responsabilidade pela gestão da segurança);\n\nc) Assegurar que, sempre que praticável, sejam estabelecidos e mantidos níveis de segurança quantitativos para todos os sistemas funcionais (níveis de segurança quantitativos);\n\nd) Assegurar que o SMS é sistematicamente documentado de forma a estabelecer uma relação clara com a política de segurança da organização (documentação do SMS);\n\ne) Assegurar a justificação adequada da segurança dos serviços e fornecimentos externos, tendo em conta o significado destes, em termos de segurança, na prestação dos seus serviços (serviços e fornecimentos externos);\n\nf) Assegurar que a avaliação e atenuação dos riscos é efectuada a um nível adequado para garantir que seja consagrada a devida atenção a todos os aspectos da prestação de serviços de gestão do tráfego aéreo (ATM) (avaliação e atenuação de riscos). No que se refere a alterações ao sistema funcional ATM, aplica-se o ponto 3.2;\n\ng) Assegurar que as ocorrências operacionais ou técnicas da ATM consideradas como tendo implicações significativas a nível da segurança são imediatamente investigadas e que são tomadas as acções correctivas necessárias (ocorrências de segurança). Devem ainda demonstrar que cumprem os requisitos relativos à comunicação e avaliação das ocorrências de segurança em conformidade com a legislação nacional e da União aplicáveis."
+  },
+  "0cc701ff5031395e": {
+   "fragment_id": "3.1.3. Requisitos para a garantia de segurança",
+   "type": "divisao",
+   "heading": "3.1.3. Requisitos para a garantia de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.3. Requisitos para a garantia de segurança\n\nNo contexto do funcionamento do SMS, os prestadores de serviços de tráfego aéreo devem assegurar que:\n\na) Sejam realizadas, por rotina, auditorias de segurança que permitam recomendar melhoramentos sempre que necessário, dar garantias aos gestores quanto à segurança das actividades das áreas sob a sua responsabilidade e verificar a conformidade com as partes pertinentes do SMS (auditorias de segurança).\n\nb) Estejam em vigor métodos para detectar alterações nos sistemas funcionais ou operações susceptíveis de sugerirem que um elemento se está a aproximar de um ponto em que deixarão de ser cumpridas normas de segurança aceitáveis e que sejam tomadas acções correctivas (monitorização da segurança).\n\nc) Sejam mantidos registos de segurança durante todo o funcionamento do SMS como base para garantir a segurança a todos os elementos associados, responsáveis ou dependentes dos serviços prestados, assim como à autoridade competente (registos de segurança)."
+  },
+  "2d87d4408253214e": {
+   "fragment_id": "3.1.4. Requisitos para a promoção da segurança",
+   "type": "divisao",
+   "heading": "3.1.4. Requisitos para a promoção da segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.4. Requisitos para a promoção da segurança\n\nNo contexto do funcionamento do SMS, os prestadores de serviços de tráfego aéreo devem assegurar que:\n\na) Todo o pessoal esteja consciente dos perigos potenciais para a segurança decorrentes das suas tarefas (sensibilização para a segurança);\n\nb) Os ensinamentos resultantes da investigação de ocorrências de segurança e outras actividades de segurança sejam divulgados na organização ao nível da gestão e ao nível operacional (difusão de ensinamentos);\n\nc) Todo o pessoal seja activamente encorajado a propor soluções para situações de perigo identificadas e que, sempre que necessário, sejam introduzidas alterações para reforçar a segurança (reforço da segurança)."
+  },
+  "4f0e4b17b314e5d7": {
+   "fragment_id": "3.2. Requisitos de segurança para avaliação e atenuação dos riscos relativamente a alterações",
+   "type": "divisao",
+   "heading": "3.2. Requisitos de segurança para avaliação e atenuação dos riscos relativamente a alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Requisitos de segurança para avaliação e atenuação dos riscos relativamente a alterações"
+  },
+  "dfb628478eb7036d": {
+   "fragment_id": "3.2.1. Secção 1",
+   "type": "divisao",
+   "heading": "3.2.1. Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2.1. Secção 1\n\nNo contexto do funcionamento do SMS, os prestadores de serviços de tráfego aéreo devem assegurar a identificação sistemática de situações de perigo e a avaliação e atenuação dos riscos de quaisquer alterações às partes afectadas do sistema funcional ATM e dos processos de apoio sob a sua gestão, de forma a cobrir:\n\na) O ciclo de vida completo da parte constituinte do sistema funcional ATM em consideração, desde o planeamento inicial e definição até às operações de pós-implementação, manutenção e desactivação;\n\nb) As componentes aérea, terrestre e, se relevante, espacial do sistema funcional ATM através da cooperação com as partes responsáveis; e\n\nc) Os equipamentos, procedimentos e recursos humanos do sistema funcional ATM, as interacções entre estes elementos e as interacções entre a parte constituinte em consideração e o resto do sistema funcional ATM."
+  },
+  "b3a7a6ccc2cc984d": {
+   "fragment_id": "3.2.2. Secção 2",
+   "type": "divisao",
+   "heading": "3.2.2. Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2.2. Secção 2\n\nOs processos de identificação de perigos e de avaliação e atenuação dos riscos devem incluir:\n\na) A determinação do âmbito, dos limites e interfaces da parte constituinte em consideração, bem como a identificação das funções a desempenhar pela parte constituinte e o ambiente operacional em que irá operar;\n\nb) A determinação dos objectivos de segurança a atribuir à parte constituinte, incluindo:\n\ni) uma identificação dos perigos e condições de falha credíveis relacionados com a ATM, conjuntamente com os seus efeitos combinados,\n\nii) uma avaliação dos efeitos que poderão ter na segurança da aeronave, bem como uma avaliação da gravidade desses efeitos, usando o sistema de classificação da gravidade constante da secção 4,\n\niii) uma determinação da sua tolerabilidade, em termos de probabilidade máxima de ocorrência da situação de perigo, determinada em função da gravidade e da probabilidade máxima de que reproduzam os efeitos de tal situação, de acordo com o disposto na secção 4;\n\nc) O estabelecimento, conforme adequado, de uma estratégia de atenuação dos riscos que:\n\ni) especifique as medidas de defesa a aplicar para protecção contra situações de perigo geradoras de riscos,\n\nii) inclua, se necessário, o estabelecimento de requisitos de segurança potencialmente relacionados com a parte constituinte em consideração ou outras partes do sistema funcional ATM, ou o ambiente operacional, e\n\niii) dê garantias de viabilidade e eficácia;\n\nd) A verificação de que todos os objectivos e requisitos de segurança identificados foram cumpridos:\n\ni) antes da implementação da alteração,\n\nii) durante uma eventual fase de transição até à entrada em funcionamento,\n\niii) durante o seu ciclo de vida operacional, e\n\niv) durante uma eventual fase de transição até à sua desactivação."
+  },
+  "1ee1ee6e8e776275": {
+   "fragment_id": "3.2.3. Secção 3",
+   "type": "divisao",
+   "heading": "3.2.3. Secção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2.3. Secção 3\n\nOs resultados, bem como a fundamentação e as provas associadas, dos processos de avaliação e atenuação dos riscos, incluindo a identificação de situações de perigo, devem ser compilados e documentados de forma a garantir que:\n\na) Sejam estabelecidas argumentações completas para demonstrar que a parte constituinte em consideração, bem como o sistema funcional ATM global, têm e continuarão a ter um nível tolerável de segurança ao cumprirem os objectivos e requisitos de segurança que lhe estão atribuídos. Devem indicar-se, se adequado, as características das técnicas de previsão, controlo ou auditoria utilizadas;\n\nb) Todos os requisitos de segurança relacionados com a implementação de uma alteração sejam rastreáveis até às operações/funções em questão."
+  },
+  "10b07d671f3f568c": {
+   "fragment_id": "3.2.4. Secção 4",
+   "type": "divisao",
+   "heading": "3.2.4. Secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2.4. Secção 4\n\nIdentificação de perigos e avaliação da gravidade\n\nOs perigos devem ser identificados de forma sistemática. A gravidade dos efeitos das situações de perigo num determinado ambiente operacional deve ser determinada usando a grelha de classificação a seguir apresentada, enquanto a classificação em termos de gravidade deve assentar em argumentação específica que demonstre o efeito mais provável da situação de perigo na pior das hipóteses.\n\n| Classe de gravidade | Efeito nas operações |\n| --- | --- |\n| 1 (Mais grave) | Acidente conforme definido no artigo 2 do Regulamento (UE) n.º 996/2010 do Parlamento Europeu e do Conselho [(^1^)](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0013). |\n| 2 | Incidente grave conforme definido no artigo 2 do Regulamento (UE) n.º 996/2010. |\n| 3 | Incidente grave relacionado com a operação de uma aeronave, em que a segurança da aeronave possa ter ficado comprometida, conduzindo a uma quase colisão entre aeronaves, com o solo ou com obstáculos. |\n| 4 | Incidente significativo, cujas circunstâncias indicam que poderia ter acontecido um acidente, um incidente grave ou importante, se o risco não tivesse sido gerido dentro das margens de segurança ou se outra aeronave se encontrasse nas imediações. |\n| 5 (Menos grave) | Sem efeito imediato na segurança |\n| (^1^) JO L 295 de 12.11.2010, p. 35. |  |\n\nPara deduzir o efeito de uma situação de perigo nas operações e determinar a sua gravidade, a abordagem/processo sistemático deve incluir os efeitos das situações de perigo nos vários elementos do sistema funcional ATM, como o pessoal de voo, os controladores aéreos, as capacidades funcionais da aeronave, as capacidades funcionais da parte terrestre do sistema funcional ATM e a capacidade para prestar serviços de tráfego aéreo seguros.\n\nSistema de classificação do risco\n\nOs objectivos de segurança baseados nos riscos devem ser estabelecidos em termos da probabilidade máxima de ocorrência de situações de perigo, calculada em função da gravidade dos seus efeitos e da probabilidade máxima do efeito das situações de perigo.\n\nA demonstração do cumprimento dos objectivos quantitativos estabelecidos deve ser complementada por considerações adicionais em termos de gestão da segurança de forma a, sempre que razoável, reforçar a segurança do sistema ATM."
+  },
+  "972c6c63c51202cd": {
+   "fragment_id": "3.2.5. Secção 5",
+   "type": "divisao",
+   "heading": "3.2.5. Secção 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2.5. Secção 5\n\nSistema de garantia de segurança do *software*\n\nNo âmbito do funcionamento do SMS, o prestador de serviços de tráfego aéreo deve aplicar um sistema de garantia de segurança do *software* em conformidade com o Regulamento (CE) n.º 482/2008."
+  },
+  "9323ee49cef0fe76": {
+   "fragment_id": "3.3. Requisitos de segurança aplicáveis ao pessoal técnico que desempenha tarefas relacionadas com a segurança operacional",
+   "type": "divisao",
+   "heading": "3.3. Requisitos de segurança aplicáveis ao pessoal técnico que desempenha tarefas relacionadas com a segurança operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Requisitos de segurança aplicáveis ao pessoal técnico que desempenha tarefas relacionadas com a segurança operacional\n\nOs prestadores de serviços de tráfego aéreo devem garantir que o pessoal técnico, incluindo o pessoal técnico das organizações operadoras subcontratadas, que opera e mantém equipamentos ATM aprovados para utilização operacional, possui e mantém conhecimentos e compreensão suficientes dos serviços a que dá apoio, dos efeitos reais e potenciais do seu trabalho na segurança desses serviços e dos limites de trabalho adequados a aplicar.\n\nNo que se refere ao pessoal envolvido em tarefas relacionadas com a segurança, incluindo o pessoal de organizações operadoras subcontratadas, os prestadores de serviços de tráfego aéreo devem documentar a adequação das suas competências; as disposições em termos de turnos de trabalho para garantir uma capacidade suficiente e a continuidade do serviço; os programas e a política de qualificação do pessoal, a política de formação do pessoal, os planos e registos de formação, bem como disposições para a supervisão do pessoal não qualificado. Devem estar previstos procedimentos para os casos em que a condição física ou mental do pessoal esteja em dúvida.\n\nOs prestadores de serviços de tráfego aéreo devem manter um registo de informações sobre o número, estatuto e afectação do pessoal envolvido em tarefas relacionadas com a segurança.\n\nO registo deve:\n\na) Identificar os gestores responsáveis pelas funções relacionadas com a segurança;\n\nb) Conter as qualificações pertinentes do pessoal técnico e operacional, comparando-as com os conhecimentos e competências exigidos;\n\nc) Especificar os locais e as funções aos quais está afectado o pessoal técnico e operacional, incluindo os eventuais regimes de turnos."
+  },
+  "656a03651c183c57": {
+   "fragment_id": "4. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+   "type": "divisao",
+   "heading": "4. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS\n\nOs prestadores de serviços de tráfego aéreo devem poder demonstrar que os seus métodos de trabalho e procedimentos operacionais cumprem as normas estabelecidas nos seguintes anexos da Convenção sobre a Aviação Civil Internacional, na medida em que as mesmas são relevantes para a prestação de serviços de tráfego aéreo no espaço aéreo em questão:\n\na) [**►M1**](http://publications.europa.eu/resource/celex/32012R0923) Regulamento de Execução (UE) n.º 923/2012**◄**, incluindo todas as emendas até ao n.º 42;\n\nb) Anexo 10 — Telecomunicações aeronáuticas, Volume II — Procedimentos de comunicação, incluindo os que têm o estatuto de PANS, na sua 6.ª edição de outubro de 2001, incluindo todas as emendas até ao n.º 88-A, inclusive;\n\nc) Anexo 11 — Serviços de tráfego aéreo, na sua 13.ª edição de julho de 2001, incluindo todas as emendas até ao n.º 49, inclusive, e o Regulamento de Execução (UE) n.º 923/2012 ([^13^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0014)), conforme aplicável."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "6ade1c8fcbf6f654": {
+   "fragment_id": "Requisitos específicos para a prestação de serviços meteorológicos",
+   "type": "divisao",
+   "heading": "Requisitos específicos para a prestação de serviços meteorológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos específicos para a prestação de serviços meteorológicos"
+  },
+  "9e0a0c32d11f5b98": {
+   "fragment_id": "1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA",
+   "type": "divisao",
+   "heading": "1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA\n\nOs prestadores de serviços meteorológicos devem assegurar a disponibilização aos seguintes utilizadores, numa forma adequada, das informações meteorológicas necessárias ao desempenho das respectivas funções:\n\na) Operadores e membros da tripulação de voo, para o planeamento antes e durante o voo;\n\nb) Prestadores de serviços de tráfego aéreo e de serviços de informação de voo;\n\nc) Unidades de serviços de busca e salvamento; e\n\nd) Aeródromos.\n\nOs prestadores de serviços meteorológicos devem confirmar o nível de exactidão que podem alcançar as informações distribuídas para as operações, indicando a fonte das informações, e simultaneamente assegurar a sua distribuição de forma suficientemente atempada e a devida actualização."
+  },
+  "673b5f4799f080b4": {
+   "fragment_id": "2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+   "type": "divisao",
+   "heading": "2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS\n\nOs prestadores de serviços meteorológicos devem ser capazes de demonstrar que os seus métodos de trabalho e procedimentos operacionais cumprem as normas estabelecidas nos seguintes anexos da Convenção sobre a Aviação Civil Internacional, na medida em que as mesmas são relevantes para a prestação de serviços meteorológicos no espaço aéreo em questão:\n\na) Sem prejuízo do disposto no Regulamento de Execução (UE) n.º 923/2012, Anexo 3 — Serviços meteorológicos para a navegação aérea internacional, na sua 18.ª edição de julho de 2013, incluindo todas as emendas até ao n.º 76, inclusive;\n\nb) Anexo 11 — Serviços de tráfego aéreo, na sua 13.ª edição de julho de 2001, incluindo todas as emendas até ao n.º 49, inclusive, e o Regulamento de Execução (UE) n.º 923/2012, conforme aplicável;\n\nc) Sem prejuízo do disposto no Regulamento (UE) n.º 139/2014 ([^14^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0015)), Anexo 14 — Aeródromos, nas seguintes versões:\n\ni) Volume I — Projeto e operações de aeródromos, na sua 6.ª edição de julho de 2013, incluindo todas as emendas até ao n.º 11-A, inclusive, e, a partir de 13 de novembro de 2014, incluindo também a álteração 11-B;\n\nii) Volume II — Heliportos, na sua 4.ª edição de julho de 2013, incluindo todas as emendas até ao n.º 5, inclusive."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "03320c5bf96e92df": {
+   "fragment_id": "Requisitos específicos para a prestação de serviços de informação aeronáutica",
+   "type": "divisao",
+   "heading": "Requisitos específicos para a prestação de serviços de informação aeronáutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos específicos para a prestação de serviços de informação aeronáutica"
+  },
+  "dd5098367b7a3ed4": {
+   "fragment_id": "1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA",
+   "type": "divisao",
+   "heading": "1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA\n\nOs prestadores de serviços de informação aeronáutica devem assegurar que as informações e dados para as operações estejam disponíveis numa forma adequada para:\n\na) O pessoal responsável pela operação do voo, incluindo a tripulação de voo, bem como pelo planeamento de voos, pelos sistemas de gestão de voo e pelos simuladores de voo; e\n\nb) Os prestadores de serviços de tráfego aéreo responsáveis por serviços de informação de voo, serviços de informação de voo de aeródromo e o fornecimento de informação antes do voo.\n\nOs prestadores de serviços de informação aeronáutica devem garantir a integridade dos dados e confirmar o nível de exactidão das informações distribuídas para as operações, indicando a fonte dessas informações, antes da sua distribuição."
+  },
+  "51910d049c5fe5ae": {
+   "fragment_id": "2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+   "type": "divisao",
+   "heading": "2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS\n\nOs prestadores de serviços de informação aeronáutica devem ser capazes de demonstrar que os seus métodos de trabalho e procedimentos operacionais cumprem as normas estabelecidas\n\na) No Regulamento (UE) n.º 73/2010 ([^15^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#E0016)) da Comissão;\n\nb) Nos seguintes anexos da Convenção sobre a Aviação Civil Internacional, na medida em que as mesmas sejam pertinentes para a prestação de serviços de informação aeronáutica no espaço aéreo em questão:\n\ni) Anexo 3 — Serviços meteorológicos para a navegação aérea internacional, na sua 18.ª edição de julho de 2013, incluindo todas as emendas até ao n.º 76, inclusive;\n\nii) Anexo 4 — Cartas aeronáuticas, na sua 11.ª edição de julho de 2009, incluindo todas as emendas até ao n.º 57, inclusive;\n\niii) Sem prejuízo do disposto no Regulamento (UE) n.º 73/2010, Anexo 15 — Séries de informação aeronáutica, na sua 14.ª edição de julho de 2013, incluindo todas as emendas até ao n.º 37, inclusive."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "a35efbcfe807160d": {
+   "fragment_id": "Requisitos específicos para a prestação de serviços de comunicação, navegação ou vigilância",
+   "type": "divisao",
+   "heading": "Requisitos específicos para a prestação de serviços de comunicação, navegação ou vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos específicos para a prestação de serviços de comunicação, navegação ou vigilância"
+  },
+  "e739be57f882765d": {
+   "fragment_id": "1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA",
+   "type": "divisao",
+   "heading": "1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. COMPETÊNCIA E CAPACIDADE OPERACIONAL E TÉCNICA\n\nOs prestadores de serviços de comunicação, navegação ou vigilância devem garantir a disponibilidade, a continuidade, a exactidão e a integridade dos seus serviços.\n\nOs prestadores de serviços de comunicação, navegação ou vigilância devem confirmar o nível de qualidade dos serviços que prestam e demonstrar que os seus equipamentos são objecto de manutenção periódica e, sempre que necessário, calibrados."
+  },
+  "408687db41e542a8": {
+   "fragment_id": "2. SEGURANÇA DOS SERVIÇOS",
+   "type": "divisao",
+   "heading": "2. SEGURANÇA DOS SERVIÇOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. SEGURANÇA DOS SERVIÇOS\n\nOs prestadores de serviços de comunicação, navegação ou vigilância devem cumprir os requisitos do anexo II, ponto 3, relativos à segurança dos serviços."
+  },
+  "2045b62111672bb0": {
+   "fragment_id": "3. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+   "type": "divisao",
+   "heading": "3. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. MÉTODOS DE TRABALHO E PROCEDIMENTOS OPERACIONAIS\n\nOs prestadores de serviços de comunicação, navegação ou vigilância devem ser capazes de demonstrar que os seus métodos de trabalho e procedimentos operacionais cumprem as normas estabelecidas no anexo 10 - Telecomunicações aeronáuticas, da Convenção sobre a Aviação Civil Internacional, nas seguintes versões, na medida em que as mesmas são relevantes para a prestação de serviços de comunicação, navegação ou vigilância no espaço aéreo em questão:\n\na) Volume I — Ajudas-rádio à navegação, na sua 6.ª edição de julho de 2006, incluindo todas as emendas até ao n.º 88-A, inclusive;\n\nb) Volume II — Procedimentos de comunicação, incluindo os que têm o estatuto de PANS, na sua 6.ª edição de outubro de 2001, incluindo todas as emendas até ao n.º 88-A, inclusive;\n\nc) Volume III — Sistemas de comunicações, na sua 2.ª edição de julho de 2007, incluindo todas as emendas até ao n.º 88-A, inclusive;\n\nd) Volume IV — Sistema de radar de vigilância e sistema anticolisão, na sua 4.ª edição de julho de 2007, incluindo todas as emendas até ao n.º 88-A inclusive;\n\ne) Volume V — Utilização do espectro de radiofrequências aeronáuticas, na sua 3.ª edição de julho de 2013, incluindo todas as emendas até ao n.º 88-A, inclusive.\n\n---"
+  },
+  "13373510e58f0bf1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0002)) JO L 79 de 19.3.2008, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0003)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0004)) JO L 335 de 21.12.2005, p. 13.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0005)) JO L 295 de 12.11.2010, p. 35.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0006)) JO L 167 de 4.7.2003, p. 23.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0007)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0008)) JO L 185 de 15.7.2011, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0009)) JO L 141 de 31.5.2008, p. 5.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0010)) JO L 201 de 3.8.2010, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0011)) Ver página 15 do presente Jornal Oficial.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0012)) JO L 271 de 18.10.2011, p 23.»;\n\n> ([^13^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0014)) Regulamento de Execução (UE) n.º 923/2012 da Comissão, de 26 de setembro de 2012, que estabelece as regras do ar comuns e as disposições operacionais no respeitante aos serviços e procedimentos de navegação aérea e que altera o Regulamento de Execução (UE) n.º 1035/2011, e os Regulamentos (CE) n.º 1265/2007, (CE) n.º 1794/2006, (CE) n.º 730/2006, (CE) n.º 1033/2006 e (UE) n.º 255/2010 JO L 281 de 13.10.2012, p. 1).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0015)) Regulamento (UE) n.º 139/2014 da Comissão, de 12 de fevereiro de 2014, que estabelece requisitos e procedimentos administrativos relativos aos aeródromos em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho JO L 44 de 14.02.2014, p. 1).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/26e25233-396e-48d6-996b-e25872baa738.0015.02/DOC_1#src.E0016)) JO L 23 de 27.1.2010, p. 6."
+  },
+  "1b53c6387e66d12b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02011R1035 — PT — 02.01.2020 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32011R1035) [REGULAMENTO DE EXECUÇÃO (UE) N.º 1035/2011 DA COMISSÃO](http://publications.europa.eu/resource/celex/32011R1035) [de 17 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1035) [que estabelece requisitos comuns para a prestação de serviços de navegação aérea e que altera os Regulamentos (CE) n.º 482/2008 e (UE) n.º 691/2010](http://publications.europa.eu/resource/celex/32011R1035) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32011R1035) (JO L 271, 18.10.2011, p.23)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2017/373 da Comissão de 1 de março de 2017](http://publications.europa.eu/resource/celex/32017R0373) — L 62 — 1 — 8.3.2017"
+  }
+ }
+}

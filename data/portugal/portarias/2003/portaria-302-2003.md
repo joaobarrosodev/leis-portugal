@@ -1,0 +1,288 @@
+---
+schema_version: '1.0'
+id: pt:dre:226406:por
+title: Portaria n.º 302/2003
+short_title: null
+summary: Disciplina a matrícula e a frequência no ensino secundário recorrente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e da Ciência e do Ensino Superior
+proposing_entity: null
+official_number: 302/2003
+official_date: null
+publication_date: '2003-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2003, Série I-B de 2003-04-12
+  number: '87'
+  series: I
+  supplement: null
+  pages: 2406 - 2408
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/04/087b00/24062408.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/302/2003/04/12/p/dre/pt/html
+  oj: null
+  dre: '226406'
+  dre_path: /dr/detalhe/portaria/302-2003-226406
+  internal: pt:dre:226406:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/302-2003-226406
+  metadata_url: https://data.dre.pt/eli/port/302/2003/04/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/302-2003-226406
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:48:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f025f0df9b221768323202abefe01018ffca95db7bc1d6e9115b564e8a13e8b1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Diploma
+- Direção Geral do Ensino Superior
+- Educação dos Adultos
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Estabelecimento de Ensino
+- Inspecção Geral de Educação
+relationships:
+- type: amended_by
+  target: pt:dre:218759:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:218759:por
+  label: "Alterado o n.º 4.4, pela Port.365/2004.08.04.2004.ME, DR.IS-B [84] de 08.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-2004-218759
+  date: '2004-04-08'
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303182:por
+  label: null
+  source: http://data.dre.pt/eli/port/394/2002/04/12/p/dre
+- type: cites
+  target: pt:dre:354678:por
+  label: null
+  source: http://data.dre.pt/eli/despnorm/36/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:425953:por
+  label: null
+  source: http://data.dre.pt/eli/despnorm/49/2002/11/04/p/dre
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478447:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/1991/02/09/p/dre
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogados, de acordo com o calendário de produção de efeitos fixado no art. 18.º, os n.ºs 3, 4 e 5, pelo DEC LEI.74/2004.26.03.2004.ME,\
+    \ DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:48:25Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 302/2003
+
+de 12 de Abril
+
+As normas relativas ao ensino secundário recorrente apresentam alguma dispersão, a qual tem propiciado a prática de irregularidades que desvirtuaram os objectivos desta modalidade de ensino e criaram injustiças conhecidas no ingresso no ensino superior.
+
+A consolidação normativa desta matéria, com o inerente sentido clarificador, proporciona a todos quantos intervêm no sistema educativo e, em particular, aos próprios alunos, um papel mais interveniente na criação de garantias de que os percursos escolares respeitem todas as regras que enformam o ensino secundário recorrente.
+
+Neste mesmo sentido, importa ainda acautelar a necessidade, prioritária, de, com a participação activa de todas as entidades que integram a administração educativa e os próprios alunos, assegurar a correcção imediata das situações irregulares que têm conferido uma vantagem injusta no ingresso no ensino superior aos alunos oriundos do ensino secundário recorrente, bem como a prevenção de novas situações do mesmo tipo.
+
+Pretende-se, por fim, assegurar a aplicação uniforme das normas em vigor relativas ao ensino secundário recorrente, mesmo antes de se dispor da reforma jurídica global desta modalidade especial de educação escolar.
+
+Nestes termos, considerando o disposto no artigo 20.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, Lei de Bases do Sistema Educativo, no [Decreto-Lei n.º 74/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1991-478447), de 9 de Fevereiro, em especial nos artigos 4.º a 10.º, e no artigo 28.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro:
+
+Manda o Governo, pelos Ministros da Educação e da Ciência e do Ensino Superior, o seguinte:
+
+1 - O disposto na presente portaria aplica-se às escolas públicas, particulares e cooperativas que ministrem o ensino secundário recorrente.
+
+2 - A matrícula no ensino secundário recorrente depende da verificação de requisitos de admissão, gerais e especiais, devendo ainda respeitar regras de organização, de competência e de validade, nos termos seguintes:
+
+2.1 - São requisitos gerais de admissão da matrícula no ensino secundário recorrente:
+
+2.1.1 - Ter completado 18 anos de idade à data da matrícula;
+
+2.1.2 - Possuir o 9.º ano de escolaridade ou habilitação equivalente;
+
+2.1.3 - Não sendo detentor dessa habilitação, ser considerado Apto em avaliação diagnóstica globalizante, a realizar nos termos do disposto no capítulo II do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, com as alterações introduzidas pelo [Despacho Normativo n.º 49/2002](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2002-425953), de 4 de Novembro.
+
+2.2 - São requisitos especiais de admissão da matrícula no ensino secundário recorrente:
+
+2.2.1 - Não estarem, ou terem estado, no mesmo ano lectivo, os alunos matriculados no ensino secundário regular, no ensino profissional, no sistema de aprendizagem ou em escolas com planos de estudos estrangeiros, não sendo permitida a mudança para o ensino secundário recorrente no decurso do mesmo ano lectivo, mesmo nas situações de anulação ou revogação de matrícula;
+
+2.2.2 - Terem decorrido três anos após a conclusão do curso do ensino secundário regular, do ensino profissional, do sistema de aprendizagem ou de habilitações estrangeiras equivalentes, já detido pelos candidatos ao ensino secundário recorrente, e desde que não se trate de inscrição em curso do ensino recorrente considerado idêntico ao já concluído em qualquer das outras modalidades de ensino referidas;
+
+2.2.3 - Para efeitos do disposto no n.º 2.2.1, aplica-se, quanto ao início e termo do ano lectivo, o que estiver definido no calendário escolar em cada momento em vigor;
+
+2.2.4 - Para efeitos do disposto no n.º 2.2.2, considera-se que o curso geral do ensino secundário recorrente é idêntico aos cursos gerais do ensino secundário regular ou de planos de estudos estrangeiros equivalentes;
+
+2.2.5 - Os detentores de um curso do ensino secundário recorrente podem inscrever-se em novas disciplinas do mesmo curso ou em novo curso da mesma modalidade de ensino.
+
+2.3 - Para a organização dos processos de matrícula e como condição de efectivação da mesma, o candidato ao ensino secundário recorrente deve:
+
+2.3.1 - Apresentar os documentos comprovativos do preenchimento dos requisitos gerais fixados no n.º 2.1 quanto à idade, situação escolar anterior e habilitações de que é detentor;
+
+2.3.2 - Apresentar, quando tenha frequentado, sem o concluir, o ensino secundário regular, documento comprovativo das classificações obtidas em cada disciplina frequentada, por ano de escolaridade;
+
+2.3.3 - Estabelecer com a escola na qual se pretende matricular o seu itinerário individual de formação, de acordo com o disposto no n.º 3 do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho.
+
+2.4 - A matrícula no ensino secundário recorrente obedece às seguintes regras de competência:
+
+2.4.1 - Para a prática do acto de admissão da matrícula são competentes as escolas públicas e os estabelecimentos de ensino particular e cooperativo, estes desde que possuam autonomia pedagógica, nos termos da alínea d) do n.º 1 do artigo 35.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro;
+
+2.4.2 - A matrícula nos estabelecimentos de ensino particular e cooperativo que não possuam autonomia pedagógica é da competência da escola pública da área, nos termos do n.º 2 do artigo 78.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro;
+
+2.4.3 - A competência das escolas públicas neste domínio não exclui a responsabilidade disciplinar dos estabelecimentos de ensino particular e cooperativo quanto à organização dos processos de matrícula, em especial quanto ao seguinte:
+
+2.4.3.1 - Idade dos candidatos;
+
+2.4.3.2 - Avaliação diagnóstica globalizante, referida no n.º 2.1.3;
+
+2.4.3.3 - Aplicação das equivalências nas disciplinas constantes da tabela a que se refere o n.º 2.º da [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril;
+
+2.4.3.4 - Aplicação das normas relativas às equivalências de habilitações estrangeiras;
+
+2.4.3.5 - Reconhecimento de outras equivalências ou realização de testes de posicionamento, nos termos do n.º 3.º da [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril.
+
+2.4.4 - Os membros dos órgãos executivos das escolas públicas, competentes para a efectivação das matrículas nos estabelecimentos de ensino particular e cooperativo da sua área, nos termos referidos no n.º 2.4.2, têm o dever de verificar a regularidade dessas matrículas, em especial quanto ao preenchimento dos requisitos enunciados nos n.os 2.1 e 2.2, constituindo-se responsáveis em caso de incumprimento.
+
+2.5 - As matrículas resultantes de declarações falsas ou incompletas são inválidas e, como tal, passíveis de anulação ou de declaração de nulidade.
+
+3 - O itinerário individual de formação rege-se pelo n.º 3 do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, conjugado com o disposto na [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril, devendo, nos termos dessas estatuições, respeitar-se, para além do mais, o seguinte:
+
+3.1 - Formalização do itinerário individual:
+
+3.1.1 - O itinerário individual deve ser impreterivelmente elaborado antes do acto de efectivação ou de renovação da matrícula, dele devendo constar a identificação, situação pessoal e profissional do aluno, seu percurso escolar anterior e respectivos interesses e expectativas, bem como o plano de estudos e regime de frequência;
+
+3.1.2 - O itinerário individual deve ser impreterivelmente actualizado sempre que se verifiquem alterações pertinentes no percurso escolar do aluno, devidamente comprovadas.
+
+3.2 - Plano de estudos:
+
+3.2.1 - O número de disciplinas e das respectivas unidades a capitalizar deve obedecer ao definido nos planos de estudos aprovados para os diferentes cursos, à excepção do disposto nos números seguintes;
+
+3.2.2 - O número de unidades a capitalizar pelos alunos que já tenham frequentado o ensino secundário regular decorre, nos termos da [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril, da aplicação obrigatória do processo de equivalências, para as disciplinas constantes da tabela em cada momento anexa à mesma portaria;
+
+3.2.3 - Relativamente a disciplinas certificadas no ensino regular, mas não contempladas na tabela de equivalências referida no número anterior (em especial, disciplinas específicas dos cursos complementares técnicos diurnos e nocturnos, disciplinas da formação vocacional, técnico-profissional, técnica, tecnológica e artística), o aluno pode optar pela capitalização de todas as unidades ou pelo reconhecimento de equivalências, quer por análise curricular simples, quer através da realização de teste diagnóstico de posicionamento, nos termos do n.º 3.º, n.os 1 e 2, da [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril;
+
+3.2.4 - Na disciplina Área Interdisciplinar não há lugar a qualquer dos mecanismos de equivalência referidos nos números anteriores, sendo, por isso, obrigatória a capitalização de todas as unidades;
+
+3.2.5 - A aplicação no ensino secundário recorrente das equivalências atribuídas a habilitações estrangeiras será objecto de regulamentação própria;
+
+3.2.6 - O incumprimento dos planos de estudos constitui causa de nulidade do curso do ensino secundário recorrente, invocável a todo o tempo, sem prejuízo do n.º 3 do artigo 134.º do Código do Procedimento Administrativo.
+
+3.3 - Regime de frequência:
+
+3.3.1 - No acto de formalização do itinerário individual de formação, o aluno deve optar, para cada uma das disciplinas em que se inscreve, por uma das modalidades de frequência, em regime presencial ou em regime não presencial;
+
+3.3.2 - A cada modalidade de frequência corresponde um regime específico, designadamente quanto à assiduidade, apoio e avaliação, regulados nos n.os 4, 5, 7 e 8 do capítulo III do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho;
+
+3.3.3 - A alteração da modalidade de frequência e, consequentemente, do regime de frequência, só pode ter lugar mediante a ocorrência de circunstâncias relevantes, devidamente comprovadas, implicando essa alteração a reformulação do respectivo itinerário individual de formação.
+
+4 - A avaliação rege-se pelas disposições comuns e disposições específicas, consoante o regime de frequência, fixadas nos n.os 6, 7 e 8 do capítulo III do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, e pelos n.os 4.º, 5.º, 6.º e 7.º da [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril, com as seguintes alterações:
+
+4.1 - A classificação final de cada disciplina é resultante da média aritmética, arredondada às unidades, das classificações obtidas em todas as unidades constantes do respectivo plano curricular, com as seguintes excepções:
+
+4.1.1 - Sempre que haja lugar a equivalência à totalidade das unidades da disciplina, a classificação final é a resultante do processo de equivalência, de acordo com o disposto na [Portaria n.º 394/2002](https://diariodarepublica.pt/dr/detalhe/portaria/394-2002-303182), de 12 de Abril; quando a equivalência a uma disciplina do ensino secundário recorrente decorrer da conclusão de duas disciplinas do ensino regular, a classificação daquela resulta da média aritmética das classificações finais destas duas disciplinas;
+
+4.1.2 - Quando ocorrer a equivalência apenas a algumas das unidades da disciplina, a sua classificação final corresponde à média aritmética da classificação resultante do processo de equivalência com as classificações finais de cada uma das outras unidades capitalizadas;
+
+4.1.3 - Sempre que, no regime de frequência não presencial, as provas de avaliação abranjam mais de uma unidade, o cálculo da classificação final da disciplina resulta da média das classificações obtidas nas provas realizadas.
+
+4.2 - Os instrumentos de avaliação a adoptar em todas as disciplinas podem revestir alguma das seguintes três formas: 1) de trabalho ou prova prática; 2) de trabalho ou prova escrita; 3) de trabalho ou prova escrita e prova oral, no caso das línguas.
+
+4.3 - A classificação final de cada unidade, calculada de acordo com o estabelecido, para as diferentes disciplinas, no anexo I a que se refere o n.º 6.1 do [Despacho Normativo n.º 36/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1999-354678), de 22 de Julho, é sempre arredondada às unidades; sempre que seja utilizado mais de um instrumento de avaliação, a classificação final de cada unidade resulta da média aritmética das classificações obtidas, não podendo estas ser objecto de qualquer arredondamento.
+
+4.4 - As provas de avaliação em regime não presencial são provas de avaliação sumativa das disciplinas frequentadas nesse regime e realizam-se em quatro momentos - Janeiro, Abril, Julho e Setembro - em data a fixar pela escola; as provas a realizar em Setembro destinam-se, exclusivamente, à capitalização de unidades para conclusão de curso dos alunos que frequentaram esta modalidade de ensino no ano lectivo anterior e pretendam candidatar-se à segunda fase do concurso de acesso ao ensino superior.
+
+5 - O disposto na presente portaria aplica-se aos regimes de experiência pedagógica, por blocos de aprendizagem, em vigor no ensino particular e cooperativo, derrogando os respectivos regulamentos, mesmo que homologados, quando estes disponham em sentido contrário, sendo apenas admitidas as adaptações estritamente decorrentes da compatibilização entre blocos e unidades capitalizáveis.
+
+5.1 - O regime de experiência pedagógica por blocos capitalizáveis, instituído, para o ensino público, pelo despacho n.º 20421/99, de 27 de Outubro, com as alterações introduzidas pelo despacho n.º 21711/2000, de 27 de Outubro, rege-se por regras próprias no que respeita à obrigatoriedade de matrícula em todas as disciplinas, ao compromisso de frequência em regime presencial e à não aplicação de equivalências e testes de posicionamento.
+
+6 - O estabelecimento de ensino competente para a emissão do certificado de curso do ensino secundário recorrente é responsável pela comprovação da regularidade da matrícula e do percurso escolar dos alunos nessa modalidade de ensino.
+
+6.1 - O certificado de curso do ensino secundário recorrente deve ter, em anexo, os seguintes documentos:
+
+6.1.1 - Boletim da primeira inscrição no ensino secundário recorrente;
+
+6.1.2 - Certificado de habilitações à data do ingresso no ensino secundário recorrente e, quando o aluno tenha frequentado o ensino secundário regular, o documento a que se faz referência no n.º 2.3.2;
+
+6.1.3 - Registo biográfico do ensino secundário recorrente, integralmente preenchido na sua frente e verso e devidamente trancado.
+
+7 - Para a instrução do processo de candidatura ao ensino superior em 2003-2004, a regularidade do certificado de habilitações dos alunos que concluíram o ensino secundário recorrente deverá ser verificado pela Inspecção-Geral da Educação (IGE).
+
+7.1 - Para cumprimento do disposto no n.º 7, o estabelecimento de ensino competente deverá remeter à IGE, no próprio dia da emissão, o certificado de habilitações, com os anexos referidos no n.º 6.1, entregando ao aluno documento comprovativo dessa remessa.
+
+7.2 - No acto de apresentação da candidatura, o aluno deverá apresentar conjuntamente com a ficha de classificações (Ficha ENES) o comprovativo referido no n.º 7.1.
+
+7.3 - Compete à IGE enviar à Direcção-Geral do Ensino Superior, para os devidos efeitos no processo de colocação, a listagem nominal dos alunos cujos certificados estão conformes com as normas em vigor, bem como a listagem nominal dos alunos com irregularidades no seu percurso escolar que invalidam o respectivo certificado.
+
+7.4 - Compete, ainda, à IGE a devolução dos certificados aos estabelecimentos de ensino para: 1) entrega aos alunos dos certificados considerados válidos; 2) revogação dos certificados inválidos e correcção das irregularidades existentes no percurso escolar dos alunos, de acordo com o disposto no número seguinte.
+
+8 - Todos os estabelecimentos de ensino das redes pública, privada e cooperativa são obrigados a proceder à correcção das irregularidades existentes nos processos individuais dos alunos que, no ano lectivo de 2002-2003, concluíram ou se encontram a frequentar o ensino secundário recorrente, ainda que resultem de situações ocorridas em anos lectivos anteriores, nos termos dos números seguintes:
+
+8.1 - A verificação dos processos individuais de todos os alunos, para identificação de eventuais irregularidades e correcção dos respectivos itinerários de formação, deverá estar concluída impreterivelmente até 30 de Maio de 2003.
+
+8.2 - Nas disciplinas em que não tenham sido atribuídas as equivalências decorrentes da aplicação das tabelas de equivalências em vigor à data da matrícula, proceder-se-á à reformulação dos respectivos termos, aplicando as regras referidas nos n.os 4.1.1 e 4.1.2 e invalidando as classificações que tenham sido atribuídas por frequência às unidades abrangidas pelo processo de equivalência.
+
+8.3 - Sempre que tenham sido aplicados testes de posicionamento, em disciplinas não aprovadas ou não frequentadas no ensino regular e constantes das tabelas de equivalências em vigor à data da matrícula, as unidades abrangidas deverão ser capitalizadas para efeitos de conclusão do curso.
+
+8.4 - Excluem-se do dever de correcção apenas as matrículas no ensino secundário recorrente de alunos com menos de 18 anos de idade, à data da matrícula, desde que tenham sido efectuadas antes da entrada em vigor do [Despacho Normativo n.º 49/2002](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2002-425953), de 4 de Novembro, e respeitem as normas aplicáveis no momento da sua realização.
+
+8.5 - Relativamente aos alunos que, tendo concluído o ensino secundário recorrente já no ano lectivo de 2002-2003, se candidataram ao ensino superior e viram a sua matrícula regularizada, o disposto no presente n.º 8 não prejudica a eficácia desta matrícula.
+
+Em 12 de Março de 2003.
+
+O Ministro da Educação, José David Gomes Justino. - O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria.

@@ -1,0 +1,1106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:218957:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1986-34443575",
+ "dre_path": "/dr/detalhe/lei/31-1986-218957",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "46199275",
+    "46199375",
+    "46199475",
+    "46199575",
+    "46199675",
+    "46199775",
+    "46199875",
+    "46199975",
+    "46200075",
+    "46200175",
+    "46200275",
+    "46200375",
+    "46200475",
+    "46200575",
+    "46200675",
+    "46200775",
+    "46200875",
+    "46200975",
+    "46201075",
+    "46201175",
+    "46201275",
+    "46201375",
+    "46201475",
+    "46201575",
+    "46201675",
+    "46201775",
+    "46201875",
+    "46201975",
+    "46202075",
+    "46202175",
+    "46202275",
+    "46202375",
+    "46202475",
+    "46202575",
+    "46202675",
+    "46202775",
+    "46202875",
+    "46202975",
+    "46203075",
+    "46203175",
+    "46203275",
+    "46203375",
+    "46203475",
+    "46203575",
+    "46203675",
+    "46203775",
+    "46203875",
+    "46203975",
+    "46204075"
+   ]
+  },
+  {
+   "date": "2003-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220944:por",
+     "title": "Decreto-Lei n.º 38/2003",
+     "published": "2003-03-08",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2003-220944"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "46199275",
+    "46199375",
+    "46199475",
+    "46199575",
+    "46199675",
+    "46199775",
+    "46199875",
+    "46199975",
+    "46200075",
+    "46200175",
+    "46200275",
+    "46200375",
+    "46200475",
+    "858634153",
+    "858634154",
+    "46200775",
+    "46200875",
+    "46200975",
+    "46201075",
+    "46201175",
+    "46201275",
+    "46201375",
+    "46201475",
+    "46201575",
+    "46201675",
+    "46201775",
+    "46201875",
+    "46201975",
+    "46202075",
+    "46202175",
+    "46202275",
+    "46202375",
+    "46202475",
+    "46202575",
+    "46202675",
+    "46202775",
+    "46202875",
+    "46202975",
+    "46203075",
+    "46203175",
+    "46203275",
+    "46203375",
+    "46203475",
+    "46203575",
+    "46203675",
+    "46203775",
+    "46203875",
+    "46203975",
+    "46204075",
+    "46204175"
+   ]
+  },
+  {
+   "date": "2012-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145578:por",
+     "title": "Lei n.º 63/2011",
+     "published": "2011-12-14",
+     "dre_path": "/dr/detalhe/lei/63-2011-145578"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Capítulo II",
+    "Revoga Capítulo III",
+    "Revoga Capítulo IV",
+    "Revoga Capítulo V",
+    "Revoga Capítulo VI",
+    "Revoga Capítulo VII",
+    "Revoga Capítulo VIII"
+   ],
+   "fragments": [
+    "46199275",
+    "46199375",
+    "858641501",
+    "858634155",
+    "858634156",
+    "858634157",
+    "858634158",
+    "858634159",
+    "858634160",
+    "858634161",
+    "858634162",
+    "858634163",
+    "858634164",
+    "858634165",
+    "858634166",
+    "858634167",
+    "858634168",
+    "858634169",
+    "858634170",
+    "858634171",
+    "858634172",
+    "858634173",
+    "858634174",
+    "858641475",
+    "858641476",
+    "858641477",
+    "858641478",
+    "858641479",
+    "858641480",
+    "858641481",
+    "858641482",
+    "858641483",
+    "858641484",
+    "858641485",
+    "858641486",
+    "858641487",
+    "858641488",
+    "858641489",
+    "858641490",
+    "858641491",
+    "858641492",
+    "858641493",
+    "858641494",
+    "858641495",
+    "858641496",
+    "858641497",
+    "858641498",
+    "858641499",
+    "858641500",
+    "46204175"
+   ]
+  }
+ ],
+ "fragments": {
+  "46199275": {
+   "fragment_id": "35063375",
+   "type": 15,
+   "heading": "Diploma — Arbitragem voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea q), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "46199375": {
+   "fragment_id": "35458675",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I"
+  },
+  "46199475": {
+   "fragment_id": "36785975",
+   "type": 11,
+   "heading": "Artigo 1.º — (Convenção de arbitragem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Convenção de arbitragem)\n\n1 - Desde que por lei especial não esteja submetido exclusivamente a tribunal judicial ou a arbitragem necessária, qualquer litígio que não respeite a direitos indisponíveis pode ser cometido pelas partes, mediante convenção de arbitragem, à decisão de árbitros.\n\n2 - A convenção de arbitragem pode ter por objecto um litígio actual, ainda que se encontre afecto a tribunal judicial (compromisso arbitral), ou litígios eventuais emergentes de uma determinada relação jurídica contratual ou extracontratual (cláusula compromissória).\n\n3 - As partes podem acordar em considerar abrangidas no conceito de litígio, para além das questões de natureza contenciosa em sentido estrito, quaisquer outras, designadamente as relacionadas com a necessidade de precisar, completar, actualizar ou mesmo rever os contractos ou as relações jurídicas que estão na origem da convenção de arbitragem.\n\n4 - O Estado e outras pessoas colectivas de direito público podem celebrar convenções de arbitragem, se para tanto forem autorizados por lei especial ou se elas tiverem por objecto litígios respeitantes a relações de direito privado.\n\n> Nota: [Artigo 5.º, Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578) O disposto no n.º 1 mantém-se em vigor relativamente à arbitragem de litígios emergentes de ou relativos a contratos de trabalho."
+  },
+  "46199575": {
+   "fragment_id": "36786075",
+   "type": 11,
+   "heading": "Artigo 2.º — (Requisitos da convenção; revogação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Requisitos da convenção; revogação)\n\n1 - A convenção de arbitragem deve ser reduzida a escrito.\n\n2 - Considera-se reduzida a escrito a convenção de arbitragem constante ou de documento assinado pelas partes, ou de troca de cartas, telex, telegramas ou outros meios de telecomunicação de que fique prova escrita, quer esses instrumentos contenham directamente a convenção, quer deles conste cláusula de remissão para algum documento em que uma convenção esteja contida.\n\n3 - O compromisso arbitral deve determinar com precisão o objecto do litígio; a cláusula compromissória deve especificar a relação jurídica a que os litígios respeitem.\n\n4 - A convenção de arbitragem pode ser revogada, até à pronúncia da decisão arbitral, por escrito assinado pelas partes."
+  },
+  "46199675": {
+   "fragment_id": "36786175",
+   "type": 11,
+   "heading": "Artigo 3.º — (Nulidade da convenção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Nulidade da convenção)\n\nÉ nula a convenção de arbitragem celebrada com violação do disposto nos artigos 1.º, n.os 1 e 4, e 2.º, n.os 1 e 2."
+  },
+  "46199775": {
+   "fragment_id": "36786275",
+   "type": 11,
+   "heading": "Artigo 4.º — (Caducidade da convenção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Caducidade da convenção)\n\n1 - O compromisso arbitral caduca e a cláusula compromissória fica sem efeito, quanto ao litígio considerado:\n\na) Se algum dos árbitros designados falecer, se escusar ou se impossibilitar permanentemente para o exercício da função ou se a designação ficar sem efeito, desde que não seja substituído nos termos previstos no artigo 13.º;\n\nb) Se, tratando-se de tribunal colectivo, não puder formar-se maioria na deliberação dos árbitros;\n\nc) Se a decisão não for proferida no prazo estabelecido de acordo com o disposto no artigo 19.º\n\n2 - Salvo convenção em contrário, a morte ou extinção das partes não faz caducar a convenção de arbitragem nem extinguir a instância no tribunal arbitral."
+  },
+  "46199875": {
+   "fragment_id": "36786375",
+   "type": 11,
+   "heading": "Artigo 5.º — (Encargos do processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Encargos do processo)\n\nA remuneração dos árbitros e dos outros intervenientes no processo, bem como a sua repartição entre as partes, deve ser fixada na convenção de arbitragem ou em documento posterior subscrito pelas partes, a menos que resultem dos regulamentos de arbitragem escolhidos nos termos do artigo 15.º"
+  },
+  "46199975": {
+   "fragment_id": "35458775",
+   "type": 1,
+   "heading": "Capítulo II — Dos árbitros e do tribunal arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos árbitros e do tribunal arbitral"
+  },
+  "46200075": {
+   "fragment_id": "36786475",
+   "type": 11,
+   "heading": "Artigo 6.º — (Composição do tribunal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Composição do tribunal)\n\n1 - O tribunal arbitral poderá ser constituído por um único árbitro ou por vários, em número ímpar.\n\n2 - Se o número de membros do tribunal arbitral não for fixado na convenção de arbitragem ou em escrito posterior assinado pelas partes, nem deles resultar, o tribunal será composto por três árbitros."
+  },
+  "46200175": {
+   "fragment_id": "36786575",
+   "type": 11,
+   "heading": "Artigo 7.º — (Designação dos árbitros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Designação dos árbitros)\n\n1 - Na convenção de arbitragem ou em escrito posterior por elas assinado, devem as partes designar o árbitro ou árbitros que constituirão o tribunal, ou fixar o modo por que serão escolhidos.\n\n2 - Se as partes não tiverem designado o árbitro ou os árbitros nem fixado o modo da sua escolha, e não houver acordo entre elas quanto a essa designação, cada uma indicará um árbitro, a menos que acordem em que cada uma delas indique mais de um em número igual, cabendo aos árbitros assim designados a escolha do árbitro que deve completar a constituição do tribunal."
+  },
+  "46200275": {
+   "fragment_id": "36786675",
+   "type": 11,
+   "heading": "Artigo 8.º — (Árbitros: requisitos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Árbitros: requisitos)\n\nOs árbitros devem ser pessoas singulares e plenamente capazes."
+  },
+  "46200375": {
+   "fragment_id": "36786775",
+   "type": 11,
+   "heading": "Artigo 9.º — (Liberdade de aceitação; escusa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Liberdade de aceitação; escusa)\n\n1 - Ninguém pode ser obrigado a funcionar como árbitro; mas, se o encargo tiver sido aceite, só será legítima a escusa fundada em causa superveniente que impossibilite o designado de exercer a função.\n\n2 - Considera-se aceite o encargo sempre que a pessoa designada revele a intenção de agir como árbitro ou não declare, por escrito dirigido a qualquer das partes, dentro dos dez dias subsequentes à comunicação da designação, que não quer exercer a função.\n\n3 - O árbitro que, tendo aceitado o encargo, se escusar injustificadamente ao exercício da sua função responde pelos danos a que der causa."
+  },
+  "46200475": {
+   "fragment_id": "36786875",
+   "type": 11,
+   "heading": "Artigo 10.º — (Impedimentos e recusas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Impedimentos e recusas)\n\n1 - Aos árbitros não nomeados por acordo das partes é aplicável o regime de impedimentos e escusas estabelecido na lei de processo civil para os juízes.\n\n2 - A parte não pode recusar o árbitro por ela designado, salvo ocorrência de causa superveniente de impedimento ou escusa, nos termos do número anterior."
+  },
+  "46200575": {
+   "fragment_id": "36786975",
+   "type": 11,
+   "heading": "Artigo 11.º — (Constituição tribunal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Constituição tribunal)\n\n1 - A parte que pretenda instaurar o litígio no tribunal arbitral deve notificar desse facto a parte contrária.\n\n2 - A notificação é feita por carta registada com aviso de recepção.\n\n3 - A notificação deve indicar a convenção de arbitragem e precisar o objecto do litígio, se ele não resultar já determinado da convenção.\n\n4 - Se às partes couber designar um ou mais árbitros, a notificação conterá a designação do árbitro ou árbitros pela parte que se propõe instaurar a acção, bem como o convite dirigido à outra parte para designar o árbitro ou árbitros que lhe cabe indicar.\n\n5 - Se o árbitro único dever ser designado por acordo das duas partes, a notificação conterá a indicação do árbitro proposto e o convite à outra parte para que o aceite.\n\n6 - Caso pertença a terceiro a designação de um ou mais árbitros e tal designação não haja ainda sido feita, será o terceiro notificado para a efectuar e a comunicar a ambas as partes."
+  },
+  "46200675": {
+   "fragment_id": "36787075",
+   "type": 11,
+   "heading": "Artigo 12.º — (Nomeação de árbitros e determinação do objecto do litígio pelo tribunal judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Nomeação de árbitros e determinação do objecto do litígio pelo tribunal judicial)\n\n1 - Em todos os casos em que falte nomeação de árbitro ou árbitros, em conformidade com o disposto nos artigos anteriores, caberá essa nomeação ao presidente do tribunal da relação do lugar fixado para a arbitragem ou, na falta de tal fixação, do domicílio do requerente.\n\n2 - A nomeação pode ser requerida passado um mês sobre a notificação prevista no artigo 11.º, n.º 1, no caso contemplado nos n.os 4 e 5 desse artigo, ou no prazo de um mês a contar da nomeação do último dos árbitros a quem compete a escolha, no caso referido no artigo 7.º, n.º 2.\n\n3 - As nomeações feitas nos termos dos números anteriores não são susceptíveis de impugnação.\n\n4 - Se no prazo referido no n.º 2 as partes não chegarem a acordo sobre a determinação do objecto do litígio, caberá ao tribunal decidir. Desta decisão cabe recurso de agravo, a subir imediatamente.\n\n5 - Se a convenção de arbitragem for manifestamente nula, deve o tribunal declarar não haver lugar à designação de árbitros ou à determinação do objecto do litígio."
+  },
+  "46200775": {
+   "fragment_id": "36787175",
+   "type": 11,
+   "heading": "Artigo 13.º — (Substituição dos árbitros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Substituição dos árbitros)\n\nSe algum dos árbitros falecer, se escusar ou se impossibilitar permanentemente para o exercício das funções ou se a designação ficar sem efeito, proceder-se-á à sua substituição segundo as regras aplicáveis à nomeação ou designação, com as necessárias adaptações."
+  },
+  "46200875": {
+   "fragment_id": "36787275",
+   "type": 11,
+   "heading": "Artigo 14.º — (Presidente do tribunal arbitral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Presidente do tribunal arbitral)\n\n1 - Sendo o tribunal constituído por mais de um árbitro, escolherão eles entre si o presidente, a menos que as partes tenham acordado, por escrito, até à aceitação do primeiro árbitro, noutra solução.\n\n2 - Não sendo possível a designação do presidente nos termos do número anterior, caberá a escolha ao presidente do tribunal da relação.\n\n3 - Compete ao presidente do tribunal arbitral preparar o processo, dirigir a instrução, conduzir os trabalhos das audiências e ordenar os debates, salvo convenção em contrário."
+  },
+  "46200975": {
+   "fragment_id": "35458875",
+   "type": 1,
+   "heading": "Capítulo III — Do funcionamento da arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do funcionamento da arbitragem"
+  },
+  "46201075": {
+   "fragment_id": "36787375",
+   "type": 11,
+   "heading": "Artigo 15.º — (Regras de processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Regras de processo)\n\n1 - Na convenção de arbitragem ou em escrito posterior, até à aceitação do primeiro árbitro, podem as partes acordar sobre as regras de processo a observar na arbitragem, bem como sobre o lugar onde funcionará o tribunal.\n\n2 - O acordo das partes sobre a matéria referida no número anterior pode resultar da escolha de um regulamento de arbitragem emanado de uma das entidades a que se reporta o artigo 38.º ou ainda da escolha de uma dessas entidades para a organização da arbitragem.\n\n3 - Se as partes não tiverem acordado sobre as regras de processo a observar na arbitragem e sobre o lugar de funcionamento do tribunal, caberá aos árbitros essa escolha."
+  },
+  "46201175": {
+   "fragment_id": "36787475",
+   "type": 11,
+   "heading": "Artigo 16.º — (Princípios fundamentais a observar no processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Princípios fundamentais a observar no processo)\n\nEm qualquer caso, os trâmites processuais da arbitragem deverão respeitar os seguintes princípios fundamentais:\n\na) As partes serão tratadas com absoluta igualdade;\n\nb) O demandado será citado para se defender;\n\nc) Em todas as fases do processo será garantida a estreita observância do princípio do contraditório;\n\nd) Ambas as partes devem ser ouvidas, oralmente ou por escrito, antes de ser proferida a decisão final."
+  },
+  "46201275": {
+   "fragment_id": "36787575",
+   "type": 11,
+   "heading": "Artigo 17.º — (Representação das partes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Representação das partes)\n\nAs partes podem designar quem as represente ou assista em tribunal."
+  },
+  "46201375": {
+   "fragment_id": "36787675",
+   "type": 11,
+   "heading": "Artigo 18.º — (Provas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Provas)\n\n1 - Pode ser produzida perante o tribunal arbitral qualquer prova admitida pela lei de processo civil.\n\n2 - Quando a prova a produzir dependa da vontade de uma das partes ou de terceiro e estes recusem a necessária colaboração, pode a parte interessada, uma vez obtida autorização do tribunal arbitral, requerer ao tribunal judicial que a prova seja produzida perante ele, sendo os seus resultados àquele primeiro tribunal."
+  },
+  "46201475": {
+   "fragment_id": "35458975",
+   "type": 1,
+   "heading": "Capítulo IV — Da decisão arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da decisão arbitral"
+  },
+  "46201575": {
+   "fragment_id": "36787775",
+   "type": 11,
+   "heading": "Artigo 19.º — (Prazo para a decisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Prazo para a decisão)\n\n1 - Na convenção de arbitragem ou em escrito posterior, até à aceitação do primeiro árbitro, podem as partes fixar o prazo para a decisão do tribunal arbitral ou o modo de estabelecimento desse prazo.\n\n2 - Será de seis meses o prazo para a decisão, se outra coisa não resultar do acordo das partes, nos termos do número anterior.\n\n3 - O prazo a que se referem os n.os 1 e 2 conta-se a partir da data da designação do último árbitro, salvo convenção em contrário.\n\n4 - Por acordo escrito das partes, poderá o prazo da decisão ser prorrogado até ao dobro da sua duração inicial.\n\n5 - Os árbitros que injustificadamente obstarem a que a decisão seja proferida dentro do prazo fixado respondem pelos danos causados."
+  },
+  "46201675": {
+   "fragment_id": "36787875",
+   "type": 11,
+   "heading": "Artigo 20.º — (Deliberação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Deliberação)\n\n1 - Sendo o tribunal composto por mais de um membro, a decisão é tomada por maioria de votos, em deliberação em que todos os árbitros devem participar, salvo se as partes, na convenção de arbitragem ou em acordo escrito posterior, celebrado até à aceitação do primeiro árbitro, exigirem uma maioria qualificada.\n\n2 - Podem ainda as partes convencionar que, não se tendo formado a maioria necessária, a decisão seja tomada unicamente pelo presidente ou que a questão se considere decidida no sentido do voto do presidente.\n\n3 - No caso de não se formar a maioria necessária apenas por divergências quanto ao montante de condenação em dinheiro, a questão considera-se decidida no sentido do voto do presidente, salvo diferente convenção das partes."
+  },
+  "46201775": {
+   "fragment_id": "36787975",
+   "type": 11,
+   "heading": "Artigo 21.º — (Decisão sobre a própria competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Decisão sobre a própria competência)\n\n1 - O tribunal arbitral pode pronunciar-se sobre a sua própria competência, mesmo que para esse fim seja necessário apreciar a existência, a validade ou a eficácia da convenção de arbitragem ou do contrato em que ela se insira, ou a aplicabilidade da referida convenção.\n\n2 - A nulidade do contrato em que se insira uma convenção de arbitragem não acarreta a nulidade desta, salvo quando se mostre que ele não teria sido concluído sem a referida convenção.\n\n3 - A incompetência do tribunal arbitral só pode ser arguida até à apresentação da defesa quanto ao fundo da causa, ou juntamente com esta.\n\n4 - A decisão pela qual o tribunal arbitral se declara competente só pode ser apreciada pelo tribunal judicial depois de proferida a decisão sobre o fundo da causa e pelos meios especificados nos artigos 27.º e 21.º"
+  },
+  "46201875": {
+   "fragment_id": "36788075",
+   "type": 11,
+   "heading": "Artigo 22.º — (Direito aplicável; recurso à equidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Direito aplicável; recurso à equidade)\n\nOs árbitros julgam segundo o direito constituído, a menos que as partes, na convenção de arbitragem ou em documento subscrito até à aceitação do primeiro árbitro, os autorizem a julgar segundo a equidade."
+  },
+  "46201975": {
+   "fragment_id": "36788175",
+   "type": 11,
+   "heading": "Artigo 23.º — (Elementos de decisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Elementos de decisão)\n\n1 - A decisão final do tribunal arbitral é reduzida a escrito e dela constará:\n\na) A identificação das partes;\n\nb) A referência à convenção de arbitragem;\n\nc) O objecto do litígio;\n\nd) A identificação dos árbitros;\n\ne) O lugar da arbitragem e o local e a data em que a decisão foi proferida;\n\nf) A assinatura dos árbitros;\n\ng) A indicação dos árbitros que não puderem ou não quiserem assinar.\n\n2 - A decisão deve conter um número de assinaturas pelo menos igual ao da maioria dos árbitros e incluirá os votos de vencido, devidamente identificados.\n\n3 - A decisão deve ser fundamentada.\n\n4 - Da decisão constará a fixação e repartição pelas partes dos encargos resultantes do processo."
+  },
+  "46202075": {
+   "fragment_id": "36788275",
+   "type": 11,
+   "heading": "Artigo 24.º — (Notificação e depósito da decisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Notificação e depósito da decisão)\n\n1 - O presidente do tribunal mandará notificar a decisão a cada uma das partes, mediante a remessa de um exemplar dela, por carta registada.\n\n2 - O original da decisão é depositado na secretaria do tribunal judicial do lugar da arbitragem, a menos que na convenção de arbitragem ou em escrito posterior as partes tenham dispensado tal depósito ou que, nas arbitragens institucionalizadas, o respectivo regulamento preveja outra modalidade de depósito.\n\n3 - O presidente do tribunal arbitral notificará as partes do depósito da decisão."
+  },
+  "46202175": {
+   "fragment_id": "36788375",
+   "type": 11,
+   "heading": "Artigo 25.º — (Extinção do poder dos árbitros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Extinção do poder dos árbitros)\n\nO poder jurisdicional dos árbitros finda com a notificação do depósito da decisão que pôs termo ao litígio ou, quando tal depósito seja dispensado, com a notificação da decisão às partes."
+  },
+  "46202275": {
+   "fragment_id": "36788475",
+   "type": 11,
+   "heading": "Artigo 26.º — (Caso julgado e força executiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Caso julgado e força executiva)\n\n1 - A decisão arbitral, notificada às partes e, se for caso disso, depositada no tribunal judicial nos termos do artigo 24.º, considera-se transitada em julgado logo que não seja susceptível de recurso ordinário.\n\n2 - A decisão arbitral tem a mesma força executiva que a sentença do tribunal judicial de 1.ª instância."
+  },
+  "46202375": {
+   "fragment_id": "35459075",
+   "type": 1,
+   "heading": "Capítulo V — Impugnação da decisão arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Impugnação da decisão arbitral"
+  },
+  "46202475": {
+   "fragment_id": "36788575",
+   "type": 11,
+   "heading": "Artigo 27.º — (Anulação da decisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Anulação da decisão)\n\n1 - A sentença arbitral só pode ser anulada pelo tribunal judicial por algum dos seguintes fundamentos:\n\na) Não ser o litígio susceptível de resolução por via arbitral;\n\nb) Ter sido proferida por tribunal incompetente ou irregularmente constituído;\n\nc) Ter havido no processo violação dos princípios referidos no artigo 16.º, com influência decisiva na resolução do litígio;\n\nd) Ter havido violação do artigo 23.º, n.os 1, alínea f), 2 e 3;\n\ne) Ter o tribunal conhecido de questões de que não podia tomar conhecimento, ou ter deixado de pronunciar-se sobre questões que devia apreciar.\n\n2 - O fundamento de anulação previsto na alínea b) do número anterior não pode ser invocado pela parte que dele teve conhecimento no decurso da arbitragem e que, podendo fazê-lo, não o alegou oportunamente.\n\n3 - Se da sentença arbitral couber recurso e ele for interposto, a anulabilidade só poderá ser apreciada no âmbito desse recurso."
+  },
+  "46202575": {
+   "fragment_id": "36788675",
+   "type": 11,
+   "heading": "Artigo 28.º — (Direito de requerer a anulação; prazo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Direito de requerer a anulação; prazo)\n\n1 - O direito de requerer a anulação da decisão dos árbitros é irrenunciável.\n\n2 - A acção de anulação pode ser intentada no prazo de um mês a contar da notificação da decisão arbitral."
+  },
+  "46202675": {
+   "fragment_id": "36788775",
+   "type": 11,
+   "heading": "Artigo 29.º — (Recursos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Recursos)\n\n1 - Se as partes não tiverem renunciado aos recursos, da decisão arbitral cabem para o tribunal da relação os mesmos recursos que caberiam da sentença proferida pelo tribunal de comarca.\n\n2 - A autorização dada aos árbitros para julgarem segundo a equidade envolve a renúncia aos recursos."
+  },
+  "46202775": {
+   "fragment_id": "35459175",
+   "type": 1,
+   "heading": "Capítulo VI — Execução da decisão arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Execução da decisão arbitral"
+  },
+  "46202875": {
+   "fragment_id": "36788875",
+   "type": 11,
+   "heading": "Artigo 30.º — (Execução da decisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Execução da decisão)\n\nA execução da decisão arbitral corre no tribunal de 1.ª instância, nos termos da lei de processo civil."
+  },
+  "46202975": {
+   "fragment_id": "36788975",
+   "type": 11,
+   "heading": "Artigo 31.º — (Oposição à execução)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Oposição à execução)\n\nO decurso do prazo para intentar a acção de anulação não obsta a que se invoquem os seus fundamentos em via de oposição à execução da decisão arbitral."
+  },
+  "46203075": {
+   "fragment_id": "35459275",
+   "type": 1,
+   "heading": "Capítulo VII — Da arbitragem internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Da arbitragem internacional"
+  },
+  "46203175": {
+   "fragment_id": "36789075",
+   "type": 11,
+   "heading": "Artigo 32.º — (Conceito de arbitragem internacional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Conceito de arbitragem internacional)\n\nEntende-se por arbitragem internacional a que põe em jogo interesses de comércio internacional."
+  },
+  "46203275": {
+   "fragment_id": "36789175",
+   "type": 11,
+   "heading": "Artigo 33.º — (Direito aplicável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Direito aplicável)\n\n1 - As partes podem escolher o direito a aplicar pelos árbitros, se os não tiverem autorizado a julgar segundo a equidade.\n\n2 - Na falta de escolha, o tribunal aplica o direito mais apropriado ao litígio."
+  },
+  "46203375": {
+   "fragment_id": "36789275",
+   "type": 11,
+   "heading": "Artigo 34.º — (Recursos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Recursos)\n\nTratando-se de arbitragem internacional, a decisão do tribunal não é recorrível, salvo se as partes tiveram acordado a possibilidade de recurso e regulado os seus termos."
+  },
+  "46203475": {
+   "fragment_id": "36789375",
+   "type": 11,
+   "heading": "Artigo 35.º — (Composição amigável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Composição amigável)\n\nSe as partes lhe tiverem confiado essa função, o tribunal poderá decidir o litígio por apelo à composição das partes na base do equilíbrio dos interesses em jogo."
+  },
+  "46203575": {
+   "fragment_id": "35459375",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "46203675": {
+   "fragment_id": "36789475",
+   "type": 11,
+   "heading": "Artigo 36.º — (Alterações ao Código de Processo Civil)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Alterações ao Código de Processo Civil)\n\nSão alterados e substituídos nos termos deste artigo os seguintes preceitos do Código de Processo Civil:\n\nArtigo 90.º\n\n[...]\n\n1 - ...\n\n2 - Se a decisão tiver sido proferida por árbitros em arbitragem que tenha tido lugar em território português, é competente para a execução o tribunal da comarca do lugar da arbitragem.\n\nArtigo 814.º\n\n(Execução baseada em decisão arbitral)\n\n1 - São fundamentos de oposição à execução baseada em sentença arbitral não só os previstos no artigo anterior mas também aqueles em que pode basear-se a anulação judicial da mesma decisão.\n\n2 - O tribunal indeferirá oficiosamente o pedido de execução quando reconhecer que o litígio não podia ser cometido à decisão por árbitros, quer por estar submetido, por lei especial, exclusivamente a tribunal judicial ou a arbitragem necessária, quer por o direito litigioso não ser disponível pelo seu titular."
+  },
+  "46203775": {
+   "fragment_id": "36789575",
+   "type": 11,
+   "heading": "Artigo 37.º — (Âmbito de aplicação no espaço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Âmbito de aplicação no espaço)\n\nO presente diploma aplica-se às arbitragens que tenham lugar em território nacional."
+  },
+  "46203875": {
+   "fragment_id": "36789675",
+   "type": 11,
+   "heading": "Artigo 38.º — (Arbitragem Institucionalizada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Arbitragem Institucionalizada)\n\nO Governo definirá, mediante decreto-lei, o regime da outorga de competência a determinadas entidades para realizarem arbitragens voluntárias institucionalizadas, com especificação, em cada caso, do carácter especializado ou geral de tais arbitragens, bem como as regras de reapreciação e eventual revogação das autorizações concedidas, quando tal se justifique."
+  },
+  "46203975": {
+   "fragment_id": "36789775",
+   "type": 11,
+   "heading": "Artigo 39.º — (Direito revogado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Direito revogado)\n\n1 - É revogado o Decreto-Lei n.º 243/84, de 17 de Julho.\n\n2 - É revogado o artigo 55.º do Código das Custas Judiciais.\n\n3 - É revogado o título I do livro IV, «Do tribunal arbitral voluntário», do Código de Processo Civil."
+  },
+  "46204075": {
+   "fragment_id": "36789875",
+   "type": 11,
+   "heading": "Artigo 40.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Entrada em vigor)\n\nO presente sente diploma entra em vigor três meses após sua publicação."
+  },
+  "858634153": {
+   "fragment_id": "36786975",
+   "type": 11,
+   "heading": "Artigo 11.º — Constituição do tribunal",
+   "in_force_from": "2003-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15"
+   ],
+   "markdown": "###### Artigo 11.º — Constituição do tribunal\n\n1 - A parte que pretenda instaurar o litígio no tribunal arbitral deve notificar desse facto a parte contrária.\n\n2 - A notificação é feita por carta registada com aviso de recepção.\n\n3 - A notificação deve indicar a convenção de arbitragem e, se ele não resultar já determinado da convenção, precisar o objecto do litígio, sem prejuízo da sua ampliação pela parte contrária.\n\n4 - Se às partes couber designar um ou mais árbitros, a notificação conterá a designação do árbitro ou árbitros pela parte que se propõe instaurar a acção, bem como o convite dirigido à outra parte para designar o árbitro ou árbitros que lhe cabe indicar.\n\n5 - Se o árbitro único dever ser designado por acordo das duas partes, a notificação conterá a indicação do árbitro proposto e o convite à outra parte para que o aceite.\n\n6 - Caso pertença a terceiro a designação de um ou mais árbitros e tal designação não haja ainda sido feita, será o terceiro notificado para a efectuar e a comunicar a ambas as partes.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15"
+  },
+  "858634154": {
+   "fragment_id": "36787075",
+   "type": 11,
+   "heading": "Artigo 12.º — Nomeação de árbitros pelo presidente do tribunal da relação",
+   "in_force_from": "2003-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15"
+   ],
+   "markdown": "###### Artigo 12.º — Nomeação de árbitros pelo presidente do tribunal da relação\n\n1 - Em todos os casos em que falte nomeação de árbitro ou árbitros, em conformidade com o disposto nos artigos anteriores, caberá essa nomeação ao presidente do tribunal da relação do lugar fixado para a arbitragem ou, na falta de tal fixação, do domicílio do requerente.\n\n2 - A nomeação pode ser requerida passado um mês sobre a notificação prevista no artigo 11.º, n.º 1, no caso contemplado nos n.os 4 e 5 desse artigo, ou no prazo de um mês a contar da nomeação do último dos árbitros a quem compete a escolha, no caso referido no artigo 7.º, n.º 2.\n\n3 - As nomeações feitas nos termos dos números anteriores não são susceptíveis de impugnação.\n\n4 - Se a convenção de arbitragem for manifestamente nula, deve o presidente do tribunal da relação declarar não haver lugar à designação de árbitros; da decisão cabe reclamação para a conferência, precedendo distribuição, e do acórdão que esta proferir cabe recurso, nos termos gerais.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15"
+  },
+  "46204175": {
+   "fragment_id": "35459475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 24 de Julho de 1986.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 16 de Agosto de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 19 de Agosto de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva"
+  },
+  "858641501": {
+   "fragment_id": "36785975",
+   "type": 11,
+   "heading": "Artigo 1.º — (Convenção de arbitragem)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 1.º — (Convenção de arbitragem)\n\n1 - Desde que por lei especial não esteja submetido exclusivamente a tribunal judicial ou a arbitragem necessária, qualquer litígio que não respeite a direitos indisponíveis pode ser cometido pelas partes, mediante convenção de arbitragem, à decisão de árbitros.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Nota: [Artigo 5.º, Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578) O disposto no n.º 1 mantém-se em vigor relativamente à arbitragem de litígios emergentes de ou relativos a contratos de trabalho.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634155": {
+   "fragment_id": "36786075",
+   "type": 11,
+   "heading": "Artigo 2.º — (Requisitos da convenção; revogação)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — (Requisitos da convenção; revogação)\n\n1 - A convenção de arbitragem deve ser reduzida a escrito.\n\n2 - Considera-se reduzida a escrito a convenção de arbitragem constante ou de documento assinado pelas partes, ou de troca de cartas, telex, telegramas ou outros meios de telecomunicação de que fique prova escrita, quer esses instrumentos contenham directamente a convenção, quer deles conste cláusula de remissão para algum documento em que uma convenção esteja contida.\n\n3 - O compromisso arbitral deve determinar com precisão o objecto do litígio; a cláusula compromissória deve especificar a relação jurídica a que os litígios respeitem.\n\n4 - A convenção de arbitragem pode ser revogada, até à pronúncia da decisão arbitral, por escrito assinado pelas partes.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634156": {
+   "fragment_id": "36786175",
+   "type": 11,
+   "heading": "Artigo 3.º — (Nulidade da convenção)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 3.º — (Nulidade da convenção)\n\nÉ nula a convenção de arbitragem celebrada com violação do disposto nos artigos 1.º, n.os 1 e 4, e 2.º, n.os 1 e 2.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634157": {
+   "fragment_id": "36786275",
+   "type": 11,
+   "heading": "Artigo 4.º — (Caducidade da convenção)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 4.º — (Caducidade da convenção)\n\n1 - O compromisso arbitral caduca e a cláusula compromissória fica sem efeito, quanto ao litígio considerado:\n\na) Se algum dos árbitros designados falecer, se escusar ou se impossibilitar permanentemente para o exercício da função ou se a designação ficar sem efeito, desde que não seja substituído nos termos previstos no artigo 13.º;\n\nb) Se, tratando-se de tribunal colectivo, não puder formar-se maioria na deliberação dos árbitros;\n\nc) Se a decisão não for proferida no prazo estabelecido de acordo com o disposto no artigo 19.º\n\n2 - Salvo convenção em contrário, a morte ou extinção das partes não faz caducar a convenção de arbitragem nem extinguir a instância no tribunal arbitral.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634158": {
+   "fragment_id": "36786375",
+   "type": 11,
+   "heading": "Artigo 5.º — (Encargos do processo)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 5.º — (Encargos do processo)\n\nA remuneração dos árbitros e dos outros intervenientes no processo, bem como a sua repartição entre as partes, deve ser fixada na convenção de arbitragem ou em documento posterior subscrito pelas partes, a menos que resultem dos regulamentos de arbitragem escolhidos nos termos do artigo 15.º\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634159": {
+   "fragment_id": "35458775",
+   "type": 1,
+   "heading": "Capítulo II — Dos árbitros e do tribunal arbitral",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "### Capítulo II — Dos árbitros e do tribunal arbitral\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634160": {
+   "fragment_id": "36786475",
+   "type": 11,
+   "heading": "Artigo 6.º — (Composição do tribunal)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 6.º — (Composição do tribunal)\n\n1 - O tribunal arbitral poderá ser constituído por um único árbitro ou por vários, em número ímpar.\n\n2 - Se o número de membros do tribunal arbitral não for fixado na convenção de arbitragem ou em escrito posterior assinado pelas partes, nem deles resultar, o tribunal será composto por três árbitros.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634161": {
+   "fragment_id": "36786575",
+   "type": 11,
+   "heading": "Artigo 7.º — (Designação dos árbitros)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 7.º — (Designação dos árbitros)\n\n1 - Na convenção de arbitragem ou em escrito posterior por elas assinado, devem as partes designar o árbitro ou árbitros que constituirão o tribunal, ou fixar o modo por que serão escolhidos.\n\n2 - Se as partes não tiverem designado o árbitro ou os árbitros nem fixado o modo da sua escolha, e não houver acordo entre elas quanto a essa designação, cada uma indicará um árbitro, a menos que acordem em que cada uma delas indique mais de um em número igual, cabendo aos árbitros assim designados a escolha do árbitro que deve completar a constituição do tribunal.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634162": {
+   "fragment_id": "36786675",
+   "type": 11,
+   "heading": "Artigo 8.º — (Árbitros: requisitos)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 8.º — (Árbitros: requisitos)\n\nOs árbitros devem ser pessoas singulares e plenamente capazes.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634163": {
+   "fragment_id": "36786775",
+   "type": 11,
+   "heading": "Artigo 9.º — (Liberdade de aceitação; escusa)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 9.º — (Liberdade de aceitação; escusa)\n\n1 - Ninguém pode ser obrigado a funcionar como árbitro; mas, se o encargo tiver sido aceite, só será legítima a escusa fundada em causa superveniente que impossibilite o designado de exercer a função.\n\n2 - Considera-se aceite o encargo sempre que a pessoa designada revele a intenção de agir como árbitro ou não declare, por escrito dirigido a qualquer das partes, dentro dos dez dias subsequentes à comunicação da designação, que não quer exercer a função.\n\n3 - O árbitro que, tendo aceitado o encargo, se escusar injustificadamente ao exercício da sua função responde pelos danos a que der causa.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634164": {
+   "fragment_id": "36786875",
+   "type": 11,
+   "heading": "Artigo 10.º — (Impedimentos e recusas)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 10.º — (Impedimentos e recusas)\n\n1 - Aos árbitros não nomeados por acordo das partes é aplicável o regime de impedimentos e escusas estabelecido na lei de processo civil para os juízes.\n\n2 - A parte não pode recusar o árbitro por ela designado, salvo ocorrência de causa superveniente de impedimento ou escusa, nos termos do número anterior.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634165": {
+   "fragment_id": "36786975",
+   "type": 11,
+   "heading": "Artigo 11.º — Constituição do tribunal",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15"
+   ],
+   "markdown": "###### Artigo 11.º — Constituição do tribunal\n\n1 - A parte que pretenda instaurar o litígio no tribunal arbitral deve notificar desse facto a parte contrária.\n\n2 - A notificação é feita por carta registada com aviso de recepção.\n\n3 - A notificação deve indicar a convenção de arbitragem e, se ele não resultar já determinado da convenção, precisar o objecto do litígio, sem prejuízo da sua ampliação pela parte contrária.\n\n4 - Se às partes couber designar um ou mais árbitros, a notificação conterá a designação do árbitro ou árbitros pela parte que se propõe instaurar a acção, bem como o convite dirigido à outra parte para designar o árbitro ou árbitros que lhe cabe indicar.\n\n5 - Se o árbitro único dever ser designado por acordo das duas partes, a notificação conterá a indicação do árbitro proposto e o convite à outra parte para que o aceite.\n\n6 - Caso pertença a terceiro a designação de um ou mais árbitros e tal designação não haja ainda sido feita, será o terceiro notificado para a efectuar e a comunicar a ambas as partes.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15"
+  },
+  "858634166": {
+   "fragment_id": "36787075",
+   "type": 11,
+   "heading": "Artigo 12.º — Nomeação de árbitros pelo presidente do tribunal da relação",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15"
+   ],
+   "markdown": "###### Artigo 12.º — Nomeação de árbitros pelo presidente do tribunal da relação\n\n1 - Em todos os casos em que falte nomeação de árbitro ou árbitros, em conformidade com o disposto nos artigos anteriores, caberá essa nomeação ao presidente do tribunal da relação do lugar fixado para a arbitragem ou, na falta de tal fixação, do domicílio do requerente.\n\n2 - A nomeação pode ser requerida passado um mês sobre a notificação prevista no artigo 11.º, n.º 1, no caso contemplado nos n.os 4 e 5 desse artigo, ou no prazo de um mês a contar da nomeação do último dos árbitros a quem compete a escolha, no caso referido no artigo 7.º, n.º 2.\n\n3 - As nomeações feitas nos termos dos números anteriores não são susceptíveis de impugnação.\n\n4 - Se a convenção de arbitragem for manifestamente nula, deve o presidente do tribunal da relação declarar não haver lugar à designação de árbitros; da decisão cabe reclamação para a conferência, precedendo distribuição, e do acórdão que esta proferir cabe recurso, nos termos gerais.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 38/2003 - Diário da República n.º 57/2003, Série I-A de 2003-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2003-220944), em vigor a partir de 2003-09-15"
+  },
+  "858634167": {
+   "fragment_id": "36787175",
+   "type": 11,
+   "heading": "Artigo 13.º — (Substituição dos árbitros)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 13.º — (Substituição dos árbitros)\n\nSe algum dos árbitros falecer, se escusar ou se impossibilitar permanentemente para o exercício das funções ou se a designação ficar sem efeito, proceder-se-á à sua substituição segundo as regras aplicáveis à nomeação ou designação, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634168": {
+   "fragment_id": "36787275",
+   "type": 11,
+   "heading": "Artigo 14.º — (Presidente do tribunal arbitral)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 14.º — (Presidente do tribunal arbitral)\n\n1 - Sendo o tribunal constituído por mais de um árbitro, escolherão eles entre si o presidente, a menos que as partes tenham acordado, por escrito, até à aceitação do primeiro árbitro, noutra solução.\n\n2 - Não sendo possível a designação do presidente nos termos do número anterior, caberá a escolha ao presidente do tribunal da relação.\n\n3 - Compete ao presidente do tribunal arbitral preparar o processo, dirigir a instrução, conduzir os trabalhos das audiências e ordenar os debates, salvo convenção em contrário.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634169": {
+   "fragment_id": "35458875",
+   "type": 1,
+   "heading": "Capítulo III — Do funcionamento da arbitragem",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "### Capítulo III — Do funcionamento da arbitragem\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634170": {
+   "fragment_id": "36787375",
+   "type": 11,
+   "heading": "Artigo 15.º — (Regras de processo)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 15.º — (Regras de processo)\n\n1 - Na convenção de arbitragem ou em escrito posterior, até à aceitação do primeiro árbitro, podem as partes acordar sobre as regras de processo a observar na arbitragem, bem como sobre o lugar onde funcionará o tribunal.\n\n2 - O acordo das partes sobre a matéria referida no número anterior pode resultar da escolha de um regulamento de arbitragem emanado de uma das entidades a que se reporta o artigo 38.º ou ainda da escolha de uma dessas entidades para a organização da arbitragem.\n\n3 - Se as partes não tiverem acordado sobre as regras de processo a observar na arbitragem e sobre o lugar de funcionamento do tribunal, caberá aos árbitros essa escolha.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634171": {
+   "fragment_id": "36787475",
+   "type": 11,
+   "heading": "Artigo 16.º — (Princípios fundamentais a observar no processo)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 16.º — (Princípios fundamentais a observar no processo)\n\nEm qualquer caso, os trâmites processuais da arbitragem deverão respeitar os seguintes princípios fundamentais:\n\na) As partes serão tratadas com absoluta igualdade;\n\nb) O demandado será citado para se defender;\n\nc) Em todas as fases do processo será garantida a estreita observância do princípio do contraditório;\n\nd) Ambas as partes devem ser ouvidas, oralmente ou por escrito, antes de ser proferida a decisão final.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634172": {
+   "fragment_id": "36787575",
+   "type": 11,
+   "heading": "Artigo 17.º — (Representação das partes)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 17.º — (Representação das partes)\n\nAs partes podem designar quem as represente ou assista em tribunal.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634173": {
+   "fragment_id": "36787675",
+   "type": 11,
+   "heading": "Artigo 18.º — (Provas)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 18.º — (Provas)\n\n1 - Pode ser produzida perante o tribunal arbitral qualquer prova admitida pela lei de processo civil.\n\n2 - Quando a prova a produzir dependa da vontade de uma das partes ou de terceiro e estes recusem a necessária colaboração, pode a parte interessada, uma vez obtida autorização do tribunal arbitral, requerer ao tribunal judicial que a prova seja produzida perante ele, sendo os seus resultados àquele primeiro tribunal.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858634174": {
+   "fragment_id": "35458975",
+   "type": 1,
+   "heading": "Capítulo IV — Da decisão arbitral",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "### Capítulo IV — Da decisão arbitral\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641475": {
+   "fragment_id": "36787775",
+   "type": 11,
+   "heading": "Artigo 19.º — (Prazo para a decisão)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 19.º — (Prazo para a decisão)\n\n1 - Na convenção de arbitragem ou em escrito posterior, até à aceitação do primeiro árbitro, podem as partes fixar o prazo para a decisão do tribunal arbitral ou o modo de estabelecimento desse prazo.\n\n2 - Será de seis meses o prazo para a decisão, se outra coisa não resultar do acordo das partes, nos termos do número anterior.\n\n3 - O prazo a que se referem os n.os 1 e 2 conta-se a partir da data da designação do último árbitro, salvo convenção em contrário.\n\n4 - Por acordo escrito das partes, poderá o prazo da decisão ser prorrogado até ao dobro da sua duração inicial.\n\n5 - Os árbitros que injustificadamente obstarem a que a decisão seja proferida dentro do prazo fixado respondem pelos danos causados.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641476": {
+   "fragment_id": "36787875",
+   "type": 11,
+   "heading": "Artigo 20.º — (Deliberação)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 20.º — (Deliberação)\n\n1 - Sendo o tribunal composto por mais de um membro, a decisão é tomada por maioria de votos, em deliberação em que todos os árbitros devem participar, salvo se as partes, na convenção de arbitragem ou em acordo escrito posterior, celebrado até à aceitação do primeiro árbitro, exigirem uma maioria qualificada.\n\n2 - Podem ainda as partes convencionar que, não se tendo formado a maioria necessária, a decisão seja tomada unicamente pelo presidente ou que a questão se considere decidida no sentido do voto do presidente.\n\n3 - No caso de não se formar a maioria necessária apenas por divergências quanto ao montante de condenação em dinheiro, a questão considera-se decidida no sentido do voto do presidente, salvo diferente convenção das partes.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641477": {
+   "fragment_id": "36787975",
+   "type": 11,
+   "heading": "Artigo 21.º — (Decisão sobre a própria competência)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 21.º — (Decisão sobre a própria competência)\n\n1 - O tribunal arbitral pode pronunciar-se sobre a sua própria competência, mesmo que para esse fim seja necessário apreciar a existência, a validade ou a eficácia da convenção de arbitragem ou do contrato em que ela se insira, ou a aplicabilidade da referida convenção.\n\n2 - A nulidade do contrato em que se insira uma convenção de arbitragem não acarreta a nulidade desta, salvo quando se mostre que ele não teria sido concluído sem a referida convenção.\n\n3 - A incompetência do tribunal arbitral só pode ser arguida até à apresentação da defesa quanto ao fundo da causa, ou juntamente com esta.\n\n4 - A decisão pela qual o tribunal arbitral se declara competente só pode ser apreciada pelo tribunal judicial depois de proferida a decisão sobre o fundo da causa e pelos meios especificados nos artigos 27.º e 21.º\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641478": {
+   "fragment_id": "36788075",
+   "type": 11,
+   "heading": "Artigo 22.º — (Direito aplicável; recurso à equidade)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 22.º — (Direito aplicável; recurso à equidade)\n\nOs árbitros julgam segundo o direito constituído, a menos que as partes, na convenção de arbitragem ou em documento subscrito até à aceitação do primeiro árbitro, os autorizem a julgar segundo a equidade.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641479": {
+   "fragment_id": "36788175",
+   "type": 11,
+   "heading": "Artigo 23.º — (Elementos de decisão)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 23.º — (Elementos de decisão)\n\n1 - A decisão final do tribunal arbitral é reduzida a escrito e dela constará:\n\na) A identificação das partes;\n\nb) A referência à convenção de arbitragem;\n\nc) O objecto do litígio;\n\nd) A identificação dos árbitros;\n\ne) O lugar da arbitragem e o local e a data em que a decisão foi proferida;\n\nf) A assinatura dos árbitros;\n\ng) A indicação dos árbitros que não puderem ou não quiserem assinar.\n\n2 - A decisão deve conter um número de assinaturas pelo menos igual ao da maioria dos árbitros e incluirá os votos de vencido, devidamente identificados.\n\n3 - A decisão deve ser fundamentada.\n\n4 - Da decisão constará a fixação e repartição pelas partes dos encargos resultantes do processo.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641480": {
+   "fragment_id": "36788275",
+   "type": 11,
+   "heading": "Artigo 24.º — (Notificação e depósito da decisão)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 24.º — (Notificação e depósito da decisão)\n\n1 - O presidente do tribunal mandará notificar a decisão a cada uma das partes, mediante a remessa de um exemplar dela, por carta registada.\n\n2 - O original da decisão é depositado na secretaria do tribunal judicial do lugar da arbitragem, a menos que na convenção de arbitragem ou em escrito posterior as partes tenham dispensado tal depósito ou que, nas arbitragens institucionalizadas, o respectivo regulamento preveja outra modalidade de depósito.\n\n3 - O presidente do tribunal arbitral notificará as partes do depósito da decisão.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641481": {
+   "fragment_id": "36788375",
+   "type": 11,
+   "heading": "Artigo 25.º — (Extinção do poder dos árbitros)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 25.º — (Extinção do poder dos árbitros)\n\nO poder jurisdicional dos árbitros finda com a notificação do depósito da decisão que pôs termo ao litígio ou, quando tal depósito seja dispensado, com a notificação da decisão às partes.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641482": {
+   "fragment_id": "36788475",
+   "type": 11,
+   "heading": "Artigo 26.º — (Caso julgado e força executiva)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 26.º — (Caso julgado e força executiva)\n\n1 - A decisão arbitral, notificada às partes e, se for caso disso, depositada no tribunal judicial nos termos do artigo 24.º, considera-se transitada em julgado logo que não seja susceptível de recurso ordinário.\n\n2 - A decisão arbitral tem a mesma força executiva que a sentença do tribunal judicial de 1.ª instância.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641483": {
+   "fragment_id": "35459075",
+   "type": 1,
+   "heading": "Capítulo V — Impugnação da decisão arbitral",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "### Capítulo V — Impugnação da decisão arbitral\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641484": {
+   "fragment_id": "36788575",
+   "type": 11,
+   "heading": "Artigo 27.º — (Anulação da decisão)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 27.º — (Anulação da decisão)\n\n1 - A sentença arbitral só pode ser anulada pelo tribunal judicial por algum dos seguintes fundamentos:\n\na) Não ser o litígio susceptível de resolução por via arbitral;\n\nb) Ter sido proferida por tribunal incompetente ou irregularmente constituído;\n\nc) Ter havido no processo violação dos princípios referidos no artigo 16.º, com influência decisiva na resolução do litígio;\n\nd) Ter havido violação do artigo 23.º, n.os 1, alínea f), 2 e 3;\n\ne) Ter o tribunal conhecido de questões de que não podia tomar conhecimento, ou ter deixado de pronunciar-se sobre questões que devia apreciar.\n\n2 - O fundamento de anulação previsto na alínea b) do número anterior não pode ser invocado pela parte que dele teve conhecimento no decurso da arbitragem e que, podendo fazê-lo, não o alegou oportunamente.\n\n3 - Se da sentença arbitral couber recurso e ele for interposto, a anulabilidade só poderá ser apreciada no âmbito desse recurso.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641485": {
+   "fragment_id": "36788675",
+   "type": 11,
+   "heading": "Artigo 28.º — (Direito de requerer a anulação; prazo)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 28.º — (Direito de requerer a anulação; prazo)\n\n1 - O direito de requerer a anulação da decisão dos árbitros é irrenunciável.\n\n2 - A acção de anulação pode ser intentada no prazo de um mês a contar da notificação da decisão arbitral.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641486": {
+   "fragment_id": "36788775",
+   "type": 11,
+   "heading": "Artigo 29.º — (Recursos)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 29.º — (Recursos)\n\n1 - Se as partes não tiverem renunciado aos recursos, da decisão arbitral cabem para o tribunal da relação os mesmos recursos que caberiam da sentença proferida pelo tribunal de comarca.\n\n2 - A autorização dada aos árbitros para julgarem segundo a equidade envolve a renúncia aos recursos.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641487": {
+   "fragment_id": "35459175",
+   "type": 1,
+   "heading": "Capítulo VI — Execução da decisão arbitral",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "### Capítulo VI — Execução da decisão arbitral\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641488": {
+   "fragment_id": "36788875",
+   "type": 11,
+   "heading": "Artigo 30.º — (Execução da decisão)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 30.º — (Execução da decisão)\n\nA execução da decisão arbitral corre no tribunal de 1.ª instância, nos termos da lei de processo civil.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641489": {
+   "fragment_id": "36788975",
+   "type": 11,
+   "heading": "Artigo 31.º — (Oposição à execução)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 31.º — (Oposição à execução)\n\nO decurso do prazo para intentar a acção de anulação não obsta a que se invoquem os seus fundamentos em via de oposição à execução da decisão arbitral.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641490": {
+   "fragment_id": "35459275",
+   "type": 1,
+   "heading": "Capítulo VII — Da arbitragem internacional",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "### Capítulo VII — Da arbitragem internacional\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641491": {
+   "fragment_id": "36789075",
+   "type": 11,
+   "heading": "Artigo 32.º — (Conceito de arbitragem internacional)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 32.º — (Conceito de arbitragem internacional)\n\nEntende-se por arbitragem internacional a que põe em jogo interesses de comércio internacional.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641492": {
+   "fragment_id": "36789175",
+   "type": 11,
+   "heading": "Artigo 33.º — (Direito aplicável)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 33.º — (Direito aplicável)\n\n1 - As partes podem escolher o direito a aplicar pelos árbitros, se os não tiverem autorizado a julgar segundo a equidade.\n\n2 - Na falta de escolha, o tribunal aplica o direito mais apropriado ao litígio.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641493": {
+   "fragment_id": "36789275",
+   "type": 11,
+   "heading": "Artigo 34.º — (Recursos)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 34.º — (Recursos)\n\nTratando-se de arbitragem internacional, a decisão do tribunal não é recorrível, salvo se as partes tiveram acordado a possibilidade de recurso e regulado os seus termos.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641494": {
+   "fragment_id": "36789375",
+   "type": 11,
+   "heading": "Artigo 35.º — (Composição amigável)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 35.º — (Composição amigável)\n\nSe as partes lhe tiverem confiado essa função, o tribunal poderá decidir o litígio por apelo à composição das partes na base do equilíbrio dos interesses em jogo.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641495": {
+   "fragment_id": "35459375",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "### Capítulo VIII — Disposições finais\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641496": {
+   "fragment_id": "36789475",
+   "type": 11,
+   "heading": "Artigo 36.º — (Alterações ao Código de Processo Civil)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 36.º — (Alterações ao Código de Processo Civil)\n\nSão alterados e substituídos nos termos deste artigo os seguintes preceitos do Código de Processo Civil:\n\nArtigo 90.º\n\n[...]\n\n1 - ...\n\n2 - Se a decisão tiver sido proferida por árbitros em arbitragem que tenha tido lugar em território português, é competente para a execução o tribunal da comarca do lugar da arbitragem.\n\nArtigo 814.º\n\n(Execução baseada em decisão arbitral)\n\n1 - São fundamentos de oposição à execução baseada em sentença arbitral não só os previstos no artigo anterior mas também aqueles em que pode basear-se a anulação judicial da mesma decisão.\n\n2 - O tribunal indeferirá oficiosamente o pedido de execução quando reconhecer que o litígio não podia ser cometido à decisão por árbitros, quer por estar submetido, por lei especial, exclusivamente a tribunal judicial ou a arbitragem necessária, quer por o direito litigioso não ser disponível pelo seu titular.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641497": {
+   "fragment_id": "36789575",
+   "type": 11,
+   "heading": "Artigo 37.º — (Âmbito de aplicação no espaço)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 37.º — (Âmbito de aplicação no espaço)\n\nO presente diploma aplica-se às arbitragens que tenham lugar em território nacional.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641498": {
+   "fragment_id": "36789675",
+   "type": 11,
+   "heading": "Artigo 38.º — (Arbitragem Institucionalizada)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 38.º — (Arbitragem Institucionalizada)\n\nO Governo definirá, mediante decreto-lei, o regime da outorga de competência a determinadas entidades para realizarem arbitragens voluntárias institucionalizadas, com especificação, em cada caso, do carácter especializado ou geral de tais arbitragens, bem como as regras de reapreciação e eventual revogação das autorizações concedidas, quando tal se justifique.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641499": {
+   "fragment_id": "36789775",
+   "type": 11,
+   "heading": "Artigo 39.º — (Direito revogado)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 39.º — (Direito revogado)\n\n1 - É revogado o Decreto-Lei n.º 243/84, de 17 de Julho.\n\n2 - É revogado o artigo 55.º do Código das Custas Judiciais.\n\n3 - É revogado o título I do livro IV, «Do tribunal arbitral voluntário», do Código de Processo Civil.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  },
+  "858641500": {
+   "fragment_id": "36789875",
+   "type": 11,
+   "heading": "Artigo 40.º — (Entrada em vigor)",
+   "in_force_from": "2012-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+   ],
+   "markdown": "###### Artigo 40.º — (Entrada em vigor)\n\nO presente sente diploma entra em vigor três meses após sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 63/2011 - Diário da República n.º 238/2011, Série I de 2011-12-14](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), em vigor a partir de 2012-03-13"
+  }
+ }
+}

@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:408150:por
+title: Portaria n.º 727/76
+short_title: null
+summary: Revoga a base III da portaria de regulamentação do trabalho rural, publicada no Boletim do Ministério do Trabalho,
+  n.º 36, de 29 de Setembro de 1975
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Plano e Coordenação Económica, da Agricultura e Pescas e do Trabalho
+proposing_entity: null
+official_number: 727/76
+official_date: null
+publication_date: '1976-12-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 282/1976, Série I de 1976-12-03
+  number: '282'
+  series: I
+  supplement: null
+  pages: 2666 - 2667
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/12/28200/26662667.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '408150'
+  dre_path: /dr/detalhe/portaria/727-1976-408150
+  internal: pt:dre:408150:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/727-1976-408150
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/727-1976-408150
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 95bd770909e4c5d0105654fc059cc38d234bb5e8ca09d01a697685dac4b03d5b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:11:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contratação Colectiva
+- Contrato Coletivo de Trabalho
+- Convenção Coletiva de Trabalho
+- Relações de Trabalho
+- Trabalhador
+- Trabalhador Rural
+- Trabalho Rural
+relationships:
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:11:37Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 727/76
+
+de 3 de Dezembro
+
+A portaria que regulamenta o trabalho rural nos distritos de Beja, Évora, Portalegre e Setúbal e alguns concelhos do distrito de Faro instituía, na sua base III, o emprego compulsivo de trabalhadores agrícolas nas empresas com regime de subaproveitamento.
+
+Hoje, porém, após a expropriação das terras, efectuada de acordo com os Decretos-Leis n.os [406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075) e [407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), restam apenas no sector privado naqueles distritos unidades agrícolas de tipo fundamentalmente familiar.
+
+Encontram-se, assim, profundamente alteradas as relações de produção, pelo que não é de manter o emprego compulsivo de trabalhadores.
+
+Por outro lado, este mecanismo legal pode conduzir à destruição do equilíbrio económico das pequenas e médias empresas, o que seria contrário ao interesse nacional, ao disposto na Constituição e às próprias necessidades de criação de emprego a médio prazo.
+
+Nestes termos, e ao abrigo do disposto no n.º 1 do artigo 21.º do [Decreto-Lei n.º 164-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-1976-356557), de 28 de Fevereiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros do Plano e Coordenação Económica, da Agricultura e Pescas e do Trabalho, o seguinte:
+
+BASE ÚNICA
+
+É revogada a base III da portaria de regulamentação do trabalho rural, publicada no Boletim do Ministério do Trabalho, n.º 36, de 29 de Setembro de 1975, alterada pelas portarias publicadas no Boletim, n.º 5, de 15 de Março de 1976, e n.º 14, de 30 de Julho de 1976.
+
+Ministérios do Plano e Coordenação Económica, da Agricultura e Pescas e do Trabalho, 16 de Novembro de 1976. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro da Agricultura e Pescas, António Miguel Morais Barreto. - O Ministro do Trabalho, Francisco Manuel Marcelo Monteiro Curto.

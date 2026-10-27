@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010L0017:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0017-20100501",
+ "dre_path": null,
+ "source_lastmod": "2010-05-01",
+ "versions": [
+  {
+   "date": "2010-03-10",
+   "future": false,
+   "celex": "32010L0017",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "aa36f1ecb1a8699c",
+    "22aa1bdcba18078f",
+    "5a93fb6f6d6fb211",
+    "8f0b0113787a7489",
+    "482fcf65dab67826",
+    "fda8ad9e967beee4"
+   ]
+  },
+  {
+   "date": "2010-05-01",
+   "future": false,
+   "celex": "02010L0017-20100501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "ac1c4622662edebd",
+    "22aa1bdcba18078f",
+    "5a93fb6f6d6fb211",
+    "8f0b0113787a7489",
+    "5c8b3cd719ea97c8",
+    "9f04e2cfd1d01872",
+    "4c6dddcf2cda778f"
+   ]
+  }
+ ],
+ "fragments": {
+  "aa36f1ecb1a8699c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Março de 2010\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa malatião\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado [([^1])](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntr1-L_2010060PT.01001701-E0001), nomeadamente o artigo 6.º, n.º 1,\n\nConsiderando o seguinte:\n\n(1) Os Regulamentos (CE) n.º 451/2000 [([^2])](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntr2-L_2010060PT.01001701-E0002) e (CE) n.º 703/2001 [([^3])](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntr3-L_2010060PT.01001701-E0003) da Comissão estabelecem normas de execução para a segunda fase do programa de trabalho referido no artigo 8.º, n.º 2, da Directiva 91/414/CEE e estabelecem uma lista de substâncias activas a avaliar, com vista à possível inclusão das mesmas no anexo I da Directiva 91/414/CEE. Esta lista incluía o malatião. Pela Decisão 2007/389/CE da Comissão [([^4])](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntr4-L_2010060PT.01001701-E0004), ficou decidido não incluir o malatião no anexo I da Directiva 91/414/CEE.\n\n(2) Nos termos do disposto no artigo 6.º, n.º 2, da Directiva 91/414/CEE, o notificador inicial apresentou novo pedido, solicitando que fosse aplicado o procedimento acelerado previsto nos artigos 14.º a 19.º do Regulamento (CE) n.º 33/2008 da Comissão, de 17 de Janeiro de 2008, que estabelece regras de execução da Directiva 91/414/CEE do Conselho no que respeita a um procedimento normal e a um procedimento acelerado de avaliação de substâncias activas abrangidas pelo programa de trabalho referido no artigo 8.º, n.º 2, dessa directiva mas não incluídas no seu anexo I [([^5])](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntr5-L_2010060PT.01001701-E0005).\n\n(3) O pedido foi apresentado ao Reino Unido, que substituiu a Finlândia, Estado-Membro inicialmente designado relator pelo Regulamento (CE) n.º 451/2000. Foi respeitado o período previsto para o procedimento acelerado. A especificação da substância activa é a mesma que fora objecto da Decisão 2007/389/CE, embora a utilização inicialmente indicada em maçãs tenha sido substituída por morangos e a dose de aplicação tenha sido reduzida. O pedido cumpre igualmente as demais exigências substantivas e processuais previstas no artigo 15.º do Regulamento (CE) n.º 33/2008.\n\n(4) O Reino Unido avaliou as novas informações e os novos dados apresentados pelo notificador, tendo elaborado um relatório adicional em Fevereiro de 2009.\n\n(5) O relatório adicional foi revisto por peritos avaliadores dos Estados-Membros e da AESA e foi apresentado à Comissão em 17 de Julho de 2009, sob a forma de Relatório Científico da AESA sobre o malatião [([^6])](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntr6-L_2010060PT.01001701-E0006). O relatório foi revisto pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal e concluído em 22 de Janeiro de 2010 sob a forma de relatório de revisão da Comissão sobre o malatião.\n\n(6) A nova avaliação efectuada pelo Estado-Membro relator e a nova conclusão pela AESA centraram-se nos aspectos problemáticos que conduziram à decisão de não inclusão. Esses aspectos prendiam-se, em especial, com a presença no material técnico de níveis variáveis de isomalatião, uma impureza que contribui significativamente para o perfil de toxicidade do malatião e cuja genotoxicidade não pode ser excluída. Devido a este facto, foi impossível avaliar os riscos para operadores, trabalhadores e pessoas que se encontrem na proximidade. Acresce que eram insuficientes as informações sobre os efeitos de determinados metabolitos toxicologicamente relevantes, pelo que não fora demonstrada a aceitabilidade da exposição estimada dos consumidores em resultado da ingestão aguda e crónica de culturas alimentares.\n\n(7) No novo processo, o notificador apresentou informações e dados novos, tendo-se realizado nova avaliação, tal como consta do relatório adicional e das conclusões da AESA. Esses novos dados demonstram que a genotoxicidade do malatião que não contenha mais do que 2 g/kg de isomalatião pode ser excluída. Foi, assim, possível determinar níveis aceitáveis de exposição de operadores, trabalhadores e pessoas que se encontrem na proximidade. A utilização por não-profissionais podia, no entanto, suscitar apreensão, visto não poder pressupor-se que tenham recurso ao equipamento de protecção individual adequado. Consequentemente, essa utilização não deve ser autorizada.\n\n(8) Sem prejuízo dessas conclusões, convém obter informações suplementares relativamente a determinados aspectos específicos. O artigo 6.º, n.º 1, da Directiva 91/414/CEE determina que a inclusão de uma substância no anexo I pode estar sujeita a condições. É, portanto, correcto solicitar que o notificador apresente informações complementares sobre a ingestão pelos consumidores, a avaliação dos riscos agudos e a longo prazo para aves insectívoras, bem como sobre a quantificação das diferentes potências do malaoxão e do malatião, antes de se concederem as autorizações. Todavia, no que respeita à exposição dos consumidores, as informações actualmente disponíveis permitem concluir que o risco é aceitável, dada a grande margem de segurança existente.\n\n(9) Por conseguinte, os dados e informações adicionais fornecidos pelo notificador permitiram eliminar as preocupações específicas que conduziram à adopção da decisão de não inclusão. Não se identificaram outras questões científicas em aberto.\n\n(10) Os diversos exames efectuados permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm malatião satisfazem, em geral, os requisitos constantes do artigo 5.º, n.º 1, alíneas a) e b), da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas e detalhadas no relatório de revisão da Comissão. É, portanto, adequado incluir o malatião no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que contenham esta substância activa possam ser concedidas em conformidade com o disposto na referida directiva.\n\n(11) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(12) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "22aa1bdcba18078f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado nos termos do anexo da presente directiva."
+  },
+  "5a93fb6f6d6fb211": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 30 de Setembro de 2010. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são adoptadas pelos Estados-Membros."
+  },
+  "8f0b0113787a7489": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor em 1 de Maio de 2010."
+  },
+  "482fcf65dab67826": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 9 de Março de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "fda8ad9e967beee4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntc1-L_2010060PT.01001701-E0001) [JO L 230 de 19.8.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_230_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntc2-L_2010060PT.01001701-E0002) [JO L 55 de 29.2.2000, p. 25](http://publications.europa.eu/resource/oj/JOL_2000_055_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntc3-L_2010060PT.01001701-E0003) [JO L 98 de 7.4.2001, p. 6](http://publications.europa.eu/resource/oj/JOL_2001_098_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntc4-L_2010060PT.01001701-E0004) [JO L 146 de 8.6.2007, p. 19](http://publications.europa.eu/resource/oj/JOL_2007_146_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntc5-L_2010060PT.01001701-E0005) [JO L 15 de 18.1.2008, p. 5](http://publications.europa.eu/resource/oj/JOL_2008_015_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018.02/DOC_1#ntc6-L_2010060PT.01001701-E0006) *EFSA Scientific Report* (2009), 333, *Conclusion on pesticide peer review — peer review of the pesticide risk assessment of the active substance malathion* (Relatório científico da AESA (2009) 333: Conclusões da revisão dos peritos avaliadores de pesticidas — revisão dos peritos avaliadores sobre a avaliação dos riscos de pesticidas da substância activa malatião) (reemissão em 17 de Julho de 2009)."
+  },
+  "ac1c4622662edebd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Março de 2010\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa malatião\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^1^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#E0001)), nomeadamente o artigo 6.º, n.º 1,\n\n(1) Os Regulamentos (CE) n.º 451/2000 ([^2^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#E0002)) e (CE) n.º 703/2001 ([^3^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#E0003)) da Comissão estabelecem normas de execução para a segunda fase do programa de trabalho referido no artigo 8.º, n.º 2, da Directiva 91/414/CEE e estabelecem uma lista de substâncias activas a avaliar, com vista à possível inclusão das mesmas no anexo I da Directiva 91/414/CEE. Esta lista incluía o malatião. Pela Decisão 2007/389/CE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#E0004)), ficou decidido não incluir o malatião no anexo I da Directiva 91/414/CEE.\n\n(2) Nos termos do disposto no artigo 6.º, n.º 2, da Directiva 91/414/CEE, o notificador inicial apresentou novo pedido, solicitando que fosse aplicado o procedimento acelerado previsto nos artigos 14.º a 19.º do Regulamento (CE) n.º 33/2008 da Comissão, de 17 de Janeiro de 2008, que estabelece regras de execução da Directiva 91/414/CEE do Conselho no que respeita a um procedimento normal e a um procedimento acelerado de avaliação de substâncias activas abrangidas pelo programa de trabalho referido no artigo 8.º, n.º 2, dessa directiva mas não incluídas no seu anexo I ([^5^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#E0005)).\n\n(3) O pedido foi apresentado ao Reino Unido, que substituiu a Finlândia, Estado-Membro inicialmente designado relator pelo Regulamento (CE) n.º 451/2000. Foi respeitado o período previsto para o procedimento acelerado. A especificação da substância activa é a mesma que fora objecto da Decisão 2007/389/CE, embora a utilização inicialmente indicada em maçãs tenha sido substituída por morangos e a dose de aplicação tenha sido reduzida. O pedido cumpre igualmente as demais exigências substantivas e processuais previstas no artigo 15.º do Regulamento (CE) n.º 33/2008.\n\n(4) O Reino Unido avaliou as novas informações e os novos dados apresentados pelo notificador, tendo elaborado um relatório adicional em Fevereiro de 2009.\n\n(5) O relatório adicional foi revisto por peritos avaliadores dos Estados-Membros e da AESA e foi apresentado à Comissão em 17 de Julho de 2009, sob a forma de Relatório Científico da AESA sobre o malatião ([^6^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#E0006)). O relatório foi revisto pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal e concluído em 22 de Janeiro de 2010 sob a forma de relatório de revisão da Comissão sobre o malatião.\n\n(6) A nova avaliação efectuada pelo Estado-Membro relator e a nova conclusão pela AESA centraram-se nos aspectos problemáticos que conduziram à decisão de não inclusão. Esses aspectos prendiam-se, em especial, com a presença no material técnico de níveis variáveis de isomalatião, uma impureza que contribui significativamente para o perfil de toxicidade do malatião e cuja genotoxicidade não pode ser excluída. Devido a este facto, foi impossível avaliar os riscos para operadores, trabalhadores e pessoas que se encontrem na proximidade. Acresce que eram insuficientes as informações sobre os efeitos de determinados metabolitos toxicologicamente relevantes, pelo que não fora demonstrada a aceitabilidade da exposição estimada dos consumidores em resultado da ingestão aguda e crónica de culturas alimentares.\n\n(7) No novo processo, o notificador apresentou informações e dados novos, tendo-se realizado nova avaliação, tal como consta do relatório adicional e das conclusões da AESA. Esses novos dados demonstram que a genotoxicidade do malatião que não contenha mais do que 2 g/kg de isomalatião pode ser excluída. Foi, assim, possível determinar níveis aceitáveis de exposição de operadores, trabalhadores e pessoas que se encontrem na proximidade. A utilização por não-profissionais podia, no entanto, suscitar apreensão, visto não poder pressupor-se que tenham recurso ao equipamento de protecção individual adequado. Consequentemente, essa utilização não deve ser autorizada.\n\n(8) Sem prejuízo dessas conclusões, convém obter informações suplementares relativamente a determinados aspectos específicos. O artigo 6.º, n.º 1, da Directiva 91/414/CEE determina que a inclusão de uma substância no anexo I pode estar sujeita a condições. É, portanto, correcto solicitar que o notificador apresente informações complementares sobre a ingestão pelos consumidores, a avaliação dos riscos agudos e a longo prazo para aves insectívoras, bem como sobre a quantificação das diferentes potências do malaoxão e do malatião, antes de se concederem as autorizações. Todavia, no que respeita à exposição dos consumidores, as informações actualmente disponíveis permitem concluir que o risco é aceitável, dada a grande margem de segurança existente.\n\n(9) Por conseguinte, os dados e informações adicionais fornecidos pelo notificador permitiram eliminar as preocupações específicas que conduziram à adopção da decisão de não inclusão. Não se identificaram outras questões científicas em aberto.\n\n(10) Os diversos exames efectuados permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm malatião satisfazem, em geral, os requisitos constantes do artigo 5.º, n.º 1, alíneas a) e b), da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas e detalhadas no relatório de revisão da Comissão. É, portanto, adequado incluir o malatião no anexo I, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que contenham esta substância activa possam ser concedidas em conformidade com o disposto na referida directiva.\n\n(11) Há, portanto, que alterar a Directiva 91/414/CEE em conformidade.\n\n(12) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "9f04e2cfd1d01872": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAditar o seguinte no final do quadro do anexo I da Directiva 91/414/CEE:\n\n| Número | Denominação comum; Números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#E0007) | Entrada em vigor | Termo da inclusão | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | «Malatião N.º CAS: 121-75-5 N.º CIPAC: 12 | *(Dimetoxifosfinotioiltio)succinato de dietilo* *ou* *fosforoditioato de S-1,2-bis(etoxicarbonil)etilo e de O,O-dimetilo* racemato | ≥ 950 g/kg Impurezas: Isomalatião: não superior a 2 g/kg | 1 de Maio de 2010 | [**►C1**](http://publications.europa.eu/resource/celex/32010L0017R%2801%29) 30 de Abril de 2020**◄** | PARTE ASó podem ser autorizadas as utilizações como insecticida. As autorizações devem ser limitadas a utilizadores profissionais.PARTE BNa aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 22 de Janeiro de 2010, do relatório de revisão do malatião elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório.Nessa avaliação global, os Estados-Membros devem estar particularmente atentos:— à segurança de operadores e trabalhadores: as condições de utilização devem prescrever o uso de equipamento de protecção individual adequado; — à protecção dos organismos aquáticos: as condições de autorização devem incluir, se necessário, medidas de redução dos riscos, tais como zonas-tampão adequadas; — à protecção de aves insectívoras e de abelhas produtoras de mel: as condições de autorização devem incluir, se necessário, medidas de redução dos riscos. Quanto às abelhas, a rotulagem e as instruções de utilização devem conter as indicações necessárias para evitar a exposição.Os Estados-Membros devem estar particularmente atentos a que as formulações à base de malatião sejam acompanhadas das instruções necessárias para evitar qualquer risco de formação de isomalatião em quantidades superiores às máximas autorizadas durante o armazenamento e o transporte.As condições de autorização devem incluir, se necessário, medidas complementares de redução dos riscos.Os Estados-Membros em causa devem assegurar que o notificador apresenta à Comissão:— informações que confirmem a avaliação dos riscos para o consumidor e a avaliação dos riscos agudos e a longo prazo para aves insectívoras; — informações sobre a quantificação das diferentes potências do malaoxão e do malatião.» |\n| (^1^)O relatório de revisão da substância activa fornece dados complementares sobre a identidade e as especificações da mesma. |  |  |  |  |  |  |\n\n---"
+  },
+  "4c6dddcf2cda778f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#src.E0001)) JO L 230 de 19.8.1991, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#src.E0002)) JO L 55 de 29.2.2000, p. 25.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#src.E0003)) JO L 98 de 7.4.2001, p. 6.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#src.E0004)) JO L 146 de 8.6.2007, p. 19.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#src.E0005)) JO L 15 de 18.1.2008, p. 5.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1#src.E0006)) *EFSA Scientific Report* (2009), 333, *Conclusion on pesticide peer review — peer review of the pesticide risk assessment of the active substance malathion* (Relatório científico da AESA (2009) 333: Conclusões da revisão dos peritos avaliadores de pesticidas — revisão dos peritos avaliadores sobre a avaliação dos riscos de pesticidas da substância activa malatião) (reemissão em 17 de Julho de 2009)."
+  }
+ }
+}

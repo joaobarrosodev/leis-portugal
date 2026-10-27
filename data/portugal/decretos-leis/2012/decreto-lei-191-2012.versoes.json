@@ -1,0 +1,376 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175330:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-184181007",
+ "dre_path": "/dr/detalhe/decreto-lei/191-2012-175330",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "913021468",
+    "184183138",
+    "184183139",
+    "184183140",
+    "184183141",
+    "184183142",
+    "184183143",
+    "184183144",
+    "184183145",
+    "184183146",
+    "184183147",
+    "184183148",
+    "184183149",
+    "184183151"
+   ]
+  },
+  {
+   "date": "2022-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184108564:por",
+     "title": "Decreto-Lei n.º 38/2022",
+     "published": "2022-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2022-184108564"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "184183137",
+    "184183138",
+    "184183152",
+    "184183140",
+    "184183141",
+    "184183142",
+    "184183143",
+    "184183144",
+    "184183145",
+    "184183146",
+    "184183147",
+    "184183148",
+    "184183149",
+    "184183150",
+    "184183151"
+   ]
+  },
+  {
+   "date": "2025-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912820661:por",
+     "title": "Decreto-Lei n.º 53/2025",
+     "published": "2025-03-28",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2025-912820661"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "913021468",
+    "913021469",
+    "913021470",
+    "913021471",
+    "913021472",
+    "913021473",
+    "913021474",
+    "913021675",
+    "913021676",
+    "913021677",
+    "913021678",
+    "913021679",
+    "913021680",
+    "913021681",
+    "913021682"
+   ]
+  }
+ ],
+ "fragments": {
+  "913021468": {
+   "fragment_id": "184181008",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-03-29",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 191/2012\n\nde 23 de agosto\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase de reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o País está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImporta decididamente repensar e reorganizar a estrutura do Estado no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nContudo, a maior exigência no controlo da despesa pública e no acompanhamento em permanência da aplicação das regras em matéria de controlo orçamental tem imposto um volume de atividade à Direção-Geral do Orçamento (DGO), incomportável com a atual estrutura orgânica, justificando-se, assim, redimensionar a mesma ao nível da estrutura intermédia.\n\nNeste sentido, foi aprovada a Lei Orgânica do Ministério das Finanças pelo Decreto-Lei n.º 117/2011, de 15 de dezembro, determinando-se a reestruturação da DGO, que se mantém como organismo que superintende na elaboração e execução do Orçamento do Estado e no controlo da gestão orçamental.\n\nNeste contexto, o presente decreto-lei representa um contributo para a concretização da política enunciada através da reorganização interna da estrutura orgânica da DGO, em consonância com o disposto na Lei Orgânica do Ministério das Finanças.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "184183138": {
+   "fragment_id": "184181009",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direção-Geral do Orçamento, abreviadamente designada por DGO, é um serviço central da administração direta do Estado, dotado de autonomia administrativa."
+  },
+  "184183139": {
+   "fragment_id": "184181010",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGO tem por missão superintender na elaboração e execução do Orçamento do Estado, na contabilidade do Estado, no controlo da legalidade, regularidade e economia da administração financeira do Estado, e assegurar a participação do Ministério das Finanças no quadro da negociação do orçamento e da programação financeira plurianual da União Europeia.\n\n2 - A DGO prossegue as seguintes atribuições:\n\na) Preparar o Orçamento do Estado;\n\nb) Elaborar a Conta Geral do Estado;\n\nc) Acompanhar a evolução da conta das administrações públicas, na perspetiva do cumprimento dos objetivos de política definidos;\n\nd) Produzir e difundir a informação respeitante à execução orçamental e às matérias relativas às finanças públicas;\n\ne) Elaborar estimativas das contas das administrações públicas na ótica da contabilidade nacional e colaborar na elaboração das contas nacionais;\n\nf) Definir e acompanhar, numa ótica de melhoria contínua, os princípios e normas do processo orçamental, incluindo a definição dos requisitos funcionais dos sistemas de gestão e informação orçamental;\n\ng) Analisar, acompanhar e controlar a execução dos programas orçamentais, em colaboração com os respetivos coordenadores;\n\nh) Propor orientações para melhorar o desempenho da política orçamental;\n\ni) Desencadear as iniciativas necessárias para efeitos da realização de auditorias orçamentais e colaborar com a Inspeção-Geral de Finanças em ações deste âmbito;\n\nj) Superintender na elaboração e divulgação de normas de contabilização de receitas e despesas públicas e colaborar na definição de regras e procedimentos necessários à elaboração das demonstrações financeiras do Estado, de acordo com o modelo conceptual definido pela Comissão de Normalização Contabilística;\n\nk) Elaborar o quadro plurianual do Orçamento do Estado e manter atualizado um quadro previsional da evolução das contas orçamentais do sector público administrativo;\n\nl) Preparar os projetos de diploma de execução orçamental e instruções para o seu cumprimento e elaborar pareceres jurídicos e orçamentais sobre os projetos de diplomas que impliquem despesas e receitas públicas;\n\nm) Assegurar, em articulação com o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, a participação do Ministério das Finanças no quadro da aprovação do orçamento e da programação financeira plurianual da União Europeia;\n\nn) Gerir o Orçamento do Estado no que se refere aos recursos próprios europeus;\n\no) Participar no acompanhamento dos programas celebrados entre o Estado e os municípios e os Governos Regionais.\n\n3 - A ação da DGO exerce-se no âmbito do sector público administrativo, sobre todas as entidades, independentemente do seu grau de autonomia ou estatuto especial, e ainda, no que se refere à recolha e tratamento de informação de natureza financeira, sobre as restantes entidades do sector empresarial do Estado."
+  },
+  "184183140": {
+   "fragment_id": "184181011",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA DGO é dirigida por um diretor-geral, coadjuvado por quatro subdiretores-gerais, cargos de direção superior dos 1.º e 2.º graus, respetivamente."
+  },
+  "184183141": {
+   "fragment_id": "184181012",
+   "type": 11,
+   "heading": "Artigo 4.º — Diretor-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Diretor-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor-geral dirigir e orientar a ação dos órgãos e serviços da DGO.\n\n2 - Os subdiretores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos."
+  },
+  "184183142": {
+   "fragment_id": "184181013",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna da DGO obedece ao seguinte modelo estrutural misto:\n\na) Nas áreas de projetos orçamentais, o modelo de estrutura matricial;\n\nb) Nas restantes áreas, o modelo de estrutura hierarquizada."
+  },
+  "184183143": {
+   "fragment_id": "184181014",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - A DGO dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGO dispõe ainda das seguintes receitas próprias:\n\na) A venda de publicações ou de outros recursos multimédia;\n\nb) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições, incluindo a área dos sistemas de informação orçamental;\n\nc) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pela DGO são fixadas e periodicamente atualizadas por despacho do membro do Governo responsável pela área das finanças tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento."
+  },
+  "184183144": {
+   "fragment_id": "184181015",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas da DGO as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "184183145": {
+   "fragment_id": "184181016",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direção\n\nOs lugares de direção superior dos 1.º e 2.º graus e de direção intermédia do 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "184183146": {
+   "fragment_id": "184181017",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto remuneratório dos chefes de equipa multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto remuneratório dos chefes de equipa multidisciplinares\n\nAos chefes das equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor de serviços ou chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto remuneratório equiparado a diretor de serviços ser atribuído a mais de duas chefias de equipa."
+  },
+  "184183147": {
+   "fragment_id": "184181018",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de cooperação e prerrogativas da DGO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de cooperação e prerrogativas da DGO\n\n1 - Todos os serviços e organismos e, em especial, os seus órgãos de controlo interno e os órgãos de fiscalização existentes nos departamentos ministeriais, os coordenadores dos programas orçamentais, bem como todas as instituições públicas de recolha e produção de dados sobre as finanças públicas, devem cooperar estreitamente com a DGO para a prossecução das suas atribuições.\n\n2 - O diretor-geral, os subdiretores-gerais e os diretores de serviços podem corresponder-se diretamente, no desempenho das suas funções, com quaisquer entidades e serviços, civis e militares, dentro e fora do território nacional.\n\n3 - Os trabalhadores da DGO, quando em serviço e sempre que necessário ao desempenho das suas funções, para além de outros direitos previstos na lei geral, têm direito a solicitar toda e qualquer documentação, independentemente do respetivo suporte, que se mostre necessária para o exercício das respetivas funções."
+  },
+  "184183148": {
+   "fragment_id": "184181019",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 80/2007, de 29 de março, alterado pelo Decreto-Lei n.º 69-A/2009, de 24 de março."
+  },
+  "184183149": {
+   "fragment_id": "184181020",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "184183151": {
+   "fragment_id": "184181022",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "184183137": {
+   "fragment_id": "184181008",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 191/2012\n\nde 23 de agosto\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase de reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o País está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImporta decididamente repensar e reorganizar a estrutura do Estado no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nContudo, a maior exigência no controlo da despesa pública e no acompanhamento em permanência da aplicação das regras em matéria de controlo orçamental tem imposto um volume de atividade à Direção-Geral do Orçamento (DGO), incomportável com a atual estrutura orgânica, justificando-se, assim, redimensionar a mesma ao nível da estrutura intermédia.\n\nNeste sentido, foi aprovada a Lei Orgânica do Ministério das Finanças pelo Decreto-Lei n.º 117/2011, de 15 de dezembro, determinando-se a reestruturação da DGO, que se mantém como organismo que superintende na elaboração e execução do Orçamento do Estado e no controlo da gestão orçamental.\n\nNeste contexto, o presente decreto-lei representa um contributo para a concretização da política enunciada através da reorganização interna da estrutura orgânica da DGO, em consonância com o disposto na Lei Orgânica do Ministério das Finanças.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "184183152": {
+   "fragment_id": "184181010",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGO tem por missão superintender na elaboração e execução do Orçamento do Estado, na contabilidade do Estado, no controlo da legalidade, regularidade e economia da administração financeira do Estado, e assegurar a participação do Ministério das Finanças no quadro da negociação do orçamento e da programação financeira plurianual da União Europeia.\n\n2 - A DGO prossegue as seguintes atribuições:\n\na) Preparar o Orçamento do Estado;\n\nb) Elaborar a Conta Geral do Estado;\n\nc) Acompanhar a evolução da conta das administrações públicas, na perspetiva do cumprimento dos objetivos de política definidos;\n\nd) Produzir e difundir a informação respeitante à execução orçamental e às matérias relativas às finanças públicas;\n\ne) Elaborar estimativas das contas das administrações públicas na ótica da contabilidade nacional e colaborar na elaboração das contas nacionais;\n\nf) Definir e acompanhar, numa ótica de melhoria contínua, os princípios e normas do processo orçamental, incluindo a definição dos requisitos funcionais dos sistemas de gestão e informação orçamental;\n\ng) Analisar, acompanhar e controlar a execução dos programas orçamentais, em colaboração com os respetivos coordenadores;\n\nh) Propor orientações para melhorar o desempenho da política orçamental;\n\ni) Desencadear as iniciativas necessárias para efeitos da realização de auditorias orçamentais e colaborar com a Inspeção-Geral de Finanças em ações deste âmbito;\n\nj) Superintender na elaboração e divulgação de normas de contabilização de receitas e despesas públicas e colaborar na definição de regras e procedimentos necessários à elaboração das demonstrações financeiras do Estado, de acordo com o modelo conceptual definido pela Comissão de Normalização Contabilística;\n\nk) Elaborar o quadro plurianual do Orçamento do Estado e manter atualizado um quadro previsional da evolução das contas orçamentais do sector público administrativo;\n\nl) Preparar os projetos de diploma de execução orçamental e instruções para o seu cumprimento e elaborar pareceres jurídicos e orçamentais sobre os projetos de diplomas que impliquem despesas e receitas públicas;\n\nm) Assegurar, em articulação com o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, a participação do Ministério das Finanças no quadro da aprovação do orçamento e da programação financeira plurianual da União Europeia;\n\nn) Gerir o Orçamento do Estado no que se refere aos recursos próprios europeus;\n\no) Participar no acompanhamento dos programas celebrados entre o Estado e os municípios e os Governos Regionais.\n\np) Assegurar a definição e coordenação de um centro de competências para a gestão financeira pública, garantindo uma rede de partilha de conhecimento, designadamente por via de formação de competências, bem como de boas práticas, adotando modelos de trabalho colaborativo com as entidades relevantes nesta área.\n\n3 - A ação da DGO exerce-se no âmbito do sector público administrativo, sobre todas as entidades, independentemente do seu grau de autonomia ou estatuto especial, e ainda, no que se refere à recolha e tratamento de informação de natureza financeira, sobre as restantes entidades do sector empresarial do Estado.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183150": {
+   "fragment_id": "184181021",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.\n\nPromulgado em 10 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de agosto de 2012.\n\nPelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças."
+  },
+  "913021469": {
+   "fragment_id": "184181009",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direção-Geral do Orçamento, abreviadamente designada por DGO, é um serviço central da administração direta do Estado, dotado de autonomia administrativa.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021470": {
+   "fragment_id": "184181010",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DGO tem por missão superintender na elaboração e execução do Orçamento do Estado, na contabilidade do Estado, no controlo da legalidade, regularidade e economia da administração financeira do Estado, e assegurar a participação do Ministério das Finanças no quadro da negociação do orçamento e da programação financeira plurianual da União Europeia.\n\n2 - A DGO prossegue as seguintes atribuições:\n\na) Preparar o Orçamento do Estado;\n\nb) Elaborar a Conta Geral do Estado;\n\nc) Acompanhar a evolução da conta das administrações públicas, na perspetiva do cumprimento dos objetivos de política definidos;\n\nd) Produzir e difundir a informação respeitante à execução orçamental e às matérias relativas às finanças públicas;\n\ne) Elaborar estimativas das contas das administrações públicas na ótica da contabilidade nacional e colaborar na elaboração das contas nacionais;\n\nf) Definir e acompanhar, numa ótica de melhoria contínua, os princípios e normas do processo orçamental, incluindo a definição dos requisitos funcionais dos sistemas de gestão e informação orçamental;\n\ng) Analisar, acompanhar e controlar a execução dos programas orçamentais, em colaboração com os respetivos coordenadores;\n\nh) Propor orientações para melhorar o desempenho da política orçamental;\n\ni) Desencadear as iniciativas necessárias para efeitos da realização de auditorias orçamentais e colaborar com a Inspeção-Geral de Finanças em ações deste âmbito;\n\nj) Superintender na elaboração e divulgação de normas de contabilização de receitas e despesas públicas e colaborar na definição de regras e procedimentos necessários à elaboração das demonstrações financeiras do Estado, de acordo com o modelo conceptual definido pela Comissão de Normalização Contabilística;\n\nk) Elaborar o quadro plurianual do Orçamento do Estado e manter atualizado um quadro previsional da evolução das contas orçamentais do sector público administrativo;\n\nl) Preparar os projetos de diploma de execução orçamental e instruções para o seu cumprimento e elaborar pareceres jurídicos e orçamentais sobre os projetos de diplomas que impliquem despesas e receitas públicas;\n\nm) Assegurar, em articulação com o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, a participação do Ministério das Finanças no quadro da aprovação do orçamento e da programação financeira plurianual da União Europeia;\n\nn) Gerir o Orçamento do Estado no que se refere aos recursos próprios europeus;\n\no) Participar no acompanhamento dos programas celebrados entre o Estado e os municípios e os Governos Regionais.\n\np) Assegurar a definição e coordenação de um centro de competências para a gestão financeira pública, garantindo uma rede de partilha de conhecimento, designadamente por via de formação de competências, bem como de boas práticas, adotando modelos de trabalho colaborativo com as entidades relevantes nesta área.\n\n3 - A ação da DGO exerce-se no âmbito do sector público administrativo, sobre todas as entidades, independentemente do seu grau de autonomia ou estatuto especial, e ainda, no que se refere à recolha e tratamento de informação de natureza financeira, sobre as restantes entidades do sector empresarial do Estado.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "913021471": {
+   "fragment_id": "184181011",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA DGO é dirigida por um diretor-geral, coadjuvado por quatro subdiretores-gerais, cargos de direção superior dos 1.º e 2.º graus, respetivamente.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021472": {
+   "fragment_id": "184181012",
+   "type": 11,
+   "heading": "Artigo 4.º — Diretor-geral",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 4.º — Diretor-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor-geral dirigir e orientar a ação dos órgãos e serviços da DGO.\n\n2 - Os subdiretores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021473": {
+   "fragment_id": "184181013",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna da DGO obedece ao seguinte modelo estrutural misto:\n\na) Nas áreas de projetos orçamentais, o modelo de estrutura matricial;\n\nb) Nas restantes áreas, o modelo de estrutura hierarquizada.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021474": {
+   "fragment_id": "184181014",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - A DGO dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A DGO dispõe ainda das seguintes receitas próprias:\n\na) A venda de publicações ou de outros recursos multimédia;\n\nb) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições, incluindo a área dos sistemas de informação orçamental;\n\nc) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pela DGO são fixadas e periodicamente atualizadas por despacho do membro do Governo responsável pela área das finanças tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021675": {
+   "fragment_id": "184181015",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas da DGO as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021676": {
+   "fragment_id": "184181016",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direção",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direção\n\nOs lugares de direção superior dos 1.º e 2.º graus e de direção intermédia do 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021677": {
+   "fragment_id": "184181017",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto remuneratório dos chefes de equipa multidisciplinares",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 9.º — Estatuto remuneratório dos chefes de equipa multidisciplinares\n\nAos chefes das equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor de serviços ou chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto remuneratório equiparado a diretor de serviços ser atribuído a mais de duas chefias de equipa.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021678": {
+   "fragment_id": "184181018",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de cooperação e prerrogativas da DGO",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 10.º — Dever de cooperação e prerrogativas da DGO\n\n1 - Todos os serviços e organismos e, em especial, os seus órgãos de controlo interno e os órgãos de fiscalização existentes nos departamentos ministeriais, os coordenadores dos programas orçamentais, bem como todas as instituições públicas de recolha e produção de dados sobre as finanças públicas, devem cooperar estreitamente com a DGO para a prossecução das suas atribuições.\n\n2 - O diretor-geral, os subdiretores-gerais e os diretores de serviços podem corresponder-se diretamente, no desempenho das suas funções, com quaisquer entidades e serviços, civis e militares, dentro e fora do território nacional.\n\n3 - Os trabalhadores da DGO, quando em serviço e sempre que necessário ao desempenho das suas funções, para além de outros direitos previstos na lei geral, têm direito a solicitar toda e qualquer documentação, independentemente do respetivo suporte, que se mostre necessária para o exercício das respetivas funções.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021679": {
+   "fragment_id": "184181019",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 80/2007, de 29 de março, alterado pelo Decreto-Lei n.º 69-A/2009, de 24 de março.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021680": {
+   "fragment_id": "184181020",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021681": {
+   "fragment_id": "184181021",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.\n\nPromulgado em 10 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de agosto de 2012.\n\nPelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  },
+  "913021682": {
+   "fragment_id": "184181022",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": "2025-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 53/2025 - Diário da República n.º 62/2025, Série I de 2025-03-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2025-912820661), em vigor a partir de 2025-03-29, produz efeitos a partir de 2025-04-01"
+  }
+ }
+}

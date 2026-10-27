@@ -1,0 +1,906 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R1296:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1296-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "2013-12-20",
+   "future": false,
+   "celex": "32013R1296",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "09c2d44c58bcdae1",
+    "ffc348f463b781ad",
+    "3a2293c837b31c16",
+    "8d64743ed59ada85",
+    "3060acf6483a3d06",
+    "761106fe59aaeacd",
+    "f0a411f47859f673",
+    "6d63b202b9967ac2",
+    "47e606d84b0071bf",
+    "47c47ee4fd5ec3ab",
+    "a291264a8fdf69c1",
+    "e66f2db986b2ffa7",
+    "674df96491e90a00",
+    "b7a3a8959a8d063a",
+    "5313d164d5a5b442",
+    "5699f2e9ef59afc6",
+    "4c8bdeab3d91ec7d",
+    "4079900c13c28d30",
+    "226c39ffd0a88dad",
+    "e0f552be4217c44f",
+    "ed02c0df19b60772",
+    "e5063e96fe6fa1ae",
+    "bbf5b698269966c2",
+    "0d33866fb5f9e8bf",
+    "8c40c7a79c174244",
+    "f0f8c960bfdbce9b",
+    "341335e1e5e341c6",
+    "05a7fd8bce25d4f6",
+    "16a97e03719d2f3f",
+    "2658aaf6832fec01",
+    "9cbfda9a6df5dde0",
+    "b397e407f8f1d9b8",
+    "9b39ce794b0b3c3b",
+    "1e7a0903d2eed348",
+    "b8882275a9140552",
+    "e725eb6a070e8b7d",
+    "f3fe32e588f59551",
+    "92a7593f4047d541",
+    "a288e60a0426a932",
+    "c7660dda79d4cbe9",
+    "818dafdacfafae7c",
+    "c4eef0f92dab6c5b",
+    "9db704600627e53c",
+    "39c6289492bbd435",
+    "a571941a7508ea48",
+    "d5fb0e2658116460",
+    "e16bcad1ad4f7c8f",
+    "9e9330e898171182",
+    "6e336e79eab231d7",
+    "d1b5b9d26a722ca5",
+    "ecc71fb0d60ab0ed",
+    "d83e871d661f6e81",
+    "265316b540376706",
+    "886ae1de8fe48bbc"
+   ]
+  },
+  {
+   "date": "2016-05-12",
+   "future": false,
+   "celex": "02013R1296-20160512",
+   "acts": [
+    {
+     "id": "eu:celex:32016R0589:por",
+     "title": "REGULAMENTO (UE) 2016/589 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de abril de 2016",
+     "published": null,
+     "celex": "32016R0589"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 7.º — Coerência e complementaridade",
+    "Altera Artigo 11.º — Proteção dos interesses financeiros da União",
+    "Altera Artigo 16.º — Tipos de ações",
+    "Altera Artigo 24.º — Participação",
+    "Altera Artigo 26.º — Objetivos específicos",
+    "Altera Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+    "Altera Artigo 40.º — Entrada em vigor",
+    "Altera Notas",
+    "Suprime Artigo 23.º — Acompanhamento dos padrões de mobilidade"
+   ],
+   "fragments": [
+    "4b421afddfb58459",
+    "ffc348f463b781ad",
+    "3a2293c837b31c16",
+    "8d64743ed59ada85",
+    "672bcd029c78ac57",
+    "761106fe59aaeacd",
+    "f0a411f47859f673",
+    "6d63b202b9967ac2",
+    "47e606d84b0071bf",
+    "a08dd1f346acafff",
+    "a291264a8fdf69c1",
+    "e66f2db986b2ffa7",
+    "674df96491e90a00",
+    "3546cdf4477000dc",
+    "5313d164d5a5b442",
+    "5699f2e9ef59afc6",
+    "4c8bdeab3d91ec7d",
+    "4079900c13c28d30",
+    "226c39ffd0a88dad",
+    "e0f552be4217c44f",
+    "ed02c0df19b60772",
+    "e5063e96fe6fa1ae",
+    "f2a26ea60c250b74",
+    "0d33866fb5f9e8bf",
+    "8c40c7a79c174244",
+    "f0f8c960bfdbce9b",
+    "341335e1e5e341c6",
+    "05a7fd8bce25d4f6",
+    "16a97e03719d2f3f",
+    "2658aaf6832fec01",
+    "9cbfda9a6df5dde0",
+    "b4b992ee7f22e5c4",
+    "1e7a0903d2eed348",
+    "b8882275a9140552",
+    "e725eb6a070e8b7d",
+    "21d5dbb6f79fd887",
+    "92a7593f4047d541",
+    "a288e60a0426a932",
+    "c7660dda79d4cbe9",
+    "818dafdacfafae7c",
+    "c4eef0f92dab6c5b",
+    "9db704600627e53c",
+    "39c6289492bbd435",
+    "a571941a7508ea48",
+    "d5fb0e2658116460",
+    "e16bcad1ad4f7c8f",
+    "9e9330e898171182",
+    "6e336e79eab231d7",
+    "d1b5b9d26a722ca5",
+    "ecc71fb0d60ab0ed",
+    "6c6d7949426a838a",
+    "0fea4f0912504544",
+    "9ca1f7a61ee30e28"
+   ]
+  },
+  {
+   "date": "2018-08-02",
+   "future": false,
+   "celex": "02013R1296-20180802",
+   "acts": [
+    {
+     "id": "eu:celex:32018R1046:por",
+     "title": "REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2018",
+     "published": null,
+     "celex": "32018R1046"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 5.º — Orçamento",
+    "Altera Artigo 7.º — Coerência e complementaridade",
+    "Altera Artigo 11.º — Proteção dos interesses financeiros da União",
+    "Altera Artigo 14.º — Secções temáticas e financiamento",
+    "Altera Artigo 19.º — Secções temáticas e financiamento",
+    "Altera Artigo 24.º — Participação",
+    "Altera Artigo 25.º — Secções temáticas e financiamento",
+    "Altera Artigo 32.º — Programas de trabalho",
+    "Altera Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+    "Altera Notas",
+    "Suprime Artigo 33.º — Reafetação de fundos entre os eixos e a cada uma das secções temáticas dentro de cada eixo",
+    "Suprime Artigo 34.º — Exercício da delegação"
+   ],
+   "fragments": [
+    "4b421afddfb58459",
+    "ffc348f463b781ad",
+    "3a2293c837b31c16",
+    "8d64743ed59ada85",
+    "cca20afae47417e7",
+    "761106fe59aaeacd",
+    "f0a411f47859f673",
+    "0867cfe40250095f",
+    "47e606d84b0071bf",
+    "de6b7d71396d656f",
+    "a291264a8fdf69c1",
+    "e66f2db986b2ffa7",
+    "674df96491e90a00",
+    "04c235bde6c96b66",
+    "5313d164d5a5b442",
+    "5699f2e9ef59afc6",
+    "4c8bdeab3d91ec7d",
+    "4079900c13c28d30",
+    "226c39ffd0a88dad",
+    "e0f552be4217c44f",
+    "aef701495c874468",
+    "e5063e96fe6fa1ae",
+    "f2a26ea60c250b74",
+    "0d33866fb5f9e8bf",
+    "8c40c7a79c174244",
+    "f0f8c960bfdbce9b",
+    "341335e1e5e341c6",
+    "348be498d4455881",
+    "16a97e03719d2f3f",
+    "2658aaf6832fec01",
+    "9cbfda9a6df5dde0",
+    "260729033473bd34",
+    "1e7a0903d2eed348",
+    "b8882275a9140552",
+    "4de54d04c2704ec9",
+    "21d5dbb6f79fd887",
+    "92a7593f4047d541",
+    "a288e60a0426a932",
+    "c7660dda79d4cbe9",
+    "818dafdacfafae7c",
+    "c4eef0f92dab6c5b",
+    "9db704600627e53c",
+    "39c6289492bbd435",
+    "e87d0175849aa8a1",
+    "9e9330e898171182",
+    "6e336e79eab231d7",
+    "d1b5b9d26a722ca5",
+    "ecc71fb0d60ab0ed",
+    "29fdf35046fa1d2b",
+    "0fea4f0912504544",
+    "6fc9c0f76058badc"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02013R1296-20210101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I",
+    "Suprime DISPOSIÇÕES COMUNS",
+    "Suprime Artigo 1.º — Objeto",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Estrutura do Programa",
+    "Suprime Artigo 4.º — Objetivos gerais do programa",
+    "Suprime Artigo 5.º — Orçamento",
+    "Suprime Artigo 6.º — Ações conjuntas",
+    "Suprime Artigo 7.º — Coerência e complementaridade",
+    "Suprime Artigo 8.º — Cooperação com organismos competentes",
+    "Suprime Artigo 9.º — Disseminação de resultados e comunicação",
+    "Suprime Artigo 10.º — Disposições financeiras",
+    "Suprime Artigo 11.º — Proteção dos interesses financeiros da União",
+    "Suprime Artigo 12.º — Acompanhamento",
+    "Suprime Artigo 13.º — Avaliação",
+    "Suprime TÍTULO II",
+    "Suprime DISPOSIÇÕES ESPECÍFICAS DOS EIXOS DO PROGRAMA",
+    "Suprime CAPÍTULO I",
+    "Suprime Eixo Progress",
+    "Suprime Artigo 14.º — Secções temáticas e financiamento",
+    "Suprime Artigo 15.º — Objetivos específicos",
+    "Suprime Artigo 16.º — Tipos de ações",
+    "Suprime Artigo 17.º — Cofinanciamento da União",
+    "Suprime Artigo 18.º — Participação",
+    "Suprime CAPÍTULO II",
+    "Suprime Eixo EURES",
+    "Suprime Artigo 19.º — Secções temáticas e financiamento",
+    "Suprime Artigo 20.º — Objetivos específicos",
+    "Suprime Artigo 21.º — Tipos de ações",
+    "Suprime Artigo 22.º — Cofinanciamento da União",
+    "Suprime Artigo 24.º — Participação",
+    "Suprime CAPÍTULO III",
+    "Suprime Eixo Microfinanciamento e Empreendedorismo Social",
+    "Suprime Artigo 25.º — Secções temáticas e financiamento",
+    "Suprime Artigo 26.º — Objetivos específicos",
+    "Suprime Artigo 27.º — Tipos de ações",
+    "Suprime Artigo 28.º — Participação",
+    "Suprime Artigo 29.º — Contribuição financeira",
+    "Suprime Artigo 30.º — Gestão",
+    "Suprime Artigo 31.º — Relatórios de execução",
+    "Suprime TÍTULO III",
+    "Suprime PROGRAMAS DE TRABALHO E DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 32.º — Programas de trabalho",
+    "Suprime Artigo 35.º — Medidas adicionais de execução",
+    "Suprime Artigo 36.º — Procedimento de comité",
+    "Suprime Artigo 37.º — Medidas transitórias",
+    "Suprime Artigo 38.º — Avaliação",
+    "Suprime Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+    "Suprime Artigo 40.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f4c9b1e6a340728f"
+   ]
+  }
+ ],
+ "fragments": {
+  "09c2d44c58bcdae1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de dezembro de 2013\n\nque cria um Programa da União Europeia para o Emprego e a Inovação Social (\"EaSI\") e que altera a Decisão n.º 283/2010/UE que estabelece um Instrumento de Microfinanciamento Europeu Progress para o Emprego e a Inclusão Social\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 46.º, alínea d), o artigo 149.º, o artigo 153.º, n.º 2, alínea a) e o artigo 175.º, terceiro parágrafo,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr1-L_2013347PT.01023801-E0001),\n\nTendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr2-L_2013347PT.01023801-E0002),\n\nDeliberando de acordo com o processo legislativo ordinário [([^3])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr3-L_2013347PT.01023801-E0003),\n\nConsiderando o seguinte:\n\n(1) Em sintonia com a comunicação da Comissão, de 29 de junho de 2011, intitulada \"Um orçamento para a Europa 2020\", na qual se recomenda a racionalização e a simplificação dos instrumentos de financiamento da União e o reforço da sua tónica no valor acrescentado à escala da União e nos seus efeitos e resultados, o presente regulamento institui um Programa da União Europeia para o Emprego e a Inovação Social (\"o Programa\") que visa prosseguir e desenvolver atividades realizadas com base na Decisão n.º 1672/2006/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr4-L_2013347PT.01023801-E0004), no Regulamento (UE) n.º 492/2011 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr5-L_2013347PT.01023801-E0005) e na Decisão de Execução 2012/733/UE da Comissão [([^6])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr6-L_2013347PT.01023801-E0006), bem como na Decisão n.º 283/2010/UE do Parlamento Europeu e do Conselho que estabelece um Instrumento de Microfinanciamento Europeu Progress para o Emprego e a Inclusão Social [([^7])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr7-L_2013347PT.01023801-E0007) (\"o instrumento\").\n\n(2) Em 17 de junho de 2010, o Conselho Europeu subscreveu a proposta da Comissão relativa à estratégia Europa 2020 em prol do emprego e de um crescimento inteligente, sustentável e inclusivo, que estabelece cinco objetivos globais (incidindo no emprego, no combate à pobreza e à exclusão social e na educação) e sete iniciativas emblemáticas e consubstancia um quadro político coerente para a próxima década. O Conselho Europeu defendeu a plena mobilização dos instrumentos e políticas adequados da UE para apoiar a concretização dos objetivos comuns, e convidou os Estados-Membros a agirem de forma mais coordenada.\n\n(3) De acordo com o artigo 148.º, n.º 4, do Tratado sobre o Funcionamento da União Europeia (TFUE), o Conselho aprovou, em 21 de outubro de 2010, orientações para as políticas de emprego que, em conjugação com as orientações gerais para as políticas económicas dos Estados-Membros e da União adotadas nos termos do artigo 121.º do TFUE, constituem as orientações integradas da estratégia Europa 2020. O Programa deverá contribuir para atingir os objetivos da estratégia Europa 2020, nomeadamente os objetivos de redução da pobreza e de emprego definidos nas Orientações para o Emprego. Para esse efeito, o Programa deverá apoiar a execução das iniciativas emblemáticas, em especial a \"Plataforma Europeia contra a Pobreza e a Exclusão Social\", a \"Agenda para Novas Competências e Empregos\" e \"Juventude em Movimento\", bem como o Pacote para o Emprego dos Jovens.\n\n(4) As iniciativas emblemáticas da estratégia Europa 2020 intituladas \"Plataforma Europa contra a Pobreza e a Exclusão Social\" e \"União da Inovação\" identificam a inovação social como uma ferramenta fundamental para dar resposta aos desafios sociais decorrentes de fatores como o envelhecimento demográfico, a pobreza, o desemprego, os novos modelos de trabalho e estilos de vida e as expectativas dos cidadãos em matéria de justiça social, educação e cuidados de saúde. O Programa deverá apoiar ações destinadas a dinamizar a inovação social, em resposta a necessidades sociais não satisfeitas ou insuficientemente satisfeitas, no que toca ao combate à pobreza e à exclusão social, à promoção de um elevado nível de emprego sustentável e de qualidade, à garantia de uma proteção social adequada e que impeça a pobreza e à melhoria das condições de trabalho e do acesso das pessoas vulneráveis aos cuidados de saúde e à formação, tendo na devida conta o papel das autoridades regionais e locais. O Programa deverá ainda funcionar como catalisador de parcerias e redes transnacionais entre os agentes dos setores público e privado e do terceiro setor, apoiando o seu envolvimento na conceção e aplicação de novas abordagens destinadas a enfrentar necessidades e desafios prementes de índole social.\n\n(5) Mais concretamente, o Programa deverá contribuir para identificar e analisar soluções inovadoras e melhorar a sua aplicação prática através da experimentação de políticas sociais com vista a, se necessário, ajudar os Estados-Membros a aumentarem a eficiência dos respetivos mercados de trabalho e a melhorarem as suas políticas de proteção e inclusão social. A experimentação de políticas sociais consiste em testar no terreno inovações sociais com base em projetos. Permite a recolha de dados sobre a viabilidade das inovações sociais. Deverá ser possível aplicar as ideias bem-sucedidas em maior escala, com o apoio financeiro do Fundo Social Europeu (FSE) e de outras fontes.\n\n(6) O método aberto de coordenação, com provas dadas em termos de flexibilidade e eficácia operacional nos domínios do emprego e da política social, deverá ser mais largamente utilizado e beneficiar de ações apoiadas pelo Programa.\n\n(7) O progresso rumo a um desenvolvimento sustentável em termos sociais e ambientais na Europa implica a antecipação e o desenvolvimento de novas qualificações e competências, melhorando as condições para a criação de emprego, a qualidade do emprego e das condições laborais, através de medidas de acompanhamento ao nível da educação, do mercado de trabalho e das políticas sociais, ligadas à transformação das indústrias e dos serviços. O Programa deverá, portanto, contribuir para promover a criação de empregos \"verdes\", \"brancos\" e no setor das TIC de qualidade e sustentáveis, bem como para a antecipação e o desenvolvimento de novas qualificações e competências para novos empregos de qualidade e sustentáveis, associando as políticas sociais e do emprego às políticas industriais e estruturais e apoiando a transição para uma economia de baixo carbono e eficiente em termos de recursos. Em particular, o programa deverá funcionar como catalisador para explorar o potencial de criação de emprego dos investimentos verdes e sociais levados a cabo pelo setor público e das iniciativas de emprego locais e regionais.\n\n(8) O Programa deverá, se for caso disso, ter em conta a dimensão territorial do desemprego, da pobreza e da exclusão social, e, em especial, as crescentes desigualdades entre regiões e dentro de cada região, entre as zonas rurais e urbanas e no interior destas últimas.\n\n(9) É necessário consolidar as dimensões sociais do mercado único. Dada a necessidade de melhorar a confiança no mercado interno, nomeadamente na livre circulação de serviços, através do respeito pelos direitos dos trabalhadores, é preciso garantir a igualdade de estatuto dos direitos dos trabalhadores e dos empresários à liberdade de circulação em todo o território da União.\n\n(10) De harmonia com a estratégia Europa 2020, o Programa deverá adotar uma abordagem coerente para promover o emprego de qualidade e sustentável, bem como para combater e evitar a exclusão social e a pobreza, tendo simultaneamente em conta a necessidade de respeitar a igualdade entre mulheres e homens. A execução do Programa deverá ser racionalizada e simplificada, designadamente através de um conjunto de disposições comuns, entre as quais se deverão incluir objetivos gerais, uma tipologia de ações e mecanismos de acompanhamento e avaliação. O Programa deverá concentrar-se em projetos, independentemente da sua envergadura, com claro valor acrescentado à escala da União. A fim de reduzir os encargos administrativos, o Programa deverá apoiar a criação e o desenvolvimento de redes e parcerias. Além disso, deverá intensificar-se o recurso a opções de custos simplificadas (montantes fixos e financiamentos a taxa fixa), em especial para a aplicação de regimes de mobilidade, garantindo em simultâneo a transparência dos procedimentos. O Programa deverá constituir um balcão único para as instituições de microfinanciamento a nível da União, proporcionando financiamentos para microcréditos e para o empreendedorismo social, facilitando o acesso a empréstimos e prestando assistência técnica.\n\n(11) Tendo em conta a limitação dos fundos disponibilizados para o Programa e a pré-afetação desses fundos aos diferentes eixos, deverá dar-se prioridade ao desenvolvimento de estruturas com um claro efeito multiplicador que beneficiem novas ações e iniciativas. Deverão igualmente tomar-se medidas adequadas para evitar a sobreposição e o duplo financiamento com outros fundos ou programas, em especial o FSE.\n\n(12) A União deverá equipar-se de uma base analítica sólida, capaz de sustentar a elaboração de políticas nas áreas social e do emprego, prestando particular atenção ao impacto das crises económicas e financeiras. Uma base deste tipo constituirá um valor acrescentado à ação nacional, proporcionando uma dimensão da União e uma medida de comparação em matéria de recolha de dados, bem como o desenvolvimento de ferramentas e métodos estatísticos e indicadores comuns destinados a dar uma visão de conjunto da situação nos domínios do emprego, da política social e das condições laborais na União e garantindo uma avaliação correta da eficiência e da eficácia de programas e políticas, tendo em vista, designadamente, a consecução dos objetivos da Estratégia Europa 2020.\n\n(13) A União ocupa uma posição única para servir de plataforma de intercâmbio de políticas e de aprendizagem mútua entre os países participantes no Programa nas áreas do emprego, da proteção social e da inclusão social, bem como do empreendedorismo social. O conhecimento de políticas aplicadas noutros países e dos seus resultados, nomeadamente os conseguidos através da experimentação de políticas sociais a nível local, regional e nacional, alarga o leque de opções à disposição dos decisores, desencadeando desse modo a evolução de novas políticas.\n\n(14) Uma característica fundamental da política social da União consiste em zelar pelo cumprimento de normas mínimas e pela melhoria constante das condições de trabalho. A União deve contribuir de forma significativa para assegurar a adaptação do enquadramento legal aos modelos de trabalho evolutivos e a novos riscos para a saúde e a segurança, tendo em conta os princípios do trabalho digno e de uma regulamentação inteligente. A União tem também um papel importante no financiamento de medidas destinadas a melhorar o cumprimento das normas laborais ratificadas pela Organização Internacional do Trabalho (OIT), bem como das regras da União em matéria de proteção dos direitos dos trabalhadores. É este o caso, sobretudo, das medidas de sensibilização (por exemplo, mediante uma denominação social), de divulgação de informações e de promoção do debate sobre os principais desafios e problemas políticos associados às condições de trabalho, nomeadamente entre os parceiros sociais e outros interessados, sem esquecer a promoção de medidas que permitam o equilíbrio entre vida profissional e vida privada, de instauração de ações preventivas e de fomento de uma cultura da prevenção no domínio da saúde e da segurança no trabalho.\n\n(15) Os parceiros sociais e as organizações da sociedade civil desempenham um papel-chave na promoção de emprego de qualidade e no combate à exclusão social e à pobreza, bem como na luta contra o desemprego. Por conseguinte, os parceiros sociais e as organizações da sociedade civil deverão participar, sempre que tal se revele adequado, na aprendizagem mútua e no desenvolvimento, execução e divulgação de novas políticas. A Comissão deverá informar os parceiros sociais da União e as organizações da sociedade civil e com eles trocar pontos de vista sobre os resultados da execução do Programa.\n\n(16) A União está empenhada em reforçar a dimensão social da globalização e em lutar contra o dumping social, promovendo, não só países participantes no Programa, mas também à escala internacional, condições de trabalho e normas laborais dignas, quer através de relações diretas com países terceiros, quer indiretamente, através da cooperação com organizações internacionais. Do mesmo modo, há que desenvolver relações adequadas com países terceiros que não participem no Programa, o que contribuirá para a consecução dos seus objetivos, tendo em conta eventuais acordos relevantes entre esses países e a União. Essas relações podem passar pela presença de representantes dos países terceiros em questão em eventos de interesse mútuo (tais como conferências, workshops e seminários) que se realizem em países participantes no Programa. Além disso, deverá desenvolver-se a cooperação com as organizações internacionais competentes, em particular a OIT e outros organismos relevantes das Nações Unidas, o Conselho da Europa e a Organização de Cooperação e Desenvolvimento Económico (OCDE), a fim de que o seu papel seja tido em consideração na execução do Programa.\n\n(17) Nos termos dos artigos 45.º e 46.º do TFUE, o Regulamento (UE) n.º 492/2011 estabelece disposições que visam concretizar a liberdade de circulação dos trabalhadores numa base não discriminatória, através de uma cooperação estreita entre os serviços centrais de emprego dos Estados-Membros e destes com a Comissão. A rede europeia de serviços de emprego (EURES) deverá promover o melhor funcionamento dos mercados de trabalho, facilitando a mobilidade geográfica voluntária, transnacional e transfronteiriça dos trabalhadores, conferindo maior transparência ao mercado laboral, garantindo o escoamento de ofertas e candidaturas a emprego e apoiando iniciativas em matéria de colocação, recrutamento, aconselhamento e orientação aos níveis nacional e transfronteiriço, contribuindo assim para os objetivos da estratégia Europa 2020. Os Estados-Membros deverão ser incentivados a integrar os serviços EURES, pondo-os à disposição do público num balcão único sempre que seja caso disso.\n\n(18) O âmbito da EURES deverá ser alargado por forma a contemplar o desenvolvimento e o apoio de regimes de mobilidade específicos a nível da União, na sequência de convites à apresentação de propostas, com vista ao preenchimento de ofertas de emprego onde tenham sido identificadas lacunas no mercado de trabalho. Nos termos do artigo 47.º do TFUE, esses regimes deverão contribuir para facilitar a mobilidade voluntária dos jovens trabalhadores na União. Regimes de mobilidade específicos, como por exemplo a ação preparatória “O teu primeiro emprego EURES”, deverão facilitar o acesso dos jovens a oportunidades de emprego e à aceitação de empregos noutros Estados-Membros e incentivar os empregadores a oferecerem emprego a jovens trabalhadores móveis. No entanto, os regimes de mobilidade não deverão desencorajar a União e os Estados-Membros de ajudarem os jovens a encontrar emprego no seu país de origem.\n\n(19) Em muitas regiões de fronteira, as parcerias transfronteiriças EURES desempenham um papel importante no desenvolvimento de um mercado de trabalho genuinamente europeu. As parcerias transfronteiriças EURES envolvem, pelo menos, dois Estados-Membros, ou um Estado-Membro e outro país participante. Por conseguinte, possuem uma inequívoca natureza horizontal e são fonte de valor acrescentado ao nível da União. As parcerias transfronteiriças EURES deverão, portanto, continuar a receber apoio de atividades horizontais da União, que pode ser complementado por recursos nacionais ou pelo FSE.\n\n(20) A avaliação das atividades da rede EURES deverá ter em conta critérios qualitativos e quantitativos. Uma vez que as colocações que se perdem num Estado-Membro equivalem a colocações que se ganham noutro Estado-Membro, dependendo das situações em constante mutação do mercado de trabalho e dos padrões de mobilidade associados, a avaliação não deverá centrar-se unicamente nas colocações que se ganham ou perdem em Estados-Membros específicos, mas também nos valores agregados a nível da União. Além disso, deverá ter-se em mente que o aconselhamento não dá necessariamente origem a uma mobilidade mensurável ou a colocações.\n\n(21) A estratégia Europa 2020, e em especial a orientação 7 prevista na Decisão 2010/707/UE [([^8])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr8-L_2013347PT.01023801-E0008), identifica o emprego independente e o empreendedorismo como fatores cruciais para se atingir um crescimento inteligente, sustentável e inclusivo.\n\n(22) A falta de acesso a crédito, capital próprio ou quase-capital próprio constitui um dos principais obstáculos à criação de empresas, em especial para as pessoas mais afastadas do mercado de trabalho. Os esforços envidados neste domínio à escala nacional e da União têm de ser intensificados para multiplicar a oferta e o acesso a microfinanciamentos, a fim de satisfazer a procura por parte de quem deles mais necessita, em especial os desempregados, as mulheres e as pessoas vulneráveis que pretendam criar ou desenvolver uma microempresa, designadamente como atividade independente, mas não têm acesso ao crédito. Do mesmo modo, as microempresas constituem a maioria das empresas recém-criadas na União. Por conseguinte, os microcréditos deveriam ser o meio mais rápido de obter valor acrescentado e resultados concretos. Como primeiro passo neste processo, o Parlamento Europeu e o Conselho criaram em 2010 o instrumento de microfinanciamento. As atividades de comunicação sobre as oportunidades de microfinanciamento, tanto a nível da União como dos Estados-Membros, deverão ser melhoradas para melhor chegar a quem precisa de microfinanciamento.\n\n(23) O microfinanciamento e o apoio ao empreendedorismo social deverão chegar aos potenciais beneficiários e ter um impacto duradouro. Deverão contribuir para um elevado nível de emprego de qualidade e sustentável, e servir de catalisador para as políticas de desenvolvimento local e económico. A fim de maximizar as oportunidades de criação de empresas viáveis, as ações que envolvam microfinanciamento e empreendedorismo social deverão ser acompanhadas de programas de orientação e formação, bem como de toda a informação relevante, que deverá ser regularmente atualizada e posta à disposição do público pelos financiadores responsáveis. Para esse efeito, é essencial facultar o financiamento adequado, nomeadamente através do FSE.\n\n(24) Para tornar o microcrédito mais disponível no jovem mercado da microfinança da União é necessário melhorar a capacidade institucional dos prestadores, em especial as instituições de microfinanciamento não bancárias, de harmonia com a comunicação da Comissão, de 13 de novembro de 2007, intitulada \"Uma iniciativa europeia para o desenvolvimento do microcrédito em prol do crescimento e do emprego\" e o relatório da Comissão, de 25 de julho de 2008, intitulado \"Promoção das mulheres inovadoras e do empreendedorismo\".\n\n(25) A economia social e o empreendedorismo social constituem parte integrante da economia pluralista de mercado social da Europa e desempenham um papel importante para garantir uma maior convergência social na Europa. Baseiam-se nos princípios da solidariedade e da responsabilidade e da primazia do indivíduo e do objetivo social sobre o capital, e na promoção da responsabilidade social, da coesão social e da inclusão social. As empresas sociais podem, através das soluções inovadoras que propõem, funcionar como motores de mudança social e promover mercados de trabalho inclusivos e serviços sociais acessíveis a todos. Como tal, dão um contributo valioso para a concretização dos objetivos da estratégia Europa 2020. O Programa deverá melhorar o acesso das empresas sociais a diversos tipos de financiamentos, proporcionando-lhes instrumentos adequados para satisfazer as suas necessidades financeiras específicas ao longo do seu ciclo de vida.\n\n(26) A fim de tirar partido da experiência das entidades como o Grupo do Banco Europeu de Investimento, as ações que envolvam microfinanciamento e empreendedorismo social deverão ser realizadas pela Comissão indiretamente, confiando as tarefas de execução orçamental a essas entidades ao abrigo do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr9-L_2013347PT.01023801-E0009) (\"Regulamento Financeiro\"). O uso de recursos da União concentra a influência de instituições financeiras internacionais e outros investidores, cria sinergias entre as ações dos Estados-Membros e da União e harmoniza as abordagens. Deste modo, melhora o acesso ao financiamento e ao microfinanciamento, em especial, de certos grupos em risco e dos jovens. Melhora igualmente o acesso ao financiamento das empresas sociais. A União contribui assim para o desenvolvimento do setor emergente das empresas sociais e do mercado de microfinança na União e fomenta as atividades transfronteiriças. A ação da União deverá complementar a utilização de instrumentos financeiros para o microfinanciamento e o empreendedorismo social pelos Estados-Membros. As entidades encarregadas da execução das ações deverão assegurar o valor acrescentado e evitar a duplicação de financiamentos a partir de recursos da União.\n\n(27) De acordo com a Estratégia \"Europa 2020\", o Programa deverá procurar resolver o grave problema do desemprego juvenil. Deverá, por conseguinte, oferecer-se aos jovens uma perspetiva de futuro, bem como a perspetiva de desempenharem um papel-chave no desenvolvimento da sociedade e da economia na Europa, aspeto que se reveste de particular importância em tempo de crise.\n\n(28) O Programa deverá também apontar para o papel específico e para a importância das pequenas empresas na formação, na especialização e no conhecimento tradicional, bem como garantir que os jovens tenham acesso ao microfinanciamento. O Programa deverá facilitar o intercâmbio de boas práticas entre os Estados-Membros e outros países participantes no Programa, em todos estes domínios.\n\n(29) As ações do Programa deverão apoiar a aplicação pelos Estados-Membros e pelos intervenientes no mercado de trabalho da Recomendação do Conselho de 22 de abril de 2013 [([^10])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr10-L_2013347PT.01023801-E0010) sobre a instituição de uma \"Garantia para a Juventude\". Essa recomendação declara que todos os jovens com menos de 25 anos deverão beneficiar de uma boa oferta de emprego, formação permanente, aprendizagem ou estágio no prazo de quatro meses após terem ficado desempregados ou terem terminado o ensino formal. O Programa deverá facilitar o intercâmbio das melhores práticas entre os Estados-Membros e outros países participantes no Programa neste domínio.\n\n(30) Nos termos do artigo 3.º, n.º 3, do Tratado da União Europeia (TUE) e do artigo 8.º do TFUE, é necessário assegurar que o Programa contribua para a promoção da igualdade entre mulheres e homens em todos os seus eixos e atividades, nomeadamente através da integração da perspetiva de género e, se for caso disso, através de ações específicas para promover o emprego e a inclusão social das mulheres. De acordo com o artigo 10.º do TFUE, o Programa deverá assegurar que a aplicação das suas prioridades contribua para o combate à discriminação em razão do sexo, origem racial ou étnica, religião ou crença, deficiência, idade ou orientação sexual. As atividades do Programa deverão ser acompanhadas e avaliadas para determinar de que forma são contempladas as questões da antidiscriminação.\n\n(31) O programa Progresso para o período 2007-2013 compreendia secções intituladas \"Antidiscriminação e diversidade\" e \"Igualdade dos géneros\", que deverão ser mantidas e desenvolvidas ao abrigo do programa Direitos, Igualdade e Cidadania para o período 2014-2020. Todavia, é da máxima importância dar a maior atenção às questões da igualdade entre mulheres e homens e da antidiscriminação em todas as iniciativas e ações relevantes abrangidas pelo presente Programa, especialmente nos domínios da melhoria da participação das mulheres no mercado laboral, das condições de trabalho e da promoção de um melhor equilíbrio entre a vida profissional e a vida privada.\n\n(32) Nos termos do artigo 9.º do TFUE e de acordo com os objetivos da estratégia Europa 2020, o Programa deverá contribuir para assegurar um nível elevado de emprego de qualidade e sustentável, garantir uma proteção social adequada e lutar contra a pobreza e a exclusão social, e deverá ter em conta os requisitos ligados a um elevado nível de proteção da saúde humana.\n\n(33) O Programa deverá ser complementar de outros programas da União, reconhecendo embora que cada instrumento deverá funcionar segundo os seus procedimentos próprios. Por conseguinte, uma mesma despesa elegível não deverá resultar num duplo financiamento. A fim de obter um valor acrescentado e um impacto substancial do financiamento da União, deverão ser criadas sinergias estreitas entre o Programa, outros programas da União e os Fundos Estruturais, sobretudo o FSE e a iniciativa \"Emprego dos Jovens\". O Programa deverá complementar outros programas e iniciativas da União vocacionados para o combate ao desemprego juvenil.\n\n(34) O Programa deverá ser executado de forma a tornar mais fácil à autoridade ou autoridades competentes de cada Estado-Membro contribuírem para o cumprimento dos seus objetivos.\n\n(35) A fim de assegurar maior eficiência à comunicação com o público em geral e mais fortes sinergias entre as ações de comunicação empreendidas por iniciativa da Comissão, os recursos atribuídos às atividades de informação e comunicação no quadro do presente Programa deverão também contribuir para divulgar e prestar informação sobre as prioridades políticas da União que estejam relacionadas com os objetivos gerais do Programa.\n\n(36) O presente regulamento estabelece um enquadramento financeiro para todo o período de vigência do Programa, que constitui o montante de referência privilegiada, na aceção do ponto 17 do Acordo Interinstitucional de 2 de dezembro de 2013 entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental, a cooperação em matéria orçamental e a boa gestão financeira [([^11])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr11-L_2013347PT.01023801-E0011), para o Parlamento Europeu e para o Conselho durante o processo orçamental anual.\n\n(37) Os interesses financeiros da União deverão ser protegidos através de medidas proporcionadas aplicadas ao longo do ciclo de despesa, nomeadamente por meio da prevenção, deteção e investigação de irregularidades, da recuperação de fundos perdidos, pagos indevidamente ou utilizados incorretamente e, se for caso disso, de sanções nos termos do Regulamento Financeiro.\n\n(38) A fim de assegurar que o programa seja suficientemente flexível para reagir à evolução das necessidades e às correspondentes prioridades políticas durante todo o seu período de vigência, o poder de adotar atos delegados nos termos do artigo 290.º do TFUE deverá ser delegado na Comissão no que diz respeito à reafetação de fundos aos eixos do Programa e a cada uma das secções temáticas dos eixos do Programa. A Comissão, quando preparar e redigir atos delegados, deverá assegurar a transmissão simultânea, atempada e adequada dos documentos relevantes ao Parlamento Europeu e ao Conselho.\n\n(39) A fim de assegurar condições uniformes para a aplicação do presente regulamento, deverão ser atribuídas competências de execução à Comissão. Essas competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho [([^12])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr12-L_2013347PT.01023801-E0012).\n\n(40) Atendendo a que os objetivos do presente regulamento não podem ser suficientemente alcançados pelos Estados-Membros mas podem, devido à sua dimensão e efeitos, ser mais bem alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade, consagrado no artigo 5.º do TUE. Em conformidade com o princípio da proporcionalidade, consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aqueles objetivos.\n\nADOTARAM O PRESENTE REGULAMENTO:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "3a2293c837b31c16": {
+   "fragment_id": "DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS"
+  },
+  "8d64743ed59ada85": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1. O presente regulamento estabelece um Programa da União Europeia para o Emprego e a Inovação Social (\"o Programa\"), que visa contribuir para a concretização da estratégia Europa 2020, nomeadamente das suas metas gerais, das orientações integradas e das iniciativas emblemáticas, por meio da prestação de apoio financeiro aos objetivos da União no que respeita à promoção de um elevado nível de emprego de qualidade e sustentável, à garantia de uma proteção social adequada e condigna, ao combate à exclusão social e à pobreza e à melhoria das condições de trabalho.\n\n2. O Programa tem início em 1 de janeiro de 2014 e termina em 31 de dezembro de 2020."
+  },
+  "3060acf6483a3d06": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento entende-se por:\n\n1) \"Empresa social\", uma entidade, seja qual for a sua forma jurídica, que: a) Nos termos do seu pacto social, estatutos ou qualquer outro documento legal que a constitua, tenha como objetivo principal produzir impactos sociais mensuráveis e positivos e não apenas gerar lucros para os seus proprietários, sócios e acionistas, e que: i) preste serviços ou forneça bens com um alto rendimento social, e/ou ii) utilize um modo de produção de bens ou serviços que concretize o seu objetivo social; b) Utilize os seus lucros para, acima de tudo, atingir o seu objetivo principal, segundo procedimentos e regras previamente definidos aplicáveis à distribuição de lucros aos acionistas e proprietários e que assegurem que tal distribuição não prejudique o objetivo principal; e c) Seja gerida de forma empreendedora, responsável e transparente, designadamente através da participação de trabalhadores, clientes e outros agentes afetados pelas suas atividades.\n\na) Nos termos do seu pacto social, estatutos ou qualquer outro documento legal que a constitua, tenha como objetivo principal produzir impactos sociais mensuráveis e positivos e não apenas gerar lucros para os seus proprietários, sócios e acionistas, e que: i) preste serviços ou forneça bens com um alto rendimento social, e/ou ii) utilize um modo de produção de bens ou serviços que concretize o seu objetivo social;\n\ni) preste serviços ou forneça bens com um alto rendimento social, e/ou\n\nii) utilize um modo de produção de bens ou serviços que concretize o seu objetivo social;\n\nb) Utilize os seus lucros para, acima de tudo, atingir o seu objetivo principal, segundo procedimentos e regras previamente definidos aplicáveis à distribuição de lucros aos acionistas e proprietários e que assegurem que tal distribuição não prejudique o objetivo principal; e\n\nc) Seja gerida de forma empreendedora, responsável e transparente, designadamente através da participação de trabalhadores, clientes e outros agentes afetados pelas suas atividades.\n\n2) \"Microcrédito\", um empréstimo de até 25 000 euros;\n\n3) \"Microempresa\", uma empresa, incluindo um trabalhador independente, que empregue menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não exceda 2 milhões de euros, de acordo com o disposto na Recomendação 2003/361/CE da Comissão [([^13])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr13-L_2013347PT.01023801-E0013);\n\n4) \"Microfinanciamento\", garantias, microcrédito, capital próprio e quase-capital alargado a pessoas e microempresas com dificuldades de acesso a crédito;\n\n5) \"Inovações sociais\", inovações que sejam sociais, quer pelos seus fins, quer pelas suas necessidades, e digam respeito, em especial, ao desenvolvimento e aplicação de novas ideias (relativas a produtos, serviços ou modelos) que simultaneamente satisfaçam necessidades sociais e criem novas relações ou colaborações sociais, desse modo beneficiando a sociedade e melhorando a sua capacidade de ação;\n\n6) \"Experimentação em matéria de políticas sociais\", intervenções políticas que deem respostas inovadoras a necessidades sociais e sejam aplicadas em pequena escala e em condições que assegurem que o seu impacto seja mensurável, para que possam ser repetidas em mais larga escala se os seus resultados forem convincentes."
+  },
+  "761106fe59aaeacd": {
+   "fragment_id": "Artigo 3.º — Estrutura do Programa",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estrutura do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura do Programa\n\n1. O Programa é composto pelos seguintes três eixos complementares:\n\na) O eixo Progress, que apoia o desenvolvimento, a aplicação, o acompanhamento e a avaliação dos instrumentos e políticas da União a que se refere o artigo 1.º, e que promove a tomada de decisões baseada em factos, a inovação e o progresso social, em parceria com os parceiros sociais, as organizações da sociedade civil e entidades públicas e privadas;\n\nb) O eixo EURES, que apoia atividades realizadas pela EURES, a saber, os serviços especialistas designados pelos Estados do EEE e pela Confederação Suíça, juntamente com parceiros sociais, outros serviços de emprego e outros interessados, para dinamizar o intercâmbio e divulgação de informações e outras formas de cooperação, nomeadamente parcerias transfronteiriças, tendo em vista promover a mobilidade geográfica voluntária dos trabalhadores numa base justa e contribuir para um elevado nível de emprego de qualidade e sustentável;\n\nc) O eixo Microfinanciamento e Empreendedorismo Social, que promove o acesso ao financiamento e aumenta a sua disponibilidade para pessoas singulares ou coletivas, nos termos do artigo 26.º.\n\n2. As disposições comuns constantes do presente Título aplicam-se aos três eixos referidos no n.º 1, alíneas a), b) e c), aos quais se aplicam igualmente disposições específicas do Título II."
+  },
+  "f0a411f47859f673": {
+   "fragment_id": "Artigo 4.º — Objetivos gerais do programa",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Objetivos gerais do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objetivos gerais do programa\n\n1. O Programa procura contribuir para os seguintes objetivos gerais:\n\na) Reforçar, junto dos principais decisores políticos a todos os níveis, o sentimento de apropriação dos objetivos da União, e gerar, neste sentido, intervenções concretas, coordenadas e inovadoras, tanto a nível da União como dos Estados-Membros, nos domínios a que se refere o artigo 1.º, em estreita colaboração com os parceiros sociais, as organizações da sociedade civil e entidades públicas;\n\nb) Apoiar o desenvolvimento de sistemas de proteção social e mercados de trabalho adequados, acessíveis e eficientes e facilitar reformas políticas nos domínios a que se refere o artigo 1.º, nomeadamente através da promoção de condições de trabalho dignas, de uma cultura preventiva em matéria de saúde e segurança no trabalho, de um equilíbrio mais saudável entre vida privada e vida profissional e de boa governação, tendo em vista objetivos sociais, como a convergência, sem esquecer a aprendizagem mútua e a inovação social;\n\nc) Assegurar a eficaz aplicação do direito da União nos domínios a que se refere o artigo 1.º e, se necessário, contribuir para modernizar a legislação da União, de harmonia com os princípios de um trabalho digno e de uma regulamentação inteligente;\n\nd) Promover a mobilidade geográfica voluntária dos trabalhadores numa base justa e dinamizar as oportunidades de emprego por meio do desenvolvimento na União de mercados de trabalho de elevada qualidade e inclusivos, abertos e acessíveis a todos, respeitando e garantindo os direitos dos trabalhadores, nomeadamente a liberdade de circulação, em todo o território da União;\n\ne) Promover o emprego e a inclusão social, aumentando para esse efeito a disponibilidade e o acesso ao microcrédito para as pessoas vulneráveis que pretendam criar uma microempresa, bem como para as microempresas já existentes, e reforçando o acesso ao financiamento para as empresas sociais.\n\n2. Na prossecução destes objetivos, o programa visa, em todos os seus eixos e atividades:\n\na) Dar especial atenção aos grupos vulneráveis, nomeadamente os jovens;\n\nb) Promover a igualdade entre mulheres e homens, designadamente através da integração da perspetiva de género e, se for caso disso, de uma orçamentação que tenha em conta as questões de género;\n\nc) Lutar contra a discriminação em razão do sexo, origem étnica ou racial, religião ou crença, deficiência, idade ou orientação sexual;\n\nd) Na definição e execução das políticas e ações da União, promover um nível elevado de emprego de qualidade e sustentável, garantir uma proteção social adequada e digna, combater o desemprego de longa duração e lutar contra a pobreza e a exclusão social."
+  },
+  "6d63b202b9967ac2": {
+   "fragment_id": "Artigo 5.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Orçamento\n\n1. O enquadramento financeiro para a execução do Programa para o período compreendido entre 1 de janeiro de 2014 e 31 de dezembro de 2020 é de 919 469 000 EUR, a preços correntes.\n\n2. São atribuídas aos eixos definidos no artigo 3.º, n.º 1, as seguintes percentagens indicativas:\n\na) 61 % para o eixo Progress;\n\nb) 18 % para o eixo EURES;\n\nc) 21 % para o eixo Microfinanciamento e Empreendedorismo Social.\n\n3. A Comissão pode utilizar até 2 % do enquadramento financeiro referido no n.º 1 para financiar as despesas operacionais destinadas a apoiar a execução do Programa.\n\n4. A Comissão pode utilizar o enquadramento financeiro referido no n.º 1 para financiar ações de assistência técnica ou administrativa, em especial relacionadas com auditorias, externalização de traduções, reuniões de peritos e atividades de informação e comunicação no interesse mútuo da Comissão e dos beneficiários.\n\n5. As dotações anuais são autorizadas pelo Parlamento Europeu e pelo Conselho nos limites do quadro financeiro plurianual."
+  },
+  "47e606d84b0071bf": {
+   "fragment_id": "Artigo 6.º — Ações conjuntas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Ações conjuntas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ações conjuntas\n\nAs ações elegíveis ao abrigo do Programa podem ser executadas em conjugação com outros instrumentos da União, desde que cumpram simultaneamente os objetivos do Programa e dos referidos instrumentos."
+  },
+  "47c47ee4fd5ec3ab": {
+   "fragment_id": "Artigo 7.º — Coerência e complementaridade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Coerência e complementaridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coerência e complementaridade\n\n1. A Comissão assegura, em cooperação com os Estados-Membros, a coerência e a complementaridade de todas as atividades empreendidas ao abrigo do programa com outras ações da União, como os fundos europeus estruturais e de investimento, tal especificado no Quadro Estratégico Comum estabelecido pelo Regulamento (UE) n.º1303/2013 do Parlamento Europeu e do Conselho [([^14])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr14-L_2013347PT.01023801-E0014), em especial no âmbito do FSE.\n\n2. O Programa deve complementar outros programas da União, sem prejuízo dos procedimentos específicos desses programas. Os mesmos custos elegíveis não podem resultar em duplo financiamento e devem criar-se sinergias estreitas entre o Programa, outros programas da União e os fundos europeus estruturais e de investimento, nomeadamente o FSE.\n\n3. As atividades financiadas pelo Programa devem cumprir a legislação da União e as legislações nacionais, nomeadamente as relativas aos auxílios estatais, bem como as convenções fundamentais da OIT.\n\n4. A coerência e a complementaridade devem também ser asseguradas através de uma participação estreita das autoridades locais e regionais."
+  },
+  "a291264a8fdf69c1": {
+   "fragment_id": "Artigo 8.º — Cooperação com organismos competentes",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Cooperação com organismos competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cooperação com organismos competentes\n\nA Comissão estabelece as ligações necessárias com o Comité do Emprego, o Comité da Proteção Social, o Comité Consultivo para a Saúde e a Segurança no Trabalho, o Grupo de diretores-gerais para as relações laborais e o Comité Consultivo para a Livre Circulação dos Trabalhadores, a fim de assegurar que os mesmos sejam regular e devidamente informados dos progressos na execução do Programa. A Comissão informa igualmente outros comités responsáveis por políticas, instrumentos e ações relevantes para o Programa."
+  },
+  "e66f2db986b2ffa7": {
+   "fragment_id": "Artigo 9.º — Disseminação de resultados e comunicação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disseminação de resultados e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disseminação de resultados e comunicação\n\n1. A Comissão informa as partes interessadas da União, incluindo os parceiros sociais e as organizações da sociedade civil, dos resultados da execução do Programa, devendo convidá-los a trocar pontos de vista sobre o assunto.\n\n2. Os resultados das ações empreendidas ao abrigo do programa devem ser regular e devidamente comunicados e divulgados ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões, bem como aos parceiros sociais e ao público, a fim de maximizar o seu impacto, sustentabilidade e valor acrescentado a nível da União.\n\n3. As atividades de comunicação devem igualmente contribuir para divulgar as prioridades políticas da União na medida em que se relacionem com os objetivos gerais do presente regulamento e devem igualmente prestar informação ao público sobre essas prioridades."
+  },
+  "674df96491e90a00": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. Cabe à Comissão gerir o Programa, nos termos do Regulamento Financeiro.\n\n2. A convenção de subvenção deve especificar a parte da contribuição financeira da União que será baseada no reembolso de custos elegíveis reais e a parte que será baseada em percentagens fixas, custos unitários ou montantes fixos."
+  },
+  "b7a3a8959a8d063a": {
+   "fragment_id": "Artigo 11.º — Proteção dos interesses financeiros da União",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Proteção dos interesses financeiros da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Proteção dos interesses financeiros da União\n\n1. Na execução das medidas financiadas ao abrigo do presente Programa, a Comissão deve tomar medidas preventivas adequadas para assegurar a salvaguarda dos interesses financeiros da União contra a fraude, a corrupção e outras atividades ilegais, através da realização de verificações eficazes e, caso sejam detetadas irregularidades, a recuperação, principalmente por via de compensação, dos montantes pagos indevidamente, mas, se for caso disso, por via da aplicação de sanções eficazes, proporcionadas e dissuasivas, nos termos do artigo 325.º do TFUE, do Regulamento (CE, Euratom) n.º 2988/95 do Conselho [([^15])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr15-L_2013347PT.01023801-E0015) e do Regulamento Financeiro.\n\n2. A Comissão ou os seus representantes e o Tribunal de Contas podem realizar auditorias com base em documentos e inspeções no local a todos os beneficiários de subvenções, contratantes e subcontratantes que tenham recebido fundos da União ao abrigo do Programa.\n\n3. O Serviço Europeu de Luta Antifraude (OLAF) pode realizar investigações, incluindo verificações e inspeções no local, nos termos do Regulamento (UE, Euratom) n.º …/2013 do Parlamento Europeu e do Conselho [([^16])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr16-L_2013347PT.01023801-E0016) e do Regulamento (Euratom, CE) n.º 2185/96 do Conselho [([^17])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr17-L_2013347PT.01023801-E0017), com vista a apurar a existência de fraude, corrupção ou outras atividades ilícitas que afetem os interesses financeiros da União no âmbito de acordos ou decisões de subvenção ou de contratos financiados ao abrigo do programa.\n\n4. Sem prejuízo dos n.^os^ 1, 2 e 3, os contratos, convenções de subvenção e decisões de subvenção decorrentes da execução do presente Programa devem conter disposições que confiram expressamente à Comissão, ao Tribunal de Contas e ao OLAF poderes para realizar as auditorias e investigações referidas nos n.^os^ citados, de acordo com as respetivas competências."
+  },
+  "5313d164d5a5b442": {
+   "fragment_id": "Artigo 12.º — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acompanhamento\n\nPara permitir um acompanhamento regular do Programa e fazer os ajustes eventualmente necessários às suas prioridades políticas e de financiamento, a Comissão elabora um primeiro relatório de acompanhamento, quantitativo e qualitativo, abrangendo o primeiro ano, seguido de três relatórios abrangendo períodos consecutivos de dois anos, e transmite esses relatórios ao Parlamento Europeu e ao Conselho. Os relatórios devem igualmente ser transmitidos, para conhecimento, ao Comité Económico e Social Europeu e ao Comité das Regiões. Os relatórios devem dar conta dos resultados do Programa e da forma como, nas suas atividades, foram aplicados os princípios da igualdade entre mulheres e homens e da integração da perspetiva de género, bem como da forma como foram abordados os aspetos ligados à antidiscriminação, incluindo questões de acessibilidade. Os relatórios devem ser postos à disposição do público, a fim de garantir uma maior transparência do Programa."
+  },
+  "5699f2e9ef59afc6": {
+   "fragment_id": "Artigo 13.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação\n\n1. É realizada uma avaliação intercalar do Programa até 1 de julho de 2017 para analisar, em termos quantitativos e qualitativos, os progressos na consecução dos seus objetivos, abordar o ambiente social na União e eventuais mudanças introduzidas pela legislação da União, apurar se os recursos do Programa foram eficientemente utilizados e avaliar o respetivo valor acrescentado à escala da União. Os resultados da referida avaliação intercalar são apresentados ao Parlamento Europeu e ao Conselho.\n\n2. Se a avaliação a que se refere o n.º 1 do presente artigo ou qualquer outra avaliação efetuada nos termos do artigo 19.º da Decisão n.º 1672/2006/CE ou do artigo 9.º da Decisão n.º 283/2010/UE revelarem a existência de lacunas graves no Programa, a Comissão apresenta, se for caso disso, uma proposta ao Parlamento Europeu e ao Conselho, contendo alterações ao Programa adequadas para ter em conta os resultados da avaliação.\n\n3. Antes de qualquer proposta de prorrogação do Programa para além de 2020, a Comissão apresenta ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões uma avaliação dos pontos fortes e fracos do Programa, em termos conceptuais, no período de 2014 a 2020.\n\n4. Até 31 de dezembro de 2022, a Comissão procede a uma avaliação ex post destinada a medir o impacto e o valor acrescentado do Programa à escala da União e transmite os resultados dessa avaliação ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões. O relatório será posto à disposição do público."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "4079900c13c28d30": {
+   "fragment_id": "DISPOSIÇÕES ESPECÍFICAS DOS EIXOS DO PROGRAMA",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECÍFICAS DOS EIXOS DO PROGRAMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECÍFICAS DOS EIXOS DO PROGRAMA"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e0f552be4217c44f": {
+   "fragment_id": "Eixo Progress",
+   "type": "divisao",
+   "heading": "Eixo Progress",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Eixo Progress"
+  },
+  "ed02c0df19b60772": {
+   "fragment_id": "Artigo 14.º — Secções temáticas e financiamento",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Secções temáticas e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Secções temáticas e financiamento\n\n1. O eixo Progress apoia ações de uma ou várias das secções temáticas enumeradas nas alíneas a), b) e c). Ao longo de todo o período de vigência do Programa, a repartição indicativa da dotação referida no artigo 5.º, n.º 2, alínea a), entre as diferentes secções deve respeitar as seguintes percentagens mínimas:\n\na) Emprego, em particular para combater o desemprego dos jovens: 20 %;\n\nb) Proteção social, inclusão social e redução e prevenção da pobreza: 50 %;\n\nc) Condições de trabalho: 10 %.\n\nO remanescente é atribuído a uma ou a várias secções temáticas referidas nas alíneas a), b) ou c) ou a uma combinação das mesmas.\n\n2. A partir da dotação global afeta ao eixo Progress, e no âmbito das políticas nos seus diferentes domínios, 15 a 20 % devem ser atribuídos à promoção da experimentação social como método de testar e avaliar soluções inovadoras tendo em vista a sua utilização generalizada;"
+  },
+  "e5063e96fe6fa1ae": {
+   "fragment_id": "Artigo 15.º — Objetivos específicos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Objetivos específicos\n\nPara além, dos objetivos gerais referidos no artigo 4.º, são os seguintes os objetivos específicos do eixo Progress:\n\na) Desenvolver e divulgar análises comparativas de qualidade, a fim de assegurar que as políticas da União nos domínios referidos no artigo 1.º tenham por base factos comprovados e sejam relevantes para as necessidades, os desafios e as situações dos diferentes Estados-Membros e dos outros países participantes no Programa;\n\nb) Facilitar, de forma eficaz e inclusiva, a partilha de informações, a aprendizagem mútua e o diálogo sobre as políticas da União nos domínios referidos no artigo 1.º aos níveis da União, nacional e internacional, a fim de ajudar os Estados-Membros e outros países participantes a desenvolver as respetivas políticas e de ajudar os Estados-Membros a aplicar a legislação da União;\n\nc) Dar apoio financeiro para testar inovações sociais e do mercado de trabalho e, se necessário, melhorar a capacidade dos principais agentes para conceber e executar políticas de experimentação social e tornar acessíveis os conhecimentos e as competências relevantes;\n\nd) Dotar os organismos nacionais e da União de meios financeiros para reforçar as respetivas capacidades para desenvolver, promover e apoiar a aplicação dos instrumentos e políticas da União referidos no artigo 1.º e da legislação pertinente da União."
+  },
+  "bbf5b698269966c2": {
+   "fragment_id": "Artigo 16.º — Tipos de ações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Tipos de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tipos de ações\n\nNo âmbito do eixo Progress podem ser financiados os seguintes tipos de ações:\n\n1. Atividades analíticas: a) Recolha de dados e estatísticas, tendo em conta critérios qualitativos e quantitativos, e desenvolvimento de metodologias, classificações, microssimulações, indicadores e parâmetros de referência comuns, ventilados por género e grupo etário, se for caso disso; b) Inquéritos, estudos, análises e relatórios, designadamente através do financiamento de redes de peritos, e desenvolvimento de competências especializadas sobre secções temáticas; c) Análises e avaliações de impacto qualitativas e quantitativas efetuadas por entidades públicas e privadas; d) Acompanhamento e avaliação da transposição e aplicação da legislação da União; e) Preparação e realização de atividades de experimentação de políticas sociais enquanto método de testar e avaliar soluções inovadoras tendo em vista a sua utilização generalizada; f) Divulgação dos resultados das atividades analíticas acima referidas.\n\na) Recolha de dados e estatísticas, tendo em conta critérios qualitativos e quantitativos, e desenvolvimento de metodologias, classificações, microssimulações, indicadores e parâmetros de referência comuns, ventilados por género e grupo etário, se for caso disso;\n\nb) Inquéritos, estudos, análises e relatórios, designadamente através do financiamento de redes de peritos, e desenvolvimento de competências especializadas sobre secções temáticas;\n\nc) Análises e avaliações de impacto qualitativas e quantitativas efetuadas por entidades públicas e privadas;\n\nd) Acompanhamento e avaliação da transposição e aplicação da legislação da União;\n\ne) Preparação e realização de atividades de experimentação de políticas sociais enquanto método de testar e avaliar soluções inovadoras tendo em vista a sua utilização generalizada;\n\nf) Divulgação dos resultados das atividades analíticas acima referidas.\n\n2. Atividades de aprendizagem mútua, sensibilização e divulgação: a) Intercâmbio e disseminação de boas práticas, abordagens e experiências inovadoras, avaliações pelos pares, avaliações comparativas e aprendizagem mútua a nível europeu; b) Eventos, conferência e seminários da Presidência do Conselho; c) Formação de juristas e conselheiros; d) Redação e publicação de guias, relatórios e material didático, e medidas em matéria de informação, comunicação e mediatização das ações apoiadas pelo Programa; e) Atividades de informação e comunicação; f) Desenvolvimento e manutenção de sistemas de informação com vista ao intercâmbio e à divulgação de informações sobre as políticas e a legislação da União, bem como sobre o mercado de trabalho.\n\na) Intercâmbio e disseminação de boas práticas, abordagens e experiências inovadoras, avaliações pelos pares, avaliações comparativas e aprendizagem mútua a nível europeu;\n\nb) Eventos, conferência e seminários da Presidência do Conselho;\n\nc) Formação de juristas e conselheiros;\n\nd) Redação e publicação de guias, relatórios e material didático, e medidas em matéria de informação, comunicação e mediatização das ações apoiadas pelo Programa;\n\ne) Atividades de informação e comunicação;\n\nf) Desenvolvimento e manutenção de sistemas de informação com vista ao intercâmbio e à divulgação de informações sobre as políticas e a legislação da União, bem como sobre o mercado de trabalho.\n\n3. Apoio em matéria de: a) Despesas de funcionamento das principais redes estabelecidas a nível da União cujas atividades estejam relacionadas com o eixo Progress e contribuam para os seus objetivos; b) Criação de capacidades das administrações nacionais e dos serviços especialistas responsáveis pela promoção da mobilidade geográfica designados pelos Estados-Membros, bem como das instituições de microcrédito; c) Organização de grupos de trabalho compostos por responsáveis nacionais para acompanhar a aplicação da legislação da União; d) Ligação em rede e cooperação entre organismos especializados e outros interessados relevantes, autoridades nacionais, regionais e locais e serviços de emprego à escala da União; e) Financiamento de observatórios a nível da União, nomeadamente sobre secções temáticas essenciais; f) Intercâmbio de pessoal entre administrações nacionais.\n\na) Despesas de funcionamento das principais redes estabelecidas a nível da União cujas atividades estejam relacionadas com o eixo Progress e contribuam para os seus objetivos;\n\nb) Criação de capacidades das administrações nacionais e dos serviços especialistas responsáveis pela promoção da mobilidade geográfica designados pelos Estados-Membros, bem como das instituições de microcrédito;\n\nc) Organização de grupos de trabalho compostos por responsáveis nacionais para acompanhar a aplicação da legislação da União;\n\nd) Ligação em rede e cooperação entre organismos especializados e outros interessados relevantes, autoridades nacionais, regionais e locais e serviços de emprego à escala da União;\n\ne) Financiamento de observatórios a nível da União, nomeadamente sobre secções temáticas essenciais;\n\nf) Intercâmbio de pessoal entre administrações nacionais."
+  },
+  "0d33866fb5f9e8bf": {
+   "fragment_id": "Artigo 17.º — Cofinanciamento da União",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Cofinanciamento da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cofinanciamento da União\n\nCaso sejam financiadas após um convite à apresentação de propostas, as atividades a realizar ao abrigo do eixo Progress podem receber cofinanciamento da União, o qual, regra geral, não pode exceder 80 % da despesa total elegível. Apenas podem ser concedidos apoios financeiros que ultrapassem este limite em circunstâncias excecionais devidamente justificadas."
+  },
+  "8c40c7a79c174244": {
+   "fragment_id": "Artigo 18.º — Participação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Participação\n\n1. A participação no eixo Progress está aberta:\n\na) Aos Estados-Membros;\n\nb) Aos Países do EEE, nos termos do Acordo sobre o EEE, e aos Estados membros da EFTA;\n\nc) Aos países candidatos e potenciais candidatos, segundo os princípios e os termos e condições gerais estabelecidos nos acordos-quadro celebrados com esses países relativamente à sua participação em programas da União.\n\n2. O eixo Progress está aberto a todos os organismos, agentes e instituições, públicos ou privados, em especial:\n\na) Autoridades nacionais, regionais e locais;\n\nb) Serviços de emprego;\n\nc) Organismos especializados previstos na legislação da União;\n\nd) Parceiros sociais;\n\ne) Organizações não governamentais;\n\nf) Estabelecimentos de ensino superior e centros de investigação;\n\ng) Especialistas em análises e avaliações de impacto.\n\nh) Serviços nacionais de estatística;\n\ni) Meios de comunicação social.\n\n3. A Comissão pode cooperar com organizações internacionais, em especial com o Conselho da Europa, a OCDE, a OIT, outros órgãos das Nações Unidas e o Banco Mundial.\n\n4. A Comissão pode cooperar com países terceiros que não participem no Programa. Os representantes desses países terceiros podem estar presentes em eventos de interesse mútuo (tais como conferências, workshop e seminários) que se realizem em países participantes no Programa, podendo os custos dessa presença ser suportados ao abrigo do mesmo."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "341335e1e5e341c6": {
+   "fragment_id": "Eixo EURES",
+   "type": "divisao",
+   "heading": "Eixo EURES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Eixo EURES"
+  },
+  "05a7fd8bce25d4f6": {
+   "fragment_id": "Artigo 19.º — Secções temáticas e financiamento",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Secções temáticas e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Secções temáticas e financiamento\n\nO eixo EURES apoia ações em uma ou várias secções temáticas enumeradas nas alíneas a), b) e c). Ao longo de todo o período de vigência do Programa, a repartição indicativa da dotação prevista no artigo 5.º, n.º 2, alínea b), entre as diferentes secções deve respeitar as seguintes percentagens mínimas:\n\na) Transparência das ofertas, dos pedidos de emprego e das informações conexas para os candidatos e para os empregadores: 32 %;\n\nb) Desenvolvimento dos serviços de recrutamento e colocação de trabalhadores no mercado laboral por meio da compensação de ofertas e pedidos de emprego ao nível da União, em particular regimes de mobilidade específicos: 30 %;\n\nc) Parcerias transfronteiriças: 18 %.\n\nO remanescente é atribuído a uma ou várias secções temáticas referidas nas alíneas a), b) ou c), ou a uma combinação das mesmas."
+  },
+  "16a97e03719d2f3f": {
+   "fragment_id": "Artigo 20.º — Objetivos específicos",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Objetivos específicos\n\nPara além dos objetivos gerais previstos no artigo 4.º, os objetivos específicos do eixo EURES são os seguintes:\n\na) Assegurar a transparência das ofertas, dos pedidos de emprego e das informações e aconselhamento correspondentes, bem como de outras informações conexas, nomeadamente as que digam respeito às condições de vida e de trabalho, para os potenciais candidatos e para os empregadores, respetivamente. Tal deve ser conseguido através do intercâmbio e da divulgação de informações ao nível transnacional, interregional e transfronteiriço, através de formulários de interoperabilidade comuns para as ofertas e os pedidos de emprego, e através de outros meios adequados, nomeadamente aconselhamento individualizado e orientação, em especial para as pessoas menos qualificadas;\n\nb) Apoiar a prestação dos serviços EURES de recrutamento e colocação de trabalhadores em empregos de qualidade e sustentáveis por meio da compensação de ofertas e pedidos de emprego; o apoio dos serviços EURES deve alargar-se às várias fases da colocação, desde a preparação do pré-recrutamento à assistência pós-colocação, com vista à integração bem-sucedida dos candidatos no mercado de trabalho; estes serviços de apoio podem incluir regimes de mobilidade específicos para preencher as ofertas de emprego num determinado setor, atividade profissional, país ou grupo de países, ou para grupos específicos de trabalhadores, por exemplo jovens, com propensão para a mobilidade, caso tenham sido detetadas necessidades económicas evidentes."
+  },
+  "2658aaf6832fec01": {
+   "fragment_id": "Artigo 21.º — Tipos de ações",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Tipos de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Tipos de ações\n\nO eixo EURES pode ser utilizado para financiar ações de promoção da mobilidade voluntária de pessoas na União, em condições justas, e de eliminação de obstáculos à mobilidade, nomeadamente:\n\na) Desenvolvimento e atividades de parcerias transfronteiriças EURES, se solicitado pelos serviços territorialmente responsáveis pelas regiões fronteiriças;\n\nb) Prestação de serviços de informação, aconselhamento, colocação e recrutamento destinados a trabalhadores transfronteiriços;\n\nc) Desenvolvimento de uma plataforma digital multilingue para a compensação das ofertas e pedidos de emprego;\n\nd) Desenvolvimento de regimes de mobilidade específicos, na sequência de convites à apresentação de propostas, para preencher vagas caso sejam identificadas lacunas no mercado de trabalho, e/ou para ajudar trabalhadores com propensão para a mobilidade, caso tenham sido detetadas necessidades económicas evidentes;\n\ne) Aprendizagem mútua entre intervenientes EURES e formação de conselheiros EURES, nomeadamente conselheiros EURES para as parcerias transfronteiriças;\n\nf) Atividades de informação e comunicação destinadas a reforçar a sensibilização para os benefícios da mobilidade geográfica e profissional em geral e para as atividades e serviços prestados pelo EURES."
+  },
+  "9cbfda9a6df5dde0": {
+   "fragment_id": "Artigo 22.º — Cofinanciamento da União",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Cofinanciamento da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Cofinanciamento da União\n\nCaso sejam financiadas após um convite à apresentação de propostas, as atividades realizadas ao abrigo do eixo EURES podem receber cofinanciamento da União, o qual, em regra geral, não deve exceder 95 % da despesa total elegível. Só podem ser concedidos apoios financeiros que ultrapassem este limite em circunstâncias excecionais devidamente justificadas."
+  },
+  "b397e407f8f1d9b8": {
+   "fragment_id": "Artigo 23.º — Acompanhamento dos padrões de mobilidade",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Acompanhamento dos padrões de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acompanhamento dos padrões de mobilidade\n\nA fim de detetar e prevenir os efeitos negativos decorrentes da mobilidade geográfica na União, a Comissão acompanha regularmente, em conjunto com os Estados-Membros e nos termos do artigo 12.º do Regulamento(UE) n.º 492/2011, os fluxos e os padrões de mobilidade."
+  },
+  "9b39ce794b0b3c3b": {
+   "fragment_id": "Artigo 24.º — Participação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Participação\n\n1. A participação no eixo EURES está aberta:\n\na) Aos Estados-Membros;\n\nb) Aos Estados do EEE, nos termos do Acordo sobre o EEE, e à Confederação Suíça, nos termos do Acordo entre a Comunidade Europeia e os seus Estados-Membros, por um lado, e a Confederação Suíça, por outro, sobre a livre circulação de pessoas [([^18])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr18-L_2013347PT.01023801-E0018).\n\n2. O eixo EURES está aberto a todos os organismos, agentes e instituições designados por um Estado-Membro ou pela Comissão que preencham as condições de participação na rede EURES definidas na Decisão de Execução 2012/733/UE da Comissão. Esses organismos, agentes e instituições incluem, nomeadamente:\n\na) Autoridades nacionais, regionais e locais;\n\nb) Serviços de emprego;\n\nc) Organizações de parceiros sociais e outros interessados."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "b8882275a9140552": {
+   "fragment_id": "Eixo Microfinanciamento e Empreendedorismo Social",
+   "type": "divisao",
+   "heading": "Eixo Microfinanciamento e Empreendedorismo Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Eixo Microfinanciamento e Empreendedorismo Social"
+  },
+  "e725eb6a070e8b7d": {
+   "fragment_id": "Artigo 25.º — Secções temáticas e financiamento",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Secções temáticas e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Secções temáticas e financiamento\n\nO eixo Microfinanciamento e Empreendedorismo Social apoia ações de uma ou várias das secções temáticas enumeradas nas alíneas a) e b). Ao longo de todo o período de vigência do Programa, a repartição da dotação indicativa prevista no artigo 5.º, n.º 2, alínea c), entre as diferentes secções deve respeitar as seguintes percentagens mínimas:\n\na) Microfinanciamento para os grupos vulneráveis e as microempresas: 45 %;\n\nb) Empreendedorismo social: 45 %.\n\nO remanescente é atribuído às secções temáticas referidas nas alíneas a) ou b), ou a uma combinação de algumas dessas secções."
+  },
+  "f3fe32e588f59551": {
+   "fragment_id": "Artigo 26.º — Objetivos específicos",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Objetivos específicos\n\nPara além dos objetivos gerais referidos no artigo 4.º, os objetivos específicos do eixo Microfinanciamento e Empreendedorismo Social são os seguintes:\n\na) Melhorar o acesso ao microfinanciamento e a respetiva disponibilidade para: i) pessoas vulneráveis que perderam ou estão em risco de perder o seu emprego, que têm dificuldades em ingressar ou reingressar no mercado de trabalho, que estão em risco de exclusão social ou se encontram numa situação de exclusão social e que se encontram em posição de desvantagem no que se refere ao acesso ao mercado de crédito convencional e pretendem criar ou desenvolver as suas próprias microempresas, ii) microempresas, tanto em fase de arranque como em fase de desenvolvimento, em especial as que empregam pessoas nas situações referidas na subalínea i);\n\ni) pessoas vulneráveis que perderam ou estão em risco de perder o seu emprego, que têm dificuldades em ingressar ou reingressar no mercado de trabalho, que estão em risco de exclusão social ou se encontram numa situação de exclusão social e que se encontram em posição de desvantagem no que se refere ao acesso ao mercado de crédito convencional e pretendem criar ou desenvolver as suas próprias microempresas,\n\nii) microempresas, tanto em fase de arranque como em fase de desenvolvimento, em especial as que empregam pessoas nas situações referidas na subalínea i);\n\nb) Reforçar as capacidades institucionais dos prestadores de microcrédito;\n\nc) Apoiar o desenvolvimento do mercado de investimento social e facilitar o acesso a financiamentos por parte das empresas sociais, disponibilizando capital próprio, quase-capital, instrumentos de concessão de empréstimos e subvenções até 500 000 EUR a empresas sociais com um volume de negócios que não exceda 30 milhões de euros ou um balanço total anual que não exceda 30 milhões de euros que não sejam organismos de investimento coletivo.\n\nA fim de assegurar a complementaridade, a Comissão e os Estados-Membros devem coordenar estreitamente estas ações, nas respetivas áreas de competência, com as ações empreendidas no âmbito da política de coesão e das políticas nacionais."
+  },
+  "92a7593f4047d541": {
+   "fragment_id": "Artigo 27.º — Tipos de ações",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Tipos de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Tipos de ações\n\nO eixo Microfinanciamento e Empresas Sociais pode ser utilizado para financiar ações de apoio ao microfinanciamento e às empresas sociais, inclusive no que toca à criação de capacidades institucionais, em particular através dos instrumentos financeiros previstos na Parte I, Título VIII, do Regulamento Financeiro, e de subvenções."
+  },
+  "a288e60a0426a932": {
+   "fragment_id": "Artigo 28.º — Participação",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Participação\n\n1. A participação no eixo Microfinanciamento e Empreendedorismo Social está aberta a organismos públicos e privados estabelecidos a nível nacional, regional ou local nos países referidos no artigo 18.º, n.º 1, e que facultam nesses países:\n\na) Microfinanciamentos a pessoas e microempresas; e\n\nb) Financiamentos a empresas sociais.\n\n2. A Comissão assegura que o eixo seja acessível, sem discriminações, a todos os organismos públicos e privados dos Estados-Membros.\n\n3. A fim de alcançar os beneficiários finais e de criar microempresas competitiva e viáveis, os organismos públicos e privados envolvidos nas atividades referidas no n.º 1, alínea a), devem cooperar estreitamente com as organizações, incluindo organizações da sociedade civil, que representam os interesses dos beneficiários finais do microcrédito e com as organizações, em especial as apoiadas pelo FSE, que oferecem programas de orientação e formação aos beneficiários finais. Neste contexto, os referidos organismos devem assegurar o devido acompanhamento dos beneficiários, antes e depois da criação da microempresa.\n\n4. Os organismos públicos e privados envolvidos nas atividades referidas no n.º 1, alínea a), devem aderir a normas de qualidade no que respeita à governação, à gestão e à defesa dos clientes, de harmonia com os princípios do Código Europeu de Conduta em matéria de Prestação de Microcrédito, e procurar impedir o sobreendividamento de pessoas e empresas, provocado, por exemplo, pela concessão de créditos a taxas de juro muito elevadas ou em condições passíveis de conduzir à sua insolvência."
+  },
+  "c7660dda79d4cbe9": {
+   "fragment_id": "Artigo 29.º — Contribuição financeira",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Contribuição financeira\n\nExceto no caso de ações conjuntas, as dotações financeiras atribuídas ao eixo Microfinanciamento e Empreendedorismo Social cobrem os custos totais das ações realizadas através de instrumentos financeiros, designadamente obrigações de pagamento para com intermediários financeiros, tais como prejuízos decorrentes de garantias, encargos de gestão das entidades que gerem os recursos da União e outros custos elegíveis."
+  },
+  "818dafdacfafae7c": {
+   "fragment_id": "Artigo 30.º — Gestão",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Gestão\n\n1. A fim de aplicar os instrumentos e subvenções a que se refere o artigo 227.º, a Comissão pode celebrar acordos com as entidades referidas no artigo 139.º, n.º 4, do Regulamento Financeiro em especial com o Banco Europeu de Investimento e o Fundo Europeu de Investimento. Os referidos acordos devem conter disposições pormenorizadas sobre a execução das tarefas confiadas às referidas entidades, incluindo disposições que especifiquem a necessidade de garantir a sua adicionalidade e coordenação com os instrumentos financeiros existentes a nível nacional e da União e de distribuir os recursos de forma equilibrada entre os Estados-Membros e os outros países participantes. Os instrumentos financeiros a que se refere a Parte I, Título VIII, do Regulamento Financeiro podem ser facultados através de um veículo de investimento especializado, que pode ser financiado por fundos do Programa, por outros investidores ou por ambos.\n\n2. O veículo de investimento especializado a que se refere o n.º 1 pode facultar, nomeadamente, empréstimos, capital próprio e instrumentos de partilha de risco a intermediários ou financiamentos diretos às empresas sociais, ou ambos. O capital social pode ser disponibilizado, designadamente, sob a forma de participações de capital aberto, participações passivas, empréstimos associados a ações ou combinações de diferentes tipos de participações de capital emitidas para os investidores.\n\n3. As condições, como as taxas de juro, aplicáveis aos microcréditos direta ou indiretamente apoiados no âmbito deste eixo devem refletir os benefícios do apoio e justificar-se em termos de riscos subjacentes e custos reais de financiamento relacionados com cada crédito.\n\n4. Nos termos do artigo 140.º, n.º 6, do Regulamento Financeiro, os reembolsos anuais gerados por cada instrumento financeiro são atribuídos a esse instrumento financeiro até 1 de janeiro de 2024, ao passo que as receitas são inscritas no orçamento geral da União após a dedução dos custos e encargos de gestão. No caso de instrumentos financeiros já criados no âmbito do quadro financeiro plurianual para o período 2007-2013, os reembolsos e as receitas anuais gerados por operações iniciadas no período anterior são atribuídos ao instrumento financeiro no período em curso.\n\n5. Aquando da expiração dos acordos celebrados com as entidades referidas no n.º 1 ou após o termo do período de investimento do veículo de investimento especializado, o saldo devido à União é transferido para o orçamento geral da União.\n\n6. As entidades referidas no n.º 1 do presente artigo e, se for caso disso, os gestores dos fundos devem celebrar acordos escritos com os organismos públicos e privados referidos no artigo 28.º. Esses acordos devem estabelecem as obrigações de os organismos públicos e privados em questão usarem os recursos disponibilizados ao abrigo do eixo Microfinanciamento e Empreendedorismo Social de acordo com os objetivos definidos no artigo 26.º, bem como fornecer informações para a elaboração dos relatórios anuais de execução previstos no artigo 31.º."
+  },
+  "c4eef0f92dab6c5b": {
+   "fragment_id": "Artigo 31.º — Relatórios de execução",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Relatórios de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Relatórios de execução\n\n1. As entidades referidas no artigo 30.º, n.º 1, e, se for caso disso, os gestores dos fundos devem enviar à Comissão relatórios anuais de execução dando conta das atividades subvencionadas e da sua execução financeira, bem como da distribuição e acessibilidade dos fundos e investimentos por setor, zona geográfica e tipo de beneficiário. Estes relatórios devem indicar igualmente as candidaturas aceites ou rejeitadas relativamente a cada objetivo específico e os contratos celebrados pelos organismos públicos e privados em causa, as ações financiadas e os resultados, designadamente em termos de impacto social, criação de emprego e sustentabilidade dos apoios concedidos. A Comissão envia os relatórios ao Parlamento Europeu, para conhecimento.\n\n2. As informações prestadas nos referidos relatórios anuais de execução devem ser incluídas nos relatórios bienais de acompanhamento previstos no artigo 12.º. Esses relatórios de acompanhamento devem incluir os relatórios anuais previstos no artigo 8.º, n.º 2, da Decisão n.º 283/2010/UE, informações detalhadas sobre as atividades de comunicação e informações sobre a complementaridade com outros instrumentos da União, nomeadamente o FSE."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "39c6289492bbd435": {
+   "fragment_id": "PROGRAMAS DE TRABALHO E DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "PROGRAMAS DE TRABALHO E DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROGRAMAS DE TRABALHO E DISPOSIÇÕES FINAIS"
+  },
+  "a571941a7508ea48": {
+   "fragment_id": "Artigo 32.º — Programas de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Programas de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Programas de trabalho\n\nA Comissão adota atos de execução para estabelecer programas de trabalho que abranjam os três eixos. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 36.º, n.º 3.\n\nOs programas de trabalho devem, se for caso disso, abranger um período de três anos consecutivos, e devem conter uma descrição das ações a financiar, os procedimentos para selecionar ações a apoiar pela União, a cobertura geográfica, o público-alvo e um prazo de execução indicativo. Os programas de trabalho devem indicar também os montantes atribuídos a cada objetivo específico, e devem refletir a reafetação dos fundos nos termos do artigo 33.º. Os programas de trabalho devem reforçar a coerência do Programa indicando as ligações entre os três eixos."
+  },
+  "d5fb0e2658116460": {
+   "fragment_id": "Artigo 33.º — Reafetação de fundos entre os eixos e a cada uma das secções temáticas dentro de cada eixo",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Reafetação de fundos entre os eixos e a cada uma das secções temáticas dentro de cada eixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Reafetação de fundos entre os eixos e a cada uma das secções temáticas dentro de cada eixo\n\nA Comissão fica habilitada a adotar atos delegados, nos termos do artigo 34.º, no que diz respeito à reafetação de fundos entre os eixos e a cada uma das secções temáticas dentro de cada eixo que exceda o montante indicativo fixado em cada caso em mais de 5 % e até 10 %, caso a evolução do contexto socioeconómico ou as conclusões da avaliação intercalar prevista no artigo 13.º, n.º 1 o exijam. A reafetação de fundos às secções temáticas dentro de cada eixo deve refletir-se nos programas de trabalho referidos no artigo 32.º."
+  },
+  "e16bcad1ad4f7c8f": {
+   "fragment_id": "Artigo 34.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados a que se refere o artigo 33.º é conferido à Comissão por um prazo de sete anos a contar de 1 de janeiro de 2014.\n\n3. A delegação de poderes a que se refere o artigo 33.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 33.º.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "9e9330e898171182": {
+   "fragment_id": "Artigo 35.º — Medidas adicionais de execução",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Medidas adicionais de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Medidas adicionais de execução\n\nAs medidas necessárias à execução do Programa, como os critérios de avaliação do Programa, nomeadamente os que se referem à relação custo-eficácia e as disposições aplicáveis à divulgação e transmissão dos resultados, são adotadas pelo procedimento consultivo a que se refere o artigo 36.º, n.º 2."
+  },
+  "6e336e79eab231d7": {
+   "fragment_id": "Artigo 36.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité. O referido comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.\n\n3. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "d1b5b9d26a722ca5": {
+   "fragment_id": "Artigo 37.º — Medidas transitórias",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Medidas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Medidas transitórias\n\nAs ações referidas nos artigos 4.º, 5.º e 6.º da Decisão n.º 1672/2006/CE que tenham início antes de 1 de janeiro de 2014 continuam a ser regidas por essa decisão. No que respeita às ações, a Comissão é assistida pelo comité referido no artigo 36.º do presente regulamento."
+  },
+  "ecc71fb0d60ab0ed": {
+   "fragment_id": "Artigo 38.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Avaliação\n\n1. A avaliação final prevista no artigo 13.º, n.º 4 do presente regulamento, compreende a avaliação final referida no artigo 9.º da Decisão n.º 283/2010/UE.\n\n2. A Comissão efetua uma avaliação final específica do eixo Microfinanciamento e Empreendedorismo Social no prazo de um ano a contar do termo da vigência dos acordos celebrados com as entidades."
+  },
+  "d83e871d661f6e81": {
+   "fragment_id": "Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Alteração da Decisão n.º 283/2010/UE\n\nA Decisão n.º 283/2010/UE é alterada do seguinte modo:\n\n1) No artigo 5.º, o n.º 4 passa a ter a seguinte redação: \"4. No termo da vigência do instrumento, o saldo devido à União é disponibilizado para microfinanciamento e apoio a empresas sociais, nos termos do Regulamento (UE) n.º 1296/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que cria um Programa da União Europeia para o Emprego e a Inovação Social (\"EaSI\")[([^*1])](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntr*1-L_2013347PT.01023801-E0019). [(^*1^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc*1-L_2013347PT.01023801-E0019) [JO L 347 de 20.12.2013, p. 238](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC)\".\"\n\n2) No artigo 8.º, os números 3 e 4 são suprimidos."
+  },
+  "265316b540376706": {
+   "fragment_id": "Artigo 40.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados Membros.\n\nFeito em Estrasburgo, em 11 de dezembro de 2013.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**V. LEŠKEVIČIUS**\n\n---"
+  },
+  "886ae1de8fe48bbc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc1-L_2013347PT.01023801-E0001) [JO C 143 de 22.5.2012, p. 88](http://publications.europa.eu/resource/oj/JOC_2012_143_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc2-L_2013347PT.01023801-E0002) [JO C 225 de 27.7.2012, p. 167](http://publications.europa.eu/resource/oj/JOC_2012_225_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc3-L_2013347PT.01023801-E0003) Posição do Parlamento Europeu de 21 de novembro de 2013 (ainda não publicada no Jornal Oficial).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc4-L_2013347PT.01023801-E0004) Decisão n.º 1672/2006/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 2006, que estabelece um Programa Comunitário para o Emprego e a Solidariedade Social – Progress ([JO L 315 de 15.11.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_315_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc5-L_2013347PT.01023801-E0005) Regulamento (UE) n.º 492/2011 do Parlamento Europeu e do Conselho, de 5 de abril de 2011, relativo à livre circulação dos trabalhadores na União ([JO L 141 de 27.5.2011, p. 1](http://publications.europa.eu/resource/oj/JOL_2011_141_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc6-L_2013347PT.01023801-E0006) Decisão de Execução 2012/733/UE da Comissão, de 26 de novembro de 2012, que executa o Regulamento (UE) n.º 492/2011 do Parlamento Europeu e do Conselho no que se refere à compensação das ofertas e dos pedidos de emprego e ao restabelecimento da rede EURES ([JO L 328 de 28.11.2012, p. 21](http://publications.europa.eu/resource/oj/JOL_2012_328_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc7-L_2013347PT.01023801-E0007) Decisão n.º 283/2010/UE do Parlamento Europeu e do Conselho, de 25 de março de 2010, que estabelece um Instrumento Europeu de Microfinanciamento Progress para o Emprego e a Inclusão Social ([JO L 87 de 7.4.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_087_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc8-L_2013347PT.01023801-E0008) Decisão 2010/707/EU do Conselho, de 21 de outubro de 2010, relativa às orientações para as políticas de emprego dos Estados-Membros ([JO L 308 de 24.11.2010, p. 46](http://publications.europa.eu/resource/oj/JOL_2010_308_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc9-L_2013347PT.01023801-E0009) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.º 1605/2002 ([JO L 298 de 26.10.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_298_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc10-L_2013347PT.01023801-E0010) Recomendação do Conselho de 22 de abril de 2013 sobre a instituição de uma Garantia para a Juventude ([JO C 120 de 26.4.2013, p. 1](http://publications.europa.eu/resource/oj/JOC_2013_120_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc11-L_2013347PT.01023801-E0011) [JO C 373 de 20.12.2013, p. 1](http://publications.europa.eu/resource/oj/JOC_2013_373_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc12-L_2013347PT.01023801-E0012) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício de competências de execução pela Comissão ([JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc13-L_2013347PT.01023801-E0013) Recomendação 2003/361/CE da Comissão, de 5 de maio de 2003, relativa à definição de micro, pequenas e médias empresas ([JO L 124 de 20.5.2003, p. 36](http://publications.europa.eu/resource/oj/JOL_2003_124_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc14-L_2013347PT.01023801-E0014) Regulamento (UE) n.º1303/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013 que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu para os Assuntos Marítimos e as Pescas, abrangidos pelo Quadro Estratégico Comum, e que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu e ao Fundo de Coesão (Ver página 320 do presente Jornal Oficial).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc15-L_2013347PT.01023801-E0015) Regulamento (CE, Euratom) n.º 2988/95 do Conselho, de 18 de dezembro de 1995, relativo à proteção dos interesses financeiros das Comunidades Europeias ([JO L 312 de 23.12.1995, p. 1](http://publications.europa.eu/resource/oj/JOL_1995_312_R_TOC)).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc16-L_2013347PT.01023801-E0016) Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013,relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude e que revoga o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho e o Regulamento (Euratom) n.º 1074/1999 do Conselho ([JO L 248 de 18.9.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_248_R_TOC)).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc17-L_2013347PT.01023801-E0017) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades ([JO L 292 de 15.11.1996, p. 2](http://publications.europa.eu/resource/oj/JOL_1996_292_R_TOC)).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/0235476b-6c01-11e3-9afb-01aa75ed71a1.0020.03/DOC_1#ntc18-L_2013347PT.01023801-E0018) [JO L 114 de 30.4.2002, p. 6](http://publications.europa.eu/resource/oj/JOL_2002_114_R_TOC)."
+  },
+  "4b421afddfb58459": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de dezembro de 2013\n\nque cria um Programa da União Europeia para o Emprego e a Inovação Social (\"EaSI\") e que altera a Decisão n.º 283/2010/UE que estabelece um Instrumento de Microfinanciamento Europeu Progress para o Emprego e a Inclusão Social\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "672bcd029c78ac57": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento entende-se por:\n\n1) \"Empresa social\", uma entidade, seja qual for a sua forma jurídica, que:\n\na) Nos termos do seu pacto social, estatutos ou qualquer outro documento legal que a constitua, tenha como objetivo principal produzir impactos sociais mensuráveis e positivos e não apenas gerar lucros para os seus proprietários, sócios e acionistas, e que:\n\ni) preste serviços ou forneça bens com um alto rendimento social, e/ou\n\nii) utilize um modo de produção de bens ou serviços que concretize o seu objetivo social;\n\nb) Utilize os seus lucros para, acima de tudo, atingir o seu objetivo principal, segundo procedimentos e regras previamente definidos aplicáveis à distribuição de lucros aos acionistas e proprietários e que assegurem que tal distribuição não prejudique o objetivo principal; e\n\nc) Seja gerida de forma empreendedora, responsável e transparente, designadamente através da participação de trabalhadores, clientes e outros agentes afetados pelas suas atividades.\n\n2) \"Microcrédito\", um empréstimo de até 25 000 euros;\n\n3) \"Microempresa\", uma empresa, incluindo um trabalhador independente, que empregue menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não exceda 2 milhões de euros, de acordo com o disposto na Recomendação 2003/361/CE da Comissão ([^13^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#E0013));\n\n4) \"Microfinanciamento\", garantias, microcrédito, capital próprio e quase-capital alargado a pessoas e microempresas com dificuldades de acesso a crédito;\n\n5) \"Inovações sociais\", inovações que sejam sociais, quer pelos seus fins, quer pelas suas necessidades, e digam respeito, em especial, ao desenvolvimento e aplicação de novas ideias (relativas a produtos, serviços ou modelos) que simultaneamente satisfaçam necessidades sociais e criem novas relações ou colaborações sociais, desse modo beneficiando a sociedade e melhorando a sua capacidade de ação;\n\n6) \"Experimentação em matéria de políticas sociais\", intervenções políticas que deem respostas inovadoras a necessidades sociais e sejam aplicadas em pequena escala e em condições que assegurem que o seu impacto seja mensurável, para que possam ser repetidas em mais larga escala se os seus resultados forem convincentes."
+  },
+  "a08dd1f346acafff": {
+   "fragment_id": "Artigo 7.º — Coerência e complementaridade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Coerência e complementaridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coerência e complementaridade\n\n1. A Comissão assegura, em cooperação com os Estados-Membros, a coerência e a complementaridade de todas as atividades empreendidas ao abrigo do programa com outras ações da União, como os fundos europeus estruturais e de investimento, tal especificado no Quadro Estratégico Comum estabelecido pelo Regulamento (UE) n.º1303/2013 do Parlamento Europeu e do Conselho ([^14^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#E0014)), em especial no âmbito do FSE.\n\n2. O Programa deve complementar outros programas da União, sem prejuízo dos procedimentos específicos desses programas. Os mesmos custos elegíveis não podem resultar em duplo financiamento e devem criar-se sinergias estreitas entre o Programa, outros programas da União e os fundos europeus estruturais e de investimento, nomeadamente o FSE.\n\n3. As atividades financiadas pelo Programa devem cumprir a legislação da União e as legislações nacionais, nomeadamente as relativas aos auxílios estatais, bem como as convenções fundamentais da OIT.\n\n4. A coerência e a complementaridade devem também ser asseguradas através de uma participação estreita das autoridades locais e regionais."
+  },
+  "3546cdf4477000dc": {
+   "fragment_id": "Artigo 11.º — Proteção dos interesses financeiros da União",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Proteção dos interesses financeiros da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Proteção dos interesses financeiros da União\n\n1. Na execução das medidas financiadas ao abrigo do presente Programa, a Comissão deve tomar medidas preventivas adequadas para assegurar a salvaguarda dos interesses financeiros da União contra a fraude, a corrupção e outras atividades ilegais, através da realização de verificações eficazes e, caso sejam detetadas irregularidades, a recuperação, principalmente por via de compensação, dos montantes pagos indevidamente, mas, se for caso disso, por via da aplicação de sanções eficazes, proporcionadas e dissuasivas, nos termos do artigo 325.º do TFUE, do Regulamento (CE, Euratom) n.º 2988/95 do Conselho ([^15^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#E0015)) e do Regulamento Financeiro.\n\n2. A Comissão ou os seus representantes e o Tribunal de Contas podem realizar auditorias com base em documentos e inspeções no local a todos os beneficiários de subvenções, contratantes e subcontratantes que tenham recebido fundos da União ao abrigo do Programa.\n\n3. O Serviço Europeu de Luta Antifraude (OLAF) pode realizar investigações, incluindo verificações e inspeções no local, nos termos do Regulamento (UE, Euratom) n.º …/2013 do Parlamento Europeu e do Conselho ([^16^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#E0016)) e do Regulamento (Euratom, CE) n.º 2185/96 do Conselho ([^17^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#E0017)), com vista a apurar a existência de fraude, corrupção ou outras atividades ilícitas que afetem os interesses financeiros da União no âmbito de acordos ou decisões de subvenção ou de contratos financiados ao abrigo do programa.\n\n4. Sem prejuízo dos n.^os^ 1, 2 e 3, os contratos, convenções de subvenção e decisões de subvenção decorrentes da execução do presente Programa devem conter disposições que confiram expressamente à Comissão, ao Tribunal de Contas e ao OLAF poderes para realizar as auditorias e investigações referidas nos n.^os^ citados, de acordo com as respetivas competências."
+  },
+  "f2a26ea60c250b74": {
+   "fragment_id": "Artigo 16.º — Tipos de ações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Tipos de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tipos de ações\n\nNo âmbito do eixo Progress podem ser financiados os seguintes tipos de ações:\n\n1. Atividades analíticas:\n\na) Recolha de dados e estatísticas, tendo em conta critérios qualitativos e quantitativos, e desenvolvimento de metodologias, classificações, microssimulações, indicadores e parâmetros de referência comuns, ventilados por género e grupo etário, se for caso disso;\n\nb) Inquéritos, estudos, análises e relatórios, designadamente através do financiamento de redes de peritos, e desenvolvimento de competências especializadas sobre secções temáticas;\n\nc) Análises e avaliações de impacto qualitativas e quantitativas efetuadas por entidades públicas e privadas;\n\nd) Acompanhamento e avaliação da transposição e aplicação da legislação da União;\n\ne) Preparação e realização de atividades de experimentação de políticas sociais enquanto método de testar e avaliar soluções inovadoras tendo em vista a sua utilização generalizada;\n\nf) Divulgação dos resultados das atividades analíticas acima referidas.\n\n2. Atividades de aprendizagem mútua, sensibilização e divulgação:\n\na) Intercâmbio e disseminação de boas práticas, abordagens e experiências inovadoras, avaliações pelos pares, avaliações comparativas e aprendizagem mútua a nível europeu;\n\nb) Eventos, conferência e seminários da Presidência do Conselho;\n\nc) Formação de juristas e conselheiros;\n\nd) Redação e publicação de guias, relatórios e material didático, e medidas em matéria de informação, comunicação e mediatização das ações apoiadas pelo Programa;\n\ne) Atividades de informação e comunicação;\n\nf) Desenvolvimento e manutenção de sistemas de informação com vista ao intercâmbio e à divulgação de informações sobre as políticas e a legislação da União, bem como sobre o mercado de trabalho.\n\n3. Apoio em matéria de:\n\na) Despesas de funcionamento das principais redes estabelecidas a nível da União cujas atividades estejam relacionadas com o eixo Progress e contribuam para os seus objetivos;\n\nb) Criação de capacidades das administrações nacionais e dos serviços especialistas responsáveis pela promoção da mobilidade geográfica designados pelos Estados-Membros, bem como das instituições de microcrédito;\n\nc) Organização de grupos de trabalho compostos por responsáveis nacionais para acompanhar a aplicação da legislação da União;\n\nd) Ligação em rede e cooperação entre organismos especializados e outros interessados relevantes, autoridades nacionais, regionais e locais e serviços de emprego à escala da União;\n\ne) Financiamento de observatórios a nível da União, nomeadamente sobre secções temáticas essenciais;\n\nf) Intercâmbio de pessoal entre administrações nacionais."
+  },
+  "b4b992ee7f22e5c4": {
+   "fragment_id": "Artigo 24.º — Participação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Participação\n\n1. A participação no eixo EURES está aberta:\n\na) Aos Estados-Membros;\n\nb) Aos Estados do EEE, nos termos do Acordo sobre o EEE, e à Confederação Suíça, nos termos do Acordo entre a Comunidade Europeia e os seus Estados-Membros, por um lado, e a Confederação Suíça, por outro, sobre a livre circulação de pessoas ([^18^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#E0018)).\n\n2. O eixo EURES está aberto a todos os organismos, agentes e instituições designados por um Estado-Membro ou pela Comissão que preencham as condições de participação na rede EURES definidas no Regulamento (UE) 2016/589 do Parlamento Europeu e do Conselho ([^19^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#E0019)). Esses organismos, agentes e instituições incluem, nomeadamente:\n\na) Autoridades nacionais, regionais e locais;\n\nb) Serviços de emprego;\n\nc) Organizações de parceiros sociais e outros interessados."
+  },
+  "21d5dbb6f79fd887": {
+   "fragment_id": "Artigo 26.º — Objetivos específicos",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Objetivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Objetivos específicos\n\nPara além dos objetivos gerais referidos no artigo 4.º, os objetivos específicos do eixo Microfinanciamento e Empreendedorismo Social são os seguintes:\n\na) Melhorar o acesso ao microfinanciamento e a respetiva disponibilidade para:\n\ni) pessoas vulneráveis que perderam ou estão em risco de perder o seu emprego, que têm dificuldades em ingressar ou reingressar no mercado de trabalho, que estão em risco de exclusão social ou se encontram numa situação de exclusão social e que se encontram em posição de desvantagem no que se refere ao acesso ao mercado de crédito convencional e pretendem criar ou desenvolver as suas próprias microempresas,\n\nii) microempresas, tanto em fase de arranque como em fase de desenvolvimento, em especial as que empregam pessoas nas situações referidas na subalínea i);\n\nb) Reforçar as capacidades institucionais dos prestadores de microcrédito;\n\nc) Apoiar o desenvolvimento do mercado de investimento social e facilitar o acesso a financiamentos por parte das empresas sociais, disponibilizando capital próprio, quase-capital, instrumentos de concessão de empréstimos e subvenções até 500 000 EUR a empresas sociais com um volume de negócios que não exceda 30 milhões de euros ou um balanço total anual que não exceda 30 milhões de euros que não sejam organismos de investimento coletivo.\n\nA fim de assegurar a complementaridade, a Comissão e os Estados-Membros devem coordenar estreitamente estas ações, nas respetivas áreas de competência, com as ações empreendidas no âmbito da política de coesão e das políticas nacionais."
+  },
+  "6c6d7949426a838a": {
+   "fragment_id": "Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Alteração da Decisão n.º 283/2010/UE\n\nA Decisão n.º 283/2010/UE é alterada do seguinte modo:\n\n1) No artigo 5.º, o n.º 4 passa a ter a seguinte redação:\n\n\"4. No termo da vigência do instrumento, o saldo devido à União é disponibilizado para microfinanciamento e apoio a empresas sociais, nos termos do Regulamento (UE) n.º 1296/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que cria um Programa da União Europeia para o Emprego e a Inovação Social (\"EaSI\") ([^20^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#E0020)).\n\n2) No artigo 8.º, os números 3 e 4 são suprimidos."
+  },
+  "0fea4f0912504544": {
+   "fragment_id": "Artigo 40.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados Membros.\n\n---"
+  },
+  "9ca1f7a61ee30e28": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0001)) JO C 143 de 22.5.2012, p. 88.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0002)) JO C 225 de 27.7.2012, p. 167.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0003)) Posição do Parlamento Europeu de 21 de novembro de 2013 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0004)) Decisão n.º 1672/2006/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 2006, que estabelece um Programa Comunitário para o Emprego e a Solidariedade Social – Progress (JO L 315 de 15.11.2006, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0005)) Regulamento (UE) n.º 492/2011 do Parlamento Europeu e do Conselho, de 5 de abril de 2011, relativo à livre circulação dos trabalhadores na União (JO L 141 de 27.5.2011, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0006)) Decisão de Execução 2012/733/UE da Comissão, de 26 de novembro de 2012, que executa o Regulamento (UE) n.º 492/2011 do Parlamento Europeu e do Conselho no que se refere à compensação das ofertas e dos pedidos de emprego e ao restabelecimento da rede EURES (JO L 328 de 28.11.2012, p. 21).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0007)) Decisão n.º 283/2010/UE do Parlamento Europeu e do Conselho, de 25 de março de 2010, que estabelece um Instrumento Europeu de Microfinanciamento Progress para o Emprego e a Inclusão Social (JO L 87 de 7.4.2010, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0008)) Decisão 2010/707/EU do Conselho, de 21 de outubro de 2010, relativa às orientações para as políticas de emprego dos Estados-Membros (JO L 308 de 24.11.2010, p. 46).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0009)) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.º 1605/2002 (JO L 298 de 26.10.2012, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0010)) Recomendação do Conselho de 22 de abril de 2013 sobre a instituição de uma Garantia para a Juventude (JO C 120 de 26.4.2013, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0011)) JO C 373 de 20.12.2013, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0012)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício de competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0013)) Recomendação 2003/361/CE da Comissão, de 5 de maio de 2003, relativa à definição de micro, pequenas e médias empresas (JO L 124 de 20.5.2003, p. 36).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0014)) Regulamento (UE) n.º1303/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013 que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu para os Assuntos Marítimos e as Pescas, abrangidos pelo Quadro Estratégico Comum, e que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu e ao Fundo de Coesão (Ver página 320 do presente Jornal Oficial).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0015)) Regulamento (CE, Euratom) n.º 2988/95 do Conselho, de 18 de dezembro de 1995, relativo à proteção dos interesses financeiros das Comunidades Europeias (JO L 312 de 23.12.1995, p. 1).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0016)) Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013,relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude e que revoga o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho e o Regulamento (Euratom) n.º 1074/1999 do Conselho (JO L 248 de 18.9.2013, p. 1).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0017)) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO L 292 de 15.11.1996, p. 2).\n\n> ([^18^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0018)) JO L 114 de 30.4.2002, p. 6.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0019)) Regulamento (UE) 2016/589 do Parlamento Europeu e do Conselho, de 13 de abril de 2016, relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho, e que altera os Regulamentos (UE) n.º 492/2011 e (UE) n.º 1296/2013 (JO L 107, de 22.4.2016, p. 1).\n\n> ([^20^](http://publications.europa.eu/resource/cellar/ed0f6463-2671-47b2-ba69-91bec637eec5.0016.02/DOC_1#src.E0020)) JO L 347 de 20.12.2013, p. 238\"."
+  },
+  "cca20afae47417e7": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento entende-se por:\n\n1) \"Empresa social\", uma entidade, seja qual for a sua forma jurídica, que:\n\na) Nos termos do seu pacto social, estatutos ou qualquer outro documento legal que a constitua, tenha como objetivo principal produzir impactos sociais mensuráveis e positivos e não apenas gerar lucros para os seus proprietários, sócios e acionistas, e que:\n\ni) preste serviços ou forneça bens com um alto rendimento social, e/ou\n\nii) utilize um modo de produção de bens ou serviços que concretize o seu objetivo social;\n\nb) Utilize os seus lucros para, acima de tudo, atingir o seu objetivo principal, segundo procedimentos e regras previamente definidos aplicáveis à distribuição de lucros aos acionistas e proprietários e que assegurem que tal distribuição não prejudique o objetivo principal; e\n\nc) Seja gerida de forma empreendedora, responsável e transparente, designadamente através da participação de trabalhadores, clientes e outros agentes afetados pelas suas atividades.\n\n2) \"Microcrédito\", um empréstimo de até 25 000 euros;\n\n3) \"Microempresa\", uma empresa, incluindo um trabalhador independente, que empregue menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não exceda 2 milhões de euros, de acordo com o disposto na Recomendação 2003/361/CE da Comissão ([^1^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#E0001));\n\n4) \"Microfinanciamento\", garantias, microcrédito, capital próprio e quase-capital alargado a pessoas e microempresas com dificuldades de acesso a crédito;\n\n5) \"Inovações sociais\", inovações que sejam sociais, quer pelos seus fins, quer pelas suas necessidades, e digam respeito, em especial, ao desenvolvimento e aplicação de novas ideias (relativas a produtos, serviços ou modelos) que simultaneamente satisfaçam necessidades sociais e criem novas relações ou colaborações sociais, desse modo beneficiando a sociedade e melhorando a sua capacidade de ação;\n\n6) \"Experimentação em matéria de políticas sociais\", intervenções políticas que deem respostas inovadoras a necessidades sociais e sejam aplicadas em pequena escala e em condições que assegurem que o seu impacto seja mensurável, para que possam ser repetidas em mais larga escala se os seus resultados forem convincentes."
+  },
+  "0867cfe40250095f": {
+   "fragment_id": "Artigo 5.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Orçamento\n\n1. O enquadramento financeiro para a execução do Programa para o período compreendido entre 1 de janeiro de 2014 e 31 de dezembro de 2020 é de 919 469 000 EUR, a preços correntes.\n\n2. Durante todo o período de vigência do Programa, aplicam-se, em média, aos eixos definidos no artigo 3.º, n.º 1, as seguintes percentagens indicativas:\n\na) Pelo menos 55 % para o eixo Progress;\n\nb) Pelo menos 18 % para o eixo EURES;\n\nc) Pelos menos 18 % para o eixo Microfinanciamento e Empreendedorismo Social.\n\n3. A Comissão pode utilizar até 2 % do enquadramento financeiro referido no n.º 1 para financiar as despesas operacionais destinadas a apoiar a execução do Programa.\n\n4. A Comissão pode utilizar o enquadramento financeiro referido no n.º 1 para financiar ações de assistência técnica ou administrativa, em especial relacionadas com auditorias, externalização de traduções, reuniões de peritos e atividades de informação e comunicação no interesse mútuo da Comissão e dos beneficiários.\n\n5. As dotações anuais são autorizadas pelo Parlamento Europeu e pelo Conselho nos limites do quadro financeiro plurianual."
+  },
+  "de6b7d71396d656f": {
+   "fragment_id": "Artigo 7.º — Coerência e complementaridade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Coerência e complementaridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coerência e complementaridade\n\n1. A Comissão assegura, em cooperação com os Estados-Membros, a coerência e a complementaridade de todas as atividades empreendidas ao abrigo do programa com outras ações da União, como os fundos europeus estruturais e de investimento, tal especificado no Quadro Estratégico Comum estabelecido pelo Regulamento (UE) n.º1303/2013 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#E0002)), em especial no âmbito do FSE.\n\n2. O Programa deve complementar outros programas da União, sem prejuízo dos procedimentos específicos desses programas. Os mesmos custos elegíveis não podem resultar em duplo financiamento e devem criar-se sinergias estreitas entre o Programa, outros programas da União e os fundos europeus estruturais e de investimento, nomeadamente o FSE.\n\n3. As atividades financiadas pelo Programa devem cumprir a legislação da União e as legislações nacionais, nomeadamente as relativas aos auxílios estatais, bem como as convenções fundamentais da OIT.\n\n4. A coerência e a complementaridade devem também ser asseguradas através de uma participação estreita das autoridades locais e regionais."
+  },
+  "04c235bde6c96b66": {
+   "fragment_id": "Artigo 11.º — Proteção dos interesses financeiros da União",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Proteção dos interesses financeiros da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Proteção dos interesses financeiros da União\n\n1. Na execução das medidas financiadas ao abrigo do presente Programa, a Comissão deve tomar medidas preventivas adequadas para assegurar a salvaguarda dos interesses financeiros da União contra a fraude, a corrupção e outras atividades ilegais, através da realização de verificações eficazes e, caso sejam detetadas irregularidades, a recuperação, principalmente por via de compensação, dos montantes pagos indevidamente, mas, se for caso disso, por via da aplicação de sanções eficazes, proporcionadas e dissuasivas, nos termos do artigo 325.º do TFUE, do Regulamento (CE, Euratom) n.º 2988/95 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#E0003)) e do Regulamento Financeiro.\n\n2. A Comissão ou os seus representantes e o Tribunal de Contas podem realizar auditorias com base em documentos e inspeções no local a todos os beneficiários de subvenções, contratantes e subcontratantes que tenham recebido fundos da União ao abrigo do Programa.\n\n3. O Serviço Europeu de Luta Antifraude (OLAF) pode realizar investigações, incluindo verificações e inspeções no local, nos termos do Regulamento (UE, Euratom) n.º …/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#E0004)) e do Regulamento (Euratom, CE) n.º 2185/96 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#E0005)), com vista a apurar a existência de fraude, corrupção ou outras atividades ilícitas que afetem os interesses financeiros da União no âmbito de acordos ou decisões de subvenção ou de contratos financiados ao abrigo do programa.\n\n4. Sem prejuízo dos n.^os^ 1, 2 e 3, os contratos, convenções de subvenção e decisões de subvenção decorrentes da execução do presente Programa devem conter disposições que confiram expressamente à Comissão, ao Tribunal de Contas e ao OLAF poderes para realizar as auditorias e investigações referidas nos n.^os^ citados, de acordo com as respetivas competências."
+  },
+  "aef701495c874468": {
+   "fragment_id": "Artigo 14.º — Secções temáticas e financiamento",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Secções temáticas e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Secções temáticas e financiamento\n\n1. O eixo Progress apoia ações das secções temáticas referidas nas alíneas a), b) e c). Durante o período de vigência do Programa, a repartição indicativa da dotação global afeta ao eixo Progresso entre as diferentes secções temáticas deve respeitar as seguintes percentagens mínimas:\n\na) Emprego, em particular para combater o desemprego dos jovens: 20 %;\n\nb) Proteção social, inclusão social e redução e prevenção da pobreza: 45 %;\n\nc) Condições de trabalho: 7 %.\n\nO remanescente é atribuído a uma ou a várias secções temáticas referidas nas alíneas a), b) ou c) do primeiro parágrafo, ou a uma combinação das mesmas.\n\n2. A partir da dotação global afetada ao eixo Progress, é atribuída uma quota importante à promoção da experimentação social como método de testar e avaliar soluções inovadoras tendo em vista a sua utilização em maior escala."
+  },
+  "348be498d4455881": {
+   "fragment_id": "Artigo 19.º — Secções temáticas e financiamento",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Secções temáticas e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Secções temáticas e financiamento\n\nO eixo EURES apoia ações das secções temáticas referidas nas alíneas a), b) e c). Durante todo o período de vigência do Programa, a repartição indicativa da dotação global afeta ao eixo EURES, entre as diferentes secções temáticas deve respeitar as seguintes percentagens mínimas:\n\na) Transparência das ofertas e dos pedidos de emprego e das informações conexas, para os candidatos e para os empregadores: 15 %;\n\nb) Desenvolvimento dos serviços de recrutamento e colocação de trabalhadores no mercado laboral por meio da compensação de ofertas e pedidos de emprego ao nível da União, em particular regimes de mobilidade específicos: 15 %;\n\nc) Parcerias transfronteiriças: 18 %.\n\nO remanescente é atribuído a uma ou a várias secções temáticas referidas nas alíneas a), b) ou c) do primeiro parágrafo, ou a uma combinação das mesmas."
+  },
+  "260729033473bd34": {
+   "fragment_id": "Artigo 24.º — Participação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Participação\n\n1. A participação no eixo EURES está aberta:\n\na) Aos Estados-Membros;\n\nb) Aos Estados do EEE, nos termos do Acordo sobre o EEE, e à Confederação Suíça, nos termos do Acordo entre a Comunidade Europeia e os seus Estados-Membros, por um lado, e a Confederação Suíça, por outro, sobre a livre circulação de pessoas ([^6^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#E0006)).\n\n2. O eixo EURES está aberto a todos os organismos, agentes e instituições designados por um Estado-Membro ou pela Comissão que preencham as condições de participação na rede EURES definidas no Regulamento (UE) 2016/589 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#E0007)). Esses organismos, agentes e instituições incluem, nomeadamente:\n\na) Autoridades nacionais, regionais e locais;\n\nb) Serviços de emprego;\n\nc) Organizações de parceiros sociais e outros interessados."
+  },
+  "4de54d04c2704ec9": {
+   "fragment_id": "Artigo 25.º — Secções temáticas e financiamento",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Secções temáticas e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Secções temáticas e financiamento\n\nO eixo Microfinanciamento e Empreendedorismo Social apoia ações das secções temáticas referidas nas alíneas a) e b). Durante todo o período de vigência do Programa, a repartição indicativa da dotação global afeta ao eixo Microfinanciamento e Empreendedorismo Social, entre as diferentes secções temáticas deve respeitar as seguintes percentagens mínimas:\n\na) Microfinanciamento para os grupos vulneráveis e as microempresas: 35 %;\n\nb) Empreendedorismo social: 35 %.\n\nO remanescente é atribuído às secções temáticas referidas nas alíneas a) ou b) do primeiro parágrafo, ou a uma combinação das mesmas."
+  },
+  "e87d0175849aa8a1": {
+   "fragment_id": "Artigo 32.º — Programas de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Programas de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Programas de trabalho\n\nA Comissão adota atos de execução para estabelecer programas de trabalho que abranjam os três eixos. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 36.º, n.º 3.\n\nOs programas de trabalho devem, se for caso disso, abranger um período de três anos consecutivos, e devem conter uma descrição das ações a financiar, os procedimentos para selecionar ações a apoiar pela União, a cobertura geográfica, o público-alvo e um prazo de execução indicativo. Os programas de trabalho devem indicar também os montantes atribuídos a cada objetivo específico. Os programas de trabalho devem reforçar a coerência do Programa indicando as ligações entre os três eixos."
+  },
+  "29fdf35046fa1d2b": {
+   "fragment_id": "Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Alteração da Decisão n.º 283/2010/UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Alteração da Decisão n.º 283/2010/UE\n\nA Decisão n.º 283/2010/UE é alterada do seguinte modo:\n\n1) No artigo 5.º, o n.º 4 passa a ter a seguinte redação:\n\n\"4. No termo da vigência do instrumento, o saldo devido à União é disponibilizado para microfinanciamento e apoio a empresas sociais, nos termos do Regulamento (UE) n.º 1296/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que cria um Programa da União Europeia para o Emprego e a Inovação Social (\"EaSI\") ([^*1^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#E0008)).\n\n2) No artigo 8.º, os números 3 e 4 são suprimidos."
+  },
+  "6fc9c0f76058badc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#src.E0001)) Recomendação 2003/361/CE da Comissão, de 5 de maio de 2003, relativa à definição de micro, pequenas e médias empresas (JO L 124 de 20.5.2003, p. 36).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#src.E0002)) Regulamento (UE) n.º1303/2013 do Parlamento Europeu e do Conselho de 17 de dezembro de 2013 que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu para os Assuntos Marítimos e as Pescas, abrangidos pelo Quadro Estratégico Comum, e que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu e ao Fundo de Coesão (Ver página 320 do presente Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#src.E0003)) Regulamento (CE, Euratom) n.º 2988/95 do Conselho, de 18 de dezembro de 1995, relativo à proteção dos interesses financeiros das Comunidades Europeias (JO L 312 de 23.12.1995, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#src.E0004)) Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013,relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude e que revoga o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho e o Regulamento (Euratom) n.º 1074/1999 do Conselho (JO L 248 de 18.9.2013, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#src.E0005)) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO L 292 de 15.11.1996, p. 2).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#src.E0006)) JO L 114 de 30.4.2002, p. 6.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#src.E0007)) Regulamento (UE) 2016/589 do Parlamento Europeu e do Conselho, de 13 de abril de 2016, relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho, e que altera os Regulamentos (UE) n.º 492/2011 e (UE) n.º 1296/2013 (JO L 107, de 22.4.2016, p. 1).\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/c23d031c-04b5-424f-9aa1-23ca1bcad2ce.0016.02/DOC_1#src.E0008)) JO L 347 de 20.12.2013, p. 238\"."
+  },
+  "f4c9b1e6a340728f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02013R1296 — PT — 01.01.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32013R1296) [REGULAMENTO (UE) N.º 1296/2013 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32013R1296) [de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1296) [que cria um Programa da União Europeia para o Emprego e a Inovação Social (\"EaSI\") e que altera a Decisão n.º 283/2010/UE que estabelece um Instrumento de Microfinanciamento Europeu Progress para o Emprego e a Inclusão Social](http://publications.europa.eu/resource/celex/32013R1296) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32013R1296) (JO L 347, 20.12.2013, p.238)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2021/1057 do Parlamento Europeu e do Conselho de 24 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1057) — L 231 — 21 — 30.6.2021"
+  }
+ }
+}

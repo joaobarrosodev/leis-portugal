@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:564852:por
+title: Portaria n.º 1163/90
+short_title: null
+summary: Alarga a área de recrutamento para provimento dos cargos de chefe de divisão do Gabinete de Apoio aos Órgãos Municipais
+  e de chefe de divisão do Orçamento e Contabilidade do quadro de pessoal próprio da Câmara Municipal de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 1163/90
+official_date: null
+publication_date: '1990-11-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 276/1990, Série I de 1990-11-29
+  number: '276'
+  series: I
+  supplement: null
+  pages: 4906 - 4907
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27600/49064907.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '564852'
+  dre_path: /dr/detalhe/portaria/1163-1990-564852
+  internal: pt:dre:564852:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1163-1990-564852
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1163-1990-564852
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:11:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1867a1d6340539e5f4b85c3dfc01985385ab223edfa81e5065d902def894c230
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Câmara Municipal
+- Lisboa
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:177394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654566:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:11:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1163/90
+
+de 29 de Novembro
+
+Considerando que a Assembleia Municipal de Lisboa aprovou o organigrama dos serviços do Município de acordo com o disposto no [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, alterado pela [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro;
+
+Considerando que no quadro de pessoal da Câmara Municipal de Lisboa foram criados os lugares de chefe de divisão do Gabinete de Apoio aos Órgãos Municipais e de chefe de divisão do Orçamento e Contabilidade, que se torna imperioso prover desde já;
+
+Considerando que as atribuições cometidas aos serviços bem como o perfil do cargo a prover aconselham que se deva relevar a experiência adquirida ao serviço do Município e o conhecimento dos respectivos serviços;
+
+Considerando que o n.º 7 do artigo 7.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, na redacção que lhe foi dada pela [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro, prevê que excepcionalmente possa ser dispensada, mediante diploma adequado, sob proposta da câmara aprovada pela assembleia municipal, a posse das habilitações literárias normalmente exigidas;
+
+Considerando que a Assembleia Municipal de Lisboa deliberou aprovar a proposta da Câmara no sentido de os cargos de chefe de divisão do Gabinete de Apoio aos Órgãos Municipais e de chefe de divisão do Orçamento e Contabilidade poderem ser providos por funcionários possuidores dos requisitos já referidos;
+
+Considerando o disposto nos n.os 3 e 7 do artigo 7.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, na redacção dada pela [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro:
+
+Manda o Governo, pelo Ministro do Planeamento e da Administração do Território, o seguinte:
+
+1.º É alargada a área de recrutamento para provimento dos cargos de chefe de divisão do Gabinete de Apoio aos Órgãos Municipais e de chefe de divisão do Orçamento e Contabilidade do quadro de pessoal próprio da Câmara Municipal de Lisboa a funcionários detentores da categoria de chefe de repartição, com reconhecida competência e experiência comprovada no exercício de funções de chefia na respectiva área, dispensando-se, para o efeito, a posse de curso superior.
+
+2.º As deliberações de nomeação devem ser acompanhadas, para publicação, dos currículos dos nomeados.
+
+Ministério do Planeamento e da Administração do Território.
+
+Assinada em 15 de Novembro de 1990.
+
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.

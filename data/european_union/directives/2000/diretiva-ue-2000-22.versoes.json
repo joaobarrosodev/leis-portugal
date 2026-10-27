@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0022:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0022-20000524",
+ "dre_path": null,
+ "source_lastmod": "2000-05-24",
+ "versions": [
+  {
+   "date": "2000-05-04",
+   "future": false,
+   "celex": "32000L0022",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8003574950b5c8dc",
+    "70d858c85618e5f1",
+    "c1affede2a18d0e2",
+    "70d702b9eb1d6351",
+    "648967540239fe62",
+    "919c0b854f15640e",
+    "2fbb6e8866ccbb32"
+   ]
+  }
+ ],
+ "fragments": {
+  "8003574950b5c8dc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/22/CE da Comissão, de 28 de Abril de 2000, que adapta ao progresso técnico a Directiva 87/402/CEE do Conselho, relativa aos dispositivos de protecção montados à frente, em caso de capotagem, dos tractores agrícolas ou florestais de rodas de via estreita (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 107 de 04/05/2000 p. 0026 - 0027*\n\nDirectiva 2000/22/CE da Comissão\n\nde 28 de Abril de 2000\n\nque adapta ao progresso técnico a Directiva 87/402/CEE do Conselho, relativa aos dispositivos de protecção montados à frente, em caso de capotagem, dos tractores agrícolas ou florestais de rodas de via estreita\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação dos tractores agrícolas ou florestais de rodas(1), com a última redacção que lhe foi dada pela Directiva 2000/2/CE da Comissão(2), e, nomeadamente, o seu artigo 11.o,\n\nTendo em conta a Directiva 87/402/CEE do Conselho, de 25 Junho 1987, relativa aos dispositivos de protecção montados à frente, em caso de capotagem, dos tractores agrícolas ou florestais de rodas de via estreita(3), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia, e, nomeadamente, o seu artigo 11.o,\n\nConsiderando o seguinte:\n\n(1) Para aumentar a segurança, é necessário especificar as modalidades dos ensaios dos dispositivos de protecção montados à frente, em caso de capotagem, dos tractores agrícolas ou florestais de rodas de via estreita, tendo em conta a multiplicidade dos equipamentos.\n\n(2) Convém harmonizar as modalidades dos ensaios desses dispositivos com as modalidades definidas no código 6 da Organização para a Cooperação e o Desenvolvimento Económicos (OCDE) relativo aos ensaios oficiais das estruturas de protecção dos tractores agrícolas.\n\n(3) É conveniente, por conseguinte, modificar a Directiva 87/402/CEE.\n\n(4) As disposições da presente directiva estão em conformidade com o parecer do Comité de Adaptação ao Progresso Técnico instituído pelo artigo 12.o da Directiva 74/150/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "70d858c85618e5f1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos I a V e VII da Directiva 87/402/CEE são alterados em conformidade com o anexo da presente directiva."
+  },
+  "c1affede2a18d0e2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A partir de 1 de Julho de 2001, os Estados-Membros não podem:\n\n- recusar, para um dado modelo de tractor, a homologação CE ou a emissão do documento previsto no n.o 1, terceiro travessão, do artigo 10.o da Directiva 74/150/CEE, ou a homologação de âmbito nacional,\n\n- nem proibir a primeira entrada em circulação dos tractores,\n\nse esses tractores satisfizerem as prescrições da Directiva 87/402/CEE, com a redacção que lhe é dada pela presente directiva.\n\n2. A partir de 1 de Janeiro de 2002, os Estados-Membros:\n\n- deixam de poder emitir o documento previsto no n.o 1, terceiro travessão, do artigo 10.o da Directiva 74/150/CEE para um dado modelo de tractores, se este não satisfizer as prescrições da Directiva 87/402/CEE, com a redacção que lhe é dada pela presente directiva,\n\n- podem recusar a homologação de âmbito nacional de um dado modelo de tractores, se este não satisfizer as prescrições da Directiva 87/402/CEE, com a redacção que lhe é dada pela presente directiva."
+  },
+  "70d702b9eb1d6351": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 30 de Junho de 2001. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "648967540239fe62": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "919c0b854f15640e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 28 de Abril de 2000.\n\nPela Comissão\n\nErkki Liikanen\n\nMembro da Comissão\n\n(1) JO L 84 de 28.3.1974, p. 10.\n\n(2) JO L 21 de 26.1.2000, p. 23.\n\n(3) JO L 220 de 8.8.1987, p. 1."
+  },
+  "2fbb6e8866ccbb32": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nOs anexos I a V e VII da Directiva 87/402/CEE são alterados do seguinte modo:\n\n1. No anexo I o ponto 1 passa a ter a seguinte redacção:\n\n\"1. Aplicam-se as disposições do ponto 1 do código 6 da OCDE [Decisão C(87) 53 final de 24 de Novembro de 1987, com a última redacção que lhe foi dada em 3 de Março de 1999], com excepção do ponto 1.1.\".\n\n2. O anexo II passa a ter a seguinte redacção:\n\n\"ANEXO II\n\nEXIGÊNCIAS TÉCNICAS\n\nAs exigências técnicas necessárias para a homologação CE de um dispositivo de protecção montado à frente, em caso de capotagem, dos tractores agrícolas ou florestais de rodas de via estreita são as descritas no ponto 3 do código 6 da OCDE [Decisão C(87) 53 final, com a última redacção que lhe foi dada em 3 de Março de 1999]. Os capítulos desse ponto 3 relativos ao boletim de ensaio, às modificações de pequena importância e à identificação não são abrangidos pelas exigências técnicas.\".\n\n3. Os anexos III, IV e V são suprimidos.\n\n4. No anexo VII, o primeiro travessão passa a ter a seguinte redacção: \"- um rectângulo no interior do qual está colocada a letra \"e\" minúscula seguida no número distintivo do Estado-Membro que emitiu a homologação:\n\n1 para a Alemanha, 2 para a França, 3 para a Itália, 4 para os Países Baixos, 5 para a Suécia, 6 para a Bélgica, 9 para a Espanha, 11 para o Reino Unido, 12 para a Áustria, 13 para o Luxemburgo, 17 para a Finlândia, 18 para a Dinamarca, 21 para Portugal, 23 para a Grécia, 24 para a Irlanda\"."
+  }
+ }
+}

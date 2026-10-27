@@ -1,0 +1,789 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0091:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0091-20121204",
+ "dre_path": null,
+ "source_lastmod": "2012-12-04",
+ "versions": [
+  {
+   "date": "1977-01-31",
+   "future": false,
+   "celex": "31977L0091",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01977L0091-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31992L0101:por",
+     "title": "Directiva 92/101/CEE do Conselho de 23 de Novembro de 1992",
+     "published": null,
+     "celex": "31992L0101"
+    },
+    {
+     "id": "eu:celex:32006L0068:por",
+     "title": "DIRECTIVA 2006/68/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de Setembro de 2006",
+     "published": null,
+     "celex": "32006L0068"
+    },
+    {
+     "id": "eu:celex:32006L0099:por",
+     "title": "DIRECTIVA 2006/99/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0099"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "►A2",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Adita preambulo",
+    "Adita Artigo 1º",
+    "Adita Artigo 2º",
+    "Adita Artigo 3º",
+    "Adita Artigo 4º",
+    "Adita Artigo 5º",
+    "Adita Artigo 6º",
+    "Adita Artigo 7º",
+    "Adita Artigo 8º",
+    "Adita Artigo 9º",
+    "Adita Artigo 10º",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 10.º-B",
+    "Adita Artigo 11º",
+    "Adita Artigo 12º",
+    "Adita Artigo 13º",
+    "Adita Artigo 14º",
+    "Adita Artigo 15º",
+    "Adita Artigo 16º",
+    "Adita Artigo 17º",
+    "Adita Artigo 18º",
+    "Adita Artigo 19º",
+    "Adita Artigo 20º",
+    "Adita Artigo 21º",
+    "Adita Artigo 22º",
+    "Adita Artigo 23º",
+    "Adita Artigo 23.º-A",
+    "Adita Artigo 24º",
+    "Adita Artigo 24ºA",
+    "Adita Artigo 25º",
+    "Adita Artigo 26º",
+    "Adita Artigo 27º",
+    "Adita Artigo 28º",
+    "Adita Artigo 29º",
+    "Adita Artigo 30º",
+    "Adita Artigo 31º",
+    "Adita Artigo 32º",
+    "Adita Artigo 33º",
+    "Adita Artigo 34º",
+    "Adita Artigo 35º",
+    "Adita Artigo 36º",
+    "Adita Artigo 37º",
+    "Adita Artigo 38º",
+    "Adita Artigo 39º",
+    "Adita Artigo 40º",
+    "Adita Artigo 41º",
+    "Adita Artigo 42º",
+    "Adita Artigo 43º",
+    "Adita Artigo 44º",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "b2efdc8e174b0435",
+    "ac4d705e1c3d9b9d",
+    "92c74fbdbb50699e",
+    "2cbd63f43a6147f0",
+    "e158d5b5673d23b8",
+    "851b9db6c73b8434",
+    "936dca07a123be68",
+    "5eb30554d95ed5aa",
+    "838ac82ff5eca4af",
+    "23a341b1c2d8c8a8",
+    "fe1abdb1b8e9a775",
+    "6054a63af7284a28",
+    "73c8cd041e23b456",
+    "95069d86b1b9d00f",
+    "7c0b06b50edc7e39",
+    "82dc4d1f410fd512",
+    "0af1b68d83e1a924",
+    "841a161da940c1e2",
+    "4997d1150013fa51",
+    "2825787420883ba8",
+    "d8421e3d994b9f50",
+    "9991e574696fcc89",
+    "1aac6ea8a79a17b1",
+    "a6f314c274919f56",
+    "f6651e494781c16a",
+    "4cdac2a352e73025",
+    "be0089291c950e5c",
+    "81483fe9bd7d2b12",
+    "9d71a9133ea12935",
+    "e15b0979ccc43318",
+    "03302e6f3e40099f",
+    "b61c4871d4708676",
+    "037047c3dacd1f15",
+    "237ad7e36d4ad803",
+    "3c6683158acafe33",
+    "a010883a9e8600ba",
+    "1222203c78e46804",
+    "3707b1497458863e",
+    "aff678963b72ab0e",
+    "de0bdd918417e27c",
+    "f519d7e58a1dcc42",
+    "ed0479b1e57ef428",
+    "658e2988f8989641",
+    "1b2c8ef5b17aebb2",
+    "a6868457a0a9f941",
+    "d7e4cfaebd84a4dd",
+    "13643090539fca8e",
+    "98f5153b1efcf962",
+    "c723b8267bd19e91",
+    "4398853a39e5cb46"
+   ]
+  },
+  {
+   "date": "2009-10-22",
+   "future": false,
+   "celex": "01977L0091-20091022",
+   "acts": [
+    {
+     "id": "eu:celex:32009L0109:por",
+     "title": "DIRECTIVA 2009/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Setembro de 2009",
+     "published": null,
+     "celex": "32009L0109"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1º",
+    "Altera Artigo 6º",
+    "Altera Artigo 10º",
+    "Altera Artigo 10.º-A",
+    "Altera Artigo 19º",
+    "Altera Artigo 23.º-A",
+    "Altera Artigo 27º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "c65c6e8a441c3bd4",
+    "59e72d503831e9ed",
+    "92c74fbdbb50699e",
+    "2cbd63f43a6147f0",
+    "e158d5b5673d23b8",
+    "851b9db6c73b8434",
+    "52c087c61f064bec",
+    "5eb30554d95ed5aa",
+    "838ac82ff5eca4af",
+    "23a341b1c2d8c8a8",
+    "5e8bfae5417ed387",
+    "076090918678bae3",
+    "73c8cd041e23b456",
+    "95069d86b1b9d00f",
+    "7c0b06b50edc7e39",
+    "82dc4d1f410fd512",
+    "0af1b68d83e1a924",
+    "841a161da940c1e2",
+    "4997d1150013fa51",
+    "2825787420883ba8",
+    "d8421e3d994b9f50",
+    "caf79583e82a5d66",
+    "1aac6ea8a79a17b1",
+    "a6f314c274919f56",
+    "f6651e494781c16a",
+    "4cdac2a352e73025",
+    "4d0230d21ae041e7",
+    "81483fe9bd7d2b12",
+    "9d71a9133ea12935",
+    "e15b0979ccc43318",
+    "03302e6f3e40099f",
+    "8cd600a226f440b9",
+    "037047c3dacd1f15",
+    "237ad7e36d4ad803",
+    "3c6683158acafe33",
+    "a010883a9e8600ba",
+    "1222203c78e46804",
+    "3707b1497458863e",
+    "aff678963b72ab0e",
+    "de0bdd918417e27c",
+    "f519d7e58a1dcc42",
+    "ed0479b1e57ef428",
+    "658e2988f8989641",
+    "1b2c8ef5b17aebb2",
+    "a6868457a0a9f941",
+    "d7e4cfaebd84a4dd",
+    "13643090539fca8e",
+    "98f5153b1efcf962",
+    "c723b8267bd19e91",
+    "51bac73890d8bd80"
+   ]
+  },
+  {
+   "date": "2012-12-04",
+   "future": false,
+   "celex": "01977L0091-20121204",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 10.º-A",
+    "Suprime Artigo 10.º-B",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 23º",
+    "Suprime Artigo 23.º-A",
+    "Suprime Artigo 24º",
+    "Suprime Artigo 24ºA",
+    "Suprime Artigo 25º",
+    "Suprime Artigo 26º",
+    "Suprime Artigo 27º",
+    "Suprime Artigo 28º",
+    "Suprime Artigo 29º",
+    "Suprime Artigo 30º",
+    "Suprime Artigo 31º",
+    "Suprime Artigo 32º",
+    "Suprime Artigo 33º",
+    "Suprime Artigo 34º",
+    "Suprime Artigo 35º",
+    "Suprime Artigo 36º",
+    "Suprime Artigo 37º",
+    "Suprime Artigo 38º",
+    "Suprime Artigo 39º",
+    "Suprime Artigo 40º",
+    "Suprime Artigo 41º",
+    "Suprime Artigo 42º",
+    "Suprime Artigo 43º",
+    "Suprime Artigo 44º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e671dc00aedc83a3"
+   ]
+  }
+ ],
+ "fragments": {
+  "b2efdc8e174b0435": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Dezembro de 1976\n\ntendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-membros às sociedades, na acepção do segundo parágrafo do artigo 58º do Tratado, no que respeita à constituição da sociedade anónima, bem como à conservação e às modificações do seu capital social, a fim de tornar equivalentes essas garantias em toda a Comunidade\n\n(77/91/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o nº 3, alínea g), do seu artigo 54º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#E0002)),\n\nConsiderando que a prossecução da coordenação prevista no nº 3, alínea g) do artigo 54º, e no Programa Geral para a Supressão das Restrições à Liberdade de Estabelecimento, iniciada com a Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE) ([^3^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#E0003)), reveste particular importância para as sociedades anónimas, porquanto a actividade destas sociedades é predominante na economia dos Estados-membros e estende-se, frequentemente, para além dos limites do seu território nacional;\n\nConsiderando que, para assegurar uma equivalência mínima da protecção dos accionistas e dos credores destas sociedades, é necessário, sobretudo, coordenar as legislações nacionais respeitantes à sua constituição, bem como à conservação, ao aumento e à redução do seu capital;\n\nConsiderando que, no território da Comunidade, os estatutos ou o acto constitutivo de uma sociedade anónima devem permitir aos interessados conhecer as características essenciais de tal sociedade e, nomeadamente, a composição exacta do seu capital;\n\nConsiderando que devem ser adoptadas normas comunitárias para conservar o capital, que constitui uma garantia dos credores, proibindo, nomeadamente, que seja afectada por indevidas distribuições aos accionistas e limitando a possibilidade de a sociedade adquirir acções próprias;\n\nConsiderando que, em conformidade com os objectivos referidos no nº 3, alínea g), do artigo 54º, é necessário que, em matéria de aumento e de redução do capital, as legislações dos Estados-membros assegurem a observância e harmonizem a aplicação dos princípios que garantem a igualdade de tratamento dos accionistas que se encontram em condições idênticas e a protecção dos titulares de créditos anteriores à deliberação de redução,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ac4d705e1c3d9b9d": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. As medidas de coordenação prescritas pela presente directiva aplicar-se-ão às disposições legislativas, regulamentares e administrativas dos Estados-membros relativas aos seguintes tipos de sociedades:\n\n— *para a República Federal da Alemanha:*\n\n— die Aktiengesellschaft\n\n— *para a Bélgica:*\n\n— la société anonymede naamloze vennootschap\n\n— *para a Dinamarca:*\n\n— aktieselskabet\n\n— *para a França:*\n\n— la société anonyme\n\n— *para a Irlanda:*\n\n— the public company limited by shares et\n\n— the public company limited by guarantee and having a share capital\n\n— *para a Itália*\n\n— la società per azioni\n\n— *para o Luxemburgo:*\n\n— la société anonyme\n\n— *para os Países Baixos:*\n\n— de naamloze vennootschap\n\n— *para o Reino Unido:*\n\n— the public company limited by shares et\n\n— the public company limited by guarantee and having a share capital\n\n— *para a Grécia:*\n\n— η ανώνυμη εταιρία\n\n— *em relação a (*SIC! *para a) Espanha:*\n\n— la sociedad anónima\n\n— *em relação a (*SIC! *para a) Portugal:*\n\n— a sociedade anonima de responsabilidade limitada\n\n— *para a Áustria:*\n\n— die Aktiengesellschaft;\n\n— *para a Finlândia:*\n\n— osakeyhtiöaktiebolag;\n\n— *para a Suécia:*\n\n— aktiebolag;\n\n— *para a República Checa:*\n\n— akciová společnost;\n\n— *para a Estónia:*\n\n— aktsiaselts;\n\n— *para Chipre:*\n\n— Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές, δημόσιες εταιρείες περιορισμένης ευθύνης με εγγύηση που διαθέτουν μετοχικό κεφάλαιο;\n\n— *para a Letónia:*\n\n— akciju sabiedrība;\n\n— *para a Lituânia:*\n\n— akcinė bendrovė;\n\n— *para a Hungria:*\n\n— nyilvánosan működő részvénytársaság;\n\n— *para Malta:*\n\n— kumpanija pubblikapublic limited liability company;\n\n— *para a Polónia:*\n\n— spółka akcyjna;\n\n— *para a Eslovénia:*\n\n— delniška družba;\n\n— *para a Eslováquia:*\n\n— akciová spoločnosť;\n\n— para a Bulgária:\n\n— акционерно дружество;\n\n— para a Roménia:\n\n— societate pe acțiuni.\n\nA denominação social de uma sociedade que adopte um dos tipos acima indicados, deve incluir, ou ser acompanhada, de uma designação diferente das prescritas para outros tipos de sociedades.\n\n2. Os Estados-membros podem deixar de aplicar a presente directiva às sociedades de investimento de capital variável e às cooperativas constituídas segundo um dos tipos de sociedades indicados no nº 1. Sempre que as legislações dos Estados-membros se prevaleçam de tal faculdade, determinarão que tais sociedades façam inserir os termos «sociedade de investimento de capital variável» ou «cooperativa», respectivamente, em todos os documentos referidos no artigo 4º da Directiva 68/151/CEE.\n\nPor sociedades de investimento de capital variável, na acepção da presente directiva, devem apenas entender-se as sociedades:\n\n— que tenham exclusivamente por objecto a aplicação dos seus próprios fundos em valores mobiliários diversos, em valores imobiliários diversos ou em outros valores, com o único fim de repartir os riscos de investimento e de fazer beneficiar os seus accionistas dos resultados da gestão dos seus haveres;\n\n— que recorram a subscrição pública para colocar as suas próprias acções;\n\n— e\n\n— cujos estatutos prevejam que, dentro dos limites de um certo capital mínimo e máximo, podem em qualquer momento emitir, resgatar e revender acções próprias."
+  },
+  "92c74fbdbb50699e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nOs estatutos ou o acto constitutivo da sociedade devem conter, pelo menos, as seguintes indicações:\n\na) O tipo e a denominação da sociedade;\n\nb) O objecto social;\n\n— se a sociedade não tiver um capital autorizado, o montante do capital subscrito;\n\n— se a sociedade tiver um capital autorizado, o montante deste e o montante do capital subscrito no momento da constituição da sociedade ou da obtenção da autorização para o início das suas actividades, e bem assim por ocasião de qualquer alteração do capital autorizado, sem prejuízo do disposto na alínea e) do artigo 2º da Directiva 68/151/CEE;\n\nd) As regras a observar, na medida em que tal regulamentação não resulte da lei, quanto ao número e ao processo de designação dos membros dos órgãos encarregados da representação perante terceiros, da administração, da direcção, da vigilância ou da fiscalização da sociedade, assim como à repartição de competências entre estes órgãos;\n\ne) A duração da sociedade, se esta não for constituída por tempo indeterminado."
+  },
+  "2cbd63f43a6147f0": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nPelo menos as indicações seguintes devem figurar nos estatutos, no acto constitutivo ou num documento separado, que deve ser objecto de publicidade efectuada segundo os modos previstos pela legislação de cada Estado-membro, em conformidade com o artigo 3º da Directiva 68/151/CEE:\n\na) A sede social;\n\nb) O valor nominal das acções subscritas e, pelo menos anualmente, o número de tais acções;\n\nc) O número de acções subscritas sem menção de valor nominal, no caso de a legislação nacional autorizar a emissão destas;\n\nd) As condições especiais que limitam a transmissão das acções, se for caso disso;\n\ne) Se houver várias categorias de acções, as indicações referidas nas alíneas b), c) e d), relativamente a cada categoria, assim como os direitos inerentes às acções de cada categoria;\n\nf) A espécie, nominativa ou ao portador, das acções, quando a legislação nacional previr essas duas espécies, e bem assim as disposições relativas à sua conversão, salvo se esta estiver regulada pela lei;\n\ng) O montante do capital subscrito que tenha sido realizado no momento da constituição da sociedade ou no momento da obtenção da autorização para o início das suas actividades;\n\nh) O valor nominal das acções ou, na falta de um valor nominal, o número das acções emitidas como contrapartida de qualquer entrada que não consista em dinheiro, e bem assim a natureza de tal entrada e o nome da pessoa que a efectua;\n\ni) A identidade das pessoas singulares ou colectivas ou das sociedades que subscreveram ou em nome das quais foram subscritos os estatutos ou o acto constitutivo, ou, quando a constituição da sociedade não é simultânea, a identidade das pessoas singulares ou colectivas ou das sociedades que subscreveram ou em nome das quais foi subscrito o projecto de estatutos ou de acto constitutivo;\n\nj) O montante total, ou uma sua estimativa, de todas as despesas decorrentes da constituição da sociedade e, se for caso disso, efectuadas antes de a sociedade obter a autorização para o início das suas actividades, que incumbem à sociedade ou são postas a seu cargo;\n\nk) Qualquer vantagem especial concedida aquando da constituição da sociedade ou até ao momento em que esta obtenha a autorização para o início da (SIC! das) suas actividades, a quem quer que tenha participado na constituição da sociedade ou nas operações destinadas a obter a referida autorização."
+  },
+  "e158d5b5673d23b8": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Se a legislação de um Estado-membro determinar que uma sociedade não pode iniciar as suas actividades antes de receber uma autorização para o efeito, deve também prever disposições relativas à responsabilidade decorrente das obrigações contraídas pela sociedade, ou por conta desta, durante o período que precede o momento em que a referida autorização for concedida ou recusada.\n\n2. O nº 1 não se aplica às obrigações decorrentes de contratos celebrados pela sociedade sob condição de que a autorização para iniciar as suas actividades lhe seja concedida."
+  },
+  "851b9db6c73b8434": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Se a legislação de um Estado-membro exigir o concurso de vários sócios para a constituição de uma sociedade, a reunião de todas as acções na titularidade de uma só pessoa, ou a redução do número de sócios abaixo do mínimo legal ocorrida depois da constituição da sociedade, não implica a dissolução de pleno direito da sociedade.\n\n2. Se, nos casos previstos no nº 1, a legislação de um Estado-membro determinar que a dissolução judicial da sociedade pode ser decretada, a autoridade judicial competente deve poder conceder-lhe um prazo suficiente para regularizar a situação.\n\n3. Se a dissolução for decretada, a sociedade entra em liquidação."
+  },
+  "936dca07a123be68": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Para a constituição da sociedade ou para a obtenção da autorização para iniciar as suas actividades, as legislações dos Estados-membros devem exigir a subscrição de um capital mínimo que não pode ser fixado em montante inferior a 25 000 [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECUS**◄** **◄**.\n\nO [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECU**◄** **◄** é o que está definido na Decisão nº 3289/75/CECA da Comissão ([^4^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#E0004)). O contravalor em moeda nacional é inicialmente calculado à taxa de câmbio aplicável no dia da adopção da presente directiva.\n\n2. Se o contravalor do [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECU**◄** **◄** em moeda nacional for modificado de modo a que o montante do capital mínimo fixado em moeda nacional fique inferior ao valor de 22.500 (SIC! 22 500) [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECUS**◄** **◄** durante o período de um ano, a Comissão informará o Estado-membro interessado de que ele deve adaptar a sua legislação às disposições do nº 1, no prazo de doze meses a contar do termo daquele período. Todavia, o Estado-membro pode determinar que a adaptação da sua legislação só se aplicará às sociedades já existentes, dezoito meses depois da sua entrada em vigor.\n\n3. O Conselho, mediante proposta da Comissão, procederá todos os cinco anos ao exame e, se for caso disso, à revisão dos montantes do presente artigo, expressos em [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECUS**◄** **◄**, tendo em consideração, por um lado, a evolução económica e monetária na Comunidade e, por outro, as tendências que visam reservar a escolha dos tipos de sociedade indicados no nº 1 do artigo 1º às grandes e médias empresas."
+  },
+  "5eb30554d95ed5aa": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO capital subscrito só pode ser constituído por elementos de activo susceptíveis de avaliação económica. Todavia, estes elementos de activo não podem ser constituídos pela obrigação de execução de trabalhos ou de prestação de serviços."
+  },
+  "838ac82ff5eca4af": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. As acções não podem ser emitidas a um valor inferior ao seu valor nominal ou, na falta de valor nominal, ao seu valor contabilístico.\n\n2. Todavia, os Estados-membros podem admitir que aqueles que, por sua profissão, se encarregam de colocar acções, paguem menos que o valor total das acções por eles subscritas no decurso desta operação."
+  },
+  "23a341b1c2d8c8a8": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. As acções emitidas em contrapartida de entradas devem ser liberadas, no momento da constituição da sociedade ou no momento da obtenção da autorização para iniciar as suas actividades, em proporção não inferior a 25 % do seu valor nominal ou, na falta de valor nominal, do seu valor nominal ou, na falta de valor nominal, (SIC!) do seu valor contabilístico.\n\n2. Todavia, as acções emitidas em contrapartida de entradas em bens diferentes de dinheiro, no momento da constituição da sociedade ou no momento do (SIC! da) obtenção do antorização (SIC! da autorização) para iniciar as suas actividades, devem ser inteiramente liberadas no prazo de cinco anos a contar do momento da constituição ou do momento da obtenção da referida autorização."
+  },
+  "fe1abdb1b8e9a775": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. As entradas que não consistam em dinheiro devem ser objecto de um relatório elaborado, antes da constituição da sociedade ou da obtenção da autorização para iniciar as suas actividades, por um ou mais peritos independentes da sociedade, nomeados ou reconhecidos por uma autoridade administrativa ou judiciária. Estes peritos podem ser, consoante a legislação de cada Estado-membro, pessoas singulares ou colectivas, ou sociedades.\n\n2. O relatório do perito deve, pelo menos, descrever cada uma das entradas, referir os critérios de avaliação adoptados e indicar se os valores obtidos segundo esses critérios correspondem, pelo menos, ao número e ao valor nominal ou, na falta de valor nominal, ao valor contabilístico e, se for caso disso, ao prémio de emissão das acções a emitir em contrapartida.\n\n3. O relatório do perito deve ser objecto de publicidade a efectuar segundo os modos previstos pela legislação de cada Estado-membro, nos termos do artigo 3º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE).\n\n4. Os Estados-membros podem deixar de aplicar o presente artigo, sempre que 90 % do valor nominal ou, na falta de valor nominal, do valor contabilístico de todas as acções seja emitido em contrapartida de entradas que não consistam em dinheiro, feitas por uma ou mais sociedades, e sejam preenchidos os seguintes requisitos:\n\na) No que respeita à sociedade beneficiária dessas entradas, as pessoas ou sociedades indicadas na alínea i) do artigo 3º tenham renunciado à elaboração do relatório do perito;\n\nb) Esta renúncia tenha sido objecto de publicidade, nos termos do nº 3;\n\nc) As sociedades que fazem essas entradas disponham de reservas que a lei ou os estatutos não permitam distribuir, e cujo montante seja, pelo menos, igual ao valor nominal ou, na falta de valor nominal, ao valor contabilístico das acções emitidas em contrapartida das entradas que não consistam em dinheiro;\n\nd) As sociedades que fazem essas entradas se declarem garantes, até à concorrência do montante indicado na alínea c), das dívidas da sociedade beneficiária, constituídas entre o momento da emissão das acções em contrapartida de entradas diferentes de dinheiro e o termo de um ano, a contar da publicação das contas anuais desta sociedade, relativas ao exercício durante o qual as entradas foram feitas. É proibida a cessão dessas acções durante o referido período;\n\ne) A garantia referida na alínea d) tenha sido objecto de publicidade, nos termos do nº 3;\n\nf) As sociedades que fazem essas entradas constituam uma reserva de montante igual ao indicado na alínea c) que só pode ser distribuída depois de findo um período de três anos, a contar da publicação das contas anuais da sociedade beneficiária, relativas ao exercício durante o qual as entradas foram feitas ou, se for caso disso, num momento ulterior, depois de todas as reclamações relativas à garantia referida na alínea d) e feitas durante esse período tiverem sido satisfeitas."
+  },
+  "6054a63af7284a28": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\n1. Os Estados-Membros podem decidir não aplicar os n.^os^ 1, 2 e 3 do artigo 10.º sempre que, após uma decisão do órgão de administração ou de direcção, uma entrada que não consista em dinheiro seja constituída por valores mobiliários, definidos no ponto 18 do n.º 1 do artigo 4.º da Directiva 2004/39/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros ([^5^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#E0005)), ou instrumentos do mercado monetário, definidos no ponto 19 do n.º 1 do mesmo artigo, avaliados ao preço médio ponderado a que foram negociados num ou mais mercados regulamentados, definidos no ponto 14 do n.º 1 do artigo 4.º da referida directiva, durante um período suficiente, a determinar pela legislação nacional, antecedendo a data efectiva de realização da referida entrada.\n\nContudo, sempre que o preço tenha sido afectado por circunstâncias excepcionais que seriam susceptíveis de alterar significativamente o valor dos activos na data efectiva da realização da entrada, incluindo qualquer situação em que o mercado desses valores mobiliários ou instrumentos do mercado monetário se torne ilíquido, deve proceder-se à respectiva reavaliação por iniciativa e sob a responsabilidade do órgão de administração ou de direcção. Para efeitos dessa reavaliação, são aplicáveis os n.^os^ 1, 2 e 3 do artigo 10.º\n\n2. Os Estados-Membros podem decidir não aplicar os n.^os^ 1, 2 e 3 do artigo 10.º sempre que, após uma decisão do órgão de administração ou de direcção, uma entrada que não consista em dinheiro seja constituída por activos distintos dos valores mobiliários e instrumentos do mercado monetário mencionados no n.º 1, que tenham sido já objecto de uma avaliação pelo justo valor por parte de um perito independente reconhecido e sempre que estejam reunidas as seguintes condições:\n\na) O justo valor tenha sido determinado numa data que não pode preceder mais de seis meses a data efectiva da realização da entrada;\n\nb) A avaliação tenha sido realizada segundo as normas e os princípios de avaliação comummente reconhecidos no Estado-Membro para o tipo de activos que constituem a entrada.\n\nEm caso de circunstâncias novas que seriam susceptíveis de alterar significativamente o justo valor dos activos na data efectiva da realização da entrada, deve proceder-se à respectiva reavaliação por iniciativa e sob a responsabilidade do órgão de administração ou de direcção. Para efeitos dessa reavaliação, são aplicáveis os n.^os^ 1, 2 e 3 do artigo 10.º\n\nNa falta dessa reavaliação, um ou mais accionistas que detenham uma percentagem total de pelo menos 5 % do capital subscrito da sociedade à data da decisão do aumento de capital podem exigir uma avaliação por um perito independente, caso em que são aplicáveis os n.^os^ 1, 2 e 3 do artigo 10.º Esses accionistas podem apresentar o pedido até à data efectiva da realização da entrada, desde que, à data do pedido, os accionistas em questão ainda detenham uma percentagem total de pelo menos 5 % do capital subscrito da sociedade, tal como na data em que a decisão do aumento de capital foi tomada.\n\n3. Os Estados Membros podem decidir não aplicar os n.º 1, 2 e 3 do artigo 10.º sempre que, após uma decisão do órgão de administração ou de direcção, uma entrada que não consista em dinheiro seja constituída por activos distintos dos valores mobiliários e instrumentos do mercado monetário mencionados no n.º 1, cujo justo valor resulte, em relação a cada activo, das contas oficiais do exercício financeiro anterior, desde que as contas oficiais tenham sido objecto de auditoria ao abrigo da Directiva 2006/43/CE do Parlamento Europeu e do Conselho, de 17 de Maio de 2006, relativa à revisão legal das contas anuais e consolidadas ([^6^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#E0006)).\n\nO segundo e terceiro parágrafos do n.º 2 são aplicáveis *mutatis mutandis*."
+  },
+  "73c8cd041e23b456": {
+   "fragment_id": "Artigo 10.º-B",
+   "type": "artigo",
+   "heading": "Artigo 10.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-B\n\n1. Sempre que for efectuada uma entrada que não consista em dinheiro tal como referida no artigo 10.º-A sem que se disponha do relatório do perito a que se referem os n.^os^ 1, 2 e 3 do artigo 10.º, para além dos requisitos previstos na alínea h) do artigo 3.º, e no prazo de um mês a contar da data efectiva da realização da entrada, deve ser publicada uma declaração que inclua o seguinte:\n\na) Uma descrição da entrada que não consista em dinheiro;\n\nb) O valor da referida entrada, a origem da sua avaliação e, se for caso disso, o método de avaliação;\n\nc) Uma declaração que especifique se o valor obtido corresponde pelo menos ao número, ao valor nominal, ou na falta de valor nominal ao valor contabilístico, e, se for caso disso, ao prémio pago pelas acções emitidas em contrapartida dessas entradas;\n\nd) Uma declaração que indique que não ocorreram nenhumas circunstâncias novas que influenciem a avaliação inicial.\n\nEssa publicação é efectuada da forma prevista na legislação de cada Estado-Membro em conformidade com o artigo 3.º da Directiva 68/151/CEE.\n\n2. Sempre que seja proposto efectuar uma entrada que não consista em dinheiro sem que se disponha do relatório do perito a que se referem os n.^os^ 1, 2 e 3 do artigo 10.º, que esteja relacionada com um aumento de capital proposto nos termos do n.º 2 do artigo 25.º, deve publicado da forma prevista na legislação de cada Estado-Membro em conformidade com o artigo 3.º da Directiva 68/151/CEE, antes da realização da entrada que não consista em dinheiro, um anúncio de que conste a data da decisão sobre o aumento e as informações enumeradas no n.º 1. Neste caso, a declaração nos termos do n.º 1 deve limitar-se a indicar que não ocorreram circunstâncias novas desde a publicação do referido anúncio.\n\n3. Cada Estado Membro determina as garantias adequadas para assegurar o cumprimento do procedimento previsto no artigo 10.º-A e no presente artigo sempre que uma entrada que não consista em dinheiro seja realizada sem que se disponha do relatório do perito a que se referem os n.^os^ 1, 2 e 3 do artigo 10.º"
+  },
+  "95069d86b1b9d00f": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Se, antes do termo do prazo fixado pela legislação nacional, o qual será, no mínimo, de dois anos a contar do momento da constituição da sociedade ou da obtenção da autorização para iniciar as suas actividades, a sociedade adquirir qualquer elemento do activo pertencente a uma pessoa ou a uma sociedade mencionada na alínea i) do artigo 3º por um contravalor de, pelo menos, um décimo do capital subscrito, esta aquisição deve ser objecto de uma verificação e de uma publicidade idênticas às previstas [**►M2**](http://publications.europa.eu/resource/celex/32006L0068) nos n.^os^ 1, 2 e 3 do artigo 10.º **◄** e deve ser submetida à aprovação da assembleia geral.[**►M2**](http://publications.europa.eu/resource/celex/32006L0068) Os artigos 10.º-A e 10.º-B são aplicáveis *mutatis mutandis* **◄**\n\nOs Estados-membros podem igualmente prever a aplicação destas disposições no caso de o elemento de activo pertencer a um accionista ou a qualquer outra pessoa.\n\n2. O nº 1 não se aplica às aquisições feitas no quadro das operações correntes da sociedade, nem às aquisições feitas por iniciativa ou sob a fiscalização de uma autoridade administrativa ou judiciária, nem às aquisições feitas na bolsa."
+  },
+  "7c0b06b50edc7e39": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nSem prejuízo das disposições respeitantes à redução do capital subscrito, os accionistas não podem ser dispensados da obrigação de realizar a sua entrada."
+  },
+  "82dc4d1f410fd512": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nAté à coordenação ulterior das legislações nacionais, os Estados-membros tomarão as medidas necessárias para que, pelo menos, garantias idênticas às previstas nos artigos 2º a 12º sejam dadas em caso de transformação de uma sociedade de outro tipo em sociedade anónima."
+  },
+  "0af1b68d83e1a924": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs artigos 2º a 13º não prejudicam as disposições legislativas dos Estados-membros sobre a competência e o processo a observar na modificação dos estatutos ou do acto constitutivo."
+  },
+  "841a161da940c1e2": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\na) Exceptuando casos de redução do capital subscrito, nenhuma distribuição pode ser feita aos accionistas sempre que, na data de encerramento do último exercício, o activo líquido, tal como resulta das contas anuais, for inferior, ou passasse a sê-lo por força de uma tal distribuição, à soma do montante do capital subscrito e das reservas que a lei ou os estatutos não permitem distribuir.\n\nb) Ao montante do capital subscrito indicado na alínea a) deduz-se o capital subscrito ainda não exigido, quando este último não estiver contabilizado no activo do balanço.\n\nc) O montante da distribuição feita aos accionistas não pode exceder o montante dos resultados do último exercício encerrado, acrescido dos lucros transitados, bem como de fundos retirados de reservas disponíveis para este efeito, e deduzido das perdas transitadas, bem como dos valores levados a reserva, nos termos da lei ou dos estatutos.\n\nd) O termo «distribuição», tal como figura nas alíneas a) e c), compreende, nomeadamente, o pagamento de dividendos e de juros correspondentes às acções.\n\n2. Se a legislação de um Estado-membro admitir o pagamento de adiantamentos sobre os dividendos, deve subordiná-lo, pelo menos, às seguintes condições:\n\na) Deve ser elaborado um balanço intercalar que demonstre que os fundos disponíveis para a distribuição são suficientes;\n\nb) O montante a distribuir não pode exceder o montante dos resultados realizados desde o fim do último exercício cujas contas anuais tenham sido aprovadas, acrescido dos lucros transitados, bem como de fundos retirados das reservas disponíveis para este efeito, e deduzido das perdas transitadas, bem como dos valores a levar a reservas, nos termos da lei ou dos estatutos.\n\n3. Os n^os^ 1 e 2 não prejudicam as disposições dos Estados-membros relativas ao aumento do capital subscrito por incorporação de reservas.\n\n4. A legislação de um Estado-membro pode prever derrogações à alínea a) do nº 1, no caso de sociedades de investimento de capital fixo.\n\nPor «sociedades de investimento de capital fixo», na acepção do presente número, devem apenas entender-se as sociedades:\n\n— que tenham exclusivamente por objecto a aplicação dos seus próprios fundos em valores mobiliários diversos, em valores imobiliários diversos ou em outros valores, com o único fim de repartir os riscos de investimento e de fazer beneficiar os seus accionistas dos resultados da gestão dos seus haveres;\n\n— e\n\n— que recorram a subscrição pública para colocar as suas próprias acções.\n\nAs legislações dos Estados-membros que se prevalecerem desta faculdade:\n\na) Exigirão que estas sociedades inscrevam os termos «sociedade de investimento» em todos os documentos indicados no artigo 4º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE);\n\nb) Não autorizarão que uma sociedade deste tipo, cujo activo líquido seja inferior ao montante indicado na alínea a) do nº 1, proceda a uma distribuição aos accionistas sempre que, na data do encerramento do último exercício, o total do activo da sociedade, tal como resulta das contas anuais, for inferior, ou passasse a sê-lo por força de distribuição, a uma vez e meia o montante do total das dívidas da sociedade para com os credores, tal como resulta das contas anuais;\n\nc) Determinarão que todas as sociedades deste tipo que procedam a uma distribuição, quando o seu activo líquido for inferior ao montante indicado na alínea a) do nº 1), especifiquem tal facto numa nota, nas suas contas anuais."
+  },
+  "4997d1150013fa51": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nQualquer distribuição feita com violação do disposto no artigo 15º deve ser restituída pelos accionistas que a tiverem recebido, se a sociedade provar que estes accionistas conheciam a irregularidade das distribuições feitas a seu favor ou que, tendo em conta as circunstâncias, a não deviam ignorar."
+  },
+  "2825787420883ba8": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\n1. No caso de perda grave do capital subscrito, deve ser convocada uma assembleia geral no prazo fixado pelas legislações dos Estados-membros, para examinar se a sociedade deve ser dissolvida ouse (SIC! ou se) deve ser adoptada qualquer outra medida.\n\n2. Para os efeitos previstos no nº 1, a legislação de um Estado-membro não pode fixar em mais de metade do capital subscrito o montante da perda considerada grave."
+  },
+  "d8421e3d994b9f50": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. A sociedade não pode subscrever acções próprias.\n\n2. Se as acções de uma sociedade forem subscritas por uma pessoa actuando em nome próprio mas por conta da sociedade, a subscrição é considerada como tendo sido feita por conta do subscritor.\n\n3. As pessoas ou as sociedades referidas na alínea i) do artigo 3º ou, no caso de aumento de capital, os membros do órgão de administração ou de direcção são obrigados a liberar as acções subscritas com violação do presente artigo.\n\nTodavia, a legislação de um Estado-membro pode estabelecer que qualquer interessado possa libertar-se dessa obrigação, provando que nenhuma falta lhe é pessoalmente imputável."
+  },
+  "9991e574696fcc89": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. Sem prejuízo do princípio da igualdade de tratamento de todos os accionistas que se encontrem na mesma situação e da Directiva 2003/6/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao abuso de informação privilegiada e à manipulação de mercado (abuso de mercado) ([^7^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#E0007)), os Estados-Membros podem permitir que uma sociedade adquira acções próprias, quer por si mesma, quer através de uma pessoa que actue em nome próprio, mas por conta da sociedade. Na medida em que tais aquisições sejam permitidas, os Estados-Membros devem subordiná-las às seguintes condições:\n\na) A autorização é concedida pela assembleia geral, que determina os termos e condições dessas aquisições, nomeadamente o número máximo de acções a adquirir, o período de validade da autorização, cuja duração máxima será determinada pela legislação nacional sem, no entanto, poder exceder cinco anos, e, no caso de aquisição a título oneroso, os contravalores máximo e mínimo. Os membros dos órgãos de administração ou de direcção devem certificar-se de que, no momento em que qualquer aquisição autorizada seja efectuada, as condições indicadas nas alíneas b) e c) são respeitadas;\n\nb) As aquisições, incluindo as acções que a sociedade tenha adquirido anteriormente e que tenha em carteira, bem como as acções adquiridas por uma pessoa que actue em nome próprio, mas por conta da sociedade, não podem ter por efeito a redução dos activos líquidos para um nível inferior ao mencionado nas alíneas a) e b) do n.º 1 do artigo 15.º;\n\nc) A operação só pode incidir sobre acções inteiramente liberadas.\n\nOs Estados-Membros podem ainda subordinar as aquisições, na acepção do primeiro parágrafo, a qualquer das condições seguintes:\n\ni) o valor nominal ou, na falta do mesmo, o valor contabilístico das acções adquiridas, incluindo as acções que a sociedade tenha adquirido anteriormente e que tenha em carteira, bem como as acções adquiridas por uma pessoa que actue em nome próprio, mas por conta da sociedade, não pode ser superior a um limite a determinar pelos Estados-Membros. Esse limite não pode ser inferior a 10 % do capital subscrito,\n\nii) a faculdade que tem a sociedade de adquirir acções próprias na acepção do primeiro parágrafo, o número máximo de acções a adquirir, o período de validade da faculdade e os contravalores máximo e mínimo devem estar previstos nos estatutos ou no acto constitutivo da sociedade,\n\niii) a sociedade deve cumprir os requisitos adequados de informação e comunicação,\n\niv) certas sociedades, determinadas pelos Estados-Membros, podem ser obrigadas a cancelar as acções adquiridas na condição de levarem um montante igual ao valor nominal das acções canceladas a uma reserva que não pode, salvo no caso de redução do capital subscrito, ser distribuída aos accionistas. Essa reserva pode ser utilizada unicamente para aumentar o capital subscrito mediante incorporação de reservas,\n\nv) a aquisição não deve prejudicar a satisfação dos direitos dos credores.\n\n2. A legislação de um Estado-membro pode derrogar o nº 1, primeira frase da alínea a), quando a aquisição de acções próprias for necessária para evitar à sociedade um prejuízo grave e iminente. Nesse caso, a assembleia geral seguinte deve ser informada, pelo órgão de administração ou de direcção, das razões e da finalidade das aquisições efectuadas, do número e do valor nominal ou, na falta de valor nominal, do valor contabilístico das acções adquiridas, da fracção do capital subscrito que elas representam, bem como do contravalor dessas acções.\n\n3. Os Estados-membros podem deixar de aplicar o nº 1, primeira frase da alínea a), às acções adquiridas, quer pela própria sociedade, quer por uma pessoa que actue em nome próprio mas por conta da sociedade, com o fim de serem distribuídas ao pessoal desta ou ao pessoal de uma sociedade coligada. A distribuição de tais acções deve ser efectuada no prazo de doze meses, a contar da sua aquisição."
+  },
+  "1aac6ea8a79a17b1": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\n1. Os Estados-membros podem deixar de aplicar o artigo 19º:\n\na) As (SIC! Às) acções adquiridas em execução de uma deliberação de redução do capital ou no caso referido no artigo 39º;\n\nb) Às acções adquiridas em consequência de uma transmissão de património a título universal;\n\nc) Às acções inteiramente liberadas, adquiridas a título gratuito, ou adquiridas por bancos e outras instituições financeiras, a título de comissão de compra;\n\nd) Às acções adquiridas em virtude de uma obrigação legal ou em execução de uma decisão judicial que tenha por fim proteger os accionistas minoritários, nomeadamente, nos casos de fusão, de mudança do objecto ou do tipo da sociedade, de transferência da sede social para o estrangeiro ou de introdução de limitações à transmissão de acções;\n\ne) Às acções adquiridas de um accionista por falta da sua liberação;\n\nf) Às acções adquiridas com o fim de indemnizar os accionistas minoritários de sociedades coligadas;\n\ng) Às acções inteiramente liberadas, adquiridas por adjudicação judiciária, em execução de um crédito da sociedade sobre o titular dessas acções;\n\nh) Às acções inteiramente liberadas, emitidas por uma sociedade de investimento de capital fixo, na acepção do nº 4, segundo parágrafo, do artigo 15º, e adquiridas a pedido dos investidores por essa sociedade ou por uma sociedade com ela coligada. Aplicar-se-á o disposto no nº 4, alínea a), do artigo 15º. Destas aquisições não pode resultar que o activo líquido se torne inferior ao montante do capital subscrito, acrescido das reservas que a lei não permita distribuir.\n\n2. As acções adquiridas nos casos indicados no nº 1, alíneas b) a g), devem, todavia, ser alienadas no prazo máximo de três anos, a contar da data da sua aquisição, a não ser que o valor nominal ou, na falta de valor nominal, o valor contabilístico das acções adquiridas, incluindo as acções que a sociedade possa ter adquirido por uma pessoa actuando em nome próprio mas por conta da sociedade, não ultrapasse 10 % do capital subscrito.\n\n3. Se não forem alienadas no prazo fixado no nº 2, as acções devem ser anuladas. A legislação de um Estado-membro pode subordinar essa anulação a uma redução do capital subscrito de montante correspondente. Tal redução será obrigatória, na medida em que as aquisições de acções a anular tiverem o efeito de tornar o activo líquido inferior ao montante referido [**►M2**](http://publications.europa.eu/resource/celex/32006L0068) nas alíneas a) e b) do n.º 1 do artigo 15.º.**◄**"
+  },
+  "a6f314c274919f56": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nAs acções adquiridas com violação dos artigos 19º e 20º devem ser alienadas no prazo de um ano, a contar da data da sua aquisição. Se não forem alienadas nesse prazo, aplicar-se-à (SIC! aplicar-se-á) o nº 3 do artigo 20º."
+  },
+  "f6651e494781c16a": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\n1. Se a legislação de um Estado-membro permitir que uma sociedade adquira as suas próprias acções, quer actuando directamente, quer por intermédio de uma pessoa que actue em nome próprio mas por conta da sociedade, ela subordinará a detenção dessas acções, durante todo o período em que esta se verificar, pelo menos às seguintes condições:\n\na) Dos direitos inerentes às acções, o direito de voto das acções próprias ficará, em qualquer caso, suspenso;\n\nb) Se essas acções forem contabilizadas no activo do balanço, deve ser criada no passivo uma reserva indisponível de montante igual.\n\n2. Se a legislação de um Estado-membro permitir que uma sociedade adquira as suas próprias acções quer actuando directamente, quer por intermédio de uma pessoa que actue em nome próprio mas por conta da sociedade, ela exigirá que o relatório anual da gestão mencione, pelo menos:\n\na) Os motivos das aquisições efectuadas durante o exercício;\n\nb) O número e o valor nominal ou, na falta de valor nominal, o valor contabilístico das acções adquiridas e alienadas durante o exercício, bem como a fracção do capital subscrito que elas representam;\n\nc) No caso de aquisições ou alienação a título oneroso, o contravalor das acções;\n\nd) O número e o valor nominal ou, na falta de valor nominal, o valor contabilístico do conjunto das acções adquiridas e detidas em carteira, bem como a fracção do capital subscrito que elas representam."
+  },
+  "4cdac2a352e73025": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\n1. Caso os Estados-Membros permitam que uma sociedade, directa ou indirectamente, adiante fundos, conceda empréstimos ou preste garantias para que um terceiro adquira as suas acções, tais operações devem realizar-se com observância das condições estabelecidas nos segundo, terceiro, quarto e quinto parágrafos.\n\nAs operações devem realizar-se sob a responsabilidade do órgão de administração ou de direcção, em condições justas de mercado, especialmente no que diz respeito aos juros pagos à sociedade e no que se refere às garantias que lhe são oferecidas pelos empréstimos e os adiantamentos a que se refere o primeiro parágrafo. A situação em termos de fiabilidade creditícia do terceiro ou, no caso de operações com múltiplas partes, de cada contraparte deve ter sido devidamente analisada.\n\nAs operações devem ser submetidas pelo órgão de administração ou de direcção à aprovação prévia da assembleia geral que delibera em conformidade com as regras de quórum e de maioria definidas no artigo 40.º O órgão de administração ou de direcção deve apresentar à assembleia geral um relatório escrito, indicando as razões da operação, o interesse da sociedade na realização dessa operação, as condições em que a operação é efectuada, os riscos que a operação implica para a liquidez e solvabilidade da sociedade e o preço a que o terceiro adquirirá as acções. O referido relatório deve ser enviado ao registo comercial para publicação em conformidade com o disposto no artigo 3.º da Directiva 68/151/CEE.\n\nA assistência financeira global concedida a terceiros nunca deve ocasionar a redução dos activos líquidos para um nível inferior ao montante especificado nas alíneas a) e b) do n.º 1 do artigo 15.º, tendo também em conta qualquer redução dos activos líquidos que possa ter ocorrido em virtude da aquisição de acções próprias pela sociedade ou por sua conta em conformidade com o n.º 1 do artigo 19.º A sociedade deve incluir no passivo do seu balanço uma reserva, cuja distribuição é vedada, no montante da assistência financeira global.\n\nSempre que as acções próprias da sociedade, na acepção do n.º 1 do artigo 19.º, sejam adquiridas por um terceiro, ou as acções emitidas durante um aumento do capital subscrito sejam subscritas por um terceiro, através da assistência financeira da sociedade, essa aquisição ou subscrição deve efectuar-se a um preço justo.\n\n2. O disposto no nº 1 não se aplica às transacções que se enquadrem nas operações correntes dos bancos ou de outras instituições financeiras, nem às operações efectuadas com vista à aquisição de acções pelo ou para o pessoal da sociedade ou de uma sociedade coligada com ela. Todavia, destas transacções e operações não pode resultar que o activo líquido da sociedade se torne inferior ao montante referido no nº 1, alínea a), do artigo 15º.\n\n3. O disposto no nº 1 não se aplica às operações efectuadas para a aquisição das acções mencionadas no nº 1, alínea h), do artigo 20º."
+  },
+  "be0089291c950e5c": {
+   "fragment_id": "Artigo 23.º-A",
+   "type": "artigo",
+   "heading": "Artigo 23.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º-A\n\nQuando membros individuais do órgão de administração ou de direcção da sociedade que seja parte numa operação prevista no n.º 1 do artigo 23.º, ou do órgão de administração ou de direcção de uma empresa-mãe na acepção do artigo 1.º da Directiva 83/349/CEE do Conselho, de 13 de Junho de 1983, relativa às contas consolidadas ([^8^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#E0008)), ou a própria empresa-mãe, ou pessoas agindo em nome próprio, mas por conta dos membros desses órgãos ou dessa empresa, forem contrapartes numa tal operação, os Estados-Membros devem assegurar, através de garantias adequadas, que essa operação não é contrária aos interesses da sociedade."
+  },
+  "81483fe9bd7d2b12": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\n1. A aceitação em penhor pela sociedade das suas próprias acções, quer por si mesma, quer por intermédio de uma pessoa que actue em nome próprio mas por conta da sociedade, é equiparada às aquisições indicadas no artigo 19º, no nº 1 do artigo 20º e nos artigos 22º e 23º.\n\n2. Os Estados-membros podem deixar de aplicar o nº 1 às operações correntes dos bancos e de outras instituições financeiras."
+  },
+  "9d71a9133ea12935": {
+   "fragment_id": "Artigo 24ºA",
+   "type": "artigo",
+   "heading": "Artigo 24ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24ºA\n\na) A subscrição, aquisição ou detenção de acções de uma sociedade anónima por outra sociedade, na acepção do artigo 1º da Directiva 68/151/CEE, em que a sociedade anónima disponha directa ou indirectamente da maioria dos direitos de voto ou na qual possa exercer directa ou indirectamente uma influência dominante consideram-se feitas pela própria sociedade anónima.\n\nb) A alínea a) é igualmente aplicável sempre que a outra sociedade seja sujeita ao direito de um país terceiro e tenha uma forma jurídica comparável às previstas no artigo 1º da Directiva 68/151/CEE.\n\n2. Todavia, sempre que a sociedade anónima disponha indirectamente da maioria dos direitos de voto ou possa exercer indirectamente uma influência dominante, os Estados-membros podem não aplicar o número anterior, desde que prevejam a suspensão dos direitos de voto inerentes às acções da sociedade anónima detidas pela outra sociedade.\n\n3. Enquanto não se coordenarem as disposições nacionais sobre o direito dos grupos, os Estados-membros podem:\n\na) Definir os casos em que se presume que uma sociedade anónima pode exercer uma influência dominante noutra sociedade; se um Estado-membro fizer uso desta possibilidade, a sua legislação nacional deve, de qualquer modo, prever que existe a possibilidade de exercer uma influência dominante quando uma sociedade anónima:\n\n— tiver o direito de nomear ou destituir a maioria dos membros dos órgãos de administração, de direcção ou de fiscalização e for simultaneamente accionista ou sócia da outra sociedade,\n\n— ou\n\n— for accionista ou sócia da outra sociedade e tiver o controlo exclusivo da maioria dos direitos de voto dos accionistas ou sócios desta, por força de um acordo celebrado com outros accionistas ou sócios dessa sociedade.\n\nb) Definir os casos em que se considera que uma sociedade anónima dispõe indirectamente de direitos de voto ou está em condições de exercer indirectamente uma influência dominante;\n\nc) Determinar as circunstâncias em que se considera que uma sociedade anónima dispõe de direitos de voto.\n\na) Os Estados-membros podem não aplicar o nº 1 sempre que a subscrição, aquisição ou detenção seja por conta de um terceiro que não o subscritor, adquirente ou detentor e que não seja nem a sociedade anónima referida no nº 1 nem outra sociedade em que a sociedade anónima disponha directa ou indirectamente da maioria dos direitos de voto ou sobre a qual possa exercer directa ou indirectamente uma influência dominante.\n\nb) Além disso, os Estados-membros podem não aplicar o nº 1 sempre que a subscrição, aquisição ou detenção seja efectuada pela outra sociedade na sua qualidade e no âmbito da sua acção de operador profissional de títulos, desde que seja membro de uma bolsa de valores situada ou que opere num Estado-membro ou que seja reconhecida ou fiscalizada por uma autoridade de um Estado-membro competente para a fiscalização dos operadores profissionais de títulos que, na acepção da presente directiva, podem incluir as instituições de crédito.\n\n5. Os Estados-membros não são obrigados a aplicar o nº 1 sempre que a detenção de acções da sociedade anónima por outra sociedade resulte de uma aquisição realizada antes de a relação entre essas duas sociedades preencher os critérios constantes do nº 1.\n\nNo entanto, os direitos de voto inerentes a essas acções serão suspensos e essas acções serão tomadas em consideração para determinar se a condição prevista no nº 1, alínea b), do artigo 19º se encontra preenchida.\n\n6. Os Estados-membros podem não aplicar o disposto nos n^os^ 2 e 3 do artigo 20º e no artigo 21º em caso de aquisição de acções de uma sociedade anónima pela outra sociedade, na acepção do nº 1, desde que prevejam:\n\na) A suspensão dos direitos de voto inerentes às acções da sociedade anónima detidas pela outra sociedade,\n\nb) Que membros dos órgãos de administração ou de direcção da sociedade anónima sejam obrigados a resgatar à outra sociedade as acções a que se referem os n^os^ 2 e 3 do artigo 20º e o artigo 21º ao preço a que esta outra sociedade os tinha adquirido; esta sanção não é aplicável no caso de esses membros provarem que a sociedade anónima é totalmente alheia à subscrição ou aquisição das referidas acções."
+  },
+  "e15b0979ccc43318": {
+   "fragment_id": "Artigo 25º",
+   "type": "artigo",
+   "heading": "Artigo 25º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º\n\n1. Qualquer aumento do capital deve ser deliberado pela assembleia geral. Esta deliberação, bem como a realização do aumento do capital subscrito, devem ser objecto de publicidade, a efectuar segundo os modos previstos pela legislação de cada Estado-membro, nos termos do artigo 3º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE).\n\n2. Todavia, os estatutos, o acto contitutivo (SIC! constitutivo) ou a assembleia geral, cuja deliberação deve ser objecto de publicidade nos termos do nº 1, podem autorizar o aumento do capital subscrito até um montante máximo por eles fixado, com observância do montante máximo eventualmente previsto na lei. O órgão da sociedade designado competente para esse efeito decidirá, se for caso disso, aumentar o capital subscrito, dentro dos limites do montante fixado. Este poder do órgão tem um prazo máximo de exercício de cinco anos, e pode ser renovado uma ou mais vezes pela assembleia geral, por um período que, para cada renovação, não pode ultrapassar cinco anos.\n\n3. Quando existam várias categorias de acções, a deliberação da assembleia geral relativa ao aumento do capital indicado no nº 1, ou à autorização para aumentar o capital, referida no nº 2, ficarão subordinadas, pelo menos, a uma votação separada, a efectuar por cada uma das categorias de accionistas cujos direitos sejam afectados pela operação.\n\n4. O presente artigo aplica-se à emissão de quaisquer títulos convertíveis em acções ou providos de um direito de subscrição de acções, mas não é aplicável à conversão dos títulos, nem ao exercício do direito de subscrição."
+  },
+  "03302e6f3e40099f": {
+   "fragment_id": "Artigo 26º",
+   "type": "artigo",
+   "heading": "Artigo 26º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26º\n\nAs acções emitidas em contrapartida de entradas, na sequência de um aumento de capital subscrito, devem ser liberadas em proporção não inferior a 25 % do seu valor nominal ou, na falta de valor nominal, do seu valor contabilístico. Quando for previsto um prémio de emissão, o seu montante deve ser integralmente pago."
+  },
+  "b61c4871d4708676": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\n1. As acções emitidas em contrapartida de entradas que não consistam em dinheiro, na sequência de um aumento do capital subscrito, devem ser integralmente liberadas no prazo de cinco anos, a contar da deliberação de aumento do capital subscrito.\n\n2. As entradas referidas no nº 1 serão objecto de um relatório elaborado, antes da realização do aumento do capital subscrito, por um ou mais peritos independentes da sociedade, nomeados ou habilitados por uma autoridade administrativa ou judiciária. De acordo com a legislação de cada Estado-membro, estes peritos podem ser pessoas singulares ou colectivas, ou sociedades.\n\nSão aplicáveis os n.^os^ 2 e 3 do artigo 10.º e os artigos 10.º-A e 10.º-B.\n\n3. Os Estados-membros podem deixar de aplicar o disposto no nº 2 quando o aumento do capital subscrito é efectuado para realizar uma fusão ou uma oferta pública de compra ou de troca e tendo em vista remunerar os accionistas da sociedade incorporada, ou os accionistas da sociedade que seja objecto de oferta pública de compra ou de troca.\n\n4. Os Estados-membros podem deixar de aplicar o nº 2 quando todas as acções emitidas na sequência de um aumento de capital subscrito forem emitidas em contrapartida de entradas em bens diferentes de dinheiro, feitas por uma ou mais sociedades, com a condição de que todos os accionistas da sociedade beneficiária das entradas tenham renunciado è (SIC! à) elaboração do relatório pericial e de que sejam preenchidas as condições previstas no nº 4, alíneas b) a f), do artigo 10º."
+  },
+  "037047c3dacd1f15": {
+   "fragment_id": "Artigo 28º",
+   "type": "artigo",
+   "heading": "Artigo 28º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28º\n\nQuando um aumento de capital não for inteiramente subscrito, o capital só será aumentado até à concorrência das subscrições recolhidas, se as condições de emissão tiverem expressamente previsto essa possibilidade."
+  },
+  "237ad7e36d4ad803": {
+   "fragment_id": "Artigo 29º",
+   "type": "artigo",
+   "heading": "Artigo 29º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29º\n\n1. Em todos os aumentos do capital subscrito por entradas em dinheiro, as acções devem ser oferecidas com preferência aos accionistas, proporcionalmente à parte do capital representada pelas suas acções.\n\n2. Os Estados-membros podem:\n\na) Não aplicar o disposto no nº 1 às acções com um direito limitado de participação nas distribuições, na acepção do artigo 15º, e/ou na partilha do património social, em caso de liquidação;\n\nb) Permitir que, quando, numa sociedade em que existam várias categorias de acções, dotadas de diferentes direitos no tocante ao voto, à participação nas distribuições, na acepção do artigo 15º, ou à partilha do património social em caso de liquidação, o capital subscrito for aumentado pela emissão de novas acções de uma dessas categorias, o exercício do direito de preferência pelos accionistas das outras categorias só possa ser efectivado depois de os accionistas da categoria correspondente à (SIC! às) novas acções emitidas terem exercido o seu direito de preferência.\n\n3. A oferta da subscrição a título preferencial, bem como o prazo no qual este direito deve ser exercido, devem ser objecto de publicação no boletim nacional designado em conformidade com a Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE). Todavia, a legislação de um Estado-membro pode deixar de exigir esta publicação sempre que todas as acções da sociedade forem nominativas. Neste caso, todos os accionistas devem ser informados por escrito. O direito de preferência deve ser exercido em prazo que não deve ser inferior a catorze dias, a contar da publicação da oferta ou do envio das cartas aos accionistas.\n\n4. O direito de preferência não pode ser limitado nem suprimido pelos estatutos ou pelo acto constitutivo. A limitação ou supressão deste direito podem, todavia, ser decididas pela assembleia geral. O órgão de direcção ou de administração deve apresentar a essa assembleia um relatório escrito que indique os motivos para limitar ou suprimir o direito de preferência e justifique o preço de emissão proposto. A assembleia delibera segundo as regras de *quorum* e de maioria prescritas no artigo 40º. A deliberação deve ser objecto de publicidade, a efectuar segundo as modalidades previstas pela legislação de cada Estado-membro, nos termos do artigo 3º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE).\n\n5. A legislação de um Estado-membro pode estabelecer que os estatutos, o acto constitutivo ou a assembleia geral, deliberando em conformidade com as regras de *quorum*, de maioria e de publicidade indicadas no nº 4, possam conceder o poder de limitar ou de suprimir o direito de preferência ao órgão da sociedade autorizado a decidir o aumento de capital subscrito, nos limites do capital autorizado. Esta competência não pode ter um prazo de exercício superior à do (SIC!) poder previsto no nº 2 do artigo 25º.\n\n6. Os n^os^ 1 a 5 aplicam-se à emissão de quaisquer títulos convertíveis em acções ou providos de um direito de subscrição de acções, mas não à conversão dos títulos, nem ao exercício do direito de subscrição.\n\n7. Não se verifica a exclusão do direito de preferência, na acepção dos n^os^ 4 e 5, quando, de acordo com a deliberação de aumento do capital subscrito, as acções forem emitidas em favor de bancos ou outras instituições financeiras, para que estes as ofereçam aos accionistas da sociedade, nos termos dos n^os^ 1 e 3."
+  },
+  "3c6683158acafe33": {
+   "fragment_id": "Artigo 30º",
+   "type": "artigo",
+   "heading": "Artigo 30º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30º\n\nQualquer redução do capital subscrito, à excepção da que for ordenada por decisão judicial, deve ser, pelo menos, deliberada pela assembleia geral, com observância das regras de *quorum* e de maioria fixadas no artigo 40º, sem prejuízo dos artigos 36º e 37º. Esta deliberação deve ser objecto de publicidade, a efectuar segundo os modos previstos pela legislação de cada Estado-membro, em conformidade com o artigo 3º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE).\n\nA convocação da assembleia deve indicar, pelo menos, a finalidade da redução e a forma segundo a qual será realizada."
+  },
+  "a010883a9e8600ba": {
+   "fragment_id": "Artigo 31º",
+   "type": "artigo",
+   "heading": "Artigo 31º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31º\n\nSe existirem várias categorias de acções, a deliberação da assembleia geral sobre a redução do capital subscrito ficará subordinada, pelo menos, a uma votação separada, a efectuar por cada uma das categorias de accionistas cujos direitos sejam afectados pela operação."
+  },
+  "1222203c78e46804": {
+   "fragment_id": "Artigo 32º",
+   "type": "artigo",
+   "heading": "Artigo 32º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32º\n\n1. No caso de redução do capital subscrito, pelo menos os credores cujos créditos tenham sido constituídos antes da publicação da deliberação de redução têm, pelo menos, o direito de obter uma garantia para os créditos ainda não vencidos no momento dessa publicação. Os Estados-Membros só podem excluir esse direito se o credor dispuser de garantias adequadas ou se estas garantias não forem necessárias, tendo em conta o património da sociedade.\n\nOs Estados-Membros estabelecem as condições do exercício do direito disposto no primeiro parágrafo. De qualquer modo, os Estados-Membros devem assegurar que os credores sejam autorizados a requerer junto da autoridade administrativa ou judicial competente a obtenção de garantias adequadas, desde que possam provar, de maneira credível, que a redução do capital subscrito compromete a satisfação dos seus créditos e que a sociedade não lhes forneceu garantias adequadas.\n\n2. As legislações dos Estados-membros devem, pelo menos, determinar que a redução ficará sem efeito ou que nenhum pagamento pode ser efectuado em proveito dos accionistas, enquanto os credores não tiverem obtido satisfação, ou um tribunal não tiver decidido que o seu pedido não procede.\n\n3. O presente artigo é aplicável sempre que a redução do capital subscrito se opere por dispensa total ou parcial do pagamento dos saldos das entradas dos accionistas."
+  },
+  "3707b1497458863e": {
+   "fragment_id": "Artigo 33º",
+   "type": "artigo",
+   "heading": "Artigo 33º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33º\n\n1. Os Estados-membros podem deixar de aplicar o artigo 32º a uma redução do capital subscrito que tenha por finalidade compensar perdas sofridas ou incorporar valores numa reserva, contanto que, em consequência desta operação, o montante desta reserva não ultrapasse 10 % do capital subscrito reduzido. Esta reserva não pode, salvo no caso de redução do capital subscrito, ser distribuída aos accionistas; ela só pode ser utilizada para compensar perdas sofridas, ou para aumentar o capital subscrito por incorporação de reservas, na medida em que os Estados-membros permitam tal operação.\n\n2. Nos casos previstos no nº 1, as legislações dos Estados-membros determinarão, pelo menos, as medidas necessárias para que as importâncias provenientes da redução do capital subscrito não possam ser utilizadas para efectuar pagamentos ou distribuições aos accionistas, nem para dispensar os accionistas da obrigação de realizar as suas entradas."
+  },
+  "aff678963b72ab0e": {
+   "fragment_id": "Artigo 34º",
+   "type": "artigo",
+   "heading": "Artigo 34º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34º\n\nO capital subscrito não pode ser reduzido a um montante inferior ao capital mínimo, fixado em conformidade com o artigo 6º. Todavia, os Estados-membros podem autorizar uma tal redução se previrem igualmente que a decisão de proceder à redução só produzirá efeitos quando o capital subscrito for aumentado para um montante pelo menos igual ao mínimo prescrito."
+  },
+  "de0bdd918417e27c": {
+   "fragment_id": "Artigo 35º",
+   "type": "artigo",
+   "heading": "Artigo 35º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35º\n\nQuando a legislação de um Estado-membro autorizar a amortização total ou parcial do capital subscrito sem redução deste, exigirá, pelo menos, a observância das seguintes condições:\n\na) Se os estatutos ou o acto constitutivo previrem a amortização, esta será deliberada pela assembleia geral, com observância, pelo menos, das condições ordinárias de *quorum* e de maioria. Sempre que os estatutos ou o acto constitutivo não previrem a amortização, esta será deliberada pela assembleia geral, com observância, pelo menos, das condições de *quorum* e de maioria previstas no artigo 40º. A deliberação deve ser objecto de publicidade, a efectuar segundo os modos previstos pela legislação de cada Estado-membro, nos termos do artigo 3º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE);\n\nb) Para os fins da amortização só podem ser utilizados fundos distribuíveis nos termos do nº 1 do artigo 15º;\n\nc) Os accionistas cujas acções forem amortizadas, conservarão os seus direitos na sociedade, com exclusão do direito ao reembolso da entrada e do direito de participação na distribuição de um primeiro dividendo, atribuído às acções não amortizadas."
+  },
+  "f519d7e58a1dcc42": {
+   "fragment_id": "Artigo 36º",
+   "type": "artigo",
+   "heading": "Artigo 36º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36º\n\n1. Se a legislação de um Estado-membro autorizar as sociedades a reduzir o seu capital subscrito por amortização forçada de acções, exigirá pelo menos a observância das seguintes condições:\n\na) A amortização forçada deve estar prevista ou autorizada pelos estatutos ou pelo acto constitutivo, antes da subscrição das acções que forem objecto da amortização;\n\nb) Se a amortização forçada for somente autorizada pelos estatutos ou pelo acto constitutivo, deve ser deliberada pela assembleia geral, salvo se os accionistas afectados a tiverem aprovado unanimemente;\n\nc) O órgão da sociedade que delibere sobre a amortização forçada fixará as condições e as modalidades desta operação, na medida em que estas não tiverem sido previstas nos estatutos ou no acto constitutivo;\n\nd) Aplicar-se-á o disposto no artigo 32º, a não ser que se trate de acções inteiramente liberadas, postas à disposição da sociedade, a título gratuito, ou que sejam amortizadas com utilização de fundos distribuíveis, de acordo com o disposto no nº 1 do artigo 15º; neste caso, deve ser constituída uma reserva de montante igual ao valor nominal ou, na falta de valor nominal, ao valor contabilístico de todas as acções amortizadas. Esta reserva não pode ser distribuída aos accionistas, salvo no caso de redução do capital subscrito; esta reserva só pode ser utilizada para compensar perdas sofridas ou para aumentar o capital subscrito mediante incorporação de reservas, se os Estados-membros permitirem tal operação;\n\ne) A deliberação relativa à amortização forçada deve ser objecto de publicidade, a efectuar segundo os modos previstos pela legislação de cada Estado-membro, em conformidade com o artigo 3º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE).\n\n2. O nº 1 do artigo 30º e os artigos 31º, 33º e 40º não são aplicáveis aos casos previstos no nº 1."
+  },
+  "ed0479b1e57ef428": {
+   "fragment_id": "Artigo 37º",
+   "type": "artigo",
+   "heading": "Artigo 37º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37º\n\n1. No caso de redução do capital subscrito por extinção de acções adquiridas pela própria sociedade ou por uma pessoa que actue em nome próprio mas por conta da sociedade, a extinção deve ser sempre deliberada pela assembleia geral.\n\n2. É aplicável o artigo 32º, a não ser que se trate de acções inteiramente liberadas, adquiridas a título gratuito ou mediante fundos distribuíveis, em conformidade com o disposto no nº 1 do artigo 15º; nestes casos, deve ser constituída uma reserva de montante igual ao valor nominal ou, na falta de valor nominal, ao valor contabilístico, de todas as acções extintas. Esta reserva não pode ser distribuída aos accionistas, salvo no caso de redução do capital subscrito; ela só pode ser utilizada para compensar perdas sofridas ou para aumentar o capital subscrito mediante incorporação de reservas, se os Estados-membros permitirem uma tal operação.\n\n3. Os artigos 31º, 33º e 40º não são aplicáveis aos casos previstos no nº 1."
+  },
+  "658e2988f8989641": {
+   "fragment_id": "Artigo 38º",
+   "type": "artigo",
+   "heading": "Artigo 38º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38º\n\nNos casos previstos no artigo 35º, no nº 1, alínea b), do artigo 36º, e no nº 1 do artigo 37º, se existirem várias categorias de acções, a deliberação da assembleia geral sobre a amortização do capital subscrito ou sobre a redução deste por extinção de acções, ficará subordinada, pelo menos, a uma votação separada, a efectuar por cada uma das categorias de accionistas cujos direitos sejam afectados pela operação."
+  },
+  "1b2c8ef5b17aebb2": {
+   "fragment_id": "Artigo 39º",
+   "type": "artigo",
+   "heading": "Artigo 39º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39º\n\nSe a legislação de um Estado-membro autorizar as sociedades a emitir acções remíveis, exigirá que na remição destas acções se observem, pelo menos, as seguintes condições:\n\na) A remição deve ser autorizada pelos estatutos ou pelo acto constitutivo, antes da subscrição das acções remíveis;\n\nb) Estas acções devem estar inteiramente liberadas;\n\nc) As condições e as modalidades da remição devem ser estabelecidas nos estatutos ou no acto constitutivo;\n\nd) A remição só pode efectuar-se com utilização de fundos distribuíveis, em conformidade com o nº 1 do artigo 15º, ou do produto de uma nova emissão, efectuada com vista a essa remição;\n\ne) Um montante igual ao valor nominal ou, na falta de valor nominal, ao valor contabilístico de todas as acções remíveis deve ser levado a uma reserva que não pode, salvo no caso de redução de capital subscrito, ser distribuída aos accionistas; esta reserva pode ser utilizada unicamente para aumentar o capital subscrito mediante incorporação de reservas;\n\nf) A alínea e) não é aplicável sempre que a remição for efectuada com utilização do produto de uma nova emissão, realizada com vista a essa remição;\n\ng) No caso de estar previsto o pagamento de um prémio aos accionistas, em consequência da remição, este prémio só pode ser retirado de fundos distribuíveis, em conformidade com o nº 1 do artigo 15º, ou de uma reserva, que não seja a referida na alínea e), a qual não pode ser distribuída aos accionistas, salvo no caso de redução do capital subscrito; esta reserva só pode ser utilizada para aumentar o capital subscrito, mediante incorporação de reservas, ou para cobrir os encargos referidos na alínea j) do artigo 3º ou os encargos de emissões de acções ou obrigações, ou para efectuar o pagamento de um prémio a favor dos detentores de acções ou de obrigações a remir;\n\nh) A remição deve ser objecto de publicidade, a efectuar segundo os modos previstos pela legislação de cada Estado-membro, em conformidade com o artigo 3º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE)."
+  },
+  "a6868457a0a9f941": {
+   "fragment_id": "Artigo 40º",
+   "type": "artigo",
+   "heading": "Artigo 40º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40º\n\n1. As legislações dos Estados-membros determinarão que as deliberações referidas nos n^os^ 4 e 5 do artigo 29º, e nos artigos 30º, 31º, 35º e 38º devem ser tomadas, pelo menos, por uma maioria não inferior a dois terços dos votos correspondentes quer aos títulos representados, quer ao capital subscrito representado.\n\n2. Todavia, as legislações dos Estados-membros podem estabelecer que será suficiente a maioria simples dos votos indicados no nº 1 quando estiver representado, pelo menos, metade do capital subscrito."
+  },
+  "d7e4cfaebd84a4dd": {
+   "fragment_id": "Artigo 41º",
+   "type": "artigo",
+   "heading": "Artigo 41º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41º\n\n1. Os Estados-Membros podem derrogar o n.º 1 do artigo 9.º, o artigo 19.º, n.º 1, alínea a), primeiro período, e os artigos 25.º, 26.º e 29.º, na medida em que estas derrogações forem necessárias para a aprovação ou para a aplicação de disposições que visem favorecer a participação dos trabalhadores ou de outras categorias de pessoas, determinadas pela lei nacional, no capital das empresas.\n\n2. Os Estados-membros podem deixar de aplicar o disposto no nº 1, primeira frase da alínea a), do artigo 19º e o disposto nos artigos 30º, 31º, 36º, 37º, 38º e 39º às sociedades sujeitas a um estatuto especial que emitirem ao mesmo tempo acções de capital e acções de rabalho (SIC! trabalho), estas últimas a favor do colectivo do pessoal que é representado nas assembleias gerais dos accionistas por mandatários dispondo de direito de voto."
+  },
+  "13643090539fca8e": {
+   "fragment_id": "Artigo 42º",
+   "type": "artigo",
+   "heading": "Artigo 42º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42º\n\nPara a aplicação da presente directiva, as legislações dos Estados-membros garantirão um tratamento igual aos accionistas que se encontrem em condições idênticas."
+  },
+  "98f5153b1efcf962": {
+   "fragment_id": "Artigo 43º",
+   "type": "artigo",
+   "heading": "Artigo 43º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros podem deixar de aplicar as alíneas g), i), j) e k) do artigo 3º, às sociedades já existentes no momento da entrada em vigor das disposições indicadas no nº 1.\n\nElles (SIC! Estes) podem prever que as outras disposições da presente directiva só serão aplicáveis a estas sociedades dezoito meses após esta data.\n\nTodavia, este prazo pode ser de três anos para os artigos 6º e 9º e de cinco anos para as *unregistered companies* do Reino Unido e da Irlanda.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "c723b8267bd19e91": {
+   "fragment_id": "Artigo 44º",
+   "type": "artigo",
+   "heading": "Artigo 44º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "4398853a39e5cb46": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#src.E0001)) JO nº C 114 de 11. 11. 1971, p. 18.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#src.E0002)) JO nº C 88 de 6. 9. 1971, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#src.E0003)) JO nº L 65 de 14. 3. 1968, p. 8.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#src.E0004)) JO nº L 327 de 19. 12. 1975, p. 4.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#src.E0005)) JO L 145 de 30.4.2004, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2006/31/CE (JO L 114 de 27.4.2006, p. 60).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#src.E0006)) JO L 157 de 9.6.2006, p. 87.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#src.E0007)) JO L 96 de 12.4.2003, p. 16.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/338d8fab-36de-487e-8e33-e1416fcc4005.0018.03/DOC_1#src.E0008)) JO L 193 de 18.7.1983, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2006/43/CE."
+  },
+  "c65c6e8a441c3bd4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Dezembro de 1976\n\ntendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-membros às sociedades, na acepção do segundo parágrafo do artigo 58º do Tratado, no que respeita à constituição da sociedade anónima, bem como à conservação e às modificações do seu capital social, a fim de tornar equivalentes essas garantias em toda a Comunidade\n\n(77/91/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o nº 3, alínea g), do seu artigo 54º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#E0002)),\n\nConsiderando que a prossecução da coordenação prevista no nº 3, alínea g) do artigo 54º, e no Programa Geral para a Supressão das Restrições à Liberdade de Estabelecimento, iniciada com a Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE) ([^3^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#E0003)), reveste particular importância para as sociedades anónimas, porquanto a actividade destas sociedades é predominante na economia dos Estados-membros e estende-se, frequentemente, para além dos limites do seu território nacional;\n\nConsiderando que, para assegurar uma equivalência mínima da protecção dos accionistas e dos credores destas sociedades, é necessário, sobretudo, coordenar as legislações nacionais respeitantes à sua constituição, bem como à conservação, ao aumento e à redução do seu capital;\n\nConsiderando que, no território da Comunidade, os estatutos ou o acto constitutivo de uma sociedade anónima devem permitir aos interessados conhecer as características essenciais de tal sociedade e, nomeadamente, a composição exacta do seu capital;\n\nConsiderando que devem ser adoptadas normas comunitárias para conservar o capital, que constitui uma garantia dos credores, proibindo, nomeadamente, que seja afectada por indevidas distribuições aos accionistas e limitando a possibilidade de a sociedade adquirir acções próprias;\n\nConsiderando que, em conformidade com os objectivos referidos no nº 3, alínea g), do artigo 54º, é necessário que, em matéria de aumento e de redução do capital, as legislações dos Estados-membros assegurem a observância e harmonizem a aplicação dos princípios que garantem a igualdade de tratamento dos accionistas que se encontram em condições idênticas e a protecção dos titulares de créditos anteriores à deliberação de redução,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "59e72d503831e9ed": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. As medidas de coordenação prescritas pela presente directiva aplicar-se-ão às disposições legislativas, regulamentares e administrativas dos Estados-membros relativas aos seguintes tipos de sociedades:\n\n— *para a República Federal da Alemanha:*\n\n— die Aktiengesellschaft\n\n— *para a Bélgica:*\n\n— la société anonymede naamloze vennootschap\n\n— *para a Dinamarca:*\n\n— aktieselskabet\n\n— *para a França:*\n\n— la société anonyme\n\n— *para a Irlanda:*\n\n— the public company limited by shares et\n\n— the public company limited by guarantee and having a share capital\n\n— *para a Itália*\n\n— la società per azioni\n\n— *para o Luxemburgo:*\n\n— la société anonyme\n\n— *para os Países Baixos:*\n\n— de naamloze vennootschap\n\n— *para o Reino Unido:*\n\n— the public company limited by shares et\n\n— the public company limited by guarantee and having a share capital\n\n— *para a Grécia:*\n\n— η ανώνυμη εταιρία\n\n— *em relação a (*SIC! *para a) Espanha:*\n\n— la sociedad anónima\n\n— *em relação a (*SIC! *para a) Portugal:*\n\n— a sociedade anonima de responsabilidade limitada\n\n— *para a Áustria:*\n\n— die Aktiengesellschaft;\n\n— *para a Finlândia:*\n\n— julkinen osakeyhtiö/publikt aktiebolag;\n\n— *para a Suécia:*\n\n— aktiebolag;\n\n— *para a República Checa:*\n\n— akciová společnost;\n\n— *para a Estónia:*\n\n— aktsiaselts;\n\n— *para Chipre:*\n\n— Δημόσιες εταιρείες περιορισμένης ευθύνης με μετοχές, δημόσιες εταιρείες περιορισμένης ευθύνης με εγγύηση που διαθέτουν μετοχικό κεφάλαιο;\n\n— *para a Letónia:*\n\n— akciju sabiedrība;\n\n— *para a Lituânia:*\n\n— akcinė bendrovė;\n\n— *para a Hungria:*\n\n— nyilvánosan működő részvénytársaság;\n\n— *para Malta:*\n\n— kumpanija pubblikapublic limited liability company;\n\n— *para a Polónia:*\n\n— spółka akcyjna;\n\n— *para a Eslovénia:*\n\n— delniška družba;\n\n— *para a Eslováquia:*\n\n— akciová spoločnosť;\n\n— para a Bulgária:\n\n— акционерно дружество;\n\n— para a Roménia:\n\n— societate pe acțiuni.\n\nA denominação social de uma sociedade que adopte um dos tipos acima indicados, deve incluir, ou ser acompanhada, de uma designação diferente das prescritas para outros tipos de sociedades.\n\n2. Os Estados-membros podem deixar de aplicar a presente directiva às sociedades de investimento de capital variável e às cooperativas constituídas segundo um dos tipos de sociedades indicados no nº 1. Sempre que as legislações dos Estados-membros se prevaleçam de tal faculdade, determinarão que tais sociedades façam inserir os termos «sociedade de investimento de capital variável» ou «cooperativa», respectivamente, em todos os documentos referidos no artigo 4º da Directiva 68/151/CEE.\n\nPor sociedades de investimento de capital variável, na acepção da presente directiva, devem apenas entender-se as sociedades:\n\n— que tenham exclusivamente por objecto a aplicação dos seus próprios fundos em valores mobiliários diversos, em valores imobiliários diversos ou em outros valores, com o único fim de repartir os riscos de investimento e de fazer beneficiar os seus accionistas dos resultados da gestão dos seus haveres;\n\n— que recorram a subscrição pública para colocar as suas próprias acções;\n\n— e\n\n— cujos estatutos prevejam que, dentro dos limites de um certo capital mínimo e máximo, podem em qualquer momento emitir, resgatar e revender acções próprias."
+  },
+  "52c087c61f064bec": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Para a constituição da sociedade ou para a obtenção da autorização para iniciar as suas actividades, as legislações dos Estados-membros devem exigir a subscrição de um capital mínimo que não pode ser fixado em montante inferior a 25 000 [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECUS**◄** **◄**.\n\nO [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECU**◄** **◄** é o que está definido na Decisão nº 3289/75/CECA da Comissão ([^4^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#E0004)). O contravalor em moeda nacional é inicialmente calculado à taxa de câmbio aplicável no dia da adopção da presente directiva.\n\n2. Se o contravalor do [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECU**◄** **◄** em moeda nacional for modificado de modo a que o montante do capital mínimo fixado em moeda nacional fique inferior ao valor de 22.500 (SIC! 22 500) [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECUS**◄** **◄** durante o período de um ano, a Comissão informará o Estado-membro interessado de que ele deve adaptar a sua legislação às disposições do nº 1, no prazo de doze meses a contar do termo daquele período. Todavia, o Estado-membro pode determinar que a adaptação da sua legislação só se aplicará às sociedades já existentes, dezoito meses depois da sua entrada em vigor.\n\n3. O Conselho, mediante proposta da Comissão, procederá todos os cinco anos ao exame e, se for caso disso, à revisão dos montantes do presente artigo, expressos em [**►**](http://publications.europa.eu/resource/celex/11994N) [**►**](http://publications.europa.eu/resource/celex/31995D0001) ECUS**◄** **◄**, tendo em consideração, por um lado, a evolução económica e monetária na Comunidade e, por outro, as tendências que visam reservar a escolha dos tipos de sociedade indicados no nº 1 do artigo 1º às grandes e médias empresas."
+  },
+  "5e8bfae5417ed387": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. As entradas que não consistam em dinheiro devem ser objecto de um relatório elaborado, antes da constituição da sociedade ou da obtenção da autorização para iniciar as suas actividades, por um ou mais peritos independentes da sociedade, nomeados ou reconhecidos por uma autoridade administrativa ou judiciária. Estes peritos podem ser, consoante a legislação de cada Estado-membro, pessoas singulares ou colectivas, ou sociedades.\n\n2. O relatório do perito deve, pelo menos, descrever cada uma das entradas, referir os critérios de avaliação adoptados e indicar se os valores obtidos segundo esses critérios correspondem, pelo menos, ao número e ao valor nominal ou, na falta de valor nominal, ao valor contabilístico e, se for caso disso, ao prémio de emissão das acções a emitir em contrapartida.\n\n3. O relatório do perito deve ser objecto de publicidade a efectuar segundo os modos previstos pela legislação de cada Estado-membro, nos termos do artigo 3º da Directiva nº 68/151/CEE (SIC! Directiva 68/151/CEE).\n\n4. Os Estados-membros podem deixar de aplicar o presente artigo, sempre que 90 % do valor nominal ou, na falta de valor nominal, do valor contabilístico de todas as acções seja emitido em contrapartida de entradas que não consistam em dinheiro, feitas por uma ou mais sociedades, e sejam preenchidos os seguintes requisitos:\n\na) No que respeita à sociedade beneficiária dessas entradas, as pessoas ou sociedades indicadas na alínea i) do artigo 3º tenham renunciado à elaboração do relatório do perito;\n\nb) Esta renúncia tenha sido objecto de publicidade, nos termos do nº 3;\n\nc) As sociedades que fazem essas entradas disponham de reservas que a lei ou os estatutos não permitam distribuir, e cujo montante seja, pelo menos, igual ao valor nominal ou, na falta de valor nominal, ao valor contabilístico das acções emitidas em contrapartida das entradas que não consistam em dinheiro;\n\nd) As sociedades que fazem essas entradas se declarem garantes, até à concorrência do montante indicado na alínea c), das dívidas da sociedade beneficiária, constituídas entre o momento da emissão das acções em contrapartida de entradas diferentes de dinheiro e o termo de um ano, a contar da publicação das contas anuais desta sociedade, relativas ao exercício durante o qual as entradas foram feitas. É proibida a cessão dessas acções durante o referido período;\n\ne) A garantia referida na alínea d) tenha sido objecto de publicidade, nos termos do nº 3;\n\nf) As sociedades que fazem essas entradas constituam uma reserva de montante igual ao indicado na alínea c) que só pode ser distribuída depois de findo um período de três anos, a contar da publicação das contas anuais da sociedade beneficiária, relativas ao exercício durante o qual as entradas foram feitas ou, se for caso disso, num momento ulterior, depois de todas as reclamações relativas à garantia referida na alínea d) e feitas durante esse período tiverem sido satisfeitas.\n\n5. Os Estados-Membros podem decidir não aplicar o presente artigo em caso de constituição de uma nova sociedade através de uma fusão ou de uma cisão quando é estabelecido o relatório do perito independente sobre o projecto de fusão ou de cisão.\n\nQuando os Estados-Membros decidirem aplicar o presente artigo nos casos referidos no n.º 1, podem prever que o relatório contemplado no presente artigo e o relatório do perito independente sobre o projecto de fusão ou de cisão possam ser elaborados pelo(s) mesmo(s) perito(s)."
+  },
+  "076090918678bae3": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\n1. Os Estados-Membros podem decidir não aplicar os n.^os^ 1, 2 e 3 do artigo 10.º sempre que, após uma decisão do órgão de administração ou de direcção, uma entrada que não consista em dinheiro seja constituída por valores mobiliários, definidos no ponto 18 do n.º 1 do artigo 4.º da Directiva 2004/39/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros ([^5^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#E0005)), ou instrumentos do mercado monetário, definidos no ponto 19 do n.º 1 do mesmo artigo, avaliados ao preço médio ponderado a que foram negociados num ou mais mercados regulamentados, definidos no ponto 14 do n.º 1 do artigo 4.º da referida directiva, durante um período suficiente, a determinar pela legislação nacional, antecedendo a data efectiva de realização da referida entrada.\n\nContudo, sempre que o preço tenha sido afectado por circunstâncias excepcionais que seriam susceptíveis de alterar significativamente o valor dos activos na data efectiva da realização da entrada, incluindo qualquer situação em que o mercado desses valores mobiliários ou instrumentos do mercado monetário se torne ilíquido, deve proceder-se à respectiva reavaliação por iniciativa e sob a responsabilidade do órgão de administração ou de direcção. Para efeitos dessa reavaliação, são aplicáveis os n.^os^ 1, 2 e 3 do artigo 10.º\n\n2. Os Estados-Membros podem decidir não aplicar os n.^os^ 1, 2 e 3 do artigo 10.º sempre que, após uma decisão do órgão de administração ou de direcção, uma entrada que não consista em dinheiro seja constituída por activos distintos dos valores mobiliários e instrumentos do mercado monetário mencionados no n.º 1, que tenham sido já objecto de uma avaliação pelo justo valor por parte de um perito independente reconhecido e sempre que estejam reunidas as seguintes condições:\n\na) O justo valor tenha sido determinado numa data que não pode preceder mais de seis meses a data efectiva da realização da entrada;\n\nb) A avaliação tenha sido realizada segundo as normas e os princípios de avaliação comummente reconhecidos no Estado-Membro para o tipo de activos que constituem a entrada.\n\nEm caso de circunstâncias novas que seriam susceptíveis de alterar significativamente o justo valor dos activos na data efectiva da realização da entrada, deve proceder-se à respectiva reavaliação por iniciativa e sob a responsabilidade do órgão de administração ou de direcção. Para efeitos dessa reavaliação, são aplicáveis os n.^os^ 1, 2 e 3 do artigo 10.º\n\nNa falta dessa reavaliação, um ou mais accionistas que detenham uma percentagem total de pelo menos 5 % do capital subscrito da sociedade à data da decisão do aumento de capital podem exigir uma avaliação por um perito independente, caso em que são aplicáveis os n.^os^ 1, 2 e 3 do artigo 10.º Esses accionistas podem apresentar o pedido até à data efectiva da realização da entrada, desde que, à data do pedido, os accionistas em questão ainda detenham uma percentagem total de pelo menos 5 % do capital subscrito da sociedade, tal como na data em que a decisão do aumento de capital foi tomada.\n\n3. Os Estados Membros podem decidir não aplicar os n.º 1, 2 e 3 do artigo 10.º sempre que, após uma decisão do órgão de administração ou de direcção, uma entrada que não consista em dinheiro seja constituída por activos distintos dos valores mobiliários e instrumentos do mercado monetário mencionados no n.º 1, cujo justo valor resulte, em relação a cada activo, das contas oficiais do exercício financeiro anterior, desde que as contas oficiais tenham sido objecto de auditoria ao abrigo da Directiva 2006/43/CE do Parlamento Europeu e do Conselho, de 17 de Maio de 2006, relativa à revisão legal das contas anuais e consolidadas ([^6^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#E0006)).\n\nO segundo e terceiro parágrafos do n.º 2 são aplicáveis *mutatis mutandis*."
+  },
+  "caf79583e82a5d66": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\n1. Sem prejuízo do princípio da igualdade de tratamento de todos os accionistas que se encontrem na mesma situação e da Directiva 2003/6/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao abuso de informação privilegiada e à manipulação de mercado (abuso de mercado) ([^7^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#E0007)), os Estados-Membros podem permitir que uma sociedade adquira acções próprias, quer por si mesma, quer através de uma pessoa que actue em nome próprio, mas por conta da sociedade. Na medida em que tais aquisições sejam permitidas, os Estados-Membros devem subordiná-las às seguintes condições:\n\na) A autorização é concedida pela assembleia geral, que determina os termos e condições dessas aquisições, nomeadamente o número máximo de acções a adquirir, o período de validade da autorização, cuja duração máxima será determinada pela legislação nacional sem, no entanto, poder exceder cinco anos, e, no caso de aquisição a título oneroso, os contravalores máximo e mínimo. Os membros dos órgãos de administração ou de direcção devem certificar-se de que, no momento em que qualquer aquisição autorizada seja efectuada, as condições indicadas nas alíneas b) e c) são respeitadas;\n\nb) As aquisições, incluindo as acções que a sociedade tenha adquirido anteriormente e que tenha em carteira, bem como as acções adquiridas por uma pessoa que actue em nome próprio, mas por conta da sociedade, não podem ter por efeito a redução dos activos líquidos para um nível inferior ao mencionado nas alíneas a) e b) do n.º 1 do artigo 15.º;\n\nc) A operação só pode incidir sobre acções inteiramente liberadas.\n\nOs Estados-Membros podem ainda subordinar as aquisições, na acepção do primeiro parágrafo, a qualquer das condições seguintes:\n\ni) o valor nominal ou, na falta do mesmo, o valor contabilístico das acções adquiridas, incluindo as acções que a sociedade tenha adquirido anteriormente e que tenha em carteira, bem como as acções adquiridas por uma pessoa que actue em nome próprio, mas por conta da sociedade, não pode ser superior a um limite a determinar pelos Estados-Membros. Esse limite não pode ser inferior a 10 % do capital subscrito,\n\nii) a faculdade que tem a sociedade de adquirir acções próprias na acepção do primeiro parágrafo, o número máximo de acções a adquirir, o período de validade da faculdade e os contravalores máximo e mínimo devem estar previstos nos estatutos ou no acto constitutivo da sociedade,\n\niii) a sociedade deve cumprir os requisitos adequados de informação e comunicação,\n\niv) certas sociedades, determinadas pelos Estados-Membros, podem ser obrigadas a cancelar as acções adquiridas na condição de levarem um montante igual ao valor nominal das acções canceladas a uma reserva que não pode, salvo no caso de redução do capital subscrito, ser distribuída aos accionistas. Essa reserva pode ser utilizada unicamente para aumentar o capital subscrito mediante incorporação de reservas,\n\nv) a aquisição não deve prejudicar a satisfação dos direitos dos credores.\n\n2. A legislação de um Estado-membro pode derrogar o nº 1, primeira frase da alínea a), quando a aquisição de acções próprias for necessária para evitar à sociedade um prejuízo grave e iminente. Nesse caso, a assembleia geral seguinte deve ser informada, pelo órgão de administração ou de direcção, das razões e da finalidade das aquisições efectuadas, do número e do valor nominal ou, na falta de valor nominal, do valor contabilístico das acções adquiridas, da fracção do capital subscrito que elas representam, bem como do contravalor dessas acções.\n\n3. Os Estados-membros podem deixar de aplicar o nº 1, primeira frase da alínea a), às acções adquiridas, quer pela própria sociedade, quer por uma pessoa que actue em nome próprio mas por conta da sociedade, com o fim de serem distribuídas ao pessoal desta ou ao pessoal de uma sociedade coligada. A distribuição de tais acções deve ser efectuada no prazo de doze meses, a contar da sua aquisição."
+  },
+  "4d0230d21ae041e7": {
+   "fragment_id": "Artigo 23.º-A",
+   "type": "artigo",
+   "heading": "Artigo 23.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º-A\n\nQuando membros individuais do órgão de administração ou de direcção da sociedade que seja parte numa operação prevista no n.º 1 do artigo 23.º, ou do órgão de administração ou de direcção de uma empresa-mãe na acepção do artigo 1.º da Directiva 83/349/CEE do Conselho, de 13 de Junho de 1983, relativa às contas consolidadas ([^8^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#E0008)), ou a própria empresa-mãe, ou pessoas agindo em nome próprio, mas por conta dos membros desses órgãos ou dessa empresa, forem contrapartes numa tal operação, os Estados-Membros devem assegurar, através de garantias adequadas, que essa operação não é contrária aos interesses da sociedade."
+  },
+  "8cd600a226f440b9": {
+   "fragment_id": "Artigo 27º",
+   "type": "artigo",
+   "heading": "Artigo 27º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27º\n\n1. As acções emitidas em contrapartida de entradas que não consistam em dinheiro, na sequência de um aumento do capital subscrito, devem ser integralmente liberadas no prazo de cinco anos, a contar da deliberação de aumento do capital subscrito.\n\n2. As entradas referidas no nº 1 serão objecto de um relatório elaborado, antes da realização do aumento do capital subscrito, por um ou mais peritos independentes da sociedade, nomeados ou habilitados por uma autoridade administrativa ou judiciária. De acordo com a legislação de cada Estado-membro, estes peritos podem ser pessoas singulares ou colectivas, ou sociedades.\n\nSão aplicáveis os n.^os^ 2 e 3 do artigo 10.º e os artigos 10.º-A e 10.º-B.\n\n3. Os Estados-Membros podem decidir não aplicar o disposto no n.º 2 quando o aumento do capital subscrito é efectuado para realizar uma fusão, uma cisão ou uma oferta pública de compra ou de troca e tendo em vista remunerar os accionistas da sociedade incorporada ou cindida ou que seja objecto de oferta pública de compra ou de troca.\n\nNo entanto, no caso de uma fusão ou de uma cisão, os Estados-Membros só aplicam o primeiro parágrafo quando é elaborado um relatório do perito independente sobre o projecto de fusão ou de cisão.\n\nQuando os Estados-Membros decidirem aplicar o n.º 2, no caso de uma fusão ou de uma cisão, podem prever que o relatório contemplado no presente artigo e o relatório do perito independente sobre o projecto de fusão ou de cisão possam ser elaborados pelo(s) mesmo(s) perito(s).\n\n4. Os Estados-membros podem deixar de aplicar o nº 2 quando todas as acções emitidas na sequência de um aumento de capital subscrito forem emitidas em contrapartida de entradas em bens diferentes de dinheiro, feitas por uma ou mais sociedades, com a condição de que todos os accionistas da sociedade beneficiária das entradas tenham renunciado è (SIC! à) elaboração do relatório pericial e de que sejam preenchidas as condições previstas no nº 4, alíneas b) a f), do artigo 10º."
+  },
+  "51bac73890d8bd80": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#src.E0001)) JO nº C 114 de 11. 11. 1971, p. 18.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#src.E0002)) JO nº C 88 de 6. 9. 1971, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#src.E0003)) JO nº L 65 de 14. 3. 1968, p. 8.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#src.E0004)) JO nº L 327 de 19. 12. 1975, p. 4.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#src.E0005)) JO L 145 de 30.4.2004, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2006/31/CE (JO L 114 de 27.4.2006, p. 60).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#src.E0006)) JO L 157 de 9.6.2006, p. 87.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#src.E0007)) JO L 96 de 12.4.2003, p. 16.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e685fe74-19de-4a5b-8fba-f7637c4aeab3.0018.03/DOC_1#src.E0008)) JO L 193 de 18.7.1983, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2006/43/CE."
+  },
+  "e671dc00aedc83a3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0091 — PT — 04.12.2012 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0091) [SEGUNDA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0091) [de 13 de Dezembro de 1976](http://publications.europa.eu/resource/celex/31977L0091) [tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-membros às sociedades, na acepção do segundo parágrafo do artigo 58º do Tratado, no que respeita à constituição da sociedade anónima, bem como à conservação e às modificações do seu capital social, a fim de tornar equivalentes essas garantias em toda a Comunidade](http://publications.europa.eu/resource/celex/31977L0091) [(77/91/CEE)](http://publications.europa.eu/resource/celex/31977L0091) (JO L 026, 31.1.1977, p.1)\n\n**revogado por:**\n\n- [Diretiva 2012/30/UE do Parlamento Europeu e do Conselho de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0030) — L 315 — 74 — 14.11.2012"
+  }
+ }
+}

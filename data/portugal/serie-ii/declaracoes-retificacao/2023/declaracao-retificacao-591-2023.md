@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:219876344:por
+title: Declaração de Retificação n.º 591/2023
+short_title: null
+summary: Retifica o Aviso n.º 13686/2023, publicado no Diário da República, 2.ª série, n.º 139, Parte C, de 19 de julho de
+  2023
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Administração Interna - Guarda Nacional Republicana - Comando-Geral
+proposing_entity: null
+official_number: 591/2023
+official_date: null
+publication_date: '2023-08-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/2023, Série II de 2023-08-14
+  number: '157'
+  series: II
+  supplement: null
+  pages: 20 - 20
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/08/157000000/0002000020.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '219876344'
+  dre_path: /dr/detalhe/declaracao-retificacao/591-2023-219876344
+  internal: pt:dre:219876344:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/591-2023-219876344
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/591-2023-219876344
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:47:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 98ea0eb6c97d4b03ed26585a6afa9e618560c15cd60b46c4684ec9ce9e791273
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215872902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581620:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:47:52Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 591/2023
+
+Ao abrigo do disposto nos n.os 2 e 3 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado através do [Despacho Normativo n.º 15/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-2016-105579672), de 16 de dezembro, declara-se que o [Aviso n.º 13686/2023](https://diariodarepublica.pt/dr/detalhe/aviso/13686-2023-215872902), publicado no Diário da República, 2.ª série, n.º 139, Parte C, de 19 de julho de 2023, referente à punição do guarda Alexandre José Nogueira Martinho, da Guarda Nacional Republicana, saiu com a seguinte inexatidão, que assim se retifica:
+
+Onde se lê:
+
+«Nos termos do n.º 3 do artigo 106.º, do Regulamento de Disciplina da Guarda Nacional Republicana, aprovada pela [Lei n.º 145/99](https://diariodarepublica.pt/dr/detalhe/lei/145-1999-581620), de 01SET, na sua redação atual, faz -se saber ao Guarda n.º 2071298 - Alexandre José Nogueira Martinho, da Unidade de Intervenção e que se encontra ausente em parte incerta, de que foi punido por despacho de 12 de junho de 2023, do Exmo. Comandante da Unidade de Intervenção, em Suplência, da Guarda Nacional Republicana, com a pena de 75 (setenta e cinco) dias de «suspensão», prevista no artigo 27.º, n.º 2, alínea c) com efeitos estabelecidos no artigo 30.º, ambos do RDGNR no âmbito do PD06/21UI. Por força do disposto do artigo 34.º, n.º 4 e 5, alínea a) do RDGNR, a pena ora aplicada é conformada na "perda de dois terços da pensão mensal", pelo período de 75 (setenta e cinco) dias.»
+
+deve ler-se:
+
+«Nos termos do n.º 3 do artigo 106.º do Regulamento de Disciplina da Guarda Nacional Republicana (RDGNR), aprovado pela [Lei n.º 145/99](https://diariodarepublica.pt/dr/detalhe/lei/145-1999-581620), de 1 de setembro, na sua redação atual, faz-se saber ao Guarda n.º 2071298 - Alexandre José Nogueira Martinho, da Unidade de Intervenção, da Guarda Nacional Republicana, que se encontra ausente em parte incerta, de que foi punido por despacho de 12 de junho de 2023, do Comandante da Unidade de Intervenção, em suplência, da Guarda Nacional Republicana, com a pena de 75 (setenta e cinco) dias de 'suspensão', prevista no artigo 27.º, n.º 2, alínea c), com efeitos estabelecidos no artigo 30.º, ambos do RDGNR, no âmbito do PD06/21UI.
+
+Da presente decisão cabe recurso hierárquico para o Comandante-Geral da Guarda Nacional Republicana, com efeito suspensivo, a interpor no prazo de 15 (quinze) dias, a contar da data da notificação da decisão, conforme decorre da conjugação dos artigos 118.º e 124.º, n.º 1, ambos do RDGNR.»
+
+20 de julho de 2023. - O Comandante da Unidade de Intervenção, em suplência, José Miguel de Amaral Costa Barreto, Coronel.
+
+316706991

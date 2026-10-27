@@ -1,0 +1,573 @@
+---
+schema_version: '1.0'
+id: pt:dre:603508:por
+title: Decreto Legislativo Regional n.º 10/2009/M
+short_title: null
+summary: Estabelece o regime jurídico regional da actividade de transporte rodoviário de mercadorias
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 10/2009/M
+official_date: null
+publication_date: '2009-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2009, Série I de 2009-03-30
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1938 - 1944
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/03/06200/0193801944.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-12-31'
+version_history:
+  file: decreto-legislativo-regional-10-2009-m.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-28'
+    amending: pt:dre:190273:por
+    amending_title: Decreto Legislativo Regional n.º 40/2012/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 26.º
+    - Revoga Artigo 35.º
+  - date: '2021-12-31'
+    amending: pt:dre:176800365:por
+    amending_title: Decreto Legislativo Regional n.º 28-A/2021/M
+    changes:
+    - Altera Artigo 28.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/10/2009/m/cons/20211230/pt/html
+  oj: null
+  dre: '603508'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/10-2009-603508
+  internal: pt:dre:603508:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2009-603508
+  metadata_url: https://data.dre.pt/eli/declegreg/10/2009/m/cons/20211230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-176886770
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-176886770
+  retrieved_at: '2026-10-22T12:48:10Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8e8a001620478b1bb1947cf161b63c1a0d18d48ee51e365d18970be2bd7efa76
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:48:10Z'
+  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-10-2009-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Transitária
+- Alvará
+- Certificado de Aptidão Profissional
+- Transporte Terrestre
+- Direcção Regional dos Transportes Terrestres
+- Documento de Transporte
+- Fiscalização
+- Licenciamento
+- Veículo
+- Licença de Transporte
+- Documentos do Veículo
+- Condutor
+- Transporte de Mercadorias
+- Madeira.região Autónoma
+- Regime Jurídico
+- Transporte Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:190273:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 26.º;
+    Revoga Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273
+  date: '2012-12-27'
+- type: amended_by
+  target: pt:dre:176800365:por
+  label: Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365
+  date: '2021-12-30'
+- type: cites
+  target: celex:31992R0881
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/881/oj
+- type: cites
+  target: celex:31993R3118
+  label: null
+  source: http://data.europa.eu/eli/reg/1993/3118/oj
+- type: cites
+  target: celex:31996L0026
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/26/oj
+- type: cites
+  target: celex:31998L0076
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/76/oj
+- type: cites
+  target: celex:32002R0484
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/484/oj
+article_structure:
+  article_count: 36
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:48:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 10/2009/M
+
+Decreto Legislativo Regional n.º 10/2009/M
+
+Estabelece o regime jurídico regional da actividade de transporte rodoviário de mercadorias
+
+O Decreto-Lei n.º 257/2007, de 16 de Julho, veio estabelecer o novo regime jurídico do transporte rodoviário de mercadorias efectuadas por meio de veículos automóveis ou conjuntos de veículos de mercadorias com peso bruto igual ou superior a 2500 kg, regime que não se adequa, em muitas das suas normas, às características específicas do mercado regional deste sector.
+
+O mercado regional de transporte rodoviário de mercadorias é de pequena dimensão, constituído em regra por microempresas familiares que efectuam transportes necessariamente de curta distância, circunstâncias que decorrem da descontinuidade territorial subjacente à insularidade da Região Autónoma da Madeira, da pouca expressão em termos populacionais comparativamente a outros mercados e face à sua diminuta área territorial.
+
+Com efeito, na medida em que condiciona fortemente a maximização da venda dos serviços de transporte e a manutenção de uma elevada taxa de ocupação dos veículos, o constrangimento territorial constitui importante factor impeditivo do crescimento das empresas deste sector.
+
+Nesta conformidade e sem prejuízo da legislação comunitária aplicável, importa aprovar um diploma regional próprio que consubstancie normas mais consentâneas com as necessidades e características específicas da realidade regional, nomeadamente, em matéria de acesso à actividade e ao mercado, com normas especialmente aplicáveis aos transportadores que pretendam operar exclusivamente no âmbito da Região Autónoma da Madeira, bem como o estabelecimento e clarificação de competências dos serviços da administração regional autónoma da Madeira com responsabilidade na área dos transportes terrestres para intervir no âmbito do licenciamento, regulação e fiscalização da actividade de transporte rodoviário de mercadorias.
+
+Realça-se, em especial, com a presente iniciativa legislativa, o estabelecimento de requisitos de idoneidade, capacidade profissional e capacidade financeira adequados à dimensão e características do tecido empresarial regional, de modo a não prejudicar a iniciativa privada e o investimento na actividade de transporte rodoviário de mercadorias e a promover o desenvolvimento e a sustentabilidade deste importante sector da economia da Região Autónoma da Madeira.
+
+Foram ouvidos a Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira (ACIF), a Associação de Transporte de Mercadorias em Aluguer da Região Autónoma da Madeira (ATMARAM) e a APAT - Associação dos Transitários de Portugal.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, da alínea ll) do artigo 40.º e do n.º 1 do artigo 41.º, do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente decreto legislativo regional aplica-se ao transporte rodoviário de mercadorias efectuado na Região Autónoma da Madeira por meio de veículos automóveis ou conjuntos de veículos de mercadorias, com peso bruto igual ou superior a 2500 kg.
+
+2 - Não estão abrangidos pelas normas de acesso à actividade e de acesso e organização do mercado previstas nos capítulos ii e iii do presente diploma:
+
+a) Os transportes de produtos ou mercadorias directamente ligados à gestão agrícola ou dela provenientes efectuados por meio de reboques atrelados aos respectivos tractores agrícolas;
+
+b) Os transportes de envios postais realizados no âmbito da actividade de prestador de serviços postais;
+
+c) A circulação de veículos aos quais estejam ligados, de forma permanente e exclusiva, equipamentos ou máquinas;
+
+d) Os transportes rodoviários de mercadorias de âmbito nacional ou internacional e os transportes de cabotagem.
+
+3 - Aos contratos de transporte de mercadorias respeitantes a prestações do serviço a efectuar exclusivamente no território da Região Autónoma da Madeira é aplicável o regime jurídico do contrato de transporte rodoviário nacional de mercadorias.
+
+###### Artigo 2.º — Outros regimes
+
+1 - O Decreto-Lei nº 193/2001, de 26 de junho e seu regulamento, que estabelecem o regime de acesso e exercício da atividade de prestação de serviços com veículos pronto-socorro, aplicam-se na Região Autónoma da Madeira, com as seguintes adaptações:
+
+a) As competências, atualmente exercidas pelo Instituto da Mobilidade e Transportes Terrestres, I.P., que nos diplomas estavam cometidas à Direção-Geral de Transportes Terrestres (DGTT) e ao respetivo diretor-geral são exercidas, na Região Autónoma da Madeira, respetivamente, pela Direção Regional de Transportes Terrestres (DRTT) e pelo diretor regional de transportes terrestres;
+
+b) O produto resultante da aplicação das coimas e da cobrança das demais receitas previstas no diploma nacional adaptado, constituem receita própria da Região Autónoma da Madeira.
+
+2 - As empresas com sede ou domicílio fiscal na Região Autónoma da Madeira que pretendam realizar transportes rodoviários de mercadorias de âmbito nacional ou internacional são licenciadas pela DRTT, desde que reunidos os requisitos de acesso à atividade e de acesso e organização do mercado previstos nos capítulos I a III do Decreto-Lei nº 257/2007, de 16 de julho, alterado pelo Decreto-Lei nº 137/2008, de 21 de julho, e pelo Decreto-Lei nº 136/2009, de 5 de junho e seus respetivos regulamentos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 3.º — Definições
+
+Para efeitos do disposto no presente decreto legislativo regional, considera-se:
+
+a) «Transporte rodoviário de mercadorias» a actividade de natureza logística e operacional que envolve a deslocação física de mercadorias em veículos automóveis ou conjuntos de veículos, podendo envolver ainda operações de manuseamento dessas mercadorias, designadamente grupagem, triagem, recepção, armazenamento e distribuição;
+
+b) «Transporte por conta de outrem ou público» o transporte de mercadorias realizado mediante contrato, que não se enquadre nas condições definidas na alínea seguinte;
+
+c) «Transporte por conta própria ou particular» o transporte realizado por pessoas singulares ou colectivas em que se verifiquem cumulativamente as seguintes condições:
+
+i) As mercadorias transportadas sejam da sua propriedade, ou tenham sido vendidas, compradas, dadas ou tomadas de aluguer, produzidas, extraídas, transformadas ou reparadas pela entidade que realiza o transporte e que este constitua uma actividade acessória no conjunto das suas actividades;
+
+ii) Os veículos utilizados sejam da sua propriedade, objecto de contrato de locação financeira ou alugados em regime de aluguer sem condutor;
+
+iii) Os veículos sejam, em qualquer caso, conduzidos pelo proprietário ou locatário ou por pessoal ao seu serviço;
+
+d) «Mercadorias» toda a espécie de produtos ou objectos, com ou sem valor comercial, que possam ser transportados em veículos automóveis ou conjuntos de veículos;
+
+e) «Transporte de âmbito regional» o transporte que se efectua exclusivamente no território da Região Autónoma da Madeira;
+
+f) «Transporte de âmbito nacional» o transporte, com passagem na Região Autónoma da Madeira, que se efectua totalmente em território nacional;
+
+g) «Transporte de âmbito internacional» o transporte que implica o atravessamento de fronteiras e se desenvolve parcialmente em território nacional;
+
+h) «Transportes especiais» os transportes que, designadamente pela natureza ou dimensão das mercadorias transportadas, devem obedecer a condições técnicas ou a medidas de segurança especiais;
+
+i) «Transportes equiparados a transportes por conta própria» os que integrem um transporte combinado e se desenvolvam nos percursos rodoviários iniciais ou terminais, desde que seja cumprida a condição prevista na subalínea i) da alínea c) e o veículo tractor seja propriedade da empresa expedidora, objecto de contrato de locação financeira ou de aluguer sem condutor e seja conduzido pelo proprietário, locatário ou pessoal ao seu serviço, mesmo que o reboque esteja matriculado ou tenha sido alugado pela empresa destinatária, ou vice-versa, no caso dos percursos rodoviários terminais;
+
+j) «Transportes em regime de carga completa» os transportes por conta de outrem em que o veículo é utilizado no conjunto da sua capacidade de carga por um único expedidor;
+
+l) «Transporte em regime de carga fraccionada» os transportes por conta de outrem em que o veículo é utilizado por fracção da sua capacidade de carga por vários expedidores;
+
+m) «Guia de transporte» o documento descritivo dos elementos essenciais da operação de transporte e que estabelece as condições de realização do contrato entre o transportador e o expedidor;
+
+n) «Expedidor» a pessoa que contrata com o transportador a deslocação das mercadorias.
+
+### Capítulo II — Acesso à actividade
+
+###### Artigo 4.º — Licenciamento da actividade
+
+1 - A atividade de transporte rodoviário de mercadorias por conta de outrem de âmbito exclusivamente regional, por meio de veículos de peso bruto igual ou superior a 2500 kg, só pode ser exercida por empresas, licenciadas pela DRTT.
+
+2 - A licença a que se refere o n.º 1 consubstancia-se num alvará que é intransmissível e emitido por um prazo não superior a cinco anos, renovável por igual período, mediante comprovação de que se mantêm os requisitos de acesso e de exercício de actividade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 5.º — Requisitos de acesso e exercício da actividade
+
+1 - São requisitos de acesso e exercício da actividade de transporte rodoviário de mercadorias por conta de outrem de âmbito exclusivamente regional por meio de veículos de peso bruto superior a 2500 kg, a idoneidade, a capacidade profissional e a capacidade financeira.
+
+2 - É ainda requisito de exercício da atividade que a empresa tenha estabelecimento estável e efetivo no território nacional e que possua a sua situação contributiva regularizada perante a administração fiscal e a segurança social.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 6.º — Idoneidade
+
+1 - A idoneidade é aferida pela inexistência de impedimentos legais, nomeadamente a condenação por determinados ilícitos praticados pelos administradores, diretores, gerentes e gestores de transportes.
+
+2 - São consideradas idóneas as pessoas relativamente às quais não se verifique algum dos seguintes impedimentos:
+
+a) Proibição legal para o exercício do comércio;
+
+b) Condenação com pena de prisão efectiva igual ou superior a 2 anos, transitada em julgado, por crime contra o património, por tráfico de estupefacientes, por branqueamento de capitais, por fraude fiscal ou aduaneira;
+
+c) Condenação, com trânsito em julgado, na medida de segurança de interdição do exercício da profissão de transportador, independentemente da natureza do crime;
+
+d) Condenação, com trânsito em julgado, por infracções graves à regulamentação sobre os tempos de condução e de repouso ou à regulamentação sobre a segurança rodoviária, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador;
+
+e) Condenação, com trânsito em julgado, por infracções cometidas às normas relativas ao regime das prestações de natureza retributiva ou às condições de higiene e segurança no trabalho, à protecção do ambiente e à responsabilidade profissional, nos casos em que tenha sido decretada a interdição do exercício da profissão de transportador.
+
+3 - Para efeitos do presente decreto legislativo regional, quando seja decretada a sanção acessória de interdição do exercício da atividade, os administradores, diretores, gerentes e gestores de transportes em funções à data da infração que originou a sanção acessória deixam de preencher o requisito de idoneidade durante o período de interdição fixado na decisão condenatória.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 7.º — Capacidade profissional
+
+1 - A capacidade profissional deve ser preenchida por gestor de transportes que, sendo titular do certificado de capacidade profissional a que se refere o artigo 8º, dirija de forma efetiva e permanente a atividade de transportes da empresa.
+
+2 - O gestor de transportes deve possuir um vínculo genuíno com a empresa como proprietário, sócio, administrador, diretor, gerente ou empregado vinculado por um contrato de trabalho.
+
+3 - Sempre que aplicável, para efeitos do cumprimento do requisito de capacidade profissional, o gestor de transportes deve fazer prova da sua inscrição na segurança social, como elemento do quadro de pessoal da empresa.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 8.º — Certificado de capacidade profissional
+
+1 - Preenche o requisito de capacidade profissional para efeito de acesso à atividade de transportador rodoviário de mercadorias por conta de outrem por meio de veículos de peso bruto superior a 3500 kg, o titular de certificado válido de capacidade profissional para transportes rodoviários de mercadorias, nacionais ou internacionais, obtido nos termos fixados pela respetiva legislação e regulamentação nacional e comunitária em vigor.
+
+2 - Na Região Autónoma da Madeira, os procedimentos relacionados com a formação dos candidatos e com a organização e avaliação dos exames de obtenção de capacidade profissional que não estejam estabelecidos na legislação e regulamentação nacional e comunitária são definidos por despacho do membro do Governo Regional responsável pela área dos transportes terrestres.
+
+3 - Aos candidatos aprovados no exame de obtenção de capacidade profissional a Direcção Regional de Transportes Terrestres emite um certificado de capacidade profissional.
+
+4 - A DRTT reconhece os certificados de capacidade profissional para transportes rodoviários de mercadorias, emitidos pelas entidades competentes de outros Estados membros da União Europeia, assim como os demais certificados emitidos por outros serviços nacionais com competência legal para o efeito.
+
+5 - A validade do certificado profissional do responsável da empresa, por período superior a cinco anos, fica dependente do exercício da profissão com boas práticas, tendo em conta as infracções às normas relativas à actividade transportadora, à regulamentação social de transportes, à segurança rodoviária e à protecção do ambiente, bem como a formação profissional.
+
+6 - Preenche o requisito de capacidade profissional para efeito de acesso à actividade de transportador rodoviário de mercadorias por conta de outrem de âmbito exclusivamente regional por meio de veículos de peso bruto até 3500 kg quem possua os conhecimentos necessários para o exercício da actividade, reconhecidos nos termos a fixar por portaria do membro do Governo Regional responsável pela área dos transportes terrestres.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 9.º — Capacidade financeira
+
+1 - A capacidade financeira consiste na posse de recursos financeiros necessários para garantir o exercício da atividade e a boa gestão da empresa.
+
+2 - No exercício da atividade, as empresas que possuam na sua frota veículos automóveis pesados licenciados, deverão dispor de um montante de capital e reservas que não pode ser inferior a (euro) 9 000 pelo primeiro veículo automóvel licenciado e (euro) 5 000 por cada veículo automóvel adicional.
+
+3 - No exercício da atividade, as empresas que apenas possuam veículos automóveis ligeiros licenciados, deverão dispor de um montante de capital e reservas que não pode ser inferior a (euro) 5 000 pelo primeiro veículo automóvel licenciado e (euro) 1 000 por cada veículo automóvel adicional.
+
+4 - A comprovação da capacidade financeira é feita por duplicado ou cópia autenticada do último balanço apresentado para efeitos de imposto sobre o rendimento das pessoas coletivas (IRC) ou por garantia bancária, sem prejuízo do disposto no número seguinte.
+
+5 - No período compreendido entre a apresentação da declaração fiscal de início da atividade da empresa e a entrega do primeiro balanço para efeitos de imposto sobre o rendimento das pessoas coletivas (IRC), a comprovação de posse dos montantes indicados nos nºs 2 e 3 por parte das pessoas coletivas é efetuada tendo em conta o capital social constante da certidão do registo comercial ou por garantia bancária.
+
+6 - A certidão do registo comercial pode ser fornecida mediante a disponibilização do código de acesso à certidão permanente de registo comercial, ou, em alternativa, mediante a entrega da certidão em papel.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 10.º — Cumprimento das obrigações fiscais
+
+A comprovação da situação contributiva da empresa perante a administração fiscal e a segurança social é exigível no momento da renovação do alvará e no licenciamento de veículos.
+
+###### Artigo 11.º — Dever de informação
+
+1 - Os requisitos de acesso e exercício da actividade são de verificação permanente, devendo as empresas comprovar o seu cumprimento sempre que lhes seja solicitado.
+
+2 - As empresas têm o dever de comunicar à DRTT as alterações ao pacto social, designadamente modificações na administração, direcção ou gerência, bem como mudanças de sede, no prazo de 30 dias a contar da data da sua ocorrência.
+
+###### Artigo 12.º — Falta superveniente de requisitos
+
+1 - A falta superveniente de qualquer um dos requisitos de idoneidade, capacidade profissional e capacidade financeira deve ser suprida no prazo de seis meses a contar da data da sua ocorrência.
+
+2 - O prazo referido no número anterior é renovável por mais três meses quando a falta superveniente decorra de morte ou incapacidade física do gestor de transportes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 13.º — Renovação e caducidade do alvará de licenciamento da actividade
+
+1 - Os pedidos de renovação de alvará devem ser requeridos na DRTT com a antecedência mínima de 30 dias relativamente ao termo do respetivo prazo de validade.
+
+2 - O alvará de licenciamento da actividade caduca:
+
+a) Decorridos os prazos a que se refere o artigo anterior sem que a falta seja suprida;
+
+b) Se durante um ano a contar da data da emissão do alvará a empresa não tiver licenciado nenhum veículo automóvel.
+
+3 - Com a caducidade do alvará de licenciamento da actividade caducam todas as licenças dos veículos automóveis que tenham sido emitidas à empresa.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+### Capítulo III — Acesso e organização do mercado
+
+###### Artigo 14.º — Licenciamento de veículos automóveis
+
+1 - Os veículos automóveis afectos ao transporte rodoviário de mercadorias por conta de outrem estão sujeitos a licença a emitir pela DRTT, quer sejam da propriedade do transportador, objecto de contrato de locação financeira ou de contrato de aluguer sem condutor.
+
+2 - Os veículos automóveis aquando do licenciamento para efeito da sua afetação inicial ao mercado do transporte rodoviário de mercadorias por conta de outrem não poderão ter mais de 20 anos de fabrico, contados a partir da data da primeira matrícula.
+
+3 - Sempre que a empresa possua 3 ou mais veículos afetos ao transporte rodoviário de mercadorias por conta de outrem apenas serão licenciados outros se a idade média da frota não passar a exceder 20 anos, sendo determinada a idade de cada veículo pela data da primeira matrícula.
+
+4 - Sem prejuízo do disposto no número seguinte e no n.º 3 do artigo 13.º, as licenças dos veículos são emitidas e renovadas pelo prazo de validade fixado no alvará que titula o direito de acesso à actividade, caducando sempre que se verifique a caducidade deste.
+
+5 - As licenças dos veículos caducam no caso de transmissão da propriedade ou da posse do veículo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 15.º — Identificação de veículos
+
+1 - Os veículos automóveis licenciados para o transporte rodoviário de mercadorias por conta de outrem devem ostentar distintivos de identificação.
+
+2 - Os distintivos de identificação a que se refere o número anterior são definidos por portaria do membro do Governo Regional responsável pelo sector dos transportes terrestres.
+
+###### Artigo 16.º — Outros transportes
+
+1 - Estão sujeitos a autorização, a emitir pela DRTT, os transportes de caráter excecional realizados por veículos afetos ao transporte por conta própria, cujo peso bruto exceda 2500 kg, em que, cumulativamente:
+
+a) As mercadorias e os veículos não pertençam ao mesmo proprietário;
+
+b) O transporte seja efetuado sem fins lucrativos por coletividades de utilidade pública ou outras agremiações filantrópicas, desportivas ou recreativas;
+
+c) As mercadorias transportadas estejam relacionadas com os fins das entidades que efetuam o transporte;
+
+d) Os veículos utilizados sejam da propriedade da entidade que realiza o transporte, de algum dos seus associados ou cedidos a título gratuito por outras entidades.
+
+2 - As empresas que sejam titulares de alvará para atividades de transporte ou para a atividade transitária podem solicitar na Direção Regional de Transportes Terrestres o licenciamento de veículos ligeiros para transporte de mercadorias exclusivamente no território da Região Autónoma da Madeira, não carecendo de alvará a que se refere o artigo 4º.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 17.º — Transportes especiais
+
+Os transportes especiais são objecto de regulamentação específica.
+
+###### Artigo 18.º — Guia de transporte
+
+1 - Os transportes rodoviários de mercadorias por conta de outrem são descritos numa guia de transporte, que deve acompanhar as mercadorias transportadas.
+
+2 - A guia de transporte deve cumprir os requisitos de emissão e conter a descrição dos elementos fixados pelo regime jurídico do contrato de transporte rodoviário nacional de mercadorias.
+
+### Capítulo IV — Fiscalização e regime sancionatório
+
+###### Artigo 19.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente decreto legislativo regional compete às seguintes entidades:
+
+a) Direcção Regional de Transportes Terrestres;
+
+b) Guarda Nacional Republicana;
+
+c) Polícia de Segurança Pública.
+
+2 - As entidades referidas no número anterior podem proceder, junto das pessoas singulares ou colectivas que efectuem transportes rodoviário de mercadorias, a todas as investigações e verificações necessárias para o exercício da sua competência fiscalizadora.
+
+3 - Os funcionários da DRTT com competência na área da fiscalização, no exercício das suas funções, desde que devidamente credenciados, têm livre acesso aos locais destinados ao exercício da actividade das empresas.
+
+###### Artigo 20.º — Contra-ordenações
+
+1 - As infracções ao disposto no presente decreto legislativo regional constituem contra-ordenações.
+
+2 - A tentativa e a negligência são puníveis, sendo os limites máximos e mínimo da coima reduzidos para metade.
+
+###### Artigo 21.º — Realização de transporte por entidade não licenciada
+
+1 - A realização de transporte rodoviário de mercadorias por conta de outrem, por meio de veículo automóvel com peso bruto igual ou superior a 2500 kg, por entidade que não seja titular do devido alvará de acesso à actividade ou que seja titular de alvará caducado há três ou mais meses, é punível com coima de (euro) 1000 a (euro) 3000 ou de (euro) 4000 a (euro) 12 000, consoante se trate de pessoa singular ou colectiva.
+
+2 - A realização de transporte rodoviário de mercadorias por conta de outrem, por meio de veículo automóvel com peso bruto igual ou superior a 2500 kg, por entidade titular de alvará de acesso à actividade caducado há menos de três meses, é punível com coima de (euro) 500 a (euro) 2500.
+
+3 - A realização de transporte por conta de outrem internacional ou de cabotagem a que se refere os Regulamentos CEE n.os <a href="eurlex.asp?ano=1992&id=392R0881" title="Link para Regulamento da Comunidade Europeia">881/92</a>, do Parlamento Europeu e do Conselho, de 26 de Março, e <a href="eurlex.asp?ano=1993&id=393R3118" title="Link para Regulamento da Comunidade Europeia">3118/93</a>, do Conselho, de 25 de Outubro, com passagem no território da Região Autónoma da Madeira, quando efectuado sem a cópia certificada da licença comunitária, é punível com coima de (euro) 1250 a (euro) 3740 ou de (euro) 5000 a (euro) 15 000, consoante se trate de pessoa singular ou colectiva.
+
+4 - A realização de transporte internacional a coberto de uma licença comunitária, em que o veículo, de passagem no território da Região Autónoma da Madeira, seja conduzido por motorista nacional de um país terceiro, sem o certificado exigido pelo artigo 3.º do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R0881" title="Link para Regulamento da Comunidade Europeia">881/92</a>, do Parlamento Europeu e do Conselho, de 26 de Março, com a redacção que lhe foi dada pelo Regulamento (CE) n.º <a href="eurlex.asp?ano=2002&id=302R0484" title="Link para Regulamento da Comunidade Europeia">484/2002</a>, do Parlamento Europeu e do Conselho, de 19 de Março, é punível com coima de (euro) 750 a (euro) 2250.
+
+5 - A realização, com passagem pela Região Autónoma da Madeira, de transporte internacional ou transporte de cabotagem por transportador não residente sediado fora do território da União Europeia sem autorização é punível com coima de (euro) 1000 a (euro) 3000.
+
+###### Artigo 22.º — Transporte efectuado por entidade diversa do titular do alvará
+
+1 - A realização de transporte por entidade diversa do titular do alvará de transportador rodoviário de mercadorias por conta de outrem ou do titular da licença comunitária é punível:
+
+a) Relativamente ao titular do alvará ou da licença comunitária com a coima de (euro) 4000 a (euro) 12 000;
+
+b) Relativamente à pessoa que efectua o transporte, com a coima de (euro) 500 a (euro) 2500.
+
+2 - É considerado como efectuado por entidade diversa do titular do alvará o transporte em que se verifique alguma das seguintes situações:
+
+a) Prestação do serviço de transporte com facturação ou recibo em regime de actividade liberal;
+
+b) Existência de contrato para utilização do veículo entre a empresa titular do alvará e um terceiro.
+
+###### Artigo 23.º — Falta de comunicação
+
+O incumprimento do dever de comunicação de alterações ao pacto social no prazo de 30 dias a contar da data da sua ocorrência, a que se refere o n.º 2 do artigo 11.º, é punível com coima de (euro) 50 a (euro) 150.
+
+###### Artigo 24.º — Realização de transporte em veículo sem licença ou sem distintivos
+
+1 - A realização de transporte rodoviário de mercadorias por conta de outrem por empresa titular de alvará válido de acesso à actividade, por meio de veículo automóvel não licenciado para o efeito, é punível com coima de (euro) 500 a (euro) 2500.
+
+2 - A realização de transporte rodoviário de mercadorias por conta de outrem por empresa titular de alvará válido de acesso à actividade, por meio de veículo automóvel licenciado mas sem ostentar os distintivos de identificação próprios da actividade, é punível com coima de (euro) 100 a (euro) 300.
+
+###### Artigo 25.º — Circulação de veículos
+
+1 - A circulação de veículo ostentando os distintivos próprios do transporte rodoviário de mercadorias por conta de outrem sem que para o efeito possua licença válida é punível com coima de (euro) 500 a (euro) 2500.
+
+2 - A circulação de veículo automóvel licenciado para a actividade de transportes rodoviários de mercadorias por conta de outrem sem ostentação dos distintivos de identificação próprios da actividade, é punível com coima de (euro) 50 a (euro) 150.
+
+3 - As infracções ao disposto nos números anteriores são da responsabilidade do proprietário do veículo, adquirente com reserva de propriedade, usufrutuário, locatário em regime de locação financeira, locatário por prazo superior a um ano ou quem, em virtude de facto sujeito a registo, tiver a posse do veículo.
+
+###### Artigo 26.º — Transporte sem autorização
+
+1 - A realização de transporte de caráter excecional sem a autorização a que se refere o nº 1 do artigo 16º, é punível com coima de (euro) 500 a (euro) 2 500.
+
+2 - A realização de transporte rodoviário de mercadorias por conta de outrem por empresa titular de alvará para outras atividades de transporte ou para a atividade transitária, por meio de veículo automóvel ligeiro não licenciado, nos termos do nº 2 do artigo 16º, é punível com coima de (euro) 500 a (euro) 2500.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 27.º — Falta ou vícios da guia de transporte
+
+1 - O transportador que efectue serviço de transporte de mercadoria sem que esta se faça acompanhar da correspondente guia de transporte é sancionado com coima de (euro) 250 a (euro) 750.
+
+2 - O preenchimento incorrecto ou incompleto da guia de transporte, da responsabilidade do expedidor ou do transportador, nos termos do número seguinte, é punível com coima de (euro) 100 a (euro) 300.
+
+3 - O expedidor é responsável pelas inexactidões ou insuficiências das indicações contidas na guia de transporte relativas à identificação do expedidor, do destinatário, dos elementos respeitantes à mercadoria, do lugar e data de carregamento da mercadoria e local previsto para a entrega, sendo as demais da responsabilidade do transportador.
+
+###### Artigo 28.º — Excesso de carga
+
+1 - A realização de transporte com excesso de carga é punível com coima de (euro) 500 a (euro) 2500, sem prejuízo do disposto nos números seguintes.
+
+2 - Sempre que o excesso de carga seja igual ou superior a 25 % do peso bruto do veículo, a infracção é punível com coima de (euro) 1250 a (euro) 3740.
+
+3 - No caso da infracção a que se refere o número anterior, a entidade fiscalizadora pode ordenar a imobilização do veículo até que a carga em excesso seja transferida, podendo ainda ordenar a deslocação e acompanhar o veículo até local apropriado para a descarga, recaindo sobre o infractor o ónus com as operações de descarga ou transbordo da mercadoria.
+
+4 - Sempre que o excesso de carga se verifique no decurso de um transporte em regime de carga completa, a infracção é imputável ao expedidor e ao transportador, em comparticipação.
+
+5 - Nenhum condutor se pode escusar a levar o veículo à pesagem nas balanças ao serviço das entidades fiscalizadoras, que se encontrem num raio de 1 km do local onde se verifique a intervenção das mesmas, sendo punível tal conduta com a coima referida no n.º 2 deste artigo, sem prejuízo da responsabilidade criminal a que houver lugar.
+
+> Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), em vigor a partir de 2021-12-31, produz efeitos a partir de 2022-01-01
+
+###### Artigo 29.º — Documentos que devem estar a bordo do veículo
+
+1 - Durante a realização do transporte rodoviário de mercadorias, consoante for o caso, devem estar a bordo do veículo e ser apresentados à entidade fiscalizadora os seguintes documentos:
+
+a) Licença de afectação do veículo à actividade de transportes rodoviários de mercadorias por conta de outrem de âmbito regional ou nacional;
+
+b) Cópia certificada da licença comunitária;
+
+c) Autorização de realização de transportes de carácter excepcional;
+
+d) Autorização de realização de transportes internacionais ou de transportes de cabotagem por transportadores não residentes sediados fora do território da União Europeia;
+
+e) Certificado do motorista, no caso de transporte internacional, em que o veículo é conduzido por pessoa nacional de um país terceiro.
+
+2 - A não apresentação dos documentos a que se refere o número anterior no acto de fiscalização é punível com as coimas previstas, caso a caso, no presente decreto legislativo regional para a sua inexistência, salvo se o documento em falta for apresentado no prazo de oito dias à autoridade indicada pelo agente de fiscalização, caso em que a coima é de (euro) 50 a (euro) 150.
+
+###### Artigo 30.º — Imputabilidade das infracções
+
+Sem prejuízo do disposto no artigo 22.º, no artigo 25.º, nos n.os 2 e 3 do artigo 27.º e no n.º 4 do artigo 28.º, as infracções previstas no presente decreto legislativo regional são da responsabilidade da pessoa singular ou colectiva que efectua o transporte.
+
+###### Artigo 31.º — Imobilização do veículo
+
+1 - Sempre que da imobilização de um veículo resultem danos para as mercadorias transportadas ou para o próprio veículo, cabe à pessoa singular ou colectiva que realiza o transporte a responsabilidade por esses danos, sem prejuízo do direito de regresso.
+
+2 - São igualmente da responsabilidade da pessoa que realiza o transporte os encargos que resultem da transferência para outro veículo no caso de excesso de carga, sem prejuízo do direito de regresso.
+
+###### Artigo 32.º — Processamento das contra-ordenações
+
+1 - O processamento das contra-ordenações previstas neste decreto legislativo regional compete à Direcção Regional de Transportes Terrestres.
+
+2 - A aplicação das coimas é da competência do director regional de Transportes Terrestres.
+
+###### Artigo 33.º — Produto das coimas
+
+O produto das coimas resultantes da aplicação do presente diploma constitui receita da Região Autónoma da Madeira.
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 34.º — Modelos das autorizações
+
+Os modelos dos alvarás, certificados, licenças e autorizações referidos nos capítulos ii e iii do presente diploma, são definidos e aprovados por despacho do membro do Governo Regional responsável pela área dos transportes terrestres.
+
+###### Artigo 35.º — Disposições transitórias
+
+1 - As pessoas singulares ou colectivas que à data de entrada em vigor do presente decreto legislativo regional efectuem transportes de mercadorias por conta de outrem de âmbito regional exclusivamente por meio de veículos ligeiros com peso bruto igual ou superior a 2500 kg, dispõem do prazo de 18 meses para se conformarem com os requisitos exigidos para o licenciamento da actividade, a contar da data de entrada em vigor do presente diploma.
+
+2 - Durante o período a que se refere o número anterior, os veículos ligeiros de mercadorias não carecem da licença prevista no artigo 14.º para a realização de transportes de mercadorias por conta de outrem.
+
+3 - As empresas que, à data de entrada em vigor do presente decreto legislativo regional, sejam titulares de alvará para actividades de transporte ou para a actividade transitária podem solicitar na Direcção Regional de Transportes Terrestres o licenciamento de veículos ligeiros para transporte de mercadorias exclusivamente no território da Região Autónoma da Madeira, não carecendo do alvará a que se refere o artigo 4.º
+
+4 - Até à entrada em vigor da portaria referida no n.º 2 do artigo 15.º, mantêm-se em vigor as normas de identificação dos veículos afectos ao transporte rodoviário de mercadorias por conta de outrem fixadas pelo Decreto Legislativo Regional n.º 12/91/M, de 29 de Maio, e pela Portaria n.º 108/91, de 17 de Junho.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 40/2012/M - Diário da República n.º 250/2012, Série I de 2012-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273), em vigor a partir de 2012-12-28
+
+###### Artigo 36.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Madeira em 3 de Março de 2009.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Publique-se.
+
+Assinado em 23 de Março de 2009.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

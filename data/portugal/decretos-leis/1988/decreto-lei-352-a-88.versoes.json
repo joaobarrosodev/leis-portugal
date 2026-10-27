@@ -1,0 +1,694 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:219955:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-885806229",
+ "dre_path": "/dr/detalhe/decreto-lei/352-a-1988-219955",
+ "source_lastmod": "2024-08-27",
+ "versions": [
+  {
+   "date": "1988-10-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885780673",
+    "885780674",
+    "885925875",
+    "885925876",
+    "885925877",
+    "885925878",
+    "885925879",
+    "885925880",
+    "885925881",
+    "885925882",
+    "885925883",
+    "885925884",
+    "885925885",
+    "885925886",
+    "885925887",
+    "885925888",
+    "885925889",
+    "885925890",
+    "885925891",
+    "885925892",
+    "885925893",
+    "885925894",
+    "885925895",
+    "885925896",
+    "885925897",
+    "885925898",
+    "885925899",
+    "885925900",
+    "885925901",
+    "885925902",
+    "885925903",
+    "885925904",
+    "885925905",
+    "885925906",
+    "885925907",
+    "885925908",
+    "885925909",
+    "885925910",
+    "885925911",
+    "885925912",
+    "885925913",
+    "885925914",
+    "885925915"
+   ]
+  },
+  {
+   "date": "1990-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:556796:por",
+     "title": "Decreto-Lei n.º 264/90",
+     "published": "1990-08-31",
+     "dre_path": "/dr/detalhe/decreto-lei/264-1990-556796"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "885780673",
+    "885780674",
+    "885925875",
+    "885925876",
+    "885925877",
+    "885925878",
+    "885925879",
+    "885925880",
+    "885925881",
+    "885925882",
+    "885925883",
+    "885925884",
+    "885925885",
+    "885925886",
+    "885925887",
+    "885925888",
+    "885925889",
+    "885925923",
+    "885925891",
+    "885925924",
+    "885925893",
+    "885925894",
+    "885925925",
+    "885925896",
+    "885925897",
+    "885925898",
+    "885925899",
+    "885925900",
+    "885925926",
+    "885925902",
+    "885925903",
+    "885925904",
+    "885925905",
+    "885925906",
+    "885925927",
+    "885925908",
+    "885925909",
+    "885925928",
+    "885925911",
+    "885925912",
+    "885925913",
+    "885925914",
+    "885925915",
+    "885925916"
+   ]
+  },
+  {
+   "date": "2002-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540216:por",
+     "title": "Decreto-Lei n.º 323/2001",
+     "published": "2001-12-17",
+     "dre_path": "/dr/detalhe/decreto-lei/323-2001-540216"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "885780673",
+    "885780674",
+    "885925875",
+    "885925876",
+    "885925877",
+    "885925878",
+    "885925879",
+    "885925880",
+    "885925881",
+    "885925882",
+    "885925883",
+    "885925884",
+    "885925885",
+    "885925886",
+    "885925887",
+    "885925888",
+    "885925889",
+    "885925923",
+    "885925891",
+    "885925924",
+    "885925893",
+    "885925894",
+    "885925925",
+    "885925896",
+    "885925897",
+    "885925898",
+    "885925899",
+    "885925900",
+    "885925939",
+    "885925902",
+    "885925903",
+    "885925904",
+    "885925905",
+    "885925906",
+    "885925927",
+    "885925908",
+    "885925909",
+    "885925928",
+    "885925911",
+    "885925912",
+    "885925913",
+    "885925914",
+    "885925915",
+    "885925916"
+   ]
+  },
+  {
+   "date": "2017-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108028571:por",
+     "title": "Lei n.º 89/2017",
+     "published": "2017-08-21",
+     "dre_path": "/dr/detalhe/lei/89-2017-108028571"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "885780673",
+    "885780674",
+    "885925875",
+    "885925876",
+    "885925877",
+    "885925878",
+    "885925879",
+    "885925880",
+    "885925881",
+    "885925882",
+    "885925883",
+    "885925942",
+    "885925885",
+    "885925943",
+    "885925887",
+    "885925888",
+    "885925889",
+    "885925923",
+    "885925891",
+    "885925924",
+    "885925893",
+    "885925894",
+    "885925925",
+    "885925896",
+    "885925897",
+    "885925898",
+    "885925899",
+    "885925900",
+    "885925939",
+    "885925902",
+    "885925903",
+    "885925904",
+    "885925905",
+    "885925906",
+    "885925927",
+    "885925908",
+    "885925909",
+    "885925928",
+    "885925911",
+    "885925912",
+    "885925913",
+    "885925914",
+    "885925915",
+    "885925916"
+   ]
+  }
+ ],
+ "fragments": {
+  "885780673": {
+   "fragment_id": "885806230",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 352-A/88\n\nde 3 de Outubro\n\nA legislação que criou a Zona Franca da Madeira autorizou, no seu âmbito institucional, o exercício de actividades industriais, comerciais e financeiras por parte das entidades que venham a ser licenciadas para aí operar nos termos regulamentados.\n\nDe entre essas entidades avultarão, certamente, aquelas que são oriundas de países com ordenamentos jurídicos diversos do sistema português, designadamente dos países de common law.\n\nNesse sentido, convirá, de modo a dotar aquela Zona dos imprescindíveis atributos de atracção do investimento estrangeiro e de competitividade nos mercados internacionais, colocar ao dispor daquelas entidades os instrumentos e meios jurídicos a que habitualmente recorrem no exercício da sua actividade e que lhes são facultados noutros centros off-shore.\n\nEncontra-se neste caso o instituto do trust, o qual é uma instituição característica surgida nos países de common law.\n\nSão consabidas as diligências levadas a cabo pelos vários países dos dois sistemas jurídicos - da common law e romano-germânico - visando uma convergência assente na estipulação de disposições comuns relativamente à lei aplicável ao trust e ao seu reconhecimento por cada Estado.\n\nO objectivo deste diploma, no entanto, visa, tão-somente, a instituição de trusts apenas destinados a actividades off-shore, ou seja, com base num critério de extraterritorialidade, sem qualquer interferência no ordenamento jurídico interno e exclusivamente protagonizado por pessoas colectivas - as trusts companies - que usufruem do mesmo estatuto.\n\nOuvidos os órgãos de governo próprio da Região Autónoma da Madeira:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "885780674": {
+   "fragment_id": "885806231",
+   "type": 1,
+   "heading": "Capítulo I — Definições e conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Definições e conceitos"
+  },
+  "885925875": {
+   "fragment_id": "885806232",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) Trust ou gestão fiduciária - designação das relações jurídicas resultantes de um acto inter vivos ou mortis causa pelo qual uma pessoa, o settlor, transmite e coloca quaisquer bens - com excepção de bens imóveis localizados em território português - sob o controle e administração de um trustee em proveito de um beneficiary, que pode ser o próprio settlor ou o trustee, ou visando a prossecução de um fim específico;\n\nb) Settlor ou instituidor - pessoa singular ou colectiva que constitui o trust:\n\nc) Trustee ou gestor fiduciário - pessoa colectiva a quem os bens são transmitidos, de modo a ser realizada a vontade do instituidor;\n\nd) Beneficiary ou beneficiário - pessoa singular ou colectiva a favor da qual se constitui o trust;\n\ne) Trust off-shore - trust constituído segundo a lei designada pelo instituidor que admita tal instituto, sendo o instituidor e o beneficiário não residentes em território português e o trustee uma pessoa colectiva autorizada a operar, enquanto tal, no âmbito institucional da Zona Franca da Madeira;\n\nf) Sociedade ou sucursal de trust off-shore - entidade autorizada, através de licenciamento prévio, a exercer a actividade de trust off-shore."
+  },
+  "885925876": {
+   "fragment_id": "885806233",
+   "type": 1,
+   "heading": "Capítulo II — Trust off-shore",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Trust off-shore"
+  },
+  "885925877": {
+   "fragment_id": "885806234",
+   "type": 11,
+   "heading": "Artigo 2.º — Características do trust",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Características do trust\n\n1 - O trust reveste-se das características seguintes:\n\na) Os bens do trust constituem um património separado e não integram o património do trustee;\n\nb) O título relativo aos bens do trust ficará em nome do trustee ou de quem o represente;\n\nc) O trustee fica investido no poder e sujeito à obrigação - da qual deverá prestar contas - de administrar, gerir ou dispor dos bens, nos termos do instrumento do trust e das regras que lhe sejam impostas pela lei que o regula.\n\n2 - A reserva de certas prerrogativas por parte do instituidor ou o exercício de algum direito pelo trustee, enquanto e na qualidade de beneficiário, não é incompatível com a existência do trust."
+  },
+  "885925878": {
+   "fragment_id": "885806235",
+   "type": 11,
+   "heading": "Artigo 3.º — Trust off-shore",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Trust off-shore\n\n1 - Um trust constituído ao abrigo de uma legislação que admita o instituto fará parte da actividade desenvolvida no âmbito institucional da Zona Franca da Madeira e, como tal, integrará aquela Zona para todos os efeitos, nos termos dos artigos seguintes.\n\n2 - São reconhecidos os trusts constituídos ao abrigo de lei estrangeira para todos os efeitos da Zona Franca da Madeira."
+  },
+  "885925879": {
+   "fragment_id": "885806236",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos da inserção institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos da inserção institucional\n\nPara efeitos do disposto no artigo anterior, um trust será considerado como actividade off-shore desde que:\n\na) O instituidor designe a lei que o regula;\n\nb) O instituidor e o beneficiário sejam não residentes em Portugal, podendo, no entanto, ser entidades off-shore devidamente licenciadas para operar no âmbito institucional da Zona Franca da Madeira;\n\nc) O trustee seja uma sociedade ou sucursal autorizada nos termos deste diploma;\n\nd) Os rendimentos a ele afectos não sejam provenientes de fundos locais, com excepção dos resultantes de depósitos feitos nas entidades financeiras off-shore daquela Zona;\n\ne) O trust e os beneficiários não sejam pagos com base em rendimentos locais, com excepção dos originados nas entidades referidas na alínea anterior;\n\nf) Não incida sobre bens imóveis situados em Portugal;\n\ng) O seu fim não seja física ou legalmente impossível, contrário à lei ou indeterminável e contrário à ordem pública ou ofensivo dos bons costumes."
+  },
+  "885925880": {
+   "fragment_id": "885806237",
+   "type": 11,
+   "heading": "Artigo 5.º — Lei aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Lei aplicável\n\n1 - O instituidor, ou quem para o efeito devidamente o represente, designará expressamente a lei que regulamentará o trust, nomeadamente no que toca às questões relativas à validade, interpretação, efeitos e administração.\n\n2 - No instrumento do trust poderá o instituidor reservar o poder de proceder à substituição da lei aplicável ao trust, ou a um dos seus elementos que seja susceptível de ser separado, por uma outra lei de jurisdição diferente, sem prejuízo do disposto no artigo 7.º"
+  },
+  "885925881": {
+   "fragment_id": "885806238",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma\n\n1 - O acto da constituição do trust está sujeito a forma escrita e tem de ser assinado pelo instituidor ou, em sua representação, pelo trustee.\n\n2 - A assinatura deve ser reconhecida notarialmente."
+  },
+  "885925882": {
+   "fragment_id": "885806239",
+   "type": 11,
+   "heading": "Artigo 7.º — Cláusulas obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cláusulas obrigatórias\n\nO instrumento do trust deve conter:\n\na) O nome e identificação do trust;\n\nb) A identificação completa do instituidor, do trustee e do beneficiário, podendo a dos beneficiários ou a de uma categoria deles ser efectuada através da enunciação das circunstâncias que a permitam;\n\nc) A identificação sumária dos trustees ou beneficiários substitutos, se os houver;\n\nd) A identificação e descrição dos bens do trust;\n\ne) A classificação e distribuição dos bens do trust;\n\nf) A declaração expressa da intenção de constituir o trust;\n\ng) A designação expressa da lei que regula o trust;\n\nh) O fim e a modalidade ou tipo de trust;\n\ni) O processo de nomeação, exoneração e remoção do trustee, bem como os requisitos necessários ao exercício das suas funções e à transmissão das mesmas;\n\nj) Os direitos e obrigações dos trustees entre si, em caso de exercício plural;\n\nl) Os poderes do trustee para administrar e dispor dos bens do trust, para os onerar e para adquirir outros bens;\n\nm) Os poderes do trustee para efectuar investimentos e para constituir reservas com os rendimentos do trust;\n\nn) As relações entre o trustee e os beneficiários, incluindo a responsabilidade pessoal do trustee para com estes;\n\no) A obrigação do trustee de prestar contas da sua gestão;\n\np) As regras e restrições à acumulação de rendimento no trust, caso as haja;\n\nq) Local da constituição, data e período de duração do trust."
+  },
+  "885925883": {
+   "fragment_id": "885806240",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime dos actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime dos actos\n\nOs actos de constituição, modificação ou extinção do trust, bem como os actos de transmissão, alienação e oneração dos bens a ele sujeitos, beneficiam do regime previsto no n.º 2 do artigo 11.º do Decreto-Lei n.º 165/86, de 26 de Junho."
+  },
+  "885925884": {
+   "fragment_id": "885806241",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo\n\n1 - Os actos de constituição, modificação ou extinção do trust estão sujeitos a registo, que será obrigatório desde que o período de duração do trust seja superior a um ano.\n\n2 - O registo a que se refere o número anterior deve efectuar-se no prazo de seis meses, contado da data da criação do trust, nos termos de regulamentação a criar para o efeito."
+  },
+  "885925885": {
+   "fragment_id": "885806242",
+   "type": 11,
+   "heading": "Artigo 10.º — Elementos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Elementos do registo\n\nO registo do trust efectua-se tendo por base:\n\na) O nome e identificação do trust, com indicação do seu objecto;\n\nb) A data da sua criação;\n\nc) O período de duração do trust;\n\nd) A denominação e sede do trustee;\n\ne) A data e natureza dos factos modificativos e extintivos do trust."
+  },
+  "885925886": {
+   "fragment_id": "885806243",
+   "type": 11,
+   "heading": "Artigo 11.º — Sigilo e confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sigilo e confidencialidade\n\n1 - Estão sujeitos a segredo os nomes do instituidor e dos beneficiários, os quais só podem ser desvendados em execução de decisão judicial.\n\n2 - A violação do disposto no número anterior determina a aplicação das sanções previstas para a violação do segredo bancário."
+  },
+  "885925887": {
+   "fragment_id": "885806244",
+   "type": 11,
+   "heading": "Artigo 12.º — Prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prestação\n\n1 - Todo o trust está sujeito ao pagamento de um quantitativo pecuniário anual, que deverá ser pago adiantadamente, na data da sua constituição e, nos anos seguintes, no mês de Janeiro, devendo este pagamento ser assegurado pelo trustee.\n\n2 - O montante da contraprestação referida no número anterior será definido em portaria do Governo Regional da Madeira."
+  },
+  "885925888": {
+   "fragment_id": "885806245",
+   "type": 1,
+   "heading": "Capítulo III — Sociedades e sucursais de trust off-shore",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Sociedades e sucursais de trust off-shore"
+  },
+  "885925889": {
+   "fragment_id": "885806246",
+   "type": 8,
+   "heading": "Secção I — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Constituição"
+  },
+  "885925890": {
+   "fragment_id": "885806247",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Constituição e funcionamento\n\n1 - São permitidos, nos termos previstos neste diploma, a constituição, funcionamento e registo de sociedades, bem como a abertura de sucursais por parte de instituições já existentes, que tenham por objecto a institucionalização de trust off-shore, de harmonia com o disposto nos artigos 3.º e 4.º do presente diploma.\n\n2 - No caso de a actividade referida no número anterior revestir natureza financeira, deverá respeitar-se a legislação específica aplicável."
+  },
+  "885925891": {
+   "fragment_id": "885806248",
+   "type": 11,
+   "heading": "Artigo 14.º — Inserção institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Inserção institucional\n\nAs sociedades e as sucursais que vierem a ser constituídas ao abrigo do presente diploma farão parte integrante da actividade desenvolvida no âmbito institucional da Zona Franca da Madeira e, como tal, integrarão aquela Zona para todos os efeitos."
+  },
+  "885925892": {
+   "fragment_id": "885806249",
+   "type": 11,
+   "heading": "Artigo 15.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Autorização\n\n1 - A constituição e funcionamento das entidades referidas no n.º 1 do artigo 13.º dependem de autorização do Governo Regional da Madeira.\n\n2 - A constituição e funcionamento de sociedades ou sucursais com actividades financeiras exteriores previstas no n.º 2 do artigo 13.º dependem de autorização do Ministro das Finanças, ouvido o Governo Regional da Madeira e o Banco de Portugal."
+  },
+  "885925893": {
+   "fragment_id": "885806250",
+   "type": 11,
+   "heading": "Artigo 16.º — Pressupostos da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pressupostos da autorização\n\n1 - A autorização terá em atenção o interesse que a concretização do projecto dos requerentes revista para o desenvolvimento da Região Autónoma da Madeira e será concedida de acordo com critérios de conveniência e oportunidade.\n\n2 - Aos requerentes, a outras autoridades públicas ou à concessionária da Zona Franca da Madeira o Governo Regional da Madeira poderá solicitar quaisquer informações adicionais que considere úteis ou necessárias à decisão, nomeadamente as relativas à idoneidade técnica e profissional dos requerentes."
+  },
+  "885925894": {
+   "fragment_id": "885806251",
+   "type": 11,
+   "heading": "Artigo 17.º — Caducidade da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Caducidade da autorização\n\nA autorização caduca se os requerentes a ela expressamente renunciarem, bem como se a sociedade ou a sucursal não se constituírem no prazo de seis meses ou se não iniciarem a actividade no prazo de doze meses, contados a partir da data da notificação da decisão que a conceder."
+  },
+  "885925895": {
+   "fragment_id": "885806252",
+   "type": 11,
+   "heading": "Artigo 18.º — Revogação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação da autorização\n\n1 - A autorização a que se refere o n.º 1 do artigo 15.º pode ser revogada pelo Governo Regional da Madeira, cabendo recurso para o Supremo Tribunal Administrativo, nos termos gerais.\n\n2 - Tratando-se de sociedades ou sucursais com actividades financeiras, a autorização pode ser revogada nos termos e condições constantes do artigo 10.º do Decreto-Lei n.º 163/86, de 26 de Junho, na redacção que lhe foi dada pelo Decreto-Lei n.º 197/88, de 31 de Maio, e pelas causas enumeradas no artigo 9.º do mesmo diploma, com as necessárias adaptações."
+  },
+  "885925896": {
+   "fragment_id": "885806253",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime\n\nEm tudo quanto não contrariar o disposto no presente diploma observar-se-á, em relação às entidades referidas no artigo 13.º, o regime de funcionamento e registo das sociedades e demais entidades licenciadas no âmbito institucional da Zona Franca da Madeira."
+  },
+  "885925897": {
+   "fragment_id": "885806254",
+   "type": 11,
+   "heading": "Artigo 20.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Denominação\n\nA denominação adaptada pelas entidades referidas no n.º 1 do artigo 13.º pode integrar os vocábulos trust, trust company ou trust branch."
+  },
+  "885925898": {
+   "fragment_id": "885806255",
+   "type": 8,
+   "heading": "Secção II — Das sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das sociedades"
+  },
+  "885925899": {
+   "fragment_id": "885806256",
+   "type": 11,
+   "heading": "Artigo 21.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Forma\n\n1 - As sociedades indicadas no n.º 1 do artigo 13.º constituir-se-ão obrigatoriamente sob a forma de sociedades anónimas.\n\n2 - As respectivas acções serão nominativas numa percentagem não inferior a 51% do capital social."
+  },
+  "885925900": {
+   "fragment_id": "885806257",
+   "type": 11,
+   "heading": "Artigo 22.º — Composição accionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Composição accionista\n\n1 - As sociedades poderão constituir-se e subsistir com qualquer número de accionistas, nomeadamente nos termos do n.º 1 do artigo 488.º do Código das Sociedades Comerciais.\n\n2 - Fica sujeita a autorização do Governo Regional da Madeira a alienação de acções nominativas representativas de 5% ou mais do capital das sociedades referidas no n.º 1 do artigo 13.º, devendo, em qualquer caso, ser respeitado o limite constante do n.º 2 do artigo 21.º"
+  },
+  "885925901": {
+   "fragment_id": "885806258",
+   "type": 11,
+   "heading": "Artigo 23.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Capital social\n\nSem prejuízo do disposto na legislação relativa às entidades financeiras off-shore, deverão as sociedades referidas neste diploma possuir o montante de capital social que vier a ser definido pelo Governo Regional da Madeira, o qual não pode ser inferior a 20000 contos."
+  },
+  "885925902": {
+   "fragment_id": "885806259",
+   "type": 11,
+   "heading": "Artigo 24.º — Composição do órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Composição do órgão de fiscalização\n\n1 - As sociedades constituídas ao abrigo deste diploma poderão, independentemente do seu capital social, adoptar no respectivo contrato de sociedade o regime do fiscal único.\n\n2 - O fiscal único terá domicílio, sede ou estabelecimento em território português."
+  },
+  "885925903": {
+   "fragment_id": "885806260",
+   "type": 8,
+   "heading": "Secção III — Das sucursais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das sucursais"
+  },
+  "885925904": {
+   "fragment_id": "885806261",
+   "type": 11,
+   "heading": "Artigo 25.º — Garantia das operações efectuadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Garantia das operações efectuadas\n\n1 - As instituições que sejam autorizadas a proceder à abertura de sucursais de trust off-shore nos termos deste diploma responderão plenamente pelas operações realizadas pelas respectivas sucursais.\n\n2 - A sucursal deverá ser dotada de todos os poderes necessários para, perante o Governo Regional da Madeira ou outras autoridades públicas e terceiros, assegurar uma representação plena, com escolha de domicílio particular para o efeito.\n\n3 - Os poderes referidos no número anterior incluirão obrigatoriamente o de receber citações."
+  },
+  "885925905": {
+   "fragment_id": "885806262",
+   "type": 8,
+   "heading": "Secção IV — Do exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do exercício da actividade"
+  },
+  "885925906": {
+   "fragment_id": "885806263",
+   "type": 11,
+   "heading": "Artigo 26.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Princípios de gestão\n\nAs entidades referidas no artigo 13.º devem exercer as suas funções com o zelo e a diligência típicos de um gestor cauteloso e ordenado."
+  },
+  "885925907": {
+   "fragment_id": "885806264",
+   "type": 11,
+   "heading": "Artigo 27.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Licenças\n\nAs entidades referidas no n.º 1 do artigo 13.º estarão sujeitas ao pagamento de uma taxa de instalação e de uma taxa anual de funcionamento, nas condições e montante a definir pelo diploma a que alude o n.º 1 do artigo 15.º"
+  },
+  "885925908": {
+   "fragment_id": "885806265",
+   "type": 11,
+   "heading": "Artigo 28.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Caução\n\n1 - Aquelas entidades prestarão, no monumento da emissão da autorização, uma caução para garantia do exacto e pontual cumprimento das obrigações que assumem.\n\n2 - O Governo Regional da Madeira fixará o valor da caução, mediante proposta da concessionária da Zona Franca da Madeira.\n\n3 - A entidade a cujo favor for prestada a caução poderá recorrer à mesma, independentemente de quaisquer formalidades, nos casos em que as entidades licenciadas não cumpram as suas obrigações.\n\n4 - A caução será prestada por depósito em dinheiro ou mediante garantia bancária ou seguro-caução, conforme escolha daquelas entidades.\n\n5 - A caução ficará à disposição da entidade a cujo favor foi prestada e só pode ser cancelada por declaração desta, comunicada, por escrito, à entidade garante.\n\n6- Nos casos referidos no artigo 25.º, a caução deverá ser prestada em nome da sociedade-mãe."
+  },
+  "885925909": {
+   "fragment_id": "885806266",
+   "type": 11,
+   "heading": "Artigo 29.º — Operações autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Operações autorizadas\n\n1 - Salvo disposição em contrário da lei designada pelo instituidor para regular o trust ou no documento que o formalize, poderão as entidades referidas no artigo 13.º realizar operações de investimento com residentes em território nacional, sob qualquer forma ou modalidade, nos mesmos termos e condições legais em que estes podem realizar tais operações com instituições estabelecidas noutro território cambial.\n\n2 - Nos termos referidos no número anterior, é também autorizada a realização de quaisquer operações com as entidades que operem, devidamente licenciadas, no âmbito institucional da Zona Franca da Madeira."
+  },
+  "885925910": {
+   "fragment_id": "885806267",
+   "type": 11,
+   "heading": "Artigo 30.º — Fiscalização de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Fiscalização de contas\n\n1 - Os relatórios de auditoria, acompanhando o relatório e contas de cada exercício das entidades previstas neste diploma, serão enviados ao Governo Regional da Madeira.\n\n2 - Para efeitos do disposto no número anterior, deverão as entidades financeiras off-shore manter um departamento autónomo de trust."
+  },
+  "885925911": {
+   "fragment_id": "885806268",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "885925912": {
+   "fragment_id": "885806269",
+   "type": 11,
+   "heading": "Artigo 31.º — Tributação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Tributação\n\nO regime fiscal aplicável às entidades referidas no n.º 1 do artigo 13.º regula-se pela legislação relativa à Zona Franca da Madeira."
+  },
+  "885925913": {
+   "fragment_id": "885806270",
+   "type": 11,
+   "heading": "Artigo 32.º — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Arbitragem\n\nSalvo disposição em contrário da lei designada pelo instituidor para regular o trust, o instrumento que o formalize poderá consignar o recurso à arbitragem, como forma de composição e resolução das questões suscitadas entre o instituidor, o trustee e os beneficiários ou entre o trustee e terceiros."
+  },
+  "885925914": {
+   "fragment_id": "885806271",
+   "type": 11,
+   "heading": "Artigo 33.º — Foro supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Foro supletivo\n\nNa falta de convenção da arbitragem, é competente o foro da comarca do Funchal."
+  },
+  "885925915": {
+   "fragment_id": "885806272",
+   "type": 11,
+   "heading": "Artigo 34.º — Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Segurança Social\n\nOs trabalhadores ao serviço das entidades referidas no artigo 13.º, bem como as respectivas entidades empregadoras, ficam sujeitos ao regime geral de segurança social, de acordo com o previsto na legislação portuguesa sobre a matéria."
+  },
+  "885925923": {
+   "fragment_id": "885806247",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição e funcionamento",
+   "in_force_from": "1990-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+   ],
+   "markdown": "###### Artigo 13.º — Constituição e funcionamento\n\n1 - Sem prejuízo do disposto no número seguinte, é permitida, nos termos previstos no presente diploma, a constituição e funcionamento de sociedades, bem como a abertura de sucursais por parte de instituições já existentes que tenham por objecto exclusivo o trust ou gestão fiduciária off-shore.\n\n2 - A actividade de trust ou gestão fiduciária regulada no presente diploma não pode revestir natureza financeira.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+  },
+  "885925924": {
+   "fragment_id": "885806249",
+   "type": 11,
+   "heading": "Artigo 15.º — Autorização",
+   "in_force_from": "1990-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+   ],
+   "markdown": "###### Artigo 15.º — Autorização\n\nA constituição e funcionamento das sociedades e sucursais de trust off-shore depende da autorização do Governo Regional da Madeira.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+  },
+  "885925925": {
+   "fragment_id": "885806252",
+   "type": 11,
+   "heading": "Artigo 18.º — Revogação da autorização",
+   "in_force_from": "1990-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+   ],
+   "markdown": "###### Artigo 18.º — Revogação da autorização\n\nA autorização pode ser revogada pelo Governo Regional da Madeira, cabendo recurso para o Supremo Tribunal Administrativo, nos termos gerais.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+  },
+  "885925926": {
+   "fragment_id": "885806258",
+   "type": 11,
+   "heading": "Artigo 23.º — Capital social",
+   "in_force_from": "1990-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+   ],
+   "markdown": "###### Artigo 23.º — Capital social\n\nO montante do capital social das sociedades será definido pelo Governo Regional, com o limite mínimo de 20000 contos.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+  },
+  "885925927": {
+   "fragment_id": "885806264",
+   "type": 11,
+   "heading": "Artigo 27.º — Licenças",
+   "in_force_from": "1990-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+   ],
+   "markdown": "###### Artigo 27.º — Licenças\n\nAs entidades referidas no artigo 13.º estarão sujeitas ao pagamento de uma taxa de instalação e de uma taxa anual de funcionamento, nas condições e montante a definir no acto de autorização.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+  },
+  "885925928": {
+   "fragment_id": "885806267",
+   "type": 11,
+   "heading": "Artigo 30.º — Fiscalização de contas",
+   "in_force_from": "1990-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+   ],
+   "markdown": "###### Artigo 30.º — Fiscalização de contas\n\nOs relatórios de auditoria, acompanhando o relatório e contas de cada exercício, serão enviados ao Governo Regional da Madeira.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+  },
+  "885925916": {
+   "fragment_id": "885806273",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Julho de 1988. - Aníbal António Cavaco Silva - Lino Dias Miguel - Rui Carlos Alvarez Carp - Joaquim Fernando Nogueira - Licínio Alberto de Almeida Cunha.\n\nPromulgado em 29 de Setembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Setembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "885925939": {
+   "fragment_id": "885806258",
+   "type": 11,
+   "heading": "Artigo 23.º — Capital social",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+   ],
+   "markdown": "###### Artigo 23.º — Capital social\n\nO montante do capital social das sociedades será definido pelo Governo Regional, com o limite mínimo de (euro) 99759,58.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 264/90 - Diário da República n.º 201/1990, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), em vigor a partir de 1990-09-05"
+  },
+  "885925942": {
+   "fragment_id": "885806241",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo",
+   "in_force_from": "2017-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+   ],
+   "markdown": "###### Artigo 9.º — Registo\n\n1 - Os atos de constituição, modificação ou extinção do trust estão sujeitos a registo obrigatório.\n\n2 - O registo a que se refere o número anterior deve efetuar-se no prazo de dois meses, contado da data de criação do trust, nos termos de regulamentação a aprovar para o efeito.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+  },
+  "885925943": {
+   "fragment_id": "885806243",
+   "type": 11,
+   "heading": "Artigo 11.º — Sigilo e confidencialidade",
+   "in_force_from": "2017-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+   ],
+   "markdown": "###### Artigo 11.º — Sigilo e confidencialidade\n\n1 - Estão sujeitos a segredo os nomes do instituidor e dos beneficiários, os quais só podem ser desvendados em execução de decisão judicial.\n\n2 - A violação do disposto no número anterior determina a aplicação das sanções previstas para a violação do segredo bancário.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+  }
+ }
+}

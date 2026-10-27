@@ -1,0 +1,188 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:320969:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-885927207",
+ "dre_path": "/dr/detalhe/decreto-lei/152-2000-320969",
+ "source_lastmod": "2024-08-27",
+ "versions": [
+  {
+   "date": "2000-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885927380",
+    "885927381",
+    "885927382",
+    "885927383",
+    "885927384",
+    "885927385",
+    "885927386",
+    "885927387",
+    "885927388",
+    "885927389"
+   ]
+  },
+  {
+   "date": "2004-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480517:por",
+     "title": "Decreto-Lei n.º 208/2004",
+     "published": "2004-08-19",
+     "dre_path": "/dr/detalhe/decreto-lei/208-2004-480517"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "885927380",
+    "885927381",
+    "885927382",
+    "885927450",
+    "885927451",
+    "885927452",
+    "885927453",
+    "885927387",
+    "885927388",
+    "885927389",
+    "885927390"
+   ]
+  }
+ ],
+ "fragments": {
+  "885927380": {
+   "fragment_id": "885927208",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 152/2000\n\nde 21 de Julho\n\nO regime especial dos limites dos tempos de voo e de repouso dos tripulantes de aeronaves envolvidas em transporte ou trabalho aéreo, destinado a garantir condições de segurança das operações aéreas contra os efeitos de fadiga das tripulações, encontra-se presentemente destituído de qualquer quadro sancionatório apesar do carácter imperativo desses limites e à natureza dos interesses públicos tutelados.\n\nO artigo 3.º do próprio Decreto-Lei n.º 56/85, de 4 de Março, que constitui o suporte dessa regulamentação especial, pressupõe a existência de regras também específicas definidoras das infracções e das sanções aplicáveis.\n\nTambém a Portaria n.º 238-A/98, de 15 de Abril, que define e regula os limites dos tempos de voo e de repouso do pessoal navegante do transporte aéreo, remete no preâmbulo para legislação específica o seu regime sancionatório.\n\nForam observados os procedimentos decorrentes da Lei n.º 16/79, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 30.º, Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163) Até à aprovação do diploma legal mencionado no n.º 3 do artigo 20.º do Decreto-Lei n.º 44/2013, de 2 de abril, mantém-se em vigor o regime sancionatório do regulamento sobre tempo de serviço de voo e repouso dos pilotos de aeronaves a operar em trabalho aéreo, constante do presente decreto-lei.\n\n> Nota: [Artigo 42.º, Decreto-Lei n.º 44/2013 - Diário da República n.º 64/2013, Série I de 2013-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2013-259949) Até à aprovação do diploma legal mencionado no n.º 3 do artigo 20.º do Decreto-Lei n.º 44/2013, de 2 de abril, mantém-se em vigor o regime sancionatório do regulamento sobre tempo de serviço de voo e repouso dos pilotos de aeronaves a operar em trabalho aéreo, constante do presente decreto-lei."
+  },
+  "885927381": {
+   "fragment_id": "885927209",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece os quadros contra-ordenacional e sancionatório relativos às violações ao regime sobre os limites dos diversos tempos de serviço de voo e de repouso do pessoal navegante do transporte e do trabalho aéreo, tendo em vista a salvaguarda da segurança aérea."
+  },
+  "885927382": {
+   "fragment_id": "885927210",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se como:\n\na) INAC: Instituto Nacional de Aviação Civil;\n\nb) Operador: entidade titular de um licença válida de transporte e ou de trabalho aéreo."
+  },
+  "885927383": {
+   "fragment_id": "885927211",
+   "type": 11,
+   "heading": "Artigo 3.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contra-ordenações\n\n1 - Constituem contra-ordenações os seguintes comportamentos:\n\na) Incumprimento pelo operador das normas relativas ao regime dos períodos mínimos de repouso ou dos períodos máximos de tempo de voo ou de serviço de voo, legalmente estipulados;\n\nb) Inexistência de indicação actualizada, no manual de operações de voo do operador, dos limites de tempo de voo, de período de serviço de voo, de período de repouso ou de tempo de serviço que utiliza, com menção dos tempos para os tripulantes completarem as necessárias actividades;\n\nc) Falta de registos legalmente exigíveis ao operador, relativos a tempos de voo, períodos de serviço de voo, períodos de repouso e folgas, efectuados por cada tripulante;\n\nd) Ultrapassagem pelo tripulante dos limites de tempo de voo ou de período de serviço de voo por cumulação não autorizada de actividades de voo ou por efectuação de actividade de voo em período de repouso, ressalvadas as excepções previstas na lei;\n\ne) Não cumprimento pelo tripulante dos limites determinados relativamente a período de repouso, período de serviço de voo, tempo de voo ou período de serviço.\n\n2 - A negligência e a tentativa são puníveis."
+  },
+  "885927384": {
+   "fragment_id": "885927212",
+   "type": 11,
+   "heading": "Artigo 4.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Coimas\n\n1 - As condutas previstas na alínea a) do n.º 1 do artigo 3.º são puníveis com uma coima fixada entre um mínimo de 500000$00 e um máximo de 9000000$00.\n\n2 - As condutas previstas nas alíneas b) e c) do n.º 1 do artigo 3.º são punidas com uma coima fixada entre um mínimo de 500000$00 e um máximo de 4500000$00.\n\n3 - As condutas previstas na alínea d) do n.º 1 do artigo 3.º são punidas com uma coima fixada entre um mínimo de 100000$00 e um máximo de 750000$00.\n\n4 - As condutas previstas na alínea e) do n.º 1 do artigo 3.º são punidas com uma coima fixada entre um mínimo de 50000$00 e um máximo de 500000$00."
+  },
+  "885927385": {
+   "fragment_id": "885927213",
+   "type": 11,
+   "heading": "Artigo 5.º — Graduação da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Graduação da coima\n\nPara além do disposto no regime geral das contra-ordenações, a graduação da coima terá em conta as implicações da conduta para a segurança da navegação aérea."
+  },
+  "885927386": {
+   "fragment_id": "885927214",
+   "type": 11,
+   "heading": "Artigo 6.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sanções acessórias\n\n1 - As contra-ordenações previstas nas alíneas a), b) e c) do n.º 1 do artigo 3.º podem ainda ser punidas com as sanções acessórias previstas nas alíneas c), f) e g) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n2 - Às condutas previstas nas alíneas d) e e) do n.º 1 do artigo 3.º pode ser aplicada a sanção acessória prevista na alínea b) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro."
+  },
+  "885927387": {
+   "fragment_id": "885927215",
+   "type": 11,
+   "heading": "Artigo 7.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autoridade competente\n\nCompetem ao INAC a instrução do processo contra-ordenacional e a aplicação das respectivas coimas e sanções acessórias."
+  },
+  "885927388": {
+   "fragment_id": "885927216",
+   "type": 11,
+   "heading": "Artigo 8.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produto das coimas\n\nO produto das coimas é repartido na seguinte proporção:\n\na) 40% para o INAC;\n\nb) 60% para os cofres do Estado."
+  },
+  "885927389": {
+   "fragment_id": "885927217",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime subsidiário\n\nEm tudo o que não se encontra expressamente regulado neste diploma aplica-se o regime contido no Decreto-Lei n.º 433/82, de 27 de Outubro."
+  },
+  "885927450": {
+   "fragment_id": "885927211",
+   "type": 11,
+   "heading": "Artigo 3.º — Contra-ordenações",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 3.º — Contra-ordenações\n\n1 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações muito graves:\n\na) Incumprimento pelo operador das normas relativas ao regime dos períodos mínimos de repouso ou dos períodos máximos de tempo de voo ou de serviço de voo, legalmente estipulados;\n\nb) O incumprimento por parte do tripulante dos limites de tempo de voo ou de período de serviço de voo por cumulação não autorizada de actividades de voo ou por efectuação de actividade de voo em período de repouso, ressalvadas as excepções previstas na lei;\n\nc) Não cumprimento pelo tripulante dos limites determinados relativamente a período de repouso, período de serviço de voo, tempo de voo ou período de serviço.\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n2 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações graves:\n\na) A inexistência de indicação actualizada no manual de operações de voo, dos limites de tempo de voo, de período de serviço de voo, de período de repouso ou de tempo de serviço que o operador pratica, com menção dos tempos para os tripulantes completarem as necessárias actividades;\n\nb) A falta de registos legalmente exigíveis ao operador, relativos a tempos de voo, períodos de serviço de voo, períodos de repouso e folgas, efectuados por cada tripulante.\n\n3 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de Janeiro.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "885927451": {
+   "fragment_id": "885927212",
+   "type": 11,
+   "heading": "Artigo 4.º — Coimas",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 4.º — Coimas\n\n1 - As condutas previstas na alínea a) do n.º 1 do artigo 3.º são puníveis com uma coima fixada entre um mínimo de 500000$00 e um máximo de 9000000$00.\n\n2 - As condutas previstas nas alíneas b) e c) do n.º 1 do artigo 3.º são punidas com uma coima fixada entre um mínimo de 500000$00 e um máximo de 4500000$00.\n\n3 - As condutas previstas na alínea d) do n.º 1 do artigo 3.º são punidas com uma coima fixada entre um mínimo de 100000$00 e um máximo de 750000$00.\n\n4 - As condutas previstas na alínea e) do n.º 1 do artigo 3.º são punidas com uma coima fixada entre um mínimo de 50000$00 e um máximo de 500000$00.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "885927452": {
+   "fragment_id": "885927213",
+   "type": 11,
+   "heading": "Artigo 5.º — Graduação da coima",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 5.º — Graduação da coima\n\nPara além do disposto no regime geral das contra-ordenações, a graduação da coima terá em conta as implicações da conduta para a segurança da navegação aérea.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "885927453": {
+   "fragment_id": "885927214",
+   "type": 11,
+   "heading": "Artigo 6.º — Sanções acessórias",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 6.º — Sanções acessórias\n\n1 - As contra-ordenações previstas nas alíneas a), b) e c) do n.º 1 do artigo 3.º podem ainda ser punidas com as sanções acessórias previstas nas alíneas c), f) e g) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n2 - Às condutas previstas nas alíneas d) e e) do n.º 1 do artigo 3.º pode ser aplicada a sanção acessória prevista na alínea b) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "885927390": {
+   "fragment_id": "885927218",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 6 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

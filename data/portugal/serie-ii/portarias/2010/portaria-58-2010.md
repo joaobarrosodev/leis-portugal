@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:1396884:por
+title: Portaria n.º 58/2010
+short_title: null
+summary: Concede a medalha de serviços distintos, grau prata, ao coronel de infantaria João Vasco Sousa de Castro e Quadros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 58/2010
+official_date: null
+publication_date: '2010-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 11/2010, Série II de 2010-01-18
+  number: '11'
+  series: II
+  supplement: null
+  pages: 2320 - 2321
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/01/011000000/0232002321.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1396884'
+  dre_path: /dr/detalhe/portaria/58-2010-1396884
+  internal: pt:dre:1396884:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-2010-1396884
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-2010-1396884
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:26:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: db458c10c4558bde91af298bef1ac3e5f571544beac73f1f8185ebffa844b8ae
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:26:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:26:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 58/2010
+
+Louvo o coronel de infantaria (NIM 19599583) João Vasco Sousa de Castro e Quadros pela elevada competência, excepcional zelo e grande empenho com que desempenhou esta missão de serviço público na Direcção-Geral de Política de Defesa Nacional (DGPDN), do Ministério da Defesa Nacional.
+
+Como director do Departamento de Planeamento Estratégico de Defesa, desde Setembro de 2006, o coronel João Quadros desenvolveu e coordenou de forma notável as tarefas e actividades atribuídas ao Departamento, destacando-se pela sua permanente presença, disponibilidade e empenho.
+
+O elevado nível de preparação, os profundos conhecimentos, a experiência, a invulgar capacidade de análise e de trabalho e o espírito de iniciativa e de sacrifício permitiram ao coronel João Quadros desenvolver uma eficaz liderança do seu departamento, bem como uma fácil coordenação, quando necessário, com outros departamentos e serviços do Estado.
+
+Militar dotado de um invulgar sentido de missão e um correcto sentido das responsabilidades, de uma frontalidade e lealdade exemplares, de uma extraordinária percepção do interesse nacional e do equilíbrio das soluções apresentadas, o coronel João Quadros constituiu uma referência ímpar de dedicação à causa pública, que muito prestigiou a DGPDN.
+
+O desempenho metódico e cuidadoso do coronel João Quadros no acompanhamento das actividades na área da defesa desenvolvidas pelas diferentes presidências do Conselho da União Europeia permitiu uma contribuição de elevado nível da DGPDN para o sucesso do nosso país, tanto nos períodos de transição entre presidências como durante o período de responsabilidade nacional.
+
+Também durante o longo período de discussão da fase 2 do Peace Establishment Review da NATO Command Structure, foi fundamental a sua experiência, competência e bom senso, acautelando sempre os interesses nacionais para a manutenção do Joint Command Lisbon, o qual, a par de Nápoles e Brunssum, se transformará em Joint Force Command Lisbon (JFC Lisbon), habilitado a comandar simultaneamente duas small joint operations (SJO).
+
+Oficial dinâmico, com grande capacidade de iniciativa e procurando constantemente soluções que melhorem as capacidades nacionais, em especial na área estratégica da gestão de crises, o coronel João Quadros atribuiu uma especial relevância aos exercícios da NATO nesta área (CMX). Estes seus predicados permitiram-lhe, ainda, preparar estudos de grande qualidade sobre o planeamento do empenhamento e sustentação de forças nacionais destacadas, bem como os mecanismos a desenvolver no âmbito do grupo de trabalho sobre a participação nacional em missões militares internacionais.
+
+São estas características que lhe permitiram, ainda, com elevada competência profissional, representar o director-geral em reuniões internacionais, situações em que o coronel João Quadros adoptou uma postura institucional irrepreensível, denotando elevada perspicácia e diligência, elevado sentido de dever e de obediência, creditando-o como um inestimável colaborador do director-geral de Política de Defesa Nacional e granjeando o respeito e a admiração de todos aqueles que com ele então privaram.
+
+Com uma irrepreensível postura militar, reconhecida coragem moral, elevada integridade e formação ética, esmerada educação, e dotado de excelentes virtudes militares, profissionais e humanas, o coronel João Quadros demonstrou, em todos os seus actos, possuir elevados dotes de carácter, justiça, disciplina, espírito de obediência e aptidão para bem servir nas mais diversas circunstâncias, que o tornam digno de ocupar postos da mais elevada responsabilidade e especialmente apto a ocupar funções de maior responsabilidade.
+
+Pelas excepcionais qualidades e virtudes militares, profissionais e humanas evidenciadas, aliadas à sua extraordinária lealdade e abnegação, honestidade e apurado sentido do dever e de camaradagem, o coronel João Quadros tornou-se credor da mais elevada consideração de todos aqueles que com ele trabalharam, prestando um contributo inestimável para a prossecução dos objectivos da defesa nacional, sendo de toda a justiça que os seus serviços sejam publicamente reconhecidos como extraordinários, relevantes e distintos, tendo deles resultado honra e lustre para Portugal e para o Ministério da Defesa Nacional.
+
+Assim, nos termos da competência que me é conferida pelo n.º 1 do artigo 34.º, atento o disposto nos artigos 13.º e na alínea b) do n.º 1 do artigo 16.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de Dezembro:
+
+Concedo a medalha de serviços distintos, grau prata, ao coronel de infantaria João Vasco Sousa de Castro e Quadros.
+
+30 de Novembro de 2009. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.
+
+202782159

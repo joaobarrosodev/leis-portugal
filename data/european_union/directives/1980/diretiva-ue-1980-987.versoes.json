@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L0987:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0987-20081117",
+ "dre_path": null,
+ "source_lastmod": "2008-11-17",
+ "versions": [
+  {
+   "date": "1980-10-28",
+   "future": false,
+   "celex": "31980L0987",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2ff6a52a5bdf6ba2",
+    "8db95161a1c13a30",
+    "3d799d0e419acd4a",
+    "15bb9a48f7919af4",
+    "dde58b320c5357a7",
+    "0c86866b321d5e7c",
+    "0e186e6a34880d8c",
+    "f9e3eef2339855f7",
+    "74924a76c500ff3d",
+    "88ad95ee1f869571",
+    "016e1ab956530e6c",
+    "31f2359e28cc1b21",
+    "86cd25f7affec21c",
+    "68aa71fa70a6bc66",
+    "54843b2168916419",
+    "99e320d52808c62c",
+    "c14375e0abb29d4b",
+    "4430eeb57e05523e",
+    "230c32782a197649"
+   ]
+  },
+  {
+   "date": "2008-11-17",
+   "future": false,
+   "celex": "01980L0987-20081117",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I — Âmbito de aplicação e definições",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime SECÇÃO II — Disposições relativas às instituições de garantia",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime SECÇÃO III — Disposições relativas à segurança social",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime SECÇÃO IV — Disposições gerais e finais",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "02196be3c3d0398f"
+   ]
+  }
+ ],
+ "fragments": {
+  "2ff6a52a5bdf6ba2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/987/CEE do Conselho, de 20 de Outubro de 1980, relativa à aproximação das legislações dos Estados-Membros respeitantes à protecção dos trabalhadores assalariados em caso de insolvência do empregador** *Jornal Oficial nº L 283 de 28/10/1980 p. 0023 - 0027 Edição especial finlandesa: Capítulo 5 Fascículo 2 p. 0121 Edição especial grega: Capítulo 05 Fascículo 4 p. 0035 Edição especial sueca: Capítulo 5 Fascículo 2 p. 0121 Edição especial espanhola: Capítulo 05 Fascículo 2 p. 0219 Edição especial portuguesa: Capítulo 05 Fascículo 2 p. 0219*\n\nDIRECTIVA DO CONSELHO de 20 de Outubro de 1980 relativa à aproximação das legislações dos Estados-membros respeitantes à protecção dos trabalhadores assalariados em caso de insolvência do empregador\n\n(80/987/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que são necessárias disposições para proteger os trabalhadores assalariados em caso de insolvência do empregador, em particular para garantir o pagamento dos seus créditos em dívida, tendo em conta a necessidade e um desenvolvimento económico e social equilibrado na Comunidade;\n\nConsiderando que subsistem diferenças entre os Estados-membros quanto ao alcance da protecção dos trabalhadores assalariados neste domínio; que é conveniente reduzir essas diferenças que podem ter uma incidência directa no funcionamento do mercado comum;\n\nConsiderando que, por conseguinte, se justífica promover a aproximação das legislações sobre esta matéria numa via de progresso na acepção do artigo 117o do Tratado;\n\nConsiderando que o mercado de trabalho da Gronelândia, em razão da situação geográfica e das estruturas profissionais actuais desta região, difere fundamentalmente do mercado de trabalho das outras regiões da Comunidade;\n\nConsiderando que, na medida em que a República Helénica se tornará membro da Comunidade Económica Europeia em 1 de Janeiro de 1981, de acordo com o Acto relativo às condições de adesão da República Helénica e às adaptações dos Tratados, é conveniente fixar no anexo da directiva, sob o título «Grécia», as categorias de trabalhadores assalariados cujos créditos podem ser excluídos em conformidade com o no 2 do artigo 1o,\n\nADOPTOU A PRESENTE DIRECTIVA;"
+  },
+  "8db95161a1c13a30": {
+   "fragment_id": "SECÇÃO I — Âmbito de aplicação e definições",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Âmbito de aplicação e definições"
+  },
+  "3d799d0e419acd4a": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva aplica-se aos créditos dos trabalhadores assalariados emergentes de contratos de trabalho ou de relações de trabalho existentes em relação aos empregadores que se encontrem em estado de insolvência na acepção do no 1 do artigo 2o.\n\n2. Os Estados-membros podem, a título excepcional, excluir do âmbito de aplicação da presente directiva os créditos de certas categorias de trabalhadores assalariados em razão da natureza especial do contrato de trabalho ou da relação de trabalho ou em razão da existência de outras formas de garantia que assegurem aos trabalhadores assalariados uma protecção equivalente à que resulte da presente directiva.\n\n3. A presente directiva não é aplicável à Gronelândia. Esta excepção será reexaminada no caso de uma evolução das estruturas profissionais desta região."
+  },
+  "15bb9a48f7919af4": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Para efeito do disposto na presente directiva, considera-se que um empregador se encontra em estado de insolvência:\n\na) Quando tenha sido instaurado um processo previsto pelas disposições legislativas, regulamentares e administrativas do Estado-membro interessado que incida sobre o património do empregador tendo por objectivo satisfazer colectivamente os seus credores e que permita a tomada em consideração dos créditos referidos no no 1 do artigo 1o e,\n\nb) Que a autoridade que é competente por força das referidas disposições legislativas, regulamentares e administrativas tenha:\n\n- ou decidido a instauração do processo ou verificado o encerramento definitivo da empresa ou do estabelecimento do empregador, bem como a insuficiência do activo disponível para justificar a instauração do processo.\n\n2. A presente directiva não prejudica o direito nacional no que se refere à definição dos termos «trabalhador assalariado», «empregador», «remuneração», «direito adquirido» e «direito em vias de aquisição»."
+  },
+  "dde58b320c5357a7": {
+   "fragment_id": "SECÇÃO II — Disposições relativas às instituições de garantia",
+   "type": "divisao",
+   "heading": "SECÇÃO II — Disposições relativas às instituições de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Disposições relativas às instituições de garantia"
+  },
+  "0c86866b321d5e7c": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros tomarão as medidas necessárias para que seja assegurado por instituições de garantia, sem prejuízo do disposto no artigo 4o, o pagamento dos créditos em dívida aos trabalhadores assalariados emergentes de contratos de trabalho ou de relações de trabalho e tendo por objecto a remuneração referente ao período situado antes de determinada data.\n\n2. A data indicada no no 1 será, por escolha dos Estados-membros:\n\n- ou a da superveniência de insolvência do empregador,\n\n- ou a do aviso prévio de despedimento dado ao trabalhador em causa, por força de insolvência do empredagor,\n\n- ou a da superveniência da insolvência do empregador ou a da cessação do contrato de trabalho ou da relação de trabalho do trabalhador em causa, ocorrida por força da insolvência do empregador."
+  },
+  "0e186e6a34880d8c": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros têm a faculdade de limitar a obrigação de pagamento das instituições de garantia previstas no artigo 3o.\n\n2. Quando os Estados-membros fizerem uso da faculdade prevista no no 1, devem:\n\n- no caso previsto no no 2, primeiro travessão, do artigo 3o, assegurar o pagamento dos créditos em dívida relativos à remuneração referente aos três últimos meses do contrato de trabalho ou da relação de trabalho compreendidos no período dos seis meses anteriores à data da superveniência da insolvência do empregador,\n\n- no caso previsto no no 2, segundo travessão, do artigo 3o assegurar o pagamento dos créditos em dívida relativos à remuneração referente aos três últimos meses do contrato de trabalho ou da relação de trabalho, anteriores à data do aviso prévio de despedimento dado ao trabalhador assalariado por força da insolvência do empregador,\n\n- no caso previsto no no 2, terceiro travessão, do artigo 3o, assegurar o pagamento dos créditos em dívida relativos à remuneração referente aos dezoito últimos meses do contrato de trabalho ou da relação de trabalho anteriores à data da superveniência da insolvência do empregador ou à da cessação do contrato de trabalho ou da relação de trabalho do trabalhador assalariado, ocorrida por força da insolvência do empregador. Nestes casos os Estados-membros podem limitar a obrigação de pagamento à remuneração referente a um período de oito semanas ou a diversos períodos parciais que perfaçam a mesma duração.\n\n3. Contudo os Estados-membros podem fixar um limite para a garantia de pagamento dos créditos em dívida aos trabalhadores assalariados, a fim de evitar o pagamento das importâncias que excedam a finalidade social da presente directiva.\n\nQuando os Estados-membros fizerem uso desta faculdade, devem comunicar à comissão os métodos pelos quais fixaram o limite."
+  },
+  "f9e3eef2339855f7": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros estabelecem as modalidades da organização do financiamento e do funcionamento das instituições de garantia observando, nomeadamente, os seguintes princípios:\n\na) O património das instituições deve ser independente do capital de exploração dos empregadores e ser constituído por forma que não possa ser apreendido no decurso de um processo de insolvência;\n\nb) Os empregadores devem contribuir para o financiamento, a menos que este seja assegurado integralmente pelos poderes públicos;\n\nc) A obrigação de pagamento das instituições existirá independentemente da execução das obrigações de contribuir para o seu financiamento."
+  },
+  "74924a76c500ff3d": {
+   "fragment_id": "SECÇÃO III — Disposições relativas à segurança social",
+   "type": "divisao",
+   "heading": "SECÇÃO III — Disposições relativas à segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Disposições relativas à segurança social"
+  },
+  "88ad95ee1f869571": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros podem prever que os artigos 3o, 4o e 5o não se apliquem às cotizações devidas a título de regimes legais nacionais de segurança social ou a título de regimes complementares de previdência profissionais ou interprofissionais existentes para além dos regimes legais nacionais de segurança social."
+  },
+  "016e1ab956530e6c": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros tomarão as medidas necessárias para assegurar que o não pagamento, às suas instituições de segurança, de cotizações obrigatórias devidas pelo empregador antes da superveniência da insolvência, a título de regimes legais nacionais de segurança social, não prejudicará o direito do trabalhador assalariado a prestações dessas instituições, na medida em que as cotizações tenham sido descontadas dos salários pagos."
+  },
+  "31f2359e28cc1b21": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros certificar-se-ao de que serão tomadas as medidas necessárias para proteger os interesses dos trabalhadores assalariados e das pessoas que tenham deixado a empresa ou o estabelecimento da entidade patronal na data da superveniência da insolvência desta, no que respeita aos seus direitos adquiridos ou em vias de aquisição, a prestações de velhice, incluindo as prestações de sobrevivência, a título de regimes complementares de previdência, profissionais ou interprofissionais existentes para além dos regimes legais nacionais de segurança social."
+  },
+  "86cd25f7affec21c": {
+   "fragment_id": "SECÇÃO IV — Disposições gerais e finais",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições gerais e finais"
+  },
+  "68aa71fa70a6bc66": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nA presente directiva não prejudicará a faculdade de os Estados-membros aplicarem ou introduzirem disposições legislativas, regulamentares ou administrativas mais favoráveis aos trabalhadores assalariados."
+  },
+  "54843b2168916419": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nA presente directiva não prejudicará a faculdade de os Estados-membros:\n\na) Tomarem as medidas necessárias para evitar abusos;\n\nb) Recusarem ou reduzirem a obrigação de pagamento previsto no artigo 3o ou a obrigação de garantia prevista no artigo 7o no caso da execução da obrigação não se justificar por força de existência de laços particulares entre o trabalhador assalariado e a entidade patronal e de interesses comuns concretizados por conluio entre eles."
+  },
+  "99e320d52808c62c": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Os Estados-membros devem adoptar as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de trinta e seis meses a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros devem comunicar à Comissão o texto das disposições legislativas, regulamentares e administrativas que adoptarem sobre as matérias reguladas pela presente directiva."
+  },
+  "c14375e0abb29d4b": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros devem transmitir à Comissão, no prazo de dezoito meses a contar da expiração do período de trinta e seis meses previsto no no 1, do artigo 11o, todos os dados úteis que lhe permitam elaborar um relatório a submeter ao Conselho sobre a aplicação da presente directiva."
+  },
+  "4430eeb57e05523e": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Luxemburgo 10 de outubro de 1980.\n\nPelo Conselho\n\nO Presidente\n\nJ. SANTER\n\n(1) JO no C 135 de 9. 6. 1978, p. 2.(2) JO no C 39 de 12. 2. 1979, p. 26.(3) JO no C 105 de 26. 4. 1979, p. 15."
+  },
+  "230c32782a197649": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nCategorias de trabalhadores assalariados cujos créditos podem ser excluídos do âmbito de aplicação da directiva, de acordo com o no 1 do artigo 1o.\n\nI. Trabalhadores assalariados com contrato de trabalho ou relação de trabalho de natureza especial.\n\nA. GRÉCIA\n\nO patrão e os membros da tripulação dos barcos de pesca, se, e na medida em que forem pagos através de participação nos ganhos ou nas receitas brutas do barco.\n\nB. IRLANDA\n\n1. Os trabalhadores domiciliários (isto é, as pessoas que trabalhem à peça em sua casa) desde que não tenham contrato de trabalho escrito.\n\n2. Os parentes próximos do empregador que não tenham contrato de trabalho escrito e cujo trabalho se produz numa habitação privada ou numa empresa agrícola onde resida o empregador e os seus parentes próximos.\n\n3. As pessoas que trabalham normalmente menos de dezoito horas por semana para um ou vários empregadores e que não obtenham o essencial dos seus meios de subsistência do salário recebido por esse trabalho.\n\n4. As pessoas empregadas na pesca, em trabalho sazonal intermitente ou a tempo parcial e pagas sob a forma de participação nos resultados da pesca.\n\n5. O cônjuge do empregador.\n\nC. PAÍSES BAIXOS\n\nTrabalhadores domésticos trabalhando menos de três dias por semana para uma pessoa singular.\n\nD. REINO UNIDO\n\n1. O patrão e os membros da tripulação dos barcos de pesca que sejam pagos sob a forma de participação nos ganhos ou nas receitas brutas do barco.\n\n2. O cônjuge do empregador,\n\nII. Trabalhadores assalariados que beneficiam de outras formas de garantia.\n\nA. GRÉCIA\n\nA tripulação de navios,\n\nB. IRLANDA\n\n1. Os trabalhadores assalariados que tenham direito a uma reforma e se encontrem empregados a título permanente por uma autoridade local, uma outra autoridade pública ou por uma empresa de transportes que assegure um serviço público.\n\n2. Os docentes que tenham direito a uma reforma e trabalhem num dos estabelecimentos seguintes: National Schools, Secondary Schools, Comprehensive Schools, Teacher's Training Colleges.\n\n3. Os trabalhadores assalariados que tenham direito a uma reforma e se encontrem empregados a título permanente por um dos hospitais privados financiados pelo Ministério das Finanças.\n\nC. ITÁLIA\n\n1. Os trabalhadores assalariados que beneficiem das prestações previstas pela legislação em matéria de garantia dos rendimentos em caso de crise económica da empresa.\n\n2. As tripulações de navios.\n\nD. REINO UNIDO\n\n1. Os estivadores inscritos, salvo os que se encontrem inteira ou principalmente encarregados de um trabalho que não seja um trabalho de estiva.\n\n2. As tripulações de navios."
+  },
+  "02196be3c3d0398f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L0987 — PT — 17.11.2008 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L0987) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L0987) [de 20 de Outubro de 1980](http://publications.europa.eu/resource/celex/31980L0987) [relativa à protecção dos trabalhadores assalariados em caso de insolvência do empregador](http://publications.europa.eu/resource/celex/31980L0987) [(80/987/CEE)](http://publications.europa.eu/resource/celex/31980L0987) (JO L 283, 28.10.1980, p.23)\n\n**revogado por:**\n\n- [Directiva 2008/94/CE do Parlamento Europeu e do Conselho de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008L0094) — L 283 — 36 — 28.10.2008"
+  }
+ }
+}

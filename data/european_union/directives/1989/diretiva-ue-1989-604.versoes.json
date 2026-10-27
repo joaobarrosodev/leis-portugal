@@ -1,0 +1,79 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0604:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0604-20090630",
+ "dre_path": null,
+ "source_lastmod": "2009-06-30",
+ "versions": [
+  {
+   "date": "1989-11-28",
+   "future": false,
+   "celex": "01989L0604-19891128",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2f51aeaf25e1d3bb",
+    "e8aaf1aeee772612",
+    "82700e862d413fbf",
+    "4cdfeef6e2e02157"
+   ]
+  },
+  {
+   "date": "2009-06-30",
+   "future": false,
+   "celex": "01989L0604-20090630",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º"
+   ],
+   "fragments": [
+    "9c23a6dd30648f83"
+   ]
+  }
+ ],
+ "fragments": {
+  "2f51aeaf25e1d3bb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1989L0604 — PT — 28.11.1989 — 000.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0604:PT:NOT) [DIRECTIVA DO CONSELHO de 23 de Novembro de 1989 que altera a Directiva 83/183/CEE relativa às isenções fiscais aplicáveis às importações definitivas de bens pessoais de particulares provenientes de um Estado-membro (89/604/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0604:PT:NOT) (JO L 348, 29.11.1989, p.28)\n\nAlterado por:\n\n|  |  | Jornal Oficial |\n| --- | --- | --- |\n| No | page | date |\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0604R(01):PT:NOT) [Rectificação, JO L 270, 2.10.1990, p. 26 (89/604)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0604R(01):PT:NOT)\n\n| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |\n| --- |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0604:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 23 de Novembro de 1989\n\nque altera a Directiva 83/183/CEE relativa às isenções fiscais aplicáveis às importações definitivas de bens pessoais de particulares provenientes de um Estado-membro\n\n(89/604/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#E0003)),\n\nConsiderando que, aquando da adopção da Directiva 83/183/CEE ([4](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#E0004)), o Conselho se comprometeu a adoptar por unanimidade, sob proposta de Comissão, as disposições que pudessem permitir a simplificação substancial ou mesmo a supressão das formalidades relativas à concessão das isenções fiscais aplicáveis às importações definitivas de bens pessoais de particulares provenientes de um Estado-membro; que o Comité ad hoc«Europa dos cidadãos», no seu primeiro relatório aprovado pelo Conselho Europeu de Bruxelas de 29 e 30 de Março de 1985, convidou a Comissão a apresentar uma tal proposta;\n\nConsiderando que convém facilitar o mais possível a livre circulação das pessoas na Comunidade;\n\nConsiderando que, na expectativa da abolição das fronteiras fiscais com vista a permitir a realização de um verdadeiro mercado interno, convém harmonizar e simplificar certas formalidades necessárias à concessão da isenção na importação prevista pela Directiva 83/183/CEE, nomeadamente no que respeita ao estabelecimento de um inventário dos bens e das provas da residência normal; que convém tornar menos restritivas as regras existentes relativas ao prazo de uso dos bens importados e aos limites quantitativos respeitantes a certos bens,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e8aaf1aeee772612": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Directiva 83/183/CEE é alterada como segue:\n\n1. A alínea b) do n.\n\no\n\n2 do artigo 2.\n\no\n\npassa a ter a seguinte redacção:\n\n«b) Tenham sido realmente afectos ao uso do interessado antes da mudança de residência ou do estabelecimento de uma residência secundária. Os Estados-membros podem exigir que os veículos rodoviários a motor (incluindo os respectivos reboques), as caravanas, as habitações móveis, os barcos de recreio e os aviões de turismo estejam afectos ao uso do interessado há seis meses, pelo menos, antes da mudança de residência.\n\nRelativamente aos bens referidos no segundo período da alínea a), os Estados-membros podem exigir:\n\n— no que se refere aos veículos rodoviários a motor (incluindo os respectivos reboques), as caravanas, as habitações móveis, os barcos de recreio e os aviões de turismo, que estejam afectos ao uso de interessado há doze meses, pelo menos,\n\n— no que se refere aos outros bens, que estejam afectos ao uso do interessado há seis meses, pelo menos,\n\nantes da mudança de residência.»\n\n.\n\n2. No artigo 4.o, a expressão «os bens» é substituída pela expressão: «os veículos rodoviários a motor (incluindo os respectivos reboques), as caravanas, as habitações móveis, os barcos de recreio e os aviões de turismo».\n\n3. O n.\n\no\n\n1 do artigo 5.\n\no\n\npassa a ter a seguinte redacção:\n\n«1. Os Estados-membros podem prever uma limitação da importação com isenção dos bens enumerados no n.o 1 do artigo 4.o da Directiva 69/169/CEE ([5](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#E0005)), com a última redacção que lhe foi dada pela Directiva 89/220/CEE ([6](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#E0006)). Todavia, essa limitação não pode ser inferior ao quádruplo das quantidades mencionadas no coluna II do referido artigo, salvo no que respeita aos produtos de tabaco, cuja importação com isenção pode ser limitada às quantidades mencionadas na referida coluna.»\n\n.\n\n4. No artigo 7.o:\n\na) O n.o 1 passa a alínea a) do n.o 1;\n\nb) No n.\n\no\n\n1, é aditada a seguinte alínea:\n\n«b) A concessão da isenção está subordinada, sem prejuízo das regras eventualmente aplicáveis em matéria de trânsito comunitário, ao estabelecimento de um inventário dos bens em papel comum, acompanhado, se o Estado o exigir, de uma declaração cujo modelo e conteúdo serão definidos nos termos do processo previsto nos n.os 2 e 3 do artigo 17.o do Regulamento (CEE) n.o 678/85 ([7](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#E0007)). Não se pode exigir qualquer referência ao valor no inventário dos bens.»\n\n.\n\nc) Ao n.o 2 é aditado o seguinte período: «Quando, de acordo com o artigo 3.o, a importação de bens se efectue em várias vezes no prazo atrás mencionado, os Estados-membros só podem exigir um inventário global aquando da primeira importação, sendo que qualquer outra estância aduaneira poderá reportar-se a esse inventário aquando das sucessivas mudanças. Esse inventário global pode ser completado de acordo com as autoridades competentes do Estado-membro de importação.».\n\n5. No n.o 2 do artigo 8.o:\n\na) No final do primeiro parágrafo, a frase «durante um período de, pelo menos, doze meses» é substituída por «antes do estabelecimento de uma [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0604R(01):PT:NOT) segunda residência»; ◄\n\nb) É suprimido o terceiro parágrafo.\n\n6. No artigo 9.o:\n\na) No n.\n\no\n\n1, o trecho introdutório passa a ter a seguinte redacção:\n\nSem prejuízo dos artigos 2.o a 5.o, qualquer pessoa, por ocasião do seu casamento, pode importar em regime de isenção dos impostos referidos no artigo 1.o, no Estado-membro para onde pretenda mudar a sua residência normal, bens pessoais adquiridos ou afectos ao seu uso, nas seguintes condições:»\n\n;\n\nb) O n.\n\no\n\n2 passa a ter a seguinte redacção:\n\n«2. Ficam igualmente isentos os presentes habitualmente oferecidos por ocasião de um casamento, recebidos por uma pessoa que se encontre nas condições previstas no n.o 1 da parte de pessoas que tenham a sua residência habitual num Estado-membro que não o de importação. A isenção é aplicável aos presentes cujo valor unitário não exceda 350 ecus. Os Estados-membros podem, todavia, conceder uma isenção superior a 350 ecus, desde que o valor de cada presente admitido com isenção não exceda 1 400 ecus.»\n\n.\n\n7. No artigo 11.o:\n\na) No n.o 1, é suprimida a frase «Até à entrada em vigor das normas fiscais comunitárias adoptadas em aplicação do n.o 2 do artigo 14.o da Directiva 77/388/CEE»;\n\nb) No n.o 2, a referência ao «n.o 2 do artigo 2.o» é substituída pela referência ao «n.o 2, alínea a), do artigo 2.o»."
+  },
+  "82700e862d413fbf": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Julho de 1990. Do facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão as disposições que adoptarem para a aplicação da presente directiva."
+  },
+  "4cdfeef6e2e02157": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#src.E0001)) JO n.o C 5 de 9. 1. 1987, p. 2 e\n\nJO n.o C 179 de 8. 7. 1988, p. 8.\n\n([2](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#src.E0002)) JO n.o C 318 de 30. 11. 1987, p. 23.\n\n([3](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#src.E0003)) JO n.o C 150 de 9. 6. 1987, p. 6.\n\n([4](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#src.E0004)) JO n.o L 105 de 23. 4. 1983, p. 64.\n\n([5](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#src.E0005)) JO n.o L 133 de 4. 6. 1969, p. 6.\n\n([6](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#src.E0006)) JO n.o L 92 de 5. 4. 1989, p. 15.\n\n([7](http://publications.europa.eu/resource/cellar/dae75e0b-5918-4d08-95aa-137e8e692f1e.0005.02/DOC_1#src.E0007)) JO n.o L 274 de 15. 10. 1985, p. 1."
+  },
+  "9c23a6dd30648f83": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0604 — PT — 30.06.2009 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0604) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0604) [de 23 de Novembro de 1989](http://publications.europa.eu/resource/celex/31989L0604) [que altera a Directiva 83/183/CEE relativa às isenções fiscais aplicáveis às importações definitivas de bens pessoais de particulares provenientes de um Estado-membro](http://publications.europa.eu/resource/celex/31989L0604) [(89/604/CEE)](http://publications.europa.eu/resource/celex/31989L0604) (JO L 348, 29.11.1989, p.28)\n\n**revogado por:**\n\n- [Directiva 2009/55/CE do Conselho de 25 de Maio de 2009](http://publications.europa.eu/resource/celex/32009L0055) — L 145 — 36 — 10.6.2009"
+  }
+ }
+}

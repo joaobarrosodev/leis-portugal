@@ -1,0 +1,921 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308713:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2010-224821617",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/20-2010-308713",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-11-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224792209",
+    "224792210",
+    "224792211",
+    "224792213",
+    "224792214",
+    "224792215",
+    "224792216",
+    "224792217",
+    "224792218",
+    "224792219",
+    "224792220",
+    "224792221",
+    "224792222",
+    "224792223",
+    "224792224",
+    "224792225",
+    "224792226",
+    "224792227",
+    "224792228",
+    "224792229",
+    "224792230",
+    "224792231",
+    "224792232",
+    "224792233",
+    "224792234",
+    "224792235",
+    "224792236",
+    "224792237",
+    "224792238",
+    "224792239",
+    "224792240",
+    "224792241",
+    "224792242",
+    "224792243",
+    "224792244",
+    "224792245",
+    "224792246",
+    "224792247",
+    "224792248",
+    "224792249",
+    "224792250",
+    "224792251",
+    "224792252",
+    "224792253",
+    "224792254",
+    "224792255",
+    "224792256",
+    "224792257",
+    "224792258",
+    "224792259",
+    "224792260",
+    "224792261",
+    "224792262",
+    "224792263",
+    "224792264",
+    "224792265"
+   ]
+  },
+  {
+   "date": "2013-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261099:por",
+     "title": "Decreto Regulamentar Regional n.º 2/2013/A",
+     "published": "2013-05-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-2013-261099"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "224792209",
+    "224792210",
+    "224792211",
+    "224792212",
+    "224792213",
+    "224792214",
+    "224792215",
+    "224792216",
+    "224792217",
+    "224792218",
+    "224792219",
+    "224792220",
+    "224792221",
+    "224792222",
+    "224792223",
+    "224792224",
+    "224792225",
+    "224792226",
+    "224862619",
+    "224792228",
+    "224862620",
+    "224862621",
+    "224862622",
+    "224792232",
+    "224792233",
+    "224792234",
+    "224792235",
+    "224792236",
+    "224792237",
+    "224792238",
+    "224792239",
+    "224792240",
+    "224792241",
+    "224792242",
+    "224792243",
+    "224792244",
+    "224792245",
+    "224792246",
+    "224792247",
+    "224792248",
+    "224792249",
+    "224792250",
+    "224792251",
+    "224792252",
+    "224792253",
+    "224792254",
+    "224792255",
+    "224792256",
+    "224792257",
+    "224792258",
+    "224792259",
+    "224792260",
+    "224792261",
+    "224792262",
+    "224792263",
+    "224792264",
+    "224862623"
+   ]
+  },
+  {
+   "date": "2015-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70064737:por",
+     "title": "Decreto Regulamentar Regional n.º 16/2015/A",
+     "published": "2015-08-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/16-2015-70064737"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "224792209",
+    "224792210",
+    "224792211",
+    "224792212",
+    "224792213",
+    "224792214",
+    "224792215",
+    "224792216",
+    "224792217",
+    "224792218",
+    "224792219",
+    "224792220",
+    "224792221",
+    "224792222",
+    "224792223",
+    "224792224",
+    "224792225",
+    "224792226",
+    "224862619",
+    "224863394",
+    "224863395",
+    "224862621",
+    "224862622",
+    "224792232",
+    "224792233",
+    "224792234",
+    "224792235",
+    "224792236",
+    "224792237",
+    "224792238",
+    "224792239",
+    "224792240",
+    "224792241",
+    "224792242",
+    "224792243",
+    "224792244",
+    "224792245",
+    "224792246",
+    "224792247",
+    "224792248",
+    "224792249",
+    "224792250",
+    "224792251",
+    "224792252",
+    "224792253",
+    "224792254",
+    "224792255",
+    "224792256",
+    "224792257",
+    "224792258",
+    "224792259",
+    "224792260",
+    "224792261",
+    "224792262",
+    "224792263",
+    "224792264",
+    "224862623"
+   ]
+  },
+  {
+   "date": "2023-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224797145:por",
+     "title": "Decreto Regulamentar Regional n.º 34/2023/A",
+     "published": "2023-11-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 38.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "224792209",
+    "224792210",
+    "224792211",
+    "224792212",
+    "224792213",
+    "224792214",
+    "224863406",
+    "224792216",
+    "224792217",
+    "224792218",
+    "224792219",
+    "224792220",
+    "224792221",
+    "224792222",
+    "224792223",
+    "224792224",
+    "224792225",
+    "224792226",
+    "224863407",
+    "224863394",
+    "224863408",
+    "224863409",
+    "224862622",
+    "224792232",
+    "224792233",
+    "224792234",
+    "224792235",
+    "224792236",
+    "224792237",
+    "224792238",
+    "224792239",
+    "224792240",
+    "224792241",
+    "224792242",
+    "224792243",
+    "224792244",
+    "224792245",
+    "224792246",
+    "224792247",
+    "224792248",
+    "224792249",
+    "224792250",
+    "224792251",
+    "224792252",
+    "224792253",
+    "224792254",
+    "224792255",
+    "224792256",
+    "224863410",
+    "224792258",
+    "224792259",
+    "224863411",
+    "224792261",
+    "224863412",
+    "224792263",
+    "224792264",
+    "224863413"
+   ]
+  }
+ ],
+ "fragments": {
+  "224792209": {
+   "fragment_id": "224821618",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 20/2010/A\n\nOrgânica e quadro de pessoal\n\nO Programa do X Governo Regional dos Açores prevê a implementação de medidas que prossigam com a racionalização dos recursos procedendo-se a alterações estratégicas da estrutura do Serviço Regional de Saúde.\n\nO Estatuto do Serviço Regional de Saúde aprovado pelo Decreto Legislativo Regional n.º 28/99/A, de 31 de Julho, alterado e republicado pelo Decreto Legislativo Regional n.º 1/2010/A, de 4 de Janeiro, prevê a existência de unidades de saúde de ilha, tendo em conta aquele normativo foram criadas as unidades de saúde das ilhas do Pico e de São Jorge.\n\nCom o presente diploma pretende-se organizar a estrutura e o funcionamento dos serviços de modo a obter ganhos de eficácia e eficiência na gestão das unidades de saúde de ilha, no caso concreto na Unidade de Saúde da Ilha do Corvo.\n\nAssim, em execução do n.º 7 do artigo 6.º do Decreto Legislativo Regional n.º 28/99/A, de 31 de Julho, alterado e republicado pelo Decreto Legislativo Regional n.º 1/2010/A, de 4 de Janeiro, e nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "224792210": {
+   "fragment_id": "224821619",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É aprovada a orgânica da Unidade de Saúde da Ilha do Corvo, em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O quadro de pessoal dirigente e de chefia da Unidade de Saúde da Ilha do Corvo consta do anexo à orgânica mencionada no número anterior, do qual faz parte integrante."
+  },
+  "224792211": {
+   "fragment_id": "224821620",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação."
+  },
+  "224792213": {
+   "fragment_id": "224821622",
+   "type": 14,
+   "heading": "Anexo — Orgânica da Unidade de Saúde de Ilha do Corvo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Orgânica da Unidade de Saúde de Ilha do Corvo"
+  },
+  "224792214": {
+   "fragment_id": "224821623",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "224792215": {
+   "fragment_id": "224821624",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Unidade de Saúde de Ilha do Corvo, doravante USICorvo, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, nos termos da lei.\n\n2 - A USICorvo é constituída pelo serviço público de saúde da ilha do Corvo.\n\n3 - A USICorvo exerce a sua actividade sob a superintendência e tutela do membro do Governo Regional com competência na área da saúde.\n\n4 - A coordenação, orientação e avaliação do funcionamento da USICorvo compete à direcção regional competente em matéria de saúde, sem prejuízo das competências legalmente cometidas à SAUDAÇOR - Sociedade Gestora de Recursos e Equipamentos da Saúde dos Açores, S. A., e à Inspecção Regional de Saúde."
+  },
+  "224792216": {
+   "fragment_id": "224821625",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - A USICorvo tem como missão a promoção da saúde na sua área geográfica, através de acções de educação para a saúde, prevenção e prestação de cuidados na doença.\n\n2 - Pode ainda a USICorvo prestar cuidados de saúde diferenciados e desenvolver actividades de vigilância epidemiológica, de formação profissional, de investigação em cuidados de saúde, de melhoria da qualidade dos cuidados e de avaliação dos resultados da sua actividade."
+  },
+  "224792217": {
+   "fragment_id": "224821626",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito geográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito geográfico\n\nA USICorvo exerce as suas atribuições no âmbito geográfico da ilha do Corvo sem prejuízo da sua participação no planeamento e gestão do Serviço Regional de Saúde e da articulação da sua actividade com os hospitais, com as USI das outras ilhas e com outras instituições do Serviço Regional de Saúde ou que com ele se relacionem."
+  },
+  "224792218": {
+   "fragment_id": "224821627",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito pessoal\n\nA acção da USICorvo dirige-se aos indivíduos, famílias, grupos e comunidade residentes na mesma ilha e aos nela deslocados temporariamente."
+  },
+  "224792219": {
+   "fragment_id": "224821628",
+   "type": 11,
+   "heading": "Artigo 5.º — Extensão de âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Extensão de âmbito\n\nO membro do Governo Regional competente na área da saúde pode determinar a extensão do âmbito territorial ou pessoal da USICorvo em acções que se mostrem necessárias, nomeadamente por motivo de catástrofe ou de fenómenos migratórios."
+  },
+  "224792220": {
+   "fragment_id": "224821629",
+   "type": 11,
+   "heading": "Artigo 6.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cooperação\n\nA USICorvo coopera com as unidades de saúde das outras ilhas, com outras instituições do Serviço Regional de Saúde e com quaisquer entidades que tenham objectivos convergentes com os da saúde, nomeadamente nas áreas da educação e da acção social."
+  },
+  "224792221": {
+   "fragment_id": "224821630",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos, serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos, serviços e suas competências"
+  },
+  "224792222": {
+   "fragment_id": "224821631",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "224792223": {
+   "fragment_id": "224821632",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão órgãos da USICorvo, com as competências previstas no presente diploma, os seguintes:\n\na) Conselho de administração;\n\nb) Conselho consultivo;\n\nc) Conselho técnico."
+  },
+  "224792224": {
+   "fragment_id": "224821633",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviços\n\nA USICorvo integra os serviços seguintes, que actuam nos termos previstos no presente diploma:\n\na) Serviço de prestação de cuidados de saúde;\n\nb) Serviços administrativos."
+  },
+  "224792225": {
+   "fragment_id": "224821634",
+   "type": 8,
+   "heading": "Secção II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos"
+  },
+  "224792226": {
+   "fragment_id": "224821635",
+   "type": 3,
+   "heading": "Subsecção I — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Conselho de administração"
+  },
+  "224792227": {
+   "fragment_id": "224821636",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição\n\n1 - O conselho de administração é integrado por um presidente, nomeado pelo membro do Governo Regional com competência em matéria de saúde de entre profissionais com habilitação adequada nos termos previstos no presente diploma.\n\n2 - O conselho de administração pode ainda incluir dois vogais com funções não executivas, nomeados pelo membro do Governo Regional com competência em matéria de saúde de entre profissionais com habilitação adequada de acordo com o estabelecido neste diploma."
+  },
+  "224792228": {
+   "fragment_id": "224821637",
+   "type": 11,
+   "heading": "Artigo 10.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Presidente\n\n1 - O presidente do conselho de administração é nomeado em comissão de serviço, nos termos legais, pelo período de três anos, renovável, de entre trabalhadores com funções públicas ou de entre outros profissionais, com habilitação académica não inferior a licenciatura, preferencialmente com currículo profissional que identifique experiência relacionada com a direcção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.\n\n2 - A remuneração do presidente do conselho de administração é fixada por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3 - É aplicável à comissão de serviço o regime constante na legislação em vigor."
+  },
+  "224792229": {
+   "fragment_id": "224821638",
+   "type": 11,
+   "heading": "Artigo 11.º — Vogais não executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vogais não executivos\n\n1 - Os vogais com funções não executivas são nomeados em comissão de serviço, nos termos legais, pelo período de três anos, renovável, de entre profissionais da função pública ou de entre privados, preferencialmente com currículo profissional que identifique experiência relacionada com a direcção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.\n\n2 - Os vogais com funções não executivas do conselho de administração exercem as funções correspondentes em acumulação ou não com as respeitantes às respectivas carreiras, quando as tenham, sendo as suas remunerações estabelecidas por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3 - É aplicável à comissão de serviço o regime constante na legislação em vigor."
+  },
+  "224792230": {
+   "fragment_id": "224821639",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências do conselho de administração\n\n1 - Compete, nomeadamente, ao conselho de administração:\n\na) Dentro das linhas orientadoras definidas para o Serviço Regional de Saúde, gerir os recursos humanos, materiais e financeiros colocados à sua disposição;\n\nb) Assegurar a prestação de cuidados de saúde à população da sua área de intervenção;\n\nc) Aprovar o regulamento da USICorvo;\n\nd) Definir as directrizes orientadoras da gestão e funcionamento da USICorvo e assegurar o seu cumprimento;\n\ne) Elaborar o plano anual de actividades e o orçamento;\n\nf) Elaborar o plano plurianual e o respectivo orçamento previsional;\n\ng) Elaborar o relatório anual de actividades e a conta de gerência;\n\nh) Assegurar a articulação entre os diversos serviços da USICorvo;\n\ni) Planear e coordenar as actividades de prestação de cuidados de saúde;\n\nj) Celebrar contratos-programa com a SAUDAÇOR, S. A., protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas actividades e visando atingir os seus objectivos;\n\nk) Promover a formação do pessoal;\n\nl) Determinar medidas adequadas sobre as reclamações e queixas dos utentes;\n\nm) Avaliar sistematicamente o desempenho global do funcionamento da USICorvo.\n\n2 - O conselho de administração exerce também as seguintes competências, que pode delegar no seu presidente, com possibilidade de subdelegação nos vogais:\n\na) Gerir os recursos humanos, financeiros, materiais e patrimoniais da USICorvo;\n\nb) Promover a cobrança e arrecadação das receitas;\n\nc) Autorizar a realização de despesas e o seu pagamento;\n\nd) Promover a organização da contabilidade e o cadastro dos bens;\n\ne) Contratar a prestação de serviços com terceiros.\n\n3 - O conselho de administração pode delegar nos vogais, na direcção clínica e na de enfermagem as competências para orientar e coordenar projectos, programas e sectores de actividade específicos, tendo em conta as respectivas áreas de recrutamento."
+  },
+  "224792231": {
+   "fragment_id": "224821640",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do presidente\n\nCompete em especial ao presidente do conselho de administração:\n\na) Representar a USICorvo em juízo e fora dele;\n\nb) Coordenar a actividade do conselho de administração;\n\nc) Convocar e presidir às reuniões do conselho de administração;\n\nd) Assegurar a correcta execução das deliberações do conselho de administração;\n\ne) Praticar os actos cuja competência lhe seja atribuída por lei, regulamento ou por delegação."
+  },
+  "224792232": {
+   "fragment_id": "224821641",
+   "type": 3,
+   "heading": "Subsecção II — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Conselho consultivo"
+  },
+  "224792233": {
+   "fragment_id": "224821642",
+   "type": 11,
+   "heading": "Artigo 14.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conselho consultivo\n\nO conselho consultivo é um órgão de participação junto do conselho de administração da USICorvo."
+  },
+  "224792234": {
+   "fragment_id": "224821643",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição\n\nO conselho consultivo terá a seguinte composição:\n\na) Dois representantes da Assembleia Municipal, por ela designados;\n\nb) O presidente da Câmara Municipal ou quem por ele for designado;\n\nc) Um representante da(de) cada uma da(s) misericórdia(s) com sede na ilha, por essa(s) entidade(s) designado;\n\nd) Um representante da(s) instituição(ões) particular(es) de solidariedade social sediada(s) na ilha, por ela(s) designado;\n\ne) O presidente do conselho de administração da USICorvo;\n\nf) Os vogais do conselho de administração da USICorvo."
+  },
+  "224792235": {
+   "fragment_id": "224821644",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências e funcionamento\n\n1 - Compete ao conselho consultivo, por sua iniciativa ou a solicitação dos órgãos de tutela do Serviço Regional de Saúde, nomeadamente do membro do Governo Regional competente em matéria de saúde ou do director regional competente na mesma matéria:\n\na) Emitir parecer sobre os planos e relatórios de actividades da USICorvo;\n\nb) Pronunciar-se sobre o funcionamento dos serviços de saúde na ilha e sobre quaisquer outras matérias relacionadas com os serviços de saúde;\n\nc) Aprovar o regulamento interno de funcionamento do conselho consultivo e submetê-lo a homologação do membro do Governo Regional com competência em matéria de saúde.\n\n2 - O conselho consultivo elege o seu presidente, por voto secreto, de entre os seus membros que não sejam trabalhadores com funções públicas do Serviço Regional de Saúde, dispondo o presidente de voto de qualidade.\n\n3 - O conselho consultivo reunirá anual ou extraordinariamente, por convocatória do seu presidente."
+  },
+  "224792236": {
+   "fragment_id": "224821645",
+   "type": 3,
+   "heading": "Subsecção III — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Conselho técnico"
+  },
+  "224792237": {
+   "fragment_id": "224821646",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho técnico\n\nO conselho técnico é um órgão de consulta e de apoio técnico da USICorvo."
+  },
+  "224792238": {
+   "fragment_id": "224821647",
+   "type": 11,
+   "heading": "Artigo 18.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Composição\n\nO conselho técnico tem a seguinte composição:\n\na) O presidente do conselho de administração da USICorvo;\n\nb) Os vogais do conselho de administração da USICorvo;\n\nc) Os directores clínicos e de enfermagem;\n\nd) Um representante dos técnicos superiores de saúde;\n\ne) Um representante dos técnicos de diagnóstico e terapêutica;\n\nf) Um representante dos técnicos superiores de serviço social."
+  },
+  "224792239": {
+   "fragment_id": "224821648",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências e funcionamento\n\n1 - Compete ao conselho técnico, designadamente:\n\na) Cooperar com o conselho de administração da USICorvo e com as direcções técnicas das entidades prestadoras de cuidados de saúde;\n\nb) Pronunciar-se, por iniciativa própria ou por solicitação dos órgãos referidos na alínea anterior sobre as matérias da sua competência, nomeadamente visando fomentar a articulação entre as entidades prestadoras de cuidados de saúde, harmonizar a actividade dos diferentes prestadores de cuidados e estimular a eficiência na utilização dos recursos humanos e financeiros disponíveis numa lógica de optimização, por forma a promover uma actuação técnica dentro de parâmetros de qualidade, no respeito pelos princípios da ética e da deontologia;\n\nc) Aprovar o regulamento interno de funcionamento do conselho técnico e submetê-lo a homologação do membro do Governo Regional com competência em matéria de saúde.\n\n2 - O conselho técnico elege o seu presidente, por voto secreto, de entre os seus membros, dispondo o presidente de voto de qualidade.\n\n3 - O conselho técnico reúne ordinariamente uma vez por mês, devendo as suas reuniões ser convocadas pelo seu presidente, com a antecedência mínima de cinco dias.\n\n4 - O conselho técnico pode também reunir por iniciativa de, pelo menos, metade dos seus membros."
+  },
+  "224792240": {
+   "fragment_id": "224821649",
+   "type": 8,
+   "heading": "Secção III — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Serviços"
+  },
+  "224792241": {
+   "fragment_id": "224821650",
+   "type": 3,
+   "heading": "Subsecção I — Serviço de prestação de cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Serviço de prestação de cuidados de saúde"
+  },
+  "224792242": {
+   "fragment_id": "224821651",
+   "type": 11,
+   "heading": "Artigo 20.º — Atribuições e organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atribuições e organização\n\nDentro das linhas orientadoras definidas para o Serviço Regional de Saúde, o serviço de prestação de cuidados de saúde da USICorvo efectiva a prestação de cuidados de saúde à população da sua área de influência, promovendo, nomeadamente:\n\na) A vigilância e a melhoria da saúde do indivíduo, da família e da comunidade;\n\nb) A informação da população sobre as indispensáveis noções básicas de saúde e de prevenção da doença, motivando e estimulando a participação activa da população;\n\nc) A profilaxia e controle das doenças transmissíveis, assegurando, nomeadamente, o fornecimento e a administração de vacinas;\n\nd) A vigilância da qualidade do saneamento básico, da higiene do meio e dos alimentos;\n\ne) A supervisão, directa e periódica, do estado de saúde de utentes em especial situação de risco, tais como grávidas, puérperas e mães que amamentam, crianças e idosos, bem como determinados grupos profissionais;\n\nf) A garantia do acompanhamento periódico dos utentes que sofram de doenças crónicas, tais como diabetes, doenças cardiovasculares, tuberculose, alcoolismo e outras que localmente for julgado necessário;\n\ng) A realização do diagnóstico, tão precoce quanto possível, e tratamento das doenças agudas e crónicas que não careçam de cuidados hospitalares, quer em regime ambulatório quer em regime de internamento;\n\nh) O encaminhamento directo para os serviços prestadores de cuidados hospitalares dos casos que excedam a sua capacidade de intervenção, assegurando o seu subsequente acompanhamento;\n\ni) O atendimento ou, quando necessário, o encaminhamento para serviços prestadores de cuidados hospitalares, das situações urgentes de doença ou acidente, assegurando o subsequente acompanhamento;\n\nj) O atendimento personalizado, exercido no âmbito dos cuidados essenciais de saúde;\n\nk) O exercício da actividade de educação para a saúde;\n\nl) A realização de estudos epidemiológicos."
+  },
+  "224792243": {
+   "fragment_id": "224821652",
+   "type": 11,
+   "heading": "Artigo 21.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Funcionamento\n\n1 - Cada profissional afecto ao serviço de prestação de cuidados de saúde pode ser incumbido do exercício programado de acções relativas aos vários sectores por que se organiza o serviço.\n\n2 - Para o eficaz exercício das atribuições do serviço de prestação de cuidados de saúde serão constituídas equipas multidisciplinares compostas por pessoal médico, de enfermagem e outros profissionais de saúde, de acordo com a natureza das actividades a desenvolver e os recursos disponíveis.\n\n3 - O acesso de utentes da USICorvo à consulta externa e, sempre que possível, aos serviços de urgência hospitalares depende de triagem prévia e referência a efectuar por aquela unidade de saúde.\n\n4 - Os Hospitais de Angra do Heroísmo, Horta e Ponta Delgada promoverão a deslocação dos respectivos médicos às unidades de saúde onde, nos termos da regulamentação aplicável, assegurarão, em cooperação com os profissionais das unidades de saúde, o exercício de actividades do domínio da consulta externa hospitalar para observação de doentes previamente referenciados pelos médicos da USICorvo.\n\n5 - Quando, na sequência do recurso de um utente aos serviços da USICorvo, se verifique a necessidade de assegurar o recurso ao ambulatório ou ao internamento especializado numa das unidades hospitalares da Região deve a própria unidade de saúde procurar assegurar todas as marcações necessárias e continuar a acompanhar o doente."
+  },
+  "224792244": {
+   "fragment_id": "224821653",
+   "type": 11,
+   "heading": "Artigo 22.º — Educação para a saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Educação para a saúde\n\nA educação para a saúde é uma actividade primordial da unidade de saúde, a relevar por todos os profissionais de saúde na sua relação directa com os utentes, devendo ainda, e nomeadamente, ser promovidas acções tendentes a:\n\na) Divulgar noções destinadas a sensibilizar o indivíduo, a família e a comunidade a promover e alcançar a saúde por meio dos seus próprios actos e esforços, difundindo as noções básicas de um estilo saudável;\n\nb) Promover e difundir as medidas tendentes à melhor utilização dos serviços de saúde pela população;\n\nc) Fomentar a participação da comunidade na prossecução dos objectivos da política de saúde."
+  },
+  "224792245": {
+   "fragment_id": "224821654",
+   "type": 11,
+   "heading": "Artigo 23.º — Unidades funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Unidades funcionais\n\n1 - Para os efeitos previstos no artigo anterior, o serviço de prestação de cuidados de saúde integra as seguintes unidades funcionais:\n\na) Unidade de saúde familiar e comunitária;\n\nb) Unidade de saúde pública;\n\nc) Unidade de diagnóstico e tratamento;\n\nd) Unidade de internamento;\n\ne) Unidade básica de urgência.\n\n2 - As unidades funcionais partilham as instalações, equipamentos e recursos humanos da USICorvo, em conformidade com o estabelecido no presente diploma e com as determinações do conselho de administração."
+  },
+  "224792246": {
+   "fragment_id": "224821655",
+   "type": 11,
+   "heading": "Artigo 24.º — Unidade de saúde familiar e comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Unidade de saúde familiar e comunitária\n\n1 - A unidade de saúde familiar e comunitária presta cuidados de saúde personalizados, dirigidos à população identificada através de listas de utentes, de modo a garantir facilidade de acesso, continuidade e globalidade dos mesmos.\n\n2 - No âmbito da saúde comunitária, presta cuidados de enfermagem e de apoio psicossocial, incluindo o domicílio dos utentes, com especial incidência no acompanhamento de comunidades e famílias com situações de risco ou vulnerabilidade em saúde, nomeadamente grávidas, recém-nascidos, pessoas com acentuada dependência física e funcional ou com doenças que requeiram acompanhamento mais próximo e regular.\n\n3 - A actividade da unidade de saúde familiar e comunitária é desenvolvida por médicos, enfermeiros, outros técnicos superiores e técnicos e pessoal administrativo."
+  },
+  "224792247": {
+   "fragment_id": "224821656",
+   "type": 11,
+   "heading": "Artigo 25.º — Unidade de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Unidade de saúde pública\n\n1 - A unidade de saúde pública organiza e assegura actividades no âmbito da protecção e promoção da saúde da comunidade, com incidência prioritária no meio ambiente, em geral, em meios específicos como as escolas e os locais de trabalho, bem como a prestação de cuidados de âmbito comunitário, designadamente no que se refere a grupos populacionais particularmente vulneráveis e problemas de saúde de grande impacte social.\n\n2 - Compete também à unidade de saúde pública o planeamento e a vigilância epidemiológica da saúde da população e dos seus determinantes e prestar colaboração em todas as actividades relativas ao planeamento em saúde.\n\n3 - A unidade de saúde pública abrange ainda o exercício dos poderes legalmente atribuídos às autoridades de saúde concelhia, nos termos e com os efeitos na legislação vigente sobre esta matéria."
+  },
+  "224792248": {
+   "fragment_id": "224821657",
+   "type": 11,
+   "heading": "Artigo 26.º — Unidade de diagnóstico e tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Unidade de diagnóstico e tratamento\n\nA unidade de diagnóstico e tratamento integra os recursos técnicos disponíveis da USICorvo, prestando apoio às restantes unidades funcionais."
+  },
+  "224792249": {
+   "fragment_id": "224821658",
+   "type": 11,
+   "heading": "Artigo 27.º — Unidade de internamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Unidade de internamento\n\n1 - A unidade de internamento presta cuidados de saúde em internamento, tendo como principais destinatários:\n\na) Doentes com doença aguda, necessitando de cuidados e vigilância que não possam ser garantidos no domicílio;\n\nb) Doentes em situação de agudização de doenças crónicas;\n\nc) Doentes em fase de reabilitação, após doença aguda ou agudização de doença crónica;\n\nd) Doentes convalescentes com altas hospitalares precoces;\n\ne) Doentes necessitados de cuidados paliativos, sem condições para serem tratados no próprio domicílio.\n\n2 - A actividade da unidade de internamento é desenvolvida por médicos, enfermeiros, pessoal administrativo e auxiliar e outros técnicos afectos para o efeito."
+  },
+  "224792250": {
+   "fragment_id": "224821659",
+   "type": 11,
+   "heading": "Artigo 28.º — Unidade básica de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Unidade básica de urgência\n\n1 - A unidade básica de urgência presta cuidados de saúde com carácter urgente.\n\n2 - A actividade da unidade básica de urgência é desenvolvida por médicos, enfermeiros, pessoal administrativo e auxiliar e outros técnicos afectados para o efeito, de acordo com as necessidades."
+  },
+  "224792251": {
+   "fragment_id": "224821660",
+   "type": 11,
+   "heading": "Artigo 29.º — Direcção clínica e de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direcção clínica e de enfermagem\n\nA USICorvo dispõe de direcção clínica e de enfermagem."
+  },
+  "224792252": {
+   "fragment_id": "224821661",
+   "type": 11,
+   "heading": "Artigo 30.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Funcionamento\n\n1 - A direcção clínica promove o funcionamento harmonioso das valências clínicas, coordena e orienta a prestação de cuidados médicos para garantir a acessibilidade dos utentes aos serviços de saúde e zela pela qualidade desses actos praticados na instituição.\n\n2 - A direcção de enfermagem orienta e coordena a prestação de cuidados de enfermagem, zelando pela correcção e pela qualidade técnica e humana desses cuidados prestados na instituição.\n\n3 - A direcção clínica e de enfermagem exercem nas respectivas áreas, as competências legalmente atribuídas, assim como as que lhes sejam delegadas ou subdelegadas nos termos do presente diploma.\n\n4 - O médico e o enfermeiro responsáveis pela direcção clínica e de enfermagem, respectivamente, são nomeados pelo membro do Governo Regional com competência em matéria de saúde, em comissão de serviço, pelo período de três anos, de entre médicos e enfermeiros, preferencialmente com pelo menos cinco anos de exercício.\n\n5 - O médico e o enfermeiro responsáveis pela direcção clínica e de enfermagem exercem as funções correspondentes em acumulação ou não com as respeitantes às respectivas carreiras, quando as tenham, sendo as suas remunerações estabelecidas por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde."
+  },
+  "224792253": {
+   "fragment_id": "224821662",
+   "type": 3,
+   "heading": "Subsecção II — Serviços administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Serviços administrativos"
+  },
+  "224792254": {
+   "fragment_id": "224821663",
+   "type": 11,
+   "heading": "Artigo 31.º — Serviços administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Serviços administrativos\n\nAos serviços administrativos cabe o desempenho de funções da área administrativa e auxiliar da USICorvo, nomeadamente no que se refere ao pessoal, expediente, arquivo, contabilidade, património e aprovisionamento."
+  },
+  "224792255": {
+   "fragment_id": "224821664",
+   "type": 11,
+   "heading": "Artigo 32.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Competências\n\nCompete aos serviços administrativos:\n\na) Executar as operações administrativas relacionadas com o recrutamento, gestão corrente e mobilidade do pessoal;\n\nb) Organizar e manter actualizado o cadastro e o registo biográfico do pessoal;\n\nc) Assegurar a recepção e expedição da correspondência e documentação;\n\nd) Marcar consultas e exames complementares de diagnóstico;\n\ne) Prestar apoio administrativo às unidades funcionais;\n\nf) Organizar e manter o arquivo geral da USICorvo;\n\ng) Emitir certidões;\n\nh) Organizar o trabalho dos motoristas e do pessoal auxiliar;\n\ni) Efectuar as operações de controlo da assiduidade e pontualidade do pessoal;\n\nj) Elaborar a proposta de orçamento da USICorvo;\n\nk) Organizar o projecto de orçamento, de acordo com as propostas dos serviços;\n\nl) Processar as remunerações devidas ao pessoal;\n\nm) Processar as despesas com aquisição de bens e serviços e encargos diversos;\n\nn) Controlar as contas correntes relativas a fornecedores e quaisquer outras entidades;\n\no) Pagar reembolsos e comparticipações aos utentes;\n\np) Assegurar as operações contabilísticas;\n\nq) Propor alterações orçamentais e transferências de verbas, de acordo com a execução efectuada e a evolução verificada nas despesas;\n\nr) Executar as operações administrativas relacionadas com a aquisição de bens e serviços e com a alienação de quaisquer bens;\n\ns) Emitir certidões;\n\nt) Promover, acompanhar e verificar as actividades de segurança, limpeza, manutenção e reparação das instalações e equipamentos;\n\nu) Administrar o parque automóvel;\n\nv) Organizar e manter actualizado o cadastro dos bens móveis e imóveis."
+  },
+  "224792256": {
+   "fragment_id": "224821665",
+   "type": 1,
+   "heading": "Capítulo III — Administração financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Administração financeira e patrimonial"
+  },
+  "224792257": {
+   "fragment_id": "224821666",
+   "type": 11,
+   "heading": "Artigo 33.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Instrumentos de gestão\n\n1 - A USICorvo utiliza os seguintes instrumentos de gestão económica e financeira:\n\na) Os documentos de prestação de contas previstos no Plano Oficial de Contas dos Serviços de Saúde, aprovado pela Portaria n.º 898/2000, de 28 de Setembro;\n\nb) Plano anual de actividades;\n\nc) Orçamento económico, o orçamento financeiro, bem como o orçamento de tesouraria.\n\n2 - A USICorvo elabora anualmente a respectiva conta de gerência da qual é remetido um exemplar à Secção Regional dos Açores do Tribunal de Contas.\n\n3 - A USICorvo utiliza também instrumentos adequados de gestão do pessoal e de aperfeiçoamento permanente do seu funcionamento, nomeadamente:\n\na) Sistema de avaliação do desempenho;\n\nb) Balanço social;\n\nc) Programa de formação do pessoal;\n\nd) Programas específicos de promoção da saúde;\n\ne) Sistemas de qualidade."
+  },
+  "224792258": {
+   "fragment_id": "224821667",
+   "type": 11,
+   "heading": "Artigo 34.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Receitas\n\nConstituem receitas da USICorvo:\n\na) As resultantes da sua actividade específica;\n\nb) Os rendimentos de bens próprios, resultantes da sua alienação e da constituição de direitos sobre eles;\n\nc) Doações, legados ou heranças;\n\nd) Outros rendimentos que por lei ou contrato lhe devam pertencer;\n\ne) Comparticipações, dotações, transferências e subsídios provenientes do Orçamento do Estado, do Orçamento da Região, do orçamento da segurança social ou de quaisquer entidades públicas ou privadas, bem como do Orçamento da União Europeia;\n\nf) Outras receitas legalmente previstas."
+  },
+  "224792259": {
+   "fragment_id": "224821668",
+   "type": 11,
+   "heading": "Artigo 35.º — Despesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Despesa\n\nConstituem despesa da USICorvo:\n\na) Os encargos com o seu funcionamento e com a prossecução das suas atribuições e das competências dos seus órgãos e serviços;\n\nb) Os encargos resultantes da execução de planos e programas plurianuais;\n\nc) Os custos de aquisição, construção e manutenção de bens e equipamentos;\n\nd) Os custos de aquisição de serviços."
+  },
+  "224792260": {
+   "fragment_id": "224821669",
+   "type": 11,
+   "heading": "Artigo 36.º — Plano oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Plano oficial\n\nAs receitas e as despesas da USICorvo são classificadas, orçamentadas e contabilizadas segundo o Plano Oficial de Contas dos Serviços de Saúde."
+  },
+  "224792261": {
+   "fragment_id": "224821670",
+   "type": 11,
+   "heading": "Artigo 37.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Património\n\n1 - Os bens, direitos e obrigações patrimoniais transferidos ou adquiridos nos termos deste diploma constituem património da Região Autónoma dos Açores e os respectivos registos são titulados à USI que os receber.\n\n2 - A USICorvo só poderá proceder a capitalizações de fundos ou à alienação, oneração ou cedência de bens ou direitos do seu património mediante autorização dos membros do Governo Regional com competências nas áreas das finanças e da saúde."
+  },
+  "224792262": {
+   "fragment_id": "224821671",
+   "type": 11,
+   "heading": "Artigo 38.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Gestão orçamental\n\nA gestão orçamental da USICorvo está sujeita às regras e princípios orientadores da SAUDAÇOR, S. A., à qual compete, igualmente, acompanhar a respectiva execução."
+  },
+  "224792263": {
+   "fragment_id": "224821672",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "224792264": {
+   "fragment_id": "224821673",
+   "type": 11,
+   "heading": "Artigo 39.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Transição de pessoal\n\nO pessoal do quadro de ilha do Corvo, afecto ao Posto de Saúde do Corvo, extinto pelo presente diploma, é afecto à USICorvo, mediante lista nominativa que será homologada pelo membro do Governo Regional com competência em matéria de saúde e publicada na BEP-Açores."
+  },
+  "224792265": {
+   "fragment_id": "224821674",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal dirigente e de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal dirigente e de chefia\n\n(referido no n.º 2 do artigo 1.º do diploma de aprovação da presente orgânica)\n\nMapa\n\nUnidade de Saúde da Ilha do Corvo\n\n(ver documento original)"
+  },
+  "224792212": {
+   "fragment_id": "224821621",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, na ilha do Corvo, em 14 de Outubro de 2010.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 10 de Novembro de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "224862619": {
+   "fragment_id": "224821636",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição",
+   "in_force_from": "2013-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "###### Artigo 9.º — Composição\n\nO conselho de administração é integrado por um presidente e dois vogais, um com funções executivas e outro com funções não executivas, nomeados pelo membro do Governo Regional com competência em matéria de saúde, nos termos previstos no presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224862620": {
+   "fragment_id": "224821638",
+   "type": 11,
+   "heading": "Artigo 11.º — Vogais executivos e não executivos",
+   "in_force_from": "2013-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "###### Artigo 11.º — Vogais executivos e não executivos\n\n1- Os vogais são nomeados em comissão de serviço, nos termos legais, pelo período de três anos, renovável, de entre trabalhadores com funções públicas ou de entre outros trabalhadores, preferencialmente com comprovada experiência relacionada com a direção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.\n\n2- O vogal com funções executivas exerce as funções correspondentes em acumulação, ou não, com as respeitantes à respetiva carreira, sendo a sua remuneração acrescida em 10% do respetivo vencimento base, no caso dos trabalhadores com funções públicas, e nos restantes casos por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3- O vogal com funções não executivas exerce as funções correspondentes em acumulação, ou não, com as respeitantes à respetiva carreira.\n\n4- É aplicável à comissão de serviço o regime constante na legislação em vigor.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224862621": {
+   "fragment_id": "224821639",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do conselho de administração",
+   "in_force_from": "2013-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "###### Artigo 12.º — Competências do conselho de administração\n\n1 - Compete, nomeadamente, ao conselho de administração:\n\na) Dentro das linhas orientadoras definidas para o Serviço Regional de Saúde, gerir os recursos humanos, materiais e financeiros colocados à sua disposição;\n\nb) Assegurar a prestação de cuidados de saúde à população da sua área de intervenção;\n\nc) Aprovar o regulamento da USICorvo;\n\nd) Definir as directrizes orientadoras da gestão e funcionamento da USICorvo e assegurar o seu cumprimento;\n\ne) Elaborar o plano anual de actividades e o orçamento;\n\nf) Elaborar o plano plurianual e o respectivo orçamento previsional;\n\ng) Elaborar o relatório anual de actividades e a conta de gerência;\n\nh) Assegurar a articulação entre os diversos serviços da USICorvo;\n\ni) Planear e coordenar as actividades de prestação de cuidados de saúde;\n\nj) Celebrar contratos-programa com a SAUDAÇOR, S. A., protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas actividades e visando atingir os seus objectivos;\n\nk) Promover a formação do pessoal;\n\nl) Determinar medidas adequadas sobre as reclamações e queixas dos utentes;\n\nm) Avaliar sistematicamente o desempenho global do funcionamento da USICorvo.\n\n2- O conselho de administração exerce também as seguintes competências, que pode delegar no seu presidente, com possibilidade de subdelegação no vogal a designar:\n\na) Gerir os recursos humanos, financeiros, materiais e patrimoniais da USICorvo;\n\nb) Promover a cobrança e arrecadação das receitas;\n\nc) Autorizar a realização de despesas e o seu pagamento;\n\nd) Promover a organização da contabilidade e o cadastro dos bens;\n\ne) Contratar a prestação de serviços com terceiros.\n\n3- O conselho de administração pode delegar no vogal a designar, na direção clínica e na de enfermagem, as competências para orientar e coordenar projetos, programas e setores de atividade específicos, tendo em conta as respetivas áreas de recrutamento.\n\n4- Em situação de ausência ou impedimento de ambos os membros do conselho de administração pode o membro do Governo Regional com competência em matéria de saúde exercer as competências previstas no n.º 1 ao abrigo de competência tutelar substitutiva.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224862622": {
+   "fragment_id": "224821640",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do presidente",
+   "in_force_from": "2013-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "###### Artigo 13.º — Competências do presidente\n\n1 - Compete em especial ao presidente do conselho de administração:\n\na) Representar a USICorvo em juízo e fora dele;\n\nb) Coordenar a actividade do conselho de administração;\n\nc) Convocar e presidir às reuniões do conselho de administração;\n\nd) Assegurar a correcta execução das deliberações do conselho de administração;\n\ne) Praticar os actos cuja competência lhe seja atribuída por lei, regulamento ou por delegação.\n\n2 - O Presidente do Conselho de administração tem voto de qualidade nas deliberações do Conselho de Administração\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224862623": {
+   "fragment_id": "224821674",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal dirigente e de chefia",
+   "in_force_from": "2013-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "## Anexo — Quadro de pessoal dirigente e de chefia\n\n(referido no n.º 2 do artigo 1.º do diploma de aprovação da presente orgânica)\n\nMapa\n\nUnidade de Saúde da Ilha do Corvo\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224863394": {
+   "fragment_id": "224821637",
+   "type": 11,
+   "heading": "Artigo 10.º — Presidente",
+   "in_force_from": "2015-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 16/2015/A - Diário da República n.º 163/2015, Série I de 2015-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70064737), em vigor a partir de 2015-08-22"
+   ],
+   "markdown": "###### Artigo 10.º — Presidente\n\n1 - O presidente do conselho de administração é nomeado para o exercício de mandato, nos termos legais, pelo período de três anos, renovável, de entre trabalhadores com funções públicas ou de entre outros profissionais, com habilitação académica não inferior a licenciatura, preferencialmente com currículo profissional que identifique experiência relacionada com a direção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.\n\n2 - A remuneração do presidente do conselho de administração é fixada por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 16/2015/A - Diário da República n.º 163/2015, Série I de 2015-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70064737), em vigor a partir de 2015-08-22"
+  },
+  "224863395": {
+   "fragment_id": "224821638",
+   "type": 11,
+   "heading": "Artigo 11.º — Vogais executivos e não executivos",
+   "in_force_from": "2015-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 16/2015/A - Diário da República n.º 163/2015, Série I de 2015-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70064737), em vigor a partir de 2015-08-22",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "###### Artigo 11.º — Vogais executivos e não executivos\n\n1 - Os vogais são nomeados para o exercício de mandatos, nos termos legais, pelo período de três anos, renovável, de entre trabalhadores com funções públicas ou de entre outros trabalhadores, preferencialmente com comprovada experiência relacionada com a direção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.\n\n2 - Os vogais com funções executivas e não executivas do conselho de administração exercem as funções correspondentes em acumulação, ou não, com as respeitantes às respetivas carreiras, quando as tenham, sendo as suas remunerações estabelecidas por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3 - (Revogado.)\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 16/2015/A - Diário da República n.º 163/2015, Série I de 2015-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70064737), em vigor a partir de 2015-08-22\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224863406": {
+   "fragment_id": "224821624",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2023-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Unidade de Saúde de Ilha do Corvo, doravante USICorvo, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, nos termos da lei.\n\n2 - A USICorvo é constituída pelo serviço público de saúde da ilha do Corvo.\n\n3 - A USICorvo exerce a sua actividade sob a superintendência e tutela do membro do Governo Regional com competência na área da saúde.\n\n4 - A coordenação, orientação e avaliação do funcionamento da USICorvo compete à direção regional competente em matéria da saúde e à Inspeção Regional de Saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28"
+  },
+  "224863407": {
+   "fragment_id": "224821636",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição",
+   "in_force_from": "2023-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "###### Artigo 9.º — Composição\n\nO conselho de administração é integrado por um presidente e dois vogais, todos com funções executivas, nomeados pelo membro do Governo Regional com competência em matéria de saúde nos termos previstos no presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224863408": {
+   "fragment_id": "224821638",
+   "type": 11,
+   "heading": "Artigo 11.º — Vogais executivos",
+   "in_force_from": "2023-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 16/2015/A - Diário da República n.º 163/2015, Série I de 2015-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70064737), em vigor a partir de 2015-08-22",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "###### Artigo 11.º — Vogais executivos\n\n1 - Os vogais são nomeados para o exercício de mandatos, nos termos legais, pelo período de três anos, renovável, de entre trabalhadores com funções públicas ou de entre outros trabalhadores, preferencialmente com comprovada experiência relacionada com a direção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.\n\n2 - Os vogais com funções executivas do conselho de administração exercem as funções correspondentes, em acumulação ou não, com as respeitantes às respetivas carreiras, quando as tenham, sendo as suas remunerações estabelecidas por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3 - (Revogado.)\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 16/2015/A - Diário da República n.º 163/2015, Série I de 2015-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70064737), em vigor a partir de 2015-08-22\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224863409": {
+   "fragment_id": "224821639",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do conselho de administração",
+   "in_force_from": "2023-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "###### Artigo 12.º — Competências do conselho de administração\n\n1 - Compete, nomeadamente, ao conselho de administração:\n\na) Dentro das linhas orientadoras definidas para o Serviço Regional de Saúde, gerir os recursos humanos, materiais e financeiros colocados à sua disposição;\n\nb) Assegurar a prestação de cuidados de saúde à população da sua área de intervenção;\n\nc) Aprovar o regulamento da USICorvo;\n\nd) Definir as directrizes orientadoras da gestão e funcionamento da USICorvo e assegurar o seu cumprimento;\n\ne) Elaborar o plano anual de actividades e o orçamento;\n\nf) Elaborar o plano plurianual e o respectivo orçamento previsional;\n\ng) Elaborar o relatório anual de actividades e a conta de gerência;\n\nh) Assegurar a articulação entre os diversos serviços da USICorvo;\n\ni) Planear e coordenar as actividades de prestação de cuidados de saúde;\n\nj) Celebrar contratos-programa, protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;\n\nk) Promover a formação do pessoal;\n\nl) Determinar medidas adequadas sobre as reclamações e queixas dos utentes;\n\nm) Avaliar sistematicamente o desempenho global do funcionamento da USICorvo.\n\n2- O conselho de administração exerce também as seguintes competências, que pode delegar no seu presidente, com possibilidade de subdelegação no vogal a designar:\n\na) Gerir os recursos humanos, financeiros, materiais e patrimoniais da USICorvo;\n\nb) Promover a cobrança e arrecadação das receitas;\n\nc) Autorizar a realização de despesas e o seu pagamento;\n\nd) Promover a organização da contabilidade e o cadastro dos bens;\n\ne) Contratar a prestação de serviços com terceiros.\n\n3- O conselho de administração pode delegar no vogal a designar, na direção clínica e na de enfermagem, as competências para orientar e coordenar projetos, programas e setores de atividade específicos, tendo em conta as respetivas áreas de recrutamento.\n\n4 - Em situação de ausência ou impedimento da maioria dos membros do conselho de administração, pode o membro do Governo Regional com competência em matéria de saúde exercer as competências previstas no n.º 1 ao abrigo de competência tutelar substitutiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  },
+  "224863410": {
+   "fragment_id": "224821666",
+   "type": 11,
+   "heading": "Artigo 33.º — Instrumentos de gestão",
+   "in_force_from": "2023-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28"
+   ],
+   "markdown": "###### Artigo 33.º — Instrumentos de gestão\n\n1 - A USICorvo utiliza os seguintes instrumentos de gestão económica e financeira:\n\na) Os documentos de prestação de contas legalmente previstos;\n\nb) Plano anual de actividades;\n\nc) Orçamento económico, o orçamento financeiro, bem como o orçamento de tesouraria.\n\n2 - A USICorvo elabora anualmente a respectiva conta de gerência da qual é remetido um exemplar à Secção Regional dos Açores do Tribunal de Contas.\n\n3 - A USICorvo utiliza também instrumentos adequados de gestão do pessoal e de aperfeiçoamento permanente do seu funcionamento, nomeadamente:\n\na) Sistema de avaliação do desempenho;\n\nb) Balanço social;\n\nc) Programa de formação do pessoal;\n\nd) Programas específicos de promoção da saúde;\n\ne) Sistemas de qualidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28"
+  },
+  "224863411": {
+   "fragment_id": "224821669",
+   "type": 11,
+   "heading": "Artigo 36.º — Plano oficial",
+   "in_force_from": "2023-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28"
+   ],
+   "markdown": "###### Artigo 36.º — Plano oficial\n\nAs receitas e as despesas da USICorvo são classificadas, orçamentadas e contabilizadas segundo o normativo contabilístico em vigor, o SNC-AP.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28"
+  },
+  "224863412": {
+   "fragment_id": "224821671",
+   "type": 11,
+   "heading": "Artigo 38.º — Gestão orçamental",
+   "in_force_from": "2023-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28"
+   ],
+   "markdown": "###### Artigo 38.º — Gestão orçamental\n\n1 - A gestão orçamental da USICorvo está sujeita às regras definidas em termos de execução orçamental pelo SNC-AP e pelos princípios orientadores da direção regional competente em matéria da saúde, à qual compete, igualmente, acompanhar a respetiva execução.\n\n2 - Os orçamentos e alterações orçamentais são submetidos a apreciação da direção regional competente em matéria da saúde e aprovados nos termos da legislação em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28"
+  },
+  "224863413": {
+   "fragment_id": "224821674",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal dirigente e de chefia",
+   "in_force_from": "2023-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+   ],
+   "markdown": "## Anexo — Quadro de pessoal dirigente e de chefia\n\n(referido no n.º 2 do artigo 1.º do diploma de aprovação da presente orgânica)\nMapa\n\nUnidade de Saúde da Ilha do Corvo\n\n| Número de lugares | Designação dos cargos | Remunerações |\n| --- | --- | --- |\n|  |  |  |\n|  | Pessoal dirigente |  |\n| 1 | Presidente do conselho de administração... | (a) |\n| 2 | Vogal executivo... | (b) |\n| 1 | Diretor clínico... | (c) |\n| 1 | Diretor de enfermagem... | (c) |\n| 1 | Delegado de saúde concelhio... | (d) |\n\n(a) De acordo com o n.º 2 do artigo 10.º do presente diploma.\n\n(b) De acordo com o n.º 2 do artigo 11.º do presente diploma.\n\n(c) De acordo com o n.º 5 do artigo 30.º do presente diploma.\n\n(d) De acordo com o Decreto Regulamentar Regional n.º 11/2001/A, de 10 de setembro, alterado pelo Decreto Regulamentar Regional n.º 6/2010/A, de 6 de abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 34/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145), em vigor a partir de 2023-11-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2013/A - Diário da República n.º 93/2013, Série I de 2013-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-261099), em vigor a partir de 2013-05-16"
+  }
+ }
+}

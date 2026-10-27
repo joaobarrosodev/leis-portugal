@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0050:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0050-20221113",
+ "dre_path": null,
+ "source_lastmod": "2022-11-13",
+ "versions": [
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "01995L0050-20190726",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9dd2be1484b0abca",
+    "5c9caa5cf8dab4a5",
+    "f7966cb363d1f70b",
+    "bd05fd81ad7f4c1b",
+    "d6a09230e9ecd19c",
+    "5aaa1663f18b9b9c",
+    "b1358b90b7bd15e8",
+    "f494c9cd786769be",
+    "649e31216f1c3a2a",
+    "dcc5bef15c2b8fa1",
+    "a15efbe9d08955af",
+    "35ff66f349446912",
+    "5c2c9898420c0bfa",
+    "2183d67723a25b6b",
+    "08b66beb65f6c7c3",
+    "d664376e2a8dcecd",
+    "852174729551523b",
+    "07f48f3ea69a9bca",
+    "62ce6b20316274c2",
+    "d7afab43645367f5",
+    "7d9671a87560cd75",
+    "720af75c92791b10",
+    "3d845b6c40c74b6a",
+    "7e6f1809736c67a7"
+   ]
+  },
+  {
+   "date": "2022-11-13",
+   "future": false,
+   "celex": "01995L0050-20221113",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 9.º-A",
+    "Suprime Artigo 9.º-AA",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime INFRACÇÕES",
+    "Suprime 1. Categoria de risco I",
+    "Suprime 2. Categoria de risco II",
+    "Suprime 3. Categoria de risco III",
+    "Suprime ANEXO III",
+    "Suprime MODELO DE FORMULÁRIO NORMALIZADO PARA A ELABORAÇÃO DO RELATÓRIO A ENVIAR À COMISSÃO SOBRE INFRACÇÕES E SANÇÕES",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2256b77f3209c482"
+   ]
+  }
+ ],
+ "fragments": {
+  "9dd2be1484b0abca": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Outubro de 1995\n\nrelativa a procedimentos uniformes de controlo do transporte rodoviário de mercadorias perigosas"
+  },
+  "5c9caa5cf8dab4a5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente diretiva aplica-se aos controlos que os Estados-Membros exercem sobre o transporte rodoviário de mercadorias perigosas por veículos que circulem no seu território ou que entrem no mesmo provenientes de um Estado terceiro.\n\nA presente directiva não se aplica ao transporte de mercadorias perigosas efectuado por veículos que sejam propriedade das Forças Armadas ou sob a responsabilidade destas.\n\n2. Todavia, a presente directiva em nada afecta o direito de controlo pelos Estados-membros, no respeito pelo direito comunitário, dos transportes nacionais e internacionais de mercadorias perigosas efectuados através do seu território por veículos não abrangidos pela presente directiva."
+  },
+  "f7966cb363d1f70b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n— «veículo»: qualquer veículo a motor, completo ou incompleto, destinado a circular em estrada, provido de pelo menos quatro rodas e com uma velocidade máxima de projecto superior a 25 km/h, bem como os seus reboques, com excepção dos veículos que se deslocam sobre carris, dos tractores agrícolas e florestais e de qualquer máquina móvel,\n\n— «mercadorias perigosas»: as mercadorias perigosas consideradas como tal na Directiva 94/55/CE,\n\n— «transporte»: qualquer operação de transporte rodoviário efectuada por um veículo total ou parcialmente, nas vias públicas situadas no território de um Estado-membro, incluindo as actividades de carga e descarga abrangidas pela Directiva 94/55/CE, sem prejuízo do regime previsto pelas legislações dos Estados-membros no que se refere à responsabilidade decorrente dessas operações,\n\n— «empresa»: qualquer pessoa singular ou pessoa coletiva, com ou sem fins lucrativos, qualquer associação ou grupo de pessoas sem personalidade jurídica, com ou sem fins lucrativos, bem como qualquer organismo que releve da autoridade pública, quer seja dotado de personalidade jurídica própria, quer dependa de uma autoridade com personalidade jurídica própria, que transporte, carregue e descarregue ou faça transportar mercadorias perigosas, ou que armazene temporariamente, reúna, acondicione ou receba mercadorias perigosas no âmbito de uma operação de transporte e se situe no território da Comunidade,\n\n— «controlo»: qualquer controlo ou inspecção, verificação ou qualquer formalidade efectuados pelas autoridades competentes, por razões de segurança ligadas ao transporte de mercadorias perigosas."
+  },
+  "bd05fd81ad7f4c1b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros assegurarão que uma percentagem representativa dos transportes rodoviários de mercadorias perigosas fique sujeita aos controlos previstos na presente directiva, a fim de verificar se esses transportes estão a cumprir a legislação relativa ao transporte rodoviário de mercadorias perigosas.\n\n2. Esses controlos serão efectuados no território de um Estado-membro, de acordo com o disposto no artigo 3.º do Regulamento (CEE) n.º 4060/89 e no artigo 1.º do Regulamento (CEE) n.º 3912/92."
+  },
+  "d6a09230e9ecd19c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para efectuar os controlos previstos na presente directiva, os Estados-membros utilizarão a lista de controlo constante do anexo I. Deverá ser entregue ao condutor do veículo, e apresentado sempre que solicitado, um exemplar dessa lista ou um certificado do resultado do controlo, emitido pela autoridade que o efectuou, a fim de simplificar ou evitar, na medida do possível, outros controlos posteriores. O disposto no presente número não afecta o direito de os Estados-membros efectuarem acções específicas de controlo pontuais.\n\n2. Os controlos serão efectuados por sondagem e devem abranger, na medida do possível, uma parte alargada da rede rodoviária.\n\n3. Os locais escolhidos para esses controlos devem permitir que os veículos encontrados em infracção sejam tornados conformes ou, sempre que a autoridade que efectua o controlo assim o entender, imobilizados, no próprio local ou num local designado para o efeito pela referida autoridade, sem que isso ponha em risco a segurança.\n\n4. Se for caso disso, e desde que não ponha em risco a segurança, podem ser recolhidas amostras dos produtos transportados, para análisde em laboratórios reconhecidos pela autoridade competente.\n\n5. Os controlos não devem ultrapassar um prazo razoável."
+  },
+  "5aaa1663f18b9b9c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSem prejuízo de outras sanções que possam ser aplicadas, quando tenham sido detectadas uma ou mais das infracções enumeradas nomeadamente no anexo II durante o transporte rodoviário de mercadorias perigosas, os veículos envolvidos podem ser imobilizados — no próprio local ou num local designado para esse fim pelas autoridades de controlo — e obrigados a tornar-se conformes antes de prosseguirem viagem, ou podem ser objecto de outras medidas apropriadas em função de ciurcunstâncias ou dos imperativos de segurança, incluido, se necessário, a recusa de entrada desses veículos na Comunidade."
+  },
+  "b1358b90b7bd15e8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Podem igualmente ser efectuadas acções de controlo nas empresas, quer a título preventivo quer quando tiverem sido detectadas na estrada infracções que ponham em risco a segurança do transporte de mercadorias perigosas.\n\n2. Essas acções de controlo devem ter por objectivo assegurar que as condições de segurança em que os transportes rodoviários de mercadorias perigosas são efectuados estão em conformidade com a legislação aplicável na matéria.\n\nQuando tenham sido detectadas uma ou mais infracções enumeradas nomeadamente no anexo II no transporte rodoviário de mercadorias perigosas, os transportes envolvidos devem ser tornados conformes antes de abondonar a empresa ou ser objecto de outras medidas adequadas."
+  },
+  "f494c9cd786769be": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-membros prestarão assistência mútua para a correcta aplicação da presente directiva.\n\n2. As infracções graves ou reiteradas que ponham em perigo a segurança do transporte de mercadorias perigosas cometidas por um veículo ou uma empresa de outro Estado-membro devem ser comunicadas às autoridades competentes do Estado-membro de matrícula do veículo ou no qual a empresa se encontra estabelecida.\n\nAs autoridades competentes do Estado-membro onde seja detectada uma infracção grave ou reiterada podem solicitar às autoridades competentes do Estado-membro de registo do veículo ou de estabelecimento da empresa a aplicação de sanções apropriadas aos infractores.\n\nEstas últimas autoridades comunicarão às autoridades competentes do Estado-membro onde as infracções foram detectadas as medidas eventualmente aplicadas ao transportador ou à empresa."
+  },
+  "649e31216f1c3a2a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSe, na sequência de um controlo efectuado na estrada a um veículo registado noutro Estado-membro, houver indícios suficientes para supor que terão sido cometidas infracções graves ou reiteradas não detectáveis durante esse controlo por falta de elementos, as autoridades competentes dos Estados-membros envolvidos colaborarão entre si no esclarecimento da situação. Se, para isso, o Estado-membro competente tiver de efectuar uma acção de controlo na empresa, os resultados desse controlo devem ser comunicados ao Estado-membro interessado."
+  },
+  "dcc5bef15c2b8fa1": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1.\n\nRelativamente a cada ano civil, e o mais tardar doze meses após o final desse ano, todos os Estados-membros apresentarão à Comissão um relatório, de acordo com o modelo constante do anexo III, sobre a aplicação da presente directiva, com as seguintes indicações:\n\n— se possível, volume recenseado ou calculado de transporte rodoviário de mercadorias perigosas (em toneladas transportadas ou em toneladas/quilómetros),\n\n— número de controlos efectuados,\n\n— número de veículos controlados, com indicação da matrícula (veículos registados no território nacional, e noutros Estados-membros da União Europeia ou em Estados terceiros),\n\n— número de infracções detectadas e tipo de infracções,\n\n— número e tipo de sanções aplicadas.\n\n2. Pela primeira vez em 1999 e, em seguida, pelo menos de três em três anos, a Comissão enviará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva pelos Estados-membros, de acordo com as informações previstas no n.º 1."
+  },
+  "a15efbe9d08955af": {
+   "fragment_id": "Artigo 9.º-A",
+   "type": "artigo",
+   "heading": "Artigo 9.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-A\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 9.º-AA no que diz respeito a alterar os anexos a fim de os adaptar ao progresso científico e técnico nos domínios abrangidos pela presente diretiva, nomeadamente para ter em conta as alterações da Diretiva 2008/68/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b6fdd073-e07a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_6#E0001))."
+  },
+  "35ff66f349446912": {
+   "fragment_id": "Artigo 9.º-AA",
+   "type": "artigo",
+   "heading": "Artigo 9.º-AA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-AA\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 9.º-A é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 9.º-A pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^2^](http://publications.europa.eu/resource/cellar/b6fdd073-e07a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_6#E0002)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 9.º-A só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "5c2c9898420c0bfa": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva antes de 1 de Janeiro de 1997. Desse facto, informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir um referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito nacional que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "2183d67723a25b6b": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "08b66beb65f6c7c3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "07f48f3ea69a9bca": {
+   "fragment_id": "INFRACÇÕES",
+   "type": "divisao",
+   "heading": "INFRACÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFRACÇÕES\n\nPara efeitos da presente directiva, a lista não exaustiva *infra*, subdividida em três categorias de risco (a categoria I corresponde ao risco mais grave), serve de orientação quanto ao que deve ser considerado uma infracção.\n\nA determinação da categoria de risco adequada deve ter em conta as circunstâncias específicas e ser deixada ao critério do organismo ou do agente que efectua o controlo na estrada.\n\nAs infracções não enumeradas nas categorias de risco devem ser classificadas com base na definição da categoria.\n\nNo caso de se terem verificado várias infracções por unidade de transporte, apenas a categoria de risco mais grave (conforme previsto no ponto 39 do anexo I da presente directiva) deverá ser utilizada para efeitos da elaboração do relatório (anexo III da presente directiva)."
+  },
+  "62ce6b20316274c2": {
+   "fragment_id": "1. Categoria de risco I",
+   "type": "divisao",
+   "heading": "1. Categoria de risco I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Categoria de risco I\n\nA violação das disposições aplicáveis do ADR constitui um risco elevado de morte, de lesões corporais graves ou de danos significativos para o ambiente e deve normalmente conduzir à adopção imediata das medidas correctivas adequadas, designadamente à imobilização do veículo.\n\nInfracções:\n\n1) As mercadorias perigosas encaminhadas não são admitidas a transporte.\n\n2) Houve perda de matérias perigosas.\n\n3) Trata-se de um modo de transporte proibido ou de um meio de transporte inadequado.\n\n4) Trata-se de um transporte a granel num contentor estruturalmente inadequado para essa utilização.\n\n5) O veículo não dispõe de um certificado de aprovação adequado.\n\n6) O veículo deixou de satisfazer as normas de aprovação e constitui um perigo imediato (se esta última condição não se verificar, deve classificar-se na categoria de risco II).\n\n7) A embalagem utilizada não foi aprovada.\n\n8) A embalagem não está conforme às instruções de embalagem aplicáveis.\n\n9) Não foram satisfeitas as disposições especiais aplicáveis à embalagem em comum.\n\n10) Foram violadas as regras aplicáveis à sujeição e à estiva da carga.\n\n11) Foram violadas as regras aplicáveis ao carregamento em comum de volumes.\n\n12) Não foram respeitadas as taxas de enchimento admissíveis para as cisternas ou volumes.\n\n13) Não foram cumpridas as disposições relativas à limitação das quantidades transportadas numa unidade de transporte.\n\n14) Não foi assinalada a presença de mercadorias perigosas (documentação, marcação e etiquetagem dos volumes, sinalização e painéis do veículo, etc.).\n\n15) O veículo não dispõe de sinalização ou de painéis.\n\n16) Não existe informação pertinente sobre a matéria transportada que permita determinar uma infracção correspondente à categoria de risco I (designadamente número ONU, designação oficial de transporte, grupo de embalagem, etc.).\n\n17) O condutor não dispõe de certificado de formação profissional válido.\n\n18) Foi utilizada uma chama ou uma lâmpada não protegida.\n\n19) A proibição de fumar não foi observada."
+  },
+  "d7afab43645367f5": {
+   "fragment_id": "2. Categoria de risco II",
+   "type": "divisao",
+   "heading": "2. Categoria de risco II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Categoria de risco II\n\nA violação das disposições aplicáveis do ADR constitui um risco de lesões corporais ou de danos para o ambiente e deverá normalmente conduzir à adopção das medidas correctivas apropriadas, como, se possível e adequado, a exigência de rectificação no local do controlo ou, o mais tardar, quando da conclusão da operação de transporte em curso.\n\nInfracções:\n\n1) A unidade de transporte comporta mais de um reboque/semi-reboque.\n\n2) O veículo não satisfaz as normas de aprovação, mas não apresenta perigo imediato.\n\n3) O veículo não dispõe de extintores de incêndio operacionais; o extintor pode ser considerado operacional caso falte apenas o selo obrigatório e/ou a indicação do prazo de validade. Esta regra não se aplica no caso de o extintor claramente já não estar operacional (por ex., o manómetro indica 0).\n\n4) O veículo não dispõe do equipamento exigido no ADR ou nas instruções escritas.\n\n5) As datas dos ensaios e das inspecções e o período de utilização das embalagens, dos grandes recipientes para granel (GRG) ou das grandes embalagens não foram respeitados.\n\n6) Trata-se de um transporte de volumes com embalagens, GRG ou grandes embalagens danificados ou ainda de embalagens vazias e por limpar danificadas.\n\n7) Os volumes são transportados num contentor estruturalmente inadequado para tal fim.\n\n8) As cisternas/contentores-cisterna (inclusive quando vazios e por limpar) estão mal fechados.\n\n9) A embalagem exterior está mal fechada, no caso do transporte de embalagens em comum.\n\n10) A etiquetagem, a marcação ou a sinalização estão incorrectas.\n\n11) Não há instruções escritas em conformidade com o ADR ou as instruções escritas não são pertinentes para as mercadorias transportadas.\n\n12) O veículo não está adequadamente vigiado ou estacionado."
+  },
+  "7d9671a87560cd75": {
+   "fragment_id": "3. Categoria de risco III",
+   "type": "divisao",
+   "heading": "3. Categoria de risco III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Categoria de risco III\n\nA violação das disposições aplicáveis traduz-se num risco reduzido de lesões corporais ou de danos para o ambiente e as medidas correctivas adequadas não necessitam de ser tomadas no local, podendo ser adoptadas posteriormente nas instalações da empresa.\n\nInfracções:\n\n1) A dimensão dos painéis ou das etiquetas, ou ainda das letras, figuras ou símbolos apostos nesses painéis ou etiquetas não é regulamentar.\n\n2) Os documentos de transporte não contêm as informações necessárias, com excepção das previstas no ponto 16 da categoria de risco I.\n\n3) O certificado de formação não se encontra a bordo do veículo, mas o condutor pode comprovar que possui tal certificado."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "3d845b6c40c74b6a": {
+   "fragment_id": "MODELO DE FORMULÁRIO NORMALIZADO PARA A ELABORAÇÃO DO RELATÓRIO A ENVIAR À COMISSÃO SOBRE INFRACÇÕES E SANÇÕES",
+   "type": "divisao",
+   "heading": "MODELO DE FORMULÁRIO NORMALIZADO PARA A ELABORAÇÃO DO RELATÓRIO A ENVIAR À COMISSÃO SOBRE INFRACÇÕES E SANÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO DE FORMULÁRIO NORMALIZADO PARA A ELABORAÇÃO DO RELATÓRIO A ENVIAR À COMISSÃO SOBRE INFRACÇÕES E SANÇÕES\n\n---"
+  },
+  "7e6f1809736c67a7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b6fdd073-e07a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_6#src.E0001)) Diretiva 2008/68/CE do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, relativa ao transporte terrestre de mercadorias perigosas (JO L 260 de 30.9.2008, p. 13).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b6fdd073-e07a-11e9-9c4e-01aa75ed71a1.0019.03/DOC_6#src.E0002)) JO L 123 de 12.5.2016, p. 1."
+  },
+  "2256b77f3209c482": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01995L0050 — PT — 13.11.2022 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31995L0050) [DIRECTIVA 95/50/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31995L0050) [de 6 de Outubro de 1995](http://publications.europa.eu/resource/celex/31995L0050) [relativa a procedimentos uniformes de controlo do transporte rodoviário de mercadorias perigosas](http://publications.europa.eu/resource/celex/31995L0050) (JO L 249, 17.10.1995, p.35)\n\n**Revogada por:**\n\n- [Diretiva (UE) 2022/1999 do Parlamento Europeu e do Conselho de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022L1999) — L 274 — 1 — 24.10.2022"
+  }
+ }
+}

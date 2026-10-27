@@ -1,0 +1,429 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0255:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0255-20171211",
+ "dre_path": null,
+ "source_lastmod": "2017-12-11",
+ "versions": [
+  {
+   "date": "2010-03-26",
+   "future": false,
+   "celex": "32010R0255",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b16fee01d3e428b",
+    "3e0d4dd1931ef48f",
+    "4c5779bd49621902",
+    "b928af397baaccd4",
+    "43a56b5abe43e99e",
+    "39dfa6c83c7efbf5",
+    "8bcf10c44a5a3617",
+    "979ee654f03b31ce",
+    "2e2fc6e133eb944e",
+    "c0d61c8a1808d67b",
+    "903e9ff1cfa71260",
+    "e71851a14cd14fa5",
+    "a4afc96116a0bf9d",
+    "a9d2fe8ef0cd03ac",
+    "6bce40e23de8cb19",
+    "971d03eca4261404",
+    "f3f464c9a0bfe943",
+    "f17e46d961dd25cf"
+   ]
+  },
+  {
+   "date": "2012-12-04",
+   "future": false,
+   "celex": "02010R0255-20121204",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0923:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 923/2012 DA COMISSÃO de 26 de setembro de 2012",
+     "published": null,
+     "celex": "32012R0923"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Quadro de gestão do fluxo de tráfego aéreo",
+    "Altera Artigo 5.º — Obrigações dos Estados-Membros no que respeita à unidade central ATFM",
+    "Altera Artigo 16.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Lista das regras ICAO para efeitos da gestão do fluxo de tráfego aéreo"
+   ],
+   "fragments": [
+    "b6940966b4124eb5",
+    "3e0d4dd1931ef48f",
+    "b1eec3996d7645bc",
+    "3697e00595f8177f",
+    "43a56b5abe43e99e",
+    "6091c33a7bfbf14c",
+    "8bcf10c44a5a3617",
+    "979ee654f03b31ce",
+    "2e2fc6e133eb944e",
+    "c0d61c8a1808d67b",
+    "903e9ff1cfa71260",
+    "e71851a14cd14fa5",
+    "a4afc96116a0bf9d",
+    "a9d2fe8ef0cd03ac",
+    "6bce40e23de8cb19",
+    "971d03eca4261404",
+    "ee3eced32f1505c8",
+    "10220b9774fa9034",
+    "8aa7760781c80c90",
+    "d4eb702e3d44f5c8"
+   ]
+  },
+  {
+   "date": "2016-06-23",
+   "future": false,
+   "celex": "02010R0255-20160623",
+   "acts": [
+    {
+     "id": "eu:celex:32016R1006:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2016/1006 DA COMISSÃO de 22 de junho de 2016",
+     "published": null,
+     "celex": "32016R1006"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Notas",
+    "Adita Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo",
+    "Suprime Lista das regras ICAO para efeitos da gestão do fluxo de tráfego aéreo"
+   ],
+   "fragments": [
+    "86ca4d9a9da96d70",
+    "3e0d4dd1931ef48f",
+    "a2c5ca8336430a02",
+    "3697e00595f8177f",
+    "43a56b5abe43e99e",
+    "6091c33a7bfbf14c",
+    "8bcf10c44a5a3617",
+    "979ee654f03b31ce",
+    "2e2fc6e133eb944e",
+    "c0d61c8a1808d67b",
+    "903e9ff1cfa71260",
+    "e71851a14cd14fa5",
+    "a4afc96116a0bf9d",
+    "a9d2fe8ef0cd03ac",
+    "6bce40e23de8cb19",
+    "971d03eca4261404",
+    "ee3eced32f1505c8",
+    "10220b9774fa9034",
+    "dd0773d3a14a2de0",
+    "a7bf96fa4cf706c5"
+   ]
+  },
+  {
+   "date": "2017-12-11",
+   "future": false,
+   "celex": "02010R0255-20171211",
+   "acts": [
+    {
+     "id": "eu:celex:32017R2159:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2017/2159 DA COMISSÃO de 20 de novembro de 2017",
+     "published": null,
+     "celex": "32017R2159"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Definições",
+    "Altera Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "86ca4d9a9da96d70",
+    "3e0d4dd1931ef48f",
+    "3c1f1e4247037568",
+    "3697e00595f8177f",
+    "43a56b5abe43e99e",
+    "6091c33a7bfbf14c",
+    "8bcf10c44a5a3617",
+    "979ee654f03b31ce",
+    "2e2fc6e133eb944e",
+    "c0d61c8a1808d67b",
+    "903e9ff1cfa71260",
+    "e71851a14cd14fa5",
+    "a4afc96116a0bf9d",
+    "a9d2fe8ef0cd03ac",
+    "6bce40e23de8cb19",
+    "971d03eca4261404",
+    "ee3eced32f1505c8",
+    "10220b9774fa9034",
+    "c5aae935210f9977",
+    "4492a223a2b209d2"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b16fee01d3e428b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Março de 2010\n\nque estabelece regras comuns de gestão do fluxo de tráfego aéreo\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu («regulamento relativo ao espaço aéreo») [([^1])](http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018.02/DOC_1#ntr1-L_2010080PT.01001001-E0001), e, nomeadamente, o seu artigo 6.º, n.º 7,\n\nConsiderando o seguinte:\n\n(1) A Comissão deve estabelecer medidas em matéria de gestão do fluxo de tráfego aéreo (a seguir designada ATFM) com o objectivo de optimizar a capacidade disponível na utilização do espaço aéreo e reforçar os processos ATFM.\n\n(2) Nos termos do artigo 8.º, n.º 1, do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018.02/DOC_1#ntr2-L_2010080PT.01001001-E0002) a Organização Europeia para a Segurança da Navegação Aérea (Eurocontrol) recebeu um mandato no sentido de elaborar regras de execução em matéria de ATFM. O presente regulamento baseia-se no relatório de 7 de Dezembro de 2007 resultante do referido mandato.\n\n(3) A aplicação uniforme de regras e procedimentos específicos no espaço aéreo do céu único europeu é fundamental para garantir uma utilização optimizada da capacidade disponível de controlo do tráfego aéreo mediante a gestão e a exploração eficazes da função ATFM.\n\n(4) O presente regulamento não deve abranger operações e treinos militares, conforme previsto no artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004. Porém, as aeronaves militares que operam em regime de tráfego aéreo geral devem estar subordinadas a medidas ATFM quando operam ou tencionam operar no espaço aéreo ou nos aeroportos a que se aplicam medidas ATFM.\n\n(5) Nos termos do artigo 13.º do Regulamento (CE) n.º 549/2004, os interesses essenciais dos Estados-Membros em matéria de política de segurança ou defesa devem ser salvaguardados na definição e aplicação de medidas ATFM.\n\n(6) O Eurocontrol criou uma unidade central única para a ATFM, responsável pelo planeamento, coordenação e execução de medidas ATFM, tendo em conta as recomendações da Organização da Aviação Civil Internacional (ICAO). Os Estados-Membros devem adoptar as medidas necessárias de modo a garantir que a unidade central ATFM optimize os efeitos globais das medidas ATFM na rede europeia de gestão do tráfego aéreo (a seguir designada REGTA).\n\n(7) As medidas ATFM devem basear-se em princípios enunciados pela ICAO e todas as partes no sistema ATFM devem aderir a regras que garantem que a capacidade de controlo do tráfego aéreo é utilizada de forma segura e em toda a extensão do possível.\n\n(8) As medidas ATFM devem ter em conta a disponibilidade de rotas e de espaço aéreo nomeadamente através da aplicação da utilização flexível do espaço aéreo por todas as partes interessadas, incluindo a célula de gestão do espaço aéreo, prevista pelo Regulamento (CE) n.º 2150/2005 da Comissão, de 23 de Dezembro de 2005, que estabelece regras comuns para a utilização flexível do espaço aéreo [([^3])](http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018.02/DOC_1#ntr3-L_2010080PT.01001001-E0003).\n\n(9) Para optimizar a capacidade disponível da REGTA, incluindo os aeroportos, devem ser estabelecidos procedimentos destinados a reforçar a coerência entre as faixas horárias aeroportuárias e os planos de voo.\n\n(10) Deve ser facultado aos Estados-Membros e partes interessadas em processos ATFM, tempo suficiente para dar cumprimento às regras de gestão do fluxo de tráfego aéreo.\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3e0d4dd1931ef48f": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece os requisitos aplicáveis à gestão do fluxo de tráfego aéreo (a seguir designada ATFM) com o objectivo de optimizar a capacidade disponível da rede europeia de gestão do tráfego aéreo (a seguir designada REGTA) e reforçar os processos ATFM.\n\n2. O presente regulamento é aplicável dentro do espaço aéreo referido no artigo 1.º, n.º 3, do Regulamento (CE) n.º 551/2004:\n\na) A todos os voos destinados a serem operados ou operados em regime de tráfego aéreo geral e em conformidade com a totalidade ou parte das regras de voo por instrumentos a seguir, (IFR);\n\nb) A todas as fases dos voos mencionados na alínea a) e à gestão do tráfego aéreo.\n\n3. O presente regulamento é aplicável às partes a seguir indicadas, ou agentes actuando em seu nome, que participam nos processos ATFM:\n\na) Operadores de aeronaves,\n\nb) Unidades do serviço de tráfego aéreo (a seguir designado ATS), incluindo gabinetes de informação ATS e serviços de controlo dos aeródromos;\n\nc) Serviços de informação aeronáutica;\n\nd) Entidades que participam na gestão do espaço aéreo;\n\ne) Entidades gestoras dos aeroportos;\n\nf) Unidade central para a ATFM;\n\ng) Unidades ATFM locais;\n\nh) Coordenadores de faixas horárias nos aeroportos coordenados."
+  },
+  "4c5779bd49621902": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004 e do artigo 2.º do Regulamento (CEE) n.º 95/93 [([^4])](http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018.02/DOC_1#ntr4-L_2010080PT.01001001-E0004).\n\nDe igual modo, entende-se por:\n\n1. «Medida de gestão do fluxo de tráfego aéreo (ATFM)», medida adoptada para garantir a gestão do fluxo de tráfego aéreo e a gestão da capacidade.\n\n2. «Operador», uma pessoa, organização ou empresa que participa ou se propõe participar numa operação de uma aeronave.\n\n3. «Regras de voo por instrumentos (IFR)», as regras de voo por instrumentos definidas no anexo 2 da Convenção de Chicago de 1944 sobre a aviação civil internacional (a seguir, «Convenção de Chicago»).\n\n4. «Gabinete de informação dos serviços de tráfego aéreo (ATS)», uma unidade ATS criada para receber relatórios sobre os ATS e planos de voo apresentados antes da primeira entrega de uma autorização do controlo do tráfego aéreo.\n\n5. «Unidade local de gestão do fluxo de tráfego aéreo (ATFM)», uma entidade de gestão do fluxo que actua em nome de uma ou mais outras entidades de gestão do fluxo como interface entre a unidade central ATFM e uma unidade ou grupo de unidades ATS.\n\n6. «Situação crítica», uma situação inabitual ou crise que envolve uma perda significativa de capacidade da REGTA, ou um desequilíbrio importante entre a capacidade da REGTA e a procura, ou ainda uma falha grave no fluxo de informação, numa ou várias partes da REGTA.\n\n7. «Faixa horária de partida da gestão do fluxo de tráfego aéreo (ATFM)», hora calculada de descolagem, atribuída pela unidade central ATFM, com uma tolerância horária gerida pela unidade ATS local.\n\n8. «Orientação das rotas e do tráfego», políticas e procedimentos para a utilização de rotas pelas aeronaves.\n\n9. «Plano de voo múltiplo», mais de um plano de voo para o mesmo voo previsto entre dois aeroportos.\n\n10. «Configuração sectorial de uma unidade de serviços de tráfego aéreo (ATS)», descrição quadridimensional de um sector, ou grupo de sectores, do espaço aéreo de uma unidade ATS, que pode ser explorado com carácter permanente ou temporário.\n\n11. «Tempo de rolagem no aeródromo», o valor temporal predeterminado, desde a remoção dos calços até à descolagem, expresso em minutos e válido durante as operações aeroportuárias normais.\n\n12. «Posição de voo actualizada», posição da aeronave, actualizada através dos dados de vigilância, dos dados do plano de voo ou dos relatórios de posição.\n\n13. «Autorização do controlo do tráfego aéreo», a autorização concedida a uma aeronave para prosseguir a sua operação em condições especificadas por uma unidade de controlo do tráfego aéreo.\n\n14. «Suspensão do plano de voo», o processo iniciado por uma entidade que procede à ATFM para garantir que o operador altera o plano de voo antes da realização deste.\n\n15. «Serviço aéreo», um voo ou uma série de voos para o transporte de passageiros, carga e/ou correio mediante remuneração e/ou em execução de um contrato de fretamento.\n\n16. «Registo de exploração», um registo do sistema ATFM, convertido em base de dados para permitir uma pesquisa rápida de dados ATFM."
+  },
+  "b928af397baaccd4": {
+   "fragment_id": "Artigo 3.º — Quadro de gestão do fluxo de tráfego aéreo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Quadro de gestão do fluxo de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Quadro de gestão do fluxo de tráfego aéreo\n\n1. O planeamento, a coordenação e a execução das medidas ATFM pelas partes a que se refere o artigo 1.º, n.º 3, cumprem as disposições da ICAO especificadas no anexo.\n\n2. A ATFM rege-se pelos seguintes princípios:\n\na) O objectivo das medidas ATFM consiste em: i) prevenir uma procura excessiva de tráfego aéreo em relação à capacidade declarada de controlo de tráfego aéreo (ATC) dos sectores e aeroportos, ii) utilizar em toda a medida do possível a capacidade da REGTA para optimizar a eficiência desta e minimizar os efeitos adversos para os operadores, iii) optimizar a capacidade da REGTA disponibilizada através do desenvolvimento e da aplicação de medidas de reforço da capacidade pelas unidades ATS, iv) apoiar a gestão das situações críticas;\n\ni) prevenir uma procura excessiva de tráfego aéreo em relação à capacidade declarada de controlo de tráfego aéreo (ATC) dos sectores e aeroportos,\n\nii) utilizar em toda a medida do possível a capacidade da REGTA para optimizar a eficiência desta e minimizar os efeitos adversos para os operadores,\n\niii) optimizar a capacidade da REGTA disponibilizada através do desenvolvimento e da aplicação de medidas de reforço da capacidade pelas unidades ATS,\n\niv) apoiar a gestão das situações críticas;\n\nb) As unidades ATFM locais e a unidade central ATFM são consideradas parte da função ATFM;\n\n3. A atribuição de faixas horárias de partida ATFM dará prioridade aos voos em função da sua ordem de entrada prevista no local em que a medida ATFM se aplicar, a menos que circunstâncias específicas exijam a aplicação de uma regra de prioridade distinta, que seja formalmente aprovada e se revele vantajosa para a REGTA.\n\nO primeiro parágrafo é aplicável a voos que não podem aceitar a opção de reencaminhamento para evitar ou aliviar zonas congestionadas, tendo em conta a localização e a dimensão da zona congestionada."
+  },
+  "43a56b5abe43e99e": {
+   "fragment_id": "Artigo 4.º — Obrigações gerais dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigações gerais dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações gerais dos Estados-Membros\n\n1. Os Estados-Membros garantem que as partes a que se refere o artigo 1.º, n.º 3, dispõem da função ATFM 24 horas por dia.\n\n2. A definição e aplicação das medidas ATFM deve ser compatível com os requisitos dos Estados-Membros em matéria de segurança e defesa, a fim de garantir a eficiência do planeamento, repartição e utilização do espaço aéreo em benefício das partes a que se refere o artigo 1.º, n.º 3.\n\n3. São estabelecidos procedimentos coerentes de cooperação entre as partes que participam na função ATFM, as unidades ATS e as entidades que participam na gestão do espaço aéreo, a fim de optimizar a utilização deste.\n\n4. É criado um documento de referência comum que contém as políticas, os procedimentos e a descrição para a orientação das rotas e do tráfego. A publicação da disponibilidade de rotas nas informações aeronáuticas nacionais deve, se for caso disso, ser totalmente coerente com o referido documento de referência comum.\n\n5. Os procedimentos comuns para solicitar uma derrogação à utilização de uma faixa horária de partida ATFM são estabelecidos em conformidade com as disposições da ICAO, especificadas no anexo. Tais procedimentos são coordenados com a unidade central ATFM e publicados nas informações aeronáuticas nacionais."
+  },
+  "39dfa6c83c7efbf5": {
+   "fragment_id": "Artigo 5.º — Obrigações dos Estados-Membros no que respeita à unidade central ATFM",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos Estados-Membros no que respeita à unidade central ATFM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos Estados-Membros no que respeita à unidade central ATFM\n\nOs Estados-Membros garantem que a unidade central ATFM:\n\na) Optimiza os efeitos globais das prestações na REGTA através do planeamento, da coordenação e da aplicação de medidas ATFM;\n\nb) Consulta os operadores sobre a definição de medidas ATFM;\n\nc) Garante a aplicação efectiva de medidas ATFM, em cooperação com unidades ATFM locais;\n\nd) Identifica, em coordenação com unidades ATFM locais, rotas alternativas para evitar ou aliviar zonas congestionadas, tendo em conta os efeitos globais das prestações na REGTA;\n\ne) Oferece um reencaminhamento para os voos que permitam optimizar o efeito da alínea d);\n\nf) Presta informação oportuna sobre ATFM aos operadores e às unidades ATS, a qual inclui: i) medidas ATFM previstas, ii) impacto das medidas ATFM na hora de descolagem e no perfil de voo de cada voo;\n\ni) medidas ATFM previstas,\n\nii) impacto das medidas ATFM na hora de descolagem e no perfil de voo de cada voo;\n\ng) Acompanha os casos de ausência de planos de voo e de apresentação de planos de voo múltiplos;\n\nh) Suspende um plano de voo quando, tendo em conta a tolerância horária, não é possível respeitar a faixa horária de partida ATFM e se desconhece a nova hora prevista de remoção dos calços;\n\ni) Acompanha o número de derrogações concedidas em conformidade com o artigo 4.º, n.º 5."
+  },
+  "8bcf10c44a5a3617": {
+   "fragment_id": "Artigo 6.º — Obrigações gerais das unidades ATS",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações gerais das unidades ATS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações gerais das unidades ATS\n\n1. Quando tiver de ser aplicada uma medida ATFM, as unidades ATS coordenam-se com a unidade central ATFM, através da unidade ATFM local, a fim de garantir que a escolha da medida se efectua tendo em conta a optimização dos efeitos globais das prestações na REGTA.\n\n2. Se necessário, os gabinetes de informação ATS facilitam o intercâmbio de informações entre pilotos ou operadores e a unidade local ou a unidade central ATFM.\n\n3. As unidades ATS garantem que as medidas ATFM aplicadas aos aeroportos são coordenadas com a entidade gestora do aeroporto em causa, a fim de assegurar a eficiência do planeamento e utilização do aeroporto em benefício de todas as partes a que se refere o artigo 1.º, n.º 3.\n\n4. As unidades ATS notificam a unidade central ATFM, através da unidade ATFM local, de todas as ocorrências que possam afectar a capacidade de controlo do tráfego aéreo ou a procura de tráfego aéreo.\n\n5. As unidades ATS facultam oportunamente à unidade central ATFM os dados a seguir indicados e as suas ulteriores actualizações, garantindo a sua qualidade:\n\na) Disponibilidade de espaço aéreo e estruturas das rotas,\n\nb) Configurações e activações dos sectores de unidades ATS,\n\nc) Tempos de rolagem no aeródromo,\n\nd) Capacidades do sector de controlo do tráfego aéreo e do aeroporto,\n\ne) Disponibilidade de rota, nomeadamente a que resulta da aplicação da utilização flexível do espaço aéreo, em conformidade com o Regulamento (CE) n.º 2150/2005,\n\nf) Posições de voo actualizadas,\n\ng) Desvios em relação aos planos de voo,\n\nh) Disponibilidade de espaço aéreo, nomeadamente a que resulta da aplicação da utilização flexível do espaço aéreo, em conformidade com o Regulamento (CE) n.º 2150/2005,\n\ni) Horas reais de descolagem dos voos.\n\nOs dados são colocados à disposição das partes a que se refere o artigo 1.º, n.º 3, e facultados, a título gratuito, à/pela unidade central ATFM.\n\n6. A unidade ATS do aeroporto de partida garante que:\n\na) Se um voo está subordinado a uma faixa horária de partida ATFM, esta é incluída na autorização do controlo do tráfego aéreo;\n\nb) Os voos respeitam as faixas horárias de partida ATFM;\n\nc) Os voos que não respeitam a hora prevista de remoção dos calços respectivos, tendo em conta a tolerância horária estabelecida, não recebem autorização de descolagem;\n\nd) Os voos cujo plano de voo foi rejeitado ou suspenso não recebem autorização de descolagem."
+  },
+  "979ee654f03b31ce": {
+   "fragment_id": "Artigo 7.º — Obrigações gerais dos operadores",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Obrigações gerais dos operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações gerais dos operadores\n\n1. Cada voo previsto é abrangido por um único plano de voo. Este plano de voo reflecte correctamente o perfil de voo previsto.\n\n2. Todas as medidas ATFM pertinentes e as alterações destas são incorporadas na operação de voo prevista e comunicadas ao piloto.\n\n3. Os operadores que partam de um aeroporto não subordinado a uma faixa horária de partida ATFM têm a responsabilidade de respeitar a hora prevista de remoção dos calços, tendo em conta a tolerância horária estabelecida nas disposições pertinentes da ICAO, especificadas no anexo.\n\n4. Se um plano de voo tiver sido suspenso em conformidade com o artigo 5.º, alínea h), o operador em causa providencia a actualização ou o cancelamento do plano de voo."
+  },
+  "2e2fc6e133eb944e": {
+   "fragment_id": "Artigo 8.º — Obrigações gerais das entidades gestoras dos aeroportos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Obrigações gerais das entidades gestoras dos aeroportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações gerais das entidades gestoras dos aeroportos\n\nAs entidades gestoras dos aeroportos notificam a unidade central ATFM, directamente ou através da unidade ATFM local ou das unidades ATS ou de ambas, de todas as ocorrências que possam afectar a capacidade de controlo do tráfego aéreo ou a procura de tráfego aéreo. Se a notificação for feita directamente, informam a unidade ATFM local e as unidades ATS."
+  },
+  "c0d61c8a1808d67b": {
+   "fragment_id": "Artigo 9.º — Coerência entre os planos de voo e as faixas horárias aeroportuárias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Coerência entre os planos de voo e as faixas horárias aeroportuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Coerência entre os planos de voo e as faixas horárias aeroportuárias\n\n1. Os Estados-Membros garantem que, a pedido de um coordenador de faixas horárias aeroportuárias ou de uma entidade gestora de um aeroporto coordenado, a unidade central ATFM ou a unidade ATFM local lhe faculte o plano de voo aprovado de um voo operado nesse aeroporto, antes que tal voo se realize. Os coordenadores de faixas horárias aeroportuárias ou as entidades gestoras de aeroportos coordenados providenciam o acesso aos planos de voo aprovados, facultados pela unidade central ATFM ou pela unidade ATFM local.\n\n2. Antes do voo, os operadores prestam aos aeroportos de partida e de chegada as informações necessárias que permitam estabelecer uma correlação entre o código de identificação do voo constante do plano de voo e o código notificado para a faixa horária aeroportuária correspondente.\n\n3. Qualquer operador, entidade gestora de aeroporto e unidade ATS pode comunicar ao coordenador de faixas horárias aeroportuárias os casos de operação reiterada de serviços aéreos a horas significativamente diferentes das faixas horárias aeroportuárias atribuídas ou de utilização de faixas horárias de forma significativamente distinta da indicada no momento da atribuição, se tal prejudicar as operações aeroportuárias ou de tráfego aéreo.\n\n4. Os Estados-Membros garantem que a unidade central ATFM comunica aos coordenadores de faixas horárias aeroportuárias os casos de operação reiterada de serviços aéreos a horas significativamente diferentes das faixas horárias aeroportuárias atribuídas ou de utilização de faixas horárias de forma significativamente distinta da indicada no momento da atribuição, se tal prejudicar a ATFM."
+  },
+  "903e9ff1cfa71260": {
+   "fragment_id": "Artigo 10.º — Obrigações em caso de situações críticas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Obrigações em caso de situações críticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações em caso de situações críticas\n\n1. Os Estados-Membros garantem que a unidade central ATFM estabelece e publica procedimentos ATFM de gestão de situações críticas, a fim de minimizar a perturbação da REGTA.\n\n2. Na preparação para situações críticas, as unidades ATS e as entidades gestoras dos aeroportos coordenam com os operadores afectados por situações críticas a importância e o conteúdo dos procedimentos de emergência, incluindo eventuais alterações das regras de prioridade.\n\nOs procedimentos de emergência incluem:\n\na) Acordos de organização e de coordenação,\n\nb) Medidas ATFM destinadas a gerir o acesso às zonas afectadas, a fim de impedir uma procura excessiva de tráfego aéreo em relação à capacidade declarada da totalidade ou parte do espaço aéreo ou dos aeroportos em causa,\n\nc) Circunstâncias, condições e procedimentos para a aplicação aos voos de regras de prioridade que respeitem os interesses essenciais das políticas de segurança e de defesa dos Estados-Membros,\n\nd) Acordos de recuperação."
+  },
+  "e71851a14cd14fa5": {
+   "fragment_id": "Artigo 11.º — Controlo do cumprimento das medidas ATFM",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Controlo do cumprimento das medidas ATFM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Controlo do cumprimento das medidas ATFM\n\n1. Os Estados-Membros garantem que, quando a taxa de cumprimento das faixas horárias de partida ATFM num aeroporto de partida for igual ou inferior a 80 % durante um ano, a unidade ATS desse aeroporto presta informações pertinentes sobre o incumprimento e sobre as medidas adoptadas para garantir o respeito das faixas horárias de partida ATFM. Tais medidas são mencionadas num relatório a apresentar pelo Estado-Membro em causa à Comissão.\n\n2. A unidade ATS do aeroporto em causa presta informações pertinentes sobre eventuais incumprimentos em caso de rejeição ou suspensão de um plano de voo nesse aeroporto e sobre as medidas adoptadas para garantir o seu cumprimento. Tais medidas são mencionadas num relatório a apresentar pelo Estado-Membro em causa à Comissão.\n\n3. Os Estados-Membros garantem que:\n\na) A unidade central ATFM notifica o Estado-Membro que concede derrogações superiores a 0,6 % das partidas anuais desse mesmo Estado-Membro;\n\nb) O Estado-Membro que recebe a notificação prevista na alínea a) elabora um relatório com indicação de pormenores sobre as derrogações concedidas, que apresenta à Comissão.\n\n4. Os Estados-Membros garantem que, em caso de incumprimento do disposto no artigo 5.º, alínea g) a unidade central ATFM notifica o operador do incumprimento.\n\n5. Os operadores apresentam à unidade central ATFM um relatório sobre cada incumprimento de medidas ATFM, com indicação de pormenores sobre as circunstâncias que levaram à ausência de plano de voo ou a planos de voo múltiplos e as medidas adoptadas para corrigir tal incumprimento.\n\n6. Os Estados-Membros garantem que a unidade central ATFM elabora um relatório anual, com indicação de pormenores sobre a ausência de planos de voo ou sobre a apresentação de planos de voo múltiplos. Tal relatório é apresentado à Comissão.\n\n7. Os Estados-Membros procedem a uma análise anual do cumprimento das medidas ATFM para garantir que as partes referidas no n.º 3 do artigo 1.º melhorem o respeito de tais medidas."
+  },
+  "a4afc96116a0bf9d": {
+   "fragment_id": "Artigo 12.º — Avaliação do desempenho",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação do desempenho\n\n1. Para efeitos da aplicação do artigo 11.º, os Estados-Membros garantem que a unidade central ATFM apresente relatórios anuais indicativos da qualidade da ATFM que incluam:\n\na) As causas das medidas ATFM;\n\nb) O impacto das medidas ATFM;\n\nc) O cumprimento das medidas ATFM;\n\nd) As contribuições das partes mencionadas no artigo 1.º, n.º 3, para a optimização do efeito global da rede.\n\n2. Os Estados-Membros garantem que a unidade central ATFM elabora e mantém um arquivo dos dados ATFM mencionados no artigo 6.º, n.º 5, planos de voo, registos de exploração e dados contextuais pertinentes.\n\nOs dados mencionados no primeiro parágrafo são conservados durante 2 anos a partir da sua apresentação e colocados à disposição da Comissão, dos Estados-Membros, das unidades ATS e dos operadores.\n\nEstes dados são colocados à disposição dos coordenadores e dos operadores aeroportuários para apoiar a sua avaliação periódica da capacidade declarada."
+  },
+  "a9d2fe8ef0cd03ac": {
+   "fragment_id": "Artigo 13.º — Requisitos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Requisitos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisitos de segurança\n\nOs Estados-Membros garantem a realização de uma avaliação da segurança, que inclua a identificação dos perigos, bem como a avaliação e a diminuição dos riscos, antes da introdução de eventuais alterações significativas dos sistemas e procedimentos ATFM, incluindo a avaliação de um processo de gestão da segurança que trate de todo o ciclo de vida do sistema de gestão do tráfego aéreo."
+  },
+  "6bce40e23de8cb19": {
+   "fragment_id": "Artigo 14.º — Requisitos suplementares",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Requisitos suplementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Requisitos suplementares\n\n1. Os Estados-Membros garantem que o pessoal das partes a que se refere o artigo 1.º, n.º 3, e que participa nas actividades ATFM:\n\na) Seja devidamente informado das disposições do presente regulamento;\n\nb) Seja devidamente formado e qualificado para desempenhar as suas funções.\n\n2. Os Estados-Membros tomam as medidas necessárias para garantir que as partes a que se refere o artigo 1.º, n.º 3, responsáveis por funções ATFM:\n\na) Elaborem e mantenham manuais de operações que contenham as instruções e as informações necessárias para permitir que o seu pessoal de operações aplique as disposições do presente regulamento;\n\nb) Garantam que tais manuais são coerentes, acessíveis e actualizados e que a sua actualização e distribuição estão subordinadas a uma gestão adequada da qualidade e da configuração da documentação;\n\nc) Garantam que os métodos de trabalho e os procedimentos operacionais cumprem o disposto no presente regulamento."
+  },
+  "971d03eca4261404": {
+   "fragment_id": "Artigo 15.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanções\n\nOs Estados-Membros estabelecerão as normas sancionatórias aplicáveis a infracções ao presente regulamento e tomarão as medidas necessárias para assegurar que tais sanções são aplicadas. As sanções previstas devem ser efectivas, proporcionadas e dissuasivas. Os Estados-Membros devem notificar as referidas normas sancionatórias à Comissão até 26 de Setembro de 2011 e notificar sem demora alterações subsequentes às referidas normas."
+  },
+  "f3f464c9a0bfe943": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 26 de Setembro de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 25 de Março de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "f17e46d961dd25cf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018.02/DOC_1#ntc1-L_2010080PT.01001001-E0001) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018.02/DOC_1#ntc2-L_2010080PT.01001001-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018.02/DOC_1#ntc3-L_2010080PT.01001001-E0003) [JO L 342 de 24.12.2005, p. 20](http://publications.europa.eu/resource/oj/JOL_2005_342_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018.02/DOC_1#ntc4-L_2010080PT.01001001-E0004) [JO L 14 de 22.1.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_014_R_TOC)."
+  },
+  "b6940966b4124eb5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Março de 2010\n\nque estabelece regras comuns de gestão do fluxo de tráfego aéreo\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu («regulamento relativo ao espaço aéreo») ([^1^](http://publications.europa.eu/resource/cellar/90e39c44-82ef-4fa0-86d3-5a12eee413a6.0018.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 6.º, n.º 7,\n\n(1) A Comissão deve estabelecer medidas em matéria de gestão do fluxo de tráfego aéreo (a seguir designada ATFM) com o objectivo de optimizar a capacidade disponível na utilização do espaço aéreo e reforçar os processos ATFM.\n\n(2) Nos termos do artigo 8.º, n.º 1, do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») ([^2^](http://publications.europa.eu/resource/cellar/90e39c44-82ef-4fa0-86d3-5a12eee413a6.0018.03/DOC_1#E0002)) a Organização Europeia para a Segurança da Navegação Aérea (Eurocontrol) recebeu um mandato no sentido de elaborar regras de execução em matéria de ATFM. O presente regulamento baseia-se no relatório de 7 de Dezembro de 2007 resultante do referido mandato.\n\n(3) A aplicação uniforme de regras e procedimentos específicos no espaço aéreo do céu único europeu é fundamental para garantir uma utilização optimizada da capacidade disponível de controlo do tráfego aéreo mediante a gestão e a exploração eficazes da função ATFM.\n\n(4) O presente regulamento não deve abranger operações e treinos militares, conforme previsto no artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004. Porém, as aeronaves militares que operam em regime de tráfego aéreo geral devem estar subordinadas a medidas ATFM quando operam ou tencionam operar no espaço aéreo ou nos aeroportos a que se aplicam medidas ATFM.\n\n(5) Nos termos do artigo 13.º do Regulamento (CE) n.º 549/2004, os interesses essenciais dos Estados-Membros em matéria de política de segurança ou defesa devem ser salvaguardados na definição e aplicação de medidas ATFM.\n\n(6) O Eurocontrol criou uma unidade central única para a ATFM, responsável pelo planeamento, coordenação e execução de medidas ATFM, tendo em conta as recomendações da Organização da Aviação Civil Internacional (ICAO). Os Estados-Membros devem adoptar as medidas necessárias de modo a garantir que a unidade central ATFM optimize os efeitos globais das medidas ATFM na rede europeia de gestão do tráfego aéreo (a seguir designada REGTA).\n\n(7) As medidas ATFM devem basear-se em princípios enunciados pela ICAO e todas as partes no sistema ATFM devem aderir a regras que garantem que a capacidade de controlo do tráfego aéreo é utilizada de forma segura e em toda a extensão do possível.\n\n(8) As medidas ATFM devem ter em conta a disponibilidade de rotas e de espaço aéreo nomeadamente através da aplicação da utilização flexível do espaço aéreo por todas as partes interessadas, incluindo a célula de gestão do espaço aéreo, prevista pelo Regulamento (CE) n.º 2150/2005 da Comissão, de 23 de Dezembro de 2005, que estabelece regras comuns para a utilização flexível do espaço aéreo ([^3^](http://publications.europa.eu/resource/cellar/90e39c44-82ef-4fa0-86d3-5a12eee413a6.0018.03/DOC_1#E0003)).\n\n(9) Para optimizar a capacidade disponível da REGTA, incluindo os aeroportos, devem ser estabelecidos procedimentos destinados a reforçar a coerência entre as faixas horárias aeroportuárias e os planos de voo.\n\n(10) Deve ser facultado aos Estados-Membros e partes interessadas em processos ATFM, tempo suficiente para dar cumprimento às regras de gestão do fluxo de tráfego aéreo.\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b1eec3996d7645bc": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004 e do artigo 2.º do Regulamento (CEE) n.º 95/93 ([^4^](http://publications.europa.eu/resource/cellar/90e39c44-82ef-4fa0-86d3-5a12eee413a6.0018.03/DOC_1#E0004)).\n\nDe igual modo, entende-se por:\n\n1. «Medida de gestão do fluxo de tráfego aéreo (ATFM)», medida adoptada para garantir a gestão do fluxo de tráfego aéreo e a gestão da capacidade.\n\n2. «Operador», uma pessoa, organização ou empresa que participa ou se propõe participar numa operação de uma aeronave.\n\n3. «IFR», sigla usada para designar as regras de voo por instrumentos.\n\n4. «Gabinete de informação dos serviços de tráfego aéreo (ATS)», uma unidade ATS criada para receber relatórios sobre os ATS e planos de voo apresentados antes da primeira entrega de uma autorização do controlo do tráfego aéreo.\n\n5. «Unidade local de gestão do fluxo de tráfego aéreo (ATFM)», uma entidade de gestão do fluxo que actua em nome de uma ou mais outras entidades de gestão do fluxo como interface entre a unidade central ATFM e uma unidade ou grupo de unidades ATS.\n\n6. «Situação crítica», uma situação inabitual ou crise que envolve uma perda significativa de capacidade da REGTA, ou um desequilíbrio importante entre a capacidade da REGTA e a procura, ou ainda uma falha grave no fluxo de informação, numa ou várias partes da REGTA.\n\n7. «Faixa horária de partida da gestão do fluxo de tráfego aéreo (ATFM)», hora calculada de descolagem, atribuída pela unidade central ATFM, com uma tolerância horária gerida pela unidade ATS local.\n\n8. «Orientação das rotas e do tráfego», políticas e procedimentos para a utilização de rotas pelas aeronaves.\n\n9. «Plano de voo múltiplo», mais de um plano de voo para o mesmo voo previsto entre dois aeroportos.\n\n10. «Configuração sectorial de uma unidade de serviços de tráfego aéreo (ATS)», descrição quadridimensional de um sector, ou grupo de sectores, do espaço aéreo de uma unidade ATS, que pode ser explorado com carácter permanente ou temporário.\n\n11. «Tempo de rolagem no aeródromo», o valor temporal predeterminado, desde a remoção dos calços até à descolagem, expresso em minutos e válido durante as operações aeroportuárias normais.\n\n12. «Posição de voo actualizada», posição da aeronave, actualizada através dos dados de vigilância, dos dados do plano de voo ou dos relatórios de posição.\n\n13. «Autorização do controlo do tráfego aéreo», a autorização concedida a uma aeronave para prosseguir a sua operação em condições especificadas por uma unidade de controlo do tráfego aéreo.\n\n14. «Suspensão do plano de voo», o processo iniciado por uma entidade que procede à ATFM para garantir que o operador altera o plano de voo antes da realização deste.\n\n15. «Serviço aéreo», um voo ou uma série de voos para o transporte de passageiros, carga e/ou correio mediante remuneração e/ou em execução de um contrato de fretamento.\n\n16. «Registo de exploração», um registo do sistema ATFM, convertido em base de dados para permitir uma pesquisa rápida de dados ATFM."
+  },
+  "3697e00595f8177f": {
+   "fragment_id": "Artigo 3.º — Quadro de gestão do fluxo de tráfego aéreo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Quadro de gestão do fluxo de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Quadro de gestão do fluxo de tráfego aéreo\n\n1. O planeamento, a coordenação e a execução das medidas ATFM pelas partes a que se refere o artigo 1.º, n.º 3, cumprem as disposições da ICAO especificadas no anexo.\n\n2. A ATFM rege-se pelos seguintes princípios:\n\na) O objectivo das medidas ATFM consiste em:\n\ni) prevenir uma procura excessiva de tráfego aéreo em relação à capacidade declarada de controlo de tráfego aéreo (ATC) dos sectores e aeroportos,\n\nii) utilizar em toda a medida do possível a capacidade da REGTA para optimizar a eficiência desta e minimizar os efeitos adversos para os operadores,\n\niii) optimizar a capacidade da REGTA disponibilizada através do desenvolvimento e da aplicação de medidas de reforço da capacidade pelas unidades ATS,\n\niv) apoiar a gestão das situações críticas;\n\nb) As unidades ATFM locais e a unidade central ATFM são consideradas parte da função ATFM;\n\n3. A atribuição de faixas horárias de partida ATFM dará prioridade aos voos em função da sua ordem de entrada prevista no local em que a medida ATFM se aplicar, a menos que circunstâncias específicas exijam a aplicação de uma regra de prioridade distinta, que seja formalmente aprovada e se revele vantajosa para a REGTA.\n\nO primeiro parágrafo é aplicável a voos que não podem aceitar a opção de reencaminhamento para evitar ou aliviar zonas congestionadas, tendo em conta a localização e a dimensão da zona congestionada."
+  },
+  "6091c33a7bfbf14c": {
+   "fragment_id": "Artigo 5.º — Obrigações dos Estados-Membros no que respeita à unidade central ATFM",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos Estados-Membros no que respeita à unidade central ATFM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos Estados-Membros no que respeita à unidade central ATFM\n\nOs Estados-Membros garantem que a unidade central ATFM:\n\na) Optimiza os efeitos globais das prestações na REGTA através do planeamento, da coordenação e da aplicação de medidas ATFM;\n\nb) Consulta os operadores sobre a definição de medidas ATFM;\n\nc) Garante a aplicação efectiva de medidas ATFM, em cooperação com unidades ATFM locais;\n\nd) Identifica, em coordenação com unidades ATFM locais, rotas alternativas para evitar ou aliviar zonas congestionadas, tendo em conta os efeitos globais das prestações na REGTA;\n\ne) Oferece um reencaminhamento para os voos que permitam optimizar o efeito da alínea d);\n\nf) Presta informação oportuna sobre ATFM aos operadores e às unidades ATS, a qual inclui:\n\ni) medidas ATFM previstas,\n\nii) impacto das medidas ATFM na hora de descolagem e no perfil de voo de cada voo;\n\ng) Acompanha os casos de ausência de planos de voo e de apresentação de planos de voo múltiplos;\n\nh) Suspende um plano de voo quando, tendo em conta a tolerância horária, não é possível respeitar a faixa horária de partida ATFM e se desconhece a nova hora prevista de remoção dos calços;\n\ni) Acompanha o número de derrogações concedidas em conformidade com o artigo 4.º, n.º 5."
+  },
+  "ee3eced32f1505c8": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 26 de Setembro de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "8aa7760781c80c90": {
+   "fragment_id": "Lista das regras ICAO para efeitos da gestão do fluxo de tráfego aéreo",
+   "type": "divisao",
+   "heading": "Lista das regras ICAO para efeitos da gestão do fluxo de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista das regras ICAO para efeitos da gestão do fluxo de tráfego aéreo\n\n1. Capítulo 3, parágrafo 3.7.5 (Gestão do Fluxo de Tráfego Aéreo) do anexo 11 da Convenção de Chicago — Serviços de Tráfego Aéreo (13.ª edição — Julho de 2001, que incorpora a alteração n.º 47).\n\n2. Capítulo 3 (Capacidade ATS e Gestão do Fluxo de Tráfego Aéreo) do Doc. 4444 — Procedimentos relativos a Serviços de Navegação Aérea — Gestão de Navegação Aérea (PANS-ATM).\n\n3. Capítulo 8.3 (derrogações à atribuição de faixas horárias ATFM) do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2007).\n\n4. Capítulo 8.4 1.c) (Cumprimento das Medidas ATFM pelos Operadores das Aeronaves) do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2007).\n\n5. Capítulo 2, parágrafo 2.3.2 (Alterações da Hora Prevista de Remoção dos Calços) do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2007).\n\n---"
+  },
+  "d4eb702e3d44f5c8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/90e39c44-82ef-4fa0-86d3-5a12eee413a6.0018.03/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/90e39c44-82ef-4fa0-86d3-5a12eee413a6.0018.03/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/90e39c44-82ef-4fa0-86d3-5a12eee413a6.0018.03/DOC_1#src.E0003)) JO L 342 de 24.12.2005, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/90e39c44-82ef-4fa0-86d3-5a12eee413a6.0018.03/DOC_1#src.E0004)) JO L 14 de 22.1.1993, p. 1."
+  },
+  "86ca4d9a9da96d70": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Março de 2010\n\nque estabelece regras comuns de gestão do fluxo de tráfego aéreo\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "a2c5ca8336430a02": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004 e do artigo 2.º do Regulamento (CEE) n.º 95/93 ([^4^](http://publications.europa.eu/resource/cellar/4b94b95c-5c2c-44c3-ba65-890cecfab2b6.0015.02/DOC_1#E0004)).\n\nDe igual modo, entende-se por:\n\n1. «Medida de gestão do fluxo de tráfego aéreo (ATFM)», medida adoptada para garantir a gestão do fluxo de tráfego aéreo e a gestão da capacidade.\n\n2. «Operador», uma pessoa, organização ou empresa que participa ou se propõe participar numa operação de uma aeronave.\n\n3. «IFR», sigla usada para designar as regras de voo por instrumentos.\n\n4. «Gabinete de informação dos serviços de tráfego aéreo (ATS)», uma unidade ATS criada para receber relatórios sobre os ATS e planos de voo apresentados antes da primeira entrega de uma autorização do controlo do tráfego aéreo.\n\n5. «Unidade local de gestão do fluxo de tráfego aéreo (ATFM)», uma entidade de gestão do fluxo que actua em nome de uma ou mais outras entidades de gestão do fluxo como interface entre a unidade central ATFM e uma unidade ou grupo de unidades ATS.\n\n6. «Situação crítica», uma situação inabitual ou crise que envolve uma perda significativa de capacidade da REGTA, ou um desequilíbrio importante entre a capacidade da REGTA e a procura, ou ainda uma falha grave no fluxo de informação, numa ou várias partes da REGTA.\n\n7. «Faixa horária de partida da gestão do fluxo de tráfego aéreo (ATFM)», hora calculada de descolagem, atribuída pela unidade central ATFM, com uma tolerância horária gerida pela unidade ATS local.\n\n8. «Orientação das rotas e do tráfego», políticas e procedimentos para a utilização de rotas pelas aeronaves.\n\n9. «Plano de voo múltiplo», mais de um plano de voo para o mesmo voo previsto entre dois aeroportos.\n\n10. «Configuração sectorial de uma unidade de serviços de tráfego aéreo (ATS)», descrição quadridimensional de um sector, ou grupo de sectores, do espaço aéreo de uma unidade ATS, que pode ser explorado com carácter permanente ou temporário.\n\n11. «Tempo de rolagem no aeródromo», o valor temporal predeterminado, desde a remoção dos calços até à descolagem, expresso em minutos e válido durante as operações aeroportuárias normais.\n\n12. «Posição de voo actualizada», posição da aeronave, actualizada através dos dados de vigilância, dos dados do plano de voo ou dos relatórios de posição.\n\n13. «Autorização do controlo do tráfego aéreo», a autorização concedida a uma aeronave para prosseguir a sua operação em condições especificadas por uma unidade de controlo do tráfego aéreo.\n\n14. «Suspensão do plano de voo», o processo iniciado por uma entidade que procede à ATFM para garantir que o operador altera o plano de voo antes da realização deste.\n\n15. «Serviço aéreo», um voo ou uma série de voos para o transporte de passageiros, carga e/ou correio mediante remuneração e/ou em execução de um contrato de fretamento.\n\n16. «Registo de exploração», um registo do sistema ATFM, convertido em base de dados para permitir uma pesquisa rápida de dados ATFM."
+  },
+  "dd0773d3a14a2de0": {
+   "fragment_id": "Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo",
+   "type": "divisao",
+   "heading": "Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo\n\n1. Capítulo 3, parágrafo 3.7.5 (Gestão do Fluxo de Tráfego Aéreo), do anexo 11 da Convenção de Chicago — Serviços de Tráfego Aéreo (13.ª edição — julho de 2001, que incorpora a alteração n.º 49).\n\n2. Capítulo 3 (Capacidade ATS e Gestão do Fluxo de Tráfego Aéreo) do Doc. 4444 da ICAO — Procedimentos relativos a Serviços de Navegação Aérea — Gestão de Navegação Aérea (PANS-ATM) (15.ª edição — 2007).\n\n3. Capítulo 8.3 (derrogações à atribuição de faixas horárias ATFM) do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2008).\n\n4. Capítulo 8.4 1.c) (Cumprimento das Medidas ATFM pelos Operadores das Aeronaves) do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2008).\n\n5. Capítulo 2, parágrafo 2.3.2 (Alterações da Hora Prevista de Remoção dos Calços), do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2008).\n\n---"
+  },
+  "a7bf96fa4cf706c5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4b94b95c-5c2c-44c3-ba65-890cecfab2b6.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4b94b95c-5c2c-44c3-ba65-890cecfab2b6.0015.02/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4b94b95c-5c2c-44c3-ba65-890cecfab2b6.0015.02/DOC_1#src.E0003)) JO L 342 de 24.12.2005, p. 20.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4b94b95c-5c2c-44c3-ba65-890cecfab2b6.0015.02/DOC_1#src.E0004)) JO L 14 de 22.1.1993, p. 1."
+  },
+  "3c1f1e4247037568": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004 e do artigo 2.º do Regulamento (CEE) n.º 95/93 ([^1^](http://publications.europa.eu/resource/cellar/c2e26240-09be-457e-a83d-b9b05a6fae37.0015.02/DOC_1#E0001)).\n\nDe igual modo, entende-se por:\n\n1. «Medida de gestão do fluxo de tráfego aéreo (ATFM)», medida adoptada para garantir a gestão do fluxo de tráfego aéreo e a gestão da capacidade.\n\n2. «Operador», uma pessoa, organização ou empresa que participa ou se propõe participar numa operação de uma aeronave.\n\n3. «IFR», sigla usada para designar as regras de voo por instrumentos.\n\n4. «Gabinete de informação dos serviços de tráfego aéreo (ATS)», uma unidade ATS criada para receber relatórios sobre os ATS e planos de voo apresentados antes da primeira entrega de uma autorização do controlo do tráfego aéreo.\n\n5. «Unidade local de gestão do fluxo de tráfego aéreo (ATFM)», uma entidade de gestão do fluxo que actua em nome de uma ou mais outras entidades de gestão do fluxo como interface entre a unidade central ATFM e uma unidade ou grupo de unidades ATS.\n\n6. «Situação crítica», uma situação inabitual ou crise que envolve uma perda significativa de capacidade da REGTA, ou um desequilíbrio importante entre a capacidade da REGTA e a procura, ou ainda uma falha grave no fluxo de informação, numa ou várias partes da REGTA.\n\n7. «Faixa horária de partida da gestão do fluxo de tráfego aéreo (ATFM)», hora calculada de descolagem, atribuída pela unidade central ATFM, com uma tolerância horária gerida pela unidade ATS local.\n\n8. «Orientação das rotas e do tráfego», políticas e procedimentos para a utilização de rotas pelas aeronaves.\n\n9. «Plano de voo múltiplo», mais de um plano de voo para o mesmo voo previsto entre dois aeroportos.\n\n10. «Configuração sectorial de uma unidade de serviços de tráfego aéreo (ATS)», descrição quadridimensional de um sector, ou grupo de sectores, do espaço aéreo de uma unidade ATS, que pode ser explorado com carácter permanente ou temporário.\n\n11. «Tempo de rolagem no aeródromo», o valor temporal predeterminado, desde a remoção dos calços até à descolagem, expresso em minutos e válido durante as operações aeroportuárias normais.\n\n12. «Posição de voo actualizada», posição da aeronave, actualizada através dos dados de vigilância, dos dados do plano de voo ou dos relatórios de posição.\n\n13. «Autorização do controlo do tráfego aéreo», a autorização concedida a uma aeronave para prosseguir a sua operação em condições especificadas por uma unidade de controlo do tráfego aéreo.\n\n14. «Suspensão do plano de voo», o processo iniciado por uma entidade que procede à ATFM para garantir que o operador altera o plano de voo antes da realização deste.\n\n15. «Serviço aéreo», um voo ou uma série de voos para o transporte de passageiros, carga e/ou correio mediante remuneração e/ou em execução de um contrato de fretamento.\n\n16. «Registo de exploração», um registo do sistema ATFM, convertido em base de dados para permitir uma pesquisa rápida de dados ATFM."
+  },
+  "c5aae935210f9977": {
+   "fragment_id": "Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo",
+   "type": "divisao",
+   "heading": "Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo\n\n1. Capítulo 3, parágrafo 3.7.5 (Gestão do Fluxo de Tráfego Aéreo) do anexo 11 da Convenção de Chicago — Serviços de Tráfego Aéreo (14.ª edição — julho de 2016, que incorpora a emenda n.º 50A).\n\n2. Capítulo 3 (Capacidade do sistema ATS e Gestão do Fluxo de Tráfego Aéreo) do Doc. 4444 da OACI — Procedimentos relativos a Serviços de Navegação Aérea — Gestão de Tráfego Aéreo (PANS-ATM) (16.ª edição — 2016, que incorpora a emenda n.º 7A).\n\n3. Capítulo 8.3 (derrogações à atribuição de faixas horárias ATFM) do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2008).\n\n4. Capítulo 8.4 1.c) (Cumprimento das Medidas ATFM pelos Operadores das Aeronaves) do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2008).\n\n5. Capítulo 2, parágrafo 2.3.2 (Alterações da Hora Prevista de Remoção dos Calços), do Doc. 7030 da ICAO, Procedimentos Suplementares para a Região Europeia (EUR) (5.ª edição — 2008).\n\n---"
+  },
+  "4492a223a2b209d2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c2e26240-09be-457e-a83d-b9b05a6fae37.0015.02/DOC_1#src.E0001)) JO L 14 de 22.1.1993, p. 1."
+  }
+ }
+}

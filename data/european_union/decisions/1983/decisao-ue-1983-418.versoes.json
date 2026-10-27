@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983D0418:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983D0418-20010315",
+ "dre_path": null,
+ "source_lastmod": "2001-03-15",
+ "versions": [
+  {
+   "date": "1983-08-26",
+   "future": false,
+   "celex": "31983D0418",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b534c6fdd516b372",
+    "a73b8d8197f81b50",
+    "41c829b94642a8b6",
+    "567cfbcc1ca9a38e",
+    "5d6f18eaa697d1a8",
+    "920925f938cee919",
+    "78517c407297694a",
+    "d3422344ec298dbf",
+    "3552e7aec98bd182"
+   ]
+  },
+  {
+   "date": "2001-03-15",
+   "future": false,
+   "celex": "01983D0418-20010315",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o"
+   ],
+   "fragments": [
+    "5dae0099453dcc08"
+   ]
+  }
+ ],
+ "fragments": {
+  "b534c6fdd516b372": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**83/418/CEE: Decisão do Conselho, de 25 de Julho de 1983, relativa à autonomia comercial dos caminhos-de-ferro na gestão dos seus tráfegos internacionais de passageiros e bagagens** *Jornal Oficial nº L 237 de 26/08/1983 p. 0032 - 0033 Edição especial finlandesa: Capítulo 7 Fascículo 3 p. 0097 Edição especial espanhola: Capítulo 07 Fascículo 3 p. 0172 Edição especial sueca: Capítulo 7 Fascículo 3 p. 0097 Edição especial portuguesa: Capítulo 07 Fascículo 3 p. 0172*\n\nDECISÃO DO CONSELHO de 25 de Julho de 1983 relativa à autonomia comercial dos caminhos-de-ferro na gestão dos seus tráfegos internacionais de passageiros e bagagens\n\n(83/418/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o Conselho definiu, na sua Resolução de 15 de Dezembro de 1981, as grandes linhas da política ferroviária no âmbito da política comum de transportes e manifestou o seu interesse, nomeadamente, numa melhor cooperação entre as empresas ferroviárias no tráfego internacional;\n\nConsiderando que devem ser tomadas medidas no plano comunitário que permitam aos caminhos-de-ferro desenvolver o seu papel no tráfego internacional de passageiros;\n\nConsiderando que a realização deste objectivo pressupõe que os Estados-membros se esforcem por suprimir todos os obstáculos que se opõem a uma suficiente autonomia de gestão das empresas ferroviárias com vista a permitir-lhes concentrar os seus esforços comuns na melhoria da oferta de serviços em matéria de tráfego internacional de passageiros, a fim de optimizar os resultados financeiros;\n\nConsiderando que tal cooperação na gestão comercial destes transportes, tendo em conta interesses comuns, implica nomeadamente uma política de preços flexível, dinâmica e atractiva, reflectindo a estrutura específica dos mercados internacionais em causa,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "a73b8d8197f81b50": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros tomarão as disposições necessárias para assegurar a aplicação da presente decisão às empresas de caminho-de-ferro seguintes:\n\n- Société nationale de chemins de fer belges (SNCB) /Nationale Maatschappij der Belgische Spoorwegen (NMBS),\n\n- Danske Statsbaner (DSB),\n\n- Deutsche Bundesbahn (DB),\n\n- Organismos Sidirodromon Ellados A.E. (OSE),\n\n- Société nationale des chemins de fer français (SNCF),\n\n- Córas Iompair Éireann (CIE),\n\n- Azienda autonoma delle ferrovie dello Stato (FS),\n\n- Société nationale des chemins de fer luxembourgeois (CFL),\n\n- Naamloze Vennootschap Nederlandse Spoorwegen (NS),\n\n- British Railways Board (BRB),\n\n- Northern Ireland Railways Company Ltd (NIR).\n\n2. No que diz respeito à Société nacionale des chemins de fer luxembourgeois (CFL), a Bélgica e a França procederão com o Luxemburgo às alterações dos textos orgânicos que se tornarem necessárias para permitir a aplicação da presente decisão."
+  },
+  "41c829b94642a8b6": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNos termos do disposto na presente decisão, as empresas de caminho-de-ferro disporão de autonomia comercial na gestão da tráfego internacional de passageiros e bagagens.\n\nEsta autonomia serve, nomeadamente, para reforçar a sua cooperação com vista à prossecução de objectivos comuns e não prejudica as obrigações de serviço público."
+  },
+  "567cfbcc1ca9a38e": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAs empresas de caminho-de-ferro têm a liberdade de:\n\n- estabelecer tarifas segundo tabelas comuns, oferecendo preços para todo o percurso; os preços indicados nessas tarifas podem ser independentes dos que seriam obtidos pela soma dos preços das tarifas nacionais;\n\n- oferecer só por elas ou em cooperação com outras empresas de transporte ou da indústria do turismo, serviços integrados sob a forma de preço fixo e global;\n\n- criar pools de receitas no quadro de interesses comuns;\n\n- delegar entre si poderes para fazer ofertas comuns à clientela."
+  },
+  "5d6f18eaa697d1a8": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Na âmbito da regulamentação comunitária aplicável e, nomeadamente, do no 1 do artigo 9o da Decisão 75/327/CEE (4), as empresas de caminho-de-ferro determinarão, de acordo com os seus interesses comerciais e tendo em conta o preço de custo bem como a situação do mercado, os preços e condições de transporte de passageiros e bagagens no tráfego internacional entre os Estados-membros.\n\n2. Com vista a contribuir para a realização dos objectivos referidos na Decisão 75/327/CEE, as empresas de caminho-de-ferro praticarão, no tráfego internacional de passageiros e bagagens entre os Estados-membros, preços que, no mínimo, tenham por objectivo:\n\n- assegurar a cobertura dos custos imputáveis específicos dos transportes abrangidos pela presente decisão; e\n\n- dar uma contribuição positiva para a cobertura dos custos comuns.\n\n3. As medidas adoptadas no âmbito da presente decisão devem ter como objectivo a optimização das receitas e melhorar a situação financeira dos caminhos-de-ferro."
+  },
+  "920925f938cee919": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs empresas ferroviárias submeterão à Comissão e ao Conselho, o mais tardar em 31 de Dezembro de 1984, um relatório comum sobre a oportunidade de criação, para o tráfego internacional de passageiros, de uma organização comum para a execução de acções comerciais."
+  },
+  "78517c407297694a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros adoptarão, antes de 1 de Julho de 1984, e após consulta da Comissão, as disposições necessárias para darem cumprimento à presente decisão.\n\n2. Se um Estado-membro o pedir ou se a Comissão o entender oportuno, esta última procederá a uma consulta com os Estados-membros interessados sobre os projectos relativos às disposições visadas no no 1."
+  },
+  "d3422344ec298dbf": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nPassados cinco anos a contar da data da entrada em vigor da presente decisão, a Comissão apresentará um relatório ao Conselho contendo um balanço da sua aplicação.\n\nCom base nesse relatório, o Conselho reexaminará a situação e, deliberando por maioria qualificada sob proposta da Comissão, tomará a decisão adequada."
+  },
+  "3552e7aec98bd182": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros e as empresas ferroviárias visadas no artigo 1o são destinatárias da presente decisão.\n\nFeito em Bruxelas em 25 de Julho de 1983.\n\nPelo Conselho\n\nO Presidente\n\nC. SIMITIS\n\n(1) JO no C 23 de 28. 1. 1983, p. 12.(2) JO no C 161 de 20. 6. 1983, p. 172.(3) JO no C 211 de 8. 8. 1983, p. 7.(4) JO no L 152 de 12. 6. 1975, p. 3."
+  },
+  "5dae0099453dcc08": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983D0418 — PT — 15.03.2001 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31983D0418) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/31983D0418) [de 25 de Julho de 1983](http://publications.europa.eu/resource/celex/31983D0418) [relativa à autonomia comercial dos caminhos-de-ferro na gestão dos seus tráfegos internacionais de passageiros e bagagens](http://publications.europa.eu/resource/celex/31983D0418) [(83/418/CEE)](http://publications.europa.eu/resource/celex/31983D0418) (JO L 237, 26.8.1983, p.32)\n\n**revogado por:**\n\n- [Directiva 2001/14/CE do Parlamento Europeu e do Conselho de 26 de Fevereiro de 2001](http://publications.europa.eu/resource/celex/32001L0014) — L 75 — 29 — 15.3.2001"
+  }
+ }
+}

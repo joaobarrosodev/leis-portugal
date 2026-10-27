@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:585230:por
+title: Decreto Regulamentar Regional n.º 3/93/M
+short_title: null
+summary: Aprova a Lei Orgânica da Secretaria Regional das Finanças
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 3/93/M
+official_date: null
+publication_date: '1993-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 17/1993, Série I-B de 1993-01-21
+  number: '17'
+  series: I
+  supplement: null
+  pages: 212 - 214
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/01/017b00/02120214.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/3/1993/01/21/m/dre/pt/html
+  oj: null
+  dre: '585230'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/3-1993-585230
+  internal: pt:dre:585230:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1993-585230
+  metadata_url: https://data.dre.pt/eli/decregulreg/3/1993/01/21/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1993-585230
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:45:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c722a145d427ed8759803a18c19ed853f8bad445eead6932e811bc209de0bd94
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direcção Regional da Administração Pública e Local
+- Direcção Regional de Estatística
+- Direcção Regional de Finanças
+- Direcção Regional de Informática
+- Direcção Regional de Orçamento e Contabilidade
+- Direcção Regional do Património
+- Direcção Regional do Planeamento
+- Gabinete do Secretário Regional das Finanças
+- Governo Regional
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Secretaria Regional das Finanças
+relationships:
+- type: amended_by
+  target: pt:dre:587860:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:587860:por
+  label: "Alterado o artigo 4.º e aditado o artigo 12.º-A à orgânica publicada em anexo ao presente diploma, pelo DRR.9/94/M.21.09.1994.GR-RAM,\
+    \ DR.IS-B [219] de 21.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1994-587860
+  date: '1994-09-21'
+- type: cites
+  target: pt:dre:574893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/26/1992/11/11/m/dre
+article_structure:
+  article_count: 17
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:45:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 3/93/M
+
+Lei Orgânica da Secretaria Regional das Finanças
+
+O [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro, que procedeu à reestruturação do Governo Regional da Madeira, veio a introduzir profundas alterações na sua estrutura e orgânica.
+
+De facto, aquele normativo legal integra na Secretaria Regional das Finanças sectores que em governos anteriores vinham a ser tutelados por departamentos regionais diferentes. Assim sendo, na Secretaria Regional das Finanças foram englobadas a Direcção Regional da Administração Pública e Local, a Direcção Regional de Planeamento, o Serviço Regional de Estatística e os Serviços de Informática, a primeira resultante da extinção da Secretaria Regional da Administração Pública e as seguintes da extinção da Vice-Presidência e Coordenação Económica.
+
+Com esta reorganização pretendem-se criar as condições institucionais propícias à realização de urgentes tarefas de modernização da administração pública regional, impostas pelo imperativo do rápido desenvolvimento económico e tornadas irreversíveis com a imposição gradual, mas firme, das finanças públicas.
+
+Face a esta nova reestruturação, verifica-se a necessidade de ajustar a Lei Orgânica da Secretaria Regional das Finanças às alterações operadas, a fim de tornar os serviços mais operacionais e prontos a responder às novas exigências. Por conseguinte, há agora que dotar aquela Secretaria Regional de um diploma que consagre a sua natureza, atribuições, competências, estrutura e pessoal.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 13.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro, e ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o Governo Regional da Madeira decreta o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — Natureza
+
+A Secretaria Regional das Finanças, designada abreviadamente no presente diploma por SRF, é o departamento do Governo Regional da Madeira a que se refere a alínea g) do artigo 1.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro, cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes.
+
+###### Artigo 2.º — Atribuições
+
+São atribuições da SRF definir e coordenar a política regional nos domínios da administração pública regional e local, estatística, finanças, informática, orçamento, contabilidade, gestão e controlo do património regional e planeamento, promovendo as medidas necessárias à sua respectiva execução.
+
+###### Artigo 3.º — Competências
+
+1 - A SRF é superiormente dirigida pelo Secretário Regional das Finanças, ao qual são genericamente atribuídas as competências constantes do presente diploma e que a representa a todos os níveis.
+
+2 - O Secretário Regional das Finanças pode, nos termos da lei, delegar competências no chefe do Gabinete ou nos titulares de cargos de direcção e chefia dos órgãos e serviços que integram a estrutura da SRF.
+
+### CAPÍTULO II — Órgãos e serviços
+
+###### Artigo 4.º — Estrutura
+
+1 - A estrutura da SRF compreende os seguintes órgãos e serviços:
+
+a) Gabinete do Secretário Regional;
+
+b) Direcção Regional da Administração Pública e Local;
+
+c) Direcção Regional de Estatística;
+
+d) Direcção Regional de Finanças;
+
+e) Direcção Regional de Informática;
+
+f) Direcção Regional de Orçamento e Contabilidade;
+
+g) Direcção Regional do Património;
+
+h) Direcção Regional de Planeamento.
+
+2 - A natureza, atribuições, orgânica, funcionamento e pessoal de cada um dos organismos e serviços referidos no n.º 1 constarão de decreto regulamentar regional.
+
+###### Artigo 5.º — Gabinete do Secretário Regional
+
+O Gabinete do Secretário Regional é o conjunto de serviços da SRF que desenvolve acções de apoio directo ao Secretário Regional e não se enquadra em qualquer dos restantes departamentos enunciados no artigo anterior.
+
+###### Artigo 6.º — Direcção Regional da Administração Pública e Local
+
+A Direcção Regional da Administração Pública e Local, abreviadamente designada por DRAPL, é o departamento da SRF que tem por atribuições gerais a execução, coordenação e controlo das acções necessárias ao cumprimento da política regional no sector da administração pública regional e local.
+
+###### Artigo 7.º — Direcção Regional de Estatística
+
+A Direcção Regional de Estatística, abreviadamente designada por DRE, é o departamento da SRF que tem por atribuições gerais a execução e controlo das acções necessárias ao cumprimento da política regional no sector estatístico, procedendo ao apuramento, notação, coordenação e publicação de dados estatísticos.
+
+###### Artigo 8.º — Direcção Regional de Finanças
+
+A Direcção Regional de Finanças, abreviadamente designada por DRF, é o departamento da SRF que tem por atribuições gerais a execução e controlo das acções necessárias ao cumprimento da política regional no sector das finanças.
+
+###### Artigo 9.º — Direcção Regional de Informática
+
+A Direcção Regional de Informática, abreviadamente designada por DRI, é o departamento da SRF que tem por atribuições gerais a execução e controlo das acções necessárias ao desenvolvimento da política regional no sector informático.
+
+###### Artigo 10.º — Direcção Regional de Orçamento e Contabilidade
+
+A Direcção Regional de Orçamento e Contabilidade, abreviadamente designada por DROC, é o departamento da SRF que tem por atribuições gerais a execução e controlo das acções necessárias ao cumprimento da política regional nos sectores do orçamento e contabilidade.
+
+###### Artigo 11.º — Direcção Regional do Património
+
+A Direcção Regional do Património, abreviadamente designada por DRPA, é o departamento da SRF que tem por atribuições gerais a execução e controlo das acções necessárias à gestão do património regional e ao aprovisionamento.
+
+###### Artigo 12.º — Direcção Regional de Planeamento
+
+A Direcção Regional de Planeamento, abreviadamente designada por DRP, é o departamento da SRF que tem por atribuições gerais a execução e controlo das acções necessárias ao cumprimento da política regional no sector do planeamento.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 13.º — Grupos de pessoal
+
+O pessoal dos quadros dos organismos e serviços da SRF integra os seguintes grupos de pessoal:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico superior;
+
+c) Pessoal de informática;
+
+d) Pessoal técnico;
+
+e) Pessoal técnico-profissional;
+
+f) Pessoal administrativo;
+
+g) Pessoal operário;
+
+h) Pessoal auxiliar.
+
+###### Artigo 14.º — Quadros de pessoal
+
+Os quadros de pessoal dos organismos e serviços da SRF constarão de mapas anexos aos diplomas referidos no n.º 2 do artigo 4.º
+
+###### Artigo 15.º — Regime
+
+O regime aplicável ao pessoal da SRF é, com garantia dos direitos já adquiridos, o genericamente estabelecido para os trabalhadores da administração regional autónoma, sem prejuízo do que venha a ser determinado relativamente às carreiras de regime especial.
+
+### CAPÍTULO IV — Disposições finais e transitórias
+
+###### Artigo 16.º — Primeiro provimento
+
+O primeiro provimento em lugares dos quadros de pessoal do Gabinete do Secretário Regional e serviços dependentes far-se-á através de lista nominativa, aprovada pelo Secretário Regional, com dispensa de quaisquer outras formalidades legais, sempre que se tratar de pessoal com vínculo à Administração Pública e o provimento se processar em categoria igual ou equivalente à que detinha no respectivo quadro de origem.
+
+###### Artigo 17.º — Orgânica dos organismos e serviços existentes
+
+Até à publicação dos diplomas a que se refere o n.º 2 do artigo 4.º, mantém-se em vigor o [Decreto Regulamentar Regional n.º 12/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1990-575480), de 28 de Junho, assim como o [Decreto Regulamentar Regional n.º 10/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1990-574893), de 30 de Maio, no que respeita à Direcção Regional de Planeamento, desde que não contrariem o disposto no presente diploma e no [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro.
+
+Aprovado em Conselho do Governo Regional em 27 de Novembro de 1992.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 21 de Dezembro de 1992.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -1,0 +1,376 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:614874:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-116802910",
+ "dre_path": "/dr/detalhe/portaria/276-2010-614874",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-05-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116818987",
+    "116818988",
+    "116818989",
+    "116818990",
+    "116818991",
+    "116818992",
+    "116818993",
+    "116818994",
+    "116818995",
+    "116818996",
+    "116818997",
+    "116818998",
+    "116818999",
+    "116819000",
+    "116819002",
+    "116819003"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:334585:por",
+     "title": "Declaração de Rectificação n.º 20/2010",
+     "published": "2010-07-09",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/20-2010-334585",
+     "date": "2010-05-20"
+    }
+   ]
+  },
+  {
+   "date": "2013-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483673:por",
+     "title": "Portaria n.º 374/2013",
+     "published": "2013-12-27",
+     "dre_path": "/dr/detalhe/portaria/374-2013-483673"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "116818987",
+    "116818988",
+    "116818989",
+    "116819005",
+    "116818991",
+    "116818992",
+    "116819014",
+    "116819015",
+    "116819016",
+    "116819017",
+    "116819018",
+    "116819019",
+    "116819020",
+    "116819021",
+    "116819022",
+    "116819023",
+    "116819024",
+    "116819026"
+   ]
+  },
+  {
+   "date": "2018-10-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116809384:por",
+     "title": "Portaria n.º 291/2018",
+     "published": "2018-10-29",
+     "dre_path": "/dr/detalhe/portaria/291-2018-116809384"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "116818987",
+    "116818988",
+    "116818989",
+    "116819005",
+    "116818991",
+    "116818992",
+    "116819014",
+    "116819015",
+    "116819016",
+    "116819041",
+    "116819018",
+    "116819019",
+    "116819020",
+    "116819021",
+    "116819022",
+    "116819023",
+    "116819024",
+    "116819027"
+   ]
+  }
+ ],
+ "fragments": {
+  "116818987": {
+   "fragment_id": "116802911",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 276/2010\n\nde 19 de Maio\n\nA Portaria n.º 623/98, de 28 de Agosto, reconheceu aos vinhos de mesa tinto, branco e rosado ou rosé da região do Alentejo a possibilidade de usarem a menção «Vinho regional», seguida da indicação geográfica «Alentejano» desde que satisfaçam os requisitos de qualidade e tipicidade conformes com a tradição do vinho alentejano.\n\nTendo presente o actual enquadramento resultante da reorganização institucional do sector vitivinícola, é oportuno alterar certas normas técnicas que têm vindo a regular a produção da indicação geográfica «Alentejano», aproveitando ainda para introduzir a possibilidade de utilização de outras castas e a inclusão da possibilidade de produção de vinho licoroso, vinho espumante, aguardente bagaceira e aguardente vínica.\n\nEntretanto, pela Portaria n.º 1000/2008, de 4 de Setembro, foi designada a Comissão Vitivinícola Regional Alentejana (CVRA) como entidade certificadora para exercer funções de controlo da produção e comércio e de certificação dos produtos vitivinícolas com direito à indicação geográfica «Alentejano», nos termos do n.º 1 do artigo 10.º do Decreto-Lei n.º 212/2004, de 23 de Agosto.\n\nPor último, e efectivando-se, com a presente portaria, a revogação da Portaria n.º 623/98, de 28 de Agosto, e do anexo iv da Portaria n.º 394/2001, de 16 de Abril, conforme previsto no n.º 2 do artigo 24.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, reúnem-se e identificam-se de modo sistematizado, nos anexos i e ii da presente portaria, os concelhos da região bem como as castas susceptíveis de produzir vinho com direito ao uso desta indicação geográfica.\n\nAssim:\n\nNos termos do disposto nos n.os 1 do artigo 4.º e 2 do artigo 6.º, ambos do Decreto-Lei n.º 212/2004, de 23 de Agosto:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pesca, o seguinte:"
+  },
+  "116818988": {
+   "fragment_id": "116802912",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É reconhecida como indicação geográfica (IG) a designação «Alentejano», a qual pode ser usada para a identificação dos produtos vitivinícolas que se integrem nas categorias de vinho branco, vinho tinto, vinho rosado ou rosé, designados «vinho regional alentejano», e que satisfaçam os requisitos estabelecidos na presente portaria e demais legislação aplicável.\n\n2 - A IG com a designação «Alentejano» é também reconhecida para as seguintes categorias de produtos vitivinícolas:\n\na) Vinho licoroso, designado «vinho licoroso alentejano»;\n\nb) Vinho espumante, designado «vinho espumante alentejano»;\n\nc) Aguardente bagaceira, designada «aguardente bagaceira alentejana»;\n\nd) Aguardente vínica, designada «aguardente vínica alentejana»;\n\ne que satisfaçam os requisitos estabelecidos na presente portaria e demais legislação aplicável.\n\n3 - A designação da IG no caso das aguardentes abrangidas por esta portaria é efectuada através da menção «Alentejana»."
+  },
+  "116818989": {
+   "fragment_id": "116802913",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA área geográfica de produção do vinho e produtos vitivinícolas abrangidos pela presente portaria consta do anexo i, que dela faz parte integrante, e compreende todos os concelhos dos distritos de Beja, Évora e Portalegre."
+  },
+  "116818990": {
+   "fragment_id": "116802914",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs vinhas destinadas à produção dos vinhos e produtos vitivinícolas a que se refere esta portaria devem estar, ou ser instaladas, em solos que se enquadrem num dos seguintes tipos:\n\na) Distrito de Beja:\n\nSolos litólicos não húmicos derivados de xistos;\n\nLitossolos derivados de xistos;\n\nSolos mediterrânicos vermelhos, amarelos ou pardos, em geral derivados de arenitos, argilas, dioritos, xistos, margas ou rochas cristalofílicas;\n\nBarros calcários e não calcários;\n\nSolos calcários vermelhos;\n\nRegossolos psamíticos;\n\nb) Distrito de Évora:\n\nSolos litólicos não húmicos, em geral derivados de arenitos, granitos e gneisses;\n\nLitossolos derivados de xistos;\n\nSolos mediterrânicos pardos, vermelhos ou amarelos, em geral derivados de argila, xistos, gneisses, calcários e rochas cristalofílicas;\n\nAluviossolos modernos não calcários;\n\nSolos de baixas não calcários;\n\nc) Distrito de Portalegre:\n\nSolos litólicos não húmicos derivados de granitos;\n\nLitossolos derivados de xistos;\n\nSolos mediterrânicos vermelhos, amarelos ou pardos, em geral derivados de xistos e calcários;\n\nSolos podzolizados não hidromórficos."
+  },
+  "116818991": {
+   "fragment_id": "116802915",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs vinhos e produtos vitivinícolas que vierem a beneficiar da IG «Alentejano» devem ser obtidos a partir das castas constantes do anexo ii da presente portaria."
+  },
+  "116818992": {
+   "fragment_id": "116802916",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As práticas culturais utilizadas nas vinhas que se destinam à produção do vinho e produtos vitivinícolas com IG «Alentejano» são as tradicionais e as recomendadas pela respectiva entidade certificadora.\n\n2 - As vinhas referidas no número anterior devem ser inscritas, a pedido dos viticultores, na entidade certificadora, que verifica se as mesmas satisfazem os necessários requisitos e procede ao respectivo cadastro.\n\n3 - Sempre que se verificar alteração na titularidade ou na constituição das vinhas inscritas e aprovadas, deve este facto ser comunicado à entidade certificadora pelos respectivos viticultores e, caso contrário, as uvas das respectivas vinhas não podem ser utilizadas na elaboração dos vinhos e produtos vitivinícolas com direito à IG «Alentejano»."
+  },
+  "116818993": {
+   "fragment_id": "116802917",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA produção de vinhos e produtos vitivinícolas que venham a beneficiar da IG «Alentejano» deve seguir as tecnologias de elaboração e as práticas enológicas tradicionais, bem como as legalmente autorizadas."
+  },
+  "116818994": {
+   "fragment_id": "116802918",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs mostos destinados à elaboração dos vinhos abrangidos pela presente portaria devem ter um título alcoométrico volúmico natural mínimo de:\n\na) Vinho tinto - 11 % vol.;\n\nb) Vinho branco - 11 % vol.;\n\nc) Vinho espumante - 9,5 % vol.;\n\nd) Vinho licoroso - 12 % vol."
+  },
+  "116818995": {
+   "fragment_id": "116802919",
+   "type": 11,
+   "heading": "Artigo 8.º — 1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — 1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:\n\na) Vinho tinto e rosado ou rosé - 11 vol.;\n\nb) Vinho branco - 11 % vol.;\n\nc) Vinho espumante - 11 % vol.;\n\nd) Vinho licoroso - 17,5 % vol.\n\n2 - Em relação aos restantes parâmetros analíticos, os vinhos e produtos vitivinícolas devem apresentar os valores definidos para essa categoria de produto."
+  },
+  "116818996": {
+   "fragment_id": "116802920",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - A realização da análise físico-química e organoléptica é da competência da entidade certificadora e constitui regra e disciplina a observar com vista à aprovação do vinho e produtos vitivinícolas com IG Alentejano.\n\n2 - Os vinhos objecto da presente portaria devem satisfazer os requisitos organolépticos apropriados quanto à cor, limpidez, aroma e sabor."
+  },
+  "116818997": {
+   "fragment_id": "116802921",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs produtores e comerciantes dos vinhos e produtos vitivinícolas com IG «Alentejano», à excepção dos retalhistas, devem efectuar a respectiva inscrição na entidade certificadora, constituindo-se, para o efeito, os registos apropriados."
+  },
+  "116818998": {
+   "fragment_id": "116802922",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs rótulos a utilizar nos vinhos e produtos vitivinícolas com IG «Alentejano» têm de respeitar as normas legais aplicáveis e as definidas pela respectiva entidade certificadora, a quem são previamente apresentados para aprovação."
+  },
+  "116818999": {
+   "fragment_id": "116802923",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nCompetem à Comissão Vitivinícola Regional Alentejana (CVRA) as funções de controlo da produção e comércio e de certificação dos vinhos e produtos vitivinícolas com direito à IG «Alentejano», nos termos do n.º 1.º da Portaria n.º 1000/2008, de 4 de Setembro."
+  },
+  "116819000": {
+   "fragment_id": "116802924",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, ficando revogados, nos termos das alíneas uu) e ccc) do artigo 23.º e do n.º 2 do artigo 24.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, a Portaria n.º 623/98, de 28 de Agosto, e o anexo iv da Portaria n.º 394/2001, de 16 de Abril."
+  },
+  "116819002": {
+   "fragment_id": "116802926",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 2.º)\n\nÁrea geográfica de produção de vinhos e produtos vitivinícolas com IG «Alentejano»\n\n(ver documento original)"
+  },
+  "116819003": {
+   "fragment_id": "116802927",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 4.º)\n\nCastas aptas à produção de vinho e produtos vitivinícolas com IG «Alentejano»\n\n(ver documento original)"
+  },
+  "116819005": {
+   "fragment_id": "116802914",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2010-05-20",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 20/2010 - Diário da República n.º 132/2010, Série I de 2010-07-09](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2010-334585), em vigor a partir de 2010-05-20"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs vinhas destinadas à produção dos vinhos e produtos vitivinícolas a que se refere esta portaria devem estar, ou ser instaladas, em solos que se enquadrem num dos seguintes tipos:\n\na) Distrito de Beja:\n\nSolos litólicos não húmicos derivados de xistos;\n\nLitossolos derivados de xistos;\n\nSolos mediterrânicos vermelhos, amarelos ou pardos, em geral derivados de arenitos, argilas, dioritos, xistos, margas ou rochas cristalofílicas;\n\nBarros calcários e não calcários;\n\nSolos calcários vermelhos;\n\nRegossolos psamíticos;\n\nb) Distrito de Évora:\n\nSolos litólicos não húmicos, em geral derivados de arenitos, granitos e gneisses;\n\nLitossolos derivados de xistos;\n\nSolos mediterrânicos pardos, vermelhos ou amarelos, em geral derivados de argila, xistos, gneisses, calcários e rochas cristalofílicas;\n\nAluviossolos modernos não calcários;\n\nSolos de baixas não calcários;\n\nc) Distrito de Portalegre:\n\nSolos litólicos não húmicos derivados de granitos;\n\nLitossolos derivados de xistos;\n\nSolos mediterrânicos vermelhos, amarelos ou pardos, em geral derivados de xistos e calcários;\n\nSolos podzolizados não hidromórficos;\n\nSolos calcários pardos vermelhos.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20/2010 - Diário da República n.º 132/2010, Série I de 2010-07-09](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2010-334585), em vigor a partir de 2010-05-20"
+  },
+  "116819014": {
+   "fragment_id": "116802938",
+   "type": 11,
+   "heading": "Artigo 5.º-A",
+   "in_force_from": "2013-12-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 374/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/374-2013-483673), em vigor a partir de 2013-12-28"
+   ],
+   "markdown": "###### Artigo 5.º-A\n\nO rendimento máximo por hectare das vinhas destinadas aos vinhos e produtos vitivinícolas com direito à IG \"Alentejano\" é limitado a 15.000 Kg.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 374/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/374-2013-483673), em vigor a partir de 2013-12-28"
+  },
+  "116819015": {
+   "fragment_id": "116802917",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA produção de vinhos e produtos vitivinícolas que venham a beneficiar da IG «Alentejano» deve seguir as tecnologias de elaboração e as práticas enológicas tradicionais, bem como as legalmente autorizadas."
+  },
+  "116819016": {
+   "fragment_id": "116802918",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs mostos destinados à elaboração dos vinhos abrangidos pela presente portaria devem ter um título alcoométrico volúmico natural mínimo de:\n\na) Vinho tinto - 11 % vol.;\n\nb) Vinho branco - 11 % vol.;\n\nc) Vinho espumante - 9,5 % vol.;\n\nd) Vinho licoroso - 12 % vol."
+  },
+  "116819017": {
+   "fragment_id": "116802919",
+   "type": 11,
+   "heading": "Artigo 8.º — 1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 20/2010 - Diário da República n.º 132/2010, Série I de 2010-07-09](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2010-334585), em vigor a partir de 2010-05-20"
+   ],
+   "markdown": "###### Artigo 8.º — 1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:\n\na) Vinho tinto e rosado ou rosé - 11 % vol.;\n\nb) Vinho branco - 11 % vol.;\n\nc) Vinho espumante - 11 % vol.;\n\nd) Vinho licoroso - 17,5 % vol.\n\n2 - Em relação aos restantes parâmetros analíticos, os vinhos e produtos vitivinícolas devem apresentar os valores definidos para essa categoria de produto.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20/2010 - Diário da República n.º 132/2010, Série I de 2010-07-09](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2010-334585), em vigor a partir de 2010-05-20"
+  },
+  "116819018": {
+   "fragment_id": "116802920",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - A realização da análise físico-química e organoléptica é da competência da entidade certificadora e constitui regra e disciplina a observar com vista à aprovação do vinho e produtos vitivinícolas com IG Alentejano.\n\n2 - Os vinhos objecto da presente portaria devem satisfazer os requisitos organolépticos apropriados quanto à cor, limpidez, aroma e sabor."
+  },
+  "116819019": {
+   "fragment_id": "116802921",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs produtores e comerciantes dos vinhos e produtos vitivinícolas com IG «Alentejano», à excepção dos retalhistas, devem efectuar a respectiva inscrição na entidade certificadora, constituindo-se, para o efeito, os registos apropriados."
+  },
+  "116819020": {
+   "fragment_id": "116802922",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs rótulos a utilizar nos vinhos e produtos vitivinícolas com IG «Alentejano» têm de respeitar as normas legais aplicáveis e as definidas pela respectiva entidade certificadora, a quem são previamente apresentados para aprovação."
+  },
+  "116819021": {
+   "fragment_id": "116802923",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nCompetem à Comissão Vitivinícola Regional Alentejana (CVRA) as funções de controlo da produção e comércio e de certificação dos vinhos e produtos vitivinícolas com direito à IG «Alentejano», nos termos do n.º 1.º da Portaria n.º 1000/2008, de 4 de Setembro."
+  },
+  "116819022": {
+   "fragment_id": "116802924",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, ficando revogados, nos termos das alíneas uu) e ccc) do artigo 23.º e do n.º 2 do artigo 24.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, a Portaria n.º 623/98, de 28 de Agosto, e o anexo iv da Portaria n.º 394/2001, de 16 de Abril."
+  },
+  "116819023": {
+   "fragment_id": "116802925",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 12 de Maio de 2010."
+  },
+  "116819024": {
+   "fragment_id": "116802926",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 2.º)\n\nÁrea geográfica de produção de vinhos e produtos vitivinícolas com IG «Alentejano»\n\n(ver documento original)"
+  },
+  "116819026": {
+   "fragment_id": "116802927",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 2.º)",
+   "in_force_from": "2013-12-28",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 374/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/374-2013-483673), em vigor a partir de 2013-12-28"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 2.º)\n\nCastas aptas à produção de vinho e produtos vitivinícolas com IG «Alentejano»\n\n(ver documento original)\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 374/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/374-2013-483673), em vigor a partir de 2013-12-28"
+  },
+  "116819041": {
+   "fragment_id": "116802919",
+   "type": 11,
+   "heading": "Artigo 8.º — 1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 20/2010 - Diário da República n.º 132/2010, Série I de 2010-07-09](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2010-334585), em vigor a partir de 2010-05-20"
+   ],
+   "markdown": "###### Artigo 8.º — 1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:\n\n1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:\n\na) Vinho tinto e rosado ou rosé - 11 % vol.;\n\nb) Vinho branco - 11 % vol.;\n\nc) Vinho espumante - 11 % vol.;\n\nd) Vinho licoroso - 17,5 % vol.\n\n2 - Em relação aos restantes parâmetros analíticos, os vinhos e produtos vitivinícolas devem apresentar os valores definidos para essa categoria de produto.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20/2010 - Diário da República n.º 132/2010, Série I de 2010-07-09](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2010-334585), em vigor a partir de 2010-05-20"
+  },
+  "116819027": {
+   "fragment_id": "116802927",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 4.º)",
+   "in_force_from": "2018-10-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2018 - Diário da República n.º 208/2018, Série I de 2018-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/291-2018-116809384), em vigor a partir de 2018-10-30, produz efeitos a partir de 2018-08-01",
+    "Alterado pelo/a Anexo do/a [Portaria n.º 374/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/374-2013-483673), em vigor a partir de 2013-12-28"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 4.º)\n\nCastas aptas à produção de vinho e produtos vitivinícolas com IG «Alentejano»\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2018 - Diário da República n.º 208/2018, Série I de 2018-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/291-2018-116809384), em vigor a partir de 2018-10-30, produz efeitos a partir de 2018-08-01\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 374/2013 - Diário da República n.º 251/2013, Série I de 2013-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/374-2013-483673), em vigor a partir de 2013-12-28"
+  }
+ }
+}

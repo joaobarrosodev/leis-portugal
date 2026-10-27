@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:144619:por
+title: Portaria n.º 559/97
+short_title: null
+summary: Altera a Portaria n.º 467/90, de 22 de Junho (estabelece as normas técnicas de execução regulamentar relativas às
+  condições gerais e especiais a que obedecem a expedição de animais, os mercados, concentrações e estábulos de negociantes
+  e respectivo controlo sanitário)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 559/97
+official_date: null
+publication_date: '1997-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/1997, Série I-B de 1997-07-25
+  number: '170'
+  series: I
+  supplement: null
+  pages: 3782 - 3782
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/07/170b00/37823782.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/559/1997/07/25/p/dre/pt/html
+  oj: null
+  dre: '144619'
+  dre_path: /dr/detalhe/portaria/559-1997-144619
+  internal: pt:dre:144619:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1997-144619
+  metadata_url: https://data.dre.pt/eli/port/559/1997/07/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1997-144619
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ba1a613bdac06fb306254b7f0bc8749e203856e6f3d822aba46ca2421bca72a1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:03:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CE Países
+- Comércio
+- Controlo Sanitário
+- Doença Animal
+- Exportação
+- Gado Bovino
+- Gado Suíno
+- Impresso
+- Política Agrícola Comum
+- Produção Animal
+- Proteção dos Animais
+relationships:
+- type: amended_by
+  target: pt:dre:471951:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31964L0432
+  label: null
+  source: http://data.europa.eu/eli/dir/1964/432/oj
+- type: cites
+  target: celex:31994L0042
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/42/oj
+- type: repealed_by
+  target: pt:dre:471951:por
+  label: "Revogada pelo DEC LEI.157/98.1998.06.09.MADRP, DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1998-471951
+  date: '1998-06-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:03:33Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 559/97
+
+de 25 de Julho
+
+As Portarias n.os 575/93 e 574/93, ambas de 4 de Junho, vieram regular, respectivamente, os controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos na perspectiva da realização do mercado interno e os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade.
+
+A publicação daqueles diplomas legais e da Directiva n.º [94/42/CE](http://data.europa.eu/eli/dir/1994/42/oj?locale=pt), do Conselho, de 27 de Julho de 1994, que altera a Directiva n.º [64/432/CEE](http://data.europa.eu/eli/dir/1964/432/oj?locale=pt), relativa aos problemas de polícia sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína, tornaram necessária a alteração da Portaria n.º 467/90, de 22 de Junho, com a redacção que lhe foi introduzida pelas Portarias n.os 160/91, de 25 de Fevereiro, e 720/91, de 23 de Julho, relativa aos problemas de polícia sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína, nomeadamente no que se refere à duração da estada num Estado membro antes damudança e às normas que regem os intercâmbios de animais com menos de 30 dias.
+
+Ouvidos os órgãos de direito próprios das Regiões Autónomas dos Açores e da Madeira:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 2.º do Decreto-Lei n.º 80/90, de 12 de Março, que a Portaria n.º 467/90, de 22 de Junho, com a redacção que lhe foi introduzida pelas Portarias n.os 160/91, de 25 de Fevereiro, e 720/91, de 23 de Julho, seja alterada do seguinte modo:
+
+1) Ao n.º 2.º é aditada a alínea v), com a seguinte redacção: «v) Centro de reagrupamento: qualquer local, incluindo as explorações e os mercados, em que se concentram os bovinos ou os suínos provenientes de várias explorações de origem, a fim de constituírem lotes de animais destinados ao comércio, que disponha de equipamento e de instalações necessárias para o alojamento dos animais e que esteja sob a tutela da autoridade veterinária competente. Esta tomará todas as medidas adequadas para garantir que esse centro de reagrupamento constitua, para os animais que por ele transitem, uma unidade sanitária com o nível exigido pela presente directiva, que os animais sejam evacuados e seja limpa e desinfectada entre cada venda e a admissão de novos animais. Estes centros de reagrupamento deverão ser aprovados tendo em vista as trocas comerciais.»
+
+2) Às alíneas j) do n.º 4.º e e) do n.º 5.º é aditado o seguinte: «Todavia, sempre que o transporte esteja ligado a vários locais de destino, os animais devem ser reagrupados em tantos lotes quantos os locais de destino, devendo cada lote ser acompanhado até ao local de destino do certificado acima referido e só podendo essa derrogação ser concedida aos destinatários que foram previamente registados pela autoridade competente do local de destino e aos transportadores aprovados e obrigados a cumprir um caderno de encargos relativo à desinfecção dos veículos e regras de bem-estar.»
+
+3) À alínea f) do n.º 4.º é aditado o seguinte: «As normas que regem a aprovação dos locais em que pode ser praticada a desinfecção e os processos necessários para garantir e controlar a conformidade com as exigências veterinárias definidas comunitariamente.»
+
+4) Nos n.os 13.º, 15.º e 16.º a expressão «mercado» é substituída por «centro de reagrupamento»;
+
+5) É aditado o n.º 18.º-A, com a seguinte redacção: «Sem prejuízo dos controlos previstos na Portaria n.º 575/93, de 4 de Junho, os animais que não tenham nascido numa dada exploração e que não residiram nos 30 últimos dias no território do Estado membro em que se situa a exploração só podem ser introduzidos no efectivo de destino depois de o veterinário responsável desse efectivo se ter certificado de que os referidos animais não são susceptíveis de pôr em causa o seu estatuto sanitário.»
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+Assinada em 27 de Junho de 1997.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

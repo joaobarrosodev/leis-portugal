@@ -1,0 +1,1746 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:581620:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-877342916",
+ "dre_path": "/dr/detalhe/lei/145-1999-581620",
+ "source_lastmod": "2024-08-16",
+ "versions": [
+  {
+   "date": "2014-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56376286:por",
+     "title": "Lei n.º 66/2014",
+     "published": "2014-08-28",
+     "dre_path": "/dr/detalhe/lei/66-2014-56376286"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 17.º-A",
+    "Adita Artigo 17.º-B",
+    "Adita Artigo 36.º-A",
+    "Adita Artigo 44.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Capítulo IV",
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 53.º",
+    "Altera Artigo 54.º",
+    "Altera Artigo 55.º",
+    "Altera Artigo 56.º",
+    "Altera Artigo 57.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 60.º",
+    "Altera Artigo 61.º",
+    "Altera Artigo 62.º",
+    "Altera Artigo 68.º",
+    "Altera Artigo 69.º",
+    "Altera Artigo 78.º",
+    "Altera Artigo 79.º",
+    "Altera Artigo 82.º",
+    "Altera Artigo 84.º",
+    "Altera Artigo 88.º",
+    "Altera Artigo 89.º",
+    "Altera Artigo 92.º",
+    "Altera Artigo 94.º",
+    "Altera Artigo 97.º",
+    "Altera Artigo 100.º",
+    "Altera Artigo 102.º",
+    "Altera Artigo 105.º",
+    "Altera Artigo 106.º",
+    "Altera Artigo 118.º",
+    "Altera Artigo 120.º",
+    "Altera Artigo 124.º",
+    "Altera Artigo 132.º",
+    "Altera QUADRO ANEXO A",
+    "Altera QUADRO ANEXO B",
+    "Revoga Artigo 32.º"
+   ],
+   "fragments": [
+    "877342100",
+    "877342101",
+    "877342102",
+    "877342103",
+    "877342104",
+    "877342105",
+    "877342106",
+    "877342107",
+    "877342108",
+    "884564233",
+    "877342110",
+    "877342111",
+    "884564234",
+    "884564235",
+    "884564236",
+    "877342115",
+    "877342116",
+    "884564237",
+    "877342118",
+    "877342119",
+    "884564238",
+    "877342121",
+    "884564239",
+    "884564240",
+    "877342124",
+    "877342125",
+    "884564241",
+    "884564621",
+    "884564622",
+    "877342127",
+    "884564242",
+    "884564243",
+    "884564244",
+    "884564245",
+    "877342132",
+    "877342133",
+    "884564246",
+    "884564247",
+    "877342136",
+    "877342137",
+    "877342138",
+    "877342139",
+    "884564248",
+    "877342141",
+    "877342142",
+    "884564249",
+    "884564250",
+    "884564592",
+    "877342146",
+    "884564251",
+    "884564252",
+    "884564253",
+    "884564623",
+    "877342150",
+    "884564254",
+    "884564255",
+    "877342153",
+    "877342154",
+    "884564591",
+    "884564256",
+    "884564257",
+    "884564258",
+    "884564259",
+    "884564624",
+    "877342160",
+    "877342161",
+    "884564260",
+    "884564261",
+    "884564262",
+    "877342165",
+    "877342166",
+    "877342167",
+    "877342168",
+    "877342169",
+    "884564263",
+    "884564264",
+    "884564265",
+    "884564266",
+    "884564267",
+    "884563775",
+    "884564268",
+    "884563777",
+    "884564269",
+    "884564270",
+    "884564271",
+    "884563781",
+    "884563782",
+    "884563783",
+    "884563784",
+    "884563785",
+    "884563786",
+    "884563787",
+    "884564272",
+    "884564273",
+    "884563790",
+    "884563791",
+    "884563792",
+    "884563793",
+    "884563794",
+    "884563795",
+    "884563796",
+    "884563797",
+    "884564274",
+    "884564575",
+    "884563800",
+    "884563801",
+    "884564576",
+    "884563803",
+    "884564577",
+    "884563805",
+    "884563806",
+    "884563807",
+    "884563808",
+    "884564578",
+    "884564579",
+    "884563811",
+    "884563812",
+    "884563813",
+    "884564580",
+    "884563815",
+    "884564581",
+    "884563817",
+    "884563818",
+    "884564582",
+    "884563820",
+    "884563821",
+    "884563822",
+    "884564583",
+    "884563824",
+    "884563825",
+    "884564584",
+    "884563827",
+    "884563828",
+    "884564585",
+    "884564586",
+    "884563831",
+    "884563832",
+    "884563833",
+    "884563834",
+    "884563835",
+    "884563836",
+    "884563837",
+    "884563838",
+    "884563839",
+    "884563840",
+    "884563841",
+    "884563842",
+    "884563843",
+    "884563844",
+    "884563845",
+    "884564587",
+    "884563847",
+    "884564588",
+    "884563849",
+    "884563850",
+    "884563851",
+    "884564589",
+    "884563853",
+    "884563854",
+    "884563855",
+    "884563856",
+    "884563857",
+    "884563858",
+    "884563859",
+    "884563860",
+    "884564590",
+    "884563862",
+    "884564627",
+    "884564628"
+   ]
+  }
+ ],
+ "fragments": {
+  "877342100": {
+   "fragment_id": "877342917",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 145/99\n\nde 1 de Setembro\n\nAprova o Regulamento de Disciplina da Guarda Nacional Republicana\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "877342101": {
+   "fragment_id": "877342918",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Regulamento de Disciplina da Guarda Nacional Republicana, publicado em anexo à presente lei e da qual faz parte integrante."
+  },
+  "877342102": {
+   "fragment_id": "877342919",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCom a entrada em vigor do Regulamento de Disciplina referido no artigo anterior, ficam revogadas as disposições legais e regulamentares na parte em que prevêem ou determinam a aplicação do Regulamento de Disciplina Militar (RDM) aos militares da Guarda Nacional Republicana."
+  },
+  "877342103": {
+   "fragment_id": "877342920",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Sem prejuízo das disposições que se seguem, o Regulamento de Disciplina ora aprovado não produz efeitos relativamente a decisões insusceptíveis de recurso ordinário, nos termos do mesmo Regulamento.\n\n2 - As normas processuais previstas no mesmo Regulamento de Disciplina são de aplicação imediata.\n\n3 - As normas relativas à descrição de deveres, à qualificação das infracções e à previsão de penas e medidas disciplinares são aplicáveis aos casos pendentes, desde que os factos continuem a ser puníveis e as penas correspondentes sejam mais favoráveis aos arguidos.\n\n4 - As penas de faxinas, detenção, prisão disciplinar e prisão disciplinar agravada, mesmo que já aplicadas mas não integralmente cumpridas, serão convertidas obrigatoriamente de acordo com a tabela constante do artigo seguinte, descontando-se, porém, o período já cumprido."
+  },
+  "877342104": {
+   "fragment_id": "877342921",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Para todos os efeitos legais e regulamentares, designadamente para efeitos de classificação de comportamento, a correspondência entre as penas previstas no Regulamento de Disciplina Militar e no presente Regulamento de Disciplina é determinada pela forma seguinte:\n\na) A pena de repreensão corresponde à pena de repreensão escrita;\n\nb) A pena de repreensão agravada corresponde à pena de repreensão escrita agravada;\n\nc) Um dia de faxinas, detenção ou proibição de saída correspondem a um dia de suspensão;\n\nd) Um dia de prisão disciplinar corresponde a dois dias de suspensão;\n\ne) Um dia de prisão disciplinar agravada corresponde a quatro dias de suspensão ou suspensão agravada, consoante o número de dias que resulte da correspondência estabelecida;\n\nf) Um dia de inactividade corresponde a um dia de suspensão agravada;\n\ng) As penas de reforma compulsiva e de separação de serviço correspondem-se nos dois regimes.\n\n2 - Sempre que da aplicação do disposto nas alíneas d), e) e f) do número anterior resultar uma pena com duração inferior ao respectivo limite mínimo fixado pelo presente Regulamento de Disciplina observar-se-á este limite."
+  },
+  "877342105": {
+   "fragment_id": "877342922",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 1 de Julho de 1999.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 13 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 18 de Agosto de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nANEXO\n\nREGULAMENTO DE DISCIPLINA DA GUARDA NACIONAL REPUBLICANA"
+  },
+  "877342106": {
+   "fragment_id": "877342923",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "877342107": {
+   "fragment_id": "877342924",
+   "type": 13,
+   "heading": "Título I — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Princípios fundamentais"
+  },
+  "877342108": {
+   "fragment_id": "877342925",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "884564233": {
+   "fragment_id": "877342926",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento aplica-se aos oficiais, sargentos e guardas, em qualquer situação estatutária, dos quadros da Guarda Nacional Republicana, adiante designada simplificadamente por Guarda, ainda que se encontrem em exercício de funções noutros serviços e organismos.\n\n2 - Os militares das Forças Armadas em serviço na Guarda ficam sujeitos ao presente Regulamento na parte em que o mesmo não seja incompatível com o Regulamento de Disciplina Militar.\n\n3 - O pessoal civil que presta serviço na Guarda fica sujeito ao Estatuto Disciplinar dos Trabalhadores que Exercem Funções Públicas, salvo se outro não lhe for especialmente aplicado.\n\n4 - Aos formandos dos cursos de formação de guardas é aplicável um regulamento disciplinar específico, que deve compatibilizar-se com o disposto no presente Regulamento.\n\n5 - Uma vez colocada a Guarda na dependência operacional do Chefe do Estado-Maior-General das Forças Armadas, nos termos previstos na Lei Orgânica da Guarda, os seus militares ficam sujeitos ao Regulamento de Disciplina Militar.\n\n6 - Os militares da Guarda na situação de reforma ficam sujeitos apenas ao cumprimento dos deveres que, pela sua natureza e circunstâncias, lhes sejam aplicáveis nos termos do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342110": {
+   "fragment_id": "877342927",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito e bases da disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito e bases da disciplina\n\n1 - A disciplina, na Guarda, consiste na exacta observância das leis e regulamentos, bem como das ordens e instruções emanadas dos legítimos superiores hierárquicos em matéria de serviço, em obediência aos princípios inerentes à condição de militar.\n\n2 - A disciplina, na Guarda, impõe o respeito e a adesão por parte dos seus membros a um conjunto de normas específicas, baseadas no respeito pela legalidade democrática, como forma de prosseguimento do interesse público, e sempre com observância do princípio da neutralidade nos domínios social, religioso e político, como garantias de coesão e eficiência da instituição.\n\n3 - A actuação dos militares da Guarda deve pautar-se por critérios de competência profissional, justiça, lealdade, integridade, honestidade e imparcialidade."
+  },
+  "877342111": {
+   "fragment_id": "877342928",
+   "type": 11,
+   "heading": "Artigo 3.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidade disciplinar\n\nOs militares da Guarda respondem perante os superiores hierárquicos a que estejam subordinados pelas infracções disciplinares que cometam."
+  },
+  "884564234": {
+   "fragment_id": "877342929",
+   "type": 11,
+   "heading": "Artigo 4.º — Conceito de infracção disciplinar",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 4.º — Conceito de infracção disciplinar\n\n1 - Considera-se infração disciplinar o facto, ainda que meramente negligente, praticado pelo militar da Guarda, com violação dos deveres previstos na legislação que lhe é aplicável, designadamente o presente Regulamento, o Estatuto dos Militares da Guarda, o Regulamento de Continências e Honras Militares e o Regulamento Geral do Serviço da Guarda.\n\n2 - Salvo disposição legal em contrário, a falta disciplinar, considerada em função de determinado resultado, tanto pode consistir na acção adequada a produzi-lo como na omissão do dever de evitá-lo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564235": {
+   "fragment_id": "877342930",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípio da independência",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 5.º — Princípio da independência\n\nO procedimento disciplinar é independente do procedimento criminal ou contraordenacional instaurado pelos mesmos factos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564236": {
+   "fragment_id": "877342931",
+   "type": 11,
+   "heading": "Artigo 6.º — Factos qualificáveis como crime ou contra-ordenação",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 6.º — Factos qualificáveis como crime ou contra-ordenação\n\n1 - Sempre que os factos disciplinares forem passíveis de integrarem ilícito penal de natureza pública ou contra-ordenação, dar-se-á obrigatoriamente conhecimento deles à competente autoridade judiciária ou administrativa.\n\n2 - Sempre que o militar da Guarda seja constituído arguido em processo-crime, deve o Ministério Público proceder à comunicação imediata do facto ao Comandante-Geral, ao qual remete igualmente certidão da decisão final que ponha termo ao processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342115": {
+   "fragment_id": "877342932",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito subsidiário\n\nEm tudo o que não estiver previsto no presente Regulamento são subsidiariamente aplicáveis, com as devidas adaptações, os princípios gerais do direito sancionatório, o Código do Procedimento Administrativo, a legislação processual penal e, na parte não incompatível, o Regulamento de Disciplina Militar."
+  },
+  "877342116": {
+   "fragment_id": "877342933",
+   "type": 1,
+   "heading": "Capítulo II — Deveres gerais e especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Deveres gerais e especiais"
+  },
+  "884564237": {
+   "fragment_id": "877342934",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 8.º — Deveres\n\n1 - O militar da Guarda deve ter sempre presente que, como agente de força de segurança e como autoridade e órgão de polícia criminal, deve adotar, em todas as circunstâncias, irrepreensível comportamento cívico, e atuar de forma íntegra e profissionalmente competente, por forma a suscitar a confiança e o respeito da população e a contribuir para o prestígio da Guarda e das instituições democráticas.\n\n2 - Cumpre ainda ao militar da Guarda a observância dos seguintes deveres:\n\na) Dever de obediência;\n\nb) Dever de lealdade;\n\nc) Dever de proficiência;\n\nd) Dever de zelo;\n\ne) Dever de isenção;\n\nf) Dever de correcção;\n\ng) Dever de disponibilidade;\n\nh) Dever de sigilo;\n\ni) Dever de aprumo;\n\nj) Dever de autoridade;\n\nk) Dever de tutela.\n\n3 - Constituem ainda deveres dos militares da Guarda os constantes das respetivas leis orgânica e estatutária e demais legislação em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342118": {
+   "fragment_id": "877342935",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de obediência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de obediência\n\n1 - O dever de obediência consiste na obrigação de acatamento pronto e leal das ordens e determinações dos superiores hierárquicos dadas em matéria de serviço e na forma legal.\n\n2 - No cumprimento do dever de obediência, cabe ao militar da Guarda, designadamente:\n\na) Observar completa e prontamente as leis e regulamentos, cumprindo com exactidão e oportunidade as ordens e instruções dos seus legítimos superiores relativas ao serviço;\n\nb) Cumprir completa e prontamente as ordens que pelas sentinelas, patrulhas, rondas, guardas e outros postos de serviço lhe forem transmitidas em virtude da missão que aos mesmos tenha sido incumbida ou das instruções que tenham recebido;\n\nc) Entregar a arma ou armas de que seja portador quando legitimamente lhe seja intimada ordem de prisão;\n\nd) Aceitar, sem hesitação, alojamento, uniforme, equipamento e armamento que lhe tenham sido distribuídos nos termos regulamentares e, fora dos casos justificados, alimentação em género que lhe seja fornecida, bem como quaisquer vencimentos, subsídios e outros abonos que lhe forem atribuídos, salvaguardado o direito de requerer rectificação quando neles detecte erro ou lacuna;\n\ne) Declarar fielmente o nome, posto, número, subunidade e unidade ou estabelecimento em que preste serviço sempre que tal lhe seja exigido por superior hierárquico ou solicitado por autoridade competente."
+  },
+  "877342119": {
+   "fragment_id": "877342936",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de lealdade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de lealdade\n\n1 - O dever de lealdade consiste na obrigação do desempenho de funções em subordinação aos objectivos do serviço e na prossecução do interesse público.\n\n2 - No cumprimento do dever de lealdade, cabe ao militar da Guarda, designadamente:\n\na) Informar com verdade os seus superiores hierárquicos acerca de qualquer assunto de serviço, sempre que os mesmos lho solicitem;\n\nb) Desde que não seja da sua competência a assunção dos procedimentos exigíveis, comunicar imediatamente aos seus superiores hierárquicos quaisquer faltas de serviço ou actos que outros militares tenham praticado contra disposições expressas da lei e, bem assim, todos os factos susceptíveis de pôr em perigo a ordem pública, a segurança de pessoas e bens, o normal funcionamento das instituições democráticas e, em geral, os valores penalmente protegidos;\n\nc) Quando apresente petições, pretensões, reclamações ou outros escritos semelhantes que tenha entendido formular, dirigi-los à autoridade competente para deles conhecer, sempre, por via hierárquica, para tanto os entregando no escalão em que preste serviço."
+  },
+  "884564238": {
+   "fragment_id": "877342937",
+   "type": 11,
+   "heading": "Artigo 11.º — Dever de proficiência",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 11.º — Dever de proficiência\n\n1 - O dever de proficiência consiste na obrigação genérica de idoneidade profissional, a revelar-se no desempenho eficiente e competente, pelo militar da Guarda, das suas funções.\n\n2 - Para efeitos do disposto no número anterior, deve o militar da Guarda, designadamente:\n\na) Assumir-se como exemplo de respeito pela legalidade democrática, agindo de forma a incutir na comunidade a confiança na acção desenvolvida pela instituição de que faz parte;\n\nb) Reger-se pelos princípios da honra, da lealdade e da dedicação ao serviço, enfrentando com coragem os riscos inerentes às missões de que seja incumbido;\n\nc) Usar, dentro dos limites da lei, os meios que a prudência, a sensatez e as circunstâncias lhe ditarem para, como agente da força pública, manter ou restabelecer a ordem, acautelando, no entanto, em todos os momentos, o respeito pela vida, pela integridade física e moral e pela dignidade das pessoas, utilizando a persuasão como regra de actuação e só fazendo uso da força esgotados que sejam os restantes meios e nos casos expressamente previstos na lei;\n\nd) Apenas utilizar a arma que tenha distribuída nos termos previstos na lei;\n\ne) Não interferir, sem que para tal seja convenientemente solicitado, no serviço de qualquer autoridade, prestando, contudo, aos seus agentes o auxílio reclamado.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342121": {
+   "fragment_id": "877342938",
+   "type": 11,
+   "heading": "Artigo 12.º — Dever de zelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Dever de zelo\n\n1 - O dever de zelo consiste na dedicação integral ao serviço, a revelar-se no conhecimento e cumprimento diligente dos preceitos legais e regulamentares e das ordens e instruções relativas ao serviço dimanadas dos superiores hierárquicos e, bem assim, no empenho em desenvolver as qualidades pessoais, aptidões profissionais e técnicas e os métodos de trabalho necessários ao eficiente exercício de funções.\n\n2 - No cumprimento do dever de zelo, cabe ao militar da Guarda, designadamente:\n\na) Empenhar toda a sua capacidade, brio e saber no serviço de que esteja incumbido;\n\nb) Conhecer, cumprir e fazer cumprir as disposições legais e regulamentares em vigor, desenvolvendo, através da instrução, esforço e iniciativa, as qualidades e aptidões indispensáveis ao correcto desempenho do serviço e instruindo e estimulando os seus subordinados com idêntica finalidade;\n\nc) Considerar-se disponível para o serviço, pronto para em qualquer momento, mesmo quando fora do exercício normal de funções, assumir a condição plena de agente de autoridade, e intervir como tal, conhecendo e tomando conta das ocorrências que se integrem na sua esfera de competência própria ou delegada e participando-as nos demais casos à autoridade competente para delas conhecer;\n\nd) Procurar impedir, por todos os meios legítimos ao seu alcance, qualquer flagrante delito, detendo o seu autor nos casos em que a lei o permita;\n\ne) Acudir a prestar auxílio em situações de catástrofe ou calamidade pública, pondo todo o empenho no socorro aos sinistrados e na atenuação dos danos, informando a entidade de que dependa;\n\nf) Manter-se vigilante e diligente no local ou posto de serviço que lhe tenha sido atribuído, garantindo a tranquilidade e segurança das pessoas, da propriedade pública ou privada e das instituições;\n\ng) Estando no exercício de funções, não se ausentar da área onde presta serviço, a não ser devidamente autorizado, ou quando deva efectuar diligências urgentes necessárias ao esclarecimento de qualquer ilícito de natureza criminal ou contra-ordenacional;\n\nh) Comunicar o seu domicílio habitual ou eventual e, no caso de ausência por licença ou doença, o local onde possa ser encontrado ou contactado;\n\ni) Promover, no exercício das suas funções, os interesses da Guarda e da Fazenda Nacional, cumprindo e fazendo cumprir as pertinentes disposições legais a eles respeitantes;\n\nj) Não utilizar nem permitir que se utilizem instalações, armamento, viaturas e demais material em fins estranhos ao serviço, desde que para tal não exista a necessária autorização;\n\nl) Não arruinar ou inutilizar, dolosamente ou por negligência, ou por qualquer outra maneira distrair do seu legal destino ou aplicação os artigos de armamento, fardamento, equipamento ou outros que lhe tenham sido distribuídos para o desempenho das suas obrigações de serviço ou que, estando-lhe confiados, pertençam a terceiros;\n\nm) Diligenciar a limpeza e conservação dos artigos de fardamento, armamento, viaturas, equipamento, arreios e quaisquer outros que lhe forem distribuídos ou estejam a seu cargo, e, bem assim, cuidar com diligência do solípede ou do canídeo que lhe tenha sido distribuído para serviço ou tratamento;\n\nn) Não consentir que alguém se apodere das armas e equipamentos que lhe estejam distribuídos ou à sua responsabilidade;\n\no) Dar, em tempo oportuno, o andamento devido às solicitações, pretensões e reclamações que lhe sejam apresentadas, informando-as, quando necessário, com vista à decisão que sobre elas deva ser lavrada."
+  },
+  "884564239": {
+   "fragment_id": "877342939",
+   "type": 11,
+   "heading": "Artigo 13.º — Dever de isenção",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 13.º — Dever de isenção\n\n1 - O dever de isenção consiste em não retirar vantagens diretas ou indiretas, pecuniárias ou outras, para si ou para terceiros, das funções exercidas, atuando com independência em relação a interesses ou a pressões de qualquer índole.\n\n2 - No cumprimento do dever de isenção, cabe ao militar da Guarda, designadamente:\n\na) Não se valer da sua autoridade ou posto de serviço nem invocar o nome de superior para haver lucro ou vantagem, exercer pressão, vingança ou tomar desforço por qualquer acto ou procedimento oficial ou particular;\n\nb) Conservar, no desempenho de funções, uma rigorosa neutralidade política, estando-lhe vedado, quando na efectividade de serviço, exercer qualquer actividade política ou partidária, ou filiar-se em agrupamentos ou associações com essa índole;\n\nc) Não assistir uniformizado, a menos que devidamente autorizado, a comícios, manifestações ou reuniões públicas de carácter político e, estando na efectividade de serviço, ainda que em trajo civil, não tomar parte em mesas, fazer uso da palavra ou exercer qualquer actividade no âmbito de tais eventos;\n\nd) Abster-se de exercer actividades que o coloquem em situação de dependência susceptível de afectar a sua respeitabilidade pessoal, isenção e dignidade funcional perante a comunidade ou a instituição a que pertence;\n\ne) Enquanto na efectividade de serviço, não exercer, por si ou por interposta pessoa, quaisquer actividades sujeitas a fiscalização das autoridades policiais, nem agir como mandatário, gestor ou mediador em actos ou negócios que requeiram a intervenção de serviços no âmbito das mesmas, e, bem assim, abster-se de actividades relacionadas com o equipamento, armamento ou reparação de materiais destinados às Forças Armadas ou às forças de segurança;\n\nf) Enquanto na efetividade de serviço, não exercer quaisquer atividades de natureza comercial ou industrial, atividades de índole lucrativa ou outras que também exijam autorização prévia, sem que esta, em qualquer dos casos, tenha sido obtida;\n\ng) Enquanto na efectividade de serviço, recusar a nomeação para qualquer cargo, comissão, função ou emprego, público ou privado, sem prévia autorização da entidade competente;\n\nh) Não contrair dívidas ou assumir compromissos, de que resultem situações de dependência incompatíveis com a liberdade, imparcialidade, isenção e objectividade que funcionalmente lhe cabe salvaguardar;\n\ni) Não aceitar nem promover recomendações de favor ou, em qualquer caso, atentatórias da liberdade de apreciação e do espírito de justiça;\n\nj) Não solicitar favores, nem pedir ou aceitar valores ou quaisquer outros benefícios que possam interferir, directa ou indirectamente, com a independência, objectividade e imparcialidade que lhe cabe guardar no exercício das suas funções;\n\nl) Não encobrir criminosos ou transgressores, nem prestar aos mesmos auxílio ilegítimo que os ajude a subtraírem-se às consequências dos actos que tenham praticado, ou que contribua para que se frustre ou dificulte o apuramento das responsabilidades respectivas, ou para que se quebre a incomunicabilidade dos detidos, sem prejuízo do que se dispõe na legislação processual penal;\n\nm) Não estabelecer relações de convivência e familiaridade ou acompanhar com pessoas que, por razões criminais, estejam sujeitas a vigilância policial.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564240": {
+   "fragment_id": "877342940",
+   "type": 11,
+   "heading": "Artigo 14.º — Dever de correcção",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 14.º — Dever de correcção\n\n1 - O dever de correção consiste no trato respeitoso com o público em geral e entre militares, independentemente da sua graduação, tendo sempre presente que as relações a manter se devem pautar por regras de cortesia, justiça, igualdade, imparcialidade e integridade.\n\n2 - No cumprimento do dever de correcção, cabe ao militar da Guarda, designadamente:\n\na) Não adoptar condutas lesivas do prestígio da instituição;\n\nb) Não fazer, sem autorização superior, declarações públicas que abordem assuntos relativos à Guarda, nomeadamente quando respeitem a matéria de serviço;\n\nc) Não autorizar, promover ou tomar parte em manifestações, reuniões ou outros actos colectivos nem apresentar petições colectivas, fora dos casos previstos na lei, nomeadamente sobre assuntos de carácter político ou respeitantes à Guarda;\n\nd) Não se referir a outros militares por qualquer forma que denote falta de respeito, nem consentir que subordinados seus o façam;\n\ne) Não manifestar, de viva voz, por escrito ou por qualquer outro meio, ideias, nem praticar actos ofensivos da Constituição em vigor, dos órgãos do Estado ou dos seus membros;\n\nf) Usar de toda a deferência e respeito nas suas relações com a comunidade em que a sua acção se inscreve, tratando com as atenções devidas todas as pessoas, adoptando, sempre, procedimentos justos e ponderados, linguagem correcta e atitudes firmes e serenas, e não lhes fazendo exigências contrárias à lei e ao decoro;\n\ng) Respeitar, quando destacado no estrangeiro, as regras de comportamento que rejam as forças militares ou de segurança do país em que no caso tenha funções;\n\nh) Não perturbar a ordem, nem transgredir os preceitos que vigorem no lugar em que se encontre, no País ou no estrangeiro, jamais maltratando os habitantes ou ofendendo os seus legítimos direitos, crenças, costumes e interesses, ainda que se encontre fora de situação de serviço, quando de folga ou mesmo em gozo de licença;\n\ni) Respeitar os membros dos órgãos de soberania e as autoridades judiciárias, administrativas e militares, prestando-lhes as devidas deferências, tratando por modo conveniente os seus agentes e cumprindo as ordens legítimas que destes emanem;\n\nj) Usar para com os outros militares as deferências em uso na sociedade civil e zelar pela boa convivência, procurando assegurar a solidariedade e camaradagem entre aqueles que consigo sirvam, acautelando as regras da disciplina e da honra, e mantendo estrito respeito nas relações recíprocas;\n\nk) Não se apoderar de objectos ou valores que lhe não pertençam;\n\nl) Pagar as dívidas que contraia, em conformidade com os compromissos que tenha assumido;\n\nm) Não aceitar quaisquer homenagens que não tenham sido superiormente autorizadas;\n\nn) Não pedir nem aceitar de inferior hierárquico, como dádiva ou empréstimo, valores, pecuniários ou outros, ou qualquer objecto;\n\no) Identificar-se prontamente, quando use trajo civil, através da exibição do bilhete de identidade militar, sempre que isso lhe seja solicitado ou as circunstâncias do serviço o exijam como modo de certificação da qualidade de agente da autoridade, e, quando uniformizado, pela declaração do nome, posto, número, subunidade e unidade ou estabelecimento a que pertença, logo que, estando no desempenho de função policial, tal lhe seja requerido por pessoa com a qual tenha interagido no quadro dessa função;\n\np) Desempenhar as suas funções com imparcialidade, respeitando o princípio da igualdade;\n\nq) Prestar ao cidadão, nos termos legais, a informação que lhe seja solicitada, com ressalva daquela que, legalmente, não deva ser divulgada.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342124": {
+   "fragment_id": "877342941",
+   "type": 11,
+   "heading": "Artigo 15.º — Dever de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Dever de disponibilidade\n\n1 - O dever de disponibilidade consiste em o militar da Guarda manter-se permanentemente pronto para o serviço, ainda que com sacrifício dos interesses pessoais.\n\n2 - No cumprimento do dever de disponibilidade, cabe ao militar da Guarda, designadamente:\n\na) Apresentar-se com pontualidade no lugar a que seja chamado ou onde deva comparecer em virtude das obrigações de serviço;\n\nb) Comparecer no comando, unidade ou estabelecimento a que pertença sempre que circunstâncias especiais o exijam, nomeadamente em caso de grave alteração da ordem pública, de emergência ou de calamidade;\n\nc) Não se ausentar, sem a devida autorização, do posto ou local onde deva permanecer por motivo do serviço ou por determinação superior."
+  },
+  "877342125": {
+   "fragment_id": "877342942",
+   "type": 11,
+   "heading": "Artigo 16.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Dever de sigilo\n\n1 - O dever de sigilo consiste na obrigação de guardar segredo profissional relativamente a factos e matérias de que seja obtido conhecimento em virtude do exercício de funções e que não devam ser publicamente revelados.\n\n2 - No cumprimento do dever de sigilo, cabe ao militar da Guarda, designadamente:\n\na) Cumprir rigorosamente as normas de segurança que se encontrem estabelecidas, não revelando assuntos, factos ou ordens que lhe tenham sido transmitidos, ou de que tenha conhecimento, sempre que desse acto possa resultar prejuízo para o serviço ou para a disciplina;\n\nb) Não revelar matérias que constituam segredo do Estado ou de justiça e, nos termos da legislação do processo penal, não divulgar toda e qualquer actividade que respeite à prevenção e investigação criminal e, bem assim, concernente à realização de diligências em processos de contra-ordenação e processos disciplinares;\n\nc) Não revelar dados, relacionados com a actividade operacional da Guarda, classificados com o grau de reservado ou superior, salvo mediante autorização de entidade hierarquicamente competente;\n\nd) Não divulgar elementos que constem de registos, de centros de dados ou de quaisquer documentos a que, por motivo de serviço, tenha acesso;\n\ne) Não se servir dos meios de comunicação social ou de outros meios de difusão para tratar de assuntos de serviço ou para responder a apreciações feitas a serviço de que esteja incumbido, salvo quando previamente autorizado."
+  },
+  "884564241": {
+   "fragment_id": "877342943",
+   "type": 11,
+   "heading": "Artigo 17.º — Dever de aprumo",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 17.º — Dever de aprumo\n\n1 - O dever de aprumo consiste na assunção, no serviço e fora dele, dos princípios, atitudes e comportamentos através dos quais se exprimem e reforçam a dignidade da função cometida à Guarda, o seu prestígio, a sua imagem externa e a dos elementos que a integram.\n\n2 - No cumprimento do dever de aprumo, cabe ao militar da Guarda, designadamente:\n\na) Não praticar, no serviço ou fora dele, acções contrárias à moral pública, ao brio e ao decoro, comportando-se, em todas as circunstâncias, em estrita conformidade com a dignidade da sua função e posto;\n\nb) Abster-se, no serviço ou fora dele, da prática de quaisquer atos que possam prejudicar-lhe o vigor e a aptidão física ou intelectual, designadamente o consumo excessivo de bebidas alcoólicas ou o consumo de estupefacientes, substâncias psicotrópicas, substâncias psicoativas, ou drogas equiparáveis, salvo quando o consumo resulte de prescrição médica;\n\nc) Usar uniforme quando em acto de serviço, excepto nos casos em que a lei não o permita ou seja expressamente determinado ou autorizado o contrário;\n\nd) Cuidar da sua boa apresentação pessoal e manter-se rigorosamente uniformizado e equipado nos actos de serviço e, fora destes, sempre que faça uso de uniforme;\n\ne) Manter nas formaturas uma atitude firme e correcta;\n\nf) Não tomar parte em espectáculos públicos, se para isso não lhe estiver concedida autorização, e, quando uniformizado e fora de situação em que o serviço o imponha, não assistir àqueles que, pela sua índole, possam afectar a sua dignidade pessoal ou funcional;\n\ng) Não participar em qualquer jogo, quando tal lhe seja proibido por lei;\n\nh) Não alterar o plano de uniformes nem trajar uniforme ou usar distintivos, insígnias ou condecorações a que não tenha direito, ou sem a devida autorização;\n\ni) Não utilizar a sua condição de agente de autoridade para fins publicitários.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564621": {
+   "fragment_id": "884564158",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Dever de autoridade",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 17.º-A — Dever de autoridade\n\n1 - O dever de autoridade consiste na orientação consciente e eficaz, pelo comandante, diretor ou chefe, dos militares que lhe estão subordinados, em ordem a impulsioná-los no cumprimento das respetivas missões.\n\n2 - Para efeitos do disposto no número anterior, deve o militar da Guarda, designadamente:\n\na) Constituir-se exemplo de conduta, pessoal e profissional, perante os seus subordinados;\n\nb) Assumir a inteira responsabilidade dos atos que sejam praticados em conformidade com as suas ordens;\n\nc) Não abusar da autoridade que resulte da sua graduação ou antiguidade, cingindo-se à que estas lhe conferem e abstendo-se de exercer competência que não lhe esteja cometida;\n\nd) Ser prudente e justo, mas firme, na exigência do cumprimento das ordens, regulamentos e outras determinações, jamais impondo aos seus subordinados a execução de atos ilegais ou estranhos ao serviço;\n\ne) Ser sensato e enérgico na atuação contra qualquer desobediência, falta de respeito ou outras faltas em execução, utilizando para esse fim todos os meios facultados pela lei;\n\nf) Recompensar e punir os seus subordinados, nos termos do presente Regulamento.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564622": {
+   "fragment_id": "884564159",
+   "type": 11,
+   "heading": "Artigo 17.º-B — Dever de tutela",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 17.º-B — Dever de tutela\n\nO dever de tutela consiste em zelar pelos interesses e bem-estar dos seus subordinados e dar conhecimento, através da via hierárquica, dos problemas de que tenha conhecimento e àqueles digam respeito.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342127": {
+   "fragment_id": "877342944",
+   "type": 1,
+   "heading": "Capítulo III — Infracções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Infracções disciplinares"
+  },
+  "884564242": {
+   "fragment_id": "877342945",
+   "type": 11,
+   "heading": "Artigo 18.º — Qualificação",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 18.º — Qualificação\n\nAs infrações disciplinares qualificam-se como leves, graves e muito graves.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564243": {
+   "fragment_id": "877342946",
+   "type": 11,
+   "heading": "Artigo 19.º — Infrações disciplinares leves",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 19.º — Infrações disciplinares leves\n\nSão infrações disciplinares leves os comportamentos dos militares da Guarda, violadores dos deveres a que se encontram adstritos, cometidos com negligência simples, de que não resulte dano ou prejuízo para o serviço ou para terceiros e que não ponham em causa o prestígio e o bom nome da instituição.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564244": {
+   "fragment_id": "877342947",
+   "type": 11,
+   "heading": "Artigo 20.º — Infracções disciplinares graves",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 20.º — Infracções disciplinares graves\n\nSão infrações disciplinares graves os comportamentos dos militares da Guarda, violadores dos deveres a que se encontram adstritos, cometidos com negligência grosseira ou dolo, ou de que resulte dano ou prejuízo para o serviço ou para terceiros, ou que ponham em causa o prestígio e o bom nome da instituição.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564245": {
+   "fragment_id": "877342948",
+   "type": 11,
+   "heading": "Artigo 21.º — Infracções disciplinares muito graves",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 21.º — Infracções disciplinares muito graves\n\n1 - São infrações disciplinares muito graves os comportamentos dos militares da Guarda, violadores dos deveres a que se encontram adstritos, cometidos com dolo, de que resultem avultados danos ou prejuízos para o serviço ou para terceiros e que ponham gravemente em causa o prestígio e o bom nome da instituição, inviabilizando, dessa forma, a manutenção da relação funcional.\n\n2 - São susceptíveis de inviabilizar a manutenção da relação funcional, designadamente:\n\na) Usar de poderes de autoridade não conferidos por lei ou abusar dos poderes inerentes às suas funções, tratando de forma cruel, degradante ou desumana quem se encontre sob a sua guarda ou vigilância, ou atentando, noutra qualquer situação de serviço, contra a integridade física ou outros direitos fundamentais das pessoas;\n\nb) Fazer uso da arma que tenha distribuída, contra qualquer pessoa, fora das circunstâncias e dos requisitos legais que o permitem;\n\nc) Atentar gravemente contra a ordem, a disciplina, a imagem e o prestígio da instituição;\n\nd) Agredir, injuriar ou desrespeitar gravemente qualquer militar da Guarda ou terceiro, em local de serviço ou em público;\n\ne) Praticar, no exercício de funções ou fora delas, crime doloso, punível com pena de prisão superior a três anos, que revele ser o militar incapaz ou indigno da confiança necessária ao exercício da função;\n\nf) Encobrir criminosos ou ministrar-lhes auxílio ilegítimo;\n\ng) Solicitar ou aceitar, directa ou indirectamente, dádivas, gratificações, participações em lucros ou outras vantagens patrimoniais indevidas, com o fim de praticar ou omitir acto inerente às suas funções ou resultante do cargo ou posto que ocupa;\n\nh) Retirar vantagens de qualquer natureza da função, em contrato, em que tome parte ou interesse, directamente ou por interposta pessoa, celebrado ou a celebrar por qualquer serviço público;\n\ni) Faltar aos deveres funcionais com intenção de obter, para si ou para terceiro, benefício económico ilícito, não promovendo atempadamente os procedimentos adequados, ou praticando atos que lesem, em negócio jurídico ou por mero ato material, designadamente por destruição, adulteração ou extravio de documentos ou por viciação de dados para tratamento informático, os interesses patrimoniais que, no todo ou em parte, lhe cumpre, em razão das suas funções, administrar, fiscalizar, defender ou realizar;\n\nj) Utilizar ilicitamente fundos públicos;\n\nk) Revelar, sem autorização, dados relativos à actividade da Guarda, classificados com grau de reservado ou superior, ou, em geral, matérias que constituam segredo do Estado, de justiça ou profissional;\n\nl) Não observar as normas de segurança ou deveres funcionais, daqui resultando grave prejuízo para a atividade operacional da Guarda e dos bens e missões que lhe estão confiados;\n\nm) Ofender gravemente, quando no exercício de funções, as instituições e princípios consagrados na Constituição da República Portuguesa;\n\nn) Não cumprir norma sobre incompatibilidade legal a que se encontre sujeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342132": {
+   "fragment_id": "877342949",
+   "type": 13,
+   "heading": "Título II — Medidas disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Medidas disciplinares"
+  },
+  "877342133": {
+   "fragment_id": "877342950",
+   "type": 1,
+   "heading": "Capítulo I — Recompensas e seus efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Recompensas e seus efeitos"
+  },
+  "884564246": {
+   "fragment_id": "877342951",
+   "type": 11,
+   "heading": "Artigo 22.º — Recompensas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 22.º — Recompensas\n\n1 - As recompensas destinam-se a destacar condutas relevantes dos militares da Guarda que transcendam o simples cumprimento do dever e se notabilizem por particulares valia e mérito.\n\n2 - A competência para a concessão de recompensas é exercida pelas entidades e nos termos constantes do quadro anexo A a este Regulamento, sem prejuízo do disposto no artigo seguinte.\n\n3 - A concessão de recompensas terá lugar sob iniciativa da autoridade em subordinação hierárquica à qual se desenvolveu a conduta ou foi praticado o acto merecedores de distinção, com prévia obtenção de parecer do comandante, director ou chefe de que o militar dependa organicamente, sempre que o mesmo não seja o proponente ou concedente.\n\n4 - As recompensas que podem ser concedidas aos militares da Guarda, ao abrigo do presente Regulamento, são as seguintes:\n\na) Referência elogiosa;\n\nb) Louvor;\n\nc) Licença por mérito;\n\nd) Promoção por distinção.\n\n5 - As recompensas são publicadas em ordem de serviço e registadas no processo individual do militar.\n\n6 - As recompensas concedidas pelo Ministro da Administração Interna são publicadas na 2.ª série do Diário da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564247": {
+   "fragment_id": "877342952",
+   "type": 11,
+   "heading": "Artigo 23.º — Referência elogiosa",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 23.º — Referência elogiosa\n\n1 - A referência elogiosa é a manifestação do reconhecimento pela prática de ato digno de distinção ou conduta relevante, conferida a subordinado ou inferior hierárquico.\n\n2 - A referência elogiosa pode ser conferida, quer pela entidade de quem o visado dependa funcionalmente, quer por militar que, não detendo ascendência funcional sobre ele, ou possuindo-a a título precário, tenha decidido conferi-la como alternativa a proposta de louvor para o responsável hierárquico competente para concedê-lo.\n\n3 - (Revogado.)\n\n4 - A referência elogiosa pode ser conferida nos mesmos termos a uma unidade, subunidade ou qualquer fracção orgânica da Guarda.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342136": {
+   "fragment_id": "877342953",
+   "type": 11,
+   "heading": "Artigo 24.º — Louvor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Louvor\n\n1 - O louvor consiste no reconhecimento público de actos ou comportamentos reveladores de notável valor, assinalável competência profissional e profundo sentido cívico do cumprimento do dever, e é tanto mais importante quanto mais elevado for o grau hierárquico da entidade que o confere.\n\n2 - O louvor pode ser colectivo ou individual, consoante contemple uma unidade, subunidade ou fracção orgânica da Guarda, ou nomeie individualmente os militares a quem é atribuído."
+  },
+  "877342137": {
+   "fragment_id": "877342954",
+   "type": 11,
+   "heading": "Artigo 25.º — Licença por mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Licença por mérito\n\n1 - A licença por mérito destina-se a recompensar os militares da Guarda que no serviço revelem excepcionais zelo e dedicação ou tenham praticado actos de reconhecido relevo.\n\n2 - A licença por mérito tem o limite máximo de 30 dias, não implica perda de remunerações, suplementos e subsídios, nem acarreta quaisquer descontos no tempo de serviço, devendo ser gozada, seguida ou interpoladamente, no prazo de um ano a partir da data do despacho que a tenha concedido.\n\n3 - A licença por mérito só pode ser interrompida por decisão da entidade que a concedeu e com fundamento em imperiosa necessidade de serviço."
+  },
+  "877342138": {
+   "fragment_id": "877342955",
+   "type": 11,
+   "heading": "Artigo 26.º — Promoção por distinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Promoção por distinção\n\n1 - A promoção por distinção tem lugar nas condições e consoante os termos estabelecidos no Estatuto dos Militares da GNR.\n\n2 - A promoção por distinção produz a anulação de todas as penas disciplinares anteriormente aplicadas ao promovido, desde que não superiores à de suspensão agravada, sem prejuízo dos efeitos já produzidos."
+  },
+  "877342139": {
+   "fragment_id": "877342956",
+   "type": 1,
+   "heading": "Capítulo II — Penas disciplinares e seus efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Penas disciplinares e seus efeitos"
+  },
+  "884564248": {
+   "fragment_id": "877342957",
+   "type": 11,
+   "heading": "Artigo 27.º — Penas disciplinares",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 27.º — Penas disciplinares\n\n1 - As penas aplicáveis aos militares da Guarda abrangidos pelo presente Regulamento, pelas infrações disciplinares que cometerem, distinguem-se entre penas principais e penas acessórias.\n\n2 - Constituem penas principais as seguintes:\n\na) Repreensão escrita;\n\nb) Repreensão escrita agravada;\n\nc) Suspensão;\n\nd) Suspensão agravada;\n\ne) Separação de serviço.\n\n3 - Constitui pena acessória a pena de transferência compulsiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342141": {
+   "fragment_id": "877342958",
+   "type": 11,
+   "heading": "Artigo 28.º — Repreensão escrita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Repreensão escrita\n\nA repreensão escrita consiste num mero reparo pessoal, feito na forma escrita, pela irregularidade praticada."
+  },
+  "877342142": {
+   "fragment_id": "877342959",
+   "type": 11,
+   "heading": "Artigo 29.º — Repreensão escrita agravada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Repreensão escrita agravada\n\nA repreensão escrita agravada consiste numa censura escrita ao infractor, que lhe será transmitida oralmente na presença de outros militares de graduação superior ou igual à sua e, neste último caso, de maior antiguidade."
+  },
+  "884564249": {
+   "fragment_id": "877342960",
+   "type": 11,
+   "heading": "Artigo 30.º — Suspensão",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 30.º — Suspensão\n\n1 - A pena de suspensão traduz-se no afastamento completo do serviço pelo período que for fixado, entre 5 e 120 dias, mantendo o militar unicamente direito a um terço do vencimento auferido à data da execução.\n\n2 - A pena de suspensão implica, cumulativamente:\n\na) A perda de igual tempo de serviço efectivo;\n\nb) A perda de suplementos e subsídios;\n\nc) A impossibilidade de ser promovido durante o período de execução da pena;\n\nd) A possibilidade de aplicação da pena acessória de transferência compulsiva, por período até dois anos, nos termos do artigo 35.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564250": {
+   "fragment_id": "877342961",
+   "type": 11,
+   "heading": "Artigo 31.º — Suspensão agravada",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 31.º — Suspensão agravada\n\n1 - A pena de suspensão agravada consiste no afastamento completo do serviço pelo período fixado, entre 121 e 240 dias, mantendo o militar unicamente direito a um terço do vencimento auferido à data da execução.\n\n2 - A suspensão agravada implica, cumulativamente:\n\na) A perda de igual tempo de serviço efectivo;\n\nb) A perda de suplementos e subsídios;\n\nc) A impossibilidade de ser promovido durante o período de execução da pena e durante o ano imediatamente subsequente;\n\nd) A transferência, desde que verificados os pressupostos constantes do artigo 35.º.\n\n3 - A suspensão agravada pode ainda implicar a aplicação da pena acessória de transferência compulsiva, por período até quatro anos, nos termos do artigo 35.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564592": {
+   "fragment_id": "877342962",
+   "type": 11,
+   "heading": "Artigo 32.º — Reforma compulsiva",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 32.º — Reforma compulsiva\n\n1 - A pena de reforma compulsiva consiste na passagem forçada à situação de reformado, com a cessação da relação funcional.\n\n2 - A pena de reforma compulsiva implica para o militar punido a reforma, nos termos e nas condições estabelecidos no Estatuto da Aposentação.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342146": {
+   "fragment_id": "877342963",
+   "type": 11,
+   "heading": "Artigo 33.º — Separação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Separação de serviço\n\nA pena de separação de serviço consiste no afastamento definitivo da Guarda, com extinção do vínculo funcional à mesma e a perda da qualidade de militar, ficando interdito o uso de uniforme, distintivos e insígnias militares, sem prejuízo do direito à pensão de reforma."
+  },
+  "884564251": {
+   "fragment_id": "877342964",
+   "type": 11,
+   "heading": "Artigo 34.º — Militares reformados",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 34.º — Militares reformados\n\n1 - São aplicáveis aos militares da Guarda na situação de reforma as penas a que se referem os números seguintes.\n\n2 - Os militares da Guarda na situação de reforma, quando façam uso de uniforme, estão vinculados ao respeito pelo dever de aprumo, ficando sujeitos, pela sua violação, às penas de repreensão escrita e repreensão escrita agravada.\n\n3 - Aos militares da Guarda na situação de reforma é ainda aplicável a pena de separação de serviço, quando pratiquem crime doloso que, pela sua natureza, atente gravemente contra o bom nome, o prestígio e a imagem da instituição.\n\n4 - Por factos praticados antes da passagem à situação de reforma, são aplicáveis aos militares reformados as penas previstas no presente Regulamento, com as adaptações decorrentes do número seguinte.\n\n5 - As penas a que se referem os artigos 30.º, 31.º e 33.º têm, respetivamente, a seguinte conformação no tocante a militares reformados:\n\na) Perda de dois terços da pensão mensal, pelo período de tempo correspondente à suspensão ou suspensão agravada;\n\nb) Perda de dois terços da pensão mensal durante o período de quatro anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564252": {
+   "fragment_id": "877342965",
+   "type": 11,
+   "heading": "Artigo 35.º — Pena acessória de transferência compulsiva",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 35.º — Pena acessória de transferência compulsiva\n\n1 - A pena acessória de transferência compulsiva consiste na colocação compulsiva do militar da Guarda noutro órgão, unidade, subunidade, serviço ou estabelecimento de ensino, diferente daquela ou daquele em que se encontra colocado, pelo período de um a quatro anos, sem prejuízo de terceiros.\n\n2 - O período referido no número anterior conta-se a partir do termo do cumprimento da pena principal, descontando o tempo da medida provisória de transferência preventiva, caso esta tenha sido aplicada.\n\n3 - Quando a execução da pena principal seja suspensa, o prazo a que se refere o n.º 1 é contado a partir da data de publicação da pena.\n\n4 - A aplicação e a medida da pena acessória de transferência compulsiva depende da gravidade do ilícito, das circunstâncias da infração ou do prejuízo causado pela presença do arguido no meio em que cometeu a infração.\n\n5 - A transferência compulsiva é concretizada sem dispêndio para a Fazenda Nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564253": {
+   "fragment_id": "877342966",
+   "type": 11,
+   "heading": "Artigo 36.º — Publicação e averbamento das penas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 36.º — Publicação e averbamento das penas\n\n1 - As penas disciplinares são publicadas em ordem de serviço e registadas no processo individual do militar.\n\n2 - As decisões dos recursos disciplinares são publicadas na ordem de serviço onde foi publicado o despacho punitivo objeto do recurso.\n\n3 - As penas aplicadas pelo Ministro da Administração Interna são ainda publicadas na 2.ª série do Diário da República.\n\n4 - As decisões das penas e dos recursos disciplinares previstas nos n.os 1 e 2 não podem ser publicadas na Internet.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564623": {
+   "fragment_id": "884564160",
+   "type": 11,
+   "heading": "Artigo 36.º-A — Averbamento da extinção das penas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 36.º-A — Averbamento da extinção das penas\n\n1 - Em caso de extinção da pena ou da responsabilidade disciplinar efetua-se o correspondente averbamento no respetivo registo.\n\n2 - O disposto no número anterior aplica-se, com as necessárias adaptações, aos casos de revogação, alteração ou anulação contenciosa ou administrativa da pena.\n\n3 - Nas notas extraídas dos registos não são referidas as penas extintas nem os respetivos registos.\n\n4 - Nos casos de revogação, alteração ou anulação contenciosa ou administrativa de penas, são eliminadas as correspondentes entradas no registo disciplinar.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342150": {
+   "fragment_id": "877342967",
+   "type": 1,
+   "heading": "Capítulo III — Circunstâncias dirimentes, atenuantes e agravantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Circunstâncias dirimentes, atenuantes e agravantes"
+  },
+  "884564254": {
+   "fragment_id": "877342968",
+   "type": 11,
+   "heading": "Artigo 37.º — Circunstâncias dirimentes",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 37.º — Circunstâncias dirimentes\n\nSão circunstâncias dirimentes da responsabilidade disciplinar:\n\na) A coacção física;\n\nb) A privação acidental e involuntária do exercício das faculdades intelectuais no momento da prática da infracção;\n\nc) A legítima defesa, própria ou de terceiro;\n\nd) A não exigibilidade de conduta diversa;\n\ne) O exercício de um direito ou o cumprimento de um dever.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564255": {
+   "fragment_id": "877342969",
+   "type": 11,
+   "heading": "Artigo 38.º — Circunstâncias atenuantes",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 38.º — Circunstâncias atenuantes\n\n1 - São circunstâncias atenuantes da responsabilidade disciplinar, nomeadamente:\n\na) A prestação de serviços relevantes à Pátria e à sociedade;\n\nb) O bom comportamento anterior;\n\nc) O pouco tempo de serviço;\n\nd) O facto de o infractor cometer a falta para se desafrontar ou a seu cônjuge, ascendente ou descendente ou a elemento da instituição, quando a reacção seja imediata à afronta ou ao conhecimento desta;\n\ne) A confissão espontânea da falta;\n\nf) A reparação voluntária do dano ou dos prejuízos causados pela infracção;\n\ng) A provocação por parte de outro militar ou de terceiro, quando anteceda imediatamente a infracção;\n\nh) O facto de ter louvor ou outras recompensas;\n\ni) A boa informação de serviço do superior imediato de que depende.\n\n2 - Considera-se que existe bom comportamento anterior quando o militar se encontre colocado nas 1.ª ou 2.ª classes de comportamento, nos termos previstos no presente Regulamento.\n\n3 - Considera-se pouco tempo de serviço o período de dois anos após o ingresso na Guarda.\n\n4 - Para os efeitos do disposto na alínea i) do n.º 1, o instrutor do processo disciplinar solicita ao superior hierárquico do arguido, antes de concluída a instrução, a emissão da informação ali referida, a qual deve ser prestada no prazo máximo de 10 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342153": {
+   "fragment_id": "877342970",
+   "type": 11,
+   "heading": "Artigo 39.º — Atenuação extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Atenuação extraordinária\n\nQuando existam circunstâncias atenuantes que diminuam substancialmente a culpa do arguido, a pena poderá ser atenuada, aplicando-se pena de escalão inferior."
+  },
+  "877342154": {
+   "fragment_id": "877342971",
+   "type": 11,
+   "heading": "Artigo 40.º — Circunstâncias agravantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Circunstâncias agravantes\n\n1 - São circunstâncias agravantes da responsabilidade disciplinar:\n\na) Ser a infracção cometida em ocasião de grave alteração da ordem pública ou atentado contra o regime democrático;\n\nb) Ser a infracção cometida quando o militar se encontre em missão no estrangeiro;\n\nc) A premeditação;\n\nd) O mau comportamento anterior;\n\ne) O facto de a infracção ser cometida em acto de serviço ou por motivo do mesmo, na presença de outros, especialmente subordinados do infractor, ou ainda em público ou em local aberto ao público;\n\nf) Ser a infracção cometida em conluio com outros;\n\ng) A persistência na prática da infracção, nomeadamente depois de reprovada por superior hierárquico, ou de o infractor ter sido alertado para os inconvenientes do seu comportamento;\n\nh) A reincidência;\n\ni) A acumulação de infracções;\n\nj) A vontade determinada de, pela conduta seguida, produzir resultados prejudiciais ao serviço ou ao interesse geral, independentemente de estes se verificarem;\n\nl) Ser a infracção cometida durante o cumprimento de pena disciplinar anteriormente imposta.\n\n2 - A premeditação consiste no desígnio formado vinte e quatro horas antes, pelo menos, da prática da infracção.\n\n3 - Considera-se existir mau comportamento quando o militar se encontre colocado na 4.ª classe de comportamento, nos termos previstos no presente Regulamento.\n\n4 - A acumulação verifica-se quando duas ou mais infracções são praticadas na mesma ocasião ou quando nova falta é cometida antes de haver sido punida a anterior.\n\n5 - A reincidência verifica-se quando nova infracção é cometida antes de decorridos seis meses sobre o dia em que tiver findado o cumprimento da pena imposta por infracção anterior."
+  },
+  "884564591": {
+   "fragment_id": "877342972",
+   "type": 1,
+   "heading": "Capítulo IV — Aplicação, graduação, suspensão de execução e anulação das penas disciplinares",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "### Capítulo IV — Aplicação, graduação, suspensão de execução e anulação das penas disciplinares\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564256": {
+   "fragment_id": "877342973",
+   "type": 11,
+   "heading": "Artigo 41.º — Regras a observar na determinação da pena",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 41.º — Regras a observar na determinação da pena\n\n1 - Na aplicação das penas disciplinares atender-se-á à natureza do serviço, à categoria, posto e condições pessoais do infractor, aos resultados perturbadores da disciplina, ao grau da ilicitude do facto, à intensidade do dolo ou da negligência e, em geral, a todas as circunstâncias agravantes e atenuantes.\n\n2 - Sem prejuízo do disposto no número anterior, são aplicáveis:\n\na) As penas previstas nas alíneas a) e b) do n.º 2 do artigo 27.º, às infrações leves;\n\nb) As penas previstas nas alíneas c) e d) do n.º 2 e no n.º 3 do artigo 27.º, às infrações graves;\n\nc) A pena prevista na alínea e) do n.º 2 do artigo 27.º, às infrações muito graves.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564257": {
+   "fragment_id": "877342974",
+   "type": 11,
+   "heading": "Artigo 42.º — Punição das infracções disciplinares",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 42.º — Punição das infracções disciplinares\n\n1 - Não pode aplicar-se mais de uma pena disciplinar principal por cada infração ou pelas infrações que sejam apreciadas no mesmo processo.\n\n2 - Deve observar-se o disposto no número anterior nos casos de infrações apreciadas em mais de um processo, quando apensados.\n\n3 - Quando um militar da Guarda tiver praticado várias infrações disciplinares, a sanção única a aplicar tem como limite mínimo a sanção prevista para a infração mais grave.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564258": {
+   "fragment_id": "884563675",
+   "type": 11,
+   "heading": "Artigo 43.º — Aplicação de penas expulsivas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 43.º — Aplicação de penas expulsivas\n\nA aplicação da pena de separação de serviço é da competência exclusiva do Ministro da Administração Interna, cuja decisão deve ser precedida de parecer do Conselho de Ética, Deontologia e Disciplina (CEDD) da Guarda.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564259": {
+   "fragment_id": "884563676",
+   "type": 11,
+   "heading": "Artigo 44.º — Suspensão de execução das penas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 44.º — Suspensão de execução das penas\n\n1 - Sem prejuízo do disposto quanto às classes de comportamento, a execução das penas disciplinares de natureza igual ou inferior a suspensão agravada, assim como da pena acessória de transferência compulsiva, pode ser suspensa pela autoridade competente para a sua aplicação, por um período de um a três anos, ponderados os graus da ilicitude e da culpa e o comportamento do arguido, bem como as circunstâncias em que a infração foi praticada.\n\n2 - A suspensão é revogada se o militar, no período da suspensão, for novamente punido em processo disciplinar, sendo ordenado o cumprimento da pena ou penas suspensas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564624": {
+   "fragment_id": "884564161",
+   "type": 11,
+   "heading": "Artigo 44.º-A — Anulação das penas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 44.º-A — Anulação das penas\n\n1 - As penas disciplinares são anuladas, subsistindo todos os efeitos já produzidos, logo que decorridos os seguintes prazos, após a notificação da decisão final punitiva, sem que os militares da Guarda tenham sido novamente punidos disciplinar ou criminalmente:\n\na) Repreensão escrita e repreensão escrita agravada, um ano;\n\nb) Suspensão, três anos;\n\nc) Suspensão agravada, cinco anos.\n\n2 - A pena acessória é anulada logo que decorrido o prazo referido no número anterior para a respetiva pena principal.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342160": {
+   "fragment_id": "884563677",
+   "type": 1,
+   "heading": "Capítulo V — Extinção da responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Extinção da responsabilidade disciplinar"
+  },
+  "877342161": {
+   "fragment_id": "884563678",
+   "type": 11,
+   "heading": "Artigo 45.º — Causas de extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Causas de extinção\n\nA responsabilidade disciplinar extingue-se por:\n\na) Prescrição do procedimento disciplinar;\n\nb) Prescrição da pena;\n\nc) Cumprimento da pena;\n\nd) Morte do infractor;\n\ne) Amnistia, perdão genérico ou indulto."
+  },
+  "884564260": {
+   "fragment_id": "884563679",
+   "type": 11,
+   "heading": "Artigo 46.º — Prescrição do procedimento disciplinar",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 46.º — Prescrição do procedimento disciplinar\n\n1 - O procedimento disciplinar prescreve passados três anos sobre a data em que a infracção tiver sido cometida.\n\n2 - Exceptuam-se as infracções disciplinares que constituam ilícito criminal, as quais só prescrevem, nos termos e prazos estabelecidos na lei penal, se os prazos de prescrição do procedimento criminal forem superiores a três anos.\n\n3 - O direito de instaurar o procedimento disciplinar prescreve também se, conhecida a falta pela entidade com competência disciplinar, aquele não for instaurado no prazo de três meses.\n\n4 - A prescrição interrompe-se com a notificação da acusação ao arguido.\n\n5 - A prescrição do procedimento disciplinar suspende-se durante o tempo em que:\n\na) Estiver pendente processo de sindicância, de averiguações, de inquérito ou disciplinar, ainda que não dirigidos contra o militar da Guarda visado;\n\nb) O procedimento disciplinar não puder legalmente iniciar-se ou continuar por falta de decisão do tribunal sobre processo judicial pendente, ou por efeito de apreciação jurisdicional de questão prejudicial.\n\n6 - No caso previsto na alínea a) do número anterior, a suspensão não pode ultrapassar três anos.\n\n7 - A prescrição do procedimento disciplinar tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal de prescrição acrescido de metade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564261": {
+   "fragment_id": "884563680",
+   "type": 11,
+   "heading": "Artigo 47.º — Prescrição das penas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 47.º — Prescrição das penas\n\n1 - As penas disciplinares prescrevem nos prazos seguintes:\n\na)a) Cinco anos no caso de separação de serviço;\n\nb) Três anos nos casos de suspensão e suspensão agravada;\n\nc) Seis meses nos casos restantes.\n\n2 - O prazo de prescrição começa a correr no dia em que a decisão punitiva se torne hierarquicamente irrecorrível ou em que transitar em julgado a decisão jurisdicional em sede de recurso contencioso.\n\n3 - A prescrição da pena envolve todos os efeitos desta que ainda se não tiverem verificado.\n\n4 - A prescrição da pena suspende-se durante o tempo em que a execução não puder começar ou continuar a ter lugar.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564262": {
+   "fragment_id": "884563681",
+   "type": 11,
+   "heading": "Artigo 48.º — Cumprimento das penas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 48.º — Cumprimento das penas\n\n1 - Sem prejuízo do disposto no n.º 2 do artigo 124.º, as penas disciplinares são cumpridas logo que expirado o prazo para a interposição de recurso hierárquico sem que este tenha sido apresentado ou, tendo-o sido, logo que lhe seja negado provimento.\n\n2 - Nos casos referidos no n.º 3 do artigo 106.º, a pena começará a produzir os seus efeitos 15 dias após a publicação do respectivo aviso.\n\n3 - Se, por motivo de serviço, não puderem ser efectivamente executadas as penas disciplinares, os seus efeitos produzir-se-ão como se as mesmas tivessem sido cumpridas.\n\n4 - O cumprimento das penas de suspensão e suspensão agravada, depois de iniciado, não se interrompe com o internamento do militar da Guarda punido em estabelecimento hospitalar ou com baixa por motivo de doença.\n\n5 - As penas de suspensão e suspensão agravada impostas a militares na frequência de cursos de formação ou promoção, ou estágios de promoção, ou para eles nomeados, serão cumpridas a partir do dia imediato ao termo dos cursos ou estágios, excepto se os interesses da disciplina exigirem o seu cumprimento imediato ou se, sem prejuízo para aqueles, o cumprimento possa ter lugar em data anterior.\n\n6 - O militar que conclua o cumprimento de punição que lhe tenha sido imposta apresentar-se-á a quem tiver por dever fazê-lo, segundo as prescrições regulamentares.\n\n7 - No cumprimento das penas de suspensão e suspensão agravada é descontado o tempo da suspensão preventiva do exercício de funções, caso tenha sido aplicada tal medida provisória.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "877342165": {
+   "fragment_id": "884563682",
+   "type": 11,
+   "heading": "Artigo 49.º — Morte do infractor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Morte do infractor\n\nA morte do infractor extingue a responsabilidade disciplinar, sem prejuízo dos efeitos já produzidos e dos que decorrem da existência da pena para efeitos de direito a pensão de sobrevivência, nos termos da lei geral."
+  },
+  "877342166": {
+   "fragment_id": "884563683",
+   "type": 11,
+   "heading": "Artigo 50.º — Amnistia, perdão genérico e indulto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Amnistia, perdão genérico e indulto\n\nA amnistia, o perdão genérico e o indulto têm os efeitos previstos na lei penal."
+  },
+  "877342167": {
+   "fragment_id": "884563684",
+   "type": 1,
+   "heading": "Capítulo VI — Classes de comportamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Classes de comportamento"
+  },
+  "877342168": {
+   "fragment_id": "884563685",
+   "type": 11,
+   "heading": "Artigo 51.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Noção\n\nAs classes de comportamento visam a qualificação da conduta disciplinar dos militares da Guarda, correspondendo a cada uma um nível comportamental aferido em razão de tempo de serviço, punições e recompensas."
+  },
+  "877342169": {
+   "fragment_id": "884563686",
+   "type": 11,
+   "heading": "Artigo 52.º — Classes de comportamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Classes de comportamento\n\nAs classes em que se articula a qualificação disciplinar dos militares da Guarda são as seguintes:\n\n1.ª classe - exemplar comportamento;\n\n2.ª classe - bom comportamento;\n\n3.ª classe - regular comportamento;\n\n4.ª classe - mau comportamento."
+  },
+  "884564263": {
+   "fragment_id": "884563687",
+   "type": 11,
+   "heading": "Artigo 53.º — Factores e procedimentos classificativos",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 53.º — Factores e procedimentos classificativos\n\n1 - São determinantes na classificação de comportamento:\n\na) As penas aplicadas em processo disciplinar;\n\nb) As penas de prisão aplicadas em processo-crime, quando efetivamente cumpridas, nos termos da lei penal;\n\nc) O tempo de serviço;\n\nd) A anulação das penas;\n\ne) As recompensas.\n\n2 - As recompensas reduzem a contagem do tempo para a anulação das penas ou para a subida de classe de comportamento, mediante a verificação, não cumulativa, dos seguintes factos:\n\na) Referência elogiosa: seis meses;\n\nb) Licença por mérito superior a 10 dias: um ano;\n\nc) Louvor, exceto por doação de sangue: um ano.\n\n3 - (Revogado.)\n\n4 - A classificação de comportamento tem lugar, ordinariamente, nos meses de janeiro e julho, por referência ao último dia dos meses de dezembro e junho, respetivamente, podendo ocorrer também a todo o tempo, em razão de punição que origine mudança de classe.\n\n5 - As mudanças de classe de comportamento devem ser publicadas em ordem de serviço, logo que aplicadas as punições que as produzam, ou nos meses de janeiro ou julho quando se operem através de classificação ordinária, sendo subsequentemente escrituradas na documentação de matrícula dos militares da Guarda a que respeitem.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564264": {
+   "fragment_id": "884563688",
+   "type": 11,
+   "heading": "Artigo 54.º — Colocação na 1.ª classe de comportamento",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 54.º — Colocação na 1.ª classe de comportamento\n\nOs militares da Guarda são colocados na 1.ª classe de comportamento:\n\na) Logo que decorridos três anos após o ingresso na Guarda, sem punições disciplinares e sem condenação pela prática de crime de natureza estritamente militar;\n\nb) Logo que decorridos três anos após a anulação de pena disciplinar ou do fim do prazo da suspensão de execução da pena, nos termos dos artigos 44.º e 44.º-A, que o fez baixar à 2.ª classe de comportamento;\n\nc) Logo que decorridos três anos após a sua colocação na 2.ª classe de comportamento, tendo sido colocado nesta vindo da 3.ª classe de comportamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564265": {
+   "fragment_id": "884563689",
+   "type": 11,
+   "heading": "Artigo 55.º — Colocação na 2.ª classe de comportamento",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 55.º — Colocação na 2.ª classe de comportamento\n\nOs militares da Guarda são colocados na 2.ª classe de comportamento:\n\na) Logo após o ingresso na Guarda;\n\nb) Quando, estando colocados na 1.ª classe de comportamento, lhes seja imposta pena de repreensão escrita agravada ou pena de suspensão igual ou inferior a 30 dias;\n\nc) Logo que decorridos dois anos após a anulação de pena disciplinar ou do fim do prazo da suspensão da pena, nos termos dos artigos 44.º e 44.º-A, que o fez baixar à 3.ª classe de comportamento;\n\nd) Logo que decorridos três anos após a anulação de pena disciplinar ou do fim do prazo da suspensão da pena, nos termos dos artigos 44.º e 44.º-A, que o levou baixar à 4.ª classe de comportamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564266": {
+   "fragment_id": "884563690",
+   "type": 11,
+   "heading": "Artigo 56.º — Colocação na 3.ª classe de comportamento",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 56.º — Colocação na 3.ª classe de comportamento\n\nOs militares da Guarda são colocados na 3.ª classe de comportamento:\n\na) Quando, estando colocados na 1.ª classe de comportamento, lhes seja imposta pena de suspensão superior a 30 dias;\n\nb) Quando, estando na 2.ª classe de comportamento, sejam punidos com pena de suspensão;\n\nc) Quando, decorrido um ano após a colocação na 4.ª classe de comportamento, não sofram punições nesse período.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564267": {
+   "fragment_id": "884563691",
+   "type": 11,
+   "heading": "Artigo 57.º — Colocação na 4.ª classe de comportamento",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 57.º — Colocação na 4.ª classe de comportamento\n\nOs militares da Guarda são colocados na 4.ª classe de comportamento:\n\na) Quando, estando na 3.ª classe de comportamento, sejam punidos com pena de suspensão;\n\nb) Quando, estando nas classes de comportamento anteriores, sejam punidos com pena de suspensão agravada.\n\nc) (Revogada)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563775": {
+   "fragment_id": "884563692",
+   "type": 11,
+   "heading": "Artigo 58.º — Efeito da classificação de comportamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Efeito da classificação de comportamento\n\nOs militares classificados na 4.ª classe de comportamento não poderão ser promovidos enquanto se mantenham na mesma."
+  },
+  "884564268": {
+   "fragment_id": "884563693",
+   "type": 11,
+   "heading": "Artigo 59.º — Mau comportamento",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 59.º — Mau comportamento\n\nOs militares da Guarda, quando colocados na 4.ª classe de comportamento, podem ser apreciados com vista à eventual aplicação da medida estatutária de dispensa do serviço, sendo-o sempre que cometam infração grave e como tal punida.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563777": {
+   "fragment_id": "884563694",
+   "type": 13,
+   "heading": "Título III — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Competência disciplinar"
+  },
+  "884564269": {
+   "fragment_id": "884563695",
+   "type": 11,
+   "heading": "Artigo 60.º — Princípios e âmbito",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 60.º — Princípios e âmbito\n\n1 - A competência disciplinar assenta no poder de comando, direcção ou chefia e nas correspondentes relações de subordinação.\n\n2 - A competência disciplinar dos superiores hierárquicos abrange sempre a dos seus inferiores hierárquicos, dentro do comando, unidade, estabelecimento ou serviço a que pertencem, a que estão adidos ou onde exercem efectivamente funções, nos termos da respectiva cadeia funcional de vinculação hierárquica.\n\n3 - A competência disciplinar envolve a competência para instaurar processo disciplinar, bem como a competência para recompensar e punir, nos termos previstos nos quadros anexos A e B ao presente Regulamento, do qual fazem parte integrante.\n\n4 - Além das recompensas previstas no artigo 22.º, todo o militar da Guarda pode elogiar, de viva voz ou por escrito, os seus subordinados e inferiores hierárquicos, por qualquer ato por eles praticado que não mereça ser recompensado por outra forma.\n\n5 - Todo o militar pode advertir, de viva voz, os seus subordinados e inferiores hierárquicos, por qualquer ato por eles praticado que mereça reparo e não deva ser punido nos termos do presente Regulamento, não o podendo fazer apenas quando na presença de inferior hierárquico do advertido ou de civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564270": {
+   "fragment_id": "884563696",
+   "type": 11,
+   "heading": "Artigo 61.º — Determinação da competência disciplinar",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 61.º — Determinação da competência disciplinar\n\n1 - A competência disciplinar fixa-se no momento em que é praticado o acto que dá origem à recompensa ou punição e não se altera pelo facto de posteriormente cessar a subordinação.\n\n2 - A subordinação inicia-se no momento em que o militar, por título legítimo, fica sujeito às ordens de determinado comandante, director ou chefe, e dura enquanto essa situação se mantiver.\n\n3 - Qualquer superior hierárquico do até então competente pode avocar o processo disciplinar até à decisão final.\n\n4 - O militar pertencente ou adido a determinado comando, unidade, estabelecimento ou serviço, mas exercendo efectivamente funções noutro, fica na dependência disciplinar plena do comandante, director ou chefe deste último, no que a essas funções diga respeito.\n\n5 - Quando nos processos instruídos nos termos dos n.os 1 e 3 do artigo 80.º concorram duas ou mais infracções praticadas pelo mesmo militar, que caibam na competência disciplinar de autoridades diferentes, ou esteja em causa uma só infracção, reportada a um só facto ou a factos conexos, praticados por militares subordinados funcionalmente a autoridades diferentes no momento da prática infringente, será competente para decidir, num caso e noutro, o órgão de menor categoria hierárquica com poderes de supervisão global sobre essas autoridades.\n\n6 - A competência disciplinar sobre os militares da Guarda nas situações de reserva fora da efetividade de serviço e de reforma é exercida pelo Ministro da Administração Interna e pelo Comandante-Geral, nos termos dos quadros A e B anexos ao presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564271": {
+   "fragment_id": "884563697",
+   "type": 11,
+   "heading": "Artigo 62.º — Situações funcionais especiais",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 62.º — Situações funcionais especiais\n\n1 - O militar que assumir comando, direcção ou chefia a que corresponda posto superior ao seu terá, enquanto durar essa situação, a competência disciplinar correspondente à função que exerce.\n\n2 - Relativamente aos militares referidos na parte final do n.º 1 do artigo 1.º do presente Regulamento, a competência disciplinar é exercida pelo Ministro da Administração Interna ou pelo comandante-geral, nos termos dos quadros anexos ao presente Regulamento, mediante parecer prévio obrigatório do dirigente máximo do serviço ou organismo em que aqueles se encontrem a prestar serviço.\n\n3 - O preceituado no número anterior não prejudica a competência dos titulares dos órgãos de soberania e dos oficiais das Forças Armadas para a concessão de louvores a militares da Guarda no desempenho de serviço em organismos sob a sua tutela, nem dos responsáveis nos serviços ou organismos em que estes militares exerçam funções para a concessão de referências elogiosas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563781": {
+   "fragment_id": "884563698",
+   "type": 11,
+   "heading": "Artigo 63.º — Militares em trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Militares em trânsito\n\n1 - Os militares em trânsito mantêm a dependência do comando, unidade, estabelecimento ou serviço que lhes confere a marcha, até à apresentação no destino que lhes foi determinado.\n\n2 - Quando os militares transitarem enquadrados, o disposto no número anterior não prejudica a competência normal atribuída ao comandante da força em que estejam integrados enquanto em trânsito."
+  },
+  "884563782": {
+   "fragment_id": "884563699",
+   "type": 11,
+   "heading": "Artigo 64.º — Faculdade de alterar recompensas ou punições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Faculdade de alterar recompensas ou punições\n\n1 - Qualquer militar poderá considerar como tendo sido dado por si louvor conferido por subordinado seu.\n\n2 - Sem prejuízo dos direitos de audiência e defesa do arguido e com observância das formalidades aplicáveis, o Ministro da Administração Interna e o comandante-geral têm a faculdade de revogar, atenuar ou agravar as penas impostas por qualquer comandante, director ou chefe, quando reconheçam, em despacho fundamentado, a conveniência de usarem essa faculdade.\n\n3 - A faculdade prevista no presente artigo só poderá ser usada em acto de conhecimento de recurso hierárquico."
+  },
+  "884563783": {
+   "fragment_id": "884563700",
+   "type": 11,
+   "heading": "Artigo 65.º — Comunicação de recompensa ou punição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Comunicação de recompensa ou punição\n\n1 - O superior hierárquico que recompensar ou punir um militar seu subordinado, tendo este, entretanto, transitado para a dependência funcional de outra entidade, deve dar conhecimento a esta última da recompensa ou punição.\n\n2 - O superior hierárquico que recompensar ou punir um militar transitoriamente na sua dependência funcional dará do facto conhecimento ao comandante, director ou chefe do comando, unidade, estabelecimento ou serviço a que esse militar pertença."
+  },
+  "884563784": {
+   "fragment_id": "884563701",
+   "type": 11,
+   "heading": "Artigo 66.º — Falta de competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Falta de competência disciplinar\n\n1 - Os militares a quem por este Regulamento não seja conferida competência disciplinar devem participar superiormente, por escrito, qualquer acto praticado pelos seus inferiores hierárquicos, que tenham presenciado ou de que oficialmente tenham conhecimento, e que lhes pareça dever ser recompensado ou punido.\n\n2 - O militar que tome conhecimento de acto, praticado por um seu subordinado, que julgue merecedor de recompensa de nível mais elevado ou punível com pena superior às da sua competência, deve propor a recompensa ou participar a infracção, por escrito, ao seu superior hierárquico imediato."
+  },
+  "884563785": {
+   "fragment_id": "884563702",
+   "type": 13,
+   "heading": "Título IV — Procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Procedimento disciplinar"
+  },
+  "884563786": {
+   "fragment_id": "884563703",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "884563787": {
+   "fragment_id": "884563704",
+   "type": 11,
+   "heading": "Artigo 67.º — Aquisição da notícia da infracção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Aquisição da notícia da infracção disciplinar\n\n1 - A notícia da infracção disciplinar é adquirida por conhecimento próprio, por participação ou queixa, nos termos dos artigos seguintes.\n\n2 - Todos os que tiverem conhecimento de que um militar da Guarda praticou infracção disciplinar poderão comunicá-la a qualquer superior hierárquico do arguido."
+  },
+  "884564272": {
+   "fragment_id": "884563705",
+   "type": 11,
+   "heading": "Artigo 68.º — Participação, queixa, auto de notícia e denúncia",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 68.º — Participação, queixa, auto de notícia e denúncia\n\n1 - Para efeitos do disposto no presente Regulamento, considera-se:\n\na) Participação: a comunicação dada pelo militar da Guarda de infracção disciplinar cometida por inferior hierárquico ou militar da mesma graduação mas de menor antiguidade;\n\nb) Queixa: a comunicação dada pelo militar da Guarda de infracção disciplinar cometida por superior hierárquico ou militar da mesma graduação, mas de maior antiguidade, com prévia informação ao visado e da qual resulte para o inferior lesão de direitos previstos nas leis ou regulamentos ou constitua simultaneamente crime;\n\nc) Auto de notícia: a notícia de infração disciplinar levantada, ou mandada levantar pelo superior hierárquico que presenciar ou verificar infração disciplinar, praticada em qualquer área sob o seu comando, direção ou chefia, devendo ser assinado pela entidade que o levantou ou mandou levantar, por duas testemunhas, se possível, e pelo visado, se quiser assinar, podendo levantar-se um único auto por diferentes infrações disciplinares cometidas na mesma ocasião ou relacionadas umas com as outras, mesmo que sejam diversos os seus autores;\n\nd) Denúncia: a comunicação dada, por qualquer outra forma diferente das anteriores, nomeadamente informações, relatórios, reclamações e exposições.\n\n2 - As participações e queixas serão imediatamente remetidas à entidade competente para instaurar processo disciplinar, quando se verifique não possuir tal competência a entidade que as recebeu.\n\n3 - Quando se conclua que a participação ou queixa foram apresentadas dolosamente no intuito de prejudicar o visado, deverá ser instaurado processo disciplinar, se o autor for militar da Guarda, sem prejuízo da participação criminal a que houver lugar e demais efeitos previstos na lei geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564273": {
+   "fragment_id": "884563706",
+   "type": 11,
+   "heading": "Artigo 69.º — Conteúdo da participação, queixa, auto de notícia e denúncia",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 69.º — Conteúdo da participação, queixa, auto de notícia e denúncia\n\n1 - A participação, queixa, auto de notícia ou denúncia, mencionam, sempre que possível, os factos que constituírem infração disciplinar, o dia, hora e local, as circunstâncias em que foi cometida, o nome e demais elementos de identificação do suspeito, da entidade que os presenciou, de eventuais testemunhas e, havendo-os, os documentos ou suas cópias autênticas que possam demonstrá-los.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563790": {
+   "fragment_id": "884563707",
+   "type": 11,
+   "heading": "Artigo 70.º — Providências imediatas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Providências imediatas\n\nTodo o superior hierárquico que presenciar ou verificar a prática de acções contrárias à ordem pública ou que afectem a dignidade da Guarda, ou de outros actos gravemente perturbadores da disciplina, deve adoptar, de imediato, todas as providências estritamente necessárias para os fazer cessar."
+  },
+  "884563791": {
+   "fragment_id": "884563708",
+   "type": 11,
+   "heading": "Artigo 71.º — Obrigatoriedade de procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Obrigatoriedade de procedimento\n\nA notícia de uma infracção disciplinar dá sempre lugar à abertura de procedimento com vista ao apuramento da eventual responsabilidade disciplinar que no caso couber."
+  },
+  "884563792": {
+   "fragment_id": "884563709",
+   "type": 11,
+   "heading": "Artigo 72.º — Carácter público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Carácter público\n\nO exercício da acção disciplinar é de carácter oficioso, não dependendo de participação, queixa ou denúncia."
+  },
+  "884563793": {
+   "fragment_id": "884563710",
+   "type": 11,
+   "heading": "Artigo 73.º — Natureza secreta do processo, consulta e passagem de certidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Natureza secreta do processo, consulta e passagem de certidões\n\n1 - O processo disciplinar é de natureza secreta até à notificação da acusação.\n\n2 - Ao arguido e seu defensor poderá contudo ser facultada a consulta do processo, mediante requerimento, dirigido ao instrutor, ficando aqueles vinculados ao dever de segredo.\n\n3 - A passagem de certidões de peças do processo disciplinar só é permitida quando destinada à defesa de interesses legítimos e em face de requerimento escrito especificando o fim a que se destinam, podendo ser proibida a sua divulgação.\n\n4 - A passagem das certidões atrás referidas pode ser autorizada pelo instrutor até à fase do relatório final.\n\n5 - A divulgação de matéria abrangida pelo dever de segredo, nos termos deste artigo, determina a instauração, por esse facto, de processo disciplinar."
+  },
+  "884563794": {
+   "fragment_id": "884563711",
+   "type": 11,
+   "heading": "Artigo 74.º — Constituição e intervenção de advogado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Constituição e intervenção de advogado\n\nO arguido pode constituir advogado em qualquer fase do processo, nos termos gerais de direito, o qual poderá assistir aos interrogatórios e a todas as diligências em que aquele intervenha."
+  },
+  "884563795": {
+   "fragment_id": "884563712",
+   "type": 11,
+   "heading": "Artigo 75.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Representação\n\n1 - Sem prejuízo do disposto no artigo anterior, o arguido impossibilitado de organizar a sua defesa, por motivo de doença ou incapacidade física devidamente comprovadas, poderá nomear um representante, especialmente mandatado para esse efeito.\n\n2 - No caso de o arguido não poder exercer o direito referido no número anterior, ou lhe for instaurado incidente de alienação mental, o instrutor promoverá imediatamente a nomeação de um curador, preferindo a pessoa a quem competiria a tutela, nos termos da lei civil.\n\n3 - O curador e o representante referidos nos números anteriores poderão usar todos os meios de defesa facultados ao arguido."
+  },
+  "884563796": {
+   "fragment_id": "884563713",
+   "type": 11,
+   "heading": "Artigo 76.º — Confiança do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Confiança do processo\n\n1 - O advogado do arguido pode solicitar por escrito ou verbalmente que os processos pendentes lhe sejam confiados, na fase da defesa, para exame fora das instalações dos serviços.\n\n2 - Compete ao instrutor autorizar a confiança do processo, pelo prazo de 5 dias, prorrogáveis até ao limite máximo de 20.\n\n3 - Se, decorrido o prazo concedido, o advogado não restituir o processo, nem justificar o atraso na entrega, será o mesmo notificado para proceder à entrega imediata daquele.\n\n4 - Se após a notificação referida no número anterior o advogado não restituir o processo no prazo de cinco dias, será feita participação ao Ministério Público e dado conhecimento à Ordem dos Advogados para efeitos disciplinares."
+  },
+  "884563797": {
+   "fragment_id": "884563714",
+   "type": 11,
+   "heading": "Artigo 77.º — Estado psíquico do arguido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Estado psíquico do arguido\n\n1 - Quando se levantem justificadas dúvidas sobre o estado psíquico do arguido, deverá o instrutor solicitar aos serviços próprios da Guarda o seu exame médico-psiquiátrico para determinação da sua responsabilidade disciplinar à data da prática da infracção ou posteriormente.\n\n2 - O arguido pode requerer a junção dos pareceres ou documentos clínicos que entenda convenientes.\n\n3 - A inimputabilidade do arguido poderá ser suscitada pelo instrutor do processo, pelo próprio arguido, pelo seu representante ou mandatário, ou por qualquer familiar.\n\n4 - A decisão da entidade que julgar o arguido irresponsável pela prática da infracção disciplinar é restrita ao processo disciplinar e implica o seu arquivamento, sem prejuízo do disposto na lei quanto à situação jurídico-funcional."
+  },
+  "884564274": {
+   "fragment_id": "884563715",
+   "type": 11,
+   "heading": "Artigo 78.º — Notificações",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 78.º — Notificações\n\n1 - As notificações de actos processuais que devam ser feitas ao arguido ou ao seu representante serão igualmente feitas ao mandatário, nos termos da legislação geral sobre o patrocínio judiciário.\n\n2 - Para efeitos do exercício de direitos e poderes processuais, releva a data da notificação efetuada em último lugar.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564575": {
+   "fragment_id": "884563716",
+   "type": 11,
+   "heading": "Artigo 79.º — Forma dos actos",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 79.º — Forma dos actos\n\n1 - A forma dos actos, quando não esteja expressamente regulada na lei, ajustar-se-á ao fim em vista e limitar-se-á ao indispensável para atingir esse fim.\n\n2 - Os atos do processo devem ser reduzidos a escrito, observando-se o disposto na lei processual penal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563800": {
+   "fragment_id": "884563717",
+   "type": 11,
+   "heading": "Artigo 80.º — Unidade e apensação de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Unidade e apensação de processos\n\n1 - Para todas as infracções será organizado um único processo relativamente a cada arguido.\n\n2 - Sempre que haja vários processos disciplinares pendentes contra o mesmo militar deverá fazer-se a apensação de todos ao mais antigo, para apreciação conjunta, excepto se daí resultar inconveniente para a administração da justiça disciplinar.\n\n3 - Quando vários militares sejam arguidos da prática do mesmo facto ou de factos entre si conexos, organizar-se-á um processo por cada arguido, sem prejuízo de se ordenar a respectiva apensação ao processo do arguido de maior graduação ou antiguidade, se tal for considerado conveniente para a administração da justiça disciplinar.\n\n4 - Oficiosamente, por proposta do instrutor ou a requerimento do arguido, poderá fazer-se cessar a apensação e ser ordenada a separação de algum ou alguns dos processos sempre que a apensação represente um grave risco para o exercício da acção disciplinar, designadamente quando puder retardar excessivamente a conclusão do processo pela infracção mais grave."
+  },
+  "884563801": {
+   "fragment_id": "884563718",
+   "type": 11,
+   "heading": "Artigo 81.º — Nulidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Nulidades\n\n1 - Constituem nulidades insanáveis, que devem ser oficiosamente declaradas em qualquer fase do procedimento:\n\na) A falta de audiência do arguido em artigos da acusação;\n\nb) A insuficiente individualização na acusação das infracções imputadas e dos correspondentes preceitos legais violados;\n\nc) A omissão de diligências essenciais para a descoberta da verdade.\n\n2 - As restantes nulidades consideram-se sanadas se não forem objecto de reclamação para o instrutor até à decisão final do procedimento em primeiro grau."
+  },
+  "884564576": {
+   "fragment_id": "884563719",
+   "type": 11,
+   "heading": "Artigo 82.º — Isenção de custas e selos",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 82.º — Isenção de custas e selos\n\nOs processos previstos no presente Regulamento são gratuitos, sem prejuízo do pagamento de certidões e fotocópias nos termos legais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563803": {
+   "fragment_id": "884563720",
+   "type": 11,
+   "heading": "Artigo 83.º — Formas de processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Formas de processo\n\n1 - O processo pode ser comum ou especial.\n\n2 - O processo especial aplica-se aos casos expressamente designados na lei e o comum a todos os casos a que não corresponda processo especial."
+  },
+  "884564577": {
+   "fragment_id": "884563721",
+   "type": 11,
+   "heading": "Artigo 84.º — Despacho liminar",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 84.º — Despacho liminar\n\n1 - Logo que sejam recebidos auto, participação, queixa ou denúncia, deve a entidade competente decidir se há lugar ou não à instauração de procedimento disciplinar.\n\n2 - O despacho liminar, quando não determinar a investigação dos factos noticiados, deve ser fundamentado e será notificado, por escrito, ao queixoso, participante ou denunciante.\n\n3 - Do despacho liminar de arquivamento cabe recurso hierárquico, nos termos do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563805": {
+   "fragment_id": "884563722",
+   "type": 11,
+   "heading": "Artigo 85.º — Nomeação do instrutor e de secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Nomeação do instrutor e de secretário\n\n1 - Sem prejuízo da competência instrutória atribuída à Inspecção-Geral da Administração Interna, a entidade que instaurar processo disciplinar deve nomear um instrutor, escolhido de entre os oficiais de categoria ou posto superior à do arguido ou mais antigo do que ele na mesma categoria ou posto.\n\n2 - Nos casos em que a competência pertença às entidades referidas nas colunas II a IV do quadro anexo B ao presente Regulamento, deverá existir um núcleo de oficiais instrutores com formação adequada e dispondo de assessoria jurídica.\n\n3 - Quando a complexidade do processo ou outras circunstâncias o aconselhem, poderá o instrutor nomear ou propor a nomeação de um seu subordinado para secretário.\n\n4 - As funções de instrutor e de secretário preferem às demais obrigações de serviço.\n\n5 - O instrutor nomeado apenas poderá ser substituído face a circunstâncias excepcionais devidamente fundamentadas."
+  },
+  "884563806": {
+   "fragment_id": "884563723",
+   "type": 11,
+   "heading": "Artigo 86.º — Fundamento da escusa e suspeição do instrutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Fundamento da escusa e suspeição do instrutor\n\n1 - Sem prejuízo do disposto na lei quanto aos impedimentos, o instrutor deve pedir à entidade que o nomeou a dispensa de funções no processo quando ocorra circunstância pela qual possa razoavelmente suspeitar-se da sua isenção ou da imparcialidade da sua conduta e, designadamente:\n\na) Se tiver sido directa ou indirectamente atingido pela infracção;\n\nb) Se for parente na linha recta ou até ao 3.º grau na linha colateral do arguido, do participante, ou do militar, funcionário, agente ou particular ofendido, ou de alguém que com os referidos indivíduos viva em economia comum;\n\nc) Se estiver pendente em tribunal civil ou criminal processo em que o instrutor e o arguido ou o participante sejam partes;\n\nd) Se o instrutor for credor ou devedor do arguido ou do participante ou de algum parente na linha recta ou até ao 3.º grau na linha colateral;\n\ne) Se houver inimizade grave ou grande intimidade entre o arguido e o instrutor, ou entre este e o participante ou ofendido.\n\n2 - Com os mesmos fundamentos, o arguido, o participante e o queixoso poderão opor suspeição do instrutor.\n\n3 - A entidade que nomeou o instrutor decidirá, em despacho fundamentado, no prazo de cinco dias."
+  },
+  "884563807": {
+   "fragment_id": "884563724",
+   "type": 1,
+   "heading": "Capítulo II — Medidas provisórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Medidas provisórias"
+  },
+  "884563808": {
+   "fragment_id": "884563725",
+   "type": 11,
+   "heading": "Artigo 87.º — Admissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Admissibilidade\n\nAos arguidos em processo disciplinar poderão aplicar-se medidas provisórias, de natureza preventiva, nos termos dos artigos seguintes e sem prejuízo dos poderes conferidos por lei às autoridades judiciais."
+  },
+  "884564578": {
+   "fragment_id": "884563726",
+   "type": 11,
+   "heading": "Artigo 88.º — Enumeração",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 88.º — Enumeração\n\n1 - As medidas provisórias aplicáveis são:\n\na) Apreensão de documentos ou objectos;\n\nb) Desarmamento;\n\nc) Transferência preventiva;\n\nd) Suspensão preventiva do exercício de funções.\n\n2 - A apreensão de documentos ou objectos consiste em desapossar o militar de documento ou objecto.\n\n3 - O desarmamento consiste em retirar ao militar as armas que, por motivo de serviço, lhe tenham sido distribuídas ou estejam a seu cargo, bem como na suspensão do exercício do direito de detenção de arma, quando tal se mostre necessário e conveniente.\n\n4 - A transferência preventiva consiste na colocação do militar da Guarda noutro órgão, unidade, subunidade, serviço ou estabelecimento de ensino, cuja localização não exceda 50 km em relação àquele ou àquela em que se encontra colocado.\n\n5 - A suspensão preventiva de funções consiste no afastamento do serviço por prazo não superior a 90 dias, prorrogável por igual período.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564579": {
+   "fragment_id": "884563727",
+   "type": 11,
+   "heading": "Artigo 89.º — Condições gerais de aplicação",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 89.º — Condições gerais de aplicação\n\n1 - As medidas provisórias a aplicar em concreto devem ser adequadas às exigências cautelares que o caso requer e proporcionais à gravidade da infracção e à sanção que previsivelmente venha a ser aplicada.\n\n2 - A apreensão só pode ser decretada relativamente a documentos ou objectos que tenham sido usados ou possam continuar a sê-lo para a prática da infracção.\n\n3 - A transferência preventiva só se justifica nos casos em que a presença do arguido na área onde os factos estão a ser investigados seja prejudicial às diligências instrutórias ou incompatível com o decoro, a disciplina ou a boa ordem do serviço.\n\n4 - A suspensão preventiva do exercício de funções só pode decretar-se quando, cumulativamente, se verifiquem os seguintes requisitos:\n\na) A presença do arguido ao serviço se revele inconveniente para este ou para o apuramento da verdade;\n\nb) Se mostre insuficiente ou inadequada a medida de transferência preventiva;\n\nc) A infracção seja punível com a pena de suspensão ou superior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563811": {
+   "fragment_id": "884563728",
+   "type": 11,
+   "heading": "Artigo 90.º — Despacho de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Despacho de aplicação\n\n1 - A decisão que ordenar ou alterar qualquer medida provisória deve ser fundamentada e fixar o prazo para a sua validade, sendo recorrível nos termos estabelecidos no presente Regulamento.\n\n2 - Sem prejuízo do disposto no número seguinte, as medidas provisórias são ordenadas pela entidade que tiver mandado instaurar o processo, por sua iniciativa ou mediante proposta fundamentada do instrutor.\n\n3 - A suspensão preventiva de funções só pode ser ordenada, prorrogada ou revogada pelo Ministro da Administração Interna ou pelo comandante-geral."
+  },
+  "884563812": {
+   "fragment_id": "884563729",
+   "type": 1,
+   "heading": "Capítulo III — Fase da instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fase da instrução"
+  },
+  "884563813": {
+   "fragment_id": "884563730",
+   "type": 11,
+   "heading": "Artigo 91.º — Direcção da instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Direcção da instrução\n\nA direcção da instrução cabe ao instrutor, sem prejuízo dos poderes conferidos ao superior hierárquico que o nomeou."
+  },
+  "884564580": {
+   "fragment_id": "884563731",
+   "type": 11,
+   "heading": "Artigo 92.º — Início e prazo geral de conclusão",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 92.º — Início e prazo geral de conclusão\n\n1 - A instrução do processo disciplinar deve iniciar-se no prazo máximo de 5 dias, contados da data da comunicação ao instrutor do despacho liminar de instauração, e ultimar-se no prazo de 45 dias, contados da data do início efectivo.\n\n2 - O prazo referido na parte final do número anterior pode ser prorrogado, por despacho da entidade competente, sob proposta fundamentada do instrutor, designadamente nos casos de excecional complexidade.\n\n3 - O instrutor deve informar a entidade que o tiver nomeado, bem como o arguido, o participante, o queixoso ou o denunciante, da data em que der início à instrução do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563815": {
+   "fragment_id": "884563732",
+   "type": 11,
+   "heading": "Artigo 93.º — Diligências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Diligências\n\n1 - O instrutor fará autuar o auto, participação, queixa, denúncia ou ofício que contenham o despacho liminar de instauração e procederá às diligências convenientes para a instrução, designadamente ouvindo o participante, o queixoso, o denunciante e as testemunhas conhecidas, procedendo a exames e mais diligências que possam esclarecer a verdade e fazendo juntar aos autos o certificado do registo disciplinar do arguido.\n\n2 - O instrutor deverá ouvir o arguido, a requerimento deste ou sempre que o entender conveniente, até se ultimar a instrução, podendo acareá-lo com testemunhas.\n\n3 - O arguido não é obrigado a responder sobre os factos que lhe são imputados.\n\n4 - Durante a fase de instrução poderá o arguido requerer ao instrutor a realização de diligências probatórias para que este tenha competência e que forem consideradas por aquele como essenciais ao apuramento da verdade.\n\n5 - O instrutor deve indeferir em despacho fundamentado a realização das diligências referidas no número anterior quando as julgue desnecessárias, inúteis, impertinentes ou dilatórias.\n\n6 - O instrutor pode solicitar a realização de diligências de prova a outros serviços e organismos da administração central, regional ou local, quando o julgue conveniente, designadamente por razões de proximidade e de celeridade, sempre que as não possa realizar através dos serviços da Guarda.\n\n7 - Quando os factos que integram infracção disciplinar indiciem incompetência para o exercício das funções, poderá o arguido executar quaisquer trabalhos, segundo o programa traçado por dois peritos, que depois emitirão parecer, não vinculativo, sobre as provas prestadas e a competência do arguido.\n\n8 - Os peritos a que se refere o número anterior serão indicados pela entidade que tiver mandado instaurar o processo, no caso de o arguido não usar a faculdade de indicar um, e os trabalhos a executar serão da natureza dos que habitualmente competem a militares da mesma graduação e posto de serviço."
+  },
+  "884564581": {
+   "fragment_id": "884563733",
+   "type": 11,
+   "heading": "Artigo 94.º — Testemunhas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 94.º — Testemunhas\n\n1 - A testemunha é obrigada a responder com verdade sobre os factos de que possua conhecimento direto e que constituam objeto de prova.\n\n2 - É aplicável à prova testemunhal o disposto na legislação penal e processual penal, com as devidas adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563817": {
+   "fragment_id": "884563734",
+   "type": 11,
+   "heading": "Artigo 95.º — Providências cautelares quanto aos meios de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Providências cautelares quanto aos meios de prova\n\nCompete às entidades com competência disciplinar e ao instrutor desde a sua nomeação tomar as providências cautelares necessárias e urgentes para assegurar os meios de prova."
+  },
+  "884563818": {
+   "fragment_id": "884563735",
+   "type": 11,
+   "heading": "Artigo 96.º — Suspensão do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Suspensão do processo\n\nOficiosamente ou mediante proposta fundamentada do instrutor, pode ser determinada a suspensão do processo disciplinar, até que se conclua processo criminal pendente pelos mesmos factos, sempre que exista manifesta dificuldade na recolha de prova ou se repute tal medida conveniente para a administração da justiça disciplinar."
+  },
+  "884564582": {
+   "fragment_id": "884563736",
+   "type": 11,
+   "heading": "Artigo 97.º — Encerramento da instrução",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 97.º — Encerramento da instrução\n\n1 - Concluída a instrução, se o instrutor não recolher prova de que o arguido praticou a infração ou entender que os factos constantes dos autos não constituem infração disciplinar, que não foi o arguido que os praticou, que está extinta a responsabilidade disciplinar, ou se verificar a existência de uma circunstância dirimente, elabora, no prazo de cinco dias, relatório com proposta de arquivamento e remete o processo disciplinar à autoridade que o tiver mandado instaurar.\n\n2 - Havendo concordância com a proposta do instrutor, o despacho de arquivamento é comunicado ao arguido e ao participante ou ao queixoso.\n\n3 - Se entender que o arguido cometeu infracção disciplinar, o instrutor deduzirá contra ele acusação, no prazo de 10 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563820": {
+   "fragment_id": "884563737",
+   "type": 11,
+   "heading": "Artigo 98.º — Acusação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Acusação\n\n1 - A acusação deve ser articulada e conterá:\n\na) A identificação do arguido;\n\nb) A descrição dos factos que fundamentam a aplicação de uma sanção disciplinar, incluindo, se possível, as circunstâncias de lugar, tempo e modo em que os factos foram praticados, o grau de culpa do arguido, as circunstâncias que militam a favor e contra o mesmo e quaisquer outras que relevem para a determinação da sanção disciplinar;\n\nc) A referência aos preceitos legais e às penas aplicáveis.\n\n2 - Em caso de apensação de processos é deduzida uma única acusação.\n\n3 - A acusação será, no prazo de cinco dias, notificada pessoalmente ao arguido ou, não sendo esta possível, por carta registada com aviso de recepção para a sua residência, indicando-se o prazo para a apresentação da defesa.\n\n4 - Se não for possível a notificação nos termos do número anterior, designadamente por o arguido se encontrar ausente em parte incerta, será publicado aviso na 2.ª série do Diário da República citando-o para apresentar a sua defesa.\n\n5 - O aviso referido no número anterior apenas deverá conter a menção de que se encontra pendente contra o arguido processo disciplinar e a indicação do prazo para apresentação da defesa."
+  },
+  "884563821": {
+   "fragment_id": "884563738",
+   "type": 1,
+   "heading": "Capítulo IV — Fase da defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fase da defesa"
+  },
+  "884563822": {
+   "fragment_id": "884563739",
+   "type": 11,
+   "heading": "Artigo 99.º — Prazo de apresentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Prazo de apresentação\n\n1 - A defesa do arguido deve ser apresentada no prazo de 20 dias a contar da notificação da acusação.\n\n2 - Nos casos de ausência em parte incerta o prazo será de 45 dias a contar da publicação do aviso a que se refere o n.º 4 do artigo anterior.\n\n3 - Em casos de excepcional complexidade o prazo de apresentação da defesa pode ser prorrogado, a requerimento do arguido, até ao máximo de 20 dias."
+  },
+  "884564583": {
+   "fragment_id": "884563740",
+   "type": 11,
+   "heading": "Artigo 100.º — Forma e conteúdo",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 100.º — Forma e conteúdo\n\n1 - A defesa do arguido constitui a resposta escrita na qual devem constar as razões, de facto e de direito, de discordância relativamente à acusação.\n\n2 - Com a resposta deve o arguido apresentar o rol de testemunhas, juntar documentos e requerer quaisquer diligências que pretenda sejam realizadas.\n\n3 - O número de testemunhas é ilimitado, não podendo, porém, ser indicadas mais de três por cada facto.\n\n4 - A falta de resposta dentro do prazo marcado vale como efectiva audiência do arguido para todos os efeitos legais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563824": {
+   "fragment_id": "884563741",
+   "type": 11,
+   "heading": "Artigo 101.º — Diligências de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Diligências de prova\n\n1 - O instrutor deverá realizar as diligências requeridas pelo arguido no prazo de 30 dias.\n\n2 - O instrutor pode recusar, em despacho fundamentado, as diligências requeridas, quando as repute meramente dilatórias, impertinentes ou desnecessárias, ou considere suficientemente provados os factos alegados pelo arguido na resposta à acusação.\n\n3 - Do despacho que indefira o requerimento de diligências consideradas pelo arguido indispensáveis para a descoberta da verdade cabe recurso, nos termos previstos no presente Regulamento e com as especificidades previstas nos números seguintes.\n\n4 - O recurso previsto no número anterior deverá ser interposto no prazo de cinco dias e subirá imediatamente, nos próprios autos.\n\n5 - A decisão que negue provimento ao recurso previsto nos números anteriores só pode ser impugnada no eventual recurso da decisão final.\n\n6 - Finda a produção da prova oferecida pelo arguido, podem ainda ordenar-se, em despacho fundamentado, novas diligências que se mostrem convenientes para o completo esclarecimento da verdade, das quais se dará conhecimento ao arguido nos termos gerais."
+  },
+  "884563825": {
+   "fragment_id": "884563742",
+   "type": 1,
+   "heading": "Capítulo V — Fase da decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fase da decisão final"
+  },
+  "884564584": {
+   "fragment_id": "884563743",
+   "type": 11,
+   "heading": "Artigo 102.º — Relatório final do instrutor",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 102.º — Relatório final do instrutor\n\n1 - Finda a fase da defesa do arguido, e no prazo máximo de 10 dias, o instrutor elaborará um relatório completo e conciso, do qual conste:\n\na) A caracterização material, e respetiva fundamentação, das faltas constantes da acusação e que após ponderação da defesa, são consideradas provadas, sua qualificação e gravidade;\n\nb) A indicação das circunstâncias que militam a favor ou contra o arguido;\n\nc) A indicação das quantias que porventura haja a repor e qual o seu destino;\n\nd) Parecer sobre o grau de culpa do arguido e bem assim sobre a pena que entender justa;\n\ne) Proposta de arquivamento, devidamente fundamentada, se considerar insubsistente a acusação.\n\n2 - O processo, depois de relatado, será remetido, no prazo de vinte e quatro horas, à entidade que o tiver mandado instaurar, a qual, se se considerar incompetente para o decidir em despacho fundamentado, o enviará a quem deva proferir a decisão.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563827": {
+   "fragment_id": "884563744",
+   "type": 11,
+   "heading": "Artigo 103.º — Diligências complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Diligências complementares\n\nAntes da decisão final, a autoridade competente para punir poderá ordenar novas diligências, dentro do prazo que fixar, se entender que a instrução não está completa, das quais se dará conhecimento ao arguido nos termos gerais."
+  },
+  "884563828": {
+   "fragment_id": "884563745",
+   "type": 11,
+   "heading": "Artigo 104.º — Pareceres jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Pareceres jurídicos\n\nA auditoria jurídica e a Inspecção-Geral da Administração Interna podem ser ouvidas sempre que a competência para a decisão caiba ao Ministro da Administração Interna."
+  },
+  "884564585": {
+   "fragment_id": "884563746",
+   "type": 11,
+   "heading": "Artigo 105.º — Decisão final",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 105.º — Decisão final\n\n1 - A autoridade competente decidirá o processo disciplinar, concordando ou não com as conclusões e propostas do relatório.\n\n2 - O despacho punitivo deve ser fundamentado e conterá, designadamente:\n\na) Identificação do arguido;\n\nb) Enumeração dos factos considerados provados;\n\nc) Disposições legais aplicáveis;\n\nd) Os fundamentos que presidiram à escolha e à medida da sanção disciplinar;\n\ne) Consequências quanto à mudança de classe de comportamento;\n\nf) Data e assinatura do autor.\n\n3 - Se o despacho for de arquivamento, para além das menções referidas nas alíneas a), b), c) e f) do número anterior, dele deve constar se o processo é arquivado por falta de prova de culpabilidade do arguido, pela inocência deste, pela extinção do procedimento disciplinar ou por os factos não constituírem ilícito disciplinar.\n\n4 - A decisão final deverá ser proferida no prazo de 30 dias, contados das seguintes datas:\n\na) Da data da recepção do processo;\n\nb) Do termo do prazo para a realização de diligências complementares a que se refere o artigo 103.º;\n\nc) Da recepção de parecer obrigatório ou do parecer a que alude o artigo anterior ou do termo dos prazos para a respectiva emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564586": {
+   "fragment_id": "884563747",
+   "type": 11,
+   "heading": "Artigo 106.º — Notificação e publicação da decisão final",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 106.º — Notificação e publicação da decisão final\n\n1 - A decisão final é notificada pessoalmente ao arguido e notificada ao participante, ao queixoso e ou ao denunciante.\n\n2 - A decisão final será publicada, por extracto, em ordem de serviço.\n\n3 - A decisão será ainda publicada, por extracto, na 2.ª série do Diário da República, nos casos de ausência em parte incerta do arguido.\n\n4 - As decisões punitivas serão ainda objecto de publicação nos termos do artigo 36.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563831": {
+   "fragment_id": "884563748",
+   "type": 1,
+   "heading": "Capítulo VI — Processo de averiguações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Processo de averiguações"
+  },
+  "884563832": {
+   "fragment_id": "884563749",
+   "type": 11,
+   "heading": "Artigo 107.º — Regras especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Regras especiais\n\nO processo de averiguações rege-se pelo disposto nos artigos seguintes e, na parte aplicável, pelas disposições gerais referentes à instrução do processo disciplinar."
+  },
+  "884563833": {
+   "fragment_id": "884563750",
+   "type": 11,
+   "heading": "Artigo 108.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Conceito\n\n1 - Quando haja vago rumor ou indícios insuficientes de infracção disciplinar ou sejam desconhecidos os seus autores será instaurado processo de averiguações.\n\n2 - O processo de averiguações é de investigação sumaríssima, caracteriza-se pela celeridade e destina-se à recolha de elementos factuais que permitam determinar se deve ou não ser ordenada a instauração de sindicância, inquérito ou processo disciplinar."
+  },
+  "884563834": {
+   "fragment_id": "884563751",
+   "type": 11,
+   "heading": "Artigo 109.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Tramitação\n\n1 - O processo de averiguações deve ser iniciado no prazo de vinte e quatro horas a contar da comunicação ao instrutor do despacho que o tiver mandado instaurar.\n\n2 - O instrutor é nomeado nos termos do artigo 85.º e pode propor a designação de secretário à entidade que o tiver nomeado.\n\n3 - O prazo de conclusão do processo de averiguações é de 15 dias, a contar da data em que tiver sido iniciado, prorrogável por igual período pela entidade que o mandou instaurar, mediante proposta do instrutor.\n\n4 - Decorrido o prazo referido no número anterior, ou logo que confirmados os indícios de infracção disciplinar e identificado o seu possível responsável, o instrutor elaborará, no prazo de três dias, relatório sucinto, com indicação das diligências efectuadas, síntese dos factos apurados e proposta sobre o destino do processo, que remeterá à entidade que o mandou instaurar.\n\n5 - Em face das provas recolhidas e do relatório do instrutor, a entidade referida no número anterior decidirá, ordenando ou propondo, consoante o seu grau de competência:\n\na) O arquivamento do processo, se entender que não há lugar a procedimento disciplinar;\n\nb) A conversão do processo de averiguações em processo de inquérito se, confirmados os indícios da infracção, se desconhecer, ainda, o seu autor ou, conhecido este, se mantiver a insuficiência daqueles indícios, sendo de presumir, em ambos os casos, a utilidade de novas diligências;\n\nc) A conversão do processo de averiguações em processo disciplinar, se se mostrar suficientemente indiciada a prática de infracção e determinado o seu autor;\n\nd) A instauração de processo de sindicância, se entender que os factos apurados justificam, pela sua amplitude e gravidade, uma averiguação geral ao funcionamento do comando ou serviço.\n\n6 - No caso de, na sequência de processo de averiguações, ser mandado instaurar inquérito ou processo disciplinar, aquele integra a fase de instrução dos mesmos, sem prejuízo dos direitos de audiência e de defesa do arguido."
+  },
+  "884563835": {
+   "fragment_id": "884563752",
+   "type": 1,
+   "heading": "Capítulo VII — Processos de inquérito e de sindicância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Processos de inquérito e de sindicância"
+  },
+  "884563836": {
+   "fragment_id": "884563753",
+   "type": 11,
+   "heading": "Artigo 110.º — Regras especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Regras especiais\n\nOs processos de inquérito e de sindicância regem-se pelo disposto nos artigos seguintes e, na parte aplicável, pelas disposições gerais referentes à instrução do processo disciplinar."
+  },
+  "884563837": {
+   "fragment_id": "884563754",
+   "type": 11,
+   "heading": "Artigo 111.º — Inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º — Inquérito\n\n1 - O inquérito destina-se à investigação de factos determinados e atribuídos ao irregular funcionamento de um comando ou serviço, ou a actuação susceptível de envolver responsabilidade disciplinar.\n\n2 - Sem prejuízo dos poderes próprios do Ministro da Administração Interna, a competência para ordenar inquéritos é do comandante-geral, por sua iniciativa ou por proposta dos comandos subordinados ou de chefes de serviço.\n\n3 - O militar que tiver desempenhado funções de comando, de direcção ou chefia pode requerer fundamentadamente que se proceda a inquérito aos seus actos de serviço, desde que os mesmos não tenham sido objecto de processo de natureza disciplinar ou criminal."
+  },
+  "884563838": {
+   "fragment_id": "884563755",
+   "type": 11,
+   "heading": "Artigo 112.º — Sindicância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Sindicância\n\n1 - A sindicância destina-se a uma averiguação geral sobre o funcionamento de comando ou serviço.\n\n2 - Sem prejuízo dos poderes do Ministro da Administração Interna, a competência para ordenar a sindicância é do comandante-geral."
+  },
+  "884563839": {
+   "fragment_id": "884563756",
+   "type": 11,
+   "heading": "Artigo 113.º — Publicidade da sindicância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Publicidade da sindicância\n\n1 - No processo de sindicância deve o instrutor anunciar o seu início, através da publicação de anúncios em um ou dois jornais da localidade e por meio de editais, cuja afixação nos lugares de estilo requisitará às autoridades competentes.\n\n2 - Nos anúncios e editais declarar-se-á que qualquer pessoa que tenha razão de queixa ou agravo contra o irregular funcionamento dos serviços pode apresentar-se pessoalmente ao sindicante, nas circunstâncias de tempo e lugar que forem fixadas, ou remeter-lhe queixa, pelo correio, de onde constem os seus elementos de identificação.\n\n3 - A publicação dos anúncios é obrigatória para os periódicos a que forem remetidos e as despesas dela decorrentes serão suportadas pela Guarda.\n\n4 - A recusa de publicação constitui crime de desobediência, punível nos termos da lei penal."
+  },
+  "884563840": {
+   "fragment_id": "884563757",
+   "type": 11,
+   "heading": "Artigo 114.º — Prazo de conclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Prazo de conclusão\n\n1 - O prazo para conclusão do processo de inquérito ou de sindicância será o fixado no despacho que o tiver ordenado, podendo ser prorrogado sempre que as circunstâncias o aconselhem.\n\n2 - O instrutor, sempre que julgue insuficiente o prazo inicialmente fixado para a efectivação das diligências ordenadas, informará desse facto a entidade que tiver mandado instaurar o processo."
+  },
+  "884563841": {
+   "fragment_id": "884563758",
+   "type": 11,
+   "heading": "Artigo 115.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115.º — Relatório\n\n1 - Concluídas as diligências consideradas indispensáveis, o instrutor elaborará, no prazo de 10 dias, prorrogável até ao máximo de 30, relatório final, do qual constarão a indicação sumária das diligências efectuadas, a síntese dos factos apurados e as medidas propostas.\n\n2 - Sempre que no decurso da instrução da sindicância sejam apurados factos integradores de infracção disciplinar e conhecidos os seus autores, será elaborado relatório parcelar e submetido a despacho da entidade que tiver ordenado o inquérito ou a sindicância."
+  },
+  "884563842": {
+   "fragment_id": "884563759",
+   "type": 11,
+   "heading": "Artigo 116.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 116.º — Decisão\n\n1 - No prazo de quarenta e oito horas, o instrutor remeterá o processo à entidade competente, a qual, em face das provas recolhidas e do relatório, decidirá sobre as medidas a adoptar.\n\n2 - No caso de, na sequência de processo de inquérito ou de sindicância, ser mandado instaurar processo disciplinar, aquele integra a fase de instrução deste, sem prejuízo dos direitos de audiência e de defesa do arguido."
+  },
+  "884563843": {
+   "fragment_id": "884563760",
+   "type": 13,
+   "heading": "Título V — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Recursos"
+  },
+  "884563844": {
+   "fragment_id": "884563761",
+   "type": 1,
+   "heading": "Capítulo I — Recurso ordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Recurso ordinário"
+  },
+  "884563845": {
+   "fragment_id": "884563762",
+   "type": 11,
+   "heading": "Artigo 117.º — Impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117.º — Impugnação\n\nAs decisões disciplinares podem ser objecto de impugnação por via graciosa ou contenciosa, nos termos do presente Regulamento e demais legislação aplicável."
+  },
+  "884564587": {
+   "fragment_id": "884563763",
+   "type": 11,
+   "heading": "Artigo 118.º — Recurso hierárquico",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 118.º — Recurso hierárquico\n\n1 - O militar da Guarda arguido em processo disciplinar, o queixoso, o participante ou o denunciante, podem recorrer de decisão que reputem lesiva dos seus direitos subjetivos ou interesses legalmente protegidos, podendo o militar arguido recorrer ainda quando lhe seja imposta qualquer sanção.\n\n2 - A interposição do recurso faz-se por simples requerimento, com a alegação, ainda que sumária, dos respectivos fundamentos.\n\n3 - O recurso é dirigido:\n\na) Ao Ministro da Administração Interna, quando o acto impugnado seja da autoria do comandante-geral;\n\nb) Ao comandante-geral, quando a decisão recorrida emane de autoridade que esteja, hierarquicamente, dependente do mesmo.\n\n4 - O recurso a que se referem os números anteriores é apresentado à entidade recorrida, no prazo de 15 dias, a contar da data da notificação da decisão.\n\n5 - O requerimento de recurso interposto nos termos da alínea b) do n.º 3 deve ser remetido pela entidade recorrida ao escalão imediatamente superior da cadeia funcional hierárquica em que se insere e subirá até ao comandante-geral, passando sucessivamente por cada um dos responsáveis superiores daquela cadeia.\n\n6 - Recebido o requerimento de recurso, dispõe cada um dos responsáveis referidos no número anterior de cinco dias para se pronunciar, podendo propor a revogação ou modificação da decisão recorrida.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563847": {
+   "fragment_id": "884563764",
+   "type": 11,
+   "heading": "Artigo 119.º — Decisão do recurso hierárquico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 119.º — Decisão do recurso hierárquico\n\nA decisão de recurso hierárquico será proferida pelo comandante-geral no prazo de 30 dias a contar da recepção do respectivo processo."
+  },
+  "884564588": {
+   "fragment_id": "884563765",
+   "type": 11,
+   "heading": "Artigo 120.º — Recurso da decisão do comandante-geral",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 120.º — Recurso da decisão do comandante-geral\n\nDas decisões do Comandante-Geral que apliquem a pena de suspensão agravada cabe recurso hierárquico facultativo para o Ministro da Administração Interna, a interpor no prazo de 15 dias, a contar da data da respetiva notificação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563849": {
+   "fragment_id": "884563766",
+   "type": 11,
+   "heading": "Artigo 121.º — Realização de novas diligências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 121.º — Realização de novas diligências\n\n1 - As entidades a quem for dirigido o recurso poderão mandar proceder a novas diligências.\n\n2 - As diligências referidas no número anterior serão reduzidas a escrito e incluem a audição do recorrente.\n\n3 - Com o requerimento em que interponha o recurso pode o recorrente apresentar novos meios de prova ou juntar os documentos que entenda convenientes, desde que o não pudesse ter feito anteriormente, devendo a entidade competente ordenar, no prazo de cinco dias, o início da realização das diligências adequadas, com observância do disposto no n.º 2."
+  },
+  "884563850": {
+   "fragment_id": "884563767",
+   "type": 11,
+   "heading": "Artigo 122.º — Recurso da decisão do Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 122.º — Recurso da decisão do Ministro\n\nDa decisão do Ministro da Administração Interna cabe recurso contencioso nos termos gerais."
+  },
+  "884563851": {
+   "fragment_id": "884563768",
+   "type": 11,
+   "heading": "Artigo 123.º — Regime de subida dos recursos hierárquicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 123.º — Regime de subida dos recursos hierárquicos\n\n1 - Os recursos das decisões que não ponham termo ao processo só subirão com a decisão final se dela se recorrer, salvo o disposto no número seguinte.\n\n2 - Sobem imediatamente e nos próprios autos os recursos hierárquicos que, ficando retidos, percam por esse facto o efeito útil, designadamente os seguintes:\n\na) O recurso hierárquico interposto do despacho que não admita a dedução da suspeição do instrutor ou não aceite os fundamentos invocados para a mesma;\n\nb) O recurso hierárquico interposto do despacho que aplique ou altere uma medida provisória;\n\nc) O recurso do despacho de indeferimento de diligência instrutória requerida pelo arguido."
+  },
+  "884564589": {
+   "fragment_id": "884563769",
+   "type": 11,
+   "heading": "Artigo 124.º — Efeitos do recurso",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 124.º — Efeitos do recurso\n\n1 - A interposição de recurso hierárquico suspende a decisão recorrida.\n\n2 - Excetua-se do disposto no número anterior a decisão de aplicação das penas de repreensão escrita e de repreensão escrita agravada.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563853": {
+   "fragment_id": "884563770",
+   "type": 11,
+   "heading": "Artigo 125.º — Recurso contencioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 125.º — Recurso contencioso\n\nA interposição do recurso contencioso é regulada, quanto aos seus trâmites e efeitos, pelo disposto na lei geral."
+  },
+  "884563854": {
+   "fragment_id": "884563771",
+   "type": 1,
+   "heading": "Capítulo II — Recurso extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Recurso extraordinário"
+  },
+  "884563855": {
+   "fragment_id": "884563772",
+   "type": 11,
+   "heading": "Artigo 126.º — Definição do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 126.º — Definição do recurso\n\nO recurso extraordinário é o de revisão."
+  },
+  "884563856": {
+   "fragment_id": "884563773",
+   "type": 11,
+   "heading": "Artigo 127.º — Fundamentos e admissibilidade da revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 127.º — Fundamentos e admissibilidade da revisão\n\n1 - A revisão de processo disciplinar é admitida nas seguintes situações:\n\na) Quando se verifiquem circunstâncias ou novos meios de prova susceptíveis de demonstrarem a inexistência dos factos que determinaram a punição e que o arguido não tenha podido utilizar no processo disciplinar;\n\nb) Quando se descubram novos factos ou meios de prova que, por si ou combinados com os que foram apreciados no processo, suscitem graves dúvidas sobre a justiça da punição.\n\n2 - A simples alegação de ilegalidade de forma ou de fundo do processo ou da decisão punitiva não constitui fundamento de revisão.\n\n3 - A revisão pode conduzir à confirmação ou à revogação, total ou parcial, da decisão anteriormente proferida, não podendo, em caso algum, determinar a agravação da pena.\n\n4 - A revisão não é admissível com o único fim de corrigir a medida concreta da pena aplicada.\n\n5 - A pendência de recurso, hierárquico ou contencioso, não prejudica o pedido de revisão.\n\n6 - A revisão de processo disciplinar não suspende o cumprimento da pena.\n\n7 - A revisão é admissível ainda que o procedimento disciplinar se encontre extinto ou a pena prescrita ou cumprida."
+  },
+  "884563857": {
+   "fragment_id": "884563774",
+   "type": 11,
+   "heading": "Artigo 128.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 128.º — Requisitos\n\n1 - O interessado na revisão de processo disciplinar, directamente ou por intermédio de mandatário ou representante, apresentará requerimento nesse sentido à entidade que o tiver decidido.\n\n2 - A revisão poderá ser pedida pelos descendentes, ascendentes, cônjuge, irmãos ou herdeiros do militar punido, caso haja falecido ou se encontre incapacitado.\n\n3 - Se o recorrente falecer ou se incapacitar depois de interposto o recurso, deverá este prosseguir oficiosamente.\n\n4 - O requerimento indicará as circunstâncias ou meios de prova não considerados no processo disciplinar que ao recorrente pareça justificarem a revisão."
+  },
+  "884563858": {
+   "fragment_id": "884563875",
+   "type": 11,
+   "heading": "Artigo 129.º — Decisão sobre o requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 129.º — Decisão sobre o requerimento\n\n1 - Recebido o requerimento, a entidade que tiver apreciado o processo disciplinar decidirá no prazo de 15 dias se a revisão deve ser admitida, ordenando, se for caso disso, abertura de processo, para que nomeará instrutor diferente do primeiro.\n\n2 - Do despacho que não admita a revisão cabe recurso, nos termos regulados nos artigos 117.º e seguintes.\n\n3 - Da decisão do comandante-geral cabe recurso necessário para o Ministro da Administração Interna."
+  },
+  "884563859": {
+   "fragment_id": "884563876",
+   "type": 11,
+   "heading": "Artigo 130.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 130.º — Prazo\n\n1 - A revisão do processo disciplinar é admitida a todo o tempo, sem prejuízo do disposto no número seguinte.\n\n2 - O prazo de interposição do recurso de revisão é de um ano a partir da data em que o interessado obteve a possibilidade de invocar as circunstâncias ou os meios de prova alegados como fundamento da revisão."
+  },
+  "884563860": {
+   "fragment_id": "884563877",
+   "type": 11,
+   "heading": "Artigo 131.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 131.º — Tramitação\n\n1 - O processo de revisão correrá termos por apenso ao processo disciplinar.\n\n2 - O instrutor notificará o requerente para, no prazo de 20 dias, responder por escrito aos artigos da acusação constantes do processo a rever, seguindo os termos dos artigos 101.º e seguintes do presente Regulamento."
+  },
+  "884564590": {
+   "fragment_id": "884563878",
+   "type": 11,
+   "heading": "Artigo 132.º — Decisão final",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "###### Artigo 132.º — Decisão final\n\n1 - A entidade competente decide em despacho fundamentado, concordando ou não com as propostas constantes do relatório do instrutor, ouvido o CEDD da Guarda.\n\n2 - Julgada procedente a revisão, será revogada a decisão proferida no processo disciplinar.\n\n3 - Sempre que a decisão seja total ou parcialmente desfavorável ao requerente, dela caberá recurso nos termos previstos no presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884563862": {
+   "fragment_id": "884563879",
+   "type": 11,
+   "heading": "Artigo 133.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 133.º — Efeitos\n\n1 - A procedência da revisão produzirá os seguintes efeitos:\n\na) Cancelamento do registo da pena no processo individual do militar;\n\nb) Anulação da pena e eliminação de todos os seus efeitos, mesmo os já produzidos.\n\n2 - No caso de revogação de penas expulsivas, o militar tem direito à reintegração, salvaguardados os direitos de terceiros, mas sem prejuízo da antiguidade do militar reintegrado.\n\n3 - O militar tem ainda direito, em caso de revisão procedente, à reconstituição da carreira, devendo ser consideradas as expectativas legítimas de promoção que não se efectivaram por efeito da punição, sem prejuízo da indemnização a que tenha direito nos termos gerais."
+  },
+  "884564627": {
+   "fragment_id": "884564162",
+   "type": 14,
+   "heading": "QUADRO ANEXO A — Competência para conceder recompensas",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "## QUADRO ANEXO A — Competência para conceder recompensas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  },
+  "884564628": {
+   "fragment_id": "884564163",
+   "type": 14,
+   "heading": "QUADRO ANEXO B — Competência punitiva",
+   "in_force_from": "2014-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+   ],
+   "markdown": "## QUADRO ANEXO B — Competência punitiva\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2014 - Diário da República n.º 165/2014, Série I de 2014-08-28](https://diariodarepublica.pt/dr/detalhe/lei/66-2014-56376286), em vigor a partir de 2014-09-27"
+  }
+ }
+}

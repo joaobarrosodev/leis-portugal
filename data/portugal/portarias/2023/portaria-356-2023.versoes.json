@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224203159:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-836604952",
+ "dre_path": "/dr/detalhe/portaria/356-2023-224203159",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-11-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "836602149",
+    "836602150",
+    "836602151",
+    "836602152",
+    "836602153",
+    "836602154",
+    "836602155",
+    "836602156",
+    "836602157",
+    "836602158",
+    "836602159",
+    "836602160",
+    "836602161"
+   ]
+  }
+ ],
+ "fragments": {
+  "836602149": {
+   "fragment_id": "836604953",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 356/2023\n\nde 14 de novembro\n\nSumário: Aprova o Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição de Radiações Ionizantes.\n\nO controlo metrológico dos métodos e instrumentos de medição em Portugal obedece ao disposto no regime geral aprovado pelo Decreto-Lei n.º 29/2022, de 7 de abril, bem como às disposições regulamentares gerais previstas no Regulamento Geral do Controlo Metrológico aprovado pela Portaria n.º 211/2022, de 23 de agosto, e, ainda, às disposições constantes das portarias específicas de cada instrumento de medição.\n\nConsiderando a publicação deste regime jurídico, torna-se necessário aprovar a regulamentação específica a que deve obedecer o controlo metrológico dos instrumentos de medição de radiações ionizantes e dos seus dispositivos complementares.\n\nAssim:\n\nAo abrigo do disposto na alínea a) do artigo 2.º e no n.º 1 do artigo 25.º do Decreto-Lei n.º 29/2022, de 7 de abril, conjugados com o disposto no n.º 4 do artigo 1.º do Regulamento anexo à Portaria n.º 211/2022, de 23 de agosto, manda o Governo, pelo Secretário de Estado da Economia, o seguinte:"
+  },
+  "836602150": {
+   "fragment_id": "836604954",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado, em anexo à presente portaria e da qual faz parte integrante, o Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição de Radiações Ionizantes e dos seus dispositivos complementares utilizados para registar os resultados das medições."
+  },
+  "836602151": {
+   "fragment_id": "836604955",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 247/2018, de 4 de setembro."
+  },
+  "836602152": {
+   "fragment_id": "836604956",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "836602153": {
+   "fragment_id": "836604957",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos dos instrumentos de medição de radiações ionizantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos dos instrumentos de medição de radiações ionizantes\n\n1 - Aos instrumentos de medição das radiações ionizantes aplicam-se os requisitos metrológicos e técnicos estabelecidos nas normas internacionais identificadas no artigo 3.º do presente Regulamento.\n\n2 - O instrumento inclui o conjunto constituído pelo sensor de radiação, pelo sistema de processamento do sinal do sensor e pela unidade que produz a indicação visual das medidas ou a emissão do sinal de alarme.\n\n3 - O coeficiente de variação das medidas produzidas pelos dosímetros de radioterapia, medicina nuclear, radiodiagnóstico e proteção radiológica não pode exceder 0,25 %, 1 %, 3 % e 20 %, respetivamente.\n\n4 - O sinal de fundo dos instrumentos deve observar às especificações do fabricante.\n\n5 - Os monitores de proteção radiológica devem ter indicadores de sobrecarga operacionais."
+  },
+  "836602154": {
+   "fragment_id": "836604958",
+   "type": 11,
+   "heading": "Artigo 5.º — Controlo metrológico legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlo metrológico legal\n\nO controlo metrológico legal dos instrumentos de medição de radiações ionizantes compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), e compreende as operações de primeira verificação, verificação periódica e verificação extraordinária."
+  },
+  "836602155": {
+   "fragment_id": "836604959",
+   "type": 11,
+   "heading": "Artigo 6.º — Primeira verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Primeira verificação\n\n1 - A primeira verificação é efetuada antes da colocação do alcoolímetro em serviço, ou após a sua reparação e sempre que ocorra violação do sistema de selagem, dispensando-se a verificação periódica nesse ano, tendo o mesmo prazo de validade.\n\n2 - Os ensaios de primeira verificação são efetuados de acordo com os requisitos estabelecidos nos artigos 3.º e 4.º do presente Regulamento.\n\n3 - Os valores dos erros máximos admissíveis para a primeira verificação são iguais aos valores dos erros máximos admissíveis estabelecidos no anexo do presente Regulamento, que dele faz parte integrante."
+  },
+  "836602156": {
+   "fragment_id": "836604960",
+   "type": 11,
+   "heading": "Artigo 7.º — Verificação periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Verificação periódica\n\n1 - A verificação periódica tem uma periodicidade bianual e é válida durante dois anos após a sua realização.\n\n2 - Os valores dos erros máximos admissíveis na verificação periódica são iguais aos valores dos erros máximos admissíveis estabelecidos para a primeira verificação."
+  },
+  "836602157": {
+   "fragment_id": "836604961",
+   "type": 11,
+   "heading": "Artigo 8.º — Verificação extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Verificação extraordinária\n\n1 - A verificação extraordinária compreende os ensaios da verificação periódica.\n\n2 - Na verificação extraordinária os valores dos erros máximos admissíveis são iguais aos valores dos erros máximos admissíveis estabelecidos para a verificação periódica."
+  },
+  "836602158": {
+   "fragment_id": "836604962",
+   "type": 11,
+   "heading": "Artigo 9.º — Inscrições e marcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inscrições e marcações\n\n1 - Os instrumentos de medição de radiações ionizantes devem apresentar, de forma visível e legível, inscrições e marcações em conformidade com os requisitos previstos no artigo 3.º e no artigo 4.º do presente Regulamento.\n\n2 - Os instrumentos de medição de radiações ionizantes devem ainda conter outros símbolos ou referências úteis para a sua utilização."
+  },
+  "836602159": {
+   "fragment_id": "836604963",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição transitória\n\nOs instrumentos em uso poderão permanecer em utilização enquanto estiverem em bom estado de conservação e, desde que, durante os ensaios de verificação metrológica, não incorram em erros que excedam os erros máximos admissíveis."
+  },
+  "836602160": {
+   "fragment_id": "836604964",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposição final\n\nO disposto nos artigos anteriores não impede a comercialização nem a utilização posterior dos instrumentos de medição de radiações ionizantes, acompanhados de certificados de avaliação da conformidade emitidos por organismos reconhecidos, ao abrigo da legislação da União Europeia aplicável, no âmbito da atividade de metrologia legal, com base em especificações e procedimentos que assegurem uma qualidade metrológica à visada pelo presente Regulamento, sendo a equivalência avaliada pelo IPQ, I. P."
+  },
+  "836602161": {
+   "fragment_id": "836604965",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 6.º)\n\nErros máximos admissíveis (EMA)\n\n| Categoria | Tipo de instrumento | EMA |\n| --- | --- | --- |\n|  |  |  |\n| Radioterapia... | Dosímetro... | -1 % a +1 % |\n| Medicina nuclear... | Calibrador... | -5 % a +5 % |\n| Radiologia... | Dosímetro... | -7 % a +7 % |\n| Proteção radiológica... | Monitor individual... | -20 % a +30 % |\n|  | Monitor de área... | -20 % a +30 % |\n|  | Monitor de contaminação... | -30 % a +30 % |\n\n117047344"
+  }
+ }
+}

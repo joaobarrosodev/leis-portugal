@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:461639:por
+title: Portaria n.º 747/80
+short_title: null
+summary: Alarga, com dispensa da posse de licenciatura, a área de recrutamento para o provimento do lugar de director da delegação
+  da Secretaria de Estado da Comunicação Social no Porto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 747/80
+official_date: null
+publication_date: '1980-09-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 225/1980, Série I de 1980-09-29
+  number: '225'
+  series: I
+  supplement: null
+  pages: 3018 - 3018
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22500/30183018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '461639'
+  dre_path: /dr/detalhe/portaria/747-1980-461639
+  internal: pt:dre:461639:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1980-461639
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1980-461639
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:28:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 557751097ef51c79f984c671b9b158f298d6f5918ffd155a76208badf9e12dc1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formas de Provimento
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:263726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677430:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:28:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 747/80
+
+de 29 de Setembro
+
+Dada a natureza das funções que competem à Delegação da Secretaria de Estado da Comunicação Social no Porto - essencialmente como que um prolongamento da própria Secretaria de Estado nos seus dois sectores fundamentais, a Direcção-Geral da Informação e Direcção-Geral da Divulgação -, justifica-se de todo em todo que a escolha do respectivo director recaia sobre quem, não habilitado embora com licenciatura, possua comprovada experiência técnica e profissional naquelas duas áreas, ou numa delas, e cuja aptidão e competência sejam já reconhecidas.
+
+Aliás, nos mesmos termos se dispõe já para o provimento do lugar de director-geral da Informação - [Portaria n.º 127/80](https://diariodarepublica.pt/dr/detalhe/portaria/127-1980-677430), de 25 de Março -, assim como foi enviado já para publicação diploma paralelo respeitante ao recrutamento do director-geral da Divulgação.
+
+Assim:
+
+Considerando o disposto no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho;
+
+Ao abrigo da estatuição da alínea a) do artigo 41.º do [Decreto-Lei n.º 48686](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48686-1968-263726), de 15 de Novembro de 1968:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Comunicação Social e da Reforma Administrativa, o seguinte:
+
+1.º É alargada, com dispensa da posse de licenciatura, a área de recrutamento para o provimento do lugar de director da Delegação da secretaria de Estado da Comunicação Social do Porto.
+
+2.º A publicação do despacho de nomeação, no caso de dispensa do requisito de habilitações, será acompanhada da do curriculum do nomeado.
+
+Secretarias de Estado da Comunicação Social e da Reforma Administrativa, 17 de Setembro de 1980. - O Secretário de Estado de Comunicação Social, Carlos Pedro Brandão, de Melo de Sousa e Brito. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.

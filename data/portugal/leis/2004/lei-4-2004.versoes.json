@@ -1,0 +1,1346 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:603475:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-34547775",
+ "dre_path": "/dr/detalhe/lei/4-2004-603475",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "43640975",
+    "43641075",
+    "43641175",
+    "43641275",
+    "43641375",
+    "43641475",
+    "43641575",
+    "43641675",
+    "43641775",
+    "43641875",
+    "43641975",
+    "43642075",
+    "43642175",
+    "43642275",
+    "43642375",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "43643675",
+    "43643775",
+    "43643875",
+    "43643975",
+    "43644075",
+    "43644175",
+    "43644275",
+    "43644375",
+    "43644475",
+    "43644575",
+    "43644675",
+    "43644775",
+    "43644875",
+    "43644975",
+    "43645075",
+    "43645175",
+    "43645275"
+   ]
+  },
+  {
+   "date": "2005-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:245335:por",
+     "title": "Lei n.º 51/2005",
+     "published": "2005-08-30",
+     "dre_path": "/dr/detalhe/lei/51-2005-245335"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "43640975",
+    "43641075",
+    "43641175",
+    "43641275",
+    "43641375",
+    "43641475",
+    "43641575",
+    "43641675",
+    "43641775",
+    "43641875",
+    "43641975",
+    "43642075",
+    "43642175",
+    "43642275",
+    "43642375",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "43643675",
+    "43643775",
+    "43643875",
+    "43643975",
+    "43644075",
+    "43644175",
+    "43644275",
+    "43644375",
+    "43644475",
+    "106409700",
+    "43644675",
+    "43644775",
+    "43644875",
+    "43644975",
+    "43645075",
+    "43645175",
+    "43645275",
+    "43647575"
+   ]
+  },
+  {
+   "date": "2006-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:545779:por",
+     "title": "Decreto-Lei n.º 200/2006",
+     "published": "2006-10-25",
+     "dre_path": "/dr/detalhe/decreto-lei/200-2006-545779"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "43640975",
+    "43641075",
+    "43641175",
+    "43641275",
+    "43641375",
+    "43641475",
+    "43641575",
+    "43641675",
+    "43641775",
+    "43641875",
+    "43641975",
+    "43642075",
+    "43642175",
+    "43642275",
+    "43642375",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "43643675",
+    "43643775",
+    "43643875",
+    "43643975",
+    "106409701",
+    "106409702",
+    "43644275",
+    "43644375",
+    "43644475",
+    "106409700",
+    "43644675",
+    "43644775",
+    "43644875",
+    "43644975",
+    "43645075",
+    "43645175",
+    "43645275",
+    "43647575"
+   ]
+  },
+  {
+   "date": "2007-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520191:por",
+     "title": "Decreto-Lei n.º 105/2007",
+     "published": "2007-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2007-520191"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 32.º-A",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "43640975",
+    "43641075",
+    "43641175",
+    "43641275",
+    "43641375",
+    "43641475",
+    "43641575",
+    "43641675",
+    "43641775",
+    "43641875",
+    "43641975",
+    "43642075",
+    "43642175",
+    "43642275",
+    "43642375",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "106409706",
+    "106409707",
+    "43643875",
+    "43643975",
+    "106409708",
+    "106409702",
+    "43644275",
+    "43644375",
+    "43644475",
+    "106409700",
+    "43644675",
+    "43644775",
+    "43644875",
+    "43644975",
+    "43645075",
+    "106409703",
+    "106409704",
+    "106409705",
+    "43647575"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243747:por",
+     "title": "Lei n.º 64-A/2008",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/lei/64-a-2008-243747"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 23.º-A",
+    "Altera Artigo 8.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 28.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 32.º-A"
+   ],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "43640975",
+    "43641075",
+    "43641175",
+    "43641275",
+    "43641375",
+    "43641475",
+    "43641575",
+    "43641675",
+    "106409713",
+    "43641875",
+    "43641975",
+    "43642075",
+    "43642175",
+    "43642275",
+    "43642375",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "106409706",
+    "106409707",
+    "43643875",
+    "106409709",
+    "43643975",
+    "106409712",
+    "106409702",
+    "43644275",
+    "43644375",
+    "43644475",
+    "106409714",
+    "43644675",
+    "43644775",
+    "106409710",
+    "43644975",
+    "43645075",
+    "106409711",
+    "106409704",
+    "106409705",
+    "43647575"
+   ]
+  },
+  {
+   "date": "2011-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146185:por",
+     "title": "Lei n.º 57/2011",
+     "published": "2011-11-28",
+     "dre_path": "/dr/detalhe/lei/57-2011-146185"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 29.º"
+   ],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "43640975",
+    "43641075",
+    "43641175",
+    "43641275",
+    "43641375",
+    "43641475",
+    "43641575",
+    "43641675",
+    "106409713",
+    "43641875",
+    "43641975",
+    "43642075",
+    "43642175",
+    "43642275",
+    "43642375",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "106409706",
+    "106409707",
+    "43643875",
+    "106409709",
+    "43643975",
+    "106409712",
+    "106409702",
+    "43644275",
+    "43644375",
+    "43644475",
+    "106409714",
+    "43644675",
+    "106409715",
+    "106409710",
+    "43644975",
+    "43645075",
+    "106409711",
+    "106409704",
+    "106409705",
+    "43647575"
+   ]
+  },
+  {
+   "date": "2011-12-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145274:por",
+     "title": "Decreto-Lei n.º 116/2011",
+     "published": "2011-12-05",
+     "dre_path": "/dr/detalhe/decreto-lei/116-2011-145274"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "43640975",
+    "43641075",
+    "43641175",
+    "43641275",
+    "43641375",
+    "43641475",
+    "43641575",
+    "43641675",
+    "106409713",
+    "43641875",
+    "43641975",
+    "43642075",
+    "43642175",
+    "43642275",
+    "43642375",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "106409721",
+    "106409722",
+    "43643875",
+    "106409709",
+    "43643975",
+    "106409712",
+    "106409702",
+    "43644275",
+    "43644375",
+    "43644475",
+    "106409714",
+    "43644675",
+    "106409715",
+    "106409710",
+    "43644975",
+    "43645075",
+    "106409711",
+    "106409704",
+    "106409705",
+    "43647575"
+   ]
+  },
+  {
+   "date": "2011-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145045:por",
+     "title": "Lei n.º 64/2011",
+     "published": "2011-12-22",
+     "dre_path": "/dr/detalhe/lei/64-2011-145045"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "43640975",
+    "43641075",
+    "43641175",
+    "43641275",
+    "43641375",
+    "43641475",
+    "43641575",
+    "43641675",
+    "106409713",
+    "43641875",
+    "43641975",
+    "43642075",
+    "43642175",
+    "43642275",
+    "43642375",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "106409721",
+    "106409722",
+    "43643875",
+    "106409709",
+    "43643975",
+    "106409712",
+    "106409702",
+    "43644275",
+    "43644375",
+    "43644475",
+    "106409723",
+    "43644675",
+    "106409715",
+    "106409710",
+    "43644975",
+    "43645075",
+    "106409711",
+    "106409704",
+    "106409705",
+    "43647575"
+   ]
+  },
+  {
+   "date": "2024-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:870757937:por",
+     "title": "Decreto-Lei n.º 43-A/2024",
+     "published": "2024-07-02",
+     "dre_path": "/dr/detalhe/decreto-lei/43-a-2024-870757937"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 28.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º"
+   ],
+   "fragments": [
+    "43640675",
+    "43640775",
+    "43640875",
+    "870784328",
+    "43641075",
+    "43641175",
+    "870784329",
+    "870784338",
+    "870784339",
+    "43641575",
+    "43641675",
+    "870784330",
+    "870784331",
+    "870784332",
+    "43642075",
+    "43642175",
+    "870784333",
+    "43642375",
+    "870784337",
+    "43642475",
+    "43642575",
+    "43642675",
+    "43642775",
+    "43642875",
+    "43642975",
+    "43643075",
+    "43643175",
+    "43643275",
+    "43643375",
+    "43643475",
+    "43643575",
+    "870784334",
+    "106409722",
+    "870784335",
+    "106409709",
+    "43643975",
+    "106409712",
+    "106409702",
+    "43644275",
+    "43644375",
+    "43644475",
+    "870784336",
+    "43644675",
+    "106409715",
+    "106409710",
+    "870784340",
+    "870784341",
+    "106409711",
+    "106409704",
+    "106409705",
+    "43647575"
+   ]
+  }
+ ],
+ "fragments": {
+  "43640675": {
+   "fragment_id": "35167575",
+   "type": 15,
+   "heading": "Diploma — Estabelece os princípios e normas a que deve obedecer a organização da administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "43640775": {
+   "fragment_id": "35232075",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "43640875": {
+   "fragment_id": "36347275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece os princípios e normas a que obedece a organização da administração directa do Estado."
+  },
+  "43640975": {
+   "fragment_id": "36347375",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Integram a administração directa do Estado os serviços centrais e periféricos que, pela natureza das suas competências e funções, devam estar sujeitos ao poder de direcção do respectivo membro do Governo.\n\n2 - Incluem-se no disposto no número anterior os serviços de cujas atribuições decorra, designadamente, o exercício de poderes de soberania, autoridade e representação política do Estado ou o estudo e concepção, coordenação, apoio e controlo ou fiscalização de outros serviços administrativos.\n\n3 - A aplicação da presente lei às Forças Armadas, às forças militarizadas e aos serviços do Sistema de Informações da República Portuguesa faz-se sem prejuízo das necessárias adaptações constantes das respectivas leis orgânicas."
+  },
+  "43641075": {
+   "fragment_id": "36347475",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios\n\n1 - A organização, a estrutura e o funcionamento da Administração Pública devem orientar-se pelos princípios da unidade e eficácia da acção da Administração Pública, da aproximação dos serviços às populações, da desburocratização, da racionalização de meios, da eficiência na afectação de recursos públicos, na melhoria quantitativa e qualitativa do serviço prestado e da garantia de participação dos cidadãos, bem como pelos demais princípios constitucionais da actividade administrativa acolhidos pelo Código do Procedimento Administrativo.\n\n2 - O princípio da unidade e eficácia da acção da Administração Pública consubstancia-se no exercício de poderes hierárquicos, nomeadamente os poderes de direcção, substituição e revogação e nas inerentes garantias dos destinatários dos actos praticados no âmbito destes poderes.\n\n3 - Em obediência ao princípio da aproximação dos serviços às populações, as funções de cada serviço devem ser exercidas no nível territorial mais próximo possível dos respectivos destinatários.\n\n4 - A desburocratização deve traduzir-se numa clara definição de atribuições, competências e funções, numa simplificação das estruturas orgânicas existentes e na redução dos níveis hierárquicos de decisão.\n\n5 - Em cumprimento do princípio da racionalização, devem ser prosseguidas a economia de meios e a eficácia da actuação administrativa, evitando-se a criação de novos serviços e a dispersão de funções ou competências por pequenas unidades orgânicas.\n\n6 - Tendo em vista o acréscimo da eficiência na afectação de recursos públicos e a melhoria quantitativa e qualitativa do serviço prestado ao cidadão pode, desde que no respeito pela Constituição e em termos e condições a fixar em diploma próprio, ser objecto de delegação ou concessão a entidades privadas, por prazo determinado, a prossecução de algumas das funções de serviços da administração directa do Estado.\n\n7 - No respeito pelo princípio da participação dos administrados, a administração directa do Estado deve assegurar a interacção e a complementaridade da sua actuação com os respectivos destinatários, bem como com entidades representativas dos interesses económicos e sociais.\n\n8 - Norteados pela prossecução do interesse público, os órgãos e serviços da administração directa do Estado devem observar ainda os princípios gerais referidos nos números anteriores mediante o incremento, na sua actuação:\n\na) Da prestação de serviços orientados para os cidadãos;\n\nb) Da imparcialidade na actividade administrativa;\n\nc) Da responsabilização a todos os níveis pela gestão pública;\n\nd) Da racionalidade e celeridade nos procedimentos administrativos;\n\ne) Da eficácia na prossecução dos objectivos fixados e controlo de resultados obtidos;\n\nf) Da eficiência na utilização dos recursos públicos;\n\ng) Da permanente abertura e adequação às potencialidades das tecnologias da informação e comunicações;\n\nh) Do recurso a modelos flexíveis de funcionamento em função dos objectivos, recursos e tecnologias disponíveis."
+  },
+  "43641175": {
+   "fragment_id": "35232175",
+   "type": 1,
+   "heading": "Capítulo II — Ministérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ministérios"
+  },
+  "43641275": {
+   "fragment_id": "36347575",
+   "type": 11,
+   "heading": "Artigo 4.º — Ministérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ministérios\n\nA lei orgânica de cada ministério define as respectivas atribuições, bem como a estrutura orgânica necessária ao seu funcionamento, distinguindo os serviços e organismos que pertencem à administração directa dos da administração indirecta."
+  },
+  "43641375": {
+   "fragment_id": "36347675",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios de organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios de organização\n\nNa organização de cada ministério devem respeitar-se os seguintes princípios:\n\na) Adequar a estrutura à missão, garantindo a justa proporção entre a estrutura operativa e a estrutura de apoio;\n\nb) Assegurar um equilíbrio adequado entre serviços centrais e periféricos, visando a prestação de um serviço de qualidade;\n\nc) Agregar as funções homogéneas do ministério por serviços preferencialmente de média ou grande dimensão, com competências bem definidas, de acordo com o princípio da segregação de funções, com vista à responsabilidade pelos resultados;\n\nd) Assegurar a existência de circuitos de informação e comunicação simples e coerentes, tendencialmente agregando num mesmo sistema centralizado a informação de utilização comum, tanto no seio de cada ministério como no âmbito da prossecução de finalidades interministeriais;\n\ne) Garantir que o desempenho das funções comuns, previstas no artigo seguinte, seja atribuído a serviços já existentes em cada ministério, não determinando a criação de novos serviços;\n\nf) Reduzir o número de níveis hierárquicos de decisão ao mínimo indispensável à adequada prossecução dos objectivos do serviço;\n\ng) Privilegiar, face à emergência de novas atribuições, a reestruturação dos serviços existentes em prejuízo da criação de novos."
+  },
+  "43641475": {
+   "fragment_id": "36347775",
+   "type": 11,
+   "heading": "Artigo 6.º — Funções comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções comuns\n\n1 - São funções comuns dos ministérios, designadamente:\n\na) Elaboração e acompanhamento da execução do orçamento de funcionamento;\n\nb) Planeamento do investimento público e correspondente elaboração e execução do seu orçamento;\n\nc) Gestão de recursos humanos, organizacionais e modernização administrativa;\n\nd) Acompanhamento técnico da participação portuguesa nas instituições europeias e nas políticas comunitárias;\n\ne) Relações internacionais no âmbito das suas atribuições.\n\n2 - Às funções comuns dos ministérios correspondem funções a exercer por um ou mais serviços da administração directa do Estado dentro do mesmo ministério, devendo as referidas nas alíneas a), b) e c) do número anterior ser tendencialmente asseguradas pelas respectivas secretarias-gerais."
+  },
+  "43641575": {
+   "fragment_id": "36347875",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos consultivos\n\n1 - Os órgãos consultivos apoiam a formulação e acompanhamento de políticas públicas da responsabilidade do Governo, através da cooperação entre a Administração Pública, individualidades de reconhecido mérito e representantes dos interesses económicos e sociais.\n\n2 - Os órgãos consultivos apreciam e emitem pareceres sobre as matérias que lhes forem submetidas pelos membros do Governo.\n\n3 - Os órgãos consultivos são centrais e funcionam na dependência directa do membro do Governo junto do qual são criados, competindo a serviços do respectivo ministério o apoio logístico, administrativo e financeiro necessário ao seu funcionamento.\n\n4 - Os órgãos consultivos são criados por decreto regulamentar que definirá as regras necessárias ao seu funcionamento."
+  },
+  "43641675": {
+   "fragment_id": "35232275",
+   "type": 1,
+   "heading": "Capítulo III — Modelos de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Modelos de funcionamento"
+  },
+  "43641775": {
+   "fragment_id": "36347975",
+   "type": 11,
+   "heading": "Artigo 8.º — Partilha de actividades comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Partilha de actividades comuns\n\n1 - Deve ser promovida a partilha de actividades comuns entre os serviços integrantes de um mesmo ministério ou de vários ministérios para optimização dos recursos.\n\n2 - A partilha de actividades comuns não prejudica as competências próprias ou delegadas dos respectivos dirigentes máximos, podendo o seu funcionamento ser enquadrado por protocolos que estabelecerão as regras necessárias à clara actuação de cada uma das partes.\n\n3 - Este modelo de funcionamento abrange especialmente actividades de natureza administrativa e logística, designadamente:\n\na) Negociação e aquisições de bens e serviços;\n\nb) Sistemas de informação e comunicação;\n\nc) Gestão de edifícios;\n\nd) Serviços de segurança e de limpeza;\n\ne) Gestão da frota automóvel;\n\nf) Processamento de vencimentos e contabilidade.\n\n4 - Num mesmo ministério podem ser propostos outros modelos de funcionamento que consubstanciem os princípios de partilha de serviços.\n\n5 - Para efeito dos números anteriores pode ser concretizada a requisição ou transferência do pessoal anteriormente afecto à execução dessas actividades para o serviço prestador, sem prejuízo da manutenção de uma estrutura mínima que permita e facilite o diálogo com este serviço.\n\n6 - Nos casos em que se verifique o recurso à transferência de funcionários, os respectivos lugares são aditados ao quadro de destino, se necessário, com a inerente extinção no quadro de origem."
+  },
+  "43641875": {
+   "fragment_id": "36348075",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento em rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funcionamento em rede\n\n1 - O modelo de funcionamento em rede deve ser adoptado quando estejam em causa funções do Estado cuja completa e eficiente prossecução dependa de mais de um serviço ou organismo, independentemente do seu carácter intra ou interministerial.\n\n2 - Este modelo de funcionamento determina, em todos os casos, a integração ou disponibilização da informação de utilização comum ou pertinente em formato electrónico.\n\n3 - O funcionamento em rede deve ser considerado quando da fixação da estrutura interna dos serviços envolvidos."
+  },
+  "43641975": {
+   "fragment_id": "36348175",
+   "type": 11,
+   "heading": "Artigo 10.º — Sistemas de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sistemas de informação\n\n1 - A administração directa do Estado deve integrar um sistema de informação interna que permita:\n\na) A circulação da informação entre organismos por via electrónica, reduzindo tanto quanto possível o peso da informação em papel;\n\nb) O fornecimento das informações necessárias à boa gestão dos recursos humanos, orçamentais e materiais;\n\nc) A coordenação, o controlo e avaliação pelos organismos competentes da gestão dos recursos humanos, orçamentais e materiais.\n\n2 - A administração directa do Estado deve potenciar a utilização dos instrumentos do governo electrónico na prestação de serviços directos aos cidadãos, comunidades e empresas, que permita:\n\na) Fornecer todos os dados e informações relevantes;\n\nb) Facilitar o tratamento integrado das relações entre cidadão e Estado;\n\nc) Melhorar a eficiência e a eficácia de contratação pública de empreitadas, bens e serviços;\n\nd) Contribuir para melhorar o aproveitamento das oportunidades de desenvolvimento económico."
+  },
+  "43642075": {
+   "fragment_id": "35232375",
+   "type": 1,
+   "heading": "Capítulo IV — Serviços da administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Serviços da administração directa do Estado"
+  },
+  "43642175": {
+   "fragment_id": "36348275",
+   "type": 8,
+   "heading": "Secção I — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regras gerais"
+  },
+  "43642275": {
+   "fragment_id": "37947375",
+   "type": 11,
+   "heading": "Artigo 11.º — Tipologia dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tipologia dos serviços\n\n1 - Para efeitos da presente lei, entende-se por missão a expressão sucinta das funções fundamentais e determinantes de cada serviço e objectivos essenciais a garantir.\n\n2 - Os serviços da administração directa do Estado são definidos, de acordo com a sua função dominante, em:\n\na) Serviços executivos;\n\nb) Serviços de controlo, auditoria e fiscalização;\n\nc) Serviços de coordenação.\n\n3 - A qualificação dos serviços pela sua função dominante não prejudica a atribuição de outras funções de diferente natureza, desde que associados ou complementares da sua função dominante.\n\n4 - Os serviços da administração directa do Estado podem ser centrais ou periféricos, sendo que:\n\na) São serviços centrais os que exercem competência extensiva a todo o território nacional, independentemente de possuírem, ou não, unidades orgânicas geograficamente desconcentradas;\n\nb) São serviços periféricos os que dispõem de competência limitada a uma área territorial restrita, funcionando sob a direcção do membro do Governo competente.\n\n5 - Os serviços periféricos externos exercem os seus poderes fora do território nacional, podendo a sua estrutura interna ser definida de acordo com as suas especificidades, sem prejuízo dos princípios gerais contidos na presente lei."
+  },
+  "43642375": {
+   "fragment_id": "37947475",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime financeiro\n\nOs serviços da administração directa do Estado dispõem, em regra, de autonomia administrativa para actos de gestão corrente."
+  },
+  "43642475": {
+   "fragment_id": "36348375",
+   "type": 8,
+   "heading": "Secção II — Serviços executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços executivos"
+  },
+  "43642575": {
+   "fragment_id": "37947575",
+   "type": 11,
+   "heading": "Artigo 13.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Objectivos\n\nOs serviços executivos da administração directa do Estado garantem a prossecução das políticas públicas da responsabilidade de cada ministério, prestando serviços no âmbito das suas atribuições ou exercendo funções de apoio técnico aos respectivos membros do Governo, nos seguintes domínios:\n\na) Concretização das políticas públicas definidas pelo Governo;\n\nb) Estudos e concepção ou planeamento;\n\nc) Gestão de recursos organizacionais;\n\nd) Relações com a União Europeia;\n\ne) Relações internacionais."
+  },
+  "43642675": {
+   "fragment_id": "37947675",
+   "type": 11,
+   "heading": "Artigo 14.º — Tipos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tipos funcionais\n\n1 - Os serviços executivos de políticas públicas designam-se direcções-gerais ou direcções regionais, quando periféricos.\n\n2 - Os serviços cuja missão dominante consiste no desenvolvimento de actividades de apoio técnico nos domínios previstos no artigo anterior são centrais e designam-se gabinetes ou secretarias-gerais."
+  },
+  "43642775": {
+   "fragment_id": "36348475",
+   "type": 8,
+   "heading": "Secção III — Serviços de controlo, auditoria e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Serviços de controlo, auditoria e fiscalização"
+  },
+  "43642875": {
+   "fragment_id": "37947775",
+   "type": 11,
+   "heading": "Artigo 15.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Objectivos\n\nOs serviços de controlo, auditoria e fiscalização exercem funções permanentes de acompanhamento e de avaliação da execução de políticas públicas, podendo integrar funções inspectivas ou de auditoria."
+  },
+  "43642975": {
+   "fragment_id": "37947875",
+   "type": 11,
+   "heading": "Artigo 16.º — Tipos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tipos funcionais\n\nQuando a função dominante seja a inspectiva, os serviços de controlo, auditoria e fiscalização designam-se inspecções-gerais ou inspecções regionais, quando se trate, respectivamente, de serviços centrais ou periféricos."
+  },
+  "43643075": {
+   "fragment_id": "36348575",
+   "type": 8,
+   "heading": "Secção IV — Serviços de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Serviços de coordenação"
+  },
+  "43643175": {
+   "fragment_id": "37947975",
+   "type": 11,
+   "heading": "Artigo 17.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Objectivos\n\n1 - Os serviços de coordenação promovem a articulação em domínios onde esta necessidade seja permanente.\n\n2 - Para efeito do disposto no número anterior, os serviços de coordenação:\n\na) Harmonizam a formulação e execução de políticas públicas da responsabilidade do Governo;\n\nb) Asseguram a utilização racional, conjugada e eficiente, de recursos na Administração Pública;\n\nc) Emitem pareceres sobre as matérias que, no âmbito da sua acção coordenadora, lhes forem submetidas pelos membros do Governo."
+  },
+  "43643275": {
+   "fragment_id": "37948075",
+   "type": 11,
+   "heading": "Artigo 18.º — Dependência hierárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Dependência hierárquica\n\n1 - Os serviços de coordenação podem ser intra ou interministeriais, devendo o diploma que os cria especificar qual o membro do Governo de que directamente dependem, no caso de terem natureza interministerial.\n\n2 - O diploma que cria o serviço deve especificar o nível de direcção a que corresponde o estatuto do respectivo coordenador."
+  },
+  "43643375": {
+   "fragment_id": "37948175",
+   "type": 11,
+   "heading": "Artigo 19.º — Apoio aos serviços de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apoio aos serviços de coordenação\n\nOs serviços de coordenação são centrais, sendo determinado, por despacho do membro do Governo de que dependem, quais os serviços que asseguram o apoio logístico, administrativo e financeiro necessários ao seu funcionamento."
+  },
+  "43643475": {
+   "fragment_id": "35232475",
+   "type": 1,
+   "heading": "Capítulo V — Organização interna dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Organização interna dos serviços"
+  },
+  "43643575": {
+   "fragment_id": "36348675",
+   "type": 11,
+   "heading": "Artigo 20.º — Tipos de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Tipos de organização interna\n\n1 - A organização interna dos serviços executivos e de controlo e fiscalização deve ser adequada às respectivas atribuições, obedecendo aos seguintes modelos:\n\na) Estrutura hierarquizada;\n\nb) Estrutura matricial.\n\n2 - Sempre que seja adoptado um modelo estrutural misto, o diploma de criação do serviço distinguirá as áreas de actividade por cada modelo adoptado.\n\n3 - Quando seja exclusivamente adoptada a estrutura hierarquizada, e desde que se justifique, com vista a aumentar a flexibilidade e eficácia na gestão, podem ser criadas, por despacho do respectivo dirigente máximo, equipas de projecto temporárias e com objectivos especificados."
+  },
+  "43643675": {
+   "fragment_id": "36348775",
+   "type": 11,
+   "heading": "Artigo 21.º — Estrutura hierarquizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estrutura hierarquizada\n\n1 - A estrutura interna hierarquizada é constituída por unidades orgânicas nucleares e flexíveis.\n\n2 - A estrutura nuclear do serviço é composta pelas direcções de serviços, correspondendo a uma departamentalização fixa.\n\n3 - A estrutura flexível é composta pelas divisões.\n\n4 - A estrutura nuclear dos serviços, bem como a definição das atribuições e competências das respectivas unidades orgânicas, são aprovadas por portaria conjunta do membro do Governo competente, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n5 - As unidades orgânicas flexíveis são criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que definirá as respectivas atribuições e competências, bem como a afectação ou reafectação do pessoal do respectivo quadro, no âmbito do limite máximo previamente fixado em portaria do membro do Governo competente.\n\n6 - A criação, alteração ou extinção de unidades orgânicas no âmbito da estrutura flexível visa assegurar a permanente adequação do serviço às necessidades de funcionamento e de optimização dos recursos, tendo em conta uma programação e controlo criteriosos dos custos e resultados.\n\n7 - Os despachos referidos no n.º 5 são publicados no Diário da República.\n\n8 - Quando estejam em causa funções de carácter predominantemente administrativo, no âmbito das direcções de serviços ou das divisões, podem ser criadas secções.\n\n9 - A organização por especialidade não deve prejudicar a mobilidade funcional dos dirigentes e do restante pessoal."
+  },
+  "43643775": {
+   "fragment_id": "36348875",
+   "type": 11,
+   "heading": "Artigo 22.º — Estrutura matricial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estrutura matricial\n\n1 - A estrutura matricial é adoptada sempre que as áreas operativas do serviço possam desenvolver-se essencialmente por projectos, devendo agrupar-se por centros de competências ou de produto bem identificados, visando assegurar a constituição de equipas multidisciplinares com base na mobilidade funcional.\n\n2 - A constituição das equipas multidisciplinares e a designação das suas chefias, de entre efectivos do serviço, é da responsabilidade do respectivo dirigente máximo.\n\n3 - O estatuto remuneratório dos chefes de equipa consta do diploma de criação do serviço por equiparação ao estatuto remuneratório fixado para os directores de serviço ou chefes de divisão, sendo a dotação máxima de chefes de equipa fixada por portaria do membro do Governo respectivo."
+  },
+  "43643875": {
+   "fragment_id": "36348975",
+   "type": 11,
+   "heading": "Artigo 23.º — Cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cargos dirigentes\n\n1 - Os dirigentes máximos dos serviços centrais executivos e de controlo e fiscalização ocupam cargos de direcção superior de grau 1 e são coadjuvados por dirigentes em cargos de direcção superior de grau 2, independentemente, em qualquer dos casos, da sua designação.\n\n2 - A qualificação do cargo de direcção dos dirigentes máximos dos serviços desconcentrados é definida no diploma que cria o serviço em função do nível de competências e responsabilidades que lhes sejam cometidas.\n\n3 - Os directores de serviços e os chefes de divisão correspondem a cargos de direcção intermédia, de grau 1 e de grau 2, respectivamente.\n\n4 - As direcções de serviços podem ser colocadas na dependência directa do director-geral ou equiparado, ou dos subdirectores-gerais ou equiparados, neste caso em termos a fixar por despacho do dirigente máximo.\n\n5 - Podem existir divisões dependentes directamente do director-geral ou de um dos subdirectores-gerais."
+  },
+  "43643975": {
+   "fragment_id": "35232575",
+   "type": 1,
+   "heading": "Capítulo VI — Da criação, reestruturação, fusão e extinção de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Da criação, reestruturação, fusão e extinção de serviços"
+  },
+  "43644075": {
+   "fragment_id": "36349075",
+   "type": 11,
+   "heading": "Artigo 24.º — Natureza e conteúdo dos diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Natureza e conteúdo dos diplomas\n\n1 - A criação, reestruturação, fusão e extinção dos serviços da administração directa do Estado são aprovadas por decreto regulamentar e devem conter:\n\na) A designação do novo serviço, dos serviços que lhe deram origem ou do serviço extinto, no caso, respectivamente, de criação, reestruturação ou fusão, ou extinção;\n\nb) A definição da sua natureza funcional enquanto serviços executivos ou de controlo e de fiscalização, ou de coordenação;\n\nc) A respectiva missão;\n\nd) A identificação das respectivas atribuições;\n\ne) A identificação do modelo de funcionamento e do tipo de organização interna;\n\nf) A dotação de lugares de direcção superior e de direcção intermédia de grau 1;\n\ng) O estatuto remuneratório dos chefes de equipa multidisciplinar, se aplicável.\n\n2 - A aprovação e alteração dos quadros de pessoal são feitas por portaria conjunta do ministro da tutela, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "43644175": {
+   "fragment_id": "36349175",
+   "type": 11,
+   "heading": "Artigo 25.º — Reestruturação, extinção ou fusão de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reestruturação, extinção ou fusão de serviços\n\n1 - Sempre que a finalidade de um serviço se encontre esgotada ou verificando-se que o mesmo prossegue missões complementares, paralelas ou sobrepostas às de outros serviços, deve o competente membro do Governo propor, consoante os casos, a sua extinção, reestruturação ou fusão.\n\n2 - As propostas referidas no número anterior devem conter justificação objectiva e fundamentada das situações respeitantes ao esgotamento da finalidade do serviço em causa ou das relativas à prossecução de missões complementares, paralelas ou sobrepostas às de outros serviços.\n\n3 - Os diplomas a que se refere o presente artigo devem prever as regras de sucessão de direitos e obrigações e determinar a reafectação dos correspondentes recursos financeiros e organizacionais, bem como a colocação e afectação dos recursos humanos, nos termos legais aplicáveis."
+  },
+  "43644275": {
+   "fragment_id": "36349275",
+   "type": 11,
+   "heading": "Artigo 26.º — Racionalização de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Racionalização de serviços\n\n1 - A criação de novos serviços implica a não existência de outros serviços que prossigam total ou parcialmente os mesmos fins, ou a extinção dos serviços que os prossigam, de forma a que resulte clara a responsabilidade pelas funções que determinam a criação de um novo serviço do Estado.\n\n2 - Não podem ser criados novos serviços da administração directa do Estado cujas missões sejam ou possam ser prosseguidas por serviços existentes.\n\n3 - As atribuições e competências dos diferentes serviços e seus departamentos devem permitir a identificação de responsabilidades pelos resultados nos vários níveis hierárquicos ou nas diferentes áreas de actividade."
+  },
+  "43644375": {
+   "fragment_id": "36349375",
+   "type": 11,
+   "heading": "Artigo 27.º — Pareceres prévios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pareceres prévios\n\n1 - A proposta relativa à criação, reestruturação, fusão ou extinção de serviços apenas pode ser presente a Conselho de Ministros desde que acompanhada de pareceres prévios dos serviços competentes dependentes do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n2 - Os pareceres referidos no número anterior incidem, nomeadamente, sobre a conformidade com:\n\na) A disciplina orçamental em vigor;\n\nb) As orientações e regras definidas na presente lei, bem como sobre a eventual existência de serviços que prossigam missões complementares, paralelas ou sobrepostas.\n\n3 - Para efeitos do número anterior, todos os projectos de diploma devem ser acompanhados de uma identificação das melhorias do processo de decisão, tendo em conta as funções essenciais do serviço.\n\n4 - Quando for proposta a criação, reestruturação, fusão ou extinção de serviços da administração directa do Estado, pode o Ministro das Finanças ou o membro do Governo que tiver a seu cargo a Administração Pública, isolada ou conjuntamente, determinar que os serviços competentes efectuem as auditorias consideradas adequadas."
+  },
+  "43644475": {
+   "fragment_id": "35232675",
+   "type": 1,
+   "heading": "Capítulo VII — Estruturas temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Estruturas temporárias"
+  },
+  "43644575": {
+   "fragment_id": "36349475",
+   "type": 11,
+   "heading": "Artigo 28.º — Estruturas de missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Estruturas de missão\n\n1 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ser cometida a estruturas de missão, criadas por resolução do Conselho de Ministros.\n\n2 - As estruturas de missão têm uma duração temporal limitada e objectivos contratualizados e dependem do apoio logístico da secretaria-geral ou de outro serviço executivo.\n\n3 - A resolução do Conselho de Ministros deve estabelecer obrigatoriamente:\n\na) A designação da estrutura de missão;\n\nb) A identificação da missão;\n\nc) Os termos e a duração do mandato, com a definição clara dos objectivos a alcançar;\n\nd) O estatuto do responsável e dos elementos que a compõem;\n\ne) O número de elementos que deve integrar a estrutura e respectivas funções;\n\nf) Os encargos orçamentais e respectivo cabimento orçamental.\n\n4 - As estruturas de missão devem recorrer essencialmente à requisição e ao destacamento de pessoal pertencente aos quadros dos serviços e organismos da Administração Pública.\n\n5 - Em casos excepcionais, devidamente fundamentados, podem ser celebrados contratos individuais de trabalho a termo, os quais cessam automaticamente no termo do prazo do mandato.\n\n6 - A estrutura de missão considera-se automaticamente extinta uma vez decorrido o prazo pelo qual foi constituída, sem prejuízo de o respectivo mandato poder ser prorrogado por resolução do Conselho de Ministros, que deve fundamentar tal decisão referindo, designadamente, o grau de cumprimento dos objectivos iniciais.\n\n7 - Findo o prazo da missão, o responsável elabora relatório da actividade desenvolvida e dos resultados alcançados, a publicar no site do Ministério, após aprovação do membro do Governo competente."
+  },
+  "43644675": {
+   "fragment_id": "35232775",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "43644775": {
+   "fragment_id": "36349575",
+   "type": 11,
+   "heading": "Artigo 29.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Publicidade\n\n1 - O ministério que tenha a seu cargo a Administração Pública é responsável pela criação e permanente actualização de uma base de dados dos serviços da Administração Pública, da sua estruturação por ministérios e, bem assim, pela sua divulgação através dos meios mais eficazes, designadamente o Portal do Cidadão.\n\n2 - A divulgação referida no número anterior inclui os organogramas de cada ministério, bem como a referência às disposições orgânicas em vigor."
+  },
+  "43644875": {
+   "fragment_id": "36349675",
+   "type": 11,
+   "heading": "Artigo 30.º — Avaliação do desempenho dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Avaliação do desempenho dos serviços\n\nOs serviços que integram a administração directa do Estado são objecto de avaliação da prossecução das suas funções e dos objectivos a que estão adstritos, determinada por despacho conjunto do Ministro das Finanças e do ministro da tutela e realizada por auditores externos ou por órgãos de controlo oficiais."
+  },
+  "43644975": {
+   "fragment_id": "36349775",
+   "type": 11,
+   "heading": "Artigo 31.º — Adaptação das secretarias-gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Adaptação das secretarias-gerais\n\n1 - Constituem atribuições das secretarias-gerais, sempre que as mesmas não se encontrem legalmente cometidas a outros serviços do respectivo ministério:\n\na) Prestar aos membros do Governo em funções no ministério a assistência técnica e administrativa que lhe for solicitada e que não se inclua nas atribuições próprias dos demais serviços;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do ministério na respectiva implementação;\n\nc) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de quadros de pessoal;\n\nd) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, modernização e a política de qualidade, no âmbito do ministério;\n\ne) Assegurar a gestão das instalações que lhe estejam afectas, por lei ou determinação superior, designadamente no que se refere às necessidades de restauro e conservação;\n\nf) Coordenar as acções referentes à organização e preservação do património e arquivo histórico;\n\ng) Assegurar o normal funcionamento do ministério nas áreas que não sejam da competência específica de outros serviços.\n\n2 - Para efeitos do disposto nas alíneas b), c) e d) do número anterior, as secretarias-gerais são entidades com uma relação preferencial com o ministério responsável pela Administração Pública, através do respectivo serviço competente.\n\n3 - As leis orgânicas das secretarias-gerais que não contemplem as funções constantes dos números anteriores, desde que aquelas não estejam legalmente cometidas a outros serviços do respectivo ministério, deverão ser revistas no prazo máximo de um ano contado da entrada em vigor do presente diploma."
+  },
+  "43645075": {
+   "fragment_id": "36349875",
+   "type": 11,
+   "heading": "Artigo 32.º — Transição de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Transição de regimes\n\n1 - Todas as disposições legais constantes de diplomas orgânicos que criem unidades orgânicas caracterizadas na presente lei como unidades nucleares e flexíveis dos serviços passam a ter natureza regulamentar.\n\n2 - Os serviços e organismos da administração directa do Estado devem promover a revisão das suas estruturas internas em obediência aos princípios previstos na presente lei no prazo de 180 dias a contar da sua entrada em vigor."
+  },
+  "43645175": {
+   "fragment_id": "36349975",
+   "type": 11,
+   "heading": "Artigo 33.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Revogação\n\nSão revogados os Decretos-Leis n.os 26115, de 23 de Novembro de 1935, 59/76, de 23 de Janeiro, os artigos 2.º a 5.º e 10.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e o Decreto-Lei n.º 100-A/85, de 8 de Abril."
+  },
+  "43645275": {
+   "fragment_id": "36350075",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "106409700": {
+   "fragment_id": "36349475",
+   "type": 11,
+   "heading": "Artigo 28.º — Estruturas de missão, comissões e grupos de trabalho ou de projecto",
+   "in_force_from": "2005-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), em vigor a partir de 2005-09-04"
+   ],
+   "markdown": "###### Artigo 28.º — Estruturas de missão, comissões e grupos de trabalho ou de projecto\n\n1 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ser cometida a estruturas de missão, criadas por resolução do Conselho de Ministros.\n\n2 - As estruturas de missão têm uma duração temporal limitada e objectivos contratualizados e dependem do apoio logístico da secretaria-geral ou de outro serviço executivo.\n\n3 - A resolução do Conselho de Ministros deve estabelecer obrigatoriamente:\n\na) A designação da estrutura de missão;\n\nb) A identificação da missão;\n\nc) Os termos e a duração do mandato, com a definição clara dos objectivos a alcançar;\n\nd) O estatuto e a forma de nomeação do responsável e dos elementos que a compõem;\n\ne) O número de elementos que deve integrar a estrutura e respectivas funções;\n\nf) Os encargos orçamentais e respectivo cabimento orçamental.\n\n4 - As estruturas de missão devem recorrer essencialmente à requisição e ao destacamento de pessoal pertencente aos quadros dos serviços e organismos da Administração Pública.\n\n5 - Em casos excepcionais, devidamente fundamentados, podem ser celebrados contratos individuais de trabalho a termo, os quais cessam automaticamente no termo do prazo do mandato.\n\n6 - A estrutura de missão considera-se automaticamente extinta uma vez decorrido o prazo pelo qual foi constituída, sem prejuízo de o respectivo mandato poder ser prorrogado por resolução do Conselho de Ministros, que deve fundamentar tal decisão referindo, designadamente, o grau de cumprimento dos objectivos iniciais.\n\n7 - Findo o prazo da missão, o responsável elabora relatório da actividade desenvolvida e dos resultados alcançados, a publicar no site do Ministério, após aprovação do membro do Governo competente.\n\n8 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ainda ser cometida a comissões ou grupos de trabalho ou de projecto, criados por despacho conjunto do ministro ou ministros competentes e do Ministro das Finanças.\n\n9 - É aplicável às comissões e aos grupos de trabalho e de projecto, com as necessárias adaptações, o disposto nos n.os 2 a 7.\n\n10 - Os responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projecto são livremente nomeados e exonerados, sendo-lhes aplicável, com as necessárias adaptações, o disposto no n.º 2 do artigo 24.º e na alínea h) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), em vigor a partir de 2005-09-04"
+  },
+  "43647575": {
+   "fragment_id": "35232875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 27 de Novembro de 2003.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 30 de Dezembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 31 de Dezembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "106409701": {
+   "fragment_id": "36349075",
+   "type": 11,
+   "heading": "Artigo 24.º — Natureza e conteúdo dos diplomas",
+   "in_force_from": "2006-10-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+   ],
+   "markdown": "###### Artigo 24.º — Natureza e conteúdo dos diplomas\n\n1 - A criação, reestruturação, fusão e extinção dos serviços da administração directa do Estado são aprovadas por decreto regulamentar e devem conter:\n\na) A designação do novo serviço, dos serviços que lhe deram origem ou do serviço extinto, no caso, respectivamente, de criação, reestruturação ou fusão, ou extinção;\n\nb) (Revogada);\n\nc) A respectiva missão;\n\nd) A identificação das respectivas atribuições;\n\ne) A identificação do modelo de funcionamento e do tipo de organização interna;\n\nf) A dotação de lugares de direcção superior e de direcção intermédia de grau 1;\n\ng) O estatuto remuneratório dos chefes de equipa multidisciplinar, se aplicável.\n\n2 - A aprovação e alteração dos quadros de pessoal são feitas por portaria conjunta do ministro da tutela, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+  },
+  "106409702": {
+   "fragment_id": "36349175",
+   "type": 11,
+   "heading": "Artigo 25.º — Reestruturação, extinção ou fusão de serviços",
+   "in_force_from": "2006-10-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+   ],
+   "markdown": "###### Artigo 25.º — Reestruturação, extinção ou fusão de serviços\n\n1 - Sempre que a finalidade de um serviço se encontre esgotada ou verificando-se que o mesmo prossegue missões complementares, paralelas ou sobrepostas às de outros serviços, deve o competente membro do Governo propor, consoante os casos, a sua extinção, reestruturação ou fusão.\n\n2 - As propostas referidas no número anterior devem conter justificação objectiva e fundamentada das situações respeitantes ao esgotamento da finalidade do serviço em causa ou das relativas à prossecução de missões complementares, paralelas ou sobrepostas às de outros serviços.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+  },
+  "106409706": {
+   "fragment_id": "36348775",
+   "type": 11,
+   "heading": "Artigo 21.º — Estrutura hierarquizada",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 21.º — Estrutura hierarquizada\n\n1 - A estrutura interna hierarquizada é constituída por unidades orgânicas nucleares e flexíveis.\n\n2 - A estrutura nuclear do serviço é composta pelas direcções de serviços, correspondendo a uma departamentalização fixa.\n\n3 - A estrutura flexível é composta pelas divisões.\n\n4 - A estrutura nuclear dos serviços, bem como a definição das atribuições e competências das respectivas unidades orgânicas, são aprovadas por portaria conjunta do membro do Governo competente, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n5 - As unidades orgânicas flexíveis são criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que definirá as respectivas atribuições e competências, bem como a afectação ou reafectação do pessoal do respectivo quadro, no âmbito do limite máximo previamente fixado em portaria do membro do Governo competente.\n\n6 - A criação, alteração ou extinção de unidades orgânicas no âmbito da estrutura flexível visa assegurar a permanente adequação do serviço às necessidades de funcionamento e de optimização dos recursos, tendo em conta uma programação e controlo criteriosos dos custos e resultados.\n\n7 - Os despachos referidos nos n.os 5 e 8 são publicados na 2.ª série do Diário da República.\n\n8 - Quando estejam em causa funções de carácter predominantemente administrativo, no âmbito das direcções de serviços ou das divisões, podem ser criadas, alteradas ou extintas secções, mediante despacho do dirigente máximo do serviço.\n\n9 - A organização por especialidade não deve prejudicar a mobilidade funcional dos dirigentes e do restante pessoal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+  },
+  "106409707": {
+   "fragment_id": "36348875",
+   "type": 11,
+   "heading": "Artigo 22.º — Estrutura matricial",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 22.º — Estrutura matricial\n\n1 - A estrutura matricial é adoptada sempre que as áreas operativas do serviço possam desenvolver-se essencialmente por projectos, devendo agrupar-se por centros de competências ou de produto bem identificados, visando assegurar a constituição de equipas multidisciplinares com base na mobilidade funcional.\n\n2 - A constituição das equipas multidisciplinares e a designação das suas chefias, de entre efectivos do serviço, é da responsabilidade do respectivo dirigente máximo.\n\n3 - O estatuto remuneratório dos chefes de equipa consta do diploma de criação do serviço por equiparação ao estatuto remuneratório fixado para os directores de serviço ou chefes de divisão, sendo a dotação máxima de chefes de equipa fixada por portaria do membro do Governo respectivo.\n\n4 - Em casos excepcionais devidamente fundamentados, o diploma de criação do serviço pode prever outro estatuto remuneratório para os chefes de equipa, desde que, em qualquer caso, não seja ultrapassado o estatuto remuneratório fixado para os directores de serviço.\n\n5 - Aos chefes de equipa podem ser cometidas as competências fixadas para os titulares de cargos de direcção intermédia, mediante despacho do dirigente máximo do serviço.\n\n6 - Os titulares de cargos de direcção superior de primeiro grau podem delegar nos chefes de equipas as suas competências próprias.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+  },
+  "106409708": {
+   "fragment_id": "36349075",
+   "type": 11,
+   "heading": "Artigo 24.º — Natureza e conteúdo dos diplomas",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+   ],
+   "markdown": "###### Artigo 24.º — Natureza e conteúdo dos diplomas\n\n1 - A criação, reestruturação, fusão e extinção dos serviços da administração directa do Estado são aprovadas por decreto regulamentar e devem conter:\n\na) A designação do novo serviço, dos serviços que lhe deram origem ou do serviço extinto, no caso, respectivamente, de criação, reestruturação ou fusão, ou extinção;\n\nb) (Revogada);\n\nc) A respectiva missão;\n\nd) A identificação das respectivas atribuições;\n\ne) A identificação do tipo de organização interna;\n\nf) A dotação de lugares de direcção superior e de direcção intermédia de grau 1;\n\ng) O estatuto remuneratório dos chefes de equipa multidisciplinar, se aplicável.\n\n2 - A aprovação e alteração dos quadros de pessoal são feitas por portaria conjunta do ministro da tutela, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+  },
+  "106409703": {
+   "fragment_id": "106412268",
+   "type": 11,
+   "heading": "Artigo 32.º-A — Alteração de regimes de pessoal",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 32.º-A — Alteração de regimes de pessoal\n\n1 - Quando se verifique alteração do regime de pessoal de um serviço da administração directa do Estado, o pessoal que nos termos da lei nele deva exercer funções mantém o respectivo regime de origem.\n\n2 - Nos casos previstos no número anterior, o regime de pessoal em vigor no serviço à data da alteração mantém-se como regime transitório, tal como os correspondentes quadros e mapas de pessoal, sendo os respectivos lugares extintos à medida que vagarem.\n\n3 - Quando, em consequência de processos de reorganização, seja afecto ao serviço, nos termos da Lei n.º 53/2006, de 7 de Dezembro, pessoal em regime diferente do que nele vigora, o pessoal afecto mantém o respectivo regime de origem, considerando-se para o efeito automaticamente criado o número necessário de lugares em quadros ou mapas de pessoal correspondentes àqueles regimes.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+  },
+  "106409704": {
+   "fragment_id": "36349975",
+   "type": 11,
+   "heading": "Artigo 33.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Revogação\n\nSão revogados os Decretos-Leis n.os 26115, de 23 de Novembro de 1935, 59/76, de 23 de Janeiro, os artigos 2.º a 5.º e 10.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e o Decreto-Lei n.º 100-A/85, de 8 de Abril."
+  },
+  "106409705": {
+   "fragment_id": "36350075",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "106409713": {
+   "fragment_id": "36347975",
+   "type": 11,
+   "heading": "Artigo 8.º — Partilha de actividades comuns",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Partilha de actividades comuns\n\n1 - Deve ser promovida a partilha de actividades comuns entre os serviços integrantes de um mesmo ministério ou de vários ministérios para optimização dos recursos.\n\n2 - A partilha de actividades comuns não prejudica as competências próprias ou delegadas dos respectivos dirigentes máximos, podendo o seu funcionamento ser enquadrado por protocolos que estabelecerão as regras necessárias à clara actuação de cada uma das partes.\n\n3 - Este modelo de funcionamento abrange especialmente actividades de natureza administrativa e logística, designadamente:\n\na) Negociação e aquisições de bens e serviços;\n\nb) Sistemas de informação e comunicação;\n\nc) Gestão de edifícios;\n\nd) Serviços de segurança e de limpeza;\n\ne) Gestão da frota automóvel;\n\nf) Processamento de vencimentos e contabilidade.\n\n4 - Num mesmo ministério podem ser propostos outros modelos de funcionamento que consubstanciem os princípios de partilha de serviços.\n\n5 - Para efeitos dos números anteriores, pode haver lugar a mobilidade interna ou a reafectação, no âmbito do regime de reorganização de serviços, do pessoal anteriormente afecto à execução dessas actividades para o serviço prestador, sem prejuízo da manutenção de uma estrutura mínima que permita e facilite o diálogo com este serviço.\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "106409709": {
+   "fragment_id": "106412269",
+   "type": 11,
+   "heading": "Artigo 23.º-A — Regulamentos internos",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 23.º-A — Regulamentos internos\n\n1 - Os serviços da administração directa do Estado dispõem de um regulamento interno, aprovado pelo respectivo dirigente máximo, sobre as matérias que, face ao disposto na lei, possam assim ser reguladas.\n\n2 - Os regulamentos internos devem:\n\na) Regular a organização e disciplina do trabalho;\n\nb) Descrever os postos de trabalho.\n\n3 - No exercício dos poderes de direcção, pode o membro do Governo competente na respectiva área avocar a competência referida no n.º 1.\n\n> Aditado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "106409712": {
+   "fragment_id": "36349075",
+   "type": 11,
+   "heading": "Artigo 24.º — Natureza e conteúdo dos diplomas",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+   ],
+   "markdown": "###### Artigo 24.º — Natureza e conteúdo dos diplomas\n\n1 - A criação, reestruturação, fusão e extinção dos serviços da administração directa do Estado são aprovadas por decreto regulamentar e devem conter:\n\na) A designação do novo serviço, dos serviços que lhe deram origem ou do serviço extinto, no caso, respectivamente, de criação, reestruturação ou fusão, ou extinção;\n\nb) (Revogada);\n\nc) A respectiva missão;\n\nd) A identificação das respectivas atribuições;\n\ne) A identificação do tipo de organização interna;\n\nf) A dotação de lugares de direcção superior e de direcção intermédia de grau 1;\n\ng) O estatuto remuneratório dos chefes de equipa multidisciplinar, se aplicável.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 200/2006 - Diário da República n.º 206/2006, Série I de 2006-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), em vigor a partir de 2006-10-26"
+  },
+  "106409714": {
+   "fragment_id": "36349475",
+   "type": 11,
+   "heading": "Artigo 28.º — Estruturas de missão, comissões e grupos de trabalho ou de projecto",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), em vigor a partir de 2005-09-04"
+   ],
+   "markdown": "###### Artigo 28.º — Estruturas de missão, comissões e grupos de trabalho ou de projecto\n\n1 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ser cometida a estruturas de missão, criadas por resolução do Conselho de Ministros.\n\n2 - As estruturas de missão têm uma duração temporal limitada e objectivos contratualizados e dependem do apoio logístico da secretaria-geral ou de outro serviço executivo.\n\n3 - A resolução do Conselho de Ministros deve estabelecer obrigatoriamente:\n\na) A designação da estrutura de missão;\n\nb) A identificação da missão;\n\nc) Os termos e a duração do mandato, com a definição clara dos objectivos a alcançar;\n\nd) O estatuto dos responsáveis que a compõem;\n\ne) O número de elementos que deve integrar a estrutura e respectivas funções;\n\nf) Os encargos orçamentais e respectivo cabimento orçamental.\n\n4 - As estruturas de missão não podem constituir relações jurídicas de emprego público por tempo indeterminado.\n\n5 - Os responsáveis pelas estruturas de missão exercem as respectivas funções em comissão de serviço e podem recorrer a mobilidade geral ou, com respeito pelo disposto no número anterior, recrutar trabalhadores, nos termos da lei e dentro do número fixado na resolução.\n\n6 - A estrutura de missão considera-se automaticamente extinta uma vez decorrido o prazo pelo qual foi constituída, sem prejuízo de o respectivo mandato poder ser prorrogado por resolução do Conselho de Ministros, que deve fundamentar tal decisão referindo, designadamente, o grau de cumprimento dos objectivos iniciais.\n\n7 - Findo o prazo da missão, o responsável elabora relatório da actividade desenvolvida e dos resultados alcançados, a publicar no site do Ministério, após aprovação do membro do Governo competente.\n\n8 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ainda ser cometida a comissões ou grupos de trabalho ou de projecto, criados por despacho conjunto do ministro ou ministros competentes e do Ministro das Finanças.\n\n9 - É aplicável às comissões e aos grupos de trabalho e de projecto, com as necessárias adaptações, o disposto nos n.os 2 a 7.\n\n10 - Os responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projecto são livremente nomeados e exonerados, sendo-lhes aplicável, com as necessárias adaptações, o disposto no n.º 2 do artigo 24.º e na alínea h) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro.\n\n> Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), em vigor a partir de 2005-09-04"
+  },
+  "106409710": {
+   "fragment_id": "36349675",
+   "type": 11,
+   "heading": "Artigo 30.º — Avaliação do desempenho dos serviços",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Avaliação do desempenho dos serviços\n\nOs serviços que integram a administração directa do Estado são objecto de avaliação da prossecução das suas funções e dos objectivos a que estão adstritos, determinada por despacho conjunto do Ministro das Finanças e do ministro da tutela e realizada por auditores externos ou por órgãos de controlo oficiais.\n\n> Revogado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "106409711": {
+   "fragment_id": "106412268",
+   "type": 11,
+   "heading": "Artigo 32.º-A — Alteração de regimes de pessoal",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 32.º-A — Alteração de regimes de pessoal\n\n1 - Quando se verifique alteração do regime de pessoal de um serviço da administração directa do Estado, o pessoal que nos termos da lei nele deva exercer funções mantém o respectivo regime de origem.\n\n2 - Nos casos previstos no número anterior, o regime de pessoal em vigor no serviço à data da alteração mantém-se como regime transitório, tal como os correspondentes quadros e mapas de pessoal, sendo os respectivos lugares extintos à medida que vagarem.\n\n3 - Quando, em consequência de processos de reorganização, seja afecto ao serviço, nos termos da Lei n.º 53/2006, de 7 de Dezembro, pessoal em regime diferente do que nele vigora, o pessoal afecto mantém o respectivo regime de origem, considerando-se para o efeito automaticamente criado o número necessário de lugares em quadros ou mapas de pessoal correspondentes àqueles regimes.\n\n> Revogado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+  },
+  "106409715": {
+   "fragment_id": "36349575",
+   "type": 11,
+   "heading": "Artigo 29.º — Publicidade",
+   "in_force_from": "2011-11-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 57/2011 - Diário da República n.º 228/2011, Série I de 2011-11-28](https://diariodarepublica.pt/dr/detalhe/lei/57-2011-146185), em vigor a partir de 2011-11-29"
+   ],
+   "markdown": "###### Artigo 29.º — Publicidade\n\n1 - O ministério que tenha a seu cargo a Administração Pública é responsável pela criação e permanente actualização de uma base de dados dos serviços da Administração Pública, da sua estruturação por ministérios e, bem assim, pela sua divulgação através dos meios mais eficazes, designadamente o Portal do Cidadão.\n\n2 - A divulgação referida no número anterior inclui os organogramas de cada ministério, bem como a referência às disposições orgânicas em vigor.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 57/2011 - Diário da República n.º 228/2011, Série I de 2011-11-28](https://diariodarepublica.pt/dr/detalhe/lei/57-2011-146185), em vigor a partir de 2011-11-29"
+  },
+  "106409721": {
+   "fragment_id": "36348775",
+   "type": 11,
+   "heading": "Artigo 21.º — Estrutura hierarquizada",
+   "in_force_from": "2011-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2011 - Diário da República n.º 232/2011, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2011-145274), em vigor a partir de 2011-12-06",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 21.º — Estrutura hierarquizada\n\n1 - A estrutura interna hierarquizada é constituída por unidades orgânicas nucleares e flexíveis.\n\n2 - A estrutura nuclear do serviço é composta pelas direcções de serviços, correspondendo a uma departamentalização fixa.\n\n3 - A estrutura flexível é composta pelas divisões.\n\n4 - A estrutura nuclear dos serviços, bem como a definição das atribuições e competências das respectivas unidades orgânicas, são aprovadas por portaria conjunta do membro do Governo competente, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n5 - As unidades orgânicas flexíveis são criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que definirá as respectivas atribuições e competências, observando o limite máximo previamente fixado por portaria dos membros do Governo responsáveis pelo serviço e pelas áreas das finanças e da Administração Pública.\n\n6 - A criação, alteração ou extinção de unidades orgânicas no âmbito da estrutura flexível visa assegurar a permanente adequação do serviço às necessidades de funcionamento e de optimização dos recursos, tendo em conta uma programação e controlo criteriosos dos custos e resultados.\n\n7 - Os despachos referidos nos n.os 5 e 8 são publicados na 2.ª série do Diário da República.\n\n8 - Quando estejam em causa funções de carácter predominantemente administrativo, no âmbito das direcções de serviços ou das divisões, podem ser criadas, alteradas ou extintas secções, mediante despacho do dirigente máximo do serviço.\n\n9 - A organização por especialidade não deve prejudicar a mobilidade funcional dos dirigentes e do restante pessoal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2011 - Diário da República n.º 232/2011, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2011-145274), em vigor a partir de 2011-12-06\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+  },
+  "106409722": {
+   "fragment_id": "36348875",
+   "type": 11,
+   "heading": "Artigo 22.º — Estrutura matricial",
+   "in_force_from": "2011-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2011 - Diário da República n.º 232/2011, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2011-145274), em vigor a partir de 2011-12-06",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 22.º — Estrutura matricial\n\n1 - A estrutura matricial é adoptada sempre que as áreas operativas do serviço possam desenvolver-se essencialmente por projectos, devendo agrupar-se por centros de competências ou de produto bem identificados, visando assegurar a constituição de equipas multidisciplinares com base na mobilidade funcional.\n\n2 - A constituição das equipas multidisciplinares e a designação das suas chefias, de entre efectivos do serviço, é da responsabilidade do respectivo dirigente máximo.\n\n3 - O estatuto remuneratório dos chefes de equipa consta do diploma de criação do serviço por equiparação ao estatuto remuneratório fixado para os directores de serviço ou chefes de divisão, sendo a dotação máxima de chefes de equipa fixada por portaria dos membros do Governo responsáveis pelo serviço e pelas áreas das finanças e da Administração Pública.\n\n4 - Em casos excepcionais devidamente fundamentados, o diploma de criação do serviço pode prever outro estatuto remuneratório para os chefes de equipa, desde que, em qualquer caso, não seja ultrapassado o estatuto remuneratório fixado para os directores de serviço.\n\n5 - Aos chefes de equipa podem ser cometidas as competências fixadas para os titulares de cargos de direcção intermédia, mediante despacho do dirigente máximo do serviço.\n\n6 - Os titulares de cargos de direcção superior de primeiro grau podem delegar nos chefes de equipas as suas competências próprias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2011 - Diário da República n.º 232/2011, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2011-145274), em vigor a partir de 2011-12-06\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+  },
+  "106409723": {
+   "fragment_id": "36349475",
+   "type": 11,
+   "heading": "Artigo 28.º — Estruturas de missão, comissões e grupos de trabalho ou de projecto",
+   "in_force_from": "2011-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 64/2011 - Diário da República n.º 244/2011, Série I de 2011-12-22](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), em vigor a partir de 2011-12-23",
+    "Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), em vigor a partir de 2005-09-04"
+   ],
+   "markdown": "###### Artigo 28.º — Estruturas de missão, comissões e grupos de trabalho ou de projecto\n\n1 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ser cometida a estruturas de missão, criadas por resolução do Conselho de Ministros.\n\n2 - As estruturas de missão têm uma duração temporal limitada e objectivos contratualizados e dependem do apoio logístico da secretaria-geral ou de outro serviço executivo.\n\n3 - A resolução do Conselho de Ministros deve estabelecer obrigatoriamente:\n\na) A designação da estrutura de missão;\n\nb) A identificação da missão;\n\nc) Os termos e a duração do mandato, com a definição clara dos objectivos a alcançar;\n\nd) O estatuto dos responsáveis que a compõem;\n\ne) O número de elementos que deve integrar a estrutura e respectivas funções;\n\nf) Os encargos orçamentais e respectivo cabimento orçamental.\n\n4 - As estruturas de missão não podem constituir relações jurídicas de emprego público por tempo indeterminado.\n\n5 - Os responsáveis pelas estruturas de missão exercem as respectivas funções em comissão de serviço e podem recorrer a mobilidade geral ou, com respeito pelo disposto no número anterior, recrutar trabalhadores, nos termos da lei e dentro do número fixado na resolução.\n\n6 - A estrutura de missão considera-se automaticamente extinta uma vez decorrido o prazo pelo qual foi constituída, sem prejuízo de o respectivo mandato poder ser prorrogado por resolução do Conselho de Ministros, que deve fundamentar tal decisão referindo, designadamente, o grau de cumprimento dos objectivos iniciais.\n\n7 - Findo o prazo da missão, o responsável elabora relatório da actividade desenvolvida e dos resultados alcançados, a publicar no site do Ministério, após aprovação do membro do Governo competente.\n\n8 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ainda ser cometida a comissões ou grupos de trabalho ou de projecto, criados por despacho conjunto do ministro ou ministros competentes e do Ministro das Finanças.\n\n9 - É aplicável às comissões e aos grupos de trabalho e de projecto, com as necessárias adaptações, o disposto nos n.os 2 a 7.\n\n10 - Os responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projecto são livremente designados e exonerados.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 64/2011 - Diário da República n.º 244/2011, Série I de 2011-12-22](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), em vigor a partir de 2011-12-23\n\n> Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), em vigor a partir de 2005-09-04"
+  },
+  "870784328": {
+   "fragment_id": "36347375",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Integram a Administração direta do Estado os órgãos e serviços, sem personalidade jurídica, que tenham a seu cargo atribuições do Estado e que estejam sujeitos, no exercício das suas competências, ao poder de direção de membros do Governo.\n\n2 - Incluem-se no disposto no número anterior os serviços de cujas atribuições decorra, designadamente, o exercício de poderes de soberania, autoridade e representação política do Estado ou o estudo e concepção, coordenação, apoio e controlo ou fiscalização de outros serviços administrativos.\n\n3 - A aplicação da presente lei às Forças Armadas, às forças militarizadas e aos serviços do Sistema de Informações da República Portuguesa faz-se sem prejuízo das necessárias adaptações constantes das respectivas leis orgânicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784329": {
+   "fragment_id": "36347575",
+   "type": 11,
+   "heading": "Artigo 4.º — Ministérios",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 4.º — Ministérios\n\n1 - Os ministérios são departamentos sectoriais da Administração Pública, delimitados pelas respetivas atribuições.\n\n2 - A cada ministro pode corresponder um ou mais ministérios, nos termos definidos pelo decreto-lei que aprova a orgânica do Governo.\n\n3 - Exceciona-se do disposto no número anterior a Presidência do Conselho de Ministros, enquanto departamento central do Governo, cuja composição pode prever vários ministros, além do Primeiro-Ministro, sem que a cada um corresponda um ministério específico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784338": {
+   "fragment_id": "36347675",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios de organização",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 5.º — Princípios de organização\n\nNa organização de cada ministério devem respeitar-se os seguintes princípios:\n\na) Adequar a estrutura à missão, garantindo a justa proporção entre a estrutura operativa e a estrutura de apoio;\n\nb) Assegurar um equilíbrio adequado entre serviços centrais e periféricos, visando a prestação de um serviço de qualidade;\n\nc) Agregar as funções homogéneas do ministério por serviços preferencialmente de média ou grande dimensão, com competências bem definidas, de acordo com o princípio da segregação de funções, com vista à responsabilidade pelos resultados;\n\nd) Assegurar a existência de circuitos de informação e comunicação simples e coerentes, tendencialmente agregando num mesmo sistema centralizado a informação de utilização comum, tanto no seio de cada ministério como no âmbito da prossecução de finalidades interministeriais;\n\ne) Garantir que o desempenho das funções comuns, previstas no artigo seguinte, seja atribuído a serviços já existentes em cada ministério, não determinando a criação de novos serviços;\n\nf) Reduzir o número de níveis hierárquicos de decisão ao mínimo indispensável à adequada prossecução dos objectivos do serviço;\n\ng) Privilegiar, face à emergência de novas atribuições, a reestruturação dos serviços existentes em prejuízo da criação de novos.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784339": {
+   "fragment_id": "36347775",
+   "type": 11,
+   "heading": "Artigo 6.º — Funções comuns",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 6.º — Funções comuns\n\n1 - São funções comuns dos ministérios, designadamente:\n\na) Elaboração e acompanhamento da execução do orçamento de funcionamento;\n\nb) Planeamento do investimento público e correspondente elaboração e execução do seu orçamento;\n\nc) Gestão de recursos humanos, organizacionais e modernização administrativa;\n\nd) Acompanhamento técnico da participação portuguesa nas instituições europeias e nas políticas comunitárias;\n\ne) Relações internacionais no âmbito das suas atribuições.\n\n2 - Às funções comuns dos ministérios correspondem funções a exercer por um ou mais serviços da administração directa do Estado dentro do mesmo ministério, devendo as referidas nas alíneas a), b) e c) do número anterior ser tendencialmente asseguradas pelas respectivas secretarias-gerais.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784330": {
+   "fragment_id": "36347975",
+   "type": 11,
+   "heading": "Artigo 8.º — Partilha de actividades comuns",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03",
+    "Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Partilha de actividades comuns\n\n1 - Quando se afigure necessário e adequado à racionalização de meios e otimização de recursos, e desde que daí não resulte qualquer prejuízo para a qualidade, eficiência e eficácia da atividade sectorial, deve ser promovida a constituição de estruturas e serviços de apoio comuns ou partilhados, designadamente através de estruturas existentes noutras entidades administrativas.\n\n2 - A existência de estruturas e serviços de apoio comuns ou partilhados não prejudica as competências próprias ou delegadas dos respetivos dirigentes máximos, podendo o seu funcionamento ser enquadrado por protocolos que estabelecem as regras necessárias à clara atuação de cada uma das partes.\n\n3 - As estruturas e serviços de apoio comuns ou partilhados abrangem atividades com um caráter transversal, de natureza informativa, técnica, administrativa, logística e documental, designadamente:\n\na) Gestão de infraestruturas e património;\n\nb) Compras públicas;\n\nc) Tecnologias de informação, sistemas de informação e gestão documental eletrónica;\n\nd) Apoio jurídico;\n\ne) Auditoria e controlo interno;\n\nf) Gestão de arquivo e documentação;\n\ng) Serviços de segurança e de limpeza;\n\nh) Gestão da frota automóvel;\n\ni) Processamento de vencimentos;\n\nj) Contabilidade e controlo orçamental.\n\n4 - Para efeitos dos números anteriores, pode haver lugar a mobilidade ou a reafetação, no âmbito do regime de reorganização de serviços, do pessoal anteriormente afeto à execução dessas atividades para o serviço prestador, sem prejuízo da manutenção de uma estrutura mínima que permita e facilite o diálogo com este serviço.\n\n5 - Num mesmo ministério podem ser propostos outros modelos de organização e de funcionamento que consubstanciem os princípios da racionalização e da partilha de serviços, desde que necessários face às especificidades da respetiva área sectorial de atuação, complementares e não sobreponíveis ao modelo previsto nos números anteriores.\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03\n\n> Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "870784331": {
+   "fragment_id": "36348075",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento em rede",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 9.º — Funcionamento em rede\n\n1 - O modelo de funcionamento em rede consubstancia-se no estabelecimento de relações horizontais de cooperação e de colaboração, quando haja necessidade de atuação conjunta e concertada de vários serviços da administração direta do Estado e de outras entidades administrativas, com vista a alcançar objetivos comuns e partilha de conhecimentos.\n\n2 - Tendo em vista a promoção do funcionamento em rede podem, designadamente, ser criados:\n\na) Órgãos com uma composição interministerial e interadministrativa;\n\nb) Serviços com uma forma matricial de organização interna;\n\nc) Equipas de projeto temporárias e com objetivos específicos;\n\nd) Conferências procedimentais deliberativas e de coordenação;\n\ne) Meios eletrónicos de relacionamento e de arquivo e partilha de informação.\n\n3 - O funcionamento em rede deve ser considerado quando da fixação da estrutura interna dos serviços envolvidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784332": {
+   "fragment_id": "36348175",
+   "type": 11,
+   "heading": "Artigo 10.º — Sistemas de informação",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 10.º — Sistemas de informação\n\n1 - A administração direta do Estado ou outra entidade administrativa a quem tal seja cometido devem dispor de um sistema integrado de informação interna que permita:\n\na) O arquivo eletrónico, o acesso a informação completa e atualizada e a sua circulação por meios eletrónicos, reduzindo, tanto quanto possível, o peso da informação em papel;\n\nb) O fornecimento das informações necessárias à boa gestão dos recursos humanos, orçamentais e materiais, bem como à respetiva coordenação, controlo e avaliação.\n\n2 - Na prestação direta de serviços aos administrados, a administração direta do Estado deve partilhar informação internamente e promover a utilização de meios eletrónicos, por forma a:\n\na) Fornecer todos os dados e informações relevantes;\n\nb) Facilitar o tratamento integrado das relações entre os administrados e o Estado;\n\nc) Melhorar a eficiência e a eficácia da contratação pública de empreitadas, bens e serviços;\n\nd) Contribuir para um melhor aproveitamento das oportunidades de desenvolvimento económico.\n\n3 - Devem ser garantidos pelo sistema de informação interna e pelos meios eletrónicos empregues, a proteção e integridade dos dados pessoais e da informação classificada, nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784333": {
+   "fragment_id": "37947375",
+   "type": 11,
+   "heading": "Artigo 11.º — Tipologia dos serviços",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 11.º — Tipologia dos serviços\n\n1 - Para efeitos da presente lei, entende-se por missão a expressão sucinta das funções fundamentais e determinantes de cada serviço e objectivos essenciais a garantir.\n\n2 - Os serviços da administração direta do Estado são definidos de acordo com:\n\na) A respetiva função dominante;\n\nb) O âmbito das respetivas atribuições e competências;\n\nc) A respetiva área sectorial de atuação.\n\n3 - Considerando a função dominante que desempenham, os serviços da administração direta do Estado definem-se como:\n\na) Serviços executivos;\n\nb) Serviços de controlo, auditoria e fiscalização;\n\nc) Serviços de coordenação.\n\n4 - A qualificação dos serviços pela sua função dominante não prejudica a atribuição de outras funções de diferente natureza, desde que associados ou complementares da sua função dominante.\n\n5 - Os serviços da administração directa do Estado podem ser centrais ou periféricos, sendo que:\n\na) São serviços centrais os que exercem competência extensiva a todo o território nacional, independentemente de possuírem, ou não, unidades orgânicas geograficamente desconcentradas;\n\nb) São serviços periféricos os que dispõem de competência limitada a uma área territorial restrita, funcionando sob a direcção do membro do Governo competente.\n\n6 - Os serviços periféricos externos exercem os seus poderes fora do território nacional, podendo a sua estrutura interna ser definida de acordo com as suas especificidades, sem prejuízo dos princípios gerais contidos na presente lei.\n\n7 - Considerando a área, ou áreas, sectorial de atuação, os serviços da administração direta do Estado podem ser intraministeriais ou interministeriais, sendo que:\n\na) São serviços intraministeriais os serviços que prosseguem a sua missão na área sectorial de atuação de um ministério;\n\nb) São serviços interministeriais os serviços que desempenham a sua missão em áreas sectoriais de atuação de vários ministérios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784337": {
+   "fragment_id": "870784268",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Apoio aos serviços",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 12.º-A — Apoio aos serviços\n\nOs apoios informativo, técnico, administrativo, logístico e documental necessários ao funcionamento dos serviços são assegurados, preferencialmente, por uma estrutura ou serviço de apoio comuns ou partilhados, a criar ou já existente, no âmbito de outras entidades administrativas, nos termos do artigo 8.º\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784334": {
+   "fragment_id": "36348775",
+   "type": 11,
+   "heading": "Artigo 21.º — Estrutura hierarquizada",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2011 - Diário da República n.º 232/2011, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2011-145274), em vigor a partir de 2011-12-06",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 21.º — Estrutura hierarquizada\n\n1 - A estrutura interna hierarquizada é constituída por unidades orgânicas nucleares e flexíveis.\n\n2 - A estrutura nuclear do serviço é composta pelas direcções de serviços, correspondendo a uma departamentalização fixa.\n\n3 - A estrutura flexível é composta pelas divisões.\n\n4 - A estrutura nuclear dos serviços, bem como a definição das atribuições e competências das respectivas unidades orgânicas, são aprovadas por portaria conjunta do membro do Governo competente, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n5 - As unidades orgânicas flexíveis são criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que definirá as respetivas competências, observando o limite máximo previamente fixado por portaria dos membros do Governo responsáveis pelo serviço e pelas áreas das finanças e da administração pública.\n\n6 - A criação, alteração ou extinção de unidades orgânicas no âmbito da estrutura flexível visa assegurar a permanente adequação do serviço às necessidades de funcionamento e de optimização dos recursos, tendo em conta uma programação e controlo criteriosos dos custos e resultados.\n\n7 - Os despachos referidos nos n.os 5 e 8 são publicados na 2.ª série do Diário da República.\n\n8 - Quando estejam em causa funções de carácter predominantemente administrativo, no âmbito das direcções de serviços ou das divisões, podem ser criadas, alteradas ou extintas secções, mediante despacho do dirigente máximo do serviço.\n\n9 - A organização por especialidade não deve prejudicar a mobilidade funcional dos dirigentes e do restante pessoal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2011 - Diário da República n.º 232/2011, Série I de 2011-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2011-145274), em vigor a partir de 2011-12-06\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), em vigor a partir de 2007-04-04"
+  },
+  "870784335": {
+   "fragment_id": "36348975",
+   "type": 11,
+   "heading": "Artigo 23.º — Cargos dirigentes",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 23.º — Cargos dirigentes\n\n1 - Os dirigentes máximos dos serviços centrais executivos, de controlo e fiscalização e de coordenação ocupam cargos de direção superior de primeiro grau e são coadjuvados por dirigentes em cargos de direção superior de segundo grau, independentemente, em qualquer dos casos, da sua designação.\n\n2 - A qualificação do cargo de direcção dos dirigentes máximos dos serviços desconcentrados é definida no diploma que cria o serviço em função do nível de competências e responsabilidades que lhes sejam cometidas.\n\n3 - Os directores de serviços e os chefes de divisão correspondem a cargos de direcção intermédia, de grau 1 e de grau 2, respectivamente.\n\n4 - As direcções de serviços podem ser colocadas na dependência directa do director-geral ou equiparado, ou dos subdirectores-gerais ou equiparados, neste caso em termos a fixar por despacho do dirigente máximo.\n\n5 - Podem existir divisões dependentes directamente do director-geral ou de um dos subdirectores-gerais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784336": {
+   "fragment_id": "36349475",
+   "type": 11,
+   "heading": "Artigo 28.º — Estruturas de missão, comissões e grupos de trabalho ou de projecto",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 64/2011 - Diário da República n.º 244/2011, Série I de 2011-12-22](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), em vigor a partir de 2011-12-23",
+    "Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), em vigor a partir de 2005-09-04"
+   ],
+   "markdown": "###### Artigo 28.º — Estruturas de missão, comissões e grupos de trabalho ou de projecto\n\n1 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ser cometida a estruturas de missão, criadas por resolução do Conselho de Ministros.\n\n2 - As estruturas de missão têm uma duração temporal limitada e objetivos contratualizados e dependem do apoio administrativo e logístico do serviço designado para o efeito na resolução do Conselho de Ministros que proceda à respetiva criação.\n\n3 - A resolução do Conselho de Ministros deve estabelecer obrigatoriamente:\n\na) A designação da estrutura de missão;\n\nb) A identificação da missão;\n\nc) Os termos e a duração do mandato, com a definição clara dos objectivos a alcançar;\n\nd) O estatuto dos responsáveis que a compõem;\n\ne) O número de elementos que deve integrar a estrutura e respectivas funções;\n\nf) Os encargos orçamentais e respectivo cabimento orçamental.\n\n4 - As estruturas de missão não podem constituir relações jurídicas de emprego público por tempo indeterminado.\n\n5 - Os responsáveis pelas estruturas de missão exercem as respectivas funções em comissão de serviço e podem recorrer a mobilidade geral ou, com respeito pelo disposto no número anterior, recrutar trabalhadores, nos termos da lei e dentro do número fixado na resolução.\n\n6 - A estrutura de missão considera-se automaticamente extinta uma vez decorrido o prazo pelo qual foi constituída, sem prejuízo de o respectivo mandato poder ser prorrogado por resolução do Conselho de Ministros, que deve fundamentar tal decisão referindo, designadamente, o grau de cumprimento dos objectivos iniciais.\n\n7 - Findo o prazo da missão, o responsável elabora relatório da actividade desenvolvida e dos resultados alcançados, a publicar no site do Ministério, após aprovação do membro do Governo competente.\n\n8 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ainda ser cometida a comissões ou grupos de trabalho ou de projecto, criados por despacho conjunto do ministro ou ministros competentes e do Ministro das Finanças.\n\n9 - É aplicável às comissões e aos grupos de trabalho e de projecto, com as necessárias adaptações, o disposto nos n.os 2 a 7.\n\n10 - Os responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projecto são livremente designados e exonerados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 64/2011 - Diário da República n.º 244/2011, Série I de 2011-12-22](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), em vigor a partir de 2011-12-23\n\n> Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 51/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), em vigor a partir de 2005-09-04"
+  },
+  "870784340": {
+   "fragment_id": "36349775",
+   "type": 11,
+   "heading": "Artigo 31.º — Adaptação das secretarias-gerais",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 31.º — Adaptação das secretarias-gerais\n\n1 - Constituem atribuições das secretarias-gerais, sempre que as mesmas não se encontrem legalmente cometidas a outros serviços do respectivo ministério:\n\na) Prestar aos membros do Governo em funções no ministério a assistência técnica e administrativa que lhe for solicitada e que não se inclua nas atribuições próprias dos demais serviços;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do ministério na respectiva implementação;\n\nc) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de quadros de pessoal;\n\nd) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, modernização e a política de qualidade, no âmbito do ministério;\n\ne) Assegurar a gestão das instalações que lhe estejam afectas, por lei ou determinação superior, designadamente no que se refere às necessidades de restauro e conservação;\n\nf) Coordenar as acções referentes à organização e preservação do património e arquivo histórico;\n\ng) Assegurar o normal funcionamento do ministério nas áreas que não sejam da competência específica de outros serviços.\n\n2 - Para efeitos do disposto nas alíneas b), c) e d) do número anterior, as secretarias-gerais são entidades com uma relação preferencial com o ministério responsável pela Administração Pública, através do respectivo serviço competente.\n\n3 - As leis orgânicas das secretarias-gerais que não contemplem as funções constantes dos números anteriores, desde que aquelas não estejam legalmente cometidas a outros serviços do respectivo ministério, deverão ser revistas no prazo máximo de um ano contado da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  },
+  "870784341": {
+   "fragment_id": "36349875",
+   "type": 11,
+   "heading": "Artigo 32.º — Transição de regimes",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+   ],
+   "markdown": "###### Artigo 32.º — Transição de regimes\n\n1 - Todas as disposições legais constantes de diplomas orgânicos que criem unidades orgânicas caracterizadas na presente lei como unidades nucleares e flexíveis dos serviços passam a ter natureza regulamentar.\n\n2 - Os serviços e organismos da administração directa do Estado devem promover a revisão das suas estruturas internas em obediência aos princípios previstos na presente lei no prazo de 180 dias a contar da sua entrada em vigor.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 43-A/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937), em vigor a partir de 2024-07-03"
+  }
+ }
+}

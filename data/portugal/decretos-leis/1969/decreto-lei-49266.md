@@ -1,0 +1,288 @@
+---
+schema_version: '1.0'
+id: pt:dre:214264:por
+title: Decreto-Lei n.º 49266
+short_title: null
+summary: Promulga o novo regime de funcionamento do Fundo de Turismo - Revoga o artigo 15.º da Lei n.º 2073, a base XVIII
+  da Lei n.º 2082, os artigos 8.º e 9.º do Decreto-Lei n.º 40912 e o artigo 9.º do Decreto-Lei n.º 46199
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Secretaria de Estado da Informação e Turismo
+proposing_entity: null
+official_number: '49266'
+official_date: null
+publication_date: '1969-09-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 226/1969, Série I de 1969-09-26
+  number: '226'
+  series: I
+  supplement: null
+  pages: 1310 - 1311
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/09/22600/13101311.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '214264'
+  dre_path: /dr/detalhe/decreto-lei/49266-1969-214264
+  internal: pt:dre:214264:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:10:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5389c5ba556f3ef57be458bd6072f0e305c2c21414561f2e10b8f3425fecce82
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fundo de Turismo
+- Regime Jurídico
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:426693:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:643902:por
+  label: "Alterada a redacção do art. 3º pelo DEC LEI.223/71.1971.05.27.PC, DG.IS [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1971-643902
+  date: '1971-05-27'
+- type: amended_by
+  target: pt:dre:465449:por
+  label: "Alterada a redacção dada pelo Dec Lei 223/71 de 27-Mai e aditada uma nova al. ao nº 1 do art. 3º, pelo DEC LEI.631/74.1974.11.18.MECO,\
+    \ DG.IS [268]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/631-1974-465449
+  date: '1974-11-18'
+- type: amended_by
+  target: pt:dre:678027:por
+  label: "Dada nova redacção à alínea a) do n.º 1 do artigo 1.º do presente diploma, pelo DEC LEI.40/80.14.03.1980.MCT, DR.IS\
+    \ [62] de 14.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1980-678027
+  date: '1980-03-14'
+- type: amended_by
+  target: pt:dre:308349:por
+  label: "Alterados os artigos 1.º, 2.º, o n.º 3 do artigo 6.º e aditado o artigo 2.º-A pelo DEC LEI.36/83.25.01.1983.PCM,\
+    \ DR.IS [20] de 25.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1983-308349
+  date: '1983-01-25'
+- type: amended_by
+  target: pt:dre:496078:por
+  label: "Alterados os artigos 1.º e 2.º, na redacção do Decreto-Lei 36/83, de 25 de Janeiro, pelo DEC LEI.341/87.21.10.1987.MCT,\
+    \ DR.IS [242] de 21.10.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/341-1987-496078
+  date: '1987-10-21'
+- type: amended_by
+  target: pt:dre:620728:por
+  label: "Alterado o art. 3º, na redacção do Dec Lei 223/71, de 27-Mai e do Dec Lei 631/74, de 18-Nov, pelo DEC LEI.203/89.1989.06.22.MCT,\
+    \ DR.IS [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-1989-620728
+  date: '1989-06-22'
+- type: amended_by
+  target: pt:dre:566808:por
+  label: "Alterado o art. 3º, aditados os arts. 2º-B, 2º-C, 3º-A, 5º-A e 5º-B e revogado o nº 6 do art. 1º, na redacção dada\
+    \ pelo Dec Lei 341/87 de 21-Out, pelo DEC LEI.247/95.1995.09.20.MCT, DR.IS-A [218]\0218]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1995-566808
+  date: '1995-09-20'
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426693:por
+  label: "Revogado, mantendo-se em vigor as disposições que o regulamentam até à data da entrada em vigor dos novos regulamentos,\
+    \ pelo DEC LEI.308/99.1999.08.10.MECO, DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1999-426693
+  date: '1999-08-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:10:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49266
+
+1. Ao elaborar o presente decreto-lei e as disposições regulamentares que o completam, constantes de diploma desta mesma data, teve o Governo em vista dinamizar o Fundo de Turismo como órgão de fomento das actividades turísticas, dotando-o dos meios legais necessários para lhe permitir melhorar e ampliar a sua acção.
+
+Assim, e na linha de propósitos já enunciados no Plano Intercalar de Fomento, as novas disposições visam a tornar possível a realização de mais e maiores financiamentos, alargando-se o âmbito do crédito a conceder pelo Fundo e introduzindo-se no seu processo de actuação as correcções que pareceram adequadas.
+
+Aproveitou-se ainda a oportunidade para ajustar e melhorar algumas das normas relativas à orgânica e administração do Fundo de Turismo.
+
+No âmbito da orientação acima delineada, salientam-se, como pontos mais relevantes do regime agora instituído, os que a seguir passam a referir-se.
+
+2. Considerando que a acção do Fundo se destina a apoiar uma actividade - a do turismo - que se exerce sobre realidades em permanente evolução e assumindo as formas mais diversas, alargou-se a possibilidade de financiamento a quaisquer empreendimentos que mereçam ser considerados de interesse para o turismo.
+
+Na mesma linha de pensamento não se viu razão bastante para tratar de maneira sensìvelmente diferente os empréstimos destinados a estabelecimentos hoteleiros e similares, declarados ou não de utilidade turística, dos destinados a outros empreendimentos. Tende-se assim para a uniformização do regime de todos os empréstimos a conceder pelo Fundo.
+
+Estabelecem-se, contudo, escalonamentos para os montantes máximos que os empréstimos podem atingir, relativamente ao custo total dos empreendimentos. Este sistema afigura-se o mais justo e equilibrado, visto ter em atenção a onerosidade relativa dos investimentos.
+
+3. Por outro lado permite-se que o Fundo venha a custear, na totalidade, as despesas com a construção e instalação de empreendimentos de interesse turístico em imóveis próprios ou do património do Estado.
+
+Deste modo se torna possível que o Fundo tenha uma acção directa no aparecimento de empreendimentos de carácter turístico em zonas a desenvolver e nas quais a iniciativa privada não esteja ainda suficientemente interessada.
+
+Nesta orientação se integra igualmente a faculdade de a assistência financeira do Fundo se poder cumular com a do Fundo de Desemprego.
+
+Isso permitir-lhe-á intervir nos problemas das infra-estruturas das zonas, cuja solução constitui um dos mais importantes factores do seu desenvolvimento turístico.
+
+4. Outra das medidas tomadas consistiu no alargamento da concessão de garantias nos empréstimos efectuados por outras entidades para a realização de empreendimentos turísticos.
+
+Assim, enquanto a legislação anterior limitava a concessão de garantias aos empréstimos feitos pela Caixa Geral de Depósitos, Crédito e Previdência, permite-se agora que delas beneficiem outras instituições de crédito nacionais e estrangeiras.
+
+A possibilidade de o Fundo usar desta faculdade em relação a quaisquer instituições de crédito permitir-lhe-á maior intervenção no mercado de capitais, alargando, portanto, a sua acção como órgão de fomento.
+
+5. Reduziram-se os prazos de amortização, variáveis ainda assim em conformidade com o fim a que se destinem os financiamentos, e previu-se uma taxa de juro.
+
+Teve-se em vista incentivar o empresário a extrair do seu investimento a maior rentabilidade no mais curto prazo.
+
+6. Prevê-se também que o Fundo possa vir a custear, totalmente, não só as campanhas de promoção turística organizadas ou patrocinadas pela Direcção-Geral do Turismo, como ainda as despesas com a realização de estudos turísticos, por se considerar que se trata de investimentos fundamentais para o desenvolvimento do turismo.
+
+Efectivamente, a rentabilidade da indústria do turismo, que depende fundamentalmente da promoção que se realizar do turismo nacional, obriga ainda a estudos de base essenciais para a sua programação e planeamento.
+
+A possibilidade de intervenção do Fundo neste campo pode considerar-se, sem dúvida, uma das mais importantes medidas para a dinamização da sua acção.
+
+7. Outras disposições constantes destes dois diplomas não trazem novidade. Tornaram-se necessárias para consentir se mantivessem algumas das disposições já actualmente em vigor, mas que razões de método levaram a revogar.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. A comissão administrativa do Fundo de Turismo passa a ter a seguinte composição:
+
+a) Um presidente, que é o director-geral do Turismo;
+
+b) Um vice-presidente, da livre escolha do Secretário de Estado da Informação e Turismo;
+
+c) O director do Fundo de Turismo;
+
+d) Um representante do Ministério das Finanças;
+
+e) Um representante dos órgãos locais de turismo.
+
+2. O vice-presidente será designado por um período de quatro anos, podendo ser reconduzido.
+
+3. O vogal representante dos órgãos locais de turismo será eleito por períodos de quatro anos, nos termos definidos em portaria.
+
+4. Ao presidente, e na sua falta ou impedimento ao vice-presidente ou ao director, competirá representar o Fundo em todos os actos judiciais e extrajudiciais.
+
+5. As deliberações da comissão administrativa serão tomadas por maioria de votos, cabendo ao presidente voto de qualidade.
+
+6. O director do Fundo poderá acumular essa função com a de vice-presidente da comissão administrativa.
+
+7. Servirá de secretário, sem voto, o funcionário do Fundo que para esse efeito for designado.
+
+Art. 2.º Os membros da comissão administrativa do Fundo terão direito a uma gratificação mensal, a fixar pelo Secretário de Estado da Informação e Turismo, com o acordo do Ministro das Finanças, acumulável com quaisquer remunerações, mesmo que ultrapassem o limite legal.
+
+Art. 3.º - 1. As disponibilidades do Fundo serão aplicadas:
+
+a) Na concessão de empréstimos para a construção, ampliação ou adaptação de edifícios ou parte deles e seu apetrechamento, com destino a estabelecimentos hoteleiros e similares;
+
+b) Na concessão de empréstimos para a realização de quaisquer empreendimentos considerados de interesse para o turismo;
+
+c) Na concessão de subsídios destinados a auxiliar a realização de iniciativas turísticas, nos termos definidos em regulamento;
+
+d) Na prestação de garantias à Caixa Geral de Depósitos, Crédito e Previdência, de acordo com o disposto na lei para a Caixa Nacional de Crédito, e a quaisquer outras instituições de crédito, públicas ou privadas, nacionais ou estrangeiras, para segurança do cumprimento de obrigações assumidas junto delas, por terceiros, em operações com os mesmos fins das previstas nas alíneas a) e b);
+
+e) No financiamento de promoção turística, no País ou no estrangeiro, organizada ou patrocinada pela Secretaria de Estado da Informação e Turismo;
+
+f) Na construção de estabelecimentos hoteleiros ou similares ou de quaisquer outros empreendimentos de interesse turístico, em imóveis do seu património ou do restante património do Estado, ou na sua ampliação, adaptação ou apetrechamento para o mesmo fim;
+
+g) Na realização ou financiamento de estudos técnico-económicos e de investigação ou planificação necessários ao desenvolvimento nacional ou regional do turismo;
+
+h) Na satisfação dos encargos com o pessoal e outros resultantes da administração do Fundo;
+
+i) Na satisfação dos encargos inerentes à conveniente defesa dos interesses confiados à administração do Fundo.
+
+2. A aplicação das disponibilidades do Fundo, prevista nas alíneas e), f) e g) do número anterior, só será autorizada pelo Secretário de Estado da Informação e Turismo nos casos em que as verbas inscritas para fins idênticos no orçamento da Secretaria de Estado e nos de outros departamentos, ou estabelecidas em planos de fomento, não se mostrem bastantes para a acção a desenvolver.
+
+Art. 4.º Continuarão a beneficiar da assistência financeira do Fundo de Turismo, em qualquer das suas modalidades, as entidades privadas e os órgãos locais de turismo.
+
+Art. 5.º - 1. Serão integrados no património do Fundo de Turismo ou entregues à Secretaria de Estado da Informação e Turismo, nos termos estabelecidos para as pousadas no artigo 1.º do [Decreto-Lei n.º 31259](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31259-1941-328197), de 9 de Maio de 1941, os imóveis do Estado em que sejam construídos ou instalados estabelecimentos hoteleiros e similares e outros empreendimentos de interesse turístico integralmente financiados por esse Fundo.
+
+2. Aplicar-se-á igualmente o disposto no número anterior quando se verifique a adaptação dos mesmos imóveis aos fins ali previstos ou a remodelação total dos estabelecimentos ou empreendimentos naqueles existentes.
+
+Art. 6.º - 1. Para garantia dos encargos assumidos, o Fundo de Turismo poderá constituir, por despacho do Secretário de Estado da Informação e Turismo, uma conta especial até ao montante de 100000000$00.
+
+2. A conta prevista no número anterior será integrada por uma percentagem das receitas anuais arrecadadas pelo Fundo, até 10 por cento, a fixar por despacho do Secretário de Estado.
+
+3. A referida conta será aberta na Caixa Geral de Depósitos, Crédito e Previdência e só poderá ser utilizada mediante autorização expressa do Secretário de Estado, sob proposta fundamentada da comissão administrativa do Fundo.
+
+Art. 7.º Nas hipotecas dos estabelecimentos feitas a favor do Fundo é aplicável, com as necessárias adaptações, o disposto no n.º 4 do artigo 2.º do Código do Registo Predial.
+
+Art. 8.º As contas anuais do Fundo serão submetidas, até 31 de Maio do ano seguinte, a julgamento do Tribunal de Contas.
+
+Art. 9.º - 1. As câmaras municipais e os órgãos locais de turismo poderão também realizar as operações de financiamento previstas nas alíneas a) e b) do artigo 3.º deste diploma.
+
+2. A realização de tais operações depende de autorização, para cada caso, do Ministro do Interior e do Secretário de Estado da Informação e Turismo, quando se tratar de câmaras municipais, e do Secretário de Estado, quando se tratar de comissões regionais de turismo e de juntas de turismo.
+
+Art. 10.º Os financiamentos concedidos pelo Fundo de Turismo, ao abrigo do disposto no presente diploma, poderão, por despacho conjunto do Ministro das Obras Públicas e do Secretário de Estado da Informação e Turismo, cumular-se com os do Fundo de Desemprego.
+
+Art. 11.º Serão definidos por decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado da Informação e Turismo os quadros do pessoal do Fundo de Turismo, continuando em vigor até à sua publicação as disposições actuais sobre a matéria.
+
+Art. 12.º - 1. Os funcionários da Secretaria de Estado da Informação e Turismo ou dos serviços dela dependentes poderão ser nomeados em comissão de serviço, sem prazo, para exercer funções no Fundo de Turismo, contando-se para todos os efeitos legais o período de tempo em que ali estiverem colocados.
+
+2. Os funcionários referidos no número anterior manterão direito aos seus lugares, que poderão ser providos, interinamente, até ao termo da comissão.
+
+Art. 13.º São revogados o artigo 15.º da [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954, a base XVIII da [Lei n.º 2082](https://diariodarepublica.pt/dr/detalhe/lei/2082-1956-231319), de 4 de Junho de 1956, os artigos 8.º e 9.º do [Decreto-Lei n.º 40912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40912-1956-299203), de 20 de Dezembro de 1956, e o artigo 9.º do [Decreto-Lei n.º 46199](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46199-1965-238861), de 25 de Fevereiro de 1965.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+Promulgado em 17 de Setembro de 1969.
+
+Publique-se.
+
+Presidência da República, 26 de Setembro de 1969 - AMÉRICO DEUS RODRIGUES THOMAZ.

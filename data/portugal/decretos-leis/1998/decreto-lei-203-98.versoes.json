@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:485062:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-938665788",
+ "dre_path": "/dr/detalhe/decreto-lei/203-1998-485062",
+ "source_lastmod": "2025-10-10",
+ "versions": [
+  {
+   "date": "1998-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "939090091",
+    "938665689",
+    "938665690",
+    "938665691",
+    "938665692",
+    "938665693",
+    "938665694",
+    "938665695",
+    "938665696",
+    "938665697",
+    "938665698",
+    "938665699",
+    "938665700",
+    "938665701",
+    "938665702",
+    "938665703",
+    "938665704",
+    "938665705",
+    "938665706"
+   ]
+  },
+  {
+   "date": "1998-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:182250:por",
+     "title": "Declaração de Rectificação n.º 11-M/98",
+     "published": "1998-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/11-m-1998-182250"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma",
+    "Retifica Artigo 5.º",
+    "Retifica Artigo 6.º",
+    "Retifica Artigo 9.º",
+    "Retifica Artigo 12.º"
+   ],
+   "fragments": [
+    "939090091",
+    "938665689",
+    "938665690",
+    "938665691",
+    "938665692",
+    "939090092",
+    "939090093",
+    "938665695",
+    "938665696",
+    "939090094",
+    "938665698",
+    "938665699",
+    "939090095",
+    "938665701",
+    "938665702",
+    "938665703",
+    "938665704",
+    "938665705",
+    "938665706",
+    "938665707"
+   ]
+  }
+ ],
+ "fragments": {
+  "939090091": {
+   "fragment_id": "938665789",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1998-07-31",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 203/98\n\nde 10 de Julho\n\nO presente diploma ocupa-se da salvação marítima, instituto de grande tradição no direito marítimo e de indiscutível importância teórica e prática. A sua disciplina jurídica consta do título VIII, livro III, do Código Comercial, recomendando-se a alteração agora realizada, particularmente em razão da assinatura em 28 de Abril de 1989 da Convenção Internacional sobre Salvação Marítima.\n\nApesar de a designação tradicional do instituto ser a de salvação e assistência, optou-se apenas pela de salvação.\n\nA referida tradição encontra origem na doutrina maritimista francesa para a qual salvação e assistência constituíam figuras autónomas.\n\nEsta autonomia, de contornos duvidosos, tem sido contestada, não só entre nós, mas sobretudo no âmbito da comunidade internacional.\n\nEm Portugal, nunca se defendeu com perseverança a distinção entre os dois conceitos, tendo prevalecido o entendimento de que assistência e salvação não são factos diversos, visto que ambos significavam o socorro prestado, conjunta ou separadamente, a um navio, à sua carga e às pessoas que se encontram a bordo.\n\nA nível internacional, a contestação desta autonomia é propugnada pelos direitos de raiz anglo-saxónica. Sempre houve neles, apenas, um único conceito - o de salvage.\n\nA existência das duas orientações doutrinárias patenteia-se no artigo 1.º da Convenção de Bruxelas, de 23 de Setembro de 1910, onde está consagrada uma solução de compromisso: «A assistência e salvação das embarcações marítimas em perigo, das coisas que se encontram a bordo [...] ficam sujeitas às disposições seguintes, sem que haja lugar a distinções entre estas duas espécies de serviços [...]»\n\nMas a terminologia anglo-saxónica tornar-se-ia dominante no texto da mencionada Convenção de 1989 com o emprego de um único termo para designar o instituto, precisamente o de salvage. A palavra assistance aparece tão-só na versão oficial francesa, utilizada como sinónimo de salvage.\n\nNeste quadro, diluiu-se a autonomia que usualmente se considerava existir entre assistência e salvação. Parece que não subsiste, na actualidade, qualquer distinção, legal ou doutrinária, entre as duas espécies de serviços.\n\nConsequentemente, entende-se que o legislador português, em consonância com a maioria dos ordenamentos jurídicos da comunidade internacional, deve passar a utilizar o termo «salvação», em detrimento de «assistência».\n\nO diploma introduz relevantes inovações, algumas delas que o são mesmo em face dos ordenamentos jurídicos estrangeiros. A saber:\n\na) Obrigação do salvador de evitar ou minimizar danos ambientais - o contrato de salvação marítima passa a estar condicionado pelo interesse público da defesa do ambiente, impondo-se ao salvador, ao lado de outras obrigações clássicas, a de evitar ou minimizar danos ambientais;\n\nb) Compensação especial - a fim de incentivar o interesse dos salvadores na defesa do ambiente cria-se uma compensação especial a atribuir ainda que não tenha havido resultado útil para o salvado e, consequentemente, o salvador não vença salário de salvação marítima (princípio no cure no pay). O valor desta compensação é igual ao montante das despesas efectuadas, acrescido de 30%; em situações de particular dificuldade, a compensação especial pode ser elevada para valor equivalente ao dobro de tais despesas;\n\nc) Salvação de pessoas - visando ressarcir os prejuízos do salvador de vidas humanas, quando não tenha direito a participar na repartição do salário de salvação marítima, prevê-se o direito à indemnização pelas despesas que suportou durante a operação. A indemnização é reclamável ao proprietário, armador ou segurador da responsabilidade civil da embarcação em que se transportavam as pessoas salvas;\n\nd) Pagamento pelo Estado - com o objectivo de motivar os salvadores na defesa do ambiente e da vida humana no mar, o Estado passa a garantir o pagamento da compensação especial e da indemnização pelas despesas efectuadas, quando os obrigados não o tenham realizado, dentro do prazo de 60 dias contados da interpelação;\n\ne) Repartição do salário entre salvadores - pretendendo alcançar uma repartição mais justa entre o capitão, ou quem desempenhe correspondentes funções de comando, e a tripulação da embarcação salvadora, recorre-se ao critério da proporção do salário base de cada um, afastando-se as regras do artigo 688.º do Código Comercial;\n\nf) Direito de retenção do salvador - a lei passa a atribuir este direito ao salvador, para garantia dos créditos emergentes da salvação marítima;\n\ng) Salvação marítima por embarcações do Estado - a salvação marítima em que intervenham embarcações do Estado como salvadores fica abrangida pela regulamentação geral.\n\nDe todas as inovações mencionadas, a que se afigura mais arrojada é a respeitante à possibilidade de pagamento pelo Estado, prevista nos artigos 10.º e 11.º Saliente-se o aspecto pioneiro de o Estado, dado estarem em causa danos ambientais e despesas efectuadas para a salvaguarda da vida humana no mar que materializam relevantes interesses públicos, se poder substituir no pagamento respectivo, embora ficando sub-rogado nos direitos do credor, com um prazo especial de dois anos a contar da sub-rogação para exercê-los.\n\nAssim:\n\nAo abrigo da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938665689": {
+   "fragment_id": "938665790",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições legais\n\n1 - Para efeito do presente diploma, considera-se:\n\na) «Salvação marítima» todo o acto ou actividade que vise prestar socorro a navios, embarcações ou outros bens, incluindo o frete em risco, quando em perigo no mar;\n\nb) «Salvador» o que presta socorro aos bens em perigo no mar;\n\nc) «Salvado» o proprietário ou armador dos bens objecto das operações de socorro.\n\n2 - Considera-se ainda salvação marítima a prestação de socorro em quaisquer outras águas sob jurisdição nacional, desde que desenvolvida por embarcações."
+  },
+  "938665690": {
+   "fragment_id": "938665791",
+   "type": 11,
+   "heading": "Artigo 2.º — Contratos de salvação marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Contratos de salvação marítima\n\n1 - Podem os interessados celebrar contratos de salvação marítima em que convencionem regime diverso do previsto no presente diploma, excepto quanto ao preceituado pelos artigos 3.º, 4.º, 9.º e 16.º\n\n2 - Os contratos de salvação marítima estão sujeitos a forma escrita, nesta se incluindo, designadamente, cartas, telegramas, telex, telecópia e outros meios equivalentes criados pelas modernas tecnologias.\n\n3 - As disposições dos contratos de salvação marítima podem ser anuladas ou modificadas nos termos gerais de direito e ainda nos casos seguintes:\n\na) O contrato ter sido celebrado sob coacção ou influência de perigo, não se apresentando equitativas cláusulas;\n\nb) O salário de salvação marítima ser manifestamente excessivo ou diminuto em relação aos serviços prestados.\n\n4 - Nos contratos referidos neste artigo, o capitão da embarcação objecto de salvação, ou quem nela desempenhe funções de comando, actua em representação de todos os interessados na expedição marítima."
+  },
+  "938665691": {
+   "fragment_id": "938665792",
+   "type": 11,
+   "heading": "Artigo 3.º — Dever de prestar socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dever de prestar socorro\n\n1 - O capitão de qualquer embarcação, ou quem nela desempenhe funções de comando, está obrigado a prestar socorro a pessoas em perigo no mar, desde que isso não acarrete risco grave para a sua embarcação ou para as pessoas embarcadas, devendo a sua acção ser conformada com o menor prejuízo ambiental.\n\n2 - À omissão de prestar socorro, nos termos do número anterior, é aplicável o disposto no artigo 486.º do Código Civil, independentemente de outro tipo de responsabilidade consagrada na lei.\n\n3 - O proprietário e o armador da embarcação só respondem pela inobservância da obrigação prevista neste artigo se existir culpa sua."
+  },
+  "938665692": {
+   "fragment_id": "938665793",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações do salvador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações do salvador\n\nConstituem obrigações do salvador:\n\na) Desenvolver as operações de salvação marítima com a diligência devida, em face das circunstâncias de cada caso;\n\nb) Evitar ou minimizar danos ambientais;\n\nc) Solicitar a intervenção de outros salvadores, sempre que as circunstâncias concretas da situação o recomendem;\n\nd) Aceitar a intervenção de outros salvadores, quando tal lhe for solicitado pelo salvado;\n\ne) Entregar, em caso de abandono, à guarda da autoridade aduaneira do porto de entrada, a embarcação e os restantes bens objecto de salvação marítima, desde que não exerça direito de retenção."
+  },
+  "938665693": {
+   "fragment_id": "938665794",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração do salvador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remuneração do salvador\n\n1 - Havendo resultado útil para o salvado, é a salvação marítima remunerada mediante uma retribuição pecuniária denominada «salário de salvação marítima».\n\n2 - Se o salvador não obtiver resultado útil para o salvado, mas evitar ou minimizar manifestos danos ambientais, a sua intervenção é remunerada, nos termos dos artigos 9.º e 10.º, mediante uma retribuição pecuniária denominada «compensação especial».\n\n3 - Para efeitos do número anterior, entende-se por danos ambientais todos os prejuízos causados à saúde humana, vida marinha, recursos costeiros, águas interiores ou adjacentes, em resultado de poluição, contaminação, fogo, explosão ou acidente de natureza semelhante.\n\n4 - Não exclui o direito do salvador a remuneração o facto de pertencerem à mesma pessoa, ou por ela serem operadas, as embarcaçoes que desenvolvem as operações de salvação marítima e as que destas constituem objecto."
+  },
+  "938665694": {
+   "fragment_id": "938665795",
+   "type": 11,
+   "heading": "Artigo 6.º — Salário de salvação marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Salário de salvação marítima\n\n1 - O salário de salvação marítima é fixado tendo em consideração as circunstâncias seguintes:\n\na) O valor da embarcação e dos restantes bens que se conseguiram salvar;\n\nb) Os esforços desenvolvidos pelo salvador e a eficácia destes a fim de prevenir ou minimizar o dano ambiental;\n\nc) O resultado útil conseguido pelo salvador;\n\nd) A natureza e o grau do risco que o salvador correu;\n\ne) Os esforços desenvolvidos pelo salvador e a eficácia destes para salvar a embarcação, outros bens e as vidas humanas;\n\nf) O tempo despendido, os gastos realizados e os prejuízos sofridos pelo salvador;\n\ng) A prontidão dos serviços prestados;\n\nh) O valor do equipamento que o salvador utilizou.\n\n2 - Pelo pagamento do salário de salvação marítima fixado nos termos do número anterior, respondem a embarcação e os restantes bens salvos, na proporção dos respectivos valores, calculados no final das operações de salvação marítima.\n\n3 - O montante do salário de salvação marítima, excluídos os juros e as despesas com custas judiciais, não pode exceder o valor da embarcação e dos restantes bens que se conseguiram salvar, calculados no final das operações de salvação marítima.\n\n4 - Não resulta afectados o salário de salvação marítima, sempre que o salvador tenha sido obrigado a aceitar a intervenção de outros, nos termos da alínea d) do artigo 4.º, e se demonstre a manifesta desnecessidade desta intervenção."
+  },
+  "938665695": {
+   "fragment_id": "938665796",
+   "type": 11,
+   "heading": "Artigo 7.º — Pagamento do salário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pagamento do salário\n\nO pagamento do salário de salvação marítima é feito pelos salvados de harmonia com as regras aplicáveis à regulação da avaria grossa ou comum."
+  },
+  "938665696": {
+   "fragment_id": "938665797",
+   "type": 11,
+   "heading": "Artigo 8.º — Repartição do salário entre os salvadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Repartição do salário entre os salvadores\n\n1 - A repartição do salário de salvação marítima entre os salvadores é efectuada, na falta de acordo dos interessados, pelo tribunal, tendo em conta os critérios estabelecidos no artigo 6.º\n\n2 - A repartição entre o salvador, o capitão, ou quem desempenhava as correspondentes funções de comando, a tripulação e outras pessoas que participaram na salvação marítima é efectuada, na falta de acordo dos interessados, pelo tribunal, nos termos do número anterior; a parte do capitão, ou de quem desempenhava as correspondentes funções de comando, e da tripulação, porém, não pode ser superior a metade nem inferior a um terço do salário de salvação marítima líquido.\n\n3 - A repartição entre o capitão, ou quem desempenhava as correspondentes funções de comando, e os membros da tripulação é feita na proporção do salário base de cada um.\n\n4 - Caso a salvação marítima haja sido prestada por rebocador ou outra embarcação especialmente destinada a esta actividade, o capitão, ou quem desempenhava as correspondentes funções de comando, e a tripulação ficam excluídos da repartição do respectivo salário."
+  },
+  "938665697": {
+   "fragment_id": "938665798",
+   "type": 11,
+   "heading": "Artigo 9.º — Compensação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Compensação especial\n\n1 - Se o salvador desenvolver actividades de salvação marítima em relação a navio ou embarcações que, por eles próprios ou pela natureza da carga transportada, constituam ameaça para o ambiente e não vença salário de salvação marítima, tem direito a uma compensação especial, da responsabilidade dos proprietários do navio ou embarcação e dos restantes bens que se conseguiram salvar, igual ao montante das despesas efectuadas, acrescido de 30%.\n\n2 - Consideram-se despesas efectuadas pelo salvador todos os gastos realizados com pessoal e material, incluída a amortização deste.\n\n3 - Em situações de particular dificuldade para as operações de salvação marítima, pode o tribunal elevar a compensação especial até montante igual ao dobro das despesas efectuadas.\n\n4 - O segurador da responsabilidade civil do devedor pode ser demandado pelo salvador, caso o segurado não efectue o pagamento da compensação especial prevista neste artigo."
+  },
+  "938665698": {
+   "fragment_id": "938665799",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento da compensação pelo Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento da compensação pelo Estado\n\n1 - Não tendo o devedor da compensação especial procedido ao seu pagamento dentro dos 60 dias contados da interpelação judicial ou extrajudicial pelo salvador, pode este exigir imediatamente ao Estado a respectiva satisfação.\n\n2 - Sempre que o Estado, nos termos do número anterior, pague a compensação especial ao salvador, fica sub-rogado nos direitos deste em relação ao devedor, podendo exercê-los dentro dos dois anos subsequentes à sub-rogação.\n\n3 - O procedimento administrativo relativo ao pagamento pelo Estado, previsto neste artigo, será regulamentado por despacho conjunto dos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Justiça e do Ambiente."
+  },
+  "938665699": {
+   "fragment_id": "938665800",
+   "type": 11,
+   "heading": "Artigo 11.º — Salvação de pessoas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Salvação de pessoas\n\n1 - O salvador de vidas humanas que intervenha em operações que originem salário de salvação marítima tem direito, por esse simples facto, a participar na repartição do respectivo montante.\n\n2 - Não ocorrendo a situação prevista no número anterior, o salvador de vidas humanas tem direito a ser indemnizado pelas despesas que suportou na operação de salvamento, reclamando-as do proprietário, armador ou segurador da responsabilidade civil do navio ou embarcação em que se transportavam as pessoas salvas.\n\n3 - O disposto no artigo anterior é aplicável, com as necessárias adaptações, à salvação de pessoas."
+  },
+  "938665700": {
+   "fragment_id": "938665801",
+   "type": 11,
+   "heading": "Artigo 12.º — Embarcações ou outros bens naufragados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Embarcações ou outros bens naufragados\n\n1 - Não podem ser adquiridos por ocupação as embarcações naufragadas, seus fragmentos, carga ou quaisquer bens que o mar arrojar às costas ou sejam nele encontrados.\n\n2 - A recusa injustificada da entrega dos bens referidos no número anterior ao proprietário ou seu representante determina a perda do direito ao salário de salvação marítima sem prejuízo de outras sanções que ao facto correspondam."
+  },
+  "938665701": {
+   "fragment_id": "938665802",
+   "type": 11,
+   "heading": "Artigo 13.º — Exercício dos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exercício dos direitos\n\n1 - Os direitos decorrentes da salvação marítima devem ser exercidos no prazo de dois anos a partir da data da conclusão ou interrupção das operações de salvação marítima.\n\n2 - Se o salvador não exigir o salário de salvação marítima, a compensação especial ou a indemnização das despesas referida no n.º 2 do artigo 11.º, o capitão, ou quem desempenhava as correspondentes funções de comando, e a tripulação podem demandar os salvados, pedindo a parte que lhes caiba, dentro do ano subsequente ao termo do prazo fixado no número anterior.\n\n3 - Verificando-se a situação prevista no número anterior, o capitão da embarcação que desenvolveu as operações de salvação marítima, ou quem desempenhava as correspondentes funções de comando, tem legitimidade para, em nome próprio e em representação da tripulação, demandar os salvados; porém, caso esse direito não seja exercido, podem os tripulantes interessados demandar conjuntamente os salvados, nos seis meses imediatos."
+  },
+  "938665702": {
+   "fragment_id": "938665803",
+   "type": 11,
+   "heading": "Artigo 14.º — Direito de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direito de retenção\n\nO salvador goza de direito de retenção sobre a embarcação e os restantes bens salvos para garantia dos créditos emergentes da salvação marítima."
+  },
+  "938665703": {
+   "fragment_id": "938665804",
+   "type": 11,
+   "heading": "Artigo 15.º — Tribunal competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Tribunal competente\n\n1 - Os tribunais portugueses são internacionalmente competentes para o julgamento de acções emergentes de salvação marítima, em qualquer dos casos seguintes:\n\na) Se o porto de entrada após as operações de salvamento se situar em território nacional;\n\nb) Se o contrato de salvação marítima tiver sido celebrado em Portugal;\n\nc) Se o salvador e o salvado forem de nacionalidade portuguesa;\n\nd) Se a sede, sucursal, agência, filial ou delegação de qualquer das partes se localizar em território português;\n\ne) Se o sinistro ocorreu em águas sob jurisdição nacional.\n\n2 - Nas situações não previstas no número anterior, a determinação da competência internacional dos tribunais para julgamento das acções emergentes de salvação marítima é feita de acordo com as regras gerais."
+  },
+  "938665704": {
+   "fragment_id": "938665805",
+   "type": 11,
+   "heading": "Artigo 16.º — Salvação marítima por embarcações do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Salvação marítima por embarcações do Estado\n\nO disposto neste diploma abrange a salvação marítima desenvolvida por navios ou embarcações de guerra ou outras embarcações não comerciais propriedade do Estado ou por ele operadas; não se aplica, porém, no caso de tais embarcações serem objecto de operações de salvamento."
+  },
+  "938665705": {
+   "fragment_id": "938665806",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados os artigos 676.º a 691.º do Código Comercial."
+  },
+  "938665706": {
+   "fragment_id": "938665807",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "939090092": {
+   "fragment_id": "938665794",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração do salvador",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-M/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-1998-182250), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 5.º — Remuneração do salvador\n\n1 - Havendo resultado útil para o salvado, é a salvação marítima remunerada mediante uma retribuição pecuniária denominada «salário de salvação marítima».\n\n2 - Se o salvador não obtiver resultado útil para o salvado, mas evitar ou minimizar manifestos danos ambientais, a sua intervenção é remunerada, nos termos dos artigos 9.º e 10.º, mediante uma retribuição pecuniária denominada «compensação especial».\n\n3 - Para efeitos do número anterior, entende-se por danos ambientais todos os prejuízos causados à saúde humana, vida marinha, recursos costeiros, águas interiores ou adjacentes, em resultado de poluição, contaminação, fogo, explosão ou acidente de natureza semelhante.\n\n4 - Não exclui o direito do salvador à remuneração o facto de pertencerem à mesma pessoa, ou por ela serem operadas, as embarcaçoes que desenvolvem as operações de salvação marítima e as que destas constituem objecto.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-M/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-1998-182250), em vigor a partir de 1998-07-31"
+  },
+  "939090093": {
+   "fragment_id": "938665795",
+   "type": 11,
+   "heading": "Artigo 6.º — Salário de salvação marítima",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-M/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-1998-182250), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 6.º — Salário de salvação marítima\n\n1 - O salário de salvação marítima é fixado tendo em consideração as circunstâncias seguintes:\n\na) O valor da embarcação e dos restantes bens que se conseguiram salvar;\n\nb) Os esforços desenvolvidos pelo salvador e a eficácia destes a fim de prevenir ou minimizar o dano ambiental;\n\nc) O resultado útil conseguido pelo salvador;\n\nd) A natureza e o grau do risco que o salvador correu;\n\ne) Os esforços desenvolvidos pelo salvador e a eficácia destes para salvar a embarcação, outros bens e as vidas humanas;\n\nf) O tempo despendido, os gastos realizados e os prejuízos sofridos pelo salvador;\n\ng) A prontidão dos serviços prestados;\n\nh) O valor do equipamento que o salvador utilizou.\n\n2 - Pelo pagamento do salário de salvação marítima, fixado nos termos do número anterior, respondem a embarcação e os restantes bens salvos, na proporção dos respectivos valores, calculados no final das operações de salvação marítima.\n\n3 - O montante do salário de salvação marítima, excluídos os juros e as despesas com custas judiciais, não pode exceder o valor da embarcação e dos restantes bens que se conseguiram salvar, calculados no final das operações de salvação marítima.\n\n4 - Não resulta afectado o salário de salvação marítima, sempre que o salvador tenha sido obrigado a aceitar a intervenção de outros, nos termos da alínea d) do artigo 4.º, e se demonstre a manifesta desnecessidade desta intervenção.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-M/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-1998-182250), em vigor a partir de 1998-07-31"
+  },
+  "939090094": {
+   "fragment_id": "938665798",
+   "type": 11,
+   "heading": "Artigo 9.º — Compensação especial",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-M/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-1998-182250), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 9.º — Compensação especial\n\n1 - Se o salvador desenvolver actividades de salvação marítima em relação a navio ou embarcação que, por eles próprios ou pela natureza da carga transportada, constituam ameaça para o ambiente e não vença salário de salvação marítima, tem direito a uma compensação especial, da responsabilidade dos proprietários do navio ou embarcação e dos restantes bens que se conseguiram salvar, igual ao montante das despesas efectuadas, acrescido de 30%.\n\n2 - Consideram-se despesas efectuadas pelo salvador todos os gastos realizados com pessoal e material, incluída a amortização deste.\n\n3 - Em situações de particular dificuldade para as operações de salvação marítima, pode o tribunal elevar a compensação especial até montante igual ao dobro das despesas efectuadas.\n\n4 - O segurador da responsabilidade civil do devedor pode ser demandado pelo salvador, caso o segurado não efectue o pagamento da compensação especial prevista neste artigo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-M/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-1998-182250), em vigor a partir de 1998-07-31"
+  },
+  "939090095": {
+   "fragment_id": "938665801",
+   "type": 11,
+   "heading": "Artigo 12.º — Embarcações ou outros bens naufragados",
+   "in_force_from": "1998-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-M/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-1998-182250), em vigor a partir de 1998-07-31"
+   ],
+   "markdown": "###### Artigo 12.º — Embarcações ou outros bens naufragados\n\n1 - Não podem ser adquiridos por ocupação as embarcações naufragadas, seus fragmentos, carga ou quaisquer bens que o mar arrojar às costas ou sejam nele encontrados.\n\n2 - A recusa injustificada da entrega dos bens referidos no número anterior ao proprietário ou seu representante determina a perda do direito ao salário de salvação marítima, sem prejuízo de outras sanções que ao facto correspondam.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-M/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-1998-182250), em vigor a partir de 1998-07-31"
+  },
+  "938665707": {
+   "fragment_id": "938665808",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 6 de Maio de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

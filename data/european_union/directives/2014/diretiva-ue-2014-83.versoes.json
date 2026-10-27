@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0083:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0083-20140629",
+ "dre_path": null,
+ "source_lastmod": "2014-06-29",
+ "versions": [
+  {
+   "date": "2014-06-26",
+   "future": false,
+   "celex": "32014L0083",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "46df382eb5f1c2ad",
+    "d58c77217695ec26",
+    "997c20958ebcd723",
+    "6a9377ab6142608e",
+    "2e56ab8fe3e497da",
+    "0bad80647344ab08"
+   ]
+  }
+ ],
+ "fragments": {
+  "46df382eb5f1c2ad": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de junho de 2014\n\nque altera os anexos I, II, III, IV e V da Diretiva 2000/29/CE do Conselho relativa às medidas de proteção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2000/29/CE do Conselho, de 8 de maio de 2000, relativa às medidas de proteção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade [([^1])](http://publications.europa.eu/resource/cellar/6f53f555-fcff-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014186PT.01006401-E0001), nomeadamente o artigo 14.º, segundo subparágrafo, alíneas c) e d),\n\nApós consulta aos Estados-Membros envolvidos,\n\nConsiderando o seguinte:\n\n(1) Determinadas partes do território de Portugal foram reconhecidas como zona protegida no que diz respeito ao organismo *Bemisia tabaci* Genn. (populações europeias). Portugal apresentou informações que demonstram que o organismo *Bemisia tabaci* está atualmente estabelecido na Madeira. As medidas adotadas em 2013 para erradicar esse organismo prejudicial revelaram-se ineficazes. A Madeira deve, por conseguinte, deixar de ser reconhecida como parte da zona protegida de Portugal relativamente ao organismo *Bemisia tabaci*. Os anexos I e IV, partes B, da Diretiva 2000/29/CE devem ser alterados em conformidade.\n\n(2) Determinadas partes do território de Espanha foram reconhecidas como zona protegida no que diz respeito ao organismo *Erwinia amylovora* (Burr.) Winsl. *et al.* A Espanha apresentou informações que demonstram que o organismo *Erwinia amylovora* está atualmente estabelecido na Comunidade Autónoma de Aragão, nas Comarcas de l'Alt Vinalopó e El Vinalopó Mitjà, na província de Alicante, e nos municípios de Alborache e Turís, na província de Valência (Comunidade Valenciana). As medidas adotadas em 2013 para erradicar esse organismo prejudicial revelaram-se ineficazes. A Comunidade Autónoma de Aragão, as Comarcas de l'Alt Vinalopó e El Vinalopó Mitjà, na província de Alicante, e os municípios de Alborache e Turís, na província de Valência (Comunidade Valenciana) devem, por conseguinte, deixar de ser reconhecidos como partes da zona protegida de Espanha relativamente ao organismo *Erwinia amylovora*. Os anexos II, III e IV, partes B, da Diretiva 2000/29/CE devem ser alterados em conformidade.\n\n(3) Todo o território da Irlanda foi reconhecido como zona protegida em relação ao organismo *Erwinia amylovora* (Burr.). Winsl. *et al.* A Irlanda apresentou informações que demonstram que o organismo *Erwinia amylovora* está atualmente estabelecido na cidade de Galway. As medidas foram adotadas entre 2005 e 2013 para erradicar esse organismo prejudicial, mas revelaram-se ineficazes. A cidade de Galway deve, por conseguinte, deixar de ser reconhecida como parte da zona protegida da Irlanda relativamente ao organismo *Erwinia amylovora*. Os anexos II, III e IV, partes B, da Diretiva 2000/29/CE devem ser alterados em conformidade.\n\n(4) Todo o território da Lituânia foi reconhecido como zona protegida em relação ao organismo *Erwinia amylovora* (Burr.). Winsl. *et al.* A Lituânia apresentou informações que demonstram que o organismo *Erwinia amylovora* está atualmente estabelecido nos municípios de Kėdainiai e Babtai (região de Kaunas). As medidas adotadas por dois anos consecutivos (2012 e 2013) para erradicar esse organismo prejudicial revelaram-se ineficazes. Os municípios de Kėdainiai e Babtai (região de Kaunas) devem, por conseguinte, deixar de ser reconhecidos como partes da zona protegida da Lituânia relativamente ao organismo *Erwinia amylovora*. Os anexos II, III e IV, partes B, da Diretiva 2000/29/CE devem ser alterados em conformidade.\n\n(5) Determinadas partes do território da Eslovénia foram reconhecidas como zona protegida no que diz respeito ao organismo *Erwinia amylovora* (Burr.) Winsl. *et al.* A Eslovénia apresentou informações que demonstram que o organismo *Erwinia amylovora* está atualmente estabelecido nos municípios de Renče-Vogrsko (a sul da autoestrada H4)e de Lendava. As medidas adotadas por dois anos consecutivos (2012 e 2013) para erradicar esse organismo prejudicial revelaram-se ineficazes. Os municípios de Renče-Vogrsko (a sul da autoestrada H4) e de Lendava devem, por conseguinte, deixar de ser reconhecidos como partes da zona protegida da Eslovénia relativamente ao organismo *Erwinia amylovora*. Os anexos II, III e IV, partes B, da Diretiva 2000/29/CE devem ser alterados em conformidade.\n\n(6) Determinadas partes do território da Eslováquia foram reconhecidas como zona protegida no que diz respeito ao organismo *Erwinia amylovora* (Burr.) Winsl. *et al.* A Eslováquia apresentou informações que demonstram que o organismo *Erwinia amylovora* está atualmente estabelecido no município de Čenkovce (circunscrição de Dunajská Streda). As medidas adotadas por dois anos consecutivos (2012 e 2013) para erradicar esse organismo prejudicial revelaram-se ineficazes. O município de Čenkovce (circunscrição de Dunajská Streda) deve, por conseguinte, deixar de ser reconhecido como parte da zona protegida da Eslováquia relativamente ao organismo *Erwinia amylovora*. Os anexos II, III e IV, partes B, da Diretiva 2000/29/CE devem ser alterados em conformidade.\n\n(7) O nome científico do organismo prejudicial *Ceratocystis fimbriata* f. spp. *platani* Walter deve ser alterado em consonância com a revisão do nome científico do organismo, devendo passar a ser designado como *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr. É necessário alinhar os anexos II e IV da Diretiva 2000/29/CE.\n\n(8) É agora conhecida a ocorrência de *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr. na Suíça. O anexo IV, parte A, secção I, e o anexo V, parte B, ponto I, da Diretiva 2000/29/CE devem ser alterados em conformidade.\n\n(9) Tendo em conta a evolução dos conhecimentos científicos, é necessário considerar que, no que diz respeito à madeira de *Platanus* L., a descasca não invalida o risco de pragas associado ao organismo *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr. O anexo IV, parte A, secção I, da Diretiva 2000/29/CE deve ser alterado em conformidade.\n\n(10) Tendo em conta o risco apresentado pelo organismo *Ceratocystis platani* (J. M. Walter) Engelbr. & T. C. Harr., é tecnicamente justificada a inclusão desse organismo prejudicial no anexo II, parte B, da Diretiva 2000/29/CE, a fim de proteger a produção e o comércio de vegetais e produtos vegetais em certas zonas ameaçadas.\n\n(11) O Reino Unido solicitou que o seu território fosse reconhecido como zona protegida em relação ao organismo *Ceratocystis platani* (J. M. Walter) Engelbr. & T.C. Harr. Com base nas verificações realizadas entre 2010 e 2013, o Reino Unido forneceu elementos que comprovam a inexistência desse organismo prejudicial no seu território, apesar das condições propícias para o seu estabelecimento nessa região. Contudo, será necessário realizar novas verificações. Essas verificações deverão ser supervisionadas por peritos sob a autoridade da Comissão. Por conseguinte, o Reino Unido deve ser reconhecido como zona protegida em relação ao *Ceratocystis platani* apenas até 30 de abril de 2016. Os anexos II e IV, partes B, da Diretiva 2000/29/CE devem, pois, ser alterados em conformidade. Também o anexo IV, parte B, e o anexo V, parte A.II, da Diretiva 2000/29/CE devem ser alterados, a fim de introduzir requisitos para a introdução de certos vegetais, produtos vegetais e outros objetos em certas zonas protegidas.\n\n(12) Por conseguinte, é conveniente alterar em conformidade os anexos I, II, III, IV e V da Diretiva 2000/29/CE.\n\n(13) As medidas previstas na presente diretiva estão em conformidade com o parecer do Comité Fitossanitário Permanente,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "d58c77217695ec26": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos I, II, III, IV e V da Diretiva 2000/29/CE são alterados em conformidade com o anexo da presente diretiva."
+  },
+  "997c20958ebcd723": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros devem adotar e publicar, até 30 de setembro de 2014, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir de 1 de outubro de 2014.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como deve ser feita a referência."
+  },
+  "6a9377ab6142608e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "2e56ab8fe3e497da": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 25 de junho de 2014.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "0bad80647344ab08": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/6f53f555-fcff-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014186PT.01006401-E0001) [JO L 169 de 10.7.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_169_R_TOC)."
+  }
+ }
+}

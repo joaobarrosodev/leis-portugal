@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32018R0761:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R0761-20200616",
+ "dre_path": null,
+ "source_lastmod": "2020-06-16",
+ "versions": [
+  {
+   "date": "2018-05-25",
+   "future": false,
+   "celex": "32018R0761",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "728a617840cd4c76",
+    "f048e219273d5ca4",
+    "b940629e454001aa",
+    "237b455950496f6e",
+    "366ce6a845907399",
+    "351ac520485ff569",
+    "37f76166e038cff8",
+    "5ef27e02ce930f4f",
+    "906a11cef237a3f1",
+    "635bf32b8ac63a19",
+    "04e076ecd3cde671",
+    "632928281f4a167d"
+   ]
+  }
+ ],
+ "fragments": {
+  "728a617840cd4c76": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de fevereiro de 2018\n\nque estabelece métodos comuns de segurança para a atividade de supervisão pelas autoridades nacionais de segurança subsequente à emissão do certificado de segurança único ou de uma autorização de segurança, em conformidade com a Diretiva (UE) 2016/798 do Parlamento Europeu e do Conselho, e que revoga o Regulamento (UE) n.º 1077/2012 da Comissão\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva (UE) 2016/798 do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa à segurança ferroviária [([^1])](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2018129PT.01001601-E0001), nomeadamente o artigo 6.º, n.º 6,\n\nTendo em conta a Recomendação ERA-REC-115-REC da Agência Ferroviária da União Europeia, entregue à Comissão em 9 de março de 2017, sobre a revisão dos métodos comuns de segurança para a avaliação da conformidade e o método comum de segurança para a supervisão,\n\nConsiderando o seguinte:\n\n(1) Os métodos comuns de segurança (MCS) descrevem de que forma são avaliados os níveis de segurança e a consecução dos objetivos de segurança, e o cumprimento dos outros requisitos de segurança.\n\n(2) Em conformidade com o artigo 6.º, n.º 5, da Diretiva (UE) 2016/798, os MCS devem ser revistos periodicamente, tendo em conta a experiência adquirida com a sua aplicação e a evolução global da segurança ferroviária, com o objetivo de manter globalmente e, quando razoavelmente exequível, reforçar continuamente a segurança.\n\n(3) Através da Decisão de Execução de 1 de setembro de 2016 [([^2])](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2018129PT.01001601-E0002), a Comissão atribuiu um mandato à Agência Ferroviária da União Europeia («Agência»), em conformidade com o artigo 6.º, n.º 2, da Diretiva (UE) 2016/798, para rever os Regulamentos da Comissão (UE) n.º 1158/2010 [([^3])](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2018129PT.01001601-E0003), (UE) n.º 1169/2010 [([^4])](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2018129PT.01001601-E0004) e (UE) n.º 1077/2012 [([^5])](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2018129PT.01001601-E0005). Em 9 de março de 2017, a Agência apresentou a sua recomendação, juntando um relatório sobre os resultados da consulta das autoridades nacionais de segurança, dos parceiros sociais e dos utilizadores, bem como um relatório de avaliação do impacto dos MCS alterados a adotar, a fim de abordar o mandato da Comissão. A Comissão analisou a recomendação emitida pela Agência para verificar se o mandato estava preenchido, como referido no artigo 6.º, n.º 4, da Diretiva (UE) 2016/798.\n\n(4) Após a emissão de um certificado de segurança único ou de uma autorização de segurança, a autoridade nacional de segurança deve realizar atividades de supervisão a fim de verificar se os mecanismos do sistema de gestão da segurança são efetivamente utilizados durante o funcionamento e se todos os requisitos necessários estão a ser continuamente cumpridos.\n\n(5) Em conformidade com o artigo 17.º, n.^os^ 1 e 8, da Diretiva (UE) 2016/798, nos casos em que as empresas ferroviárias e os gestores de infraestruturas sejam igualmente entidades responsáveis pela manutenção que não sejam certificadas nos termos do artigo 14.º, n.º 4, da Diretiva (UE) 2016/798, as atividades de supervisão realizadas pelas autoridades nacionais de segurança com o objetivo de verificar a aplicação dos MCS pertinentes referidos no artigo 6.º da Diretiva (UE) 2016/798 pelas entidades responsáveis pela manutenção são meios justificados no que respeita à supervisão da eficácia dos sistemas de gestão da segurança dessas empresas ferroviárias e gestores de infraestruturas.\n\n(6) Deve ser estabelecido um processo de supervisão para as autoridades nacionais de segurança, com o objetivo de melhorar a confiança mútua nas suas abordagens e no processo decisório durante as atividades de supervisão.\n\n(7) As autoridades nacionais de segurança devem ser responsabilizadas pelas suas decisões e, por conseguinte, devem dispor de modalidades ou procedimentos internos com base nos quais poderão ser chamadas a prestar contas.\n\n(8) A supervisão deve visar principalmente as atividades que, no entender da autoridade nacional de segurança, constituam os riscos mais graves ou em que os riscos são menos bem controlados. Para o efeito, a autoridade nacional de segurança deve elaborar e executar uma estratégia e um plano ou planos de supervisão com base no risco que ilustrem a forma como são determinados os objetivos e as prioridades em matéria de atividades de supervisão.\n\n(9) As medidas de execução adotadas pelas autoridades nacionais de segurança para garantir que as empresas ferroviárias e os gestores de infraestruturas respeitem a conformidade legal, como referido no artigo 17.º, n.º 1, da Diretiva (UE) 2016/798, devem ser proporcionadas aos eventuais riscos para a segurança ou à potencial gravidade do incumprimento das suas obrigações legais.\n\n(10) A fim de poderem desempenhar as funções previstas no artigo 16.º, n.º 2, alínea i), da Diretiva (UE) 2016/798, a autoridade nacional de segurança tem também de avaliar, no contexto dos resultados das suas atividades de supervisão, a eficácia do quadro regulamentar de segurança.\n\n(11) As técnicas de auditoria e inspeção em matéria de supervisão devem normalmente incluir a recolha de declarações de pessoas de diferentes níveis hierárquicos numa organização, a análise de documentos e registos associados ao sistema de gestão da segurança e o exame dos resultados de segurança do sistema de gestão da segurança evidenciados por inspeções ou atividades conexas.\n\n(12) Em conformidade com o artigo 17.º, n.º 13, da Diretiva (UE) 2016/798, a Agência, atuando como organismo de certificação de segurança, e as autoridades nacionais de segurança devem coordenar as suas iniciativas, sempre e quando necessário, para assegurar o pleno intercâmbio de informações entre as atividades de avaliação e as atividades de supervisão, incluindo as comunicações dirigidas às empresas ferroviárias. Do mesmo modo, as autoridades nacionais de segurança pertinentes devem coordenar as suas iniciativas no caso de infraestruturas transfronteiriças.\n\n(13) A fim de assegurar que a supervisão é realizada de forma eficaz pelas autoridades nacionais de segurança e reforçar a respetiva confiança mútua, essas autoridades devem assegurar que o pessoal envolvido na supervisão detém as competências necessárias. Para o efeito, essas competências devem ser identificadas.\n\n(14) As autoridades nacionais de segurança envolvidas na supervisão de um gestor de infraestruturas com infraestruturas transfronteiriças ou de uma empresa ferroviária operando em mais do que um Estado-Membro devem cooperar entre elas, a fim de evitar qualquer duplicação da supervisão e coordenar as suas estratégias de supervisão, a fim de assegurar que as principais informações sobre o gestor de infraestruturas ou empresa ferroviária, especialmente no que respeita aos riscos conhecidos e ao seu desempenho de segurança, são partilhadas e utilizadas para definir as atividades de supervisão nos domínios de maior risco para toda a operação.\n\n(15) As autoridades nacionais de segurança devem cooperar, se necessário, com outras autoridades ou organismos competentes que interagem no setor ferroviário, tais como os organismos reguladores e as autoridades responsáveis pelo licenciamento, na aceção da Diretiva 2012/34/UE do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2018129PT.01001601-E0006), ou com as autoridades competentes pelo controlo da conformidade com as regras em matéria de tempo de trabalho, condução e repouso dos maquinistas, tendo em vista cumprir os respetivos mandatos, partilhar informações, resolver os eventuais conflitos de abordagem, evitar efeitos adversos relacionados com o sistema ferroviário e coordenar as suas intervenções em caso de incumprimento do quadro regulamentar de segurança.\n\n(16) Em conformidade com o artigo 31.º, n.º 3, da Diretiva (UE) 2016/798, o novo regime de certificação de segurança tem início a partir de 16 de junho de 2019. Porém, os Estados-Membros têm a possibilidade de notificar a Agência e a Comissão, nos termos do disposto no artigo 33.º, n.º 2, da Diretiva (UE) 2016/798, de que prorrogaram o período de transposição e, por conseguinte, podem continuar a emitir certificados em conformidade com a Diretiva 2004/49/CE do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2018129PT.01001601-E0007) até 16 de junho de 2020. É, por conseguinte, necessário alinhar as datas de aplicação do presente regulamento com as datas estabelecidas na Diretiva (UE) 2016/798, a fim de permitir uma transição harmoniosa para o novo regime de certificação.\n\n(17) O Regulamento (UE) n.º 1077/2012 tornou-se obsoleto, devendo, por conseguinte, ser substituído pelo presente regulamento,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "f048e219273d5ca4": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece métodos comuns de segurança (MCS), a que se refere o artigo 6.º, n.º 1, alínea c), da Diretiva (UE) 2016/798, para as atividades de supervisão da gestão da segurança pelas autoridades nacionais de segurança após as empresas de transporte ferroviário terem recebido um certificado de segurança único e os gestores de infraestruturas terem recebido uma autorização de segurança."
+  },
+  "b940629e454001aa": {
+   "fragment_id": "Artigo 2.º — Definição",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «organismo de certificação de segurança», o organismo responsável pela emissão de um certificado de segurança único, quer se trate da Agência ou de uma autoridade nacional de segurança;\n\nb) «questão residual», uma questão menor identificada durante a avaliação efetuada no contexto de um pedido de certificado de segurança único ou de uma autorização de segurança, que não obsta à emissão do certificado ou da autorização e que pode ser diferida para supervisão ulterior."
+  },
+  "237b455950496f6e": {
+   "fragment_id": "Artigo 3.º — Processo de supervisão",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Processo de supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de supervisão\n\n1. As autoridades nacionais de segurança devem aplicar o processo de supervisão estabelecido no anexo I.\n\n2. As autoridades nacionais de segurança devem estabelecer as modalidades ou procedimentos internos relativos à gestão do processo de supervisão.\n\n3. Para efeitos de supervisão, as autoridades nacionais de segurança devem aceitar as autorizações, os reconhecimentos ou certificados relativos a produtos ou serviços fornecidos por empresas ferroviárias e os gestores de infraestruturas, ou pelos seus contratantes, parceiros ou fornecedores, emitidos em conformidade com o direito pertinente da União, como prova da capacidade das empresas de transporte ferroviário e dos gestores de infraestruturas em satisfazerem as exigências correspondentes definidas no Regulamento Delegado (UE) 2018/762 da Comissão [([^8])](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2018129PT.01001601-E0008)."
+  },
+  "366ce6a845907399": {
+   "fragment_id": "Artigo 4.º — Técnicas de supervisão",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Técnicas de supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Técnicas de supervisão\n\nAs autoridades nacionais de segurança devem adotar técnicas adequadas, tais como auditorias e inspeções, e selecionar as mais adequadas ao planearem as suas atividades de supervisão."
+  },
+  "351ac520485ff569": {
+   "fragment_id": "Artigo 5.º — Ligações entre supervisão e avaliação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Ligações entre supervisão e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ligações entre supervisão e avaliação\n\n1. A autoridade nacional de segurança que efetua a supervisão deve utilizar e, se for caso disso, partilhar informações recolhidas sobre o desempenho do sistema de gestão de segurança durante as suas atividades de supervisão para efeitos de renovação ou atualização de certificados únicos de segurança ou de autorizações de segurança.\n\n2. Nos casos em que a autoridade nacional de segurança a que se refere o n.º 1 não for responsável pela emissão do certificado de segurança único ou da autorização de segurança, deve coordenar-se rapidamente com a Agência, atuando como organismo de certificação da segurança, ou a autoridade nacional de segurança relevante, em caso de infraestruturas transfronteiriças, a seu pedido, após a receção de um pedido de renovação ou atualização.\n\nCom base nos resultados da coordenação referida no primeiro parágrafo, a autoridade nacional de segurança deve identificar e visar as informações que sejam relevantes para avaliar se o sistema de gestão da segurança da empresa ferroviária ou do gestor de infraestruturas funciona eficazmente, incluindo pelo menos:\n\na) Uma descrição dos casos importantes de não conformidade suscetíveis de afetar o desempenho de segurança ou criar riscos graves de segurança, bem como quaisquer outros domínios de preocupação identificados durante as atividades de supervisão desde a avaliação anterior;\n\nb) O estatuto do(s) plano(s) de ação estabelecido(s) pela empresa ferroviária ou pelo gestor de infraestruturas para resolver as não conformidades importantes e qualquer outro domínio de preocupação referido na alínea a), bem como as iniciativas relevantes que tenham sido adotadas pela autoridade nacional de segurança para fiscalizar a resolução destas questões;\n\nc) Uma visão global do desempenho em matéria de segurança da empresa ferroviária ou do gestor de infraestrutura que operam no seu Estado-Membro;\n\nd) O estatuto do(s) plano(s) de ação elaborado(s) pela empresa ferroviária ou pelo gestor de infraestrutura para resolver os problemas residuais resultantes de uma avaliação anterior."
+  },
+  "37f76166e038cff8": {
+   "fragment_id": "Artigo 6.º — Competências dos membros do pessoal envolvidos na supervisão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Competências dos membros do pessoal envolvidos na supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências dos membros do pessoal envolvidos na supervisão\n\n1. As autoridades nacionais de segurança devem assegurar que o pessoal envolvido na supervisão tem as competências seguintes:\n\na) Conhecimento do quadro regulamentar pertinente aplicável à supervisão;\n\nb) Conhecimento do funcionamento do sistema ferroviário;\n\nc) Nível adequado de análise crítica;\n\nd) Experiência em matéria de supervisão de um sistema de gestão da segurança ou de um sistema de gestão similar no setor ferroviário, ou de um sistema de gestão da segurança num setor com dificuldades operacionais e técnicas equivalentes;\n\ne) Conhecimentos e experiência em matéria de realização de entrevistas;\n\nf) Resolução de problemas, comunicação e espírito de equipa.\n\n2. No caso de trabalho de equipa, as competências podem ser partilhadas entre os membros da equipa.\n\n3. Com vista a assegurar a aplicação correta do n.º 1, a Agência e as autoridades nacionais de segurança devem estabelecer um sistema de gestão de competências que inclua:\n\na) O desenvolvimento de perfis de competência para os vários postos, cargos ou funções;\n\nb) O recrutamento de pessoal em conformidade com esses perfis de competência;\n\nc) A manutenção, o desenvolvimento e a avaliação da competência do pessoal em conformidade com os perfis de competência necessários."
+  },
+  "5ef27e02ce930f4f": {
+   "fragment_id": "Artigo 7.º — Critérios de decisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Critérios de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de decisão\n\n1. A autoridade nacional de segurança deve estabelecer e publicar critérios de decisão sobre a forma como avalia a correta aplicação de um sistema de gestão da segurança de uma empresa ferroviária ou de um gestor de infraestrutura e a eficácia do sistema de gestão da segurança para controlar os riscos em matéria de segurança associados às atividades da empresa ferroviária ou do gestor da infraestrutura.\n\nEsses critérios devem incluir informações sobre a forma como a autoridade nacional de segurança gere e aborda as não conformidades identificadas no sistema de gestão da segurança da empresa ferroviária e do gestor da infraestrutura.\n\n2. A autoridade nacional de segurança deve adotar e publicar um procedimento que especifique a forma como as empresas ferroviárias, os gestores de infraestruturas e qualquer outra parte interessada, podem apresentar uma queixa sobre as decisões tomadas durante as atividades de supervisão."
+  },
+  "906a11cef237a3f1": {
+   "fragment_id": "Artigo 8.º — Coordenação entre autoridades nacionais de segurança e cooperação com outras autoridades ou organismos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Coordenação entre autoridades nacionais de segurança e cooperação com outras autoridades ou organismos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Coordenação entre autoridades nacionais de segurança e cooperação com outras autoridades ou organismos\n\n1. As autoridades nacionais de segurança envolvidas na supervisão de um gestor de infraestruturas com infraestrutura(s) transfronteiriças ou de uma empresa ferroviária que opere em mais do que um Estado-Membro devem coordenar a sua estratégia de supervisão, em conformidade com o artigo 17.º, n.^os^ 7, e 9 da Diretiva (UE) 2016/798.\n\nApós a concessão da autorização de segurança ou do certificado de segurança único, as autoridades nacionais de segurança devem decidir sem demora qual delas terá um papel de liderança na coordenação da supervisão da correta aplicação e da eficácia do sistema de gestão da segurança, sem prejuízo das obrigações das autoridades nacionais de segurança nos termos do artigo 16.º, n.º 2, alíneas d) e j), e do artigo 17.º da Diretiva (UE) 2016/798.\n\n2. Para efeitos do n.º 1, as autoridades nacionais de segurança devem desenvolver mecanismos com base no quadro de supervisão coordenada e comum previsto no anexo II.\n\n3. As autoridades nacionais de segurança devem desenvolver mecanismos de cooperação com os organismos nacionais de inquérito, os organismos de certificação para as entidades responsáveis pela manutenção e outras autoridades ou organismos competentes."
+  },
+  "635bf32b8ac63a19": {
+   "fragment_id": "Artigo 9.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogação\n\nÉ revogado o Regulamento (UE) n.º 1077/2012 com efeitos a partir 16 de junho de 2019."
+  },
+  "04e076ecd3cde671": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 16 de junho de 2019. No entanto, o artigo 5.º, n.º 2, e o artigo 8.º, n.^os^ 1 e 2, continuarão a aplicar-se até 16 de junho de 2020 aos Estados-Membros que tenham notificado à Agência e à Comissão, nos termos do artigo 33.º, n.º 2, da Diretiva (UE) 2016/798, que prorrogaram o prazo de transposição da referida diretiva.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de fevereiro de 2018.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**Jean-Claude JUNCKER**\n\n---"
+  },
+  "632928281f4a167d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2018129PT.01001601-E0001) [JO L 138 de 26.5.2016, p. 102](http://publications.europa.eu/resource/oj/JOL_2016_138_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2018129PT.01001601-E0002) Decisão de Execução da Comissão, de 1 de setembro de 2016, relativa a um mandato conferido à Agência Ferroviária da União Europeia para a revisão dos métodos comuns de segurança relativos à avaliação da conformidade e ao método comum de segurança para a atividade de supervisão e que revoga a Decisão de Execução C(2014) 1649 final [C(2016) 5504 final].\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2018129PT.01001601-E0003) Regulamento (UE) n.º 1158/2010 da Comissão, de 9 de dezembro de 2010, relativo a um método comum de segurança para avaliar a conformidade com os requisitos para a obtenção de certificados de segurança ferroviária ([JO L 326 de 10.12.2010, p. 11](http://publications.europa.eu/resource/oj/JOL_2010_326_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2018129PT.01001601-E0004) Regulamento (UE) n.º 1169/2010 da Comissão, de 10 de dezembro de 2010, relativo a um método comum de segurança para avaliar a conformidade com os requisitos para a obtenção de uma autorização de segurança ferroviária ([JO L 327 de 11.12.2010, p. 13](http://publications.europa.eu/resource/oj/JOL_2010_327_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2018129PT.01001601-E0005) Regulamento (UE) n.º 1077/2012 da Comissão, de 16 de novembro de 2012, relativo a um método comum de segurança para a atividade de supervisão das autoridades nacionais de segurança subsequente à emissão do certificado de segurança ou da autorização de segurança ([JO L 320 de 17.11.2012, p. 3](http://publications.europa.eu/resource/oj/JOL_2012_320_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2018129PT.01001601-E0006) Diretiva 2012/34/UE do Parlamento Europeu e do Conselho, de 21 de novembro de 2012, que estabelece um espaço ferroviário europeu único ([JO L 343 de 14.12.2012, p. 32](http://publications.europa.eu/resource/oj/JOL_2012_343_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2018129PT.01001601-E0007) Diretiva 2004/49/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à segurança dos caminhos de ferro da Comunidade, e que altera a Diretiva 95/18/CE do Conselho relativa às licenças das empresas de transporte ferroviário e a Diretiva 2001/14/CE relativa à repartição de capacidade da infraestrutura ferroviária, à aplicação de taxas de utilização da infraestrutura ferroviária e à certificação da segurança (Diretiva Segurança Ferroviária) ([JO L 164 de 30.4.2004, p. 44](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/33b66ffb-5fdf-11e8-ab9c-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2018129PT.01001601-E0008) Regulamento Delegado (UE) 2018/762 da Comissão, de 8 de março de 2018, que estabelece métodos comuns de segurança em matéria de requisitos do sistema de gestão da segurança, em conformidade com a Diretiva (UE) 2016/798 do Parlamento Europeu e do Conselho e que revoga os Regulamentos (UE) n.º 1158/2010 e (UE) n.º 1169/2010 da Comissão (ver página 26 do presente Jornal Oficial)."
+  }
+ }
+}

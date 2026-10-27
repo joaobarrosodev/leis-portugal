@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:55076557:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-124315076",
+ "dre_path": "/dr/detalhe/portaria/154-2014-55076557",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124311804",
+    "124311805",
+    "124311806",
+    "124311807",
+    "124311808",
+    "124311809",
+    "124311810",
+    "124311811",
+    "124311813",
+    "124311814",
+    "124311815",
+    "124311816",
+    "124311817"
+   ]
+  },
+  {
+   "date": "2019-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124283155:por",
+     "title": "Portaria n.º 280/2019",
+     "published": "2019-08-29",
+     "dre_path": "/dr/detalhe/portaria/280-2019-124283155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "124311804",
+    "124311829",
+    "124311806",
+    "124311807",
+    "124311808",
+    "124311809",
+    "124311810",
+    "124311811",
+    "124311812",
+    "124311830",
+    "124311831",
+    "124311832",
+    "124278786",
+    "124278787"
+   ]
+  }
+ ],
+ "fragments": {
+  "124311804": {
+   "fragment_id": "124315077",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 154/2014\n\nde 5 de agosto\n\nO Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente, por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro e na Portaria n.º 702/2009, de 6 de julho.\n\nNa sequência de um estudo apresentado pela Câmara Municipal do Barreiro, a Agência Portuguesa do Ambiente, I. P. elaborou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção para as captações nos polos de captação de «Sete Portais», «Vale Romão», «Mercado Abastecedor», «Alto do Paiva», «Parque da Cidade», «Loios», «Penalva» e «Coina», no concelho do Barreiro.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação dada pelo artigo 88.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas nos termos da subalínea ii) da alínea a) e da subalínea iv) da alínea b) do n.º 1 do Despacho n.º 13322/2013, de 11 de outubro de 2013, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro de 2013, com a redação dada pela alínea c) do n.º 1 do Despacho n.º 1941-A/2014, de 5 de fevereiro de 2014, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2014, o seguinte:"
+  },
+  "124311805": {
+   "fragment_id": "124315078",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - É aprovada a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público localizadas no concelho do Barreiro.\n\n2 - A delimitação de perímetros de proteção abrange as seguintes captações, cujas coordenadas constam do anexo I à presente portaria, que dela faz parte integrante:\n\na) AC3 do polo de captação de Sete Portais;\n\nb) AC5 e FR1 do polo de captação de Vale Romão;\n\nc) FR3 do polo de captação do Mercado Abastecedor;\n\nd) AC6 do polo de captação do Alto do Paiva;\n\ne) RA1 e FR6 do polo de captação do Parque da Cidade;\n\nf) FR4 e FR8 do polo de captação dos Loios;\n\ng) FR5 do polo de captação de Penalva;\n\nh) FR7 do polo de captação de Coina;"
+  },
+  "124311806": {
+   "fragment_id": "124315079",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de proteção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de proteção imediata\n\n1 - A zona de proteção imediata respeitante aos perímetros de proteção corresponde à área da superfície do terreno envolvente à captação, delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo II à presente portaria, que dela faz parte integrante.\n\n2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007."
+  },
+  "124311807": {
+   "fragment_id": "124315080",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de proteção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zona de proteção intermédia\n\n1 - A zona de proteção intermédia respeitante aos perímetros de proteção corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo III à presente portaria, que dela faz parte integrante.\n\n2 - Na zona de proteção intermédia são interditas as atividades e instalações previstas no n.º 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, e ainda, nos termos dos n.º 2 do artigo 6.º do referido decreto-lei, as seguintes:\n\na) Lixeiras e aterros sanitários, incluindo quaisquer tipo de aterros para resíduos perigosos, não perigosos ou inertes;\n\nb) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;\n\nc) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\nd) Unidades industriais suscetíveis de produzir substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea;\n\ne) Cemitérios;\n\nf) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;\n\ng) Depósitos de sucata.\n\n3 - Na zona de proteção intermédia são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Pastorícia, que pode ser desenvolvida desde que não cause problemas de poluição da água subterrânea, nomeadamente através do pastoreio intensivo;\n\nb) Usos agrícolas e pecuários, que podem ser permitidos desde que não causem problemas de poluição da água subterrânea, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis, ou através da rejeição de efluentes no solo;\n\nc) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;\n\nd) Estradas e caminhos-de-ferro, que podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;\n\ne) Espaços destinados a práticas desportivas e os parques de campismo, que podem ser permitidos desde que as instalações ou atividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infraestruturas de saneamento à rede municipal;\n\nf) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquicidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\ng) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquicidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento."
+  },
+  "124311808": {
+   "fragment_id": "124315081",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de proteção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Zona de proteção alargada\n\n1 - A zona de proteção alargada respeitante aos perímetros de proteção corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo IV à presente portaria, que dela faz parte integrante.\n\n2 - Na zona de proteção alargada são interditas as atividades e instalações previstas nas alíneas a) a d) do n.º 5 do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, e ainda, nos termos dos n.º 4 do artigo 6.º do referido decreto-lei, as seguintes:\n\na) Lixeiras e aterros sanitários, incluindo quaisquer tipo de aterros para resíduos perigosos, não perigosos ou inertes;\n\nb) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo.\n\n3 - Na zona de proteção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:\n\na) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nb) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquicidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\nc) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquicidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;\n\nd) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\ne) Cemitérios;\n\nf) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento;\n\ng) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis e infraestruturas aeronáuticas são permitidas desde que seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis e aeronaves, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha ou tratamento de efluentes;\n\nh) Depósitos de sucata existentes à data da presente portaria, devendo ser assegurada a impermeabilização de solo e a recolha ou tratamento das águas de escorrência, nas zonas de armazenamento."
+  },
+  "124311809": {
+   "fragment_id": "124315082",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de proteção\n\nAs zonas de proteção intermédia e alargada, respeitantes aos perímetros de proteção mencionados no artigo 1.º, encontram-se representadas nas plantas de localização constantes do anexo V da presente portaria, que dela faz parte integrante."
+  },
+  "124311810": {
+   "fragment_id": "124315083",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogada a Portaria n.º 963/2010, de 23 de setembro."
+  },
+  "124311811": {
+   "fragment_id": "124315084",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124311813": {
+   "fragment_id": "124315086",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 1.º)\n\nCoordenadas das captações\n\n(ver documento original)"
+  },
+  "124311814": {
+   "fragment_id": "124315087",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nZona de proteção imediata\n\nPolo de captação de Sete Portais\n\nCaptação AC3\n\n(ver documento original)\n\nPolo de captação de Vale Romão\n\nCaptação AC5\n\n(ver documento original)\n\nCaptação FR1\n\n(ver documento original)\n\nPolo de captação do Mercado Abastecedor\n\nCaptação FR3\n\n(ver documento original)\n\nPolo de captação do Alto do Paiva\n\nCaptação AC6\n\n(ver documento original)\n\nPolo de captação do Parque da Cidade\n\nCaptação RA1\n\n(ver documento original)\n\nCaptação FR6\n\n(ver documento original)\n\nPolo de captação dos Loios\n\nCaptação FR4\n\n(ver documento original)\n\nCaptação FR8\n\n(ver documento original)\n\nPolo de captação de Penalva\n\nCaptação FR5\n\n(ver documento original)\n\nPolo de captação de Coina\n\nCaptação FR7\n\n(ver documento original)"
+  },
+  "124311815": {
+   "fragment_id": "124315088",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 3.º)\n\nZona de proteção intermédia\n\nPolo de captação de Sete Portais\n\nCaptação AC3\n\n(ver documento original)\n\nPolo de captação de Vale Romão\n\nCaptação FR1\n\n(ver documento original)\n\nA zona de proteção intermédia da captação AC5 corresponde à área da superfície do terreno definida por um círculo de 49 m de raio com centro na captação.\n\nPolo de captação do Mercado Abastecedor\n\nCaptação FR3\n\n(ver documento original)\n\nPolo de captação do Alto do Paiva\n\nCaptação AC6\n\n(ver documento original)\n\nPolo de captação do Parque da Cidade\n\nCaptação RA1\n\n(ver documento original)\n\nCaptação FR6\n\n(ver documento original)\n\nPolo de captação dos Loios\n\nCaptação FR4\n\n(ver documento original)\n\nCaptação FR8\n\n(ver documento original)\n\nPolo de captação de Penalva\n\nCaptação FR5\n\n(ver documento original)\n\nPolo de captação de Coina\n\nCaptação FR7\n\n(ver documento original)"
+  },
+  "124311816": {
+   "fragment_id": "124315089",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o n.º 1 do artigo 4.º)\n\nZona de proteção alargada\n\nPolos de captação de Sete Portais, Vale Romão e Mercado Abastecedor\n\nCaptações AC3, AC5, FR1 e FR3\n\n(ver documento original)\n\nPolos de captação do Alto do Paiva, Parque da Cidade e Loios\n\nCaptações AC6, RA1, FR6, FR4 e FR8\n\n(ver documento original)\n\nPolo de captação de Penalva\n\nCaptação FR5\n\n(ver documento original)\n\nPolo de captação de Coina\n\nCaptação FR7\n\n(ver documento original)\n\nNota: As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central)."
+  },
+  "124311817": {
+   "fragment_id": "124315090",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o artigo 5.º)\n\nPlanta de localização das zonas de proteção\n\nExtrato da Carta Militar de Portugal.\n\nSérie M888 - 1/25.000 (IGeoE)\n\nPolos de captação de Sete Portais, Vale Romão e Mercado Abastecedor\n\n(ver documento original)\n\nPolos de captação do Alto do Paiva, Parque da Cidade e Loios\n\n(ver documento original)\n\nPolo de captação de Penalva\n\n(ver documento original)\n\nPolo de captação de Coina\n\n(ver documento original)"
+  },
+  "124311829": {
+   "fragment_id": "124315078",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2019-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - É aprovada a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público localizadas no concelho do Barreiro.\n\n2 - A delimitação de perímetros de proteção abrange as seguintes captações, cujas coordenadas constam do anexo I à presente portaria, que dela faz parte integrante:\n\na) AC3 do polo de captação de Sete Portais;\n\nb) AC5 e FR1 do polo de captação de Vale Romão;\n\nc) FR3 do polo de captação do Mercado Abastecedor;\n\nd) AC6 do polo de captação do Alto do Paiva;\n\ne) RA1 e FR6 do polo de captação do Parque da Cidade;\n\nf) FR4 e FR8 do polo de captação dos Loios;\n\ng) FR5 do polo de captação de Penalva;\n\nh) FR7 do polo de captação de Coina;\n\ni) RA2 do polo de captação do Alto do Romão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+  },
+  "124311812": {
+   "fragment_id": "124315085",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 15 de julho de 2014."
+  },
+  "124311830": {
+   "fragment_id": "124315086",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": "2019-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\n[...]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+  },
+  "124311831": {
+   "fragment_id": "124315087",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": "2019-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 2.º)\n\nPolo de captação de Alto do Romão\n\nCaptação RA2\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+  },
+  "124311832": {
+   "fragment_id": "124315088",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": "2019-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 3.º)\n\nPolo de captação de Alto do Romão\n\nCaptação RA2\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+  },
+  "124278786": {
+   "fragment_id": "124315089",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 1 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155)"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 1 do artigo 4.º)\n\nPolos de captação de Sete Portais, Vale Romão, Mercado Abastecedor e Alto do Romão\n\nCaptações AC3, AC5, FR1, FR3 e RA2\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155)"
+  },
+  "124278787": {
+   "fragment_id": "124315090",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o artigo 5.º)",
+   "in_force_from": "2019-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+   ],
+   "markdown": "## Anexo V — (a que se refere o artigo 5.º)\n\nPolos de captação de Sete Portais, Vale Romão, Mercado Abastecedor e Alto do Romão\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 280/2019 - Diário da República n.º 165/2019, Série I de 2019-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/280-2019-124283155), em vigor a partir de 2019-08-30"
+  }
+ }
+}

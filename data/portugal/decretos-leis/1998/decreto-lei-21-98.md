@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:223627:por
+title: Decreto-Lei n.º 21/98
+short_title: null
+summary: Cria a Comissão de Gestão de Albufeiras
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente
+proposing_entity: null
+official_number: 21/98
+official_date: null
+publication_date: '1998-02-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/1998, Série I-A de 1998-02-03
+  number: '28'
+  series: I
+  supplement: null
+  pages: 448 - 449
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/02/028a00/04480449.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/21/1998/02/03/p/dre/pt/html
+  oj: null
+  dre: '223627'
+  dre_path: /dr/detalhe/decreto-lei/21-1998-223627
+  internal: pt:dre:223627:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1998-223627
+  metadata_url: https://data.dre.pt/eli/dec-lei/21/1998/02/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1998-223627
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:58:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8231732e1e0b2f8328034ec3fa03380cab84e64423065faeac416b50968a18f5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Albufeiras
+- Barragem
+- Cheias
+- Comissão de Gestão de Albufeiras
+- Criação de Serviços
+- Definição de Competências
+- Ministério do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:307873:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:307873:por
+  label: "Substituído pelo Sistema de Vigilância e Alerta de Recursos Hídricos (SVARH) o Sistema de Vigilância e Alerta de\
+    \ Cheias, referido no presente diploma, pelo DEC LEI.115/2010.22.10.2010.MAOT, DR.IS [206] de 22.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2010-307873
+  date: '2010-10-22'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:58:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 21/98
+
+de 3 de Fevereiro
+
+A gestão concertada de grupos de albufeiras é uma tarefa complexa, devido à necessidade de harmonizar os objectivos dos diferentes utilizadores envolvidos. Tal harmonização assume contornos de verdadeira resolução de conflitos não só nas épocas do ano em que geralmente se processa o enchimento das albufeiras (Outono-Inverno) como também no período complementar em que se procede, geralmente, ao seu esvaziamento (Primavera-Verão).
+
+Os conflitos de gestão no período de enchimento derivam do facto de este ser encarado pelos maiores utilizadores (de energia hidroeléctrica, de rega e de abastecimento) como a oportunidade de valorização da função de armazenamento da albufeira, enquanto o objectivo da protecção civil é o de cativar o volume possível para encaixe de prováveis cheias.
+
+Ainda que os maiores utilizadores da água possuam regras de exploração que não comprometem a segurança das barragens, a salvaguarda dos bens de algumas populações e da circulação em redes viárias a jusante das albufeiras começa muito antes dos níveis de segurança das barragens.
+
+A estes aspectos há ainda que acrescentar a particularidade das confluências de rios, quando controlados por albufeiras, que poderão amplificar cheias se os lançamentos de água em cada sistema fluvial se sincronizarem com as pontas de cheias a jusante.
+
+Os conflitos de gestão no período de esvaziamento estão geralmente associados à necessidade de manutenção de caudais ecológicos para assegurar a sobrevivência de ecossistemas, caudais esses que não devem ser considerados como consumos.
+
+Em situação de escassez, a resolução de conflitos de utilização da água passa pela atribuição de prioridades na sua fruição, constituindo-se o abastecimento público como prioritário em absoluto.
+
+Durante as cheias do ano passado, bem como durante o último período de precipitação e de caudais elevados, o Ministério do Ambiente, através do Instituto da Água (INAG) e das direcções regionais do ambiente e recursos naturais (DRARN), promoveu uma colaboração muito estreita com os serviços de protecção civil, as empresas do grupo EDP - Electricidade de Portugal, S. A., as entidades gestoras de aproveitamentos hidroagrícolas e as autoridades espanholas no domínio da troca de informação e da coordenação da exploração de albufeiras, que foi, na generalidade, reconhecida como positiva.
+
+Considerando os trabalhos que estão a ser desenvolvidos pelo Instituto da Água no âmbito do Sistema Nacional de Vigilância e Alerta de Cheias - como parte integrante do Sistema Nacional de Informação de Recursos Hídricos (SNIRH) -, do acompanhamento das situações de cheia no País e da elaboração de modelos de previsão de cheias;
+
+Considerando que, por via de regra, não têm sido aplicados em Portugal modelos de gestão de cheias com um enfoque mais amplo do que o mero aproveitamento:
+
+Entende-se conveniente criar um órgão permanente de intervenção e de acompanhamento da gestão das albufeiras.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+1 - É criada a Comissão de Gestão de Albufeiras, doravante designada por Comissão, directamente dependente do Ministro do Ambiente e que tem como atribuição a coordenação do planeamento e da exploração de albufeiras.
+
+2 - A Comissão goza de autonomia técnica e, no exercício das suas funções, respeitará os direitos dos concessionários e demais utilizadores do domínio hídrico.
+
+###### Artigo 2.º
+
+1 - A Comissão é de âmbito nacional, sem prejuízo de a sua actuação ser determinada por uma bacia ou por um conjunto de bacias hidrográficas.
+
+2 - De acordo com as particularidades climáticas e hidrológicas, são três as zonas territoriais de intervenção da Comissão:
+
+a) Zona norte, que integra as bacias dos rios Minho, Lima, Cávado, Ave, Leça e Douro e as pequenas bacias intermédias;
+
+b) Zona centro, que integra as bacias dos rios Vouga, Mondego, Lis e Tejo e as pequenas bacias intermédias;
+
+c) Zona sul, que integra as bacias dos rios Sado, Mira, Arade e Guadiana e as pequenas bacias intermédias.
+
+###### Artigo 3.º
+
+Compete à Comissão:
+
+a) Elaborar o seu regulamento interno de funcionamento, a aprovar por despacho conjunto dos Ministros da Administração Interna, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente;
+
+b) Estabelecer o regulamento técnico que estipula as regras de elaboração dos programas de exploração e define os níveis máximos e mínimos de armazenamento das albufeiras, a aprovar por portaria dos ministros referidos na alínea anterior;
+
+c) Apreciar, avaliar e aprovar os programas de exploração das albufeiras apresentados pelas entidades responsáveis pela respectiva exploração.
+
+###### Artigo 4.º
+
+1 - Em situações de emergência provocadas por iminência ou ocorrência de cheias ou ruptura de barragens, a Comissão constitui-se em comité permanente, para tomar as medidas adequadas ao acompanhamento da sua evolução.
+
+2 - Compete ao comité permanente, sem prejuízo das competências legalmente conferidas aos órgãos de protecção civil:
+
+a) A gestão coordenada das descargas, em colaboração com as entidades responsáveis pela exploração, incluindo, no caso das bacias internacionais, as autoridades espanholas, nos termos dos respectivos instrumentos de cooperação;
+
+b) Decidir e adoptar as medidas oportunas, incluindo as de encaixe e de descarga extraordinária, que serão imediatamente comunicadas aos serviços competentes dos Ministérios da Administração Interna e do Ambiente;
+
+c) Garantir o funcionamento permanente e actualizado do Sistema de Vigilância e Alerta de Cheias, que tem vindo a ser desenvolvido pelo Instituto da Água (INAG);
+
+d) Informar os órgãos do Sistema de Protecção Civil envolvidos sobre o desenrolar da situação.
+
+3 - Em situação de ruptura de barragens, cabe ainda ao comité permanente articular a sua intervenção com a entidade responsável pela exploração da albufeira em causa.
+
+4 - Em todas as situações de emergência, o comité permanente elaborará um relatório final circunstanciado, a comunicar aos serviços competentes dos Ministérios da Administração Interna e do Ambiente e a apresentar em reunião da Comissão.
+
+###### Artigo 5.º
+
+1 - A Comissão é constituída, em plenário, pelas seguintes entidades:
+
+a) Presidente do INAG, que preside;
+
+b) Director-geral da Marinha;
+
+c) Presidente do Serviço Nacional de Protecção Civil;
+
+d) Director-geral da Energia;
+
+e) Presidente do Instituto de Hidráulica, Engenharia Rural e Ambiente;
+
+f) Presidente do Instituto de Meteorologia;
+
+g) Director regional de cada direcção regional do ambiente e recursos naturais (DRARN);
+
+h) Director de Serviços de Planeamento do INAG, que secretaria;
+
+i) Director de Serviços de Recursos Hídricos do INAG;
+
+j) Director de Serviços de Projectos e Obras do INAG;
+
+l) Um representante das empresas do grupo EDP - Electricidade de Portugal, S. A.
+
+2 - Quando reunida em subcomissão regional, dela também fazem parte, até um número máximo de cinco, os utilizadores designados por despacho do Ministro do Ambiente, sob proposta do Conselho Nacional da Água.
+
+3 - Na ausência do presidente do INAG, a Comissão é presidida por um dos vice-presidentes desse Instituto ou por quem aquele expressamente designar para o efeito.
+
+4 - O presidente e os restantes membros da Comissão, com excepção dos directores de serviços do INAG, têm direito a voto, sendo de qualidade o do presidente em caso de empate.
+
+5 - Cada membro da Comissão tem obrigatoriamente que designar um substituto para as situações de impedimento.
+
+###### Artigo 6.º
+
+O comité permanente é constituído pelo presidente do INAG, que preside, pelo presidente do Serviço Nacional de Protecção Civil, pelo director-geral da Energia, pelo presidente do Instituto de Hidráulica, Engenharia Rural e Ambiente, pelo director de Serviços de Recursos Hídricos do INAG e pelo director de Serviços de Projectos e Obras do INAG.
+
+###### Artigo 7.º
+
+A Comissão funciona em plenário para o exercício das competências previstas nas alíneas a) e b) do artigo 3.º e em subcomissão regional, segundo a divisão territorial estabelecida no presente diploma, para o exercício da competência mencionada na alínea c) do mesmo artigo.
+
+###### Artigo 8.º
+
+1 - A Comissão reúne pelo menos duas vezes por ano: uma no início do ano hidrológico, para discutir e aprovar os programas de exploração de albufeiras previamente apresentados pelas respectivas entidades responsáveis, e outra no início da Primavera, para proceder à reavaliação dos programas de exploração em face dos recursos disponíveis.
+
+2 - A Comissão reunirá extraordinariamente a solicitação do seu presidente ou por proposta de, pelo menos, um terço dos seus membros.
+
+###### Artigo 9.º
+
+Compete ao presidente da Comissão marcar as reuniões e convocar os seus membros, fazer executar as deliberações e, em caso de incumprimento por parte das entidades responsáveis pela exploração, dar conhecimento às autoridades competentes com vista ao respectivo procedimento.
+
+###### Artigo 10.º
+
+1 - O comité permanente pode ser convocado de emergência por qualquer dos seus membros.
+
+2 - Uma vez constituído, o comité permanente passa a funcionar imediatamente e em permanência.
+
+3 - As medidas adoptadas pelo comité permanente são de aplicação imediata e de cumprimento obrigatório.
+
+4 - A execução das decisões do comité permanente é fiscalizada pelos organismos regionais ou locais de protecção civil e pelos governos civis.
+
+###### Artigo 11.º
+
+1 - O comité permanente utilizará como sistema de informação o Sistema de Vigilância e Alerta de Cheias.
+
+2 - O Sistema referido no número anterior congrega toda a informação necessária, nomeadamente a meteorológica, a hidrométrica e a relativa à situação e exploração das albufeiras.
+
+3 - Para os efeitos mencionados no número anterior, o regulamento técnico deverá especificar as metodologias e procedimentos que assegurem a qualidade da informação.
+
+###### Artigo 12.º
+
+A Comissão e o comité permanente funcionam junto do INAG, que suportará todos os encargos decorrentes do respectivo funcionamento.
+
+Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 8 de Janeiro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 19 de Janeiro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

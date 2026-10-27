@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995R0542:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995R0542-20031001",
+ "dre_path": null,
+ "source_lastmod": "2003-10-01",
+ "versions": [
+  {
+   "date": "1995-03-11",
+   "future": false,
+   "celex": "31995R0542",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "be6084e9ad8f1f1e",
+    "1c1076c3644968f0",
+    "e520777d97fda74e",
+    "2d03f1cb770c5057",
+    "ef0aefab5c00dd58",
+    "f68944c5b13fe952",
+    "7da159d4f9dc3145",
+    "83c0c30bd3e85ed9",
+    "2ee87018fca6f976",
+    "65bd93a7fae2ec8e",
+    "9fda0831a1d40dab",
+    "73af783e9e6365e5"
+   ]
+  },
+  {
+   "date": "2003-10-01",
+   "future": false,
+   "celex": "01995R0542-20031001",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime ANEXO I — ALTERAÇÕES MENORES (DO TIPO I) DE AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO, REFERIDAS NO Nº 1 DO ARTIGO 3º Generalidades",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "3424ee253010fc71"
+   ]
+  }
+ ],
+ "fragments": {
+  "be6084e9ad8f1f1e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 542/95 da Comissão, de 10 de Março de 1995, relativo à análise da alteração dos termos das autorizações de introdução no mercado de medicamentos abrangidas pelo Regulamento (CEE) nº 2309/93 do Conselho** *Jornal Oficial nº L 055 de 11/03/1995 p. 0015 - 0021*\n\nREGULAMENTO (CE) Nº 542/95 DA COMISSÃO de 10 de Março de 1995 relativo à análise da alteração dos termos das autorizações de introdução no mercado de medicamentos abrangidas pelo Regulamento (CEE) nº 2309/93 do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 2309/93 do Conselho, de 22 de Julho de 1993, que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui uma Agência Europeia de Avaliação dos Medicamentos (1), e, nomeadamente, o nº 4 do seu artigo 15º e o nº 4 do seu artigo 37º,\n\nConsiderando que devem ser adoptadas medidas adequadas no que respeita à análise da alteração dos termos da autorização de introdução no mercado de medicamentos autorizados em conformidade com o Regulamento (CEE) nº 2309/93;\n\nConsiderando que é apropriado introduzir um sistema de notificação ou procedimentos administrativos relativos a alterações menores, para o que importa definir de modo preciso « alterações menores »;\n\nConsiderando, além disso, que é necessário discriminar, no âmbito das alterações que não possam ser classificadas como menores, aquelas que alterem tão fundamentalmente a autorização de introdução no mercado, designadamente no que respeita à qualidade, segurança ou eficácia dos medicamentos, que seja necessário um novo pedido de autorização de introdução no mercado;\n\nConsiderando que o disposto no presente regulamento está em conformidade com o parecer do Comité permanente dos medicamentos de uso humano e do Comité permanente dos medicamentos de uso veterinário,\n\nADOPTOU O PRESENTE REGULAMENTO:\n\nÂmbito de aplicação e definições"
+  },
+  "1c1076c3644968f0": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece o procedimento de análise dos pedidos de alteração dos termos das autorizações de comercialização concedidas em conformidade com o Regulamento (CEE) nº 2309/93.\n\n2. O presente regulamento não obsta a que os detentores das autorizações de introdução no mercado adoptem medidas urgentes de segurança, em caso de risco para a saúde pública ou animal. O detentor deve informar de imediato a Agência Europeia de Avaliação dos Medicamentos (a seguir denominada « Agência »). Caso esta não levante qualquer objecção no prazo de 24 horas, podem ser aplicadas as referidas medidas urgentes de segurança, devendo o pedido para a alteração em questão ser submetido à Agência, com vista à aplicação do disposto nos artigos 6º e 7º do presente regulamento."
+  },
+  "e520777d97fda74e": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos do disposto no presente regulamento, entende-se por:\n\n1. « Alteração dos termos de uma autorização de introdução no mercado »: qualquer alteração do conteúdo dos documentos referidos nos nºs1 e 2 do artigo 6º ou nos nºs1 e 2 do artigo 28º do Regulamento (CEE) nº 2309/93, com a redacção que tinham aquando da adopção da decisão relativa à autorização de introdução no mercado em conformidade com o artigo 10º ou 32º do referido regulamento, ou após a aprovação de quaisquer alterações prévias, excepto se for necessário apresentar um novo pedido de autorização de introdução no mercado, nos termos do anexo II do presente regulamento.\n\n2. « Medida urgente de segurança »: uma mudança transitória da informação sobre o medicamento, efectuada pelo detentor da autorização de introdução no mercado, que restrinja a(s) indicação(ões) e/ou a dosse e/ou a espécie a que a o medicamento se destina, ou que introduza uma contra-indicação e/ou advertência em virtude de novos dados relacionados com a segurança da utilização do medicamento."
+  },
+  "2d03f1cb770c5057": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. a) Entende-se por « alteração menor » (ou do tipo I) qualquer alteração descrita no artigo 2º e constante do anexo I do presente regulamento, desde que sejam observadas as respectivas condições previstas no referido anexo,\n\nb) Entende-se por « alteração maior » (ou do tipo II) qualquer alteração descrita no artigo 2º que não possa ser considerada do tipo I na acepção da alínea anterior.\n\n2. Para efeitos do disposto no presente regulamento, não se considera alteração, na acepção do ponto 1 do artigo 2º, a transferência da autorização de introdução no mercado para um novo detentor, excepto nos casos previstos no ponto 3 do anexo I do presente regulamento, nem qualquer alteração do limite máximo de resíduos (LMR).\n\nProcedimento de notificação de alterações menores"
+  },
+  "ef0aefab5c00dd58": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Para que obtenha uma alteração do tipo I, o detentor da autorização de introdução no mercado deve apresentar à Agência um pedido acompanhado de documentos comprovativos da observância das condições estabelecidas no anexo I do presente regulamento para a alteração solicitada, bem como todos os documentos alterados em virtude do pedido.\n\n2. Os pedidos formulados nos termos do nº 1 não podem abranger mais do que uma alteração da autorização de introdução no mercado. Cada requerimento apresentado nos termos do nº 1 deve dizer respeito a apenas uma alteração, devendo em caso de serem requeridas simultaneamente várias alterações, cada pedido referir os outros requerimentos.\n\n3. Sem prejuízo do disposto no nº 2, se uma alteração da autorização de introdução no mercado tiver como consequência outras alterações, estas poderão ser incluídas no mesmo requerimento, o qual deverá descrever a relação entre a alteração principal e as alterações consequentes.\n\n4. Para que se possa considerar válido na acepção do nº 1, o pedido deve observar o disposto no presente artigo e ser acompanhado da taxa respectiva prevista na regulamentação comunitária aplicável."
+  },
+  "f68944c5b13fe952": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Se, no prazo de 30 dias após a recepção de um pedido válido, tal como pevisto no artigo 4º, a Agência não tiver enviado ao detentor da autorização de introdução no mercado a notificação prevista no nº 4, o pedido de alteração deve ser considerado deferido.\n\n2. Dentro do prazo referido no número anterior, a Agência deve informar a Comissão sobre a alteração a introduzir nos termos da autorização de introdução no mercado. Se necessário, a Comissão poderá alterar a decisão adoptada ao abrigo do artigo 10º ou 32º do Regulamento (CEE) nº 2309/93. A decisão assim alterada entrará em vigor retroactivamente no dia que se segue ao final do período referido no nº 1.\n\n3. O registo comunitário dos medicamentos previsto nos artigos 12º e 34º do Regulamento (CEE) nº 2309/93 será actualizado em conformidade.\n\n4. Em caso de indeferimento a Agência deve notificar o requerente da autorização de introdução no mercado no prazo referido no nº 1, mencionando os respectivos fundamentos de tal parecer;\n\na) No prazo de 30 dias após a recepção da referida notificação, o detentor da autorização de introdução no mercado pode alterar o pedido por forma a atender devidamente aos fundamentos invocados na notificação aplicando-se, neste caso, ao pedido alterado o disposto nos nºs1, 2 e 3;\n\nb) Se o requerente não alterar, ou não puder alterar, os pedidos tal como previsto na alínea a), considerar-se-á que todos os pedidos foram indeferidos.\n\nProcedimento de aprovação de alterações maiores"
+  },
+  "7da159d4f9dc3145": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Para obter uma alteração do tipo II, o detentor da autorização de introdução no mercado deve enviar à Agência um pedido acompanhado dos dados e respectivos documentos comprovativos referidos no nº 1 do artigo 2º do presente regulamento.\n\nO pedido deve igualmente ser acompanhado de:\n\n- dados confirmativos no que respeita à alteração solicitada,\n\n- todos os documentos alterados no âmbito do pedido,\n\n- um adenda ou uma actualização dos relatórios de peritos existentes, que atendam à alteração solicitada.\n\n2. Os pedidos formulados nos termos do nº 1 não podem abranger mais do que uma alteração da autorização de introdução no mercado. Cada requerimento apresentado nos termos do nº 1 deve dizer respeito a apenas uma alteração, devendo, em caso de serem requeridas simultaneamente várias alterações, cada pedido referir os outros requerimentos.\n\n3. Sem prejuízo do disposto no nº 2, se uma alteração da autorização de introdução no mercado tiver como consequência outras alterações, estas poderão ser incluídas no mesmo requerimento, o qual deverá descrever a relação entre a alteração principal e as alterações consequentes.\n\n4. Para que se possa considerar válido nos termos do nº 1, o pedido deve observar o disposto no presente artigo e ser acompanhado da taxa respectiva prevista na regulamentação comunitária aplicável."
+  },
+  "83c0c30bd3e85ed9": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O comité competente da Agência deverá emitir o seu parecer no prazo de 60 dias após a recepção de um pedido válido, tal como disposto no artigo 6º\n\n2. Durante esse período, o comité competente pode enviar ao requerente um único pedido de informações suplementares em relação às já prestadas ao abrigo do artigo 6º Este período poderá ser alargado por um período determinado pelo comité competente, por sua própria iniciativa ou a pedido do detentor da autorização de introdução no mercado."
+  },
+  "2ee87018fca6f976": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Se o comité competente emitir um parecer favorável, a Agência deve imediatamente informar o detentor da autorização de introdução no mercado e a Comissão desse facto, bem como enviar à Comissão as alterações a introduzir nos termos da autorização de introdução no mercado, acompanhadas dos documentos previstos no nº 3 do artigo 9º do Regulamento (CEE) nº 2309/93.\n\n2. Se o comité competente emitir um parecer desfavorável, aplica-se o processo de recurso previsto nos nºs1 e 2 do artigo 9º e nos nºs1 e 2 do artigo 31º do Regulamento (CEE) nº 2309/93.\n\n3. A decisão que altera os termos da autorização de introdução no mercado deve ser adoptada em conformidade com o procedimento previsto no artigo 10º ou no artigo 32º do Regulamento (CEE) nº 2309/93.\n\n4. O registo comunitário dos medicamentos previsto nos artigos 12º e 34º do Regulamento (CEE) nº 2309/93 será actualizado em conformidade."
+  },
+  "65bd93a7fae2ec8e": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 10 de Março de 1995.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO nº L 214 de 24. 8. 1993, p. 1."
+  },
+  "9fda0831a1d40dab": {
+   "fragment_id": "ANEXO I — ALTERAÇÕES MENORES (DO TIPO I) DE AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO, REFERIDAS NO Nº 1 DO ARTIGO 3º Generalidades",
+   "type": "divisao",
+   "heading": "ANEXO I — ALTERAÇÕES MENORES (DO TIPO I) DE AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO, REFERIDAS NO Nº 1 DO ARTIGO 3º Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ALTERAÇÕES MENORES (DO TIPO I) DE AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO, REFERIDAS NO Nº 1 DO ARTIGO 3º Generalidades\n\nA. Por derrogação, no que respeita aos medicamentos abrangidos pelas Directivas 89/342/CEE (1), 89/381/CEE (2) ou 90/677/CEE (3) ou pela parte A do anexo do Regulamento (CEE) nº 2309/93, aplica-se às alterações menores nºs11, 12, 13, 14, 15, 16, 17, 24, 25 e 30 adiante indicadas o procedimento previsto nos artigos 6º e 7º do presente regulamento.\n\nB. Se uma alteração requerer a actualização da informação relativa ao medicamento (resumo das características do medicamento, rotulagem e folheto informativo), esta considera-se parte integrante da alteração e o prazo para a implementação da referida actualização deverá ser aceite pela Agência quando da aprovação da alteração.\n\n1. Alteração dos termos da autorização de fabrico\n\nCondições a observar: deve ser apresentada à Agência a nova autorização de fabrico aprovada pelas autoridades competentes.\n\n2. Alteração de denominação do medicamento (quer da denominação de fantasia, quer da denominação comum)\n\nCondições a observar: deve evitar-se a confusão com as denominações de outros medicamentos já existentes; se se tratar de uma denominação comum, a alteração deverá efectuar-se respeitando a ordem de preferência que se segue: denominação comum internacional, denominação na farmacopeia ou denominação comum.\n\n3. Alteração do nome e/ou morada do detentor da autorização de introdução no mercado\n\n[ver artigo 4º, alínea a), da Directiva 65/65/CEE do Conselho (4) ou artigo 5º, alínea a), da Directiva 81/851/CEE do Conselho (5)]\n\nCondições a observar: o detentor da autorização de introdução no mercado deve continuar a ser a mesma entidade.\n\n4. Substituição de um excipiente por outro excipiente comparável (excluindo os adjuvantes das vacinas e os excipientes de origem biológica)\n\nCondições a observar: mesmas características funcionais e perfil de dissolução inalterado no que respeita às formas sólidas.\n\n5. Supressão de um corante ou substituição de um corante por outro\n\n6. Adição, supressão ou substituição de um aromatizante\n\nCondições a observar: o aromatizante proposto deve estar em conformidade com a Directiva 88/388/CEE do Conselho (6).\n\n7. Alteração da composição quantitativa do revestimento dos comprimidos ou do envólucro das cápsulas\n\nCondições a observar: perfil de dissolução inalterado.\n\n8. Alteração na composição qualitativa do material de acondicionamento primário\n\nCondições a observar: o material de acondicionamento proposto deve ser pelo menos equivalente ao material aprovado no que respeita às propriedades relevantes e a alteração não diz respeito a produtos estéreis.\n\n9. Supressão de uma indicação\n\nCondições a observar: os dados em termos de farmacovigilância, segurança pré-clínica ou qualidade não põem em causa a segurança da utilização do medicamento. Deverá ser apresentada uma justificação.\n\n10. Supressão de uma via de administração\n\nCondições a observar: os dados em termos de farmacovigilância, segurança pré-clínica ou qualidade não põem em causa a segurança da utilização do medicamento. Deverá apresentar-se uma justificação.\n\n11. Mudança de fabricante da substância activa\n\nCondições a observar: as especificações, a via de síntese e os procedimentos de controlo da qualidade são os já aprovados ou é apresentado um certificado de adequação da farmacopeia europeia no respeitante à substância activa.\n\n12. Alteração menor do processo de fabrico da substância activa\n\nCondições a observar: as especificações não são modificadas no sentido negativo; as propriedades físico-químicas não são alteradas e não há novas impurezas nem alteração do nível de impurezas que exijam novos estudos de segurança.\n\n13. Alteração da dimensão dos lotes da substância activa\n\nCondições a observar: os dados de cada lote devem demonstrar que a alteração não afecta a consistência da produção nem as propriedades físicas.\n\n14. Alteração das especificações da substância activa\n\nCondições a observar: especificações mais estritas ou introdução de novos ensaios e limites adicionais.\n\n15. Alterações no fabrico do medicamento\n\nCondições a observar: as especificações do medicamento não são modificadas no sentido negativo; o novo processo deve conduzir a um produto idêntico em termos de qualidade, segurança e eficácia.\n\n16. Alteração da dimensão dos lotes do produto acabado\n\nCondições a observar: a alteração não afecta a consistência da produção.\n\n17. Alteração da especificação do medicamento\n\nCondições a observar: especificações mais estritas ou introdução de ensaios e limites adicionais.\n\n18. Alterações na via de síntese ou no rendimento de fabrico de excipientes que não constam da farmacopeia e não foram descritos no dossier original\n\nCondições a observar: as especificações não são modificadas no sentido negativo; não há novas impurezas nem alteração do nível de impurezas que exijam novos estudos de segurança; as propriedades físico-químicas não são alteradas.\n\n19. Alteração na especificação dos excipientes do medicamento (excluindo os adjuvantes de vacinas)\n\nCondições a observar: especificações mais estritas ou introdução de ensaios ou limites adicionais.\n\n20. Alargamento do prazo de validade previsto aquando da autorização\n\nCondições a observar: foram efectuados estudos de estabilidade em conformidade com o protocolo aprovado aquando da concessão da autorização de introdução no mercado; os estudos devem comprovar que as especificações relativas ao fim do prazo de validade continuam a ser observadas; o prazo de validade não deve exceder cinco anos.\n\n21. Alteração do prazo de validade após a abertura inicial\n\nCondições a observar: os estudos devem comprovar que as especificações estabelecidas para o fim do prazo de validade acordado continuam a ser observadas.\n\n22. Alteração do prazo de validade após a reconstituição\n\nCondições a observar: os estudos devem comprovar que o produto reconstituído deve continuar a observar as especificações estabelecidas para o fim do prazo de validade acordado.\n\n23. Alteração das condições de armazenamento\n\nCondições a observar: foram efectuados estudos de estabilidade em conformidade com o protocolo aprovado aquando da concessão da autorização de introdução no mercado; os estudos devem comprovar que as especificações estabelecidas para o fim de prazo de validade acordado continuam a ser observadas.\n\n24. Alteração do procedimento de ensaio da substância activa\n\nCondições a observar: os resultados do método de validação comprovam que o novo procedimento analítico é, pelo menos, equivalente ao anterior.\n\n25. Alteração dos procedimentos de ensaio do medicamento\n\nCondições a observar: as especificações do medicamento não são modificadas no sentido negativo: os resultados da validação do método comprovam que o novo procedimento analítico é pelo menos equivalente ao anterior.\n\n26. Alterações destinadas a cumprir o disposto nos suplementos às farmacopeias (1)\n\nCondições a observar: alterações exclusivamente destinadas a implementar as novas disposições do suplemento.\n\n27. Alteração dos procedimentos analíticos de excipientes não referidos em farmacopeias\n\nCondições a observar: os resultados da validação do método comprovam que o novo processo de ensaio é pelo menos equivalente ao anterior.\n\n28. Alteração do procedimento analítico do acondicionamento primário\n\nCondições a observar: os resultados da validação do método comprovam que o novo processo de ensaio é pelo menos equivalente ao anterior.\n\n29. Alteração do procedimento analítico do dispositivo de administração\n\nCondições a observar: os resultados dos métodos de validação comprovam que o novo processo de ensaio é pelo menos equivalente ao anterior.\n\n30. Alteração da dimensão da embalagem de um medicamento de uso veterinário\n\nCondições a observar: as especificações do medicamento não são afectadas; a nova dimensão é compatível com a posologia e a duração de utilização aprovadas no resumo das características do medicamento; a alteração não se refere a preparações parentéricas.\n\n31. Alteração da forma do recipiente\n\nCondições a observar: inexistência de alterações da qualidade e da estabilidade do medicamento no recipiente, bem como de interacções recipiente-produto.\n\n32. Alteração da gravação, do relevo ou de outras marcações (excepto as ranhuras) de comprimidos ou de cápsulas\n\nCondições a observar: as novas marcações não devem criar confusões com outros comprimidos ou cápsulas.\n\n33. Alteração das dimensões dos comprimidos, cápsulas, supositórios ou pessários sem alteração da sua composição quantitativa nem do seu peso médio.\n\nCondições a observar: perfil de dissolução inalterado.\n\n(1) JO nº L 142 de 25. 5. 1989, p. 14.\n\n(2) JO nº L 181 de 28. 6. 1989, p. 44.\n\n(3) JO nº L 373 de 31. 12. 1990, p. 26.\n\n(4) JO nº 22 de 9. 2. 1965, p. 369/65.\n\n(5) JO nº L 317 de 6. 11. 1981, p. 7.\n\n(6) JO nº L 184 de 15. 7. 1988, p. 61.\n\n(7) Se o dossier se referir à versão « actual » da farmacopeia, não há que proceder à notificação, desde que a alteração seja efectuada no prazo de seis meses após a adopção da monografia."
+  },
+  "73af783e9e6365e5": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nAlterações de autorizações de introdução no mercado que conduzam a um novo pedido, de acordo com o disposto no artigo 2º Algumas alterações das autorizações de introdução no mercado modificam de modo substancial os termos destas autorizações e não podem, portanto, ser consideradas uma alteração na acepção do nº 4 do artigo 15º e do nº 4 do artigo 37º do Regulamento (CEE) nº 2309/93. No que respeita às alterações que se seguem, dever-se-á apresentar um novo pedido de autorização de introdução no mercado. O presente anexo não prejudica o disposto no artigo 4º da Directiva 65/65/CEE nem no artigo 5º da Directiva 81/851/CEE. Ao avaliar o pedido de uma nova autorização de introdução no mercado, a Agência deve igualmente verificar se a autorização existente deve ou não ser revogada em conformidade com a legislação comunitária.\n\nAlterações que carecem de um novo pedido 1. Alterações da(s) substância(s) activa(s):\n\ni) Introdução de uma ou mais substâncias activas, incluindo componentes antigénicos de vacinas;\n\nii) Supressão de uma ou mais substâncias activas, incluindo componentes antigénicos de vacinas;\n\niii) Alteração quantitativa das substâncias activas;\n\niv) Substituição da ou das substâncias activas por um sal ou éster diferente (complexo/derivado) (com a mesma parte activa terapêutica);\n\nv) Substituição por um outro isómero ou por uma mistura de isómeros diferentes, ou de uma mistura por um único isómero (por exemplo, de uma mistura racémica por um único enantiómero);\n\nvi) Substituição de uma substância biológica ou de um produto biotecnológico por outro com estrutura molecular diferente; alteração do vector utilizado para produzir o antigénio/material de origem, incluindo um banco de células de referência de origem diferente;\n\nvii) Novo ligando ou mecanismo de acoplamento de produtos radiofarmacêuticos;\n\n2. Alterações das indicações terapêuticas (1):\n\ni) Nova indicação para uma área terapêutica diferente, nos domínios do tratamento, do diagnóstico ou da profilaxia;\n\nii) Alteração da indicação para uma área terapêutica diferente, nos domínios do tratamento, do diagnóstico ou da profilaxia.\n\n3. Alteração da dosagem, da forma farmacêutica e da via de administração (2):\n\ni) Alteração da biodisponibilidade;\n\nii) Alteração da farmacocinética, como a alteração da taxa de libertação;\n\niii) Introdução de uma nova dosagem;\n\niv) Alteração ou introdução de uma nova forma farmacêutica;\n\nv) Introdução de uma nova via de administração.\n\n4. Outras alterações específicas dos medicamentos de uso veterinário destinados a animais produtores de alimentos:\n\ni) Adição ou alteração das espécies a que se destinam;\n\nii) Encurtamento do intervalo de segurança.\n\n(1) A área terapêutica é definida como sendo o terceiro nível do Anatomical Therapeutic Chemical Code (A.T.C./A.T.C. Vet).\n\n(2) No que respeita à administração parentérica, importa distinguir entre as vias intra-arterial, endovenosa, intramuscular, subcutânea e outras. No que respeita à administração a aves de capoeira, as vias respiratória, oral e ocular (nebulização) utilizadas na vacinação são consideradas as vias de administração equivalentes."
+  },
+  "3424ee253010fc71": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995R0542 — PT — 01.10.2003 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31995R0542) [REGULAMENTO (CE) Nº 542/95 DA COMISSÃO](http://publications.europa.eu/resource/celex/31995R0542) [de 10 de Março de 1995](http://publications.europa.eu/resource/celex/31995R0542) [relativo à análise da alteração dos termos das autorizações de introdução no mercado de medicamentos abrangidas pelo Regulamento (CEE) nº 2309/93 do Conselho](http://publications.europa.eu/resource/celex/31995R0542) (JO L 055, 11.3.1995, p.15)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1085/2003 da Comissão de 3 de Junho de 2003](http://publications.europa.eu/resource/celex/32003R1085) — L 159 — 24 — 27.6.2003"
+  }
+ }
+}

@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:354689:por
+title: Decreto n.º 787/75
+short_title: null
+summary: Autoriza pagamentos em conta da verba de despesas de anos findos
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 787/75
+official_date: null
+publication_date: '1975-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1975, 8º Suplemento, Série I de 1975-12-31
+  number: '300'
+  series: I
+  supplement: null
+  pages: 2160-(140) a 2160-(142)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30008/01400142.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '354689'
+  dre_path: /dr/detalhe/decreto/787-1975-354689
+  internal: pt:dre:354689:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/787-1975-354689
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/787-1975-354689
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:40:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ecbb421e13617c023f7c86606e50fbabd8fcb2cee945f43ea092e90c861bb91c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:40:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Direcção Geral da Contabilidade Pública
+- Encargos Gerais da Nação
+- Orçamento Geral do Estado
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:40:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 787/75
+
+de 31 de Dezembro
+
+Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, e mediante propostas aprovadas nos termos do mesmo artigo;
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São autorizadas as delegações da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de «Despesas de anos findos» inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+
+Encargos Gerais da Nação
+
+Despesas do ano de 1974 respeitantes a comunicações, a satisfazer pela Secretaria-Geral da Presidência do Conselho de Ministros ... 7571$70
+
+Defesa Nacional
+
+Estado-Maior-General das Forças Armadas e Departamento da Força Aérea
+
+Encargos dos anos de 1973 e 1974 relativos a subsídio de deslocamento, vencimentos, gratificações, ajudas de custo e alimentação, a pagar pelo Estado-Maior-General das Forças Armadas e Direcção do Serviço de Intendência e Contabilidade da Força Aérea ... 155118$00
+
+Ministério das Finanças
+
+Encargos dos anos de 1967, 1968 e 1972 a 1974 referentes a publicidade e propaganda, deslocações, despesas no estrangeiro e trabalhos especiais diversos, a satisfazer pelas Direcções de Finanças dos distritos de Lisboa, Beja e Porto, Direcções-Gerais da Contabilidade Pública e das Contribuições e Impostos e Direcção-Geral dos Serviços da Junta do Crédito Público ... 1337796$40
+
+Ministério da Justiça
+
+Despesas do ano de 1974 respeitantes a deslocações, encargos com a saúde e consumos de secretaria, a pagar pela Direcção-Geral dos Serviços Prisionais e Subdirectoria de Lisboa da Polícia Judiciária ... 111504$50
+
+Defesa Nacional
+
+Departamento do Exército
+
+Despesas dos anos de 1966 a 1974 respeitantes a vencimentos, salários, prés, ajudas de custo, pensões de invalidez e de reserva, subsídio de férias, gratificações, diuturnidades, subsídio de alimentação, subsídio de deslocamento, rações de combate, subsídio por morte, combustíveis e lubrificantes, conservação e aproveitamento de bens, subsídio de guarnição, tratamento hospitalar, horas extraordinárias, alimentação e ajudas de custo, a satisfazer pela Repartição de Oficiais da Direcção do Serviço de Pessoal, Conselho Administrativo da Direcção do Serviço de Administração e diversos conselhos administrativos de unidades e estabelecimentos militares ... 139144198$10
+
+Defesa Nacional
+
+Departamento da Marinha
+
+Encargos do ano de 1974 respeitantes a abono de representação, encargos não especificados, ajudas de custo, transportes, alimentação, subsídios de embarque e de deslocamento, encargos com a saúde, combustíveis e lubrificantes, bens não duradouros, encargos próprios das instalações, comunicações, aluguer de linhas telefónicas e conservação e aproveitamento de bens, a satisfazer por diversos conselhos administrativos ... 11965282$00
+
+Ministério dos Negócios Estrangeiros
+
+Despesas dos anos de 1968 e 1971 a 1974 referentes a consumos de secretaria, pensão provisória de aposentação, deslocações, encargos não especificados, ajudas de custo, despesas de representação, comunicações, seguros de material, combustíveis e lubrificantes, equipamento de secretaria, trabalhos especiais diversos, vestuário e artigos pessoais-compensação de encargos, material de educação, cultura e recreio, alimentação, roupas e calçado, abonos para instalação, maquinaria e equipamento, encargos próprios das instalações, remunerações por serviços auxiliares, material de aquartelamento e alojamento, outros bens não duradouros, conservação e aproveitamento de bens e locação de bens, a satisfazer pela Direcção-Geral dos Serviços Centrais ... 13914338$80
+
+Ministério do Equipamento Social e do Ambiente
+
+Encargos do ano de 1974 respeitantes a comunicações, a processar pela Direcção-Geral dos Serviços Hidráulicos ... 119897$60
+
+Ministério da Educação e Investigação Científica
+
+Encargos dos anos de 1971 a 1974 respeitantes a outros bens não duradouros, comunicações, remunerações por serviços auxiliares, locação de bens, horas extraordinárias, consumos de secretaria, combustíveis e lubrificantes, encargos próprios das instalações, vestuário e artigos pessoais-compensação de encargos, material de aquartelamento e alojamento, material de educação, cultura e recreio, equipamento de secretaria, outros bens duradouros, matérias-primas e subsidiárias, alimentação, roupas e calçado, conservação e aproveitamento de bens, encargos com a saúde, trabalhos especiais diversos e maquinaria e equipamento, a pagar pelo Instituto Português de Oncologia de Francisco Gentil, Faculdades de Letras e de Farmácia da Universidade de Lisboa, Faculdade de Medicina da Universidade de Coimbra, Escola Comercial de Ferreira Borges, Escola Secundária do Entroncamento, Escola Preparatória do Conde de Samodães, Liceu Nacional de Cascais, Direcção do Distrito Escolar de Viana do Castelo e Escola Comercial e Industrial de D. Luísa de Gusmão ... 14030558$90
+
+Ministério da Economia (extinto)
+
+Despesas do ano de 1974 referentes a deslocações e despesas de turismo, a satisfazer pela Direcção-Geral do Turismo ... 56582$20
+
+Ministério dos Transportes e Comunicações
+
+Encargos do ano de 1974 respeitantes a gratificações certas e permanentes, horas extraordinárias, remunerações por serviços auxiliares, equipamento de secretaria, combustíveis e lubrificantes, conservação e aproveitamento de bens, encargos próprios das instalações e comunicações, a pagar pelos Aeroportos do Sal e de Santa Maria e pelo Serviço Meteorológico Nacional ... 862699$70
+
+Ministério do Trabalho
+
+Despesas dos anos de 1973 e 1974 respeitantes a deslocações e comunicações, contraídas pela Inspecção da Previdência Social, Secretaria-Geral e Inspecção-Geral do Trabalho em Beja e Évora ... 30631$00
+
+Art. 2.º Ficam autorizados a satisfazer as quantias abaixo indicadas, pelas verbas consignadas a despesas de anos findos dos seus actuais orçamentos privativos, os seguintes serviços:
+
+Junta de Investigações Científicas do Ultramar
+
+Despesas dos anos de 1973 e 1974 respeitantes a remunerações devidas a diversos trabalhadores ... 251240$50
+
+Junta Autónoma dos Portos do Arquipélago da Madeira
+
+Encargos do ano de 1974 relativos a vencimentos ... 50000$00
+
+Serviço de Luta Antituberculosa
+
+Encargos dos anos de 1970 e 1973 respeitantes a conservação e aproveitamento de bens e quotas devidas à Caixa de Previdência dos Empregados da Assistência ... 3132$30
+
+Casa Pia de Lisboa
+
+Despesas do ano de 1972 relativas a subsídio de renda de casa ... 99400$00
+
+Centro de Saúde Mental do Porto
+
+Encargos do ano de 1974 respeitantes a despesas diversas, derivadas do seu normal funcionamento ... 4603807$60
+
+Hospitais da Universidade de Coimbra
+
+Encargo do ano de 1974 relativo a uma pensão vitalícia devida a um trabalhador vítima de acidente em serviço ... 494$00
+
+Hospital de Júlio de Matos
+
+Despesas do ano de 1974 respeitantes a vencimentos ... 64451$00
+
+Santa Casa da Misericórdia de Lisboa
+
+Encargos do ano de 1974 relativos a remunerações por serviços auxiliares ... 62882$50
+
+José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota - Joaquim Jorge de Pinho Campinos - Ernesto Augusto de Melo Antunes - Álvaro Augusto Veiga de Oliveira - Walter Ruivo Pinto Gomes Rosa - Vítor Manuel Rodrigues Alves - João Tomás Rosa - Jorge de Carvalho Sá Borges - António de Almeida Santos.
+
+Promulgado em 31 de Dezembro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

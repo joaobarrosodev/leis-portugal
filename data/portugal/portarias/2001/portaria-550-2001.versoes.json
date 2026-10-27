@@ -1,0 +1,957 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:332245:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-107771018",
+ "dre_path": "/dr/detalhe/portaria/550-2001-332245",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-05-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107771125",
+    "107771126",
+    "107771127",
+    "107771128",
+    "107771129",
+    "107771130",
+    "107771131",
+    "107771132",
+    "107771133",
+    "107771134",
+    "107771135",
+    "107771136",
+    "107771137",
+    "107771138",
+    "107771139",
+    "107771140",
+    "107771141",
+    "107771142",
+    "107771143",
+    "107771144",
+    "107771145"
+   ]
+  },
+  {
+   "date": "2003-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:476174:por",
+     "title": "Portaria n.º 1214/2003",
+     "published": "2003-10-16",
+     "dre_path": "/dr/detalhe/portaria/1214-2003-476174"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107771126",
+    "107771127",
+    "107771128",
+    "107771147",
+    "107771148",
+    "107771131",
+    "107771132",
+    "107771133",
+    "107771134",
+    "107771135",
+    "107771136",
+    "107771137",
+    "107771138",
+    "107771139",
+    "107771140",
+    "107771141",
+    "107771142",
+    "107771143",
+    "107771144",
+    "107771145"
+   ]
+  },
+  {
+   "date": "2006-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540804:por",
+     "title": "Portaria n.º 867/2006",
+     "published": "2006-08-28",
+     "dre_path": "/dr/detalhe/portaria/867-2006-540804"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107771126",
+    "107771127",
+    "107771128",
+    "107771147",
+    "107771148",
+    "107771131",
+    "107771132",
+    "107771133",
+    "107771134",
+    "107771135",
+    "107771136",
+    "107771137",
+    "107771138",
+    "107771139",
+    "107771149",
+    "107771141",
+    "107771142",
+    "107771143",
+    "107771144",
+    "107771145"
+   ]
+  },
+  {
+   "date": "2009-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491913:por",
+     "title": "Portaria n.º 699/2009",
+     "published": "2009-07-02",
+     "dre_path": "/dr/detalhe/portaria/699-2009-491913"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107771151",
+    "107771152",
+    "107771128",
+    "107771153",
+    "107771154",
+    "107771131",
+    "107771132",
+    "107771155",
+    "107771134",
+    "107771135",
+    "107771136",
+    "107771137",
+    "107771138",
+    "107771139",
+    "107771156",
+    "107771141",
+    "107771142",
+    "107771143",
+    "107771144",
+    "107771145"
+   ]
+  },
+  {
+   "date": "2009-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:488495:por",
+     "title": "Portaria n.º 973/2009",
+     "published": "2009-08-31",
+     "dre_path": "/dr/detalhe/portaria/973-2009-488495"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107771151",
+    "107771152",
+    "107771128",
+    "107771153",
+    "107771157",
+    "107771131",
+    "107771132",
+    "107771155",
+    "107771134",
+    "107771135",
+    "107771136",
+    "107771137",
+    "107771138",
+    "107771139",
+    "107771156",
+    "107771141",
+    "107771142",
+    "107771143",
+    "107771144",
+    "107771145"
+   ]
+  },
+  {
+   "date": "2011-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:280488:por",
+     "title": "Portaria n.º 65/2011",
+     "published": "2011-02-04",
+     "dre_path": "/dr/detalhe/portaria/65-2011-280488"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107771151",
+    "107771152",
+    "107771158",
+    "107771153",
+    "107771157",
+    "107771131",
+    "107771132",
+    "107771159",
+    "107771134",
+    "107771135",
+    "107771136",
+    "107771137",
+    "107771138",
+    "107771139",
+    "107771160",
+    "107771161",
+    "107771142",
+    "107771143",
+    "107771144",
+    "107771145"
+   ]
+  },
+  {
+   "date": "2011-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278178:por",
+     "title": "Portaria n.º 102/2011",
+     "published": "2011-03-11",
+     "dre_path": "/dr/detalhe/portaria/102-2011-278178"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107771151",
+    "107771152",
+    "107771158",
+    "107771153",
+    "107771157",
+    "107771131",
+    "107771132",
+    "107773305",
+    "107771134",
+    "107771135",
+    "107771136",
+    "107771137",
+    "107771138",
+    "107771139",
+    "107771160",
+    "107771161",
+    "107771142",
+    "107771143",
+    "107771144",
+    "107771145"
+   ]
+  },
+  {
+   "date": "2013-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:259420:por",
+     "title": "Portaria n.º 114/2013",
+     "published": "2013-03-21",
+     "dre_path": "/dr/detalhe/portaria/114-2013-259420"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107773336",
+    "107773337",
+    "107771158",
+    "107771153",
+    "107771157",
+    "107773338",
+    "107773339",
+    "107773340",
+    "107773341",
+    "107773351",
+    "107773342",
+    "107773343",
+    "107773344",
+    "107773345",
+    "107773346",
+    "107773347",
+    "107773348",
+    "107773349",
+    "107773350",
+    "107773352"
+   ]
+  },
+  {
+   "date": "2014-01-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571049:por",
+     "title": "Portaria n.º 15/2014",
+     "published": "2014-01-23",
+     "dre_path": "/dr/detalhe/portaria/15-2014-571049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107773336",
+    "107773337",
+    "107771158",
+    "107771153",
+    "107771157",
+    "107773338",
+    "107773339",
+    "107773340",
+    "107773341",
+    "107773351",
+    "107773342",
+    "107773343",
+    "107773344",
+    "107773345",
+    "107776324",
+    "107773347",
+    "107773348",
+    "107773349",
+    "107773350",
+    "107773352"
+   ]
+  },
+  {
+   "date": "2017-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107761912:por",
+     "title": "Portaria n.º 232/2017",
+     "published": "2017-07-27",
+     "dre_path": "/dr/detalhe/portaria/232-2017-107761912"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "107771125",
+    "107773336",
+    "107773337",
+    "107771158",
+    "107771153",
+    "107776902",
+    "107773338",
+    "107773339",
+    "107773340",
+    "107773341",
+    "107773351",
+    "107773342",
+    "107773343",
+    "107773344",
+    "107773345",
+    "107776903",
+    "107773347",
+    "107773348",
+    "107773349",
+    "107773350",
+    "107773352"
+   ]
+  }
+ ],
+ "fragments": {
+  "107771125": {
+   "fragment_id": "107771019",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 550/2001\n\nde 31 de Maio\n\nConsiderando que o actual sistema de exploração do JOKER não permite que os jogadores façam as suas apostas no dia dos sorteios nem permite que os intermediários paguem prémios logo após a realização dos sorteios respectivos;\n\nConsiderando que actualmente já estão implantados na generalidade dos países europeus sistemas de exploração de jogos em tempo real, on-line, que ligam terminais espalhados por todo o País directamente a um sistema central onde os dados relativos às apostas e aos pagamentos ficam imediatamente registados e validados;\n\nConsiderando que o sistema on-line é fiável, seguro e tem demonstrado capacidade para promover a optimização da exploração dos jogos sociais dos Estados, com benefício para todas as entidades beneficiárias das receitas, uma vez que passam a mediar escassas horas entre o encerramento da aceitação de apostas para os jogos de uma semana e o início da aceitação das apostas para a semana seguinte:\n\nAssim, ao abrigo do artigo 2.º, n.º 2, do Decreto-Lei n.º 412/93, de 21 de Dezembro, e do n.º 2 do artigo 3.º do Regulamento do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, aprovado pelo Decreto-Lei n.º 322/91, de 26 de Agosto:\n\nManda o Governo, pelos Ministros da Saúde e do Trabalho e da Solidariedade, o seguinte:\n\n1.º É aprovado o Regulamento do JOKER, que se publica em anexo à presente portaria, dela fazendo parte integrante.\n\n2.º É revogada a Portaria n.º 1292-A/93, de 22 de Dezembro, com a a redacção dada pela Portaria n.º 524/98, de 14 de Agosto.\n\n3.º A presente portaria entra em vigor no dia da sua publicação.\n\n4.º A presente portaria produz efeitos a partir de 11 de Junho de 2001.\n\nEm 17 de Maio de 2001.\n\nA Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.\n\nREGULAMENTO DO JOKER"
+  },
+  "107771126": {
+   "fragment_id": "107771020",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece as normas de participação no jogo social do Estado denominado por JOKER, que consiste num sorteio sobre os números de impressão dos bilhetes dos jogos do Totobola, Totogolo e Totoloto, organizados, nos termos da lei, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, adiante abreviadamente designado por Departamento de Jogos."
+  },
+  "107771127": {
+   "fragment_id": "107771021",
+   "type": 11,
+   "heading": "Artigo 2.º — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Concursos\n\n1 - O JOKER tem periodicidade semanal e nele podem participar os jogadores dos concursos do Totobola, Totogolo, Totoloto ou outro jogo de apostas mútuas do Departamento de Jogos.\n\n2 - Para efeitos deste Regulamento, os concursos do Totobola, Totogolo e Totoloto são designados por jogo principal.\n\n3 - A data do JOKER é a data do concurso do jogo principal."
+  },
+  "107771128": {
+   "fragment_id": "107771022",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições gerais de participação no concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições gerais de participação no concurso\n\n1 - A participação no jogo do JOKER inicia-se com a declaração expressa de «Sim» por parte do jogador e o pagamento do respectivo preço, nos termos da lei e do presente Regulamento.\n\n2 - Caso o apostador não pretenda participar no jogo declarará expressamente «Não».\n\n3 - Se, para a mesma aposta, o apostador declarar «Sim» e «Não», a aposta participa no JOKER; na falta de declaração, a aposta não participa no JOKER.\n\n4 - Tal participação pressupõe o integral conhecimento, adesão e plena aceitação das referidas normas.\n\n5 - A participação só se torna efectiva quando estiverem reunidas todas as condições regulamentares de validade das apostas para participação no jogo principal e no JOKER.\n\n6 - A importância despendida no JOKER é devolvida no caso de a totalidade das apostas do jogo principal ser anulada e não participar no respectivo concurso, caso em que o número do JOKER que consta do bilhete respectivo também não participa no sorteio respectivo.\n\n7 - A aposta no JOKER está sempre dependente da aposta no concurso de outro jogo de apostas mútuas explorado pela Santa Casa da Misericórdia de Lisboa, nos termos da lei.\n\n8 - As apostas registadas e não anuladas nos termos do presente diploma são obrigatoriamente pagas pelo mediador nos termos do regulamento respectivo."
+  },
+  "107771129": {
+   "fragment_id": "107771023",
+   "type": 11,
+   "heading": "Artigo 4.º — Preço da aposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Preço da aposta\n\n1 - O preço de cada aposta é de (euro) 0,50.\n\n2 - Quando no sistema de registo e validação mecânica forem utilizados os serviços de «última hora» do Departamento de Jogos, é devido um suplemento de (euro) 0,12 por cada bilhete."
+  },
+  "107771130": {
+   "fragment_id": "107771024",
+   "type": 11,
+   "heading": "Artigo 5.º — Distribuição das receitas para prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Distribuição das receitas para prémios\n\n1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 50%.\n\n2 - A importância destinada a prémios, depois de deduzidos os encargos legais que sobre eles recaírem, é distribuída por seis categorias de prémios, na forma seguinte:\n\na) Ao 1.º prémio, para cada aposta cujo número de impressão corresponda ao do JOKER, a parte que lhe couber na divisão da importância remanescente necessária ao pagamento dos outros prémios, no valor mínimo de (euro) 149640;\n\nb) Ao 2.º prémio, para cada aposta cujo número de impressão corresponda aos seis últimos dígitos do número do JOKER, o valor de (euro) 24940;\n\nc) Ao 3.º prémio, para cada aposta cujo número de impressão corresponda aos cinco últimos dígitos do número do JOKER, o valor de (euro) 2494;\n\nd) Ao 4.º prémio, para cada aposta cujo número de impressão corresponda aos quatro últimos dígitos do número do JOKER, o valor de (euro) 250;\n\ne) Ao 5.º prémio, para cada aposta cujo número de impressão corresponda aos três últimos dígitos do número do JOKER, o valor de (euro) 25;\n\nf) Ao 6.º prémio, para cada aposta cujo número de impressão corresponda aos dois últimos dígitos do número do JOKER, o valor de (euro) 2,5.\n\n3 - Numa mesma aposta, não há acumulação do prémio de uma categoria com prémios de categorias inferiores.\n\n4 - Quando não for escrutinada qualquer aposta sobre o número do JOKER, o montante que couber ao 1.º prémio na divisão do remanescente necessário ao pagamento dos outros prémios acresce ao montante do 1.º prémio do concurso imediatamente seguinte."
+  },
+  "107771131": {
+   "fragment_id": "107771025",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo e validação de apostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo e validação de apostas\n\n1 - Existem dois sistemas de registo e validação de apostas:\n\na) Informático;\n\nb) Mecânico.\n\n2 - Os sistemas referidos no número anterior apenas podem operar nos estabelecimentos autorizados pelo Departamento de Jogos para efectuar a aceitação de apostas, conforme disponham de terminal de jogo ou de máquina registadora."
+  },
+  "107771132": {
+   "fragment_id": "107771026",
+   "type": 11,
+   "heading": "Artigo 7.º — Mediadores dos jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mediadores dos jogos\n\n1 - Os mediadores dos jogos da Santa Casa da Misericórdia de Lisboa são representantes dos concorrentes junto do Departamento de Jogos e agem exclusivamente nessa qualidade.\n\n2 - Os erros ou omissões cometidos pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa no exercício das suas funções não são imputáveis ao Departamento de Jogos.\n\n3 - Os mediadores dos jogos da Santa Casa da Misericórdia de Lisboa representam os jogadores junto do Departamento de Jogos, não representando, em caso algum, o Departamento de Jogos junto dos jogadores.\n\n4 - O mediador é responsável perante o Departamento de Jogos pelo pagamento do preço de todas as apostas registadas através dos terminais de jogo que lhe estão atribuídos e que não tenham sido anuladas nos termos dos números anteriores."
+  },
+  "107771133": {
+   "fragment_id": "107771027",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de registo e validação informático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático pode processar-se:\n\na) Mediante a apresentação dos bilhetes emitidos pelo Departamento de Jogos nos quais se tenham inscrito os prognósticos para o jogo principal e a declaração de participação no JOKER com o número que neles se encontra pré-impresso, também denominado número do JOKER;\n\nb) Mediante solicitação ao mediador dos jogos da Santa Casa da Misericórdia de Lisboa, no momento do pedido de prognósticos aleatórios para o jogo principal, na modalidade denominada «aposta automática», na qual o terminal gera aleatoriamente o número para participação no JOKER;\n\nc) Mediante solicitação ao mediador dos jogos da Santa Casa da Misericórdia de Lisboa, o terminal gera aleatoriamente o número do JOKER quando os prognósticos para o jogo principal tenham sido digitados manualmente.\n\n2 - A declaração de participação no JOKER não pode ser expressa a tinta vermelha.\n\n3 - Para efeitos da alínea a) do presente artigo, o bilhete serve unicamente como suporte da leitura, pelo que carece de qualquer outro valor.\n\n4 - Os dados referentes à aposta no número do JOKER apresentados nos terminais dos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa são transmitidos ao sistema central para registo e validação em suporte informático.\n\n5 - Após o registo e validação da aposta do jogo principal no sistema central, o terminal expedirá o recibo respectivo e dele constarão os seguintes dados:\n\na) Tipo do jogo principal ao qual a aposta do JOKER está associada;\n\nb) Concurso(s) e semana(s) em que participa;\n\nc) Prognósticos efectuados no jogo principal;\n\nd) Número do JOKER;\n\nc) Número de apostas no jogo principal;\n\nf) Valor das apostas;\n\ng) Números de código e de controlo;\n\nh) Dia e hora em que é efectuado o registo e validação no sistema central.\n\n6 - Sem a validação e registo no sistema central, as apostas não participam no concurso.\n\n7 - O concorrente efectuará o pagamento correspondente às apostas registadas e validadas informaticamente antes de o mediador dos jogos da Santa Casa da Misericórdia de Lisboa lhe entregar o(s) recibo(s) emitido(s) pelo terminal.\n\n8 - O mediador dos jogos da Santa Casa da Misericórdia de Lisboa não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.\n\n9 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas referentes ao jogo principal e ao JOKER, as apostas serão todas anuladas; tal facto constará de outro recibo emitido pelo terminal, que será enviado ao Departamento de Jogos pelo mediador dos jogos da Santa Casa da Misericórdia de Lisboa juntamente com o recibo anulado, não podendo, em caso algum, ser entregue ao jogador nem o recibo anulado nem o recibo de cancelamento.\n\n10 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitem, conforme o que ocorrer primeiro, sendo sempre emitido recibo de cancelamento.\n\n11 - O recibo anulado nunca pode ser entregue ao jogador.\n\n12 - O recibo emitido pelo terminal de jogo no sistema de registo e validação informático é o único título válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n13 - Para todos os efeitos, o recibo ficará identificado pelos números de controlo que nele figuram.\n\n14 - A participação nos concursos mediante registo e validação informático só é válida quando:\n\na) O número do JOKER tenha sido registado validamente e não tenha sido anulado nos suportes informáticos do sistema central, de acordo com os requisitos e os procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em poder do júri dos concursos e arquivada, sob sua custódia, em lugar de segurança, antes do começo quer dos jogos do concurso, ou do sorteio, do jogo principal quer do sorteio do número do JOKER.\n\n15 - Para todos os efeitos, entender-se-á como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco óptico, cassette ou banda magnética, ou outro, em que se encontrem gravadas as apostas correspondentes a cada concurso.\n\n16 - O Departamento de Jogos pode criar o cartão de jogador, no qual constem a sua identificação e ou os prognósticos relativamente aos quais a aposta do JOKER está associada, o número de JOKER, o número da conta bancária a debitar/creditar e o saldo para o jogo.\n\n17 - O Departamento de Jogos poderá autorizar outros meios e suportes para o registo de apostas, nomeadamente telefone fixo ou móvel, Internet, televisão ou qualquer outro que venha a ser decidido e publicitado pela Direcção do Departamento de Jogos.\n\n18 - Relativamente às apostas efectuadas com utilização dos meios previstos no número anterior, as únicas provas de participação nos concursos são os registos informáticos do sistema central da Santa Casa da Misericórdia de Lisboa."
+  },
+  "107771134": {
+   "fragment_id": "107771028",
+   "type": 11,
+   "heading": "Artigo 9.º — Sistema de registo e validação mecânico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Sistema de registo e validação mecânico\n\n1 - O registo de apostas no sistema de registo e validação mecânico só pode ser efectuado mediante a utilização de bilhetes emitidos pelo Departamento de Jogos para o(s) jogo(s) principal(ais).\n\n2 - Os bilhetes referidos no número anterior estão à disposição dos concorrentes nos estabelecimentos autorizados.\n\n3 - Os bilhetes contêm obrigatoriamente um extracto das regras essenciais do jogo, bem como os prazos de reclamação e de caducidade dos prémios.\n\n4 - Os bilhetes de todos os jogos de apostas mútuas do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa contêm dois rectângulos para participação no concurso semanal do JOKER, um com a palavra «Sim» e outro com a palavra «Não».\n\n5 - Cada bilhete tem pré-impresso um número de impressão de sete algarismos, também denominado número do JOKER.\n\n6 - Os bilhetes referidos anteriormente estão sujeitos a alteração de forma ou validade, mediante anúncio público prévio da direcção do Departamento de Jogos.\n\n7 - Os bilhetes constam de dois corpos, denominados por matriz e recibo, com o mesmo número de impressão, também denominado por número do JOKER.\n\n8 - A matriz é o original sobre o qual o concorrente declarará a sua participação no JOKER e destina-se a ser enviada ao Departamento de Jogos para validação e processamento; o recibo é o documento necessário para o recebimento de prémios, é entregue ao concorrente após o pagamento do preço das apostas e destina-se a comprovar o registo do bilhete no mediador dos jogos da Santa Casa da Misericórdia de Lisboa.\n\n9 - Após o registo, o bilhete ficará identificado, na matriz e no recibo, pelo número de mediador, de registo sequencial, de máquina e de semana, todos impressos em simultâneo no momento da validação.\n\n10 - Os concorrentes podem solicitar o anonimato mediante marcação de uma cruz na matriz no espaço a isso destinado.\n\n11 - Os bilhetes, depois de preenchidos, são entregues para registo nos estabelecimentos autorizados ou nos serviços de «última hora» do Departamento de Jogos, nos dias e horas estabelecidos.\n\n12 - As matrizes, depois de registadas, não podem ser alteradas nem devolvidas aos concorrentes, sob pena de não participarem no concurso.\n\n13 - As matrizes registadas só podem ser anuladas pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa quando acompanhadas dos respectivos recibos.\n\n14 - As matrizes que não apresentem os números de registo previstos no n.º 9, bem como as matrizes sem qualquer marcação de prognósticos, ainda que registadas, não são admitidas ao concurso.\n\n15 - Quando, excepcionalmente, em lugar da matriz, der entrada no Departamento de Jogos o recibo respectivo, a aposta no JOKER dele constante participa no concurso.\n\n16 - Caso uma matriz seja detectada em falta no Departamento de Jogos, e desde que não se verifique nenhuma das circunstâncias previstas no n.º 12, poderá o mediador dos jogos da Santa Casa da Misericórdia de Lisboa, desde que expressamente autorizado, proceder à transmissão da matriz ou da frente e verso do recibo respectivo por telecópia, na qual conste a justificação do envio tardio.\n\n17 - Na circunstância referida na última parte do número anterior, e sem prejuízo do disposto no n.º 12, o Departamento de Jogos aceitará a aposta no JOKER e as apostas no jogo principal, assim transmitidas, para participarem no concurso, desde que a telecópia referida se encontre em condições de ser microfilmada e preencha todas as condições de aceitação das matrizes para participação no concurso constantes deste Regulamento."
+  },
+  "107771135": {
+   "fragment_id": "107771029",
+   "type": 11,
+   "heading": "Artigo 10.º — Microfilmagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Microfilmagem\n\n1 - A validação das apostas registadas nos termos do artigo anterior efectua-se com a microfilmagem das matrizes dos bilhetes registados mecanicamente.\n\n2 - É condição de participação nos concursos a microfilmagem das matrizes dos bilhetes registados ou dos documentos constantes dos n.os 15 e 16 do artigo anterior, de forma que os respectivos microfilmes sejam entregues ao júri dos concursos para encerramento, em lugar de segurança, antes do início do acto do sorteio dos números.\n\n3 - Só o microfilme constitui prova da aposta no JOKER."
+  },
+  "107771136": {
+   "fragment_id": "107771030",
+   "type": 11,
+   "heading": "Artigo 11.º — Júri dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Júri dos concursos\n\n1 - Ao júri dos concursos, com a constituição fixada no artigo 8.º do Regulamento do Departamento de Jogos, anexo ao Decreto-Lei n.º 322/91, de 26 de Agosto, compete:\n\na) A recepção e a guarda em segurança da cópia dos registos das apostas efectuadas através do sistema de registo e validação informático, prevista no artigo 8.º, n.º 14, alínea b), e dos microfilmes previstos no n.º 2 do artigo anterior;\n\nb) A comprovação do direito a prémio, a qual tem lugar através da leitura dos microfilmes das matrizes, no sistema de registo e validação mecânico, e através da leitura da cópia de segurança mencionada no artigo 8.º, n.º 14, alínea b), no sistema de registo e validação informático, os quais se encontram em poder do júri dos concursos.\n\n2 - Das operações previstas no número anterior é lavrada acta."
+  },
+  "107771137": {
+   "fragment_id": "107771031",
+   "type": 11,
+   "heading": "Artigo 12.º — Sorteios dos números",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sorteios dos números\n\n1 - O sorteio do número do JOKER realiza-se normalmente ao sábado, mediante a extracção temporizada de sete bolas numeradas de 0 a 9, homogéneas, iguais em material, volume e peso, utilizando para o efeito de uma a sete esferas rotativas.\n\n2 - As esferas do sorteio podem ser accionadas por meios automáticos ou manuais.\n\n3 - Em caso de interrupção por motivo de avaria ou de força maior, o sorteio será retomado logo que possível ou, quando a interrupção exceder duas horas, no dia seguinte, mas os números das bolas extraídas mantêm-se válidos.\n\n4 - A extracção de um algarismo só se concretiza quando a respectiva bola sair completamente da esfera, não existindo antes desse momento.\n\n5 - Os actos dos sorteios são presididos e fiscalizados pelo júri dos concursos, podendo ser transmitidos pela televisão ou por outro meio de divulgação pública, e deles é lavrada a respectiva acta."
+  },
+  "107771138": {
+   "fragment_id": "107771032",
+   "type": 11,
+   "heading": "Artigo 13.º — Escrutínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Escrutínio\n\n1 - O escrutínio é o conjunto de operações pelas quais se procede ao apuramento do direito aos prémios.\n\n2 - A partir das apostas que participaram no concurso através do sistema de registo e validação informático é gerado no sistema central um ficheiro de apostas premiadas, classificadas por categorias de prémios.\n\n3 - O sistema informático central fornecerá ao júri dos concursos e aos serviços de escrutínio informação detalhada da receita obtida e do número de prémios por categoria de cada concurso, relativamente às apostas validadas através do sistema de registo e validação informático.\n\n4 - O controlo dos prémios relativos a apostas validadas através do sistema de registo e validação informático será efectuado pelo júri dos concursos, por comparação com a cópia de segurança prevista no artigo 8.º, n.º 14, alínea b), prevalecendo esta em caso de dúvida.\n\n5 - Todas as apostas que participaram nos concursos através do sistema de registo e validação mecânico serão igualmente escrutinadas, gerando-se uma lista provisória de apostas premiadas, classificadas por categorias.\n\n6 - A lista provisória de apostas premiadas referida no número anterior é obtida por comparação das apostas apuradas como premiadas com as correspondentes imagens do microfilme.\n\n7 - O controlo das apostas premiadas será feito:\n\na) Por amostragem, quando os respectivos valores forem inferiores a (euro) 1000;\n\nb) Na totalidade, quando iguais ou superiores a (euro) 1000;\n\nc) Directamente pelo júri dos concursos, quando iguais ou superiores a (euro) 2500.\n\n8 - Concluído o controlo de prémios das apostas registadas através do sistema de registo e validação mecânico, o júri dos concursos transferirá a informação detalhada sobre as quantidades de prémios por categorias aos serviços de escrutínio para que o sistema de registo e validação informático integre os resultados de ambos os sistemas de registo e validação de apostas e procedam à identificação do valor que corresponder a cada aposta premiada."
+  },
+  "107771139": {
+   "fragment_id": "107771033",
+   "type": 11,
+   "heading": "Artigo 14.º — Divulgação das apostas premiadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Divulgação das apostas premiadas\n\n1 - O número provisório de apostas premiadas em cada concurso e o valor dos respectivos quinhões são divulgados pelos órgãos de comunicação social e constam de um cartaz informativo afixado nos estabelecimentos autorizados pelo Departamento de Jogos.\n\n2 - Quando haja alteração dos resultados provisórios, o número definitivo de apostas premiadas, bem como o valor dos respectivos quinhões, é tornado público através do cartaz referido no número anterior, após o julgamento das reclamações, nos termos do artigo 16.º\n\n3 - A cada estabelecimento autorizado, onde o registo das apostas seja efectuado através do sistema de registo e validação mecânico, é enviada uma lista das apostas premiadas nele registadas, com a indicação dos prémios atribuídos a cada uma delas."
+  },
+  "107771140": {
+   "fragment_id": "107771034",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento dos prémios\n\n1 - Os prémios são pagos pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa ou pelas entidades bancárias expressamente autorizadas pelo Departamento de Jogos, nas condições que este determine.\n\n2 - O pagamento dos prémios, no caso de apostas registadas através do sistema de registo e validação informático, obedece aos seguintes trâmites:\n\na) O mediador dos jogos da Santa Casa da Misericórdia de Lisboa procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes no sistema central, apresenta mensagem, indicando o valor do prémio, e após confirmação do mediador, emite recibo de pagamento do prémio pelo mediador ou dá informação de que o prémio é pago num estabelecimento bancário autorizado;\n\nb) Quando esse valor for igual ou inferior a (euro) 50, é pago em qualquer mediador dos jogos da Santa Casa da Misericórdia de Lisboa, independentemente daquele onde foi registada a aposta;\n\nc) Caso o mediador de jogos da Santa Casa da Misericórdia de Lisboa não tenha disponibilidade de caixa para fazer o pagamento, o jogador pode dirigir-se a qualquer estabelecimento autorizado, dirigir-se directamente ao Departamento de Jogos ou aguardar que exista disponibilidade por parte do mediador primeiramente solicitado;\n\nd) A efectivação do pagamento ficará sempre registada no sistema central e dará origem à emissão de um recibo comprovativo, que ficará na posse do mediador dos jogos da Santa Casa da Misericórdia de Lisboa;\n\ne) Quando o valor do prémio for superior a (euro) 50, será pago num estabelecimento bancário, através de cheque ou ordem de pagamento emitida pelo Departamento de Jogos, a qual é enviada ao mediador através do qual a aposta foi efectuada;\n\nf) Os prémio superiores a (euro) 50 poderão vir a ser pagos por crédito na conta bancária do jogador, mediante solicitação deste, nos termos que vierem a ser definidos pela direcção do Departamento de Jogos;\n\ng) Quando o recibo emitido pelo terminal do sistema de registo e validação informática não for lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprovará a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emitirá outro documento que permita o respectivo pagamento.\n\n3 - Os prémios de apostas registadas através do sistema de registo e validação informático inferiores a (euro) 50 são postos a pagamento com os prémios do jogo principal com que tenham sido registadas.\n\n4 - O pagamento dos prémios do JOKER que constam de um recibo de «5 semanas» é efectuado nos termos do números anteriores, sendo que o jogador entregará o recibo premiado e o terminal emitirá um recibo de troca para as semanas remanescentes do qual constam todos os elementos do recibo entregue.\n\n5 - O jogador pode receber o pagamento de todos os prémios que constam de um recibo de «5 semanas» se o apresentar a pagamento após o decurso das mesmas.\n\n6 - As ordens de pagamento relativas a apostas no JOKER registadas através do sistema de registo e validação mecânico são enviadas aos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa onde foram registadas ou directamente aos concorrentes, mediante solicitação destes.\n\n7 - O pagamento dos prémios de apostas no JOKER registadas no sistema de registo e validação mecânico faz-se, em regra, por meio de ordens de pagamento e sempre contra a entrega dos recibos dos bilhetes premiados ou de documento que os substitua.\n\n8 - Em caso de extravio ou inutilização do recibo de bilhetes registados através do sistema de registo e validação mecânico, podem os titulares dos bilhetes premiados solicitar uma credencial, a qual será emitida mediante o pagamento de (euro) 2,5 em selos de correio, desde que do pedido constem obrigatoriamente os elementos seguintes:\n\na) Nome inscrito na matriz do bilhete;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do estabelecimento autorizado onde foi registado o bilhete.\n\n9 - O pagamento dos prémios de apostas registadas através do sistema de registo e validação mecânica obedece aos seguintes trâmites:\n\na) A ordem de pagamento é levantada no estabelecimento autorizado onde o bilhete foi registado, mediante a apresentação do recibo do bilhete;\n\nb) Quando o valor da ordem de pagamento for igual ou inferior a (euro) 50, é pago obrigatoriamente no estabelecimento autorizado onde se encontre a pagamento;\n\nc) Quando o valor da ordem de pagamento for superior a (euro) 50, é pago no estabelecimento bancário nela indicado;\n\nd) Em qualquer dos casos, é obrigatória a entrega do recibo e da ordem de pagamento devidamente assinada;\n\ne) Quando haja lugar à apresentação de credencial, em lugar do recibo extraviado ou inutilizado, o prémio é pago sempre mediante identificação do concorrente.\n\n10 - Os prémios de valor superior a (euro) 50 também podem ser pagos pelos mediadores da Santa Casa da Misericórdia de Lisboa, que posteriormente receberão as importâncias desembolsadas no estabelecimento bancário através do qual se processem as demais transações entre o Departamento de Jogos e o mediador dos jogos da Santa Casa da Misericórdia de Lisboa.\n\n11 - As ordens de pagamento não reclamadas de valor superior a (euro) 50, relativas a apostas registadas através do sistema de registo e validação mecânico, têm de ser devolvidas pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa ao Departamento de Jogos 45 dias após a data do concurso.\n\n12 - Os prémios de apostas registadas através do sistema de registo e validação mecânico inferiores a (euro) 1000 - salvo nos casos de acumulação com prémios de valor superior no mesmo bilhete - são postos a pagamento a partir do 5.º dia e até 90 dias após a data do concurso.\n\n13 - Os prémios iguais ou superiores a (euro) 1000 são pagos após o julgamento das reclamações para as apostas registadas através de ambos os sistemas.\n\n14 - As ordens de pagamento correspondentes a prémios do JOKER atribuídos a apostas em bilhetes de «5 semanas», no sistema de registo e validação mecânico, são processadas em simultâneo com as do concurso a que os prémios dizem respeito.\n\n15 - O direito aos prémios caduca decorridos 90 dias sobre a data da realização do concurso do jogo principal.\n\n16 - A verificação do direito a um prémio no sistema central, mediante apresentação e leitura de um recibo premiado em qualquer mediador de jogos que disponha de terminal do sistema de registo e validação informático de apostas, interrompe o prazo de caducidade, independentemente do momento em que o valor do prémio, por ordem de pagamento, cheque ou transferência bancária, entre na posse do jogador.\n\n17 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n18 - Sempre que o prémio seja de valor igual ou superior ao estabelecido no Decreto-Lei n.º 325/95, de 2 de Dezembro, é obrigatória a identificação do apresentante do título através de documento de identificação com fotografia, nos termos aí estabelecidos."
+  },
+  "107771141": {
+   "fragment_id": "107771035",
+   "type": 11,
+   "heading": "Artigo 16.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reclamações\n\n1 - Todo o possuidor de um recibo emitido pelo sistema de registo e validação informático, e que tendo apresentado o mesmo para pagamento, num mediador dos jogos da Santa Casa da Misericórdia de Lisboa, seja informado de que não tem direito a prémio, de que o prémio já foi pago ou de que existe algum outro motivo que impeça o seu pagamento, tem o direito de reclamar.\n\n2 - Todo o possuidor de um recibo de um bilhete registado no sistema de registo e validação mecânico que considere conter apostas com direito a prémio e que após consulta das relações de prémios enviada ao estabelecimento autorizado verifique que o seu bilhete não figura entre os premiados ou não está conforme com os prémios a que se julga com direito pode reclamar.\n\n3 - No caso de apostas validadas registadas mecanicamente, se as reclamações disserem respeito a bilhetes sem indicação do nome dos concorrentes, é obrigatória a apresentação, pelos mesmos, dos recibos respectivos.\n\n4 - As reclamações são apresentadas por escrito, em formulário próprio, a entregar no Departamento de Jogos.\n\n5 - As reclamações também podem ser apresentadas por telegrama, e-mail, telecópia ou telex, desde que sejam indicados, pelo menos, os seguintes elementos:\n\na) Nome completo e morada do recorrente;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do terminal/máquina que registou o bilhete;\n\nd) Números de impressão e de registo do bilhete ou números de controlo;\n\ne) Motivo da reclamação.\n\n6 - O prazo para apresentação de reclamação conta-se a partir da data do concurso e é de 12 dias para os prémios de valor igual ou superior a (euro) 1000 e de 60 dias para os outros, salvo no caso de acumulação com prémios de valor superior a (euro) 1000, em que o prazo é de 12 dias.\n\n7 - O prazo é de caducidade, não sendo considerada qualquer reclamação que dê entrada no Departamento de Jogos fora do prazo."
+  },
+  "107771142": {
+   "fragment_id": "107771036",
+   "type": 11,
+   "heading": "Artigo 17.º — Júri de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Júri de reclamações\n\n1 - As reclamações são julgadas por um júri, constituído nos termos do artigo 16.º do Regulamento do Departamento de Jogos, anexo ao Decreto-Lei n.º 322/91, de 26 de Agosto.\n\n2 - Deste júri não pode fazer parte quem tenha tido intervenção na decisão reclamada.\n\n3 - Das deliberações do júri de reclamações apenas haverá recurso contencioso de anulação para o Tribunal Administrativo de Círculo de Lisboa, nos termos da legislação geral aplicável."
+  },
+  "107771143": {
+   "fragment_id": "107771037",
+   "type": 11,
+   "heading": "Artigo 18.º — Fraudes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fraudes\n\nA prática de actos fraudulentos com vista ao recebimento de prémios, nomeadamente a falsificação dos recibos dos bilhetes utilizados no sistema de registo e validação mecânico ou dos recibos emitidos através do terminal no sistema de registo e validação informático, será objecto de participação para efeitos de procedimento criminal, nos termos da lei geral."
+  },
+  "107771144": {
+   "fragment_id": "107771038",
+   "type": 11,
+   "heading": "Artigo 19.º — Casos omissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Casos omissos\n\nOs casos omissos e os duvidosos são resolvidos pela direcção do Departamento de Jogos, excepto em matéria de atribuição de prémios, em que é competente o júri de reclamações."
+  },
+  "107771145": {
+   "fragment_id": "107771039",
+   "type": 11,
+   "heading": "Artigo 20.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Normas transitórias\n\nAté à completa saída de circulação do escudo, o preço a pagar pelo jogador é o resultado da aplicação da taxa de conversão escudo/euro de 200,482 ao total das apostas constantes do recibo a que respeitem."
+  },
+  "107771147": {
+   "fragment_id": "107771023",
+   "type": 11,
+   "heading": "Artigo 4.º — Preço da aposta",
+   "in_force_from": "2003-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+   ],
+   "markdown": "###### Artigo 4.º — Preço da aposta\n\nO preço de cada aposta é fixado em (euro) 0,75.\n\n> Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+  },
+  "107771148": {
+   "fragment_id": "107771024",
+   "type": 11,
+   "heading": "Artigo 5.º — Distribuição da receita para prémios",
+   "in_force_from": "2003-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+   ],
+   "markdown": "###### Artigo 5.º — Distribuição da receita para prémios\n\n1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 50%.\n\n2 - A importância destinada a prémios, depois de deduzidos os encargos legais que sobre eles recaírem, é distribuída por seis categorias de prémios, na forma seguinte:\n\na) Ao 1.º prémio, para cada aposta cujo número de impressão corresponda ao do JOKER, a parte que lhe couber na divisão da importância remanescente necessária ao pagamento dos outros prémios, no valor mínimo de (euro) 150000;\n\nb) Ao 2.º prémio, para cada aposta cujo número de impressão corresponda aos seis últimos dígitos do número do JOKER, o valor de (euro) 30000;\n\nc) Ao 3.º prémio, para cada aposta cujo número de impressão corresponda aos cinco últimos dígitos do número do JOKER, o valor de (euro) 3000;\n\nd) Ao 4.º prémio, para cada aposta cujo número de impressão corresponda aos quatro últimos dígitos do número do JOKER, o valor de (euro) 300;\n\ne) Ao 5.º prémio, para cada aposta cujo número de impressão corresponda aos três últimos dígitos do número do JOKER, o valor de (euro) 30;\n\nf) Ao 6.º prémio, para cada aposta cujo número de impressão corresponda aos dois últimos dígitos do número do JOKER, o valor de (euro) 3.\n\n3 - Numa mesma aposta, não há acumulação do prémio de uma categoria com prémios de categorias inferiores.\n\n4 - Quando não for escrutinada qualquer aposta sobre o número do JOKER, o montante que couber ao 1.º prémio na divisão do remanescente necessário ao pagamento dos outros prémios acresce ao montante do 1.º prémio do concurso imediatamente seguinte.\n\n> Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+  },
+  "107771149": {
+   "fragment_id": "107771034",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos prémios",
+   "in_force_from": "2006-09-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos prémios\n\n1 - Os prémios são pagos pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa ou pelas entidades bancárias expressamente autorizadas pelo Departamento de Jogos, nas condições que este determine.\n\n2 - O pagamento dos prémios, no caso de apostas registadas através do sistema de registo e validação informático, obedece aos seguintes trâmites:\n\na) O mediador dos jogos da Santa Casa da Misericórdia de Lisboa procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes no sistema central, apresenta mensagem, indicando o valor do prémio, e após confirmação do mediador, emite recibo de pagamento do prémio pelo mediador ou dá informação de que o prémio é pago num estabelecimento bancário autorizado;\n\nb) Quando esse valor for igual ou inferior a (euro) 150, é pago em qualquer mediador dos jogos da Santa Casa da Misericórdia de Lisboa, independentemente daquele onde foi registada a aposta;\n\nc) Caso o mediador de jogos da Santa Casa da Misericórdia de Lisboa não tenha disponibilidade de caixa para fazer o pagamento, o jogador pode dirigir-se a qualquer estabelecimento autorizado, dirigir-se directamente ao Departamento de Jogos ou aguardar que exista disponibilidade por parte do mediador primeiramente solicitado;\n\nd) A efectivação do pagamento ficará sempre registada no sistema central e dará origem à emissão de um recibo comprovativo, que ficará na posse do mediador dos jogos da Santa Casa da Misericórdia de Lisboa;\n\ne) Quando o valor do prémio for superior a (euro) 150, é pago num estabelecimento bancário, através de cheque ou ordem de pagamento emitida pelo Departamento de Jogos, a qual é enviada ao mediador através do qual a aposta foi efectuada;\n\nf) Os prémios superiores a (euro) 150 podem ser pagos por crédito na conta bancária do jogador, mediante solicitação deste, nos termos definidos pela direcção do Departamento de Jogos;\n\ng) Quando o recibo emitido pelo terminal do sistema de registo e validação informática não for lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprovará a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emitirá outro documento que permita o respectivo pagamento.\n\n3 - Os prémios de apostas registadas através do sistema de registo e validação informática inferiores a (euro) 150 são postos a pagamento com os prémios do jogo principal com que tenham sido registadas.\n\n4 - O pagamento dos prémios do JOKER que constam de um recibo de «5 semanas» é efectuado nos termos do números anteriores, sendo que o jogador entregará o recibo premiado e o terminal emitirá um recibo de troca para as semanas remanescentes do qual constam todos os elementos do recibo entregue.\n\n5 - O jogador pode receber o pagamento de todos os prémios que constam de um recibo de «5 semanas» se o apresentar a pagamento após o decurso das mesmas.\n\n6 - As ordens de pagamento relativas a apostas no JOKER registadas através do sistema de registo e validação mecânico são enviadas aos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa onde foram registadas ou directamente aos concorrentes, mediante solicitação destes.\n\n7 - O pagamento dos prémios de apostas no JOKER registadas no sistema de registo e validação mecânico faz-se, em regra, por meio de ordens de pagamento e sempre contra a entrega dos recibos dos bilhetes premiados ou de documento que os substitua.\n\n8 - Em caso de extravio ou inutilização do recibo de bilhetes registados através do sistema de registo e validação mecânico, podem os titulares dos bilhetes premiados solicitar uma credencial, a qual será emitida mediante o pagamento de (euro) 2,5 em selos de correio, desde que do pedido constem obrigatoriamente os elementos seguintes:\n\na) Nome inscrito na matriz do bilhete;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do estabelecimento autorizado onde foi registado o bilhete.\n\n9 - O pagamento dos prémios de apostas registadas através do sistema de registo e validação mecânica obedece aos seguintes trâmites:\n\na) A ordem de pagamento é levantada no estabelecimento autorizado onde o bilhete foi registado, mediante a apresentação do recibo do bilhete;\n\nb) Quando o valor da ordem de pagamento for igual ou inferior a (euro) 150, é pago obrigatoriamente no estabelecimento autorizado onde se encontre a pagamento;\n\nc) Quando o valor da ordem de pagamento for superior a (euro) 150, é pago no estabelecimento bancário nela indicado;\n\nd) Em qualquer dos casos, é obrigatória a entrega do recibo e da ordem de pagamento devidamente assinada;\n\ne) Quando haja lugar à apresentação de credencial, em lugar do recibo extraviado ou inutilizado, o prémio é pago sempre mediante identificação do concorrente.\n\n10 - Os prémios de valor superior a (euro) 150 também podem ser pagos pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa, que posteriormente receberão as importâncias desembolsadas no estabelecimento bancário através do qual se processem as demais transacções entre aqueles e o Departamento de Jogos.\n\n11 - As ordens de pagamento não reclamadas de valor superior a (euro) 150 têm de ser devolvidas pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa ao Departamento de Jogos 45 dias após a data do concurso.\n\n12 - Os prémios de apostas registadas através do sistema de registo e validação mecânico inferiores a (euro) 1000 - salvo nos casos de acumulação com prémios de valor superior no mesmo bilhete - são postos a pagamento a partir do 5.º dia e até 90 dias após a data do concurso.\n\n13 - Os prémios iguais ou superiores a (euro) 1000 são pagos após o julgamento das reclamações para as apostas registadas através de ambos os sistemas.\n\n14 - As ordens de pagamento correspondentes a prémios do JOKER atribuídos a apostas em bilhetes de «5 semanas», no sistema de registo e validação mecânico, são processadas em simultâneo com as do concurso a que os prémios dizem respeito.\n\n15 - O direito aos prémios caduca decorridos 90 dias sobre a data da realização do concurso do jogo principal.\n\n16 - A verificação do direito a um prémio no sistema central, mediante apresentação e leitura de um recibo premiado em qualquer mediador de jogos que disponha de terminal do sistema de registo e validação informático de apostas, interrompe o prazo de caducidade, independentemente do momento em que o valor do prémio, por ordem de pagamento, cheque ou transferência bancária, entre na posse do jogador.\n\n17 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n18 - Sempre que o prémio seja de valor igual ou superior ao estabelecido na Lei n.º 11/2004, de 27 de Março, é obrigatória a identificação do apresentante do título através de documento de identificação com fotografia, nos termos aí estabelecidos.\n\n> Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+  },
+  "107771151": {
+   "fragment_id": "107771020",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-07-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece as normas do jogo social do Estado denominado 'JOKER', que consiste num sorteio de números, cuja participação depende da participação simultânea num dos jogos sociais do Estado, Totobola, Totogolo, Totoloto e EUROMILHÕES, organizados e explorados, nos termos da lei, pela Santa Casa da Misericórdia de Lisboa, através do seu departamento de jogos.\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+  },
+  "107771152": {
+   "fragment_id": "107771021",
+   "type": 11,
+   "heading": "Artigo 2.º — Concursos",
+   "in_force_from": "2009-07-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Concursos\n\n1 - O JOKER tem periodicidade semanal e nele só podem jogar os apostadores que, em simultâneo, participem num dos jogos sociais do Estado mencionados no artigo anterior.\n\n2 - Para efeitos deste Regulamento, os concursos do Totobola, Totogolo, Totoloto e EUROMILHÕES são designados por jogo principal.\n\n3 - A data do concurso do JOKER é a data do respectivo sorteio, que se realiza ao domingo.\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+  },
+  "107771153": {
+   "fragment_id": "107771023",
+   "type": 11,
+   "heading": "Artigo 4.º — Preço da aposta",
+   "in_force_from": "2009-07-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+   ],
+   "markdown": "###### Artigo 4.º — Preço da aposta\n\nO preço de cada aposta é de (euro) 1.\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+  },
+  "107771154": {
+   "fragment_id": "107771024",
+   "type": 11,
+   "heading": "Artigo 5.º — Distribuição da receita para prémios",
+   "in_force_from": "2009-07-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+   ],
+   "markdown": "###### Artigo 5.º — Distribuição da receita para prémios\n\n1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 50%.\n\n2 - A importância destinada a prémios, depois de deduzidos os encargos legais que sobre eles recaírem, é distribuída por seis categorias de prémios, na forma seguinte:\n\na) Ao 1.º prémio, para cada aposta cujo número de impressão corresponda ao do JOKER, a parte que lhe couber na divisão da importância remanescente necessária ao pagamento dos outros prémios, no valor mínimo de (euro) 200 000;\n\nb) Ao 2.º prémio, para cada aposta cujo número de impressão corresponda aos seis últimos dígitos do número do JOKER, o valor de (euro) 40 000;\n\nc) Ao 3.º prémio, para cada aposta cujo número de impressão corresponda aos cinco últimos dígitos do número do JOKER, o valor de (euro) 4000;\n\nd) Ao 4.º prémio, para cada aposta cujo número de impressão corresponda aos quatro últimos dígitos do número do JOKER, o valor de (euro) 400;\n\ne) Ao 5.º prémio, para cada aposta cujo número de impressão corresponda aos três últimos dígitos do número do JOKER, o valor de (euro) 40;\n\nf) Ao 6.º prémio, para cada aposta cujo número de impressão corresponda aos dois últimos dígitos do número do JOKER, o valor de (euro) 4.\n\n3 - Numa mesma aposta, não há acumulação do prémio de uma categoria com prémios de categorias inferiores.\n\n4 - Quando não for escrutinada qualquer aposta sobre o número do JOKER, o montante que couber ao 1.º prémio na divisão do remanescente necessário ao pagamento dos outros prémios acresce ao montante do 1.º prémio do concurso imediatamente seguinte.\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+  },
+  "107771155": {
+   "fragment_id": "107771027",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de registo e validação informático",
+   "in_force_from": "2009-07-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático pode processar-se:\n\na) Mediante a apresentação dos bilhetes emitidos pelo Departamento de Jogos nos quais se tenham inscrito os prognósticos para o jogo principal e a declaração de participação no JOKER com o número que neles se encontra pré-impresso, também denominado número do JOKER;\n\nb) Mediante solicitação ao mediador dos jogos da Santa Casa da Misericórdia de Lisboa, no momento do pedido de prognósticos aleatórios para o jogo principal, na modalidade denominada «aposta automática», na qual o terminal gera aleatoriamente o número para participação no JOKER;\n\nc) Mediante solicitação ao mediador dos jogos da Santa Casa da Misericórdia de Lisboa, o terminal gera aleatoriamente o número do JOKER quando os prognósticos para o jogo principal tenham sido digitados manualmente.\n\n2 - A declaração de participação no JOKER não pode ser expressa a tinta vermelha.\n\n3 - Para efeitos da alínea a) do presente artigo, o bilhete serve unicamente como suporte da leitura, pelo que carece de qualquer outro valor.\n\n4 - Os dados referentes à aposta no número do JOKER apresentados nos terminais dos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa são transmitidos ao sistema central para registo e validação em suporte informático.\n\n5 - Após o registo e validação da aposta do jogo principal no sistema central, o terminal expedirá o recibo respectivo e dele constarão os seguintes dados:\n\na) Tipo do jogo principal ao qual a aposta do JOKER está associada;\n\nb) Concurso(s) e semana(s) em que participa;\n\nc) Prognósticos efectuados no jogo principal;\n\nd) Número do JOKER;\n\nc) Número de apostas no jogo principal;\n\nf) Valor das apostas;\n\ng) Números de código e de controlo;\n\nh) Dia e hora em que é efectuado o registo e validação no sistema central.\n\n6 - Quando o jogo principal é o EUROMILHÕES o terminal emite dois recibos autónomos para cada um dos jogos, e do recibo do JOKER constam os seguintes dados:\n\na) Concurso(s) e semana(s) em que participa;\n\nb) Número do JOKER;\n\nc) Valor da(s) aposta(s) no JOKER;\n\nd) Números de código e de controlo;\n\ne) Dia e hora em que é efectuado o registo e validação no sistema central;\n\nf) Tipo do jogo principal ao qual a aposta do JOKER está associada.\n\n7 - Sem a validação e registo no sistema central, as apostas não participam no concurso.\n\n8 - O concorrente efectuará o pagamento correspondente às apostas registadas e validadas informaticamente antes de o mediador dos jogos da Santa Casa da Misericórdia de Lisboa lhe entregar o(s) recibo(s) emitido(s) pelo terminal.\n\n9 - O mediador dos jogos da Santa Casa da Misericórdia de Lisboa não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.\n\n10 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas referentes ao jogo principal e ao JOKER, as apostas serão todas anuladas; tal facto constará de outro recibo emitido pelo terminal, que será enviado ao Departamento de Jogos pelo mediador dos jogos da Santa Casa da Misericórdia de Lisboa juntamente com o recibo anulado, não podendo, em caso algum, ser entregue ao jogador nem o recibo anulado nem o recibo de cancelamento.\n\n11 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitem, conforme o que ocorrer primeiro, sendo sempre emitido recibo de cancelamento.\n\n12 - O recibo anulado nunca pode ser entregue ao jogador.\n\n13 - O recibo emitido pelo terminal de jogo no sistema de registo e validação informático é o único título válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n14 - Para todos os efeitos, o recibo ficará identificado pelos números de controlo que nele figuram.\n\n15 - A participação nos concursos mediante registo e validação informático só é válida quando:\n\na) O número do JOKER tenha sido registado validamente e não tenha sido anulado nos suportes informáticos do sistema central, de acordo com os requisitos e os procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em poder do júri dos concursos e arquivada, sob sua custódia, em lugar de segurança, antes do começo quer dos jogos do concurso, ou do sorteio, do jogo principal quer do sorteio do número do JOKER.\n\n16 - Para todos os efeitos, entender-se-á como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco óptico, cassette ou banda magnética, ou outro, em que se encontrem gravadas as apostas correspondentes a cada concurso.\n\n17 - O Departamento de Jogos pode criar o cartão de jogador, no qual constem a sua identificação e ou os prognósticos relativamente aos quais a aposta do JOKER está associada, o número de JOKER, o número da conta bancária a debitar/creditar e o saldo para o jogo.\n\n18 - O Departamento de Jogos poderá autorizar outros meios e suportes para o registo de apostas, nomeadamente telefone fixo ou móvel, Internet, televisão ou qualquer outro que venha a ser decidido e publicitado pela Direcção do Departamento de Jogos.\n\n19 - Relativamente às apostas efectuadas com utilização dos meios previstos no número anterior, as únicas provas de participação nos concursos são os registos informáticos do sistema central da Santa Casa da Misericórdia de Lisboa.\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+  },
+  "107771156": {
+   "fragment_id": "107771034",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos prémios",
+   "in_force_from": "2009-07-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos prémios\n\n1 - Os prémios são pagos pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa ou pelas entidades bancárias expressamente autorizadas pelo Departamento de Jogos, nas condições que este determine.\n\n2 - O pagamento dos prémios, no caso de apostas registadas através do sistema de registo e validação informático, obedece aos seguintes trâmites:\n\na) O mediador dos jogos da Santa Casa da Misericórdia de Lisboa procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes no sistema central, apresenta mensagem, indicando o valor do prémio, e após confirmação do mediador, emite recibo de pagamento do prémio pelo mediador ou dá informação de que o prémio é pago num estabelecimento bancário autorizado;\n\nb) Quando esse valor for igual ou inferior a (euro) 150, é pago em qualquer mediador dos jogos da Santa Casa da Misericórdia de Lisboa, independentemente daquele onde foi registada a aposta;\n\nc) Caso o mediador de jogos da Santa Casa da Misericórdia de Lisboa não tenha disponibilidade de caixa para fazer o pagamento, o jogador pode dirigir-se a qualquer estabelecimento autorizado, dirigir-se directamente ao Departamento de Jogos ou aguardar que exista disponibilidade por parte do mediador primeiramente solicitado;\n\nd) A efectivação do pagamento ficará sempre registada no sistema central e dará origem à emissão de um recibo comprovativo, que ficará na posse do mediador dos jogos da Santa Casa da Misericórdia de Lisboa;\n\ne) Quando o valor do prémio for superior a (euro) 150, é pago num estabelecimento bancário, através de cheque ou ordem de pagamento emitida pelo Departamento de Jogos, a qual é enviada ao mediador através do qual a aposta foi efectuada;\n\nf) Os prémios superiores a (euro) 150 podem ser pagos por crédito na conta bancária do jogador, mediante solicitação deste, nos termos definidos pela direcção do Departamento de Jogos;\n\ng) Quando o recibo emitido pelo terminal do sistema de registo e validação informática não for lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprovará a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emitirá outro documento que permita o respectivo pagamento.\n\n3 - Os prémios de apostas registadas através do sistema de registo e validação informática de valor igual ou inferior a (euro) 150 são postos a pagamento no dia seguinte ao do respectivo sorteio.\n\n4 - O pagamento dos prémios do JOKER que constam de um recibo de «5 semanas» é efectuado nos termos do números anteriores, sendo que o jogador entregará o recibo premiado e o terminal emitirá um recibo de troca para as semanas remanescentes do qual constam todos os elementos do recibo entregue.\n\n5 - O jogador pode receber o pagamento de todos os prémios que constam de um recibo de «5 semanas» se o apresentar a pagamento após o decurso das mesmas.\n\n6 - As ordens de pagamento relativas a apostas no JOKER registadas através do sistema de registo e validação mecânico são enviadas aos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa onde foram registadas ou directamente aos concorrentes, mediante solicitação destes.\n\n7 - O pagamento dos prémios de apostas no JOKER registadas no sistema de registo e validação mecânico faz-se, em regra, por meio de ordens de pagamento e sempre contra a entrega dos recibos dos bilhetes premiados ou de documento que os substitua.\n\n8 - Em caso de extravio ou inutilização do recibo de bilhetes registados através do sistema de registo e validação mecânico, podem os titulares dos bilhetes premiados solicitar uma credencial, a qual será emitida mediante o pagamento de (euro) 2,5 em selos de correio, desde que do pedido constem obrigatoriamente os elementos seguintes:\n\na) Nome inscrito na matriz do bilhete;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do estabelecimento autorizado onde foi registado o bilhete.\n\n9 - O pagamento dos prémios de apostas registadas através do sistema de registo e validação mecânica obedece aos seguintes trâmites:\n\na) A ordem de pagamento é levantada no estabelecimento autorizado onde o bilhete foi registado, mediante a apresentação do recibo do bilhete;\n\nb) Quando o valor da ordem de pagamento for igual ou inferior a (euro) 150, é pago obrigatoriamente no estabelecimento autorizado onde se encontre a pagamento;\n\nc) Quando o valor da ordem de pagamento for superior a (euro) 150, é pago no estabelecimento bancário nela indicado;\n\nd) Em qualquer dos casos, é obrigatória a entrega do recibo e da ordem de pagamento devidamente assinada;\n\ne) Quando haja lugar à apresentação de credencial, em lugar do recibo extraviado ou inutilizado, o prémio é pago sempre mediante identificação do concorrente.\n\n10 - Os prémios de valor superior a (euro) 150 também podem ser pagos pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa, que posteriormente receberão as importâncias desembolsadas no estabelecimento bancário através do qual se processem as demais transacções entre aqueles e o Departamento de Jogos.\n\n11 - As ordens de pagamento não reclamadas de valor superior a (euro) 150 têm de ser devolvidas pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa ao Departamento de Jogos 45 dias após a data do concurso.\n\n12 - Os prémios de apostas registadas através do sistema de registo e validação mecânico inferiores a (euro) 1000 - salvo nos casos de acumulação com prémios de valor superior no mesmo bilhete - são postos a pagamento a partir do 5.º dia e até 90 dias após a data do concurso.\n\n13 - Os prémios iguais ou superiores a (euro) 1000 são pagos após o julgamento das reclamações para as apostas registadas através de ambos os sistemas.\n\n14 - As ordens de pagamento correspondentes a prémios do JOKER atribuídos a apostas em bilhetes de «5 semanas», no sistema de registo e validação mecânico, são processadas em simultâneo com as do concurso a que os prémios dizem respeito.\n\n15 - O direito aos prémios caduca decorridos 90 dias sobre a data da realização do concurso do jogo principal.\n\n16 - A verificação do direito a um prémio no sistema central, mediante apresentação e leitura de um recibo premiado em qualquer mediador de jogos que disponha de terminal do sistema de registo e validação informático de apostas, interrompe o prazo de caducidade, independentemente do momento em que o valor do prémio, por ordem de pagamento, cheque ou transferência bancária, entre na posse do jogador.\n\n17 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n18 - Sempre que o prémio seja de valor igual ou superior ao estabelecido na Lei n.º 11/2004, de 27 de Março, é obrigatória a identificação do apresentante do título através de documento de identificação com fotografia, nos termos aí estabelecidos.\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+  },
+  "107771157": {
+   "fragment_id": "107771024",
+   "type": 11,
+   "heading": "Artigo 5.º — Distribuição da receita para prémios",
+   "in_force_from": "2009-09-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 973/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/973-2009-488495), em vigor a partir de 2009-09-01, produz efeitos a partir de 2009-09-06",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+   ],
+   "markdown": "###### Artigo 5.º — Distribuição da receita para prémios\n\n1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 55 %.\n\n2 - A importância destinada a prémios é distribuída por seis categorias de prémios, na forma seguinte:\n\na) Ao 1.º prémio, para cada aposta cujo número de impressão corresponda ao do JOKER, a parte que lhe couber na divisão da importância remanescente necessária ao pagamento dos outros prémios, no valor mínimo de (euro) 500 000;\n\nb) Ao 2.º prémio, para cada aposta cujo número de impressão corresponda aos seis últimos dígitos do número do JOKER, o valor de (euro) 50 000;\n\nc) Ao 3.º prémio, para cada aposta cujo número de impressão corresponda aos cinco últimos dígitos do número do JOKER, o valor de (euro) 5000;\n\nd) Ao 4.º prémio, para cada aposta cujo número de impressão corresponda aos quatro últimos dígitos do número do JOKER, o valor de (euro) 500;\n\ne) Ao 5.º prémio, para cada aposta cujo número de impressão corresponda aos três últimos dígitos do número do JOKER, o valor de (euro) 50;\n\nf) Ao 6.º prémio, para cada aposta cujo número de impressão corresponda aos dois últimos dígitos do número do JOKER, o valor de (euro) 5.\n\n3 - Numa mesma aposta, não há acumulação do prémio de uma categoria com prémios de categorias inferiores.\n\n4 - Quando não for escrutinada qualquer aposta sobre o número do JOKER, o montante que couber ao 1.º prémio na divisão do remanescente necessário ao pagamento dos outros prémios acresce ao montante do 1.º prémio do concurso imediatamente seguinte.\n\n> Alterado pelo/a [Portaria n.º 973/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/973-2009-488495), em vigor a partir de 2009-09-01, produz efeitos a partir de 2009-09-06\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+  },
+  "107771158": {
+   "fragment_id": "107771022",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições gerais de participação no concurso",
+   "in_force_from": "2011-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05"
+   ],
+   "markdown": "###### Artigo 3.º — Condições gerais de participação no concurso\n\n1 - A participação no jogo do JOKER inicia-se com a declaração expressa de «Sim» por parte do jogador e o pagamento do respectivo preço, nos termos da lei e do presente Regulamento.\n\n2 - Caso o apostador não pretenda participar no jogo declarará expressamente «Não».\n\n3 - Se, para a mesma aposta, o apostador declarar «Sim» e «Não», a aposta participa no JOKER; na falta de declaração, a aposta não participa no JOKER.\n\n4 - Tal participação pressupõe o integral conhecimento, adesão e plena aceitação das referidas normas.\n\n5 - A participação só se torna efectiva quando estiverem reunidas todas as condições regulamentares de validade das apostas para participação no jogo principal e no JOKER.\n\n6 - A importância despendida no JOKER é devolvida quando a totalidade das apostas no jogo principal são anuladas e não participam no respectivo concurso, sendo igualmente devolvida a importância quando a aposta num determinado concurso do jogo principal de que depende o JOKER é anulada e não participa no mesmo, casos em que o número do JOKER que consta do bilhete respectivo também não participa no sorteio respectivo.\n\n7 - A aposta no JOKER está sempre dependente da aposta num determinado concurso de outro jogo de apostas mútuas explorado pelo Departamento de Jogos, nos termos da lei.\n\n8 - As apostas registadas e não anuladas nos termos do presente diploma são obrigatoriamente pagas pelo mediador nos termos do regulamento respectivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05"
+  },
+  "107771159": {
+   "fragment_id": "107771027",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de registo e validação informático",
+   "in_force_from": "2011-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático pode processar-se:\n\na) Mediante a apresentação dos bilhetes emitidos pelo Departamento de Jogos nos quais se tenham inscrito os prognósticos para o jogo principal e a declaração de participação no JOKER com o número que neles se encontra pré-impresso, também denominado número do JOKER;\n\nb) Mediante solicitação ao mediador dos jogos da Santa Casa da Misericórdia de Lisboa, no momento do pedido de prognósticos aleatórios para o jogo principal, na modalidade denominada «aposta automática», na qual o terminal gera aleatoriamente o número para participação no JOKER;\n\nc) Mediante solicitação ao mediador dos jogos da Santa Casa da Misericórdia de Lisboa, o terminal gera aleatoriamente o número do JOKER quando os prognósticos para o jogo principal tenham sido digitados manualmente.\n\n2 - A declaração de participação no JOKER não pode ser expressa a tinta vermelha.\n\n3 - Para efeitos da alínea a) do presente artigo, o bilhete serve unicamente como suporte da leitura, pelo que carece de qualquer outro valor.\n\n4 - Os dados referentes à aposta no número do JOKER apresentados nos terminais dos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa são transmitidos ao sistema central para registo e validação em suporte informático.\n\n5 - Após o registo e validação da aposta do jogo principal no sistema central, o terminal expedirá o recibo respectivo e dele constarão os seguintes dados:\n\na) Tipo do jogo principal ao qual a aposta do JOKER está associada;\n\nb) Concurso(s) e semana(s) em que participa;\n\nc) Prognósticos efectuados no jogo principal;\n\nd) Número do JOKER;\n\nc) Número de apostas no jogo principal;\n\nf) Valor das apostas;\n\ng) Números de código e de controlo;\n\nh) Dia e hora em que é efectuado o registo e validação no sistema central.\n\n6 - Quando o jogo principal é o EUROMILHÕES o terminal emite dois recibos autónomos para cada um dos jogos, e do recibo do JOKER constam os seguintes dados:\n\na) Concurso(s) e semana(s) em que participa;\n\nb) Número do JOKER;\n\nc) Valor da(s) aposta(s) no JOKER;\n\nd) Números de código e de controlo;\n\ne) Dia e hora em que é efectuado o registo e validação no sistema central;\n\nf) Tipo do jogo principal ao qual a aposta do JOKER está associada.\n\n7 - Nos termos do número anterior, o recibo de aposta no JOKER tem os números de código e de controlo do recibo de aposta num determinado concurso do jogo principal do qual o JOKER depende.\n\n8 - Sem a validação e registo no sistema central, as apostas não participam no concurso.\n\n9 - O concorrente efectuará o pagamento correspondente às apostas registadas e validadas informaticamente antes de o mediador dos jogos da Santa Casa da Misericórdia de Lisboa lhe entregar o(s) recibo(s) emitido(s) pelo terminal.\n\n10 - O mediador dos jogos da Santa Casa da Misericórdia de Lisboa não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.\n\n11 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas referentes ao jogo principal e ao JOKER, as apostas serão todas anuladas; tal facto constará de outro recibo emitido pelo terminal, que será enviado ao Departamento de Jogos pelo mediador dos jogos da Santa Casa da Misericórdia de Lisboa juntamente com o recibo anulado, não podendo, em caso algum, ser entregue ao jogador nem o recibo anulado nem o recibo de cancelamento.\n\n12 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitem, conforme o que ocorrer primeiro, sendo sempre emitido recibo de cancelamento.\n\n13 - A aposta no JOKER é sempre anulada pelo mediador dos jogos sociais do Estado quando o respectivo recibo tenha os números de código e de controlo que o recibo da aposta anulada no jogo principal.\n\n14 - O recibo anulado nunca pode ser entregue ao jogador.\n\n15 - O recibo emitido pelo terminal de jogo no sistema de registo e validação informático é o único título válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n16 - Para todos os efeitos, o recibo ficará identificado pelos números de controlo que nele figuram.\n\n17 - A participação nos concursos mediante registo e validação informático só é válida quando:\n\na) O número do JOKER tenha sido registado validamente e não tenha sido anulado nos suportes informáticos do sistema central, de acordo com os requisitos e os procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em poder do júri dos concursos e arquivada, sob sua custódia, em lugar de segurança, antes do começo quer dos jogos do concurso, ou do sorteio, do jogo principal quer do sorteio do número do JOKER.\n\n18 - Para todos os efeitos, entender-se-á como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco óptico, cassette ou banda magnética, ou outro, em que se encontrem gravadas as apostas correspondentes a cada concurso.\n\n19 - O Departamento de Jogos pode criar o cartão de jogador, no qual constem a sua identificação e ou os prognósticos relativamente aos quais a aposta do JOKER está associada, o número de JOKER, o número da conta bancária a debitar/creditar e o saldo para o jogo.\n\n20 - O Departamento de Jogos poderá autorizar outros meios e suportes para o registo de apostas, nomeadamente telefone fixo ou móvel, Internet, televisão ou qualquer outro que venha a ser decidido e publicitado pela Direcção do Departamento de Jogos.\n\n21 - Relativamente às apostas efectuadas com utilização dos meios previstos no número anterior, as únicas provas de participação nos concursos são os registos informáticos do sistema central da Santa Casa da Misericórdia de Lisboa.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+  },
+  "107771160": {
+   "fragment_id": "107771034",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos prémios",
+   "in_force_from": "2011-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos prémios\n\n1 - Os prémios são pagos pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa ou pelas entidades bancárias expressamente autorizadas pelo Departamento de Jogos, nas condições que este determine.\n\n2 - O pagamento dos prémios, no caso de apostas registadas através do sistema de registo e validação informático, obedece aos seguintes trâmites:\n\na) O mediador dos jogos da Santa Casa da Misericórdia de Lisboa procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes no sistema central, apresenta mensagem, indicando o valor do prémio, e após confirmação do mediador, emite recibo de pagamento do prémio pelo mediador ou dá informação de que o prémio é pago num estabelecimento bancário autorizado;\n\nb) Quando esse valor for igual ou inferior a (euro) 150, é pago em qualquer mediador dos jogos da Santa Casa da Misericórdia de Lisboa, independentemente daquele onde foi registada a aposta;\n\nc) Caso o mediador de jogos da Santa Casa da Misericórdia de Lisboa não tenha disponibilidade de caixa para fazer o pagamento, o jogador pode dirigir-se a qualquer estabelecimento autorizado, dirigir-se directamente ao Departamento de Jogos ou aguardar que exista disponibilidade por parte do mediador primeiramente solicitado;\n\nd) A efectivação do pagamento ficará sempre registada no sistema central e dará origem à emissão de um recibo comprovativo, que ficará na posse do mediador dos jogos da Santa Casa da Misericórdia de Lisboa;\n\ne) Quando o valor do prémio for superior a (euro) 150, é pago num estabelecimento bancário, através de cheque ou ordem de pagamento emitida pelo Departamento de Jogos, a qual é enviada ao mediador através do qual a aposta foi efectuada;\n\nf) Os prémios superiores a (euro) 150 podem ser pagos por crédito na conta bancária do jogador, mediante solicitação deste, nos termos definidos pela direcção do Departamento de Jogos;\n\ng) Quando o recibo emitido pelo terminal do sistema de registo e validação informática não for lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprovará a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emitirá outro documento que permita o respectivo pagamento.\n\n3 - Os prémios de apostas registadas através do sistema de registo e validação informática de valor igual ou inferior a (euro) 150 são postos a pagamento no dia seguinte ao do respectivo sorteio.\n\n4 - O pagamento dos prémios do JOKER que constam de um recibo de «5 semanas» é efectuado nos termos do números anteriores, sendo que o jogador entregará o recibo premiado e o terminal emitirá um recibo de troca para as semanas remanescentes do qual constam todos os elementos do recibo entregue.\n\n5 - O jogador pode receber o pagamento de todos os prémios que constam de um recibo de «5 semanas» se o apresentar a pagamento após o decurso das mesmas.\n\n6 - As ordens de pagamento relativas a apostas no JOKER registadas através do sistema de registo e validação mecânico são enviadas aos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa onde foram registadas ou directamente aos concorrentes, mediante solicitação destes.\n\n7 - O pagamento dos prémios de apostas no JOKER registadas no sistema de registo e validação mecânico faz-se, em regra, por meio de ordens de pagamento e sempre contra a entrega dos recibos dos bilhetes premiados ou de documento que os substitua.\n\n8 - Em caso de extravio ou inutilização do recibo de bilhetes registados através do sistema de registo e validação mecânico, podem os titulares dos bilhetes premiados solicitar uma credencial, a qual será emitida mediante o pagamento de (euro) 2,5 em selos de correio, desde que do pedido constem obrigatoriamente os elementos seguintes:\n\na) Nome inscrito na matriz do bilhete;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do estabelecimento autorizado onde foi registado o bilhete.\n\n9 - O pagamento dos prémios de apostas registadas através do sistema de registo e validação mecânica obedece aos seguintes trâmites:\n\na) A ordem de pagamento é levantada no estabelecimento autorizado onde o bilhete foi registado, mediante a apresentação do recibo do bilhete;\n\nb) Quando o valor da ordem de pagamento for igual ou inferior a (euro) 150, é pago obrigatoriamente no estabelecimento autorizado onde se encontre a pagamento;\n\nc) Quando o valor da ordem de pagamento for superior a (euro) 150, é pago no estabelecimento bancário nela indicado;\n\nd) Em qualquer dos casos, é obrigatória a entrega do recibo e da ordem de pagamento devidamente assinada;\n\ne) Quando haja lugar à apresentação de credencial, em lugar do recibo extraviado ou inutilizado, o prémio é pago sempre mediante identificação do concorrente.\n\n10 - Os prémios de valor superior a (euro) 150 também podem ser pagos pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa, que posteriormente receberão as importâncias desembolsadas no estabelecimento bancário através do qual se processem as demais transacções entre aqueles e o Departamento de Jogos.\n\n11 - As ordens de pagamento não reclamadas de valor superior a (euro) 150 têm de ser devolvidas pelos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa ao Departamento de Jogos 45 dias após a data do concurso.\n\n12 - Os prémios de apostas registadas através do sistema de registo e validação mecânico inferiores a (euro) 1000 - salvo nos casos de acumulação com prémios de valor superior no mesmo bilhete - são postos a pagamento a partir do 5.º dia e até 90 dias após a data do concurso.\n\n13 - Os prémios iguais ou superiores a (euro) 5000 são pagos após o julgamento das reclamações para as apostas registadas através de ambos os sistemas.\n\n14 - As ordens de pagamento correspondentes a prémios do JOKER atribuídos a apostas em bilhetes de «5 semanas», no sistema de registo e validação mecânico, são processadas em simultâneo com as do concurso a que os prémios dizem respeito.\n\n15 - O direito aos prémios caduca decorridos 90 dias sobre a data da realização do concurso do jogo principal.\n\n16 - A verificação do direito a um prémio no sistema central, mediante apresentação e leitura de um recibo premiado em qualquer mediador de jogos que disponha de terminal do sistema de registo e validação informático de apostas, interrompe o prazo de caducidade, independentemente do momento em que o valor do prémio, por ordem de pagamento, cheque ou transferência bancária, entre na posse do jogador.\n\n17 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n18 - Sempre que o prémio seja de valor igual ou superior ao estabelecido na Lei n.º 11/2004, de 27 de Março, é obrigatória a identificação do apresentante do título através de documento de identificação com fotografia, nos termos aí estabelecidos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+  },
+  "107771161": {
+   "fragment_id": "107771035",
+   "type": 11,
+   "heading": "Artigo 16.º — Reclamações",
+   "in_force_from": "2011-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05"
+   ],
+   "markdown": "###### Artigo 16.º — Reclamações\n\n1 - Todo o possuidor de um recibo emitido pelo sistema de registo e validação informático, e que tendo apresentado o mesmo para pagamento, num mediador dos jogos da Santa Casa da Misericórdia de Lisboa, seja informado de que não tem direito a prémio, de que o prémio já foi pago ou de que existe algum outro motivo que impeça o seu pagamento, tem o direito de reclamar.\n\n2 - Todo o possuidor de um recibo de um bilhete registado no sistema de registo e validação mecânico que considere conter apostas com direito a prémio e que após consulta das relações de prémios enviada ao estabelecimento autorizado verifique que o seu bilhete não figura entre os premiados ou não está conforme com os prémios a que se julga com direito pode reclamar.\n\n3 - No caso de apostas validadas registadas mecanicamente, se as reclamações disserem respeito a bilhetes sem indicação do nome dos concorrentes, é obrigatória a apresentação, pelos mesmos, dos recibos respectivos.\n\n4 - As reclamações são apresentadas por escrito, em formulário próprio, a entregar no Departamento de Jogos.\n\n5 - As reclamações também podem ser apresentadas por telegrama, e-mail, telecópia ou telex, desde que sejam indicados, pelo menos, os seguintes elementos:\n\na) Nome completo e morada do recorrente;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do terminal/máquina que registou o bilhete;\n\nd) Números de impressão e de registo do bilhete ou números de controlo;\n\ne) Motivo da reclamação.\n\n6 - O prazo para apresentação de reclamação conta-se a partir da data do concurso e é de 12 dias para os prémios de valor igual ou superior a (euro) 5000 e de 60 dias para os outros, salvo no caso de acumulação com prémios de valor superior a (euro) 5000, em que o prazo é de 12 dias.\n\n7 - O prazo é de caducidade, não sendo considerada qualquer reclamação que dê entrada no Departamento de Jogos fora do prazo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05"
+  },
+  "107773305": {
+   "fragment_id": "107771027",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de registo e validação informático",
+   "in_force_from": "2011-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 102/2011 - Diário da República n.º 50/2011, Série I de 2011-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/102-2011-278178), em vigor a partir de 2011-03-13",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático pode processar-se:\n\na) Mediante a apresentação dos bilhetes emitidos pelo Departamento de Jogos nos quais se tenham inscrito os prognósticos para o jogo principal e a declaração de participação no JOKER com o número que neles se encontra pré-impresso, também denominado número do JOKER;\n\nb) Mediante solicitação ao mediador dos jogos da Santa Casa da Misericórdia de Lisboa, no momento do pedido de prognósticos aleatórios para o jogo principal, na modalidade denominada «aposta automática», na qual o terminal gera aleatoriamente o número para participação no JOKER;\n\nc) Mediante solicitação ao mediador dos jogos da Santa Casa da Misericórdia de Lisboa, o terminal gera aleatoriamente o número do JOKER quando os prognósticos para o jogo principal tenham sido digitados manualmente.\n\n2 - A declaração de participação no JOKER não pode ser expressa a tinta vermelha.\n\n3 - Para efeitos da alínea a) do presente artigo, o bilhete serve unicamente como suporte da leitura, pelo que carece de qualquer outro valor.\n\n4 - Os dados referentes à aposta no número do JOKER apresentados nos terminais dos mediadores dos jogos da Santa Casa da Misericórdia de Lisboa são transmitidos ao sistema central para registo e validação em suporte informático.\n\n5 - Após o registo e validação da aposta do jogo principal no sistema central, o terminal expedirá o recibo respectivo e dele constarão os seguintes dados:\n\na) Tipo do jogo principal ao qual a aposta do JOKER está associada;\n\nb) Concurso(s) e semana(s) em que participa;\n\nc) Prognósticos efectuados no jogo principal;\n\nd) Número do JOKER;\n\nc) Número de apostas no jogo principal;\n\nf) Valor das apostas;\n\ng) Números de código e de controlo;\n\nh) Dia e hora em que é efectuado o registo e validação no sistema central.\n\n6 - Quando o jogo principal é o Totoloto ou o EUROMILHÕES, o terminal emite um recibo autónomo para o JOKER, no qual constam os seguintes dados:\n\na) Concurso(s) e semana(s) em que participa;\n\nb) Número do JOKER;\n\nc) Valor da(s) aposta(s) no JOKER;\n\nd) Números de código e de controlo;\n\ne) Dia e hora em que é efectuado o registo e validação no sistema central;\n\nf) Tipo do jogo principal ao qual a aposta do JOKER está associada.\n\n7 - Nos termos do número anterior, o recibo de aposta no JOKER tem os números de código e de controlo do recibo de aposta num determinado concurso do jogo principal do qual o JOKER depende.\n\n8 - Sem a validação e registo no sistema central, as apostas não participam no concurso.\n\n9 - O concorrente efectuará o pagamento correspondente às apostas registadas e validadas informaticamente antes de o mediador dos jogos da Santa Casa da Misericórdia de Lisboa lhe entregar o(s) recibo(s) emitido(s) pelo terminal.\n\n10 - O mediador dos jogos da Santa Casa da Misericórdia de Lisboa não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.\n\n11 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas referentes ao jogo principal e ao JOKER, as apostas serão todas anuladas; tal facto constará de outro recibo emitido pelo terminal, que será enviado ao Departamento de Jogos pelo mediador dos jogos da Santa Casa da Misericórdia de Lisboa juntamente com o recibo anulado, não podendo, em caso algum, ser entregue ao jogador nem o recibo anulado nem o recibo de cancelamento.\n\n12 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitem, conforme o que ocorrer primeiro, sendo sempre emitido recibo de cancelamento.\n\n13 - A aposta no JOKER é sempre anulada pelo mediador dos jogos sociais do Estado quando o respectivo recibo tenha os números de código e de controlo que o recibo da aposta anulada no jogo principal.\n\n14 - O recibo anulado nunca pode ser entregue ao jogador.\n\n15 - O recibo emitido pelo terminal de jogo no sistema de registo e validação informático é o único título válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n16 - Para todos os efeitos, o recibo ficará identificado pelos números de controlo que nele figuram.\n\n17 - A participação nos concursos mediante registo e validação informático só é válida quando:\n\na) O número do JOKER tenha sido registado validamente e não tenha sido anulado nos suportes informáticos do sistema central, de acordo com os requisitos e os procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em poder do júri dos concursos e arquivada, sob sua custódia, em lugar de segurança, antes do começo quer dos jogos do concurso, ou do sorteio, do jogo principal quer do sorteio do número do JOKER.\n\n18 - Para todos os efeitos, entender-se-á como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco óptico, cassette ou banda magnética, ou outro, em que se encontrem gravadas as apostas correspondentes a cada concurso.\n\n19 - O Departamento de Jogos pode criar o cartão de jogador, no qual constem a sua identificação e ou os prognósticos relativamente aos quais a aposta do JOKER está associada, o número de JOKER, o número da conta bancária a debitar/creditar e o saldo para o jogo.\n\n20 - O Departamento de Jogos poderá autorizar outros meios e suportes para o registo de apostas, nomeadamente telefone fixo ou móvel, Internet, televisão ou qualquer outro que venha a ser decidido e publicitado pela Direcção do Departamento de Jogos.\n\n21 - Relativamente às apostas efectuadas com utilização dos meios previstos no número anterior, as únicas provas de participação nos concursos são os registos informáticos do sistema central da Santa Casa da Misericórdia de Lisboa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 102/2011 - Diário da República n.º 50/2011, Série I de 2011-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/102-2011-278178), em vigor a partir de 2011-03-13\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+  },
+  "107773336": {
+   "fragment_id": "107771020",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece as normas do jogo social do Estado denominado 'JOKER', que consiste num sorteio de números, cuja participação depende da participação simultânea num dos jogos sociais do Estado, Totobola, Totoloto e EUROMILHÕES, organizados e explorados, nos termos da lei, pela Santa Casa da Misericórdia de Lisboa, através do seu Departamento de Jogos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+  },
+  "107773337": {
+   "fragment_id": "107771021",
+   "type": 11,
+   "heading": "Artigo 2.º — Concursos",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Concursos\n\n1 - O JOKER tem periodicidade semanal e nele só podem jogar os apostadores que, em simultâneo, participem num dos jogos sociais do Estado mencionados no artigo anterior.\n\n2 - Para efeitos deste Regulamento, os concursos do Totobola, Totoloto e EUROMILHÕES são designados por jogo principal.\n\n3 - A data do concurso do JOKER é a data do respectivo sorteio, que se realiza ao domingo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+  },
+  "107773338": {
+   "fragment_id": "107771025",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo e validação de apostas",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 6.º — Registo e validação de apostas\n\n1 - O sistema de registo e validação de apostas é informático.\n\n2 - O sistema referido no número anterior apenas pode operar nos mediadores dos jogos sociais do Estado, através dos terminais de jogo ou da plataforma de acesso multicanal, sem prejuízo da possibilidade de disponibilização direta pelo Departamento de Jogos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773339": {
+   "fragment_id": "107771026",
+   "type": 11,
+   "heading": "Artigo 7.º — Mediadores dos jogos sociais do Estado",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 7.º — Mediadores dos jogos sociais do Estado\n\n1 - Os mediadores dos jogos sociais do Estado são representantes dos concorrentes junto do Departamento de Jogos e agem exclusivamente nessa qualidade.\n\n2 - Os erros ou omissões cometidos pelos mediadores dos jogos sociais do Estado no exercício das suas funções não são imputáveis ao Departamento de Jogos.\n\n3 - Os mediadores dos jogos sociais do Estado representam os jogadores junto do Departamento de Jogos, não representando, em caso algum, o Departamento de Jogos junto dos jogadores.\n\n4 - O mediador é responsável perante o Departamento de Jogos pelo pagamento do preço de todas as apostas registadas através dos terminais de jogo que lhe estão atribuídos e que não tenham sido anuladas nos termos dos números anteriores.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773340": {
+   "fragment_id": "107771027",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de registo e validação informático",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 102/2011 - Diário da República n.º 50/2011, Série I de 2011-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/102-2011-278178), em vigor a partir de 2011-03-13",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático pode processar-se:\n\na) Mediante a apresentação dos bilhetes emitidos pelo Departamento de Jogos nos quais se tenham inscrito os prognósticos para o jogo principal e a declaração de participação no JOKER com o número que neles se encontra pré-impresso, também denominado número do JOKER;\n\nb) Mediante solicitação ao mediador dos jogos sociais do Estado, no momento do pedido de prognósticos aleatórios para o jogo principal, na modalidade denominada «aposta automática», na qual o terminal gera aleatoriamente o número para participação no JOKER;\n\nc) Mediante solicitação ao mediador dos jogos sociais do Estado, o terminal gera aleatoriamente o número do JOKER quando os prognósticos para o jogo principal tenham sido digitados manualmente;\n\nd) Pela utilização do cartão de jogador nos outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, nos termos do Decreto-Lei n.º 282/2003, de 8 de novembro.\n\n2 - A declaração de participação no JOKER não pode ser expressa a tinta vermelha.\n\n3 - Para efeitos da alínea a) do presente artigo, o bilhete serve unicamente como suporte da leitura, pelo que carece de qualquer outro valor.\n\n4 - Os dados referentes à aposta no número do JOKER apresentados nos terminais dos mediadores dos jogos sociais do Estado são transmitidos ao sistema central para registo e validação em suporte informático.\n\n5 - Após o registo e validação da aposta do jogo principal no sistema central, o terminal expedirá o recibo respectivo e dele constarão os seguintes dados:\n\na) Tipo do jogo principal ao qual a aposta do JOKER está associada;\n\nb) Concurso(s) e semana(s) em que participa;\n\nc) Prognósticos efectuados no jogo principal;\n\nd) Número do JOKER;\n\nc) Número de apostas no jogo principal;\n\nf) Valor das apostas;\n\ng) Números de código e de controlo;\n\nh) Dia e hora em que é efectuado o registo e validação no sistema central.\n\n6 - Quando o jogo principal é o Totoloto ou o EUROMILHÕES, o terminal emite um recibo autónomo para o JOKER, no qual constam os seguintes dados:\n\na) Concurso(s) e semana(s) em que participa;\n\nb) Número do JOKER;\n\nc) Valor da(s) aposta(s) no JOKER;\n\nd) Números de código e de controlo;\n\ne) Dia e hora em que é efectuado o registo e validação no sistema central;\n\nf) Tipo do jogo principal ao qual a aposta do JOKER está associada.\n\n7 - Nos termos do número anterior, o recibo de aposta no JOKER tem os números de código e de controlo do recibo de aposta num determinado concurso do jogo principal do qual o JOKER depende.\n\n8 - Sem a validação e registo no sistema central, as apostas não participam no concurso.\n\n9 - O concorrente efetuará o pagamento correspondente às apostas registadas e validadas informaticamente antes de o mediador dos jogos sociais do Estado lhe entregar o(s) recibo(s) emitido(s) pelo terminal.\n\n10 - O mediador dos jogos sociais do Estado não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.\n\n11 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas efetuadas, as mesmas serão anuladas pelo mediador através da reintrodução do recibo no terminal que imprimirá na frente a palavra \"ANULADO\" ou \"CANCELADO\", valor da aposta, data e hora e que será enviado ao Departamento de Jogos pelo mediador dos jogos sociais do Estado não podendo, em caso algum, ser entregue ao jogador.\n\n12 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitem, conforme a que ocorrer primeiro.\n\n13 - A aposta no JOKER é sempre anulada pelo mediador dos jogos sociais do Estado quando o respectivo recibo tenha os mesmos números de código e de controlo que o recibo da aposta anulada no jogo principal.\n\n14 - O recibo anulado nunca pode ser entregue ao jogador.\n\n15 - O recibo emitido pelo terminal de jogo no sistema de registo e validação informático é o único título válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n16 - Para todos os efeitos, o recibo ficará identificado pelos números de controlo que nele figuram.\n\n17 - Para as apostas realizadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, o cartão de jogador com o qual foi efetuada a aposta é o único documento válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n18 - A participação nos concursos mediante registo e validação informático só é válida quando:\n\na) O número do JOKER tenha sido registado validamente e não tenha sido anulado nos suportes informáticos do sistema central, de acordo com os requisitos e os procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em poder do júri dos concursos e arquivada, sob sua custódia, em lugar de segurança, antes do começo quer dos jogos do concurso, ou do sorteio, do jogo principal quer do sorteio do número do JOKER.\n\n19 - Para todos os efeitos, entender-se-á como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco óptico, cassette ou banda magnética, ou outro, em que se encontrem gravadas as apostas correspondentes a cada concurso.\n\n20 - O Departamento de Jogos poderá autorizar outros meios e suportes para o registo de apostas, nomeadamente telefone fixo ou móvel, Internet, televisão ou outro.\n\n21 - Relativamente às apostas efectuadas com utilização dos meios previstos no número anterior, as únicas provas de participação nos concursos são os registos informáticos do sistema central da Santa Casa da Misericórdia de Lisboa.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 102/2011 - Diário da República n.º 50/2011, Série I de 2011-03-11](https://diariodarepublica.pt/dr/detalhe/portaria/102-2011-278178), em vigor a partir de 2011-03-13\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05"
+  },
+  "107773341": {
+   "fragment_id": "107771028",
+   "type": 11,
+   "heading": "Artigo 9.º — Cartão de Jogador",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 9.º — Cartão de Jogador\n\n1 - Para efetuar os pagamentos e receber os prémios do JOKER, através do sistema de registo e validação informático, podem os jogadores utilizar um cartão de jogador emitido pelo Departamento de Jogos.\n\n2 - O cartão de jogador, identificado pelo respectivo número e código de segurança, está associado a uma conta bancária à ordem, possibilitando o pagamento antecipado do jogo, que consiste no seu carregamento até determinado montante para utilização na participação nos jogos sociais do Estado, sendo recarregável e permitindo creditar, até determinado montante, o valor dos prémios, dos mesmos jogos, a que tenha direito.\n\n3 - Os montantes referidos no número anterior, bem como as respetivas regras de utilização, são definidos pelo Departamento de Jogos nas condições gerais de utilização do cartão de jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social de âmbito nacional, pela internet e por quaisquer outros meios julgados adequados, e constam da documentação necessariamente entregue ao jogador no momento da aquisição do cartão.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773351": {
+   "fragment_id": "107771029",
+   "type": 11,
+   "heading": "Artigo 10.º — Microfilmagem",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 10.º — Microfilmagem\n\n1 - A validação das apostas registadas nos termos do artigo anterior efectua-se com a microfilmagem das matrizes dos bilhetes registados mecanicamente.\n\n2 - É condição de participação nos concursos a microfilmagem das matrizes dos bilhetes registados ou dos documentos constantes dos n.os 15 e 16 do artigo anterior, de forma que os respectivos microfilmes sejam entregues ao júri dos concursos para encerramento, em lugar de segurança, antes do início do acto do sorteio dos números.\n\n3 - Só o microfilme constitui prova da aposta no JOKER.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773342": {
+   "fragment_id": "107771030",
+   "type": 11,
+   "heading": "Artigo 11.º — Júri dos concursos",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 11.º — Júri dos concursos\n\n1 - Ao júri dos concursos, com a constituição fixada no artigo 30.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro, compete:\n\na) A receção e a guarda em segurança da cópia dos registos das apostas efetuadas através do sistema de registo e validação informático, prevista no artigo 8.º, n.º 18, alínea b);\n\nb) A comprovação do direito a prémio, a qual tem lugar através da leitura da cópia de segurança mencionada no artigo 8.º, n.º 18, alínea b), que se encontra em poder do júri dos concursos.\n\n2 - Das operações previstas no número anterior é lavrada acta.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773343": {
+   "fragment_id": "107771031",
+   "type": 11,
+   "heading": "Artigo 12.º — Sorteios dos números",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 12.º — Sorteios dos números\n\n1 - O sorteio do número do JOKER realiza-se normalmente ao domingo, mediante a extração temporizada de sete bolas numeradas de 0 a 9, homogéneas, iguais em material, volume e peso, utilizando para o efeito de uma a sete esferas rotativas.\n\n2 - As esferas do sorteio podem ser accionadas por meios automáticos ou manuais.\n\n3 - Em caso de interrupção por motivo de avaria ou de força maior, o sorteio será retomado logo que possível ou, quando a interrupção exceder duas horas, no dia seguinte, mas os números das bolas extraídas mantêm-se válidos.\n\n4 - A extracção de um algarismo só se concretiza quando a respectiva bola sair completamente da esfera, não existindo antes desse momento.\n\n5 - Os actos dos sorteios são presididos e fiscalizados pelo júri dos concursos, podendo ser transmitidos pela televisão ou por outro meio de divulgação pública, e deles é lavrada a respectiva acta.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773344": {
+   "fragment_id": "107771032",
+   "type": 11,
+   "heading": "Artigo 13.º — Escrutínio",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 13.º — Escrutínio\n\n1 - O escrutínio é o conjunto de operações pelas quais se procede ao apuramento do direito aos prémios.\n\n2 - A partir das apostas que participaram no concurso através do sistema de registo e validação informático é gerado no sistema central um ficheiro de apostas premiadas, classificadas por categorias de prémios.\n\n3 - O sistema informático central fornecerá ao júri dos concursos e aos serviços de escrutínio informação detalhada da receita obtida e do número de prémios por categoria de cada concurso, relativamente às apostas validadas através do sistema de registo e validação informático.\n\n4 - O controlo dos prémios relativos a apostas validadas através do sistema de registo e validação informático será efetuado pelo júri dos concursos, por comparação com a cópia de segurança prevista no artigo 8.º, n.º 18, alínea b), prevalecendo esta em caso de dúvida.\n\n5 - O controlo das apostas premiadas será feito:\n\na) Por amostragem, quando os respetivos valores forem inferiores a (euro) 5.000;\n\nb) Diretamente pelo júri dos concursos, quando iguais ou superiores a (euro) 5.000.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773345": {
+   "fragment_id": "107771033",
+   "type": 11,
+   "heading": "Artigo 14.º — Divulgação das apostas premiadas",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 14.º — Divulgação das apostas premiadas\n\n1 - O número provisório de apostas premiadas em cada concurso e o valor dos respetivos quinhões são divulgados através do sítio da Internet www.jogossantacasa.pt, pelos órgãos de comunicação social e constam de um cartaz informativo afixado nos estabelecimentos autorizados pelo Departamento de Jogos.\n\n2 - Quando haja alteração dos resultados provisórios, o número definitivo de apostas premiadas, bem como o valor dos respectivos quinhões, é tornado público através do cartaz referido no número anterior, após o julgamento das reclamações, nos termos do artigo 16.º\n\n3 - As apostas premiadas são divulgadas pelo seu valor ilíquido.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773346": {
+   "fragment_id": "107771034",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos prémios",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos prémios\n\n1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:\n\na) Por solicitação do jogador, o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa;\n\nb) No caso de o recibo apresentar um prémio igual ou inferior a (euro) 150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impressa pelo terminal na frente do recibo a palavra \"PAGO\", valor do prémio, data e hora, e o mediador ou o Departamento de Jogos procedem ao pagamento do prémio;\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 5.000 o pagamento pode ser feito através de ordem de pagamento, emitida pelo Departamento de Jogos, que é remetida para o mediador, ou tem de ser por este solicitada, ou através de depósito na conta do portador do título premiado, nos termos definidos pelo Departamento de Jogos;\n\nd) Os prémios de valor superior a (euro) 150 e inferior a (euro) 5.000 também podem ser pagos pelos mediadores dos jogos sociais do Estado, que posteriormente recebem as importâncias desembolsadas no estabelecimento bancário através do qual se processam as demais transações entre aqueles e o Departamento de Jogos;\n\ne) Os prémios de valor igual ou superior a (euro) 5.000 apenas podem ser pagos junto do Departamento de Jogos e mediante identificação pessoal do portador do título premiado, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um recibo comprovativo, que fica na posse do mediador dos jogos sociais do Estado;\n\ng) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia-se no dia imediatamente seguinte ao da realização do sorteio, para os prémios de montante inferior a (euro) 5.000.\n\n5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.\n\n6 - O direito a prémios caduca decorridos 90 dias sobre a data do respetivo concurso.\n\n7 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão do jogador:\n\na) Os prémios de valor igual ou inferior a (euro) 150 são transferidos automaticamente para o cartão do jogador;\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 5.000 são pagos por depósito na conta bancária do jogador por este indicada ou através da rede Multibanco;\n\nc) Nos prémios de valor igual ou superior a (euro) 5.000 os prémios são pagos após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n8 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 16.º e 17.º.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+  },
+  "107773347": {
+   "fragment_id": "107771035",
+   "type": 11,
+   "heading": "Artigo 16.º — Reclamações",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05"
+   ],
+   "markdown": "###### Artigo 16.º — Reclamações\n\n1 - Todo o possuidor de um recibo emitido pelo sistema de registo e validação informático, e que tendo apresentado o mesmo para pagamento, num mediador dos jogos sociais do Estado, seja informado de que não tem direito a prémio, de que o prémio já foi pago ou de que existe algum outro motivo que impeça o seu pagamento, tem o direito de reclamar.\n\n2 - As reclamações são apresentadas por escrito, em formulário próprio, a entregar no Departamento de Jogos.\n\n3 - As reclamações também podem ser apresentadas por telegrama, e-mail, telecópia ou telex, desde que sejam indicados, pelo menos, os seguintes elementos:\n\na) Nome completo e morada do recorrente;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do terminal/máquina que registou o bilhete;\n\nd) Números de impressão e de registo do bilhete ou números de controlo;\n\ne) Motivo da reclamação.\n\n4 - O prazo para apresentação de reclamação conta-se a partir da data do concurso e é de 12 dias para os prémios de valor igual ou superior a (euro) 5000 e de 60 dias para os outros, salvo no caso de acumulação com prémios de valor superior a (euro) 5000, em que o prazo é de 12 dias.\n\n5 - O prazo é de caducidade, não sendo considerada qualquer reclamação que dê entrada no Departamento de Jogos fora do prazo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05"
+  },
+  "107773348": {
+   "fragment_id": "107771036",
+   "type": 11,
+   "heading": "Artigo 17.º — Júri de reclamações",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 17.º — Júri de reclamações\n\n1 - As reclamações são julgadas por um júri, constituído nos termos do artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro.\n\n2 - Deste júri não pode fazer parte quem tenha tido intervenção na decisão reclamada.\n\n3 - As deliberações do júri de reclamações podem ser impugnadas judicialmente no tribunal da jurisdição administrativa com sede na área de Lisboa.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773349": {
+   "fragment_id": "107771037",
+   "type": 11,
+   "heading": "Artigo 18.º — Fraudes",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 18.º — Fraudes\n\nA prática de atos fraudulentos com vista ao recebimento de prémios será objeto de participação para efeitos de procedimento criminal, nos termos da lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773350": {
+   "fragment_id": "107771038",
+   "type": 11,
+   "heading": "Artigo 19.º — Casos omissos",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 19.º — Casos omissos\n\nOs casos omissos e os duvidosos são resolvidos pelo Administrador Executivo do Departamento de Jogos, exceto em matéria de atribuição de prémios, em que é competente o júri de reclamações.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107773352": {
+   "fragment_id": "107771039",
+   "type": 11,
+   "heading": "Artigo 20.º — Normas transitórias",
+   "in_force_from": "2013-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+   ],
+   "markdown": "###### Artigo 20.º — Normas transitórias\n\nAté à completa saída de circulação do escudo, o preço a pagar pelo jogador é o resultado da aplicação da taxa de conversão escudo/euro de 200,482 ao total das apostas constantes do recibo a que respeitem.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22"
+  },
+  "107776324": {
+   "fragment_id": "107771034",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos prémios",
+   "in_force_from": "2014-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos prémios\n\n1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:\n\na) Por solicitação do jogador, o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa;\n\nb) No caso de o recibo apresentar um prémio igual ou inferior a (euro) 150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impressa pelo terminal na frente do recibo a palavra \"PAGO\", valor do prémio, data e hora, e o mediador ou o Departamento de Jogos procedem ao pagamento do prémio;\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro)150 e inferior a (euro)5.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) [revogado];\n\ne) Os prémios de valor igual ou superior a (euro)5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para conta bancária do portador do título premiado, após a respetiva identificação pessoal, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um talão de pagamento, que é entregue ao apostador;\n\ng) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia-se no dia imediatamente seguinte ao da realização do sorteio, para os prémios de montante inferior a (euro) 5.000.\n\n5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.\n\n6 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão de jogador:\n\na) Os prémios de valor igual ou inferior a (euro)150 são transferidos automaticamente para o cartão de jogador;\n\nb) Os prémios de valor superior a (euro)150 e inferior a (euro)5.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro)5.000 são pagos através de transferência para conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n7- Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n8 - O direito a prémios caduca decorridos 90 dias sobre a data do respetivo concurso.\n\n9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 16.º e 17.º.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+  },
+  "107776902": {
+   "fragment_id": "107771024",
+   "type": 11,
+   "heading": "Artigo 5.º — Distribuição da receita para prémios",
+   "in_force_from": "2017-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28",
+    "Alterado pelo/a [Portaria n.º 973/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/973-2009-488495), em vigor a partir de 2009-09-01, produz efeitos a partir de 2009-09-06",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+   ],
+   "markdown": "###### Artigo 5.º — Distribuição da receita para prémios\n\n1 - Da receita de cada concurso, constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 55 %.\n\n2 - A importância destinada a prémios é distribuída por seis categorias de prémios, na forma seguinte:\n\na) Ao 1.º prémio, para cada aposta cujo número de impressão corresponda ao do JOKER, a parte que lhe couber na divisão da importância remanescente necessária ao pagamento dos outros prémios, no valor mínimo de (euro) 500 000;\n\nb) Ao 2.º prémio, para cada aposta cujo número de impressão corresponda aos seis últimos dígitos do número do JOKER, o valor de (euro) 50 000;\n\nc) Ao 3.º prémio, para cada aposta cujo número de impressão corresponda aos cinco últimos dígitos do número do JOKER, o valor de (euro) 5000;\n\nd) Ao 4.º prémio, para cada aposta cujo número de impressão corresponda aos quatro últimos dígitos do número do JOKER, o valor de (euro) 500;\n\ne) Ao 5.º prémio, para cada aposta cujo número de impressão corresponda aos três últimos dígitos do número do JOKER, o valor de (euro) 50;\n\nf) Ao 6.º prémio, para cada aposta cujo número de impressão corresponda aos dois últimos dígitos do número do JOKER, o valor de (euro) 5.\n\n3 - Numa mesma aposta, não há acumulação do prémio de uma categoria com prémios de categorias inferiores.\n\n4 - Quando não for escrutinada qualquer aposta sobre o número do JOKER, o montante que couber ao 1.º prémio na divisão do remanescente necessário ao pagamento dos outros prémios acresce ao montante do 1.º prémio do concurso imediatamente seguinte.\n\n5 - Sem prejuízo do disposto nos números anteriores, pode o Departamento de Jogos determinar, desde que assegurada a respetiva publicitação antes do início do registo da aceitação das apostas, que quando não for escrutinada qualquer aposta sobre o número do Joker e restantes categorias de prémios, o montante que couber ao 1.º prémio e às restantes categorias de prémios seja distribuído pelo número de acertantes da categoria imediatamente inferior em que haja, pelo menos, uma aposta premiada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28\n\n> Alterado pelo/a [Portaria n.º 973/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/973-2009-488495), em vigor a partir de 2009-09-01, produz efeitos a partir de 2009-09-06\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 1214/2003 - Diário da República n.º 240/2003, Série I-B de 2003-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/1214-2003-476174), em vigor a partir de 2003-10-23, produz efeitos a partir de 2003-10-05"
+  },
+  "107776903": {
+   "fragment_id": "107771034",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos prémios",
+   "in_force_from": "2017-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28, produz efeitos a partir de 2017-08-04",
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05",
+    "Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05",
+    "Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos prémios\n\n1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:\n\na) Por solicitação do jogador, o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa;\n\nb) No caso de o recibo apresentar um prémio igual ou inferior a (euro) 150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impressa pelo terminal na frente do recibo a palavra \"PAGO\", valor do prémio, data e hora, e o mediador ou o Departamento de Jogos procedem ao pagamento do prémio;\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) [revogado];\n\ne) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ng) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um talão de pagamento, que é entregue ao apostador;\n\nh) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia-se no dia imediatamente seguinte ao da realização do sorteio, para os prémios de montante inferior a (euro) 5.000.\n\n5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.\n\n6 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão de jogador:\n\na) Os prémios de valor igual ou inferior a (euro)150 são transferidos automaticamente para o cartão de jogador;\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7- Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n8 - O direito a prémios caduca decorridos 90 dias sobre a data do respetivo concurso.\n\n9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 16.º e 17.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28, produz efeitos a partir de 2017-08-04\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2014-571049), em vigor a partir de 2014-01-26\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 114/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/114-2013-259420), em vigor a partir de 2013-03-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 65/2011 - Diário da República n.º 25/2011, Série I de 2011-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/65-2011-280488), em vigor a partir de 2011-02-05\n\n> Alterado pelo/a [Portaria n.º 699/2009 - Diário da República n.º 126/2009, Série I de 2009-07-02](https://diariodarepublica.pt/dr/detalhe/portaria/699-2009-491913), em vigor a partir de 2009-07-05\n\n> Alterado pelo/a [Portaria n.º 867/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/portaria/867-2006-540804), em vigor a partir de 2006-09-02, produz efeitos a partir de 2006-07-12"
+  }
+ }
+}

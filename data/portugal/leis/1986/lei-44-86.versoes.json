@@ -1,0 +1,568 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:221696:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1986-153472496",
+ "dre_path": "/dr/detalhe/lei/44-1986-221696",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "153472595",
+    "153472596",
+    "153472597",
+    "153472598",
+    "153472599",
+    "153472600",
+    "153472601",
+    "153472602",
+    "153472603",
+    "153472604",
+    "153472605",
+    "153472606",
+    "153472607",
+    "153472608",
+    "153472609",
+    "153472610",
+    "153472611",
+    "153472612",
+    "153472613",
+    "153472614",
+    "153472615",
+    "153472616",
+    "153472617",
+    "153472618",
+    "153472619",
+    "153472620",
+    "153472621",
+    "153472622",
+    "153472623",
+    "153472624",
+    "153472625",
+    "153472626",
+    "153472627",
+    "153472628",
+    "153472629"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146220:por",
+     "title": "Lei Orgânica n.º 1/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/lei-organica/1-2011-146220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "153472595",
+    "153472596",
+    "153472597",
+    "153472598",
+    "153472599",
+    "153472600",
+    "153472601",
+    "153472602",
+    "153472603",
+    "153472604",
+    "153472605",
+    "153472606",
+    "153472607",
+    "153472608",
+    "153472609",
+    "153472610",
+    "153472611",
+    "153472612",
+    "153472613",
+    "153472614",
+    "153472615",
+    "153472616",
+    "153472617",
+    "153472618",
+    "153484819",
+    "153472620",
+    "153472621",
+    "153472622",
+    "153472623",
+    "153472624",
+    "153472625",
+    "153472626",
+    "153472627",
+    "153472628",
+    "153472629",
+    "153472630"
+   ]
+  },
+  {
+   "date": "2012-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552035:por",
+     "title": "Lei Orgânica n.º 1/2012",
+     "published": "2012-05-11",
+     "dre_path": "/dr/detalhe/lei-organica/1-2012-552035"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 28.º",
+    "Revoga Artigo 22.º"
+   ],
+   "fragments": [
+    "153472595",
+    "153472596",
+    "153472597",
+    "153472598",
+    "153472599",
+    "153472600",
+    "153472601",
+    "153472602",
+    "153484860",
+    "153472604",
+    "153472605",
+    "153472606",
+    "153472607",
+    "153472608",
+    "153472609",
+    "153484861",
+    "153472611",
+    "153484862",
+    "153484863",
+    "153484864",
+    "153472615",
+    "153472616",
+    "153472617",
+    "153472618",
+    "153484865",
+    "153472620",
+    "153484869",
+    "153484866",
+    "153472623",
+    "153472624",
+    "153484867",
+    "153472626",
+    "153472627",
+    "153484868",
+    "153472629",
+    "153472630"
+   ]
+  }
+ ],
+ "fragments": {
+  "153472595": {
+   "fragment_id": "153472497",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 44/86\n\nde 30 de Setembro\n\nRegime do estado de sítio e do estado de emergência\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea c), e 169.º, n.º 2, da Constituição, o seguinte:\n\nRegime do estado de sítio e do estado de emergência"
+  },
+  "153472596": {
+   "fragment_id": "153472498",
+   "type": 1,
+   "heading": "Capítulo I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições Gerais"
+  },
+  "153472597": {
+   "fragment_id": "153472499",
+   "type": 11,
+   "heading": "Artigo 1.º — (Estados de excepção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Estados de excepção)\n\n1 - O estado de sítio ou o estado de emergência só podem ser declarados nos casos de agressão efectiva ou iminente por forças estrangeiras, de grave ameaça ou perturbação da ordem constitucional democrática ou de calamidade pública.\n\n2 - O estado de sítio ou o estado de emergência, declarados pela forma prevista na Constituição, regem-se pelas normas constitucionais aplicáveis e pelo disposto na presente lei."
+  },
+  "153472598": {
+   "fragment_id": "153472500",
+   "type": 11,
+   "heading": "Artigo 2.º — (Garantias dos direitos dos cidadãos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Garantias dos direitos dos cidadãos)\n\n1 - A declaração do estado de sítio ou do estado de emergência em nenhum caso pode afectar os direitos à vida, à integridade pessoal, à identidade pessoal, à capacidade civil e à cidadania, a não retroactividade da lei criminal, o direito de defesa dos arguidos e a liberdade de consciência e de religião.\n\n2 - Nos casos em que possa ter lugar, a suspensão do exercício de direitos, liberdades e garantias respeitará sempre o princípio da igualdade e não discriminação e obedecerá aos seguintes limites:\n\na) A fixação de residência ou detenção de pessoas com fundamento em violação das normas de segurança em vigor será sempre comunicada ao juiz de instrução competente, no prazo máximo de 24 horas após a ocorrência, assegurando-se designadamente o direito de habeas corpus;\n\nb) A realização de buscas domiciliárias e a recolha dos demais meios de obtenção de prova serão reduzidas a auto, na presença de duas testemunhas, sempre que possível residentes na respectiva área, e comunicadas ao juiz de instrução, acompanhadas de informação sobre as causas e os resultados respectivos;\n\nc) Quando se estabeleça o condicionamento ou a interdição do trânsito de pessoas e da circulação de veículos, cabe às autoridades assegurar os meios necessários ao cumprimento do disposto na declaração, particularmente no tocante ao transporte, alojamento e manutenção dos cidadãos afectados;\n\nd) Poderá ser suspenso qualquer tipo de publicações, emissões de rádio e televisão e espectáculos cinematográficos ou teatrais, bem como ser ordenada a apreensão de quaisquer publicações, não podendo estas medidas englobar qualquer forma de censura prévia;\n\ne) As reuniões dos órgãos estatutários dos partidos políticos, sindicatos e associações profissionais não serão em caso algum proibidas, dissolvidas ou submetidas a autorização prévia.\n\n3 - Os cidadãos cujos direitos, liberdades e garantias tiverem sido violados por declaração do estado de sítio ou do estado de emergência, ou por providência adoptada na sua vigência, ferida de inconstitucionalidade ou ilegalidade, designadamente por privação ilegal ou injustificada da liberdade, têm direito à correspondente indemnização, nos termos gerais."
+  },
+  "153472599": {
+   "fragment_id": "153472501",
+   "type": 11,
+   "heading": "Artigo 3.º — (Proporcionalidade e adequação das medidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Proporcionalidade e adequação das medidas)\n\n1 - A suspensão ou a restrição de direitos, liberdades e garantias previstas nos artigos 8.º e 9.º devem limitar-se, nomeadamente quanto à sua extensão, à sua duração e aos meios utilizados, ao estritamente necessário ao pronto restabelecimento da normalidade.\n\n2 - A declaração do estado de sítio ou do estado de emergência só pode alterar a normalidade constitucional nos termos previstos na própria Constituição e na presente lei, não podendo nomeadamente afectar a aplicação das regras constitucionais relativas à competência e ao funcionamento dos órgãos de soberania e dos órgãos de governo próprio das regiões autónomas e bem assim os direitos e imunidades dos respectivos titulares."
+  },
+  "153472600": {
+   "fragment_id": "153472502",
+   "type": 11,
+   "heading": "Artigo 4.º — (Âmbito territorial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Âmbito territorial)\n\nO estado de sítio ou o estado de emergência podem ser declarados em relação ao todo ou parte do território nacional, consoante o âmbito geográfico das suas causas determinantes, só podendo sê-lo relativamente à área em que a sua aplicação se mostre necessária para manter ou restabelecer a normalidade."
+  },
+  "153472601": {
+   "fragment_id": "153472503",
+   "type": 11,
+   "heading": "Artigo 5.º — (Duração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Duração)\n\n1 - O estado de sítio ou o estado de emergência terão duração limitada ao necessário à salvaguarda dos direitos e interesses que visam proteger e ao restabelecimento da normalidade, não podendo prolongar-se por mais de quinze dias, sem prejuízo de eventual renovação por um ou mais períodos, com igual limite, no caso de subsistência das suas causas determinantes.\n\n2 - A duração do estado de sítio ou do estado de emergência deve ser fixada com menção do dia e hora dos seus início e cessação.\n\n3 - Sempre que as circunstâncias o permitam, deve a renovação da declaração do estado de sítio ser substituída por declaração do estado de emergência."
+  },
+  "153472602": {
+   "fragment_id": "153472504",
+   "type": 11,
+   "heading": "Artigo 6.º — (Acesso aos tribunais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Acesso aos tribunais)\n\nNa vigência do estado de sítio ou do estado de emergência, os cidadãos mantêm, na sua plenitude, o direito de acesso aos tribunais, de acordo com a lei geral, para defesa dos seus direitos, liberdades e garantias lesados ou ameaçados de lesão por quaisquer providências inconstitucionais ou ilegais."
+  },
+  "153472603": {
+   "fragment_id": "153472505",
+   "type": 11,
+   "heading": "Artigo 7.º — (Crimes de responsabilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Crimes de responsabilidade)\n\nA violação do disposto na declaração do estado de sítio ou do estado de emergência ou na presente lei, nomeadamente quanto à execução daquela, faz incorrer os respectivos autores em crime de responsabilidade."
+  },
+  "153472604": {
+   "fragment_id": "153472506",
+   "type": 1,
+   "heading": "Capítulo II — Do estado de sítio e do estado de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do estado de sítio e do estado de emergência"
+  },
+  "153472605": {
+   "fragment_id": "153472507",
+   "type": 11,
+   "heading": "Artigo 8.º — (Estado de sítio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Estado de sítio)\n\n1 - O estado de sítio é declarado quando se verifiquem ou estejam iminentes actos de força ou insurreição que ponham em causa a soberania, a independência, a integridade territorial ou a ordem constitucional democrática e não possam ser eliminados pelos meios normais previstos na Constituição e na lei.\n\n2 - Nos termos da declaração do estado de sítio será total ou parcialmente suspenso ou restringido o exercício de direitos, liberdades e garantias, sem prejuízo do disposto no artigo 2.º, e estabelecida a subordinação das autoridades civis às autoridades militares ou a sua substituição por estas.\n\n3 - As forças de segurança, durante o estado de sítio ficarão colocadas, para efeitos operacionais, sob o comando do Chefe do Estado-Maior-General das Forças Armadas, por intermédio dos respectivos comandantes-gerais.\n\n4 - As autoridades administrativas civis continuarão no exercício das competências que, nos termos da presente lei e da declaração do estado de sítio, não tenham sido afectadas pelos poderes conferidos às autoridades militares, mas deverão em qualquer caso facultar a estas os elementos de informação que lhes forem solicitados."
+  },
+  "153472606": {
+   "fragment_id": "153472508",
+   "type": 11,
+   "heading": "Artigo 9.º — (Estado de emergência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Estado de emergência)\n\n1 - O estado de emergência é declarado quando se verifiquem situações de menor gravidade, nomeadamente quando se verifiquem ou ameacem verificar-se casos de calamidade pública.\n\n2 - Na declaração do estado de emergência apenas pode ser determinada a suspensão parcial do exercício de direitos, liberdades e garantias, sem prejuízo do disposto no artigo 2.º, prevendo-se, se necessário, o reforço dos poderes das autoridades administrativas civis e o apoio às mesmas por parte das Forças Armadas."
+  },
+  "153472607": {
+   "fragment_id": "153472509",
+   "type": 1,
+   "heading": "Capítulo III — Da declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da declaração"
+  },
+  "153472608": {
+   "fragment_id": "153472510",
+   "type": 11,
+   "heading": "Artigo 10.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Competência)\n\n1 - A declaração do estado de sítio ou do estado de emergência compete ao Presidente da República e depende da audição do Governo e da autorização da Assembleia da República ou, quando esta não estiver reunida nem for possível a sua reunião imediata, da respectiva Comissão Permanente.\n\n2 - Quando autorizada pela Comissão Permanente da Assembleia da República, a declaração do estado de sítio ou do estado de emergência terá de ser ratificada pelo Plenário logo que seja possível reuni-lo.\n\n3 - Nem a Assembleia da República nem a sua Comissão Permanente podem, respectivamente, autorizar e confirmar a autorização com emendas."
+  },
+  "153472609": {
+   "fragment_id": "153472511",
+   "type": 11,
+   "heading": "Artigo 11.º — (Forma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Forma)\n\nA declaração do estado de sítio ou do estado de emergência reveste a forma de decreto do Presidente da República e carece da referenda do Governo."
+  },
+  "153472610": {
+   "fragment_id": "153472512",
+   "type": 11,
+   "heading": "Artigo 12.º — (Modificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Modificação)\n\nEm caso de alteração das circunstâncias que tiverem determinado a declaração do estado de sítio ou do estado de emergência, as providências e medidas constantes da declaração poderão ser objecto de adequadas extensão ou redução, nos termos do artigo 27.º"
+  },
+  "153472611": {
+   "fragment_id": "153472513",
+   "type": 11,
+   "heading": "Artigo 13.º — (Cessação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Cessação)\n\n1 - Em caso de cessação das circunstâncias que tiverem determinado a declaração do estado de sítio ou do estado de emergência, será esta imediatamente revogada, mediante decreto do Presidente da República referendado pelo Governo.\n\n2 - O estado de sítio ou o estado de emergência cessam automaticamente pelo decurso do prazo fixado na respectiva declaração e, em caso de autorização desta pela Comissão Permanente da Assembleia da República, pela recusa da sua ratificação pelo Plenário."
+  },
+  "153472612": {
+   "fragment_id": "153472514",
+   "type": 11,
+   "heading": "Artigo 14.º — (Conteúdo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Conteúdo)\n\n1 - A declaração do estado de sítio ou do estado de emergência conterá clara e expressamente os seguintes elementos:\n\na) Caracterização e fundamentação do estado declarado;\n\nb) Âmbito territorial;\n\nc) Duração;\n\nd) Especificação dos direitos, liberdades e garantias cujo exercício fica suspenso ou restringido;\n\ne) Determinação, no estado de sítio, dos poderes conferidos às autoridades militares, nos termos do n.º 2 do artigo 8.º;\n\nf) Determinação, no estado de emergência, do grau de reforço dos poderes das autoridades administrativas civis e do apoio às mesmas pelas Forças Armadas, sendo caso disso;\n\ng) Especificação dos crimes que ficam sujeitos à jurisdição dos tribunais militares, sem prejuízo do disposto no artigo 22.º\n\n2 - A fundamentação será feita por referência aos casos determinantes previstos no n.º 2 do artigo 19.º da Constituição, bem como às suas consequências já verificadas ou previsíveis no plano da alteração da normalidade."
+  },
+  "153472613": {
+   "fragment_id": "153472515",
+   "type": 11,
+   "heading": "Artigo 15.º — (Forma da autorização ou confirmação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Forma da autorização ou confirmação)\n\n1 - A autorização ou confirmação pela Assembleia da República da declaração do estado de sítio ou do estado de emergência assume a forma de lei.\n\n2 - Caso a Assembleia da República recuse a autorização ou confirmação, tal decisão assumirá a forma de resolução.\n\n3 - Quando a autorização ou a sua recusa forem deliberadas pela Comissão Permanente da Assembleia da República, assumirão a forma de resolução."
+  },
+  "153472614": {
+   "fragment_id": "153472516",
+   "type": 11,
+   "heading": "Artigo 16.º — (Conteúdo da lei de autorização ou confirmação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Conteúdo da lei de autorização ou confirmação)\n\n1 - A lei de autorização da declaração do estado de sítio ou do estado de emergência conterá a definição do estado a declarar e a delimitação pormenorizada do âmbito da autorização concedida em relação a cada um dos elementos referidos no artigo 14.º\n\n2 - A lei de confirmação da declaração do estado de sítio ou do estado de emergência deverá igualmente conter os elementos referidos no número anterior, não podendo, contudo, restringir o conteúdo do decreto de declaração."
+  },
+  "153472615": {
+   "fragment_id": "153472517",
+   "type": 1,
+   "heading": "Capítulo IV — Da execução da declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da execução da declaração"
+  },
+  "153472616": {
+   "fragment_id": "153472518",
+   "type": 11,
+   "heading": "Artigo 17.º — (Competência do Governo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Competência do Governo)\n\nA execução da declaração do estado de sítio ou do estado de emergência compete ao Governo, que dos respectivos actos manterá informados o Presidente da República e a Assembleia da República."
+  },
+  "153472617": {
+   "fragment_id": "153472519",
+   "type": 11,
+   "heading": "Artigo 18.º — (Funcionamento dos órgãos de direcção e fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Funcionamento dos órgãos de direcção e fiscalização)\n\n1 - Em estado de sítio ou em estado de emergência que abranja todo o território nacional, o Conselho Superior de Defesa Nacional mantém-se em sessão permanente.\n\n2 - Mantêm-se igualmente em sessão permanente, com vista ao pleno exercício das suas competências de defesa da legalidade democrática e dos direitos dos cidadãos, a Procuradoria-Geral da República e o Serviço do Provedor de Justiça."
+  },
+  "153472618": {
+   "fragment_id": "153472520",
+   "type": 11,
+   "heading": "Artigo 19.º — (Competência das autoridades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Competência das autoridades)\n\nCom salvaguarda do disposto nos artigos 8.º e 9.º e respectiva declaração, compete às autoridades, durante o estado de sítio ou do estado de emergência, a tomada das providências e medidas necessárias e adequadas ao pronto restabelecimento da normalidade."
+  },
+  "153472619": {
+   "fragment_id": "153472521",
+   "type": 11,
+   "heading": "Artigo 20.º — (Execução a nível regional e local)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Execução a nível regional e local)\n\n1 - Com observância do disposto no artigo 17.º, e sem prejuízo das competências do Ministro da República e dos órgãos de governo próprio, o emprego das Forças Armadas para execução da declaração do estado de sítio nas regiões autónomas é assegurado pelo respectivo comandante-chefe.\n\n2 - Com observância do disposto no artigo 17.º, a execução da declaração do estado de emergência nas regiões autónomas é assegurada pelo Ministro da República, em cooperação com o governo regional.\n\n3 - No âmbito dos poderes conferidos às autoridades militares, nos termos do disposto no n.º 2 do artigo 8.º, a execução da declaração do estado de sítio no território continental, a nível local, é assegurada pelos comandantes militares, na área do respectivo comando.\n\n4 - Também sem prejuízo das atribuições do Governo da República, a execução da declaração do estado de emergência no território continental, a nível local, é coordenada pelos governadores civis, na área da respectiva jurisdição."
+  },
+  "153472620": {
+   "fragment_id": "153472522",
+   "type": 11,
+   "heading": "Artigo 21.º — (Comissários governamentais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Comissários governamentais)\n\nEm estado de sítio ou em estado de emergência, pode o Governo nomear comissários da sua livre escolha para assegurar o funcionamento de institutos públicos, empresas públicas e nacionalizadas e outras empresas de vital importância nessas circunstâncias, sem prejuízo do disposto na presente lei quanto à intervenção das autoridades militares."
+  },
+  "153472621": {
+   "fragment_id": "153472523",
+   "type": 11,
+   "heading": "Artigo 22.º — (Sujeição ao foro militar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Sujeição ao foro militar)\n\n1 - Sem prejuízo da especificação dos crimes que à jurisdição dos tribunais militares devem ficar sujeitos nos termos da declaração do estado de sítio, competirá a estes tribunais a instrução e o julgamento das infracções ao disposto naquela declaração.\n\n2 - Aos tribunais militares caberá igualmente, nos termos do número anterior, a instrução e o julgamento dos crimes dolosos directamente relacionados com as causas que, nos termos da respectiva declaração, caracterizem e fundamentem o estado de sítio, praticados durante a sua vigência, contra a vida, a integridade física e a liberdade das pessoas, o direito de informação, a segurança das comunicações, o património, a ordem e a tranquilidade públicas.\n\n3 - Os crimes referidos são para o efeito equiparados aos essencialmente militares."
+  },
+  "153472622": {
+   "fragment_id": "153472524",
+   "type": 11,
+   "heading": "Artigo 23.º — (Subsistência do foro civil)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Subsistência do foro civil)\n\n1 - Com salvaguarda do disposto no artigo anterior, bem como do que sobre esta matéria constar da declaração do estado de sítio ou do estado de emergência quanto aos direitos, liberdades e garantias cujo exercício tiver sido suspenso ou restringido, nos termos da Constituição e da presente lei, os tribunais comuns mantêm-se, na vigência daqueles estados, no pleno exercício das suas competências e funções.\n\n2 - Cabe-lhes em especial, durante a mesma vigência, velar pela observância das normas constitucionais e legais que regem o estado de sítio e o estado de emergência."
+  },
+  "153472623": {
+   "fragment_id": "153472525",
+   "type": 1,
+   "heading": "Capítulo V — Do processo da declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do processo da declaração"
+  },
+  "153472624": {
+   "fragment_id": "153472526",
+   "type": 11,
+   "heading": "Artigo 24.º — (Pedido de autorização à Assembleia da República)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Pedido de autorização à Assembleia da República)\n\n1 - O Presidente da República solicitará à Assembleia da República, em mensagem fundamentada, autorização para declarar o estado de sítio ou o estado de emergência.\n\n2 - Da mensagem constarão os factos justificativos do estado a declarar, os elementos referidos no n.º 1 do artigo 14.º e a menção da audição do Governo, bem como da resposta deste."
+  },
+  "153472625": {
+   "fragment_id": "153472527",
+   "type": 11,
+   "heading": "Artigo 25.º — (Deliberação da Assembleia da República)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Deliberação da Assembleia da República)\n\n1 - A Assembleia da República ou, quando esta não estiver reunida nem for possível a sua reunião imediata, a respectiva Comissão Permanente pronunciar-se-ão sobre o pedido de autorização da declaração do estado de sítio ou do estado de emergência, nos termos do Regimento e do disposto no artigo 28.º\n\n2 - A autorização e a confirmação da declaração do estado de sítio ou do estado de emergência ou a sua recusa pelo Plenário da Assembleia da República têm a forma de lei, revestindo a sua autorização ou recusa pela Comissão Permanente a forma de resolução.\n\n3 - Para além do disposto no n.º 3 do artigo 10.º, a autorização ou a confirmação não poderão ser condicionadas, devendo conter todos os elementos referidos no n.º 1 do artigo 14.º\n\n4 - Pela via mais rápida e adequada às circunstâncias, a Assembleia da República consultará os órgãos de governo próprio das regiões autónomas, nos termos do artigo 231.º, n.º 2, da Constituição, sempre que a declaração do estado de sítio ou do estado de emergência se refira ao respectivo âmbito geográfico."
+  },
+  "153472626": {
+   "fragment_id": "153472528",
+   "type": 11,
+   "heading": "Artigo 26.º — (Confirmação de declaração pelo Plenário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Confirmação de declaração pelo Plenário)\n\n1 - A confirmação pelo Plenário da Assembleia da República da declaração do estado de sítio ou do estado de emergência autorizada pela Comissão Permanente da Assembleia da República processar-se-á nos termos do Regimento.\n\n2 - Para o efeito do número anterior o Plenário deve ser convocado no prazo mais curto possível.\n\n3 - A recusa de confirmação não acarreta a invalidade dos actos praticados ao abrigo da declaração não confirmada e no decurso da sua vigência, sem prejuízo do disposto nos artigos 6.º e 7.º"
+  },
+  "153472627": {
+   "fragment_id": "153472529",
+   "type": 11,
+   "heading": "Artigo 27.º — (Renovação, modificação e revogação da declaração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Renovação, modificação e revogação da declaração)\n\n1 - A renovação da declaração do estado de sítio ou do estado de emergência, bem como a sua modificação no sentido da extensão das respectivas providências ou medidas, seguem os trâmites previstos para a declaração inicial.\n\n2 - A modificação da declaração do estado de sítio ou do estado de emergência no sentido da redução das respectivas providências ou medidas, bem como a sua revogação, operam-se por decreto do Presidente da República, referendado pelo Governo, independentemente de prévia audição deste e de autorização da Assembleia da República."
+  },
+  "153472628": {
+   "fragment_id": "153472530",
+   "type": 11,
+   "heading": "Artigo 28.º — (Carácter urgentíssimo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Carácter urgentíssimo)\n\n1 - Os actos de processo previstos nos artigos anteriores revestem natureza urgentíssima e têm prioridade sobre quaisquer outros.\n\n2 - Para a execução dos mesmos actos, a Assembleia da República ou a sua Comissão Permanente reúnem e deliberam com dispensa dos prazos regimentais, em regime de funcionamento permanente.\n\n3 - A lei da Assembleia da República que conceder ou recusar a autorização e o decreto do Presidente da República que declarar o estado de sítio, o estado de emergência ou a modificação de qualquer deles no sentido da sua extensão ou redução são de publicação imediata, mantendo-se os serviços necessários àquela publicação, para o efeito, em regime de funcionamento permanente."
+  },
+  "153472629": {
+   "fragment_id": "153472531",
+   "type": 11,
+   "heading": "Artigo 29.º — (Apreciação de aplicação da declaração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Apreciação de aplicação da declaração)\n\n1 - Até quinze dias após a cessação do estado de sítio ou do estado de emergência ou, tendo ocorrido a renovação da respectiva declaração, até quinze dias após o termo de cada período, o Governo remeterá à Assembleia da República relatório pormenorizado e tanto quanto possível documentado das providências e medidas adoptadas na vigência da respectiva declaração.\n\n2 - A Assembleia da República, com base nesse relatório e em esclarecimentos e documentos que eventualmente entenda dever solicitar, apreciará a aplicação da respectiva declaração, em forma de resolução votada pelo respectivo Plenário, da qual constarão, nomeadamente, as previdências necessárias e adequadas à efectivação de eventual responsabilidade civil e criminal por violação do disposto na declaração do estado de sítio ou do estado de emergência ou na presente lei.\n\n3 - Quando a competência fiscalizadora prevista no número antecedente for exercida pela Comissão Permanente da Assembleia da República, a resolução desta será ratificada pelo Plenário logo que seja possível reuni-lo."
+  },
+  "153484819": {
+   "fragment_id": "153472521",
+   "type": 11,
+   "heading": "Artigo 20.º — (Execução a nível regional e local)",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 20.º — (Execução a nível regional e local)\n\n1 - Com observância do disposto no artigo 17.º, e sem prejuízo das competências do Ministro da República e dos órgãos de governo próprio, o emprego das Forças Armadas para execução da declaração do estado de sítio nas regiões autónomas é assegurado pelo respectivo comandante-chefe.\n\n2 - Com observância do disposto no artigo 17.º, a execução da declaração do estado de emergência nas regiões autónomas é assegurada pelo Ministro da República, em cooperação com o governo regional.\n\n3 - No âmbito dos poderes conferidos às autoridades militares, nos termos do disposto no n.º 2 do artigo 8.º, a execução da declaração do estado de sítio no território continental, a nível local, é assegurada pelos comandantes militares, na área do respectivo comando.\n\n4 - Também sem prejuízo das atribuições do Governo, a execução da declaração do estado de emergência no território continental, a nível local, é coordenada pelos comandantes operacionais distritais de operações de socorro, na área da respectiva jurisdição.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "153472630": {
+   "fragment_id": "153472532",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de Julho de 1986.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 5 de Setembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 8 de Setembro de 1986.\n\nPelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado."
+  },
+  "153484860": {
+   "fragment_id": "153472505",
+   "type": 11,
+   "heading": "Artigo 7.º — Crime de desobediência",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 7.º — Crime de desobediência\n\nA violação do disposto na declaração do estado de sítio ou do estado de emergência ou na presente lei, nomeadamente quanto à execução daquela, faz incorrer os respetivos autores em crime de desobediência.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  },
+  "153484861": {
+   "fragment_id": "153472512",
+   "type": 11,
+   "heading": "Artigo 12.º — (Modificação)",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 12.º — (Modificação)\n\nEm caso de alteração das circunstâncias que tiverem determinado a declaração do estado de sítio ou do estado de emergência, as providências e medidas constantes da declaração poderão ser objeto de adequada extensão ou redução, nos termos do artigo 26.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  },
+  "153484862": {
+   "fragment_id": "153472514",
+   "type": 11,
+   "heading": "Artigo 14.º — (Conteúdo)",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 14.º — (Conteúdo)\n\n1 - A declaração do estado de sítio ou do estado de emergência conterá clara e expressamente os seguintes elementos:\n\na) Caracterização e fundamentação do estado declarado;\n\nb) Âmbito territorial;\n\nc) Duração;\n\nd) Especificação dos direitos, liberdades e garantias cujo exercício fica suspenso ou restringido;\n\ne) Determinação, no estado de sítio, dos poderes conferidos às autoridades militares, nos termos do n.º 2 do artigo 8.º;\n\nf) Determinação, no estado de emergência, do grau de reforço dos poderes das autoridades administrativas civis e do apoio às mesmas pelas Forças Armadas, sendo caso disso;\n\ng) (Revogada).\n\n2 - A fundamentação será feita por referência aos casos determinantes previstos no n.º 2 do artigo 19.º da Constituição, bem como às suas consequências já verificadas ou previsíveis no plano da alteração da normalidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  },
+  "153484863": {
+   "fragment_id": "153472515",
+   "type": 11,
+   "heading": "Artigo 15.º — Forma da autorização, confirmação ou recusa",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 15.º — Forma da autorização, confirmação ou recusa\n\n1 - A autorização, confirmação ou recusa da declaração do estado de sítio ou do estado de emergência pela Assembleia da República assumem a forma de resolução.\n\n2 - (Revogado.)\n\n3 - Quando a autorização ou a sua recusa forem deliberadas pela Comissão Permanente da Assembleia da República, assumirão a forma de resolução.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  },
+  "153484864": {
+   "fragment_id": "153472516",
+   "type": 11,
+   "heading": "Artigo 16.º — Conteúdo da resolução de autorização ou confirmação",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 16.º — Conteúdo da resolução de autorização ou confirmação\n\n1 - A resolução de autorização da declaração do estado de sítio ou do estado de emergência conterá a definição do estado a declarar e a delimitação pormenorizada do âmbito da autorização concedida em relação a cada um dos elementos referidos no artigo 14.º\n\n2 - A resolução de confirmação da declaração do estado de sítio ou do estado de emergência deverá igualmente conter os elementos referidos no número anterior, não podendo, contudo, restringir o conteúdo do decreto de declaração.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  },
+  "153484865": {
+   "fragment_id": "153472521",
+   "type": 11,
+   "heading": "Artigo 20.º — (Execução a nível regional e local)",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12",
+    "Alterado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 20.º — (Execução a nível regional e local)\n\n1 - Com observância do disposto no artigo 17.º, e sem prejuízo das competências do Representante da República e dos órgãos de governo próprio, o emprego das Forças Armadas para execução da declaração do estado de sítio nas regiões autónomas é assegurado pelo respetivo comandante-chefe.\n\n2 - Com observância do disposto no artigo 17.º, a execução da declaração do estado de emergência nas regiões autónomas é assegurado pelo Representante da República, em cooperação com o governo regional.\n\n3 - No âmbito dos poderes conferidos às autoridades militares, nos termos do disposto no n.º 2 do artigo 8.º, a execução da declaração do estado de sítio no território continental, a nível local, é assegurada pelos comandantes militares, na área do respectivo comando.\n\n4 - Compete ao Governo da República, sem prejuízo das suas atribuições, nomear as autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, sem embargo de, em situações de calamidade pública, a coordenação mencionada ser assegurada pelos comandantes operacionais distritais de operações de socorro, na área da respetiva jurisdição.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12\n\n> Alterado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01"
+  },
+  "153484869": {
+   "fragment_id": "153472523",
+   "type": 11,
+   "heading": "Artigo 22.º — (Sujeição ao foro militar)",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 22.º — (Sujeição ao foro militar)\n\n1 - Sem prejuízo da especificação dos crimes que à jurisdição dos tribunais militares devem ficar sujeitos nos termos da declaração do estado de sítio, competirá a estes tribunais a instrução e o julgamento das infracções ao disposto naquela declaração.\n\n2 - Aos tribunais militares caberá igualmente, nos termos do número anterior, a instrução e o julgamento dos crimes dolosos directamente relacionados com as causas que, nos termos da respectiva declaração, caracterizem e fundamentem o estado de sítio, praticados durante a sua vigência, contra a vida, a integridade física e a liberdade das pessoas, o direito de informação, a segurança das comunicações, o património, a ordem e a tranquilidade públicas.\n\n3 - Os crimes referidos são para o efeito equiparados aos essencialmente militares.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  },
+  "153484866": {
+   "fragment_id": "153472524",
+   "type": 11,
+   "heading": "Artigo 23.º — Foro",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 23.º — Foro\n\n1 - Com salvaguarda do que sobre esta matéria constar da declaração do estado de sítio ou do estado de emergência quanto aos direitos, liberdades e garantias cujo exercício tiver sido suspenso ou restringido, nos termos da Constituição e da presente lei, os tribunais comuns mantêm-se, na vigência daqueles estados, no pleno exercício das suas competências e funções.\n\n2 - Cabe-lhes em especial, durante a mesma vigência, velar pela observância das normas constitucionais e legais que regem o estado de sítio e o estado de emergência.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  },
+  "153484867": {
+   "fragment_id": "153472527",
+   "type": 11,
+   "heading": "Artigo 25.º — (Deliberação da Assembleia da República)",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 25.º — (Deliberação da Assembleia da República)\n\n1 - A Assembleia da República ou, quando esta não estiver reunida nem for possível a sua reunião imediata, a respetiva Comissão Permanente pronunciar-se-ão sobre o pedido de autorização da declaração do estado de sítio ou do estado de emergência, nos termos do Regimento e do disposto no artigo 27.º\n\n2 - A autorização e a confirmação da declaração do estado de sítio ou do estado de emergência ou a sua recusa pelo Plenário da Assembleia da República têm a forma de resolução, revestindo a sua autorização ou recusa pela Comissão Permanente a forma de resolução.\n\n3 - Para além do disposto no n.º 3 do artigo 10.º, a autorização ou a confirmação não poderão ser condicionadas, devendo conter todos os elementos referidos no n.º 1 do artigo 14.º\n\n4 - Pela via mais rápida e adequada às circunstâncias, a Assembleia da República consultará os órgãos de governo próprio das regiões autónomas, nos termos do n.º 2 do artigo 229.º da Constituição, sempre que a declaração do estado de sítio ou do estado de emergência se refira ao respetivo âmbito geográfico.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  },
+  "153484868": {
+   "fragment_id": "153472530",
+   "type": 11,
+   "heading": "Artigo 28.º — (Carácter urgentíssimo)",
+   "in_force_from": "2012-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+   ],
+   "markdown": "###### Artigo 28.º — (Carácter urgentíssimo)\n\n1 - Os actos de processo previstos nos artigos anteriores revestem natureza urgentíssima e têm prioridade sobre quaisquer outros.\n\n2 - Para a execução dos mesmos actos, a Assembleia da República ou a sua Comissão Permanente reúnem e deliberam com dispensa dos prazos regimentais, em regime de funcionamento permanente.\n\n3 - A resolução da Assembleia da República que conceder ou recusar a autorização e o decreto do Presidente da República que declarar o estado de sítio, o estado de emergência ou a modificação de qualquer deles no sentido da sua extensão ou redução são de publicação imediata, mantendo-se os serviços necessários àquela publicação, para o efeito, em regime de funcionamento permanente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2012 - Diário da República n.º 92/2012, Série I de 2012-05-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035), em vigor a partir de 2012-05-12"
+  }
+ }
+}

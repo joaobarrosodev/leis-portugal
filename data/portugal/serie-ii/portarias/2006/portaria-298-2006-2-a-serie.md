@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:2860307:por
+title: Portaria n.º 298/2006 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Força Aérea - Comando Operacional da Força Aérea
+proposing_entity: null
+official_number: 298/2006 (2.ª série)
+official_date: null
+publication_date: '2006-01-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 19/2006, Série II de 2006-01-26
+  number: '19'
+  series: II
+  supplement: null
+  pages: 1239 - 1239
+  pdf_url: https://files.diariodarepublica.pt/2s/2006/01/019000000/0123901239.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2860307'
+  dre_path: /dr/detalhe/portaria/298-2006-2860307
+  internal: pt:dre:2860307:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/298-2006-2860307
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/298-2006-2860307
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:02:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: edbf62be60e27fa99dc39c1e5a22ec67ee03de5cc56b6bf93af95dcdfd8f7cd6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:02:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434415:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:02:02Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 298/2006 (2.ª série)
+
+Portaria n.º 298/2006 (2.ª série). - Manda o Chefe do Estado-Maior da Força Aérea que os oficiais em seguida mencionados tenham o posto que lhes vai indicado, por satisfazerem as condições gerais e especiais de promoção estabelecidas respectivamente no artigo 56.º e na alínea a) do n.º 1 do artigo 305.º do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 197-A/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-2003-426744), de 30 de Agosto:
+
+Alferes:
+
+Oficiais RHL:
+
+ASPOF RHL-OFI (133148-F) Rodolfo Francisco dos Santos - BA 11.
+
+ASPOF RHL-OFI (133171-L) Filipa Alexandra Ferreira da Costa - CRM.
+
+ASPOF RHL-OFI (133189-C) Rita Soares de Sousa Branco - BA 4.
+
+ASPOF RHL-OFI (133166-D) Maria de La Salete Faustino Timóteo - CRM.
+
+ASPOF RHL-OFI (133165-F) Vivian Anabela Pinto da Silva Hutchinson - CZAA.
+
+ASPOF RHL-OFI (133169-J) Débora Alexandra de Matos Castro - CRM.
+
+ASPOF RHL-OFI (133170-B) Marina Xavier Martins - CRM.
+
+ASPOF RHL-OFI (13317-J) Carla Sofia Leão Nogueira - CRM.
+
+ASPOF RHL-OFI (133173-G) Sandra Cristina Bernardes Mendes - CRM.
+
+ASPOF RHL-OFI (133230-K) Daniela Filipa Alves dos Anjos Morato Lourenço - CRM.
+
+ASPOF RHL-OFI (133076-E) Ana Carolina da Costa Matos - CRM.
+
+ASPOF RHL-OFI (132843-D) Rita Pereira Rodrigues da Silva - CLAFA.
+
+Oficiais TABST:
+
+ASPOF TABST (133153-B) Sérgio Alexandre Vilela Campão - DMA.
+
+ASPOF TABST (133188-E) Isabel Maria Ramos Pires - DE.
+
+ASPOF TABST (133180-K) Vanessa Inocência Vilela Duarte - BALUM.
+
+ASPOF TABST (133150-H) Rogério Paulo Botas Tomás - BA 11.
+
+ASPOF TABST (133181-H) Andreia Cecília Gonçalves Costa - DGMFA.
+
+ASPOF TABST (133146-K) Nélson Norte da Silva - CFMTFA.
+
+ASPOF TABST (133151-F) João Alexandre Pastorinho Sanches - DGMFA.
+
+ASPOF TABST (133147-H) Sandra Maria Ferrão Marcos - CFMTFA.
+
+ASPOF TABST (133149-D) Natália Jennifer Watts Soares - CFMTFA.
+
+ASPOF TABST (133152-D) Ana Margarida da Silva Ruivo - MUSAR.
+
+Oficiais TMMA:
+
+ASPOF TMMA (133154-L) Pedro Martinho de Castro Monteiro Dias - BA 4.
+
+Oficiais TMMEL:
+
+ASPOF TMMEL (133145-A) Ricardo Godinho Soares Vieira - BA 4.
+
+Oficiais TOCC:
+
+ASPOF TOCC (133157-E) Luís Filipe Torres Moreira - GAEMFA.
+
+ASPOF TOCC (133156-G) Irina Maria Melo Afonso - COFA.
+
+ASPOF TOCC (133179-F) Filipe António Ribeiro Paiva - DGMFA
+
+ASPOF TOCC (133158-C) Mónica Sofia da Silva Mourão - COFA.
+
+Oficiais TPAA:
+
+ASPOF TPAA (133138-J) Luís António Araújo Decq Mota - DA.
+
+ASPOF TPAA (133139-G) Vera Lúcia Caldeira Monteiro - CRM.
+
+ASPOF TPAA (133142-G) Cristina Maria Sá Novais - BALUM.
+
+ASPOF TPAA (133141-J) Ana Rita Cardoso Silveira Lopes - ISFA.
+
+ASPOF TPAA (133143-E) Susana Sanches Tourais - BA 1.
+
+Oficiais PA:
+
+ASPOF PA-OFI (132421-H) Eduardo Filipe Areia da Silva Brás - CFMTFA.
+
+ASPOF PA-OFI (133182-F) Mauro Linares Mendes Fernandes - DGMFA.
+
+ASPOF PA-OFI (133186-J) Bruno Luís Salvador Domingos - AFA.
+
+ASPOF PA-OFI (133183-D) Vítor Manuel Ribeiro Ferreira - BA 4.
+
+ASPOF PA-OFI (133184-B) Belmiro Sebastião Pinto - BA 4.
+
+Contam a antiguidade e os efeitos administrativos desde 18 de Dezembro de 2005.
+
+São integrados no escalão 1 da estrutura remuneratória do novo posto, nos termos do n.º 1 do artigo 12.º do [Decreto-Lei n.º 328/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1999-434415), de 18 de Agosto.
+
+28 de Dezembro de 2005. - Por delegação do Chefe do Estado-Maior da Força Aérea, o Comandante, João Manuel Mendes de Oliveira, TGEN/PILAV.

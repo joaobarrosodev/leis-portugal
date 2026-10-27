@@ -1,0 +1,507 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R1059:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1059-20210301",
+ "dre_path": null,
+ "source_lastmod": "2021-03-01",
+ "versions": [
+  {
+   "date": "2010-11-30",
+   "future": false,
+   "celex": "32010R1059",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "92bf3551f1b33027",
+    "ab9a2a7b93950695",
+    "04a080638310e073",
+    "9b7f65eda4f38516",
+    "c034721001e55183",
+    "522c08b79be7862b",
+    "2ac8e8e670b63b3b",
+    "059c397ea76eb26d",
+    "3952f92c51a05ce9",
+    "c57247e4baff3d5b",
+    "b6408758c4d19b16",
+    "b82530470f81b782"
+   ]
+  },
+  {
+   "date": "2020-08-09",
+   "future": false,
+   "celex": "02010R1059-20200809",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0518:por",
+     "title": "REGULAMENTO DELEGADO (UE) N. o 518/2014 DA COMISSÃO de 5 de março de 2014",
+     "published": null,
+     "celex": "32014R0518"
+    },
+    {
+     "id": "eu:celex:32017R0254:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/254 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0254"
+    },
+    {
+     "id": "eu:celex:32020R1059:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2020/… DA COMISSÃO de 27 de abril de 2020",
+     "published": null,
+     "celex": "32020R1059"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Responsabilidades dos fornecedores",
+    "Altera Artigo 4.º — Responsabilidades dos distribuidores",
+    "Altera Artigo 9.º — Disposições transitórias",
+    "Altera Artigo 10.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Rótulo",
+    "Adita 1. RÓTULO",
+    "Adita 2. ASPECTO DO RÓTULO",
+    "Adita ANEXO II",
+    "Adita Ficha de produto",
+    "Adita ANEXO III",
+    "Adita Documentação técnica",
+    "Adita ANEXO IV",
+    "Adita Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Adita ANEXO V",
+    "Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Adita ANEXO VI",
+    "Adita Classes de eficiência energética e classes de eficiência de secagem",
+    "Adita 1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+    "Adita 2. CLASSES DE EFICIÊNCIA DE SECAGEM",
+    "Adita ANEXO VII",
+    "Adita Método de cálculo do índice de eficiência energética, do índice de eficiência de secagem e do consumo de água",
+    "Adita 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Adita 2. CÁLCULO DO ÍNDICE DE EFICIÊNCIA DE SECAGEM",
+    "Adita 3. CÁLCULO DO CONSUMO DE ÁGUA ANUAL",
+    "Adita ANEXO VIII",
+    "Adita Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet"
+   ],
+   "fragments": [
+    "8d6ee5a423759722",
+    "ab9a2a7b93950695",
+    "04a080638310e073",
+    "b9ee5afc628da07a",
+    "e507d75a31b777a6",
+    "522c08b79be7862b",
+    "2ac8e8e670b63b3b",
+    "059c397ea76eb26d",
+    "3952f92c51a05ce9",
+    "858f02edd5bf81ea",
+    "a5d0d5a55b02dc06",
+    "d664376e2a8dcecd",
+    "cd72cf4170b55dce",
+    "2e772836a00d6506",
+    "89217c2b9a42f81c",
+    "852174729551523b",
+    "93aafe0e96f12154",
+    "720af75c92791b10",
+    "9daae5718a184c0f",
+    "e03a0eb4d5b2eef3",
+    "dcf429e53327e967",
+    "64610ae29a6cb67c",
+    "719477a5c7131e40",
+    "90c7d2baf4d44ee2",
+    "3c0e331ab492c86a",
+    "ec37d81766735fd5",
+    "a9d4ba9532afa896",
+    "d46ca50274582635",
+    "df77ee635d1356e3",
+    "31278375372ea238",
+    "816b7e38b8e1f46f",
+    "f78d27d5656859d1",
+    "1b41b51ec3248d43",
+    "9df401f896502834",
+    "aede94c36f34bb1b"
+   ]
+  },
+  {
+   "date": "2021-03-01",
+   "future": false,
+   "celex": "02010R1059-20210301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Responsabilidades dos fornecedores",
+    "Suprime Artigo 4.º — Responsabilidades dos distribuidores",
+    "Suprime Artigo 5.º — Métodos de medição",
+    "Suprime Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+    "Suprime Artigo 7.º — Revisão",
+    "Suprime Artigo 8.º — Revogação",
+    "Suprime Artigo 9.º — Disposições transitórias",
+    "Suprime Artigo 10.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Rótulo",
+    "Suprime 1. RÓTULO",
+    "Suprime 2. ASPECTO DO RÓTULO",
+    "Suprime ANEXO II",
+    "Suprime Ficha de produto",
+    "Suprime ANEXO III",
+    "Suprime Documentação técnica",
+    "Suprime ANEXO IV",
+    "Suprime Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+    "Suprime ANEXO V",
+    "Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Suprime ANEXO VI",
+    "Suprime Classes de eficiência energética e classes de eficiência de secagem",
+    "Suprime 1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime 2. CLASSES DE EFICIÊNCIA DE SECAGEM",
+    "Suprime ANEXO VII",
+    "Suprime Método de cálculo do índice de eficiência energética, do índice de eficiência de secagem e do consumo de água",
+    "Suprime 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime 2. CÁLCULO DO ÍNDICE DE EFICIÊNCIA DE SECAGEM",
+    "Suprime 3. CÁLCULO DO CONSUMO DE ÁGUA ANUAL",
+    "Suprime ANEXO VIII",
+    "Suprime Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5736177e0d6343da"
+   ]
+  }
+ ],
+ "fragments": {
+  "92bf3551f1b33027": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro de 2010\n\nque complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das máquinas de lavar loiça para uso doméstico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2010/30/UE do Parlamento Europeu e do Conselho, de 19 de Maio de 2010, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^1])](http://publications.europa.eu/resource/cellar/b8cb582d-dda1-41fd-bdb0-98249f1490aa.0001.04/DOC_1#ntr1-L_2010314PT.01000101-E0001), e, nomeadamente, o seu artigo 10.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2010/30/UE exige que a Comissão adopte actos delegados relativamente à rotulagem dos produtos relacionados com a energia que representem um potencial significativo de poupança de energia e cujos níveis de desempenho variem consideravelmente para uma funcionalidade equivalente.\n\n(2) As disposições sobre a rotulagem energética das máquinas de lavar loiça para uso doméstico foram estabelecidas pela Directiva 97/17/CE da Comissão, de 16 de Abril de 1997, relativa à aplicação da Directiva 92/75/CEE do Conselho à rotulagem energética das máquinas de lavar loiça para uso doméstico [([^2])](http://publications.europa.eu/resource/cellar/b8cb582d-dda1-41fd-bdb0-98249f1490aa.0001.04/DOC_1#ntr2-L_2010314PT.01000101-E0002).\n\n(3) A electricidade consumida pelas máquinas de lavar loiça para uso doméstico representa uma parte importante na procura total de energia eléctrica do sector doméstico na União. Para além dos melhoramentos de eficiência energética já alcançados, o consumo de energia das máquinas de lavar loiça para uso doméstico pode ainda ser substancialmente reduzido.\n\n(4) Importa revogar a Directiva 97/17/CE e estabelecer novas disposições por intermédio do presente regulamento, de forma a assegurar que o rótulo energético proporciona incentivos dinâmicos para que os fornecedores melhorem ainda mais a eficiência energética das máquinas de lavar loiça para uso doméstico e acelerem a transformação do mercado rumo a tecnologias energeticamente eficientes.\n\n(5) As informações fornecidas no rótulo devem ser obtidas através de métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adoptadas pelos organismos europeus de normalização, enumeradas no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^3])](http://publications.europa.eu/resource/cellar/b8cb582d-dda1-41fd-bdb0-98249f1490aa.0001.04/DOC_1#ntr3-L_2010314PT.01000101-E0003).\n\n(6) O presente regulamento deve especificar um modelo e conteúdo uniformes para o rótulo das máquinas de lavar loiça para uso doméstico.\n\n(7) Além disso, o presente regulamento deve especificar os requisitos em matéria de documentação e fichas técnicas das máquinas de lavar loiça para uso doméstico.\n\n(8) Além disso, o presente regulamento deve especificar os requisitos relativos às informações a fornecer para quaisquer formas de vendas à distância, anúncios e material técnico de promoção das máquinas de lavar loiça para uso doméstico.\n\n(9) É adequado prever a revisão das disposições do presente regulamento tendo em conta o progresso tecnológico.\n\n(10) A fim de facilitar a transição da Directiva 97/17/CE para o presente regulamento, é oportuno prever que as máquinas de lavar loiça para uso doméstico rotuladas em conformidade com o presente regulamento sejam consideradas conformes com a Directiva 97/17/CE.\n\n(11) A Directiva 97/17/CE deve, por conseguinte, ser revogada,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ab9a2a7b93950695": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece requisitos para a rotulagem e o fornecimento de informações adicionais sobre as máquinas de lavar loiça para uso doméstico alimentadas pela rede de electricidade e sobre as máquinas de lavar loiça para uso doméstico alimentadas pela rede de electricidade que possam também ser alimentadas por baterias, incluindo as vendidas para utilizações não domésticas e as máquinas de lavar loiça para uso doméstico encastradas."
+  },
+  "04a080638310e073": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Directiva 2010/30/UE, são aplicáveis, para efeitos do presente regulamento, as seguintes definições:\n\n1. «máquina de lavar loiça para uso doméstico»: máquina que lava, enxagua e seca loiça, copos, talheres e utensílios de cozinha, por meios químicos, mecânicos, térmicos e eléctricos e que é destinada a ser utilizada principalmente para fins não profissionais;\n\n2. «máquina de lavar loiça para uso doméstico encastrada»: máquina de lavar loiça para uso doméstico destinada a ser instalada num armário, numa reentrância preparada numa parede, ou num local semelhante, com adaptação necessária ao equipamento circundante;\n\n3. «serviço individual»: conjunto definido de loiça, copos e talheres, para uso de uma pessoa;\n\n4. «capacidade nominal»: o número máximo de serviços individuais, juntamente com as peças de serviço, como indicado pelo fornecedor, que podem ser tratados numa máquina de lavar loiça para uso doméstico num programa seleccionado, quando carregados de acordo com as instruções do fornecedor;\n\n5. «programa»: uma série de operações pré-definidas, que o fornecedor declara serem adequadas para graus de sujidade ou tipos de carga específicos, ou para ambos, e que, juntas, constituem um ciclo completo;\n\n6. «duração do programa»: tempo que decorre desde o início do programa até ao seu final, com exclusão de qualquer funcionamento diferido programado pelo utilizador final;\n\n7. «ciclo»: lavagem completa, enxaguamento e processo de secagem, como definido para o programa seleccionado;\n\n8. «estado de desactivação»: estado em que a máquina de lavar loiça para uso doméstico é desligada, por meio de comandos do aparelho ou de interruptores acessíveis e destinados a ser operados pelo utilizador final durante a utilização normal, de modo a atingir o consumo de energia mais reduzido, susceptível de persistir por tempo indeterminado, enquanto a máquina de lavar loiça para uso doméstico esteja ligada a uma fonte de energia e seja utilizada de acordo com as instruções do fornecedor; quando não existam comandos ou interruptores acessíveis ao utilizador final, «estado de desactivação» significa o estado seguinte à passagem da máquina de lavar loiça para uso doméstico, pelos seus próprios meios, a um consumo estacionário em termos de potência.\n\n9. «estado inactivo»: o estado de consumo de energia mais reduzido que pode persistir por tempo indeterminado após o final do programa e a descarga da máquina de lavar loiça para uso doméstico sem qualquer intervenção suplementar por parte do utilizador final;\n\n10. «máquina de lavar loiça para uso doméstico equivalente»: um modelo de máquina de lavar loiça para uso doméstico colocado no mercado com capacidade nominal, características técnicas e de desempenho, consumo de energia e de água e emissão de ruído aéreo idênticos aos de outro modelo de máquina de lavar loiça para uso doméstico colocado no mercado com um número de código comercial diferente, pelo mesmo fornecedor.\n\n11. «utilizador final»: um consumidor que compra ou se prevê que compre uma máquina de lavar loiça para uso doméstico;\n\n12. «ponto de venda»: um local em que as máquinas de lavar loiça para uso doméstico são colocadas em exposição ou postas à venda, em locação ou em locação com opção de compra."
+  },
+  "9b7f65eda4f38516": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\nOs fornecedores asseguram que:\n\na) cada máquina de lavar loiça para uso doméstico é fornecida com um rótulo impresso com o formato e as informações previstos no anexo V.\n\nb) é disponibilizada uma ficha de produto, como previsto no anexo II;\n\nc) a documentação técnica, como prevista no anexo III, é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) qualquer anúncio relativo a um modelo específico de máquina de lavar loiça para uso doméstico indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) qualquer material técnico promocional relativo a um modelo específico de máquina de lavar loiça para uso doméstico, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo."
+  },
+  "c034721001e55183": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos distribuidores\n\nOs distribuidores asseguram que:\n\na) cada máquina de lavar loiça para uso doméstico, no ponto de venda, ostenta o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, alínea a), na sua parte externa, à frente ou em cima, de modo a ser manifestamente visível;\n\nb) as máquinas de lavar loiça para uso doméstico postas à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja a máquina de lavar loiça exposta, são comercializadas com as informações que os fornecedores devem facultar nos termos do anexo IV;\n\nc) qualquer anúncio relativo a um modelo específico de máquina de lavar loiça para uso doméstico inclui uma referência à classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) qualquer material técnico promocional relativo a um modelo específico de máquina de lavar loiça para uso doméstico, que descreve os seus parâmetros técnicos específicos, inclui uma referência à classe de eficiência energética do referido modelo."
+  },
+  "522c08b79be7862b": {
+   "fragment_id": "Artigo 5.º — Métodos de medição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Métodos de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de medição\n\nAs informações a facultar nos termos dos artigos 3.º e 4.º serão obtidas por métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados."
+  },
+  "2ac8e8e670b63b3b": {
+   "fragment_id": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nOs Estados-Membros aplicam o procedimento previsto no anexo V ao avaliarem a conformidade da classe de eficiência energética declarada, do consumo de energia anual, do consumo de água anual, do índice de eficiência de secagem, da duração do programa, do consumo de energia em estado de desactivação e em estado inactivo, da duração do estado inactivo e da emissão de ruído aéreo."
+  },
+  "059c397ea76eb26d": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão revê o presente regulamento com base no progresso tecnológico o mais tardar quatro anos após a sua entrada em vigor. Nessa revisão será feita, nomeadamente, uma avaliação das tolerâncias aplicáveis à verificação, constantes do anexo V."
+  },
+  "3952f92c51a05ce9": {
+   "fragment_id": "Artigo 8.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nA Directiva 97/17/CE é revogada a partir de 20 de Dezembro de 2011."
+  },
+  "c57247e4baff3d5b": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. O artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), não se aplicam ao anúncio impresso e ao material técnico promocional impresso publicados antes de 30 de Março de 2012.\n\n2. As máquinas de lavar loiça para uso doméstico colocadas no mercado antes de 30 de Novembro de 2011 devem cumprir as disposições previstas na Directiva 97/17/CE.\n\n3. Caso tenha sido adoptada uma medida de execução da Directiva 2009/125/CE [([^4])](http://publications.europa.eu/resource/cellar/b8cb582d-dda1-41fd-bdb0-98249f1490aa.0001.04/DOC_1#ntr4-L_2010314PT.01000101-E0004) do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica aplicáveis às máquinas de lavar loiça para uso doméstico, as máquinas de lavar loiça para uso doméstico que cumpram o disposto nessa medida de execução no que respeita aos requisitos de eficiência de lavagem e as disposições previstas no presente regulamento, e que sejam colocadas no mercado ou postas à venda, em locação ou em locação com opção de compra antes de 20 de Dezembro de 2011 devem ser consideradas conformes com os requisitos da Directiva 97/17/CE."
+  },
+  "b6408758c4d19b16": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 20 de Dezembro de 2011. Contudo, o artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), são aplicáveis a partir de 20 de Abril de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 28 de Setembro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "b82530470f81b782": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b8cb582d-dda1-41fd-bdb0-98249f1490aa.0001.04/DOC_1#ntc1-L_2010314PT.01000101-E0001) [JO L 153 de 18.6.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_153_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b8cb582d-dda1-41fd-bdb0-98249f1490aa.0001.04/DOC_1#ntc2-L_2010314PT.01000101-E0002) [JO L 118 de 7.5.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_118_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b8cb582d-dda1-41fd-bdb0-98249f1490aa.0001.04/DOC_1#ntc3-L_2010314PT.01000101-E0003) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b8cb582d-dda1-41fd-bdb0-98249f1490aa.0001.04/DOC_1#ntc4-L_2010314PT.01000101-E0004) [JO L 285 de 31.10.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_285_R_TOC)."
+  },
+  "8d6ee5a423759722": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro de 2010\n\nque complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das máquinas de lavar loiça para uso doméstico\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "b9ee5afc628da07a": {
+   "fragment_id": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Responsabilidades dos fornecedores\n\nOs fornecedores asseguram que:\n\na) cada máquina de lavar loiça para uso doméstico é fornecida com um rótulo impresso com o formato e as informações previstos no anexo V.\n\nb) é disponibilizada uma ficha de produto, como previsto no anexo II;\n\nc) a documentação técnica, como prevista no anexo III, é disponibilizada, mediante pedido, às autoridades dos Estados-Membros e à Comissão;\n\nd) qualquer anúncio relativo a um modelo específico de máquina de lavar loiça para uso doméstico indica a classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\ne) qualquer material técnico promocional relativo a um modelo específico de máquina de lavar loiça para uso doméstico, que descreve os seus parâmetros técnicos específicos, indica a classe de eficiência energética do referido modelo;\n\nf) é disponibilizado aos distribuidores um rótulo eletrónico com o formato e as informações previstos no anexo I, para cada modelo de máquina de lavar loiça para uso doméstico colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Esse rótulo pode também ser disponibilizado aos distribuidores para outros modelos de máquina de lavar loiça para uso doméstico;\n\ng) é disponibilizada aos distribuidores uma ficha de produto eletrónica como previsto no anexo II, para cada modelo de máquina de lavar loiça para uso doméstico colocado no mercado a partir de 1 de janeiro de 2015 com um novo identificador de modelo. Essa ficha pode também ser disponibilizada aos distribuidores para outros modelos de máquina de lavar loiça para uso doméstico."
+  },
+  "e507d75a31b777a6": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos distribuidores\n\nOs distribuidores asseguram que:\n\na) cada máquina de lavar loiça para uso doméstico, no ponto de venda, ostenta o rótulo facultado pelos fornecedores, em conformidade com o artigo 3.º, alínea a), na sua parte externa, à frente ou em cima, de modo a ser manifestamente visível;\n\nb) as máquinas de lavar loiça para uso doméstico postas à venda, em locação ou em locação com opção de compra em condições em que não se pode esperar que o utilizador final veja a máquina de lavar loiça para uso doméstico exposta, são comercializadas com as informações facultadas pelo fornecedores nos termos do anexo IV. Caso a oferta seja feita através da Internet e tenham sido disponibilizados um rótulo e uma ficha de produto eletrónicos em conformidade com o artigo 3.º, alíneas f) e g), aplica-se, em vez do que precede, o disposto no anexo VIII;\n\nc) qualquer anúncio relativo a um modelo específico de máquina de lavar loiça para uso doméstico inclui uma referência à classe de eficiência energética, no caso de o anúncio fornecer informação relativa à energia ou aos preços;\n\nd) qualquer material técnico promocional relativo a um modelo específico de máquina de lavar loiça para uso doméstico, que descreve os seus parâmetros técnicos específicos, inclui uma referência à classe de eficiência energética do referido modelo."
+  },
+  "858f02edd5bf81ea": {
+   "fragment_id": "Artigo 9.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1. O artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), não se aplicam ao anúncio impresso e ao material técnico promocional impresso publicados antes de 30 de Março de 2012.\n\n2. As máquinas de lavar loiça para uso doméstico colocadas no mercado antes de 30 de Novembro de 2011 devem cumprir as disposições previstas na Directiva 97/17/CE.\n\n3. Caso tenha sido adoptada uma medida de execução da Directiva 2009/125/CE ([^1^](http://publications.europa.eu/resource/cellar/26e82abb-dbe3-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0001)) do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica aplicáveis às máquinas de lavar loiça para uso doméstico, as máquinas de lavar loiça para uso doméstico que cumpram o disposto nessa medida de execução no que respeita aos requisitos de eficiência de lavagem e as disposições previstas no presente regulamento, e que sejam colocadas no mercado ou postas à venda, em locação ou em locação com opção de compra antes de 20 de Dezembro de 2011 devem ser consideradas conformes com os requisitos da Directiva 97/17/CE."
+  },
+  "a5d0d5a55b02dc06": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 20 de Dezembro de 2011. Contudo, o artigo 3.º, alíneas d) e e), e o artigo 4.º, alíneas b), c) e d), são aplicáveis a partir de 20 de Abril de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "cd72cf4170b55dce": {
+   "fragment_id": "Rótulo",
+   "type": "divisao",
+   "heading": "Rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Rótulo"
+  },
+  "2e772836a00d6506": {
+   "fragment_id": "1. RÓTULO",
+   "type": "divisao",
+   "heading": "1. RÓTULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. RÓTULO\n\n(1) O rótulo deve conter as seguintes informações:\n\nI. Nome do fornecedor ou marca comercial;\n\nII. Identificador de modelo do fornecedor, sendo «identificador de modelo» o código, geralmente alfanumérico, que distingue um modelo específico de máquina de lavar loiça para uso doméstico de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor;\n\nIII. Classe de eficiência energética da máquina de lavar loiça para uso doméstico, determinada em conformidade com a secção 1 do anexo VI; a ponta da seta que contém a classe de eficiência energética da máquina de lavar loiça para uso doméstico deve ficar no mesmo nível que a ponta da seta correspondente à classe de eficiência energética pertinente;\n\nIV. Consumo de energia anual (*AEC*) em kWh por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 1, alínea b), do anexo VII;\n\nV. Consumo de água anual (*AWC*) em litros por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 3 do anexo VII;\n\nVI. Classe de eficiência de secagem determinada em conformidade com a secção 2 do anexo VI;\n\nVII. Capacidade nominal, em serviços de loiça-padrão, para o ciclo de lavagem normal;\n\nVIII. Emissão de ruído aéreo expressa em dB(A) re 1 pW e arredondada às unidades.\n\n(2) O formato do rótulo deve ser conforme com a secção 2. Todavia, se a um modelo tiver sido atribuído um «Rótulo ecológico da UE» nos termos do Regulamento (CE) n.º 66/2010 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/26e82abb-dbe3-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0002)), pode ser acrescentada uma cópia do rótulo ecológico."
+  },
+  "89217c2b9a42f81c": {
+   "fragment_id": "2. ASPECTO DO RÓTULO",
+   "type": "divisao",
+   "heading": "2. ASPECTO DO RÓTULO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. ASPECTO DO RÓTULO\n\nO rótulo deve respeitar o seguinte modelo:\n\nEm que:\n\na) O rótulo deve ter, pelo menos, uma largura de 110 mm e uma altura de 220 mm. Se o rótulo for impresso num formato maior, o seu conteúdo deve, em qualquer caso, manter-se proporcionado relativamente às especificações *supra.*\n\nb) O fundo deve ser branco.\n\nc) As cores são CMAP – ciano, magenta, amarelo e preto, de acordo com o seguinte exemplo: 00-70 de Outubro de 00: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nd) O rótulo deve cumprir todos os requisitos que se seguem (os números referem-se à figura anterior):\n\n**Traço de rebordo:** 5 pt – Cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n**Logótipo UE** – cores: X-80-00-00 e 00-0 de Outubro de 00.\n\n**Logótipo de energia**: Cor: X-00-00-00. Pictograma apresentado; logótipo UE e logótipo de energia (combinados): Largura: 92 mm, altura: 17 mm.\n\n**Rebordo dos sublogótipos:** 1 pt – Cor: ciano 100 % – comprimento: 92,5 mm.\n\n**Escala de A-G**\n\n— **Seta:** altura: 7 mm, intervalo: 0,75 mm – cores:\n\n— **Texto:** Calibri *bold* 18 pt, maiúsculas e branco; símbolos «+»: Calibri *bold* 12 pt, maiúsculas, branco, alinhado numa fila única.\n\n**Classe de eficiência energética**\n\n— **Seta:** largura: 26 mm, altura: 14 mm, 100 % preto.\n\n— **Texto:** Calibri *bold* 29 pt, maiúsculas e branco; símbolos «+»: Calibri *bold* 18 pt, maiúsculas, branco, alinhado numa fila única.\n\n**Energia**\n\n— **Texto:** Calibri normal 11 pt, maiúsculas, 100 % preto.\n\n**Consumo de energia anual**\n\n— **Rebordo:** 2 pt – Cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri *bold* 37 pt, 100 % preto.\n\n— **Segunda linha:** Calibri normal 17 pt, 100 % preto.\n\n**Consumo de água anual:**\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – Cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri *bold* 24 pt, 100 % preto e calibri normal 16 pt, 100 % preto.\n\n**Classe de eficiência de secagem**:\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – Cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri normal 16 pt, horizontal 75 %, 100 % preto e calibri *bold* 22 pt, horizontal 75 %, 100 % preto.\n\n**Capacidade nominal**:\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – Cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri *bold* 24 pt, 100 % preto e calibri normal 16 pt, 100 % preto.\n\n**Emissão de ruído**:\n\n— **Pictograma apresentado**\n\n— **Rebordo:** 2 pt – Cor: ciano 100 % – cantos redondos: 3,5 mm.\n\n— **Valor:** Calibri *bold* 24 pt, 100 % preto e calibri normal 16 pt, 100 % preto.\n\n**Nome do fornecedor ou marca comercial**\n\n**Identificador de modelo do fornecedor**\n\nO nome do fornecedor ou a marca comercial e o identificador de modelo devem caber num espaço de 92 × 15 mm.\n\n**Número do regulamento:** Calibri *bold* 9 pt, 100 % preto."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "93aafe0e96f12154": {
+   "fragment_id": "Ficha de produto",
+   "type": "divisao",
+   "heading": "Ficha de produto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ficha de produto\n\n1. As informações contidas na ficha de produto da máquina de lavar loiça para uso doméstico são facultadas pela ordem seguinte e incluídas na brochura de produto ou noutra documentação fornecida com o produto:\n\na) nome do fornecedor ou marca comercial;\n\nb) identificador do modelo atribuído pelo fornecedor: o código, geralmente alfanumérico, que distingue um modelo específico de máquina de lavar loiça para uso doméstico de outros modelos com a mesma marca comercial ou o mesmo nome de fornecedor.\n\nc) capacidade nominal, em serviços de loiça-padrão, para o ciclo de lavagem normal;\n\nd) classe de eficiência energética, em conformidade com a secção 1 do anexo VI;\n\ne) quando a máquina de lavar loiça para uso doméstico tenha recebido um rótulo ecológico da UE, ao abrigo do Regulamento (CE) n.º 66/2010, essa informação pode ser incluída;\n\nf) consumo de energia anual (*AEC*) em kWh por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 1, alínea b), do anexo VII. É descrito como «consumo de energia de “X” kWh por ano, baseado em 280 ciclos de lavagem normal com enchimento a água fria e no consumo dos modos de baixo consumo de energia. O consumo real de energia dependerá das condições de utilização do aparelho»;\n\ng) consumo de energia (*Et*) do ciclo de lavagem normal;\n\nh) consumo, em termos de potência, em estado de desactivação e em estado inactivo (*Po* e *Pl*);\n\ni) consumo de água anual (*AWC*) em litros por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 3 do anexo VII; é descrito como «consumo de água de “X” litros por ano, baseado em 280 ciclos de lavagem normal. O valor real do consumo de água dependerá do modo de utilização do aparelho»;\n\nj) classe de eficiência de secagem determinada em conformidade com a secção 2 do anexo VI, expressa como «a classe de eficiência de secagem “X” numa escala de G (menos eficiente) a A (mais eficiente)». Se esta informação for apresentada num quadro, pode ser expressa de outro modo, desde que fique claro que a escala vai de G (menos eficiente) a A (mais eficiente);\n\nk) indicação de que o «programa normal» é o ciclo de lavagem normal a que se referem as informações constantes do rótulo e da ficha, de que esse programa é adequado para lavar loiça com grau de sujidade normal e de que é o programa mais eficiente em termos de consumo combinado de energia e de água;\n\nl) duração do programa para o ciclo de lavagem normal, em minutos e arredondada ao minuto;\n\nm) duração do estado inactivo (*Tl*), se a máquina de lavar loiça para uso doméstico estiver equipada com um sistema de gestão da energia;\n\nn) emissão de ruído aéreo expressa em dB(A) re 1 pW e arredondada às unidades;\n\no) se a máquina de lavar loiça para uso doméstico se destinar a ser encastrada, uma indicação nesse sentido.\n\n2. Uma ficha pode abranger vários modelos de máquinas de lavar loiça para uso doméstico fornecidos pelo mesmo fornecedor.\n\n3. Os dados constantes da ficha podem assumir a forma de uma cópia do rótulo, a cores ou a preto e branco. Nesse caso, devem ser também incluídos os dados enumerados na secção 1 que não estejam contidos no rótulo."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "9daae5718a184c0f": {
+   "fragment_id": "Documentação técnica",
+   "type": "divisao",
+   "heading": "Documentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentação técnica\n\n1. A documentação técnica referida no artigo 3.º, alínea c), deve incluir:\n\na) nome e endereço do fornecedor;\n\nb) descrição geral do modelo de máquina de lavar loiça, suficiente para a sua identificação inequívoca e rápida;\n\nc) se for caso disso, referências das normas harmonizadas aplicadas;\n\nd) se for caso disso, outras normas e especificações técnicas utilizadas;\n\ne) identificação e assinatura da pessoa com poderes para representar o fornecedor;\n\nf) os parâmetros técnicos para as medições, como se segue:\n\ni) *consumo de energia;*\n\nii) *consumo de água;*\n\niii) *duração do programa;*\n\niv) *eficiência de secagem;*\n\nv) *consumo, em termos de potência, em «estado de desactivação»;*\n\nvi) *consumo, em termos de potência, em «estado inactivo»;*\n\nvii) *duração do «estado inactivo»;*\n\nviii) *emissão de ruído aéreo;*\n\ng) resultados dos cálculos efectuados em conformidade com o anexo VII.\n\n2. Sempre que as informações presentes na documentação técnica relativamente a um dado modelo de máquina de lavar loiça para uso doméstico sejam resultantes de cálculos efectuados com base na concepção e/ou de extrapolações feitas a partir de outra máquina de lavar loiça para uso doméstico equivalente, a documentação deve incluir os pormenores desses cálculos e/ou extrapolações e dos ensaios realizados pelos fornecedores para verificarem a precisão dos cálculos efectuados. Deve também incluir-se uma lista de todos os outros modelos de máquinas de lavar loiça para uso doméstico equivalentes relativamente aos quais as informações tenham sido obtidas do mesmo modo."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "dcf429e53327e967": {
+   "fragment_id": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "type": "divisao",
+   "heading": "Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer nos casos em que não se pode esperar que os utilizadores finais vejam o produto exposto\n\n1. As informações referidas no artigo 4.º, alínea b), devem ser fornecidas pela seguinte ordem:\n\na) classe de eficiência energética, tal como definida na secção 1 do anexo VI;\n\nb) capacidade nominal, em serviços de loiça-padrão, para o ciclo de lavagem normal;\n\nc) consumo de energia anual (*AEC*) em kWh por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 1, alínea b), do anexo VII;\n\nd) consumo de água anual (*AW* C) em litros por ano, arredondado por excesso às unidades e calculado em conformidade com a secção 3 do anexo VII;\n\ne) classe de eficiência de secagem, em conformidade com a secção 2 do anexo VI;\n\nf) emissão de ruído aéreo expressa em dB(A) re 1 pW e arredondada às unidades;\n\ng) se o modelo se destinar a ser encastrado, uma indicação nesse sentido.\n\n2. Caso sejam apresentados outros dados constantes da ficha de produto, esses dados devem ser apresentados na forma e pela ordem especificadas no anexo II.\n\n3. A dimensão e o tipo de caracteres utilizados para a impressão ou indicação dos dados referidos no presente anexo devem assegurar a sua legibilidade."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "719477a5c7131e40": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelo fornecedor como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica. Os valores e classes indicados no rótulo ou na ficha de produto não podem ser mais favoráveis para o fornecedor do que os indicados na documentação técnica.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento delegado, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:\n\n(1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n(2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do artigo 5.º, alínea b), da Diretiva 2010/30/UE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fornecedor do que os valores correspondentes apresentados nos relatórios de ensaio em conformidade com o ponto iii) do referido artigo; e\n\nb) Os valores publicados no rótulo e na ficha do produto não forem mais favoráveis para o fornecedor do que os valores declarados, e a classe de eficiência energética indicada não for mais favorável para o fornecedor do que a classe determinada em função dos valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições) se situarem dentro dos limites das respetivas tolerâncias de verificação, constantes do quadro 1.\n\n(3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a) ou b), deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fornecedor como modelos equivalentes de máquinas de lavar loiça para uso doméstico não estão conformes com o presente regulamento delegado.\n\n(4) Se não se obtiver o resultado referido no ponto 2, alínea c), as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo. Em alternativa, as três unidades adicionais selecionadas podem ser de um ou mais dos modelos indicados como modelos equivalentes na documentação técnica do fornecedor.\n\n(5) O modelo deve ser considerado conforme com os requisitos aplicáveis se, relativamente a essas três unidades, a média aritmética dos valores determinados estiver conforme com as respetivas tolerâncias, constantes do quadro 1.\n\n(6) Se não se obtiver o resultado referido no ponto 5, deve considerar-se que o modelo e todos os modelos que figurem na documentação técnica do fornecedor como modelos equivalentes de máquinas de lavar loiça para uso doméstico não estão conformes com o presente regulamento delegado.\n\n(7) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não-conformidade do modelo de acordo com o disposto nos pontos 3 e 6.\n\nAs autoridades dos Estados-Membros devem utilizar processos de medição que tomem em consideração os métodos de medição geralmente reconhecidos como os mais avançados, fiáveis, precisos e reprodutíveis, incluindo os métodos descritos em documentos cujas referências tenham sido publicadas para o efeito no *Jornal Oficial da União Europeia*. As autoridades dos Estados-Membros devem aplicar os métodos de medição e de cálculo estabelecidos no anexo VII.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 1 e utilizar apenas o procedimento descrito nos pontos 1 a 7 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\nParâmetros Tolerâncias de verificação\n\nConsumo anual de energia (*AEC*) O valor determinado não pode ser superior ao valor declarado de *AEC* em mais de 10 %.\n\nConsumo de água (*Wt*) O valor determinado não pode ser superior ao valor declarado de *Wt* em mais de 10 %.\n\nÍndice de eficiência de secagem (*ID*) O valor determinado não pode ser inferior ao valor declarado de *ID* em mais de 19 %.\n\nConsumo de energia (*Et*) O valor determinado não pode ser superior ao valor declarado de *Et* em mais de 10 %. Nos casos em que é necessário selecionar três unidades adicionais, a média aritmética dos valores determinados dessas três unidades não pode ser superior ao valor declarado de *Et* em mais de 6 %.\n\nDuração do programa (*Tt*) O valor determinado não pode ser superior aos valores declarados de *Tt* em mais de 10 %.\n\nConsumo de energia em estado de desativação e em estado inativo (*Po* e *Pl*) Os valores determinados do consumo de energia *Po* e *Pl* de mais de 1,00 W não podem ser superiores aos valores declarados *Po* e *Pl* em mais de 10 %. O valor determinado do consumo de energia *Po* e *Pl* igual ou inferior a 1,00 W não pode ser superior ao valor declarado de *Po* e *Pl* em mais de 0,10 W.\n\nDuração do estado inativo (*Tl*) O valor determinado não pode ser superior ao valor declarado de *Tl* em mais de 10 %.\n\nEmissão de ruído aéreo O valor determinado deve corresponder ao valor declarado."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "3c0e331ab492c86a": {
+   "fragment_id": "Classes de eficiência energética e classes de eficiência de secagem",
+   "type": "divisao",
+   "heading": "Classes de eficiência energética e classes de eficiência de secagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Classes de eficiência energética e classes de eficiência de secagem"
+  },
+  "ec37d81766735fd5": {
+   "fragment_id": "1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "1. CLASSES DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CLASSES DE EFICIÊNCIA ENERGÉTICA\n\nA classe de eficiência energética de uma máquina de lavar loiça para uso doméstico é determinada com base no seu índice de eficiência energética (*EEI*) tal como estabelecido no quadro 1.\n\nO índice de eficiência energética (*EEI*) de uma máquina de lavar loiça para uso doméstico é calculado em conformidade com a secção 1 do anexo VII.\n\nClasse de eficiência energética Índice de eficiência energética\n\nA+++ (a mais eficiente) *EEI* < 50\n\nA++ 50 ≤ *EEI* < 56\n\nA+ 56 ≤ *EEI* < 63\n\nA 63 ≤ *EEI* < 71\n\nB 71 ≤ *EEI* < 80\n\nC 80 ≤ *EEI* < 90\n\nD (a menos eficiente) *EEI* ≥ 90"
+  },
+  "a9d4ba9532afa896": {
+   "fragment_id": "2. CLASSES DE EFICIÊNCIA DE SECAGEM",
+   "type": "divisao",
+   "heading": "2. CLASSES DE EFICIÊNCIA DE SECAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CLASSES DE EFICIÊNCIA DE SECAGEM\n\nA classe de eficiência de secagem de uma máquina de lavar loiça para uso doméstico é determinada com base no seu índice de eficiência de secagem (*ID*) tal como estabelecido no quadro 2.\n\nO índice de eficiência de secagem (*ID*) é calculado em conformidade com a secção 2 do anexo VII.\n\nClasse de eficiência de secagem Índice de eficiência de secagem\n\nA (a mais eficiente) *ID* > 1,08\n\nB 1,08 ≥ *ID* > 0,86\n\nC 0,86 ≥ *ID* > 0,69\n\nD 0,69 ≥ *ID* > 0,55\n\nE 0,55 ≥ *ID* > 0,44\n\nF 0,44 ≥ *ID* > 0,33\n\nG (a menos eficiente) 0,33 ≥ *ID*"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "df77ee635d1356e3": {
+   "fragment_id": "Método de cálculo do índice de eficiência energética, do índice de eficiência de secagem e do consumo de água",
+   "type": "divisao",
+   "heading": "Método de cálculo do índice de eficiência energética, do índice de eficiência de secagem e do consumo de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de cálculo do índice de eficiência energética, do índice de eficiência de secagem e do consumo de água"
+  },
+  "31278375372ea238": {
+   "fragment_id": "1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CÁLCULO DO ÍNDICE DE EFICIÊNCIA ENERGÉTICA\n\nPara o cálculo do índice de eficiência energética (*EEI*) de um modelo de máquina de lavar loiça para uso doméstico, o consumo de energia anual da máquina de lavar loiça para uso doméstico é comparado com o seu consumo de energia anual normalizado.\n\na) O índice de eficiência energética (*EEI*) é calculado do seguinte modo e arredondado às décimas:\n\n| AEC | = | consumo de energia anual da máquina de lavar loiça para uso doméstico; |\n| --- | --- | --- |\n\n| SAEC | = | consumo de energia anual normalizado da máquina de lavar loiça para uso doméstico. |\n| --- | --- | --- |\n\nb) O consumo de energia anual (*AEc*) é calculado do seguinte modo, expresso em kWh/ano e arredondado às centésimas:\n\ni)\n\n| Et | = | consumo de energia para o ciclo normal, em kWh e arredondado às milésimas; |\n| --- | --- | --- |\n\n| Pl | = | potência em estado inactivo para o ciclo de lavagem normal, em watts e arredondado às centésimas; |\n| --- | --- | --- |\n\n| Po | = | potência em estado de desactivação para o ciclo de lavagem normal, em watts e arredondado às centésimas; |\n| --- | --- | --- |\n\n| Tt | = | duração do programa para o ciclo de lavagem normal, em minutos e arredondada ao minuto. |\n| --- | --- | --- |\n\n| 280 | = | número total dos ciclos de lavagem normal por ano. |\n| --- | --- | --- |\n\nii) Quando a máquina de lavar loiça para uso doméstico possui um sistema de gestão da energia, em que a máquina passa automaticamente para o estado de desactivação após o fim do programa, o consumo de energia anual (*AEC*) é calculado tomando em consideração a duração efectiva do estado inactivo, de acordo com a seguinte fórmula:\n\n| Tl | = | tempo medido no estado inactivo para o ciclo de lavagem normal, em minutos e arredondado ao minuto; |\n| --- | --- | --- |\n\n| 280 | = | número total dos ciclos de lavagem normal por ano. |\n| --- | --- | --- |\n\nc) O consumo de energia anual normalizado (*SAEC*) é calculado do seguinte modo, expresso em kWh/ano e arredondado às centésimas:\n\ni) para máquinas de lavar loiça para uso doméstico com capacidade nominal *ps* ≥ 10 e largura > 50 cm:\n\nii) para máquinas de lavar loiça para uso doméstico com capacidade nominal *ps* ≤ 9 e máquinas de lavar loiça para uso doméstico com capacidade nominal 9 < *ps* ≤ 11 e largura ≤ 50 cm:\n\n| ps | = | número de serviços individuais. |\n| --- | --- | --- |"
+  },
+  "816b7e38b8e1f46f": {
+   "fragment_id": "2. CÁLCULO DO ÍNDICE DE EFICIÊNCIA DE SECAGEM",
+   "type": "divisao",
+   "heading": "2. CÁLCULO DO ÍNDICE DE EFICIÊNCIA DE SECAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CÁLCULO DO ÍNDICE DE EFICIÊNCIA DE SECAGEM\n\nPara o cálculo do índice de eficiência de secagem (*ID*) de um modelo de máquina de lavar loiça para uso doméstico, a eficiência de secagem da máquina é comparada com a eficiência de secagem de uma máquina de lavar loiça de referência, tendo a máquina de lavar loiça de referência as características indicadas nos métodos de medição geralmente reconhecidos como os mais avançados, incluindo os métodos descritos em documentos cujas referências tenham sido publicadas para o efeito no *Jornal Oficial da União Europeia*.\n\na) O índice de eficiência de secagem (*ID*) é calculado do seguinte modo e arredondado às centésimas:\n\n| DT,i | = | eficiência de secagem da máquina de lavar loiça para uso doméstico em ensaio para um ciclo de ensaio (*i*); |\n| --- | --- | --- |\n\n| DR,i | = | eficiência de secagem da máquina de lavar loiça de referência para um ciclo de ensaio (*i*); |\n| --- | --- | --- |\n\n| *n* | = | número de ciclos de ensaio, n ≥ 5. |\n| --- | --- | --- |\n\nb) A eficiência de secagem (*D*) é a pontuação média respeitante à humidade de cada peça carregada, após a conclusão do ciclo de lavagem normal. A pontuação é calculada como indicado no quadro 1:\n\n| Número de marcas de água (*WT*) ou de riscos de humidade (*WS*) | Área húmida total (*Aw*) em mm^2^ | Pontuação respeitante à humidade |\n| --- | --- | --- |\n| *WT* = 0 e *WS* = 0 | Não se aplica | 2 (a mais eficiente) |\n| 1 < *WT* ≤ 2 ou *WS* = 1 | *Aw* < 50 | 1 |\n| 2 < *WT* ou *WS* = 2 ou *WS* = 1 e *WT* = 1 | *Aw* > 50 | 0 (a menos eficiente) |"
+  },
+  "f78d27d5656859d1": {
+   "fragment_id": "3. CÁLCULO DO CONSUMO DE ÁGUA ANUAL",
+   "type": "divisao",
+   "heading": "3. CÁLCULO DO CONSUMO DE ÁGUA ANUAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. CÁLCULO DO CONSUMO DE ÁGUA ANUAL\n\nO consumo de água anual (*AWC*) de uma máquina de lavar loiça para uso doméstico é calculado em litros e arredondado por excesso às unidades, do seguinte modo:\n\n*AWC = Wt* × 280\n\nem que:\n\n| *Wt* | = | consumo de água para o ciclo de lavagem normal, em litros e arredondado às décimas. |\n| --- | --- | --- |"
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "9df401f896502834": {
+   "fragment_id": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "type": "divisao",
+   "heading": "Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações a fornecer em caso de venda, locação ou locação com opção de compra através da Internet\n\n1) Para efeitos dos pontos 2 a 5 do presente anexo, aplicam-se as seguintes definições:\n\na) «mecanismo de visualização», qualquer ecrã, inclusive um ecrã tátil, ou outra tecnologia de visualização utilizada para a apresentação de conteúdos da Internet aos utilizadores;\n\nb) «apresentação em ninho», uma interface visual em que o acesso a uma imagem ou a um conjunto de dados se faz através de um clique no rato, do movimento do rato ou da expansão em ecrã tátil sobre outra imagem ou outro conjunto de dados;\n\nc) «ecrã tátil», um ecrã que reage ao toque, como é o caso nos computadores-tablete, computadores-ardósia ou telefones inteligentes;\n\nd) «texto alternativo», texto fornecido em alternativa a um gráfico, permitindo que a informação seja apresentada em forma não gráfica, nos casos em que os dispositivos de visualização não podem produzir o gráfico ou em que se pretende melhorar a acessibilidade, nomeadamente através de aplicações de síntese de voz.\n\n2) O rótulo pertinente, disponibilizado pelos fornecedores em conformidade com o artigo 3.º, alínea f), deve ser apresentado no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que o rótulo seja claramente visível e legível e devem ser proporcionais às dimensões especificadas no anexo I, ponto 2. O rótulo pode ser apresentado em ninho, caso em que a imagem utilizada para se aceder ao rótulo deve obedecer às especificações estabelecidas no ponto 3 do presente anexo. Caso se utilize a apresentação em ninho, o rótulo deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem.\n\n3) A imagem utilizada para se aceder ao rótulo no caso da apresentação em ninho deve:\n\na) ser uma seta de cor correspondente à classe de eficiência energética do produto indicada no rótulo;\n\nb) indicar na seta a classe de eficiência energética do produto, a branco e com carateres de tamanho equivalente ao dos do preço; e\n\nc) obedecer a um dos seguintes formatos:\n\n4) No caso da apresentação em ninho, a sequência de apresentação do rótulo deve ser a seguinte:\n\na) a imagem a que se refere o ponto 3 do presente anexo deve ser apresentada no mecanismo de visualização junto do preço do produto;\n\nb) a imagem deve remeter, por hiperligação, para o rótulo;\n\nc) o rótulo deve ser apresentado após um clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a imagem;\n\nd) o rótulo deve ser apresentado em janela emergente, novo separador, nova página ou inserção no ecrã;\n\ne) para ampliar o rótulo em ecrãs táteis, aplicam-se os procedimentos específicos do dispositivo para o efeito;\n\nf) a apresentação do rótulo deve cessar mediante recurso a uma opção de fecho ou a outro mecanismo de fecho normal;\n\ng) o texto alternativo à imagem, a apresentar em caso de impossibilidade de apresentação do rótulo, deve indicar a classe de eficiência energética do produto em carateres de tamanho equivalente ao dos do preço.\n\n5) A ficha de produto pertinente, disponibilizada pelos fornecedores em conformidade com o artigo 3.º, alínea g), deve ser apresentada no mecanismo de visualização junto do preço do produto. As dimensões devem ser tais que a ficha de produto seja claramente visível e legível. A ficha de produto pode ser apresentada em ninho, caso em que a ligação utilizada para se aceder à ficha deve indicar, de forma clara e legível, «Ficha de produto». Caso se utilize a apresentação em ninho, a ficha de produto deve surgir com o primeiro clique no rato, o movimento do rato ou a expansão em ecrã tátil sobre a ligação.\n\n---"
+  },
+  "aede94c36f34bb1b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/26e82abb-dbe3-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 285 de 31.10.2009, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/26e82abb-dbe3-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 27 de 30.1.2010, p. 1."
+  },
+  "5736177e0d6343da": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02010R1059 — PT — 01.03.2021 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32010R1059) [REGULAMENTO DELEGADO (UE) N.º 1059/2010 DA COMISSÃO](http://publications.europa.eu/resource/celex/32010R1059) [de 28 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R1059) [que complementa a Directiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética das máquinas de lavar loiça para uso doméstico](http://publications.europa.eu/resource/celex/32010R1059) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32010R1059) (JO L 314, 30.11.2010, p.1)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2019/2017 da Comissão de 11 de março de 2019](http://publications.europa.eu/resource/celex/32019R2017) — L 315 — 134 — 5.12.2019"
+  }
+ }
+}

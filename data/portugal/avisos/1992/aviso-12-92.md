@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:150967:por
+title: Aviso n.º 12/92
+short_title: null
+summary: Torna público ter o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificado que a República Federal
+  da Alemanha declarou aceitar as adesões da Nova Zelândia e do México à Convenção sobre os Aspectos Civis do Rapto Internacional
+  de Crianças
+jurisdiction: portugal
+territory: null
+document_type: aviso
+document_type_label: Aviso
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Secretaria-Geral - Serviço Jurídico e de Tratados
+proposing_entity: null
+official_number: 12/92
+official_date: null
+publication_date: '1992-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1992, Série I-A de 1992-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 728 - 728
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/02/030a00/07280728.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/av/12/1992/02/05/p/dre/pt/html
+  oj: null
+  dre: '150967'
+  dre_path: /dr/detalhe/aviso/12-1992-150967
+  internal: pt:dre:150967:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/aviso/12-1992-150967
+  metadata_url: https://data.dre.pt/eli/av/12/1992/02/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/aviso/12-1992-150967
+  consolidated_url: null
+  retrieved_at: '2026-10-26T20:49:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3f1fe8616356fbd0e0e65a6c9f9b541449ff99fda6935d49c6a13d851612477e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T20:49:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Criança
+- HAIA
+- México
+- Proteção à Infância
+- Sequestro de Pessoas
+relationships:
+- type: cites
+  target: pt:dre:450669:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T20:49:43Z'
+  warnings: []
+  errors: []
+---
+
+# Aviso n.º 12/92
+
+Por ordem superior se torna público que, por nota de 9 de Dezembro de 1991 e nos termos do artigo 25.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Alemanha declarado aceitar as adesões da Nova Zelândia e do México à mencionada Convenção, em 14 de Novembro de 1991.
+
+Nos termos do artigo 38.º, parágrafo 5.º, a Convenção entra em vigor entre a Nova Zelândia e a República Federal da Alemanha e entre o México e a República Federal da Alemanha em 1 de Fevereiro de 1992.
+
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo [Decreto do Governo n.º 33/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/33-1983-450669), de 11 de Maio, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A Convenção vigora em Portugal desde 1 de Dezembro de 1983.
+
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 16 de Janeiro de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.

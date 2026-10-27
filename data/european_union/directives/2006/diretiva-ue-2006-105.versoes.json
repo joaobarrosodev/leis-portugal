@@ -1,0 +1,1153 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006L0105:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0105-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "2006-12-20",
+   "future": false,
+   "celex": "32006L0105",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8fd1c856d3e1e23f",
+    "8a4aa5843e59dc3b",
+    "ff7f0cbb0043f7a2",
+    "5544a76353adf862",
+    "addf2ea8cb9a8095",
+    "3c60e6e764f1ce79"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02006L0105-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita AMBIENTE",
+    "Adita A. PROTECÇÃO DA NATUREZA",
+    "Adita ПРИЛОЖЕНИЕ I –ANEXO I — PŘÍLOHA I –BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I –ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LIITE I — BILAGA I",
+    "Adita a)",
+    "Adita GAVIIFORMES",
+    "Adita PODICIPEDIFORMES",
+    "Adita PROCELLARIIFORMES",
+    "Adita PELECANIFORMES",
+    "Adita CICONIIFORMES",
+    "Adita PHOENICOPTERIFORMES",
+    "Adita ANSERIFORMES",
+    "Adita FALCONIFORMES",
+    "Adita GALLIFORMES",
+    "Adita GRUIFORMES",
+    "Adita CHARADRIIFORMES",
+    "Adita PTEROCLIFORMES",
+    "Adita COLUMBIFORMES",
+    "Adita STRIGIFORMES",
+    "Adita CAPRIMULGIFORMES",
+    "Adita APODIFORMES",
+    "Adita CORACIIFORMES",
+    "Adita PICIFORMES",
+    "Adita PASSERIFORMES",
+    "Adita ПРИЛОЖЕНИЕ II/1 –ANEXO II/1 — PŘÍLOHA II/1 –BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 –ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LIITE II/1 — BILAGA II/1",
+    "Adita ПРИЛОЖЕНИЕ II/2 –ANEXO II/2 — PŘÍLOHA II/2 –BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 –ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LIITE II/2 — BILAGA II/2",
+    "Adita ПРИЛОЖЕНИЕ III/1 –ANEXO III/1 — PŘÍLOHA III/1 –BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 –ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LIITE III/1 — BILAGA III/1",
+    "Adita ПРИЛОЖЕНИЕ III/2 –ANEXO III/2 — PŘÍLOHA III/2 –BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2 — III/2 PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 –ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LIITE III/2 — BILAGA III/2",
+    "Adita ANEXO I",
+    "Adita TIPOS DE HABITATS NATURAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE CONSERVAÇÃO",
+    "Adita Interpretação",
+    "Adita 1. HABITATS COSTEIROS E VEGETAÇÃO HALÓFILA",
+    "Adita 11. Águas marinhas e meios sob influência das marés",
+    "Adita 12. Falésias marítimas e praias de calhaus rolados",
+    "Adita 13. Sapais e prados salgados atlânticos e continentais",
+    "Adita 14. Sapais e prados salgados mediterrânicos e termoatlânticos",
+    "Adita 15. Estepes interiores halófilas e gipsófilas",
+    "Adita 16. Arquipélagos, costas e superfícies emergentes do mar Báltico boreal",
+    "Adita 2. DUNAS MARÍTIMAS E INTERIORES",
+    "Adita 21. Dunas marítimas das costas atlânticas, do mar do Norte e do Báltico",
+    "Adita 22. Dunas marítimas das costas mediterrânicas",
+    "Adita 23. Dunas interiores, antigas e descalcificadas",
+    "Adita 3. HABITATS DE ÁGUA DOCE",
+    "Adita 31. Águas paradas",
+    "Adita 32. Águas correntes — troços de cursos de água com dinâmica natural e seminatural (leitos pequenos, médios e grandes), em que a qualidade da água não sofre mudanças significativas",
+    "Adita 4. CHARNECAS E MATOS DAS ZONAS TEMPERADAS",
+    "Adita 5. MATOS ESCLERÓFILOS",
+    "Adita 51. Matos submediterrânicos e temperados",
+    "Adita 52. Matagais arborescentes mediterrânicos",
+    "Adita 53. Matos termomediterrânicos pré-estépicos",
+    "Adita 54. Friganas",
+    "Adita 6. FORMAÇÕES HERBÁCEAS NATURAIS E SEMINATURAIS",
+    "Adita 61. Prados naturais",
+    "Adita 62. Formações herbáceas secas seminaturais e fácies arbustivas",
+    "Adita 63. Florestas esclerófilas sujeitas a pastoreio (montados)",
+    "Adita 64. Pradarias húmidas seminaturais de ervas altas",
+    "Adita 65. Prados mesófilos",
+    "Adita 7. TURFEIRAS ALTAS, TURFEIRAS BAIXAS E PÂNTANOS",
+    "Adita 71. Turfeiras ácidas de Sphagnum",
+    "Adita 72. Pântanos calcários",
+    "Adita 73. Turfeiras boreais",
+    "Adita 8. HABITATS ROCHOSOS E GRUTAS",
+    "Adita 81. Depósitos de vertente rochosos",
+    "Adita 82. Vertentes rochosas com vegetação casmofítica",
+    "Adita 83. Outros habitats rochosos",
+    "Adita 9. FLORESTAS",
+    "Adita Florestas (sub)naturais de essências indígenas no estado de matas em alto fuste com vegetação subarbustiva típica, que correspondem a um dos seguintes critérios: raras ou residuais, e/ou com espécies de interesse comunitário",
+    "Adita 90. Florestas da Europa boreal",
+    "Adita 91. Florestas da Europa temperada",
+    "Adita 92. Florestas mediterrânicas caducifólias",
+    "Adita 93. Florestas esclerófilas mediterrânicas",
+    "Adita 94. Florestas de coníferas das montanhas temperadas",
+    "Adita 95. Florestas de coníferas das montanhas mediterrânicas e macaronésias",
+    "Adita ANEXO II",
+    "Adita ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE CONSERVAÇÃO",
+    "Adita a) ANIMAIS",
+    "Adita b) PLANTAS",
+    "Adita ANEXO IV",
+    "Adita ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO QUE EXIGEM UMA PROTECÇÃO RIGOROSA",
+    "Adita ANEXO V",
+    "Adita ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO CUJA CAPTURA OU COLHEITA NA NATUREZA E EXPLORAÇÃO PODEM SER OBJECTO DE MEDIDAS DE GESTÃO",
+    "Adita B. CONTROLO DA POLUIÇÃO INDUSTRIAL E GESTÃO DOS RISCOS"
+   ],
+   "fragments": [
+    "5411f6e37411c466",
+    "8a4aa5843e59dc3b",
+    "ff7f0cbb0043f7a2",
+    "5544a76353adf862",
+    "5c8b3cd719ea97c8",
+    "10220b9774fa9034",
+    "f0b699eb3de74702",
+    "b7289b16faa7c7d2",
+    "7e7bf4f216ac1a25",
+    "0f953312d6e9a780",
+    "ace59562a6157aa2",
+    "8240a9e0eb6b6277",
+    "1160e95954409a75",
+    "dae2ef993bc6cb68",
+    "4c9b1368a429e71c",
+    "41d718f7dcde8e29",
+    "7140b2daab68e672",
+    "1768a281931dc91d",
+    "bd79000f74fc6f03",
+    "d1a7b338c644c104",
+    "6429397eee5f1e79",
+    "12047aab148909e3",
+    "59780e77bb73d2a5",
+    "06e75bde03cc6910",
+    "46982499a5e68b6c",
+    "0a158ce26203fef7",
+    "fcdfc1153ccaba01",
+    "b7955c6a014f43cf",
+    "e8e766fa33d12945",
+    "5603ea195ccfdcab",
+    "beaaae589eb8bc7f",
+    "9ba24d657f710326",
+    "2e1bd564ab4a0042",
+    "0021b8ff6c8ddee6",
+    "1b1488191466558f",
+    "9e8034c84de62d11",
+    "c134dc9b7ed1b530",
+    "c8b3d7cf3f5ca80a",
+    "69fbd581bbebb9c6",
+    "826015fee1bb48a3",
+    "4f4f8d4a0d8d79e4",
+    "c7c4600da0bff928",
+    "a7c5a90f79503290",
+    "092cd5b347bcfeb6",
+    "509d6323726d49c3",
+    "e9e903ceedef3091",
+    "317ccc950f0eb924",
+    "d9f7717039b0920e",
+    "fd21835bdc3fd9dd",
+    "62c17b2d764842af",
+    "eb0afcbded2fb242",
+    "d664376e2a8dcecd",
+    "7b7818f5a5b6d93b",
+    "1b7dd6a9e12c9b4e",
+    "b5da04e392a4eda8",
+    "98b1b6f92df9ac78",
+    "531a08134f698035",
+    "54ade4e3264383a9",
+    "4aa8cce3cabc86d2",
+    "b693d875d2b31e59",
+    "e21d228f28b38a28",
+    "d9cec853a09cb0c1",
+    "b40351409b20667a",
+    "06fe97ed84223796",
+    "64e4295d3bc99c97",
+    "074f8d061f9e4017",
+    "56ed69e949947622",
+    "64537f125774f522",
+    "63680ab2d9345865",
+    "0957d546cdb5a32a",
+    "cd830f7655540865",
+    "d9a2c8aacc64d3d7",
+    "5f175f0d99a69bb0",
+    "e576fc649746bc68",
+    "c75cf95ed48a2491",
+    "6c38528f62f1d996",
+    "9c571e2fd5ff78ee",
+    "09d1ea66db641229",
+    "cb564f2bfdd8817c",
+    "1f747992f8b0ce15",
+    "bc1f45043b6a30ca",
+    "bf2983cd0b22cf83",
+    "d6e736660410936c",
+    "08f6a5d2f4df74d8",
+    "957d54cf9ca0c88d",
+    "3cf2240ea9fa5f64",
+    "04ae82ab7874abd0",
+    "d0770a5c91593952",
+    "790f8b582c1c3378",
+    "9021f3ae46a0cab1",
+    "827facd60317c6b1",
+    "49dc99a269c95f17",
+    "1f446dc3c56baa77",
+    "14d69fa8ba434cd8",
+    "058975cce94350dc",
+    "220eb8f483d66d07",
+    "852174729551523b",
+    "771a3eb4cd9ecce8",
+    "ee351854621a3e5b",
+    "28762a1bd11f49ca",
+    "de866a80bd968310",
+    "e03a0eb4d5b2eef3",
+    "6691cfc1e1b95297",
+    "a7d88646f9b9b043",
+    "0765e963fce38467",
+    "64610ae29a6cb67c",
+    "5ceae489d6ee4bb2",
+    "c65a4a76de355a1b",
+    "bd16346de989ff81",
+    "5c1e1d55606f4f81",
+    "87d1aa4fba828017",
+    "9d66fe9098ce4abd"
+   ]
+  }
+ ],
+ "fragments": {
+  "8fd1c856d3e1e23f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Novembro de 2006\n\nque adapta as Directivas 73/239/CEE, 74/557/CEE e 2002/83/CE no domínio do ambiente, em virtude da adesão da Bulgária e da Roménia\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Tratado de Adesão da Bulgária e da Roménia [([^1])](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntr1-L_2006363PT.01036801-E0001), nomeadamente o n.º 3 do artigo 4.º,\n\nTendo em conta o Acto de Adesão da Bulgária e da Roménia, nomeadamente o artigo 56.º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o disposto no artigo 56.º do Acto de Adesão, sempre que os actos das instituições continuem em vigor após 1 de Janeiro de 2007 e devam ser adaptados em virtude da adesão, não estando as adaptações necessárias previstas no Acto de Adesão ou nos seus Anexos, o Conselho adoptará os actos necessários para esse efeito, a não ser que o acto inicial tenha sido adoptado pela Comissão.\n\n(2) A Acta Final da Conferência que elaborou o Tratado de Adesão refere que as Altas Partes Contratantes chegaram a acordo político sobre uma série de adaptações dos actos adoptados pelas instituições, necessárias em virtude da adesão, e convidam o Conselho e a Comissão a adoptá-las antes da adesão, completando-as e actualizando-as sempre que necessário para ter em conta a evolução do direito da União.\n\n(3) As Directivas 79/409/CEE [([^2])](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntr2-L_2006363PT.01036801-E0002), 92/43/CEE [([^3])](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntr3-L_2006363PT.01036801-E0003), 97/68/CE [([^4])](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntr4-L_2006363PT.01036801-E0004), 2001/80/CE [([^5])](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntr5-L_2006363PT.01036801-E0005) e 2001/81/CE [([^6])](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntr6-L_2006363PT.01036801-E0006) devem, por conseguinte, ser alteradas em conformidade,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "8a4aa5843e59dc3b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs Directivas 79/409/CEE, 92/43/CEE, 97/68/CE, 2001/80/CE e 2001/81/CE devem ser alteradas em conformidade com o Anexo."
+  },
+  "ff7f0cbb0043f7a2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até à data da adesão da Bulgária e da Roménia à União Europeia. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "5544a76353adf862": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor sob reserva da entrada em vigor do Tratado de Adesão da Bulgária e da Roménia e na mesma data."
+  },
+  "addf2ea8cb9a8095": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Novembro de 2006.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**J. KORKEAOJA**\n\n---"
+  },
+  "3c60e6e764f1ce79": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntc1-L_2006363PT.01036801-E0001) [JO L 157 de 21.6.2005, p.11](http://publications.europa.eu/resource/oj/JOL_2005_157_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntc2-L_2006363PT.01036801-E0002) [JO L 103 de 25.4.1979, p. 1](http://publications.europa.eu/resource/oj/JOL_1979_103_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntc3-L_2006363PT.01036801-E0003) [JO L 206 de 22.7.1992, p. 7](http://publications.europa.eu/resource/oj/JOL_1992_206_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntc4-L_2006363PT.01036801-E0004) [JO L 59 de 27.2.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_059_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntc5-L_2006363PT.01036801-E0005) [JO L 309 de 27.11.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_309_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/bccb688a-f910-4d7c-a955-162ab8d1767e.0016.03/DOC_1#ntc6-L_2006363PT.01036801-E0006) [JO L 309 de 27.11.2001, p. 22](http://publications.europa.eu/resource/oj/JOL_2001_309_R_TOC)."
+  },
+  "5411f6e37411c466": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Novembro de 2006,\n\nque adapta as Directivas 79/409/CEE, 92/43/CEE, 97/68/CE, 2001/80/CE e 2001/81/CE no domínio do ambiente, em virtude da adesão da Bulgária e da Roménia\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Tratado de Adesão da Bulgária e da Roménia ([^1^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0001)), nomeadamente o n.º 3 do artigo 4.º,\n\nTendo em conta o Acto de Adesão da Bulgária e da Roménia, nomeadamente o artigo 56.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Em conformidade com o disposto no artigo 56.º do Acto de Adesão, sempre que os actos das instituições continuem em vigor após 1 de Janeiro de 2007 e devam ser adaptados em virtude da adesão, não estando as adaptações necessárias previstas no Acto de Adesão ou nos seus Anexos, o Conselho adoptará os actos necessários para esse efeito, a não ser que o acto inicial tenha sido adoptado pela Comissão.\n\n(2) A Acta Final da Conferência que elaborou o Tratado de Adesão refere que as Altas Partes Contratantes chegaram a acordo político sobre uma série de adaptações dos actos adoptados pelas instituições, necessárias em virtude da adesão, e convidam o Conselho e a Comissão a adoptá-las antes da adesão, completando-as e actualizando-as sempre que necessário para ter em conta a evolução do direito da União.\n\n(3) As Directivas 79/409/CEE ([^2^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0002)), 92/43/CEE ([^3^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0003)), 97/68/CE ([^4^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0004)), 2001/80/CE ([^5^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0005)) e 2001/81/CE ([^6^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0006)) devem, por conseguinte, ser alteradas em conformidade,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "f0b699eb3de74702": {
+   "fragment_id": "AMBIENTE",
+   "type": "divisao",
+   "heading": "AMBIENTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AMBIENTE"
+  },
+  "b7289b16faa7c7d2": {
+   "fragment_id": "A. PROTECÇÃO DA NATUREZA",
+   "type": "divisao",
+   "heading": "A. PROTECÇÃO DA NATUREZA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. PROTECÇÃO DA NATUREZA\n\n1. 31979 L 0409: Directiva 79/409/CEE do Conselho, de 2 de Abril de 1979, relativa à conservação das aves selvagens (JO L 103 de 25.4.1979, p. 1), alterada por:\n\n— 11979 H: Acto relativo às condições de Adesão e às adaptações dos Tratados — Adesão da República Helénica (JO L 291 de 19.11.1979, p. 17),\n\n— 31981 L 0854: Directiva 81/854/CEE do Conselho, de 19.10.1981 (JO L 319 de 7.11.1981, p. 3),\n\n— 11985 I: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão do Reino de Espanha e da República Portuguesa (JO L 302 de 15.11.1985, p. 23),\n\n— 31985 L 0411: Directiva 85/411/CEE da Comissão, de 25.7.1985 (JO L 233 de 30.8.1985, p. 33),\n\n— 31986 L 0122: Directiva 86/122/CEE do Conselho, de 8.4.1986 (JO L 100 de 16.4.1986, p. 22),\n\n— 31990 L 0656: Directiva 90/656/CEE do Conselho, de 4.12.1990 (JO L 353 de 17.12.1990, p. 59),\n\n— 31991 L 0244: Directiva 91/244/CEE da Comissão, de 6.3.1991 (JO L 115 de 8.5.1991, p. 41),\n\n— 31994 L 0024: Directiva 94/24/CE do Conselho, de 8.6.1994 (JO L 164 de 30.6.1994, p. 9),\n\n— 11994 N: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão da República da Áustria, da República da Finlândia e do Reino da Suécia (JO C 241 de 29.8.1994, p. 21),\n\n— 31997 L 0049: Directiva 97/49/CE da Comissão, de 29.7.1997 (JO L 223 de 13.8.1997, p. 9),\n\n— 12003 T: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca (JO L 236 de 23.9.2003, p. 33),\n\n— 32003 R 0807: Regulamento (CE) n.º 807/2003 do Conselho, de 14.4.2003 (JO L 122 de 16.5.2003, p. 36)."
+  },
+  "7e7bf4f216ac1a25": {
+   "fragment_id": "ПРИЛОЖЕНИЕ I –ANEXO I — PŘÍLOHA I –BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I –ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LIITE I — BILAGA I",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ I –ANEXO I — PŘÍLOHA I –BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I –ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LIITE I — BILAGA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ I –ANEXO I — PŘÍLOHA I –BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I –ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA I — LIITE I — BILAGA I"
+  },
+  "0f953312d6e9a780": {
+   "fragment_id": "a)",
+   "type": "divisao",
+   "heading": "a)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### a)"
+  },
+  "ace59562a6157aa2": {
+   "fragment_id": "GAVIIFORMES",
+   "type": "divisao",
+   "heading": "GAVIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GAVIIFORMES\n\nGaviidae\n\n*Gavia stellata*\n\n*Gavia arctica*\n\n*Gavia immer*"
+  },
+  "8240a9e0eb6b6277": {
+   "fragment_id": "PODICIPEDIFORMES",
+   "type": "divisao",
+   "heading": "PODICIPEDIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PODICIPEDIFORMES\n\nPodicipedidae\n\n*Podiceps auritus*"
+  },
+  "1160e95954409a75": {
+   "fragment_id": "PROCELLARIIFORMES",
+   "type": "divisao",
+   "heading": "PROCELLARIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PROCELLARIIFORMES\n\nProcellariidae\n\n*Pterodroma madeira*\n\n*Pterodroma feae*\n\n*Bulweria bulwerii*\n\n*Calonectris diomedea*\n\n*Puffinus puffinus mauretanicus (Puffinus mauretanicus)*\n\n*Puffinus yelkouan*\n\n*Puffinus assimilis*\n\nHydrobatidae\n\n*Pelagodroma marina*\n\n*Hydrobates pelagicus*\n\n*Oceanodroma leucorhoa*\n\n*Oceanodroma castro*"
+  },
+  "dae2ef993bc6cb68": {
+   "fragment_id": "PELECANIFORMES",
+   "type": "divisao",
+   "heading": "PELECANIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PELECANIFORMES\n\nPelecanidae\n\n*Pelecanus onocrotalus*\n\n*Pelecanus crispus*\n\nPhalacrocoracidae\n\n*Phalacrocorax aristotelis desmarestii*\n\n*Phalacrocorax pygmeus*"
+  },
+  "4c9b1368a429e71c": {
+   "fragment_id": "CICONIIFORMES",
+   "type": "divisao",
+   "heading": "CICONIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CICONIIFORMES\n\nArdeidae\n\n*Botaurus stellaris*\n\n*Ixobrychus minutus*\n\n*Nycticorax nycticorax*\n\n*Ardeola ralloides*\n\n*Egretta garzetta*\n\n*Egretta alba (Ardea alba)*\n\n*Ardea purpurea*\n\nCiconiidae\n\n*Ciconia nigra*\n\n*Ciconia ciconia*\n\nThreskiornithidae\n\n*Plegadis falcinellus*\n\n*Platalea leucorodia*"
+  },
+  "41d718f7dcde8e29": {
+   "fragment_id": "PHOENICOPTERIFORMES",
+   "type": "divisao",
+   "heading": "PHOENICOPTERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PHOENICOPTERIFORMES\n\nPhoenicopteridae\n\n*Phoenicopterus ruber*"
+  },
+  "7140b2daab68e672": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ANSERIFORMES\n\nAnatidae\n\n*Cygnus bewickii (Cygnus columbianus bewickii)*\n\n*Cygnus cygnus*\n\n*Anser albifrons flavirostris*\n\n*Anser erythropus*\n\n*Branta leucopsis*\n\n*Branta ruficollis*\n\n*Tadorna ferruginea*\n\n*Marmaronetta angustirostris*\n\n*Aythya nyroca*\n\n*Polysticta stelleri*\n\n*Mergus albellus (Mergellus albellus)*\n\n*Oxyura leucocephala*"
+  },
+  "1768a281931dc91d": {
+   "fragment_id": "FALCONIFORMES",
+   "type": "divisao",
+   "heading": "FALCONIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### FALCONIFORMES\n\nPandionidae\n\n*Pandion haliaetus*\n\nAccipitridae\n\n*Pernis apivorus*\n\n*Elanus caeruleus*\n\n*Milvus migrans*\n\n*Milvus milvus*\n\n*Haliaeetus albicilla*\n\n*Gypaetus barbatus*\n\n*Neophron percnopterus*\n\n*Gyps fulvus*\n\n*Aegypius monachus*\n\n*Circaetus gallicus*\n\n*Circus aeruginosus*\n\n*Circus cyaneus*\n\n*Circus macrourus*\n\n*Circus pygargus*\n\n*Accipiter gentilis arrigonii*\n\n*Accipiter nisus granti*\n\n*Accipiter brevipes*\n\n*Buteo rufinus*\n\n*Aquila pomarina*\n\n*Aquila clanga*\n\n*Aquila heliaca*\n\n*Aquila adalberti*\n\n*Aquila chrysaetos*\n\n*Hieraaetus pennatus*\n\n*Hieraaetus fasciatus*\n\nFalconidae\n\n*Falco naumanni*\n\n*Falco vespertinus*\n\n*Falco columbarius*\n\n*Falco eleonorae*\n\n*Falco biarmicus*\n\n*Falco cherrug*\n\n*Falco rusticolus*\n\n*Falco peregrinus*"
+  },
+  "bd79000f74fc6f03": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GALLIFORMES\n\nTetraonidae\n\n*Bonasa bonasia*\n\n*Lagopus mutus pyrenaicus*\n\n*Lagopus mutus helveticus*\n\n*Tetrao tetrix tetrix*\n\n*Tetrao urogallus*\n\nPhasianidae\n\n*Alectoris graeca*\n\n*Alectoris barbara*\n\n*Perdix perdix italica*\n\n*Perdix perdix hispaniensis*"
+  },
+  "d1a7b338c644c104": {
+   "fragment_id": "GRUIFORMES",
+   "type": "divisao",
+   "heading": "GRUIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GRUIFORMES\n\nTurnicidae\n\n*Turnix sylvatica*\n\nGruidae\n\n*Grus grus*\n\nRallidae\n\n*Porzana porzana*\n\n*Porzana parva*\n\n*Porzana pusilla*\n\n*Crex crex*\n\n*Porphyrio porphyrio*\n\n*Fulica cristata*\n\nOtididae\n\n*Tetrax tetrax*\n\n*Chlamydotis undulata*\n\n*Otis tarda*"
+  },
+  "6429397eee5f1e79": {
+   "fragment_id": "CHARADRIIFORMES",
+   "type": "divisao",
+   "heading": "CHARADRIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CHARADRIIFORMES\n\nRecurvirostridae\n\n*Himantopus himantopus*\n\n*Recurvirostra avosetta*\n\nBurhinidae\n\n*Burhinus oedicnemus*\n\nGlareolidae\n\n*Cursorius cursor*\n\n*Glareola pratincola*\n\nCharadriidae\n\n*Charadrius alexandrinus*\n\n*Charadrius morinellus (Eudromias morinellus)*\n\n*Pluvialis apricaria*\n\n*Hoplopterus spinosus*\n\nScolopacidae\n\n*Calidris alpina schinzii*\n\n*Philomachus pugnax*\n\n*Gallinago media*\n\n*Limosa lapponica*\n\n*Numenius tenuirostris*\n\n*Tringa glareola*\n\n*Xenus cinereus (Tringa cinerea)*\n\n*Phalaropus lobatus*\n\nLaridae\n\n*Larus melanocephalus*\n\n*Larus genei*\n\n*Larus audouinii*\n\n*Larus minutus*\n\nSternidae\n\n*Gelochelidon nilotica (Sterna nilotica)*\n\n*Sterna caspia*\n\n*Sterna sandvicensis*\n\n*Sterna dougallii*\n\n*Sterna hirundo*\n\n*Sterna paradisaea*\n\n*Sterna albifrons*\n\n*Chlidonias hybridus*\n\n*Chlidonias niger*\n\nAlcidae\n\n*Uria aalge ibericus*"
+  },
+  "12047aab148909e3": {
+   "fragment_id": "PTEROCLIFORMES",
+   "type": "divisao",
+   "heading": "PTEROCLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PTEROCLIFORMES\n\nPteroclididae\n\n*Pterocles orientalis*\n\n*Pterocles alchata*"
+  },
+  "59780e77bb73d2a5": {
+   "fragment_id": "COLUMBIFORMES",
+   "type": "divisao",
+   "heading": "COLUMBIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### COLUMBIFORMES\n\nColumbidae\n\n*Columba palumbus azorica*\n\n*Columba trocaz*\n\n*Columba bollii*\n\n*Columba junoniae*"
+  },
+  "06e75bde03cc6910": {
+   "fragment_id": "STRIGIFORMES",
+   "type": "divisao",
+   "heading": "STRIGIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### STRIGIFORMES\n\nStrigidae\n\n*Bubo bubo*\n\n*Nyctea scandiaca*\n\n*Surnia ulula*\n\n*Glaucidium passerinum*\n\n*Strix nebulosa*\n\n*Strix uralensis*\n\n*Asio flammeus*\n\n*Aegolius funereus*"
+  },
+  "46982499a5e68b6c": {
+   "fragment_id": "CAPRIMULGIFORMES",
+   "type": "divisao",
+   "heading": "CAPRIMULGIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPRIMULGIFORMES\n\nCaprimulgidae\n\n*Caprimulgus europaeus*"
+  },
+  "0a158ce26203fef7": {
+   "fragment_id": "APODIFORMES",
+   "type": "divisao",
+   "heading": "APODIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### APODIFORMES\n\nApodidae\n\n*Apus caffer*"
+  },
+  "fcdfc1153ccaba01": {
+   "fragment_id": "CORACIIFORMES",
+   "type": "divisao",
+   "heading": "CORACIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CORACIIFORMES\n\nAlcedinidae\n\n*Alcedo atthis*\n\nCoraciidae\n\n*Coracias garrulus*"
+  },
+  "b7955c6a014f43cf": {
+   "fragment_id": "PICIFORMES",
+   "type": "divisao",
+   "heading": "PICIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PICIFORMES\n\nPicidae\n\n*Picus canus*\n\n*Dryocopus martius*\n\n*Dendrocopos major canariensis*\n\n*Dendrocopos major thanneri*\n\n*Dendrocopos syriacus*\n\n*Dendrocopos medius*\n\n*Dendrocopos leucotos*\n\n*Picoides tridactylus*"
+  },
+  "e8e766fa33d12945": {
+   "fragment_id": "PASSERIFORMES",
+   "type": "divisao",
+   "heading": "PASSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PASSERIFORMES\n\nAlaudidae\n\n*Chersophilus duponti*\n\n*Melanocorypha calandra*\n\n*Calandrella brachydactyla*\n\n*Galerida theklae*\n\n*Lullula arborea*\n\nMotacillidae\n\n*Anthus campestris*\n\nTroglodytidae\n\n*Troglodytes troglodytes fridariensis*\n\nMuscicapidae (Turdinae)\n\n*Luscinia svecica*\n\n*Saxicola dacotiae*\n\n*Oenanthe leucura*\n\n*Oenanthe cypriaca*\n\n*Oenanthe pleschanka*\n\nMuscicapidae (Sylviinae)\n\n*Acrocephalus melanopogon*\n\n*Acrocephalus paludicola*\n\n*Hippolais olivetorum*\n\n*Sylvia sarda*\n\n*Sylvia undata*\n\n*Sylvia melanothorax*\n\n*Sylvia rueppelli*\n\n*Sylvia nisoria*\n\nMuscicapidae (Muscicapinae)\n\n*Ficedula parva*\n\n*Ficedula semitorquata*\n\n*Ficedula albicollis*\n\nParidae\n\n*Parus ater cypriotes*\n\nSittidae\n\n*Sitta krueperi*\n\n*Sitta whiteheadi*\n\nCerthiidae\n\n*Certhia brachydactyla dorotheae*\n\nLaniidae\n\n*Lanius collurio*\n\n*Lanius minor*\n\n*Lanius nubicus*\n\nCorvidae\n\n*Pyrrhocorax pyrrhocorax*\n\nFringillidae (Fringillinae)\n\n*Fringilla coelebs ombriosa*\n\n*Fringilla teydea*\n\nFringillidae (Carduelinae)\n\n*Loxia scotica*\n\n*Bucanetes githagineus*\n\n*Pyrrhula murina (Pyrrhula pyrrhula murina)*\n\nEmberizidae (Emberizinae)\n\n*Emberiza cineracea*\n\n*Emberiza hortulana*\n\n*Emberiza caesia*"
+  },
+  "5603ea195ccfdcab": {
+   "fragment_id": "ПРИЛОЖЕНИЕ II/1 –ANEXO II/1 — PŘÍLOHA II/1 –BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 –ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LIITE II/1 — BILAGA II/1",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ II/1 –ANEXO II/1 — PŘÍLOHA II/1 –BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 –ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LIITE II/1 — BILAGA II/1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ II/1 –ANEXO II/1 — PŘÍLOHA II/1 –BILAG II/1 — ANHANG II/1 — II/1 LISA — ΠΑΡΑΡΤΗΜΑ II/1 — ANNEX II/1 — ANNEXE II/1 — ALLEGATO II/1 — II/1. PIELIKUMS — II/1 PRIEDAS — II/1. MELLÉKLET — ANNESS II/1 — BIJLAGE II/1 — ZAŁĄCZNIK II/1 –ANEXO II/1 — ANEXA II/1 — PRÍLOHA II/1 — PRILOGA II/1 — LIITE II/1 — BILAGA II/1"
+  },
+  "beaaae589eb8bc7f": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ANSERIFORMES\n\nAnatidae\n\n*Anser fabalis*\n\n*Anser anser*\n\n*Branta canadensis*\n\n*Anas penelope*\n\n*Anas strepera*\n\n*Anas crecca*\n\n*Anas platyrhynchos*\n\n*Anas acuta*\n\n*Anas querquedula*\n\n*Anas clypeata*\n\n*Aythya ferina*\n\n*Aythya fuligula*"
+  },
+  "9ba24d657f710326": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GALLIFORMES\n\nTetraonidae\n\n*Lagopus lagopus scoticus et hibernicus*\n\n*Lagopus mutus*\n\nPhasianidae\n\n*Alectoris graeca*\n\n*Alectoris rufa*\n\n*Perdix perdix*\n\n*Phasianus colchicus*"
+  },
+  "2e1bd564ab4a0042": {
+   "fragment_id": "GRUIFORMES",
+   "type": "divisao",
+   "heading": "GRUIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GRUIFORMES\n\nRallidae\n\n*Fulica atra*"
+  },
+  "0021b8ff6c8ddee6": {
+   "fragment_id": "CHARADRIIFORMES",
+   "type": "divisao",
+   "heading": "CHARADRIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CHARADRIIFORMES\n\nScolopacidae\n\n*Lymnocryptes minimus*\n\n*Gallinago gallinago*\n\n*Scolopax rusticola*"
+  },
+  "1b1488191466558f": {
+   "fragment_id": "COLUMBIFORMES",
+   "type": "divisao",
+   "heading": "COLUMBIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### COLUMBIFORMES\n\nColumbidae\n\n*Columba livia*\n\n*Columba palumbus*"
+  },
+  "9e8034c84de62d11": {
+   "fragment_id": "ПРИЛОЖЕНИЕ II/2 –ANEXO II/2 — PŘÍLOHA II/2 –BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 –ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LIITE II/2 — BILAGA II/2",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ II/2 –ANEXO II/2 — PŘÍLOHA II/2 –BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 –ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LIITE II/2 — BILAGA II/2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ II/2 –ANEXO II/2 — PŘÍLOHA II/2 –BILAG II/2 — ANHANG II/2 — II/2 LISA — ΠΑΡΑΡΤΗΜΑ II/2 — ANNEX II/2 — ANNEXE II/2 — ALLEGATO II/2 — II/2. PIELIKUMS — II/2 PRIEDAS — II/2. MELLÉKLET — ANNESS II/2 — BIJLAGE II/2 — ZAŁĄCZNIK II/2 –ANEXO II/2 — ANEXA II/2 — PRÍLOHA II/2 — PRILOGA II/2 — LIITE II/2 — BILAGA II/2"
+  },
+  "c134dc9b7ed1b530": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ANSERIFORMES\n\nAnatidae\n\n*Cygnus olor*\n\n*Anser brachyrhynchus*\n\n*Anser albifrons*\n\n*Branta bernicla*\n\n*Netta rufina*\n\n*Aythya marila*\n\n*Somateria mollissima*\n\n*Clangula hyemalis*\n\n*Melanitta nigra*\n\n*Melanitta fusca*\n\n*Bucephala clangula*\n\n*Mergus serrator*\n\n*Mergus merganser*"
+  },
+  "c8b3d7cf3f5ca80a": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GALLIFORMES\n\nMeleagridae\n\n*Meleagris gallopavo*\n\nTetraonidae\n\n*Bonasa bonasia*\n\n*Lagopus lagopus lagopus*\n\n*Tetrao tetrix*\n\n*Tetrao urogallus*\n\nPhasianidae\n\n*Francolinus francolinus*\n\n*Alectoris barbara*\n\n*Alectoris chukar*\n\n*Coturnix coturnix*"
+  },
+  "69fbd581bbebb9c6": {
+   "fragment_id": "GRUIFORMES",
+   "type": "divisao",
+   "heading": "GRUIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GRUIFORMES\n\nRallidae\n\n*Rallus aquaticus*\n\n*Gallinula chloropus*"
+  },
+  "826015fee1bb48a3": {
+   "fragment_id": "CHARADRIIFORMES",
+   "type": "divisao",
+   "heading": "CHARADRIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CHARADRIIFORMES\n\nHaematopodidae\n\n*Haematopus ostralegus*\n\nCharadriidae\n\n*Pluvialis apricaria*\n\n*Pluvialis squatarola*\n\n*Vanellus vanellus*\n\nScolopacidae\n\n*Calidris canutus*\n\n*Philomachus pugnax*\n\n*Limosa limosa*\n\n*Limosa lapponica*\n\n*Numenius phaeopus*\n\n*Numenius arquata*\n\n*Tringa erythropus*\n\n*Tringa totanus*\n\n*Tringa nebularia*\n\nLaridae\n\n*Larus ridibundus*\n\n*Larus canus*\n\n*Larus fuscus*\n\n*Larus argentatus*\n\n*Larus cachinnans*\n\n*Larus marinus*"
+  },
+  "4f4f8d4a0d8d79e4": {
+   "fragment_id": "COLUMBIFORMES",
+   "type": "divisao",
+   "heading": "COLUMBIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### COLUMBIFORMES\n\nColumbidae\n\n*Columba oenas*\n\n*Streptopelia decaocto*\n\n*Streptopelia turtur*"
+  },
+  "c7c4600da0bff928": {
+   "fragment_id": "PASSERIFORMES",
+   "type": "divisao",
+   "heading": "PASSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PASSERIFORMES\n\nAlaudidae\n\n*Alauda arvensis*\n\nMuscicapidae\n\n*Turdus merula*\n\n*Turdus pilaris*\n\n*Turdus philomelos*\n\n*Turdus iliacus*\n\n*Turdus viscivorus*\n\nSturnidae\n\n*Sturnus vulgaris*\n\nCorvidae\n\n*Garrulus glandarius*\n\n*Pica pica*\n\n*Corvus monedula*\n\n*Corvus frugilegus*\n\n*Corvus corone*\n\n|  | BE | BG | CZ | DK | DE | EE | GR | ES | FR | IE | IT | CY | LV | LT | LU | HU | MT | NL | AT | PL | PT | RO | SI | SK | FI | SE | UK |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| *Cygnus olor* |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |\n| *Anser brachyrhynchus* | + |  |  | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Anser albifrons* | + | + | + | + | + | + | + |  | + | + |  | + | + | + |  | + |  | + |  | + |  | + |  | + |  | + | + |\n| *Branta bernicla* |  |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Netta rufina* |  |  |  |  |  |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Aythya marila* | + |  |  | + | + |  | + |  | + | + |  |  | + |  |  |  |  | + |  |  |  | + |  |  |  |  | + |\n| *Somateria mollissima* |  |  |  | + |  | + |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Clangula hyemalis* |  |  |  | + |  | + |  |  | + | + |  |  | + |  |  |  |  |  |  |  |  |  |  |  | + | + | + |\n| *Melanitta nigra* |  |  |  | + | + | + |  |  | + | + |  |  | + |  |  |  |  |  |  |  |  |  |  |  | + | + | + |\n| *Melanitta fusca* |  |  |  | + | + |  |  |  | + | + |  |  | + |  |  |  |  |  |  |  |  |  |  |  | + | + | + |\n| *Bucephala clangula* |  |  |  | + |  | + | + |  | + | + |  |  | + | + |  | + |  |  | + |  |  | + |  |  | + | + | + |\n| *Mergus serrator* |  |  |  | + |  |  |  |  |  | + |  |  |  |  |  |  | + |  |  |  |  |  |  |  | + | + |  |\n| *Mergus merganser* |  |  |  | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Bonasa bonasia* |  |  |  |  |  | + |  |  | + |  |  |  | + |  |  |  |  |  | + | + |  | + |  | + | + | + |  |\n| *Lagopus lagopus lagopus* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Tetrao tetrix* | + |  |  |  | + |  |  |  | + |  | + |  | + |  |  |  |  |  | + |  |  |  |  |  | + | + | + |\n| *Tetrao urogallus* |  | + |  |  | + |  |  |  | + |  | + |  | + |  |  |  |  |  | + |  |  | + |  |  | + | + | + |\n| *Francolinus francolinus* |  |  |  |  |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Alectoris barbara* |  |  |  |  |  |  |  | + |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Alectoris chukar* |  | + |  |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Coturnix coturnix* |  | + |  |  |  |  | + | + | + |  | + | + |  |  |  |  | + |  | + |  | + | + |  |  |  |  |  |\n| *Meleagris gallopavo* |  |  | + |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  | + |  |  |  |  | + |  |  |  |\n| *Rallus aquaticus* |  |  |  |  |  |  |  |  | + |  | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |\n| *Gallinula chloropus* | + |  |  |  |  |  | + |  | + |  | + |  |  |  |  |  | + |  |  |  | + | + |  |  |  |  | + |\n| *Haematopus ostralegus* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Pluvialis apricaria* | + |  |  | + |  |  | + |  | + | + |  |  |  |  |  |  | + | + |  |  | + |  |  |  |  |  | + |\n| *Pluvialis squatarola* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  | + |\n| *Vanellus vanellus* | + |  |  | + |  |  | + | + | + | + | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |\n| *Calidris canutus* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Philomachus pugnax* |  |  |  |  |  |  |  |  | + |  | + |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |\n| *Limosa limosa* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Limosa lapponica* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Numenius phaeopus* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Numenius arquata* |  |  |  | + |  |  |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Tringa erythropus* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Tringa totanus* |  |  |  | + |  |  |  |  | + |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + |\n| *Tringa nebularia* |  |  |  | + |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Larus ridibundus* | + |  |  | + | + | + |  | + |  |  |  |  |  |  |  | + |  |  | + |  |  |  |  | + |  | + |  |\n| *Larus canus* |  |  |  | + | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Larus fuscus* |  |  |  | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| *Larus argentatus* | + |  |  | + | + | + |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Larus cachinnans* |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  | + |  |  |  |  |  |  |  |  |  |  |  |\n| *Larus marinus* |  |  |  | + | + | + |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | + | + |  |\n| *Columba oenas* |  |  |  |  |  |  | + | + | + |  |  | + |  |  |  |  |  |  |  |  | + | + |  |  |  |  |  |\n| *Streptopelia decaocto* |  | + | + | + | + |  |  |  | + |  |  | + |  |  |  | + |  |  | + |  |  | + |  | + |  |  |  |\n| *Streptopelia turtur* |  | + |  |  |  |  | + | + | + |  | + | + |  |  |  |  | + |  | + |  | + | + |  |  |  |  |  |\n| *Alauda arvensis* |  |  |  |  |  |  | + |  | + |  | + | + |  |  |  |  | + |  |  |  |  | + |  |  |  |  |  |\n| *Turdus merula* |  |  |  |  |  |  | + |  | + |  | + | + |  |  |  |  | + |  |  |  | + |  |  |  |  | + |  |\n| *Turdus pilaris* |  |  |  |  |  | + | + | + | + |  | + | + |  |  |  |  | + |  | + |  | + | + |  |  | + | + |  |\n| *Turdus philomelos* |  |  |  |  |  |  | + | + | + |  | + | + |  |  |  |  | + |  |  |  | + | + |  |  |  |  |  |\n| *Turdus iliacus* |  |  |  |  |  |  | + | + | + |  | + | + |  |  |  |  | + |  |  |  | + | + |  |  |  |  |  |\n| *Turdus viscivorus* |  |  |  |  |  |  | + | + | + |  |  | + |  |  |  |  | + |  |  |  | + | + |  |  |  |  |  |\n| *Sturnus vulgaris* |  | + |  |  |  |  | + | + | + |  |  | + |  |  |  | + | + |  |  |  | + | + |  |  |  |  |  |\n| *Garrulus glandarius* | + |  |  | + | + |  |  |  | + |  | + |  |  |  | + | + |  | + |  |  | + | + | + | + |  | + | + |\n| *Pica pica* | + | + | + | + | + |  | + | + | + |  | + | + | + |  | + | + |  | + |  |  | + | + | + | + | + | + | + |\n| *Corvus monedula* |  | + |  |  |  |  | + | + |  |  |  | + |  |  |  |  |  | + |  |  |  | + |  |  | + | + | + |\n| *Corvus frugilegus* |  | + |  |  |  | + |  |  | + |  |  |  |  | + |  | + |  |  |  |  |  | + |  | + |  | + | + |\n| *Corvus corone* | + | + | + | + | + | + | + | + | + |  | + | + | + | + | + | + |  | + |  |  | + | + | + | + | + | + | + |\n| AT = Österreich, BE = Belgique/België, BG = България, CY = Κύπρος, CZ = Česká republika, DE = Deutschland, DK = Danmark, EE = Eesti, ES = España, FI = Suomi/Finland, FR = France, GR = Ελλάδα, HU = Magyarország, IE = Ireland, IT = Italia, LT = Lietuva, LU = Luxembourg, LV = Latvija, MT = Malta, NL = Nederland, PL = Polska, PT = Portugal, RO = România, SE = Sverige, SI = Slovenija, SK = Slovensko, UK = United Kingdom + = Страни-членки, които съгласно член 7, параграф 3 могат да разрешават ловуване на изброените видове. + = Estados miembros que pueden autorizar, conforme al apartado 3 del artículo 7, la caza de las especies enumeradas. + = Členské státy, které mohou podle čl. 7 odst. 3 povolit lov uvedených druhů. + = Medlemsstater, som i overensstemmelse med artikel 7, stk. 3, kan give tilladelse til jagt på de anførte arter. + = Mitgliedstaaten, die nach Artikel 7 Absatz 3 die Bejagung der aufgeführten Arten zulassen können. + = Liikmesriigid, kes võivad artikli 7 lõike 3 alusel lubada loetelus nimetatud liikidele jahipidamist. + = Κράτη Μέλη που δύνανται να επιτρέψουν, σύμφωνα με το Άρθρο 7 παρ. 3, το κυνήγι των ειδών που αριθμούνται. + = Member States which under Article 7(3) may authorize hunting of the species listed. + = États membres pouvant autoriser, conformément à l'article 7 paragraphe 3, la chasse des espèces énumérées. + = Stati membri che possono autorizzare, conformemente all'articulo 7, paragrafo 3, la caccia delle specie elencate. + = Dalībvalstis, kurās saskaņā ar 7. panta 3. punktu ir atļautas sarakstā minēto sugu medības. + = Šalys narės, kurios pagal 7 straipsnio 3 punktą gali leisti medžioti išvardintas rūšis. + = Tagállamok, melyek a 7. cikkének (3) bekezdése alapján engedélyezhetik a listán szereplő fajok vadászatát. + = Stati Membri li bis-saħħa ta' l-Artikolu 7(3) jistgħu jawtorizzaw kaċċa ta' l-ispeċi indikati. + = Lid-Staten die overeenkonstig artikel 7, lid 3, toestemming mogen geven tot het jagen op de genoemde soorten. + = Państwa członkowskie, które na mocy art. 7 ust. 3 mogą udzielić zezwolenia na polowanie na wyliczone gatunki. + = Estados-Membros que podem autorizar, conforme o nº 3 do artigo 7º, a caça das espécies enumeradas. + = Statele membre care, conform articolului 7 paragraful 3, pot autoriza vânarea speciilor enumerate. + = Členské štáty, ktoré podľa článku 7 odseku 3 môžu povoliť poľovanie na uvedené druhy. + = Države članice, ki po členu 7(3) lahko dovolijo lov na navedene vrste. + = Jäsenvaltiot, jotka 7 artiklan 3 kohdan perusteella voivt sallia luettelossa mainittujen lajien metsästyksen. + = Medlemsstater som enligt artikel 7.3 får tillåta jakt på de angivna arterna. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |"
+  },
+  "a7c5a90f79503290": {
+   "fragment_id": "ПРИЛОЖЕНИЕ III/1 –ANEXO III/1 — PŘÍLOHA III/1 –BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 –ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LIITE III/1 — BILAGA III/1",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ III/1 –ANEXO III/1 — PŘÍLOHA III/1 –BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 –ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LIITE III/1 — BILAGA III/1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ III/1 –ANEXO III/1 — PŘÍLOHA III/1 –BILAG III/1 — ANHANG III/1 — III/1 LISA — ΠΑΡΑΡΤΗΜΑ III/1 — ANNEX III/1 — ANNEXE III/1 — ALLEGATO III/1 — III/1. PIELIKUMS — III/1 PRIEDAS — III/1. MELLÉKLET — ANNESS III/1 — BIJLAGE III/1 — ZAŁĄCZNIK III/1 –ANEXO III/1 — ANEXA III /1 — PRÍLOHA III/1 — PRILOGA III/1 — LIITE III/1 — BILAGA III/1"
+  },
+  "092cd5b347bcfeb6": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ANSERIFORMES\n\nAnatidae\n\n*Anas platyrhynchos*"
+  },
+  "509d6323726d49c3": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GALLIFORMES\n\nTetraonidae\n\n*Lagopus lagopus lagopus, scoticus et hibernicus*\n\nPhasianidae\n\n*Alectoris rufa*\n\n*Alectoris barbara*\n\n*Perdix perdix*\n\n*Phasianus colchicus*"
+  },
+  "e9e903ceedef3091": {
+   "fragment_id": "COLUMBIFORMES",
+   "type": "divisao",
+   "heading": "COLUMBIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### COLUMBIFORMES\n\nColumbidae\n\n*Columba palumbus*"
+  },
+  "317ccc950f0eb924": {
+   "fragment_id": "ПРИЛОЖЕНИЕ III/2 –ANEXO III/2 — PŘÍLOHA III/2 –BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2 — III/2 PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 –ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LIITE III/2 — BILAGA III/2",
+   "type": "divisao",
+   "heading": "ПРИЛОЖЕНИЕ III/2 –ANEXO III/2 — PŘÍLOHA III/2 –BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2 — III/2 PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 –ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LIITE III/2 — BILAGA III/2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ПРИЛОЖЕНИЕ III/2 –ANEXO III/2 — PŘÍLOHA III/2 –BILAG III/2 — ANHANG III/2 — III/2 LISA — ΠΑΡΑΡΤΗΜΑ III/2 — ANNEX III/2 — ANNEXE III/2 — ALLEGATO III/2 — III/2 PIELIKUMS — III/2 PRIEDAS — III/2. MELLÉKLET — ANNESS III/2 — BIJLAGE III/2 — ZAŁĄCZNIK III/2 –ANEXO III/2 — ANEXA III/2 — PRÍLOHA III/2 — PRILOGA III/2 — LIITE III/2 — BILAGA III/2"
+  },
+  "d9f7717039b0920e": {
+   "fragment_id": "ANSERIFORMES",
+   "type": "divisao",
+   "heading": "ANSERIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ANSERIFORMES\n\nAnatidae\n\nAnser albifrons albifrons\n\nAnser anser\n\nAnas penelope\n\nAnas crecca\n\nAnas acuta\n\nAnas clypeata\n\nAythya ferina\n\nAythya fuligula\n\nAythya marila\n\nSomateria mollissima\n\nMelanitta nigra"
+  },
+  "fd21835bdc3fd9dd": {
+   "fragment_id": "GALLIFORMES",
+   "type": "divisao",
+   "heading": "GALLIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GALLIFORMES\n\nTetraonidae\n\nLagopus mutus\n\nTetrao tetrix britannicus\n\nTetrao urogallus"
+  },
+  "62c17b2d764842af": {
+   "fragment_id": "GRUIFORMES",
+   "type": "divisao",
+   "heading": "GRUIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### GRUIFORMES\n\nRallidae\n\nFulica atra"
+  },
+  "eb0afcbded2fb242": {
+   "fragment_id": "CHARADRIIFORMES",
+   "type": "divisao",
+   "heading": "CHARADRIIFORMES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CHARADRIIFORMES\n\nCharadriidae\n\nPluvialis apricaria\n\nScolopacidae\n\nLymnocryptes minimus\n\nGallinago gallinago\n\nScolopax rusticola.\n\n2. 31992 L 0043: Directiva 92/43/CEE do Conselho, de 21 de Maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (JO L 206 de 22.7.1992, p. 7), alterada por:\n\n— 11994 N: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão da República da Áustria, da República da Finlândia e do Reino da Suécia (JO C 241 de 29.8.1994, p. 21),\n\n— 31997 L 0062: Directiva 97/62/CE do Conselho, de 27.10.1997 (JO L 305 de 8.11.1997, p. 42),\n\n— 12003 T: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca (JO L 236 de 23.9.2003, p. 33),\n\n— 32003 R 1882: Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho, de 29.9.2003 (JO L 284 de 31.10.2003, p. 1).\n\na) A alínea c) iii) do artigo 1.º é substituída pela seguinte:\n\n«iii) constituem exemplos significativos de características próprias de uma ou mais das nove regiões biogeográficas seguintes: alpina, atlântica, do Mar Negro, boreal, continental, macaronésica, mediterrânica, panónica e estépica.»\n\nb) No n.º 2 do artigo 4.º, a palavra «sete» é substituída por «nove».\n\nc) Os Anexos I e II são substituídos pelos seguintes:"
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "7b7818f5a5b6d93b": {
+   "fragment_id": "TIPOS DE HABITATS NATURAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE CONSERVAÇÃO",
+   "type": "divisao",
+   "heading": "TIPOS DE HABITATS NATURAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE CONSERVAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TIPOS DE HABITATS NATURAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE CONSERVAÇÃO"
+  },
+  "1b7dd6a9e12c9b4e": {
+   "fragment_id": "Interpretação",
+   "type": "divisao",
+   "heading": "Interpretação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Interpretação\n\nAs orientações para a interpretação dos tipos de habitat constam do “Manual de Interpretação dos Habitats da União Europeia”, tal como foi aprovado pelo comité estabelecido nos termos do artigo 20.º (“Comité Habitats”) e publicado pela Comissão Europeia ([^7^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0007)).\n\nO código apresentado corresponde ao código NATURA 2000.\n\nO símbolo “*” indica os tipos de habitat prioritários."
+  },
+  "b5da04e392a4eda8": {
+   "fragment_id": "1. HABITATS COSTEIROS E VEGETAÇÃO HALÓFILA",
+   "type": "divisao",
+   "heading": "1. HABITATS COSTEIROS E VEGETAÇÃO HALÓFILA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. HABITATS COSTEIROS E VEGETAÇÃO HALÓFILA"
+  },
+  "98b1b6f92df9ac78": {
+   "fragment_id": "11. Águas marinhas e meios sob influência das marés",
+   "type": "divisao",
+   "heading": "11. Águas marinhas e meios sob influência das marés",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Águas marinhas e meios sob influência das marés\n\n1110 Bancos de areia permanentemente cobertos por água do mar pouco profunda\n\n1120 * Bancos de posidónias (*Posidonion oceanicae*)\n\n1130 Estuários\n\n1140 Lodaçais e areais a descoberto na maré baixa\n\n1150 * Lagunas costeiras\n\n1160 Enseadas e baías pouco profundas\n\n1170 Recifes\n\n1180 Estruturas submarinas originadas por emissões gasosas"
+  },
+  "531a08134f698035": {
+   "fragment_id": "12. Falésias marítimas e praias de calhaus rolados",
+   "type": "divisao",
+   "heading": "12. Falésias marítimas e praias de calhaus rolados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. Falésias marítimas e praias de calhaus rolados\n\n1210 Vegetação anual das zonas de acumulação de detritos pela maré\n\n1220 Vegetação perene das praias de calhaus rolados\n\n1230 Falésias com vegetação das costas atlânticas e bálticas\n\n1240 Falésias com vegetação das costas mediterrânicas com *Limonium* spp. endémicas\n\n1250 Falésias com flora endémica das costas macaronésias"
+  },
+  "54ade4e3264383a9": {
+   "fragment_id": "13. Sapais e prados salgados atlânticos e continentais",
+   "type": "divisao",
+   "heading": "13. Sapais e prados salgados atlânticos e continentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. Sapais e prados salgados atlânticos e continentais\n\n1310 Vegetação pioneira de *Salicornia* e outras espécies anuais das zonas lodosas e arenosas\n\n1320 Prados de *Spartina* (*Spartinion maritimae*)\n\n1330 Prados salgados atlânticos (*Glauco-Puccinellietalia maritimae*)\n\n1340 * Prados salgados interiores"
+  },
+  "4aa8cce3cabc86d2": {
+   "fragment_id": "14. Sapais e prados salgados mediterrânicos e termoatlânticos",
+   "type": "divisao",
+   "heading": "14. Sapais e prados salgados mediterrânicos e termoatlânticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Sapais e prados salgados mediterrânicos e termoatlânticos\n\n1410 Prados salgados mediterrânicos (*Juncetalia maritimi*)\n\n1420 Matos halófilos mediterrânicos e termoatlânticos (*Sarcocornetea fruticosi*)\n\n1430 Matos halonitrófilos (*Pegano-Salsoletea*)"
+  },
+  "b693d875d2b31e59": {
+   "fragment_id": "15. Estepes interiores halófilas e gipsófilas",
+   "type": "divisao",
+   "heading": "15. Estepes interiores halófilas e gipsófilas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Estepes interiores halófilas e gipsófilas\n\n1510 * Estepes salgadas mediterrânicas (*Limonietalia*)\n\n1520 * Vegetação gipsófila ibérica (*Gypsophiletalia*)\n\n1530 * Estepes salgadas e sapais panónicos"
+  },
+  "e21d228f28b38a28": {
+   "fragment_id": "16. Arquipélagos, costas e superfícies emergentes do mar Báltico boreal",
+   "type": "divisao",
+   "heading": "16. Arquipélagos, costas e superfícies emergentes do mar Báltico boreal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16. Arquipélagos, costas e superfícies emergentes do mar Báltico boreal\n\n1610 Ilhas “esker” do Báltico com vegetação das praias de areia, de rocha ou de calhaus rolados e vegetação sublitoral\n\n1620 Ilhéus e pequenas ilhas do Báltico boreal\n\n1630 * Prados costeiros do Báltico boreal\n\n1640 Praias de areia com vegetação vivaz do Báltico boreal\n\n1650 Enseadas estreitas do Báltico boreal"
+  },
+  "d9cec853a09cb0c1": {
+   "fragment_id": "2. DUNAS MARÍTIMAS E INTERIORES",
+   "type": "divisao",
+   "heading": "2. DUNAS MARÍTIMAS E INTERIORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. DUNAS MARÍTIMAS E INTERIORES"
+  },
+  "b40351409b20667a": {
+   "fragment_id": "21. Dunas marítimas das costas atlânticas, do mar do Norte e do Báltico",
+   "type": "divisao",
+   "heading": "21. Dunas marítimas das costas atlânticas, do mar do Norte e do Báltico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 21. Dunas marítimas das costas atlânticas, do mar do Norte e do Báltico\n\n2110 Dunas móveis embrionárias\n\n2120 Dunas móveis do cordão litoral com *Ammophila arenaria* (“dunas brancas”)\n\n2130 * Dunas fixas com vegetação herbácea (“dunas cinzentas”)\n\n2140 * Dunas fixas descalcificadas com *Empetrum nigrum*\n\n2150 * Dunas fixas descalcificadas atlânticas (*Calluno-Ulicetea*)\n\n2160 Dunas com Hippophaë rhamnoides\n\n2170 Dunas com *Salix repens* ssp. *argentea* (*Salicion arenariae*)\n\n2180 Dunas arborizadas das regiões atlântica, continental e boreal\n\n2190 Depressões húmidas intradunares\n\n21A0 “Machairs” (* na Irlanda)"
+  },
+  "06fe97ed84223796": {
+   "fragment_id": "22. Dunas marítimas das costas mediterrânicas",
+   "type": "divisao",
+   "heading": "22. Dunas marítimas das costas mediterrânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 22. Dunas marítimas das costas mediterrânicas\n\n2210 Dunas fixas do litoral da *Crucianellion maritimae*\n\n2220 Dunas com *Euphorbia terracina*\n\n2230 Dunas com prados de *Malcolmietalia*\n\n2240 Dunas com prados de *Brachypodietalia* e espécies anuais\n\n2250 * Dunas litorais com *Juniperus* spp.\n\n2260 Dunas com vegetação esclerófila da *Cisto-Lavenduletalia*\n\n2270 * Dunas com florestas de *Pinus pinea* e/ou *Pinus pinaster*"
+  },
+  "64e4295d3bc99c97": {
+   "fragment_id": "23. Dunas interiores, antigas e descalcificadas",
+   "type": "divisao",
+   "heading": "23. Dunas interiores, antigas e descalcificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 23. Dunas interiores, antigas e descalcificadas\n\n2310 Charnecas psamófilas secas de *Calluna* e *Genista*\n\n2320 Charnecas psamófilas secas de *Calluna* e *Empetrum nigrum*\n\n2330 Dunas interiores com prados abertos de *Corynephorus* e *Agrostis*\n\n2340 * Dunas interiores panónicas"
+  },
+  "074f8d061f9e4017": {
+   "fragment_id": "3. HABITATS DE ÁGUA DOCE",
+   "type": "divisao",
+   "heading": "3. HABITATS DE ÁGUA DOCE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. HABITATS DE ÁGUA DOCE"
+  },
+  "56ed69e949947622": {
+   "fragment_id": "31. Águas paradas",
+   "type": "divisao",
+   "heading": "31. Águas paradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 31. Águas paradas\n\n3110 Águas oligotróficas muito pouco mineralizadas das planícies arenosas (*Littorelletalia uniflorae*)\n\n3120 Águas oligotróficas muito pouco mineralizadas em solos geralmente arenosos do Oeste mediterrânico com *Isoëtes* spp.\n\n3130 Águas estagnadas, oligotróficas a mesotróficas, com vegetação da *Littorelletea uniflorae* e/ou da *Isoëto-Nanojuncetea*\n\n3140 Águas oligo-mesotróficas calcárias com vegetação bêntica de *Chara* spp.\n\n3150 Lagos eutróficos naturais com vegetação de tipo *Magnopotamion* ou *Hydrocharition*\n\n3160 Lagos e charcos distróficos naturais\n\n3170 * Charcos temporários mediterrânicos\n\n3180 * “Turloughs”\n\n3190 Lagos de carso gípseo\n\n31A0 * Leitos de lótus de fontes termais da Transilvânia"
+  },
+  "64537f125774f522": {
+   "fragment_id": "32. Águas correntes — troços de cursos de água com dinâmica natural e seminatural (leitos pequenos, médios e grandes), em que a qualidade da água não sofre mudanças significativas",
+   "type": "divisao",
+   "heading": "32. Águas correntes — troços de cursos de água com dinâmica natural e seminatural (leitos pequenos, médios e grandes), em que a qualidade da água não sofre mudanças significativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 32. Águas correntes — troços de cursos de água com dinâmica natural e seminatural (leitos pequenos, médios e grandes), em que a qualidade da água não sofre mudanças significativas\n\n3210 Cursos de água naturais da Fenoscândia\n\n3220 Cursos de água alpinos com vegetação ripícola herbácea\n\n3230 Cursos de água alpinos com vegetação ripícola lenhosa de *Myricaria germanica*\n\n3240 Cursos de água alpinos com vegetação ripícola lenhosa de *Salix elaeagnos*\n\n3250 Cursos de água mediterrânicos permanentes com *Glaucium flavum*\n\n3260 Cursos de água dos pisos basal a montano com vegetação de *Ranunculion fluitantis* e de *Callitricho-Batrachion*\n\n3270 Cursos de água de margens vasosas com vegetação de *Chenopodion rubri* p.p. e de *Bidention* p.p.\n\n3280 Cursos de água mediterrânicos permanentes com *Paspalo-Agrostidion* e com cortinas arbóreas ribeirinhas de *Salix* e *Populus alba*\n\n3290 Cursos de água mediterrânicos intermitentes da *Paspalo-Agrostidion*"
+  },
+  "63680ab2d9345865": {
+   "fragment_id": "4. CHARNECAS E MATOS DAS ZONAS TEMPERADAS",
+   "type": "divisao",
+   "heading": "4. CHARNECAS E MATOS DAS ZONAS TEMPERADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. CHARNECAS E MATOS DAS ZONAS TEMPERADAS\n\n4010 Charnecas húmidas atlânticas setentrionais de *Erica tetralix*\n\n4020 * Charnecas húmidas atlânticas temperadas de *Erica ciliaris* e *Erica tetralix*\n\n4030 Charnecas secas europeias\n\n4040 * Charnecas secas atlânticas litorais de *Erica vagans*\n\n4050 * Charnecas macaronésias endémicas\n\n4060 Charnecas alpinas e boreais\n\n4070 * Matos de *Pinus mugo* e *Rhododendron hirsutum* (*Mugo-Rhododendretum hirsuti*)\n\n4080 Matos de *Salix* spp. subárcticos\n\n4090 Charnecas oromediterrânicas endémicas com giestas espinhosas\n\n40A0 * Matos peripanónicos subcontinentais\n\n40B0 Matagais rodópicos de *Potentilla fruticosa*\n\n40C0 * Matagais de folha caduca ponto-sarmáticos"
+  },
+  "0957d546cdb5a32a": {
+   "fragment_id": "5. MATOS ESCLERÓFILOS",
+   "type": "divisao",
+   "heading": "5. MATOS ESCLERÓFILOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. MATOS ESCLERÓFILOS"
+  },
+  "cd830f7655540865": {
+   "fragment_id": "51. Matos submediterrânicos e temperados",
+   "type": "divisao",
+   "heading": "51. Matos submediterrânicos e temperados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 51. Matos submediterrânicos e temperados\n\n5110 Formações estáveis xerotermófilas de *Buxus sempervirens* das vertentes rochosas (*Berberidion* p.p.)\n\n5120 Formações montanas de *Cytisus purgans*\n\n5130 Formações de *Juniperus communis* em charnecas ou prados calcários\n\n5140 * Formações de *Cistus palhinhae* em charnecas marítimas"
+  },
+  "d9a2c8aacc64d3d7": {
+   "fragment_id": "52. Matagais arborescentes mediterrânicos",
+   "type": "divisao",
+   "heading": "52. Matagais arborescentes mediterrânicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 52. Matagais arborescentes mediterrânicos\n\n5210 Matagais arborescentes de *Juniperus* spp.\n\n5220 * Matagais arborescentes de *Zyziphus*\n\n5230 * Matagais arborescentes de *Laurus nobilis*"
+  },
+  "5f175f0d99a69bb0": {
+   "fragment_id": "53. Matos termomediterrânicos pré-estépicos",
+   "type": "divisao",
+   "heading": "53. Matos termomediterrânicos pré-estépicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 53. Matos termomediterrânicos pré-estépicos\n\n5310 Matagais de *Laurus nobilis*\n\n5320 Formações baixas de euforbiáceas junto a falésias\n\n5330 Matos termomediterrânicos pré-desérticos"
+  },
+  "e576fc649746bc68": {
+   "fragment_id": "54. Friganas",
+   "type": "divisao",
+   "heading": "54. Friganas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 54. Friganas\n\n5410 Friganas mediterrânicas ocidentais dos cimos de falésia (*Astragalo-Plantaginetum subulatae*)\n\n5420 Sarcopoterium spinosum phryganas\n\n5430 Friganas endémicas de *Euphorbio-Verbascion*"
+  },
+  "c75cf95ed48a2491": {
+   "fragment_id": "6. FORMAÇÕES HERBÁCEAS NATURAIS E SEMINATURAIS",
+   "type": "divisao",
+   "heading": "6. FORMAÇÕES HERBÁCEAS NATURAIS E SEMINATURAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. FORMAÇÕES HERBÁCEAS NATURAIS E SEMINATURAIS"
+  },
+  "6c38528f62f1d996": {
+   "fragment_id": "61. Prados naturais",
+   "type": "divisao",
+   "heading": "61. Prados naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 61. Prados naturais\n\n6110 * Prados rupícolas calcários ou basófilos de *Alysso-Sedion albi*\n\n6120 * Prados calcários de areias xéricas\n\n6130 Prados calaminares de *Violetalia calaminariae*\n\n6140 Prados pirenaicos siliciosos de *Festuca eskia*\n\n6150 Prados alpino-boreais siliciosos\n\n6160 Prados oro-ibéricos de *Festuca indigesta*\n\n6170 Prados calcários alpinos e subalpinos\n\n6180 Prados mesófilos macaronésios\n\n6190 Prados panónicos rupícolas (*Stipo-Festucetalia pallentis*)"
+  },
+  "9c571e2fd5ff78ee": {
+   "fragment_id": "62. Formações herbáceas secas seminaturais e fácies arbustivas",
+   "type": "divisao",
+   "heading": "62. Formações herbáceas secas seminaturais e fácies arbustivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 62. Formações herbáceas secas seminaturais e fácies arbustivas\n\n6210 Prados secos seminaturais e fácies arbustivas em substrato calcário (*Festuco-Brometalia*) (* importantes habitats de orquídeas)\n\n6220 * Subestepes de gramíneas e anuais da *Thero-Brachypodietea*\n\n6230 * Formações herbáceas de *Nardus*, ricas em espécies, em substratos silicosos das zonas montanas (e das zonas submontanas da Europa continental)\n\n6240 * Prados estépicos subpanónicos\n\n6250 * Prados estépicos panónicos em substrato de loess\n\n6260 * Estepes panónicas em substrato arenoso\n\n6270 * Prados fenoscandianos de baixa altitude, secos a mesófilos, ricos em espécies\n\n6280 * “Alvar” nórdico e rochas planas calcárias pré-câmbricas\n\n62A0 Prados secos submediterrânicos orientais (*Scorzoneratalia villosae*)\n\n62B0 * Prados serpentinófilos de Chipre\n\n62C0 * Estepes ponto-sarmáticas\n\n62D0 Prados acidófilos oromoesianos"
+  },
+  "09d1ea66db641229": {
+   "fragment_id": "63. Florestas esclerófilas sujeitas a pastoreio (montados)",
+   "type": "divisao",
+   "heading": "63. Florestas esclerófilas sujeitas a pastoreio (montados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 63. Florestas esclerófilas sujeitas a pastoreio (montados)\n\n6310 Montados de *Quercus* spp. de folha perene"
+  },
+  "cb564f2bfdd8817c": {
+   "fragment_id": "64. Pradarias húmidas seminaturais de ervas altas",
+   "type": "divisao",
+   "heading": "64. Pradarias húmidas seminaturais de ervas altas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 64. Pradarias húmidas seminaturais de ervas altas\n\n6410 Pradarias com *Molinia* em solos calcários, turfosos e argilo-limosos (*Molinion caeruleae*)\n\n6420 Pradarias húmidas mediterrânicas de ervas altas de *Molinio-Holoschoenion*\n\n6430 Comunidades de ervas altas hidrófilas das orlas basais e dos pisos montano a alpino\n\n6440 Pradarias aluviais inundáveis de *Cnidion dubii*\n\n6450 Pradarias aluviais setêntrio-boreais\n\n6460 Prados turfosos de Troodos"
+  },
+  "1f747992f8b0ce15": {
+   "fragment_id": "65. Prados mesófilos",
+   "type": "divisao",
+   "heading": "65. Prados mesófilos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 65. Prados mesófilos\n\n6510 Prados de feno pobres de baixa altitude (*Alopecurus pratensis, Sanguisorba officinalis*)\n\n6520 Prados de feno de montanha\n\n6530 * Prados arborizados fenoscandianos"
+  },
+  "bc1f45043b6a30ca": {
+   "fragment_id": "7. TURFEIRAS ALTAS, TURFEIRAS BAIXAS E PÂNTANOS",
+   "type": "divisao",
+   "heading": "7. TURFEIRAS ALTAS, TURFEIRAS BAIXAS E PÂNTANOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. TURFEIRAS ALTAS, TURFEIRAS BAIXAS E PÂNTANOS"
+  },
+  "bf2983cd0b22cf83": {
+   "fragment_id": "71. Turfeiras ácidas de Sphagnum",
+   "type": "divisao",
+   "heading": "71. Turfeiras ácidas de Sphagnum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 71. Turfeiras ácidas de Sphagnum\n\n7110 * Turfeiras altas activas\n\n7120 Turfeiras altas degradadas ainda susceptíveis de regeneração natural\n\n7130 Turfeiras de coberta (* turfeiras activas)\n\n7140 Turfeiras de transição e turfeiras ondulantes\n\n7150 Depressões em substratos turfosos de *Rhynchosporion*\n\n7160 Nascentes ricas em minerais e nascentes de pântano fenoscandianas"
+  },
+  "d6e736660410936c": {
+   "fragment_id": "72. Pântanos calcários",
+   "type": "divisao",
+   "heading": "72. Pântanos calcários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 72. Pântanos calcários\n\n7210 * Pântanos calcários com *Cladium mariscus* e espécies de *Caricion davallianae*\n\n7220 * Nascentes petrificantes com formação de travertinos (*Cratoneurion*)\n\n7230 Turfeiras baixas alcalinas\n\n7240 Turfeiras baixas alcalinas * Formações pioneiras alpinas de *Caricion bicoloris-atrofuscae*"
+  },
+  "08f6a5d2f4df74d8": {
+   "fragment_id": "73. Turfeiras boreais",
+   "type": "divisao",
+   "heading": "73. Turfeiras boreais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 73. Turfeiras boreais\n\n7310 * Turfeiras de Aapa\n\n7320 * Turfeiras de Palsa"
+  },
+  "957d54cf9ca0c88d": {
+   "fragment_id": "8. HABITATS ROCHOSOS E GRUTAS",
+   "type": "divisao",
+   "heading": "8. HABITATS ROCHOSOS E GRUTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. HABITATS ROCHOSOS E GRUTAS"
+  },
+  "3cf2240ea9fa5f64": {
+   "fragment_id": "81. Depósitos de vertente rochosos",
+   "type": "divisao",
+   "heading": "81. Depósitos de vertente rochosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 81. Depósitos de vertente rochosos\n\n8110 Depósitos siliciosos dos pisos montano a nival (*Androsacetalia alpinae* e *Galeopsietalia ladani*)\n\n8120 Depósitos calcários e de xistos calcários dos pisos montano a alpino (*Thlaspietea rotundifolii*)\n\n8130 Depósitos mediterrânicos ocidentais e termófilos\n\n8140 Depósitos mediterrânicos orientais\n\n8150 Depósitos médio-europeus siliciosos das regiões altas\n\n8160 * Depósitos médio-europeus calcários dos pisos colino a montano"
+  },
+  "04ae82ab7874abd0": {
+   "fragment_id": "82. Vertentes rochosas com vegetação casmofítica",
+   "type": "divisao",
+   "heading": "82. Vertentes rochosas com vegetação casmofítica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 82. Vertentes rochosas com vegetação casmofítica\n\n8210 Vertentes rochosas calcárias com vegetação casmofítica\n\n8220 Vertentes rochosas siliciosas com vegetação casmofítica\n\n8230 Rochas siliciosas com vegetação pioneira de *Sedo-Scleranthion* ou de *Sedo albi-Veronicion dillenii*\n\n8240 *Lages calcárias"
+  },
+  "d0770a5c91593952": {
+   "fragment_id": "83. Outros habitats rochosos",
+   "type": "divisao",
+   "heading": "83. Outros habitats rochosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 83. Outros habitats rochosos\n\n8310 Grutas não exploradas pelo turismo\n\n8320 Campos de lava e escavações naturais\n\n8330 Grutas marinhas submersas ou semi-submersas\n\n8340 Glaciares permanentes"
+  },
+  "790f8b582c1c3378": {
+   "fragment_id": "9. FLORESTAS",
+   "type": "divisao",
+   "heading": "9. FLORESTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. FLORESTAS"
+  },
+  "9021f3ae46a0cab1": {
+   "fragment_id": "Florestas (sub)naturais de essências indígenas no estado de matas em alto fuste com vegetação subarbustiva típica, que correspondem a um dos seguintes critérios: raras ou residuais, e/ou com espécies de interesse comunitário",
+   "type": "divisao",
+   "heading": "Florestas (sub)naturais de essências indígenas no estado de matas em alto fuste com vegetação subarbustiva típica, que correspondem a um dos seguintes critérios: raras ou residuais, e/ou com espécies de interesse comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Florestas (sub)naturais de essências indígenas no estado de matas em alto fuste com vegetação subarbustiva típica, que correspondem a um dos seguintes critérios: raras ou residuais, e/ou com espécies de interesse comunitário"
+  },
+  "827facd60317c6b1": {
+   "fragment_id": "90. Florestas da Europa boreal",
+   "type": "divisao",
+   "heading": "90. Florestas da Europa boreal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 90. Florestas da Europa boreal\n\n9010 * Taïga ocidental\n\n9020 * Florestas antigas caducifólias naturais hemiboreais da Fenoscândia ricas em epífitas (*Quercus, Tilia, Acer, Fraxinus* ou *Ulmus*)\n\n9030 * Florestas naturais dos primeiros estádios de sucessão das superfícies emergentes costeiras\n\n9040 Florestas nórdicas subalpinas/subárcticas de *Betula pubescens* spp. *czerepanovii*\n\n9050 Florestas fenoscandianas de *Picea abies* ricas em herbáceas\n\n9060 Florestas de coníferas nos “eskers” fluvioglaciares ou a eles associadas\n\n9070 Pastagens arborizadas fenoscandianas\n\n9080 *Bosques pantanosos caducifólios da Fenoscândia"
+  },
+  "49dc99a269c95f17": {
+   "fragment_id": "91. Florestas da Europa temperada",
+   "type": "divisao",
+   "heading": "91. Florestas da Europa temperada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 91. Florestas da Europa temperada\n\n9110 Faiais de *Luzulo-Fagetum*\n\n9120 Faiais acidófilos atlânticos com vegetação arbustiva de *Ilex* e por vezes *Taxus* (*Quercion robori-petraeae ou Ilici-Fagenion*)\n\n9130 Faiais de *Asperulo-Fagetum*\n\n9140 Faiais subalpinos médio-europeus de *Acer* e *Rumex arifolius*\n\n9150 Faiais calcícolas médio-europeus de *Cephalanthero-Fagion*\n\n9160 Carvalhais pedunculados ou florestas mistas de carvalhos e carpas subatlânticas e médio-europeias de *Carpinion betuli*\n\n9170 Florestas mistas de carvalhos e carpas de *Galio-Carpinetum*\n\n9180 * Florestas de vertentes, depósitos rochosos ou ravinas de *Tilio-Acerion*\n\n9190 Carvalhais antigos acidófilos de *Quercus robur* das planícies arenosas\n\n91A0 Carvalhais antigos das ilhas Britânicas com *Ilex* e *Blechnum*\n\n91B0 Freixiais termófilos de *Fraxinus angustifolia*\n\n91C0 * Florestas caledónicas\n\n91D0 * Turfeiras arborizadas\n\n91E0 * Florestas aluviais de *Alnus glutinosa* e *Fraxinus excelsio*r (*Alno-Padion, Alnion incanae, Salicion albae*)\n\n91F0 Florestas mistas de *Quercus robur*, *Ulmus laevis e Ulmus minor, Fraxinus excelsior* ou *Fraxinus angustifolia* ao longo das margens de grandes rios (*Ulmenion minoris*)\n\n91G0 * Florestas panónicas de *Quercus petraea* e *Carpinus betulus*\n\n91H0 * Florestas panónicas de *Quercus pubescens*\n\n91I0 * Florestas euro-siberianas estépicas de *Quercus* spp.\n\n91J0 * Florestas de *Taxus baccata* das Ilhas Britânicas\n\n91K0 Florestas de *Fagus sylvatica* da Ilíria (*Aremonio-Fagion*)\n\n91L0 Florestas mistas de carvalhos e carpas da Ilíria (*Erythronio-Carpinion*)\n\n91M0 Florestas de *Quercus cerris* e *Quercus petraea* panónico-balcânicas\n\n91N0 * Mata dunar interior panónica (*Junipero-Populetum albae*)\n\n91P0 Florestas de abeto polaco (*Abietetum polonicum*)\n\n91Q0 Florestas de pinheiro silvestre (*Pinos sylvestris)* calcícola dos Cárpatos Ocidentais\n\n91R0 Florestas de pinheiro silvestre dolomítico da Dinara (*Genisto januensis-Pinetum*)\n\n91S0 * Faiais pônticos ocidentais\n\n91T0 Florestas de pinheiro silvestre e líquenes da Europa Central\n\n91U0 Pinhal da estepe sarmática\n\n91V0 Florestas de faia da Dácia (*Symphyto-Fagion*)\n\n91W0 Faiais moesianos\n\n91X0 Faiais dobrujanos\n\n91Y0 Florestas de carvalhos e carpas da Dácia\n\n91Z0 Florestas moesianas de tílias prateadas\n\n91AA Florestas orientais de carvalhos brancos\n\n91BA Florestas moesianas de abetos brancos\n\n91CA Florestas de pinheiros silvestres de Ródope e dos Balcãs"
+  },
+  "1f446dc3c56baa77": {
+   "fragment_id": "92. Florestas mediterrânicas caducifólias",
+   "type": "divisao",
+   "heading": "92. Florestas mediterrânicas caducifólias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 92. Florestas mediterrânicas caducifólias\n\n9210 * Faiais dos Apeninos com *Taxus* e *Ilex*\n\n9220 * Faiais dos Apeninos com *Abies alba* e faiais com *Abies nebrodensis*\n\n9230 Carvalhais galaico-portugueses de *Quercus robur* e *Quercus pyrenaica*\n\n9240 Carvalhais ibéricos de *Quercus faginea* e *Quercus canariensis*\n\n9250 Carvalhais de *Quercus trojana*\n\n9260 Florestas de Castanea sativa\n\n9270 Faiais helénicos de *Abies borisii– regis*\n\n9280 Florestas de *Quercus frainetto*\n\n9290 Florestas de ciprestes (*Acero-Cupression*)\n\n92A0 Florestas-galerias de *Salix alba* e *Populus alba*\n\n92B0 Florestas-galerias junto aos cursos de água intermitentes mediterrânicos com *Rhododendron ponticum, Salix* e outras espécies\n\n92C0 Florestas de *Platanus orientalis* e *Liquidambar orientalis* (*Platanion orientalis*)\n\n92D0 Galerias e matos ribeirinhos meridionais (*Nerio-Tamaricetea* e *Securinegion tinctoriae*)"
+  },
+  "14d69fa8ba434cd8": {
+   "fragment_id": "93. Florestas esclerófilas mediterrânicas",
+   "type": "divisao",
+   "heading": "93. Florestas esclerófilas mediterrânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 93. Florestas esclerófilas mediterrânicas\n\n9310 Carvalhais do Egeu de *Quercus brachyphylla*\n\n9320 Florestas de *Olea* e *Ceratonia*\n\n9330 Florestas de *Quercus suber*\n\n9340 Florestas de *Quercus ilex* e *Quercus rotundifolia*\n\n9350 Florestas de *Quercus macrolepis*\n\n9360 * Laurissilvas macaronésias (*Laurus, Ocotea*)\n\n9370 * Palmeirais de *Phoenix*\n\n9380 Florestas de *Ilex aquifolium*\n\n9390 * Mato e vegetação de baixo fuste de *Quercus alnifolia*\n\n93A0 Florestas de *Quercus infectoria* (*Anagyro foetidae-Quercetum infectoriae*)"
+  },
+  "058975cce94350dc": {
+   "fragment_id": "94. Florestas de coníferas das montanhas temperadas",
+   "type": "divisao",
+   "heading": "94. Florestas de coníferas das montanhas temperadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 94. Florestas de coníferas das montanhas temperadas\n\n9410 Florestas acidófilas dos pisos montano a alpino (*Vaccinio-Piceetea*)\n\n9420 Florestas alpinas de *Larix decidua* e/ou *Pinus cembra*\n\n9430 Florestas montanas e subalpinas de *Pinus uncinata* (* em substrato gipsífero ou calcário)"
+  },
+  "220eb8f483d66d07": {
+   "fragment_id": "95. Florestas de coníferas das montanhas mediterrânicas e macaronésias",
+   "type": "divisao",
+   "heading": "95. Florestas de coníferas das montanhas mediterrânicas e macaronésias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 95. Florestas de coníferas das montanhas mediterrânicas e macaronésias\n\n9510 * Florestas apeninas meridionais de *Abies alba*\n\n9520 Florestas de *Abies pinsapo*\n\n9530 * Pinhais (sub)mediterrânicos de pinheiros negros endémicos\n\n9540 Pinhais mediterrânicos de pinheiros mesógeos endémicos\n\n9550 Pinhais endémicos canários\n\n9560 * Florestas endémicas de *Juniperus* spp.\n\n9570 * Florestas de *Tetraclinis articulata*\n\n9580 * Florestas mediterrânicas de *Taxus baccata*\n\n9590 * Florestas de *Cedrus brevifolia* (*Cedrosetum brevifoliae*)\n\n95A0 Pinhais oro-mediterrânicos de altitude"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "771a3eb4cd9ecce8": {
+   "fragment_id": "ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE CONSERVAÇÃO",
+   "type": "divisao",
+   "heading": "ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE CONSERVAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO CUJA CONSERVAÇÃO EXIGE A DESIGNAÇÃO DE ZONAS ESPECIAIS DE CONSERVAÇÃO"
+  },
+  "ee351854621a3e5b": {
+   "fragment_id": "Interpretação",
+   "type": "divisao",
+   "heading": "Interpretação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Interpretação\n\na) O anexo II complementa o anexo I para o estabelecimento de uma rede coerente de zonas especiais de conservação.\n\nb) As espécies que constam do presente anexo são indicadas: — pelo nome da espécie ou da subespécie ou — pelo conjunto das espécies pertencentes a um taxon superior ou a uma parte designada desse taxon. A abreviatura “spp.” após o nome de uma família ou de um género indica todas as espécies que pertencem a essa família ou a esse género.\n\nc) SímbolosUm asterisco (*) colocado antes do nome de uma espécie indica que se trata de uma espécie prioritária. A maioria das espécies que constam do presente anexo estão incluídas no anexo IV. Quando uma espécie referida no presente anexo não consta do anexo IV nem do anexo V, o seu nome é acompanhado do símbolo (o); quando uma espécie referida no presente anexo não consta do anexo IV mas consta do anexo V, o seu nome é acompanhado do símbolo (V)."
+  },
+  "28762a1bd11f49ca": {
+   "fragment_id": "a) ANIMAIS",
+   "type": "divisao",
+   "heading": "a) ANIMAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) ANIMAIS\n\nTalpidae\n\nGalemys pyrenaicus\n\nRhinolophidae\n\nRhinolophus blasii\n\nRhinolophus euryale\n\nRhinolophus ferrumequinum\n\nRhinolophus hipposideros\n\nRhinolophus mehelyi\n\nVespertilionidae\n\nBarbastella barbastellus\n\nMiniopterus schreibersi\n\nMyotis bechsteini\n\nMyotis blythii\n\nMyotis capaccinii\n\nMyotis dasycneme\n\nMyotis emarginatus\n\nMyotis myotis\n\nPteropodidae\n\nRousettus aegyptiacus\n\nGliridae\n\nMyomimus roachi\n\nSciuridae\n\n* Marmota marmota latirostris\n\n* Pteromys volans (Sciuropterus russicus)\n\nSpermophilus citellus (Citellus citellus)\n\n* Spermophilus suslicus (Citellus suslicus)\n\nCastoridae\n\nCastor fiber (excepto as populações estónias, letãs, lituanas, finlandesas e suecas)\n\nCricetidae\n\nMesocricetus newtoni\n\nMicrotidae\n\nMicrotus cabrerae\n\n* Microtus oeconomus arenicola\n\n* Microtus oeconomus mehelyi\n\nMicrotus tatricus\n\nZapodidae\n\nSicista subtilis\n\nCanidae\n\n* Alopex lagopus\n\n* Canis lupus (excepto a população estónia; populações gregas: apenas a sul do paralelo 39; populações espanholas: apenas a sul do Douro; populações letãs, lituanas e finlandesas).\n\nUrsidae\n\n* Ursus arctos (excepto as populações estónias, finlandesas e suecas)\n\nMustelidae\n\n* Gulo gulo\n\nLutra lutra\n\nMustela eversmanii\n\n* Mustela lutreola\n\nVormela peregusna\n\nFelidae\n\nLynx lynx (excepto as populações estónias, letãs e finlandesas)\n\n* Lynx pardinus\n\nPhocidae\n\nHalichoerus grypus (V)\n\n* Monachus monachus\n\nPhoca hispida bottnica (V)\n\n* Phoca hispida saimensis\n\nPhoca vitulina (V)\n\nCervidae\n\n* Cervus elaphus corsicanus\n\nRangifer tarandus fennicus (o)\n\nBovidae\n\n* Bison bonasus\n\nCapra aegagrus (populações naturais)\n\n* Capra pyrenaica pyrenaica\n\nOvis gmelini musimon (Ovis ammon musimon) (populações naturais — Córsega e Sardenha)\n\nOvis orientalis ophion (Ovis gmelini ophion)\n\n* Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata)\n\nRupicapra rupicapra balcanica\n\n* Rupicapra rupicapra tatrica\n\nPhocoena phocoena\n\nTursiops truncatus\n\nTestudinidae\n\nTestudo graeca\n\nTestudo hermanni\n\nTestudo marginata\n\nCheloniidae\n\n* Caretta caretta\n\n* Chelonia mydas\n\nEmydidae\n\nEmys orbicularis\n\nMauremys caspica\n\nMauremys leprosa\n\nLacertidae\n\nLacerta bonnali (Lacerta monticola)\n\nLacerta monticola\n\nLacerta schreiberi\n\nGallotia galloti insulanagae\n\n* Gallotia simonyi\n\nPodarcis lilfordi\n\nPodarcis pityusensis\n\nScincidae\n\nChalcides simonyi (Chalcides occidentalis)\n\nGekkonidae\n\nPhyllodactylus europaeus\n\nColubridae\n\n* Coluber cypriensis\n\nElaphe quatuorlineata\n\nElaphe situla\n\n* Natrix natrix cypriaca\n\nViperidae\n\n* Macrovipera schweizeri (Vipera lebetina schweizeri)\n\nVipera ursinii (excepto Vipera ursinii rakosiensis)\n\n* Vipera ursinii rakosiensis\n\nSalamandridae\n\nChioglossa lusitanica\n\nMertensiella luschani (Salamandra luschani)\n\n* Salamandra aurorae (Salamandra atra aurorae)\n\nSalamandrina terdigitata\n\nTriturus carnifex (Triturus cristatus carnifex)\n\nTriturus cristatus (Triturus cristatus cristatus)\n\nTriturus dobrogicus (Triturus cristatus dobrogicus)\n\nTriturus karelinii (Triturus cristatus karelinii)\n\nTriturus montandoni\n\nTriturus vulgaris ampelensis\n\nProteidae\n\n* Proteus anguinus\n\nPlethodontidae\n\nHydromantes (Speleomantes) ambrosii\n\nHydromantes (Speleomantes) flavus\n\nHydromantes (Speleomantes) genei\n\nHydromantes (Speleomantes) imperialis\n\nHydromantes (Speleomantes) strinatii\n\nHydromantes (Speleomantes) supramontis\n\nDiscoglossidae\n\n* Alytes muletensis\n\nBombina bombina\n\nBombina variegata\n\nDiscoglossus galganoi (incluindo Discoglossus “jeanneae”)\n\nDiscoglossus montalentii\n\nDiscoglossus sardus\n\nRanidae\n\nRana latastei\n\nPelobatidae\n\n* Pelobates fuscus insubricus\n\nPetromyzonidae\n\nEudontomyzon spp. (o)\n\nLampetra fluviatilis (V) (excepto as populações finlandesas e suecas)\n\nLampetra planeri (o) (excepto as populações estónias, finlandesas e suecas)\n\nLethenteron zanandreai (V)\n\nPetromyzon marinus (o) (excepto as populações suecas)\n\nAcipenseridae\n\n* Acipenser naccarii\n\n* Acipenser sturio\n\nClupeidae\n\nAlosa spp. (V)\n\nSalmonidae\n\nHucho hucho (populações naturais) (V)\n\nSalmo macrostigma (o)\n\nSalmo marmoratus (o)\n\nSalmo salar (apenas em água doce) (V) (excepto as populações finlandesas)\n\nCoregonidae\n\n* Coregonus oxyrhynchus (populações anádromas em determinados sectores do Mar do Norte)\n\nUmbridae\n\nUmbra krameri (o)\n\nCyprinidae\n\nAlburnus albidus (o) (Alburnus vulturius)\n\nAnaecypris hispanica\n\nAspius aspius (V) (excepto as populações finlandesas)\n\nBarbus comiza (V)\n\nBarbus meridionalis (V)\n\nBarbus plebejus (V)\n\nChalcalburnus chalcoides (o)\n\nChondrostoma genei (o)\n\nChondrostoma lusitanicum (o)\n\nChondrostoma polylepis (o) (inclui C. willkommi)\n\nChondrostoma soetta (o)\n\nChondrostoma toxostoma (o)\n\nGobio albipinnatus (o)\n\nGobio kessleri (o)\n\nGobio uranoscopus (o)\n\nIberocypris palaciosi (o)\n\n* Ladigesocypris ghigii (o)\n\nLeuciscus lucumonis (o)\n\nLeuciscus souffia (o)\n\nPelecus cultratus (V)\n\nPhoxinellus spp. (o)\n\n* Phoxinus percnurus\n\nRhodeus sericeus amarus (o)\n\nRutilus pigus (V)\n\nRutilus rubilio (o)\n\nRutilus arcasii (o)\n\nRutilus macrolepidotus (o)\n\nRutilus lemmingii (o)\n\nRutilus frisii meidingeri (V)\n\nRutilus alburnoides (o)\n\nScardinius graecus (o)\n\nCobitidae\n\nCobitis elongata (o)\n\nCobitis taenia (o) (excepto as populações finlandesas)\n\nCobitis trichonica (o)\n\nMisgurnus fossilis (o)\n\nSabanejewia aurata (o)\n\nSabanejewia larvata (o) (Cobitis larvata e Cobitis conspersa)\n\nSiluridae\n\nSilurus aristotelis (V)\n\nCyprinodontidae\n\nAphanius iberus (o)\n\nAphanius fasciatus (o)\n\n* Valencia hispanica\n\n* Valencia letourneuxi (Valencia hispanica)\n\nPercidae\n\nGymnocephalus baloni\n\nGymnocephalus schraetzer (V)\n\n* Romanichthys valsanicola\n\nZingel spp. ((o) excepto Zingel asper e Zingel zingel (V))\n\nGobiidae\n\nKnipowitschia (Padogobius) panizzae (o)\n\nPadogobius nigricans (o)\n\nPomatoschistus canestrini (o)\n\nCottidae\n\nCottus gobio (o) (excepto as populações finlandesas)\n\nCottus petiti (o)\n\nDecapoda\n\nAustropotamobius pallipes (V)\n\n* Austropotamobius torrentium (V)\n\nIsopoda\n\n* Armadillidium ghardalamensis\n\nColeoptera\n\nAgathidium pulchellum (o)\n\nBolbelasmus unicornis\n\nBoros schneideri (o)\n\nBuprestis splendens\n\nCarabus hampei\n\nCarabus hungaricus\n\n* Carabus menetriesi pacholei\n\n* Carabus olympiae\n\nCarabus variolosus\n\nCarabus zawadszkii\n\nCerambyx cerdo\n\nCorticaria planula (o)\n\nCucujus cinnaberinus\n\nDorcadion fulvum cervae\n\nDuvalius gebhardti\n\nDuvalius hungaricus\n\nDytiscus latissimus\n\nGraphoderus bilineatus\n\nLeptodirus hochenwarti\n\nLimoniscus violaceus (o)\n\nLucanus cervus (o)\n\nMacroplea pubipennis (o)\n\nMesosa myops (o)\n\nMorimus funereus (o)\n\n* Osmoderma eremita\n\nOxyporus mannerheimii (o)\n\nPilemia tigrina\n\n* Phryganophilus ruficollis\n\nProbaticus subrugosus\n\nPropomacrus cypriacus\n\n* Pseudogaurotina excellens\n\nPseudoseriscius cameroni\n\nPytho kolwensis\n\nRhysodes sulcatus (o)\n\n* Rosalia alpina\n\nStephanopachys linearis (o)\n\nStephanopachys substriatus (o)\n\nXyletinus tremulicola (o)\n\nHemiptera\n\nAradus angularis (o)\n\nLepidoptera\n\nAgriades glandon aquilo (o)\n\nArytrura musculus\n\n* Callimorpha (Euplagia, Panaxia) quadripunctaria (o)\n\nCatopta thrips\n\nChondrosoma fiduciarium\n\nClossiana improba (o)\n\nCoenonympha oedippus\n\nColias myrmidone\n\nCucullia mixta\n\nDioszeghyana schmidtii\n\nErannis ankeraria\n\nErebia calcaria\n\nErebia christi\n\nErebia medusa polaris (o)\n\nEriogaster catax\n\nEuphydryas (Eurodryas, Hypodryas) aurinia (o)\n\nGlyphipterix loricatella\n\nGortyna borelii lunata\n\nGraellsia isabellae (V)\n\nHesperia comma catena (o)\n\nHypodryas maturna\n\nLeptidea morsei\n\nLignyoptera fumidaria\n\nLycaena dispar\n\nLycaena helle\n\nMaculinea nausithous\n\nMaculinea teleius\n\nMelanargia arge\n\n* Nymphalis vaualbum\n\nPapilio hospiton\n\nPhyllometra culminaria\n\nPlebicula golgus\n\nPolymixis rufocincta isolata\n\nPolyommatus eroides\n\nPseudophilotes bavius\n\nXestia borealis (o)\n\nXestia brunneopicta (o)\n\n* Xylomoia strix\n\nMantodea\n\nApteromantis aptera\n\nOdonata\n\nCoenagrion hylas (o)\n\nCoenagrion mercuriale (o)\n\nCoenagrion ornatum (o)\n\nCordulegaster heros\n\nCordulegaster trinacriae\n\nGomphus graslinii\n\nLeucorrhinia pectoralis\n\nLindenia tetraphylla\n\nMacromia splendens\n\nOphiogomphus cecilia\n\nOxygastra curtisii\n\nOrthoptera\n\nBaetica ustulata\n\nBrachytrupes megacephalus\n\nIsophya costata\n\nIsophya harzi\n\nIsophya stysi\n\nMyrmecophilus baronii\n\nOdontopodisma rubripes\n\nParacaloptenus caloptenoides\n\nPholidoptera transsylvanica\n\nStenobothrus (Stenobothrodes) eurasius\n\nPseudoscorpiones\n\nAnthrenochernes stellae (o)\n\nAnisus vorticulus\n\nCaseolus calculus\n\nCaseolus commixta\n\nCaseolus sphaerula\n\nChilostoma banaticum\n\nDiscula leacockiana\n\nDiscula tabellata\n\nDiscus guerinianus\n\nElona quimperiana\n\nGeomalacus maculosus\n\nGeomitra moniziana\n\nGibbula nivosa\n\n* Helicopsis striata austriaca (o)\n\nHygromia kovacsi\n\nIdiomela (Helix) subplicata\n\nLampedusa imitatrix\n\n* Lampedusa melitensis\n\nLeiostyla abbreviata\n\nLeiostyla cassida\n\nLeiostyla corneocostata\n\nLeiostyla gibba\n\nLeiostyla lamellosa\n\n* Paladilhia hungarica\n\nSadleriana pannonica\n\nTheodoxus transversalis\n\nVertigo angustior (o)\n\nVertigo genesii (o)\n\nVertigo geyeri (o)\n\nVertigo moulinsiana (o)\n\nUnionoida\n\nMargaritifera durrovensis (Margaritifera margaritifera) (V)\n\nMargaritifera margaritifera (V)\n\nUnio crassus\n\nDreissenidae\n\nCongeria kusceri"
+  },
+  "de866a80bd968310": {
+   "fragment_id": "b) PLANTAS",
+   "type": "divisao",
+   "heading": "b) PLANTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) PLANTAS\n\nASPLENIACEAE\n\nAsplenium jahandiezii (Litard.) Rouy\n\nAsplenium adulterinum Milde\n\nBLECHNACEAE\n\nWoodwardia radicans (L.) Sm.\n\nDICKSONIACEAE\n\nCulcita macrocarpa C. Presl\n\nDRYOPTERIDACEAE\n\nDiplazium sibiricum (Turcz. ex Kunze) Kurata\n\n* Dryopteris corleyi Fraser-Jenk.\n\nDryopteris fragans (L.) Schott\n\nHYMENOPHYLLACEAE\n\nTrichomanes speciosum Willd.\n\nISOETACEAE\n\nIsoetes boryana Durieu\n\nIsoetes malinverniana Ces. & De Not.\n\nMARSILEACEAE\n\nMarsilea batardae Launert\n\nMarsilea quadrifolia L.\n\nMarsilea strigosa Willd.\n\nOPHIOGLOSSACEAE\n\nBotrychium simplex Hitchc.\n\nOphioglossum polyphyllum A. Braun\n\nPINACEAE\n\n* Abies nebrodensis (Lojac.) Mattei\n\nALISMATACEAE\n\n* Alisma wahlenbergii (Holmberg) Juz.\n\nCaldesia parnassifolia (L.) Parl.\n\nLuronium natans (L.) Raf.\n\nAMARYLLIDACEAE\n\nLeucojum nicaeense Ard.\n\nNarcissus asturiensis (Jordan) Pugsley\n\nNarcissus calcicola Mendonça\n\nNarcissus cyclamineus DC.\n\nNarcissus fernandesii G. Pedro\n\nNarcissus humilis (Cav.) Traub\n\n* Narcissus nevadensis Pugsley\n\nNarcissus pseudonarcissus L. subsp. nobilis (Haw.) A. Fernandes\n\nNarcissus scaberulus Henriq.\n\nNarcissus triandrus L. subsp. *capax* (Salisb.) D. A. Webb.\n\nNarcissus viridiflorus Schousboe\n\nASCLEPIADACEAE\n\nVincetoxicum pannonicum (Borhidi) Holub\n\nBORAGINACEAE\n\n* Anchusa crispa Viv.\n\nEchium russicum J.F.Gemlin\n\n* Lithodora nitida (H. Ern) R. Fernandes\n\nMyosotis lusitanica Schuster\n\nMyosotis rehsteineri Wartm.\n\nMyosotis retusifolia R. Afonso\n\nOmphalodes kuzinskyanae Willk.\n\n* Omphalodes littoralis Lehm.\n\n* Onosma tornensis Javorka\n\nSolenanthus albanicus (Degen & al.) Degen & Baldacci\n\n* Symphytum cycladense Pawl.\n\nCAMPANULACEAE\n\nAdenophora lilifolia (L.) Ledeb.\n\nAsyneuma giganteum (Boiss.) Bornm.\n\n* Campanula bohemica Hruby\n\n* Campanula gelida Kovanda\n\nCampanula romanica Săvul.\n\n* Campanula sabatia De Not.\n\n* Campanula serrata (Kit.) Hendrych\n\nCampanula zoysii Wulfen\n\nJasione crispa (Pourret) Samp. subsp. serpentinica Pinto da Silva\n\nJasione lusitanica A. DC.\n\nCARYOPHYLLACEAE\n\nArenaria ciliata L. subsp. pseudofrigida Ostenf. & O.C. Dahl\n\nArenaria humifusa Wahlenberg\n\n* Arenaria nevadensis Boiss. & Reuter\n\nArenaria provincialis Chater & Halliday\n\n* Cerastium alsinifolium Tausch Cerastium dinaricum G. Beck & Szysz.\n\nDianthus arenarius L. subsp. arenarius\n\n* Dianthus arenarius subsp. bohemicus (Novak) O.Schwarz\n\nDianthus cintranus Boiss. & Reuter subsp. cintranus Boiss. & Reuter\n\n* Dianthus diutinus Kit.\n\n* Dianthus lumnitzeri Wiesb.\n\nDianthus marizii (Samp.) Samp.\n\n* Dianthus moravicus Kovanda\n\n* Dianthus nitidus Waldst. et Kit.\n\nDianthus plumarius subsp. regis-stephani (Rapcs.) Baksay\n\nDianthus rupicola Biv.\n\n* Gypsophila papillosa P. Porta\n\nHerniaria algarvica Chaudhri\n\n* Herniaria latifolia Lapeyr. subsp. litardierei Gamis\n\nHerniaria lusitanica (Chaudhri) subsp. berlengiana Chaudhri\n\nHerniaria maritima Link\n\n* Minuartia smejkalii Dvorakova\n\nMoehringia jankae Griseb. ex Janka\n\nMoehringia lateriflora (L.) Fenzl.\n\nMoehringia tommasinii Marches.\n\nMoehringia villosa (Wulfen) Fenzl\n\nPetrocoptis grandiflora Rothm.\n\nPetrocoptis montsicciana O. Bolos & Rivas Mart.\n\nPetrocoptis pseudoviscosa Fernández Casas\n\nSilene furcata Rafin. subsp. angustiflora (Rupr.) Walters\n\n* Silene hicesiae Brullo & Signorello\n\nSilene hifacensis Rouy ex Willk.\n\n* Silene holzmanii Heldr. ex Boiss.\n\nSilene longicilia (Brot.) Otth.\n\nSilene mariana Pau\n\n* Silene orphanidis Boiss\n\n* Silene rothmaleri Pinto da Silva\n\n* Silene velutina Pourret ex Loisel.\n\nCHENOPODIACEAE\n\n* Bassia (Kochia) saxicola (Guss.) A. J. Scott\n\n* Cremnophyton lanfrancoi Brullo et Pavone\n\n* Salicornia veneta Pignatti & Lausi\n\nCISTACEAE\n\nCistus palhinhae Ingram\n\nHalimium verticillatum (Brot.) Sennen\n\nHelianthemum alypoides Losa & Rivas Goday\n\nHelianthemum caput-felis Boiss.\n\n* Tuberaria major (Willk.) Pinto da Silva & Rozeira\n\nCOMPOSITAE\n\n* Anthemis glaberrima (Rech. f.) Greuter\n\nArtemisia campestris L. subsp. bottnica A.N. Lundström ex Kindb.\n\n* Artemisia granatensis Boiss.\n\n* Artemisia laciniata Willd.\n\nArtemisia oelandica (Besser) Komaror\n\n* Artemisia pancicii (Janka) Ronn.\n\n* Aster pyrenaeus Desf. ex DC\n\n* Aster sorrentinii (Tod) Lojac.\n\nCarlina onopordifolia Besser\n\n* Carduus myriacanthus Salzm. ex DC.\n\n* Centaurea alba L. subsp. heldreichii (Halacsy) Dostal\n\n* Centaurea alba L. subsp. princeps (Boiss. & Heldr.) Gugler\n\n* Centaurea akamantis T. Georgiadis & G. Chatzikyriakou\n\n* Centaurea attica Nyman subsp. megarensis (Halacsy & Hayek) Dostal\n\n* Centaurea balearica J. D. Rodriguez\n\n* Centaurea borjae Valdes-Berm. & Rivas Goday\n\n* Centaurea citricolor Font Quer\n\nCentaurea corymbosa Pourret\n\nCentaurea gadorensis G. Blanca\n\n* Centaurea horrida Badaro\n\nCentaurea immanuelis-loewii Degen\n\nCentaurea jankae Brandza\n\n* Centaurea kalambakensis Freyn & Sint.\n\nCentaurea kartschiana Scop.\n\n* Centaurea lactiflora Halacsy\n\nCentaurea micrantha Hoffmanns. & Link subsp. herminii (Rouy) Dostál\n\n* Centaurea niederi Heldr.\n\n* Centaurea peucedanifolia Boiss. & Orph.\n\n* Centaurea pinnata Pau\n\nCentaurea pontica Prodan & E. I. Nyárády\n\nCentaurea pulvinata (G. Blanca) G. Blanca\n\nCentaurea rothmalerana (Arènes) Dostál\n\nCentaurea vicentina Mariz\n\nCirsium brachycephalum Juratzka\n\n* Crepis crocifolia Boiss. & Heldr.\n\nCrepis granatensis (Willk.) B. Blanca & M. Cueto\n\nCrepis pusilla (Sommier) Merxmüller\n\nCrepis tectorum L. subsp. nigrescens\n\nErigeron frigidus Boiss. ex DC.\n\n* Helichrysum melitense (Pignatti) Brullo et al\n\nHymenostemma pseudanthemis (Kunze) Willd.\n\nHyoseris frutescens Brullo et Pavone\n\n* Jurinea cyanoides (L.) Reichenb.\n\n* Jurinea fontqueri Cuatrec.\n\n* Lamyropsis microcephala (Moris) Dittrich & Greuter\n\nLeontodon microcephalus (Boiss. ex DC.) Boiss.\n\nLeontodon boryi Boiss.\n\n* Leontodon siculus (Guss.) Finch & Sell\n\nLeuzea longifolia Hoffmanns. & Link\n\nLigularia sibirica (L.) Cass.\n\n* Palaeocyanus crassifolius (Bertoloni) Dostal\n\nSantolina impressa Hoffmanns. & Link\n\nSantolina semidentata Hoffmanns. & Link\n\nSaussurea alpina subsp. esthonica (Baer ex Rupr) Kupffer\n\n* Senecio elodes Boiss. ex DC.\n\nSenecio jacobea L. subsp. gotlandicus (Neuman) Sterner\n\nSenecio nevadensis Boiss. & Reuter\n\n* Serratula lycopifolia (Vill.) A.Kern\n\nTephroseris longifolia (Jacq.) Griseb et Schenk subsp. moravica\n\nCONVOLVULACEAE\n\n* Convolvulus argyrothamnus Greuter\n\n* Convolvulus fernandesii Pinto da Silva & Teles\n\nCRUCIFERAE\n\nAlyssum pyrenaicum Lapeyr.\n\n* Arabis kennedyae Meikle\n\nArabis sadina (Samp.) P. Cout.\n\nArabis scopoliana Boiss\n\n* Biscutella neustriaca Bonnet\n\nBiscutella vincentina (Samp.) Rothm.\n\nBoleum asperum (Pers.) Desvaux\n\nBrassica glabrescens Poldini\n\nBrassica hilarionis Post\n\nBrassica insularis Moris\n\n* Brassica macrocarpa Guss.\n\nBraya linearis Rouy\n\n* Cochlearia polonica E. Fröhlich\n\n* Cochlearia tatrae Borbas\n\n* Coincya rupestris Rouy\n\n* Coronopus navasii Pau\n\nCrambe tataria Sebeok\n\nDiplotaxis ibicensis (Pau) Gómez-Campo\n\n* Diplotaxis siettiana Maire\n\nDiplotaxis vicentina (P. Cout.) Rothm.\n\nDraba cacuminum Elis Ekman\n\nDraba cinerea Adams\n\nDraba dorneri Heuffel.\n\nErucastrum palustre (Pirona) Vis.\n\n* Erysimum pieninicum (Zapal.) Pawl.\n\n* Iberis arbuscula Runemark\n\nIberis procumbens Lange subsp. microcarpa Franco & Pinto da Silva\n\n* Jonopsidium acaule (Desf.) Reichenb.\n\nJonopsidium savianum (Caruel) Ball ex Arcang.\n\nRhynchosinapis erucastrum (L.) Dandy ex Clapham subsp. cintrana (Coutinho) Franco & P. Silva (Coincya cintrana (P. Cout.) Pinto da Silva)\n\nSisymbrium cavanillesianum Valdés & Castroviejo\n\nSisymbrium supinum L.\n\nThlaspi jankae A.Kern.\n\nCYPERACEAE\n\nCarex holostoma Drejer\n\n* Carex panormitana Guss.\n\nEleocharis carniolica Koch\n\nDIOSCOREACEAE\n\n* Borderea chouardii (Gaussen) Heslot\n\nDROSERACEAE\n\nAldrovanda vesiculosa L.\n\nELATINACEAE\n\nElatine gussonei (Sommier) Brullo et al\n\nERICACEAE\n\nRhododendron luteum Sweet\n\nEUPHORBIACEAE\n\n* Euphorbia margalidiana Kuhbier & Lewejohann\n\nEuphorbia transtagana Boiss.\n\nGENTIANACEAE\n\n* Centaurium rigualii Esteve\n\n* Centaurium somedanum Lainz\n\nGentiana ligustica R. de Vilm. & Chopinet\n\nGentianella anglica (Pugsley) E. F. Warburg\n\n* Gentianella bohemica Skalicky\n\nGERANIACEAE\n\n* Erodium astragaloides Boiss. & Reuter\n\nErodium paularense Fernández-González & Izco\n\n* Erodium rupicola Boiss.\n\nGLOBULARIACEAE\n\n* Globularia stygia Orph. ex Boiss.\n\nGRAMINEAE\n\nArctagrostis latifolia (R. Br.) Griseb.\n\nArctophila fulva (Trin.) N. J. Anderson\n\nAvenula hackelii (Henriq.) Holub\n\nBromus grossus Desf. ex DC.\n\nCalamagrostis chalybaea (Laest.) Fries\n\nCinna latifolia (Trev.) Griseb.\n\nColeanthus subtilis (Tratt.) Seidl\n\nFestuca brigantina (Markgr.-Dannenb.) Markgr.-Dannenb.\n\nFestuca duriotagana Franco & R. Afonso\n\nFestuca elegans Boiss.\n\nFestuca henriquesii Hack.\n\nFestuca summilusitana Franco & R. Afonso\n\nGaudinia hispanica Stace & Tutin\n\nHolcus setiglumis Boiss. & Reuter subsp. duriensis Pinto da Silva\n\nMicropyropsis tuberosa Romero — Zarco & Cabezudo\n\nPoa granitica Br.-Bl. subsp. disparilis (E. I. Nyárády) E. I. Nyárády\n\n* Poa riphaea (Ascher et Graebner) Fritsch\n\nPseudarrhenatherum pallens (Link) J. Holub\n\nPuccinellia phryganodes (Trin.) Scribner + Merr.\n\nPuccinellia pungens (Pau) Paunero\n\n* Stipa austroitalica Martinovsky\n\n* Stipa bavarica Martinovsky & H. Scholz\n\nStipa danubialis Dihoru & Roman\n\n* Stipa styriaca Martinovsky\n\n* Stipa veneta Moraldo\n\n* Stipa zalesskii Wilensky\n\nTrisetum subalpestre (Hartman) Neuman\n\nGROSSULARIACEAE\n\n* Ribes sardoum Martelli\n\nHIPPURIDACEAE\n\nHippuris tetraphylla L. Fil.\n\nHYPERICACEAE\n\n* Hypericum aciferum (Greuter) N.K.B. Robson\n\nIRIDACEAE\n\nCrocus cyprius Boiss. et Kotschy\n\nCrocus hartmannianus Holmboe\n\nGladiolus palustris Gaud.\n\nIris aphylla L. subsp. hungarica Hegi\n\nIris humilis Georgi subsp. arenaria (Waldst. et Kit.) A. et D.Löve\n\nJUNCACEAE\n\nJuncus valvatus Link\n\nLuzula arctica Blytt\n\nLABIATAE\n\nDracocephalum austriacum L.\n\n* Micromeria taygetea P. H. Davis\n\nNepeta dirphya (Boiss.) Heldr. ex Halacsy\n\n* Nepeta sphaciotica P. H. Davis\n\nOriganum dictamnus L.\n\nPhlomis brevibracteata Turril\n\nPhlomis cypria Post\n\nSalvia veneris Hedge\n\nSideritis cypria Post\n\nSideritis incana subsp. glauca (Cav.) Malagarriga\n\nSideritis javalambrensis Pau\n\nSideritis serrata Cav. ex Lag.\n\nTeucrium lepicephalum Pau\n\nTeucrium turredanum Losa & Rivas Goday\n\n* Thymus camphoratus Hoffmanns. & Link\n\nThymus carnosus Boiss.\n\n* Thymus lotocephalus G. López & R. Morales (Thymus cephalotos L.)\n\nLEGUMINOSAE\n\nAnthyllis hystrix Cardona, Contandr. & E. Sierra\n\n* Astragalus algarbiensis Coss. ex Bunge\n\n* Astragalus aquilanus Anzalone\n\nAstragalus centralpinus Braun-Blanquet\n\n* Astragalus macrocarpus DC. subsp. lefkarensis\n\n* Astragalus maritimus Moris\n\nAstragalus peterfii Jáv.\n\nAstragalus tremolsianus Pau\n\n* Astragalus verrucosus Moris\n\n* Cytisus aeolicus Guss. ex Lindl.\n\nGenista dorycnifolia Font Quer\n\nGenista holopetala (Fleischm. ex Koch) Baldacci\n\nMelilotus segetalis (Brot.) Ser. subsp. fallax Franco\n\n* Ononis hackelii Lange\n\nTrifolium saxatile All.\n\n* Vicia bifoliolata J.D. Rodríguez\n\nLENTIBULARIACEAE\n\n* Pinguicula crystallina Sm.\n\nPinguicula nevadensis (Lindb.) Casper\n\nLILIACEAE\n\nAllium grosii Font Quer\n\n* Androcymbium rechingeri Greuter\n\n* Asphodelus bento-rainhae P. Silva\n\n* Chionodoxa lochiae Meikle in Kew Bull.\n\nColchicum arenarium Waldst. et Kit.\n\nHyacinthoides vicentina (Hoffmans. & Link) Rothm.\n\n* Muscari gussonei (Parl.) Tod.\n\nScilla litardierei Breist.\n\n* Scilla morrisii Meikle\n\nTulipa cypria Stapf\n\nTulipa hungarica Borbas\n\nLINACEAE\n\n* Linum dolomiticum Borbas\n\n* Linum muelleri Moris (Linum maritimum muelleri)\n\nLYTHRACEAE\n\n* Lythrum flexuosum Lag.\n\nMALVACEAE\n\nKosteletzkya pentacarpos (L.) Ledeb.\n\nNAJADACEAE\n\nNajas flexilis (Willd.) Rostk. & W.L. Schmidt\n\nNajas tenuissima (A. Braun) Magnus\n\nOLEACEAE\n\nSyringa josikaea Jacq. Fil. ex Reichenb.\n\nORCHIDACEAE\n\nAnacamptis urvilleana Sommier et Caruana Gatto\n\nCalypso bulbosa L.\n\n* Cephalanthera cucullata Boiss. & Heldr.\n\nCypripedium calceolus L.\n\nDactylorhiza kalopissii E.Nelson\n\nGymnigritella runei Teppner & Klein\n\nHimantoglossum adriaticum Baumann\n\nHimantoglossum caprinum (Bieb.) V.Koch\n\nLiparis loeselii (L.) Rich.\n\n* Ophrys kotschyi H.Fleischm. et Soo\n\n* Ophrys lunulata Parl.\n\nOphrys melitensis (Salkowski) J et P Devillers-Terschuren\n\nPlatanthera obtusata (Pursh) subsp. oligantha (Turez.) Hulten\n\nOROBANCHACEAE\n\nOrobanche densiflora Salzm. ex Reut.\n\nPAEONIACEAE\n\nPaeonia cambessedesii (Willk.) Willk.\n\nPaeonia clusii F.C. Stern subsp. rhodia (Stearn) Tzanoudakis\n\nPaeonia officinalis L. subsp. banatica (Rachel) Soo\n\nPaeonia parnassica Tzanoudakis\n\nPALMAE\n\nPhoenix theophrasti Greuter\n\nPAPAVERACEAE\n\nCorydalis gotlandica Lidén\n\nPapaver laestadianum (Nordh.) Nordh.\n\nPapaver radicatum Rottb. subsp. hyperboreum Nordh.\n\nPLANTAGINACEAE\n\nPlantago algarbiensis Sampaio (Plantago bracteosa (Willk.) G. Sampaio)\n\nPlantago almogravensis Franco\n\nPLUMBAGINACEAE\n\nArmeria berlengensis Daveau\n\n* Armeria helodes Martini & Pold\n\nArmeria neglecta Girard\n\nArmeria pseudarmeria (Murray) Mansfeld\n\n* Armeria rouyana Daveau\n\nArmeria soleirolii (Duby) Godron\n\nArmeria velutina Welw. ex Boiss. & Reuter\n\nLimonium dodartii (Girard) O. Kuntze subsp. lusitanicum (Daveau) Franco\n\n* Limonium insulare (Beg. & Landi) Arrig. & Diana\n\nLimonium lanceolatum (Hoffmans. & Link) Franco\n\nLimonium multiflorum Erben\n\n* Limonium pseudolaetum Arrig. & Diana\n\n* Limonium strictissimum (Salzmann) Arrig.\n\nPOLYGONACEAE\n\nPersicaria foliosa (H. Lindb.) Kitag.\n\nPolygonum praelongum Coode & Cullen\n\nRumex rupestris Le Gall\n\nPRIMULACEAE\n\nAndrosace mathildae Levier\n\nAndrosace pyrenaica Lam.\n\n* Cyclamen fatrense Halda et Sojak\n\n* Primula apennina Widmer\n\nPrimula carniolica Jacq.\n\nPrimula nutans Georgi\n\nPrimula palinuri Petagna\n\nPrimula scandinavica Bruun\n\nSoldanella villosa Darracq.\n\nRANUNCULACEAE\n\n* Aconitum corsicum Gayer (Aconitum napellus subsp. corsicum)\n\nAconitum firmum (Reichenb.) Neilr subsp. moravicum Skalicky\n\nAdonis distorta Ten.\n\nAquilegia bertolonii Schott\n\nAquilegia kitaibelii Schott\n\n* Aquilegia pyrenaica D.C. subsp. cazorlensis (Heywood) Galiano\n\n* Consolida samia P.H. Davis\n\n* Delphinium caseyi B.L.Burtt\n\nPulsatilla grandis Wenderoth Pulsatilla patens (L.) Miller\n\n* Pulsatilla pratensis (L.) Miller subsp. hungarica Soo\n\n* Pulsatilla slavica G.Reuss.\n\n* Pulsatilla subslavica Futak ex Goliasova\n\nPulsatilla vulgaris Hill. subsp. gotlandica (Johanss.) Zaemelis & Paegle\n\nRanunculus kykkoensis Meikle\n\nRanunculus lapponicus L.\n\n* Ranunculus weyleri Mares\n\nRESEDACEAE\n\n*Reseda decursiva Forssk.\n\nROSACEAE\n\nAgrimonia pilosa Ledebour\n\nPotentilla delphinensis Gren. & Godron\n\nPotentilla emilii-popii Nyárády\n\n* Pyrus magyarica Terpo\n\nSorbus teodorii Liljefors\n\nRUBIACEAE\n\nGalium cracoviense Ehrend.\n\n* Galium litorale Guss.\n\nGalium moldavicum (Dobrescu) Franco\n\n* Galium sudeticum Tausch\n\n* Galium viridiflorum Boiss. & Reuter\n\nSALICACEAE\n\nSalix salvifolia Brot. subsp. australis Franco\n\nSANTALACEAE\n\nThesium ebracteatum Hayne\n\nSAXIFRAGACEAE\n\nSaxifraga berica (Beguinot) D.A. Webb\n\nSaxifraga florulenta Moretti\n\nSaxifraga hirculus L.\n\nSaxifraga osloënsis Knaben\n\nSaxifraga tombeanensis Boiss. ex Engl.\n\nSCROPHULARIACEAE\n\nAntirrhinum charidemi Lange\n\nChaenorrhinum serpyllifolium (Lange) Lange subsp. lusitanicum R. Fernandes\n\n* Euphrasia genargentea (Feoli) Diana\n\nEuphrasia marchesettii Wettst. ex Marches.\n\nLinaria algarviana Chav.\n\nLinaria coutinhoi Valdés\n\nLinaria loeselii Schweigger\n\n* Linaria ficalhoana Rouy\n\nLinaria flava (Poiret) Desf.\n\n* Linaria hellenica Turrill\n\nLinaria pseudolaxiflora Lojacono\n\n* Linaria ricardoi Cout.\n\nLinaria tonzigii Lona\n\n* Linaria tursica B. Valdés & Cabezudo\n\nOdontites granatensis Boiss.\n\n* Pedicularis sudetica Willd.\n\nRhinanthus oesilensis (Ronniger & Saarsoo) Vassilcz\n\nTozzia carpathica Wol.\n\nVerbascum litigiosum Samp.\n\nVeronica micrantha Hoffmanns. & Link\n\n* Veronica oetaea L.-A. Gustavsson\n\nSOLANACEAE\n\n*Atropa baetica Willk.\n\nTHYMELAEACEAE\n\n* Daphne arbuscula Celak\n\nDaphne petraea Leybold\n\n* Daphne rodriguezii Texidor\n\nULMACEAE\n\nZelkova abelicea (Lam.) Boiss.\n\nUMBELLIFERAE\n\n* Angelica heterocarpa Lloyd\n\nAngelica palustris (Besser) Hoffm.\n\n* Apium bermejoi Llorens\n\nApium repens (Jacq.) Lag.\n\nAthamanta cortiana Ferrarini\n\n* Bupleurum capillare Boiss. & Heldr.\n\n* Bupleurum kakiskalae Greuter\n\nEryngium alpinum L.\n\n* Eryngium viviparum Gay\n\n* Ferula sadleriana Lebed.\n\nHladnikia pastinacifolia Reichenb.\n\n* Laserpitium longiradium Boiss.\n\n* Naufraga balearica Constans & Cannon\n\n* Oenanthe conioides Lange\n\nPetagnia saniculifolia Guss.\n\nRouya polygama (Desf.) Coincy\n\n* Seseli intricatum Boiss.\n\nSeseli leucospermum Waldst. et Kit\n\nThorella verticillatinundata (Thore) Briq.\n\nVALERIANACEAE\n\nCentranthus trinervis (Viv.) Beguinot\n\nVIOLACEAE\n\nViola delphinantha Boiss.\n\n* Viola hispida Lam.\n\nViola jaubertiana Mares & Vigineix\n\nViola rupestris F.W. Schmidt subsp. relicta Jalas\n\nBRYOPHYTA\n\nBruchia vogesiaca Schwaegr. (o)\n\nBryhnia novae-angliae (Sull & Lesq.) Grout (o)\n\n* Bryoerythrophyllum campylocarpum (C. Müll.) Crum. (Bryoerythrophyllum machadoanum (Sergio) M. O. Hill) (o)\n\nBuxbaumia viridis (Moug.) Moug. & Nestl. (o)\n\nCephalozia macounii (Aust.) Aust. (o)\n\nCynodontium suecicum (H. Arn. & C. Jens.) I. Hag. (o)\n\nDichelyma capillaceum (Dicks) Myr. (o)\n\nDicranum viride (Sull. & Lesq.) Lindb. (o)\n\nDistichophyllum carinatum Dix. & Nich. (o)\n\nDrepanocladus (Hamatocaulis) vernicosus (Mitt.) Warnst. (o)\n\nEncalypta mutica (I. Hagen) (o)\n\nHamatocaulis lapponicus (Norrl.) Hedenäs (o)\n\nHerzogiella turfacea (Lindb.) I. Wats. (o)\n\nHygrohypnum montanum (Lindb.) Broth. (o)\n\nJungermannia handelii (Schiffn.) Amak. (o)\n\nMannia triandra (Scop.) Grolle (o)\n\n* Marsupella profunda Lindb. (o)\n\nMeesia longiseta Hedw. (o)\n\nNothothylas orbicularis (Schwein.) Sull. (o)\n\nOchyraea tatrensis Vana (o)\n\nOrthothecium lapponicum (Schimp.) C. Hartm. (o)\n\nOrthotrichum rogeri Brid. (o)\n\nPetalophyllum ralfsii (Wils.) Nees & Gott. (o)\n\nPlagiomnium drummondii (Bruch & Schimp.) T. Kop. (o)\n\nRiccia breidleri Jur. (o)\n\nRiella helicophylla (Bory & Mont.) Mont. (o)\n\nScapania massolongi (K. Müll.) K. Müll. (o)\n\nSphagnum pylaisii Brid. (o)\n\nTayloria rudolphiana (Garov) B. & S. (o)\n\nTortella rigens (N. Alberts) (o)\n\nHYMENOPHYLLACEAE\n\nHymenophyllum maderensis Gibby & Lovis\n\nDRYOPTERIDACEAE\n\n* Polystichum drepanum (Sw.) C. Presl.\n\nISOETACEAE\n\nIsoetes azorica Durieu & Paiva ex Milde\n\nMARSILEACEAE\n\n* Marsilea azorica Launert & Paiva\n\nASCLEPIADACEAE\n\nCaralluma burchardii N. E. Brown\n\n* Ceropegia chrysantha Svent.\n\nBORAGINACEAE\n\nEchium candicans L. fil.\n\n* Echium gentianoides Webb & Coincy\n\nMyosotis azorica H. C. Watson\n\nMyosotis maritima Hochst. in Seub.\n\nCAMPANULACEAE\n\n* Azorina vidalii (H. C. Watson) Feer\n\nMusschia aurea (L. f.) DC.\n\n* Musschia wollastonii Lowe\n\nCAPRIFOLIACEAE\n\n* Sambucus palmensis Link\n\nCARYOPHYLLACEAE\n\nSpergularia azorica (Kindb.) Lebel\n\nCELASTRACEAE\n\nMaytenus umbellata (R. Br.) Mabb.\n\nCHENOPODIACEAE\n\nBeta patula Ait.\n\nCISTACEAE\n\nCistus chinamadensis Banares & Romero\n\n* Helianthemum bystropogophyllum Svent.\n\nCOMPOSITAE\n\nAndryala crithmifolia Ait.\n\n* Argyranthemum lidii Humphries\n\nArgyranthemum thalassophylum (Svent.) Hump.\n\nArgyranthemum winterii (Svent.) Humphries\n\n* Atractylis arbuscula Svent. & Michaelis\n\nAtractylis preauxiana Schultz.\n\nCalendula maderensis DC.\n\nCheirolophus duranii (Burchard) Holub\n\nCheirolophus ghomerytus (Svent.) Holub\n\nCheirolophus junonianus (Svent.) Holub\n\nCheirolophus massonianus (Lowe) Hansen & Sund.\n\nCirsium latifolium Lowe\n\nHelichrysum gossypinum Webb\n\nHelichrysum monogynum Burtt & Sund.\n\nHypochoeris oligocephala (Svent. & Bramw.) Lack\n\n* Lactuca watsoniana Trel.\n\n* Onopordum nogalesii Svent.\n\n* Onorpordum carduelinum Bolle\n\n* Pericallis hadrosoma (Svent.) B. Nord.\n\nPhagnalon benettii Lowe\n\nStemmacantha cynaroides (Chr. Son. in Buch) Ditt\n\nSventenia bupleuroides Font Quer\n\n* Tanacetum ptarmiciflorum Webb & Berth\n\nCONVOLVULACEAE\n\n* Convolvulus caput-medusae Lowe\n\n* Convolvulus lopez-socasii Svent.\n\n* Convolvulus massonii A. Dietr.\n\nCRASSULACEAE\n\nAeonium gomeraense Praeger\n\nAeonium saundersii Bolle\n\nAichryson dumosum (Lowe) Praeg.\n\nMonanthes wildpretii Banares & Scholz\n\nSedum brissemoretii Raymond-Hamet\n\nCRUCIFERAE\n\n* Crambe arborea Webb ex Christ\n\nCrambe laevigata DC. ex Christ\n\n* Crambe sventenii R. Petters ex Bramwell & Sund.\n\n* Parolinia schizogynoides Svent.\n\nSinapidendron rupestre (Ait.) Lowe\n\nCYPERACEAE\n\nCarex malato-belizii Raymond\n\nDIPSACACEAE\n\nScabiosa nitens Roemer & J. A. Schultes\n\nERICACEAE\n\nErica scoparia L. subsp. azorica (Hochst.) D. A. Webb\n\nEUPHORBIACEAE\n\n* Euphorbia handiensis Burchard\n\nEuphorbia lambii Svent.\n\nEuphorbia stygiana H. C. Watson\n\nGERANIACEAE\n\n* Geranium maderense P. F. Yeo\n\nGRAMINEAE\n\nDeschampsia maderensis (Haeck. & Born.) Buschm.\n\nPhalaris maderensis (Menezes) Menezes\n\nGLOBULARIACEAE\n\n* Globularia ascanii D. Bramwell & Kunkel\n\n* Globularia sarcophylla Svent.\n\nLABIATAE\n\n* Sideritis cystosiphon Svent.\n\n* Sideritis discolor (Webb ex de Noe) Bolle\n\nSideritis infernalis Bolle\n\nSideritis marmorea Bolle\n\nTeucrium abutiloides L'Hér.\n\nTeucrium betonicum L'Hér.\n\nLEGUMINOSAE\n\n* Anagyris latifolia Brouss. ex. Willd.\n\nAnthyllis lemanniana Lowe\n\n* Dorycnium spectabile Webb & Berthel\n\n* Lotus azoricus P. W. Ball\n\nLotus callis-viridis D. Bramwell & D. H. Davis\n\n* Lotus kunkelii (E. Chueca) D. Bramwell & al.\n\n* Teline rosmarinifolia Webb & Berthel.\n\n* Teline salsoloides Arco & Acebes.\n\nVicia dennesiana H. C. Watson\n\nLILIACEAE\n\n* Androcymbium psammophilum Svent.\n\nScilla maderensis Menezes\n\nSemele maderensis Costa\n\nLORANTHACEAE\n\nArceuthobium azoricum Wiens & Hawksw.\n\nMYRICACEAE\n\n* Myrica rivas-martinezii Santos.\n\nOLEACEAE\n\nJasminum azoricum L.\n\nPicconia azorica (Tutin) Knobl.\n\nORCHIDACEAE\n\nGoodyera macrophylla Lowe\n\nPITTOSPORACEAE\n\n* Pittosporum coriaceum Dryand. ex. Ait.\n\nPLANTAGINACEAE\n\nPlantago malato-belizii Lawalree\n\nPLUMBAGINACEAE\n\n* Limonium arborescens (Brouss.) Kuntze\n\nLimonium dendroides Svent.\n\n*Limonium spectabile (Svent.) Kunkel & Sunding\n\n*Limonium sventenii Santos & Fernández Galván\n\nPOLYGONACEAE\n\nRumex azoricus Rech. fil.\n\nRHAMNACEAE\n\nFrangula azorica Tutin\n\nROSACEAE\n\n* Bencomia brachystachya Svent.\n\nBencomia sphaerocarpa Svent.\n\n* Chamaemeles coriacea Lindl.\n\nDendriopoterium pulidoi Svent.\n\nMarcetella maderensis (Born.) Svent.\n\nPrunus lusitanica L. subsp. azorica (Mouillef.) Franco\n\nSorbus maderensis (Lowe) Dode\n\nSANTALACEAE\n\nKunkeliella subsucculenta Kammer\n\nSCROPHULARIACEAE\n\n* Euphrasia azorica H.C. Watson\n\nEuphrasia grandiflora Hochst. in Seub.\n\n* Isoplexis chalcantha Svent. & O'Shanahan\n\nIsoplexis isabelliana (Webb & Berthel.) Masferrer\n\nOdontites holliana (Lowe) Benth.\n\nSibthorpia peregrina L.\n\nSOLANACEAE\n\n* Solanum lidii Sunding\n\nUMBELLIFERAE\n\nAmmi trifoliatum (H. C. Watson) Trelease\n\nBupleurum handiense (Bolle) Kunkel\n\nChaerophyllum azoricum Trelease\n\nFerula latipinna Santos\n\nMelanoselinum decipiens (Schrader & Wendl.) Hoffm.\n\nMonizia edulis Lowe\n\nOenanthe divaricata (R. Br.) Mabb.\n\nSanicula azorica Guthnick ex Seub.\n\nVIOLACEAE\n\nViola paradoxa Lowe\n\nBRYOPHYTA\n\n* Echinodium spinosum (Mitt.) Jur. (o)\n\n* Thamnobryum fernandesii Sergio (o)\n\nd) Os Anexos IV e V são substituídos pelos seguintes:"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "6691cfc1e1b95297": {
+   "fragment_id": "ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO QUE EXIGEM UMA PROTECÇÃO RIGOROSA",
+   "type": "divisao",
+   "heading": "ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO QUE EXIGEM UMA PROTECÇÃO RIGOROSA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO QUE EXIGEM UMA PROTECÇÃO RIGOROSA\n\nAs espécies que constam do presente anexo são indicadas:\n\n— pelo nome da espécie ou da subespécie ou\n\n— pelo conjunto das espécies pertencentes a um taxon superior ou a uma parte designada desse taxon.\n\nA abreviatura “spp.” após o nome de uma família ou de um género indica todas as espécies que pertencem a essa família ou a esse género."
+  },
+  "a7d88646f9b9b043": {
+   "fragment_id": "a) ANIMAIS",
+   "type": "divisao",
+   "heading": "a) ANIMAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) ANIMAIS\n\nErinaceidae\n\n*Erinaceus algirus*\n\nSoricidae\n\n*Crocidura canariensis*\n\n*Crocidura sicula*\n\nTalpidae\n\n*Galemys pyrenaicus*\n\nTodas as espécies\n\nPteropodidae\n\n*Rousettus aegyptiacus*\n\nGliridae\n\nTodas as espécies excepto *Glis glis* e *Eliomys quercinus*\n\nSciuridae\n\n*Marmota marmota latirostris*\n\n*Pteromys volans (Sciuropterus russicus)*\n\n*Spermophilus citellus (Citellus citellus)*\n\n*Spermophilus suslicus (Citellus suslicus)*\n\n*Sciurus anomalus*\n\nCastoridae\n\n*Castor fiber* (excepto as populações estónias, letãs, lituanas, polacas, finlandesas e suecas)\n\nCricetidae\n\n*Cricetus cricetus* (excepto as populações húngaras)\n\n*Mesocricetus newtoni*\n\nMicrotidae\n\n*Microtus cabrerae*\n\n*Microtus oeconomus arenicola*\n\n*Microtus oeconomus mehelyi*\n\n*Microtus tatricus*\n\nZapodidae\n\n*Sicista betulina*\n\n*Sicista subtilis*\n\nHystricidae\n\n*Hystrix cristata*\n\nCanidae\n\n*Alopex lagopus*\n\n*Canis lupus* (excepto as populações gregas a norte do paralelo 39; as populações estónias e as populações espanholas a norte do Douro; as populações búlgaras, letãs, lituanas, polacas, eslovacas e as populações finlandesas no interior da área de exploração da rena, tal como definida no n.º 2 da Lei finlandesa n.º 848/90, de 14 de Setembro de 1990, relativa à exploração da rena)\n\nUrsidae\n\n*Ursus arctos*\n\nMustelidae\n\n*Lutra lutra*\n\n*Mustela eversmanii*\n\n*Mustela lutreola*\n\n*Vormela peregusna*\n\nFelidae\n\n*Felis silvestris*\n\n*Lynx lynx* (excepto as populações estónias)\n\n*Lynx pardinus*\n\nPhocidae\n\n*Monachus monachus*\n\n*Phoca hispida saimensis*\n\nCervidae\n\n*Cervus elaphus corsicanus*\n\nBovidae\n\n*Bison bonasus*\n\n*Capra aegagrus* (populações naturais)\n\n*Capra pyrenaica pyrenaica*\n\n*Ovis gmelini musimon (Ovis ammon musimon)* (populações naturais — Córsega e Sardenha)\n\n*Ovis orientalis ophion (Ovis gmelini ophion)*\n\n*Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata)*\n\n*Rupicapra rupicapra balcanica*\n\n*Rupicapra rupicapra tatrica*\n\nTodas as espécies\n\nTestudinidae\n\n*Testudo graeca*\n\n*Testudo hermanni*\n\n*Testudo marginata*\n\nCheloniidae\n\n*Caretta caretta*\n\n*Chelonia mydas*\n\n*Lepidochelys kempii*\n\n*Eretmochelys imbricata*\n\nDermochelyidae\n\n*Dermochelys coriacea*\n\nEmydidae\n\n*Emys orbicularis*\n\n*Mauremys caspica*\n\n*Mauremys leprosa*\n\nLacertidae\n\n*Algyroides fitzingeri*\n\n*Algyroides marchi*\n\n*Algyroides moreoticus*\n\n*Algyroides nigropunctatus*\n\n*Gallotia atlantica*\n\n*Gallotia galloti*\n\n*Gallotia galloti insulanagae*\n\n*Gallotia simonyi*\n\n*Gallotia stehlini*\n\n*Lacerta agilis*\n\n*Lacerta bedriagae*\n\n*Lacerta bonnali (Lacerta monticola)*\n\n*Lacerta monticola*\n\n*Lacerta danfordi*\n\n*Lacerta dugesi*\n\n*Lacerta graeca*\n\n*Lacerta horvathi*\n\n*Lacerta schreiberi*\n\n*Lacerta trilineata*\n\n*Lacerta viridis*\n\n*Lacerta vivipara pannonica*\n\n*Ophisops elegans*\n\n*Podarcis erhardii*\n\n*Podarcis filfolensis*\n\n*Podarcis hispanica atrata*\n\n*Podarcis lilfordi*\n\n*Podarcis melisellensis*\n\n*Podarcis milensis*\n\n*Podarcis muralis*\n\n*Podarcis peloponnesiaca*\n\n*Podarcis pityusensis*\n\n*Podarcis sicula*\n\n*Podarcis taurica*\n\n*Podarcis tiliguerta*\n\n*Podarcis wagleriana*\n\nScincidae\n\n*Ablepharus kitaibelii*\n\n*Chalcides bedriagai*\n\n*Chalcides ocellatus*\n\n*Chalcides sexlineatus*\n\n*Chalcides simonyi (Chalcides occidentalis)*\n\n*Chalcides viridianus*\n\n*Ophiomorus punctatissimus*\n\nGekkonidae\n\n*Cyrtopodion kotschyi*\n\n*Phyllodactylus europaeus*\n\n*Tarentola angustimentalis*\n\n*Tarentola boettgeri*\n\n*Tarentola delalandii*\n\n*Tarentola gomerensis*\n\nAgamidae\n\n*Stellio stellio*\n\nChamaeleontidae\n\n*Chamaeleo chamaeleon*\n\nAnguidae\n\n*Ophisaurus apodus*\n\nColubridae\n\n*Coluber caspius*\n\n*Coluber cypriensis*\n\n*Coluber hippocrepis*\n\n*Coluber jugularis*\n\n*Coluber laurenti*\n\n*Coluber najadum*\n\n*Coluber nummifer*\n\n*Coluber viridiflavus*\n\n*Coronella austriaca*\n\n*Eirenis modesta*\n\n*Elaphe longissima*\n\n*Elaphe quatuorlineata*\n\n*Elaphe situla*\n\n*Natrix natrix cetti*\n\n*Natrix natrix corsa*\n\n*Natrix natrix cypriaca*\n\n*Natrix tessellata*\n\n*Telescopus falax*\n\nViperidae\n\n*Vipera ammodytes*\n\n*Macrovipera schweizeri (Vipera lebetina schweizeri)*\n\n*Vipera seoanni* (excepto as populações espanholas)\n\n*Vipera ursinii*\n\n*Vipera xanthina*\n\nBoidae\n\n*Eryx jaculus*\n\nSalamandridae\n\n*Chioglossa lusitanica*\n\n*Euproctus asper*\n\n*Euproctus montanus*\n\n*Euproctus platycephalus*\n\n*Mertensiella luschani (Salamandra luschani)*\n\n*Salamandra atra*\n\n*Salamandra aurorae*\n\n*Salamandra lanzai*\n\n*Salamandrina terdigitata*\n\n*Triturus carnifex (Triturus cristatus carnifex)*\n\n*Triturus cristatus (Triturus cristatus cristatus)*\n\n*Triturus italicus*\n\n*Triturus karelinii (Triturus cristatus karelinii)*\n\n*Triturus marmoratus*\n\n*Triturus montandoni*\n\n*Triturus vulgaris ampelensis*\n\nProteidae\n\n*Proteus anguinus*\n\nPlethodontidae\n\n*Hydromantes (Speleomantes) ambrosii*\n\n*Hydromantes (Speleomantes) flavus*\n\n*Hydromantes (Speleomantes) genei*\n\n*Hydromantes (Speleomantes) imperialis*\n\n*Hydromantes (Speleomantes) strinatii (Hydromantes (Speleomantes) italicus)*\n\n*Hydromantes (Speleomantes) supramontis*\n\nDiscoglossidae\n\n*Alytes cisternasii*\n\n*Alytes muletensis*\n\n*Alytes obstetricans*\n\n*Bombina bombina*\n\n*Bombina variegata*\n\n*Discoglossus galganoi* (incluindo *Discoglossus “jeanneae”*)\n\n*Discoglossus montalentii*\n\n*Discoglossus pictus*\n\n*Discoglossus sardus*\n\nRanidae\n\n*Rana arvalis*\n\n*Rana dalmatina*\n\n*Rana graeca*\n\n*Rana iberica*\n\n*Rana italica*\n\n*Rana latastei*\n\n*Rana lessonae*\n\nPelobatidae\n\n*Pelobates cultripes*\n\n*Pelobates fuscus*\n\n*Pelobates syriacus*\n\nBufonidae\n\n*Bufo calamita*\n\n*Bufo viridis*\n\nHylidae\n\n*Hyla arborea*\n\n*Hyla meridionalis*\n\n*Hyla sarda*\n\nAcipenseridae\n\n*Acipenser naccarii*\n\n*Acipenser sturio*\n\nCoregonidae\n\n*Coregonus oxyrhynchus* (populações anádromas em determinados sectores do mar do Norte, excepto as populações finlandesas)\n\nCyprinidae\n\n*Anaecypris hispanica*\n\n*Phoxinus percnurus*\n\nCyprinodontidae\n\n*Valencia hispanica*\n\nPercidae\n\n*Gymnocephalus baloni*\n\n*Romanichthys valsanicola*\n\n*Zingel asper*\n\nIsopoda\n\n*Armadillidium ghardalamensis*\n\nColeoptera\n\n*Bolbelasmus unicornis*\n\n*Buprestis splendens*\n\n*Carabus hampei*\n\n*Carabus hungaricus*\n\n*Carabus olympiae*\n\n*Carabus variolosus*\n\n*Carabus zawadszkii*\n\n*Cerambyx cerdo*\n\n*Cucujus cinnaberinus*\n\n*Dorcadion fulvum cervae*\n\n*Duvalius gebhardti*\n\n*Duvalius hungaricus*\n\n*Dytiscus latissimus*\n\n*Graphoderus bilineatus*\n\n*Leptodirus hochenwarti*\n\n*Pilemia tigrina*\n\n*Osmoderma eremita*\n\n*Phryganophilus ruficollis*\n\n*Probaticus subrugosus*\n\n*Propomacrus cypriacus*\n\n*Pseudogaurotina excellens*\n\n*Pseudoseriscius cameroni*\n\n*Pytho kolwensis*\n\n*Rosalia alpina*\n\nLepidoptera\n\n*Apatura metis*\n\n*Arytrura musculus*\n\n*Catopta thrips*\n\n*Chondrosoma fiduciarium*\n\n*Coenonympha hero*\n\n*Coenonympha oedippus*\n\n*Colias myrmidone*\n\n*Cucullia mixta*\n\n*Dioszeghyana schmidtii*\n\n*Erannis ankeraria*\n\n*Erebia calcaria*\n\n*Erebia christi*\n\n*Erebia sudetica*\n\n*Eriogaster catax*\n\n*Fabriciana elisa*\n\n*Glyphipterix loricatella*\n\n*Gortyna borelii lunata*\n\n*Hypodryas maturna*\n\n*Hyles hippophaes*\n\n*Leptidea morsei*\n\n*Lignyoptera fumidaria*\n\n*Lopinga achine*\n\n*Lycaena dispar*\n\n*Lycaena helle*\n\n*Maculinea arion*\n\n*Maculinea nausithous*\n\n*Maculinea teleius*\n\n*Melanargia arge*\n\n*Nymphalis vaualbum*\n\n*Papilio alexanor*\n\n*Papilio hospiton*\n\n*Parnassius apollo*\n\n*Parnassius mnemosyne*\n\n*Phyllometra culminaria*\n\n*Plebicula golgus*\n\n*Polymixis rufocincta isolata*\n\n*Polyommatus eroides*\n\n*Proserpinus proserpina*\n\n*Pseudophilotes bavius*\n\n*Xylomoia strix*\n\n*Zerynthia polyxena*\n\nMantodea\n\n*Apteromantis aptera*\n\nOdonata\n\n*Aeshna viridis*\n\n*Cordulegaster heros*\n\n*Cordulegaster trinacriae*\n\n*Gomphus graslinii*\n\n*Leucorrhinia albifrons*\n\n*Leucorrhinia caudalis*\n\n*Leucorrhinia pectoralis*\n\n*Lindenia tetraphylla*\n\n*Macromia splendens*\n\n*Ophiogomphus cecilia*\n\n*Oxygastra curtisii*\n\n*Stylurus flavipes*\n\n*Sympecma braueri*\n\nOrthoptera\n\n*Baetica ustulata*\n\n*Brachytrupes megacephalus*\n\n*Isophya costata*\n\n*Isophya harzi*\n\n*Isophya stysi*\n\n*Myrmecophilus baronii*\n\n*Odontopodisma rubripes*\n\n*Paracaloptenus caloptenoides*\n\n*Pholidoptera transsylvanica*\n\n*Saga pedo*\n\n*Stenobothrus (Stenobothrodes) eurasius*\n\nAraneae\n\n*Macrothele calpeiana*\n\n*Anisus vorticulus*\n\n*Caseolus calculus*\n\n*Caseolus commixta*\n\n*Caseolus sphaerula*\n\n*Chilostoma banaticum*\n\n*Discula leacockiana*\n\n*Discula tabellata*\n\n*Discula testudinalis*\n\n*Discula turricula*\n\n*Discus defloratus*\n\n*Discus guerinianus*\n\n*Elona quimperiana*\n\n*Geomalacus maculosus*\n\n*Geomitra moniziana*\n\n*Gibbula nivosa*\n\n*Hygromia kovacsi*\n\n*Idiomela (Helix) subplicata*\n\n*Lampedusa imitatrix*\n\n*Lampedusa melitensis*\n\n*Leiostyla abbreviata*\n\n*Leiostyla cassida*\n\n*Leiostyla corneocostata*\n\n*Leiostyla gibba*\n\n*Leiostyla lamellosa*\n\n*Paladilhia hungarica*\n\n*Patella ferruginea*\n\n*Sadleriana pannonica*\n\n*Theodoxus prevostianus*\n\n*Theodoxus transversalis*\n\nAnisomyaria\n\n*Lithophaga lithophaga*\n\n*Pinna nobilis*\n\nUnionoida\n\n*Margaritifera auricularia*\n\n*Unio crassus*\n\nDreissenidae\n\n*Congeria kusceri*\n\nEchinoidea\n\n*Centrostephanus longispinus*"
+  },
+  "0765e963fce38467": {
+   "fragment_id": "b) PLANTAS",
+   "type": "divisao",
+   "heading": "b) PLANTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) PLANTAS\n\nO anexo IV, alínea b), inclui todas as espécies vegetais enumeradas no anexo II, alínea b) ([^8^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0008)), e ainda as espécies a seguir indicadas:\n\n*Asplenium hemionitis* L.\n\n*Dracaena draco* (L.) L.\n\n*Narcissus longispathus* Pugsley\n\n*Narcissus triandrus* L.\n\n*Berberis maderensis* Lowe\n\n*Campanula morettiana* Reichenb.\n\n*Physoplexis comosa* (L.) Schur.\n\n*Moehringia fontqueri* Pau\n\n*Argyranthemum pinnatifidum* (L.f.) Lowe subsp. *succulentum* (Lowe) C. J. Humphries\n\n*Helichrysum sibthorpii* Rouy\n\n*Picris willkommii* (Schultz Bip.) Nyman\n\n*Santolina elegans* Boiss. ex DC.\n\n*Senecio caespitosus* Brot.\n\n*Senecio lagascanus* DC. subsp. *lusitanicus* (P. Cout.) Pinto da Silva\n\n*Wagenitzia lancifolia* (Sieber ex Sprengel) Dostal\n\n*Murbeckiella sousae* Rothm.\n\n*Euphorbia nevadensis* Boiss. & Reuter\n\n*Jankaea heldreichii* (Boiss.) Boiss.\n\n*Ramonda serbica* Pancic\n\n*Crocus etruscus* Parl.\n\n*Iris boissieri* Henriq.\n\n*Iris marisca* Ricci & Colasante\n\n*Rosmarinus tomentosus* Huber-Morath & Maire\n\n*Teucrium charidemi* Sandwith\n\n*Thymus capitellatus* Hoffmanns. & Link\n\n*Thymus villosus* L. subsp. *villosus* L.\n\n*Androcymbium europaeum* (Lange) K. Richter\n\n*Bellevalia hackelli* Freyn\n\n*Colchicum corsicum* Baker\n\n*Colchicum cousturieri* Greuter\n\n*Fritillaria conica* Rix\n\n*Fritillaria drenovskii* Degen & Stoy.\n\n*Fritillaria gussichiae* (Degen & Doerfler) Rix\n\n*Fritillaria obliqua* Ker-Gawl.\n\n*Fritillaria rhodocanakis* Orph. ex Baker\n\n*Ornithogalum reverchonii* Degen & Herv.-Bass.\n\n*Scilla beirana* Samp.\n\n*Scilla odorata* Link\n\n*Ophrys argolica* Fleischm.\n\n*Orchis scopulorum* Simsmerh.\n\n*Spiranthes aestivalis* (Poiret) L. C. M. Richard\n\n*Androsace cylindrica* DC.\n\n*Primula glaucescens* Moretti\n\n*Primula spectabilis* Tratt.\n\n*Aquilegia alpina* L.\n\n*Sideroxylon marmulano* Banks ex Lowe\n\n*Saxifraga cintrana* Kuzinsky ex Willk.\n\n*Saxifraga portosanctana* Boiss.\n\n*Saxifraga presolanensis* Engl.\n\n*Saxifraga valdensis* DC.\n\n*Saxifraga vayredana* Luizet\n\n*Antirrhinum lopesianum* Rothm.\n\n*Lindernia procumbens* (Krocker) Philcox\n\n*Mandragora officinarum* L.\n\n*Thymelaea broterana* P. Cout.\n\n*Bunium brevifolium* Lowe\n\n*Viola athois* W. Becker\n\n*Viola cazorlensis* Gandoger"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "5ceae489d6ee4bb2": {
+   "fragment_id": "ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO CUJA CAPTURA OU COLHEITA NA NATUREZA E EXPLORAÇÃO PODEM SER OBJECTO DE MEDIDAS DE GESTÃO",
+   "type": "divisao",
+   "heading": "ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO CUJA CAPTURA OU COLHEITA NA NATUREZA E EXPLORAÇÃO PODEM SER OBJECTO DE MEDIDAS DE GESTÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESPÉCIES ANIMAIS E VEGETAIS DE INTERESSE COMUNITÁRIO CUJA CAPTURA OU COLHEITA NA NATUREZA E EXPLORAÇÃO PODEM SER OBJECTO DE MEDIDAS DE GESTÃO\n\nAs espécies que constam do presente anexo são indicadas:\n\n— pelo nome da espécie ou da subespécie ou\n\n— pelo conjunto das espécies pertencentes a um taxon superior ou a uma parte designada desse taxon.\n\nA abreviatura “spp.” após o nome de uma família ou de um género indica todas as espécies que pertencem a essa família ou a esse género."
+  },
+  "c65a4a76de355a1b": {
+   "fragment_id": "a) ANIMAIS",
+   "type": "divisao",
+   "heading": "a) ANIMAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) ANIMAIS\n\nCastoridae\n\n*Castor fiber* (populações finlandesas, suecas, letãs, lituanas, estónias e polacas)\n\nCricetidae\n\n*Cricetus cricetus* (populações húngaras)\n\nCanidae\n\n*Canis aureus*\n\n*Canis lupus* (as populações espanholas a norte do Douro, as populações gregas a norte do paralelo 39, as populações finlandesas no interior da área de exploração da rena, tal como definida no n.º 2 da Lei finlandesa n.º 848/90, de 14 de Setembro de 1990, relativa à exploração da rena, as populações búlgaras, letãs, lituanas, estónias, polacas e eslovacas)\n\nMustelidae\n\n*Martes martes*\n\n*Mustela putorius*\n\nFelidae\n\n*Lynx lynx* (as populações estónias)\n\nPhocidae\n\nTodas as espécies não mencionadas no Anexo IV\n\nViverridae\n\n*Genetta genetta*\n\n*Herpestes ichneumon*\n\nLeporidae\n\n*Lepus timidus*\n\nBovidae\n\n*Capra ibex*\n\n*Capra pyrenaica* (excepto *Capra pyrenaica pyrenaica*)\n\n*Rupicapra rupicapra* (excepto *Rupicapra rupicapra balcanica,* *Rupicapra rupicapra ornata* e *Rupicapra rupicapra tatrica)*\n\nRanidae\n\n*Rana esculenta*\n\n*Rana perezi*\n\n*Rana ridibunda*\n\n*Rana temporaria*\n\nPetromyzonidae\n\n*Lampetra fluviatilis*\n\n*Lethenteron zanandrai*\n\nAcipenseridae\n\nTodas as espécies não mencionadas no Anexo IV\n\nClupeidae\n\n*Alosa spp.*\n\nSalmonidae\n\n*Thymallus thymallus*\n\n*Coregonus* spp. (excepto *Coregonus oxyrhynchus* — populações anádromas em determinados sectores do Mar do Norte)\n\n*Hucho hucho*\n\n*Salmo salar* (apenas em água doce)\n\nCyprinidae\n\n*Aspius aspius*\n\n*Barbus spp.*\n\n*Pelecus cultratus*\n\n*Rutilus friesii meidingeri*\n\n*Rutilus pigus*\n\nSiluridae\n\n*Silurus aristotelis*\n\nPercidae\n\n*Gymnocephalus schraetzer*\n\n*Zingel zingel*\n\n*Corallium rubrum*\n\n*Helix pomatia*\n\nMargaritiferidae\n\n*Margaritifera margaritifera*\n\nUnionidae\n\n*Microcondylaea compressa*\n\n*Unio elongatulus*\n\nHirudinidae\n\n*Hirudo medicinalis*\n\nAstacidae\n\n*Astacus astacus*\n\n*Austropotamobius pallipes*\n\n*Austropotamobius torrentium*\n\nScyllaridae\n\n*Scyllarides latus*\n\nSaturniidae\n\n*Graellsia isabellae*"
+  },
+  "bd16346de989ff81": {
+   "fragment_id": "b) PLANTAS",
+   "type": "divisao",
+   "heading": "b) PLANTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) PLANTAS\n\n*Lithothamnium coralloides* Crouan frat.\n\n*Phymatholithon calcareum* (Poll.) Adey & McKibbin\n\n*Cladonia* L. subgenus *Cladina* (Nyl.) Vain.\n\n*Leucobryum glaucum* (Hedw.) AAngstr.\n\n*Sphagnum* L. spp. (excepto *Sphagnum pylaisii* Brid.)\n\n*Lycopodium* spp.\n\n*Galanthus nivalis* L.\n\n*Narcissus bulbocodium* L.\n\n*Narcissus juncifolius* Lagasca\n\n*Arnica montana* L.\n\n*Artemisia eriantha* Tem\n\n*Artemisia genipi* Weber\n\n*Doronicum plantagineum* L. subsp. *tournefortii* (Rouy) P. Cout.\n\n*Leuzea rhaponticoides* Graells\n\n*Alyssum pintadasilvae* Dudley.\n\n*Malcolmia lacera* (L.) DC. subsp. *graccilima* (Samp.) Franco\n\n*Murbeckiella pinnatifida* (Lam.) Rothm. subsp. *herminii* (Rivas-Martinez) Greuter & Burdet\n\n*Gentiana lutea* L.\n\n*Iris lusitanica* Ker-Gawler\n\n*Teucrium salviastrum* Schreber subsp. *salviastrum* Schreber\n\n*Anthyllis lusitanica* Cullen & Pinto da Silva\n\n*Dorycnium pentaphyllum* Scop. subsp. *transmontana* Franco\n\n*Ulex densus* Welw. ex Webb.\n\n*Lilium rubrum* Lmk\n\n*Ruscus aculeatus* L.\n\n*Armeria sampaio* (Bernis) Nieto Feliner\n\n*Rubus genevieri* Boreau subsp. *herminii* (Samp.) P. Cout.\n\n*Anarrhinum longipedicelatum* R. Fernandes\n\n*Euphrasia mendonçae* Samp.\n\n*Scrophularia grandiflora* DC. subsp. *grandiflora* DC.\n\n*Scrophularia berminii* Hoffmanns & Link\n\n*Scrophularia sublyrata* Brot."
+  },
+  "5c1e1d55606f4f81": {
+   "fragment_id": "B. CONTROLO DA POLUIÇÃO INDUSTRIAL E GESTÃO DOS RISCOS",
+   "type": "divisao",
+   "heading": "B. CONTROLO DA POLUIÇÃO INDUSTRIAL E GESTÃO DOS RISCOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. CONTROLO DA POLUIÇÃO INDUSTRIAL E GESTÃO DOS RISCOS\n\n1. 31997 L 0068: Directiva 97/68/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1997, relativa à aproximação das legislações dos Estados-Membros respeitantes a medidas contra a emissão de poluentes gasosos e de partículas pelos motores de combustão interna a instalar em máquinas móveis não rodoviárias (JO L 59 de 27.2.1998, p. 1), alterada por:\n\n— 32001 L 0063: Directiva 2001/63/CE da Comissão, de 17.8.2001 (JO L 227 de 23.8.2001, p. 41),\n\n— 32002 L 0088: Directiva 2002/88/CE do Parlamento Europeu e do Conselho, de 9.12.2002 (JO L 35 de 11.2.2003, p. 28),\n\n— 12003 T: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca (JO L 236 de 23.9.2003, p. 33),\n\n— 32004 L 0026: Directiva 2004/26/CE do Parlamento Europeu e do Conselho, de 21.4.2004 (JO L 146 de 30.4.2004, p. 1).\n\n«1 para a Alemanha\n\n2 para a França\n\n3 para a Itália\n\n4 para os Países Baixos\n\n5 para a Suécia\n\n6 para a Bélgica\n\n7 para a Hungria\n\n8 para a República Checa\n\n9 para a Espanha\n\n11 para o Reino Unido\n\n12 para a Áustria\n\n13 para o Luxemburgo\n\n17 para a Finlândia\n\n18 para a Dinamarca\n\n19 para a Roménia\n\n20 para a Polónia\n\n21 para Portugal\n\n23 para a Grécia\n\n24 para a Irlanda\n\n26 para a Eslovénia\n\n27 para a Eslováquia\n\n29 para a Estónia\n\n32 para a Letónia\n\n34 para a Bulgária\n\n36 para a Lituânia\n\nCY para Chipre\n\nMT para Malta».\n\n2. 32001 L 0080: Directiva 2001/80/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão (JO L 309 de 27.11.2001, p. 1), alterada por:\n\n— 12003 T: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca (JO L 236 de 23.9.2003, p. 33).\n\na) No Anexo I, é inserido o seguinte, entre as entradas relativas à Bélgica e à República Checa:\n\n| «Bulgária | 1 734 | 1 410 | 1 300 | 1 190 | - 19 | - 25 | - 31 | - 19 | - 25 | - 31» |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\n| «Roménia | 561 | 692 | 503 | 518 | 23 | - 10 | - 8 | 23 | - 10 | - 8» |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n\nb) No Anexo II, é inserido o seguinte, entre as entradas relativas à Bélgica e à República Checa:\n\n| «Bulgária | 155 | 125 | 95 | - 19 | - 39 | - 19 | - 39» |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n\n| «Roménia | 135 | 135 | 77 | - 1 | - 43 | - 1 | - 43» |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n\n3. 32001 L 0081: Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos (JO L 309 de 27.11.2001, p. 22), alterada por:\n\n— 12003 T: Acto relativo às condições de adesão e às adaptações dos Tratados — Adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca (JO L 236 de 23.9.2003, p. 33).\n\na) O Anexo I é substituído pelo seguinte:"
+  },
+  "87d1aa4fba828017": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| País | SO2 Quilotoneladas | NOx Quilotoneladas | COV Quilotoneladas | NH3 Quilotoneladas |\n| --- | --- | --- | --- | --- |\n| Bélgica | 99 | 176 | 139 | 74 |\n| Bulgária [(^2^)](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0010) | 836 | 247 | 175 | 108 |\n| República Checa | 265 | 286 | 220 | 80 |\n| Dinamarca | 55 | 127 | 85 | 69 |\n| Alemanha | 520 | 1 051 | 995 | 550 |\n| Estónia | 100 | 60 | 49 | 29 |\n| Grécia | 523 | 344 | 261 | 73 |\n| Espanha | 746 | 847 | 662 | 353 |\n| França | 375 | 810 | 1 050 | 780 |\n| Irlanda | 42 | 65 | 55 | 116 |\n| Itália | 475 | 990 | 1 159 | 419 |\n| Chipre | 39 | 23 | 14 | 09 |\n| Letónia | 101 | 61 | 136 | 44 |\n| Lituânia | 145 | 110 | 92 | 84 |\n| Luxemburgo | 4 | 11 | 9 | 7 |\n| Hungria | 500 | 198 | 137 | 90 |\n| Malta | 9 | 8 | 12 | 3 |\n| Países Baixos | 50 | 260 | 185 | 128 |\n| Áustria | 39 | 103 | 159 | 66 |\n| Polónia | 1 397 | 879 | 800 | 468 |\n| Portugal | 160 | 250 | 180 | 90 |\n| Roménia [(^2^)](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0010) | 918 | 437 | 523 | 210 |\n| Eslovénia | 27 | 45 | 40 | 20 |\n| Eslováquia | 110 | 130 | 140 | 39 |\n| Finlândia | 110 | 170 | 130 | 31 |\n| Suécia | 67 | 148 | 241 | 57 |\n| Reino Unido | 585 | 1 167 | 1 200 | 297 |\n| CE 27 | 8 297 | 9 003 | 8 848 | 4 294 |\n| (^1^)Estes valores-limite nacionais de emissão foram definidos para responder em termos gerais aos objectivos ambientais intermédios constantes do artigo 5.º. Espera-se que a observância destes objectivos resulte numa redução da eutrofização dos solos tal que a superfície comunitária com deposições de nutrientes azotados superiores às cargas críticas seja reduzida em cerca de 30 % relativamente à situação registada em 1990. (^2^)Estes valores-limite nacionais de emissão são temporários e não afectam a revisão a que se refere o artigo 10.º da presente directiva, que deverá estar concluída em 2008. |  |  |  |  |\n\nb) No Anexo II, o quadro é substituído pelo seguinte:\n\n|  | «SO2 Quilotoneladas | NOx Quilotoneladas | VOC Quilotoneladas |\n| --- | --- | --- | --- |\n| CE 27 [(^1^)](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#E0011) | 7 832 | 8 180 | 7 585 |\n| (^1^)Estes valores-limite de emissão são temporários e não afectam a revisão a que se refere o artigo 10.º da presente directiva, que deverá estar concluída em 2008.». |  |  |  |\n\n---"
+  },
+  "9d66fe9098ce4abd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#src.E0001)) JO L 157 de 21.6.2005, p.11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#src.E0002)) JO L 103 de 25.4.1979, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#src.E0003)) JO L 206 de 22.7.1992, p. 7.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#src.E0004)) JO L 59 de 27.2.1998, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#src.E0005)) JO L 309 de 27.11.2001, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#src.E0006)) JO L 309 de 27.11.2001, p. 22.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#src.E0007)) “Interpretation Manual of European Union Habitats” versão EUR 15/2, adoptado pelo Comité Habitats em 4 de Outubro de 1999 e “Amendments to the ‘Interpretation Manual of European Union Habitats’ with a view to EU enlargement” (Hab. 01/11b–rev. 1), adoptado pelo Comité Habitats em 24 de Abril de 2002 após consulta por escrito da Comissão Europeia, Direcção–Geral do Ambiente.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a88a64e2-2db4-4dd3-b146-4f2111885d16.0016.03/DOC_2#src.E0008)) Com excepção dos briófitos do anexo II, alínea b)."
+  }
+ }
+}

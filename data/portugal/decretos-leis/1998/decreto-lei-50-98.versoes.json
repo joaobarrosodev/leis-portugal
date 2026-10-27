@@ -1,0 +1,1124 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:218952:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-891753545",
+ "dre_path": "/dr/detalhe/decreto-lei/50-1998-218952",
+ "source_lastmod": "2024-10-18",
+ "versions": [
+  {
+   "date": "1998-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "891763322",
+    "891753723",
+    "891753724",
+    "891753725",
+    "891753726",
+    "891753727",
+    "891753728",
+    "891753729",
+    "891753730",
+    "891753731",
+    "891753732",
+    "891753733",
+    "891753734",
+    "891753735",
+    "891753736",
+    "891753737",
+    "891753738",
+    "891753739",
+    "891753740",
+    "891753741",
+    "891753742",
+    "891753743",
+    "891753744",
+    "891753745",
+    "891753746",
+    "891753747",
+    "891753748",
+    "891753749",
+    "891753750",
+    "891753751",
+    "891753752",
+    "891753753",
+    "891753754",
+    "891753755",
+    "891753756",
+    "891753757",
+    "891753758",
+    "891753759",
+    "891753760",
+    "891753761",
+    "891753762",
+    "891753763",
+    "891753764",
+    "891753765",
+    "891753766",
+    "891753767"
+   ]
+  },
+  {
+   "date": "2000-05-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:510265:por",
+     "title": "Decreto-Lei n.º 70-A/2000",
+     "published": "2000-05-05",
+     "dre_path": "/dr/detalhe/decreto-lei/70-a-2000-510265"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "891753722",
+    "891753723",
+    "891753724",
+    "891753725",
+    "891753726",
+    "891753727",
+    "891753728",
+    "891753729",
+    "891753730",
+    "891753731",
+    "891753732",
+    "891753733",
+    "891753734",
+    "891753735",
+    "891753736",
+    "891753737",
+    "891753738",
+    "891753739",
+    "891753740",
+    "891753741",
+    "891753742",
+    "891753743",
+    "891753744",
+    "891753745",
+    "891753746",
+    "891753747",
+    "891753748",
+    "891753749",
+    "891753750",
+    "891753751",
+    "891753752",
+    "891763316",
+    "891753754",
+    "891753755",
+    "891753756",
+    "891753757",
+    "891753758",
+    "891753759",
+    "891753760",
+    "891753761",
+    "891753762",
+    "891753763",
+    "891753764",
+    "891753765",
+    "891753766",
+    "891753767",
+    "891753768"
+   ]
+  },
+  {
+   "date": "2001-06-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:332215:por",
+     "title": "Decreto-Lei n.º 174/2001",
+     "published": "2001-05-31",
+     "dre_path": "/dr/detalhe/decreto-lei/174-2001-332215"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "891753722",
+    "891753723",
+    "891753724",
+    "891753725",
+    "891753726",
+    "891753727",
+    "891753728",
+    "891753729",
+    "891753730",
+    "891753731",
+    "891753732",
+    "891753733",
+    "891753734",
+    "891753735",
+    "891753736",
+    "891753737",
+    "891753738",
+    "891753739",
+    "891753740",
+    "891753741",
+    "891753742",
+    "891753743",
+    "891753744",
+    "891753745",
+    "891753746",
+    "891753747",
+    "891753748",
+    "891753749",
+    "891753750",
+    "891753751",
+    "891753752",
+    "891763321",
+    "891753754",
+    "891753755",
+    "891753756",
+    "891753757",
+    "891753758",
+    "891753759",
+    "891753760",
+    "891753761",
+    "891753762",
+    "891753763",
+    "891753764",
+    "891753765",
+    "891753766",
+    "891753767",
+    "891753768"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105658704:por",
+     "title": "Decreto-Lei n.º 86-A/2016",
+     "published": "2016-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/86-a-2016-105658704"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "891763322",
+    "891763323",
+    "891763324",
+    "891763325",
+    "891763326",
+    "891763327",
+    "891763328",
+    "891763329",
+    "891763330",
+    "891763331",
+    "891763332",
+    "891763333",
+    "891763334",
+    "891763335",
+    "891763336",
+    "891763337",
+    "891763338",
+    "891763339",
+    "891763340",
+    "891763341",
+    "891763342",
+    "891763343",
+    "891763344",
+    "891763345",
+    "891763346",
+    "891763347",
+    "891763348",
+    "891763349",
+    "891763350",
+    "891763351",
+    "891763352",
+    "891763353",
+    "891763354",
+    "891763355",
+    "891763356",
+    "891763357",
+    "891763358",
+    "891763359",
+    "891763360",
+    "891763361",
+    "891763362",
+    "891763363",
+    "891763364",
+    "891763365",
+    "891763366",
+    "891763367",
+    "891763368"
+   ]
+  }
+ ],
+ "fragments": {
+  "891763322": {
+   "fragment_id": "891753546",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 50/98\n\nde 11 de Março\n\nO desempenho da economia e o desenvolvimento social dependem da interligação e da complementaridade entre os sectores público, privado e social.\n\nEsta interdependência exige capacidades de cooperação e negociação que permitam, em áreas cujos interesses em jogo o autorizem, a rentabilização dos recursos e dos esforços, potenciando assim a criação de riqueza, a sua distribuição equitativa e o aumento da qualidade de vida dos cidadãos.\n\nNeste contexto, o papel da Administração Pública é relevante.\n\nAtentas as funções que lhe estão cometidas, dela depende, em grande medida, o funcionamento da economia: a constituição de empresas, o licenciamento de diversas actividades, a atribuição de concessões e de autorizações e a prestação de informação, entre um sem-número de outras funções essenciais ao desenvolvimento de actividades do dia-a-dia.\n\nCiente do papel determinante da Administração neste quadro, o Governo definiu como objectivo estratégico «a qualificação, a dignificação, a motivação e a profissionalização dos recursos humanos da Administração Pública, através de uma política coerente e adequada de carreiras, remunerações e formação profissional».\n\nA definição deste objectivo resulta da constatação de que a transformação de uma Administração de modelo burocrático numa Administração de modelo gestionário impõe a adopção de um conjunto de medidas integrado, dirigido aos mais diferentes níveis e aspectos da organização, sob pena de não se alcançarem quaisquer resultados.\n\nÉ no quadro destas medidas que a formação profissional ganha o merecido relevo. Aliás, esta problemática deu origem, no âmbito do acordo salarial assinado com as organizações sindicais em 1996, à constituição de uma mesa negocial com o objectivo de reformular o Decreto-Lei n.º 9/94, de 13 de Janeiro, da qual resultou o presente diploma.\n\nDe entre as principais modificações introduzidas, são de realçar as que se prendem com: a regulamentação do direito à formação profissional, através da atribuição de um crédito de trinta e cinco horas anuais ao pessoal, que, por sua iniciativa, o pode utilizar em acções de formação, quando não seja contemplado nos planos de formação dos serviços; a reformulação do sistema existente, de molde a facilitar o levantamento das necessidades de formação e a elaboração dos planos adequados à sua satisfação, em sintonia com a feitura dos planos de actividades e os orçamentos dos serviços; a atribuição à Direcção-Geral da Administração Pública da função de coordenadora do sistema e a exigência de acreditação a todas as entidades que promovam a formação para a Administração Pública, com excepção do Instituto Nacional de Administração e do Centro de Estudos e Formação Autárquica, nos mesmos moldes que as entidades privadas.\n\nDeste modo, atribuem-se à Administração os mecanismos para dar resposta às contínuas transformações económicas, sociais, culturais e tecnológicas.\n\nDe acordo com a lei, foram ouvidos os órgãos de governo próprio das Regiões Autónomas, as associações sindicais e a Associação Nacional de Municípios Portugueses.\n\nAssim, no desenvolvimento do regime jurídico estabelecido pelo artigo 35.º do Decreto-Lei n.º 184/89, de 2 de Junho, e nos termos do n.º 5 do artigo 112.º e das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "891753723": {
+   "fragment_id": "891753547",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais, objectivos e princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais, objectivos e princípios"
+  },
+  "891753724": {
+   "fragment_id": "891753548",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "891753725": {
+   "fragment_id": "891753549",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define as regras e os princípios que regem a formação profissional na Administração Pública."
+  },
+  "891753726": {
+   "fragment_id": "891753550",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal e institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal e institucional\n\n1 - O regime estabelecido no presente diploma aplica-se:\n\na) Aos serviços e organismos da Administração Pública, incluindo os institutos públicos nas modalidades de serviços personalizados e de fundos públicos, e ainda aos serviços que estejam na dependência orgânica e funcional da Presidência da República, da Assembleia da República e das instituições judiciárias;\n\nb) Ao pessoal que, com subordinação hierárquica e independentemente da natureza da sua vinculação, exerça funções nos serviços e organismos referidos na alínea anterior;\n\nc) Aos candidatos sujeitos a um processo de recrutamento e selecção.\n\n2 - O regime do presente decreto-lei aplica-se às administrações regionais dos Açores e da Madeira."
+  },
+  "891753727": {
+   "fragment_id": "891753551",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceito de formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceito de formação profissional\n\nPara os efeitos do disposto no presente diploma, entende-se por formação profissional o processo global e permanente através do qual os funcionários e agentes, bem como os candidatos a funcionários sujeitos a um processo de recrutamento e selecção, se preparam para o exercício de uma actividade profissional, através da aquisição e do desenvolvimento de capacidades ou competências, cuja síntese e integração possibilitam a adopção dos comportamentos adequados ao desempenho profissional e à valorização pessoal e profissional."
+  },
+  "891753728": {
+   "fragment_id": "891753552",
+   "type": 11,
+   "heading": "Artigo 4.º — Direito e dever de formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direito e dever de formação profissional\n\n1 - Os funcionários e agentes da Administração Pública têm o direito de frequentar acções de formação profissional.\n\n2 - Os funcionários e agentes da Administração Pública, bem como os candidatos sujeitos a um processo de recrutamento e selecção, são obrigados a frequentar as acções de formação profissional para que forem designados, especialmente as que se destinem a melhorar o seu desempenho profissional ou a suprir carências detectadas na avaliação do seu desempenho."
+  },
+  "891753729": {
+   "fragment_id": "891753553",
+   "type": 11,
+   "heading": "Artigo 5.º — Conceito de formador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conceito de formador\n\nEntende-se por formador o indivíduo que, reunindo os necessários requisitos científicos, técnicos, profissionais e pedagógicos, está apto a conduzir acções pedagógicas conducentes à melhoria dos conhecimentos e nível técnico dos formandos, de acordo com objectivos e programas previamente definidos."
+  },
+  "891753730": {
+   "fragment_id": "891753554",
+   "type": 11,
+   "heading": "Artigo 6.º — Estatuto do formador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estatuto do formador\n\n1 - O recrutamento, as condições de exercício da actividade de formador e os direitos e deveres dos formadores constam de estatuto próprio, a definir por portaria conjunta dos membros do Governo que tutelam o Instituto Nacional de Administração, o Centro de Estudos de Formação Autárquica e a Administração Pública.\n\n2 - Até à publicação do estatuto do formador, o exercício da função monitória faz-se sem prejuízo do cumprimento das actividades directamente ligadas às missões e objectivos de cada serviço.\n\n3 - Os formadores da Administração Pública podem ministrar formação profissional promovida pelas organizações sindicais, em termos a regulamentar no estatuto do formador."
+  },
+  "891753731": {
+   "fragment_id": "891753555",
+   "type": 11,
+   "heading": "Artigo 7.º — Validade da formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Validade da formação profissional\n\nA formação profissional ministrada 90 dias após a entrada em vigor do presente diploma que não obedeça aos requisitos nele fixados não pode ser considerada e ponderada para os efeitos previstos na alínea b) do n.º 3 do artigo 27.º do Decreto-Lei n.º 498/88, de 30 de Dezembro."
+  },
+  "891753732": {
+   "fragment_id": "891753556",
+   "type": 8,
+   "heading": "Secção II — Objectivos, princípios e estrutura da formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Objectivos, princípios e estrutura da formação profissional"
+  },
+  "891753733": {
+   "fragment_id": "891753557",
+   "type": 11,
+   "heading": "Artigo 8.º — Objectivos da formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Objectivos da formação profissional\n\nA formação profissional tem, designadamente, por objectivos:\n\na) Contribuir para a eficiência, a eficácia e a qualidade dos serviços;\n\nb) Melhorar o desempenho profissional dos funcionários e agentes da Administração Pública, fomentando a sua criatividade, a inovação, o espírito de iniciativa, o espírito crítico e a qualidade;\n\nc) Assegurar a qualificação dos funcionários para o ingresso, acesso e intercomunicabilidade nas carreiras;\n\nd) Contribuir para a mobilidade dos efectivos da Administração Pública;\n\ne) Contribuir para a realização pessoal e profissional dos funcionários e agentes da Administração, preparando-os para o desempenho das diversas missões para que estão vocacionados;\n\nf) Complementar os conhecimentos técnicos e os fundamentos culturais ministrados pelo sistema educativo."
+  },
+  "891753734": {
+   "fragment_id": "891753558",
+   "type": 11,
+   "heading": "Artigo 9.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Princípios\n\nA formação profissional prosseguida na Administração Pública obedece aos seguintes princípios:\n\na) Universalidade, porque abrange genericamente os funcionários e agentes, bem como os candidatos a funcionários, da Administração Pública;\n\nb) Continuidade, porque se reveste de uma função de educação permanente ao longo de toda a carreira;\n\nc) Utilidade funcional, porque se relaciona com as necessidades do serviço público e da sua gestão, com a política de qualidade do pessoal e de emprego público, com as necessidades de carácter organizativo e as aspirações de desenvolvimento sócio-profissional dos respectivos funcionários e agentes;\n\nd) Multidisciplinaridade, porque abarca diversos ramos de conhecimento e técnicas necessárias à satisfação das necessidades dos serviços públicos e à realização e motivação profissional dos respectivos funcionários e agentes, tendo em conta a evolução do saber e dos meios tecnológicos;\n\ne) Desconcentração e descentralização, porque procura diversificar os locais de realização das acções de formação, procurando facilitar o acesso dos funcionários às mesmas;\n\nf) Complementaridade, enquanto sequência natural do sistema educativo."
+  },
+  "891753735": {
+   "fragment_id": "891753559",
+   "type": 11,
+   "heading": "Artigo 10.º — Estrutura da formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estrutura da formação profissional\n\nA formação profissional na Administração Pública pode ser:\n\na) Formação inicial;\n\nb) Formação contínua."
+  },
+  "891753736": {
+   "fragment_id": "891753560",
+   "type": 11,
+   "heading": "Artigo 11.º — Formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formação inicial\n\n1 - A formação inicial visa habilitar os formandos com conhecimentos e aptidões para o exercício das respectivas funções.\n\n2 - A formação inicial pode desenvolver-se em dois momentos distintos:\n\na) Em fase anterior à admissão, como condicionante da mesma;\n\nb) Em fase imediatamente posterior à admissão, integrando-se no período probatório ou de provisoriedade da nomeação.\n\n3 - O processo de formação inicial é sempre objecto de avaliação e de classificação.\n\n4 - A definição de cursos, conteúdos programáticos e respectivos regulamentos de funcionamento que se insiram no âmbito da formação inicial são objecto de despacho conjunto dos membros do Governo da tutela e do que tiver a seu cargo a Administração Pública."
+  },
+  "891753737": {
+   "fragment_id": "891753561",
+   "type": 11,
+   "heading": "Artigo 12.º — Formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Formação contínua\n\n1 - A formação contínua visa promover a actualização e a valorização pessoal e profissional dos funcionários e agentes, em consonância com as políticas de desenvolvimento, inovação e mudança da Administração Pública.\n\n2 - Constituem objectivos específicos da formação contínua, nomeadamente, os seguintes:\n\na) O complemento da formação de base, actualizando-a e proporcionando a preparação necessária para o desenvolvimento técnico-científico;\n\nb) A adequação às inovações técnicas e tecnológicas com reflexo directo no desempenho profissional;\n\nc) O desenvolvimento e valorização pessoal e profissional dos funcionários e agentes da Administração, tendo por objectivo o desempenho de tarefas mais complexas, a promoção e a intercomunicabilidade de carreiras."
+  },
+  "891753738": {
+   "fragment_id": "891753562",
+   "type": 11,
+   "heading": "Artigo 13.º — Modalidades da formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Modalidades da formação contínua\n\n1 - A formação contínua reveste as seguintes modalidades:\n\na) A formação de aperfeiçoamento, que visa o aprofundamento e a melhoria das capacidades já existentes;\n\nb) A formação de especialização, que visa conferir e desenvolver ou aprofundar conhecimentos e aptidões profissionais relativamente a determinada técnica ou área do saber, proporcionando o exercício especializado de funções nos correspondentes domínios;\n\nc) A formação para promoção na carreira, que, nos casos e nos termos em que o respectivo regime o preveja, visa especificamente o desenvolvimento dos conhecimentos e aptidões profissionais considerados indispensáveis para o exercício de funções de maior complexidade e responsabilidade no âmbito da mesma carreira;\n\nd) A formação de reconversão profissional, que visa conferir os conhecimentos e as aptidões profissionais indispensáveis ao exercício das tarefas e responsabilidades relativas ao conteúdo funcional da carreira diversa daquela em que o funcionário está integrado, suprindo a falta de habilitações literárias ou qualificações profissionais legalmente estabelecidas para provimento na nova carreira e possibilitando, dessa forma, a sua adequada transição.\n\n2 - A regulamentação da formação de reconversão profissional, no que respeita aos conteúdos programáticos, procedimentos e avaliação, é objecto de despacho conjunto dos membros do Governo da tutela e do que tiver a seu cargo a Administração Pública."
+  },
+  "891753739": {
+   "fragment_id": "891753563",
+   "type": 11,
+   "heading": "Artigo 14.º — Tipologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tipologia\n\n1 - A formação profissional organiza-se em:\n\na) Cursos de formação de pequena, média e longa duração;\n\nb) Módulos capitalizáveis de cursos de formação;\n\nc) Seminários, encontros, jornadas, palestras, conferências e estágios.\n\n2 - Os tipos de formação referidos nas alíneas a) e b) do número anterior desenvolvem-se em serviço, em sala ou à distância."
+  },
+  "891753740": {
+   "fragment_id": "891753564",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avaliação da formação\n\n1 - A formação profissional na Administração Publica é objecto de avaliação, quer em função dos objectivos de cada acção quer ao nível do desempenho profissional dos formandos e dos resultados nas organizações.\n\n2 - Em função dos objectivos de cada acção de formação, podem ser adoptados os seguintes instrumentos de avaliação:\n\na) Provas de conhecimentos, sempre que se tenha por objectivo aferir o nível de eficácia relativa de cada participante;\n\nb) Metodologias de dinâmica de grupos, simulações ou métodos de casos, sempre que se pretenda verificar o nível de alteração da capacidade dos participantes;\n\nc) Questionários de avaliação das acções de formação, sempre que se pretenda avaliar a reacção dos formandos, a consecução dos objectivos das acções e o nível técnico-pedagógico das mesmas."
+  },
+  "891753741": {
+   "fragment_id": "891753565",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de formação profissional"
+  },
+  "891753742": {
+   "fragment_id": "891753566",
+   "type": 11,
+   "heading": "Artigo 16.º — Entidades competentes para realizar acções de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entidades competentes para realizar acções de formação\n\nSão competentes para a realização de formação na Administração Pública:\n\na) Os organismos centrais e sectoriais de formação com âmbito de actuação para a administração central, regional ou local;\n\nb) Os serviços e organismos da Administração Pública;\n\nc) As entidades formadoras públicas ou privadas que sejam reconhecidas pelos respectivos ministérios da tutela e que se encontrem inseridas, nomeadamente, nos sistemas educativo, científico ou tecnológico;\n\nd) As associações sindicais e profissionais, dentro do seu âmbito de actuação;\n\ne) Quaisquer outras entidades privadas."
+  },
+  "891753743": {
+   "fragment_id": "891753567",
+   "type": 11,
+   "heading": "Artigo 17.º — Organismos centrais de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Organismos centrais de formação\n\n1 - O Instituto Nacional de Administração e o Centro de Estudos e Formação Autárquica são considerados organismos centrais de formação para efeitos do presente diploma.\n\n2 - Compete aos organismos centrais de formação:\n\na) Promover regularmente a realização de diagnósticos de necessidades de formação e estudos de impacte da formação nos seus domínios de intervenção, com base nos elementos fornecidos pelos serviços, nos termos do artigo 21.º, dos quais deve ser dado conhecimento às demais entidades referidas no artigo anterior;\n\nb) Conceber e desenvolver planos anuais de formação de âmbito predominantemente horizontal para os diferentes grupos de pessoal e tendo em conta as políticas do Governo e as principais necessidades identificadas nas suas áreas de actuação;\n\nc) Conceber e desenvolver formação específica para os dirigentes e chefias da Administração Pública;\n\nd) Apoiar os serviços sectoriais de formação através da elaboração e divulgação de instrumentos técnicos, com vista a facilitar a concretização das diferentes fases do processo formativo;\n\ne) Assegurar a preparação pedagógica e a actualização de conhecimentos dos formadores da Administração Pública, tendo em conta a necessidade de manter uma bolsa de formadores que responda às necessidades formativas dos vários serviços nas áreas comuns da Administração;\n\nf) Desenvolver projectos de formação ajustados às necessidades específicas dos serviços da Administração Pública, sempre que para tal solicitados;\n\ng) Elaborar relatórios de actividades que contenham as acções desenvolvidas e o balanço dos resultados obtidos.\n\n3 - O Instituto Nacional de Administração e o Centro de Estudos e Formação Autárquica remetem, até ao dia 30 de Abril de cada ano, ao órgão coordenador a que se refere o artigo 30.º do presente diploma os relatórios de actividades referidos na alínea g) do número anterior."
+  },
+  "891753744": {
+   "fragment_id": "891753568",
+   "type": 11,
+   "heading": "Artigo 18.º — Organismos sectoriais de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Organismos sectoriais de formação\n\n1 - Para efeitos do presente diploma, consideram-se organismos sectoriais de formação:\n\na) As unidades de formação de âmbito ministerial reconhecidas nas respectivas leis orgânicas;\n\nb) As unidades de formação dos serviços ou organismos com mais de 1500 funcionários e agentes reconhecidas nas respectivas leis orgânicas;\n\nc) As unidades de formação dos institutos públicos como tal consideradas nos respectivos estatutos.\n\n2 - Compete aos organismos sectoriais de formação:\n\na) Conceber e realizar planos anuais de formação, associados quer a planos de actividades quer a processos de mudança que ocorram nos vários serviços, tendo em conta a prévia identificação das necessidades específicas de cada sector;\n\nb) Assegurar a consultadoria nas áreas de formação aos serviços da Administração Pública;\n\nc) Elaborar relatórios de actividades que contenham as acções desenvolvidas e o balanço dos resultados obtidos.\n\n3 - Os organismos sectoriais de formação remetem, até ao dia 15 de Abril de cada ano, ao órgão coordenador a que se refere o artigo 30.º do presente diploma os relatórios de actividade referidos na alínea c) do número anterior."
+  },
+  "891753745": {
+   "fragment_id": "891753569",
+   "type": 11,
+   "heading": "Artigo 19.º — Protocolos com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Protocolos com outras entidades\n\nOs organismos centrais e sectoriais de formação fomentam e apoiam iniciativas de formação e podem estabelecer acordos ou protocolos de cooperação com outros organismos, designadamente universidades, centros de investigação públicos ou privados, nacionais ou estrangeiros, e organizações sindicais e profissionais, visando:\n\na) Promover a aquisição de meios e competências adicionais e o intercâmbio de experiências;\n\nb) Colaborar na concepção, programação e execução de planos e actividades de formação e informação de interesse para ambas as partes;\n\nc) Desenvolver estudos e actividades de investigação em domínios de formação de interesse para a Administração Pública."
+  },
+  "891753746": {
+   "fragment_id": "891753570",
+   "type": 11,
+   "heading": "Artigo 20.º — Acreditação das entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acreditação das entidades formadoras\n\nAs entidades referidas nas alíneas b), c), d) e e) do artigo 16.º, bem como os organismos sectoriais de formação, podem realizar acções de formação, desde que sejam devidamente acreditadas nos termos da portaria conjunta a que se refere o n.º 3 do artigo 14.º do Decreto Regulamentar n.º 15/96, de 23 de Novembro."
+  },
+  "891753747": {
+   "fragment_id": "891753571",
+   "type": 1,
+   "heading": "Capítulo III — Organização da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização da formação"
+  },
+  "891753748": {
+   "fragment_id": "891753572",
+   "type": 8,
+   "heading": "Secção I — Iniciativa dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Iniciativa dos serviços"
+  },
+  "891753749": {
+   "fragment_id": "891753573",
+   "type": 11,
+   "heading": "Artigo 21.º — Diagnósticos de necessidades e planos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Diagnósticos de necessidades e planos de formação\n\n1 - Os serviços e organismos da Administração são obrigados a elaborar e manter actualizado, anualmente, o diagnóstico de necessidades de formação.\n\n2 - O disposto no número anterior não exclui a obrigatoriedade de os serviços da Administração Pública, em articulação com a elaboração dos respectivos planos de actividades, e fazendo parte integrante dos mesmos, prepararem um plano de formação ou um plano de frequência de acções de formação, consoante possuam ou não unidade de formação criada na respectiva lei orgânica, devidamente orçamentados.\n\n3 - Os diagnósticos de necessidades de formação e os planos de frequência de acções de formação dos serviços devem ser comunicados ao Instituto Nacional de Administração ou ao Centro de Estudos e Formação Autárquica até ao dia 31 de Maio do ano anterior a que respeitam, consoante se refiram à administração central ou autárquica.\n\n4 - A elaboração dos diagnósticos de necessidades de formação, dos planos de formação ou de frequência de acções de formação deve ser precedida de consulta prévia aos funcionários e agentes dos serviços, podendo ser ouvidas as organizações dos trabalhadores que abranjam os respectivos serviços."
+  },
+  "891753750": {
+   "fragment_id": "891753574",
+   "type": 11,
+   "heading": "Artigo 22.º — Indicadores de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Indicadores de gestão\n\n1 - Os serviços da Administração Pública que realizem planos e acções de formação ou planos de frequência de acções de formação devem elaborar anualmente relatórios de actividades que contenham as acções desenvolvidas e o balanço dos resultados obtidos e enviá-los, até ao dia 15 de Abril de cada ano, ao órgão coordenador a que se refere o artigo 30.º do presente diploma.\n\n2 - Os relatórios referidos no número anterior integram o relatório de actividades referido no Decreto-Lei n.º 183/96, de 27 de Setembro."
+  },
+  "891753751": {
+   "fragment_id": "891753775",
+   "type": 11,
+   "heading": "Artigo 23.º — Recurso à formação prestada por entidades privadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Recurso à formação prestada por entidades privadas\n\n1 - Os serviços da Administração Pública que recorram à formação ministrada por entidades privadas estão obrigados a verificar o cumprimento, por parte destas, dos requisitos constantes do artigo 16.º do Decreto Regulamentar n.º 15/96, de 23 de Novembro, bem como a exigir o comprovativo da respectiva acreditação.\n\n2 - O dirigente máximo dos serviços é responsável financeira e disciplinarmente pelos montantes despendidos quando não se tenha verificado o cumprimento dos requisitos referidos no número anterior."
+  },
+  "891753752": {
+   "fragment_id": "891753776",
+   "type": 8,
+   "heading": "Secção II — Iniciativa dos funcionários e agentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Iniciativa dos funcionários e agentes"
+  },
+  "891753753": {
+   "fragment_id": "891753777",
+   "type": 11,
+   "heading": "Artigo 24.º — Autoformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Autoformação\n\n1 - Entende-se por autoformação o acesso à formação por iniciativa individual do pessoal a que se refere o artigo 2.º do presente diploma que corresponda, directa ou indirectamente, às áreas funcionais em que se encontre inserido ou contribua para o aumento da respectiva qualificação.\n\n2 - Para os efeitos do disposto no número anterior, aquele pessoal tem direito, dentro do período laboral, a um crédito de trinta e cinco horas por ano civil para a sua autoformação, sem prejuízo de, no caso de acções formativas com relevância directa nas respectivas áreas funcionais, a apreciar pelo dirigente máximo do serviço, aquele limite coincidir com a carga horária prevista para a correspondente acção de formação.\n\n3 - A autoformação é financiada pelo formando, sem prejuízo do disposto no Decreto Regulamentar n.º 15/96, de 23 de Novembro, quanto ao acesso individual à formação.\n\n4 - A autoformação, quando realizada dentro do período laboral, corresponde, para todos os efeitos legais, ao exercício efectivo de funções.\n\n5 - Os serviços e organismos da administração central, regional e local não podem impedir a frequência de acções de autoformação quando estas tenham lugar fora do período laboral."
+  },
+  "891753754": {
+   "fragment_id": "891753778",
+   "type": 11,
+   "heading": "Artigo 25.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Procedimentos\n\n1 - A autorização para a autoformação será concedida dentro dos limites dos créditos disponíveis por ano.\n\n2 - O pedido de autorização para autoformação deve ser requerido ao dirigente máximo do serviço com a indicação da data de início, da natureza da acção de formação, da sua duração, assim como da entidade que a promove e do local.\n\n3 - O acesso à autoformação é automático para o pessoal não contemplado no plano de formação do serviço ou organismo, sem prejuízo, todavia, do normal funcionamento do serviço.\n\n4 - O funcionário ou agente que tenha beneficiado de uma autorização para autoformação não poderá obter uma nova autorização no mesmo ano civil, sem prejuízo do número seguinte.\n\n5 - A impossibilidade referida no número anterior só é aplicável caso a formação esgote o crédito anual para a formação.\n\n6 - A recusa do acesso à autoformação deve ser fundamentada."
+  },
+  "891753755": {
+   "fragment_id": "891753779",
+   "type": 11,
+   "heading": "Artigo 26.º — Obrigações do funcionário ou agente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Obrigações do funcionário ou agente\n\n1 - O funcionário ou agente a quem for concedida a autorização para a formação deve, no fim da mesma, apresentar uma declaração de frequência ou certificado de formação.\n\n2 - Em caso de ausência, o funcionário ou agente deve justificar a sua falta nos termos legais, sob pena de ficar impossibilitado de requerer nova autorização para formação no ano em curso e no seguinte, independentemente da sanção disciplinar que ao caso couber."
+  },
+  "891753756": {
+   "fragment_id": "891753780",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos consultivos e de coordenação da formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos consultivos e de coordenação da formação profissional"
+  },
+  "891753757": {
+   "fragment_id": "891753781",
+   "type": 8,
+   "heading": "Secção I — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos consultivos"
+  },
+  "891753758": {
+   "fragment_id": "891753782",
+   "type": 11,
+   "heading": "Artigo 27.º — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Órgãos consultivos\n\nConstituem órgãos de apoio consultivo em matéria de formação e aperfeiçoamento profissional da Administração Pública:\n\na) A Comissão Intersectorial de Formação (CIF);\n\nb) Os conselhos consultivos sectoriais (CCS)."
+  },
+  "891753759": {
+   "fragment_id": "891753783",
+   "type": 11,
+   "heading": "Artigo 28.º — Comissão Intersectorial de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Comissão Intersectorial de Formação\n\n1 - A CIF é um órgão consultivo do membro do Governo que tiver a seu cargo a Administração Pública e a respectiva formação profissional, ao qual compete:\n\na) Colaborar na definição e permanente actualização da política de formação e aperfeiçoamento profissional da Administração Pública;\n\nb) Dar parecer sobre os planos anuais de formação do Instituto Nacional de Administração e do Centro de Estudos e Formação Autárquica;\n\nc) Pronunciar-se sobre qualquer outro assunto, a solicitação do seu presidente.\n\n2 - A CIF é composta pelos seguintes membros:\n\na) O membro do Governo que tiver a seu cargo a Administração Pública, que preside;\n\nb) O director-geral da Administração Pública;\n\nc) O presidente do Instituto Nacional de Administração;\n\nd) O presidente do Centro de Estudos e Formação Autárquica;\n\ne) O presidente do Instituto do Emprego e Formação Profissional;\n\nf) Um representante do Ministério do Equipamento, do Planeamento e da Administração do Território;\n\ng) Um representante do Ministério da Educação;\n\nh) Um representante de cada organismo sectorial de formação;\n\ni) Um representante de cada órgão sectorial de formação de âmbito ministerial;\n\nj) Um representante da Direcção-Geral da Administração Pública;\n\nl) Um representante do Secretariado para a Modernização Administrativa;\n\nm) O gestor do Programa Integrado de Formação para a Modernização da Administração Pública (PROFAP);\n\nn) Um representante da administração regional da Madeira e um representante da administração regional dos Açores;\n\no) Três representantes da Associação Nacional de Municípios Portugueses;\n\np) Um representante da Associação Nacional de Freguesias;\n\nq) Seis representantes das associações sindicais representativas dos trabalhadores da função pública;\n\nr) Até três personalidades de reconhecido mérito ligadas à formação e ao ensino, designadas pelo membro do Governo que tiver a seu cargo a Administração Pública.\n\n3 - O presidente da CIF pode delegar a sua competência no director-geral da Administração Pública.\n\n4 - A CIF funciona junto do gabinete do membro do Governo que a preside, cabendo à Direcção-Geral da Administração Pública prestar o apoio técnico e administrativo indispensável ao seu funcionamento.\n\n5 - A CIF aprova o seu regulamento interno, podendo funcionar em reuniões restritas ou plenárias."
+  },
+  "891753760": {
+   "fragment_id": "891753784",
+   "type": 11,
+   "heading": "Artigo 29.º — Conselhos consultivos sectoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Conselhos consultivos sectoriais\n\n1 - Devem ser constituídos, com representação sindical, conselhos consultivos sectoriais, de âmbito ministerial, que têm por missão colaborar na determinação das necessidades de formação de cada departamento governamental, na definição dos princípios informadores da respectiva política de formação e na execução coordenada dos correspondentes planos de formação.\n\n2 - A competência dos conselhos consultivos sectoriais consta de portaria conjunta dos membros do Governo interessados e daquele que tiver a seu cargo a Administração Pública.\n\n3 - Cada conselho consultivo sectorial aprova o seu próprio regulamento interno."
+  },
+  "891753761": {
+   "fragment_id": "891753785",
+   "type": 8,
+   "heading": "Secção II — Órgão de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgão de coordenação"
+  },
+  "891753762": {
+   "fragment_id": "891753786",
+   "type": 11,
+   "heading": "Artigo 30.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Atribuições e competências\n\n1 - Cabe à Direcção-Geral da Administração Pública coordenar o sistema da formação profissional da Administração Pública, em consonância com as linhas de orientação em matéria de modernização e reforma da Administração Pública.\n\n2 - Para efeito do número anterior, compete à Direcção-Geral da Administração Pública:\n\na) Estudar e propor ao Governo a definição de linhas políticas e estratégias para a formação e aperfeiçoamento profissional da Administração Pública;\n\nb) Recolher dados que permitam avaliar o cumprimento dos planos de formação e os investimentos efectuados nesta matéria pelos organismos centrais e sectoriais de formação, associações sindicais e profissionais e entidades privadas;\n\nc) Estudar e propor ao Governo a metodologia adequada à elaboração de diagnósticos de necessidades de formação revistos nos artigos 17.º, 18.º e 21.º do presente diploma;\n\nd) Elaborar um sistema de indicadores que deve presidir à elaboração dos relatórios de actividades a executar pelas entidades a que se refere a alínea b);\n\ne) Promover, periodicamente, a avaliação dos efeitos da formação ministrada ao nível de eficácia dos serviços, por forma a avaliar o impacte do investimento efectuado nos resultados das organizações;\n\nf) Promover, através dos organismos centrais de formação, a verificação do cumprimento do disposto no artigo 21.º do presente diploma;\n\ng) Promover, periodicamente, auditorias às entidades que desenvolvem a formação profissional para a Administração Pública, quer de âmbito oficial quer de âmbito privado, numa óptica de análise da contribuição da formação profissional para a modernização e reforma da Administração Pública.\n\n3 - A Direcção-Geral da Administração Pública promoverá as necessárias articulações com a Direcção-Geral da Administração Autárquica nas matérias relativas à formação profissional que se destinem à administração local.\n\n4 - Tendo em vista o desenvolvimento das atribuições e competências previstas no presente diploma, proceder-se-á aos necessários ajustamentos na Lei Orgânica da Direcção-Geral da Administração Pública."
+  },
+  "891753763": {
+   "fragment_id": "891753787",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "891753764": {
+   "fragment_id": "891753788",
+   "type": 11,
+   "heading": "Artigo 31.º — Certificação para o mercado de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Certificação para o mercado de emprego\n\nA certificação profissional para o mercado de emprego de formação ministrada no âmbito deste diploma rege-se pelas disposições aplicáveis do Decreto-Lei n.º 95/92, de 23 de Maio."
+  },
+  "891753765": {
+   "fragment_id": "891753789",
+   "type": 11,
+   "heading": "Artigo 32.º — Acompanhamento profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Acompanhamento profissional\n\n1 - O pessoal dirigente e de chefia deve assegurar o acompanhamento profissional, no próprio local de trabalho, visando a transmissão ao funcionário ou agente dos conhecimentos e aptidões profissionais necessários ao exercício do respectivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço prestado.\n\n2 - O acompanhamento profissional cabe na esfera de responsabilidades próprias do pessoal dirigente e de chefia.\n\n3 - O acompanhamento profissional a que se referem os números anteriores não se considera formação profissional para os efeitos do presente diploma e é equiparado a exercício de funções no posto de trabalho."
+  },
+  "891753766": {
+   "fragment_id": "891753790",
+   "type": 11,
+   "heading": "Artigo 33.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Revogação\n\nSão revogados os Decretos-Leis n.os 9/94 e 140/96, de 13 de Janeiro e 23 de Agosto, respectivamente, e a Portaria n.º 80/94, de 7 de Fevereiro."
+  },
+  "891753767": {
+   "fragment_id": "891753791",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "891753722": {
+   "fragment_id": "891753546",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 50/98\n\nde 11 de Março\n\nO desempenho da economia e o desenvolvimento social dependem da interligação e da complementaridade entre os sectores público, privado e social.\n\nEsta interdependência exige capacidades de cooperação e negociação que permitam, em áreas cujos interesses em jogo o autorizem, a rentabilização dos recursos e dos esforços, potenciando assim a criação de riqueza, a sua distribuição equitativa e o aumento da qualidade de vida dos cidadãos.\n\nNeste contexto, o papel da Administração Pública é relevante.\n\nAtentas as funções que lhe estão cometidas, dela depende, em grande medida, o funcionamento da economia: a constituição de empresas, o licenciamento de diversas actividades, a atribuição de concessões e de autorizações e a prestação de informação, entre um sem-número de outras funções essenciais ao desenvolvimento de actividades do dia-a-dia.\n\nCiente do papel determinante da Administração neste quadro, o Governo definiu como objectivo estratégico «a qualificação, a dignificação, a motivação e a profissionalização dos recursos humanos da Administração Pública, através de uma política coerente e adequada de carreiras, remunerações e formação profissional».\n\nA definição deste objectivo resulta da constatação de que a transformação de uma Administração de modelo burocrático numa Administração de modelo gestionário impõe a adopção de um conjunto de medidas integrado, dirigido aos mais diferentes níveis e aspectos da organização, sob pena de não se alcançarem quaisquer resultados.\n\nÉ no quadro destas medidas que a formação profissional ganha o merecido relevo. Aliás, esta problemática deu origem, no âmbito do acordo salarial assinado com as organizações sindicais em 1996, à constituição de uma mesa negocial com o objectivo de reformular o Decreto-Lei n.º 9/94, de 13 de Janeiro, da qual resultou o presente diploma.\n\nDe entre as principais modificações introduzidas, são de realçar as que se prendem com: a regulamentação do direito à formação profissional, através da atribuição de um crédito de trinta e cinco horas anuais ao pessoal, que, por sua iniciativa, o pode utilizar em acções de formação, quando não seja contemplado nos planos de formação dos serviços; a reformulação do sistema existente, de molde a facilitar o levantamento das necessidades de formação e a elaboração dos planos adequados à sua satisfação, em sintonia com a feitura dos planos de actividades e os orçamentos dos serviços; a atribuição à Direcção-Geral da Administração Pública da função de coordenadora do sistema e a exigência de acreditação a todas as entidades que promovam a formação para a Administração Pública, com excepção do Instituto Nacional de Administração e do Centro de Estudos e Formação Autárquica, nos mesmos moldes que as entidades privadas.\n\nDeste modo, atribuem-se à Administração os mecanismos para dar resposta às contínuas transformações económicas, sociais, culturais e tecnológicas.\n\nDe acordo com a lei, foram ouvidos os órgãos de governo próprio das Regiões Autónomas, as associações sindicais e a Associação Nacional de Municípios Portugueses.\n\nAssim, no desenvolvimento do regime jurídico estabelecido pelo artigo 35.º do Decreto-Lei n.º 184/89, de 2 de Junho, e nos termos do n.º 5 do artigo 112.º e das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "891763316": {
+   "fragment_id": "891753777",
+   "type": 11,
+   "heading": "Artigo 24.º — Autoformação",
+   "in_force_from": "2000-05-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 70-A/2000 - Diário da República n.º 104/2000, 1º Suplemento, Série I-A de 2000-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2000-510265), em vigor a partir de 2000-05-10, produz efeitos a partir de 2000-04-10"
+   ],
+   "markdown": "###### Artigo 24.º — Autoformação\n\n1 - Entende-se por autoformação o acesso à formação por iniciativa individual do pessoal a que se refere o artigo 2.º do presente diploma que corresponda, directa ou indirectamente, às áreas funcionais em que se encontre inserido ou contribua para o aumento da respectiva qualificação.\n\n2 - Para efeitos do disposto no número anterior, aquele pessoal tem direito, dentro do período laboral, a um crédito de cinquenta horas por ano civil para a sua autoformação, sem prejuízo de, no caso de acções formativas com relevância directa nas respectivas áreas funcionais, a apreciar pelo dirigente máximo do serviço, aquele limite coincidir com a carga horária prevista para a correspondente acção de formação.\n\n3 - A autoformação é financiada pelo formando, sem prejuízo do disposto no Decreto Regulamentar n.º 15/96, de 23 de Novembro, quanto ao acesso individual à formação.\n\n4 - A autoformação, quando realizada dentro do período laboral, corresponde, para todos os efeitos legais, ao exercício efectivo de funções.\n\n5 - Os serviços e organismos da administração central, regional e local não podem impedir a frequência de acções de autoformação quando estas tenham lugar fora do período laboral.\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 70-A/2000 - Diário da República n.º 104/2000, 1º Suplemento, Série I-A de 2000-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2000-510265), em vigor a partir de 2000-05-10, produz efeitos a partir de 2000-04-10"
+  },
+  "891753768": {
+   "fragment_id": "891753792",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1998. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 19 de Fevereiro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 3 de Março de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "891763321": {
+   "fragment_id": "891753777",
+   "type": 11,
+   "heading": "Artigo 24.º — Autoformação",
+   "in_force_from": "2001-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 174/2001 - Diário da República n.º 126/2001, Série I-A de 2001-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2001-332215), em vigor a partir de 2001-06-05, produz efeitos a partir de 2001-01-01",
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 70-A/2000 - Diário da República n.º 104/2000, 1º Suplemento, Série I-A de 2000-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2000-510265), em vigor a partir de 2000-05-10, produz efeitos a partir de 2000-04-10"
+   ],
+   "markdown": "###### Artigo 24.º — Autoformação\n\n1 - Entende-se por autoformação o acesso à formação por iniciativa individual do pessoal a que se refere o artigo 2.º do presente diploma que corresponda, directa ou indirectamente, às áreas funcionais em que se encontre inserido ou contribua para o aumento da respectiva qualificação.\n\n2 - Para efeitos do disposto no número anterior, aquele pessoal tem direito, dentro do período laboral, a um crédito para a sua autoformação, por ano civil, correspondente a cem horas, para as carreiras técnica e técnica superior, e a setenta horas, para as restantes carreiras.\n\n3 - Quando se trate de acções formativas com relevância directa nas respectivas áreas funcionais, a apreciar pelo dirigente máximo do serviço, os créditos previstos no número anterior podem ser ultrapassados até ao limite da carga horária prevista para a acção de formação que o funcionário pretende frequentar.\n\n4-   A autoformação é financiada pelo formando, sem prejuízo do disposto no Decreto Regulamentar n.º 15/96, de 23 de Novembro, quanto ao acesso individual à formação.\n\n5 - A autoformação, quando realizada dentro do período laboral, corresponde, para todos os efeitos legais, ao exercício efectivo de funções.\n\n6 - Os serviços e organismos da administração central, regional e local não podem impedir a frequência de acções de autoformação quando estas tenham lugar fora do período laboral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 174/2001 - Diário da República n.º 126/2001, Série I-A de 2001-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2001-332215), em vigor a partir de 2001-06-05, produz efeitos a partir de 2001-01-01\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 70-A/2000 - Diário da República n.º 104/2000, 1º Suplemento, Série I-A de 2000-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2000-510265), em vigor a partir de 2000-05-10, produz efeitos a partir de 2000-04-10"
+  },
+  "891763323": {
+   "fragment_id": "891753547",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais, objectivos e princípios",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais, objectivos e princípios\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763324": {
+   "fragment_id": "891753548",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763325": {
+   "fragment_id": "891753549",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define as regras e os princípios que regem a formação profissional na Administração Pública.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763326": {
+   "fragment_id": "891753550",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal e institucional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal e institucional\n\n1 - O regime estabelecido no presente diploma aplica-se:\n\na) Aos serviços e organismos da Administração Pública, incluindo os institutos públicos nas modalidades de serviços personalizados e de fundos públicos, e ainda aos serviços que estejam na dependência orgânica e funcional da Presidência da República, da Assembleia da República e das instituições judiciárias;\n\nb) Ao pessoal que, com subordinação hierárquica e independentemente da natureza da sua vinculação, exerça funções nos serviços e organismos referidos na alínea anterior;\n\nc) Aos candidatos sujeitos a um processo de recrutamento e selecção.\n\n2 - O regime do presente decreto-lei aplica-se às administrações regionais dos Açores e da Madeira.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763327": {
+   "fragment_id": "891753551",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceito de formação profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Conceito de formação profissional\n\nPara os efeitos do disposto no presente diploma, entende-se por formação profissional o processo global e permanente através do qual os funcionários e agentes, bem como os candidatos a funcionários sujeitos a um processo de recrutamento e selecção, se preparam para o exercício de uma actividade profissional, através da aquisição e do desenvolvimento de capacidades ou competências, cuja síntese e integração possibilitam a adopção dos comportamentos adequados ao desempenho profissional e à valorização pessoal e profissional.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763328": {
+   "fragment_id": "891753552",
+   "type": 11,
+   "heading": "Artigo 4.º — Direito e dever de formação profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Direito e dever de formação profissional\n\n1 - Os funcionários e agentes da Administração Pública têm o direito de frequentar acções de formação profissional.\n\n2 - Os funcionários e agentes da Administração Pública, bem como os candidatos sujeitos a um processo de recrutamento e selecção, são obrigados a frequentar as acções de formação profissional para que forem designados, especialmente as que se destinem a melhorar o seu desempenho profissional ou a suprir carências detectadas na avaliação do seu desempenho.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763329": {
+   "fragment_id": "891753553",
+   "type": 11,
+   "heading": "Artigo 5.º — Conceito de formador",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Conceito de formador\n\nEntende-se por formador o indivíduo que, reunindo os necessários requisitos científicos, técnicos, profissionais e pedagógicos, está apto a conduzir acções pedagógicas conducentes à melhoria dos conhecimentos e nível técnico dos formandos, de acordo com objectivos e programas previamente definidos.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763330": {
+   "fragment_id": "891753554",
+   "type": 11,
+   "heading": "Artigo 6.º — Estatuto do formador",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Estatuto do formador\n\n1 - O recrutamento, as condições de exercício da actividade de formador e os direitos e deveres dos formadores constam de estatuto próprio, a definir por portaria conjunta dos membros do Governo que tutelam o Instituto Nacional de Administração, o Centro de Estudos de Formação Autárquica e a Administração Pública.\n\n2 - Até à publicação do estatuto do formador, o exercício da função monitória faz-se sem prejuízo do cumprimento das actividades directamente ligadas às missões e objectivos de cada serviço.\n\n3 - Os formadores da Administração Pública podem ministrar formação profissional promovida pelas organizações sindicais, em termos a regulamentar no estatuto do formador.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763331": {
+   "fragment_id": "891753555",
+   "type": 11,
+   "heading": "Artigo 7.º — Validade da formação profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Validade da formação profissional\n\nA formação profissional ministrada 90 dias após a entrada em vigor do presente diploma que não obedeça aos requisitos nele fixados não pode ser considerada e ponderada para os efeitos previstos na alínea b) do n.º 3 do artigo 27.º do Decreto-Lei n.º 498/88, de 30 de Dezembro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763332": {
+   "fragment_id": "891753556",
+   "type": 8,
+   "heading": "Secção II — Objectivos, princípios e estrutura da formação profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "#### Secção II — Objectivos, princípios e estrutura da formação profissional\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763333": {
+   "fragment_id": "891753557",
+   "type": 11,
+   "heading": "Artigo 8.º — Objectivos da formação profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Objectivos da formação profissional\n\nA formação profissional tem, designadamente, por objectivos:\n\na) Contribuir para a eficiência, a eficácia e a qualidade dos serviços;\n\nb) Melhorar o desempenho profissional dos funcionários e agentes da Administração Pública, fomentando a sua criatividade, a inovação, o espírito de iniciativa, o espírito crítico e a qualidade;\n\nc) Assegurar a qualificação dos funcionários para o ingresso, acesso e intercomunicabilidade nas carreiras;\n\nd) Contribuir para a mobilidade dos efectivos da Administração Pública;\n\ne) Contribuir para a realização pessoal e profissional dos funcionários e agentes da Administração, preparando-os para o desempenho das diversas missões para que estão vocacionados;\n\nf) Complementar os conhecimentos técnicos e os fundamentos culturais ministrados pelo sistema educativo.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763334": {
+   "fragment_id": "891753558",
+   "type": 11,
+   "heading": "Artigo 9.º — Princípios",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Princípios\n\nA formação profissional prosseguida na Administração Pública obedece aos seguintes princípios:\n\na) Universalidade, porque abrange genericamente os funcionários e agentes, bem como os candidatos a funcionários, da Administração Pública;\n\nb) Continuidade, porque se reveste de uma função de educação permanente ao longo de toda a carreira;\n\nc) Utilidade funcional, porque se relaciona com as necessidades do serviço público e da sua gestão, com a política de qualidade do pessoal e de emprego público, com as necessidades de carácter organizativo e as aspirações de desenvolvimento sócio-profissional dos respectivos funcionários e agentes;\n\nd) Multidisciplinaridade, porque abarca diversos ramos de conhecimento e técnicas necessárias à satisfação das necessidades dos serviços públicos e à realização e motivação profissional dos respectivos funcionários e agentes, tendo em conta a evolução do saber e dos meios tecnológicos;\n\ne) Desconcentração e descentralização, porque procura diversificar os locais de realização das acções de formação, procurando facilitar o acesso dos funcionários às mesmas;\n\nf) Complementaridade, enquanto sequência natural do sistema educativo.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763335": {
+   "fragment_id": "891753559",
+   "type": 11,
+   "heading": "Artigo 10.º — Estrutura da formação profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Estrutura da formação profissional\n\nA formação profissional na Administração Pública pode ser:\n\na) Formação inicial;\n\nb) Formação contínua.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763336": {
+   "fragment_id": "891753560",
+   "type": 11,
+   "heading": "Artigo 11.º — Formação inicial",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Formação inicial\n\n1 - A formação inicial visa habilitar os formandos com conhecimentos e aptidões para o exercício das respectivas funções.\n\n2 - A formação inicial pode desenvolver-se em dois momentos distintos:\n\na) Em fase anterior à admissão, como condicionante da mesma;\n\nb) Em fase imediatamente posterior à admissão, integrando-se no período probatório ou de provisoriedade da nomeação.\n\n3 - O processo de formação inicial é sempre objecto de avaliação e de classificação.\n\n4 - A definição de cursos, conteúdos programáticos e respectivos regulamentos de funcionamento que se insiram no âmbito da formação inicial são objecto de despacho conjunto dos membros do Governo da tutela e do que tiver a seu cargo a Administração Pública.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763337": {
+   "fragment_id": "891753561",
+   "type": 11,
+   "heading": "Artigo 12.º — Formação contínua",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Formação contínua\n\n1 - A formação contínua visa promover a actualização e a valorização pessoal e profissional dos funcionários e agentes, em consonância com as políticas de desenvolvimento, inovação e mudança da Administração Pública.\n\n2 - Constituem objectivos específicos da formação contínua, nomeadamente, os seguintes:\n\na) O complemento da formação de base, actualizando-a e proporcionando a preparação necessária para o desenvolvimento técnico-científico;\n\nb) A adequação às inovações técnicas e tecnológicas com reflexo directo no desempenho profissional;\n\nc) O desenvolvimento e valorização pessoal e profissional dos funcionários e agentes da Administração, tendo por objectivo o desempenho de tarefas mais complexas, a promoção e a intercomunicabilidade de carreiras.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763338": {
+   "fragment_id": "891753562",
+   "type": 11,
+   "heading": "Artigo 13.º — Modalidades da formação contínua",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Modalidades da formação contínua\n\n1 - A formação contínua reveste as seguintes modalidades:\n\na) A formação de aperfeiçoamento, que visa o aprofundamento e a melhoria das capacidades já existentes;\n\nb) A formação de especialização, que visa conferir e desenvolver ou aprofundar conhecimentos e aptidões profissionais relativamente a determinada técnica ou área do saber, proporcionando o exercício especializado de funções nos correspondentes domínios;\n\nc) A formação para promoção na carreira, que, nos casos e nos termos em que o respectivo regime o preveja, visa especificamente o desenvolvimento dos conhecimentos e aptidões profissionais considerados indispensáveis para o exercício de funções de maior complexidade e responsabilidade no âmbito da mesma carreira;\n\nd) A formação de reconversão profissional, que visa conferir os conhecimentos e as aptidões profissionais indispensáveis ao exercício das tarefas e responsabilidades relativas ao conteúdo funcional da carreira diversa daquela em que o funcionário está integrado, suprindo a falta de habilitações literárias ou qualificações profissionais legalmente estabelecidas para provimento na nova carreira e possibilitando, dessa forma, a sua adequada transição.\n\n2 - A regulamentação da formação de reconversão profissional, no que respeita aos conteúdos programáticos, procedimentos e avaliação, é objecto de despacho conjunto dos membros do Governo da tutela e do que tiver a seu cargo a Administração Pública.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763339": {
+   "fragment_id": "891753563",
+   "type": 11,
+   "heading": "Artigo 14.º — Tipologia",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Tipologia\n\n1 - A formação profissional organiza-se em:\n\na) Cursos de formação de pequena, média e longa duração;\n\nb) Módulos capitalizáveis de cursos de formação;\n\nc) Seminários, encontros, jornadas, palestras, conferências e estágios.\n\n2 - Os tipos de formação referidos nas alíneas a) e b) do número anterior desenvolvem-se em serviço, em sala ou à distância.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763340": {
+   "fragment_id": "891753564",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação da formação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Avaliação da formação\n\n1 - A formação profissional na Administração Publica é objecto de avaliação, quer em função dos objectivos de cada acção quer ao nível do desempenho profissional dos formandos e dos resultados nas organizações.\n\n2 - Em função dos objectivos de cada acção de formação, podem ser adoptados os seguintes instrumentos de avaliação:\n\na) Provas de conhecimentos, sempre que se tenha por objectivo aferir o nível de eficácia relativa de cada participante;\n\nb) Metodologias de dinâmica de grupos, simulações ou métodos de casos, sempre que se pretenda verificar o nível de alteração da capacidade dos participantes;\n\nc) Questionários de avaliação das acções de formação, sempre que se pretenda avaliar a reacção dos formandos, a consecução dos objectivos das acções e o nível técnico-pedagógico das mesmas.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763341": {
+   "fragment_id": "891753565",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de formação profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "### Capítulo II — Sistema de formação profissional\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763342": {
+   "fragment_id": "891753566",
+   "type": 11,
+   "heading": "Artigo 16.º — Entidades competentes para realizar acções de formação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Entidades competentes para realizar acções de formação\n\nSão competentes para a realização de formação na Administração Pública:\n\na) Os organismos centrais e sectoriais de formação com âmbito de actuação para a administração central, regional ou local;\n\nb) Os serviços e organismos da Administração Pública;\n\nc) As entidades formadoras públicas ou privadas que sejam reconhecidas pelos respectivos ministérios da tutela e que se encontrem inseridas, nomeadamente, nos sistemas educativo, científico ou tecnológico;\n\nd) As associações sindicais e profissionais, dentro do seu âmbito de actuação;\n\ne) Quaisquer outras entidades privadas.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763343": {
+   "fragment_id": "891753567",
+   "type": 11,
+   "heading": "Artigo 17.º — Organismos centrais de formação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Organismos centrais de formação\n\n1 - O Instituto Nacional de Administração e o Centro de Estudos e Formação Autárquica são considerados organismos centrais de formação para efeitos do presente diploma.\n\n2 - Compete aos organismos centrais de formação:\n\na) Promover regularmente a realização de diagnósticos de necessidades de formação e estudos de impacte da formação nos seus domínios de intervenção, com base nos elementos fornecidos pelos serviços, nos termos do artigo 21.º, dos quais deve ser dado conhecimento às demais entidades referidas no artigo anterior;\n\nb) Conceber e desenvolver planos anuais de formação de âmbito predominantemente horizontal para os diferentes grupos de pessoal e tendo em conta as políticas do Governo e as principais necessidades identificadas nas suas áreas de actuação;\n\nc) Conceber e desenvolver formação específica para os dirigentes e chefias da Administração Pública;\n\nd) Apoiar os serviços sectoriais de formação através da elaboração e divulgação de instrumentos técnicos, com vista a facilitar a concretização das diferentes fases do processo formativo;\n\ne) Assegurar a preparação pedagógica e a actualização de conhecimentos dos formadores da Administração Pública, tendo em conta a necessidade de manter uma bolsa de formadores que responda às necessidades formativas dos vários serviços nas áreas comuns da Administração;\n\nf) Desenvolver projectos de formação ajustados às necessidades específicas dos serviços da Administração Pública, sempre que para tal solicitados;\n\ng) Elaborar relatórios de actividades que contenham as acções desenvolvidas e o balanço dos resultados obtidos.\n\n3 - O Instituto Nacional de Administração e o Centro de Estudos e Formação Autárquica remetem, até ao dia 30 de Abril de cada ano, ao órgão coordenador a que se refere o artigo 30.º do presente diploma os relatórios de actividades referidos na alínea g) do número anterior.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763344": {
+   "fragment_id": "891753568",
+   "type": 11,
+   "heading": "Artigo 18.º — Organismos sectoriais de formação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Organismos sectoriais de formação\n\n1 - Para efeitos do presente diploma, consideram-se organismos sectoriais de formação:\n\na) As unidades de formação de âmbito ministerial reconhecidas nas respectivas leis orgânicas;\n\nb) As unidades de formação dos serviços ou organismos com mais de 1500 funcionários e agentes reconhecidas nas respectivas leis orgânicas;\n\nc) As unidades de formação dos institutos públicos como tal consideradas nos respectivos estatutos.\n\n2 - Compete aos organismos sectoriais de formação:\n\na) Conceber e realizar planos anuais de formação, associados quer a planos de actividades quer a processos de mudança que ocorram nos vários serviços, tendo em conta a prévia identificação das necessidades específicas de cada sector;\n\nb) Assegurar a consultadoria nas áreas de formação aos serviços da Administração Pública;\n\nc) Elaborar relatórios de actividades que contenham as acções desenvolvidas e o balanço dos resultados obtidos.\n\n3 - Os organismos sectoriais de formação remetem, até ao dia 15 de Abril de cada ano, ao órgão coordenador a que se refere o artigo 30.º do presente diploma os relatórios de actividade referidos na alínea c) do número anterior.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763345": {
+   "fragment_id": "891753569",
+   "type": 11,
+   "heading": "Artigo 19.º — Protocolos com outras entidades",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Protocolos com outras entidades\n\nOs organismos centrais e sectoriais de formação fomentam e apoiam iniciativas de formação e podem estabelecer acordos ou protocolos de cooperação com outros organismos, designadamente universidades, centros de investigação públicos ou privados, nacionais ou estrangeiros, e organizações sindicais e profissionais, visando:\n\na) Promover a aquisição de meios e competências adicionais e o intercâmbio de experiências;\n\nb) Colaborar na concepção, programação e execução de planos e actividades de formação e informação de interesse para ambas as partes;\n\nc) Desenvolver estudos e actividades de investigação em domínios de formação de interesse para a Administração Pública.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763346": {
+   "fragment_id": "891753570",
+   "type": 11,
+   "heading": "Artigo 20.º — Acreditação das entidades formadoras",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Acreditação das entidades formadoras\n\nAs entidades referidas nas alíneas b), c), d) e e) do artigo 16.º, bem como os organismos sectoriais de formação, podem realizar acções de formação, desde que sejam devidamente acreditadas nos termos da portaria conjunta a que se refere o n.º 3 do artigo 14.º do Decreto Regulamentar n.º 15/96, de 23 de Novembro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763347": {
+   "fragment_id": "891753571",
+   "type": 1,
+   "heading": "Capítulo III — Organização da formação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "### Capítulo III — Organização da formação\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763348": {
+   "fragment_id": "891753572",
+   "type": 8,
+   "heading": "Secção I — Iniciativa dos serviços",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "#### Secção I — Iniciativa dos serviços\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763349": {
+   "fragment_id": "891753573",
+   "type": 11,
+   "heading": "Artigo 21.º — Diagnósticos de necessidades e planos de formação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Diagnósticos de necessidades e planos de formação\n\n1 - Os serviços e organismos da Administração são obrigados a elaborar e manter actualizado, anualmente, o diagnóstico de necessidades de formação.\n\n2 - O disposto no número anterior não exclui a obrigatoriedade de os serviços da Administração Pública, em articulação com a elaboração dos respectivos planos de actividades, e fazendo parte integrante dos mesmos, prepararem um plano de formação ou um plano de frequência de acções de formação, consoante possuam ou não unidade de formação criada na respectiva lei orgânica, devidamente orçamentados.\n\n3 - Os diagnósticos de necessidades de formação e os planos de frequência de acções de formação dos serviços devem ser comunicados ao Instituto Nacional de Administração ou ao Centro de Estudos e Formação Autárquica até ao dia 31 de Maio do ano anterior a que respeitam, consoante se refiram à administração central ou autárquica.\n\n4 - A elaboração dos diagnósticos de necessidades de formação, dos planos de formação ou de frequência de acções de formação deve ser precedida de consulta prévia aos funcionários e agentes dos serviços, podendo ser ouvidas as organizações dos trabalhadores que abranjam os respectivos serviços.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763350": {
+   "fragment_id": "891753574",
+   "type": 11,
+   "heading": "Artigo 22.º — Indicadores de gestão",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Indicadores de gestão\n\n1 - Os serviços da Administração Pública que realizem planos e acções de formação ou planos de frequência de acções de formação devem elaborar anualmente relatórios de actividades que contenham as acções desenvolvidas e o balanço dos resultados obtidos e enviá-los, até ao dia 15 de Abril de cada ano, ao órgão coordenador a que se refere o artigo 30.º do presente diploma.\n\n2 - Os relatórios referidos no número anterior integram o relatório de actividades referido no Decreto-Lei n.º 183/96, de 27 de Setembro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763351": {
+   "fragment_id": "891753775",
+   "type": 11,
+   "heading": "Artigo 23.º — Recurso à formação prestada por entidades privadas",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Recurso à formação prestada por entidades privadas\n\n1 - Os serviços da Administração Pública que recorram à formação ministrada por entidades privadas estão obrigados a verificar o cumprimento, por parte destas, dos requisitos constantes do artigo 16.º do Decreto Regulamentar n.º 15/96, de 23 de Novembro, bem como a exigir o comprovativo da respectiva acreditação.\n\n2 - O dirigente máximo dos serviços é responsável financeira e disciplinarmente pelos montantes despendidos quando não se tenha verificado o cumprimento dos requisitos referidos no número anterior.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763352": {
+   "fragment_id": "891753776",
+   "type": 8,
+   "heading": "Secção II — Iniciativa dos funcionários e agentes",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "#### Secção II — Iniciativa dos funcionários e agentes\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763353": {
+   "fragment_id": "891753777",
+   "type": 11,
+   "heading": "Artigo 24.º — Autoformação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 174/2001 - Diário da República n.º 126/2001, Série I-A de 2001-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2001-332215), em vigor a partir de 2001-06-05, produz efeitos a partir de 2001-01-01",
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 70-A/2000 - Diário da República n.º 104/2000, 1º Suplemento, Série I-A de 2000-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2000-510265), em vigor a partir de 2000-05-10, produz efeitos a partir de 2000-04-10"
+   ],
+   "markdown": "###### Artigo 24.º — Autoformação\n\n1 - Entende-se por autoformação o acesso à formação por iniciativa individual do pessoal a que se refere o artigo 2.º do presente diploma que corresponda, directa ou indirectamente, às áreas funcionais em que se encontre inserido ou contribua para o aumento da respectiva qualificação.\n\n2 - Para efeitos do disposto no número anterior, aquele pessoal tem direito, dentro do período laboral, a um crédito para a sua autoformação, por ano civil, correspondente a cem horas, para as carreiras técnica e técnica superior, e a setenta horas, para as restantes carreiras.\n\n3 - Quando se trate de acções formativas com relevância directa nas respectivas áreas funcionais, a apreciar pelo dirigente máximo do serviço, os créditos previstos no número anterior podem ser ultrapassados até ao limite da carga horária prevista para a acção de formação que o funcionário pretende frequentar.\n\n4-   A autoformação é financiada pelo formando, sem prejuízo do disposto no Decreto Regulamentar n.º 15/96, de 23 de Novembro, quanto ao acesso individual à formação.\n\n5 - A autoformação, quando realizada dentro do período laboral, corresponde, para todos os efeitos legais, ao exercício efectivo de funções.\n\n6 - Os serviços e organismos da administração central, regional e local não podem impedir a frequência de acções de autoformação quando estas tenham lugar fora do período laboral.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 174/2001 - Diário da República n.º 126/2001, Série I-A de 2001-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2001-332215), em vigor a partir de 2001-06-05, produz efeitos a partir de 2001-01-01\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 70-A/2000 - Diário da República n.º 104/2000, 1º Suplemento, Série I-A de 2000-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2000-510265), em vigor a partir de 2000-05-10, produz efeitos a partir de 2000-04-10"
+  },
+  "891763354": {
+   "fragment_id": "891753778",
+   "type": 11,
+   "heading": "Artigo 25.º — Procedimentos",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Procedimentos\n\n1 - A autorização para a autoformação será concedida dentro dos limites dos créditos disponíveis por ano.\n\n2 - O pedido de autorização para autoformação deve ser requerido ao dirigente máximo do serviço com a indicação da data de início, da natureza da acção de formação, da sua duração, assim como da entidade que a promove e do local.\n\n3 - O acesso à autoformação é automático para o pessoal não contemplado no plano de formação do serviço ou organismo, sem prejuízo, todavia, do normal funcionamento do serviço.\n\n4 - O funcionário ou agente que tenha beneficiado de uma autorização para autoformação não poderá obter uma nova autorização no mesmo ano civil, sem prejuízo do número seguinte.\n\n5 - A impossibilidade referida no número anterior só é aplicável caso a formação esgote o crédito anual para a formação.\n\n6 - A recusa do acesso à autoformação deve ser fundamentada.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763355": {
+   "fragment_id": "891753779",
+   "type": 11,
+   "heading": "Artigo 26.º — Obrigações do funcionário ou agente",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Obrigações do funcionário ou agente\n\n1 - O funcionário ou agente a quem for concedida a autorização para a formação deve, no fim da mesma, apresentar uma declaração de frequência ou certificado de formação.\n\n2 - Em caso de ausência, o funcionário ou agente deve justificar a sua falta nos termos legais, sob pena de ficar impossibilitado de requerer nova autorização para formação no ano em curso e no seguinte, independentemente da sanção disciplinar que ao caso couber.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763356": {
+   "fragment_id": "891753780",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos consultivos e de coordenação da formação profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "### Capítulo IV — Órgãos consultivos e de coordenação da formação profissional\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763357": {
+   "fragment_id": "891753781",
+   "type": 8,
+   "heading": "Secção I — Órgãos consultivos",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "#### Secção I — Órgãos consultivos\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763358": {
+   "fragment_id": "891753782",
+   "type": 11,
+   "heading": "Artigo 27.º — Órgãos consultivos",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Órgãos consultivos\n\nConstituem órgãos de apoio consultivo em matéria de formação e aperfeiçoamento profissional da Administração Pública:\n\na) A Comissão Intersectorial de Formação (CIF);\n\nb) Os conselhos consultivos sectoriais (CCS).\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763359": {
+   "fragment_id": "891753783",
+   "type": 11,
+   "heading": "Artigo 28.º — Comissão Intersectorial de Formação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Comissão Intersectorial de Formação\n\n1 - A CIF é um órgão consultivo do membro do Governo que tiver a seu cargo a Administração Pública e a respectiva formação profissional, ao qual compete:\n\na) Colaborar na definição e permanente actualização da política de formação e aperfeiçoamento profissional da Administração Pública;\n\nb) Dar parecer sobre os planos anuais de formação do Instituto Nacional de Administração e do Centro de Estudos e Formação Autárquica;\n\nc) Pronunciar-se sobre qualquer outro assunto, a solicitação do seu presidente.\n\n2 - A CIF é composta pelos seguintes membros:\n\na) O membro do Governo que tiver a seu cargo a Administração Pública, que preside;\n\nb) O director-geral da Administração Pública;\n\nc) O presidente do Instituto Nacional de Administração;\n\nd) O presidente do Centro de Estudos e Formação Autárquica;\n\ne) O presidente do Instituto do Emprego e Formação Profissional;\n\nf) Um representante do Ministério do Equipamento, do Planeamento e da Administração do Território;\n\ng) Um representante do Ministério da Educação;\n\nh) Um representante de cada organismo sectorial de formação;\n\ni) Um representante de cada órgão sectorial de formação de âmbito ministerial;\n\nj) Um representante da Direcção-Geral da Administração Pública;\n\nl) Um representante do Secretariado para a Modernização Administrativa;\n\nm) O gestor do Programa Integrado de Formação para a Modernização da Administração Pública (PROFAP);\n\nn) Um representante da administração regional da Madeira e um representante da administração regional dos Açores;\n\no) Três representantes da Associação Nacional de Municípios Portugueses;\n\np) Um representante da Associação Nacional de Freguesias;\n\nq) Seis representantes das associações sindicais representativas dos trabalhadores da função pública;\n\nr) Até três personalidades de reconhecido mérito ligadas à formação e ao ensino, designadas pelo membro do Governo que tiver a seu cargo a Administração Pública.\n\n3 - O presidente da CIF pode delegar a sua competência no director-geral da Administração Pública.\n\n4 - A CIF funciona junto do gabinete do membro do Governo que a preside, cabendo à Direcção-Geral da Administração Pública prestar o apoio técnico e administrativo indispensável ao seu funcionamento.\n\n5 - A CIF aprova o seu regulamento interno, podendo funcionar em reuniões restritas ou plenárias.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763360": {
+   "fragment_id": "891753784",
+   "type": 11,
+   "heading": "Artigo 29.º — Conselhos consultivos sectoriais",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Conselhos consultivos sectoriais\n\n1 - Devem ser constituídos, com representação sindical, conselhos consultivos sectoriais, de âmbito ministerial, que têm por missão colaborar na determinação das necessidades de formação de cada departamento governamental, na definição dos princípios informadores da respectiva política de formação e na execução coordenada dos correspondentes planos de formação.\n\n2 - A competência dos conselhos consultivos sectoriais consta de portaria conjunta dos membros do Governo interessados e daquele que tiver a seu cargo a Administração Pública.\n\n3 - Cada conselho consultivo sectorial aprova o seu próprio regulamento interno.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763361": {
+   "fragment_id": "891753785",
+   "type": 8,
+   "heading": "Secção II — Órgão de coordenação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "#### Secção II — Órgão de coordenação\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763362": {
+   "fragment_id": "891753786",
+   "type": 11,
+   "heading": "Artigo 30.º — Atribuições e competências",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Atribuições e competências\n\n1 - Cabe à Direcção-Geral da Administração Pública coordenar o sistema da formação profissional da Administração Pública, em consonância com as linhas de orientação em matéria de modernização e reforma da Administração Pública.\n\n2 - Para efeito do número anterior, compete à Direcção-Geral da Administração Pública:\n\na) Estudar e propor ao Governo a definição de linhas políticas e estratégias para a formação e aperfeiçoamento profissional da Administração Pública;\n\nb) Recolher dados que permitam avaliar o cumprimento dos planos de formação e os investimentos efectuados nesta matéria pelos organismos centrais e sectoriais de formação, associações sindicais e profissionais e entidades privadas;\n\nc) Estudar e propor ao Governo a metodologia adequada à elaboração de diagnósticos de necessidades de formação revistos nos artigos 17.º, 18.º e 21.º do presente diploma;\n\nd) Elaborar um sistema de indicadores que deve presidir à elaboração dos relatórios de actividades a executar pelas entidades a que se refere a alínea b);\n\ne) Promover, periodicamente, a avaliação dos efeitos da formação ministrada ao nível de eficácia dos serviços, por forma a avaliar o impacte do investimento efectuado nos resultados das organizações;\n\nf) Promover, através dos organismos centrais de formação, a verificação do cumprimento do disposto no artigo 21.º do presente diploma;\n\ng) Promover, periodicamente, auditorias às entidades que desenvolvem a formação profissional para a Administração Pública, quer de âmbito oficial quer de âmbito privado, numa óptica de análise da contribuição da formação profissional para a modernização e reforma da Administração Pública.\n\n3 - A Direcção-Geral da Administração Pública promoverá as necessárias articulações com a Direcção-Geral da Administração Autárquica nas matérias relativas à formação profissional que se destinem à administração local.\n\n4 - Tendo em vista o desenvolvimento das atribuições e competências previstas no presente diploma, proceder-se-á aos necessários ajustamentos na Lei Orgânica da Direcção-Geral da Administração Pública.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763363": {
+   "fragment_id": "891753787",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "### Capítulo V — Disposições finais\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763364": {
+   "fragment_id": "891753788",
+   "type": 11,
+   "heading": "Artigo 31.º — Certificação para o mercado de emprego",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Certificação para o mercado de emprego\n\nA certificação profissional para o mercado de emprego de formação ministrada no âmbito deste diploma rege-se pelas disposições aplicáveis do Decreto-Lei n.º 95/92, de 23 de Maio.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763365": {
+   "fragment_id": "891753789",
+   "type": 11,
+   "heading": "Artigo 32.º — Acompanhamento profissional",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Acompanhamento profissional\n\n1 - O pessoal dirigente e de chefia deve assegurar o acompanhamento profissional, no próprio local de trabalho, visando a transmissão ao funcionário ou agente dos conhecimentos e aptidões profissionais necessários ao exercício do respectivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço prestado.\n\n2 - O acompanhamento profissional cabe na esfera de responsabilidades próprias do pessoal dirigente e de chefia.\n\n3 - O acompanhamento profissional a que se referem os números anteriores não se considera formação profissional para os efeitos do presente diploma e é equiparado a exercício de funções no posto de trabalho.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763366": {
+   "fragment_id": "891753790",
+   "type": 11,
+   "heading": "Artigo 33.º — Revogação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Revogação\n\nSão revogados os Decretos-Leis n.os 9/94 e 140/96, de 13 de Janeiro e 23 de Agosto, respectivamente, e a Portaria n.º 80/94, de 7 de Fevereiro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763367": {
+   "fragment_id": "891753791",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  },
+  "891763368": {
+   "fragment_id": "891753792",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1998. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 19 de Fevereiro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 3 de Março de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 86-A/2016 - Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2016-105658704), em vigor a partir de 2017-01-01"
+  }
+ }
+}

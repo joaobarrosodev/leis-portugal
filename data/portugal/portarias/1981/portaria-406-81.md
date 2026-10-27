@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:573683:por
+title: Portaria n.º 406/81
+short_title: null
+summary: Aprova a emissão de moedas alusivas à Região Autónoma dos Açores
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 406/81
+official_date: null
+publication_date: '1981-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/1981, Série I de 1981-05-21
+  number: '116'
+  series: I
+  supplement: null
+  pages: 1159 - 1159
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/05/11600/11591159.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '573683'
+  dre_path: /dr/detalhe/portaria/406-1981-573683
+  internal: pt:dre:573683:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/406-1981-573683
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/406-1981-573683
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fa3877510cbb9969f21775a6fe00d7584f119c7ae8694cee1e616a19c4a6ceee
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Moeda Comemorativa
+relationships:
+- type: cites
+  target: pt:dre:389376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470785:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:45:27Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 406/81
+
+de 21 de Maio
+
+A [Portaria n.º 307/81](https://diariodarepublica.pt/dr/detalhe/portaria/307-1981-389376), de 31 de Março, aprovou os desenhos que, sob proposta do Governo Regional dos Açores, deverão constar das moedas comemorativas da respectiva autonomia.
+
+Na sequência da orientação decorrente do [Decreto-Lei n.º 299/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1980-470785), de 16 de Agosto, e dando satisfação ao que é pretendido pelo referido Governo Regional, torna-se necessário proceder à alteração do texto da portaria em causa.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, que a [Portaria n.º 307/81](https://diariodarepublica.pt/dr/detalhe/portaria/307-1981-389376), de 31 de Março, passe a ter a seguinte redacção:
+
+Aprovar, sob proposta do Governo Regional dos Açores, a emissão de 19250000$00, em moedas de 25$00, e 27000000$00, em moedas de 100$00, alusivas à Região Autónoma dos Açores.
+
+O verso e anverso das moedas em causa serão em tudo conformes com os desenhos que junto se publicam, excepto no respeitante aos algarismos, que deverão ser, na de 25$00, 25 em lugar de 100.
+
+Ministério das Finanças e do Plano, 8 de Abril de 1981. - Pelo Ministro das Finanças e do Plano, António José Nunes Loureiro Borges, Secretário de Estado Adjunto do Ministro das Finanças e do Plano.

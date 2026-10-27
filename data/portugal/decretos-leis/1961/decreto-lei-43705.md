@@ -1,0 +1,211 @@
+---
+schema_version: '1.0'
+id: pt:dre:170928:por
+title: Decreto-Lei n.º 43705
+short_title: null
+summary: Estabelece o regime de pagamento de portagem pela utilização, total ou parcial, do lanço Lisboa-Vila Franca de Xira
+  da auto-estrada do Norte (estrada nacional n.º 1) e substitui a actual tabela das taxas de portagem na Ponte Marechal Carmona
+  - Revoga os Decretos-Leis n.os 38622 e 39329
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças, das Obras Públicas e das Comunicações
+proposing_entity: null
+official_number: '43705'
+official_date: null
+publication_date: '1961-05-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 119/1961, Série I de 1961-05-22
+  number: '119'
+  series: I
+  supplement: null
+  pages: 620 - 621
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/05/11900/06200621.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '170928'
+  dre_path: /dr/detalhe/decreto-lei/43705-1961-170928
+  internal: pt:dre:170928:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43705-1961-170928
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43705-1961-170928
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 28facf1a9b0f808d69112b1c36682a8189b8128d51957c3c2afdfff2b3de9575
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:37:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auto-estrada
+- Auto-estrada do Norte
+- Ponte
+- Ponte Marechal Carmona
+- Portagem
+relationships:
+- type: amended_by
+  target: pt:dre:442320:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiada as contravenções, não causais de acidentes, contidas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA,\
+    \ DG.IS [294] de 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: cites
+  target: pt:dre:426104:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442320:por
+  label: "Revogado o artigo 7.º pelo DEC LEI.360/83.14.09.1983.PCM, DR.IS [212] de 14.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1983-442320
+  date: '1983-09-14'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:37:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43705
+
+O constante aumento do tráfego verificado no troço da estrada nacional n.º 10 entre Lisboa e Vila Franca de Xira, sobretudo após a entrada em funcionamento da Ponte Marechal Carmona, tornou manifesta a crescente deficiência das condições de segurança e de comodidade oferecidas por esta importante via de comunicação às viaturas que têm de utilizá-la.
+
+O estudo atento do problema pela Junta Autónoma de Estradas, em face da evolução provável do tráfego neste itinerário e dos aspectos económicos envolvidos, conduziu a encarar a construção da nova rodovia com características de auto-estrada que vai ser agora aberta à circulação e que ulteriormente será prolongada com as mesmas características à medida que o aumento do tráfego nas diferentes secções do itinerário Lisboa-Porto o justifique.
+
+A nova estrada irá oferecer vantagens muito importantes de segurança, de economia, de rapidez e de comodidade às viaturas que a prefiram à actual, que, aliás, continuará a poder ser utilizada em regime de livre circulação.
+
+Por outro lado, a realização de empreendimento de tão grande vulto exigiu o dispêndio de elevadas quantias e a sua exploração e conservação ocasionarão encargos muito apreciáveis.
+
+Justifica-se, pois, o regime de portagem que o Governo resolve estabelecer para a auto-estrada do Norte, cujo primeiro lanço agora vai ser aberto à circulação.
+
+Considerou-se oportuno rever o regime de portagem na Ponte Marechal Carmona, estabelecido pelos Decretos-Leis n.º 38622, de 30 de Janeiro de 1952, e n.º 39329, de 24 de Agosto de 1953, dentro do objectivo de aperfeiçoamento e uniformização desse regime para as duas obras e tendo em conta a evolução verificada nas condições de exploração da ponte, que permite uma redução sensível de algumas das actuais taxas, da qual beneficiarão sobretudo as viaturas comerciais.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É estabelecido, a partir da data da sua abertura ao trânsito, o regime de pagamento de portagem pela utilização, total ou parcial, do, lanço Lisboa-Vila Franca de Xira da auto-estrada do Norte (estrada nacional n.º 1).
+
+Art. 2.º A partir da data a que se refere o artigo anterior, a tabela actual das taxas de portagem na Ponte Marechal Carmona é substituída pela constante do presente diploma.
+
+Art. 3.º Para efeito da aplicação das taxas de portagem na auto-estrada e na Ponte Marechal Carmona considerar-se-ão as seguintes classes de veículos:
+
+Classe 1:
+
+Motociclos com ou sem carro lateral.
+
+Automóveis ligeiros de três rodas.
+
+Automóveis ligeiros, com ou sem reboque (até nove lugares, incluindo o condutor, e até 3500 kg de peso bruto total).
+
+Autocarros de passageiros, quando sem passageiros.
+
+Classe 2:
+
+Autocarros de passageiros, de capacidade até vinte lugares, com passageiros.
+
+Automóveis pesados de mercadorias de dois eixos, até ao limite de 10000 kg de peso bruto.
+
+Classe 3:
+
+Autocarros de passageiros, de capacidade de 21 a 50 lugares, com passageiros.
+
+Automóveis pesados de mercadorias de dois eixos, não incluídos na classe 2, ou de três eixos, num caso e noutro até ao limite de 15000 kg de peso bruto.
+
+Classe 4:
+
+Autocarros de passageiros, de capacidade superior a 50 lugares, com passageiros.
+
+Automóveis pesados de mercadorias de três eixos, não incluídos na classe 3, ou de mais de três eixos.
+
+§ único. A contagem dos eixos dos automóveis pesados de mercadorias inclui os dos reboques.
+
+Art. 4.º Serão as seguintes as taxas de portagem a cobrar, salvo o disposto no § único deste artigo:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11900/06200621.pdf)
+
+§ único. Mantêm-se na Ponte Marechal Carmona:
+
+a) A taxa de portagem de $50 por passageiro, não incluindo o condutor e o cobrador (por travessia), para os autocarros de passageiros, considerando-se isentos de taxa quando sem passageiros.
+
+Ficam sujeitos ao mesmo regime os automóveis ligeiros de aluguer para passageiros com sede de exploração nos concelhos de Vila Franca de Xira e de Benavente.
+
+b) As licenças de utilização anuais e semestrais, aos preços de 1500$00 e 1000$00, respectivamente, e a taxa de 12$50 para ida e volta para os automóveis ligeiros.
+
+Art. 5.º São isentos de portagem os veículos automóveis do Estado, do corpo diplomático, dos corpos administrativos e das instituições de assistência ou humanitárias.
+
+§ 1.º São igualmente isentos do pagamento de quaisquer taxas na Ponte Marechal Carmona, em Vila Franca de Xira, os peões, as máquinas de lavoura, os velocípedes, os motociclos, os gados e os veículos de tracção animal.
+
+§ 2.º As isenções a que se refere o corpo deste artigo, quando não digam respeito a viaturas, fàcilmente identificáveis por distintivos legalmente aprovados, só serão concedidas mediante pedido das respectivas entidades à Junta Autónoma de Estradas, devidamente fundamentado.
+
+Art. 6.º A falta de pagamento da importância das portagens fixadas no presente decreto-lei será punida com multa correspondente a vinte vezes a taxa devida e na sua cobrança aplicar-se-á o disposto no artigo 11.º da [Lei n.º 1955](https://diariodarepublica.pt/dr/detalhe/lei/1955-1937-426104), de 17 de Maio de 1937, não cabendo aos autuantes qualquer participação nas multas cobradas.
+
+Art. 7.º É a Junta Autónoma de Estradas autorizada, mediante despacho do Ministro das Obras Públicas, a contratar ou assalariar, além do quadro, o pessoal necessário para o serviço de portagens, com as categorias e as remunerações que forem fixadas no mesmo despacho, com o acordo do Ministro das Finanças.
+
+§ único. Ao pessoal referido neste artigo serão fornecidos fardamentos e impermeáveis para o desempenho do serviço que lhe compete, sendo os encargos suportados pelas verbas que forem destinadas à conservação e exploração das obras.
+
+Art. 8.º No exercício das suas funções os indivíduos empregados nos serviços de cobrança da portagem serão, para todos os efeitos legais, agentes de autoridade, e terão, portanto, competência para o levantamento de autos de notícia sobre as transgressões à referida cobrança e demais normas aplicadas ao trânsito na auto-estrada e na ponte, fazendo aqueles autos fé em juízo até prova em contrário. Nesses autos será dispensada a indicação de testemunhas sempre que as circunstâncias da verificação da infracção não permitam indicá-las.
+
+Art. 9.º Por portaria dos Ministros das Finanças, das Obras Públicas e das Comunicações será regulamentado o serviço de portagem instituída pelo presente diploma e fixadas as regras de trânsito em geral a observar na utilização da auto-estrada e da ponte.
+
+§ único. Não é permitida a circulação na auto-estrada de peões, velocípedes sem motor ou com motor até 50 cm3 de cilindrada, veículos de tracção animal, animais, máquinas de lavoura, equipamento mecânico e veículos automóveis utilizados em lições de condução.
+
+Art. 10.º Inscrever-se-ão anualmente no orçamento da despesa ordinária da Junta Autónoma de Estradas, além das suas dotações normais, as verbas necessárias para fazer face aos encargos de conservação e exploração da auto-estrada e da ponte, em conformidade com as estimativas aprovadas pelos Ministros das Finanças e das Obras Públicas.
+
+§ único. No corrente ano os encargos a que se refere o corpo deste artigo serão liquidados em conta da dotação, a reforçar oportunamente, do capítulo 6.º do orçamento do Ministério das Obras Públicas, subordinada à divisão «Ponte Marechal Carmona, em Vila Franca de Xira» artigo 84.º, n.º 1), que passou a ter a seguinte redacção:
+
+Divisão: «Auto-estrada do Norte e Ponte Marechal Carmona, em Vila Franca de Xira»:
+
+Artigo: «Despesas de conservação e aproveitamento de material»:
+
+Número: «Para pagamento das despesas referidas no artigo 10.º do Decreto-Lei n.º 43705, de 22 de Maio de 1961, incluindo despesas com o pessoal (ver nota a)».
+
+(nota a) Desta verba, ... destina-se a remuneração ao pessoal.
+
+Art. 11.º As importâncias que forem cobradas, sob a forma de portagem e multas, constituirão receita do Estado e serão escrituradas no capítulo 4.º «Taxas - Rendimento de diversos serviços» do orçamento das receitas gerais do Estado, sob as rubricas, respectivamente, de «Portagem» e «Receita nos termos do Código da Estrada».
+
+Art. 12.º O presente diploma revoga os Decretos-Leis n.º 38622, de 30 de Janeiro de 1952, e n.º 39329, de 24 de Agosto de 1953.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 22 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

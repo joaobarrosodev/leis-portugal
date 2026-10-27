@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:1690207:por
+title: Despacho Normativo n.º 10/2012
+short_title: null
+summary: Concessão de um subsídio aos armadores nacionais inscritos no IPTM, I. P., nos termos do Decreto-Lei n.º 196/98,
+  de 10 de julho
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Economia e do Emprego - Gabinete do Secretário de Estado das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 10/2012
+official_date: null
+publication_date: '2012-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 73/2012, Série II de 2012-04-12
+  number: '73'
+  series: II
+  supplement: null
+  pages: 13110 - 13111
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/04/073000000/1311013111.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1690207'
+  dre_path: /dr/detalhe/despacho-normativo/10-2012-1690207
+  internal: pt:dre:1690207:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2012-1690207
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2012-1690207
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 72d39303080036abafffb9c9ba9a5552058ca0b9c879202beeb691e06a9030ad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:07:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armador
+- Embarcação
+- Financiamento
+- Instituto Portuário e dos Transportes Marítimos
+- Marinha Mercante
+- Pessoal do MAR
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485060:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:07:35Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho normativo n.º 10/2012
+
+As «orientações comunitárias sobre os auxílios estatais aos transportes marítimos» adotadas pela Comissão Europeia, em 17 de janeiro de 2004, enquadram as políticas de auxílios aos transportes marítimos dos Estados-Membros, tendo em vista atenuar a falta de competitividade das frotas sob bandeiras de países da União Europeia no mercado mundial.
+
+Do ponto de vista nacional e do ponto de vista da União Europeia, existem razões de fundo para a recuperação, a manutenção e o incremento da frota comunitária de registo convencional, razões que têm sido amplamente divulgadas e evidenciadas a nível interno e ao nível da própria Comissão.
+
+Os encargos com a tripulação ao serviço de navios de registo convencional dos Estados-Membros da Comunidade constituem a componente de custo determinante para a falta de competitividade das respetivas frotas. Um número significativo de Estados-Membros da União Europeia tem vindo a implementar internamente medidas de auxílio tendo por referência a componente fiscal e social associada a esses encargos. Reconhecendo a necessidade de apoiar a marinha de comércio nacional com este tipo de auxílios aos armadores portugueses, de forma a atenuar os encargos com tripulações afetas a navios registados nos órgão locais da Autoridade Marítima (registo convencional português), está disponível no PIDDAC da lei do Orçamento do Estado para 2012 a verba de (euro) 3 700 000,00 para o Projeto de «Investimento Estruturante na Marinha de Comércio Nacional».
+
+Importa, agora, definir as regras de atribuição do montante em causa destinado a atenuar os encargos sociais e fiscais com tripulações afetas a navios de comércio de registo convencional português, relativamente às despesas assumidas pelos armadores em 2011.
+
+Assim, ao abrigo do disposto na [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 31 de dezembro, determina-se o seguinte:
+
+1 - É concedido um subsídio aos armadores nacionais inscritos no IPTM, I. P., nos termos do [Decreto-Lei n.º 196/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1998-485060), de 10 de julho, destinado a atenuar os encargos com tripulações portuguesas ou comunitárias ao serviço de navios de comércio, de bandeira portuguesa de registo convencional e dos quais sejam proprietários, com exceção dos navios de passageiros e dos navios de tráfego local.
+
+2 - O disposto no n.º 1 é igualmente aplicável aos armadores nacionais locatários de navios adquiridos no âmbito de contratos de locação financeira ou que sejam afretadores de navios em casco nu, com opção de compra, registados a título temporário no registo convencional.
+
+3 - O subsídio a atribuir a cada armador tem por referência:
+
+a) O montante global de imposto sobre o rendimento das pessoas singulares correspondente ao ano de 2011, relativo aos tripulantes embarcados em navios abrangidos pelo presente despacho;
+
+b) O montante global das contribuições entregues no ano de 2011 à segurança social, relativo aos descontos efetuados aos tripulantes embarcados em navios abrangidos pelo presente despacho e ao valor suportado por parte do armador relativo aos mesmos tripulantes.
+
+4 - O limite máximo do subsídio a conceder está balizado pela verba disponível para este projeto e obedece aos parâmetros estabelecidos nas linhas de orientação da Comissão Europeia.
+
+5 - Caso o valor global das candidaturas apresentadas ultrapasse a verba disponível para este projeto, o montante a atribuir a cada candidatura deve ser calculado por distribuição pro rata dos montantes totais apurados nos termos do n.º 3.
+
+6 - As candidaturas ao subsídio são dirigidas ao presidente do IPTM, I. P., e entregues na respetiva sede sita no Edifício Vasco da Gama, Rua General Gomes Araújo, 1399-005 Lisboa, devendo os processos de candidatura ser instruídos conforme consta do anexo ao presente despacho.
+
+7 - A apresentação das candidaturas pelos armadores deve ser efetuada no prazo de 30 dias a contar da publicação do presente despacho.
+
+8 - O IPTM, I. P., aprecia as candidaturas e submete o processo à minha aprovação, identificando os montantes de apoio a conceder por armador e por navio.
+
+9 - Fica o IPTM, I. P., encarregue de dar cumprimento a todas as obrigações de comunicação e publicidade previstas no [Decreto-Lei n.º 167/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2008-453551), de 26 de agosto.
+
+3 de abril de 2012. - O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro.
+
+## ANEXO — Elementos a apresentar pelos armadores no processo de candidatura
+
+1 - Nos termos do n.º 6, as candidaturas devem ser dirigidas ao presidente do IPTM, I. P., devendo do respetivo processo constar a identificação do armador, o valor global do subsídio a que se candidata, discriminando, por navio, o montante de:
+
+a) Contribuições para a segurança social por parte do armador relativas aos tripulantes;
+
+b) Contribuições para a segurança social por parte dos tripulantes;
+
+c) Imposto sobre o rendimento das pessoas singulares descontado aos mesmos tripulantes.
+
+2 - Para efeitos de cálculo do valor de subsídio a que se candidata, o armador deve utilizar o Modelo «InvEst 2012», disponível em www.imarpor.pt, opção «Informações - Áreas de Intervenção - Marinha de Comércio».
+
+3 - O modelo referido no número anterior, depois de devidamente preenchido, é entregue no IPTM, I. P., em suporte informático, ou enviado por correio eletrónico, para o endereço piddac.dtm@imarpor.pt, passando a ser parte integrante do processo de candidatura.
+
+4 - O requerimento deve ainda ser acompanhado dos seguintes elementos:
+
+a) Modelos de «Declaração de Remunerações» dos trabalhadores ao seu serviço entregues nos serviços do sistema de segurança social e comprovativos dos pagamentos efetuados relativos ao ano de 2011;
+
+b) Declarações mensais de retenção na fonte de IRS dos trabalhadores ao seu serviço em 2011 e respetivos comprovativos de pagamento;
+
+c) Listas ou rol de tripulação dos navios;
+
+d) Cópia da declaração anual de rendimentos, conforme artigo 114.º do CIRS, por tripulante embarcado em navios abrangidos pelo presente despacho, devidamente assinada e carimbada pela entidade patronal.
+
+5 - Os documentos referidos nas alíneas a) a c) podem ser apresentados por cópia, a certificar pelos serviços do IPTM, I. P., por comparação com o original, nos termos da lei.
+
+205954695

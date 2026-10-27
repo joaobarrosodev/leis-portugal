@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:667353:por
+title: Decreto-Lei n.º 416/99
+short_title: null
+summary: Redefine o regime de integração na Administração Pública do pessoal oriundo de Timor Leste vinculado ao Estado ou
+  aos corpos administrativos daquele território e estabelece condições especiais para a respectiva aposentação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 416/99
+official_date: null
+publication_date: '1999-10-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 246/1999, Série I-A de 1999-10-21
+  number: '246'
+  series: I
+  supplement: null
+  pages: 7015 - 7016
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/10/246a00/70157016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/416/1999/10/21/p/dre/pt/html
+  oj: null
+  dre: '667353'
+  dre_path: /dr/detalhe/decreto-lei/416-1999-667353
+  internal: pt:dre:667353:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1999-667353
+  metadata_url: https://data.dre.pt/eli/dec-lei/416/1999/10/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1999-667353
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0380f456692b45a1821ac520921e5200d1f34043ec3bc37a1163ae2f010685a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Aposentação
+- Caixa Geral de Aposentações
+- Cidadão Nacional
+- Direcção Geral da Administração Pública
+- Função Pública
+- Funcionário Público
+- Integração de Trabalhadores
+- Pessoal Contratado
+- Prazo
+- Progressão na Carreira
+- Prova
+- Reclassificação de Pessoal
+- Remuneração
+- Residência
+- Sistema Retributivo
+- Tempo de Serviço
+- Timor Leste
+- Trabalhador
+- Trabalhador Assalariado
+relationships:
+- type: amended_by
+  target: pt:dre:545575:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:147254:por
+  label: null
+  source: http://data.dre.pt/eli/lei/1/1995/01/14/p/dre
+- type: cites
+  target: pt:dre:178116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:533395:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/1997/01/17/p/dre
+- type: cites
+  target: pt:dre:533396:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/14/1997/01/17/p/dre
+- type: repealed_by
+  target: pt:dre:545575:por
+  label: "Revogado , no que se refere ao quadro de afectação e ao regime aplicável ao respectivo pessoal, pela LEI.53/2006.07.12.2006.AR,\
+    \ DR.IS [235] de 07.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2006-545575
+  date: '2006-12-07'
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:12:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 416/99
+
+de 21 de Outubro
+
+Através do [Decreto-Lei n.º 420/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1985-178116), de 22 de Outubro, e da [Lei n.º 1/95](https://diariodarepublica.pt/dr/detalhe/lei/1-1995-147254), de 14 de Janeiro, foi definido e regulamentado o direito de integração no quadro de efectivos interdepartamentais (QEI) dos funcionários e agentes do Estado e dos corpos administrativos, bem como dos trabalhadores contratados ou assalariados, que exerceram funções em Timor Leste e que estavam vinculados àquelas entidades em 22 de Janeiro de 1975.
+
+Após a extinção do QEI, determinada pelo [Decreto-Lei n.º 14/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1997-533396), de 17 de Janeiro, aquele pessoal passou a estar abrangido pelo [Decreto-Lei n.º 13/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1997-533395), da mesma data, operando-se agora a sua integração mediante afectação à Direcção-Geral da Administração Pública. Importa, no entanto, introduzir alguns ajustamentos àquele regime, designadamente no que respeita ao [Decreto-Lei n.º 420/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1985-178116), de 22 de Outubro.
+
+Considerando a existência de diversos casos que carecem de adequada tutela jurídica e as dificuldades que aos interessados se têm revelado na obtenção dos documentos comprovativos da respectiva vinculação, em 22 de Janeiro de 1975, importa também introduzir outras medidas tendentes a facilitar o seu ingresso na Administração Pública Portuguesa ou a sua aposentação através da Caixa Geral de Aposentações.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito e objecto
+
+1 - Aos funcionários e agentes do Estado e dos corpos administrativos, bem como aos trabalhadores contratados ou assalariados, que exerceram funções em Timor Leste e estavam vinculados a estas entidades em 22 de Janeiro de 1975 é reconhecido o direito de manutenção do vínculo ou da relação jurídica com a Administração Pública Portuguesa, desde que reúnam, cumulativamente, os seguintes requisitos:
+
+a) Sejam cidadãos portugueses;
+
+b) Residam em Portugal.
+
+2 - Ao pessoal referido no número anterior que apenas consiga comprovar o exercício de funções em Timor Leste em período anterior a 22 de Janeiro de 1975, ou posterior, até 31 de Julho de 1975, é reconhecido o direito de ingresso na Administração Pública Portuguesa.
+
+3 - A prova de vinculação é feita através de quaisquer documentos ou publicações oficiais que demonstrem inequivocamente o exercício de funções nos termos exigidos nos n.os 1 ou 2.
+
+###### Artigo 2.º — Integração na Administração Pública
+
+1 - O pessoal a quem seja reconhecido o direito de manutenção do vínculo ou da relação jurídica ou o direito de ingresso é integrado na Administração Pública Portuguesa, mediante afectação à Direcção-Geral da Administração Pública (DGAP), nos termos do [Decreto-Lei n.º 13/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1997-533395), de 17 de Janeiro.
+
+2 - O pessoal referido no número anterior é integrado em situação jurídico-funcional correspondente à carreira, categoria e forma de provimento detidas em Timor Leste, de que faça prova, tendo por referência, para efeitos de inserção no actual sistema remuneratório, as seguintes referências:
+
+a) Se a categoria de origem tiver correspondência com uma carreira horizontal, o pessoal beneficia de uma revalorização de duas letras de vencimento acima da situação detida na situação de origem;
+
+b) Se a categoria de origem tiver correspondência com uma carreira vertical, o pessoal é reposicionado no escalão e índice da categoria imediatamente superior, que garanta um impulso mínimo de 10 pontos.
+
+3 - O pessoal integrado na Administração Pública tem direito a auferir remuneração a partir do 1.º dia do mês seguinte ao da apresentação, na Direcção-Geral da Administração Pública, do requerimento devidamente instruído.
+
+4 - A colocação do pessoal em actividade nos serviços e organismos da Administração Pública, da competência da Direcção-Geral da Administração Pública, opera-se por integração em lugares a extinguir quando vagarem, automaticamente criados para o efeito.
+
+###### Artigo 3.º — Contagem do tempo de serviço
+
+1 - Ao pessoal abrangido pelo presente diploma é contado, para todos os efeitos legais, o tempo comprovado de serviço efectivamente prestado ao Estado Português, designadamente em Timor Leste, em Macau e nas antigas províncias ultramarinas.
+
+2 - Ao pessoal abrangido pelo n.º 1 do artigo 1.º é ainda contado como tempo de serviço efectivo, para todos os efeitos legais, designadamente antiguidade, aposentação e sobrevivência, o período de tempo compreendido entre 22 de Janeiro de 1975 e a data de afectação à Direcção-Geral da Administração Pública.
+
+3 - A contagem do tempo de serviço para efeitos de aposentação e de sobrevivência, nos termos do número anterior, faz-se com dispensa de pagamento das respectivas quotas.
+
+###### Artigo 4.º — Aposentação e sobrevivência
+
+1 - Ao pessoal abrangido pelo artigo 1.º, independentemente do requisito da residência em Portugal, pode ser concedida a aposentação, mediante requerimento, a apresentar pelo interessado na Caixa Geral de Aposentações (CGA), no prazo de 120 dias contados da data da publicação do presente diploma, desde que tenha tempo de serviço efectivo não inferior a cinco anos contados para efeitos de aposentação.
+
+2 - O direito à pensão vence-se a partir do 1.º dia do mês seguinte ao da apresentação pelo interessado, na CGA, de requerimento devidamente instruído, não podendo, em qualquer caso, reportar-se a data anterior à da verificação dos requisitos exigidos no número anterior.
+
+3 - A Direcção-Geral da Administração Pública indicará à CGA, a pedido desta, o vencimento actual correspondente à categoria que o interessado possuía à data da cessação efectiva de funções, a qual não poderá ser posterior a 31 de Julho de 1975.
+
+4 - O disposto nos números anteriores é aplicável, por falecimento dos titulares do direito à pensão, aos respectivos herdeiros hábeis para efeitos de concessão, nos termos da lei geral, de pensões de sobrevivência.
+
+###### Artigo 5.º — Salvaguarda de direitos
+
+1 - Para os efeitos previstos no presente diploma, consideram-se válidos os requerimentos entrados ao abrigo da [Lei n.º 1/95](https://diariodarepublica.pt/dr/detalhe/lei/1-1995-147254), de 14 de Janeiro, sem prejuízo da apresentação, pelos interessados, dos elementos de instrução que ainda se revelem necessários.
+
+2 - O tempo de serviço, entre 22 de Janeiro de 1975 e a respectiva apresentação, contado ao pessoal oriundo de Timor Leste ainda afecto à Direcção-Geral da Administração Pública, ou já integrado nos quadros dos serviços da Administração Pública, releva para efeitos de promoção na carreira e categoria que detinha ou para que haja sido reclassificado.
+
+3 - O pessoal a que se refere o n.º 1 pode, ainda, durante o período de instrução, requerer a respectiva aposentação, mediante requerimento a apresentar na Direcção-Geral da Administração Pública, desde que reúna os requisitos previstos no artigo anterior.
+
+###### Artigo 6.º — Revogação
+
+É revogado o [Decreto-Lei n.º 420/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1985-178116), de 22 de Outubro.
+
+Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 7 de Outubro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 13 de Outubro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

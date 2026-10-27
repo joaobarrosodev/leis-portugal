@@ -1,0 +1,371 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105263937:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-108078202",
+ "dre_path": "/dr/detalhe/decreto-lei/82-2016-105263937",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-11-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "125277230",
+    "108078294",
+    "108078295",
+    "108078296",
+    "108078297",
+    "108078298",
+    "108078299",
+    "108078300",
+    "108078301"
+   ]
+  },
+  {
+   "date": "2017-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108074431:por",
+     "title": "Lei n.º 103/2017",
+     "published": "2017-08-30",
+     "dre_path": "/dr/detalhe/lei/103-2017-108074431"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "108078293",
+    "108078313",
+    "108078318",
+    "108078314",
+    "108078315",
+    "108078316",
+    "108078317",
+    "108078309",
+    "108078310",
+    "108078311",
+    "108078312"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125234992:por",
+     "title": "Decreto-Lei n.º 151/2019",
+     "published": "2019-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/151-2019-125234992"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "125277230",
+    "125277231",
+    "125277232",
+    "125277233",
+    "125277234",
+    "125277235",
+    "125277236",
+    "125277237",
+    "125277238",
+    "125277239",
+    "125277240"
+   ]
+  }
+ ],
+ "fragments": {
+  "125277230": {
+   "fragment_id": "108078203",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 82/2016\n\nde 28 de novembro\n\nO serviço de transporte público de passageiros na área urbana do Porto e seus concelhos vizinhos - Gondomar, Maia, Matosinhos, Valongo e Vila Nova de Gaia - tem sido regulado, ao longo dos tempos, por diversos tipos de instrumentos, de fonte legislativa e contratual, representativos de diferentes circunstâncias e vicissitudes históricas.\n\nOriginariamente criado em 1946, pelo Decreto-Lei n.º 35717, de 24 de junho de 1946, e depois pelo Decreto-Lei n.º 38144, de 30 de dezembro de 1950, que o instituiu como serviço municipalizado da Câmara Municipal do Porto, o Serviço de Transportes Coletivos do Porto foi especificamente criado para prosseguir a exploração dos transportes coletivos na cidade do Porto e nos concelhos limítrofes que vinha a ser realizada pela Companhia Carris de Ferro do Porto. Em 1975, por meio do Decreto-Lei n.º 33/75, de 28 de janeiro, este serviço foi estadualizado.\n\nPosteriormente, em 1994, o Serviço de Transportes Coletivos do Porto passou a revestir a sua atual forma de sociedade anónima de capitais públicos, detida integralmente pelo Estado Português, passando a designar-se Sociedade de Transportes Coletivos do Porto, S. A. (STCP, S. A.), nos termos do Decreto-Lei n.º 202/94, de 23 de julho. A então recém-constituída STCP, S. A., tinha por objeto principal a exploração, em exclusividade, do transporte público rodoviário de passageiros na área urbana do Grande Porto, podendo ainda explorar, acessoriamente, transportes coletivos de passageiros de superfície fora desta área geográfica.\n\nA 8 de agosto de 2014, foi celebrado pelo XIX Governo Constitucional o contrato de serviço público entre o Estado Português e a STCP, S. A., tendo em vista, entre outros aspetos, adequar os termos e as condições da prestação do serviço público por aquela empresa ao disposto no Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, relativo aos serviços públicos de transporte ferroviário e rodoviário de passageiros. A 10 de dezembro do mesmo ano foi ainda efetuado um aditamento ao referido contrato, no sentido de alterar o seu prazo de vigência para nove anos.\n\nConsiderando o percurso histórico da STCP, S. A., determinou-se que o Estado seria o titular das atribuições e das competências de autoridade de transportes no âmbito do serviço público por aquela operado, até 31 de dezembro de 2024, data correspondente ao termo do prazo da relação de serviço público em vigor.\n\nEm 2015, entrou em vigor o Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado pela Lei n.º 52/2015, de 9 de junho, alterado pela Lei n.º 7-A/2016, de 30 de março, que veio complementar o disposto no mencionado Regulamento (CE) n.º 1370/2007 e, ainda, prever regras de delegação e partilha de competências do Estado enquanto autoridade de transportes nas entidades públicas em cujo território se desenvolva o serviço público de transporte de passageiros em causa.\n\nNão obstante o referido, e tendo em vista a concretização do intuito descentralizador subjacente ao RJSPTP, este consagrou a faculdade de o Estado delegar as suas competências de autoridade de transportes noutras entidades públicas, sendo essa a base legal que fundamenta a descentralização agora aprovada, quanto à STCP, S. A., a favor da Área Metropolitana do Porto (AMP) - uma vez que aquela serve seis dos 17 municípios que a compõem. Essa intenção encontra-se em linha, de resto, com a regra geral prevista no artigo 8.º do RJSPTP, segundo a qual a AMP é a autoridade de transportes competente quanto aos serviços públicos de transporte de passageiros intermunicipais que se desenvolvem integral ou maioritariamente dentro da respetiva área geográfica.\n\nO Programa do XXI Governo Constitucional é muito claro a respeito da necessidade de reforçar as competências das autarquias locais e entidades intermunicipais, de acordo com os princípios constitucionais da descentralização e subsidiariedade, assumindo-se que estas são as pessoas coletivas melhor vocacionadas para a gestão de alguns serviços públicos essenciais numa dimensão de proximidade. Nesse sentido, o serviço de transporte público coletivo de passageiros na AMP não deve, naturalmente, constituir uma exceção a esta orientação política e a este central compromisso governativo com os municípios e a população da área urbana do Porto e seus arredores.\n\nNeste sentido, o Governo pretende promover um novo modelo de gestão descentralizado do serviço público de transporte prestado pela STCP, S. A., através da delegação de competências de autoridade de transportes na AMP, em linha com o entendimento já alcançado entre ambos. Para além disso, torna-se evidente que a realização adequada dos princípios constitucionais da descentralização e subsidiariedade envolve, além da delegação de poderes públicos de autoridade de transportes, a possibilidade de a AMP poder aceder à gestão operacional da STCP, S. A. - único modo que permitirá à AMP estabelecer contacto direto com os utentes do serviço público e regular as relações que estes estabelecem com o operador, de forma adequada, equilibrada e conforme com o interesse das populações concelhias em causa.\n\nO exercício pela AMP de poderes de autoridade de transportes e de gestão operacional do serviço público em causa visa maximizar a segurança, eficiência, qualidade e menor custo dos transportes públicos para os utentes dos municípios servidos pela STCP, S. A.: Porto, Gondomar, Maia, Matosinhos, Valongo e Vila Nova de Gaia.\n\nImporta ressalvar que este novo modelo de gestão tem uma natureza temporária e transitória, estando os instrumentos jurídicos necessários à sua concretização pensados para um horizonte máximo de sete anos. Perspetiva-se que, até ao termo deste prazo, possa ocorrer a futura e definitiva descentralização da direção, gestão e exploração do serviço público de transporte por autocarro hoje operado pela STCP, S. A., a favor dos municípios por ele servidos. O objetivo final partilhado pelo Estado e pelos municípios em causa será, portanto, a transferência definitiva das competências de autoridade de transportes que atualmente pertencem ao Estado e, bem assim, a integração da STCP, S. A., no setor empresarial local.\n\nNeste contexto, o presente decreto-lei procede ao enquadramento e habilitação dos passos integrantes da operação de descentralização acima descrita. Para o efeito, criam-se as condições para a constituição de um mecanismo de articulação no seio da AMP - a Unidade Técnica de Gestão (UTG-STCP) - que servirá de suporte ao exercício das competências de autoridade de transporte sobre o operador. Sublinha-se que o RJSPTP habilita, especificamente, a adoção do modelo de organização mais adequado ao exercício das referidas competências relativamente aos serviços desenvolvidos no território de vários municípios, neste caso no âmbito da própria área metropolitana.\n\nDeve, ainda, ser mencionado que o Estado e o AMP procederam a uma avaliação prévia sobre a viabilidade e interesse do novo modelo de gestão da STCP, S. A., nas suas diversas vertentes, tendo no essencial concluído, entre outros aspetos, que a respetiva implementação: (i) não implica um aumento da despesa pública global, (ii) promove um aumento da eficiência da gestão dos recursos afetos ao serviço público de transporte coletivo de passageiros, (iii) assegura a aproximação das decisões aos cidadãos, a coesão territorial, o reforço da solidariedade inter-regional, a melhoria da qualidade dos serviços prestados às populações e a racionalização dos recursos disponíveis, e (iv) salvaguarda a articulação entre os diversos níveis da Administração Pública. Em face dos resultados obtidos, no sentido da verificação material dos requisitos dos quais depende a delegação de competências para as autarquias locais e entidades intermunicipais, consideram-se, sem prejuízo da correspondente referência no contrato interadministrativo em causa, cumpridos os requisitos previstos nos n.os 1, 2, 3 e 5 do artigo 115.º, por remissão do artigo 122.º da Lei n.º 75/2013, de 12 de setembro, que estabeleceu o regime jurídico das autarquias locais, aprovou o estatuto das entidades intermunicipais e estabeleceu o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais, alterada pelas Leis n.os 25/2015, de 30 de março, 52/2015, de 9 de junho, 69/2015, de 16 de julho, e 7-A/2016, de 30 de março.\n\nPor outro lado, considerando que o novo modelo de gestão da STCP, S. A., foi objeto de apreciação e negociação pelos membros do Governo responsáveis pelas áreas dos transportes urbanos e das finanças, na fase conducente à elaboração do presente decreto-lei, dispensa-se a observância do procedimento autorizativo previsto no n.º 5 do artigo 10.º do RJSPTP, até pelo facto de se prever a celebração desta delegação, através de contrato interadministrativo, num diploma com forma de decreto-lei e não através do ato previsto no n.º 3 do artigo 5.º do RJSPTP. Os restantes requisitos previstos nos n.os 5 e 8 do artigo 10.º do RJSPTP, por seu lado, serão observados na celebração do contrato interadministrativo em causa.\n\nPor último, o presente decreto-lei surge na sequência da aprovação, no dia 25 de junho de 2016 de um «Memorando de Entendimento sobre o novo modelo de gestão da STCP, S. A.», entre o Estado Português, a STCP, S. A., a AMP e os municípios do Porto, Gondomar, Maia, Matosinhos, Valongo e Vila Nova de Gaia.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108078294": {
+   "fragment_id": "108078204",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei tem por objeto:\n\na) A delegação, parcial e temporária, do exercício de competências de autoridade de transportes, do Estado para a Área Metropolitana do Porto (AMP), relativas ao serviço público de transporte de passageiros explorado pela Sociedade de Transportes Coletivos do Porto, S. A. (STCP);\n\nb) A delegação, parcial e temporária, das competências de gestão operacional da STCP."
+  },
+  "108078295": {
+   "fragment_id": "108078205",
+   "type": 11,
+   "heading": "Artigo 2.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Delegação de competências\n\n1 - É determinada a delegação, na AMP, das competências do Estado enquanto autoridade de transportes competente no que respeita ao serviço público de transporte de passageiros explorado pela STCP, previstas no n.º 2 do artigo 4.º da Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março (RJSPTP).\n\n2 - A delegação referida no número anterior, com eventual partilha de competências, é feita através de contrato interadministrativo a celebrar entre o Estado e a AMP, nos termos do artigo 120.º da Lei n.º 75/2013, de 12 de setembro, alterada pelas Leis n.os 25/2015, de 30 de março, 52/2015, de 9 de junho, 69/2015, de 16 de julho, e 7-A/2016, de 30 de março.\n\n3 - O contrato interadministrativo referido no número anterior pode ser celebrado por um período máximo de sete anos.\n\n4 - Ao procedimento de formação do contrato interadministrativo de delegação e partilha de competências referido no n.º 2 do presente artigo não se aplica o disposto no n.º 5 do artigo 10.º do RJSPTP."
+  },
+  "108078296": {
+   "fragment_id": "108078206",
+   "type": 11,
+   "heading": "Artigo 3.º — Unidade técnica de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Unidade técnica de suporte\n\n1 - Nos termos do n.º 2 do artigo 8.º do RJSPTP, a AMP pode criar, em articulação com os municípios interessados, uma unidade técnica de suporte aos seus órgãos para o exercício das competências de autoridade de transportes relativamente à atividade desenvolvida pela STCP.\n\n2 - A unidade referida no número anterior não tem personalidade jurídica e é dotada de autonomia funcional.\n\n3 - A composição, organização e funcionamento da unidade referida no número anterior é definida por um contrato de constituição e delegação de competências a celebrar entre a AMP e os municípios que exerçam conjuntamente a sua direção, no âmbito das competências delegadas pelo Estado na AMP."
+  },
+  "108078297": {
+   "fragment_id": "108078207",
+   "type": 11,
+   "heading": "Artigo 4.º — Modificação do contrato de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modificação do contrato de serviço público\n\n1 - O Estado, a STCP e a AMP procedem, após celebração do contrato interadministrativo a que se refere o n.º 2 do artigo 2.º, à modificação do contrato de serviço público em vigor, com vista à sua adaptação ao modelo de gestão previsto no presente decreto-lei.\n\n2 - Por meio da celebração do contrato de delegação e partilha de competências previsto no presente decreto-lei, entre o Estado e a AMP, esta assume todas as posições jurídicas, direitos e obrigações de que o Estado é titular no contrato de serviço público."
+  },
+  "108078298": {
+   "fragment_id": "108078208",
+   "type": 11,
+   "heading": "Artigo 5.º — Compensações financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Compensações financeiras\n\nOs municípios da AMP que venham a dirigir o serviço referido no artigo 3.º do presente decreto-lei, nos termos do seu n.º 3, podem assumir o pagamento de compensações financeiras por obrigações de serviço público previstas no contrato de serviço público com a STCP, em termos a acordar com a AMP."
+  },
+  "108078299": {
+   "fragment_id": "108078209",
+   "type": 11,
+   "heading": "Artigo 6.º — Contrato de gestão operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contrato de gestão operacional\n\n1 - O Estado pode transferir para a AMP, por via de contrato, a gestão operacional da STCP, independentemente da alienação das ações representativas do capital social da empresa, por um período que coincide com o período de vigência do contrato interadministrativo previsto no artigo 2.º, que não pode ser superior a sete anos.\n\n2 - No contrato referido no número anterior, as partes definem metas que permitam assegurar uma contínua trajetória de equilíbrio financeiro da empresa, tendo por objetivo alcançar um resultado operacional bruto tendencialmente positivo.\n\n3 - No contrato referido no n.º 1, o Estado pode atribuir à AMP o direito de propor até quatro dos cinco membros do conselho de administração da STCP, de entre os quais o respetivo presidente, competindo necessariamente ao membro do Governo responsável pela área das finanças a indicação de um membro do conselho de administração responsável pela área financeira.\n\n4 - Ao membro do conselho de administração responsável pela área financeira a que se refere o número anterior compete a gestão da dívida histórica da empresa, requerendo-se a sua aprovação expressa relativamente a qualquer matéria cujo impacto financeiro seja superior a 1 % do ativo líquido da empresa.\n\n5 - A falta de anuência do membro do conselho de administração responsável pela área financeira relativamente a qualquer matéria referida no número anterior, e com o impacto aí mencionado, determina a sua submissão a deliberação da assembleia geral da STCP."
+  },
+  "108078300": {
+   "fragment_id": "108078210",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma transitória\n\nNo período de vigência dos contratos referidos nos artigos 2.º e 6.º do presente decreto-lei, aplicam-se as seguintes regras quanto à composição e funcionamento do conselho de administração da STCP, sem prejuízo do demais disposto nos estatutos da STCP, aprovados em anexo ao Decreto-Lei n.º 202/94, de 23 de julho:\n\na) O conselho de administração é composto por cinco membros, sendo um designado pelo membro do Governo responsável pela área das finanças, e podendo até quatro, incluindo o presidente, ser propostos pela AMP, sem prejuízo de a respetiva eleição competir, nos termos dos Estatutos, à assembleia geral;\n\nb) Ao administrador indicado pelo membro do Governo responsável pela área das finanças compete necessariamente a responsabilidade pela área financeira, nos termos dos n.os 3 a 5 do artigo anterior."
+  },
+  "108078301": {
+   "fragment_id": "108078211",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108078293": {
+   "fragment_id": "108078203",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 82/2016\n\nde 28 de novembro\n\nO serviço de transporte público de passageiros na área urbana do Porto e seus concelhos vizinhos - Gondomar, Maia, Matosinhos, Valongo e Vila Nova de Gaia - tem sido regulado, ao longo dos tempos, por diversos tipos de instrumentos, de fonte legislativa e contratual, representativos de diferentes circunstâncias e vicissitudes históricas.\n\nOriginariamente criado em 1946, pelo Decreto-Lei n.º 35717, de 24 de junho de 1946, e depois pelo Decreto-Lei n.º 38144, de 30 de dezembro de 1950, que o instituiu como serviço municipalizado da Câmara Municipal do Porto, o Serviço de Transportes Coletivos do Porto foi especificamente criado para prosseguir a exploração dos transportes coletivos na cidade do Porto e nos concelhos limítrofes que vinha a ser realizada pela Companhia Carris de Ferro do Porto. Em 1975, por meio do Decreto-Lei n.º 33/75, de 28 de janeiro, este serviço foi estadualizado.\n\nPosteriormente, em 1994, o Serviço de Transportes Coletivos do Porto passou a revestir a sua atual forma de sociedade anónima de capitais públicos, detida integralmente pelo Estado Português, passando a designar-se Sociedade de Transportes Coletivos do Porto, S. A. (STCP, S. A.), nos termos do Decreto-Lei n.º 202/94, de 23 de julho. A então recém-constituída STCP, S. A., tinha por objeto principal a exploração, em exclusividade, do transporte público rodoviário de passageiros na área urbana do Grande Porto, podendo ainda explorar, acessoriamente, transportes coletivos de passageiros de superfície fora desta área geográfica.\n\nA 8 de agosto de 2014, foi celebrado pelo XIX Governo Constitucional o contrato de serviço público entre o Estado Português e a STCP, S. A., tendo em vista, entre outros aspetos, adequar os termos e as condições da prestação do serviço público por aquela empresa ao disposto no Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, relativo aos serviços públicos de transporte ferroviário e rodoviário de passageiros. A 10 de dezembro do mesmo ano foi ainda efetuado um aditamento ao referido contrato, no sentido de alterar o seu prazo de vigência para nove anos.\n\nConsiderando o percurso histórico da STCP, S. A., determinou-se que o Estado seria o titular das atribuições e das competências de autoridade de transportes no âmbito do serviço público por aquela operado, até 31 de dezembro de 2024, data correspondente ao termo do prazo da relação de serviço público em vigor.\n\nEm 2015, entrou em vigor o Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado pela Lei n.º 52/2015, de 9 de junho, alterado pela Lei n.º 7-A/2016, de 30 de março, que veio complementar o disposto no mencionado Regulamento (CE) n.º 1370/2007 e, ainda, prever regras de delegação e partilha de competências do Estado enquanto autoridade de transportes nas entidades públicas em cujo território se desenvolva o serviço público de transporte de passageiros em causa.\n\nNão obstante o referido, e tendo em vista a concretização do intuito descentralizador subjacente ao RJSPTP, este consagrou a faculdade de o Estado delegar as suas competências de autoridade de transportes noutras entidades públicas, sendo essa a base legal que fundamenta a descentralização agora aprovada, quanto à STCP, S. A., a favor da Área Metropolitana do Porto (AMP) - uma vez que aquela serve seis dos 17 municípios que a compõem. Essa intenção encontra-se em linha, de resto, com a regra geral prevista no artigo 8.º do RJSPTP, segundo a qual a AMP é a autoridade de transportes competente quanto aos serviços públicos de transporte de passageiros intermunicipais que se desenvolvem integral ou maioritariamente dentro da respetiva área geográfica.\n\nO Programa do XXI Governo Constitucional é muito claro a respeito da necessidade de reforçar as competências das autarquias locais e entidades intermunicipais, de acordo com os princípios constitucionais da descentralização e subsidiariedade, assumindo-se que estas são as pessoas coletivas melhor vocacionadas para a gestão de alguns serviços públicos essenciais numa dimensão de proximidade. Nesse sentido, o serviço de transporte público coletivo de passageiros na AMP não deve, naturalmente, constituir uma exceção a esta orientação política e a este central compromisso governativo com os municípios e a população da área urbana do Porto e seus arredores.\n\nNeste sentido, o Governo pretende promover um novo modelo de gestão descentralizado do serviço público de transporte prestado pela STCP, S. A., através da delegação de competências de autoridade de transportes na AMP, em linha com o entendimento já alcançado entre ambos. Para além disso, torna-se evidente que a realização adequada dos princípios constitucionais da descentralização e subsidiariedade envolve, além da delegação de poderes públicos de autoridade de transportes, a possibilidade de a AMP poder aceder à gestão operacional da STCP, S. A. - único modo que permitirá à AMP estabelecer contacto direto com os utentes do serviço público e regular as relações que estes estabelecem com o operador, de forma adequada, equilibrada e conforme com o interesse das populações concelhias em causa.\n\nO exercício pela AMP de poderes de autoridade de transportes e de gestão operacional do serviço público em causa visa maximizar a segurança, eficiência, qualidade e menor custo dos transportes públicos para os utentes dos municípios servidos pela STCP, S. A.: Porto, Gondomar, Maia, Matosinhos, Valongo e Vila Nova de Gaia.\n\nImporta ressalvar que este novo modelo de gestão tem uma natureza temporária e transitória, estando os instrumentos jurídicos necessários à sua concretização pensados para um horizonte máximo de sete anos. Perspetiva-se que, até ao termo deste prazo, possa ocorrer a futura e definitiva descentralização da direção, gestão e exploração do serviço público de transporte por autocarro hoje operado pela STCP, S. A., a favor dos municípios por ele servidos. O objetivo final partilhado pelo Estado e pelos municípios em causa será, portanto, a transferência definitiva das competências de autoridade de transportes que atualmente pertencem ao Estado e, bem assim, a integração da STCP, S. A., no setor empresarial local.\n\nNeste contexto, o presente decreto-lei procede ao enquadramento e habilitação dos passos integrantes da operação de descentralização acima descrita. Para o efeito, criam-se as condições para a constituição de um mecanismo de articulação no seio da AMP - a Unidade Técnica de Gestão (UTG-STCP) - que servirá de suporte ao exercício das competências de autoridade de transporte sobre o operador. Sublinha-se que o RJSPTP habilita, especificamente, a adoção do modelo de organização mais adequado ao exercício das referidas competências relativamente aos serviços desenvolvidos no território de vários municípios, neste caso no âmbito da própria área metropolitana.\n\nDeve, ainda, ser mencionado que o Estado e o AMP procederam a uma avaliação prévia sobre a viabilidade e interesse do novo modelo de gestão da STCP, S. A., nas suas diversas vertentes, tendo no essencial concluído, entre outros aspetos, que a respetiva implementação: (i) não implica um aumento da despesa pública global, (ii) promove um aumento da eficiência da gestão dos recursos afetos ao serviço público de transporte coletivo de passageiros, (iii) assegura a aproximação das decisões aos cidadãos, a coesão territorial, o reforço da solidariedade inter-regional, a melhoria da qualidade dos serviços prestados às populações e a racionalização dos recursos disponíveis, e (iv) salvaguarda a articulação entre os diversos níveis da Administração Pública. Em face dos resultados obtidos, no sentido da verificação material dos requisitos dos quais depende a delegação de competências para as autarquias locais e entidades intermunicipais, consideram-se, sem prejuízo da correspondente referência no contrato interadministrativo em causa, cumpridos os requisitos previstos nos n.os 1, 2, 3 e 5 do artigo 115.º, por remissão do artigo 122.º da Lei n.º 75/2013, de 12 de setembro, que estabeleceu o regime jurídico das autarquias locais, aprovou o estatuto das entidades intermunicipais e estabeleceu o regime jurídico da transferência de competências do Estado para as autarquias locais e para as entidades intermunicipais, alterada pelas Leis n.os 25/2015, de 30 de março, 52/2015, de 9 de junho, 69/2015, de 16 de julho, e 7-A/2016, de 30 de março.\n\nPor outro lado, considerando que o novo modelo de gestão da STCP, S. A., foi objeto de apreciação e negociação pelos membros do Governo responsáveis pelas áreas dos transportes urbanos e das finanças, na fase conducente à elaboração do presente decreto-lei, dispensa-se a observância do procedimento autorizativo previsto no n.º 5 do artigo 10.º do RJSPTP, até pelo facto de se prever a celebração desta delegação, através de contrato interadministrativo, num diploma com forma de decreto-lei e não através do ato previsto no n.º 3 do artigo 5.º do RJSPTP. Os restantes requisitos previstos nos n.os 5 e 8 do artigo 10.º do RJSPTP, por seu lado, serão observados na celebração do contrato interadministrativo em causa.\n\nPor último, o presente decreto-lei surge na sequência da aprovação, no dia 25 de junho de 2016 de um «Memorando de Entendimento sobre o novo modelo de gestão da STCP, S. A.», entre o Estado Português, a STCP, S. A., a AMP e os municípios do Porto, Gondomar, Maia, Matosinhos, Valongo e Vila Nova de Gaia.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108078313": {
+   "fragment_id": "108078204",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2017-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei tem por objeto:\n\na) A delegação, parcial e temporária, do exercício de competências de autoridade de transportes, do Estado para a Área Metropolitana do Porto (AMP), relativas ao serviço público de transporte de passageiros explorado pela Sociedade de Transportes Coletivos do Porto, S. A. (STCP);\n\nb) A delegação, parcial e temporária, das competências de gestão operacional da STCP.\n\nc) A melhoria das condições de prestação de serviço público da STCP aos utentes e a salvaguarda dos direitos dos seus trabalhadores e da contratação coletiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "108078318": {
+   "fragment_id": "108078205",
+   "type": 11,
+   "heading": "Artigo 2.º — Delegação de competências",
+   "in_force_from": "2017-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 2.º — Delegação de competências\n\n1 - É determinada a delegação, na AMP, das competências do Estado enquanto autoridade de transportes competente no que respeita ao serviço público de transporte de passageiros explorado pela STCP, previstas no n.º 2 do artigo 4.º da Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março (RJSPTP).\n\n2 - A delegação referida no número anterior, com eventual partilha de competências, é feita através de contrato interadministrativo a celebrar entre o Estado e a AMP, nos termos do artigo 120.º da Lei n.º 75/2013, de 12 de setembro, alterada pelas Leis n.os 25/2015, de 30 de março, 52/2015, de 9 de junho, 69/2015, de 16 de julho, e 7-A/2016, de 30 de março.\n\n3 - O contrato interadministrativo referido no número anterior pode ser celebrado por um período máximo de sete anos.\n\n4 - A execução do contrato é acompanhada e monitorizada nos termos fixados pelas partes no mesmo.\n\n5 - Ao procedimento de formação do contrato interadministrativo de delegação e partilha de competências referido no n.º 2 do presente artigo não se aplica o disposto no n.º 5 do artigo 10.º do RJSPTP.\n\n6 - Nas peças contratuais que concretizam a delegação de gestão são estabelecidos mecanismos de acompanhamento do contrato.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "108078314": {
+   "fragment_id": "108078206",
+   "type": 11,
+   "heading": "Artigo 3.º — Unidade de Suporte",
+   "in_force_from": "2017-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 3.º — Unidade de Suporte\n\n1 - Nos termos do n.º 2 do artigo 8.º do RJSPTP, a AMP pode criar uma unidade de suporte aos seus órgãos, no exercício das competências de autoridade de transportes relativamente à atividade desenvolvida pela STCP, composta por representantes da AMP e por representantes dos municípios servidos pela STCP.\n\n2 - A unidade referida no número anterior não tem personalidade jurídica e é dotada de autonomia funcional.\n\n3 - A composição, organização e funcionamento da unidade referida no número anterior é definida por um contrato de constituição e delegação de competências a celebrar entre a AMP e os municípios que exerçam conjuntamente a sua direção, no âmbito das competências delegadas pelo Estado na AMP.\n\n4 - O disposto nos números anteriores não prejudica as competências cometidas por lei aos representantes dos municípios junto do Conselho Metropolitano da AMP.\n\n5 - O Estado pode participar, mediante solicitação da AMP e concordância do membro do Governo com a tutela setorial, na criação da unidade técnica referida nos números anteriores.\n\n6 - A Unidade de Suporte tem por missão assegurar que o modelo de gestão do serviço público de transporte de passageiros é prosseguido no interesse dos municípios servidos pela STCP.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "108078315": {
+   "fragment_id": "108078207",
+   "type": 11,
+   "heading": "Artigo 4.º — Modificação do contrato de serviço público",
+   "in_force_from": "2017-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 4.º — Modificação do contrato de serviço público\n\n1 - O Estado, a STCP e a AMP procedem, após celebração do contrato interadministrativo a que se refere o n.º 2 do artigo 2.º, à modificação do contrato de serviço público em vigor, com vista à sua adaptação ao modelo de gestão previsto no presente decreto-lei.\n\n2 - As posições jurídicas, direitos e obrigações de que o Estado e a AMP sejam, ou venham a ser, titulares no contrato de serviço público são definidas com a celebração do contrato de delegação e partilha de competências previsto no artigo 2.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "108078316": {
+   "fragment_id": "108078208",
+   "type": 11,
+   "heading": "Artigo 5.º — Compensações financeiras",
+   "in_force_from": "2017-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 5.º — Compensações financeiras\n\nOs municípios da AMP que participem no serviço referido no artigo 3.º, nos termos do seu n.º 3, podem assumir o pagamento de compensações financeiras por obrigações de serviço público previstas no contrato de serviço público com a STCP, em termos a acordar com a AMP.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "108078317": {
+   "fragment_id": "108078209",
+   "type": 11,
+   "heading": "Artigo 6.º — Contrato de gestão operacional",
+   "in_force_from": "2017-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 6.º — Contrato de gestão operacional\n\n1 - O Estado pode transferir para a AMP, por via de contrato, a gestão operacional da STCP, por um período que coincide com o período de vigência do contrato interadministrativo previsto no artigo 2.º, que não pode ser superior a sete anos.\n\n2 - No contrato referido no número anterior, as partes definem metas que permitam assegurar uma contínua trajetória de equilíbrio financeiro da empresa, tendo por objetivo alcançar um resultado operacional bruto tendencialmente positivo.\n\n3 - No contrato referido no n.º 1, o Estado pode atribuir à AMP o direito de propor até quatro dos cinco membros do conselho de administração da STCP, de entre os quais o respetivo presidente, competindo necessariamente ao membro do Governo responsável pela área das finanças a indicação de um membro do conselho de administração responsável pela área financeira.\n\n4 - Ao membro do conselho de administração responsável pela área financeira a que se refere o número anterior compete a gestão da dívida histórica da empresa, requerendo-se a sua aprovação expressa relativamente a qualquer matéria cujo impacto financeiro seja superior a 1 % do ativo líquido da empresa.\n\n5 - A falta de anuência do membro do conselho de administração responsável pela área financeira relativamente a qualquer matéria referida no número anterior, e com o impacto aí mencionado, determina a sua submissão a deliberação da assembleia geral da STCP.\n\n6 - A atividade de transporte público rodoviário de passageiros na área urbana do Grande Porto, exercida pela STCP, S. A., não pode ser transmitida ou subconcessionada a outras entidades que não sejam de direito público ou de capitais exclusivamente públicos.\n\n7 - Durante a vigência do contrato de gestão operacional, a Administração da STCP deve promover o direito à contratação coletiva, mantendo-se em vigor os respetivos instrumentos de regulamentação coletiva do trabalho e os direitos dos trabalhadores, nos termos do respetivo enquadramento legal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "108078309": {
+   "fragment_id": "108078220",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Conselho Geral Consultivo",
+   "in_force_from": "2017-09-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 6.º-A — Conselho Geral Consultivo\n\n1 - É criado o Conselho Geral Consultivo, como órgão de natureza consultiva da STCP.\n\n2 - Compete ao Conselho Geral Consultivo:\n\na) Emitir parecer sobre os Planos Estratégicos e Plurianuais;\n\nb) Fazer recomendações, tendo em vista a integração da oferta e das várias redes de transportes existentes na área metropolitana do Porto, bem como a melhoria da prestação do serviço público de transporte, nomeadamente, na expansão da rede, percursos e novas linhas;\n\nc) Pronunciar-se sobre outros assuntos, relacionados com a atividade da STCP, que lhe sejam submetidos, pela maioria dos seus membros, ou cuja apreciação seja solicitada pelo conselho de administração.\n\n3 - O Conselho Geral Consultivo tem a seguinte composição:\n\na) Um representante do Conselho de Administração da STCP, que preside;\n\nb) Um representante de cada município onde a empresa oferece serviço de transporte;\n\nc) Um representante da Área Metropolitana do Porto;\n\nd) Um representante designado pela comissão de trabalhadores da empresa;\n\ne) Um representante das comissões de utentes dos transportes da STCP;\n\nf) Um representante da Direção-Geral do Consumidor;\n\ng) Um representante do Metro do Porto, S. A.;\n\nh) Um representante da CP - Comboios de Portugal, E. P. E.\n\n4 - Os membros do conselho consultivo não são remunerados.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "108078310": {
+   "fragment_id": "108078210",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma transitória\n\nNo período de vigência dos contratos referidos nos artigos 2.º e 6.º do presente decreto-lei, aplicam-se as seguintes regras quanto à composição e funcionamento do conselho de administração da STCP, sem prejuízo do demais disposto nos estatutos da STCP, aprovados em anexo ao Decreto-Lei n.º 202/94, de 23 de julho:\n\na) O conselho de administração é composto por cinco membros, sendo um designado pelo membro do Governo responsável pela área das finanças, e podendo até quatro, incluindo o presidente, ser propostos pela AMP, sem prejuízo de a respetiva eleição competir, nos termos dos Estatutos, à assembleia geral;\n\nb) Ao administrador indicado pelo membro do Governo responsável pela área das finanças compete necessariamente a responsabilidade pela área financeira, nos termos dos n.os 3 a 5 do artigo anterior."
+  },
+  "108078311": {
+   "fragment_id": "108078211",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108078312": {
+   "fragment_id": "108078212",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de setembro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes.\n\nPromulgado em 14 de novembro de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de novembro de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "125277231": {
+   "fragment_id": "108078204",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei tem por objeto:\n\na) A delegação, parcial e temporária, do exercício de competências de autoridade de transportes, do Estado para a Área Metropolitana do Porto (AMP), relativas ao serviço público de transporte de passageiros explorado pela Sociedade de Transportes Coletivos do Porto, S. A. (STCP);\n\nb) A delegação, parcial e temporária, das competências de gestão operacional da STCP.\n\nc) A melhoria das condições de prestação de serviço público da STCP aos utentes e a salvaguarda dos direitos dos seus trabalhadores e da contratação coletiva.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "125277232": {
+   "fragment_id": "108078205",
+   "type": 11,
+   "heading": "Artigo 2.º — Delegação de competências",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 2.º — Delegação de competências\n\n1 - É determinada a delegação, na AMP, das competências do Estado enquanto autoridade de transportes competente no que respeita ao serviço público de transporte de passageiros explorado pela STCP, previstas no n.º 2 do artigo 4.º da Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março (RJSPTP).\n\n2 - A delegação referida no número anterior, com eventual partilha de competências, é feita através de contrato interadministrativo a celebrar entre o Estado e a AMP, nos termos do artigo 120.º da Lei n.º 75/2013, de 12 de setembro, alterada pelas Leis n.os 25/2015, de 30 de março, 52/2015, de 9 de junho, 69/2015, de 16 de julho, e 7-A/2016, de 30 de março.\n\n3 - O contrato interadministrativo referido no número anterior pode ser celebrado por um período máximo de sete anos.\n\n4 - A execução do contrato é acompanhada e monitorizada nos termos fixados pelas partes no mesmo.\n\n5 - Ao procedimento de formação do contrato interadministrativo de delegação e partilha de competências referido no n.º 2 do presente artigo não se aplica o disposto no n.º 5 do artigo 10.º do RJSPTP.\n\n6 - Nas peças contratuais que concretizam a delegação de gestão são estabelecidos mecanismos de acompanhamento do contrato.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "125277233": {
+   "fragment_id": "108078206",
+   "type": 11,
+   "heading": "Artigo 3.º — Unidade de Suporte",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 3.º — Unidade de Suporte\n\n1 - Nos termos do n.º 2 do artigo 8.º do RJSPTP, a AMP pode criar uma unidade de suporte aos seus órgãos, no exercício das competências de autoridade de transportes relativamente à atividade desenvolvida pela STCP, composta por representantes da AMP e por representantes dos municípios servidos pela STCP.\n\n2 - A unidade referida no número anterior não tem personalidade jurídica e é dotada de autonomia funcional.\n\n3 - A composição, organização e funcionamento da unidade referida no número anterior é definida por um contrato de constituição e delegação de competências a celebrar entre a AMP e os municípios que exerçam conjuntamente a sua direção, no âmbito das competências delegadas pelo Estado na AMP.\n\n4 - O disposto nos números anteriores não prejudica as competências cometidas por lei aos representantes dos municípios junto do Conselho Metropolitano da AMP.\n\n5 - O Estado pode participar, mediante solicitação da AMP e concordância do membro do Governo com a tutela setorial, na criação da unidade técnica referida nos números anteriores.\n\n6 - A Unidade de Suporte tem por missão assegurar que o modelo de gestão do serviço público de transporte de passageiros é prosseguido no interesse dos municípios servidos pela STCP.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "125277234": {
+   "fragment_id": "108078207",
+   "type": 11,
+   "heading": "Artigo 4.º — Modificação do contrato de serviço público",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 4.º — Modificação do contrato de serviço público\n\n1 - O Estado, a STCP e a AMP procedem, após celebração do contrato interadministrativo a que se refere o n.º 2 do artigo 2.º, à modificação do contrato de serviço público em vigor, com vista à sua adaptação ao modelo de gestão previsto no presente decreto-lei.\n\n2 - As posições jurídicas, direitos e obrigações de que o Estado e a AMP sejam, ou venham a ser, titulares no contrato de serviço público são definidas com a celebração do contrato de delegação e partilha de competências previsto no artigo 2.º\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "125277235": {
+   "fragment_id": "108078208",
+   "type": 11,
+   "heading": "Artigo 5.º — Compensações financeiras",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 5.º — Compensações financeiras\n\nOs municípios da AMP que participem no serviço referido no artigo 3.º, nos termos do seu n.º 3, podem assumir o pagamento de compensações financeiras por obrigações de serviço público previstas no contrato de serviço público com a STCP, em termos a acordar com a AMP.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "125277236": {
+   "fragment_id": "108078209",
+   "type": 11,
+   "heading": "Artigo 6.º — Contrato de gestão operacional",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 6.º — Contrato de gestão operacional\n\n1 - O Estado pode transferir para a AMP, por via de contrato, a gestão operacional da STCP, por um período que coincide com o período de vigência do contrato interadministrativo previsto no artigo 2.º, que não pode ser superior a sete anos.\n\n2 - No contrato referido no número anterior, as partes definem metas que permitam assegurar uma contínua trajetória de equilíbrio financeiro da empresa, tendo por objetivo alcançar um resultado operacional bruto tendencialmente positivo.\n\n3 - No contrato referido no n.º 1, o Estado pode atribuir à AMP o direito de propor até quatro dos cinco membros do conselho de administração da STCP, de entre os quais o respetivo presidente, competindo necessariamente ao membro do Governo responsável pela área das finanças a indicação de um membro do conselho de administração responsável pela área financeira.\n\n4 - Ao membro do conselho de administração responsável pela área financeira a que se refere o número anterior compete a gestão da dívida histórica da empresa, requerendo-se a sua aprovação expressa relativamente a qualquer matéria cujo impacto financeiro seja superior a 1 % do ativo líquido da empresa.\n\n5 - A falta de anuência do membro do conselho de administração responsável pela área financeira relativamente a qualquer matéria referida no número anterior, e com o impacto aí mencionado, determina a sua submissão a deliberação da assembleia geral da STCP.\n\n6 - A atividade de transporte público rodoviário de passageiros na área urbana do Grande Porto, exercida pela STCP, S. A., não pode ser transmitida ou subconcessionada a outras entidades que não sejam de direito público ou de capitais exclusivamente públicos.\n\n7 - Durante a vigência do contrato de gestão operacional, a Administração da STCP deve promover o direito à contratação coletiva, mantendo-se em vigor os respetivos instrumentos de regulamentação coletiva do trabalho e os direitos dos trabalhadores, nos termos do respetivo enquadramento legal.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "125277237": {
+   "fragment_id": "108078220",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Conselho Geral Consultivo",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+   ],
+   "markdown": "###### Artigo 6.º-A — Conselho Geral Consultivo\n\n1 - É criado o Conselho Geral Consultivo, como órgão de natureza consultiva da STCP.\n\n2 - Compete ao Conselho Geral Consultivo:\n\na) Emitir parecer sobre os Planos Estratégicos e Plurianuais;\n\nb) Fazer recomendações, tendo em vista a integração da oferta e das várias redes de transportes existentes na área metropolitana do Porto, bem como a melhoria da prestação do serviço público de transporte, nomeadamente, na expansão da rede, percursos e novas linhas;\n\nc) Pronunciar-se sobre outros assuntos, relacionados com a atividade da STCP, que lhe sejam submetidos, pela maioria dos seus membros, ou cuja apreciação seja solicitada pelo conselho de administração.\n\n3 - O Conselho Geral Consultivo tem a seguinte composição:\n\na) Um representante do Conselho de Administração da STCP, que preside;\n\nb) Um representante de cada município onde a empresa oferece serviço de transporte;\n\nc) Um representante da Área Metropolitana do Porto;\n\nd) Um representante designado pela comissão de trabalhadores da empresa;\n\ne) Um representante das comissões de utentes dos transportes da STCP;\n\nf) Um representante da Direção-Geral do Consumidor;\n\ng) Um representante do Metro do Porto, S. A.;\n\nh) Um representante da CP - Comboios de Portugal, E. P. E.\n\n4 - Os membros do conselho consultivo não são remunerados.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 103/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/lei/103-2017-108074431), em vigor a partir de 2017-09-04"
+  },
+  "125277238": {
+   "fragment_id": "108078210",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma transitória",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Norma transitória\n\nNo período de vigência dos contratos referidos nos artigos 2.º e 6.º do presente decreto-lei, aplicam-se as seguintes regras quanto à composição e funcionamento do conselho de administração da STCP, sem prejuízo do demais disposto nos estatutos da STCP, aprovados em anexo ao Decreto-Lei n.º 202/94, de 23 de julho:\n\na) O conselho de administração é composto por cinco membros, sendo um designado pelo membro do Governo responsável pela área das finanças, e podendo até quatro, incluindo o presidente, ser propostos pela AMP, sem prejuízo de a respetiva eleição competir, nos termos dos Estatutos, à assembleia geral;\n\nb) Ao administrador indicado pelo membro do Governo responsável pela área das finanças compete necessariamente a responsabilidade pela área financeira, nos termos dos n.os 3 a 5 do artigo anterior.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277239": {
+   "fragment_id": "108078211",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  },
+  "125277240": {
+   "fragment_id": "108078212",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de setembro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes.\n\nPromulgado em 14 de novembro de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de novembro de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2019-125234992), em vigor a partir de 2020-01-01"
+  }
+ }
+}

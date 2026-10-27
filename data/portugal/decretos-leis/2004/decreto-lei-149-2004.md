@@ -1,0 +1,231 @@
+---
+schema_version: '1.0'
+id: pt:dre:272036:por
+title: Decreto-Lei n.º 149/2004
+short_title: null
+summary: Altera o Decreto-Lei n.º 152/97, de 19 de Junho, que transpõe para a ordem jurídica nacional a Directiva n.º 91/271/CEE,
+  do Conselho, de 21 de Maio, relativamente ao tratamento de águas residuais urbanas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 149/2004
+official_date: null
+publication_date: '2004-06-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/2004, Série I-A de 2004-06-22
+  number: '145'
+  series: I
+  supplement: null
+  pages: 3805 - 3809
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/149/2004/06/22/p/dre/pt/html
+  oj: null
+  dre: '272036'
+  dre_path: /dr/detalhe/decreto-lei/149-2004-272036
+  internal: pt:dre:272036:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036
+  metadata_url: https://data.dre.pt/eli/dec-lei/149/2004/06/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 68ad605f6d86a1f6989b30e7510361b505e11337e1a3f11b01f0083f2e611a4a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Águas Residuais
+- Contra-ordenação
+- Controlo Sanitário
+- Definição de Competências
+- Descarga de ÁGUA Residual
+- Instituto da ÁGUA
+- Licenciamento
+- Madeira.região Autónoma
+- Multa
+- Poluição da água
+- Tratamento de ÁGUA
+- ZONA Sensivel
+relationships:
+- type: amended_by
+  target: pt:dre:170322929:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:452916:por
+  label: "Alterados o art. 7º-A e o anexo ii do Dec Lei 152/97, de 19-Jun, na redacção do presente, pelo DEC LEI.198/2008.08.10.2008.MAOTDR,\
+    \ DR.IS [195] de 08.10.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2008-452916
+  date: '2008-10-08'
+- type: amended_by
+  target: pt:dre:69778945:por
+  label: Alterado o anexo ii do Dec Lei 152/97, de 19-jun, na redação de substituição do presente diploma, pelo(a) Decreto-Lei
+    n.º 133/2015 - Diário da República n.º 134/2015, Série I de 2015-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2015-69778945
+  date: '2015-07-13'
+- type: cites
+  target: celex:31991L0271
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/271/oj
+- type: cites
+  target: celex:31998L0015
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/15/oj
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:43:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 149/2004
+
+de 22 de Junho
+
+O Decreto-Lei n.º 152/97, de 19 de Junho, transpôs para o direito interno a Directiva n.º [91/271/CEE](https://data.europa.eu/eli/dir/1991/271/oj?locale=pt), do Conselho, de 21 de Maio, relativa ao tratamento das águas residuais urbanas, e aprovou uma lista de identificação de zonas sensíveis e de zonas menos sensíveis, bem como respectivo mapa, constantes do anexo II ao referido diploma legal.
+
+Por seu turno, o Decreto-Lei n.º 348/98, de 9 de Novembro, transpôs para a ordem jurídica nacional a Directiva n.º [98/15/CE](https://data.europa.eu/eli/dir/1998/15/oj?locale=pt), da Comissão, de 21 de Fevereiro, que altera a mencionada Directiva n.º [91/271/CEE](https://data.europa.eu/eli/dir/1991/271/oj?locale=pt), no que respeita a determinados requisitos estabelecidos no seu anexo I, e substitui, consequentemente, o quadro n.º 2 do anexo I do Decreto-Lei n.º 152/97, de 19 de Junho.
+
+Por outro lado, o n.º 2 do artigo 3.º do citado Decreto-Lei n.º 152/97, de 19 de Junho, dispõe que deve ser feita uma revisão da identificação das zonas sensíveis e das zonas menos sensíveis pelo menos de quatro em quatro anos. Em conformidade com este imperativo legal, decorrente, aliás, da transposição da Directiva n.º [91/271/CEE](https://data.europa.eu/eli/dir/1991/271/oj?locale=pt), a referida lista de identificação, na parte referente às zonas menos sensíveis, e o respectivo mapa foram alterados pelo Decreto-Lei n.º 261/99, de 7 de Julho.
+
+Por último, a identificação das zonas sensíveis e o correspondente mapa foram, igualmente, alterados pelo Decreto-Lei n.º 172/2001, de 26 de Maio.
+
+Tendo decorrido cerca de cinco anos sobre a primeira revisão da identificação das zonas menos sensíveis e três anos sobre a revisão relativa às zonas sensíveis, e encontrando-se terminados os complexos estudos técnicos e científicos que, necessariamente, estão na base da segunda revisão legal da identificação destas zonas no território nacional, importa aprovar a mesma, o que se promove por via do presente diploma.
+
+Nos estudos desenvolvidos, que foram promovidos pelo Instituto da Água (INAG) ao abrigo do n.º 2 do artigo 3.º do Decreto-Lei n.º 152/97, de 19 de Junho, e em estreita cooperação com algumas universidades portuguesas, os critérios aplicados visaram, essencialmente, o combate à eutrofização e a necessidade de adoptar um tratamento mais avançado do que o tratamento secundário, permitindo o cumprimento do disposto na legislação comunitária aplicável em matéria de águas, bem como a redução da poluição microbiológica.
+
+Com o objectivo de proporcionar uma correcta orientação na selecção do tipo de tratamento a instalar, optou-se por incluir na lista de identificação das zonas sensíveis os critérios que, para cada zona, determinaram a respectiva identificação.
+
+Finalmente, refira-se que, por virtude da aplicação do princípio da precaução, as descargas de águas residuais de dimensão inferior a 10000 e. p., quando realizadas directamente na zona sensível ou na respectiva área de influência, devem estar sujeitas às mesmas exigências que são aplicadas às descargas de águas de dimensão superior a 10000 e. p. efectuadas nas mesmas condições.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alterações ao Decreto-Lei n.º 152/97, de 19 de Junho
+
+Os artigos 6.º, 14.º e 18.º do Decreto-Lei n.º 152/97, de 19 de Junho, alterado pelo Decreto-Lei n.º 348/98, de 9 de Novembro, passam a ter a redacção seguinte:
+
+«Artigo 6.º
+
+Tratamento para descargas em zonas sensíveis
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - As descargas de águas residuais urbanas provenientes de aglomerações de dimensão inferior a 10000 e. p., quando localizadas em zona sensível ou na respectiva área de influência, podem ser sujeitas aos requisitos aplicáveis às descargas de águas residuais provenientes de aglomerações de dimensão superior a 10000 e. p. sempre que, no contexto local em que se inserem, seja necessário cumprir outras directivas comunitárias e ou objectivos de qualidade para o meio receptor fixados pela legislação vigente.
+
+Artigo 14.º
+
+Contra-ordenações e coimas
+
+1 - Sem prejuízo da aplicação do disposto no Decreto-Lei n.º 236/98, de 1 de Agosto, a violação do disposto nos n.os 1 e 2 do artigo 4.º, nos n.os 1, 2 e 4 do artigo 5.º, nos artigos 6.º, 8.º e 10.º e no n.º 1 do artigo 12.º do presente diploma constitui contra-ordenação punível com coima de (euro) 1250 a (euro) 3740, quando praticada por pessoa singular, e de (euro) 2500 a (euro) 44890, quando praticada por pessoa colectiva.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+Artigo 18.º
+
+Regiões Autónomas
+
+1 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma.
+
+2 - Os serviços e organismos das respectivas administrações regionais autónomas devem enviar ao INAG todos os elementos de informação necessários ao cumprimento do disposto nos artigos 3.º, 7.º, 12.º e 15.º do presente diploma.
+
+3 - O produto das coimas aplicadas pelas Regiões Autónomas constitui receita própria.»
+
+###### Artigo 2.º — Aditamento ao Decreto-Lei n.º 152/97, de 19 de Junho
+
+É aditado o artigo 7.º-A ao Decreto-Lei n.º 152/97, de 19 de Junho, alterado pelo Decreto-Lei n.º 348/98, de 9 de Novembro, com a seguinte redacção:
+
+«Artigo 7.º-A
+
+Licenciamento de descargas de águas residuais
+
+Quando se justifique, em complemento dos valores paramétricos estabelecidos no presente diploma, a entidade licenciadora pode fixar na licença de descarga de águas residuais urbanas outros parâmetros constantes da legislação específica aplicável, nomeadamente o Decreto-Lei n.º 236/98, de 1 de Agosto.»
+
+###### Artigo 3.º — Lista de identificação de zonas sensíveis e de zonas menos sensíveis
+
+1 - Para efeito do disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 152/97, de 19 de Junho, o anexo II ao referido diploma legal é substituído pela lista de identificação de zonas sensíveis e menos sensíveis e respectivo mapa constantes do anexo ao presente diploma, que dele fazem parte integrante.
+
+2 - Os originais da lista e do mapa que integram o anexo referido no número anterior encontram-se depositados no Instituto da Água e na comissão de coordenação e desenvolvimento regional competente.
+
+###### Artigo 4.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 261/99, de 7 de Julho, e 172/2001, de 26 de Maio.
+
+Visto e aprovado em Conselho de Ministros de 22 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - Carlos Manuel Tavares da Silva - Luís Filipe Pereira - Arlindo Marques da Cunha.
+
+Promulgado em 7 de Junho de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 14 de Junho de 2004.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## ANEXO I — Lista de identificação
+
+Zonas sensíveis - Águas doces superficiais, estuários e lagoas costeiras
+
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)
+
+Zonas menos sensíveis - Águas costeiras
+
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)
+
+Nota. - Sistema de coordenadas - projecção Gauss do Datum Geodésico Hayford de Lisboa Militar.
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/145a00/38053809.pdf)

@@ -1,0 +1,283 @@
+---
+schema_version: '1.0'
+id: pt:dre:678854:por
+title: Decreto Regulamentar n.º 2/80
+short_title: null
+summary: Cria o Centro Coordenador do Trabalho Portuário do Douro e Leixões
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado da Marinha Mercante
+proposing_entity: null
+official_number: 2/80
+official_date: null
+publication_date: '1980-03-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/1980, Série I de 1980-03-01
+  number: '51'
+  series: I
+  supplement: null
+  pages: 276 - 278
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/03/05100/02760278.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '678854'
+  dre_path: /dr/detalhe/decreto-regulamentar/2-1980-678854
+  internal: pt:dre:678854:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1980-678854
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1980-678854
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:01:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2ae4ec83266ff08399b62a5300707ba6c7158076134b853d3eff97d04244c898
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Coordenador do Trabalho Portuário
+- Trabalho Portuário
+relationships:
+- type: amended_by
+  target: pt:dre:332184:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:332184:por
+  label: Extinto pelo DEC LEI.116/90.05.04.1990.MOPTC, DR.IS [[80]] de 05.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1990-332184
+  date: '1990-04-05'
+- type: cites
+  target: pt:dre:631272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631274:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:579343:por
+  label: "Revogado pelo DR.63-B/84.1984.08.20.MFP, DR.IS [192]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/63-b-1984-579343
+  date: '1984-08-20'
+article_structure:
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:01:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 2/80
+
+de 1 de Março
+
+Com a publicação do [Decreto-Lei n.º 145-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-a-1978-631273), de 17 de Junho, que definiu o regime jurídico do trabalho portuário, bem como o [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), da mesma data, que criou o Instituto do Trabalho Portuário, ficou o Governo a dispor dos instrumentos jurídicos necessários à tomada de medidas concretas no sentido da organização e racionalização do trabalho portuário.
+
+Pelo [Decreto Regulamentar n.º 17/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1978-631272), de 17 de Junho, foi criado o Centro Coordenador do Trabalho Portuário de Lisboa.
+
+Mantendo-se, porém, a necessidade de mais intensa racionalização do trabalho portuário, com vista a conseguir-se, por um lado, uma maior justiça social e, por outro, uma organização mais perfeita que possa colocar os portos portugueses a níveis de competitividade aceitáveis, há que dar novos passos, principalmente no que se refere aos principais portos, entre os quais, pela sua crescente importância, se situa o do Douro e Leixões.
+
+Por outro lado, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), conjugado com o disposto no artigo 18.º do mesmo diploma, entre as atribuições do ITP figura a de promover as acções necessárias à criação dos centros coordenadores do trabalho portuário.
+
+Daí que, pelo presente diploma, seja criado o Centro Coordenador do Trabalho Portuário do Douro e Leixões (CCTPDL), no qual participam representantes do Governo e das associações sindicais e patronais do sector, e ao qual cabem, na respectiva área de jurisdição, funções executivas no campo da gestão do pessoal portuário.
+
+Nestes termos, o Governo decreta, ao abrigo do disposto na alínea c) do artigo 202.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza e âmbito
+
+Artigo 1.º É criado o Centro Coordenador do Trabalho Portuário do Douro e Leixões, abreviadamente designado por CCTPDL, ao abrigo do disposto no artigo 18.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho.
+
+Art. 2.º O CCTPDL é uma entidade dotada de personalidade jurídica e de autonomia administrativa e financeira e funciona na dependência directa do Instituto do Trabalho Portuário.
+
+Art. 3.º O CCTPDL tem sede em Leixões e exerce a sua acção na área dos portos do Douro e Leixões.
+
+### CAPÍTULO II — Atribuições
+
+Art. 4.º No âmbito das atribuições referidas no artigo 19.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho, compete, nomeadamente, ao CCTPDL:
+
+a) Organizar o registo de todos os trabalhadores portuários e entidades empregadoras dos mesmos na área da sua jurisdição;
+
+b) Fornecer ao ITP os elementos necessários ao cumprimento da alínea c) do artigo 4.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho;
+
+c) Estabelecer, após parecer do ITP, as regras de actuação e garantias a prestar pelas entidades empregadoras e as condições de inscrição para os trabalhadores;
+
+d) Organizar e manter em funcionamento o sistema de trabalho por turnos que vier a ser fixado nos instrumentos de regulamentação colectiva de trabalho aplicáveis, com vista a uma distribuição equitativa e racional da mão-de-obra portuária;
+
+e) Proceder ao pagamento pontual da retribuição mínima mensal estabelecida nos instrumentos de regulamentação colectiva de trabalho a todos os trabalhadores inscritos no CCTPDL;
+
+f) Sugerir ao ITP normas de actuação para a actividade portuária, no sentido de obter a progressiva melhoria da organização do trabalho, bem como a sua correcta coordenação e racionalização;
+
+g) Observar e fazer observar a regulamentação aplicável ao sector, nomeadamente no que se refere a disciplina, medicina, higiene e segurança no trabalho;
+
+h) Organizar um sistema de pedidos de trabalhadores pelas empresas e o consequente escalonamento dos trabalhadores;
+
+i) Cooperar, na área da sua competência, na formação profissional dos trabalhadores portuários de acordo com os programas, normas e orientações do ITP, podendo fazer-lhe as propostas e sugestões que achar convenientes nesta matéria;
+
+j) Organizar e administrar os serviços sociais, culturais e desportivos para os trabalhadores;
+
+k) Administrar os fundos que lhe forem confiados;
+
+l) Receber e remeter ao ITP as verbas destinadas aos fundos comuns, nos termos que vierem a ser superiormente fixados;
+
+m) Colaborar com todos os organismos intervenientes no trabalho portuário, designadamente com a APDL;
+
+n) Propor soluções para os conflitos de ordem técnica e laboral relacionados com o exercício da actividade profissional dos trabalhadores portuários, recorrendo ao ITP sempre que o julgue conveniente;
+
+o) Em geral, arrecadar as receitas e pagar as despesas inerentes ao cumprimento das respectivas atribuições;
+
+p) Com o acordo do ITP, fixar as taxas a cobrar às entidades empregadoras como contrapartida do recrutamento dos trabalhadores por seu intermédio.
+
+### CAPÍTULO III — Órgãos e serviços
+
+Art. 5.º São órgãos do CCTPDL:
+
+a) A direcção;
+
+b) O conselho fiscal.
+
+Art. 6.º - 1 - A direcção é nomeada por despacho conjunto dos Ministros do Trabalho e dos Transportes e Comunicações, sendo constituída por:
+
+a) Um presidente, designado pelos Ministros do Trabalho e dos Transportes e Comunicações;
+
+b) Três representantes dos trabalhadores, designados pelos Sindicatos dos Estivadores e Conferentes Marítimos e Fluviais do Distrito do Porto, dos Carregadores e Descarregadores de Terra e Mar do Distrito do Porto e dos Lingadores, Apartadores Barqueiros-Fragateiros e Correlativos do Distrito do Porto, um por cada Sindicato;
+
+c) Três representantes das entidades empregadoras que operem na área do CCTPDL, designados pela Associação dos Agentes de Navegação do Porto e Leixões e pela Associação de Tráfego de Mercadorias nos Portos do Douro e Leixões.
+
+2 - Nos casos previstos nas alíneas b) e c) do número anterior, competirá aos Ministros do Trabalho e dos Transportes e Comunicações suprir a falta, se as entidades competentes se abstiverem de indicar o seu representante no prazo de trinta dias após serem solicitadas a fazê-lo pelo presidente da direcção do CCTPDL.
+
+3 - O mandato dos membros da direcção é revogável a todo o tempo.
+
+Art. 7.º Por cada membro efectivo da direcção deverão as entidades referidas no artigo antecedente designar, simultaneamente, um membro suplente, que substituirá aquele nas suas faltas e impedimentos.
+
+Art. 8.º Sempre que necessário, a direcção poderá solicitar a presença de um representante da APDL nas suas reuniões.
+
+Art. 9.º - 1 - Compete à direcção:
+
+a) Elaborar os regulamentos internos necessários à correcta execução das suas atribuições e funcionamento dos serviços;
+
+b) Dirigir superiormente todos os serviços do CCTPDL;
+
+c) Adoptar as providências que entender convenientes para o aperfeiçoamento dos serviços, no sentido do aumento da sua produtividade e eficiência;
+
+d) Elaborar o plano de actividades e o orçamento anual do Centro e submetê-los à aprovação do ITP;
+
+e) Elaborar e submeter à apreciação do conselho fiscal o relatório e contas do respectivo exercício;
+
+f) Representar o CCTPDL;
+
+g) Fixar, após parecer do ITP, o quadro do seu pessoal e o regime jurídico de prestação de trabalho;
+
+h) Solicitar ao ITP os pareceres julgados necessários ao bom cumprimento das atribuições do CCTPDL;
+
+i) Exercer o poder disciplinar, nos termos do artigo 23.º do [Decreto-Lei n.º 145-B/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-b-1978-631274), de 17 de Junho;
+
+j) Prosseguir, de um modo geral, as atribuições do CCTPDL.
+
+2 - A aplicação de qualquer sanção disciplinar só poderá ter lugar após o sindicato representativo do trabalhador arguido ter sido consultado, nos termos da contratação colectiva em vigor.
+
+Art. 10.º - 1 - A direcção deverá reunir ordinariamente uma vez por semana e excepcionalmente sempre que for convocada pelo presidente ou por três vogais.
+
+2 - As deliberações da direcção serão tomadas por maioria, tendo o presidente voto de qualidade.
+
+Art. 11.º - 1 - O conselho fiscal é nomeado por despacho dos Ministros do Trabalho e dos Transportes e Comunicações, sendo constituído por:
+
+a) Um presidente, designado conjuntamente pelos Ministros do Trabalho e dos Transportes e Comunicações;
+
+b) Um vogal representante dos trabalhadores, designado pelos Sindicatos referidos na alínea b) do n.º 1 do artigo 6.º;
+
+c) Um vogal representante das entidades empregadoras, designado pelas Associações referidas na alínea c) do n.º 1 do artigo 6.º
+
+2 - Nos casos previstos nas alíneas b) e c) do número anterior, competirá aos Ministros do Trabalho e dos Transportes e Comunicações suprir a falta, se as entidades competentes se abstiverem de indicar o seu representante no prazo de trinta dias após serem solicitadas a fazê-lo pela direcção do CCTPDL.
+
+3 - O mandato dos membros do conselho fiscal é revogável a todo o tempo.
+
+Art. 12.º Compete ao conselho fiscal:
+
+a) Fiscalizar, por iniciativa própria, a pedido do presidente da direcção ou de três membros desta, qualquer acto ou contrato celebrado pelo CCTPDL que envolva receitas ou despesas;
+
+b) Apreciar o relatório e contas anuais do CCTPDL e elaborar o respectivo parecer, os quais serão enviados ao ITP para aprovação.
+
+Art. 13.º - 1- São serviços do CCTPDL:
+
+a) Os Serviços Gerais e Administração;
+
+b) Os Serviços de Colocação;
+
+c) O Serviço de Contencioso.
+
+2 - A criação dos serviços necessários ao bom funcionamento do CCTPDL é da competência da respectiva direcção, ouvido o ITP.
+
+Art. 14.º A estrutura e competência dos serviços referidos no artigo anterior serão fixadas pela direcção, ouvido o ITP.
+
+Art. 15.º - 1 - Os serviços referidos no artigo 13.º, com excepção do Serviço de Contencioso, serão coordenados por um secretário-geral nomeado pelo Ministro dos Transportes e Comunicações, sob proposta da direcção.
+
+2 - Ao secretário-geral compete, designadamente, dar execução às decisões emanadas da direcção, superintender hierarquicamente em todos os serviços por ele coordenados e orientá-los no exercício das suas competências.
+
+### CAPÍTULO IV — Receitas e despesas
+
+Art. 16.º Constituem receitas do CCTPDL:
+
+a) As importâncias relativas às retribuições dos trabalhadores recrutados por seu intermédio pagas peles entidades empregadoras, acrescidas dos encargos correspondentes;
+
+b) As importâncias a pagar pelas entidades empregadoras como contrapartida de serviços prestados pelo CCTPDL;
+
+c) Subsídios eventuais atribuídos por quaisquer entidades oficiais ou privadas;
+
+d) Os juros de disponibilidades próprias;
+
+e) Quaisquer outras legalmente permitidas.
+
+Art. 17.º São despesas do CCTPDL todas as que resultem do exercício das suas atribuições.
+
+### CAPÍTULO V — Disposições transitórias
+
+Art. 18.º O pessoal presentemente ao serviço do Fundo de Férias e do Fundo de Garantia Salarial transitará automaticamente, sem perda de quaisquer direitos, para o quadro do CCTPDL, devendo, sempre que possível, dar-se prioridade na admissão de pessoal aos funcionários ao serviço dos sindicatos e das associações de empregadores que seja excedentário em virtude da entrada em funcionamento do CCTPDL e que preencha as condições exigidas.
+
+Francisco Sá Carneiro - Aníbal António Cavaco Silva - Eusébio Marques de Carvalho - José Carlos Pinto Soromenho Viana Baptista.
+
+Promulgado em 20 de Fevereiro de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,104 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124500717:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-124524751",
+ "dre_path": "/dr/detalhe/lei/103-2019-124500717",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-09-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124524658",
+    "124524659",
+    "124524660"
+   ]
+  },
+  {
+   "date": "2020-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:148444000:por",
+     "title": "Lei n.º 71/2020",
+     "published": "2020-11-13",
+     "dre_path": "/dr/detalhe/lei/71-2020-148444000"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "124524658",
+    "124524659",
+    "124524660",
+    "148299931",
+    "148299935",
+    "148299934",
+    "124524661"
+   ]
+  }
+ ],
+ "fragments": {
+  "124524658": {
+   "fragment_id": "124524752",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 103/2019\n\nde 6 de setembro\n\nSumário: Altera o Estatuto dos Funcionários Parlamentares, aprovado pela Lei n.º 23/2011, de 20 de maio.\n\nAltera o Estatuto dos Funcionários Parlamentares, aprovado pela Lei n.º 23/2011, de 20 de maio\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "124524659": {
+   "fragment_id": "124524753",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à primeira alteração à Lei n.º 23/2011, de 20 de maio, que aprova o Estatuto dos Funcionários Parlamentares."
+  },
+  "124524660": {
+   "fragment_id": "124524754",
+   "type": 11,
+   "heading": "Artigo 2.º — Alterações à Lei n.º 23/2011, de 20 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações à Lei n.º 23/2011, de 20 de maio\n\n1 - Os artigos 21.º, 26.º e 27.º da Lei n.º 23/2011, de 20 de maio, passam a ter a seguinte redação:\n\n«Artigo 21.º\n\n[...]\n\n1 - A previsão de postos de trabalho nas categorias superiores das carreiras de assessor parlamentar, de técnico de apoio parlamentar e de assistente operacional parlamentar no mapa de pessoal a aprovar com o Orçamento da Assembleia da República depende de proposta fundamentada do secretário-geral, designadamente quanto ao seu impacte financeiro.\n\n2 -...\n\nArtigo 26.º\n\n[...]\n\n1 - A carreira de assistente operacional parlamentar desenvolve-se por duas categorias, a de assistente operacional parlamentar e a de assistente operacional parlamentar principal.\n\n2 - À categoria de assistente operacional parlamentar correspondem oito posições remuneratórias e à de assistente operacional parlamentar principal três posições.\n\nArtigo 27.º\n\nEncarregado Operacional Parlamentar\n\n1 - ...\n\n2 - O encarregado operacional parlamentar, para além das funções incluídas no conteúdo funcional da sua categoria de origem, tem ainda as seguintes funções:\n\na) Coordenação de outros assistentes operacionais parlamentares ou de tarefas realizadas na sua área de atividade por cujo resultado é responsável;\n\nb) Realização de tarefas de programação, organização e controlo dos trabalhos a executar, no âmbito da sua área de atividade, nos serviços onde se encontra colocado;\n\nc) Desenvolvimento de métodos de trabalho com vista à melhor utilização dos meios físicos e humanos;\n\nd) Colaboração na formação e no desenvolvimento profissional contínuo na área das respetivas competências de apoio à atividade parlamentar.\n\n3 - O encarregado operacional parlamentar é remunerado pela terceira posição da categoria de assistente operacional parlamentar principal.\n\n4 - Finda a comissão de serviço como encarregado operacional parlamentar, o funcionário parlamentar é reposicionado na categoria de origem, relevando para o efeito as avaliações de desempenho obtidas no exercício naquelas funções.»\n\n2 - São ainda alterados os anexos I e II da Lei n.º 23/2011, de 20 de maio, que passam a ter a seguinte redação:\n\n«ANEXO I\n\n(ver documento original)\n\nANEXO II\n\nCarreira de assessor parlamentar\n\n[...]\n\nCarreira de técnico de apoio parlamentar\n\n[...]\n\nCarreira de assistente operacional parlamentar\n\n(ver documento original)"
+  },
+  "148299931": {
+   "fragment_id": "148444056",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento à Lei n.º 23/2011, de 20 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento à Lei n.º 23/2011, de 20 de maio\n\nÉ aditado o artigo 26.º-A com a seguinte redação:\n\n«Artigo 26.º-A\n\nAcesso à categoria de assistente operacional parlamentar principal\n\n1 - O acesso à categoria de assistente operacional parlamentar principal efetiva-se através de procedimento concursal.\n\n2 - Podem candidatar-se à categoria de assistente operacional parlamentar principal os assistentes operacionais parlamentares posicionados, pelo menos, na 6.ª posição remuneratória que tenham, nos 10 anos anteriores, obtido avaliação positiva de desempenho de funções na Assembleia da República.»"
+  },
+  "148299935": {
+   "fragment_id": "148444057",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": "2020-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 71/2020 - Diário da República n.º 222/2020, Série I de 2020-11-13](https://diariodarepublica.pt/dr/detalhe/lei/71-2020-148444000), em vigor a partir de 2020-11-14"
+   ],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\n1 - As comissões de serviço em curso dos encarregados operacionais parlamentares mantêm-se até ao seu termo.\n\n2 - O n.º 3 do artigo 27.º da Lei n.º 23/2011, de 20 de maio, na redação conferida pela presente lei, aplica-se aos encarregados operacionais parlamentares cujas comissões de serviço se encontram em curso a partir da data de produção de efeitos prevista no artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 71/2020 - Diário da República n.º 222/2020, Série I de 2020-11-13](https://diariodarepublica.pt/dr/detalhe/lei/71-2020-148444000), em vigor a partir de 2020-11-14"
+  },
+  "148299934": {
+   "fragment_id": "148444059",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos com a entrada em vigor da lei do Orçamento do Estado subsequente à sua publicação."
+  },
+  "124524661": {
+   "fragment_id": "124524755",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de julho de 2019.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 6 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112526564"
+  }
+ }
+}

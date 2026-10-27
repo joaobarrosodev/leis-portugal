@@ -1,0 +1,142 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0617:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0617-20120701",
+ "dre_path": null,
+ "source_lastmod": "2012-07-01",
+ "versions": [
+  {
+   "date": "2009-07-15",
+   "future": false,
+   "celex": "32009R0617",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1cf09f66f3406111",
+    "2dbab35ea6227e68",
+    "3237d5d91e07d93a",
+    "e112c88e764d7830",
+    "9a075c707c60ab1b"
+   ]
+  },
+  {
+   "date": "2012-07-01",
+   "future": false,
+   "celex": "02009R0617-20120701",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0464:por",
+     "title": "REGULAMENTO (UE) N. o 464/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de maio de 2012",
+     "published": null,
+     "celex": "32012R0464"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Notas",
+    "Adita Artigo 2.º-A"
+   ],
+   "fragments": [
+    "81716aff9c6e3076",
+    "e218031d71637072",
+    "05beeeaf0bd93618",
+    "1d99b3640287083a",
+    "75d4bf60027835e4",
+    "2c3d24741d5f6f42"
+   ]
+  }
+ ],
+ "fragments": {
+  "1cf09f66f3406111": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho de 2009\n\nque abre um contingente pautal autónomo de importação de carne de bovino de alta qualidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 133.º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando o seguinte:\n\n(1) Atendendo a que é do interesse da Comunidade manter relações comerciais harmoniosas com países terceiros, deverá ser aberto, a título autónomo, um contingente pautal comunitário de importação de 20 000 toneladas de carne de bovino de alta qualidade, fresca, refrigerada ou congelada.\n\n(2) De acordo com o artigo 144.º do Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/cb9e7512-9c9f-4592-a192-2acd85d9e194.0018.03/DOC_1#ntr1-L_2009182PT.01000101-E0001), em conjugação com o seu artigo 4.º, os contingentes pautais de produtos abrangidos pelo mesmo são abertos e geridos pela Comissão ao abrigo de normas de execução aprovadas nos termos do n.º 2 do artigo 195.º do referido regulamento,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "2dbab35ea6227e68": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É aberto um contingente pautal comunitário anual de importação de 20 000 toneladas, expressas em peso do produto com o número de ordem 09.4449, de carne de bovino de alta qualidade, fresca, refrigerada ou congelada, dos códigos NC 0201, 0202, 0206 10 95 e 0206 29 91.\n\n2. Para o contingente previsto no n.º 1, o direito de importação é fixado em 0 %.\n\n3. O ano de contingentação decorre de 1 de Julho a 30 de Junho."
+  },
+  "3237d5d91e07d93a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO contingente pautal referido no artigo 1.º é gerido pela Comissão nos termos do artigo 144.º e do n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "e112c88e764d7830": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Agosto de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 13 de Julho de 2009.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**E. ERLANDSSON**\n\n---"
+  },
+  "9a075c707c60ab1b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/cb9e7512-9c9f-4592-a192-2acd85d9e194.0018.03/DOC_1#ntc1-L_2009182PT.01000101-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC)."
+  },
+  "81716aff9c6e3076": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho de 2009\n\nque abre um contingente pautal autónomo de importação de carne de bovino de alta qualidade\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 133.º,\n\nTendo em conta a proposta da Comissão,\n\n(1) Atendendo a que é do interesse da Comunidade manter relações comerciais harmoniosas com países terceiros, deverá ser aberto, a título autónomo, um contingente pautal comunitário de importação de 20 000 toneladas de carne de bovino de alta qualidade, fresca, refrigerada ou congelada.\n\n(2) De acordo com o artigo 144.º do Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/bd52ef36-8333-40c8-9e24-99cefa1805d8.0019.03/DOC_1#E0001)), em conjugação com o seu artigo 4.º, os contingentes pautais de produtos abrangidos pelo mesmo são abertos e geridos pela Comissão ao abrigo de normas de execução aprovadas nos termos do n.º 2 do artigo 195.º do referido regulamento,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "e218031d71637072": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É aberto, com o número de ordem 09.4449, um contingente pautal da União anual de importação de 21 500 toneladas, em peso do produto, de carne de bovino de alta qualidade, fresca, refrigerada ou congelada, dos códigos NC 0201, 0202, 0206 10 95 e 0206 29 91.\n\n1-A. A partir de 1 de agosto de 2012, o contingente pautal da União anual de importação referido no n.º 1 é aumentado para 48 200 toneladas, em peso do produto.\n\n2. Para o contingente previsto no n.º 1, o direito de importação é fixado em 0 %.\n\n3. O ano de contingentação decorre de 1 de Julho a 30 de Junho."
+  },
+  "05beeeaf0bd93618": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O contingente pautal de importação a que se refere o artigo 1.º é gerido pela Comissão por meio de atos de execução. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 2.º-A, n.º 2.\n\n2. A Comissão pode suspender, total ou parcialmente, a aplicação do contingente pautal de importação a que se refere o artigo 1.º por meio de atos de execução, se os Estados Unidos ou o Canadá não puserem em prática as etapas planeadas no Memorando de Entendimento entre os Estados Unidos e a Comissão Europeia ([^2^](http://publications.europa.eu/resource/cellar/bd52ef36-8333-40c8-9e24-99cefa1805d8.0019.03/DOC_1#E0002)) ou no Memorando de Entendimento entre o Governo do Canadá e a Comissão Europeia ([^3^](http://publications.europa.eu/resource/cellar/bd52ef36-8333-40c8-9e24-99cefa1805d8.0019.03/DOC_1#E0003)), respetivamente. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 2.º-A, n.º 2."
+  },
+  "1d99b3640287083a": {
+   "fragment_id": "Artigo 2.º-A",
+   "type": "artigo",
+   "heading": "Artigo 2.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º-A\n\n1. A Comissão é assistida pelo Comité de Gestão da Organização Comum dos Mercados Agrícolas criado pelo artigo 195.º, n.º 1, do Regulamento (CE) n.º 1234/2007. Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 ([^4^](http://publications.europa.eu/resource/cellar/bd52ef36-8333-40c8-9e24-99cefa1805d8.0019.03/DOC_1#E0004)).\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "75d4bf60027835e4": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Agosto de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "2c3d24741d5f6f42": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bd52ef36-8333-40c8-9e24-99cefa1805d8.0019.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bd52ef36-8333-40c8-9e24-99cefa1805d8.0019.03/DOC_1#src.E0002)) Memorando de Entendimento entre os Estados Unidos da América e a Comissão Europeia relativo à importação de carne de animais não tratados com certas hormonas de crescimento e ao aumento das taxas aplicadas pelos Estados Unidos a certos produtos das Comunidades Europeias, confirmado pelo Conselho por ofício de 12 de maio de 2009 e assinado em Genebra a 13 de maio de 2009.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bd52ef36-8333-40c8-9e24-99cefa1805d8.0019.03/DOC_1#src.E0003)) Memorando de Entendimento entre o Governo do Canadá e a Comissão Europeia relativo à importação de carne de animais não tratados com certas hormonas de crescimento e ao aumento das taxas aplicadas pelo Canadá a certos produtos da União Europeia, assinado em Genebra a 17 de março de 2011.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bd52ef36-8333-40c8-9e24-99cefa1805d8.0019.03/DOC_1#src.E0004)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  }
+ }
+}

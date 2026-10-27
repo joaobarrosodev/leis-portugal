@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0100:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0100-20070116",
+ "dre_path": null,
+ "source_lastmod": "2007-01-16",
+ "versions": [
+  {
+   "date": "1992-11-27",
+   "future": false,
+   "celex": "31992L0100",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870468b85b542db9",
+    "d242c619158f9ce6",
+    "89dc0c46f3c02d4c",
+    "655fb98a7b72be44",
+    "3327e4432dad7aaf",
+    "8ba993f698878685",
+    "5328a8847d217652",
+    "e70d3f1eb359ae41",
+    "484fbc6bc79a551e",
+    "9c02b904087fefef",
+    "e1a08597edb336bc",
+    "be9f10e6b965e0aa",
+    "f7593da5ce6cb8f2",
+    "b805dfb5b71ee0fa",
+    "1ae8812e9de814af",
+    "a282a9b198deae46",
+    "ff53b6077aa653b9"
+   ]
+  },
+  {
+   "date": "2007-01-16",
+   "future": false,
+   "celex": "01992L0100-20070116",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 19 de Novembro de 1992. Pelo Conselho"
+   ],
+   "fragments": [
+    "4fb5617d49666ef6"
+   ]
+  }
+ ],
+ "fragments": {
+  "870468b85b542db9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/100/CEE do Conselho, de 19 de Novembro de 1992, relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos aos direitos de autor em matéria de propriedade intelectual** *Jornal Oficial nº L 346 de 27/11/1992 p. 0061 - 0066*\n\nDIRECTIVA 92/100/CEE DO CONSELHO de 19 de Novembro de 1992 relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos aos direitos de autor em matéria de propriedade intelectual\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o no 2 do seu artigo 57o e os seus artigos 66o e 100oA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que existem diferenças a nível da protecção legal, dispensada pela legislação e práticas dos Estados-membros no que diz respeito às obras protegidas por direitos de autor e realizações protegidas por direitos conexos, no que se refere ao aluguer e ao comodato e que tais diferenças constituem uma fonte de obstáculos ao comércio e provocam distorções da concorrência que obstam à realização e ao correcto funcionamento do mercado interno;\n\nConsiderando que tais diferenças de protecção legal podem vir a aumentar à medida que os Estados-membros adoptarem legislação nova e divergente ou à medida que a interpretação de tal legislação pela jurisprudência nacional se desenvolve em sentidos divergentes;\n\nConsiderando que é necessário eliminar essas diferenças de acordo com o objectivo definido no artigo 8oA do Tratado de criação de um espaço sem fronteiras internas, a fim de, deste modo e nos termos da alínea f) do artigo 3o do Tratado, garantir que a concorrência não seja falseada no mercado comum;\n\nConsiderando que o aluguer e o comodato de obras protegidas por direitos de autor e realizações protegidas por direitos conexos desempenham um papel de importância crescente, em especial para os autores, artistas e produtores de fonogramas e filmes, cada vez mais ameaçados pela « pirataria »;\n\nConsiderando que uma protecção adequada das obras protegidas por direitos de autor e realizações protegidas por direitos conexos através dos direitos de aluguer e comodato, bem como a protecção de realizações abrangidas por direitos conexos através de um direito de fixação, de reprodução, de distribuição, de radiodifusão e de comunicação ao público pode, por conseguinte, ser considerada de importância fundamental para o desenvolvimento económico e cultural da Comunidade;\n\nConsiderando que os direitos de autor e a protecção assegurada por direitos conexos devem ser adaptados à evolução económica ocorrida, nomeadamente, a nível das novas formas de exploração;\n\nConsiderando que o trabalho criativo e artístico dos autores e dos artistas intérpretes e executantes exige uma remuneração adequada na perspectiva da continuação desse trabalho criativo e artístico; que os investimentos exigidos em especial para a produção de fonogramas e filmes são especialmente elevados e arriscados; que o pagamento dessa remuneração e a recuperação desse investimento só podem ser assegurados efectivamente através de uma protecção legal adequada dos titulares envolvidos;\n\nConsiderando que estas actividades criativas, artísticas e empresariais são, em grande medida, actividades de independentes; que o exercício de tais actividades deve ser facilitado pela existência de uma protecção legal harmonizada na Comunidade;\n\nConsiderando que, na medida em que estas actividades constituem essencialmente serviços, a sua prestação deve igualmente ser facilitada pelo estabelecimento na Comunidade de um enquadramento legal harmonizado;\n\nConsiderando que a legislação dos Estados-membros deve ser aproximada de forma a não entrar em conflito com as convenções internacionais em que se baseiam as legislações sobre direitos de autor e direitos conexos de muitos Estados-membros;\n\nConsiderando que o enquadramento legal da Comunidade relativo ao direito de aluguer e ao direito de comodato e a certos direitos conexos aos direitos de autor se pode limitar a estabelecer que os Estados-membros devem prever direitos em relação ao aluguer e ao comodato para certos grupos de titulares de direitos e, além disso, devem prever os direitos de fixação, de reprodução, de distribuição, de radiodifusão e da comunicação ao público para certos grupos de titulares no domínio da protecção dos direitos conexos;\n\nConsiderando que é necessário definir as noções de aluguer e comodato para efeitos da presente directiva;\n\nConsiderando desejável, por uma questão de clareza, excluir do aluguer e do comodato, na acepção da presente directiva, determinadas formas de colocação à disposição, como, por exemplo, a colocação à disposição de fonogramas ou filmes (obras cinematográficas ou audiovisuais ou sequências de imagens animadas, acompanhadas ou não de som) para exibição ou difusão públicas, a colocação à disposição para a realização de exposições e a colocação à disposição para consulta no local; que, na acepção da presente directiva, o comodato não inclui a colocação à disposição entre estabelecimentos acessíveis ao público;\n\nConsiderando que, no caso de o comodato por um estabelecimento acessível ao público dar lugar a um pagamento de um montante não superior ao necessário para cobrir os custos de financiamento do mesmo, não existem benefícios económicos ou comerciais, directos ou indirectos, na acepção da presente directiva;\n\nConsiderando que é necessário introduzir um regime que garanta que os autores e os artistas intérpretes ou executantes obterão uma remuneração equitativa inalienável, devendo os mesmos conservar a possibilidade de confiar a gestão desse direito a sociedades de gestão colectiva dos direitos de autor que os representem;\n\nConsiderando que essa remuneração equitativa poderá ser liquidada, mediante um ou mais pagamentos, na altura da celebração do contrato ou posteriormente;\n\nConsiderando que essa remuneração equitativa deverá ter em conta a importância da contribuição para o fonograma ou filme dos autores e dos artistas intérpretes ou executantes em causa;\n\nConsiderando que é igualmente necessário proteger, pelo menos, os direitos dos autores no que se refere ao aluguer ao público mediante a criação de um regime específico; que, no entanto, quaisquer medidas baseadas no artigo 5o da presente directiva terão de ser compatíveis com a legislação comunitária, especialmente com o artigo 7o do Tratado;\n\nConsiderando que o disposto no capítulo II da presente directiva não impede os Estados-membros de alargarem a presunção, definida no no 5 do artigo 2o, aos direitos exclusivos incluídos nesse capítulo; que, além disso, tal não impede os Estados-membros de preverem uma presunção simples de autorização de exploração a título dos direitos exclusivos dos artistas intérpretes ou executantes, previstos nessas disposições, desde que essa presunção seja compatível com a Convenção internacional para a protecção de artistas intérpretes ou executantes, produtores de fonogramas e organismos de radiodifusão, a seguir designada por « Convenção de Roma »;\n\nConsiderando que os Estados-membros poderão prever que os titulares de direitos conexos aos direitos de autor beneficiem de uma protecção superior à exigida no artigo 8o da presente directiva;\n\nConsiderando que os direitos de aluguer e comodato harmonizados e uma protecção harmonizada no âmbito dos direitos conexos aos direitos de autor não devem ser exercidos de modo a constituírem uma restrição dissimulada ao comércio entre Estados-membros nem de forma contrária à regra da cronologia da exploração dos meios de comunicação social, tal como reconhecido no processo Société Cinéthèque contra FNCF (4),\n\nADOPTOU A PRESENTE DIRECTIVA: CAPÍTULO I DIREITO DE ALUGUER E DE COMODATO"
+  },
+  "d242c619158f9ce6": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nObjecto de harmonização 1. Em conformidade com o disposto neste capítulo, os Estados-membros deverão prever, sem prejuízo do disposto no artigo 5o, o direito de autorizar ou proibir o aluguer e o comodato de originais e cópias de obras protegidas por direitos de autor e de outros objectos referidos no no 1 do artigo 2o\n\n2. Para efeitos da presente directiva, entende-se por « aluguer » a colocação à disposição para utilização, durante um período de tempo limitado e com benefícios comerciais directos ou indirectos.\n\n3. Para efeitos da presente directiva, entende-se por « comodato » a colocação à disposição para utilização, durante um período de tempo limitado, sem benefícios económicos ou comerciais, directos ou indirectos ou indirectos, se for efectuada através de estabelecimentos acessíveis ao público.\n\n4. Os direitos referidos no no 1 não se esgotam com a venda ou qualquer outro acto de distribuição dos originais ou cópias de obras protegidas por direitos de autor ou de outros objectos previstos no no 1 do artigo 2o"
+  },
+  "89dc0c46f3c02d4c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nTitulares e objecto do direito de aluguer e de comodato 1. O direito exclusivo de permitir ou proibir o aluguer e o comodato pertence:\n\n- ao autor, no que respeita ao original e às cópias da sua obra,\n\n- ao artista intérprete ou executante, no que respeita às fixações da sua prestação,\n\n- ao produtor de fonogramas, no que respeita aos seus fonogramas, e\n\n- ao produtor das primeiras fixações de um filme, no que se refere ao original e às cópias desse filme. Para efeitos da presente directiva, o termo filme designa a obra cinematográfica, obra audiovisual ou sequência de imagens animadas, acompanhada ou não de som.\n\n2. Para efeitos da presente directiva será considerado autor ou um dos autores o realizador principal de uma obra cinematográfica ou audiovisual. Os Estados-membros poderão prever que outras pessoas sejam consideradas co-autores.\n\n3. Os direitos de aluguer e comodato relativos a obras de arquitectura e obras de arte aplicada não são abrangidos pela presente directiva.\n\n4. Os direitos referidos no no 1 podem ser transmitidos, cedidos ou ser objecto de licença contratual.\n\n5. Sem prejuízo do disposto no no 7, quando for celebrado, individual ou colectivamente, um contrato de produção de filmes entre os artistas intérpretes ou executantes e um produtor, partir-se-á do princípio de que o artista intérprete ou executante abrangido por esse contrato transmitiu os seus direitos de aluguer, caso não existam cláusulas contratuais em contrário, e sem prejuízo do disposto no artigo 4o\n\n6. Os Estados-membros poderão prever um princípio semelhante ao previsto no no 5 relativamente aos autores.\n\n7. Os Estados-membros poderão estabelecer que a assinatura de um contrato celebrado entre um artista intérprete ou executante e um produtor de filmes relativamente à produção de um filme será equivalente à autorização de aluguer, desde que esse contrato estabeleça uma remuneração equitável na acepção do artigo 4o Os Estados-membros poderão igualmente prever que o presente número será aplicável mutatis mutandis aos direitos incluídos no capítulo II."
+  },
+  "655fb98a7b72be44": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nAluguer de programas de computador A presente directiva não prejudica o disposto na alínea c) do artigo 4o da Directiva 91/250/CEE do Conselho, de 14 de Maio de 1991, relativa à protecção jurídica dos programas de computador (5)."
+  },
+  "3327e4432dad7aaf": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nDireito inalienável a uma remuneração equitativa 1. Sempre que um autor ou artista intérprete ou executante transmita ou ceda o seu direito de aluguer relativo a um fonograma ou ao original ou cópia de um filme a um produtor de fonogramas ou filmes, este conservará o direito de auferir uma remuneração equitativa pelo aluguer.\n\n2. O direito a auferir uma remuneração equitativa a título do aluguer não pode ser objecto de renúncia por parte dos autores ou dos artistas intérpretes ou executantes.\n\n3. A gestão do direito de auferir uma remuneração equitativa pode ser confiada a sociedades de gestão colectiva dos direitos de autor que representem autores ou artistas intérpretes ou executantes.\n\n4. Os Estados-membros poderão determinar a questão de saber se e em que medida pode ser tornada obrigatória a administração pelas sociedades de gestão colectiva do direito de auferir uma remuneração equitativa, bem como determinar a quem essa remuneração pode ser reclamada ou cobrada."
+  },
+  "8ba993f698878685": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nDerrogação ao direito exclusivo de comodato 1. Os Estados-membros poderão derrogar o direito exclusivo previsto para os comodatos públicos no artigo 1o, desde que pelo menos os autores aufiram remuneração por conta de tais comodatos. Os Estados-membros poderão determinar livremente tal remuneração tendo em conta os seus objectivos de promoção da cultura.\n\n2. Sempre que os Estados-membros não aplicarem o direito exclusivo de comodato referido no artigo 1o relativamente aos programas, filmes e programas de computadores, deverão introduzir uma remuneração, pelo menos, para os autores.\n\n3. Os Estados-membros poderão isentar determinadas categorias de estabelecimentos do pagamento da remuneração referida nos nos 1 e 2.\n\n4. A Comissão elaborará, antes de 1 de Julho de 1997 e em colaboração com os Estados-membros, um relatório relativo ao comodato público na Comunidade, que transmitirá ao Parlamento Europeu e ao Conselho. CAPÍTULO II DIREITOS CONEXOS"
+  },
+  "5328a8847d217652": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nDireito de fixação 1. Os Estados-membros deverão prever que os artistas intérpretes ou executantes usufruam do direito de permitir ou proibir a fixação das suas prestações.\n\n2. Os Estados-membros deverão prever que os organismos de radiodifusão usufruam do direito exclusivo de permitir ou proibir a fixação das suas emissões, sejam elas efectuadas com ou sem fio, inclusivamente por cabo ou satélite.\n\n3. O distribuidor por cabo não usufruirá do direito previsto no no 2 sempre que efectue meras retransmissões por cabo de emissões de organismos de radiodifusão."
+  },
+  "e70d3f1eb359ae41": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nDireito de reprodução 1. Os Estados-membros deverão prever o direito exclusivo de permitir ou proibir a reprodução directa ou indirecta, no que se refere:\n\n- aos artistas intérpretes ou executantes, das fixações das suas prestações,\n\n- aos produtores de fonogramas, dos seus fonogramas,\n\n- aos produtores das primeiras fixações de filmes, do original e das cópias dos seus filmes, e\n\n- aos organismos de radiodifusão, das fixações das suas emissões, tal como estabelecido no no 2 do artigo 6o\n\n2. O direito de reprodução referido no no 1 pode ser transmitido, cedido ou ser objecto de licenças contratuais."
+  },
+  "484fbc6bc79a551e": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nRadiodifusão e comunicação ao público 1. Os Estados-membros deverão prever que os artistas intérpretes ou executantes usufruam do direito exclusivo de permitir ou proibir a radiodifusão e a comunicação ao público das suas prestações, excepto quando a prestação já seja, por si própria, uma prestação radiodifundida ou quando seja efectuada a partir de uma fixação.\n\n2. Os Estados-membros deverão prever um direito tendente a garantir o pagamento de uma remuneração equitativa e única pelos utilizadores que usem fonogramas publicados com fins comerciais ou suas reproduções em emissões radiodifundidas por ondas radioeléctricas ou em qualquer tipo de comunicações ao público, bem como garantir a partilha de tal remuneração pelos artistas intérpretes ou executantes e pelos produtores dos fonogramas assim utilizados. Na falta de acordo entre os artistas intérpretes ou executantes e os produtores dos fonogramas, os Estados-membros poderão determinar as condições em que deverá ser por eles repartida a referida remuneração.\n\n3. Os Estados-membros deverão prever que as organizações de radiodifusão usufruam do direito exclusivo de permitir ou proibir a retransmissão das suas emissões por ondas radioeléctricas, bem como a comunicação ao público das mesmas, caso essa comunicação seja realizada em locais abertos ao público com entrada paga."
+  },
+  "9c02b904087fefef": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nDireito de distribuição 1. Os Estados-membros deverão prever que:\n\n- os artistas intérpretes ou executantes, no que respeita às fixações das suas prestações,\n\n- os produtores de fonogramas, no que respeita aos seus fonogramas,\n\n- os produtores das primeiras fixações de filmes, no que respeita ao original e às cópias dos seus filmes,\n\n- os organismos de radiodifusão, no que respeita às gravações das suas emissões, tal como estabelecido no no 2 do artigo 6o,\n\nusufruam do direito exclusivo de divulgarem ao público estes objectos, incluindo as suas cópias, por venda ou de qualquer outra forma, a seguir designado « direito de distribuição ».\n\n2. O direito de distribuição só se extingue na Comunidade relativamente a um objecto referido no no 1 aquando da primeira venda na Comunidade desse objecto pelo titular do direito ou com o seu consentimento.\n\n3. O direito de distribuição não afecta as disposições específicas contidas no capítulo I e, designadamente, no no 4 do artigo 1o\n\n4. O direito de distribuição pode ser transmitido, cedido ou ser objecto de licenças contratuais."
+  },
+  "e1a08597edb336bc": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nLimitações dos direitos 1. Os Estados-membros poderão prever limitações aos direitos referidos no capítulo II nos seguintes casos:\n\na) Utilização privada;\n\nb) Utilização de excertos curtos para reportagem de acontecimentos actuais;\n\nc) Fixação efémera por um organismo de radiodifusão com os seus próprios meios e para as suas próprias emissões;\n\nd) Utilização unicamente para fins de ensino ou investigação científica.\n\n2. Sem prejuízo do disposto no no 1, os Estados-membros poderão prever, no que respeita à protecção dos artistas intérpretes ou executantes, dos produtores de fonogramas, dos organismos de radiodifusão e dos produtores das primeiras fixações de filmes, o mesmo tipo de limitações que a legislação estabelece em matéria de protecção dos direitos de autor para as obras literárias e artísticas. No entanto, só podem ser previstas licenças obrigatórias desde que sejam compatíveis com a Convenção de Roma.\n\n3. O disposto na alínea a) do no 1 não afecta a legislação existente ou futura sobre o pagamento da cópia para utilização privada. CAPÍTULO III DURAÇÃO"
+  },
+  "be9f10e6b965e0aa": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nDuração dos direitos de autor Sem prejuízo de posterior harmonização, os direitos de autor referidos na presente directiva não se extinguirão antes do termo do prazo fixado pela Convenção de Berna para a protecção das obras literárias e artísticas."
+  },
+  "f7593da5ce6cb8f2": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nDuração dos direitos conexos Sem prejuízo de posterior harmonização, os direitos referidos na presente directiva dos artistas intérpretes ou executantes, dos produtores de fonogramas e dos organismos de radiodifusão não se extinguirão antes do final dos prazos respectivos estabelecidos pela Convenção de Roma. Os direitos referidos na presente directiva para os produtores das primeiras fixações de filmes não se extinguirão antes de decorrido um prazo de vinte anos a contar do final do ano em que se realizou a fixação. CAPÍTULO IV DISPOSIÇÕES COMUNS"
+  },
+  "b805dfb5b71ee0fa": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nAplicabilidade no tempo 1. A presente directiva aplicar-se-á a todas as obras, prestações, fonogramas, emissões e primeiras fixações de filmes referidos na presente directiva que, em 1 de Julho de 1994, ainda estejam protegidos pela legislação dos Estados-membros no domínio dos direitos de autor e direitos conexos ou que nessa data correspondam aos critérios de protecção nos termos da presente directiva.\n\n2. A presente directiva aplicar-se-á sem prejuízo de quaisquer actos de exploração realizados antes de 1 de Julho de 1994.\n\n3. Os Estados-membros poderão prever que se considere que os titulares dos direitos deram a sua autorização para o aluguer ou o comodato de qualquer objecto referido no no 1 do artigo 2o em relação ao qual se prove que foi posto à disposição de terceiros para esse fim ou que foi adquirido antes de 1 de Julho de 1994. No entanto, quando se tratar de uma gravação digital, os Estados-membros poderão prever que os titulares dos direitos terão direito a uma remuneração adequada pelo aluguer ou comodato desse objecto.\n\n4. Os Estados-membros não serão obrigados a aplicar as disposições do no 2 do artigo 2o às obras cinematográficas ou audiovisuais criadas antes de 1 de Julho de 1994.\n\n5. Os Estados-membros poderão determinar a data de início da aplicação do no 2 do artigo 2o, desde que esta não seja posterior a 1 de Julho de 1997.\n\n6. Sem prejuízo do disposto no no 3 e nos termos do disposto nos nos 8 e 9, a presente directiva aplicar-se-á sem prejuízo de quaisquer contratos celebrados antes da data da sua adopção.\n\n7. Sem prejuízo do disposto nos nos 8 e 9, os Estados-membros poderão prever que, sempre que os titulares que adquirirem novos direitos ao abrigo das disposições nacionais adoptadas para dar cumprimento à presente directiva tiverem autorizado a exploração antes de 1 de Julho de 1994, se partirá do princípio de que transmitiram os novos direitos exclusivos.\n\n8. Os Estados-membros poderão determinar a data a partir da qual será aplicável o direito a uma remuneração equitativa, previsto no artigo 4o, desde que essa data não seja posterior a 1 de Julho de 1997.\n\n9. No que se refere aos contratos celebrados antes de 1 de Julho de 1994, o direito a uma remuneração equitativa, previsto no artigo 4o, só será aplicável se os autores ou os artistas intérpretes ou executantes ou os seus representantes apresentarem um pedido nesse sentido até 1 de Janeiro de 1997. Se não existir acordo entre os titulares no que se refere ao nível da remuneração, os Estados-membros estabelecerão o nível da remuneração equitativa."
+  },
+  "1ae8812e9de814af": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nRelação entre direitos de autor e direitos conexos A protecção dos direitos conexos ao abrigo da presente directiva não afecta nem prejudica de modo algum a protecção dos direitos de autor."
+  },
+  "a282a9b198deae46": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nDisposições finais 1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Julho de 1994. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "ff53b6077aa653b9": {
+   "fragment_id": "Artigo 16o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 19 de Novembro de 1992. Pelo Conselho",
+   "type": "artigo",
+   "heading": "Artigo 16o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 19 de Novembro de 1992. Pelo Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 19 de Novembro de 1992. Pelo Conselho\n\nO Presidente\n\nE. LEIGH\n\n(1) JO no C 53 de 28. 2. 1991 p. 35 e JO no C 128 de 20. 5. 1992, p. 8. (2) JO no C 67 de 16. 3. 1992, p. 92 e decisão de 28 de Outubro de 1992 (ainda não publicada no Jornal Oficial) (3) JO no C 269 de 14. 10. 1991, p. 54. (4) Processos 60/84 e 61/84, Colectânea de Jurisprudência do Tribunal 1985, p. 2605. (5) JO no L 122 de 17. 5. 1991, p. 42."
+  },
+  "4fb5617d49666ef6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0100 — PT — 16.01.2007 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992L0100) [DIRECTIVA 92/100/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0100) [de 19 de Novembro de 1992](http://publications.europa.eu/resource/celex/31992L0100) [relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos aos direitos de autor em matéria de propriedade intelectual](http://publications.europa.eu/resource/celex/31992L0100) (JO L 346, 27.11.1992, p.61)\n\n**revogado por:**\n\n- [Directiva 2006/115/CE do Parlamento Europeu e do Conselho de 12 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0115) — L 376 — 28 — 27.12.2006"
+  }
+ }
+}

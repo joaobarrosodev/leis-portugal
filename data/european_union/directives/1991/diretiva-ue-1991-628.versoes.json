@@ -1,0 +1,359 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0628:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0628-20070105",
+ "dre_path": null,
+ "source_lastmod": "2007-01-05",
+ "versions": [
+  {
+   "date": "1991-12-11",
+   "future": false,
+   "celex": "31991L0628",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6414d95c405c37ea",
+    "fcee2c7d635659c2",
+    "b923c9f3ae7a6bb9",
+    "4485ad9d80bb8483",
+    "45172a2a5da464d0",
+    "1c9c35cd056be827",
+    "8c69c2d3b4cd8951",
+    "48e8595e3d6522fb",
+    "bb65e99a25c03f62",
+    "b0ab4bef99bf02c1",
+    "b149bacf54332ecd",
+    "4b450e4d5e571c5f",
+    "fa459016c3e8c34a",
+    "c591296845983b63",
+    "51c6a8e7f9373138",
+    "b83741a9d8366eb5",
+    "4f0ac4950d1a501b",
+    "5f21ede93afcbb30",
+    "ce594b46aef2329a",
+    "9d093380ac6fbb39",
+    "be8513e74fe278f5",
+    "f19b2939c094209f",
+    "406fd8e50f1496ec",
+    "60ccd75c3d65e38c",
+    "b4b61777dafed909",
+    "e8abf36263823f3f",
+    "c76247967739b67d",
+    "2c594fd872169fa0",
+    "f8faead843939ff4",
+    "89afaeb1e63fcbfa",
+    "b8c26f50b40019d9",
+    "2811ee8351a1a357"
+   ]
+  },
+  {
+   "date": "2007-01-05",
+   "future": false,
+   "celex": "01991L0628-20070105",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I Disposições gerais",
+    "Suprime Artigo 1o.",
+    "Suprime Artigo 2o.",
+    "Suprime CAPÍTULO II Transporte e controlo no território da Comunidade",
+    "Suprime Artigo 3o.",
+    "Suprime Artigo 4o.",
+    "Suprime Artigo 5o.",
+    "Suprime Artigo 6o.",
+    "Suprime Artigo 7o.",
+    "Suprime Artigo 8o.",
+    "Suprime Artigo 9o.",
+    "Suprime Artigo 10o.",
+    "Suprime CAPÍTULO III Importação proveniente de países terceiros",
+    "Suprime Artigo 11o.",
+    "Suprime CAPÍTULO IV Disposições finais",
+    "Suprime Artigo 12o.",
+    "Suprime Artigo 13o.",
+    "Suprime Artigo 14o.",
+    "Suprime Artigo 15o.",
+    "Suprime Artigo 16o.",
+    "Suprime Artigo 17o.",
+    "Suprime Artigo 18o.",
+    "Suprime Artigo 19o.",
+    "Suprime Artigo 20o.",
+    "Suprime Artigo 21o.",
+    "Suprime Artigo 22o.",
+    "Suprime ANEXO — CAPÍTULO I SOLÍPEDES DOMÉSTICOS E ANIMAIS DOMÉSTICOS DAS ESPÉCIES BOVINA, OVINA, CAPRINA E SUÍNA",
+    "Suprime CAPÍTULO II AVES DE CAPOEIRA, AVES DOMÉSTICAS E COELHOS DOMÉSTICOS",
+    "Suprime CAPÍTULO III CÃES DOMÉSTICOS E GATOS DOMÉSTICOS",
+    "Suprime CAPÍTULO IV OUTROS MAMÍFEROS E AVES",
+    "Suprime CAPÍTULO V OUTROS ANIMAIS VERTEBRADOS E ANIMAIS DE SANGUE FRIO"
+   ],
+   "fragments": [
+    "727c2c6e8f7bb612"
+   ]
+  }
+ ],
+ "fragments": {
+  "6414d95c405c37ea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 91/628/CEE do Conselho, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte e que altera as Directivas 90/425/CEE e 91/496/CEE** *Jornal Oficial nº L 340 de 11/12/1991 p. 0017 - 0027*\n\nDIRECTIVA DO CONSELHO\n\nde 19 de Novembro de 1991\n\nrelativa à protecção dos animais durante o transporte e que altera as Directivas 90/425/CEE e 91/496/CEE\n\n(91/628/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o Parlamento Europeu, na sua resolução de 20 de Fevereiro de 1987, sobre medidas relativas ao bem-estar dos animais (4), solicitou à Comissão a apresentação de propostas relativas à protecção dos animais durante o transporte;\n\nConsiderando que, a fim de eliminar as barreiras técnicas ao comércio de animais vivos e permitir que as organizações de mercado em questão funcionem de um modo adequado, assegurando simultaneamente um nível satisfatório de protecção dos animais em causa, a Comunidade adoptou regras neste domínio;\n\nConsiderando que todos os Estados-membros ratificaram a Convenção Europeia para a Protecção dos Animais durante o Transporte Internacional e assinaram o protocolo adicional que permite à Comunidade, enquanto tal, aderir à referida convenção;\n\nConsiderando que o Regulamento (CEE) no. 3626/82 do Conselho, de 3 de Dezembro de 1982, relativo à aplicação na Comunidade da Convenção sobre o Comércio Internacional das Espécies Selvagens, da Fauna e da Flora Ameaçadas de Extinção (5), a seguir denominada «CITES», regulamenta as condições de transporte de determinadas espécies;\n\nConsiderando que a Directiva 77/489/CEE (6) estabelece regras relativas à protecção dos animais durante o transporte internacional; que a Directiva 81/389/CEE (7) estabelece medidas para execução da Directiva 77/489/CEE e, nomeadamente, introduziu controlos nas fronteiras internas da Comunidade;\n\nConsiderando que, para atingir os mesmos objectivos, nomeadamente a proteccção dos animais durante o transporte, se afigura necessário, no âmbito da realização do mercado interno, alterar as normas da Directiva 90/425//CEE (8), com vista nomeadamente a harmonizar os controlos anteriores relativos ao bem-estar dos animais durante o transporte;\n\nConsiderando que, neste contexto, o transporte de animais no interior, para e a partir da Comunidade deve ser efectuado ao abrigo das referidas regras e que devem ser abolidos os controlos sistemáticos nas fronteiras internas da Comunidade;\n\nConsiderando que, por razões de bem-estar dos animais, se deverá reduzir tanto quanto possível o transporte de animais a grandes distâncias, incluindo o transporte de animais para abate;\n\nConsiderando que as regras propostas devem assegurar uma protecção mais eficaz dos animais durante o transporte;\n\nConsiderando que convém alterar ainda a Directiva 91//496/CEE (9) para a adaptar à presente directiva; que convém ainda revogar as Directivas 77/489/CEE e 81//389/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "fcee2c7d635659c2": {
+   "fragment_id": "CAPÍTULO I Disposições gerais",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Disposições gerais"
+  },
+  "b923c9f3ae7a6bb9": {
+   "fragment_id": "Artigo 1o.",
+   "type": "artigo",
+   "heading": "Artigo 1o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o.\n\n1. A presente directiva aplica-se ao transporte de:\n\na) Solípedes domésticos e animais domésticos das espécies bovina, ovina, caprina e suína;\n\nb)\n\nAves de capoeira, aves domésticas e coelhos domésticos;\n\nc)\n\nCães domésticos e gatos domésticos;\n\nd)\n\nOutros mamíferos e aves;\n\ne)\n\nOutros animais vertebrados e animais de sangue frio.\n\n( 7) JO no. L 224 de 18. 8. 1990, p. 29. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO no. L 268 de 24. 9. 1991, p. 56).\n\n(§) JO no. L 268 de 24. 9. 1991, p. 56.\n\n2. Não são afectados pela presente directiva:\n\na)\n\nOs viajantes que transportem animais de estimação, desde que esse transporte não tenha fins lucrativos;\n\nb)\n\nSem prejuízo das disposições nacionais nesta matéria, os transportes de animais efectuados:\n\n- numa distância não superior a 50 quilómetros a partir do início do transporte até ao lugar de destino, ou\n\n- pelos criadores ou por criadores de engorda em viaturas agrícolas ou meios de transporte que lhes pertençam, nos casos em que as circunstâncias geográficas obriguem a uma transumância sazonal, sem fins lucrativos, de determinados tipos de animais."
+  },
+  "4485ad9d80bb8483": {
+   "fragment_id": "Artigo 2o.",
+   "type": "artigo",
+   "heading": "Artigo 2o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o.\n\n1. Para efeitos da presente directiva, aplicam-se, quando pertinentes, as definições que constam do artigo 2o. das Directivas 89/662/CEE (1), 90/425/CEE, 90/675//CEE (2) e 91/496/CEE.\n\n2. Além disso, entende-se por:\n\na) «Meio de transporte»: as partes de veículos automóveis, veículos sobre carris, navios e aeronaves, utilizadas para o carregamento e transporte de animais, bem como os contentores para o transporte por terra, mar ou ar;\n\nb)\n\n«Transporte»: qualquer movimento de animais, efectuado com o auxílio de um meio de transporte, incluindo a carga e a descarga dos animais;\n\nc)\n\n«Ponto de paragem»: um local onde o transporte é interrompido para repouso, alimentação ou abeberamento dos animais;\n\nd)\n\n«Ponto de transferência»: um local onde o transporte é interrompido para transferência dos animais de um meio de transporte para outro;\n\ne)\n\n«Local de partida»: o local onde, sem prejuízo do no. 2, alínea b) do artigo 1o. um animal é carregado pela primeira vez num meio de transporte, assim como todos os locais em que os animais tenham sido descarregados e alojados durante, pelo menos, dez horas, e onde tenham sido dessedentados, alimentados e, eventualmente, tratados, com exclusão dos pontos de paragem e dos pontos de transferência.\n\nPodem, igualmente, ser considerados locais de partida os mercados e centros de reunião aprovados em conformidade com a legislação comunitária:\n\n- quando o primeiro local de carregamento dos animais se situar a menos de 50 quilómetros dos referidos mercados ou centros de reunião,\n\n- no caso de a distância, referida no primeiro travessão, ser superior a 50 quilómetros, quando os animais tiverem beneficiado de um período de repouso a determinar em conformidade com o procedimento previsto no artigo 17o. e tiverem sido alimentados e dessedentados antes de voltarem a ser carregados;\n\nf)\n\n«Local de destino»: o local onde um animal é descarregado pela última vez de um meio de transporte, com exclusão dos pontos de paragem e dos pontos de transferência;\n\ng)\n\n«Viagem»: a deslocação do local de partida para o local de destino."
+  },
+  "45172a2a5da464d0": {
+   "fragment_id": "CAPÍTULO II Transporte e controlo no território da Comunidade",
+   "type": "divisao",
+   "heading": "CAPÍTULO II Transporte e controlo no território da Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II Transporte e controlo no território da Comunidade"
+  },
+  "1c9c35cd056be827": {
+   "fragment_id": "Artigo 3o.",
+   "type": "artigo",
+   "heading": "Artigo 3o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o.\n\n1. Os Estados-membros diligenciarão por que:\n\na) O transporte de animais no interior, para e a partir de cada Estado-membro seja realizado em conformidade com o disposto na presente directiva e, no que diz respeito aos animais referidos:\n\n- na alínea a) do no. 1 do artigo 1o., com o disposto no capítulo I do anexo,\n\n- na alínea b) do no. 1 do artigo 1o., com o disposto no capítulo II do anexo,\n\n- na alínea c) do no. 1 do artigo 1o., com o disposto no capítulo III do anexo,\n\n- na alínea d) do no. 1 do artigo 1o., com o disposto no capítulo IV do anexo,\n\n- na alínea e) do no. 1 do artigo 1o., com o disposto no capítulo V do anexo;\n\nb)\n\nNenhum animal seja transportado sem que esteja apto para realizar a viagem prevista e sem que tenham sido tomadas medidas para que seja tratado durante a viagem e à chegada ao local de destino. Os animais que estejam doentes ou lesionados não serão considerados aptos para o transporte. Contudo, esta disposição não se aplica:\n\nii) aos animais doentes ou com ferimentos ligeiros cujo transporte não implique sofrimentos desnecessários,\n\nii) aos animais transportados para fins científicos aprovados pela autoridade competente;\n\nc)\n\nQuaisquer animais que fiquem doentes ou feridos durante o transporte devem receber os primeiros cuidados logo que possível, sendo eventualmente submetidos a tratamento veterinário adequado e, se necessário, abatidos com urgência por forma a serem poupados a sofrimentos desnecessários.\n\n2. Em derrogação do diposto no no. 1, alínea b), os Estados-membros podem autorizar o transporte de animais para tratamento veterinário ou abate urgente, em condições que não obedeçam ao disposto na presente directiva. Os Estados-membros velarão por que apenas sejam permitidos transportes deste tipo se isso não implicar um sofrimento inútil ou maus tratos para os animais. Se necessário, serão adoptadas regras específicas de execução do presente número, em conformidade com o procedimento previsto no artigo 17o.\n\n3. Sem prejuízo do disposto no no. 1, alíneas a) e b), e no anexo, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, definirá as condições adicionais adequadas para o transporte de determinados tipos de animais, nomeadamente dos solípedes, aves selvagens e mamíferos marinhos, de modo a garantir o seu bem-estar.\n\nEnquanto não entrarem em vigor essas disposições, os Estados-membros poderão, respeitando as disposições gerais do Tratado, aplicar as normas nacionais que se revelarem adequadas nesta matéria."
+  },
+  "8c69c2d3b4cd8951": {
+   "fragment_id": "Artigo 4o.",
+   "type": "artigo",
+   "heading": "Artigo 4o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o.\n\nOs Estados-membros diligenciarão por que os animais se mantenham identificados e registados durante toda a viagem, em conformidade com o no. 1, alínea c), do artigo 3o. da Directiva 90/425/CEE, e sejam acompanhados pelos documentos previstos pela regulamentação comunitária ou nacional por forma a permitir à autoridade competente determinar:\n\n- a sua origem e o seu proprietário,\n\n- os seus locais de partida e de destino,\n\n- a data e a hora de partida."
+  },
+  "48e8595e3d6522fb": {
+   "fragment_id": "Artigo 5o.",
+   "type": "artigo",
+   "heading": "Artigo 5o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o.\n\nOs Estados-membros diligenciarão por que:\n\n1. Todas as pessoas singulares e colectivas que procedam ao transporte de animais, sem fins lucrativos:\n\na) Estejam registadas, de modo a permitir à autoridade competente controlar o cumprimento das exigências da presente directiva;\n\nb)\n\nUtilizem para o transporte dos animais, referidos na presente directiva, meios de transporte conformes com as disposições previstas no anexo;\n\nc)\n\nNão transportem nem mandem transportar animais em condições em que estes possam ficar feridos ou ter sofrimentos inúteis.\n\n2.\n\nO responsável pela empresa de transporte de animais:\n\na)\n\nConfie o transporte a pessoal com os conhecimentos necessários para eventualmente dispensar os cuidados adequados aos animais transportados;\n\nb)\n\nElabore, para cada transporte de duração superior a 24 horas, em função dos pontos de partida e de chegada, um itinerário - incluindo os eventuais pontos de paragem ou de transferência - que permita garantir a alimentação e o abeberamento, bem como uma eventual descarga e recolha dos animais, respeitando as exigências da presente directiva relativamente ao tipo de animal a transportar;\n\nc)\n\nEm função das espécies transportadas e quando o tempo necessário para percorrer a distância exceda 24 horas, esteja em condições de apresentar provas de que foram tomadas disposições para satisfazer as necessidades de abeberamento e de alimentação dos animais transportados durante a viagem, mesmo que haja alteração do plano de marcha ou interrupção da viagem por razões independentes;\n\nd)\n\nGaranta que os animais serão rapidamente encaminhados para o seu local de destino, apesar das pausas para repouso de que beneficiam normalmente os condutores;\n\ne)\n\nEnvie juntamente com o transporte o original da guia de marcha referido na alínea b), completada com a data, o local e a hora de partida;\n\nf)\n\nDurante um período determinado pela autoridade competente, conserve um duplicado da guia de marcha acima referida para apresentação, caso lhe seja solicitado, à autoridade competente, para eventual verificação;\n\ng)\n\nSempre que os animais sejam transportados sem acompanhamento, se certifique de que o expedidor cumpriu as disposições da presente directiva respeitantes à entrega dos animais e de que o destinatário tomou as medidas necessárias para os receber.\n\n3.\n\nOs pontos de paragem que previamente tenham sido decididos pelo responsável a que se refere o no. 2 sejam sujeitos a um controlo regular pela autoridade competente."
+  },
+  "bb65e99a25c03f62": {
+   "fragment_id": "Artigo 6o.",
+   "type": "artigo",
+   "heading": "Artigo 6o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o.\n\n1. A Directiva 90/425/CEE é alterada do seguinte modo:\n\na) O terceiro parágrafo do artigo 1o. passa a ter a seguinte redacção:\n\n«As disposições da presente directiva não são aplicáveis aos controlos efectuados no âmbito de missões executadas de forma não discriminatória pelas autoridades encarregadas da aplicação geral das leis nos Estados-membros.»;\n\nb)\n\nO ponto 1 do Anexo A é completado pela seguinte referência:\n\n«Directiva 91/628/CEE do Conselho, de 19 Novembro de 1991, relativa à protecção dos animais durante o transporte e que altera as Directivas 90/425/CEE e 91/496/CEE (JO no. L 340 de 11. 12. 1991, p. 17).»\n\n1. Os certificados ou documentos referidos no artigo 3o. da Directiva 90/425/CEE são completados de acordo com o procedimento previsto no artigo 17o., a fim de ter em conta as exigências da presente directiva.\n\n3. A troca de informações entre autoridades, tendo em vista o cumprimento das exigências da presente directiva, deverá ser integrada no sistema informatizado previsto no artigo 20o. da Directiva 90/425/CEE (ANIMO) e, no caso das importações provenientes de países terceiros, no projecto Shift, nos termos do disposto no no. 4 do artigo 12o. da Directiva 91/496/CEE.\n\nAs regras de execução do presente número serão adoptadas de acordo com o procedimento previsto no artigo 17o."
+  },
+  "b0ab4bef99bf02c1": {
+   "fragment_id": "Artigo 7o.",
+   "type": "artigo",
+   "heading": "Artigo 7o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o.\n\n1. Quando greves ou outras circunstâncias imprevisíveis impeçam a aplicação do disposto na presente directiva, os Estados-membros diligenciarão no sentido de que sejam tomadas todas as medidas necessárias para evitar ou reduzir ao mínimo qualquer atraso durante o transporte, bem como o sofrimento dos animais. Devem ser tomadas medidas especiais nos portos, nos aeroportos, nas estações de caminhos-de-ferro, nas estações de triagem e nos postos de inspecção fronteiriços, referidos no artigo 6o. da Directiva 91/496/CEE, para acelerar o transporte dos animais em condições conformes com o disposto na presente directiva.\n\n2. Sem prejuízo de outras disposições comunitárias de polícia sanitária, nenhuma remessa de animais deve ser retida durante o transporte, a não ser que tal seja estritamente necessário para o bem-estar dos animais. Se uma remessa de animais for retida por mais de duas horas, deverão ser tomadas as medidas adequadas para que os animais possam receber tratamento e, se necessário, ser descarregados e alojados."
+  },
+  "b149bacf54332ecd": {
+   "fragment_id": "Artigo 8o.",
+   "type": "artigo",
+   "heading": "Artigo 8o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o.\n\nOs Estados-membros velarão por que, no respeito pelos princípios e regras de controlo estabelecidos pela Directiva 90/425/CEE, as autoridades competentes controlem o cumprimento das exigências da presente directiva, procedendo de maneira não discriminatória à inspecção:\n\na) Dos meios de transporte e dos animais à chegada ao local de destino;\n\nb)\n\nDos meios de transporte e dos animais nos mercados, noutros locais de partida e nos pontos de paragem e de transferência;\n\nc)\n\nDas indicações constantes dos documentos de acompanhamento.\n\nAlém disso, durante o transporte, poderão também ser efectuados controlos no seu território dos animais durante o transporte quando a autoridade competente do Estado-membro dispuser de informações que lhe permitam suspeitar de uma infracção.\n\nOs controlos efectuados no âmbito de missões realizadas de forma não discriminatória pelas autoridades encarregadas da aplicação geral das leis nos Estados-membros não são afectados pelo disposto no presente artigo."
+  },
+  "4b450e4d5e571c5f": {
+   "fragment_id": "Artigo 9o.",
+   "type": "artigo",
+   "heading": "Artigo 9o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o.\n\n1. Quando, no decurso de um transporte, se verificar que o disposto na presente directiva não está a ser ou não foi cumprido, a autoridade competente do local em que for feita essa verificação deve solicitar às pessoas encarregadas do meio de transporte que tomem todas as medidas que a autoridade competente considere necessárias, para salvaguardar o bem-estar dos animais em questão.\n\nConsoante as circunstância de cada caso, tais medidas podem consistir em:\n\na) Pôr termo à viagem ou devolver os animais ao seu local de partida, pelo itinerário mais directo, se tal não provocar sofrimento evitável aos animais;\n\nb)\n\nAlojar os animais em instalações adequadas e prestar-lhes os cuidados devidos, até que o problema seja resolvido;\n\nc)\n\nMandar abater os animais em condições humanitárias. O destino e a utilização das carcaças desses animais serão decididos nos termos do disposto na Directiva 64/433/CEE (1).\n\n2. Se a pessoa encarregada do transporte não respeitar as instruções da autoridade competente, esta executará imediatamente as medidas em questão e assegurará, de acordo com o procedimento apropriado, a recuperação das despesas causadas pela execução dessas medidas.\n\n3. A presente directiva não afecta os meios de recurso contra as decisões das autoridades competentes proporcionados pela legislação em vigor nos Estados-membros.\n\nAs decisões tomadas pelas autoridades competentes do Estado-membro devem ser comunicadas com indicação dos respectivos motivos ao expedidor ou seu mandatário, bem como à autoridade competente do Estado-membro de expedição.\n\nSe o expedidor ou o seu mandatário o solicitarem, as decisões fundamentadas ser-lhes-ão transmitidas por escrito, com indicação dos meios de recurso proporcionados pela legislação em vigor no Estado-membro de destino, bem como da forma e prazos em que esses recursos devem ser interpostos.\n\nTodavia, em caso de litígio, e se ambas as partes estiverem de acordo, o litígio pode, no prazo máximo de dois meses, ser submetido à apreciação de um perito constante de uma lista de peritos da Comunidade a elaborar pela Comissão.\n\nCompete ao perito dar parecer num prazo máximo de setenta e duas horas. As partes devem aceitar a decisão do perito, na observância da legislação veterinária comunitária."
+  },
+  "fa459016c3e8c34a": {
+   "fragment_id": "Artigo 10o.",
+   "type": "artigo",
+   "heading": "Artigo 10o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o.\n\n1. Os peritos veterinários da Comissão podem, na medida em que tal seja necessário para a aplicação uniforme da presente directiva, efectuar inspecções in loco, em colaboração com as autoridades competentes dos Estados-membros. O Estado-membro em cujo território sejam efectuadas as inspecções deve prestar aos peritos toda a assistência necessária para o desempenho das suas funções. A Comissão informará os Estados-membros dos resultados das inspecções efectuadas.\n\n2. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 17o."
+  },
+  "c591296845983b63": {
+   "fragment_id": "CAPÍTULO III Importação proveniente de países terceiros",
+   "type": "divisao",
+   "heading": "CAPÍTULO III Importação proveniente de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III Importação proveniente de países terceiros"
+  },
+  "51c6a8e7f9373138": {
+   "fragment_id": "Artigo 11o.",
+   "type": "artigo",
+   "heading": "Artigo 11o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o.\n\n1. São aplicáveis, nomeadamente em matéria de organização e do seguimento a dar aos controlos, as normas previstas na Directiva 91/496/CEE.\n\n2. A importação, o trânsito e o transporte na e através da Comunidade dos animais vivos referidos na presente directiva, provenientes de países terceiros, só são autorizados se o exportador e/ou o importador se comprometerem por escrito a respeitar as exigências da presente directiva.\n\n3. A partir de 1 de Janeiro de 1993, no no. 2 do artigo 4o. da Directiva 91/496/CEE, o primeiro parágrafo da alínea d) passa a ter a seguinte redacção:\n\n«d) A verificação do cumprimento do disposto na Directiva 91/628/CEE do Conselho, de 19 de Novembro de 1991, relativa à protecção dos animais durante o transporte e que altera as Directivas 90/425/CEE e 91/496/CEE (*).\n\n(*) JO no. L 340 de 11. 12. 1991, p. 17.».\n\n4. O certificado ou os documentos previstos no no. 1, terceiro travessão, do artigo 4o. da Directiva 91/496/CEE serão completados de acordo com o procedimento previsto no artigo 17o. para ter em conta as exigências da presente directiva.\n\nEnquanto essas disposições não forem adoptadas, são aplicáveis as normas nacionais pertinentes nesta matéria, dentro da observância das disposições gerais do Tratado."
+  },
+  "b83741a9d8366eb5": {
+   "fragment_id": "CAPÍTULO IV Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV Disposições finais"
+  },
+  "4f0ac4950d1a501b": {
+   "fragment_id": "Artigo 12o.",
+   "type": "artigo",
+   "heading": "Artigo 12o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o.\n\nAs normas e o processo de informação previstos na Directiva 89/608/CEE (¹) são aplicáveis, mutatis mutandis, para efeitos da presente directiva.\n\n(¹) JO no. L 351 de 2. 12. 1989, p. 34."
+  },
+  "5f21ede93afcbb30": {
+   "fragment_id": "Artigo 13o.",
+   "type": "artigo",
+   "heading": "Artigo 13o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o.\n\n1. Até 1 de Julho de 1992, a Comissão apresentará um relatório elaborado com base num parecer do Comité Científico Veterinário, eventualmente acompanhado de propostas, sobre:\n\n- a questão da fixação de um período máximo de transporte para certos tipos de animais,\n\n- os intervalos previstos no capítulo I, ponto A, no. 2, alínea d), do anexo,\n\n- o período de repouso previsto no no. 2, alínea b), do artigo 5o.,\n\n- as normas de densidade de carga aplicáveis ao transporte de certos tipos de animais,\n\n- as normas a que devem obedecer os meios de transporte no que se refere ao transporte de determinados tipos de animais.\n\nO Conselho deliberará por maioria qualificada sobre estas propostas.\n\n2. De acordo com o procedimento previsto no artigo 17o., e após consulta ao Comité Científico Veterinário, a Comissão definirá os critérios comunitários a que deverão obedecer os pontos de paragem, no que se refere a alimentação, abeberação, carga, descarga e ao eventual alojamento de certos tipos de animais.\n\n3. A Comissão apresentará ao Conselho, três anos após a entrada em vigor da presente directiva, um relatório sobre a experiência adquirida pelos Estados-membros no que se refere, nomeadamente, às disposições referidas nos nos. 1 e 2, eventualmente acompanhado de propostas destinadas a alterar essas disposições, sobre as quais o Conselho deverá deliberar por maioria qualificada.\n\n4. Enquanto as disposições referidas nos nos. 1 e 2 do presente artigo não entrarem em vigor serão aplicáveis, dentro da observância das disposições gerais do Tratado, as normas nacionais referentes a esta matéria."
+  },
+  "ce594b46aef2329a": {
+   "fragment_id": "Artigo 14o.",
+   "type": "artigo",
+   "heading": "Artigo 14o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o.\n\nO anexo da presente directiva pode ser alterado pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão, com vista nomeadamente à sua adaptação à evolução tecnológica e científica."
+  },
+  "9d093380ac6fbb39": {
+   "fragment_id": "Artigo 15o.",
+   "type": "artigo",
+   "heading": "Artigo 15o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o.\n\nDe acordo com o procedimento previsto no artigo 17o., os certificados ou documentos de acompanhamento previstos pela regulamentação comunitária para o transporte dos animais contemplados no artigo 1o. podem ser completados por um atestado da autoridade competente, na acepção do no. 6 do artigo 2o. da Directiva 90/425/CEE, que certifique o cumprimento das exigências da presente directiva."
+  },
+  "be8513e74fe278f5": {
+   "fragment_id": "Artigo 16o.",
+   "type": "artigo",
+   "heading": "Artigo 16o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o.\n\nAs regras em matéria de bem-estar dos animais durante o transporte aplicáveis ao trânsito de animais em certas partes dos territórios referidos no anexo I da Directiva 90/675//CEE, incluindo, no que se refere ao Reino de Espanha, as ilhas Canárias, a fim de ter em conta os condicionalismos naturais específicos destas últimas, e, nomeadamente, o seu afastamento da parte continental do território da Comunidade, serão adoptadas, de acordo com o procedimento previsto no artigo 17o. e com base nas indicações previstas no segundo parágrafo.\n\nPara o efeito, e o mais tardar em 1 de Julho de 1992, os Estados-membros em causa apresentarão à Comissão as normas especiais a observar em matéria de bem-estar dos animais durante o transporte aquando do trânsito desses animais nas regiões em questão, tendo em conta os condicionalismos específicos dessas regiões."
+  },
+  "f19b2939c094209f": {
+   "fragment_id": "Artigo 17o.",
+   "type": "artigo",
+   "heading": "Artigo 17o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o.\n\n1. Caso seja feita referência ao procedimento definido no presente artigo, o Comité Veterinário Permanente criado pela Decisão 68/361/CEE (1), a seguir designado «comité», será imediatamente convocado pelo seu presidente, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no no. 2 do artigo 148o. do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité.\n\n4. Se as medidas projectadas não forem conformes com o parecer do comité, ou na falta de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, salvo no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "406fd8e50f1496ec": {
+   "fragment_id": "Artigo 18o.",
+   "type": "artigo",
+   "heading": "Artigo 18o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o.\n\n1. Os Estados-membros tomarão as medidas específicas apropriadas para punir qualquer infracção à presente directiva, seja ela cometida por uma pessoa singular ou por uma pessoa colectiva.\n\n2. N° caso de se verificarem infracções repetidas à presente directiva, ou uma infracção que origine um sofrimento grave dos animais, os Estados-membros podem, sem prejuízo de quaisquer outras sanções previstas, tomar medidas destinadas a corrigir os incumprimentos observados."
+  },
+  "60ccd75c3d65e38c": {
+   "fragment_id": "Artigo 19o.",
+   "type": "artigo",
+   "heading": "Artigo 19o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o.\n\nA aplicação do disposto na presente directiva não prejudica as obrigações decorrentes da legislação aduaneira."
+  },
+  "b4b61777dafed909": {
+   "fragment_id": "Artigo 20o.",
+   "type": "artigo",
+   "heading": "Artigo 20o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o.\n\nAs Directivas 77/489/CEE e 81/389/CEE serão revogadas, o mais tardar, na data prevista no artigo 21o."
+  },
+  "e8abf36263823f3f": {
+   "fragment_id": "Artigo 21o.",
+   "type": "artigo",
+   "heading": "Artigo 21o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o.\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 1993. De tal facto informarão imediatamente a Comissão.\n\n2. Quando os Estados-membros adoptarem as disposições referidas no no. 1, estas deverão fazer referência à presente directiva, ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "c76247967739b67d": {
+   "fragment_id": "Artigo 22o.",
+   "type": "artigo",
+   "heading": "Artigo 22o.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Novembro de 1991.\n\nPelo Conselho\n\nO Presidente\n\nP. BUKMAN\n\n(1) JO no. C 214 de 21. 8. 1989, p. 36, e\n\nJO no. C 154 de 23. 6. 1990, p. 7.\n\n(2) JO no. C 113 de 7. 5. 1990, p. 206.\n\n(3) JO no. C 56 de 7. 3. 1990, p. 29.\n\n(4) JO no. C 76 de 7. 3. 1987, p. 185.\n\n(5) JO no. L 384 de 31. 12. 1982, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no. 197/90 da Comissão (JO no. L 29 de 31. 1. 1990, p. 1).\n\n(6) JO no. L 200 de 8. 8. 1977, p. 10.\n\n(7) JO no. L 150 de 6. 6. 1981, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) no. 3768/85 (JO no. L 362 de 31. 12. 1985, p. 8).\n\n(1) JO no. L 395 de 30. 12. 1989, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO no. L 268 de 24. 9. 1991, p. 56).\n\n(2) JO no. L 373 de 31. 12. 1990, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/496/CEE (JO no. L 268 de 24. 9. 1991, p. 56).\n\n(1) Tal como alterada e codificada pela Directiva 91/497/CEE\n\n(JO no. L 268 de 24. 9. 1991, p. 68).\n\n(1) JO no. L 255 de 18. 10. 1968, p. 23."
+  },
+  "2c594fd872169fa0": {
+   "fragment_id": "ANEXO — CAPÍTULO I SOLÍPEDES DOMÉSTICOS E ANIMAIS DOMÉSTICOS DAS ESPÉCIES BOVINA, OVINA, CAPRINA E SUÍNA",
+   "type": "divisao",
+   "heading": "ANEXO — CAPÍTULO I SOLÍPEDES DOMÉSTICOS E ANIMAIS DOMÉSTICOS DAS ESPÉCIES BOVINA, OVINA, CAPRINA E SUÍNA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CAPÍTULO I SOLÍPEDES DOMÉSTICOS E ANIMAIS DOMÉSTICOS DAS ESPÉCIES BOVINA, OVINA, CAPRINA E SUÍNA\n\nA. Disposições gerais\n\n1. As fêmeas prenhes que devam parir no período correspondente ao transporte ou que tenham parido há menos de 48 horas, bem como o animais recém-nascidos cujo umbigo não esteja ainda completamente cicatrizado, não devem ser considerados aptos para serem transportados.\n\n2.\n\na) Os animais devem dispor de espaço suficiente para estar de pé na sua posição natural e, eventualmente, deverão também dispor de barreiras que os protejam dos movimentos do meio de transporte. Excepto se condições especiais para a sua protecção exigirem o contrário, deverão dispor de espaço para poderem deitar-se;\n\nb) Os meios de transporte e os contentores devem ser construídos e utilizados de modo a proteger os animais das intempéries e das grandes variações climáticas. A ventilação e a cubagem de ar devem estar adaptadas às condições de transporte e ser adequadas para as espécies de animais transportados;\n\nc)\n\nOs meios de transporte e os contentores devem ser fáceis de limpar, impedir a fuga dos animais, ser construídos de forma a poupar os animais a contusões ou sofrimento desnecessário, e estar equipados de modo a garantir a sua segurança. Os contentores em que os animais são transportados devem estar marcados com um símbolo que indique a presença de animais vivos e um sinal que indique a posição em que se encontram. Devem, ingualmente, permitir a inspecção e o tratamento dos animais, bem como estar dispostos de modo a não perturbar a circulação de ar. Durante o transporte e a manipulação, os contentores devem ser sempre mantidos em posição vertical e não devem ser sujeitos a solavancos ou choques violentos;\n\nd)\n\nDurante o transporte, os animais devem ser abeberados e receber uma alimentação apropriada a intervalos adequados, que não deverão exceder 24 horas, excepto em casos especiais que exijam um prolongamento desse período por um máximo de duas horas no interesse dos animais, tendo em conta, nomeadamente, as espécies transportadas, os meios de transporte utilizados e a proximidade do local de descarga;\n\ne)\n\nDurante o transporte, deve ser colocado um cabresto nos solípedes. Esta disposição não se aplica obrigatoriamente aos potros não domados nem aos animais transportados em baias individuais;\n\nf)\n\nQuando os animais viajarem presos, as amarras utilizadas devem ser suficientemente resistentes para não se partirem em condições normais de transporte, ter um comprimento suficiente para que os animais possam deitar-se, comer e beber se necessário, e ser concebidos de modo a evitar qualquer risco de estrangulamento ou de ferimentos. Os animais não devem ser presos pelos chifres nem por argolas nasais;\n\ng)\n\nOs solípedes deverão ser transportados em compartimentos ou baias individuais concebidos de modo a proteger os animais contra os choques. Contudo, estes animais poderão ser transportados em grupos, caso em que importará diligenciar para que não sejam transportados em conjunto animais hostis uns aos outros. Estes animais, quando transportados em conjunto, devem ter os cascos posteriores desferrados;\n\nh)\n\nOs solípedes não deverão ser transportados em veículos de vários níveis.\n\n3.\n\na)\n\nQuando num mesmo meio de transporte viajarem animais de espécies diferentes, devem ser separados por espécies, excepto no caso de animais que sofram com a separação. Além disso, devem ser previstas medidas especiais para evitar os inconvenientes que podem resultar do transporte na mesma remessa de espécies naturalmente hostis entre si. Quando num mesmo meio de transporte viajarem animais de idades diferentes, os adultos devem ser separados dos jovens; todavia, esta restrição não se aplica às fêmeas que viajem com os filhos que estejam a aleitar. Os machos adultos não castrados devem ser separados das fêmeas. Os varrascos destinados à reprodução devem ser separados uns dos outros, o mesmo acontecendo com os garanhões. Estas disposições apenas se aplicam na medida em que os animais não tenham sido criados em grupos compatíveis e não tenham sido acostumados uns aos outros;\n\nb)\n\nNos compartimentos em que se transportam animais, não devem ser carregadas mercadorias que possam prejudicar o seu bem-estar.\n\n4.\n\nPara carregar ou descarregar os animais deve ser utilizado equipamento adequado, tal como pontes, rampas ou passadiços. O pavimento deste equipamento deve ser construído de modo a evitar o escorregamento e, se necessário, dispor de uma protecção lateral. Durante o transporte, os animais não devem ser suspensos por meios mecânicos, nem içados ou arrastados pela cabeça, chifres, patas, cauda ou velo. Além disso, deve, na medida do possível, evitar-se a utilização de aparelhos eléctricos de descarga.\n\n5. O pavimento do meio de transporte ou do contentor deve ser suficientemente sólido para resistir ao peso dos animais transportados; não deve ser escorregadio e, caso tenha interstícios ou furos, deve ser construído sem irregularidades de modo a evitar que os animais se firam. Deve estar coberto por uma cama de palha suficiente para absorver os dejectos, a não ser que esta possa ser substituída por outro processo que apresente, no mínimo, as mesmas vantagens, ou que os dejectos sejam removidos com regularidade.\n\n6. A fim de assegurar os cuidados necessários aos animais no decurso do transporte, as remessas devem ser acompanhadas por um tratador, excepto quando:\n\na) Os animais sejam transportados em contentores que sejam seguros, devidamente ventilados e, se necessário, contenham alimentos e água suficientes, em distribuidores à prova de derramamento, para uma viagem com o dobro da duração prevista;\n\nb)\n\nO transportador assuma as funções de tratador;\n\nc)\n\nO expedidor encarregue um mandatário de cuidar dos animais em pontos de paragem adequados.\n\n7.\n\na)\n\nO tratador ou o mandatário do expedidor deve cuidar dos animais, abeberá-los, alimentá-los e, se necessário, ordenhá-los;\n\nb)\n\nAs vacas em lactação devem ser ordenhadas a intervalos de cerca de 12 horas, mas sem ultrapassar as 15 horas;\n\nc)\n\nA fim de poder assegurar estes cuidados, o tratador deve ter à sua disposição, se necessário, um meio de iluminação adequado.\n\n8.\n\nOs animais só devem ser carregados em meios de transporte que tenham sido cuidadosamente limpos e, caso necessário, desinfectados. Os cadáveres de animais, a palha e os dejectos devem ser retirados logo que possível.\n\nB. Disposições especiais relativas ao transporte por caminho-de-ferro\n\n9.\n\nTodas as carruagens que sirvam para o transporte de animais devem estar marcadas com um símbolo que indique a presença de animais vivos, excepto se os animais forem transportados em contentores. Na falta de carruagens especiais para o transporte de animais, este deve ser efectuado em carruagens cobertas, que possam circular a grande velocidade e que estejam providas de aberturas de ventilação suficientemente grandes ou que disponham de um sistema de ventilação adequado, mesmo a velocidade reduzida. As paredes interiores das carruagens devem ser de madeira ou de qualquer outro material adequado, sem asperezas, e devem ser munidas de argolas ou barras, para prender os animais, colocadas a uma altura conveniente.\n\n10.\n\nQuando não transportados em baias individuais, os solípedes devem ser presos de modo a ficarem virados para o mesmo lado do veículo ou a ficarem frente a frente. Todavia, os potros e os animais não domados não devem ser presos.\n\n11.\n\nOs animais de grande porte devem ser carregados de modo a permitir ao tratador circular entre eles.\n\n12.\n\nQuando, de acordo com o disposto na alínea a) do no. 3, seja necessário proceder à separação dos animais, esta pode ser feita prendendo-os em partes separadas da carruagem, se a superfície desta o permitir, ou por meio de barreiras adequadas.\n\n13.\n\nNa altura da formação dos comboios e de qualquer outra manobra das carruagens, devem ser tomadas todas as precauções para evitar choques das carruagens que transportem animais.\n\nC. Disposições especiais relativas ao transporte por estrada\n\n14.\n\nOs veículos devem, por um lado, ser construídos de modo a que os animais não possam fugir e sejam transportados em segurança e, por outro, estar equipados com um tejadilho, que os proteja eficazmente das intempéries.\n\n15.\n\nDevem ser instalados dispositivos para prender os animais nos veículos utilizados no transporte de animais de grande porte que devam normalmente ser presos. Quando se imponha a compartimentação dos veículos, esta deve ser feita com o auxílio de tabiques resistentes.\n\n16.\n\nOs veículos devem possuir equipamento adequado que satisfaça as condições previstas no no. 4.\n\nD. Disposições especiais relativas ao transporte por barco\n\n17.\n\nAs instalações dos navios devem permitir o transporte de animais sem os expor a lesões ou sofrimentos evitáveis.\n\n18.\n\nOs animais não devem ser transportados em convés descobertos, excepto em contentores que garantam a segurança necessária ou em recintos adequados aprovados pela autoridade competente e que assegurem uma protecção satisfatória contra o mar e as intempéries.\n\n19.\n\nOs animais devem ser presos ou convenientemente colocados em baias ou em contentores.\n\n20.\n\nDevem ser previstas passagens apropriadas para dar acesso a todas as baias, contentores ou veículos em que se encontrem animais. Deve igualmente ser previsto um dispositivo de iluminação adequado.\n\n21.\n\nO número de tratadores deve ser suficiente, em função do número de animais transportados e da duração da viagem.\n\n22.\n\nTodas as partes do navio ocupadas pelos animais devem ser dotadas de dispositivos de escoamento de águas e ser mantidas em boas condições sanitárias.\n\n23.\n\nDeve existir a bordo um instrumento, do tipo aprovado pela autoridade competente, para proceder ao abate dos animais em caso de necessidade.\n\n24.\n\nOs navios utilizados para o transporte de animais devem ser dotados, antes da partida, de reservas suficientes de água potável - sempre que não disponham de um sistema adequado de produção da mesma - e de alimentos apropriados, atendendo tanto à espécie e ao número de animais transportados como à duração do transporte.\n\n25.\n\nDevem ser tomadas medidas para isolar os animais doentes ou lesionados no decurso do transporte e prestar-lhes os primeiros cuidados, se necessário.\n\n26. a) Os nos. 17 a 19 não se aplicam ao transporte de animais efectuado em carruagens ferroviárias ou veículos rodoviários transportados em ferry-boats ou em navios semelhantes.\n\nQuando os animais forem transportados em carruagens ferroviárias a bordo de navios, devem ser tomadas medidas especiais para que os animais disponham de ventilação adequada durante toda a viagem;\n\nb)\n\nQuando os animais são transportados em veículos rodoviários a bordo de navios, devem ser aplicadas as seguintes medidas:\n\ni) o compartimento dos animais deverá estar adequadamente fixado ao veículo; o veículo e o compartimento dos animais deverão dispor de amarras adequadas para garantir uma sólida fixação ao navio. Nos convés cobertos dos navios de transporte de automóveis deverá ser mantida uma ventilação suficiente, em função do número de veículos transportados. Quando for possível, o veículo de transporte de animais deverá ser colocado junto de uma saída de ar fresco,\n\niii)\n\no compartimento dos animais deverá estar munido de um número suficiente de aberturas ou de outros meios que garantam uma ventilação suficiente, tendo em conta o reduzido débito de ar no espaço restrito do porão para veículos de um navio. O espaço livre no interior do compartimento dos animais e de cada um dos seus níveis deverá ser suficiente para permitir uma ventilação adequada por cima dos animais quando a posição natural destes for de pé,\n\niii)\n\ndeverá ser previsto o acesso directo a cada parte do compartimento dos animais para que estes possam ser tratados, alimentados e abeberados durante a viagem, caso seja necessário.\n\nE. Disposições especiais relativas ao transporte aéreo\n\n27.\n\nOs animais devem ser transportados em contentores, baias ou compartimentos adequados às espécies, em conformidade pelo menos com as normas mais recentes da IATA relativas ao transporte de animais vivos.\n\n28.\n\nTendo em conta as espécies de animais, devem-se tomar precauções para evitar temperaturas demasiado altas ou baixas a bordo. Além disso, devem ser evitadas grandes variações de pressão de ar.\n\n29.\n\nDeve existir a bordo dos aviões de carga um instrumento do tipo aprovado pela autoridade competente, para proceder ao abate dos animais, em caso de necessidade."
+  },
+  "f8faead843939ff4": {
+   "fragment_id": "CAPÍTULO II AVES DE CAPOEIRA, AVES DOMÉSTICAS E COELHOS DOMÉSTICOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II AVES DE CAPOEIRA, AVES DOMÉSTICAS E COELHOS DOMÉSTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II AVES DE CAPOEIRA, AVES DOMÉSTICAS E COELHOS DOMÉSTICOS\n\n30.\n\nAo transporte de aves de capoeira, aves domésticas e coelhos domésticos, aplica-se, mutatis mutandis, o disposto nos pontos 2, alíneas a), b) e c), 3, 5, 6, 8, 9, 13, 17 a 22, inclusive, 24 e 26 a 29 do capítulo I.\n\n31.\n\nOs animais devem dispor de alimentação apropriada e água em quantidade suficiente, excepto nos casos de:\n\nii) viagens de duração inferior a 12 horas, sem contar com os tempos de carga e descarga,\n\nii)\n\nviagens de duração inferior a 24 horas, quando se trate de aves recém-nascidas de qualquer espécie, desde que a viagem termine nas 72 horas seguintes à eclosão."
+  },
+  "89afaeb1e63fcbfa": {
+   "fragment_id": "CAPÍTULO III CÃES DOMÉSTICOS E GATOS DOMÉSTICOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III CÃES DOMÉSTICOS E GATOS DOMÉSTICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III CÃES DOMÉSTICOS E GATOS DOMÉSTICOS\n\n32.\n\nSem prejuízo do disposto no no. 2, alínea a), do artigo 1o., ao transporte de cães domésticos e gatos domésticos aplica-se, mutatis mutandis, o disposto nos pontos 1, 2, alíneas a), b) e c), 3, 5, 6, 7, alíneas a) e c), 8, 9, 12, 13, 15 e 17 a 29 inclusive, do capítulo I.\n\n33.\n\nOs animais transportados devem ser alimentados a intervalos que não excedam 24 horas e abeberados a intervalos que não excedam 12 horas. Devem ser acompanhados de instruções redigidas com clareza acerca da sua alimentação e abeberamento. As fêmas com cio devem ser separadas dos machos."
+  },
+  "b8c26f50b40019d9": {
+   "fragment_id": "CAPÍTULO IV OUTROS MAMÍFEROS E AVES",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV OUTROS MAMÍFEROS E AVES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV OUTROS MAMÍFEROS E AVES\n\n34. a) As disposições do presente capítulo aplicam-se ao transporte de mamíferos e aves não abrangidos pelo disposto nos capítulos anteriores;\n\nb)\n\nAo transporte das espécies em causa no presente capítulo aplica-se, mutatis mutandis, o disposto nos pontos 1, 2, alíneas a), b) e c), 3, alínea b), 4, 5 e 6 inclusive, 7, alíneas a) e c), 8, 9 e 13 a 29 do capítulo I.\n\n35.\n\nSem prejuízo do disposto no no. 1, alínea b), do artigo 3o., só serão transportados animais aptos para transporte e de boa saúde. Os animais que, de um modo evidente, se encontrem em adiantado estado de gestação, os animais que tenham parido recentemente e os animais jovens incapazes de se alimentar a si próprios e não acompanhados pelas mães não serão considerados aptos para transporte. A título excepcional, estas disposições podem não ser aplicadas se, no interesse dos próprios animais, for necessário transportá-los para um local onde lhes possa ser administrado um tratamento adequado.\n\n36.\n\nNão serão administrados sedativos a não ser em circunstâncias excepcionais e apenas sob a supervisão directa de um veterinário. O animal deve ser acompanhado até ao seu destino por um documento com informações sobre os sedativos utilizados.\n\n37.\n\nOs animais devem ser transportados apenas em meios de transporte apropriados, nos quais será colocada, se necessário, uma referência que indique que se trata de animais selvagens, tímidos ou perigosos. Além disso, devem ser acompanhados de instruções, redigidas com clareza, sobre a alimentação, o abeberamento e os cuidados especiais necessários.\n\nOs animais abrangidos pela CITES serão transportados em conformidade com as disposições mais recentes das «Directrizes relativas ao transporte e à preparação para a expedição de animais selvagens vivos e de plantas» da CITES. Em caso de transporte por via aérea, devem ser transportados, pelo menos, em conformidade com a mais recente regulamentação da IATA em matéria de transporte de animais vivos. Devem ser encaminhados para o seu destino, logo que possível.\n\n38.\n\nAos animais abrangidos pelo disposto no presente capítulo devem ser prestados os necessários cuidados, de acordo com as instruções e directrizes referidas no ponto 37.\n\n39.\n\nAntes da expedição, os animais serão, se necessário, progressivamente habituados aos respectivos contentores, durante um período adequado.\n\n40.\n\nNão serão colocados no mesmo contentor animais de espécies diferentes. Além disso, animais da mesma espécie só serão colocados no mesmo contentor se forem compatíveis uns com os outros.\n\n41.\n\nOs cervídeos não devem ser transportados no período em que se refazem as suas armações.\n\n42.\n\nAs aves devem ser mantidas em semiobscuridade.\n\n43.\n\nSem prejuízo das disposições especiais a tomar em conformidade com o no. 3 do artigo 3o., os mamíferos marinhos devem ser objecto de uma atenção constante por parte de um tratador qualificado. Os respectivos contentores não podem ser sobrepostos.\n\n44.\n\na) Para garantir um fluxo de ar permanente e adequado, deve ser garantida uma ventilação adicional por meio de furos de tamanho apropriado em todas as paredes do contentor. Esses furos devem ter um tamanho que impeça os animais de entrar em contacto com as pessoas que manuseiam os contentores ou de se ferir;\n\nb) Em todas as faces externas dos contentores devem ser fixadas barras separadoras de dimensão adequada que garantam a livre circulação de ar no caso de os contentores serem sobrepostos ou encostados uns aos outros.\n\n45.\n\nOs animais não devem ser instalados na proximidade de alimentos, nem em locais a que tenham acesso pessoas não autorizadas."
+  },
+  "2811ee8351a1a357": {
+   "fragment_id": "CAPÍTULO V OUTROS ANIMAIS VERTEBRADOS E ANIMAIS DE SANGUE FRIO",
+   "type": "divisao",
+   "heading": "CAPÍTULO V OUTROS ANIMAIS VERTEBRADOS E ANIMAIS DE SANGUE FRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V OUTROS ANIMAIS VERTEBRADOS E ANIMAIS DE SANGUE FRIO\n\n46.\n\nOs outros animais vertebrados e os animais de sangue frio devem ser transportados em contentores apropriados e em condições que sejam consideradas adequadas à espécie, nomeadamente em termos de espaço, ventilação, temperatura, segurança, fornecimento de água e oxigenação. Os animais abrangidos pela CITES devem ser transportados em conformidade com as «Directrizes relativas ao transporte e à preparação para a expedição de animais selvagens vivos e de plantas» da CITES. Em caso de transporte aéreo, estes animais devem ser transportados em conformidade, pelo menos, com a mais recente regulamentação da IATA em matéria de transporte de animais vivos. Devem ser encaminhados para o seu destino logo que possível."
+  },
+  "727c2c6e8f7bb612": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0628 — PT — 05.01.2007 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991L0628) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0628) [de 19 de Novembro de 1991](http://publications.europa.eu/resource/celex/31991L0628) [relativa à protecção dos animais durante o transporte e que altera as Directivas 90/425/CEE e 91/496/CEE](http://publications.europa.eu/resource/celex/31991L0628) [(91/628/CEE)](http://publications.europa.eu/resource/celex/31991L0628) (JO L 340, 11.12.1991, p.17)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1/2005 do Conselho de 22 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32005R0001) — L 3 — 1 — 5.1.2005"
+  }
+ }
+}

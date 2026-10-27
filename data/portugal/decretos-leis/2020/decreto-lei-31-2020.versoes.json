@@ -1,0 +1,204 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:136900600:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-136990404",
+ "dre_path": "/dr/detalhe/decreto-lei/31-2020-136900600",
+ "source_lastmod": "2026-05-05",
+ "versions": [
+  {
+   "date": "2026-05-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1103945165:por",
+     "title": "Lei n.º 18/2026",
+     "published": "2026-05-05",
+     "dre_path": "/dr/detalhe/lei/18-2026-1103945165"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "136892331",
+    "1110073975",
+    "136892333",
+    "1110074175",
+    "1110074375",
+    "1110075475",
+    "1110075675",
+    "1110075775",
+    "1110075875",
+    "1110075975",
+    "1110076075",
+    "1110076175",
+    "1110076275",
+    "1110076375",
+    "1110076475",
+    "1110076575",
+    "1110076675"
+   ]
+  }
+ ],
+ "fragments": {
+  "136892331": {
+   "fragment_id": "136990405",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 31/2020\n\nde 30 de junho\n\nSumário: Aprova o regime do manifesto de corte, corte extraordinário, desbaste ou arranque de árvores e da rastreabilidade do material lenhoso.\n\nA floresta nacional desempenha um papel essencial, quer em termos económicos, enquanto fornecedor de uma grande variedade de produtos base de fileiras industriais desenvolvidas, quer em termos sociais, enquanto garante de emprego em zonas rurais, quer ainda em termos ambientais, enquanto garante da regulação do sistema hídrico, de preservação de solo, de proteção microclimática, para além do contributo para o sequestro de carbono, de repositório de recursos naturais e genéticos e de suporte para a biodiversidade. Neste contexto, a gestão florestal pretende identificar as ações necessárias à equilibrada gestão dos recursos florestais naquelas três dimensões: económica, social e ambiental.\n\nA crescente procura de madeira e de produtos da madeira a nível mundial, associada à exploração madeireira ilegal e ao comércio conexo, tornaram-se um motivo de crescente preocupação internacional.\n\nNeste sentido, o Regulamento (UE) n.º 995/2010, do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, veio fixar um conjunto de obrigações para todos os operadores que colocam madeira e produtos da madeira no mercado da União Europeia. Este regulamento proíbe expressamente a colocação de madeira extraída ilegalmente ou de produtos da madeira dela derivados no mercado interno.\n\nA verificação das atividades da exploração madeireira ilegal, as suas causas e o seu impacto ficam facilitadas pela adoção de mecanismos que permitam a rastreabilidade e o controlo efetivo das atividades inerentes à exploração florestal, desde o corte, o corte extraordinário, o desbaste ou o arranque de árvores florestais até à primeira transformação do material lenhoso. Por outro lado, a adequada intervenção sobre as atividades inerentes à comercialização, ao transporte, ao armazenamento e à primeira transformação do material lenhoso e à sua localização no território nacional constituem fatores de grande relevância para o suporte da decisão política. São igualmente importantes para o planeamento de ações de caráter informativo, preventivo e de acompanhamento e monitorização de eventuais problemas fitossanitários inerentes às espécies florestais.\n\nFinalmente, a Estratégia Nacional para as Florestas preconiza, como um dos pilares para a melhoria da eficiência e competitividade do setor florestal, a melhoria da informação disponível e da capacidade de recolher e processar essa informação.\n\nO mecanismo atualmente existente de declaração obrigatória instituído pelo Decreto-Lei n.º 174/88, de 17 de maio, relativo ao manifesto de corte ou arranque de árvores, revelou-se insuficiente quanto ao propósito de obter informações indispensáveis à gestão do património florestal nacional. Desta forma, é necessário adotar mecanismos adicionais facilitadores de obtenção da informação, com vista a permitir uma análise do nível de exploração dos povoamentos, assim como corrigir eventuais desequilíbrios entre a oferta e a procura do material lenhoso.\n\nA experiência decorrente da aplicação deste regime jurídico dita igualmente a necessidade de reforçar o seu caráter dissuasor no que respeita ao não cumprimento das obrigações dos diversos intervenientes no processo.\n\nInstitui-se um mecanismo obrigatório de entrega do manifesto de corte de árvores, através de uma plataforma eletrónica de dados, acessível no sítio na Internet do Instituto da Conservação da Natureza e das Florestas, I. P., que atualiza e adapta o modelo anterior, nomeadamente quanto aos seus conteúdos e à articulação com a informação declarada no âmbito de outros regimes legais específicos, que será tratada de forma integrada.\n\nA revisão do regime jurídico inscreve-se no objetivo de simplificação e desburocratização dos procedimentos administrativos e da sua desmaterialização, dando cumprimento à medida Simplex+ «Comunicação + ágil do abate de árvores para a indústria». Procura-se ainda garantir o reforço da componente de acompanhamento e fiscalização, assim como a recolha de informação fundamental para o desenvolvimento de processos de gestão e avaliação da sustentabilidade do património florestal.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1110073975": {
+   "fragment_id": "136990406",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece a obrigatoriedade de declaração ou de autorização de corte, corte extraordinário, desbaste ou arranque de árvores de espécies florestais, doravante designada por manifesto de corte de árvores (MCA), em Portugal continental, que se destinem à comercialização e ao autoconsumo para transformação industrial, bem como a rastreabilidade do material lenhoso destinado à indústria de primeira transformação e à exportação.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+  },
+  "136892333": {
+   "fragment_id": "136990407",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se aos operadores que efetuam o corte, o corte extraordinário, o desbaste ou o arranque de árvores de espécies florestais e que colocam madeira no mercado nacional destinada à comercialização e ao autoconsumo para transformação industrial, e aos demais operadores envolvidos na aquisição das árvores e do respetivo material lenhoso.\n\n2 - O presente decreto-lei aplica-se ainda aos operadores que efetuam o transporte, o armazenamento e a primeira transformação do material lenhoso destinado à indústria, e ainda à exportação do material lenhoso.\n\n3 - Estão dispensados de MCA o corte, o corte extraordinário, o desbaste ou o arranque de árvores de espécies florestais, quando se verifiquem as seguintes situações:\n\na) Se destinem exclusivamente a autoconsumo, com exceção dos casos de autoconsumo para transformação industrial; ou\n\nb) O número de árvores seja inferior ou igual a 10."
+  },
+  "1110074175": {
+   "fragment_id": "136990408",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2026-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Arranque», qualquer ação de remoção de árvores que for executada no termo do ciclo económico de povoamentos florestais, em manchas, em faixas, em cortinas arbóreas ou em pés de árvores;\n\nb) «Autoconsumo para transformação industrial», o material lenhoso destinado ao abastecimento para processamento em unidades industriais, proveniente de explorações florestais ou agroflorestais cuja gestão florestal é do próprio operador;\n\nc) «Colocação no mercado», o fornecimento por qualquer meio, independentemente da técnica de venda utilizada, de madeira ou produtos da madeira, pela primeira vez no mercado interno, para distribuição ou utilização no âmbito de uma atividade comercial, a título oneroso ou gratuito, incluindo o fornecimento mediante técnicas de comunicação à distância na aceção da Diretiva n.º 97/7/CE, do Parlamento Europeu e do Conselho, de 20 de maio de 1997, relativa à proteção dos consumidores em matéria de contratos à distância, salvo o fornecimento no mercado interno de produtos da madeira, derivados de madeira ou de produtos da madeira já colocados no mercado interno;\n\nd) «Corte», qualquer intervenção em árvores que for executada no termo do ciclo económico de povoamentos florestais, em manchas, em faixas, em cortinas arbóreas ou em pés de árvores;\n\ne) «Corte extraordinário», qualquer intervenção em árvores que for executada antes do termo do ciclo económico de povoamentos florestais, em manchas, em faixas, em cortinas arbóreas ou em pés de árvores, nomeadamente por razões fitossanitárias ou na sequência da ocorrência de incêndios florestais;\n\nf) «Desbaste», qualquer corte que for executado durante a fase de crescimento de povoamentos florestais, em manchas, em cortinas arbóreas ou em pés de árvores, incluindo o corte de árvores no âmbito de operações de defesa da floresta contra incêndios e os cortes fitossanitários;\n\ng) «Exploração florestal ou agroflorestal», o prédio ou conjunto de prédios ocupados, total ou parcialmente, por espaços florestais, pertencentes a um ou mais proprietários e que estão submetidos a uma gestão única;\n\nh) «Mosaicos florestais», unidades com dimensão suficiente para proteger, produzir e conservar os recursos florestais ou outras valências ambientais;\n\ni) «Operador», qualquer pessoa singular ou coletiva, pública ou privada, que proceda à venda ou aquisição de árvores de espécies florestais ou de material lenhoso resultante das operações inerentes ao corte, corte extraordinário, desbaste ou arranque de árvores de espécies florestais, bem como quem proceda ao transporte, ao armazenamento, à exportação e à primeira transformação da madeira redonda.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+  },
+  "1110074375": {
+   "fragment_id": "136990409",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações dos operadores",
+   "in_force_from": "2026-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 4.º — Obrigações dos operadores\n\n1 - Os operadores devem declarar previamente ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), através do Sistema de Informação de Manifesto de Corte (SiCorte), o corte, o corte extraordinário, o desbaste ou o arranque de árvores de espécies florestais.\n\n2 - A obrigação prevista no número anterior recai sobre o adquirente, quando for deste a responsabilidade de realizar o corte, o corte extraordinário, o desbaste ou o arranque da madeira adquirida.\n\n3 - Os operadores devem comunicar e identificar, através do SiCorte, ao longo da cadeia de abastecimento do material lenhoso até à primeira transformação, as operações referidas na alínea i) do artigo anterior pelas quais sejam responsáveis e fornecer esta informação às autoridades competentes, nos termos do mecanismo de rastreabilidade, a definir por portaria do membro do Governo responsável pela área das florestas.\n\n4 - O MCA é efetuado para cada parcela a cortar, integrada na exploração florestal ou agroflorestal.\n\n5 - No caso de espécies coníferas, a informação constante do manifesto de abate, desramação e circulação de madeira é integrada no MCA.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+  },
+  "1110075475": {
+   "fragment_id": "1110075375",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Autorização prévia",
+   "in_force_from": "2026-05-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 4.º-A — Autorização prévia\n\n1 - Encontra-se sujeito a autorização prévia por parte do ICNF, IP, o corte, o corte extraordinário, o desbaste ou o arranque de árvores florestais em:\n\na) Áreas classificadas, nos termos do Decreto-Lei n.º 142/2008, de 24 de julho, que estabelece o regime jurídico da conservação da natureza e da biodiversidade;\n\nb) Áreas submetidas ao regime florestal, constante do Decreto de 24 de dezembro de 1901, publicado no Diário do Governo, n.º 296, de 31 de dezembro.\n\n2 - Os operadores devem requerer a autorização para todas as operações em determinada área classificada ou área submetida ao regime florestal.\n\n3 - O ICNF, IP, decide sobre o MCA no prazo de 45 dias, sob pena de deferimento tácito.\n\n4 - O deferimento do MCA pode ser condicionado a:\n\na) Corte seletivo por idade do povoamento ou por extensão geográfica;\n\nb) Faseamento no tempo e no espaço dos cortes;\n\nc) Criação de mosaicos florestais;\n\nd) Medidas de proteção de determinada fauna, flora, habitats e ecossistemas;\n\ne) Medidas de reflorestação ou regeneração da exploração florestal;\n\nf) Medidas de proteção contra a erosão do solo.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+  },
+  "1110075675": {
+   "fragment_id": "136990410",
+   "type": 11,
+   "heading": "Artigo 5.º — Sistema de informação do corte de árvores",
+   "in_force_from": "2026-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 5.º — Sistema de informação do corte de árvores\n\n1 - A tramitação dos procedimentos e formalidades previstas no presente decreto-lei é realizada informaticamente através da plataforma eletrónica de dados SiCorte, com recurso ao balcão único eletrónico previsto nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, na sua redação atual, acessível através do Portal ePortugal e no sítio na Internet do ICNF, I. P.\n\n2 - Os elementos da declaração obrigatória e das comunicações dos operadores são estabelecidos por deliberação do conselho diretivo do ICNF, I. P., e publicitados no respetivo sítio na Internet.\n\n3 - Dos elementos previstos no número anterior consta obrigatoriamente meio de prova de propriedade da exploração florestal ou agroflorestal ou de autorização do legítimo proprietário para o corte, o corte extraordinário, o desbaste ou o arranque de árvores.\n\n4 - Na eventualidade da ausência do respetivo cadastro predial consta obrigatoriamente a apresentação de uma declaração sob compromisso de honra, de titularidade da exploração florestal ou agroflorestal ou de autorização do legítimo proprietário para o corte, o corte extraordinário, o desbaste ou o arranque de árvores, acompanhada de documento comprovativo, quando disponível, sem prejuízo de responsabilidade criminal por falsas declarações.\n\n5 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes no SiCorte é aplicável o disposto no Regulamento Geral sobre Proteção de Dados, na Lei n.º 58/2019, de 8 de agosto, e demais legislação aplicável.\n\n6 - No SiCorte deve ser adotada a utilização de mecanismos de autenticação eletrónica através do cartão de cidadão e da chave móvel digital, bem como a adoção do Sistema de Certificação de Atributos Profissionais.\n\n7 - Os operadores são dispensados da apresentação de dados e documentos em posse de qualquer serviço ou organismo da Administração Pública quando derem o seu consentimento para a entidade responsável pela prestação do serviço proceder à sua obtenção, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual, devendo utilizar-se a Plataforma de Interoperabilidade da Administração Pública e a Bolsa de Documentos para o efeito, nos termos dos n.os 2 e 7 da Resolução do Conselho de Ministros n.º 42/2015, de 19 de junho, e do artigo 6.º do Decreto-Lei n.º 73/2014, de 13 de maio, na sua redação atual.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+  },
+  "1110075775": {
+   "fragment_id": "136990411",
+   "type": 11,
+   "heading": "Artigo 6.º — Interconexão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Interconexão de dados\n\n1 - A transmissão de dados pessoais do SiCorte deve ser objeto de protocolos entre o ICNF, I. P., e as entidades, serviços ou organismos públicos que estabeleça as responsabilidades de cada entidade interveniente, quer no ato de transmissão, quer em outros tratamentos a efetuar.\n\n2 - Os protocolos a que se refere o número anterior são homologados pelo membro do Governo responsável pela área das florestas e pela respetiva área setorial, e devem definir, designadamente, as categorias dos titulares e dos dados objeto da interconexão, bem como os seus elementos e as condições de acesso, comunicação e tratamento dos dados por parte daquelas entidades.\n\n3 - O tratamento dos dados previsto no número anterior visa a produção de estatísticas, nomeadamente relativas às espécies, idades e volumes das áreas submetidas a corte, corte extraordinário, desbaste ou arranque, à comercialização, ao transporte, ao armazenamento e à primeira transformação do material lenhoso e à sua localização no território nacional.\n\n4 - A transmissão da informação prevista no presente artigo é efetuada preferencialmente por via eletrónica e obedece aos princípios e regras aplicáveis ao tratamento de dados pessoais, nos termos do Regulamento Geral sobre a Proteção de Dados, da Lei n.º 58/2019, de 8 de agosto, e demais legislação aplicável."
+  },
+  "1110075875": {
+   "fragment_id": "136990412",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção e divulgação de informação integrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Produção e divulgação de informação integrada\n\nCompete ao ICNF, I. P., a organização, o tratamento, a produção e a divulgação da informação integrada e recolhida no SiCorte, sem prejuízo do disposto no artigo anterior."
+  },
+  "1110075975": {
+   "fragment_id": "136990413",
+   "type": 11,
+   "heading": "Artigo 8.º — Contraordenações",
+   "in_force_from": "2026-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 8.º — Contraordenações\n\n1 - Constitui contraordenação ambiental grave, punível nos termos da Lei-Quadro das Contraordenações Ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto:\n\na) A falta de declaração prévia, em violação do n.º 1 do artigo 4.º;\n\nb) A receção ou detenção de material lenhoso não declarado através do SiCorte, em violação dos n.os 1 e 3 do artigo 4.º;\n\nc) A falta de comunicação e de identificação, em violação do n.º 3 do artigo 4.º;\n\nd) A declaração sem propriedade ou autorização do legítimo proprietário da exploração florestal, em violação do n.º 3 do artigo 4.º\n\n2 - Constitui contraordenação ambiental muito grave, punível nos termos da Lei-Quadro das Contraordenações Ambientais:\n\na) A falta de autorização prévia, em violação do n.º 1 do artigo 4.º-A;\n\nb) A violação das condições afetas ao MCA, em violação do n.º 4 do artigo 4.º-A;\n\nc) As contraordenações previstas nas alíneas b), c) e d) do número anterior em explorações sujeitas ao artigo 4.º-A.\n\n3 - A tentativa e a negligência são puníveis nos termos da Lei-Quadro das Contraordenações Ambientais.\n\n4 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime jurídico do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+  },
+  "1110076075": {
+   "fragment_id": "136990414",
+   "type": 11,
+   "heading": "Artigo 9.º — Sanções acessórias",
+   "in_force_from": "2026-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 9.º — Sanções acessórias\n\n1 - Em função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as sanções acessórias previstas na Lei-Quadro das Contraordenações Ambientais.\n\n2 - [Revogado.]\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+  },
+  "1110076175": {
+   "fragment_id": "136990415",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência de fiscalização e contraordenacional",
+   "in_force_from": "2026-05-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 10.º — Competência de fiscalização e contraordenacional\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades em razão da matéria ou da área de jurisdição, a fiscalização do disposto no presente decreto-lei compete ao ICNF, IP, aos municípios e às autoridades de polícia.\n\n2 - As autoridades de polícia e os municípios têm acesso aos dados do SiCorte respeitantes ao MCA e ao registo dos operadores, exclusivamente para efeitos de fiscalização da aplicação do presente decreto-lei.\n\n3 - A instrução dos processos de contraordenação, bem como a aplicação das coimas e das sanções acessórias, é da competência do ICNF, IP, e das autoridades de polícia, desde que devidamente coordenada entre as várias entidades.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01."
+  },
+  "1110076275": {
+   "fragment_id": "136990416",
+   "type": 11,
+   "heading": "Artigo 11.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Produto das coimas\n\nO produto das coimas aplicadas reverte em:\n\na) 35 % para o Estado;\n\nb) 25 % para o ICNF, I. P.;\n\nc) 25 % para o Fundo Florestal Permanente;\n\nd) 15 % para a entidade que levantou o auto."
+  },
+  "1110076375": {
+   "fragment_id": "136990417",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\nAté à implementação e entrada em funcionamento do SiCorte, o MCA é feito informaticamente, em formulário de modelo a disponibilizar gratuitamente no sítio na Internet do ICNF, I. P."
+  },
+  "1110076475": {
+   "fragment_id": "136990418",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 174/88, de 17 de maio."
+  },
+  "1110076575": {
+   "fragment_id": "136990419",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no prazo de 180 dias a contar da data da sua publicação."
+  },
+  "1110076675": {
+   "fragment_id": "136990420",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de maio de 2020. - António Luís Santos da Costa - João Pedro Soeiro de Matos Fernandes.\n\nPromulgado em 23 de junho de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 25 de junho de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113347159"
+  }
+ }
+}

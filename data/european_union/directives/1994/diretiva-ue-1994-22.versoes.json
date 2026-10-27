@@ -1,0 +1,376 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0022:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0022-20181224",
+ "dre_path": null,
+ "source_lastmod": "2018-12-24",
+ "versions": [
+  {
+   "date": "1994-06-30",
+   "future": false,
+   "celex": "31994L0022",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d9d619dad730e5ac",
+    "4e861b6f2d034190",
+    "1e443851a85ed5e1",
+    "e5150661757ecbc7",
+    "c75f5cd58c37d35d",
+    "118caf169b7a3897",
+    "e96fcf175bbd911d",
+    "5e287fe0db46c5ab",
+    "2d60beba0f222178",
+    "b1fff7c263563e15",
+    "426baf9c07ea9f6b",
+    "d500083604a2ea3d",
+    "d1abed4f83e9ad06",
+    "afd76191db935589",
+    "80de558ec1554274",
+    "d4206aa426681c12",
+    "226565449baeff9d"
+   ]
+  },
+  {
+   "date": "2018-12-24",
+   "future": false,
+   "celex": "01994L0022-20181224",
+   "acts": [
+    {
+     "id": "eu:celex:32018R1999:por",
+     "title": "REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018",
+     "published": null,
+     "celex": "32018R1999"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º — A presente directiva é aplicável às autorizações concedidas a partir da data fixada no artigo 14º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º"
+   ],
+   "fragments": [
+    "cf619ca05c7a51a2",
+    "dc204850e780487f",
+    "4c5c3bdf079689a7",
+    "77239bb35876b7ae",
+    "3b444a204603d5eb",
+    "7cad377579371e7d",
+    "b0cf75bb2eb294b4",
+    "60429503ccc857f6",
+    "bfc9bbe3a2bf9c8a",
+    "5b4351a144fcf48a",
+    "13c132b829de3a4c",
+    "25e408ec5bfb9fb8",
+    "27ac5f02c905ace3",
+    "1f0d32de2a99ae55",
+    "c9a48e2e47ca2101",
+    "2c227f5f9e3862f1",
+    "3639abfc06167de9"
+   ]
+  }
+ ],
+ "fragments": {
+  "d9d619dad730e5ac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/22/CE do Parlamento Europeu e do Conselho, de 30 de Maio de 1994, relativa às condições de concessão e de utilização das autorizações de prospecção, pesquisa e produção de hidrocarbonetos** *Jornal Oficial nº L 164 de 30/06/1994 p. 0003 - 0008 Edição especial finlandesa: Capítulo 6 Fascículo 4 p. 0237 Edição especial sueca: Capítulo 6 Fascículo 4 p. 0237*\n\nDIRECTIVA 94/22/CE DO PARLAMENTO EUROPEU E DO CONSELHO\n\nde 30 de Maio de 1994\n\nrelativa às condições de concessão e de utilização das autorizações de prospecção, pesquisa e produção de hidrocarbonetos\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2, primeiro e terceiro períodos, do seu artigo 57º e os seus artigos 66º e 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºB do Tratado (3),\n\nConsiderando que o mercado interno compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada; que é necessário adoptar as medidas necessárias para o seu funcionamento;\n\nConsiderando que, na sua resolução de 16 de Setembro de 1986 (4), o Conselho identificou como objectivo da política energética da Comunidade e dos Estados-membros uma melhor integração liberta dos entraves às trocas comerciais, do mercado interno da energia, com o objectivo de melhorar a segurança do aprovisionamento, de reduzir os custos e de reforçar a competitividade económica;\n\nConsiderando que a Comunidade depende em grande medida das importações para o seu abastecimento em hidrocarbonetos; que convém por isso incentivar a prospecção, a pesquisa e a produção dos recursos existentes na Comunidade nas melhores condições possíveis;\n\nConsiderando que os Estados-membros têm soberania e detêm direitos soberanos sobre os recursos de hidrocarbonetos nos seus territórios;\n\nConsiderando que a Comunidade é signatária da Convenção das Nações Unidas sobre o Direito do Mar;\n\nConsiderando que deve ser garantida a não discriminação no acesso e no exercício de actividades de prospecção, pesquisa e produção de hidrocarbonetos, em termos que incentivem uma maior concorrência neste sector, favorecendo, pois, a integração do mercado interno da energia e contribuindo para que a prospecção, pesquisa e produção de recursos nos Estados-membros decorram nas melhores condições possíveis;\n\nConsiderando que, para o efeito, devem ser adoptadas regras comuns que garantam que os procedimentos de concessão das autorizações de prospecção, pesquisa e produção de hidrocarbonetos sejam acessíveis a todas as entidades que possuam as capacidades necessárias; que a concessão das autorizações se deve basear em critérios objectivos e públicos; que as condições de concessão das autorizações devem igualmente ser do conhecimento prévio de todas as entidades que participem no processo;\n\nConsiderando que os Estados-membros devem manter a faculdade de limitar o acesso e o exercício dessas actividades com base em motivos de interesse geral e sujeitá-los ao pagamento de uma contrapartida financeira ou em hidrocarbonetos, devendo as modalidades da referida contrapartida ser estabelecidas por forma a não interferir na gestão das entidades; que essa faculdade deve ser exercida de forma não discriminatória; que, com excepção das condições ligadas ao exercício desta faculdade, são necessárias medidas para evitar impor às entidades condições e obrigações não justificadas pela necessidade de levar a bom termo essas actividades; que o controlo das actividades das entidades se deve limitar ao necessário para assegurar o cumprimento dessas obrigações e condições;\n\nConsiderando que a extensão das áreas abrangidas por uma autorização e a duração da autorização devem ser limitadas para evitar que se reserve a uma única entidade um direito exclusivo sobre uma área que possa ser objecto de uma prospecção e de uma pesquisa mais eficazes, bem como de uma melhor produção, por várias entidades;\n\nConsiderando que as entidades dos Estados-membros devem poder beneficiar, em países terceiros, de tratamento comparável ao de que as entidades de países terceiros beneficiam na Comunidade por força da presente directiva; que, para o efeito, é conveniente prever um procedimento;\n\nConsiderando que a presente directiva deve ser aplicável às autorizações concedidas após a data de entrada em vigor nos Estados-membros das disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva;\n\nConsiderando que a Directiva 90/531/CEE do Conselho, de 17 de Setembro de 1990, relativa aos procedimentos de celebração dos contratos de direito público nos sectores da água, da energia, dos transportes e das telecomunicações (1), e a Directiva 93/38/CEE do Conselho, de 14 de Junho de 1993, relativa à coordenação dos processos de celebração de contratos nos sectores da água, da energia, dos transportes e das telecomunicações (2), são aplicáveis às entidades do sector no que respeita aos seus contratos de fornecimentos, de empreitadas e de prestação de serviços; que o regime alternativo previsto no artigo 3º da Directiva 90/531/CEE só pode ser aplicado no caso de o Estado-membro que solicita a aplicação do mesmo conceder as autorizações de forma não discriminatória e transparente; que um Estado-membro preenche esta condição enquanto cumprir as obrigações da presente directiva; que, por conseguinte, se deve alterar a Directiva 90/531/CEE;\n\nConsiderando que o artigo 36º da Directiva 90/531/CEE prevê que se proceda a um novo exame do âmbito de aplicação dessa directiva após um período de quatro anos, em função da evolução verificada nomeadamente na abertura dos mercados e no nível de concorrência; que este reexame do âmbito de aplicação inclui a pesquisa e a extracção de hidrocarbonetos;\n\nConsiderando que a Dinamarca se encontra numa situação especial, devido ao facto de ser obrigada a negociar uma eventual continuação das acções depois de expirada a autorização, concedida a 8 de Julho de 1962, para as áreas cuja autorização cessa a 8 de Julho de 2012, devendo ser-lhe, por conseguinte, concedida uma derrogação relativamente a essas áreas,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "4e861b6f2d034190": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Autoridades competentes: os poderes públicos, tal como definidos no nº 1 do artigo 1º da Directiva 90/531/CEE, competentes para conceder autorizações e/ou controlar a respectiva utilização;\n\n2. Entidade: qualquer pessoa singular ou colectiva ou qualquer grupo constituído por essas pessoas que requeira, possa requerer ou seja titular de uma autorização;\n\n3. Autorização: qualquer disposição legislativa, regulamentar, administrativa ou contratual ou qualquer instrumento decorrente dessa disposição pela qual as autoridades competentes de um Estado-membro concedem a uma entidade o direito exclusivo de, por sua conta e risco, proceder à prospecção, pesquisa ou produção de hidrocarbonetos numa determinada área geográfica. A autorização pode ser concedida para cada actividade em separado ou simultaneamente para várias actividades;\n\n4. Entidade pública: qualquer empresa pública na acepção do nº 2 do artigo 1º da Directiva 90/531/CEE."
+  },
+  "1e443851a85ed5e1": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros continuarão a ter o direito de determinar quais as zonas dos seus territórios onde podem ser exercidas a prospecção, a pesquisa e a produção de hidrocarbonetos.\n\n2. Quando sejam abertas áreas ao exercício das actividades enumeradas no nº 1, os Estados-membros garantirão que não haja discriminação entre as entidades no que respeita ao acesso e ao exercício dessas actividades.\n\nContudo, os Estados-membros podem, por razões de segurança nacional, recusar o acesso a essas actividades e seu exercício a entidades efectivamente controladas por países terceiros ou por nacionais de países terceiros."
+  },
+  "e5150661757ecbc7": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros adoptarão as disposições necessárias para que as autorizações sejam concedidas no termo de um procedimento em que todas as entidades interessadas possam apresentar pedidos em conformidade com o nº 2 ou com o nº 3.\n\n2. O referido processo terá início:\n\na) Quer por iniciativa das autoridades competentes, através de anúncio para apresentação de propostas, a publicar no Jornal Oficial das Comunidades Europeias pelo menos 90 dias antes do prazo para recepção das propostas;\n\nb) Quer através de um anúncio para apresentação de propostas, a publicar no Jornal Oficial das Comunidades Europeias, na sequência da recepção de uma proposta por uma entidade, sem prejuízo do disposto no nº 1 do artigo 2º Quaisquer outras entidades interessadas disporão de um prazo de, pelo menos, 90 dias após a publicação para apresentar igualmente uma proposta.\n\nO anúncio especificará o tipo de autorização e a ou as áreas geográficas que, em parte ou na totalidade, foram ou podem ser objecto de pedido, bem como a data ou o prazo previstos para a concessão da autorização.\n\nO anúncio deverá mencionar especificamente se é dada preferência às propostas apresentadas por uma única pessoa singular ou colectiva.\n\n3. Os Estados-membros poderão conceder autorizações sem iniciar um processo nos termos do nº 2 quando a área para a qual a autorização é requerida:\n\na) Esteja disponível a título permanente;\n\nou\n\nb) Tenha sido objecto de um anterior processo nos termos do nº 2 de que não tenha resultado a concessão de uma autorização;\n\nou\n\nc) Tenha sido abandonada por uma entidade e não esteja automaticamente abrangida pela alínea a).\n\nOs Estados-membros que pretendam aplicar este número deverão, no prazo de três meses após a adopção da presente directiva ou de imediato, no caso dos Estados-membros que ainda não tenham adoptado estes procedimentos, providenciar a publicação no Jornal Oficial das Comunidades Europeias de um anúncio indicando as áreas dos respectivos territórios abrangidas pelos termos do presente número e como se podem obter informações pormenorizadas a seu respeito. Qualquer alteração significativa dessas informações será objecto de um anúncio suplementar. No entanto, um pedido de autorização nos termos deste número só poderá ser considerado após a publicação, nos termos do presente diploma, do respectivo anúncio.\n\n4. Os Estados-membros poderão decidir não aplicar o disposto no nº 1 se e na medida em que razões de ordem geológica ou de produção justifiquem que se conceda uma autorização para uma área ao titular de uma autorização para uma área contígua. Os Estados-membros em causa assegurarão que os titulares de autorizações para quaisquer outras áreas contíguas possam apresentar candidaturas nesse caso e disponham do tempo suficiente para o efeito.\n\n5. Não é considerada concessão de autorização na acepção do nº 1:\n\na) A concessão de uma autorização apenas por uma alteração do nome ou da propriedade da entidade titular de uma autorização existente, uma alteração na constituição dessa entidade ou transferência de uma autorização;\n\nb) A concessão de uma autorização a uma entidade titular de outra forma de autorização, quando a detenção desta última implique um direito à concessão da primeira;\n\nc) A decisão das autoridades competentes tomada no âmbito de uma autorização (quer esta tenha ou não sido concedida antes da data fixada no artigo 14º) e relativa ao início, interrupção, continuação ou cessação das actividades ou à prorrogação da própria autorização.\n\n6. Ainda que tenham iniciado os procedimentos referidos no nº 2, os Estados-membros poderão recusar a concessão de autorizações, devendo assegurar que esta possibilidade não seja causa de discriminação entre entidades."
+  },
+  "c75f5cd58c37d35d": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros adoptarão as disposições necessárias para que:\n\na) Quando a delimitação das áreas geográficas não resultar de uma anterior divisão geométrica do território, a sua superfície seja determinada de modo a não exceder a área necessária para o exercício das actividades nas melhores condições técnicas e económicas. Para o efeito, no caso de autorizações concedidas nos termos dos procedimentos fixados no nº 2 do artigo 3º, deverão ser definidos critérios objectivos que serão colocados à disposição das entidades antes da apresentação das propostas;\n\nb) O prazo da autorização não exceda o período necessário para levar a cabo as actividades para as quais é concedida a autorização. Todavia, as autoridades competentes podem prorrogar a autorização quando o prazo concedido for insuficiente para completar as actividades em questão e as actividades tenham sido executadas em conformidade com a autorização;\n\nc) As entidades não mantenham direitos exclusivos sobre a área geográfica, para a qual lhes tenha sido concedida uma autorização, por mais tempo do que o necessário para a correcta execução das actividades autorizadas."
+  },
+  "118caf169b7a3897": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros adoptarão as disposições necessárias para que:\n\n1. As autorizações sejam concedidas com base em critérios relativamente, em todos os casos:\n\na) Às capacidades técnicas e financeiras das entidades;\n\ne\n\nb) À forma como as entidades se propõem prospectar, pesquisar e/ou iniciar a produção na área geográfica em causa,\n\ne eventualmente:\n\nc) Ao preço que a entidade está disposta a pagar pela autorização, se esta for colocada à venda;\n\nd) Se, após avaliação nos termos dos critérios referidos nas alíneas a), b) e, eventualmente, c), duas ou mais autorizações tiverem igual mérito, a outros critérios relevantes, objectivos e não discriminatórios, com vista a uma escolha definitiva da proposta.\n\nAs autoridades competentes poderão igualmente ter em conta, para a apreciação dos pedidos, qualquer falta de eficácia e de sentido de responsabilidade de que uma entidade tenha dado provas em operações efectuadas ao abrigo de autorizações precedentes.\n\nAs condições das autoridades competentes quanto à composição de uma entidade à qual possam vir a conceder uma autorização deverão obedecer a critérios objectivos e não discriminatórios.\n\nAs condições das autoridades competentes quanto ao operador de uma entidade à qual possam vir a conceder uma autorização deverão obedecer a critérios objectivos e não discriminatórios.\n\nApós a sua elaboração, esses critérios serão publicados no Jornal Oficial das Comunidades Europeias antes do início do prazo para a apresentação das propostas. Os Estados-membros que já tiverem publicado os critérios nos respectivos jornais oficiais poderão limitar-se a publicar no Jornal Oficial das Comunidades Europeias uma referência à publicação nos seus jornais oficiais. No entanto, qualquer alteração de critérios deverá ser integralmente publicada no Jornal Oficial das Comunidades Europeias;\n\n2. As condições e exigências relativas ao exercício ou à cessação da actividade aplicáveis a cada tipo de autorizações por força de disposições legislativas, regulamentares ou administrativas em vigor na data de apresentação das propostas, quer façam parte da autorização quer a sua aceitação prévia seja condição para a concessão, sejam definidas e permanentemente colocadas à disposição das entidades interessadas. No caso previsto no nº 2, alínea a), do artigo 3º, as condições e exigências poderão ser colocadas à disposição apenas a partir da data em que os pedidos de autorização possam ser apresentados;\n\n3. Qualquer alteração das condições e exigências no decurso do processo seja notificada a todas as entidades interessadas;\n\n4. Os critérios, condições e exigências referidos no presente artigo sejam aplicados de forma não discriminatória;\n\n5. Qualquer entidade cujo pedido de autorização tenha sido recusado seja informada, se o pretender, dos motivos dessa decisão."
+  },
+  "e96fcf175bbd911d": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros providenciarão por que as condições e exigências referidas no nº 2 do artigo 5º, bem como as obrigações pormenorizadas associadas ao exercício de uma autorização específica, resultem exclusivamente da necessidade de assegurar a correcta execução das actividades na área para a qual é requerida uma autorização, nos termos do nº 2, ou do pagamento de uma contrapartida financeira ou em hidrocarbonetos.\n\n2. Os Estados-membros poderão impor condições e exigências ao exercício das actividades descritas no nº 1 do artigo 2º que se justifiquem por razões de segurança nacional, segurança pública, saúde pública, segurança dos transportes, protecção do ambiente, protecção de recursos biológicos e do património nacional de valor artístico, histórico ou arqueológico, segurança das instalações e dos trabalhadores, gestão planeada dos recursos de hidrocarbonetos (por exemplo, ritmo de esgotamento dos hidrocarbonetos ou a optimização da sua recuperação) ou garantia de receitas fiscais.\n\n3. Os Estados-membros fixarão as modalidades de pagamento das contrapartidas referidas no nº 1, incluindo qualquer exigência de participação do Estado, de modo a assegurar a manutenção da independência de gestão das entidades.\n\nContudo, quando a concessão de autorizações esteja sujeita à participação do Estado nas actividades e tenha sido confiada a uma pessoa colectiva a gestão dessa participação ou o próprio Estado assegure a gestão da participação, nem a pessoa colectiva nem o Estado serão impedidos de exercer os direitos e cumprir as obrigações inerentes a essa participação, desde que a pessoa colectiva ou o Estado não interfiram nem exerçam um direito de voto quanto a decisões em matéria de abastecimento das entidades, que a pessoa colectiva ou o Estado, em conjugação com uma ou mais entidades públicas, não exerçam um direito de voto maioritário quanto a outras decisões e que qualquer eventual voto do Estado ou da pessoa colectiva assente exclusivamente em princípios de transparência, objectividade e não discriminação e não impeça as decisões em matéria de gestão tomadas pela entidade de se basearem em princípios comerciais normais.\n\nContudo, as disposições do segundo parágrafo não obstam a que a pessoa colectiva ou o Estado se oponham a uma decisão dos titulares da autorização que não respeite as condições e exigências, especificadas na autorização, em matérias de esgotamento de recursos e de protecção dos interesses financeiros do Estado.\n\nA faculdade de se opor a uma decisão deverá ser exercida de maneira não discriminatória, especialmente no que se refere às decisões de investimento e às fontes de fornecimento das entidades. Quando a participação do Estado nas actividades for gerida por uma pessoa colectiva simultaneamente detentora de autorizações, o Estado-membro deverá tomar disposições por forma a que essa pessoa colectiva tenha a contabilidade relativa à sua actividade comercial separada da relativa à sua actividade de gestão da participação do Estado, bem como impedir qualquer fluxo de informação da parte da pessoa colectiva responsável pela gestão da participação do Estado para a parte da pessoa colectiva que legalmente seja titular da autorização. Contudo, quando a parte da pessoa colectiva responsável pela gestão da participação do Estado contrate a parte da pessoa colectiva titular da autorização como consultor, a primeira pode fornecer as informações necessárias para a realização dos trabalhos de consultadoria. Os titulares de autorizações a que as informações digam respeito deverão ter previamente conhecimento das informações assim fornecidas e o tempo necessário para suscitarem objecções.\n\n4. Os Estados-membros assegurarão que a supervisão das entidades no âmbito de uma autorização seja limitada ao necessário para garantir o cumprimento das condições, exigências e obrigações referidas no nº 1. Os Estados-membros adoptarão, nomeadamente, as medidas necessárias para que nenhuma entidade seja obrigada, por força de disposições legislativas, regulamentares ou administrativas, ou por qualquer acordo ou compromisso, a prestar informações relativamente às suas fontes de abastecimento, potenciais ou actuais, salvo a pedido das autoridades competentes e tendo exclusivamente em vista os objectivos referidos no artigo 36º do Tratado."
+  },
+  "5e287fe0db46c5ab": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nSem prejuízo das disposições relativas ou incluídas em autorizações individuais e do disposto no nº 5, alínea b), do artigo 3º, as disposições legislativas, regulamentares e administrativas que reservem a uma única entidade o direito de obtenção de autorizações para uma área geográfica específica situada no território de um Estado-membro serão abolidas pelos Estados-membros em causa antes de 1 de Janeiro de 1997."
+  },
+  "2d60beba0f222178": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros informarão a Comissão de eventuais dificuldades de ordem geral, de direito ou de facto, com que as entidades se deparem no acesso ou no exercício das actividades de prospecção, pesquisa e produção de hidrocarbonetos em países terceiros, que lhes tenham sido comunicadas. Os Estados-membros e a Comissão assegurarão o respeito pelo segredo comercial.\n\n2. A Comissão enviará um relatório ao Parlamento Europeu e ao Conselho até 31 de Dezembro de 1994 e depois periodicamente, sobre a situação das entidades nos países terceiros e sobre o andamento de eventuais negociações com esses países nos termos do nº 3 ou no âmbito de organizações internacionais.\n\n3. Sempre que a Comissão considerar, com base nos relatórios referidos no nº 2 ou noutras informações, que, em relação ao acesso ou ao exercício das actividades mencionadas no nº 1, um país terceiro não concede às entidades comunitárias um tratamento comparável ao concedido pela Comunidade a entidades desse país terceiro, a Comissão poderá apresentar ao Conselho propostas relativas a um mandato de negociação apropriado, com vista a obter oportunidades de concorrência comparáveis para as entidades comunitárias. O Conselho decidirá por maioria qualificada.\n\n4. Nas condições referidas no nº 3, a Comissão poderá em qualquer momento propor ao Conselho que autorize um ou mais Estados-membros a recusarem a concessão de uma autorização a uma entidade que seja efectivamente controlada pelo país terceiro em questão e/ou por nacionais desse país terceiro.\n\nA Comissão pode apresentar a referida proposta por sua própria iniciativa ou a pedido de um Estado-membro.\n\nO Conselho deliberará por maioria qualificada, no mais curto prazo.\n\n5. As medidas adoptadas em aplicação do presente artigo não prejudicam as obrigações da Comunidade decorrentes de acordos internacionais que regem o acesso e o exercício das actividades de prospecção, pesquisa e produção de hidrocarbonetos."
+  },
+  "b1fff7c263563e15": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nCada Estado-membro publicará e comunicará à Comissão um relatório anual contendo informações relativas às áreas geográficas que tenham sido abertas à prospecção, pesquisa e produção, às autorizações concedidas, às entidades titulares dessas autorizações e à sua constituição, bem como à estimativa das reservas situadas no seu território.\n\nA presente disposição não implica que os Estados-membros sejam obrigados a publicar informações comerciais de carácter confidencial."
+  },
+  "426baf9c07ea9f6b": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros notificarão a Comissão da lista das autoridades competentes até 1 de Maio de 1995. Os Estados-membros notificarão a Comissão, no mais breve prazo, das alterações ulteriormente ocorridas. A Comissão procederá à publicação no Jornal Oficial das Comunidades Europeias da lista das autoridades competentes e das alterações a essa lista."
+  },
+  "d500083604a2ea3d": {
+   "fragment_id": "Artigo 11º — A presente directiva é aplicável às autorizações concedidas a partir da data fixada no artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 11º — A presente directiva é aplicável às autorizações concedidas a partir da data fixada no artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — A presente directiva é aplicável às autorizações concedidas a partir da data fixada no artigo 14º"
+  },
+  "d1abed4f83e9ad06": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nAo artigo 3º da Directiva 90/531/CEE é aditado o seguinte número:\n\n«5. No que se refere às actividades de exploração de áreas geográficas com o objectivo de prospectar ou extrair petróleo ou gás, os nºs 1 a 4 são aplicáveis nos termos seguintes, a partir da data em que o Estado-membro em causa der cumprimento ao disposto na Directiva 94/22/CE do Parlamento Europeu e do Conselho, de 30 de Maio de 1994, relativa às condições de concessão das autorizações de prospecção, pesquisa e produção de hidrocarbonetos (*):\n\na) As condições estabelecidas no nº 1 consideram-se preenchidas a partir dessa data, sem prejuízo do nº 3;\n\nb) A partir dessa data, o Estado-membro referido no nº 4 é obrigado a comunicar apenas as disposições relativas à observância das condições enumeradas nos nºs 2 e 3.\n\n(*) JO nº L 164 de 30. 6. 1992, p. 3»."
+  },
+  "afd76191db935589": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nO disposto nos artigos 3º e 5º não se aplica às novas autorizações concedidas pela Dinamarca antes de 31 de Dezembro de 2012 relativamente a áreas liberadas em 8 de Julho de 2012 aquando da expiração da autorização emitida em 8 de Julho de 1962. As novas autorizações deverão ser concedidas com base em princípios objectivos e não discriminatórios.\n\nConsequentemente, o presente artigo não cria quaisquer precedentes para os Estados-membros."
+  },
+  "80de558ec1554274": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Julho de 1995. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "d4206aa426681c12": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "226565449baeff9d": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 30 de Maio de 1994.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nE. KLEPSCH\n\nPelo Conselho\n\nO Presidente\n\nC. SIMITIS\n\n(1) JO nº C 139 de 2. 6. 1992, p. 12.\n\n(2) JO nº C 19 de 25. 1. 1993, p. 128.\n\n(3) Parecer do Parlamento Europeu de 18 de Novembro de 1992 (JO nº C 337 de 21. 12. 1992, p. 145), posição comum do Conselho de 22 de Dezembro de 1993 (JO nº C 101 de 9. 4. 1994, p. 14) e decisão do Parlamento Europeu de 9 de Março de 1994 (JO nº C 91 de 28. 3. 1994).\n\n(4) JO nº C 241 de 25. 9. 1986, p. 1.\n\n(1) JO nº L 297 de 29. 10. 1990, p. 1.\n\n(2) JO nº L 199 de 9. 8. 1993, p. 84."
+  },
+  "cf619ca05c7a51a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Maio de 1994\n\nrelativa às condições de concessão e de utilização das autorizações de prospecção, pesquisa e produção de hidrocarbonetos"
+  },
+  "dc204850e780487f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. *Autoridades competentes:* os poderes públicos, tal como definidos no n.º 1 do artigo 1.º da Directiva 90/531/CEE, competentes para conceder autorizações e/ou controlar a respectiva utilização;\n\n2. *Entidade:* qualquer pessoa singular ou colectiva ou qualquer grupo constituído por essas pessoas que requeira, possa requerer ou seja titular de uma autorização;\n\n3. *Autorização:* qualquer disposição legislativa, regulamentar, administrativa ou contratual ou qualquer instrumento decorrente dessa disposição pela qual as autoridades competentes de um Estado-membro concedem a uma entidade o direito exclusivo de, por sua conta e risco, proceder à prospecção, pesquisa ou produção de hidrocarbonetos numa determinada área geográfica. A autorização pode ser concedida para cada actividade em separado ou simultaneamente para várias actividades;\n\n4. *Entidade pública:* qualquer empresa pública na acepção do n.º 2 do artigo 1.º da Directiva 90/531/CEE."
+  },
+  "4c5c3bdf079689a7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-membros continuarão a ter o direito de determinar quais as zonas dos seus territórios onde podem ser exercidas a prospecção, a pesquisa e a produção de hidrocarbonetos.\n\n2. Quando sejam abertas áreas ao exercício das actividades enumeradas no n.º 1, os Estados-membros garantirão que não haja discriminação entre as entidades no que respeita ao acesso e ao exercício dessas actividades.\n\nContudo, os Estados-membros podem, por razões de segurança nacional, recusar o acesso a essas actividades e seu exercício a entidades efectivamente controladas por países terceiros ou por nacionais de países terceiros."
+  },
+  "77239bb35876b7ae": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros adoptarão as disposições necessárias para que as autorizações sejam concedidas no termo de um procedimento em que todas as entidades interessadas possam apresentar pedidos em conformidade com o n.º 2 ou com o n.º 3.\n\n2. O referido processo terá início:\n\na) Quer por iniciativa das autoridades competentes, através de anúncio para apresentação de propostas, a publicar no *Jornal Oficial das Comunidades Europeias* pelo menos 90 dias antes do prazo para recepção das propostas;\n\nb) Quer através de um anúncio para apresentação de propostas, a publicar no *Jornal Oficial das Comunidades Europeias*, na sequência da recepção de uma proposta por uma entidade, sem prejuízo do disposto no n.º 1 do artigo 2.º Quaisquer outras entidades interessadas disporão de um prazo de, pelo menos, 90 dias após a publicação para apresentar igualmente uma proposta.\n\nO anúncio especificará o tipo de autorização e a ou as áreas geográficas que, em parte ou na totalidade, foram ou podem ser objecto de pedido, bem como a data ou o prazo previstos para a concessão da autorização.\n\nO anúncio deverá mencionar especificamente se é dada preferência às propostas apresentadas por uma única pessoa singular ou colectiva.\n\n3. Os Estados-membros poderão conceder autorizações sem iniciar um processo nos termos do n.º 2 quando a área para a qual a autorização é requerida:\n\na) Esteja disponível a título permanente;\n\nb) Tenha sido objecto de um anterior processo nos termos do n.º 2 de que não tenha resultado a concessão de uma autorização;\n\nc) Tenha sido abandonada por uma entidade e não esteja automaticamente abrangida pela alínea a).\n\nOs Estados-membros que pretendam aplicar este número deverão, no prazo de três meses após a adopção da presente directiva ou de imediato, no caso dos Estados-membros que ainda não tenham adoptado estes procedimentos, providenciar a publicação no *Jornal Oficial das Comunidades Europeias* de um anúncio indicando as áreas dos respectivos territórios abrangidas pelos termos do presente número e como se podem obter informações pormenorizadas a seu respeito. Qualquer alteração significativa dessas informações será objecto de um anúncio suplementar. No entanto, um pedido de autorização nos termos deste número só poderá ser considerado após a publicação, nos termos do presente diploma, do respectivo anúncio.\n\n4. Os Estados-membros poderão decidir não aplicar o disposto no n.º 1 se e na medida em que razões de ordem geológica ou de produção justifiquem que se conceda uma autorização para uma área ao titular de uma autorização para uma área contígua. Os Estados-membros em causa assegurarão que os titulares de autorizações para quaisquer outras áreas contíguas possam apresentar candidaturas nesse caso e disponham do tempo suficiente para o efeito.\n\n5. Não é considerada concessão de autorização na acepção do n.º 1:\n\na) A concessão de uma autorização apenas por uma alteração do nome ou da propriedade da entidade titular de uma autorização existente, uma alteração na constituição dessa entidade ou transferência de uma autorização;\n\nb) A concessão de uma autorização a uma entidade titular de outra forma de autorização, quando a detenção desta última implique um direito à concessão da primeira;\n\nc) A decisão das autoridades competentes tomada no âmbito de uma autorização (quer esta tenha ou não sido concedida antes da data fixada no artigo 14.º) e relativa ao início, interrupção, continuação ou cessação das actividades ou à prorrogação da própria autorização.\n\n6. Ainda que tenham iniciado os procedimentos referidos no n.º 2, os Estados-membros poderão recusar a concessão de autorizações, devendo assegurar que esta possibilidade não seja causa de discriminação entre entidades."
+  },
+  "3b444a204603d5eb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros adoptarão as disposições necessárias para que:\n\na) Quando a delimitação das áreas geográficas não resultar de uma anterior divisão geométrica do território, a sua superfície seja determinada de modo a não exceder a área necessária para o exercício das actividades nas melhores condições técnicas e económicas. Para o efeito, no caso de autorizações concedidas nos termos dos procedimentos fixados no n.º 2 do artigo 3.º, deverão ser definidos critérios objectivos que serão colocados à disposição das entidades antes da apresentação das propostas;\n\nb) O prazo da autorização não exceda o período necessário para levar a cabo as actividades para as quais é concedida a autorização. Todavia, as autoridades competentes podem prorrogar a autorização quando o prazo concedido for insuficiente para completar as actividades em questão e as actividades tenham sido executadas em conformidade com a autorização;\n\nc) As entidades não mantenham direitos exclusivos sobre a área geográfica, para a qual lhes tenha sido concedida uma autorização, por mais tempo do que o necessário para a correcta execução das actividades autorizadas."
+  },
+  "7cad377579371e7d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros adoptarão as disposições necessárias para que:\n\n1. As autorizações sejam concedidas com base em critérios relativamente, em todos os casos:\n\na) Às capacidades técnicas e financeiras das entidades;\n\nb) À forma como as entidades se propõem prospectar, pesquisar e/ou iniciar a produção na área geográfica em causa,\n\nc) Ao preço que a entidade está disposta a pagar pela autorização, se esta for colocada à venda;\n\nd) Se, após avaliação nos termos dos critérios referidos nas alíneas a), b) e, eventualmente, c), duas ou mais autorizações tiverem igual mérito, a outros critérios relevantes, objectivos e não discriminatórios, com vista a uma escolha definitiva da proposta.\n\n2. As condições e exigências relativas ao exercício ou à cessação da actividade aplicáveis a cada tipo de autorizações por força de disposições legislativas, regulamentares ou administrativas em vigor na data de apresentação das propostas, quer façam parte da autorização quer a sua aceitação prévia seja condição para a concessão, sejam definidas e permanentemente colocadas à disposição das entidades interessadas. No caso previsto no n.º 2, alínea a), do artigo 3.º, as condições e exigências poderão ser colocadas à disposição apenas a partir da data em que os pedidos de autorização possam ser apresentados;\n\n3. Qualquer alteração das condições e exigências no decurso do processo seja notificada a todas as entidades interessadas;\n\n4. Os critérios, condições e exigências referidos no presente artigo sejam aplicados de forma não discriminatória;\n\n5. Qualquer entidade cujo pedido de autorização tenha sido recusado seja informada, se o pretender, dos motivos dessa decisão."
+  },
+  "b0cf75bb2eb294b4": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros providenciarão por que as condições e exigências referidas no n.º 2 do artigo 5.º, bem como as obrigações pormenorizadas associadas ao exercício de uma autorização específica, resultem exclusivamente da necessidade de assegurar a correcta execução das actividades na área para a qual é requerida uma autorização, nos termos do n.º 2, ou do pagamento de uma contrapartida financeira ou em hidrocarbonetos.\n\n2. Os Estados-membros poderão impor condições e exigências ao exercício das actividades descritas no n.º 1 do artigo 2.º que se justifiquem por razões de segurança nacional, segurança pública, saúde pública, segurança dos transportes, protecção do ambiente, protecção de recursos biológicos e do património nacional de valor artístico, histórico ou arqueológico, segurança das instalações e dos trabalhadores, gestão planeada dos recursos de hidrocarbonetos (por exemplo, ritmo de esgotamento dos hidrocarbonetos ou a optimização da sua recuperação) ou garantia de receitas fiscais.\n\n3. Os Estados-membros fixarão as modalidades de pagamento das contrapartidas referidas no n.º 1, incluindo qualquer exigência de participação do Estado, de modo a assegurar a manutenção da independência de gestão das entidades.\n\nContudo, quando a concessão de autorizações esteja sujeita à participação do Estado nas actividades e tenha sido confiada a uma pessoa colectiva a gestão dessa participação ou o próprio Estado assegure a gestão da participação, nem a pessoa colectiva nem o Estado serão impedidos de exercer os direitos e cumprir as obrigações inerentes a essa participação, desde que a pessoa colectiva ou o Estado não interfiram nem exerçam um direito de voto quanto a decisões em matéria de abastecimento das entidades, que a pessoa colectiva ou o Estado, em conjugação com uma ou mais entidades públicas, não exerçam um direito de voto maioritário quanto a outras decisões e que qualquer eventual voto do Estado ou da pessoa colectiva assente exclusivamente em princípios de transparência, objectividade e não discriminação e não impeça as decisões em matéria de gestão tomadas pela entidade de se basearem em princípios comerciais normais.\n\nContudo, as disposições do segundo parágrafo não obstam a que a pessoa colectiva ou o Estado se oponham a uma decisão dos titulares da autorização que não respeite as condições e exigências, especificadas na autorização, em matérias de esgotamento de recursos e de protecção dos interesses financeiros do Estado.\n\nA faculdade de se opor a uma decisão deverá ser exercida de maneira não discriminatória, especialmente no que se refere às decisões de investimento e às fontes de fornecimento das entidades. Quando a participação do Estado nas actividades for gerida por uma pessoa colectiva simultaneamente detentora de autorizações, o Estado-membro deverá tomar disposições por forma a que essa pessoa colectiva tenha a contabilidade relativa à sua actividade comercial separada da relativa à sua actividade de gestão da participação do Estado, bem como impedir qualquer fluxo de informação da parte da pessoa colectiva responsável pela gestão da participação do Estado para a parte da pessoa colectiva que legalmente seja titular da autorização. Contudo, quando a parte da pessoa colectiva responsável pela gestão da participação do Estado contrate a parte da pessoa colectiva titular da autorização como consultor, a primeira pode fornecer as informações necessárias para a realização dos trabalhos de consultadoria. Os titulares de autorizações a que as informações digam respeito deverão ter previamente conhecimento das informações assim fornecidas e o tempo necessário para suscitarem objecções.\n\n4. Os Estados-membros assegurarão que a supervisão das entidades no âmbito de uma autorização seja limitada ao necessário para garantir o cumprimento das condições, exigências e obrigações referidas no n.º 1. Os Estados-membros adoptarão, nomeadamente, as medidas necessárias para que nenhuma entidade seja obrigada, por força de disposições legislativas, regulamentares ou administrativas, ou por qualquer acordo ou compromisso, a prestar informações relativamente às suas fontes de abastecimento, potenciais ou actuais, salvo a pedido das autoridades competentes e tendo exclusivamente em vista os objectivos referidos no artigo 36.º do Tratado."
+  },
+  "60429503ccc857f6": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSem prejuízo das disposições relativas ou incluídas em autorizações individuais e do disposto no n.º 5, alínea b), do artigo 3.º, as disposições legislativas, regulamentares e administrativas que reservem a uma única entidade o direito de obtenção de autorizações para uma área geográfica específica situada no território de um Estado-membro serão abolidas pelos Estados-membros em causa antes de 1 de Janeiro de 1997."
+  },
+  "bfc9bbe3a2bf9c8a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros informarão a Comissão de eventuais dificuldades de ordem geral, de direito ou de facto, com que as entidades se deparem no acesso ou no exercício das actividades de prospecção, pesquisa e produção de hidrocarbonetos em países terceiros, que lhes tenham sido comunicadas. Os Estados-membros e a Comissão assegurarão o respeito pelo segredo comercial.\n\n3. Sempre que a Comissão considerar, com base nos relatórios referidos no n.º 2 ou noutras informações, que, em relação ao acesso ou ao exercício das actividades mencionadas no n.º 1, um país terceiro não concede às entidades comunitárias um tratamento comparável ao concedido pela Comunidade a entidades desse país terceiro, a Comissão poderá apresentar ao Conselho propostas relativas a um mandato de negociação apropriado, com vista a obter oportunidades de concorrência comparáveis para as entidades comunitárias. O Conselho decidirá por maioria qualificada.\n\n4. Nas condições referidas no n.º 3, a Comissão poderá em qualquer momento propor ao Conselho que autorize um ou mais Estados-membros a recusarem a concessão de uma autorização a uma entidade que seja efectivamente controlada pelo país terceiro em questão e/ou por nacionais desse país terceiro.\n\nA Comissão pode apresentar a referida proposta por sua própria iniciativa ou a pedido de um Estado-membro.\n\nO Conselho deliberará por maioria qualificada, no mais curto prazo.\n\n5. As medidas adoptadas em aplicação do presente artigo não prejudicam as obrigações da Comunidade decorrentes de acordos internacionais que regem o acesso e o exercício das actividades de prospecção, pesquisa e produção de hidrocarbonetos."
+  },
+  "5b4351a144fcf48a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros notificarão a Comissão da lista das autoridades competentes até 1 de Maio de 1995. Os Estados-membros notificarão a Comissão, no mais breve prazo, das alterações ulteriormente ocorridas. A Comissão procederá à publicação no *Jornal Oficial das Comunidades Europeias* da lista das autoridades competentes e das alterações a essa lista."
+  },
+  "13c132b829de3a4c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA presente directiva é aplicável às autorizações concedidas a partir da data fixada no artigo 14.º"
+  },
+  "25e408ec5bfb9fb8": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAo artigo 3.º da Directiva 90/531/CEE é aditado o seguinte número:\n\n«5. No que se refere às actividades de exploração de áreas geográficas com o objectivo de prospectar ou extrair petróleo ou gás, os n.^os^ 1 a 4 são aplicáveis nos termos seguintes, a partir da data em que o Estado-membro em causa der cumprimento ao disposto na Directiva 94/22/CE do Parlamento Europeu e do Conselho, de 30 de Maio de 1994, relativa às condições de concessão das autorizações de prospecção, pesquisa e produção de hidrocarbonetos ([^*1^](http://publications.europa.eu/resource/cellar/dd938ac2-4ab9-11e9-a8ed-01aa75ed71a1.0018.03/DOC_1#E0001)):\n\na) As condições estabelecidas no n.º 1 consideram-se preenchidas a partir dessa data, sem prejuízo do n.º 3;\n\nb) A partir dessa data, o Estado-membro referido no n.º 4 é obrigado a comunicar apenas as disposições relativas à observância das condições enumeradas nos n.^os^ 2 e 3."
+  },
+  "27ac5f02c905ace3": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO disposto nos artigos 3.º e 5.º não se aplica às novas autorizações concedidas pela Dinamarca antes de 31 de Dezembro de 2012 relativamente a áreas liberadas em 8 de Julho de 2012 aquando da expiração da autorização emitida em 8 de Julho de 1962. As novas autorizações deverão ser concedidas com base em princípios objectivos e não discriminatórios.\n\nConsequentemente, o presente artigo não cria quaisquer precedentes para os Estados-membros."
+  },
+  "1f0d32de2a99ae55": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Julho de 1995. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros."
+  },
+  "c9a48e2e47ca2101": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "2c227f5f9e3862f1": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "3639abfc06167de9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/dd938ac2-4ab9-11e9-a8ed-01aa75ed71a1.0018.03/DOC_1#src.E0001)) JO n.º L 164 de 30.6.1992, p. 3»."
+  }
+ }
+}

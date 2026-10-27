@@ -1,0 +1,257 @@
+---
+schema_version: '1.0'
+id: pt:dre:665513:por
+title: Resolução do Conselho de Ministros n.º 64-A/2009
+short_title: null
+summary: Aprova o Plano Regional de Ordenamento do Território para a Região do Oeste e Vale do Tejo
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 64-A/2009
+official_date: null
+publication_date: '2009-08-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/2009, 1º Suplemento, Série I de 2009-08-06
+  number: '151'
+  series: I
+  supplement: null
+  pages: 5118-(2) a 5118-(157)
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15101/0000200157.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre/pt/html
+  oj: null
+  dre: '665513'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/64-a-2009-665513
+  internal: pt:dre:665513:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-a-2009-665513
+  metadata_url: https://data.dre.pt/eli/resolconsmin/64-a/2009/08/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-a-2009-665513
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:18:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: aa5816a969570ada2287daea619582750969bddddf628701604a7e69c17f920a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:18:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Definição de Competências
+- Ordenamento do Território
+- Plano Regional de Ordenamento do Território
+- Política de Solos
+- Programa de Acção
+- Protovt
+- Região do Oeste e VALE do TEJO
+relationships:
+- type: amended_by
+  target: pt:dre:309039:por
+  label: Alargado o regime transitório estabelecido no n.º 18 aos planos de urbanização e de pormenor aí previstos, que venham
+    a ser aprovados pela assembleia municipal até 30 de Abril de 2011. pela RES.85/2010.09.11.2010.PCM, DR.IS [217] de 09.11.2010
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/85-2010-309039
+  date: '2010-11-09'
+- type: amended_by
+  target: pt:dre:212551389:por
+  label: Alterado, a partir de 04.05.2023, o Plano Regional de Ordenamento do Território do Oeste e Vale do Tejo pelo(a) Resolução
+    do Conselho de Ministros n.º 39/2023 - Diário da República n.º 85/2023, Série I de 2023-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/39-2023-212551389
+  date: '2023-05-03'
+- type: cites
+  target: pt:dre:302557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667539:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579075:por
+  label: Rectificada a alínea c) do n.º 7, a alínea a) do n.º 18, o n.º 19 e a secção II do anexo II (identificação a negrito
+    das expressões aludidas na nota (1), saiu publicada no cabeçalho da col. «Conteúdo regulamentar», devendo referir-se ao
+    cabeçalho da tabela), pela DECL-RECT.71-A/2009.02.10.2009.PCM, DR.IS [192)Supl de 02.10.2009, que procedeu à republicação
+    da referida secção
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/71-a-2009-579075
+  date: '2009-10-02'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:18:21Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 64-A/2009
+
+A [Resolução do Conselho de Ministros n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2006-667539), de 23 de Março, determinou a elaboração do Plano Regional de Ordenamento do Território do Oeste e Vale do Tejo (PROTOVT) para a área territorial integrada nos municípios do Oeste, da Lezíria e do Médio Tejo.
+
+A determinação de elaboração do PROTOVT obedeceu ao estabelecido na lei de bases da política de ordenamento do território e de urbanismo, aprovada pela [Lei n.º 48/98](https://diariodarepublica.pt/dr/detalhe/lei/48-1998-438067), de 11 de Agosto, e no regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, no que se refere aos instrumentos de desenvolvimento de âmbito regional, e inscreveu-se num contexto alargado de iniciativas de planeamento de base territorial, que envolveu a conclusão, aprovação e entrada em vigor do Programa Nacional da Política de Ordenamento do Território (PNPOT), aprovado pela [Lei n.º 58/2007](https://diariodarepublica.pt/dr/detalhe/lei/58-2007-640143), de 4 de Setembro, a elaboração simultânea de planos regionais de ordenamento do território para todas as regiões do continente que não dispunham ainda deste instrumento e, ainda, a elaboração de planos e a tomada de decisões de natureza sectorial com forte repercussão no território.
+
+A elaboração do PROTOVT teve como referência as orientações emanadas do PNPOT e do Plano Regional de Ordenamento do Território da Área Metropolitana de Lisboa, aprovado pela [Resolução do Conselho de Ministros n.º 68/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-2002-302557), de 8 de Abril, e articulou-se com os trabalhos de elaboração dos Planos Regionais de Ordenamento do Território do Alentejo e do Centro.
+
+A elaboração do PROTOVT foi acompanhada por uma comissão integrada por entidades e agentes nacionais, regionais e locais diversificados e correspondeu a um período privilegiado de reflexão estratégica multisectorial e de ponderação de várias esferas de interesses no âmbito regional.
+
+A elaboração do PROTOVT foi complementada pelo desenrolar, em paralelo, de um processo de avaliação ambiental estratégica, realizado nos termos do [Decreto-Lei n.º 232/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2007-639155), de 15 de Junho, e do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, tendo o respectivo relatório ambiental sido divulgado conjuntamente com a proposta de plano.
+
+Durante a elaboração do PROTOVT foi tomada pelo Governo a decisão de localização do novo aeroporto de Lisboa no Campo de Tiro de Alcochete. Nessa medida, foi efectuada uma revisão dos cenários de desenvolvimento inicialmente considerados e uma recontextualização dos efeitos do aeroporto e actividades conexas no modelo territorial da região, em particular no que se refere às acessibilidades e mobilidade, ao acolhimento empresarial, ao sistema urbano e ao sistema ambiental, conseguindo-se, assim, garantir a plena actualidade e eficácia do plano.
+
+É ainda de salientar que o PROTOVT teve em consideração a elaboração e aprovação do Programa de Acção para os Municípios do Oeste (Alcobaça, Alenquer, Arruda dos Vinhos, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Óbidos, Peniche, Sobral de Monte Agraço e Torres Vedras) e Municípios da Lezíria do Tejo (Azambuja, Cartaxo, Rio Maior e Santarém), a Realizar entre 2008 e 2017, aprovado pela [Resolução do Conselho de Ministros n.º 135/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2008-454015), de 9 de Setembro, sendo estes dois instrumentos de natureza diversa mas complementar e convergente.
+
+A aprovação do PROTOVT dá cumprimento ao previsto no quadro legal aplicável, contribuindo para a construção do edifício jurídico e regulamentar que a lei de bases estipula em matéria de instrumentos de desenvolvimento territorial da competência do Estado. Neste quadro, o PROTOVT fornece o referencial e as orientações estratégicas para os trabalhos de revisão dos planos directores municipais dos concelhos da Região, cujos tempos médios de vigência aconselham uma actualização generalizada, bem como para a elaboração e alteração de planos de natureza sectorial e especial.
+
+A aprovação do PROTOVT oferece, também, fundamento de decisão no âmbito da aplicação do Quadro de Referência Estratégico Nacional 2007-2013, constituindo-se o PROT como um instrumento essencial para enquadrar a gestão desconcentrada de subvenções financeiras e para fundamentar a validade e o mérito, em matéria de desenvolvimento regional, das acções candidatas a financiamento comunitário, aspectos com especial pertinência na área geográfica da Região de Lisboa e Vale do Tejo, onde prevalecem responsabilidades repartidas de gestão de fundos.
+
+O PROTOVT explicita uma visão de desenvolvimento ambiciosa para a Região do Oeste e Vale do Tejo, ancorada numa forte sinergia de acção com a Área Metropolitana de Lisboa, no quadro da grande região de polarização metropolitana, e numa potenciação da posição geográfica de charneira, no contexto nacional e internacional, sustentada pelas diversidades e especificidades sub-regionais. Neste quadro, o PROTOVT define as grandes opções estratégicas de base territorial para o desenvolvimento regional, o modelo organizativo espacial e as orientações estratégicas e normativas conducentes a esse desenvolvimento.
+
+Constituem opções estratégicas de desenvolvimento da Região, consagradas no PROTOVT:
+
+a) Ganhar a aposta da inovação, competitividade e internacionalização através da renovação do modelo de crescimento económico, da qualificação da base territorial, da utilização eficiente das infra-estruturas, do fomento da iniciativa empresarial e da qualificação dos recursos humanos;
+
+b) Potenciar as vocações territoriais num quadro de sustentabilidade ambiental através da protecção e valorização dos recursos naturais, patrimoniais e culturais, do desenvolvimento sustentável das actividades de turismo e lazer, da potenciação das actividades agrícolas e florestais, da produção e gestão da energia e da gestão dos perigos e riscos;
+
+c) Concretizar a visão policêntrica e valorizar a qualidade de vida urbana através do reforço dos subsistemas urbanos regionais, da qualificação dos centros urbanos, da dinamização do turismo e lazer alternativos e da qualificação dos recursos humanos;
+
+d) Descobrir as novas ruralidades através do reforço da competitividade das fileiras da produção agrícola, florestal e agro-florestal, da consolidação da agricultura de regadio e da inovação na articulação urbano-rural.
+
+A entrada em vigor do PROTOVT implica a revisão e alteração generalizada dos planos directores municipais em vigor, para efeitos de incorporação coerente e integrada das suas orientações e directrizes, bem como a alteração dos planos especiais de ordenamento do território e demais planos naquilo que não cumpram o preconizado pelo Plano Regional.
+
+Foram tidas em conta as opções estratégicas de desenvolvimento enunciadas e as principais fragilidades de organização e utilização do território, nomeadamente em matéria de construção indiscriminada no solo rural ou de construção na faixa costeira de 500 m, bem como as alterações de fundo preconizadas para os regimes de ocupação e uso do solo em domínios específicos, como o do turismo. Com base nessa ponderação, considera-se que a manutenção das disposições dos planos vinculativos dos particulares, no que concerne a estas matérias, gera incompatibilidades objectivas com o PROTOVT. Por isso, devem ser desde já adaptadas ou suprimidas as disposições que lhes dão origem, no âmbito do disposto na alínea c) do artigo 97.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+
+Nessa medida, considerando a importância estratégica da implementação da estratégia regional de ordenamento constante do PROTOVT, são identificadas as incompatibilidades manifestas com o PROTOVT. Neste âmbito, tendo em conta o reconhecido interesse nacional e regional na completa e efectiva implementação do PROTOVT, estabelece-se que, caso os municípios não procedam à adequação referida, prevista no artigo 97.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, os preceitos identificados como incompatíveis são suspensos, nos termos da alínea a) do n.º 2 do artigo 100.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+
+O PROTOVT incorpora indicadores de realização e de resultados destinados a aferir a implementação do próprio plano e a inerente evolução do desempenho da Região e preconiza novos modelos de governação, designadamente a instauração de uma estrutura de monitorização, avaliação e gestão. Esta estrutura integra uma comissão de acompanhamento consultiva, de composição similar à que efectivou o acompanhamento da elaboração do Plano, e comissões de gestão operacional especializadas e flexíveis, formadas a partir de um núcleo base restrito de entidades que garante o funcionamento de um observatório regional.
+
+Pretende-se com a estrutura de monitorização, avaliação e gestão garantir não só a observação sistemática e abalizada das dinâmicas de desenvolvimento de base territorial mas, sobretudo, dar continuidade ao envolvimento dos parceiros interessados, conseguido desde a fase de elaboração à fase de implementação do PROTOVT, e fomentar as condições propícias a um exercício continuado de planeamento e concertação.
+
+O presente Plano Regional tem em consideração o interesse público regional da implementação de um modelo de ordenamento para a Região do Oeste e Vale do Tejo coerente e alicerçado em estudos técnicos fundamentados.
+
+O PROTOVT foi objecto de intensa participação pública durante a sua elaboração e alvo de discussão pública no período que decorreu de 2 de Junho a 4 de Agosto de 2008, bem como de avaliação crítica e parecer de instituições universitárias, nos termos do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com os resultados e efeitos registados no relatório da participação pública.
+
+Nos termos da alínea a) do n.º 2 do artigo 59.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na sua redacção actual, foram acordados com as Câmaras Municipais de Abrantes, Alenquer, Alcanena, Alcobaça, Almeirim, Alpiarça, Azambuja, Benavente, Bombarral, Caldas da Rainha, Cartaxo, Chamusca, Constância, Coruche, Entroncamento, Golegã, Ferreira do Zêzere, Lourinhã, Nazaré, Óbidos, Ourém, Peniche, Rio Maior, Salvaterra de Magos, Santarém, Sardoal, Tomar, Torres Novas, Torres Vedras e Vila Nova da Barquinha as formas e os prazos de adequação dos planos municipais de ordenamento do território.
+
+Foram ouvidos, para efeitos da alínea a) do n.º 2 do artigo 100.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, os municípios de Abrantes, Alcanena, Alcobaça, Alenquer, Almeirim, Alpiarça, Azambuja, Benavente, Bombarral, Cadaval, Caldas da Rainha, Cartaxo, Chamusca, Constância, Coruche, Entroncamento, Ferreira do Zêzere, Golegã, Lourinhã, Nazaré, Óbidos, Ourém, Peniche, Rio Maior, Salvaterra de Magos, Santarém, Sardoal, Tomar, Torres Novas, Torres Vedras e Vila Nova da Barquinha, tendo-se promovido a audição dos municípios de Arruda dos Vinhos e de Sobral de Monte Agraço.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 59.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar o Plano Regional de Ordenamento do Território do Oeste e Vale do Tejo (PROTOVT), cujas opções estratégicas, normas orientadoras e modelo territorial se publicam no anexo i à presente resolução, que dela faz parte integrante.
+
+2 - Determinar que o PROTOVT enquadra, de acordo com as respectivas fichas, os projectos integrantes do Programa de Acção para os Municípios do Oeste (Alcobaça, Alenquer, Arruda dos Vinhos, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Óbidos, Peniche, Sobral de Monte Agraço e Torres Vedras) e Municípios da Lezíria do Tejo (Azambuja, Cartaxo, Rio Maior e Santarém), a Realizar entre 2008 e 2017, adoptado pela [Resolução do Conselho de Ministros n.º 135/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/135-2008-454015), de 9 de Setembro, e objecto de protocolo de colaboração institucional celebrado entre o Governo, a Associação de Municípios do Oeste e os municípios envolvidos em 10 de Setembro de 2008.
+
+3 - Decidir que o município da Azambuja é abrangido pelo PROTOVT, não se aplicando, no território desse município, o Plano Regional de Ordenamento do Território da Área Metropolitana de Lisboa.
+
+4 - Estabelecer que a adaptação e incorporação das orientações e directrizes ao modelo territorial e às normas orientadoras do PROTOVT por parte dos planos directores municipais e planos especiais de ordenamento do território em vigor na data de entrada em vigor da presente resolução é efectuada através de procedimento de alteração ou revisão, nos termos dos artigos 96.º e 98.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+
+5 - Determinar que o procedimento referido no número anterior se deve iniciar no prazo máximo de um ano contado a partir da entrada em vigor da presente resolução.
+
+6 - Excepcionar do disposto no n.º 4 e no número anterior os planos directores municipais e os planos especiais de ordenamento do território que tenham entrado em vigor há menos de três anos, salvo nas matérias identificadas no número seguinte.
+
+7 - Declarar que são incompatíveis com o PROTOVT as disposições constantes dos planos especiais de ordenamento do território e dos planos directores municipais que admitam a construção de:
+
+a) Edificações dispersas ou isoladas destinadas a habitação, nos termos do tipificado nas directrizes 1.1 e 1.2 do item «qualificação do solo rural» constante do ponto 3.1 das Normas Específicas de Ordenamento do Território, em áreas classificadas como solo rural, com excepção dos aglomerados rurais delimitados, se a área mínima do prédio não for igual ou superior a 4 ha, mantendo-se no demais as regras, parâmetros e índices estabelecidos nesses planos;
+
+b) Empreendimentos turísticos fora das áreas urbanas e urbanizáveis que correspondem a aglomerados urbanos existentes, com excepção do turismo em espaço rural e do turismo de habitação;
+
+c) Edificações fora das áreas urbanas e urbanizáveis que correspondem a aglomerados urbanos existentes na faixa costeira dos 500 m, excepto infra-estruturas e equipamentos colectivos de reconhecido interesse público que devam localizar-se nessa faixa e as infra-estruturas e equipamentos balneares e marítimos previstos em POOC e desde que não se verifiquem situações de risco.
+
+8 - Determinar que as disposições constantes dos planos especiais de ordenamento do território e dos planos directores municipais referidas no número anterior devem ser objecto de alteração por adaptação, nos termos do artigo 97.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, no prazo de 90 dias úteis.
+
+9 - Suspender, caso não se tenha procedido à alteração por adaptação referida no número anterior no prazo de 90 dias úteis, ao abrigo da alínea a) do n.º 2 do artigo 100.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, as disposições dos planos especiais de ordenamento do território e dos planos directores municipais identificadas e reproduzidas no anexo ii à presente resolução, que dela faz parte integrante, até à alteração ou revisão do plano em causa.
+
+10 - Fundamentar a suspensão referida no número anterior no reconhecido interesse regional e nacional da adaptação dos instrumentos de gestão territorial vinculativos dos particulares ao PROTOVT.
+
+11 - Excluir do âmbito da suspensão referida no n.º 9 as acções, nomeadamente operações de loteamento, que, sendo compatíveis com plano municipal e plano especial de ordenamento do território:
+
+a) Foram validamente autorizadas antes da entrada em vigor da presente resolução;
+
+b) Obtiveram informações prévias favoráveis válidas antes da entrada em vigor da presente resolução;
+
+c) Obtiveram declaração de impacte ambiental favorável ou favorável condicionada antes da entrada em vigor da presente resolução.
+
+12 - Estabelecer que quando a suspensão prevista no n.º 9 incida sobre disposições de plano director municipal que se encontrem suspensas, por outro motivo, esta apenas produz efeitos após a caducidade da suspensão que se encontrar em vigor.
+
+13 - Decidir que, concluído o prazo de 90 dias úteis referido no n.º 8, a Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo publicita, na 2.ª série do Diário da República, a listagem dos municípios que procederam à adaptação e a listagem dos municípios que não procederam à adaptação e nos quais opera a suspensão referida no n.º 9.
+
+14 - Estabelecer que, para efeitos de incorporação do modelo e das normas orientadoras do PROTOVT para o sector do turismo, nomeadamente a delimitação das áreas de vocação turística e respectivo regime de incompatibilidades ou a regulamentação do número máximo de camas e demais regras, parâmetros e índices a adoptar pelos empreendimentos turísticos, os municípios podem iniciar de imediato um procedimento de alteração do plano director municipal em vigor, independentemente do procedimento de alteração ou revisão a encetar nos termos do n.º 4.
+
+15 - Indicar que, para efeitos dos procedimentos de alteração referidos no número anterior, os municípios podem associar-se em processos de estudo, planeamento e concertação supramunicipal no que se refere à delimitação das áreas de vocação turística e respectiva avaliação ambiental, visando-se garantir celeridade, integração e coerência global aos processos, sem prejuízo da necessária individualização das propostas de alteração para a formalização dos procedimentos indispensáveis previstos no regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+
+16 - Excluir da necessidade de adaptação às orientações do PROTOVT a elaboração, alteração ou revisão em curso de planos de urbanização e de planos de pormenor, que incidam na faixa dos 500 m referida na alínea c) do n.º 7, fora das áreas urbanas e urbanizáveis, que correspondam a aglomerados urbanos e que admitam a construção de edificações, caso:
+
+a) Tenham merecido parecer favorável, ao abrigo do artigo 75.º-C do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, há menos de seis meses; e
+
+b) Sejam aprovados pela assembleia municipal no prazo máximo de seis meses após a entrada em vigor do PROTOVT.
+
+17 - Declarar que o número anterior não se aplica aos planos de urbanização e os planos de pormenor que apenas prevejam a localização de infra-estruturas e equipamentos colectivos de reconhecido interesse público que devam localizar-se na faixa dos 500 m e de infra-estruturas e equipamentos balneares e marítimos previstos em POOC, porque os mesmos são compatíveis com o PROTOVT.
+
+18 - Excepcionar da necessidade de adaptação às orientações do PROTOVT a elaboração, alteração ou revisão em curso de planos de urbanização e de planos de pormenor, nomeadamente os que enquadrem empreendimentos turísticos fora das áreas urbanas e urbanizáveis, caso:
+
+a) O procedimento de formação de contrato que tenha por objecto a elaboração de um projecto de plano já se tenha iniciado com a deliberação prevista no n.º 4 do artigo 6.º-A do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro; ou
+
+b) A sua elaboração tenha sido determinada até 31 de Dezembro de 2008 e sejam aprovados pela assembleia municipal no prazo de 12 meses após a entrada em vigor da presente resolução.
+
+19 - Determinar que, nos termos do acordo estabelecido com as Câmaras Municipais de Abrantes, Alenquer, Alcanena, Alcobaça, Almeirim, Alpiarça, Azambuja, Benavente, Bombarral, Caldas da Rainha, Cartaxo, Chamusca, Constância, Coruche, Entroncamento, Ferreira do Zêzere, Golegã, Lourinhã, Nazaré, Óbidos, Ourém, Peniche, Rio Maior, Salvaterra de Magos, Santarém, Sardoal, Tomar, Torres Novas, Torres Vedras e Vila Nova da Barquinha, previsto na alínea a) do n.º 2 do artigo 59.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, a Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo deve iniciar, no prazo de 30 dias após a entrada em vigor da presente resolução, as diligências necessárias para a contratualização com os referidos municípios os cronogramas de elaboração e acompanhamento dos planos que permitem assegurar o cumprimento dos prazos previstos nos n.os 14 e 15.
+
+20 - Estabelecer que a Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo assegura toda a colaboração técnica necessária à conclusão dos procedimentos de alteração por adaptação nos prazos estabelecidos no artigo 97.º do regime jurídico dos instrumentos de gestão territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+
+21 - Decidir que a presente resolução entra em vigor no dia 1 de Novembro de 2009.
+
+Presidência do Conselho de Ministros, 25 de Junho de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/15101/0000200157.pdf)

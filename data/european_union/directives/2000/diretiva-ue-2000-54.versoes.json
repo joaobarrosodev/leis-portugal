@@ -1,0 +1,353 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000L0054:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0054-20200624",
+ "dre_path": null,
+ "source_lastmod": "2020-06-24",
+ "versions": [
+  {
+   "date": "2000-10-17",
+   "future": false,
+   "celex": "32000L0054",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0bf96aac3b9a3bda",
+    "1e6d6e0e375c13b5",
+    "379093567ce8926b",
+    "7ea67a04c9baf99c",
+    "82173b1f361d2c26",
+    "1a468d778ea46055",
+    "257a05c2ce0bcff5",
+    "a13463052baf8f8b",
+    "e661c1205ba3efe8",
+    "c8cb295f638e5007",
+    "993f6e44c39a99da",
+    "876be02d61dec303",
+    "3f5f86871a97399e",
+    "8a91d46af0d3cc85",
+    "84dd5f5d67e30f1c",
+    "ebdd585f7b201bf3",
+    "29771096fd57f6b6",
+    "848338af3d30fdf7",
+    "0fe0effac4350f54",
+    "1427388ee1879ac2",
+    "d26c07eedbbe44c2",
+    "83296f77072773cd",
+    "cb86a590aea9f2b9",
+    "cd064670ed581c3c",
+    "2eb9a5b9d08b38d0",
+    "b2e548c9497fb8c2",
+    "ca700543359e3dfa",
+    "eb341231e1688b15",
+    "28caf89444ebeada",
+    "db32a4a88f0683c1",
+    "6f532dce74ef2cf0",
+    "851f1ce0d5ad61eb",
+    "5604c210d74db50d",
+    "a07f0a3df8977571",
+    "ce4f03819d372962",
+    "f90cceb65021e1e9",
+    "ba261ff22df4a593"
+   ]
+  }
+ ],
+ "fragments": {
+  "0bf96aac3b9a3bda": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2000/54/CE do Parlamento Europeu e do Conselho, de 18 de Setembro de 2000, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho (Sétima directiva especial nos termos do n.o 1 do artigo 16.o da Directiva 89/391/CEE)** *Jornal Oficial nº L 262 de 17/10/2000 p. 0021 - 0045*\n\nDirectiva 2000/54/CE do Parlamento Europeu e do Conselho\n\nde 18 de Setembro de 2000\n\nrelativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho\n\n(Sétima directiva especial nos termos do n.o 1 do artigo 16.o da Directiva 89/391/CEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.o 2 do seu artigo 137.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social(1),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado(2),\n\nConsiderando o seguinte:\n\n(1) A Directiva 90/679/CEE do Conselho, de 26 de Novembro de 1990, relativa à protecção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho (sétima directiva especial nos termos do n.o 1 do artigo 16.o da Directiva 89/391/CEE)(3), foi alterada várias vezes e de modo substancial(4). Por conseguinte, é conveniente, por uma questão de lógica e clareza, proceder à codificação da Directiva 90/679/CEE.\n\n(2) A observância das prescrições mínimas para garantir um melhor nível de segurança e de saúde em matéria de protecção dos trabalhadores contra os riscos ligados à exposição a agentes biológicos durante o trabalho constitui um imperativo para garantir a segurança e a saúde dos trabalhadores.\n\n(3) A presente directiva é uma directiva especial, nos termos do n.o 1 do artigo 16.o da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho(5). Por esse motivo, as disposições dessa directiva aplicam-se plenamente ao domínio da exposição dos trabalhadores a agentes biológicos, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva.\n\n(4) A conservação de registos contribui para um conhecimento mais profundo dos riscos decorrentes de uma exposição a agentes biológicos durante o trabalho.\n\n(5) A lista e a classificação dos agentes biológicos devem ser regularmente analisadas e revistas com base nos novos dados científicos.\n\n(6) É conveniente prever, quanto a alguns destes agentes biológicos, indicações complementares da respectiva classificação.\n\n(7) As entidades patronais devem manter-se actualizadas relativamente aos progressos tecnológicos tendo em vista o aperfeiçoamento da protecção da saúde e segurança dos trabalhadores.\n\n(8) Devem ser tomadas medidas preventivas para a protecção da saúde e segurança dos trabalhadores expostos a agentes biológicos.\n\n(9) A presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno.\n\n(10) Por força da Decisão 74/325/CEE do Conselho(6), o Comité Consultivo para a segurança, higiene e protecção da saúde no local de trabalho deve ser consultado pela Comissão com vista à elaboração de propostas nesse domínio. Foi consultado no que respeita à elaboração das propostas de directivas do Conselho integradas na presente directiva.\n\n(11) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição que figuram na parte B do anexo VIII,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "1e6d6e0e375c13b5": {
+   "fragment_id": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES GERAIS"
+  },
+  "379093567ce8926b": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva tem como objecto a protecção dos trabalhadores contra os riscos para a sua segurança e saúde resultantes ou susceptíveis de resultar de uma exposição a agentes biológicos durante o trabalho, incluindo a prevenção desses riscos.\n\nA presente directiva estabelece as prescrições mínimas especiais nesse domínio.\n\n2. A Directiva 89/391/CEE aplica-se plenamente à globalidade do domínio referido no n.o 1, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva.\n\n3. A presente directiva aplica-se sem prejuízo do disposto na Directiva 90/219/CEE do Conselho(7) e na Directiva 90/220/CEE do Conselho(8)."
+  },
+  "7ea67a04c9baf99c": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) \"Agente biológico\", os microrganismos, incluindo os geneticamente modificados, as culturas de células e os endoparasitas humanos susceptíveis de provocar infecções, alergias ou toxicidade;\n\nb) \"Microrganismo\", qualquer entidade microbiológica, celular ou não celular, dotada de capacidade de reprodução ou de transferência do material genético;\n\nc) \"Cultura celular\" a multiplicação in vitro de células a partir de organismos multicelulares.\n\nOs agentes biológicos são classificados em quatro grupos de risco, conforme o nível de risco infeccioso:\n\n1. Agente biológico do grupo 1, o agente biológico com baixa probabilidade de causar doenças no Homem.\n\n2. Agente biológico do grupo 2, o agente que pode causar doenças no Homem e constituir um perigo para os trabalhadores; é escassa a probabilidade da sua propagação na colectividade; regra geral, existem meios de profilaxia ou tratamento eficazes.\n\n3. Agente biológico do grupo 3, o agente que pode causar doenças graves no Homem e constituir um grave risco para os trabalhadores; é susceptível de se propagar na colectividade, muito embora se disponha geralmente de meios de profilaxia ou tratamento eficazes.\n\n4. Agente biológico do grupo 4, o agente que causa doenças graves no Homem e constitui um grave risco para os trabalhadores; pode apresentar um risco elevado de propagação na colectividade; regra geral, não existem meios de profilaxia ou de tratamento eficazes."
+  },
+  "82173b1f361d2c26": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação - Identificação e avaliação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação - Identificação e avaliação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação - Identificação e avaliação dos riscos\n\n1. A presente directiva aplica-se às actividades em que os trabalhadores estejam ou possam estar expostos a agentes biológicos em consequência do seu trabalho.\n\n2. Em relação a todas as actividades susceptíveis de apresentar um risco de exposição a agentes biológicos, devem ser determinados a natureza, o grau e o tempo de exposição dos trabalhadores, a fim de poderem ser avaliados os riscos para a segurança ou para a saúde dos trabalhadores e estabelecidas as medidas a tomar.\n\nRelativamente aos trabalhos que impliquem a exposição a várias categorias de agentes biológicos, os riscos serão avaliados com base no perigo que representam todos os agentes perigosos presentes.\n\nEssa avaliação deve ser regularmente renovada e, em qualquer caso, sempre que se verifique qualquer alteração das condições susceptíveis de afectar a exposição dos trabalhadores aos agentes biológicos.\n\nA entidade patronal deve fornecer às autoridades responsáveis, a pedido destas, os elementos que tiverem servido para essa avaliação.\n\n3. A avaliação referida no n.o 2 será efectuada com base em todas as informações disponíveis, nomeadamente:\n\na) A classificação, referida no artigo 18.o, dos agentes biológicos que apresentam ou podem apresentar um perigo para a saúde humana;\n\nb) As recomendações das autoridades responsáveis que indiquem a conveniência de submeter o agente biológico a medidas de controlo, a fim de proteger a saúde dos trabalhadores que estejam ou possam vir a estar expostos a tais agentes devido ao seu trabalho;\n\nc) As informações sobre as doenças que podem ser contraídas devido à natureza do trabalho;\n\nd) Os potenciais efeitos alérgicos ou tóxicos resultantes do trabalho;\n\ne) O conhecimento de uma doença verificada num trabalhador directamente relacionada com o seu trabalho."
+  },
+  "1a468d778ea46055": {
+   "fragment_id": "Artigo 4.º — Aplicação dos diferentes artigos em função da avaliação dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Aplicação dos diferentes artigos em função da avaliação dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação dos diferentes artigos em função da avaliação dos riscos\n\n1. Sempre que os resultados da avaliação referida no artigo 3.o provarem que a exposição e/ou a exposição eventual dizem respeito a um agente biológico do grupo 1 que não apresente qualquer risco identificável para a saúde dos trabalhadores, não se aplicam os artigos 5.o a 17.o e 19.o\n\nContudo, deve observar-se o ponto 1 do anexo VI.\n\n2. Sempre que os resultados da avaliação referida no artigo 3.o provarem que a actividade não implica a intenção deliberada de manipular ou utilizar agentes biológicos, embora possa resultar na exposição dos trabalhadores a esses agentes, como no decurso das actividades cuja lista indicativa consta do anexo I, aplicam-se os artigos 5.o, 7.o, 8.o, 10.o, 11.o, 12.o, 13.o e 14.o, a não ser que os resultados da avaliação referida no artigo 3.o demonstrem que tal não é necessário."
+  },
+  "257a05c2ce0bcff5": {
+   "fragment_id": "CAPÍTULO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — OBRIGAÇÕES DAS ENTIDADES PATRONAIS"
+  },
+  "a13463052baf8f8b": {
+   "fragment_id": "Artigo 5.º — Substituição",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Substituição\n\nA entidade patronal evitará a utilização de agentes biológicos perigosos se a natureza do trabalho o permitir, substituindo-os por agentes biológicos que, em função das suas condições de utilização e no estado actual do conhecimento, não sejam ou sejam menos perigosos para a saúde dos trabalhadores."
+  },
+  "e661c1205ba3efe8": {
+   "fragment_id": "Artigo 6.º — Redução dos riscos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Redução dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Redução dos riscos\n\n1. Se os resultados da avaliação referida no artigo 3.o revelarem a existência de um risco para a segurança ou saúde dos trabalhadores, deve evitar-se a exposição desses trabalhadores.\n\n2. Se tal não for tecnicamente praticável, tendo em conta a actividade profissional e a avaliação referida no antigo 3.o, o risco de exposição deve ser reduzido a um nível tão baixo quanto for necessário para proteger de maneira adequada a saúde e a segurança dos trabalhadores em causa, particularmente mediante a aplicação das seguintes medidas, atendendo ao resultado da avaliação prevista no artigo 3.o:\n\na) Limitação ao mínimo do número de trabalhadores expostos ou susceptíveis de o ser;\n\nb) Concepção de processos de trabalho e medidas técnicas de controlo, a fim de evitar ou minimizar a disseminação de agentes biológicos no local de trabalho;\n\nc) Medidas de protecção colectivas e/ou medidas de protecção individual, quando a exposição não possa ser evitada por outros meios;\n\nd) Medidas de higiene compatíveis com os objectivos de prevenção ou redução da transferência ou disseminação acidental de um agente biológico para fora do local de trabalho;\n\ne) Utilização do sinal indicativo de perigo biológico, tal como reproduzido no anexo II e outros sinais de aviso pertinentes;\n\nf) Elaboração de planos de acção em caso de acidentes que envolvam agentes biológicos;\n\ng) Verificação, sempre que necessário e tecnicamente possível, da presença, fora do confinamento físico primário, de agentes biológicos utilizados no trabalho;\n\nh) Meios de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo o uso de recipientes seguros e identificáveis, após o tratamento adequado, sempre que tal for necessário;\n\ni) Medidas que permitam no local de trabalho manipular e transportar, sem riscos, agentes biológicos."
+  },
+  "c8cb295f638e5007": {
+   "fragment_id": "Artigo 7.º — Informação das autoridades responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Informação das autoridades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Informação das autoridades responsáveis\n\n1. Se os resultados da avaliação referida no artigo 3.o revelarem um risco para a segurança ou a saúde dos trabalhadores, as entidades patronais colocarão à disposição das autoridades responsáveis, a seu pedido, as informações adequadas sobre:\n\na) Os resultados da avaliação;\n\nb) As actividades no decorrer das quais os trabalhadores tiverem sido ou possam ter estado expostos a agentes biológicos;\n\nc) O número de trabalhadores expostos;\n\nd) O nome e aptidões do responsável pela segurança e higiene no local de trabalho;\n\ne) As medidas preventivas e de protecção adoptadas, incluindo os processos e métodos de trabalho;\n\nf) Um plano de emergência relativo à protecção dos trabalhadores contra a exposição a um agente biológico dos grupos ou 4, em caso de uma falha no confinamento físico.\n\n2. A entidade patronal deve informar sem demora a autoridade responsável e os trabalhadores de qualquer acidente ou incidente que possa ter provocado a disseminação de um agente biológico e que possa causar uma infecção e/ou uma doença grave no Homem.\n\n3. A lista referida no artigo 11.o e o registo médico referido no artigo 14.o serão postos à disposição das autoridades responsáveis sempre que a empresa cesse a sua actividade nos termos da legislação e/ou prática nacionais."
+  },
+  "993f6e44c39a99da": {
+   "fragment_id": "Artigo 8.º — Medidas de higiene e de protecção individual",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Medidas de higiene e de protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas de higiene e de protecção individual\n\n1. Relativamente a todas as actividades que envolvam riscos para a segurança ou saúde dos trabalhadores resultantes do trabalho com agentes biológicos, as entidades patronais são obrigadas a tomar medidas apropriadas com os seguintes objectivos:\n\na) Impedir que os trabalhadores comam ou bebam nas zonas de trabalho onde se verifique risco de contaminação por agentes biológicos;\n\nb) Fornecer aos trabalhadores vestuário de protecção adequado ou qualquer outro vestuário especial adequado;\n\nc) Pôr à disposição dos trabalhadores meios sanitários e de higiene apropriados, que poderão incluir colírios e/ou anti-sépticos cutâneos;\n\nd) Assegurar que todos os equipamentos de protecção sejam:\n\n- devidamente guardados num local bem determinado,\n\n- controlados e limpos, se possível, antes e obrigatoriamente após cada utilização,\n\n- reparados ou substituídos antes de nova utilização, quando estiverem defeituosos;\n\ne) Definir processos para a recolha, manipulação e tratamento de amostras de origem humana ou animal.\n\n2. O vestuário de trabalho e o equipamento de protecção, incluindo o vestuário de protecção referido no n.o 1, que possam ter sido contaminados por agentes biológicos devem ser retirados quando o trabalhador abandona o local de trabalho e guardados em locais separados previstos para o efeito, antes de se proceder às medidas referidas no segundo parágrafo.\n\nA entidade patronal deve assegurar-se de que o vestuário e o equipamento de protecção individual retirados são descontaminados, limpos e, caso necessário, destruídos.\n\n3. O custo das medidas tomadas para aplicação dos n.os 1 e 2 não pode ser suportado pelos trabalhadores."
+  },
+  "876be02d61dec303": {
+   "fragment_id": "Artigo 9.º — Informação e formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação e formação dos trabalhadores\n\n1. A entidade patronal tomará as medidas adequadas para que os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento recebam uma formação suficiente e adequada, com base em todos os dados disponíveis, nomeadamente sob a forma de informações e instruções, relativa a:\n\na) Os riscos potenciais para a saúde;\n\nb) As precauções a tomar para evitar a exposição;\n\nc) As normas em matéria de higiene;\n\nd) O emprego e a utilização dos equipamentos e do vestuário de protecção;\n\ne) As medidas a tomar pelos trabalhadores em caso de incidente e para a prevenção de incidentes.\n\n2. Essa formação deve ser:\n\na) Ministrada no início da actividade profissional que implique contacto com agentes biológicos;\n\nb) Adaptada à evolução dos riscos e ao aparecimento de novos riscos; e\n\nc) Periodicamente repetida, se necessário."
+  },
+  "3f5f86871a97399e": {
+   "fragment_id": "Artigo 10.º — Informação dos trabalhadores em casos especiais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Informação dos trabalhadores em casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informação dos trabalhadores em casos especiais\n\n1. A entidade patronal fornecerá instruções escritas no local de trabalho e, se necessário, afixará cartazes que incluirão, pelo menos, o procedimento a seguir em caso de:\n\na) Acidente ou incidente grave resultante de manipulação de agentes biológicos;\n\nb) Manipulação de um agente biológico do grupo 4.\n\n2. Qualquer acidente ou incidente que envolva a manipulação de agentes biológicos será imediatamente comunicado pelos trabalhadores ao responsável pelo trabalho ou ao responsável pela segurança e higiene no local de trabalho.\n\n3. A entidade patronal deve informar imediatamente os trabalhadores e/ou seus representantes de qualquer acidente ou incidente que possa ter provocado a disseminação de um agente biológico e que possa causar graves infecções e/ou doenças no Homem.\n\nAlém disso, a entidade patronal informará os trabalhadores e/ou seus representantes na empresa ou no estabelecimento, tão rapidamente quanto possível, da ocorrência de qualquer acidente ou incidente grave, das suas causas e das medidas tomadas ou a tomar a fim de rectificar a situação.\n\n4. Cada trabalhador terá acesso às informações contidas na lista referida no artigo 11.o que lhe digam pessoalmente respeito.\n\n5. Os trabalhadores e/ou seus representantes na empresa ou no estabelecimento terão acesso às informações colectivas anónimas.\n\n6. A entidade patronal fornecerá aos trabalhadores e/ou seus representantes, a seu pedido, as informações previstas no n.o 1 do artigo 7.o"
+  },
+  "8a91d46af0d3cc85": {
+   "fragment_id": "Artigo 11.º — Lista de trabalhadores expostos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Lista de trabalhadores expostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Lista de trabalhadores expostos\n\n1. A entidade patronal manterá uma lista dos trabalhadores expostos a agentes biológicos do grupo 3 e/ou do grupo 4, indicando o tipo de trabalho executado e, sempre que possível, o agente biológico ao qual os trabalhadores tenham estado expostos, bem como os registos das exposições, acidentes e incidentes, conforme os casos.\n\n2. A lista referida no n.o 1 será conservada pelo menos 10 anos após a cessação da exposição, em conformidade com as legislações e/ou práticas nacionais.\n\nNo caso de exposições que possam resultar em infecções:\n\na) Com agentes biológicos que sejam susceptíveis de produzir infecções persistentes ou latentes;\n\nb) Que, à luz dos conhecimentos actuais, só sejam diagnosticáveis quando a doença aparece muitos anos depois;\n\nc) Que tenham períodos de incubação particularmente longos antes do aparecimento da doença;\n\nd) Que provoquem doenças com crises periódicas prolongadas apesar do tratamento; ou\n\ne) Que possam ter graves sequelas a longo prazo,\n\nserão mantidos registos durante um período considerado suficientemente longo, até 40 anos após a última exposição conhecida.\n\n3. O médico referido no artigo 14.o e/ou a entidade responsável pela segurança e saúde no trabalho, bem como outra pessoa responsável pela segurança e saúde no trabalho, terão acesso à lista prevista no n.o 1."
+  },
+  "84dd5f5d67e30f1c": {
+   "fragment_id": "Artigo 12.º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Consulta e participação dos trabalhadores\n\nA consulta e a participação dos trabalhadores e/ou seus representantes no que toca às matérias abrangidas pela presente directiva processar-se-ão nos termos do artigo 11.o da Directiva 89/391/CEE."
+  },
+  "ebdd585f7b201bf3": {
+   "fragment_id": "Artigo 13.º — Comunicação da autoridade competente",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Comunicação da autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comunicação da autoridade competente\n\n1. A autoridade competente deve ser previamente informada da utilização, pela primeira vez, de:\n\na) Agentes biológicos do grupo 2;\n\nb) Agentes biológicos do grupo 3;\n\nc) Agentes biológicos do grupo 4.\n\nA comunicação deve ser feita, pelo menos, 30 dias antes do início das actividades.\n\nSem prejuízo do n.o 2, será também objecto de comunicação prévia a utilização pela primeira vez de todos os agentes biológicos subsequentes do grupo 4 e de qualquer agente biológico subsequente novo do grupo 3, quando a própria entidade patronal classificar provisoriamente esse agente biológico.\n\n2. Os laboratórios que prestem serviços de diagnóstico relacionados com agentes biológicos do grupo 4 são apenas obrigados à comunicação inicial da sua intenção.\n\n3. Deve-se fazer uma nova comunicação sempre que haja modificações substanciais nos processos com importância para a saúde e segurança no trabalho e que desactualizem a comunicação.\n\n4. A comunicação referida nos n.os 1, 2 e 3 incluirá:\n\na) O nome e endereço da empresa e/ou do estabelecimento;\n\nb) O nome e aptidões do responsável pela segurança e higiene no local de trabalho;\n\nc) O resultado da avaliação prevista no artigo 3.o;\n\nd) A espécie do agente biológico;\n\ne) As medidas preventivas e de protecção previstas."
+  },
+  "29771096fd57f6b6": {
+   "fragment_id": "CAPÍTULO III — DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DISPOSIÇÕES DIVERSAS"
+  },
+  "848338af3d30fdf7": {
+   "fragment_id": "Artigo 14.º — Vigilância médica",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Vigilância médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vigilância médica\n\n1. Em conformidade com as legislações e práticas nacionais, os Estados-Membros tomarão as disposições necessárias para garantir uma vigilância adequada da saúde dos trabalhadores em relação aos quais os resultados da avaliação referida no artigo 3.o revelem a existência de um risco para a sua segurança ou saúde.\n\n2. As disposições referidas no n.o 1 deverão permitir que cada trabalhador seja eventualmente submetido a uma vigilância médica adequada:\n\na) Antes da exposição;\n\nb) Subsequentemente, a intervalos regulares.\n\nEssas disposições deverão permitir a aplicação directa de medidas de saúde individuais e de medicina do trabalho.\n\n3. A avaliação referida no artigo 3.o deve identificar os trabalhadores para os quais possam ser necessárias medidas de protecção especiais.\n\nQuando necessário, vacinas eficazes devem ser postas à disposição dos trabalhadores ainda não imunizados contra os agentes biológicos a que estão ou possam vir a estar expostos.\n\nAo pôr à disposição as vacinas, a entidade patronal terá em conta o código de conduta recomendado constante do anexo VII.\n\nSe se verificar que um trabalhador foi atingido por uma infecção e/ou doença que possa ter sido provocada pela exposição, o médico ou a autoridade responsável pela vigilância médica dos trabalhadores proporá aos outros trabalhadores similarmente expostos um exame médico.\n\nNesse caso, proceder-se-á a uma reavaliação do risco de exposição, em conformidade com o artigo 3.o\n\n4. Sempre que se proceda à vigilância médica, e em conformidade com as legislações e práticas nacionais, conservar-se-á um registo médico individual durante pelo menos 10 anos após a exposição.\n\nNos casos especiais referidos no n.o 2, segundo parágrafo, do artigo 11.o, conservar-se-á um registo médico individual durante um período considerado suficientemente longo, até 40 anos após a última exposição conhecida.\n\n5. O médico ou a autoridade responsável pela vigilância médica deve propor as medidas preventivas ou de protecção a tomar em relação a cada trabalhador.\n\n6. Devem ser dados aos trabalhadores informações e conselhos sobre a vigilância médica a que poderão ser submetidos finda a exposição.\n\n7. Nos termos das legislações e/ou práticas nacionais:\n\na) Os trabalhadores terão acesso aos resultados da vigilância médica que lhes digam respeito; e\n\nb) Os trabalhadores em causa ou a entidade patronal podem solicitar a revisão dos resultados da vigilância médica.\n\n8. Constam do anexo IV recomendações práticas em matéria de vigilância médica dos trabalhadores.\n\n9. Nos termos das legislações e/ou práticas nacionais, serão notificados às autoridades competentes todos os casos de doença ou morte identificados como resultantes de urna exposição profissional a agentes biológicos."
+  },
+  "0fe0effac4350f54": {
+   "fragment_id": "Artigo 15.º — Serviços médicos e veterinários, excluindo laboratórios de diagnóstico",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Serviços médicos e veterinários, excluindo laboratórios de diagnóstico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Serviços médicos e veterinários, excluindo laboratórios de diagnóstico\n\n1. Para efeitos da avaliação prevista no artigo 3.o, deve ser prestada especial atenção:\n\na) À incerteza quanto à presença de agentes biológicos em pacientes humanos ou animais e nas amostras e materiais residuais deles provenientes;\n\nb) Ao perigo que constituem os agentes biológicos presentes ou de que se suspeita a presença em pacientes humanos ou animais e nas amostras e materiais residuais deles provenientes;\n\nc) Ao risco inerente à natureza das actividades profissionais.\n\n2. Devem ser tomadas medidas adequadas nos estabelecimentos de saúde e nos estabelecimentos veterinários para proteger devidamente a saúde e segurança dos trabalhadores em causa.\n\nAs medidas a tomar incluirão, nomeadamente:\n\na) A especificação de processos adequados de descontaminação e de desinfecção; e\n\nb) O estabelecimento de processos que garantam a segurança na manipulação e eliminação de resíduos contaminados.\n\n3. No caso de unidades de isolamento onde se encontrem doentes humanos ou animais infectados ou de que se suspeita a infecção por agentes biológicos dos grupos 3 ou 4, devem ser seleccionadas medidas de confinamento de entre as que constam da coluna A do anexo V, de modo a reduzir os riscos de infecção."
+  },
+  "1427388ee1879ac2": {
+   "fragment_id": "Artigo 16.º — Medidas especiais aplicáveis aos processos industriais, laboratórios e biotérios",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Medidas especiais aplicáveis aos processos industriais, laboratórios e biotérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Medidas especiais aplicáveis aos processos industriais, laboratórios e biotérios\n\n1. Nos laboratórios, incluindo laboratórios de diagnóstico e nas instalações para animais de laboratório que tenham sido deliberadamente infectados por agentes biológicos dos grupos 2, 3 ou 4, ou que sejam portadores ou suspeitos de ser portadores desses agentes, devem tomar-se as medidas seguintes:\n\na) Os laboratórios cujo trabalho implique a manipulação de agentes biológicos dos grupos 2, 3 ou 4 para efeitos de investigação, desenvolvimento, ensino ou diagnóstico devem definir medidas de confinamento nos termos do anexo V, de modo a minimizar o risco de infecção;\n\nb) Na sequência da avaliação prevista no artigo 3.o, devem definir-se medidas nos termos do anexo V, depois de estabelecido o nível de confinamento físico exigível para os agentes biológicos em função do grau de risco.\n\nAs actividades que impliquem a manipulação de um agente biológico devem ser efectuadas:\n\n- no caso de um agente biológico do grupo 2, unicamente em locais de trabalho correspondentes, no mínimo, ao nível de confinamento 2,\n\n- no caso de um agente biológico do grupo 3, unicamente em locais de trabalho correspondentes, no mínimo, ao nível de confinamento 3,\n\n- no caso de um agente biológico do grupo 4, unicamente em locais de trabalho correspondentes, no mínimo, ao nível de confinamento 4;\n\nc) Os laboratórios que manipulem materiais em relação aos quais haja incertezas quanto à presença de agentes biológicos susceptíveis de causar doenças no Homem, mas cujo objectivo não seja trabalhar com agentes biológicos enquanto tais (ou seja, cultivá-los ou concentrá-los), devem adoptar, pelo menos, o nível de confinamento 2. Se for necessário devem ser utilizados os níveis de confinamento 3 ou 4, sempre que se revele ou se presuma a sua necessidade, excepto no caso de as directrizes fornecidas pelas autoridades nacionais responsáveis referirem que, em determinados casos, é adequado um nível de confinamento inferior.\n\n2. Devem ser tomadas as seguintes medidas relativas a processos industriais que utilizem agentes biológicos dos grupos 2, 3 e 4:\n\na) Os princípios em matéria de confinamento enunciados na alínea b), segundo parágrafo, do n.o 1 devem ser igualmente aplicáveis aos processos industriais com base nas medidas práticas e nos processos adequados previstos no anexo VI;\n\nb) Em função da avaliação do risco ligado à utilização de agentes biológicos dos grupos 2, 3 ou 4, as autoridades competentes podem determinar medidas adequadas a aplicar à utilização industrial dos referidos agentes biológicos.\n\n3. Todas as actividades abrangidas pelos n.os 1 e 2 em que não tenha sido possível proceder a uma avaliação concludente de um agente biológico, cuja utilização pareça poder implicar um grave risco para a saúde dos trabalhadores, só podem desenvolver-se nos locais de trabalho com um nível de confinamento que corresponda, pelo menos, ao nível 3."
+  },
+  "d26c07eedbbe44c2": {
+   "fragment_id": "Artigo 17.º — Exploração de dados",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Exploração de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Exploração de dados\n\nAs explorações de dados efectuadas pelas autoridades nacionais responsáveis com base nas informações referidas no n.o 9 do artigo 14.o serão mantidas à disposição da Comissão."
+  },
+  "83296f77072773cd": {
+   "fragment_id": "Artigo 18.º — Classificação dos agentes biológicos",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Classificação dos agentes biológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Classificação dos agentes biológicos\n\n1. A classificação comunitária deve ser feita a partir das definições estabelecidas no segundo parágrafo, pontos 2, 3 e 4, do artigo 2.o (grupos 2, 3 e 4).\n\n2. Na pendência de uma classificação comunitária, os Estados-Membros estabelecerão uma classificação dos agentes biológicos que representem ou possam representar um risco para a saúde humana, com base nas definições constantes do segundo parágrafo, pontos 2, 3 e 4, do artigo 2.o (grupos 2, 3 e 4).\n\n3. Se o agente biológico a avaliar não puder ser classificado com rigor num dos grupos definidos no segundo parágrafo do artigo 2.o, deve ser classificado no grupo de risco mais elevado por entre os grupos que possam ser tidos em consideração."
+  },
+  "cb86a590aea9f2b9": {
+   "fragment_id": "Artigo 19.º — Anexos",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Anexos\n\nAs adaptações de carácter exclusivamente técnico a introduzir nos anexos em função do progresso técnico, da evolução da regulamentação ou das especificações internacionais e dos conhecimentos no domínio dos agentes biológicos serão adoptadas de acordo com o processo previsto no artigo 17.o da Directiva 89/391/CEE."
+  },
+  "cd064670ed581c3c": {
+   "fragment_id": "Artigo 20.º — Notificação da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Notificação da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Notificação da Comissão\n\nOs Estados-Membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "2eb9a5b9d08b38d0": {
+   "fragment_id": "Artigo 21.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\nA Directiva 90/679/CEE tal como modificada pelas directivas que constam da parte A do anexo VIII é revogada, sem prejuízo das obrigações dos Estados-Membros relativamente aos prazos de transposição que constam da parte B do anexo VIII.\n\nAs referências feitas à directiva revogada devem entender-se como feitas à presente directiva e ser lidas de acordo com o quadro de correspondência que consta do anexo IX."
+  },
+  "b2e548c9497fb8c2": {
+   "fragment_id": "Artigo 22.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "ca700543359e3dfa": {
+   "fragment_id": "Artigo 23.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Destinatários\n\nOs Estados-Membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 18 de Setembro de 2000.\n\nPelo Parlamento Europeu\n\nA Presidente\n\nN. Fontaine\n\nPelo Conselho\n\nO Presidente\n\nH. Védrine\n\n(1) JO C 75 de 15.3.2000, p. 15.\n\n(2) Parecer do Parlamento Europeu de 13 de Junho de 2000 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 17 de Junho de 2000.\n\n(3) JO L 374 de 31.12.1990, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 97/65/CE da Comissão (JO L 335 de 6.12.1997, p. 17).\n\n(4) Ver anexo VIII, parte A.\n\n(5) JO L 183 de 29.6.1989, p. 1.\n\n(6) JO L 185 de 9.7.1974, p. 15. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(7) Directiva 90/219/CEE do Conselho, de 23 de Abril de 1990, relativa à utilização confinada de microrganismos geneticamente modificados (JO L 117 de 8.5.1990, p. 1). Directiva com a última redacção que lhe foi dada pela Directiva 98/81/CE (JO L 330 de 5.12.1998, p. 13).\n\n(8) Directiva 90/220/CEE do Conselho, de 23 de Abril de 1990, relativa à libertação deliberada no ambiente de organismos geneticamente modificados (JO L 117 de 8.5.1990, p. 15). Directiva com a última redacção que lhe foi dada pela Directiva 97/35/CE (JO L 169 de 27.6.1997, p. 72)."
+  },
+  "eb341231e1688b15": {
+   "fragment_id": "ANEXO I — LISTA INDICATIVA DE ACTIVIDADES PROFISSIONAIS",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA INDICATIVA DE ACTIVIDADES PROFISSIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA INDICATIVA DE ACTIVIDADES PROFISSIONAIS\n\n(n.o 2 do artigo 4.o)\n\n1. Trabalho em unidades de produção alimentar.\n\n2. Trabalho agrícola.\n\n3. Actividades profissionais em que há contacto com animais e/ou produtos de origem animal.\n\n4. Trabalho em unidades sanitárias, incluindo unidades de isolamento e de autópsia.\n\n5. Trabalho em laboratórios clínicos, veterinários e de diagnóstico, excluindo laboratórios microbiológicos de diagnóstico.\n\n6. Trabalho em unidades de eliminação de detritos.\n\n7. Trabalho nas instalações de tratamento de águas de esgoto."
+  },
+  "28caf89444ebeada": {
+   "fragment_id": "ANEXO II — SINAL INDICATIVO DE PERIGO BIOLÓGICO",
+   "type": "divisao",
+   "heading": "ANEXO II — SINAL INDICATIVO DE PERIGO BIOLÓGICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — SINAL INDICATIVO DE PERIGO BIOLÓGICO\n\n[n.o 2, alínea e), do artigo 6.o]\n\n>PIC FILE= \"L_2000262PT.002803.EPS\">"
+  },
+  "db32a4a88f0683c1": {
+   "fragment_id": "ANEXO III — CLASSIFICAÇÃO COMUNITÁRIA",
+   "type": "divisao",
+   "heading": "ANEXO III — CLASSIFICAÇÃO COMUNITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — CLASSIFICAÇÃO COMUNITÁRIA\n\n(Segundo parágrafo do artigo 2.o e artigo 18.o)\n\nNOTAS INTRODUTÓRIAS\n\n1. De acordo com o âmbito de aplicação da directiva, só devem ser incluídos na classificação os agentes reconhecidamente infecciosos para o ser humano.\n\nSempre que se justifique, são fornecidos indicadores sobre o potencial tóxico e alérgico de tais agentes.\n\nOs agentes patogénicos para animais e plantas com infecciosidade desconhecida para o ser humano foram excluídos.\n\nAo elaborar esta lista de agentes biológicos classificados, não foram tomados em consideração os microrganismos geneticamente modificados.\n\n2. A classificação dos agentes biológicos baseia-se nos efeitos de tais agentes sobre trabalhadores saudáveis.\n\nOs efeitos específicos verificados sobre indivíduos cuja sensibilidade possa ser afectada por uma ou várias razões, tais como doença prévia, medicação, deficiência imunitária, gravidez ou aleitamento, não são tomados em consideração de maneira específica.\n\nA avaliação dos riscos exigida pela directiva deverá incidir igualmente sobre o risco suplementar a que estes trabalhadores estão expostos.\n\nNo âmbito de determinados procedimentos industriais, de determinados trabalhos de laboratório ou de determinadas actividades ou locais em que estejam presentes animais, que impliquem ou sejam susceptíveis de implicar uma exposição dos trabalhadores a agentes biológicos dos grupos 3 ou 4, as medidas de prevenção técnica a criar deverão estar em conformidade com o disposto no artigo 16.o da presente directiva.\n\n3. Os agentes biológicos que não tenham sido incluídos nos grupos 2 a 4 da lista não pertencem implicitamente ao grupo 1.\n\nNo caso de agentes biológicos que incluem numerosas espécies reconhecidamente patogénicas para o ser humano, a lista inclui as espécies mais frequentemente implicadas nas doenças e uma referência de ordem mais geral indica que outras espécies pertencentes ao mesmo género são susceptíveis de afectar a saúde.\n\nQuando a totalidade de um género for mencionada na classificação dos agentes biológicos, considera-se implícito que as espécies e estirpes reconhecidamente não patogénicas se encontram excluídas da classificação.\n\n4. No caso de estirpes atenuadas ou que perderam genes reconhecidos de virulência, não tem que ser necessariamente aplicado o isolamento imposto pela classificação da estirpe-mãe, sob condição de uma adequada avaliação do risco potencial no local de trabalho.\n\nTal é o caso, por exemplo, quando tal estirpe se destinar a utilização como produto ou parte de um produto para fins profilácticos ou terapêuticos.\n\n5. A nomenclatura dos agentes utilizada na elaboração da presente classificação reflecte e está em conformidade com os acordos internacionais mais recentes sobre a taxonomia e a nomenclatura dos agentes, em vigor aquando da sua preparação.\n\n6. A lista de agentes biológicos classificados reflecte o estado dos conhecimentos no momento da sua elaboração.\n\nA lista será actualizada sempre que deixar de reflectir o estado dos conhecimentos.\n\n7. Os Estados-Membros asseguram que todos os vírus já isolados no ser humano e que ainda não tenham sido avaliados e classificados no anexo serão classificados no mínimo no grupo 2, excepto se os Estados-Membros tiverem a prova de que não são susceptíveis de provocar uma doença no ser humano.\n\n8. Determinados agentes biológicos classificados no grupo 3 e indicados na lista anexa por um duplo asterisco, podem apresentar um risco de infecção limitado para os trabalhadores, porque não são geralmente infecciosos por transmissão por via aérea.\n\nOs Estados-Membros avaliarão as medidas de isolamento a aplicar a esses agentes biológicos, tendo em conta a natureza das actividades específicas em causa e a quantidade do agente biológico, a fim de determinar se, em circunstâncias especiais, se pode renunciar a algumas dessas medidas.\n\n9. Os imperativos em matéria de isolamento decorrentes da classificação dos parasitas aplicam-se unicamente aos diferentes estádios do ciclo do parasita susceptíveis de serem infecciosos para o ser humano no local de trabalho.\n\n10. Por outro lado, a lista contém indicações em separado quando os agentes biológicos são susceptíveis de dar origem a reacções alérgicas ou tóxicas, quando existe uma vacina eficaz ou quando se revele oportuno guardar durante mais de 10 anos a lista dos trabalhadores a eles expostos.\n\nTais indicações são sistematizadas sob a forma de notas designadas do seguinte modo:\n\nA: Possíveis efeitos alérgicos\n\nD: Lista dos trabalhadores expostos a este agente biológico, a conservar durante mais de 10 anos após o final da sua última exposição conhecida\n\nT: Produção de toxinas\n\nV: Vacina eficaz disponível\n\nAs vacinações preventivas deveriam ser efectuadas tendo em conta o código de conduta constante do anexo VII.\n\nBACTÉRIAS\n\ne afins\n\nNota:\n\nNo que se refere aos agentes biológicos constantes da presente lista, a menção \"spp\" refere-se às outras espécies conhecidas por serem patogénicas para o homem.\n\n>POSIÇÃO NUMA TABELA>\n\nVÍRUS\n\n>POSIÇÃO NUMA TABELA>\n\nPARASITAS\n\n>POSIÇÃO NUMA TABELA>\n\nFUNGOS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "6f532dce74ef2cf0": {
+   "fragment_id": "ANEXO IV — RECOMENDAÇÕES PRÁTICAS PARA A VIGILÂNCIA MÉDICA DOS TRABALHADORES",
+   "type": "divisao",
+   "heading": "ANEXO IV — RECOMENDAÇÕES PRÁTICAS PARA A VIGILÂNCIA MÉDICA DOS TRABALHADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — RECOMENDAÇÕES PRÁTICAS PARA A VIGILÂNCIA MÉDICA DOS TRABALHADORES\n\n(n.o 8 do artigo 4.o)\n\n1. O médico e/ou a autoridade responsável pela vigilância médica dos trabalhadores expostos a agentes biológicos deve conhecer bem as condições ou circunstâncias de exposição de cada trabalhador.\n\n2. A vigilância médica dos trabalhadores deve ser assegurada de acordo com os princípios e práticas da medicina do trabalho e deve incluir pelo menos as seguintes medidas:\n\n- registo da história clínica e profissional de cada trabalhador,\n\n- avaliação individual do estado de saúde do trabalhador,\n\n- se necessário, vigilância biológica, bem como rastreio de efeitos precoces e reversíveis.\n\nPodem ser tomadas outras medidas em relação a cada trabalhador sujeito a vigilância médica, à luz dos conhecimentos mais recentes em medicina do trabalho."
+  },
+  "851f1ce0d5ad61eb": {
+   "fragment_id": "ANEXO V — RECOMENDAÇÕES RELATIVAS ÀS MEDIDAS E NÍVEIS DE CONFINAMENTO",
+   "type": "divisao",
+   "heading": "ANEXO V — RECOMENDAÇÕES RELATIVAS ÀS MEDIDAS E NÍVEIS DE CONFINAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — RECOMENDAÇÕES RELATIVAS ÀS MEDIDAS E NÍVEIS DE CONFINAMENTO\n\n[n.o 3 do artigo 15.o e n.o 1, alíneas a) e b), do artigo 16.o]\n\nNota prévia\n\nAs medidas referidas neste anexo devem ser aplicadas de acordo com a natureza das actividades, avaliação do risco para os trabalhadores e natureza do agente biológico em questão.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "5604c210d74db50d": {
+   "fragment_id": "ANEXO VI — CONFINAMENTO PARA PROCESSOS INDUSTRIAIS",
+   "type": "divisao",
+   "heading": "ANEXO VI — CONFINAMENTO PARA PROCESSOS INDUSTRIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — CONFINAMENTO PARA PROCESSOS INDUSTRIAIS\n\n[n.o 1 do artigo 4.o e n.o 2, alínea a), do artigo 16.o]\n\nAgentes biológicos do grupo 1\n\nQuando o trabalho envolva agentes biológicos do grupo 1, incluindo as vacinas vivas atenuadas, deverão ser respeitados os princípios da boa segurança e higiene no trabalho.\n\nAgentes biológicos dos grupos 2, 3 e 4\n\nPoderá revelar-se necessário seleccionar e combinar exigências de confinamento de várias das categorias adiante referidas, em função da avaliação do risco relacionado com um determinado processo ou uma parte de um processo.\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "a07f0a3df8977571": {
+   "fragment_id": "ANEXO VII — CÓDIGO DE CONDUTA RECOMENDADO EM MATÉRIA DE VACINAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO VII — CÓDIGO DE CONDUTA RECOMENDADO EM MATÉRIA DE VACINAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — CÓDIGO DE CONDUTA RECOMENDADO EM MATÉRIA DE VACINAÇÃO\n\n(n.o 3 do artigo 14.o)\n\n1. Se a avaliação referida no n.o 2 do artigo 3.o revelar que existe um risco para a segurança e saúde dos trabalhadores devido ao facto de estarem expostos a agentes biológicos contra os quais existem vacinas eficazes, a entidade patronal deverá proporcionar-lhes a vacinação.\n\n2. A vacinação deverá realizar-se em conformidade com as legislações e/ou práticas nacionais.\n\nOs trabalhadores deverão ser informados sobre os benefícios e inconvenientes quer da vacinação quer da falta de vacinação.\n\n3. A vacinação proporcionada aos trabalhadores não deve acarretar encargos financeiros para estes.\n\n4. Pode ser elaborado um certificado de vacinação, fornecido ao trabalhador em causa e, mediante pedido, às autoridades competentes."
+  },
+  "ce4f03819d372962": {
+   "fragment_id": "ANEXO VIII — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO VIII — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — PARTE A\n\nDirectiva revogada e suas modificações sucessivas\n\n(referidas no artigo 21.o)\n\nDirectiva 90/679/CEE do Conselho (JO L 374 de 31.12.1990, p. 1).\n\nDirectiva 93/88/CEE do Conselho (JO L 268 de 29.10.1993, p. 71).\n\nDirectiva 95/30/CE da Comissão (JO L 155 de 6.7.1995, p. 41).\n\nDirectiva 97/59/CE da Comissão (JO L 282 de 15.10.1997, p. 33).\n\nDirectiva 97/65/CE da Comissão (JO L 335 de 6.12.1997, p. 17)."
+  },
+  "f90cceb65021e1e9": {
+   "fragment_id": "PARTE B — Lista de prazos de transposição para o direito nacional",
+   "type": "divisao",
+   "heading": "PARTE B — Lista de prazos de transposição para o direito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — Lista de prazos de transposição para o direito nacional\n\n(referidos no artigo 21.o)\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "ba261ff22df4a593": {
+   "fragment_id": "ANEXO IX — QUADRO DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "ANEXO IX — QUADRO DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — QUADRO DE CORRESPONDÊNCIA\n\n>POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

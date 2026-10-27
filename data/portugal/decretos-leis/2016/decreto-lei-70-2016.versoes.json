@@ -1,0 +1,370 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75644171:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-156691409",
+ "dre_path": "/dr/detalhe/decreto-lei/70-2016-75644171",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167335088",
+    "156568122",
+    "156568123",
+    "156568124",
+    "156568125",
+    "156568126",
+    "156568127",
+    "156568128",
+    "156568129",
+    "156568130",
+    "156568131",
+    "156568132",
+    "156568133",
+    "156568134",
+    "156568135",
+    "156568136"
+   ]
+  },
+  {
+   "date": "2021-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167281003:por",
+     "title": "Decreto-Lei n.º 60/2021",
+     "published": "2021-07-14",
+     "dre_path": "/dr/detalhe/decreto-lei/60-2021-167281003"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "167335088",
+    "167335089",
+    "167335090",
+    "167335091",
+    "167335092",
+    "167335093",
+    "167335094",
+    "167335095",
+    "167335096",
+    "167335097",
+    "167335098",
+    "167335099",
+    "167335100",
+    "167335101",
+    "167335102",
+    "167335103",
+    "167335104"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595",
+     "date": "2021-07-28"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "167335088": {
+   "fragment_id": "156691410",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-07-15",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 70/2016\n\nde 3 de novembro\n\nO presente decreto-lei adota as disposições necessárias à concretização das exigências específicas cometidas aos Estados-Membros pelo Regulamento (CE) n.º 1222/2009, do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, relativo à rotulagem dos pneus no que respeita à eficiência energética e a outros parâmetros essenciais.\n\nO Regulamento (CE) n.º 1222/2009, do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, estabelece as condições de prestação de informações harmonizadas sobre determinados parâmetros dos pneus através da rotulagem, de forma a permitir que os utilizadores finais façam escolhas informadas na aquisição destes produtos.\n\nCom este regulamento pretende-se assegurar a segurança e eficiência económica e ambiental do transporte rodoviário através da promoção de pneus energeticamente eficientes, seguros e de ruído reduzido.\n\nEntretanto, em 2011 o Regulamento (CE) n.º 1222/2009, do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, foi alterado pelos Regulamentos (UE) n.os 228/2011, da Comissão, de 7 de março de 2011, e 1235/2011, da Comissão, de 29 de novembro de 2011, que introduziram adaptações aos métodos de ensaio, procedimento de verificação e de aferição laboratorial.\n\nConsiderando que a resistência ao rolamento dos pneus representa uma percentagem significativa do consumo de combustível dos veículos, é da maior importância a redução das perdas de energia associadas, objetivo que pode ser alcançado graças ao progresso tecnológico atingido, tendo em vista a redução daquele parâmetro e por consequência a melhoria da eficiência energética do veículo e do transporte rodoviário em geral.\n\nA aderência dos pneus em pavimento molhado é outro fator sobre o qual a atuação a partir dos avanços tecnológicos pode conduzir à produção e disponibilização de pneus com melhor desempenho, contribuindo, significativamente, para a segurança rodoviária.\n\nTambém os desenvolvimentos tecnológicos são de molde a permitir a produção e a disponibilização de pneus com nível de ruído exterior de rolamento mais reduzido de forma a promover a diminuição dos seus efeitos nocivos na saúde.\n\nOs três parâmetros acima referidos estão inter-relacionados e a melhoria de um deles pode implicar um efeito adverso nos restantes, pelo que os fabricantes de pneus devem desenvolver esforços no sentido da otimização equilibrada de todos os parâmetros, com vista a uma melhoria do desempenho global.\n\nO Plano Nacional de Ação para a Eficiência Energética, aprovado pela Resolução do Conselho de Ministros n.º 20/2013, de 10 de abril, contém uma medida com o objetivo de aumentar a introdução no mercado de pneus energeticamente eficientes.\n\nEmbora o regulamento seja obrigatório e diretamente aplicável no território dos Estados-Membros, torna-se necessário assegurar a sua efetiva execução na ordem jurídica nacional, uma vez que contém disposições cuja concretização é da competência dos Estados-Membros.\n\nPor conseguinte, o presente decreto-lei define, entre outras disposições, a forma de representação no comité definido no artigo 13.º do Regulamento (CE) n.º 1222/2009, do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, bem como as sanções aplicáveis ao incumprimento das disposições previstas no referido dispositivo regulamentar.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156568122": {
+   "fragment_id": "156691411",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei executa na ordem jurídica nacional interna o disposto no Regulamento (CE) n.º 1222/2009, do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, relativo à rotulagem dos pneus no que respeita à eficiência energética e a outros parâmetros essenciais, adiante designado por Regulamento."
+  },
+  "156568123": {
+   "fragment_id": "156691412",
+   "type": 11,
+   "heading": "Artigo 2.º — Representação no Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Representação no Comité\n\n1 - A representação nacional no comité previsto no artigo 13.º do Regulamento é assegurada pelo IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.).\n\n2 - Além da entidade indicada no número anterior, pode ser designada, por despacho do membro do Governo responsável pela área da economia, outra entidade para assegurar a representação nacional no comité.\n\n3 - As entidades referidas nos números anteriores articulam e coordenam entre si a forma de participação no comité."
+  },
+  "156568124": {
+   "fragment_id": "156691413",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências do IAPMEI - Agência para a Competitividade e Inovação, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências do IAPMEI - Agência para a Competitividade e Inovação, I. P.\n\nCompete ao IAPMEI, I. P., assegurar o acompanhamento geral da execução do Regulamento, do presente decreto-lei e, em particular:\n\na) Garantir a ligação com a Comissão Europeia e os outros Estados-Membros;\n\nb) Assegurar as funções de entidade de prestação de informações aos operadores económicos envolvidos;\n\nc) Coordenar a articulação entre os organismos com intervenção nas matérias associadas à aplicação do Regulamento, nomeadamente na eficiência energética e na segurança rodoviária."
+  },
+  "156568125": {
+   "fragment_id": "156691414",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da Direção-Geral de Energia e Geologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências da Direção-Geral de Energia e Geologia\n\nCompete à Direção-Geral de Energia e Geologia (DGEG), no quadro das suas competências em matéria de eficiência energética, cooperar e assegurar na prestação de informação solicitada pelo IAPMEI, I. P., para efeitos do artigo anterior."
+  },
+  "156568126": {
+   "fragment_id": "156691415",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do Instituto da Mobilidade e dos Transportes, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências do Instituto da Mobilidade e dos Transportes, I. P.\n\nCompete ao Instituto da Mobilidade e dos Transportes, I. P., (IMT, I. P.), no quadro das suas competências em matéria de segurança rodoviária, cooperar e assegurar a prestação de informação solicitada pelo IAPMEI, I. P., para efeitos do artigo 3.º do presente decreto-lei."
+  },
+  "156568127": {
+   "fragment_id": "156691416",
+   "type": 11,
+   "heading": "Artigo 6.º — Informações a prestar pelos fornecedores de pneus e distribuidores de veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Informações a prestar pelos fornecedores de pneus e distribuidores de veículos\n\n1 - Para efeitos do n.º 3 do artigo 4.º do Regulamento, relativo ao material técnico promocional, deverá o mesmo ser disponibilizado em língua portuguesa.\n\n2 - Para efeitos do n.º 4 do artigo 4.º do Regulamento, a documentação técnica solicitada pela autoridade de fiscalização do mercado no cumprimento das suas obrigações deve ser disponibilizada numa língua facilmente compreensível pela referida autoridade.\n\n3 - Para efeitos do artigo 6.º do Regulamento, relativo às responsabilidades dos fornecedores e dos distribuidores de veículos deve a informação exigida ser incluída, pelo menos, no material técnico promocional."
+  },
+  "156568128": {
+   "fragment_id": "156691417",
+   "type": 11,
+   "heading": "Artigo 7.º — Controlo na fronteira externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Controlo na fronteira externa\n\nCompete à Autoridade Tributária e Aduaneira, nos termos do artigo 5.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, efetuar o controlo na fronteira externa dos produtos abrangidos pelo presente decreto-lei provenientes de países terceiros."
+  },
+  "156568129": {
+   "fragment_id": "156691418",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fiscalização\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do disposto no Regulamento e no presente decreto-lei compete, no âmbito das suas atribuições, à Autoridade de Segurança Alimentar e Económica (ASAE), enquanto autoridade de fiscalização do mercado.\n\n2 - A adoção de uma medida de proibição, de restrição de disponibilização, de retirada ou de recolha de um produto, rege-se pelo disposto no capítulo III do Decreto-Lei n.º 23/2011, de 11 de fevereiro, que executa na ordem jurídica interna o disposto no Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\n3 - Os produtos abrangidos pelo presente decreto-lei encontram-se sujeitos às regras estabelecidas no n.º 3 do artigo 15.º e nos artigos 16.º a 29.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\n4 - As autoridades de fiscalização do mercado podem solicitar o auxílio de quaisquer autoridades sempre que julguem necessário para o exercício das suas funções."
+  },
+  "156568130": {
+   "fragment_id": "156691419",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contraordenações e coimas\n\n1 - Constituem contraordenação punível com coima no valor de (euro) 100 a (euro) 1500, no caso de pessoas singulares, e de (euro) 500 a (euro) 25 000, no caso de pessoas coletivas, as seguintes infrações:\n\na) A falta de aplicação pelo fornecedor, do autocolante previsto na alínea a) do n.º 1 do artigo 4.º do Regulamento, ou do rótulo previsto na alínea b) do n.º 1 do artigo 4.º do Regulamento;\n\nb) A desconformidade, da responsabilidade do fornecedor, do formato do autocolante e do rótulo com o disposto no anexo II do Regulamento, nos termos do n.º 2 do artigo 4.º do Regulamento;\n\nc) A ausência, incorreção ou incompletude da informação declarada no material técnico promocional e no sítio na Internet, da responsabilidade do fornecedor, nos termos do n.º 3 do artigo 4.º do Regulamento;\n\nd) A não conservação pelo fornecedor, da documentação técnica durante o período estabelecido no n.º 4 do artigo 4.º do Regulamento;\n\ne) A não observância pelos distribuidores de pneus da exigência relativa ao autocolante disponibilizado pelo fornecedor, nos termos da alínea a) do n.º 1 do artigo 5.º do Regulamento, ou ao rótulo, nos termos da alínea b) do n.º 1 do artigo 5.º do Regulamento;\n\nf) A não prestação da informação pelo distribuidor de pneus, ou a sua inexatidão, nos termos do n.º 2 do artigo 5.º do Regulamento;\n\ng) A ausência da informação requerida nas faturas, exigida aos distribuidores de pneus, nos termos do n.º 3 do artigo 5.º do Regulamento;\n\nh) A não prestação da informação pelo fornecedor e distribuidor de veículos, ou a sua inexatidão, nos termos do artigo 6.º do Regulamento;\n\ni) A prestação, pelo fornecedor, da informação requerida nos artigos 4.º, 5.º e 6.º do Regulamento obtida através da utilização de métodos de ensaio diferentes dos previstos no artigo 7.º do Regulamento;\n\nj) O incumprimento do disposto no artigo 6.º do presente decreto-lei.\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "156568131": {
+   "fragment_id": "156691420",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução e decisão de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrução e decisão de processos\n\n1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE."
+  },
+  "156568132": {
+   "fragment_id": "156691421",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções acessórias\n\nSem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade decisora, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no regime geral do ilícito de mera ordenação social."
+  },
+  "156568133": {
+   "fragment_id": "156691422",
+   "type": 11,
+   "heading": "Artigo 12.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Distribuição do produto das coimas\n\nO produto das coimas resultantes da aplicação do disposto no presente decreto-lei reverte em:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 20 % para a ASAE;\n\nd) 10 % para o IAPMEI, I. P."
+  },
+  "156568134": {
+   "fragment_id": "156691423",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito subsidiário\n\nÀs contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime jurídico do ilícito de mera ordenação social aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "156568135": {
+   "fragment_id": "156691424",
+   "type": 11,
+   "heading": "Artigo 14.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regiões Autónomas\n\n1 - Os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - O produto resultante da aplicação das respetivas coimas pelas Regiões Autónomas constitui receita própria das mesmas."
+  },
+  "156568136": {
+   "fragment_id": "156691425",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "167335089": {
+   "fragment_id": "156691411",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei executa na ordem jurídica nacional interna o disposto no Regulamento (CE) n.º 1222/2009, do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, relativo à rotulagem dos pneus no que respeita à eficiência energética e a outros parâmetros essenciais, adiante designado por Regulamento.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335090": {
+   "fragment_id": "156691412",
+   "type": 11,
+   "heading": "Artigo 2.º — Representação no Comité",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 2.º — Representação no Comité\n\n1 - A representação nacional no comité previsto no artigo 13.º do Regulamento é assegurada pelo IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.).\n\n2 - Além da entidade indicada no número anterior, pode ser designada, por despacho do membro do Governo responsável pela área da economia, outra entidade para assegurar a representação nacional no comité.\n\n3 - As entidades referidas nos números anteriores articulam e coordenam entre si a forma de participação no comité.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335091": {
+   "fragment_id": "156691413",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências do IAPMEI - Agência para a Competitividade e Inovação, I. P.",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 3.º — Competências do IAPMEI - Agência para a Competitividade e Inovação, I. P.\n\nCompete ao IAPMEI, I. P., assegurar o acompanhamento geral da execução do Regulamento, do presente decreto-lei e, em particular:\n\na) Garantir a ligação com a Comissão Europeia e os outros Estados-Membros;\n\nb) Assegurar as funções de entidade de prestação de informações aos operadores económicos envolvidos;\n\nc) Coordenar a articulação entre os organismos com intervenção nas matérias associadas à aplicação do Regulamento, nomeadamente na eficiência energética e na segurança rodoviária.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335092": {
+   "fragment_id": "156691414",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da Direção-Geral de Energia e Geologia",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 4.º — Competências da Direção-Geral de Energia e Geologia\n\nCompete à Direção-Geral de Energia e Geologia (DGEG), no quadro das suas competências em matéria de eficiência energética, cooperar e assegurar na prestação de informação solicitada pelo IAPMEI, I. P., para efeitos do artigo anterior.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335093": {
+   "fragment_id": "156691415",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do Instituto da Mobilidade e dos Transportes, I. P.",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 5.º — Competências do Instituto da Mobilidade e dos Transportes, I. P.\n\nCompete ao Instituto da Mobilidade e dos Transportes, I. P., (IMT, I. P.), no quadro das suas competências em matéria de segurança rodoviária, cooperar e assegurar a prestação de informação solicitada pelo IAPMEI, I. P., para efeitos do artigo 3.º do presente decreto-lei.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335094": {
+   "fragment_id": "156691416",
+   "type": 11,
+   "heading": "Artigo 6.º — Informações a prestar pelos fornecedores de pneus e distribuidores de veículos",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 6.º — Informações a prestar pelos fornecedores de pneus e distribuidores de veículos\n\n1 - Para efeitos do n.º 3 do artigo 4.º do Regulamento, relativo ao material técnico promocional, deverá o mesmo ser disponibilizado em língua portuguesa.\n\n2 - Para efeitos do n.º 4 do artigo 4.º do Regulamento, a documentação técnica solicitada pela autoridade de fiscalização do mercado no cumprimento das suas obrigações deve ser disponibilizada numa língua facilmente compreensível pela referida autoridade.\n\n3 - Para efeitos do artigo 6.º do Regulamento, relativo às responsabilidades dos fornecedores e dos distribuidores de veículos deve a informação exigida ser incluída, pelo menos, no material técnico promocional.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335095": {
+   "fragment_id": "156691417",
+   "type": 11,
+   "heading": "Artigo 7.º — Controlo na fronteira externa",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 7.º — Controlo na fronteira externa\n\nCompete à Autoridade Tributária e Aduaneira, nos termos do artigo 5.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, efetuar o controlo na fronteira externa dos produtos abrangidos pelo presente decreto-lei provenientes de países terceiros.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335096": {
+   "fragment_id": "156691418",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscalização",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 8.º — Fiscalização\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do disposto no Regulamento e no presente decreto-lei compete, no âmbito das suas atribuições, à Autoridade de Segurança Alimentar e Económica (ASAE), enquanto autoridade de fiscalização do mercado.\n\n2 - A adoção de uma medida de proibição, de restrição de disponibilização, de retirada ou de recolha de um produto, rege-se pelo disposto no capítulo III do Decreto-Lei n.º 23/2011, de 11 de fevereiro, que executa na ordem jurídica interna o disposto no Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\n3 - Os produtos abrangidos pelo presente decreto-lei encontram-se sujeitos às regras estabelecidas no n.º 3 do artigo 15.º e nos artigos 16.º a 29.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\n4 - As autoridades de fiscalização do mercado podem solicitar o auxílio de quaisquer autoridades sempre que julguem necessário para o exercício das suas funções.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335097": {
+   "fragment_id": "156691419",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15",
+    "Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Contraordenações\n\n1 - Constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:a) A falta de aplicação pelo fornecedor, do autocolante previsto na alínea a) do n.º 1 do artigo 4.º do Regulamento, ou do rótulo previsto na alínea b) do n.º 1 do artigo 4.º do Regulamento;\n\nb) A desconformidade, da responsabilidade do fornecedor, do formato do autocolante e do rótulo com o disposto no anexo II do Regulamento, nos termos do n.º 2 do artigo 4.º do Regulamento;\n\nc) A ausência, incorreção ou incompletude da informação declarada no material técnico promocional e no sítio na Internet, da responsabilidade do fornecedor, nos termos do n.º 3 do artigo 4.º do Regulamento;\n\nd) A não conservação pelo fornecedor, da documentação técnica durante o período estabelecido no n.º 4 do artigo 4.º do Regulamento;\n\ne) A não observância pelos distribuidores de pneus da exigência relativa ao autocolante disponibilizado pelo fornecedor, nos termos da alínea a) do n.º 1 do artigo 5.º do Regulamento, ou ao rótulo, nos termos da alínea b) do n.º 1 do artigo 5.º do Regulamento;\n\nf) A não prestação da informação pelo distribuidor de pneus, ou a sua inexatidão, nos termos do n.º 2 do artigo 5.º do Regulamento;\n\ng) A ausência da informação requerida nas faturas, exigida aos distribuidores de pneus, nos termos do n.º 3 do artigo 5.º do Regulamento;\n\nh) A não prestação da informação pelo fornecedor e distribuidor de veículos, ou a sua inexatidão, nos termos do artigo 6.º do Regulamento;\n\ni) A prestação, pelo fornecedor, da informação requerida nos artigos 4.º, 5.º e 6.º do Regulamento obtida através da utilização de métodos de ensaio diferentes dos previstos no artigo 7.º do Regulamento;\n\nj) O incumprimento do disposto no artigo 6.º do presente decreto-lei.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15\n\n> Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "167335098": {
+   "fragment_id": "156691420",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução e decisão de processos",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 10.º — Instrução e decisão de processos\n\n1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335099": {
+   "fragment_id": "156691421",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções acessórias",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15",
+    "Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Sanções acessórias\n\nSem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade decisora, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15\n\n> Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "167335100": {
+   "fragment_id": "156691422",
+   "type": 11,
+   "heading": "Artigo 12.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15",
+    "Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 12.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15\n\n> Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "167335101": {
+   "fragment_id": "156691423",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito subsidiário",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15",
+    "Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 13.º — Direito subsidiário\n\nÀs contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15\n\n> Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "167335102": {
+   "fragment_id": "156691424",
+   "type": 11,
+   "heading": "Artigo 14.º — Regiões Autónomas",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 14.º — Regiões Autónomas\n\n1 - Os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - O produto resultante da aplicação das respetivas coimas pelas Regiões Autónomas constitui receita própria das mesmas.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335103": {
+   "fragment_id": "156691425",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  },
+  "167335104": {
+   "fragment_id": "156691426",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-07-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+   ],
+   "markdown": "Visto e aprovado no Conselho de Ministros de 23 de agosto de 2016. - António Luís Santos da Costa - Maria Margarida Ferreira Marques - Mário José Gomes de Freitas Centeno - Pedro Manuel Dias de Jesus Marques - Jorge Filipe Teixeira Seguro Sanches.\n\nPromulgado em 24 de outubro de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 27 de outubro de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 60/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2021-167281003), em vigor a partir de 2021-07-15"
+  }
+ }
+}

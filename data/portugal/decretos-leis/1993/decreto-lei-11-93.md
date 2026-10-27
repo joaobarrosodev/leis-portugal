@@ -1,0 +1,1102 @@
+---
+schema_version: '1.0'
+id: pt:dre:586006:por
+title: Decreto-Lei n.º 11/93
+short_title: null
+summary: Aprova o Estatuto do Serviço Nacional de Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 11/93
+official_date: null
+publication_date: '1993-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 12/1993, Série I-A de 1993-01-15
+  number: '12'
+  series: I
+  supplement: null
+  pages: 129 - 134
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/01/012a00/01290134.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes:
+- Revogado, a partir de 05.08.2022, nos termos do artigo 105.º do Decreto-Lei n.º 52/2022 de 4 de agosto, sem prejuízo do
+  regime transitório constante do seu artigo 104.º.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-08-05'
+version_history:
+  file: decreto-lei-11-93.versoes.json
+  count: 17
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1993-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-31'
+    amending: pt:dre:682866:por
+    amending_title: Declaração de Rectificação n.º 42/93
+    changes:
+    - Entrada Vigor Diploma
+    - Retifica Diploma
+  - date: '1996-06-23'
+    amending: pt:dre:435395:por
+    amending_title: Decreto-Lei n.º 77/96
+    changes:
+    - Entrada Vigor Diploma
+    - Revoga Artigo 8.º
+  - date: '1998-04-01'
+    amending: pt:dre:218954:por
+    amending_title: Decreto-Lei n.º 53/98
+    changes:
+    - Adita Artigo 18.º-A
+    - Altera Artigo 18.º
+  - date: '1998-04-23'
+    amending: pt:dre:174849:por
+    amending_title: Decreto-Lei n.º 97/98
+    changes:
+    - Altera Artigo 37.º
+  - date: '1998-12-22'
+    amending: pt:dre:191553:por
+    amending_title: Decreto-Lei n.º 401/98
+    changes:
+    - Altera Artigo 25.º
+  - date: '1999-05-15'
+    amending: pt:dre:331072:por
+    amending_title: Decreto-Lei n.º 156/99
+    changes:
+    - Altera Artigo 7.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 14.º
+  - date: '2000-04-27'
+    amending: pt:dre:521598:por
+    amending_title: Decreto-Lei n.º 68/2000
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 18.º-A
+  - date: '2002-08-25'
+    amending: pt:dre:171692:por
+    amending_title: Decreto-Lei n.º 185/2002
+    changes:
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+  - date: '2004-12-08'
+    amending: pt:dre:209643:por
+    amending_title: Decreto-Lei n.º 223/2004
+    changes:
+    - Altera Artigo 20.º
+  - date: '2007-06-01'
+    amending: pt:dre:638525:por
+    amending_title: Decreto-Lei n.º 222/2007
+    changes:
+    - Altera Artigo 4.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+  - date: '2007-08-01'
+    amending: pt:dre:569685:por
+    amending_title: Decreto-Lei n.º 276-A/2007
+    changes:
+    - Altera Artigo 18.º-A
+  - date: '2009-08-09'
+    amending: pt:dre:493010:por
+    amending_title: Decreto-Lei n.º 177/2009
+    changes:
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Adita Artigo 22.º-C
+    - Altera Artigo 22.º-A
+    - Altera Artigo 22.º-B
+  - date: '2015-01-01'
+    amending: pt:dre:66016527:por
+    amending_title: Lei n.º 82-B/2014
+    changes:
+    - Adita Artigo 22.º-D
+    - Altera Artigo 22.º-A
+  - date: '2022-08-05'
+    amending: pt:dre:187049881:por
+    amending_title: Decreto-Lei n.º 52/2022
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/11/1993/p/cons/20220804/pt/html
+  oj: null
+  dre: '586006'
+  dre_path: /dr/detalhe/decreto-lei/11-1993-586006
+  internal: pt:dre:586006:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006
+  metadata_url: https://data.dre.pt/eli/dec-lei/11/1993/p/cons/20220804/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-34544275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-34544275
+  retrieved_at: '2026-10-22T11:51:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ab388f032f8344c900cb6e790d51d588170502cb41cd01a00ce7752e89e98c64
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:51:17Z'
+  notes: 17 versão(ões); histórico completo em decreto-lei-11-93.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Administração Regional de Saúde
+- Estatuto
+- Política de Saúde
+- Serviço Nacional de Saúde
+- Centro de Saúde
+- Regime de Instalação
+- Transferência de Pessoal
+- Transferência Patrimonial
+relationships:
+- type: amended_by
+  target: pt:dre:682866:por
+  label: Entrada Vigor Diploma; Retifica Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/42-1993-682866
+  date: '1993-03-31'
+- type: amended_by
+  target: pt:dre:435395:por
+  label: Entrada Vigor Diploma; Revoga Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1996-435395
+  date: '1996-06-18'
+- type: amended_by
+  target: pt:dre:218954:por
+  label: Adita Artigo 18.º-A; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1998-218954
+  date: '1998-03-11'
+- type: amended_by
+  target: pt:dre:174849:por
+  label: Altera Artigo 37.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1998-174849
+  date: '1998-04-18'
+- type: amended_by
+  target: pt:dre:191553:por
+  label: Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1998-191553
+  date: '1998-12-17'
+- type: amended_by
+  target: pt:dre:331072:por
+  label: Altera Artigo 7.º; Revoga Artigo 9.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1999-331072
+  date: '1999-05-10'
+- type: amended_by
+  target: pt:dre:331179:por
+  label: Altera Artigo 7.º; Revoga Artigo 9.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1999-331179
+  date: '1999-05-10'
+- type: amended_by
+  target: pt:dre:521598:por
+  label: Altera Artigo 18.º; Altera Artigo 18.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2000-521598
+  date: '2000-04-26'
+- type: amended_by
+  target: pt:dre:171692:por
+  label: Revoga Artigo 28.º; Revoga Artigo 29.º; Revoga Artigo 30.º; Revoga Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2002-171692
+  date: '2002-08-20'
+- type: amended_by
+  target: pt:dre:209643:por
+  label: Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2004-209643
+  date: '2004-12-03'
+- type: amended_by
+  target: pt:dre:638525:por
+  label: Altera Artigo 4.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 10.º; Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2007-638525
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:569685:por
+  label: Altera Artigo 18.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-a-2007-569685
+  date: '2007-07-31'
+- type: amended_by
+  target: pt:dre:493010:por
+  label: Revoga Artigo 20.º; Revoga Artigo 21.º; Revoga Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010
+  date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Adita Artigo 22.º-A; Adita Artigo 22.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Adita Artigo 22.º-C; Altera Artigo 22.º-A; Altera Artigo 22.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Adita Artigo 22.º-D; Altera Artigo 22.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:187049881:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881
+  date: '2022-08-04'
+article_structure:
+  article_count: 54
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:51:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 11/93
+
+A regulamentação da Lei de Bases da Saúde - Lei n.º 48/90, de 24 de Agosto - torna imperativa a aprovação de um novo estatuto do Serviço Nacional de Saúde (n.º 2 do base XII).
+
+A incessante preocupação de propiciar aos utentes cuidados compreensivos e de elevada qualidade aconselha alterações estruturais de vulto na sua orgânica, a fim de a compatibilizar com os princípios consagrados no capítulo II da referida lei.
+
+A tradicional dicotomia entre cuidados primários e cuidados diferenciados revelou-se não só incorrecta do ponto de vista médico mas também geradora de disfunções sob o ponto de vista organizativo.
+
+Daí a criação de unidades integradas de cuidados de saúde - unidades de saúde -, que hão-de viabilizar a imprescindível articulação entre grupos personalizados de centros de saúde e hospitais. A indivisibilidade da saúde, por um lado, e a criteriosa gestão de recursos, por outro, impõem a consagração de tal modelo, em que radica um dos aspectos essenciais da nova orgânica do Serviço Nacional de Saúde.
+
+As crescentes exigências das populações em termos de qualidade e de prontidão de resposta aos seus anseios e necessidades sanitárias aconselham que a gestão dos recursos se faça tão próximo quanto possível dos seus destinatários. Daí a criação das regiões de saúde, dirigidas por administrações com competências e atribuições reforçadas.
+
+A exigência legal de participação das populações na definição da política de saúde implicou a criação de órgãos consultivos de âmbito nacional, regional e concelhio.
+
+A flexibilidade na gestão de recursos impõe não apenas a adopção de mecanismos especiais de mobilidade e de contratação de pessoal como o incentivo a métodos e práticas concorrenciais, no respeito pela relevância social do direito à saúde e com estrita observância das obrigações que ao Estado competem nesta matéria.
+
+Da acção conjugada de tais mecanismos e métodos resultará inquestionavelmente o travejamento jurídico em que hão-de estribar-se mais e melhores respostas para os múltiplos e complexos problemas que a área da saúde permanentemente coloca.
+
+Foi ouvida a Associação Nacional dos Municípios Portugueses.
+
+Foi ouvida a Ordem dos Médicos.
+
+Foram ouvidas as organizações representativas dos trabalhadores envolvidos.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 105.º, Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881) revoga o presente diploma, a partir de 05.08.2022, sem prejuízo do regime transitório constante do seu artigo 104.º.
+
+###### Artigo 1.º — Aprovação do Estatuto do Serviço Nacional de Saúde
+
+É aprovado o Estatuto do Serviço Nacional de Saúde, adiante designado por Estatuto, anexo a este diploma, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 2.º — Âmbito de aplicação do Estatuto
+
+O Estatuto aplica-se às instituições e serviços que constituem o Serviço Nacional de Saúde e às entidades particulares e profissionais em regime liberal integradas na rede nacional de prestação de cuidados de saúde, quando articuladas com o Serviço Nacional de Sáude.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 3.º — Administrações regionais de saúde
+
+1 - As administrações regionais de saúde criadas pelo Estatuto entram em funcionamento na data da entrada em vigor do decreto-lei a que se refere o n.º 4 do artigo 6.º do Estatuto e são colocadas em regime de instalação.
+
+2 - Na data a que se refere o número anterior extinguem-se as administrações regionais de saúde criadas ao abrigo do Decreto-Lei n.º 254/82, de 29 de Junho, transitando o pessoal e transmitindo-se o respectivo património para as novas administrações regionais de saúde, nos termos dos artigos seguintes.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 4.º — Transição do pessoal
+
+O pessoal com relação jurídica de emprego público que se encontre a exercer funções nas administrações regionais de saúde extintas transita, na mesma situação, para as novas administrações regiões de saúde, nos termos do artigo seguinte.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 5.º — Transição patrimonial
+
+Os direitos e obrigações, incluindo as posições contratuais, de que são titulares as administrações regionais de saúde extintas nos termos do n.º 2 do artigo 3.º transmitem-se, independentemente de quaisquer formalidades, para as administrações regionais de saúde criadas pelo Estatuto, nos termos seguintes:
+
+a) Para a Administração Regional de Saúde do Norte, os relativos às Administrações Regionais de Saúde de Braga, Bragança, Porto, Viana do Castelo e Vila Real;
+
+b) Para a Administração Regional de Saúde do Centro, os relativos às Administrações Regionais de Saúde de Aveiro, Castelo Branco, Coimbra, Guarda, Leiria e Viseu;
+
+c) Para a Administração Regional de Saúde de Lisboa e Vale do Tejo, os relativos às Administrações Regionais de Saúde de Lisboa, Santarém e Setúbal;
+
+d) Para a Administração Regional de Saúde do Alentejo, os relativos às Administrações Regionais de Saúde de Évora, Beja e Portalegre;
+
+e) Para a Administração Regional de Saúde do Algarve, os relativos à Administração Regional de Saúde de Faro.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 6.º — Centros de saúde
+
+1 - Os centros de saúde dependem orgânica e funcionalmente da administração regional de saúde da respectiva área, a qual assegura as verbas necessárias ao seu funcionamento, enquanto não forem criados os grupos personalizados de centros de saúde.
+
+2 - Por despacho do Ministro da Saúde, são fixadas normas de articulação provisória entre hospitais e centros de saúde com vista à criação das futuras unidades de saúde.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 157/99 - Diário da República n.º 108/1999, Série I-A de 1999-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1999-331179), em vigor a partir de 1999-07-09
+
+###### Artigo 7.º — Contratos e convenções
+
+1 - Os contratos e convenções celebrados no âmbito do Serviço Nacional de Saúde que não sejam conformes com o disposto no artigo 37.º do Estatuto mantêm-se em vigor, nas actuais condições, até 31 de Dezembro de 1996, nas seguintes áreas:
+
+a) Exames laboratoriais;
+
+b) Exames de imagem e fisiologia;
+
+c) Hemodiálise;
+
+d) Endoscopia;
+
+e) Medicina física e reabilitação.
+
+2 - Mantêm-se igualmente em vigor, nas actuais condições, as convenções celebradas com as instituições particulares de solidariedade social e associações mutualistas, bem como, nas áreas de transplante, imagem e TAC, com a Cruz Vermelha Portuguesa.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 8.º — Delimitação geográfica das administrações regionais de saúde
+
+A partir de 1 de Janeiro de 1995, as regiões de saúde passam a ter delimitação geográfica correspondente às unidades de nível II da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), prevista no Decreto-Lei n.º 46/89, de 15 de Fevereiro.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo único do/a [Decreto-Lei n.º 77/96 - Diário da República n.º 139/1996, Série I-A de 1996-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1996-435395), em vigor a partir de 1996-06-23
+
+###### Artigo 9.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) Decreto-Lei n.º 254/82, de 29 de Junho;
+
+b) Decreto-Lei n.º 57/86, de 20 de Março;
+
+c) Decreto-Lei n.º 267/90, de 31 de Agosto.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
+
+Promulgado em 21 de Dezembro de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 23 de Dezembro de 1992.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+## Anexo — Estatuto do Serviço Nacional de Saúde
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+### Capítulo I — Natureza e objectivo
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 1.º — Natureza
+
+O Serviço Nacional de Saúde, adiante designados por SNS, é um conjunto ordenado e hierarquizado de instituições e de serviços oficiais prestadores de cuidados de saúde, funcionando sob a superintendência ou a tutela do Ministro da Saúde.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 2.º — Objectivo
+
+O SNS tem como objectivo a efectivação, por parte do Estado, da responsabilidade que lhe cabe na protecção da saúde individual e colectiva.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+### Capítulo II — Organização e funcionamento
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+#### Secção I — Organização
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 3.º — Níveis de organização
+
+1 - O SNS organiza-se em regiões de saúde.
+
+2 - As regiões de saúde dividem-se em sub-regiões de saúde, integradas por áreas de saúde.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 4.º — Regiões de saúde
+
+1 - As regiões de saúde são as seguintes:
+
+a) Do Norte, com sede no Porto;
+
+b) Do Centro, com sede em Coimbra;
+
+c) De Lisboa e Vale do Tejo, com sede em Lisboa;
+
+d) Do Alentejo, com sede em Évora;
+
+e) Do Algarve, com sede em Faro.
+
+2 - Cada uma das regiões de saúde tem correspondência ao nível II da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS).
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 222/2007 - Diário da República n.º 103/2007, Série I de 2007-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2007-638525), em vigor a partir de 2007-06-01
+
+###### Artigo 5.º — Sub-regiões de saúde e áreas de saúde
+
+1 - As sub-regiões correspondem às áreas dos distritos do continente.
+
+2 - As áreas de saúde correspondem às áreas dos municípios, podendo ser estabelecidas modificações nesta divisão, com o acordo dos municípios interessados.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 6.º — Administrações regionais de saúde
+
+1 - Em cada região de saúde há uma administração regional de saúde, adiante designada por ARS.
+
+2 - As ARS têm personalidade jurídica, autonomia administrativa e financeira e património próprio.
+
+3 - As ARS têm funções de planeamento, distribuição de recursos, orientação e coordenação de actividades, gestão de recursos humanos, apoio técnico e administrativo e ainda de avaliação do funcionamento das instituições e serviços prestadores de cuidados de saúde.
+
+4 - O regulamento das ARS é aprovado por decreto-lei.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 7.º — Órgãos
+
+1 - São órgãos de administração das ARS os conselhos de administração.
+
+2 - São órgãos de consulta das ARS os conselhos regionais de saúde e as comissões concelhias de saúde.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 222/2007 - Diário da República n.º 103/2007, Série I de 2007-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2007-638525), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 156/99 - Diário da República n.º 108/1999, Série I-A de 1999-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1999-331072), em vigor a partir de 1999-05-15
+
+###### Artigo 8.º — Conselhos de administração
+
+1 - Os conselhos de administração das ARS são compostos por um presidente e dois vogais, escolhidos de entre individualidades com experiência e perfil adequados às funções.
+
+2 - Os conselhos de administração das ARS do Norte e de Lisboa e Vale do Tejo são compostos por um presidente e quatro vogais.
+
+3 - O presidente e os vogais dos conselhos de administração das ARS são equiparados, para todos os efeitos legais, respectivamente a director-geral e a subdirector-geral.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 222/2007 - Diário da República n.º 103/2007, Série I de 2007-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2007-638525), em vigor a partir de 2007-06-01
+
+###### Artigo 9.º — Coordenadores sub-regionais
+
+1 - Em cada sub-região há um coordenador sub-regional de saúde, com funções de coordenação, representação e outras que lhe sejam delegadas.
+
+2 - O coordenador é apoiado por uma estrutura técnica e administrativa.
+
+3 - O coordenador sub-regional é nomeado pelo Ministro da Sáude, sob proposta do conselho de administração da respectiva ARS, e é equiparado a subdirector-geral.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 156/99 - Diário da República n.º 108/1999, Série I-A de 1999-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1999-331072), em vigor a partir de 1999-05-15
+
+###### Artigo 10.º — Conselhos regionais de saúde
+
+1 - Os conselhos regionais de saúde são órgãos consultivos dos conselhos de administração das respectivas ARS.
+
+2 - Aos conselhos regionais de saúde compete:
+
+a) Dar parecer sobre os planos regionais de actividade, os orçamentos e os relatórios anuais apresentados pelo respectivo conselho de administração e sobre outras matérias em relação às quais lhe seja solicitado parecer;
+
+b) Propor ao conselho de administração das ARS as medidas que julgue adequadas à melhoria dos níveis de saúde da região.
+
+3 - Dos conselhos regionais de saúde fazem parte:
+
+a) Coordenadores sub-regionais;
+
+b) Representantes das instituições e dos serviços prestadores de cuidados de saúde;
+
+c) Representantes dos municípios;
+
+d) Representantes das entidades privadas e de profissionais em regime liberal, integrados no sistema de saúde.
+
+4 - O número de membros de cada uma das entidades referidas no número anterior é fixado em portaria do Ministro da Saúde.
+
+5 - Os presidentes dos conselhos regionais são eleitos de entre os seus membros.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 222/2007 - Diário da República n.º 103/2007, Série I de 2007-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2007-638525), em vigor a partir de 2007-06-01
+
+###### Artigo 11.º — Comissões concelhias de saúde
+
+1 - As comissões concelhias de saúde são órgãos consultivos dos conselhos de administração das ARS em relação a cada área de saúde.
+
+2 - Das comissões concelhias de saúde fazem parte:
+
+a) Os directores dos hospitais, quando os houver;
+
+b) Os directores dos centros de saúde;
+
+c) Os dirigentes máximos de serviços oficiais de saúde com sede no concelho e não integrados em hospitais ou centros de saúde;
+
+d) Um representante do município;
+
+e) Um representante da misericórdia ou, não a havendo, de outra instituição particular de solidariedade social, a designar pela União das Instituições Particulares de Solidariedade Social;
+
+f) Um representante dos interesses dos utentes, eleito pela assembleia municipal.
+
+3 - Das comissões concelhias das sedes das regiões também fazem parte representantes de outras entidades com actividade relevante na área da saúde, nos termos a definir em regulamento, aprovado por portaria do Ministro da Saúde.
+
+4 - O presidente é eleito pelos membros da comissão, nos termos do respectivo regulamento.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 222/2007 - Diário da República n.º 103/2007, Série I de 2007-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2007-638525), em vigor a partir de 2007-06-01
+
+###### Artigo 12.º — Classificação das instituição e serviços
+
+1 - As instituições e os serviços classificam-se segundo a natureza das suas responsabilidades e o quadro das valências efectivamente exercidas, nos termos a definir em portaria do Ministro da Saúde.
+
+2 - Às instituições e serviços podem ser atribuídas responsabilidades nacionais ou inter-regionais, quer exercendo uma actividade de orientação e coordenação em áreas especializadas, quer na prestação de cuidados.
+
+3 - As instituições e serviços que constituem o SNS constam de inventário geral.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 13.º — Grupos personalizados de centros de saúde
+
+1 - Os centros de saúde integram-se em grupos de centros de saúde dotados de personalidade jurídica, a criar por decreto-lei.
+
+2 - A direcção dos grupos personalizados de centros de saúde cabe a três directores de centros de saúde, um dos quais preside, nomeados por despacho do Ministro da Saúde.
+
+3 - O exercício dos cargos de direcção referidos no número anterior não dá lugar a qualquer remuneração suplementar.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 157/99 - Diário da República n.º 108/1999, Série I-A de 1999-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1999-331179), em vigor a partir de 1999-07-09
+
+###### Artigo 14.º — Unidades de saúde
+
+1 - Os hospitais e os grupos personalizados de centros de saúde agrupam-se em unidades de saúde, de dimensão a definir, caso a caso, em despacho do Ministro da Saúde, sob proposta do conselho de administração das ARS.
+
+2 - Às unidades de saúde cabe assegurar a continuidade da prestação de cuidados, com respeito pelas atribuições das instituições que as integram.
+
+3 - Em cada unidade de saúde há um conselho interno, composto por representantes dos hospitais e dos grupos personalizados de centros de saúde, presidido pelo coordenador sub-regional de saúde da área respectiva.
+
+4 - O exercício de funções no conselho interno não dá lugar a qualquer remuneração suplementar.
+
+5 - Os regulamentos internos das unidades de saúde são aprovados por portaria do Ministro da Saúde.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 156/99 - Diário da República n.º 108/1999, Série I-A de 1999-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1999-331072), em vigor a partir de 1999-05-15
+
+#### Secção II — Gestão e funcionamento
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 15.º — Aprovação dos planos e programas de acção
+
+1 - Os planos e programas de acção com âmbito nacional ou regional são aprovados por despacho do Ministro da Saúde.
+
+2 - Os planos e programas das instituições e dos serviços são aprovados nos termos dos respectivos regulamentos.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 16.º — Gestão das instituições e dos serviços
+
+1 - A gestão das instituições e dos serviços obedece aos seguintes princípios:
+
+a) A comparticipação orçamental do Estado é estabelecida com base em planos financeiros no quadro do planeamento geral do Estado;
+
+b) Os planos financeiros devem cobrir períodos anuais ou plurianuais com base em programas propostos pelas ARS;
+
+c) Os membros dos órgãos de administração são responsáveis pelo cumprimento da lei e pela realização dos objectivos e metas constantes dos planos e programas aprovados.
+
+2 - As instituições e serviços podem estabelecer contratos com outras entidades, designadamente com empresas e organizações profissionais, para prestação de cuidados aos seus associados ou segurados.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+### Capítulo III — Recursos humanos
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 17.º — Política de recursos humanos
+
+A política de recursos humanos do SNS é definida pelo Ministro da Saúde e executada pelos órgãos de administração regional.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 18.º — Pessoal
+
+1 - É aplicável ao pessoal do SNS o regime dos funcionários e agentes da administração central, com as alterações previstas no presente Estatuto e nas leis que especialmente lhe respeitem.
+
+2 - A legislação especial pode estatuir sobre carreiras próprias, duração dos períodos de trabalho, defesa contra os riscos do exercício profissional e garantia de independência técnica e científica quanto a profissionais que prestam cuidados directos.
+
+3 - Tendo em vista assegurar, com carácter de subordinação, a satisfação de necessidades transitórias e urgentes em serviços e estabelecimentos de prestação de cuidados de saúde integrados no Serviço Nacional de Saúde, podem ser celebrados, mediante despacho de autorização do Ministro da Saúde, contratos de trabalho a termo certo para o exercício de funções correspondentes às das carreiras médica, de enfermagem, de técnico superior de saúde, de técnico superior de serviço social, de técnico de diagnóstico e terapêutica, de auxiliar de acção médica e de auxiliar de apoio e vigilância.
+
+4 - Pode, excepcionalmente, em termos devidamente fundamentados, recorrer-se à contratação de outro pessoal que se mostre absolutamente indispensável a garantir apoio imprescindível à prestação de cuidados de saúde e desde que esgotadas as hipóteses de recursos aos instrumentos de mobilidade existentes na Administração Pública.
+
+5 - As administrações regionais de saúde devem enviar trimestralmente ao Departamento de Recursos Humanos da Saúde listagens nominativas do pessoal contratado nos termos do presente diploma.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 68/2000 - Diário da República n.º 97/2000, Série I-A de 2000-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2000-521598), em vigor a partir de 2000-04-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 53/98 - Diário da República n.º 59/1998, Série I-A de 1998-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1998-218954), em vigor a partir de 1998-04-01
+
+###### Artigo 18.º-A — Contratos de trabalho a termo resolutivo certo
+
+1 - Para satisfação de necessidades urgentes de pessoal que possam comprometer a regular prestação de cuidados de saúde, os serviços e estabelecimentos que integram o Serviço Nacional de Saúde podem, a título excepcional, celebrar contratos de trabalho a termo resolutivo certo, até ao prazo máximo de um ano, obedecendo a um processo de selecção simplificado precedido de publicitação da oferta de trabalho pelos meios mais adequados e de decisão reduzida a escrito e fundamentada em critérios objectivos de selecção.
+
+2 - Quando a duração inicial dos contratos celebrados nos termos do número anterior não atinja o limite de um ano, os mesmos podem ser renovados até ao máximo de duas vezes, devendo a sua duração global, incluindo renovações, observar o limite máximo de um ano.
+
+3 - A faculdade a que se referem os números anteriores é limitada aos seguintes grupos profissionais:
+
+a) Pessoal médico;
+
+b) Pessoal de enfermagem;
+
+c) Técnicos superiores de saúde;
+
+d) Técnicos de diagnóstico e terapêutica;
+
+e) Auxiliares de acção médica;
+
+f) Pessoal com destino ao exercício de funções de secretariado clínico.
+
+4 - Para efeitos do disposto nos números anteriores, o número máximo de contratos a celebrar é autorizado pelo Ministro de Estado e das Finanças, sob proposta do Ministro da Saúde.
+
+5 - Compete à Administração Central do Sistema de Saúde, I. P., com observância do limite previsto no número anterior, a fixação de quotas para a contratação de pessoal por cada região de saúde, cabendo à respectiva administração regional de saúde (I. P.) a sua distribuição pelos serviços e estabelecimentos.
+
+6 - A celebração de contratos nos termos dos números anteriores é da exclusiva competência dos titulares dos órgãos máximos de gestão dos respectivos serviços ou estabelecimentos de saúde.
+
+7 - Os titulares dos órgãos previstos no número anterior enviam, trimestralmente, à administração regional de saúde (I. P.) territorialmente competente os elementos sistematizados relativos aos contratos celebrados e aos contratos objecto de renovação, bem como à fundamentação das respectivas necessidades.
+
+8 - Cada administração regional de saúde (I. P.) procede à avaliação dos dados fornecidos pelos serviços ou estabelecimentos, com vista ao planeamento de necessidades no âmbito dos recursos humanos do Serviço Nacional de Saúde, e remete um relatório trimestral à Administração Central do Sistema de Saúde, I. P.
+
+9 - A Administração Central do Sistema de Saúde, I. P., consolida trimestralmente a informação em relatório que envia aos membros do Governo responsáveis pelas áreas da saúde, das finanças e da Administração Pública.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 276-A/2007 - Diário da República n.º 146/2007, 1º Suplemento, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-a-2007-569685), em vigor a partir de 2007-08-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 68/2000 - Diário da República n.º 97/2000, Série I-A de 2000-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2000-521598), em vigor a partir de 2000-04-27
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/98 - Diário da República n.º 59/1998, Série I-A de 1998-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1998-218954), em vigor a partir de 1998-04-01
+
+###### Artigo 19.º — Quadros de pessoal
+
+1 - Os quadros de pessoal das instituições são aprovados por portaria conjunta dos Ministros das Finanças e da Saúde, sob proposta dos conselhos de administração das ARS, tendo em conta as respectivas necessidades e as disponibilidades de recursos humanos e financeiros.
+
+2 - O preenchimento dos lugares é feito pelas instituições, atentos os limites orçamentais relativos a pessoal.
+
+3 - Em cada região os concursos de provimento organizam-se, em regra, por instituições, podendo, quando conveniente, ser efectuados por região ou sub-região.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 20.º — Incompatibilidades
+
+1 - Aos profissionais dos quadros do SNS é permitido, nos termos da lei, o exercício de actividade privada, desde que dela não resultem, designadamente em virtude de contrato ou convenção, quaisquer responsabilidades do SNS pelos encargos correspondentes aos cuidados prestados aos beneficiários.
+
+2 - Em qualquer caso, o exercício de actividades exteriores depende sempre da compatibilidade de horário, do não comprometimento da isenção e imparcialidade do funcionário ou agente e da inexistência de prejuízo efectivo para o interesse público.
+
+3 - Sem prejuízo do disposto no número anterior, os médicos membros de órgãos máximos de gestão e de direcção de estabelecimentos e serviços integrados no Serviço Nacional de Saúde (SNS), com excepção dos membros dos conselhos de administração das administrações regionais de saúde, podem utilizar a faculdade conferida pelo n.º 1 do artigo 32.º do Decreto-Lei n.º 73/90, de 6 de Março, para o atendimento a doentes privados e, bem assim, exercer a sua actividade profissional, de forma não regular e remunerada, no âmbito das especialidades e instituições integradas nas seguintes redes:
+
+a) Rede de prestação de cuidados de saúde, definida nos termos do n.º 2 do artigo 1.º do regime jurídico da gestão hospitalar, aprovado pela Lei n.º 27/2002, de 8 de Novembro;
+
+b) Rede de prestação de cuidados de saúde primários, definida nos termos do n.º 1 do artigo 1.º do Decreto-Lei n.º 60/2003, de 1 de Abril;
+
+c) Rede de cuidados de saúde continuados, definida nos termos do artigo 1.º do Decreto-Lei n.º 281/2003, de 8 de Novembro, quanto aos estabelecimentos previstos na alínea a) do n.º 1 do artigo 2.º do mesmo diploma.
+
+4 - A faculdade a que se refere o número anterior depende de autorização a conceder por despacho do Ministro da Saúde, mediante requerimento do interessado.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 177/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), em vigor a partir de 2009-08-09
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 223/2004 - Diário da República n.º 283/2004, Série I-A de 2004-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2004-209643), em vigor a partir de 2004-12-08
+
+###### Artigo 21.º — Mobilidade profissional
+
+1 - O Ministro da Saúde pode autorizar, com fundamento em razões de interesse público, que o pessoal com relação jurídica de emprego na Administração Pública que confira a qualidade de funcionário ou agente seja contratado por entidades privadas pertencentes ao sistema de saúde, sem perda de vínculo.
+
+2 - A mobilidade de pessoal a que se refere o número anterior só pode efectuar-se por requisição ou licença sem vencimento.
+
+3 - A requisição rege-se pelo estabelecido na lei para o pessoal com relação jurídica de emprego público.
+
+4 - A licença sem vencimento rege-se, com as necessárias adaptações, pelo disposto quanto às licenças de longa duração para o pessoal com relação jurídica de emprego público, com as especificidades constantes do artigo seguinte.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 177/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), em vigor a partir de 2009-08-09
+
+###### Artigo 22.º — Licença sem vencimento
+
+1 - A licença sem vencimento tem a duração máxima de 10 anos e termina, independentemente do prazo por que tenha sido concedida, logo que cessem os pressupostos da sua concessão.
+
+2 - No caso de a licença sem vencimento ser autorizada por período inferior a 10 anos, pode ser sucessivamente renovada até ao limite máximo fixado.
+
+3 - O tempo da licença sem vencimento releva para todos os efeitos legais, podendo o funcionário ou agente optar por continuar a efectuar descontos para a aposentação ou reforma, sobrevivência e ADSE.
+
+4 - A licença sem vencimento determina a abertura de vaga, podendo o funcionário reingressar na função pública na qualidade de excedente no caso de preenchimento ou extinção do lugar.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 177/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), em vigor a partir de 2009-08-09
+
+###### Artigo 22.º-A — Regime de mobilidade de profissionais de saúde
+
+1 - O regime da mobilidade interna dos trabalhadores em funções públicas é aplicável aos profissionais de saúde independentemente da natureza jurídica da relação de emprego e da pessoa coletiva pública, no âmbito dos serviços e estabelecimentos do SNS.
+
+2 - A mobilidade dos profissionais de saúde, prevista no número anterior, é determinada por despacho do membro do Governo responsável pela área da saúde, com faculdade de delegação nos conselhos diretivos das administrações regionais de saúde.
+
+3 - O despacho referido no número anterior fixa o regime de prestação de trabalho e, no caso da mobilidade a tempo parcial, o horário de trabalho a cumprir em cada uma das entidades.
+
+4 - Para efeitos de mobilidade interna temporária, os estabelecimentos e serviços do SNS são considerados unidades orgânicas desconcentradas de um mesmo serviço.
+
+5 - A mobilidade autorizada ao abrigo do presente artigo, nas situações que implique a realização do período normal de trabalho em dois ou mais serviços ou estabelecimentos de saúde, que distem, entre si, mais de 60 km, confere o direito ao pagamento de ajudas de custo e de transporte, nos termos a definir em portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde, a qual deve incluir o domicílio a considerar para o efeito.
+
+6 - A mobilidade prevista no presente artigo não abrange a consolidação, exceto nos casos previstos na Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, e pela presente lei, estando ainda sujeita a autorização dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública quando envolva simultaneamente entidades sujeitas e não sujeitas ao âmbito de aplicação da referida lei.
+
+7 - Em situações de manifesta carência, suscetíveis de poderem comprometer a regular prestação de cuidados de saúde, podem as administrações regionais de saúde utilizar a mobilidade prevista nos termos dos números anteriores de um trabalhador de e para órgão ou serviço distintos, desde que, ambos, situados na respetiva jurisdição territorial.
+
+8 - O regime previsto nos números anteriores tem natureza imperativa, prevalecendo sobre quaisquer outras normas, especiais ou excecionais, em contrário e sobre instrumentos de regulamentação coletiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Alterado pelo/a Artigo 72.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 71.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Aditado pelo/a Artigo 73.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 22.º-B — Organização do tempo de trabalho no âmbito do Serviço Nacional de Saúde
+
+1 - A realização de trabalho suplementar ou extraordinário no âmbito do SNS não está sujeita a limites máximos quando seja necessária ao funcionamento de serviços de urgência ou de atendimento permanente, não podendo os trabalhadores realizar mais de 48 horas por semana, incluindo trabalho suplementar ou extraordinário, num período de referência de seis meses.
+
+2 - A prestação de trabalho suplementar ou extraordinário e noturno deve, sem prejuízo do cumprimento do período normal de trabalho, garantir o descanso entre jornadas de trabalho, de modo a proporcionar a necessária segurança do doente e do profissional na prestação de cuidados de saúde.
+
+3 - (Revogado).
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Alterado pelo/a Artigo 71.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Aditado pelo/a Artigo 73.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 22.º-C — Procedimentos concursais no âmbito das carreiras da saúde
+
+1 - Sempre que ocorram situações de carência, podem os membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde autorizar a abertura de procedimento de recrutamento, a nível nacional ou regional, para preenchimento de postos de trabalho no âmbito das carreiras especiais aplicáveis aos profissionais de saúde, independentemente da natureza jurídica da relação de emprego a constituir.
+
+2 - Os procedimentos abertos nos termos do número anterior podem estabelecer no respetivo aviso de abertura a obrigatoriedade de permanência mínima de três anos de ocupação de posto de trabalho do mapa de pessoal do serviço ou organismo.
+
+3 - O profissional de saúde que proceda, por sua iniciativa, à resolução do contrato, no decurso dos primeiros três anos de vigência do mesmo, com o serviço ou estabelecimento onde foi colocado nos termos do procedimento concursal referido no número anterior, fica inibido de celebrar novo contrato de trabalho, pelo período de dois anos, com qualquer entidade integrada no SNS.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Aditado pelo/a Artigo 71.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 22.º-D — Incentivos à mobilidade geográfica em zonas carenciadas
+
+1 - Aos trabalhadores médicos com contrato de trabalho por tempo indeterminado, ou a contratar, mediante vínculo de emprego público ou privado, com serviço ou estabelecimento integrado no Serviço Nacional de Saúde situado em zona geográfica qualificada, por despacho dos membros dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde, como zona carenciada, podem ser atribuídos incentivos, com a natureza de suplemento remuneratório ou de caráter não pecuniário.
+
+2 - Os termos e condições de atribuição dos incentivos referidos no número anterior, são fixados por decreto-lei.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Aditado pelo/a Artigo 72.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+### Capítulo IV — Recursos financeiros
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 23.º — Responsabilidade pelos encargos
+
+1 - Além do Estado, respondem pelos encargos resultantes da prestação de cuidados de saúde prestados no quadro do SNS:
+
+a) Os utentes não beneficiários do SNS e os beneficiários na parte que lhes couber, tendo em conta as suas condições económicas e sociais;
+
+b) Os subsistemas de saúde, neles incluídas as instituições particulares de solidariedade social, nos termos dos seus diplomas orgânicos ou estatutários;
+
+c) As entidades que estejam a tal obrigadas por força de lei ou de contrato;
+
+d) As entidades que se responsabilizem pelo pagamento devido pela assistência em quarto particular ou por outra modalidade não prevista para a generalidade dos utentes;
+
+e) Os responsáveis por infracção às regras de funcionamento do sistema ou por uso ilícito dos serviços ou material de saúde.
+
+2 - São isentos de pagamento de encargos os utentes que se encontrem em situações clínicas ou pertençam a grupos sociais de risco ou financeiramente mais desfavorecidos, constantes de relação a estabelecer em decreto-lei.
+
+3 - A demonstração das condições económicas e sociais dos utentes é feita segundo regras a estabelecer em portaria do Ministro da Saúde, podendo ser considerados os elementos definidores da sua situação fiscal.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 24.º — Seguro alternativo de saúde
+
+1 - Podem ser celebrados contratos de seguro por força dos quais as entidades seguradoras assumam, no todo ou em parte, a responsabilidade pela prestação de cuidados de saúde aos beneficiários do SNS.
+
+2 - Os contratos a que se refere o número anterior não podem, em caso algum, restringir o direito de acesso aos cuidados de saúde e devem salvaguardar o direito de opção dos beneficiários, podendo, todavia, responsabilizá-los, de acordo com critérios a definir.
+
+3 - O regime de seguros a que se refere o presente artigo é definido em portaria conjunta dos Ministros das Finanças e da Saúde.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 25.º — Preços dos cuidados de saúde
+
+1 - Os limites mínimos e máximos dos preços a cobrar pelos cuidados prestados no quadro do SNS são estabelecidos por portaria do Ministro da Saúde, tendo em conta os custos reais directos e indirectos e o necessário equilíbrio de exploração.
+
+2 - Os preçários são fixados em cada região de saúde pelo respectivo conselho de administração, dentro dos limites estabelecidos no número anterior.
+
+3 - O Instituto de Gestão Informática e Financeira da Saúde (IGIF) pode celebrar acordos, de âmbito nacional, com as entidades responsáveis pelo pagamento das prestações de saúde, relativos a tabelas de preços e a pagamentos.
+
+4 - As instituições e serviços integrados no Serviço Nacional de Saúde podem estabelecer acordos especiais para a fixação de preços dos cuidados de saúde, os quais só são eficazes após aprovação das respectivas administrações regionais de saúde.
+
+5 - As instituições e serviços integrados no Serviço Nacional de Saúde podem ainda celebrar acordos de pagamentos com as entidades responsáveis pelos encargos relativos à prestação de cuidados de saúde, de acordo com critérios a fixar por despacho do Ministro da Saúde.
+
+6 - A responsabilidade por encargos relativos a prestações de saúde pode ser transferida para entidades públicas ou privadas, mediante uma comparticipação financeira a estabelecer em protocolo com o IGIF, nos termos e montantes a definir em portaria do Ministro da Saúde.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 401/98 - Diário da República n.º 290/1998, Série I-A de 1998-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1998-191553), em vigor a partir de 1998-12-22
+
+###### Artigo 26.º — Cobrança e destino do preço dos cuidados de saúde
+
+1 - A cobrança do preço dos serviços prestados e das taxas moderadoras cabe às instituições e aos serviços que prestam os cuidados de saúde ou às administrações regionais de saúde.
+
+2 - As quantias cobradas constituem receita própria das instituições prestadoras dos cuidados e são inscritas nos orçamentos ou balancetes respectivos.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 27.º — Despesas do SNS
+
+1 - O funcionamento das ARS é assegurado pelo orçamento do SNS.
+
+2 - Constituem encargos do SNS as verbas destinadas ao funcionamento de escolas e institutos dedicados à formação de profissionais de saúde e à investigação, desde que funcionem no âmbito do Ministério da Saúde.
+
+3 - Os recursos necessários à instalação e ao funcionamento das autoridades de saúde são assegurados pelas ARS.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+### Capítulo V — Contrato de gestão, convenção e contrato-programa
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 28.º — Gestão de instituições e serviços do SNS por outras entidades
+
+1 - A gestão de instituições e serviços do SNS pode ser entregue a outras entidades mediante contrato de gestão ou a grupo de médicos em regime de convenção.
+
+2 - Através do contrato de gestão o Ministro da Saúde pode autorizar a entrega da gestão de instituições e serviços de saúde integrados no SNS, ou parte funcionalmente autónoma, a entidades públicas ou privadas, com a faculdade de realizar obras ou adquirir equipamentos, mediante a retribuição das prestações de saúde.
+
+3 - O conjunto de cláusulas a que, em regime de convenção, deve obedecer a gestão de instituições e serviços ou a prestação de cuidados de saúde no âmbio do SNS por grupos de médicos, mediante a retribuição das prestações de saúde, é aprovado por portaria do Ministro da Saúde.
+
+4 - As instituições e serviços de saúde geridos nos termos dos números anteriores integram-se no SNS, estando as entidades gestoras obrigadas a assegurar o acesso às prestações de saúde nos termos dos demais estabelecimentos.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 185/2002 - Diário da República n.º 191/2002, Série I-A de 2002-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2002-171692), em vigor a partir de 2002-08-25
+
+###### Artigo 29.º — Contrato de gestão
+
+1 - A celebração do contrato de gestão é precedida de concurso público.
+
+2 - Quando o interesse público ou a natureza da instituição ou do serviço de saúde o exija, ou quando sejam necessárias especiais garantias relativas à entidade gestora, pode, a título excepcional, a entrega ser feita por ajuste directo, mediante resolução do Conselho de Ministros.
+
+3 - O contrato de gestão deve definir, obrigatoriamente:
+
+a) A instituição ou serviço de saúde objecto do contrato;
+
+b) As prestações de saúde que a instituição ou serviço devem garantir;
+
+c) As obras a realizar pela entidade gestora para a exploração da instituição ou serviço;
+
+d) Forma e prazos de pagamento à entidade gestora, incluindo eventuais subsídios para os fins previstos no presente diploma;
+
+e) Prazo de entrega e possibilidade de renovação;
+
+f) As obrigações da entidade gestora relativamente à manutenção do serviço de saúde;
+
+g) Garantias para o Estado do cumprimento do contrato;
+
+h) Sanções para a inexecução do contrato por parte da entidade gestora;
+
+i) Formas de extinção do contrato, incluindo a rescisão unilateral por imperativo de interesse público.
+
+4 - O programa do concurso e o caderno de encargos tipo são aprovados por portaria do Ministro da Saúde.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 185/2002 - Diário da República n.º 191/2002, Série I-A de 2002-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2002-171692), em vigor a partir de 2002-08-25
+
+###### Artigo 30.º — Gestão por grupos de médicos em regime de convenção
+
+1 - É aplicável à convenção o disposto quanto ao contrato de gestão, com as especificidades decorrentes dos números seguintes.
+
+2 - A convenção deve ser estabelecida com os médicos que exercem funções na instituição ou serviço de saúde, mediante adesão individual.
+
+3 - Por despacho do Ministro da Saúde, é fixado o número mínimo de médicos que para cada estabelecimento devem aderir à convenção, sendo aplicável ao restante pessoal que não aceite a convenção o disposto no artigo 32.º
+
+4 - Em casos excepcionais, reconhecidos por despacho do Ministro da Saúde, podem aderir à convenção médicos não pertencentes ao estabelecimento de saúde.
+
+5 - Podem aderir à convenção outros profissionais de saúde que acordem com os médicos a sua participação, em termos a definir no despacho que autorize a convenção.
+
+6 - Os médicos que assegurem a gestão de um serviço de saúde em regime de convenção devem constituir, para esse efeito, uma pessoa colectiva, sob qualquer das formas previstas na lei.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 185/2002 - Diário da República n.º 191/2002, Série I-A de 2002-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2002-171692), em vigor a partir de 2002-08-25
+
+###### Artigo 31.º — Regime
+
+1 - As entidades gestoras regem-se nas suas relações com terceiros por regras de direito privado.
+
+2 - A ARS é responsável pelo pagamento dos cuidados de saúde prestados aos seus beneficiários, de acordo com as tabelas de preços fixadas para a respectiva região nos termos do artigo 25.º ou com tabelas específicas a aprovar por despacho do Ministro da Saúde.
+
+3 - Sem prejuízo da celebração de acordos específicos, a entidade gestora pode facturar, nos mesmos termos das outras instituições ou serviços do SNS, a entidades públicas ou privadas responsáveis legal ou contratualmente pelo pagamento de cuidados de saúde, nomeadamente subsistemas de saúde ou entidades seguradoras.
+
+4 - O Estado ou outra pessoa colectiva pública pode subsidiar a entidade gestora para os seguintes fins:
+
+a) Renovação de equipamentos e remodelação de instalações;
+
+b) Investigação científica;
+
+c) Formação profissional.
+
+5 - Os bens adquiridos pela entidade gestora nos termos da alínea a) do número anterior revertem para o Estado findo o contrato, sem prejuízo do direito a compensação relativamente à parte não subsidiada.
+
+6 - São da responsabilidade da entidade gestora todas as despesas motivadas pela prática de actos de administração ordinária indispensáveis ao normal funcionamento e conservação do estabelecimento.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 185/2002 - Diário da República n.º 191/2002, Série I-A de 2002-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2002-171692), em vigor a partir de 2002-08-25
+
+###### Artigo 32.º — Pessoal
+
+Sem prejuízo do disposto nos artigos 21.º e 22.º, o pessoal com relação jurídica de emprego na Administração Pública que confira a qualidade de funcionário ou agente e exerça funções na instituição ou serviço de saúde entregue à gestão de outras entidades mantém o vínculo à função pública, com os direitos e deveres inerentes, devendo ser remunerado pela entidade gestora.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 33.º — Convenção com grupos de médicos para a prestação de cuidados
+
+1 - Podem ser estabelecidas convenções com grupos de médicos para assegurarem, no âmbito do SNS, a prestação de cuidados de saúde em determinada área geográfica.
+
+2 - O grupo de médicos em regime de convenção que apenas assegure a prestação de cuidados de saúde no âmbito do SNS deve designar um de entre eles como representante comum para exercer os direitos e obrigações que derivam da aceitação, no caso de não constituírem pessoa colectiva para o efeito.
+
+3 - Os cuidados de saúde prestados são pagos nos termos do artigo 25.º, devendo a convenção fixar uma contraprestação pela utilização das instalações e pessoal da instituição ou serviço.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 34.º — Contratos-programa
+
+1 - O Ministro da Saúde pode autorizar a celebração de contratos-programa entre ARS e autarquias locais, misericórdias ou outras instituições particulares de solidariedade social, com vista a recuperar e a gerir instituições ou serviços prestadores de cuidados de saúde.
+
+2 - É aplicável a estes contratos o disposto na lei quanto aos contratos-programa de cooperação técnica e financeira entre a administração central e as autarquias, com excepção das disposições referentes às comissões de coordenação regional e aos planos municipais de ordenamento do território.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+### Capítulo VI — Articulação do SNS com outras entidades
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 35.º — Cooperação entre o SNS e instituições ou serviços de segurança social
+
+1 - As instituições ou serviços do SNS e os da segurança social devem cooperar nos programas e acções que envolvam a protecção social das populações em risco ou carência.
+
+2 - São áreas preferenciais de cooperação, entre outras:
+
+a) Programas gerais de promoção da saúde, prevenção e tratamento da doença, em especial quanto a idosos, deficientes e pessoas em situação de dependência e apoio à maternidade;
+
+b) Programas coordenados de acção social e saúde nas grandes aglomerações urbanas;
+
+c) Prevenção, prestação de cuidados e reabilitação das doenças da área laboral.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 36.º — Cooperação no ensino e na investigação científica
+
+As instituições e os serviços devem facultar aos estabelecimentos de ensino dependentes dos Ministérios da Justiça, da Educação e da Saúde campos de prática profissional, de demonstração e de investigação científica, mediante protocolos que estabeleçam a forma de colaboração, as obrigações e prestações mútuas e a repartição dos encargos financeiros ou outros resultantes daquela colaboração.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 37.º — Articulação do SNS com actividades particulares
+
+1 - A articulação do SNS com as actividades particulares de saúde faz-se nos termos seguintes:
+
+a) No planeamento da cobertura do território pelo SNS podem ser reservadas quotas para o exercício das actividades particulares;
+
+b) Os médicos do SNS com actividade liberal podem assistir os doentes privados nos estabelecimentos oficiais, em condições a estabelecer em diploma próprio;
+
+c) As ARS podem celebrar contratos ou convenção com médicos não pertencentes ao SNS ou com pessoas colectivas privadas para a prestação de cuidados aos seus utentes.
+
+2 - Os estabelecimentos privados e os profissionais de saúde que trabalhem em regime liberal e que contratem nos termos do número anterior integram-se na rede nacional de prestação de cuidados de saúde e ficam obrigados:
+
+a) A receber e cuidar dos utentes, em função do grau de urgência, nos termos dos contratos que hajam celebrado;
+
+b) A cuidar dos doentes com oportunidade e de forma adequada à situação;
+
+c) A cumprir as orientações emitidas pelas ARS.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 97/98 - Diário da República n.º 91/1998, Série I-A de 1998-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1998-174849), em vigor a partir de 1998-04-23
+
+###### Artigo 38.º — Poderes de fiscalização do Estado
+
+1 - Os poderes de fiscalização do Estado quanto a instituições, serviços e estabelecimentos prestadores de cuidados de saúde visam a garantia de qualidade desses cuidados.
+
+2 - As unidades privadas de saúde estão sujeitas a licenciamento e fiscalização, nos termos de legislação própria.
+
+3 - Deve ser estabelecido um sistema regular de auditoria médica e administrativa para avaliar a qualidade dos cuidados, cabendo ao Ministro da Saúde aprovar, por portaria, normas de qualidade das prestações, sem prejuízo das funções que estejam cometidas por lei à Ordem dos Médicos e à Ordem dos Farmacêuticos.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05
+
+###### Artigo 39.º — Assistência religiosa
+
+1 - É garantido aos utentes do SNS de qualquer confissão o acesso dos respectivos ministros às instituições e serviços onde estejam a receber cuidados para aí lhes prestarem assistência religiosa.
+
+2 - A assistência religiosa aos utentes de confissão católica é assegurada por capelães ou assistentes religiosos laicos, nos termos da legislação própria, a elaborar ouvida a Conferência Episcopal Portuguesa.
+
+> Revogado pelo/a Artigo 105.º do/a [Decreto-Lei n.º 52/2022 - Diário da República n.º 150/2022, Série I de 2022-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), em vigor a partir de 2022-08-05

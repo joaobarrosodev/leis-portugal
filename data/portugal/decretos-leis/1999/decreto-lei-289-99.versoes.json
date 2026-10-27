@@ -1,0 +1,735 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:346078:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-115343308",
+ "dre_path": "/dr/detalhe/decreto-lei/289-1999-346078",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115346512",
+    "115346513",
+    "115346514",
+    "115346515",
+    "115346516",
+    "115346517",
+    "115346518",
+    "115346519",
+    "115346520",
+    "115346521",
+    "115346522",
+    "115346523",
+    "115346524",
+    "115346525",
+    "115346526",
+    "115346527",
+    "115346528",
+    "115346529",
+    "115346530",
+    "115346531",
+    "115346532",
+    "115346533",
+    "115346534",
+    "115346535",
+    "115346536",
+    "115346537",
+    "115346538",
+    "115346539",
+    "115346540",
+    "115346541",
+    "115346542",
+    "115346543",
+    "115346544",
+    "115346545",
+    "115346546",
+    "115346547",
+    "115346548",
+    "115346549",
+    "115346550",
+    "115346551",
+    "115346552",
+    "115346553",
+    "115346554",
+    "115346555",
+    "115346556",
+    "115346557",
+    "115346558",
+    "115346559",
+    "115346560",
+    "115346561",
+    "115346562",
+    "115346563",
+    "115346564",
+    "115346565",
+    "115346566",
+    "115346567",
+    "115346568",
+    "115346569",
+    "115346570",
+    "115346571",
+    "115346572",
+    "115346573",
+    "115346574",
+    "115352875",
+    "115352876",
+    "115352878",
+    "115352879",
+    "115352880"
+   ]
+  },
+  {
+   "date": "2003-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423653:por",
+     "title": "Decreto-Lei n.º 322/2003",
+     "published": "2003-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/322-2003-423653"
+    }
+   ],
+   "changes": [
+    "Altera Anexo C"
+   ],
+   "fragments": [
+    "115346512",
+    "115346513",
+    "115346514",
+    "115346515",
+    "115346516",
+    "115346517",
+    "115346518",
+    "115346519",
+    "115346520",
+    "115346521",
+    "115346522",
+    "115346523",
+    "115346524",
+    "115346525",
+    "115346526",
+    "115346527",
+    "115346528",
+    "115346529",
+    "115346530",
+    "115346531",
+    "115346532",
+    "115346533",
+    "115346534",
+    "115346535",
+    "115346536",
+    "115346537",
+    "115346538",
+    "115346539",
+    "115346540",
+    "115346541",
+    "115346542",
+    "115346543",
+    "115346544",
+    "115346545",
+    "115346546",
+    "115346547",
+    "115346548",
+    "115346549",
+    "115346550",
+    "115346551",
+    "115346552",
+    "115346553",
+    "115346554",
+    "115346555",
+    "115346556",
+    "115346557",
+    "115346558",
+    "115346559",
+    "115346560",
+    "115346561",
+    "115346562",
+    "115346563",
+    "115346564",
+    "115346565",
+    "115346566",
+    "115346567",
+    "115346568",
+    "115346569",
+    "115346570",
+    "115346571",
+    "115346572",
+    "115346573",
+    "115346574",
+    "115352875",
+    "115352876",
+    "115352877",
+    "115352878",
+    "115352879",
+    "115352888"
+   ]
+  }
+ ],
+ "fragments": {
+  "115346512": {
+   "fragment_id": "115343309",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 289/99\n\nde 29 de Julho\n\nO Decreto-Lei n.º 440/89, de 27 de Dezembro, aprovou o Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, diploma regulamentador da matéria relativa aos aditivos na alimentação animal após a adesão do País à Comunidade Económica Europeia.\n\nDecorridos praticamente 10 anos sobre a sua publicação, importa adequá-lo às novas exigências constantes da regulamentação comunitária, tendo em vista a melhoria da salvaguarda da defesa da saúde humana, animal e do meio ambiente.\n\nO presente diploma finaliza um novo quadro legislativo no domínio da alimentação animal, quadro esse constituído igualmente pelos diplomas que estabelecem os princípios relativos à organização dos controlos no domínio da alimentação animal, as condições e regras aplicáveis à aprovação e ao registo de certos estabelecimentos e intermediários no sector da alimentação animal, bem como do diploma relativo à colocação em circulação das matérias-primas para alimentação animal.\n\nAssim, na sequência da aplicação do Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, concluiu-se que deveriam ser revistos alguns conceitos fundamentais no sentido de se garantir, de forma mais adequada, a defesa da saúde animal, da saúde humana e do ambiente.\n\nFace à evolução dos conhecimentos científicos e técnicos, é conveniente completar a lista das definições e alterar algumas delas, pelo que é considerado necessário precisar a noção de aditivo, de modo a ter em conta, igualmente, a influência que os mesmos possam ter nas matérias-primas para alimentação animal, nos produtos animais, no bem-estar dos animais ou no meio ambiente.\n\nA experiência comunitária sobre a matéria demonstrou que as autorizações dos aditivos através de directivas gerava atrasos consideráveis em virtude da necessidade da sua transposição no ordenamento jurídico dos Estados membros, atrasos esses que criavam distorções de concorrência e nalguns casos originavam entraves às trocas comerciais, pelo que para solucionar esta situação se optou pela autorização dos aditivos através da forma de regulamento comunitário.\n\nPela análise dos processos de autorização de aditivos pertencentes a determinados grupos são devidas taxas que, com a finalidade de evitar distorções de concorrência, deverão respeitar as disposições comunitárias relativas às taxas a cobrar no domínio da alimentação animal, devendo ser cobradas no momento da apresentação do processo ao Estado membro relator.\n\nA instauração do sistema de taxas deve ter como contrapartida a garantia de que as decisões sobre os pedidos de autorização de colocação em circulação dos aditivos serão tomadas dentro de determinados prazos preestabelecidos.\n\nNo sentido de se pôr termo às disparidades entre Estados membros, ligadas ao sistema de admissão no respectivo território dos aditivos inscritos no anexo II da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, julga-se conveniente alargar a toda a Comunidade a autorização provisória dos aditivos que satisfaçam um mínimo de condições.\n\nEssas autorizações provisórias passarão a definitivas para determinados aditivos, ou são válidas por um período de 10 anos para outros aditivos, desde que estejam preenchidas todas as condições de elegibilidade, o que terá de acontecer o mais tardar quando caducar a autorização provisória.\n\nDe modo a tornar funcional e compatível com as exigências do mercado a aplicação prática do presente diploma, considera-se indispensável a institucionalização de um regime transitório entre o sistema criado pelo Decreto-Lei n.º 440/89, de 27 de Dezembro, e o novo sistema de autorização criado pelo actual diploma, pelo que é imperioso antecipar a data de entrada em vigor das disposições relativas a este novo regime.\n\nPor razões de clareza e transparência, devido à supressão dos anexos I e II da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, com as inevitáveis repercussões a nível do ordenamento jurídico nacional, torna-se necessário que a Comissão da União Europeia publique anualmente no Jornal Oficial das Comunidades Europeias a lista dos responsáveis pela colocação em circulação dos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e dos factores de crescimento, a lista dos produtores que tenham recebido do beneficiário de uma autorização o direito do fabrico dos referidos aditivos, bem como a lista de todos os aditivos autorizados.\n\nTendo em atenção que a partir da entrada em vigor do presente diploma as autorizações dos aditivos em alimentação animal passam a ser conferidas através de regulamento comunitário, julga-se pois conveniente, por razões de informação e transparência, publicar trienalmente a lista consolidada de todos os aditivos autorizados em alimentação animal.\n\nPor último, importa transpor para o direito interno as disposições comunitárias constantes da Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0051\" title=\"Link para Directiva da Comunidade Europeia\">96/51/CE</a>, do Conselho, de 23 de Julho, relativa aos aditivos na alimentação animal, bem como as disposições aplicáveis constantes dos n.os 1 e 2 do artigo 1.º da Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0020\" title=\"Link para Directiva da Comunidade Europeia\">1999/20/CE</a>, do Conselho, de 22 de Março.\n\nForam ouvidos os órgãos próprios do Governo das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "115346513": {
+   "fragment_id": "115343310",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito de aplicação e definições"
+  },
+  "115346514": {
+   "fragment_id": "115343311",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente diploma regulamenta a aprovação, colocação em circulação e utilização de aditivos nos alimentos para animais.\n\n2 - O presente diploma não se aplica aos adjuvantes tecnológicos utilizados voluntariamente como substâncias na transformação de matérias-primas para alimentação animal ou de alimentos para animais para atingir determinado objectivo tecnológico durante o tratamento ou transformação e que possam ter como resultado a presença não intencional mas tecnicamente inevitável de resíduos dessas substâncias ou de derivados das mesmas no produto acabado, na condição de que esses resíduos não apresentem qualquer risco para a saúde pública e não produzam efeitos tecnológicos no produto acabado.\n\n3 - Não são consideradas aditivos as substâncias presentes no seu estado natural nas matérias-primas para alimentação animal que entrem na composição normal dos alimentos para animais e que correspondam a uma substância permitida pelo presente diploma desde que não se trate de produtos especialmente enriquecidos com substâncias correspondentes a um aditivo."
+  },
+  "115346515": {
+   "fragment_id": "115343312",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\n1) Aditivos - as substâncias ou preparados utilizados na alimentação para animais a fim de:\n\na) Influenciar favoravelmente as características das matérias-primas para alimentação animal ou dos alimentos compostos para animais ou dos produtos animais; ou\n\nb) Satisfazer as necessidades nutricionais dos animais ou melhorar a produção animal, nomeadamente influenciando a flora intestinal ou a digestibilidade dos alimentos para animais; ou\n\nc) Introduzir na alimentação elementos favoráveis para atingir objectivos nutricionais específicos ou para corresponder a necessidades nutricionais específicas momentâneas dos animais; ou\n\nd) Prevenir ou reduzir os incómodos provocados pelos dejectos dos animais ou melhorar o ambiente dos animais:\n\ni) Microrganismos - os microrganismos que formam colónias;\n\nii) Aditivos sujeitos a uma autorização que vincula o responsável pela colocação em circulação - os aditivos referidos no anexo C, parte I;\n\niii) Outros aditivos - os aditivos não sujeitos a uma autorização que vincula o responsável pela colocação em circulação referidos no anexo C, parte II;\n\n2) Pré-misturas - as misturas de aditivos entre si ou as misturas de um ou vários aditivos em excipiente apropriado destinadas ao fabrico de alimentos para animais;\n\n3) Alimentos para animais - os produtos de origem vegetal ou animal no estado natural, frescos ou conservados, e os derivados da sua transformação industrial, bem como as substâncias orgânicas ou inorgânicas, simples ou em misturas, contendo ou não aditivos destinados à alimentação animal por via oral;\n\n4) Matérias-primas para alimentação animal - os diversos produtos de origem vegetal ou animal no seu estado natural, frescos ou conservados, bem como os produtos derivados da sua transformação industrial e as substâncias orgânicas ou inorgânicas, com ou sem aditivos, destinadas a ser utilizados na alimentação animal por via oral, quer directamente, sem transformação, quer, após transformação, na preparação de alimentos compostos para animais ou como suportes em pré-misturas;\n\n5) Alimentos compostos para animais - as misturas de produtos de origem vegetal ou animal no estado natural, frescos ou conservados, ou os derivados da sua transformação industrial, ou de substâncias orgânicas ou inorgânicas, contendo ou não aditivos, destinadas à alimentação animal por via oral, sob a forma de alimentos completos ou complementares;\n\n6) Alimentos completos para animais - as misturas de alimentos que, pela sua composição, são suficientes para assegurar a ração diária;\n\n7) Alimentos complementares para animais - as misturas de alimentos contendo teores de certas substâncias e que, pela sua composição, não asseguram a ração diária senão quando associadas a outros alimentos para animais;\n\n8) Ração diária - a quantidade total de alimentos, referida a um teor de humidade de 12% necessária, em média, por dia a um animal de uma espécie, idade, função e rendimento zootécnico bem definidos, para satisfazer o conjunto das suas necessidades;\n\n9) Animais - os animais pertencentes a espécies normalmente alimentadas e detidas ou consumidas pelo homem;\n\n10) Animais de companhia - os animais pertencentes a espécies normalmente alimentadas e detidas mas não consumidas pelo homem, à excepção dos animas produtores de peles;\n\n11) Colocação em circulação ou circulação - a detenção de produtos para efeitos de venda, incluindo a oferta, ou qualquer outra forma de transferência para terceiros, gratuita ou não, bem como a própria venda e as outras formas de transferência;\n\n12) Responsável pela colocação em circulação - a pessoa singular ou colectiva que assume a responsabilidade pela conformidade do aditivo sujeito a autorização comunitária e pela sua colocação em circulação;\n\n13) Estabelecimento - qualquer unidade de produção ou de fabrico de aditivos, de pré-misturas preparadas a partir de aditivos, de alimentos compostos ou de produtos proteicos obtidos a partir de microrganismos pertencentes aos grupos das bactérias, leveduras, algas, fungos inferiores (bolores), com excepção das leveduras cultivadas em substratos de origem animal ou vegetal, co-produtos do fabrico de ácidos aminados por fermentação, ácidos aminados e seus sais e análogos hidroxilados dos ácidos aminados;\n\n14) Intermediário - qualquer pessoa que não o fabricante de alimentos compostos nem quem os fabrique para satisfazer exclusivamente as necessidades da sua exploração, que detenha aditivos, pré-misturas preparadas a partir de aditivos, ou de produtos proteicos obtidos a partir de microrganismos pertencentes aos grupos das bactérias, leveduras, algas, fungos inferiores (bolores), com excepção das leveduras cultivadas em substratos de origem animal ou vegetal, co-produtos do fabrico de ácidos aminados por fermentação, ácidos aminados e seus sais e análogos hidroxilados dos ácidos aminados, numa fase intermediária entre a produção e a utilização;\n\n15) Produto - o alimento para animais ou qualquer substância utilizada na sua alimentação;\n\n16) Autoridade nacional competente - a Direcção-Geral de Veterinária (DGV), a quem compete coordenar a execução das disposições do presente diploma."
+  },
+  "115346516": {
+   "fragment_id": "115343313",
+   "type": 1,
+   "heading": "Capítulo II — Adopção dos anexos e suas alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Adopção dos anexos e suas alterações"
+  },
+  "115346517": {
+   "fragment_id": "115343314",
+   "type": 11,
+   "heading": "Artigo 3.º — Adopção dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Adopção dos anexos\n\n1 - Para efeitos do presente decreto-lei, são adoptados os anexos A, B e C ao presente diploma, que dele fazem parte integrante.\n\n2 - No âmbito da alimentação animal só os aditivos que constam dos anexos B e C ao presente diploma, do qual fazem parte integrante, inscritos respectivamente nos capítulos I, II e III e nas partes I e II, e os que forem autorizados através de um regulamento comunitário, nos teores e demais condições de utilização aí indicados, podem ser colocados em circulação e utilizados em pré-misturas e alimentos para animais e, quando incorporados nestes, desde que cumpram as condições previstas nos referidos anexos ou no regulamento comunitário de aprovação."
+  },
+  "115346518": {
+   "fragment_id": "115343315",
+   "type": 11,
+   "heading": "Artigo 4.º — Alterações dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alterações dos anexos\n\nOs anexos referidos no n.º 1 do artigo anterior podem ser alterados em função da evolução dos conhecimentos científicos e técnicos."
+  },
+  "115346519": {
+   "fragment_id": "115343316",
+   "type": 1,
+   "heading": "Capítulo III — Processo de autorização de aditivos, registo, revogação da autorização e autorizações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Processo de autorização de aditivos, registo, revogação da autorização e autorizações especiais"
+  },
+  "115346520": {
+   "fragment_id": "115343317",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo centralizado de autorização comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo centralizado de autorização comunitária\n\n1 - Nenhum aditivo pode ser colocado em circulação sem que detenha uma autorização comunitária.\n\n2 - A autorização referida no número anterior é concedida através de um regulamento da União Europeia a publicar no Jornal Oficial das Comunidades Europeias."
+  },
+  "115346521": {
+   "fragment_id": "115343318",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de elegibilidade de um aditivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de elegibilidade de um aditivo\n\nA autorização comunitária de um aditivo só pode ser concedida desde que o aditivo preencha cumulativamente os seguintes requisitos:\n\na) Quando utilizado na alimentação dos animais, produza um dos efeitos referidos na alínea a) do artigo 2.º;\n\nb) Tendo em conta as condições de utilização, não tenha influência negativa na saúde humana, na saúde animal ou no meio ambiente e não cause prejuízo ao consumidor, alterando as características dos produtos animais;\n\nc) Seja controlável:\n\ni) Enquanto aditivo propriamente dito;\n\nii) Nas pré-misturas;\n\niii) Nos alimentos ou, eventualmente, nas matérias-primas para alimentação animal;\n\nd) Os teores de incorporação previstos nas condições de utilização excluam a finalidade terapêutica ou profiláctica, condição que não se aplica às substâncias que se incluem no grupo dos coccidiostáticos e outras substâncias de efeitos específicos;\n\ne) Por sérias razões respeitantes à saúde pública ou animal o aditivo não esteja reservado ao uso médico ou veterinário."
+  },
+  "115346522": {
+   "fragment_id": "115343319",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação, análise e tramitação dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação, análise e tramitação dos processos\n\n1 - Tendo em vista a obtenção da autorização comunitária para uma substância ou um preparado enquanto aditivo, ou no caso de aditivos já autorizados para uma nova utilização, o requerente apresentará o processo devidamente organizado nos termos da Portaria n.º 69/97, de 29 de Janeiro, escolhendo um Estado membro como relator para elaborar o relatório de avaliação, por ocasião do procedimento de análise, sobre o processo por si organizado.\n\n2 - Caso o requerente esteja estabelecido num país terceiro, deve obrigatoriamente dispor de um representante na Comunidade.\n\n3 - A autoridade do Estado membro relator verificará, relativamente ao processo, o seguinte:\n\na) Se o mesmo foi organizado nos termos da Directiva n.º <a href=\"eurlex.asp?ano=1987&id=387L0153\" title=\"Link para Directiva da Comunidade Europeia\">87/153/CEE</a>, do Conselho, de 16 de Fevereiro de 1987, que fixa as linhas directrizes para a avaliação dos aditivos na alimentação animal, transposta para o direito interno pela Portaria n.º 69/97, de 29 de Janeiro;\n\nb) Se dos dados constantes do processo, a substância ou o preparado parecem satisfazer as condições de elegibilidade previstas nas alíneas a), b), c), d) e e) do artigo anterior.\n\n4 - O requerente da autorização comunitária transmitirá à Comissão da União Europeia, por intermédio da autoridade competente do Estado membro relator, um pedido de autorização acompanhado do processo com cópia para as autoridades competentes dos outros Estados membros, que deverão acusar a sua recepção o mais rapidamente possível.\n\n5 - A transmissão referida no número anterior será feita no prazo máximo de um ano a contar da data de apresentação do processo do requerente na autoridade competente do Estado relator, salvo recusa ou adiamento.\n\n6 - Em caso de recusa ou adiamento do processo, a autoridade competente do Estado membro relator informará o requerente, as outras autoridades competentes dos restantes Estados membros e a Comissão da União Europeia dos motivos que os justificaram.\n\n7 - A autoridade competente do Estado membro dispõe de um prazo de 60 dias a contar da data em que o processo lhe foi transmitido para verificar se o mesmo foi organizado nos termos da Portaria n.º 69/97, de 29 de Janeiro, e, se for caso disso, para enviar à Comissão da União Europeia e às autoridades competentes dos outros Estados membros as suas observações por escrito.\n\n8 - Se, findo o prazo referido no número anterior, não tiver sido formulada qualquer objecção, o representante da União Europeia dispõe de um prazo de 30 dias para inscrever o pedido de autorização na ordem do dia do Comité Permanente dos Alimentos para Animais a funcionar junto da Comissão da União Europeia.\n\n9 - Se, após consulta do Comité Permanente dos Alimentos para Animais, a funcionar junto da Comissão da União Europeia, se entender que não foram respeitadas as regras de apresentação do processo, o representante da Comissão da União Europeia informará do facto o requerente da autorização de colocação em circulação, bem como a autoridade competente do Estado membro relator e, se for necessário, deve ser apresentado novo pedido nos termos definidos nos n.os 1, 2, 3 e 4 do presente artigo.\n\n10 - A contar da inscrição do pedido de autorização na ordem do dia do Comité Permanente de Alimentos para Animais, a Comissão da União Europeia deve deliberar sobre o mesmo no prazo de 320 dias, em conformidade com o disposto no n.º 8 do presente artigo.\n\n11 - O período referido no número anterior será interrompido se forem pedidas informações complementares por um Estado membro no Comité Permanente de Alimentos para Animais ou a pedido do Comité Científico de Alimentação Animal.\n\n12 - Caso o pedido de autorização comunitária de um aditivo seja recusado ou adiado, a Comissão da União Europeia, através de um seu representante, informará o requerente da autorização e o Estado membro relator das razões que o justificaram.\n\n13 - A pedido da Comissão da União Europeia, a autoridade competente do Estado membro relator assegurará que a totalidade ou parte do processo referido no presente artigo seja transmitida oficialmente aos membros do Comité Científico de Alimentação Animal, enquanto suporte científico da mesma."
+  },
+  "115346523": {
+   "fragment_id": "115343320",
+   "type": 11,
+   "heading": "Artigo 8.º — Alterações a introduzir à Portaria n.º 69/97, de 29 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alterações a introduzir à Portaria n.º 69/97, de 29 de Janeiro\n\nA Portaria n.º 69/97, de 29 de Janeiro, será alterada tendo em conta a evolução dos conhecimentos científicos e técnicos, bem como o disposto no artigo 14.º, de acordo com o n.º 1 do artigo 19.º, no n.º 3 do artigo 20.º e nos n.os 1, 2, 3 e 4 do artigo 31.º do presente diploma."
+  },
+  "115346524": {
+   "fragment_id": "115343321",
+   "type": 11,
+   "heading": "Artigo 9.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Confidencialidade\n\n1 - São mantidas confidenciais as informações constantes do processo de avaliação cuja divulgação pode prejudicar os direitos de propriedade industrial e comercial.\n\n2 - A confidencialidade referida no número anterior não se aplica:\n\na) Às designações e à composição do aditivo;\n\nb) Às propriedades físico-químicas e biológicas do aditivo;\n\nc) À interpretação dos dados farmacológicos, toxicológicos e ecotoxicológicos do aditivo;\n\nd) Aos métodos de análise para controlo do próprio aditivo e do aditivo nas pré-misturas nos alimentos e, se necessário, nas matérias-primas para alimentação animal;\n\ne) Aos métodos de controlo dos resíduos do aditivo ou dos seus metabolitos nos produtos animais."
+  },
+  "115346525": {
+   "fragment_id": "115343322",
+   "type": 11,
+   "heading": "Artigo 10.º — Aditivos contendo ou sendo constituídos por organismos geneticamente modificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aditivos contendo ou sendo constituídos por organismos geneticamente modificados\n\n1 - Quando um aditivo contenha ou seja constituído por organismos geneticamente modificados na acepção da alínea a) do n.º 2.º da Portaria n.º 751/94, de 16 de Agosto, relativa à libertação deliberada no ambiente de organismos geneticamente modificados, deve ser efectuada uma avaliação específica dos riscos para o ambiente idêntica à prevista no referido diploma.\n\n2 - Para o efeito da avaliação referida no número anterior o processo a apresentar, nos termos do artigo 7.º do presente decreto-lei, deverá incluir os seguintes documentos com a finalidade de garantir a observância dos princípios de elegibilidade dos aditivos previstos no artigo 6.º:\n\na) Cópia de todas as autorizações, por escrito, das autoridades competentes relativas à libertação voluntária no ambiente de organismos geneticamente modificados para fins de investigação e desenvolvimento, nos termos do artigo 7.º do Decreto-Lei n.º 126/93, de 20 de Abril, bem como dos resultados dessa(s) disseminação(ões) no ambiente atendendo ao eventual risco para a saúde pública e para o ambiente;\n\nb) O processo técnico completo, incluindo as informações exigidas nos termos do anexo II da Portaria n.º 751/94, de 16 de Agosto, bem como a avaliação dos riscos para o ambiente realizada com base nessas informações e os resultados de todos os estudos efectuados para fins de investigação e de desenvolvimento.\n\n3 - Os artigos 11.º, 12.º, 13.º, 14.º e 15.º do Decreto-Lei n.º 126/93, de 20 de Abril, e os artigos 7.º, 8.º, 9.º e 10.º do Decreto-Lei n.º 63/99, de 2 de Março, não são aplicáveis aos aditivos que contenham ou sejam constituídos por organismos geneticamente modificados."
+  },
+  "115346526": {
+   "fragment_id": "115343323",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo\n\n1 - A autorização dos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento inclui a atribuição de um ou mais números de registo ao responsável ou responsáveis pela colocação em circulação e de um número de registo CE do aditivo.\n\n2 - A autorização dos aditivos pertencentes aos grupos dos antioxidantes, aromatizantes e apetentes, emulcionantes, estabilizantes, espessantes e gelificantes, corantes, incluindo os pigmentos, conservantes, vitaminas, provitaminas e substâncias de efeito análogo quimicamente bem definidas, oligoelementos, aglomerantes, aglutinantes e coagulantes, reguladores de acidez, enzimas, microrganismos e ligantes de radionuclídeos, inclui a atribuição de um número de registo CE."
+  },
+  "115346527": {
+   "fragment_id": "115343324",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação da autorização\n\n1 - A autorização de um aditivo será retirada através de regulamento comunitário se se verificar uma das situações previstas nas alíneas seguintes:\n\na) No caso dos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento, o responsável pela colocação em circulação do aditivo apresentar um pedido nesse sentido;\n\nb) Deixar de ser satisfeita uma das condições associadas à autorização do aditivo referidas no artigo 6.º;\n\nc) Não tiver sido fornecida uma amostra padrão do aditivo às autoridades oficiais que a tenham solicitado ou se o aditivo colocado em circulação não corresponder à amostra padrão do aditivo autorizado;\n\nd) Não tiver sido fornecida uma amostra de referência da substância activa às autoridades oficiais que a tenham solicitado;\n\ne) O responsável pela colocação no mercado não fornecer, num prazo determinado, as informações solicitadas por um responsável da Comissão da União Europeia.\n\n2 - O aditivo ao qual foi retirada a autorização comunitária, conforme previsto no número anterior, pode continuar a ser autorizado, para efeitos de escoamento, durante o período máximo de um ano, se continuarem a ser satisfeitas, pelo menos, as condições previstas nas alíneas b) e e) do artigo 6.º"
+  },
+  "115346528": {
+   "fragment_id": "115343325",
+   "type": 11,
+   "heading": "Artigo 13.º — Monografia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Monografia\n\n1 - Relativamente aos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento e em conformidade com o disposto na Portaria n.º 69/97, de 29 de Janeiro, o requerente da autorização comunitária deve obrigatoriamente apresentar uma monografia dos aditivos em causa.\n\n2 - Aquando do processo de autorização comunitária dos aditivos pertencentes aos grupos referidos no número anterior, o Comité Permanente dos Alimentos para Animais, a funcionar junto da Comissão da União Europeia, emitirá um parecer sobre a monografia do aditivo, apresentada no processo previsto no artigo 7.º do presente diploma, eventualmente após terem sido introduzidas na monografia as alterações necessárias que tiver solicitado.\n\n3 - As monografias relativas aos aditivos pertencentes a outros grupos que não sejam os referidos no n.º 1 podem ser também aprovadas nos termos do procedimento previsto no número anterior.\n\n4 - A DGV, enquanto autoridade nacional competente no âmbito do presente diploma, recorre à monografia para:\n\na) Determinar se o aditivo para o qual é pedida a autorização de colocação em circulação é, de facto, um novo produto ou uma cópia;\n\nb) Verificar se o aditivo colocado em circulação corresponde efectivamente ao aditivo descrito no processo em que se baseou a concessão da autorização comunitária.\n\n5 - As alterações a introduzir posteriormente nas monografias em função da evolução dos conhecimentos científicos e técnicos são submetidas ao Comité Permanente dos Alimentos para Animais, a funcionar junto da Comissão da União Europeia, para parecer."
+  },
+  "115346529": {
+   "fragment_id": "115343326",
+   "type": 11,
+   "heading": "Artigo 14.º — Ficha de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ficha de identificação\n\n1 - Relativamente a todos os aditivos, e em conformidade com o disposto na Portaria n.º 69/97, de 29 de Janeiro, o requerente da autorização comunitária deve obrigatoriamente apresentar uma ficha de identificação com o resumo das características e propriedades do aditivo.\n\n2 - No caso dos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento e nos casos em que se aplica o n.º 3 do artigo anterior, a ficha informativa resumirá as características e as propriedades mais importantes dadas pela monografia do mesmo.\n\n3 - A ficha de identificação e as alterações posteriormente nela introduzidas, em função da evolução dos conhecimentos científicos e técnicos, são adoptadas pelo Comité Permanente dos Alimentos para Animais.\n\n4 - A Comissão da União Europeia, com a finalidade de facilitar a identificação dos aditivos referidos no n.º 1 do presente artigo e para efeitos dos controlos oficiais, assegurará a publicação no Jornal Oficial das Comunidades Europeias da ficha de identificação prevista neste artigo."
+  },
+  "115346530": {
+   "fragment_id": "115343327",
+   "type": 11,
+   "heading": "Artigo 15.º — Amostra padrão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Amostra padrão\n\n1 - Para os aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento o responsável pela colocação em circulação deverá colocar à disposição da DGV e do Laboratório Nacional de Investigação Veterinária, a pedido destes, uma amostra padrão com as características e as propriedades do aditivo descritas na monografia referida no artigo 13.º do diploma e uma amostra de referência da substância activa.\n\n2 - Em caso de alteração das características ou das propriedades do aditivo, deverá ser depositada uma nova amostra padrão correspondente à nova monografia do aditivo.\n\n3 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária, são fixadas as normas relativas ao depósito e manutenção das amostras padrão."
+  },
+  "115346531": {
+   "fragment_id": "115343328",
+   "type": 11,
+   "heading": "Artigo 16.º — Autorizações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Autorizações especiais\n\nCom fins exclusivamente de investigação, análise ou ensaio e para fins não comerciais, e sob controlo oficial, o director-geral de Veterinária pode conceder, mediante requerimento, autorizações especiais de utilização de aditivos não abrangidos pelo artigo 5.º e pelos n.os 3 e 4 do artigo 31.º do presente diploma desde que:\n\na) Os ensaios sejam efectuados segundo os princípios e condições fixados pela Portaria n.º 69/97, de 29 de Janeiro;\n\nb) Seja efectuado um controlo oficial adequado."
+  },
+  "115346532": {
+   "fragment_id": "115343329",
+   "type": 1,
+   "heading": "Capítulo IV — Regime aplicável às autorizações de aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime aplicável às autorizações de aditivos"
+  },
+  "115346533": {
+   "fragment_id": "115343330",
+   "type": 8,
+   "heading": "Secção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I\n\nRegime aplicável às autorizações dos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e dos factores de crescimento que vinculam o responsável pela colocação em circulação."
+  },
+  "115346534": {
+   "fragment_id": "115343331",
+   "type": 11,
+   "heading": "Artigo 17.º — Autorização concedida por 10 anos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Autorização concedida por 10 anos\n\nOs aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento, aditivos sujeitos a uma autorização que vincula o responsável pela colocação em circulação, desde que satisfaçam as condições previstas no artigo 6.º do presente diploma, são autorizados por um período de 10 anos a contar da data em que a autorização definitiva produz efeito e desde que inscritos na lista a que se refere a alínea a) do artigo 30.º"
+  },
+  "115346535": {
+   "fragment_id": "115343332",
+   "type": 11,
+   "heading": "Artigo 18.º — Autorização provisória até quatro anos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Autorização provisória até quatro anos\n\n1 - Aos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento, aditivos sujeitos a uma autorização que vincula o responsável pela colocação em circulação, pode ser concedida a nível comunitário uma autorização provisória para a utilização de um novo aditivo ou para uma nova utilização de um aditivo já autorizado, desde que satisfaçam as condições previstas nas alíneas b), c), d) e e) do artigo 6.º do presente diploma e seja legítimo pressupor, tendo em conta os resultados disponíveis, que também se encontra satisfeita a condição enunciada na alínea a) do mesmo artigo.\n\n2 - Os aditivos referidos no número anterior aos quais tenha sido concedida uma autorização comunitária provisória, desde que satisfaçam as condições previstas no artigo 6.º do presente diploma, são autorizados por um período de quatro anos a contar da data em que a autorização produz efeito e desde que inscritos na lista a que se refere a alínea b) do artigo 30.º\n\n3 - A autorização provisória referida no n.º 1 não deve exceder quatro anos a contar da data em que produz efeito."
+  },
+  "115346536": {
+   "fragment_id": "115343333",
+   "type": 11,
+   "heading": "Artigo 19.º — Renovação da autorização após 10 anos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Renovação da autorização após 10 anos\n\n1 - A autorização comunitária concedida aos aditivos dos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento é válida por 10 anos a contar da data em que a autorização definitiva produz efeitos, podendo ser renovada por períodos de 10 anos.\n\n2 - No caso de ser solicitada a renovação, o titular da autorização enviará à Comissão da União Europeia, por intermédio do Estado membro relator, um pedido acompanhado de um processo devidamente instruído em conformidade com as disposições previstas na Portaria n.º 69/97, de 29 de Janeiro.\n\n3 - O pedido e o processo referidos no número anterior são transmitidos à Comissão da União Europeia pelo menos um ano antes da data em que caduca a autorização, devendo a mesma acusar a sua recepção o mais rapidamente possível.\n\n4 - O titular da autorização transmitirá oficialmente, por intermédio da autoridade competente do Estado membro relator, uma cópia do pedido de renovação acompanhado do processo às autoridades competentes dos restantes Estados membros, os quais acusarão a sua recepção o mais rapidamente possível.\n\n5 - Se, por razões não imputáveis ao titular da autorização, não for possível deliberar sobre o pedido de renovação antes da data em que caduca a autorização do aditivo, esta será prorrogada automaticamente até ao momento em que a Comissão da União Europeia deliberar sobre o pedido de renovação.\n\n6 - Os artigos 5.º, 6.º, 7.º, 9.º e 10.º do presente diploma são aplicáveis, com as necessárias adaptações, ao disposto no presente artigo."
+  },
+  "115346537": {
+   "fragment_id": "115343334",
+   "type": 11,
+   "heading": "Artigo 20.º — Protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Protecção de dados\n\n1 - Os dados científicos e as informações contidas no processo inicial dos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e dos factores de crescimento, apresentado para a primeira autorização, não podem ser utilizados em benefício de outros requerentes durante um período de 10 anos contados a partir:\n\na) Da data em que produz efeitos a primeira autorização comunitária concedida através de regulamento dos aditivos referidos nos capítulos I, II e III do anexo B ao presente diploma;\n\nb) Da data em que produz efeitos a primeira autorização concedida através de regulamento, ou de 1 de Outubro de 1999, se esta data preceder a primeira, para os restantes aditivos.\n\n2 - A disposição referida no número anterior não é aplicável se o requerente tiver acordado com o titular da autorização que esses dados e informações podem ser utilizados.\n\n3 - Durante o período referido no n.º 1 do presente artigo, podem ser concedidas autorizações a outras pessoas para além do responsável pela primeira colocação em circulação do aditivo, desde que os aditivos em causa satisfaçam as condições de elegibilidade previstas no artigo 6.º e o processo tenha sido apresentado de acordo com o previsto no artigo 7.º\n\n4 - Se forem fornecidos dados complementares sobre um aditivo autorizado provisoriamente nos termos do artigo 18.º com vista à sua autorização nos termos do artigo 6.º, esses dados serão considerados parte integrante do processo inicial e, por conseguinte, a sua protecção termina ao mesmo tempo que a dos dados do processo inicial.\n\n5 - Findo o período de 10 anos referido no n.º 1, os resultados de toda ou parte da avaliação feita com base nos dados científicos e nas informações contidas no processo inicial que esteve na origem da autorização comunitária do aditivo podem ser utilizados pela Comissão da União Europeia ou por um Estado membro em benefício de um outro requerente de uma autorização de colocação em circulação de um aditivo já autorizado.\n\n6 - No caso referido no número anterior será enviado pelo novo requerente um pedido acompanhado de um processo, em conformidade com o disposto na Portaria n.º 69/97, de 29 de Janeiro, por intermédio da autoridade competente do Estado membro relator, à Comissão da União Europeia, a qual acusará a sua recepção o mais rapidamente possível.\n\n7 - O novo requerente referido no número anterior transmitirá oficialmente, por intermédio da autoridade competente do Estado membro relator, uma cópia do pedido, acompanhada do processo, às autoridades competentes dos restantes Estados membros, que acusarão a sua recepção o mais rapidamente possível.\n\n8 - Os artigos 5.º, 6.º, 7.º, 9.º e 10.º do presente diploma são aplicáveis, com as necessárias adaptações, ao disposto no presente artigo.\n\n9 - O disposto no n.º 5 é aplicável para a utilização dos dados de um processo relativo a um aditivo cuja autorização tenha sido retirada a pedido do titular dessa autorização.\n\n10 - Os dados científicos e as informações suplementares necessários para alterar as condições de autorização do aditivo, para assegurar a renovação da autorização, nos termos do n.º 1 do artigo 19.º, ou quaisquer novos dados científicos ou informações fornecidos durante o período de autorização do aditivo, não devem ser utilizados pela Comissão da União Europeia ou por um Estado membro em benefício de outro requerente durante um período de cinco anos a contar da data em que produz efeitos a autorização de uma nova utilização, a renovação ou a apresentação de novos dados científicos ou informações.\n\n11 - No caso em que o período de protecção de dados concedido para a alteração das condições de autorização de um aditivo expire antes do final do período previsto no n.º 1, o período de cinco anos será prorrogado de modo que os dois períodos terminem simultaneamente.\n\n12 - Sem prejuízo do disposto no n.º 1, o requerente de uma autorização de um aditivo pertencente aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos ou factores de crescimento deve, antes de iniciar os ensaios toxicológicos sobre animais vertebrados, verificar se o produto ou a sua substância activa já foram autorizados.\n\n13 - Para efeitos do número anterior, o requerente, se necessário, deve informar-se junto das autoridades competentes do Estado membro sobre se se trata do mesmo produto ou da mesma substância activa que o produto ou a substância activa já autorizados.\n\n14 - Se se tratar de um produto ou de uma substância activa já autorizados, o requerente ou os titulares das autorizações anteriores tomarão todas as disposições necessárias para chegarem a um acordo sobre a utilização partilhada das informações, de modo a evitar a repetição dos ensaios toxicológicos sobre animais vertebrados.\n\n15 - Se o requerente ou os titulares das anteriores autorizações não chegarem a um acordo sobre a partilha de informações, a autoridade competente do Estado membro poderá tomar medidas que obriguem o requerente ou os titulares estabelecidos no seu território a partilhar aquelas informações, de modo a evitar uma repetição dos ensaios toxicológicos efectuados sobre animais vertebrados e fixar condições para a utilização das informações, promovendo um equilíbrio razoável entre os interesses das partes."
+  },
+  "115346538": {
+   "fragment_id": "115343335",
+   "type": 8,
+   "heading": "Secção II — Regime aplicável à autorização dos restantes aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Regime aplicável à autorização dos restantes aditivos"
+  },
+  "115346539": {
+   "fragment_id": "115343336",
+   "type": 11,
+   "heading": "Artigo 21.º — Autorização sem limite de tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Autorização sem limite de tempo\n\n1 - Os aditivos pertencentes aos grupos dos antioxidantes, aromatizantes e apetentes, emulsionantes, estabilizantes, espessantes e gelificantes, corantes, incluindo os pigmentos, agentes conservantes, vitaminas, provitaminas e substâncias de efeito análogo quimicamente bem definidas, oligoelementos, aglutinantes, antiaglomerantes e coagulantes, reguladores de acidez, enzimas, microorganismos e ligantes de radionuclídeos que satisfaçam as condições previstas no artigo 6.º são autorizados e inscritos na lista a que se refere a alínea c) do artigo 30.º\n\n2 - Os aditivos pertencentes aos grupos referidos no número anterior, inscritos no anexo I da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, antes de 1 de Abril de 1998, serão autorizados e inscritos na alínea c) do artigo 30.º (capítulo III) do presente diploma."
+  },
+  "115346540": {
+   "fragment_id": "115343337",
+   "type": 11,
+   "heading": "Artigo 22.º — Autorização provisória até quatro ou cinco anos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Autorização provisória até quatro ou cinco anos\n\n1 - No que diz respeito aos aditivos pertencentes aos grupos referidos no n.º 1 do artigo anterior, poderá ser concedida a nível comunitário uma autorização provisória para a utilização de um novo aditivo ou para uma nova utilização, no caso de o aditivo já ter sido autorizado, desde que estejam satisfeitas as condições previstas nas alíneas b), c), d) e e) do artigo 6.º e seja legítimo pressupor que também se encontra satisfeita a condição enunciada na alínea a) do mesmo artigo.\n\n2 - Os aditivos referidos no n.º 1 do presente artigo são inscritos na alínea d) do artigo 30.º\n\n3 - O prazo de autorização provisória dos aditivos referidos no n.º 1 não deve exceder quatro anos a contar da data em que produz efeitos.\n\n4 - Os aditivos pertencentes aos grupos referidos no n.º 1 do artigo anterior, inscritos no anexo II da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, antes de 1 de Abril de 1998, podem continuar a estar sujeitos a autorizações provisórias nacionais.\n\n5 - Os aditivos referidos no número anterior serão inscritos na lista a que se refere a alínea d) do artigo 30.º, não podendo o prazo da sua autorização provisória, exceder cinco anos, tendo em conta a data de inscrição no anexo II da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro."
+  },
+  "115346541": {
+   "fragment_id": "115343338",
+   "type": 8,
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III\n\nRegime transitório aplicável às autorizações dos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e dos factores de crescimento, que vinculam o responsável pela colocação em circulação."
+  },
+  "115346542": {
+   "fragment_id": "115343339",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposição geral\n\nÉ autorizada a colocação em circulação dos aditivos inscritos no anexo B ao presente diploma."
+  },
+  "115346543": {
+   "fragment_id": "115343340",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nAditivos inscritos no anexo I da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, antes de 1 de Janeiro de 1988\n\n1 - Os aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e dos factores de crescimento, inscritos no anexo I da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, antes de 1 de Janeiro de 1988, são autorizados provisoriamente a partir da data de entrada em vigor do presente diploma e transferidos para o capítulo I do anexo B, com vista à sua reavaliação enquanto aditivos que vinculam um responsável pela colocação em circulação.\n\n2 - Tendo em vista a sua reavaliação, os aditivos pertencentes aos grupos referidos no número anterior devem ser objecto de um novo pedido de autorização comunitária antes de 1 de Outubro de 1998.\n\n3 - O pedido referido no número anterior deve ser acompanhado da monografia e da ficha de identificação, previstas, respectivamente, nos artigos 13.º e 14.º, o qual deverá ser enviado pelo responsável do processo na base da anterior autorização ou pelo seu sucessor ou sucessores, por intermédio do Estado membro relator, à Comissão da União Europeia, com cópia para os restantes Estados membros, que acusarão a sua recepção.\n\n4 - A autorização provisória do aditivo concedida nos termos do n.º 1 será retirada por via de regulamento comunitário e a respectiva inscrição no capítulo I do anexo B será suprimida, antes de 1 de Outubro de 1999, se:\n\na) Os documentos exigidos no n.º 3 não tiverem sido transmitidos no prazo fixado; ou\n\nb) Se, depois de verificados os documentos, se constatar que a monografia ou a ficha de identificação não estão em conformidade com os dados do processo a partir do qual foi concedida a autorização inicial.\n\n5 - O responsável pela colocação em circulação dos aditivos pertencentes aos grupos referidos no n.º 1 deve apresentar, até 30 de Setembro de 2000, nos termos do artigo 7.º, o processo ali previsto, tendo em vista a sua reavaliação.\n\n6 - Caso o disposto no número anterior não seja observado pelo responsável pela colocação em circulação dos referidos aditivos, a autorização provisória do aditivo em questão será retirada por via de regulamento comunitário e a sua inscrição no capítulo I do anexo B será suprimida.\n\n7 - A Comissão da União Europeia tomará todas as medidas necessárias para que a reavaliação dos processos referidos no n.º 5 esteja concluída no prazo de três anos a contar da data de apresentação do processo.\n\n8 - Após a reavaliação referida no número anterior, as autorizações provisórias concedidas ao abrigo do n.º 1 serão retiradas por via de regulamento comunitário e a respectiva inscrição no capítulo I do anexo B será suprimida ou substituída, igualmente por via de regulamento comunitário, por autorizações que vinculam o responsável pela colocação em circulação por um período de 10 anos que produzirá efeitos, o mais tardar, em 1 de Outubro de 2003, e os aditivos em questão serão inscritos na lista a que se refere a alínea a) do artigo 30.º\n\n9 - O n.º 5 do artigo 19.º é aplicável, com as necessárias adaptações, ao disposto no presente artigo."
+  },
+  "115346544": {
+   "fragment_id": "115343341",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nAditivos inscritos no anexo I da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, após 31 de Dezembro de 1987\n\n1 - Os aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e factores de crescimento, inscritos no anexo I da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, após 31 de Dezembro de 1987, são autorizados provisoriamente a partir da data de entrada em vigor do presente diploma e transferidos para o capítulo II do anexo B, com vista à sua autorização por um período de 10 anos enquanto aditivos que vinculam um responsável pela colocação em circulação em conformidade com o disposto nos n.os 2 e 3 seguintes.\n\n2 - Tendo em vista uma nova autorização comunitária, os aditivos referidos no número anterior devem ser objecto de novo pedido de autorização antes de 1 de Outubro de 1998.\n\n3 - O pedido referido no número anterior deve ser acompanhado da monografia e da ficha de identificação, previstas, respectivamente, nos artigos 13.º e 14.º, o qual deverá ser enviado pelo responsável do processo na base da anterior autorização ou pelo seu sucessor ou sucessores, por intermédio do Estado membro relator, à Comissão da União Europeia, com cópia para os restantes Estados membros, que acusarão a sua recepção.\n\n4 - As autorizações provisórias dos aditivos, concedidas nos termos do n.º 1, são:\n\na) Retiradas e a respectiva inscrição no capítulo II do anexo B será suprimida por via de regulamento comunitário, se os documentos exigidos no n.º 3 do presente artigo não tiverem sido transmitidos no prazo fixado ou se, depois de verificados os documentos, se constatar que a monografia ou a ficha de identificação não estão em conformidade com os dados do processo a partir do qual foi concedida a autorização inicial; ou\n\nb) Substituídas por autorizações que vinculem o responsável pela colocação em circulação por um período de 10 anos por via de regulamento comunitário, que produzirá efeitos o mais tardar em 1 de Outubro de 1999, e os aditivos são inscritos na lista a que se refere a alínea a) do artigo 30.º\n\n5 - O n.º 5 do artigo 19.º é aplicável por analogia ao disposto no presente artigo."
+  },
+  "115346545": {
+   "fragment_id": "115343342",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nAditivos inscritos no anexo II da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, antes de 1 de Abril de 1998\n\n1 - Os aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e dos factores de crescimento, inscritos no anexo II da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro, antes de 1 de Abril de 1998, continuam a estar sujeitos a autorizações provisórias nacionais.\n\n2 - Os aditivos referidos no número anterior são autorizados e transferidos para o capítulo III do anexo B, com vista à respectiva autorização enquanto aditivos que vinculam um responsável pela colocação em circulação.\n\n3 - O prazo de autorização provisória concedida ao abrigo do n.º 1 não pode exceder cinco anos, tendo em conta a data de inscrição no anexo II da Directiva n.º <a href=\"eurlex.asp?ano=1970&id=370L0524\" title=\"Link para Directiva da Comunidade Europeia\">70/524/CEE</a>, do Conselho, de 23 de Novembro.\n\n4 - Os aditivos referidos no n.º 1 devem ser objecto de um novo pedido de autorização antes de 1 de Outubro de 1998.\n\n5 - O pedido referido no número anterior deve ser acompanhado da monografia e da ficha de identificação, previstas, respectivamente, nos artigos 13.º e 14.º, o qual deverá ser enviado pelo responsável do processo na base da anterior autorização ou pelo seu sucessor ou sucessores, por intermédio do Estado membro relator, à Comissão da União Europeia, com cópia para os restantes Estados membros, que acusarão a sua recepção.\n\n6 - As autorizações provisórias dos aditivos concedidas nos termos do n.º 1 serão:\n\na) Retiradas e a respectiva inscrição no capítulo III do anexo B será suprimida, por via de regulamento comunitário, se os documentos exigidos no n.º 4 não tiverem sido transmitidos no prazo fixado ou se, depois de verificados os documentos, se constatar que a monografia ou a ficha de identificação não estão em conformidade com os dados do processo a partir do qual foi concedida a autorização inicial; ou\n\nb) Substituídas por autorizações provisórias, nos termos do n.º 1, que vinculem o responsável pela sua colocação no mercado, por via de regulamento comunitário, que produzirá efeitos, o mais tardar, em 1 de Outubro de 1999, e os aditivos serão inscritos na lista a que se refere a alínea b) do artigo 30.º\n\n7 - O n.º 5 do artigo 19.º é aplicável, por analogia, ao disposto no presente artigo."
+  },
+  "115346546": {
+   "fragment_id": "115343343",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposição especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposição especial\n\nOs pedidos de autorização de colocação em circulação dos grupos dos antibióticos, coccidiostáticos e substâncias de efeitos específicos e dos factores de crescimento apresentados entre a data de entrada em vigor do presente diploma e 30 de Setembro de 1999, sobre os quais a Comissão da União Europeia não tenha deliberado até esta data, são examinados de acordo com os artigos 5.º, 6.º, 9.º, 10.º, 13.º, 14.º, 17.º, 18.º, 19.º, 20.º, 21.º e 22.º, consoante os casos."
+  },
+  "115346547": {
+   "fragment_id": "115343344",
+   "type": 8,
+   "heading": "Secção IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV\n\nInformações relativas aos fabricantes de aditivos e publicação no Jornal Oficial das Comunidades Europeias"
+  },
+  "115346548": {
+   "fragment_id": "115343345",
+   "type": 11,
+   "heading": "Artigo 28.º — Informações relativas aos fabricantes de aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Informações relativas aos fabricantes de aditivos\n\nOs responsáveis pela colocação em circulação dos aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e substâncias de efeitos específicos e dos factores de crescimento comunicarão o mais rapidamente possível à Comissão da União Europeia o nome ou denominação social e o endereço ou sede social dos fabricantes a quem foi conferida autorização para o fabrico dos referidos aditivos e, caso esses fabricantes estejam estabelecidos num país terceiro, igualmente a indicação do nome ou denominação social, bem como do endereço ou sede social dos respectivos representantes na Comunidade."
+  },
+  "115346549": {
+   "fragment_id": "115343346",
+   "type": 11,
+   "heading": "Artigo 29.º — Lista dos responsáveis pela colocação em circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Lista dos responsáveis pela colocação em circulação\n\nA lista dos responsáveis pela colocação em circulação dos aditivos referidos no artigo anterior e o nome dos fabricantes autorizados para o fabrico dos referidos aditivos, bem como dos respectivos representantes na Comunidade, se esses fabricantes estiverem estabelecidos em países terceiros, é publicada anualmente, até 30 de Novembro, pela Comissão da União Europeia, no Jornal Oficial das Comunidades Europeias, série C."
+  },
+  "115346550": {
+   "fragment_id": "115343347",
+   "type": 11,
+   "heading": "Artigo 30.º — Lista positiva dos aditivos autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Lista positiva dos aditivos autorizados\n\nSerá publicada anualmente até 30 de Novembro, pela Comissão da União Europeia, no Jornal Oficial das Comunidades Europeias, série C, a lista dos aditivos autorizados, subdividida do seguinte modo:\n\na) Capítulo I: lista dos aditivos que vinculam um responsável pela colocação em circulação cuja autorização foi concedida por um período de 10 anos;\n\nb) Capítulo II: lista dos aditivos que vinculam um responsável pela colocação em circulação cuja autorização foi concedida, a título provisório, por um prazo máximo de quatro ou cinco anos, no caso dos aditivos autorizados provisoriamente antes de 1 de Abril de 1998;\n\nc) Capítulo III: lista dos outros aditivos cuja autorização foi concedida sem limite de tempo;\n\nd) Capítulo IV: lista dos outros aditivos cuja autorização foi concedida a título provisório, por um prazo máximo de quatro ou cinco anos, no caso dos aditivos autorizados provisoriamente antes de 1 de Abril de 1998."
+  },
+  "115346551": {
+   "fragment_id": "115343348",
+   "type": 1,
+   "heading": "Capítulo V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V\n\nDisposições gerais relativas à utilização, incorporação e distribuição dos aditivos e das pré-misturas e vigilância das interacções indesejáveis."
+  },
+  "115346552": {
+   "fragment_id": "115343349",
+   "type": 11,
+   "heading": "Artigo 31.º — Disposições gerais relativas à utilização de aditivos e pré-misturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Disposições gerais relativas à utilização de aditivos e pré-misturas\n\n1 - Os teores máximos e mínimos fixados para certos aditivos referem-se aos alimentos completos para animais cujo teor em humidade é de 12%, desde que não estejam previstas disposições particulares aquando da sua autorização.\n\n2 - Se a substância admitida como aditivo existir igualmente no estado natural em certas matérias-primas do alimento, a parte de aditivo a incorporar será calculada de forma que a soma dos elementos adicionados e dos elementos presentes naturalmente não exceda o teor máximo previsto no anexo C, partes I e II, ou no regulamento comunitário de autorização.\n\n3 - A mistura de aditivos nas pré-misturas e nos alimentos para animais apenas será admitida se for respeitada a compatibilidade físico-química e biológica entre os componentes da mistura, em função dos efeitos pretendidos.\n\n4 - No fabrico de pré-misturas e na incorporação de aditivos nos alimentos para animais, e desde que não se trate de uma mistura que tenha sido objecto de uma autorização específica como aditivo, são obrigatoriamente observados os seguintes aspectos:\n\na) Os antibióticos e os factores de crescimento não podem ser administrados nem no mesmo grupo nem entre os dois grupos;\n\nb) Os coccidiostáticos e outras substâncias de efeitos específicos não podem ser misturados com os antibióticos e os factores de crescimento quando, para a mesma categoria de animais, os coccidiostáticos exercerem igualmente uma função de antibiótico ou de factor de crescimento;\n\nc) Os coccidiostáticos e outras substâncias de efeitos específicos não podem ser misturados entre si, na medida em que os seus efeitos sejam semelhantes.\n\n5 - A mistura de antibióticos, de factores de crescimento e de coccidiostáticos e outras substâncias de efeitos específicos com microrganismos é proibida, salvo se o regulamento de autorização do microrganismo o permitir."
+  },
+  "115346553": {
+   "fragment_id": "115343350",
+   "type": 11,
+   "heading": "Artigo 32.º — Disposições relativas à incorporação de aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Disposições relativas à incorporação de aditivos\n\n1 - Os aditivos pertencentes respectivamente à parte A e à parte B do anexo A só podem ser incorporados nos alimentos compostos se tiverem sido previamente preparados, sob a forma de pré-misturas que contenham um suporte adequado por estabelecimentos que satisfaçam as condições mínimas previstas no capítulo II do anexo A do Decreto-Lei n.º 216/99, de 15 de Junho, e constem da lista de estabelecimentos referidos no n.º 1 do artigo 12.º do decreto-lei supracitado.\n\n2 - As pré-misturas referidas no número anterior só podem ser incorporadas numa proporção pelo menos igual a 0,2% em peso.\n\n3 - Sem prejuízo do estipulado no n.º 2 do artigo 3.º, os aditivos pertencentes a grupos que não sejam os antibióticos, os coccidiostáticos e outras substâncias de efeitos específicos, ou os factores de crescimento, podem ser utilizados segundo um modo de administração que não seja o da incorporação em alimentos para animais, desde que tal esteja previsto no regulamento comunitário de autorização.\n\n4 - A adição de aditivos às matérias-primas para alimentação animal só será autorizada se a sua utilização estiver expressamente prevista no anexo C ao presente diploma, do qual faz parte integrante, ou prevista no regulamento comunitário de autorização.\n\n5 - Os n.os 1 e 2 aplicam-se sem prejuízo do disposto no n.º 1 do artigo 10.º e no n.º 2 do artigo 19.º do Decreto-Lei n.º 216/99, de 15 de Junho."
+  },
+  "115346554": {
+   "fragment_id": "115343351",
+   "type": 11,
+   "heading": "Artigo 33.º — Disposições relativas à distribuição dos aditivos e das pré-misturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Disposições relativas à distribuição dos aditivos e das pré-misturas\n\n1 - Os aditivos abrangidos no âmbito do presente decreto-lei, as pré-misturas preparadas a partir desses aditivos com a finalidade de serem incorporadas nos alimentos compostos para animais, bem como os alimentos compostos que contenham essas pré-misturas, só podem ser colocados em circulação ou utilizados pelos estabelecimentos ou detidos pelos intermediários que satisfaçam, consoante o caso, as condições previstas no Decreto-Lei n.º 216/99, de 15 de Junho.\n\n2 - Os aditivos referidos na parte A do anexo A ao presente diploma, do qual faz parte integrante, só podem ser fornecidos por estabelecimentos aprovados a:\n\na) Intermediários aprovados em conformidade com o disposto na alínea a) do n.º 1 do artigo 7.º do Decreto-Lei n.º 216/99, de 15 de Junho;\n\nb) Estabelecimentos aprovados que procedam ao fabrico de pré-misturas em conformidade com o disposto na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 216/99, de 15 de Junho.\n\n3 - As pré-misturas contendo aditivos referidos no número anterior só podem ser fornecidas por estabelecimentos aprovados a:\n\na) Intermediários aprovados para colocarem em circulação pré-misturas em conformidade com o disposto na alínea b) do n.º 1 do artigo 7.º do Decreto-Lei n.º 216/99, de 15 de Junho;\n\nb) Estabelecimentos aprovados que procedam ao fabrico de alimentos compostos para serem colocados em circulação ou para satisfazerem exclusivamente as necessidades da sua exploração em conformidade com o disposto nas alíneas d) e e) do n.º 1 do artigo 4.º do Decreto-Lei n.º 216/99, de 15 de Junho.\n\n4 - Os aditivos referidos na parte B do anexo A só podem ser fornecidos por estabelecimentos aprovados a:\n\na) Intermediários aprovados em conformidade com o disposto na alínea a) do n.º 1 do artigo 7.º do Decreto-Lei n.º 216/99, de 15 de Junho;\n\nb) Estabelecimentos aprovados que procedam ao fabrico de pré-misturas em conformidade com o disposto na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 216/99, de 15 de Junho.\n\n5 - As pré-misturas contendo os aditivos referidos no número anterior só podem ser fornecidas por estabelecimentos aprovados a:\n\na) Intermediários aprovados em conformidade com o disposto na alínea b) do n.º 1 do artigo 7.º do Decreto-Lei n.º 216/99, de 15 de Junho;\n\nb) Estabelecimentos aprovados que procedam ao fabrico de alimentos compostos para serem colocados em circulação ou para satisfazerem exclusivamente as necessidades da sua exploração que tenham sido registados em conformidade com o disposto nas alíneas d) e e) do n.º 1 do artigo 4.º do Decreto-Lei n.º 216/99, de 15 de Junho.\n\n6 - As disposições previstas nos n.os 1, 2, 3 e 4 do presente artigo aplicam-se sem prejuízo do disposto no Decreto-Lei n.º 216/99, de 15 de Junho."
+  },
+  "115346555": {
+   "fragment_id": "115343352",
+   "type": 11,
+   "heading": "Artigo 34.º — Vigilância das interacções indesejáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Vigilância das interacções indesejáveis\n\nEm caso de interacção indesejável e imprevista entre os aditivos pertencentes aos grupos dos antibióticos, coccidiostáticos e outras substâncias de efeitos específicos e dos factores de crescimento e outros aditivos ou medicamentos veterinários, o responsável pela colocação em circulação do aditivo ou o seu representante na Comunidade, no caso de aditivos originários de países terceiros, deve reunir todas as informações pertinentes e transmiti-las à DGV."
+  },
+  "115346556": {
+   "fragment_id": "115343353",
+   "type": 1,
+   "heading": "Capítulo VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI\n\nDisposições gerais relativas ao acondicionamento e à rotulagem de aditivos, pré-misturas e alimentos compostos para animais que contenham aditivos."
+  },
+  "115346557": {
+   "fragment_id": "115343354",
+   "type": 11,
+   "heading": "Artigo 35.º — Acondicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Acondicionamento\n\nPara efeitos de comercialização, o acondicionamento dos aditivos e das pré-misturas só pode ser feito em embalagens ou recipientes fechados, cuja abertura inviabiliza a sua reutilização."
+  },
+  "115346558": {
+   "fragment_id": "115343355",
+   "type": 11,
+   "heading": "Artigo 36.º — Regras gerais de rotulagem de aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regras gerais de rotulagem de aditivos\n\n1 - Os aditivos só podem ser colocados em circulação com vista à sua utilização na alimentação animal quando estiverem, inseridas em língua portuguesa, na embalagem, recipiente ou rótulo fixado a este as indicações obrigatórias referidas nos n.os 2 a 8 seguintes, as quais devem ser apresentadas de forma visível, claramente legível e indelével, e que traduzam a responsabilidade do produtor, do embalador, do importador, do vendedor ou do distribuidor estabelecido na Comunidade.\n\n2 - São indicações obrigatórias para todos os aditivos, com excepção das enzimas e dos microrganismos:\n\na) Nome específico do aditivo autorizado, o número de registo CE e, no caso dos antibióticos, coccidiostáticos e outras substâncias de efeito específico e factores de crescimento, a designação comercial e o número de registo do responsável pela colocação em circulação;\n\nb) Nome ou denominação social e endereço ou sede social do responsável pelas indicações constantes do rótulo, dístico ou etiqueta;\n\nc) O peso líquido e, no caso dos aditivos líquidos, o volume líquido ou o peso líquido;\n\nd) Consoante o caso, o número de aprovação atribuído ao estabelecimento ou ao intermediário, nos termos do n.º 1 do artigo 11.º, ou o número de registo atribuído ao estabelecimento ou ao intermediário nos termos do n.º 1 do artigo 20.º do Decreto-Lei n.º 216/99, de 15 de Junho.\n\n3 - São indicações obrigatórias para os antibióticos, factores de crescimento, coccidiostáticos ou outras substâncias de efeitos específicos:\n\na) Nome ou denominação social e endereço ou sede social do fabricante, quando este não é responsável pelas indicações de rotulagem;\n\nb) Teor em substâncias activas;\n\nc) Data limite de garantia do teor ou prazo de validade a contar da data de fabrico;\n\nd) Data de fabrico e número de referência do lote;\n\ne) Menção «Destinado exclusivamente aos fabricantes de pré-misturas para alimentos compostos para animais»;\n\nf) Modo de emprego;\n\ng) Recomendações respeitantes à segurança de utilização, desde que estes aditivos sejam objecto de disposições particulares aquando da sua autorização.\n\n4 - São indicações obrigatórias para as vitaminas, provitaminas e substâncias de efeito análogo quimicamente bem definidas:\n\na) Teor em substância activa, que, para o caso da vitamina E, é expresso em alfatocoferol;\n\nb) Data limite de garantia do teor ou prazo e validade a contar da data de fabrico.\n\n5 - É indicação obrigatória para os oligoelementos, corantes, incluindo os pigmentos, agentes conservantes e outros aditivos, excepto os pertencentes aos grupos das enzimas e dos microrganismos, o teor em substâncias activas.\n\n6 - São indicações obrigatórias para os aditivos do grupo das enzimas:\n\na) O nome específico da(s) substância(s) activa(s) segundo a(s) sua(s) actividade(s) enzimática(s), em conformidade com a autorização dada;\n\nb) O número de identificação de acordo com a International Union of Biochemistry;\n\nc) As unidades de actividade por grama ou por mililitro, expressas em (mi) mol de produto libertado por minuto, por grama de preparação enzimática;\n\nd) O número de registo CE;\n\ne) O nome ou denominação social e o endereço ou a sede social do responsável pelas indicações referidas no presente número e o nome ou denominação social e o endereço ou a sede social do fabricante quando este não for responsável pelas indicações de rotulagem;\n\nf) A data limite de garantia ou prazo de validade a contar da data de fabrico;\n\ng) O número de referência do lote;\n\nh) A data de fabrico;\n\ni) O modo de utilização, especificando nomeadamente a dose recomendada, se necessário sob a forma de intervalo, em função da percentagem ou percentagens em peso da matéria-prima ou matérias-primas alvo por quilograma de alimento completo, de acordo com as prescrições previstas caso a caso na autorização do aditivo; eventualmente as recomendações relativas à segurança de utilização previstas na autorização do aditivo;\n\nj) O peso líquido e, no caso dos aditivos líquidos, o volume líquido ou o peso líquido;\n\nl) Eventualmente, quando previsto, a indicação das características especiais significativas resultantes do processo de fabrico, em conformidade com as disposições previstas em matéria de rotulagem na autorização do aditivo.\n\n7 - São indicações obrigatórias para os aditivos do grupo dos microrganismos:\n\na) A identificação da(s) estirpe(s) em conformidade com a autorização dada;\n\nb) O número de depósito da(s) estirpe(s);\n\nc) O número de unidades formadoras de colónias (CFU por grama);\n\nd) O número de registo CE;\n\ne) O nome ou denominação social e o endereço ou sede social do responsável pelas indicações referidas no presente número e o nome ou denominação social e o endereço ou a sede social do fabricante, se este não for responsável pelas indicações de rotulagem;\n\nf) O número de aprovação atribuído ao estabelecimento ou ao intermediário, nos termos do n.º 1 do artigo 11.º do Decreto-Lei n.º 216/99, de 15 de Junho;\n\ng) A data limite de garantia ou o prazo de validade a contar da data de fabrico;\n\nh) O número de referência do lote;\n\ni) A data de fabrico;\n\nj) O modo de emprego e, eventualmente, as recomendações relativas à segurança de utilização previstas na autorização do aditivo;\n\nl) O peso líquido e, para os aditivos líquidos, o volume líquido ou o peso líquido;\n\nm) Eventualmente a indicação das características especiais significativas resultantes do processo de fabrico, em conformidade com as disposições previstas em matéria de rotulagem na autorização do aditivo.\n\n8 - É indicação obrigatória para os aditivos referidos nos n.os 2 a 8 a menção «Destinado exclusivamente ao fabrico de alimentos para animais».\n\n9 - Além das indicações obrigatórias referidas nos números anteriores, a designação específica do aditivo pode ser acompanhada das seguintes indicações, igualmente em língua portuguesa:\n\na) Marca comercial;\n\nb) Nome ou denominação social e endereço ou sede social do fabricante, se este não for responsável pelas indicações de rotulagem;\n\nc) Modo de emprego;\n\nd) Eventualmente, uma recomendação respeitante à segurança de utilização.\n\n10 - Podem figurar, igualmente, outras informações nas embalagens, recipientes ou rótulos desde que estejam claramente separadas das indicações referidas nos números anteriores e respeitem os seguintes aspectos:\n\na) Refiram elementos objectivos ou mensuráveis que possam ser comprovados;\n\nb) Excluam indicações de carácter profiláctico ou terapêutico;\n\nc) Não induzam o utilizador em erro, nomeadamente atribuindo ao aditivo efeitos ou propriedades que não possui."
+  },
+  "115346559": {
+   "fragment_id": "115343356",
+   "type": 11,
+   "heading": "Artigo 37.º — Regras gerais de rotulagem de pré-misturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regras gerais de rotulagem de pré-misturas\n\n1 - As pré-misturas só podem ser colocadas em circulação com vista à sua utilização nos alimentos para animais quando estiverem inseridas em língua portuguesa na embalagem, recipiente ou rótulo fixado a este as indicações obrigatórias referidas nos n.os 2 a 11 seguintes, as quais devem ser apresentadas de forma visível, claramente legível e indelével, e que traduzam a responsabilidade do produtor, do embalador, do importador, do vendedor ou do distribuidor estabelecido na Comunidade.\n\n2 - São indicações obrigatórias para todas as pré-misturas:\n\na) Designação «Pré-mistura»;\n\nb) Menção «Destinado exclusivamente ao fabrico de alimentos para animais», excepto as pré-misturas referidas no número seguinte;\n\nc) Espécie animal ou a categoria de animais à qual é destinada a pré-mistura;\n\nd) Modo de utilização e, eventualmente, uma recomendação respeitante à segurança de utilização das pré-misturas;\n\ne) Nome ou denominação social e endereço ou sede social do responsável pelas indicações de rotulagem;\n\nf) Peso líquido e, para os líquidos, o volume líquido ou o peso líquido;\n\ng) Consoante o caso, o número de aprovação atribuído ao estabelecimento ou ao intermediário, nos termos do n.º 1 do artigo 11.º ou o número de registo atribuído ao estabelecimento ou ao intermediário nos termos do n.º 1 do artigo 20.º do Decreto-Lei n.º 216/99, de 15 de Junho.\n\n3 - São indicações obrigatórias para as pré-misturas contendo antibióticos, factores de crescimento, coccidiostáticos ou outras substâncias de efeitos específicos:\n\na) Nome ou denominação social e endereço ou sede social do fabricante, quando este não for responsável pelas indicações de rotulagem;\n\nb) Nome específico dado ao aditivo, aquando da sua autorização;\n\nc) Teor em substâncias activas;\n\nd) Data limite de garantia do teor ou prazo de validade a contar da data de fabrico;\n\ne) Menção «Destinado exclusivamente aos fabricantes de alimentos compostos»;\n\nf) Nome do produtor dos aditivos.\n\n4 - São indicações obrigatórias para as pré-misturas contendo substâncias de efeito antioxidante:\n\na) Nome específico do aditivo autorizado;\n\nb) Teor em substâncias activas, na medida em que seja fixado um teor máximo para os alimentos completos aquando da autorização do aditivo.\n\n5 - São indicações obrigatórias para as pré-misturas contendo corantes, incluindo os pigmentos:\n\na) Nome específico do aditivo autorizado;\n\nb) Teor em substâncias activas, na medida em que seja fixado um teor máximo para os alimentos completos aquando da autorização do aditivo.\n\n6 - São indicações obrigatórias para as pré-misturas contendo vitaminas, provitaminas e substâncias de efeito análogo quimicamente bem definidas:\n\na) Nome específico do aditivo autorizado;\n\nb) Teor em substâncias activas, que, para o caso da vitamina E, é expresso em alfatocoferol;\n\nc) Data limite de garantia do teor ou prazo de validade a contar da data de fabrico.\n\n7 - São indicações obrigatórias para as pré-misturas contendo oligoelementos:\n\na) Nome específico do aditivo autorizado;\n\nb) Teor dos respectivos elementos, na medida em que esteja fixado um teor máximo para os alimentos completos aquando da sua autorização.\n\n8 - São indicações obrigatórias para as pré-misturas contendo agentes conservantes:\n\na) Nome específico do aditivo autorizado;\n\nb) Teor em substâncias activas, na medida em que seja fixado um teor máximo para os alimentos completos aquando da autorização do aditivo.\n\n9 - São indicações obrigatórias para as pré-misturas contendo enzimas:\n\na) O nome específico da(s) substância(s) activa(s) autorizada(s) consoante a(s) sua(s) actividade(s) enzimática(s), em conformidade com a autorização dada;\n\nb) O número de identificação de acordo com a International Union of Biochemistry;\n\nc) As unidades de actividade enzimática (unidades de actividade por grama ou unidades de actividade por mililitro);\n\nd) O número de registo CE;\n\ne) O nome ou denominação social e o endereço ou a sede social do fabricante se este não for responsável pelas indicações de rotulagem;\n\nf) A data limite de garantia ou prazo de validade a contar da data de fabrico;\n\ng) O número de referência do lote;\n\nh) A data de fabrico;\n\ni) O modo de utilização especificando, nomeadamente, a dose recomendada, se necessário sob a forma de intervalo em função da percentagem ou percentagens em peso da matéria-prima ou matérias-primas alvo por quilograma de alimento completo, de acordo com as prescrições previstas caso a caso na autorização do aditivo;\n\nj) Eventualmente, a indicação das características especiais significativas resultantes do processo de fabrico, em conformidade com as disposições de rotulagem previstas na autorização do aditivo.\n\n10 - São indicações obrigatórias para as pré-misturas contendo microrganismos:\n\na) A identificação da(s) estirpe(s) autorizada(s) em conformidade com a autorização dada;\n\nb) O número de depósito da(s) estirpe(s);\n\nc) O número de unidades formadoras de colónias (CFU por grama);\n\nd) O número de registo CE;\n\ne) A data limite de garantia ou o prazo de validade a contar da data de fabrico;\n\nf) O nome ou denominação social e o endereço ou sede social do fabricante se este não for o responsável pelas indicações de rotulagem;\n\ng) Eventualmente, a indicação das características especiais significativas resultantes do processo de fabrico, em conformidade com as disposições de rotulagem previstas na autorização do aditivo.\n\n11 - São indicações obrigatórias para as pré-misturas que contenham outros aditivos pertencentes aos grupos referidos nos n.os 4 a 10, relativamente aos quais não está previsto qualquer teor máximo, assim como para os aditivos pertencentes a outros grupos autorizados:\n\na) Nome específico do aditivo autorizado;\n\nb) Teor em substâncias activas, na medida em que esses aditivos exerçam uma função ao nível do alimento e sejam doseáveis segundo métodos de análise oficiais ou, na sua falta, segundo métodos cientificamente válidos.\n\n12 - Além das indicações obrigatórias referidas nos n.os 2 a 11, podem constar as seguintes indicações, igualmente expressas em língua portuguesa:\n\na) Marca comercial dos aditivos;\n\nb) Número CE dos aditivos.\n\n13 - Quando a data limite de garantia ou o prazo de validade a contar da data de fabrico de vários aditivos pertencentes a um mesmo grupo ou a grupos diferentes deva ser declarado, pode ser indicada uma só data de garantia ou um só prazo de validade para o conjunto dos aditivos, que será, nesse caso, o daquele que caducar primeiro.\n\n14 - Para além das disposições constantes dos n.os 2 a 13, podem figurar outras informações nas embalagens, recipientes ou rótulos desde que estejam claramente separadas daquelas e respeitem os seguintes aspectos:\n\na) Refiram elementos objectivos ou mensuráveis que possam ser comprovados;\n\nb) Excluam indicações de carácter profiláctico ou terapêutico;\n\nc) Não induzam o utilizador em erro, nomeadamente atribuindo às pré-misturas efeitos ou propriedades que não possuem."
+  },
+  "115346560": {
+   "fragment_id": "115343357",
+   "type": 11,
+   "heading": "Artigo 38.º — Regras gerais de rotulagem de alimentos para animais que contenham aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regras gerais de rotulagem de alimentos para animais que contenham aditivos\n\n1 - Os alimentos para animais que contenham aditivos só podem ser colocados em circulação quando estiverem inseridas em língua portuguesa na embalagem, recipiente ou rótulo fixado a este as indicações obrigatórias referidas nos n.os 2 a 8 seguintes, que devem ser apresentadas de forma visível, claramente legível e indelével, e que traduzam a responsabilidade do produtor, do embalador, do importador, do vendedor ou do distribuidor, estabelecido na Comunidade.\n\n2 - São indicações obrigatórias para os alimentos contendo antibióticos, coccidiostáticos e outras substâncias de efeitos específicos, bem como factores de crescimento:\n\na) Nome específico do aditivo autorizado;\n\nb) Teor em substâncias activas;\n\nc) Data limite de garantia ou prazo de validade a contar da data de fabrico;\n\nd) O número de aprovação atribuído ao estabelecimento nos termos do n.º 1 do artigo 11.º do Decreto-Lei n.º 216/99, de 15 de Junho.\n\n3 - São indicações obrigatórias para os alimentos contendo vitaminas A, D e E:\n\na) Nome específico do aditivo autorizado;\n\nb) Teor em substâncias activas, que, para o caso da vitamina E, é expresso em alfatocoferol;\n\nc) Data limite de garantia ou prazo de validade a contar da data de fabrico.\n\n4 - São indicações obrigatórias para os alimentos contendo substância de efeito antioxidante:\n\na) Para os alimentos destinados a animais de companhia, a menção «Com antioxidante», seguida do nome específico do aditivo autorizado;\n\nb) Para os alimentos compostos diferentes dos destinados aos animais de companhia o nome específico do aditivo autorizado.\n\n5 - São indicações obrigatórias para os alimentos contendo agentes conservantes:\n\na) No caso de alimentos destinados a animais de companhia, a menção «Conservante» ou «Conservado com», seguida do nome específico do aditivo autorizado;\n\nb) No caso de alimentos diferentes dos destinados a animais de companhia, o nome específico do aditivo autorizado.\n\n6 - São indicações obrigatórias para os alimentos contendo corantes, incluindo os pigmentos, sempre que sejam utilizados com o objectivo de corar o alimento ou os produtos animais:\n\na) Para os alimentos destinados a animais de companhia, a menção «Corante» ou «Corado com», seguida do nome específico do aditivo autorizado;\n\nb) Para os alimentos compostos diferentes dos destinados aos animais de companhia, o nome específico do aditivo autorizado.\n\n7 - São indicações obrigatórias para os alimentos contendo enzimas:\n\na) O nome específico da(s) substância(s) activa(s) consoante a(s) sua(s) actividade(s) enzimática(s), em conformidade com a autorização dada;\n\nb) O número de identificação de acordo com a International Union of Biochemistry;\n\nc) As unidades de actividade (unidades de actividade por quilograma ou unidades de actividade por litro);\n\nd) O número de registo CE;\n\ne) A data limite de garantia ou prazo de validade a contar da data de fabrico;\n\nf) Eventualmente, a indicação das características especiais significativas resultantes do processo de fabrico, em conformidade com as disposições em matéria de rotulagem previstas na autorização do aditivo.\n\n8 - São indicações obrigatórias para os alimentos contendo microrganismos:\n\na) A identificação da(s) estirpe(s) em conformidade com a autorização dada;\n\nb) O número de depósito da(s) estirpe(s);\n\nc) O número de unidades formadoras de colónias (CFU por quilograma);\n\nd) O número de registo CE;\n\ne) A data limite de garantia ou prazo de validade a contar da data de fabrico;\n\nf) Eventualmente, a indicação das características especiais significativas resultantes do processo de fabrico, em conformidade com as disposições em matéria de rotulagem previstas na autorização do aditivo.\n\n9 - Além das indicações obrigatórias de rotulagem previstas nos números anteriores, as indicações respeitantes, em particular, à utilização apropriada do alimento podem ser determinadas aquando da autorização do aditivo.\n\n10 - Além das indicações obrigatórias referidas nos números anteriores, podem constar facultativamente as seguintes indicações, expressas em língua portuguesa, assinalando a presença de determinados oligoelementos, bem como a presença de determinadas vitaminas, provitaminas e substâncias de efeito análogo quimicamente bem definidas, desde que os aditivos indicados sejam doseáveis segundo métodos de análise oficiais ou, na sua falta, segundo métodos cientificamente válidos:\n\na) Para os alimentos contendo oligoelementos diferentes do cobre:\n\ni) Nome específico do aditivo autorizado;\n\nii) Teor dos respectivos elementos;\n\nb) Para os alimentos contendo vitaminas diferentes das vitaminas A, D e E, provitaminas e substâncias com efeito análogo quimicamente bem definidas:\n\ni) Nome específico do aditivo autorizado;\n\nii) Teor em substâncias activas, que, para o caso da vitamina E, é expresso em alfatocoferol;\n\niii) Data limite de garantia ou prazo de validade a contar da data de fabrico.\n\n11 - As menções previstas nos n.os 1 a 10 do presente artigo devem figurar na proximidade das indicações, devendo ser inscritas na embalagem, no recipiente ou no rótulo fixado a este, em conformidade com a regulamentação relativa aos alimentos compostos dos animais, constante do Decreto-Lei n.º 350/90, de 6 de Novembro.\n\n12 - No caso em que, em conformidade com o disposto nos n.os 2 a 10 do presente artigo, é declarado um teor ou uma quantidade, esta declaração refere-se à parte de aditivos incorporada no alimento.\n\n13 - A referência dos aditivos pode ser acompanhada do número de registo CE do aditivo ou da designação comercial, nos casos em que estas indicações não sejam exigidas por força do disposto nos n.os 1 a 8 do presente artigo.\n\n14 - Quando a data limite de garantia ou o prazo de validade a contar da data de fabrico de vários aditivos pertencentes a um mesmo grupo ou grupos diferentes deva ser declarado, pode ser indicada uma só data ou um só prazo de validade para o conjunto dos aditivos, que será, nesse caso, o daquele que caducar primeiro.\n\n15 - No caso de alimentos para animais contendo aditivos ou pré-misturas comercializados em camiões-cisternas, veículos similares ou a granel, as indicações previstas nos n.os 2 a 10 do presente artigo devem constar da guia de remessa, salvo se se tratar de pequenas quantidades destinadas à utilização final, caso em que é suficiente que essas indicações sejam levadas ao conhecimento do comprador através de divulgação apropriada.\n\n16 - No caso de alimentos para animais de companhia contendo corantes, agentes conservantes ou substâncias de efeito antioxidante acondicionados em embalagens cujo conteúdo líquido seja de peso igual ou inferior a 10 kg, é suficiente a menção «Corante», ou «Corado com», ou «Com antioxidante», seguida das palavras «Aditivos CE» desde que respeite as seguintes indicações:\n\na) Conste na embalagem, no recipiente ou no rótulo um número de referência que permita a identificação do alimento;\n\nb) Sempre que seja solicitado, o fabricante comunique o nome específico do ou dos aditivos utilizados.\n\n17 - Os alimentos complementares para animais contendo teores em aditivos superiores aos fixados para alimentos completos só podem ser comercializados desde que seja especificado no modo de emprego, segundo a espécie animal e a idade, a quantidade máxima de alimento complementar expressa em gramas ou quilogramas, por animal e por dia.\n\n18 - Não é permitida qualquer outra indicação relativa aos aditivos, nas embalagens, rótulos, dísticos, etiquetas ou guias de remessa dos alimentos compostos para além das previstas no presente diploma."
+  },
+  "115346561": {
+   "fragment_id": "115343358",
+   "type": 1,
+   "heading": "Capítulo VII — Controlo oficial. Fiscalização e penalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Controlo oficial. Fiscalização e penalidades"
+  },
+  "115346562": {
+   "fragment_id": "115343359",
+   "type": 11,
+   "heading": "Artigo 39.º — Controlo oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Controlo oficial\n\n1 - A DGV e o Laboratório Nacional de Investigação Veterinária, nos termos da legislação em vigor e dentro da área das respectivas competências, devem adoptar as medidas necessárias para que no decurso da colocação em circulação seja efectuado, pelo menos por amostragem, o controlo oficial dos aditivos, das pré-misturas e dos alimentos para animais contendo aditivos relativo à identidade e teor dos aditivos, bem como das demais disposições previstas no presente diploma, sem prejuízo das competências atribuídas a outras entidades.\n\n2 - A colheita das amostras para verificar se os aditivos, pré-misturas ou alimentos para animais contendo aditivos estão conforme a composição declarada pode ser feita em qualquer fase da sua colocação em circulação.\n\n3 - Para cumprimento do disposto no número anterior são utilizados os métodos oficiais, definidos em norma portuguesa relativos a colheita de amostras para análise e preparação de amostras.\n\n4 - Para análise das amostras de aditivos, pré-misturas e alimentos para animais que contenham aditivos são utilizados os métodos oficiais de análise definidos em norma portuguesa, ou, por força das disposições comunitárias, aprovados mediante portaria ou decreto-lei.\n\n5 - Na ausência daqueles métodos, deve o Laboratório Nacional de Investigação Veterinária estabelecer quais os métodos de análise a utilizar, de acordo com normas reconhecidas por organismos internacionais e, na falta de tais normas, de acordo com normas nacionais cientificamente reconhecidas e em conformidade com os princípios gerais do Tratado.\n\n6 - O disposto no número anterior tem sempre carácter transitório, até à publicação do método oficial aprovado.\n\n7 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária, são fixadas as tolerâncias admitidas em caso de desvio entre o resultado do controlo oficial e o teor declarado do aditivo nos aditivos, nas pré-misturas e nos alimentos para animais.\n\n8 - Para efeitos do presente artigo aplica-se subsidiariamente o disposto nos artigos 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º e 17.º do Decreto-Lei n.º 245/99, de 28 de Junho."
+  },
+  "115346563": {
+   "fragment_id": "115343360",
+   "type": 11,
+   "heading": "Artigo 40.º — Regime sancionatório aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Regime sancionatório aplicável\n\n1 - As infracções ao disposto no n.º 2 do artigo 3.º, no n.º 1 do artigo 5.º, no n.º 2 do artigo 7.º, nos n.os 1 e 2 do artigo 15.º, nos n.os 1, 2 e 3, nas alíneas a), b) e c) do n.º 4 e no n.º 5 do artigo 31.º, nos n.os 1, 2, 3 e 4 do artigo 32.º, no n.º 1, nas alíneas a) e b) do n.º 2, nas alíneas a) e b) do n.º 3, nas alíneas a) e b) do n.º 4 e nas alíneas a) e b) do n.º 5 do artigo 33.º, nos artigos 34.º, 35.º, 36.º, 37.º e 38.º e nos n.os 2 e 3 do artigo 49.º, sempre que não sejam puníveis nos termos do Decreto-Lei n.º 28/84, de 20 de Janeiro, constituem contra-ordenações puníveis com coima cujo montante mínimo é de 50000$00 e máximo de 750000$00 ou 9000000$00, consoante o agente seja pessoa singular ou colectiva.\n\n2 - A negligência e a tentativa são sempre puníveis."
+  },
+  "115346564": {
+   "fragment_id": "115343361",
+   "type": 11,
+   "heading": "Artigo 41.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização de homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças e alvarás;\n\nf) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorização, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior terão a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória.\n\n3 - Sem prejuízo do disposto no n.º 1 do presente artigo, pode ser ordenada a inutilização dos aditivos, pré-misturas ou alimentos compostos produzidos em unidades que não estejam aprovadas de acordo com o disposto nas alíneas a), c), d) e e) do artigo 4.º, bem como não estejam registados de acordo com o disposto nas alíneas a), b), c) e d) do artigo 13.º, ambos do Decreto-Lei n.º 216/99, de 15 de Junho."
+  },
+  "115346565": {
+   "fragment_id": "115343362",
+   "type": 11,
+   "heading": "Artigo 42.º — Instrução, aplicação e destino da receita das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Instrução, aplicação e destino da receita das coimas\n\n1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.\n\n2 - A entidade que levantar o auto de notícia remeterá o mesmo à DGV para instrução do competente processo.\n\n3 - A afectação do produto das coimas cobradas em aplicação ao presente diploma legal far-se-á da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para os cofres do Estado."
+  },
+  "115346566": {
+   "fragment_id": "115343363",
+   "type": 11,
+   "heading": "Artigo 43.º — Controlo, fiscalização e penalidades nas Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Controlo, fiscalização e penalidades nas Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira a execução administrativa do presente diploma e suas disposições regulamentares cabe aos serviços competentes das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV, na qualidade de autoridade nacional competente no domínio da alimentação animal."
+  },
+  "115346567": {
+   "fragment_id": "115343364",
+   "type": 1,
+   "heading": "Capítulo VIII — Comissão Técnica de Avaliação de Aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Comissão Técnica de Avaliação de Aditivos"
+  },
+  "115346568": {
+   "fragment_id": "115343365",
+   "type": 11,
+   "heading": "Artigo 44.º — Âmbito da Comissão Técnica. Sua composição, competências e modo de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Âmbito da Comissão Técnica. Sua composição, competências e modo de funcionamento\n\n1 - Para dar parecer sobre a avaliação nacional dos aditivos apresentados a nível comunitário que requeiram uma autorização para utilização em alimentação animal, é criada a Comissão Técnica de Avaliação de Aditivos, adiante designada por Comissão Técnica.\n\n2 - A Comissão Técnica é um órgão consultivo da DGV, sendo os respectivos pareceres homologados pelo director-geral de Veterinária e constituirão, uma vez homologados, o suporte técnico científico da avaliação nacional junto do Comité Permanente dos Alimentos para Animais, da Comissão da União Europeia.\n\n3 - A composição, competência e modo de funcionamento da Comissão Técnica são definidos por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária.\n\n4 - Os membros da Comissão Técnica são nomeados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária.\n\n5 - A Comissão Técnica poderá solicitar a colaboração eventual de técnicos cujos contributos julgue convenientes para a resolução de problemas específicos.\n\n6 - A compensação pela prestação de serviços dos membros da Comissão Técnica e da colaboração técnica referida no número anterior processa-se nos termos da lei geral e é fixada por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária.\n\n7 - Os serviços de secretaria e de expediente da Comissão Técnica são assegurados pela estrutura dos serviços da DGV com atribuições na matéria."
+  },
+  "115346569": {
+   "fragment_id": "115343366",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições finais e transitórias"
+  },
+  "115346570": {
+   "fragment_id": "115343367",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 440/89, de 27 de Dezembro, 219/96, de 22 de Novembro, e 389/98, de 4 de Dezembro, e as Portarias n.os 1103/89, de 27 de Dezembro, 475/90, de 27 de Junho, 1205-A/90, de 14 de Dezembro, 763/91, de 5 de Agosto, 1197/91, de 18 de Dezembro, 251/92, de 26 de Março, 488/94, de 4 de Julho, 22/96, de 3 de Fevereiro, 245/97, de 11 de Abril, e 290/97, de 2 de Maio."
+  },
+  "115346571": {
+   "fragment_id": "115343368",
+   "type": 11,
+   "heading": "Artigo 46.º — Exportação para países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Exportação para países terceiros\n\nAs disposições legais previstas no presente diploma não se aplicam aos aditivos constantes dos anexos B e C, pré-misturas e alimentos compostos para animais contendo esses aditivos que se destinem a exportação para países terceiros, caso em que deverá ser apresentada prova documental."
+  },
+  "115346572": {
+   "fragment_id": "115343369",
+   "type": 11,
+   "heading": "Artigo 47.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Taxas\n\n1 - Para custear os encargos com a análise dos processos de aditivos, nos casos em que a DGV é escolhida como autoridade relatora, são cobradas taxas consoante os grupos dos aditivos e a natureza da autorização requerida.\n\n2 - A taxa constitui receita da DGV.\n\n3 - A taxa deverá ser paga no momento de apresentação do processo.\n\n4 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do director-geral de Veterinária, são fixados os montantes das taxas a cobrar, bem como os aspectos administrativos do pagamento das mesmas."
+  },
+  "115346573": {
+   "fragment_id": "115343370",
+   "type": 11,
+   "heading": "Artigo 48.º — Codificação dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Codificação dos anexos\n\nCom início no dia 1 de Janeiro de 2000, trienalmente, será adoptada uma versão consolidada dos anexos B e C onde constem todos os aditivos e suas utilizações autorizados em alimentação animal por regulamento comunitário."
+  },
+  "115346574": {
+   "fragment_id": "115343371",
+   "type": 11,
+   "heading": "Artigo 49.º — Cláusula de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Cláusula de salvaguarda\n\n1 - O director-geral de Veterinária pode suspender ou restringir provisoriamente a utilização de um dos aditivos enumerados nos anexos B e C ou aprovados através de regulamento comunitário, sempre que, em virtude de novos dados ou de uma nova avaliação dos dados existentes, surgidos depois da adopção das disposições em causa, constate que o emprego de um dos aditivos aí enumerados ou a sua utilização nas condições fixadas representa perigo para a saúde humana, saúde animal ou para o meio ambiente.\n\n2 - Sempre que a situação prevista no número anterior se verifique, deve a DGV, enquanto autoridade nacional competente, comunicar de imediato aos outros Estados membros e à Comissão da União Europeia, precisando os motivos que justificaram a sua decisão.\n\n3 - Em posse de dados científicos que coloquem em dúvida a inocuidade para a saúde humana ou animal de um aditivo incluído nos anexos B e C ou aprovado através de regulamento comunitário, pode o director-geral de Veterinária suspender a sua utilização em alimentação animal."
+  },
+  "115352875": {
+   "fragment_id": "115343372",
+   "type": 11,
+   "heading": "Artigo 50.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Disposições transitórias\n\n1 - Até à publicação da lista dos estabelecimentos e intermediários aprovados, prevista no n.º 1 do artigo 12.º e da lista dos estabelecimentos e intermediários registados, prevista no n.º 1 do artigo 20.º, ambos do Decreto-Lei n.º 216/99, de 15 de Junho, mantém-se em vigor o artigo 7.º do Decreto-Lei n.º 440/89, de 27 de Dezembro.\n\n2 - As inscrições referentes aos aditivos carbadox e olaquindox respeitantes aos factores de crescimento, constantes dos anexos B e C, são suprimidas dos referidos anexos, a partir de 1 de Setembro de 1999, não sendo autorizadas a sua colocação em circulação e a sua utilização a partir dessa data.\n\n3 - As inscrições referentes aos aditivos arprinocide, dinitolmida e ipronidazol, respeitantes aos coccidiostáticos e outras substâncias de efeitos específicos, constantes do capítulo I do anexo B e do anexo C, são suprimidas dos referidos anexos a partir de 1 de Outubro de 1999, não sendo autorizadas a sua colocação em circulação e a sua utilização a partir dessa data."
+  },
+  "115352876": {
+   "fragment_id": "115343373",
+   "type": 11,
+   "heading": "Artigo 51.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - As referências aos números de aprovação e de registo, decorrentes da aplicação do Decreto-Lei n.º 216/99, de 15 de Junho, constantes dos artigos 36.º, 37.º e 38.º do presente diploma, só são aplicáveis a partir de 1 de Abril de 2001."
+  },
+  "115352878": {
+   "fragment_id": "115352975",
+   "type": 14,
+   "heading": "Anexo A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A\n\nParte A:\n\nAntibióticos: todos os aditivos do grupo;\n\nCoccidiostáticos e outras substâncias de efeitos específicos: todos os aditivos do grupo;\n\nFactores de crescimento: todos os aditivos do grupo.\n\nParte B:\n\nOligoelementos: cobre e selénio;\n\nVitaminas, provitaminas e substâncias de efeito análogo, quimicamente bem definidas: vitaminas A e D."
+  },
+  "115352879": {
+   "fragment_id": "115352976",
+   "type": 14,
+   "heading": "Anexo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B\n\n(ver tabelas no documento original)"
+  },
+  "115352880": {
+   "fragment_id": "115352977",
+   "type": 14,
+   "heading": "Anexo C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo C\n\n(ver tabelas no documento original)"
+  },
+  "115352877": {
+   "fragment_id": "115343374",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.\n\nPromulgado em 2 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "115352888": {
+   "fragment_id": "115352977",
+   "type": 14,
+   "heading": "Anexo C",
+   "in_force_from": "2003-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 322/2003 - Diário da República n.º 296/2003, Série I-A de 2003-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-2003-423653), em vigor a partir de 2003-12-25"
+   ],
+   "markdown": "## Anexo C\n\n(ver tabelas no documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 322/2003 - Diário da República n.º 296/2003, Série I-A de 2003-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-2003-423653), em vigor a partir de 2003-12-25"
+  }
+ }
+}

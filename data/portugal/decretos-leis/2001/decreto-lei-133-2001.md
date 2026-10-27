@@ -1,0 +1,244 @@
+---
+schema_version: '1.0'
+id: pt:dre:165047:por
+title: Decreto-Lei n.º 133/2001
+short_title: null
+summary: Aprova um aumento de capital social por entradas em espécie e uma emissão de obrigações convertíveis em acções da
+  Portugal Telecom, SGPS, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 133/2001
+official_date: null
+publication_date: '2001-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/2001, Série I-A de 2001-04-24
+  number: '96'
+  series: I
+  supplement: null
+  pages: 2338 - 2341
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/04/096a00/23382341.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/133/2001/04/24/p/dre/pt/html
+  oj: null
+  dre: '165047'
+  dre_path: /dr/detalhe/decreto-lei/133-2001-165047
+  internal: pt:dre:165047:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2001-165047
+  metadata_url: https://data.dre.pt/eli/dec-lei/133/2001/04/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2001-165047
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d396c4f4305b5ecf4dcbf71c79e1c99fd3c6e2143704bb3b98d8f82326f842c3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acção Financeira
+- Aumento de Capital
+- Bolsa de Valores
+- Capital Social
+- Obrigações
+- Portugal Telecom
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/148/2000/11/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/148/2000/11/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/169/2000/12/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/169/2000/12/05/p/dre
+- type: cites
+  target: pt:dre:153116:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/227-a/2000/09/09/p/dre
+- type: cites
+  target: pt:dre:188691:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/1995/02/22/p/dre
+- type: cites
+  target: pt:dre:264277:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/122/1994/05/14/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621710:por
+  label: null
+  source: null
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:24:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 133/2001
+
+de 24 de Abril
+
+A Portugal Telecom, SGPS, S. A., anteriormente designada Portugal Telecom, S. A., e adiante também designada por PT, foi criada por fusão, nos termos regulados pelo [Decreto-Lei n.º 122/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1994-264277), de 14 de Maio. Desde o [Decreto-Lei n.º 44/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1995-188691), de 22 de Fevereiro, que aprovou a 1.ª fase de privatização, a PT tem vindo a ser privatizada ao abrigo da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril. Na 5.ª fase de privatização, aprovada pelo [Decreto-Lei n.º 227-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-a-2000-153116), de 9 de Setembro, e regulamentada pelas Resoluções do Conselho de Ministros n.os [148/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/148-2000-621710), de 3 de Novembro, e [169/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/169-2000-584004), de 5 de Dezembro, foi aprovada a alienação de todas as acções da PT por privatizar, à excepção de 500 acções da categoria A prevista no respectivo contrato de sociedade. Todavia, não foram ainda integralmente privatizadas as acções a que se referem os n.os 3 do artigo 3.º e 3 e 7 do artigo 6.º do [Decreto-Lei n.º 227-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-a-2000-153116), de 9 de Setembro.
+
+Admite-se agora que seja realizado um aumento do capital social e que sejam emitidas obrigações convertíveis em acções da PT, ambas as operações com sujeição às deliberações da respectiva assembleia geral e demais órgãos sociais competentes. A circunstância de, pelas razões indicadas, a privatização não se encontrar completada requer, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), autorização em forma legislativa das referidas operações, que pelo presente diploma se confere, acolhendo-se a iniciativa da sociedade.
+
+Quanto ao aumento de capital, ponderadas a estratégia definida para o sector e a situação da empresa, prevê-se que o mesmo seja efectuado por entradas em espécie, consistindo estas exclusivamente na cessão de um crédito de preço resultante de contrato-promessa de compra e venda celebrado entre a CINVESTE, SGPS, S. A., e a PT Multimédia - Serviços de Telecomunicações e Multimédia, SGPS, S. A., de que é devedora a última sociedade e credora aquela.
+
+Trata-se de dar adequada sequência, designadamente nos planos da estruturação e do financiamento, a uma importante operação específica já contratada pelo grupo PT através da referida sociedade PT Multimédia - Serviços de Telecomunicações e Multimédia, SGPS, S. A.
+
+Relativamente à emissão de obrigações convertíveis, dirigida na totalidade à obtenção de recursos junto de específicos segmentos dos mercados internacionais, é ela acolhida com vista à continuação da diversificação e do alargamento da base de captação dos recursos da empresa - e da sua própria base accionista futura -, susceptível de utilização em posteriores necessidades de financiamento, bem como ao reforço da sua presença nos mercados financeiros, no sentido de lhe permitir um maior grau de notoriedade e protagonismo.
+
+Pelas características e finalidades prosseguidas, esta emissão será, à semelhança da ocorrida no âmbito da 4.ª fase de privatização da PT, integralmente subscrita por sociedade dependente da PT ou instituição financeira que esta designe como agente, ficando a primeira vinculada, nos termos e condições do caderno de encargos aprovado, a emitir valores mobiliários que confiram direito à detenção de acções ordinárias da PT e a proceder à respectiva dispersão, em mercados de capitais, nomeadamente internacionais, junto de investidores institucionais.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - É aprovado o aumento de capital social da PT por entradas em espécie, mediante deliberação dos seus órgãos próprios.
+
+2 - É igualmente aprovada a emissão pela PT de obrigações convertíveis em acções, mediante deliberação dos seus órgãos próprios.
+
+3 - A PT requererá a admissão à cotação da totalidade das acções que venham a ser emitidas na sequência das operações previstas nos números anteriores, no mercado de cotações oficiais da Bolsa de Valores de Lisboa e do Porto e nas bolsas estrangeiras que venha a escolher.
+
+###### Artigo 2.º — Aumento de capital
+
+1 - O aumento de capital social referido no n.º 1 do artigo 1.º não poderá exceder o valor nominal de (euro) 28500000.
+
+2 - É aprovado o caderno de encargos, anexo ao presente diploma (anexo I), que define as condições do aumento de capital referido no número anterior.
+
+###### Artigo 3.º — Emissão de obrigações convertíveis em acções
+
+1 - A PT poderá suprimir o direito de preferência dos accionistas e efectuar a emissão de obrigações convertíveis em acções ordinárias, prevista no n.º 2 do artigo 1.º, integralmente reservada à subscrição por instituição financeira ou por sociedade cujo capital seja directa ou indirectamente detido na totalidade pela PT.
+
+2 - A quantidade de acções da PT inicialmente susceptíveis de emissão, no aumento de capital por conversão do montante das obrigações em entradas em numerário, por aplicação da relação e do preço de conversão que sejam estabelecidos na deliberação de emissão, não poderá exceder o correspondente a 5% do capital social da PT à data da deliberação.
+
+3 - A quantidade máxima de acções da PT inicialmente susceptíveis de emissão, nos termos do número anterior, poderá subsequentemente ser ultrapassada, por modificação das condições de emissão das obrigações, caso se verifique alguma das situações previstas no artigo 368.º do Código das Sociedades Comerciais ou situações semelhantes, nos termos consignados na deliberação da emissão.
+
+4 - Os actos referidos no n.º 1 do artigo 368.º do Código das Sociedades Comerciais, designadamente em casos previstos nos estatutos da PT, são, nos termos gerais, possíveis, desde que aceites pela entidade adquirente das obrigações convertíveis.
+
+5 - A sociedade cujo capital social seja detido na totalidade pela PT e referida no n.º 1 fica obrigada a emitir valores mobiliários que confiram direito à detenção de acções da PT e a proceder à subsequente dispersão dos mesmos em mercados, nomeadamente internacionais, junto de investidores institucionais, só podendo subscrever acções da PT mediante conversão se por conta dos ou para atribuição aos titulares dos referidos valores mobiliários.
+
+6 - As obrigações convertíveis em acções da PT emitidas em conformidade com o presente diploma não são consideradas para efeitos do artigo 349.º do Código das Sociedades Comerciais.
+
+7 - É aprovado o caderno de encargos, anexo ao presente diploma (anexo II), que define as condições a que fica sujeita a emissão e aquisição das obrigações convertíveis em acções da PT, bem como a emissão, pela sociedade cujo capital social seja detido pela PT, referida no n.º 1, e a subsequente dispersão, de valores mobiliários que confiram direito à detenção de acções ordinárias da PT.
+
+###### Artigo 4.º — Depositários de ADR ou GDR e exercício de direitos de voto
+
+O disposto nos artigos 14.º e 15.º do [Decreto-Lei n.º 227-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-a-2000-153116), de 9 de Setembro, bem como o disposto no n.º 3 do artigo 19.º do [Decreto-Lei n.º 44/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1995-188691), de 22 de Fevereiro, são aplicáveis às acções que sejam ou venham a ser emitidas de harmonia com o presente diploma, aos seus subscritores e titulares ou às pessoas a quem as acções ou os respectivos direitos sejam imputáveis, em conjunto com as demais acções e accionistas da PT, bem como com as pessoas às quais as últimas acções ou respectivos direitos sejam imputáveis.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 15 de Março de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues.
+
+Promulgado em 11 de Abril de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 12 de Abril de 2001.
+
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
+
+## ANEXO I — Caderno de encargos do aumento de capital por entradas em espécie da Portugal Telecom, SGPS, S. A.
+
+###### Artigo 1.º — Objecto
+
+O presente caderno de encargos regula, nos termos do decreto-lei que o aprova e do Código das Sociedades Comerciais, o aumento de capital da Portugal Telecom, SGPS, S. A., adiante designada apenas por PT, por novas entradas em espécie.
+
+###### Artigo 2.º — Condições do aumento de capital
+
+1 - O aumento de capital referido no n.º 1 do artigo 1.º do decreto-lei que aprova o presente caderno de encargos deverá observar as seguintes condições:
+
+a) Efectuar-se na modalidade de novas entradas em espécie, a subscrever exclusivamente pela sociedade CINVESTE, SGPS, S. A.;
+
+b) Serem as entradas a realizar exclusivamente através da cessão de crédito do preço resultante de contrato-promessa de compra e venda celebrado entre a CINVESTE, SGPS, S. A., e a PT Multimédia - Serviços de Telecomunicações e Multimédia, SGPS, S. A., de que é devedora esta última sociedade;
+
+c) Não exceder o valor nominal de (euro) 28500000;
+
+d) As entradas em espécie serem objecto de avaliação nos termos dos artigos 28.º e 89.º, ambos do Código das Sociedades Comerciais;
+
+e) As novas acções ordinárias terem o valor nominal de (euro) 1, a subscrever ao preço de (euro) 9,4 por acção, com um ágio de (euro) 8,4 por acção.
+
+2 - O aumento de capital, para além do mencionado no número anterior, deverá observar as demais normas e requisitos estabelecidos na lei e nas deliberações da PT que lhe respeitem.
+
+## ANEXO II — Caderno de encargos da emissão de obrigações convertíveis em acções da Portugal Telecom, SGPS, S. A.
+
+###### Artigo 1.º — Objecto
+
+O presente caderno de encargos regula a emissão, nos termos do decreto-lei que o aprova e do Código das Sociedades Comerciais, de obrigações convertíveis em acções ordinárias da Portugal Telecom, SGPS, S. A., adiante designada apenas por PT, que seja deliberada pelos órgãos sociais competentes da PT, bem como a subscrição e posterior detenção das obrigações e a emissão de valores mobiliários que confiram direito à detenção daquelas acções.
+
+###### Artigo 2.º — Condições da emissão
+
+1 - A emissão poderá, nos termos gerais, ser deliberada pelo conselho de administração da PT, de harmonia com o disposto nos artigos 350.º, n.º 1, e 456.º, n.º 1, do Código das Sociedades Comerciais, mediante autorização dos accionistas, nos termos do respectivo contrato de sociedade.
+
+2 - Caso, nos termos gerais e nos da deliberação de emissão, o valor nominal das obrigações convertíveis seja expresso, no todo ou em parte, em moeda sem curso legal em Portugal, considera-se, para efeitos do cálculo do limite estabelecido no n.º 2 do artigo 3.º do decreto-lei que aprova o presente caderno de encargos, o contravalor em moeda com curso legal em Portugal fixada na deliberação de emissão.
+
+3 - A deliberação de emissão estabelecerá as bases e os termos da conversão, de acordo com o n.º 2 do artigo 3.º do decreto-lei que aprova o presente caderno de encargos, e identificará a entidade que irá subscrever integralmente a emissão e ou emitir os valores mobiliários a que se refere o n.º 1 do artigo 3.º do presente caderno de encargos, a qual poderá ser uma sociedade cujo capital seja directa ou indirectamente detido na totalidade pela PT ou uma instituição financeira.
+
+4 - A deliberação deverá prever os casos em que, de acordo com o n.º 3 do artigo 3.º do decreto-lei que aprova o presente caderno de encargos, é possível proceder à modificação do preço de conversão e o consequente número máximo de acções a emitir para conversão e estabelecer, pormenorizadamente, os termos e condições da modificação referida.
+
+5 - Os termos da modificação a que alude o número anterior, bem como das alterações das condições de emissão das quais a modificação resulte, devem ser estabelecidos de acordo com padrões internacionais habitualmente adoptados em operações semelhantes.
+
+###### Artigo 3.º — Obrigações da entidade adquirente
+
+1 - A sociedade cujo capital seja directa ou indirectamente detido na totalidade pela PT, referida no n.º 1 do artigo 3.º do decreto-lei que aprova o presente caderno de encargos, fica vinculada a, simultânea ou subsequentemente, emitir valores mobiliários que confiram direito à aquisição ou detenção de acções ordinárias da PT e a proceder, ou a fazer proceder, às conversões destinadas à satisfação de direitos de aquisição correspondentes aos valores mobiliários emitidos.
+
+2 - A sociedade referida no n.º 1 obriga-se a diligenciar a promoção das operações necessárias à dispersão dos valores mobiliários a emitir, nos termos do número anterior, em mercados de capitais, designadamente internacionais, junto de investidores institucionais.
+
+3 - As operações de dispersão referidas no número anterior poderão seguir a prática internacional de recolha prévia de intenções de compra (bookbuilding), com aplicação do critério de atribuição que mais convenha à PT e que será objecto de acordo prévio entre as entidades colocadoras e a entidade adquirente das obrigações convertíveis.
+
+4 - A entidade adquirente das obrigações convertíveis fica vinculada a não celebrar nenhum negócio jurídico que tenha por objecto as obrigações ou os direitos inerentes às mesmas, salvo para satisfazer os direitos inerentes aos valores mobiliários referidos no n.º 1 ou com vista a essa satisfação, só podendo exercer os direitos de conversão para satisfação de correlativos direitos dos detentores de valores mobiliários que confiram direito à detenção de acções ordinárias da PT, por conta destes últimos ou para atribuição aos mesmos.
+
+###### Artigo 4.º — Obrigações da Portugal Telecom
+
+Enquanto for possível solicitar a conversão das obrigações a emitir, a PT fica obrigada a manter sobre a sociedade referida no n.º 1 do artigo 3.º uma relação de domínio total, directo ou indirecto.

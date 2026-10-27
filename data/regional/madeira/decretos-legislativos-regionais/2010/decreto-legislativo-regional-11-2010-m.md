@@ -1,0 +1,381 @@
+---
+schema_version: '1.0'
+id: pt:dre:334882:por
+title: Decreto Legislativo Regional n.º 11/2010/M
+short_title: null
+summary: Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 220/2008, de 12 de Novembro, que estabelece o regime jurídico
+  da segurança contra incêndios em edifícios
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 11/2010/M
+official_date: null
+publication_date: '2010-06-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/2010, Série I de 2010-06-25
+  number: '122'
+  series: I
+  supplement: null
+  pages: 2323 - 2325
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/12200/0232302325.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-02-20'
+version_history:
+  file: decreto-legislativo-regional-11-2010-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-02-20'
+    amending: pt:dre:157996087:por
+    amending_title: Decreto Legislativo Regional n.º 3/2021/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/11/2010/m/cons/20210219/pt/html
+  oj: null
+  dre: '334882'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/11-2010-334882
+  internal: pt:dre:334882:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2010-334882
+  metadata_url: https://data.dre.pt/eli/declegreg/11/2010/m/cons/20210219/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-157996124
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-157996124
+  retrieved_at: '2026-10-22T12:39:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a000fc3d060530708f696a7b19c8a9c1d29635be3e9a28d5d9be124c1d09d2a7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:39:41Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-11-2010-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Incêndio
+- Prevenção de Incêndios
+- Comissão de Acompanhamento
+- Construção Civil
+- Contra-ordenação
+- Definição de Competências
+- Fiscalização
+- Inspecção Regional das Actividades Económicas
+- Urbanismo
+- Madeira.região Autónoma
+- Receita Própria
+- Regime Jurídico
+- Serviço Regional de Protecção Civil
+- Autarquia Local
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:157996087:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087
+  date: '2021-02-19'
+- type: cites
+  target: pt:dre:239032:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/24/1992/09/15/m/dre
+- type: cites
+  target: pt:dre:239034:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/23/1992/09/15/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:432811:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/21/1995/08/28/m/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/2008/11/12/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:39:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 11/2010/M
+
+Decreto Legislativo Regional n.º 11/2010/M
+
+Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 220/2008, de 12 de Novembro, que estabelece o regime jurídico da segurança contra incêndios em edifícios
+
+Considerando que o Decreto-Lei n.º 220/2008, de 12 de Novembro, que estabelece o regime jurídico da segurança contra incêndios em edifícios, adiante designado abreviadamente por SCIE, determina que o mesmo se aplica a todo o território nacional, sem prejuízo de diploma regional que proceda às necessárias adaptações nas Regiões Autónomas;
+
+Considerando que as especificidades da Região Autónoma da Madeira, adiante designada abreviadamente por Região, em particular a sua orografia caracterizada pelo relevo acidentado, condicionam fortemente a utilização urbana;
+
+Considerando ainda, que importa reportar às entidades públicas regionais competentes as atribuições e competências conferidas no decreto-lei supramencionado às diversas entidades nacionais, revela-se assim imperioso adaptar aquele diploma a fim de torná-lo exequível na Região:
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea z) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto pelas Leis n.os 130/99, de 21 de Agosto e 12/2000, de 21 de Junho, conjugados com o artigo 37.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma adapta à Região Autónoma da Madeira o Decreto-Lei n.º 220/2008, de 12 de Novembro, que estabelece o regime jurídico da segurança contra incêndios em edifícios, adiante designado abreviadamente por SCIE.
+
+###### Artigo 2.º — Adaptações orgânicas
+
+1 - As referências feitas no Decreto-Lei n.º 220/2008, de 12 de novembro, alterado e republicado pelo Decreto-Lei n.º 224/2015, de 9 de outubro, alterado pelo Decreto-Lei n.º 95/2019, de 18 de julho, e alterado e republicado pela Lei n.º 123/2019, de 18 de outubro, à Autoridade Nacional de Emergência e Proteção Civil (ANEPC), com exceção das constantes nos artigos 15.º-A, 23.º e 33.º, entendem-se reportadas na Região ao Serviço Regional de Proteção Civil, IP-RAM, adiante designado abreviadamente por SRPC, IP-RAM.
+
+2 - As referências feitas à Autoridade de Segurança Alimentar e Económica entendem-se reportadas na Região à Autoridade Regional das Atividades Económicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 3.º — Competência
+
+1 - O SRPC, IP-RAM é a entidade competente para assegurar o cumprimento do regime jurídico da segurança contra incêndios em edifícios na Região, com exceção dos edifícios e recintos, que são classificados na 1.ª categoria de risco, cuja competência é dos municípios.
+
+2 - Ao SRPC, IP-RAM incumbe a credenciação de entidades para a emissão de pareceres e para a realização de vistorias e de inspeções das condições de SCIE, nos termos previstos no presente diploma e nas suas portarias complementares.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 4.º — Fiscalização
+
+1 - São competentes para fiscalizar o cumprimento das condições de SCIE:
+
+a) O SRPC, IP-RAM;
+
+b) Os municípios, na sua área territorial, quanto à 1.ª categoria de risco;
+
+c) A Autoridade Regional das Atividades Económicas, no que respeita à colocação no mercado dos equipamentos referidos no regulamento técnico referido no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação;
+
+d) (Revogada.)
+
+2 - No exercício das ações de fiscalização pode ser solicitada a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações que por razões de segurança devam ter execução imediata no âmbito de atos de gestão pública.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 5.º — Edifícios e recintos existentes
+
+1 - Estão sujeitos ao disposto no presente diploma, nos termos do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 37/2006/M, de 18 de agosto, na sua atual redação, as operações urbanísticas referentes a edifícios, ou suas frações autónomas, e recintos, construídos ao abrigo do direito anterior, nos termos previstos nos números seguintes.
+
+2 - Pode ser dispensada a aplicação de algumas disposições do regulamento técnico referido no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, quando a sua aplicação seja manifestamente desproporcionada, ao abrigo dos princípios previstos no decreto-lei que estabelece o regime aplicável à reabilitação de edifícios ou frações autónomas, mediante decisão do SRPC, IP-RAM, ou dos órgãos executivos dos municípios, quanto às utilizações tipo da 1.ª categoria de risco.
+
+3 - Nos casos previstos no número anterior, o projetista determina as medidas de segurança contra incêndio a implementar no edifício, com fundamentação adequada na memória descritiva do projeto de SCIE, recorrendo a métodos de análise das condições de segurança contra incêndio ou métodos de análise de risco, reconhecidos pela ANEPC ou por método a publicar pelo LNEC.
+
+4 - Compete à ANEPC definir e publicar as características fundamentais a que devem obedecer os métodos que venham a ser reconhecidos no âmbito do número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 6.º — Perigosidade atípica
+
+1 - Na Região, quando, justificada e comprovadamente, as disposições do regulamento técnico referido no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, sejam desadequadas face ao relevo acidentado do terreno, às grandes dimensões em altimetria ou planimetria ou às suas características de funcionamento ou de exploração ou construtivas, tais edifícios e recintos ou as suas frações são classificados de perigosidade atípica e ficam sujeitos a soluções de SCIE que, cumulativamente:
+
+a) Sejam devidamente fundamentadas pelo autor do projeto, com base em métodos de análise de risco que venham a ser reconhecidos pela ANEPC ou em métodos de ensaio ou em modelos de cálculo, ou com base em novas tecnologias ou em tecnologias não previstas na presente legislação, cujo desempenho ao nível da SCIE seja devidamente justificado, no âmbito das disposições construtivas ou dos sistemas e equipamentos de segurança;
+
+b) Sejam explicitamente referidas como não conformes no termo de responsabilidade do autor do projeto;
+
+c) Sejam aprovadas pelo SRPC, IP-RAM, ou pelos órgãos executivos dos municípios quanto a edifícios, suas frações, ou recintos, das utilizações tipo da 1.ª categoria de risco.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 7.º — Utilização dos edifícios
+
+1 - O pedido de autorização de utilização de edifícios ou suas frações autónomas e recintos, referido no artigo 63.º do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 37/2006/M, de 18 de agosto, na sua atual redação, deve ser instruído com termo de responsabilidade subscrito pelo diretor de obra ou pelo diretor de fiscalização de obra, no qual deve declarar que se encontram cumpridas as condições de SCIE.
+
+2 - Quando haja lugar a vistorias, nos termos dos artigos 64.º e 65.º do regime jurídico da urbanização e edificação referido no número anterior ou em virtude de legislação especial em matéria de autorização de funcionamento, deve ser garantido o cumprimento das condições de SCIE e dos respetivos projetos ou fichas de segurança, sem prejuízo de outras situações previstas em legislação específica que preveja ou determine a realização de vistorias.
+
+3 - As vistorias referidas no número anterior, referentes às 2.ª, 3.ª e 4.ª categorias de risco, devem integrar um representante do SRPC, IP-RAM, ou de uma entidade por ele credenciada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 8.º — Medidas de autoprotecção
+
+1 - Para efeitos de apreciação das medidas de autoproteção referidas no artigo 21.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, o respetivo processo deve ser entregue no SRPC, IP-RAM, ou nos municípios quanto à 1.ª categoria de risco, pelas entidades referidas no artigo 6.º do supracitado diploma, nos seguintes prazos:
+
+a) Até 30 dias antes da entrada em funcionamento do edifício, no caso de obras de construção nova, de alteração, ampliação ou mudança de uso;
+
+b) No prazo máximo de um ano após a data de entrada em vigor do presente diploma, para o caso de edifícios e recintos existentes àquela data.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 9.º — Instrução e decisão dos processos sancionatórios
+
+A instrução e decisão de processos por contraordenação prevista no Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, compete ao SRPC, IP-RAM, com exceção dos que se referem a edifícios ou recintos classificados na 1.ª categoria de risco, cuja competência é do respetivo município.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 10.º — Destino do produto das coimas
+
+O produto das coimas é repartido da seguinte forma:
+
+a) 10 % para a entidade fiscalizadora;
+
+b) 30 % para o SRPC, IP-RAM quanto às 2.ª, 3.ª e 4.ª categorias de risco;
+
+c) 90 % para o respetivo município quanto à 1.ª categoria de risco;
+
+d) 60 % para a Região quanto às 2.ª, 3.ª e 4.ª categorias de risco.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 11.º — Taxas
+
+1 - Os serviços prestados pelo SRPC, IP-RAM, no âmbito do presente diploma, estão sujeitos a taxas cujo valor é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da proteção civil.
+
+2 - Para efeitos do disposto no número anterior, consideram-se serviços prestados pelo SRPC, IP-RAM, nomeadamente:
+
+a) A credenciação de entidades para a emissão de pareceres e a realização de vistorias e inspeções das condições de SCIE;
+
+b) A emissão de pareceres sobre as condições de SCIE;
+
+c) A realização de vistorias sobre as condições de SCIE;
+
+d) A realização de inspeções regulares sobre as condições de SCIE;
+
+e) A emissão de pareceres sobre medidas de autoproteção.
+
+3 - Os serviços prestados pelos municípios, no âmbito do presente diploma, estão sujeitos a taxas.
+
+4 - Para efeitos do disposto no número anterior, consideram-se serviços prestados pelos municípios, nomeadamente:
+
+a) A emissão de pareceres sobre as condições de SCIE;
+
+b) A realização de vistorias sobre as condições de SCIE;
+
+c) A realização de inspeções regulares sobre as condições de SCIE;
+
+d) A emissão de pareceres sobre medidas de autoproteção.
+
+5 - As taxas correspondem ao custo efetivo dos serviços prestados.
+
+6 - A cobrança coerciva das taxas faz-se através de processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestou os serviços.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 12.º — Credenciação
+
+1 - O regime de credenciação de entidades para a emissão de pareceres, realização de vistorias e de inspeções das condições de SCIE pelo SRPC, IP-RAM, nos termos previstos no presente diploma, é definido por portaria do membro do Governo Regional responsável pela área da proteção civil.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 13.º — Comissão regional de acompanhamento
+
+Sem prejuízo do disposto no artigo 35.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas da protecção civil e das obras públicas, será criada uma comissão de acompanhamento do regime instituído no presente diploma, presidida pelo SRPC, IP-RAM, e constituída por um perito a designar por cada uma das seguintes entidades:
+
+a) Laboratório Regional de Engenharia Civil;
+
+b) Associação de Municípios da Região Autónoma da Madeira;
+
+c) Secção Regional da Madeira da Ordem dos Arquitetos;
+
+d) Secção Regional da Madeira da Ordem dos Engenheiros;
+
+e) Secção Regional da Madeira da Ordem dos Engenheiros Técnicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20
+
+###### Artigo 14.º — Legislação complementar
+
+A regulamentação do Decreto-Lei n.º 220/2008, de 12 de Novembro é igualmente aplicável à Região, sem prejuízo desta proceder à respectiva adaptação ou à aprovação de regulamentação própria.
+
+###### Artigo 15.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto Regulamentar Regional n.º 21/95/M, de 28 de Agosto;
+
+b) O Decreto Regulamentar Regional n.º 24/92/M, de 15 de Setembro;
+
+c) O Decreto Regulamentar Regional n.º 23/92/M, de 15 de Setembro;
+
+d) O Decreto Regulamentar Regional n.º 25/92/M, de 17 de Setembro.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 1 de Junho de 2010.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 15 de Junho de 2010.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

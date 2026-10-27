@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:377899:por
+title: Portaria n.º 398/79
+short_title: null
+summary: Cria várias especialidades de praças na Força Aérea, as quais passam a constituir a Área de Carreira de Manutenção
+  de Electricidade, Electrónica e Instrumentos (MELINS)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Força Aérea
+proposing_entity: null
+official_number: 398/79
+official_date: null
+publication_date: '1979-08-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 180/1979, Série I de 1979-08-06
+  number: '180'
+  series: I
+  supplement: null
+  pages: 1831 - 1832
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18000/18311832.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '377899'
+  dre_path: /dr/detalhe/portaria/398-1979-377899
+  internal: pt:dre:377899:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/398-1979-377899
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/398-1979-377899
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dcf3e0290d889ec0c6f65c194087c7427ad083de7fdc90e8926af418b473181c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Especialidade Militar
+- Força Aérea
+- Militar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329867:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:57:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 398/79
+
+de 6 de Agosto
+
+Considerando a necessidade de ajustar as especialidades de praças estabelecidas no [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957, às necessidades da Força Aérea;
+
+Considerando o disposto no [Decreto-Lei n.º 272/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1978-329867), de 6 de Setembro:
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:
+
+1.º De harmonia com o n.º 2 do artigo 1.º do [Decreto-Lei n.º 272/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1978-329867), são criadas as seguintes especialidades de praças, as quais constituem a Área de Carreira de Manutenção de Electricidade, Electrónica e Instrumentos (MELINS):
+
+a) Mecânico de electricidade (MELEC);
+
+b) Mecânico de electrónica (MELECA);
+
+c) Mecânico de electricidade e instrumentos de avião (MELIAV).
+
+2.º Os actuais primeiros-cabos mecânicos electricistas, mecânicos de rádio e mecânicos de radar serão reclassificados nas especialidades referidas no n.º 1.º, de acordo com as directivas do SCEMFA (PES).
+
+3.º Os efectivos de praças a estabelecer, nos termos do artigo 4.º do [Decreto-Lei n.º 272/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1978-329867), para cada uma das especialidades criadas pela presente portaria deverão, no seu total, não exceder os que se encontram estabelecidos para as especialidades de mecânicos electricistas, mecânicos de rádio e mecânicos de radar, que são consideradas extintas após a reclassificação referida no n.º 2.º
+
+4.º o ingresso em qualquer das especialidades referidas no n.º 1.º tem lugar no posto de primeiro-cabo, após aprovação no curso de formação de especialistas (CFE) em Manutenção de Electricidade, Electrónica e Instrumentos (MELINS) e tendo simultaneamente em conta os seguintes factores:
+
+a) Necessidades do serviço;
+
+b) Preferência declarada pelos alunos na fase final do CFE;
+
+c) Classificação geral obtida no CFE;
+
+d) Informação de ordem vocacional, prestada pela escola ou centro de instrução com base nas classificações obtidas pelos alunos nas diversas disciplinas do CFE, e tendo em consideração as provas psicotécnicas prestadas.
+
+Estado-Maior da Força Aérea, 17 de Julho de 1979. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

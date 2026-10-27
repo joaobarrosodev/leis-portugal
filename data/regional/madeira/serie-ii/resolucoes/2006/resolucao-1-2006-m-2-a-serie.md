@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: pt:dre:2328808:por
+title: Resolução n.º 1/2006/M (2.ª série)
+short_title: null
+summary: null
+jurisdiction: regional
+territory: madeira
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 1/2006/M (2.ª série)
+official_date: null
+publication_date: '2006-05-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 86/2006, Série II de 2006-05-04
+  number: '86'
+  series: II
+  supplement: null
+  pages: 6471 - 6473
+  pdf_url: https://files.diariodarepublica.pt/2s/2006/05/086000000/0647106473.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2328808'
+  dre_path: /dr/detalhe/resolucao/1-2006-2328808
+  internal: pt:dre:2328808:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2006-2328808
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2006-2328808
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:54:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fdd7dff893bb59bd16a802c5c2f12a432ec2877cf478d377b9300513d94ee121
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Funchal
+- Madeira.região Autónoma
+- Medidas Preventivas
+- Ordenamento do Território
+- Plano de Urbanização
+relationships:
+- type: cites
+  target: pt:dre:323948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692199:por
+  label: null
+  source: null
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:54:14Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 1/2006/M (2.ª série)
+
+Resolução n.º 1/2006/M (2.ª série). - A Assembleia Municipal do Funchal aprovou, em reunião extraordinária realizada em 3 de Março de 2006, e sob proposta da Câmara Municipal, a decisão de elaborar o Plano de Urbanização de D. João Norte e a proposta de medidas preventivas, a que estão sujeitos os terrenos na sua área de intervenção.
+
+O Plano de Urbanização de D. João Norte será elaborado no cumprimento do disposto no artigo 13.º do Regulamento do Plano Director Municipal do Funchal.
+
+A sua elaboração será acompanhada, nos termos da legislação em vigor, pela Direcção Regional de Ordenamento do Território, da Secretaria Regional do Equipamento Social e Transportes.
+
+As medidas preventivas destinam-se, nos termos do previsto na legislação em vigor, a evitar a alteração das circunstâncias e das condições de facto existentes que possam limitar a liberdade de planeamento ou comprometer ou tornar onerosa a execução do Plano.
+
+Foi verificada a correcta inserção no quadro legal em vigor e foram objecto de parecer positivo fundamentado, nos termos do artigo 8.º, n.º 2, do [Decreto Legislativo Regional n.º 8-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-a-2001-692199), de 20 de Abril.
+
+Considerando a legislação que estabelece o regime jurídico dos instrumentos de gestão territorial, consubstanciada no [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção dada pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 22 de Setembro, adaptado à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 8-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-a-2001-692199), de 20 de Abril, e a orgânica do Governo Regional, aprovada pelo [Decreto Regulamentar Regional n.º 43/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-2000-582847), de 12 de Dezembro, resolve o Conselho do Governo, sob proposta do Secretário Regional do Equipamento Social e Transportes, ao abrigo do disposto no artigo 8.º, n.º 3, do [Decreto Legislativo Regional n.º 8-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-a-2001-692199), de 20 de Abril, o seguinte:
+
+1 - São ratificadas as medidas preventivas para a área de intervenção do Plano de Urbanização de D. João Norte, cujo regulamento e planta de delimitação da área de intervenção no ortofotomapa, no cadastro predial e na planta de zonamento do Plano Director Municipal do Funchal fazem parte integrante da presente resolução, ficando os respectivos originais arquivados na Secretaria-Geral da Presidência do Governo.
+
+2 - As medidas preventivas para a área de intervenção do Plano de Urbanização de D. João Norte sobrepõem-se ao Plano Director Municipal do Funchal na sua área de intervenção.
+
+3 - Mais resolve proceder à respectiva publicação no Jornal Oficial da Região Autónoma da Madeira e no Diário da República.
+
+23 de Março de 2006. - O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
+
+Medidas preventivas do Plano de Urbanização de D. João Norte
+
+O Plano de Urbanização de D. João Norte tem como primordial objectivo desenvolver e concretizar para a área de intervenção delimitada um programa específico de acção territorial.
+
+Assim, e de acordo com a actual situação estruturante, fundamentar-se-á a opção de novos usos dominantes, equacionando-se soluções de planeamento que permitam sustentar a presente proposta.
+
+Dessa forma, as orientações decorrentes para o Plano de Urbanização de D. João Norte foram estruturadas em quatro vertentes essenciais, que abrangem as necessidades do território: a vertente física, a vertente funcional, a vertente social e a vertente da mobilidade. Pretende-se, assim, estruturar propostas concretas que permitam responder positivamente às questões relacionadas com as debilidades do espaço em equação face à introdução de novos equipamentos.
+
+Enquanto o Plano de Urbanização de D. João Norte não estiver na sua totalidade definido e ratificado, há que condicionar e estabelecer algumas normas fundamentais, para que no futuro não se inviabilize a concretização harmoniosa de uma política programática de preservação e requalificação sustentável tanto no que diz respeito ao património construído como ao natural, implementando-se dessa forma e desde já uma estratégia de desenvolvimento progressivo.
+
+Nesta conformidade, entende o Departamento de Planeamento Estratégico da Câmara Municipal do Funchal ser conveniente submeter a área de intervenção correspondente ao Plano de Urbanização de D. João Norte a um conjunto de medidas preventivas.
+
+O objectivo é evitar intervenções indisciplinadas, que excedam e desvirtuem o âmbito do conjunto de objectivos definidos e programados pelo referido instrumento de gestão territorial em curso.
+
+A Câmara do Funchal, ao abrigo do disposto no artigo 64.º, n.º 7, alínea a), do [Decreto-Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1999-323948), de 18 de Setembro, decide proceder à elaboração de um projecto de regulamento de medidas preventivas para ser submetido à Assembleia Municipal para aprovação nos termos do artigo 53.º, n.º 2, alínea a), do citado decreto-lei.
+
+Considerando o disposto no n.º 3 do artigo 109.º, em conjugação com o n.º 8 do artigo 80.º, ambos do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, alterado e republicado pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro:
+
+###### Artigo 1.º — Objectivos
+
+O estabelecimento de medidas preventivas destina-se a evitar a alteração substancial das circunstâncias e condições de facto existentes que possam limitar a liberdade de planeamento ou comprometer a execução do futuro Plano de Urbanização de D. João Norte.
+
+###### Artigo 2.º — Âmbito territorial
+
+Estabelecem-se medidas preventivas sobre a área delimitada em planta anexa, na que corresponde à totalidade da área onde decorre a elaboração do Plano de Urbanização de D. João Norte, conforme deliberação municipal.
+
+###### Artigo 3.º — Âmbito material
+
+1 - As medidas preventivas na área referida no número anterior consistem na proibição das seguintes acções:
+
+a) Operações de loteamento;
+
+b) Derrube de árvores em maciço ou destruição do solo vivo e coberto vegetal.
+
+2 - As medidas preventivas consistem na limitação das obras de urbanização e obras de construção nos seguintes aspectos:
+
+a) A edificação de novas construções só será permitida nos terrenos adjacentes às infra-estruturas viárias existentes que tenham pelo menos 5 m de largura, numa faixa de terreno com profundidade até 30 m, medida na perpendicular ao eixo daquelas vias, e que tenham acesso directo por estas, para habitação unifamiliar isolada, geminada ou em banda, até três pisos na fachada de maior dimensão e que não ultrapassem 15 m de profundidade de empena;
+
+b) Podem ser admitidas obras de ampliação ou de alteração de edificações existentes que se encontrem na situação prevista na alínea anterior;
+
+c) São permitidas operações de destaque desde que a parcela a intervir esteja infra-estruturada nas mesmas condições que a edificabilidade, de acordo com o Decreto-Lei n.º 555/91, de 16 de Dezembro, alterado pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho;
+
+d) São permitidas obras de manutenção das características do edificado, permitindo-se obras de restauro, beneficiação, reabilitação e remodelação;
+
+e) A demolição será autorizada em caso de ruína iminente do edificado, comprovada por vistoria municipal.
+
+###### Artigo 4.º — Âmbito temporal
+
+O prazo da vigência das medidas preventivas é de dois anos, prorrogável por mais um, com início na data da sua publicação, deixando de vigorar nos termos do disposto no n.º 3 do artigo 112.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, alterado e republicado pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro.
+
+###### Artigo 5.º — Plano Director Municipal
+
+Para a área abrangida pelas medidas preventivas encontra-se em vigor o Plano Director Municipal do Funchal, ratificado pela Resolução do Conselho do Governo n.º 88/97, de 10 de Julho, publicada no Jornal Oficial, 2.ª série, n.º 151, de 8 de Agosto de 1997, da Região Autónoma da Madeira, sem prejuízo da aplicação do artigo 3.º destas medidas preventivas aos casos submetidos a apreciação da Câmara Municipal do Funchal após a entrada em vigor destas.
+
+###### Artigo 6.º — Regime aplicável
+
+Às medidas preventivas estabelecidas pelo presente diploma aplica-se o [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro, adaptado à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 8-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-a-2001-692199), de 20 de Abril.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Limite de intervenção/ortofotomapa
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/05/086000000/0647106473.pdf)
+
+Limite de intervenção/cadastro
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/05/086000000/0647106473.pdf)
+
+Limite de intervenção/PDM
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/05/086000000/0647106473.pdf)

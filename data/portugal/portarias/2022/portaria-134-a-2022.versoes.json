@@ -1,0 +1,656 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:181364880:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-214216603",
+ "dre_path": "/dr/detalhe/portaria/134-a-2022-181364880",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214172738",
+    "214172739",
+    "214172740",
+    "214172742",
+    "214172743",
+    "214172744",
+    "214172745",
+    "214172746",
+    "214172747",
+    "214172748",
+    "214172749",
+    "214172750",
+    "214172751",
+    "214172752",
+    "214172753",
+    "214172754",
+    "214172755",
+    "214172756",
+    "214172757",
+    "214172758",
+    "214172759",
+    "214172760",
+    "214172761",
+    "214172762",
+    "214172763",
+    "214172764",
+    "214172765",
+    "214172766",
+    "214172767",
+    "214172768",
+    "214172769",
+    "214172770",
+    "214172771",
+    "214172772",
+    "214172773",
+    "214172774",
+    "214254775",
+    "214254776",
+    "214254777",
+    "214254778",
+    "214254779",
+    "214254780",
+    "214254781",
+    "214254782",
+    "214254783",
+    "214254784",
+    "214254785",
+    "214254786",
+    "214254787",
+    "214254788",
+    "214254789"
+   ]
+  },
+  {
+   "date": "2023-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214119138:por",
+     "title": "Portaria n.º 155-A/2023",
+     "published": "2023-06-06",
+     "dre_path": "/dr/detalhe/portaria/155-a-2023-214119138"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "214172738",
+    "214172739",
+    "214172740",
+    "214172741",
+    "214172742",
+    "214172743",
+    "214172744",
+    "214172745",
+    "214172746",
+    "214172747",
+    "214172748",
+    "214172749",
+    "214172750",
+    "214172751",
+    "214172752",
+    "214172753",
+    "214172754",
+    "214172755",
+    "214172756",
+    "214172757",
+    "214172758",
+    "214172759",
+    "214172760",
+    "214172761",
+    "214172762",
+    "214254795",
+    "214172764",
+    "214172765",
+    "214172766",
+    "214172767",
+    "214172768",
+    "214172769",
+    "214172770",
+    "214172771",
+    "214172772",
+    "214172773",
+    "214254796",
+    "214254775",
+    "214254776",
+    "214254777",
+    "214254778",
+    "214254779",
+    "214254780",
+    "214254781",
+    "214254782",
+    "214254783",
+    "214254784",
+    "214254785",
+    "214254786",
+    "214254787",
+    "214254788",
+    "214254789"
+   ]
+  },
+  {
+   "date": "2024-12-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:899204483:por",
+     "title": "Portaria n.º 316/2024/1",
+     "published": "2024-12-06",
+     "dre_path": "/dr/detalhe/portaria/316-2024-899204483"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "214172738",
+    "214172739",
+    "214172740",
+    "214172741",
+    "214172742",
+    "214172743",
+    "214172744",
+    "214172745",
+    "214172746",
+    "214172747",
+    "214172748",
+    "214172749",
+    "214172750",
+    "214172751",
+    "214172752",
+    "214172753",
+    "214172754",
+    "214172755",
+    "214172756",
+    "214172757",
+    "214172758",
+    "214172759",
+    "214172760",
+    "214172761",
+    "214172762",
+    "214254795",
+    "214172764",
+    "214172765",
+    "214172766",
+    "214172767",
+    "214172768",
+    "214172769",
+    "214172770",
+    "214172771",
+    "214172772",
+    "214172773",
+    "899356033",
+    "214254775",
+    "214254776",
+    "214254777",
+    "214254778",
+    "214254779",
+    "214254780",
+    "214254781",
+    "214254782",
+    "214254783",
+    "214254784",
+    "214254785",
+    "214254786",
+    "214254787",
+    "214254788",
+    "214254789"
+   ]
+  }
+ ],
+ "fragments": {
+  "214172738": {
+   "fragment_id": "214216604",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 134-A/2022\n\nde 30 de março\n\nSumário: Aprova o Regulamento de Atribuição de Apoios Financeiros para a Concretização dos Investimentos na Rede Nacional de Cuidados Continuados Integrados e na Rede Nacional de Cuidados Paliativos previstos no Plano de Recuperação e Resiliência.\n\nA pandemia causada pelo vírus SARS-CoV-2, para além de representar uma emergência de saúde pública, que obrigou a respostas imediatas no plano sanitário, desencadeou uma retração generalizada da atividade económica, originando impactos sem precedentes e severas consequências de ordem social à escala mundial.\n\nPerante os efeitos da pandemia nas economias europeias, foi criado um instrumento comunitário estratégico de mitigação da crise, capaz de promover a convergência e a resiliência dos países da União Europeia, contribuindo para assegurar o crescimento sustentável de longo prazo e para responder aos desafios da dupla transição para uma sociedade mais ecológica e digital.\n\nNeste contexto, o Conselho Europeu criou o Next Generation EU, um instrumento temporário de recuperação, a partir do qual se desenvolve o Mecanismo de Recuperação e Resiliência, em que se enquadra o Plano de Recuperação e Resiliência (PRR) apresentado por Portugal, para o período de 2021-2026, aprovado pela Comissão Europeia e já em execução.\n\nO PRR, incluindo, entre as suas dimensões, a «Resiliência» e, entre as suas prioridades, a «Redução das vulnerabilidades sociais», definiu o Serviço Nacional de Saúde e as respostas sociais como duas áreas essenciais de reforma e investimentos.\n\nDeste modo, no âmbito do referido Plano, foram definidas diversas metas para reforçar a resiliência do sistema de saúde e assegurar a igualdade de acesso a serviços de qualidade na área da saúde e dos cuidados de longa duração, designadamente o alargamento da Rede Nacional de Cuidados Continuados Integrados (RNCCI) para uma cobertura nacional mínima de 80 % em camas de internamento da rede geral, respostas em unidades de dia e promoção da autonomia, aumento das respostas em equipas domiciliárias de cuidados continuados, aumento das respostas em cuidados continuados integrados de saúde mental nas tipologias de unidades residenciais, unidades socio-ocupacionais e equipas de apoio domiciliário, assim como alargamento da Rede Nacional de Cuidados Paliativos (RNCP) em camas de menor complexidade e equipas comunitárias de suporte em cuidados paliativos.\n\nA execução destas metas visa contribuir para a concretização dos objetivos de desenvolvimento sustentável previstos na Estratégia Nacional para a Inclusão das Pessoas com Deficiência 2021-2025, nomeadamente garantir o acesso à saúde de qualidade e promover o bem-estar para todas as pessoas, assim como dar cumprimento aos princípios da Convenção sobre os Direitos das Pessoas com Deficiência, adotada pela Organização das Nações Unidas, designadamente em matéria de acessibilidade.\n\nJá a concretização dos investimentos para alcançar as ditas metas consiste numa linha de apoios financeiros estruturada e faseada, a conceder designadamente a promotores dos setores privado e social, nos termos previstos no artigo 2.º do Decreto-Lei n.º 116/2021, de 15 de dezembro, com vista ao apoio às mencionadas respostas da RNCCI e da RNCP, devidamente preparadas para entrar em funcionamento.\n\nNessa medida, importa, pois, definir o regulamento de atribuição dos mencionados apoios financeiros, no âmbito do PRR, incluindo os procedimentos de apreciação e seleção de candidaturas das entidades a apoiar, e bem assim os principais aspetos de contratualização, execução, acompanhamento e avaliação da utilização desses apoios financeiros, dando cumprimento ao marco 51 da linha de investimentos RE-C01-i02 da Componente 01: Serviço Nacional de Saúde do mesmo PRR.\n\nAssim:\n\nNos termos do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 116/2021, de 15 de dezembro, manda o Governo, pelo Ministro de Estado e das Finanças, pelo Ministro do Planeamento e pela Ministra da Saúde, o seguinte:"
+  },
+  "214172739": {
+   "fragment_id": "214216605",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado, em anexo à presente portaria, da qual faz parte integrante, o Regulamento de Atribuição de Apoios Financeiros para a Concretização dos Investimentos na Rede Nacional de Cuidados Continuados Integrados e na Rede Nacional de Cuidados Paliativos, previstos no investimento RE-C01-i02: Rede Nacional de Cuidados Continuados Integrados e Rede Nacional de Cuidados Paliativos da Componente 01: Serviço Nacional de Saúde, do Plano de Recuperação e Resiliência."
+  },
+  "214172740": {
+   "fragment_id": "214216606",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "214172742": {
+   "fragment_id": "214216608",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE ATRIBUIÇÃO DE APOIOS FINANCEIROS PARA A CONCRETIZAÇÃO DOS INVESTIMENTOS NA REDE NACIONAL DE CUIDADOS CONTINUADOS INTEGRADOS E NA REDE NACIONAL DE CUIDADOS PALIATIVOS, PREVISTOS NO PLANO DE RECUPERAÇÃO E RESILIÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE ATRIBUIÇÃO DE APOIOS FINANCEIROS PARA A CONCRETIZAÇÃO DOS INVESTIMENTOS NA REDE NACIONAL DE CUIDADOS CONTINUADOS INTEGRADOS E NA REDE NACIONAL DE CUIDADOS PALIATIVOS, PREVISTOS NO PLANO DE RECUPERAÇÃO E RESILIÊNCIA\n\n(a que se refere o artigo 1.º)"
+  },
+  "214172743": {
+   "fragment_id": "214216609",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "214172744": {
+   "fragment_id": "214216610",
+   "type": 8,
+   "heading": "Secção I — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objeto e âmbito"
+  },
+  "214172745": {
+   "fragment_id": "214216611",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as normas aplicáveis à atribuição de apoios financeiros com vista à concretização dos investimentos na Rede Nacional de Cuidados Continuados Integrados (RNCCI) e na Rede Nacional de Cuidados Paliativos (RNCP), previstos na Componente 01: Serviço Nacional de Saúde (SNS), do Plano de Recuperação e Resiliência (PRR)."
+  },
+  "214172746": {
+   "fragment_id": "214216612",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO financiamento a que se refere o presente regulamento visa a prossecução de ações e projetos nos domínios da promoção da saúde, da prevenção e tratamento da doença, da reabilitação, da redução de danos, da reinserção e dos cuidados paliativos, que respondam às necessidades do desenvolvimento e consolidação da RNCCI e da RNCP, conforme previstas no PRR."
+  },
+  "214172747": {
+   "fragment_id": "214216613",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\nO presente regulamento aplica-se a Portugal continental."
+  },
+  "214172748": {
+   "fragment_id": "214216614",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades financiadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades financiadoras\n\nOs apoios financeiros previstos no presente regulamento são atribuídos pelas administrações regionais de saúde, I. P. (ARS, I. P.)"
+  },
+  "214172749": {
+   "fragment_id": "214216615",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuição dos apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuição dos apoios financeiros\n\nA atribuição dos apoios financeiros é feita através da celebração de contratos pelas entidades financiadoras, na sequência de procedimentos de apreciação e seleção de candidaturas, nos termos previstos no presente regulamento."
+  },
+  "214172750": {
+   "fragment_id": "214216616",
+   "type": 8,
+   "heading": "Secção II — Condições de acesso aos apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições de acesso aos apoios financeiros"
+  },
+  "214172751": {
+   "fragment_id": "214216617",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidatos\n\nSão entidades suscetíveis de se candidatar à atribuição dos apoios financeiros previstos no presente regulamento as pessoas coletivas de direito privado, com e sem fins lucrativos, que desenvolvam ou pretendam desenvolver projetos para prestação de cuidados continuados integrados, no âmbito da RNCCI, ou cuidados paliativos, no âmbito da RNCP, e que reúnam os requisitos indicados no artigo seguinte."
+  },
+  "214172752": {
+   "fragment_id": "214216618",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos dos candidatos\n\nOs candidatos à atribuição de apoios financeiros devem, sob pena de exclusão, observar os seguintes requisitos:\n\na) Deter idoneidade e capacidade organizativa, técnica e financeira para desenvolver os respetivos projetos;\n\nb) Encontrar-se regularmente constituídos e devidamente registados, licenciados ou autorizados, nos termos legais aplicáveis;\n\nc) Possuir contabilidade organizada e ter a situação regularizada em matéria de obrigações contabilísticas;\n\nd) Não ter condenação judicial por má administração de subsídios ou outro tipo de financiamentos públicos;\n\ne) Ter a situação contributiva perante a administração tributária e a segurança social devidamente regularizada;\n\nf) Quando aplicável, serem proprietários do terreno ou do edifício a intervencionar ou detentores de qualquer outro título bastante que permita afetar edificações, instalações e equipamentos objeto do financiamento, pelo período e no regime previsto nas alíneas e) e f) do artigo 19.º"
+  },
+  "214172753": {
+   "fragment_id": "214216619",
+   "type": 11,
+   "heading": "Artigo 8.º — Projetos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Projetos elegíveis\n\nOs projetos suscetíveis de beneficiar de apoios financeiros devem inscrever-se num dos seguintes tipos:\n\na) Construção de raiz de infraestruturas com um patamar 20 % mais exigente que o previsto no Decreto-Lei n.º 101-D/2020, de 7 de dezembro, na sua atual redação, designadamente, no que diz respeito aos edifícios com necessidades quase nulas de energia, obras de ampliação e ou obras de remodelação de infraestruturas para criação, pelas entidades beneficiárias, de novas respostas em unidades da RNCCI e da RNCP, de acordo com as condições de instalação definidas na legislação aplicável;\n\nb) Constituição, pelas entidades beneficiárias, de equipas de apoio domiciliário (EAD) em cuidados continuados integrados de saúde mental da RNCCI, de acordo com as condições de funcionamento previstas na legislação aplicável;\n\nc) Constituição, pelas entidades beneficiárias, de equipas de cuidados continuados integrados (ECCI) da RNCCI, de acordo com as condições de funcionamento previstas na legislação aplicável."
+  },
+  "214172754": {
+   "fragment_id": "214216620",
+   "type": 11,
+   "heading": "Artigo 9.º — Requisitos dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos dos projetos\n\n1 - Sem prejuízo do disposto no presente regulamento, os avisos de abertura dos procedimentos previstos no artigo 13.º fixam os requisitos específicos dos projetos a financiar.\n\n2 - Os projetos não podem ser objeto de qualquer outro financiamento, comunitário ou nacional, para as mesmas despesas elegíveis."
+  },
+  "214172755": {
+   "fragment_id": "214216621",
+   "type": 8,
+   "heading": "Secção III — Financiamento dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Financiamento dos projetos"
+  },
+  "214172756": {
+   "fragment_id": "214216622",
+   "type": 11,
+   "heading": "Artigo 10.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Financiamento\n\n1 - Os montantes disponíveis para os apoios financeiros previstos no presente regulamento são os que constam dos artigos 25.º, 33.º e 37.º\n\n2 - Os montantes referidos no número anterior não incluem o imposto sobre o valor acrescentado (IVA) aplicável.\n\n3 - Os apoios financeiros a conceder têm natureza não reembolsável.\n\n4 - A distribuição regional dos montantes referidos nos números anteriores é feita pela Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), ouvida a Comissão Nacional de Coordenação da RNCCI e a Comissão Nacional de Cuidados Paliativos, consoante a tipologia de projetos a financiar.\n\n5 - Os montantes de apoios financeiros não atribuídos por cada ARS, I. P., podem ser redistribuídos por outras regiões de saúde, nos termos a definir pelas coordenações nacionais referidas no número anterior."
+  },
+  "214172757": {
+   "fragment_id": "214216623",
+   "type": 11,
+   "heading": "Artigo 11.º — Elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Elegibilidade de despesas\n\n1 - Todas as despesas a considerar destinam-se, exclusivamente, à prossecução dos projetos referidos no artigo 8.º e regem-se por princípios de boa administração, boa gestão financeira e otimização dos recursos disponíveis.\n\n2 - As despesas elegíveis pressupõem um pagamento efetivo por parte da entidade beneficiária dos apoios, a ser devidamente comprovado por esta.\n\n3 - Os montantes relativos às despesas elegíveis não incluem o IVA aplicável."
+  },
+  "214172758": {
+   "fragment_id": "214216624",
+   "type": 11,
+   "heading": "Artigo 12.º — Limite de elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Limite de elegibilidade das despesas\n\nOs avisos de abertura dos procedimentos previstos no artigo seguinte fixam o limite de elegibilidade das despesas dos projetos referidos no artigo 8.º"
+  },
+  "214172759": {
+   "fragment_id": "214216625",
+   "type": 8,
+   "heading": "Secção IV — Procedimentos de apreciação e seleção de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Procedimentos de apreciação e seleção de candidaturas"
+  },
+  "214172760": {
+   "fragment_id": "214216626",
+   "type": 11,
+   "heading": "Artigo 13.º — Abertura dos procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Abertura dos procedimentos\n\n1 - Os procedimentos de apreciação e seleção de candidaturas são de âmbito regional e da responsabilidade das ARS, I. P., sob coordenação da ACSS, I. P.\n\n2 - A abertura de cada procedimento é feita mediante aviso a publicar nos sítios da Internet da respetiva ARS, I. P., e da Estrutura de Missão «Recuperar Portugal» e da ACSS, I. P., previamente validado por estas entidades.\n\n3 - O aviso referido no número anterior fixa as condições e os termos em que podem ser apresentadas as candidaturas, dele devendo constar obrigatoriamente:\n\na) O objeto dos apoios financeiros a conceder, com identificação dos projetos nele enquadráveis;\n\nb) Os objetivos e as prioridades visadas pelo investimento;\n\nc) O montante disponível para os apoios financeiros previstos para o investimento;\n\nd) As áreas geográficas específicas para criação das novas respostas da RNCCI e da RNCP, por tipologia, a indicar nos termos seguintes:\n\ni) Relativamente à RNCCI, pelas ARS, I. P., sob proposta das respetivas equipas coordenadoras regionais (ECR) e, no que se refere às tipologias de repostas de cuidados continuados integrados de saúde mental, em articulação com os respetivos coordenadores regionais de saúde mental;\n\nii) Relativamente à RNCP, pelas ARS, I. P., sob proposta dos respetivos responsáveis pela coordenação regional da RNCP;\n\ne) Os requisitos aplicáveis aos candidatos, incluindo a definição dos critérios para aferição do cumprimento do requisito previsto na alínea a) do artigo 7.º;\n\nf) Os requisitos aplicáveis ao projeto, nomeadamente, os requisitos de «não prejudicar significativamente», previstos no Regulamento (UE) 2021/241, de 12 de fevereiro, quando aplicáveis;\n\ng) As despesas elegíveis e não elegíveis, incluindo os valores mínimos e máximos;\n\nh) O montante global dos apoios financeiros a conceder e os montantes parciais elegíveis;\n\ni) A modalidade de financiamento;\n\nj) Metodologia de pagamento do apoio financeiro;\n\nk) A percentagem e os limites máximos de financiamento a atribuir por projeto;\n\nl) O prazo de apresentação das candidaturas, que não pode ser superior a 40 dias úteis a contar da data da publicação do aviso;\n\nm) A forma de apresentação das candidaturas;\n\nn) O prazo de apreciação das candidaturas pela respetiva comissão de apreciação, nos termos previstos no artigo 16.º;\n\no) Os critérios de apreciação e seleção das candidaturas, de acordo com o previsto no artigo 17.º;\n\np) A identificação das entidades que intervêm no processo de decisão no financiamento;\n\nq) A referência à necessidade de respeitar os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflitos de interesses nas relações entre a entidade beneficiária e os seus fornecedores e prestadores de serviço;\n\nr) Se aplicável, indicação da exigibilidade de pareceres de entidades externas, para efeitos das operações;\n\ns) A forma de contratualização para a concessão do apoio;\n\nt) A dotação disponível no âmbito do procedimento;\n\nu) Os pontos de contacto onde podem ser obtidas informações e esclarecidas dúvidas sobre o procedimento."
+  },
+  "214172761": {
+   "fragment_id": "214216627",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação de candidaturas\n\n1 - As candidaturas aos apoios financeiros previstos no presente regulamento devem ser apresentadas à ARS, I. P., competente em função da respetiva área de influência.\n\n2 - Para efeitos de formalização das candidaturas, os candidatos devem preencher um formulário próprio disponibilizado pela respetiva ARS, I. P., e remetê-lo nos termos e de acordo com a forma de apresentação definida no aviso de abertura do respetivo procedimento.\n\n3 - Cada candidatura deve ser acompanhada, entre outros a indicar no aviso de abertura, dos seguintes elementos:\n\na) Formulário e documentos nele indicados ou nos seus anexos;\n\nb) Declaração sob compromisso de honra relativamente à situação prevista na alínea a) do artigo 7.º;\n\nc) Documentos comprovativos da posse dos requisitos a que se referem as alíneas b) a f) do artigo 7.º\n\n4 - Caso a candidatura não se encontre instruída com todos os documentos referidos no número anterior, a respetiva ARS, I. P., notifica a entidade candidata para, num prazo a fixar no aviso de abertura não inferior a três dias úteis, proceder à entrega dos elementos em falta.\n\n5 - Da candidatura devem constar, de forma rigorosa e precisa, os objetivos mensuráveis do projeto e os meios necessários para os atingir, constituindo fatores determinantes na sua avaliação."
+  },
+  "214172762": {
+   "fragment_id": "214216628",
+   "type": 11,
+   "heading": "Artigo 15.º — Exclusão de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Exclusão de candidaturas\n\nConstitui motivo de exclusão da candidatura:\n\na) A apresentação da candidatura fora do prazo fixado no aviso de abertura do respetivo procedimento;\n\nb) O não cumprimento dos requisitos definidos no artigo 7.º;\n\nc) O não cumprimento dos requisitos dos projetos, de acordo com o previsto no artigo 9.º;\n\nd) A não apresentação dos elementos previstos no artigo anterior e no n.º 4 do artigo 16.º;\n\ne) A prestação de falsas declarações pelo candidato, sem prejuízo da responsabilidade civil e penal a que houver lugar."
+  },
+  "214172763": {
+   "fragment_id": "214216629",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão de apreciação\n\n1 - As candidaturas são apreciadas por comissão de apreciação, composta por elementos da competente ARS, I. P., e do Instituto da Segurança Social, I. P. (ISS, I. P.), quando aplicável, a designar pelos respetivos conselhos diretivos, sendo devidamente identificados em cada aviso de abertura.\n\n2 - A composição da comissão referida no número anterior é variável, devendo ser sempre constituída por um número ímpar de elementos e presidida por elemento da respetiva ARS, I. P.\n\n3 - A comissão de apreciação avalia as candidaturas de acordo com os critérios previstos no artigo seguinte.\n\n4 - Sempre que necessário, a comissão de apreciação pode solicitar aos respetivos candidatos documentos e esclarecimentos adicionais, face aos previstos no artigo 14.º, devendo os candidatos responder no prazo máximo de três dias úteis, sob pena de exclusão da candidatura.\n\n5 - A comissão elabora uma proposta de lista de classificação das candidaturas por tipologia de resposta, ordenadas de forma decrescente a partir da candidatura mais pontuada, com a respetiva fundamentação.\n\n6 - A lista referida no número anterior é notificada aos candidatos, para efeitos de audiência de interessados, nos termos do Código do Procedimento Administrativo (CPA).\n\n7 - Após realização da audiência de interessados, a comissão elabora a lista final de classificação das candidaturas por tipologia de resposta, que remete ao conselho diretivo da respetiva ARS, I. P., para decisão final.\n\n8 - A decisão final é notificada aos candidatos e publicitada nos sítios da Internet da ACSS, I. P., e da respetiva ARS, I. P."
+  },
+  "214172764": {
+   "fragment_id": "214216630",
+   "type": 11,
+   "heading": "Artigo 17.º — Critérios de apreciação e seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Critérios de apreciação e seleção das candidaturas\n\n1 - Sem prejuízo do disposto no presente regulamento, nomeadamente no artigo 28.º, os avisos de abertura dos procedimentos previstos no artigo 13.º fixam os critérios de apreciação e seleção das candidaturas por tipologia de projeto.\n\n2 - As candidaturas são selecionadas considerando os critérios de apreciação a que se refere o número anterior e até ao limite do financiamento previsto nos artigos 25.º, 33.º e 37.º do presente regulamento."
+  },
+  "214172765": {
+   "fragment_id": "214216631",
+   "type": 8,
+   "heading": "Secção V — Contratualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Contratualização"
+  },
+  "214172766": {
+   "fragment_id": "214216632",
+   "type": 11,
+   "heading": "Artigo 18.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contrato\n\n1 - A atribuição dos apoios financeiros é formalizada através de contrato celebrado entre a competente ARS, I. P., e cada uma das entidades responsáveis pelos projetos selecionados para beneficiar dos apoios.\n\n2 - Do contrato referido no número anterior devem constar, obrigatoriamente, os direitos e obrigações das partes, incluindo obrigações de prestação de informação, bem como a previsão expressa de mecanismos eficazes de avaliação e acompanhamento permanente da execução do respetivo projeto.\n\n3 - Caso a entidade beneficiária dos apoios financeiros não assine o contrato no prazo de cinco dias úteis a contar da data da receção do mesmo, e sem prejuízo da responsabilidade pré-contratual a que haja lugar, o procedimento finda quanto ao respetivo projeto, podendo a competente ARS, I. P., selecionar para a contratação dos apoios financeiros a entidade responsável pelo projeto que ficou graduado no lugar imediatamente seguinte.\n\n4 - A cessão da posição contratual por parte da entidade beneficiária dos apoios financeiros só pode ter lugar por motivos devidamente fundamentados e após o consentimento da competente ARS, I. P."
+  },
+  "214172767": {
+   "fragment_id": "214216633",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações das entidades beneficiárias dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações das entidades beneficiárias dos apoios\n\n1 - Sem prejuízo das obrigações constantes do contrato, bem como das demais obrigações estabelecidas no presente regulamento, as entidades beneficiárias dos apoios financeiros ficam obrigadas a:\n\na) Respeitar os requisitos e condições que determinam a atribuição dos apoios financeiros;\n\nb) Comprovar o cumprimento das obrigações contratuais, designadamente através da apresentação de relatórios de execução dos respetivos projetos;\n\nc) Fornecer aos serviços da competente ARS, I. P., todas as informações que lhes sejam solicitadas relativas à utilização dos apoios financeiros atribuídos;\n\nd) Organizar, manter atualizado e permanentemente disponível um dossiê de execução de cada projeto financiado, contendo os elementos que sejam indicados, para o efeito, pela respetiva ARS, I. P.;\n\ne) Afetar, obrigatoriamente e em regime de permanência e exclusividade, os projetos financiados aos fins e objetivos propostos:\n\ni) Por um período mínimo de 20 anos a contar da data da disponibilização das correspetivas tipologias de respostas da RNCCI ou da RNCP, no caso dos projetos previstos na alínea a) do artigo 8.º, não podendo as edificações construídas e as instalações ser alienadas antes de decorrido esse período, sem prejuízo do disposto no n.º 2 do presente artigo;\n\nii) Por um período mínimo de 8 anos a contar da data da disponibilização das correspetivas tipologias de respostas da RNCCI, no caso dos projetos previstos nas alíneas b) e c) do artigo 8.º;\n\nf) Manter, obrigatoriamente, na sua posse, e em regime de permanência e exclusividade, os bens e ou equipamentos adquiridos por atribuição dos apoios financeiros previstos no presente regulamento, cumprindo os fins e objetivos propostos nos correspondentes projetos, pelos períodos mínimos referidos nas subalíneas i) e ii) da alínea anterior.\n\n2 - Mediante autorização prévia do conselho diretivo da competente ARS, I. P., podem as infraestruturas objeto dos apoios financeiros previstos no presente regulamento ser oneradas a favor de instituição de crédito."
+  },
+  "214172768": {
+   "fragment_id": "214216634",
+   "type": 11,
+   "heading": "Artigo 20.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acompanhamento e avaliação\n\n1 - O controlo da utilização dos apoios financeiros é da responsabilidade da competente ARS, I. P., com vista a permitir o acompanhamento dos projetos e a prevenir ou detetar irregularidades e confirmar que os referidos apoios se destinam aos fins e objetivos para os quais foram atribuídos.\n\n2 - O acompanhamento referido no número anterior operacionaliza-se através de visitas aos locais de desenvolvimento dos projetos, análise dos respetivos dossiês e relatórios da execução física e financeira a apresentar pelas entidades beneficiárias e eventual avaliação externa, a efetuar por especialistas independentes designados para o efeito pelo conselho diretivo da competente ARS, I. P.\n\n3 - Para efeitos do disposto no número anterior, as entidades beneficiárias dos apoios financeiros devem apresentar à respetiva ARS, I. P., todos os elementos que por esta sejam solicitados, bem como os relatórios de execução, com particular incidência nos aspetos de natureza financeira e com indicação dos objetivos atingidos e dos resultados alcançados.\n\n4 - O momento da apresentação dos relatórios de execução dos projetos financiados é fixado no contrato a que se refere o artigo 18.º\n\n5 - A não apresentação dos relatórios de execução a que se referem os números anteriores condiciona a atribuição de novo apoio financeiro e pode determinar a suspensão da transferência de verbas, nos termos previstos no artigo seguinte.\n\n6 - Sem prejuízo do disposto nos números anteriores, as entidades beneficiárias dos apoios financeiros podem, a todo o tempo, ser objeto de auditorias técnicas e financeiras com vista ao apuramento da execução dos respetivos contratos."
+  },
+  "214172769": {
+   "fragment_id": "214216635",
+   "type": 11,
+   "heading": "Artigo 21.º — Suspensão do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Suspensão do financiamento\n\n1 - Os apoios financeiros atribuídos ao abrigo do presente regulamento podem ser suspensos pelo conselho diretivo da competente ARS, I. P., caso sejam detetadas situações de deficiente cumprimento das respetivas obrigações pelas entidades beneficiárias, designadamente:\n\na) Inconformidades ou graves deficiências no âmbito da execução dos projetos;\n\nb) Inexistência ou grave deficiência relativa a prestação de informações às entidades financiadoras e demais entidades competentes;\n\nc) Não constituição dos dossiês de execução dos projetos e ou não elaboração dos respetivos relatórios de execução, incluindo a sua não apresentação nos prazos estipulados;\n\nd) Inconformidades dos documentos de despesas.\n\n2 - A suspensão do financiamento cessa com a sanação da situação pela entidade beneficiária dos apoios financeiros, no prazo que for concedido para o efeito pela respetiva entidade financiadora.\n\n3 - Caso a entidade beneficiária dos apoios não proceda à sanação da situação, no prazo previsto no número anterior, a respetiva entidade financiadora resolve unilateralmente o contrato, nos termos do artigo seguinte."
+  },
+  "214172770": {
+   "fragment_id": "214216636",
+   "type": 11,
+   "heading": "Artigo 22.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Resolução do contrato\n\n1 - O contrato pode ser unilateralmente resolvido pela competente ARS, I. P., nos seguintes casos:\n\na) Não cumprimento ou cumprimento desadequado do projeto financiado;\n\nb) Não cumprimento das obrigações estabelecidas no contrato, bem como das demais obrigações legais e fiscais;\n\nc) Utilização dos apoios financeiros para fins ou objetivos diferentes dos previstos no projeto financiado;\n\nd) Recusa de prestação de informações, prestação de informações falsas sobre a situação da entidade beneficiária dos apoios financeiros ou viciação de dados fornecidos nas fases de candidatura, de acompanhamento e de avaliação do respetivo projeto;\n\ne) Não sanação, no prazo concedido para o efeito, das deficiências ou inconformidades previstas no artigo anterior.\n\n2 - A resolução do contrato implica a caducidade dos apoios financeiros atribuídos, ficando a entidade beneficiária obrigada a repor as importâncias recebidas, acrescidas de juros à taxa legal aplicável, e a impossibilidade de beneficiar de qualquer apoio financeiro do Estado nos dois anos seguintes.\n\n3 - Antes da prática do ato previsto no número anterior, com fundamento no disposto em qualquer das alíneas do n.º 1, a entidade beneficiária dos apoios financeiros é notificada pela respetiva ARS, I. P., para cumprir dentro de um prazo razoável, salvo quando o cumprimento se tenha tornado impossível.\n\n4 - O pagamento coercivo das importâncias referidas no n.º 2 faz-se através de processo de execução fiscal, nos termos do artigo 179.º do CPA."
+  },
+  "214172771": {
+   "fragment_id": "214216637",
+   "type": 1,
+   "heading": "Capítulo II — Construção, ampliação e ou remodelação de infraestruturas para novas respostas em unidades da RNCCI e da RNCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Construção, ampliação e ou remodelação de infraestruturas para novas respostas em unidades da RNCCI e da RNCP"
+  },
+  "214172772": {
+   "fragment_id": "214216638",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime\n\nOs projetos previstos na alínea a) do artigo 8.º regem-se pelas disposições do capítulo i, em tudo o que não esteja especialmente regulado no presente capítulo."
+  },
+  "214172773": {
+   "fragment_id": "214216639",
+   "type": 11,
+   "heading": "Artigo 24.º — Requisitos dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Requisitos dos projetos\n\n1 - Os projetos suscetíveis de beneficiar dos apoios financeiros previstos no presente capítulo devem observar os seguintes requisitos:\n\na) Verificar a viabilidade da construção de raiz, ampliação ou remodelação mediante informação prévia da autarquia competente;\n\nb) Nos projetos de construção de raiz, cumprir, em matéria de eficiência energética, um patamar 20 % mais exigente que o previsto no Decreto-Lei n.º 101-D/2020, de 7 de dezembro, na sua atual redação, designadamente, no que diz respeito aos edifícios com necessidades quase nulas de energia.\n\n2 - Podem, no aviso de abertura do respetivo procedimento, ser fixados requisitos diferenciados de acesso aos apoios financeiros previstos no presente capítulo.\n\n3 - Os projetos não podem corresponder a construções de raiz, ampliação ou remodelação que já tenham sido objeto de autorização de celebração de contrato com a RNCCI ou a RNCP, até ao fim do prazo para apresentação de candidatura ao respetivo procedimento."
+  },
+  "214172774": {
+   "fragment_id": "214216640",
+   "type": 11,
+   "heading": "Artigo 25.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Financiamento\n\n1 - O montante disponível para os apoios financeiros previstos no presente capítulo é definido no aviso de abertura dos respetivos procedimentos até ao limite do financiamento, nos termos do PRR.\n\n2 - O apoio financeiro a atribuir a cada projeto é de 100 % do valor global elegível, com os seguintes limites máximos:\n\na) 600 000,00 (euro) por cada módulo de 20 novas camas de cuidados continuados integrados na rede geral;\n\nb) 600 000,00 (euro) por cada módulo de 20 novas camas de internamento com cuidados paliativos de menor complexidade;\n\nc) 500 000,00 (euro) por cada nova unidade de dia e promoção da autonomia com 25 lugares;\n\nd) 25 000,00 (euro) por cada novo lugar de cuidados continuados integrados de saúde mental, até um máximo de 20 novos lugares por projeto.\n\n3 - Para efeitos do disposto nos números anteriores, considera-se valor global elegível a soma dos valores das despesas consideradas elegíveis, nos termos do disposto no artigo 11.º e no artigo seguinte."
+  },
+  "214254775": {
+   "fragment_id": "214216641",
+   "type": 11,
+   "heading": "Artigo 26.º — Elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Elegibilidade de despesas\n\nPodem ser consideradas despesas elegíveis:\n\na) Estudos e projetos;\n\nb) Despesas associadas a obras de construção de raiz, ampliação ou remodelação previstas na alínea a) do artigo 8.º;\n\nc) Aquisição de equipamentos novos, dos seguintes tipos:\n\ni) Equipamentos e instrumentos médicos;\n\nii) Equipamentos informáticos e ou de comunicação;\n\niii) Equipamentos gerais, incluindo mobiliário."
+  },
+  "214254776": {
+   "fragment_id": "214216642",
+   "type": 11,
+   "heading": "Artigo 27.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Apresentação de candidaturas\n\nSem prejuízo do previsto no capítulo i, as candidaturas devem ser obrigatoriamente instruídas com os seguintes documentos:\n\na) Documento comprovativo da capacidade financeira do candidato para suportar o financiamento do projeto, na parte em que excede o apoio financeiro concedido nos termos do presente capítulo;\n\nb) Estudo prévio de arquitetura ou elementos de fase posterior ao projeto técnico, incluindo peças escritas e desenhadas de forma a permitir a fácil apreciação das soluções propostas pelo autor do projeto e sua comparação com as exigências do programa funcional, acompanhado, no mínimo, dos seguintes elementos:\n\ni) Memória descritiva e justificativa;\n\nii) Elementos gráficos sob a forma de plantas, alçados e cortes longitudinais e transversais abrangendo o núcleo edificado e o terreno, com indicação do perfil existente e proposto, bem como das quotas dos diversos pisos e pavimento exterior envolvente, em escala apropriada, que explicitem a implantação do edifício, a sua integração urbana, os acessos, as necessidades de infraestruturas, bem como a organização interna dos espaços, a interdependência de áreas e volumes, a compartimentação genérica e os sistemas de circulação;\n\niii) Estimativa do custo de obra."
+  },
+  "214254777": {
+   "fragment_id": "214216643",
+   "type": 11,
+   "heading": "Artigo 28.º — Critérios de apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Critérios de apreciação das candidaturas\n\nSem prejuízo do previsto no capítulo i, são critérios de apreciação das candidaturas:\n\na) A cobertura territorial, tendo em conta, para o efeito, os rácios por 1000 habitantes com idade superior a 65 anos definidos para cada uma das tipologias de respostas da RNCCI e da RNCP;\n\nb) O aumento do número de camas ou lugares resultante do respetivo projeto, até à lotação máxima para cada tipologia de resposta, a indicar no aviso de abertura do respetivo procedimento;\n\nc) A consistência do projeto, designadamente pela adequação do valor de investimento proposto à atividade a desenvolver e razoabilidade dos correspetivos custos;\n\nd) A relação intrínseca entre o diagnóstico de necessidades da RNCCI e da RNCP, o projeto proposto e os resultados esperados;\n\ne) A valoração das candidaturas que assumam o compromisso de afetação dos respetivos projetos, em regime de permanência e exclusividade, aos fins e objetivos propostos num número de anos superior ao referido nas subalíneas i) e ii) da alínea e) n.º 1 do artigo 19.º, consoante o caso."
+  },
+  "214254778": {
+   "fragment_id": "214216644",
+   "type": 11,
+   "heading": "Artigo 29.º — Exclusão de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Exclusão de candidaturas\n\nSem prejuízo do previsto no capítulo i, são motivos de exclusão da candidatura:\n\na) A não conformidade do estudo prévio e ou do projeto técnico de arquitetura com o programa funcional aplicável à respetiva tipologia de resposta da RNCCI e da RNCP, nos termos legais e regulamentares;\n\nb) A não conformidade dos projetos técnicos de arquitetura e ou de engenharia com os regimes legais e regulamentares e ou com as normas europeias harmonizadas aplicáveis."
+  },
+  "214254779": {
+   "fragment_id": "214216645",
+   "type": 11,
+   "heading": "Artigo 30.º — Comissão de avaliação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Comissão de avaliação técnica\n\n1 - Sem prejuízo do previsto no capítulo i, a execução dos projetos relativos a obras de construção de raiz, ampliação ou remodelação previstas na alínea a) do artigo 8.º é acompanhada por uma comissão de avaliação técnica, composta por elementos da competente ARS, I. P., e do ISS, I. P., quando aplicável, que procede à elaboração de pareceres e relatórios de avaliação a pedido daquela ARS, I. P.\n\n2 - A decisão sobre a composição da comissão compete ao conselho diretivo da ARS, I. P. respetiva."
+  },
+  "214254780": {
+   "fragment_id": "214216646",
+   "type": 1,
+   "heading": "Capítulo III — Equipas de apoio domiciliário em cuidados continuados integrados de saúde mental da RNCCI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Equipas de apoio domiciliário em cuidados continuados integrados de saúde mental da RNCCI"
+  },
+  "214254781": {
+   "fragment_id": "214216647",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regime\n\nOs projetos previstos na alínea b) do artigo 8.º regem-se pelas disposições do capítulo i, em tudo o que não esteja especialmente regulado no presente capítulo."
+  },
+  "214254782": {
+   "fragment_id": "214216648",
+   "type": 11,
+   "heading": "Artigo 32.º — Requisitos dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Requisitos dos projetos\n\n1 - Os projetos suscetíveis de beneficiar dos apoios financeiros previstos no presente capítulo devem observar os seguintes requisitos:\n\na) Assegurar as atividades e serviços previstos para as EAD de cuidados continuados integrados de saúde mental;\n\nb) Cumprir as condições de organização e funcionamento previstas para as EAD de cuidados continuados integrados de saúde mental;\n\nc) Cumprir a legislação em vigor em matéria de cuidados de saúde mental;\n\nd) Cumprir a legislação em vigor em matéria da proteção de dados pessoais;\n\ne) Cumprir a legislação em vigor em matéria de eficiência energética, prevista no Decreto-Lei n.º 101-D/2020, de 7 de dezembro, quando aplicável;\n\nf) Incluir, obrigatoriamente, a aquisição de viaturas elétricas, nos termos previstos no artigo 34.º;\n\ng) Incluir a aquisição de equipamentos, fardamento e/ou realização de obras de reestruturação e adaptação de espaços físicos ou instalações, nos termos previstos no artigo 34.º\n\n2 - Cada projeto deve corresponder à constituição de uma única EAD, que permita criar, pelo menos, 10 lugares em cuidados continuados integrados de saúde mental.\n\n3 - Para efeitos do disposto no número anterior, um lugar em cuidados continuados integrados de saúde mental corresponde à realização de atividades e prestação de serviços previstos para as EAD a uma pessoa que reúna as condições de acesso às mencionadas equipas, nos termos previstos no Decreto-Lei n.º 8/2010, de 28 de janeiro, na sua redação atual.\n\n4 - Os projetos não podem corresponder a EAD cujo funcionamento já se tenha iniciado ou que tenham sido objeto de autorização de celebração de contrato com a RNCCI, até ao fim do prazo para apresentação de candidatura ao respetivo procedimento."
+  },
+  "214254783": {
+   "fragment_id": "214216649",
+   "type": 11,
+   "heading": "Artigo 33.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Financiamento\n\n1 - O montante disponível para os apoios financeiros previstos no presente capítulo é definido no aviso de abertura dos respetivos procedimentos até ao limite do financiamento, nos termos do PRR.\n\n2 - O apoio financeiro a atribuir a cada projeto é de 100 % do valor global elegível, até ao limite máximo de 100 000,00 (euro).\n\n3 - Para efeitos do disposto nos números anteriores, considera-se valor global elegível a soma dos valores das despesas consideradas elegíveis, nos termos do disposto no artigo 11.º e no artigo seguinte."
+  },
+  "214254784": {
+   "fragment_id": "214216650",
+   "type": 11,
+   "heading": "Artigo 34.º — Elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Elegibilidade de despesas\n\n1 - Podem ser consideradas despesas elegíveis:\n\na) Aquisição de viaturas elétricas, modificadas e adaptadas para cuidados domiciliários;\n\nb) Aquisição de equipamentos novos, dos seguintes tipos:\n\ni) Equipamentos e instrumentos médicos;\n\nii) Equipamentos informáticos e ou de comunicação;\n\niii) Equipamentos gerais, incluindo mobiliário;\n\nc) Aquisição de fardamento;\n\nd) Despesas associadas a obras de reestruturação e adaptação de espaços físicos ou instalações.\n\n2 - São disponibilizadas nos sítios da internet de cada ARS, I. P., as listagens referenciais do equipamento elegível no âmbito do presente capítulo."
+  },
+  "214254785": {
+   "fragment_id": "214216651",
+   "type": 1,
+   "heading": "Capítulo IV — Equipas de cuidados continuados integrados da RNCCI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Equipas de cuidados continuados integrados da RNCCI"
+  },
+  "214254786": {
+   "fragment_id": "214216652",
+   "type": 11,
+   "heading": "Artigo 35.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regime\n\nOs projetos previstos na alínea c) do artigo 8.º regem-se pelas disposições do capítulo i, em tudo o que não esteja especialmente regulado no presente capítulo."
+  },
+  "214254787": {
+   "fragment_id": "214216653",
+   "type": 11,
+   "heading": "Artigo 36.º — Requisitos dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Requisitos dos projetos\n\n1 - Os projetos suscetíveis de beneficiar dos apoios financeiros previstos no presente capítulo devem observar os seguintes requisitos:\n\na) Assegurar as atividades e serviços previstos para as ECCI;\n\nb) Cumprir as condições de organização e funcionamento previstas para as ECCI;\n\nc) Cumprir a legislação em vigor em matéria da proteção de dados pessoais;\n\nd) Cumprir a legislação em vigor em matéria de eficiência energética, prevista no Decreto-Lei n.º 101-D/2020, de 7 de dezembro, quando aplicável;\n\ne) Incluir, obrigatoriamente, a aquisição de viaturas elétricas, nos termos previstos no artigo 38.º;\n\nf) Incluir a aquisição de equipamentos, fardamento e/ou realização de obras de reestruturação e adaptação de espaços físicos ou instalações, nos termos previstos no artigo 38.º\n\n2 - Cada projeto deve corresponder à constituição de uma única ECCI, que permita criar, pelo menos, 20 lugares em equipas domiciliárias de cuidados continuados integrados.\n\n3 - Para efeitos do disposto no número anterior, um lugar em equipas domiciliárias de cuidados continuados integrados corresponde à realização de atividades e prestação de serviços previstos para as ECCI a uma pessoa que reúna as condições de acesso às mencionadas equipas, nos termos previstos no Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual.\n\n4 - Os projetos não podem corresponder a ECCI cujo funcionamento já se tenha iniciado ou tenha sido objeto de autorização de celebração de contrato com a RNCCI, até ao fim do prazo para apresentação de candidatura ao respetivo procedimento."
+  },
+  "214254788": {
+   "fragment_id": "214216654",
+   "type": 11,
+   "heading": "Artigo 37.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Financiamento\n\n1 - O montante disponível para os apoios financeiros previstos no presente capítulo é definido no aviso de abertura dos respetivos procedimentos até ao limite do financiamento, nos termos do PRR.\n\n2 - O apoio financeiro a atribuir a cada projeto é de 100 % do valor global elegível, até ao limite máximo de 100 000,00 (euro).\n\n3 - Para efeitos do disposto no número anterior, considera-se valor global elegível a soma dos valores das despesas consideradas elegíveis, nos termos do disposto no artigo 11.º e no artigo seguinte."
+  },
+  "214254789": {
+   "fragment_id": "214216655",
+   "type": 11,
+   "heading": "Artigo 38.º — Elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Elegibilidade de despesas\n\n1 - Podem ser consideradas despesas elegíveis:\n\na) Aquisição de viaturas elétricas, modificadas e adaptadas para cuidados domiciliários;\n\nb) Aquisição de equipamentos novos, dos seguintes tipos:\n\ni) Equipamentos e instrumentos médicos;\n\nii) Equipamentos informáticos e ou de comunicação;\n\niii) Equipamentos gerais, incluindo mobiliário;\n\nc) Aquisição de fardamento;\n\nd) Despesas associadas a obras de reestruturação e adaptação de espaços físicos ou instalações.\n\n2 - São disponibilizadas nos sítios da internet de cada ARS, I. P., as listagens referenciais do equipamento elegível no âmbito do presente capítulo.\n\n115174284"
+  },
+  "214172741": {
+   "fragment_id": "214216607",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão, em 28 de março de 2022. - O Ministro do Planeamento, Ângelo Nelson Rosário de Souza, em 29 de março de 2022. - A Ministra da Saúde, Marta Alexandra Fartura Braga Temido de Almeida Simões, em 29 de março de 2022."
+  },
+  "214254795": {
+   "fragment_id": "214216629",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão de apreciação",
+   "in_force_from": "2023-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155-A/2023 - Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2023-214119138), em vigor a partir de 2023-06-07"
+   ],
+   "markdown": "###### Artigo 16.º — Comissão de apreciação\n\n1 - As candidaturas são apreciadas por comissão de apreciação, composta por elementos da competente ARS, I. P., e do Instituto da Segurança Social, I. P. (ISS, I. P.), quando aplicável, a designar pelos respetivos conselhos diretivos, sendo devidamente identificados em cada aviso de abertura.\n\n2 - A composição da comissão referida no número anterior é variável, devendo ser sempre constituída por um número ímpar de elementos e presidida por elemento da respetiva ARS, I. P.\n\n3 - A comissão de apreciação avalia as candidaturas de acordo com os critérios previstos no artigo seguinte.\n\n4 - Sempre que necessário, a comissão de apreciação pode solicitar aos respetivos candidatos documentos e esclarecimentos adicionais, face aos previstos no artigo 14.º, devendo os candidatos responder no prazo máximo de três dias úteis, sob pena de exclusão da candidatura.\n\n5 - A comissão elabora uma proposta de lista de classificação das candidaturas por tipologia de resposta, ordenadas de forma decrescente a partir da candidatura mais pontuada, com a respetiva fundamentação.\n\n6 - A lista referida no número anterior é notificada aos candidatos, para efeitos de audiência de interessados, nos termos do Código do Procedimento Administrativo (CPA).\n\n7 - Após realização da audiência de interessados, a comissão elabora a lista final de classificação das candidaturas por tipologia de resposta, que remete ao conselho diretivo da respetiva ARS, I. P., para decisão final.\n\n8 - A decisão final é notificada aos candidatos e publicitada nos sítios da Internet da ACSS, I. P., e da respetiva ARS, I. P.\n\n9 - A apreciação de candidaturas referida no n.º 1 é realizada em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155-A/2023 - Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2023-214119138), em vigor a partir de 2023-06-07"
+  },
+  "214254796": {
+   "fragment_id": "214216640",
+   "type": 11,
+   "heading": "Artigo 25.º — Financiamento",
+   "in_force_from": "2023-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155-A/2023 - Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2023-214119138), em vigor a partir de 2023-06-07"
+   ],
+   "markdown": "###### Artigo 25.º — Financiamento\n\n1 - O montante disponível para os apoios financeiros previstos no presente capítulo é definido no aviso de abertura dos respetivos procedimentos até ao limite do financiamento, nos termos do PRR.\n\n2 - O apoio financeiro a atribuir a cada projeto é de 100 % do valor global elegível, com os seguintes limites máximos:\n\na) 42 000,00 (euro) por cada nova cama de cuidados continuados integrados na rede geral;\n\nb) 42 000,00 (euro) por cada nova cama de internamento com cuidados paliativos de menor complexidade;\n\nc) 20 000,00 (euro) por cada novo lugar de unidade de dia e promoção da autonomia;\n\nd) 25 000,00 (euro) por cada novo lugar de cuidados continuados integrados de saúde mental.\n\n3 - Para efeitos do disposto nos números anteriores, considera-se valor global elegível a soma dos valores das despesas consideradas elegíveis, nos termos do disposto no artigo 11.º e no artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155-A/2023 - Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2023-214119138), em vigor a partir de 2023-06-07"
+  },
+  "899356033": {
+   "fragment_id": "214216640",
+   "type": 11,
+   "heading": "Artigo 25.º — Financiamento",
+   "in_force_from": "2024-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 316/2024/1 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/316-2024-899204483), em vigor a partir de 2024-12-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155-A/2023 - Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2023-214119138), em vigor a partir de 2023-06-07"
+   ],
+   "markdown": "###### Artigo 25.º — Financiamento\n\n1 - O montante disponível para os apoios financeiros previstos no presente capítulo é definido no aviso de abertura dos respetivos procedimentos até ao limite do financiamento, nos termos do PRR.\n\n2 - O apoio financeiro a atribuir a cada projeto é de 100 % do valor global elegível, com os seguintes limites máximos:\n\na) 42 000,00 (euro) por cada nova cama de cuidados continuados integrados na rede geral;\n\nb) 42 000,00 (euro) por cada nova cama de internamento com cuidados paliativos de menor complexidade;\n\nc) 20 000,00 (euro) por cada novo lugar de unidade de dia e promoção da autonomia;\n\nd) 25 000,00 (euro) por cada novo lugar de cuidados continuados integrados de saúde mental.\n\n3 - Para efeitos do disposto nos números anteriores, considera-se valor global elegível a soma dos valores das despesas consideradas elegíveis, nos termos do disposto no artigo 11.º e no artigo seguinte.\n\n4 - Os limites máximos previstos no n.º 2 serão majorados até 15 %, mediante decisão da ACSS, I. P., quando o beneficiário evidencie que o valor contratual é insuficiente para assegurar o cumprimento dos requisitos legais aplicáveis à tipologia que contratou.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 316/2024/1 - Diário da República n.º 237/2024, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/316-2024-899204483), em vigor a partir de 2024-12-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155-A/2023 - Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2023-214119138), em vigor a partir de 2023-06-07"
+  }
+ }
+}

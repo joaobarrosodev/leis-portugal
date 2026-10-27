@@ -1,0 +1,458 @@
+---
+schema_version: '1.0'
+id: pt:dre:69866635:por
+title: Decreto-Lei n.º 134/2015
+short_title: null
+summary: Regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos
+  e marítimos entre o continente e a Região Autónoma da Madeira e entre esta e a Região Autónoma dos Açores, prosseguindo
+  objetivos de coesão social e territorial
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 134/2015
+official_date: null
+publication_date: '2015-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/2015, Série I de 2015-07-24
+  number: '143'
+  series: I
+  supplement: null
+  pages: 5018 - 5023
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14300/0501805023.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-04-03'
+version_history:
+  file: decreto-lei-134-2015.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-09-07'
+    amending: pt:dre:124500719:por
+    amending_title: Lei n.º 105/2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+  - date: '2025-04-03'
+    amending: pt:dre:912256331:por
+    amending_title: Decreto-Lei n.º 37-A/2025
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/134/2015/p/cons/20250324/pt/html
+  oj: null
+  dre: '69866635'
+  dre_path: /dr/detalhe/decreto-lei/134-2015-69866635
+  internal: pt:dre:69866635:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2015-69866635
+  metadata_url: https://data.dre.pt/eli/dec-lei/134/2015/p/cons/20250324/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-124524759
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-124524759
+  retrieved_at: '2026-10-22T12:28:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3f59fc90da6b83f7a123410e55f02c0b62315b759d9986dce1434285d4c60786
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:28:42Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-134-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Beneficiário
+- Titulo de Transporte
+- Inspeção Geral de Finanças
+- Transporte Marítimo
+- Transporte Aéreo
+- Direção Geral do Tesouro e Finanças
+- Operador de Transporte Aéreo
+- Madeira.região Autónoma
+- Regulamento CE
+- Subsídio de Apoio Social
+- Transporte de Passageiros
+- Autoridade da Mobilidade e dos Transportes
+relationships:
+- type: amended_by
+  target: pt:dre:124500719:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/105-2019-124500719
+  date: '2019-09-06'
+- type: amended_by
+  target: pt:dre:912256331:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331
+  date: '2025-03-24'
+- type: cites
+  target: celex:32014R0651
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/651/oj
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10/2004/01/09/p/dre
+- type: cites
+  target: pt:dre:249844:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/66/2008/04/09/p/dre
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/78/2014/05/14/p/dre
+- type: cites
+  target: pt:dre:287777:por
+  label: null
+  source: http://data.dre.pt/eli/lei/21/2011/05/20/p/dre
+- type: cites
+  target: pt:dre:402681:por
+  label: null
+  source: http://data.dre.pt/eli/port/316-a/2008/04/23/p/dre
+- type: cites
+  target: pt:dre:453259:por
+  label: null
+  source: http://data.dre.pt/eli/lei/50/2008/08/27/p/dre
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: http://data.dre.pt/eli/lei/37/2006/08/09/p/dre
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:28:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 134/2015
+
+Decreto-Lei n.º 134/2015
+
+de 24 de julho
+
+O Decreto-Lei n.º 66/2008, de 9 de abril, alterado pelas Leis n.os 50/2008, de 27 de agosto, e 21/2011, de 20 de maio, regula a adoção de mecanismos com vista à liberalização dos preços das tarifas aéreas na Região Autónoma da Madeira, sem prejuízo da estipulação da atribuição de um subsídio social de mobilidade para os passageiros residentes e estudantes daquela Região, por força da necessidade de acautelar a coesão social e territorial da Região em causa.
+
+Contudo, é necessário adaptar o mecanismo de subsidiação já existente de modo compatível com um regime concorrencial e com um modelo baseado no livre acesso ao mercado e na liberalização dos preços das tarifas aéreas, sem prejuízo dos interesses dos passageiros residentes e dos passageiros estudantes. Esta opção consubstancia-se na transição do regime de auxílio social ao transporte aéreo de passageiros residentes e de passageiros estudantes de valor fixo para um auxílio social de intensidade variável.
+
+A mobilidade na Região Autónoma da Madeira compreende também o transporte marítimo que oferece um modo complementar e uma alternativa para o transporte de passageiros, razão pela qual importa manter a extensão do subsídio social de mobilidade aos serviços marítimos. Neste sentido, procede-se à revogação do Decreto-Lei n.º 66/2008, de 9 de abril, de modo a acolher a alteração do caráter fixo do subsídio social para um subsídio de intensidade variável, e clarifica-se que o âmbito de aplicação deste subsídio cinge-se, apenas, aos serviços aéreos e marítimos entre os aeroportos e portos situados no continente ou na Região Autónoma dos Açores e os aeroportos e portos situados na Região Autónoma da Madeira.
+
+O Tratado sobre o Funcionamento da União Europeia (Tratado) prevê, na alínea a) do n.º 3 do artigo 107.º, que podem ser compatíveis com o mercado interno os auxílios destinados a promover o desenvolvimento económico das regiões ultraperiféricas, previstas no artigo 349.º do Tratado, nas quais se inclui a Região Autónoma da Madeira.
+
+O artigo 51.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, que consagra certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado, prevê que os auxílios ao transporte aéreo e marítimo de passageiros estão isentos da obrigação de notificação à Comissão Europeia, prévia à instituição ou à alteração de qualquer auxílio, desde que cumpram determinados requisitos, que se encontram reunidos no âmbito da atribuição do subsídio social de mobilidade regulada pelo presente decreto-lei.
+
+O subsídio social de mobilidade em causa destina-se aos passageiros residentes e residentes equiparados na Região Autónoma da Madeira, bem como aos passageiros estudantes que, ali residindo, efetuem os seus estudos em estabelecimentos de ensino situados noutras regiões, ou que, sendo residentes de outras regiões, ali desenvolvam os seus estudos, realizando, para esse efeito, viagens nas referidas ligações aéreas e marítimas, e que satisfaçam os critérios de elegibilidade previstos no presente decreto-lei.
+
+O novo regime de atribuição do subsídio social de mobilidade aos passageiros residentes, residentes equiparados e aos passageiros estudantes, caracteriza-se por ser um subsídio de valor variável, por viagem entre o continente e a Região Autónoma da Madeira e entre esta e a Região Autónoma dos Açores, mantendo-se a atribuição direta e posterior aos beneficiários que o solicitem, mediante prova de elegibilidade, à entidade designada pelo Governo para proceder ao respetivo pagamento.
+
+Este novo regime de atribuição do subsídio em causa mantém os objetivos de coesão social e territorial, em cumprimento da legislação aplicável da União Europeia, a que acrescem, simultaneamente, benefícios de eficiência funcional e desagravo dos encargos públicos.
+
+O presente decreto-lei estabelece que, sem prejuízo das competências de fiscalização da Inspeção-Geral de Finanças (IGF), compete à Autoridade Nacional da Aviação Civil (ANAC), no que respeita à atuação das transportadoras aéreas nas rotas liberalizadas e no âmbito das suas atribuições de promoção e defesa da concorrência no setor da aviação civil, avaliar o grau de concentração no mercado e a prática de tarifas e de encargos sobre o preço do bilhete excessivamente elevados, com o objetivo de mitigar eventuais distorções resultantes da atribuição deste auxílio de mobilidade. No que concerne ao transporte marítimo, e sem prejuízo das competências de fiscalização da IGF, compete à Autoridade da Mobilidade e dos Transportes (AMT) acompanhar e fiscalizar as operações de transporte marítimo que beneficiem da atribuição do subsídio social de mobilidade.
+
+O presente decreto-lei prevê, ainda, um regime sancionatório para a falta de prestação de informação relevante à ANAC e à AMT.
+
+Foram ouvidos os órgãos de governo próprio da Região Autónoma da Madeira.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente decreto-lei regula a atribuição de um subsídio social de mobilidade aos cidadãos beneficiários, no âmbito dos serviços aéreos e marítimos entre o continente e a Região Autónoma da Madeira e entre esta e a Região Autónoma dos Açores, prosseguindo objetivos de coesão social e territorial.
+
+2 - O presente diploma aplica-se a qualquer ligação com o Porto Santo, ainda que os passageiros beneficiários residentes naquela ilha tenham que utilizar a ligação inter-ilhas, aérea ou marítima, e tenham como destino final o continente ou a Região Autónoma dos Açores.
+
+3 - O subsídio social de mobilidade aplica-se a todas as viagens cujo destino final ou escala seja um porto ou aeroporto localizado na Região Autónoma dos Açores ou no continente, desde que incluída num único número de bilhete, independentemente do número de escalas.
+
+4 - Os n.os 2 e 3 aplicam-se apenas nos casos em que as ligações se efetuem num período máximo de 24 horas.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 105/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/105-2019-124500719), em vigor a partir de 2019-09-07
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Bilhete», o documento válido que confere o direito ao transporte do beneficiário no âmbito dos serviços aéreos e marítimos abrangidos pelo presente decreto-lei;
+
+b) «Custo elegível»:
+
+i) No caso do transporte aéreo, o preço do bilhete, podendo ser one-way (OW) ou round-trip (RT), expresso em euros, pago às transportadoras aéreas ou aos seus agentes pelo transporte do passageiro, desde que respeite a lugares em classe económica ou equivalente e corresponda ao somatório das tarifas aéreas, das taxas aeroportuárias e de eventuais encargos faturados ao passageiro que decorram de recomendações da International Air Transport Association (IATA) ou de imposições legais, tais como a taxa de emissão de bilhete, a taxa para o acompanhamento de menores, uma bagagem de porão e a sobretaxa de combustível, excluindo os produtos e os serviços de natureza opcional, nomeadamente, excesso de bagagem, marcação de lugares, check-in, embarque prioritário, seguros de viagem, comissões bancárias, bem como outros encargos incorridos após o momento de aquisição do bilhete;
+
+ii) O valor máximo da taxa de emissão de bilhete, para efeitos de elegibilidade, é de (euro) 30,00;
+
+iii) No caso do transporte marítimo, o preço do bilhete, podendo ser de ida (OW) ou de ida e volta (RT), expresso em euros, pago às transportadoras marítimas ou aos seus agentes pelo transporte do passageiro, desde que respeite a lugares em classe económica, excluindo os produtos e os serviços de natureza opcional, com as demais especificações que sejam estabelecidas na portaria a que se refere o artigo 4.º;
+
+c) «Entidade prestadora do serviço de pagamento», a entidade, ou as entidades, designadas para a prestação do serviço de pagamento nos termos do artigo 5.º;
+
+d) «Estabelecimento de ensino», a escola, o colégio ou o estabelecimento de ensino superior que ministre cursos educacionais, vocacionais ou técnicos durante um ano escolar, excluindo-se os estabelecimentos comerciais, industriais, militares ou hospitalares, nos quais o estudante se encontre a realizar estágio, exceto se se tratar de um estágio curricular aprovado pelo estabelecimento de ensino no qual o estudante esteja matriculado;
+
+e) «Passageiros estudantes», os cidadãos que se encontrem numa das seguintes situações:
+
+i) Frequência efetiva de qualquer nível do ensino oficial ou equivalente na Região Autónoma da Madeira, incluindo cursos de pós-graduação, realização de mestrados ou doutoramentos, em instituições públicas, particulares ou cooperativas, com última residência no continente, na Região Autónoma dos Açores, noutro Estado-Membro da União Europeia ou em qualquer outro Estado com o qual Portugal ou a União Europeia tenham celebrado um acordo relativo à circulação de pessoas; ou
+
+ii) Frequência efetiva de qualquer nível do ensino oficial ou equivalente no continente, na Região Autónoma dos Açores, noutro Estado-Membro da União Europeia ou em qualquer outro Estado com o qual Portugal ou a União Europeia tenham celebrado um acordo relativo à circulação de pessoas, incluindo cursos de pós-graduação, realização de mestrados ou doutoramentos, em instituições públicas, particulares ou cooperativas, com última residência na Região Autónoma da Madeira;
+
+f) «Passageiros residentes», os cidadãos com residência habitual e domicílio fiscal na Região Autónoma da Madeira que reúnam os seguintes requisitos à data da realização da viagem:
+
+i) Os cidadãos de nacionalidade portuguesa ou de outro Estado-Membro da União Europeia ou de qualquer outro Estado com o qual Portugal ou a União Europeia tenham celebrado um acordo relativo à livre circulação de pessoas e que residam, há pelo menos seis meses, na Região Autónoma da Madeira;
+
+ii) Os familiares de cidadãos da União Europeia, nos termos do artigo 2.º da Lei n.º 37/2006, de 9 de agosto, que tenham adquirido o direito de residência permanente em território português e que residam, há pelo menos seis meses, na Região Autónoma da Madeira;
+
+iii) Os cidadãos de nacionalidade de qualquer Estado com o qual Portugal tenha celebrado um acordo relativo ao estatuto geral de igualdade de direitos e deveres entre cidadãos portugueses e países terceiros e que residam, há pelo menos seis meses, na Região Autónoma da Madeira.
+
+g) «Passageiros residentes equiparados»:
+
+i) Os membros do Governo Regional da Madeira ou cidadãos que exerçam funções públicas ao serviço do Governo Regional da Madeira, ainda que residam há menos de seis meses na Região Autónoma da Madeira;
+
+ii) Os trabalhadores da Administração Pública, civis ou militares, quando deslocados em comissão de serviço, mobilidade interna, cedência de interesse público ou ao abrigo de outros institutos de mobilidade previstos na lei, na Região Autónoma da Madeira, ainda que nesta residam há menos de seis meses;
+
+iii) Os trabalhadores nacionais ou de qualquer outro Estado-Membro da União Europeia, do Espaço Económico Europeu, ou de qualquer outro país com o qual Portugal ou a União Europeia tenha celebrado um acordo relativo à livre circulação de pessoas, ou relativo ao estatuto geral de igualdade de direitos e deveres, que se encontrem vinculados por um contrato de trabalho, ainda que de duração inferior a um ano, celebrado com a entidade patronal com sede ou estabelecimento na Região Autónoma da Madeira e ao abrigo do qual o local de prestação de trabalho seja na Região Autónoma;
+
+iv) Os menores de idade que não tenham residência habitual na Região Autónoma da Madeira, desde que um dos progenitores tenha residência habitual nesta Região;
+
+h) «Residência habitual», o local onde uma pessoa singular reside, pelo menos, 185 dias em cada ano civil, em consequência de vínculos pessoais e profissionais.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 105/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/105-2019-124500719), em vigor a partir de 2019-09-07
+
+###### Artigo 3.º — Beneficiários
+
+1 - O subsídio social de mobilidade só pode ser atribuído aos passageiros estudantes, aos passageiros residentes e aos passageiros residentes equiparados, que reúnam, à data da realização da viagem, as condições de elegibilidade estabelecidas no presente decreto-lei.
+
+2 - Sem prejuízo da atribuição do subsídio social de mobilidade por parte do Estado, as transportadoras aéreas e marítimas podem adotar práticas comerciais mais favoráveis para os cidadãos beneficiários.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 4.º — Subsídio social de mobilidade
+
+1 - A atribuição do subsídio social de mobilidade ao beneficiário implica a compra e a utilização efetiva do bilhete, e corresponde ao pagamento de um valor variável sem limite máximo.
+
+2 - O beneficiário paga, no ato da compra, nas viagens entre a Região Autónoma da Madeira e o continente, os máximos de 86 euros tratando-se de residentes e equiparados e de 65 euros tratando-se de estudantes, e, nas viagens entre a Região Autónoma da Madeira e a Região Autónoma dos Açores, os máximos de 119 euros, tratando-se de residentes e equiparados, e 89 euros tratando-se de estudantes.
+
+3 - Os cidadãos beneficiários que não tenham procedido à utilização efetiva do bilhete no prazo de um ano ficam em situação de incumprimento, sendo obrigados à devolução do valor do subsídio social de mobilidade ao Estado.
+
+4 - Podem ser aprovadas portarias autónomas e com critérios diferenciados para o transporte marítimo e para o transporte aéreo.
+
+5 - Não é atribuído subsídio social de mobilidade sempre que o custo elegível seja de montante igual ou inferior ao fixado no n.º 2.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 105/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/105-2019-124500719), em vigor a partir de 2019-09-07
+
+###### Artigo 5.º — Entidade prestadora do serviço de pagamento
+
+1 - O pagamento do subsídio social de mobilidade é efetuado pela entidade prestadora do serviço de pagamento designada para o efeito, pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes aéreo e marítimo, que demonstre ter capacidade e experiência de prestação de serviços de pagamento, sendo a prestação do serviço atribuída de acordo com as normas da contratação pública, sempre que aplicável.
+
+2 - Sem prejuízo do direito de regresso relativamente aos beneficiários, a entidade prestadora do serviço de pagamento é responsável pela verificação da documentação comprovativa da elegibilidade do beneficiário, não lhe sendo devido pelo Estado qualquer reembolso por pagamentos feitos indevidamente ou com base em documentação incompleta ou incorreta.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 6.º — Condições de atribuição e pagamento
+
+1 - Para efeitos de atribuição do subsídio social de mobilidade, a companhia aérea e seus agentes devem requerer, nos serviços competentes da entidade prestadora do serviço de pagamento, o respetivo pagamento.
+
+2 - Nos casos em que o beneficiário tenha adquirido um bilhete de ida (OW) o cálculo do subsídio social de mobilidade fica indexado à metade do valor máximo para aplicação do subsídio.
+
+3 - Quando o beneficiário viajar ao serviço ou por conta de uma pessoa coletiva ou singular, o pagamento deve ser solicitado à companhia aérea e seus agentes, por essa pessoa coletiva ou singular, desde que a fatura e o recibo ou as faturas-recibo sejam emitidos em nome desta e deles conste o nome do beneficiário, bem como o respetivo número de contribuinte, devendo o pedido ser acompanhado dos restantes documentos exigidos no artigo seguinte.
+
+4 - O pagamento do subsídio social de mobilidade tem lugar no momento da apresentação do requerimento previsto no n.º 1, desde que verificadas as condições fixadas no presente decreto-lei.
+
+5 - A fatura recibo de pagamento entregue aos beneficiários contém a título informativo o valor do subsídio.
+
+6 - (Revogado.)
+
+7 - (Renumerado como n.º 4.)
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 105/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/105-2019-124500719), em vigor a partir de 2019-09-07
+
+###### Artigo 7.º — Documentos comprovativos da elegibilidade
+
+1 - O beneficiário deve entregar à companhia área e seus agentes cópia dos seguintes documentos, exibindo o respetivo original:
+
+a) Cartão de contribuinte que permita comprovar o domicílio fiscal na Região Autónoma da Madeira, tratando-se de passageiro residente ou passageiro residente equiparado, quando aplicável;
+
+b) Documento comprovativo da identidade do beneficiário, designadamente cartão de cidadão, bilhete de identidade ou passaporte;
+
+c) Documento emitido pelas entidades portuguesas, no qual conste que o titular tem residência habitual na Região Autónoma da Madeira, no caso de o documento comprovativo da identidade não conter essas informações;
+
+d) Certificado de registo ou certificado de residência permanente, no caso de se tratar de cidadão da União Europeia, nos termos dos artigos 14.º e 16.º da Lei n.º 37/2006, de 9 de agosto;
+
+e) Cartão de residência ou cartão de residência permanente, no caso de se tratar de familiar de cidadão da União Europeia, nacional de Estado terceiro, nos termos dos artigos 15.º e 17.º da Lei n.º 37/2006, de 9 de agosto;
+
+f) Autorização de residência válida, no caso de se tratar de cidadão nacional de Estado que não seja membro da União Europeia e ao qual não sejam aplicáveis os artigos 15.º e 17.º da Lei n.º 37/2006, de 9 de agosto.
+
+g) No caso previsto na subalínea iv) da alínea g) do artigo 2.º, documento do menor de idade previsto na alínea d) e comprovativo da residência do progenitor na Região Autónoma da Madeira, de acordo com as alíneas anteriores.
+
+h) [Passa a alínea f).]
+
+i) [Passa a alínea g).]
+
+2 - A apresentação do cartão de cidadão dispensa o beneficiário da apresentação do documento referido na alínea a) do número anterior.
+
+3 - Os beneficiários referidos na alínea e) do artigo 2.º devem, para além da documentação exigida nos números anteriores, apresentar o original e entregar cópia do documento emitido e autenticado pelo estabelecimento de ensino, que comprove estarem devidamente matriculados no ano letivo em curso e a frequentar o curso ministrado pelo referido estabelecimento de ensino.
+
+4 - Os residentes equiparados referidos na alínea g) do artigo 2.º devem, para além da documentação exigida nos n.os 1 e 2, apresentar o original e entregar cópia da declaração emitida pela entidade pública ou privada onde exercem funções, comprovativa da sua situação profissional.
+
+5 - A apresentação dos documentos e comprovativos previstos nos números anteriores pode ser feita através da internet, em termos a regulamentar por portaria conjunta dos membros do Governo responsáveis pela área das finanças e dos transportes.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 105/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/105-2019-124500719), em vigor a partir de 2019-09-07
+
+###### Artigo 8.º — Restituição do subsídio social de mobilidade
+
+A falsificação de documentos ou a prática de atos ou omissões que importem a violação do disposto no presente decreto-lei implica a reposição dos montantes recebidos a título de subsídio social de mobilidade, sem prejuízo da aplicação de outras sanções previstas na lei.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 9.º — Dotação orçamental
+
+1 - Compete ao Estado, através da Direção-Geral do Tesouro e Finanças, assegurar a atribuição do subsídio social de mobilidade mediante dotação orçamental a inscrever para o efeito.
+
+2 - A dotação orçamental destina-se ao pagamento dos encargos com o subsídio social de mobilidade, bem como com a prestação do respetivo serviço de pagamento, no montante fixado no ato que designar a entidade prestadora do serviço de pagamento, nos termos do artigo 5.º
+
+3 - Os pagamentos previstos nos números anteriores são efetuados nos termos e nos prazos estabelecidos entre a Direção-Geral do Tesouro e Finanças e a entidade prestadora do serviço de pagamento.
+
+4 - Os dados da execução orçamental da atribuição do subsídio social de mobilidade devem ser comunicados, nos 30 dias subsequentes a cada trimestre mês vencido, aos órgãos de governo próprio da Região Autónoma da Madeira.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 10.º — Apuramento do montante anual de subsídios atribuídos
+
+Com vista ao apuramento do montante anual dos subsídios efetivamente pagos, a entidade prestadora do serviço de pagamento deve apresentar à Inspeção-Geral de Finanças (IGF), nos 30 dias subsequentes a cada trimestre vencido, a informação relevante para efeitos do controlo dos subsídios pagos por tipo de beneficiários, cujo formato e conteúdo são fixados no ato que designar a entidade prestadora do serviço de pagamento.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 11.º — Fiscalização
+
+1 - Compete à IGF fiscalizar o cumprimento do disposto no presente decreto-lei por parte da entidade prestadora do serviço de pagamento, à qual tenha sido atribuída a prestação do serviço em causa, que fica sujeita ao regime do presente diploma.
+
+2 - A fiscalização a cargo da IGF compreende as operações económicas, financeiras e fiscais praticadas pela entidade prestadora do serviço de pagamento no âmbito da atribuição do subsídio social de mobilidade, sendo a mesma realizada anualmente, sem prejuízo de verificações periódicas caso seja considerado necessário.
+
+3 - No exercício das suas competências, a IGF pode, em relação às companhias aéreas e marítimas que operem nas ligações previstas no artigo 1.º, e aos respetivos agentes, proceder a verificações seletivas em relação a bilhetes de viagens nessas ligações e correspondentes faturas, com vista à confirmação cruzada dos subsídios públicos requeridos e pagos aos beneficiários nos termos do presente decreto-lei.
+
+4 - A entidade prestadora do serviço de pagamento deve prestar à IGF toda a informação necessária, adequada e requerida para a prossecução das suas funções de fiscalização, incluindo os procedimentos de validação e pagamento.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 12.º — Monitorização do custo elegível
+
+1 - As transportadoras aéreas e marítimas devem, sempre que for solicitado, informar a Autoridade Nacional da Aviação Civil (ANAC) e a Autoridade da Mobilidade e dos Transportes (AMT), respetivamente, sobre:
+
+a) A estrutura tarifária e as respetivas condições de aplicação;
+
+b) A distribuição tarifária;
+
+c) Os encargos adicionais ao preço do bilhete, designadamente, a taxa para o acompanhamento de menores, uma bagagem de porão, a sobretaxa de combustível, e a taxa de emissão de bilhete ou encargos administrativos, no que se refere aos pressupostos comerciais e económicos subjacentes à fixação do preço dos referidos encargos.
+
+2 - Sempre que se verifique uma alteração dos elementos referidos no número anterior, as transportadoras aéreas e marítimas devem notificar a ANAC e a AMT, respetivamente, com a antecedência de 24 horas, sobre a data de entrada em vigor da respetiva alteração.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 105/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/105-2019-124500719), em vigor a partir de 2019-09-07
+
+###### Artigo 13.º — Contraordenações
+
+1 - A violação do dever de informação previsto no n.º 1 do artigo anterior constitui contraordenação aeronáutica civil grave, nos termos previstos no regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, e para o transporte marítimo constitui contraordenação prevista no Decreto-Lei n.º 78/2014, de 14 de maio.
+
+2 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constitui contraordenação leve o incumprimento do prazo previsto no n.º 2 do artigo anterior.
+
+3 - Para efeitos de aplicação do regime das contraordenações no transporte marítimo, o incumprimento do prazo previsto no n.º 2 do artigo anterior constitui contraordenação nos termos do Decreto-Lei n.º 78/2014, de 14 de maio.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 14.º — Concorrência
+
+A ANAC e a AMT devem, no âmbito das suas atribuições e competências, proceder à identificação dos comportamentos suscetíveis de distorcer a concorrência nos mercados dos serviços aéreos e marítimos no âmbito do presente decreto-lei.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 15.º — Revisão anual do subsídio social de mobilidade
+
+1 - Para efeitos do disposto nos n.os 2 a 4 do artigo 4.º, o valor do subsídio social de mobilidade é revisto anualmente, ouvidos os órgãos de governo próprio da Região Autónoma da Madeira, com base numa avaliação das condições de preço, procura e oferta nas ligações aéreas e marítimas abrangidas pelo presente decreto-lei e da respetiva utilização pelos passageiros beneficiários.
+
+2 - A avaliação referida no número anterior deve ser efetuada, em conjunto, pela IGF com a ANAC ou com a AMT, no decurso dos primeiros três meses de cada ano, a fim de habilitar os membros do Governo responsáveis pelas áreas das finanças e dos transportes aéreo e marítimo a decidir sobre o valor a atribuir aos beneficiários a partir do início do mês de abril de cada ano.
+
+3 - Para efeitos da audição prevista no n.º 1, o membro do Governo responsável pela área dos transportes aéreo e marítimo deve facultar a avaliação nele referida aos órgãos de governo próprio da Região Autónoma da Madeira.
+
+4 - Sem prejuízo do disposto no n.º 1, o valor do subsídio social de mobilidade pode ser revisto, no primeiro ano da sua aplicação, decorridos seis meses sobre a entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 16.º — Norma transitória
+
+Aos passageiros beneficiários que realizaram viagens até à data da entrada em vigor do presente decreto-lei é aplicável o regime de atribuição do subsídio social de mobilidade de carácter fixo, previsto no Decreto-Lei n.º 66/2008, de 9 de abril, alterado pelas Leis n.os 50/2008, de 27 de agosto, e 21/2011, de 20 de maio.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 17.º — Norma revogatória
+
+Sem prejuízo do disposto no artigo anterior, são revogados:
+
+a) O Decreto-Lei n.º 66/2008, de 9 de abril, alterado pelas Leis n.os 50/2008, de 27 de agosto, e 21/2011, de 20 de maio;
+
+b) A Portaria n.º 316-A/2008, de 23 de abril.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor na data da entrada em vigor da portaria referida no n.º 2 do artigo 4.º, sendo aplicável às viagens realizadas a partir dessa data.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03
+
+Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima.
+
+Promulgado em 22 de julho de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 23 de julho de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 37-A/2025 - Diário da República n.º 58/2025, Suplemento, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2025-912256331), em vigor a partir de 2025-04-03

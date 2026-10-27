@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:858196386:por
+title: Declaração de Retificação n.º 235/2024/2
+short_title: null
+summary: Retifica o Despacho n.º 2574/2024, publicado no Diário da República, 2.ª série, n.º 51, de 12 de março de 2024.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Coesão Territorial - Comissão de Coordenação e Desenvolvimento Regional do Centro, I. P.
+proposing_entity: null
+official_number: 235/2024/2
+official_date: null
+publication_date: '2024-04-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 64/2024, Série II de 2024-04-01
+  number: '64'
+  series: II
+  supplement: null
+  pages: 86 - 86
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/04/064000000/0008600086.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '858196386'
+  dre_path: /dr/detalhe/declaracao-retificacao/235-2024-858196386
+  internal: pt:dre:858196386:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/235-2024-858196386
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/235-2024-858196386
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:51:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 64827451be4fc6ac9dfc55aea97c1ae1cac6ab4017f89252959d480735c9d034
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:855214628:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:51:34Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 235/2024/2
+
+Por ter saído com inexatidão o [Despacho n.º 2574/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2574-2024-855214628), publicado no Diário da República, 2.ª série, n.º 51, de 12 de março de 2024, retifica-se que onde se lê:
+
+"Torna-se pública a lista nominativa dos trabalhadores a reafetar à Comissão de Coordenação e Desenvolvimento Regional do Centro, I. P., a partir de 1 de fevereiro de 2024, nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio:
+
+Direção-Geral do Território"
+
+deve ler-se:
+
+"Torna-se pública a lista nominativa dos trabalhadores a reafetar à Comissão de Coordenação e Desenvolvimento Regional do Centro, I. P., a partir de 1 de fevereiro de 2024, nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 36/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), de 26 de maio:
+
+Instituto da Conservação da Natureza e Florestas"
+
+12 de março de 2024. - A Presidente, Isabel Damasceno Vieira Campos Costa.
+
+317472108

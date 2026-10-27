@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:3008898:por
+title: Portaria n.º 1740/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 1740/2000 (2.ª série)
+official_date: null
+publication_date: '2000-11-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 265/2000, Série II de 2000-11-16
+  number: '265'
+  series: II
+  supplement: null
+  pages: 18565 - 18565
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/11/265000000/1856518565.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3008898'
+  dre_path: /dr/detalhe/portaria/1740-2000-3008898
+  internal: pt:dre:3008898:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1740-2000-3008898
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1740-2000-3008898
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:09:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a4ec4337429bb8ca8f108de877b72e0326408e0b9dc312b46ab60e6555947c92
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:09:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Alienação de Imóveis
+- BENS Imóveis do Estado
+- Câmara Municipal
+- Chaves
+- Posto Fiscal
+relationships:
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:09:34Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1740/2000 (2.ª série)
+
+Portaria n.º 1740/2000 (2.ª série). - Pela portaria n.º 312/98, de 3 de Março, publicada no Diário da República, 2.ª série, n.º 65, de 18 de Março de 1998, foi autorizada a cessão, a título definitivo, ao município de Chaves do antigo Posto Fiscal de Lamadarcos, sito no lugar de Poulas do Trogal, freguesia de Lamadarcos, concelho de Chaves, nos termos do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, para a instalação de um centro de dia para idosos, mediante o pagamento da compensação de 5 400 000$00.
+
+O município de Chaves pretende agora que o referido imóvel se destine a instalar a sede da Junta de Freguesia de Lamadarcos, finalidade que se considera também de interesse público.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado do Tesouro e das Finanças, o seguinte:
+
+1.º Autorizar o município de Chaves a destinar o prédio acima identificado à instalação da sede da Junta de Freguesia de Lamadarcos.
+
+2.º Reconhecer de interesse público o fim a que se destina o imóvel, ficando a cessão sujeita ao preceituado no artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, devendo tal utilização ser conferida no prazo máximo de dois anos.
+
+3.º Deverá ser lavrado no prazo de 90 dias a contar da data da publicação da presente portaria um novo auto de cessão.
+
+31 de Outubro de 2000. - O Secretário de Estado do Tesouro e Finanças, Manuel Pedro da Cruz Baganha.

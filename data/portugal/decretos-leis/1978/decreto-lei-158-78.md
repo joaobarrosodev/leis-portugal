@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:298234:por
+title: Decreto-Lei n.º 158/78
+short_title: null
+summary: Prorroga o prazo fixado na parte final do n.º 1 do artigo 1.º do Decreto-Lei n.º 517/77, de 15 de Dezembro - Altera
+  o modo de estabelecimento das lotações das embarcações mercantes registadas em portos nacionais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 158/78
+official_date: null
+publication_date: '1978-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/1978, Série I de 1978-07-01
+  number: '149'
+  series: I
+  supplement: null
+  pages: 1186 - 1186
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/07/14900/11861186.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '298234'
+  dre_path: /dr/detalhe/decreto-lei/158-1978-298234
+  internal: pt:dre:298234:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1978-298234
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1978-298234
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1f16005f9d6c7666f650b3709ea55207e31784bb6ba49ba15ff74c27db78b9a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:11:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação
+- Lotação
+- Marinha Mercante
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:279660:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:11:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 158/78
+
+de 1 de Julho
+
+Pela publicação do [Decreto-Lei n.º 517/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1977-279660), de 15 de Dezembro, atribuiu-se ao Secretário de Estado da Marinha Mercante competência para fixar, por despacho, as lotações das embarcações de comércio registadas em portos nacionais para as áreas de navegação de longo curso, cabotagem, costeira internacional e costeira nacional, nos termos ali definidos.
+
+A prática veio demonstrar, contudo, a dificuldade de, no prazo estabelecido, lhe ser dado cumprimento, pelo que importa conceder aos organismos encarregados de emitir parecer sobre a fixação de lotações a dilação de tempo necessária ao cabal e efectivo cumprimento das funções que legalmente lhes estão cometidas.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único - 1 - O prazo fixado na parte final do n.º 1 do artigo 1.º do [Decreto-Lei n.º 517/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1977-279660), de 15 de Dezembro, é prorrogado até 30 de Junho de 1978, para efeitos de apreciação das propostas apresentadas ao abrigo do disposto no artigo 2.º do mesmo diploma.
+
+2 - Para efeitos do disposto no número anterior, a Comissão de Lotações deverá emitir o seu parecer até 15 de Junho de 1978.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel Branco Ferreira Lima.
+
+Promulgado em 21 de Junho de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

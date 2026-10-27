@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:901971934:por
+title: Portaria n.º 9/2025/2
+short_title: null
+summary: Autorização para a Secretaria-Geral do Ministério da Administração Interna assumir os encargos orçamentais relativos
+  à aquisição de serviços para a elaboração de estudo geotécnico e projeto de execução para as futuras instalações do Comando
+  Territorial da Guarda Nacional Republicana de Leiria.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Administração Interna - Gabinete do Secretário de Estado Adjunto e do Orçamento e Gabinete do Secretário de Estado
+  da Administração Interna
+proposing_entity: null
+official_number: 9/2025/2
+official_date: null
+publication_date: '2025-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 2/2025, Série II de 2025-01-03
+  number: '2'
+  series: II
+  supplement: null
+  pages: 77 - 78
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/01/002000000/0007700078.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '901971934'
+  dre_path: /dr/detalhe/portaria/9-2025-901971934
+  internal: pt:dre:901971934:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2025-901971934
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2025-901971934
+  consolidated_url: null
+  retrieved_at: '2026-10-23T18:01:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5e9a083c67b1773abe51148b62fad1ba37faa1cbb7559f63af9960ab38353949
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:01:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869421919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870819244:por
+  label: null
+  source: null
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T18:01:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 9/2025/2
+
+A Secretaria-Geral do Ministério da Administração Interna é a entidade responsável pela execução financeira dos procedimentos adstritos ao [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, que estabelece a programação de infraestruturas e equipamentos das forças de segurança do Ministério da Administração Interna.
+
+Neste contexto, foi identificada a necessidade da formação de um contrato de aquisição de prestação de serviços para a elaboração de estudo geotécnico e projeto de execução para as futuras instalações do Comando Territorial da Guarda Nacional Republicana (GNR) de Leiria.
+
+O encargo orçamental decorrente da contratação de serviços para a elaboração de estudo geotécnico e projeto de execução para as futuras instalações do Comando Territorial da GNR de Leiria, durante os anos económicos 2025 a 2029, tem o valor global de 426 634,50 € (quatrocentos e vinte e seis mil, seiscentos e trinta e quatro euros e cinquenta cêntimos), ao qual acresce IVA à taxa legal em vigor.
+
+Assim:
+
+Considerando que, nos termos do disposto no n.º 4 do artigo 7.º do [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, a assunção plurianual de compromissos depende de autorização dos membros do Governo responsáveis pelas áreas da administração interna e das finanças, e considerando que as despesas que deem lugar a encargos orçamentais em mais do que um ano económico ou em ano que não seja o da sua realização não podem ser efetivadas sem prévia autorização conferida por portaria conjunta da área governativa das finanças e da tutela, nos termos do disposto no artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, no uso das competências delegadas, nos termos da alínea c) do n.º 3 do [Despacho n.º 6837-B/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6837-b-2024-869421919), de 14 de junho, publicado no Diário da República, 2.ª série, n.º 117, de 19 de junho, e pelo Secretário de Estado da Administração Interna, no uso das competências delegadas, nos termos da alínea e) do n.º 4 do n.º i do [Despacho n.º 7270/2024](https://diariodarepublica.pt/dr/detalhe/despacho/7270-2024-870819244), de 21 de junho, publicado no Diário da República, 2.ª série, n.º 128, de 4 de julho, o seguinte:
+
+###### Artigo 1.º
+
+Fica a Secretaria-Geral do Ministério da Administração Interna autorizada a assumir os encargos orçamentais relativos à aquisição de serviços para a elaboração de estudo geotécnico e projeto de execução para as futuras instalações do Comando Territorial da GNR de Leiria, para os anos de 2025 a 2029, até ao montante máximo de 426 634,50 € (quatrocentos e vinte e seis mil, seiscentos e trinta e quatro euros e cinquenta cêntimos), ao qual acresce IVA à taxa legal em vigor.
+
+###### Artigo 2.º
+
+Os encargos financeiros resultantes da execução da presente portaria não podem, em cada ano económico, exceder os seguintes montantes, aos quais acresce o valor do IVA nos termos legais aplicáveis:
+
+a) 2025 - 127 990,35 €;
+
+b) 2026 - 255 980,70 €;
+
+c) 2027 - 0,00 €;
+
+d) 2028 - 0,00 €;
+
+e) 2029 - 42 663,45 €.
+
+###### Artigo 3.º
+
+A importância fixada para os anos económicos de 2026 a 2029 poderão ser acrescidas do saldo apurado na execução orçamental dos anos anteriores.
+
+###### Artigo 4.º
+
+Os encargos financeiros decorrentes da presente portaria são satisfeitos por conta das verbas a inscrever no orçamento da Secretaria-Geral do Ministério Administração Interna, na medida 088 - Infraestruturas, no âmbito do [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto.
+
+###### Artigo 5.º
+
+Para os compromissos assumidos pelo Estado que excedam o período de vigência do [Decreto-Lei n.º 54/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2022-187413390), de 12 de agosto, nos termos do artigo 12.º do mesmo diploma, é assegurado o financiamento necessário à sua execução.
+
+###### Artigo 6.º
+
+A presente portaria produz efeitos a partir da data da sua publicação.
+
+20 de dezembro de 2024. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 29 de novembro de 2024. - O Secretário de Estado da Administração Interna, Telmo Augusto Gomes de Noronha Correia.
+
+318502599

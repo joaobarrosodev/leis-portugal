@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:150879:por
+title: Portaria n.º 839/2005
+short_title: null
+summary: Proíbe o trânsito de veículos a motor no dia 22 de Setembro de 2005, entre as 7 e as 22 horas, nas áreas concelhias
+  que aderem à iniciativa do Dia Europeu sem Carros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 839/2005
+official_date: null
+publication_date: '2005-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 180/2005, Série I-B de 2005-09-19
+  number: '180'
+  series: I
+  supplement: null
+  pages: 5604 - 5605
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/09/180b00/56045605.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/839/2005/09/19/p/dre/pt/html
+  oj: null
+  dre: '150879'
+  dre_path: /dr/detalhe/portaria/839-2005-150879
+  internal: pt:dre:150879:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-2005-150879
+  metadata_url: https://data.dre.pt/eli/port/839/2005/09/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-2005-150879
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:08:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2e769e8a38119e017b350087e1576b6c82ff8816c3df92c54f9326a1ec3ac6d7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- Câmara Municipal
+- DIA Europeu sem Carros
+- Proteção do Ambiente
+relationships:
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:08:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 839/2005
+
+de 19 de Setembro
+
+A iniciativa da Semana Europeia da Mobilidade, da qual faz parte integrante o Dia Europeu sem Carros, procura encorajar estilos de vida mais ecológicos e mais saudáveis, proporcionando aos cidadãos oportunidades para se deslocarem a pé, utilizarem a bicicleta, os transportes públicos e veículos pouco poluentes e consciencializando-os para os efeitos das suas escolhas de modo de transporte na resultante qualidade do ambiente, uma vez que é reconhecido que a poluição atmosférica e o ruído resultantes da circulação automóvel são um dos mais graves problemas ambientais com que se deparam as nossas cidades, sendo os padrões actuais claramente insustentáveis.
+
+Esta Semana de actividades vai centrar-se num tema concreto que afecta todos os municípios: as viagens pendulares, sob o slogan «Ir e vir, de outro modo», tendo como alvo não apenas os que se dirigem ao seu trabalho e levam os filhos à escola, mas também empresas, hospitais e outras entidades que geram tráfego. As viagens casa-trabalho contribuem significativamente para o congestionamento do tráfego durante as horas de ponta e a experiência demonstra que uma redução efectiva dos quilómetros percorridos de carro durante essas viagens, através de medidas que privilegiem a utilização dos transportes públicos e da bicicleta ou o andar a pé, ou esquemas de partilha de carros ou da utilização colectiva do automóvel, não implicam necessariamente grandes investimentos.
+
+Considerando que se trata de uma oportunidade para as autoridades locais demonstrarem as preocupações que têm com o desenvolvimento sustentável e a qualidade de vida das suas populações e para estas manifestarem, com a adesão às diversas iniciativas desenvolvidas em torno desta iniciativa, o seu apoio à política das cidades sustentáveis;
+
+Considerando, igualmente, que no dia 22 de Setembro, instituído como o Dia Europeu sem Carros, se justifica a adopção de medidas especiais, condicionando o trânsito de veículos a motor em zonas definidas pelas câmaras municipais:
+
+Assim:
+
+Manda o Governo, pelo Ministro de Estado e da Administração Interna, nos termos conjugados da alínea b) do n.º 2 do artigo 4.º do [Decreto-Lei n.º 44/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2005-608743), de 23 de Fevereiro, e do n.º 2 do artigo 10.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, na última redacção que lhe foi conferida, o seguinte:
+
+1.º No dia 22 de Setembro de 2005, entre as 7 e as 22 horas, nas áreas concelhias dos municípios que aderem à iniciativa do Dia Europeu sem Carros é proibido o trânsito de veículos a motor.
+
+2.º Os municípios devem definir, materialmente, áreas de intervenção inferiores aos limites concelhios às quais se aplicará, em concreto, a proibição estatuída na presente portaria, sendo que aquelas devem ser assinaladas, nos seus limites, através da afixação de painéis onde conste um mapa com a sua abrangência, bem como a indicação de percursos alternativos sempre que estes existam e seja conveniente a sua divulgação.
+
+3.º O disposto na presente portaria não se aplica ao trânsito de:
+
+a) Veículos de transporte colectivo de passageiros;
+
+b) Veículos sem motor de combustão;
+
+c) Veículos afectos ao serviço de deficientes motores;
+
+d) Veículos afectos à prestação de socorro urgente e veículos de polícia;
+
+e) Veículos que, não se encontrando abrangidos pela alínea anterior, circulem em marcha de urgência;
+
+f) Veículos que transportem produtos alimentares perecíveis;
+
+g) Veículos que assegurem a realização de serviços de interesse público indispensáveis e urgentes;
+
+h) Táxis.
+
+4.º Os municípios aderentes podem:
+
+a) Restringir os horários em que se mantém a proibição constante do n.º 1.º, atendendo às especificidades de cada um dos concelhos, desde que seja respeitado um período mínimo de oito horas consecutivas;
+
+b) Restringir a sua adesão à presente iniciativa ao dia 22 de Setembro, ou alargá-la a um ou mais dos restantes dias da Semana Europeia da Mobilidade, entre 16 e 21 de Setembro;
+
+c) Determinar, por razões de interesse público relevante, outras excepções para além das enumeradas no número anterior, desde que tais excepções não ponham em causa a finalidade da iniciativa, nem os princípios orientadores da presente portaria.
+
+5.º As excepções referidas na alínea c) do número anterior deverão ter carácter genérico, devendo, também, ser convenientemente publicitadas.
+
+6.º As zonas abrangidas pelos condicionamentos de trânsito a que se referem os números anteriores devem ser divulgadas com a necessária antecedência pelas câmaras municipais que aderem à iniciativa do Dia Europeu sem Carros/Semana Europeia da Mobilidade, nos termos do n.º 3 do artigo 10.º do Código da Estrada, através dos órgãos de comunicação social, da afixação de painéis de informação e distribuição de folhetos informativos, ou outro meio adequado.
+
+7.º São aderentes à presente iniciativa, encontrando-se assim abrangidos pelas suas disposições, os seguintes municípios:
+
+Águeda;
+
+Almada;
+
+Angra do Heroísmo;
+
+Aveiro;
+
+Barreiro;
+
+Bragança;
+
+Caldas da Rainha;
+
+Cascais;
+
+Castelo de Vide;
+
+Celorico da Beira;
+
+Chaves;
+
+Coimbra;
+
+Entroncamento;
+
+Espinho;
+
+Fafe;
+
+Faro;
+
+Felgueiras;
+
+Figueira da Foz;
+
+Grândola;
+
+Guarda;
+
+Ílhavo;
+
+Lagos;
+
+Leiria;
+
+Lourinhã;
+
+Manteigas;
+
+Mealhada;
+
+Mértola;
+
+Monchique;
+
+Montijo;
+
+Nisa;
+
+Oeiras;
+
+Oliveira de Azeméis;
+
+Ovar;
+
+Pinhel;
+
+Portalegre;
+
+Porto;
+
+São João Madeira;
+
+Seixal;
+
+Serpa ;
+
+Sever do Vouga;
+
+Tavira;
+
+Torres Vedras;
+
+Trofa;
+
+Viana do Castelo;
+
+Vila Franca de Xira;
+
+Vila Real de Santo António.
+
+Pelo Ministro de Estado e da Administração Interna, Ascenso Luís Seixas Simões, Secretário de Estado da Administração Interna, em 12 de Setembro de 2005.

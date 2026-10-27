@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:630667:por
+title: Decreto n.º 375/71
+short_title: null
+summary: Define a área dos terrenos confinantes com a Fábrica Militar de Braço de Prata, em Lisboa, que fica sujeita a servidão
+  militar
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete do Ministro
+proposing_entity: null
+official_number: 375/71
+official_date: null
+publication_date: '1971-09-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 213/1971, Série I de 1971-09-09
+  number: '213'
+  series: I
+  supplement: null
+  pages: 1277 - 1278
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/09/21300/12771278.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '630667'
+  dre_path: /dr/detalhe/decreto/375-1971-630667
+  internal: pt:dre:630667:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/375-1971-630667
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/375-1971-630667
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5ce05ec85b33ea14b7754906c38db15f4021735fa655b9369b2d3fa505e5b16c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armas e Munições
+- Instalação Militar
+- Lisboa
+- Obras Públicas
+- Segurança das Instalações
+- Servidão Militar
+relationships:
+- type: amended_by
+  target: pt:dre:338413:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:338413:por
+  label: "Revogado pelo DEC.22/2000.2000.08.17.MDN DR.IS-B [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/22-2000-338413
+  date: '2000-08-17'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:19:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 375/71
+
+de 9 de Setembro
+
+Considerando a necessidade de garantir à Fábrica Militar de Braço de Prata as medidas de segurança indispensáveis à execução das funções que lhe competem;
+
+Considerando a conveniência de garantir a protecção de pessoas e bens nas zonas confinantes com aquelas instalações;
+
+Considerando a vantagem de ficarem bem definidas as limitações impostas pela servidão militar a estabelecer;
+
+Considerando o disposto nos artigos 1.º, 6.º, b), 12.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e as disposições do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com a Fábrica Militar de Braço de Prata, em Lisboa, indicados na carta a que alude o artigo 7.º e constituindo uma área limitada exteriormente como segue:
+
+a) Pela linha AB, paralela à vedação sul e leste da propriedade militar e dela distante 50 m, sendo o ponto A na intersecção com o eixo da Rua de Fernando Palha e situando-se o ponto B a nascente da linha férrea, na intersecção com uma linha paralela à vedação norte da propriedade militar e dela também distante 50 m;
+
+b) Pela linha BC, paralela à vedação norte da propriedade militar e dela distante 50 m, sendo C o ponto de intersecção com o prolongamento da vedação NW da propriedade militar;
+
+c) Pelo arco de circunferência CD, com raio de 50 m e centro no vértice NW da propriedade militar, sendo D o ponto de intersecção com o eixo da Rua B à Rua de Fernando Palha;
+
+d) Pela linha DE, concordante com o eixo da Rua B à Rua de Fernando Palha, sendo E o ponto de intersecção com o eixo da Rua A à Rua de Fernando Palha;
+
+e) Pela linha EF, concordante com o eixo da Rua A à Rua de Fernando Palha, sendo F o ponto de intersecção com o eixo da Rua do Telhal;
+
+f) Pela linha FG, concordante com o eixo da Rua do Telhal, sendo G o ponto de intersecção com o eixo da Rua de Fernando Palha;
+
+g) Pela linha GH, correspondente ao eixo da Rua de Fernando Palha, sendo H o ponto de intersecção com uma linha paralela ao eixo da Rua do Dr. Estêvão de Vasconcelos e dele distante 50 m;
+
+h) Pela linha HI, paralela ao eixo da Rua do Dr. Estêvão de Vasconcelos e dele distante 50 m, sendo I o ponto de intersecção com o eixo da Rua da Fraternidade Operária;
+
+i) Pela linha IJ, concordante com o eixo da Rua da Fraternidade Operária, sendo J o ponto de intersecção com o eixo da Rua do Dr. Estêvão de Vasconcelos;
+
+j) Pela linha JL, concordante com o eixo da Rua do Dr. Estêvão de Vasconcelos, sendo L o ponto de intersecção com o eixo da Rua do Vale Formoso de Baixo;
+
+l) Pela linha LM, concordante com o eixo da Rua do Vale Formoso de Baixo, sendo o ponto M neste eixo distante 50 m da vedação W da propriedade militar;
+
+m) Pela linha MN, paralela à vedação da propriedade militar e dela distante 50 m, sendo N o ponto de intersecção com o eixo da Rua de Zófimo Pedroso;
+
+n) Pela linha NO, concordante com o eixo da Rua de Zófimo Pedroso, sendo O o ponto de intersecção com o prolongamento do eixo da Rua Amorim;
+
+o) Pela linha OP, sendo P na intersecção dos eixos da Rua Amorim com a Rua de Fernando Palha;
+
+p) Pela linha PA, concordante com o eixo da Rua de Fernando Palha.
+
+Art. 2.º A área descrita no artigo anterior fica sujeita a servidão militar, nos termos do artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo proibida, sem licença da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
+
+a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
+
+b) Depósitos permanentes ou temporários de materiais explosivos ou inflamáveis;
+
+c) Construção de muros de vedação ou divisórios de propriedade;
+
+d) Montagem de linhas de energia eléctrica ou de ligações telefónicas, quer aéreas, quer subterrâneas;
+
+e) Plantações de árvores ou arbustos.
+
+Art. 3.º Ao governador militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo anterior.
+
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao director da Fábrica, ao Comando da Região Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares ou órgãos seus delegados.
+
+Art. 5.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação do Serviço de Fortificações e Obras Militares na Região Militar de Lisboa.
+
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro do Exército; das decisões respeitantes a demolições previstas no artigo 5.º cabe recurso para o governado militar de Lisboa, e da decisão deste para o Ministro do Exército.
+
+Art. 7.º A área descrita no artigo 1.º está demarcada num trecho da planta topográfica da cidade de Lisboa, na escala de 1:1000, organizando-se nove colecções com a classificação de «reservado», as quais se destinam a cada um dos seguintes departamentos:
+
+Uma ao Secretariado-Geral da Defesa Nacional.
+
+Uma ao Estado-Maior do Exército (3.ª Repartição).
+
+Duas à Região Militar de Lisboa.
+
+Uma à Direcção do Serviço de Fortificações e Obras Militares.
+
+Uma à Fábrica Militar de Braço de Prata.
+
+Uma ao Ministério das Obras Públicas.
+
+Duas ao Ministério do Interior.
+
+Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches.
+
+Promulgado em 1 de Setembro de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:308549:por
+title: Despacho Normativo n.º 34/83
+short_title: null
+summary: Fixa a taxa a ser paga pelas seguradoras a favor do Instituto de Seguros de Portugal durante o ano de 1983
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Tesouro - Gabinete do Secretário de Estado
+proposing_entity: null
+official_number: 34/83
+official_date: null
+publication_date: '1983-01-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/1983, Série I de 1983-01-29
+  number: '24'
+  series: I
+  supplement: null
+  pages: 252 - 253
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/01/02400/02520253.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '308549'
+  dre_path: /dr/detalhe/despacho-normativo/34-1983-308549
+  internal: pt:dre:308549:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/34-1983-308549
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/34-1983-308549
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 547342fb989c5491e21a9ef2f462d3241d694c1f5c283510c1691e691de16201
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto de Seguros de Portugal
+- Seguro
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:397311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607135:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:25:27Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 34/83
+
+Considerando que, de acordo com o artigo 22.º do seu Estatuto, aprovado pelo [Decreto-Lei n.º 302/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1982-397311), de 30 de Julho, constitui receita do Instituto de Seguros de Portugal, de entre outras, uma taxa paga pelas seguradoras nos termos das normas legais em vigor;
+
+Atendendo a que o Instituto de Seguros de Portugal apenas deu início à sua actividade em meados do mês de Novembro;
+
+Verificando-se a necessidade de fixar o valor da taxa a ser paga pelas seguradoras a favor do Instituto de Seguros de Portugal durante o ano de 1983;
+
+Considerando que o Instituto de Seguros de Portugal detém a quase totalidade das atribuições da Inspecção-Geral de Seguros e grande parte da competência do extinto Instituto Nacional de Seguros, tendo sucedido a este em todos os seus direitos e obrigações:
+
+Determino, ao abrigo do Despacho n.º 4/81, de 8 de Setembro, de delegação de competência, o seguinte:
+
+1 - A taxa a favor do Instituto de Seguros de Portugal é fixada, em relação ao ano de 1983, em 0,5% sobre a totalidade da receita processada, líquida de estornos e anulações, relativamente aos prémios de seguro directamente subscritos pelas sociedades de seguros.
+
+2 - O pagamento da taxa referida no número anterior deverá ser feito à ordem do Instituto de Seguros de Portugal, nos termos do artigo 1.º do [Decreto-Lei n.º 101/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1982-607135), de 8 de Abril.
+
+Secretaria de Estado do Tesouro, 14 de Janeiro de 1983. - O Secretário de Estado do Tesouro, Walter Waldemar Pego Marques.

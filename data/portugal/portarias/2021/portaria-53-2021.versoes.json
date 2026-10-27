@@ -1,0 +1,187 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:159174081:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-159088899",
+ "dre_path": "/dr/detalhe/portaria/53-2021-159174081",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-03-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "204583784",
+    "159210576",
+    "159210577",
+    "159210578",
+    "159210579"
+   ]
+  },
+  {
+   "date": "2021-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176075693:por",
+     "title": "Portaria n.º 307/2021",
+     "published": "2021-12-17",
+     "dre_path": "/dr/detalhe/portaria/307-2021-176075693"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "159210575",
+    "159210576",
+    "176126187",
+    "159210578",
+    "159210579",
+    "159210580"
+   ]
+  },
+  {
+   "date": "2022-12-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:204502330:por",
+     "title": "Portaria n.º 292/2022",
+     "published": "2022-12-09",
+     "dre_path": "/dr/detalhe/portaria/292-2022-204502330"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "204583784",
+    "204583785",
+    "204583786",
+    "204583787",
+    "204583788",
+    "204583789"
+   ]
+  }
+ ],
+ "fragments": {
+  "204583784": {
+   "fragment_id": "159088900",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-12-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 53/2021\n\nde 10 de março\n\nSumário: Estabelece a idade normal de acesso à pensão de velhice do regime geral de segurança social em 2022.\n\nO Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, estabelece no n.º 3 do artigo 20.º que a idade normal de acesso à pensão de velhice após 2014 varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e terceiro ano anteriores ao início da pensão, de acordo com a fórmula nele prevista.\n\nA idade normal de acesso à pensão deve ser publicitada em portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9 do artigo 20.º do referido decreto-lei.\n\nPor outro lado, o fator de sustentabilidade previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano de 2000 e o ano anterior ao do início da pensão.\n\nTendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2020, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2021, bem como a idade normal de acesso à pensão de velhice a vigorar em 2022.\n\nAssim, considerando o indicador da esperança média de vida aos 65 anos, verificado em 2000 e em 2020, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2021 é de 0,8446.\n\nPor último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos verificada entre 2019 e 2020 na aplicação da fórmula prevista no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão em 2022 é de 66 anos e 7 meses.\n\nAssim:\n\nManda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "159210576": {
+   "fragment_id": "159088901",
+   "type": 11,
+   "heading": "Artigo 1.º — Idade normal de acesso à pensão de velhice em 2022",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Idade normal de acesso à pensão de velhice em 2022\n\nA idade normal de acesso à pensão de velhice do regime geral de segurança social em 2022, nos termos do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, é de 66 anos e 7 meses."
+  },
+  "159210577": {
+   "fragment_id": "159088902",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade a aplicar, nos termos do disposto no artigo 35.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, ao montante estatutário das pensões de velhice do regime geral de segurança social é de 0,8446."
+  },
+  "159210578": {
+   "fragment_id": "159088903",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 50/2019, de 8 de fevereiro, e o artigo 2.º da Portaria n.º 30/2020, de 31 de janeiro."
+  },
+  "159210579": {
+   "fragment_id": "159088904",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2021."
+  },
+  "159210575": {
+   "fragment_id": "159088900",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 53/2021\n\nde 10 de março\n\nSumário: Estabelece a idade normal de acesso à pensão de velhice do regime geral de segurança social em 2022.\n\nO Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, estabelece no n.º 3 do artigo 20.º que a idade normal de acesso à pensão de velhice após 2014 varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e terceiro ano anteriores ao início da pensão, de acordo com a fórmula nele prevista.\n\nA idade normal de acesso à pensão deve ser publicitada em portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9 do artigo 20.º do referido decreto-lei.\n\nPor outro lado, o fator de sustentabilidade previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano de 2000 e o ano anterior ao do início da pensão.\n\nTendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2020, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2021, bem como a idade normal de acesso à pensão de velhice a vigorar em 2022.\n\nAssim, considerando o indicador da esperança média de vida aos 65 anos, verificado em 2000 e em 2020, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2021 é de 0,8446.\n\nPor último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos verificada entre 2019 e 2020 na aplicação da fórmula prevista no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão em 2022 é de 66 anos e 7 meses.\n\nAssim:\n\nManda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "176126187": {
+   "fragment_id": "159088902",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": "2021-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade a aplicar, nos termos do disposto no artigo 35.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, ao montante estatutário das pensões de velhice do regime geral de segurança social é de 0,8446.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+  },
+  "159210580": {
+   "fragment_id": "159088905",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de março de 2021.\n\n114048546"
+  },
+  "204583785": {
+   "fragment_id": "159088901",
+   "type": 11,
+   "heading": "Artigo 1.º — Idade normal de acesso à pensão de velhice em 2022",
+   "in_force_from": "2022-12-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Idade normal de acesso à pensão de velhice em 2022\n\nA idade normal de acesso à pensão de velhice do regime geral de segurança social em 2022, nos termos do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, é de 66 anos e 7 meses.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01"
+  },
+  "204583786": {
+   "fragment_id": "159088902",
+   "type": 11,
+   "heading": "Artigo 2.º — Fator de sustentabilidade",
+   "in_force_from": "2022-12-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Fator de sustentabilidade\n\nO fator de sustentabilidade a aplicar, nos termos do disposto no artigo 35.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, ao montante estatutário das pensões de velhice do regime geral de segurança social é de 0,8446.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 307/2021 - Diário da República n.º 243/2021, Série I de 2021-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/307-2021-176075693), em vigor a partir de 2021-12-22, produz efeitos a partir de 2022-01-01"
+  },
+  "204583787": {
+   "fragment_id": "159088903",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": "2022-12-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a Portaria n.º 50/2019, de 8 de fevereiro, e o artigo 2.º da Portaria n.º 30/2020, de 31 de janeiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01"
+  },
+  "204583788": {
+   "fragment_id": "159088904",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": "2022-12-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir de 1 de janeiro de 2021.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01"
+  },
+  "204583789": {
+   "fragment_id": "159088905",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-12-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 5 de março de 2021.\n\n114048546\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/292-2022-204502330), em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01"
+  }
+ }
+}

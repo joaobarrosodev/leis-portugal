@@ -1,0 +1,635 @@
+---
+schema_version: '1.0'
+id: pt:dre:150711:por
+title: Decreto-Lei n.º 158/2005
+short_title: null
+summary: Aprova o regime jurídico de assistência na doença da GNR e PSP
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 158/2005
+official_date: null
+publication_date: '2005-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 181/2005, Série I-A de 2005-09-20
+  number: '181'
+  series: I
+  supplement: null
+  pages: 5613 - 5618
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/09/181a00/56135618.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-11-04'
+version_history:
+  file: decreto-lei-158-2005.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2005-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-30'
+    amending: pt:dre:498702:por
+    amending_title: Decreto-Lei n.º 105/2013
+    changes:
+    - Altera Artigo 24.º
+  - date: '2014-05-20'
+    amending: pt:dre:25343710:por
+    amending_title: Lei n.º 30/2014
+    changes:
+    - Altera Artigo 24.º
+  - date: '2015-05-16'
+    amending: pt:dre:67212152:por
+    amending_title: Decreto-Lei n.º 81/2015
+    changes:
+    - Adita Artigo 5.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 24.º
+  - date: '2015-08-12'
+    amending: pt:dre:69968712:por
+    amending_title: Decreto-Lei n.º 154/2015
+    changes:
+    - Revoga Artigo 19.º
+  - date: '2024-11-04'
+    amending: pt:dre:893982646:por
+    amending_title: Decreto-Lei n.º 80/2024
+    changes:
+    - Adita Artigo 32.º-A
+    - Altera Artigo 32.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/158/2005/p/cons/20241030/pt/html
+  oj: null
+  dre: '150711'
+  dre_path: /dr/detalhe/decreto-lei/158-2005-150711
+  internal: pt:dre:150711:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2005-150711
+  metadata_url: https://data.dre.pt/eli/dec-lei/158/2005/p/cons/20241030/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-69812132
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-69812132
+  retrieved_at: '2026-10-22T12:00:50Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d54b2284b5b70b26b257859c2d61175f9f82df49d2b0cd71fb35c4ffee7e1911
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:00:50Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-158-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ADSE
+- PSP
+- Família
+- Assistência a Familiares
+- Assistência Médica
+- Cônjuge
+- Serviço Nacional de Saúde
+- Pagamento
+- Hospital Militar
+- GNR
+- Protecção na Doença
+- Regime Jurídico
+- Doença
+- Funcionário Público
+- União de Facto
+relationships:
+- type: amended_by
+  target: pt:dre:197491:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:498702:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702
+  date: '2013-07-30'
+- type: amended_by
+  target: pt:dre:25343710:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-2014-25343710
+  date: '2014-05-19'
+- type: amended_by
+  target: pt:dre:67212152:por
+  label: Adita Artigo 5.º-B; Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152
+  date: '2015-05-15'
+- type: amended_by
+  target: pt:dre:69968712:por
+  label: Revoga Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2015-69968712
+  date: '2015-08-07'
+- type: amended_by
+  target: pt:dre:893982646:por
+  label: Adita Artigo 32.º-A; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2024-893982646
+  date: '2024-10-30'
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2001/05/11/p/dre
+article_structure:
+  article_count: 39
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:00:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 158/2005
+
+Decreto-Lei n.º 158/2005
+
+de 20 de Setembro
+
+A assistência na doença ao pessoal da Guarda Nacional Republicana e ao da Polícia de Segurança Pública é assegurada num quadro específico, dentro do subsistema público de saúde, do qual o Decreto-Lei n.º 357/77, de 31 de Agosto, e a Portaria n.º 555/78, de 15 de Setembro, são os principais diplomas orientadores.
+
+O modelo de serviço de saúde que preconiza, pela sua antiguidade, mas também pela sua injustificada diferenciação com o da ADSE, revela-se, em muitos domínios, desajustado face à actual realidade social e às novas necessidades de cuidados de saúde que dela emergem.
+
+Importa, igualmente, sublinhar que o actual quadro legislativo foi produzido num contexto de segurança social em que era inexistente o Serviço Nacional de Saúde, situação que hoje não existe mais.
+
+Estes subsistemas têm gerado, ao longo dos anos, uma despesa muito superior ao orçamentado, acumulando dívidas a prestadores de serviços que acabam por prejudicar a própria qualidade dos cuidados prestados. A despesa verificada tem sido muito superior à gerada no subsistema que abrange a generalidade dos servidores do Estado - a despesa por titular chega a 200% da que se verifica na ADSE.
+
+Por tudo isto, é indispensável a reformulação da disciplina normativa dos subsistemas de saúde da GNR e da PSP, no sentido da sua convergência com as normas legais que regulamentam o subsistema da ADSE.
+
+Neste sentido, opta-se pela manutenção de subsistemas próprios de assistência na doença, dada a especificidade da missão, mas restringe-se o âmbito dos titulares do sistema àqueles em relação aos quais se verifica tal especificidade, ou seja, aos militares da GNR e ao pessoal com funções policiais da PSP.
+
+O presente diploma redefine também o quadro de atribuição da qualidade de beneficiário familiar, atribuindo tal qualidade àqueles que o pudessem ser na ADSE por aplicação das respectivas regras, o que permite corrigir a excessiva abrangência do actual quadro legal, nomeadamente por incluir os afins a cargo, os cônjuges separados de pessoas e bens que recebam pensão de alimentos ou ainda os descendentes ou equiparados, independentemente da idade, desde que façam prova de não auferirem rendimentos próprios.
+
+Quanto ao regime de benefícios, torna-se aplicável a estes subsistemas o regime que vigorar para a ADSE em matéria de prestação de cuidados de saúde em regime livre e de assistência medicamentosa. Mantém-se a autonomia dos subsistemas para a celebração de convenções, embora subordinadas a um novo regime.
+
+É redefinido o papel das instalações próprias de saúde da PSP e da GNR na prestação de cuidados de saúde. Estando integrados em forças de segurança, apenas faz sentido que tais serviços sejam utilizados numa óptica de apoio à missão operacional, ou seja, pelo pessoal no activo.
+
+É igualmente introduzida a obrigatoriedade de o pessoal das forças de segurança, à semelhança dos demais servidores do Estado, passar a descontar 1% do seu vencimento base para co-financiamento do seu subsistema de saúde, prevendo-se um período transitório até ser atingido aquele valor.
+
+Foram ouvidas as associações sócio-profissionais da GNR e as associações sindicais da PSP.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece o regime jurídico da assistência na doença ao pessoal ao serviço da Guarda Nacional Republicana (GNR) e da Polícia de Segurança Pública (PSP) e aos seus familiares.
+
+2 - A assistência na doença é assegurada por serviços próprios de assistência na doença da GNR e da PSP, adiante designados por SAD.
+
+### Capítulo II — Dos beneficiários
+
+#### Secção I — Categorias de beneficiários
+
+###### Artigo 2.º — Beneficiários
+
+Têm direito à assistência na doença prevista neste diploma as seguintes categorias de beneficiários:
+
+a) Beneficiários titulares;
+
+b) Beneficiários familiares ou equiparados;
+
+c) Beneficiários extraordinários;
+
+d) Beneficiários associados.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 81/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152), em vigor a partir de 2015-05-16
+
+###### Artigo 3.º — Beneficiários titulares
+
+Integram-se na categoria de beneficiários titulares:
+
+a) Os militares da GNR nas situações de activo, reserva e reforma;
+
+b) O pessoal com funções policiais da PSP no activo, pré-aposentado e aposentado;
+
+c) O pessoal em formação para ingresso na GNR e na PSP.
+
+###### Artigo 4.º — Perda da condição de beneficiário titular
+
+Implicam a perda da qualidade de beneficiário titular as seguintes situações:
+
+a) Licença ilimitada e licença de longa duração, quando não tenha resultado de doença e enquanto se mantiver essa situação;
+
+b) Perda do vínculo à GNR ou à PSP, incluindo o que resulte de reforma ou de aposentação na sequência de processo disciplinar;
+
+c) Prestação de serviço em outras entidades da administração central, regional ou local, salvo se se tratar de requisição ou destacamento que não careça de autorização do serviço de origem, do desempenho de funções por indicação da GNR ou da PSP, ou do exercício de funções reservadas por lei a elementos da GNR ou da PSP.
+
+###### Artigo 5.º — Beneficiários familiares ou equiparados
+
+1 - Sem prejuízo do disposto nos números seguintes, a elegibilidade para a inscrição como beneficiário familiar ou equiparado depende da verificação das condições previstas no regime da ADSE para a inscrição como beneficiário familiar ou equiparado, com as necessárias adaptações.
+
+2 - [Revogado].
+
+3 - Não são inscritos como beneficiários os familiares ou equiparados das pessoas referidas na alínea c) do artigo 3.º
+
+4 - Não tem direito à condição de beneficiário familiar ou equiparado a pessoa que seja beneficiário titular de outro regime de protecção social.
+
+5 - Os beneficiários familiares ou equiparados não podem simultaneamente estar inscritos em mais do que um subsistema de saúde.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 81/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152), em vigor a partir de 2015-05-16
+
+###### Artigo 5.º-A — Beneficiários extraordinários
+
+1 - Os funcionários e agentes, beneficiários titulares da ADSE, que sejam cônjuges ou vivam em união de facto com beneficiários titulares do regime de assistência na doença ao pessoal da GNR e da PSP podem optar pela sua inscrição como beneficiários extraordinários do regime de assistência na doença ao pessoal da GNR e da PSP.
+
+2 - Os funcionários e agentes que exerçam o direito previsto no número anterior não podem reinscrever-se na ADSE, salvo em caso de:
+
+a) Divórcio;
+
+b) Separação judicial de pessoas e bens;
+
+c) Dissolução da união de facto;
+
+d) Perda ou suspensão da qualidade de beneficiário titular do regime de assistência na doença ao pessoal da GNR e da PSP por parte do cônjuge ou da pessoa com a qual viva em união de facto.
+
+3 - Nos casos previstos em qualquer das alíneas do número anterior, a reinscrição na ADSE é obrigatória para os funcionários e agentes inscritos até 31 de Dezembro de 2005 e facultativa para os restantes.
+
+4 - Os beneficiários da ADSE com a qualidade de familiares ou equiparados dos funcionários e agentes que exerçam o direito de opção referido no n.º 1 passam a beneficiar do regime de assistência na doença ao pessoal da GNR e da PSP, aplicando-se o disposto no n.º 2.
+
+5 - O regime aplicável aos beneficiários extraordinários do regime de assistência na doença ao pessoal da GNR e da PSP é definido por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, das finanças e da Administração Pública.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 53-D/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), em vigor a partir de 2007-01-01
+
+###### Artigo 5.º-B — Beneficiários associados
+
+1 - Podem inscrever-se como beneficiários associados os cônjuges não separados de pessoas e bens, os cônjuges sobrevivos, os unidos de facto e os unidos de facto sobrevivos, dos beneficiários titulares da ADM, que não possuam vínculo de emprego público e que não se encontrem numa das seguintes situações:
+
+a) Sejam beneficiários titulares ou familiares deste ou de outro subsistema público de assistência na doença;
+
+b) Tenham anteriormente renunciado à qualidade de beneficiário titular de outro subsistema público de assistência na doença.
+
+2 - A faculdade prevista no número anterior deve ser exercida no prazo de três meses a contar da data da verificação dos factos que a constituem.
+
+3 - O regime aplicável aos beneficiários associados da ADM é definido por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública e da defesa nacional.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152), em vigor a partir de 2015-05-16
+
+#### Secção II — Cartão de beneficiário
+
+###### Artigo 6.º — Cartão de beneficiário
+
+1 - Aos beneficiários da assistência na doença é fornecido um cartão de modelo a aprovar, consoante os casos, pelo comandante-geral da GNR ou pelo director nacional da PSP, a emitir pelos respectivos SAD.
+
+2 - O cartão de beneficiário é pessoal e intransmissível e em caso algum poderá ser usado por outrem em nome do beneficiário, com excepção do disposto no número seguinte.
+
+3 - No caso de recém-nascidos, pode ser exercido o direito à assistência na doença através do uso do cartão de qualquer dos seus progenitores, durante os primeiros 60 dias de vida, mediante comunicação prévia aos respectivos SAD.
+
+4 - Para os beneficiários titulares, devem os cartões de identificação das respectivas forças ser adaptados no sentido de poderem ser utilizados para a finalidade prevista no presente artigo.
+
+5 - O prazo de validade dos cartões é fixado pelas entidades referidas no n.º 1 deste artigo, devendo ser diferenciado consoante a qualidade de beneficiário titular ou beneficiário familiar ou equiparado.
+
+6 - Sempre que se verifique o extravio ou mau estado de conservação do cartão de beneficiário são emitidas segundas vias, mediante requerimento devidamente fundamentado pelo beneficiário titular e pagamento de um montante a fixar pelas entidades referidas no n.º 1 deste artigo.
+
+7 - O direito à utilização do cartão cessa com a verificação de facto do qual resulte a perda da qualidade de beneficiário, devendo o mesmo cartão ser devolvido aos serviços no prazo de 30 dias.
+
+###### Artigo 7.º — Identificação dos beneficiários
+
+1 - Os beneficiários, para gozarem do direito de assistência na doença, devem exibir o cartão de beneficiário.
+
+2 - Os serviços prestadores dos cuidados de saúde devem exigir a apresentação do cartão de beneficiário em conjunto com o bilhete de identidade.
+
+### Capítulo III — Da assistência na doença
+
+#### Secção I — Disposições gerais
+
+###### Artigo 8.º — Modalidades de assistência na doença
+
+O direito de assistência na doença ao pessoal da GNR e PSP e seus familiares e equiparados abrange as modalidades definidas para a protecção na doença da ADSE.
+
+###### Artigo 9.º — Acumulação de benefícios
+
+Os benefícios resultantes do direito à assistência na doença, a que se refere o presente diploma, não são acumuláveis com outros de igual natureza, concedidos por qualquer outro subsistema de saúde.
+
+#### Secção II — Assistência na doença
+
+###### Artigo 10.º — Assistência na doença em Portugal
+
+1 - Os beneficiários podem aceder às prestações de assistência na doença, através dos seguintes meios existentes no País:
+
+a) Serviço Nacional de Saúde e hospitais militares;
+
+b) Prestadores de cuidados de saúde, ao abrigo de convenções ou protocolos celebrados com os SAD;
+
+c) Prestadores de cuidados de saúde, da livre escolha dos beneficiários.
+
+2 - O pessoal da GNR e da PSP no activo tem direito à utilização das instalações clínicas próprias das respectivas forças, para finalidades conexas com o desempenho da missão, em termos a definir por despacho do Ministro da Administração Interna.
+
+###### Artigo 11.º — Assistência na doença no estrangeiro
+
+Os beneficiários dos SAD podem aceder à prestação de assistência na doença em países estrangeiros nos termos gerais definidos pela legislação em vigor para os beneficiários da ADSE.
+
+#### Secção III — Pagamento
+
+###### Artigo 12.º — Modalidades de pagamento
+
+As modalidades de utilização das prestações da assistência na doença dos SAD são as seguintes:
+
+a) Gratuita para o beneficiário, quando prestada pelo Serviço Nacional de Saúde e pelos hospitais militares, sem prejuízo do pagamento das respectivas taxas moderadoras;
+
+b) Comparticipada, nos termos previstos no artigo 15.º deste diploma.
+
+###### Artigo 13.º — Responsabilidade pelo pagamento
+
+1 - Os responsáveis pelo pagamento da prestação de cuidados de assistência na doença são os seguintes:
+
+a) A GNR e a PSP, respectivamente, através dos seus orçamentos;
+
+b) Os beneficiários, na proporção que for fixada pelas tabelas de comparticipação.
+
+2 - O disposto no número anterior não se aplica quando a despesa resulte de facto gerador de responsabilidade civil imputável a terceiro.
+
+3 - Os SAD asseguram ao lesado, a título provisório, o pagamento das despesas referidas no número anterior, sempre que se trate de facto ocorrido durante o exercício de funções, mas que não seja considerado acidente em serviço.
+
+4 - No caso previsto no número anterior, assiste aos SAD o direito de regresso contra terceiros responsáveis.
+
+5 - O pagamento pelos SAD dos cuidados prestados assenta nas técnicas de reembolso ao beneficiário e de pagamento directo à entidade prestadora da comparticipação que cabe aos SAD.
+
+6 - Quando exista pagamento directo à entidade prestadora por força de acordos estabelecidos, os serviços são reembolsados pelos beneficiários na parte que eventualmente exceder os limites estabelecidos para número de actos ou seu valor.
+
+7 - No caso previsto no número anterior e até ao integral ressarcimento do serviço pelos montantes indevidamente pagos, devem ser retidos os pagamentos futuros a todos os beneficiários associados ao mesmo titular ou até ao deferimento do requerimento referido no n.º 2 do artigo 14.º
+
+###### Artigo 14.º — Reposição
+
+1 - Os beneficiários titulares, relativamente aos seus familiares ou equiparados, são responsáveis perante as respectivas instituições pelo cumprimento das regras estabelecidas para a obtenção, manutenção e utilização do direito de assistência na doença, no que respeita à reposição de valores dispendidos indevidamente pelos SAD, independentemente da responsabilidade disciplinar, civil ou criminal que ao caso couber e da manutenção da responsabilidade própria do beneficiário familiar em causa.
+
+2 - Sempre que haja lugar à reposição de valores pode o seu pagamento ser fraccionado, mediante requerimento fundamentado a decidir pelo Comandante Geral da GNR ou pelo Director Nacional da PSP, consoante os casos.
+
+3 - A não reposição voluntária dos montantes em dívida implica o vencimento de juros de mora, à taxa legal, até integral pagamento.
+
+4 - A cobrança coerciva dos montantes em dívida será feita através dos serviços de finanças da área de residência do devedor, valendo como título executivo a certidão emitida pelos SAD.
+
+###### Artigo 15.º — Comparticipação
+
+1 - Na situação referida na alínea b) do n.º 1 do artigo 10.º, o montante a suportar pelo beneficiário é determinado tendo em conta o tipo de acto médico praticado, por portaria conjunta dos ministros responsáveis pelas áreas da administração interna, das finanças e da Administração Pública.
+
+2 - A comparticipação concedida aos beneficiários, no caso referido na alínea c) do n.º 1 do artigo 10.º é a que resultar da aplicação das regras definidas para o regime livre na ADSE.
+
+3 - A comparticipação concedida aos beneficiários na assistência medicamentosa e na aquisição de meios de correcção e compensação é a que resultar da aplicação das regras e tabelas definidas para a comparticipação correspondente na ADSE.
+
+4 - Os beneficiários assumem os encargos relativos às taxas moderadoras, quando houver lugar a tal, e a diferença dos custos no caso de opção por internamento em quarto particular.
+
+5 - O pagamento da despesa, para além dos escalões de comparticipação estabelecidos, é da responsabilidade do beneficiário.
+
+6 - As regras referidas nos n.os 2 e 3 incluem as eventuais disposições sobre limites à quantidade e valor de actos médicos ou aquisição de medicamentos e meios de correcção e compensação comparticipáveis.
+
+### Capítulo IV — Das convenções
+
+###### Artigo 16.º — Convenções
+
+A aquisição dos serviços de saúde a disponibilizar em regime convencionado, nos termos do presente diploma, faz-se mediante a celebração de convenções.
+
+###### Artigo 17.º — Regime das convenções
+
+1 - Entende-se por convenção o contrato de adesão celebrado entre o serviço e pessoas singulares ou colectivas, privadas ou públicas, que tenham por objecto a prestação de cuidados de saúde e o fornecimento de medicamentos, próteses e ortóteses.
+
+2 - A contratação em regime de convenção inicia-se com a celebração do contrato de adesão referido no artigo anterior.
+
+3 - O clausulado tipo das convenções é aprovado por portaria conjunta dos Ministros responsáveis pelas áreas da Administração Interna, das Finanças e da Administração Pública.
+
+###### Artigo 18.º — Objectivos das convenções
+
+As convenções destinam-se a racionalizar a aquisição dos serviços de saúde, reduzir os respectivos custos em relação à prestação em regime livre, bem como a disponibilizar aos beneficiários a garantia da necessária prontidão, continuidade e qualidade, com fins de promoção da saúde, de prevenção, diagnóstico, terapêutica da doença e de reabilitação.
+
+###### Artigo 19.º — Conteúdo das convenções
+
+O clausulado tipo das convenções deve conter os seguintes elementos:
+
+a) A identificação e a definição da área de bens e cuidados de saúde a contratar;
+
+b) A definição da responsabilidade das partes contratantes;
+
+c) O código de nomenclatura e respectivos valores;
+
+d) Os requisitos de idoneidade técnica do pessoal;
+
+e) As condições de adequação das instalações e do equipamento;
+
+f) Os critérios que permitam a acreditação;
+
+g) As normas referentes a incompatibilidades legais e ou funcionais;
+
+h) A fiscalização do cumprimento contratual;
+
+i) As tabelas de comparticipação;
+
+j) As condições de facturação.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 154/2015 - Diário da República n.º 153/2015, Série I de 2015-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2015-69968712), em vigor a partir de 2015-08-12
+
+###### Artigo 20.º — Vigência
+
+As convenções são válidas por períodos de um ano, renovando-se automaticamente por iguais períodos, salvo se, com a antecedência mínima de 60 dias em relação ao termo de cada período de vigência, qualquer das partes comunicar a sua denúncia.
+
+###### Artigo 21.º — Condições de adesão
+
+Podem ser celebradas convenções com pessoas singulares ou colectivas, com idoneidade para a prestação de cuidados de saúde ou fornecimento de bens, sob a orientação e responsabilidade técnica de profissionais de saúde devidamente habilitados.
+
+###### Artigo 22.º — Deveres das entidades convencionadas
+
+1 - Constituem deveres das entidades convencionadas:
+
+a) Facultar o acesso às instalações e às informações estatísticas e dados de saúde, para efeitos de auditoria, fiscalização e controlo de qualidade, no respeito pelas regras deontológicas e de segredo profissional;
+
+b) Prestar cuidados de saúde de qualidade aos beneficiários da GNR e da PSP, em tempo útil, nas melhores condições de atendimento, não estabelecendo qualquer tipo de discriminação;
+
+c) Elaborar com rigor os documentos de despesa, de acordo com a prestação de cuidados de saúde efectivamente realizada ou os bens fornecidos e no respeito pelas condições de facturação definidas nas convenções.
+
+2 - As entidades convencionadas devem enviar aos SAD, para efeitos de pagamento, os documentos de despesa no prazo de 180 dias, contados do último dia do mês em que se verificou o facto que a originou, sob pena de caducidade do direito de pagamento da respectiva despesa.
+
+###### Artigo 23.º — Acompanhamento e controlo
+
+Os SAD devem avaliar, de forma sistemática, a qualidade e a acessibilidade dos cuidados de saúde prestados pelas entidades convencionadas e zelar pelo integral cumprimento das convenções.
+
+### Capítulo V — Dos deveres e responsabilidades dos beneficiários
+
+###### Artigo 24.º — Descontos
+
+1 - A remuneração base dos beneficiários titulares, no ativo, na reserva e na pré-aposentação, e dos beneficiários extraordinários, fica sujeita ao desconto de 3,50 %.
+
+2 - As pensões de aposentação e de reforma dos beneficiários titulares e extraordinários, quando o seu montante for igual ou superior ao valor correspondente a uma vez e meia a retribuição mínima mensal garantida, ficam imediatamente sujeitas ao desconto de 3,50 %.
+
+3 - Quando da aplicação da percentagem prevista no número anterior resultar pensão de valor inferior à retribuição mínima mensal garantida, esta fica isenta de desconto.
+
+4 - Os beneficiários associados, previstos no artigo 5.º-B, ficam obrigados ao pagamento de uma contribuição de 3,5%, a descontar mensalmente no vencimento, na pensão de aposentação ou na pensão de reforma do beneficiário titular, sem prejuízo do disposto nos números seguintes.
+
+5 - O beneficiário associado em situação de viuvez, ou considerado membro sobrevivo da união de facto, fica obrigado ao pagamento de uma contribuição de 3,5 %, a descontar mensalmente na sua pensão de viuvez ou de sobrevivência, consoante o caso.
+
+6 - A contribuição a que se referem os n.os 4 e 5 incide sobre:
+
+a) 79 % da remuneração base do beneficiário titular, excluído o suplemento por serviço nas forças de segurança;
+
+b) 79 % de 80 % da pensão de aposentação ou de reforma do respetivo beneficiário titular, ou da pensão de viuvez ou de sobrevivência auferida pelo beneficiário associado.
+
+7 - Quando o montante ao qual são aplicadas as percentagens previstas no número anterior for inferior a uma vez e meia a retribuição mínima mensal garantida, a contribuição a que se referem os n.os 4 e 5 incide sobre uma vez a retribuição mínima mensal garantida.
+
+8 - Os descontos e as contribuições referidos nos n.os 1, 2, 4 e 5, constituem receita da entidade gestora dos SAD.
+
+9 - O suplemento por serviço nas forças de segurança integra o conceito de remuneração base a que se refere o n.º 1.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 81/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152), em vigor a partir de 2015-05-16
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2014 - Diário da República n.º 95/2014, Série I de 2014-05-19](https://diariodarepublica.pt/dr/detalhe/lei/30-2014-25343710), em vigor a partir de 2014-05-20
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2013 - Diário da República n.º 145/2013, Série I de 2013-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702), em vigor a partir de 2006-12-30
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 53-D/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), em vigor a partir de 2007-01-01
+
+###### Artigo 25.º — Deveres do beneficiário titular
+
+1 - Os beneficiários titulares ficam obrigados à apresentação de quaisquer meios de prova solicitados pelos respectivos SAD para efeitos de apuramento das condições de acesso à condição de beneficiário familiar ou equiparado.
+
+2 - Sempre que no agregado familiar ocorram alterações que possam modificar ou extinguir os pressupostos da concessão do direito à assistência na doença, devem os beneficiários titulares comunicá-las aos respectivos SAD no prazo máximo de 30 dias, após a sua verificação.
+
+3 - Os beneficiários não devem retirar quaisquer benefícios ilegítimos, para si ou para terceiros, usando o cartão de beneficiário por qualquer forma que viole o disposto neste diploma ou regulamentação conexa.
+
+4 - Os beneficiários devem enviar aos respectivos SAD os documentos de despesa resultantes da assistência na doença em regime de livre escolha, no prazo de 180 dias a contar da data do facto que os originaram, sob pena de caducidade do direito ao reembolso da respectiva despesa.
+
+###### Artigo 26.º — Despesas da responsabilidade de terceiros
+
+1 - Os beneficiários devem comunicar de imediato aos respectivos SAD, todos os factos geradores de responsabilidade civil de terceiros de que resultem despesas de saúde.
+
+2 - Considera-se cumprido o dever referido no número anterior, relativamente ao pessoal no activo, nos casos de factos ocorridos em serviço que sejam do conhecimento das respectivas forças.
+
+3 - Quando do incumprimento do dever referido no n.º 1 resulte o pagamento indevido pelos SAD, deve o beneficiário reembolsar o serviço de todos os montantes já dispendidos, sem prejuízo do direito de regresso em relação ao responsável.
+
+4 - Quando do incumprimento do dever de comunicação previsto no n.º 1 resulte a impossibilidade de exercício do direito de regresso contra o responsável, cessa o direito ao pagamento provisório previsto no n.º 3 do artigo 13.º, devendo o beneficiário reembolsar o serviço de todos os montantes já despendidos.
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 80/2005 - Diário da República n.º 213/2005, Série I-A de 2005-11-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/80-2005-583428)
+
+### Capítulo VI — Disposição finais e transitórias
+
+###### Artigo 27.º — Descontos
+
+Para os beneficiários titulares à entrada em vigor do presente diploma, o desconto previsto no artigo 24.º é de 0,5%, sendo actualizado a 1 de Janeiro de cada ano em 0,1% até ser atingido o valor fixado naquele artigo.
+
+> Revogado pelo/a Artigo 10.º do/a [Lei n.º 53-D/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), em vigor a partir de 2007-01-01
+
+###### Artigo 28.º — Médicos de família
+
+O pessoal da GNR e da PSP nas situações de reserva, de reforma, de pré-aposentação e de aposentação mantém o direito à utilização dos postos clínicos da GNR e da PSP, desde que faça prova de ter solicitado atribuição de médico de família e até a essa atribuição.
+
+###### Artigo 29.º — Perda da qualidade de beneficiário
+
+1 - Sem prejuízo do disposto no número seguinte, os actuais beneficiários familiares ou equiparados que não preencham as condições referidas no artigo 5.º para a inscrição como beneficiário perdem essa condição.
+
+2 - Não perdem a qualidade de beneficiário familiar ou equiparado aqueles que à data da entrada em vigor do presente diploma reúnam uma das seguintes condições:
+
+a) Tenham mais de 65 anos;
+
+b) Sofram de doença crónica que, nos termos da lei, confira direito a isenção do pagamento de taxas moderadoras;
+
+c) Se encontrem em situação de incapacidade permanente.
+
+3 - As pessoas que, por força da aplicação do presente diploma, percam a qualidade de beneficiário, devem proceder à devolução do cartão de beneficiário no prazo de 15 dias após a respectiva entrada em vigor, sem prejuízo da imediata cessação dos direitos inerentes à condição de beneficiário.
+
+###### Artigo 30.º — Danos decorrentes de serviço
+
+Sem prejuízo dos benefícios previstos no presente diploma, a responsabilidade do Estado por despesas de saúde decorrentes de lesão ou doença resultantes de serviço do pessoal da GNR e da PSP é definido por legislação especial.
+
+###### Artigo 31.º — Funcionários civis e com funções não policiais
+
+1 - São inscritos na ADSE os funcionários civis da GNR e o pessoal com funções não policiais da PSP.
+
+2 - O pessoal referido no presente artigo mantém a condição de beneficiário do respectivo SAD até à comunicação pela ADSE da correspondente inscrição.
+
+###### Artigo 32.º — Regulamentação
+
+1 - A regulamentação necessária à boa execução do presente decreto-lei é feita, consoante a matéria:
+
+a) Por portaria do ministro responsável pela área da administração interna, nos casos especificamente referidos no presente decreto-lei e naqueles em que estejam apenas em causa matérias respeitantes à organização interna da GNR e da PSP;
+
+b) Por portaria conjunta dos ministros responsáveis pelas áreas da administração interna, das finanças e da Administração Pública nos restantes casos.
+
+2 - Os regulamentos previstos no n.º 1 do artigo 15.º e no n.º 3 do artigo 17.º são aprovados no prazo máximo de 6 meses após a entrada em vigor do presente diploma.
+
+3 - É aplicável, com as necessárias adaptações, o disposto nos artigos 62.º e 63.º do Decreto-Lei n.º 118/83, de 25 de fevereiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2024 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2024-893982646), em vigor a partir de 2024-11-04
+
+###### Artigo 32.º-A — Cooperação
+
+1 - Para a realização dos seus objetivos, os SAD podem utilizar a cooperação dos serviços do Estado, civis e militares, e cooperar com os organismos internacionais de segurança social, de acordo com os seus estatutos e os interesses do SAD.
+
+2 - Os SAD podem proceder à verificação das faturas que lhe são apresentadas para pagamento de cuidados de saúde prestados aos seus beneficiários e familiares, quer em regime livre, quer em regime convencionado, no sistema e-fatura, junto da Autoridade Tributária e Aduaneira (AT), nos seguintes termos:
+
+a) A transmissão de dados prevista é concretizada através de protocolo a celebrar, no prazo de 30 dias;
+
+b) As categorias dos titulares e os dados a analisar, bem como o tipo de tratamento de que são objeto, realiza-se nos termos do protocolo mencionado na alínea anterior, estando sujeito ao cumprimento das disposições legais em matéria de proteção de dados pessoais.
+
+3 - A AT pode, com a informação recebida dos SAD, nos termos do número anterior, verificar o cumprimento da obrigação de comunicação de faturas estabelecida no Decreto-Lei n.º 198/2012, de 24 de agosto, na sua redação atual.
+
+4 - Por protocolo a celebrar, no prazo de 90 dias, entre a GNR, a PSP, a AT, o Instituto de Segurança Social, I. P., a ADSE, I. P., e a Agência da Modernização Administrativa, I. P., são estabelecidos os procedimentos necessários à implementação do sistema de verificação desburocratizada e desmaterializada das condições e dos requisitos de inscrição e manutenção dos beneficiários e familiares nos SAD, nomeadamente a existência de rendimentos, registo de remunerações, pensões do regime contributivo ou prestações sociais.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 80/2024 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2024-893982646), em vigor a partir de 2024-11-04
+
+###### Artigo 33.º — Regime convencionado transitório
+
+As convenções celebradas até 1 de Outubro de 2005 mantêm-se em vigor até à publicação da portaria referida no n.º 3 do artigo 17.º, a qual define os prazos e modo da respectiva renegociação.
+
+###### Artigo 34.º — Avaliação da gestão
+
+O Ministério das Finanças e da Administração Pública procede à avaliação anual dos resultados de gestão dos SAD e à sua comparação com os resultados da ADSE.
+
+###### Artigo 35.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) Decreto-Lei n.º 357/77, de 31 de Agosto;
+
+b) Decreto-Lei n.º 295/84, de 31 de Agosto;
+
+c) Portaria n.º 555/78, de 15 de Setembro;
+
+d) Despacho Normativo n.º 390/79, de 31 de Dezembro;
+
+e) Despacho Normativo n.º 110/81, de 9 de Março;
+
+f) Despacho Normativo n.º 83/83, de 28 de Março.
+
+###### Artigo 36.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor em 1 de Outubro de 2005.
+
+Visto e aprovado em Conselho de Ministros de 29 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
+
+Promulgado em 11 de Setembro de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 13 de Setembro de 2005.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

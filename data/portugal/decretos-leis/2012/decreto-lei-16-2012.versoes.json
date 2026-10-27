@@ -1,0 +1,505 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544426:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-178360633",
+ "dre_path": "/dr/detalhe/decreto-lei/16-2012-544426",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-01-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "896752882",
+    "178350569",
+    "178350570",
+    "178350571",
+    "178350572",
+    "178350573",
+    "178350574",
+    "178364375",
+    "178364376",
+    "178364377",
+    "178364378",
+    "178364379",
+    "178364380",
+    "178364381",
+    "178364383"
+   ]
+  },
+  {
+   "date": "2022-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184108564:por",
+     "title": "Decreto-Lei n.º 38/2022",
+     "published": "2022-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2022-184108564"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 11.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "178350568",
+    "178350569",
+    "184183100",
+    "184183101",
+    "178350572",
+    "178350573",
+    "178350574",
+    "184183103",
+    "184183104",
+    "184183105",
+    "184183106",
+    "184183107",
+    "184183108",
+    "184183109",
+    "184183110",
+    "184183111",
+    "184183113"
+   ]
+  },
+  {
+   "date": "2024-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:870757938:por",
+     "title": "Decreto-Lei n.º 43-B/2024",
+     "published": "2024-07-02",
+     "dre_path": "/dr/detalhe/decreto-lei/43-b-2024-870757938"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "896752882",
+    "896752883",
+    "896752884",
+    "896752885",
+    "896752886",
+    "896752887",
+    "896752888",
+    "896752889",
+    "896752890",
+    "896752891",
+    "896752892",
+    "896752893",
+    "896752894",
+    "896752895",
+    "896752896",
+    "896752897",
+    "896752898"
+   ]
+  }
+ ],
+ "fragments": {
+  "896752882": {
+   "fragment_id": "178360634",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-07-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 16/2012\n\nde 26 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNuma primeira fase do PREMAC foram aprovados os diplomas correspondentes às diversas leis orgânicas dos vários ministérios. De entre esses diplomas, o Decreto-Lei n.º 126-A/2011, de 29 de Dezembro, aprovou a Lei Orgânica da Presidência do Conselho de Ministros, que funciona como centro do Governo e como departamento governamental sede de diversas políticas transversais, prevendo, desde logo, um significativo conjunto de extinções, fusões e reestruturações de serviços e organismos da administração directa e indirecta do Estado.\n\nO Centro de Gestão da Rede Informática do Governo (CEGER) foi um dos serviços objecto de reestruturação. Possuindo uma estrutura minimalista, assente num único órgão de direcção e num reduzido quadro de pessoal técnico, optou-se por manter a sua orgânica, missão e atribuições, continuando a ser o serviço encarregue da gestão da rede informática do Governo e da prestação de apoio nos domínios das tecnologias de informação e de comunicações e dos sistemas de informação.\n\nAinda assim, adequou-se o funcionamento do serviço em causa aos diplomas legais aplicáveis à Administração Pública e aos trabalhadores que exercem funções públicas, nomeadamente em matéria de vínculos, carreiras e remunerações, o que determinou a revogação da norma que possibilitava o ingresso na carreira técnica superior de quem exercesse comissão de serviço no CEGER por um período ininterrupto de 10 anos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "178350569": {
+   "fragment_id": "178360635",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Centro de Gestão da Rede Informática do Governo, abreviadamente designado por CEGER, é um serviço central da administração directa do Estado dotado de autonomia administrativa.\n\n2 - O CEGER depende do Primeiro-Ministro ou do membro do Governo em quem aquele delegar."
+  },
+  "178350570": {
+   "fragment_id": "178360636",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O CEGER tem por missão assegurar a gestão da rede informática do Governo e a prestação de apoio nos domínios das tecnologias de informação e de comunicações e dos sistemas de informação.\n\n2 - O CEGER prossegue as seguintes atribuições:\n\na) Garantir a gestão da rede informática do Governo, velando pela sua segurança e pela segurança de informações e de bases de dados, bem como das suas ligações, promovendo a formação dos seus utilizadores, tendo em vista uma eficiente e eficaz exploração dos meios e serviços disponíveis;\n\nb) Assegurar o estudo, a concepção, o desenvolvimento, a implantação e a exploração de sistemas de informação de utilização comum para os gabinetes dos membros do Governo, nomeadamente novos serviços adaptados ao governo electrónico (e-government) e Internet, comunicações, segurança e sistemas avançados de apoio à decisão do Governo;\n\nc) Prestar apoio de consultoria aos membros do Governo e seus gabinetes, bem como a outros organismos, em matérias de tecnologias de informação, de comunicações, de sistemas de informação e de segurança electrónica;\n\nd) Promover, acompanhar e coordenar a utilização de tecnologias de informação e de comunicações pelos gabinetes governamentais;\n\ne) Colaborar em trabalhos de estudo e na implementação de processos e procedimentos organizativos e funcionais nos gabinetes dos membros do Governo;\n\nf) Promover e realizar estudos e projectos de investigação e desenvolvimento tecnológico seguindo as melhores práticas internacionais, nos domínios da segurança e das comunicações electrónicas do Governo;\n\ng) Promover a implementação de projectos de redes de comunicações electrónicas que permitam a integração e racionalização das comunicações no âmbito da rede do Governo e, quando justificável, em articulação com outros serviços e organismos da Administração Pública, e em cooperação com a Agência para a Modernização Administrativa, I. P.;\n\nh) Actuar como entidade certificadora do Governo no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE);\n\ni) Actuar como entidade certificadora de outros serviços, organismos e entidades públicas, nos casos em que essas funções lhe sejam especialmente cometidas por lei ou convenção;\n\nj) Emitir, no âmbito da actividade de certificação electrónica, certificados digitais identificadores da qualidade de titular de alto cargo, ou outros de especial relevo, da Administração Pública, nos termos definidos pelo conselho gestor do Sistema de Certificação Electrónica do Estado;\n\nl) Assegurar serviços de certificação temporal que permitam a validação cronológica de transacções e documentos electrónicos;\n\nm) Assegurar as demais funções que lhe sejam cometidas no âmbito do SCEE;\n\nn) Gerir o parque de equipamentos e software da rede do Governo e dar apoio aos utilizadores sob a sua responsabilidade, bem como gerir as infra-estruturas tecnológicas e desenvolver os sistemas e tecnologias de informação dos serviços, organismos e entidades integrados na Presidência do Conselho de Ministros ou dela dependentes, quando tal lhe seja solicitado;\n\no) Assegurar serviços electrónicos de gestão e de apoio técnico, mediante contrapartida financeira sempre que tal seja justificável, orientados para a utilização de redes globais externas, nomeadamente das infra-estruturas electrónicas comuns ao Governo e a serviços e organismos públicos, decorrentes da evolução tecnológica da Internet;\n\np) Exercer as demais atribuições que lhe sejam cometidas por lei.\n\n3 - No âmbito do procedimento legislativo, as atribuições referidas na alínea i) do número anterior são exercidas com autonomia em relação a todas as demais atribuições, ficando subordinadas aos princípios da neutralidade e do respeito pela separação de poderes, devendo os seus procedimentos adequar-se às determinações que, em conformidade com a lei, sejam definidas por conselho de acompanhamento interinstitucional, composto por um representante de cada um dos órgãos de soberania aderentes a convenção de certificação electrónica."
+  },
+  "178350571": {
+   "fragment_id": "178360637",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nO CEGER é dirigido por um director, cargo de direcção superior de 1.º grau."
+  },
+  "178350572": {
+   "fragment_id": "178360638",
+   "type": 11,
+   "heading": "Artigo 4.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director\n\nSem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director dirigir e orientar a acção do CEGER."
+  },
+  "178350573": {
+   "fragment_id": "178360639",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna do CEGER obedece ao modelo de estrutura matricial."
+  },
+  "178350574": {
+   "fragment_id": "178360640",
+   "type": 11,
+   "heading": "Artigo 6.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão."
+  },
+  "178364375": {
+   "fragment_id": "178360641",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio logístico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio logístico e administrativo\n\nO apoio logístico e administrativo indispensável ao funcionamento do CEGER, designadamente em matéria de gestão de recursos humanos e financeiros, é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros, que providencia igualmente as suas instalações."
+  },
+  "178364376": {
+   "fragment_id": "178360642",
+   "type": 11,
+   "heading": "Artigo 8.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cooperação\n\nNo exercício das suas atribuições e competências, o CEGER actua em coordenação com os serviços e organismos dos ministérios que ao nível sectorial têm como atribuição o apoio informático local, através de elementos de ligação operacional, aos organismos e gabinetes governamentais aos quais o CEGER presta serviço no domínio das tecnologias de informação e comunicação."
+  },
+  "178364377": {
+   "fragment_id": "178360643",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O CEGER dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O CEGER dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito da actividade do CEGER e que pela lei lhe sejam consignados;\n\nc) O produto das taxas que por lei lhe sejam consignadas, designadamente as decorrentes das funções exercidas no âmbito do Sistema de Certificação Electrónica do Estado;\n\nd) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\ne) As doações, heranças ou legados de que for beneficiário;\n\nf) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pelo CEGER são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelo CEGER e pela área das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento."
+  },
+  "178364378": {
+   "fragment_id": "178360644",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas do CEGER as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "178364379": {
+   "fragment_id": "178360645",
+   "type": 11,
+   "heading": "Artigo 11.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mapa de cargos de direcção\n\nO lugar de direcção consta do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "178364380": {
+   "fragment_id": "178360646",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 163/2007, de 3 de Maio, com excepção dos artigos 5.º a 8.º, e dos mapas i e ii anexos ao mesmo diploma, que se mantêm em vigor até à revisão dos cargos de consultor-coordenador, consultor e técnico de apoio."
+  },
+  "178364381": {
+   "fragment_id": "178360647",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "178364383": {
+   "fragment_id": "178360649",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 11.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "178350568": {
+   "fragment_id": "178360634",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 16/2012\n\nde 26 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNuma primeira fase do PREMAC foram aprovados os diplomas correspondentes às diversas leis orgânicas dos vários ministérios. De entre esses diplomas, o Decreto-Lei n.º 126-A/2011, de 29 de Dezembro, aprovou a Lei Orgânica da Presidência do Conselho de Ministros, que funciona como centro do Governo e como departamento governamental sede de diversas políticas transversais, prevendo, desde logo, um significativo conjunto de extinções, fusões e reestruturações de serviços e organismos da administração directa e indirecta do Estado.\n\nO Centro de Gestão da Rede Informática do Governo (CEGER) foi um dos serviços objecto de reestruturação. Possuindo uma estrutura minimalista, assente num único órgão de direcção e num reduzido quadro de pessoal técnico, optou-se por manter a sua orgânica, missão e atribuições, continuando a ser o serviço encarregue da gestão da rede informática do Governo e da prestação de apoio nos domínios das tecnologias de informação e de comunicações e dos sistemas de informação.\n\nAinda assim, adequou-se o funcionamento do serviço em causa aos diplomas legais aplicáveis à Administração Pública e aos trabalhadores que exercem funções públicas, nomeadamente em matéria de vínculos, carreiras e remunerações, o que determinou a revogação da norma que possibilitava o ingresso na carreira técnica superior de quem exercesse comissão de serviço no CEGER por um período ininterrupto de 10 anos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "184183100": {
+   "fragment_id": "178360636",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O CEGER tem por missão assegurar a gestão da rede informática do Governo e a prestação de apoio nos domínios das tecnologias de informação e de comunicações e dos sistemas de informação.\n\n2 - O CEGER prossegue as seguintes atribuições:\n\na) Garantir a gestão da rede informática do Governo, velando pela sua segurança e pela segurança de informações e de bases de dados, bem como das suas ligações, promovendo a formação dos seus utilizadores, tendo em vista uma eficiente e eficaz exploração dos meios e serviços disponíveis;\n\nb) Assegurar o estudo, a concepção, o desenvolvimento, a implantação e a exploração de sistemas de informação de utilização comum para os gabinetes dos membros do Governo, nomeadamente novos serviços adaptados ao governo electrónico (e-government) e Internet, comunicações, segurança e sistemas avançados de apoio à decisão do Governo;\n\nc) Prestar apoio de consultoria aos membros do Governo e seus gabinetes, bem como a outros organismos, em matérias de tecnologias de informação, de comunicações, de sistemas de informação e de segurança electrónica;\n\nd) Promover, acompanhar e coordenar a utilização de tecnologias de informação e de comunicações pelos gabinetes governamentais;\n\ne) Colaborar em trabalhos de estudo e na implementação de processos e procedimentos organizativos e funcionais nos gabinetes dos membros do Governo;\n\nf) Promover e realizar estudos e projectos de investigação e desenvolvimento tecnológico seguindo as melhores práticas internacionais, nos domínios da segurança e das comunicações electrónicas do Governo;\n\ng) Promover a implementação de projectos de redes de comunicações electrónicas que permitam a integração e racionalização das comunicações no âmbito da rede do Governo e, quando justificável, em articulação com outros serviços e organismos da Administração Pública, e em cooperação com a Agência para a Modernização Administrativa, I. P.;\n\nh) Actuar como entidade certificadora do Governo no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE);\n\ni) Actuar como entidade certificadora de outros serviços, organismos e entidades públicas, nos casos em que essas funções lhe sejam especialmente cometidas por lei ou convenção;\n\nj) Emitir, no âmbito da actividade de certificação electrónica, certificados digitais identificadores da qualidade de titular de alto cargo, ou outros de especial relevo, da Administração Pública, nos termos definidos pelo conselho gestor do Sistema de Certificação Electrónica do Estado;\n\nl) Assegurar serviços de certificação temporal que permitam a validação cronológica de transacções e documentos electrónicos;\n\nm) Assegurar as demais funções que lhe sejam cometidas no âmbito do SCEE;\n\nn) Gerir o parque de equipamentos e software da rede do Governo e dar apoio aos utilizadores sob a sua responsabilidade, bem como gerir as infra-estruturas tecnológicas e desenvolver os sistemas e tecnologias de informação dos serviços, organismos e entidades integrados na Presidência do Conselho de Ministros ou dela dependentes, quando tal lhe seja solicitado;\n\no) Assegurar serviços electrónicos de gestão e de apoio técnico, mediante contrapartida financeira sempre que tal seja justificável, orientados para a utilização de redes globais externas, nomeadamente das infra-estruturas electrónicas comuns ao Governo e a serviços e organismos públicos, decorrentes da evolução tecnológica da Internet;\n\np) Assegurar a gestão do Portal do Governo, promovendo a permanente atualização de informação e de conteúdos, garantindo os meios necessários e adequados à modernização da sua infraestrutura tecnológica;\n\nq) Exercer as demais atribuições que lhe sejam cometidas por lei.\n\n3 - No âmbito do procedimento legislativo, as atribuições referidas na alínea i) do número anterior são exercidas com autonomia em relação a todas as demais atribuições, ficando subordinadas aos princípios da neutralidade e do respeito pela separação de poderes, devendo os seus procedimentos adequar-se às determinações que, em conformidade com a lei, sejam definidas por conselho de acompanhamento interinstitucional, composto por um representante de cada um dos órgãos de soberania aderentes a convenção de certificação electrónica.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183101": {
+   "fragment_id": "178360637",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nO CEGER é dirigido por um diretor, coadjuvado por um subdiretor, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183103": {
+   "fragment_id": "184180977",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Estatuto remuneratório do pessoal afeto ao Portal do Governo",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Estatuto remuneratório do pessoal afeto ao Portal do Governo\n\n1 - O pessoal que, em comissão de serviço, exerça funções no CEGER para apoio ao Portal do Governo ocupa o cargo de técnico de comunicação.\n\n2 - A remuneração base dos técnicos de comunicação é fixada de entre as posições remuneratórias previstas para a categoria e carreira de técnico superior, tendo em consideração a natureza e complexidade das funções exercidas, a experiência profissional e as habilitações académicas.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183104": {
+   "fragment_id": "178360641",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio logístico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio logístico e administrativo\n\nO apoio logístico e administrativo indispensável ao funcionamento do CEGER, designadamente em matéria de gestão de recursos humanos e financeiros, é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros, que providencia igualmente as suas instalações."
+  },
+  "184183105": {
+   "fragment_id": "178360642",
+   "type": 11,
+   "heading": "Artigo 8.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cooperação\n\nNo exercício das suas atribuições e competências, o CEGER actua em coordenação com os serviços e organismos dos ministérios que ao nível sectorial têm como atribuição o apoio informático local, através de elementos de ligação operacional, aos organismos e gabinetes governamentais aos quais o CEGER presta serviço no domínio das tecnologias de informação e comunicação."
+  },
+  "184183106": {
+   "fragment_id": "178360643",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O CEGER dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O CEGER dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito da actividade do CEGER e que pela lei lhe sejam consignados;\n\nc) O produto das taxas que por lei lhe sejam consignadas, designadamente as decorrentes das funções exercidas no âmbito do Sistema de Certificação Electrónica do Estado;\n\nd) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\ne) As doações, heranças ou legados de que for beneficiário;\n\nf) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pelo CEGER são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelo CEGER e pela área das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento."
+  },
+  "184183107": {
+   "fragment_id": "178360644",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas do CEGER as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "184183108": {
+   "fragment_id": "178360645",
+   "type": 11,
+   "heading": "Artigo 11.º — Mapa de cargos de direcção",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 11.º — Mapa de cargos de direcção\n\nOs lugares de direção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei e do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183109": {
+   "fragment_id": "178360646",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 163/2007, de 3 de Maio, com excepção dos artigos 5.º a 8.º, e dos mapas i e ii anexos ao mesmo diploma, que se mantêm em vigor até à revisão dos cargos de consultor-coordenador, consultor e técnico de apoio."
+  },
+  "184183110": {
+   "fragment_id": "178360647",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "184183111": {
+   "fragment_id": "178360648",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas.\n\nPromulgado em 18 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "184183113": {
+   "fragment_id": "178360649",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 11.º)",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 11.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "896752883": {
+   "fragment_id": "178360635",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Centro de Gestão da Rede Informática do Governo, abreviadamente designado por CEGER, é um serviço central da administração directa do Estado dotado de autonomia administrativa.\n\n2 - O CEGER depende do Primeiro-Ministro ou do membro do Governo em quem aquele delegar.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752884": {
+   "fragment_id": "178360636",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O CEGER tem por missão assegurar a gestão da rede informática do Governo e a prestação de apoio nos domínios das tecnologias de informação e de comunicações e dos sistemas de informação.\n\n2 - O CEGER prossegue as seguintes atribuições:\n\na) Garantir a gestão da rede informática do Governo, velando pela sua segurança e pela segurança de informações e de bases de dados, bem como das suas ligações, promovendo a formação dos seus utilizadores, tendo em vista uma eficiente e eficaz exploração dos meios e serviços disponíveis;\n\nb) Assegurar o estudo, a concepção, o desenvolvimento, a implantação e a exploração de sistemas de informação de utilização comum para os gabinetes dos membros do Governo, nomeadamente novos serviços adaptados ao governo electrónico (e-government) e Internet, comunicações, segurança e sistemas avançados de apoio à decisão do Governo;\n\nc) Prestar apoio de consultoria aos membros do Governo e seus gabinetes, bem como a outros organismos, em matérias de tecnologias de informação, de comunicações, de sistemas de informação e de segurança electrónica;\n\nd) Promover, acompanhar e coordenar a utilização de tecnologias de informação e de comunicações pelos gabinetes governamentais;\n\ne) Colaborar em trabalhos de estudo e na implementação de processos e procedimentos organizativos e funcionais nos gabinetes dos membros do Governo;\n\nf) Promover e realizar estudos e projectos de investigação e desenvolvimento tecnológico seguindo as melhores práticas internacionais, nos domínios da segurança e das comunicações electrónicas do Governo;\n\ng) Promover a implementação de projectos de redes de comunicações electrónicas que permitam a integração e racionalização das comunicações no âmbito da rede do Governo e, quando justificável, em articulação com outros serviços e organismos da Administração Pública, e em cooperação com a Agência para a Modernização Administrativa, I. P.;\n\nh) Actuar como entidade certificadora do Governo no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE);\n\ni) Actuar como entidade certificadora de outros serviços, organismos e entidades públicas, nos casos em que essas funções lhe sejam especialmente cometidas por lei ou convenção;\n\nj) Emitir, no âmbito da actividade de certificação electrónica, certificados digitais identificadores da qualidade de titular de alto cargo, ou outros de especial relevo, da Administração Pública, nos termos definidos pelo conselho gestor do Sistema de Certificação Electrónica do Estado;\n\nl) Assegurar serviços de certificação temporal que permitam a validação cronológica de transacções e documentos electrónicos;\n\nm) Assegurar as demais funções que lhe sejam cometidas no âmbito do SCEE;\n\nn) Gerir o parque de equipamentos e software da rede do Governo e dar apoio aos utilizadores sob a sua responsabilidade, bem como gerir as infra-estruturas tecnológicas e desenvolver os sistemas e tecnologias de informação dos serviços, organismos e entidades integrados na Presidência do Conselho de Ministros ou dela dependentes, quando tal lhe seja solicitado;\n\no) Assegurar serviços electrónicos de gestão e de apoio técnico, mediante contrapartida financeira sempre que tal seja justificável, orientados para a utilização de redes globais externas, nomeadamente das infra-estruturas electrónicas comuns ao Governo e a serviços e organismos públicos, decorrentes da evolução tecnológica da Internet;\n\np) Assegurar a gestão do Portal do Governo, promovendo a permanente atualização de informação e de conteúdos, garantindo os meios necessários e adequados à modernização da sua infraestrutura tecnológica;\n\nq) Exercer as demais atribuições que lhe sejam cometidas por lei.\n\n3 - No âmbito do procedimento legislativo, as atribuições referidas na alínea i) do número anterior são exercidas com autonomia em relação a todas as demais atribuições, ficando subordinadas aos princípios da neutralidade e do respeito pela separação de poderes, devendo os seus procedimentos adequar-se às determinações que, em conformidade com a lei, sejam definidas por conselho de acompanhamento interinstitucional, composto por um representante de cada um dos órgãos de soberania aderentes a convenção de certificação electrónica.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "896752885": {
+   "fragment_id": "178360637",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nO CEGER é dirigido por um diretor, coadjuvado por um subdiretor, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "896752886": {
+   "fragment_id": "178360638",
+   "type": 11,
+   "heading": "Artigo 4.º — Director",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 4.º — Director\n\nSem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director dirigir e orientar a acção do CEGER.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752887": {
+   "fragment_id": "178360639",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna do CEGER obedece ao modelo de estrutura matricial.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752888": {
+   "fragment_id": "178360640",
+   "type": 11,
+   "heading": "Artigo 6.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 6.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752889": {
+   "fragment_id": "184180977",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Estatuto remuneratório do pessoal afeto ao Portal do Governo",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Estatuto remuneratório do pessoal afeto ao Portal do Governo\n\n1 - O pessoal que, em comissão de serviço, exerça funções no CEGER para apoio ao Portal do Governo ocupa o cargo de técnico de comunicação.\n\n2 - A remuneração base dos técnicos de comunicação é fixada de entre as posições remuneratórias previstas para a categoria e carreira de técnico superior, tendo em consideração a natureza e complexidade das funções exercidas, a experiência profissional e as habilitações académicas.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "896752890": {
+   "fragment_id": "178360641",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio logístico e administrativo",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio logístico e administrativo\n\nO apoio logístico e administrativo indispensável ao funcionamento do CEGER, designadamente em matéria de gestão de recursos humanos e financeiros, é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros, que providencia igualmente as suas instalações.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752891": {
+   "fragment_id": "178360642",
+   "type": 11,
+   "heading": "Artigo 8.º — Cooperação",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 8.º — Cooperação\n\nNo exercício das suas atribuições e competências, o CEGER actua em coordenação com os serviços e organismos dos ministérios que ao nível sectorial têm como atribuição o apoio informático local, através de elementos de ligação operacional, aos organismos e gabinetes governamentais aos quais o CEGER presta serviço no domínio das tecnologias de informação e comunicação.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752892": {
+   "fragment_id": "178360643",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O CEGER dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O CEGER dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito da actividade do CEGER e que pela lei lhe sejam consignados;\n\nc) O produto das taxas que por lei lhe sejam consignadas, designadamente as decorrentes das funções exercidas no âmbito do Sistema de Certificação Electrónica do Estado;\n\nd) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\ne) As doações, heranças ou legados de que for beneficiário;\n\nf) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pelo CEGER são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelo CEGER e pela área das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752893": {
+   "fragment_id": "178360644",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas do CEGER as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752894": {
+   "fragment_id": "178360645",
+   "type": 11,
+   "heading": "Artigo 11.º — Mapa de cargos de direcção",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 11.º — Mapa de cargos de direcção\n\nOs lugares de direção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei e do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "896752895": {
+   "fragment_id": "178360646",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 163/2007, de 3 de Maio, com excepção dos artigos 5.º a 8.º, e dos mapas i e ii anexos ao mesmo diploma, que se mantêm em vigor até à revisão dos cargos de consultor-coordenador, consultor e técnico de apoio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752896": {
+   "fragment_id": "178360647",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752897": {
+   "fragment_id": "178360648",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas.\n\nPromulgado em 18 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01"
+  },
+  "896752898": {
+   "fragment_id": "178360649",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 11.º)",
+   "in_force_from": "2024-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 11.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), em vigor a partir de 2024-07-03, produz efeitos a partir de 2024-11-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  }
+ }
+}

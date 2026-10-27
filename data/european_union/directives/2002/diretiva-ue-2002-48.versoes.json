@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0048:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0048-20110614",
+ "dre_path": null,
+ "source_lastmod": "2011-06-14",
+ "versions": [
+  {
+   "date": "2002-06-06",
+   "future": false,
+   "celex": "32002L0048",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1ce0d0f9a662b8a2",
+    "23ff42845a23918b",
+    "893172345aa83e41",
+    "7af6b9ddb0d0ef40",
+    "981739dfcc3a9eac",
+    "3fe071e9c4ae22da",
+    "5a673978270d2caf",
+    "1b7b862c5d1a9974"
+   ]
+  },
+  {
+   "date": "2009-09-03",
+   "future": false,
+   "celex": "02002L0048-20090903",
+   "acts": [
+    {
+     "id": "eu:celex:32009D0685:por",
+     "title": "DECISÃO DA COMISSÃO de 2 de Setembro de 2009",
+     "published": null,
+     "celex": "32009D0685"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Adita ANEXO",
+    "Adita Notas",
+    "Suprime ANEXO — Aditar o seguinte no final do quadro do anexo I: \" \""
+   ],
+   "fragments": [
+    "e59405a1ac27853e",
+    "23ff42845a23918b",
+    "c2105687e6066c0e",
+    "7af6b9ddb0d0ef40",
+    "877f64d10bb7a21a",
+    "3fe071e9c4ae22da",
+    "4c55e2d89858ab6b",
+    "e323c41d0173cfe7",
+    "ae09112be0e92e87"
+   ]
+  },
+  {
+   "date": "2011-06-14",
+   "future": false,
+   "celex": "02002L0048-20110614",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4134c8d9a5211d2e"
+   ]
+  }
+ ],
+ "fragments": {
+  "1ce0d0f9a662b8a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/48/CE da Comissão, de 30 de Maio de 2002, que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas iprovalicarbe, prosulfurão e sulfosulfurão** *Jornal Oficial nº L 148 de 06/06/2002 p. 0019 - 0023*\n\nDirectiva 2002/48/CE da Comissão\n\nde 30 de Maio de 2002\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas iprovalicarbe, prosulfurão e sulfosulfurão\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado(1), com a última redacção que lhe foi dada pela Directiva 2002/37/CE da Comissão(2), e, nomeadamente, o n.o 1 do seu artigo 6.o,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com o n.o 2 do artigo 6.o da Directiva 91/414/CEE, a Irlanda recebeu, em 30 de Março de 1998, um pedido da empresa Bayer AG com vista à inclusão da substância activa iprovalicarbe no anexo I da directiva. Através da Decisão 98/512/CE da Comissão(3), foi confirmado que o processo se encontrava completo, isto é, que satisfazia, em princípio, as exigências de dados e informações dos anexos II e III da Directiva 91/414/CEE.\n\n(2) A França recebeu em 14 de Maio de 1995 um pedido semelhante da empresa Novartis, actualmente denominada Syngenta, relativo ao prosulfurão. O respectivo processo foi declarado completo pela Decisão 97/137/CE da Comissão(4).\n\n(3) A Irlanda recebeu em 24 de Abril de 1997 um pedido da empresa Monsanto relativo ao sulfosulfurão. O respectivo processo foi declarado completo pela Decisão 97/865/CE da Comissão(5).\n\n(4) Os efeitos das três substâncias activas em causa na saúde humana e no ambiente foram avaliados em conformidade com os n.os 2 e 4 do artigo 6.o da Directiva 91/414/CEE, no que respeita às utilizações propostas pelos respectivos requerentes. Os Estados-Membros designados relatores apresentaram os projectos de relatórios de avaliação das substâncias em causa à Comissão em 4 de Novembro de 1999 (iprovalicarbe), 18 de Janeiro de 1999 (prosulfurão) e 2 de Abril de 1998 (sulfosulfurão), respectivamente.\n\n(5) Os projectos de relatório de avaliação apresentados foram examinados pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. Esse exame foi concluído em 26 de Fevereiro de 2002 com a elaboração dos relatórios de avaliação do iprovalicarbe, do prosulfurão e do sulfosulfurão da Comissão.\n\n(6) O processo e os resultados de cada avaliação foram igualmente apresentados ao Comité Científico das Plantas. No respeitante ao iprovalicarbe, solicitou-se ao comité que se pronunciasse sobre a aceitabilidade do risco para as minhocas apresentados pelo metabolito PMPA, bem como sobre o eventual risco de carcinogenicidade para o homem decorrentes da observação de tumores em ratos induzidos pela exposição a doses elevadas ao longo da vida. Em dois pareceres emitidos(6)(7), o comité referiu a necessidade de dados complementares sobre as minhocas, que foram posteriormente fornecidos e avaliados, e concluiu que, no respeitante aos efeitos observados em ratos, existe uma margem de segurança suficiente para assegurar a protecção dos consumidores e operadores. As observações do Comité Científico foram tidas em conta na formulação da presente directiva e do relatório de avaliação respectivo.\n\n(7) No respeitante ao prosulfurão, solicitou-se ao comité que se pronunciasse sobre a aceitabilidade dos riscos para os organismos do sedimento apresentados por dois produtos de degradação da substância activa, bem como sobre possíveis efeitos de desregulação endócrina observados em animais de laboratório. No seu parecer(8), o comité concluiu que determinadas alterações uterinas e mamárias observadas em ratos na sequência de exposição ao longo da vida não são consideradas relevantes na avaliação do risco para a saúde humana do prosulfurão, tendo em conta as suas utilizações previstas. O comité referiu ainda que os riscos apresentados pelos dois produtos de degradação da substância activa para os organismos do sedimento não foram ainda avaliados de forma adequada, referindo que, em estudos em sistema sedimento/água, se formam quantidades significativas de outros metabolitos persistentes que não parecem ter sido avaliados. Os dados e avaliações pendentes foram posteriormente enviados, tendo as observações do comité sido tidas em conta na formulação da presente directiva e do relatório de avaliação respectivo.\n\n(8) No respeitante ao sulfosulfurão, solicitou-se ao comité que se pronunciasse sobre a ocorrência de tumores vesicais durante um estudo de 18 meses com ratos e sobre a adequação do estabelecimento de uma dose aguda de referência para o sulfosulfurão, bem como que confirmasse a desnecessidade de um estudo subletal com minhocas, apesar do carácter persistente dos metabolitos no solo. No seu parecer(9), o comité considerou que as lesões observadas nos ratos não fazem prever um risco de carcinogenicidade para o homem, considerando também não existirem motivos para fixar uma dose aguda de referência. O comité concluiu ainda que não é provável a ocorrência de riscos significativos a longo prazo para as minhocas. O comité sublinhou a necessidade de avaliar o possível impacto ambiental dos três metabolitos não identificados. Estes dados foram posteriormente fornecidos, tendo sido efectuadas as avaliações solicitadas.\n\n(9) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm as substâncias activas em causa satisfazem, em geral, as condições definidas no n.o 1, alíneas a) e b), e no n.o 3 do artigo 5.o da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas em pormenor nos relatórios de avaliação da Comissão. É, portanto, adequado incluir as substâncias activas em causa no anexo I, para que, em cada Estado-Membro, a concessão das autorizações dos produtos fitofarmacêuticos que as contêm possa ser organizada em conformidade com a directiva.\n\n(10) O relatório de avaliação da Comissão é necessário para que os Estados-Membros possam aplicar correctamente várias secções dos princípios uniformes enunciados no anexo VI da Directiva 91/414/CEE. É, pois, conveniente estabelecer que, salvo no que respeita às informações confidenciais, os Estados-Membros devem manter a versão final do relatório de avaliação à disposição de todas as partes interessadas e facultar-lhes a sua consulta.\n\n(11) Depois da inclusão, deverá facultar-se aos Estados-Membros um período razoável para porem em prática as disposições da Directiva 91/414/CEE no que se refere aos produtos fitofarmacêuticos que contêm iprovalicarbe, prosulfurão e sulfosulfurão, nomeadamente para reapreciarem as autorizações provisórias, de forma a transformarem essas autorizações em autorizações definitivas, alterarem-nas ou revogarem-nas, em conformidade com as disposições da Directiva 91/414/CEE, até ao final do referido período.\n\n(12) Importa, pois, alterar a Directiva 91/414/CEE em conformidade.\n\n(13) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "23ff42845a23918b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "893172345aa83e41": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSalvo no que respeita às informações confidenciais, na acepção do artigo 14.o da Directiva 91/414/CEE, os Estados-Membros manterão os relatórios de avaliação do iprovalicarbe, do prosulfurão e do sulfosulfurão à disposição de todas as partes interessadas para consulta ou facultá-lo-ão a essas mesmas partes mediante pedido específico destas."
+  },
+  "7af6b9ddb0d0ef40": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros adoptarão e publicarão, o mais tardar até 31 de Dezembro de 2002, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão as referidas disposições a partir de 1 de Janeiro de 2003.\n\nQuando os Estados-Membros adoptarem as disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "981739dfcc3a9eac": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros reapreciarão as autorizações concedidas a cada produto fitossanitário que contenha iprovalicarbe, prosulfurão ou sulfosulfurão de forma a garantir o cumprimento das condições aplicáveis às substâncias activas em causa estabelecidas no anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou revogarão as autorizações, em conformidade com a Directiva 91/414/CEE, até 31 de Dezembro de 2002.\n\n2. Os Estados-Membros reavaliarão cada produto fitossanitário autorizado que contenha iprovalicarbe, prosulfurão ou sulfosulfurão como única substância activa ou que contenha, além de uma destas, outras substâncias activas incluídas no anexo I da Directiva 91/414/CEE até 1 de Julho de 2002, em conformidade com os princípios uniformes estabelecidos no anexo VI da Directiva 91/414/CEE, com base num processo que satisfaça as exigências do anexo III da mesma. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.o 1, alíneas b), c), d) e e), do artigo 4.o da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou revogarão a autorização respeitante a cada produto fitossanitário até 31 de Dezembro de 2003."
+  },
+  "3fe071e9c4ae22da": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva entra em vigor em 1 de Julho de 2002."
+  },
+  "5a673978270d2caf": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 30 de Maio de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 230 de 19.8.1991, p. 1.\n\n(2) JO L 117 de 4.5.2002, p. 10.\n\n(3) JO L 228 de 15.8.1998, p. 35.\n\n(4) JO L 52 de 22.2.1997, p. 20.\n\n(5) JO L 351 de 23.12.1997, p. 67.\n\n(6) Parecer do Comité Científico das Plantas sobre a avaliação do iprovalicarbe no contexto da Directiva 91/414/CE relativa à colocação dos produtos fitofarmacêuticos no mercado (adoptado em 21 de Março de 2001).\n\n(7) Parecer do Comité Científico das Plantas relativo a uma questão adicional da Comissão sobre a avaliação do iprovalicarbe (SZX 0722) no contexto da Directiva 91/414/CE relativa à colocação dos produtos fitofarmacêuticos no mercado (adoptado em 28 de Novembro de 2001).\n\n(8) Parecer do Comité Científico das Plantas sobre a inclusão do prosulfurão (CGA 152005) no anexo I da Directiva 91/414/CE relativa à colocação dos produtos fitofarmacêuticos no mercado. Documento SCP/PROSULF/002-final, de 21 de Junho de 2001.\n\n(9) Parecer do Comité Científico das Plantas sobre a avaliação do MON 37500 (sulfosulfurão) no contexto da Directiva 91/414/CEE relativa à colocação dos produtos fitofarmacêuticos no mercado. Documento SCP/SULFO/002-final, de 11 de Dezembro de 2000."
+  },
+  "1b7b862c5d1a9974": {
+   "fragment_id": "ANEXO — Aditar o seguinte no final do quadro do anexo I: \" \"",
+   "type": "divisao",
+   "heading": "ANEXO — Aditar o seguinte no final do quadro do anexo I: \" \"",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Aditar o seguinte no final do quadro do anexo I: \" \"\n\n(1) O relatório de avaliação fornece mais pormenores sobre a identidade e as especificações das substâncias activas"
+  },
+  "e59405a1ac27853e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Maio de 2002\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas iprovalicarbe, prosulfurão e sulfosulfurão\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^1^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 2002/37/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0002)), e, nomeadamente, o n.º 1 do seu artigo 6.º,\n\n(1) Em conformidade com o n.º 2 do artigo 6.º da Directiva 91/414/CEE, a Irlanda recebeu, em 30 de Março de 1998, um pedido da empresa Bayer AG com vista à inclusão da substância activa iprovalicarbe no anexo I da directiva. Através da Decisão 98/512/CE da Comissão ([^3^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0003)), foi confirmado que o processo se encontrava completo, isto é, que satisfazia, em princípio, as exigências de dados e informações dos anexos II e III da Directiva 91/414/CEE.\n\n(2) A França recebeu em 14 de Maio de 1995 um pedido semelhante da empresa Novartis, actualmente denominada Syngenta, relativo ao prosulfurão. O respectivo processo foi declarado completo pela Decisão 97/137/CE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0004)).\n\n(3) A Irlanda recebeu em 24 de Abril de 1997 um pedido da empresa Monsanto relativo ao sulfosulfurão. O respectivo processo foi declarado completo pela Decisão 97/865/CE da Comissão ([^5^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0005)).\n\n(4) Os efeitos das três substâncias activas em causa na saúde humana e no ambiente foram avaliados em conformidade com os n.^os^ 2 e 4 do artigo 6.º da Directiva 91/414/CEE, no que respeita às utilizações propostas pelos respectivos requerentes. Os Estados-Membros designados relatores apresentaram os projectos de relatórios de avaliação das substâncias em causa à Comissão em 4 de Novembro de 1999 (iprovalicarbe), 18 de Janeiro de 1999 (prosulfurão) e 2 de Abril de 1998 (sulfosulfurão), respectivamente.\n\n(5) Os projectos de relatório de avaliação apresentados foram examinados pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal. Esse exame foi concluído em 26 de Fevereiro de 2002 com a elaboração dos relatórios de avaliação do iprovalicarbe, do prosulfurão e do sulfosulfurão da Comissão.\n\n(6) O processo e os resultados de cada avaliação foram igualmente apresentados ao Comité Científico das Plantas. No respeitante ao iprovalicarbe, solicitou-se ao comité que se pronunciasse sobre a aceitabilidade do risco para as minhocas apresentados pelo metabolito PMPA, bem como sobre o eventual risco de carcinogenicidade para o homem decorrentes da observação de tumores em ratos induzidos pela exposição a doses elevadas ao longo da vida. Em dois pareceres emitidos ([^6^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0006)) ([^7^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0007)), o comité referiu a necessidade de dados complementares sobre as minhocas, que foram posteriormente fornecidos e avaliados, e concluiu que, no respeitante aos efeitos observados em ratos, existe uma margem de segurança suficiente para assegurar a protecção dos consumidores e operadores. As observações do Comité Científico foram tidas em conta na formulação da presente directiva e do relatório de avaliação respectivo.\n\n(7) No respeitante ao prosulfurão, solicitou-se ao comité que se pronunciasse sobre a aceitabilidade dos riscos para os organismos do sedimento apresentados por dois produtos de degradação da substância activa, bem como sobre possíveis efeitos de desregulação endócrina observados em animais de laboratório. No seu parecer ([^8^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0008)), o comité concluiu que determinadas alterações uterinas e mamárias observadas em ratos na sequência de exposição ao longo da vida não são consideradas relevantes na avaliação do risco para a saúde humana do prosulfurão, tendo em conta as suas utilizações previstas. O comité referiu ainda que os riscos apresentados pelos dois produtos de degradação da substância activa para os organismos do sedimento não foram ainda avaliados de forma adequada, referindo que, em estudos em sistema sedimento/água, se formam quantidades significativas de outros metabolitos persistentes que não parecem ter sido avaliados. Os dados e avaliações pendentes foram posteriormente enviados, tendo as observações do comité sido tidas em conta na formulação da presente directiva e do relatório de avaliação respectivo.\n\n(8) No respeitante ao sulfosulfurão, solicitou-se ao comité que se pronunciasse sobre a ocorrência de tumores vesicais durante um estudo de 18 meses com ratos e sobre a adequação do estabelecimento de uma dose aguda de referência para o sulfosulfurão, bem como que confirmasse a desnecessidade de um estudo subletal com minhocas, apesar do carácter persistente dos metabolitos no solo. No seu parecer ([^9^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0009)), o comité considerou que as lesões observadas nos ratos não fazem prever um risco de carcinogenicidade para o homem, considerando também não existirem motivos para fixar uma dose aguda de referência. O comité concluiu ainda que não é provável a ocorrência de riscos significativos a longo prazo para as minhocas. O comité sublinhou a necessidade de avaliar o possível impacto ambiental dos três metabolitos não identificados. Estes dados foram posteriormente fornecidos, tendo sido efectuadas as avaliações solicitadas.\n\n(9) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm as substâncias activas em causa satisfazem, em geral, as condições definidas no n.º 1, alíneas a) e b), e no n.º 3 do artigo 5.º da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas em pormenor nos relatórios de avaliação da Comissão. É, portanto, adequado incluir as substâncias activas em causa no anexo I, para que, em cada Estado-Membro, a concessão das autorizações dos produtos fitofarmacêuticos que as contêm possa ser organizada em conformidade com a directiva.\n\n(10) O relatório de avaliação da Comissão é necessário para que os Estados-Membros possam aplicar correctamente várias secções dos princípios uniformes enunciados no anexo VI da Directiva 91/414/CEE. É, pois, conveniente estabelecer que, salvo no que respeita às informações confidenciais, os Estados-Membros devem manter a versão final do relatório de avaliação à disposição de todas as partes interessadas e facultar-lhes a sua consulta.\n\n(11) Depois da inclusão, deverá facultar-se aos Estados-Membros um período razoável para porem em prática as disposições da Directiva 91/414/CEE no que se refere aos produtos fitofarmacêuticos que contêm iprovalicarbe, prosulfurão e sulfosulfurão, nomeadamente para reapreciarem as autorizações provisórias, de forma a transformarem essas autorizações em autorizações definitivas, alterarem-nas ou revogarem-nas, em conformidade com as disposições da Directiva 91/414/CEE, até ao final do referido período.\n\n(12) Importa, pois, alterar a Directiva 91/414/CEE em conformidade.\n\n(13) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c2105687e6066c0e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSalvo no que respeita às informações confidenciais, na acepção do artigo 14.º da Directiva 91/414/CEE, os Estados-Membros manterão os relatórios de avaliação do iprovalicarbe, do prosulfurão e do sulfosulfurão à disposição de todas as partes interessadas para consulta ou facultá-lo-ão a essas mesmas partes mediante pedido específico destas."
+  },
+  "877f64d10bb7a21a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros reapreciarão as autorizações concedidas a cada produto fitossanitário que contenha iprovalicarbe, prosulfurão ou sulfosulfurão de forma a garantir o cumprimento das condições aplicáveis às substâncias activas em causa estabelecidas no anexo I da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou revogarão as autorizações, em conformidade com a Directiva 91/414/CEE, até 31 de Dezembro de 2002.\n\n2. Os Estados-Membros reavaliarão cada produto fitossanitário autorizado que contenha iprovalicarbe, prosulfurão ou sulfosulfurão como única substância activa ou que contenha, além de uma destas, outras substâncias activas incluídas no anexo I da Directiva 91/414/CEE até 1 de Julho de 2002, em conformidade com os princípios uniformes estabelecidos no anexo VI da Directiva 91/414/CEE, com base num processo que satisfaça as exigências do anexo III da mesma. Na sequência dessa avaliação, os Estados-Membros determinarão se o produto satisfaz as condições estabelecidas no n.º 1, alíneas b), c), d) e e), do artigo 4.º da Directiva 91/414/CEE. Se necessário, os Estados-Membros alterarão ou revogarão a autorização respeitante a cada produto fitossanitário até 31 de Dezembro de 2003."
+  },
+  "4c55e2d89858ab6b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "e323c41d0173cfe7": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAditar o seguinte no final do quadro do anexo I:\n\n| «N.º | Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#E0010) | Entrada em vigor | Termo da inclusão | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| 30 | Iprovalicarbe N.º CAS 140923-17-7 N.º CIPAC 620 | Éster isopropílico do ácido {2-metil-1-[1-(4-metilfenil)etilcarbonil]propil}-carbâmico | 950 g/kg (especificação provisória) | 1 de Julho de 2002 | [**►M1**](http://publications.europa.eu/resource/celex/32009D0685) 30 de Junho de 2012**◄** | Apenas serão autorizadas as utilizações como fungicida. Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 26 de Fevereiro de 2002, do relatório de avaliação do iprovalicarbe elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório. Nessa avaliação global: — a especificação da substância comercial técnica deverá ser confirmada e apoiada por dados analíticos adequados. Deverá verificar-se a conformidade do produto utilizado nos ensaios de toxicidade com a referida especificação, — os Estados-Membros estarão particularmente atentos à protecção dos operadores. |\n| 31 | Prosulfurão N.º CAS 94125-34-5 N.º CIPAC 579 | 1-(4-metoxi-6-metil-1,3,5-triazin-2-il)-3-[2-(3,3,3-trifluoropropil)-fenilsulfonil]-ureia | 950 g/kg | 1 de Julho de 2002 | [**►M1**](http://publications.europa.eu/resource/celex/32009D0685) 30 de Junho de 2012**◄** | Apenas serão autorizadas as utilizações como herbicida. Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 26 de Fevereiro de 2002, do relatório de avaliação do prosulfurão elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatório. Nessa avaliação global, os Estados-Membros: — deverão avaliar pormenorizadamente o risco para as plantas aquáticas sempre que a substância activa seja aplicada na proximidade de águas superficiais. Deverão aplicar-se, sempre que necessário, medidas de redução do risco, — estarão particularmente atentos à protecção das águas subterrâneas sempre que a substância activa seja aplicada em zonas com condições pedológicas e/ou climáticas vulneráveis. Deverão aplicar-se, sempre que necessário, medidas de redução dos riscos. |\n| 32 | Sulfosulfurão N.º CAS 141776-32-1 N.º CIPAC 601 | 1-(4,6-dimetoxipirimidin-2-il)-3-[2-etanosulfonilimidazo[1,2-*a*]piridina)sulfonil]ureia | 980 g/kg | 1 de Julho de 2002 | [**►M1**](http://publications.europa.eu/resource/celex/32009D0685) 30 de Junho de 2012**◄** | Apenas serão autorizadas as utilizações como herbicida. Na aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões da versão final, de 26 de Fevereiro de 2002, do relatório de avaliação do sulfosulfurão elaborado no quadro do Comité Permanente da Cadeia Alimentar e da Saúde Animal, nomeadamente os apêndices I e II do relatótorio. Nessa avaliação global: — os Estados-Membros estarão particularmente atentos à protecção das plantas aquáticas e das algas. Deverão aplicar-se, sempre que necessário, medidas de redução do risco, — os Estados-Membros estarão particularmente atentos à protecção das águas subterrâneas sempre que a substância activa seja aplicada em zonas com condições pedológicas e/ou climáticas vulneráveis |\n| (^1^)O relatório de avaliação fornece mais pormenores sobre a identidade e as especificações das substâncias activas» |  |  |  |  |  |  |\n\n---"
+  },
+  "ae09112be0e92e87": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0001)) JO L 230 de 19.8.1991, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0002)) JO L 117 de 4.5.2002, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0003)) JO L 228 de 15.8.1998, p. 35.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0004)) JO L 52 de 22.2.1997, p. 20.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0005)) JO L 351 de 23.12.1997, p. 67.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0006)) Parecer do Comité Científico das Plantas sobre a avaliação do iprovalicarbe no contexto da Directiva 91/414/CE relativa à colocação dos produtos fitofarmacêuticos no mercado (adoptado em 21 de Março de 2001).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0007)) Parecer do Comité Científico das Plantas relativo a uma questão adicional da Comissão sobre a avaliação do iprovalicarbe (SZX 0722) no contexto da Directiva 91/414/CE relativa à colocação dos produtos fitofarmacêuticos no mercado (adoptado em 28 de Novembro de 2001).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0008)) Parecer do Comité Científico das Plantas sobre a inclusão do prosulfurão (CGA 152005) no anexo I da Directiva 91/414/CE relativa à colocação dos produtos fitofarmacêuticos no mercado. Documento SCP/PROSULF/002-final, de 21 de Junho de 2001.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4a9a9ea8-97c3-428d-8ad6-f278244baa85.0018.03/DOC_1#src.E0009)) Parecer do Comité Científico das Plantas sobre a avaliação do MON 37500 (sulfosulfurão) no contexto da Directiva 91/414/CEE relativa à colocação dos produtos fitofarmacêuticos no mercado. Documento SCP/SULFO/002-final, de 11 de Dezembro de 2000."
+  },
+  "4134c8d9a5211d2e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02002L0048 — PT — 14.06.2011 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32002L0048) [DIRECTIVA 2002/48/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32002L0048) [de 30 de Maio de 2002](http://publications.europa.eu/resource/celex/32002L0048) [que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir as substâncias activas iprovalicarbe, prosulfurão e sulfosulfurão](http://publications.europa.eu/resource/celex/32002L0048) (JO L 148, 6.6.2002, p.19)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1107/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1107) — L 309 — 1 — 24.11.2009"
+  }
+ }
+}

@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:474085:por
+title: Decreto-Lei n.º 130/80
+short_title: null
+summary: Dá nova redacção aos artigos 3.º e 4.º do Decreto-Lei n.º 519-M1/79, de 29 de Dezembro (Escolas Superiores de Medicina
+  Dentária de Lisboa e Porto)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 130/80
+official_date: null
+publication_date: '1980-05-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/1980, Série I de 1980-05-17
+  number: '114'
+  series: I
+  supplement: null
+  pages: 988 - 988
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11400/09880988.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '474085'
+  dre_path: /dr/detalhe/decreto-lei/130-1980-474085
+  internal: pt:dre:474085:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1980-474085
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1980-474085
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 486fa4418c33eb5fdcee6d65bd99d0e3135d2ed0efd953388b2f41a12ec6bfa2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Superior
+- Escola Superior de Medicina Dentária
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:157062:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:27:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 130/80
+
+de 17 de Maio
+
+Pelo [Decreto-Lei n.º 519-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m1-1979-157062), de 29 de Dezembro, procedeu-se à fixação do quadro legal adequado a garantir uma ligação permanente dos docentes das Escolas Superiores de Medicina Dentária de Lisboa e Porto às respectivas instituições, factor considerado imprescindível ao seu arranque eficaz, enquanto unidades de ensino universitário que surgiram ex novo.
+
+Constatou-se, porém, que algumas das medidas consagradas vieram colocar o fim desejado na dependência de uma burocracia temporalmente dilatória, restritiva da sua própria eficácia e responsável pela frustração dos objectivos a atingir.
+
+Considerando que tais objectivos se revestem de indiscutível interesse nacional, pois visam assegurar a criação de adequadas condições para a formação de técnicos de que o País muito está carecido, e atendendo a que as medidas consagradas ou a consagrar neste contexto, ainda que excepcionais, apenas serão aplicáveis a um reduzido número de pessoas que, pelo seu indiscutível mérito profissional e reconhecida capacidade científica, estão em condições de assumir, com plena dignidade, as responsabilidades que delas decorrem, impõe-se a alteração do [Decreto-Lei n.º 519-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m1-1979-157062), de 29 de Dezembro.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 519-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m1-1979-157062), de 29 de Dezembro, passa a ter a seguinte redacção:
+
+Art. 3.º - 1 - Os professores a que se refere o presente diploma, independentemente do decurso dos prazos fixados no artigo anterior, podem requerer a sua nomeação definitiva nos termos dos números seguintes.
+
+2 - Para o efeito, deverão apresentar ao conselho científico um relatório pormenorizado da actividade pedagógica e científica que hajam desenvolvido, com indicação dos trabalhos realizados e publicados, das dissertações efectuadas sob a sua orientação, bem como de quaisquer outros documentos relevantes para a apreciação daquele relatório curricular.
+
+3 - No caso de não existir conselho científico, o relatório referido no número anterior será apresentado ao Ministro da Educação e Ciência, o qual designará, no prazo de trinta dias após a recepção do relatório, uma comissão de especialistas.
+
+4 - O conselho científico ou a comissão de especialistas emitirão, no prazo de trinta dias, parecer circunstanciado e fundamentado acerca do relatório referido no n.º 2 do presente artigo.
+
+5 - Na elaboração do parecer ter-se-ão sempre em conta os factores seguintes:
+
+a) Competência científica;
+
+b) Aptidão pedagógica;
+
+c) Actualização e assiduidade no ensino.
+
+Art. 2.º O artigo 4.º do mesmo diploma passa a ter a seguinte redacção:
+
+Art. 4.º - 1 - Os professores a que se refere o presente decreto-lei podem ser nomeados definitivamente desde que, preenchidos os requisitos previstos no artigo anterior, seja proferido parecer favorável do conselho científico ou da comissão de especialistas nele referidos.
+
+2 - O despacho de nomeação definitiva será proferido com base no referido parecer, que lhe será anexado e publicado no Diário da República.
+
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 1980. - Francisco Sá Carneiro.
+
+Promulgado em 10 de Maio de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

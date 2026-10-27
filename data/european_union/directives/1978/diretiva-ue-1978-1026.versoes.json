@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L1026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L1026-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1978-12-23",
+   "future": false,
+   "celex": "31978L1026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4011aadfa0956ba6",
+    "b0e1d0d4b4d2388b",
+    "92dc21a4ca934474",
+    "5c239e9cd8d6fbf4",
+    "cbbe9a540efb1371",
+    "a82b05e2eb3b6082",
+    "6ef6e79356aa1316",
+    "58aa0d76658ef012",
+    "88cda348beb219b0",
+    "325c70700f56d647",
+    "9c3f56cce9cf062e",
+    "b3c0e7e90064660f",
+    "69b914a7cb1f10de",
+    "ddf6428285873284",
+    "775bbdcae74bcd43",
+    "d7a2890af28d52a3",
+    "3ce1cf26d0ddaeb2",
+    "59078ed5f7d88dbd",
+    "30ba332b5e1f212b",
+    "b5fe26e964b3d742",
+    "32baf2639af3f126",
+    "b90f34c89e5db6e6",
+    "e0a4b3d2d1cfb858",
+    "098972b9bfeddb2c",
+    "80dc2a3df5ecebd8",
+    "295dbbc9336b4622"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01978L1026-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPITULO I — ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1o",
+    "Suprime CAPITULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime CAPÍTULO III — DIREITOS ADQUIRIDOS",
+    "Suprime Artigo 4o",
+    "Suprime CAPÍTULO IV — USO DO",
+    "Suprime TÍTULO DE FORMAÇÃO — Artigo 5o",
+    "Suprime CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E A LIVRE PRESTAÇÃO DE SERVIÇOS DO VETERINÁRIO",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o"
+   ],
+   "fragments": [
+    "dcc6d6b98ca12e4b"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01978L1026-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "ac4ca07d79a4b87d"
+   ]
+  }
+ ],
+ "fragments": {
+  "4011aadfa0956ba6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 78/1026/CEE do Conselho, de 18 de Dezembro de 1978, que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de veterinário e que contém medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços** *Jornal Oficial nº L 362 de 23/12/1978 p. 0001 - 0006 Edição especial finlandesa: Capítulo 6 Fascículo 2 p. 0011 Edição especial grega: Capítulo 06 Fascículo 2 p. 0046 Edição especial sueca: Capítulo 6 Fascículo 2 p. 0011 Edição especial espanhola: Capítulo 06 Fascículo 2 p. 0049 Edição especial portuguesa: Capítulo 06 Fascículo 2 p. 0049*\n\nDIRECTIVA DO CONSELHO de 18 de Dezembro de 1978 que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de veterinário e que contém medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços\n\n(78/1026/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o, 57o, 66o e 235o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, nos termos do Tratado, qualquer tratamento discriminatório baseado na nacionalidade em matéria de estabelecimento e de prestação de serviços é proibido após o final do período de transição; que o princípio do tratamento nacional assim realizado se aplica nomeadamente à concessão de uma autorização eventualmente exigida para o acesso às actividades de veterinário, assim como à inscrição ou à filiação nas organizações ou nos organismos profissionais;\n\nConsiderando que se afigura, todavia, conveniente prever certas disposições que facilitem o exercício efectivo do direito de estabelecimento e da livre prestação de serviços de veterinário;\n\nConsiderando que, nos termos do Tratado, os Estados-membros são obrigados a não conceder qualquer auxílio que seja de molde a falsear as condições de estabelecimento;\n\nConsiderando que o no 1 do artigo 57o do Tratado prevê que sejam adoptadas directivas para o reconhecimento mútuo dos diplomas, certificados e outros títulos; que a presente directiva tem em vista o reconhecimento dos diplomas, certificados e outros títulos de veterinário, que dêem acesso ao exercício de medicina veterinária;\n\nConsiderando que, tendo em conta as divergências existentes actualmente entre os Estados-membros no que respeita à natureza e aos períodos de formação do veterinário, se torna necessário prever certas disposições de coordenação destinadas a permitir aos Estados-membros proceder ao reconhecimento mútuo dos diplomas, certificados e outros títulos; que esta coordenação se realiza pela Directiva 78/1027/CEE do Conselho, de 18 de Dezembro de 1978, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes às actividades veterinárias (4);\n\nConsiderando que, no que diz respeito à posse de título de formação, pelo facto de uma directiva de reconhecimento mútuo dos diplomas não implicar necessariamente uma equivalência material das formações respeitantes a esses diplomas, convém autorizar apenas o seu uso na língua do Estado-membro de origem ou de proveniência;\n\nConsiderando que, para facilitar a aplicação da presente directiva pelas administrações nacionais, os Estados-membros podem exigir que os beneficiários que preencham as condições de formação previstas por esta, apresentem, conjuntamente com o seu título de formação, um certificado das autoridades competentes do país de origem ou de proveniência, comprovativo de que esses títulos são os previstos na presente directiva;\n\nConsiderando que, em caso de prestação de serviços a exigência de uma inscrição ou filiação nas organizações ou organismos profissionais, conexa com a natureza estável e permanente da actividade exercida no país de acolhimento, constituiria incontestavelmente um incómodo para o prestador por razões de carácter temporário da sua actividade; que é necessário, pois, afastá-la; que se torna necessário, no entanto, neste caso garantir, o controlo da disciplina profissional da competência destas organizações ou organismos profissionais; que convém prever para este efeito, e sem prejuízo da aplicação do artigo 62o do Tratado, a possibilidade de impor ao beneficiário a obrigação de notificar a prestação de serviços à autoridade competente do Estado-membro de acolhimento;\n\nConsiderando que, em matéria de moralidade e honoralidade, convém distinguir as condições exigíveis, por um lado, para um primeiro acesso à profissão e, por outro, para o exercício desta;\n\nConsiderando que, no que diz respeito às actividades assalariadas do veterinário, o Regulamento (CEE) no 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à Livre circulação dos trabalhadores na Comunidade (5), não contém as disposições especificas para as profissões regulamentadas em matéria de moralidade e de honorabilidade, de disciplina profissional e de posse de um título; que, segundo os Estados-membros, os regulamentos em questão são ou podem ser aplicáveis tanto aos assalariados como aos não assalariados; que as actividades veterinárias estão subordinadas em todos os Estados-membros à posse de um diploma, de um certificado ou de outro título de veterinário; que estas actividades são exercidas quer por independentes quer por assalariados, ou ainda alternativamente na qualidade de assalariado e de não assalariado pelas mesmas pessoas durante a sua carreira profissional; que para favorecer plenamente a livre circulação destes profissionais na Comunidade, afigura-se necessário consequentemente estender aos veterinários assalariados a aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b0e1d0d4b4d2388b": {
+   "fragment_id": "CAPITULO I — ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "CAPITULO I — ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPITULO I — ÂMBITO DE APLICAÇÃO"
+  },
+  "92dc21a4ca934474": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva aplica-se às actividades de veterinário."
+  },
+  "5c239e9cd8d6fbf4": {
+   "fragment_id": "CAPITULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "type": "divisao",
+   "heading": "CAPITULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPITULO II — DIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS DE VETERINÁRIO"
+  },
+  "cbbe9a540efb1371": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nCada Estado-membro reconhece os diplomas, certificados e outros títulos concedidos aos nacionais dos Estados-membros pelos outros Estados-membros nos termos do artigo 1o da Directiva 78/1027/CEE e relacionados no artigo 3o, conferindo-lhes, no que diz respeito ao acesso às actividades de veterinário e ao seu exercício, o mesmo efeito no seu território que aos diplomas, certificados e outros títulos por ele emitidos.\n\nQuando um dos diplomas, certificados ou outros títulos relacionados no artigo 3o tenha sido emitido antes do início da aplicação da presente directiva, deve ser acompanhado de um documento emitido pelas autoridades competentes do país de emissão, certificando que ele está conforme com o artigo 1o da Directiva 78/1027/CEE."
+  },
+  "a82b05e2eb3b6082": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs diplomas, certificados e outros títulos mencionados no artigo 2o são:\n\na) Na República Federal da Alemanha:\n\n1. Zeugnis ueber die tieraerztliche Staatspruefung (Certificado de exame de Estado de veterinário) emitido pelas autoridades competentes;\n\n2. Os certificados das autoridades competentes da República Federal da Alemanha que comprovem a equivalência dos títulos de formação emitidos depois de 8 de Maio de 1945 pelas autoridades competentes da República Democrática Alema com o título mencionado no ponto 1;\n\nb) Na Bélgica:\n\n«Le diplôme légal de docteur em médecine vétérinaire - Wettelijk diploma van doctor in de veeartsenijkunde of doctor in de diergeneeskunde» (diploma legal de doutor em medicina veterinária) emitido pelas universidades do Estado, pelo júri central ou pelos júris de Estado de ensino universitário;\n\nc) Na Dinamarca:\n\n«Bevis for bestaaet kandidateksamen i veterinaervidenskab (cand. med. vet.)» [certificado comprovativo da passagem no exame do candidato a médico veterinário] emitido por «Kongelige Veterinaer- og Landbohoejskole»;\n\nd) Em França:\n\nO diploma de «Docteur-vétérinaire d'État»;\n\ne) Na Irlanda:\n\n1. O diploma de «Bachelor in/of Veterinary Medicine (MVB)»;\n\n2. «The Diploma of membership of the Royal College of Veterinary Surgeons (MRC VS)» obtido na sequência de um exame após um ciclo de estudos efectuado numa escola veterinária na Irlanda;\n\nf) Na Itália:\n\n«Il diploma di laurea di dottore in medicina veterinaria accompagnato del diploma d'abilitazione all'esercizio della medicina veterinaria» emitido pelo Ministro da Instrução Pública com base nos resultados do júri do exame de Estado competente;\n\ng) No Luxemburgo:\n\n1. «Le diplôme d'État de docteur en médecine vétérinaire» (diploma de Estado de doutor em medicina veterinária) emitido pelo júri de exame do Estado e visado pelo Ministro da Educação Nacional;\n\n2. Os diplomas que conferem um grau de ensino superior de medicina veterinária emitido num dos países da Comunidade e que dê acesso ao estágio sem dar acesso à profissão, que tenham obtido a homologação do Ministro da Educação Nacional, de acordo com a Lei de 18 de Junho de 1969 relativa ao ensino superior e à homologação dos títulos e graus de ensino superior estrangeiros acompanhados do certificado de estágio visado pelo Ministro da Saúde Pública;\n\nh) Nos Países Baixos:\n\n1. «Het getuigschrift van met goed gevold afgelegd diergeneeskundig examen» (certificado comprovativo da passagem no exame de medicina veterinária;\n\n2. «Het getuigschrift van met goed gevolg afgelegd veeartsenijkundig examen» (certificado comprovativo da passagem no exame de medicina veterinária);\n\ni) No Reino Unido:\n\nThe degrees (os diplomas):\n\n- «Bachelor of Veterinary Science (BVSc.)»,\n\n- «Bachelor of Veterinary Medicine (Vet. MB ou BV et. Med.)»,\n\n- «Bachelor of Veterinary Medicine Surgery (BVM and S ou BVMS)»,\n\n«the diploma of membership of the Royal College of Veterinary Surgeons (MRCVS)» obtido na sequência de um exame após um ciclo completo de estudos efectuado numa escola veterinária no Reino Unido."
+  },
+  "6ef6e79356aa1316": {
+   "fragment_id": "CAPÍTULO III — DIREITOS ADQUIRIDOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DIREITOS ADQUIRIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DIREITOS ADQUIRIDOS"
+  },
+  "58aa0d76658ef012": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nCada Estado-membro reconhece como prova suficiente para os nacionais dos Estados-membros cujos diplomas, certificados e outros títulos não correspondam ao conjunto de exigências mínimas de formação previstas no artigo 1o da Directiva 78/1027/CEE, os diplomas, certificados e outros títulos de veterinário emitidos por esses Estados-membros antes da aplicação da Directiva 78/1027/CEE acompanhados de um certificado comprovativo de que tais nacionais se consagraram efectiva e licitamente às actividades em causa durante pelo menos tres anos consecutivos no decurso dos cinco que precederam a emissão do certificado."
+  },
+  "88cda348beb219b0": {
+   "fragment_id": "CAPÍTULO IV — USO DO",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — USO DO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — USO DO"
+  },
+  "325c70700f56d647": {
+   "fragment_id": "TÍTULO DE FORMAÇÃO — Artigo 5o",
+   "type": "divisao",
+   "heading": "TÍTULO DE FORMAÇÃO — Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO DE FORMAÇÃO — Artigo 5o\n\n1. Sem prejuízo do disposto no artigo 13o, os Estados-membros de acolhimento velarão por que seja reconhecido aos nacionais dos Estados-membros que preencham as condições previstas nos artigos 2o e 4o o direito de utilizarem o seu título de formação lícito e, eventualmente, a sua abreviatura, do Estado-membro de origem ou de proveniência, na língua desse Estado. Os Estados-membros de acolhimento podem determinar que esse título contenha o nome e o lugar do estabelecimento ou do júri que o concede.\n\n2. Sempre que o título de formação do Estado-membro de origem ou de proveniência possa ser confundido no Estado-membro de acolhimento com um título que exiga nesse Estado uma formação complementar que o beneficiário não haja adquirido, esse Estado-membro de acolhimento pode determinar que o beneficiário utilize o seu título de formação do Estado-membro de origem ou de proveniência segundo uma fórmula adequada indicada por esse Estado-membro de acolhimento."
+  },
+  "9c3f56cce9cf062e": {
+   "fragment_id": "CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E A LIVRE PRESTAÇÃO DE SERVIÇOS DO VETERINÁRIO",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E A LIVRE PRESTAÇÃO DE SERVIÇOS DO VETERINÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E A LIVRE PRESTAÇÃO DE SERVIÇOS DO VETERINÁRIO\n\nA. Disposições especiais relativas ao direito de estabelecimento"
+  },
+  "b3c0e7e90064660f": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O Estado-membro de acolhimento que exija dos seus nacionais uma prova de moralidade ou de honorabilidade para o primeiro acesso às actividades mencionadas no artigo 1o, aceitará como prova suficiente, em relação aos nacionais dos outros Estados-membros, um certificado emitido por uma autoridade competente do Estado-membro de origem ou de proveniência, comprovativo de que as condições de moralidade ou honorabilidade exigidas neste Estado-membro para o acesso às actividades em causa se encontram preenchidas.\n\n2. Sempre que o Estado-membro de origem ou de proveniência não exija prova de moralidade ou de honorabilidade para o primeiro acesso às actividades em causa, o Estado-membro de acolhimento pode exigir, dos nacionais do Estado-membro de origem ou de proveniência, um certificado do registo criminal ou, em sua substituição, um documento equivalente emitido por uma autoridade competente do Estado-membro de origem ou de proveniência.\n\n3. O Estado-membro de acolhimento, se tiver conhecimento de factos graves e concretos ocorridos, anteriormente ao estabelecimento do interessado nesse Estado, fora do seu território e susceptíveis de terem neste consequências no que respeite ao acesso às actividades em causa, pode informar de tal facto o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência examinará a veracidade dos factos. As autoridades desse Estado decidirão elas próprias sobre a natureza e extensão das investigações que devem ser feitas e comunicarão ao Estado-membro de acolhimento as consequências que daí extraíram relativamente aos atestados ou documentos que tiverem emitido.\n\n4. Os Estados-membros assegurarão o sigilo das informações transmitidas."
+  },
+  "69b914a7cb1f10de": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Sempre que, num Estado-membro de acolhimento, estiverem em vigor disposições legislativas, regulamentares e administrativas, relativas à observância da moralidade ou da honorabilidade, incluindo disposições que prevejam sanções disciplinares em caso de falta profissional grave ou de condenação por crime e relativas ao exercício das actividades a que se refere o artigo 1o, o Estado-membro de origem ou de proveniência transmitirá ao Estado-membro de acolhimento as informações necessárias relativas às medidas ou sanções de natureza profissional ou administrativa tomadas ou aplicadas ao interessado, bem como às sanções penais que interessem ao exercício da profissão no Estado-membro de origem ou de proveniência.\n\n2. Se o Estado-membro tiver conhecimento de factos graves e concreto ocorridos, anteriormente ao estabelecimento do interessado nesse Estado, fora do seu território e susceptíveis de terem neste consequências no exercício das actividades em causa, podem dar conhecimento dos mesmos ao Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência examinará a veracidade dos factos. As autoridades deste Estado decidirão elas próprias sobre a natureza e a extensão das investigações que devem ser feitas e comunicarão ao Estado-membro de acolhimento as consequências que daí extraíram relativamente às informações que tiverem transmitido em conformidade com o no 1.\n\n3. Os Estados-membros assegurarão o sigilo das informações transmitidas."
+  },
+  "ddf6428285873284": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nSempre que o Estado-membro de acolhimento exigir dos seus nacionais, para o acesso às actividades previstas no artigo 1o ou para o seu exercício, um documento relativo à saúde física ou psíquica, esse Estado aceitará como prova bastante a apresentação do documento exigido no Estado-membro de origem ou de proveniência.\n\nSempre que o Estado-membro de origem ou de proveniência não exigir qualquer documento dessa natureza por o acesso às actividades em causa ou ao seu exercício, o Estado-membro de acolhimento aceitará dos nacionais do Estado-membro de origem ou de proveniência um certificado emitido por uma autoridade competente desse Estado, equivalente aos certificados do Estado-membro de acolhimento."
+  },
+  "775bbdcae74bcd43": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs documentos referidos nos artigos 6o, 7o e não podem ter sido emitidos, aquando da sua apresentação, há mais de três meses."
+  },
+  "d7a2890af28d52a3": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O processo de admissão do beneficiário ao acesso às actividades referidas no artigo 1o, nos termos dos artigos 6o, 7o e 8o, deve ser terminado no mais curto prazo e o mais tardar dentro de três meses a contar da apresentação da documentação completa do interessado, sem prejuízo das dilações que se possam tornar necessárias na sequência de eventual recurso interposto no termo do próprio processo.\n\n2. Nos casos previstos no no 3 do artigo 6o e no no 2 do artigo 7o, o pedido de reexame suspende o prazo a que se refere o no 1.\n\nO Estado-membro consultado deve transmitir a sua resposta no prazo de três meses. Se o não fizer, o Estado-membro de acolhimento pode extrair as consequências dos factos graves e concretos de que tiver tido conhecimento.\n\nO Estado-membro de acolhimento dará seguimento ao processo previsto no no 1 após a recepção dessa resposta ou após o termo deste prazo."
+  },
+  "3ce1cf26d0ddaeb2": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nSempre que um Estado-membro de acolhimento exigir que os seus nacionais prestem juramento ou uma declaração solene para o acesso às actividades previstas no artigo 1o ou ao seu exercício, e se a fórmula desse juramento ou de essa declaração não puder ser utilizada pelos nacionais dos outros Estados-membros, o Estado-membro de acolhimento providenciará no sentido de poder ser apresentado aos interessados uma fórmula adequada e equivalente.\n\nB. Disposições especiais relativas à prestação de serviços"
+  },
+  "59078ed5f7d88dbd": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Sempre que um Estado-membro exigir dos seus nacionais, para o acesso às actividades previstas no artigo 1o ou para o seu exercício, quer uma autorização, quer a inscrição ou a filiação numa organização ou organismo profissionais, esse Estado-membro dispensará de tal exigência os nacionais dos Estados-membros no caso de prestação de serviços.\n\nO beneficiário tem, na prestação de serviços, os mesmos direitos e obrigações dos nacionais do Estado-membro de acolhimento; fica designadamente sujeito às disposições disciplinares de natureza profissional ou administrativa aplicáveis nesse Estado-membro.\n\nPara tanto, e em complemento da declaração relativa à prestação de serviços prevista no no 2, os Estados-membros podem, para permitir a aplicação das disposições disciplinares em vigor no seu território, prever quer uma inscrição temporária de aplicação automática ou uma adesão «pro forma» a uma organização ou a um organismo profissional, quer uma inscrição num registo, desde que elas não atrazem nem compliquem por qualquer forma a prestação de serviços e não impliquem despesas suplementares para o prestador dos serviços.\n\nSempre que o Estado-membro de acolhimento tomar qualquer medida em aplicação do segundo parágrafo ou com o conhecimento de factos que violem essas disposições informará imediatamente o Estado-membro onde o beneficiário esteja estabelecido.\n\n2. O Estado-membro de acolhimento pode determinar que o beneficiário faça às autoridades competentes uma declaração prévia, relativa à sua prestação de serviços, no caso de essa prestação implicar uma permanência temporária no seu território. O Estado-membro de acolhimento pode, em qualquer caso, exigir de um veterinário estabelecido noutro Estado-membro uma declaração prévia relativa a uma prestação de serviços que consista em elaborar uma receita ou certificados veterinários sem visita dos animais, desde que esta prática seja admitida pelas disposições legais, regulamentares e administrativas bem como pelo direito profissional do Estado-membro de acolhimento.\n\nO Estado-membro de acolhimento que exigir uma tal declaração prévia tomará as medidas necessárias para que ela se possa referir, se for caso disso, a uma série de prestações de serviços que sejam efectuadas numa mesma região e para um ou vários destinatários por um certo período que, todavia, não pode exercer um ano.\n\nEm caso de urgência, essa declaração pode ser feita no mais curto prazo após a prestação de serviços.\n\n3. Em aplicação dos nos 1o e 2o, o Estado-membro de acolhimento pode exigir do beneficiário um ou mais documentos que contenham as seguintes indicações:\n\n- a declaração prevista no no 2o,\n\n- um documento comprovativo de que o beneficiário exerce legalmente as actividades em causa no Estado-membro em que se encontra estabelecido;\n\n- um documento comprovativo de que o beneficiário possui o ou os diplomas, certificados ou outros títulos necessários para a prestação de serviços em causa e previstos na presente directiva.\n\n4. O ou os documentos previstos no no 3o não podem ter sido emitidos, aquando da sua apresentação, há mais de doze meses.\n\n5. Sempre que um Estado-membro privar, no todo ou em parte, temporária ou definitivamente, um seu nacional ou um nacional de outro Estado-membro, estabelecido no seu território, da faculdade de exercer as actividades previstas no artigo 1o, assegurará, conforme o caso, a apreensão temporária ou definitiva do documento previsto no no 3o, segundo travessão.\n\nC. Disposições comuns ao direito de estabelecimento e à livre prestação de serviços"
+  },
+  "30ba332b5e1f212b": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nSempre que num Estado-membro de acolhimento o uso do título profissional referente às actividades previstas no artigo 1o esteja regulamentado, os nacionais dos outros Estados-membros, que reúnam as condições previstas no artigo 2o e no artigo 4o, usurão o título profissional do Estado-membro de acolhimento que, neste Estado corresponda a essas condições de formação e usarão a respectiva abreviatura."
+  },
+  "b5fe26e964b3d742": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Os Estados-membros tomarão as medidas necessárias a fim de permitir aos beneficiários serem informados da legislação veterinária, bem como, se for caso disso, da deontologia do Estado-membro de acolhimento.\n\nPara esse efeito, os Estados-membros podem criar serviços de informação onde os beneficiários possam obter as informações necessárias. Em caso de estabelecimento, os Estados-membros de acolhimento podem obrigar os beneficiários a contactar esses serviços.\n\n2. Os Estados-membros podem criar os serviços previstos no no 1 junto das autoridades e organismos competentes que designarão no prazo previsto no no 1 do artigo 18o.\n\n3. Os Estados-membros agirão por forma a que, se for caso disso, os beneficiários adquiram, no seu próprio interesse e no dos seus clientes, os conhecimentos linguísticos necessários ao exercício da sua actividade profissional no Estado-membro de acolhimento."
+  },
+  "32baf2639af3f126": {
+   "fragment_id": "CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — DISPOSIÇÕES FINAIS"
+  },
+  "b90f34c89e5db6e6": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nO Estado-membro de acolhimento pode, em caso de dúvida justificada, exigir das autoridades competentes de outro Estado-membro a confirmação da autenticidade dos diplomas, certificados e outros títulos emitidos nesse outro Estado-membro e previstos no capítulo II, bem como a confirmação de que o beneficiário preenche todas as condições de formação previstas na Directiva 78/1027/CEE."
+  },
+  "e0a4b3d2d1cfb858": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nOs Estados-membros designarão, no prazo previsto no no 1 do artigo 18o, as autoridades e organismos competentes para emitirem ou receberem os diplomas, certificados e outros títulos bem como os documentos ou informações previstos na presente directiva, e comunicarão esse designação imediatamente aos outros Estados-membros e à Comissão."
+  },
+  "098972b9bfeddb2c": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nA presente directiva aplica-se igualmente aos nacionais dos Estados-membros que, em conformidade com o Regulamento (CEE) no 1612/68, exercem ou venham a exercer como assalariados as actividades previstas no artigo 1o."
+  },
+  "80dc2a3df5ecebd8": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "295dbbc9336b4622": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 18 de Dezembro de 1968.\n\nPelo Conselho\n\nO Presidente\n\nH. D. GENSCHER\n\n(1) JO no C 92 de 20. 7. 1970, p. 18.(2) JO no C 19 de 28. 2. 1972, p. 10.(3) JO no C 60 de 14. 6. 1971, p. 3.(4) JO no L 362 de 23. 12. 1978, p. 7.(5) JO no L 257 de 19. 10. 1968, p. 2."
+  },
+  "dcc6d6b98ca12e4b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L1026 — PT — 01.01.2007 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/378L1026) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/378L1026) [de 18 de Dezembro de 1978](http://publications.europa.eu/resource/celex/378L1026) [que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos veterinário e que contém medidas destinadas a facilitar o exercício efectivo do direito estabelecimento e da livre prestação de serviços](http://publications.europa.eu/resource/celex/378L1026) [(78/1026/CEE)](http://publications.europa.eu/resource/celex/378L1026) (JO L 362, 23.12.1978, p.1)\n\n**revogado por:**"
+  },
+  "ac4ca07d79a4b87d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L1026 — PT — 20.10.2007 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L1026) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L1026) [de 18 de Dezembro de 1978](http://publications.europa.eu/resource/celex/31978L1026) [que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos veterinário e que contém medidas destinadas a facilitar o exercício efectivo do direito estabelecimento e da livre prestação de serviços](http://publications.europa.eu/resource/celex/31978L1026) [(78/1026/CEE)](http://publications.europa.eu/resource/celex/31978L1026) (JO L 362, 23.12.1978, p.1)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

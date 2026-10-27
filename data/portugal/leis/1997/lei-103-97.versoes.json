@@ -1,0 +1,283 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:648879:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-75075975",
+ "dre_path": "/dr/detalhe/lei/103-1997-648879",
+ "source_lastmod": "2025-05-30",
+ "versions": [
+  {
+   "date": "1997-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75071098",
+    "75071099",
+    "75071100",
+    "75071101",
+    "75071102",
+    "75071103",
+    "75071104",
+    "75071105",
+    "75071106",
+    "75071107"
+   ]
+  },
+  {
+   "date": "1997-10-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:676808:por",
+     "title": "Declaração de Rectificação n.º 17/97",
+     "published": "1997-10-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/17-1997-676808"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 5.º",
+    "Retifica Artigo 7.º"
+   ],
+   "fragments": [
+    "75071098",
+    "75071099",
+    "75071100",
+    "75071101",
+    "75071102",
+    "920131950",
+    "75071104",
+    "920131951",
+    "75071106",
+    "75071107",
+    "75071108"
+   ]
+  },
+  {
+   "date": "2013-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499220:por",
+     "title": "Lei n.º 56/2013",
+     "published": "2013-08-14",
+     "dre_path": "/dr/detalhe/lei/56-2013-499220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "75071098",
+    "933897451",
+    "933897452",
+    "933897453",
+    "933897454",
+    "933897455",
+    "933897456",
+    "933897457",
+    "933897458",
+    "75071107",
+    "75071108"
+   ]
+  }
+ ],
+ "fragments": {
+  "75071098": {
+   "fragment_id": "75075976",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 103/97\n\nde 13 de Setembro\n\nEstabelece o regime fiscal específico das sociedades desportivas (Lei n.º 1/90, de 13 de Janeiro, na redacção dada pela Lei n.º 19/96, de 25 de Junho) previsto no Decreto-Lei n.º 67/97, de 3 de Abril\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea i), e 169.º, n.º 3, da Constituição, o seguinte:\n\n> Nota: [Artigo 5.º, Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220) O regime da Lei n.º 103/97, de 13 de setembro, aplica-se apenas aos períodos de tributação que se iniciem após 15 de agosto de 2013."
+  },
+  "75071099": {
+   "fragment_id": "75075977",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nA presente lei estabelece o regime fiscal das sociedades desportivas previstas no Decreto-Lei n.º 67/97, de 3 de Abril, sem prejuízo do disposto no artigo 24.º deste diploma."
+  },
+  "75071100": {
+   "fragment_id": "75075978",
+   "type": 11,
+   "heading": "Artigo 2.º — Período de tributação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Período de tributação\n\n1 - As sociedades desportivas poderão adoptar um período anual de imposto diferente do ano civil, o qual deverá ser mantido durante, pelo menos, cinco anos.\n\n2 - A utilização da faculdade referida no número anterior depende da prévia apresentação de um requerimento ao Ministro das Finanças, com a indicação das razões justificativas de tal opção."
+  },
+  "75071101": {
+   "fragment_id": "75075979",
+   "type": 11,
+   "heading": "Artigo 3.º — Amortizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Amortizações\n\n1 - Para todos os efeitos legais, considera-se como elemento do activo imobilizado incorpóreo o direito de contratação dos jogadores profissionais, desde que inscritos em competições desportivas de carácter profissional ao serviço da sociedade desportiva.\n\n2 - O cálculo das amortizações do exercício relativas aos elementos do activo imobilizado referidos no número anterior que sejam de praticar nos termos da respectiva legislação far-se-á pelo método das quotas constantes.\n\n3 - As taxas de amortização aplicáveis serão determinadas em função da duração do contrato celebrado entre o jogador e a sociedade desportiva.\n\n4 - Para efeitos do disposto neste artigo, ter-se-ão em conta na determinação do valor do direito de contratação as quantias pagas pela sociedade desportiva à entidade donde provém o jogador, como contrapartida da sua transferência, e as pagas ao próprio jogador pelo facto de celebrar ou renovar o contrato, sem prejuízo do disposto na legislação geral."
+  },
+  "75071102": {
+   "fragment_id": "75075980",
+   "type": 11,
+   "heading": "Artigo 4.º — Reinvestimento dos valores de realização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reinvestimento dos valores de realização\n\nÀ diferença positiva entre as mais-valias e as menos-valias realizadas mediante transmissão onerosa dos elementos do activo imobilizado referidos no artigo anterior é aplicável, com as devidas adaptações, o disposto no artigo 44.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, desde que o valor da realização correspondente à totalidade desses elementos seja reinvestido na contratação de jogadores ou na aquisição de bens do activo imobilizado corpóreo afectos a fins desportivos até ao fim do terceiro exercício seguinte ao da realização."
+  },
+  "75071103": {
+   "fragment_id": "75075981",
+   "type": 11,
+   "heading": "Artigo 5.º — Isenção de sisa, selo e emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Isenção de sisa, selo e emolumentos\n\n1 - Às sociedades que se reorganizem nos termos do Decreto-Lei n.º 67/97, de 3 de Abril, poderão ser concedidos os seguintes benefícios:\n\na) Isenção de imposto municipal de sisa relativamente à transmissão de bens imóveis necessários à reorganização, desde que esta seja reconhecida de interesse municipal pelo órgão autárquico competente;\n\nb) Isenção de imposto do selo, dos emolumentos e de outros encargos legais que se mostrem devidos pela prática de todos os actos inseridos no processo de reorganização.\n\n2 - Para os efeitos do disposto no número anterior, considera-se reorganização:\n\na) A constituição de sociedades desportivas, mediante integração da totalidade ou de parte dos activos dos clubes desportivos afectos ao exercício de uma actividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa actividade deixe de ser exercida pelo clube desportivo e passe a sê-lo pela sociedade desportiva;\n\nb) A incorporação por sociedades desportivas da totalidade ou de parte dos activos dos clubes desportivos afectos ao exercício de uma actividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa actividade deixe de ser exercida pelo clube desportivo e passe a sê-lo pela sociedade desportiva;\n\nc) A constituição de sociedades mediante a integração de parte dos activos dos clubes desportivos afectos ao exercício de uma actividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa actividade deixe de ser exercida pelos clubes e passe a sê-lo pela nova sociedade e o capital desta seja maioritariamente detido por uma sociedade desportiva ou pelo clube fundador;\n\nd) A incorporação, por uma sociedade já constituída, de parte dos activos de clubes desportivos afectos ao exercício de uma actividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa actividade deixe de ser exercida pelos clubes e passe a sê-lo pela sociedade e o capital desta seja maioritariamente detido por uma sociedade desportiva ou pelo clube fundador.\n\n3 - Os benefícios serão concedidos por despacho do Ministro das Finanças, a pedido dos clubes desportivos, mediante parecer da Direcção-Geral dos Impostos, devendo o requerimento, feito em triplicado, conter os elementos necessários à respectiva apreciação e ser acompanhado de documento comprovativo do interesse municipal.\n\n4 - A Direcção-Geral dos Impostos deverá solicitar ao departamento competente do ministério que tutela o desporto parecer sobre a verificação dos pressupostos referidos no n.º 1.\n\n5 - A Direcção-Geral dos Impostos deverá igualmente solicitar à Direcção-Geral dos Registos e do Notariado parecer sobre a verificação dos pressupostos a que se refere o n.º 2.\n\n6 - Os pareceres referidos nos n.os 4 e 5 devem ser proferidos no prazo de 30 dias a contar da data da recepção, presumindo-se que se dão por verificados os pressupostos se não houver resposta dentro do prazo referido.\n\n7 - O reconhecimento do interesse municipal é considerado como renúncia à compensação prevista no n.º 7 do artigo 7.º da Lei n.º 1/87, de 6 de Janeiro."
+  },
+  "75071104": {
+   "fragment_id": "75075982",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposição transitória\n\n1 - Às transmissões de elementos do activo imobilizado efectuadas do clube desportivo para a sociedade desportiva ou para outra sociedade cujo capital social seja maioritariamente detido pela sociedade desportiva ou pelo clube fundador é aplicável, durante os primeiros cinco anos a contar da data do início da actividade, com as necessárias adaptações, o disposto no artigo 62.º-B do Código do Imposto sobre o Rendimento das Pessoas Colectivas.\n\n2 - Os elementos do activo imobilizado a transmitir podem ser reavaliados pelo clube desportivo tendo por base valores certificados por revisor oficial de contas.\n\n3 - Para efeitos de determinação do lucro tributável da sociedade desportiva é aplicável, com as necessárias adaptações, relativamente ao imobilizado transmitido que tenha sido reavaliado nos termos do n.º 2, o disposto no artigo 6.º do Decreto-Lei n.º 22/92, de 14 de Fevereiro, sobre não dedutibilidade de custos ou perdas.\n\n4 - A opção pelo regime jurídico das sociedades desportivas não pode ser feita enquanto os clubes desportivos não tiverem a respectiva situação tributária regularizada, nomeadamente no que diz respeito ao pagamento de impostos e contribuições.\n\n5 - Entende-se por situação tributária regularizada o pagamento integral de impostos e contribuições, a inexistência de situações de mora ou a sua regularização ao abrigo do Código de Processo Tributário e legislação complementar e o cumprimento de planos de regularização de dívidas nos termos da legislação em vigor."
+  },
+  "75071105": {
+   "fragment_id": "75075983",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime transitório de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime transitório de responsabilidade\n\nAs sociedades desportivas ou quaisquer outras sociedades, constituídas ou a constituir no âmbito das operações previstas no n.º 2 do artigo 5.º, da presente lei, são subsidiariamente responsáveis e solidariamente entre pelas dívidas fiscais e à segurança social do clube fundador relativas ao período anterior à data das referidas operações, até ao limite do valor dos activos que por este tenham sido transferidos a favor de cada sociedade."
+  },
+  "75071106": {
+   "fragment_id": "75075984",
+   "type": 11,
+   "heading": "Artigo 8.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Legislação subsidiária\n\nSão aplicáveis subsidiariamente, com as devidas adaptações, as disposições previstas no Código do Imposto sobre o Rendimento das Pessoas Colectivas e demais legislação suplementar."
+  },
+  "75071107": {
+   "fragment_id": "75075985",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente lei entra em vigor no dia imediato ao da respectiva publicação."
+  },
+  "920131950": {
+   "fragment_id": "75075981",
+   "type": 11,
+   "heading": "Artigo 5.º — Isenção de sisa, selo e emolumentos",
+   "in_force_from": "1997-10-28",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 17/97 - Diário da República n.º 250/1997, Série I-A de 1997-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1997-676808), em vigor a partir de 1997-10-28"
+   ],
+   "markdown": "###### Artigo 5.º — Isenção de sisa, selo e emolumentos\n\n1 - Às sociedades que se reorganizem nos termos do Decreto-Lei n.º 67/97, de 3 de Abril, poderão ser concedidos os seguintes benefícios:\n\na) Isenção de imposto municipal de sisa relativamente à transmissão de bens imóveis necessários à reorganização, desde que esta seja reconhecida de interesse municipal pelo órgão autárquico competente;\n\nb) Isenção de imposto do selo, dos emolumentos e de outros encargos legais que se mostrem devidos pela prática de todos os actos inseridos no processo de reorganização.\n\n2 - Para os efeitos do disposto no número anterior, considera-se reorganização:\n\na) A constituição de sociedades desportivas, mediante integração da totalidade ou de parte dos activos dos clubes desportivos afectos ao exercício de uma actividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa actividade deixe de ser exercida pelo clube desportivo e passe a sê-lo pela sociedade desportiva;\n\nb) Em incorporação por sociedades desportivas da totalidade ou de parte dos activos dos clubes desportivos afectos ao exercício de uma actividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa actividade deixe de ser exercida pelo clube desportivo e passe a sê-lo pela sociedade desportiva;\n\nc) A constituição de sociedades mediante a integração de parte dos activos dos clubes desportivos afectos ao exercício de uma actividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa actividade deixe de ser exercida pelos clubes e passe a sê-lo pela nova sociedade e o capital desta seja maioritariamente detido por uma sociedade desportiva ou pelo clube fundador;\n\nd) A incorporação, por uma sociedade já constituída, de parte dos activos de clubes desportivos afectos ao exercício de uma actividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa actividade deixe de ser exercida pelos clubes e passe a sê-lo pela sociedade e o capital desta seja maioritariamente detido por uma sociedade desportiva ou pelo clube fundador.\n\n3 - Os benefícios serão concedidos por despacho do Ministro das Finanças, a pedido dos clubes desportivos, mediante parecer da Direcção-Geral dos Impostos, devendo o requerimento, feito em triplicado, conter os elementos necessários à respectiva apreciação e ser acompanhado de documento comprovativo do interesse municipal.\n\n4 - A Direcção-Geral dos Impostos deverá solicitar ao departamento competente do ministério que tutela o desporto parecer sobre a verificação dos pressupostos referidos no n.º 1.\n\n5 - A Direcção-Geral dos Impostos deverá igualmente solicitar à Direcção-Geral dos Registos e do Notariado parecer sobre a verificação dos pressupostos a que se refere o n.º 2.\n\n6 - Os pareceres referidos nos n.os 4 e 5 devem ser proferidos no prazo de 30 dias a contar da data da recepção, presumindo-se que se dão por verificados os pressupostos se não houver resposta dentro do prazo referido.\n\n7 - O reconhecimento do interesse municipal é considerado como renúncia à compensação prevista no n.º 7 do artigo 7.º da Lei n.º 1/87, de 6 de Janeiro.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17/97 - Diário da República n.º 250/1997, Série I-A de 1997-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1997-676808), em vigor a partir de 1997-10-28"
+  },
+  "920131951": {
+   "fragment_id": "75075983",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime transitório de responsabilidade",
+   "in_force_from": "1997-10-28",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 17/97 - Diário da República n.º 250/1997, Série I-A de 1997-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1997-676808), em vigor a partir de 1997-10-28"
+   ],
+   "markdown": "###### Artigo 7.º — Regime transitório de responsabilidade\n\nAs sociedades desportivas ou quaisquer outras sociedades, constituídas ou a constituir no âmbito das operações previstas no n.º 2 do artigo 5.º, da presente lei, são subsidiariamente responsáveis e solidariamente entre si pelas dívidas fiscais e à segurança social do clube fundador relativas ao período anterior à data das referidas operações, até ao limite do valor dos activos que por este tenham sido transferidos a favor de cada sociedade.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17/97 - Diário da República n.º 250/1997, Série I-A de 1997-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1997-676808), em vigor a partir de 1997-10-28"
+  },
+  "75071108": {
+   "fragment_id": "75075986",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 31 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 25 de Agosto de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 28 de Agosto de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "933897451": {
+   "fragment_id": "75075977",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2013-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime fiscal das sociedades desportivas previstas no Decreto-Lei n.º 10/2013, de 25 de janeiro, alterado pelo Decreto-Lei n.º 49/2013, de 11 de abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+  },
+  "933897452": {
+   "fragment_id": "75075978",
+   "type": 11,
+   "heading": "Artigo 2.º — Gastos específicos",
+   "in_force_from": "2013-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+   ],
+   "markdown": "###### Artigo 2.º — Gastos específicos\n\n1 - São considerados gastos do exercício, na sua totalidade, as quantias atribuídas ao clube fundador que goze do estatuto de utilidade pública, que sejam por este investidas em instalações ou em formação desportiva.\n\n2 - Sem prejuízo do disposto no artigo 23.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (Código do IRC), os montantes pagos pela sociedade desportiva a título de exploração dos direitos de imagem dos agentes desportivos são considerados gastos em percentagem correspondente a 20 % do respetivo total.\n\n3 - Os agentes desportivos referidos no n.º 2 do presente artigo são exclusivamente os jogadores e treinadores contratados pela sociedade desportiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+  },
+  "933897453": {
+   "fragment_id": "75075979",
+   "type": 11,
+   "heading": "Artigo 3.º — Amortizações",
+   "in_force_from": "2013-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+   ],
+   "markdown": "###### Artigo 3.º — Amortizações\n\n1 - São aceites como gasto as amortizações dos ativos intangíveis correspondentes aos direitos de contratação dos jogadores profissionais, desde que inscritos em competições desportivas de carácter profissional ao serviço da sociedade desportiva ou ao serviço de outras sociedades desportivas, neste último caso quando haja cedência temporária do jogador.\n\n2 - Para efeitos do número anterior, o valor amortizável do direito de contratação fiscalmente amortizável corresponde ao respetivo custo de aquisição ou, não o havendo, aos custos de formação do atleta, devidamente certificados por revisor oficial de contas independente.\n\n3 - O valor amortizável do direito de contratação inclui, ainda, as quantias pagas pela sociedade desportiva às entidades detentoras dos direitos económico-desportivos relativos ao jogador como contrapartida da transferência, as importâncias pagas ao próprio jogador pelo facto de celebrar ou renovar o contrato e os montantes pagos pela sociedade desportiva a agentes ou mandatários, relativos a transferências de jogadores.\n\n4 - A quota anual de amortização que pode ser aceite como gasto fiscal é a que corresponde à aplicação das taxas de amortização determinadas em função da duração do contrato celebrado com a sociedade, utilizando o método das quotas constantes.\n\n5 - Excluem-se do disposto no número anterior os valores pagos ou, por qualquer forma, atribuídos a quaisquer entidades residentes fora do território português e aí submetidas a um regime fiscal claramente mais favorável, designadamente quando o território de residência das mesmas conste da lista aprovada por portaria do membro do Governo responsável pela área das finanças.\n\n6 - Considera-se revisor oficial de contas independente aquele que não faça parte dos órgãos sociais e demais órgãos estatutários do clube ou da sociedade desportiva, nem com estes possua relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+  },
+  "933897454": {
+   "fragment_id": "75075980",
+   "type": 11,
+   "heading": "Artigo 4.º — Reinvestimento dos valores de realização",
+   "in_force_from": "2013-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+   ],
+   "markdown": "###### Artigo 4.º — Reinvestimento dos valores de realização\n\nÀ diferença positiva entre as mais-valias e as menos-valias realizadas mediante transmissão onerosa dos elementos do ativo referidos no artigo anterior é aplicável, com as devidas adaptações, o disposto no artigo 48.º do Código do IRC, desde que o valor da realização correspondente à totalidade desses elementos seja reinvestido na contratação de jogadores ou na aquisição de bens do ativo tangível afetos a fins desportivos, até ao final do terceiro exercício seguinte ao da realização.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+  },
+  "933897455": {
+   "fragment_id": "75075981",
+   "type": 11,
+   "heading": "Artigo 5.º — Isenção de imposto municipal sobre as transmissões onerosas de imóveis (IMT), imposto do selo e emolumentos",
+   "in_force_from": "2013-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15",
+    "Retificado pelo/a [Declaração de Rectificação n.º 17/97 - Diário da República n.º 250/1997, Série I-A de 1997-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1997-676808), em vigor a partir de 1997-10-28"
+   ],
+   "markdown": "###### Artigo 5.º — Isenção de imposto municipal sobre as transmissões onerosas de imóveis (IMT), imposto do selo e emolumentos\n\n1 - Às sociedades que se reorganizem nos termos do Decreto-Lei n.º 10/2013, de 25 de janeiro, alterado pelo Decreto-Lei n.º 49/2013, de 11 de abril, podem ser concedidos os seguintes benefícios:\n\na) Isenção total ou parcial de IMT relativamente à transmissão de bens imóveis necessários à reorganização, a aprovar pelo órgão autárquico competente após ter sido reconhecido o interesse municipal da referida reorganização;\n\nb) Isenção de imposto do selo, dos emolumentos e de outros encargos legais que se mostrem devidos pela prática de todos os atos inseridos no processo de reorganização.\n\n2 - Para efeitos do disposto no número anterior, considera-se reorganização:\n\na) A constituição de sociedades desportivas, mediante integração da totalidade ou de parte dos ativos dos clubes desportivos afetos ao exercício de uma atividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa atividade deixe de ser exercida pelo clube desportivo e passe a sê-lo pela sociedade desportiva;\n\nb) A incorporação por sociedades desportivas da totalidade ou de parte dos ativos dos clubes desportivos afetos ao exercício de uma atividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa atividade deixe de ser exercida pelo clube desportivo e passe a sê-lo pela sociedade desportiva;\n\nc) A constituição de sociedades mediante a integração de parte dos ativos dos clubes desportivos afetos ao exercício de uma atividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa atividade deixe de ser exercida pelo clube e passe a sê-lo pela nova sociedade e o capital desta seja maioritariamente detido por uma sociedade desportiva ou pelo clube fundador;\n\nd) A incorporação, por uma sociedade já constituída, de parte dos ativos de clubes desportivos afetos ao exercício de uma atividade que constitua, do ponto de vista técnico, uma exploração autónoma, desde que essa atividade deixe de ser exercida pelo clube e passe a sê-lo pela sociedade e o capital desta seja maioritariamente detido por uma sociedade desportiva ou pelo clube fundador.\n\n3 - Sem prejuízo do disposto na alínea a) do n.º 1, os benefícios são concedidos por despacho do membro do Governo responsável pela área das finanças, a pedido dos clubes desportivos, mediante parecer da Autoridade Tributária e Aduaneira (AT), devendo o requerimento, feito em triplicado, conter os elementos necessários à respetiva apreciação e ser acompanhado de documentos comprovativos do interesse municipal e do valor da taxa de IMT fixado pelo órgão autárquico competente.\n\n4 - A AT deve solicitar:\n\na) À entidade competente da Administração Pública que tutela o desporto, a emissão de parecer sobre a verificação dos pressupostos referidos no n.º 1;\n\nb) Ao Instituto dos Registos e do Notariado, a emissão de parecer sobre a verificação dos pressupostos a que se refere o n.º 2.\n\n5 - (Revogado.)\n\n6 - Os pareceres referidos no n.º 4 devem ser emitidos no prazo de 30 dias a contar da data da receção, presumindo-se que se dão por verificados os pressupostos se não houver resposta dentro do prazo referido.\n\n7 - Os documentos comprovativos do reconhecimento do interesse municipal e do valor da taxa do IMT fixado pelo competente órgão autárquico são considerados como renúncia à compensação, total ou parcial, nos termos e para os efeitos do disposto na Lei n.º 2/2007, de 15 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17/97 - Diário da República n.º 250/1997, Série I-A de 1997-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1997-676808), em vigor a partir de 1997-10-28"
+  },
+  "933897456": {
+   "fragment_id": "75075982",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposição transitória",
+   "in_force_from": "2013-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+   ],
+   "markdown": "###### Artigo 6.º — Disposição transitória\n\n1 - À transmissão dos elementos do ativo do clube desportivo para a sociedade desportiva ou para outra sociedade, cujo capital social seja maioritariamente detido pela sociedade desportiva ou pelo clube fundador aplica-se, durante os primeiros cinco anos a contar da data do início da atividade, com as necessárias adaptações, o disposto no artigo 74.º do Código do IRC.\n\n2 - Os elementos do ativo a transmitir podem ser reavaliados pelo clube desportivo tendo por base valores certificados por revisor oficial de contas independente, nos mesmos termos do disposto no n.º 6 do artigo 3.º\n\n3 - Para efeitos de determinação do lucro tributável da sociedade desportiva é aplicável, com as necessárias adaptações, relativamente ao ativo transmitido que tenha sido reavaliado nos termos do número anterior, o disposto no artigo 6.º do Decreto-Lei n.º 22/92, de 14 de fevereiro, sobre não dedutibilidade de gastos.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+  },
+  "933897457": {
+   "fragment_id": "75075983",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime de responsabilidade",
+   "in_force_from": "2013-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15",
+    "Retificado pelo/a [Declaração de Rectificação n.º 17/97 - Diário da República n.º 250/1997, Série I-A de 1997-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1997-676808), em vigor a partir de 1997-10-28"
+   ],
+   "markdown": "###### Artigo 7.º — Regime de responsabilidade\n\nA sociedade desportiva é solidariamente responsável com o clube fundador por quaisquer dívidas fiscais e à segurança social que sejam relativas ao período anterior à data da reorganização referida no artigo 5.º, até ao limite do valor dos ativos que por este tenham sido transferidos a favor da sociedade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17/97 - Diário da República n.º 250/1997, Série I-A de 1997-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-1997-676808), em vigor a partir de 1997-10-28"
+  },
+  "933897458": {
+   "fragment_id": "75075984",
+   "type": 11,
+   "heading": "Artigo 8.º — Legislação subsidiária",
+   "in_force_from": "2013-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+   ],
+   "markdown": "###### Artigo 8.º — Legislação subsidiária\n\nSão aplicáveis subsidiariamente, com as devidas adaptações, as disposições previstas no Código do Imposto sobre o Rendimento das Pessoas Colectivas e demais legislação suplementar.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 56/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/lei/56-2013-499220), em vigor a partir de 2013-08-15"
+  }
+ }
+}

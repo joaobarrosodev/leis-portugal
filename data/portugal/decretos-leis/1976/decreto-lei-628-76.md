@@ -1,0 +1,150 @@
+---
+schema_version: '1.0'
+id: pt:dre:430869:por
+title: Decreto-Lei n.º 628/76
+short_title: null
+summary: Cria um conselho de direcção no Instituto Nacional de Estatística
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Planeamento - Instituto Nacional de Estatística
+proposing_entity: null
+official_number: 628/76
+official_date: null
+publication_date: '1976-07-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 175/1976, Série I de 1976-07-28
+  number: '175'
+  series: I
+  supplement: null
+  pages: 1728 - 1729
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17500/17281729.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430869'
+  dre_path: /dr/detalhe/decreto-lei/628-1976-430869
+  internal: pt:dre:430869:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1976-430869
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1976-430869
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 44ccee090004e26edd7cd50dd5d86cd3e899458e9995bc1c2f2544f9f2d76818
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estatística
+- Instituto Nacional de Estatística
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:161173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476508:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:56:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 628/76
+
+de 28 de Julho
+
+As razões aduzidas no preâmbulo do [Decreto-Lei n.º 297/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1974-476508), de 2 de Julho, para a entrega das funções de direcção do Instituto Nacional de Estatística a um conjunto de pessoas, continuam a justificar-se na actual conjuntura.
+
+No entanto, a estrutura de direcção prevista naquele decreto-lei não se pode considerar a mais conveniente e adequada para permitir aos responsáveis o exercício suficiente dos poderes de direcção.
+
+Por esta razão, é criado no Instituto Nacional de Estatística um conselho de direcção, órgão colegial para que poderão ser designados funcionários do Instituto ou outras pessoas qualificadas, a quem passarão a competir as funções anteriormente atribuídas ao respectivo director e subdirectores.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Os poderes atribuídos pelo artigo 21.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, ao director e subdirectores do Instituto Nacional de Estatística passam a pertencer a um conselho de direcção.
+
+2. O conselho de direcção será composto por quatro membros, além do presidente.
+
+Art. 2.º O presidente e os membros do conselho de direcção exercerão as respectivas funções em comissão de serviço, por tempo indeterminado, e serão nomeados por despacho ministerial.
+
+Art. 3.º - 1. O quadro de pessoal do Instituto Nacional de Estatística previsto pelo artigo 27.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, e alterado pelo artigo 1.º do [Decreto-Lei n.º 148/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1975-161173), de 22 de Março, é acrescentado de um lugar de presidente do conselho de direcção, a que é atribuída a letra B da escala geral dos vencimentos do funcionalismo público, e de quatro lugares de membros do mesmo conselho, remunerados pela letra C daquela escala.
+
+2. São diminuídos do quadro citado no n.º 1 deste artigo os lugares de director e subdirectores.
+
+Art. 4.º Fica o Ministro das Finanças autorizado a introduzir no Orçamento Geral do Estado para 1976 as alterações necessárias para a execução do presente diploma.
+
+Art. 5.º São revogados os artigos 1.º e 2.º do [Decreto-Lei n.º 297/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1974-476508), de 2 de Julho, e o [Decreto n.º 218/75](https://diariodarepublica.pt/dr/detalhe/decreto/218-1975-336332), de 5 de Maio.
+
+Visto e aprovado em Conselho de Ministros.
+
+Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
+
+Promulgado em 13 de Julho de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

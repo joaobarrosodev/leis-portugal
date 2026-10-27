@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:382464:por
+title: Despacho Normativo n.º 103/79
+short_title: null
+summary: Determina que para o arroz destinado a semente certificada proveniente da campanha de produção de 1979 os preços
+  de aquisição pela Empresa Pública de Abastecimento de Cereais - EPAC sejam os preços de intervenção do arroz comum acrescidos
+  dos bónus por tonelada fixados neste despacho
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Agricultura e Pescas e do Comércio e Turismo
+proposing_entity: null
+official_number: 103/79
+official_date: null
+publication_date: '1979-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/1979, Série I de 1979-05-14
+  number: '110'
+  series: I
+  supplement: null
+  pages: 898 - 898
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11000/08980898.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382464'
+  dre_path: /dr/detalhe/despacho-normativo/103-1979-382464
+  internal: pt:dre:382464:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/103-1979-382464
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/103-1979-382464
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 254d7ffa7a318999d3798b85168e3d6e5dad28a4fcc32a1963952b8b0ffa5e6e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:49:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arroz
+- Comércio
+- Controlo de Qualidade
+- EPAC
+- Preço de Intervenção
+relationships:
+- type: amended_by
+  target: pt:dre:677601:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:630054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666720:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:677601:por
+  label: "Revogado pelo DN.109/80.28.03.1980.MAP, DR.IS [74] de 28.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/109-1980-677601
+  date: '1980-03-28'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:49:54Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 103/79
+
+Reconhecendo-se a enorme importância que a utilização de sementes certificadas tem no rendimento da cultura do arroz e o cada vez maior desinteresse dos agricultores pela produção de arroz de semente para certificação, foi decidido na campanha passada aumentar significativamente os diferenciais (bónus) entre os preços a pagar pela semente de arroz para certificação e para consumo.
+
+Apesar desse aumento, os agricultores multiplicadores acabaram por entregar uma parte das suas produções à indústria de descasque a preços que não justificavam as operações complementares e correspondentes demoras tornadas obrigatórias para auferirem do respectivo bónus.
+
+Com o fim de assegurar o abastecimento para o próximo ano em sementes provenientes da campanha de produção de 1979, mais uma vez se procede a um aumento no bónus, chamando, no entanto, a atenção dos produtores multiplicadores para a conveniência colectiva de que se reveste a entrega do arroz para certificação sempre que o mesmo seja produzido com esse objectivo.
+
+A urgência desta medida justifica que a mesma seja tomada mesmo antes de serem conhecidos os preços de intervenção de arroz comum para a campanha que agora se inicia e cuja fixação se fará muito em breve.
+
+Nestes termos:
+
+Ao abrigo do disposto na alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 609-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/609-a-1975-666720), de 8 de Novembro, determina-se o seguinte:
+
+1 - Para o arroz destinado a semente certificada proveniente da campanha de produção de 1979 os preços de aquisição pela Empresa Pública de Abastecimento de Cereais - EPAC são os preços de intervenção do arroz comum acrescidos dos seguintes bónus por tonelada:
+
+Semente da 1.ª geração ... 7000$00
+
+Semente da 2.ª geração ... 6500$00
+
+2 - Estes bónus aplicam-se à semente entregue pelos produtores e satisfazendo às características estabelecidas pela [Portaria n.º 479/71](https://diariodarepublica.pt/dr/detalhe/portaria/479-1971-630054), de 2 de Setembro.
+
+3 - Este despacho entra imediatamente em vigor.
+
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 18 de Abril de 1979. - O Secretário de Estado do Fomento Agrário, Francisco de Paula Ferreira Moniz Borba. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

@@ -1,0 +1,200 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0104:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0104-20000801",
+ "dre_path": null,
+ "source_lastmod": "2000-08-01",
+ "versions": [
+  {
+   "date": "1993-12-13",
+   "future": false,
+   "celex": "31993L0104",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56657a2c432e989f",
+    "1a4d4ff6688d0121",
+    "4e08693610045350",
+    "2974eadb98d71a35",
+    "dbb18e6042ff24d1",
+    "42552a6aeb98363b",
+    "18e90e145b15bd32",
+    "873a21eaa8977fff",
+    "fe84c038532129be",
+    "c3b194677729aa0a",
+    "352230e75214c51c",
+    "0b065b94cfc05d45",
+    "85952fa4e1f40afc",
+    "d7cdf9e7ba816962",
+    "82fe84610c930ab6",
+    "97e96510be3f3bfd",
+    "9dcd95e04fbb91bc",
+    "fd8ac9dd68a20ff2",
+    "dcd8e28518a5a074",
+    "3ec261c0d37a6b35"
+   ]
+  }
+ ],
+ "fragments": {
+  "56657a2c432e989f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/104/CE do Conselho, de 23 de Novembro de 1993, relativa a determinados aspectos da organização do tempo de trabalho** *Jornal Oficial nº L 307 de 13/12/1993 p. 0018 - 0024*\n\nDIRECTIVA 93/104/CE DO CONSELHO de 23 de Novembro de 1993 relativa a determinados aspectos da organização do tempo de trabalho\n\nO CONSELHO DA UNIAO EUROPEIA;\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 118ºA,\n\nTendo em conta a proposta da Comissão(1),\n\nEm cooperação com o Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando que o artigo 118ºA do Tratado prevê que o Conselho adopte, por meio de directiva, as prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de assegurar um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, as directivas em questão devem evitar impor restrições administrativas, financeiras e jurídicas contrárias à criação e desenvolvimento de pequenas e médias empresas;\n\nConsiderando que o disposto na Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho(4), se aplica plenamente aos domínios abrangidos pela presente directiva, sem prejuízo de disposições mais restritivas e/ou específicas contidas nesta última;\n\nConsiderando que a Carta Comunitária dos Direitos Sociais Fundamentais dos Trabalhadores, adoptada pelos chefes de Estado ou de Governo de onze Estados-membros na reunião do Conselho Europeu de Estrasburgo de 9 de Dezembro de 1989, declara, nomeadamente no primeiro parágrafo do ponto 7, no ponto 8 e no primeiro parágrafo do ponto 19, que:\n\n«7. A concretização do mercado interno deve conduzir a uma melhoria das condições de vida e de trabalho dos trabalhadores na Comunidade Europeia. Este processo efectur-se-á pela aproximação no progresso dessas condições, nomeadamente no que se refere à duração e organização do tempo de trabalho e às formas de trabalho para além do trabalho de duração indeterminada, tais como o trabalho de duração determinada, o trabalho a tempo parcial, o trabalho temporário e o trabalho sazonal.\n\n8. Todos os trabalhadores da Comunidade Europeia têm direito ao descanso semanal e a férias remuneradas cuja duração deve ser aproximada no progresso, de acordo com as práticas nacionais.\n\n19. Todos os trabalhadores devem beneficiar de condições satisfatórias de protecção da saúde da segurança no ambiente de trabalho. Devem ser tomadas medidas adequadas para prosseguir a harmonização no progresso das condições existentes neste domínio.»;\n\nConsiderando que a melhoria da segurança, da higiene e de saúde dos trabalhadores no trabalho constitui um objectivo que não se pode subordinar a considerações de ordem puramente económica;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno;\n\nConsiderando que a adopção de prescrições mínimas em matéria de organização do tempo de trabalho é susceptível de melhorar as condições de trabalho dos trabalhadores na Comunidade;\n\nConsiderando que, para que sejam garantidas a segurança e a saúde dos trabalhadores da Comunidade, estes devem beneficiar de períodos mínimos de descanso - diários, semanais e anuais - e de períodos de pausa adequados; que, assim sendo, é conveniente prever igualmente um limite máximo para o horário de trabalho semanal;\n\nConsiderando que é conveniente ter em conta os princípios da Organização Internacional do Trabalho em matéria de organização do tempo de trabalho, incluindo os relativos ao trabalho nocturno;\n\nConsiderando que, no que respeita ao período de descanso semanal, convém ter devidamente em conta a diversidade dos factores culturais, étnicos, religiosos e outros que prevalecem nos diferentes Estados-membros; que, em particular, incumbe em última análise a cada Estado-membro decidir se o domingo deve estar incluído no descanso semanal e, no caso afirmativo, em que medida;\n\nConsiderando que estudos efectuados demonstraram que, durante a noite, o organismo humano é mais sensível às perturbações ambientais e a certas formas penosas de organização do trabalho e que a prestação de longos períodos de trabalho nocturno é prejudicial para a saúde dos trabalhadores e pode ameaçar a sua segurança no trabalho;\n\nConsiderando que se deve limitar a duração do trabalho nocturno, incluindo as horas extrãordinárias, e prever que, quando recorra regularmente ao trabalho nocturno, a entidade patronal deve informar do facto as autoridades competentes, a pedido destas;\n\nConsiderando que importa que os trabalhadores nocturnos beneficiem de um exame gratuito destinado a avaliar o seu estado de saúde antes da respectiva colocação e em seguida a intervalos regulares, e que, se sofrerem de problemas de saúde, sejam transferidos, na medida do possível, para um trabalho diurno que estejam aptos a desempenhar;\n\nConsiderando que a situação dos trabalhadores nocturnos e dos trabalhadores por turnos exige que o nível de protecção de que gozam em matéria de segurança e de saúde seja compatível com a natureza das suas tarefas e que os serviços e meios de protecção e de prevenção estejam organizados e funcionem de forma eficaz;\n\nConsiderando que as modalidades de trabalho podem ter efeitos prejudiciais para a segurança e a saúde dos trabalhadores; que a organização do trabalho segundo um certo ritmo deve atender ao princípio geral da adaptação do trabalho ao homem;\n\nConsiderando que, dada a natureza específica do trabalho, pode ser necessário tomar medidas separadas no que respeita à organização do tempo de trabalho em determinados sectores ou actividades excluídos do âmbito de aplicação da presente directiva;\n\nConsiderando que em face das questões susceptíveis de serem originadas pela organização do tempo de trabalho, se afigura oportuno prever uma certa flexibilidade na aplicação de determinadas disposições da presente directiva, assegurando ao mesmo tempo a observância dos princípios da protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que é conveniente prever que certas disposições da presente directiva possam ser objecto de derrogações a pôr em prática pelos Estados-membros ou pelos parceiros sociais, consoante o caso; que, regra geral, em caso de derrogação, devem ser concedidos aos trabalhadores em causa períodos equivalentes de descanso compensatório;\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1a4d4ff6688d0121": {
+   "fragment_id": "SECÇÃO I ÂMBITO DE APLICAÇÃO - DEFINIÇÕES — Artigo 1º",
+   "type": "divisao",
+   "heading": "SECÇÃO I ÂMBITO DE APLICAÇÃO - DEFINIÇÕES — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I ÂMBITO DE APLICAÇÃO - DEFINIÇÕES — Artigo 1º\n\nObjecto e âmbito de aplicação\n\n1. A presente directiva estabelece prescrições mínimas de segurança e de saúde em matéria de organização do tempo de trabalho.\n\n2. A presente directiva aplica-se:\n\na) Aos períodos mínimos de descanso diário, semanal e anual, bem como aos períodos de pausa e à duração máxima do trabalho semanal;\n\ne\n\nb) A certos aspectos do trabalho nocturno, do trabalho por turnos e do ritmo de trabalho.\n\n3. A presente directiva é aplicável a todos os sectores de actividade, privados ou públicos, na acepção do artigo 2º da Directiva 89/391/CEE, sem prejuízo do disposto no artigo 17º da presente directiva, com excepção dos transportes aéreos, ferroviários, rodoviários, marítimos, da navegação interna, da pesca marítima e de outras actividades no mar, bem como das actividades dos médicos em formação.\n\n4. O disposto na Directiva 89/391/CEE é integralmente aplicável às áreas referidas no nº 2, sem prejuízo de disposições mais restritivas e/ou específicas contidas na presente directiva."
+  },
+  "4e08693610045350": {
+   "fragment_id": "Artigo 2º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Definições\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n1. Tempo de trabalho: qualquer período durante o qual o trabalhador está a trabalhar ou se encontra à disposição da entidade patronal e no exercício da sua actividade ou das suas funções, de acordo com a legislação e/ou a prática nacional;\n\n2. Período de descanso: qualquer período que não seja tempo de trabalho;\n\n3. Período nocturno: qualquer período de pelo menos sete horas, tal como definido na legislação nacional e que inclua sempre o intervalo entre as vinte e quatro horas e as cinco horas;\n\n4. Trabalhador nocturno:\n\na) Por um lado, qualquer trabalhador que execute durante o período nocturno pelo menos três horas do seu tempo de trabalho diário executadas normalmente;\n\nb) Por outro lado, qualquer trabalhador susceptível de realizar durante o período nocturno uma certa parte do seu tempo de trabalho anual, definida segundo o critério do Estado-membro em causa:\n\ni) pela legislação nacional, após consulta aos parceiros sociais\n\nou\n\nii) por convenções colectivas ou acordos celebrados entre parceiros sociais a nível nacional ou regional;\n\n5. Trabalho por turnos: qualquer modo de organização do trabalho em equipa em que os trabalhadores ocupem sucessivamente os mesmos postos de trabalho, a um determinado ritmo, incluindo o ritmo rotativo, e que pode ser de tipo contínuo ou descontínuo, o que implica que os trabalhadores executem o trabalho a horas diferentes no decurso de um dado período de dias ou semanas;\n\n6. Trabalhador por turnos: qualquer trabalhador cujo horário de trabalho se enquadre no âmbito do trabalho por turnos."
+  },
+  "2974eadb98d71a35": {
+   "fragment_id": "SECÇÃO II PERÍODOS MÍNIMOS DE DESCANSO - OUTROS ASPECTOS — Artigo 3º",
+   "type": "divisao",
+   "heading": "SECÇÃO II PERÍODOS MÍNIMOS DE DESCANSO - OUTROS ASPECTOS — Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II PERÍODOS MÍNIMOS DE DESCANSO - OUTROS ASPECTOS — Artigo 3º\n\nDescanso diário\n\nOs Estados-membros tomarão as medidas necessárias para que todos os trabalhadores beneficiem de um período mínimo de descanso de onze horas consecutivas por cada período de vinte e quatro horas."
+  },
+  "dbb18e6042ff24d1": {
+   "fragment_id": "Artigo 4º — Pausas",
+   "type": "artigo",
+   "heading": "Artigo 4º — Pausas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Pausas\n\nOs Estados-membros tomarão as medidas necessárias para que, no caso de o período de trabalho diário ser superior a seis horas, todos os trabalhadores beneficiem de pausas, cujas modalidades, nomeadamente duração e condições de concessão, serão fixadas por convenções colectivas ou acordos celebrados entre parceiros sociais ou, na sua falta, pela legislação nacional."
+  },
+  "42552a6aeb98363b": {
+   "fragment_id": "Artigo 5º — Descanso semanal",
+   "type": "artigo",
+   "heading": "Artigo 5º — Descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Descanso semanal\n\nOs Estados-membros tomarão as medidas necessárias para que todos os trabalhadores beneficiem, por cada período de sete dias, de um período mínimo de descanso ininterrupto de vinte e quatro horas às quais se adicionam as onze horas, de descanso diário previstas no artigo 3º\n\nO período mínimo de descanso referido no primeiro parágrafo inclui, em princípio, o domingo.\n\nCaso condições objectivas, técnicas ou de organização do trabalho o justifiquem, pode ser adoptado um período mínimo de descanso de vinte e quatro horas."
+  },
+  "18e90e145b15bd32": {
+   "fragment_id": "Artigo 6º — Duração máxima do trabalho semanal",
+   "type": "artigo",
+   "heading": "Artigo 6º — Duração máxima do trabalho semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Duração máxima do trabalho semanal\n\nOs Estados-membros tomarão as medidas necessárias para que, em função dos imperativos de protecção da segurança e da saúde dos trabalhadores:\n\n1. A duração semanal do trabalho seja limitado através de disposições legislativas, regulamentares ou administrativas ou de convenções colectivas ou acordos celebrados entre parceiros sociais;\n\n2. A duração média do trabalho em cada período de sete dias não exceda quarente e oito horas, incluindo as horas extrãordinárias, em cada período de sete dias."
+  },
+  "873a21eaa8977fff": {
+   "fragment_id": "Artigo 7º — Férias anuais",
+   "type": "artigo",
+   "heading": "Artigo 7º — Férias anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Férias anuais\n\n1. Os Estados-membros tomarão as medidas necessárias para que todos os trabalhadores beneficiem de férias anuais remuneradas de pelo menos quatro semanas, de acordo com as condições de obtenção e de concessão previstas nas legislações e/ou práticas nacionais.\n\n2. O período mínimo de férias anuais remuneradas não pode ser substituído por retribuição financeira, excepto nos casos de cessação da relação de trabalho."
+  },
+  "fe84c038532129be": {
+   "fragment_id": "SECÇÃO III TRABALHO NOCTURNO - TRABALHO POR TURNOS - RITMO DE TRABALHO — Artigo 8º",
+   "type": "divisao",
+   "heading": "SECÇÃO III TRABALHO NOCTURNO - TRABALHO POR TURNOS - RITMO DE TRABALHO — Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III TRABALHO NOCTURNO - TRABALHO POR TURNOS - RITMO DE TRABALHO — Artigo 8º\n\nDuração do trabalho nocturno\n\nOs Estados-membros tomarão as medidas necessárias para que:\n\n1. O tempo de trabalho normal dos trabalhadores nocturnos não ultrapasse oito horas, em média, por cada período de vinte e quatro horas;\n\n2. Os trabalhadores nocturnos cuja trabalho implique riscos especiais ou uma tensão física ou mental significativa não trabalhem mais de oito horas num período de vinte e quatro horas durante o qual executem trabalho nocturno.\n\nPara efeitos do presente ponto, o trabalho que implique riscos especiais ou uma tensão física ou mental significativa deve ser definido pelas legislações e/ou práticas nacionais ou por convenções colectivas ou acordos celebrados entre parceiros sociais, atendendo aos efeitos e riscos inerentes ao trabalho nocturno."
+  },
+  "c3b194677729aa0a": {
+   "fragment_id": "Artigo 9º — Avaliação do estado de saúde e transferência dos trabalhadores nocturnos para um trabalho diurno",
+   "type": "artigo",
+   "heading": "Artigo 9º — Avaliação do estado de saúde e transferência dos trabalhadores nocturnos para um trabalho diurno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Avaliação do estado de saúde e transferência dos trabalhadores nocturnos para um trabalho diurno\n\n1. Os Estados-membros tomarão as medidas necessárias para que:\n\na) Os trabalhadores nocturnos, antes da sua colocação e, seguidamente, a intervalos regulares, beneficiem de um exame gratuito destinado a avaliar o seu estado de saúde;\n\nb) Os trabalhadores nocturnos que sofram de problemas de saúde que se reconhecidos como estando relacionados com o facto de esses trabalhadores executarem um trabalho nocturno, sejam transferidos, sempre que possível, para um trabalho diurno que estejam aptos a desempenhar.\n\n2. O exame de saúde gratuito a que se refere a alínea a) do nº 1 deve respeitar o sigilo médico.\n\n3. O exame de saúde gratuito a que se refere a alinea a) do nº 1 pode ser efectuado no âmbito de um sistema nacional de saúde."
+  },
+  "352230e75214c51c": {
+   "fragment_id": "Artigo 10º — Garantias relativas ao trabalho em período nocturno",
+   "type": "artigo",
+   "heading": "Artigo 10º — Garantias relativas ao trabalho em período nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Garantias relativas ao trabalho em período nocturno\n\nOs Estados-membros podem sujeitar o trabalho executado por determinadas categorias de trabalhadores nocturnos a cartas garantias, em condições fixadas pelas legislações e/ou práticas nacionais, no caso de trabalhadores que corram riscos de segurança ou de saúde relacionados com o trabalho durante o período nocturno."
+  },
+  "0b065b94cfc05d45": {
+   "fragment_id": "Artigo 11º — Informação em caso de recurso regular a trabalhadores nocturnos",
+   "type": "artigo",
+   "heading": "Artigo 11º — Informação em caso de recurso regular a trabalhadores nocturnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Informação em caso de recurso regular a trabalhadores nocturnos\n\nOs Estados-membros tomarão as medidas necessárias para que as entidades patronais que recorrem regularmente a trabalhadores nocturnos informem desse facto as autoridades competentes, a pedido destas."
+  },
+  "85952fa4e1f40afc": {
+   "fragment_id": "Artigo 12º — Protecção em matéria de segurança e de saúde",
+   "type": "artigo",
+   "heading": "Artigo 12º — Protecção em matéria de segurança e de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Protecção em matéria de segurança e de saúde\n\nOs Estados-membros tomarão as medidas necessárias para que:\n\n1. Os trabalhadores nocturnos e os trabalhadores por turnos beneficiem de um nível de protecção em matéria de segurança e de saúde adequado à natureza do trabalho que excercem;\n\n2. Os serviços ou meios adequados de protecção e prevenção em matéria de segurança e de saúde dos trabalhadores nocturnos e dos trabalhadores por turnos sejam equivalentes aos que são aplicáveis aos restantes trabalhadores e se encontrem disponíveis a qualquer momento."
+  },
+  "d7cdf9e7ba816962": {
+   "fragment_id": "Artigo 13º — Ritmo de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 13º — Ritmo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Ritmo de trabalho\n\nOs Estados-membros tomarão as medidas necessárias para que as entidades patronais que pretendam organizar o trabalho segundo um certo ritmo tenham em conta o princípio geral da adaptação do trabalho ao homem, com vista, nomeadamente, a atenuar o trabalho monótono e o trabalho cadenciado em função do tipo de actividade e das exigências em matéria de segurança e de saúde, em especial no que se refere às pausas durante o tempo de trabalho."
+  },
+  "82fe84610c930ab6": {
+   "fragment_id": "SECÇÃO IV DISPOSIÇÕES DIVERSAS — Artigo 14º",
+   "type": "divisao",
+   "heading": "SECÇÃO IV DISPOSIÇÕES DIVERSAS — Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV DISPOSIÇÕES DIVERSAS — Artigo 14º\n\nDisposições comunitárias mais específicas\n\nO disposto na presente directiva não se aplica na medida em que existam outros instrumentos comunitários que contenham disposições mais específicas na matéria, respeitantes a determinadas ocupações ou actividades profissionais."
+  },
+  "97e96510be3f3bfd": {
+   "fragment_id": "Artigo 15º — Disposições mais favoráveis",
+   "type": "artigo",
+   "heading": "Artigo 15º — Disposições mais favoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Disposições mais favoráveis\n\nA presente directiva não impede os Estados-membros de aplicarem ou introduzirem disposições legislativas, regulamentares ou administrativas mais favoráveis à protecção da segurança e da saúde dos trabalhadores, ou de promoverem ou permitirem a aplicação de convenções colectivas ou acordos celebrados entre parceiros sociais mais favoráveis à protecção da segurança e da saúde dos trabalhadores."
+  },
+  "9dcd95e04fbb91bc": {
+   "fragment_id": "Artigo 16º — Períodos de referência",
+   "type": "artigo",
+   "heading": "Artigo 16º — Períodos de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Períodos de referência\n\nOs Estados-membros podem prever:\n\n1. Para efeitos de aplicação do artigo 5º (descanso semanal), um período de referência não superior a catorze dias;\n\n2. Para efeitos de aplicação do artigo 6º (duração máxima do trabalho semanal), um período de referência não superior a quatro meses.\n\nOs períodos de férias anuais remuneradas, atribuídos nos termos do artigo 7º, e os períodos de ausência por doença não serão tomados em consideração ou serão considerados neutros para cálculo da média;\n\n3. Para efeitos de aplicação do artigo 8º (duração do trabalho nocturno), um período de referência definido após consulta aos parceiros sociais ou por convenções colectivas ou acordos celebrados a nível nacional ou regional entre parceiros sociais.\n\nSe o período mínimo de descanso semanal de vinte e quatro horas exigido no artigo 5º coincidir com o período de referência, não será tomado em consideração para o cálculo da média."
+  },
+  "fd8ac9dd68a20ff2": {
+   "fragment_id": "Artigo 17º — Derrogações",
+   "type": "artigo",
+   "heading": "Artigo 17º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º — Derrogações\n\n1. Respeitando dos princípios gerais de protecção da segurança e da saúde dos trabalhadores, os Estados-membros podem estabelecer derrogações aos artigos 3º, 4º, 5º, 6º, 8º e 16º, sempre que, em virtude das características especiais da actividade exercida, a duração do tempo de trabalho não seja medida e/ou pré-determinada ou possa ser determinada pelos próprios trabalhadores e, nomeadamente, quando se trate:\n\na) De quadros dirigentes ou de outras pessoas que tenham poder de decisão autónomo;\n\nb) De mão-de-obra de familiares\n\nou\n\nc) De trabalhadores do domínio litúrgico, das igrejas e das comunidades religiosas.\n\n2. Podem ser previstas derrogações por via legislativa, regulamentar ou administrativa, ou ainda por via de convenções colectivas ou de acordos celebrados entre parceiros sociais, desde que sejam concedidos aos trabalhadores em causa períodos equivalentes de descanso compensatório ou que, nos casos excepcionais em que não seja possível, por razões objectivas, a concessão de períodos equivalentes de descanso compensatório seja concedida aos trabalhadores em causa uma protecção adequada:\n\n2.1. Aos artigos 3º, 4º, 5º 8º e 16º:\n\na) No caso de actividades caracterizadas por um afastamento entre o local de trabalho e o local de residência do trabalhador ou por um afastamento entre diferentes locais de trabalho do trabalhador;\n\nb) No caso de actividades de guarda, de vigilância e de permanência caracterizada pela necessidade de assegurar a protecção de pessoas e bens, nomeadamente quando se trate de guardas e porteiros ou de empresas de segurança;\n\nc) No caso de actividades caracterizadas pela necessidade de assegurar a continuidade do serviço ou da produção, nomeadamente quando se trate:\n\ni) de serviços ligados à recepção, tratamento e/ou cuidados dispensados em hospitais ou estabelecimentos semelhantes, instituições residenciais e prisões;\n\nii) de pessoas que trabalhem em portos ou aeroportos,\n\niii) de serviços de imprensa, rádio, televisão, produção cinematográfica, correios ou telecomunicações, ambulância, sapadores-bombeiros ou protecção civil,\n\niv) de serviços de produção, de transmissão e de distribuição de gás, água ou electricidade, de serviços de recolha de lixo ou de instalações de incineração,\n\nv) de indústrias em que o processo de trabalho não possa ser interrompido por razões técnicas,\n\nvi) de actividades de investigação e desenvolvimento,\n\nvii) da agricultura;\n\nd) Em caso de acréscimo previsível de actividade, nomeadamente\n\ni) na agricultura,\n\nii) no turismo\n\nou\n\niii) nos serviços postais;\n\n2.2. Aos artigos 3º, 4º, 5º, 8º e 16º:\n\na) Nas circunstâncias previstas no nº 4 do artigo 5º da Directiva 89/391/CEE;\n\nb) Em caso de acidente ou de risco de acidente iminente;\n\n2.3. Aos artigos 3º e 5º:\n\na) No caso de actividades de trabalho por turnos, sempre que o trabalhador mude de equipa e não possa beneficiar de períodos de descanso diário e/ou semanal entre o fim da sua actividade numa equipa e o início da sua participação na seguinte;\n\nb) No caso de actividades caracterizadas por períodos de trabalho fraccionados ao longo do dia, nomeadamente do pessoal dos serviços de limpeza.\n\n3. Pode-se derrogar ao disposto nos artigos 3º, 4º, 5º, 8º e 16º por meio de convenções colectivas ou de acordos celebrados entre parceiros sociais a nível nacional ou regional ou, nos termos das regras fixadas por estes parceiros sociais, através de convenções colectivas ou acordos celebrados entre parceiros sociais a um nível inferior.\n\nOs Estados-membros em que, juridicamente, não exista um sistema que garanta a celebração de convenções colectivas ou de acordos celebrados entre parceiros sociais a nível nacional ou regional, nas matérias abrangidas pela presente directiva, ou os Estados-membros em que exista uma estrutura legislativa específica para o efeito e nos limites da mesma podem, nos termos das legislações e/ou práticas nacionais, autorizar derrogações aos artigos 3º, 4º, 5º, 8º e 16º, por meio de convenções colectivas ou de acordos celebrados entre parceiros sociais ao nível colectivo adequado.\n\nAs derrogações previstas no primeiro e segundo parágrafos só serão permitidas desde que sejam concedidos aos trabalhadores em causa períodos equivalentes de descanso compensatório ou que, nos casos excepcionais em que não seja possível, por razões objectivas, a concessão destes períodos de descanso compensatório, seja concedida aos trabalhadores em causa uma protecção adequada.\n\nOs Estados-membros podem prever regras destinadas:\n\n- à aplicação do presente número pelos parceiros sociais, e\n\n- ao alargamento das disposições das convenções colectivas ou dos acordos celebrados nos termos do presente número a outros trabalhadores, de acordo com as legislações e/ou práticas nacionais.\n\n4. A faculdade de aplicar derrogações ao ponto 2 do artigo 16º, prevista nos pontos 2.1 e 2.2 do nº 2 e no nº 3 do presente artigo, não pode ter como efeito a fixação de um período de referência que ultrapasse seis meses.\n\nTodavia, os Estados-membros têm a possibilidade, desde que respeitem os princípios gerais de protecção das segurança e da saúde dos trabalhadores, de permitir que, por razões objectivas, técnicas ou de organização do trabalho, as convenções colectivas ou acordos celebrados entre parceiros sociais fixem períodos de referência que não ultrapassem em caso algum doze meses.\n\nAntes de terminar um período de sete anos a contar da data prevista no nº 1, alínea a), do artigo 18º, o Conselho, com base numa proposta da Comissão acompanhada de um relatório de avaliação, reverá o disposto no presente número e decidirá sobre o seguimento a dar-lhe."
+  },
+  "dcd8e28518a5a074": {
+   "fragment_id": "Artigo 18º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 18º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º — Disposições finais\n\n1. a) Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar em 23 de Novembro de 1996, ou providenciarão, o mais tardar até essa data, para que os parceiros sociais apliquem as disposições necessárias, por via de acordo, devendo os Estados-membros tomar todas as medidas adequadas para, em qualquer momento, garantir os resultados impostos pela presente directiva.\n\nb) i) Todavia, um Estado-membro tem a possibilidade de não aplicar o artigo 6º respeitando embora os princípios gerais de protecção da segurança e da saúde dos trabalhadores e desde que tome as medidas necessárias para assegurar que:\n\n- nenhuma entidade patronal exija a um trabalhador que trabalhe mais de quarenta o oito horas durante um período de sete dias, calculado como médio do período de referência mencionado no ponto 2 do artigo 16º, a menos que tenha obtido o acordo do trabalhador para efectuar esse trabalho,\n\n- nenhum trabalhador possa ser prejudicado pelo facto de não estar disposto a aceder a efectuar esse trabalho,\n\n- a entidade patronal disponha de registos actualizados de todos os trabalhadores que efectuem esse trabalho,\n\n- os registos sejam postos à disposição das autoridades competentes, que podem proibir ou restringir, por razões de segurança e/ou de saúde dos trabalhadores, a possibilidade de ultrapassar o período máximo semanal de trabalho,\n\n- a entidade patronal, a pedido das autoridades competentes, forneça às mesmas informações sobre as anuências dos trabalhadores no sentido de efectuarem um trabalho que ultrapasse quarenta e oito horas durante um período de sete dias, calculado como média do período de referência mencionado no ponto 2 do artigo 16º\n\nAntes de terminar um período de sete anos a contar da data prevista na alínea a), o Conselho, com base numa proposta da Comissão acompanhada de um relatório de avaliação, reverá o disposto na presente subalínea i) e decidirá sobre o seguimento a dar-lhe.\n\nii) Do mesmo modo, os Estados-membros têm a possibilidade, no que respeita à aplicação do artigo 7º, de utilizar um período de transição máximo de três anos a contar da data prevista na alínea a), desde que, durante esse período de transição:\n\n- todos os trabalhadores beneficiem de férias anuais remuneradas de três semanas, em conformidade com as condições de obtenção e de concessão previstas nas legislações e/ou práticas nacionais,\n\ne\n\n- o período de três semanas de férias anuais remuneradas não possa ser substituído por qualquer retribuição financeira, excepto nos casos de cessação da relação de trabalho.\n\nc) Os Estados-membros informarão imediatamente do facto a Comissão.\n\n2. Quando os Estados-membros adoptarem as disposições previstas no nº 1, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Sem prejuízo do direito de os Estados-membros desenvolverem, face à evolução da situação, disposições legislativas, regulamentares e contratuais diferentes no domínio do tempo de trabalho, desde que sejam respeitados os requisitos mínimos previstos na presente directiva, a aplicação desta não pode constituir justificação válida para fazer regredir o nível geral de protecção dos trabalhadores.\n\n4. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que adoptarem no domínio regido pela presente directiva.\n\n5. De cinco em cinco anos, os Estados-membros apresentarão à Comissão um relatório sobre a aplicação prática do disposto na presente directiva, indicando os pontos de vista dos parceiros sociais.\n\nA Comissão transmitirá essas informações ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social e ao Comité consultivo para a segurança, a higiene e a protecção da saúde no local de trabalho.\n\n6. A Comissão apresentará de cinco em cinco anos ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da presente directiva, tendo em conta os nºs 1, 2, 3, 4 e 5."
+  },
+  "3ec261c0d37a6b35": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Novembro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nM. SMET\n\n(1) JO nº C 254 de 9. 10. 1990, p. 4.\n\n(2) JO nº C 72 de 18. 3. 1991, p. 95 e decisão de 27 de Outubro de 1993 (ainda não publicada no Jornal Oficial).\n\n(3) JO nº C 60 de 8. 3. 1991, p. 26.\n\n(4) JO nº L 183 de 29. 6. 1989, p. 1."
+  }
+ }
+}

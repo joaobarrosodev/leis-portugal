@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:184221:por
+title: Portaria n.º 517/74
+short_title: null
+summary: Fixa os preços máximos de vendas de adubos ao consumidor
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e do Equipamento Social e do Ambiente - Secretarias de Estado do Abastecimento e Preços e dos Transportes
+  e Comunicações
+proposing_entity: null
+official_number: 517/74
+official_date: null
+publication_date: '1974-08-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 192/1974, 1º Suplemento, Série I de 1974-08-19
+  number: '192'
+  series: I
+  supplement: null
+  pages: 910-(17) a 910-(18)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/08/19201/00170018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '184221'
+  dre_path: /dr/detalhe/portaria/517-1974-184221
+  internal: pt:dre:184221:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-1974-184221
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-1974-184221
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:29:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 62b7a34b2212301a10d8b2477cb4acd529a8dfb7625493c444c9214d97d14fa5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:314961:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:314961:por
+  label: Mantidas em vigor as disposições constantes do presente diploma pelo(a) Portaria n.º 527/75 - Diário do Governo n.º
+    199/1975, Série I de 1975-08-29 que não contrariem o estabelecido nesta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/527-1975-314961
+  date: '1975-08-29'
+- type: cites
+  target: pt:dre:407476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:29:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 517/74
+
+de 19 de Agosto
+
+A alínea a) do artigo 4.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, determina que os bens e serviços que, em 24 de Abril de 1974, estavam sujeitos a regimes de tabelamento ou de preço fixo passem a ficar submetidos ao regime de preços máximos.
+
+Deste modo, os adubos, cujos preços se encontravam tabelados pela [Portaria n.º 96/74](https://diariodarepublica.pt/dr/detalhe/portaria/96-1974-407476), de 8 de Fevereiro, e que, por virtude da mesma, ficariam livres a partir de 1 de Julho de 1974, embora condicionados a aceitação prévia pela Administração, continuam a ficar subordinados ao regime de preços máximos.
+
+Desde o último semestre de 1973, múltiplos factores têm vindo a agravar fortemente os custos de produção dos adubos na generalidade dos países, salientando-se os aumentos verificados nos custos de algumas matérias-primas. No nosso país, as fosforites e o fuelóleo aumentaram cerca de 240% e 103%, respectivamente, enquanto a nafta sofreu um agravamento da ordem dos 400%, devido à subida das cotações internacionais e ao facto de a situação financeira do Fundo de Abastecimento não permitir manter o subsídio anteriormente concedido à nafta destinada ao fabrico de adubos. A incidência destes agravamentos nos preços dos adubos elementares traduz-se por aumentos que variam de 33% a 40% nos azotados e são da ordem dos 90% dos fosfatados.
+
+Outro factor que contribui para a subida dos preços é o custo do transporte, pois que a tarifa incluída no preço dos adubos, fixada em 1951, não sofreu alteração desde essa data, apesar dos sucessivos agravamentos do referido custo, até aqui suportados pelos fundos públicos. Houve agora que proceder a uma actualização daquela tarifa, cuja quantificação mais rigorosa deverá, no entanto, vir a ser considerada no âmbito, da definição de uma política adequada de transporte e distribuição de adubos a estabelecer no mais breve prazo possível.
+
+Nestes termos:
+
+Ao abrigo do disposto no n.º 1 do artigo 2.º e na alínea b) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho:
+
+Manda o Governo Provisório da República Portuguesa, pelos Secretários de Estado do Abastecimento e Preços e dos Transportes e Comunicações, o seguinte:
+
+1.º Os preços máximos de vendas de adubos ao consumidor são os seguintes:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/19201/00170018.pdf)
+
+2.º Os preços máximos fixados referem-se a mercadoria vendida ao consumidor, a pronto pagamento e colocada na estação de destino, quando transportada por caminho de ferro, ou nos depósitos dos revendedores, quando transportada por camionagem.
+
+3.º - 1. Estes preços poderão ser onerados com:
+
+a) Os encargos inerentes ao transporte desde as estações de destino ao armazém do revendedor, quando devidamente autorizados pela Direcção-Geral de Fiscalização Económica;
+
+b) Os maiores custos da embalagem, nos casos em que, a pedido do comprador, os adubos sejam acondicionados num tipo de saco diferente daquele a que se refere o n.º 1.º desta portaria;
+
+c) Os encargos financeiros resultantes das vendas a prazo.
+
+2. Qualquer destes encargos adicionais deverá constar de forma expressa nas facturas.
+
+4.º Os preços nas ilhas adjacentes podem sofrer os acréscimos inerentes aos transportes que oneram os adubos expedidos do continente, deduzidos da verba para transporte de 150$00 por tonelada, incluída nos preços máximos fixados no n.º 1.º, aplicando-se-lhes ainda o disposto no n.º 3.º desta portaria.
+
+5.º No caso de se verificarem alterações nos factores de custo que determinem variações iguais ou superiores a 3% no custo total de qualquer dos adubos considerados, os preços máximos fixados poderão ser revistos de acordo com o estabelecido no n.º 1 do artigo 7.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+6.º Ficam sujeitos ao regime de preços controlados a cianamida cálcica, a ureia, o nitrato de sódio, o fosfato Thomas, os adubos potássicos, os adubos complexos, químicos mistos e químico-orgânicos.
+
+7.º O transporte dos adubos para distâncias superiores a 50 km das fábricas ou dos locais de importação será feito por caminho de ferro, só podendo deixar de o ser por acordo prévio entre os distribuidores e a Companhia dos Caminhos de Ferro Portugueses (CP).
+
+8.º Quando se verifique a infracção do disposto no n.º 7.º, as empresas distribuidoras serão penalizadas com o pagamento à CP da importância de 150$00 por tonelada transportada.
+
+9.º - 1. Com vista à racionalização dos transportes e a garantir a normalidade do abastecimento em todas as zonas consumidoras, as empresas e a CP deverão estabelecer acordos bilaterais relativamente a condições e planos de transporte, incluindo um esquema de penalizações a atribuir às empresas ou à CP pelo não cumprimento dos acordos.
+
+2. Os acordos serão submetidos a aprovação dos Secretários de Estado do Abastecimento e Preços e dos Transportes e Comunicações, no prazo de trinta dias a contar da data da publicação deste diploma.
+
+3. Os acordos aprovados vigorarão enquanto não for definida a nova política a seguir em matéria de transportes e distribuição de adubos.
+
+10.º A presente portaria entra imediatamente em vigor.
+
+Secretarias de Estado do Abastecimento e Preços e dos Transportes e Comunicações, 19 de Agosto de 1974. - O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo. - O Secretário de Estado dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

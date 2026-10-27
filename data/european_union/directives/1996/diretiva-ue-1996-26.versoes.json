@@ -1,0 +1,269 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31996L0026:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0026-20111204",
+ "dre_path": null,
+ "source_lastmod": "2011-12-04",
+ "versions": [
+  {
+   "date": "1996-05-23",
+   "future": false,
+   "celex": "31996L0026",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7fd5e418047000a5",
+    "a8d3c78901e997cd",
+    "48d90fe3175991bb",
+    "6b297ebc7b97bf76",
+    "b8f614b5ba0778fa",
+    "24d34ce6c61cddc6",
+    "56e999cd253ba0e8",
+    "9785a6d647723911",
+    "ed77a4722a915c0e",
+    "11611fa9236da2a7",
+    "7052978edde82618",
+    "4648fb42fc9a05ac",
+    "7275e51ef280e4fb",
+    "db31709f63c5ddbf",
+    "514ddb9f514bcccc",
+    "9ba23f5b045b68ba",
+    "ac283adfda0047e5",
+    "c16743ab3adae8e4",
+    "f3411161d5f8bd12",
+    "27827d593e992ef9",
+    "ad26f1ab2db0d854",
+    "43047ca1bb419b4b",
+    "e1adc1d3542ad1cc"
+   ]
+  },
+  {
+   "date": "2011-12-04",
+   "future": false,
+   "celex": "01996L0026-20111204",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I — Acesso à profissão de transportador rodoviário",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime TÍTULO II — Reconhecimento mútuo dos diplomas, certificados e outros títulos",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime TÍTULO III — Disposições finais",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime ANEXO I — LISTA DAS MATÉRIAS REFERIDAS NO Nº 4 DO ARTIGO 3º",
+    "Suprime ANEXO II — PARTE A",
+    "Suprime PARTE B — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO III — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "044df41ac4bb9446"
+   ]
+  }
+ ],
+ "fragments": {
+  "7fd5e418047000a5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 96/26/CE do Conselho, de 29 de Abril de 1996, relativa ao acesso à profissão de transportador rodoviário de mercadorias e de transportador rodoviário de passageiros, bem como ao reconhecimento mútuo dos diplomas, certificados e outros títulos, com o objectivo de favorecer o exercício efectivo da liberdade de estabelecimento desses transportadores no domínio dos transportes nacionais e internacionais** *Jornal Oficial nº L 124 de 23/05/1996 p. 0001 - 0010*\n\nDIRECTIVA 96/26/CE DO CONSELHO de 29 de Abril de 1996 relativa ao acesso à profissão de transportador rodoviário de mercadorias e de transportador rodoviário de passageiros, bem como ao reconhecimento mútuo dos diplomas, certificados e outros títulos, com o objectivo de favorecer o exercício efectivo da liberdade de estabelecimento desses transportadores no domínio dos transportes nacionais e internacionais\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 75º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189ºC do Tratado (3),\n\nConsiderando que a Directiva 74/561/CEE do Conselho, de 12 de Novembro de 1974, relativa ao acesso à profissão de transportador rodoviário de mercadorias no domínio dos transportes nacionais e internacionais (4), a Directiva 74/562/CEE do Conselho, de 12 de Novembro de 1974, relativa ao acesso à profissão de transportador rodoviário de passageiros no domínio dos transportes nacionais e internacionais (5), e a Directiva 77/796/CEE do Conselho, de 12 de Dezembro de 1977, que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de transportador rodoviário de passageiros e que inclui medidas destinadas a facilitar o exercício efectivo da liberdade de estabelecimento desses transportadores (6), foram substancialmente alteradas várias vezes; que, por uma questão de racionalidade e de clareza, é conveniente codificar as referidas directivas, passando a existir um único texto;\n\nConsiderando que a organização do mercado dos transportes é um dos elementos necessários à execução da política comum de transportes, cuja criação está prevista no Tratado;\n\nConsiderando que a adopção de medidas com o objectivo de coordenar as condições de acesso à profissão de transportador rodoviário de mercadorias ou de passageiros (adiante designados «transportadores rodoviários») favorecerá o exercício efectivo do direito de estabelecimento desses transportadores;\n\nConsiderando que é conveniente prever a aprovação de regras comuns de acesso à profissão de transportador rodoviário no domínio dos transportes nacionais e internacionais, para assegurar uma melhoria na qualificação dos transportadores, o que contribuirá para o saneamento do mercado, para a melhoria da qualidade do serviço prestado, no interesse dos utentes, dos transportadores e da economia no seu conjunto, bem como para uma maior segurança rodoviária;\n\nConsiderando, por conseguinte, que é conveniente que as regras de acesso à profissão de transportador rodoviário abranjam a idoneidade, a capacidade financeira e a capacidade profissional dos transportadores;\n\nConsiderando, contudo, que não é necessário incluir nas regras comuns determinados transportes que têm uma fraca incidência económica;\n\nConsiderando que, desde 1 de Janeiro de 1993, o acesso ao mercado dos transportes rodoviários de mercadorias se regula por um sistema de licenças comunitárias com base em critérios qualitativos;\n\nConsiderando que, no que diz respeito à condição de idoneidade, se torna necessário, para sanear eficazmente o mercado, subordinar uniformemente o acesso à profissão de transportador rodoviário e o respectivo exercício à inexistência de condenações penais graves, incluindo no domínio comercial, à inexistência de uma declaração de inaptidão para o exercício da profissão, bem como à observância da regulamentação aplicável à actividade de transportador rodoviário;\n\nConsiderando que, no que diz respeito à condição de capacidade financeira, importa estabelecer determinados critérios que os transportadores rodoviários devem satisfazer a fim de assegurar designadamente a igualdade de tratamento das empresas dos diversos Estados-membros;\n\nConsiderando que, em matéria de idoneidade e de capacidade financeira, deve admitir-se, como prova suficiente para o acesso às actividades em questão num Estado-membro de acolhimento, a apresentação de documentos apropriados emitidos por uma autoridade competente do país de origem ou de proveniência do transportador rodoviário;\n\nConsiderando que, no que diz respeito à condição de capacidade profissional, é conveniente prever que o candidato a transportador rodoviário adquira essa capacidade através da passagem de um exame escrito, mas do qual o candidato poderá ser dispensado pelos Estados-membros se demonstrar ter experiência suficiente;\n\nConsiderando que, em matéria de capacidade profissional, o atestado emitido nos termos das disposições comunitárias relativas ao acesso à profissão de transportador rodoviário deve ser reconhecido como prova suficiente pelo Estado-membro de acolhimento;\n\nConsiderando que é conveniente prever um sistema de assistência mútua entre os Estados-membros para efeitos da presente directiva;\n\nConsiderando que a presente directiva não afecta as obrigações dos Estados-membros relativas aos prazos de transposição ou de aplicação das directivas que figuram na parte B do anexo II,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a8d3c78901e997cd": {
+   "fragment_id": "TÍTULO I — Acesso à profissão de transportador rodoviário",
+   "type": "divisao",
+   "heading": "TÍTULO I — Acesso à profissão de transportador rodoviário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Acesso à profissão de transportador rodoviário"
+  },
+  "48d90fe3175991bb": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O acesso às profissões de transportadores de mercadorias e de passageiros será regulado pelas disposições que os Estados-membros adoptarem nos termos das regras comuns da presente directiva.\n\n2. Para efeitos da presente directiva, entende-se por:\n\n- profissão de transportador rodoviário de mercadorias, a actividade de qualquer empresa que efectue o transporte de mercadorias por conta de outrem, quer por meio de um veículo automóvel isolado quer de um conjunto de veículos acoplados,\n\n- profissão de transportador rodoviário de passageiros, a actividade de qualquer empresa que efectue transportes de passageiros oferecidos ao público ou a certas categorias de utentes, por meio de veículos automóveis que, de acordo com o respectivo tipo de construção e equipamento, sejam aptos para o transporte de mais de nove pessoas, incluido o condutor, e se encontrem afectos a essa utilização, mediante remuneração paga pela pessoa transportada ou pelo organizador de transporte,\n\n- empresa, qualquer pessoa singular, qualquer pessoa colectiva com ou sem fim lucrativo, qualquer associção ou agrupamento de pessoas sem personalidade jurídica com ou sem fim lucrativo, bem como qualquer organismo dependente de uma autoridade pública, quer seja dotado de personalidade jurídica própria quer dependa de uma autoridade dotada dessa personalidade."
+  },
+  "6b297ebc7b97bf76": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A presente directiva não é aplicável às empresas que exerçam a profissão de transportador rodoviário de mercadorias por meio de veículos cuja carga útil autorizada não ultrapasse 3,5 toneladas ou cujo peso total autorizado em carga não ultrapasse 6 toneladas. Todavia, os Estados-membros podem baixar os referidos limites para a totalidade ou para uma parte das categorias de transportes.\n\n2. Os Estados-membros podem, após consulta da Comissão, dispensar da aplicação da totalidade ou de parte das disposições da presente directiva as empresas de transportes rodoviários de mercadorias que efectuem exclusivamente transportes nacionais de fraca incidência sobre o mercado dos transportes, em virtude:\n\n- da natureza da mercadorias transportada\n\nou\n\n- da pequena distância percorrida.\n\nSe se verificarem circunstâncias imprevistas, os Estados-membros podem conceder uma derrogação temporária enquanto aguardam a conclusão das consultas com a Comissão.\n\n3. Os Estados-membros podem, após consulta da Comissão, dispensar da aplicação da totalidade ou de parte das disposições da presente directiva as empresas que efectuem exclusivamente certos transportes rodoviários de passageiros com fins não comerciais ou que tenham uma actividade principal distinta da actividade de transportador rodoviário de passageiros, desde que a sua actividade de transporte tenha uma fraca incidência sobre o mercado de transportes."
+  },
+  "b8f614b5ba0778fa": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. As empresas que pretendam exercer a profissão de transportador rodoviário devem:\n\na) Ser idóneas;\n\nb) Ter a capacidade financeira apropriada;\n\nc) Preencher a condição de capacidade profissional.\n\nSe o requerente for uma pessoa singular que não preencha a condição prevista na alínea c), as autoridades competentes podem, contudo, autorizá-lo a exercer a profissão de transportador, desde que designe perante essas autoridades uma outra pessoa que preencha as condições previstas nas alíneas a) e c) e que dirija efectivamente e em permanência a actividade transportadora da empresa.\n\nSe o requerente não for uma pessoa singular:\n\n- a condição prevista na alínea a) deve ser preenchida pela ou pelas pessoas que dirigem efectivamente e em permanência a actividade transportadora da empresa. Os Estados-membros podem exigir que outras pessoas da empresa preencham igualmente essa condição,\n\n- a condição prevista na alínea c) deve ser preenchida pela ou por uma das pessoas mencionadas no travessão anterior.\n\n2. Os Estados-membros determinarão as condições a preencher pelas empresas estabelecidas no seu território para satisfazerem a condição de idoneidade.\n\nOs Estados-membros preverão que essa condição não está ou deixou de estar preenchida se a ou as pessoas singulares que se presume preenchê-la nos termos do nº 1:\n\na) Tiverem sido sujeitas a uma condenação penal grave, incluindo por infracções cometidas em matéria comercial;\n\nb) Tiverem sido declaradas inaptas para o exercício da profissão de transportador rodoviário por força da legislação em vigor;\n\nc) Tiverem sido condenadas por infracções graves e reiteradas à legislação em vigor relativa:\n\n- às condições de remuneração e de trabalho dessa profissão\n\nou\n\n- à actividade de transporte rodoviário de passageiros ou de mercadorias, consoante o caso, nomeadamente às regras relativas ao período de condução e de repouso dos condutores, ao peso e dimensões dos veículos comerciais e à segurança rodoviária e dos veículos.\n\nNos casos referidos nas alíneas a), b) e c), a condição de idoneidade continua por satisfazer enquanto não houver uma reabilitação ou outra medida de efeito equivalente, nos termos das disposições nacionais na matéria.\n\n3. a) A condição de capacidade financeira consiste na possibilidade de dispor dos recursos financeiros necessários para garantir o arranque correcto e a boa gestão da empresa.\n\nb) A fim de avaliar a capacidade financeira, a autoridade competente deve ter em conta: as contas anuais da empresa, se for caso disso; os fundos disponíveis, incluindo depósitos em bancos, possibilidade de saque a descoberto e de obtenção de crédito, os activos, incluindo os bens que possam servir de garantia à empresa; os custos, incluindo o preço de compra ou o primeiro pagamento relativo à compra dos veículos, dos terrenos, das instalações e do equipamento, e o fundo de maneio.\n\nc) A empresa deve dispor de um capital e de reservas cujo valor seja pelo menos igual a:\n\n- 3 000 ecus por veículo utilizado,\n\n- 150 ecus por tonelada do peso máximo autorizado dos veículos de transporte de mercadorias utilizados pela empresa\n\nou\n\n- 150 ecus por lugar sentado dos veículos de transporte de passageiros utilizados pela empresa,\n\nsendo o montante exigível obtido pelo cálculo cujo resultado seja o valor mais baixo.\n\nOs Estados-membros podem estabelecer derrogações ao disposto no primeiro parágrafo no caso de empresas transportadoras que exerçam as suas actividades exclusivamente no âmbito do mercado nacional.\n\nd) Para efeitos do disposto nas alíneas a), b) e c), a autoridade competente pode aceitar como prova a confirmação ou garantia dada por um banco ou outra instituição devidamente qualificada. Essa confirmação ou garantia podem assumir a forma de garantia bancária ou de qualquer outro meio semelhante.\n\ne) O disposto nas alíneas b), c) e d) é aplicável apenas às empresas autorizadas a exercer a profissão de transportador rodoviário num Estado-membro, a partir de 1 de Janeiro de 1990, por força da regulamentação nacional.\n\n4. A condição de capacidade profissional consiste na posse das aptidões, verificadas no âmbito de um exame escrito que pode revestir a forma de pergunta de escolha múltipla, efectuado pela autoridade ou instância designada para esse efeito por cada Estado-membro, nas matérias referidas na lista do anexo I.\n\nOs Estados-membros podem dispensar do exame os cantidatos a transportador rodoviário que provem ter uma experiência prática de pelo menos cinco anos numa empresa de transportes ao nível de direcção.\n\nOs Estados-membros podem dispensar os titulares de certos diplomas do ensino superior ou do ensino técnico que impliquem um bom conhecimento das matérias referidas na lista do anexo I, e que os Estados-membros designarão especialmente para o efeito, do exame das matérias abrangidas por esses diplomas.\n\nComo prova de capacidade profissional, será apresentado um certificado emitido pela autoridade ou instância referida no primeiro parágrafo."
+  },
+  "24d34ce6c61cddc6": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros fixarão as condições em que a exploração de uma empresa de transportes rodoviários pode, em derrogação do nº 1 do artigo 3º, ser prosseguida a título provisório durante um período máximo de um ano, prorrogável por seis meses, no máximo, em casos especiais devidamente justificados, em caso de morte ou incapacidade física ou legal da pessoa singular que exerce a actividade de transportador rodoviário ou da pessoa singular que preencha as condições do nº 1, alíneas a) e c), do artigo 3º.\n\nTodavia, as autoridades competentes dos Estados-membros podem excepcionalmente, em certos casos especiais, autorizar a título definitivo a prossecução da exploração da empresa de transportes por uma pessoa que não preencha a condição de capacidade profissional referida no nº 1, alínea c), do artigo 3º, mas que possua uma experiência prática de, pelo menos, três anos na gestão diária dessa empresa."
+  },
+  "56e999cd253ba0e8": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. As empresas que provem terem sido autorizadas num Estado-membro, por força de uma regulamentação nacional, antes de:\n\n- 1 de Janeiro de 1978, para a Bélgica, a Dinamarca, a Alemanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos e o Reino Unido,\n\n- 1 de Janeiro de 1984, para a Grécia,\n\n- 1 de Janeiro de 1986, para Espanha e Portugal,\n\n- 3 de Outubro de 1989, para o território da ex-República Democrática Alemã,\n\na exercer a profissão de transportador rodoviário de mercadorias ou de passageiros, consoante o caso, no domínio dos transportes nacionais e/ou internacionais, ficam dispensadas de fornecer a prova de que satisfazem o disposto no artigo 3º.\n\n2. No entanto, as pessoas singulares que,\n\n- depois de 31 de Dezembro de 1974 e antes de 1 de Janeiro de 1978, para a Bélgica, a Dinamarca, a Alemanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos e o Reino Unido,\n\n- depois de 31 de Dezembro de 1980 e antes de 1 de Janeiro de 1984, para a Grécia,\n\n- depois de 31 de Dezembro de 1982 e antes de 1 de Janeiro de 1986, para Espanha e Portugal,\n\n- depois de 2 de Outubro de 1989 e antes de 1 de Janeiro de 1992, para o território da ex-República Democrática Alemã,\n\ntenham sido\n\n- quer autorizadas a exercer a profissão de transportador rodoviário de mercadorias ou de passageiros, consoante o caso, sem terem, por força de uma regulamentação nacional, fornecido a prova da sua capacidade profissional,\n\n- quer designadas para dirigir efectivamente e em permanência a actividade de transporte de uma empresa,\n\ndevem ter preenchido a condição de capacidade profissional referida no nº 4 do artigo 3º antes de:\n\n- 1 de Janeiro de 1980, para a Bélgica, a Dinamarca, a Alemanha, a França, a Irlanda, a Itália, o Luxemburgo, os Países Baixos e o Reino Unido,\n\n- 1 de Janeiro de 1986, para a Grécia,\n\n- 1 de Janeiro de 1988, para Espanha e Portugal,\n\n- 1 de Julho de 1992, para o território da ex-República Democrática Alemã.\n\nA mesma exigência é aplicável no caso referido no nº 1, terceiro parágrafo, do artigo 3º."
+  },
+  "9785a6d647723911": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. As decisões tomadas pelas autoridades competentes dos Estados-membros, na sequência de medidas adoptadas em cumprimento da presente directiva e que impliquem o indeferimento de um pedido de acesso à profissão de transportador rodoviário devem ser fundamentadas.\n\n2. Os Estados-membros assegurarão a revogação da autorização de exercer a profissão de transportador rodoviário pelas autoridades competentes se estas verificarem que as condições referidas no nº 1, alíneas a, b) ou c), do artigo 3º deixaram de ser satisfeitas sem prejuízo da previsão, se necessário, de um prazo adequado para o recrutamento de um substituto.\n\n3. Os Estados-membros assegurarão às empresas referidas na presente directiva a possibilidade de fazerem valer os seus interesses pelos meios apropriados, relativamente às decisões referidas nos nºs 1 e 2."
+  },
+  "ed77a4722a915c0e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Quando forem cometidas por transportadores rodoviários não residentes infracções graves ou infracções menores e reiteradas contra a regulamentação relativa ao transporte rodoviário de mercadorias ou de passageiros, consoante o caso, que possam levar à revogação da autorização do exercício da profissão de transportador rodoviário, os Estados-membros comunicarão ao Estado-membro onde o transportador se encontre estabelecido todas as informações relativamente às infracções e às sanções aplicadas.\n\n2. Sempre que um Estado-membro retirar uma autorização de exercício da profissão de transportador rodoviário no domínio dos transportes internacionais, informará do facto a Comissão, que comunicará as informações necessárias aos Estados-membros interessados.\n\n3. Os Estados-membros concederão assistência mútua para efeitos da aplicação da presente directiva."
+  },
+  "11611fa9236da2a7": {
+   "fragment_id": "TÍTULO II — Reconhecimento mútuo dos diplomas, certificados e outros títulos",
+   "type": "divisao",
+   "heading": "TÍTULO II — Reconhecimento mútuo dos diplomas, certificados e outros títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Reconhecimento mútuo dos diplomas, certificados e outros títulos"
+  },
+  "7052978edde82618": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros tomarão, relativamente às actividades referidas na presente directiva, as medidas nela definidas em relação ao estabelecimento no seu território das pessoas singulares e das sociedades mencionadas no título I do Programa geral para a supressão das restrições à liberdade de estabelecimento (7).\n\n2. Sem prejuízo do disposto nos nºs 3 e 4, um Estado-membro de acolhimento aceitará, para o acesso à profissão de transportador rodoviário, como prova suficiente de idoneidade ou de ausência de falência, a apresentação de um certificado de registo criminal ou, na sua falta, de documento equivalente, emitido por uma autoridade judiciária ou administrativa competente do país de origem ou de proveniência do transportador, que comprove o cumprimento dessas exigências.\n\n3. Quando um Estado-membro exigir dos seus nacionais determinadas condições de idoneidade, cuja prova não possa ser feita pelo documento referido no nº 2, este Estado aceitará como prova suficiente, no que respeita aos nacionais dos outros Estados-membros, um atestado emitido por uma autoridade judiciária ou administrativa competente do país de origem ou de proveniência, que ateste o preenchimento dessas condições. Esses atestados incidirão sobre os factos concretos tidos como relevantes pelo país de acolhimento.\n\n4. Se o documento exigido nos termos dos nºs 2 e 3 não for emitido pelo país de origem ou de proveniência, pode ser substituído por uma declaração sob juramento ou solene feita pelo interessado perante uma autoridade judiciária ou administrativa competente ou, eventualmente, um notário do país de origem ou de proveniência, que certificará a prestação do juramento ou a realização dessa declaração solene. A declaração de ausência de falência pode ser igualmente feita perante um organismo profissional qualificado desse mesmo país.\n\n5. Os documentos referidos nos nºs 2 e 3 não podem, aquando da sua apresentação, ter sido emitidos há mais de três meses. Esta condição é aplicável igualmente às declarações feitas nos termos do nº 4."
+  },
+  "4648fb42fc9a05ac": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Se num Estado-membro de acolhimento for exigido um atestado comprovativo da capacidade financeira, este Estado considerará os atestados correspondentes emitidos pelos bancos do país de origem ou de proveniência ou por outros organismos designados por esse país como equivalentes aos atestados emitidos no seu próprio território.\n\n2. Quando um Estado-membro exigir dos seus nacionais determinadas condições de capacidade financeira, cuja prova não possa ser feita pelo documento referido no nº 1, esse Estado aceitará como prova suficiente, no que respeita aos nacionais dos outros Estados-membros, um atestado emitido por uma autoridade administrativa competente do país de origem ou de proveniência, certificando que essas condições estão preenchidas. Esses atestados incidirão sobre os factos concretos tidos como relevantes pelo país de acolhimento."
+  },
+  "7275e51ef280e4fb": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. A partir de 1 de Janeiro de 1990, os Estados-membros reconhecerão como prova suficiente da capacidade profissional os certificados referidos no nº 4, quarto parágrafo, do artigo 3º, emitidos por outro Estado-membro.\n\n2. Em relação às empresas que foram autorizadas na Grécia, antes de 1 de Janeiro de 1981 ou, nos outros Estados-membros, antes de 1 de Janeiro de 1975, em virtude da regulamentação nacional, a exercer a profissão de transportador rodoviário de mercadorias ou de passageiros no domínio dos transportes nacionais e/ou internacionais e desde que as empresas referidas sejam sociedades na acepção do artigo 58º do Tratado, os Estados-membros reconhecerão como prova suficiente da capacidade profissional o atestado de exercício efectivo da actividade em questão num Estado-membro, durante um período de três anos. Essa actividade não deve ter cessado há mais de cinco anos à data da apresentação do atestado.\n\nQuando se tratar de uma pessoa colectiva, o exercício efectivo da actividade será comprovado por uma das pessoas singulares que dirigem efectivamente a actividade de transporte da empresa.\n\n3. Os certificados passados aos transportadores rodoviários antes de 1 de Janeiro de 1990 como prova de capacidade profissional, nos termos das disposições em vigor até àquela data, são equiparados aos certificados emitidos por força das disposições da presente directiva."
+  },
+  "db31709f63c5ddbf": {
+   "fragment_id": "TÍTULO III — Disposições finais",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições finais"
+  },
+  "514ddb9f514bcccc": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros designarão as autoridades ou organismos competentes para a emissão dos documentos referidos no nº 2 do artigo 8º e no artigo 9º, bem como do atestado referido no nº 2 do artigo 10º e informarão imediatamente os outros Estados-membros e a Comissão desse facto."
+  },
+  "9ba23f5b045b68ba": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs artigos 8º a 11º são igualmente aplicáveis aos nacionais dos Estados-membros que, nos termos do Regulamento (CEE) nº 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores na Comunidade (8), exercem como assalariados as actividades de transportador rodoviário."
+  },
+  "ac283adfda0047e5": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os Estados-membros tomarão, após consulta da Comissão, as medidas necessárias para dar cumprimento às disposições da presente directiva, nos prazos indicados na parte B do anexo II.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "c16743ab3adae8e4": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nSão revogadas as directivas referidas na parte A do anexo II, sem prejuízo das obrigações dos Estados-membros relativas aos prazos de transposição e de aplicação previstos na parte B do anexo II.\n\nAs referências às directivas revogadas devem ser entendidas como sendo feitas à presente directiva, de acordo com o quadro de correspondências do anexo III."
+  },
+  "f3411161d5f8bd12": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 29 de Abril de 1996.\n\nPelo Conselho\n\nO Presidente\n\nW. LUCHETTI\n\n(1) JO nº C 286 de 14. 11. 1990, p. 4 e alteração de 16. 12. 1993.\n\n(2) JO nº C 339 de 31. 12. 1991, p. 5 e JO nº C 295 de 22. 10. 1994, p. 30.\n\n(3) Parecer do Parlamento Europeu de 13 de Dezembro de 1991 (JO nº C 13 de 20. 1. 1992, p. 433) e de 20 de Abril de 1994 (JO nº C 128 de 9. 5. 1994, p. 136), posição comum do Conselho de 8 de Dezembro de 1995 (JO nº C 356 de 30. 12. 1995) e decisão do Parlamento Europeu de 28 de Março de 1996 (ainda não publicada no Jornal Oficial).\n\n(4) JO nº L 308 de 19. 11. 1974, p. 18. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3572/90 (JO nº L 333 de 17. 12. 1990, p. 12).\n\n(5) JO nº L 308 de 19. 11. 1974, p. 18. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3572/90 (JO nº L 333 de 17. 12. 1990, p. 12).\n\n(6) JO nº L 308 de 19. 11. 1974, p. 18. Directiva com a última redacção que lhe foi dada pela Directiva 89/438/CEE (JO nº L 212 de 22. 7. 1989, p. 101). Rectificação publicada no JO nº L 298 de 17. 10. 1989, p. 31.\n\n(7) JO nº 2 de 15. 1. 1962, p. 36.\n\n(8) JO nº L 257 de 19. 10. 1968, p. 2. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 2434/92 (JO nº L 245 de 26. 8. 1992, p. 1)."
+  },
+  "27827d593e992ef9": {
+   "fragment_id": "ANEXO I — LISTA DAS MATÉRIAS REFERIDAS NO Nº 4 DO ARTIGO 3º",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DAS MATÉRIAS REFERIDAS NO Nº 4 DO ARTIGO 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DAS MATÉRIAS REFERIDAS NO Nº 4 DO ARTIGO 3º\n\nOs conhecimentos a ter em consideração para a verificação da aptidão profissional devem incluir, pelo menos, as matérias referidas na presente lista. Estas matérias devem ser especificadas de forma pormenorizada e definidas ou aprovadas pelas autoridades nacionais competentes. Devem ser assimiláveis por pessoas que possuam uma formação correspondente ao nível de fim de estudos da escolaridade obrigatória.\n\nA. MATÉRIAS CUJO CONHECIMENTO É REQUERIDO PARA OS TRANSPORTADORES RODOVIÁRIOS QUE TÊM A INTENÇÃO DE EFECTUAR UNICAMENTE TRANSPORTES NACIONAIS\n\nDireito\n\nElementos de direito civil, comercial, social e fiscal, cujo conhecimento é necessário para o exercício da profissão e relativos, nomeadamente a:\n\n- contratos em geral,\n\n- contratos de transporte, em especial a responsabilidade do transportador (natureza e limites),\n\n- sociedades comerciais,\n\n- livros comerciais,\n\n- regulamentação do trabalho e segurança social,\n\n- regime fiscal.\n\n1. Transportador rodoviário de mercadorias\n\na) Gestão comercial e financeira da empresa:\n\n- sistemas de pagamento e de financiamento,\n\n- cálculo do preço de custo,\n\n- regime de preços e condições de transporte,\n\n- contabilidade comercial,\n\n- seguros,\n\n- facturas,\n\n- auxiliares de transporte,\n\n- técnicas de gestão,\n\n- técnica comercial.\n\nb) Acesso ao mercado:\n\n- disposições relativas ao acesso à profissão e seu exercício,\n\n- documentos de transporte.\n\nc) Normas e exploração técnicas:\n\n- pesos e dimensões dos veículos,\n\n- escolha do veículo,\n\n- recepção e registo,\n\n- normas de manutenção dos veículos,\n\n- carga e descarga dos veículos,\n\n- transporte de mercadorias perigosas,\n\n- transporte de géneros alimentícios,\n\n- princípios aplicáveis em matéria de protecção do ambiente e relativos à utilização e manutenção dos veículos.\n\nd) Segurança rodoviária:\n\n- disposições legislativas, regulamentares e administrativas aplicáveis em matéria de trânsito,\n\n- segurança do trânsito,\n\n- prevenção dos acidentes e medidas a tomar em caso de acidente.\n\n2. Transportador rodoviário de passageiros\n\na) Gestão comercial e financeira da empresa:\n\n- sistemas de pagamento e de financiamento,\n\n- cálculo do preço de custo,\n\n- regime das tarifas, dos preços e das condições de transporte,\n\n- contabilidade comercial,\n\n- seguros,\n\n- facturas,\n\n- agências de viagens,\n\n- técnicas de gestão,\n\n- técnica comercial.\n\nb) Regulamentação dos serviços rodoviários de passageiros:\n\n- criação de serviços de transporte e planos de transporte,\n\n- condições de execução de serviços de passageiros,\n\n- disposições relativas ao acesso à profissão e ao seu exercício,\n\n- documentos de transporte.\n\nc) Normas e exploração técnicas:\n\n- escolha do veículo,\n\n- recepção e registo,\n\n- normas de manutenção dos veículos,\n\n- princípios aplicáveis em matéria de protecção do ambiente e relativos à utilização e manutenção dos veículos.\n\nd) Segurança rodoviária:\n\n- disposições legislativas, regulamentares e administrativas aplicáveis em matéria de trânsito,\n\n- segurança do trânsito,\n\n- geografia rodoviária,\n\n- prevenção dos acidentes e medidas a tomar em caso de acidente.\n\nB. MATÉRIAS CUJO CONHECIMENTO É REQUERIDO PARA OS TRANSPORTADORES RODOVIÁRIOS QUE TÊM A INTENÇÃO DE EFECTUAR TRANSPORTES INTERNACIONAIS:\n\n- matérias enumeradas em A, consoante o caso,\n\n- disposições aplicáveis aos transportes rodoviários de mercadorias ou de passageiros, consoante o caso, entre os Estados-membros e entre a Comunidade e países terceiros, decorrentes da legislação nacional, de normas comunitárias e de convenções e acordos internacionais,\n\n- formalidades aduaneiras e outras relativas ao controlo dos transportes,\n\n- principais regulamentações de trânsito nos Estados-membros."
+  },
+  "ad26f1ab2db0d854": {
+   "fragment_id": "ANEXO II — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO II — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — PARTE A\n\nDIRECTIVAS REVOGADAS (referidas no artigo 14º)\n\n- Directiva 74/561/CEE\n\n- Directiva 74/562/CEE\n\n- Directiva 77/796/CEE\n\ne alterações sucessivas:\n\n- Directiva 80/1178/CEE\n\n- Directiva 80/1179/CEE\n\n- Directiva 80/1180/CEE\n\n- Directiva 85/578/CEE\n\n- Directiva 85/579/CEE\n\n- Directiva 89/438/CEE\n\n- Regulamento (CEE) nº 3572/90: apenas os artigos 1º e 2º"
+  },
+  "43047ca1bb419b4b": {
+   "fragment_id": "PARTE B — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "PARTE B — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — >POSIÇÃO NUMA TABELA>"
+  },
+  "e1adc1d3542ad1cc": {
+   "fragment_id": "ANEXO III — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO III — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >POSIÇÃO NUMA TABELA>"
+  },
+  "044df41ac4bb9446": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1996L0026 — PT — 04.12.2011 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31996L0026) [DIRECTIVA 96/26/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31996L0026) [de 29 de Abril de 1996](http://publications.europa.eu/resource/celex/31996L0026) [relativa ao acesso à profissão de transportador rodoviário de mercadorias e de transportador rodoviário de passageiros, bem como ao reconhecimento mútuo dos diplomas, certificados e outros títulos, com o objectivo de favorecer o exercício efectivo da liberdade de estabelecimento desses transportadores no domínio dos transportes nacionais e internacionais](http://publications.europa.eu/resource/celex/31996L0026) (JO L 124, 23.5.1996, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1071/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1071) — L 300 — 51 — 14.11.2009"
+  }
+ }
+}

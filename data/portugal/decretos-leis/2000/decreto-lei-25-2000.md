@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:408476:por
+title: Decreto-Lei n.º 25/2000
+short_title: null
+summary: Mantém em vigor um regime especial de despesas públicas para o Projecto Loja do Cidadão
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Reforma do Estado e da Administração Pública
+proposing_entity: null
+official_number: 25/2000
+official_date: null
+publication_date: '2000-03-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/2000, Série I-A de 2000-03-02
+  number: '52'
+  series: I
+  supplement: null
+  pages: 713 - 713
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/03/052a00/07130713.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/25/2000/03/02/p/dre/pt/html
+  oj: null
+  dre: '408476'
+  dre_path: /dr/detalhe/decreto-lei/25-2000-408476
+  internal: pt:dre:408476:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2000-408476
+  metadata_url: https://data.dre.pt/eli/dec-lei/25/2000/03/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2000-408476
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 810e353c04cb793aeabea00f2e9717195b0820c9d436e4f2e308b85eebe55123
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Ajuste Direto
+- Aquisição de Bens e Serviços
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- Loja do Cidadão
+- Modernização Administrativa
+- Serviço de Atendimento ao Cidadão
+relationships:
+- type: cites
+  target: pt:dre:186544:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/56/1998/03/16/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:19:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 25/2000
+
+de 2 de Março
+
+Estando em curso a 2.ª fase de expansão do Projecto Loja do Cidadão, e vista a necessidade de se proceder à sua criação em distritos com grande densidade populacional, dotando-os com esta oferta qualificada para a prestação de serviço público, considera-se conveniente manter, até ao final do ano de 2000, o regime especial para a realização de despesas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Mantém-se em vigor, até 31 de Dezembro de 2000, o regime previsto no [Decreto-Lei n.º 56/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1998-186544), de 16 de Março.
+
+###### Artigo 2.º
+
+O presente disploma produz efeitos a partir de 1 de Janeiro de 2000.
+
+Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
+
+Promulgado em 17 de Fevereiro de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 18 de Fevereiro de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

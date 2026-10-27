@@ -1,0 +1,292 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517845:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-164870843",
+ "dre_path": "/dr/detalhe/decreto-lei/40-2007-517845",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-02-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164871100",
+    "164871101",
+    "164871102",
+    "164871103",
+    "164871104",
+    "164871105",
+    "164871106",
+    "164871107",
+    "164871108",
+    "164871109",
+    "164871110",
+    "164871111",
+    "164871112",
+    "164871113",
+    "164871114",
+    "164871115",
+    "164871116",
+    "164871117"
+   ]
+  },
+  {
+   "date": "2023-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216512899:por",
+     "title": "Decreto-Lei n.º 64-A/2023",
+     "published": "2023-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/64-a-2023-216512899"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "164871100",
+    "164871101",
+    "164871102",
+    "216567198",
+    "164871104",
+    "164871105",
+    "164871106",
+    "164871107",
+    "164871108",
+    "164871109",
+    "216567199",
+    "164871111",
+    "164871112",
+    "164871113",
+    "164871114",
+    "164871115",
+    "164871116",
+    "164871117",
+    "164871118"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1006464117:por",
+     "title": "Decreto-Lei n.º 3/2026",
+     "published": "2026-01-14",
+     "dre_path": "/dr/detalhe/decreto-lei/3-2026-1006464117"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "164871100",
+    "164871101",
+    "164871102",
+    "216567198",
+    "164871104",
+    "164871105",
+    "1006421923",
+    "164871107",
+    "164871108",
+    "164871109",
+    "216567199",
+    "164871111",
+    "164871112",
+    "164871113",
+    "164871114",
+    "164871115",
+    "164871116",
+    "164871117",
+    "164871118"
+   ]
+  }
+ ],
+ "fragments": {
+  "164871100": {
+   "fragment_id": "164870844",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 40/2007\n\nde 20 de Fevereiro\n\nÀ semelhança do que já se pratica em universidades estrangeiras, nomeadamente nos EUA, é importante garantir a diversidade do percurso académico e educativo dos candidatos ao curso de Medicina.\n\nDe facto, os fundamentos científicos da prática clínica e da investigação biomédica baseiam-se cada vez mais na interacção com áreas científicas como a física, a biologia, a química ou a matemática, mas também com outras áreas, como as humanidades, o direito ou a economia, pelo que se justifica alargar as áreas de formação que permitam a admissão no curso de Medicina, desde que se garanta adequado nível de conhecimento nas cadeiras nucleares que são condição de ingresso.\n\nTrata-se de um modelo inédito entre nós, mas cuja introdução se reveste de grande oportunidade, em consonância com a evolução observada na área da Biomedicina.\n\nEsta nova modalidade de ingresso poderá ainda contribuir para que as escolas seleccionem também candidatos com particular apetência para áreas de investigação, o que se considera fundamental.\n\nA medida agora adoptada resultou igualmente de diálogo com a comissão científica internacional que vem acompanhando o desenvolvimento do ensino da Medicina em Portugal desde 1999, tendo sido ainda ponderados os pontos de vista das faculdades, institutos e escolas que ministram o curso de Medicina.\n\nNesta oportunidade, e ponderada a necessidade de assegurar uma sólida formação científica nas áreas da Biologia, da Física, da Matemática e da Química aos estudantes que ingressam no curso de Medicina após a conclusão do ensino secundário, introduz-se uma alteração nesse sentido no diploma legal que regula o acesso ao ensino superior.\n\nForam ouvidos o Conselho de Reitores das Universidades Portuguesas e a Comissão Nacional de Acesso ao Ensino Superior.\n\nAssim:\n\nNo desenvolvimento da Lei n.º 46/86, de 14 de Outubro, alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164871101": {
+   "fragment_id": "164870845",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "164871102": {
+   "fragment_id": "164870846",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei institui e regula um concurso especial para acesso ao curso de Medicina por titulares do grau de licenciado, adiante designado concurso especial."
+  },
+  "164871103": {
+   "fragment_id": "164870847",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se a todas as unidades orgânicas dos estabelecimentos de ensino superior que ministram o curso de Medicina, adiante genericamente designadas faculdades."
+  },
+  "164871104": {
+   "fragment_id": "164870848",
+   "type": 1,
+   "heading": "Capítulo II — Concurso especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Concurso especial"
+  },
+  "164871105": {
+   "fragment_id": "164870849",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de candidatura\n\nPodem concorrer ao concurso especial os licenciados num dos domínios constantes de elenco aprovado pelo órgão científico da faculdade que satisfaçam o pré-requisito por esta fixado nos termos do Decreto-Lei n.º 296-A/98, de 25 de Setembro, que regula o regime de acesso e ingresso no ensino superior, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, 158/2004, de 30 de Junho, e 147-A/2006, de 31 de Julho."
+  },
+  "164871106": {
+   "fragment_id": "164870850",
+   "type": 11,
+   "heading": "Artigo 4.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Vagas\n\n1 - As vagas para o concurso especial, para cada curso de Medicina em cada faculdade, são fixadas, anualmente, por despacho do reitor da universidade, sob proposta do órgão legal e estatutariamente competente da faculdade.\n\n2 - Para o ingresso nos anos lectivos de 2007-2008 a 2010-2011, o número de vagas não pode ser inferior a 5% do número de vagas fixado para o concurso nacional de acesso ao mesmo curso na mesma faculdade nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro.\n\n3 - Para o ingresso a partir do ano lectivo de 2011-2012, inclusive, o número de vagas não pode ser inferior a 15% do número de vagas fixado para o concurso nacional de acesso ao mesmo curso na mesma faculdade.\n\n4 - O despacho a que se refere o n.º 1 é publicado na 2.ª série do Diário da República."
+  },
+  "164871107": {
+   "fragment_id": "164870851",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidatura\n\nA candidatura ao concurso especial é apresentada anualmente, em prazo e nos termos a fixar por cada faculdade."
+  },
+  "164871108": {
+   "fragment_id": "164870852",
+   "type": 11,
+   "heading": "Artigo 6.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Seriação\n\n1 - A seriação dos candidatos é feita por cada faculdade, com base nos critérios aprovados pelo seu órgão legal e estatutariamente competente.\n\n2 - Os critérios de seriação devem integrar, designadamente, a apreciação dos percursos académico e profissional do candidato.\n\n3 - O resultado da seriação consta de lista ordenada sujeita a homologação do reitor da universidade."
+  },
+  "164871109": {
+   "fragment_id": "164870853",
+   "type": 11,
+   "heading": "Artigo 7.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Colocação\n\nA admissão dos candidatos é feita de acordo com a ordem resultante da seriação referida no artigo anterior, até ao limite das vagas fixadas nos termos do artigo 4.º"
+  },
+  "164871110": {
+   "fragment_id": "164870854",
+   "type": 11,
+   "heading": "Artigo 8.º — Vagas sobrantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vagas sobrantes\n\nAs vagas sobrantes não são passíveis de utilização em qualquer outro processo conducente à inscrição no par estabelecimento/curso em causa."
+  },
+  "164871111": {
+   "fragment_id": "164870855",
+   "type": 11,
+   "heading": "Artigo 9.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Matrícula e inscrição\n\n1 - Os candidatos admitidos devem proceder à matrícula e inscrição no prazo fixado.\n\n2 - A colocação é válida apenas para o ano lectivo a que se refere e caduca com o seu não exercício no prazo fixado."
+  },
+  "164871112": {
+   "fragment_id": "164870856",
+   "type": 11,
+   "heading": "Artigo 10.º — Creditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Creditação\n\nA faculdade credita a formação académica anterior do candidato considerada relevante para o curso de Medicina."
+  },
+  "164871113": {
+   "fragment_id": "164870857",
+   "type": 11,
+   "heading": "Artigo 11.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regulamento\n\n1 - O órgão legal e estatutariamente competente de cada faculdade aprova um regulamento do concurso especial, fixando, designadamente:\n\na) A forma de apresentação da candidatura;\n\nb) Os critérios de seriação dos candidatos;\n\nc) A forma de comunicação do resultado aos candidatos;\n\nd) A forma de apresentação de reclamações;\n\ne) Os procedimentos de creditação da formação académica anterior;\n\nf) Os prazos em que devem ser praticados todos os actos.\n\n2 - O regulamento está sujeito a homologação do reitor da universidade e é publicado na 2.ª série do Diário da República."
+  },
+  "164871114": {
+   "fragment_id": "164870858",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "164871115": {
+   "fragment_id": "164870859",
+   "type": 11,
+   "heading": "Artigo 12.º — Divulgação da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Divulgação da informação\n\nOs despachos a que se refere o artigo 4.º, bem como os regulamentos a que se refere o artigo 11.º, são objecto de publicação no sítio da Internet de cada universidade, bem como no sítio da Internet da Direcção-Geral do Ensino Superior dedicado ao acesso ao ensino superior."
+  },
+  "164871116": {
+   "fragment_id": "164870860",
+   "type": 11,
+   "heading": "Artigo 13.º — Aditamento ao Decreto-Lei n.º 296-A/98, de 25 de Setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aditamento ao Decreto-Lei n.º 296-A/98, de 25 de Setembro\n\nAo Decreto-Lei n.º 296-A/98, de 25 de Setembro, que regula o regime de acesso e ingresso no ensino superior, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, 158/2004, de 30 de Junho, e 147-A/2006, de 31 de Julho, é aditado o artigo 20.º-B, com a seguinte redacção:\n\n«Artigo 20.º-B\n\nAcesso ao curso de Medicina\n\n1 - As provas de ingresso ao curso de Medicina integram, obrigatoriamente, as áreas de Biologia, Física, Matemática e Química.\n\n2 - Se a concretização do disposto no número anterior o tornar indispensável, o número de provas de ingresso para acesso ao curso de Medicina pode ser de três.»"
+  },
+  "164871117": {
+   "fragment_id": "164870861",
+   "type": 11,
+   "heading": "Artigo 14.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação\n\nO presente decreto-lei aplica-se a partir da candidatura ao ingresso no ensino superior no ano lectivo de 2007-2008, inclusive, com excepção do disposto no artigo 13.º, que se aplica a partir da candidatura ao ingresso no ensino superior no ano lectivo de 2008-2009, inclusive."
+  },
+  "216567198": {
+   "fragment_id": "164870847",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se a todas as unidades orgânicas de instituições de ensino superior públicas que ministram o curso de Medicina, adiante genericamente designadas faculdades.\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567199": {
+   "fragment_id": "164870854",
+   "type": 11,
+   "heading": "Artigo 8.º — Vagas sobrantes",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Vagas sobrantes\n\nAs vagas fixadas e não ocupadas são transferidas para a 1.ª fase do concurso nacional de acesso e ingresso no mesmo ciclo de estudos.\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "164871118": {
+   "fragment_id": "164870862",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos - José Mariano Rebelo Pires Gago.\n\nPromulgado em 8 de Fevereiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 9 de Fevereiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1006421923": {
+   "fragment_id": "164870850",
+   "type": 11,
+   "heading": "Artigo 4.º — Vagas",
+   "in_force_from": "2026-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2026 - Diário da República n.º 9/2026, Série I de 2026-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2026-1006464117), em vigor a partir de 2026-01-19"
+   ],
+   "markdown": "###### Artigo 4.º — Vagas\n\n1 - As vagas para o concurso especial, para cada curso de Medicina em cada faculdade, são fixadas, anualmente, por despacho do reitor da universidade, sob proposta do órgão legal e estatutariamente competente da faculdade.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O número de vagas a fixar nos termos do n.º 1 não pode ser inferior a 5 % do limite máximo de admissões fixado pela Agência de Avaliação e Acreditação do Ensino Superior para o respetivo curso.\n\n5 - O despacho a que se refere o n.º 1 é publicado na 2.ª série do Diário da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2026 - Diário da República n.º 9/2026, Série I de 2026-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2026-1006464117), em vigor a partir de 2026-01-19"
+  }
+ }
+}

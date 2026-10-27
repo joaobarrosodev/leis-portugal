@@ -1,0 +1,395 @@
+---
+schema_version: '1.0'
+id: pt:dre:518010:por
+title: Decreto-Lei n.º 33/2007
+short_title: null
+summary: No uso da autorização legislativa concedida pelo n.º 8 do artigo 50.º da Lei n.º 60-A/2005, de 30 de Dezembro, altera
+  o regime do incentivo fiscal à destruição de automóveis ligeiros em fim de vida previsto no Decreto-Lei n.º 292-A/2000,
+  de 15 de Novembro, e procede à respectiva republicação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 33/2007
+official_date: null
+publication_date: '2007-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/2007, Série I de 2007-02-15
+  number: '33'
+  series: I
+  supplement: null
+  pages: 1171 - 1175
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03300/11711175.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/33/2007/02/15/p/dre/pt/html
+  oj: null
+  dre: '518010'
+  dre_path: /dr/detalhe/decreto-lei/33-2007-518010
+  internal: pt:dre:518010:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010
+  metadata_url: https://data.dre.pt/eli/dec-lei/33/2007/02/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:00:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ec90bf5f063e2b2f4e408bdb8a48db1d177391dc87b1787522fe8807cef99414
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Benefícios Fiscais
+- Certificado de Destruição ou Desmantelamento Qualificado
+- Comissão de Coordenação e Desenvolvimento Regional
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Geral de Viação
+- Fiscalização
+- GNR
+- Imposto Automóvel
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Madeira.região Autónoma
+- Multa
+- Proteção do Ambiente
+- PSP
+- Segurança Rodoviária
+- Veículo em FIM de VIDA
+relationships:
+- type: amended_by
+  target: pt:dre:609990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Mantido em vigor até 31 de Dezembro de 2008,o incentivo fiscal à destruição de automóveis ligeiros em fim de vida\
+    \ previsto no Dec Lei 292-A/2000, de 15-Nov, alterado e republicado pelo presente diploma, pela LEI.67-A/2007.31.12.2007.AR,\
+    \ DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 2.º do Dec Lei 292-A/2000 de 15-Nov, na redacção e republicação do presente diploma, pela LEI.64-A/2008.31.12.2008.AR,\
+    \ DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 2.º e 10.º do Dec Lei 292-A/2000 de 15-Nov, alterado e republicado pelo presente diploma, pela\
+    \ LEI 3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: cites
+  target: celex:32000L0053
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/53/oj
+- type: cites
+  target: pt:dre:232124:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/292-a/2000/11/15/p/dre
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: http://data.dre.pt/eli/lei/60-a/2005/12/30/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:00:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 33/2007
+
+de 15 de Fevereiro
+
+A criação de um incentivo fiscal que motivasse os proprietários de automóveis ligeiros em fim de vida a entregá-los para destruição constituiu, aquando da sua consagração no Decreto-Lei n.º 292-A/2000, de 15 de Novembro, um instrumento relevante de melhoria de segurança rodoviária, com a inerente salvaguarda do meio ambiente.
+
+Após sucessivas prorrogações da vigência desta medida, as razões subjacentes à sua consagração mantêm-se ainda integralmente válidas.
+
+Com efeito, retirar da circulação os automóveis ligeiros em fim de vida que, pela sua idade e estado de conservação, são susceptíveis de comprometer, quer a segurança pública quer a qualidade do ambiente, incentivando a sua substituição por automóveis ligeiros novos, mais seguros, dotados de tecnologias menos poluentes e de maior eficiência energética insere-se plenamente nas orientações estratégicas que este Governo assumiu de redução da sinistralidade rodoviária e de requalificação e salvaguarda do património ambiental.
+
+Trata-se, aliás, de uma medida concreta cujo sucesso de implementação é exigido face ao quadro das metas subjacentes aos compromissos de redução das emissões de gases com efeito de estufa (GEE) assumidos por Portugal no âmbito do Protocolo de Quioto, e concretizada no Programa Nacional para as Alterações Climáticas (PNAC 2006), aprovado pela Resolução do Conselho de Ministros n.º 104/2006, de 23 de Agosto.
+
+O PNAC 2006, que se destina a dar cumprimento aos referidos compromissos internacionais assumidos por Portugal, designadamente à obrigação de limitar, no período de 2008 a 2012, o aumento das suas emissões de GEE em 27% sobre o valor verificado em 1990, prevê uma avaliação semestral do progresso de cada medida nele prevista, avaliação essa que poderá determinar a revisão dos instrumentos associados às mesmas, em que se inclui o regime de incentivo fiscal à destruição de automóveis ligeiros em fim de vida, o qual poderá, assim, ser revisto depois de 2007 em função dos resultados alcançados, nomeadamente quanto à eliminação do seu carácter temporário.
+
+Assim, e porque a avaliação do regime definido em 2000 revela dificuldades e constrangimentos de aplicação que impossibilitam a produção de resultados ao nível originariamente expectável, cabe, no uso da autorização legislativa concedida ao Governo na Lei do Orçamento do Estado para 2006, proceder à revisão do regime inerente à concessão deste incentivo fiscal, reduzindo a carga burocrática que lhe está associada e os encargos financeiros inerentes ao próprio procedimento.
+
+Sem se invalidar os mecanismos estabelecidos com vista ao controlo da atribuição do incentivo fiscal e da efectiva concretização das operações de destruição dos veículos, resulta consideravelmente facilitada a adesão à medida por parte dos particulares.
+
+Com efeito, os requisitos de acesso ao incentivo fiscal são simplificados, aligeirando-se os relativos à capacidade de circulação dos veículos a abater e ao período mínimo de detenção da respectiva propriedade.
+
+Em simultâneo, encurta-se o período de tempo que medeia entre a entrega do veículo a destruir e a recepção do veículo novo a adquirir com benefício fiscal e alargam-se as possibilidades de recepção e armazenagem temporária dos veículos em fim de vida com vista ao seu posterior encaminhamento para desmantelamento, com observância dos requisitos de natureza ambiental.
+
+O presente decreto-lei vem ainda possibilitar a harmonização do procedimento administrativo com o disposto na Directiva n.º [2000/53/CE](http://data.europa.eu/eli/dir/2000/53/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de Setembro, transposta para a ordem jurídica interna pelo Decreto-Lei n.º 196/2003, de 23 de Agosto.
+
+Em suma, com os ajustamentos introduzidos pelo presente decreto-lei, visa-se promover, de modo mais eficaz, as potencialidades que as medidas conexas com a tributação dos veículos automóveis apresentam enquanto factor de sensibilização dos cidadãos e dos diversos agentes para uma maior segurança nas estradas portuguesas e para comportamentos ambientalmente mais exigentes.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo n.º 8 do artigo 50.º da Lei n.º 60-A/2005, de 30 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei altera o regime e os requisitos exigíveis para beneficiar do incentivo fiscal à destruição de automóveis ligeiros em fim de vida previsto no Decreto-Lei n.º 292-A/2000, de 15 de Novembro, com as alterações introduzidas pelas Leis n.os 109-B/2001, de 27 de Dezembro, 32-B/2002, de 30 de Dezembro, 107-B/2003, de 31 de Dezembro, 55-B/2004, de 30 de Dezembro, e 60-A/2005, de 30 de Dezembro, e pelo Decreto-Lei n.º 196/2003, de 23 de Agosto.
+
+###### Artigo 2.º — Alteração ao Decreto-Lei n.º 292-A/2000
+
+Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º e 10.º do Decreto-Lei n.º 292-A/2000, de 15 de Novembro, com as alterações introduzidas pelas Leis n.os 109-B/2001, de 27 de Dezembro, 32-B/2002, de 30 de Dezembro, 107-B/2003, de 31 de Dezembro, 55-B/2004, de 30 de Dezembro, e 60-A/2005, de 30 de Dezembro, e pelo Decreto-Lei n.º 196/2003, de 23 de Agosto, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+1 - O presente decreto-lei tem por objecto a criação de um incentivo fiscal à destruição de automóveis ligeiros em fim de vida, visando a melhoria da segurança rodoviária e da qualidade do ambiente, designadamente de forma a dar cumprimento ao disposto no Programa Nacional para as Alterações Climáticas.
+
+2 - As regras relativas à emissão dos certificados de destruição e cancelamento de matrícula constam do Decreto-Lei n.º 196/2003, de 23 de Agosto.
+
+Artigo 2.º
+
+Conteúdo e condições do incentivo
+
+1 - O incentivo fiscal à destruição de automóveis ligeiros em fim de vida reveste a forma de redução do imposto automóvel devido pelo respectivo proprietário na compra de automóvel ligeiro novo, nos termos seguintes:
+
+a) Redução de (euro) 1000, para automóveis ligeiros a destruir, cuja primeira matrícula haja sido atribuída em período igual ou superior a 10 anos e inferior a 15 anos;
+
+b) Redução de (euro) 1250, para automóveis ligeiros a destruir, cuja primeira matrícula haja sido atribuída em período igual ou superior a 15 anos.
+
+2 - Só podem beneficiar do incentivo fiscal referido no número anterior os automóveis ligeiros que, sendo propriedade do requerente há mais de seis meses, preencham cumulativamente as seguintes condições:
+
+a) Possuam matrícula por um período igual ou superior a 10 anos;
+
+b) Estejam livres de quaisquer ónus ou encargos;
+
+c) Estejam em condições de circulação pelos seus próprios meios ou, não sendo esse o caso, possuam ainda todos os seus componentes;
+
+d) Sejam entregues para destruição nos termos fixados pelo presente decreto-lei.
+
+3 - O incentivo fiscal deve ser requerido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) mediante exibição do certificado de destruição a que se refere o n.º 1 do artigo 4.º
+
+Artigo 3.º
+
+[...]
+
+1 - O proprietário de automóvel ligeiro que pretenda beneficiar da redução do imposto automóvel deve entregar o veículo a destruir num dos centros de recepção ou operadores de desmantelamento licenciados nos termos do Decreto-Lei n.º 196/2003, de 23 de Agosto, ou, alternativamente, num dos centros de inspecção de veículos (CIV) constantes da lista divulgada pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT).
+
+2 - Nos casos em que o veículo a destruir seja entregue num dos centros de recepção ou operadores de desmantelamento referidos no número anterior, o seu proprietário deve:
+
+a) Entregar o documento de identificação do veículo e o título de registo de propriedade ou, em alternativa, o certificado de matrícula;
+
+b) Requerer o cancelamento da respectiva matrícula, através do preenchimento de impresso de modelo legal, que é disponibilizado pelo operador.
+
+3 - Nos casos em que o veículo a destruir seja entregue num dos CIV referidos no n.º 1, o seu proprietário deve:
+
+a) Entregar o documento de identificação do veículo e o título de registo de propriedade ou, em alternativa, o certificado de matrícula;
+
+b) Requerer o cancelamento da respectiva matrícula, através do preenchimento de impresso de modelo legal, que deve ser adquirido no IMTT;
+
+c) Entregar a quantia correspondente ao valor fixado para uma inspecção obrigatória.
+
+4 - O CIV que receber o veículo deve proceder à sua identificação e registo fotográfico, conferir a documentação a ele relativa e comunicar a um operador de desmantelamento para que proceda ao seu levantamento.
+
+5 - Aos CIV encontra-se vedada a comercialização dos veículos entregues ou dos seus componentes.
+
+Artigo 4.º
+
+[...]
+
+1 - O operador de desmantelamento que recebe o veículo, directamente ou através de um centro de recepção ou CIV, deve proceder à sua identificação, conferir a respectiva documentação, desmantelá-lo e proceder à emissão do certificado de destruição nos termos dos n.os 7 a 10 do artigo 17.º do Decreto-Lei n.º 196/2003, de 23 de Agosto.
+
+2 - Para obtenção do incentivo fiscal referido no artigo 1.º, o proprietário do veículo deve apresentar à DGAIEC cópia do certificado de destruição.
+
+3 - ...
+
+4 - (Revogado.)
+
+Artigo 6.º
+
+[...]
+
+1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 1250 o incumprimento dos deveres previstos nos n.os 4 e 5 do artigo 3.º
+
+2 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 2500 a falsificação do certificado de destruição ou a prestação de falsas informações.
+
+3 - A tentativa e a negligência são sempre puníveis, sendo os limites mínimos e máximos das coimas previstas nos números anteriores reduzidos para metade.
+
+Artigo 7.º
+
+[...]
+
+A fiscalização do cumprimento do presente decreto-lei compete ao IMTT, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à DGAIEC, à Inspecção-Geral do Ambiente e do Ordenamento do Território e às comissões de coordenação e desenvolvimento regional.
+
+Artigo 8.º
+
+[...]
+
+1 - A instrução dos processos de contra-ordenação compete ao IMTT, aplicando-se ao seu processamento as disposições previstas no Código da Estrada para as infracções rodoviárias.
+
+2 - A aplicação das coimas é da competência do IMTT.
+
+Artigo 10.º
+
+[...]
+
+1 - O presente decreto-lei entra em vigor no dia 1 de Dezembro de 2000, vigorando até 31 de Dezembro de 2007.
+
+2 - Nas Regiões Autónomas dos Açores e da Madeira, na impossibilidade de os veículos serem destruídos por operadores autorizados nos termos do Decreto-Lei n.º 196/2003, de 23 de Agosto, o incentivo fiscal é concedido na condição de a destruição ser efectuada sob controlo aduaneiro, observando-se as demais condições previstas no presente decreto-lei.
+
+3 - Os incentivos previstos no n.º 1 do artigo 2.º são aplicáveis aos pedidos de redução do imposto automóvel que sejam instruídos com certificados de destruição emitidos em 2006, desde que estejam válidos.»
+
+###### Artigo 3.º — Norma transitória
+
+Até à entrada em vigor do diploma orgânico do Instituto da Mobilidade e dos Transportes Terrestre, I. P., da Inspecção-Geral do Ambiente e do Ordenamento do Território e das comissões de coordenação e desenvolvimento regional, as competências atribuídas no presente decreto-lei a estas entidades são exercidas, respectivamente, pela Direcção-Geral de Viação, pela Inspecção-Geral do Ambiente e pelas direcções regionais do ambiente e ordenamento do território.
+
+###### Artigo 4.º — Norma revogatória
+
+É revogado o n.º 4 do artigo 4.º do Decreto-Lei n.º 292-A/2000, de 15 de Novembro, na redacção dada pela Lei n.º 109-B/2001, de 27 de Dezembro.
+
+###### Artigo 5.º — Produção de efeitos
+
+O Decreto-Lei n.º 292-A/2000, de 15 de Novembro, na redacção dada pelo presente decreto-lei, produz efeitos de 1 de Janeiro a 31 de Dezembro de 2007.
+
+###### Artigo 6.º — Republicação
+
+É republicado, em anexo, que faz parte integrante do presente decreto-lei, o Decreto-Lei n.º 292-A/2000, de 15 de Novembro, com a redacção actual.
+
+Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Carlos Manuel Costa Pina - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
+
+Promulgado em 8 de Fevereiro de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 9 de Fevereiro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO — Decreto-Lei n.º 292-A/2000, de 15 de Novembro
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei tem por objecto a criação de um incentivo fiscal à destruição de automóveis ligeiros em fim de vida, visando a melhoria da segurança rodoviária e da qualidade do ambiente, designadamente de forma a dar cumprimento ao disposto no Programa Nacional para as Alterações Climáticas.
+
+2 - As regras relativas à emissão dos certificados de destruição e cancelamento de matrícula constam do Decreto-Lei n.º 196/2003, de 23 de Agosto.
+
+###### Artigo 2.º — Conteúdo e condições do incentivo
+
+1 - O incentivo fiscal à destruição de automóveis ligeiros em fim de vida reveste a forma de redução do imposto automóvel devido pelo respectivo proprietário na compra de automóvel ligeiro novo, nos termos seguintes:
+
+a) Redução de (euro) 1000, para automóveis ligeiros a destruir, cuja primeira matrícula haja sido atribuída em período igual ou superior a 10 anos e inferior a 15 anos;
+
+b) Redução de (euro) 1250, para automóveis ligeiros a destruir, cuja primeira matrícula haja sido atribuída em período igual ou superior a 15 anos.
+
+2 - Só podem beneficiar do incentivo fiscal referido no número anterior os automóveis ligeiros que, sendo propriedade do requerente há mais de seis meses, preencham cumulativamente as seguintes condições:
+
+a) Possuam matrícula por um período igual ou superior a 10 anos;
+
+b) Estejam livres de quaisquer ónus ou encargos;
+
+c) Estejam em condições de circulação pelos seus próprios meios ou, não sendo esse o caso, possuam ainda todos os seus componentes;
+
+d) Sejam entregues para destruição nos termos fixados pelo presente decreto-lei.
+
+3 - O incentivo fiscal deve ser requerido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) mediante exibição do certificado de destruição a que se refere o n.º 1 do artigo 4.º
+
+###### Artigo 3.º — Controlo de documentação
+
+1 - O proprietário de automóvel ligeiro que pretenda beneficiar da redução do imposto automóvel deve entregar o veículo a destruir num dos centros de recepção ou operadores de desmantelamento licenciados nos termos do Decreto-Lei n.º 196/2003, de 23 de Agosto, ou, alternativamente, num dos centros de inspecção de veículos (CIV) constantes da lista divulgada pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT).
+
+2 - Nos casos em que o veículo a destruir seja entregue num dos centros de recepção ou operadores de desmantelamento referidos no número anterior, o seu proprietário deve:
+
+a) Entregar o documento de identificação do veículo e o título de registo de propriedade ou, em alternativa, o certificado de matrícula;
+
+b) Requerer o cancelamento da respectiva matrícula, através do preenchimento de impresso de modelo legal, que é disponibilizado pelo operador.
+
+3 - Nos casos em que o veículo a destruir seja entregue num dos CIV referidos no n.º 1, o seu proprietário deve:
+
+a) Entregar o documento de identificação do veículo e o título de registo de propriedade ou, em alternativa, o certificado de matrícula;
+
+b) Requerer o cancelamento da respectiva matrícula, através do preenchimento de impresso de modelo legal, que deve ser adquirido no IMTT;
+
+c) Entregar a quantia correspondente ao valor fixado para uma inspecção obrigatória.
+
+4 - O CIV que receber o veículo deve proceder à sua identificação e registo fotográfico, conferir a documentação a ele relativa e comunicar a um operador de desmantelamento para que proceda ao seu levantamento.
+
+5 - Aos CIV encontra-se vedada a comercialização dos veículos entregues ou dos seus componentes.
+
+###### Artigo 4.º — Controlo de destruição
+
+1 - O operador de desmantelamento que recebe o veículo, directamente ou através de um centro de recepção ou CIV, deve proceder à sua identificação, conferir a respectiva documentação, desmantelá-lo e proceder à emissão do certificado de destruição nos termos dos n.os 7 a 10 do artigo 17.º do Decreto-Lei n.º 196/2003, de 23 de Agosto.
+
+2 - Para obtenção do incentivo fiscal referido no artigo 1.º, o proprietário do veículo deve apresentar à DGAIEC cópia do certificado de destruição.
+
+3 - Para efeitos de obtenção do incentivo previsto no presente diploma, o certificado deve ser utilizado no prazo de um ano a contar da respectiva emissão, só podendo ser utilizado um certificado em cada aquisição de veículo novo.
+
+###### Artigo 5.º — Exclusão de aplicabilidade
+
+Aos veículos novos adquiridos ao abrigo do presente diploma não é aplicável o disposto no artigo 12.º do Decreto-Lei n.º 40/93, de 18 de Fevereiro.
+
+###### Artigo 6.º — Regime sancionatório
+
+1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 1250 o incumprimento dos deveres previstos nos n.os 4 e 5 do artigo 3.º
+
+2 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 2500 a falsificação do certificado de destruição ou a prestação de falsas informações.
+
+3 - A tentativa e a negligência são sempre puníveis, sendo os limites mínimos e máximos das coimas previstas nos números anteriores reduzidos para metade.
+
+###### Artigo 7.º — Fiscalização
+
+A fiscalização do cumprimento do presente decreto-lei compete ao IMTT, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à DGAIEC, à Inspecção-Geral do Ambiente e do Ordenamento do Território e às comissões de coordenação e desenvolvimento regional.
+
+###### Artigo 8.º — Aplicação de sanções
+
+1 - A instrução dos processos de contra-ordenação compete ao IMTT, aplicando-se ao seu processamento as disposições previstas no Código da Estrada para as infracções rodoviárias.
+
+2 - A aplicação das coimas é da competência do IMTT.
+
+###### Artigo 9.º — Destino das receitas provenientes da aplicação das coimas
+
+A distribuição das receitas provenientes das coimas previstas no presente diploma rege-se pelo disposto nos n.os 1, 2 e 4 do artigo 1.º do Decreto-Lei n.º 369/99, de 18 de Setembro.
+
+###### Artigo 10.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor no dia 1 de Dezembro de 2000, vigorando até 31 de Dezembro de 2007.
+
+2 - Nas Regiões Autónomas dos Açores e da Madeira, na impossibilidade de os veículos serem destruídos por operadores autorizados nos termos do Decreto-Lei n.º 196/2003, de 23 de Agosto, o incentivo fiscal é concedido na condição de a destruição ser efectuada sob controlo aduaneiro, observando-se as demais condições previstas no presente decreto-lei.
+
+3 - Os incentivos previstos no n.º 1 do artigo 2.º são aplicáveis aos pedidos de redução do imposto automóvel que sejam instruídos com certificados de destruição emitidos em 2006, desde que estejam válidos.

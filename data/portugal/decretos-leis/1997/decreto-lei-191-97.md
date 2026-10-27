@@ -1,0 +1,303 @@
+---
+schema_version: '1.0'
+id: pt:dre:144842:por
+title: Decreto-Lei n.º 191/97
+short_title: null
+summary: Estabelece as medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves vivos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 191/97
+official_date: null
+publication_date: '1997-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/1997, Série I-A de 1997-07-29
+  number: '173'
+  series: I
+  supplement: null
+  pages: 3869 - 3872
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/07/173a00/38693872.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/191/1997/07/29/p/dre/pt/html
+  oj: null
+  dre: '144842'
+  dre_path: /dr/detalhe/decreto-lei/191-1997-144842
+  internal: pt:dre:144842:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1997-144842
+  metadata_url: https://data.dre.pt/eli/dec-lei/191/1997/07/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1997-144842
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:50:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d7e78dda74f0c16be2d27000f345e0d6a0bfc062720c63f5dc5ac02a1e3ae7b2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Aproximação das Legislações
+- Aquicultura
+- Contra-ordenação
+- Controlo Sanitário
+- Direção Geral de Veterinária
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Direcção Regional de Agricultura
+- Doença Animal
+- Fiscalização
+- Inspecção Geral das Actividades Económicas
+- Instituto de Investigação das Pescas e do Mar
+- Madeira.região Autónoma
+- Molusco
+- Região Autónoma
+- Regulamento
+- Saúde Animal
+- União Europeia
+relationships:
+- type: amended_by
+  target: pt:dre:491908:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:244946:por
+  label: "Alterada a al. a) do nº 1 e o nº 2 do art. 3º e o nº 2 do art. 4º do anexo A, pelo DEC LEI.299/98.1998.09.28.MADRP\
+    \ DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1998-244946
+  date: '1998-09-28'
+- type: cites
+  target: celex:31991L0067
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/67/oj
+- type: cites
+  target: celex:31995L0070
+  label: null
+  source: http://data.europa.eu/eli/dir/1995/70/oj
+- type: repealed_by
+  target: pt:dre:491908:por
+  label: "Revogado o presente diploma, na redacção dada pelo Dec Lei 299/98, de 28-Set, pelo DEC LEI.152/2009.02.07.2009.MADRP,\
+    \ DR.IS [126] de 02.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2009-491908
+  date: '2009-07-02'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:50:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 191/97
+
+de 29 de Julho
+
+A Directiva n.º [95/70/CE](http://data.europa.eu/eli/dir/1995/70/oj?locale=pt), do Conselho, de 22 de Dezembro, estabelece medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves.
+
+As doenças dos moluscos referidas na lista II do anexo A da Directiva n.º [91/67/CEE](http://data.europa.eu/eli/dir/1991/67/oj?locale=pt), do Conselho, de 28 de Janeiro de 1992, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura, têm efeitos bastante graves para a conquicultura, podendo atingir rapidamente proporções epizoóticas, provocando mortalidade eperturbações susceptíveis de reduzir drasticamente a rentabilidade da conquicultura.
+
+É, portanto, necessário fixar as medidas a tomar em caso de eclosão de doenças, por forma a garantir um desenvolvimento racional do sector da conquicultura e a contribuir para a defesa da saúde animal, devendo essas medidas evitar a propagação da doença, nomeadamente no que se refere à retirada de moluscos bivalves vivos das explorações ou zonas em questão.
+
+Para detectar a origem da doença e evitar a sua propagação é indispensável realizar um inquérito epidemiológico aprofundado e harmonizar o diagnóstico dessas doenças, que deve ser efectuado sob o controlo de laboratório competente, de forma a garantir um sistema de luta eficaz.
+
+Por fim, deve-se ter em conta que as medidas comuns de luta contra as doenças constituem uma base mínima para um nível homogéneo de saúde animal.
+
+Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [95/70/CE](http://data.europa.eu/eli/dir/1995/70/oj?locale=pt), do Conselho, de 22 de Dezembro, que estabelece medidas comunitárias mínimas de controlo de certas doenças dos moluscos bivalves.
+
+###### Artigo 2.º — Disposições regulamentares
+
+As normas técnicas de execução regulamentar do presente diploma constam dos anexos A a D deste diploma e dele fazem parte integrante.
+
+###### Artigo 3.º — Direcção, coordenação e controlo
+
+A direcção, coordenação e controlo das acções a desenvolver para execução deste diploma e respectivos anexos competem à Direcção-Geral de Veterinária, de ora em diante designada por DGV, como autoridade sanitária veterinária nacional.
+
+###### Artigo 4.º — Fiscalização
+
+1 - Compete à DGV e às direcções regionais de agricultura assegurar a fiscalização do cumprimento das normas constantes do presente diploma e suas disposições regulamentares, sem prejuízo das competências atribuídas por lei a outras entidades, designadamente à Inspecção-Geral das Actividades Económicas, na sua qualidade de autoridade fiscalizadora e órgão de polícia criminal.
+
+2 - A DGV pode, no que se refere ao diagnóstico da vigilância e controlo sanitário das explorações, bem como dos bancos naturais de moluscos bivalves, delegar a competência a que se refere o número anterior no Instituto de Investigação das Pescas e do Mar (IPIMAR).
+
+###### Artigo 5.º — Contra-ordenações
+
+1 - Constituem contra-ordenações, puníveis pelo director-geral de Fiscalização e Controlo da Qualidade Alimentar, de acordo com o previsto no Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 244/95, de 14 de Setembro:
+
+a) O incumprimento das condições exigidas para o controlo das doenças dos moluscos bivalves pelo anexo A do presente diploma, do qual faz parte integrante, e pelos artigos 3.º, 6.º, 7.º, alínea b), 9.º, n.os 2, 3 e 4, 12.º, 13.º, 14.º, 16.º e 17.º e pelo anexo A, coluna 2, lista II, pelo anexo B, ponto III, pelo anexo C, ponto III, e pelo anexo D da Portaria n.º 522/95, de 31 de Maio;
+
+b) O não cumprimento das condições exigidas para o transporte de animais e produtos de aquicultura nos termos do anexo A do presente diploma e nos artigos 4.º e 8.º, do anexo E, capítulos III e IV, e do anexo G da Portaria n.º 522/95, de 31 de Maio;
+
+c) A oposição ou criação de impedimentos aos controlos previstos no anexo A do presente diploma e no artigo 15.º na Portaria n.º 522/95, de 31 de Maio.
+
+2 - A negligência e a tentativa são puníveis.
+
+###### Artigo 6.º — Sanções acessórias
+
+Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas no artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Dezembro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 244/95, de 14 de Setembro.
+
+###### Artigo 7.º — Processo
+
+1 - Ao processo conducente, nos termos do artigo 5.º, à aplicação de coimas aplica-se com as devidas adaptações toda a tramitação processual prevista no Decreto-Lei n.º 433/82, de 27 de Outubro.
+
+2 - A entidade que levantar o auto de notícia remeterá o mesmo aos serviços veterinários da direcção regional de agricultura da área em que foi praticada a infracção para instrução do competente processo.
+
+###### Artigo 8.º — Afectação do produto das coimas
+
+A afectação do produto das coimas cobradas em aplicação do artigo 5.º far-se-á da seguinte forma:
+
+a) 10% para a entidade que levantar o auto;
+
+b) 10% para a entidade que instruiu o processo;
+
+c) 20% para a Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar;
+
+d) 20% para o Instituto de Reinserção Social;
+
+e) 40% para o Estado.
+
+###### Artigo 9.º — Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa do presente diploma cabe aos serviços competentes das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV, na qualidade de autoridade sanitária veterinária nacional.
+
+Visto e aprovado em Conselho de Ministros de 8 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.
+
+Promulgado em 11 de Julho de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 18 de Julho de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## ANEXO A — Regulamento das Medidas Comunitárias Mínimas de Controlo de Certas Doenças dos Moluscos Bivalves
+
+###### Artigo 1.º — Âmbito
+
+O presente Regulamento define as medidas comunitárias mínimas de luta contra as doenças dos moluscos bivalves referidos no anexo B.
+
+###### Artigo 2.º — Conceitos
+
+1 - Para efeitos do presente Regulamento, são aplicáveis as definições do artigo 2.º do Regulamento das Condições de Polícia Sanitária Que Regem a Introdução no Mercado de Animais e de Produtos da Aquicultura, aprovado pela Portaria n.º 522/95, de 31 de Maio, bem como as definições do n.º 2.º da Portaria n.º 552/95, de 8 de Junho, que estabelece as normas sanitárias que regem a produção e colocação no mercado de moluscos bivalves vivos.
+
+2 - Entende-se ainda por mortalidade anormal observada uma mortalidade súbita que afecte aproximadamente 15% das unidades populacionais e que ocorra durante um curto período entre dois controlos (confirmada num prazo de 15 dias).
+
+3 - Numa maternidade considera-se que a mortalidade é anormal sempre que o moluscicultor não consiga obter larvas durante um período em que se verifiquem várias desovas de reprodutores diferentes.
+
+4 - Num criadeiro considera-se que a mortalidade é anormal sempre que se registe inopinadamente uma mortalidade súbita relativamente importante em vários tanques.
+
+###### Artigo 3.º — Registo das explorações
+
+1 - Todas as explorações que cultivem moluscos bivalves devem:
+
+a) Estar registadas na DGV, que elaborará uma lista das explorações registadas e a transmitirá ao IPIMAR;
+
+b) Proceder ao registo:
+
+1) Dos moluscos vivos introduzidos na exploração, incluindo todas as informações relacionadas com o seu fornecimento, número ou peso, tamanho e origem;
+
+2) Dos moluscos bivalves que saiam da exploração para reimersão, incluindo todas as informações relacionadas com a sua expedição, número ou peso, tamanho e destino;
+
+3) Dos casos de mortalidade anormal observados.
+
+2 - O registo referido no número anterior poderá ser inspeccionado pela DGV e pelo IPIMAR, devendo ser actualizado regularmente e conservado durante um período de quatro anos.
+
+###### Artigo 4.º — Notificação da suspeita de doença
+
+Os moluscicultores devem notificar, o mais rapidamente possível, a DGV da suspeita das seguintes situações:
+
+a) Da existência das doenças referidas na lista II do anexo A do Regulamento das Condições de Polícia Sanitária Que Regem a Introdução no Mercado de Animais e de Produtos da Aquicultura, aprovado pela Portaria n.º 522/95, de 31 de Maio, bem como das referidas no anexo B do presente diploma;
+
+b) De uma eventual taxa de mortalidade anormal observada em moluscos bivalves nas explorações, zonas de exploração ou viveiros naturais explorados ou nos centros de depuração ou tanques de armazenagem que despejam as águas no mar.
+
+2 - Após a notificação referida no número anterior, a DGV comunicará a mesma ao IPIMAR e poderá determinar:
+
+a) A colheita de amostras para exame num laboratório aprovado;
+
+b) A proibição, até ao conhecimento do resultado do exame referido na alínea anterior, da saída de moluscos bivalves da exploração, zona de exploração ou viveiros naturais explorados ou dos centros de depuração ou dos tanques de armazenagem atingidos que despejam as águas no mar, destinados a reparcagem ou reimersão noutra exploração ou no meio aquático, salvo autorização dos serviços oficiais.
+
+3 - A proibição prevista na alínea b) do número anterior só será levantada no caso de o exame previsto na alínea a) não revelar a presença de um agente patogénico.
+
+4 - Se o exame a que se refere a alínea a) do n.º 2 revelar a presença de um agente patogénico na origem da mortalidade anormal observada, ou susceptível de estar na sua origem, ou de um agente patogénico de uma das doenças referidas no n.º 1, a DGV e o IPIMAR procederão a um inquérito epizoótico, a fim de:
+
+a) Determinar os modos de contaminação possíveis;
+
+b) Averiguar se saíram moluscos da exploração, zona de exploração ou viveiros naturais explorados, para reparcagem ou reimersão noutro local, durante o período que antecedeu a observação da mortalidade anormal.
+
+5 - Se o inquérito revelar que a doença foi introduzida numa ou mais explorações, zonas de exploração ou viveiros naturais explorados, na sequência, designadamente, de um movimento de moluscos, são aplicáveis as disposições previstas no n.º 2.
+
+6 - Em derrogação do disposto na alínea c) do n.º 1 do artigo 3.º do Regulamento das Condições de Polícia Sanitária Que Regem a Introdução no Mercado de Animais e Produtos da Aquicultura, aprovado pela Portaria n.º 522/95, de 31 de Maio, a DGV pode autorizar, no seu território, o movimento de moluscos bivalves vivos destinados a outras explorações, zonas de exploração ou viveiros naturais explorados infectados pela doença a que se refere o n.º 4.
+
+###### Artigo 5.º — Laboratórios de referência
+
+1 - Na falta de um laboratório competente na matéria, poderá a DGV recorrer a um dos laboratórios nacionais de referência que constam do anexo C.
+
+2 - O laboratório comunitário de referência é o que consta do anexo D.
+
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173a00/38693872.pdf)
+
+## ANEXO C — Laboratórios nacionais de referência para as doenças dos moluscos bivalves
+
+Alemanha - Bundesforschungsanstalt für Viruskrankheiten der Tiere, Anstaltsteil Insel Riems, D-0-2201 Insel Riems, Alemanha.
+
+Espanha - Instituto de investigaciones marinas del C. S. I. C., c/Eduardo Cabello, 6, 36208 Vigo (Pontevedra), Espanha.
+
+França - IFREMER, Boîte postale 133, 17390 La Tremblade, França.
+
+Grécia - Kentjo Kthniatjicvn Idjnmatwn Qessaloniuchz, Institouto Loywdwn cau Pajaoticwn Noshmatwn, Tmhma Paqologiaz Udjobiwn Ojganismwn, 26 Octwbjiou 80, 54627 Oessulonich, Grécia.
+
+Irlanda - Fisheries Research Centre, Abbotstown, Castleknock, Dublin 15, Irlanda.
+
+Itália - Istituto zooprofilattico sperimentale delle Venezie, Laboratorio di Ittiopatologia, Via della Roggia, 92, 33030 Basaldella di Campoformido (UD), Itália.
+
+Países Baixos - Rijksinstituut voor visserijonderzoek (RIVO-DLO), Haringkade 1, Postbus 68, 1970 AB Ijmuiden, Países Baixos.
+
+Reino Unido:
+
+Fish Diseases Laboratory, The Nothe, Weymouth, Dorset DT4 8UB, Reino Unido.
+
+The Marine Laboratory, P. O. Box 101, Victoria Road, Aberdeen AB9 8DB, Reino Unido.
+
+## ANEXO D — Laboratório comunitário de referência para as doenças dos moluscos bivalves
+
+IFREMER, Boîte postale 133, 17390 La Tremblade, França.

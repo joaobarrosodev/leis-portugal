@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:108139582:por
+title: Resolução do Conselho de Ministros n.º 130/2017
+short_title: null
+summary: Aprova os princípios técnicos, a metodologia e as regras de operacionalização aplicáveis à edição de 2017 do Orçamento
+  Participativo Jovem Portugal
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 130/2017
+official_date: null
+publication_date: '2017-09-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 177/2017, Série I de 2017-09-13
+  number: '177'
+  series: I
+  supplement: null
+  pages: 5377 - 5380
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/09/17700/0537705380.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/130/2017/09/13/p/dre/pt/html
+  oj: null
+  dre: '108139582'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/130-2017-108139582
+  internal: pt:dre:108139582:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2017-108139582
+  metadata_url: https://data.dre.pt/eli/resolconsmin/130/2017/09/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/130-2017-108139582
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:11:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f74f008feba2a22ae2c17e48a1c9853424fdb4efca97baa4e86d9f30b0c01957
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:11:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Definição de Competências
+- Formulário Eletrónico
+- Instituto Português do Desporto e Juventude
+- Jovem
+- Juventude
+- Madeira.região Autónoma
+- Orçamento
+- Orçamento Participativo Jovem Portugal
+- Orçamento Participativo Portugal
+- Plataforma Eletrónica
+- Política de Juventude
+- Prazo
+- Projeto
+- Regulamentação de Atos Legislativos
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/25/2017/01/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/25/2017/01/30/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: pt:dre:105820642:por
+  label: null
+  source: null
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:11:17Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 130/2017
+
+No Programa do XXI Governo Constitucional foi consagrado o compromisso de criação de um orçamento participativo a nível nacional, tendo o mesmo sido estabelecido na [Lei n.º 42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, que aprovou o Orçamento do Estado para 2017. No artigo 3.º daquela lei, determina-se a criação do Orçamento Participativo Portugal (OPP) bem como, mais especificamente, do Orçamento Participativo Jovem Portugal (OPJP).
+
+Ao longo das últimas décadas, tem-se verificado um progressivo e crescente afastamento dos cidadãos mais jovens da participação política e pública. O XXI Governo Constitucional assume a especial responsabilidade de combater este fenómeno, desenvolvendo instrumentos de participação democrática e envolvimento de todas as camadas da população nos processos políticos.
+
+Entre estes, contam-se os orçamentos participativos com escala nacional, que procuram promover o reforço da importância da participação dos cidadãos nas escolhas democráticas. Aqui, Portugal assumiu, com a aprovação da [Resolução do Conselho de Ministros n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2017-105820642), de 30 de janeiro, um papel pioneiro no plano global, já que nunca um projeto desta natureza foi aplicado em todo o território de qualquer país.
+
+São de grande valia as práticas encorajadoras da participação dos cidadãos pertencentes às gerações mais novas, sendo neste âmbito e propósito que se insere o OPJP, que constitui justamente um processo para o aprofundamento da participação, da democracia e da escolha consciente dos cidadãos mais jovens, contando com a sua maior espontaneidade e potencial criativo, propiciando igualmente, a muitos dos cidadãos abrangidos, o seu primeiro contacto com um processo de decisão política.
+
+Com o OPJP contribui-se para que os cidadãos mais jovens sejam encarados como parte ativa da sociedade, a qual tem a ganhar com medidas que procurem que os mesmos se comprometam com as decisões coletivas e sejam vigilantes face às decisões dos organismos públicos. Com esta medida procura aprofundar-se, em faixas etárias jovens, os conceitos, as práticas e as competências da cidadania.
+
+Em Portugal, é já vasto o conjunto de autarquias locais, tanto municípios, como freguesias, que viram implementados processos de participação democrática como os orçamentos participativos, em muitos destes casos com cariz juvenil.
+
+A implementação do Orçamento Participativo das Escolas (OPE) contribui, também, para o fortalecimento da atenção e envolvimento dos cidadãos jovens nos processos democráticos, nomeadamente nas ferramentas de democracia participativa nas escolas. Deste modo, a par com o OPP e o OPE, o OPJP tem condições para constituir um importante contributo na consolidação deste tipo de iniciativas. É, assim, com a intenção de reforçar as várias experiências de orçamento participativo já implementadas e com o forte intuito de agregar a totalidade da população jovem do país, favorecendo a sua coesão geracional e a sua ação na sociedade, tanto nos planos coletivo como individual, que é agora implementada a primeira edição do OPJP.
+
+Assim:
+
+Nos termos do n.º 5 do artigo 3.º da [Lei n.º 42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, do n.º 2 da [Resolução do Conselho de Ministros n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2017-105820642), de 30 de janeiro, da alínea g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+
+Aprovar os princípios técnicos, a metodologia e as regras de operacionalização do Orçamento Participativo Jovem Portugal para o ano de 2017, em anexo à presente resolução e da qual faz parte integrante.
+
+Presidência do Conselho de Ministros, 7 de setembro de 2017. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — Princípios técnicos, metodologia e regras de operacionalização do Orçamento Participativo Jovem Portugal para o ano de 2017
+
+###### Artigo 1.º — Objeto
+
+O presente anexo estabelece os princípios técnicos, a metodologia e as regras de operacionalização aplicáveis à edição de 2017 do Orçamento Participativo Jovem Portugal (OPJP).
+
+###### Artigo 2.º — Objetivos
+
+São objetivos do OPJP:
+
+a) Reforçar a qualidade da democracia e dos seus instrumentos, valorizando a democracia participativa no quadro da Constituição da República Portuguesa;
+
+b) Fomentar a participação ativa e informada dos cidadãos jovens nos processos de decisão, favorecendo a existência de uma sociedade civil forte e ativa, que prossiga o desenvolvimento coeso nos planos económico e social e o correspondente aumento da qualidade de vida;
+
+c) Promover a participação dos cidadãos jovens na definição de políticas públicas adequadas às suas necessidades e conformes às suas opiniões;
+
+d) Reforçar a educação para a cidadania e o sentimento de pertença ao todo comunitário, incentivando a atuação cidadã responsável, mediante a promoção do contacto privilegiado dos cidadãos jovens com os entes públicos, envolvendo-os na permanente definição da res publica.
+
+###### Artigo 3.º — Âmbito territorial
+
+O OPJP aplica-se a todo o território nacional.
+
+###### Artigo 4.º — Áreas temáticas
+
+Os projetos admitidos ao OPJP na edição de 2017 abrangem as áreas das políticas públicas relacionadas com o desporto inclusivo, educação para as ciências, inovação social e sustentabilidade ambiental.
+
+###### Artigo 5.º — Montante
+
+A edição de 2017 do OPJP dispõe de um montante global de (euro) 300 000, proveniente da dotação orçamental do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), equivalente a 10 % do valor total global do Orçamento Participativo Portugal (OPP).
+
+###### Artigo 6.º — Apresentação de propostas
+
+1 - Podem apresentar propostas ao OPJP todos os cidadãos nacionais e os cidadãos estrangeiros a residir legalmente em Portugal, com idade compreendida entre os 14 e os 30 anos, inclusive.
+
+2 - A apresentação de propostas é feita através da plataforma eletrónica do OPJP ou nos serviços desconcentrados do IPDJ, I. P., mediante a utilização de formulário próprio para o efeito.
+
+###### Artigo 7.º — Fases do Orçamento Participativo Jovem Portugal
+
+A edição de 2017 do OPJP compreende as seguintes fases:
+
+a) Fase I de discussão e de elaboração de propostas ao OPJP, com encontros de participação em todo o território nacional, entre 2 e 29 de outubro de 2017;
+
+b) Fase II de análise técnica das propostas por cada uma das áreas governativas e respetivos serviços com competências nas áreas das propostas apresentadas, e, subsequentemente, transformação de propostas em projetos, com calendário, modo de execução e previsão de investimento, entre 30 de outubro e 6 de novembro de 2017;
+
+c) Fase III de publicação da lista provisória de projetos a colocar à votação e, subsequentemente, período para apresentação de reclamações por parte dos proponentes, entre 6 de novembro e 24 de novembro, nos seguintes termos:
+
+i) 6 de novembro - publicação da lista provisória;
+
+ii) 7 a 16 de novembro - período para apresentação de reclamações;
+
+iii) 17 a 24 de novembro - apreciação e eventuais retificações das propostas;
+
+d) Fase IV de votação, pelos cidadãos, dos projetos disponibilizados na plataforma eletrónica do OPJP, entre 27 de novembro e 22 de dezembro de 2017, nos seguintes termos:
+
+i) 27 de novembro - publicação da lista definitiva de projetos e início da votação;
+
+ii) 22 de dezembro - encerramento da votação;
+
+e) Fase V de apresentação pública dos projetos vencedores e inscrição dos projetos nos orçamentos respetivos, divulgando-se a avaliação preliminar da edição de 2017 do OPJP entre 26 e 29 de dezembro de 2017.
+
+###### Artigo 8.º — Propostas e projetos
+
+1 - Os encontros de participação são sessões de debate e informação presenciais para apresentação de propostas de âmbito nacional e regional, bem como para propiciar esclarecimento e auxílio aos cidadãos jovens que pretendam participar ativamente no processo do OPJP, tendo lugar em todo o território nacional.
+
+2 - No âmbito desses encontros, são disponibilizados formulários próprios para a formalização das propostas, que são apresentadas em nome individual.
+
+3 - A análise técnica de uma proposta não depende da sua apresentação em encontro de participação.
+
+4 - As propostas são consideradas elegíveis quando reúnam, cumulativamente, as seguintes condições:
+
+a) Incidam sobre as áreas temáticas indicadas no artigo 4.º;
+
+b) Sejam claras e pormenorizadas, identificando o modelo de execução e delimitando os territórios abrangidos, de forma a permitir a respetiva análise e orçamentação.
+
+5 - As propostas consideradas elegíveis são transformadas em projetos, nos termos da alínea b) do artigo anterior, indicando-se o respetivo orçamento e cronograma de execução.
+
+6 - Cada proposta dá origem apenas a um projeto.
+
+7 - Sem prejuízo do previsto no número anterior, um projeto pode incorporar duas ou mais propostas, caso exista semelhança ou complementaridade de conteúdo entre elas.
+
+8 - Da análise técnica de propostas resulta uma lista provisória de projetos a submeter à votação, bem como uma lista de projetos rejeitados e respetiva fundamentação, as quais são publicadas na plataforma eletrónica do OPJP.
+
+###### Artigo 9.º — Critérios de rejeição de propostas
+
+São rejeitadas as propostas que:
+
+a) Impliquem a construção de infraestruturas;
+
+b) Configurem pedidos de apoio ou prestação de serviços;
+
+c) Contrariem o Programa do Governo ou projetos e programas em curso nas diferentes áreas de políticas públicas;
+
+d) Sejam tecnicamente inexequíveis;
+
+e) Sejam genéricas ou muito abrangentes, não permitindo a sua transformação em projeto;
+
+f) Ultrapassem o montante de (euro) 75 000;
+
+g) Apenas tenham impacto num determinado município.
+
+###### Artigo 10.º — Reclamações
+
+1 - Os proponentes podem reclamar, dentro do período estabelecido na subalínea ii) da alínea c) do artigo 7.º, das seguintes decisões:
+
+a) Decisão quanto ao modelo de adaptação de propostas a projetos;
+
+b) Decisão de não transformação de uma proposta em projeto;
+
+c) Decisão de rejeição de uma proposta com fundamento em algum dos critérios previstos no artigo anterior.
+
+2 - A lista definitiva de projetos a submeter à votação é publicada na plataforma eletrónica do OPJP.
+
+###### Artigo 11.º — Regras aplicáveis à votação
+
+1 - Podem votar nas propostas admitidas ao OPJP todos os cidadãos nacionais e os cidadãos estrangeiros a residir legalmente em Portugal, com idade compreendida entre os 14 e os 30 anos, inclusive, cabendo a cada cidadão apenas um voto.
+
+2 - A votação dos projetos realiza-se através da plataforma eletrónica do OPJP ou através de SMS gratuito, devendo cada cidadão indicar o respetivo número de identificação civil, ou, no caso dos cidadãos estrangeiros, o número do seu título de residência.
+
+###### Artigo 12.º — Projetos vencedores e apresentação de resultados
+
+1 - Os projetos vencedores são aqueles que recolherem o maior número de votos, até se perfazer o montante de (euro) 300 000.
+
+2 - Os resultados das votações são publicados na plataforma eletrónica do OPJP e apresentados publicamente.
+
+###### Artigo 13.º — Avaliação
+
+Apresentados os projetos vencedores, é feita uma avaliação da edição de 2017 do OPJP, na qual são envolvidos, nomeadamente, os proponentes e as entidades que colaboraram na sua operacionalização.
+
+###### Artigo 14.º — Apoio técnico
+
+O apoio técnico e financeiro à operacionalização do OPJP é assegurado pelo IPDJ, I. P.

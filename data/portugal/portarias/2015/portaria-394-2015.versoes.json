@@ -1,0 +1,419 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70890759:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-115200310",
+ "dre_path": "/dr/detalhe/portaria/394-2015-70890759",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115174007",
+    "115174008",
+    "115174009",
+    "115174011",
+    "115174012",
+    "115174013",
+    "115174014"
+   ]
+  },
+  {
+   "date": "2018-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115194818:por",
+     "title": "Portaria n.º 111-A/2018",
+     "published": "2018-04-27",
+     "dre_path": "/dr/detalhe/portaria/111-a-2018-115194818"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "115174007",
+    "115174023",
+    "115174009",
+    "115174010",
+    "115174024",
+    "115174025",
+    "115174026",
+    "115174027"
+   ]
+  },
+  {
+   "date": "2019-02-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:119236552:por",
+     "title": "Portaria n.º 48/2019",
+     "published": "2019-02-07",
+     "dre_path": "/dr/detalhe/portaria/48-2019-119236552"
+    }
+   ],
+   "changes": [
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "115174007",
+    "115174023",
+    "115174009",
+    "115174010",
+    "115174024",
+    "115174025",
+    "119229764",
+    "115174027"
+   ]
+  },
+  {
+   "date": "2019-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123328901:por",
+     "title": "Portaria n.º 226/2019",
+     "published": "2019-07-19",
+     "dre_path": "/dr/detalhe/portaria/226-2019-123328901"
+    }
+   ],
+   "changes": [
+    "Adita Anexo V",
+    "Altera Artigo 1.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "115174007",
+    "185990164",
+    "115174009",
+    "115174010",
+    "185990165",
+    "185990166",
+    "185990167",
+    "185990168",
+    "185990169"
+   ]
+  },
+  {
+   "date": "2020-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130366458:por",
+     "title": "Portaria n.º 76-A/2020",
+     "published": "2020-03-18",
+     "dre_path": "/dr/detalhe/portaria/76-a-2020-130366458"
+    }
+   ],
+   "changes": [
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "115174007",
+    "185990164",
+    "115174009",
+    "115174010",
+    "185990165",
+    "185990166",
+    "185990167",
+    "185990170",
+    "185990169"
+   ]
+  },
+  {
+   "date": "2023-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214100366:por",
+     "title": "Portaria n.º 157/2023",
+     "published": "2023-06-07",
+     "dre_path": "/dr/detalhe/portaria/157-2023-214100366"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "115174007",
+    "185990164",
+    "115174009",
+    "115174010",
+    "214171910",
+    "214171911",
+    "214171912",
+    "214171913",
+    "185990169"
+   ]
+  }
+ ],
+ "fragments": {
+  "115174007": {
+   "fragment_id": "115200311",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 394/2015\n\nde 3 de novembro\n\nA Portaria n.º 274/2015, de 7 de setembro, aprovou o regime de aplicação das operações 8.1.1 «Florestação de terras agrícolas e não agrícolas», 8.1.2 «Instalação de sistemas agroflorestais», 8.1.5 «Melhoria da resiliência e do valor ambiental das florestas» e 8.1.6 «Melhoria do valor económico das florestas», inseridas na ação 8.1 «Silvicultura Sustentável» da Medida 8 «Proteção e Reabilitação dos Povoamentos Florestais» do Programa de Desenvolvimento Rural do Continente, tendo ficado prevista a regulamentação autónoma de tabela normalizada de custos unitários, que cumpre agora estabelecer.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "115174008": {
+   "fragment_id": "115200312",
+   "type": 11,
+   "heading": "Artigo 1.º — Tabela normalizada de custos unitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Tabela normalizada de custos unitários\n\n1 - É aprovada a tabela normalizada de custos unitários, conforme previsto no n.º 4 do artigo 34.º da Portaria n.º 274/2015, de 7 de setembro, constante dos anexos I a IV da presente portaria, da qual faz parte integrante.\n\n2 - Para determinação do valor de referência do apoio das operações 8.1.1 «Florestação de terras agrícolas e não agrícolas», 8.1.2 «Instalação de sistemas agroflorestais», 8.1.5 «Melhoria da resiliência e do valor ambiental das florestas» e 8.1.6 «Melhoria do valor económico das florestas», aos custos unitários constantes dos anexos I a IV da presente portaria são aplicadas, respetivamente, as taxas de apoio constantes dos anexos I, VI, IX e XI da Portaria n.º 274/2015, de 7 de setembro."
+  },
+  "115174009": {
+   "fragment_id": "115200313",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115174011": {
+   "fragment_id": "115200315",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 1.º)\n\nPreparação mecânica do terreno\n\n(Inclui marcação e piquetagem)\n\n(ver documento original)\n\nOs custos correspondentes à preparação mecânica do terreno têm uma majoração de 20 % nos locais com declive médio superior a 25 %.\n\nNotas\n\nProfundidade de execução da lavoura e do rego de plantação ou sementeira - 30 a 40 cm\n\nProfundidade de execução da vala e cômoro - 40 cm\n\nProfundidade de execução da ripagem ou subsolagem - igual ou superior a 50 cm"
+  },
+  "115174012": {
+   "fragment_id": "115200316",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 1.º)\n\nPreparação manual do terreno e abertura de covas\n\n(ver documento original)\n\nNota. - Os valores da abertura das covas são determinados com base numa densidade de referência de 1 300 plantas/ha, sendo reduzidos proporcionalmente se o valor de densidade proposta for inferior."
+  },
+  "115174013": {
+   "fragment_id": "115200317",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 1.º)\n\nPlantação, sementeira e aproveitamento de regeneração natural\n\n(ver documento original)\n\nNotas\n\n1 - Os valores da plantação e sementeira são determinados com base numa densidade de referência, sendo reduzidos proporcionalmente se a densidade proposta for inferior.\n\n2 - Os valores do aproveitamento da regeneração natural incluem a preparação do terreno e adensamento em 10 % da área.\n\nAs densidades de referência são:\n\nAcer, Bétula, Castanheiro - 950 plantas/ha\n\nEucaliptos - 1 250 plantas/ha\n\nSobreiro/Azinheira - 450 plantas/ha\n\nOutras folhosas - 950 plantas/ha\n\nCedros e Ciprestes - 1 200 plantas/ha\n\nPinheiro-bravo - 1 300 plantas/ha\n\nPinheiro-manso - 850 plantas/ha\n\nOutras resinosas - 1 300 plantas/ha"
+  },
+  "115174014": {
+   "fragment_id": "115200318",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o n.º 1 do artigo 1.º)\n\nAções associadas\n\n(ver documento original)\n\nNota. - Os valores relativos à sacha e amontoa e proteções individuais de plantas são determinados com base numa referência de 950 plantas/ha, sendo reduzidos proporcionalmente se a densidade proposta for inferior.\n\n(ver documento original)\n\nNota. - Abertura de rede viária: Terreno pouco acidentado - declive transversal (menor que) 25 % e substrato rochoso desagregável; Terreno acidentado - declive transversal (maior que) 25 % e substrato rochoso dificilmente desagregável."
+  },
+  "115174023": {
+   "fragment_id": "115200312",
+   "type": 11,
+   "heading": "Artigo 1.º — Tabela normalizada de custos unitários",
+   "in_force_from": "2018-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "###### Artigo 1.º — Tabela normalizada de custos unitários\n\n1 - É revista e atualizada a tabela normalizada de custos unitários, conforme previsto nos artigos 16.º e 27.º da Portaria n.º 134/2015, de 18 de maio, na sua redação atual, e no n.º 4 do artigo 34.º da Portaria n.º 274/2015, de 8 de setembro, na sua redação atual.\n\n2 - Para determinação do valor do apoio das operações 8.1.1. 'Florestação de terras agrícolas e não agrícolas', 8.1.2. 'Instalação de sistemas agroflorestais', 8.1.5. 'Melhoria da resiliência e do valor ambiental das florestas', e 8.1.6. 'Melhoria do valor económico das florestas', aos custos unitários constantes dos anexos i a iv da presente portaria são aplicadas, respetivamente, as taxas de apoio constantes dos anexos iii, viii, xi e xiii da Portaria n.º 274/2015, de 8 de setembro, alterada pelas Portarias n.os 249/2016, de 15 de setembro, 46/2018, de 12 de fevereiro, e 89/2018, de 29 de março.\n\n3 - Para determinação do valor do apoio das operações 8.1.3. 'Prevenção da floresta contra agentes bióticos e abióticos' e 8.1.4. 'Restabelecimento da floresta afetada por agentes bióticos e abióticos', aos custos unitários constantes dos anexos i a iv da presente portaria são aplicadas, respetivamente, as taxas de apoio constantes dos anexos ii e iv da Portaria n.º 134/2015, de 18 de maio, alterada pelas Portarias n.os 233/2016, de 29 de agosto, 249/2016, de 15 de setembro, 15-C/2018, de 12 de janeiro, 46/2018, de 12 de fevereiro, e 105-A/2018, de 18 de abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "115174010": {
+   "fragment_id": "115200314",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 21 de outubro de 2015."
+  },
+  "115174024": {
+   "fragment_id": "115200315",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": "2018-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 1.º)\n\nI - Preparação mecânica do terreno e piquetagem\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "115174025": {
+   "fragment_id": "115200316",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": "2018-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 1.º)\n\nII - Preparação manual do terreno e abertura de covas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "115174026": {
+   "fragment_id": "115200317",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": "2018-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 1.º)\n\nIII - Plantação, sementeira e aproveitamento de regeneração natural\n\n(ver documento original)\n\nAs densidades de referência para plantação/sementeira são:\n\nAcer, Bétula, Castanheiro - 950 plantas/ha\n\nEucaliptos - 1 250 plantas/ha\n\nSobreiro/Azinheira - 450 plantas/ha\n\nOutras folhosas - 950 plantas/ha\n\nCedros e Ciprestes - 1 200 plantas/ha\n\nPinheiro-bravo - 1 300 plantas/ha\n\nPinheiro-manso - 850 plantas/ha\n\nOutras resinosas - 1 300 plantas/ha\n\nAs densidades de referência para o aproveitamento de regeneração natural são:\n\nResinosas e folhosas madeireiras - 1100 plantas/ha\n\nSobreiro/Azinheira - 450 plantas/ha\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "115174027": {
+   "fragment_id": "115200318",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": "2018-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 1 do artigo 1.º)\n\nI - Proteção de solo e das plantas\n\n(ver documento original)\n\nII - Infraestruturas\n\n(ver documento original)\n\nIII - Outras intervenções nos povoamentos\n\n(ver documento original)\n\nIV - Rega\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "119229764": {
+   "fragment_id": "115200317",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": "2019-02-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2019 - Diário da República n.º 27/2019, Série I de 2019-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/48-2019-119236552), em vigor a partir de 2019-02-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 1.º)\n\nIII - Plantação, sementeira e aproveitamento de regeneração natural\n\n(ver documento original)\n\nNotas\n\n1 - Os valores da plantação e sementeira incluem a plantação/sementeira, adubação, retancha e respetivos materiais, e foram determinados com base numa densidade de referência, sendo reduzidos proporcionalmente se a densidade considerada for inferior.\n\n2 - O aproveitamento da regeneração natural compreende a sua sinalização, a marcação de faixas e controlo da vegetação espontânea de forma mecânica e/ou manual, com vista à renovação dos povoamentos, podendo ser complementada com adensamento em 10 % da área de intervenção nas situações em que tal se justifique.\n\nAs densidades de referência para plantação/sementeira são:\n\nAcer, Bétula, Castanheiro - 950 plantas/ha\n\nEucaliptos - 1 250 plantas/ha\n\nSobreiro/Azinheira - 450 plantas/ha\n\nOutras folhosas - 950 plantas/ha\n\nCedros e Ciprestes - 1 200 plantas/ha\n\nPinheiro-bravo - 1 300 plantas/ha\n\nPinheiro-manso - 850 plantas/ha\n\nOutras resinosas - 1 300 plantas/ha\n\nAs densidades de referência para o aproveitamento de regeneração natural são definidas em Orientação Técnica Específica.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2019 - Diário da República n.º 27/2019, Série I de 2019-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/48-2019-119236552), em vigor a partir de 2019-02-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "185990164": {
+   "fragment_id": "115200312",
+   "type": 11,
+   "heading": "Artigo 1.º — Tabela normalizada de custos unitários",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "###### Artigo 1.º — Tabela normalizada de custos unitários\n\n1 - É aprovada a tabela normalizada de custos unitários, conforme previsto na regulamentação específica da Medida 8 'Proteção e Reabilitação dos Povoamentos Florestais' do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.\n\n2 - Para determinação do valor de referência do apoio das operações 8.1.1 'Florestação de terras agrícolas e não agrícolas', 8.1.2 'Instalação de sistemas agroflorestais', 8.1.5 'Melhoria da resiliência e do valor ambiental das florestas' e 8.1.6 'Melhoria do valor económico das florestas', aos custos unitários constantes dos anexos I a V da presente portaria são aplicados, respetivamente, os níveis de apoio constantes dos anexos III, VIII, XI e XIII da Portaria n.º 274/2015, de 8 de setembro, na sua redação em vigor, sem prejuízo do disposto no n.º 3 do artigo 5.º da referida portaria.\n\n3 - Para determinação do valor do apoio das operações 8.1.3. 'Prevenção da floresta contra agentes bióticos e abióticos' e 8.1.4. 'Restabelecimento da floresta afetada por agentes bióticos e abióticos', aos custos unitários constantes dos anexos I a V da presente portaria são aplicadas, respetivamente, os níveis de apoio constantes dos anexos II e IV da Portaria n.º 134/2015, de 18 de maio, na sua redação em vigor, sem prejuízo do disposto no n.º 3 do artigo 5.º da referida portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "185990165": {
+   "fragment_id": "115200315",
+   "type": 14,
+   "heading": "Anexo I — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo I — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nI - Preparação mecânica do terreno e piquetagem\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "185990166": {
+   "fragment_id": "115200316",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo II — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nII - Preparação manual do terreno e abertura de covas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "185990167": {
+   "fragment_id": "115200317",
+   "type": 14,
+   "heading": "Anexo III — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2019 - Diário da República n.º 27/2019, Série I de 2019-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/48-2019-119236552), em vigor a partir de 2019-02-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo III — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nIII - Plantação, sementeira e aproveitamento de regeneração natural\n\n(ver documento original)\n\nAs densidades de referência para plantação/sementeira são:\n\nAcer, Bétula, Castanheiro - 950 plantas/ha\n\nEucaliptos - 1250 plantas/ha\n\nSobreiro/Azinheira - 450 plantas/ha\n\nOutras folhosas - 950 plantas/ha\n\nCedros e Ciprestes - 1200 plantas/ha\n\nPinheiro-bravo - 1300 plantas/ha\n\nPinheiro-manso - 850 plantas/ha\n\nOutras resinosas - 1300 plantas/ha\n\nAs densidades de referência para o aproveitamento de regeneração natural são definidas em Orientação Técnica Específica.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2019 - Diário da República n.º 27/2019, Série I de 2019-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/48-2019-119236552), em vigor a partir de 2019-02-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "185990168": {
+   "fragment_id": "115200318",
+   "type": 14,
+   "heading": "Anexo IV — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo IV — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nI - Proteção de solo e das plantas\n\n(ver documento original)\n\nII - Infraestruturas\n\n(ver documento original)\n\nIII - Outras intervenções nos povoamentos\n\n(ver documento original)\n\nIV - Rega\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "185990169": {
+   "fragment_id": "186029205",
+   "type": 14,
+   "heading": "Anexo V — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "## Anexo V — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nElaboração do projeto e do Plano de Gestão Florestal (PGF)\n\nPor cada classe são considerados os valores unitários (euros por hectare) indicados nos quadros abaixo:\n\nI - Elaboração e acompanhamento do projeto\n\n(ver documento original)\n\nII - Elaboração do PGF\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20"
+  },
+  "185990170": {
+   "fragment_id": "115200318",
+   "type": 14,
+   "heading": "Anexo IV — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2020-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 76-A/2020 - Diário da República n.º 55/2020, 1º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-a-2020-130366458), em vigor a partir de 2020-03-19, produz efeitos a partir de 2020-03-19",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo IV — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nI - Proteção de solo e das plantas\n\n(ver documento original)\n\nII - Infraestruturas\n\n(ver documento original)\n\nIII - Outras intervenções nos povoamentos\n\n(ver documento original)\n\nNotas\n\n1 - Os valores de desramação e poda de formação foram determinados com base numa densidade de referência de 450 árvores por hectare, sendo reduzidos proporcionalmente se a densidade for inferior.\n\n2 - O valor de seleção de varas foi determinado com base numa densidade de referência de 1400 árvores por hectare, sendo reduzido proporcionalmente se a densidade for inferior.\n\nIV - Rega\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 76-A/2020 - Diário da República n.º 55/2020, 1º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-a-2020-130366458), em vigor a partir de 2020-03-19, produz efeitos a partir de 2020-03-19\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "214171910": {
+   "fragment_id": "115200315",
+   "type": 14,
+   "heading": "Anexo I — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2023-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo I — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nPreparação mecânica do terreno e marcação e piquetagem\n\n(ver documento original)\n\nNotas\n\n1 - Os custos correspondentes à preparação mecânica do terreno, grupos A a D, têm uma majoração de 20 % nos locais com declive igual ou superior a 25 %. A verificação do declive será feita preferencialmente recorrendo ao índice de qualificação fisiográfica da parcela (IQFP) existente no sistema de identificação parcelar (SIP).\n\n2 - Profundidade de execução da lavoura e do rego de plantação ou sementeira - 30 a 40 cm.\n\n3 - Profundidade de execução da vala e cômoro - 40 cm.\n\n4 - Profundidade de execução da ripagem ou subsolagem - igual ou superior a 50 cm.\n\n5 - O valor da marcação e piquetagem foi determinado com base numa densidade de referência de 750 plantas por hectare, sendo reduzido proporcionalmente se o valor da densidade de plantação for inferior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "214171911": {
+   "fragment_id": "115200316",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2023-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo II — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nPreparação do terreno - Outras operações\n\n(ver documento original)\n\nNota. - Os valores da abertura das covas foram determinados com base numa densidade de referência de 1300 plantas/ha, sendo reduzidos proporcionalmente se o valor de densidade de plantação for inferior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "214171912": {
+   "fragment_id": "115200317",
+   "type": 14,
+   "heading": "Anexo III — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2023-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2019 - Diário da República n.º 27/2019, Série I de 2019-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/48-2019-119236552), em vigor a partir de 2019-02-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo III — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nPlantação, sementeira e aproveitamento de regeneração natural\n\n(ver documento original)\n\nNotas\n\n1 - Os valores da plantação e sementeira incluem a plantação/sementeira, adubação, retancha e respetivos materiais e foram determinados com base numa densidade de referência, sendo reduzidos proporcionalmente se a densidade considerada for inferior.\n\n2 - O aproveitamento da regeneração natural compreende a sua sinalização, a marcação de faixas, controlo da vegetação espontânea de forma mecânica e/ou manual e redução de densidades, com vista à renovação dos povoamentos, podendo ser complementada com adensamento em 10 % da área de intervenção nas situações em que tal se justifique.\n\nAs densidades de referência para plantação/sementeira são:\n\nAcer, bétula, castanheiro - 950 plantas/ha;\n\nEucaliptos - 1250 plantas/ha;\n\nSobreiro/azinheira - 450 plantas/ha;\n\nOutras folhosas - 950 plantas/ha;\n\nCedros e ciprestes - 1200 plantas/ha;\n\nPinheiro-bravo - 1300 plantas/ha;\n\nPinheiro-manso - 850 plantas/ha;\n\nOutras resinosas - 1300 plantas/ha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2019 - Diário da República n.º 27/2019, Série I de 2019-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/48-2019-119236552), em vigor a partir de 2019-02-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  },
+  "214171913": {
+   "fragment_id": "115200318",
+   "type": 14,
+   "heading": "Anexo IV — (a que se referem os n.os 2 e 3 do artigo 1.º)",
+   "in_force_from": "2023-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 76-A/2020 - Diário da República n.º 55/2020, 1º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-a-2020-130366458), em vigor a partir de 2020-03-19, produz efeitos a partir de 2020-03-19",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+   ],
+   "markdown": "## Anexo IV — (a que se referem os n.os 2 e 3 do artigo 1.º)\n\nI - Proteção de solo e das plantas\n\n(ver documento original)\n\nNotas\n\n1 - Os valores relativos à sacha e amontoa e proteções individuais de plantas (plantação/sementeira) foram determinados com base numa referência de 950 plantas/ha, sendo reduzidos proporcionalmente se a densidade de plantação for inferior.\n\n2 - O valor da instalação de culturas melhoradoras inclui gradagem (no caso do grupo K2), aquisição, distribuição e enterramento da semente, adubação e respetivos materiais.\n\nII - Infraestruturas\n\n(ver documento original)\n\nNota. - Os custos correspondentes à construção e manutenção de rede viária e à construção e manutenção de rede divisional têm uma majoração de 20 %, nos locais com declive igual ou superior a 25 %. A verificação do declive será feita preferencialmente recorrendo ao índice de qualificação fisiográfica da parcela (IQFP) existente no sistema de identificação parcelar (SIP).\n\nIII - Outras intervenções nos povoamentos\n\n(ver documento original)\n\nNotas\n\n1 - Os valores de desramação e poda de formação foram determinados com base numa referência de 450 árvores por hectare, sendo reduzidos proporcionalmente se a densidade for inferior.\n\n2 - O valor de seleção de varas foi determinado com base numa referência de 1400 árvores por hectare, sendo reduzido proporcionalmente se a densidade for inferior.\n\nIV - Rega\n\n(ver documento original)\n\nNota. - Os valores unitários relativos à rega são elegíveis para as operações localizadas, após plantação, efetuadas com recurso a trator e cisterna, durante um período máximo de três anos civis, nas zonas em que o índice de aridez é elevado ou muito elevado, respetivamente (menor que) 0,5 IR (igual ou menor que) 0,65 e IR (igual ou menor que) 0,5.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 157/2023 - Diário da República n.º 110/2023, Série I de 2023-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/157-2023-214100366), em vigor a partir de 2023-06-08, produz efeitos a partir de 2023-05-31\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 76-A/2020 - Diário da República n.º 55/2020, 1º Suplemento, Série I de 2020-03-18](https://diariodarepublica.pt/dr/detalhe/portaria/76-a-2020-130366458), em vigor a partir de 2020-03-19, produz efeitos a partir de 2020-03-19\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2019 - Diário da República n.º 137/2019, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/226-2019-123328901), em vigor a partir de 2019-07-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111-A/2018 - Diário da República n.º 82/2018, 1º Suplemento, Série I de 2018-04-27](https://diariodarepublica.pt/dr/detalhe/portaria/111-a-2018-115194818), em vigor a partir de 2018-04-28"
+  }
+ }
+}

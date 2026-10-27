@@ -1,0 +1,388 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572896:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-1078850975",
+ "dre_path": "/dr/detalhe/portaria/560-1990-572896",
+ "source_lastmod": "2026-10-02",
+ "versions": [
+  {
+   "date": "1990-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:546242:por",
+     "title": "Declaração",
+     "published": "1990-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1990-546242"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º",
+    "Retifica Anexo I"
+   ],
+   "fragments": [
+    "1078851175",
+    "1078851375",
+    "1078851575",
+    "1078851775",
+    "1078851975",
+    "1078852175",
+    "1078852375",
+    "1078852575",
+    "1078852775",
+    "1155703775",
+    "1078853175",
+    "1078853375",
+    "1078855575",
+    "1078855775",
+    "1078855975",
+    "1078856175",
+    "1078856375",
+    "1078856575",
+    "1078856775",
+    "1078856975",
+    "1078857175",
+    "1078857375",
+    "1078857575",
+    "1078857775",
+    "1078857975",
+    "1078858175",
+    "1078858375",
+    "1155703975",
+    "1078858775"
+   ]
+  },
+  {
+   "date": "2001-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:337580:por",
+     "title": "Portaria n.º 27/2001",
+     "published": "2001-01-15",
+     "dre_path": "/dr/detalhe/portaria/27-2001-337580"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "1078851175",
+    "1163395375",
+    "1163395575",
+    "1163395775",
+    "1078851375",
+    "1078851575",
+    "1078851775",
+    "1078851975",
+    "1078852175",
+    "1078852375",
+    "1078852575",
+    "1078852775",
+    "1155703775",
+    "1078853175",
+    "1078853375",
+    "1078855575",
+    "1078855775",
+    "1078855975",
+    "1177609475",
+    "1078856375",
+    "1078856575",
+    "1078856775",
+    "1078856975",
+    "1078857175",
+    "1078857375",
+    "1078857575",
+    "1078857775",
+    "1078857975",
+    "1078858175",
+    "1078858375",
+    "1155703975",
+    "1175285775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1078851175": {
+   "fragment_id": "1078851075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto Regulamentar n.º 43/87, de 17 de Julho, estabeleceu, entre outras normas reguladoras da actividade da pesca, a estrutura básica do seu exercício em águas interiores não oceânicas.\n\nAlgumas massas de água deste tio constituem, porém, relevantes espaços sócio-económicos, onde a actividade da pesca se reveste de particularidades que aconselham a sua regulamentação autónoma, embora enquadrada na estrutura básica acima referida, de forma a assegurar a correcta gestão e conservação dos recursos ocorrentes em tão sensíveis ecossistemas.\n\nNa referida regulamentação são, pois, acolhidas as especificidades que caracterizam localmente a actividade, nomeadamente no que toca a métodos e artes de pesca, tendo, quanto a estas, sido utilizada a terminologia em uso na zona.\n\nAssim, ao abrigo do artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:\n\n1.º É aprovado o Regulamento da Pesca na Ria Formosa, que, com os seus anexos, faz parte integrante da presente portaria.\n\n2.º O Regulamento da Pesca na Ria Formosa entra em vigor 60 dias após a publicação da presente portaria.\n\n3.º Por foça do disposto no artigo 60.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, deixam de ter aplicação as disposições do edital relativas à pesca na zona delimitada no artigo 2.º do regulamento aprovado por esta portaria a partir da sua entrada em vigor.\n\nMinistério da Agricultura, Pescas e Alimentação."
+  },
+  "1078851375": {
+   "fragment_id": "1078851275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 3 de Julho de 1990.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas."
+  },
+  "1078851575": {
+   "fragment_id": "1078851475",
+   "type": 14,
+   "heading": "Anexo — Regulamento da Pesca na Ria de Formosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento da Pesca na Ria de Formosa"
+  },
+  "1078851775": {
+   "fragment_id": "1078851675",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "1078851975": {
+   "fragment_id": "1078851875",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto estabelecer normas complementares reguladoras do exercício da pesca na ria Formosa, ao abrigo do disposto no artigo 59.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro."
+  },
+  "1078852175": {
+   "fragment_id": "1078852075",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona da aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona da aplicação\n\n1 - A zona de aplicação do presente Regulamento, abreviadamente designada por zona, compreende as águas interiores não oceânicas da zona lagunar da ria Formosa, bem como os respectivos leitos e margens pertencentes ao domínio público hídrico, sob jurisdição das Capitanias dos Portos de Faro, Olhão, Tavira e Vila Real de Santo António.\n\n2 - Na zona lagunar referida no n.º 1 engolobam-se as águas públicas constituídas pelos regatos, esteiros, canais, barras e suas entradas, todos os fundos, quer permanentemente submersos, quer emersos por acção das marés, e os sapais e parchais, mesmo que permanentemente emersos."
+  },
+  "1078852375": {
+   "fragment_id": "1078852275",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação da pesca\n\nA pesca que pode ser exercida na zona classifica-se em:\n\na) Pesca comercial, quando as espécies capturadas se destinam a ser objecto de comércio sob qualquer forma, quer no estado em que são extraídas da água, quer após subsequente preparação, modificação ou transformação;\n\nb) Pesca desportiva, quando praticada com fins lúdicos ou de desporto, não podendo o produto da pesca ser comercializado directa ou indirectamente."
+  },
+  "1078852575": {
+   "fragment_id": "1078852475",
+   "type": 1,
+   "heading": "Capítulo II — Pesca comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Pesca comercial"
+  },
+  "1078852775": {
+   "fragment_id": "1078852675",
+   "type": 8,
+   "heading": "Secção I — Artes de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Artes de pesca"
+  },
+  "1155703775": {
+   "fragment_id": "1078852875",
+   "type": 11,
+   "heading": "Artigo 4.º — Artes de pesca autorizadas",
+   "in_force_from": "1990-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), em vigor a partir de 1990-08-31."
+   ],
+   "markdown": "###### Artigo 4.º — Artes de pesca autorizadas\n\n1 - A pesca comercial na zona só pode ser exercida por meio das artes que estejam autorizadas e sejam licenciadas nos termos dos artigos 74.º e seguintes do Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n2 - Ao abrigo do disposto no n.º 4 do artigo 53.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, a pesca na zona só pode ser exercida com a utilização das seguintes artes:\n\na) Aparelhos de anzol fundeados:\n\nEspinel, espinhel, trole ou palangre;\n\nb) Redes de tresmalho fundeadas (para a captura de linguado e choco);\n\nc) Toneiras (para a captura de lulas e chocos);\n\nd) Murejonas e covos ou nassas (para a captura da enguia);\n\ne) Xalavares ou camaroeiros (para a captura de camarões, caranguejos e búzios);\n\nf) Amostra, corrico ou corripo;\n\ng) Cana de pesca e linha de mão.\n\n3 - A descrição e características das artes referidas no n.º 2 constam do anexo I.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), em vigor a partir de 1990-08-31."
+  },
+  "1078853175": {
+   "fragment_id": "1078853075",
+   "type": 8,
+   "heading": "Secção II — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Exercício da pesca"
+  },
+  "1078853375": {
+   "fragment_id": "1078853275",
+   "type": 11,
+   "heading": "Artigo 5.º — Quem pode exercer a pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Quem pode exercer a pesca\n\nA pesca comercial na zona, exercida com ou sem auxílio de embarcações, só é permitida a inscritos marítimos."
+  },
+  "1078855575": {
+   "fragment_id": "1078853475",
+   "type": 11,
+   "heading": "Artigo 6.º — Embarcações autorizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Embarcações autorizadas\n\nSó são autorizadas a exercer a pesca na zona as embarcações de pesca local de convés aberto caracterizadas pelo n.º 2 do artigo 67.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo artigo 1.º do Decreto Regulamentar n.º 3/89, de 28 de Janeiro."
+  },
+  "1078855775": {
+   "fragment_id": "1078855675",
+   "type": 11,
+   "heading": "Artigo 7.º — Condicionamentos ao exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condicionamentos ao exercício da pesca\n\n1 - O exercício da pesca na zona está sujeito aos seguintes condicionamentos:\n\na) Não é permitido utilizar ou ter a bordo artes que não sejam autorizadas e não tenham sido licenciadas;\n\nb) Às embarcações referidas no artigo anterior não é permitido deter, transportar, depositar ou abandonar nas margens da zona artes de pesca que não estejam autorizadas e licenciadas;\n\nc) A partir de terra firme só ser utilizadas as seguintes artes: cana de pesca, linha de mão e xalavares ou camoroeiros;\n\nd) Nenhuma arte pode ser calada de forma a prejudicar outra que já o esteja;\n\ne) Nao é permitido calar redes de tresmalho de maneira que:\n\n1) A distância entre elas ou entre caçadas seja inferior a 60 m;\n\n2) Impeçam o acesso a estabelecimentos de aquacultura viveiros de moluscos bivalves e zonas de produção natural de recursos vivos;\n\n3) A distância a comportas e estabelecimentos de aquacultura seja inferior a 50 m;\n\n4) Permaneçam caladas por mais de 24 horas consecutivas em cada período de 36 horas;\n\nf) Nenhuma outra arte de pesca pode ter qualquer dos seus extremos fixado a terra firme, ou ser fixada ou operada a partir de descarregador, aqueduto, ponte, porta de água ou qualquer outro tipo de construção semelhante, nem a bóias ou balizas de sinalização marítima ou postaletes de tabuletas;\n\ng) Não é pertimido bater nas águas («batuque»), «valar águas», «socar», lançar pedras percutir ou usar sistemas semelhantes;\n\nh) Não se podem utilizar fontes luminosas (candeio) para chamariz de peixe;\n\ni) De acordo com a legislação comunitária, e proibida a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes;\n\nj) Não é permitido iscar nem engodar com ovas de peixe;\n\nl) Não é permitida a colocação dentro de água de redes, aparelhos ou quaisquer outros dispositivos destinados a encaminhar os espécimes para espaços donde não possam sair, que os forcem a passar por um canal, esteiro ou vala e os impeçam de circular livremente, tais como ramagens, paliçadas ou outros obstáculos;\n\nm) É proibida a pesca a menos de 500 m da boca de qualquer esgoto;\n\nn) Não é permitida a pesca em áreas consideradas como abrigos, desovadeiras, viveiros de criação, zonas de estabulação e zonas de reprodução, como tal classificadas e identificadas pela autoridade marítima, de acordo com os dados científicos disponíveis.\n\n2 - O exercício da pesca na zona está também sujeito, por razões de segurança, aos seguintes condicionamentos:\n\na) É proibida a pesca nos seguintes locais:\n\n1) No rio Gilão, desde a foz à ponte do caminho de ferro;\n\n2) Entre o varadouro e o extremo leste (forte de São João da Barra) do enrocamento de protecção da povoação de Cabanas;\n\n3) No canal de Tavira, na área compreendida entre os extremos nascente e poente da povoação de Santa Luzia, o primeiro definido pela rampa do varadouro e o segundo pela estação de tratamento de águas residuais;\n\n4) No canal definido pelos molhes do porto da Fuseta desde o farolim de entrada até à bóia do Moinho-Velho de Água;\n\n5) Nas águas contíguas à zona urbana de Faro, entre o moinho da Torrinha e a ribeira das Lavadeiras, até 100 m de terra firme;\n\n6) Nas barras, respectivos acessos e embocaduras;\n\n7) Nos canais balizados;\n\n8) A menos de 100 m das docas, portos de abrigo, embarcadouros ou estaleiros de construção naval, sem prejuízo de quaisquer restrições impostas por outra regulamentação;\n\n9) Nas pontes-cais e de acesso rodoviário;\n\n10) Em zonas balneares, durante a respectiva época, a menos de 100 m da linha da praia.\n\n3 - Em caso de avaria, sinistro ou qualquer outra razão de força maior que impeça o cumprimento do disposto no presente artigo, bem como no caso de abandono de artes na água, deverá desses factos ser dado conhecimento imediato à Capitania do Porto."
+  },
+  "1078855975": {
+   "fragment_id": "1078855875",
+   "type": 11,
+   "heading": "Artigo 8.º — Períodos de defeso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Períodos de defeso\n\n1 - Os períodos de defeso para cada uma das espécies são fixados anualmente por despacho do Ministro da Agricultura, Pescas e Alimentação, mediante proposta da Direcção-Geral das Pescas (DGP), instruída com parecer do Instituto Nacional de Investigação das Pescas (INIP) e ouvidas as capitanias dos portos com jurisdição na zona.\n\n2 - Dentro das épocas hábeis de pesca pode, por despacho do Ministro da Agricultura, Pescas e Alimentação, ser restringida a utilização de determinadas artes, tendo em conta a necessidade de conservação e gestão dos recursos ocorrentes."
+  },
+  "1078856175": {
+   "fragment_id": "1078856075",
+   "type": 11,
+   "heading": "Artigo 9.º — Tamanhos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tamanhos mínimos\n\nOs exemplares capturados cujos tamanhos sejam inferiores às dimensões mínimas fixadas no anexo II ao presente Regulamento ou nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, devem ser imediatamente devolvidos à água, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos à venda ou transaccionados."
+  },
+  "1078856375": {
+   "fragment_id": "1078856275",
+   "type": 11,
+   "heading": "Artigo 10.º — Captura de isco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Captura de isco\n\nA captura de isco das espécies vulgarmente designadas por salsicha (Sipunculus nudus) e rufião (Ammodytes tobianus e Hyperophus lanceolatus) só pode ser efectuada pelas embarcações referidas no artigo 6.º do presente Regulamento."
+  },
+  "1078856575": {
+   "fragment_id": "1078856475",
+   "type": 11,
+   "heading": "Artigo 11.º — Dados e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dados e informações\n\nOs mestres e arrais das embarcações que exerçam a actividade na zona são obrigados a fornecer os dados e informações determinados pela legislação em vigor e dar cumprimento ao preenchimento dos registos de actividade que a referida legislação imponha."
+  },
+  "1078856775": {
+   "fragment_id": "1078856675",
+   "type": 8,
+   "heading": "Secção III — Sinalização e identificação das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Sinalização e identificação das artes"
+  },
+  "1078856975": {
+   "fragment_id": "1078856875",
+   "type": 11,
+   "heading": "Artigo 12.º — Sinalização das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sinalização das artes\n\nAs artes fundeadas devem ser sinalizadas nos termos do disposto no Decreto Regulamentar n.º 43/87, de 17 de Julho."
+  },
+  "1078857175": {
+   "fragment_id": "1078857075",
+   "type": 11,
+   "heading": "Artigo 13.º — Identificação das artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Identificação das artes\n\nPara fins de identificação, as artes de pesca de uma embarcação devem ser marcadas, nomeadamente nas bóias de sinalização, com o conjunto de identificação da embarcação a que pertencem ou com o número de registo do inscrito marítimo, seu proprietário, até à data da entrada em vigor do presente Regulamento."
+  },
+  "1078857375": {
+   "fragment_id": "1078857275",
+   "type": 1,
+   "heading": "Capítulo III — Pesca desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pesca desportiva"
+  },
+  "1078857575": {
+   "fragment_id": "1078857475",
+   "type": 11,
+   "heading": "Artigo 14.º — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exercício da pesca\n\n1 - A pesca desportiva na zona apenas pode ser exercida a partir de terra firme ou de embarcações de recreio e na modalidade referida na alínea a) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (pesca de superfície) com cana de pesca ou linha de mão, não podendo cada desportista utilizar mais de duas canas ou linhas.\n\n2 - As embarcações de recreio, sempre que utilizadas na pesca desportiva, não devem impedir as embarcações de pesca local de exercerem a sua actividade, nomeadamente aquando do lançamento dos seus aparelhos ou redes.\n\n3 - Do pôr ao nascer do Sol a pesca desportiva não pode exercer-se de bordo de embarcações.\n\n4 - A pesca desportiva deverá obedecer às disposições do presente Regulamento que lhe sejam aplicáveis, nomeadamente quanto ao número e abertura dos anzóis (anexo I) e aos tamanhos mínimos das espécies capturadas (anexo II).\n\n5 - A Capitania do Porto poderá autorizar concursos de pesca desportiva na zona, desde que verificadas as necessárias condições de segurança, salubridade e protecção dos recursos vivos, bem como observadas as limitações impostas pelos regulamentos da Reserva Natural da Ria Formosa."
+  },
+  "1078857775": {
+   "fragment_id": "1078857675",
+   "type": 11,
+   "heading": "Artigo 15.º — Caça submarina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Caça submarina\n\nNa zona de aplicação do presente Regulamento não é permitido praticar a modalidade de pesca desportiva referida na alínea b) do artigo 1.º do Decreto n.º 45116, de 6 de Julho de 1963 (caça submarina)."
+  },
+  "1078857975": {
+   "fragment_id": "1078857875",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "1078858175": {
+   "fragment_id": "1078858075",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime contra-ordenacional\n\nÀs infracções ao disposto no presente Regulamento são aplicáveis as disposições pertinentes das secções I e III do capítulo V do Decreto-Lei n.º 278/87, de 7 de Julho, com as derrogações introduzidas pelo artigo 33.º do Decreto-Lei n.º 421/88, de 12 de Novembro, bem como as contra-ordenações previstas no artigo 82.º do Decreto Regulamentar n.º 43/87, de 17 de Julho."
+  },
+  "1078858375": {
+   "fragment_id": "1078858275",
+   "type": 11,
+   "heading": "Artigo 17.º — Outra legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Outra legislação aplicável\n\nSem prejuízo do disposto no presente Regulamento, o exercício da pesca na zona está sujeito às disposições aplicáveis do Decreto-Lei n.º 278/87, de 7 de Julho, e do Decreto Regulamentar n.º 43/87, de 17 de Julho, e, no que respeita à pesca desportiva, as do Decreto n.º 45116, de 6 de Julho de 1963."
+  },
+  "1155703975": {
+   "fragment_id": "1078858475",
+   "type": 14,
+   "heading": "Anexo I — Descrição e características das artes autorizadas",
+   "in_force_from": "1990-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), em vigor a partir de 1990-08-31."
+   ],
+   "markdown": "## Anexo I — Descrição e características das artes autorizadas\n\n(a que se refere o n.º 3 do artigo 4.º)\n\n1 - Amostra, corrico ou corripo\n\nDescrição: aparelho de anzol com amostra, que actua à superfície ou abaixo desta, podendo ou não ser rebocado por uma embarcação.\n\nCaracterística:\n\nAbertura mínima do anzol - 8 mm.\n\n2 - Cana de pesca e linha de mão\n\nCaracterísticas:\n\nNúmero máximo de anzóis - 3;\n\nAbertura mínima dos anzóis - 8 mm.\n\n3 - Covos ou nassas\n\nDescrição: arte fixa do tipo armadilha, de forma cilíndrica ou rectangular, constituída por rede entralhada em três ou quatro aros e possuindo uma ou duas aberturas.\n\nCaracterística:\n\nMalhagem mínima - 30 mm.\n\n4 - Espinel, espinhel, trole ou palangre\n\nDescrição: aparelho de anzol fundeado, constituído por uma madre, à qual de espaço a espaço, são amarrados estralhos, na extremidade dos quais são empatados os anzóis.\n\nCaracterísticas:\n\nComprimento máximo da madre - 400 m\n\nNúmero máximo de anzóis em cada madre (por aparelho) - 1000;\n\nAbertura mínima dos anzóis - 8 mm;\n\nNúmero máximo de aparelhos por embarcação - 4.\n\n5 - Murejona\n\nDescrição: armadilha de forma esférica, achatada nos pólos, constituída por vários aros concêntricos, envolvidos por rede metálica, plástica ou biodegradável.\n\nCaracterística:\n\nMalhagem mínima da rede envolvente - 30 mm.\n\n6 - Rede de tresmalho fundeada\n\nDescrição: rede de emalhar de três panos (tresmalho) fundeada.\n\nCaracterísticas:\n\nComprimento máximo da rede - 40 m;\n\nAltura máxima da rede - 1 m;\n\nMalhagem mínima do pano central (miúdo) - 80 mm;\n\nComprimento máximo de cada caçada - 400 m;\n\nNúmero máximo de caçadas por embarcação - 3.\n\n7 - Toneira\n\nDescrição: peso de chumbo, de forma fusiforme, tendo na extremidade superior um furo para amarrar a linha e na parte inferior uma coroa de anzóis.\n\n8 - Xalavares ou camaroeiros\n\nDescrição: arte de levantar de mão, constituída por um saco de rede entralhado num arco circular, ao qual ligam simetricamente três a quatro pernadas, que se reúnem na linha de suspensão da armadilha.\n\nCaracterísticas:\n\nDiâmetro máximo do arco - 50 cm;\n\nMalhagem mínima da rede do saco - 20 mm;\n\nNúmero máximo de aparelhos por embarcação:\n\nPara caranguejo e camarão - 40;\n\nPara búzios - 300.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 201/1990, 3º Suplemento, Série I de 1990-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-546242), em vigor a partir de 1990-08-31."
+  },
+  "1078858775": {
+   "fragment_id": "1078858675",
+   "type": 14,
+   "heading": "Anexo II — Tamanhos mínimos das espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tamanhos mínimos das espécies\n\n(a que se refere o artigo 9.º)\n\nAzevia (Microchirus spp.) - 18 cm (ver nota a).\n\nBaila (Dicentrarchus punctatus) - 20 cm (ver nota b).\n\nBoga (Boops boops) - 15 cm (ver nota a).\n\nBuzia ou canilha (Murex brandaris) - 6,5 cm (ver nota b).\n\nBúzio (Murex trunculus) - 5 cm (ver nota b).\n\nCamarão-da-quarteira ou gamba-manchada (Penaeus kerathurus) - 3 cm de comprimento total (ver nota a).\n\nCaranguejo-mouro (Carcinus maenas) - 5 cm (ver nota b).\n\nCarta (Bothidae) - 20 cm (ver nota b).\n\nChoco (Sepia spp.) - 15 cm (ver nota b).\n\nChoupa (Spondyliosoma cantharus) - 23 cm (ver nota a).\n\nDourada (Sparus aurata) - 19 cm (ver nota a).\n\nEnguia (Anguilla anguilla) - 25 cm (ver nota b).\n\nFerreira (Lithognathus mormyrus) - 15 cm (ver nota a).\n\nLíngua (Dicologoglossa cuneata) - 15 cm (ver nota a).\n\nLinguado (Solea vulgaris) - 24 cm (ver nota a).\n\nLula (Loligo vulgaris) - 10 cm (ver nota a).\n\nMacaca (Solea lascaris) - 24 cm (ver nota a).\n\nNavalheira (Macropipus spp.) - 5 cm (ver nota b).\n\nPolvo (Octopus vulgaris) - 500 g (ver nota c).\n\nRobalo (Dicentrarchus labrax) - 36 cm (ver nota a).\n\nRuivo (Lepidotrigla cavillone) - 20 cm (ver nota b).\n\nSafio (Conger conger) - 58 cm (ver nota a).\n\nSalema (Sarpa salpa) - 18 cm (ver nota a).\n\nSalmonete (Mullus surmuletus) - 15 cm (ver nota a).\n\nSantola (Maja squinado) - 12 cm (ver nota a).\n\nSargo (Diplodus spp.) - 15 cm (ver nota a).\n\nTainha (Mugilidae) - 20 cm (ver nota a).\n\n(nota a) Tamanho fixado nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n(nota b) Tamanho fixado pelo presente Regulamento.\n\n(nota c) Peso mínimo fixado pelo presente Regulamento."
+  },
+  "1163395375": {
+   "fragment_id": "1163395275",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento da Pesca na Ria Formosa, que, com os seus anexos, faz parte integrante da presente portaria.\n\nMinistério da Agricultura, Pescas e Alimentação."
+  },
+  "1163395575": {
+   "fragment_id": "1163395475",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nO Regulamento da Pesca na Ria Formosa entra em vigor 60 dias após a publicação da presente portaria."
+  },
+  "1163395775": {
+   "fragment_id": "1163395675",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\n3.º Por foça do disposto no artigo 60.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, deixam de ter aplicação as disposições do edital relativas à pesca na zona delimitada no artigo 2.º do regulamento aprovado por esta portaria a partir da sua entrada em vigor."
+  },
+  "1177609475": {
+   "fragment_id": "1078856075",
+   "type": 11,
+   "heading": "Artigo 9 — Tamanhos mínimos",
+   "in_force_from": "2001-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20."
+   ],
+   "markdown": "###### Artigo 9 — Tamanhos mínimos\n\nOs exemplares capturados cujos tamanhos sejam inferiores às dimensões mínimas fixadas no anexo II ao presente Regulamento ou nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, devem ser imediatamente devolvidos à água, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos à venda ou transaccionados.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20."
+  },
+  "1175285775": {
+   "fragment_id": "1078858675",
+   "type": 14,
+   "heading": "Anexo II — Tamanhos mínimos das espécies",
+   "in_force_from": "2001-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20."
+   ],
+   "markdown": "## Anexo II — Tamanhos mínimos das espécies\n\n(a que se refere o artigo 9.º)\n\nAzevia (Microchirus spp.) - 18 cm (ver nota a).\n\nBaila (Dicentrarchus punctatus) - 20 cm (ver nota b).\n\nBoga (Boops boops) - 15 cm (ver nota a).\n\nBuzia ou canilha (Murex brandaris) - 6,5 cm (ver nota b).\n\nBúzio (Murex trunculus) - 5 cm (ver nota b).\n\nCamarão-da-quarteira ou gamba-manchada (Penaeus kerathurus) - 3 cm de comprimento total (ver nota a).\n\nCaranguejo-mouro (Carcinus maenas) - 5 cm (ver nota b).\n\nCarta (Bothidae) - 20 cm (ver nota b).\n\nChoco (Sepia spp.) - 15 cm (ver nota b).\n\nChoupa (Spondyliosoma cantharus) - 23 cm (ver nota a).\n\nDourada (Sparus aurata) - 19 cm (ver nota a).\n\nEnguia (Anguilla anguilla) - 25 cm (ver nota b).\n\nFerreira (Lithognathus mormyrus) - 15 cm (ver nota a).\n\nLíngua (Dicologoglossa cuneata) - 15 cm (ver nota a).\n\nLinguado (Solea vulgaris) - 24 cm (ver nota a).\n\nLula (Loligo vulgaris) - 10 cm (ver nota a).\n\nMacaca (Solea lascaris) - 24 cm (ver nota a).\n\nNavalheira (Macropipus spp.) - 5 cm (ver nota b).\n\nPolvo (Octopus vulgaris) - 500 g (ver nota c).\n\nRobalo (Dicentrarchus labrax) - 36 cm (ver nota a).\n\nRuivo (Lepidotrigla cavillone) - 20 cm (ver nota b).\n\nSafio (Conger conger) - 58 cm (ver nota a).\n\nSalema (Sarpa salpa) - 18 cm (ver nota a).\n\nSalmonete (Mullus surmuletus) - 15 cm (ver nota a).\n\nSantola (Maja squinado) - 12 cm (ver nota a).\n\nSargo (Diplodus spp.) - 15 cm (ver nota a).\n\nTainha (Mugilidae) - 20 cm (ver nota a).\n\n(nota a) Tamanho fixado nos anexos IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho.\n\n(nota b) Tamanho fixado pelo presente Regulamento.\n\n(nota c) Peso mínimo fixado pelo presente Regulamento.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 27/2001 - Diário da República n.º 12/2001, Série I-B de 2001-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/27-2001-337580), em vigor a partir de 2001-01-20."
+  }
+ }
+}

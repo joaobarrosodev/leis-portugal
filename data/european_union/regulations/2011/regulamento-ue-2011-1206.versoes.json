@@ -1,0 +1,451 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R1206:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R1206-20231005",
+ "dre_path": null,
+ "source_lastmod": "2023-10-05",
+ "versions": [
+  {
+   "date": "2011-11-23",
+   "future": false,
+   "celex": "32011R1206",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "da1525f92e761f49",
+    "178acaa7eeabcbf1",
+    "2695521674a72a72",
+    "3d45ea2cccf8ab02",
+    "667553ed0bcd8cbf",
+    "3f10bb902253c053",
+    "97e44895408e3916",
+    "3f4391b9ae85d134",
+    "9e789961469696ed",
+    "adbd4c3ad0feb2a6",
+    "e6eab17f4a15e91e",
+    "562bf359c7c68288",
+    "d1fa50b79fb538d9",
+    "d55b181e03c30381"
+   ]
+  },
+  {
+   "date": "2020-05-20",
+   "future": false,
+   "celex": "02011R1206-20200520",
+   "acts": [
+    {
+     "id": "eu:celex:32020R0587:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2020/587 DA COMISSÃO de 29 de abril de 2020",
+     "published": null,
+     "celex": "32020R0587"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 6.º — Conformidade ou adequação para utilização dos componentes",
+    "Altera Artigo 9.º — Requisitos complementares para os operadores",
+    "Altera Artigo 12.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Espaço aéreo a que se refere o artigo 4.º, n.^os^ 1 e 4",
+    "Adita ANEXO II",
+    "Adita Requisitos de desempenho a que se refere o artigo 4.º, n.º 3",
+    "Adita ANEXO III",
+    "Adita Requisitos de desempenho a que se refere o artigo 4.º, n.º 4",
+    "Adita ANEXO IV",
+    "Adita Requisitos a que se refere o artigo 5.º",
+    "Adita ANEXO V",
+    "Adita Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 6.º",
+    "Adita ANEXO VI",
+    "Adita Condições a que se refere o artigo 7.º, n.^os^ 1 e 2",
+    "Adita ANEXO VII",
+    "Adita PARTE A",
+    "Adita Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 1",
+    "Adita PARTE B",
+    "Adita Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 2"
+   ],
+   "fragments": [
+    "6efcb3c4bbd4600d",
+    "178acaa7eeabcbf1",
+    "60e05b40d25e34d5",
+    "3d45ea2cccf8ab02",
+    "667553ed0bcd8cbf",
+    "3f10bb902253c053",
+    "d9607caadf6ebd0f",
+    "3f4391b9ae85d134",
+    "9e789961469696ed",
+    "99352d21404a40ff",
+    "e6eab17f4a15e91e",
+    "562bf359c7c68288",
+    "bba20c7693d671cd",
+    "d664376e2a8dcecd",
+    "51132888680c88e7",
+    "852174729551523b",
+    "c772fc4b2aa11331",
+    "720af75c92791b10",
+    "d84fdcb0fe5bfabe",
+    "e03a0eb4d5b2eef3",
+    "de338b8ae047f6df",
+    "64610ae29a6cb67c",
+    "17c6b000756c0401",
+    "90c7d2baf4d44ee2",
+    "bd77949ee7f5515d",
+    "d46ca50274582635",
+    "87cee521b2f0bb1e",
+    "28e69586bd3d1d11",
+    "6041be3baf7dcb43",
+    "09da2f3b65bfe7a0",
+    "527b76330b109f61"
+   ]
+  },
+  {
+   "date": "2023-10-05",
+   "future": false,
+   "celex": "02011R1206-20231005",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime Artigo 4.º — Requisitos de desempenho",
+    "Suprime Artigo 5.º — Requisitos de segurança",
+    "Suprime Artigo 6.º — Conformidade ou adequação para utilização dos componentes",
+    "Suprime Artigo 7.º — Verificação dos sistemas",
+    "Suprime Artigo 8.º — Requisitos complementares para os prestadores de serviços de navegação aérea",
+    "Suprime Artigo 9.º — Requisitos complementares para os operadores",
+    "Suprime Artigo 10.º — Requisitos complementares para os Estados-Membros",
+    "Suprime Artigo 11.º — Isenções",
+    "Suprime Artigo 12.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Espaço aéreo a que se refere o artigo 4.º, n.^os^ 1 e 4",
+    "Suprime ANEXO II",
+    "Suprime Requisitos de desempenho a que se refere o artigo 4.º, n.º 3",
+    "Suprime ANEXO III",
+    "Suprime Requisitos de desempenho a que se refere o artigo 4.º, n.º 4",
+    "Suprime ANEXO IV",
+    "Suprime Requisitos a que se refere o artigo 5.º",
+    "Suprime ANEXO V",
+    "Suprime Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 6.º",
+    "Suprime ANEXO VI",
+    "Suprime Condições a que se refere o artigo 7.º, n.^os^ 1 e 2",
+    "Suprime ANEXO VII",
+    "Suprime PARTE A",
+    "Suprime Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 1",
+    "Suprime PARTE B",
+    "Suprime Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 2",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "fd9f993b4da55762"
+   ]
+  }
+ ],
+ "fragments": {
+  "da1525f92e761f49": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 2011\n\nque estabelece os requisitos aplicáveis à identificação das aeronaves para efeitos da vigilância no céu único europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») [([^1])](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntr1-L_2011305PT.01002301-E0001), nomeadamente o artigo 3.º, n.º 5,\n\nConsiderando o seguinte:\n\n(1) A Comissão conferiu mandato ao Eurocontrol, nos termos do artigo 8.º, n.º 1, do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntr2-L_2011305PT.01002301-E0002), para estabelecer os requisitos para o desempenho e a interoperabilidade da vigilância no âmbito da rede europeia de gestão do tráfego aéreo (REGTA). O presente regulamento baseia-se no relatório desse mandato, de 9 de Julho de 2010.\n\n(2) A identificação individual das aeronaves deve ser efectuada de acordo com os procedimentos da Organização da Aviação Civil Internacional (ICAO) até as aeronaves beneficiarem de serviços de tráfego aéreo que utilizem sistemas de vigilância.\n\n(3) A continuidade das operações depende da identificação inequívoca e contínua de cada uma das aeronaves que operam como tráfego aéreo geral de acordo com as regras de voo por instrumentos no espaço aéreo do céu único europeu.\n\n(4) O método actual de identificação individual de aeronaves utiliza códigos discretos de *transponder* de radar de vigilância secundário (a seguir designados por «códigos SSR»), atribuídos de acordo com os procedimentos da ICAO e com o plano de navegação aérea para a região europeia.\n\n(5) O crescimento do tráfego na última década traduziu-se na constante falta de disponibilidade de códigos discretos SSR para satisfazer a procura nos períodos de maior volume de tráfego, pelo que a identificação individual das aeronaves no espaço aéreo europeu não pode actualmente ser garantida.\n\n(6) É necessário desenvolver de forma harmonizada uma capacidade operacional inicial de utilização da funcionalidade de identificação de aeronaves por ligação descendente (*downlink*) num volume definido de espaço aéreo no céu único europeu, de modo a reduzir a procura global de atribuições de códigos discretos SSR para obter a identificação individual das aeronaves.\n\n(7) Para optimizar a disponibilidade de códigos discretos SSR, devem ser desenvolvidas capacidades melhoradas e harmonizadas para a atribuição automática de códigos SSR às aeronaves pelos prestadores de serviços de navegação aérea que não tenham a capacidade de utilizar a funcionalidade de identificação de aeronaves por ligação descendente.\n\n(8) De modo a responder à necessidade de códigos discretos SSR para identificar o tráfego aéreo geral que opera de acordo com as regras de voo por instrumentos, é necessário desenvolver a capacidade de utilização da funcionalidade de identificação de aeronaves por ligação descendente em todo o espaço aéreo do céu único europeu.\n\n(9) A redução da necessidade de atribuição de códigos discretos SSR, aquando da utilização da funcionalidade de identificação de aeronaves por ligação descendente, pode ser melhor obtida através da identificação, pelo sistema integrado de processamento do plano de voo inicial, dos voos elegíveis para atribuição de um código de conspicuidade acordado, e da atribuição, pelos prestadores de serviços de navegação aérea, do código de conspicuidade acordado a esses voos elegíveis, quando a identificação através da funcionalidade de identificação de aeronaves por ligação descendente for bem -sucedida.\n\n(10) A funcionalidade de identificação de aeronaves por ligação descendente só pode ser utilizada para obter a identificação individual de aeronaves quando os prestadores de serviços de navegação aérea disponham dos sensores de vigilância adequados, da funcionalidade dos sistemas de processamento e de distribuição de dados de vigilância, da funcionalidade do sistema de processamento de dados de voo, das comunicações ar-solo e solo-solo, da funcionalidade do monitor de visualização do controlador, estabeleçam procedimentos e proporcionem a formação do pessoal.\n\n(11) A faculdade de os prestadores de serviços de navegação aérea se valerem efectivamente da capacidade de utilização da funcionalidade de identificação de aeronaves por ligação descendente para reduzir a necessidade de atribuição de códigos discretos SSR depende do nível de equipamento das aeronaves com a funcionalidade de identificação por ligação descendente, da medida em que as rotas dessas aeronaves estejam incluídas na zona de cobertura contígua dos sistemas que oferecem essa capacidade, e da exigência geral de garantir a eficiência e a segurança das operações.\n\n(12) Os controladores devem ser alertados em caso de duplicação não intencional na atribuição de códigos SSR a mais do que uma aeronave, de modo a prevenir eventuais erros de identificação de aeronaves.\n\n(13) A aplicação uniforme de procedimentos específicos no espaço aéreo do céu único europeu é essencial para garantir a interoperabilidade e a continuidade das operações.\n\n(14) Todas as modificações efectuadas em instalações e serviços, decorrentes da aplicação do presente regulamento, devem ser reflectidas pelos Estados Membros no plano de navegação aérea para a região europeia da ICAO mediante um procedimento normal de alteração.\n\n(15) O presente regulamento não abrange as operações nem os treinos militares a que se refere o artigo 1.º, n.º 2, do Regulamento (CE) n.º 549/2004.\n\n(16) Para manter ou reforçar os actuais níveis de segurança das operações, os Estados-Membros devem garantir a realização, pelas partes interessadas, de uma avaliação da segurança que inclua a identificação de perigos, a avaliação e mitigação de riscos. A aplicação harmonizada destes procedimentos aos sistemas abrangidos pelo presente regulamento requer a definição de requisitos de segurança específicos em matéria de interoperabilidade e de desempenho.\n\n(17) Nos termos do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos específicos de avaliação da conformidade a aplicar na verificação da conformidade e da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(18) No caso dos serviços de tráfego aéreo essencialmente fornecidos a aeronaves que operam de acordo com as regras aplicáveis ao tráfego aéreo geral sob supervisão militar, os condicionalismos associados à adjudicação de contratos podem impedir o cumprimento do disposto no presente regulamento.\n\n(19) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "178acaa7eeabcbf1": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece os requisitos aplicáveis aos sistemas que contribuem para o fornecimento de informações de vigilância, seus componentes e procedimentos associados, de modo a garantir a identificação individual inequívoca e contínua das aeronaves no âmbito da REGTA."
+  },
+  "2695521674a72a72": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se à cadeia de vigilância, constituída pelos:\n\na) Componentes de bordo dos sistemas de vigilância e seus procedimentos associados;\n\nb) Sistemas de vigilância de solo, seus componentes e procedimentos associados;\n\nc) Sistemas e procedimentos para os serviços de tráfego aéreo, em particular os sistemas de processamento de dados de voo, os sistemas de processamento de dados de vigilância e os sistemas de interface homem-máquina;\n\nd) Sistemas de comunicação solo-solo e ar-solo, seus componentes e procedimentos associados, utilizados na distribuição de dados de vigilância.\n\n2. O presente regulamento aplica-se a todos os voos operados como tráfego aéreo geral de acordo com as regras de voo por instrumentos no espaço aéreo definido no artigo 1.º, n.º 3, do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntr3-L_2011305PT.01002301-E0003)."
+  },
+  "3d45ea2cccf8ab02": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis- as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nSão igualmente aplicáveis- as seguintes definições:\n\n1. «Identificação da aeronave», um grupo de letras ou de algarismos ou uma combinação de ambos, idêntico ao indicativo de chamada da aeronave a utilizar nas comunicações ar-solo, ou que constitui o seu equivalente em código, e que é usado para identificar a aeronave nas comunicações solo-solo dos serviços de tráfego aéreo;\n\n2. «Código SSR», um dos 4 096 códigos de identificação de radar de vigilância secundário, que podem ser transmitidos pelos componentes de bordo dos sistemas de vigilância;\n\n3. «Código discreto SSR», um código de identificação de radar de vigilância secundário de quatro dígitos, cujos dois últimos algarismos não são «00»;\n\n4. «Identificação de aeronave por ligação descendente», a identificação de aeronave transmitida pelos componentes de bordo dos sistemas de vigilância através de um sistema de vigilância ar-solo;\n\n5. «Código de conspicuidade», um código SSR específico, criado para fins especiais;\n\n6. «Sobrevoo», um voo que entra num espaço aéreo definido a partir de um sector adjacente, transita pelo espaço aéreo definido e sai deste para um sector adjacente exterior;\n\n7. «Voo de chegada», um voo que entra num espaço aéreo definido a partir de um sector adjacente, transita pelo espaço aéreo definido e aterra num destino dentro do espaço aéreo definido;\n\n8. «Voo de partida», um voo que parte de um aeródromo num espaço aéreo definido, transita pelo espaço aéreo definido e aterra num aeródromo situado no espaço aéreo definido ou sai do espaço aéreo definido para entrar num sector adjacente exterior;\n\n9. «Operador», uma pessoa, organização ou empresa que participa ou se propõe participar numa operação de uma aeronave;\n\n10. «Lista de atribuição de códigos», um documento que especifica a distribuição global dos códigos SSR aos Estados-Membros e às unidades do serviço de tráfego aéreo (ATS), aprovado pelos Estados-Membros e publicado no plano de navegação aérea para a região europeia da ICAO;\n\n11. «Cadeia de vigilância cooperativa», uma cadeia de vigilância que necessita dos componentes em terra e de bordo para determinar elementos de dados de vigilância;\n\n12. «Sistema integrado de processamento do plano de voo inicial», um sistema integrado na rede europeia de gestão do tráfego aéreo através do qual é prestado um serviço centralizado de processamento e de distribuição de planos de voo, que procede à recepção, validação e distribuição dos planos de voo, no espaço aéreo abrangido pelo presente regulamento."
+  },
+  "667553ed0bcd8cbf": {
+   "fragment_id": "Artigo 4.º — Requisitos de desempenho",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de desempenho\n\n1. Os Estados-Membros responsáveis pela prestação de serviços de tráfego aéreo no espaço aéreo definido no anexo I devem garantir o desenvolvimento de capacidade que permita estabelecer a identificação individual de aeronaves utilizando a identificação de aeronaves por ligação descendente em:\n\na) pelo menos 50% de todos os sobrevoos do espaço aéreo definido do Estado-Membro; e\n\nb) pelo menos 50% do número total dos voos de chegada e de partida no espaço aéreo definido do Estado-Membro.\n\n2. Os prestadores de serviços de navegação aérea devem garantir que, o mais tardar em 2 de Janeiro de 2020, a cadeia de vigilância cooperativa dispõe da capacidade necessária para lhes permitir estabelecer a identificação individual das aeronaves utilizando a funcionalidade de identificação de aeronaves por ligação descendente.\n\n3. Os prestadores de serviços de navegação aérea que estabelecem a identificação individual de aeronaves utilizando a funcionalidade de identificação de aeronaves por ligação descendente devem garantir o cumprimento dos requisitos estabelecidos no anexo II.\n\n4. Os prestadores de serviços de navegação aérea que estabelecem a identificação individual de aeronaves utilizando códigos discretos SSR fora do espaço aéreo definido no anexo I devem garantir o cumprimento dos requisitos estabelecidos no anexo III.\n\n5. Os prestadores de serviços de navegação aérea devem garantir que:\n\na) Os sistemas a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d) são implantados, na medida do necessário, de modo a apoiar o cumprimento dos requisitos estabelecidos nos n.^os^ 3 e 4 do presente artigo;\n\nb) Os sistemas ou procedimentos a que se refere o artigo 2.º, n.º 1, alíneas b), c) e d), são implantados, na medida do necessário, para informar os controladores dos casos de duplicação não intencional na atribuição de códigos SSR.\n\n6. Os Estados-Membros devem garantir que:\n\na) Os volumes de espaço aéreo sejam declarados ao serviço centralizado de processamento e de distribuição de planos de voo a que se refere o ponto 1 do anexo II, de modo a permitir o cumprimento dos requisitos dos n.^os^ 1 e 2 do presente artigo e alínea b) do presente número;\n\nb) O sistema integrado de processamento do plano de voo inicial comunique a todos os prestadores de serviços de navegação aérea interessados os voos elegíveis para utilização do código de conspicuidade referido na alínea c);\n\nc) O código de conspicuidade único seja acordado entre todos os Estados-Membros e coordenado com os países terceiros europeus para atribuição apenas às aeronaves cuja identificação individual seja estabelecida utilizando a funcionalidade de identificação de aeronaves por ligação descendente."
+  },
+  "3f10bb902253c053": {
+   "fragment_id": "Artigo 5.º — Requisitos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Requisitos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de segurança\n\n1. Os Estados-Membros devem assegurar que qualquer alteração aos sistemas existentes referidos no artigo 2.º, n.º 1, alíneas b), c) e d), ou a introdução de novos sistemas, é precedida da realização, pelas partes interessadas, de uma avaliação da segurança, incluindo a identificação de perigos e a avaliação e mitigação dos riscos.\n\n2. Nas avaliações referidas no n.º 1, é necessário ter em conta, no mínimo, os requisitos estabelecidos no anexo IV."
+  },
+  "97e44895408e3916": {
+   "fragment_id": "Artigo 6.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conformidade ou adequação para utilização dos componentes\n\nAntes da emissão da declaração CE de conformidade ou de adequação para utilização, prevista no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes de componentes para os sistemas mencionados no artigo 2.º, n.º 1, do presente regulamento, ou os seus representantes autorizados estabelecidos na União, devem avaliar a conformidade ou adequação para utilização desses componentes de acordo com os requisitos estabelecidos no anexo V.\n\nNo entanto, os processos de certificação em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntr4-L_2011305PT.01002301-E0004), devem ser considerados procedimentos aceitáveis para efeitos de avaliação da conformidade dos componentes, desde que incluam a demonstração do cumprimento dos requisitos de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "3f4391b9ae85d134": {
+   "fragment_id": "Artigo 7.º — Verificação dos sistemas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Verificação dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Verificação dos sistemas\n\n1. Os prestadores de serviços de navegação aérea que possam demonstrar ou tenham demonstrado que satisfazem as condições estabelecidas no anexo VI devem proceder à verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), de acordo com os requisitos estabelecidos no anexo VII, parte A.\n\n2. Os prestadores de serviços de navegação aérea que não possam demonstrar que satisfazem as condições estabelecidas no anexo VI devem subcontratar a verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), a um organismo notificado. Essa verificação deve ser efectuada de acordo com os requisitos estabelecidos no anexo VII, parte B.\n\n3. Os processos de certificação conformes com o Regulamento (CE) n.º 216/2008 devem ser considerados procedimentos aceitáveis para a verificação dos sistemas, desde que incluam a demonstração do cumprimento dos requisitos de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "9e789961469696ed": {
+   "fragment_id": "Artigo 8.º — Requisitos complementares para os prestadores de serviços de navegação aérea",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Requisitos complementares para os prestadores de serviços de navegação aérea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos complementares para os prestadores de serviços de navegação aérea\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que todo o pessoal competente se encontra devidamente informado sobre os requisitos estabelecidos no presente regulamento e que adquiriu formação adequada para o exercício das suas funções.\n\n2. Os prestadores de serviços de navegação aérea devem:\n\na) Elaborar e conservar os manuais de operações com as instruções e informações necessárias para que o pessoal competente possa dar cumprimento ao disposto no presente regulamento;\n\nb) Assegurar que os manuais referidos na alínea a) estão acessíveis e são actualizados e que a sua actualização e distribuição são objecto de uma gestão adequada a nível de qualidade e de configuração da documentação;\n\nc) Assegurar que os métodos de trabalho e os procedimentos operacionais estão em conformidade com o disposto no presente regulamento."
+  },
+  "adbd4c3ad0feb2a6": {
+   "fragment_id": "Artigo 9.º — Requisitos complementares para os operadores",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Requisitos complementares para os operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos complementares para os operadores\n\n1. Os operadores devem adoptar as medidas necessárias para garantir que o pessoal que opera e efectua a manutenção do equipamento de vigilância se encontra devidamente informado sobre as disposições pertinentes do presente regulamento, que adquiriu formação adequada para o exercício das suas funções e que as instruções de utilização do equipamento estão disponíveis na cabina de pilotagem.\n\n2. Os operadores devem adoptar as medidas necessárias para garantir o fornecimento na aeronave da funcionalidade de identificação de aeronaves por ligação descendente sempre que necessário do ponto de vista operacional, conforme estabelecido no artigo 4.º, n.^os^ 1 e 2.\n\n3. Os operadores devem garantir que o estabelecimento da funcionalidade de identificação de aeronaves por ligação descendente referido no n.º 4 cumpre o disposto no ponto 7, «Identificação da aeronave», do plano de voo referido no ponto 2 do anexo do Regulamento (CE) n.º 1033/2006 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntr5-L_2011305PT.01002301-E0005).\n\n4. Os operadores das aeronaves que dispõem de capacidade para alterar em voo a funcionalidade de identificação de aeronaves por ligação descendente referida no n.º 2 devem garantir que a funcionalidade de identificação de aeronaves por ligação descendente não é alterada durante o voo, salvo a pedido do prestador de serviços de navegação aérea."
+  },
+  "e6eab17f4a15e91e": {
+   "fragment_id": "Artigo 10.º — Requisitos complementares para os Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Requisitos complementares para os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos complementares para os Estados-Membros\n\nOs Estados-Membros devem garantir o cumprimento do presente regulamento, incluindo a publicação de informação pertinente nas publicações nacionais de informação aeronáutica."
+  },
+  "562bf359c7c68288": {
+   "fragment_id": "Artigo 11.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Isenções\n\n1. No caso específico das áreas de aproximação em que os serviços de tráfego aéreo são prestados por órgãos militares ou sob supervisão militar e quando os condicionalismos associados à adjudicação de contratos impedem o cumprimento do disposto no artigo 4.º, n.º 2, os Estados-Membros devem comunicar à Comissão, o mais tardar até 31 de Dezembro de 2017, a data-limite para o cumprimento do requisito de identificação de aeronaves por ligação descendente, que não deverá ser posterior a 2 de Janeiro de 2025.\n\n2. Uma vez consultado o gestor da rede, e o mais tardar em 31 de Dezembro de 2018, a Comissão pode proceder à revisão das isenções comunicadas nos termos do n.º 1 que possam ter um impacto significativo na REGTA."
+  },
+  "d1fa50b79fb538d9": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 9 de Fevereiro de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Novembro de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "d55b181e03c30381": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntc1-L_2011305PT.01002301-E0001) [JO L 96 de 31.3.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntc2-L_2011305PT.01002301-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntc3-L_2011305PT.01002301-E0003) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntc4-L_2011305PT.01002301-E0004) [JO L 79 de 19.3.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_079_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/dffca100-4618-4b22-b7a6-f80900f53b57.0011.03/DOC_1#ntc5-L_2011305PT.01002301-E0005) [JO L 186 de 7.7.2006, p. 46](http://publications.europa.eu/resource/oj/JOL_2006_186_R_TOC)."
+  },
+  "6efcb3c4bbd4600d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Novembro de 2011\n\nque estabelece os requisitos aplicáveis à identificação das aeronaves para efeitos da vigilância no céu único europeu\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "60e05b40d25e34d5": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se à cadeia de vigilância, constituída pelos:\n\na) Componentes de bordo dos sistemas de vigilância e seus procedimentos associados;\n\nb) Sistemas de vigilância de solo, seus componentes e procedimentos associados;\n\nc) Sistemas e procedimentos para os serviços de tráfego aéreo, em particular os sistemas de processamento de dados de voo, os sistemas de processamento de dados de vigilância e os sistemas de interface homem-máquina;\n\nd) Sistemas de comunicação solo-solo e ar-solo, seus componentes e procedimentos associados, utilizados na distribuição de dados de vigilância.\n\n2. O presente regulamento aplica-se a todos os voos operados como tráfego aéreo geral de acordo com as regras de voo por instrumentos no espaço aéreo definido no artigo 1.º, n.º 3, do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/215cd3ce-a4ec-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "d9607caadf6ebd0f": {
+   "fragment_id": "Artigo 6.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conformidade ou adequação para utilização dos componentes\n\nAntes da emissão da declaração CE de conformidade ou de adequação para utilização, prevista no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes de componentes para os sistemas mencionados no artigo 2.º, n.º 1, do presente regulamento, ou os seus representantes autorizados estabelecidos na União, devem avaliar a conformidade ou adequação para utilização desses componentes de acordo com os requisitos estabelecidos no anexo V.\n\nNo entanto, os processos de certificação em conformidade com o Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/215cd3ce-a4ec-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#E0002)), devem ser considerados procedimentos aceitáveis para efeitos de avaliação da conformidade dos componentes, desde que incluam a demonstração do cumprimento dos requisitos de desempenho e de segurança aplicáveis do presente regulamento."
+  },
+  "99352d21404a40ff": {
+   "fragment_id": "Artigo 9.º — Requisitos complementares para os operadores",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Requisitos complementares para os operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos complementares para os operadores\n\n1. Os operadores devem adoptar as medidas necessárias para garantir que o pessoal que opera e efectua a manutenção do equipamento de vigilância se encontra devidamente informado sobre as disposições pertinentes do presente regulamento, que adquiriu formação adequada para o exercício das suas funções e que as instruções de utilização do equipamento estão disponíveis na cabina de pilotagem.\n\n2. Os operadores devem adoptar as medidas necessárias para garantir o fornecimento na aeronave da funcionalidade de identificação de aeronaves por ligação descendente sempre que necessário do ponto de vista operacional, conforme estabelecido no artigo 4.º, n.^os^ 1 e 2.\n\n3. Os operadores devem garantir que o estabelecimento da funcionalidade de identificação de aeronaves por ligação descendente referido no n.º 4 cumpre o disposto no ponto 7, «Identificação da aeronave», do plano de voo referido no ponto 2 do anexo do Regulamento (CE) n.º 1033/2006 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/215cd3ce-a4ec-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#E0003)).\n\n4. Os operadores das aeronaves que dispõem de capacidade para alterar em voo a funcionalidade de identificação de aeronaves por ligação descendente referida no n.º 2 devem garantir que a funcionalidade de identificação de aeronaves por ligação descendente não é alterada durante o voo, salvo a pedido do prestador de serviços de navegação aérea."
+  },
+  "bba20c7693d671cd": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 9 de Fevereiro de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "51132888680c88e7": {
+   "fragment_id": "Espaço aéreo a que se refere o artigo 4.º, n.^os^ 1 e 4",
+   "type": "divisao",
+   "heading": "Espaço aéreo a que se refere o artigo 4.º, n.^os^ 1 e 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espaço aéreo a que se refere o artigo 4.º, n.^os^ 1 e 4\n\nO espaço aéreo referido no artigo 4.º, n.^os^ 1 e 4, inclui as seguintes regiões de informação de voo (FIR) e regiões superiores de informação de voo (UIR):\n\n1) FIR de Viena;\n\n2) FIR de Praga;\n\n3) FIR/UIR de Bruxelas;\n\n4) FIR de Bordéus, de Brest, de Marselha, de Paris e de Reims e UIR de França;\n\n5) FIR de Bremen, de Langen e de Munique e UIR de Hanôver e do Reno;\n\n6) FIR de Atenas e UIR da Grécia;\n\n7) FIR de Budapeste;\n\n8) FIR/UIR de Brindisi, FIR/UIR de Milão e FIR/UIR de Roma;\n\n9) FIR de Amesterdão;\n\n10) FIR de Bucareste."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "c772fc4b2aa11331": {
+   "fragment_id": "Requisitos de desempenho a que se refere o artigo 4.º, n.º 3",
+   "type": "divisao",
+   "heading": "Requisitos de desempenho a que se refere o artigo 4.º, n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de desempenho a que se refere o artigo 4.º, n.º 3\n\n1. Os volumes de espaço aéreo em que a identificação individual das aeronaves é estabelecida utilizando a funcionalidade de identificação de aeronaves por ligação descendente devem ser declarados ao serviço central de processamento e de distribuição de planos de voo para introdução no sistema integrado de processamento do plano de voo inicial.\n\n2. Excepto em caso de aplicação de uma das condições estabelecidas no ponto 3, o código de conspicuidade estabelecido de acordo com o disposto no artigo 4.º, n.º 6, alínea c), deve ser atribuído às aeronaves que partem ou para as quais, nos termos do ponto 6, é necessário alterar o código, sempre que sejam aplicáveis as seguintes condições:\n\na) A identificação da aeronave por ligação descendente corresponda ao registo do plano de voo dessa mesma aeronave;\n\nb) O sistema integrado de processamento do plano de voo inicial tenha comunicado que a aeronave é elegível para atribuição do código de conspicuidade.\n\n3. No que respeita às aeronaves a que se refere o ponto 2, o código de conspicuidade não deve ser atribuído se for aplicável alguma das seguintes condições:\n\na) Em caso de adopção de medidas de emergência que exigem a atribuição de códigos discretos SSR a aeronaves por um prestador de serviços de navegação aérea que registe falhas não programadas no sensor de vigilância de solo; ou\n\nb) Em caso de adopção de medidas de emergência militar excepcionais, que obrigam os prestadores de serviços de navegação aérea a atribuir códigos discretos SSR às aeronaves;\n\nc) No caso de uma aeronave elegível para atribuição do código de conspicuidade estabelecido de acordo com o disposto no artigo 4.º, n.º 6, alínea c), sair ou ser desviada do volume de espaço aéreo a que se refere o ponto 1;\n\nd) As aeronaves do Estado envolvidas em operações sensíveis ou de formação a nível nacional que exijam segurança e confidencialidade.\n\n4. As aeronaves às quais não seja atribuído o código de conspicuidade estabelecido de acordo com o disposto no artigo 4.º, n.º 6, alínea c), deve ser atribuído um código SSR em conformidade com uma lista de atribuição de códigos aprovada pelos Estados-Membros e coordenada com países terceiros europeus.\n\n5. Em caso de atribuição de um código SSR a uma aeronave, deve ser efectuada uma verificação o mais rapidamente possível para confirmar que o código SSR registado pelo piloto é idêntico ao atribuído ao voo.\n\n6. Os códigos SSR atribuídos às aeronaves transferidas pelos prestadores de serviços de navegação aérea dos Estados vizinhos devem ser automaticamente verificados para confirmar a possibilidade de manter as atribuições em conformidade com uma lista de atribuição de códigos aprovada pelos Estados-Membros e coordenada com países terceiros europeus.\n\n7. Devem ser celebrados acordos formais com os prestadores de serviços de navegação aérea vizinhos que estabelecem a identificação individual das aeronaves utilizando códigos discretos SSR, que incluam, no mínimo, os seguintes elementos:\n\na) A obrigação de os prestadores de serviços de navegação aérea vizinhos transferirem as aeronaves às quais tenham sido atribuídos códigos discretos SSR verificados em conformidade com uma lista de atribuição de códigos aprovada pelos Estados-Membros e coordenada com países terceiros europeus;\n\nb) A obrigação de notificar os órgãos aceitantes acerca das eventuais irregularidades detectadas no funcionamento dos componentes de bordo dos sistemas de vigilância."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "d84fdcb0fe5bfabe": {
+   "fragment_id": "Requisitos de desempenho a que se refere o artigo 4.º, n.º 4",
+   "type": "divisao",
+   "heading": "Requisitos de desempenho a que se refere o artigo 4.º, n.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de desempenho a que se refere o artigo 4.º, n.º 4\n\nOs sistemas utilizados para a atribuição de códigos SSR devem dispor das seguintes capacidades funcionais:\n\na) Os códigos SSR devem ser atribuídos automaticamente às aeronaves em conformidade com uma lista de atribuição de códigos aprovada pelos Estados-Membros e coordenada com países terceiros europeus;\n\nb) Os códigos SSR atribuídos às aeronaves transferidas pelos prestadores de serviços de navegação aérea dos Estados vizinhos devem ser verificados para determinar se as atribuições podem ser mantidas em conformidade com uma lista de atribuição de códigos aprovada pelos Estados-Membros e coordenada com países terceiros europeus;\n\nc) Os códigos SSR devem ser classificados em diferentes categorias de modo a permitir uma atribuição de códigos diferenciada;\n\nd) Os códigos SSR das diferentes categorias referidas na alínea c) devem ser atribuídos de acordo com a direcção dos voos;\n\ne) No caso de voos em direcções livres de conflitos, deve ser efectuada a atribuição múltipla e simultânea do mesmo código SSR."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "de338b8ae047f6df": {
+   "fragment_id": "Requisitos a que se refere o artigo 5.º",
+   "type": "divisao",
+   "heading": "Requisitos a que se refere o artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos a que se refere o artigo 5.º\n\n1. Os requisitos de desempenho estabelecidos no artigo 4.º, n.^os^ 3, 4, 5, alínea b), e 6.\n\n2. Os requisitos complementares estabelecidos no artigo 9.º, n.^os^ 1, 2, 3 e 4."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "17c6b000756c0401": {
+   "fragment_id": "Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 6.º",
+   "type": "divisao",
+   "heading": "Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo 6.º\n\n1. As actividades de verificação da conformidade devem demonstrar a conformidade ou adequação para utilização dos componentes com os requisitos aplicáveis do presente regulamento, quando esses componentes se encontrem em operação em ambiente de ensaio.\n\n2. O fabricante deve gerir as actividades de avaliação da conformidade, nomeadamente:\n\na) Determinar o ambiente de ensaio adequado;\n\nb) Certificar-se de que o plano de ensaio descreve os componentes em ambiente de ensaio;\n\nc) Certificar-se de que o plano de ensaio cobre a totalidade dos requisitos aplicáveis;\n\nd) Assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio;\n\ne) Planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio;\n\nf) Realizar as inspecções e os ensaios de acordo com o plano de ensaio;\n\ng) Redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n3. O fabricante deve assegurar que os componentes a que se refere o artigo 6.º, integrados no ambiente de ensaio, satisfazem os requisitos aplicáveis do presente regulamento.\n\n4. Após a conclusão satisfatória da verificação da conformidade ou adequação para utilização, o fabricante deve, sob a sua responsabilidade, emitir a declaração CE de conformidade ou de adequação para utilização, especificando, designadamente, os requisitos aplicáveis do presente regulamento a que o componente obedece e as correspondentes condições de utilização, em conformidade com o anexo III, ponto 3, do Regulamento (CE) n.º 552/2004."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "bd77949ee7f5515d": {
+   "fragment_id": "Condições a que se refere o artigo 7.º, n.^os^ 1 e 2",
+   "type": "divisao",
+   "heading": "Condições a que se refere o artigo 7.º, n.^os^ 1 e 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições a que se refere o artigo 7.º, n.^os^ 1 e 2\n\n1. O prestador de serviços de navegação aérea deve ter instaurados na sua organização métodos de elaboração de relatórios que garantam e demonstrem a imparcialidade e independência de julgamento nas actividades de verificação.\n\n2. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação desempenha as suas funções com a máxima integridade profissional e a máxima competência técnica possíveis e que não é objecto de quaisquer pressões e incentivos, designadamente de natureza financeira, que possam afectar os seus juízos ou os resultados das suas verificações, nomeadamente por parte de pessoas ou grupos de pessoas interessadas nesses resultados.\n\n3. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação tem acesso a equipamentos que lhe permitam a correcta realização das verificações necessárias.\n\n4. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação possui uma sólida formação técnica e profissional, um conhecimento satisfatório das exigências inerentes às verificações que deve efectuar, uma experiência adequada de tais operações e a capacidade necessária para elaborar as declarações, os registos e os relatórios comprovativos da realização dessas verificações.\n\n5. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação está apto a efectuar as verificações com imparcialidade. A remuneração deste pessoal não deve depender do número de verificações realizadas ou dos resultados destas."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "28e69586bd3d1d11": {
+   "fragment_id": "Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 1",
+   "type": "divisao",
+   "heading": "Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 1\n\n1. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve demonstrar a conformidade desses sistemas com os requisitos de interoperabilidade, desempenho e segurança previstos no presente regulamento, num ambiente de avaliação que reflicta o contexto operacional dos sistemas.\n\n2. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve ser efectuada de acordo com práticas de ensaio adequadas e reconhecidas.\n\n3. As ferramentas de ensaio utilizadas na verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), devem ser dotadas das funcionalidades adequadas.\n\n4. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve produzir os elementos do processo técnico previstos no anexo IV, ponto 3, do Regulamento (CE) n.º 552/2004, incluindo os seguintes elementos:\n\na) A descrição da instalação;\n\nb) O relatório das inspecções e dos ensaios realizados antes da colocação em serviço do sistema.\n\n5. O prestador de serviços de navegação aérea deve gerir as actividades de verificação, nomeadamente:\n\na) Determinar o ambiente de avaliação operacional e técnica de modo a reproduzir de forma adequada as condições operacionais reais;\n\nb) Certificar-se de que o plano de ensaio descreve a integração dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), num ambiente de avaliação operacional e técnica;\n\nc) Certificar-se de que o plano de ensaio abrange a totalidade dos requisitos de desempenho e segurança aplicáveis previstos no presente regulamento;\n\nd) Assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio;\n\ne) Planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio;\n\nf) Realizar as inspecções e os ensaios especificados no plano de ensaio;\n\ng) Redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n6. O prestador de serviços de navegação aérea deve garantir que os sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), utilizados num ambiente de avaliação operacional satisfazem os requisitos de desempenho e segurança previstos no presente regulamento.\n\n7. Após a conclusão satisfatória da verificação da conformidade, os prestadores de serviços de navegação aérea devem emitir a declaração CE de verificação dos sistemas e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme exigido pelo artigo 6.º do Regulamento (CE) n.º 552/2004."
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "09da2f3b65bfe7a0": {
+   "fragment_id": "Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 2",
+   "type": "divisao",
+   "heading": "Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para a verificação dos sistemas a que se refere o artigo 7.º, n.º 2\n\n1. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve demonstrar a conformidade desses sistemas com os requisitos de desempenho e segurança previstos no presente regulamento, num ambiente de avaliação que reflicta o contexto operacional dos sistemas.\n\n2. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve ser efectuada de acordo com práticas de ensaio adequadas e reconhecidas.\n\n3. As ferramentas de ensaio utilizadas para a verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), devem ser dotadas das funcionalidades adequadas.\n\n4. A verificação dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), deve produzir os elementos do processo técnico previstos no anexo IV, ponto 3, do Regulamento (CE) n.º 552/2004, incluindo os seguintes elementos:\n\na) A descrição da instalação;\n\nb) O relatório das inspecções e dos ensaios realizados antes da colocação em serviço do sistema.\n\n5. O prestador de serviços de navegação aérea deve determinar o ambiente de avaliação operacional e técnica adequado que reflicta o ambiente operacional real, e confiar as actividades de verificação a um organismo notificado.\n\n6. O organismo notificado deve gerir as actividades de verificação, nomeadamente:\n\na) Certificar-se de que o plano de ensaio descreve a integração dos sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), num ambiente de avaliação operacional e técnica;\n\nb) Certificar-se de que o plano de ensaio abrange a totalidade dos requisitos de desempenho e segurança aplicáveis previstos no presente regulamento;\n\nc) Assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio;\n\nd) Planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio;\n\ne) Realizar as inspecções e os ensaios especificados no plano de ensaio;\n\nf) Redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n7. O organismo notificado deve assegurar que os sistemas identificados no artigo 2.º, n.º 1, alíneas b), c) e d), utilizados num ambiente de avaliação operacional satisfazem os requisitos de desempenho e segurança previstos no presente regulamento.\n\n8. Após a conclusão satisfatória das tarefas de verificação, o organismo notificado deve emitir um certificado de conformidade relativo às tarefas executadas.\n\n9. O prestador de serviços de navegação aérea deve subsequentemente emitir uma declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme exigido pelo artigo 6.º do Regulamento (CE) n.º 552/2004.\n\n---"
+  },
+  "527b76330b109f61": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/215cd3ce-a4ec-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/215cd3ce-a4ec-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 79 de 19.3.2008, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/215cd3ce-a4ec-11ea-bb7a-01aa75ed71a1.0019.02/DOC_1#src.E0003)) JO L 186 de 7.7.2006, p. 46."
+  },
+  "fd9f993b4da55762": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02011R1206 — PT — 05.10.2023 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32011R1206) [REGULAMENTO DE EXECUÇÃO (UE) N.º 1206/2011 DA COMISSÃO](http://publications.europa.eu/resource/celex/32011R1206) [de 22 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1206) [que estabelece os requisitos aplicáveis à identificação das aeronaves para efeitos da vigilância no céu único europeu](http://publications.europa.eu/resource/celex/32011R1206) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32011R1206) (JO L 305, 23.11.2011, p.23)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2023/1770 da Comissão de 12 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1770) — L 228 — 39 — 15.9.2023"
+  }
+ }
+}

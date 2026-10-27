@@ -1,0 +1,73 @@
+version: 1
+sources:
+  - id: eurlex-cellar
+    name: EUR-Lex / CELLAR
+    jurisdiction: european_union
+    publisher: Publicações da União Europeia
+    homepage: https://eur-lex.europa.eu/
+    access:
+      type: rdf-sparql-content-negotiation
+      metadata_endpoint: https://publications.europa.eu/resource/celex/{celex}.{language}
+      sparql_endpoint: https://publications.europa.eu/webapi/rdf/sparql
+      content_base: https://publications.europa.eu/resource/
+    status:
+      operational: operational
+      last_verified_at: "2026-10-26"
+      verified_scope: "Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos."
+    reuse:
+      status: permitted_with_conditions
+      reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+      summary: "A reutilização deve respeitar o aviso jurídico do EUR-Lex, preservar atribuição e não apresentar material editorial como texto oficial sem indicação adequada."
+    limits:
+      known: "Alguns atos antigos não têm expressão portuguesa (anteriores à adesão e não publicados na edição especial) ou só têm PDF. As versões consolidadas são instrumentos de documentação sem valor jurídico."
+      rate_limit_policy: "Até 4 pedidos em paralelo, 0,2 s entre pedidos por sessão, novas tentativas exponenciais."
+  - id: dre
+    name: Diário da República Eletrónico
+    jurisdiction: portugal
+    publisher: Imprensa Nacional-Casa da Moeda
+    homepage: https://diariodarepublica.pt/
+    access:
+      type: outsystems-screenservices
+      metadata_endpoint: https://diariodarepublica.pt/dr/screenservices/
+      content_endpoint: https://diariodarepublica.pt/dr/screenservices/
+    status:
+      operational: operational
+      last_verified_at: "2026-10-26"
+      verified_scope: "1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data)."
+    reuse:
+      status: permitted
+      reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+      summary: "Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos (Lei n.º 68/2021). Atribuição ao DRE/INCM preservada em cada registo."
+    limits:
+      known: "Não existe API pública documentada: são usados os endpoints internos da aplicação web, que podem mudar sem aviso em cada deploy do DRE. Diplomas antigos (sobretudo 1910–1959) só têm o PDF digitalizado; algumas entradas (incluindo muitas do catálogo do Jornal Oficial dos Açores) não têm texto nem PDF e ficam só com os metadados. O estado de vigência não é indicado para muitos diplomas."
+      rate_limit_policy: "1 pedido por segundo, com novas tentativas exponenciais em erros 5xx/429."
+  - id: parlamento
+    name: Assembleia da República
+    jurisdiction: portugal
+    publisher: Assembleia da República
+    homepage: https://www.parlamento.pt/
+    access:
+      type: to_be_researched
+    status:
+      operational: planned
+      last_verified_at: null
+      verified_scope: null
+    reuse:
+      status: unresolved
+      reference: null
+      summary: "Integração futura; sem recolha automática implementada."
+  - id: cnpd
+    name: Comissão Nacional de Proteção de Dados
+    jurisdiction: portugal
+    publisher: Comissão Nacional de Proteção de Dados
+    homepage: https://www.cnpd.pt/
+    access:
+      type: to_be_researched
+    status:
+      operational: planned
+      last_verified_at: null
+      verified_scope: null
+    reuse:
+      status: unresolved
+      reference: null
+      summary: "Integração futura para orientações e materiais institucionais; sem recolha automática implementada."

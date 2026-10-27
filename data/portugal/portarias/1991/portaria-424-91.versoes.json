@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:644162:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1991-869609433",
+ "dre_path": "/dr/detalhe/portaria/424-1991-644162",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-05-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869608777"
+   ]
+  },
+  {
+   "date": "1992-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283309:por",
+     "title": "Portaria n.º 784/92",
+     "published": "1992-08-12",
+     "dre_path": "/dr/detalhe/portaria/784-1992-283309"
+    }
+   ],
+   "changes": [
+    "Altera MAPA I"
+   ],
+   "fragments": [
+    "869608777",
+    "869608787",
+    "869608816",
+    "869608817",
+    "869608819",
+    "869608821",
+    "869608823",
+    "869608824",
+    "869608827",
+    "869608828",
+    "869608829",
+    "869608830",
+    "869608778",
+    "869571687",
+    "869608834",
+    "869608836"
+   ]
+  },
+  {
+   "date": "1992-10-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233128:por",
+     "title": "Portaria n.º 946/92",
+     "published": "1992-09-29",
+     "dre_path": "/dr/detalhe/portaria/946-1992-233128"
+    }
+   ],
+   "changes": [
+    "Altera MAPA II"
+   ],
+   "fragments": [
+    "869608777",
+    "869608787",
+    "869608816",
+    "869608817",
+    "869608819",
+    "869608821",
+    "869608823",
+    "869608824",
+    "869608827",
+    "869608828",
+    "869608829",
+    "869608830",
+    "869608778",
+    "869571687",
+    "869762391",
+    "869761819"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:233077:por",
+     "title": "Portaria n.º 950/92",
+     "published": "1992-09-30",
+     "dre_path": "/dr/detalhe/portaria/950-1992-233077",
+     "date": "1992-10-05"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "869608777": {
+   "fragment_id": "869609434",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 424/91\n\nde 23 de Maio\n\nConsiderando que, nos termos dos n.os 1 do artigo 37.º e 3 do artigo 39.º, ambos da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), compete ao Estado criar uma rede de estabelecimentos públicos de educação e ensino de densidade e dimensão ajustadas às características regionais e que cubra as necessidades de toda a população;\n\nConsiderando que daí decorre a necessidade de uma permanente adequação da rede, através da criação de escolas ou da sua transformação ou extinção, processo que, comummente, se designa «movimento anual da rede escolar»;\n\nConsiderando o disposto nos artigos 26.º e 124.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, e 2.º e 13.º, n.º 1, do Decreto-Lei n.º 18/88, de 21 de Janeiro, e no Decreto-Lei n.º 407/89, de 16 de Novembro, e, relativamente ao pessoal não docente, no Decreto-Lei n.º 223/87, de 30 de Maio, e legislação complementar;\n\nAtento o disposto nos Decretos-Leis n.os 519-E2/79, de 29 de Dezembro, e 397/90, de 10 de Dezembro:\n\nManda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:"
+  },
+  "869608787": {
+   "fragment_id": "869609436",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nSão criadas, para entrar em funcionamento em 1 de Setembro de 1991, as seguintes escolas:\n\na) Escolas preparatórias e secundárias, abreviadamente designadas por C + S:\n\nDistrito de Beja:\n\n769 - Beja;\n\n770 - Mértola;\n\nDistrito de Braga:\n\n763 - Apúlia, Esposende;\n\nDistrito de Évora:\n\n114 - André de Resende, Évora;\n\nDistrito de Faro:\n\n583 - Joaquim de Magalhães, Faro;\n\n134 - Tavira;\n\n768 - Castro Marim;\n\nDistrito da Guarda:\n\n146 - Almeida;\n\nDistrito de Leiria:\n\n171 - D. Dinis, Leiria;\n\nDistrito de Lisboa:\n\n754 - Casal de São Brás, Falagueira, Amadora;\n\n755 - Aveiras de Cima, Azambuja;\n\n540 - Apelação, Loures;\n\n208 - Gaspar Correia, Portela, Loures;\n\n756 - Lourinhã;\n\n226 - Mem Martins, Sintra;\n\n701 - Rio de Mouro, Sintra;\n\n757 - Ouressa, Mem Martins, Sintra;\n\n228 - Padre Francisco Soares, Torres Vedras;\n\n758 - Quinta da Piedade, Santa Iria, Vila Franca de Xira;\n\nDistrito do Porto:\n\n261 - São Mamede de Infesta, Matosinhos;\n\n767 - Ermesinde, Valongo;\n\n764 - Santa Marinha do Zêzere, Baião;\n\n766 - Campo, Valongo;\n\n765 - Nogueira da Maia, Maia;\n\nDistrito de Santarém:\n\n759 - Riachos, Torres Novas;\n\nDistrito de Setúbal:\n\n760 - Costa da Caparica, Almada;\n\n315 - Almada;\n\n328 - Paulo da Gama, Seixal;\n\nDistrito de Viseu:\n\n761 - Silgueiros, Viseu;\n\n762 - Lajeosa do Dão, Tondela;\n\nb) Escolas secundárias:\n\nDistrito de Beja:\n\n798 - Aljustrel;\n\nDistrito de Braga:\n\n797 - Póvoa de Lanhoso;\n\nDistrito de Faro:\n\n799 - Penha, Faro."
+  },
+  "869608816": {
+   "fragment_id": "869609460",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nNa Escola C + S de Almeida, agora criada, são ministrados os 2.º e 3.º ciclos do ensino básico e o ensino secundário."
+  },
+  "869608817": {
+   "fragment_id": "869609461",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nNas escolas secundárias referidas na alínea b) do n.º 1 são ministrados o 3.º ciclo do ensino básico e o ensino secundário."
+  },
+  "869608819": {
+   "fragment_id": "869609464",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nÉ criada a secção da Escola Preparatória e Secundária (C + S) a seguir indicada:\n\nDistrito de Aveiro:\n\n737 - Valongo de Vouga, Fermentelos, Águeda."
+  },
+  "869608821": {
+   "fragment_id": "869609465",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nEm resultado da criação das escolas preparatórias e secundárias (C + S) indicadas, são extintas as escolas preparatórias das localidades que a seguir se apontam:\n\nDistrito de Évora:\n\n114 - André de Resende, Évora;\n\nDistrito de Faro:\n\n583 - Joaquim de Magalhães, Faro;\n\n134 - Tavira;\n\nDistrito da Guarda:\n\n146 - Almeida;\n\nDistrito de Leiria:\n\n171 - D. Dinis, Leiria;\n\nDistrito de Lisboa:\n\n540 - Apelação, Loures;\n\n208 - Gaspar Correia, Portela, Loures;\n\n226 - Mem Martins, Sintra;\n\n701 - Rio de Mouro, Sintra;\n\n228 - Padre Francisco Soares, Torres Vedras;\n\nDistrito do Porto:\n\n261 - São Mamede de Infesta, Matosinhos;\n\nDistrito de Setúbal:\n\n315 - Almada;\n\n328 - Paulo da Gama, Seixal."
+  },
+  "869608823": {
+   "fragment_id": "869609467",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nEm resultado da criação das respectivas escolas secundárias, deixa de ser ministrado o ensino secundário nas escolas preparatórias e secundárias (C + S) das localidades a seguir indicadas:\n\nDistrito de Beja:\n\n030 - Aljustrel;\n\nDistrito de Braga:\n\n056 - Gonçalo Sampaio, Póvoa de Lanhoso."
+  },
+  "869608824": {
+   "fragment_id": "869609468",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nOs quadros de pessoal docente das escolas preparatórias e secundárias (C + S) e secundárias agora criadas estão incluídos no mapa I anexo à presente portaria."
+  },
+  "869608827": {
+   "fragment_id": "869609469",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nEm consequência da criação e extinção de escolas, nos termos dos n.os 1.º e 5.º da presente portaria e dos novos lugares postos a concurso para o ano escolar de 1991-1992, os quadros de pessoal docente das escolas preparatórias, preparatórias e secundárias (C + S) e secundárias passam a ser os constantes do mapa I anexo à presente portaria."
+  },
+  "869608828": {
+   "fragment_id": "869609470",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nConsideram-se substituídos pelo mapa I, anexo à presente portaria, todos os quadros de pessoal docente das escolas preparatórias, preparatórias e secundárias (C + S) e secundárias constantes do mapa anexo à Portaria n.º 760-B/90, de 28 de Agosto."
+  },
+  "869608829": {
+   "fragment_id": "869609471",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nSão adicionados aos quadros de vinculação a que se refere o Decreto-Lei n.º 223/87, de 30 de Maio, e legislação complementar, os lugares de pessoal não docente que constam do mapa II anexo à presente portaria."
+  },
+  "869608830": {
+   "fragment_id": "869609472",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nFace às alterações decorrentes dos n.os 1.º a 6.º da presente portaria, os quadros de afectação constantes dos anexos XXII a XXXIX ao Decreto-Lei n.º 223/87, de 30 de Maio, com as alterações que lhes foram introduzidas pelo Decreto-Lei n.º 191/89, de 7 de Junho, e pela Portaria n.º 144/90, de 21 de Fevereiro, consideram-se substituídos pelos correspondentes que se publicam no mapa III anexo à presente portaria."
+  },
+  "869608778": {
+   "fragment_id": "869609435",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios das Finanças e da Educação.\n\nAssinada em 10 de Maio de 1991.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, José Augusto Perestrello de Alarcão Troni, Secretário de Estado Adjunto do Ministro da Educação."
+  },
+  "869571687": {
+   "fragment_id": "869609473",
+   "type": 14,
+   "heading": "MAPA I — Quadros de pessoal docente das escolas preparatórias",
+   "in_force_from": "1992-08-17",
+   "changed_by": [
+    "Alterado pelo/a 6.º do/a [Portaria n.º 784/92 - Diário da República n.º 185/1992, Série I-B de 1992-08-12](https://diariodarepublica.pt/dr/detalhe/portaria/784-1992-283309), em vigor a partir de 1992-08-17"
+   ],
+   "markdown": "## MAPA I — Quadros de pessoal docente das escolas preparatórias\n\n(ver documento original)\n\n> Alterado pelo/a 6.º do/a [Portaria n.º 784/92 - Diário da República n.º 185/1992, Série I-B de 1992-08-12](https://diariodarepublica.pt/dr/detalhe/portaria/784-1992-283309), em vigor a partir de 1992-08-17"
+  },
+  "869608834": {
+   "fragment_id": "869609474",
+   "type": 14,
+   "heading": "MAPA II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA II\n\n(ver documento original)"
+  },
+  "869608836": {
+   "fragment_id": "869623275",
+   "type": 14,
+   "heading": "MAPA III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MAPA III\n\n(ver documento original)"
+  },
+  "869762391": {
+   "fragment_id": "869609474",
+   "type": 14,
+   "heading": "MAPA II",
+   "in_force_from": "1992-10-04",
+   "changed_by": [
+    "Alterado pelo/a 5.º do/a [Portaria n.º 946/92 - Diário da República n.º 225/1992, Série I-B de 1992-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/946-1992-233128), em vigor a partir de 1992-10-04"
+   ],
+   "markdown": "## MAPA II\n\n(ver documento original)\n\n> Alterado pelo/a 5.º do/a [Portaria n.º 946/92 - Diário da República n.º 225/1992, Série I-B de 1992-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/946-1992-233128), em vigor a partir de 1992-10-04"
+  },
+  "869761819": {
+   "fragment_id": "869623275",
+   "type": 14,
+   "heading": "MAPA III",
+   "in_force_from": "1992-10-05",
+   "changed_by": [
+    "Alterado pelo/a 5.º do/a [Portaria n.º 950/92 - Diário da República n.º 226/1992, Série I-B de 1992-09-30](https://diariodarepublica.pt/dr/detalhe/portaria/950-1992-233077), em vigor a partir de 1992-10-05"
+   ],
+   "markdown": "## MAPA III\n\n(ver documento original)\n\n> Alterado pelo/a 5.º do/a [Portaria n.º 950/92 - Diário da República n.º 226/1992, Série I-B de 1992-09-30](https://diariodarepublica.pt/dr/detalhe/portaria/950-1992-233077), em vigor a partir de 1992-10-05"
+  }
+ }
+}

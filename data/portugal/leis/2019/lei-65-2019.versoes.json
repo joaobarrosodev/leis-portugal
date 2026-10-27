@@ -1,0 +1,773 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124171091:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-223031868",
+ "dre_path": "/dr/detalhe/lei/65-2019-124171091",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "223039095",
+    "223039096",
+    "223039097",
+    "223039098",
+    "223039099",
+    "223039100",
+    "223039101",
+    "223039102",
+    "223039103",
+    "1123932075",
+    "223039104",
+    "223039105",
+    "223039106",
+    "223039107",
+    "223039108",
+    "223039109",
+    "223039110",
+    "223039111",
+    "223039112",
+    "223039113",
+    "223039114",
+    "223039115",
+    "223039116",
+    "223039117",
+    "223039118",
+    "223039119"
+   ]
+  },
+  {
+   "date": "2023-11-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222645050:por",
+     "title": "Decreto-Lei n.º 90/2023",
+     "published": "2023-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/90-2023-222645050"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 7.º-C",
+    "Adita Artigo 7.º-D",
+    "Adita Artigo 7.º-E",
+    "Adita Artigo 16.º-A",
+    "Adita Anexo I",
+    "Adita Anexo II",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Secção I",
+    "Altera Artigo 8.º",
+    "Altera Secção II",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "223039095",
+    "223039096",
+    "223039121",
+    "223039122",
+    "223039144",
+    "223039100",
+    "223039123",
+    "223039124",
+    "223039132",
+    "223039133",
+    "223039134",
+    "223039135",
+    "223039136",
+    "223039137",
+    "223039138",
+    "223076505",
+    "223039142",
+    "223039126",
+    "223039143",
+    "223039127",
+    "223039109",
+    "223039110",
+    "223039111",
+    "223039128",
+    "223039113",
+    "223076510",
+    "223039129",
+    "223039130",
+    "223039117",
+    "223039139",
+    "223039140",
+    "223039141",
+    "223076511",
+    "223076512",
+    "223076513"
+   ]
+  },
+  {
+   "date": "2026-04-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1085738183:por",
+     "title": "Decreto-Lei n.º 87/2026",
+     "published": "2026-04-15",
+     "dre_path": "/dr/detalhe/decreto-lei/87-2026-1085738183"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-F",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º-A",
+    "Altera Artigo 7.º-B",
+    "Altera Artigo 7.º-C",
+    "Altera Artigo 7.º-D",
+    "Altera Artigo 7.º-E",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "223039095",
+    "223039096",
+    "1086131775",
+    "1086131975",
+    "223039144",
+    "223039100",
+    "223039123",
+    "223039124",
+    "223039132",
+    "223039133",
+    "1086132175",
+    "1086132375",
+    "1086132575",
+    "1086132775",
+    "1086132975",
+    "1123932075",
+    "223076505",
+    "223039142",
+    "1086133175",
+    "223039143",
+    "223039127",
+    "223039109",
+    "223039110",
+    "1086133375",
+    "223039128",
+    "223039113",
+    "223076510",
+    "1086133575",
+    "223039130",
+    "223039117",
+    "223039139",
+    "223039140",
+    "223039141",
+    "223076511",
+    "223076512",
+    "1086134375"
+   ]
+  }
+ ],
+ "fragments": {
+  "223039095": {
+   "fragment_id": "223031869",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 65/2019\n\nde 23 de agosto\n\nSumário: Mantém em vigor e generaliza a aplicação do sistema de informação cadastral simplificada.\n\nMantém em vigor e generaliza a aplicação do sistema de informação cadastral simplificada\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "223039096": {
+   "fragment_id": "223031870",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "223039097": {
+   "fragment_id": "223031871",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente lei mantém em vigor e generaliza a aplicação do sistema de informação cadastral simplificada, instituído pela Lei n.º 78/2017, de 17 de agosto, integrando os seguintes procedimentos:\n\na) O procedimento de representação gráfica georreferenciada (RGG), previsto nos artigos 5.º a 12.º da Lei n.º 78/2017, de 17 de agosto, aplicável aos prédios rústicos e mistos, nos municípios que não dispõem de cadastro geométrico da propriedade rústica (CGPR) ou cadastro predial em vigor;\n\nb) O procedimento especial de registo, previsto nos artigos 13.º a 15.º da Lei n.º 78/2017, de 17 de agosto, aplicável aos prédios rústicos e mistos em todo o território nacional, com as especificidades constantes da presente lei.\n\n2 - A presente lei cria ainda, no âmbito do sistema de informação cadastral simplificada, o procedimento especial de justificação de prédio rústico e misto omisso, aplicável em todo o território nacional.\n\n3 - O novo sistema de informação cadastral simplificado concorre para a elaboração do cadastro predial rústico no plano nacional.\n\n4 - A presente lei promove igualmente a universalização do Balcão Único do Prédio (BUPi), criado pela Lei n.º 78/2017, de 17 de agosto, enquanto plataforma nacional de registo e cadastro do território (PNRCT), abrangendo os prédios urbanos, rústicos e mistos de todo o território nacional.\n\n5 - A operacionalização do regime previsto na presente lei depende da celebração de um acordo de colaboração interinstitucional entre o Centro de Coordenação Técnica previsto na alínea a) do n.º 1 do artigo 5.º e cada município, no prazo de um ano a contar da data de entrada em vigor da presente lei.\n\n6 - O acordo de colaboração interinstitucional referido no número anterior é publicitado no BUPi, devendo a sua divulgação ser igualmente promovida durante 60 dias, através das autarquias locais, nomeadamente por divulgação de aviso no sítio na Internet do respetivo município e por afixação de editais.\n\n7 - No quadro do Centro de Coordenação Técnica referido no n.º 5, mediante protocolo a celebrar entre a Autoridade Tributária e Aduaneira (AT) e o Instituto dos Registos e Notariado, I. P. (IRN, I. P.), a AT transmite à plataforma BUPi a informação relativa aos prédios inscritos nas matrizes prediais rústica e urbana, localizados no respetivo município, bem como a identificação dos seus titulares, através do nome e número de identificação fiscal, e respetivo domicílio fiscal."
+  },
+  "223039098": {
+   "fragment_id": "223031872",
+   "type": 11,
+   "heading": "Artigo 2.º — Sistema de informação cadastral simplificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sistema de informação cadastral simplificada\n\n1 - O IRN, I. P., é a entidade responsável pelo sistema de informação cadastral simplificada e pelo BUPi, competindo-lhe:\n\na) Garantir a interoperabilidade dos dados detidos pelas entidades referidas no artigo 27.º da Lei n.º 78/2017, de 17 de agosto;\n\nb) Assegurar a harmonização da informação relevante sobre os elementos caracterizadores e de identificação dos prédios usados para efeitos cadastrais, registrais, matriciais e agrícolas;\n\nc) Comunicar às entidades referidas na alínea a) as alterações efetuadas aos prédios descritos;\n\nd) Assegurar a supervisão do procedimento de RGG.\n\n2 - Compete aos serviços de registo realizar os procedimentos especiais de registo e de justificação previstos na presente lei."
+  },
+  "223039099": {
+   "fragment_id": "223031873",
+   "type": 11,
+   "heading": "Artigo 3.º — Cadastro geométrico da propriedade rústica e cadastro predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cadastro geométrico da propriedade rústica e cadastro predial\n\nA Direção-Geral do Território é a autoridade nacional responsável pelo CGPR e pelo cadastro predial, aprovado pelo Decreto-Lei n.º 172/95, de 18 de julho, e pelo Sistema Nacional de Exploração e Gestão de Informação Cadastral (SINERGIC), aprovado pelo Decreto-Lei n.º 224/2007, de 31 de maio, na sua redação atual, competindo-lhe assegurar:\n\na) A disponibilização no BUPi da informação sobre os elementos cadastrais existentes, procedendo para o efeito à respetiva informatização e vectorização, até 31 de dezembro de 2022;\n\nb) A harmonização da caracterização e identificação dos prédios em regime de cadastro predial;\n\nc) A conservação do cadastro predial."
+  },
+  "223039100": {
+   "fragment_id": "223031874",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais\n\n1 - O regime constante da presente lei obedece aos princípios da:\n\na) Coordenação, assegurando a partilha de informação entre as entidades competentes sobre os elementos caracterizadores e de identificação dos prédios rústicos e mistos e dos seus titulares, para efeitos de localização geográfica e de supressão da omissão no registo predial e demais efeitos de identificação do prédio;\n\nb) Complementaridade, assegurando que a harmonização das informações da competência das diversas entidades salvaguarda os efeitos jurídicos respetivos, nos termos da legislação aplicável;\n\nc) Subsidiariedade, no sentido de a informação ser recolhida e transmitida pelas entidades competentes que mais adequadamente o possam efetuar, tendo em conta fatores de proximidade;\n\nd) Participação, reforçando a atuação cívica dos cidadãos, através do acesso à informação e à participação nos procedimentos de RGG e de registo especial de prédio rústico e misto omisso;\n\ne) Publicitação, garantindo a transparência e o caráter público dos procedimentos e das informações cadastrais, com garantia da proteção dos dados pessoais envolvidos.\n\n2 - De acordo com a alínea b) do número anterior, as relações entre o cadastro, o registo predial e a matriz predial regem-se por um princípio de complementaridade, nos termos do qual a situação jurídica e fiscal dos prédios constante do registo predial e da matriz predial produz os efeitos previstos na legislação respetiva.\n\n3 - Sem prejuízo do regime legal relativo à proteção dos dados pessoais, o acesso à informação cadastral por parte dos particulares e das entidades e serviços da Administração Pública do Estado e de outras pessoas coletivas públicas efetua-se nos termos previstos na Lei n.º 78/2017, de 17 de agosto, e na presente lei."
+  },
+  "223039101": {
+   "fragment_id": "223039375",
+   "type": 11,
+   "heading": "Artigo 5.º — Modelo de organização e desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modelo de organização e desenvolvimento\n\n1 - O modelo de organização e desenvolvimento do sistema de informação cadastral simplificada e do BUPi desenvolve-se em dois níveis:\n\na) Ao nível central, através de um Centro de Coordenação Técnica, com competências de coordenação, decisão e apoio, integrado no Ministério da Justiça;\n\nb) Ao nível municipal, através de Unidades de Competência Locais, que formam a rede de balcões de atendimento, para atendimento ao cidadão, identificação, tratamento e partilha da informação respeitante ao território, seus titulares e limites.\n\n2 - As competências dos municípios referidas na alínea b) do número anterior podem ser delegadas na entidade intermunicipal que estes integram, podendo ser exercidas exclusivamente pela entidade intermunicipal ou em conjunto com cada município.\n\n3 - É aprovado, por portaria dos membros do Governo responsáveis pelas áreas das finanças, da modernização administrativa, da justiça, das autarquias locais, do ordenamento do território e da agricultura e florestas, o regime de funcionamento e financiamento do modelo de organização e desenvolvimento do regime instituído pela Lei n.º 78/2017, de 17 de agosto, com as especificidades constantes da presente lei."
+  },
+  "223039102": {
+   "fragment_id": "223039376",
+   "type": 11,
+   "heading": "Artigo 6.º — Número de identificação de prédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número de identificação de prédio\n\n1 - O número de identificação de prédio (NIP), a que se refere o artigo 3.º da Lei n.º 78/2017, de 17 de agosto, é um identificador numérico, sequencial, com dígito de controlo e sem significado lógico, destinado ao tratamento e harmonização da informação de índole predial, visando a prossecução dos seguintes objetivos:\n\na) Assegurar a identificação unívoca dos prédios, mediante a atribuição de um número único de identificação, de utilização comum a toda a Administração Pública, possibilitando a criação da informação predial única;\n\nb) Unificar e permitir uma gestão uniforme e informática dos conteúdos cadastrais num único sistema de informação;\n\nc) Assegurar o acesso à informação pela Administração Pública, pelos cidadãos e pelas empresas, designadamente por via eletrónica e com a garantia da proteção de dados pessoais envolvidos.\n\n2 - O NIP é atribuído a cada prédio, sempre que seja confirmada a coincidência entre a informação constante das bases de dados das descrições prediais do IRN, I. P., e das bases de dados que contêm as inscrições matriciais da AT.\n\n3 - O NIP corresponde à descrição do registo predial, podendo incluir uma ou mais matrizes, e associa, além da respetiva RGG, quaisquer outros dados e elementos relativos à caracterização do prédio."
+  },
+  "223039103": {
+   "fragment_id": "223039377",
+   "type": 11,
+   "heading": "Artigo 7.º — Confirmação de confinantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Confirmação de confinantes\n\n1 - Para os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, considera-se validada por todos os proprietários confinantes a informação resultante da RGG nas seguintes situações:\n\na) Declaração de aceitação de todos os proprietários dos prédios confinantes, conforme formulário constante do anexo II ao Decreto Regulamentar n.º 9-A/2017, de 3 de novembro, no caso de não haver conflito quanto aos confinantes;\n\nb) Existência, no BUPi, da totalidade dos polígonos dos prédios confinantes sem conflito de estremas comuns.\n\n2 - No caso de existir conflito quanto aos confinantes pode ser assinada uma declaração de aceitação de todos os proprietários dos prédios confinantes, desde que seja corrigida a sobreposição de polígonos e assinada a declaração presencialmente perante técnico habilitado para o efeito, conforme formulário constante do anexo II ao Decreto Regulamentar n.º 9-A/2017, de 3 de novembro.\n\n3 - Se se mantiver a sobreposição de polígonos de prédios confinantes prevista no número anterior, o conflito deve ser apreciado através do procedimento de composição administrativa de interesses."
+  },
+  "1123932075": {
+   "fragment_id": "1123931975",
+   "type": 11,
+   "heading": "Artigo 7.º-F — Procedimento especial de anexação de prédio rústico",
+   "in_force_from": "2026-04-16",
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-F — Procedimento especial de anexação de prédio rústico\n\n1 - O interessado apresenta o pedido de anexação no BUPi e o serviço de registo inicia o procedimento especial de anexação, no prazo de 90 dias após a entrada do pedido, sempre que, tratando-se de prédio rústico, se verifique por consulta ao BUPi a existência de RGG.\n\n2 - Iniciado o procedimento, caso existam motivos de recusa da anexação que não possam ser supridos oficiosamente por acesso direto à informação constante de bases de dados das entidades ou serviços da Administração Pública, o serviço de registo comunica este facto ao interessado para que, no prazo de 10 dias, proceda a tal suprimento, o qual pode ser efetuado através da plataforma BUPi.\n\n3 - Quando não existam deficiências, ou as mesmas tenham sido supridas, o serviço de registo procede à anotação do pedido de anexação e à elaboração imediata do registo.\n\n4 - Se houver deficiências que constituam motivo de recusa ou que não tenham sido supridas no prazo concedido, o procedimento é declarado findo mediante despacho fundamentado, que é notificado ao interessado, sendo a RGG resultante da anexação cancelada.\n\n5 - A apresentação pelo interessado do pedido de anexação nos termos gerais do Código do Registo Predial, na pendência do procedimento, determina a sua extinção automática, com comunicação ao interessado.\n\n6 - A decisão prevista no n.º 4 é impugnável nos termos previstos nos artigos 140.º e seguintes do Código do Registo Predial, aplicáveis com as devidas adaptações.\n\n7 - A apresentação, pelo interessado, de pedido de registo de anexação nos termos gerais previstos no Código do Registo Predial faz precludir o direito à impugnação e, quando esta esteja pendente, equivale à sua desistência."
+  },
+  "223039104": {
+   "fragment_id": "223039378",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de informação cadastral simplificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de informação cadastral simplificada"
+  },
+  "223039105": {
+   "fragment_id": "223039379",
+   "type": 8,
+   "heading": "Secção I — Procedimento especial de registo de prédio rústico e misto omisso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento especial de registo de prédio rústico e misto omisso"
+  },
+  "223039106": {
+   "fragment_id": "223039380",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento especial de registo de prédio rústico e misto omisso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimento especial de registo de prédio rústico e misto omisso\n\n1 - O procedimento especial de registo de prédio rústico e misto omisso é aplicável aos prédios não descritos no registo ou descritos sem inscrição de aquisição ou reconhecimento de direito de propriedade ou de mera posse em vigor, com as especificidades previstas na presente lei.\n\n2 - Sem prejuízo do disposto no artigo 14.º da Lei n.º 78/2017, de 17 de agosto, o procedimento referido no número anterior pode ser promovido pelos interessados que disponham de documento comprovativo do seu direito de propriedade, na sequência do procedimento de RGG."
+  },
+  "223039107": {
+   "fragment_id": "223039381",
+   "type": 8,
+   "heading": "Secção II — Procedimento especial de justificação de prédio rústico e misto omisso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento especial de justificação de prédio rústico e misto omisso"
+  },
+  "223039108": {
+   "fragment_id": "223039382",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento especial de justificação de prédio rústico e misto omisso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento especial de justificação de prédio rústico e misto omisso\n\n1 - O procedimento especial de justificação de prédio rústico e misto omisso é aplicável aos prédios não descritos no registo ou descritos sem inscrição de aquisição ou reconhecimento de direito de propriedade ou de mera posse em vigor.\n\n2 - Ao procedimento especial de justificação de prédio rústico e misto omisso aplica-se, em matéria de competência, o disposto no artigo 13.º da Lei n.º 78/2017, de 17 de agosto.\n\n3 - As formalidades prévias, a tramitação e os meios de impugnação do processo especial de justificação são estabelecidos por decreto regulamentar."
+  },
+  "223039109": {
+   "fragment_id": "223039383",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito subsidiário\n\nAo procedimento especial de justificação previsto na presente secção são aplicáveis, em tudo o que não estiver especialmente regulado, as disposições do Código do Registo Predial e do Código do Notariado."
+  },
+  "223039110": {
+   "fragment_id": "223039384",
+   "type": 8,
+   "heading": "Secção III — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições comuns"
+  },
+  "223039111": {
+   "fragment_id": "223039385",
+   "type": 11,
+   "heading": "Artigo 11.º — Anotação à descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Anotação à descrição\n\nPara efeitos do previsto no artigo 18.º da Lei n.º 78/2017, de 17 de agosto, no caso de prédios descritos, a existência de RGG é comunicada por via eletrónica ao sistema de informação de registo predial."
+  },
+  "223039112": {
+   "fragment_id": "223039386",
+   "type": 11,
+   "heading": "Artigo 12.º — Baldios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Baldios\n\nO regime aplicável aos baldios e aos demais meios de produção comunitários, designadamente os artigos 8.º e 9.º da Lei n.º 75/2017, de 17 de agosto, é tramitado, com as necessárias adaptações, no âmbito do sistema de informação cadastral simplificado previsto na presente lei."
+  },
+  "223039113": {
+   "fragment_id": "223039387",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicitação\n\nO sistema de informação cadastral simplificada e as medidas a adotar para a identificação da estrutura fundiária, através dos limites georreferenciados dos prédios rústicos e mistos e da titularidade, previstos na presente lei e demais legislação aplicável, devem ser objeto de publicitação e ampla divulgação, nomeadamente pelo IRN, I. P., mediante anúncio de acesso livre em sítio próprio do Ministério da Justiça, pelos municípios e freguesias, bem como pelo Ministério dos Negócios Estrangeiros, que deve assegurar a divulgação junto das comunidades portuguesas no estrangeiro, através da rede diplomática e consular."
+  },
+  "223039114": {
+   "fragment_id": "223039388",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "223039115": {
+   "fragment_id": "223039389",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime emolumentar e tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime emolumentar e tributário\n\n1 - Mantém-se em vigor o regime de gratuitidade emolumentar e tributária previsto no artigo 24.º da Lei n.º 78/2017, de 17 de agosto, passando a aplicar-se aos prédios rústicos e mistos com área igual ou inferior a 50 ha, sendo o mesmo ainda alargado aos seguintes atos e procedimentos:\n\na) Os atos praticados no âmbito do procedimento especial de justificação previsto na presente lei;\n\nb) Os atos de registo relativos a prédios rústicos ou mistos não descritos, ou descritos sem inscrição de aquisição ou reconhecimento de direito de propriedade ou de mera posse em vigor, desencadeados pelos interessados junto de qualquer serviço de registo nos termos previstos no Código do Registo Predial, desde que apresentem configuração geométrica cadastral;\n\nc) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir o procedimento de RGG e a suprir as deficiências do pedido de registo de aquisição, efetuado nos termos gerais do Código do Registo Predial, de prédio rústico ou misto não descrito ou descrito sem inscrição de aquisição ou reconhecimento de direito de propriedade ou mera posse em vigor, desde que instruído com a RGG do prédio, ou que apresentem configuração geométrica cadastral;\n\nd) A RGG de prédios efetuada pelas entidades públicas, ou a pedido dos interessados junto daquelas, destinada a instruir o procedimento especial de justificação previsto na presente lei;\n\ne) Os procedimentos simplificados de sucessão hereditária celebrados nos serviços de registo que sejam necessários à regularização da situação registal dos prédios rústicos e mistos não descritos.\n\n2 - O regime de gratuitidade previsto no número anterior vigora pelo prazo de quatro anos:\n\na) A contar da data de entrada em vigor da presente lei, para os municípios piloto referidos no artigo 31.º da Lei n.º 78/2017, de 17 de agosto, e para os municípios que dispõem de CGPR ou cadastro predial em vigor;\n\nb) A contar da data de celebração do acordo de colaboração interinstitucional referido no n.º 5 do artigo 1.º, para os restantes municípios.\n\n3 - O regime de gratuitidade previsto no presente artigo aplica-se aos prédios integrados em terrenos baldios, independentemente da área.\n\n4 - A inscrição dos prédios rústicos omissos na matriz não dá lugar à aplicação de coimas, à instauração de processo por infração tributária ou à liquidação e cobrança de impostos e juros devidos até à data da regularização.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050) mantém a gratuidade prevista no presente artigo, na redação original, durante o período compreendido entre 25 de agosto de 2023 e 2 de novembro de 2023.\n\n> Nota: [Artigo 16.º, Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050) O presente artigo vigora até 31 de dezembro de 2025."
+  },
+  "223039116": {
+   "fragment_id": "223039390",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\nMantém-se em vigor o Decreto Regulamentar n.º 9-A/2017, de 3 de novembro, que deve ser objeto de alteração no prazo de 60 dias a contar da data de entrada em vigor da presente lei, por forma a regulamentar as especificidades constantes da mesma."
+  },
+  "223039117": {
+   "fragment_id": "223039391",
+   "type": 11,
+   "heading": "Artigo 16.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produção de efeitos\n\nA presente lei produz efeitos a partir de 1 de novembro de 2018, considerando-se ratificados todos os atos praticados ao abrigo do regime previsto na Lei n.º 78/2017, de 17 de agosto, até à data de entrada em vigor da presente lei."
+  },
+  "223039118": {
+   "fragment_id": "223039392",
+   "type": 11,
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação\n\n1 - O Governo fica obrigado à publicação de relatório anual sobre a aplicação do regime previsto na presente lei, com desagregação da respetiva informação, designadamente a relativa à identificação de parcelas cujo proprietário não tenha sido possível identificar.\n\n2 - Sem prejuízo do número anterior, no prazo de três anos a contar da entrada em vigor da presente lei o Governo apresenta à Assembleia da República um relatório de avaliação da aplicação do presente regime ao território nacional, com vista à eventual extensão dos prazos aqui previstos para a sua implementação"
+  },
+  "223039119": {
+   "fragment_id": "223039393",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "223039121": {
+   "fragment_id": "223031871",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente lei mantém em vigor e generaliza a aplicação do sistema de informação cadastral simplificada, instituído pela Lei n.º 78/2017, de 17 de agosto, integrando os seguintes procedimentos:\n\na) O procedimento de representação gráfica georreferenciada (RGG), previsto nos artigos 5.º a 12.º da Lei n.º 78/2017, de 17 de agosto, aplicável aos prédios rústicos e mistos, nos municípios que não dispõem de cadastro geométrico da propriedade rústica (CGPR) ou cadastro predial em vigor;\n\nb) O procedimento especial de registo, previsto nos artigos 13.º a 15.º da Lei n.º 78/2017, de 17 de agosto, aplicável, com as especificidades constantes da presente lei:\n\ni) Aos prédios rústicos ou mistos não descritos no registo, em todo o território nacional;\n\nii) Aos prédios rústicos ou mistos descritos no registo, desde que situados em concelhos que não dispõem de CGPR ou cadastro predial em vigor, cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG.\n\n2 - A presente lei cria ainda, no âmbito do sistema de informação cadastral simplificada:\n\na) O procedimento especial de justificação de prédio rústico e misto;\n\nb) O procedimento de consulta pública destinado à resolução das situações de validação de RGG com reserva de geometria; e\n\nc) Os procedimentos de inscrição de prédio rústico omisso na matriz predial não cadastral e de alteração de área de prédio rústico inscrito na matriz predial não cadastral.\n\n3 - O procedimento a que se refere a alínea a) do número anterior aplica-se aos prédios rústicos ou mistos não descritos no registo, em todo o território nacional, e ainda aos prédios rústicos ou mistos descritos no registo cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG, situados em concelhos que não dispõem de CGPR ou cadastro predial em vigor.\n\n4 - Os procedimentos a que se referem as alíneas b) e c) do n.º 2 aplicam-se na área dos municípios que não dispõem de CGPR ou cadastro predial em vigor identificados no anexo i e no anexo ii à presente lei e da qual fazem parte integrante.\n\n5 - A operacionalização do regime previsto na alínea a) do n.º 1 depende da celebração de um acordo de colaboração interinstitucional entre o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), o Centro de Coordenação Técnica e cada município, que regula:\n\na) As ações a desenvolver com vista à expansão do sistema de informação cadastral simplificado e do Balcão Único do Prédio (BUPi);\n\nb) O modo de partilha de informação de caracterização e identificação dos prédios rústicos ou mistos e dos seus titulares e de caracterização do território nacional.\n\n6 - Para a realização das ações a que se refere a alínea a) do número anterior, o Centro de Coordenação Técnica, o IRN, I. P., os municípios e as entidades intermunicipais podem estabelecer protocolos de cooperação com outras entidades públicas e privadas.\n\n7 - No quadro do Centro de Coordenação Técnica referido no n.º 5, mediante protocolo a celebrar entre a Autoridade Tributária e Aduaneira (AT) e o IRN, I. P., a AT transmite à plataforma BUPi a informação relativa aos prédios inscritos nas matrizes prediais rústica e urbana, localizados no respetivo município, bem como a identificação dos seus titulares, através do nome e número de identificação fiscal, e respetivo domicílio fiscal.\n\n8 - O Centro de Coordenação Técnica, os municípios e as entidades intermunicipais colaboram entre si na expansão do sistema de informação cadastral simplificado e do BUPi.\n\n9 - O novo sistema de informação cadastral simplificado concorre para a elaboração do cadastro predial rústico no plano nacional.\n\n10 - A presente lei promove igualmente a universalização do BUPi, criado pela Lei n.º 78/2017, de 17 de agosto, enquanto plataforma nacional de registo e cadastro do território (PNRCT), abrangendo os prédios urbanos, rústicos e mistos de todo o território nacional.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039122": {
+   "fragment_id": "223031872",
+   "type": 11,
+   "heading": "Artigo 2.º — Sistema de informação cadastral simplificado",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 2.º — Sistema de informação cadastral simplificado\n\n1 - O IRN, I. P., é a entidade responsável pelo sistema de informação cadastral simplificada e pelo BUPi, competindo-lhe:\n\na) Garantir a todo o tempo a atualização e a interoperabilidade dos dados detidos pelas entidades referidas nos n.os 2 e 7 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto;\n\nb) Assegurar a harmonização da informação relevante sobre os elementos caracterizadores e de identificação dos prédios usados para efeitos cadastrais, registais e matriciais;\n\nc) (Revogada.)\n\nd) Assegurar a supervisão do procedimento de RGG.\n\n2 - Compete aos serviços de registo realizar os procedimentos especiais de registo e de justificação previstos na presente lei.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039144": {
+   "fragment_id": "223031873",
+   "type": 11,
+   "heading": "Artigo 3.º — Cadastro geométrico da propriedade rústica e cadastro predial",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 3.º — Cadastro geométrico da propriedade rústica e cadastro predial\n\nA Direção-Geral do Território é a autoridade nacional responsável pelo CGPR e pelo cadastro predial, aprovado pelo Decreto-Lei n.º 172/95, de 18 de julho, e pelo Sistema Nacional de Exploração e Gestão de Informação Cadastral (SINERGIC), aprovado pelo Decreto-Lei n.º 224/2007, de 31 de maio, na sua redação atual, competindo-lhe assegurar:\n\na) A disponibilização no BUPi da informação sobre os elementos cadastrais existentes, procedendo para o efeito à respetiva informatização e vectorização, até 31 de dezembro de 2022;\n\nb) A harmonização da caracterização e identificação dos prédios em regime de cadastro predial;\n\nc) A conservação do cadastro predial.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039123": {
+   "fragment_id": "223039375",
+   "type": 11,
+   "heading": "Artigo 5.º — Modelo de organização e desenvolvimento",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 5.º — Modelo de organização e desenvolvimento\n\n1 - O modelo de organização e desenvolvimento do sistema de informação cadastral simplificado e do BUPi desenvolve-se em três níveis:\n\na) Ao nível central, através de um Centro de Coordenação Técnica, com competências de coordenação, decisão e apoio, integrado no Ministério da Justiça;\n\nb) Ao nível regional, através de Centros de Competências Regionais, a estabelecer por resolução do Conselho de Ministros, com competências e recursos para a partilha e articulação de conhecimentos e de capacidades instaladas no domínio da informação geoespacial;\n\nc) Ao nível municipal, através de Unidades de Competência Locais, que formam a rede de balcões de atendimento, para atendimento ao cidadão, identificação, tratamento e partilha da informação respeitante ao território, seus titulares e limites.\n\n2 - As competências dos municípios referidas na alínea c) do número anterior podem ser delegadas na entidade intermunicipal que estes integram, podendo ser exercidas exclusivamente pela entidade intermunicipal ou em conjunto com cada município.\n\n3 - Para efeitos do previsto na alínea c) do n.º 1 compete às Unidades de Competência Locais:\n\na) Partilhar com o BUPi informação sobre os elementos caracterizadores e de identificação dos prédios rústicos ou mistos, dos seus titulares e de caracterização do território nacional de que o município disponha, para efeitos de identificação dos prédios e supressão de omissão no registo predial;\n\nb) Assegurar a elaboração no BUPi, pelos técnicos habilitados, das operações de RGG dos prédios;\n\nc) Disponibilizar balcões de atendimento ao cidadão.\n\n4 - É aprovado, por portaria dos membros do Governo responsáveis pelas áreas das finanças, da modernização administrativa, da justiça, das autarquias locais, do ordenamento do território e da agricultura e florestas, o regime de funcionamento e financiamento do modelo de organização e desenvolvimento do regime instituído pela Lei n.º 78/2017, de 17 de agosto, com as especificidades constantes da presente lei.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039124": {
+   "fragment_id": "223039376",
+   "type": 11,
+   "heading": "Artigo 6.º — Número de identificação de prédio",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 6.º — Número de identificação de prédio\n\n1 - O número de identificação de prédio (NIP), a que se refere o artigo 3.º da Lei n.º 78/2017, de 17 de agosto, é um identificador numérico, sequencial, com dígito de controlo e sem significado lógico, destinado ao tratamento e harmonização da informação de índole predial, visando a prossecução dos seguintes objetivos:\n\na) Assegurar a identificação unívoca dos prédios, mediante a atribuição de um número único de identificação, de utilização comum a toda a Administração Pública, possibilitando a criação da informação predial única;\n\nb) Unificar e permitir uma gestão uniforme e informática dos conteúdos cadastrais num único sistema de informação;\n\nc) Assegurar o acesso à informação pela Administração Pública, pelos cidadãos e pelas empresas, designadamente por via eletrónica e com a garantia da proteção de dados pessoais envolvidos.\n\n2 - O NIP é atribuído a cada prédio sempre que seja confirmada a coincidência entre a informação constante das bases de dados das descrições prediais do IRN, I. P., e das bases de dados que contêm as inscrições matriciais da AT, associando-se a RGG ou a configuração geométrica do prédio (CGP) dependendo da informação constar no BUPi ou na carta cadastral.\n\n3 - A informação predial única subjacente ao NIP integra designadamente:\n\na) A descrição e as inscrições do registo predial;\n\nb) A inscrição matricial, quando aplicável;\n\nc) A RGG do prédio, quando não cadastrado, ou a CGP que consta da carta cadastral;\n\nd) Outros dados e elementos relativos à caracterização do prédio e à identificação dos seus titulares que possam ser partilhados no BUPi.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039132": {
+   "fragment_id": "223039399",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Plataforma de serviços geográficos Balcão Único do Prédio",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 6.º-A — Plataforma de serviços geográficos Balcão Único do Prédio\n\n1 - O BUPi integra uma plataforma de serviços geográficos de alta disponibilidade que se enquadra como uma Infraestrutura de Dados Espaciais (IDE) e tem como objetivo fornecer conteúdos ao visualizador BUPi e a entidades parceiras, assegurando os necessários atributos de segurança, escalabilidade e resiliência.\n\n2 - Os conjuntos de dados geográficos disponibilizados na plataforma de serviços geográficos BUPi que configurem cartografia ou informação geográfica oficial ou homologada cumprem as obrigações de inscrição no Registo Nacional de Dados Geográficos do Sistema Nacional de Informação Geográfica (SNIG), nos termos do Decreto-Lei n.º 193/95, de 28 de julho, e do Decreto-Lei n.º 180/2009, de 7 de agosto, ambos na sua redação atual.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039133": {
+   "fragment_id": "223039377",
+   "type": 11,
+   "heading": "Artigo 7.º — Confirmação de confinantes",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º — Confirmação de confinantes\n\n1 - Para os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, considera-se validada por todos os proprietários confinantes a informação resultante da RGG nas seguintes situações:\n\na) Declaração de aceitação de todos os proprietários dos prédios confinantes, conforme formulário constante do anexo II ao Decreto Regulamentar n.º 9-A/2017, de 3 de novembro, no caso de não haver conflito quanto aos confinantes;\n\nb) Existência, no BUPi, da totalidade dos polígonos dos prédios confinantes sem conflito de estremas comuns.\n\n2 - No caso de existir conflito quanto aos confinantes pode ser assinada uma declaração de aceitação de todos os proprietários dos prédios confinantes, desde que seja corrigida a sobreposição de polígonos e assinada a declaração presencialmente perante técnico habilitado para o efeito, conforme formulário constante do anexo II ao Decreto Regulamentar n.º 9-A/2017, de 3 de novembro.\n\n3 - Não sendo corrigida a sobreposição de polígonos de prédios confinantes nos termos do número anterior, o conflito é objeto do procedimento de conciliação administrativa.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039134": {
+   "fragment_id": "223039400",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Conciliação administrativa",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-A — Conciliação administrativa\n\n1 - O procedimento da conciliação administrativa é um mecanismo de conciliação que se destina a possibilitar aos interessados alcançarem um acordo relativamente ao limite das estremas de prédios confinantes resultante de procedimentos de RGG, corrigindo os polígonos sobrepostos.\n\n2 - O recurso à conciliação administrativa não obsta à realização do registo fora do âmbito dos procedimentos especiais de registo nem à instauração do procedimento especial de registo ou de justificação, ou à sua conclusão, caso este se encontre pendente.\n\n3 - Podem ser conciliadores, no âmbito do procedimento de conciliação administrativa:\n\na) Os técnicos habilitados que sejam trabalhadores dos municípios ou lhes prestem serviços e se encontrem inscritos no BUPI para prestarem apoio ao cidadão, designados por despacho do Presidente da Câmara Municipal;\n\nb) Os técnicos de cadastro predial a que se referem as alíneas a) a c) do n.º 2 do artigo 3.º da Lei n.º 3/2015, de 9 de janeiro, e que estejam inscritos na lista oficial de técnicos de cadastro predial.\n\n4 - O conciliador assegura, ao longo de todo o procedimento, o respeito pelos princípios da celeridade, independência, imparcialidade, legalidade e transparência.\n\n5 - O conciliador não pode intervir no procedimento caso se encontre em alguma das situações previstas nas alíneas a) a e) do n.º 1 do artigo 69.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, sob pena de nulidade.\n\n6 - O conciliador fica sujeito a segredo profissional relativamente aos factos de que tenha conhecimento no exercício das suas funções e por causa delas.\n\n7 - O dever de segredo não cessa com o termo das funções ou da prestação de serviços.\n\n8 - Em tudo o que seja omisso aplica-se subsidiariamente ao procedimento de conciliação administrativa o Código do Procedimento Administrativo.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039135": {
+   "fragment_id": "223039401",
+   "type": 11,
+   "heading": "Artigo 7.º-B — RGG validada com reserva",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-B — RGG validada com reserva\n\n1 - A RGG é validada com reserva de geometria sempre que:\n\na) O interessado declare que não conhece ou que não é possível determinar algum dos limites do prédio;\n\nb) Exista sobreposição de polígonos;\n\nc) Não esteja identificada a totalidade dos polígonos dos prédios confinantes sem conflito de estremas comuns.\n\n2 - A reserva quanto à geometria do prédio na RGG pode ser resolvida das seguintes formas:\n\na) Com recurso ao procedimento de conciliação administrativa, nos casos em que exista conflito de estremas com prédios confinantes;\n\nb) Com recurso ao procedimento de consulta pública, nos casos em que não se encontrem ainda identificadas todas as estremas dos prédios confinantes.\n\n3 - A RGG validada com reserva de geometria não obsta à realização do registo fora do âmbito dos procedimentos especiais de registo, nem à instauração do procedimento especial de registo ou de justificação.\n\n4 - Uma vez validada por todos os proprietários dos prédios confinantes nos termos do artigo 7.º, a RGG é convertida em CGP, passando a integrar a carta cadastral por referência ao NIP.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039136": {
+   "fragment_id": "223039402",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Procedimento de consulta pública",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-C — Procedimento de consulta pública\n\n1 - Para efeitos da alínea b) do n.º 2 do artigo anterior, é realizado um procedimento de consulta pública com periodicidade anual.\n\n2 - Compete ao Centro de Coordenação Técnica promover a publicitação da consulta pública, com indicação de todos os elementos disponíveis relativos aos prédios em causa, relevantes para a sua identificação por parte dos interessados, mediante anúncio de acesso livre a publicitar no seu sítio na Internet, durante 60 dias, e ainda através:\n\na) Do município e da freguesia onde se localizem os prédios, nomeadamente por divulgação do anúncio em sítio oficial da autarquia na Internet e por afixação de editais nas respetivas sedes;\n\nb) Do envio da informação ao Ministério dos Negócios Estrangeiros, para que este assegure a divulgação junto das comunidades portuguesas no estrangeiro, através da rede diplomática e consular.\n\n3 - As reclamações que forem apresentadas durante a consulta pública são apreciadas por uma comissão administrativa, que integra um representante da AT, do IRN, I. P., e da DGT, sendo o representante do IRN, I. P., um conservador de registos designado por deliberação do respetivo conselho diretivo, exercendo a função de presidente.\n\n4 - Os prédios confinantes que não forem identificados no âmbito do procedimento de consulta pública ficam sujeitos ao procedimento de identificação e reconhecimento de prédio rústico ou misto sem dono conhecido, aprovado pelo Decreto-Lei n.º 15/2019, de 21 de janeiro, na sua redação atual.\n\n5 - Inicia-se o procedimento de reconhecimento de prédio sem dono conhecido previsto no Decreto-Lei n.º 15/2019, de 21 de janeiro, se:\n\na) Os prédios confinantes não forem identificados no âmbito do procedimento de consulta pública e não estiverem descritos no registo predial;\n\nb) Os prédios estiverem inscritos na matriz; e\n\nc) Os titulares da inscrição matricial tiverem sido notificados pelo Centro de Coordenação Técnica, para no prazo de 90 dias promover o procedimento especial de RGG e de registo ou declarar a quem pertence o prédio sem que o tenham efetuado.\n\n6 - Se o notificado declarar que não é o proprietário do prédio, mas indicar a quem o mesmo pertence, notifica-se a pessoa identificada, para os efeitos do número anterior.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039137": {
+   "fragment_id": "223039403",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Procedimento de inscrição de prédio rústico omisso na matriz",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-D — Procedimento de inscrição de prédio rústico omisso na matriz\n\n1 - O procedimento de inscrição de prédio rústico omisso na matriz predial é aplicável aos prédios rústicos situados em municípios que não dispõem de qualquer regime de cadastro predial em vigor.\n\n2 - Em cumprimento do princípio da colaboração previsto no artigo 59.º da lei geral tributária (LGT) e no n.º 2 do artigo 48.º do Código do Procedimento e de Processo Tributário (CPPT), para inscrição de prédio rústico omisso na matriz predial, o interessado deve fazer a entrega de:\n\na) RGG, pendente de finalização, elaborada por técnico habilitado;\n\nb) Declaração de participação de inscrição de prédio rústico omisso.\n\n3 - Quando a RGG não se encontre validada nos termos previstos no n.º 1 do artigo 7.º, é necessário apresentar declaração de aceitação dos limites do prédio efetuada por, pelo menos, um confinante, devidamente identificado com o NIF e a indicação do artigo matricial do seu prédio.\n\n4 - Após a entrega da declaração para inscrição de prédio rústico omisso, acompanhada dos elementos instrutórios, há lugar à inscrição matricial do prédio, com a atribuição do correspondente artigo matricial, ainda que condicionada à fixação do valor patrimonial tributário, nos termos do Código do Imposto Municipal sobre Imóveis, aplicando-se para o efeito o previsto no n.º 4 do artigo 14.º\n\n5 - Após a inscrição matricial do prédio rústico, o promotor deve concluir o procedimento de RGG, retomando o processo que está pendente de finalização no BUPi, com associação do artigo matricial que tenha sido atribuído ao prédio em causa.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039138": {
+   "fragment_id": "223039404",
+   "type": 11,
+   "heading": "Artigo 7.º-E — Procedimento de alteração de área de prédio rústico inscrito na matriz",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-E — Procedimento de alteração de área de prédio rústico inscrito na matriz\n\n1 - O procedimento de alteração de área de prédio rústico inscrito na matriz predial é aplicável aos prédios rústicos situados em municípios que não dispõem de CGPR ou cadastro predial em vigor.\n\n2 - Enquanto a RGG não produzir os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, transitoriamente, subsistem simultaneamente na matriz predial rústica a área relevante para efeitos de liquidação de impostos sobre o respetivo prédio, com recurso à informação previamente existente na matriz, e a área resultante da RGG, que não tem quaisquer efeitos de liquidação de imposto sobre o respetivo prédio.\n\n3 - Para os efeitos previstos no número anterior, as RGG elaboradas são comunicadas pelo BUPi à AT, informando-se, simultaneamente o IRN, I. P., da realização daquela comunicação que, assim, equivale ao pedido de alteração ou retificação de área na matriz a que se refere o n.º 1 do artigo 31.º do Código do Registo Predial, sempre que o interessado pretenda que a descrição predial seja aberta ou atualizada com a área constante da RGG, nos termos previstos no artigo 16.º da Lei n.º 78/2017, de 17 de agosto.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223076505": {
+   "fragment_id": "223039378",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de informação cadastral simplificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de informação cadastral simplificada"
+  },
+  "223039142": {
+   "fragment_id": "223039379",
+   "type": 8,
+   "heading": "Secção I — Procedimento especial de registo de prédio rústico e misto",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "#### Secção I — Procedimento especial de registo de prédio rústico e misto\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039126": {
+   "fragment_id": "223039380",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento especial de registo de prédio rústico e misto",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 8.º — Procedimento especial de registo de prédio rústico e misto\n\n1 - (Revogado.)\n\n2 - Sem prejuízo do disposto no artigo 14.º da Lei n.º 78/2017, de 17 de agosto, o procedimento especial de registo de prédio rústico e misto pode ser promovido por iniciativa dos interessados, desde que:\n\na) Disponham de documento comprovativo do seu direito de propriedade e;\n\nb) Ocorra na sequência de RGG, quando se trate de prédio rústico inscrito na matriz não cadastral, ou seja apresentada a CGP, quando o prédio esteja inscrito na matriz cadastral.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039143": {
+   "fragment_id": "223039381",
+   "type": 8,
+   "heading": "Secção II — Procedimento especial de justificação de prédio rústico e misto",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "#### Secção II — Procedimento especial de justificação de prédio rústico e misto\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039127": {
+   "fragment_id": "223039382",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento especial de justificação de prédio rústico e misto",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 9.º — Procedimento especial de justificação de prédio rústico e misto\n\n1 - (Revogado.)\n\n2 - Ao procedimento especial de justificação de prédio rústico e misto aplica-se, em matéria de competência, o disposto no artigo 13.º da Lei n.º 78/2017, de 17 de agosto.\n\n3 - O procedimento especial de justificação de prédio rústico e misto pode ser promovido pelo interessado que não disponha de documento para prova do seu direito de propriedade, desde que se verifique por consulta ao BUPi:\n\na) A existência de RGG, quando se trate de prédio rústico inscrito na matriz não cadastral; ou\n\nb) A existência de CGP, quando se trate de prédio inscrito na matriz cadastral.\n\n4 - As formalidades prévias, a tramitação e os meios de impugnação do processo especial de justificação são estabelecidos por decreto regulamentar.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039128": {
+   "fragment_id": "223039386",
+   "type": 11,
+   "heading": "Artigo 12.º — Baldios",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 12.º — Baldios\n\nO regime aplicável aos baldios e aos demais meios de produção comunitários, previsto na Lei n.º 75/2017, de 17 de agosto, é tramitado, com as necessárias adaptações, no âmbito do sistema de informação cadastral simplificado previsto na presente lei, sendo integrados no registo predial, assumindo o BUPi, para todos os efeitos legais, as funções da plataforma eletrónica nacional prevista no artigo 9.º do referido diploma.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223076510": {
+   "fragment_id": "223039388",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "223039129": {
+   "fragment_id": "223039389",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime emolumentar e tributário",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 14.º — Regime emolumentar e tributário\n\n1 - São gratuitos os atos e procedimentos previstos na presente lei que abranjam prédios rústicos ou mistos, com área igual ou inferior a 50 hectares, bem como:\n\na) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir o procedimento de RGG e a instruir e suprir as deficiências no âmbito dos procedimentos especialmente previstos na presente lei;\n\nb) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir e/ou suprir deficiências do pedido de registo de aquisição, efetuado nos termos gerais do Código de Registo Predial, de prédio rústico ou misto não descrito ou sem inscrição de aquisição ou reconhecimento de direito ou mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP;\n\nc) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir e/ou suprir deficiências do primeiro pedido de registo de aquisição efetuado nos termos gerais do Código de Registo Predial, de prédio rústico ou misto descrito, após a realização da RGG, desde que instruído com esta;\n\nd) As certidões negativas de registos que digam respeito a prédios rústicos ou mistos necessárias a instruir atos de titulação, desde que seja apresentada RGG ou CGP;\n\ne) As RGG de prédios efetuadas pelas entidades públicas ou a pedido dos interessados junto daquelas, destinadas a instruir os procedimentos especialmente previstos na presente lei ou qualquer ato de registo efetuado nos termos gerais do Código de Registo Predial;\n\nf) Os procedimentos simplificados de sucessão hereditária, celebrados nos serviços de registo, que sejam necessários à regularização da situação registal dos prédios rústicos ou mistos não descritos ou sem inscrição de aquisição ou reconhecimento de direito ou mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP e de prédios rústicos ou mistos descritos, desde que instruídos com RGG e de que resulte a realização do primeiro registo de aquisição após a realização da RGG;\n\ng) Os atos de atualização da descrição predial em conformidade com a RGG ou com a CGP;\n\nh) Os atos de registo relativos a prédios rústicos ou mistos não descritos, ou descritos sem inscrição de aquisição ou reconhecimentos de direto de propriedade ou de mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP;\n\ni) O primeiro pedido de registo de aquisição de prédio rústico ou misto descrito com inscrição de aquisição ou reconhecimento de direito de propriedade ou de mera posse em vigor, efetuado após a realização da RGG e instruído com esta;\n\nj) Os processos de justificação, nos termos do artigo 116.º e seguintes do Código de Registo Predial, desde que instruídos com RGG ou que apresentem CGP;\n\nk) Os atos praticados no âmbito de procedimento de inscrição de prédio omisso na matriz;\n\nl) Os atos praticados no âmbito de procedimento de alteração de áreas de prédio rústico na matriz, desde que instruídos com RGG.\n\n2 - Quando o título sujeito a registo ou o procedimento simplificado de sucessão hereditária abranjam prédios urbanos, rústicos ou mistos, os atos e procedimentos previstos no número anterior são igualmente gratuitos.\n\n3 - Quando os prédios se encontrem integrados em terrenos baldios, a gratuitidade prevista no presente artigo aplica-se independentemente da área dos prédios.\n\n4 - A inscrição dos prédios rústicos omissos na matriz não dá lugar à aplicação de coimas, à instauração de processo de infração tributária ou à liquidação de impostos e juros devidos à data da regularização.\n\n5 - O disposto no número anterior é aplicável às situações em que, para efeitos de atualização das matrizes rústicas, se verificou o incumprimento da obrigação de declaração das alterações ou das modificações ao prédio rústico.\n\n6 - Na alteração de área de prédio rústico previamente inscrito na matriz, nos termos do artigo 130.º do Código do Imposto Municipal sobre Imóveis, a informação da RGG resultante do procedimento previsto no artigo 5.º da Lei n.º 78/2017, de 17 de agosto, sobre prédios previamente inscritos na matriz não releva para efeitos de liquidação de impostos sobre o respetivo prédio, mantendo-se, para esse efeito, o recurso à informação previamente existente na matriz.\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050) mantém a gratuidade prevista no presente artigo, na redação original, durante o período compreendido entre 25 de agosto de 2023 e 2 de novembro de 2023.\n\n> Nota: [Artigo 16.º, Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050) O presente artigo vigora até 31 de dezembro de 2025.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039130": {
+   "fragment_id": "223039390",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\nSão definidas por decreto regulamentar as seguintes matérias:\n\na) A articulação do NIP com o sistema de identificação usado para efeitos cadastrais, registais e matriciais;\n\nb) A metodologia de identificação e delimitação do domínio público;\n\nc) Os termos da efetivação da promoção oficiosa da RGG;\n\nd) O procedimento de conciliação administrativa;\n\ne) As demais matérias cuja regulamentação deva revestir essa forma, nos termos da presente lei.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039139": {
+   "fragment_id": "223039405",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Indicador 'área conhecida'",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 16.º-A — Indicador 'área conhecida'\n\n1 - Para efeitos de monitorização e avaliação de resultados em matéria de informação de caracterização e identificação dos prédios rústicos e mistos e dos seus titulares e de caracterização do território nacional é utilizado o indicador 'área conhecida'.\n\n2 - Considera-se 'área conhecida', no território continental, o somatório das áreas dos 153 municípios do território continental que não dispõem de CGPR ou cadastro predial em vigor, indicados no anexo i à presente lei, e no território das regiões autónomas, o somatório das áreas dos municípios das Regiões Autónomas que não dispõem de CGPR ou cadastro predial em vigor, indicados no anexo ii à presente lei, que se encontrem delimitadas e sem sobreposições e que estejam devidamente identificadas e caracterizadas de acordo com grupos de informação temáticos relativos à sua dominialidade, ocupação do solo, gestão e uso da propriedade, com base na compilação de dados geográficos produzidos por várias entidades públicas e dos procedimentos de RGG.\n\n3 - A 'área conhecida' é calculada em percentagem e em hectares.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039140": {
+   "fragment_id": "223039392",
+   "type": 11,
+   "heading": "Artigo 17.º — Avaliação",
+   "in_force_from": "2023-11-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 17.º — Avaliação\n\n1 - O Governo publica um relatório anual sobre a aplicação do regime previsto na presente lei, o qual contém, nomeadamente, informação relativa à área conhecida.\n\n2 - Sem prejuízo do disposto no número anterior, até 31 de julho de 2025, o Governo apresenta à Assembleia da República um relatório de avaliação da aplicação do presente regime ao território nacional.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223039141": {
+   "fragment_id": "223039393",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "223076511": {
+   "fragment_id": "223039394",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de junho de 2019.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 23 de julho de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 29 de julho de 2019.\n\nPelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.\n\n112493727"
+  },
+  "223076512": {
+   "fragment_id": "223121702",
+   "type": 14,
+   "heading": "Anexo I — Listagem dos 153 municípios do território continental que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "## Anexo I — Listagem dos 153 municípios do território continental que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor\n\n(a que se refere o n.º 4 do artigo 1.º e o n.º 2 do artigo 16.º-A)\n\nConcelhos\n\nÁgueda.\n\nAguiar da Beira.\n\nAlbergaria-a-Velha.\n\nAlcobaça.\n\nAlfândega da Fé.\n\nAlijó.\n\nAlmeida.\n\nAlvaiázere.\n\nAmarante.\n\nAmares.\n\nAnadia.\n\nAnsião.\n\nArcos de Valdevez.\n\nArganil.\n\nArmamar.\n\nArouca.\n\nAveiro.\n\nBaião.\n\nBarcelos.\n\nBatalha.\n\nBelmonte.\n\nBoticas.\n\nBraga.\n\nBragança.\n\nCabeceiras de Basto.\n\nCaldas da Rainha.\n\nCaminha.\n\nCantanhede.\n\nCarrazeda de Ansiães.\n\nCarregal do Sal.\n\nCastanheira de Pera.\n\nCastro Daire.\n\nCelorico da Beira.\n\nCelorico de Basto.\n\nCinfães.\n\nCoimbra.\n\nCondeixa-a-Nova.\n\nCovilhã.\n\nEspinho.\n\nEsposende.\n\nEstarreja.\n\nFafe.\n\nFelgueiras.\n\nFigueira da Foz.\n\nFigueira de Castelo Rodrigo.\n\nFigueiró dos Vinhos.\n\nFornos de Algodres.\n\nFreixo de Espada à Cinta.\n\nFundão.\n\nGóis.\n\nGondomar.\n\nGouveia.\n\nGuarda.\n\nGuimarães.\n\nÍlhavo.\n\nLeiria.\n\nLousã.\n\nLousada.\n\nMacedo de Cavaleiros.\n\nMangualde.\n\nManteigas.\n\nMarco de Canaveses.\n\nMarinha Grande.\n\nMealhada.\n\nMêda.\n\nMelgaço.\n\nMira.\n\nMiranda do Corvo.\n\nMiranda do Douro.\n\nMirandela.\n\nMoimenta da Beira.\n\nMonção.\n\nMondim de Basto.\n\nMontalegre.\n\nMontemor-o-Velho.\n\nMortágua.\n\nMurça.\n\nMurtosa.\n\nNelas.\n\nOleiros.\n\nOliveira de Azeméis.\n\nOliveira de Frades.\n\nOliveira do Bairro.\n\nOurém.\n\nOvar.\n\nPaços de Ferreira.\n\nPampilhosa da Serra.\n\nParedes de Coura.\n\nPedrógão Grande.\n\nPenacova.\n\nPenalva do Castelo.\n\nPenedono.\n\nPenela.\n\nPinhel.\n\nPombal.\n\nPonte da Barca.\n\nPonte de Lima.\n\nPóvoa de Lanhoso.\n\nPóvoa de Varzim.\n\nProença-a-Nova.\n\nRibeira de Pena.\n\nSabrosa.\n\nSabugal.\n\nSanta Comba Dão.\n\nSanta Maria da Feira.\n\nSanto Tirso.\n\nSão João da Pesqueira.\n\nSão Pedro do Sul.\n\nSátão.\n\nSernancelhe.\n\nSertã.\n\nSever do Vouga.\n\nSoure.\n\nTábua.\n\nTarouca.\n\nTerras de Bouro.\n\nTondela.\n\nTorre de Moncorvo.\n\nTrancoso.\n\nVagos.\n\nVale de Cambra.\n\nValença.\n\nValongo.\n\nValpaços.\n\nViana do Castelo.\n\nVieira do Minho.\n\nVila de Rei.\n\nVila do Conde.\n\nVila Flor.\n\nVila Nova de Cerveira.\n\nVila Nova de Famalicão.\n\nVila Nova de Foz Côa.\n\nVila Nova de Gaia.\n\nVila Nova de Paiva.\n\nVila Nova de Poiares.\n\nVila Pouca de Aguiar.\n\nVila Real.\n\nVila Verde.\n\nVimioso.\n\nVinhais.\n\nViseu.\n\nVizela.\n\nVouzela.\n\nCastelo de Paiva.\n\nChaves.\n\nLisboa.\n\nMaia.\n\nMatosinhos.\n\nPorto.\n\nResende.\n\nSão João da Madeira.\n\nTabuaço.\n\nTrofa.\n\n> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "223076513": {
+   "fragment_id": "223121703",
+   "type": 14,
+   "heading": "Anexo II — Listagem dos 19 municípios das Regiões Autónomas dos Açores e da Madeira que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "## Anexo II — Listagem dos 19 municípios das Regiões Autónomas dos Açores e da Madeira que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor\n\n(a que se refere o n.º 4 do artigo 1.º e o n.º 2 do artigo 16.º-A)\n\nConcelhos\n\nAngra do Heroísmo.\n\nCalheta.\n\nCalheta.\n\nCorvo.\n\nHorta.\n\nLajes das Flores.\n\nLajes do Pico.\n\nMadalena.\n\nNordeste.\n\nPonta do Sol.\n\nPorto Moniz.\n\nPovoação.\n\nPraia da Vitória.\n\nRibeira Brava.\n\nSanta Cruz da Graciosa.\n\nSanta Cruz das Flores.\n\nSão Roque do Pico.\n\nSão Vicente.\n\nVila do Porto.\n\n> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086131775": {
+   "fragment_id": "223031871",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente lei mantém em vigor e generaliza a aplicação do sistema de informação cadastral simplificada, instituído pela Lei n.º 78/2017, de 17 de agosto, integrando os seguintes procedimentos:\n\na) O procedimento de representação gráfica georreferenciada (RGG), previsto nos artigos 5.º a 12.º da Lei n.º 78/2017, de 17 de agosto, aplicável aos prédios rústicos e mistos, nos municípios que não dispõem de cadastro geométrico da propriedade rústica (CGPR) ou cadastro predial em vigor;\n\nb) O procedimento especial de registo, previsto nos artigos 13.º a 15.º da Lei n.º 78/2017, de 17 de agosto, aplicável, com as especificidades constantes da presente lei:\n\ni) Aos prédios rústicos ou mistos não descritos no registo, em todo o território nacional;\n\nii) Aos prédios rústicos ou mistos descritos no registo, desde que situados em concelhos que não dispõem de CGPR ou cadastro predial em vigor, cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG.\n\n2 - A presente lei cria ainda, no âmbito do sistema de informação cadastral simplificada:\n\na) O procedimento especial de justificação de prédio rústico e misto;\n\nb) O procedimento de consulta pública destinado à resolução das situações de validação de RGG com reserva de geometria;\n\nc) Os procedimentos de inscrição de prédio rústico omisso na matriz predial não cadastral e de alteração de área de prédio rústico inscrito na matriz predial não cadastral; e\n\nd) O procedimento especial de anexação de prédio rústico.\n\n3 - O procedimento a que se refere a alínea a) do número anterior aplica-se aos prédios rústicos ou mistos não descritos no registo, em todo o território nacional, e ainda aos prédios rústicos ou mistos descritos no registo cuja inscrição de aquisição se encontre desatualizada e constitua a primeira atualização após a realização da RGG, situados em concelhos que não dispõem de CGPR ou cadastro predial em vigor.\n\n4 - Os procedimentos a que se referem as alíneas b), c) e d) do n.º 2 aplicam-se na área dos municípios que não dispõem de cadastro predial identificados no anexo i e no anexo ii à presente lei e da qual fazem parte integrante.\n\n5 - A operacionalização do regime previsto na alínea a) do n.º 1 depende da celebração de um acordo de colaboração interinstitucional entre o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), o Centro de Coordenação Técnica e cada município, que regula:\n\na) As ações a desenvolver com vista à expansão do sistema de informação cadastral simplificado e do Balcão Único do Prédio (BUPi);\n\nb) O modo de partilha de informação de caracterização e identificação dos prédios rústicos ou mistos e dos seus titulares e de caracterização do território nacional.\n\n6 - Para a realização das ações a que se refere a alínea a) do número anterior, o Centro de Coordenação Técnica, o IRN, I. P., os municípios e as entidades intermunicipais podem estabelecer protocolos de cooperação com outras entidades públicas e privadas.\n\n7 - No quadro do Centro de Coordenação Técnica referido no n.º 5, mediante protocolo a celebrar entre a Autoridade Tributária e Aduaneira (AT) e o IRN, I. P., a AT transmite à plataforma BUPi a informação relativa aos prédios inscritos nas matrizes prediais rústica e urbana, localizados no respetivo município, bem como a identificação dos seus titulares, através do nome e número de identificação fiscal, e respetivo domicílio fiscal.\n\n8 - O Centro de Coordenação Técnica, os municípios e as entidades intermunicipais colaboram entre si na expansão do sistema de informação cadastral simplificado e do BUPi.\n\n9 - O Centro de Coordenação Técnica pode emitir orientações técnicas no âmbito dos procedimentos do sistema de informação cadastral simplificado e quanto à implementação e operacionalização do BUPi.\n\n10 - O novo sistema de informação cadastral simplificado concorre para a elaboração do cadastro predial rústico no plano nacional.\n\n11 - A presente lei promove igualmente a universalização do BUPi, criado pela Lei n.º 78/2017, de 17 de agosto, enquanto plataforma nacional de registo e cadastro do território (PNRCT), abrangendo os prédios urbanos, rústicos e mistos de todo o território nacional.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086131975": {
+   "fragment_id": "223031872",
+   "type": 11,
+   "heading": "Artigo 2.º — Sistema de informação cadastral simplificado",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 2.º — Sistema de informação cadastral simplificado\n\n1 - O IRN, I. P., é a entidade responsável pelo sistema de informação cadastral simplificada e pelo BUPi, competindo-lhe:\n\na) Garantir a todo o tempo a atualização e a interoperabilidade dos dados detidos pelas entidades referidas nos n.os 2 e 7 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto;\n\nb) Assegurar a harmonização da informação relevante sobre os elementos caracterizadores e de identificação dos prédios usados para efeitos cadastrais, registais e matriciais;\n\nc) (Revogada.)\n\nd) Assegurar a supervisão do procedimento de RGG.\n\n2 - Compete aos serviços de registo realizar os procedimentos especiais de registo, de justificação e de anexação previstos na presente lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086132175": {
+   "fragment_id": "223039400",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Conciliação administrativa",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-A — Conciliação administrativa\n\n1 - O procedimento da conciliação administrativa é um mecanismo de conciliação que se destina a possibilitar aos interessados alcançarem um acordo relativamente ao limite das estremas de prédios confinantes resultante de procedimentos de RGG, corrigindo os polígonos sobrepostos.\n\n2 - O recurso à conciliação administrativa não obsta à realização do registo fora do âmbito dos procedimentos especiais de registo nem à instauração do procedimento especial de registo ou de justificação, ou à sua conclusão, caso este se encontre pendente.\n\n3 - Podem ser conciliadores, no âmbito do procedimento de conciliação administrativa:\n\na) Os técnicos habilitados que sejam trabalhadores dos municípios e das entidades intermunicipais ou lhes prestem serviços e se encontrem inscritos no BUPi para prestarem apoio ao cidadão, designados por despacho do presidente da câmara municipal ou do secretariado executivo intermunicipal, respetivamente;\n\nb) Os técnicos de cadastro predial a que se referem as alíneas a) a c) do n.º 2 do artigo 3.º da Lei n.º 3/2015, de 9 de janeiro, e que estejam inscritos na lista oficial de técnicos de cadastro predial.\n\n4 - O conciliador assegura, ao longo de todo o procedimento, o respeito pelos princípios da celeridade, independência, imparcialidade, legalidade e transparência.\n\n5 - O conciliador não pode intervir no procedimento caso se encontre em alguma das situações previstas nas alíneas a) a e) do n.º 1 do artigo 69.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, sob pena de nulidade.\n\n6 - O conciliador fica sujeito a segredo profissional relativamente aos factos de que tenha conhecimento no exercício das suas funções e por causa delas.\n\n7 - O dever de segredo não cessa com o termo das funções ou da prestação de serviços.\n\n8 - Em tudo o que seja omisso aplica-se subsidiariamente ao procedimento de conciliação administrativa o Código do Procedimento Administrativo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086132375": {
+   "fragment_id": "223039401",
+   "type": 11,
+   "heading": "Artigo 7.º-B — RGG validada com reserva",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-B — RGG validada com reserva\n\n1 - A RGG é validada com reserva de geometria sempre que:\n\na) O interessado declare que não conhece ou que não é possível determinar algum dos limites do prédio;\n\nb) Exista sobreposição de polígonos;\n\nc) Não esteja identificada a totalidade dos polígonos dos prédios confinantes sem conflito de estremas comuns.\n\n2 - A reserva quanto à geometria do prédio na RGG pode ser resolvida das seguintes formas:\n\na) Com recurso ao procedimento de conciliação administrativa, nos casos em que exista conflito de estremas com prédios confinantes;\n\nb) Com recurso ao procedimento de consulta pública, nos casos em que não se encontrem ainda identificadas todas as estremas dos prédios confinantes.\n\n3 - A RGG validada com reserva de geometria não obsta à realização do registo fora do âmbito dos procedimentos especiais de registo, nem à instauração do procedimento especial de registo ou de justificação.\n\n4 - Uma vez validada por todos os proprietários dos prédios confinantes nos termos do artigo 7.º, a RGG é convertida em CGP, passando a integrar a carta cadastral.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086132575": {
+   "fragment_id": "223039402",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Procedimento de consulta pública",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-C — Procedimento de consulta pública\n\n1 - Para efeitos da alínea b) do n.º 2 do artigo anterior, é realizado um procedimento de consulta pública com periodicidade anual.\n\n2 - Compete ao Centro de Coordenação Técnica promover a publicitação da consulta pública, com indicação de todos os elementos disponíveis relativos aos prédios em causa, relevantes para a sua identificação por parte dos interessados, mediante anúncio de acesso livre a publicitar no seu sítio na Internet, durante 60 dias úteis, e ainda através:\n\na) Do município e da freguesia onde se localizem os prédios, nomeadamente por divulgação do anúncio em sítio oficial da autarquia na Internet e por afixação de editais nas respetivas sedes;\n\nb) Do envio da informação ao Ministério dos Negócios Estrangeiros, para que este assegure a divulgação junto das comunidades portuguesas no estrangeiro, através da rede diplomática e consular.\n\n3 - As reclamações que forem apresentadas durante a consulta pública são apreciadas, no prazo de 90 dias úteis, por uma comissão administrativa, que integra um representante da AT, do IRN, I. P., e da DGT, sendo o representante do IRN, I. P., um conservador de registos designado por deliberação do respetivo conselho diretivo, exercendo a função de presidente.\n\n4 - Os prédios confinantes que não forem identificados no âmbito do procedimento de consulta pública ficam sujeitos ao procedimento de identificação e reconhecimento de prédio rústico ou misto sem dono conhecido, aprovado pelo Decreto-Lei n.º 15/2019, de 21 de janeiro, na sua redação atual.\n\n5 - Inicia-se o procedimento de reconhecimento de prédio sem dono conhecido previsto no Decreto-Lei n.º 15/2019, de 21 de janeiro, se:\n\na) Os prédios confinantes não forem identificados no âmbito do procedimento de consulta pública e não estiverem descritos no registo predial;\n\nb) Os prédios estiverem inscritos na matriz; e\n\nc) Os titulares da inscrição matricial tiverem sido notificados pelo Centro de Coordenação Técnica, para no prazo de 90 dias promover o procedimento especial de registo e, quando se trate de prédio inscrito na matriz não cadastral, obter previamente a RGG do prédio, ou declarar a quem pertence o prédio sem que o tenham efetuado.\n\n6 - Se o notificado declarar que não é o proprietário do prédio, mas indicar a quem o mesmo pertence, notifica-se a pessoa identificada, para os efeitos do número anterior.\n\n7 - O conselho diretivo do IRN, I. P., pode delegar no Centro de Coordenação Técnica as competências para a tramitação do procedimento oficioso a que se refere o presente artigo, podendo o Centro de Coordenação Técnica aceder aos dados comunicados pela AT.\n\n8 - Em tudo o que seja omisso aplica-se subsidiariamente ao procedimento de consulta pública o Código do Procedimento Administrativo.\n\n9 - Nos prédios rústicos abrangidos por Áreas Integradas de Gestão da Paisagem, enquanto não for possível identificar o proprietário dos prédios, a entidade gestora pode atuar na qualidade de gestor de negócios com vista à execução da Operação Integrada de Gestão da Paisagem, independentemente de estar em curso o procedimento de consulta pública ou o procedimento de identificação e reconhecimento de prédio rústico sem dono conhecido.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086132775": {
+   "fragment_id": "223039403",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Procedimento de inscrição de prédio rústico omisso na matriz",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-D — Procedimento de inscrição de prédio rústico omisso na matriz\n\n1 - O procedimento de inscrição de prédio rústico omisso na matriz predial é aplicável aos prédios rústicos situados em municípios que não dispõem de qualquer regime de cadastro predial em vigor.\n\n2 - Em cumprimento do princípio da colaboração previsto no artigo 59.º da lei geral tributária (LGT) e no n.º 2 do artigo 48.º do Código do Procedimento e de Processo Tributário (CPPT), para inscrição de prédio rústico omisso na matriz predial, o interessado deve fazer a entrega de:\n\na) RGG, pendente de finalização, elaborada por técnico habilitado;\n\nb) Declaração de participação de inscrição de prédio rústico omisso.\n\n3 - Quando a RGG não se encontre validada nos termos previstos no n.º 1 do artigo 7.º, deve ser apresentada declaração de aceitação dos limites do prédio efetuada por, pelo menos, dois confinantes, desde que os respetivos prédios não integrem o domínio público, devidamente identificados com o número de identificação fiscal e a indicação do número da respetiva RGG submetida no BUPi e do artigo matricial do seu prédio.\n\n4 - Após a entrega da declaração para inscrição de prédio rústico omisso, acompanhada dos elementos instrutórios, há lugar à inscrição matricial do prédio, com a atribuição do correspondente artigo matricial provisório, ainda que condicionada à fixação do valor patrimonial tributário, nos termos do Código do Imposto Municipal sobre Imóveis, aplicando-se para o efeito o previsto no n.º 4 do artigo 14.º\n\n5 - Após a inscrição matricial do prédio rústico, o promotor deve concluir o procedimento de RGG no prazo de 30 dias úteis, retomando o processo que está pendente de finalização no BUPi, com associação do artigo matricial provisório que tenha sido atribuído ao prédio em causa, sob pena de cancelamento da RGG provisória elaborada nos termos previstos na alínea a) do n.º 2 e da eliminação do artigo matricial provisório.\n\n6 - Após a conclusão do procedimento de RGG, o interessado dispõe do prazo de um ano para apresentar o correspondente pedido de registo, sob pena de cancelamento da RGG e da eliminação da inscrição matricial correspondente.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086132975": {
+   "fragment_id": "223039404",
+   "type": 11,
+   "heading": "Artigo 7.º-E — Procedimento de alteração de área de prédio rústico inscrito na matriz",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 7.º-E — Procedimento de alteração de área de prédio rústico inscrito na matriz\n\n1 - O procedimento de alteração de área de prédio rústico inscrito na matriz predial é aplicável aos prédios rústicos situados em municípios que não dispõem de CGPR ou cadastro predial em vigor.\n\n2 - Enquanto a RGG não produzir os efeitos previstos no n.º 3 do artigo 5.º da Lei n.º 78/2017, de 17 de agosto, transitoriamente, subsistem simultaneamente na matriz predial rústica a área relevante para efeitos de liquidação de impostos sobre o respetivo prédio, com recurso à informação previamente existente na matriz, e a área resultante da RGG, que não tem quaisquer efeitos de liquidação de imposto sobre o respetivo prédio.\n\n3 - Para os efeitos previstos no número anterior, as RGG elaboradas são comunicadas pelo BUPi à AT, informando-se, simultaneamente o IRN, I. P., da realização daquela comunicação que, assim, equivale ao pedido de alteração ou retificação de área na matriz a que se refere o n.º 1 do artigo 31.º do Código do Registo Predial, sempre que o interessado pretenda que a descrição predial seja aberta ou atualizada com a área constante da RGG, nos termos previstos no artigo 16.º da Lei n.º 78/2017, de 17 de agosto.\n\n4 - A comunicação das RGG respeitantes a prédios com mais do que uma matriz, rústica ou urbana, compreende a informação da área total do prédio.\n\n5 - Quando as condições técnicas o permitirem, as comunicações previstas no n.º 3 efetuam-se de forma automática, por interoperabilidade de dados.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086133175": {
+   "fragment_id": "223039380",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento especial de registo de prédio rústico e misto",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 8.º — Procedimento especial de registo de prédio rústico e misto\n\n1 - (Revogado.)\n\n2 - Sem prejuízo do disposto no artigo 14.º da Lei n.º 78/2017, de 17 de agosto, o procedimento especial de registo de prédio rústico e misto pode ser promovido por iniciativa dos interessados, desde que:\n\na) Disponham de documento comprovativo do seu direito de propriedade e;\n\nb) Ocorra na sequência de RGG, quando se trate de prédio rústico inscrito na matriz não cadastral, ou seja apresentada a CGP, quando o prédio esteja inscrito na matriz cadastral.\n\n3 - As formalidades prévias, a tramitação e os meios de impugnação do procedimento especial de registo são estabelecidos por decreto regulamentar.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086133375": {
+   "fragment_id": "223039385",
+   "type": 11,
+   "heading": "Artigo 11.º — Anotação à descrição",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16."
+   ],
+   "markdown": "###### Artigo 11.º — Anotação à descrição\n\n1 - Para efeitos do previsto no artigo 18.º da Lei n.º 78/2017, de 17 de agosto, no caso de prédios descritos, a existência de RGG é comunicada por via eletrónica ao sistema de informação de registo predial.\n\n2 - Se as condições técnicas o permitirem, a existência de RGG é anotada de forma automática, por interoperabilidade de dados.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16."
+  },
+  "1086133575": {
+   "fragment_id": "223039389",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime emolumentar e tributário",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "###### Artigo 14.º — Regime emolumentar e tributário\n\n1 - São gratuitos, até 30 de setembro de 2026, os atos e procedimentos previstos na presente lei que abranjam prédios rústicos ou mistos com área igual ou inferior a 50 hectares, bem como:\n\na) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir o procedimento de RGG e a instruir e suprir as deficiências no âmbito dos procedimentos especialmente previstos na presente lei;\n\nb) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir e/ou suprir deficiências do pedido de registo de aquisição, efetuado nos termos gerais do Código de Registo Predial, de prédio rústico ou misto não descrito ou sem inscrição de aquisição ou reconhecimento de direito ou mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP;\n\nc) Os documentos emitidos pelas entidades ou serviços da Administração Pública destinados a instruir e/ou suprir deficiências do primeiro pedido de registo de aquisição efetuado nos termos gerais do Código de Registo Predial, de prédio rústico ou misto descrito, após a realização da RGG, desde que instruído com esta;\n\nd) As certidões negativas de registos que digam respeito a prédios rústicos ou mistos necessárias a instruir atos de titulação, desde que seja apresentada RGG ou CGP;\n\ne) As RGG de prédios efetuadas pelas entidades públicas ou a pedido dos interessados junto daquelas, destinadas a instruir os procedimentos especialmente previstos na presente lei ou qualquer ato de registo efetuado nos termos gerais do Código de Registo Predial;\n\nf) Os procedimentos simplificados de sucessão hereditária, celebrados nos serviços de registo, que sejam necessários à regularização da situação registal dos prédios rústicos ou mistos não descritos ou sem inscrição de aquisição ou reconhecimento de direito ou mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP e de prédios rústicos ou mistos descritos, desde que instruídos com RGG e de que resulte a realização do primeiro registo de aquisição após a realização da RGG;\n\ng) Os atos de atualização da descrição predial em conformidade com a RGG ou com a CGP;\n\nh) Os atos de registo relativos a prédios rústicos ou mistos não descritos, ou descritos sem inscrição de aquisição ou reconhecimentos de direto de propriedade ou de mera posse em vigor, desde que instruídos com RGG ou que apresentem CGP;\n\ni) O primeiro pedido de registo de aquisição de prédio rústico ou misto descrito com inscrição de aquisição ou reconhecimento de direito de propriedade ou de mera posse em vigor, efetuado após a realização da RGG e instruído com esta;\n\nj) Os processos de justificação, nos termos do artigo 116.º e seguintes do Código de Registo Predial, desde que instruídos com RGG ou que apresentem CGP;\n\nk) Os atos praticados no âmbito de procedimento de inscrição de prédio omisso na matriz;\n\nl) Os atos praticados no âmbito de procedimento de alteração de áreas de prédio rústico na matriz, desde que instruídos com RGG.\n\n2 - Quando o título sujeito a registo ou o procedimento simplificado de sucessão hereditária abranjam prédios urbanos, rústicos ou mistos, os atos e procedimentos previstos no número anterior são igualmente gratuitos.\n\n3 - Quando os prédios se encontrem integrados em terrenos baldios, a gratuitidade prevista no presente artigo aplica-se independentemente da área dos prédios.\n\n4 - A inscrição dos prédios rústicos omissos na matriz não dá lugar à aplicação de coimas, à instauração de processo de infração tributária ou à liquidação de impostos e juros devidos à data da regularização.\n\n5 - O disposto no número anterior é aplicável às situações em que, para efeitos de atualização das matrizes rústicas, se verificou o incumprimento da obrigação de declaração das alterações ou das modificações ao prédio rústico.\n\n6 - Na alteração de área de prédio rústico previamente inscrito na matriz, nos termos do artigo 130.º do Código do Imposto Municipal sobre Imóveis, a informação da RGG resultante do procedimento previsto no artigo 5.º da Lei n.º 78/2017, de 17 de agosto, sobre prédios previamente inscritos na matriz não releva para efeitos de liquidação de impostos sobre o respetivo prédio, mantendo-se, para esse efeito, o recurso à informação previamente existente na matriz.\n\n7 - A partir de 1 de outubro de 2026, por cada RGG, realizada por técnicos habilitados que sejam trabalhadores dos municípios e das entidades intermunicipais ou lhes prestem serviços e se encontrem inscritos no BUPi para prestarem apoio ao cidadão, é devido pelo interessado o valor de:\n\na) 15 € por cada RGG, até à 9.ª RGG;\n\nb) 10 € por cada RGG, a partir da 10.ª RGG.\n\n8 - Os técnicos habilitados que sejam trabalhadores dos municípios e das entidades intermunicipais asseguram a validação das RGG eletrónicas\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050) mantém a gratuidade prevista no presente artigo, na redação original, durante o período compreendido entre 25 de agosto de 2023 e 2 de novembro de 2023.\n\n> Nota: [Artigo 16.º, Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050) O presente artigo vigora até 31 de dezembro de 2025.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  },
+  "1086134375": {
+   "fragment_id": "223121703",
+   "type": 14,
+   "heading": "Anexo II — Listagem dos 20 municípios das Regiões Autónomas dos Açores e da Madeira que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor",
+   "in_force_from": "2026-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.",
+    "Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+   ],
+   "markdown": "## Anexo II — Listagem dos 20 municípios das Regiões Autónomas dos Açores e da Madeira que não dispõem de cadastro geométrico da propriedade rústica ou cadastro predial em vigor\n\n(a que se refere o n.º 4 do artigo 1.º e o n.º 2 do artigo 16.º-A)\n\nConcelhos\n\nAngra do Heroísmo.\n\nCalheta.\n\nCalheta.\n\nCorvo.\n\nHorta.\n\nLajes das Flores.\n\nLajes do Pico.\n\nMadalena.\n\nNordeste.\n\nPonta do Sol.\n\nPorto Moniz.\n\nPovoação.\n\nPraia da Vitória.\n\nRibeira Brava.\n\nSanta Cruz da Graciosa.\n\nSanta Cruz das Flores.\n\nSão Roque do Pico.\n\nSão Vicente.\n\nVelas.\n\nVila do Porto.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 87/2026 - Diário da República n.º 73/2026, Série I de 2026-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2026-1085738183), em vigor a partir de 2026-04-16.\n\n> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 90/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2023-222645050), em vigor a partir de 2023-11-02"
+  }
+ }
+}

@@ -1,0 +1,1696 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247256:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-164926321",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2008-247256",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-03-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164926397",
+    "164926398",
+    "164926399",
+    "164926400",
+    "164926401",
+    "164926402",
+    "164926404",
+    "164926405",
+    "164926406",
+    "164926407",
+    "164926408",
+    "164926409",
+    "164926410",
+    "164926411",
+    "164926412",
+    "164926413",
+    "164926414",
+    "164926415",
+    "164926416",
+    "164926417",
+    "164926418",
+    "164926419",
+    "164926420",
+    "164926421",
+    "164926422",
+    "164926423",
+    "164926424",
+    "164926425",
+    "164926426",
+    "164926427",
+    "164926428",
+    "164926429",
+    "164926430",
+    "164926431",
+    "164926432",
+    "164926433",
+    "164926434",
+    "164926435",
+    "164926436",
+    "164926437",
+    "164926438",
+    "164926439",
+    "164926440",
+    "164926441",
+    "164926442",
+    "164926443",
+    "164926444",
+    "164926445",
+    "164926446",
+    "164926447",
+    "164926448",
+    "164926449",
+    "164926450",
+    "164926451",
+    "164926452",
+    "164926453",
+    "164926454",
+    "164926455",
+    "164926456",
+    "164926457",
+    "164926458",
+    "164926459",
+    "164926460",
+    "164926461",
+    "164926462",
+    "164926463",
+    "164926464",
+    "164926465",
+    "164926466",
+    "164926467",
+    "164926468",
+    "164926469",
+    "164926470",
+    "164926471",
+    "164926472",
+    "164926473",
+    "164926474",
+    "164933475",
+    "164933476",
+    "164933477",
+    "164933478",
+    "164933479",
+    "164933480",
+    "164933481",
+    "164933482",
+    "164933483",
+    "164933484",
+    "164933485",
+    "164933486",
+    "164933487",
+    "164933488",
+    "164933489",
+    "164933490",
+    "164933491",
+    "164933492",
+    "164933493",
+    "164933494",
+    "164933495",
+    "164933496",
+    "164933497",
+    "164933498",
+    "164933499",
+    "164933500",
+    "164933501",
+    "164933502",
+    "164933503",
+    "164933504",
+    "164933505",
+    "164933506",
+    "164933507",
+    "164933508",
+    "164933509",
+    "164933510",
+    "164933511",
+    "164933512",
+    "164933513",
+    "164933514",
+    "164933515",
+    "164933516",
+    "164933517",
+    "164933518",
+    "164933519",
+    "164933520",
+    "164933521",
+    "164933522",
+    "164933523",
+    "164933524",
+    "164933525",
+    "164933526",
+    "164933527",
+    "164933528",
+    "164933529",
+    "164933530",
+    "164933531",
+    "164933532",
+    "164933533",
+    "164933534",
+    "164933535",
+    "164933536",
+    "164933537",
+    "164933538",
+    "164933539",
+    "164933540",
+    "164933541",
+    "164933542",
+    "164933543",
+    "164933544",
+    "164933545",
+    "164933546",
+    "164933547",
+    "164933548",
+    "164933549",
+    "164933550",
+    "164933551",
+    "164933552",
+    "164933553",
+    "164933554",
+    "164933555",
+    "164933556",
+    "164933557",
+    "164933558",
+    "164933559",
+    "164933560"
+   ]
+  },
+  {
+   "date": "2023-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:210488520:por",
+     "title": "Decreto Legislativo Regional n.º 10/2023/A",
+     "published": "2023-03-20",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/10-2023-210488520"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "164926397",
+    "210749881",
+    "164926399",
+    "210749882",
+    "164926401",
+    "164926402",
+    "164926403",
+    "164926404",
+    "164926405",
+    "164926406",
+    "164926407",
+    "164926408",
+    "164926409",
+    "164926410",
+    "164926411",
+    "164926412",
+    "164926413",
+    "164926414",
+    "164926415",
+    "164926416",
+    "164926417",
+    "164926418",
+    "164926419",
+    "164926420",
+    "164926421",
+    "164926422",
+    "164926423",
+    "164926424",
+    "164926425",
+    "164926426",
+    "164926427",
+    "164926428",
+    "164926429",
+    "164926430",
+    "164926431",
+    "164926432",
+    "164926433",
+    "164926434",
+    "164926435",
+    "164926436",
+    "164926437",
+    "164926438",
+    "164926439",
+    "164926440",
+    "164926441",
+    "164926442",
+    "164926443",
+    "164926444",
+    "164926445",
+    "164926446",
+    "164926447",
+    "164926448",
+    "164926449",
+    "164926450",
+    "164926451",
+    "164926452",
+    "164926453",
+    "164926454",
+    "164926455",
+    "164926456",
+    "164926457",
+    "164926458",
+    "164926459",
+    "164926460",
+    "164926461",
+    "164926462",
+    "164926463",
+    "164926464",
+    "164926465",
+    "164926466",
+    "164926467",
+    "164926468",
+    "164926469",
+    "164926470",
+    "164926471",
+    "164926472",
+    "164926473",
+    "164926474",
+    "164933475",
+    "164933476",
+    "164933477",
+    "164933478",
+    "164933479",
+    "164933480",
+    "164933481",
+    "164933482",
+    "164933483",
+    "164933484",
+    "164933485",
+    "164933486",
+    "164933487",
+    "164933488",
+    "164933489",
+    "164933490",
+    "164933491",
+    "164933492",
+    "164933493",
+    "164933494",
+    "164933495",
+    "164933496",
+    "164933497",
+    "164933498",
+    "164933499",
+    "164933500",
+    "164933501",
+    "164933502",
+    "164933503",
+    "164933504",
+    "164933505",
+    "164933506",
+    "164933507",
+    "164933508",
+    "164933509",
+    "164933510",
+    "164933511",
+    "164933512",
+    "164933513",
+    "164933514",
+    "164933515",
+    "164933516",
+    "164933517",
+    "164933518",
+    "164933519",
+    "164933520",
+    "164933521",
+    "164933522",
+    "164933523",
+    "164933524",
+    "164933525",
+    "164933526",
+    "164933527",
+    "164933528",
+    "164933529",
+    "164933530",
+    "164933531",
+    "164933532",
+    "164933533",
+    "164933534",
+    "164933535",
+    "164933536",
+    "164933537",
+    "164933538",
+    "164933539",
+    "164933540",
+    "164933541",
+    "164933542",
+    "164933543",
+    "164933544",
+    "164933545",
+    "164933546",
+    "164933547",
+    "164933548",
+    "164933549",
+    "164933550",
+    "164933551",
+    "164933552",
+    "164933553",
+    "164933554",
+    "164933555",
+    "164933556",
+    "164933557",
+    "164933558",
+    "164933559",
+    "164933560"
+   ]
+  }
+ ],
+ "fragments": {
+  "164926397": {
+   "fragment_id": "164926322",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 6/2008/A\n\nReestrutura a Escola Profissional de Capelas, alterando o Decreto Legislativo Regional n.º 26/2005/A, de 4 de Novembro\n\nA Escola Profissional de Capelas resultou da autonomização e transformação em estabelecimento de ensino do antigo Centro de Formação Profissional dos Açores operada pelo Decreto Legislativo Regional n.º 21/97/A, de 4 de Novembro.\n\nPor força do referido diploma, aquela escola assumiu a natureza jurídica de instituto público, dotado de autonomia administrativa e financeira e de património próprio, sendo a sua gestão configurada num regime específico distinto daquele que se aplica ao restante sistema educativo. Essa especificidade justificou-se pela necessidade de maximizar a autonomia de gestão do estabelecimento, permitindo a arrecadação e gestão de receitas próprias como forma de agilizar o seu funcionamento administrativo e financeiro.\n\nDecorrida quase uma década da instituição daquele regime, ocorreram profundas alterações no regime jurídico de autonomia das escolas do sistema educativo regional, as quais passaram a dispor de um fundo escolar dotado de autonomia financeira. Deixa assim de existir justificação para a manutenção de um regime específico na Escola Profissional de Capelas, podendo esta, sem perda da sua eficiência e mantendo o seu carácter específico de escola profissional pública, passar a reger-se pelo regime geral de autonomia administrativa e pedagógica e de autonomia financeira através do seu fundo escolar. Tal tem como vantagem adicional o aproveitamento de um conjunto de procedimentos administrativos que se encontram já padronizados.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República, e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "164926398": {
+   "fragment_id": "164926323",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma altera o Decreto Legislativo Regional n.º 26/2005/A, de 4 de Novembro, reestruturando a Escola Profissional de Capelas e completando o processo da sua integração no sistema educativo regional."
+  },
+  "164926399": {
+   "fragment_id": "164926324",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração do Decreto Legislativo Regional n.º 26/2005/A, de 4 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração do Decreto Legislativo Regional n.º 26/2005/A, de 4 de Novembro\n\nO artigo 83.º do Decreto Legislativo Regional n.º 26/2005/A, de 4 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 83.º\n\nNatureza e regime\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Para efeitos do regime de autonomia, administração e gestão a que se refere o número anterior, consideram-se docentes, para além daqueles que se encontram integrados na respectiva carreira, os formadores internos e externos com certificado de formador válido.\n\n6 - Consideram-se satisfazendo os requisitos de elegibilidade para qualquer dos cargos fixados no regime atrás referido todos os docentes e formadores a que se refere o número anterior que pratiquem horário igual ou superior a vinte e duas horas lectivas semanais na escola profissional onde pretendam ser candidatos.»"
+  },
+  "164926400": {
+   "fragment_id": "164926325",
+   "type": 11,
+   "heading": "Artigo 3.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Normas transitórias\n\n1 - São mantidas até ao seu termo as comissões de serviço dos actuais membros do conselho administrativo da Escola Profissional de Capelas, passando a constituir a comissão executiva instaladora da unidade orgânica.\n\n2 - À comissão executiva instaladora compete dar execução ao disposto no n.º 3 do artigo 12.º do Regime Jurídico da Criação, Autonomia e Gestão das Unidades Orgânicas do Sistema Educativo, aprovado pelo Decreto Legislativo Regional n.º 12/2005/A, de 16 de Junho, com as alterações que lhe foram introduzidas pelo Decreto Legislativo Regional n.º 35/2006/A, de 6 de Setembro.\n\n3 - Na eventualidade da cessação do mandato de qualquer dos membros da comissão executiva instaladora antes de terminado o período de instalação, o membro cessante será substituído nos termos do artigo 12.º do Regime Jurídico referido no número anterior.\n\n4 - Até à instalação do Conselho Pedagógico mantém-se em funções o conselho técnico-pedagógico previsto no Decreto Regulamentar Regional n.º 1/2002/A, de 7 de Janeiro, passando a exercer as competências legalmente previstas para aquele órgão.\n\n5 - Os membros do conselho administrativo que sejam funcionários públicos, em funções à data de entrada em vigor do presente diploma, podem optar por integrar o quadro de pessoal da Escola Profissional de Capelas, na carreira docente ou técnica superior, consoante aquela em que estejam integrados, em lugares criados automaticamente para o efeito e a extinguir quando vagarem.\n\n6 - O património afecto à Escola Profissional de Capelas reingressa, com dispensa de qualquer formalidade, no património da Região Autónoma dos Açores.\n\n7 - Todos os activos e passivos financeiros da Escola Profissional de Capelas, bem como as dotações orçamentais inscritas a seu favor, transitam, com dispensa de quaisquer formalidades, para o fundo escolar da Escola Profissional de Capelas."
+  },
+  "164926401": {
+   "fragment_id": "164926326",
+   "type": 11,
+   "heading": "Artigo 4.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Republicação\n\nO Decreto Legislativo Regional n.º 26/2005/A, de 4 de Novembro, com as alterações ora introduzidas, é republicado em anexo, sendo parte integrante do presente diploma."
+  },
+  "164926402": {
+   "fragment_id": "164926327",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 122.º do Decreto Legislativo Regional n.º 26/2005/A, de 4 de Novembro;\n\nb) O Decreto Legislativo Regional n.º 21/97/A, de 4 de Novembro;\n\nc) O Decreto Regulamentar Regional n.º 1/2002/A, de 7 de Janeiro."
+  },
+  "164926404": {
+   "fragment_id": "164926329",
+   "type": 14,
+   "heading": "Anexo — Republicação do Decreto Legislativo Regional n.º 26/2005/A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Republicação do Decreto Legislativo Regional n.º 26/2005/A\n\nEstatuto do Ensino Particular, Cooperativo e Solidário\n\nDepois de um período de marcado retrocesso, resultado natural da expansão da rede pública para ilhas e concelhos onde os «externatos» particulares eram a única oferta educativa após o 4.º ano de escolaridade, por força da educação pré-escolar e do ensino profissional, o ensino particular demonstra uma crescente vitalidade, abrangendo um número crescente de alunos e docentes.\n\nO Estatuto do Ensino Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 553/80, de 21 de Novembro, foi aplicado à Região Autónoma dos Açores pelo Decreto Regulamentar Regional n.º 35/81/A, de 21 de Julho, ficando assim regulamentado na Região Autónoma dos Açores o disposto na Lei n.º 9/79, de 19 de Março. Para além das questões formais suscitadas por aquele diploma, a evolução do sistema educativo e as atribuições entretanto assumidas pela administração regional autónoma aconselham a sua revisão.\n\nTambém o regime de apoio pela administração regional autónoma ao ensino particular e aos seus alunos encontra-se claramente ultrapassado pela evolução orgânica e institucional e pela nova realidade resultante do desaparecimento da rede de externatos e da expansão do ensino público entretanto ocorrida. Interessa nesse âmbito integrar no regime referente ao ensino particular e cooperativo as normas relevantes do Decreto Legislativo Regional n.º 14/98/A, de 4 de Agosto, por forma a criar um regime jurídico único aplicável a todo o ensino particular e cooperativo, nele se incluindo as instituições que ministram a educação pré-escolar.\n\nIgualmente, a evolução do sistema de ensino profissional obriga a repensar aquele regime jurídico e a criar condições uniformes a toda a rede de ensino particular e cooperativo, incluindo nela as escolas profissionais. A criação e o funcionamento das escolas profissionais estão regulados pelo Decreto-Lei n.º 4/98, de 8 de Janeiro, com as adaptações que lhe foram introduzidas pelo Decreto Legislativo Regional n.º 30/2000/A, de 11 de Agosto. A experiência de aplicação daqueles diplomas e o rápido crescimento do sistema de formação profissional que entretanto se verificou nos Açores também aconselham a revisão daquele dispositivo, adequando-o às novas necessidades do sistema educativo regional.\n\nInteressa também esclarecer a relação entre a rede escolar pública e privada, incorporando-se no presente regime jurídico a matéria estabelecida no Decreto-Lei n.º 108/88, de 31 de Março, com as alterações necessárias face ao grau de cobertura da rede pública entretanto alcançado.\n\nPelo presente diploma são clarificados alguns conceitos, esclarecidas as competências das diversas entidades envolvidas e facilitado o regime de autorização de funcionamento dos cursos e de concessão do paralelismo pedagógico.\n\nPor outro lado, a Portaria n.º 207/98, de 28 de Março, dos Ministérios das Finanças e da Educação, estabelece um conjunto de regras regulamentares que urge adaptar à realidade regional, o que apenas poderá ser feito pela via legislativa.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos das alíneas a) e c) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e das alíneas c) e e) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "164926405": {
+   "fragment_id": "164926330",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito"
+  },
+  "164926406": {
+   "fragment_id": "164926331",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma aprova o Estatuto do Ensino Particular, Cooperativo e Solidário, estabelecendo o regime jurídico da relação entre a administração regional autónoma e os estabelecimentos de educação e ensino dos sectores particular, cooperativo e solidário."
+  },
+  "164926407": {
+   "fragment_id": "164926332",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O disposto no presente diploma aplica-se aos estabelecimentos de educação e ensino não superior que exerçam actividade na Região Autónoma dos Açores e não sejam directamente tutelados pela administração regional autónoma, incluindo as creches, os estabelecimentos de educação pré-escolar de qualquer natureza e os centros de actividades de tempos livres.\n\n2 - A sua aplicação aos estabelecimentos dependentes de instituições particulares de solidariedade social, adiante designados por sector solidário, é feita sem prejuízo das normas específicas aplicáveis àquelas instituições.\n\n3 - A aplicação do presente diploma às escolas profissionais faz-se sem prejuízo das normas específicas relativas àquele tipo de ensino.\n\n4 - O presente diploma não se aplica:\n\na) Aos estabelecimentos de formação eclesiástica nem aos estabelecimentos de ensino destinados à formação de ministros de qualquer confissão religiosa;\n\nb) Aos estabelecimentos em que se ministre em exclusivo o ensino intensivo ou o simples adestramento em qualquer técnica ou arte, o ensino prático das línguas, a formação profissional de activos ou a extensão cultural."
+  },
+  "164926408": {
+   "fragment_id": "164926333",
+   "type": 1,
+   "heading": "Capítulo II — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições genéricas"
+  },
+  "164926409": {
+   "fragment_id": "164926334",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos do presente diploma, considera-se:\n\na) «Centro de actividades de tempos livres (ATL)» o local onde se desenvolvam actividades de apoio social e de complemento curricular destinadas a crianças com idades compreendidas entre o ingresso no ensino básico e os 12 anos;\n\nb) «Creche» o estabelecimento frequentado por crianças com idade compreendida entre o termo da licença por maternidade, paternidade ou adopção e os 3 anos;\n\nc) «Ensino doméstico» aquele que é leccionado no domicílio do aluno por familiar ou por pessoa que com ele coabite;\n\nd) «Ensino individual» aquele que é ministrado por um professor diplomado a um único aluno fora de estabelecimento de ensino;\n\ne) «Escola profissional» a escola vocacionada para ministrar cursos profissionalizantes e profissionais;\n\nf) «Escola pública» o estabelecimento de educação ou de ensino que funcione na dependência directa da administração regional autónoma;\n\ng) «Estabelecimento de educação pré-escolar» um jardim-de-infância ou um infantário;\n\nh) «Estabelecimento de ensino particular» o estabelecimento de educação ou de ensino propriedade de pessoa singular ou colectiva privada em que se ministre ensino colectivo a mais de cinco alunos ou em que se desenvolvam actividades regulares de carácter educativo;\n\ni) «Estabelecimento privado de ensino» o estabelecimento de educação ou de ensino integrado em qualquer dos sectores, particular, cooperativo ou solidário;\n\nj) «Estabelecimento de ensino cooperativo» o estabelecimento de educação ou de ensino propriedade de entidade legalmente organizada sob a forma de cooperativa;\n\nl) «Estabelecimento de ensino solidário» o estabelecimento de educação ou de ensino propriedade de entidade que detenha o estatuto de instituição particular de solidariedade social, incluindo santas casas da misericórdia e casas do povo;\n\nm) «Infantário» o estabelecimento de educação onde funcionem, em simultâneo, as valências de creche e jardim-de-infância;\n\nn) «Jardim-de-infância» o estabelecimento de educação frequentado por crianças com idades compreendidas entre os 3 anos e a idade de ingresso no ensino básico;\n\no) «Nível de formação profissional» um dos níveis a que se refere o anexo da Decisão n.º <a href=\"eurlex.asp?ano=1985&id=385D0368\" title=\"Link para Decisão da Comunidade Europeia\">85/368/CEE</a>, publicada no Jornal Oficial das Comunidades Europeias de 31 de Julho de 1985;\n\np) «Valência educativa privada» a valência educativa de qualquer natureza, incluindo as creches, infantários e centros de actividades de tempos livres, pertencente a um estabelecimento de educação ou de ensino dos sectores particular, cooperativo ou solidário."
+  },
+  "164926410": {
+   "fragment_id": "164926335",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da administração regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências da administração regional\n\nCompete à administração regional autónoma:\n\na) Apoiar as famílias no exercício dos seus direitos de escolha de escola e no cumprimento dos seus deveres relativamente à educação dos seus filhos ou educandos;\n\nb) Homologar a criação de estabelecimentos de ensino particular, cooperativo e solidário e autorizar o seu funcionamento;\n\nc) Verificar o seu regular funcionamento;\n\nd) Proporcionar às valências educativas privadas apoio técnico e pedagógico, quando solicitado;\n\ne) Zelar pelo nível pedagógico e científico dos programas e planos de estudos;\n\nf) Apoiar as valências educativas privadas através da celebração de contratos e da concessão de comparticipações, bem como zelar pela sua correcta aplicação;\n\ng) Fomentar o ensino profissional e apoiar especificamente as escolas que o ministrem;\n\nh) Promover a profissionalização dos docentes e formadores do ensino particular, cooperativo e solidário e apoiar a sua formação contínua;\n\ni) Assegurar o direito dos alunos ao apoio social escolar;\n\nj) Fomentar o desenvolvimento da inovação pedagógica nos estabelecimentos privados de ensino."
+  },
+  "164926411": {
+   "fragment_id": "164926336",
+   "type": 11,
+   "heading": "Artigo 5.º — Tutela inspectiva e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tutela inspectiva e avaliação\n\n1 - Compete à administração regional autónoma, directamente ou através dos serviços de inspecção educativa, garantir a qualidade dos estabelecimentos do ensino particular, cooperativo e solidário e proceder à avaliação das escolas que o ministrem.\n\n2 - Os serviços inspectivos da administração regional autónoma exercem em relação às valências educativas privadas, com as necessárias adaptações, as mesmas competências que lhes estão cometidas em relação às escolas públicas."
+  },
+  "164926412": {
+   "fragment_id": "164926337",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicidade\n\n1 - A publicidade das valências educativas privadas deve respeitar a ética e a dignidade da acção educativa, visando uma informação correcta, com escrupuloso respeito pela verdade.\n\n2 - Sempre que se trate de curso apoiado pela administração regional ou pela União Europeia, é obrigatória a inclusão na publicidade de referência expressa à comparticipação recebida, que, quando impressa ou incluindo vídeo, deve conter logótipo adequado."
+  },
+  "164926413": {
+   "fragment_id": "164926338",
+   "type": 11,
+   "heading": "Artigo 7.º — Autorização de funcionamento de cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autorização de funcionamento de cursos\n\n1 - Nas valências educativas privadas, a autorização de funcionamento da educação pré-escolar ou de um nível ou ciclo de ensino ou de quaisquer cursos, incluindo os profissionais e profissionalizantes, apenas pode ser concedida quando se verifiquem cumulativamente as seguintes condições:\n\na) A escola esteja acreditada para o nível ou ciclo e para a área temática do curso a realizar e para os domínios de intervenção envolvidos;\n\nb) A escola cumpra os requisitos legais e regulamentares específicos para o tipo de ensino a ministrar;\n\nc) A escola demonstre dispor dos recursos materiais e humanos necessários ao cumprimento integral do plano curricular do curso;\n\nd) A escola demonstre dispor de instalações adequadas ao curso a ministrar que cumpram os requisitos legalmente fixados para os edifícios escolares;\n\ne) A escola assuma o compromisso de cumprir integralmente as especificações curriculares, de avaliação e certificação que sejam aplicáveis ao nível ou ciclo de ensino e ao curso;\n\nf) O funcionamento de cursos de formação profissional que confiram direito a certificação integrável em qualquer dos níveis do sistema europeu de formação profissional, qualquer que seja a natureza do curso, tenha sido autorizado pelo departamento da administração regional autónoma competente em matéria de formação profissional.\n\n2 - Quando autorizados, nos termos do número anterior, os cursos que sejam objecto de comparticipação pública apenas podem ser iniciados quando tenham um número de inscritos igual ou superior ao mínimo que, nos termos do número seguinte, tenha sido estabelecido para o curso.\n\n3 - O número mínimo de alunos por tipologia de curso e as normas procedimentais a seguir para autorização dos cursos são os que estiverem fixados para o sistema educativo regional."
+  },
+  "164926414": {
+   "fragment_id": "164926339",
+   "type": 1,
+   "heading": "Capítulo III — Criação, funcionamento e extinção de estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Criação, funcionamento e extinção de estabelecimentos"
+  },
+  "164926415": {
+   "fragment_id": "164926340",
+   "type": 8,
+   "heading": "Secção I — Criação e autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Criação e autorização de funcionamento"
+  },
+  "164926416": {
+   "fragment_id": "164926341",
+   "type": 11,
+   "heading": "Artigo 8.º — Criação de escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Criação de escolas\n\n1 - As valências educativas privadas, incluindo as escolas profissionais, podem ser livremente criadas por pessoas singulares, bem como por pessoas colectivas, isoladamente ou em associação.\n\n2 - Para a criação de escolas em associação, referida no número anterior, podem participar pessoas colectivas de natureza pública e ainda associações públicas ou privadas de direito canónico.\n\n3 - Cada escola particular pode destinar-se a um ou a vários níveis de ensino.\n\n4 - A abertura de escolas só com o primeiro ou primeiros anos de um ciclo ou curso é permitida sob compromisso de imediata continuidade dos anos subsequentes.\n\n5 - Cada escola pode funcionar num único edifício ou num edifício sede e em secções."
+  },
+  "164926417": {
+   "fragment_id": "164926342",
+   "type": 11,
+   "heading": "Artigo 9.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos\n\n1 - As pessoas singulares que requeiram a criação de valências educativas privadas devem fazer prova de idoneidade civil, idoneidade pedagógica e sanidade física e mental nos termos que legalmente estejam fixados para a docência no ensino público.\n\n2 - As pessoas colectivas que requeiram a criação de valências educativas privadas ou outros estabelecimentos de ensino previstos neste diploma devem juntar a escritura de constituição em que se demonstre que a educação ou ensino consta do seu objecto social.\n\n3 - São ainda requisitos cumulativos para a concessão da autorização de funcionamento de valências educativas privadas os seguintes:\n\na) A não privação das pessoas singulares, bem como dos titulares dos órgãos de administração de pessoas colectivas, do exercício de tal direito por decisão judicial transitada em julgado;\n\nb) A adequação da oferta educativa à satisfação de necessidades educativas formativas do tecido social;\n\nc) O envolvimento institucional do respectivo tecido social, designadamente através da participação de entidades representativas desse tecido em órgãos da escola, na definição da oferta de cursos, na organização das actividades de formação e na inserção profissional dos diplomados;\n\nd) O recrutamento de docentes com habilitações académicas e profissionais adequadas aos planos e programas que se pretendem desenvolver;\n\ne) A existência de instalações e equipamentos adequados e afectos exclusivamente aos planos, programas e actividades da escola;\n\nf) O respeito pelos requisitos de segurança legalmente fixados para as instalações nos edifícios a utilizar para actividades lectivas;\n\ng) A acreditação da escola, nos termos legais e regulamentares, como entidade formadora, quando esta ministre cursos profissionais ou profissionalizantes de qualquer natureza."
+  },
+  "164926418": {
+   "fragment_id": "164926343",
+   "type": 11,
+   "heading": "Artigo 10.º — Requerimento de autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requerimento de autorização de funcionamento\n\n1 - A autorização de funcionamento deve ser requerida ao director regional competente em matéria de administração educativa até 90 dias antes da data pretendida para o início das actividades e decidida e comunicada no prazo máximo de 60 dias.\n\n2 - O pedido de autorização deve ser acompanhado da documentação necessária à demonstração do cumprimento dos requisitos constantes do artigo anterior.\n\n3 - A autorização de funcionamento só pode ser recusada com fundamento na inadequação das condições materiais ou pedagógicas."
+  },
+  "164926419": {
+   "fragment_id": "164926344",
+   "type": 11,
+   "heading": "Artigo 11.º — Tipo de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tipo de autorização\n\n1 - A autorização pode ser provisória ou definitiva.\n\n2 - A autorização é provisória quando for necessário corrigir deficiências das condições técnicas e pedagógicas.\n\n3 - A autorização provisória é válida por um ano e pode ser renovada por três vezes, devendo especificar as condições e requisitos a satisfazer e os respectivos prazos.\n\n4 - Se, após o prazo referido no número anterior, as deficiências se não mostrarem sanadas, deve a entidade proprietária proceder ao encerramento da escola ou estabelecimento.\n\n5 - A autorização é definitiva sempre que estejam preenchidos os requisitos e verificadas as condições exigíveis."
+  },
+  "164926420": {
+   "fragment_id": "164926345",
+   "type": 11,
+   "heading": "Artigo 12.º — Conteúdo da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conteúdo da autorização\n\n1 - A autorização de uma escola privada especifica a denominação da escola, o tipo de ensino e o local onde é ministrado, o nome da entidade requerente, a lotação e as modalidades, níveis e ciclos de educação ou ensino que podem ser ministrados.\n\n2 - A autorização das escolas com cursos ou planos próprios deve conter os requisitos dos cursos e respectivos currículos e programas.\n\n3 - A direcção regional competente em matéria de administração educativa emite alvará da autorização, em impresso próprio a aprovar pelo respectivo director regional."
+  },
+  "164926421": {
+   "fragment_id": "164926346",
+   "type": 11,
+   "heading": "Artigo 13.º — Proibição de funcionamento sem autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Proibição de funcionamento sem autorização\n\nNenhum estabelecimento pode iniciar ou permanecer em funcionamento sem que seja detentor de autorização de funcionamento válida."
+  },
+  "164926422": {
+   "fragment_id": "164926347",
+   "type": 11,
+   "heading": "Artigo 14.º — Transmissibilidade da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transmissibilidade da autorização\n\n1 - A autorização é transmissível por acto entre vivos, desde que o adquirente reúna os requisitos necessários.\n\n2 - A autorização é transmissível por morte desde que o herdeiro ou legatário reúna os requisitos necessários.\n\n3 - Nos casos dos números anteriores, os interessados devem requerer ao director regional competente em matéria de administração educativa a autorização em seu nome.\n\n4 - No caso dos herdeiros ou legatários, a autorização a que se refere o número anterior deve ser pedida no prazo de 90 dias após a morte do titular."
+  },
+  "164926423": {
+   "fragment_id": "164926348",
+   "type": 11,
+   "heading": "Artigo 15.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Denominação\n\n1 - Cada escola privada deve adoptar uma denominação que permita individualizá-la e evite a confusão com outras escolas públicas ou privadas.\n\n2 - As alterações da denominação dos estabelecimentos de ensino privado carecem de autorização, a conceder por despacho do director regional competente em matéria de administração educativa."
+  },
+  "164926424": {
+   "fragment_id": "164926349",
+   "type": 8,
+   "heading": "Secção II — Cessação do funcionamento e suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Cessação do funcionamento e suspensão"
+  },
+  "164926425": {
+   "fragment_id": "164926350",
+   "type": 11,
+   "heading": "Artigo 16.º — Encerramento de estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Encerramento de estabelecimentos\n\n1 - O encerramento das valências educativas privadas pode ser requerido pelos titulares da autorização de funcionamento.\n\n2 - As escolas podem também requerer a substituição de níveis de ensino ou de cursos, bem como a sua extinção ou cessação.\n\n3 - O requerimento deve ser dirigido ao director regional competente em matéria de administração educativa até 15 de Fevereiro de cada ano, com vista ao ano escolar seguinte."
+  },
+  "164926426": {
+   "fragment_id": "164926351",
+   "type": 11,
+   "heading": "Artigo 17.º — Conservação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conservação de documentos\n\n1 - Para efeitos de certificação, as valências educativas privadas são obrigadas a conservar a sua documentação fundamental nos mesmos termos que estiverem estabelecidos para as escolas públicas.\n\n2 - Quando uma escola privada encerrar, deve entregar a sua documentação fundamental na unidade orgânica do sistema educativo que ministre os correspondentes níveis ou ciclos de ensino na localidade onde tinha a sua sede.\n\n3 - Entende-se por documentação fundamental a respeitante a livros de matrículas ou inscrições e processos dos alunos, contratos e serviço docente, processos de professores e outro pessoal e escrituração da escola."
+  },
+  "164926427": {
+   "fragment_id": "164926352",
+   "type": 11,
+   "heading": "Artigo 18.º — Suspensão do funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Suspensão do funcionamento\n\n1 - As valências educativas privadas não podem suspender o seu funcionamento, salvo casos devidamente fundamentados, nomeadamente por razões de segurança dos utentes, de saúde pública ou outros motivos independentes da vontade dos seus responsáveis.\n\n2 - O período de suspensão, nos termos do número anterior, é comunicado ao director regional competente em matéria de administração educativa, que, se entender autorizá-lo, fixa início e termo."
+  },
+  "164926428": {
+   "fragment_id": "164926353",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos das valências educativas privadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos das valências educativas privadas"
+  },
+  "164926429": {
+   "fragment_id": "164926354",
+   "type": 11,
+   "heading": "Artigo 19.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Estatutos\n\n1 - Sem prejuízo do disposto no presente diploma, as valências educativas privadas organizam-se e funcionam de acordo com os seus estatutos, que definem, nomeadamente, os seus objectivos, a estrutura orgânica, a competência dos diversos órgãos e a forma de designação e de substituição dos seus titulares.\n\n2 - A estrutura orgânica das valências educativas privadas deve distinguir órgãos de direcção, incluindo obrigatoriamente uma direcção técnico-pedagógica e órgãos consultivos.\n\n3 - Os estatutos são obrigatoriamente publicados na 3.ª série do Jornal Oficial e devem ser dados a conhecer a todo o pessoal do estabelecimento, bem como aos alunos e encarregados de educação."
+  },
+  "164926430": {
+   "fragment_id": "164926355",
+   "type": 11,
+   "heading": "Artigo 20.º — Entidade proprietária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entidade proprietária\n\n1 - Compete à entidade proprietária, designadamente:\n\na) Definir orientações gerais para a escola e representá-la junto da administração regional autónoma em todos os assuntos de natureza administrativa e financeira;\n\nb) Dotar a escola de estatutos;\n\nc) Assegurar a gestão administrativa da escola, nomeadamente:\n\ni) Conservando o registo de actos de matrícula e inscrição dos alunos;\n\nii) Garantindo a conservação dos documentos de registo das actas de avaliação;\n\niii) Promovendo e controlando a emissão de certificados e diplomas de aproveitamento e habilitações e ainda a qualidade dos processos e respectivos resultados;\n\nd) Assegurar que os imóveis a utilizar na actividade lectiva obedecem aos requisitos legalmente fixados em matéria de segurança, nomeadamente no que respeita à segurança anti-sísmica, contra incêndio e existência de plano de segurança e evacuação aprovado e testado;\n\ne) Acompanhar e verificar a legalidade da gestão administrativa da escola;\n\nf) Assegurar os recursos financeiros indispensáveis ao funcionamento da escola e proceder à sua gestão económica e financeira;\n\ng) Responder pela correcta aplicação dos apoios financeiros concedidos;\n\nh) Garantir a instrumentalidade dos meios administrativos e financeiros face a objectivos educativos e pedagógicos;\n\ni) Prestar à administração regional autónoma as informações que esta solicitar;\n\nj) Incentivar a participação dos diferentes sectores das comunidades escolar e local na actividade da escola, de acordo com o regulamento interno, o projecto educativo e o plano anual de actividades da escola;\n\nl) Criar e assegurar as condições necessárias ao normal funcionamento da escola;\n\nm) Contratar o pessoal que presta serviço na instituição;\n\nn) Representar a escola em juízo e fora dele.\n\n2 - O exercício das competências referidas nas alíneas b) e c) do n.º 1 do presente artigo pode ser assegurado por órgãos criados para o efeito nos estatutos da escola.\n\n3 - A entidade proprietária, ou os órgãos a que se refere o número anterior, é responsável pelos actos praticados no exercício das suas funções."
+  },
+  "164926431": {
+   "fragment_id": "164926356",
+   "type": 11,
+   "heading": "Artigo 21.º — Direcção técnico-pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direcção técnico-pedagógica\n\n1 - Em cada escola particular deve existir uma direcção técnico-pedagógica designada pela entidade proprietária nos termos que estiverem fixados nos estatutos da escola.\n\n2 - A direcção técnico-pedagógica pode ser singular ou colectiva, mas é obrigatoriamente dirigida por um docente detentor de habilitação profissional para a docência de um dos níveis ou ciclos de ensino ministrados na instituição e com pelo menos dois anos de experiência docente.\n\n3 - Para efeitos do disposto no número anterior, a educação pré-escolar é considerada como um nível de ensino.\n\n4 - Quando seja ministrado o ensino profissional, a direcção técnico-pedagógica deve ser assumida por docente habilitado para o exercício da docência ao nível do ensino secundário ou do ensino superior e com habilitação profissional ou experiência pedagógica relevante na formação profissional.\n\n5 - Cada estabelecimento de educação pré-escolar é coordenado por um director técnico-pedagógico, o qual é obrigatoriamente um educador de infância.\n\n6 - O exercício de funções de direcção técnico-pedagógica é equiparado, para todos os efeitos, ao exercício de funções docentes.\n\n7 - Não é permitida a acumulação da direcção técnico-pedagógica de dois ou mais estabelecimentos de ensino."
+  },
+  "164926432": {
+   "fragment_id": "164926357",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências da direcção técnico-pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências da direcção técnico-pedagógica\n\nAlém das competências atribuídas nos estatutos, compete à direcção técnico-pedagógica:\n\na) Conceber e formular, sob orientação da entidade proprietária, o projecto educativo da escola e adoptar os métodos necessários à sua realização;\n\nb) Assegurar e controlar a avaliação de conhecimentos dos alunos e realizar práticas de inovação pedagógica;\n\nc) Coordenar a aplicação do projecto educativo da escola;\n\nd) Coordenar a actividade educativa, garantindo, designadamente, a execução das orientações curriculares, bem como as actividades de animação sócio-educativa;\n\ne) Orientar tecnicamente em matéria pedagógica toda a acção do pessoal docente, técnico e auxiliar;\n\nf) Organizar, de acordo com as normas de cada instituição, a distribuição do serviço docente e não docente;\n\ng) Propor aos órgãos de direcção da instituição o horário de funcionamento, de acordo com as necessidades dos alunos e das suas famílias, salvaguardando o seu bem-estar, o sucesso pedagógico e as normas da instituição;\n\nh) Organizar e oferecer os cursos e demais actividades pedagógicas e certificar os conhecimentos adquiridos;\n\ni) Representar a escola junto da administração regional autónoma em todos os assuntos de natureza pedagógica;\n\nj) Planificar as actividades curriculares;\n\nl) Promover o cumprimento dos planos e programas de estudos;\n\nm) Garantir a qualidade de ensino;\n\nn) Zelar pelo cumprimento dos direitos e deveres dos docentes e dos alunos da escola."
+  },
+  "164926433": {
+   "fragment_id": "164926358",
+   "type": 11,
+   "heading": "Artigo 23.º — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Órgãos consultivos\n\n1 - Sem prejuízo do disposto nos artigos seguintes, os órgãos consultivos previstos nos estatutos devem ser constituídos, nomeadamente, por representantes:\n\na) Dos alunos, quando o estabelecimento de educação e ensino ministre o ensino secundário, pós-secundário ou equivalente;\n\nb) Dos pais ou encarregados de educação;\n\nc) Dos docentes e dos órgãos de direcção da escola;\n\nd) De instituições locais representativas do tecido económico e social.\n\n2 - Aos órgãos consultivos referidos no número anterior compete, designadamente:\n\na) Dar parecer sobre o projecto educativo da escola;\n\nb) Dar parecer sobre os cursos a oferecer e outras actividades pedagógicas e de formação a executar na escola."
+  },
+  "164926434": {
+   "fragment_id": "164926359",
+   "type": 11,
+   "heading": "Artigo 24.º — Conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Conselho pedagógico\n\n1 - Cada escola privada dispõe de um órgão consultivo em matéria pedagógica, designado por conselho pedagógico, composto por:\n\na) Um representante da instituição, que preside;\n\nb) O docente responsável pela direcção técnico-pedagógica;\n\nc) Pelo menos dois encarregados de educação, eleitos em escrutínio secreto de entre todos os encarregados de educação dos alunos da escola;\n\nd) Um aluno, pelo menos, eleito por escrutínio secreto de entre todos os alunos, quando a escola ministre o ensino secundário, pós-secundário ou equivalente;\n\ne) Dois docentes, pelo menos, eleitos em escrutínio secreto de entre todos os docentes que prestem serviço na escola;\n\nf) Um representante da associação de estudantes, quando exista;\n\ng) Outros membros, de acordo com o que esteja fixado nos estatutos ou regulamentos da instituição.\n\n2 - A eleição dos representantes a que se referem as alíneas c), d) e e) do número anterior é feita em assembleias gerais de cada um dos grupos a representar, convocadas pela direcção da instituição até 30 dias após o início das actividades anuais."
+  },
+  "164926435": {
+   "fragment_id": "164926360",
+   "type": 11,
+   "heading": "Artigo 25.º — Competências do conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências do conselho pedagógico\n\nCompete ao conselho pedagógico:\n\na) Coadjuvar o director pedagógico;\n\nb) Propor acções concretas visando a participação das famílias nas actividades do jardim-de-infância e a integração deste na comunidade;\n\nc) Cooperar na elaboração do projecto educativo;\n\nd) Dar parecer sobre as necessidades de formação do pessoal docente e não docente;\n\ne) Elaborar a proposta do plano anual de actividades e o respectivo relatório de execução;\n\nf) Apresentar e apreciar os interesses dos pais e encarregados de educação;\n\ng) Dar parecer sobre a organização funcional do estabelecimento;\n\nh) Cooperar nas acções relativas à segurança e conservação do edifício e equipamento."
+  },
+  "164926436": {
+   "fragment_id": "164926361",
+   "type": 11,
+   "heading": "Artigo 26.º — Reuniões do conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reuniões do conselho pedagógico\n\n1 - O conselho pedagógico reúne, extraordinariamente, sempre que o presidente o convoque ou a maioria dos seus membros o requeira e, ordinariamente, uma vez por trimestre durante o período de actividade da escola.\n\n2 - As decisões do conselho pedagógico são tomadas por maioria, tendo o presidente voto de qualidade.\n\n3 - As reuniões do conselho pedagógico realizam-se sem prejuízo das actividades normais da escola."
+  },
+  "164926437": {
+   "fragment_id": "164926362",
+   "type": 1,
+   "heading": "Capítulo V — Autonomia e paralelismo pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Autonomia e paralelismo pedagógico"
+  },
+  "164926438": {
+   "fragment_id": "164926363",
+   "type": 8,
+   "heading": "Secção I — Autonomia pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Autonomia pedagógica"
+  },
+  "164926439": {
+   "fragment_id": "164926364",
+   "type": 11,
+   "heading": "Artigo 27.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Âmbito\n\n1 - Os estabelecimentos de educação e ensino dos sectores particular, cooperativo e solidário desenvolvem as suas actividades culturais, científicas, tecnológicas e pedagógicas de forma autónoma e sem outras limitações para além das decorrentes da lei e do presente diploma.\n\n2 - A autonomia pedagógica traduz-se na não dependência de escolas públicas quanto a:\n\na) Orientação metodológica e adopção de instrumentos e manuais escolares;\n\nb) Planos de estudo e conteúdos programáticos;\n\nc) Estabelecimento dos calendários e horários escolares;\n\nd) Avaliação de conhecimentos;\n\ne) Matrícula, emissão de certificados de matrícula e de frequência.\n\n3 - A fim de promover a inovação pedagógica e a melhoria da qualidade do ensino, o departamento da administração regional autónoma competente em matéria de educação pode autorizar a realização de experiências pedagógicas, relativamente aos cursos que seguem os planos de estudo oficiais, em termos idênticos aos que vigoram para o ensino público, e fomenta a criação de cursos com planos próprios, podendo, num e noutro caso, conceder benefícios ou apoios especiais às escolas que promovam essas experiências."
+  },
+  "164926440": {
+   "fragment_id": "164926365",
+   "type": 11,
+   "heading": "Artigo 28.º — Projecto educativo e regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Projecto educativo e regulamento interno\n\n1 - A autonomia pedagógica traduz-se na existência de um projecto educativo e de um regulamento interno próprios que proporcionem, em cada nível de ensino, uma formação global de valor equivalente à dos correspondentes níveis de ensino ministrados nas escolas públicas.\n\n2 - O regulamento interno das escolas com cursos e planos próprios deve conter as regras a que obedece a inscrição ou admissão, as normas de assiduidade dos alunos e os critérios de avaliação de conhecimentos.\n\n3 - O regulamento interno e as suas alterações devem ser enviados, para conhecimento, à direcção regional competente em matéria de educação."
+  },
+  "164926441": {
+   "fragment_id": "164926366",
+   "type": 8,
+   "heading": "Secção II — Paralelismo pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Paralelismo pedagógico"
+  },
+  "164926442": {
+   "fragment_id": "164926367",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime\n\n1 - As valências educativas privadas, no âmbito do seu projecto educativo, podem funcionar em regime de paralelismo pedagógico, desde que satisfaçam as condições exigidas nos artigos seguintes.\n\n2 - As escolas que funcionem em regime de paralelismo pedagógico ficam obrigadas ao cumprimento das orientações curriculares e do regime de avaliação que esteja estabelecido para os correspondentes níveis e ciclos do sistema público de educação e ensino.\n\n3 - Apenas as escolas que funcionem em regime de paralelismo pedagógico podem emitir certificados e diplomas referentes ao sistema de habilitações legalmente fixado para o sistema educativo regional."
+  },
+  "164926443": {
+   "fragment_id": "164926368",
+   "type": 11,
+   "heading": "Artigo 30.º — Paralelismo total e parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Paralelismo total e parcial\n\n1 - O regime de paralelismo pedagógico é total quando abrange todos os níveis e modalidades de ensino ministrados na escola.\n\n2 - O paralelismo pedagógico é parcial quando abrange apenas um ou alguns dos níveis ou modalidades de ensino ministrados na escola.\n\n3 - Para efeitos dos números anteriores, consideram-se os seguintes níveis e modalidades de ensino, regular e recorrente:\n\na) Pré-escolar;\n\nb) Básico;\n\nc) Secundário;\n\nd) Profissional;\n\ne) Artístico."
+  },
+  "164926444": {
+   "fragment_id": "164926369",
+   "type": 11,
+   "heading": "Artigo 31.º — Condições para concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Condições para concessão\n\n1 - O paralelismo pedagógico supõe as seguintes condições:\n\na) A organização do processo educativo tendo como referencial o que esteja fixado para os correspondentes níveis e ciclos do sistema público;\n\nb) Instalações, equipamento e material didáctico adequados;\n\nc) Direcção técnico-pedagógica constituída nos termos do presente diploma;\n\nd) Cumprimento do estabelecido no presente diploma no respeitante aos alunos e pessoal docente;\n\ne) Seguir um calendário escolar que garanta um número efectivo de dias lectivos igual ou superior ao fixado para a rede pública;\n\nf) Existência de serviços administrativos organizados.\n\n2 - O paralelismo pedagógico supõe o cumprimento das orientações curriculares vigentes para o sistema educativo regional e a adopção de um modelo de avaliação tendo como referencial as competências estabelecidas para os correspondentes níveis e ciclos do sistema público."
+  },
+  "164926445": {
+   "fragment_id": "164926370",
+   "type": 11,
+   "heading": "Artigo 32.º — Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Concessão\n\n1 - O paralelismo pedagógico é concedido por períodos de cinco anos escolares contados a partir do termo daquele em que tenha sido requerido, automaticamente prorrogáveis por igual período, excepto quando o director regional competente em matéria de administração escolar, por notificação fundamentada, a enviar até 180 dias antes do termo do período atrás referido, determinar a sua cessação.\n\n2 - A concessão ou renovação do regime de paralelismo pedagógico deve ser requerida, até 15 de Abril de cada ano, à direcção regional competente em matéria de educação.\n\n3 - Cabe ao director regional competente em matéria de educação, analisadas as condições de funcionamento, o projecto educativo, o regulamento interno e o quadro docente disponível na instituição, conceder paralelismo pedagógico.\n\n4 - O despacho de concessão de paralelismo pedagógico é publicado na 2.ª série do Jornal Oficial."
+  },
+  "164926446": {
+   "fragment_id": "164926371",
+   "type": 11,
+   "heading": "Artigo 33.º — Cessação do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Cessação do regime\n\n1 - Se uma escola, gozando de paralelismo pedagógico, deixar de reunir as condições necessárias para o manter, cabe à direcção regional competente em matéria de educação, ouvida a escola e os serviços de inspecção educativa, revogar a respectiva autorização.\n\n2 - Uma escola que goze de paralelismo pedagógico total pode passar a gozar de paralelismo pedagógico parcial se os requisitos não tiverem sido cumpridos.\n\n3 - A cessação do regime de paralelismo pedagógico produz efeitos no termo do ano escolar em que ocorra."
+  },
+  "164926447": {
+   "fragment_id": "164926372",
+   "type": 1,
+   "heading": "Capítulo VI — Regime de gestão administrativa e pedagógica dos alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime de gestão administrativa e pedagógica dos alunos"
+  },
+  "164926448": {
+   "fragment_id": "164926373",
+   "type": 8,
+   "heading": "Secção I — Matrícula e transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Matrícula e transferência"
+  },
+  "164926449": {
+   "fragment_id": "164926374",
+   "type": 11,
+   "heading": "Artigo 34.º — Matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Matrícula\n\n1 - A matrícula realiza-se apenas quando os alunos ingressem pela primeira vez numa escola privada, em regime diurno ou nocturno:\n\na) Na educação pré-escolar;\n\nb) No ensino básico;\n\nc) No ensino secundário;\n\nd) Nos cursos de formação profissionalizante ou profissional;\n\ne) No ensino artístico.\n\n2 - A renovação da matrícula realiza-se nos anos subsequentes ao da matrícula, para prosseguimento de estudos ou repetição da frequência.\n\n3 - As matrículas e a renovação de matrículas nas valências educativas privadas efectuam-se até ao limite dos prazos e com observância dos requisitos que forem fixados pela respectiva direcção."
+  },
+  "164926450": {
+   "fragment_id": "164933375",
+   "type": 11,
+   "heading": "Artigo 35.º — Isenção de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Isenção de matrícula\n\n1 - Não estão sujeitos ao regime de matrícula os alunos que frequentem cursos livres ou outros que não confiram certificação académica ou profissional.\n\n2 - Os alunos a que se refere o número anterior não são considerados para efeitos de cálculo das comparticipações financeiras a que contratualmente haja lugar."
+  },
+  "164926451": {
+   "fragment_id": "164933376",
+   "type": 11,
+   "heading": "Artigo 36.º — Proibição da matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Proibição da matrícula\n\n1 - Não é permitida a matrícula aos alunos que pretendam frequentar o mesmo ano ou disciplina em mais de uma escola, sejam as escolas públicas ou privadas.\n\n2 - Não é permitido ministrar o ensino nas valências educativas privadas a alunos sujeitos a matrícula sem que esta se tenha efectuado."
+  },
+  "164926452": {
+   "fragment_id": "164933377",
+   "type": 11,
+   "heading": "Artigo 37.º — Escolaridade obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Escolaridade obrigatória\n\nApenas as escolas que, para os correspondentes níveis ou ciclos, funcionem em regime de paralelismo pedagógico podem admitir a matrícula ou inscrição de alunos para cumprimento da escolaridade obrigatória."
+  },
+  "164926453": {
+   "fragment_id": "164933378",
+   "type": 11,
+   "heading": "Artigo 38.º — Validade das matrículas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Validade das matrículas\n\n1 - As matrículas e a renovação de matrículas em valências educativas privadas com paralelismo pedagógico têm plena validade oficial nos níveis de ensino por elas abrangidos, relevando para efeitos de cumprimento da escolaridade obrigatória.\n\n2 - Quando a escola perca o paralelismo pedagógico, os processos dos alunos sujeitos a escolaridade obrigatória são entregues à escola pública que nos termos legais e regulamentares deva ser por eles frequentada, iniciando-se a sua frequência no início do ano lectivo subsequente.\n\n3 - Se os alunos prosseguirem estudos noutra escola particular com paralelismo pedagógico, devem para aí transitar os respectivos processos."
+  },
+  "164926454": {
+   "fragment_id": "164933379",
+   "type": 11,
+   "heading": "Artigo 39.º — Processos individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Processos individuais\n\n1 - As escolas devem conservar os processos individuais de matrícula e inscrição.\n\n2 - Os processos individuais de inscrição dos alunos devem acompanhá-los ao longo do seu percurso escolar, sendo enviados à escola para onde eles se transfiram, ou que devam frequentar para prosseguimento de estudos, até ao termo do ensino secundário.\n\n3 - O disposto nos números anteriores aplica-se aos processos individuais das crianças que frequentem a educação pré-escolar."
+  },
+  "164926455": {
+   "fragment_id": "164933380",
+   "type": 11,
+   "heading": "Artigo 40.º — Transferência de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Transferência de matrícula\n\n1 - É permitida a transferência de matrícula dos alunos entre valências educativas privadas, e entre estas e as escolas públicas, nos termos legalmente fixados.\n\n2 - A transferência de matrícula de valências educativas privadas com planos e programas próprios para escolas públicas só pode efectuar-se no início do ano escolar."
+  },
+  "164926456": {
+   "fragment_id": "164933381",
+   "type": 8,
+   "heading": "Secção II — Assiduidade e seus efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assiduidade e seus efeitos"
+  },
+  "164926457": {
+   "fragment_id": "164933382",
+   "type": 11,
+   "heading": "Artigo 41.º — Controlo da assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Controlo da assiduidade\n\n1 - É obrigatório o controlo da assiduidade dos alunos do ensino privado.\n\n2 - O controlo da assiduidade consiste no registo, em suporte administrativo adequado, da ausência do aluno em qualquer actividade curricular ou não curricular em que devesse participar.\n\n3 - As faltas devem constar igualmente de todos os mapas de apuramento de frequência."
+  },
+  "164926458": {
+   "fragment_id": "164933383",
+   "type": 11,
+   "heading": "Artigo 42.º — Regimes de assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Regimes de assiduidade\n\n1 - Sem prejuízo do disposto nos números seguintes, cabe à escola estabelecer no seu regulamento interno os efeitos da falta da assiduidade e as normas a seguir na justificação das faltas.\n\n2 - Os alunos sujeitos a escolaridade obrigatória seguem o mesmo regime de assiduidade que esteja fixado para igual nível ou ciclo de escolaridade nas escolas públicas.\n\n3 - Para os alunos de cursos com planos próprios, o regime de faltas é o previsto no respectivo regulamento.\n\n4 - Os alunos afectados por doenças infecto-contagiosas devem ser afastados da frequência das aulas, nos termos da lei, considerando-se as faltas apenas para efeitos estatísticos.\n\n5 - A listagem das doenças infecto-contagiosas para as quais o afastamento é obrigatório é a mesma que esteja fixada para as escolas públicas."
+  },
+  "164926459": {
+   "fragment_id": "164933384",
+   "type": 11,
+   "heading": "Artigo 43.º — Dever de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Dever de comunicação\n\n1 - A direcção técnico-pedagógica das escolas deve comunicar aos encarregados de educação as faltas dadas pelos seus educandos.\n\n2 - A comunicação é obrigatória a meio e no final de cada período e sempre que a falta de assiduidade o justifique, nos termos que estejam fixados no respectivo regulamento interno."
+  },
+  "164926460": {
+   "fragment_id": "164933385",
+   "type": 8,
+   "heading": "Secção III — Acção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Acção disciplinar"
+  },
+  "164926461": {
+   "fragment_id": "164933386",
+   "type": 11,
+   "heading": "Artigo 44.º — Tutela disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Tutela disciplinar\n\n1 - A acção disciplinar relativa aos alunos é da competência dos docentes e da direcção técnico-pedagógica do respectivo estabelecimento de ensino, regendo-se pelo que esteja estabelecido no respectivo regulamento interno e projecto educativo de escola.\n\n2 - Subsidiariamente, nas matérias não reguladas pelo regulamento interno e projecto educativo, aplica-se o que legal e regulamentarmente estiver estabelecido para o ensino público."
+  },
+  "164926462": {
+   "fragment_id": "164933387",
+   "type": 11,
+   "heading": "Artigo 45.º — Procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Procedimento disciplinar\n\n1 - Cabe à direcção da escola desencadear os procedimentos disciplinares que entenda necessários e aplicar as penalizações que estejam estabelecidas no respectivo regulamento interno e projecto educativo de escola.\n\n2 - Não é permitida a aplicação aos alunos de penas pecuniárias de qualquer natureza.\n\n3 - Para os efeitos do disposto no n.º 2 do artigo anterior, as funções que estão cometidas na lei ao presidente do órgão executivo são exercidas pelo dirigente máximo da escola e as funções cometidas ao director regional de educação são cometidas ao responsável máximo pela instituição."
+  },
+  "164926463": {
+   "fragment_id": "164933388",
+   "type": 8,
+   "heading": "Secção IV — Avaliação e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Avaliação e certificação"
+  },
+  "164926464": {
+   "fragment_id": "164933389",
+   "type": 11,
+   "heading": "Artigo 46.º — Regulamento de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Regulamento de avaliação\n\n1 - Sem prejuízo do disposto no número seguinte, as valências educativas privadas podem adoptar processos de avaliação próprios, constantes do respectivo projecto educativo, que, após serem comunicados à direcção regional competente em matéria de educação, têm, para todos os efeitos, validade oficial.\n\n2 - O regime de avaliação dos alunos sujeitos a escolaridade obrigatória e dos cursos que confiram habilitação académica ou certificação profissional é o mesmo que esteja fixado para as escolas da rede pública regional, sem prejuízo da autonomia estabelecida na alínea d) do n.º 2 do artigo 27.º do presente diploma.\n\n3 - As valências educativas privadas, nos níveis de ensino que gozem de paralelismo pedagógico, não dependem das escolas públicas quanto à avaliação de conhecimentos, incluindo a realização de provas e exames de qualquer natureza.\n\n4 - As valências educativas privadas devem tornar públicas, após cada período escolar, as classificações obtidas pelos alunos e comunicar anualmente à direcção regional competente em matéria de educação os resultados percentuais do aproveitamento.\n\n5 - O critério e os processos de avaliação dos cursos com planos próprios devem constar do respectivo regulamento."
+  },
+  "164926465": {
+   "fragment_id": "164933390",
+   "type": 11,
+   "heading": "Artigo 47.º — Constituição de júris",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Constituição de júris\n\nQuando numa escola não existam os docentes profissionalizados necessários para a constituição de júris e realização de outras tarefas integradas no sistema de avaliação, cabe à direcção regional competente em matéria de educação nomear os docentes necessários de entre os docentes profissionalizados com nomeação definitiva em escolas da rede pública."
+  },
+  "164926466": {
+   "fragment_id": "164933391",
+   "type": 11,
+   "heading": "Artigo 48.º — Provas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Provas finais\n\n1 - Os alunos das valências educativas privadas, nos níveis de ensino sem paralelismo pedagógico, dos ensinos básico e secundário são submetidos a provas finais de avaliação nos mesmos termos que estejam fixados para os alunos autopropostos.\n\n2 - Os resultados finais da avaliação dos alunos referidos no artigo anterior são registados pela escola onde se realizem as provas, cabendo a esta a emissão dos respectivos certificados e diplomas."
+  },
+  "164926467": {
+   "fragment_id": "164933392",
+   "type": 11,
+   "heading": "Artigo 49.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Certificação\n\n1 - Os certificados de matrícula, de aproveitamento e de habilitações, bem como os diplomas de conclusão de curso dos alunos dos níveis de ensino de valências educativas privadas com paralelismo pedagógico, são passados pelas próprias escolas.\n\n2 - Os modelos e a tipologia dos diplomas e certificados a emitir pelas escolas do ensino particular e cooperativo com paralelismo pedagógico são os mesmos que estejam fixados para os correspondentes níveis e ciclos do ensino público."
+  },
+  "164926468": {
+   "fragment_id": "164933393",
+   "type": 8,
+   "heading": "Secção V — Propinas e mensalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Propinas e mensalidades"
+  },
+  "164926469": {
+   "fragment_id": "164933394",
+   "type": 11,
+   "heading": "Artigo 50.º — Pagamento, isenção e redução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Pagamento, isenção e redução\n\n1 - Os alunos das valências educativas privadas podem estar sujeitos ao pagamento de propinas de matrícula e frequência.\n\n2 - Excepto quando a propina ou mensalidade esteja contratualmente fixada com a administração regional autónoma, cabe à entidade titular da autorização de funcionamento fixar o seu valor.\n\n3 - Os alunos podem ter direito a isenção ou redução de propinas, de acordo com as comparticipações recebidas pelas escolas, nos termos previstos no presente diploma."
+  },
+  "164926470": {
+   "fragment_id": "164933395",
+   "type": 11,
+   "heading": "Artigo 51.º — Acção social escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Acção social escolar\n\n1 - As regalias e os benefícios sociais previstos no âmbito da acção social escolar são extensivos às valências educativas privadas e aos alunos que as frequentam no ensino regular, nas mesmas condições que para as escolas públicas e respectivos alunos, excepto no que se refere a transporte escolar e à isenção de propinas e taxas.\n\n2 - Os escalões de rendimento e demais normas regulamentares da acção social escolar são os mesmos que estejam fixados para os alunos das escolas públicas.\n\n3 - Para efeitos do disposto no número anterior, até 30 dias após o início do ano escolar, o encarregado de educação entrega, no estabelecimento frequentado, um formulário, do mesmo modelo que for utilizado para determinação do escalão de apoio social nos estabelecimentos da rede pública, devidamente preenchido.\n\n4 - O estabelecimento envia o formulário a que se refere o número anterior à direcção regional competente em matéria de administração educativa, entidade à qual compete a análise e consequente atribuição do escalão, comunicando a decisão ao encarregado de educação e ao estabelecimento."
+  },
+  "164926471": {
+   "fragment_id": "164933396",
+   "type": 11,
+   "heading": "Artigo 52.º — Redução complementar da mensalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Redução complementar da mensalidade\n\n1 - Com o objectivo de promover maior justiça social no acesso ao ensino particular e cooperativo, pode ser concedida às valências educativas privadas uma comparticipação destinada a permitir uma redução complementar da propina ou mensalidade que seja devida por alunos provenientes de agregados familiares desfavorecidos.\n\n2 - A redução da mensalidade é feita tendo como referência o escalão de capitação de rendimento, calculado nos mesmos termos que estiverem fixados para atribuição de benefícios da acção social escolar nos estabelecimentos de ensino da rede pública.\n\n3 - Quando o mesmo agregado familiar tiver mais de um educando a frequentar um ou mais estabelecimentos de educação e de ensino da rede privada e cooperativa, incluindo jardins-de-infância, tem direito a uma redução suplementar a fixar no regulamento da acção social escolar.\n\n4 - Aos educandos que se encontrem à guarda de instituições particulares de solidariedade social pode, mediante requerimento fundamentado dirigido ao director regional competente em matéria de administração educativa, ser concedida a redução total da propina ou mensalidade, atendendo à sua condição sócio-económica."
+  },
+  "164926472": {
+   "fragment_id": "164933397",
+   "type": 1,
+   "heading": "Capítulo VII — Pessoal docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Pessoal docente"
+  },
+  "164926473": {
+   "fragment_id": "164933398",
+   "type": 11,
+   "heading": "Artigo 53.º — Direitos e deveres gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Direitos e deveres gerais\n\nO pessoal docente das valências educativas privadas exerce uma função de interesse público, tendo os direitos e estando sujeito aos deveres inerentes ao exercício da função docente, para além dos fixados na legislação laboral aplicável."
+  },
+  "164926474": {
+   "fragment_id": "164933399",
+   "type": 11,
+   "heading": "Artigo 54.º — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Requisitos gerais\n\n1 - Os docentes das valências educativas privadas devem fazer prova de sanidade física e mental, idoneidade profissional e de possuírem habilitações adequadas ao respectivo nível de ensino ou curso.\n\n2 - A idade mínima para o exercício de funções docentes em valências educativas privadas é de 18 anos.\n\n3 - Cumpridos os requisitos legais, não carece de autorização prévia a contratação de docentes profissionalizados aposentados.\n\n4 - Não podem exercer funções docentes nas valências educativas privadas os indivíduos que tenham sido condenados, por sentença transitada em julgado, em penas inibitórias, nos termos da legislação penal, do exercício daquelas funções.\n\n5 - Sem prejuízo da liberdade de contratação, os docentes devem obedecer às condições exigidas nos números anteriores e ser seleccionados no respeito pela legislação laboral aplicável."
+  },
+  "164933475": {
+   "fragment_id": "164933400",
+   "type": 11,
+   "heading": "Artigo 55.º — Docentes estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Docentes estrangeiros\n\n1 - As valências educativas privadas podem admitir docentes estrangeiros nas mesmas condições dos nacionais desde que os mesmos tenham as respectivas habilitações reconhecidas e estejam legalmente autorizados ao exercício de uma actividade remunerada em território nacional.\n\n2 - Os docentes estrangeiros devem fazer prova de suficiente conhecimento da língua portuguesa, sempre que ela seja indispensável para as disciplinas que se propõem leccionar."
+  },
+  "164933476": {
+   "fragment_id": "164933401",
+   "type": 11,
+   "heading": "Artigo 56.º — Habilitações académicas e profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Habilitações académicas e profissionais\n\n1 - As habilitações académicas e profissionais a exigir aos docentes das valências educativas privadas são, para cada grau ou nível de ensino, as exigidas aos docentes das escolas públicas.\n\n2 - Em todas as modalidades do ensino regular e nas componentes sócio-cultural, científica e científico-tecnológica dos cursos do ensino profissional e profissionalizante, as habilitações são as que estão legalmente estabelecidas para os correspondentes grupos disciplinares e especialidades do nível ou ciclo correspondente do ensino regular.\n\n3 - Nas componentes de formação técnica e prática, aos formadores, para além de serem detentores de certificação como formadores, deve ser dada preferência aos que tenham experiência profissional ou empresarial efectiva.\n\n4 - As habilitações profissionais e académicas a exigir aos docentes das escolas com cursos e ou planos próprios são estabelecidas, caso a caso, por despacho do director regional competente em matéria de educação."
+  },
+  "164933477": {
+   "fragment_id": "164933402",
+   "type": 11,
+   "heading": "Artigo 57.º — Pessoal docente sem habilitação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Pessoal docente sem habilitação profissional\n\n1 - Carece de autorização prévia da direcção regional competente em matéria de administração educativa a contratação de professores ou de formadores que nos termos do artigo anterior não sejam detentores de habilitação profissional.\n\n2 - A autorização prévia a que se refere o número anterior apenas pode ser concedida quando se verifiquem cumulativamente os seguintes requisitos:\n\na) Comprovadamente não esteja disponível no mercado de trabalho indivíduo detentor de habilitação profissional ou de certificação adequada;\n\nb) Tenha sido publicada oferta de emprego em órgão de imprensa regional, não tendo sido possível recrutar candidato com perfil adequado;\n\nc) O lugar tenha sido oferecido através dos serviços oficiais de emprego sem ter sido possível recrutar candidato adequado.\n\n3 - As normas a seguir na distribuição de serviço docente nas situações em que não estejam disponíveis docentes detentores de habilitação profissional são as mesmas que estiverem fixadas para as escolas públicas."
+  },
+  "164933478": {
+   "fragment_id": "164933403",
+   "type": 11,
+   "heading": "Artigo 58.º — Comunicação e cadastro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Comunicação e cadastro\n\n1 - Até 30 de Setembro de cada ano, as valências educativas privadas enviam à direcção regional competente em matéria de administração educativa uma relação discriminada dos docentes ao seu serviço, com os elementos constantes do respectivo cadastro.\n\n2 - Quando os professores são contratados durante o ano lectivo, os elementos referidos no número anterior são enviados no prazo de 15 dias após a celebração do contrato.\n\n3 - A direcção regional competente em matéria de administração educativa deve organizar e manter um cadastro confidencial do pessoal docente do ensino privado."
+  },
+  "164933479": {
+   "fragment_id": "164933404",
+   "type": 11,
+   "heading": "Artigo 59.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Processo individual\n\n1 - As valências educativas privadas devem manter organizado e actualizado o processo individual de cada um dos docentes ao seu serviço.\n\n2 - O processo individual deve acompanhar o docente quando mudar de escola.\n\n3 - A ficha de registo a utilizar é a mesma que esteja aprovada para uso nas escolas da rede pública regional."
+  },
+  "164933480": {
+   "fragment_id": "164933405",
+   "type": 11,
+   "heading": "Artigo 60.º — Autorização para acumulação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Autorização para acumulação de funções\n\n1 - É permitida a acumulação de funções docentes em valências educativas privadas, bem como em valências educativas privadas e escolas públicas.\n\n2 - A acumulação de funções não pode, em qualquer dos casos, ultrapassar as trinta horas lectivas semanais, incluindo neste cômputo as reduções da componente lectiva a que haja lugar, qualquer que seja a sua natureza.\n\n3 - Sem prejuízo do disposto no número seguinte, depende da obtenção de prévia autorização da entidade que para tal seja competente a contratação de docentes e formadores que sejam funcionários ou agentes da administração central, regional autónoma ou local, nos termos legais e regulamentares aplicáveis.\n\n4 - A acumulação de funções no ensino público e privado está sujeita a autorização prévia do director regional competente em matéria de administração educativa e deve ser solicitada até 15 dias antes do início de funções."
+  },
+  "164933481": {
+   "fragment_id": "164933406",
+   "type": 11,
+   "heading": "Artigo 61.º — Classificação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Classificação de serviço\n\nA qualificação e classificação do trabalho docente prestado pelos docentes e formadores das valências educativas privadas obedece às normas vigentes para o ensino público, nomeadamente para o acesso à formação profissional, para efeitos de carreira e para concurso."
+  },
+  "164933482": {
+   "fragment_id": "164933407",
+   "type": 11,
+   "heading": "Artigo 62.º — Transição entre o ensino público e o particular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Transição entre o ensino público e o particular\n\n1 - Através dos mecanismos de concurso, provimento e contratação que sejam aplicáveis, é permitido o trânsito de docentes da educação pré-escolar e dos ensinos básico e secundário entre o ensino particular e o ensino público e vice-versa.\n\n2 - O trânsito de docentes entre as escolas públicas e as particulares faz-se sem prejuízo dos direitos adquiridos relativamente à contagem de tempo de serviço, progressão na carreira, segurança social, assistência e aposentação, nos termos do artigo seguinte."
+  },
+  "164933483": {
+   "fragment_id": "164933408",
+   "type": 11,
+   "heading": "Artigo 63.º — Contagem do tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Contagem do tempo de serviço\n\n1 - Aos docentes das valências educativas privadas que transitem para o ensino público é contado o tempo de serviço prestado no ensino particular, designadamente para progressão na carreira, e enquadramento na alínea a) do n.º 7 do artigo 25.º do Decreto Legislativo Regional n.º 27/2003/A, de 9 de Junho, em igualdade de condições com o serviço prestado nas escolas públicas, desde que se verifiquem as seguintes condições:\n\na) Que o tempo de serviço tenha sido prestado em escolas devidamente legalizadas;\n\nb) Que os docentes se encontrem legalizados à data da prestação do serviço;\n\nc) Que o serviço não tenha sido prestado em acumulação com a função pública ou com o ensino oficial;\n\nd) Que o serviço tenha sido de, pelo menos, onze horas semanais, ainda que prestado em mais de uma escola particular, e computável em dias, nos termos da lei.\n\n2 - A fim de assegurar um efectivo cômputo em dias e a confirmação oficial do tempo de serviço prestado pelos docentes, cada escola particular promove, obrigatoriamente:\n\na) O controlo efectivo diário desse serviço, tendo como referência as normas sobre assiduidade constantes do contrato ou convenção aplicável, bem como disposições oficiais conjugáveis, nomeadamente quanto a afastamento por motivo de determinadas doenças;\n\nb) O registo mensal, nos processos individuais dos docentes, da sua situação no mês antecedente, em termos de presenças e ausências (faltas, licenças, férias);\n\nc) O envio à direcção regional competente em matéria de administração educativa, até 15 de Setembro de cada ano, de mapa global relativo a cada docente e a todo o ano escolar anterior de onde conste a discriminação do tempo de serviço prestado, com indicação do início do contrato, faltas especificadas, licenças especificadas e termo do contrato;\n\nd) O envio à direcção regional competente em matéria de administração educativa, sempre que tal lhe seja pedido, de mapas de situação de onde constem os elementos referidos na alínea anterior.\n\n3 - A prova do tempo de serviço faz-se por declaração da escola onde este foi prestado, com a assinatura autenticada com o selo branco ou carimbo a óleo em uso na escola.\n\n4 - A contagem do tempo de serviço para outros efeitos, designadamente para aposentação, obedece a normas legalmente fixadas para tal."
+  },
+  "164933484": {
+   "fragment_id": "164933409",
+   "type": 11,
+   "heading": "Artigo 64.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Responsabilidade disciplinar\n\n1 - Os docentes das valências educativas privadas respondem disciplinarmente perante a entidade proprietária da escola e o departamento da administração regional competente em matéria de educação pela violação dos seus deveres profissionais de natureza ou implicação pedagógica.\n\n2 - A aplicação de penas disciplinares pela entidade proprietária rege-se pelo disposto na legislação laboral aplicável.\n\n3 - As sanções a aplicar pelo membro do Governo Regional competente em matéria de educação, de acordo com a gravidade da infracção, são as seguintes:\n\na) Advertência;\n\nb) Coima de uma a três vezes o valor do salário mínimo regional;\n\nc) Proibição do exercício do ensino por período de três meses a três anos.\n\n4 - A aplicação das penas referidas nas alíneas b) e c) do número anterior é decidida mediante processo disciplinar instaurado, com as necessárias adaptações, nos termos do artigo 116.º do presente diploma e instruído pelos serviços inspectivos da educação."
+  },
+  "164933485": {
+   "fragment_id": "164933410",
+   "type": 1,
+   "heading": "Capítulo VIII — Apoio ao ensino particular, cooperativo e solidário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Apoio ao ensino particular, cooperativo e solidário"
+  },
+  "164933486": {
+   "fragment_id": "164933411",
+   "type": 8,
+   "heading": "Secção I — Utilidade pública e modalidades de contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Utilidade pública e modalidades de contrato"
+  },
+  "164933487": {
+   "fragment_id": "164933412",
+   "type": 11,
+   "heading": "Artigo 65.º — Utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Utilidade pública\n\nAs valências educativas privadas que se enquadrem nos objectivos do sistema educativo regional, bem como as sociedades, associações ou fundações, que tenham como finalidade dominante a criação ou manutenção de estabelecimentos de ensino particular, gozam das prerrogativas das pessoas colectivas de utilidade pública desde que o respectivo fim ou objecto seja exclusivamente a educação e o ensino, incluindo o ensino profissional."
+  },
+  "164933488": {
+   "fragment_id": "164933413",
+   "type": 11,
+   "heading": "Artigo 66.º — Contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Contratos\n\n1 - A Região, através do departamento do Governo Regional competente em matéria de educação, pode celebrar contratos com valências educativas privadas que, integrando-se nos objectivos gerais do sistema educativo regional, possam ser complementares às escolas públicas.\n\n2 - A administração regional autónoma pode ainda celebrar contratos com estabelecimentos de ensino em que, para além dos planos oficiais de ensino aos vários níveis, sejam ministradas outras matérias no quadro de experiências pedagógicas e, bem assim, com escolas que se proponham a criação de cursos com planos próprios.\n\n3 - Nos contratos especificam-se as obrigações assumidas pela escola, bem como as comparticipações e benefícios que lhe são concedidos.\n\n4 - As valências educativas privadas que celebram contratos com a administração regional autónoma ficam sujeitas às inspecções administrativas e financeiras dos serviços competentes.\n\n5 - Podem igualmente ser celebrados contratos entre o departamento da administração regional autónoma competente em matéria de solidariedade social e as instituições que operem valências de educação pré-escolar."
+  },
+  "164933489": {
+   "fragment_id": "164933414",
+   "type": 11,
+   "heading": "Artigo 67.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Financiamento\n\n1 - A comparticipação a conceder é determinada por aluno em frequência efectiva da escola e é fixada, para cada modalidade, ciclo e nível de ensino e modalidade de contrato, por portaria conjunta dos membros do Governo Regional competentes em matéria de finanças e de educação.\n\n2 - A determinação do valor da comparticipação toma como referência o custo por aluno na rede pública para igual modalidade, nível e ciclo de ensino.\n\n3 - Os contratos a que se refere o número anterior são celebrados entre a direcção regional competente em matéria de educação, representada pelo respectivo director regional, e quem, nos termos do respectivo estatuto, possa obrigar a entidade proprietária da escola.\n\n4 - Os contratos a que se referem os números anteriores são publicados na 2.ª série do Jornal Oficial, não podendo ser processadas quaisquer quantias antes daquela publicação."
+  },
+  "164933490": {
+   "fragment_id": "164933415",
+   "type": 11,
+   "heading": "Artigo 68.º — Modalidade dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Modalidade dos contratos\n\n1 - Os contratos entre a administração regional autónoma e as valências educativas privadas podem assumir qualquer das seguintes modalidades:\n\na) Contrato de associação;\n\nb) Contrato simples;\n\nc) Contrato de patrocínio;\n\nd) Contrato para concessão de comparticipação especial;\n\ne) Contrato-programa para funcionamento de cursos profissionalizantes e profissionais, a celebrar nos termos do artigo 92.º do presente diploma;\n\nf) Contrato-programa para investimento em infra-estruturas e equipamentos para a educação pré-escolar, a celebrar nos termos dos artigos 99.º e seguintes do presente diploma.\n\n2 - Os contratos podem ter âmbito plurianual e, excepto os referidos nas alíneas c) e d) do número anterior, consideram-se automaticamente renovados, salvo caso de incumprimento por qualquer das partes.\n\n3 - Os contratos podem abranger alguns ou todos os níveis, ciclos ou modalidades de ensino ministrados na escola.\n\n4 - As propostas de contrato devem entrar na direcção regional competente em matéria de educação até 30 de Novembro de cada ano, com vista ao ano civil seguinte."
+  },
+  "164933491": {
+   "fragment_id": "164933416",
+   "type": 11,
+   "heading": "Artigo 69.º — Resolução dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Resolução dos contratos\n\nOs contratos, de qualquer tipo, celebrados ao abrigo do presente diploma são objecto de resolução sempre que se verifique uma das seguintes condições:\n\na) Seja comprovada discriminação social ou outra na admissão das crianças ou alunos;\n\nb) Não sejam cumpridas as obrigações assumidas nos contratos;\n\nc) O estabelecimento não disponha de direcção técnico-pedagógica devidamente autorizada;\n\nd) Sejam detectadas violações graves das normas legal e regulamentarmente estabelecidas para os níveis de ensino ministrados;\n\ne) Não aceitem ou não colaborem na realização de actividades inspectivas por parte dos serviços de inspecção da educação e de outros serviços competentes da administração regional."
+  },
+  "164933492": {
+   "fragment_id": "164933417",
+   "type": 8,
+   "heading": "Secção II — Contratos de associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Contratos de associação"
+  },
+  "164933493": {
+   "fragment_id": "164933418",
+   "type": 11,
+   "heading": "Artigo 70.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Requisitos\n\n1 - Os contratos de associação têm por fim possibilitar a frequência das valências educativas privadas nas mesmas condições de gratuitidade do ensino público.\n\n2 - Os contratos de associação apenas podem ser celebrados com instituições que, em localidade onde a rede escolar pública não possa acolher todas as crianças ou alunos, ministrem:\n\na) A educação pré-escolar;\n\nb) Um nível ou ciclo de ensino regular."
+  },
+  "164933494": {
+   "fragment_id": "164933419",
+   "type": 11,
+   "heading": "Artigo 71.º — Apoio a conceder",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Apoio a conceder\n\n1 - A administração regional autónoma concede às instituições que celebrem contratos de associação uma comparticipação por aluno fixada nos termos do artigo 67.º do presente diploma, acrescida das despesas necessárias à garantia da gratuitidade do ensino ministrado.\n\n2 - Os pagamentos referentes aos contratos de associação são devidos em quatro prestações trimestrais ou conforme seja acordado face às disponibilidades orçamentais.\n\n3 - Até 31 de Março de cada ano, ou sempre que solicitadas, as entidades que tenham celebrado contratos de associação enviam à direcção regional competente em matéria de educação cópia dos documentos demonstrativos da situação financeira da instituição.\n\n4 - Caso os documentos a que se refere o número anterior não sejam entregues, ou quando solicitados elementos adicionais para esclarecimento da aplicação das quantias cedidas, os mesmos não sejam recebidos, a direcção regional competente em matéria de educação retém os pagamentos até cabal esclarecimento."
+  },
+  "164933495": {
+   "fragment_id": "164933420",
+   "type": 11,
+   "heading": "Artigo 72.º — Obrigações contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Obrigações contratuais\n\n1 - Os contratos de associação obrigam as instituições beneficiárias a:\n\na) Garantir a gratuitidade do ensino nas mesmas condições do ensino público;\n\nb) Divulgar o regime de contrato e a gratuitidade do ensino ministrado;\n\nc) Garantir, até ao limite da lotação autorizada, a matrícula aos interessados, dando preferência aos que pertencerem ao mesmo agregado familiar, às crianças e jovens com necessidades educativas especiais, aos residentes na área e aos de menor idade, por esta ordem de preferência;\n\nd) Aceitar, a título condicional, as matrículas que ultrapassem a sua capacidade, comunicando-as aos serviços competentes da administração regional autónoma;\n\ne) Apresentar, até 30 dias antes do início de cada ano escolar, o orçamento de gestão para o ano seguinte;\n\nf) Apresentar ao departamento competente em matéria de educação da administração regional autónoma balancetes trimestrais, bem como o balanço e contas anuais, depois de aprovados pelo órgão social competente;\n\ng) Não rejeitar a matrícula ou inscrição de alunos com base na existência de necessidades educativas especiais de qualquer natureza ou de dificuldades graves de aprendizagem.\n\n2 - Os contratos de associação cessam decorridos três anos após a disponibilização, aos alunos que a frequentem, de escola que ministre o mesmo nível ou grau de ensino situada:\n\na) A menos de 4 km de distância, no caso da educação pré-escolar ou do 1.º ciclo do ensino básico;\n\nb) No mesmo concelho, no caso dos 2.º e 3.º ciclos do ensino básico e do ensino secundário."
+  },
+  "164933496": {
+   "fragment_id": "164933421",
+   "type": 8,
+   "heading": "Secção III — Contratos simples",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Contratos simples"
+  },
+  "164933497": {
+   "fragment_id": "164933422",
+   "type": 11,
+   "heading": "Artigo 73.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Objectivos\n\n1 - Os contratos simples destinam-se a apoiar estabelecimentos de educação e ensino considerados como alternativos aos integrados na rede escolar pública.\n\n2 - Podem ser celebrados contratos simples com estabelecimentos que ministrem:\n\na) A educação pré-escolar;\n\nb) O ensino básico regular, em qualquer dos seus ciclos;\n\nc) O ensino secundário;\n\nd) O ensino básico e secundário recorrente;\n\ne) O ensino profissional e profissionalizante quando confira habilitação académica ou qualificação profissional;\n\nf) O ensino artístico, exclusivamente quando em regime de ensino articulado.\n\n3 - A comparticipação financeira a conceder através de contratos simples destina-se exclusivamente a reduzir os custos suportados pelas famílias, traduzindo-se numa redução da propina ou mensalidade que seja devida pela frequência do estabelecimento.\n\n4 - Para a educação pré-escolar, a comparticipação financeira visa assegurar a gratuitidade da componente educativa e é fixada tendo por referência o custo da componente educativa da educação pré-escolar na rede pública.\n\n5 - Nas instituições que celebrem com a administração regional autónoma contratos simples para comparticipação da educação pré-escolar, a frequência da componente educativa é gratuita.\n\n6 - Sem prejuízo do disposto no número anterior, o contrato estabelece a redução da propina ou mensalidade a que a escola se obriga.\n\n7 - Sem prejuízo do disposto no n.º 4, o valor por criança ou aluno da comparticipação a conceder é fixado, para cada modalidade, grau e nível de ensino, nos termos do artigo 67.º do presente diploma."
+  },
+  "164933498": {
+   "fragment_id": "164933423",
+   "type": 11,
+   "heading": "Artigo 74.º — Obrigações das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Obrigações das instituições\n\n1 - As escolas que beneficiarem de contratos simples obrigam-se a divulgar o regime de contrato e a estabelecer as propinas e mensalidades nos termos acordados.\n\n2 - As entidades beneficiárias não podem rejeitar a matrícula ou a inscrição de alunos com base na existência de necessidades educativas especiais de qualquer natureza ou de dificuldades graves de aprendizagem."
+  },
+  "164933499": {
+   "fragment_id": "164933424",
+   "type": 11,
+   "heading": "Artigo 75.º — Determinação dos montantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Determinação dos montantes\n\n1 - Até 30 dias após o início do ano escolar, o estabelecimento envia à direcção regional competente em matéria de educação lista nominativa dos seus alunos, por curso, ano de escolaridade e turma, indicando a propina ou mensalidade que cada um deve suportar.\n\n2 - A lista a que se refere o número anterior é actualizada até 30 dias após qualquer facto que resulte na sua alteração, nomeadamente a admissão de novos alunos ou o fim da frequência de alunos constantes da lista já enviada.\n\n3 - Os pagamentos referentes aos contratos simples são devidos em quatro prestações trimestrais ou conforme seja acordado face às disponibilidades orçamentais."
+  },
+  "164933500": {
+   "fragment_id": "164933425",
+   "type": 8,
+   "heading": "Secção IV — Contratos de patrocínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Contratos de patrocínio"
+  },
+  "164933501": {
+   "fragment_id": "164933426",
+   "type": 11,
+   "heading": "Artigo 76.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Objectivos\n\n1 - A administração regional autónoma pode celebrar com as entidades proprietárias de estabelecimentos de ensino particular contratos de patrocínio, quando a acção pedagógica, o interesse pelos cursos, o nível dos programas, os métodos e os meios de ensino ou a categoria do pessoal docente o justifiquem.\n\n2 - Os contratos de patrocínio têm por fim estimular e apoiar o ensino em domínios não abrangidos ou restritamente abrangidos pelo ensino oficial, nomeadamente a criação de cursos com planos próprios e a inovação pedagógica."
+  },
+  "164933502": {
+   "fragment_id": "164933427",
+   "type": 11,
+   "heading": "Artigo 77.º — Celebração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Celebração\n\n1 - Os contratos de patrocínio são celebrados entre a direcção regional competente em matéria de educação e quem, nos termos do respectivo estatuto, possa obrigar a instituição, fixando as actividades a desenvolver, o quantitativo a conceder, a modalidade e o número de prestações.\n\n2 - Um extracto do contrato a que se refere o número anterior é publicado na 2.ª série do Jornal Oficial."
+  },
+  "164933503": {
+   "fragment_id": "164933428",
+   "type": 11,
+   "heading": "Artigo 78.º — Obrigações da administração regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Obrigações da administração regional\n\n1 - Nos contratos de patrocínio, a administração regional autónoma obriga-se a:\n\na) Suportar uma percentagem das despesas de funcionamento não inferior a 50 % do total;\n\nb) Reconhecer valor oficial aos títulos e diplomas passados por essas escolas;\n\nc) Definir a equivalência dos cursos ministrados a cursos oficiais;\n\nd) Estabelecer as regras de transferência dos alunos destes cursos para outros;\n\ne) Acompanhar a acção pedagógica das escolas.\n\n2 - As obrigações referidas no número anterior são definidas, caso a caso, segundo as características dos cursos e das escolas."
+  },
+  "164933504": {
+   "fragment_id": "164933429",
+   "type": 11,
+   "heading": "Artigo 79.º — Obrigações das escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Obrigações das escolas\n\nOs contratos de patrocínio obrigam as escolas a divulgar o regime de contrato, a estabelecer as propinas e mensalidades nos termos acordados e a não rejeitar a matrícula ou inscrição de alunos com base na existência de necessidades educativas especiais de qualquer natureza ou de dificuldades graves de aprendizagem."
+  },
+  "164933505": {
+   "fragment_id": "164933430",
+   "type": 8,
+   "heading": "Secção V — Comparticipações financeiras especiais e destino dos bens co-financiados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Comparticipações financeiras especiais e destino dos bens co-financiados"
+  },
+  "164933506": {
+   "fragment_id": "164933431",
+   "type": 11,
+   "heading": "Artigo 80.º — Comparticipações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Comparticipações especiais\n\n1 - Independentemente das comparticipações e outras formas de apoio estabelecidos nos contratos, a administração regional autónoma pode conceder às valências educativas privadas que se integrem nos objectivos do sistema educativo comparticipações especiais com os seguintes objectivos:\n\na) Assegurar despesas de arranque de novos cursos ou de inovação pedagógica, devidamente aprovadas pela direcção regional competente em matéria de educação;\n\nb) Manter a viabilidade financeira do estabelecimento, nomeadamente quando tenham ocorrido despesas justificadamente não previsíveis que ponham em risco a continuidade do funcionamento da instituição;\n\nc) Adquirir e proceder à ampliação e grande conservação de instalações e ao seu apetrechamento e reapetrechamento;\n\nd) Investir de outra forma, devidamente justificada e feita com aprovação prévia da administração regional autónoma através da direcção regional competente em matéria de administração educativa.\n\n2 - A comparticipação financeira a que se refere o número anterior deve ser requerida à direcção regional competente em matéria de administração educativa até 30 de Novembro de cada ano, acompanhada dos documentos justificativos julgados necessários para a análise do investimento proposto.\n\n3 - Quando haja concessão de comparticipação, é celebrado contrato entre a direcção regional competente em matéria de administração educativa e quem, nos termos do respectivo estatuto, pode obrigar a instituição, fixando os investimentos a executar, a modalidade e o número de prestações.\n\n4 - Um extracto do contrato a que se refere o número anterior é publicado na 2.ª série do Jornal Oficial."
+  },
+  "164933507": {
+   "fragment_id": "164933432",
+   "type": 11,
+   "heading": "Artigo 81.º — Outros apoios públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Outros apoios públicos\n\nAs valências educativas privadas podem beneficiar, nos termos a estabelecer por resolução do conselho do Governo Regional, de condições especiais de acesso a comparticipações a fundo perdido e linhas de crédito bonificadas destinados à aquisição, construção e equipamento de estabelecimentos de ensino particular, cooperativo ou solidário e outros especificamente criados para a modalidade de educação ou de ensino que ministrem, incluindo a educação pré-escolar e o ensino e formação profissional."
+  },
+  "164933508": {
+   "fragment_id": "164933433",
+   "type": 11,
+   "heading": "Artigo 82.º — Bens objecto de financiamento público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Bens objecto de financiamento público\n\n1 - Salvo autorização em contrário, concedida por resolução do conselho do Governo Regional, os bens comparticipados por fundos públicos transferidos para as entidades proprietárias ficam afectos, por um período não inferior a 30 anos, ao ensino, incluindo o ensino profissional ou, quando este se revele desnecessário no respectivo tecido social, a outras actividades educativas tuteladas ou reconhecidas como de interesse público pelo Governo Regional.\n\n2 - Sem prejuízo do disposto no número anterior, a alienação do património adquirido, no todo ou em parte, através de financiamento público, regional, nacional ou comunitário fica condicionada a autorização prévia a conceder por resolução do conselho do Governo Regional.\n\n3 - No caso de alienação do património adquirido através do financiamento público, ou no caso de extinção da actividade da escola, reverte a favor da Região o valor correspondente à parte coberta por investimento público, incluindo o comunitário."
+  },
+  "164933509": {
+   "fragment_id": "164933434",
+   "type": 1,
+   "heading": "Capítulo IX — Escolas profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Escolas profissionais"
+  },
+  "164933510": {
+   "fragment_id": "164933435",
+   "type": 8,
+   "heading": "Secção I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Natureza e atribuições"
+  },
+  "164933511": {
+   "fragment_id": "164933436",
+   "type": 11,
+   "heading": "Artigo 83.º — Natureza e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Natureza e regime\n\n1 - As escolas profissionais são, salvo o disposto no n.º 3 do presente artigo, estabelecimentos privados de ensino funcionando em regime de paralelismo pedagógico e em integração plena no sistema educativo regional.\n\n2 - As escolas profissionais privadas regem-se pelo presente diploma e pelos seus estatutos.\n\n3 - O Governo Regional pode, subsidiariamente, criar por decreto regulamentar regional escolas profissionais para assegurar a cobertura de áreas de formação não contempladas pela oferta de cursos das escolas profissionais privadas.\n\n4 - As escolas profissionais criadas pelo Governo Regional são estabelecimentos de ensino públicos e regem-se pelo estabelecido no diploma que as criar e, subsidiariamente, pelo regime de autonomia, administração e gestão aplicável às unidades orgânicas do sistema educativo regional.\n\n5 - Para efeitos do regime de autonomia, administração e gestão a que se refere no número anterior, consideram-se docentes, para além daqueles que se encontram integrados na respectiva carreira, os formadores internos e externos com certificado de formador válido.\n\n6 - Consideram-se como satisfazendo os requisitos de elegibilidade para qualquer dos cargos fixados no regime atrás referido todos os docentes e formadores a que se refere o número anterior que pratiquem horário igual ou superior a vinte e duas horas lectivas semanais na escola profissional onde pretendam ser candidatos."
+  },
+  "164933512": {
+   "fragment_id": "164933437",
+   "type": 11,
+   "heading": "Artigo 84.º — Autorização prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Autorização prévia\n\n1 - Sem prejuízo do disposto no artigo 9.º do presente diploma, é requisito cumulativo para a autorização prévia de funcionamento de escolas profissionais a oferta de cursos profissionais criados nos termos legais e regulamentares aplicáveis.\n\n2 - Na definição da rede de oferta de formação deve ser tida em consideração, de entre outros factores, a oferta das escolas profissionais cujo funcionamento foi autorizado nos termos do presente diploma."
+  },
+  "164933513": {
+   "fragment_id": "164933438",
+   "type": 11,
+   "heading": "Artigo 85.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Atribuições\n\nSão atribuições específicas das escolas profissionais:\n\na) Contribuir para a formação integral dos jovens, proporcionando-lhes, designadamente, preparação adequada para um exercício profissional qualificado;\n\nb) Desenvolver mecanismos de aproximação entre a escola e as instituições económicas, profissionais, associativas, sociais e culturais do respectivo tecido social;\n\nc) Facultar aos alunos contactos com o mundo do trabalho e experiência profissional, preparando-os para uma adequada inserção sócio-profissional;\n\nd) Promover, conjuntamente com outros agentes e instituições locais, a concretização de um projecto de formação de recursos humanos qualificados que responda às necessidades do desenvolvimento integrado do País, particularmente nos âmbitos regional e local;\n\ne) Facultar aos alunos uma sólida formação geral, científica e tecnológica, capaz de os preparar para a vida activa e para o prosseguimento de estudos."
+  },
+  "164933514": {
+   "fragment_id": "164933439",
+   "type": 11,
+   "heading": "Artigo 86.º — Outros cursos e actividades de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Outros cursos e actividades de formação\n\n1 - No quadro do aproveitamento e desenvolvimento dos seus recursos e em resposta às necessidades e procura social, as escolas profissionais podem, nas áreas de formação para que estão vocacionadas, organizar também as seguintes actividades de educação e formação:\n\na) Cursos de especialização tecnológica e cursos profissionais de nível 4, de qualquer natureza, quando em associação com uma instituição de ensino superior;\n\nb) Cursos de formação profissional, de carácter tecnológico, artístico ou outro, dirigidos a formandos e estudantes que tenham concluído o 1.º ou o 2.º ciclo do ensino básico e manifestem aptidão e preferência por essas áreas, os quais conduzem à conclusão da escolaridade obrigatória, à concessão do respectivo diploma e de uma certificação profissional de nível 1 ou 2;\n\nc) Cursos de qualificação profissional inicial ou complementar que confiram certificação profissional de nível 1 a 3;\n\nd) Cursos de formação, em regime pós-laboral ou não, destinados a activos que pretendam elevar o nível de qualificação profissional ou proceder a acções de reciclagem e reconversão profissional;\n\ne) Programas de apoio à inserção no mercado de emprego de jovens diplomados do ensino básico e do ensino secundário regular ou profissional;\n\nf) Outras acções de formação profissional, desde que contenham uma dimensão educativa adequada, designadamente através da componente de formação sócio-cultural, e que resultem da adaptação do dispositivo curricular dos cursos profissionais às características, necessidades e potencialidades do tecido sócio-económico envolvente;\n\ng) Cursos de ensino recorrente básico ou secundário, conducentes a certificação profissional de nível 1, 2 ou 3.\n\n2 - Podem ainda as escolas profissionais ministrar cursos de natureza profissionalizante, podendo conduzir à conclusão da escolaridade obrigatória e à concessão do respectivo diploma, bem como à certificação profissional de nível 1 e 2."
+  },
+  "164933515": {
+   "fragment_id": "164933440",
+   "type": 11,
+   "heading": "Artigo 87.º — Acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Acreditação\n\nPara acesso a financiamento público, incluindo o comunitário, e para emissão de certificação profissional e académica, as escolas profissionais ficam obrigadas a obter e manter a respectiva acreditação como entidades formadoras, nos termos legais e regulamentares aplicáveis."
+  },
+  "164933516": {
+   "fragment_id": "164933441",
+   "type": 11,
+   "heading": "Artigo 88.º — Admissão de alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Admissão de alunos\n\nO número de alunos a admitir pelas escolas profissionais é fixado pelo seu órgão de direcção, ouvido o órgão técnico-pedagógico e os serviços competentes em matéria de emprego da administração regional autónoma."
+  },
+  "164933517": {
+   "fragment_id": "164933442",
+   "type": 11,
+   "heading": "Artigo 89.º — Inserção na vida activa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Inserção na vida activa\n\n1 - Os projectos educativos das escolas profissionais devem incluir a criação e o funcionamento de mecanismos de inserção na vida activa, com a finalidade de promover a integração e o acompanhamento profissional dos seus diplomados.\n\n2 - As escolas profissionais são obrigadas a manter um registo actualizado dos processos e resultados da formação e dos trajectos imediatamente subsequentes dos seus diplomados, de modo a poderem disponibilizar essa informação quando solicitada pelos competentes serviços da administração regional autónoma.\n\n3 - As escolas profissionais são obrigadas a ter um projecto educativo de escola, aprovado pelo seu órgão técnico-pedagógico, nos termos que estiverem fixados nos seus estatutos e na regulamentação que lhes seja aplicável."
+  },
+  "164933518": {
+   "fragment_id": "164933443",
+   "type": 11,
+   "heading": "Artigo 90.º — Pessoal docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Pessoal docente\n\n1 - A selecção do pessoal docente rege-se pelo princípio da adequação dos perfis dos candidatos às exigências profissionais previamente definidas.\n\n2 - Para a docência da componente de formação técnica, deve ser dada preferência a formadores que tenham experiência profissional ou empresarial efectiva.\n\n3 - Para a docência das componentes de formação sócio-cultural e científica, os professores e os formadores devem possuir as habilitações legalmente exigidas para os níveis e ciclos correspondentes do ensino regular."
+  },
+  "164933519": {
+   "fragment_id": "164933444",
+   "type": 8,
+   "heading": "Secção II — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Financiamento"
+  },
+  "164933520": {
+   "fragment_id": "164933445",
+   "type": 11,
+   "heading": "Artigo 91.º — Financiamento público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Financiamento público\n\n1 - As escolas profissionais privadas podem candidatar-se a comparticipação pública nas despesas inerentes às actividades formativas e educativas que organizem.\n\n2 - A apreciação e selecção das candidaturas a que se refere o número anterior orientam-se por critérios de pertinência e qualidade, nomeadamente:\n\na) Integração em projecto educativo próprio da escola;\n\nb) Dimensão e distribuição territorial equilibrada da oferta de cursos profissionais;\n\nc) Procura dos cursos e evolução esperada do mercado de trabalho;\n\nd) Níveis de empregabilidade dos diplomados dos cursos;\n\ne) Harmonização com a rede de escolas e cursos do ensino secundário regular."
+  },
+  "164933521": {
+   "fragment_id": "164933446",
+   "type": 11,
+   "heading": "Artigo 92.º — Contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Contratos-programa\n\n1 - Os contratos-programa a celebrar entre a administração regional autónoma e as escolas profissionais têm por fim possibilitar a frequência, por parte dos alunos, dos cursos profissionais em condições idênticas àquelas em que frequentariam no ensino regular.\n\n2 - Nos contratos-programa, a administração regional autónoma compromete-se a comparticipar nas despesas de funcionamento dos cursos profissionais, pagando à escola o montante correspondente ao custo efectivo da formação por aluno e por ano, tendo em conta, nomeadamente, a duração dos cursos e a natureza das diferentes áreas de formação.\n\n3 - Pela aceitação de um contrato-programa, as escolas profissionais comprometem-se, nomeadamente, a:\n\na) Prestar todas as informações de natureza financeira e relacionadas com o funcionamento da escola que sejam exigidas contratualmente ou por solicitação posterior dos serviços da administração regional autónoma;\n\nb) Divulgar o regime de contrato sempre que procedam à divulgação ou promoção do curso profissional;\n\nc) Respeitar os limites de cobrança de propinas e de outras taxas a pagar pelos alunos, de acordo com o estipulado no contrato;\n\nd) Não admitir nos cursos objecto do contrato-programa outros alunos para além do número estabelecido pelos serviços competentes da administração regional autónoma.\n\n4 - Os contratos-programa são anuais ou plurianuais, respeitando os ciclos de duração dos cursos.\n\n5 - Ao montante global previsto no contrato-programa é deduzido anualmente o valor correspondente ao número de alunos com desistência e abandono verificados no ano lectivo imediatamente anterior.\n\n6 - Sempre que haja lugar a comparticipação pública de mais de um curso profissional por escola, os respectivos montantes e obrigações devem ser alvo de um único acto contratual por ano.\n\n7 - São objecto de definição por portaria do membro do Governo Regional competente em matéria de educação:\n\na) Os processos de propositura e reconhecimento dos cursos profissionais para efeitos de financiamento público;\n\nb) Os critérios de cálculo do custo da formação por aluno e por ano;\n\nc) As disposições procedimentais, nomeadamente de:\n\ni) Apresentação da despesa;\n\nii) Pagamento da comparticipação pública;\n\niii) Restituição por parte da escola da verba adiantada, quando a ela haja lugar.\n\n8 - Quando exista co-financiamento comunitário, ou outro, que esteja sujeito a normas próprias, aplica-se a respectiva legislação e consequente regulamentação específica."
+  },
+  "164933522": {
+   "fragment_id": "164933447",
+   "type": 1,
+   "heading": "Capítulo X — Educação pré-escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Educação pré-escolar"
+  },
+  "164933523": {
+   "fragment_id": "164933448",
+   "type": 8,
+   "heading": "Secção I — Normas gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Normas gerais"
+  },
+  "164933524": {
+   "fragment_id": "164933449",
+   "type": 11,
+   "heading": "Artigo 93.º — Rede regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Rede regional\n\n1 - As redes de educação pré-escolar, pública e privada, constituem uma rede regional, visando efectivar a universalidade da educação pré-escolar e a boa gestão dos recursos.\n\n2 - A rede pública integra os estabelecimentos de educação pré-escolar criados e a funcionar na directa dependência da administração regional.\n\n3 - A rede privada integra os estabelecimentos de educação pré-escolar que funcionem em estabelecimentos de ensino particular ou cooperativo, em instituições particulares de solidariedade social, em instituições privadas e em instituições sem fins lucrativos que prossigam actividades no domínio da educação e do ensino."
+  },
+  "164933525": {
+   "fragment_id": "164933450",
+   "type": 11,
+   "heading": "Artigo 94.º — Desenvolvimento da rede regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Desenvolvimento da rede regional\n\n1 - A administração regional autónoma promove e apoia o desenvolvimento da rede regional de educação pré-escolar, visando a concretização da igualdade de oportunidades educativas e a melhoria da qualidade da educação.\n\n2 - O apoio à expansão e ao desenvolvimento da componente privada da rede regional de educação pré-escolar pode integrar as componentes de natureza pedagógica, financeira e de apoio social às famílias.\n\n3 - O apoio financeiro ao desenvolvimento da rede regional de educação pré-escolar não dispensa as autarquias locais do exercício das respectivas competências em matéria de ensino pré-escolar nos termos da Lei n.º 159/99, de 14 de Setembro."
+  },
+  "164933526": {
+   "fragment_id": "164933451",
+   "type": 11,
+   "heading": "Artigo 95.º — Componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Componentes\n\nA educação pré-escolar ministrada nos jardins-de-infância envolve duas componentes:\n\na) Componente educativa;\n\nb) Componente de apoio social."
+  },
+  "164933527": {
+   "fragment_id": "164933452",
+   "type": 11,
+   "heading": "Artigo 96.º — Componente educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Componente educativa\n\n1 - A componente educativa consiste na prestação em sala, durante o mesmo número de horas semanais que estiver fixado para o 1.º ciclo do ensino básico, de acção educativa directa da responsabilidade de um educador de infância.\n\n2 - Para todas as redes, as orientações curriculares e as aquisições básicas que devem ser seguidas pela componente educativa, bem como a respectiva avaliação, são fixadas por portaria do secretário regional competente em matéria de educação.\n\n3 - Com respeito pelas orientações curriculares e aquisições fixadas nos termos do número anterior, a componente educativa desenvolve-se no âmbito do projecto educativo e plano anual de actividades da instituição onde a valência se insere.\n\n4 - Aos pais e encarregados de educação é garantida a participação na elaboração do projecto educativo e plano anual de actividades, sem prejuízo dos objectivos estatutários das instituições onde se integre o jardim-de-infância."
+  },
+  "164933528": {
+   "fragment_id": "164933453",
+   "type": 11,
+   "heading": "Artigo 97.º — Componente de apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Componente de apoio social\n\nA componente de apoio social consiste na prestação de serviços nas seguintes vertentes:\n\na) Prolongamento do horário para além do período diário estabelecido para a componente educativa;\n\nb) Fornecimento de alimentação, qualquer que seja o tipo e o horário;\n\nc) Fornecimento de equipamentos lúdicos ou pedagógicos;\n\nd) Fornecimento de transporte;\n\ne) Assistência na saúde."
+  },
+  "164933529": {
+   "fragment_id": "164933454",
+   "type": 11,
+   "heading": "Artigo 98.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Coordenação\n\n1 - A actividade educativa numa sala de educação pré-escolar é desenvolvida por um educador de infância com as habilitações legalmente previstas para o efeito.\n\n2 - Ao educador de infância compete ainda coordenar as actividades de animação sócio-educativa da sala de educação pré-escolar, devendo salvaguardar a qualidade do atendimento prestado às crianças."
+  },
+  "164933530": {
+   "fragment_id": "164933455",
+   "type": 11,
+   "heading": "Artigo 99.º — Âmbito do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Âmbito do financiamento\n\nO apoio financeiro ao desenvolvimento da rede regional de educação pré-escolar incide nas seguintes áreas:\n\na) Infra-estruturas, através da construção, aquisição, ampliação e remodelação das instalações;\n\nb) Aquisição de equipamento educativo e apetrechamento;\n\nc) Funcionamento;\n\nd) Formação docente e não docente."
+  },
+  "164933531": {
+   "fragment_id": "164933456",
+   "type": 11,
+   "heading": "Artigo 100.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Apoio financeiro\n\nO apoio financeiro consiste em:\n\na) Comparticipação na construção, ampliação ou remodelação de infra-estruturas em zonas carenciadas de oferta de educação pré-escolar;\n\nb) Comparticipação no funcionamento dos estabelecimentos de educação pré-escolar, correspondente à componente educativa e à comparticipação da administração regional autónoma no apoio às famílias."
+  },
+  "164933532": {
+   "fragment_id": "164933457",
+   "type": 8,
+   "heading": "Secção II — Comparticipação na construção, ampliação ou remodelação de infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Comparticipação na construção, ampliação ou remodelação de infra-estruturas"
+  },
+  "164933533": {
+   "fragment_id": "164933458",
+   "type": 11,
+   "heading": "Artigo 101.º — Acesso ao financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Acesso ao financiamento\n\n1 - O co-financiamento para aquisição, construção ou reparação de infra-estruturas, bem como para equipamento e apetrechamento, é concedido pelo departamento da administração regional competente em matéria de apoio social mediante a apresentação de candidatura por parte das entidades que deles pretendem beneficiar.\n\n2 - Os termos de concessão do financiamento são objecto de contrato-programa a celebrar entre as partes.\n\n3 - O contrato-programa, assinado pelo director regional competente e por quem nos termos legais e estatutários aplicáveis tenha poder para obrigar a entidade beneficiária, é publicado na 2.ª série do Jornal Oficial."
+  },
+  "164933534": {
+   "fragment_id": "164933459",
+   "type": 11,
+   "heading": "Artigo 102.º — Prioridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Prioridades\n\n1 - O apoio financeiro da Região Autónoma dos Açores é atribuído, prioritariamente, à construção, ampliação e remodelação, equipamento e apetrechamento de estabelecimentos de educação pré-escolar que se localizem nas zonas mais carenciadas de oferta de educação pré-escolar.\n\n2 - Para efeitos do disposto no número anterior, entende-se por:\n\na) «Zona muito carenciada» aquela em que o conjunto da oferta da rede pública e da rede privada de educação pré-escolar existente na zona é inferior a 75 % da população da faixa etária dos 3 aos 5 anos;\n\nb) «Zona carenciada» aquela em que o conjunto da oferta da rede pública e da rede privada se situe entre 76 % e 90 % da população da faixa etária destinatária;\n\nc) «Zona menos carenciada» aquela em que o conjunto da oferta da rede pública e da rede privada se situe acima de 90 % da população destinatária."
+  },
+  "164933535": {
+   "fragment_id": "164933460",
+   "type": 11,
+   "heading": "Artigo 103.º — Comparticipação para infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Comparticipação para infra-estruturas\n\n1 - O valor do financiamento, a fundo perdido, a suportar pela administração regional autónoma na construção de infra-estruturas de educação pré-escolar é o seguinte:\n\na) Entre 25 % e 75 % do custo total da obra, para instituições particulares de solidariedade social e instituições sem fins lucrativos que prossigam actividades no domínio da educação e do ensino;\n\nb) Entre 15 % e 25 % do custo total da obra, para os estabelecimentos privados ou pertencentes a instituições com fins lucrativos.\n\n2 - O valor do financiamento, a fundo perdido, a suportar pela Região Autónoma dos Açores na ampliação, remodelação e beneficiação de infra-estruturas de estabelecimentos de educação pré-escolar é de 25 % a 50 % do custo total da obra, para as instituições particulares de solidariedade social e instituições sem fins lucrativos que prossigam actividades no domínio da educação e do ensino.\n\n3 - Por resolução, devidamente fundamentada, do Conselho do Governo Regional, na zona prevista na alínea a) do n.º 2 do artigo 98.º, o valor do financiamento, a fundo perdido, referido na alínea a) do n.º 1 e no número anterior pode ser fixado até 100 % do custo total da obra, nos casos de construção, ampliação, remodelação ou beneficiação de infra-estruturas de educação pré-escolar."
+  },
+  "164933536": {
+   "fragment_id": "164933461",
+   "type": 11,
+   "heading": "Artigo 104.º — Requisitos para financiamento de infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Requisitos para financiamento de infra-estruturas\n\nO acesso ao financiamento para infra-estruturas referido nos artigos anteriores está condicionado à observância de requisitos pedagógicos e técnicos para a instalação e manutenção dos estabelecimentos de educação pré-escolar, nomeadamente:\n\na) Integração ou associação dos estabelecimentos de educação pré-escolar a outros estabelecimentos de ensino e equipamentos sociais;\n\nb) Adaptação aos objectivos pedagógicos e de apoio sócio-educativos;\n\nc) Aceitação, mediante cláusula a inserir no contrato-programa, da existência de normas específicas de garantia de não discriminação, incluindo, quando necessário, a reserva de quotas na admissão de crianças a serem preenchidas por indicação dos serviços competentes da administração regional autónoma;\n\nd) Diversidade de tipologias, tomando em consideração as características das populações e da área geográfica."
+  },
+  "164933537": {
+   "fragment_id": "164933462",
+   "type": 11,
+   "heading": "Artigo 105.º — Requisitos para financiamento de equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Requisitos para financiamento de equipamento\n\nO acesso ao financiamento para equipamento e material didáctico-pedagógico está condicionado à satisfação de requisitos pedagógicos e técnicos, nomeadamente:\n\na) Adequação ao nível etário e favorecimento do desenvolvimento equilibrado da criança;\n\nb) Economia das soluções e relação entre qualidade e custo;\n\nc) Qualidade pedagógica e estética;\n\nd) Garantias de segurança e multiplicidade de utilizações."
+  },
+  "164933538": {
+   "fragment_id": "164933463",
+   "type": 8,
+   "heading": "Secção III — Comparticipação nas despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Comparticipação nas despesas de funcionamento"
+  },
+  "164933539": {
+   "fragment_id": "164933464",
+   "type": 11,
+   "heading": "Artigo 106.º — Componente educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Componente educativa\n\n1 - O financiamento da componente educativa da educação pré-escolar rege-se pelo disposto no n.º 4 do artigo 73.º do presente diploma.\n\n2 - O financiamento das despesas com a componente educativa apenas pode ser concedido quando as instituições obedeçam cumulativamente às seguintes condições:\n\na) A instituição seja detentora de autorização de funcionamento válida, emitida nos termos do presente diploma;\n\nb) A direcção pedagógica do infantário ou jardim-de-infância seja assegurada por um educador de infância;\n\nc) A instituição cumpra as directivas de natureza pedagógica emanadas da administração regional autónoma e se sujeite a inspecção pedagógica periódica daquela entidade e dos serviços inspectivos da educação."
+  },
+  "164933540": {
+   "fragment_id": "164933465",
+   "type": 11,
+   "heading": "Artigo 107.º — Componente de apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Componente de apoio social\n\nO apoio financeiro por parte da administração regional ao funcionamento da componente de apoio social da educação pré-escolar depende da comprovação da efectiva necessidade da existência da valência e é feito através de acordo de cooperação, nos termos do que para tal estiver regulamentado no âmbito do sistema de segurança social."
+  },
+  "164933541": {
+   "fragment_id": "164933466",
+   "type": 11,
+   "heading": "Artigo 108.º — Comparticipação das famílias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Comparticipação das famílias\n\n1 - Os pais e encarregados de educação comparticipam no custo da componente de apoio social do funcionamento dos infantários e jardins-de-infância, de acordo com as respectivas condições sócio-económicas.\n\n2 - Por portaria do membro do Governo Regional competente em matéria de solidariedade social, são estabelecidas as regras a seguir na fixação da comparticipação das famílias no financiamento dos infantários e jardins-de-infância que sejam objecto de contrato de cooperação nos termos do artigo anterior."
+  },
+  "164933542": {
+   "fragment_id": "164933467",
+   "type": 1,
+   "heading": "Capítulo XI — Creches e animação de tempos livres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Creches e animação de tempos livres"
+  },
+  "164933543": {
+   "fragment_id": "164933468",
+   "type": 11,
+   "heading": "Artigo 109.º — Creches",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Creches\n\n1 - O disposto nos artigos 101.º a 105.º do presente diploma aplica-se ao co-financiamento de instalações e equipamentos destinados a creches pertencentes a instituições sem fins lucrativos de qualquer natureza.\n\n2 - O apoio ao funcionamento das creches, incluindo a determinação da comparticipação das famílias nas valências co-financiadas pela administração regional autónoma, é regulado por portaria do membro do Governo Regional competente em matéria de solidariedade social."
+  },
+  "164933544": {
+   "fragment_id": "164933469",
+   "type": 11,
+   "heading": "Artigo 110.º — Actividades de tempos livres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Actividades de tempos livres\n\n1 - Os imóveis onde funcionem centros de actividades de tempos livres (ATL) devem obedecer aos mesmos requisitos de segurança e protecção ambiental que sejam aplicáveis aos edifícios escolares.\n\n2 - A administração regional autónoma, através do departamento competente em matéria de solidariedade social, pode comparticipar o funcionamento de centros de actividades de tempos livres.\n\n3 - As normas referentes ao co-financiamento do funcionamento de centros de actividades de tempos livres e à comparticipação das famílias são fixadas por portaria do membro do Governo Regional competente em matéria de solidariedade social.\n\n4 - As normas específicas referentes à criação, características, funcionamento e financiamento dos centros de actividades de tempos livres são fixadas por decreto regulamentar regional."
+  },
+  "164933545": {
+   "fragment_id": "164933470",
+   "type": 1,
+   "heading": "Capítulo XII — Ensino individual e doméstico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Ensino individual e doméstico"
+  },
+  "164933546": {
+   "fragment_id": "164933471",
+   "type": 11,
+   "heading": "Artigo 111.º — Autorização para frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º — Autorização para frequência\n\n1 - O disposto no presente diploma aplica-se, com as necessárias adaptações, ao ensino individual e doméstico.\n\n2 - A autorização para frequência do ensino individual e doméstico está dependente da verificação das seguintes condições:\n\na) Obrigatoriedade de inscrição dos alunos sujeitos a escolaridade obrigatória na escola que, na sua área de residência, ministra o respectivo ciclo de ensino;\n\nb) O professor ou professores responsáveis pelo ensino devem ser portadores de habilitação profissional para a docência da área curricular ou disciplina que ministrem;\n\nc) A frequência do ensino doméstico apenas pode ser autorizada até ao 4.º ano de escolaridade;\n\nd) A família que pretende ministrar o ensino doméstico deve deter características de estabilidade e nível cultural compatíveis com os objectivos educativos fixados para o ensino básico, a avaliar pelo serviço de ilha de acção social;\n\ne) O encarregado de educação de um aluno sujeito a escolaridade obrigatória que frequente o ensino doméstico deve ser detentor de formação mínima equivalente ao ensino secundário, devidamente certificada;\n\nf) Os encarregados de educação dos alunos sujeitos a escolaridade obrigatória inscritos nas modalidades de ensino particular e doméstico estão obrigados a aceitar o acompanhamento e avaliação periódicos, a realizar pelo menos uma vez em cada período lectivo, pelo estabelecimento de educação onde se encontram inscritos;\n\ng) No termo de cada ciclo de escolaridade, os alunos a que se refere o número anterior estão obrigados à realização de exame como autopropostos, nos termos legais e regulamentares fixados para tal.\n\n3 - Verificadas as condições estabelecidas pelo número anterior, a autorização para frequência do ensino individual e doméstico é concedida, a requerimento do encarregado de educação, pelo director regional competente em matéria de educação."
+  },
+  "164933547": {
+   "fragment_id": "164933472",
+   "type": 1,
+   "heading": "Capítulo XIII — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Regime contra-ordenacional"
+  },
+  "164933548": {
+   "fragment_id": "164933473",
+   "type": 11,
+   "heading": "Artigo 112.º — Falta de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Falta de autorização\n\n1 - Os serviços inspectivos da educação devem solicitar às autoridades administrativas e policiais competentes o encerramento das valências educativas privadas, incluindo as creches, infantários, jardins-de-infância e centros de actividades de tempos livres, que não possuam autorização provisória ou definitiva de funcionamento emitida nos termos do presente diploma.\n\n2 - Àquelas entidades, além do encerramento, é aplicada, pelo departamento da administração regional autónoma competente em matéria de educação, coima entre 4 e 40 salários mínimos nacionais."
+  },
+  "164933549": {
+   "fragment_id": "164933474",
+   "type": 11,
+   "heading": "Artigo 113.º — Sanções a aplicar às entidades proprietárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Sanções a aplicar às entidades proprietárias\n\n1 - Às entidades proprietárias de valências educativas privadas que violem o disposto no presente diploma podem ser aplicadas, pelo departamento da administração regional autónoma competente em matéria de educação, as seguintes sanções, de acordo com a natureza e a gravidade da violação:\n\na) Advertência;\n\nb) Coima;\n\nc) Encerramento da escola por período até dois anos;\n\nd) Encerramento definitivo.\n\n2 - A pena de advertência é aplicada em casos de incumprimento de determinações legais não susceptíveis de comprometerem o normal funcionamento da escola, a inscrição ou o aproveitamento dos alunos.\n\n3 - A pena de multa de valor entre 2 e 20 salários mínimos nacionais é aplicada às pessoas singulares ou colectivas titulares de estabelecimentos de ensino particular e cooperativo que violem disposições legais, nomeadamente quando:\n\na) Violem o estabelecido no presente diploma relativo à publicidade das escolas;\n\nb) Suspendam, sem a necessária comunicação ao departamento da administração regional autónoma competente em matéria de educação, quer o funcionamento da escola quer algum curso ou nível de ensino;\n\nc) Não prestem as informações solicitadas, nos termos da lei, pelo departamento da administração regional autónoma competente em matéria de educação;\n\nd) Não dotem o estabelecimento do respectivo regulamento;\n\ne) Não cumpram as regras estabelecidas para constituição dos órgãos pedagógicos e designação do director/direcção técnico-pedagógica, bem como para a contratação do pessoal docente;\n\nf) Não zelem pela segurança e conservação da documentação relativa ao funcionamento do estabelecimento, nomeadamente a relativa a alunos;\n\ng) Apliquem indevidamente os apoios financeiros concedidos;\n\nh) Excedam o número máximo de alunos ou não cumpram as demais especificações previstas na autorização de funcionamento concedida pelo departamento da administração regional autónoma competente em matéria de educação;\n\ni) Pratiquem reiteradamente os actos descritos no número anterior.\n\n4 - A sanção de encerramento de um estabelecimento de ensino particular e cooperativo por período até dois anos lectivos é aplicada em casos graves de incumprimento das disposições legais, nomeadamente:\n\na) Quando o funcionamento do estabelecimento decorrer em condições de manifesta degradação pedagógica ou desvirtuamento das suas finalidades educacionais;\n\nb) Quando ocorram outras perturbações graves no funcionamento do estabelecimento que impliquem o desaparecimento dos pressupostos em que se fundamenta a autorização de funcionamento, em especial no tocante à salubridade e segurança;\n\nc) Quando, reiteradamente, pratiquem actos puníveis nos termos do número anterior.\n\n5 - A sanção de encerramento definitivo é aplicada quando, decorrido o período de encerramento temporário, não forem repostas as condições normais de funcionamento do estabelecimento ou quando, reiteradamente, sejam praticados actos puníveis nos termos do número anterior."
+  },
+  "164933550": {
+   "fragment_id": "164933575",
+   "type": 11,
+   "heading": "Artigo 114.º — Sanções a aplicar aos directores técnico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Sanções a aplicar aos directores técnico-pedagógicos\n\n1 - Aos directores técnico-pedagógicos podem ser aplicadas, pelo departamento da administração regional autónoma competente em matéria de educação, as seguintes sanções:\n\na) Advertência;\n\nb) Coima;\n\nc) Suspensão de funções por período de um mês a um ano.\n\n2 - A pena de advertência é aplicada aos directores técnico-pedagógicos em casos de incumprimento de determinações legais ou pedagógicas não susceptíveis de comprometerem o normal funcionamento da escola ou o aproveitamento dos alunos.\n\n3 - A coima de valor entre 1 e 10 salários mínimos nacionais é aplicada aos directores técnico-pedagógicos em casos de incumprimento de determinações legais ou pedagógicas, nomeadamente, quando:\n\na) Não promovam o cumprimento dos planos e programas de estudos;\n\nb) Não respeitem as regras estabelecidas para os actos de matrícula, inscrição e avaliação dos alunos;\n\nc) Não cumpram as regras estabelecidas para a feitura dos horários;\n\nd) Não prestem as informações solicitadas, nos termos da lei, pelo departamento da administração regional autónoma competente em matéria de educação;\n\ne) Não assegurem a guarda e conservação da documentação em uso na escola;\n\nf) Não enviem ao departamento da administração regional autónoma competente em matéria de educação, nas datas estabelecidas, as relações de docentes e alunos, nomeadamente as relativas a matrículas e aproveitamento;\n\ng) Não usem na sua relação funcional com alunos, colegas e encarregados de educação do necessário respeito e correcção;\n\nh) Pratiquem reiteradamente os actos descritos no número anterior.\n\n4 - A pena de suspensão de funções pode ter a duração de um mês a um ano e é aplicada aos directores técnico-pedagógicos em caso de negligência grave ou grave desinteresse pelo cumprimento dos seus deveres profissionais, nomeadamente quando:\n\na) Prestem ao departamento da administração regional autónoma competente em matéria de educação declarações falsas relativas a si próprios ou relativas ao corpo docente e discente;\n\nb) Demonstrem falta de isenção e imparcialidade no exercício das suas funções, nomeadamente em matéria relativa à avaliação dos alunos;\n\nc) Não cumpram as obrigações que lhes cabem decorrentes dos contratos e apoios financeiros estabelecidos pela administração regional autónoma;\n\nd) Não cumpram as condições estabelecidas para a autonomia e o paralelismo pedagógico;\n\ne) Incumpram as suas obrigações de velar pela qualidade do ensino e de zelar pela educação e disciplina dos alunos;\n\nf) Pratiquem, reiteradamente, as infracções previstas no número anterior."
+  },
+  "164933551": {
+   "fragment_id": "164933576",
+   "type": 11,
+   "heading": "Artigo 115.º — Exercício de funções docentes sem habilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115.º — Exercício de funções docentes sem habilitação\n\n1 - O exercício de funções docentes em valências educativas privadas por quem não esteja habilitado ou autorizado é punido com coima entre o valor de um e quatro salários mínimos regionais.\n\n2 - A leccionação em nível de ensino ou disciplina por quem não esteja habilitado ou autorizado é passível da coima entre o valor de um e três salários mínimos regionais."
+  },
+  "164933552": {
+   "fragment_id": "164933577",
+   "type": 11,
+   "heading": "Artigo 116.º — Aplicação das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 116.º — Aplicação das sanções\n\nA aplicação das sanções previstas no presente diploma é precedida de processo contra-ordenacional, a instaurar pela direcção regional competente em matéria de educação e a instruir pelos serviços inspectivos da educação."
+  },
+  "164933553": {
+   "fragment_id": "164933578",
+   "type": 11,
+   "heading": "Artigo 117.º — Aplicação e destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117.º — Aplicação e destino das coimas\n\n1 - A aplicação das penas cabe ao membro do Governo Regional competente em matéria de educação.\n\n2 - Os valores provenientes da cobrança das coimas são receita da Região Autónoma dos Açores."
+  },
+  "164933554": {
+   "fragment_id": "164933579",
+   "type": 11,
+   "heading": "Artigo 118.º — Incumprimento dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 118.º — Incumprimento dos contratos\n\n1 - Verificado o incumprimento dos requisitos referidos no artigo 9.º, ou sempre que o funcionamento da escola decorra em condições de manifesta degradação pedagógica, comprovada pela Inspecção Regional da Educação, é revogada a autorização de funcionamento.\n\n2 - Verificado o incumprimento das atribuições previstas nos artigos 20.º e 21.º do presente diploma, comprovado pela Inspecção Regional da Educação, pode ser revogada a autorização de funcionamento.\n\n3 - O incumprimento das obrigações contratuais assumidas em contratos de co-financiamento de qualquer natureza com a administração regional autónoma, bem como a existência de irregularidades financeiras graves, comprovadas pelos serviços inspectivos competentes, determina a imediata rescisão dos contratos, podendo ainda determinar a sanção referida no n.º 1 do presente artigo.\n\n4 - Provando-se as irregularidades referidas no número anterior, cessam imediatamente os benefícios previstos no presente diploma, bem como o estatuto referido no artigo 65.º do presente diploma."
+  },
+  "164933555": {
+   "fragment_id": "164933580",
+   "type": 1,
+   "heading": "Capítulo XIV — Normas finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIV — Normas finais e transitórias"
+  },
+  "164933556": {
+   "fragment_id": "164933581",
+   "type": 11,
+   "heading": "Artigo 119.º — Aplicação de legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 119.º — Aplicação de legislação\n\n1 - Na aplicação na Região Autónoma dos Açores do Decreto-Lei n.º 169/85, de 20 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 17/88, de 21 de Janeiro, e pelo Decreto-Lei n.º 57/89, de 22 de Fevereiro, as competências atribuídas à Direcção-Geral do Ensino Particular e Cooperativo ou à Direcção-Geral do Ensino Básico e Secundário são exercidas pela direcção regional competente em matéria de educação.\n\n2 - As competências atribuídas à Direcção-Geral do Ensino Básico e Secundário e aos serviços do Ministério da Educação pelo Decreto-Lei n.º 321/88, de 22 de Setembro, com as alterações introduzidas pelo Decreto-Lei n.º 179/90, de 5 de Junho, e pelo Decreto-Lei n.º 142/92, de 17 de Julho, são exercidas pela direcção regional competente em matéria de educação.\n\n3 - As obrigações e competências atribuídas ao Estado pela Lei n.º 9/79, de 19 de Março, são exercidas na Região Autónoma dos Açores pela administração regional autónoma através do departamento competente em matéria de educação."
+  },
+  "164933557": {
+   "fragment_id": "164933582",
+   "type": 11,
+   "heading": "Artigo 120.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 120.º — Normas transitórias\n\n1 - Os docentes que sejam detentores dos diplomas e certificados de docência do ensino particular, emitidos nos termos do Decreto-Lei n.º 553/80, de 21 de Novembro, mantêm a habilitação que lhe foi conferida.\n\n2 - As autorizações de funcionamento em regime de paralelismo pedagógico concedidas até à entrada em vigor do presente diploma são válidas até ao termo do prazo por que foram concedidas, aplicando-se à sua renovação o disposto no presente diploma.\n\n3 - Os contratos assinados ao abrigo dos regulamentos ora revogados são mantidos em vigor sem qualquer alteração.\n\n4 - Enquanto não entrar em vigor o diploma previsto no n.º 4 do artigo 110.º, mantém-se em vigor o Decreto Regulamentar Regional n.º 4/2002/A, de 21 de Janeiro.\n\n5 - Mantém-se em vigor o Estatuto dos Estabelecimentos de Educação Pré-Escolar, aprovado pelo Decreto Regulamentar Regional n.º 17/2001/A, de 29 de Novembro."
+  },
+  "164933558": {
+   "fragment_id": "164933583",
+   "type": 11,
+   "heading": "Artigo 121.º — Adequação dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 121.º — Adequação dos estabelecimentos\n\nOs estabelecimentos criados ao abrigo da legislação anterior dispõem de um prazo de um ano a contar da data da publicação do presente diploma para procederem à eventual reestruturação dos seus órgãos decorrente do regime ora estabelecido."
+  },
+  "164933559": {
+   "fragment_id": "164933584",
+   "type": 11,
+   "heading": "Artigo 122.º — Escola Profissional de Capelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 122.º — Escola Profissional de Capelas\n\n(Revogado.)"
+  },
+  "164933560": {
+   "fragment_id": "164933585",
+   "type": 11,
+   "heading": "Artigo 123.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 123.º — Revogação\n\nSão revogados:\n\na) O Decreto Legislativo Regional n.º 14/98/A, de 4 de Agosto;\n\nb) O Decreto Legislativo Regional n.º 30/2000/A, de 11 de Agosto;\n\nc) O Decreto Regulamentar Regional n.º 35/81/A, de 21 de Julho;\n\nd) O Decreto Regulamentar Regional n.º 9/86/A, de 3 de Abril;\n\ne) A Portaria n.º 58/81, de 31 de Dezembro;\n\nf) A Portaria n.º 35/2002, de 11 de Abril;\n\ng) A Portaria n.º 88/2004, de 4 de Novembro;\n\nh) O Despacho Normativo n.º 16/2002, de 11 de Abril."
+  },
+  "210749881": {
+   "fragment_id": "164926323",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-03-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 10/2023/A - Diário da República n.º 56/2023, Série I de 2023-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-210488520), em vigor a partir de 2023-03-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma altera o Decreto Legislativo Regional n.º 26/2005/A, de 4 de Novembro, reestruturando a Escola Profissional de Capelas e completando o processo da sua integração no sistema educativo regional.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 10/2023/A - Diário da República n.º 56/2023, Série I de 2023-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-210488520), em vigor a partir de 2023-03-21"
+  },
+  "210749882": {
+   "fragment_id": "164926325",
+   "type": 11,
+   "heading": "Artigo 3.º — Normas transitórias",
+   "in_force_from": "2023-03-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 10/2023/A - Diário da República n.º 56/2023, Série I de 2023-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-210488520), em vigor a partir de 2023-03-21"
+   ],
+   "markdown": "###### Artigo 3.º — Normas transitórias\n\n1 - São mantidas até ao seu termo as comissões de serviço dos actuais membros do conselho administrativo da Escola Profissional de Capelas, passando a constituir a comissão executiva instaladora da unidade orgânica.\n\n2 - À comissão executiva instaladora compete dar execução ao disposto no n.º 3 do artigo 12.º do Regime Jurídico da Criação, Autonomia e Gestão das Unidades Orgânicas do Sistema Educativo, aprovado pelo Decreto Legislativo Regional n.º 12/2005/A, de 16 de Junho, com as alterações que lhe foram introduzidas pelo Decreto Legislativo Regional n.º 35/2006/A, de 6 de Setembro.\n\n3 - Na eventualidade da cessação do mandato de qualquer dos membros da comissão executiva instaladora antes de terminado o período de instalação, o membro cessante será substituído nos termos do artigo 12.º do Regime Jurídico referido no número anterior.\n\n4 - Até à instalação do Conselho Pedagógico mantém-se em funções o conselho técnico-pedagógico previsto no Decreto Regulamentar Regional n.º 1/2002/A, de 7 de Janeiro, passando a exercer as competências legalmente previstas para aquele órgão.\n\n5 - Os membros do conselho administrativo que sejam funcionários públicos, em funções à data de entrada em vigor do presente diploma, podem optar por integrar o quadro de pessoal da Escola Profissional de Capelas, na carreira docente ou técnica superior, consoante aquela em que estejam integrados, em lugares criados automaticamente para o efeito e a extinguir quando vagarem.\n\n6 - O património afecto à Escola Profissional de Capelas reingressa, com dispensa de qualquer formalidade, no património da Região Autónoma dos Açores.\n\n7 - Todos os activos e passivos financeiros da Escola Profissional de Capelas, bem como as dotações orçamentais inscritas a seu favor, transitam, com dispensa de quaisquer formalidades, para o fundo escolar da Escola Profissional de Capelas.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 10/2023/A - Diário da República n.º 56/2023, Série I de 2023-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2023-210488520), em vigor a partir de 2023-03-21"
+  },
+  "164926403": {
+   "fragment_id": "164926328",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de Janeiro de 2008.\n\nO Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 22 de Fevereiro de 2007.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  }
+ }
+}

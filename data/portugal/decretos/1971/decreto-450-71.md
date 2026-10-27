@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:633940:por
+title: Decreto n.º 450/71
+short_title: null
+summary: Reestrutura os quadros do pessoal do Jardim e Museu Agrícola do Ultramar
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: 450/71
+official_date: null
+publication_date: '1971-10-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 252/1971, Série I de 1971-10-26
+  number: '252'
+  series: I
+  supplement: null
+  pages: 1612 - 1614
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/10/25200/16121614.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '633940'
+  dre_path: /dr/detalhe/decreto/450-1971-633940
+  internal: pt:dre:633940:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/450-1971-633940
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/450-1971-633940
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 655215506e875a8973e7b5bdcd3c1531d0862ba9922377ea161e191c89bc7e57
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:19:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:19:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 450/71
+
+de 26 de Outubro
+
+Havendo necessidade de reestruturar os quadros do pessoal do Jardim e Museu Agrícola do Ultramar, de forma a obter-se mais perfeita realização dos seus fins;
+
+Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituição;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º O Jardim e Museu Agrícola do Ultramar dispõe, como organismo dependente do Ministério do Ultramar, dos quadros de pessoal constantes do mapa anexo ao presente diploma.
+
+Art. 2.º O director do Jardim e Museu Agrícola do Ultramar tem categoria correspondente à letra D do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e é provido por livre escolha do Ministro do Ultramar em agrónomo ou silvicultor dos serviços ultramarinos da mesma categoria, da imediatamente inferior, ou simplesmente com doze anos de exercício da profissão em que tenha revelado especial competência.
+
+Art. 3.º - 1. O lugar de agrónomo ou silvicultor é provido, na 3.ª classe, mediante concurso entre diplomados com o curso superior de Agronomia ou Silvicultura que reúnam as condições gerais para o exercício da função pública.
+
+2. Após cinco anos de bom e efectivo serviço na classe, o agrónomo ou silvicultor pode ser promovido à classe imediata, sob proposta do director.
+
+3. Mediante a apresentação de trabalhos científicos originais realizados no Jardim e Museu Agrícola do Ultramar ou em colaboração com um organismo científico e com parecer favorável de um júri constituído pelo director e por funcionários superiores dos Ministérios do Ultramar e da Economia e professores do Instituto Superior de Agronomia, a promoção à classe imediata poderá efectuar-se após três anos de bom e efectivo serviço na classe inferior.
+
+4. Sempre que vague o lugar de agrónomo ou silvicultor, o seu provimento será feito na 1.ª classe e por escolha do Ministro do Ultramar, ouvido o director do Jardim e Museu Agrícola do Ultramar, entre agrónomos e silvicultores de 1.ª classe dos serviços ultramarinos ou por concurso entre agrónomo e silvicultores de 2.ª classe dos mesmos serviços com pelo menos três anos de efectivo exercício nesta categoria.
+
+5. No caso do número anterior se, aberto concurso, ficar deserto, será logo realizado outro nos termos do n.º 1 do presente artigo.
+
+Art. 4.º - 1. Os lugares de biólogo de 3.ª classe são providos mediante concurso entre diplomados com o curso superior de Agronomia, Silvicultura ou Ciências Biológicas que reúnam as condições gerais para o exercício da função pública.
+
+2. À promoção às classes imediatas, nos lugares de biólogo, são aplicáveis os n.os 2 e 3 do artigo anterior.
+
+Art. 5.º - 1. Os lugares de regente agrícola de 3.ª classe são providos mediante concurso entre diplomados com o curso de regente agrícola que reúnam as condições gerais para o exercício da função pública.
+
+2. Após cinco anos de bom e efectivo serviço na classe, os regentes agrícolas podem ser promovidos à classe imediata, sob proposta do director.
+
+Art. 6.º - 1. O lugar de desenhador de 3.ª classe é provido mediante concurso de provas práticas entre indivíduos habilitados com o curso de desenhador de uma escola industrial que reúnam as condições gerais para o exercício de função pública.
+
+2. Após três anos de bom e efectivo serviço em cada classe, o desenhador pode ser promovido à classe imediata, sob proposta do director do Jardim e Museu Agrícola do Ultramar.
+
+Art. 7.º - 1. Os lugares de auxiliar técnico são providos, mediante proposta do director do Jardim e Museu Agrícola do Ultramar, por promoção dos auxiliares com a habilitação mínima do curso geral dos liceus ou equivalente e, pelo menos, três anos de bom e efectivo serviço na categoria.
+
+2. Os auxiliares técnicos com três anos de bom e efectivo serviço na categoria ascenderão à correspondente à letra imediata por proposta do director e, nas mesmas condições, sucessivamente à categoria das letras seguintes, até à letra N, inclusive.
+
+Art. 8.º - 1. Os lugares de auxiliar são providos, mediante concurso de provas práticas ou proposta fundamentada do director do Jardim e Museu Agrícola do Ultramar, entre indivíduos com a habilitação da 4.ª classe da instrução primária que reúnam as condições gerais para o exercício da função pública.
+
+2. Os auxiliares com três anos de bom e efectivo serviço e aprovação em provas práticas passam a vencer pela letra T e sucessivamente pelas seguintes até à letra R, inclusive, após cada período de três anos de bom e efectivo serviço.
+
+3. Na primeira promoção, os auxiliares que tenham completado um ciclo liceal ou das escolas técnicas no decurso dos três anos referidos no número anterior ou que já o possuam à data da publicação deste diploma ascenderão em categoria correspondente a duas letras.
+
+Art. 9.º - 1. O pessoal administrativo do Jardim e Museu Agrícola do Ultramar pertence aos quadros do pessoal administrativo do Ministério do Ultramar, sendo o seu provimento feito nos termos da legislação em vigor.
+
+2. Ao funcionário que, por designação do director do Jardim e Museu Agrícola do Ultramar, desempenhar funções de tesoureiro, claviculário e responsável pelos valores será concedido o abono para falhas que vier a ser fixado por despacho do Ministro do Ultramar.
+
+Art. 10.º - 1. O lugar de telefonista de 2.ª classe é provido mediante proposta do director do Jardim e Museu Agrícola do Ultramar.
+
+2. Após cinco anos de bom e efectivo serviço poderá o telefonista de 2.ª classe ser promovido à 1.ª classe.
+
+Art. 11.º - 1. O lugar de contínuo de 2.ª classe é provido, em regra, entre o pessoal de guarda do Jardim e Museu Agrícola do Ultramar, mediante proposta do respectivo director.
+
+2. Após cinco anos de bom e efectivo serviço no lugar, o contínuo de 2.ª classe será promovido à 1.ª classe.
+
+Art. 12.º Os lugares de porteiro de 2.ª classe e guarda de 2.ª classe são providos mediante proposta do director do Jardim e Museu Agrícola do Ultramar e promovidos à 1.ª classe após cinco anos de bom e efectivo serviço.
+
+Art. 13.º - 1. O pessoal assalariado, designadamente constituído por guardas femininos, capatazes, subcapatazes, carpinteiros, jardineiros e trabalhadores não especificados, é admitido e dispensado pelo director do Jardim e Museu Agrícola do Ultramar consoante as disponibilidades financeiras e as conveniências do serviço.
+
+2. As tabelas de salários são aprovadas por despacho do Ministro do Ultramar.
+
+Art. 14.º - 1. Os funcionários actualmente em serviço no Jardim e Museu Agrícola do Ultramar serão integrados nas qualificações a que correspondam no mapa anexo a este diploma, segundo a forma de provimento nele prevista, mediante despacho do Ministro do Ultramar, a anotar pelo Tribunal de Contas, e contando-se a antiguidade na nova categoria e provimento a partir da data da sua publicação no Diário do Governo, mantendo-se até lá na situação em que se encontram.
+
+2. Os lugares cuja designação no mapa anexo ao presente diploma não seja igual às actualmente existentes têm a correspondência seguinte: botânico chefe de culturas a agrónomo ou silvicultor; botânico-ajudante a biólogo; jardineiro-chefe e terceiro-conservador a regente agrícola; desenhador principal a desenhador; encarregado da conservação do herbário a auxiliar técnico; auxiliar do herbário, ajudante do conservador, encarregado da biblioteca e auxiliar de campo a auxiliar; secretário a chefe de secção.
+
+3. Os escriturários-dactilógrafos que já sejam de nomeação definitiva manterão essa forma de provimento, em vez da prevista no mapa anexo.
+
+Art. 15.º Compete ao director do Jardim e Museu Agrícola do Ultramar providenciar quanto à oportuna organização de concursos necessários à admissão ou promoção do pessoal.
+
+Art. 16.º Os funcionários do quadro de pessoal dirigente e técnico apresentarão, anualmente, ao director do Jardim e Museu Agrícola do Ultramar, para apreciação, um relatório da actividade técnica por cada um realizada ao longo do ano.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 2 de Outubro de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
+
+MAPA ANEXO
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/25200/16121614.pdf)
+
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

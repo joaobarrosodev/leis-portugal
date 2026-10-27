@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:552524:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-117434892",
+ "dre_path": "/dr/detalhe/decreto-lei/22-2006-552524",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-02-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117375650",
+    "117375651",
+    "117375652",
+    "117375653",
+    "117375654",
+    "117375655",
+    "117375656",
+    "117375657",
+    "117375658",
+    "117375659"
+   ]
+  },
+  {
+   "date": "2018-12-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117428717:por",
+     "title": "Decreto-Lei n.º 114/2018",
+     "published": "2018-12-18",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2018-117428717"
+    },
+    {
+     "id": "pt:dre:117428716:por",
+     "title": "Decreto-Lei n.º 113/2018",
+     "published": "2018-12-18",
+     "dre_path": "/dr/detalhe/decreto-lei/113-2018-117428716"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "117375650",
+    "117375651",
+    "117375652",
+    "117375653",
+    "224999764",
+    "224999766",
+    "117375656",
+    "117375657",
+    "224999763",
+    "117375659",
+    "117375660"
+   ]
+  }
+ ],
+ "fragments": {
+  "117375650": {
+   "fragment_id": "117434893",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 22/2006\n\nde 2 de Fevereiro\n\nA actividade em prol da protecção da natureza e do ambiente pelo dispositivo da Guarda Nacional Republicana iniciou-se há cerca de quatro anos com um protocolo bem sucedido entre os Ministérios da Administração Interna e do Ambiente. Desde então, o número de militares da Guarda que adquiriram formação específica, bem como o número de missões de fiscalização no âmbito da protecção da natureza e do ambiente e em cooperação com as entidades com competências legais na matéria, tem vindo a aumentar. Alargou-se a cooperação à protecção da riqueza cinegética, piscícola e florestal.\n\nProcede-se agora à consolidação institucional do Serviço de Protecção da Natureza e do Ambiente no âmbito orgânico da GNR, definindo-lhe as missões que decorrem também da atribuição do pessoal da carreira de guarda florestal oriundo da Direcção-Geral dos Recursos Florestais, que, integrado no quadro de pessoal civil da Guarda, reforça a sua capacidade de vigilância e fiscalização do território nacional.\n\nCorrespondendo a uma necessidade há muito sentida de existência de um corpo nacional, no Estado, altamente treinado e motivado e com grande capacidade de projecção para todo o território nacional, de intervenção em operações de protecção civil, é agora criado o Grupo de Intervenção de Protecção e Socorro (GIPS).\n\nRazões de racionalidade e eficiência económica, que desaconselhariam desde logo a criação de um serviço autónomo da Administração Pública, aliadas à capacidade organizativa e à natureza militar da Guarda Nacional Republicana, elegem esta força de segurança como a estrutura do Estado mais apta para formar e levantar, suportar administrativa e logisticamente e projectar com elevada prontidão para os locais de ocorrências o GIPS.\n\nEsta unidade é especialmente vocacionada para a prevenção e a intervenção de primeira linha em incêndios florestais e de matérias perigosas, inundações, sismos e outras catástrofes ou acidentes graves, actuando operacionalmente no quadro do sistema integrado de operações de protecção e socorro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Decreto-Lei n.º 247/2015 - Diário da República n.º 208/2015, Série I de 2015-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2015-70790241) altera a denominação da carreira florestal, do quadro de pessoal civil da Guarda Nacional Republicana, que passa a designar-se carreira de guarda-florestal."
+  },
+  "117375651": {
+   "fragment_id": "117434894",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei consagra, no âmbito da Guarda Nacional Republicana (GNR), o Serviço de Protecção da Natureza e do Ambiente (SEPNA) e cria o Grupo de Intervenção de Protecção e Socorro (GIPS), transferindo para aquela força de segurança o pessoal do Corpo de Guardas Florestais da Direcção-Geral dos Recursos Florestais e definindo os termos da coordenação desta força de segurança na estrutura nacional de protecção civil."
+  },
+  "117375652": {
+   "fragment_id": "117434895",
+   "type": 11,
+   "heading": "Artigo 2.º — Serviço de Protecção da Natureza e do Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Serviço de Protecção da Natureza e do Ambiente\n\nÉ consagrado o SEPNA que funciona na dependência do Comando-Geral da Guarda Nacional Republicana, através da Chefia do Serviço de Protecção da Natureza e do Ambiente (CSEPNA), ao qual compete:\n\na) Zelar pelo cumprimento das disposições legais e regulamentares referentes a conservação e protecção da natureza e do meio ambiente, dos recursos hídricos, dos solos e da riqueza cinegética, piscícola, florestal ou outra, previstas na legislação ambiental, bem como investigar e reprimir os respectivos ilícitos;\n\nb) Zelar pelo cumprimento da legislação florestal, da caça e da pesca, bem como investigar e reprimir os respectivos ilícitos;\n\nc) Assegurar a coordenação ao nível nacional da actividade de prevenção, vigilância e detecção de incêndios florestais e de outras agressões ao meio ambiente, nos termos definidos superiormente;\n\nd) Velar pela observância das disposições legais no âmbito sanitário e de protecção animal;\n\ne) Proteger e conservar o património natural, bem como colaborar na aplicação das disposições legais referentes ao ordenamento do território;\n\nf) Cooperar com entidades públicas e privadas, no âmbito da prossecução das suas competências;\n\ng) Promover e colaborar na execução de acções de formação, sensibilização, informação e educação em matéria ambiental, de conservação da natureza e da biodiversidade;\n\nh) Realizar as acções de vigilância e de fiscalização que lhe sejam solicitadas pela Direcção-Geral dos Recursos Florestais;\n\ni) Apoiar o sistema de gestão de informação de incêndios florestais (SGIF), colaborando para a actualização permanente dos dados."
+  },
+  "117375653": {
+   "fragment_id": "117434896",
+   "type": 11,
+   "heading": "Artigo 3.º — Recursos humanos do Serviço de Protecção da Natureza e do Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recursos humanos do Serviço de Protecção da Natureza e do Ambiente\n\n1 - O SEPNA dispõe, para a prossecução da sua missão, do pessoal militar do dispositivo territorial da Guarda com a formação adequada que lhe seja afecto.\n\n2 - O SEPNA dispõe igualmente do pessoal da carreira florestal previsto no n.º 3 do artigo 5.º\n\n3 - O programa de formação específica para o pessoal ao serviço do SEPNA é definido por portaria conjunta dos Ministros da Administração Interna, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, sob proposta do comandante-geral."
+  },
+  "117375654": {
+   "fragment_id": "117434897",
+   "type": 11,
+   "heading": "Artigo 4.º — Grupo de Intervenção de Protecção e Socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Grupo de Intervenção de Protecção e Socorro\n\n1 - É criado, na dependência do comando-geral da GNR, o GIPS.\n\n2 - O GIPS tem como missão específica a execução de acções de prevenção e de intervenção de primeira linha, em todo o território nacional, em situação de emergência de protecção e socorro, designadamente nas ocorrências de incêndios florestais ou de matérias perigosas, catástrofes e acidentes graves.\n\n3 - Sem prejuízo da dependência hierárquica e funcional no quadro da GNR, o GIPS articula-se operacionalmente no comando único do sistema integrado de operações de protecção e socorro.\n\n4 - Os militares que integram esta subunidade são dotados de formação específica geral de protecção e socorro e da formação especial que os habilita a intervir em diferentes cenários de emergência.\n\n5 - A coordenação da acção do GIPS no âmbito da estrutura de protecção civil é a regulada pela lei e efectiva-se pelos mecanismos definidos por portaria do Ministro da Administração Interna, ouvido o comandante-geral da GNR.\n\n6 - O GIPS é colocado para efeitos administrativos e logísticos em unidades da Guarda, em condições a definir por despacho do comandante-geral."
+  },
+  "117375655": {
+   "fragment_id": "117434898",
+   "type": 11,
+   "heading": "Artigo 5.º — Corpo Nacional da Guarda Florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Corpo Nacional da Guarda Florestal\n\n1 - É extinto, na Direcção-Geral dos Recursos Florestais (DGRF), o Corpo Nacional da Guarda Florestal, a que se refere o artigo 3.º do Decreto-Lei n.º 80/2004, de 10 de Abril, sem prejuízo da manutenção, como aí previsto, das competências de autoridade florestal naquela Direcção-Geral.\n\n2 - O pessoal da carreira de guardas florestais da DGRF transita para o quadro de pessoal civil da GNR, com a categoria, antiguidade e índice remuneratório que actualmente possui.\n\n3 - Para o efeito do número anterior, é criada, no quadro de pessoal civil da GNR, a carreira florestal, cujos lugares são extintos quando vagarem.\n\n4 - Ao pessoal da carreira florestal da Guarda é aplicável, com as necessárias adaptações, o regime definido no Decreto-Lei n.º 111/98, de 24 de Abril, com as alterações dos Decretos-Leis n.os 388/98, de 4 de Dezembro, e 278/2001, de 19 de Outubro."
+  },
+  "117375656": {
+   "fragment_id": "117434899",
+   "type": 11,
+   "heading": "Artigo 6.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Património\n\nOs bens móveis afectos ao funcionamento do actual Corpo Nacional da Guarda Florestal, bem como as instalações por ele ocupadas, são transferidos para a GNR."
+  },
+  "117375657": {
+   "fragment_id": "117434900",
+   "type": 11,
+   "heading": "Artigo 7.º — Quadro de pessoal civil da Guarda Nacional Republicana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Quadro de pessoal civil da Guarda Nacional Republicana\n\nO quadro de pessoal civil e respectivas carreiras da GNR são aprovados por portaria dos ministros com a tutela da administração interna, das finanças e da Administração Pública."
+  },
+  "117375658": {
+   "fragment_id": "117434901",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\n1 - Os Ministros da Administração Interna, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional definem, por portaria, os termos em que se processa a coordenação da actividade dos serviços dependentes dos respectivos ministérios, no âmbito da prevenção, vigilância e detecção e investigação das causas de incêndios florestais e de outras agressões ao meio ambiente e património natural, bem como na protecção dos espaços florestais e recursos associados.\n\n2 - Os Ministros da Administração Interna, das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas procedem, por despacho conjunto, à transferência do património a que se refere o artigo 6.º\n\n3 - Os Ministros da Administração Interna, das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas procedem, por despacho conjunto, à transferência das verbas orçamentais decorrentes da transição de pessoal prevista no artigo 5.º e da transferência de património prevista no artigo 6.º, bem como da sucessão dos respectivos direitos e obrigações.\n\n4 - O Ministro da Administração Interna define, por portaria, as alterações ao regulamento de uniformes dos guardas florestais decorrentes da integração na GNR, ouvido o comandante-geral.\n\n5 - O Ministro da Administração Interna, ouvido o comandante-geral da GNR, por despacho, declara operacional o GIPS, bem como as áreas territoriais de responsabilidade que progressivamente lhe são atribuídas."
+  },
+  "117375659": {
+   "fragment_id": "117434902",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a partir do dia 1 de Janeiro de 2006."
+  },
+  "224999764": {
+   "fragment_id": "117434897",
+   "type": 11,
+   "heading": "Artigo 4.º — Grupo de Intervenção de Protecção e Socorro",
+   "in_force_from": "2018-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 113/2018 - Diário da República n.º 243/2018, Série I de 2018-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2018-117428716), em vigor a partir de 2018-12-19"
+   ],
+   "markdown": "###### Artigo 4.º — Grupo de Intervenção de Protecção e Socorro\n\n1 - É criado, na dependência do comando-geral da GNR, o GIPS.\n\n2 - O GIPS tem como missão específica a execução de acções de prevenção e de intervenção de primeira linha, em todo o território nacional, em situação de emergência de protecção e socorro, designadamente nas ocorrências de incêndios florestais ou de matérias perigosas, catástrofes e acidentes graves.\n\n3 - Sem prejuízo da dependência hierárquica e funcional no quadro da GNR, o GIPS articula-se operacionalmente no comando único do sistema integrado de operações de protecção e socorro.\n\n4 - Os militares que integram esta subunidade são dotados de formação específica geral de protecção e socorro e da formação especial que os habilita a intervir em diferentes cenários de emergência.\n\n5 - A coordenação da acção do GIPS no âmbito da estrutura de protecção civil é a regulada pela lei e efectiva-se pelos mecanismos definidos por portaria do Ministro da Administração Interna, ouvido o comandante-geral da GNR.\n\n6 - O GIPS é colocado para efeitos administrativos e logísticos em unidades da Guarda, em condições a definir por despacho do comandante-geral.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 113/2018 - Diário da República n.º 243/2018, Série I de 2018-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2018-117428716), em vigor a partir de 2018-12-19"
+  },
+  "224999766": {
+   "fragment_id": "117434898",
+   "type": 11,
+   "heading": "Artigo 5.º — Corpo Nacional da Guarda Florestal",
+   "in_force_from": "2018-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2018 - Diário da República n.º 243/2018, Série I de 2018-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2018-117428717), em vigor a partir de 2018-12-19"
+   ],
+   "markdown": "###### Artigo 5.º — Corpo Nacional da Guarda Florestal\n\n1 - É extinto, na Direcção-Geral dos Recursos Florestais (DGRF), o Corpo Nacional da Guarda Florestal, a que se refere o artigo 3.º do Decreto-Lei n.º 80/2004, de 10 de Abril, sem prejuízo da manutenção, como aí previsto, das competências de autoridade florestal naquela Direcção-Geral.\n\n2 - O pessoal da carreira de guardas florestais da DGRF transita para o quadro de pessoal civil da GNR, com a categoria, antiguidade e índice remuneratório que actualmente possui.\n\n3 - Para o efeito do número anterior é criada, no quadro de pessoal civil da GNR, a carreira de guarda-florestal.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2018 - Diário da República n.º 243/2018, Série I de 2018-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2018-117428717), em vigor a partir de 2018-12-19"
+  },
+  "224999763": {
+   "fragment_id": "117434901",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": "2018-12-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 113/2018 - Diário da República n.º 243/2018, Série I de 2018-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2018-117428716), em vigor a partir de 2018-12-19"
+   ],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\n1 - Os Ministros da Administração Interna, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional definem, por portaria, os termos em que se processa a coordenação da actividade dos serviços dependentes dos respectivos ministérios, no âmbito da prevenção, vigilância e detecção e investigação das causas de incêndios florestais e de outras agressões ao meio ambiente e património natural, bem como na protecção dos espaços florestais e recursos associados.\n\n2 - Os Ministros da Administração Interna, das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas procedem, por despacho conjunto, à transferência do património a que se refere o artigo 6.º\n\n3 - Os Ministros da Administração Interna, das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas procedem, por despacho conjunto, à transferência das verbas orçamentais decorrentes da transição de pessoal prevista no artigo 5.º e da transferência de património prevista no artigo 6.º, bem como da sucessão dos respectivos direitos e obrigações.\n\n4 - O Ministro da Administração Interna define, por portaria, as alterações ao regulamento de uniformes dos guardas florestais decorrentes da integração na GNR, ouvido o comandante-geral.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 113/2018 - Diário da República n.º 243/2018, Série I de 2018-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2018-117428716), em vigor a partir de 2018-12-19"
+  },
+  "117375660": {
+   "fragment_id": "117434903",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.\n\nPromulgado em 23 de Janeiro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Janeiro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

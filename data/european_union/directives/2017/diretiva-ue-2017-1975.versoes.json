@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32017L1975:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017L1975-20171031",
+ "dre_path": null,
+ "source_lastmod": "2017-10-31",
+ "versions": [
+  {
+   "date": "2017-10-31",
+   "future": false,
+   "celex": "02017L1975-20171031",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "df561b85a94eb4e6",
+    "1f4b20144909faf0",
+    "ae156380d465cec3",
+    "9109a091b79074a2",
+    "2f5f74d06075f822",
+    "6d55b7bc3f5b03f9"
+   ]
+  }
+ ],
+ "fragments": {
+  "df561b85a94eb4e6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de agosto de 2017\n\nque altera, para efeitos de adaptação ao progresso científico e técnico, o anexo III da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho no que diz respeito a uma isenção relativa à utilização de cádmio em díodos emissores de luz (LED) de conversão de cor para sistemas de visualização\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "1f4b20144909faf0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo III da Diretiva 2011/65/UE é alterado em conformidade com o anexo da presente diretiva."
+  },
+  "ae156380d465cec3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem adotar e publicar, até 20 de novembro de 2018, o mais tardar, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir de 21 de novembro de 2018.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados Membros estabelecem o modo como deve ser feita a referência.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "9109a091b79074a2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "2f5f74d06075f822": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  },
+  "6d55b7bc3f5b03f9": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nNo anexo III da Diretiva 2011/65/UE, o ponto 39 é substituído pelo seguinte ponto:\n\n| «39 a) | Seleneto de cádmio nos pontos quânticos de nanocristais semicondutores à base de cádmio em retrogradação para utilização na retroiluminação de monitores (< 0,2 μg de Cd por mm^2^ de área do ecrã) | [**►C1**](http://publications.europa.eu/resource/celex/32017L1975R%2801%29) Caduca, para todas as categorias, a 31 de outubro de 2019.**◄**» |\n| --- | --- | --- |"
+  }
+ }
+}

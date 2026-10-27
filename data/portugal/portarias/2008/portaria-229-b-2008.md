@@ -1,0 +1,1211 @@
+---
+schema_version: '1.0'
+id: pt:dre:226244:por
+title: Portaria n.º 229-B/2008
+short_title: null
+summary: Aprova o Regulamento de Aplicação da Medida n.º 2.2, «Valorização de Modos de Produção», do Subprograma n.º 2 do
+  Programa de Desenvolvimento Rural do Continente (PRODER), Que Integra a Acção n.º 2.2.1, Designada «Alteração de Modos de
+  Produção Agrícola», e a Acção n.º 2.2.2, Designada «Protecção da Biodiversidade Doméstica»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 229-B/2008
+official_date: null
+publication_date: '2008-03-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 47/2008, 2º Suplemento, Série I de 2008-03-06
+  number: '47'
+  series: I
+  supplement: 2º Suplemento
+  pages: 1434-(8) a 1434-(22)
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04702/0000800022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-01-30'
+version_history:
+  file: portaria-229-b-2008.versoes.json
+  count: 6
+  source_lastmod: '2025-06-17'
+  versions:
+  - date: '2008-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-24'
+    amending: pt:dre:619768:por
+    amending_title: Portaria n.º 427-A/2009
+    changes:
+    - Adita Capítulo III-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 18.º-B
+    - Adita Artigo 18.º-C
+    - Adita Artigo 18.º-D
+    - Adita Artigo 18.º-E
+    - Adita Anexo XIII
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+    - Altera Anexo VII
+    - Altera Anexo IX
+    - Altera Anexo XI
+    - Revoga Artigo 10.º
+    - Revoga Anexo X
+  - date: '2010-08-28'
+    amending: pt:dre:343948:por
+    amending_title: Portaria n.º 814/2010
+    changes:
+    - Adita Artigo 18.º-F
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º-A
+    - Altera Artigo 18.º-B
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo V
+    - Altera Anexo VII
+    - Altera Anexo VIII
+    - Altera Anexo IX
+    - Altera Anexo XI
+  - date: '2013-02-05'
+    amending: pt:dre:258082:por
+    amending_title: Portaria n.º 47/2013
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º-C
+    - Altera Artigo 18.º-F
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Anexo V
+    - Altera Anexo VII
+    - Altera Anexo VIII
+    - Altera Anexo XI
+  - date: '2013-04-02'
+    amending: pt:dre:260105:por
+    amending_title: Portaria n.º 137/2013
+    changes:
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+  - date: '2014-01-30'
+    amending: pt:dre:570683:por
+    amending_title: Portaria n.º 19/2014
+    changes:
+    - Altera Artigo 24.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/229-b/2008/p/cons/20140129/pt/html
+  oj: null
+  dre: '226244'
+  dre_path: /dr/detalhe/portaria/229-b-2008-226244
+  internal: pt:dre:226244:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-b-2008-226244
+  metadata_url: https://data.dre.pt/eli/port/229-b/2008/p/cons/20140129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-169421470
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-169421470
+  retrieved_at: '2026-10-22T13:29:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-17T00:00:00Z'
+integrity:
+  source_sha256: e257b35fcd018bae4e8890660bd0321a589064fd8c5293657c693fd1200d5070
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:29:35Z'
+  notes: 6 versão(ões); histórico completo em portaria-229-b-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proder
+- Financiamento
+- Desenvolvimento Rural
+- Feader
+- Reconversão da Produção
+- Apoio ao Investimento
+- Projeto de Investimento
+- IFAP
+- Agricultor
+- Produção Agrícola
+- Regulamento
+- Agricultura
+relationships:
+- type: amended_by
+  target: pt:dre:619768:por
+  label: Adita Capítulo III-A; Adita Artigo 18.º-A; Adita Artigo 18.º-B; Adita Artigo 18.º-C; Adita Artigo 18.º-D; Adita Artigo
+    18.º-E; Adita Anexo XIII; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º;
+    Altera Artigo 16.º; Altera Artigo 20.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 26.º; Altera Artigo 27.º;
+    Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768
+  date: '2009-04-23'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: Adita Artigo 18.º-F; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 12.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 18.º-A; Altera Artigo 18.º-B; Altera Artigo
+    20.º; Altera Artigo 22.º; Altera Artigo 26.º; Altera Anexo I; Altera Anexo II; Altera Anexo V; Altera Anexo VII; Altera
+    Anexo VIII; Altera Anexo IX
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:258082:por
+  label: Altera Artigo 3.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 16.º; Altera Artigo 18.º-C; Altera Artigo
+    18.º-F; Altera Artigo 19.º; Altera Artigo 22.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Anexo V; Altera Anexo VII;
+    Altera Anexo VIII; Altera Anexo XI
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082
+  date: '2013-02-04'
+- type: amended_by
+  target: pt:dre:260105:por
+  label: Altera Artigo 22.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/137-2013-260105
+  date: '2013-04-01'
+- type: amended_by
+  target: pt:dre:570683:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/19-2014-570683
+  date: '2014-01-29'
+- type: cites
+  target: celex:31975L0268
+  label: null
+  source: http://data.europa.eu/eli/dir/1975/268/oj
+- type: cites
+  target: celex:31991L0676
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/676/oj
+- type: cites
+  target: celex:32003R1782
+  label: null
+  source: http://data.europa.eu/eli/reg/2003/1782/oj
+- type: cites
+  target: celex:32004R0796
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/796/oj
+- type: cites
+  target: celex:32005R1698
+  label: null
+  source: http://data.europa.eu/eli/reg/2005/1698/oj
+- type: cites
+  target: celex:32006R1974
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1974/oj
+- type: cites
+  target: celex:32006R1975
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: cites
+  target: celex:32009R0073
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R1122
+  label: null
+  source: null
+- type: cites
+  target: celex:32011R0065
+  label: null
+  source: null
+article_structure:
+  article_count: 38
+  section_count: 21
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:29:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 229-B/2008
+
+Portaria n.º 229-B/2008
+
+de 6 de Março
+
+O Regulamento (CE) n.º <a href="eurlex.asp?ano=2005&id=305R1698" title="Link para Regulamento da Comunidade Europeia">1698/2005</a>, do Conselho, de 20 de Setembro, que estabelece as regras gerais do apoio ao desenvolvimento rural sustentável, tem como objectivo, designadamente, a melhoria do ambiente e da paisagem rural.
+
+A medida n.º 2.2, «Valorização de modos de produção», do Programa de Desenvolvimento Rural do Continente, designado por PRODER, que visa promover a adopção de formas de exploração das terras agrícolas com benefícios ambientais ao nível da água, do solo e do ar e a utilização sustentada dos recursos genéticos autóctones, insere-se neste objectivo.
+
+Os apoios são concedidos aos agricultores que pratiquem na sua unidade de produção o modo de produção integrada (PRODI) ou o modo de produção biológico (MPB) e aos criadores de raças autóctones ameaçadas de extinção.
+
+Os pagamentos agro-ambientais visam compensar os gastos adicionais resultantes dos novos patamares de exigência destes modos de produção.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:
+
+###### Artigo 1.º
+
+É aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Medida n.º 2.2, 'Valorização de Modos de Produção', do Subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER, que integra a acção n.º 2.2.1, designada 'Alteração de modos de produção agrícola', a acção n.º 2.2.2, designada 'Protecção da biodiversidade doméstica', e a acção n.º 2.2.4, 'Conservação do solo'.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 2.º
+
+O regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:
+
+a) Anexo i, relativo à tabela de conversão em cabeças normais (CN);
+
+b) Anexo ii, relativo a práticas culturais e de gestão relacionadas com a preservação dos recursos naturais;
+
+c) Anexo iii, relativo aos montantes do apoio estabelecidos por tipo de cultura e modulados em função da respectiva área elegível;
+
+d) Anexo iv, relativo aos montantes do apoio adicional estabelecidos por tipo de cultura e modulados em função da respectiva área elegível;
+
+e) Anexo v, relativo à lista de raças autóctones ameaçadas e respectiva classificação quanto ao grau de risco de extinção;
+
+f) Anexo vi, relativo aos montantes anuais de apoio por CN de fêmeas reprodutoras exploradas em linha pura ou machos reprodutores;
+
+g) Anexo vii, relativo a compromissos de cada acção para efeitos de aplicação do artigo 26.º;
+
+h) Anexo viii, relativo a compromissos de cada acção para efeitos de aplicação do artigo 26.º;
+
+i) Anexo ix, relativo a compromissos de cada acção para efeitos de aplicação do artigo 26.º;
+
+j) (Revogada.)
+
+l) Anexo xi, relativo a compromissos da acção «Alteração de modos de produção agrícola» e respectiva pontuação para efeitos de aplicação do artigo 26.º;
+
+m) Anexo xii, relativo à transição entre programas;
+
+n) Anexo XIII, relativo às práticas culturais de gestão a adoptar no âmbito da acção n.º 2.2.4, 'Conservação do solo'.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 3.º
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 5 de Março de 2008.
+
+## Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 2.2.1, «ALTERAÇÃO DE MODOS DE PRODUÇÃO AGRÍCOLA», E DA ACÇÃO N.º 2.2.2, «PROTECÇÃO DA BIODIVERSIDADE DOMÉSTICA»
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de aplicação da acção n.º 2.2.1, 'Alteração de modos de produção agrícola', da acção n.º 2.2.2, 'Protecção da biodiversidade doméstica', e da acção n.º 2.2.4, 'Conservação do solo', no âmbito da medida n.º 2.2, 'Valorização de modos de produção', integrada no subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, designado por PRODER.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 2.º — Objectivos
+
+As acções previstas no presente Regulamento prosseguem os seguintes objectivos:
+
+a) Promover a adopção de formas de exploração das terras agrícolas compatíveis com a protecção e a melhoria do ambiente, da paisagem e dos recursos naturais;
+
+b) Incentivar a produção de bens agrícolas reconhecidos pela qualidade associada aos serviços ambientais que a incorporam;
+
+c) Garantir a utilização sustentada in situ dos recursos genéticos autóctones, designadamente os que estão ameaçados de extinção.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008, de 5 de Março, entende-se por:
+
+a) «Agricultor seareiro» o agricultor que pratica um tipo de agricultura de características familiares e que cultiva culturas anuais ao ar livre em parcelas arrendadas por uma campanha agrícola;
+
+b) «Animais em pastoreio» todos os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;
+
+c) «Culturas de plantas aromáticas, condimentares e medicinais em regime extensivo» as culturas aromáticas, condimentares e medicinais permanentes ou as temporárias quando efectuadas em rotação com outro tipo de cultura que não exclusivamente hortícola;
+
+d) «Culturas de plantas aromáticas, condimentares e medicinais em regime intensivo» as culturas aromáticas, condimentares e medicinais temporárias que são efectuadas em parcelas que lhes estão exclusivamente destinadas ou as realizadas em sucessão ou rotação com culturas hortícolas;
+
+e) «Culturas de regadio» as culturas servidas por instalações permanentes, fixas ou móveis, ligadas a um sistema de adução de água criado para fins de irrigação, designadamente furo, poço, barragem, charca, represa ou levada, que assegurem as disponibilidades mínimas de água;
+
+f) «Culturas hortícolas ao ar livre» as culturas hortícolas cultivadas ao ar livre, incluindo batata, quer se destinem à indústria ou ao consumo em fresco, bem como as culturas hortícolas destinadas ao autoconsumo;
+
+g) «Culturas temporárias de Outono-Inverno» as culturas temporárias que desenvolvem a maior parte do seu ciclo vegetativo no período de Outono-Inverno;
+
+h) «Culturas temporárias de Primavera-Verão» as culturas temporárias que desenvolvem a maior parte do seu ciclo vegetativo no período de Primavera-Verão;
+
+i) «Exploração agrícola» o conjunto de unidades de produção submetidas a uma gestão única;
+
+j) «Índice de qualificação fisiográfica da parcela (IQFP)» o indicador que traduz a relação entre a morfologia da parcela e o seu risco de erosão e consta do modelo P1 do Sistema de Identificação Parcelar;
+
+l) «Mobilização mínima do solo» o sistema de mobilização de conservação do solo que, embora intervindo em toda a superfície do terreno, mantém uma quantidade apreciável de resíduos da cultura anterior à superfície do solo, baseando-se na utilização de alfaias de mobilização vertical e estando interdito o uso de alfaias que promovam o reviramento do solo ou levantamento do torrão;
+
+m) «Mobilização na linha» a técnica de instalação de cultura por sementeira em que a mobilização do solo se realiza exclusivamente na linha de sementeira, com recurso a alfaias de mobilização vertical, imediatamente antes ou em simultâneo com o processo de sementeira;
+
+n) «Organismo de controlo (OC)» a entidade designada por organismo privado de controlo e certificação no n.º 1 do anexo iv do Despacho Normativo n.º 47/97, de 11 de Agosto, e reconhecida pelo Gabinete de Planeamento e Políticas (GPP) para efectuar acções de controlo ou certificação de produtos agro-alimentares no âmbito das áreas de produção diferenciadas;
+
+o) «Pastagem biodiversa» a pastagem permanente com elevada diversidade florística, constituída homogeneamente por pelo menos 30 % de leguminosas e seis espécies ou variedades distintas de plantas, na Primavera;
+
+p) «Produção com destino directo ao consumo humano» a produção agrícola de origem vegetal destinada ao consumo alimentar em fresco ou após transformação, incluindo a produção de sementes destinada ao cultivo de plantas com este fim;
+
+q) «Produção com destino indirecto ao consumo humano» os produtos agrícolas de origem vegetal utilizados para alimentação dos animais cuja produção se destine ao consumo alimentar, incluindo a produção de sementes destinada ao cultivo de plantas com este fim;
+
+r) «Sementeira directa» a técnica de instalação de cultura por sementeira, com recurso a semeadores de características especiais, que permitem numa só passagem abrir o sulco, depositar e enterrar a semente, sem qualquer mobilização prévia do terreno;
+
+s) «Superfície forrageira» a terra própria ou de baldio que é utilizada directa ou indirectamente para a alimentação do gado, excepto restolhos de culturas;
+
+t) «Unidade de produção» o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização;
+
+u) «Zona de montanha» as regiões definidas na Portaria n.º 377/88, de 11 de Junho, de acordo com a Directiva n.º <a href="eurlex.asp?ano=1975&id=375L0268" title="Link para Directiva da Comunidade Europeia">75/268/CEE</a>, do Conselho, de 28 de Abril.
+
+v) «Requisitos mínimos relativos à utilização de adubos e produtos fitossanitários» as condições base exigidas para o acesso e atribuição dos apoios agro-ambientais, relativas à utilização dos adubos e produtos fitossanitários e em zonas classificadas como protecção às captações de água para abastecimento público, complementares às normas obrigatórias estabelecidas nos termos dos artigos 5.º e 6.º e os anexos ii e iii do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro.
+
+x) «Fêmeas reprodutoras exploradas em linha pura»: fêmeas que:
+
+i) Estejam inscritas, a 1 de Junho de cada ano, no Livro de Adultos como reprodutoras da raça e o último parto seja de uma cria ou ninhada inscrita no Livro Genealógico ou Registo Zootécnico;
+
+ii) Não tendo ainda reproduzido, já estejam inscritas no Livro de Adultos e possuam, no início dos períodos de compromisso referidos no n.º 3 do artigo 16.º, respetivamente, 12 meses nos casos previstos nas alíneas a) e b), e 6 meses para os suínos, no caso da alínea c);
+
+z) «Machos reprodutores» os machos que, a 1 de Junho de cada ano, estejam inscritos no Livro de Adultos como reprodutores da raça, aprovados pelo Livro Genealógico ou pelo Registo Zootécnico como reprodutores e possuam mais de 16 meses.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente artigo são aplicáveis a partir da campanha de 2011.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+###### Artigo 4.º — Duração dos compromissos
+
+As acções previstas no presente Regulamento destinam-se a apoiar os produtores que, de forma voluntária, se comprometam durante um período de cinco anos a respeitar compromissos de natureza agro-ambiental.
+
+###### Artigo 5.º — Condicionalidade e requisitos mínimos
+
+Os beneficiários devem cumprir, na exploração objecto de apoio, os seguintes requisitos:
+
+a) Requisitos legais de gestão e boas condições agrícolas e ambientais, em conformidade com os artigos 5.º e 6.º e os anexos ii e iii do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro, e legislação nacional complementar;
+
+b) Adequada formação do aplicador de produtos fitofarmacêuticos, expressos no Decreto-Lei n.º 173/2005, de 21 de Outubro;
+
+c) Requisitos das zonas classificadas como de protecção às captações de água para abastecimento público, expressos no Decreto-Lei n.º 382/99, de 22 de Setembro.
+
+d) Condições de aplicação e dosagens utilizadas referidas no Decreto-Lei n.º 173/2005, de 21 de Outubro.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+###### Artigo 6.º — Tabelas de referência
+
+1 - Para efeitos de aplicação do disposto no presente Regulamento, a tabela de conversão das espécies animais em cabeça normal (CN) consta do anexo i a este Regulamento.
+
+2 - Para efeitos de avaliação do compromisso referido na subalínea ii) da alínea b) do n.º 1 do artigo 9.º são utilizadas as tabelas de referência divulgadas no sítio da Internet do PRODER, em www.proder.pt.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+### Capítulo II — Acção «Alteração de modos de produção agrícola»
+
+###### Artigo 7.º — Beneficiários
+
+Podem beneficiar dos apoios previstos no presente capítulo:
+
+a) Pessoas singulares ou colectivas, de natureza pública ou privada, que exerçam actividade agrícola;
+
+b) Órgãos de gestão de baldios na acepção da Lei n.º 68/93, de 4 de Setembro;
+
+c) Agricultores seareiros que pratiquem o modo de produção integrada (PRODI) em culturas hortícolas, horto-industriais e arroz.
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) O disposto na alínea a) do n.º 2 do presente artigo é aplicável a partir da campanha de 2008.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+###### Artigo 8.º — Critérios de elegibilidade
+
+1 - Podem beneficiar do apoio previsto neste capítulo as pessoas referidas no artigo anterior que reúnam as seguintes condições:
+
+a) Tenham submetido toda a superfície agrícola ou agro-florestal da unidade de produção e os respectivos animais ao modo de produção integrado ou ao modo de produção biológico, de acordo com os respectivos normativos;
+
+b) Efectuem junto do GPP, antes do início do compromisso, a notificação relativa ao modo de produção biológico;
+
+c) Celebrem contrato, antes do início do compromisso, com organismo de controlo (OC) reconhecido, através do qual garantam o controlo da sua unidade de produção;
+
+d) Sem prejuízo do previsto no normativo aplicável ao respectivo modo de produção, tenham um encabeçamento de animais em pastoreio inferior ou igual a:
+
+i) 2,000 CN por hectare de superfície agrícola e agro-florestal, no caso de unidades de produção em que mais de 50 % desta superfície se localize em zonas de montanha ou de unidades de produção até 2 ha de superfície agrícola e agro-florestal, incluindo áreas de baldio;
+
+ii) 2,000 CN/ha de superfície forrageira nos restantes casos;
+
+e) Apresentem, no caso de a unidade de produção utilizar áreas de baldio, declaração do órgão de gestão do baldio em como essa área se encontra submetida a um dos modos de produção e controlada por OC reconhecido, estando limitada à utilização por animais no mesmo modo de produção, a menos que se possa provar que foram devidamente segregados de quaisquer outros animais de criação convencional ou diferente modo de produção, e que se responsabiliza, nessas áreas, pelo cumprimento dos requisitos identificados no artigo 5.º e dos compromissos referidos na subalínea iii) da alínea b) do n.º 1 do artigo 9.º
+
+2 - Para efeitos de aplicação da alínea a) do número anterior, os beneficiários devem submeter ao mesmo modo de produção:
+
+a) Toda a superfície cultivada com plantas da mesma espécie;
+
+b) Toda a superfície de uma parcela agrícola ou agro-florestal ocupada por pastagem permanente, inclusive em sob coberto de povoamento florestal arborizado ou em espaço agro-florestal não arborizado com aproveitamento forrageiro, que seja utilizada exclusivamente por animais criados nesse modo de produção;
+
+c) (Revogada.)
+
+d) Todos os animais da mesma espécie ou com o mesmo tipo de produção presentes na unidade de produção.
+
+3 - Sem prejuízo do número anterior, são excepcionadas da prática do modo de produção integrado ou biológico:
+
+a) As áreas de autoconsumo, até 10 % da área da unidade de produção, com o limite de 1 ha, desde que ocupadas com culturas diferentes das realizadas nas restantes áreas da unidade de produção, e os animais até 2,000 CN, desde que não destinados a venda;
+
+b) Outras áreas ou animais que o OC considere como tecnicamente não aptos à prática de um destes modos de produção.
+
+4 - Os beneficiários podem candidatar ao apoio previsto neste capítulo uma parte ou a totalidade da superfície agrícola ou agro-florestal referida na alínea a) do n.º 1, devendo, no caso das culturas temporárias, candidatar toda a área ocupada com a mesma cultura.
+
+5 - Para além das condições referidas nos n.os 1 e 2 do presente artigo, as superfícies candidatas ao apoio referidas no n.º 4 devem ainda cumprir as seguintes condições:
+
+a) Terem uma ocupação agrícola cuja produção se destine directa ou indirectamente ao consumo humano;
+
+b) (Revogada.)
+
+i) Pomóideas, citrinos e prunóideas, excepto cerejeira - 200 árvores por hectare;
+
+ii) Pequenos frutos, excepto sabugueiro - 1000 plantas por hectare;
+
+iii) Actinídeas - 400 plantas por hectare;
+
+iv) Outros frutos frescos e sabugueiro - 80 árvores por hectare;
+
+v) Frutos secos e olival - 60 árvores por hectare;
+
+vi) Vinha - 2000 cepas por hectare, excepto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1000 cepas por hectare.
+
+6 - Sem prejuízo do disposto nas alíneas b) e d) do n.º 2, os animais de outrem que pastoreiem parcelas da unidade de produção com áreas forrageiras em sob coberto devem ser de espécie distinta dos animais do próprio existentes na unidade de produção, podendo não estar submetidos ao normativo de PRODI ou MPB desde que não coloquem em causa o cumprimento dos normativos específicos a que está sujeita a unidade de produção.
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) O disposto na subalínea i) da alínea d) do n.º 1 do presente artigo é aplicável a partir da campanha de 2011 para novos compromissos.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 9.º — Compromissos dos beneficiários
+
+1 - Para além do disposto no artigo 5.º, os beneficiários dos apoios previstos no presente capítulo, durante todo o período do compromisso, são obrigados:
+
+a) Na unidade de produção:
+
+i) Manter os critérios de elegibilidade;
+
+ii) Manter actualizado o caderno de campo, cujo modelo foi divulgado ou validado pela autoridade de gestão do PRODER, registando toda a informação relativa às práticas agrícolas adoptadas e maneio do efectivo pecuário;
+
+b) Nas áreas candidatas, para além do disposto na alínea a):
+
+i) Manter os critérios de elegibilidade expressos no n.º 5 do artigo 8.º, nas áreas objecto de apoio;
+
+ii) (Revogado);
+
+iii) Adoptar as práticas culturais e de gestão relacionadas com a preservação dos recursos naturais de acordo com o quadro constante do anexo ii a este Regulamento;
+
+iv) Manter individualizados as instalações, efluentes zootécnicos e produções dos animais submetidos a cada um dos modos de produção, quando estes coexistam na unidade de produção;
+
+c) Comunicar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), a redução de áreas objecto de apoio, nos termos do n.º 6 do artigo 22.º
+
+2 - O disposto no número anterior aplica-se aos seareiros com as necessárias adaptações.
+
+3 - O disposto nos n.os 1 e 2 do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.
+
+4 - As áreas objecto de apoio com culturas permanentes em período prévio à plena produção não estão sujeitas ao compromisso referido na subalínea ii) da alínea b) do n.º 1.
+
+5 - Para a definição do período prévio à plena produção referido no número anterior é utilizada a tabela de referência divulgada no sítio da Internet do PRODER, em www.proder.pt.
+
+6 - (Revogado)
+
+7 - Manterem, no caso das culturas permanentes, as seguintes densidades mínimas por parcela:
+
+i) Pomóideas, citrinos e prunóideas, excepto cerejeira - 200 árvores por hectare;
+
+ii) Pequenos frutos, exceto sabugueiro - 1000 plantas por hectares;
+
+iii) Actinídeas - 400 plantas por hectare;
+
+iv) Outros frutos frescos e sabugueiro - 80 árvores por hectare;
+
+v) Frutos secos e olival - 60 árvores por hectare;
+
+vi) Vinha - 2000 cepas por hectare, exceto nos casos de áreas ocupadas com vinhas conduzida em pérgula ou de áreas situadas na Região Demarcada do Vinhos Verdes, em que a densidade mínima é de 1000 cepas por hectare.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao n.º 1 do presente artigo são aplicáveis a partir da campanha de 2011. As alterações ao n.º 7 do presente artigo são aplicáveis a partir da campanha de 2012. A revogação do disposto na subalínea ii) da alínea b) do n.º 1 e do n.º 6 do presente artigo produz efeitos a partir da campanha de 2008.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1348/2008 - Diário da República n.º 230/2008, Série I de 2008-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/1348-2008-440310), produz efeitos a partir de 2008-03-07
+
+###### Artigo 10.º — Compromissos complementares
+
+1 - Sem prejuízo do disposto no artigo anterior, em áreas de rotação de culturas temporárias, os beneficiários podem assumir o compromisso complementar de utilizar técnicas de sementeira directa ou mobilização na linha, de forma continuada durante o período do compromisso, beneficiando, nesse caso, de um apoio adicional.
+
+2 - Para efeitos do n.º 1, durante o período de compromisso, e desde que previamente comunicado ao IFAP, I. P., é permitido o recurso a:
+
+a) Utilização conjugada do subsolador, chisel ou escarificador, no primeiro ano de sementeira após o início do compromisso, em caso de compactação do solo;
+
+b) Técnicas de mobilização mínima sempre que seja adequado ao objectivo ou a injecção ou utilização de grade de discos, quando for necessário incorporar correctivos orgânicos;
+
+c) Técnicas de mobilização mínima nas culturas hortícolas, horto-industriais, algodão e beterraba;
+
+d) Outra técnica de mobilização, quando não exista alternativa viável, e sempre após parecer favorável da respectiva direcção regional de agricultura e pescas (DRAP).
+
+3 - As situações identificadas no número anterior não conferem direito à concessão do apoio referido no n.º 1, no ano em que se verifiquem.
+
+> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 11.º — Forma do apoio
+
+1 - O apoio assume a forma de pagamento, a título compensatório, por hectare de área elegível, sendo atribuído anualmente, durante o período de compromisso, em função do modo de produção e do tipo de cultura.
+
+2 - São consideradas elegíveis para pagamento, nos termos do artigo 12.º, as áreas candidatas que reúnam os critérios de elegibilidade aplicáveis, referidos no artigo 8.º, e cumpram os compromissos aplicáveis previstos nos artigos 9.º e 10.º
+
+###### Artigo 12.º — Montantes e limites do apoio
+
+1 - Os montantes do apoio por hectare são os estabelecidos no quadro constante do anexo iii a este Regulamento, sendo os montantes totais calculados pela aplicação sucessiva dos escalões.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Durante o período de conversão para modo de produção biológico, os montantes dos apoios são majorados em 20 %, por um período máximo de três anos.
+
+5 - Para efeitos do número anterior, só são elegíveis os beneficiários que nunca beneficiaram de apoio agro-ambiental à conversão para modo de produção biológico.
+
+6 - As superfícies com culturas permanentes são pagas à área elegível.
+
+7 - As superfícies com culturas temporárias, com excepção das culturas forrageiras, são pagas à área elegível anualmente semeada ou plantada na área candidata.
+
+8 - A superfície forrageira da unidade de produção, em modo de produção biológico ou em modo de produção integrado, é paga na proporção directa do efectivo pecuário próprio anualmente declarado e elegível, com excepção dos equídeos, expresso em cabeça normal (CN), até ao limite máximo de 1 ha por CN.
+
+9 - Sem prejuízo do número anterior, em unidades de produção sem efectivo pecuário ou com efectivo pecuário total inferior ou igual a 2,000 CN, as culturas forrageiras anuais podem ser pagas em função da área semeada.
+
+10 - As áreas de superfícies agro-florestais não arborizadas com aproveitamento forrageiro que se destinam à alimentação directa de pequenos ruminantes na unidade de produção, em modo de produção biológico ou em modo de produção integrado, são pagas na proporção directa do efectivo pecuário próprio de pequenos ruminantes, expresso em CN, até ao limite máximo de 1 ha por CN de pequenos ruminantes.
+
+11 - Os montantes dos apoios para áreas de produção cultivadas com organismos geneticamente modificados (OGM) são de valor nulo.
+
+12 - Sem prejuízo do disposto nos números anteriores, o pagamento dos apoios está sujeito aos seguintes limites anuais:
+
+a) (euro) 900 por hectare, no caso de culturas permanentes;
+
+b) (euro) 600 euros por hectare, no caso de culturas temporárias, incluindo horticultura;
+
+c) (euro) 450 euros por hectare, no caso de pastagens permanentes.
+
+13 - Nas parcelas ocupadas com culturas temporárias sujeitas ao compromisso de não recorrer a monda química em pelo menos 5 % da área por parcela, não é aplicável o disposto no n.º 7, sendo pagas a área elegível semeada ou plantada e a área elegível não semeada ou não plantada até ao limite de 5 % da área semeada ou plantada.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+> Retificado pelo/a [Declaração de Rectificação n.º 24-B/2008 - Diário da República n.º 86/2008, 1º Suplemento, Série I de 2008-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-b-2008-218515), produz efeitos a partir de 2008-03-07
+
+### Capítulo III — Acção «Protecção da biodiversidade doméstica»
+
+###### Artigo 13.º — Lista de raças autóctones ameaçadas e grau de risco de extinção
+
+Para efeitos desta acção, as raças autóctones ameaçadas e respectiva classificação quanto ao grau de risco de extinção constam do anexo v ao presente Regulamento.
+
+###### Artigo 14.º — Beneficiários
+
+Podem beneficiar dos apoios previstos no presente capítulo as pessoas singulares ou colectivas, de natureza pública ou privada, que sejam criadoras de animais das raças autóctones ameaçadas.
+
+###### Artigo 15.º — Critérios de elegibilidade
+
+1 - Podem beneficiar dos apoios previstos neste capítulo as pessoas referidas no artigo anterior que reúnam as seguintes condições:
+
+a) Sejam detentoras de um efectivo pecuário constituído por fêmeas reprodutoras exploradas em linha pura ou por machos reprodutores, inscritos no livro genealógico ou registo zootécnico das raças autóctones ameaçadas;
+
+b) Tenham um encabeçamento de animais em pastoreio inferior ou igual a:
+
+i) 2,000 CN por hectare de superfície agrícola e agro-florestal, no caso de unidades de produção em que mais de 50 % desta superfície se localize em zonas de montanha ou de unidades de produção até 2 ha de superfície agrícola e agro-florestal, incluindo áreas de baldio;
+
+ii) 2,000 CN por hectare de superfície forrageira nos restantes casos.
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) O disposto na subalínea i) da alínea b) do n.º 1 do presente artigo é aplicável a partir da campanha de 2011 para novos compromissos.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+###### Artigo 16.º — Compromissos dos beneficiários
+
+1 - Para além do disposto no artigo 5.º, os beneficiários dos apoios previstos no presente capítulo, durante todo o período do compromisso, são obrigados a:
+
+a) Na unidade de produção:
+
+i) Manter os critérios de elegibilidade;
+
+ii) Assegurar a realização das ações decorrentes das atividades diretamente relacionadas com a execução de um programa de conservação genética animal ou de um programa de melhoramento genético animal aprovado pela Direção-Geral de Alimentação e Veterinária (DGAV).
+
+iii) Comunicar à entidade responsável pela gestão do livro genealógico ou registo zootécnico todas as alterações do efetivo de forma a assegurar que os animais detidos a 1 de Junho de cada ano estão em conformidade com os registos mantidos pela entidade gestora;
+
+iv) (Revogada.)
+
+v) Manter a situação sanitária do efectivo regularizada;
+
+vi) Cumprir as normas do livro genealógico ou registo zootécnico;
+
+vii) Permitir a recolha de material genético, quando solicitado pelo Banco Português de Germoplasma Animal;
+
+b) Comunicar ao IFAP, I. P., a redução de animais objecto de apoio, excepto se assegurar a sua substituição num prazo de 30 dias úteis, nos termos do n.º 6 do artigo 22.º
+
+2 - O disposto nas alíneas a) e b) do número anterior produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.
+
+3 - Manter anualmente o número de CN inicialmente declaradas, nos seguintes períodos do compromisso:
+
+a) De 1 de Fevereiro a 1 de Agosto para os bovinos e os equídeos declarados;
+
+b) De 1 de Maio a 9 de Agosto para os ovinos e caprinos declarados;
+
+c) De 1 de Janeiro a 30 de Junho para o restante efectivo declarado.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente artigo são aplicáveis a partir da campanha de 2011.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Retificado pelo/a [Declaração de Rectificação n.º 32-A/2010 - Diário da República n.º 208/2010, 1º Suplemento, Série I de 2010-10-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-a-2010-297176), produz efeitos a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 17.º — Forma do apoio
+
+1 - O apoio assume a forma de pagamento, a título compensatório, por cabeça normal elegível, sendo atribuído anualmente durante o período de compromisso.
+
+2 - Consideram-se elegíveis ao apoio os animais candidatos das raças autóctones ameaçadas, verificados os critérios de elegibilidade previstos no artigo 15.º e cumpridos os compromissos aplicáveis previstos no artigo 16.º
+
+> Retificado pelo/a [Declaração de Rectificação n.º 24-B/2008 - Diário da República n.º 86/2008, 1º Suplemento, Série I de 2008-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-b-2008-218515), produz efeitos a partir de 2008-03-07
+
+###### Artigo 18.º — Montantes e limites do apoio
+
+1 - Os montantes anuais de apoio por CN de fêmeas reprodutoras exploradas em linha pura ou machos reprodutores, a conceder no âmbito desta acção, são os constantes do anexo vi ao presente Regulamento.
+
+2 - O montante de apoio à fêmea reprodutora é o dobro do previsto no n.º 1 aquando da inscrição da primeira cria no livro de nascimentos, nos casos da espécie bovina e dos equídeos, se cada um destes efectivos reprodutores presentes na unidade de produção for inferior a 10,000 CN.
+
+### Capítulo III-A — Acção n.º 2.2.4, 'Conservação do solo'
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 18.º-A — Beneficiários
+
+Podem beneficiar dos apoios previstos no presente capítulo:
+
+a) As pessoas singulares ou colectivas, de natureza pública ou privada, que exerçam actividade agrícola;
+
+b) Órgãos de gestão de baldios na acepção da Lei n.º 68/93, de 4 de Setembro.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 18.º-B — Critérios de elegibilidade
+
+Podem beneficiar dos apoios previstos no presente capítulo as entidades referidas no artigo anterior que reúnam as seguintes condições:
+
+a) Tenham um encabeçamento de animais em pastoreio inferior ou igual a:
+
+i) 2,000 CN por hectare (ha) de superfície agrícola e agro-florestal, no caso de unidades de produção em que mais de 50 % desta superfície se localize em zonas de montanha ou de unidades de produção até 2,00 ha de superfície agrícola e agro-florestal, incluindo áreas de baldio;
+
+ii) 2,000 CN por ha de superfície forrageira nos restantes casos;
+
+b) Candidatem uma área de culturas temporárias em rotação;
+
+c) Semeiem anualmente pelo menos 20 % da área de rotação candidata.
+
+> Nota: [Artigo 39.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) O disposto na subalínea i) da alínea a) do n.º 1 do presente artigo é aplicável a partir da campanha de 2011 para novos compromissos.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 18.º-C — Compromissos dos beneficiários
+
+1 - Para além do disposto no artigo 5.º, os beneficiários dos apoios previstos no presente capítulo, durante todo o período do compromisso, são obrigados a:
+
+a) Manter os critérios de elegibilidade;
+
+b) Utilizar em toda a área candidata ocupada pela rotação as técnicas de sementeira directa ou mobilização na linha, de forma continuada;
+
+c) Comunicar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), a redução de áreas objecto de apoio, nos termos do n.º 6 do artigo 22.º
+
+2 - Os beneficiários dos apoios previstos no presente capítulo são ainda obrigados a adoptar as práticas culturais e de gestão relacionadas com a preservação dos recursos naturais de acordo com o quadro constante do anexo xiii a este Regulamento.
+
+3 - Durante o período de compromisso é permitido o recurso às seguintes técnicas, embora determinem o não recebimento do apoio no ano em que se verifiquem:
+
+a) Utilização conjugada do subsolador, chisel ou escarificador no primeiro ano de sementeira após o início do compromisso, em caso de compactação do solo;
+
+b) Utilização de técnicas de mobilização mínima sempre que seja adequado ao objectivo ou a injecção ou utilização de grade de discos, quando for necessário incorporar correctivos orgânicos;
+
+c) Utilização de técnicas de mobilização mínima nas culturas de girassol, cártamo, hortícolas, horto-industriais, algodão e beterraba;
+
+d) Utilização de outra técnica de mobilização, quando não exista alternativa viável, e sempre após parecer favorável da respectiva Direcção Regional de Agricultura
+
+4- As situações mencionadas no número anterior devem ser comunicadas ao IFAP, I.P. no prazo máximo de 10 dias úteis após a sua realização.
+
+5 - O disposto no n.º 1 do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente artigo são aplicáveis a partir da campanha de 2011.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 18.º-D — Forma do apoio
+
+1 - O apoio assume a forma de pagamento, a título compensatório, por hectare semeado na área de rotação candidata, sendo atribuído anualmente, durante o período de compromisso, em função do tipo de cultura.
+
+2 - São consideradas elegíveis para pagamento, nos termos do artigo 18.º-E, as áreas candidatas que reúnam os critérios de elegibilidade aplicáveis referidos no artigo 18.º-B e cumpram os compromissos aplicáveis referidos no artigo 18.º-C.
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 18.º-E — Montantes e limites do apoio
+
+1 - Os montantes do apoio por hectare são os estabelecidos no anexo iv a este Regulamento, sendo os montantes totais calculados pela aplicação sucessiva dos escalões.
+
+2 - Para efeitos do número anterior, são consideradas as culturas temporárias que integram os grupos de culturas temporárias de regadio, de culturas temporárias de sequeiro, de culturas forrageiras e de culturas temporárias de Outono/Inverno regadas, de acordo com o anexo iv ao presente Regulamento.
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 18.º-F — Declaração das associações de criadores de raças autóctones
+
+1 - Para efeitos do previsto no n.º 3 do artigo 16.º, as entidades gestoras de livros genealógicos ou registos zootécnicos de raças autóctones emitem declaração com a identificação dos criadores e das explorações aderentes e com animais inscritos a 1 de Junho no Livro de Adultos que cumpram o critério de elegibilidade previsto na alínea a) do n.º 1 do artigo 15.º e os compromissos das subalíneas ii), v), vi) e vii) da alínea a) do n.º 1 do artigo 16.º.
+
+2 - A declaração mencionada no número anterior deve ser remetida à DGAV, até ao dia 15 de Julho, acompanhada da respetiva informação em suporte informático.
+
+3 - As entidades gestoras dos livros genealógicos ou registo zootécnicos devem disponibilizar à DGAV o acesso aos registos dos seus Livros para permitir avaliar o critério de elegibilidade previsto na alínea a) do n.º 1 do Artigo 15.º.
+
+4 - De acordo com os elementos registados nos livros e no SNIRA, a DGAV controla e valida as declarações referidas no n.º 1 e envia a informação ao IFAP, I. P., em suporte informático, até ao dia 15 de Setembro.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente artigo são aplicáveis a partir da campanha de 2011.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+### Capítulo IV — Procedimento
+
+###### Artigo 19.º — Apresentação
+
+1 - Os pedidos de apoio são apresentados junto do IFAP, I. P., ou das entidades por este designadas.
+
+2 - As normas relativas à formalização, tramitação, procedimentos e calendarização dos pedidos são adotadas de acordo com o Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a Efetuar pelo IFAP, I.P., aprovado em anexo à Portaria n.º 86/2011, de 25 de Fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto no Regulamento (CE) n.º 1122/2009, da Comissão, de 30 de Novembro.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente artigo são aplicáveis a partir da campanha de 2011.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+###### Artigo 20.º — Análise, hierarquização e decisão
+
+1 - Os pedidos de apoio são analisados e hierarquizados pelo IFAP, I. P., por acção, de acordo com os seguintes critérios:
+
+a) Acção «Protecção da biodiversidade doméstica», pela seguinte ordem de prioridades:
+
+i) Primeira - Animais de raças «raras - particularmente ameaçadas»;
+
+ii) Segunda - Animais de raças «muito ameaçadas»;
+
+iii) Terceira - Animais de raças «ameaçadas»;
+
+iv) Quarta - Animais de raças «em risco»;
+
+b) Acção «Alteração de modos de produção agrícola», pela seguinte ordem de prioridades:
+
+i) Primeira - unidades de produção com mais de 50 % da área candidata localizada em zona de intervenção territorial integrada ou Rede Natura 2000;
+
+ii) Segunda - unidades de produção com mais de 50 % da área candidata localizada em zona vulnerável, delimitada ao abrigo da Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0676" title="Link para Directiva da Comunidade Europeia">91/676/CEE</a>, do Conselho, de 12 de Setembro, e correspondente legislação nacional;
+
+iii) Terceira - unidades de produção que apresentaram novo pedido de apoio resultante de aumento de área, ao abrigo do n.º 9 do artigo 22.º
+
+iv) Quarta - outras unidades de produção;
+
+c) Acção 'Conservação do solo', pela seguinte ordem de prioridades:
+
+i) Primeira - unidades de produção com contratualização adicional à acção 'Alteração de modos de produção agrícola' no âmbito do presente Regulamento;
+
+ii) Segunda - outras unidades de produção.
+
+2 - Para efeitos de aplicação do número anterior os pedidos de apoio são ainda hierarquizados por ordem decrescente de área (hectare) ou de animais (CN) candidatos.
+
+3 - Os pedidos de apoio são decididos pelo gestor do PRODER, em função da verificação dos critérios de elegibilidade, hierarquização e da dotação orçamental do presente regime de apoios.
+
+4 - A decisão é comunicada pelo IFAP, I. P., aos beneficiários até 15 de Setembro do ano do pedido de apoio.
+
+5 - Nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, a concessão do apoio é formalizada através da assinatura de um termo de aceitação pelo beneficiário, com a apresentação do primeiro pedido de pagamento.
+
+6 - Sem prejuízo do n.º 3, no caso da acção 'Conservação do solo', são aprovados pedidos de apoio até que se atinja uma área de rotação sob compromisso de 60 000 ha.
+
+7 - A decisão mencionada no n.º 3 fica condicionada à apresentação de cópia do contrato referido na alínea c) do n.º 1 do artigo 8.º aquando da assinatura do termo de aceitação.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 21.º — Pagamento
+
+1 - Compete ao IFAP, I. P., proceder ao pagamento anual dos apoios, devendo, para o efeito, o beneficiário apresentar o respectivo pedido de pagamento.
+
+2 - O pagamento é efectuado após conclusão dos controlos administrativos e in loco, podendo ser paga uma parte do apoio após a conclusão dos controlos administrativos, nos termos do artigo 9.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2006&id=306R1975" title="Link para Regulamento da Comunidade Europeia">1975/2006</a>, da Comissão, de 7 de Dezembro.
+
+3 - A não apresentação do pedido de pagamento referido no n.º 1 do presente artigo determina o não pagamento do apoio no ano em causa, sem prejuízo da obrigatoriedade de manutenção dos critérios de elegibilidade e dos compromissos assumidos.
+
+### Capítulo V — Alteração, extinção, prolongamento, transmissão, redução e exclusão
+
+###### Artigo 22.º — Alteração do pedido
+
+1 - Os beneficiários podem proceder, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, à rectificação do seu pedido, quando tenha alterado ou pretenda alterar a ocupação cultural da parcela, com efeitos no próprio ano do compromisso, havendo lugar, neste caso, à correspondente correcção do valor do apoio.
+
+2 - Sem prejuízo do disposto no número anterior, a alteração da ocupação cultural das parcelas com pastagem permanente biodiversa para pastagem permanente determina a devolução do montante correspondente à diferença entre o valor dos dois apoios relativamente aos anos em que o pagamento foi realizado por pastagem biodiversa.
+
+3 - Os beneficiários podem formalizar, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, a alteração do pedido de apoio, sem que haja lugar à devolução dos apoios já recebidos ou a alteração do período de compromisso, nos seguintes casos:
+
+a) Transição do modo de produção integrado para o modo de produção biológico, no âmbito da ação «Alteração de modos de produção agrícola», desde que seja verificado o cumprimento dos critérios de elegibilidade referidos nas alíneas b) e c) do n.º 1 do artigo 8.º, em data anterior a 31 de Março do ano do compromisso a que diz respeito a transição;
+
+b) Aumento da área candidata;
+
+c) Aumento do efetivo pecuário, cuja elegibilidade deve ser comprovada de acordo com o previsto no artigo 18.º-F;
+
+4 - Os aumentos de área referidos na alínea b) do número anterior não podem ultrapassar, por ação, e no caso da ação 2.2.1 por modo de produção, o dobro da área candidata até ao limite de 20 ha.
+
+5 - Os beneficiários podem, até 10 dias úteis após a ocorrência, proceder à alteração do pedido de apoio, sem que haja lugar à devolução dos apoios já recebidos, nos seguintes casos:
+
+a) Sujeição de parte da unidade de produção a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 22 de Março, ou expropriação;
+
+b) Catástrofe natural grave, acidente meteorológico grave ou incêndio, que afecte parte significativa da superfície agrícola da unidade de produção;
+
+c) Destruição parcial de instalações pecuárias não imputável ao beneficiário;
+
+d) Epizootia que afecte parte dos efectivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário.
+
+e) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível cumprir o compromisso de manter os animais objecto de ajuda nem proceder à sua substituição no âmbito da acção 'Protecção da biodiversidade doméstica'.
+
+6- (Revogado)
+
+7- (Revogado)
+
+8 - Os seareiros devem, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, proceder à identificação das parcelas arrendadas para a respectiva campanha agrícola, não havendo lugar à devolução do apoio no caso de redução de área, desde que mantenha pelo menos 1 ha.
+
+9 - Para aumentos de área superiores aos limites referidos no n.º 4, o beneficiário deve apresentar um novo pedido de apoio relativo à totalidade da área da unidade de produção, iniciando-se, caso venha a ser admitido, um novo período de compromisso de cinco anos que determina a extinção automática dos compromissos anteriores.
+
+10 - A falta de manutenção da densidade mínima prevista no nº 7 do artigo 9.º nas áreas das parcelas de culturas permanentes, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, determina a redução proporcional do montante de apoio na parcela em causa, calculada pela aplicação do quociente entre a densidade constatada e a densidade mínima.
+
+11- Para os efeitos do disposto no n.º 2 do artigo 18.º do Regulamento (UE) n.º 65/2011, a redução de área, ou de efetivo pecuário objecto de compromisso, aquando da apresentação do pedido de pagamento anual a que se refere o n.º 1 do artigo anterior, determina a devolução proporcional dos apoios recebidos.
+
+12 - O disposto no número anterior não é aplicável nos casos de cedência da exploração referidos no n.º 1 do artigo 44.º do Regulamento (CE) n.º 1974/2006 que determina o reembolso da totalidade da ajuda recebida.
+
+13 - Não há lugar à devolução de verbas nos casos em que a redução da área seja igual ou inferior a 10%, ou quando o compromisso seja retomado pelo cessionário, bem como nos casos referidos na alínea b) do n.º 2 do artigo 44.º do Regulamento (CE) n.º 1974/2006.
+
+> Nota: [Artigo 4.º, Portaria n.º 137/2013 - Diário da República n.º 63/2013, Série I de 2013-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/137-2013-260105) As alterações ao presente artigo são aplicáveis a partir da campanha de 2012.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações aos n.os 3 e 4 do presente artigo são aplicáveis a partir da campanha de 2010. As alterações aos n.os 10 e 13 do presente artigo são aplicáveis a partir da campanha de 2012.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 137/2013 - Diário da República n.º 63/2013, Série I de 2013-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/137-2013-260105), em vigor a partir de 2013-04-02
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 23.º — Extinção dos compromissos
+
+1 - Os compromissos assumidos extinguem-se, sem devolução dos apoios, nos casos de sujeição da unidade de produção a emparcelamento, ou intervenção pública de ordenamento fundiário similar, nos termos dos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 22 de Março, desde que não seja possível a alteração do pedido de apoio nos termos da alínea a) do n.º 5 do artigo anterior.
+
+2 - No caso de alteração das normas ou regras obrigatórias, nos termos do artigo 46.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2006&id=306R1974" title="Link para Regulamento da Comunidade Europeia">1974/2006</a>, da Comissão, de 15 de Dezembro, o beneficiário pode não aceitar a correspondente adaptação dos compromissos assumidos, cessando estes sem ser exigida devolução relativamente ao período em que os compromissos tenham sido cumpridos.
+
+3 - Sem prejuízo dos casos referidos nos números anteriores, os beneficiários ficam desvinculados dos compromissos, sem devolução dos apoios, nomeadamente, nas seguintes situações de força maior:
+
+a) Morte do beneficiário;
+
+b) Incapacidade profissional do beneficiário superior a três meses;
+
+c) Morte ou incapacidade profissional superior a três meses do cônjuge ou de outro membro do agregado familiar que coabite com o beneficiário, cujo trabalho na exploração represente parte significativa do trabalho total empregue na mesma, no caso de explorações familiares;
+
+d) Expropriação de toda ou de uma parte importante da unidade de produção, se essa expropriação não era previsível na data em que o compromisso foi assumido;
+
+e) Catástrofe natural grave, acidente meteorológico grave ou incêndio, que afecte parte significativa da superfície agrícola da unidade de produção;
+
+f) Destruição das instalações pecuárias não imputável ao beneficiário;
+
+g) Epizootia que afecte a totalidade ou parte dos efectivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário.
+
+h) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível cumprir o compromisso de manter os animais objecto de ajuda nem proceder à sua substituição no âmbito da acção 'Protecção da biodiversidade doméstica'.
+
+4 - Os casos de força maior e os respectivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 10 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.
+
+5 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos de força maior referidos no n.º 3, mantém o seu direito à totalidade do pagamento do ano em que o facto ocorreu, desde que tenha sido apresentado pedido de pagamento.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 24.º — Prolongamento do período de compromisso
+
+1 - Os beneficiários que tenham apresentado a sua candidatura em 2007, podem optar pelo prolongamento do compromisso por mais um ano, a quando da apresentação do quinto pedido de pagamento.
+
+2 - Na apresentação do pedido único de ajudas do ano de 2014, os beneficiários das ações previstas no presente regulamento podem solicitar o prolongamento do compromisso por mais um ano, desde que reúnam as seguintes condições:
+
+a) Tenham terminado os seus compromissos a 30 de setembro de 2013;
+
+b) Tenham mantido os compromissos anteriormente assumidos a partir de 1 de outubro de 2013.
+
+3 - O prolongamento referido no número anterior está sujeito a decisão do gestor do PRODER.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente artigo são aplicáveis a partir da campanha de 2012.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 19/2014 - Diário da República n.º 20/2014, Série I de 2014-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/19-2014-570683), em vigor a partir de 2014-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+###### Artigo 25.º — Transmissão de áreas candidatas da unidade de produção
+
+1 - Se o beneficiário transmitir a totalidade ou parte da área ou animais objecto de pedido de apoio durante o período de concessão do apoio, não há lugar a devolução dos apoios, desde que o novo detentor assuma os compromissos pelo período remanescente e se encontrem reunidos os critérios de elegibilidade.
+
+2 - A transmissão de parte da área ou animais objecto de pedido de apoio obriga à correspondente alteração do mesmo, aquando da apresentação do pedido de pagamento anual, a que se refere o n.º 1 do artigo 21.
+
+###### Artigo 26.º — Redução ou exclusão do apoio
+
+1 - Nos casos de divergência entre as áreas ou os animais declarados e as áreas determinadas ou os animais verificados em sede de controlo, aplicam-se as reduções e as exclusões previstas nos Regulamentos (UE) n.os 1122/2009 da Comissão, de 30 de Novembro, e 65/2011, da Comissão, de 27 de Janeiro.
+
+2 - (Revogado.)
+
+3 - O incumprimento de qualquer um dos compromissos constantes do anexo vii determina a perda de direito ao apoio referente à totalidade da área ou animais elegíveis, consoante a acção a que digam respeito, no ano em causa.
+
+4 - O incumprimento dos compromissos constantes do anexo VIII determina a perda do direito do apoio, no ano em causa, nos seguintes termos:
+
+a) No caso do n.º 1 do anexo viii, nas áreas de culturas temporárias relativamente às quais não foi candidata toda a área;
+
+b) (Revogado.)
+
+c) No caso do n.º 3 do anexo viii, nas áreas objecto de apoio em que a produção não se destinou, directa ou indirectamente, ao consumo humano;
+
+d) No caso dos n.os 4, 5, 6 e 7 do anexo viii, para a totalidade dos animais da raça relativamente à qual se verificou o incumprimento.
+
+5 - O incumprimento de qualquer um dos compromissos de cada ação constantes do anexo IX, determina a devolução total dos apoios recebidos e a exclusão do beneficiário de cada ação e, no caso da ação n.º 2.2.1, do correspondente apoio ao modo de produção, sem prejuízo de outras consequências legalmente aplicáveis.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - O incumprimento de qualquer um dos compromissos constantes do anexo xi determina a redução do montante do apoio, no ano em que tal se verifique, por aplicação directa das percentagens definidas no anexo respectivo.
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+12- (Revogado.)
+
+13 - O incumprimento pelos beneficiários dos requisitos referidos no artigo 5.º determina a redução do montante do apoio nos termos da legislação nacional aplicável.
+
+14 - (Revogado.)
+
+15 - Para efeitos de aplicação do n.º 3 do artigo 21.º, o incumprimento dos critérios de elegibilidade determina a devolução total dos apoios e a exclusão do beneficiário de cada acção ou, no caso da acção n.º 2.2.1, do modo de produção, em que não se verificou a apresentação de pedido de pagamento.
+
+16 - Sem prejuízo do disposto no n.º1, a redução de área ou de efetivo pecuário objeto de compromisso, detetada em sede de controlo, determina a devolução proporcional dos apoios recebidos.
+
+17 - Quando a divergência entre as CN declaradas e as CN verificadas em sede de controlo implique a redução da área anual objeto de apoio nos termos do disposto nos nºs 8 e 10 do artigo 12.º, aplica-se uma redução adicional igual à diferença apurada.
+
+18 - Nas áreas das parcelas de culturas permanentes relativamente às quais não tenha sido mantida a densidade mínima prevista no n.º 7 do artigo 9.º, a divergência de densidade apurada na sequência de controlo, implica a redução proporcional do montante de apoio relativo à parcela em causa, calculada pela aplicação do dobro do quociente entre a densidade constatada e a densidade mínima.
+
+19 - (Revogado.)
+
+> Nota: [Artigo 4.º, Portaria n.º 137/2013 - Diário da República n.º 63/2013, Série I de 2013-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/137-2013-260105) As alterações ao presente artigo são aplicáveis a partir da campanha de 2012.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao n.º 5 do presente artigo são aplicáveis a partir da campanha de 2010. As alterações aos n.os 1, 4 e 19 do presente artigo são aplicáveis a partir da campanha de 2011. As alterações aos n.os 16, 17 e 18 do presente artigo são aplicáveis a partir da campanha de 2012.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 137/2013 - Diário da República n.º 63/2013, Série I de 2013-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/137-2013-260105), em vigor a partir de 2013-04-02
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+### Capítulo VI — Disposições transitórias e finais
+
+###### Artigo 27.º — Acumulação dos apoios
+
+1 - Os apoios a conceder no âmbito da acção n.º 2.2.1, 'Alteração dos modos de produção', e da acção n.º 2.2.4, 'Conservação do solo', nos termos do presente Regulamento, são cumuláveis com os apoios a conceder no âmbito do regulamento de aplicação das componentes agro-ambientais e silvo-ambientais das intervenções territoriais integradas (ITI), com excepção do apoio previsto na acção n.º 2.2.4, 'Conservação do solo', quando as áreas candidatas sejam objecto de apoio para utilização dessas mesmas técnicas no âmbito da ITI.
+
+2 - Para efeitos do número anterior, o montante total a pagar corresponde à soma de 80 % do montante de cada apoio, excepto no caso da acção relativa à ITI do Douro Vinhateiro, em que o montante total do pagamento corresponde à soma dos montantes de cada apoio.
+
+3 - Caso o montante a pagar, calculado com base no disposto no n.º 2, seja inferior ao valor de um dos montantes dos apoios, é pago o apoio com maior valor.
+
+4 - Sem prejuízo do disposto nos números anteriores, as acumulações estão sujeitas aos seguintes limites anuais:
+
+a) (euro) 900 euros por hectare, no caso de culturas permanentes;
+
+b) (euro) 600 euros por hectare, no caso de culturas temporárias, incluindo horticultura;
+
+c) (euro) 450 euros por hectare, no caso de pastagens permanentes.
+
+5 - Os montantes dos apoios no âmbito da acção 'Alteração de modos de produção agrícola' são cumuláveis com os apoios da acção 'Conservação do solo' até ao limite máximo de (euro) 600 por hectare.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+###### Artigo 28.º — Transição entre programas
+
+1 - Os beneficiários das medidas previstas no Regulamento de Aplicação da Intervenção «Medidas Agro-Ambientais», aprovado pela Portaria n.º 1212/2003, de 16 de Outubro, podem, caso o período de atribuição dos apoios não tenha terminado, transitar para as acções previstas no presente Regulamento, de acordo com a correspondência constante do anexo xii a este Regulamento.
+
+2 - Para efeitos do número anterior, os beneficiários da medida «Melhoramento do solo e luta contra a erosão - Sementeira directa e mobilização na zona ou na linha» têm de subscrever o compromisso complementar relativo à técnica de sementeira directa ou mobilização na linha previsto no artigo 10.º do presente Regulamento.
+
+3 - Para efeitos disposto no n.º 1, os compromissos em vigor transitam para acções previstas neste Regulamento ou para as componentes agro-ambiental e silvo-ambiental do regulamento de aplicação da medida n.º 2.4, designada ITI.
+
+###### Artigo 29.º — Direito transitório
+
+1 - O disposto no presente Regulamento aplica-se, com as necessárias adaptações, aos pedidos de apoio apresentados no ano de 2007, nomeadamente os seguintes:
+
+a) O contrato com o OC, referido na alínea c) do n.º 1 do artigo 8.º, pode ter sido celebrado até 30 de Novembro de 2007;
+
+b) Os modelos de caderno de campo divulgados pela Direcção-Geral de Agricultura e Desenvolvimento Rural podem ser utilizados, até 30 dias após publicação do novo modelo referido na subalínea ii) da alínea a) do n.º 1 do artigo 9.º do presente Regulamento;
+
+c) A rectificação de áreas candidatas ao modo de produção biológico para modo de produção integrada, com a correspondente correcção do valor do apoio, pode ser efectuada no momento da apresentação do primeiro pedido de pagamento.
+
+2 - Os candidatos que tenham apresentado pedido de apoio, no ano de 2007, podem desistir do mesmo, no prazo de 10 dias úteis a contar da data de publicação do presente Regulamento.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 24-B/2008 - Diário da República n.º 86/2008, 1º Suplemento, Série I de 2008-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-b-2008-218515), produz efeitos a partir de 2008-03-07
+
+## Anexo I — Tabela de conversão em cabeças normais (CN)
+
+(a que se refere o n.º 1 do artigo 6.º)
+
+(ver documento original)
+
+> Nota: [Declaração de Rectificação n.º 24-B/2008 - Diário da República n.º 86/2008, 1º Suplemento, Série I de 2008-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-b-2008-218515) No presente anexo, onde se lê: «Ovinos» deve ler-se: «Ovinos com mais de 1 ano» Onde se lê: «Caprinos» deve ler-se: «Caprinos com mais de 1 ano» Onde se lê: «Outros suínos» deve ler-se: «Outros suínos com mais de 3 meses»
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Retificado pelo/a [Declaração de Rectificação n.º 24-B/2008 - Diário da República n.º 86/2008, 1º Suplemento, Série I de 2008-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-b-2008-218515), produz efeitos a partir de 2008-03-07
+
+## Anexo II — Práticas culturais e de gestão relacionadas com a preservação dos recursos naturais
+
+[a que se refere a subalínea iii) da alínea b) do n.º 1 do artigo 9.º]
+
+(ver documento original)
+
+> Nota: [Declaração de Rectificação n.º 24-B/2008 - Diário da República n.º 86/2008, 1º Suplemento, Série I de 2008-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-b-2008-218515) No presente anexo, na tabela relativa ao recurso água, no que respeita às culturas temporárias incluindo horticultura e às culturas permanentes, onde se lê: «- De água, em período nunca superior a 4 anos, salvo se estas apresentarem valores que excedam os limites máximo recomendados fixados pelo Decreto-Lei n.º 236/98,» deve ler-se: «- De água, em período nunca superior a 4 anos, salvo se estas apresentarem valores que excedam os limites máximo recomendados fixados pelo Decreto-Lei n.º 236/98, de 1 de Agosto;» Onde se lê: «- Não são permitidas culturas anuais em parcelas com IQFP (igual ou maior que) 3, excepto em parcelas armadas em socalcos, terraços ou nas áreas integradas em várzeas; - Com excepção da culturas do arroz, efectuar rotações: - Durante um período de 5 anos, na mesma parcela, instalar, pelo menos, duas culturas diferentes (excepto nos casos em que nesse período apenas procedeu a uma instalação de cultura); - No caso das culturas hortícolas não é permitido repetir, em sequência, a mesma cultura; - Especificamente no caso das quenopodiáceaes e das solanáceas a cultura só pode ser repetida após um período de 4 anos e de 2 anos, respectivamente; - Com excepção da culturas hortícolas e arroz, utilizar as técnicas de mobilização mínima, a não ser quando não exista alternativa viável confirmada por entidade competente; - Assegurar a cobertura vegetal do solo entre 1 de Novembro e 1 de Março, excepto nos casos: - Culturas em estufa ou arroz; - Cultura anual instalada até 1 de Novembro. - Parcelas com IQFP = 1, parcelas armadas em socalcos, terraços ou em áreas integradas em várzea, para preparação de solo para instalação de cultura.» deve ler-se: «- Não são permitidas culturas anuais em parcelas com IQFP (igual ou maior que) 3, excepto em parcelas armadas em socalcos, terraços ou nas áreas integradas em várzeas; - Com excepção da cultura do arroz, efectuar rotações: - Durante um período de 5 anos, na mesma parcela, instalar, pelo menos, duas culturas diferentes (excepto nos casos em que nesse período apenas procedeu a uma instalação de cultura); - No caso das culturas hortícolas não é permitido repetir, em sequência, a mesma cultura; - Especificamente no caso das quenopodiáceaes e das solanáceas a cultura só pode ser repetida após um período de 4 anos e de 2 anos, respectivamente; - Com excepção das culturas hortícolas e arroz, utilizar as técnicas de mobilização mínima, a não ser quando não exista alternativa viável confirmada por entidade competente; - Assegurar a cobertura vegetal do solo entre 1 de Novembro e 1 de Março, excepto nos casos: - Culturas em estufa ou arroz; - Cultura anual instalada até 1 de Novembro. - Parcelas com IQFP = 1, parcelas armadas em socalcos, terraços ou em áreas integradas em várzea, para preparação de solo para instalação de cultura.» Onde se lê: «- Manter o revestimento vegetal natural ou semeado das entrelinhas: - Controlar o desenvolvimento vegetativo através do pastoreio ou de cortes sem enterramento; - No caso de culturas regadas não aplicar herbicidas; - No caso de culturas de sequeiro só é permitido aplicar herbicidas entre 1 de Março e 1 de Agosto (assegurando que, pelo menos 3 % da área por parcela, incluindo bordaduras, em forma de faixas com a largura máxima da entrelinha, não é sujeita a monda química); - Utilizar, na sementeira da entrelinha, sempre técnicas de mobilização mínima, podendo, no caso da incorporação de correctivos orgânicos recorrer ao uso de grade de discos; - A lenha da poda deve ser triturada e deixada à superfície, excepto se existirem razões sanitárias que justifiquem a sua remoção; - Em parcelas com IQFP (igual ou maior que) 3, só é permitida a instalação de culturas recorrendo a técnicas que minimizem a erosão do solo; - Em parcelas com IQFP (maior que) 1, as mobilizações profundas necessárias à instalação devem ser realizadas segundo as curvas de nível.» deve ler-se: «- Manter o revestimento vegetal natural ou semeado das entrelinhas: - Controlar o desenvolvimento vegetativo através do pastoreio ou de cortes sem enterramento; - No caso de culturas regadas não aplicar herbicidas; - No caso de culturas de sequeiro só é permitido aplicar herbicidas entre 1 de Março e 1 de Agosto (assegurando que, pelo menos 3 % da área por parcela, incluindo bordaduras, em forma de faixas com a largura máxima da entrelinha, não é sujeita a monda química); - Utilizar, na sementeira da entrelinha, sempre técnicas de mobilização mínima, podendo, no caso da incorporação de correctivos orgânicos, recorrer ao uso de grade de discos; - A lenha da poda deve ser triturada e deixada à superfície, excepto se existirem razões sanitárias que justifiquem a sua remoção; - Em parcelas com IQFP (igual ou maior que) 3, só é permitida a instalação de culturas recorrendo a técnicas que minimizem a erosão do solo; - Em parcelas com IQFP (maior que) 1, as mobilizações profundas necessárias à instalação devem ser realizadas segundo as curvas de nível.» Onde se lê: «- Sempre que a percentagem de leguminosas na pastagem natural, no período da primavera seja reduzida proceder à introdução daquelas espécies melhoradoras; - Dispor, no primeiro ano de atribuição do apoio, de análises de terras (sumária), acompanhadas das respectivas recomendações do laboratório, no caso de este as emitir, repetir igual tipo de análises em período nunca superior a 4 anos, praticar as fertilizações adequadas tendo em conta os resultados obtidos nas análise; - Não fazer mobilizações com reviramento do solo, excepto no caso de incorporação de correctivos orgânicos ou no caso de sementeira de pastagens permanentes ou por razões de boa técnica agrícola e sempre após validação da entidade competente; - A sementeira com mobilização e reviramento do solo em parcelas com: - IQFP (maior que) 3 não é permitida; - IQFP = 3 só será autorizada se feita segundo as curvas de nível, em faixas com o máximo de 50 metros de largura, a mobilizar e instalar alternadamente, umas num ano, outras no ano seguinte.» deve ler-se: «- Sempre que a percentagem de leguminosas na pastagem natural, no período da primavera seja reduzida proceder à introdução daquelas espécies melhoradoras; - Dispor, no primeiro ano de atribuição do apoio, de análises de terras (sumária), acompanhadas das respectivas recomendações do laboratório, no caso de este as emitir, repetir igual tipo de análises em período nunca superior a 4 anos, praticar as fertilizações adequadas tendo em conta os resultados obtidos nas análises; - Não fazer mobilizações com reviramento do solo, excepto no caso de incorporação de correctivos orgânicos ou no caso de sementeira de pastagens permanentes ou por razões de boa técnica agrícola e sempre após validação da entidade competente; - A sementeira com mobilização e reviramento do solo em parcelas com: - IQFP (maior que) 3 não é permitida; - IQFP = 3 só será autorizada se feita segundo as curvas de nível, em faixas com o máximo de 50 m de largura, a mobilizar e instalar alternadamente, umas num ano, outras no ano seguinte.»
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+> Retificado pelo/a [Declaração de Rectificação n.º 24-B/2008 - Diário da República n.º 86/2008, 1º Suplemento, Série I de 2008-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-b-2008-218515), produz efeitos a partir de 2008-03-07
+
+## Anexo III — Montantes do apoio estabelecidos por tipo de cultura e modulados em função da respectiva área elegível a que se refere o n.º 1 do artigo 12.º
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+## Anexo IV — Montantes do apoio estabelecidos por tipo de cultura e modulados em função da respectiva área elegível a que se refere o artigo 18.º-E
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+## Anexo V — Lista de raças autóctones ameaçadas e respectiva classificação quanto ao grau de risco de extinção a que se refere o artigo 13.º
+
+(ver documento original)
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente anexo são aplicáveis a partir da campanha de 2011.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+## Anexo VI — Montantes anuais de apoio por CN de fêmeas reprodutoras exploradas em linha pura ou machos reprodutores a que se refere o n.º 1 do artigo 18.º
+
+(ver documento original)
+
+## Anexo VII — Compromissos a que se refere o n.º 3 do artigo 26.º
+
+(ver documento original)
+
+> Nota: [Artigo 3.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) É revogado o n.º 3 do presente anexo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+## Anexo VIII — Compromissos a que se refere o n.º 4 do artigo 26.º
+
+(ver documento original)
+
+> Nota: [Artigo 3.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) É revogado o n.º 2 do presente anexo.
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente anexo são aplicáveis a partir da campanha de 2011.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+## Anexo IX — Compromissos a que se refere o n.º 5 do artigo 26.º
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+## Anexo X — Compromissos a que se refere o n.º 6 do artigo 26.º
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 7.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+## Anexo XI — Compromissos a que se refere o n.º 8 do artigo 26.º
+
+(ver documento original)
+
+> Nota: [Artigo 4.º, Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082) As alterações ao presente anexo são aplicáveis a partir da campanha de 2012.
+
+> Nota: [Artigo 38.º, Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) É revogado o antepenúltimo compromisso do presente anexo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2013 - Diário da República n.º 24/2013, Série I de 2013-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/47-2013-258082), em vigor a partir de 2013-02-05
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24
+
+## Anexo XII — Transição entre programas a que se refere o n.º 1 do artigo 28.º
+
+(ver documento original)
+
+## Anexo XIII — Práticas culturais e de gestão a adoptar no âmbito da acção n.º 2.2.4, «Conservação do Solo»
+
+[a que se refere a alínea c) do n.º 1 do artigo 18.º-C]
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 427-A/2009 - Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23](https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768), em vigor a partir de 2009-04-24

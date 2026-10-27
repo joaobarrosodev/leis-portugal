@@ -1,0 +1,282 @@
+---
+schema_version: '1.0'
+id: pt:dre:427399:por
+title: Portaria n.º 228/96
+short_title: null
+summary: Cria o Programa Infante D. Henrique e aprova o respectivo Regulamento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 228/96
+official_date: null
+publication_date: '1996-06-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/1996, Série I-B de 1996-06-26
+  number: '146'
+  series: I
+  supplement: null
+  pages: 1621 - 1622
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/06/146b00/16211622.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/228/1996/06/26/p/dre/pt/html
+  oj: null
+  dre: '427399'
+  dre_path: /dr/detalhe/portaria/228-1996-427399
+  internal: pt:dre:427399:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-1996-427399
+  metadata_url: https://data.dre.pt/eli/port/228/1996/06/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-1996-427399
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4de25b07924773a754d6ff881dc222c79014a71a9701d3631d53e24b6d74e908
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:20:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto Português da Juventude
+- Jovem
+- Política de Juventude
+- Programa
+- Programa Infante DOM Henrique
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:584813:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:651703:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/333/1993/09/29/p/dre
+- type: repealed_by
+  target: pt:dre:584813:por
+  label: "Revogada pela Port.745-I/96.1996.12.18.PCM, DR.IS-B [292]2Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-i-1996-584813
+  date: '1996-12-18'
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:20:24Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 228/96
+
+de 26 de Junho
+
+O conhecimento das diversas regiões e a compreensão da sua evolução histórica constituem um dos meios privilegiados de integração social dos jovens e da sua inserção harmoniosa na sociedade.
+
+Vivenciar as realidades sócio-culturais e económicas das regiões, através da troca de experiências, hábitos e tradições, é uma das formas de aproximar os jovens das diferentes regiões e de contribuir para o aperfeiçoamento da identidade nacional.
+
+A mobilidade e o intercâmbio juvenis surgem assim como os instrumentos privilegiados da política de aproximação dos jovens do interior e do litoral, das cidades e do mundo rural, do Norte e do Sul, do continente e das ilhas, de Portugal e de outros países.
+
+Considerando as atribuições prosseguidas pelo Instituto Português da Juventude, no âmbito da promoção, desenvolvimento e coordenação de programas de mobilidade e intercâmbios juvenis:
+
+Manda o Governo, pela Secretaria de Estado da Juventude, ao abrigo do disposto no n.º 3 do artigo 2.º do [Decreto-Lei n.º 333/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1993-651703), de 29 de Setembro, o seguinte:
+
+1.º É criado o Programa Infante D. Henrique.
+
+2.º É aprovado o Regulamento do Programa Infante D. Henrique, que faz parte integrante da presente portaria.
+
+3.º É atribuída a gestão do Programa Infante D. Henrique ao Instituto Português da Juventude.
+
+Presidência do Conselho de Ministros.
+
+Assinada em 28 de Maio de 1996.
+
+O Secretário de Estado da Juventude, António José Martins Seguro.
+
+REGULAMENTO DO PROGRAMA INFANTE D. HENRIQUE
+
+###### Artigo 1.º — Objecto
+
+Pela presente portaria é criado o Programa Infante D. Henrique, que visa promover a mobilidade e o intercâmbio juvenil através de medidas que incentivem a troca de experiências entre jovens e o conhecimento das realidades sócio-culturais das diversas regiões do País e entre jovens de outros países.
+
+###### Artigo 2.º — Medidas de apoio
+
+1 - No âmbito do Programa Infante D. Henrique são criadas as seguintes medidas de apoio:
+
+a) Medida n.º 1, «Mobilidade e intercâmbio no território continental»;
+
+b) Medida n.º 2, «Mobilidade e intercâmbio no território nacional»;
+
+c) Medida n.º 3, «Mobilidade de jovens luso-descendentes»;
+
+d) Medida n.º 4, «Campos de trabalho internacional».
+
+2 - A entidade responsável pela gestão do Programa elaborará, no prazo de sete dias, os respectivos regulamentos específicos.
+
+###### Artigo 3.º — Destinatários
+
+Podem participar no Programa Infante D. Henrique:
+
+a) Na medida n.º 1, os jovens residentes no continente com idades compreendidas entre os 12 e os 30 anos;
+
+b) Na medida n.º 2, os jovens residentes em território nacional que tenham idades compreendidas entre os 12 e os 30 anos;
+
+c) Na medida n.º 3, os jovens luso-descendentes não residentes em território nacional e jovens residentes em território nacional com idades compreendidas entre os 18 e os 30 anos;
+
+d) Na medida n.º 4, os jovens com idades compreendidas entre os 18 e os 30 anos.
+
+###### Artigo 4.º — Entidades promotoras
+
+1 - Para as medidas n.os 1, 2 e 4 podem apresentar projectos ao Programa Infante D. Henrique as seguintes entidades:
+
+a) Associações juvenis inscritas no Registo Nacional de Associações de Juventude;
+
+b) Casas de juventude;
+
+c) Grupos informais de jovens;
+
+d) Organizações não governamentais de desenvolvimento.
+
+2 - As entidades referidas nas alíneas b), c) e d) do número anterior só poderão apresentar projectos desde que sediadas no território nacional.
+
+###### Artigo 5.º — Apresentação dos projectos
+
+1 - Os projectos deverão ser apresentados, em formulário próprio a fornecer pelo Instituto Português da Juventude (IPJ), até 90 dias antes do seu início e deverão decorrer até 31 de Dezembro do ano a que se referem.
+
+2 - Dos projectos a apresentar deverão constar, obrigatoriamente, os seguintes elementos:
+
+a) Os objectivos do projecto e tema central da actividade;
+
+b) O programa detalhado de actividades e respectivo cronograma;
+
+c) O número de jovens envolvidos no projecto;
+
+d) A descrição das acções preparatórias a desenvolver no âmbito do projecto;
+
+e) A duração da acção;
+
+f) O nome e a caracterização dos parceiros envolvidos;
+
+g) O orçamento detalhado da acção;
+
+h) Os curricula dos responsáveis e animadores do projecto;
+
+i) O perfil dos participantes, designadamente a idade e a formação.
+
+###### Artigo 6.º — Duração dos projectos
+
+Os projectos terão uma duração de 6 a 21 dias, de acordo com os regulamentos específicos a aprovar.
+
+###### Artigo 7.º — Apreciação dos projectos
+
+1 - Compete ao IPJ proceder à aprovação dos projectos, de acordo com os seguintes critérios:
+
+a) Melhor adequação dos projectos aos objectivos definidos no Programa;
+
+b) Grau de envolvimento de jovens com menores possibilidades de acesso à participação neste género de iniciativas, nomeadamente jovens pertencentes a regiões do interior, jovens com deficiência e desempregados;
+
+c) O grau de participação de jovens de diferentes regiões;
+
+d) O envolvimento de jovens que nunca tenham estado no local de acolhimento.
+
+2 - O IPJ procederá à análise e aprovação dos projectos num prazo máximo de 30 dias a contar da data da sua apresentação aos serviços.
+
+3 - No prazo máximo de cinco dias após a análise e aprovação dos projectos, o IPJ notificará os seus responsáveis da aprovação ou rejeição dos mesmos.
+
+###### Artigo 8.º — Apoios
+
+1 - No âmbito do apoio à mobilidade e intercâmbio juvenil, será atribuído um apoio financeiro aos projectos, de acordo com as seguintes rubricas e parâmetros:
+
+a) Às entidades de acolhimento será atribuído um financiamento entre 1500$00 até 4000$00 diários por participante, responsáveis ou animadores;
+
+b) Aos projectos englobados na medida n.º 1 será atribuído ao grupo que se desloca um financiamento máximo até 50% do custo orçamentado na acção para a opção de transporte colectivo mais económica;
+
+c) Aos projectos englobados na medida n.º 2 será atribuído ao grupo que se desloca um financiamento máximo até 75% do custo orçamentado na acção para a opção de transporte colectivo mais económica;
+
+d) Aos projectos englobados na medida n.º 3 será atribuído ao grupo que se desloca um financiamento de 40% e 50%, respectivamente para as deslocações dentro e fora do espaço europeu, do custo orçamentado na acção para a opção de transporte colectivo mais económica;
+
+e) Custos do projecto - até 10% do valor global de financiamento previsto para a rubrica de alojamento e alimentação.
+
+2 - A atribuição dos apoios aos projectos está dependente da verba orçamental disponível para este Programa.
+
+###### Artigo 9.º — Modalidades de financiamento
+
+Os apoios financeiros a atribuir aos projectos serão realizados nos seguintes termos:
+
+a) 80% até 30 dias antes do início do projecto;
+
+b) 20% até 15 dias após a entrega do relatório e contas relativo à actividade desenvolvida.
+
+###### Artigo 10.º — Deveres das entidades promotoras
+
+1 - Constituem deveres das entidades promotoras:
+
+a) A apresentação do relatório no prazo de 30 dias a contar do final da acção;
+
+b) A realização de um seguro de acidentes pessoais de todos os participantes.
+
+2 - Do relatório previsto na alínea a) do número anterior constarão, obrigatoriamente, os seguintes elementos:
+
+a) O programa realizado;
+
+b) A avaliação global da acção pelos participantes e promotores;
+
+c) A lista de participantes, com indicação do nome, idade e morada;
+
+d) O balancete financeiro do projecto;
+
+e) Os registos fotográficos ou áudio-visuais do desenvolvimento da acção.
+
+3 - O não cumprimento do previsto nos números anteriores condiciona a atribuição de apoios futuros e obriga à restituição das verbas já recebidas.
+
+###### Artigo 11.º — Deveres dos jovens participantes
+
+Constitui dever dos jovens participantes a aceitação das condições do presente Regulamento.
+
+###### Artigo 12.º — Deveres do IPJ
+
+Constituem deveres do IPJ:
+
+a) Elaborar e submeter à aprovação do membro do Governo responsável pela área da juventude os regulamentos específicos que se justificarem;
+
+b) Efectuar os pagamentos devidos;
+
+c) Acompanhar e avaliar o desenrolar das actividades desenvolvidas;
+
+d) Esclarecer e interpretar as dúvidas suscitadas no presente Regulamento.
+
+###### Artigo 13.º — Financiamento
+
+A aprovação dos projectos apresentados no âmbito do presente Programa fica condicionada à dotação orçamental prevista.

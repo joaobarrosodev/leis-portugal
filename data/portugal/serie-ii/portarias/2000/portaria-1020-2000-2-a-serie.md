@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:1670382:por
+title: Portaria n.º 1020/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Exército - Comando do Pessoal - Direcção de Administração e Mobilização do Pessoal - Repartição
+  de Pessoal Militar Não Permanente
+proposing_entity: null
+official_number: 1020/2000 (2.ª série)
+official_date: null
+publication_date: '2000-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/2000, Série II de 2000-07-20
+  number: '166'
+  series: II
+  supplement: null
+  pages: 12008 - 12008
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/07/166000000/1200812008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1670382'
+  dre_path: /dr/detalhe/portaria/1020-2000-1670382
+  internal: pt:dre:1670382:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1020-2000-1670382
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1020-2000-1670382
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:05:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d4d0ba1e411c4cbcb0dea51215e1d39d137042b719068244237e9d7ff00de882
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:05:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:05:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1020/2000 (2.ª série)
+
+Portaria n.º 1020/2000 (2.ª série). - Manda o Chefe do Estado-Maior do Exército promover ao posto de tenente desde 19 de Dezembro de 1999, nos termos dos artigos 395.º e 396.º , n.º 1, alínea a), ambos do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), com as alterações verificadas por força do normativo do artigo 30.º do [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de Junho, contando a antiguidade e efeitos administrativos desde a mesma data, os alferes em seguida mencionados:
+
+ALF E SAP. ENGENHARIA RC (10579694) Adriano Ferreira da Rocha.
+
+ALF TM EXPLOR. TRANSM. RC (30448893) Amílcar Duarte Teixeira Alexandre.
+
+ALF A CAMP. INFO. OBS. LI RC (24454593) António José Dias Leitão.
+
+ALF A CAMP. INFO. OBS. LI RC (32803592) António Miguel Branquinho Adriano.
+
+ALF A CAMP. INFO. OBS. LI RC (20959091) Dennis Paulo da Silva Gomes Pelote.
+
+ALF I ARMAS PES. CANHA RC (35137493) João Almeida Duque Martinho.
+
+ALF A CAMP. INFO. OBS. LI RC (24789291) João Miguel Matos Gomes.
+
+ALF E SAP. ENGENHARIA RC (24683693) João Paulo Luís Heleno.
+
+ALF SP SECRETARIADO RC (14972792) José Luís Laranjeira Arrães.
+
+ALF AM ADM. FINANÇAS RC (35579593) José Manuel Saraiva Vilanova Vasco.
+
+ALF EF ED. FÍSICA RC (32936192) Luís António de Oliveira Vasconcelos.
+
+ALF A CAMP. INFO. OBS. LI RC (08573992) Luís Filipe Sequeira Nunes.
+
+ALF TM EXPLOR. TRANSM. RC (28541291) Marco Manuel Pereira dos Santos.
+
+ALF A CAMP. INFO. OBS. LI RC (23550993) Miguel Júlio Justino.
+
+ALF SP PROGRAMADOR RC (20732591) Paulo Jorge Almeida Januário.
+
+ALF A AA MÍSSIL RC (30336693) Paulo Jorge de Jesus Marques.
+
+ALF A CAMP. INFO. OBS. LI RC (23962992) Paulo Jorge Soares Rodrigues.
+
+ALF TP OP. TRANSPORTES RC (37276192) Pedro Menéres Cudell Salgueiro.
+
+ALF EF ED. FÍSICA RC (22315191) Rui Fernando Martins Carvalho.
+
+ALF A CAMP. DIR. TIRO RC (15406292) Tomé Noiva Gonçalves.
+
+ALF A CAMP. DIR. TIRO RC (23585092) Vítor Manuel Teixeira da Silva.
+
+Por subdelegação do major-general DAMP, após subdelegação do tenente-general AGE, por delegação do general CEME.
+
+29 de Junho de 2000. - O Chefe da Repartição, Joaquim Carneiro Ribeiro, coronel de infantaria.

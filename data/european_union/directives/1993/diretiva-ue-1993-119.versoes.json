@@ -1,0 +1,1207 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0119:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0119-20130101",
+ "dre_path": null,
+ "source_lastmod": "2013-01-01",
+ "versions": [
+  {
+   "date": "1993-12-31",
+   "future": false,
+   "celex": "31993L0119",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7b5654a4632f45c2",
+    "7519981274dc5910",
+    "790e815027a50f7f",
+    "534b28264121d326",
+    "ac2ec5a7ec229a02",
+    "80fd7d7ec2738437",
+    "fa67c1c7e03ac3a0",
+    "cbaef2dd9a812c6d",
+    "adab852ab43c1e09",
+    "303c753fd746f7a7",
+    "1ee4c94b83bb8243",
+    "dd523d4e3b821374",
+    "fe8a330a8dc89921",
+    "96f9ec8cdefa26e8",
+    "e2badf4624560ede",
+    "53001eee8fa1bdfd",
+    "e96e09c26fd9bcb8",
+    "b6955f109e4fe557",
+    "3a773ce0f14e44d1",
+    "8ea853c92d13007f",
+    "ce74e1a5fdf3e54d",
+    "d74c8f6b1c40e3ea",
+    "1a2ba3956184df9f",
+    "0f7526be0ab7d67f",
+    "dbb34ce7d478bc2e",
+    "b7fb570606f364c8",
+    "cc13cd9ebaad67c8"
+   ]
+  },
+  {
+   "date": "2007-01-05",
+   "future": false,
+   "celex": "01993L0119-20070105",
+   "acts": [
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32005R0001:por",
+     "title": "REGULAMENTO(CE) N. o 1/2005 DO CONSELHO de 22 de Dezembro de 2004",
+     "published": null,
+     "celex": "32005R0001"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita CAPÍTULO I",
+    "Adita Disposições gerais",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita CAPÍTULO II",
+    "Adita Requisitos aplicáveis aos matadouros",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita CAPÍTULO III",
+    "Adita Abate e occisão fora de matadouros",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita CAPÍTULO IV",
+    "Adita Disposições finais",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita ANEXO A",
+    "Adita REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS",
+    "Adita I. Requisitos gerais",
+    "Adita II. Requisitos relativos aos animais não transportados em contentores",
+    "Adita III. Requisitos relativos aos animais transportados em contentores",
+    "Adita ANEXO B",
+    "Adita IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO",
+    "Adita ANEXO C",
+    "Adita ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+    "Adita I. MÉTODOS AUTORIZADOS",
+    "Adita A. Atordoamento",
+    "Adita B. Occisão",
+    "Adita II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO",
+    "Adita 1. Pistola de êmbolo retráctil",
+    "Adita 2. Concussão",
+    "Adita 3. Electronarcose",
+    "Adita A. Eléctrodos",
+    "Adita B. Tanques de imersão",
+    "Adita 4. Exposição ao dióxido de carbono",
+    "Adita III. REQUISITOS ESPECÍFICOS RELATIVOS À OCCISÃO",
+    "Adita 1. Pistola ou carabina de bala",
+    "Adita 2. Decapitação e desconjunção do pescoço",
+    "Adita 3. Electrocussão e dióxido de carbono",
+    "Adita 4. Câmara de vácuo",
+    "Adita ANEXO D",
+    "Adita SANGRIA DOS ANIMAIS",
+    "Adita ANEXO E",
+    "Adita MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS",
+    "Adita Métodos autorizados",
+    "Adita ANEXO F",
+    "Adita MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+    "Adita I. Métodos autorizados",
+    "Adita II. Requisitos específicos",
+    "Adita 1. Instrumentos mecânicos que penetram no cérebro",
+    "Adita 2. Injecção de uma dose letal de uma substância com propriedades anestésicas",
+    "Adita 3. Electrocussão com paragem cardíaca",
+    "Adita 4. Exposição ao monóxido de carbono",
+    "Adita 5. Exposição ao clorofórmio",
+    "Adita 6. Exposição ao dióxido de carbono",
+    "Adita ANEXO G",
+    "Adita OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO",
+    "Adita I. Métodos autorizados para a occisão dos pintos",
+    "Adita 1. Utilização de um dispositivo mecânico que provoque uma morte rápida",
+    "Adita 2. Exposição ao dióxido de carbono",
+    "Adita III. Método autorizado para a occisão dos embriões",
+    "Adita Notas",
+    "Suprime CAPÍTULO I Disposições gerais — Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime CAPÍTULO II Requisitos aplicáveis aos matadouros — Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime CAPÍTULO III Abate e occisão fora de matadouros — Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime CAPÍTULO IV Disposições finais — Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime Artigo 19º",
+    "Suprime ANEXO A — REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS",
+    "Suprime ANEXO B — IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO",
+    "Suprime ANEXO C — ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+    "Suprime ANEXO D — SANGRIA DOS ANIMAIS",
+    "Suprime ANEXO E — MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS",
+    "Suprime ANEXO F — MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+    "Suprime ANEXO G — OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO"
+   ],
+   "fragments": [
+    "907bbeec373c8fbe",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "7e207b0981fec7ec",
+    "89804f1f90ab8519",
+    "bd1a7fc7e039276c",
+    "f0f8c960bfdbce9b",
+    "545e785118d15005",
+    "d470ccd0a91bc398",
+    "a747b3a5a0dc614e",
+    "caa822fd8a38e793",
+    "041e8bd7c59b79e5",
+    "ad09cb7e919ba6cc",
+    "1e7a0903d2eed348",
+    "a1d129bfc1c23a0d",
+    "44ccc4e916ea684a",
+    "6ca0d50fa4e6c8f2",
+    "e7df9a9bc98539ec",
+    "c928b0288fee7f58",
+    "1ecfc79da3f1ac7f",
+    "bbdde795c58f027f",
+    "445615ae05714120",
+    "c05450688d748802",
+    "5ae6cd02a117b941",
+    "395b932d35e3d4e6",
+    "ca49963e190c35d1",
+    "6a9c127ac60d4314",
+    "fe23fcede97efb4b",
+    "c5f705ca1c5a3e34",
+    "3e4b98cb1ef06f44",
+    "a77edfb8e4951e75",
+    "b0bf3d65e1452add",
+    "b3a2261072911880",
+    "c13b99ba13d00e28",
+    "7c4310dc0c723abe",
+    "591b360bfddd10d2",
+    "66c26b0fc2b57896",
+    "b367d2b35c7227ff",
+    "736ba32d8521ae0f",
+    "f7c130a7915889ff",
+    "a748a1ff7f11cf4d",
+    "189346d1c5adbb3d",
+    "b3b72d639c20e38d",
+    "f7c4f85292e8dfc4",
+    "b7bb35d5611871c2",
+    "69ba4afc85193500",
+    "647293a384df97b2",
+    "a1d3070b47707a59",
+    "1a7933bbbec57003",
+    "d3749dd708a118e3",
+    "fa85176a80db9054",
+    "359abb290e4801f5",
+    "0470f2b2d090a327",
+    "3cc2470746d881d8",
+    "770bf5cf1c6359a7",
+    "853a31a7e1fb4fdc",
+    "98f0e005b5781da2",
+    "7886036784f939fa",
+    "f55f1e6f81fd0fc0",
+    "9340d385e443b339",
+    "be65dc498550dfc4",
+    "79da6e7195be458a",
+    "f13b7302f21a5bf0",
+    "d07f36bb75fa2623",
+    "96b8b239bfc9e5d2",
+    "ee962a216de9fad0",
+    "1f300a32d48f94d9",
+    "9bf972fa28920924",
+    "50940dfa435fcf66",
+    "19034cdf361658a8",
+    "be65dc498550dfc4",
+    "5c3478fc0884c1e8",
+    "e68c5d35cecc6718",
+    "a62bd1c00b8a2cd6",
+    "aa3e221feba04a1b"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "celex": "01993L0119-20130101",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1099:por",
+     "title": "REGULAMENTO (CE) N. o 1099/2009 DO CONSELHO de 24 de Setembro de 2009",
+     "published": null,
+     "celex": "32009R1099"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera I. Requisitos gerais",
+    "Altera II. Requisitos relativos aos animais não transportados em contentores",
+    "Altera II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO",
+    "Altera A. Eléctrodos",
+    "Altera B. Tanques de imersão",
+    "Altera 4. Exposição ao dióxido de carbono",
+    "Suprime CAPÍTULO I",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime CAPÍTULO II",
+    "Suprime Requisitos aplicáveis aos matadouros",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime CAPÍTULO III",
+    "Suprime Abate e occisão fora de matadouros",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime Disposições finais",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime III. Requisitos relativos aos animais transportados em contentores",
+    "Suprime ANEXO B",
+    "Suprime IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO",
+    "Suprime I. MÉTODOS AUTORIZADOS",
+    "Suprime A. Atordoamento",
+    "Suprime B. Occisão",
+    "Suprime 1. Pistola de êmbolo retráctil",
+    "Suprime 2. Concussão",
+    "Suprime III. REQUISITOS ESPECÍFICOS RELATIVOS À OCCISÃO",
+    "Suprime 1. Pistola ou carabina de bala",
+    "Suprime 2. Decapitação e desconjunção do pescoço",
+    "Suprime 3. Electrocussão e dióxido de carbono",
+    "Suprime 4. Câmara de vácuo",
+    "Suprime ANEXO D",
+    "Suprime SANGRIA DOS ANIMAIS",
+    "Suprime ANEXO E",
+    "Suprime MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS",
+    "Suprime Métodos autorizados",
+    "Suprime ANEXO F",
+    "Suprime MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+    "Suprime I. Métodos autorizados",
+    "Suprime II. Requisitos específicos",
+    "Suprime 1. Instrumentos mecânicos que penetram no cérebro",
+    "Suprime 2. Injecção de uma dose letal de uma substância com propriedades anestésicas",
+    "Suprime 3. Electrocussão com paragem cardíaca",
+    "Suprime 4. Exposição ao monóxido de carbono",
+    "Suprime 5. Exposição ao clorofórmio",
+    "Suprime 6. Exposição ao dióxido de carbono",
+    "Suprime ANEXO G",
+    "Suprime OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO",
+    "Suprime I. Métodos autorizados para a occisão dos pintos",
+    "Suprime 1. Utilização de um dispositivo mecânico que provoque uma morte rápida",
+    "Suprime 2. Exposição ao dióxido de carbono",
+    "Suprime III. Método autorizado para a occisão dos embriões",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "6c47c9951f7bff03",
+    "c5f705ca1c5a3e34",
+    "3e4b98cb1ef06f44",
+    "6c71a70dba7d1d6a",
+    "84e92d4048ab9438",
+    "591b360bfddd10d2",
+    "66c26b0fc2b57896",
+    "6fcf51c51b84a397",
+    "f7c4f85292e8dfc4",
+    "6424dc462bbd2182",
+    "ff7b8c94df5b6289",
+    "46699e063b16d0fb"
+   ]
+  }
+ ],
+ "fragments": {
+  "7b5654a4632f45c2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/119/CE do Conselho, de 22 de Dezembro de 1993, relativa à protecção dos animais no abate e/ou occisão** *Jornal Oficial nº L 340 de 31/12/1993 p. 0021 - 0034 Edição especial finlandesa: Capítulo 3 Fascículo 55 p. 0194 Edição especial sueca: Capítulo 3 Fascículo 55 p. 0194*\n\nDIRECTIVA 93/119/CE DO CONSELHO\n\nde 22 de Dezembro de 1993\n\nrelativa à protecção dos animais no abate e/ou occisão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 74/577/CEE (4) estabelece normas relativas ao atordoamento dos animais antes do abate;\n\nConsiderando que a Convenção Europeia para a Protecção dos Animais para Abate foi aprovada em nome da Comunidade pela Decisão 88/306/CEE (5); que o âmbito da convenção é mais vasto do que o das actuais disposições comunitárias na matéria;\n\nConsiderando que as legislações nacionais relativas à protecção dos animais no abate ou occisão afectam as condições de concorrência e, consequentemente, o funcionamento do mercado comum dos produtos agrícolas;\n\nConsiderando que é por isso necessário estabelecer normas mínimas comuns para a protecção dos animais no abate ou occisão, a fim de assegurar uma evolução racional da produção e facilitar a realização do mercado interno no que respeita aos animais e aos produtos de origem animal;\n\nConsiderando que, no abate ou occisão dos animais, a dor ou sofrimento inúteis devem ser evitados;\n\nConsiderando contudo que é necessário autorizar experiências técnicas e científicas e ter em conta as exigências particulares de determinados ritos religiosos;\n\nConsiderando que as normas devem igualmente assegurar aos animais não abrangidos pela convenção uma protecção adequada no abate ou occisão;\n\nConsiderando que, através da declaração relativa à protecção dos animais apensa à acta final do Tratado da União Europeia, a conferência convida o Parlamento Europeu, o Conselho e a Comissão, bem como os Estados-membros, a terem plenamente em conta as exigências em matéria de bem-estar dos animais na elaboração e aplicação da legislação comunitária no domínio da política agrícola comum;\n\nConsiderando que, para tal, a acção comunitária deverá respeitar as exigências decorrentes do princípio da subsidiariedade consignado no artigo 3ºB do Tratado;\n\nConsiderando que é necessário revogar a Directiva 74/577/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA"
+  },
+  "7519981274dc5910": {
+   "fragment_id": "CAPÍTULO I Disposições gerais — Artigo 1º",
+   "type": "divisao",
+   "heading": "CAPÍTULO I Disposições gerais — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I Disposições gerais — Artigo 1º\n\n1. A presente directiva é aplicável ao encaminhamento, estabulação, imobilização, atordoamento, abate e occisão de animais criados e mantidos para a produção de carne ou o aproveitamento de pele ou de outros produtos e às occisões para efeitos de luta contra as epizootias.\n\n2. A presente directiva não é aplicável:\n\n- às experiências técnicas ou científicas relativas às operações mencionadas no nº 1 efectuadas sob o controlo da autoridade competente,\n\n- aos animais mortos em manifestações culturais ou desportivas,\n\n- aos animais de caça selvagem mortos de acordo com o artigo 3º da Directiva 92/45/CEE."
+  },
+  "790e815027a50f7f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. Matadouro: qualquer estabelecimento ou instalação, incluindo as instalações destinadas ao encaminhamento ou estabulação dos animais, utilizadas para o abate comercial dos animais referidos no nº 1 do artigo 5º;\n\n2. Encaminhamento: a descarga ou condução de animais de plataformas de desembarque, locais de estabulação ou parques dos matadouros até às celas ou locais de abate;\n\n3. Estabulação: a manutenção dos animais em estábulos, parques, lugares cobertos ou campos utilizados pelos matadouros a fim de lhes proporcionar, se for caso disso, os cuidados necessários (abeberamento, alimentação, repouso) antes do abate;\n\n4. Imobilização: a aplicação, a um animal, de qualquer processo destinado a limitar os seus movimentos, a fim de facilitar um atordoamento ou occisão eficazes;\n\n5. Atordoamento: qualquer processo que, quando aplicado a um animal, lhe provoque rapidamente um estado de inconsciência, no qual é mantido até ocorrer a morte;\n\n6. Occisão: qualquer processo que provoque a morte de um animal;\n\n7. Abate: morte de um animal por sangria;\n\n8. Autoridade competente: a autoridade central de um Estado-membro competente para efectuar os controlos veterinários ou qualquer autoridade em que aquela tenha delegado essa competência.\n\nNo entanto, a autoridade religiosa do Estado-membro por conta da qual são efectuados os abates é competente para a aplicação e o controlo das disposições especiais aplicáveis ao abate segundo certos ritos religiosos. No tocante às restantes disposições da presente directiva, esta autoridade actua sob responsabilidade do veterinário oficial, tal como definido no artigo 2º da Directiva 64/433/CEE."
+  },
+  "534b28264121d326": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nPoupar-se-á aos animais qualquer excitação, dor ou sofrimento evitável durante o encaminhamento, estabulação, imobilização, atordoamento, abate e occisão."
+  },
+  "ac2ec5a7ec229a02": {
+   "fragment_id": "CAPÍTULO II Requisitos aplicáveis aos matadouros — Artigo 4º",
+   "type": "divisao",
+   "heading": "CAPÍTULO II Requisitos aplicáveis aos matadouros — Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II Requisitos aplicáveis aos matadouros — Artigo 4º\n\nA construção, as instalações e os equipamentos dos matadouros, bem como o seu funcionamento devem poupar aos animais qualquer excitação, dor ou sofrimento evitáveis."
+  },
+  "80fd7d7ec2738437": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os solípedes, os ruminantes, os suínos, os coelhos e as aves de capoeira introduzidos para abate em matadouros devem ser:\n\na) Encaminhados e, se necessário, estabulados, em conformidade com as disposições do anexo A;\n\nb) Imobilizados em conformidade com as disposições do anexo B;\n\nc) Atordoados antes do abate ou mortos instantaneamente em conformidade com as disposições do anexo C;\n\nd) Sangrados em conformidade com as disposições do anexo D.\n\n2. As exigências previstas na alínea c) do nº 1 não se aplicam aos animais que são objecto de métodos especiais de abate requeridos por determinados ritos religiosos.\n\n3. Na observância das regras gerais do Tratado, no que se refere aos estabelecimentos que beneficiam de um estatuto derrogatório ao abrigo do disposto nos artigos 4º e 13º da Directiva 64/433/CEE, no artigo 4º da Directiva 91/498/CEE e nos artigos 7º e 18º da Directiva 71/118/CEE, as autoridades competentes dos Estados-membros podem derrogar, no que diz respeito aos bovinos, as disposições previstas na alínea a) do nº 1 e, no caso das aves de capoeira, dos coelhos, dos suínos, dos ovinos e dos caprinos, as disposições previstas na alínea a) do nº 1, assim como os processos de atordoamento e de abate previstos no anexo C, desde que sejam respeitadas as exigências previstas no artigo 3º"
+  },
+  "fa67c1c7e03ac3a0": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os instrumentos, o material de imobilização, o equipamento e as instalações de atordoamento ou occisão devem ser concebidos, construídos, mantidos e utilizados de modo a provocar o atordoamento ou a occisão rápida e eficaz, em conformidade com as disposições da presente directiva. A autoridade competente verificará se os instrumentos, o material de imobilização, o equipamento e as instalações de atordoamento e occisão satisfazem os princípios acima referidos, e controlará regularmente se se encontram em bom estado e permitem satisfazer o objectivo acima enunciado.\n\n2. Devem ser mantidos no local de abate equipamento e instrumentos sobressalentes adequados para utilização em caso de emergência, os quais devem ser mantidos em condições adequadas e regularmente inspeccionados."
+  },
+  "cbaef2dd9a812c6d": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nApenas podem proceder ao encaminhamento, à estabulação, à imobilização, ao atordoamento, ao abate ou à occisão de animais, pessoas que possuam os conhecimentos e capacidade necessários para efectuar essas operações de modo humanitário eficaz, de acordo com os requisitos da presente directiva.\n\nA autoridade competente certificar-se-á da aptidão, capacidade e conhecimentos profissionais das pessoas encarregadas do abate."
+  },
+  "adab852ab43c1e09": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nA inspecção e a fiscalização dos matadouros devem ser efectuadas sob a responsabilidade da autoridade competente, a qual deve, em qualquer altura, ter livre acesso a todas as zonas dos matadouros a fim de se assegurar da observância da presente directiva. Essa inspecção e fiscalização podem todavia ser efectuadas aquando de controlos realizados com outros objectivos."
+  },
+  "303c753fd746f7a7": {
+   "fragment_id": "CAPÍTULO III Abate e occisão fora de matadouros — Artigo 9º",
+   "type": "divisao",
+   "heading": "CAPÍTULO III Abate e occisão fora de matadouros — Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III Abate e occisão fora de matadouros — Artigo 9º\n\n1. Caso os animais a que se refere o nº 1 do artigo 5º sejam abatidos fora dos matadouros, são aplicáveis o nº 1, alíneas b), c) e d), do artigo 5º\n\n2. Os Estados-membros podem todavia conceder derrogações ao nº 1 no que respeita ao abate ou occisão de aves de capoeira, coelhos, suínos, ovinos e caprinos fora do matadouro pelo proprietário para consumo próprio, desde que sejam cumpridas as disposições do artigo 3º e que os animais das espécies suína, ovina e caprina tenham sido previamente atordoados."
+  },
+  "1ee4c94b83bb8243": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Caso os animais a que se refere o nº 1 do artigo 5º devam ser objecto de abate ou occisão para efeitos de luta contra doenças, essas operações serão efectuadas de acordo com o disposto no anexo E.\n\n2. Os animais criados para aproveitamento da pele devem ser mortos em conformidade com o disposto no anexo F.\n\n3. Os pintos do dia, tal como definidos no nº 3 do artigo 2º da Directiva 90/539/CEE, e os excedentes de embriões nas incubadoras destinados à eliminação devem ser mortos o mais rapidamente possível, de acordo com o disposto no anexo G."
+  },
+  "dd523d4e3b821374": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nAs disposições dos artigos 9º e 10º não são aplicáveis aos animais que, por razões de emergência, devam ser imediatamente mortos."
+  },
+  "fe8a330a8dc89921": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs animais feridos ou doentes devem ser abatidos ou mortos in loco. Todavia, a autoridade competente pode autorizar o transporte de animais feridos ou doentes para o abate ou occisão, desde que esse transporte não provoque sofrimentos suplementares aos animais."
+  },
+  "96f9ec8cdefa26e8": {
+   "fragment_id": "CAPÍTULO IV Disposições finais — Artigo 13º",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV Disposições finais — Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV Disposições finais — Artigo 13º\n\n1. Caso necessário, o Conselho, deliberando por maioria qualificada e sob proposta da Comissão, adoptará medidas para a protecção dos animais não abrangidos pela presente directiva no momento do abate ou occisão.\n\n2. a) Os anexos da presente directiva serão alterados pelo Conselho, deliberando sob proposta da Comissão e de acordo com o procedimento previsto no nº 1, na perspectiva designadamente da sua adaptação à evolução tecnológica e científica.\n\nb) Além disso, e o mais tardar até 31 de Dezembro de 1995, a Comissão apresentará ao Conselho um relatório elaborado com base num parecer do Comité Científico Veterinário, acompanhado de propostas adequadas no que se refere à utilização, designadamente:\n\n- de pistolas de bala com impacte a nível do cérebro ou de gases que não sejam os referidos no anexo C ou suas combinações utilizadas para o atordoamento, e nomeadamente o dióxido de carbono para o atordoamento das aves de capoeira,\n\n- de gases para a occisão, para além dos gases referidos no anexo C ou suas combinações,\n\n- de qualquer outro método de atordoamento ou de occisão cientificamente reconhecido.\n\nO Conselho pronunciar-se-á por maioria qualificada sobre estas propostas.\n\nc) Em derrogação à alínea a), e o mais tardar até 31 de Dezembro de 1995, a Comissão, segundo o procedimento previsto no artigo 16º, apresentará ao Comité Veterinário Permanente um relatório elaborado com base num parecer do Comité Científico Veterinário, acompanhado de propostas adequadas, a fim de fixar:\n\ni) A intensidade e a duração da utilização da corrente necessária para o atordoamento das várias espécies em questão;\n\nii) A concentração do gás e a duração de exposição necessárias para o atordoamento das várias espécies em causa.\n\nd) Enquanto se aguarda a execução das disposições constantes das alíneas b) e c), continuam a ser aplicáveis as regras nacionais na matéria, no respeito das disposições gerais do Tratado."
+  },
+  "e2badf4624560ede": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Na medida em que seja necessário para assegurar a aplicação uniforme da presente directiva, poderão ser efectuados controlos in loco por peritos da Comissão. Para o efeito, esses peritos poderão verificar, mediante o controlo de uma amostra representativa de estabelecimentos, se a autoridade competente controla a aplicação dos requisitos da presente directiva por parte desses estabelecimentos.\n\nA Comissão informará os Estados-membros do resultado dos controlos efectuados.\n\n2. Os controlos referidos no nº 1 serão efectuados em colaboração com a autoridade competente.\n\n3. O Estado-membro em cujo território se efectuar um controlo prestará toda a ajuda necessária aos peritos no cumprimento da sua missão.\n\n4. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 16º"
+  },
+  "53001eee8fa1bdfd": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nQuando procederem à inspecção dos matadouros ou estabelecimentos autorizados ou a autorizar em países terceiros para efeitos de lhes permitir exportar para a Comunidade nos termos da regulamentação comunitária, os peritos da Comissão certificar-se-ão de que os animais a que se refere o artigo 5º foram abatidos em condições que ofereçam garantias de tratamento humanitário pelo menos equivalentes às constantes da presente directiva.\n\nPara que as carnes provenientes de países terceiros possam ser importadas, o certificado sanitário que as acompanha deverá ser completado por uma declaração que confirme a observância deste requisito."
+  },
+  "e96e09c26fd9bcb8": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. Sempre que é feita referência ao procedimento definido no presente artigo, o Comité Veterinário Permanente será imediatamente chamado a pronunciar-se pelo seu presidente, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. a) A Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que a proposta da Comissão lhe foi submetida, o Conselho não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "b6955f109e4fe557": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nA Directiva 74/577/CEE é revogada com efeitos a 1 de Janeiro de 1995."
+  },
+  "3a773ce0f14e44d1": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas que incluam eventuais sanções necessárias para dar cumprimento à presente directiva até 1 de Janeiro de 1995. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-membros.\n\n2. Todavia, a partir da data fixada no nº 1, os Estados-membros podem, na observância das disposições gerais do Tratado, manter ou aplicar nos seus territórios disposições mais rigorosas do que as previstas na presente directiva. Os Estados-membros informarão a Comissão de toda e qualquer medida que tomem nesse sentido.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "8ea853c92d13007f": {
+   "fragment_id": "Artigo 19º",
+   "type": "artigo",
+   "heading": "Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 22 de Dezembro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nJ.-M. DEHOUSSE\n\n(1) JO nº C 314 de 5. 12. 1991, p. 14.\n\n(2) JO nº C 241 de 21. 9. 1992, p. 75.\n\n(3) JO nº C 106 de 27. 4. 1992, p. 15.\n\n(4) JO nº L 316 de 26. 11. 1974, p. 10.\n\n(5) JO nº L 137 de 2. 6. 1988, p. 25."
+  },
+  "ce74e1a5fdf3e54d": {
+   "fragment_id": "ANEXO A — REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS",
+   "type": "divisao",
+   "heading": "ANEXO A — REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS\n\nI. Requisitos gerais\n\n1. Todos os matadouros que entrem em funcionamento após 30 de Junho de 1994 devem dispor de equipamento e instalações adequados à descarga dos animais dos meios de transporte, e todos os matadouros existentes devem dispor de tais instalações antes de 1 de Janeiro de 1996.\n\n2. Os animais devem ser descarregados o mais rapidamente possível após a chegada. Se for inevitável uma demora, os animais devem ser protegidos contra condições climáticas extremas e beneficiar de uma ventilação adequada.\n\n3. Os animais que corram o risco de se ferirem mutuamente devido à sua espécie, sexo, idade ou origem devem ser mantidos e estabulados separadamente.\n\n4. Os animais devem ser protegidos contra condições climáticas desfavoráveis. Caso os animais tenham sido submetidos a temperaturas e a humidade elevadas, deve assegurar-se que sejam refrescados através de meios adequados.\n\n5. As condições e o estado sanitário dos animais devem ser inspeccionados diariamente, pelo menos de manhã e à noite.\n\n6. Sem prejuízo do disposto no capítulo VI do anexo I da Directiva 64/433/CEE, os animais submetidos a sofrimentos ou padecimentos à chegada ou durante o transporte para o matadouro, bem como os animais não desmamados, devem ser abatidos imediatamente. Se tal não for possível, esses animais devem ser separados e abatidos o mais rapidamente possível no máximo dentro das duas horas seguintes. Os animais incapazes de andar não devem ser arrastados para o local de abate, mas sim mortos no local onde se encontram ou, quando possível, transportados num carrinho ou plataforma móvel até ao local de abate de emergência, desde que essa forma de transporte não acarrete qualquer sofrimento inútil.\n\nII. Requisitos relativos aos animais não transportados em contentores\n\n1. Sempre que os matadouros possuam equipamento destinado à descarga dos animais, esse equipamento deve ter um piso não escorregadio e, se necessário, protecções laterais. As pontes, rampas e corredores devem ter paredes laterais, resguardos ou outros meios de protecção destinados a evitar a queda dos animais. As rampas de saída ou de acesso devem ter a menor inclinação possível.\n\n2. Durante a descarga, deve assegurar-se que os animais não sejam amedrontados, excitados, maltratados ou derrubados. É proibido erguer os animais pela cabeça, chifres, orelhas, patas, cauda ou pêlo, ocasionando dores ou sofrimentos inúteis. Se necessário, os animais devem ser conduzidos um a um.\n\n3. Os animais devem ser deslocados com cuidado. As passagens por onde os animais são encaminhados devem ser concebidas de modo a reduzir ao mínimo os riscos de ferimentos dos animais e dispostas de modo a tirar partido da sua natureza gregária. Os instrumentos destinados a conduzir os animais devem ser utilizados apenas para esse fim e unicamente por instantes. Os aparelhos produtores de descargas eléctricas apenas podem ser utilizados para os bovinos adultos e suínos que recusem mover-se, desde que essas descargas não durem mais de dois segundos, sejam suficientemente espaçadas e que os animais disponham de espaço suficiente para avançarem; essas descargas apenas podem ser aplicadas nos músculos dos membros posteriores.\n\n4. É proibido espancar os animais ou empurrá-los em partes especialmente sensíveis do corpo. É nomeadamente proibido esmagar, torcer ou quebrar a cauda dos animais ou agarrá-los pelos olhos. São proibidas as pancadas aplicadas com brutalidade, designadamente os pontapés.\n\n5. Os animais devem ser conduzidos às celas de abate apenas quando puderem ser imediatamente abatidos. Caso não sejam abatidos imediatamente após a chegada, os animais devem ser estabulados.\n\n6. Sem prejuízo das derrogações concedidas ao abrigo do disposto nos artigos 4º e 13º da Directiva 64/433/CEE, os matadouros devem estar equipados com um número suficiente de locais de estabulação e parques para alojar adequadamente os animais, protegendo-os das intempéries.\n\n7. Além de satisfazerem as exigências já estabelecidas na legislação comunitária, os locais de estabulação devem dispor de:\n\n- pisos não escorregadios e que não causem lesões aos animais que com eles entrem em contacto,\n\n- arejamento adequado, tendo em conta as condições extremas de temperatura e humidade previsíveis; quando sejam necessários meios de ventilação mecânicos, devem ser previstos sistemas de emergência que entrem imediatamente em funcionamento em caso de avaria,\n\n- iluminação suficiente para permitir a inspecção de todos os animais em qualquer altura; em caso de necessidade, deverá existir uma iluminação artificial de recurso adequada,\n\n- quando necessário, equipamento para prender os animais,\n\n- quando necessário, camas suficientes para os animais que devam passar a noite nos referidos locais.\n\n8. Quando, além dos locais de estabulação acima referidos, os matadouros dispuserem também de campos sem sombra ou abrigos naturais, deve ser prevista uma forma de protecção apropriada contra as intempéries. Os campos devem ser mantidos por forma a garantir que a saúde dos animais não esteja sujeita a ameaças físicas, químicas ou de outra natureza.\n\n9. Os animais que, à chegada, não sejam conduzidos directamente para o local de abate devem poder dispor em qualquer momento de água potável distribuída através de dispositivos adequados. Os animais que não tenham sido abatidos nas 12 horas seguintes à sua chegada devem ser alimentados e, subsequentemente, receber alimentos em quantidades moderadas e a intervalos adequados.\n\n10. Os animais mantidos num matadouro durante 12 horas ou mais devem ser estabulados e, se for caso disso, presos de modo a que possam deitar-se sem qualquer dificuldade. Caso os animais não estejam presos, devem ser-lhes proporcionados alimentos de um modo que lhes permita alimentarem-se sem dificuldade.\n\nIII. Requisitos relativos aos animais transportados em contentores\n\n1. Os contentores onde os animais são transportados devem ser manipulados com cuidado; é proibido atirá-los ao chão, não deixá-los cair ou derrubá-los. Tanto quanto possível, devem ser carregados e descarregados horizontal e mecanicamente.\n\n2. Os animais entregues em contentores de fundo flexível ou perfurado devem ser descarregados com especial cuidado para evitar lesões. Se necessário, os animais serão descarregados dos contentores um a um.\n\n3. Os animais que tenham sido transportados em contentores devem ser abatidos o mais rapidamente possível; se tal não for possível, devem, se necessário, ser abeberados e alimentados em conformidade com as disposições do ponto II.9."
+  },
+  "d74c8f6b1c40e3ea": {
+   "fragment_id": "ANEXO B — IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO",
+   "type": "divisao",
+   "heading": "ANEXO B — IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO\n\n1. Os animais devem ser imobilizados de modo a evitar quaisquer dores, sofrimentos, agitação, lesões ou contusões evitáveis.\n\nNo entanto, em caso de abate ritual, é obrigatória a imobilização dos animais da espécie bovina antes do abate com um processo mecânico com vista a evitar quaisquer dores, sofrimentos, agitação, lesão ou contusão aos animais.\n\n2. É proibido prender as patas dos animais ou suspendê-los antes do atordoamento ou morte. Contudo, as aves de capoeira e os coelhos podem ser suspensos para abate desde que tenham sido tomadas medidas apropriadas para que, no momento do atordoamento, os animais estejam num estado de relaxação tal que permita que a operação de atordoamento se faça em condições eficazes e sem demoras desnecessárias.\n\nAlém disso, o facto de bloquear um animal num sistema de contenção não poderá nunca ser considerado como uma suspensão.\n\n3. Os animais atordoados ou mortos por meios mecânicos ou eléctricos aplicados na cabeça devem ser posicionados de forma a permitir que o equipamento seja aplicado e utilizado comodamente, com precisão e durante o tempo estritamente necessário. Todavia, para os solípedes e os bovinos, a autoridade competente pode autorizar o recurso a meios adequados para restringir os movimentos da cabeça.\n\n4. É proibido utilizar o equipamento de atordoamento eléctrico como meio de retenção ou imobilização dos animais ou para os obrigar a moverem-se."
+  },
+  "1a2ba3956184df9f": {
+   "fragment_id": "ANEXO C — ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+   "type": "divisao",
+   "heading": "ANEXO C — ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE\n\nI. MÉTODOS AUTORIZADOS\n\nA. Atordoamento\n\n1. Pistola de êmbolo retráctil\n\n2. Concussão\n\n3. Electronarcose\n\n4. Exposição ao dióxido de carbono.\n\nB. Occisão\n\n1. Pistola ou carabina de bala\n\n2. Electrocussão\n\n3. Exposição ao dióxido de carbono.\n\nC. A autoridade competente pode todavia autorizar a decapitação, a desconjunção do pescoço ou a utilização de câmaras de vácuo como métodos de occisão relativamente a algumas espécies determinadas, desde que sejam observados o disposto no artigo 3º e as exigências específicas enunciadas no ponto III do presente anexo.\n\nII. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO\n\nO atordoamento não deve ser executado se não for possível sangrar de imediato os animais.\n\n1. Pistola de êmbolo retráctil\n\na) Os instrumentos devem ser posicionados de modo a assegurar que o projéctil penetre no córtex cerebral. É, especialmente, proibido abater os bovinos pela nuca.\n\nNo que se refere aos ovinos e caprinos, este método é autorizado se a presença de chifres impossibilitar a posição frontal. Nesse caso, o instrumento de penetração deve ser colocado imediatamente atrás da base dos chifres e dirigido para a boca, e a sangria deve ser iniciada no espaço de 15 segundos após o disparo.\n\nb) Caso seja utilizado um instrumento de êmbolo retráctil, o operador certificar-se-á de que o êmbolo regressa à sua posição normal após cada disparo. Se tal não acontecer, o instrumento não deve voltar a ser utilizado enquanto não for reparado.\n\nc) Os animais não serão colocados no recinto de atordoamento se o operador responsável pelo atordoamento não puder proceder a essa acção imediatamente após a introdução do animal nesse recinto; não se deve proceder à imobilização da cabeça do animal até que o magarefe possa efectuar o atordoamento.\n\n2. Concussão\n\na) Este processo só é permitido se for utilizado um instrumento mecânico que provoque um golpe no crânio. O operador deve certificar-se de que o instrumento é aplicado na posição adequada e que é utilizado um cartucho de carga correcta, de acordo com as instruções do fabricante, a fim de provocar um atordoamento eficaz sem fractura do crânio.\n\nb) Todavia, no caso de pequenos lotes de coelhos, quando se recorrer à aplicação de um golpe no crânio por meios não mecânicos, esta operação deve ser efectuada de modo a que o animal mergulhe imediatamente num estado de inconsciência que dure até à morte, na observância das disposições gerais constantes do artigo 3º\n\n3. Electronarcose\n\nA. Eléctrodos\n\n1. Os eléctrodos devem ser colocados de modo a envolver o cérebro, permitindo que a corrente eléctrica o atravesse. Convém além disso tomar medidas apropriadas para garantir um bom contacto eléctrico, designadamente eliminar o excesso de pêlo e molhar a pele.\n\n2. Caso os animais sejam atordoados individualmente, o aparelho deve:\n\na) Dispor de um dispositivo que meça a impedância da carga e impeça o seu funcionamento no caso de a corrente mínima exigida não passar;\n\nb) Dispor de um dispositivo sonoro ou visual que indique a duração da sua aplicação ao animal;\n\nc) Estar ligado a um dispositivo posicionado de modo a ser claramente visível para o operador que indique a tensão e a intensidade da corrente.\n\nB. Tanques de imersão\n\n1. Quando forem utilizados tanques de imersão para atordoar as aves de capoeira, o nível da água deve ser regulado de modo a permitir um bom contacto com a cabeça da ave.\n\nA intensidade e a duração da corrente eléctrica utilizada neste caso serão determinadas pela autoridade competente de modo a garantir que o animal mergulhe imediatamente num estado de inconsciência que dure até à sua morte.\n\n2. Caso as aves de capoeira mergulhadas em tanques de imersão sejam atordoadas em grupos, deve ser mantida uma tensão suficiente para produzir uma intensidade de corrente eficaz para garantir o atordoamento de cada ave.\n\n3. Devem ser tomadas medidas adequadas a fim de assegurar uma passagem satisfatória da corrente eléctrica, designadamente mediante um bom contacto conseguido molhando as patas das aves e os ganchos de suspensão.\n\n4. Os tanques de imersão para aves de capoeira devem possuir uma dimensão e profundidade adequadas ao tipo de ave a abater e não devem transbordar à entrada. O eléctrodo imerso na água deve ser do comprimento do tanque.\n\n5. Em caso de necessidade, deverá ser possível recorrer a uma ajuda manual.\n\n4. Exposição ao dióxido de carbono\n\n1. A concentração de dióxido de carbono para atordoamento dos suínos deve ser de, pelo menos, 70 % em volume.\n\n2. A câmara onde os suínos são expostos ao gás, bem como o equipamento utilizado para os conduzir a essa câmara, devem ser concebidos, construídos e mantidos de modo a evitar lesões e a compressão do tórax dos animais, e de modo a que os animais possam permanecer em pé até perderem os sentidos. O mecanismo de encaminhamento e a câmara devem dispor de uma iluminação adequada que permita que os suínos se vejam uns aos outros ou o que os rodeia.\n\n3. A câmara deve dispor de aparelhos para medir a concentração de gás no ponto de exposição máxima. Esses aparelhos devem emitir um sinal de alerta claramente visível e audível caso a concentração de dióxido de carbono desça abaixo do nível exigido.\n\n4. Os suínos devem ser colocados em parques ou contentores de modo a poderem ver-se e ser conduzidos até às câmaras de gás no espaço de 30 segundos a partir da sua entrada na instalação. Devem em seguida ser conduzidos da entrada para o ponto de concentração máxima do gás o mais rapidamente possível e ser expostos ao gás durante o tempo necessário para permanecerem inconscientes até à occisão.\n\nIII. REQUISITOS ESPECÍFICOS RELATIVOS À OCCISÃO\n\n1. Pistola ou carabina de bala\n\nEste método, que pode ser utilizado para a occisão de diversas espécies, designadamente a caça grossa de criação e os cervídeos, está sujeito à autorização da autoridade competente, a qual deve nomeadamente garantir a utilização do material por pessoal habilitado para o efeito, na observância das disposições gerais do artigo 3º da presente directiva.\n\n2. Decapitação e desconjunção do pescoço\n\nEstes métodos, utilizados unicamente para a occisão de aves de capoeira, estão sujeitos à autorização da autoridade competente, a qual deve nomeadamente garantir a utilização do material por pessoal habilitado para o efeito, na observância das disposições gerais do artigo 3º da presente directiva.\n\n3. Electrocussão e dióxido de carbono\n\nDesde que sejam observadas, para além das disposições gerais do artigo 3º, as disposições específicas contidas nos nºs 3 e 4 do ponto II do presente anexo, a autoridade competente pode autorizar a occisão de várias espécies por meio destes métodos, determinando, nessa perspectiva, a intensidade e a duração da corrente eléctrica utilizada, bem como a concentração do dióxido de carbono e a duração da exposição.\n\n4. Câmara de vácuo\n\nEste método, que é reservado à occisão sem sangria de determinados animais de consumo pertencentes a espécies cinegéticas de criação (codornizes, perdizes e faisões) está sujeito à autorização da autoridade competente, a qual, além de assegurar a observância dos requisitos do artigo 3º, se certificará de que:\n\n- os animais são colocados numa câmara estanque em que o vácuo é rapidamente obtido por meio de uma bomba eléctrica potente,\n\n- a depressão atmosférica é mantida até ao momento da morte dos animais,\n\n- a contenção dos animais em grupo é assegurada por contentores de transporte inseríveis na câmara de vácuo, cujas dimensões devem ser calculadas para o efeito."
+  },
+  "0f7526be0ab7d67f": {
+   "fragment_id": "ANEXO D — SANGRIA DOS ANIMAIS",
+   "type": "divisao",
+   "heading": "ANEXO D — SANGRIA DOS ANIMAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D — SANGRIA DOS ANIMAIS\n\n1. Em relação aos animais que tenham sido atordoados, a sangria deve ser iniciada o mais rapidamente possível após o atordoamento e deve ser efectuada de modo a provocar um escoamento de sangue rápido, profundo e completo. A sangria deverá ser sempre efectuada antes que o animal recupere a consciência.\n\n2. Todos os animais que foram atordoados devem ser sangrados por incisão de pelo menos uma das duas artérias carótidas ou dos vasos de onde derivam.\n\nApós incisão dos vasos sanguíneos, não se deve proceder a qualquer preparação dos animais ou a qualquer estímulo eléctrico antes da sangria ter cessado completamente.\n\n3. Se o atordoamento, a suspensão, o içamento e a sangria dos animais forem assegurados por uma mesma pessoa, estas operações devem ser efectuadas consecutivamente a um mesmo animal antes de serem efectuadas a qualquer outro.\n\n4. Sempre que seja utilizada uma guilhotina automática para a sangria das aves de capoeira, deve existir uma ajuda manual que permita o abate imediato se a guilhotina não funcionar."
+  },
+  "dbb34ce7d478bc2e": {
+   "fragment_id": "ANEXO E — MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS",
+   "type": "divisao",
+   "heading": "ANEXO E — MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E — MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS\n\nMétodos autorizados\n\nQualquer método autorizado em conformidade com o disposto no anexo C que assegure uma occisão infalível.\n\nNa observância das disposições gerais do artigo 3º da presente directiva, a autoridade competente pode ainda autorizar a utilização de outros métodos de occisão de animais sensíveis após se ter certificado designadamente de que:\n\n- caso sejam utilizados métodos que não provoquem a morte imediata (por exemplo, disparo com pistola de êmbolo retráctil), sejam tomadas medidas apropriadas para abater os animais o mais rapidamente possível antes de recobrarem os sentidos,\n\n- não se procederá a qualquer outra intervenção sobre os animais antes de a autoridade competente se ter certificado da morte dos mesmos."
+  },
+  "b7fb570606f364c8": {
+   "fragment_id": "ANEXO F — MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+   "type": "divisao",
+   "heading": "ANEXO F — MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO F — MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE\n\nI. Métodos autorizados\n\n1. Instrumentos mecânicos que penetrem no cérebro.\n\n2. Injecção de uma dose letal de uma substância com propriedades anestésicas.\n\n3. Electrocussão com paragem cardíaca.\n\n4. Exposição ao monóxido de carbono.\n\n5. Exposição ao clorofórmio.\n\n6. Exposição ao dióxido de carbono.\n\nA autoridade competente determinará o método mais apropriado para a occisão das diversas espécies em questão, na observância das disposições gerais do artigo 3º da presente directiva.\n\nII. Requisitos específicos\n\n1. Instrumentos mecânicos que penetram no cérebro\n\na) Os instrumentos devem ser posicionados de modo a que o projéctil penetre no córtex cerebral.\n\nb) Este método só é autorizado se for seguido de sangria imediata.\n\n2. Injecção de uma dose letal de uma substância com propriedades anestésicas\n\nOs únicos anestésicos autorizados são os que provoquem a perda imediata dos sentidos, seguida de morte, nas doses e formas de utilização apropriadas.\n\n3. Electrocussão com paragem cardíaca\n\nOs eléctrodos devem ser colocados de modo a envolver o cérebro e sobre o coração, devendo a intensidade mínima da corrente provocar a perda imediata dos sentidos e a paragem cardíaca. Todavia, no que respeita às raposas, quando os eléctrodos forem aplicados na boca e no recto, convirá aplicar durante pelo menos três segundos uma corrente de uma intensidade cujo desvio quadrático médio seja de 0,3 amperes.\n\n4. Exposição ao monóxido de carbono\n\na) A câmara de anestesia onde os animais são expostos ao gás deve ser concebida, construída e mantida de modo a evitar lesões aos animais e a permitir a sua vigilância.\n\nb) Os animais só devem ser introduzidos na câmara quando a concentração de monóxido de carbono proveniente de uma fonte de monóxido de carbono a 100 % for de pelo menos 1 % em volume.\n\nc) O gás produzido por um motor especialmente adaptado para o efeito pode ser utilizado para a occisão de mustelídeos e de chinchilas, desde que tenha sido demonstrado por meio de testes que:\n\n- o gás foi adequadamente arrefecido,\n\n- o gás foi suficientemente filtrado,\n\n- o gás está isento de todo e qualquer material ou gás irritante, e\n\n- os animais só podem ser introduzidos quando a concentração em monóxido de carbono atingir pelo menos 1 % em volume.\n\nd) Quando inalado, o gás deve em primeiro lugar provocar uma anestesia geral profunda e em seguida infalivelmente a morte.\n\ne) Os animais devem permanecer na câmara até estarem mortos.\n\n5. Exposição ao clorofórmio\n\nA exposição ao clorofórmio pode ser utilizada para a occisão das chinchilas, desde que:\n\na) A câmara onde os animais são expostos ao gás seja concebida, construída e mantida de modo a evitar lesões aos animais e a permitir a sua vigilância;\n\nb) Os animais só sejam introduzidos na câmara se esta contiver uma mistura saturada de clorofórmio e ar;\n\nc) Quando inalado, o gás provoque em primeiro lugar uma anestesia geral profunda e em seguida infalivelmente a morte;\n\nd) Os animais permaneçam na câmara até estarem mortos.\n\n6. Exposição ao dióxido de carbono\n\nO dióxido de carbono pode ser utilizado para a occisão de mustelídeos e chinchilas desde que:\n\na) A câmara de anestesia onde os animais são expostos ao gás seja concebida, construída e mantida de modo a evitar lesões aos animais e a permitir a sua vigilância;\n\nb) Os animais só sejam introduzidos na câmara quando a concentração de dióxido de carbono fornecida por uma fonte de dióxido de carbono a 100 % for a maior possível;\n\nc) Quando inalado, o gás provoque em primeiro lugar uma anestesia geral profunda e em seguida infalivelmente a morte;\n\nd) Os animais permaneçam na câmara até estarem mortos."
+  },
+  "cc13cd9ebaad67c8": {
+   "fragment_id": "ANEXO G — OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO",
+   "type": "divisao",
+   "heading": "ANEXO G — OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO G — OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO\n\nI. Métodos autorizados para a occisão dos pintos\n\n1. Utilização de um dispositivo de acção mecânica que provoque uma morte rápida.\n\n2. Exposição ao dióxido de carbono.\n\n3. A autoridade competente pode todavia autorizar a utilização de outros processos de occisão cientificamente reconhecidos desde que respeitem as disposições gerais do artigo 3º\n\nII. Requisitos específicos\n\n1. Utilização de um dispositivo mecânico que provoque uma morte rápida\n\na) Os animais devem ser mortos por um dispositivo mecânico com lâminas de rotação rápida ou martelos de esponja.\n\nb) A capacidade do aparelho deve ser suficiente para assegurar que todos os animais sejam mortos imediatamente, mesmo se tratados em grande número.\n\n2. Exposição ao dióxido de carbono\n\na) Os animais devem ser colocados num meio com a mais elevada concentração possível de dióxido de carbono proveniente de uma fonte de dióxido de carbono a 100 %.\n\nb) Os animais devem permanecer no meio atrás referido até estarem mortos.\n\nIII. Método autorizado para a occisão dos embriões\n\n1. Para a occisão instantânea de qualquer embrião vivo, todos os desperdícios das incubadoras devem ser submetidos à acção do aparelho mecânico referido do nº 1 do ponto II.\n\n2. A autoridade competente pode todavia autorizar a utilização de outros métodos de occisão cientificamente reconhecidos desde que respeitem as disposições gerais do artigo 3º"
+  },
+  "907bbeec373c8fbe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1993\n\nrelativa à protecção dos animais no abate e/ou occisão\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#E0003)),\n\nConsiderando que a Directiva 74/577/CEE ([^4^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#E0004)) estabelece normas relativas ao atordoamento dos animais antes do abate;\n\nConsiderando que a Convenção Europeia para a Protecção dos Animais para Abate foi aprovada em nome da Comunidade pela Decisão 88/306/CEE ([^5^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#E0005)); que o âmbito da convenção é mais vasto do que o das actuais disposições comunitárias na matéria;\n\nConsiderando que as legislações nacionais relativas à protecção dos animais no abate ou occisão afectam as condições de concorrência e, consequentemente, o funcionamento do mercado comum dos produtos agrícolas;\n\nConsiderando que é por isso necessário estabelecer normas mínimas comuns para a protecção dos animais no abate ou occisão, a fim de assegurar uma evolução racional da produção e facilitar a realização do mercado interno no que respeita aos animais e aos produtos de origem animal;\n\nConsiderando que, no abate ou occisão dos animais, a dor ou sofrimento inúteis devem ser evitados;\n\nConsiderando contudo que é necessário autorizar experiências técnicas e científicas e ter em conta as exigências particulares de determinados ritos religiosos;\n\nConsiderando que as normas devem igualmente assegurar aos animais não abrangidos pela convenção uma protecção adequada no abate ou occisão;\n\nConsiderando que, através da declaração relativa à protecção dos animais apensa à acta final do Tratado da União Europeia, a conferência convida o Parlamento Europeu, o Conselho e a Comissão, bem como os Estados-membros, a terem plenamente em conta as exigências em matéria de bem-estar dos animais na elaboração e aplicação da legislação comunitária no domínio da política agrícola comum;\n\nConsiderando que, para tal, a acção comunitária deverá respeitar as exigências decorrentes do princípio da subsidiariedade consignado no artigo 3.ºB do Tratado;\n\nConsiderando que é necessário revogar a Directiva 74/577/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "7e207b0981fec7ec": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável ao encaminhamento, estabulação, imobilização, atordoamento, abate e occisão de animais criados e mantidos para a produção de carne ou o aproveitamento de pele ou de outros produtos e às occisões para efeitos de luta contra as epizootias.\n\n2. A presente directiva não é aplicável:\n\n— às experiências técnicas ou científicas relativas às operações mencionadas no n.º 1 efectuadas sob o controlo da autoridade competente,\n\n— aos animais mortos em manifestações culturais ou desportivas,\n\n— aos animais de caça selvagem mortos de acordo com o artigo 3.º da Directiva 92/45/CEE."
+  },
+  "89804f1f90ab8519": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\n1. *Matadouro:* qualquer estabelecimento ou instalação, incluindo as instalações destinadas ao encaminhamento ou estabulação dos animais, utilizadas para o abate comercial dos animais referidos no n.º 1 do artigo 5.º;\n\n2. *Encaminhamento:* a descarga ou condução de animais de plataformas de desembarque, locais de estabulação ou parques dos matadouros até às celas ou locais de abate;\n\n3. *Estabulação:* a manutenção dos animais em estábulos, parques, lugares cobertos ou campos utilizados pelos matadouros a fim de lhes proporcionar, se for caso disso, os cuidados necessários (abeberamento, alimentação, repouso) antes do abate;\n\n4. *Imobilização:* a aplicação, a um animal, de qualquer processo destinado a limitar os seus movimentos, a fim de facilitar um atordoamento ou occisão eficazes;\n\n5. *Atordoamento:* qualquer processo que, quando aplicado a um animal, lhe provoque rapidamente um estado de inconsciência, no qual é mantido até ocorrer a morte;\n\n6. *Occisão:* qualquer processo que provoque a morte de um animal;\n\n7. *Abate:* morte de um animal por sangria;\n\n8. *Autoridade competente:* a autoridade central de um Estado-membro competente para efectuar os controlos veterinários ou qualquer autoridade em que aquela tenha delegado essa competência."
+  },
+  "bd1a7fc7e039276c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPoupar-se-á aos animais qualquer excitação, dor ou sofrimento evitável durante o encaminhamento, estabulação, imobilização, atordoamento, abate e occisão."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "545e785118d15005": {
+   "fragment_id": "Requisitos aplicáveis aos matadouros",
+   "type": "divisao",
+   "heading": "Requisitos aplicáveis aos matadouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos aplicáveis aos matadouros"
+  },
+  "d470ccd0a91bc398": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA construção, as instalações e os equipamentos dos matadouros, bem como o seu funcionamento devem poupar aos animais qualquer excitação, dor ou sofrimento evitáveis."
+  },
+  "a747b3a5a0dc614e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os solípedes, os ruminantes, os suínos, os coelhos e as aves de capoeira introduzidos para abate em matadouros devem ser:\n\na) Encaminhados e, se necessário, estabulados, em conformidade com as disposições do anexo A;\n\nb) Imobilizados em conformidade com as disposições do anexo B;\n\nc) Atordoados antes do abate ou mortos instantaneamente em conformidade com as disposições do anexo C;\n\nd) Sangrados em conformidade com as disposições do anexo D.\n\n2. As exigências previstas na alínea c) do n.º 1 não se aplicam aos animais que são objecto de métodos especiais de abate requeridos por determinados ritos religiosos.\n\n3. Na observância das regras gerais do Tratado, no que se refere aos estabelecimentos que beneficiam de um estatuto derrogatório ao abrigo do disposto nos artigos 4.º e 13.º da Directiva 64/433/CEE, no artigo 4.º da Directiva 91/498/CEE e nos artigos 7.º e 18.º da Directiva 71/118/CEE, as autoridades competentes dos Estados-membros podem derrogar, no que diz respeito aos bovinos, as disposições previstas na alínea a) do n.º 1 e, no caso das aves de capoeira, dos coelhos, dos suínos, dos ovinos e dos caprinos, as disposições previstas na alínea a) do n.º 1, assim como os processos de atordoamento e de abate previstos no anexo C, desde que sejam respeitadas as exigências previstas no artigo 3.º"
+  },
+  "caa822fd8a38e793": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os instrumentos, o material de imobilização, o equipamento e as instalações de atordoamento ou occisão devem ser concebidos, construídos, mantidos e utilizados de modo a provocar o atordoamento ou a occisão rápida e eficaz, em conformidade com as disposições da presente directiva. A autoridade competente verificará se os instrumentos, o material de imobilização, o equipamento e as instalações de atordoamento e occisão satisfazem os princípios acima referidos, e controlará regularmente se se encontram em bom estado e permitem satisfazer o objectivo acima enunciado.\n\n2. Devem ser mantidos no local de abate equipamento e instrumentos sobressalentes adequados para utilização em caso de emergência, os quais devem ser mantidos em condições adequadas e regularmente inspeccionados."
+  },
+  "041e8bd7c59b79e5": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nApenas podem proceder ao encaminhamento, à estabulação, à imobilização, ao atordoamento, ao abate ou à occisão de animais, pessoas que possuam os conhecimentos e capacidade necessários para efectuar essas operações de modo humanitário eficaz, de acordo com os requisitos da presente directiva.\n\nA autoridade competente certificar-se-á da aptidão, capacidade e conhecimentos profissionais das pessoas encarregadas do abate."
+  },
+  "ad09cb7e919ba6cc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA inspecção e a fiscalização dos matadouros devem ser efectuadas sob a responsabilidade da autoridade competente, a qual deve, em qualquer altura, ter livre acesso a todas as zonas dos matadouros a fim de se assegurar da observância da presente directiva. Essa inspecção e fiscalização podem todavia ser efectuadas aquando de controlos realizados com outros objectivos."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "a1d129bfc1c23a0d": {
+   "fragment_id": "Abate e occisão fora de matadouros",
+   "type": "divisao",
+   "heading": "Abate e occisão fora de matadouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Abate e occisão fora de matadouros"
+  },
+  "44ccc4e916ea684a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Caso os animais a que se refere o n.º 1 do artigo 5.º sejam abatidos fora dos matadouros, são aplicáveis o n.º 1, alíneas b), c) e d), do artigo 5.º\n\n2. Os Estados-membros podem todavia conceder derrogações ao n.º 1 no que respeita ao abate ou occisão de aves de capoeira, coelhos, suínos, ovinos e caprinos fora do matadouro pelo proprietário para consumo próprio, desde que sejam cumpridas as disposições do artigo 3.º e que os animais das espécies suína, ovina e caprina tenham sido previamente atordoados."
+  },
+  "6ca0d50fa4e6c8f2": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Caso os animais a que se refere o n.º 1 do artigo 5.º devam ser objecto de abate ou occisão para efeitos de luta contra doenças, essas operações serão efectuadas de acordo com o disposto no anexo E.\n\n2. Os animais criados para aproveitamento da pele devem ser mortos em conformidade com o disposto no anexo F.\n\n3. Os pintos do dia, tal como definidos no n.º 3 do artigo 2.º da Directiva 90/539/CEE, e os excedentes de embriões nas incubadoras destinados à eliminação devem ser mortos o mais rapidamente possível, de acordo com o disposto no anexo G."
+  },
+  "e7df9a9bc98539ec": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs disposições dos artigos 9.º e 10.º não são aplicáveis aos animais que, por razões de emergência, devam ser imediatamente mortos."
+  },
+  "c928b0288fee7f58": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs animais feridos ou doentes devem ser abatidos ou mortos *in loco*. Todavia, a autoridade competente pode autorizar o transporte de animais feridos ou doentes para o abate ou occisão, desde que esse transporte não provoque sofrimentos suplementares aos animais."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "445615ae05714120": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Caso necessário, o Conselho, deliberando por maioria qualificada e sob proposta da Comissão, adoptará medidas para a protecção dos animais não abrangidos pela presente directiva no momento do abate ou occisão.\n\na) Os anexos da presente directiva serão alterados pelo Conselho, deliberando sob proposta da Comissão e de acordo com o procedimento previsto no n.º 1, na perspectiva designadamente da sua adaptação à evolução tecnológica e científica.\n\nb) Além disso, e o mais tardar até 31 de Dezembro de 1995, a Comissão apresentará ao Conselho um relatório elaborado com base num parecer do Comité Científico Veterinário, acompanhado de propostas adequadas no que se refere à utilização, designadamente:\n\n— de pistolas de bala com impacte a nível do cérebro ou de gases que não sejam os referidos no anexo C ou suas combinações utilizadas para o atordoamento, e nomeadamente o dióxido de carbono para o atordoamento das aves de capoeira,\n\n— de gases para a occisão, para além dos gases referidos no anexo C ou suas combinações,\n\n— de qualquer outro método de atordoamento ou de occisão cientificamente reconhecido.\n\nc) Em derrogação à alínea a), e o mais tardar até 31 de Dezembro de 1995, a Comissão, segundo o procedimento previsto no artigo 16.º, apresentará ao Comité Veterinário Permanente um relatório elaborado com base num parecer do Comité Científico Veterinário, acompanhado de propostas adequadas, a fim de fixar:\n\ni) A intensidade e a duração da utilização da corrente necessária para o atordoamento das várias espécies em questão;\n\nii) A concentração do gás e a duração de exposição necessárias para o atordoamento das várias espécies em causa.\n\nd) Enquanto se aguarda a execução das disposições constantes das alíneas b) e c), continuam a ser aplicáveis as regras nacionais na matéria, no respeito das disposições gerais do Tratado."
+  },
+  "c05450688d748802": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Na medida em que seja necessário para assegurar a aplicação uniforme da presente directiva, poderão ser efectuados controlos *in loco* por peritos da Comissão. Para o efeito, esses peritos poderão verificar, mediante o controlo de uma amostra representativa de estabelecimentos, se a autoridade competente controla a aplicação dos requisitos da presente directiva por parte desses estabelecimentos.\n\nA Comissão informará os Estados-membros do resultado dos controlos efectuados.\n\n2. Os controlos referidos no n.º 1 serão efectuados em colaboração com a autoridade competente.\n\n3. O Estado-membro em cujo território se efectuar um controlo prestará toda a ajuda necessária aos peritos no cumprimento da sua missão.\n\n4. As regras de execução do presente artigo serão adoptadas de acordo com o procedimento previsto no artigo 16.º"
+  },
+  "5ae6cd02a117b941": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nQuando procederem à inspecção dos matadouros ou estabelecimentos autorizados ou a autorizar em países terceiros para efeitos de lhes permitir exportar para a Comunidade nos termos da regulamentação comunitária, os peritos da Comissão certificar-se-ão de que os animais a que se refere o artigo 5.º foram abatidos em condições que ofereçam garantias de tratamento humanitário pelo menos equivalentes às constantes da presente directiva.\n\nPara que as carnes provenientes de países terceiros possam ser importadas, o certificado sanitário que as acompanha deverá ser completado por uma declaração que confirme a observância deste requisito."
+  },
+  "395b932d35e3d4e6": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 ([^6^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#E0006)).\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE ([^7^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#E0007)).\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "ca49963e190c35d1": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA Directiva 74/577/CEE é revogada com efeitos a 1 de Janeiro de 1995."
+  },
+  "6a9c127ac60d4314": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas que incluam eventuais sanções necessárias para dar cumprimento à presente directiva até 1 de Janeiro de 1995. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-membros.\n\n2. Todavia, a partir da data fixada no n.º 1, os Estados-membros podem, na observância das disposições gerais do Tratado, manter ou aplicar nos seus territórios disposições mais rigorosas do que as previstas na presente directiva. Os Estados-membros informarão a Comissão de toda e qualquer medida que tomem nesse sentido.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "fe23fcede97efb4b": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "c5f705ca1c5a3e34": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A"
+  },
+  "3e4b98cb1ef06f44": {
+   "fragment_id": "REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS",
+   "type": "divisao",
+   "heading": "REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS APLICÁVEIS AO ENCAMINHAMENTO E À ESTABULAÇÃO DOS ANIMAIS NOS MATADOUROS"
+  },
+  "a77edfb8e4951e75": {
+   "fragment_id": "I. Requisitos gerais",
+   "type": "divisao",
+   "heading": "I. Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Requisitos gerais\n\n1. Todos os matadouros que entrem em funcionamento após 30 de Junho de 1994 devem dispor de equipamento e instalações adequados à descarga dos animais dos meios de transporte, e todos os matadouros existentes devem dispor de tais instalações antes de 1 de Janeiro de 1996.\n\n2. Os animais devem ser descarregados o mais rapidamente possível após a chegada. Se for inevitável uma demora, os animais devem ser protegidos contra condições climáticas extremas e beneficiar de uma ventilação adequada.\n\n3. Os animais que corram o risco de se ferirem mutuamente devido à sua espécie, sexo, idade ou origem devem ser mantidos e estabulados separadamente.\n\n4. Os animais devem ser protegidos contra condições climáticas desfavoráveis. Caso os animais tenham sido submetidos a temperaturas e a humidade elevadas, deve assegurar-se que sejam refrescados através de meios adequados.\n\n5. As condições e o estado sanitário dos animais devem ser inspeccionados diariamente, pelo menos de manhã e à noite.\n\n6. Sem prejuízo do disposto no capítulo VI do anexo I da Directiva 64/433/CEE, os animais submetidos a sofrimentos ou padecimentos à chegada ou durante o transporte para o matadouro, bem como os animais não desmamados, devem ser abatidos imediatamente. Se tal não for possível, esses animais devem ser separados e abatidos o mais rapidamente possível no máximo dentro das duas horas seguintes. Os animais incapazes de andar não devem ser arrastados para o local de abate, mas sim mortos no local onde se encontram ou, quando possível, transportados num carrinho ou plataforma móvel até ao local de abate de emergência, desde que essa forma de transporte não acarrete qualquer sofrimento inútil."
+  },
+  "b0bf3d65e1452add": {
+   "fragment_id": "II. Requisitos relativos aos animais não transportados em contentores",
+   "type": "divisao",
+   "heading": "II. Requisitos relativos aos animais não transportados em contentores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Requisitos relativos aos animais não transportados em contentores\n\n1. Sempre que os matadouros possuam equipamento destinado à descarga dos animais, esse equipamento deve ter um piso não escorregadio e, se necessário, protecções laterais. As pontes, rampas e corredores devem ter paredes laterais, resguardos ou outros meios de protecção destinados a evitar a queda dos animais. As rampas de saída ou de acesso devem ter a menor inclinação possível.\n\n2. Durante a descarga, deve assegurar-se que os animais não sejam amedrontados, excitados, maltratados ou derrubados. É proibido erguer os animais pela cabeça, chifres, orelhas, patas, cauda ou pêlo, ocasionando dores ou sofrimentos inúteis. Se necessário, os animais devem ser conduzidos um a um.\n\n3. Os animais devem ser deslocados com cuidado. As passagens por onde os animais são encaminhados devem ser concebidas de modo a reduzir ao mínimo os riscos de ferimentos dos animais e dispostas de modo a tirar partido da sua natureza gregária. Os instrumentos destinados a conduzir os animais devem ser utilizados apenas para esse fim e unicamente por instantes. O uso de instrumentos destinados a administrar descargas eléctricas deve ser evitado na medida do possível. Em todo o caso, esses instrumentos só podem ser utilizados em bovinos e suínos adultos que recusem mover-se e apenas se estes dispuserem de espaço suficiente para avançar. As descargas não devem durar mais do que um segundo, devendo ser devidamente espaçadas e aplicadas apenas nos músculos dos membros posteriores. As descargas não podem ser utilizadas de forma repetida se o animal não reagir.\n\n4. É proibido espancar os animais ou empurrá-los em partes especialmente sensíveis do corpo. É nomeadamente proibido esmagar, torcer ou quebrar a cauda dos animais ou agarrá-los pelos olhos. São proibidas as pancadas aplicadas com brutalidade, designadamente os pontapés.\n\n5. Os animais devem ser conduzidos às celas de abate apenas quando puderem ser imediatamente abatidos. Caso não sejam abatidos imediatamente após a chegada, os animais devem ser estabulados.\n\n6. Sem prejuízo das derrogações concedidas ao abrigo do disposto nos artigos 4.º e 13.º da Directiva 64/433/CEE, os matadouros devem estar equipados com um número suficiente de locais de estabulação e parques para alojar adequadamente os animais, protegendo-os das intempéries.\n\n7. Além de satisfazerem as exigências já estabelecidas na legislação comunitária, os locais de estabulação devem dispor de: — pisos não escorregadios e que não causem lesões aos animais que com eles entrem em contacto, — arejamento adequado, tendo em conta as condições extremas de temperatura e humidade previsíveis; quando sejam necessários meios de ventilação mecânicos, devem ser previstos sistemas de emergência que entrem imediatamente em funcionamento em caso de avaria, — iluminação suficiente para permitir a inspecção de todos os animais em qualquer altura; em caso de necessidade, deverá existir uma iluminação artificial de recurso adequada, — quando necessário, equipamento para prender os animais, — quando necessário, camas suficientes para os animais que devam passar a noite nos referidos locais.\n\n8. Quando, além dos locais de estabulação acima referidos, os matadouros dispuserem também de campos sem sombra ou abrigos naturais, deve ser prevista uma forma de protecção apropriada contra as intempéries. Os campos devem ser mantidos por forma a garantir que a saúde dos animais não esteja sujeita a ameaças físicas, químicas ou de outra natureza.\n\n9. Os animais que, à chegada, não sejam conduzidos directamente para o local de abate devem poder dispor em qualquer momento de água potável distribuída através de dispositivos adequados. Os animais que não tenham sido abatidos nas 12 horas seguintes à sua chegada devem ser alimentados e, subsequentemente, receber alimentos em quantidades moderadas e a intervalos adequados.\n\n10. Os animais mantidos num matadouro durante 12 horas ou mais devem ser estabulados e, se for caso disso, presos de modo a que possam deitar-se sem qualquer dificuldade. Caso os animais não estejam presos, devem ser-lhes proporcionados alimentos de um modo que lhes permita alimentarem-se sem dificuldade."
+  },
+  "b3a2261072911880": {
+   "fragment_id": "III. Requisitos relativos aos animais transportados em contentores",
+   "type": "divisao",
+   "heading": "III. Requisitos relativos aos animais transportados em contentores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Requisitos relativos aos animais transportados em contentores\n\n1. Os contentores onde os animais são transportados devem ser manipulados com cuidado; é proibido atirá-los ao chão, não deixá-los cair ou derrubá-los. Tanto quanto possível, devem ser carregados e descarregados horizontal e mecanicamente.\n\n2. Os animais entregues em contentores de fundo flexível ou perfurado devem ser descarregados com especial cuidado para evitar lesões. Se necessário, os animais serão descarregados dos contentores um a um.\n\n3. Os animais que tenham sido transportados em contentores devem ser abatidos o mais rapidamente possível; se tal não for possível, devem, se necessário, ser abeberados e alimentados em conformidade com as disposições do ponto II.9."
+  },
+  "c13b99ba13d00e28": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B"
+  },
+  "7c4310dc0c723abe": {
+   "fragment_id": "IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO",
+   "type": "divisao",
+   "heading": "IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMOBILIZAÇÃO DOS ANIMAIS ANTES DO ATORDOAMENTO, ABATE OU OCCISÃO\n\n1. Os animais devem ser imobilizados de modo a evitar quaisquer dores, sofrimentos, agitação, lesões ou contusões evitáveis. No entanto, em caso de abate ritual, é obrigatória a imobilização dos animais da espécie bovina antes do abate com um processo mecânico com vista a evitar quaisquer dores, sofrimentos, agitação, lesão ou contusão aos animais.\n\n2. É proibido prender as patas dos animais ou suspendê-los antes do atordoamento ou morte. Contudo, as aves de capoeira e os coelhos podem ser suspensos para abate desde que tenham sido tomadas medidas apropriadas para que, no momento do atordoamento, os animais estejam num estado de relaxação tal que permita que a operação de atordoamento se faça em condições eficazes e sem demoras desnecessárias. Além disso, o facto de bloquear um animal num sistema de contenção não poderá nunca ser considerado como uma suspensão.\n\n3. Os animais atordoados ou mortos por meios mecânicos ou eléctricos aplicados na cabeça devem ser posicionados de forma a permitir que o equipamento seja aplicado e utilizado comodamente, com precisão e durante o tempo estritamente necessário. Todavia, para os solípedes e os bovinos, a autoridade competente pode autorizar o recurso a meios adequados para restringir os movimentos da cabeça.\n\n4. É proibido utilizar o equipamento de atordoamento eléctrico como meio de retenção ou imobilização dos animais ou para os obrigar a moverem-se."
+  },
+  "591b360bfddd10d2": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C"
+  },
+  "66c26b0fc2b57896": {
+   "fragment_id": "ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+   "type": "divisao",
+   "heading": "ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ATORDOAMENTO E OCCISÃO DOS ANIMAIS, À EXCEPÇÃO DOS ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE"
+  },
+  "b367d2b35c7227ff": {
+   "fragment_id": "I. MÉTODOS AUTORIZADOS",
+   "type": "divisao",
+   "heading": "I. MÉTODOS AUTORIZADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. MÉTODOS AUTORIZADOS"
+  },
+  "736ba32d8521ae0f": {
+   "fragment_id": "A. Atordoamento",
+   "type": "divisao",
+   "heading": "A. Atordoamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Atordoamento\n\n1. Pistola de êmbolo retráctil\n\n2. Concussão\n\n3. Electronarcose\n\n4. Exposição ao dióxido de carbono."
+  },
+  "f7c130a7915889ff": {
+   "fragment_id": "B. Occisão",
+   "type": "divisao",
+   "heading": "B. Occisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Occisão\n\n1. Pistola ou carabina de bala\n\n2. Electrocussão\n\n3. Exposição ao dióxido de carbono.\n\nC. A autoridade competente pode todavia autorizar a decapitação, a desconjunção do pescoço ou a utilização de câmaras de vácuo como métodos de occisão relativamente a algumas espécies determinadas, desde que sejam observados o disposto no artigo 3.º e as exigências específicas enunciadas no ponto III do presente anexo."
+  },
+  "a748a1ff7f11cf4d": {
+   "fragment_id": "II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO",
+   "type": "divisao",
+   "heading": "II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO\n\nO atordoamento não deve ser executado se não for possível sangrar de imediato os animais."
+  },
+  "189346d1c5adbb3d": {
+   "fragment_id": "1. Pistola de êmbolo retráctil",
+   "type": "divisao",
+   "heading": "1. Pistola de êmbolo retráctil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Pistola de êmbolo retráctil\n\na) Os instrumentos devem ser posicionados de modo a assegurar que o projéctil penetre no córtex cerebral. É, especialmente, proibido abater os bovinos pela nuca.\n\nb) Caso seja utilizado um instrumento de êmbolo retráctil, o operador certificar-se-á de que o êmbolo regressa à sua posição normal após cada disparo. Se tal não acontecer, o instrumento não deve voltar a ser utilizado enquanto não for reparado.\n\nc) Os animais não serão colocados no recinto de atordoamento se o operador responsável pelo atordoamento não puder proceder a essa acção imediatamente após a introdução do animal nesse recinto; não se deve proceder à imobilização da cabeça do animal até que o magarefe possa efectuar o atordoamento."
+  },
+  "b3b72d639c20e38d": {
+   "fragment_id": "2. Concussão",
+   "type": "divisao",
+   "heading": "2. Concussão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Concussão\n\na) Este processo só é permitido se for utilizado um instrumento mecânico que provoque um golpe no crânio. O operador deve certificar-se de que o instrumento é aplicado na posição adequada e que é utilizado um cartucho de carga correcta, de acordo com as instruções do fabricante, a fim de provocar um atordoamento eficaz sem fractura do crânio.\n\nb) Todavia, no caso de pequenos lotes de coelhos, quando se recorrer à aplicação de um golpe no crânio por meios não mecânicos, esta operação deve ser efectuada de modo a que o animal mergulhe imediatamente num estado de inconsciência que dure até à morte, na observância das disposições gerais constantes do artigo 3.º"
+  },
+  "f7c4f85292e8dfc4": {
+   "fragment_id": "3. Electronarcose",
+   "type": "divisao",
+   "heading": "3. Electronarcose",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Electronarcose"
+  },
+  "b7bb35d5611871c2": {
+   "fragment_id": "A. Eléctrodos",
+   "type": "divisao",
+   "heading": "A. Eléctrodos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Eléctrodos\n\n1. Os eléctrodos devem ser colocados de modo a envolver o cérebro, permitindo que a corrente eléctrica o atravesse. Convém além disso tomar medidas apropriadas para garantir um bom contacto eléctrico, designadamente eliminar o excesso de pêlo e molhar a pele.\n\n2. Caso os animais sejam atordoados individualmente, o aparelho deve: a) Dispor de um dispositivo que meça a impedância da carga e impeça o seu funcionamento no caso de a corrente mínima exigida não passar; b) Dispor de um dispositivo sonoro ou visual que indique a duração da sua aplicação ao animal; c) Estar ligado a um dispositivo posicionado de modo a ser claramente visível para o operador que indique a tensão e a intensidade da corrente."
+  },
+  "69ba4afc85193500": {
+   "fragment_id": "B. Tanques de imersão",
+   "type": "divisao",
+   "heading": "B. Tanques de imersão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Tanques de imersão\n\n1. Quando forem utilizados tanques de imersão para atordoar as aves de capoeira, o nível da água deve ser regulado de modo a permitir um bom contacto com a cabeça da ave. A intensidade e a duração da corrente eléctrica utilizada neste caso serão determinadas pela autoridade competente de modo a garantir que o animal mergulhe imediatamente num estado de inconsciência que dure até à sua morte.\n\n2. Caso as aves de capoeira mergulhadas em tanques de imersão sejam atordoadas em grupos, deve ser mantida uma tensão suficiente para produzir uma intensidade de corrente eficaz para garantir o atordoamento de cada ave.\n\n3. Devem ser tomadas medidas adequadas a fim de assegurar uma passagem satisfatória da corrente eléctrica, designadamente mediante um bom contacto conseguido molhando as patas das aves e os ganchos de suspensão.\n\n4. Os tanques de imersão para aves de capoeira devem possuir uma dimensão e profundidade adequadas ao tipo de ave a abater e não devem transbordar à entrada. O eléctrodo imerso na água deve ser do comprimento do tanque.\n\n5. Em caso de necessidade, deverá ser possível recorrer a uma ajuda manual."
+  },
+  "647293a384df97b2": {
+   "fragment_id": "4. Exposição ao dióxido de carbono",
+   "type": "divisao",
+   "heading": "4. Exposição ao dióxido de carbono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Exposição ao dióxido de carbono\n\n1. A concentração de dióxido de carbono para atordoamento dos suínos deve ser de, pelo menos, 70 % em volume.\n\n2. A câmara onde os suínos são expostos ao gás, bem como o equipamento utilizado para os conduzir a essa câmara, devem ser concebidos, construídos e mantidos de modo a evitar lesões e a compressão do tórax dos animais, e de modo a que os animais possam permanecer em pé até perderem os sentidos. O mecanismo de encaminhamento e a câmara devem dispor de uma iluminação adequada que permita que os suínos se vejam uns aos outros ou o que os rodeia.\n\n3. A câmara deve dispor de aparelhos para medir a concentração de gás no ponto de exposição máxima. Esses aparelhos devem emitir um sinal de alerta claramente visível e audível caso a concentração de dióxido de carbono desça abaixo do nível exigido.\n\n4. Os suínos devem ser colocados em parques ou contentores de modo a poderem ver-se e ser conduzidos até às câmaras de gás no espaço de 30 segundos a partir da sua entrada na instalação. Devem em seguida ser conduzidos da entrada para o ponto de concentração máxima do gás o mais rapidamente possível e ser expostos ao gás durante o tempo necessário para permanecerem inconscientes até à occisão."
+  },
+  "a1d3070b47707a59": {
+   "fragment_id": "III. REQUISITOS ESPECÍFICOS RELATIVOS À OCCISÃO",
+   "type": "divisao",
+   "heading": "III. REQUISITOS ESPECÍFICOS RELATIVOS À OCCISÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. REQUISITOS ESPECÍFICOS RELATIVOS À OCCISÃO"
+  },
+  "1a7933bbbec57003": {
+   "fragment_id": "1. Pistola ou carabina de bala",
+   "type": "divisao",
+   "heading": "1. Pistola ou carabina de bala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Pistola ou carabina de bala\n\nEste método, que pode ser utilizado para a occisão de diversas espécies, designadamente a caça grossa de criação e os cervídeos, está sujeito à autorização da autoridade competente, a qual deve nomeadamente garantir a utilização do material por pessoal habilitado para o efeito, na observância das disposições gerais do artigo 3.º da presente directiva."
+  },
+  "d3749dd708a118e3": {
+   "fragment_id": "2. Decapitação e desconjunção do pescoço",
+   "type": "divisao",
+   "heading": "2. Decapitação e desconjunção do pescoço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Decapitação e desconjunção do pescoço\n\nEstes métodos, utilizados unicamente para a occisão de aves de capoeira, estão sujeitos à autorização da autoridade competente, a qual deve nomeadamente garantir a utilização do material por pessoal habilitado para o efeito, na observância das disposições gerais do artigo 3.º da presente directiva."
+  },
+  "fa85176a80db9054": {
+   "fragment_id": "3. Electrocussão e dióxido de carbono",
+   "type": "divisao",
+   "heading": "3. Electrocussão e dióxido de carbono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Electrocussão e dióxido de carbono\n\nDesde que sejam observadas, para além das disposições gerais do artigo 3.º, as disposições específicas contidas nos n.^os^ 3 e 4 do ponto II do presente anexo, a autoridade competente podeautorizar a occisão de várias espécies por meio destes métodos, determinando, nessa perspectiva, a intensidade e a duração da corrente eléctrica utilizada, bem como a concentração do dióxido de carbono e a duração da exposição."
+  },
+  "359abb290e4801f5": {
+   "fragment_id": "4. Câmara de vácuo",
+   "type": "divisao",
+   "heading": "4. Câmara de vácuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Câmara de vácuo\n\nEste método, que é reservado à occisão sem sangria de determinados animais de consumo pertencentes a espécies cinegéticas de criação (codornizes, perdizes e faisões) está sujeito à autorização da autoridade competente, a qual, além de assegurar a observância dos requisitos do artigo 3.º, se certificará de que:\n\n— os animais são colocados numa câmara estanque em que o vácuo é rapidamente obtido por meio de uma bomba eléctrica potente,\n\n— a depressão atmosférica é mantida até ao momento da morte dos animais,\n\n— a contenção dos animais em grupo é assegurada por contentores de transporte inseríveis na câmara de vácuo, cujas dimensões devem ser calculadas para o efeito."
+  },
+  "0470f2b2d090a327": {
+   "fragment_id": "ANEXO D",
+   "type": "divisao",
+   "heading": "ANEXO D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D"
+  },
+  "3cc2470746d881d8": {
+   "fragment_id": "SANGRIA DOS ANIMAIS",
+   "type": "divisao",
+   "heading": "SANGRIA DOS ANIMAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SANGRIA DOS ANIMAIS\n\n1. Em relação aos animais que tenham sido atordoados, a sangria deve ser iniciada o mais rapidamente possível após o atordoamento e deve ser efectuada de modo a provocar um escoamento de sangue rápido, profundo e completo. A sangria deverá ser sempre efectuada antes que o animal recupere a consciência.\n\n2. Todos os animais que foram atordoados devem ser sangrados por incisão de pelo menos uma das duas artérias carótidas ou dos vasos de onde derivam. Após incisão dos vasos sanguíneos, não se deve proceder a qualquer preparação dos animais ou a qualquer estímulo eléctrico antes da sangria ter cessado completamente.\n\n3. Se o atordoamento, a suspensão, o içamento e a sangria dos animais forem assegurados por uma mesma pessoa, estas operações devem ser efectuadas consecutivamente a um mesmo animal antes de serem efectuadas a qualquer outro.\n\n4. Sempre que seja utilizada uma guilhotina automática para a sangria das aves de capoeira, deve existir uma ajuda manual que permita o abate imediato se a guilhotina não funcionar."
+  },
+  "770bf5cf1c6359a7": {
+   "fragment_id": "ANEXO E",
+   "type": "divisao",
+   "heading": "ANEXO E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E"
+  },
+  "853a31a7e1fb4fdc": {
+   "fragment_id": "MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS",
+   "type": "divisao",
+   "heading": "MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE OCCISÃO COMO FORMA DE LUTA CONTRA DOENÇAS"
+  },
+  "98f0e005b5781da2": {
+   "fragment_id": "Métodos autorizados",
+   "type": "divisao",
+   "heading": "Métodos autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos autorizados\n\nQualquer método autorizado em conformidade com o disposto no anexo C que assegure uma occisão infalível.\n\nNa observância das disposições gerais do artigo 3.º da presente directiva, a autoridade competente pode ainda autorizar a utilização de outros métodos de occisão de animais sensíveis após se ter certificado designadamente de que:\n\n— caso sejam utilizados métodos que não provoquem a morte imediata (por exemplo, disparo com pistola de êmbolo retráctil), sejam tomadas medidas apropriadas para abater os animais o mais rapidamente possível antes de recobrarem os sentidos,\n\n— não se procederá a qualquer outra intervenção sobre os animais antes de a autoridade competente se ter certificado da morte dos mesmos."
+  },
+  "7886036784f939fa": {
+   "fragment_id": "ANEXO F",
+   "type": "divisao",
+   "heading": "ANEXO F",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO F"
+  },
+  "f55f1e6f81fd0fc0": {
+   "fragment_id": "MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+   "type": "divisao",
+   "heading": "MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS DE OCCISÃO DE ANIMAIS DESTINADOS AO APROVEITAMENTO DA PELE"
+  },
+  "9340d385e443b339": {
+   "fragment_id": "I. Métodos autorizados",
+   "type": "divisao",
+   "heading": "I. Métodos autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Métodos autorizados\n\n1. Instrumentos mecânicos que penetrem no cérebro.\n\n2. Injecção de uma dose letal de uma substância com propriedades anestésicas.\n\n3. Electrocussão com paragem cardíaca.\n\n4. Exposição ao monóxido de carbono.\n\n5. Exposição ao clorofórmio.\n\n6. Exposição ao dióxido de carbono.\n\nA autoridade competente determinará o método mais apropriado para a occisão das diversas espécies em questão, na observância das disposições gerais do artigo 3.º da presente directiva."
+  },
+  "be65dc498550dfc4": {
+   "fragment_id": "II. Requisitos específicos",
+   "type": "divisao",
+   "heading": "II. Requisitos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Requisitos específicos"
+  },
+  "79da6e7195be458a": {
+   "fragment_id": "1. Instrumentos mecânicos que penetram no cérebro",
+   "type": "divisao",
+   "heading": "1. Instrumentos mecânicos que penetram no cérebro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Instrumentos mecânicos que penetram no cérebro\n\na) Os instrumentos devem ser posicionados de modo a que o projéctil penetre no córtex cerebral.\n\nb) Este método só é autorizado se for seguido de sangria imediata."
+  },
+  "f13b7302f21a5bf0": {
+   "fragment_id": "2. Injecção de uma dose letal de uma substância com propriedades anestésicas",
+   "type": "divisao",
+   "heading": "2. Injecção de uma dose letal de uma substância com propriedades anestésicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Injecção de uma dose letal de uma substância com propriedades anestésicas\n\nOs únicos anestésicos autorizados são os que provoquem a perda imediata dos sentidos, seguida de morte, nas doses e formas de utilização apropriadas."
+  },
+  "d07f36bb75fa2623": {
+   "fragment_id": "3. Electrocussão com paragem cardíaca",
+   "type": "divisao",
+   "heading": "3. Electrocussão com paragem cardíaca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Electrocussão com paragem cardíaca\n\nOs eléctrodos devem ser colocados de modo a envolver o cérebro e sobre o coração, devendo a intensidade mínima da corrente provocar a perda imediata dos sentidos e a paragem cardíaca. Todavia, no que respeita às raposas, quando os eléctrodos forem aplicados na boca e no recto, convirá aplicar durante pelo menos três segundos uma corrente de uma intensidade cujo desvio quadrático médio seja de 0,3 amperes."
+  },
+  "96b8b239bfc9e5d2": {
+   "fragment_id": "4. Exposição ao monóxido de carbono",
+   "type": "divisao",
+   "heading": "4. Exposição ao monóxido de carbono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Exposição ao monóxido de carbono\n\na) A câmara de anestesia onde os animais são expostos ao gás deve ser concebida, construída e mantida de modo a evitar lesões aos animais e a permitir a sua vigilância.\n\nb) Os animais só devem ser introduzidos na câmara quando a concentração de monóxido de carbono proveniente de uma fonte de monóxido de carbono a 100 % for de pelo menos 1 % em volume.\n\nc) O gás produzido por um motor especialmente adaptado para o efeito pode ser utilizado para a occisão de mustelídeos e de chinchilas, desde que tenha sido demonstrado por meio de testes que:\n\n— o gás foi adequadamente arrefecido,\n\n— o gás foi suficientemente filtrado,\n\n— o gás está isento de todo e qualquer material ou gás irritante, e\n\n— os animais só podem ser introduzidos quando a concentração em monóxido de carbono atingir pelo menos 1 % em volume.\n\nd) Quando inalado, o gás deve em primeiro lugar provocar uma anestesia geral profunda e em seguida infalivelmente a morte.\n\ne) Os animais devem permanecer na câmara até estarem mortos."
+  },
+  "ee962a216de9fad0": {
+   "fragment_id": "5. Exposição ao clorofórmio",
+   "type": "divisao",
+   "heading": "5. Exposição ao clorofórmio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Exposição ao clorofórmio\n\nA exposição ao clorofórmio pode ser utilizada para a occisão das chinchilas, desde que:\n\na) A câmara onde os animais são expostos ao gás seja concebida, construída e mantida de modo a evitar lesões aos animais e a permitir a sua vigilância;\n\nb) Os animais só sejam introduzidos na câmara se esta contiver uma mistura saturada de clorofórmio e ar;\n\nc) Quando inalado, o gás provoque em primeiro lugar uma anestesia geral profunda e em seguida infalivelmente a morte;\n\nd) Os animais permaneçam na câmara até estarem mortos."
+  },
+  "1f300a32d48f94d9": {
+   "fragment_id": "6. Exposição ao dióxido de carbono",
+   "type": "divisao",
+   "heading": "6. Exposição ao dióxido de carbono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Exposição ao dióxido de carbono\n\nO dióxido de carbono pode ser utilizado para a occisão de mustelídeos e chinchilas desde que:\n\na) A câmara de anestesia onde os animais são expostos ao gás seja concebida, construída e mantida de modo a evitar lesões aos animais e a permitir a sua vigilância;\n\nb) Os animais só sejam introduzidos na câmara quando a concentração de dióxido de carbono fornecida por uma fonte de dióxido de carbono a 100 % for a maior possível;\n\nc) Quando inalado, o gás provoque em primeiro lugar uma anestesia geral profunda e em seguida infalivelmente a morte;\n\nd) Os animais permaneçam na câmara até estarem mortos."
+  },
+  "9bf972fa28920924": {
+   "fragment_id": "ANEXO G",
+   "type": "divisao",
+   "heading": "ANEXO G",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO G"
+  },
+  "50940dfa435fcf66": {
+   "fragment_id": "OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO",
+   "type": "divisao",
+   "heading": "OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OCCISÃO DOS PINTOS E EXCEDENTES DE EMBRIÕES NAS INCUBADORES E DESTINADOS À ELIMINAÇÃO"
+  },
+  "19034cdf361658a8": {
+   "fragment_id": "I. Métodos autorizados para a occisão dos pintos",
+   "type": "divisao",
+   "heading": "I. Métodos autorizados para a occisão dos pintos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Métodos autorizados para a occisão dos pintos\n\n1. Utilização de um dispositivo de acção mecânica que provoque uma morte rápida.\n\n2. Exposição ao dióxido de carbono.\n\n3. A autoridade competente pode todavia autorizar a utilização de outros processos de occisão cientificamente reconhecidos desde que respeitem as disposições gerais do artigo 3.º"
+  },
+  "5c3478fc0884c1e8": {
+   "fragment_id": "1. Utilização de um dispositivo mecânico que provoque uma morte rápida",
+   "type": "divisao",
+   "heading": "1. Utilização de um dispositivo mecânico que provoque uma morte rápida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Utilização de um dispositivo mecânico que provoque uma morte rápida\n\na) Os animais devem ser mortos por um dispositivo mecânico com lâminas de rotação rápida ou martelos de esponja.\n\nb) A capacidade do aparelho deve ser suficiente para assegurar que todos os animais sejam mortos imediatamente, mesmo se tratados em grande número."
+  },
+  "e68c5d35cecc6718": {
+   "fragment_id": "2. Exposição ao dióxido de carbono",
+   "type": "divisao",
+   "heading": "2. Exposição ao dióxido de carbono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Exposição ao dióxido de carbono\n\na) Os animais devem ser colocados num meio com a mais elevada concentração possível de dióxido de carbono proveniente de uma fonte de dióxido de carbono a 100 %.\n\nb) Os animais devem permanecer no meio atrás referido até estarem mortos."
+  },
+  "a62bd1c00b8a2cd6": {
+   "fragment_id": "III. Método autorizado para a occisão dos embriões",
+   "type": "divisao",
+   "heading": "III. Método autorizado para a occisão dos embriões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Método autorizado para a occisão dos embriões\n\n1. Para a occisão instantânea de qualquer embrião vivo, todos os desperdícios das incubadoras devem ser submetidos à acção do aparelho mecânico referido do n.º 1 do ponto II.\n\n2. A autoridade competente pode todavia autorizar a utilização de outros métodos de occisão cientificamente reconhecidos desde que respeitem as disposições gerais do artigo 3.º\n\n---"
+  },
+  "aa3e221feba04a1b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#src.E0001)) JO n.º C 314 de 5.12.1991, p. 14.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#src.E0002)) JO n.º C 241 de 21.9.1992, p. 75.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#src.E0003)) JO n.º C 106 de 27.4.1992, p. 15.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#src.E0004)) JO n.º L 316 de 26.11.1974, p. 10.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#src.E0005)) JO n.º L 137 de 2.6.1988, p. 25.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#src.E0006)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/97e9bbf8-eff2-4cc8-881b-158fcb5beb9f.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "6c47c9951f7bff03": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro de 1993\n\nrelativa à protecção dos animais no abate e/ou occisão"
+  },
+  "6c71a70dba7d1d6a": {
+   "fragment_id": "I. Requisitos gerais",
+   "type": "divisao",
+   "heading": "I. Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Requisitos gerais\n\n1. Todos os matadouros que entrem em funcionamento após 30 de Junho de 1994 devem dispor de equipamento e instalações adequados à descarga dos animais dos meios de transporte, e todos os matadouros existentes devem dispor de tais instalações antes de 1 de Janeiro de 1996."
+  },
+  "84e92d4048ab9438": {
+   "fragment_id": "II. Requisitos relativos aos animais não transportados em contentores",
+   "type": "divisao",
+   "heading": "II. Requisitos relativos aos animais não transportados em contentores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Requisitos relativos aos animais não transportados em contentores\n\n1. Sempre que os matadouros possuam equipamento destinado à descarga dos animais, esse equipamento deve ter um piso não escorregadio e, se necessário, protecções laterais. As pontes, rampas e corredores devem ter paredes laterais, resguardos ou outros meios de protecção destinados a evitar a queda dos animais. As rampas de saída ou de acesso devem ter a menor inclinação possível.\n\n3. [**►M3**](http://publications.europa.eu/resource/celex/32009R1099) —————**◄** As passagens por onde os animais são encaminhados devem ser concebidas de modo a reduzir ao mínimo os riscos de ferimentos dos animais e dispostas de modo a tirar partido da sua natureza gregária. [**►M3**](http://publications.europa.eu/resource/celex/32009R1099) —————**◄**\n\n6. Sem prejuízo das derrogações concedidas ao abrigo do disposto nos artigos 4.º e 13.º da Directiva 64/433/CEE, os matadouros devem estar equipados com um número suficiente de locais de estabulação e parques para alojar adequadamente os animais, protegendo-os das intempéries.\n\n7. Além de satisfazerem as exigências já estabelecidas na legislação comunitária, os locais de estabulação devem dispor de: — pisos não escorregadios e que não causem lesões aos animais que com eles entrem em contacto, — arejamento adequado, tendo em conta as condições extremas de temperatura e humidade previsíveis; quando sejam necessários meios de ventilação mecânicos, devem ser previstos sistemas de emergência que entrem imediatamente em funcionamento em caso de avaria, — iluminação suficiente para permitir a inspecção de todos os animais em qualquer altura; em caso de necessidade, deverá existir uma iluminação artificial de recurso adequada, — quando necessário, equipamento para prender os animais, — quando necessário, camas suficientes para os animais que devam passar a noite nos referidos locais.\n\n8. Quando, além dos locais de estabulação acima referidos, os matadouros dispuserem também de campos sem sombra ou abrigos naturais, deve ser prevista uma forma de protecção apropriada contra as intempéries. Os campos devem ser mantidos por forma a garantir que a saúde dos animais não esteja sujeita a ameaças físicas, químicas ou de outra natureza.\n\n9. Os animais que, à chegada, não sejam conduzidos directamente para o local de abate devem poder dispor em qualquer momento de água potável distribuída através de dispositivos adequados. [**►M3**](http://publications.europa.eu/resource/celex/32009R1099) —————**◄**"
+  },
+  "6fcf51c51b84a397": {
+   "fragment_id": "II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO",
+   "type": "divisao",
+   "heading": "II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. REQUISITOS ESPECÍFICOS RELATIVOS AO ATORDOAMENTO"
+  },
+  "6424dc462bbd2182": {
+   "fragment_id": "A. Eléctrodos",
+   "type": "divisao",
+   "heading": "A. Eléctrodos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Eléctrodos\n\n2. Caso os animais sejam atordoados individualmente, o aparelho deve: a) Dispor de um dispositivo que meça a impedância da carga e impeça o seu funcionamento no caso de a corrente mínima exigida não passar; b) Dispor de um dispositivo sonoro ou visual que indique a duração da sua aplicação ao animal; c) Estar ligado a um dispositivo posicionado de modo a ser claramente visível para o operador que indique a tensão e a intensidade da corrente."
+  },
+  "ff7b8c94df5b6289": {
+   "fragment_id": "B. Tanques de imersão",
+   "type": "divisao",
+   "heading": "B. Tanques de imersão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Tanques de imersão\n\n1. Quando forem utilizados tanques de imersão para atordoar as aves de capoeira, o nível da água deve ser regulado de modo a permitir um bom contacto com a cabeça da ave. [▼M3](http://publications.europa.eu/resource/celex/32009R1099) ————— [▼B](http://publications.europa.eu/resource/celex/31993L0119)\n\n2. Caso as aves de capoeira mergulhadas em tanques de imersão sejam atordoadas em grupos, deve ser mantida uma tensão suficiente para produzir uma intensidade de corrente eficaz para garantir o atordoamento de cada ave.\n\n4. Os tanques de imersão para aves de capoeira devem possuir uma dimensão e profundidade adequadas ao tipo de ave a abater e não devem transbordar à entrada. O eléctrodo imerso na água deve ser do comprimento do tanque."
+  },
+  "46699e063b16d0fb": {
+   "fragment_id": "4. Exposição ao dióxido de carbono",
+   "type": "divisao",
+   "heading": "4. Exposição ao dióxido de carbono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Exposição ao dióxido de carbono\n\n2. A câmara onde os suínos são expostos ao gás, bem como o equipamento utilizado para os conduzir a essa câmara, devem ser concebidos, construídos e mantidos de modo a evitar lesões e a compressão do tórax dos animais, e de modo a que os animais possam permanecer em pé até perderem os sentidos. O mecanismo de encaminhamento e a câmara devem dispor de uma iluminação adequada que permita que os suínos se vejam uns aos outros ou o que os rodeia.\n\n3. A câmara deve dispor de aparelhos para medir a concentração de gás no ponto de exposição máxima. Esses aparelhos devem emitir um sinal de alerta claramente visível e audível caso a concentração de dióxido de carbono desça abaixo do nível exigido."
+  }
+ }
+}

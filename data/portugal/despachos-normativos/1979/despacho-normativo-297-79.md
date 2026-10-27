@@ -1,0 +1,264 @@
+---
+schema_version: '1.0'
+id: pt:dre:369785:por
+title: Despacho Normativo n.º 297/79
+short_title: null
+summary: Define as áreas de competência dos diversos departamentos do Ministério
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças - Gabinete do Ministro
+proposing_entity: null
+official_number: 297/79
+official_date: null
+publication_date: '1979-09-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 219/1979, Série I de 1979-09-21
+  number: '219'
+  series: I
+  supplement: null
+  pages: 2478 - 2479
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21900/24782479.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '369785'
+  dre_path: /dr/detalhe/despacho-normativo/297-1979-369785
+  internal: pt:dre:369785:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/297-1979-369785
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/297-1979-369785
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:54:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4f35736093bddcdd957113825fbd235e3130e144fc9be2d0a0ee10977d5daa05
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ADSE
+- Auditoria Jurídica
+- Banco de Portugal
+- Caixa Geral de Aposentações
+- Conselho Consultivo do Mercado Financeiro
+- Cosec
+- Definição de Competências
+- Direcção Geral da Contabilidade Pública
+- Direcção Geral das Alfândegas
+- Direcção Geral das Contribuições e Impostos
+- Direcção Geral do Património
+- Direcção Geral do Tesouro
+- Direcção Geral do Tribunal de Contas
+- Fundo de Abastecimento
+- Gabinete de Estudos e Planeamento
+- Gabinete de Gestão dos Veículos do Estado
+- Gabinete de Informação e Relações Públicas
+- Gabinete Governamental
+- Gabinete para a Cooperação Económica Externa
+- Guarda Fiscal
+- Imprensa Nacional-Casa da Moeda
+- Inspeção Geral de Finanças
+- Inspecção de Crédito
+- Inspecção de Seguros
+- Instituto de Informática
+- Instituto Geográfico e Cadastral
+- Instituto Nacional de Seguros
+- Intendência Geral do Orçamento
+- IPE
+- Junta de Crédito Público
+- Ministério das Finanças
+- Montepio dos Servidores do Estado
+- Orgânica
+- Secretaria de Estado das Finanças
+- Secretaria de Estado do Orçamento
+- Secretaria de Estado do Tesouro
+- Secretaria Geral
+- Serviços Sociais
+relationships:
+- type: amended_by
+  target: pt:dre:365899:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:364908:por
+  label: "Alterado o art. 7.º pelo DN.315/79.13.10.1979.MF, DR.IS [237] de 13.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/315-1979-364908
+  date: '1979-10-13'
+- type: amended_by
+  target: pt:dre:364935:por
+  label: "Aditada a al. g) pelo DN.317/79.16.10.1979.MF, DR.IS [239] de 16.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/317-1979-364935
+  date: '1979-10-16'
+- type: cites
+  target: pt:dre:381505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:366453:por
+  label: Rectificado pelo DN.366/79.14.12.1979.MF, DR.IS [287] de 14.12.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/366-1979-366453
+  date: '1979-12-14'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:54:47Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 297/79
+
+A autonomização dos Ministérios das Finanças e do Plano exige que se definam as áreas de competência de cada um destes departamentos governamentais e que se estabeleçam, ainda que em termos genéricos, as respectivas orgânicas internas.
+
+Entretanto, está-se ciente de que a elaboração de uma nova lei orgânica do Ministério das Finanças, que deve culminar trabalhos há muito empreendidos, não pode prejudicar uma adequada e funcional reordenação das actuais Secretarias de Estado. Só nessa base será possível caracterizar as atribuições e competências dos diversos departamentos, órgãos e serviços dependentes do Ministério ou nele integrados, reestruturar os serviços de forma racionalmente adequada às necessidades da nova estrutura financeira e da elaboração e execução de verdadeiras políticas financeiras e monetárias, obter uma maior desconcentração e produtividade dos serviços e dos organismos dependentes, enfim, criar os organismos, serviços ou departamentos exigidos pelas novas funções que têm sido atribuídas ao Ministério.
+
+Nestes termos, ao abrigo do artigo 202.º, alínea d), da Constituição, determino o seguinte, enquanto se não proceder à reestruturação dos serviços:
+
+Artigo 1.º - 1 - O Ministério das Finanças, cuja orientação global cabe ao respectivo Ministro, compreende as seguintes Secretarias de Estado:
+
+a) Secretaria de Estado do Orçamento;
+
+b) Secretaria de Estado do Tesouro;
+
+c) Secretaria de Estado das Finanças.
+
+2 - O Conselho Superior de Economia funcionará, até à sua extinção, na directa dependência do Ministro das Finanças.
+
+Art. 2.º Dependem directamente do Ministro das Finanças os serviços seguintes:
+
+a) Gabinete do Ministro;
+
+b) Secretaria-Geral;
+
+c) Gabinete de Estudos e Planeamento;
+
+d) Auditoria Jurídica;
+
+e) Gabinete para a Cooperação Económica Externa;
+
+f) Gabinete de Informação e Relações Públicas.
+
+Art. 3.º O Ministro das Finanças exerce, por acumulação, a gestão directa da Secretaria de Estado das Finanças.
+
+Art. 4.º Na dependência do Secretário de Estado do Orçamento funcionarão os serviços seguintes:
+
+a) Gabinete do Secretário de Estado;
+
+b) Intendência-Geral do Orçamento;
+
+c) Direcção-Geral da Contabilidade Pública;
+
+d) Direcção-Geral das Contribuições e Impostos;
+
+e) Inspecção-Geral de Finanças;
+
+f) Direcção-Geral das Alfândegas;
+
+g) Guarda Fiscal;
+
+h) Fundo de Abastecimento;
+
+i) Instituto Geográfico e Cadastral;
+
+j) Instituto de Informática;
+
+l) Caixa Geral de Aposentações e Montepio dos Servidores do Estado;
+
+m) Assistência na Doença aos Servidores do Estado.
+
+Art. 5.º Na dependência do Secretário de Estado do Tesouro funcionarão os serviços seguintes:
+
+a) Gabinete do Secretário de Estado;
+
+b) Direcção-Geral do Tesouro;
+
+c) Junta do Credito Público;
+
+d) Inspecção de Seguros.
+
+Art. 6.º O Secretário de Estado do Tesouro despachará ainda os assuntos relativos:
+
+a) Ao sistema bancário;
+
+b) À Inspecção de Crédito do Banco de Portugal;
+
+c) Ao Instituto Nacional de Seguros;
+
+d) À Comissão de Crédito e de Garantia de Crédito à Exportação e à tutela da Companhia de Seguros de Crédito;
+
+e) À tutela da Imprensa Nacional-Casa da Moeda, E. P.;
+
+f) À tutela das empresas públicas a exercer pelo Ministério das Finanças nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e sua legislação complementar;
+
+g) Ao Conselho Consultivo do Mercado Financeiro;
+
+h) Às bolsas de valores.
+
+Art. 7.º Na dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:
+
+a) Gabinete do Secretário de Estado;
+
+b) Direcção-Geral do Património;
+
+c) Direcção-Geral do Tribunal de Contas;
+
+d) Serviços Sociais do Ministério das Finanças;
+
+e) Gabinete de Gestão de Veículos do Estado;
+
+f) Serviço de Informação para o Abastecimento Estatal.
+
+Art. 8.º O Secretário de Estado das Finanças despachará ainda os assuntos relativos:
+
+a) Ao Instituto das Participações do Estado;
+
+b) Ao Instituto de Cooperação Económica;
+
+c) A empresas em que se registou intervenção do Estado;
+
+d) A financiamentos propostos pela Comissão Interministerial de Financiamento a Retornados superiores a 10000 contos;
+
+e) Aos contratos de viabilização.
+
+Art. 9.º Este despacho entra em vigor no dia 1 de Setembro e revoga o [Despacho Normativo n.º 180/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/180-1979-381505).
+
+Ministério das Finanças, 29 de Agosto de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:334368:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-942970436",
+ "dre_path": "/dr/detalhe/decreto-lei/147-1999-334368",
+ "source_lastmod": "2025-10-29",
+ "versions": [
+  {
+   "date": "1999-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "942972887",
+    "942972888",
+    "942972889",
+    "942972890",
+    "942972891",
+    "942972892",
+    "942972893",
+    "942972894"
+   ]
+  }
+ ],
+ "fragments": {
+  "942972887": {
+   "fragment_id": "942970437",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 147/99\n\nde 4 de Maio\n\nComemora-se em 1999 o 25.º Aniversário da Revolução do 25 de Abril.\n\nJulga-se da maior oportunidade assinalar este evento com a emissão de uma moeda comemorativa cunhada em metal precioso e com elevado valor facial, adequado à projecção deste acontecimento.\n\nFoi ouvido o Banco de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "942972888": {
+   "fragment_id": "942970438",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É autorizada a cunhagem, pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de uma moeda comemorativa alusiva ao 25.º Aniversário do 25 de Abril.\n\n2 - A moeda referida no número anterior será cunhada em liga de prata de toque 500/1000 com 40 mm de diâmetro e 27 g de peso, com uma tolerância de mais ou menos 1/100 no peso e toque, e terá bordo serrilhado."
+  },
+  "942972889": {
+   "fragment_id": "942970439",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Na gravura do anverso inscrevem-se no rebordo as palavras «LIBERDADE» e «DEMOCRACIA»; no campo abrem-se as palavras «25 de Abril» e «25 Anos», num jogo gráfico em que os cincos se unem, provocando uma dupla leitura na rotação da moeda.\n\nEstas palavras, polidas e brilhantes, aparecem com grande força, contrastando com o campo e o rebordo, que se apresentam foscos.\n\n2 - Na gravura do reverso, o tratamento é idêntico, destacando-se os cinco escudos da nacionalidade, o valor facial e o ano da emissão. As palavras «REPÚBLICA PORTUGUESA» estão inscritas no rebordo em contraponto com as palavras «LIBERDADE» e «DEMOCRACIA» do anverso."
+  },
+  "942972890": {
+   "fragment_id": "942970440",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO limite de emissão desta moeda comemorativa é fixado em 515000000$00."
+  },
+  "942972891": {
+   "fragment_id": "942970441",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar até 15000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), destinados à comercialização, nos termos do Decreto-Lei n.º 178/88, de 19 de Maio.\n\n2 - Os espécimes numismáticos cunhados em liga de prata de toque 925/1000 têm o diâmetro de 40 mm, peso de 27 g e o bordo serrilhado, sendo as tolerâncias no peso e no toque de mais ou menos 1/100."
+  },
+  "942972892": {
+   "fragment_id": "942970442",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs moedas destinadas a distribuição pública pelo respectivo valor facial são postas em circulação por intermédio e sob requisição do Banco de Portugal."
+  },
+  "942972893": {
+   "fragment_id": "942970443",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs lucros da amoedação destinada à distribuição pública pelo respectivo valor facial serão postos pelo Ministério das Finanças à disposição da entidade promotora - Comissão Executiva das Comemorações Oficiais do 25 de Abril."
+  },
+  "942972894": {
+   "fragment_id": "942970444",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 25000$00 nestas moedas."
+  }
+ }
+}

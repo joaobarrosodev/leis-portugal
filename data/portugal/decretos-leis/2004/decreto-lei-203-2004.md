@@ -1,0 +1,748 @@
+---
+schema_version: '1.0'
+id: pt:dre:480703:por
+title: Decreto-Lei n.º 203/2004
+short_title: null
+summary: Define o regime jurídico da formação médica, após a licenciatura em Medicina, com vista à especialização, e estabelece
+  os princípios gerais a que deve obedecer o respectivo processo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 203/2004
+official_date: null
+publication_date: '2004-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/2004, Série I-A de 2004-08-18
+  number: '194'
+  series: I
+  supplement: null
+  pages: 5351 - 5357
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/08/194a00/53515357.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- O presente Decreto-Lei encontra-se revogado, salvo no que respeita a matéria remuneratória, incluindo suplementos, nos termos
+  do Decreto-Lei n.º 13/2018, de 2018-02-26 (art. 43.º) e do Decreto-Lei n.º 86/2015, de 2015-05-21 (art. 36.º, n.º 2).
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2009-08-09'
+version_history:
+  file: decreto-lei-203-2004.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2004-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-11'
+    amending: pt:dre:457003:por
+    amending_title: Decreto-Lei n.º 11/2005
+    changes:
+    - Altera Artigo 20.º
+  - date: '2007-03-14'
+    amending: pt:dre:518466:por
+    amending_title: Decreto-Lei n.º 60/2007
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+  - date: '2009-02-14'
+    amending: pt:dre:602072:por
+    amending_title: Decreto-Lei n.º 45/2009
+    changes:
+    - Adita Artigo 12.º-A
+    - Adita Artigo 14.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Revoga Artigo 14.º
+  - date: '2009-08-09'
+    amending: pt:dre:493010:por
+    amending_title: Decreto-Lei n.º 177/2009
+    changes:
+    - Adita Artigo 30.º-A
+    - Altera Artigo 12.º-A
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/203/2004/p/cons/20180226/pt/html
+  oj: null
+  dre: '480703'
+  dre_path: /dr/detalhe/decreto-lei/203-2004-480703
+  internal: pt:dre:480703:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2004-480703
+  metadata_url: https://data.dre.pt/eli/dec-lei/203/2004/p/cons/20180226/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34510475
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34510475
+  retrieved_at: '2026-10-22T11:47:22Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 154dc5f628f3b836843cc94fa95252b8ddd9235b7fb4e7fa6b65211bfb3ed5a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:47:22Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-203-2004.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Médico
+- Carreira Médica
+- Formação Profissional
+- Ensino Médico
+- Sistema Retributivo
+- Internato Complementar
+- Internato Geral
+- Internato Médico
+- Licenciatura
+- Regime de Exclusividade
+- Regime Jurídico
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:457003:por
+  label: Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2005-457003
+  date: '2005-01-06'
+- type: amended_by
+  target: pt:dre:518466:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º;
+    Altera Artigo 23.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466
+  date: '2007-03-13'
+- type: amended_by
+  target: pt:dre:602072:por
+  label: Adita Artigo 12.º-A; Adita Artigo 14.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo
+    6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 23.º;
+    Altera Artigo 25.º; Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072
+  date: '2009-02-13'
+- type: amended_by
+  target: pt:dre:493010:por
+  label: Adita Artigo 30.º-A; Altera Artigo 12.º-A; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010
+  date: '2009-08-04'
+- type: cites
+  target: pt:dre:142516:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/198/1997/08/02/p/dre
+- type: cites
+  target: pt:dre:180025:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/1999/01/27/p/dre
+- type: cites
+  target: pt:dre:222050:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/140/1998/12/04/p/dre
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+article_structure:
+  article_count: 35
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:47:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 203/2004
+
+Decreto-Lei n.º 203/2004
+
+de 18 de Agosto
+
+O actual regime jurídico dos internatos médicos, aprovado pelo Decreto-Lei n.º 128/92, de 4 de Julho, como fase de formação pós-graduada subsequente à obtenção da licenciatura em Medicina, contempla dois processos formativos - internato geral e internato complementar - autónomos entre si, embora a frequência deste último pressuponha a aprovação no internato geral.
+
+Este modelo, para além do elevado peso administrativo que lhe está associado e de provocar um hiato temporal na formação pós-graduada entre o termo do internato geral e o início do internato complementar, não se harmoniza com as actuais realidades e exigências da educação médica e dos serviços de cuidados de saúde, carecendo, pois, de ser reformulado.
+
+Nos últimos anos, com efeito, registaram-se modificações e avanços importantes na medicina, o que acarreta, necessariamente, alterações ao ensino médico pré-graduado, ao mesmo tempo que recomenda uma permanente actualização do ensino pós-graduado e um mais eficaz acompanhamento do desenvolvimento profissional contínuo durante toda a vida profissional, visando a qualidade e a excelência da formação.
+
+Por outro lado, foram introduzidas alterações importantes no ensino pré-graduado.
+
+Estas modificações respeitam à reestruturação e reforma dos cursos de licenciatura em Medicina iniciadas em 1995 e às medidas tomadas na sequência de recomendações do grupo de missão interministerial para a formação na área da saúde, criado pela Resolução do Conselho de Ministros n.º 140/98, de 4 de Dezembro.
+
+Entende-se, assim, ser oportuno redefinir o regime jurídico da formação após a licenciatura em Medicina, articulando-o melhor com os processos de formação pré-graduada e de formação contínua, perspectivando assim o processo de educação médica na sua globalidade.
+
+Nesta linha, é criado um único internato médico. Ao optar-se por um único internato médico, cabe anotar que se elimina o intervalo de tempo que, no actual regime, medeia entre a conclusão do internato geral e o início do complementar, também se reduzindo apreciavelmente o peso administrativo que os dois processos formativos implicavam.
+
+Foram ouvidos os órgãos de Governo próprio das Regiões Autónomas e a Ordem dos Médicos.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 43.º, Decreto-Lei n.º 13/2018 - Diário da República n.º 40/2018, Série I de 2018-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2018-114766032) O Decreto-Lei n.º 13/2018, de 2018-02-26, estabelece, no artigo 43.º, que, "Em matéria remuneratória, incluindo suplementos, mantém-se em vigor o regime definido no Decreto-Lei n.º 203/2004, de 18 de agosto, com a redação atual".
+
+> Nota: [Artigo 36.º, Decreto-Lei n.º 86/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2015-67250272) O presente diploma encontra-se revogado. no entanto, o Decreto-Lei n.º 86/2015, de 2015-05-21, estabelece, no n.º 2 do artigo 36.º, que, "Em matéria remuneratória, incluindo suplementos, mantém-se o regime definido no Decreto-Lei n.º 203/2004, de 18 de agosto, alterado pelos Decretos-Leis n.os 11/2005, de 6 de janeiro, 60/2007, de 13 de março, 45/2009, de 13 de fevereiro, e 177/2009, de 4 de agosto".
+
+### Capítulo I — Âmbito de aplicação
+
+###### Artigo 1.º — Objecto
+
+O presente diploma define o regime jurídico da formação médica, após a licenciatura em Medicina, com vista à especialização, e estabelece os princípios gerais a que deve obedecer o respectivo processo.
+
+###### Artigo 2.º — Natureza
+
+1 - Após a licenciatura em Medicina, inicia-se o internato médico, que corresponde a um processo único de formação médica especializada, teórica e prática, tendo como objectivo habilitar o médico ao exercício tecnicamente diferenciado na respectiva área profissional de especialização.
+
+2 - Sem prejuízo do disposto no número anterior, o exercício autónomo da medicina é reconhecido a partir da conclusão, com aproveitamento, do 2.º ano de formação do internato médico.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 3.º — Estrutura
+
+1 - O internato médico estrutura-se em áreas profissionais de especialização.
+
+2 - As áreas profissionais de especialização são aprovadas por portaria do membro do Governo responsável pela área da saúde, sob proposta da Ordem dos Médicos e ouvido o Conselho Nacional do Internato Médico.
+
+3 - A duração e os programas de formação das áreas profissionais de especialização são definidos nos termos do artigo 10.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+###### Artigo 4.º — Processo de formação
+
+1 - O internato médico é composto por um período de formação inicial e por um período subsequente de formação específica.
+
+2 - O período de formação inicial, adiante designado por ano comum, tem a duração de 12 meses.
+
+3 - O ano comum é constituído por cinco blocos formativos orientados para a medicina interna, a pediatria geral, a obstetrícia, a cirurgia geral e os cuidados de saúde primários, nos termos do programa de formação em vigor.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 5.º — Investigação médica
+
+1 - Os médicos internos devem ter acesso a programas de investigação médica, em termos a definir por portaria do membro do Governo responsável pela área da saúde.
+
+2 - A realização dos programas de investigação a que se refere o número anterior integra-se no internato médico e não implica o aumento da respectiva duração, não podendo, contudo, pôr em causa a obtenção e avaliação dos conhecimentos e aptidões inerentes ao exercício especializado para o qual o respectivo internato habilita.
+
+3 - Os médicos internos podem ter acesso a programas de investigação visando o doutoramento na área médica, em termos a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas da saúde, da ciência e do ensino superior.
+
+4 - A realização dos programas de investigação a que se refere o número anterior não prejudica a frequência do internato médico, podendo ocorrer interpolada ou concomitantemente, reflectindo-se no prolongamento do internato médico, de modo a não pôr em causa a obtenção dos conhecimentos e aptidões inerentes ao exercício especializado para o qual o respectivo internato habilita.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2004-09-01
+
+### Capítulo II — Responsabilidade pela formação médica e órgãos do internato médico
+
+###### Artigo 6.º — Responsabilidade pela formação médica
+
+1 - A formação médica durante o internato médico é atribuição do Ministério da Saúde.
+
+2 - O Ministério da Saúde exerce as suas atribuições através dos serviços e estabelecimentos de saúde e dos órgãos do internato médico, sob a coordenação da Administração Central do Sistema de Saúde, I. P., em colaboração com a Ordem dos Médicos, de acordo com o previsto no presente decreto-lei e no Regulamento do Internato Médico, aprovado por portaria do membro do Governo responsável pela área da saúde.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 7.º — Participação das Regiões Autónomas e das administrações regionais de saúde
+
+1 - As Regiões Autónomas dos Açores e da Madeira e as administrações regionais de saúde (ARS) participam, através dos órgãos próprios, na definição das necessidades nacionais de pessoal médico, no âmbito das suas atribuições.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2004-09-01
+
+###### Artigo 8.º — Órgãos do internato médico
+
+1 - São órgãos do internato médico:
+
+a) O Conselho Nacional do Internato Médico, adiante designado por Conselho Nacional;
+
+b) As comissões regionais do internato médico, adiante designadas por comissões regionais;
+
+c) As direcções do internato médico, adiante designadas por direcções de internato.
+
+d) As coordenações do internato médico, adiante designadas por coordenações.
+
+2 - Os órgãos do internato médico exercem funções de estudo e de consulta nos domínios da concepção, organização e planeamento do internato médico, bem como de orientação, coordenação e avaliação do seu desenvolvimento e funcionamento.
+
+3 - As comissões regionais exercem as suas funções nas zonas Norte, Centro e Sul e nas Regiões Autónomas dos Açores e da Madeira.
+
+4 - As direcções do internato são criadas nos estabelecimentos e serviços de saúde onde se realizem os internatos médicos, podendo essas funções, nas áreas profissionais de especialização de medicina geral e familiar e de saúde pública, ser exercidas por coordenadores de zona ou de região de saúde.
+
+5 - A composição, nomeação, competência e funcionamento dos órgãos do internato médico constam do regulamento do internato médico.
+
+6 - O Conselho Nacional e as comissões regionais podem funcionar por comissões, subcomissões ou secções, em razão de matérias e áreas profissionais.
+
+7 - Nos estabelecimentos hospitalares e nas zonas de coordenação, podem os internos constituir comissões de representantes, com a composição e atribuições previstas no regulamento do internato médico.
+
+8 - A orientação directa e permanente dos internos é feita por orientadores de formação.
+
+9 - O exercício das funções de orientador de formação a que se refere o número anterior releva para efeitos curriculares, nos termos dos regulamentos enquadradores dos concursos das carreiras médicas, em termos a definir por portaria do membro do Governo responsável pela área da saúde.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 9.º — Remuneração dos titulares de órgãos do internato médico
+
+Aos titulares dos órgãos do internato médico que não sejam abrangidos pelo artigo 61.º do Decreto-Lei n.º 73/90, de 6 de Março, é atribuído um acréscimo salarial de 10% da remuneração estabelecida para a categoria e escalão que detêm, a incidir sobre os valores fixados para o regime de trabalho de tempo completo.
+
+### Capítulo III — Programas e estabelecimentos de formação
+
+###### Artigo 10.º — Programas de formação do internato médico
+
+1 - Os programas de formação relativos ao ano comum e às áreas profissionais de especialização do internato médico são aprovados por portaria do membro do Governo responsável pela área da saúde, sob proposta da Ordem dos Médicos, ouvido o Conselho Nacional.
+
+2 - Os programas devem ser expressos quanto aos objectivos a atingir, conteúdos e actividades, duração total e parcelar dos períodos de formação, momentos e métodos de avaliação.
+
+3 - Para efeitos e condições do n.º 1, e na ausência de proposta apresentada pela Ordem dos Médicos, os programas de formação são aprovados por portaria do membro do Governo responsável pela área da saúde, sob proposta do Conselho Nacional.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 11.º — Estabelecimentos de formação
+
+1 - O internato médico realiza-se em estabelecimentos públicos, com ou sem natureza empresarial, com contrato de gestão ou em regime de convenção, do sector social, privados, em hospitais sociedades anónimas de capitais exclusivamente públicos, reconhecidos como idóneos para o efeito e de acordo com a sua capacidade formativa.
+
+2 - O reconhecimento de idoneidade e a fixação da capacidade formativa dos estabelecimentos e serviços de saúde são feitos por despacho do membro do Governo responsável pela área da saúde, sob proposta da Ordem dos Médicos, ouvido o Conselho Nacional, de acordo com as regras constantes do Regulamento do Internato Médico.
+
+3 - Para os efeitos do disposto no número anterior, e na ausência de proposta da Ordem dos Médicos, o reconhecimento de idoneidade e a fixação da capacidade formativa dos estabelecimentos e serviços de saúde são feitos por despacho do membro do Governo responsável pela área da saúde, mediante proposta do Conselho Nacional.
+
+4 - A capacidade formativa dos estabelecimentos e serviços de saúde corresponde ao número máximo de internos que podem ter simultaneamente em formação.
+
+5 - Para efeitos de reconhecimento de idoneidade e de realização do internato médico, podem os estabelecimentos agrupar-se por critérios de complementaridade dos serviços médicos de que dispõem e da área geográfica que servem.
+
+6 - A realização do internato médico em estabelecimentos do sector social, privados, estabelecimentos públicos com natureza empresarial, com contrato de gestão ou em regime de convenção, ou em hospitais sociedades anónimas de capitais exclusivamente públicos, depende da celebração de acordos, convenções ou contratos-programa entre o Ministério da Saúde e esses estabelecimentos, dos quais constam, entre outras, as cláusulas referentes às condições de formação.
+
+7 - Compete às ARS assegurar ou melhorar as condições de formação dos estabelecimentos e serviços de saúde inseridos na respectiva área geográfica, com o objectivo de promover, qualitativa e quantitativamente, o reconhecimento da respectiva idoneidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+### Capítulo IV — Admissão e forma de vinculação no internato médico
+
+###### Artigo 12.º — Admissão ao internato médico
+
+1 - A admissão ao internato médico, a que podem candidatar-se os médicos, implica a sujeição a uma prova de seriação, de âmbito nacional, a realizar no 4.º trimestre de cada ano civil, organizada pela Administração Central do Sistema de Saúde, I. P., de acordo com as regras estabelecidas no Regulamento do Internato Médico e no respectivo aviso de abertura.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - O mapa de vagas para o internato médico é fixado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde e divulgado nos termos previstos no Regulamento do Internato Médico e no aviso referido no n.º 1.
+
+7 - (Revogado).
+
+8 - Na fixação do número de lugares para o internato médico são consideradas as necessidades previsionais de médicos especializados em cada área profissional, bem como a idoneidade e capacidade formativas dos estabelecimentos e serviços de saúde, de modo a não prejudicar o seu regular funcionamento e a adequada preparação dos internos.
+
+9 - A distribuição de vagas pelas Regiões Autónomas dos Açores e da Madeira, embora obedeça aos critérios utilizados pela Administração Central do Sistema de Saúde, I. P., para a cobertura do território nacional em necessidades médicas, tem em consideração as especificidades próprias de cada Região, designadamente as condições decorrentes da insularidade.
+
+10 - Através de acordos a celebrar com os responsáveis pelas áreas da defesa, administração interna, da justiça, do desporto, do trabalho e da segurança social, são fixados os critérios que presidem à distribuição de vagas pelas correspondentes áreas, bem como as condições de colocação e frequência do internato médico ou de estágios que o integrem.
+
+11 - (Revogado).
+
+12 - (Revogado).
+
+13 - (Revogado).
+
+14 - (Revogado).
+
+15 - Para efeitos do disposto nos n.os 6 e 9, as Regiões Autónomas participam na fixação das vagas, da sua natureza e da distribuição, através de proposta a apresentar à Administração Central do Sistema de Saúde, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 12.º-A — Vagas preferenciais
+
+1 - No mapa de vagas previsto no n.º 6 do artigo 12.º, podem ser identificadas vagas preferenciais, destinadas a suprir necessidades de médicos de determinadas especialidades, as quais não podem exceder 30 % do total de vagas estabelecidas anualmente.
+
+2 - As vagas preferenciais são definidas sob proposta das administrações regionais de saúde e das Regiões Autónomas, com recurso aos instrumentos de planeamento em vigor, nomeadamente o Plano Nacional de Saúde e planos estratégicos dos hospitais e de acordo com os critérios da Administração Central do Sistema de Saúde, I. P., no uso das suas competências.
+
+3 - As vagas preferenciais são fixadas independentemente da existência de capacidade formativa no estabelecimento ou serviço onde se verificou a necessidade que a elas deu lugar, podendo a formação decorrer em estabelecimento ou serviço diferente daquele, no caso de não existir idoneidade ou capacidade formativa.
+
+4 - Os médicos internos colocados em vagas preferenciais assumem, no respectivo contrato, a obrigação de, após o internato, exercer funções no estabelecimento ou serviço onde se verificou a necessidade que deu lugar à vaga preferencial, por um período igual ao do respectivo programa de formação médica especializada, incluindo repetições.
+
+5 - O exercício de funções nos termos do número anterior efectiva-se mediante celebração do contrato de trabalho em funções públicas por tempo indeterminado, o qual é precedido de um processo de recrutamento em que são considerados e ponderados o resultado da prova de avaliação final do internato médico e a classificação obtida em entrevista de selecção a realizar para o efeito.
+
+6 - Até à celebração do contrato previsto no número anterior, mantém-se em vigor o contrato celebrado a termo resolutivo incerto para efeitos de internato médico.
+
+7 - Em casos devidamente fundamentados em proposta da ARS e autorizados pelo membro do Governo responsável pela área da saúde, ou das Regiões Autónomas, a obrigação determinada no n.º 4 pode ser cumprida em estabelecimento ou serviço de saúde públicos diferente daquele onde se verificou a necessidade que deu lugar à vaga preferencial, devendo a colocação situar-se na mesma região de saúde, salvo acordo diverso entre ARS ou Regiões Autónomas, sempre nos termos das regras de mobilidade geral aplicáveis às relações de trabalho em funções públicas, mas sem exceder um raio de 50 km ou a área da Região Autónoma respectiva.
+
+8 - O preenchimento de uma vaga preferencial confere direito a uma bolsa de formação, que acresce à remuneração do interno, de valor e condições a fixar por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde, sem prejuízo do recurso a outros regimes de incentivos legalmente previstos.
+
+9 - O pagamento da bolsa referida no número anterior é assegurado pela ARS ou Região Autónoma de vinculação, havendo, nos casos previstos na parte final do n.º 7, compensação a esta por parte da ARS, do serviço ou estabelecimento onde se verifica o cumprimento da obrigação.
+
+10 - O incumprimento da obrigação de permanência prevista no n.º 4, bem como a não conclusão do respectivo internato médico por motivo imputável ao médico interno, salvo não aproveitamento em avaliação final de internato, implica a devolução do montante percebido, a título de bolsa de formação, sendo descontados, proporcionalmente, os montantes correspondentes ao tempo prestado no estabelecimento ou serviço de saúde onde se verificou a necessidade que deu lugar à vaga preferencial, a contar da data de conclusão do respectivo internato médico.
+
+11 - O médico que realize o internato em estabelecimento ou serviço diverso daquele onde se verificou a necessidade que deu lugar à vaga preferencial deve continuar a sua formação neste último, caso o mesmo venha a adquirir capacidade formativa na respectiva área de especialização e a partir do momento em que tal circunstância não prejudicar a continuidade e a qualidade do percurso formativo, cuja colocação compete à ARS respectiva.
+
+12 - As vagas preferenciais não podem ser transformadas em vagas normais.
+
+13 - O disposto nos n.os 5 a 7 aplica-se aos médicos que estejam colocados em vagas preferenciais em estabelecimentos com natureza de entidade pública empresarial, devendo o exercício de funções, nos termos do n.º 4, efectivar-se mediante celebração de contrato de trabalho sem termo, ao abrigo do regime de pessoal daquelas entidades.
+
+> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 177/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), em vigor a partir de 2009-08-09
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+###### Artigo 13.º — Vinculação dos médicos internos
+
+1 - Os médicos internos ficam vinculados à ARS ou às Regiões Autónomas da área do estabelecimento ou serviço de saúde de colocação.
+
+2 - (Revogado).
+
+3 - O vínculo previsto no número anterior tem por objecto a colocação, nos estabelecimentos de formação previstos no artigo 11.º, mediante:
+
+a) Celebração de contrato de trabalho em funções públicas, na modalidade de contrato a termo resolutivo incerto;
+
+b) Comissão de serviço, no caso de o médico interno ser titular de uma relação jurídica de emprego público por tempo indeterminado constituída previamente.
+
+4 - O contrato a termo resolutivo incerto e a comissão de serviço a que se refere o número anterior vigoram pelo período de duração estabelecido para o respectivo programa de formação médica especializada, incluindo repetições e interrupções e, no caso das vagas preferenciais, até à efectiva celebração do contrato por tempo indeterminado.
+
+5 - (Revogado).
+
+6 - Aos médicos internos oriundos das Forças Armadas e da Guarda Nacional Republicana, para efeitos do presente artigo, aplicam-se os respectivos Estatutos.
+
+7 - A prestação do serviço militar, ainda que em regime de voluntariado, nas situações de mobilização e convocação ou de serviço cívico durante o internato médico, assim como as interrupções de frequência concedidas nos termos do n.º 2 do artigo 17.º suspendem a contagem do prazo, com lugar cativo, devendo o interno retomar a sua frequência no prazo de 30 dias após a prestação daquele serviço ou no dia seguinte ao do termo do período de interrupção.
+
+8 - O número de novos médicos internos a vincular a cada ARS ou às Regiões Autónomas é determinado, anualmente, por despacho do membro do Governo responsável pela área da saúde, publicado no Diário da República.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 14.º — Duração do contrato
+
+1 - O contrato administrativo de provimento e a comissão de serviço extraordinária, sem prejuízo do disposto nos artigos 5.º, 24.º e 25.º, têm a duração estabelecida no programa de formação da respectiva área profissional de especialização, incluindo as repetições previstas nos mesmos artigos, sendo essa duração prorrogada automaticamente até à conclusão do processo de colocação dos médicos em estabelecimentos carenciados.
+
+2 - A prestação do serviço militar, ainda que em regime de voluntariado, nas situações de mobilização e convocação ou de serviço cívico durante o internato médico, assim como as interrupções de frequência concedidas nos termos do n.º 2 do artigo 17.º, suspendem a contagem do prazo, com lugar cativo, devendo o interno retomar a sua frequência no prazo de 30 dias após a prestação daquele serviço ou no dia seguinte ao do termo do período de interrupção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 14.º-A — Acordo de colocação
+
+1 - Para efeitos do artigo 13.º, é celebrado entre a ARS ou as Regiões Autónomas e a entidade titular do serviço ou o estabelecimento de colocação, independentemente da sua natureza jurídica, um acordo de colocação.
+
+2 - O acordo de colocação não carece de consentimento do médico interno e determina a sujeição jurídica deste à organização de trabalho da entidade titular do serviço ou do estabelecimento de colocação, o qual suporta a remuneração devida e os demais encargos inerentes.
+
+3 - O disposto nos números anteriores não prejudica a aplicação do regime estabelecido no presente decreto-lei e no Regulamento do Internato Médico quanto ao regime de trabalho, às condições de frequência e de avaliação do internato médico.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+###### Artigo 15.º — Colocação dos internos
+
+1 - O internato médico inicia-se em 1 de Janeiro de cada ano civil.
+
+2 - Os médicos internos devem, na data referida no número anterior, apresentar-se nos estabelecimentos de colocação, ou de formação nos casos previstos no n.º 3 do artigo 12.º-A, determinando a não comparência:
+
+a) A anulação da colocação;
+
+b) A cessação do contrato existente noutro estabelecimento para frequência do internato médico; e
+
+c) A impossibilidade de candidatura ao concurso de admissão ao internato médico ou de colocação na formação específica durante o prazo de um ano.
+
+3 - Em caso de impossibilidade, por motivo de doença, de maternidade e paternidade, de prestação do serviço militar ou cívico e de força maior, devida e tempestivamente justificados, pode ser autorizado pela Administração Central do Sistema de Saúde, I. P., o adiamento do início do ano comum ou do período de formação específica.
+
+4 - Nas situações referidas no número anterior, a apresentação deve ser feita no dia imediato ao da respectiva cessação, excepto quando devido a serviço militar ou cívico, em que pode verificar-se até 30 dias após a data em que é dada por terminada a sua prestação.
+
+5 - A não apresentação dos internos é comunicada ao conselho directivo da Administração Central do Sistema de Saúde, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2004-09-01
+
+### Capítulo V — Regimes e condições de trabalho
+
+###### Artigo 16.º — Regime de trabalho dos internos
+
+1 - Os médicos internos estão sujeitos a horário de 40 horas semanais.
+
+2 - Os internos do internato médico devem dedicar à formação teórica e prática a sua actividade profissional durante toda a semana de trabalho e estão impedidos de acumular outras funções públicas, salvo funções docentes, ao abrigo do Decreto-Lei n.º 312/84, de 26 de Setembro, na sua redacção actual, e em escolas superiores, institutos públicos e outros estabelecimentos de ensino onde sejam ministrados cursos ou conferida formação na área da saúde, mediante autorização nos termos da lei.
+
+3 - Os horários dos internos são estabelecidos e programados em termos idênticos aos dos médicos de carreira, tendo em conta as actividades do internato.
+
+4 - (Revogado).
+
+5 - Aos médicos internos que tenham obtido acesso a programas de doutoramento em investigação médica pode ser concedido o regime de trabalho de tempo parcial, nos termos previstos no Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2004-09-01
+
+###### Artigo 17.º — Regime jurídico
+
+1 - Aos médicos internos é aplicado, com as excepções previstas nos números seguintes, o regime de férias, faltas e licenças em vigor no regime do contrato de trabalho em funções públicas para os trabalhadores em contrato de trabalho a termo resolutivo incerto.
+
+2 - Em casos excepcionais e por deliberação do conselho directivo da Administração Central do Sistema de Saúde, I. P., pode ser autorizada a interrupção da frequência do internato médico, por período não superior a metade da sua duração e com os efeitos previstos para a licença sem remuneração fundada em circunstâncias de interesse público, e sem prejuízo da duração total do programa de formação.
+
+3 - No caso de a interrupção do internato médico se dever à frequência de programas de doutoramento em investigação médica, pode a mesma ser autorizada por período de tempo superior ao determinado no número anterior, tendo em consideração a compatibilização das correspondentes programações.
+
+4 - Aos internos do internato médico podem ser concedidas comissões gratuitas de serviço, bolsas de estudo ou equiparações a bolseiro, no País ou no estrangeiro, em condições a estabelecer no regulamento do internato médico, desde que se destinem à frequência de estágios reconhecidos e de especial interesse para a sua formação, designadamente pela sua diferenciação, e que não ultrapassem a duração fixada no internato médico.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 18.º — Reafectação
+
+1 - O internato médico deve ser concluído, sem prejuízo do disposto nos números seguintes, no estabelecimento ou serviço de saúde em que os internos são colocados por concurso.
+
+2 - (Revogado).
+
+3 - A reafectação para outro estabelecimento é autorizada em casos de perda de idoneidade ou capacidade formativa dos serviços de colocação dos internos, nos termos previstos no Regulamento do Internato Médico.
+
+4 - A título excepcional e desde que se verifique um motivo relevante devidamente justificado, podem ser autorizadas reafectações para estabelecimento diferente do de colocação, nos termos previstos no Regulamento do Internato Médico.
+
+5 - As reafectações de estabelecimento a que se refere o número anterior, assim como a colocação do interno para a realização da formação específica em estabelecimento diferente daquele onde foi realizado o ano comum, implicam a transmissão da titularidade do contrato para o estabelecimento e serviço de destino com dispensa de qualquer formalidade.
+
+6 - As reafectações a que se referem os números anteriores são autorizadas por deliberação fundamentada do conselho directivo da Administração Central do Sistema de Saúde, I. P., sendo o médico interno colocado em estabelecimento indicado pela ARS ou pelos órgãos próprios das Regiões Autónomas respectivas, tendo em conta a proposta formulada pelo Conselho Nacional, atentas as capacidades formativas existentes e a proximidade do estabelecimento de colocação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 19.º — Mudança de área profissional e reingresso
+
+1 - Os médicos internos que pretendam mudar de área profissional têm de se candidatar a nova prova nacional de seriação, de acordo com as regras previstas no Regulamento do Internato Médico.
+
+2 - Os médicos internos só se podem candidatar a nova prova nacional de seriação para mudança de área profissional de especialização após a conclusão do respectivo ano comum e apenas durante o prazo de dois anos a contar da mesma data.
+
+3 - A mudança a que se refere o n.º 1 determina a realização de novo contrato de trabalho a termo resolutivo incerto.
+
+4 - Aos médicos internos que se candidatem a esta prova só é permitida uma única vez a aceitação de uma nova vaga em estabelecimento ou área profissional diferente.
+
+5 - No caso de mudança de área profissional os internos devem requerer, através do Conselho Nacional, equivalência da formação obtida anteriormente, sendo colocados, caso a equivalência seja concedida nos termos previstos no Regulamento do Internato Médico, no período formativo correspondente.
+
+6 - Após a conclusão do internato médico numa área profissional de especialização, o médico pode candidatar-se a uma segunda área profissional de especialização realizando para o efeito uma nova prova nacional de seriação.
+
+7 - A aceitação de frequência de uma segunda área profissional de especialização esgota a faculdade prevista no número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 20.º — Remuneração
+
+A remuneração base nos médicos internos é fixada por referência ao regime previsto no artigo 16.º do presente decreto-lei e é regulada por decreto regulamentar.
+
+> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 177/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), em vigor a partir de 2009-08-09
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2004-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 11/2005 - Diário da República n.º 4/2005, Série I-A de 2005-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2005-457003), em vigor a partir de 2005-01-11, produz efeitos a partir de 2005-01-01
+
+###### Artigo 21.º — Suplementos
+
+1 - Em matéria de suplementos remuneratórios com fundamento legal em trabalho extraordinário, nocturno, em dias de descanso semanal ou feriados, os internos estão abrangidos pelo regime aplicável aos médicos integrados nas carreiras médicas.
+
+2 - Aos médicos internos é atribuído um suplemento remuneratório mensal de deslocação no valor de (euro) 200, quando por condições técnicas do estabelecimento, ou dos agrupamentos de estabelecimentos, em que estejam colocados, tenham de frequentar estágio ou parte do programa de formação noutro serviço ou estabelecimento situado a mais de 50 km, onde não tenham residência.
+
+3 - O suplemento previsto no número anterior deve ser objecto de actualização anual, através de portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde.
+
+> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 177/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), em vigor a partir de 2009-08-09
+
+### Capítulo VI — Avaliação e equivalência de formação
+
+###### Artigo 22.º — Avaliação do internato médico
+
+1 - A avaliação do aproveitamento no internato médico compreende uma avaliação contínua, realizada ao longo de todo o internato, e uma avaliação final.
+
+2 - As avaliações incidem sobre os níveis de desempenho e de conhecimentos.
+
+3 - O sistema de avaliação é estabelecido no regulamento do internato médico.
+
+###### Artigo 23.º — Aprovação final e graus
+
+1 - A aprovação final no internato médico confere o grau de médico especialista na correspondente especialidade.
+
+2 - A obtenção do grau a que se refere o número anterior é comprovada por diploma emitido pela Administração Central do Sistema de Saúde, I. P.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 177/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), em vigor a partir de 2009-08-09
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 24.º — Falta de aproveitamento e repetições
+
+1 - No caso de falta de aproveitamento em estágio ou parte do programa sujeito a avaliação contínua, o período de formação avaliado deve ser repetido ou compensado nos termos do Regulamento do Internato Médico.
+
+2 - As faltas motivadas por doença, maternidade, paternidade, prestação de serviço militar ou cívico, ou motivo de força maior, devidamente comprovadas perante a respectiva coordenação ou direcção do internato e por elas justificadas, devem ser compensadas nos termos do Regulamento do Internato Médico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2007-03-14
+
+###### Artigo 25.º — Cessação do contrato
+
+1 - A falta de aproveitamento nas avaliações previstas no n.º 1 do artigo 22.º, após as repetições e compensações admitidas nos termos do artigo anterior, determina a cessação do contrato a termo resolutivo incerto ou da comissão de serviço e a consequente desvinculação do médico interno, nos termos previstos no Regulamento do Internato Médico.
+
+2 - A não comparência às provas de avaliação contínua que requeiram a presença do médico interno determina a suspensão do contrato a termo resolutivo incerto ou da comissão de serviço até que se realizem novas avaliações, salvo se justificada pelos motivos e nos termos do n.º 2 do artigo anterior.
+
+3 - A não realização da avaliação final do internato médico, na data estabelecida para o efeito, determina a cessação do contrato de trabalho a termo resolutivo incerto ou da comissão de serviço, salvo se justificada pelos motivos a que se refere o número anterior, devidamente comprovados perante o respectivo júri e por este aceites.
+
+4 - Determina, igualmente, a cessação do contrato a termo resolutivo incerto ou da comissão de serviço a não apresentação do interno ao processo de recrutamento previsto no artigo 12.º-A, bem como a não apresentação do interno nas situações e prazos referidos no n.º 4 do artigo 13.º
+
+5 - Nos casos de cessação do contrato a termo resolutivo incerto ou da comissão de serviço, a avaliação final pode ser realizada posteriormente, nos termos do Regulamento do Internato Médico.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2004-09-01
+
+###### Artigo 26.º — Equivalências de formação
+
+As equivalências de formação ou de qualificação profissional previstas no n.º 3 do artigo 22.º do Decreto-Lei n.º 73/90, de 6 de Março, são concedidas por aplicação do disposto no n.º 3 do artigo 23.º aos médicos que obtenham a equivalência ao título de especialista, nos termos do artigo 92.º dos Estatutos da Ordem dos Médicos.
+
+### Capítulo VII — Disposições finais e transitórias
+
+###### Artigo 27.º — Ciclo de estudos especiais
+
+1 - Como processo suplementar de formação, em ordem ao aperfeiçoamento ou diferenciação técnica em áreas específicas de actividade não constituídas em áreas profissionais especializadas, podem ser criados ciclos de estudos especiais.
+
+2 - Os ciclos de estudos especiais são criados por despacho do membro do Governo responsável pela área da saúde, mediante parecer da Ordem dos Médicos.
+
+3 - Os ciclos de estudos especiais são objecto de regulamento a aprovar por portaria do membro do Governo responsável pela área da saúde, mediante parecer da Ordem dos Médicos.
+
+4 - Têm acesso aos ciclos de estudos especiais médicos especialistas em área profissional de especialização que lhes seja conexa ou afim.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2009 - Diário da República n.º 31/2009, Série I de 2009-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), em vigor a partir de 2009-02-14, produz efeitos a partir de 2009-01-02
+
+###### Artigo 28.º — Delegações de competências
+
+A competência para a prática dos actos mencionados no presente diploma pode ser delegada ou subdelegada.
+
+###### Artigo 29.º — Regulamentação
+
+1 - Sem prejuízo do disposto no número seguinte, a regulamentação do presente diploma é publicada no prazo de 180 dias.
+
+2 - Os programas de formação são estabelecidos nos seguintes prazos:
+
+a) O programa de formação do ano comum, até 30 de Setembro de 2004;
+
+b) (Revogada).
+
+3 - Os programas de formação das áreas profissionais de especialização são elaborados nos termos e prazos previstos no Regulamento do Internato Médico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2004-09-01
+
+###### Artigo 30.º — Norma de transição
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo 12.º, os médicos que, à data da entrada em vigor do presente diploma, se encontrem a frequentar o internato complementar transitam para o internato médico, sendo colocados no ano correspondente à formação já obtida.
+
+2 - Os médicos que, à data da entrada em vigor do presente diploma, terminaram o internato geral, ou obtiveram a respectiva equivalência, e que tenham concluído com aproveitamento o concurso de ingresso no internato complementar ingressam no 2.º ano do internato médico na respectiva área, no âmbito da formação específica definida nos termos do artigo 4.º
+
+3 - Aos médicos que, à data da entrada em vigor do presente diploma terminaram o internato geral sem que tenham obtido aproveitamento no concurso de ingresso no internato complementar, ou que não obtiveram a respectiva equivalência, aplica-se o disposto no número seguinte.
+
+4 - Os médicos que à data da entrada em vigor do presente diploma se encontrem a frequentar o 2.º ano do internato geral realizam o concurso de acesso ao internato complementar de harmonia com o disposto no Decreto-Lei n.º 128/92, de 4 de Julho.
+
+5 - Os médicos que à data da entrada em vigor do presente diploma se encontrem a frequentar o 1.º ano do internato geral realizam o concurso de acesso ao internato médico, de harmonia com o disposto no Decreto-Lei n.º 128/92, de 4 de Julho, e sua regulamentação, sem prejuízo de:
+
+a) O concurso de ingresso ao internato médico se realizar no 2.º trimestre de 2005;
+
+b) O ingresso no internato médico se realizar no 3.º trimestre de 2005.
+
+6 - Para os médicos que iniciem o internato médico em Janeiro de 2005, o exame a que se refere o n.º 1 do artigo 12.º realizar-se-á, excepcionalmente, no 4.º trimestre desse ano.
+
+7 - (Revogado).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 60/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), em vigor a partir de 2004-09-01
+
+###### Artigo 30.º-A — Norma transitória
+
+O regime remuneratório previsto nos artigos 20.º e 21.º do presente decreto-lei aplica-se aos médicos internos a partir de 1 de Janeiro de 2010.
+
+> Aditado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 177/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2009-493010), em vigor a partir de 2009-08-09
+
+###### Artigo 31.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 128/92, de 4 de Julho, sem prejuízo do disposto no n.º 4 e na alínea a) do n.º 5, ambos do artigo anterior.
+
+###### Artigo 32.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor em 1 de Setembro de 2004.
+
+2 - Sem prejuízo do disposto no número anterior, as normas dos artigos 3.º, 4.º, 6.º, n.º 2, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º, 17.º, 18.º, 19.º, 22.º, 23.º, 24.º e 26.º entram em vigor no dia imediato ao da publicação do presente diploma, para efeitos de aprovação do regulamento do internato médico, tendo em vista a preparação e realização do concurso de ingresso no internato médico a iniciar em 1 de Setembro de 2004.
+
+3 - O disposto no n.º 2 do artigo 11.º e nos n.os 2, 3 e 4 do artigo 13.º aplica-se aos internatos geral e complementar que se iniciam em 1 de Janeiro de 2005.
+
+Visto e aprovado em Conselho de Ministros de 9 de Junho de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Luís Filipe Pereira.
+
+Promulgado em 6 de Agosto de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 11 de Agosto de 2004.
+
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

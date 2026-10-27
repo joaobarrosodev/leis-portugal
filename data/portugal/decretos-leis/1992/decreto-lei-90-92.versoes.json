@@ -1,0 +1,516 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522994:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-114658345",
+ "dre_path": "/dr/detalhe/decreto-lei/90-1992-522994",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1992-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114656653",
+    "114656654",
+    "114656655",
+    "114656656",
+    "114656657",
+    "114656658",
+    "114656659",
+    "114656660",
+    "114656661",
+    "114656662",
+    "114656663",
+    "114656664",
+    "114656665",
+    "114656666",
+    "114656667",
+    "114656668",
+    "114656669",
+    "114656670",
+    "114656671",
+    "114656672",
+    "114656673",
+    "114656674",
+    "114657176"
+   ]
+  },
+  {
+   "date": "1995-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:503655:por",
+     "title": "Decreto-Lei n.º 105/95",
+     "published": "1995-05-20",
+     "dre_path": "/dr/detalhe/decreto-lei/105-1995-503655"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-A",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "114656653",
+    "114656654",
+    "114656655",
+    "114656656",
+    "114656657",
+    "114656658",
+    "114656659",
+    "114656660",
+    "114656661",
+    "114656662",
+    "114656663",
+    "114657181",
+    "114656665",
+    "114657182",
+    "114656667",
+    "114656668",
+    "114656669",
+    "114656670",
+    "114656671",
+    "114656672",
+    "114656673",
+    "114657183",
+    "114657184",
+    "114657185",
+    "114657186"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:197511:por",
+     "title": "Lei n.º 53-A/2006",
+     "published": "2006-12-29",
+     "dre_path": "/dr/detalhe/lei/53-a-2006-197511"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º-A"
+   ],
+   "fragments": [
+    "114656653",
+    "114656654",
+    "114656655",
+    "114656656",
+    "114656657",
+    "114656658",
+    "114656659",
+    "114656660",
+    "114656661",
+    "114656662",
+    "114656663",
+    "114657181",
+    "114656665",
+    "114657182",
+    "114656667",
+    "114656668",
+    "114656669",
+    "114656670",
+    "114656671",
+    "114656672",
+    "114656673",
+    "114657187",
+    "114657184",
+    "114657185",
+    "114657186"
+   ]
+  },
+  {
+   "date": "2012-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551980:por",
+     "title": "Decreto-Lei n.º 108/2012",
+     "published": "2012-05-18",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2012-551980"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "114656653",
+    "114656654",
+    "114656655",
+    "114656656",
+    "114656657",
+    "114656658",
+    "114656659",
+    "114656660",
+    "114656661",
+    "114656662",
+    "114656663",
+    "114657181",
+    "114656665",
+    "114657195",
+    "114657196",
+    "114657194",
+    "114656669",
+    "114656670",
+    "114656671",
+    "114656672",
+    "114656673",
+    "114657187",
+    "114657184",
+    "114657185",
+    "114657186"
+   ]
+  },
+  {
+   "date": "2019-05-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122289406:por",
+     "title": "Decreto-Lei n.º 61/2019",
+     "published": "2019-05-14",
+     "dre_path": "/dr/detalhe/decreto-lei/61-2019-122289406"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "114656653",
+    "114656654",
+    "114656655",
+    "114656656",
+    "114656657",
+    "114656658",
+    "114656659",
+    "114656660",
+    "114656661",
+    "114656662",
+    "114656663",
+    "114657181",
+    "114656665",
+    "114657195",
+    "122292730",
+    "114657194",
+    "114656669",
+    "114656670",
+    "114656671",
+    "114656672",
+    "114656673",
+    "114657187",
+    "114657184",
+    "114657185",
+    "122292731"
+   ]
+  }
+ ],
+ "fragments": {
+  "114656653": {
+   "fragment_id": "114658346",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 90/92\n\nde 21 de Maio\n\nEm cumprimento da estatuição contida no artigo 95.º da Constituição, foi publicada a Lei n.º 108/91, de 17 de Agosto, onde se determinou a natureza e as competências do Conselho Económico e Social.\n\nEssa lei, onde se delinearam também a orgânica e a composição deste órgão constitucional, corporiza um conjunto de regras definidoras da ratio e do modelo organizacional em que assenta o Conselho e que, em última análise, constituem os parâmetros fundamentais que irão balizar a sua actuação futura.\n\nNa esteira da Lei n.º 108/91, de 17 de Agosto, e dando cumprimento ao disposto no seu artigo 15.º, surge o presente diploma, no qual se procede à concretização de algumas das disposições daquela lei, por forma a permitir o efectivo funcionamento do Conselho Económico e Social.\n\nÉ de sublinhar que na sua elaboração houve a preocupação de, por um lado, remeter para a lei geral matérias já objecto de tradução normativa com pertinente aplicação ao Conselho Económico e Social e, por outro, possibilitar aos órgãos do Conselho, no exercício da autonomia que lhes é reconhecida, a definição das normas que irão regular o seu funcionamento interno.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 108/91, de 17 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114656654": {
+   "fragment_id": "114658347",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e sede\n\n1 - O Conselho Económico e Social (CES) é o órgão de consulta e concertação no domínio das políticas económica e social e participa na elaboração dos planos de desenvolvimento económico e social.\n\n2 - O CES é dotado de autonomia administrativa.\n\n3 - O CES tem sede própria em Lisboa."
+  },
+  "114656655": {
+   "fragment_id": "114658348",
+   "type": 11,
+   "heading": "Artigo 2.º — Direito de iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direito de iniciativa\n\n1 - No quadro das competências que lhe são cometidas por lei, o CES goza de direito de iniciativa.\n\n2 - As propostas elaboradas nos termos do número anterior carecem de aprovação de dois terços dos membros do plenário do CES."
+  },
+  "114656656": {
+   "fragment_id": "114658349",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão de pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Emissão de pareceres\n\nA emissão dos pareceres solicitados ao CES terá lugar nos prazos determinados na lei ou nos seus regulamentos internos."
+  },
+  "114656657": {
+   "fragment_id": "114658350",
+   "type": 11,
+   "heading": "Artigo 4.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cooperação\n\nO CES pode estabelecer relações de cooperação e firmar acordos de permuta de informação com instituições congéneres de outros países, bem como com organizações internacionais com competência em áreas técnicas de natureza económica e social."
+  },
+  "114656658": {
+   "fragment_id": "114658351",
+   "type": 11,
+   "heading": "Artigo 5.º — Regulamentos inernos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regulamentos inernos\n\n1 - Cabe ao plenário do CES definir, sob proposta do seu presidente, o respectivo regulamento de funcionamento, bem como os relativos às comissões especializadas, ao conselho coordenador e ao conselho administrativo.\n\n2 - Compete à Comissão Permanente de Concertação Social (CPCS) aprovar o respectivo regulamento de funcionamento.\n\n3 - Até à publicação dos regulamentos referidos nos números anteriores observar-se-á, com as necessárias adaptações, no funcionamento dos órgãos do CES o regimento interno do Conselho Nacional do Plano e o regulamento interno do Conselho Permanente de Concertação Social, respectivamente.\n\n4 - Os regulamentos referidos nos n.os 1 e 2 são publicados na 2.ª série do Diário da República."
+  },
+  "114656659": {
+   "fragment_id": "114658352",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento dos órgãos\n\n1 - Na falta de disposição em contrário, os órgãos colegiais do CES deliberam por maioria simples, tendo o respectivo presidente voto de qualidade.\n\n2 - De todas as reuniões dos órgãos colegiais do CES será lavrada acta, com menção dos membros presentes, da ordem de trabalhos e da matéria relevante da respectiva discussão e votação, nomeadamente todas as declarações de voto produzidas, devendo as actas ser tornadas públicas pelos meios previstos no regulamento.\n\n3 - As reuniões do plenário do CES são públicas no que concerne à fase da votação, a não ser quando o CES se pronuncie a solicitação dos órgãos de soberania.\n\n4 - As reuniões dos restantes órgãos podem também ser públicas relativamente à fase da votação, desde que tal seja deliberado com o voto favorável de, pelo menos, três quartos dos respectivos membros.\n\n5 - O presidente do CES tem assento na CPCS e nos seus grupos de trabalho especializados, podendo usar da palavra e intervir nos debates sempre que o entenda conveniente, sem direito a voto."
+  },
+  "114656660": {
+   "fragment_id": "114658353",
+   "type": 11,
+   "heading": "Artigo 7.º — Verificação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Verificação de poderes\n\n1 - Os representantes das entidades cuja participação no plenário do CES tenha de ser decidida nos termos dos n.os 4 a 7 do artigo 4.º da Lei n.º 108/91, de 17 de Agosto, devem ter a qualidade de presidente, de titular de cargo a este equiparado ou de membro do órgão de direcção nacional das organizações com assento no plenário.\n\n2 - Ao presidente do CES, ouvido o conselho coordenador, cabe verificar a conformidade legal do mandato dos representantes a que se refere o número anterior."
+  },
+  "114656661": {
+   "fragment_id": "114658354",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recursos\n\n1 - Os representantes cujo mandato seja impugnado podem recorrer para o plenário do CES.\n\n2 - Os recursos referidos no número anterior, bem como os previstos no n.º 7 do artigo 4.º da Lei n.º 108/91, de 17 de Agosto, são apresentados, por escrito, ao presidente do CES no prazo máximo de 15 dias a contar da data em que seja notificada a existência da impugnação, acompanhados da adequada fundamentação.\n\n3 - O recurso é decidido pelo plenário do CES, na primeira sessão subsequente à data do seu recebimento."
+  },
+  "114656662": {
+   "fragment_id": "114658355",
+   "type": 11,
+   "heading": "Artigo 9.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Presidente\n\n1 - Para efeitos de remuneração e de gestão de pessoal é aplicável ao presidente a equiparação contida no n.º 2 do artigo 7.º da Lei n.º 108/91, de 17 de Agosto.\n\n2 - O período correspondente ao mandato do presidente do CES é considerado, para todos os efeitos, na contagem de tempo de serviço.\n\n3 - O presidente do CES beneficia do regime de protecção social aplicável aos funcionários e agentes da Administração Pública, se não estiver abrangido por outro mais favorável, cabendo ao CES a satisfação dos encargos que corresponderiam à entidade patronal, em caso de opção pela manutenção do regime de segurança social por que estivesse abrangido antes do início das suas funções."
+  },
+  "114656663": {
+   "fragment_id": "114658356",
+   "type": 11,
+   "heading": "Artigo 10.º — Vice-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vice-presidentes\n\n1 - Os vice-presidentes tomam posse perante o presidente do CES.\n\n2 - Os vice-presidentes em quem tenham sido delegadas competências, nos termos da lei, têm direito a uma remuneração de montante a fixar por despacho do Primeiro-Ministro, sob proposta do presidente do CES."
+  },
+  "114656664": {
+   "fragment_id": "114658357",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito a transporte, ajudas de custo e senhas de presença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direito a transporte, ajudas de custo e senhas de presença\n\n1 - Os membros dos órgãos do CES que não sejam representantes de instituições públicas têm direito, por participação nas reuniões, a senhas de presença, em montante e condições a fixar por despacho do Primeiro-Ministro, sob proposta do presidente do CES, e, bem assim, a transporte e ajudas de custo, nos termos da legislação aplicável à Administração Pública.\n\n2 - Os membros dos órgãos do CES que aufiram remuneração própria por actividades nele desenvolvida, bem como os membros representantes do Governo e das demais instituições públicas, têm direito, por participação nas reuniões, a transporte e ajudas de custo, nos termos da legislação aplicável à Administração Pública."
+  },
+  "114656665": {
+   "fragment_id": "114658358",
+   "type": 11,
+   "heading": "Artigo 12.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Secretário-geral\n\n1 - O CES dispõe de um secretário-geral.\n\n2 - Ao secretário-geral, como responsável pelos serviços de apoio técnico e administrativo do CES, compete em especial:\n\na) Apoiar o funcionamento dos órgãos do CES, preparando para o efeito estudos, pareceres e informações;\n\nb) Manter actualizada a informação sobre a actividades das instituições congéneres do CES na Comunidade Europeia;\n\nc) Tratar e difundir, a nível nacional e internacional, documentação e informação técnica no domínio das suas competências;\n\nd) Assegurar os elementos e operações necessários para preparação das propostas orçamentais, das contas e do relatório de actividades, acompanhando e avaliando a respectiva execução;\n\ne) Informar da legalidade dos actos nos domínios administrativo e financeiro e gerir o património afecto ao CES;\n\nf) Assegurar o expediente relativo ao funcionamento dos órgãos do CES;\n\ng) Exercer quaisquer outras competências que lhe sejam delegadas pelo presidente do CES, bem como as demais previstas nos regulamentos internos.\n\n3 - O secretário-geral é designado pelo presidente do CES, sendo equiparado, para todos os efeitos legais, a director-geral."
+  },
+  "114656666": {
+   "fragment_id": "114658359",
+   "type": 11,
+   "heading": "Artigo 13.º — Repartição de Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Repartição de Administração Geral\n\nO CES dispõe de uma Repartição de Administração Geral, dirigida por um chefe de repartição, que assegura o apoio administrativo, financeiro e contabilístico."
+  },
+  "114656667": {
+   "fragment_id": "114658360",
+   "type": 11,
+   "heading": "Artigo 14.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pessoal\n\n1 - No desempenho das suas funções, o presidente do CES é apoiado directamente pelo pessoal constante do quadro anexo ao presente diploma, que dele faz parte integrante.\n\n2 - O provimento do pessoal a que se refere o número anterior é feito pelo período correspondente à duração do mandato do presidente, numa das seguintes modalidades:\n\na) Em comissão de serviço, para os não vinculados à função pública, desde que não tenham uma relação jurídico-laboral com empresas públicas;\n\nb) Em comissão de serviço ou em requisição, para os vinculados à função pública;\n\nc) Em requisição, para os trabalhadores de empresas públicas, no âmbito do regime geral aplicável.\n\n3 - A nomeação do pessoal referido neste artigo pode ser feita cessar a todo o tempo.\n\n4 - O exercício de funções no CES é contado, para todos os efeitos legais, designadamente para a progressão nas respectivas carreiras, como prestado nos lugares de origem.\n\n5 - O desempenho de funções no CES está isenta do cumprimento de horário de trabalho, não lhe sendo devida qualquer remuneração por trabalho extraordinário.\n\n6 - O pessoal administrativo do CES, constante de quadro fixado por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças, rege-se pelo regime geral da função pública."
+  },
+  "114656668": {
+   "fragment_id": "114658361",
+   "type": 11,
+   "heading": "Artigo 15.º — Prestação de funções no CES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prestação de funções no CES\n\nMediante despacho do presidente, podem prestar serviço no CES, em regime de requisição, comissão de serviço ou destacamento, funcionários ou agentes da administração pública central, regional ou local, bem como trabalhadores de empresas privadas ou do sector público, nos termos da legislação aplicável."
+  },
+  "114656669": {
+   "fragment_id": "114658362",
+   "type": 11,
+   "heading": "Artigo 16.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transição de pessoal\n\n1 - O pessoal provido em lugares do quadro das instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto, transita para o quadro de pessoal do CES, sem prejuízo do disposto no número seguinte.\n\n2 - Com a publicação da portaria conjunta prevista no n.º 6 do artigo 14.º, transita para o quadro de efectivos interdepartamentais o pessoal que, de harmonia com os critérios gerais estabelecidos na lei para a constituição de excedentes, não possa vir a ocupar vaga no quadro do CES.\n\n3 - A transição referida no n.º 1 será determinada por despacho do presidente do CES e far-se-á de acordo com as seguintes regras:\n\na) Para a mesma carreira e categoria que o funcionário já possui;\n\nb) Com observância das habilitações legais, para a carreira e categoria que integre as funções que efectivamente o funcionário desempenhe, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carreira para que se processa a transição.\n\n4 - As correspondências determinadas na alínea b) do número anterior fazem-se em função dos índices remuneratórios correspondentes ao escalão 1 da categoria em que o funcionário ou agente se encontra e ao escalão 1 da categoria da nova carreira.\n\n5 - Ao pessoal das instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto, que, nos termos do disposto na alínea b) do n.º 3, transite para categoria diversa será contado como prestado nesta última, para todos os efeitos legais, o tempo de serviço prestado na anterior, desde que haja comprovadamente exercido idênticas funções."
+  },
+  "114656670": {
+   "fragment_id": "114658363",
+   "type": 11,
+   "heading": "Artigo 17.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Situações especiais\n\n1 - Com a entrada em vigor do presente diploma cessam os destacamentos ou requisições do pessoal que nesses regimes preste serviço nas instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto.\n\n2 - O pessoal que, à data da entrada em vigor do presente diploma, se encontre em regime de estágio mantém-se nessa situação até à conclusão do mesmo, devendo, consoante os casos e se necessário, ser nomeado novo júri para realização da respectiva avaliação e classificação final.\n\n3 - Os concursos a decorrer à data da entrada em vigor do presente diploma mantêm-se válidos."
+  },
+  "114656671": {
+   "fragment_id": "114658364",
+   "type": 11,
+   "heading": "Artigo 18.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cessação de funções\n\n1 - As comissões de serviço do pessoal dirigente das instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto, cessam com a entrada em vigor do presente diploma.\n\n2 - O pessoal afecto ao Gabinete do Presidente do Conselho Nacional do Plano cessa as suas funções na data da tomada de posse do presidente do CES."
+  },
+  "114656672": {
+   "fragment_id": "114658365",
+   "type": 11,
+   "heading": "Artigo 19.º — Património dos órgãos extintos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Património dos órgãos extintos\n\nO património das instituições referidas no artigo 16.º da Lei n.º 108/91, de 17 de Agosto, é transferido para o CES, com dispensa de quaisquer formalidades, excepto o registo."
+  },
+  "114656673": {
+   "fragment_id": "114658366",
+   "type": 11,
+   "heading": "Artigo 20.º — Dotações e encargos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dotações e encargos orçamentais\n\n1 - O Governo assegurará as dotações orçamentais e os meios necessários à instalação e início do funcionamento do CES.\n\n2 - Enquanto não for dada execução ao disposto no n.º 2 do artigo 14.º da Lei n.º 108/91, de 17 de Agosto, os encargos do CES serão suportados pelos orçamentos das instituições a que se refere o artigo 16.º desse diploma."
+  },
+  "114656674": {
+   "fragment_id": "114658367",
+   "type": 11,
+   "heading": "Artigo 21.º — Membros do Conselho Nacional do Plano e do Conselho Permanente de Concertação Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Membros do Conselho Nacional do Plano e do Conselho Permanente de Concertação Social\n\n1 - Os membros do Conselho Nacional do Plano cessam funções na data da tomada de posse do presidente do Conselho Económico e Social.\n\n2 - Os membros do Conselho Permanente de Concertação Social cessam funções na data da extinção desse Conselho."
+  },
+  "114657176": {
+   "fragment_id": "114658369",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  },
+  "114657181": {
+   "fragment_id": "114658357",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito a transporte, ajudas de custo e senhas de presença",
+   "in_force_from": "1995-05-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 11.º — Direito a transporte, ajudas de custo e senhas de presença\n\n1 - Os membros dos órgãos do CES têm direito a transporte e ajudas de custo, nos termos da legislação aplicável à Administração Pública.\n\n2 - A participação nas reuniões do CES confere aos membros que não aufiram remuneração própria por actividade nele desenvolvida o direito a senhas de presença, em montante e condições a fixar por despacho do Primeiro-Ministro, sob proposta do presidente do CES.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+  },
+  "114657182": {
+   "fragment_id": "114658359",
+   "type": 11,
+   "heading": "Artigo 13.º — Serviços",
+   "in_force_from": "1995-05-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 13.º — Serviços\n\n1 - O CES dispõe de uma Repartição de Administração Geral, dirigida por um chefe de repartição, que assegura o apoio administrativo, financeiro e contabilístico.\n\n2 - A Repartição de Administração Geral compreende a Secção de Pessoal e Assuntos Gerais e a Secção de Contabilidade, Patrimonial e Aprovisionamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+  },
+  "114657183": {
+   "fragment_id": "114659575",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Receitas próprias",
+   "in_force_from": "1995-05-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 20.º-A — Receitas próprias\n\n1 - Constituem receitas do CES, para além das dotações que lhe são atribuídas pelo Orçamento do Estado:\n\na) As quantias cobradas pelos serviços prestados a entidades públicas ou privadas;\n\nb) O produto da venda de publicações que edite.\n\n2 - As receitas previstas no número anterior são utilizadas mediante a inscrição no respectivo orçamento de dotações do CES com compensação em receitas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+  },
+  "114657184": {
+   "fragment_id": "114658367",
+   "type": 11,
+   "heading": "Artigo 21.º — Membros do Conselho Nacional do Plano e do Conselho Permanente de Concertação Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Membros do Conselho Nacional do Plano e do Conselho Permanente de Concertação Social\n\n1 - Os membros do Conselho Nacional do Plano cessam funções na data da tomada de posse do presidente do Conselho Económico e Social.\n\n2 - Os membros do Conselho Permanente de Concertação Social cessam funções na data da extinção desse Conselho."
+  },
+  "114657185": {
+   "fragment_id": "114658368",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Manuel de Carvalho Fernando Thomaz - José Albino da Silva Peneda.\n\nPromulgado em 12 de Maio de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 13 de Maio de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "114657186": {
+   "fragment_id": "114658369",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  },
+  "114657187": {
+   "fragment_id": "114659575",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Receitas próprias",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 45.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 20.º-A — Receitas próprias\n\n1 - Constituem receitas do CES, para além das dotações que lhe são atribuídas pelo Orçamento do Estado:\n\na) As quantias cobradas pelos serviços prestados a entidades públicas ou privadas;\n\nb) O produto da venda de publicações que edite.\n\nc) As quantias recebidas dos organismos financiados nos termos do artigo 19.º do Decreto-Lei n.º 140-D/86, de 14 de Junho, destinadas a suportar os encargos resultantes do disposto no artigo 438.º da Lei n.º 35/2004, de 29 de Julho, na redacção que lhe foi dada pela Lei n.º 9/2006, de 20 de Março.\n\n2 - As receitas previstas no número anterior são utilizadas mediante a inscrição no respectivo orçamento de dotações do CES com compensação em receitas.\n\n> Alterado pelo/a Artigo 45.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+  },
+  "114657195": {
+   "fragment_id": "114658359",
+   "type": 11,
+   "heading": "Artigo 13.º — Serviços de apoio técnico e administrativo",
+   "in_force_from": "2012-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980), em vigor a partir de 2012-05-23",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+   ],
+   "markdown": "###### Artigo 13.º — Serviços de apoio técnico e administrativo\n\nO CES dispõe de serviços de apoio técnico e administrativo, regendo-se o respetivo pessoal pelo Regime do Contrato de Trabalho em Funções Públicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980), em vigor a partir de 2012-05-23\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 105/95 - Diário da República n.º 117/1995, Série I-A de 1995-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655), em vigor a partir de 1995-05-25"
+  },
+  "114657196": {
+   "fragment_id": "114658360",
+   "type": 11,
+   "heading": "Artigo 14.º — Gabinete do presidente",
+   "in_force_from": "2012-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980), em vigor a partir de 2012-05-23"
+   ],
+   "markdown": "###### Artigo 14.º — Gabinete do presidente\n\n1 - No desempenho das suas funções, o presidente do CES é apoiado directamente pelo pessoal constante do quadro anexo ao presente diploma, que dele faz parte integrante.\n\n2 - O pessoal referido no número anterior é livremente designado por despacho do presidente do CES, pelo período correspondente à duração do seu mandato, podendo a designação cessar a todo o tempo.\n\n3 - O pessoal que integra o gabinete do presidente não pode ser prejudicado, por causa do exercício transitório das suas funções, na estabilidade do seu emprego, na sua carreira profissional e no regime de segurança social de que beneficie, bem como nos seus direitos, regalias e subsídios e outros benefícios sociais de que goze na sua posição profissional de origem, ficando assegurado o direito de regresso à situação jurídico-funcional que possuía à data da sua designação.\n\n4 - O tempo de serviço prestado no gabinete do presidente considera-se, para todos os efeitos, nomeadamente antiguidade e promoção, como prestado na categoria e na carreira que ocupava no momento da designação, mantendo o designado todos os direitos, subsídios, regalias sociais, remuneratórias e quaisquer outras correspondentes a essa categoria e carreira, não podendo, pelo não exercício de atividade, ser prejudicado nas alterações de posicionamento remuneratório a que, entretanto, tenha adquirido direito, nem nos procedimentos concursais a que se submeta.\n\n5 - O pessoal do gabinete do presidente que cesse funções retoma automaticamente as que exercia à data da designação, sem prejuízo do disposto na lei quanto à reorganização de serviços, quando aplicável.\n\n6 - O presidente pode, mediante despacho, afetar para seu serviço pessoal, motorista do mapa de pessoal do CES, o qual tem direito à perceção do suplemento a que se refere o artigo 4.º do Decreto-Lei n.º 381/89, de 28 de outubro.\n\n7 - O desempenho de funções no gabinete do presidente está isento do cumprimento de horário de trabalho, não sendo devida qualquer retribuição por trabalho extraordinário.\n\n8 - Para efeitos do disposto na parte final do n.º 5, aplica-se o regime previsto no n.º 6 do artigo 15.º-A da Lei n.º 53/2006, de 7 de dezembro.\n\n9 - Ao pessoal do gabinete do presidente é aplicável o estatuto de origem e na ausência deste o Regime do Contrato de Trabalho em Funções Públicas, em tudo o que não se encontrar expressamente previsto no presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980), em vigor a partir de 2012-05-23"
+  },
+  "114657194": {
+   "fragment_id": "114658361",
+   "type": 11,
+   "heading": "Artigo 15.º — Prestação de funções no CES",
+   "in_force_from": "2012-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980), em vigor a partir de 2012-05-23"
+   ],
+   "markdown": "###### Artigo 15.º — Prestação de funções no CES\n\nMediante despacho do presidente, podem prestar serviço no CES, em regime de requisição, comissão de serviço ou destacamento, funcionários ou agentes da administração pública central, regional ou local, bem como trabalhadores de empresas privadas ou do sector público, nos termos da legislação aplicável.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980), em vigor a partir de 2012-05-23"
+  },
+  "122292730": {
+   "fragment_id": "114658360",
+   "type": 11,
+   "heading": "Artigo 14.º — Gabinete do presidente",
+   "in_force_from": "2019-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2019 - Diário da República n.º 92/2019, Série I de 2019-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2019-122289406), em vigor a partir de 2019-05-19, produz efeitos a partir de 2019-06-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980), em vigor a partir de 2012-05-23"
+   ],
+   "markdown": "###### Artigo 14.º — Gabinete do presidente\n\n1 - No desempenho das suas funções, o presidente do CES é apoiado diretamente por um gabinete, constituído por um chefe do gabinete, três adjuntos e um secretário pessoal.\n\n2 - Aos membros do gabinete do presidente do CES é aplicável, com as devidas adaptações, o regime constante dos artigos 7.º a 14.º e 16.º, 18.º e 19.º do Decreto-Lei n.º 11/2012, de 20 de janeiro, que estabelece a natureza, a composição, a orgânica e o regime jurídico a que estão sujeitos os gabinetes dos membros do Governo.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - O presidente do CES pode, mediante despacho, afetar ao seu gabinete um motorista do mapa de pessoal do CES, ao qual se aplica o estatuto dos motoristas dos gabinetes dos membros do Governo.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2019 - Diário da República n.º 92/2019, Série I de 2019-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2019-122289406), em vigor a partir de 2019-05-19, produz efeitos a partir de 2019-06-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2012 - Diário da República n.º 97/2012, Série I de 2012-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2012-551980), em vigor a partir de 2012-05-23"
+  },
+  "122292731": {
+   "fragment_id": "114658369",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2019-05-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 61/2019 - Diário da República n.º 92/2019, Série I de 2019-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2019-122289406), em vigor a partir de 2019-05-19, produz efeitos a partir de 2019-06-01"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 61/2019 - Diário da República n.º 92/2019, Série I de 2019-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2019-122289406), em vigor a partir de 2019-05-19, produz efeitos a partir de 2019-06-01"
+  }
+ }
+}

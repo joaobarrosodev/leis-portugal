@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:395913:por
+title: Decreto n.º 78/82
+short_title: null
+summary: Visa definir condições de ingresso e de progressão na carreira docente do ensino superior aos professores auxiliares
+  do Instituto de Higiene e Medicina Tropical
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação e das Universidades
+proposing_entity: null
+official_number: 78/82
+official_date: null
+publication_date: '1982-06-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/1982, Série I de 1982-06-19
+  number: '139'
+  series: I
+  supplement: null
+  pages: 1764 - 1764
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13900/17641764.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '395913'
+  dre_path: /dr/detalhe/decreto/78-1982-395913
+  internal: pt:dre:395913:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/78-1982-395913
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/78-1982-395913
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6b00e2509324be014a9edff40e91c5f3f3845ec58969b1f7e2279d389b136151
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:00:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Concurso de Habilitação
+- Ensino Superior
+- Instituto de Higiene e Medicina Tropical
+- Pessoal Docente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474704:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:00:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 78/82
+
+de 19 de Junho
+
+Os professores auxiliares do Instituto de Higiene e Medicina Tropical são providos por concurso de provas públicas iguais às exigidas para a concessão do grau de doutor das universidades portuguesas, nos termos do artigo 21.º do [Decreto n.º 206/73](https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019), de 5 de Maio.
+
+O provimento dos lugares de professor extraordinário é feito, por outro lado, por concurso de provas públicas, de entre professores auxiliares ou de entre doutores cuja dissertação tenha versado assunto da disciplina a concurso, de acordo com o disposto no artigo 23.º do mesmo diploma.
+
+Nos termos do artigo 13.º do referido [Decreto n.º 206/73](https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019), as categorias, funções, provimento, deveres e direitos do pessoal docente do Instituto são, além disso, os constantes das normas gerais em vigor nas universidades.
+
+E o artigo 4.º, n.º 2, do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, estipula que o título de agregado é inerente à aprovação, em mérito absoluto, no concurso para professor extraordinário.
+
+Não seria justo, por isso, impor aos aprovados nos concursos de provas públicas para provimento nos lugares de professor auxiliar e de professor extraordinário do Instituto a obrigação de repetirem provas para ingresso e progressão na carreira docente do ensino superior, aprovada pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, em tudo idênticas a outras já realizadas.
+
+Assim, tendo em vista o [Decreto-Lei n.º 164/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1980-474704), de 28 de Maio, que determinou a transferência do Instituto para a Universidade Nova de Lisboa, e considerando que o artigo 2.º, n.º 1, do referido diploma manda adaptar a essas circunstâncias o regime jurídico do seu pessoal:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+Art. 1.º Os professores auxiliares do Instituto de Higiene e Medicina Tropical aprovados no concurso de provas públicas, a que se refere o artigo 21.º do [Decreto n.º 206/73](https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019), de 5 de Maio, podem ingressar e progredir na carreira docente do ensino superior a que se refere o [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, em condições de igualdade com os habilitados com o grau de doutor ou equivalente.
+
+Art. 2.º Os professores extraordinários aprovados em concurso de provas públicas, nos termos do artigo 23.º do [Decreto n.º 206/73](https://diariodarepublica.pt/dr/detalhe/decreto/206-1973-422019), de 5 de Maio, ainda que com dispensa de prestação de provas ao abrigo do disposto no artigo 23.º do Decreto-Lei n.º 301/72, de 14 de Agosto, podem ingressar e progredir na carreira docente, a que se refere o artigo 1.º do presente diploma, em condições de igualdade com os habilitados com o título de agregado.
+
+Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
+
+Promulgado em 8 de Junho de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

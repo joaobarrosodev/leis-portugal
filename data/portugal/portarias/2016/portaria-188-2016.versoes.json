@@ -1,0 +1,997 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74925435:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-114946656",
+ "dre_path": "/dr/detalhe/portaria/188-2016-74925435",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682828:por",
+     "title": "Portaria n.º 46/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/46-2018-114682828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º",
+    "Revoga Artigo 22.º"
+   ],
+   "fragments": [
+    "114945241",
+    "114945242",
+    "114945243",
+    "114945244",
+    "114945245",
+    "114945246",
+    "114945247",
+    "114945248",
+    "114945249",
+    "114945250",
+    "114945251",
+    "114945252",
+    "114945253",
+    "114945254",
+    "114945255",
+    "114945256",
+    "114945257",
+    "114945258",
+    "114945259",
+    "114945260",
+    "114945261",
+    "114945262",
+    "114945263",
+    "114945264",
+    "114945265",
+    "114945266",
+    "114945267",
+    "114945268",
+    "114945269",
+    "114945270",
+    "114945271",
+    "114945272",
+    "114945273",
+    "114945274",
+    "114947375",
+    "114947376",
+    "114947377",
+    "114947379",
+    "114947380",
+    "114947381",
+    "114947382"
+   ],
+   "acts_without_text_change": []
+  },
+  {
+   "date": "2016-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75341997:por",
+     "title": "Portaria n.º 249/2016",
+     "published": "2016-09-15",
+     "dre_path": "/dr/detalhe/portaria/249-2016-75341997"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "114945241",
+    "114945242",
+    "114945243",
+    "114945244",
+    "114945245",
+    "114945246",
+    "114945247",
+    "114945248",
+    "114945249",
+    "114945250",
+    "114945251",
+    "114945252",
+    "114945253",
+    "114945254",
+    "114945255",
+    "114945256",
+    "114945257",
+    "114945258",
+    "114945259",
+    "114945260",
+    "114945261",
+    "114945262",
+    "114945263",
+    "114945264",
+    "114945265",
+    "114945266",
+    "114947431",
+    "114945268",
+    "114945269",
+    "114945270",
+    "114945271",
+    "114945272",
+    "114945273",
+    "114945274",
+    "114947375",
+    "114947376",
+    "114947377",
+    "114947378",
+    "114947379",
+    "114947380",
+    "114947381",
+    "114947382"
+   ]
+  },
+  {
+   "date": "2018-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114944614:por",
+     "title": "Portaria n.º 90/2018",
+     "published": "2018-03-29",
+     "dre_path": "/dr/detalhe/portaria/90-2018-114944614"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 25.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "114945241",
+    "114945242",
+    "114945243",
+    "114947877",
+    "114947878",
+    "114945246",
+    "114945247",
+    "114945248",
+    "114945249",
+    "114947879",
+    "114945251",
+    "114947880",
+    "114945253",
+    "114947881",
+    "114945255",
+    "114945256",
+    "114945257",
+    "114947882",
+    "114945259",
+    "114947883",
+    "114945261",
+    "114947884",
+    "114945263",
+    "114947885",
+    "114945265",
+    "114947886",
+    "114947433",
+    "114945268",
+    "114945269",
+    "114947887",
+    "114945271",
+    "114945272",
+    "114945273",
+    "114947432",
+    "114947375",
+    "114947376",
+    "114947377",
+    "114947378",
+    "114947888",
+    "114947889",
+    "114947890",
+    "114947382"
+   ]
+  },
+  {
+   "date": "2018-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117343947:por",
+     "title": "Declaração de Retificação n.º 40/2018",
+     "published": "2018-12-12",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/40-2018-117343947"
+    },
+    {
+     "id": "pt:dre:117114264:por",
+     "title": "Portaria n.º 303/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/portaria/303-2018-117114264"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 10.º",
+    "Retifica Artigo 29.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "114945241",
+    "114945242",
+    "114945243",
+    "114947877",
+    "114947878",
+    "114945246",
+    "114945247",
+    "114945248",
+    "114945249",
+    "114947879",
+    "114945251",
+    "114947880",
+    "117125390",
+    "114947881",
+    "114945255",
+    "114945256",
+    "114945257",
+    "114947882",
+    "114945259",
+    "114947883",
+    "117125391",
+    "114947884",
+    "114945263",
+    "114947885",
+    "114945265",
+    "114947886",
+    "114947433",
+    "114945268",
+    "114945269",
+    "117125392",
+    "114945271",
+    "114945272",
+    "114945273",
+    "117125393",
+    "114947375",
+    "114947376",
+    "114947377",
+    "114947378",
+    "114947888",
+    "114947889",
+    "114947890",
+    "114947382"
+   ]
+  },
+  {
+   "date": "2023-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216323581:por",
+     "title": "Portaria n.º 243/2023",
+     "published": "2023-07-28",
+     "dre_path": "/dr/detalhe/portaria/243-2023-216323581"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "114945241",
+    "114945242",
+    "114945243",
+    "114947877",
+    "216401491",
+    "114945246",
+    "114945247",
+    "114945248",
+    "114945249",
+    "114947879",
+    "114945251",
+    "114947880",
+    "117352165",
+    "216401492",
+    "114945255",
+    "114945256",
+    "114945257",
+    "114947882",
+    "114945259",
+    "114947883",
+    "117125391",
+    "114947884",
+    "114945263",
+    "114947885",
+    "114945265",
+    "114947886",
+    "114947433",
+    "114945268",
+    "114945269",
+    "117125392",
+    "114945271",
+    "114945272",
+    "114945273",
+    "117352166",
+    "114947375",
+    "114947376",
+    "114947377",
+    "114947378",
+    "114947888",
+    "114947889",
+    "114947890",
+    "114947382"
+   ]
+  },
+  {
+   "date": "2025-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:919314479:por",
+     "title": "Portaria n.º 234/2025/1",
+     "published": "2025-05-26",
+     "dre_path": "/dr/detalhe/portaria/234-2025-919314479"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "114945241",
+    "114945242",
+    "114945243",
+    "114947877",
+    "216401491",
+    "114945246",
+    "114945247",
+    "114945248",
+    "114945249",
+    "114947879",
+    "114945251",
+    "114947880",
+    "117352165",
+    "216401492",
+    "114945255",
+    "114945256",
+    "114945257",
+    "114947882",
+    "114945259",
+    "114947883",
+    "117125391",
+    "114947884",
+    "114945263",
+    "114947885",
+    "114945265",
+    "114947886",
+    "114947433",
+    "114945268",
+    "114945269",
+    "919442506",
+    "114945271",
+    "114945272",
+    "114945273",
+    "117352166",
+    "114947375",
+    "114947376",
+    "114947377",
+    "114947378",
+    "114947888",
+    "114947889",
+    "114947890",
+    "114947382"
+   ]
+  }
+ ],
+ "fragments": {
+  "114945241": {
+   "fragment_id": "114946657",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 188/2016\n\nde 13 de julho\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural, um para o continente, designado PDR 2020, outro para a Região Autónoma dos Açores, designado PRORURAL+, e outro para a Região Autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR 2020, à área relativa ao «Ambiente, eficiência no uso dos recursos e clima», corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio da melhoria da gestão dos recursos naturais e da proteção do solo, água, ar, biodiversidade e paisagem.\n\nDos principais objetivos da política de desenvolvimento rural inclui-se, neste quadro, o da promoção de uma gestão sustentável recursos naturais associados aos ecossistemas cinegéticos e dulçaquícolas devido ao seu potencial contributo para o desenvolvimento equilibrado das economias e comunidades rurais, através da diversificação das atividades em espaço rural e com o desenvolvimento da oferta de bens e serviços recreativos e turísticos, de procura crescente pela sociedade em geral.\n\nComo princípio geral, e no que aos ecossistemas cinegéticos se refere, serão privilegiados investimentos com escala, de forma a conferir eficácia e eficiência à intervenção e aos processos administrativos associados à aplicação do PDR 2020.\n\nDe realçar ainda que a promoção da biodiversidade, resiliência, valor ambiental e social dos espaços florestais associados a estas práticas, a manutenção e recuperação de presas de espécies selvagens com estatuto de proteção, tem uma importância com destaque na valorização dos territórios das áreas rurais, contribuindo desta forma para melhorar a oferta de serviços de qualidade.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, o seguinte:"
+  },
+  "114945242": {
+   "fragment_id": "114946658",
+   "type": 1,
+   "heading": "Capítulo I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições Gerais"
+  },
+  "114945243": {
+   "fragment_id": "114946659",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação do apoio 8.2.1, «Gestão de Recursos Cinegéticos» e do apoio 8.2.2, «Gestão de Recursos Aquícolas», ambas inseridas na ação 8.2, «Gestão de Recursos Cinegéticos e Aquícolas» da Medida 8, «Proteção e Reabilitação dos Povoamentos Florestais» do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "114945244": {
+   "fragment_id": "114946660",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos na presente portaria prosseguem os seguintes objetivos:\n\na) Promover a biodiversidade, resiliência, valor ambiental e social dos espaços florestais, através da melhoria do ordenamento dos recursos cinegéticos e aquícolas das águas interiores;\n\nb) Desenvolver a oferta de bens e serviços recreativos e turísticos em espaço rural, ligados à caça e à pesca;\n\nc) Contribuir para a recuperação e conservação das espécies cinegéticas, aquícolas das águas interiores e os seus habitats."
+  },
+  "114945245": {
+   "fragment_id": "114946661",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, entende-se por:\n\na) «Candidatura em parceria», o conjunto de candidaturas apresentadas em simultâneo por cada uma das pessoas que tenham celebrado entre si um contrato de parceria;\n\nb) «Certificação da gestão sustentável da caça», o processo através do qual uma entidade titular ou gestora de zona de caça obtém certificado resultante de processo de avaliação ou certificação de gestão sustentável da caça por uma entidade certificadora, quando a gestão cinegética esteja incluída no âmbito do certificado;\n\nc) «Concessões de pesca», as massas de água ou zonas ou troços destas em que a gestão da pesca está concessionada a terceiros e a prática da pesca desportiva está sujeita, para além das normas gerais, a normas específicas consignadas no respetivo regulamento, nos termos da Lei n.º 2097, de 6 de junho de 1959, alterada e republicada pela Lei n.º 30/2006, de 11 de julho, e do Decreto n.º 44623, de 10 de outubro de 1962, até ao termo da concessão;\n\nd) «Contrato de parceria», o documento de constituição de uma parceria com ou sem personalidade jurídica, por via do qual entidades públicas e ou privadas se obrigam a assegurar o desenvolvimento de atividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objetivos dessa parceria e as obrigações, deveres e responsabilidades dos seus membros, bem como a designação da entidade coordenadora;\n\ne) «Entidade coordenadora (EC)», a entidade que assegura a coordenação da parceria e da execução da operação, bem como a articulação entre as entidades parceiras;\n\nf) «Entidades gestoras de concessões de pesca», os clubes ou associações de pescadores e as câmaras municipais, nos termos da Lei n.º 2097, de 6 de junho de 1959, alterada e republicada pela Lei n.º 30/2006, de 11 de julho, e do artigo 6.º do Decreto n.º 44623, de 10 de outubro de 1962;\n\ng) «Entidades gestoras de zonas de pesca lúdica», as associações de pescadores, as federações desportivas de pesca titulares do estatuto de utilidade pública desportiva, as autarquias locais e suas associações, as entidades coletivas ou singulares com atividades no domínio do turismo, em que a pesca seja reconhecida como complementar ou integrante daquela atividade, o Instituto da Conservação da Natureza e das Florestas, I.P (ICNF, I. P.) ou outras entidades com reconhecida competência na gestão dos ecossistemas aquáticos, nos termos da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro;\n\nh) «Espécies com elevado valor pesqueiro», a truta, o achigã, a carpa, o barbo e a boga, na pesca lúdica e desportiva, e a enguia, o sável e a lampreia-marinha, na pesca profissional;\n\ni) «Gestão piscícola», o processo integrado de colheita de informação, análise, planeamento, consulta, decisão, alocação de recursos e formulação e implementação de medidas de gestão dos recursos aquícolas e da pesca, destinado a assegurar a exploração continuada desses recursos, assim como a conservação ou recuperação da biodiversidade e do estado das massas de água;\n\nj) «Intervenções com escala territorial relevante», as intervenções que abranjam áreas mínimas de 3.500 hectares (ha) ou, três ou mais zonas de caça contíguas, nomeadamente, agrupadas através de um contrato de parceria;\n\nk) «Medidas inovadoras de gestão piscícola», a pesca não consumptiva, designadamente, pesca e devolução ou pesca sem morte; a pesca com retenção restrita a espécimes enquadráveis como «troféus desportivos»; a pesca com retenção restrita de até três exemplares; as restrições nos meios, processos, técnicas e equipamentos utilizados destinados a assegurar a proteção de determinadas espécies aquícolas ou de espécimes com determinada dimensão; a aplicação de restrições na captura e devolução à água das diversas espécies como ferramenta de biomanipulação das populações piscícolas e ainda outras medidas, quando devidamente justificadas e enquadradas nas boas práticas de pesca lúdica, desportiva ou profissional;\n\nl) «Organizações do sector da caça (OSC)», as organizações de âmbito nacional ou regional, representativas de organizações de caçadores, de entidades que se dedicam à exploração económica dos recursos cinegéticos, ou de caçadores de modalidades específicas, reconhecidas ao abrigo do artigo 5.º da Portaria n.º 11/2009, de 7 de janeiro;\n\nm) «Pista de pesca», o troço de rio ou zona de albufeira que, pelas suas características hidrogeomorfológicas, naturais ou artificiais, e pelas populações piscícolas presentes, apresenta uma particular aptidão para a realização de provas de pesca;\n\nn) «Plano de Ordenamento e Exploração Cinegética (POEC)», o instrumento de ordenamento cinegético entregue juntamente com o requerimento de pedido de concessão de zona de caça associativa ou turística, nos termos do artigo 8.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\no) «Plano de Gestão da zona de caça (PG)», o instrumento de ordenamento cinegético entregue juntamente com o requerimento do pedido de transferência de gestão de zona de caça municipal ou nacional, nos termos do artigo 8.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\np) «Sistema Nacional de Áreas Classificadas (SNAC)», o sistema estruturado pelo Decreto-Lei n.º 142/2008, de 24 de julho, sendo constituído pela Rede Nacional de Áreas Protegidas (RNAP), pelas Áreas Classificadas que integram a Rede Natura 2000 e pelas demais áreas classificadas ao abrigo de compromissos internacionais assumidos pelo Estado Português;\n\nq) «Territórios de baixa densidade», as áreas constantes da lista de municípios publicitada no portal do PDR 2020, em www.pdr-2020.pt.;\n\nr) «Zonas de caça», as áreas onde é permitida a atividade de caça, podendo as mesmas possuir natureza de interesse nacional (ZCN), municipal (ZCM), turístico (ZCT) ou associativo (ZCA), nos termos do artigo 9.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\ns) «Zonas de pesca lúdica», as massas de água ou zonas ou troços destas em que a gestão da pesca e dos recursos aquícolas está concessionada a terceiros e a prática da pesca lúdica e da pesca desportiva se encontram sujeitas, para além das normas gerais a normas específicas consignadas nos respetivos planos de gestão e exploração, nos termos da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro e do Decreto-Lei n.º 222/2015, de 8 de outubro;\n\nt) «Zonas de pesca profissional», as massas de água ou zonas ou troços destas em que a gestão da pesca é efetuada pelo Estado e onde é praticada a pesca como atividade comercial, sujeita, para além das normas gerais, a normas específicas consignadas nos respetivos planos de gestão e exploração, nos termos da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro e do Decreto-Lei n.º 222/2015, de 8 de outubro;\n\nu) «Zonas de pesca reservada», as massas de água ou troços ou zonas destas onde é praticada a pesca desportiva, sujeita, para além das normas gerais, a normas específicas consignadas no respetivo regulamento, nos termos da Lei n.º 2097, de 6 de junho de 1959, alterada e republicada pela Lei n.º 30/2006, de 11 de julho, e do Decreto n.º 44623, de 10 de outubro de 1962;\n\nv) «Territórios Rurais», os territórios constantes da lista de freguesias de zonas rurais publicitada no portal do PDR 2020, em www.pdr-2020.pt."
+  },
+  "114945246": {
+   "fragment_id": "114946662",
+   "type": 11,
+   "heading": "Artigo 4.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Auxílios de Estado\n\nOs apoios previstos na presente portaria são concedidos nas condições estabelecidas no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis."
+  },
+  "114945247": {
+   "fragment_id": "114946663",
+   "type": 1,
+   "heading": "Capítulo II — «Gestão de Recursos Cinegéticos»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — «Gestão de Recursos Cinegéticos»"
+  },
+  "114945248": {
+   "fragment_id": "114946664",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nPodem beneficiar dos apoios previstos no presente capítulo, a título individual ou em parceria, as pessoas singulares ou coletivas, titulares ou gestoras de zonas de caça turística, associativa, municipal ou nacional, ou que as representem, bem como as organizações do sector da caça."
+  },
+  "114945249": {
+   "fragment_id": "114946665",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, devem reunir as seguintes condições, à data da apresentação da candidatura:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza do investimento;\n\nc) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 2 do presente artigo;\n\nd) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ne) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nf) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor.\n\ng) Apresentarem um contrato de parceria, quando aplicável.\n\nh) Apresentarem um contrato de mandato, quando aplicável.\n\n2 - A condição prevista na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.\n\n3 - A condição prevista na alínea f) do n.º 1 pode ser demonstrada até à data de aceitação da concessão do apoio, quando o candidato não tenha desenvolvido qualquer atividade."
+  },
+  "114945250": {
+   "fragment_id": "114946666",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente capítulo as operações que se enquadrem nos objetivos previstos no artigo 2.º e que preencham as seguintes condições:\n\na) Incidam em ZCN, ZCM, ZCT ou ZCA;\n\nb) Apresentem coerência técnica, nomeadamente no que respeita à conformidade com o POEC ou com PG, aprovados pelo ICNF, I. P., bem como coerência económica e financeira;\n\nc) Se desenvolvam em territórios rurais;\n\nd) Tenham um custo total elegível, apurado em sede de análise, inferior ou igual a 75.000 euros.\n\n2 - O cumprimento da condição prevista na alínea a) do número anterior está sujeita a confirmação por parte do ICNF, I. P., mediante solicitação por parte da autoridade de gestão."
+  },
+  "114945251": {
+   "fragment_id": "114946667",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo I à presente portaria, da qual faz parte integrante."
+  },
+  "114945252": {
+   "fragment_id": "114946668",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção das candidaturas aos apoios previstos no presente capítulo são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a investimentos que se situem no SNAC;\n\nb) Candidaturas respeitantes a intervenções de escala territorial relevante;\n\nc) Candidaturas que incluam estratégias de diversificação de oferta de serviços relacionados com a atividade da caça;\n\nd) Candidaturas respeitantes a investimentos que se situem em territórios de baixa densidade.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas."
+  },
+  "114945253": {
+   "fragment_id": "114946669",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente capítulo devem cumprir, para além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, as seguintes obrigações:\n\na) Executar os investimentos nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução dos investimentos, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, quando aplicável;\n\nh) Não locar ou alienar os equipamentos e as instalações cofinanciados, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Dispor de um processo relativo à operação, devidamente organizado, nos termos a definir em orientação técnica específica (OTE), preferencialmente em suporte digital, com toda a documentação relacionada com a mesma, devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nk) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nl) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior."
+  },
+  "114945254": {
+   "fragment_id": "114946670",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma, níveis e limite dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma, níveis e limite dos apoios\n\n1 - Os apoios previstos no presente capítulo revestem a forma de subvenção não reembolsável.\n\n2 - Os níveis dos apoios previstos no presente capítulo são os estabelecidos no anexo II à presente portaria, da qual faz parte integrante.\n\n3 - O apoio a conceder no âmbito do presente capítulo está limitado a uma candidatura por zona de caça, individualmente considerada ou inserida numa parceria, durante o período de programação.\n\n4 - Os apoios a conceder no âmbito do presente capítulo são cumuláveis com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, sendo que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não pode exceder 200.000 euros, por beneficiário."
+  },
+  "114945255": {
+   "fragment_id": "114946671",
+   "type": 1,
+   "heading": "Capítulo III — «Gestão de recursos aquícolas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — «Gestão de recursos aquícolas»"
+  },
+  "114945256": {
+   "fragment_id": "114946672",
+   "type": 11,
+   "heading": "Artigo 12.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Beneficiários\n\nPodem beneficiar dos apoios previstos no presente capítulo as pessoas, singulares ou coletivas, titulares ou gestoras de concessões de pesca ou de zonas de pesca lúdica, reservada ou profissional e suas associações."
+  },
+  "114945257": {
+   "fragment_id": "114946673",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos no presente capítulo, para além dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, devem reunir as seguintes condições, à data da apresentação da candidatura:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza do investimento;\n\nc) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 2;\n\nd) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\ne) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nf) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor.\n\n2 - A condição prevista na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.\n\n3 - A condição prevista na alínea f) do n.º 1 pode ser demonstrada até à data de aceitação da concessão do apoio quando o candidato não tenha desenvolvido qualquer atividade."
+  },
+  "114945258": {
+   "fragment_id": "114946674",
+   "type": 11,
+   "heading": "Artigo 14.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar do apoio previsto no presente capítulo as operações que se enquadrem nos objetivos previstos no artigo 2.º e que preencham as seguintes condições:\n\na) Se desenvolvam em concessões de pesca ou em zonas de pesca lúdica, zonas de pesca reservada ou zonas de pesca profissional;\n\nb) Incidam em territórios rurais;\n\nc) Apresentem coerência técnica, económica e financeira;\n\nd) Contribuam para a melhoria da estrutura das populações piscícolas e da composição das comunidades aquáticas, assim como para a promoção, valorização e divulgação da pesca ou para a sistematização de informação com ela relacionada.\n\ne) Tenham um custo total elegível, apurado em sede de análise, inferior ou igual a 75.000 euros.\n\n2 - O cumprimento das condições previstas nas alíneas a) e d) do número anterior está sujeita a confirmação por parte do ICNF, I. P., mediante solicitação por parte da autoridade de gestão."
+  },
+  "114945259": {
+   "fragment_id": "114947275",
+   "type": 11,
+   "heading": "Artigo 15.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo III à presente Portaria da qual faz parte integrante."
+  },
+  "114945260": {
+   "fragment_id": "114947276",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção das candidaturas aos apoios previstos no presente capítulo são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a investimentos que se situem no SNAC;\n\nb) Candidaturas respeitantes a investimentos para o desenvolvimento da gestão piscícola das espécies com elevado valor pesqueiro;\n\nc) Candidaturas respeitantes a investimentos para a melhoria de habitat baseadas em técnicas de engenharia natural e recorrendo a espécies autóctones;\n\nd) Candidaturas respeitantes a investimentos para a melhoria da conetividade longitudinal dirigida às espécies com elevado valor pesqueiro, através de intervenções em açudes, incluindo a instalação de dispositivos de passagem para peixes;\n\ne) Candidaturas que incluam estratégias de diversificação de oferta de serviços relacionados com a atividade da pesca;\n\nf) Candidaturas respeitantes a investimentos que se situem em territórios de baixa densidade.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas."
+  },
+  "114945261": {
+   "fragment_id": "114947277",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente capítulo, para além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro são obrigados a:\n\na) Executar os investimentos nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução dos investimentos, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, quando aplicável;\n\nh) Não locar ou alienar os equipamentos, ou as instalações cofinanciadas, durante o período de cinco anos a contar da data da aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Dispor de um processo relativo à operação, devidamente organizado, nos termos a definir em orientação técnica específica (OTE), preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nk) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nl) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior."
+  },
+  "114945262": {
+   "fragment_id": "114947278",
+   "type": 11,
+   "heading": "Artigo 18.º — Forma, nível e limite dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Forma, nível e limite dos apoios\n\n1 - Os apoios previstos no presente capítulo revestem a forma de subvenção não reembolsável.\n\n2 - O nível de apoio a conceder é de 75 % da despesa total elegível.\n\n3 - O apoio a conceder no âmbito do presente capítulo está limitado a uma candidatura por beneficiário, para o período de vigência do PDR 2020.\n\n4 - O apoio a conceder no âmbito do presente capítulo é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, sendo que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não pode exceder (euro) 200.000 por beneficiário."
+  },
+  "114945263": {
+   "fragment_id": "114947279",
+   "type": 1,
+   "heading": "Capítulo IV — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Procedimento"
+  },
+  "114945264": {
+   "fragment_id": "114947280",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apresentação das candidaturas\n\n1 - São estabelecidos períodos contínuos para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "114945265": {
+   "fragment_id": "114947281",
+   "type": 11,
+   "heading": "Artigo 20.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia dos investimentos a apoiar;\n\nc) A área geográfica elegível;\n\nd) A dotação orçamental a atribuir;\n\ne) O número máximo de candidaturas admitidas por beneficiário;\n\nf) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\ng) A forma, o nível e os limites dos apoios a conceder, respeitando o disposto nos artigos 11.º e 18.º\n\n2 - Os anúncios dos períodos de apresentação das candidaturas são divulgados pela autoridade de gestão, no portal do Portugal 2020, em www.portugal2020.pt, no portal do PDR 2020, em www.pdr2020.pt e publicitados em dois órgãos de comunicação social."
+  },
+  "114945266": {
+   "fragment_id": "114947282",
+   "type": 11,
+   "heading": "Artigo 21.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão ou as direções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação, e do beneficiário, bem como a aplicação dos fatores referidos nos artigos 9.º e 16.º, o apuramento do montante do custo total elegível e o nível de apoio previsional.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis contados a partir da data limite de apresentação das candidaturas e, quando emitido pelas DRAP, é remetido à autoridade de gestão.\n\n4 - O secretariado técnico aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete à decisão do gestor a aprovação das candidaturas.\n\n5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de 5 dias úteis a contar da data da sua emissão."
+  },
+  "114945267": {
+   "fragment_id": "114947283",
+   "type": 11,
+   "heading": "Artigo 22.º — Transição de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Transição de candidaturas\n\n1 - As candidaturas que tenham sido objeto de parecer favorável e que não tenham sido aprovadas por razões de insuficiência orçamental transitam para o período de apresentação de candidaturas seguinte, sendo sujeitas à aplicação dos critérios de seleção deste novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida."
+  },
+  "114945268": {
+   "fragment_id": "114947284",
+   "type": 11,
+   "heading": "Artigo 23.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "114945269": {
+   "fragment_id": "114947285",
+   "type": 11,
+   "heading": "Artigo 24.º — Execução dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Execução dos investimentos\n\n1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira dos investimentos são, respetivamente, de 6 e 24 meses contados a partir da data da submissão autenticada do termo de aceitação.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "114945270": {
+   "fragment_id": "114947286",
+   "type": 11,
+   "heading": "Artigo 25.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n5 - Podem ser apresentados até quatro pedidos de pagamentos por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n6 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n7 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n8 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt."
+  },
+  "114945271": {
+   "fragment_id": "114947287",
+   "type": 11,
+   "heading": "Artigo 26.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro."
+  },
+  "114945272": {
+   "fragment_id": "114947288",
+   "type": 11,
+   "heading": "Artigo 27.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária, para a conta referida nas alíneas i) dos artigos 10.º e 17.º"
+  },
+  "114945273": {
+   "fragment_id": "114947289",
+   "type": 11,
+   "heading": "Artigo 28.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Controlo\n\nAs operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitas a ações de controlo administrativo e in loco a partir da data da submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável."
+  },
+  "114945274": {
+   "fragment_id": "114947290",
+   "type": 11,
+   "heading": "Artigo 29.º — Reduções, suspensões e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas nos artigos 10.º e 17.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, é efetuada de acordo com o previsto no anexo IV à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "114947375": {
+   "fragment_id": "114947291",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "114947376": {
+   "fragment_id": "114947292",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma transitória\n\n1 - As candidaturas apresentadas entre 19 de fevereiro e 30 de junho de 2014, à ação n.º 1.3.2 «Gestão multifuncional» da medida n.º 1.3 «Promoção da competitividade florestal» integrada no subprograma n.º 1 «Promoção da competitividade» do PRODER que ainda não foram objeto de decisão, são analisadas e decididas, com base nos critérios estabelecidos na presente portaria, mantendo, para todos os efeitos, as respetivas datas de apresentação e ordem de submissão.\n\n2 - Para efeitos do disposto no número anterior, podem ser solicitados aos candidatos os elementos complementares que se revelem necessários à adequação das candidaturas para efeitos de monitorização do programa."
+  },
+  "114947377": {
+   "fragment_id": "114947293",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114947379": {
+   "fragment_id": "114947295",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\nDespesas elegíveis\n\nI - Custos relacionados com a melhoria e recuperação de habitats\n\n1 - Abertura de clareiras, desmatações;\n\n2 - Instalação de campos de alimentação, incluindo custos com aquisição de plantas, materiais, adubos e sementes;\n\n3 - Criação de zonas de refúgio, tais como bosquetes, sebes, galerias ripícolas e ilhas artificiais;\n\n4 - Aquisição e instalação de morouços e tocas artificiais;\n\n5 - Limpeza de pontos de água, reabilitação de charcas e açudes;\n\nII - Custos relacionados com a compatibilização da atividade cinegética com outras atividades\n\n6 - Aquisição e instalação de cercas elétricas para a proteção de culturas bem como de outros mecanismos (sonoros, mecânicos) para afugentar as espécies cinegéticas das culturas agrícolas e florestais;\n\n7 - Proteções individuais de plantas;\n\nIII - Custos com infraestruturas de apoio ao desenvolvimento da fauna\n\n8 - Aquisição e instalação de comedouros e bebedouros;\n\n9 - Aquisição de armadilhas para controlo de predadores;\n\n10 - Instalação de parques de reprodução e adaptação das espécies;\n\nIV - Custos com ações, equipamentos ou infraestruturas de monitorização\n\n11 - Aquisição e instalação de palanques ou torres de observação;\n\n12 - Aquisição e instalação de equipamentos de deteção e captura de espécies cinegéticas;\n\n13 - Ações de monitorização ou caracterização das populações cinegéticas e ou dos seus predadores;\n\nV - Custos relacionados com a salvaguarda de aspetos sanitários\n\n14 - Instalação de infraestruturas para assemblagem e examinação prévia de caça abatida, incluindo custos com equipamentos e materiais;\n\n15 - Aquisição e instalação de cercados de contenção de caça maior;\n\n16 - Infraestruturas de isolamento de espécies cinegéticas;\n\n17 - Ações de captura de espécies cinegéticas;\n\nVI - Custos relacionados com a diversificação da oferta de serviços relacionados com a atividade da caça\n\n18 - Aquisição e instalação de equipamento associado à instalação de observatórios e percursos;\n\n19 - Aquisição e instalação de equipamentos de sinalização;\n\n20 - Produção e disponibilização de conteúdos destinados a divulgar os planos de gestão, boas práticas de gestão cinegética e boas práticas sanitárias;\n\n21 - Implementação, por meios convencionais ou eletrónicos através de aplicações, plataformas ou páginas web, de ferramentas para a disponibilização e o reporte de informação sobre a caça e os recursos cinegéticos, incluindo a aquisição ou desenvolvimento de programas informáticos e licenças;\n\nVII - Custos com estudos\n\n22 - Recolha e sistematização de informação sobre a caça e os recursos cinegéticos, nomeadamente com base em informação fornecida pelos caçadores ou pelas zonas de caça;\n\n23 - Conceção de aplicações informáticas para a disponibilização e o reporte de informação sobre a caça e os recursos cinegéticos.\n\nAs despesas com estudos estão limitadas a 10 % da despesa total elegível do projeto e às seguintes tipologias de custos:\n\na) Custos com pessoal - Remunerações ou partes de remunerações e respetivos encargos associados, em condições a definir em OTE, dos técnicos e outro pessoal, afetos à elaboração dos estudos ou projetos;\n\nb) Deslocações, alojamento e ajudas de custo - Despesas com deslocações, alojamento e ajudas de custo, nos termos e até aos limites legais fixados para os trabalhadores que exercem funções públicas, em condições a definir em OTE;\n\nc) Bens e serviços técnicos especializados - Despesas com bens ou serviços especializados necessários à elaboração dos estudos ou projetos, nomeadamente consultoria.\n\nVIII - Custos com elaboração e acompanhamento do projeto\n\n24 - Elaboração e acompanhamento do projeto de investimento ou outros estudos prévios necessários ao investimento, incluindo a cartografia digital, até 3 % da despesa elegível e ao limite máximo de (euro) 2500, desde que as despesas tenham sido efetuadas até seis meses antes da data de apresentação da candidatura.\n\n(ver documento original)"
+  },
+  "114947380": {
+   "fragment_id": "114947296",
+   "type": 14,
+   "heading": "Anexo II — Níveis de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Níveis de apoio\n\n(a que se refere o n.º 2 do artigo 11.º)\n\n(ver documento original)"
+  },
+  "114947381": {
+   "fragment_id": "114947297",
+   "type": 14,
+   "heading": "Anexo III — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 15.º)\n\nDespesas elegíveis\n\nI - Custos relacionados com a melhoria e recuperação de habitats aquáticos e a conectividade fluvial\n\n1 - Projeto de execução, assim como as obras ou equipamentos para:\n\na) Naturalização de troços de cursos de água;\n\nb) Consolidação e estabilização de margens de cursos de água;\n\nc) Melhoramento do habitat litoral de albufeiras;\n\nd) Recuperação e reabilitação de zonas de desova em cursos de água;\n\ne) Aquisição e instalação de ninhos e desovadeiras artificiais;\n\n2 - Custos relacionados com intervenções e obras em açudes para a melhoria da conectividade fluvial para as populações piscícolas, incluindo:\n\na) Instalação de dispositivos de transposição para a fauna piscícola;\n\nb) Projeto de execução;\n\nII - Custos relacionados com a diversificação da oferta de serviços associados à atividade da pesca e com a gestão dos recursos aquícolas\n\n3 - Execução de planos para a melhoria da gestão piscícola ou para a valorização da pesca, que assegurem simultaneamente a conservação da biodiversidade aquática e da qualidade ou potencial ecológico das massas de água, através de medidas de gestão piscícola inovadoras associadas a novos produtos e serviços, incluindo despesas em equipamento e serviços para:\n\na) Equipamentos de caracterização e monitorização das populações piscícolas;\n\nb) Implementação de sistemas de recolha de informação sobre a pesca e os recursos piscícolas, nomeadamente com base em informação fornecida pelos pescadores;\n\nc) Produção e disponibilização de conteúdos destinados a divulgar o Plano de Gestão e Exploração e as medidas de gestão piscícola a implementar;\n\n4 - Implementação, por meios convencionais ou eletrónicos através de aplicações, plataformas ou páginas web, de ferramentas para a disponibilização e o reporte de informação sobre a pesca e os recursos aquícolas, incluindo a aquisição ou desenvolvimento de programas informáticos e licenças;\n\n5 - Custos com obras e equipamento associados a observatórios e percursos, assim como a respetiva sinalética, destinados a permitir a ligação e integração dos percursos de acesso a pesqueiros em percursos de turismo de natureza, circuitos pedonais ou similares;\n\n6 - Custos com obras ou equipamento necessários à implementação de medidas inovadoras de gestão piscícola, nomeadamente a construção, melhoria e sinalização de percursos, acessos, pesqueiros ou lotes;\n\n7 - Custos com obras e equipamentos associados à valorização da pesca desportiva através da instalação ou melhoramento de pistas de pesca;\n\n8 - Suportes para disponibilização de informação ao pescador, relativa à pesca e aos recursos aquícolas;\n\nIII - Custos com estudos\n\n9 - Recolha e sistematização de informação sobre pesca nas águas interiores e recursos aquícolas, nomeadamente com base em informação fornecida pelas organizações do setor ou outras fontes;\n\n10 - Conceção de ferramentas para a disponibilização e o reporte de informação sobre a pesca e os recursos aquícolas;\n\n11 - Monitorização, análise e avaliação final do Plano de Gestão e Exploração.\n\n- As despesas com estudos estão limitadas a 10 % da despesa total elegível do projeto e à seguinte tipologia de custos:\n\na) Custos com pessoal: Remunerações ou partes de remunerações e respetivos encargos associados, em condições a definir em OTE, dos técnicos e outro pessoal, afetos à elaboração dos estudos ou projetos;\n\nb) Deslocações, alojamento e ajudas de custo - Despesas com deslocações, alojamento e ajudas de custo, nos termos e até aos limites legais fixados para os trabalhadores que exercem funções públicas, em condições a definir em OTE;\n\nc) Bens e serviços técnicos especializados - Despesas com bens ou serviços especializados necessários à elaboração dos estudos ou projetos, nomeadamente consultoria.\n\nIV - Custos relativos à elaboração e acompanhamento do projeto de investimento\n\n12 - Elaboração e acompanhamento do projeto de investimento ou outros estudos prévios necessários ao investimento, incluindo a cartografia digital, até 3 % da despesa elegível e ao limite máximo de (euro) 2500, desde que as despesas tenham sido efetuadas até seis meses antes da data de apresentação da candidatura.\n\n(ver documento original)"
+  },
+  "114947382": {
+   "fragment_id": "114947298",
+   "type": 14,
+   "heading": "Anexo IV — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Reduções e exclusões\n\n(a que se refere o n.º 2 do artigo 29.º)\n\n1 - O incumprimento das obrigações dos beneficiários, previstas nos artigos 10.º e 17.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt."
+  },
+  "114947431": {
+   "fragment_id": "114947283",
+   "type": 11,
+   "heading": "Artigo 22.º — Transição de candidaturas",
+   "in_force_from": "2016-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+   ],
+   "markdown": "###### Artigo 22.º — Transição de candidaturas\n\n1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental, transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção desse novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.\n\n> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+  },
+  "114947378": {
+   "fragment_id": "114947294",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 28 de junho de 2016."
+  },
+  "114947877": {
+   "fragment_id": "114946660",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos na presente portaria prosseguem os seguintes objetivos:\n\na) Promover a biodiversidade, resiliência, valor ambiental e social dos espaços florestais, através da melhoria do ordenamento e gestão dos recursos cinegéticos e aquícolas das águas interiores;\n\nb) Desenvolver a oferta de bens e serviços recreativos e turísticos em espaço rural, ligados à caça e à pesca;\n\nc) Contribuir para a recuperação e conservação das espécies cinegéticas, aquícolas das águas interiores e os seus habitats.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947878": {
+   "fragment_id": "114946661",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, entende-se por:\n\na) «Candidatura em parceria», o conjunto de candidaturas apresentadas em simultâneo por cada uma das pessoas que tenham celebrado entre si um contrato de parceria;\n\nb) «Certificação da gestão sustentável da caça», o processo através do qual uma entidade titular ou gestora de zona de caça obtém certificado resultante de processo de avaliação ou certificação de gestão sustentável da caça por uma entidade certificadora, quando a gestão cinegética esteja incluída no âmbito do certificado;\n\nc) «Concessões de pesca», as massas de água ou zonas ou troços destas em que a gestão da pesca está concessionada a terceiros e a prática da pesca desportiva está sujeita, para além das normas gerais, a normas específicas consignadas no respetivo regulamento, nos termos da Lei n.º 2097, de 6 de junho de 1959, alterada e republicada pela Lei n.º 30/2006, de 11 de julho, e do Decreto n.º 44623, de 10 de outubro de 1962, até ao termo da concessão;\n\nd) «Contrato de parceria», o documento de constituição de uma parceria com ou sem personalidade jurídica, por via do qual entidades públicas e ou privadas se obrigam a assegurar o desenvolvimento de atividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objetivos dessa parceria e as obrigações, deveres e responsabilidades dos seus membros, bem como a designação da entidade coordenadora;\n\ne) «Entidade coordenadora (EC)», a entidade que assegura a coordenação da parceria e da execução da operação, bem como a articulação entre as entidades parceiras;\n\nf) «Entidades gestoras de concessões de pesca», os clubes ou associações de pescadores e as câmaras municipais, nos termos da Lei n.º 2097, de 6 de junho de 1959, alterada e republicada pela Lei n.º 30/2006, de 11 de julho, e do artigo 6.º do Decreto n.º 44623, de 10 de outubro de 1962;\n\ng) «Entidades gestoras de zonas de pesca lúdica», as associações de pescadores, as federações desportivas de pesca titulares do estatuto de utilidade pública desportiva, as autarquias locais e suas associações, as entidades coletivas ou singulares com atividades no domínio do turismo, em que a pesca seja reconhecida como complementar ou integrante daquela atividade, o Instituto da Conservação da Natureza e das Florestas, I.P (ICNF, I. P.) ou outras entidades com reconhecida competência na gestão dos ecossistemas aquáticos, nos termos da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro;\n\nh) «Espécies com elevado valor pesqueiro», a truta, o achigã, a carpa, o barbo e a boga, na pesca lúdica e desportiva, e a enguia, o sável e a lampreia-marinha, na pesca profissional;\n\ni) 'Gestão pesqueira', o processo integrado de colheita de informação, análise, planeamento, consulta, decisão, alocação de recursos e formulação e implementação de medidas de gestão dos recursos aquícolas e da pesca, destinado a assegurar a exploração continuada desses recursos, assim como a conservação ou recuperação da biodiversidade e do estado das massas de água;\n\nj) 'Intervenções com escala territorial relevante', as intervenções que abranjam áreas mínimas contíguas de 750 hectares (ha) ou, três ou mais zonas de caça ou pesca contíguas, nomeadamente, agrupadas através de um contrato de parceria;\n\nk) 'Medidas inovadoras de gestão pesqueira', as seguintes medidas:\n\ni) Pesca não consumptiva, designadamente, pesca e devolução ou pesca sem morte;\n\nii) Pesca com retenção restrita a espécimes enquadráveis como troféus desportivos;\n\niii) Restrições nos períodos e locais de pesca, assim como nos meios, processos, técnicas e equipamentos utilizados destinados a assegurar a proteção de determinadas espécies aquícolas ou de espécimes com determinada dimensão;\n\niv) Aplicação de restrições na captura ou devolução à água de determinadas espécies aquícolas ou de espécimes com determinada dimensão, tendo como objetivo a biomanipulação das populações piscícolas;\n\nv) Certificação e valorização dos produtos da pesca;\n\nvi) Outras medidas, quando devidamente justificadas e enquadradas nas boas práticas de pesca lúdica, desportiva ou profissional;\n\nl) «Organizações do sector da caça (OSC)», as organizações de âmbito nacional ou regional, representativas de organizações de caçadores, de entidades que se dedicam à exploração económica dos recursos cinegéticos, ou de caçadores de modalidades específicas, reconhecidas ao abrigo do artigo 5.º da Portaria n.º 11/2009, de 7 de janeiro;\n\nm) «Pista de pesca», o troço de rio ou zona de albufeira que, pelas suas características hidrogeomorfológicas, naturais ou artificiais, e pelas populações piscícolas presentes, apresenta uma particular aptidão para a realização de provas de pesca;\n\nn) «Plano de Ordenamento e Exploração Cinegética (POEC)», o instrumento de ordenamento cinegético entregue juntamente com o requerimento de pedido de concessão de zona de caça associativa ou turística, nos termos do artigo 8.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\no) «Plano de Gestão da zona de caça (PG)», o instrumento de ordenamento cinegético entregue juntamente com o requerimento do pedido de transferência de gestão de zona de caça municipal ou nacional, nos termos do artigo 8.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\np) 'Rede Nacional de Áreas Protegidas (RNAP)', o conjunto das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 142/2008, de 24 de julho, e dos respetivos diplomas regionais de classificação retificado pela Declaração de Retificação n.º 53-A/2008, alterado pelos Decretos-Leis n.os 242/2015, de 15 de outubro e 42-A/2016, de 12 de agosto;\n\nq) 'Rede Natura 2000 (RN2000)', a rede ecológica para o espaço comunitário da União Europeia, que engloba zonas de proteção especial (ZPE), designadas ao abrigo da Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro (Diretiva Aves), e sítios de importância comunitária (SIC), designados ao abrigo da Diretiva 92/43/CEE do Conselho, de 21 de maio (Diretiva Habitats), transpostas para o direito interno pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado pelos Decretos-Leis n.os 49/2005, de 24 de fevereiro, e 156-A/2013, de 8 de novembro;\n\nr) «Territórios de baixa densidade», as áreas constantes da lista de municípios publicitada no portal do PDR 2020, em www.pdr-2020.pt.;\n\ns) «Territórios Rurais», os territórios constantes da lista de freguesias de zonas rurais publicitada no portal do PDR 2020, em www.pdr-2020.pt;\n\nt) «Zonas de caça», as áreas onde é permitida a atividade de caça, podendo as mesmas possuir natureza de interesse nacional (ZCN), municipal (ZCM), turístico (ZCT) ou associativo (ZCA), nos termos do artigo 9.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\nu) 'Zonas de pesca lúdica', as massas de água ou zonas ou troços destas em que a gestão da pesca e dos recursos aquícolas está concessionada a terceiros e a prática da pesca lúdica e da pesca desportiva se encontram sujeitas, para além das normas gerais a normas específicas consignadas nos respetivos planos de gestão e exploração, nos termos da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro e pelo Decreto-Lei n.º 112/2017, de 6 de setembro;\n\nv) 'Zonas de pesca profissional', as massas de água em que a gestão da pesca é efetuada pelo Estado e onde é praticada a pesca como atividade comercial, sujeita, para além das normas gerais, a normas específicas consignadas nos respetivos planos de gestão e exploração, nos termos da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro e pelo Decreto-Lei n.º 112/2017, de 6 de setembro;\n\nw) «Zonas de pesca reservada», as massas de água ou troços ou zonas destas onde é praticada a pesca desportiva, sujeita, para além das normas gerais, a normas específicas consignadas no respetivo regulamento, nos termos da Lei n.º 2097, de 6 de junho de 1959, alterada e republicada pela Lei n.º 30/2006, de 11 de julho, e do Decreto n.º 44623, de 10 de outubro de 1962.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947879": {
+   "fragment_id": "114946666",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente capítulo as operações que se enquadrem nos objetivos previstos no artigo 2.º e que preencham as seguintes condições:\n\na) Incidam em ZCN, ZCM, ZCT ou ZCA;\n\nb) Apresentem coerência técnica, nomeadamente no que respeita à conformidade com o POEC ou com PG, aprovados pelo ICNF, I. P.;\n\nc) Se desenvolvam em territórios rurais;\n\nd)  (Revogada.)\n\n2 - O cumprimento da condição prevista na alínea a) do número anterior está sujeita à disponibilização, por parte do ICNF, I. P., do limite atualizado das zonas de caça abrangidas pelos pedidos de apoio apresentados, no Sistema de Identificação Parcelar (SIP) do IFAP, I. P..\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947880": {
+   "fragment_id": "114946668",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de seleção das candidaturas",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 9.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção das candidaturas aos apoios previstos no presente capítulo são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a investimentos que se situem na Rede Natura 2000 ou na Rede Nacional de Áreas Protegidas (RNAP);\n\nb) Candidaturas respeitantes a intervenções de escala territorial relevante;\n\nc) Candidaturas que incluam estratégias de diversificação de oferta de serviços relacionados com a atividade da caça;\n\nd) Candidaturas respeitantes a investimentos que se situem em territórios de baixa densidade.\n\ne) Candidaturas respeitantes a investimentos que se situem em regiões de montanha e outras regiões desfavorecidas.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947881": {
+   "fragment_id": "114946670",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma, níveis e limite dos apoios",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 11.º — Forma, níveis e limite dos apoios\n\n1 - Os apoios previstos no presente capítulo revestem a forma de subvenção não reembolsável.\n\n2 - Os níveis dos apoios previstos no presente capítulo são os estabelecidos no anexo II à presente portaria, da qual faz parte integrante.\n\n3 - O apoio a conceder no âmbito do presente capítulo está limitado a uma candidatura por zona de caça, individualmente considerada ou inserida numa parceria, durante o período de programação.\n\n4 - O custo total elegível dos pedidos de apoio, apurado em sede de análise, está limitado a 75.000 euros.\n\n5 - Caso o limite previsto no número anterior seja ultrapassado, o custo elegível de cada uma das despesas propostas será proporcionalmente reduzido até que o limite seja cumprido.\n\n6 - Os apoios a conceder no âmbito do presente capítulo são cumuláveis com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, sendo que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não pode exceder 200.000 euros, por beneficiário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947882": {
+   "fragment_id": "114946674",
+   "type": 11,
+   "heading": "Artigo 14.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 14.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar do apoio previsto no presente capítulo as operações que se enquadrem nos objetivos previstos no artigo 2.º e que preencham as seguintes condições:\n\na) Se desenvolvam em concessões de pesca ou em zonas de pesca lúdica, zonas de pesca reservada ou zonas de pesca profissional;\n\nb) Incidam em territórios rurais;\n\nc) Apresentem coerência técnica, económica e financeira;\n\nd) Contribuam para uma ou mais das seguintes melhorias no sistema pesqueiro:\n\ni) Reabilitação ou recuperação do habitat;\n\nii) Melhoria da conetividade longitudinal para as espécies aquícolas;\n\niii) Melhoria da composição e estrutura das populações piscícolas;\n\niv) Melhoria na estrutura e funcionamento do ecossistema aquático;\n\nv) Promoção, valorização e divulgação da pesca e dos produtos da pesca;\n\nvi) Melhoria na aquisição, tratamento e disponibilização de informação sobre a pesca, os recursos aquícolas e a gestão pesqueira.\n\ne) (Revogada.)\n\n2 - O cumprimento das condições previstas nas alíneas a) e d) do número anterior está sujeita a confirmação por parte do ICNF, I. P..\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947883": {
+   "fragment_id": "114947276",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de seleção das candidaturas",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 16.º — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção das candidaturas aos apoios previstos no presente capítulo são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a investimentos que se situem na Rede Natura 2000 ou na Rede Nacional de Áreas Protegidas (RNAP);\n\nb) (Revogada.)\n\nc) Candidaturas respeitantes a investimentos para a melhoria de habitat baseadas em técnicas de engenharia natural e recorrendo a espécies autóctones;\n\nd) Candidaturas respeitantes a investimentos para a melhoria da conetividade longitudinal, enquadradas em intervenções de escala territorial relevante e dirigidas às espécies com elevado valor pesqueiro;\n\ne) (Revogada.)\n\nf) Candidaturas respeitantes a investimentos que se situem em territórios de baixa densidade.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947884": {
+   "fragment_id": "114947278",
+   "type": 11,
+   "heading": "Artigo 18.º — Forma, nível e limite dos apoios",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 18.º — Forma, nível e limite dos apoios\n\n1 - Os apoios previstos no presente capítulo revestem a forma de subvenção não reembolsável.\n\n2 - O nível de apoio a conceder é de 75 % da despesa total elegível.\n\n3 - O apoio a conceder no âmbito do presente capítulo está limitado a uma candidatura por beneficiário, para o período de vigência do PDR 2020.\n\n4 - O custo total elegível dos pedidos de apoio, apurado em sede de análise, está limitado a 75.000 euros.\n\n5 - Caso o limite previsto no número anterior seja ultrapassado, o custo elegível de cada uma das despesas propostas será proporcionalmente reduzido até que o limite seja cumprido.\n\n6 - O apoio a conceder no âmbito do presente capítulo é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, sendo que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não pode exceder (euro) 200.000 por beneficiário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947885": {
+   "fragment_id": "114947280",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação das candidaturas",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 19.º — Apresentação das candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947886": {
+   "fragment_id": "114947282",
+   "type": 11,
+   "heading": "Artigo 21.º — Análise e decisão das candidaturas",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 21.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão ou as direções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação, e do beneficiário, bem como a aplicação dos fatores referidos nos artigos 9.º e 16.º, o apuramento do montante do custo total elegível e o nível de apoio previsional.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis contados a partir da data limite de apresentação das candidaturas e, quando emitido pelas DRAP, é remetido à autoridade de gestão.\n\n4 - O secretariado técnico aplica os critérios de seleção, em função dos princípios gerais aplicáveis e da dotação orçamental referida no respetivo anúncio, e submete à decisão do gestor a aprovação das candidaturas.\n\n5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de 5 dias úteis a contar da data da sua emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947433": {
+   "fragment_id": "114947283",
+   "type": 11,
+   "heading": "Artigo 22.º — Transição de candidaturas",
+   "in_force_from": "2016-02-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13",
+    "Alterado pelo/a Artigo 16.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+   ],
+   "markdown": "###### Artigo 22.º — Transição de candidaturas\n\n1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental, transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção desse novo período.\n\n2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13\n\n> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01"
+  },
+  "114947887": {
+   "fragment_id": "114947286",
+   "type": 11,
+   "heading": "Artigo 25.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 25.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n5 - Podem ser apresentados até quatro pedidos de pagamentos por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n6 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n7 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n8 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947432": {
+   "fragment_id": "114947290",
+   "type": 11,
+   "heading": "Artigo 29.º — Reduções, suspensões e exclusões",
+   "in_force_from": "2016-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13"
+   ],
+   "markdown": "###### Artigo 29.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas nos artigos 10.º e 17.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, é efetuada de acordo com o previsto no anexo IV à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.\n\n6 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13"
+  },
+  "114947888": {
+   "fragment_id": "114947295",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "## Anexo I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\nDespesas elegíveis\n\nI - Custos relacionados com a melhoria e recuperação de habitats:\n\n1 - Abertura de clareiras, desmatações;\n\n2 - Instalação de campos de alimentação, incluindo custos com aquisição de plantas, materiais, e sementes;\n\n3 - Criação de zonas de refúgio, tais como bosquetes, sebes, galerias ripícolas e ilhas artificiais;\n\n4 - Aquisição e instalação de morouços e tocas artificiais;\n\n5 - Limpeza de pontos de água, reabilitação de charcas e açudes;\n\nII - Custos relacionados com a compatibilização da atividade cinegética com outras atividades:\n\n6 - Aquisição e instalação de cercas elétricas para a proteção de culturas bem como de outros mecanismos (sonoros, mecânicos) para afugentar as espécies cinegéticas das culturas agrícolas e florestais;\n\n7 - Proteções individuais de plantas;\n\nIII - Custos com infraestruturas de apoio ao desenvolvimento da fauna:\n\n8 - Aquisição de comedouros e bebedouros;\n\n9 - Aquisição de armadilhas para controlo de predadores;\n\n10 - Instalação de parques de reprodução e adaptação das espécies;\n\nIV - Custos com ações, equipamentos ou infraestruturas de monitorização:\n\n11 - Aquisição e instalação de palanques ou torres de observação;\n\n12 - Aquisição de equipamentos de deteção e captura de espécies cinegéticas;\n\n13 - Ações de monitorização ou caracterização das populações cinegéticas e ou dos seus predadores;\n\nV - Custos relacionados com a salvaguarda de aspetos sanitários:\n\n14 - Instalação de infraestruturas para exame inicial de caça abatida, incluindo custos com materiais;\n\n15 - Aquisição de equipamentos para exame inicial de caça abatida;\n\n16 - Aquisição e instalação de cercados de contenção de caça maior;\n\n17 - Infraestruturas de isolamento de espécies cinegéticas;\n\n18 - Ações de captura de espécies cinegéticas;\n\nVI - Custos relacionados com a diversificação da oferta de serviços relacionados com a atividade da caça:\n\n19 - Aquisição de equipamento associado à instalação de observatórios e percursos;\n\n20 - Aquisição e instalação de sinalização;\n\n21 - Produção e disponibilização de conteúdos destinados a divulgar os planos de gestão, boas práticas de gestão cinegética e boas práticas sanitárias;\n\n22 - Implementação, por meios convencionais ou eletrónicos através de aplicações, plataformas ou páginas web, de ferramentas para a disponibilização e o reporte de informação sobre a caça e os recursos cinegéticos, incluindo a aquisição ou desenvolvimento de programas informáticos e licenças;\n\nVII - Custos com estudos:\n\n23 - Recolha e sistematização de informação sobre a caça e os recursos cinegéticos, nomeadamente com base em informação fornecida pelos caçadores ou pelas zonas de caça;\n\n24 - Conceção de aplicações informáticas para a disponibilização e o reporte de informação sobre a caça e os recursos cinegéticos.\n\nAs despesas com estudos estão limitadas a 10 % da despesa total elegível do projeto e às seguintes tipologias de custos:\n\na) Custos com pessoal: Remunerações ou partes de remunerações e respetivos encargos associados, em condições a definir em OTE, dos técnicos e outro pessoal, afetos à elaboração dos estudos ou projetos;\n\nb) Deslocações, alojamento e ajudas de custo: Despesas com deslocações, alojamento e ajudas de custo, nos termos e até aos limites legais fixados para os trabalhadores que exercem funções públicas, em condições a definir em OTE;\n\nc) Bens e serviços técnicos especializados: Despesas com bens ou serviços especializados necessários à elaboração dos estudos ou projetos, nomeadamente consultoria;\n\nVIII - Custos com elaboração e acompanhamento do projeto:\n\n25 - Elaboração e acompanhamento do projeto de investimento ou outros estudos prévios necessários ao investimento, incluindo a cartografia digital, até 3 % da despesa elegível e ao limite máximo de (euro) 2500, desde que as despesas tenham sido efetuadas até seis meses antes da data de apresentação da candidatura.\n\nDespesas não elegíveis\n\n(ver documento original)\n\n33 - IVA recuperável nos termos da legislação fiscal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947889": {
+   "fragment_id": "114947296",
+   "type": 14,
+   "heading": "Anexo II — Níveis de apoio",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "## Anexo II — Níveis de apoio\n\n(a que se refere o n.º 2 do artigo 11.º)\n\n(ver documento original)\n\nRestantes despesas\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "114947890": {
+   "fragment_id": "114947297",
+   "type": 14,
+   "heading": "Anexo III — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2018-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "## Anexo III — Despesas elegíveis e não elegíveis\n\nDespesas elegíveis\n\nI - Custos relacionados com a melhoria e recuperação de habitats aquáticos e a conetividade fluvial:\n\n1 - Projeto de execução, assim como as obras ou equipamentos para:\n\na) Naturalização de troços de cursos de água;\n\nb) Consolidação e estabilização de margens de cursos de água;\n\nc) Melhoramento do habitat litoral de albufeiras;\n\nd) Recuperação e reabilitação de zonas de desova em cursos de água;\n\ne) Aquisição e instalação de ninhos e desovadeiras artificiais;\n\n2 - Custos relacionados com intervenções e obras em açudes para a melhoria da conetividade fluvial para as populações piscícolas, incluindo:\n\na) Instalação de dispositivos de transposição para a fauna piscícola;\n\nb) Obras de afeiçoamento para a melhoria da transposição para a fauna piscícola;\n\nc) Projeto de execução;\n\nII - Custos relacionados com a diversificação da oferta de serviços associados à atividade da pesca e com a gestão dos recursos aquícolas:\n\n3 - Execução de planos para a melhoria da gestão pesqueira ou para a valorização da pesca, que assegurem simultaneamente a conservação da biodiversidade aquática e da qualidade ou potencial ecológico das massas de água, através de medidas de gestão pesqueira inovadoras associadas a novos produtos e serviços, incluindo despesas em equipamento e serviços para:\n\na) Caracterização e monitorização das populações piscícolas;\n\nb) Implementação de sistemas de recolha de informação sobre a pesca e os recursos piscícolas, nomeadamente com base em informação fornecida pelos pescadores;\n\nc) Produção e disponibilização de conteúdos destinados a divulgar o Plano de Gestão e Exploração, as medidas de gestão pesqueira a implementar e os processos previstos para a aquisição de informação sobre a pesca e os recursos aquícolas;\n\nd) Valorização e certificação dos produtos da pesca;\n\n4 - Implementação, por meios convencionais ou eletrónicos através de aplicações, plataformas ou páginas web, de ferramentas para a disponibilização e o reporte de informação sobre a pesca e os recursos aquícolas, incluindo a aquisição ou desenvolvimento de programas informáticos e licenças;\n\n5 - Custos com obras e equipamento associados a observatórios e percursos, assim como a respetiva sinalética, destinados a permitir a ligação e integração dos percursos de acesso a pesqueiros em percursos de turismo de natureza, circuitos pedonais ou similares;\n\n6 - Custos com obras ou equipamento necessários à implementação de medidas inovadoras de gestão pesqueira, nomeadamente a construção, melhoria e sinalização de percursos, acessos, pesqueiros ou lotes;\n\n7 - Custos com obras e equipamentos associados à valorização da pesca desportiva através da instalação ou melhoramento de pistas de pesca;\n\n8 - Suportes para disponibilização de informação ao pescador, relativa à pesca e aos recursos aquícolas;\n\nIII - Custos com estudos:\n\n9 - Recolha e sistematização de informação sobre pesca nas águas interiores e recursos aquícolas, nomeadamente com base em informação fornecida pelas organizações do setor ou outras fontes;\n\n10 - Conceção de ferramentas para a disponibilização e o reporte de informação sobre a pesca e os recursos aquícolas;\n\n11 - Monitorização, análise e avaliação final da implementação do Plano de Gestão e Exploração.\n\nAs despesas com estudos estão limitadas a 10 % da despesa total elegível do projeto e à seguinte tipologia de custos:\n\na) Custos com pessoal: Remunerações ou partes de remunerações e respetivos encargos associados, em condições a definir em OTE, dos técnicos e outro pessoal, afetos à elaboração dos estudos ou projetos;\n\nb) Deslocações, alojamento e ajudas de custo: Despesas com deslocações, alojamento e ajudas de custo, nos termos e até aos limites legais fixados para os trabalhadores que exercem funções públicas, em condições a definir em OTE;\n\nc) Bens e serviços técnicos especializados: Despesas com bens ou serviços especializados necessários à elaboração dos estudos ou projetos, nomeadamente consultoria;\n\nIV - Custos relativos à elaboração e acompanhamento do projeto de investimento:\n\n12 - Elaboração e acompanhamento do projeto de investimento ou outros estudos prévios necessários ao investimento, incluindo a cartografia digital, até 3 % da despesa elegível e ao limite máximo de (euro) 2 500, desde que as despesas tenham sido efetuadas até seis meses antes da data de apresentação da candidatura.\n\nDespesas não elegíveis\n\n(ver documento original)\n\n20 - IVA recuperável nos termos da legislação fiscal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "117125390": {
+   "fragment_id": "114946669",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 10.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente capítulo devem cumprir, para além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, as seguintes obrigações:\n\na) Executar os investimentos nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução dos investimentos, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, quando aplicável;\n\nh) Não locar ou alienar os equipamentos e as instalações cofinanciados, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Dispor de um processo relativo à operação, devidamente organizado, nos termos a definir em orientação técnica específica (OTE), preferencialmente em suporte digital, com toda a documentação relacionada com a mesma, devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nk) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nl) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea l) do número anterior.\n\n> Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117125391": {
+   "fragment_id": "114947277",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 17.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente capítulo, para além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro são obrigados a:\n\na) Executar os investimentos nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução dos investimentos, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, quando aplicável;\n\nh) Não locar ou alienar os equipamentos, ou as instalações cofinanciadas, durante o período de cinco anos a contar da data da aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Dispor de um processo relativo à operação, devidamente organizado, nos termos a definir em orientação técnica específica (OTE), preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nk) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nl) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior.\n\nm) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do número anterior.\n\n> Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117125392": {
+   "fragment_id": "114947286",
+   "type": 11,
+   "heading": "Artigo 25.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 25.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n5 - Podem ser apresentados até cinco pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n6 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n7 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n8 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.\n\n> Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "117125393": {
+   "fragment_id": "114947290",
+   "type": 11,
+   "heading": "Artigo 29.º — Reduções, suspensões e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13"
+   ],
+   "markdown": "###### Artigo 29.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas nos artigos 10.º e 17.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, é efetuada de acordo com o previsto no anexo IV à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.\n\n6 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n7 - A não comprovação do início da execução física da operação no prazo previsto na alínea l) do n.º 1 do artigo 10.º, na alínea m) do n.º 1 do artigo 17.º, ou no n.º 2 dos artigos 10.º e 17.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13"
+  },
+  "216401491": {
+   "fragment_id": "114946661",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2023 - Diário da República n.º 146/2023, Série I de 2023-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/243-2023-216323581), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, entende-se por:\n\na) «Candidatura em parceria», o conjunto de candidaturas apresentadas em simultâneo por cada uma das pessoas que tenham celebrado entre si um contrato de parceria;\n\nb) «Certificação da gestão sustentável da caça», o processo através do qual uma entidade titular ou gestora de zona de caça obtém certificado resultante de processo de avaliação ou certificação de gestão sustentável da caça por uma entidade certificadora, quando a gestão cinegética esteja incluída no âmbito do certificado;\n\nc) «Concessões de pesca», as massas de água ou zonas ou troços destas em que a gestão da pesca está concessionada a terceiros e a prática da pesca desportiva está sujeita, para além das normas gerais, a normas específicas consignadas no respetivo regulamento, nos termos da Lei n.º 2097, de 6 de junho de 1959, alterada e republicada pela Lei n.º 30/2006, de 11 de julho, e do Decreto n.º 44623, de 10 de outubro de 1962, até ao termo da concessão;\n\nd) «Contrato de parceria», o documento de constituição de uma parceria com ou sem personalidade jurídica, por via do qual entidades públicas e ou privadas se obrigam a assegurar o desenvolvimento de atividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objetivos dessa parceria e as obrigações, deveres e responsabilidades dos seus membros, bem como a designação da entidade coordenadora;\n\ne) «Entidade coordenadora (EC)», a entidade que assegura a coordenação da parceria e da execução da operação, bem como a articulação entre as entidades parceiras;\n\nf) «Entidades gestoras de concessões de pesca», os clubes ou associações de pescadores e as câmaras municipais, nos termos da Lei n.º 2097, de 6 de junho de 1959, alterada e republicada pela Lei n.º 30/2006, de 11 de julho, e do artigo 6.º do Decreto n.º 44623, de 10 de outubro de 1962;\n\ng) «Entidades gestoras de zonas de pesca lúdica», as associações de pescadores, as federações desportivas de pesca titulares do estatuto de utilidade pública desportiva, as autarquias locais e suas associações, as entidades coletivas ou singulares com atividades no domínio do turismo, em que a pesca seja reconhecida como complementar ou integrante daquela atividade, o Instituto da Conservação da Natureza e das Florestas, I.P (ICNF, I. P.) ou outras entidades com reconhecida competência na gestão dos ecossistemas aquáticos, nos termos da Lei n.º 7/2008, de 15 de fevereiro, alterada e republicada pelo Decreto-Lei n.º 221/2015, de 8 de outubro;\n\nh) «Espécies com elevado valor pesqueiro», a truta, o achigã, a carpa, o barbo e a boga, na pesca lúdica e desportiva, e a enguia, o sável e a lampreia-marinha, na pesca profissional;\n\ni) 'Gestão pesqueira', o processo integrado de colheita de informação, análise, planeamento, consulta, decisão, alocação de recursos e formulação e implementação de medidas de gestão dos recursos aquícolas e da pesca, destinado a assegurar a exploração continuada desses recursos, assim como a conservação ou recuperação da biodiversidade e do estado das massas de água;\n\nj) 'Intervenções com escala territorial relevante', as intervenções que abranjam áreas mínimas contíguas de 750 hectares (ha) ou, três ou mais zonas de caça ou pesca contíguas, nomeadamente, agrupadas através de um contrato de parceria;\n\nk) 'Medidas inovadoras de gestão pesqueira', as seguintes medidas:\n\ni) Pesca não consumptiva, designadamente, pesca e devolução ou pesca sem morte;\n\nii) Pesca com retenção restrita a espécimes enquadráveis como troféus desportivos;\n\niii) Restrições nos períodos e locais de pesca, assim como nos meios, processos, técnicas e equipamentos utilizados destinados a assegurar a proteção de determinadas espécies aquícolas ou de espécimes com determinada dimensão;\n\niv) Aplicação de restrições na captura ou devolução à água de determinadas espécies aquícolas ou de espécimes com determinada dimensão, tendo como objetivo a biomanipulação das populações piscícolas;\n\nv) Certificação e valorização dos produtos da pesca;\n\nvi) Outras medidas, quando devidamente justificadas e enquadradas nas boas práticas de pesca lúdica, desportiva ou profissional;\n\nl) «Organizações do sector da caça (OSC)», as organizações de âmbito nacional ou regional, representativas de organizações de caçadores, de entidades que se dedicam à exploração económica dos recursos cinegéticos, ou de caçadores de modalidades específicas, reconhecidas ao abrigo do artigo 5.º da Portaria n.º 11/2009, de 7 de janeiro;\n\nm) «Pista de pesca», o troço de rio ou zona de albufeira que, pelas suas características hidrogeomorfológicas, naturais ou artificiais, e pelas populações piscícolas presentes, apresenta uma particular aptidão para a realização de provas de pesca;\n\nn) «Plano de Ordenamento e Exploração Cinegética (POEC)», o instrumento de ordenamento cinegético entregue juntamente com o requerimento de pedido de concessão de zona de caça associativa ou turística, nos termos do artigo 8.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\no) «Plano de Gestão da zona de caça (PG)», o instrumento de ordenamento cinegético entregue juntamente com o requerimento do pedido de transferência de gestão de zona de caça municipal ou nacional, nos termos do artigo 8.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\np) 'Rede Nacional de Áreas Protegidas (RNAP)', o conjunto das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 142/2008, de 24 de julho, e dos respetivos diplomas regionais de classificação retificado pela Declaração de Retificação n.º 53-A/2008, alterado pelos Decretos-Leis n.os 242/2015, de 15 de outubro e 42-A/2016, de 12 de agosto;\n\nq) 'Rede Natura 2000 (RN2000)', a rede ecológica para o espaço comunitário da União Europeia, que engloba zonas de proteção especial (ZPE), designadas ao abrigo da Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro (Diretiva Aves), e sítios de importância comunitária (SIC), designados ao abrigo da Diretiva 92/43/CEE do Conselho, de 21 de maio (Diretiva Habitats), transpostas para o direito interno pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado pelos Decretos-Leis n.os 49/2005, de 24 de fevereiro, e 156-A/2013, de 8 de novembro;\n\nr) «Territórios de baixa densidade», as áreas constantes da lista de municípios publicitada no portal do PDR 2020, em www.pdr-2020.pt.;\n\ns) «Territórios Rurais», os territórios constantes da lista de freguesias de zonas rurais publicitada no portal do PDR 2020, em www.pdr-2020.pt;\n\nt) «Zonas de caça», as áreas onde é permitida a atividade de caça, podendo as mesmas possuir natureza de interesse nacional (ZCN), municipal (ZCM), turístico (ZCT) ou associativo (ZCA), nos termos do artigo 9.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\nu) «Zonas de pesca lúdica», as massas de água, ou zonas, ou troços destas, em que a gestão da pesca e dos recursos aquícolas está concessionada a terceiros, e a prática da pesca lúdica e da pesca desportiva se encontram sujeitas, para além das normas gerais, a normas específicas consignadas nos respetivos planos de gestão e exploração, nos termos da Lei n.º 7/2008, de 15 de fevereiro, na sua redação atual;\n\nv) «Zonas de pesca profissional», as massas de água em que a gestão da pesca é efetuada pelo Estado e onde é praticada a pesca como atividade comercial, sujeita, para além das normas gerais, a normas específicas consignadas nos respetivos planos de gestão e exploração, nos termos da Lei n.º 8/2008, de 15 de fevereiro, na sua redação atual;\n\nw) «Zonas de pesca reservada», as massas de água ou troços ou zonas destas onde é praticada a pesca desportiva, sujeita, para além das normas gerais, a normas específicas consignadas no respetivo regulamento, nos termos da Lei n.º 2097, de 6 de junho de 1959, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2023 - Diário da República n.º 146/2023, Série I de 2023-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/243-2023-216323581), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "117352165": {
+   "fragment_id": "114946669",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 40/2018 - Diário da República n.º 239/2018, Série I de 2018-12-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 10.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente capítulo devem cumprir, para além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, as seguintes obrigações:\n\na) Executar os investimentos nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução dos investimentos, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;\n\ng) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, quando aplicável;\n\nh) Não locar ou alienar os equipamentos e as instalações cofinanciados, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\ni) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Dispor de um processo relativo à operação, devidamente organizado, nos termos a definir em orientação técnica específica (OTE), preferencialmente em suporte digital, com toda a documentação relacionada com a mesma, devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nk) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\nl) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\nm) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do número anterior.\n\n> Retificado pelo/a [Declaração de Retificação n.º 40/2018 - Diário da República n.º 239/2018, Série I de 2018-12-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "216401492": {
+   "fragment_id": "114946670",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma, níveis e limite dos apoios",
+   "in_force_from": "2023-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2023 - Diário da República n.º 146/2023, Série I de 2023-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/243-2023-216323581), em vigor a partir de 2023-07-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 11.º — Forma, níveis e limite dos apoios\n\n1 - Os apoios previstos no presente capítulo revestem a forma de subvenção não reembolsável.\n\n2 - Os níveis dos apoios previstos no presente capítulo são os estabelecidos no anexo II à presente portaria, da qual faz parte integrante.\n\n3 - O apoio a conceder no âmbito do presente capítulo está limitado a duas candidaturas por zona de caça, individualmente considerada ou inserida numa parceria, durante o período de programação.\n\n4 - O custo total elegível dos pedidos de apoio, apurado em sede de análise, está limitado a 75.000 euros.\n\n5 - Caso o limite previsto no número anterior seja ultrapassado, o custo elegível de cada uma das despesas propostas será proporcionalmente reduzido até que o limite seja cumprido.\n\n6 - Os apoios a conceder no âmbito do presente capítulo são cumuláveis com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, sendo que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não pode exceder 200.000 euros, por beneficiário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2023 - Diário da República n.º 146/2023, Série I de 2023-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/243-2023-216323581), em vigor a partir de 2023-07-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  },
+  "117352166": {
+   "fragment_id": "114947290",
+   "type": 11,
+   "heading": "Artigo 29.º — Reduções, suspensões e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 40/2018 - Diário da República n.º 239/2018, Série I de 2018-12-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13"
+   ],
+   "markdown": "###### Artigo 29.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas nos artigos 10.º e 17.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, é efetuada de acordo com o previsto no anexo IV à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n5 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.\n\n6 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n7 - A não comprovação do início da execução física da operação no prazo previsto na alínea m) do n.º 1 do artigo 10.º, na alínea m) do n.º 1 do artigo 17.º, ou no n.º 2 dos artigos 10.º e 17.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Retificado pelo/a [Declaração de Retificação n.º 40/2018 - Diário da República n.º 239/2018, Série I de 2018-12-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2016-02-13"
+  },
+  "919442506": {
+   "fragment_id": "114947286",
+   "type": 11,
+   "heading": "Artigo 25.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2025-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 234/2025/1 - Diário da República n.º 100/2025, Série I de 2025-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/234-2025-919314479), em vigor a partir de 2025-05-27",
+    "Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+   ],
+   "markdown": "###### Artigo 25.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n5 - Podem ser apresentados até cinco pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n6 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n7 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 234/2025/1 - Diário da República n.º 100/2025, Série I de 2025-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/234-2025-919314479), em vigor a partir de 2025-05-27\n\n> Alterado pelo/a Artigo 17.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 90/2018 - Diário da República n.º 63/2018, Série I de 2018-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/90-2018-114944614), em vigor a partir de 2018-03-30"
+  }
+ }
+}

@@ -1,0 +1,1026 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:670073:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-1072579017",
+ "dre_path": "/dr/detalhe/decreto-lei/387-c-1987-670073",
+ "source_lastmod": "2026-10-12",
+ "versions": [
+  {
+   "date": "1991-11-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:321701:por",
+     "title": "Decreto-Lei n.º 431/91",
+     "published": "1991-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/431-1991-321701"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 35.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 58.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 60.º",
+    "Altera Artigo 61.º",
+    "Altera Artigo 62.º",
+    "Altera Artigo 63.º",
+    "Altera Artigo 64.º",
+    "Altera Artigo 65.º",
+    "Altera Artigo 66.º",
+    "Revoga Artigo 67.º",
+    "Revoga Artigo 68.º"
+   ],
+   "fragments": [
+    "1072637375",
+    "1072637575",
+    "1072637775",
+    "1178216675",
+    "1072638175",
+    "1072648275",
+    "1072648475",
+    "1072648675",
+    "1072648875",
+    "1072649075",
+    "1072649275",
+    "1072649475",
+    "1072649675",
+    "1072649875",
+    "1072650075",
+    "1072650275",
+    "1072650475",
+    "1072650675",
+    "1072650875",
+    "1072651075",
+    "1072651275",
+    "1072651475",
+    "1072651675",
+    "1072651875",
+    "1072652075",
+    "1072652275",
+    "1072652475",
+    "1072652675",
+    "1072652875",
+    "1072653075",
+    "1072653275",
+    "1072653475",
+    "1072653675",
+    "1072653875",
+    "1072654075",
+    "1072654275",
+    "1072654475",
+    "1072654675",
+    "1072654875",
+    "1072655075",
+    "1072655275",
+    "1072655475",
+    "1072655675",
+    "1178576575",
+    "1072656075",
+    "1072656275",
+    "1072656475",
+    "1072656675",
+    "1072656875",
+    "1072657075",
+    "1072657275",
+    "1072657475",
+    "1072657675",
+    "1072657875",
+    "1072658075",
+    "1178576775",
+    "1072658475",
+    "1178576975",
+    "1072658875",
+    "1072659075",
+    "1072659275",
+    "1072659475",
+    "1072659675",
+    "1072659875",
+    "1072660075",
+    "1072660275",
+    "1072660475",
+    "1178577175",
+    "1072660875",
+    "1072661075",
+    "1178577375",
+    "1178577575",
+    "1178577775",
+    "1178577975",
+    "1178578175",
+    "1178578375",
+    "1178578575",
+    "1178578775",
+    "1178580175",
+    "1178580375",
+    "1072663275",
+    "1072663475",
+    "1072663675",
+    "1072663875",
+    "1072664075",
+    "1072664275",
+    "1177969275",
+    "1177969475",
+    "1177969575",
+    "1177969675",
+    "1177969775",
+    "1177969875",
+    "1072665675",
+    "1072665875",
+    "1072666075",
+    "1072666275",
+    "1072666475",
+    "1072666675",
+    "1072666875",
+    "1072667075",
+    "1072667275",
+    "1072667475",
+    "1072667675",
+    "1072667875",
+    "1178216875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1072637375": {
+   "fragment_id": "1072637275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "PREÂMBULO\n\n1. A estrutura da organização médico-legal portuguesa remonta ainda, no que às suas linhas fundamentais respeita, ao princípio do século.\n\nAssim, as pedras angulares do então diploma orgânico da medicina forense em Portugal, Decreto com força de lei n.º 5023, de 29 de Novembro de 1918, mantêm-se hoje, no essencial, inalteradas: a ligação dos institutos de medicina legal ao Ministério da Justiça, temperada com a conexão paralela à Faculdade de Medicina, que se tem concretizado quer no facto de o recrutamento dos seus directores se efectuar de entre os catedráticos de Medicina Legal e Toxicologia Forense, quer, ao nível do próprio controle científico dos relatórios periciais, pela intervenção dos académicos nos conselhos médico-legais, através da conhecida revisão obrigatória dos relatórios oriundos dos peritos médicos das comarcas.\n\n2. Por outro lado, e completando, de certo modo, aquela que é a estrutura base do sistema médico-legal português, o Decreto-Lei n.º 42216, de 15 de Abril de 1959, veio instituir um sistema de peritos médicos de lista, a funcionar nas comarcas em que não se encontra instalado qualquer instituto de medicina legal.\n\nTal sistema, cujo funcionamento tem cabido igualmente ao Ministério da Justiça, foi objecto de poucos aperfeiçoamentos desde a sua entrada em vigor até hoje, tendo, no essencial, feito a prova real da sua filosofia.\n\nNa realidade, os principais defeitos que se assacam hoje ao sistema de peritos de lista relevam não tanto do sistema em si mesmo, mas de deficiente preparação de um número ainda demasiado elevado de médicos a desempenhar estas funções nas comarcas do País.\n\nPonto sensível em toda a problemática relacionada com a medicina legal portuguesa, a formação especializada nesta área está hoje ainda muito longe de atingir os níveis desejados e necessários à qualidade e rigor das perícias médicas.\n\nTem de admitir-se que tarda a substituição da velha e incorrecta ideia da medicina legal como «parente pobre» da medicina em geral e das outras especialidades médicas, já consagradas, em particular. E que as sequelas da designação simplista do médico legista como «médico dos mortos» estão hoje bem presentes, reflectindo o divórcio existente entre as restantes carreiras médicas e a dos médicos legistas, e, a nível da concretização das perícias, entre os hospitais e a organização médico-legal.\n\n3. Nesta área, como noutras, de motor que foi de desenvolvimento para a medicina legal em Portugal, o já citado Decreto n.º 5023, na época justamente considerado extremamente avançado, tornou-se hoje um peso morto que urge repensar e rever.\n\nÉ o objectivo que o presente diploma se propõe alcançar, sem esquecer que os seus vectores fundamentais provavam ser, ao longo de mais de meio século de aplicação, correctos quanto ao essencial.\n\n4. É assim que o presente diploma, reorganizando embora os institutos de medicina legal no que respeita à sua estrutura interna, mantém os princípios enformadores que justificaram a sua criação.\n\nUma inovação de tomo, no entanto, foi introduzida. Trata-se da eliminação da competência atinente à revisão dos relatórios periciais. Esta inovação resulta directamente do regime instituído pelo novo Código de Processo Penal, que afasta decisivamente aquela possibilidade.\n\nHá lugar a nova perícia, nas situações previstas no artigo 158.º daquele diploma, mas não à revisão.\n\nOs conselhos médico-legais vêem assim reduzida a sua competência. Isso não significa que vejam reduzida a sua importância. Como órgãos de ligação à universidade, deve ser inquestionável a sua prevalência em todas as matérias de carácter científico e pedagógico, e, nomeadamente, na orientação do ensino da Medicina Legal.\n\n5. Alteram-se igualmente os sistemas de nomeação dos peritos médicos das comarcas e, em particular, da indicação dos especialistas que apoiarão a justiça.\n\nPretende-se não só dignificar o cargo de perito médico através de maior rigor formal no recrutamento, mas, e principalmente, instituir um sistema que permita controlar, centralizadamente, as potencialidades dos candidatos a este cargo.\n\nParalelamente, aproveitou-se também o ensejo para tornar mais dúctil o regime, na linha da liberalização na recolha da prova para que aponta o novo Código de Processo Penal.\n\nEfectivamente, a autoridade judiciária pode agora, em certas situações que da própria avaliará, socorrer-se de clínicas médicas e de médicos de reconhecida competência e honorabilidade, a quem solicitará a feitura dos exames.\n\nTrata-se de uma via que tornará este meio de prova expedito, não se perdendo também a necessária segurança e certeza científica.\n\n6. Igualmente se impôs regulamentar, em novos moldes, a obrigatoriedade da realização das perícias médicas, bem como, por outro lado, institucionalizar claramente e sem as ambiguidades hoje existentes a possibilidade e requisitos necessários à dispensa da autópsia médico-legal.\n\n7. Prevê ainda o presente diploma a criação de uma estrutura de coordenação, o Conselho Superior de Medicina Legal, cuja existência se justifica pela necessidade de compatibilizar os esforços desenvolvidos já pelas diversas estruturas interessadas na medicina forense no âmbito da administração judiciária já por aquelas a quem compete a realização dos exames periciais.\n\nPrevista igualmente a possibilidade da criação de gabinetes médico-legais, que deverão funcionar como guarda avançada dos institutos de medicina legal e que poderão ser criados em áreas com grande movimento pericial, bem como a implementação de unidades médico-legais nos serviços de urgência hospitalares, com o objectivo de conjugar esforços entre estas estruturas e os serviços médico-legais e, simultaneamente, aproximar os médicos legistas dos restantes médicos através da presença da medicina forense «viva» nos hospitais.\n\nAssim:\n\nNo uso da autorização concedida pela Lei n.º 40/87, de 23 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "1072637575": {
+   "fragment_id": "1072637475",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "1072637775": {
+   "fragment_id": "1072637675",
+   "type": 11,
+   "heading": "Artigo 1.º — Atribuição e organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Atribuição e organização\n\n1 - Os serviços médico-legais têm por atribuição coadjuvar os tribunais na aplicação da justiça, procedendo aos exames periciais de medicina legal que lhes forem solicitados nos termos do presente diploma.\n\n2 - Os serviços médico-legais estão administrativamente organizados no âmbito do Ministério da Justiça."
+  },
+  "1178216675": {
+   "fragment_id": "1072637875",
+   "type": 11,
+   "heading": "Artigo 2.º — Colaboração com a universidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Colaboração com a universidade\n\nOs serviços médico-legais cumprem as suas atribuições e exercem a sua competência em colaboração com as escolas médicas das universidades públicas, nos termos do presente diploma."
+  },
+  "1072638175": {
+   "fragment_id": "1072638075",
+   "type": 11,
+   "heading": "Artigo 3.º — Divisão territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Divisão territorial\n\nO território nacional está dividido em três circunscrições médico-legais, com sede em Lisboa, Porto e Coimbra, sendo a área geográfica de cada uma a constante do mapa anexo."
+  },
+  "1072648275": {
+   "fragment_id": "1072638275",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura orgânica\n\n1 - São serviços médico-legais:\n\na) O Conselho Superior de Medicina Legal;\n\nb) Os conselhos médico-legais;\n\nc) Os institutos de medicina legal;\n\nd) Os gabinetes médico-legais.\n\n2 - Nas circunscrições judiciais onde não existam institutos de medicina legal ou gabinetes médico-legais, os exames médico-forenses são realizados por peritos."
+  },
+  "1072648475": {
+   "fragment_id": "1072648375",
+   "type": 1,
+   "heading": "Capítulo II — Serviços médico-legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Serviços médico-legais"
+  },
+  "1072648675": {
+   "fragment_id": "1072648575",
+   "type": 8,
+   "heading": "Secção I — Conselho Superior de Medicina Legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho Superior de Medicina Legal"
+  },
+  "1072648875": {
+   "fragment_id": "1072648775",
+   "type": 11,
+   "heading": "Artigo 5.º — Natureza e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza e competência\n\nJunto do Ministro da Justiça e na sua directa dependência reúne o Conselho Superior de Medicina Legal, ao qual compete:\n\na) Coordenar a actividade dos institutos de medicina legal, dos gabinetes médico-legais e dos peritos médico-legais, emitindo directivas científicas sobre a matéria;\n\nb) Aprovar a planificação anual das acções científicas a desenvolver no âmbito dos serviços médico-legais;\n\nc) Autorizar os diversos esquemas de colaboração pedagógica entre os institutos de medicina legal e as universidades ou escolas superiores, em especial no que concerne ao ensino pós-graduado de Medicina Legal;\n\nd) Emitir parecer sobre as reformas a empreender no sistema médico-legal;\n\ne) Propor ao Ministério da Justiça os preços dos exames médico-legais e as remunerações dos peritos médicos."
+  },
+  "1072649075": {
+   "fragment_id": "1072648975",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição\n\n1 - Compõem o Conselho Superior de Medicina Legal:\n\na) Os directores dos institutos de medicina legal;\n\nb) O director-geral da Polícia Judiciária, ou quem o substitua;\n\nc) Um representante do Conselho Superior da Magistratura;\n\nd) Um representante da Procuradoria-Geral da República;\n\ne) Um representante do Ministério da Justiça.\n\n2 - Preside ao Conselho o director do instituto de medicina legal que há mais tempo exerça essas funções.\n\n3 - O Conselho Superior de Medicina Legal tem a sua sede em Lisboa."
+  },
+  "1072649275": {
+   "fragment_id": "1072649175",
+   "type": 11,
+   "heading": "Artigo 7.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento\n\n1 - O Conselho Superior de Medicina Legal reúne ordinariamente três vezes por ano, e extraordinariamente sempre que convocado pelo seu presidente, por iniciativa própria ou a solicitação do Ministro da Justiça.\n\n2 - Para validade das deliberações exige-se a presença de, pelo menos, cinco membros.\n\n3 - As deliberações são tomadas à pluralidade de votos, cabendo ao presidente voto de qualidade."
+  },
+  "1072649475": {
+   "fragment_id": "1072649375",
+   "type": 11,
+   "heading": "Artigo 8.º — Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secretariado\n\n1 - Junto do Conselho Superior de Medicina Legal existe um secretariado, que tem por funções assegurar o apoio administrativo necessário à prossecução dos objectivos próprios desse órgão.\n\n2 - O secretariado é integrado por um secretário e por pessoal a afectar da Secretaria-Geral do Ministério da Justiça, assegurado o cumprimento das directivas emanadas do Conselho Superior de Medicina Legal, bem como a preparação de todo o expediente que deva ser apreciado por este órgão.\n\n3 - O cargo de secretário do Conselho Superior de Medicina Legal é equiparado, em termos remuneratórios, ao de director de serviços e provido em comissão de serviço, por três anos, de entre licenciados em Direito com reconhecida competência na área da medicina forense e possuidores de vínculo à Administração Pública, sob proposta do referido Conselho.\n\n4 - O secretário do Conselho Superior de Medicina Legal é nomeado por despacho do Ministro da Justiça, sob proposta do Conselho Superior de Medicina Legal."
+  },
+  "1072649675": {
+   "fragment_id": "1072649575",
+   "type": 8,
+   "heading": "Secção II — Conselho médico-legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho médico-legal"
+  },
+  "1072649875": {
+   "fragment_id": "1072649775",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência\n\n1 - Na sede de cada circunscrição e junto do respectivo instituto de medicina legal existirá um conselho médico-legal com funções de:\n\na) Consulta técnico-científica;\n\nb) Apoio ao Conselho Superior de Medicina Legal na definição das orientações a seguir no ensino de Medicina Legal.\n\n2 - A consulta técnico-científica pode ser solicitada pelo Ministro da Justiça, pelo Conselho Superior da Magistratura ou pela Procuradoria-Geral da República."
+  },
+  "1072650075": {
+   "fragment_id": "1072649975",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição\n\n1 - O conselho médico-legal é composto pelos professores universitários das seguintes disciplinas científicas:\n\na) Medicina Legal e Toxicologia Forense;\n\nb) Clínica Médica e Clínica Cirúrgica;\n\nc) Higiene e Medicina Social;\n\nd) Anatomia Patológica e Patologia Geral;\n\ne) Psiquiatria;\n\nf) Ortopedia e Traumatologia;\n\ng) Neurologia;\n\nh) Obstetrícia e Ginecologia;\n\ni) Direito Penal ou Direito Processual Penal.\n\n2 - Os membros do conselho médico-legal serão nomeados por despacho do Ministro da Justiça, sob proposta do Conselho Superior de Medicina Legal, ouvidos os conselhos científicos dos estabelecimentos universitários públicos onde sejam leccionadas as matérias constantes da lista referida no número anterior.\n\n3 - O conselho médico-legal será presidido pelo professor de Medicina Legal e Toxicologia Forense.\n\n4 - O conselho médico-legal pode convocar professores de outras disciplinas, para além das referidas no n.º 1, quando tal se mostre necessário.\n\n5 - Quando na sede da circunscrição não haja faculdade de direito de universidade pública, o professor de Direito Penal ou Direito Processual Penal será substituído por um juiz desembargador, designado pelo Conselho Superior da Magistratura."
+  },
+  "1072650275": {
+   "fragment_id": "1072650175",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Funcionamento\n\nOs conselhos médico-legais reúnem ordinariamente uma vez em cada dois meses e extraordinariamente sempre que convocados pelo respectivo presidente."
+  },
+  "1072650475": {
+   "fragment_id": "1072650375",
+   "type": 8,
+   "heading": "Secção III — Institutos de medicina legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Institutos de medicina legal"
+  },
+  "1072650675": {
+   "fragment_id": "1072650575",
+   "type": 11,
+   "heading": "Artigo 12.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Natureza\n\n1 - Na sede de cada circunscrição médico-legal existirá um instituto de medicina legal.\n\n2 - Os institutos de medicina legal são serviços públicos personalizados, dotados de autonomia administrativa e financeira, e têm património próprio.\n\n3 - Os institutos de medicina legal são tutelados pelo Ministro da Justiça.\n\n4 - Constituem receitas dos institutos:\n\na) As dotações que lhes forem consignadas no Orçamento do Estado;\n\nb) As dotações que lhes forem atribuídas para os efeitos previstos no n.º 2 do artigo 42.º;\n\nc) Os valores e rendimentos que devam entrar no respectivo património, nomeadamente os que resultam do pagamento dos exames periciais;\n\nd) As doações e legados feitos a seu favor;\n\ne) O produto da venda de publicações ou da prestação de serviços;\n\nf) Os espólios, bem como outros recursos que lhes sejam atribuídos.\n\n5 - Constituem despesas dos institutos:\n\na) Os encargos gerais de funcionamento;\n\nb) As remunerações e encargos de formação devidos aos formadores, directores e demais pessoal do respectivo quadro;\n\nc) Os encargos com deslocações e ajudas de custo a suportar no âmbito das actividades de formação."
+  },
+  "1072650875": {
+   "fragment_id": "1072650775",
+   "type": 11,
+   "heading": "Artigo 13.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Órgãos\n\nSão órgãos dos institutos de medicina legal:\n\na) O director;\n\nb) O conselho administrativo."
+  },
+  "1072651075": {
+   "fragment_id": "1072650975",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência do director\n\nAo director do instituto de medicina legal compete:\n\na) A representação do instituto, em juízo e fora dele;\n\nb) A coordenação da actividade do instituto;\n\nc) A homologação dos pareceres dos peritos dos institutos ou dos gabinetes médico-legais, a qual pode ser delegada no director de serviços da especialidade correspondente;\n\nd) O poder hierárquico e disciplinar atribuído pela lei aos directores-gerais;\n\ne) Autorizar a realização das despesas;\n\nf) Propor ao Ministro da Justiça a nomeação do pessoal dirigente do respectivo instituto;\n\ng) Presidir ao conselho administrativo, podendo delegar esta competência no secretário do instituto;\n\nh) Requisitar a realização de todo o tipo de exames médico-legais que os institutos não estejam habilitados a efectuar;\n\ni) Celebrar acordos com entidades públicas ou privadas, visando maximizar a utilização dos recursos técnicos indispensáveis à qualidade e segurança dos exames médico-legais;\n\nj) Racionalizar os meios técnicos disponíveis nos institutos, numa perspectiva de economia de gastos, através da utilização integrada desses mesmos recursos;\n\nl) Propor ao Ministro da Justiça a prestação de serviços que o instituto esteja habilitado a realizar a entidades públicas ou privadas e fixar as condições de remuneração;\n\nm) Celebrar com as Faculdades de Medicina de Lisboa, Porto e Coimbra, a Faculdade de Ciências Médicas de Lisboa, o Instituto de Ciências Biomédicas de Abel Salazar, do Porto, as Faculdades de Direito de Lisboa e de Coimbra, o Centro de Estudos Judiciários e a Escola da Polícia Judiciária, ou outras entidades que se dediquem ao ensino universitário e à investigação ou preparação profissional de magistrados ou agentes da polícia, os protocolos de colaboração que se mostrem indispensáveis à prossecução dos objectivos do sistema médico-legal e, em particular, ao desenvolvimento do ensino superior da medicina legal, incluindo o ensino pré-graduado;\n\nn) Desenvolver as restantes acções necessárias ao regular funcionamento do instituto de medicina legal."
+  },
+  "1072651275": {
+   "fragment_id": "1072651175",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição e competência do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição e competência do conselho administrativo\n\n1 - O conselho administrativo é composto pelo director do instituto de medicina legal, pelo respectivo secretário e por um representante da Direcção-Geral da Contabilidade Pública, designado pelo Ministro das Finanças.\n\n2 - Compete ao conselho administrativo:\n\na) Elaborar a proposta do orçamento anual do instituto;\n\nb) Exercer as competências que a lei, em matéria de despesas ou obras e aquisição de bens e serviços ou fornecimentos, prevê possam caber aos órgãos colegiais dos serviços dotados de autonomia administrativa e financeira;\n\nc) Fiscalizar a contabilidade e a respectiva escrituração;\n\nd) Preparar o relatório anual de actividades;\n\ne) Elaborar a conta de gerência;\n\nf) Emitir parecer sobre a organização administrativa do instituto e elaborar o respectivo regulamento interno."
+  },
+  "1072651475": {
+   "fragment_id": "1072651375",
+   "type": 11,
+   "heading": "Artigo 16.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Organização e funcionamento\n\n1 - O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente quando convocado pelo director, por sua iniciativa ou a solicitação do secretário.\n\n2 - As deliberações são tomadas à pluralidade dos votos, não sendo admitidas abstenções.\n\n3 - O representante da Direcção-Geral da Contabilidade Pública tem direito a abono de senhas de presença por cada sessão em que participe, nos termos legais."
+  },
+  "1072651675": {
+   "fragment_id": "1072651575",
+   "type": 11,
+   "heading": "Artigo 17.º — Organização e competência da secretaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Organização e competência da secretaria\n\n1 - A secretaria é o serviço de apoio técnico e administrativo dos institutos de medicina legal.\n\n2 - A secretaria é dirigida por um secretário, cujo cargo é equiparado, para todos os efeitos legais, ao de director de serviços dos institutos de medicina legal.\n\n3 - Compete à secretaria:\n\na) Assegurar a gestão do pessoal do instituto;\n\nb) Controlar a execução do orçamento do instituto;\n\nc) Assegurar, em tempo útil, a execução de todo o expediente dos diversos serviços do instituto;\n\nd) Zelar pela guarda e conservação das instalações, equipamento e, em geral, de todo o património afecto ao instituto de medicina legal;\n\ne) Organizar e manter actualizado o registo biográfico e disciplinar dos funcionários do instituto;\n\nf) Realizar as demais tarefas que lhe sejam atribuídas pelo regulamento interno;\n\ng) Assegurar todo o expediente de apoio ao conselho médico-legal respectivo."
+  },
+  "1072651875": {
+   "fragment_id": "1072651775",
+   "type": 11,
+   "heading": "Artigo 18.º — Serviços operativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Serviços operativos\n\n1 - São serviços operativos dos institutos de medicina legal:\n\na) A Direcção de Serviços de Tanatologia;\n\nb) A Direcção de Serviços de Clínica Médico-Legal;\n\nc) A Direcção de Serviços de Toxicologia Forense;\n\nd) A Direcção de Serviços de Biologia Forense;\n\ne) A Direcção de Serviços de Psiquiatria Forense;\n\nf) A Direcção de Serviços de Anatomia Patológica e Histopatologia.\n\n2 - Dos regulamentos dos institutos, a aprovar através de decreto regulamentar, poderão constar outros serviços operativos além dos previstos no número anterior, desde que não impliquem aumento dos lugares do quadro."
+  },
+  "1072652075": {
+   "fragment_id": "1072651975",
+   "type": 11,
+   "heading": "Artigo 19.º — Direcção dos Serviços de Tanatologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direcção dos Serviços de Tanatologia\n\nÀ Direcção dos Serviços de Tanatologia compete a realização das autópsias que forem solicitadas ao instituto, nos termos previstos pelo presente diploma."
+  },
+  "1072652275": {
+   "fragment_id": "1072652175",
+   "type": 11,
+   "heading": "Artigo 20.º — Direcção de Serviços de Clínica Médico-Legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direcção de Serviços de Clínica Médico-Legal\n\n1 - À Direcção de Serviços de Clínica Médico-Legal compete:\n\na) Assegurar a realização de todos os exames em indivíduos vítimas de crimes contra a integridade física e o pudor das pessoas;\n\nb) A realização dos exames das vítimas de acidentes de trabalho e viação e dos indivíduos afectados por doenças profissionais.\n\n2 - Consideram-se compreendidos no número anterior os exames das diversas especialidades médicas, designadamente de psiquiatria forense, de sexologia, de traumatologia e de outros exames directos nas pessoas."
+  },
+  "1072652475": {
+   "fragment_id": "1072652375",
+   "type": 11,
+   "heading": "Artigo 21.º — Direcção de Serviços de Toxicologia Forense",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direcção de Serviços de Toxicologia Forense\n\nÀ Direcção de Serviços de Toxicologia Forense compete assegurar a execução de todas as análises químicas e toxicológicas no âmbito da competência própria do instituto de medicina legal, bem como, internamente, apoiar o serviço de Tanatologia e de Clínica Médico-Legal na pesquisa de tóxicos ou de outros compostos químicos em tecidos orgânicos."
+  },
+  "1072652675": {
+   "fragment_id": "1072652575",
+   "type": 11,
+   "heading": "Artigo 22.º — Direcção de Serviços de Biologia Forense",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direcção de Serviços de Biologia Forense\n\nÀ Direcção de Serviços de Biologia Forense compete executar os exames bacteriológicos, de hematologia forense e de mais vestígios orgânicos que forem solicitados ao instituto de medicina legal, nomeadamente os exames de investigação biológica de filiação."
+  },
+  "1072652875": {
+   "fragment_id": "1072652775",
+   "type": 11,
+   "heading": "Artigo 23.º — Direcção de Serviços de Psiquiatria Forense",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direcção de Serviços de Psiquiatria Forense\n\nÀ Direcção de Serviços de Psiquiatria Forense cabe a execução dos exames psiquiátricos solicitados aos institutos nos termos previstos no presente diploma."
+  },
+  "1072653075": {
+   "fragment_id": "1072652975",
+   "type": 11,
+   "heading": "Artigo 24.º — Direcção de Serviços de Anatomia Patológica e Histopatologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Direcção de Serviços de Anatomia Patológica e Histopatologia\n\nÀ Direcção de Serviços de Anatomia Patológica e Histopatologia cabe realizar todos os exames de anatomia patológica e de histologia, quer os solicitados internamente, em apoio ao Serviço de Tanatologia, quer os requisitados pelos tribunais de comarca ou pelos gabinetes médico-legais."
+  },
+  "1072653275": {
+   "fragment_id": "1072653175",
+   "type": 8,
+   "heading": "Secção IV — Gabinetes médico-legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Gabinetes médico-legais"
+  },
+  "1072653475": {
+   "fragment_id": "1072653375",
+   "type": 11,
+   "heading": "Artigo 25.º — Organização, funcionamento e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Organização, funcionamento e competência\n\n1 - Junto dos tribunais de círculo onde tal se justifique poderão ser criados gabinetes médico-legais por portaria do Ministro da Justiça.\n\n2 - Aos gabinetes compete a execução na área do respectivo tribunal de círculo das perícias médico-legais compreendidas nas disciplinas de Tanatologia e de Clínica Médico-Legal que lhes forem solicitadas ou de outras para as quais tenham pessoal habilitado.\n\n3 - Em casos justificados, a competência dos gabinetes médico-legais poderá estender-se às áreas de jurisdição dos tribunais de círculo limítrofes."
+  },
+  "1072653675": {
+   "fragment_id": "1072653575",
+   "type": 11,
+   "heading": "Artigo 26.º — Natureza e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Natureza e âmbito\n\nOs gabinetes médico-legais são serviços desconcentrados dos institutos de medicina legal da circunscrição médico-legal em que se encontrem localizados."
+  },
+  "1072653875": {
+   "fragment_id": "1072653775",
+   "type": 8,
+   "heading": "Secção V — Peritos médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Peritos médicos"
+  },
+  "1072654075": {
+   "fragment_id": "1072653975",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência\n\n1 - Aos peritos médicos contratados nos termos do presente diploma cabe a realização, na área de jurisdição do respectivo tribunal, dos exames periciais de medicina legal que lhes forem solicitados pelas entidades com competência nesta matéria.\n\n2 - Quando todos os peritos médicos da comarca onde o exame deve ter lugar não possuírem os conhecimentos indispensáveis à sua realização, ou se encontrem impedidos, este poderá ser efectuado por perito médico da comarca mais próxima ou por médico de reconhecida honorabilidade e competência, nomeado pelo juiz."
+  },
+  "1072654275": {
+   "fragment_id": "1072654175",
+   "type": 11,
+   "heading": "Artigo 28.º — Número de peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Número de peritos\n\nO número de peritos de cada comarca é definido por portaria do Ministro da Justiça."
+  },
+  "1072654475": {
+   "fragment_id": "1072654375",
+   "type": 1,
+   "heading": "Capítulo III — Das perícias médico-legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das perícias médico-legais"
+  },
+  "1072654675": {
+   "fragment_id": "1072654575",
+   "type": 11,
+   "heading": "Artigo 29.º — Autópsias médico-legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Autópsias médico-legais\n\n1 - Nos casos de morte violenta ou de causa ignorada haverá lugar a autópsia médico-legal.\n\n2 - Haverá ainda lugar a autópsia médico-legal sempre que haja suspeita de que a morte resultou da prática de crime, ou tratando-se de morte resultante de acidente no trabalho por conta de outrem ou de acidente de viação."
+  },
+  "1072654875": {
+   "fragment_id": "1072654775",
+   "type": 11,
+   "heading": "Artigo 30.º — Verificação de óbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Verificação de óbito\n\nA verificação de óbito é da competência dos médicos, nos termos da lei."
+  },
+  "1072655075": {
+   "fragment_id": "1072654975",
+   "type": 11,
+   "heading": "Artigo 31.º — Falecimento nos hospitais públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Falecimento nos hospitais públicos\n\nNos casos do artigo 29.º, quando o falecimento venha a ocorrer em estabelecimentos hospitalares públicos, deve a administração dos mesmos promover a remoção do corpo para as instalações dos serviços médico-legais, acompanhado da respectiva informação clínica, que inclua todos os dados relevantes para a averiguação exacta da causa e das circunstâncias da morte."
+  },
+  "1072655275": {
+   "fragment_id": "1072655175",
+   "type": 11,
+   "heading": "Artigo 32.º — Falecimento fora das instalações hospitalares públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Falecimento fora das instalações hospitalares públicas\n\n1 - Nos casos do artigo 29.º, se o falecimento se verificar fora de instalações hospitalares públicas, ou for o cadáver encontrado, não é permitida a remoção do corpo sem a comparência dos peritos médico-legais dos institutos, dos gabinetes ou contratados nas circunscrições judiciais, nos termos do presente diploma, sem prejuízo de intervenção legalmente exigida por parte da autoridade judiciária respectiva.\n\n2 - Às autoridades que tomem conta da ocorrência cabe desenvolver todas as diligências necessárias à comparência dos peritos e ao transporte do corpo para as instalações dos serviços médico-legais."
+  },
+  "1072655475": {
+   "fragment_id": "1072655375",
+   "type": 11,
+   "heading": "Artigo 33.º — Dispensa de autópsia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Dispensa de autópsia\n\n1 - A dispensa de autópsia é da competência da autoridade judiciária que investigue a causa da morte.\n\n2 - Quando não se tenha verificado qualquer das situações descritas no artigo 29.º e, apesar disso, tenha o corpo sido depositado nas instalações dos serviços médico-legais, pode o director do instituto dispensar a realização da autópsia, lavrando o respectivo certificado de óbito.\n\n3 - O poder de dispensa de autópsias, nos termos do número anterior, é delegável pelo director do instituto em peritos médicos dos institutos, quando estes estejam destacados em serviço nos hospitais, aí se incluindo a passagem do certificado de óbito. Nestes casos, não é admitida a remoção do corpo para as instalações dos serviços médico-legais, a não ser por decisão judicial."
+  },
+  "1072655675": {
+   "fragment_id": "1072655575",
+   "type": 11,
+   "heading": "Artigo 34.º — Listas de peritos médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Listas de peritos médicos\n\n1 - Para os efeitos previstos nos artigos anteriores, os institutos de medicina legal, os gabinetes médico-legais e as secretarias judiciais das circunscrições judiciais onde apenas existam peritos médicos elaborarão, até ao dia 15 de cada mês, uma lista, a remeter às autoridades administrativas e policiais competentes da respectiva zona de actuação, donde constarão, obrigatoriamente, os seguintes elementos:\n\na) Nome, residência e número de telefone dos médicos legais ou peritos médicos que integrarem a lista;\n\nb) Período de tempo assegurado por cada médico legista ou perito médico em cada 24 horas diárias;\n\nc) Local onde o médico legista ou perito poderá ser contactado durante o período em que se encontra de turno, bem como o respectivo número de telefone.\n\n2 - O tempo correspondente à prestação de trabalho durante os turnos previstos no número anterior será remunerado da seguinte forma:\n\na) De acordo com a fórmula constante do artigo 28.º do Decreto-Lei n.º 110-A/81, de 14 de Maio, quando os turnos não coincidirem com o período de trabalho normal, para os médicos legistas;\n\nb) De acordo com a mesma fórmula, sem prejuízo do disposto na alínea b) do n.º 1 do artigo 3.º do mesmo diploma, para os peritos médicos das comarcas."
+  },
+  "1178576575": {
+   "fragment_id": "1072655775",
+   "type": 11,
+   "heading": "Artigo 35.º — Exames de clínica médico-legal",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 35.º — Exames de clínica médico-legal\n\n1 - A competência para a realização de exames periciais para determinação e avaliação do dano nos foros cível, penal e do trabalho cabe aos médicos dos quadros dos institutos de medicina legal e dos gabinetes médico-legais, sem prejuízo do disposto no artigo 159.º, n.º 1, do Código de Processo Penal.\n\n2 - Nos locais onde estes serviços não existam ou não possam assegurar os exames periciais a que se refere o número anterior, podem ser contratados médicos como peritos nos termos previstos no artigo 58.º com o objectivo de realizarem aqueles exames.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1072656075": {
+   "fragment_id": "1072655975",
+   "type": 11,
+   "heading": "Artigo 36.º — Exames de especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Exames de especialidade\n\n1 - Quando, atenta a especial complexidade do exame médico ou a necessidade de formação médica especializada, os médicos legistas ou peritos não possuírem a indispensável preparação e ou as condições materiais para a sua realização, as autoridades competentes providenciarão pela nomeação dos especialistas ou clínicas médicas da especialidade adequada.\n\n2 - Para os efeitos previstos no número anterior, o Conselho Superior de Medicina Legal organizará, até finais de Outubro de cada ano, uma lista dos médicos especialistas e das clínicas médicas da especialidade existentes em cada circunscrição judicial que satisfaçam as indispensáveis garantias de rigor técnico-científico, isenção e rapidez.\n\n3 - A selecção a que se refere o n.º 2 far-se-á por concurso aberto pelo Conselho Superior de Medicina Legal até 15 de Julho do ano anterior àquele em que a lista irá vigorar.\n\n4 - Do aviso de concurso deverão constar obrigatoriamente os critérios científicos, técnicos ou quaisquer outros que o Conselho julgue indispensáveis observar na selecção.\n\n5 - A lista final dos concorrentes seleccionados será aprovada por despacho do Ministro da Justiça e publicada no Diário da República até ao dia 15 de Dezembro de cada ano, para vigorar no ano seguinte."
+  },
+  "1072656275": {
+   "fragment_id": "1072656175",
+   "type": 11,
+   "heading": "Artigo 37.º — Exames de psiquiatria forense",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Exames de psiquiatria forense\n\nSem prejuízo do regime previsto no artigo 159.º do Código de Processo Penal, os exames de psiquiatria forense a que houver de proceder-se deverão ser solicitados ao instituto de medicina legal da circunscrição médico-legal respectiva, que os distribuirá pelos diversos serviços, aos quais cabe, de acordo com a lei em vigor, a realização desses exames."
+  },
+  "1072656475": {
+   "fragment_id": "1072656375",
+   "type": 11,
+   "heading": "Artigo 38.º — Exames sexuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Exames sexuais\n\n1 - Os exames de sexologia forense serão efectuados, de preferência nos institutos de medicina legal ou gabinetes médico-legais, pelos médicos legistas.\n\n2 - Nas circunscrições judiciais onde não existam gabinetes médico-legais os exames poderão ser efectuados por um dos peritos médicos contratados, quando tal se mostre indispensável, ou por médico nomeado nos termos previstos no artigo 27.º, n.º 2."
+  },
+  "1072656675": {
+   "fragment_id": "1072656575",
+   "type": 11,
+   "heading": "Artigo 39.º — Custos dos exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Custos dos exames\n\n1 - Os custos dos exames realizados no âmbito de processo judicial a que se houver de proceder em matéria de acidentes de trabalho, doenças profissionais e acidentes de viação são suportados pela parte vencida a final, sendo o preparo para despesas efectuado pelo requerente do mesmo.\n\n2 - As receitas que resultarem deste preparo revertem, conforme os casos, a favor dos institutos de medicina legal ou a favor dos peritos médicos, de acordo com a tabela a publicar nos termos previstos no artigo 42.º do presente diploma."
+  },
+  "1072656875": {
+   "fragment_id": "1072656775",
+   "type": 11,
+   "heading": "Artigo 40.º — Obrigatoriedade de sujeição a exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Obrigatoriedade de sujeição a exames\n\n1 - Ninguém pode eximir-se a sofrer qualquer exame quando o mesmo se mostre necessário para o inquérito ou instrução de qualquer processo e desde que ordenado pela respectiva autoridade judiciária.\n\n2 - Os exames que possam ofender o pudor das pessoas examinadas só deverão realizar-se quando forem indispensáveis para o inquérito ou instrução.\n\n3 - O examinado poderá fazer-se acompanhar de pessoa da sua confiança."
+  },
+  "1072657075": {
+   "fragment_id": "1072656975",
+   "type": 11,
+   "heading": "Artigo 41.º — Obrigatoriedade da presença da autoridade judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Obrigatoriedade da presença da autoridade judiciária\n\n1 - As autópsias e os demais exames de medicina legal realizados pelos peritos médicos que possam ofender o pudor das pessoas examinadas são presididos pela autoridade judiciária competente, sendo a sua presença dispensada nos restantes exames.\n\n2 - Nos exames efectuados nos institutos de medicina legal e nos gabinetes médico-legais será dispensada a presença da referida autoridade."
+  },
+  "1072657275": {
+   "fragment_id": "1072657175",
+   "type": 11,
+   "heading": "Artigo 42.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Remunerações\n\n1 - Os diversos exames forenses efectuados por peritos médicos, especialistas ou em estabelecimentos médicos especializados serão remunerados nos termos da tabela incluída em portaria do Ministro da Justiça que actualizará os valores previstos no artigo 195.º do Código das Custas Judiciais.\n\n2 - Os encargos decorrentes das remunerações devidas pela realização de perícias médico-forenses serão suportados, na parte que excederem as dotações orçamentais dos tribunais, pelo Cofre Geral dos Tribunais.\n\n3 - Terá direito às despesas de transporte e a ajudas de custo o pessoal técnico dos institutos que se desloque fora da comarca da respectiva sede em serviço.\n\n4 - Terão direito ao dobro do emolumento fixado no Código das Custas Judiciais os peritos médicos, desde que possuam o curso superior de Medicina Legal."
+  },
+  "1072657475": {
+   "fragment_id": "1072657375",
+   "type": 11,
+   "heading": "Artigo 43.º — Regulamentação das perícias médico-legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Regulamentação das perícias médico-legais\n\nAs normas técnicas que os peritos médicos deverão observar ao efectuarem os exames que lhes forem solicitados nos termos do presente diploma constarão de regulamento elaborado pelo Conselho Superior de Medicina Legal, depois de ouvidos os conselhos médico-legais e a aprovar por despacho do Ministro da Justiça."
+  },
+  "1072657675": {
+   "fragment_id": "1072657575",
+   "type": 1,
+   "heading": "Capítulo IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do pessoal"
+  },
+  "1072657875": {
+   "fragment_id": "1072657775",
+   "type": 11,
+   "heading": "Artigo 44.º — Quadros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Quadros\n\nO pessoal dos institutos de medicina legal é o constante dos quadros anexos ao presente diploma."
+  },
+  "1072658075": {
+   "fragment_id": "1072657975",
+   "type": 11,
+   "heading": "Artigo 45.º — Provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Provimento\n\n1 - O provimento em lugares de ingresso do pessoal referido no artigo anterir será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.\n\n2 - Findo o prazo referido no número anterior, o funcionário:\n\na) Será provido definitivamente, se tiver revelado aptidão para o exercício do cargo;\n\nb) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou de comissão de serviço, se não houver revelado aptidão para o exercício do cargo.\n\n3 - Se o funcionário a nomear já tiver provimento definitivo em lugar de outro quadro da Administração Pública poderá, desde logo, ser provido definitivamente, nos casos em que concorram os requisitos previstos nos artigos 16.º e 17.º do Decreto-Lei n.º 248/85, de 15 de Julho.\n\n4 - O disposto no número anterior não prejudica a nomeação em comissão de serviço por um período a determinar até ao limite fixado no n.º 1, com base na opção do funcionário ou por conveniência da Administração.\n\n5 - O tempo de serviço em regime de comissão conta, para todos os efeitos legais:\n\na) No lugar de origem, quando à comissão de serviço se não seguir provimento definitivo;\n\nb) No lugar do quadro do serviço médico-legal em que vier a ser provido definitivamente, finda a comissão."
+  },
+  "1178576775": {
+   "fragment_id": "1072658175",
+   "type": 11,
+   "heading": "Artigo 46.º — Directores",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 46.º — Directores\n\n1 - Os directores dos institutos de medicina legal são nomeados pelo Ministro da Justiça, em comissão de serviço, por períodos de três anos, renováveis, de entre:\n\na) Professores catedráticos de Medicina Legal e Toxicologia Forense das escolas médicas das universidades públicas;\n\nb) Directores de serviço licenciados em Medicina pertencentes aos quadros dos institutos.\n\n2 - No caso de não existirem professores catedráticos de Medicina Legal e Toxicologia Forense, poderão ser nomeados outros professores doutorados nesta disciplina.\n\n3 - O exercício das funções de direcção dos institutos de medicina legal nos termos previstos nos n.os 1 e 2 é compatível com o exercício de funções docentes universitárias.\n\n4 - O titular do cargo de director de instituto de medicina legal pode optar pela remuneração devida à categoria de que é titular, tendo direito, nestes casos, a um acréscimo salarial de montante igual a 40% da remuneração correspondente ao índice 100 das carreiras médicas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1072658475": {
+   "fragment_id": "1072658375",
+   "type": 11,
+   "heading": "Artigo 47.º — Secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Secretário\n\n1 - O lugar de secretário dos institutos de medicina legal é provido de entre licenciados em Direito, preferindo os detentores de adequado currículo na área da organização médico-legal, desde que possuidores de vínculo à Administração Pública.\n\n2 - O secretário é nomeado por despacho do Ministro da Justiça, sob proposta do respectivo director, nos termos previstos no artigo 4.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, sendo substituído, nas suas faltas e impedimentos, pelo chefe de repartição do instituto ou por quem o substitua."
+  },
+  "1178576975": {
+   "fragment_id": "1072658575",
+   "type": 11,
+   "heading": "Artigo 48.º — Directores de serviço",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 48.º — Directores de serviço\n\n1 - Os cargos de director de serviço são providos, mediante proposta do director do instituto, nos termos previstos no Decreto-Lei n.º 323/89, de 26 de Setembro, de entre indivíduos habilitados com licenciatura adequada, desde que detentores de uma das seguintes categorias:\n\na) Chefe de serviço de medicina legal;\n\nb) Assistente graduado de medicina legal;\n\nc) Assessor principal, primeiro-assessor e assessor de medicina legal;\n\nd) Técnico superior de medicina legal principal.\n\n2 - Os cargos de director de serviços, quando os titulares forem licenciados em Medicina, são remunerados de acordo com a tabela anexa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1072658875": {
+   "fragment_id": "1072658775",
+   "type": 11,
+   "heading": "Artigo 49.º — Chefe de repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Chefe de repartição\n\nO lugar de chefe de repartição é provido, mediante concurso, de entre os chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado."
+  },
+  "1072659075": {
+   "fragment_id": "1072658975",
+   "type": 11,
+   "heading": "Artigo 50.º — Pessoal médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Pessoal médico\n\nO pessoal médico dos quadros dos institutos de medicina legal é provido de acordo com as normas previstas no presente diploma e as que regulamentam a carreira dos médicos legistas."
+  },
+  "1072659275": {
+   "fragment_id": "1072659175",
+   "type": 11,
+   "heading": "Artigo 51.º — Pessoal técnico superior de medicina legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Pessoal técnico superior de medicina legal\n\nO pessoal técnico superior de medicina legal dos quadros dos institutos de medicina legal é provido de acordo com as normas previstas no presente diploma e as que regulamentam a carreira técnica superior de medicina legal."
+  },
+  "1072659475": {
+   "fragment_id": "1072659375",
+   "type": 11,
+   "heading": "Artigo 52.º — Pessoal de informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Pessoal de informática\n\nO pessoal de informática é provido nos termos previstos pelo Decreto-Lei n.º 110-A/80, de 10 de Maio."
+  },
+  "1072659675": {
+   "fragment_id": "1072659575",
+   "type": 11,
+   "heading": "Artigo 53.º — Técnicos-adjuntos de medicina legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Técnicos-adjuntos de medicina legal\n\nO pessoal técnico-adjunto de medicina legal dos quadros dos institutos de medicina legal é provido de acordo com as normas previstas no presente diploma que regulamentam a carreira técnica-adjunta de medicina legal."
+  },
+  "1072659875": {
+   "fragment_id": "1072659775",
+   "type": 11,
+   "heading": "Artigo 54.º — Técnicos ajudantes de medicina legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Técnicos ajudantes de medicina legal\n\n1 - Os lugares de técnico ajudante de medicina legal principal e de 1.ª classe são providos, respectivamente, de entre técnicos ajudantes de medicina legal de 1.ª classe e de 2.ª classe com cinco anos de permanência na categoria e classificação de serviço não inferior a Bom.\n\n2 - Os lugares de técnico ajudante de medicina legal de 2.ª classe são providos, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória.\n\n3 - A carreira de técnico ajudante de medicina legal é, para todos os efeitos legais, considerada como carreira horizontal."
+  },
+  "1072660075": {
+   "fragment_id": "1072659975",
+   "type": 11,
+   "heading": "Artigo 55.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Regime supletivo\n\n1 - O provimento do pessoal técnico superior, técnico, técnico-profissional, administrativo, operário e auxiliar dos quadros de pessoal dos institutos de medicina legal efectuar-se-á, no que não for expressamente regulado no presente diploma, de acordo com a legislação aplicável às diferentes carreiras e categorias da Administração Pública.\n\n2 - O lugar de chefe de secção é provido de entre primeiros-oficiais com o mínimo de três anos na categoria e classificação de serviço não inferior a Bom, sem prejuízo do disposto no artigo 38.º do Decreto-Lei n.º 248/85, de 15 de Julho."
+  },
+  "1072660275": {
+   "fragment_id": "1072660175",
+   "type": 11,
+   "heading": "Artigo 56.º — Peritos médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Peritos médicos\n\nOs peritos para a prática dos exames médico-legais fora das áreas de actuação dos institutos de medicina legal ou gabinetes médico-legais serão, em cada ano, os médicos constantes de lista a publicar pelo Conselho Superior de Medicina Legal até 15 de Dezembro do ano anterior."
+  },
+  "1072660475": {
+   "fragment_id": "1072660375",
+   "type": 11,
+   "heading": "Artigo 57.º — Selecção dos peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Selecção dos peritos\n\n1 - Até 15 de Setembro de cada ano deverá o Conselho Superior de Medicina legal proceder à abertura de concurso documental, tendo em vista a contratação dos peritos referidos no artigo anterior.\n\n2 - O organismo referido do número anterior poderá proceder às diligências que considere indispensáveis à verificação dos dados pessoais fornecidos pelos candidatos, bem como de todos os elementos curriculares necessários ao cabal exercício da função.\n\n3 - Na selecção dos candidatos à contratação como peritos médicos serão ponderados os seguintes factores:\n\na) Curso superior de Medicina Legal;\n\nb) Nota final de licenciatura;\n\nc) Outra formação complementar na área da medicina legal;\n\nd) Área da residência do candidato."
+  },
+  "1178577175": {
+   "fragment_id": "1072660575",
+   "type": 11,
+   "heading": "Artigo 58.º — Regime dos contratos",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 58.º — Regime dos contratos\n\n1 - Os contratos dos peritos médicos terão a natureza de contratos de avença, nos termos da lei geral, com a duração de um ano e considerar-se-ão tácita e sucessivamente prorrogados por igual período enquanto não forem denunciados.\n\n2 - Os peritos médicos poderão denunciar livremente os contratos respectivos, desde que o façam com uma antecedência mínima de 60 dias em relação ao termo do prazo, sob pena de incorrerem em responsabilidade civil pelos prejuízos causados ao serviço de justiça.\n\n3 - Os contratos podem ser rescindidos a todo o tempo, por conveniência do serviço.\n\n4 - A remuneração devida pela prestação de serviços nos termos contratuais será fixada em função do número e natureza dos exames realizados, nos termos previstos no artigo 42.º do presente diploma.\n\n5 - Excepcionalmente, quando se verificar a impossibilidade de recrutar peritos médicos, podem ser contratados, nos termos dos números anteriores, médicos em regime de dedicação exclusiva, não envolvendo quebra do compromisso de renúncia a percepção de remunerações decorrentes da realização daqueles exames.\n\n6 - Nas comarcas de Lisboa, Porto e Coimbra, ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, na redacção que lhe foi dada pelo Decreto-Lei n.º 229/85, de 4 de Julho, para a realização de exames periciais do foro laboral podem ser contratados como consultores médicos que não tenham optado pelo regime de dedicação exclusiva, sendo o respectivo encargo suportado pelo Cofre Geral dos Tribunais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1072660875": {
+   "fragment_id": "1072660775",
+   "type": 1,
+   "heading": "Capítulo V — Das carreiras específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Das carreiras específicas"
+  },
+  "1072661075": {
+   "fragment_id": "1072660975",
+   "type": 8,
+   "heading": "Secção I — Carreira de médico legista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Carreira de médico legista"
+  },
+  "1178577375": {
+   "fragment_id": "1072661175",
+   "type": 11,
+   "heading": "Artigo 59.º — Carreira",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 59.º — Carreira\n\n1 - A carreira médica de medicina legal é a constante do mapa anexo ao presente diploma e desenvolve-se pelas seguintes categorias:\n\na) Assistente de medicina legal;\n\nb) Assistente graduado de medicina legal;\n\nc) Chefe de serviço de medicina legal.\n\n2 - Às categorias referidas no número anterior corresponde o estatuto remuneratório fixado para as categorias de assistente, assistente graduado e chefe de serviço do regime geral das carreiras médicas, respectivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178577575": {
+   "fragment_id": "1072661375",
+   "type": 11,
+   "heading": "Artigo 60.º — Pré-carreira",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 60.º — Pré-carreira\n\n1 - O ingresso na carreira fica condicionado à frequência, com aproveitamento, do internato complementar de medicina legal com a duração de três anos, destinado a formar os médicos especialistas no domínio das ciências médico-legais, podendo candidatar-se à sua frequência os licenciados em Medicina habilitados com o internato geral médico.\n\n2 - A admissão ao internato complementar faz-se mediante concurso, em que são utilizados conjuntamente os seguintes métodos de selecção:\n\na) Provas de conhecimentos;\n\nb) Avaliação curricular.\n\n3 - O número de médicos do internato complementar de medicina legal será fixado anualmente por despacho do Ministro da Justiça, sob proposta do Conselho Superior de Medicina Legal, ouvidos os institutos de medicina legal.\n\n4 - Os regimes remuneratório e de trabalho são idênticos ao regime estabelecido para os internatos complementares das demais carreiras médicas, sem prejuízo do disposto no Decreto-Lei n.º 312/84, de 26 de Setembro.\n\n5 - Os novos horários de trabalho produzem efeitos a partir da data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178577775": {
+   "fragment_id": "1072661575",
+   "type": 11,
+   "heading": "Artigo 61.º — Assistente de medicina legal",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 61.º — Assistente de medicina legal\n\n1 - O ingresso na carreira faz-se na categoria de assistente de medicina legal.\n\n2 - À categoria de assistente de medicina legal podem candidatar-se, mediante concurso de prestação de provas, os médicos internos que tenham concluído com aproveitamento o internato complementar de medicina legal referido no artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178577975": {
+   "fragment_id": "1072661775",
+   "type": 11,
+   "heading": "Artigo 62.º — Assistente graduado de medicina legal",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 62.º — Assistente graduado de medicina legal\n\nÀ categoria de assistente graduado de medicina legal podem candidatar-se, mediante concurso e em termos idênticos aos estabelecidos no regime geral das carreiras médicas, os assistentes de medicina legal.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178578175": {
+   "fragment_id": "1072661975",
+   "type": 11,
+   "heading": "Artigo 63.º — Chefe de serviço de medicina legal",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 63.º — Chefe de serviço de medicina legal\n\nÀ categoria de chefe de serviço de medicina legal podem candidatar-se, mediante concurso e em termos idênticos aos estabelecidos no regime geral das carreiras médicas, os assistentes graduados de medicina legal.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178578375": {
+   "fragment_id": "1072662175",
+   "type": 11,
+   "heading": "Artigo 64.º — Lugares e cargos",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 64.º — Lugares e cargos\n\n1 - A profissão médica, com base na carreira médica de medicina legal, exerce-se mediante:\n\na) Colocação em lugares da respectiva carreira;\n\nb) Eventual desempenho de cargos nos serviços médico-legais.\n\n2 - Os lugares da carreira constam dos quadros de pessoal médico dos serviços médico-legais.\n\n3 - Os cargos constam dos quadros de direcção e chefia dos mesmos serviços.\n\n4 - O preenchimento dos quadros efectiva-se de acordo com o planeamento de gestão da carreira.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178578575": {
+   "fragment_id": "1072662375",
+   "type": 11,
+   "heading": "Artigo 65.º — Funções",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 65.º — Funções\n\n1 - Sem prejuízo dos regulamentos internos dos institutos de medicina legal, as funções atribuídas às várias categorias da carreira médica de medicina legal são as estabelecidas nos números seguintes.\n\n2 - Compete ao assistente de medicina legal:\n\na) Assegurar as actividades que lhe forem atribuídas de acordo com a sua formação;\n\nb) Orientar o desenvolvimento curricular dos internos do internato complementar de medicina legal a seu cargo;\n\nc) Cooperar nas acções de formação, designadamente de técnicos superiores de medicina legal, técnicos de diagnóstico e terapêutica e técnicos-ajudantes de medicina legal;\n\nc) Cooperar nas acções de formação, designadamente de técnicos superiores de medicina legal, técnicos auxiliares de medicina legal e técnicos ajudantes de medicina legal;\n\nd) Participar em júris de concurso, quando designado para o efeito.\n\n3 - Compete ao assistente graduado de medicina legal:\n\na) Praticar actos médico-legais;\n\nb) Coordenar unidades de serviço;\n\nc) Cooperar com o chefe de serviço de medicina legal em matéria de planeamento do respectivo serviço;\n\nd) Participar na direcção e gestão dos serviços, quando para tal designado;\n\ne) Orientar as acções de formação e colaborar nas actividades pedagógicas a desenvolver no âmbito da medicina legal;\n\nf) Participar em júris de concurso, quando designado para o efeito.\n\n4 - Compete ao chefe de serviço de medicina legal:\n\na) Chefiar o serviço ou coordenar as equipas por que seja responsável;\n\nb) Orientar e coordenar a acção dos assistentes graduados de medicina legal e assistentes de medicina legal do respectivo serviço;\n\nc) Dinamizar a investigação científica no domínio da sua intervenção;\n\nd) Coordenar o estágio dos assistentes estagiários de medicina legal, bem como as actividades formativas e pedagógicas que forem consideradas necessárias no âmbito da medicina legal;\n\ne) Colaborar com os órgãos directivos dos serviços médico-legais em matéria de planeamento de actividades;\n\nf) Participar em júris de concursos, quando para tal designado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178578775": {
+   "fragment_id": "1072662575",
+   "type": 11,
+   "heading": "Artigo 66.º — Regime de trabalho",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 66.º — Regime de trabalho\n\nOs regimes de trabalho na carreira médica de medicina legal são os previstos para as carreiras médicas, com as devidas adaptações.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178580175": {
+   "fragment_id": "1072662775",
+   "type": 11,
+   "heading": "Artigo 67.º",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 67.º\n\nRegime de trabalho na fase de pré-carreira\n\nO regime de trabalho durante o estágio obriga à prestação de 45 horas por semana e à impossibilidade de acumulação com outro lugar na Administração Pública, sem prejuízo do disposto no Decreto-Lei n.º 312/84, de 26 de Setembro.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1178580375": {
+   "fragment_id": "1072662975",
+   "type": 11,
+   "heading": "Artigo 68.º — Remunerações",
+   "in_force_from": "1991-11-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+   ],
+   "markdown": "###### Artigo 68.º — Remunerações\n\n1 - As remunerações correspondentes aos regimes enunciados nos artigos 66.º e 67.º constam da tabela anexa ao presente diploma.\n\n2 - Às letras dos vários graus de carreira corresponde o regime de tempo completo.\n\n3 - Aos diferentes regimes de trabalho e cargos correspondem acréscimos de remuneração, expressos em percentagem do valor da letra, não podendo a acumulação que daí resulta exceder o limite de 90% daquele valor.\n\n4 - As remunerações referidas neste artigo implicam o pagamento de subsídios de férias e de Natal de igual valor.\n\n5 - Os acréscimos sobre o vencimento base são considerados, na sua totalidade, para efeitos de aposentação.\n\n6 - O trabalho que ultrapasse as 45 horas semanais do regime de tempo prolongado será considerado trabalho extraordinário, aplicando-se-lhe o disposto no Decreto-Lei n.º 62/79, de 30 de Março.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 431/91 - Diário da República n.º 252/1991, Série I-A de 1991-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701), em vigor a partir de 1991-11-07."
+  },
+  "1072663275": {
+   "fragment_id": "1072663175",
+   "type": 8,
+   "heading": "Secção II — Carreira de técnico superior de medicina legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Carreira de técnico superior de medicina legal"
+  },
+  "1072663475": {
+   "fragment_id": "1072663375",
+   "type": 11,
+   "heading": "Artigo 69.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Categorias\n\nA carreira de técnico superior de medicina legal desdobra-se pelas categorias de assessor principal de medicina legal, primeiro-assessor de medicina legal e assessor de medicina legal, técnico superior de medicina legal principal, técnico superior de medicina legal de 1.ª classe e técnico superior de medicina legal de 2.ª classe."
+  },
+  "1072663675": {
+   "fragment_id": "1072663575",
+   "type": 11,
+   "heading": "Artigo 70.º — Ingresso e acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Ingresso e acesso\n\n1 - O recrutamento para as categorias da carreira técnica superior de medicina legal obedece às seguintes regras:\n\na) Assessores principais de medicina legal: de entre primeiros-assessores de medicina legal com, pelo menos, três anos de serviço classificados de Muito bom, ou cinco anos classificados, no mínimo, de Bom;\n\nb) Primeiros-assessores de medicina legal: de entre assessores de medicina legal com, pelo menos, três anos de serviço na respectiva categoria classificados de Muito bom, ou cinco anos classificados, no mínimo, de Bom;\n\nc) Assessores de medicina legal: de entre técnicos superiores de medicina legal principais com, pelo menos, três anos na respectiva categoria classificados de Muito bom, ou cinco anos classificados, no mínimo, de Bom, mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do candidato;\n\nd) Técnicos superiores de medicina legal principal e técnicos superiores de 1.ª classe: de entre, respectivamente, técnicos superiores de medicina legal de 1.ª classe e de 2.ª classe com três anos nas respectivas categorias classificados de Bom;\n\ne) Técnicos superiores de medicina legal de 2.ª classe: de entre indivíduos habilitados com licenciatura adequada.\n\n2 - Os candidatos a assessores podem apresentar um trabalho que verse um tema actual e concreto, de interesse para a medicina legal, cabendo ao júri, com base nesse trabalho, avaliar da capacidade de análise e concepção do candidato.\n\n3 - O trabalho, quando seja apresentado, será devidamente valorado para efeitos de classificação final."
+  },
+  "1072663875": {
+   "fragment_id": "1072663775",
+   "type": 11,
+   "heading": "Artigo 71.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Conteúdo funcional\n\nSem prejuízo do disposto nos regulamentos internos dos institutos de medicina legal, compete genericamente ao pessoal técnico superior de medicina legal:\n\na) Assessor principal, primeiro-assessor e assessor de medicina legal: prestar assessoria técnica e científica de elevado grau de qualificação e responsabilidade nas áreas de toxicologia forense, biologia forense e antropologia forense; orientar os técnicos superiores de medicina legal, técnicos auxiliares de medicina legal e técnicos ajudantes de medicina legal na realização das tarefas que lhes competem; cooperar nas acções de formação e nas actividades pedagógicas a desenvolver no âmbito da medicina legal; colaborar com os órgãos directivos dos institutos de medicina legal em matéria de planeamento de actividades; participar em júris de concurso, quando para tal designado;\n\nb) Outras categorias de pessoal técnico superior de medicina legal: realizar exames complementares, neles compreendidos os exames toxicológicos, bacteriológicos e outros de laboratórios referentes a medicina legal, bem como a elaboração dos respectivos relatórios periciais; orientar os técnicos auxiliares e técnicos ajudantes de medicina legal na realização das tarefas que lhes competem; cooperar nas acções de formação e nas actividades pedagógicas a desenvolver no âmbito da medicina legal; colaborar com os órgãos directivos dos institutos de medicina legal em matéria de planeamento de actividades; participar em júris de concurso, quando para tal designado."
+  },
+  "1072664075": {
+   "fragment_id": "1072663975",
+   "type": 11,
+   "heading": "Artigo 72.º — Regime de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Regime de trabalho\n\n1 - São as seguintes as modalidades de regime de trabalho na carreira técnica superior de medicina legal:\n\na) Tempo completo;\n\nb) Tempo parcial.\n\n2 - O regime de tempo completo implica a prestação de 36 horas de trabalho por semana.\n\n3 - O regime de tempo parcial implica a prestação de serviço por períodos e em condições excepcionalmente autorizadas caso a caso, não podendo os técnicos superiores de medicina legal que dele beneficiem ocupar qualquer cargo de chefia.\n\n4 - O regime de tempo completo é o regime geral."
+  },
+  "1072664275": {
+   "fragment_id": "1072664175",
+   "type": 11,
+   "heading": "Artigo 73.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Remunerações\n\n1 - As remunerações correspondentes aos regimes referidos no artigo anterior constam do mapa de pessoal anexo ao presente diploma.\n\n2 - Às letras dos vários graus da carreira corresponde o regime de tempo completo.\n\n3 - O trabalho que ultrapasse as 36 horas semanais será considerado trabalho extraordinário, aplicando-se-lhe o disposto no Decreto-Lei n.º 110-A/81, de 14 de Maio."
+  },
+  "1177969275": {
+   "fragment_id": "1072664375",
+   "type": 8,
+   "heading": "Secção III — Carreira de técnico-adjunto de medicina legal",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+   ],
+   "markdown": "#### Secção III — Carreira de técnico-adjunto de medicina legal\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+  },
+  "1177969475": {
+   "fragment_id": "1072664575",
+   "type": 11,
+   "heading": "Artigo 74.º — Carreira de técnico-adjunto de medicina legal",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+   ],
+   "markdown": "###### Artigo 74.º — Carreira de técnico-adjunto de medicina legal\n\n1 - É criada a carreira de técnico-adjunto de medicina legal.\n\n2 - A carreira de técnico-adjunto de medicina legal desenvolve-se pelas categorias seguintes:\n\na) Técnico-adjunto de medicina legal de 2.ª classe, escalão 1 ou 2, respectivamente letras J ou I;\n\nb) Técnico-adjunto de medicina legal de 1.ª classe, letra H;\n\nc) Técnico-adjunto de medicina legal principal, letra G.\n\n3 - As categorias referidas no número anterior constam do quadro de pessoal anexo ao presente diploma.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+  },
+  "1177969575": {
+   "fragment_id": "1072664775",
+   "type": 11,
+   "heading": "Artigo 75.º — Enquadramento, conteúdo funcional e áreas profissionais",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+   ],
+   "markdown": "###### Artigo 75.º — Enquadramento, conteúdo funcional e áreas profissionais\n\n1 - O técnico-adjunto de medicina legal actua integrado numa equipa médico-legal, enquadrada e sob a direcção do respectivo elemento médico ou técnico superior, e cabe-lhe:\n\na) A recolha e preparação dos elementos complementares indispensáveis à formulação do diagnóstico médico-legal;\n\nb) Desenvolver todas as tarefas indispensáveis à cabal realização dos exames de medicina legal, quer intervindo junto dos examinandos acidentados, doentes ou vítimas de crimes contra a integridade das pessoas, quer participando na realização dos exames através da utilização dos meios técnicos adequados;\n\nc) Preparar os examinandos quer para os exames no vivo quer para os post mortem, bem como todos os produtos oriundos de colheitas a submeter a análises no âmbito das diversas áreas de intervenção da medicina legal;\n\nd) Intervir esclarecendo os examinandos ou os seus familiares no sentido de os elucidar sobre a necessidade e a importância social dos exames médico-legais;\n\ne) Participar na manutenção do material e equipamento com que trabalha, bem como na respectiva aquisição e gestão de stocks;\n\nf) Colaborar na elaboração e permanente actualização dos ficheiros dos examinandos, dos respectivos processos, e ainda participar na elaboração dos elementos estatísticos referentes ao respectivo serviço;\n\ng) Participar no processo de classificação de serviço, nos termos da legislação em vigor;\n\nh) Integrar os júris de concursos da carreira.\n\n2 - A carreira de técnico-adjunto de medicina legal abrange profissionais das seguintes áreas:\n\na) Tanatologia;\n\nb) Química e toxicologia forense;\n\nc) Biologia forense;\n\nd) Anatomia patológica e histologia;\n\ne) Radiologia e fotografia;\n\nf) Clínica médico-legal.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+  },
+  "1177969675": {
+   "fragment_id": "1072664975",
+   "type": 11,
+   "heading": "Artigo 76.º — Ingresso e acesso",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+   ],
+   "markdown": "###### Artigo 76.º — Ingresso e acesso\n\n1 - O ingresso na carreira de técnico-adjunto de medicina legal faz-se pela categoria de técnico-adjunto de medicina legal de 2.ª classe, mediante concurso de avaliação curricular a que poderão concorrer os indivíduos diplomados com o curso técnico especializado de medicina legal ou os indivíduos habilitados com os cursos ministrados pelas escolas técnicas dos serviços de saúde criadas pelo Decreto-Lei n.º 371/82, de 10 de Setembro.\n\n2 - A mudança de escalão na categoria de técnico-adjunto de medicina legal de 2.ª classe verificar-se-á após permanência de três anos no escalão anterior com classificação de serviço não inferior a Bom.\n\n3 - O acesso à categoria de técnico-adjunto de medicina legal de 1.ª classe efectua-se mediante concurso de avaliação curricular, a que podem candidatar-se os técnicos-adjuntos de medicina legal de 2.ª classe providos no escalão 2 com, pelo menos, três anos de bom e efectivo serviço neste escalão.\n\n4 - O acesso à categoria de técnico-adjunto de medicina legal principal efectua-se mediante concurso de provas de conhecimento e avaliação curricular, a que podem candidatar-se os técnicos-adjuntos de medicina legal de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+  },
+  "1177969775": {
+   "fragment_id": "1072665175",
+   "type": 11,
+   "heading": "Artigo 77.º — Formação profissionalizante",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+   ],
+   "markdown": "###### Artigo 77.º — Formação profissionalizante\n\n1 - O curso técnico especializado de medicina legal, adiante designado por «curso», destina-se a habilitar os futuros técnicos-adjuntos de medicina legal para o exercício das funções que irão desempenhar.\n\n2 - O curso tem a duração de seis semestres e será ministrado nos institutos de medicina legal, sob a orientação do respectivo director.\n\n3 - Durante o curso e sob a responsabilidade dos funcionários orientadores, os estagiários incumbir-se-ão em grau crescente de dificuldade das tarefas próprias dos técnicos-adjuntos de medicina legal.\n\n4 - A abertura do curso será objecto de aviso, a publicar na 2.ª série do Diário da República pelo Conselho Superior de Medicina Legal.\n\n5 - À frequência do curso serão admitidos os indivíduos habilitados com o 12.º ano de escolaridade.\n\n6 - Concluído o curso, os candidatos serão submetidos a exame final e graduados por ordem decrescente de classificação.\n\n7 - O programa geral das provas para a admissão dos candidatos à frequência do curso, data e local da sua realização e constituição do respectivo júri serão estabelecidos por despacho do Ministro da Justiça, sob proposta do Conselho Superior de Medicina Legal.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+  },
+  "1177969875": {
+   "fragment_id": "1072665375",
+   "type": 11,
+   "heading": "Artigo 78.º — Identidade de conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+   ],
+   "markdown": "###### Artigo 78.º — Identidade de conteúdo funcional\n\nPara efeitos de ingresso e acesso na carreira de técnico-adjunto de medicina legal, e sem prejuízo do disposto na lei geral, considera-se existir identidade de conteúdo funcional entre as diversas categorias desta carreira e as categorias a que corresponda letra de vencimento igual ou imediatamente inferior da carreira dos técnicos de diagnóstico e terapêutica das seguintes áreas de actividade:\n\na) Análises clínicas e saúde pública;\n\nb) Anatomia patológica, citologia e tanatologia;\n\nc) Audiometria;\n\nd) Radiologia;\n\ne) Farmácia.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 239/90 - Diário da República n.º 170/1990, Série I de 1990-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1990-573115), com efeitos a partir de 1989-01-01."
+  },
+  "1072665675": {
+   "fragment_id": "1072665575",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "1072665875": {
+   "fragment_id": "1072665775",
+   "type": 11,
+   "heading": "Artigo 79.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Regulamentos internos\n\nOs conselhos administrativos dos institutos de medicina legal deverão elaborar, no prazo de 90 dias a contar da data da entrada em vigor do presente diploma, os respectivos regulamentos internos, a submeter ao Conselho Superior de Medicina Legal para homologação do Ministro da Justiça e a aprovar nos termos da lei geral."
+  },
+  "1072666075": {
+   "fragment_id": "1072665975",
+   "type": 11,
+   "heading": "Artigo 80.º — Horas extraordinárias e subsídio de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Horas extraordinárias e subsídio de risco\n\n1 - A remuneração por trabalho extraordinário devida ao pessoal dos quadros dos institutos de medicina legal é exceptuada dos limites impostos pelos n.os 1 dos artigos 12.º e 15.º do Decreto-Lei n.º 110-A/81, de 14 de Maio, até ao limite máximo de 100%.\n\n2 - Nos termos a fixar por despacho do Ministro da Justiça, ao pessoal dos institutos de medicina legal que coadjuve nos serviços de tanatologia e de toxicologia poderá ser atribuído um subsídio de risco."
+  },
+  "1072666275": {
+   "fragment_id": "1072666175",
+   "type": 11,
+   "heading": "Artigo 81.º — Aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Aposentação\n\nPara efeitos de aposentação, são concedidos 20% de tempo de serviço acrescido ao pessoal que desempenha funções técnicas nos institutos de medicina legal, não podendo esta percentagem acrescer a outras de idêntica natureza que já existam para o mesmo pessoal."
+  },
+  "1072666475": {
+   "fragment_id": "1072666375",
+   "type": 11,
+   "heading": "Artigo 82.º — Unidades médico-legais hospitalares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Unidades médico-legais hospitalares\n\n1 - Os institutos de medicina legal, através dos respectivos directores, diligenciarão junto dos órgãos dirigentes dos hospitais centrais que disponham de serviços de urgência no sentido de junto a estes serviços poder exercer funções um médico legista.\n\n2 - O médico legista que exerça funções nos termos previstos no número anterior assegurará o objectivo previsto no artigo 32.º do presente diploma, bem como a indispensável articulação entre os serviços hospitalares e o instituto de medicina legal de que depende."
+  },
+  "1072666675": {
+   "fragment_id": "1072666575",
+   "type": 11,
+   "heading": "Artigo 83.º — Protocolos de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Protocolos de colaboração\n\nO Conselho Superior de Medicina Legal, através do seu secretário, diligenciará junto dos órgãos dirigentes dos hospitais instalados nas sedes dos círculos judiciais no sentido de estabelecer protocolos de colaboração visando a utilização de instalações daquelas unidades hospitalares pelos gabinetes médico-legais previstos no presente diploma."
+  },
+  "1072666875": {
+   "fragment_id": "1072666775",
+   "type": 11,
+   "heading": "Artigo 84.º — Senhas de presença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Senhas de presença\n\nOs membros dos conselhos médico-legais terão direito a perceber, por cada sessão em que participem, uma gratificação, à qual acrescerá ainda, por cada parecer que elaborem, um quantitativo, sendo os respectivos montantes fixados por despacho conjunto dos Ministros das Finanças e da Justiça."
+  },
+  "1072667075": {
+   "fragment_id": "1072666975",
+   "type": 11,
+   "heading": "Artigo 85.º — Normas de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Normas de transição\n\n1 - Os actuais técnicos auxiliares de medicina legal transitam para a carreira de técnico-adjunto de medicina legal, de acordo com as seguintes regras:\n\na) Os técnicos auxiliares de medicina legal de 2.ª classe, para técnicos-adjuntos de medicina legal de 2.ª classe do escalão 1 ou 2, consoante tenham menos ou mais de três anos naquela categoria;\n\nb) Os técnicos auxiliares de medicina legal de 1.ª classe, para técnicos-adjuntos de medicina legal de 1.ª classe;\n\nc) Os técnicos auxiliares de medicina legal principais, para técnicos-adjuntos de medicina legal principais.\n\n2 - O tempo de serviço prestado na categoria anterior conta para todos os efeitos legais como prestado na categoria ou escalão para que se opera a transição.\n\n3 - O restante pessoal pertencente aos quadros dos institutos de medicina legal transita para os lugares previstos no mapa anexo ao presente diploma, no que nele não for expressamente regulamentado, de acordo com as regras estabelecidas na lei geral.\n\n4 - São equiparados ao curso previsto no artigo 77.º os cursos técnicos especializados de medicina legal iniciados antes da entrada em vigor do presente diploma."
+  },
+  "1072667275": {
+   "fragment_id": "1072667175",
+   "type": 11,
+   "heading": "Artigo 86.º — Directores dos institutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Directores dos institutos\n\nOs actuais directores dos institutos de medicina legal mantêm a mesma situação, ficando em comissão de serviço, nos termos gerais, sem prejuízo dos direitos já adquiridos."
+  },
+  "1072667475": {
+   "fragment_id": "1072667375",
+   "type": 11,
+   "heading": "Artigo 87.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º\n\nFicam revogadas as disposições em contrário do presente diploma, designadamente:\n\na) O Decreto de 16 de Novembro de 1899 (Regulamento dos Serviços Médico-Legais);\n\nb) O Decreto n.º 4893, de 28 de Setembro de 1918;\n\nc) O Decreto n.º 4808, de 11 de Setembro de 1918;\n\nd) O Decreto n.º 5602, de 10 de Maio de 1919;\n\ne) O Decreto n.º 5023, de 29 de Novembro de 1918;\n\nf) O Decreto n.º 5952, de 28 de Junho de 1919;\n\ng) O Decreto n.º 19697, de 4 de Maio de 1931;\n\nh) A Portaria n.º 7098, de 4 de Maio de 1931;\n\ni) O Decreto n.º 32367, de 7 de Novembro de 1942;\n\nj) Os artigos 2.º, 9.º e 10.º do Decreto-Lei n.º 41306, de 2 de Outubro de 1957;\n\nl) Os artigos 52.º e 56.º, inclusive, do Decreto-Lei n.º 41745, de 21 de Julho de 1958;\n\nm) O artigo 3.º do Decreto-Lei n.º 414/73, de 21 de Agosto;\n\nn) O Decreto-Lei n.º 373/75, de 17 de Julho;\n\no) O Decreto-Lei n.º 519-F1/79, de 29 de Dezembro;\n\np) O Decreto-Lei n.º 22/81, de 29 de Janeiro;\n\nq) Os artigos 14.º e 37.º do Decreto-Lei n.º 274/82, de 14 de Julho;\n\nr) Os n.os 7, 8 e 9 do Despacho Normativo n.º 171/82, de 30 de Julho;\n\ns) A Portaria n.º 266/83, de 8 de Março;\n\nt) O Decreto-Lei n.º 169/83, de 30 de Abril;\n\nu) A Portaria n.º 945/84, de 21 de Dezembro;\n\nv) A Portaria n.º 7114, de 25 de Maio de 1931;\n\nx) O Decreto-Lei n.º 350/85, de 26 de Agosto;\n\nz) O artigo 1.º, n.º 1, do Decreto-Lei n.º 326/86, de 29 de Setembro."
+  },
+  "1072667675": {
+   "fragment_id": "1072667575",
+   "type": 11,
+   "heading": "Artigo 88.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º\n\nO presente diploma entra em vigor em 1 de Janeiro de 1988."
+  },
+  "1072667875": {
+   "fragment_id": "1072667775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 29 de Dezembro de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Dezembro de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1178216875": {
+   "fragment_id": "1072667975",
+   "type": 14,
+   "heading": "Anexo Mapa a que se refere o artigo 3 — Área das circunscrições médico-legais por círculos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo Mapa a que se refere o artigo 3 — Área das circunscrições médico-legais por círculos judiciais\n\nCircunscrição Médico-Legal de Lisboa\n\nAlmada, Barreiro, Beja, Caldas da Rainha, Cascais, Évora, Faro, Funchal, Ponta Delgada, Portalegre, Portimão, Santarém, Setúbal, Sintra e Vila Franca de Xira.\n\nCircunscrição Médico-Legal de Coimbra\n\nAveiro, Castelo Branco, Coimbra, Covilhã, Figueira da Foz, Guarda, Leiria, Tomar e Viseu.\n\nCircunscrição Médico-Legal do Porto\n\nBarcelos, Braga, Bragança, Guimarães, Lamego, Matosinhos, Oliveira de Azeméis, Penafiel, Santo Tirso, Viana do Castelo, Vila da Feira, Vila Nova de Gaia e Vila Real.\n\nTabela a que se referem os artigos 48.º, n.º 2, e 68.º\n\nAcréscimo sobre o vencimento base para as funções de:\n\nDirector de serviços - 20%.\n\nDirector de instituto de medicina legal - 50%.\n\nAcréscimo sobre o vencimento base segundo o regime de trabalho:\n\nNo estágio de medicina legal - 40%.\n\nRegime de tempo completo prolongado - 40%.\n\nRegime de dedicação exclusiva - 50%.\n\nQuadro de pessoal a que se refere o artigo 44.º\n\nInstituto de Medicina Legal de Coimbra\n\n(ver documento original)\n\nConteúdo funcional dos chefes de repartição e de secção\n\na) Chefe de repartição. - Dirigir e orientar as actividades desenvolvidas numa unidade orgânica correspondente a uma repartição que tenha por atribuições o desenvolvimento de uma ou mais áreas de actividade de índole administrativa, nomeadamente de pessoal, património, expediente e arquivo, contabilidade e economato.\n\nb) Chefe de secção. - Orientar, coordenar e supervisionar as actividades desenvolvidas numa secção administrativa, em conformidade com as respectivas atribuições, nomeadamente nas áreas de pessoal, expediente e arquivo, contabilidade, património e economato.\n\nQuadro de pessoal a que se refere o artigo 44.º\n\nInstituto de Medicina Legal de Lisboa\n\n(ver documento original)\n\nInstituto de Medicina Legal do Porto\n\n(ver documento original)\n\n> Nota: [Diploma, Portaria n.º 374/91 - Diário da República n.º 100/1991, Série I-B de 1991-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/374-1991-616395) Considera extinto no quadro de pessoal de cada instituto um lugar de operador de registo de dados e criado, em sua substituição, um lugar de segundo-oficial, a acrescer à actual dotação da carreira de oficial administrativo."
+  }
+ }
+}

@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:114099650:por
+title: Resolução da Assembleia da República n.º 239/2017
+short_title: null
+summary: Recomenda ao Governo que tome medidas de apoio à pesca e à gestão sustentável dos recursos marítimos nacionais
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 239/2017
+official_date: null
+publication_date: '2017-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/2017, Série I de 2017-10-26
+  number: '207'
+  series: I
+  supplement: null
+  pages: 5796 - 5796
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20700/0579605796.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/239/2017/10/26/p/dre/pt/html
+  oj: null
+  dre: '114099650'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/239-2017-114099650
+  internal: pt:dre:114099650:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/239-2017-114099650
+  metadata_url: https://data.dre.pt/eli/resolassrep/239/2017/10/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/239-2017-114099650
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:51:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f27dbd5e290cb3f605c8e7241943a1570b3240cecc6346d5ad72180d3f4085bb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:51:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio ao Investimento
+- Embarcação de Pesca
+- Emolumento
+- Formação Profissional
+- Frota de Pesca
+- Investigação
+- Peixe
+- Pesca
+- Pesca Profissional
+- Recomendação
+- Recursos do Mar
+- Recursos Naturais
+- Segurança das Embarcações
+- Software
+- Taxa
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:51:46Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 239/2017
+
+Recomenda ao Governo que tome medidas de apoio à pesca e à gestão sustentável dos recursos marítimos nacionais
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Inicie um programa de apoio à renovação e modernização da frota pesqueira nacional e à promoção da construção, em território nacional, de embarcações mais modernas, com níveis adequados de segurança, habitabilidade, condições de trabalho e de conservação do pescado.
+
+2 - Desenvolva esforços para apoiar a substituição de embarcações em madeira com menos de 12 metros e com idade superior a 12 anos por embarcações novas.
+
+3 - Legisle no sentido de serem dotados de apoio público os investimentos de substituição ou modernização de motores principais ou auxiliares, em embarcações de pesca local e costeira que não excedam os 12 metros de comprimento.
+
+4 - Possibilite o desenvolvimento e instalação de um novo software de suporte ao Diário de Pesca Eletrónico (DPE), bem como a formação dos respetivos utilizadores.
+
+5 - Agilize, em conjunto com a administração central, as universidades, os institutos científicos, e as associações de pescadores, uma estratégia nacional de apoio à investigação e preservação dos recursos marítimos, assegurando financiamento, pessoal e instrumentos suficientes adequados para a prossecução deste objetivo.
+
+6 - Crie um balcão único ou similar para pedidos de registo, processamento e alteração de documentação relativa às embarcações.
+
+7 - Reduza as taxas e emolumentos aplicados ao setor das pescas, e, particularmente, às pequenas embarcações.
+
+8 - Alargue, sempre que possível, a rede de postos de descarga e venda de pescado da Docapesca - Portos e Lotas, S. A., de forma a aproximar esta estrutura dos pontos tradicionais de descarga e das comunidades piscatórias, reduzindo os custos com deslocações e fomentando a segurança alimentar e a justiça fiscal.
+
+9 - Desenvolva e concretize, em conjunto com a comunidade científica, comunidades piscatórias e associações de promoção da segurança no trabalho marítimo, estudos e ações concretas para solucionar, de forma eficaz, o problema do assoreamento nos diversos portos de pesca nacionais onde este ocorre ciclicamente.
+
+10 - Promova e agilize o acesso à profissão marítima, salvaguardando a qualidade da formação inicial e contínua, bem como rigorosas condições de segurança para os atuais e futuros profissionais.
+
+Aprovada em 20 de setembro de 2017.
+
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

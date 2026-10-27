@@ -1,0 +1,885 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:141214:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1985-891535250",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/68-1985-141214",
+ "source_lastmod": "2024-10-30",
+ "versions": [
+  {
+   "date": "1985-10-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "891540389",
+    "891540390",
+    "891540391",
+    "891540392",
+    "891540393",
+    "891540394",
+    "891540395",
+    "891540396",
+    "891540397",
+    "891540398",
+    "891540399",
+    "891540400",
+    "891540401",
+    "891540402",
+    "891540403",
+    "891540404",
+    "891540405",
+    "891540406",
+    "891540407",
+    "891540408",
+    "891540409",
+    "891540410",
+    "891540411",
+    "891540412",
+    "891540413",
+    "891540414",
+    "891540415",
+    "891540416",
+    "891540417",
+    "891540418",
+    "891540419",
+    "891540420",
+    "891540421",
+    "891540422",
+    "891540423",
+    "891540424",
+    "891540425",
+    "891540426",
+    "891540427",
+    "891540428",
+    "891540429",
+    "891540430",
+    "891540431",
+    "891540432",
+    "891540433",
+    "891540434",
+    "891540435",
+    "891540436",
+    "891540437",
+    "891540438",
+    "891540439",
+    "891540440",
+    "891540441",
+    "891540442",
+    "891540443",
+    "891540444",
+    "891540445",
+    "891540446",
+    "891540447",
+    "891540448",
+    "891540449",
+    "891540450",
+    "891540451",
+    "891540452",
+    "891540453",
+    "891540454",
+    "891540455",
+    "891540456",
+    "891540457",
+    "891540459"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456561:por",
+     "title": "Decreto-Lei n.º 121/2008",
+     "published": "2008-07-11",
+     "dre_path": "/dr/detalhe/decreto-lei/121-2008-456561"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 54.º",
+    "Revoga Artigo 55.º",
+    "Revoga Artigo 56.º"
+   ],
+   "fragments": [
+    "891540389",
+    "891540390",
+    "891540391",
+    "891540392",
+    "891540393",
+    "891540394",
+    "891540395",
+    "891540396",
+    "891540397",
+    "891540398",
+    "891540399",
+    "891540400",
+    "891540401",
+    "891540402",
+    "891540403",
+    "891540404",
+    "891540405",
+    "891540406",
+    "891540407",
+    "891540460",
+    "891540408",
+    "891540409",
+    "891540410",
+    "891540411",
+    "891540412",
+    "891540413",
+    "891540414",
+    "891540415",
+    "891540416",
+    "891540417",
+    "891540418",
+    "891540419",
+    "891540420",
+    "891540421",
+    "891540422",
+    "891540423",
+    "891540424",
+    "891540425",
+    "891540426",
+    "891540427",
+    "891540428",
+    "891540429",
+    "891540430",
+    "891540431",
+    "891540432",
+    "891540433",
+    "891540434",
+    "891540435",
+    "891540436",
+    "891540437",
+    "891540438",
+    "891540439",
+    "891540440",
+    "894136965",
+    "894136966",
+    "894136967",
+    "894136968",
+    "894136969",
+    "894136970",
+    "894136971",
+    "894136972",
+    "894136973",
+    "894136974",
+    "894206575",
+    "894206576",
+    "891540453",
+    "891540454",
+    "891540455",
+    "891540456",
+    "891540457",
+    "891540458",
+    "891540459"
+   ]
+  }
+ ],
+ "fragments": {
+  "891540389": {
+   "fragment_id": "891535251",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 68/85\n\nde 24 de Outubro\n\nDefinidas as bases fundamentais delimitadoras da estrutura dos diversos serviços sociais do ensino superior, através do Decreto-Lei n.º 132/80, de 17 de Maio, com a redacção que lhe foi dada pelo Decreto-Lei n.º 125/84, de 26 de Abril, impõe-se, nos termos do artigo 39.º daquele normativo, regulamentar os Serviços Sociais da Universidade do Porto, por forma a permitir o seu normal funcionamento.\n\nNa prossecução deste objectivo procurou-se ter em conta a exigência fundamental de respeito pelos legítimos interesses e muito justas expectativas dos trabalhadores dos Serviços Sociais, devidamente consignada no preâmbulo do referido decreto-lei.\n\nAs disposições do presente decreto regulamentar reflectem ainda a preocupação de atender à especificidade dos serviços em termos de organização estrutural adequada às suas necessidades, no presente e a médio prazo, sempre com vista a uma realização integral dos objectivos que presidiram à sua criação.\n\nNestes termos, e em cumprimento do disposto no artigo 39.º do Decreto-Lei n.º 132/80, de 17 de Maio, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "891540390": {
+   "fragment_id": "891535252",
+   "type": 1,
+   "heading": "Capítulo I — Da natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da natureza e atribuições"
+  },
+  "891540391": {
+   "fragment_id": "891535253",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Serviços Sociais da Universidade do Porto, adiante designados por SSUP, são uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e funcionam na Universidade do Porto."
+  },
+  "891540392": {
+   "fragment_id": "891535254",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs SSUP têm por fim a concessão de auxílios económicas aos estudantes carecidos de recursos, tendo em vista proporcionar-lhes melhores condições para se consagrarem ao estudo, bem como a prestação de outros serviços aos estudantes em geral, com o objectivo de melhorar as suas condições de vida, trabalho e uma mais completa formação académica, no contexto da política de acção social escolar superiormente definida."
+  },
+  "891540393": {
+   "fragment_id": "891535255",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - A acção social escolar a desenvolver pelos SSUP beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade do Porto e preencham as condições legalmente estabelecidas.\n\n2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na Universidade do Porto que não sejam abrangidos pela acção social de quaisquer outros serviços sociais do ensino superior poderão beneficiar da acção desenvolvida pelos SSUP nos termos do disposto nos números seguintes.\n\n3 - O alargamento do âmbito dos SSUP a estabelecimentos de ensino superior não integrados na Universidade do Porto dependerá de propostas a dirigir ao presidente pelos órgãos responsáveis pela gestão dos estabelecimentos interessados, por sua iniciativa ou a solicitação dos estudantes neles matriculados.\n\n4 - As propostas serão submetidas à apreciação do conselho geral e do conselho administrativo dos SSUP, após o que serão presentes ao Conselho de Acção Social do Ensino Superior (CASES) para aprovação.\n\n5 - Cumprido o disposto no número anterior. o CASES proporá ao Ministro da Educação o alargamento do âmbito dos SSUP aos estudantes matriculados nos estabelecimentos de ensino em causa.\n\n6 - Os trabalhadores dos SSUP e dos estabelecimentos de ensino superior incluídos no seu âmbito, nos termos do disposto dos n.os 3, 4 e 5, poderão beneficiar dos serviços de alimentação dos SSUP, mediante acordo a estabelecer com a Obra Social do Ministério da Educação, desde que a utilização desses serviços não prejudique os estudantes por eles beneficiados."
+  },
+  "891540394": {
+   "fragment_id": "891535256",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - No domínio da concessão de auxílios económicos aos estudantes carecidos de recursos, compete aos SSUP:\n\na) Conceder bolsas e subsídios de estudo;\n\nb) Conceder empréstimos;\n\nc) Propor a concessão de isenção ou redução de propinas.\n\n2 - No domínio da prestação de serviços aos estudantes em geral compete, nomeadamente, aos SSUP:\n\na) Providenciar pela criação, manutenção e funcionamento de residências, refeitórios, bares e snack-bars;\n\nb) Desenvolver actividades de informação e procuradoria, promovendo a divulgação, ampla e permanente, dos meios de acção social escolar postos à disposição dos estudantes:\n\nc) Apoiar actividades culturais e de ocupação de tempos livres dos estudantes;\n\nd) Fomentar acções públicas ou privadas, com vista à obtenção de colocação dos recém-diplomados;\n\ne) Fomentar a cooperação com organismos internacionais e serviços estrangeiros congéneres, bem como assegurar a participação em congressos internacionais sobre a acção social no ensino superior;\n\nf) Cooperar com o Ministério dos Negócios Estrangeiros no apoio aos estudantes oriundos dos países de expressão oficial portuguesa, bem como a todos os estabelecimentos estrangeiros a que se refere o n.º 2 do artigo 5.º do Decreto-Lei n.º 132/80, de 17 de Maio, quando abrangidos no âmbito dos SSUP;\n\ng) Desenvolver outras actividades que pela sua natureza se enquadram nos fins gerais da acção social escolar."
+  },
+  "891540395": {
+   "fragment_id": "891535257",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos e serviços e suas competências"
+  },
+  "891540396": {
+   "fragment_id": "891535258",
+   "type": 8,
+   "heading": "Secção I — Dos órgãos e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos órgãos e suas competências"
+  },
+  "891540397": {
+   "fragment_id": "891535259",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs SSUP têm os seguintes órgãos:\n\na) O presidente;\n\nb) O conselho geral;\n\nc) O conselho administrativo."
+  },
+  "891540398": {
+   "fragment_id": "891535260",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presidente dos SSUP é, por inerência, o reitor da Universidade do Porto."
+  },
+  "891540399": {
+   "fragment_id": "891535261",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - Compete ao presidente dirigir superiormente os SSUP e orientar e coordenar as suas actividades, designadamente:\n\na) Assegurar a gestão corrente dos serviços;\n\nb) Representar e fazer representar os SSUP em quaisquer actos ou contratos em que haja de intervir, em juízo e fora dele;\n\nc) Presidir ao conselho geral e ao conselho administrativo;\n\nd) Elaborar os planos anuais e plurianuais de actividades e submetê-los à aprovação do CASES, obtida a concordância do conselho geral;\n\ne) Assegurar a execução dos planos aprovados;\n\nf) Conceder empréstimos e atribuir bolsas de estudo, subsídios e outros benefícios pecuniários, de acordo com os regulamentos em vigor;\n\ng) Elaborar e apresentar ao conselho geral o relatório anual de actividades;\n\nh) Submeter ao CASES os projectos de regulamentos e assuntos relativos ao funcionamento dos SSUP que careçam de apreciação superior.\n\n2 - O presidente poderá receber do Ministro da Educação a delegação de competências para despachar assuntos relativos a funções de administração geral, considerando-se como tais as que respeitem às actividades correntes dos SSUP e à gestão dos respectivos recursos humanos.\n\n3 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.\n\n4 - Nas áreas de planeamento e controle da actividade dos SSUP e da preparação de auditorias administrativas e jurídicas, será o presidente assessorado por pessoal técnico superior e pessoal técnico, com habilitações legalmente exigidas e a formação profissional adequada."
+  },
+  "891540400": {
+   "fragment_id": "891535262",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1 - O vice-presidente dos SSUP é nomeado pelo Ministro da Educação, sob proposta do presidente dos referidos Serviços, de entre indivíduos com licenciatura e experiência adequadas ao cargo.\n\n2 - Para todos os efeitos legais, o cargo de vice-presidente é equiparado ao de subdirector-geral."
+  },
+  "891540401": {
+   "fragment_id": "891535263",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - O conselho geral é constituído por:\n\na) O presidente dos SSUP, que preside;\n\nb) O vice-presidente dos SSUP;\n\nc) O administrador da Universidade do Porto;\n\nd) Três representantes do órgão colegial que na Universidade do Porto coordene as actividades das várias escolas ou, na sua falta, três docentes designados pelo reitor;\n\ne) Dois representantes dos estudantes bolseiros dos SSUP, sendo um deles necessariamente alojado em residência universitária;\n\nf) Dois representantes das associações de estudantes da Universidade do Porto.\n\n2 - Os membros do conselho geral a que se refere a alínea d) do número anterior serão designados pelo órgão a que pertençam, para mandatos bienais, até 31 de Dezembro.\n\n3 - Os membros do conselho geral a que se refere a alínea f) do n.º 1 serão designados pelas associações de estudantes da Universidade do Porto até 31 de Dezembro de cada ano, para um mandato anual.\n\n4 - Os membros do conselho geral referidos nas alíneas d), e) e 1) do n.º 1 manter-se-ão em funções após o termo das respectivos mandatos até que sejam designados os novos membros que os irão substituir."
+  },
+  "891540402": {
+   "fragment_id": "891535264",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCompete ao conselho geral:\n\na) Aprovar as propostas dos planos anuais e plurianuais de actividades, a submeter à aprovação do CASES;\n\nb) Fiscalizar o cumprimento dos planos aprovados, em ordem a garantir a execução da política de acção social do ensino superior;\n\nc) Aprovar os projectos de orçamento e as contas de gerência;\n\nd) Apreciar a concessão de empréstimos e a atribuição de bolsas de estudo, subsídios e outros benefícios pecuniários;\n\ne) Aprovar o projecto de relatório anual de actividades;\n\nf) Apreciar os projectos de regulamentos necessários ao funcionamento dos SSUP;\n\ng) Dar parecer sobre os assuntos que lhe sejam apresentados pelo presidente;\n\nh) Acompanhar o funcionamento e consultar a documentação dos Serviços Operativos e de Apoio, podendo para o efeito delegar poderes em algum ou alguns dos seus membros."
+  },
+  "891540403": {
+   "fragment_id": "891535265",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1 - O conselho geral reunirá ordinariamente de 3 em 3 meses e extraordinariamente quando convocado pelo presidente, por sua iniciativa, ou a pedido de, pelo menos, dois dos seus membros.\n\n2 - A convocatória será acompanhada da lista dos assuntos a tratar na reunião.\n\n3 - As reuniões do conselho geral serão secretariadas por um funcionário devidamente qualificado, a designar pelo presidente deste órgão.\n\n4 - Das reuniões do conselho geral serão lavradas actas, assinadas pelos presentes.\n\n5 - O conselho geral poderá deliberar desde que esteja presente a maioria simples dos seus membros.\n\n6 - O presidente tem voto de qualidade.\n\n7 - Poderão participar nas reuniões do conselho geral, sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUP cuja presença se mostre aconselhável face aos assuntos a tratar."
+  },
+  "891540404": {
+   "fragment_id": "891535266",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n- 1 - O conselho administrativo dos SSUP é constituído por:\n\na) O presidente dos SSUP, que preside;\n\nb) O vice-presidente dos SSUP;\n\nc) Uma pessoa de reconhecida competência a designar pelo Ministro da Educação, sob proposta do presidente dos SSUP, após audição do conselho geral;\n\nd) O director dos Serviços de Apoio dos SSUP, que secretaria.\n\n2 - Os membros do conselho administrativo exercerão as suas funções cumulativamente com os respectivos cargos e não receberão por elas qualquer remuneração, salvo o membro designado na alínea c) do número anterior, que receberá uma gratificação mensal equivalente a um quinto do vencimento auferido pelo vice-presidente, quando não desempenhar outras funções nos Serviços Sociais, arredondada para a centena de escudos imediatamente superior.\n\n3 - Nas faltas ou impedimentos dos membros do conselho administrativo dos SSUP mencionados nas alíneas a), b) e d) do n.º 1, será chamado a participar nas respectivas reuniões o seu substituto legal, o qual, se não estiver designado na lei, será o funcionário exercendo funções na escala hierárquica imediatamente inferior.\n\n4 - O membro do conselho administrativo a que se refere a alínea c) do n.º 1 será designado de entre funcionários públicos de reconhecida competência nos domínios da Administração Pública."
+  },
+  "891540405": {
+   "fragment_id": "891535267",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n- 1 - Compete ao conselho administrativo:\n\na) Promover a elaboração dos planos financeiros anuais e plurianuais;\n\nb) Promover a elaboração dos projectos de orçamento, de acordo com as disposições legais aplicáveis;\n\nc) Promover a arrecadação das receitas próprias e a sua entrega nos cofres do Estado, a fim de serem escrituradas em contas de ordem no Orçamento do Estado;\n\nd) Depositar na Caixa Geral de Depósitos ou nas restantes instituições de crédito os fundos levantados do Tesouro, sem prejuízo de poder levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro;\n\ne) Requisitar mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais inscritas no Orçamento do Estado e das constantes em contas de ordem;\n\nf) Verificar a legitimidade das despesas e autorizar o seu pagamento;\n\ng) Promover a elaboração das contas de gerência, de acordo com as normas legais aplicáveis;\n\nh) Proceder a verificação regular dos fundos em cofre e em depósito e fiscalizar a escrituração da contabilidade e da tesouraria;\n\ni) Administrar os bens e zelar pela conveniente conservação dos edifícios, terrenos e equipamentos;\n\nj) Promover, nos termos legais, a venda em hasta pública de material considerado inservível ou dispensável;\n\nl) Promover a organização e permanente actualização do inventário e cadastro dos bens móveis e imóveis pertencentes ou afectos aos SSUP.\n\n2 - Em matéria de autorização de despesas e de celebração de contratos, o conselho administrativo terá a competência atribuída na lei geral aos órgãos responsáveis dos serviços dotados de autonomia administrativa e financeira e a que lhe for atribuída por delegação do Ministro da Educação.\n\n3 - O conselho administrativo poderá delegar no pessoal com cargos de chefia parte da sua competência para autorizar despesas, quando julgado conveniente à boa gestão dos serviços."
+  },
+  "891540406": {
+   "fragment_id": "891535268",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1 - O conselho administrativo reunirá ordinariamente duas vezes por mês e extraordinariamente a solicitação de qualquer dos seus membros.\n\n2 - O conselho administrativo só poderá deliberar quando se encontre presente a maioria simples dos seus membros.\n\n3 - O presidente tem voto de qualidade.\n\n4 - Das reuniões do conselho administrativo serão lavradas actas, devendo constar das mesmas a indicação dos assuntos tratados, com menção expressa das importâncias dos levantamentos de fundos e dos pagamentos autorizados e ainda do número de ordem dos documentos.\n\n5 - Os membros do conselho administrativo são solidariamente responsáveis pelas deliberações tomadas, salvo se não tiverem estado presentes na reunião ou se houverem feito exarar em acta a sua discordância.\n\n6 - As requisições de fundos, as ordens de pagamento e os recibos serão assinados, em nome do conselho administrativo, pelo respectivo presidente e por um vogal, devendo os recibos respeitantes a valores que tenham de entrar na tesouraria conter também a assinatura do tesoureiro.\n\n7 - Poderão participar nas reuniões do conselho administrativo, sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUP cuja presença se mostre aconselhável face aos assuntos a tratar."
+  },
+  "891540407": {
+   "fragment_id": "891535269",
+   "type": 8,
+   "heading": "Secção II — Dos serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos serviços e suas competências"
+  },
+  "891540408": {
+   "fragment_id": "891535270",
+   "type": 3,
+   "heading": "Subsecção I — Serviços Operativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Serviços Operativos"
+  },
+  "891540409": {
+   "fragment_id": "891535271",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n- 1 - Os Serviços Operativos são dirigidos por um director de serviços.\n\n2 - Os Serviços Operativos exercem as suas atribuições nos seguintes domínios:\n\na) Alojamento;\n\nb) Alimentação;\n\nc) Bolsas e empréstimos;\n\nd) Documentação e material didáctico;\n\ne) Procuradoria."
+  },
+  "891540410": {
+   "fragment_id": "891535272",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nEm matéria de alojamento compete aos SSUP:\n\na) Providenciar pela abertura e assegurar o funcionamento de residências;\n\nb) Estudar e propor superiormente outras formas de apoio no que concerne ao alojamento, sempre que se verifique a insuficiência das residências a que se refere a alínea anterior;\n\nc) Propor superiormente a regulamentação de utilização das residências e as regras da sua administração, bem como assegurar o cumprimento dos regulamentos em vigor;\n\nd) Organizar os processos de candidatura aos alojamentos dos SSUP e submetê-los a decisão superior;\n\ne) Manter permanentemente actualizado um sistema de controle de utilizações e consumos;\n\nf) Zelar pela manutenção e conservação do equipamento e instalações afectas às residências estudantis;\n\ng) Enviar aos serviços competentes os elementos necessários à cobrança pontual das receitas dos alojamentos;\n\nh) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais."
+  },
+  "891540411": {
+   "fragment_id": "891535273",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nEm matéria de alimentação compete aos SSUP:\n\na) Providenciar pela abertura e assegurar o funcionamento dos refeitórios, cantinas, bares e snacks;\n\nb) Propor superiormente as normas a que deve obedecer a utilização e funcionamento dos refeitórios, cantinas, snacks, bares e respectivas cozinhas;\n\nc) Zelar pela manutenção e conservação do equipamento e das instalações que lhe forem afectadas;\n\nd) Manter permanentemente actualizado um sistema de controle de utilização e de consumos;\n\ne) Enviar directamente aos serviços competentes as receitas dos refeitórios, cantinas, snacks e bares;\n\nf) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais."
+  },
+  "891540412": {
+   "fragment_id": "891535274",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nEm matéria de bolsas e empréstimos compete aos SSUP:\n\na) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros benefícios pecuniários, de acordo com os regulamentos em vigor, e organizar os respectivos processos individuais;\n\nb) Estudar e propor superiormente os regulamentos para atribuição dos diversos tipos de auxílios económicos;\n\nc) Propor a realização de inquéritos relativos às condições sócio-económicas dos estudantes abrangidos pelos SSUP;\n\nd) Estudar e propor superiormente a adopção de novos esquemas e tipos de auxílio económico a conceder pelos SSUP;\n\ne) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais."
+  },
+  "891540413": {
+   "fragment_id": "891541175",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nEm matéria de documentação e material didáctico compete aos SSUP:\n\na) Promover a edição ou reedição de folhas, textos de apoio ou didácticos;\n\nb) Promover a feitura e impressão de textos educativos ou de esclarecimento aos estudantes;\n\nc) Propor superiormente as normas a que deve obedecer a utilização e funcionamento do Centro de Documentação e Material Didáctico;\n\nd) Zelar pela manutenção e conservação do equipamento e instalações afectas ao serviço;\n\ne) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais;\n\nf) Manter permanentemente actualizado um sistema de controle de utilização e consumos;\n\ng) Promover a venda de edições científicas, técnicas e textos didácticos nacionais ou estrangeiros, bem como os dos próprios estabelecimentos de ensino ou os publicados pelos serviços do Ministério da Educação;\n\nh) Promover a venda de cadernos, impressos ou outro material normalizado, com desenho, timbre ou riscado em uso no estabelecimento de ensino respectivo;\n\ni) Promover a venda de artigos correntes de papelaria ou outros que visem apoiar as actividades escolares;\n\nj) Propor a definição dos artigos e materiais mais adequados, bem como propor preços de venda;\n\nk) Zelar pelo bom funcionamento dos serviços, propondo horários de funcionamento mais convenientes;\n\nl) Manter em dia os ficheiros adequados, propondo e programando as respectivas aquisições em colaboração com os serviços de aprovisionamento;\n\nm) Elaborar catálogos das publicações e artigos referidos nas alíneas anteriores para distribuição pelos interessados;\n\nn) Enviar aos serviços competentes as receitas do serviço."
+  },
+  "891540414": {
+   "fragment_id": "891541176",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nEm matéria de procuradoria compete aos SSUP apoiar o estudante no cumprimento das formalidades legais e administrativas a que está obrigado na sua vida académica, nomeadamente:\n\na) Tratar dos problemas académicos junto dos Serviços Académicos da Universidade do Porto;\n\nb) Efectuar inscrições e pagamento de propinas aos estudantes da Universidade do Porto que recorram aos seus serviços, nos moldes a definir em regulamento próprio;\n\nc) Enviar à secção de serviços financeiros as receitas obtidas;\n\nd) Enviar à secção de contabilidade os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUP."
+  },
+  "891540415": {
+   "fragment_id": "891541177",
+   "type": 3,
+   "heading": "Subsecção II — Serviços de Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Serviços de Apoio"
+  },
+  "891540416": {
+   "fragment_id": "891541178",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n- 1 - Os Serviços de Apoio são dirigidos por um director de serviços.\n\n2 - Os Serviços de Apoio, que exercem as suas atribuições nos domínios da gestão administrativa e financeira, do aprovisionamento e apoio geral dos serviços dos SSUP, compreendem:\n\na) A Repartição Administrativa;\n\nb) A Repartição de Aprovisionamento."
+  },
+  "891540417": {
+   "fragment_id": "891541179",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nA Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:\n\na) De contabilidade e orçamento;\n\nb) Dos serviços financeiros;\n\nc) Do património;\n\nd) De pessoal;\n\ne) De expediente e assuntos gerais."
+  },
+  "891540418": {
+   "fragment_id": "891541180",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n- 1 - A secção de contabilidade e orçamento abrange as áreas da contabilidade patrimonial e do orçamento e conta.\n\n2 -À secção de contabilidade e orçamento compete:\n\na) Preparar o orçamento ordinário e os necessários orçamentos suplementares;\n\nb) Informar sobre o cabimento orçamental nas requisições de todo o material e bens a adquirir;\n\nc) Acompanhar a execução orçamental e a escrituração dos livros competentes, com respeito pelas normas da contabilidade pública em vigor;\n\nd) Promover a elaboração de balancetes mensais e trimestrais das receitas e despesas realizadas;\n\ne) Elaborar e organizar a conta de gerência a enviar ao Tribunal de Contas, assim como a conta da responsabilidade do tesoureiro;\n\nf) Organizar o sistema de contabilidade patrimonial, com inclusão de adequada contabilidade analítica para controle de gestão;\n\ng) Elaborar registos contabilísticos com vista ao apuramento de resultados por objectivos;\n\nh) A escrituração de todos os livros próprios da contabilidade patrimonial;\n\ni) Determinar custos;\n\nj) Elaborar balanços e contas de exploração;\n\nk) Elaborar relatórios de análise da situação financeira e patrimonial;\n\nl) Controlar e acompanhar o movimento de tesouraria, assim como executar as acções de controle que superiormente lhe forem concedidas;\n\nm) Arquivar toda a documentação comprovativa das receitas e despesas.\n\n3 - Adstrita à secção de contabilidade e orçamento funciona um serviço de estatística, ao qual compete registar e tratar os dados com interesse estatístico, assim como calcular os consumos sectoriais por natureza."
+  },
+  "891540419": {
+   "fragment_id": "891541181",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n- 1 - A secção dos serviços financeiros exerce a sua acção no domínio dos meios financeiros e, fundamentalmente, na liquidação das despesas e controle das receitas dos SSUP.\n\n2 - À secção dos serviços financeiros compete:\n\na) Receber dos serviços adquirentes os processos de despesas, devidamente organizados e completados;\n\nb) Elaborar as autorizações de pagamento, depois da verificação do cabimento financeiro;\n\nc) Promover a liquidação e pagamento das despesas dos SSUP;\n\nd) Promover a cobrança, liquidação e controle de todas as receitas próprias provenientes dos vários sectores;\n\ne) Obter do conselho administrativo as devidas autorizações para pagamento;\n\nf) Emitir e controlar os cheques;\n\ng) Enviar à tesouraria, para pagamento, as autorizações de pagamento devidamente autorizadas;\n\nh) Receber diariamente da tesouraria as folhas do cofre e proceder à sua conferência pormenorizada;\n\ni) Controlar e verificar o fundo de maneio da tesouraria;\n\nj) Conferir e controlar regularmente a conta de depósitos à ordem;\n\nk) Elaborar listas dos cheques em movimento;\n\nl) Processar as requisições mensais de fundos da conta das dotações consignadas aos SSUP no Orçamento do Estado;\n\nm) Controlar as contas correntes com diversas entidades, tais como fornecedores, serviços, estudantes beneficiários dos auxílios e outros devedores e credores;\n\nn) Comunicar aos interessados as datas de pagamentos e elaborar o expediente geral relacionado com o seu funcionamento normal;\n\no) Compilar e estudar toda a legislação de interesse;\n\np) Elaborar e sistematizar dados e informações necessários a previsões financeiras;\n\nq) Executar as acções de controle que superiormente lhe forem cometidas.\n\n3 - Adstrita à secção dos serviços financeiros funciona a tesouraria, à qual compete:\n\na) Arrecadar e escriturar todas as receitas;\n\nb) Efectuar os pagamentos, depois de devidamente autorizados;\n\nc) Fornecer aos serviços competentes a indicação dos levantamentos e entradas de valores;\n\nd) Transferir para os cofres do Estado ou outras entidades, dentro dos prazos legais, as respectivas receitas, em conformidade com as guias ou relações organizadas pelos serviços;\n\ne) Manter rigorosamente actualizada a sua escrita, de modo a poder ser verificada, em qualquer altura, a exactidão dos fundos em cofre e em depósito;\n\nf) Proceder aos depósitos e levantamentos de fundos na respectiva instituição bancária;\n\ng) Remeter diariamente as folhas de cofre à secção dos serviços financeiros para verificação;\n\nh) Organizar e apresentar ao conselho administrativo o balancete referente à quinzena anterior."
+  },
+  "891540420": {
+   "fragment_id": "891541182",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n- 1 - A secção do património exerce as suas atribuições nos domínios do inventário e cadastro, da segurança das instalações e da gestão do parque automóvel.\n\n2 - À secção do património compete:\n\na) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos SSUP;\n\nb) Zelar pela segurança das instalações e conservação dos equipamentos;\n\nc) Gerir o parque automóvel dos SSUP;\n\nd) Elaborar anualmente os respectivos mapas de aumentos e abatimentos;\n\ne) Promover a entrega à entidade competente dos móveis considerados inúteis."
+  },
+  "891540421": {
+   "fragment_id": "891541183",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nÀ secção de pessoal compete:\n\na) Executar as acções administrativas e o expediente relativo ao recrutamento, selecção, provimento, promoção, transferência, exoneração, demissão e quaisquer outros assuntos relativos ao pessoal;\n\nb) Instruir e informar os processos relativos a diuturnidades, faltas e licenças, horas extraordinárias, vencimentos de exercício e deslocações em serviço;\n\nc) Elaborar e manter actualizado o cadastro de pessoal e relações mensais de assiduidade;\n\nd) Elaborar a lista de antiguidade do pessoal;\n\ne) Processar as folhas de vencimentos, salários, gratificações e outros abonos de pessoal;\n\nf) Prestar o apoio necessário à realização de acções de formação profissional de pessoal."
+  },
+  "891540422": {
+   "fragment_id": "891541184",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nÀ secção de expediente e assuntos gerais compete:\n\na) Assegurar a recepção, registo, expedição, distribuição e arquivo de toda a correspondência e estabelecer eficientes redes de comunicação interna e externa;\n\nb) Organizar e manter actualizado o arquivo geral;\n\nc) Promover a divulgação interna das normas, regulamentos e demais directivas superiores de carácter genérico;\n\nd) Assegurar o apoio dactilográfico e a execução das reproduções e duplicações necessárias ao funcionamento dos vários sectores;\n\ne) A gestão dos serviços de economato administrativo, tendo em vista a racionalização das aquisições, o controle dos stocks e a redução de custos;\n\nf) Superintender no pessoal auxiliar de limpeza, assegurando a organização do respectivo trabalho;\n\ng) Proceder à actualização de endereços, listas telefónicas e outras relações de interesse ao expediente;\n\nh) Assegurar o controle do chaveiro geral;\n\ni) Assegurar o fornecimento, controle e racionalização dos impressos utilizados nos vários sectores;\n\nj) O controle da pontualidade do pessoal;\n\nk) Assegurar o secretariado da direcção e o expediente da mesma."
+  },
+  "891540423": {
+   "fragment_id": "891541185",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nA Repartição de Aprovisionamento exerce a sua acção nos domínios das aquisições de géneros alimentares e materiais, gestão de stocks, conservação, manutenção e distribuição, é dirigida por um chefe de repartição e compreende:\n\na) A secção de compras;\n\nb) A secção de gestão de stocks e armazéns;\n\nc) A secção de distribuição;\n\nd) As lavandarias;\n\ne) As oficinas gerais."
+  },
+  "891540424": {
+   "fragment_id": "891541186",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nÀ secção de compras compete:\n\na) Proceder à prospecção de mercados, centralizando os processos de consulta e de aquisições, nos termos das disposições legais vigentes, nomeadamente em relação aos géneros alimentares e outros bens;\n\nb) Submeter a decisão superior os respectivos processos de consultas;\n\nc) Assegurar a aquisição dos bens necessários ao funcionamento dos vários sectores, em conformidade com os planos de abastecimentos em vigor e as requisições que forem apresentadas;\n\nd) Atender os fornecedores das diversas firmas antes e depois das adjudicações;\n\ne) Elaborar e manter actualizados os ficheiros de fornecedores;\n\nf) Colaborar na definição da política de compras dos SSUP e na elaboração de planos de abastecimentos;\n\ng) Elaborar o expediente necessário e os diversos mapas estatísticos."
+  },
+  "891540425": {
+   "fragment_id": "891541187",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nÀ secção de gestão de stocks e armazéns compete:\n\na) Proceder à armazenagem e conservação dos géneros, materiais e outros bens através da adopção de métodos convenientes;\n\nb) Assegurar a existência de stocks mínimos que garantam o funcionamento dos vários sectores;\n\nc) Registar convenientemente todas as entradas e saídas dos géneros e outros bens, assim como criar os controles necessários;\n\nd) Adoptar uma gestão e organização administrativa de stocks que se adeqúe ao movimento do armazém;\n\ne) Efectuar previsões de fornecimentos e consumos, assim como calcular quantidades económicas de encomenda e fornecer as mesmas à secção de compras;\n\nf) Fornecer aos vários sectores, mediante requisição, os géneros e materiais requisitados, de acordo com calendários de fornecimentos por si estabelecidos;\n\ng) Criar e manter actualizados ficheiros de stocks que permitam realizar o inventário permanente das existências no armazém;\n\nh) Efectuar os registos contabilísticos de todo o movimento de armazém, de acordo com as normas e critérios definidos pelo responsável da secção de contabilidade e orçamento;\n\ni) Remeter para os serviços competentes, em tempo oportuno e devidamente conferida e sistematizada, toda a documentação justificativa das despesas efectuadas;\n\nj) Gerir convenientemente o fundo de maneio para acorrer a pagamentos urgentes e de pronto pagamento;\n\nl) Elaborar periodicamente os inventários de existências;\n\nm) Assegurar o bom funcionamento dos armazéns de frio;\n\nn) Elaborar o expediente e os mapas estatísticos necessários."
+  },
+  "891540426": {
+   "fragment_id": "891541188",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA secção de distribuição compete:\n\na) Assegurar o transporte de mercadorias e materiais dos locais de aquisição para os armazéns dos SSUP;\n\nb) Distribuir pelos vários sectores os bens requisitados;\n\nc) Assegurar qualquer outro serviço de transporte que lhe seja solicitado;\n\nd) Zelar pela manutenção e conservação das viaturas que estiverem ao seu serviço, nomeadamente através de revisões periódicas;\n\ne) Fornecer aos serviços competentes dados estatísticos sobre consumos e quilometragem das viaturas;\n\nf) Estudar e implementar circuitos de distribuição adequados."
+  },
+  "891540427": {
+   "fragment_id": "891541189",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nÀs lavandarias compete:\n\na) Executar as tarefas de lavagem e tratamento de roupas dos alunos, dos trabalhadores dos SSUP e dos estabelecimentos de ensino superior do Porto, assim como proceder à desinfecção das respectivas máquinas;\n\nb) Zelar pela conservação do equipamento e das instalações que lhes forem afectas;\n\nc) Enviar aos serviços competentes os elementos necessários à apreciação do controle e funcionamento dos respectivos serviços."
+  },
+  "891540428": {
+   "fragment_id": "891541190",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n- 1 - As oficinas gerais compreendem as seguintes oficinas:\n\na) Carpintaria;\n\nb) Serralharia;\n\nc) Pichelaria;\n\nd) Electricidade;\n\ne) Construção civil;\n\nf) Mecânica de gás e electrodomésticos.\n\n2 - Às oficinas gerais compete:\n\na) Velar pela conservação, manutenção e aproveitamento de todo o equipamento, maquinaria, mobiliário e outros materiais existentes nos vários sectores, assim como das respectivas instalações;\n\nb) Proceder à prospecção de mercados, centralizando os processos de consulta e de aquisições, nos termos das disposições legais em vigor, em relação a materiais de construção e equipamentos necessários ao funcionamento dos serviços, como maquinaria, mobiliário, etc.;\n\nc) Submeter a decisão superior os processos de consulta;\n\nd) Providenciar para que exista um stock mínimo de materiais e equipamentos indispensáveis ao bom andamento dos serviços;\n\ne) Zelar pela conservação e manutenção do equipamento, ferramentas e instalações que lhes estão confiados;\n\nf) Manter actualizado um ficheiro de trabalhos executados e a executar, com indicação de mão-de-obra e materiais utilizados;\n\ng) Criar e manter actualizado um ficheiro de stocks, que permita realizar o inventário permanente de todas as existências no seu armazém;\n\nh) Remeter para os serviços competentes, em tempo oportuno e devidamente registada, toda a documentação justificativa das despesas realizadas;\n\ni) Gerir, de modo adequado, o fundo de maneio à sua responsabilidade para ocorrer a pequenas despesas;\n\nj) Elaborar periodicamente os inventários de existências;\n\nl) Enviar aos serviços competentes os elementos necessários à elaboração de programas de investimento a executar em cada ano;\n\nm) Elaborar o expediente necessário e os respectivos mapas estatísticos."
+  },
+  "891540429": {
+   "fragment_id": "891541191",
+   "type": 1,
+   "heading": "Capítulo III — Da administração financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da administração financeira e patrimonial"
+  },
+  "891540430": {
+   "fragment_id": "891541192",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n- 1 - Os SSUP arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.\n\n2 - Constituem receitas dos SSUP:\n\na) As dotações que lhes sejam atribuídas no Orçamento do Estado;\n\nb) Os rendimentos dos bens que possuírem a qualquer título;\n\nc) O produto dos serviços prestados;\n\nd) O produto da venda de material inservível ou da alienação de bens próprios;\n\ne) Os subsídios, comparticipações, heranças, doações e legados concedidos por quaisquer entidades;\n\nf) Os juros das importâncias depositadas;\n\ng) Os saldos da conta de gerência do ano anterior;\n\nh) Quaisquer outras receitas que por lei, contrato ou a outro título lhes sejam atribuídas.\n\n3 - As receitas referidas nas alíneas b) a h) serão entregues nos cofres do Estado e escrituradas em contas de ordem no Orçamento do Estado, devendo ser movimentadas nos termos da lei geral aplicável."
+  },
+  "891540431": {
+   "fragment_id": "891541193",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n- 1 - As disponibilidades dos SSUP serão depositadas na Caixa Geral de Depósitos ou nas restantes instituições de crédito, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.\n\n2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos respectivos recibos devidamente legalizados."
+  },
+  "891540432": {
+   "fragment_id": "891541194",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nA gestão económica e financeira dos SSUP será disciplinada pelos seguintes instrumentos de previsão:\n\na) Planos de actividades e financeiros anuais e plurianuais;\n\nb) Orçamentos privativos anuais e suas utilizações."
+  },
+  "891540433": {
+   "fragment_id": "891541195",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n- 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo dos SSUP promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.\n\n2 - O orçamento privativo será submetido à aprovação do Ministro da Educação, após apreciação do conselho geral e do CASES, e ao visto do Ministro das Finanças e do Plano, nos prazos legais.\n\n3 - Os SSUP poderão submeter a aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento, quer a ocorrer a despesas nele não previstas, quer ainda para fins de alteração de rubricas."
+  },
+  "891540434": {
+   "fragment_id": "891541196",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nO conselho administrativo dos SSUP requisitará, mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais inscritas no Orçamento do Estado e das constantes em contas de ordem."
+  },
+  "891540435": {
+   "fragment_id": "891541197",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nOs SSUP gozam da isenção de custas, encargos fiscais e licenças administrativas."
+  },
+  "891540436": {
+   "fragment_id": "891541198",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nOs SSUP gozam das vantagens que a Manutenção Militar tem em matéria de aquisição de géneros alimentícios e outros produtos."
+  },
+  "891540437": {
+   "fragment_id": "891541199",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nNos contratos em que sejam outorgantes os SSUP, servirá de oficial público o chefe da Repartição Administrativa ou, nas suas faltas e impedimentos, o funcionário responsável pela secção do património."
+  },
+  "891540438": {
+   "fragment_id": "891541200",
+   "type": 1,
+   "heading": "Capítulo IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do pessoal"
+  },
+  "891540439": {
+   "fragment_id": "891541201",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n- 1 - Os SSUP dispõem do quadro de pessoal anexo ao presente diploma.\n\n2 - Sempre que as circunstâncias o justifiquem, poderá o quadro de pessoal dos SSUP ser revisto, por proposta do CASES, mediante portaria conjunta dos Ministros da Educação e das Finanças e do Plano e do Secretário de Estado da Administração Pública."
+  },
+  "891540440": {
+   "fragment_id": "891541202",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nO quadro de pessoal dos SSUP compreenderá os seguintes grupos profissionais:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal de enfermagem;\n\ne) Pessoal técnico-profissional e administrativo;\n\nf) Pessoal operário e auxiliar."
+  },
+  "891540441": {
+   "fragment_id": "891541203",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n- 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.\n\n2 - Findo o prazo referido no número anterior, o funcionário:\n\na) Será provido definitivamente, se tiver revelado aptidão para o lugar;\n\nb) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou comissão de serviço, se não tiver revelado aptidão para o lugar.\n\n3 - Se o funcionário a nomear já tiver provimento definitivo noutro lugar da função pública, poderá ser, desde logo, provido definitivamente nos casos em que exerça funções da mesma natureza.\n\n4 - O disposto no número anterior não prejudica a nomeação em comissão de serviço, por um período a determinar até ao limite fixado no n.º 1, com base na opção do funcionário ou por conveniência da Administração.\n\n5 - O tempo de serviço em regime de comissão de serviço conta, para todos os efeitos legais:\n\na) No lugar de origem, quando à comissão se não seguir provimento definitivo;\n\nb) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão."
+  },
+  "891540442": {
+   "fragment_id": "891541204",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nAs formas de recrutamento e o regime de provimento do pessoal dirigente são os previstos no Decreto-Lei n.º 191-F/79, de 26 de Junho."
+  },
+  "891540443": {
+   "fragment_id": "891541205",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nO preenchimento dos lugares de chefe de repartição far-se-á de entre chefes de secção com pelo menos 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos com curso superior adequado de reconhecida competência para o exercício do cargo."
+  },
+  "891540444": {
+   "fragment_id": "891541206",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nOs lugares de assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos nos termos previstos na lei geral de entre os indivíduos habilitados com licenciatura adequada."
+  },
+  "891540445": {
+   "fragment_id": "891541207",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nOs lugares de técnico principal, de 1.ª classe e de 2.ª classe serão providos nos termos da lei geral."
+  },
+  "891540446": {
+   "fragment_id": "891541208",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n- 1 - Os lugares de técnico de contabilidade e administração principal e de técnico de contabilidade e administração de 1.ª classe serão providos de entre, respectivamente, os técnicos de contabilidade e administração de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico de contabilidade e administração de 2.ª classe serão providos de entre os habilitados com o curso superior de Contabilidade e Administração."
+  },
+  "891540447": {
+   "fragment_id": "891541209",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n- 1 - Os lugares de nutricionista principal e de nutricionista de 1.ª classe serão providos de entre, respectivamente, os nutricionistas de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de nutricionista de 2.ª classe serão providos de entre habilitados com o curso superior de Nutricionismo ou equiparado."
+  },
+  "891540448": {
+   "fragment_id": "891541210",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n- 1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe serão providos de entre, respectivamente, os técnicos de serviço social de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico de serviço social de 2.ª classe serão providos de entre habilitados com o curso superior de Serviço Social ou equiparado."
+  },
+  "891540449": {
+   "fragment_id": "891541211",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nO recrutamento, ingresso e acesso do pessoal de enfermagem são os previstos no Decreto-Lei n.º 178/85, de 23 de Maio."
+  },
+  "891540450": {
+   "fragment_id": "891541212",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n- 1 - O ingresso e acesso nas carreiras de pessoal técnico-profissional e administrativo estão condicionados ao disposto na lei geral.\n\n2 - Os lugares de chefe de secção serão recrutados de entre:\n\na) Primeiros-oficiais ou técnicos auxiliares principais com um mínimo de 3 anos de bom e efectivo serviço que tenham revelado capacidade para o exercício de funções de coordenação e chefia;\n\nb) Indivíduos habilitados com um curso superior adequado.\n\n3 - Os lugares de primeiro-oficial e de segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral dos liceus e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.\n\n4 - Os lugares de terceiro-oficial serão providos nos termos previstos na lei geral.\n\n5 - Os lugares de tesoureiro serão providos nos termos da lei-geral.\n\n6 - O tesoureiro tem direito a um abono para falhas no montante de 10% do vencimento mensal ilíquido correspondente à categoria de tesoureiro de 2.ª classe.\n\n7 - O recrutamento para os lugares de técnico auxiliar de 2.ª classe far-se-á de entre habilitados com o curso geral do ensino secundário ou equiparado com conhecimentos profissionais adequados.\n\n8 - O acesso às categorias de técnico auxiliar principal e de técnico auxiliar de 1.ª classe far-se-á de entre técnicos auxiliares de 1.ª classe e de 2.ª classe, respectivamente, com o mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n9 - O recrutamento, ingresso e acesso do pessoal da carreira de secretário-recepcionista e auxiliar técnico administrativo são os constantes da lei geral.\n\n10 - O recrutamento para os lugares de escriturário-dactilógrafo far-se-á nos termos da lei geral."
+  },
+  "891540451": {
+   "fragment_id": "891541213",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n- 1 - O recrutamento, ingresso e acesso do pessoal operário regem-se pelo disposto na lei geral e na Portaria n.º 739/79, de 31 de Dezembro.\n\n2 - O recrutamento para encarregado de refeitório far-se-á de entre cozinheiros principais com 3 anos de serviço na categoria e classificação de serviço não inferior a Bom, ou, na sua falta, de entre encarregados de bar/snack ou cozinheiros de 1.ª classe, em qualquer dos casos com, pelo menos, 6 anos de serviço na categoria e classificação não inferior a Bom.\n\n3 - O recrutamento de encarregados de armazém far-se-á de entre fiéis de armazém principais com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou, na sua falta, de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e experiência adequada ao exercício do cargo.\n\n4 - O recrutamento de encarregados de bar/snack far-se-á de entre empregados de bar/snack de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou, na sua falta, de entre habilitados com o curso profissional adequado e experiência profissional adequada.\n\n5 - As carreiras de cozinheiro, cortador de carnes, fiel de armazém, empregado de bar/snack, auxiliar de alimentação, operador de lavandaria, operador de caixa, empregado de andar/quartos, operador de reprografia e auxiliar de armazém são carreiras horizontais, cujo recrutamento obedecerá às seguintes regras:\n\na) O ingresso na categoria mais baixa da respectiva carreira fica condicionado à prestação de provas e far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e experiência adequada;\n\nb) O acesso fica condicionado à permanência de 5 anos de bom e efectivo serviço na categoria anterior;\n\nc) Os lugares de cozinheiro principal são recrutados de entre cozinheiros de 1.ª classe com, pelo menos, 3 anos na categoria e mediante provas de selecção.\n\n6 - O recrutamento de governante de residência far-se-á mediante prestação de provas de entre empregados de andar/quartos de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço na categoria."
+  },
+  "891540452": {
+   "fragment_id": "891541214",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n- 1 - Os lugares de motorista, telefonista, contínuo e guarda serão providos nos termos da lei geral.\n\n2 - O provimento dos lugares de auxiliar de manutenção, bem como a progressão na respectiva carreira, far-se-á de acordo com o disposto na lei geral."
+  },
+  "891540453": {
+   "fragment_id": "891541215",
+   "type": 1,
+   "heading": "Capítulo V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições transitórias e finais"
+  },
+  "891540454": {
+   "fragment_id": "891541216",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n- 1 - A integrarão do pessoal que se encontra a prestar serviço a qualquer título nos SSUP que esteja abrangido pelo disposto no artigo 40.º do Decreto-Lei n.º 132/80, de 17 de Maio, em lugares do quadro anexo ao presente diploma far-se-á por diploma individual de provimento, de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o funcionário ou agente já possui;\n\nb) Para categoria correspondente às funções que o funcionário ou agente desempenha, remuneradas pela mesma letra de vencimento ou por letra de vencimento imediatamente superior, quando não se verifique coincidência de remuneração, sem prejuízo das habilitações legalmente exigidas;\n\nc) Para categoria que resulte da aplicação da tabela de equivalência constante do mapa anexo ao presente diploma, sem prejuízo das habilitações legalmente exigidas.\n\n2 - O disposto nas alíneas a) e b) do n.º 1 apenas é aplicável aos funcionários e agentes da Administração Pública.\n\n3 - O disposto na alínea c) do n.º 1 apenas é aplicável aos trabalhadores contratados nos termos da lei geral do trabalho.\n\n4 - Transitam para os lugares de chefe de secção e chefe de repartição constantes do quadro anexo ao presente diploma os funcionários administrativos que vêm desempenhando efectivamente essas funções nos SSUP, nos termos da alínea b) do n.º 1.\n\n5 - O pessoal não abrangido pelo artigo 40.º do Decreto-Lei n.º 132/80, de 17 de Maio, que esteja a prestar serviço nos SSUP à data da entrada em vigor do presente diploma, transita para lugares do quadro anexo de acordo com o disposto nas alíneas a), b) e c) do n.º 1, sem prejuízo do disposto no artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro.\n\n6 - Ao pessoal provido nos termos do disposto nas alíneas a) e b) do n.º 1 será contado, para todos os efeitos legais, o tempo de serviço prestado, quer no Centro Universitário do Porto e nos SSUP, quer em actividades que se encontrem integradas nesses serviços, na qualidade de funcionário ou agente.\n\n7 - Para efeitos de progressão na carreira apenas contará o tempo de serviço prestado em categoria de conteúdo funcional idêntico ao da categoria de transição.\n\n8 - O pessoal provido nos termos do disposto na alínea c) do n.º 1 fica abrangido pelos estatutos de aposentação e de pensão de sobrevivência em vigor na função pública, sendo-lhe contado o tempo de serviço prestado quer no Centro Universitário do Porto ou nos SSUP quer em actividades que se encontrem integradas nesses serviços, bem como para efeitos de diuturnidades.\n\n9 - As regras de transição para o regime referido no número anterior serão fixadas em decreto regulamentar dos Ministérios das Finanças e do Plano e do Trabalho e Segurança Social e da Secretaria de Estado da Administração Pública."
+  },
+  "891540455": {
+   "fragment_id": "891541217",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nO pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUP ao abrigo da legislação geral do trabalho à data da entrada em vigor do presente diploma, opte pela não integração ou não possa ser integrado no quadro anexo a este diploma será remunerado com vencimentos e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores."
+  },
+  "891540456": {
+   "fragment_id": "891541218",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nO primeiro preenchimento no cargo de director dos Serviços de Apoio será feito pelo funcionário licenciado que à data da entrada em vigor do presente diploma desempenha as respectivas funções."
+  },
+  "891540457": {
+   "fragment_id": "891541219",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nOs encargos resultantes da aplicação do presente diploma serão suportados pelas dotações do orçamento privativo dos SSUP."
+  },
+  "891540459": {
+   "fragment_id": "891541221",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal (a que se refere o n.º 1 do artigo 43.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal (a que se refere o n.º 1 do artigo 43.º)\n\n(ver documento original)\n\nTabela de equivalência [a que se refere a alínea c) do n.º 1 do artigo 57.º]\n\n(ver documento original)\n\n> Nota: [Declaração - Diário da República n.º 301/1985, 2º Suplemento, Série I de 1985-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-546407) Na tabela de equivalências, onde se lê «Empregado de lavandaria/rouparia - Operador de lavandaria de 1.ª classe» deve ler-se «Encarregado de lavandaria/rouparia - Operador de lavandaria de 1.ª classe»."
+  },
+  "891540460": {
+   "fragment_id": "891541224",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs SSUP compreendem:\n\na) Os Serviços Operativos;\n\nb) Os Serviços de Apoio."
+  },
+  "894136965": {
+   "fragment_id": "891541203",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 45.º\n\n- 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.\n\n2 - Findo o prazo referido no número anterior, o funcionário:\n\na) Será provido definitivamente, se tiver revelado aptidão para o lugar;\n\nb) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou comissão de serviço, se não tiver revelado aptidão para o lugar.\n\n3 - Se o funcionário a nomear já tiver provimento definitivo noutro lugar da função pública, poderá ser, desde logo, provido definitivamente nos casos em que exerça funções da mesma natureza.\n\n4 - O disposto no número anterior não prejudica a nomeação em comissão de serviço, por um período a determinar até ao limite fixado no n.º 1, com base na opção do funcionário ou por conveniência da Administração.\n\n5 - O tempo de serviço em regime de comissão de serviço conta, para todos os efeitos legais:\n\na) No lugar de origem, quando à comissão se não seguir provimento definitivo;\n\nb) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136966": {
+   "fragment_id": "891541204",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 46.º\n\nAs formas de recrutamento e o regime de provimento do pessoal dirigente são os previstos no Decreto-Lei n.º 191-F/79, de 26 de Junho.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136967": {
+   "fragment_id": "891541205",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 47.º\n\nO preenchimento dos lugares de chefe de repartição far-se-á de entre chefes de secção com pelo menos 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos com curso superior adequado de reconhecida competência para o exercício do cargo.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136968": {
+   "fragment_id": "891541206",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 48.º\n\nOs lugares de assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos nos termos previstos na lei geral de entre os indivíduos habilitados com licenciatura adequada.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136969": {
+   "fragment_id": "891541207",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 49.º\n\nOs lugares de técnico principal, de 1.ª classe e de 2.ª classe serão providos nos termos da lei geral.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136970": {
+   "fragment_id": "891541208",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 50.º\n\n- 1 - Os lugares de técnico de contabilidade e administração principal e de técnico de contabilidade e administração de 1.ª classe serão providos de entre, respectivamente, os técnicos de contabilidade e administração de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico de contabilidade e administração de 2.ª classe serão providos de entre os habilitados com o curso superior de Contabilidade e Administração.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136971": {
+   "fragment_id": "891541209",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 51.º\n\n- 1 - Os lugares de nutricionista principal e de nutricionista de 1.ª classe serão providos de entre, respectivamente, os nutricionistas de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de nutricionista de 2.ª classe serão providos de entre habilitados com o curso superior de Nutricionismo ou equiparado.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136972": {
+   "fragment_id": "891541210",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 52.º\n\n- 1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe serão providos de entre, respectivamente, os técnicos de serviço social de 1.ª classe e de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico de serviço social de 2.ª classe serão providos de entre habilitados com o curso superior de Serviço Social ou equiparado.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136973": {
+   "fragment_id": "891541211",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 53.º\n\nO recrutamento, ingresso e acesso do pessoal de enfermagem são os previstos no Decreto-Lei n.º 178/85, de 23 de Maio.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894136974": {
+   "fragment_id": "891541212",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 54.º\n\n- 1 - O ingresso e acesso nas carreiras de pessoal técnico-profissional e administrativo estão condicionados ao disposto na lei geral.\n\n2 - Os lugares de chefe de secção serão recrutados de entre:\n\na) Primeiros-oficiais ou técnicos auxiliares principais com um mínimo de 3 anos de bom e efectivo serviço que tenham revelado capacidade para o exercício de funções de coordenação e chefia;\n\nb) Indivíduos habilitados com um curso superior adequado.\n\n3 - Os lugares de primeiro-oficial e de segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral dos liceus e terceiros-oficiais com, pelo menos, 3 anos de bom e efectivo serviço na categoria.\n\n4 - Os lugares de terceiro-oficial serão providos nos termos previstos na lei geral.\n\n5 - Os lugares de tesoureiro serão providos nos termos da lei-geral.\n\n6 - O tesoureiro tem direito a um abono para falhas no montante de 10% do vencimento mensal ilíquido correspondente à categoria de tesoureiro de 2.ª classe.\n\n7 - O recrutamento para os lugares de técnico auxiliar de 2.ª classe far-se-á de entre habilitados com o curso geral do ensino secundário ou equiparado com conhecimentos profissionais adequados.\n\n8 - O acesso às categorias de técnico auxiliar principal e de técnico auxiliar de 1.ª classe far-se-á de entre técnicos auxiliares de 1.ª classe e de 2.ª classe, respectivamente, com o mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n9 - O recrutamento, ingresso e acesso do pessoal da carreira de secretário-recepcionista e auxiliar técnico administrativo são os constantes da lei geral.\n\n10 - O recrutamento para os lugares de escriturário-dactilógrafo far-se-á nos termos da lei geral.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894206575": {
+   "fragment_id": "891541213",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 55.º\n\n- 1 - O recrutamento, ingresso e acesso do pessoal operário regem-se pelo disposto na lei geral e na Portaria n.º 739/79, de 31 de Dezembro.\n\n2 - O recrutamento para encarregado de refeitório far-se-á de entre cozinheiros principais com 3 anos de serviço na categoria e classificação de serviço não inferior a Bom, ou, na sua falta, de entre encarregados de bar/snack ou cozinheiros de 1.ª classe, em qualquer dos casos com, pelo menos, 6 anos de serviço na categoria e classificação não inferior a Bom.\n\n3 - O recrutamento de encarregados de armazém far-se-á de entre fiéis de armazém principais com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou, na sua falta, de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e experiência adequada ao exercício do cargo.\n\n4 - O recrutamento de encarregados de bar/snack far-se-á de entre empregados de bar/snack de 1.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou, na sua falta, de entre habilitados com o curso profissional adequado e experiência profissional adequada.\n\n5 - As carreiras de cozinheiro, cortador de carnes, fiel de armazém, empregado de bar/snack, auxiliar de alimentação, operador de lavandaria, operador de caixa, empregado de andar/quartos, operador de reprografia e auxiliar de armazém são carreiras horizontais, cujo recrutamento obedecerá às seguintes regras:\n\na) O ingresso na categoria mais baixa da respectiva carreira fica condicionado à prestação de provas e far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e experiência adequada;\n\nb) O acesso fica condicionado à permanência de 5 anos de bom e efectivo serviço na categoria anterior;\n\nc) Os lugares de cozinheiro principal são recrutados de entre cozinheiros de 1.ª classe com, pelo menos, 3 anos na categoria e mediante provas de selecção.\n\n6 - O recrutamento de governante de residência far-se-á mediante prestação de provas de entre empregados de andar/quartos de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço na categoria.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "894206576": {
+   "fragment_id": "891541214",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 56.º\n\n- 1 - Os lugares de motorista, telefonista, contínuo e guarda serão providos nos termos da lei geral.\n\n2 - O provimento dos lugares de auxiliar de manutenção, bem como a progressão na respectiva carreira, far-se-á de acordo com o disposto na lei geral.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01"
+  },
+  "891540458": {
+   "fragment_id": "891541220",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes Alípio Barrosa Pereira Dias - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 8 de Outubro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 10 de Outubro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

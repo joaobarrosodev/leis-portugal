@@ -1,0 +1,1371 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:313845:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-1055633914",
+ "dre_path": "/dr/detalhe/decreto-lei/11-1990-313845",
+ "source_lastmod": "2026-03-17",
+ "versions": [
+  {
+   "date": "1990-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:307452:por",
+     "title": "Declaração",
+     "published": "1990-02-28",
+     "dre_path": "/dr/detalhe/declaracao/1990-307452"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "1071352375",
+    "1071351375",
+    "1071349475",
+    "1055717275",
+    "1055717475",
+    "1055717675",
+    "1055717875",
+    "1055718075",
+    "1055718275",
+    "1071352575",
+    "1055718675",
+    "1055718875",
+    "1055719075",
+    "1055719275",
+    "1055719475",
+    "1055719675",
+    "1055719875",
+    "1055720075",
+    "1055720275",
+    "1055720475",
+    "1055720675",
+    "1055720875",
+    "1055721075",
+    "1055721275",
+    "1055721475",
+    "1055721675",
+    "1055721875",
+    "1055722075",
+    "1055722275",
+    "1055722475",
+    "1055722675",
+    "1055722875",
+    "1055723075",
+    "1055723275",
+    "1055723475",
+    "1055723675",
+    "1055723875",
+    "1055724075",
+    "1055724275",
+    "1055724475",
+    "1055724675",
+    "1055724875",
+    "1055725075",
+    "1055725275",
+    "1055725475",
+    "1055725675",
+    "1055725875",
+    "1055726075",
+    "1055726275",
+    "1055726475",
+    "1055726675",
+    "1055726875",
+    "1055727075",
+    "1055727275",
+    "1055727475",
+    "1055727675",
+    "1055727875",
+    "1055728075",
+    "1055728275",
+    "1055728475",
+    "1055728675",
+    "1055728875",
+    "1055729075",
+    "1055729275",
+    "1055729475",
+    "1055729675"
+   ]
+  },
+  {
+   "date": "2008-01-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:641445:por",
+     "title": "Decreto-Lei n.º 344/2007",
+     "published": "2007-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/344-2007-641445"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1073067775",
+    "1073067975",
+    "1073068075",
+    "1073068175",
+    "1073068275",
+    "1073068375",
+    "1073068475",
+    "1073068575",
+    "1073068675",
+    "1073068775",
+    "1073068875",
+    "1073068975",
+    "1073069075",
+    "1073071175",
+    "1073071275",
+    "1073071375",
+    "1073071475",
+    "1073071575",
+    "1073071675",
+    "1073071775",
+    "1073071875",
+    "1073071975",
+    "1073072075",
+    "1073072175",
+    "1073072275",
+    "1073072375",
+    "1073072475",
+    "1073072575",
+    "1073072675",
+    "1073072775",
+    "1073072875",
+    "1073072975",
+    "1073073075",
+    "1073073175",
+    "1073073275",
+    "1073073375",
+    "1073073475",
+    "1073073575",
+    "1073073675",
+    "1073073775",
+    "1073073875",
+    "1073073975",
+    "1073074075",
+    "1073074175",
+    "1073074275",
+    "1073074375",
+    "1073074475",
+    "1073074575",
+    "1073074675",
+    "1073074775",
+    "1073074875",
+    "1073074975",
+    "1073075075",
+    "1073075175",
+    "1073075275",
+    "1073075375",
+    "1073075475",
+    "1073075575",
+    "1073075675",
+    "1073075775",
+    "1073075875",
+    "1073075975",
+    "1073076075",
+    "1073076175",
+    "1073076275",
+    "1073076375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1071352375": {
+   "fragment_id": "1055716975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452)."
+   ],
+   "markdown": "A segurança das barragens constitui uma preocupação permanente para as entidades públicas e privadas, dados os riscos potenciais que representam as possibilidades de ruptura ou outro acidente grave, em termos de vidas humanas e de custos económicos.\n\nHá muito que se reconhece a necessidade de dotar a nossa ordem jurídica de regulamentação específica em matéria de segurança de barragens que complementasse a legislação existente.\n\nO presente diploma estabelece as formas de controlo de segurança das barragens, nomeadamente nas fases de projecto, construção, primeiro enchimento da albufeira, exploração, abandono e demolição, contemplando em especial a matéria da observação das barragens e medidas de protecção civil com elas relacionadas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Diploma, Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452) A retificação ao presente ato, produz efeitos no prazo de seis meses, a contar da publicação (1-06-1990) deste .\n\n> Retificado pelo/a [Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452)."
+  },
+  "1071351375": {
+   "fragment_id": "1071351275",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Regulamento de Segurança de Barragens, que é publicado em anexo e faz parte integrante do presente diploma."
+  },
+  "1071349475": {
+   "fragment_id": "1071349375",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor seis meses após a data da sua publicação."
+  },
+  "1055717275": {
+   "fragment_id": "1055717175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 14 de Dezembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Dezembro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1055717475": {
+   "fragment_id": "1055717375",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Segurança de Barragens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento de Segurança de Barragens"
+  },
+  "1055717675": {
+   "fragment_id": "1055717575",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "1055717875": {
+   "fragment_id": "1055717775",
+   "type": 8,
+   "heading": "Secção I — Objecto, âmbito e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objecto, âmbito e definições"
+  },
+  "1055718075": {
+   "fragment_id": "1055717975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto a segurança de barragens durante as fases de projecto, construção, primeiro enchimento, exploração e abandono."
+  },
+  "1055718275": {
+   "fragment_id": "1055718175",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente Regulamento aplica-se:\n\na) A todas as barragens de altura superior a 15 m, medida desde a parte mais baixa da superfície geral das fundações até ao coroamento;\n\nb) Às barragens de altura inferior a 15 m cuja albufeira tenha uma capacidade superior a 100000 m3.\n\n2 - Poderão ainda ser sujeitas às disposições do presente Regulamento outras barragens, desde que, no acto de aprovação de projectos de aproveitamento de águas públicas ou particulares, a entidade competente verifique a existência de risco potencial elevado ou significativo.\n\n3 - As disposições do presente Regulamento são aplicáveis, com as devidas adaptações, às obras a cargo do Estado."
+  },
+  "1071352575": {
+   "fragment_id": "1055718375",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "1990-02-28",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452), em vigor a partir de 1990-02-28."
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Abandono - fase da vida da obra em que esta deixa de ser explorada;\n\nb) Acidente - ocorrência excepcional relativa ao comportamento da barragem, cuja evolução não controlada é susceptível de conduzir à ruptura de uma ou mais componentes estruturais, podendo originar uma onda de inundação;\n\nc) Albufeira - quer o volume de água retido pela barragem (conteúdo), quer o terreno que circunda o mesmo volume (continente), quer ambos, devendo o sentido, em cada caso, ser deduzido do contexto;\n\nd) Barragem - conjunto formado pelo corpo da barragem propriamente dita, sua fundação, zona vizinha a jusante, órgãos de segurança e exploração e albufeira;\n\ne) Catástrofe - ocorrência excepcional afectando grande número de pessoas, provocando vítimas, prejuízos materiais avultados e ultrapassando a capacidade da comunidade atingida para lhe fazer face;\n\nf) Cenários - situações que devem ser encaradas para avaliação das condições de segurança das obras e que se classificam em duas categorias, conforme correspondam às condições de uso normal das estruturas (cenários correntes) ou sejam associados a uma ocorrência excepcional (cenários de ruptura);\n\ng) Circunstâncias anómalas - factos ligados às acções, à exploração ou às características estruturais que se traduzem em comportamentos que não se enquadram na evolução prevista;\n\nh) Conservação - medidas especiais definidas de acordo com o comportamento observado e destinadas a manter ou repor as condições de funcionalidade das estruturas e dos equipamentos;\n\ni) Construção - fase da vida da obra em que se executam os trabalhos projectados de acordo com normas visando a qualidade da obra e, nomeadamente, as condições de segurança;\n\nj) Controlo de segurança - conjunto de medidas a tomar nas várias fases da vida da obra e contemplando aspectos estruturais, hidráulicos, operacionais e ambientais, com vista ao conhecimento adequado e continuado do estado da barragem, à detecção oportuna de eventuais anomalias e a uma intervenção eficaz sempre que esta se revele necessária;\n\nl) Controlo expedito de segurança - verificação que incide na análise de um conjunto restrito de grandezas representativas do comportamento e em inspecções cuja periodicidade será adequada à natureza das obras e à evolução das acções;\n\nm) Critérios de dimensionamento - princípios relativos à segurança, funcionalidade, durabilidade e economia que orientam o dimensionamento das obras;\n\nn) Demolição - destruição de uma obra ou de parte dela, planeada e executada de acordo com as necessárias condições de segurança, visando repor, na medida do possível, as condições existentes antes da construção;\n\no) Director técnico da obra - responsável técnico pela boa condução dos trabalhos de construção, de acordo com o projecto aprovado;\n\np) Dono da obra - entidade responsável pela obra perante a Administração Pública;\n\nq) Esvaziamento rápido da albufeira - esvaziamento da albufeira a uma velocidade tal que as pressões neutras resultantes podem pôr em perigo a estabilidade da barragem;\n\nr) Exploração - fase da vida da obra em que esta é utilizada de acordo com os objectivos que levaram à sua construção;\n\ns) Incidente - anomalia susceptível de afectar, a curto ou longo prazo, a funcionalidade da obra e que implica a tomada de medidas de conservação;\n\nt) Manutenção - conjunto de medidas de rotina destinado a garantir as condições de funcionalidade das obras e dos equipamentos e aplicado independentemente do comportamento observado;\n\nu) Modelo - representação das obras projectadas ou construídas, das acções e dos comportamentos que permite simular a realidade para avaliação da sua segurança;\n\nv) Ocorrência excepcional - facto não previsto, ou apenas previsível para um período de recorrência muito superior ao da vida da obra, em regra de desenvolvimento rápido, relativo a acções, às características das estruturas, a materiais ou à exploração da obra;\n\nx) Onda de inundação - onda de cheia resultante de um acidente, que pode provocar vítimas e prejuízos económicos e afectar o ambiente;\n\nz) Patamar de enchimento - período de tempo, no decurso do enchimento de uma albufeira, durante o qual se impõe um nível de água aproximadamente constante, com o objectivo de realizar as inspecções e a avaliação da segurança previstas no plano de primeiro enchimento;\n\naa) Plano de observação - documento de carácter vinculativo no qual se baseia o controlo de segurança estrutural;\n\nbb) Primeiro enchimento - fase da vida da obra durante a qual pela primeira vez o nível da água na albufeira sobe até ao nível máximo de exploração e em que deve ser verificada a normalidade do comportamento da barragem e a fiabilidade dos equipamentos;\n\ncc) Programa de enchimento da albufeira - planeamento do modo e dos prazos de enchimento da albufeira, a estabelecer de acordo com os caudais previsíveis e com as necessidades do controlo de segurança;\n\ndd) Projecto - conjunto de documentos que permitem a definição e o dimensionamento da obra e o esclarecimento das suas condições de execução e de exploração;\n\nee) Risco efectivo - produto do risco potencial pela probabilidade de ocorrência do acidente com ele relacionado;\n\nff) Risco potencial - quantificação das consequências de um acidente, independentemente da probabilidade da sua ocorrência, e que pode ser graduado nos seguintes níveis, de acordo com as perdas em vidas humanas e bens materiais:\n\nBaixo - na ausência de perdas de vidas humanas e custos materiais reduzidos;\n\nSignificativo - havendo perda de algumas vidas humanas e custos materiais relativamente importantes;\n\nElevado - quando haja lugar à perda de um número apreciável de vidas humanas e os custos materiais sejam altos;\n\ngg) Segurança (da barragem) - capacidade da barragem para satisfazer as exigências de comportamento necessárias para evitar incidentes e acidentes, e que se referem a aspectos estruturais, hidráulicos, operacionais e ambientais;\n\nhh) Segurança ambiental - capacidade da barragem para satisfazer as exigências de comportamento relativas à limitação de incidências prejudiciais sobre o ambiente, designadamente sobre os meios populacionais e produtivos;\n\nii) Segurança estrutural - capacidade da barragem para satisfazer as exigências de comportamento estrutural perante as acções e outras influências, associadas à construção e exploração e a ocorrências excepcionais;\n\njj) Segurança hidráulica - capacidade da barragem para satisfazer as exigências de comportamento hidráulico dos órgãos de segurança e exploração e dos sistemas de impermeabilização, de filtragem e de drenagem;\n\nll) Segurança operacional - capacidade da barragem para satisfazer as exigências de comportamento relacionadas com a operação e funcionalidade dos equipamentos dos órgãos de segurança e exploração;\n\nmm) Sistema de aviso e alerta - conjunto organizado de recursos humanos e meios técnicos que tem por funções divulgar as normas de procedimento a adoptar por uma população face a situações de perigo e manter informada a população da área eventualmente afectada da iminência, ocorrência ou evolução de uma situação de perigo;\n\nnn) Sistema de observação - conjunto de dispositivos montado para a observação da barragem;\n\noo) Técnico responsável pela exploração - técnico com formação profissional adequada à importância da obra, encarregado da exploração, nomeadamente nos aspectos de segurança;\n\npp) Vida da obra - período durante o qual a existência da barragem, ou de parte dela, implica um risco potencial e que abrange as fases que vão desde a construção ao abandono.\n\n> Nota: [Diploma, Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452) A retificação ao presente artigo, produz efeitos no prazo de seis meses, a contar da publicação (1-06-1990) do Decreto-Lei n.º 11/90.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452), em vigor a partir de 1990-02-28."
+  },
+  "1055718675": {
+   "fragment_id": "1055718575",
+   "type": 8,
+   "heading": "Secção II — Organização do controlo de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Organização do controlo de segurança"
+  },
+  "1055718875": {
+   "fragment_id": "1055718775",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades envolvidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades envolvidas\n\n1 - O controlo de segurança das barragens, que se exerce desde a fase de projecto e por toda a vida das obras, compete às entidades a seguir designadas, nos termos definidos pelo presente diploma.\n\n2 - As entidades envolvidas no controlo de segurança das barragens são:\n\na) A Direcção-Geral dos Recursos Naturais, como organismo da administração central com competência genérica de controlo de segurança das barragens e que por isso se designa no presente Regulamento por Autoridade;\n\nb) O Laboratório Nacional de Engenharia Civil (LNEC);\n\nc) O Serviço Nacional de Protecção Civil (SNPC);\n\nd) A Comissão de Segurança de Barragens (CSB), criada pelo presente diploma;\n\ne) O dono da obra."
+  },
+  "1055719075": {
+   "fragment_id": "1055718975",
+   "type": 11,
+   "heading": "Artigo 5.º — Autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autoridade\n\n1 - Em matéria de controlo de segurança compete à Autoridade, designadamente:\n\na) Pronunciar-se sobre os projectos das barragens, nos termos da legislação em vigor;\n\nb) Fiscalizar a construção das obras;\n\nc) Controlar as condições de comportamento e conservação das barragens.\n\n2 - Nas fases de projecto, construção e primeiro enchimento ou enchimento após esvaziamento prolongado da albufeira, compete à Autoridade:\n\na) Promover a intervenção do LNEC, nos termos do presente Regulamento;\n\nb) Aprovar os planos de observação das barragens;\n\nc) Aprovar a designação pelo dono da obra do director técnico da obra e dos seus substitutos autorizados, cuja qualificação profissional deve ser adequada à importância da obra;\n\nd) Aprovar os planos de primeiro enchimento das albufeiras;\n\ne) Definir, em colaboração com o SNPC, os casos em que são necessários o planeamento de emergência e a criação de sistemas de aviso;\n\nf) Controlar o primeiro enchimento das albufeiras;\n\ng) Proceder a inspecções dos trabalhos e autorizar, sob o ponto de vista da segurança, a entrada da obra em exploração;\n\nh) Aprovar as normas de segurança a que deve estar submetida a exploração de cada aproveitamento hidráulico.\n\n3 - Na fase de exploração compete à Autoridade:\n\na) Aprovar a designação pelo dono da obra de um técnico responsável com qualificação profissional adequada à importância da obra;\n\nb) Apreciar os registos de observações e os demais dados relativos à conservação e exploração das obras, bem como os relatórios sobre o seu comportamento;\n\nc) Efectuar inspecções para verificar o estado de conservação das obras e de manutenção dos equipamentos;\n\nd) Determinar a elaboração de estudos e ensaios, bem como a realização de trabalhos e outras medidas necessárias para a garantia da segurança de pessoas e bens;\n\ne) Pronunciar-se sobre os projectos de alteração, ampliação, reparação a médio e a longo prazos, abandono ou demolição de obras.\n\n4 - No exercício das suas funções de fiscalização da construção das obras não realizadas pelo Estado, a Autoridade reger-se-á pela legislação aplicável às obras públicas."
+  },
+  "1055719275": {
+   "fragment_id": "1055719175",
+   "type": 11,
+   "heading": "Artigo 6.º — Laboratório Nacional de Engenharia Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Laboratório Nacional de Engenharia Civil\n\nSempre que no âmbito da alínea a) do n.º 2 do artigo 5.º lhe seja atribuída uma intervenção de carácter sistemático, compete ao LNEC:\n\na) Elaborar os planos de observação das barragens, a pedido do dono da obra ou sempre que a Autoridade assim o entender, e controlar a sua execução;\n\nb) Rever os planos de observação das barragens elaborados pelo dono da obra e controlar a sua execução;\n\nc) Elaborar ou rever, conforme os casos correspondam à alínea a) ou à alínea b) do presente artigo, os planos de primeiro enchimento das albufeiras e controlar a sua execução;\n\nd) Promover a constituição, na sua sede, de um arquivo informático dos dados dos sistemas de observação das barragens e explorá-lo de modo a manter um conhecimento actualizado do seu comportamento;\n\ne) Acompanhar permanentemente o comportamento das barragens e elaborar pareceres durante o primeiro enchimento e relatórios durante o primeiro período de exploração definido no plano de observação, assim como um relatório final;\n\nf) Pronunciar-se sobre relatórios do comportamento das barragens posteriormente ao primeiro período de exploração referido na alínea e) ou elaborar esses mesmos relatórios;\n\ng) Efectuar inspecções e elaborar pareceres em caso de ocorrências excepcionais ou de circunstâncias anómalas;\n\nh) Efectuar os estudos e ensaios que lhe forem solicitados no âmbito da alínea d) do n.º 3 do artigo 5.º do presente diploma."
+  },
+  "1055719475": {
+   "fragment_id": "1055719375",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço Nacional de Protecção Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço Nacional de Protecção Civil\n\n1 - Compete ao SNPC:\n\na) Assegurar o planeamento de emergência;\n\nb) Coordenar as acções de socorro.\n\n2 - As acções de socorro serão efectuadas através das estruturas próprias do sistema de protecção civil, em colaboração com todas as entidades intervenientes."
+  },
+  "1055719675": {
+   "fragment_id": "1055719575",
+   "type": 11,
+   "heading": "Artigo 8.º — Comissão de Segurança de Barragens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comissão de Segurança de Barragens\n\n1 - É criada a Comissão de Segurança de Barragens (CSB).\n\n2 - A CSB funciona junto do Conselho Superior de Obras Públicas e Transportes e tem a seguinte composição:\n\na) Um engenheiro inspector-geral de obras públicas e transportes, que preside;\n\nb) Dois representantes da Autoridade;\n\nc) Os chefes dos Departamentos de Barragens, de Geotecnia e de Hidráulica do LNEC;\n\nd) Um representante do SNPC;\n\ne) Um professor do curso de Engenharia Civil de cada uma das universidades;\n\nf) Dois engenheiros civis especializados em aproveitamentos hidráulicos, um designado pela Comissão Nacional Portuguesa das Grandes Barragens e outro pela Ordem dos Engenheiros;\n\ng) Dois engenheiros representantes da Electricidade de Portugal (EDP), E. P.;\n\nh) Um engenheiro civil representante da Direcção-Geral de Hidráulica e Engenharia Agrícola.\n\n3 - Compete à CSB:\n\na) Propor à Autoridade a adopção de medidas imediatas para salvaguarda da segurança de qualquer barragem;\n\nb) Elaborar normas sobre segurança das barragens, a pedido do Governo;\n\nc) Emitir parecer sobre os planos de emergência, os sistemas de aviso e os projectos de reparação exigidos por ocorrências excepcionais e sobre o abandono ou demolição de obras;\n\nd) Pronunciar-se sobre outros assuntos relativos à segurança das barragens que lhe sejam submetidos pela Autoridade ou pelo Governo;\n\ne) Dar parecer fundamentado, precedendo decisões da Autoridade que impliquem o esvaziamento da albufeira, excepto em situações de emergência;\n\nf) Pronunciar-se obrigatoriamente em todos os casos de recurso do dono da obra quanto a decisões da Autoridade em matéria abrangida pelo presente diploma.\n\n4 - A CSB é secretariada pelo vogal secretário do Conselho Superior de Obras Públicas e Transportes, que assegura o respectivo expediente através dos serviços a seu cargo."
+  },
+  "1055719875": {
+   "fragment_id": "1055719775",
+   "type": 11,
+   "heading": "Artigo 9.º — Dono da obra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dono da obra\n\n1 - Constituem obrigações do dono da obra nas fases de projecto e construção:\n\na) Promover a elaboração do projecto e de todos os estudos de apoio necessários, de acordo com as disposições do presente Regulamento, e submetê-lo, para aprovação, à Autoridade;\n\nb) Promover a elaboração do plano de observação e submeter esse plano à aprovação da Autoridade;\n\nc) Submeter à Autoridade a designação do director técnico da obra, nos termos da alínea c) do n.º 2 do artigo 5.º;\n\nd) Promover a execução das obras em conformidade com os projectos aprovados, com perfeição e solidez, empregando materiais de boa qualidade e durabilidade e uma técnica cuidada e mantê-los em perfeito estado de conservação e funcionamento;\n\ne) Facilitar, durante a construção, a acção de fiscalização e promover a execução do sistema de observação segundo as prescrições do respectivo plano;\n\nf) Organizar o arquivo técnico da construção;\n\ng) Promover a elaboração do plano de primeiro enchimento e submetê-lo à aprovação da Autoridade.\n\n2 - Constituem obrigações do dono da obra nas fases de primeiro enchimento e exploração:\n\na) Proceder ao primeiro enchimento da albufeira e promover o seu controlo de acordo com o respectivo plano;\n\nb) Submeter à Autoridade a designação de um técnico responsável nos termos da alínea a) do n.º 3 do artigo 5.º;\n\nc) Efectuar a exploração de acordo com as normas de segurança aprovadas pela Autoridade e promover a observação do comportamento das obras de acordo com o plano de observação relativo a essa fase;\n\nd) Comunicar à Autoridade ocorrências excepcionais e circunstâncias anómalas e promover o seu estudo e análise, assim como as medidas convenientes para as remediar;\n\ne) Submeter à aprovação da Autoridade os projectos de alteração ou ampliação e de reparações a médio ou logo prazo e ainda proceder à sua execução;\n\nf) Organizar e manter actualizado o arquivo técnico da exploração.\n\n3 - Constituem ainda obrigações do dono da obra, em caso de abandono ou demolição, submeter à aprovação da Autoridade o respectivo projecto e proceder à sua execução.\n\n4 - Cabe ao dono da obra suportar as despesas originadas pelo controlo de segurança e por outros estudos considerados indispensáveis pela Autoridade."
+  },
+  "1055720075": {
+   "fragment_id": "1055719975",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissões de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissões de inquérito\n\nEm caso de acidente, a Autoridade nomeia uma comissão de inquérito, que tem como funções:\n\na) Estabelecer a natureza das causas do acidente;\n\nb) Apurar responsabilidades;\n\nc) Contribuir para o progresso dos conhecimentos."
+  },
+  "1055720275": {
+   "fragment_id": "1055720175",
+   "type": 1,
+   "heading": "Capítulo II — Controlo de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Controlo de segurança"
+  },
+  "1055720475": {
+   "fragment_id": "1055720375",
+   "type": 8,
+   "heading": "Secção I — Controlo de segurança na fase de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Controlo de segurança na fase de projecto"
+  },
+  "1055720675": {
+   "fragment_id": "1055720575",
+   "type": 11,
+   "heading": "Artigo 11.º — Aspectos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aspectos gerais\n\n1 - O projecto deve ser precedido de estudos nos quais os problemas de segurança tenham sido devidamente considerados.\n\n2 - O projecto deve obedecer a critérios adequados e prever os dispositivos necessários para garantir a segurança nos aspectos estruturais, hidráulicos, operacionais e ambientais."
+  },
+  "1055720875": {
+   "fragment_id": "1055720775",
+   "type": 11,
+   "heading": "Artigo 12.º — Constituição do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Constituição do projecto\n\nOs projectos devem incluir:\n\na) Memória e descrição geral das obras e equipamentos, com justificação da solução técnica adoptada, nas perspectivas de segurança e economia;\n\nb) Estudos climático e hidrológico;\n\nc) Estudos geológico, sismológico e geotécnico da região, da albufeira e do local de implantação das obras;\n\nd) Estudos da origem, tipos e características dos materiais de construção a utilizar;\n\ne) Estudo dos riscos potenciais induzidos pelo aproveitamento, que deverá ser elaborado tendo em vista a definição dos critérios de dimensionamento e servir de base ao planeamento de medidas de protecção civil, nos casos aplicáveis;\n\nf) Estudo do impacte ambiental;\n\ng) Dimensionamento da barragem e sua fundação, incluindo o projecto de tratamento desta última;\n\nh) Dimensionamento dos descarregadores e outros órgãos de segurança e exploração;\n\ni) Estudo da albufeira;\n\nj) Estudo do sistema de derivação provisória do curso de água durante a construção, incluindo as ensecadeiras necessárias;\n\nl) Estudo da ligação do local da barragem com a rede rodoviária e dos acessos desde aquele local a todos os pontos essenciais da obra;\n\nm) Sistema de telecomunicações e sistema de iluminação, especialmente no paramento de jusante e no coroamento, nas instalações de mecanismos e galerias de inspecção;\n\nn) Plano de execução das obras;\n\no) Cláusulas técnicas, a incluir nos cadernos de encargos, da construção e do equipamento;\n\np) Normas gerais de exploração da albufeira e de utilização dos órgãos de segurança;\n\nq) Anteplano de observação no qual deverão ser indicadas, com a respectiva justificação, as grandezas a observar, de acordo com a importância das obras, para verificação dos critérios do projecto e para controlo da segurança estrutural, para cenários correntes e de ruptura;\n\nr) Anteplano de primeiro enchimento."
+  },
+  "1055721075": {
+   "fragment_id": "1055720975",
+   "type": 11,
+   "heading": "Artigo 13.º — Dimensionamento da barragem e da sua fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dimensionamento da barragem e da sua fundação\n\n1 - No projecto serão referidos os critérios, modelos e métodos utilizados no dimensionamento da barragem e da sua fundação, considerando os riscos potenciais referidos na alínea e) do artigo 12.º, bem como as características do local e do esquema geral da obra.\n\n2 - Devem ser expressamente indicadas:\n\na) As características geométricas e físicas da estrutura;\n\nb) As acções estáticas e dinâmicas, suas possíveis variações ao longo da vida da obra e as suas combinações mais desfavoráveis para condições normais e para o caso de ocorrências excepcionais;\n\nc) As características, as propriedades e a previsão do comportamento dos materiais, nomeadamente nos aspectos hidráulico, mecânico e térmico;\n\nd) As características, as propriedades e a previsão do comportamento das fundações.\n\n3 - Deve ser elaborada uma lista de cenários correntes e de ruptura da barragem e suas fundações, previsíveis durante a vida da obra.\n\n4 - As condições de segurança do conjunto estrutura-fundação devem ser justificadas por meio de modelos de acções e de modelos estruturais, que serão analisados por métodos analíticos ou experimentais comprovados pela experiência."
+  },
+  "1055721275": {
+   "fragment_id": "1055721175",
+   "type": 11,
+   "heading": "Artigo 14.º — Dimensionamento dos órgãos de segurança e exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Dimensionamento dos órgãos de segurança e exploração\n\n1 - O projecto conterá os critérios de dimensionamento dos órgãos de segurança e de exploração, nomeadamente os de descarga, as tomadas de água, as estruturas da central hidroeléctrica e circuitos hidráulicos integrados na barragem, bem como das obras de derivação provisória, designadamente dos pontos de vista de comportamento hidráulico e estrutural.\n\n2 - No dimensionamento dos órgãos de segurança e exploração serão considerados os seguintes aspectos gerais:\n\na) Deve ser justificada a cheia de projecto nas fases de construção e de exploração e considerado o risco potencial induzido pelo aproveitamento, tomando em conta a eventual existência de barragens a montante e a jusante;\n\nb) Os órgãos de segurança e exploração devem permitir o abaixamento da água da albufeira para níveis que garantam a segurança da barragem, bem como a regulação do nível de água na albufeira;\n\nc) O cálculo do tempo necessário para o esvaziamento da albufeira;\n\nd) A previsão dos dispositivos necessários para proceder à evacuação da água sem prejuízo para a barragem e para outras obras que possam ser afectadas, designadamente dispositivos de dissipação de energia e de protecção do leito e margens do curso de água;\n\ne) A justificação das soluções adoptadas por métodos analíticos e experimentais comprovados pela experiência e, sempre que a Autoridade o entenda, por meio de modelos hidráulicos e estruturais.\n\n3 - Os descarregadores de cheias devem ser aptos a escoar em qualquer circunstância a cheia de projecto sem necessidade de auxílio das descargas de fundo, tomadas de água ou outros dispositivos e satisfazer os seguintes requisitos, quando munidos de comportas:\n\na) Devem ser divididos em dois vãos, pelo menos;\n\nb) As comportas devem poder ser manobradas quer localmente, quer à distância, e mediante energia procedendo de duas origens distintas, além de poderem ser accionadas manualmente;\n\nc) No caso de se instalarem comportas automáticas, estas devem ser providas de dispositivos que permitam comprovar o seu automatismo e respectiva fiabilidade, qualquer que seja o nível da albufeira.\n\n4 - As descargas de fundo e de meio fundo devem permitir o esvaziamento da albufeira e ser equipadas com duas comportas de características idênticas às descritas na alínea b) do número anterior, uma funcionando como segurança e a outra destinada ao serviço normal da exploração."
+  },
+  "1055721475": {
+   "fragment_id": "1055721375",
+   "type": 11,
+   "heading": "Artigo 15.º — Albufeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Albufeira\n\n1 - Serão referidos os critérios que presidiram ao dimensionamento da albufeira, explicitando, nomeadamente, a capacidade total e a capacidade morta, a sedimentação previsível e a capacidade reservada para amortecimento de cheias.\n\n2 - Serão analisadas as características de impermeabilização da albufeira, a estabilidade das suas margens e indicadas as eventuais medidas a adoptar."
+  },
+  "1055721675": {
+   "fragment_id": "1055721575",
+   "type": 11,
+   "heading": "Artigo 16.º — Outros dispositivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Outros dispositivos\n\n1 - Devem prever-se no projecto instalações adequadas à importância do aproveitamento para medição de níveis de água e de caudais afluentes e efluentes.\n\n2 - Serão previstos, quando a importância da obra o justifique, meios de telecomunicação permanentemente operacionais entre a barragem, a central e centros de decisão ou operativos, destinados à transmissão de informações e ordens."
+  },
+  "1055721875": {
+   "fragment_id": "1055721775",
+   "type": 8,
+   "heading": "Secção II — Plano de observação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Plano de observação"
+  },
+  "1055722075": {
+   "fragment_id": "1055721975",
+   "type": 11,
+   "heading": "Artigo 17.º — Aspectos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aspectos gerais\n\n1 - Após a aprovação do projecto, o dono da obra promove a elaboração do plano de observação, que se desenvolverá segundo as orientações propostas no anteplano e tomando em consideração eventuais alterações, recomendações ou outras informações entretanto recolhidas.\n\n2 - O plano de observação tem carácter vinculativo e visa essencialmente o controlo de segurança estrutural das obras principais, a realizar durante as fases de construção, primeiro enchimento, primeiro período de exploração e período de exploração subsequente.\n\n3 - Para cada uma das fases mencionadas no número anterior, o plano de observação deve ter em consideração os cenários de risco característicos de cada barragem, nomeadamente esvaziamentos rápidos, sismos e galgamentos rápidos."
+  },
+  "1055722275": {
+   "fragment_id": "1055722175",
+   "type": 11,
+   "heading": "Artigo 18.º — Constituição do plano de observação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Constituição do plano de observação\n\n1 - O plano de observação terá em conta o risco potencial induzido pela construção e exploração do aproveitamento e inclui indicações, consoante preconizado neste Regulamento, relativas a:\n\na) Inspecção visual;\n\nb) Instalação e exploração de um sistema de observação;\n\nc) Análise do comportamento e avaliação das condições de segurança das obras.\n\n2 - Relativamente à inspecção visual deve ter-se em atenção:\n\na) A indicação da periodicidade das visitas em condições normais;\n\nb) A sua obrigatoriedade após ocorrências excepcionais, tais como sismos importantes, grandes cheias e esvaziamentos totais ou quase totais das albufeiras;\n\nc) Os tipos de inspecção e qualificação técnica dos respectivos agentes;\n\nd) Os principais aspectos a inspeccionar nas obras e no sistema de observação;\n\ne) A forma de apresentação dos resultados da inspecção.\n\n3 - Relativamente a instalação e exploração do sistema de observação devem ser dadas indicações sobre:\n\na) A definição, devidamente justificada, das grandezas a observar que permitam avaliar as acções, as propriedades estruturais e as respostas das estruturas;\n\nb) As especificações relativas à aparelhagem e acessórios utilizados para determinação daquelas grandezas, bem como todos os restantes elementos necessários à colocação da aparelhagem e sua leitura (localização, percursos dos cabos, centrais de leitura e outros);\n\nc) Definição das medições que ficam a cargo do dono da obra e das medições que ficam a cargo do LNEC, para o que será estabelecido o necessário acordo entre estas duas entidades;\n\nd) As frequências de leitura a efectuar durante as fases de construção, primeiro enchimento e exploração e os critérios para adaptação em circunstâncias de variação rápida das acções ou ocorrências excepcionais;\n\ne) As especificações relativas à recolha e processamento da informação;\n\nf) Os procedimentos e esquema de comunicação a utilizar em caso de detecção de comportamento anómalo;\n\ng) O esquema previsto de elaboração de relatórios;\n\nh) As qualificações técnicas dos agentes encarregados da instalação e exploração do sistema de observação no local da obra.\n\n4 - Relativamente à análise do comportamento e avaliação das condições de segurança, o plano de observação deve fornecer indicações sobre:\n\na) Os modelos de comportamento a utilizar, que terão em conta os principais cenários de risco, associados às características estruturais e às acções e serão actualizados face aos elementos colhidos na observação do comportamento do protótipo;\n\nb) Os relatórios a elaborar, nomeadamente o relatório final do primeiro período de exploração."
+  },
+  "1055722475": {
+   "fragment_id": "1055722375",
+   "type": 11,
+   "heading": "Artigo 19.º — Revisão do plano de observação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Revisão do plano de observação\n\n1 - A revisão do plano de observação, sempre que necessária nos termos da alínea b) do artigo 6.º, compete ao LNEC, que pode, fundamentadamente, introduzir alterações relativas a aspectos organizativos e técnicos.\n\n2 - A revisão é precedida de audiência do dono da obra e de outros intervenientes na organização do controlo de segurança estrutural."
+  },
+  "1055722675": {
+   "fragment_id": "1055722575",
+   "type": 11,
+   "heading": "Artigo 20.º — Adaptação do plano de observação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Adaptação do plano de observação\n\n1 - O plano de observação será convenientemente adaptado sempre que a vida da obra, ocorrências excepcionais e os resultados da observação o justifiquem e, obrigatoriamente, decorridos 20 anos sobre a sua aprovação.\n\n2 - As adaptações do plano serão submetidas à aprovação da Autoridade."
+  },
+  "1055722875": {
+   "fragment_id": "1055722775",
+   "type": 8,
+   "heading": "Secção III — Controlo de segurança na fase de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Controlo de segurança na fase de construção"
+  },
+  "1055723075": {
+   "fragment_id": "1055722975",
+   "type": 11,
+   "heading": "Artigo 21.º — Aspectos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aspectos gerais\n\n1 - A construção deve ser executada em conformidade com o projecto e o caderno de encargos aprovados, fazendo uso dos materiais e métodos construtivos previstos e regulamentares, devendo o autor do projecto acompanhar obrigatoriamente a execução da obra.\n\n2 - Toda a alteração significativa do projecto que se revele necessária durante a construção deve ter a concordância do autor do projecto e ser sujeita à aprovação da Autoridade.\n\n3 - O dono da obra encarregará da construção um empreiteiro legalmente qualificado, atribuirá a assistência técnica e a fiscalização a um corpo técnico responsável e proporá à Autoridade a designação do director técnico da obra, indicando os seus substitutos autorizados.\n\n4 - Os cadernos de encargos da construção devem prever os trabalhos de observação, de modo a permitir a sua execução coordenada com os restantes trabalhos."
+  },
+  "1055723275": {
+   "fragment_id": "1055723175",
+   "type": 11,
+   "heading": "Artigo 22.º — Livro técnico da obra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Livro técnico da obra\n\n1 - O director técnico da obra manterá actualizado, durante a construção, um livro paginado e selado pela Autoridade, que é designado por livro técnico da obra e onde são registadas, além de outras, as ocorrências com interesse do ponto de vista de segurança.\n\n2 - O livro técnico da obra será posto à disposição da Autoridade, do LNEC, do autor do projecto e dos consultores durante as visitas à obra, devendo as entidades competentes exarar nele as suas recomendações e comentários.\n\n3 - Com base nos lançamentos efectuados no livro técnico da obra, o director técnico elaborará trimestralmente um boletim informativo a enviar à Autoridade e ao dono da obra, onde se resumirão as principais ocorrências registadas."
+  },
+  "1055723475": {
+   "fragment_id": "1055723375",
+   "type": 11,
+   "heading": "Artigo 23.º — Controlo da segurança estrutural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Controlo da segurança estrutural\n\n1 - Durante a construção, o controlo da segurança estrutural desenvolve-se através de acções de fiscalização previstas no n.º 4 do artigo 5.º e no n.º 3 do artigo 21.º e ainda da execução do plano de observação.\n\n2 - As informações de interesse para o controlo da segurança estrutural são enviadas à Autoridade."
+  },
+  "1055723675": {
+   "fragment_id": "1055723575",
+   "type": 11,
+   "heading": "Artigo 24.º — Inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Inspecções\n\n1 - Além da fiscalização permanente da construção, a Autoridade efectuará visitas de inspecção para acompanhar a execução dos trabalhos e, no caso de detecção de irregularidades, tomará as medidas julgadas convenientes, que podem incluir a suspensão das obras até que sejam preenchidas as condições exigidas.\n\n2 - Será lavrada acta de cada uma das inspecções, a qual será assinada pelos intervenientes e lançada no livro técnico da obra.\n\n3 - No final da construção, a Autoridade comprovará se a obra foi construída conforme o projecto e o caderno de encargos aprovados e de acordo com as prescrições deste Regulamento, sendo a comprovação feita perante desenhos de construção e uma descrição da forma como as obras foram construídas, elementos que devem ser fornecidos pelo dono da obra."
+  },
+  "1055723875": {
+   "fragment_id": "1055723775",
+   "type": 11,
+   "heading": "Artigo 25.º — Arquivo técnico da obra relativo à construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Arquivo técnico da obra relativo à construção\n\n1 - O dono da obra manterá permanentemente actualizado e à disposição da Autoridade um arquivo técnico de que constem, nomeadamente:\n\na) O livro técnico da obra;\n\nb) O plano de observação;\n\nc) Todos os elementos do projecto, tal como a obra for sendo executada, incluindo os cálculos justificativos e fotografias representativas das fundações e dos aspectos mais peculiares da construção;\n\nd) Os resultados dos ensaios de materiais utilizados (betão, solos, enrocamentos e maciço rochoso) e outros estudos laboratoriais efectuados e respectivos relatórios;\n\ne) Representação dos aspectos geológicos e geotécnicos das fundações e obras subterrâneas e os resultados relativos ao seu tratamento;\n\nf) Os programas de trabalhos;\n\ng) Os resultados da observação sucessivamente obtidos e devidamente actualizados e respectivos relatórios.\n\n2 - Após a conclusão da construção, o dono da obra promoverá a elaboração de um relatório com a síntese dos elementos referidos no número anterior."
+  },
+  "1055724075": {
+   "fragment_id": "1055723975",
+   "type": 8,
+   "heading": "Secção IV — Controlo de segurança durante o primeiro enchimento da albufeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Controlo de segurança durante o primeiro enchimento da albufeira"
+  },
+  "1055724275": {
+   "fragment_id": "1055724175",
+   "type": 11,
+   "heading": "Artigo 26.º — Aspectos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Aspectos gerais\n\n1 - O controlo de segurança durante o primeiro enchimento da albufeira, fase mais crítica da vida da obra do ponto de vista do risco envolvido, tem por objectivos:\n\na) Evitar a ocorrência de acidentes ou incidentes ou minimizar a sua importância e os seus efeitos;\n\nb) Assegurar que as obras e os equipamentos estão em condições de suportar as acções de serviço e que estes últimos funcionam adequadamente;\n\nc) Avaliar a eficácia do sistema de observação.\n\n2 - A informação obtida durante o primeiro enchimento da albufeira deve ainda ser utilizada para rever as hipóteses do projecto relativas ao comportamento da obra para as acções previsíveis durante a exploração."
+  },
+  "1055724475": {
+   "fragment_id": "1055724375",
+   "type": 11,
+   "heading": "Artigo 27.º — Inspecção prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Inspecção prévia\n\n1 - A inspecção prévia ao primeiro enchimento, a realizar pela Autoridade com a colaboração do LNEC e perante um representante do dono da obra, tem por objectivo verificar se o estado da obra e a funcionalidade, tanto dos dispositivos de fecho do rio e dos equipamentos dos órgãos de segurança e exploração como do sistema de observação, permitem dar início ao enchimento.\n\n2 - Será lavrada acta da inspecção prévia, a qual será assinada pelos intervenientes e lançada no livro técnico da obra.\n\n3 - Com base na inspecção prévia e nas informações já disponíveis sobre o comportamento da obra, a Autoridade autorizará o início do enchimento ou, em alternativa, imporá as medidas correctivas consideradas necessárias.\n\n4 - A inspecção prévia pode ser anterior, simultânea ou posterior à comprovação referida no n.º 3 do artigo 24.º"
+  },
+  "1055724675": {
+   "fragment_id": "1055724575",
+   "type": 11,
+   "heading": "Artigo 28.º — Plano de primeiro enchimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Plano de primeiro enchimento\n\n1 - O plano de primeiro enchimento destina-se ao controlo de segurança durante esta fase da vida da obra, devendo ser elaborado e submetido à aprovação da Autoridade com adequada antecedência relativamente à data prevista para início do enchimento.\n\n2 - O plano contém, em regra, indicações sobre:\n\na) Inspecção visual contínua;\n\nb) Selecção de grandezas a observar, destinadas a um controlo expedito de segurança;\n\nc) Frequência de recolha de dados, em função do programa de enchimento da albufeira;\n\nd) Patamares de enchimento, quando se justifique, correspondendo a cada patamar uma visita de inspecção e uma avaliação das condições de segurança;\n\ne) Modelos para apoio da avaliação de segurança."
+  },
+  "1055724875": {
+   "fragment_id": "1055724775",
+   "type": 11,
+   "heading": "Artigo 29.º — Controlo da segurança estrutural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Controlo da segurança estrutural\n\n1 - A avaliação das condições de segurança estrutural durante o primeiro enchimento da albufeira será efectuada com base no plano de primeiro enchimento.\n\n2 - O prosseguimento do enchimento após cada patamar considerado carece de autorização da Autoridade apoiada em parecer sucinto, mas fundamentado, elaborado pelo LNEC, em que se ateste a normalidade do comportamento da obra.\n\n3 - Após a conclusão do enchimento da albufeira, o LNEC deverá elaborar um relatório final do comportamento da obra durante o primeiro enchimento."
+  },
+  "1055725075": {
+   "fragment_id": "1055724975",
+   "type": 11,
+   "heading": "Artigo 30.º — Inspecção após o primeiro enchimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Inspecção após o primeiro enchimento\n\n1 - A inspecção após o primeiro enchimento, a realizar pela Autoridade com a colaboração do LNEC e perante um representante do dono da obra, tem por objectivo verificar o estado da obra e equipamentos e contribuir para as decisões que serão tomadas relativamente à exploração.\n\n2 - A acta da inspecção será assinada pelos intervenientes e lançada no livro técnico da obra.\n\n3 - Com base na inspecção e tendo em conta o comportamento observado durante o primeiro enchimento da albufeira, a Autoridade decide do início da exploração, impondo ainda as medidas correctivas consideradas necessárias.\n\n4 - No caso de as medidas referidas no número anterior exigirem revisão das normas de segurança a que se refere a alínea c) do n.º 2 do artigo 9.º, essa revisão será apresentada pelo dono da obra à Autoridade para aprovação."
+  },
+  "1055725275": {
+   "fragment_id": "1055725175",
+   "type": 8,
+   "heading": "Secção V — Controlo de segurança durante a fase de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Controlo de segurança durante a fase de exploração"
+  },
+  "1055725475": {
+   "fragment_id": "1055725375",
+   "type": 11,
+   "heading": "Artigo 31.º — Aspectos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Aspectos gerais\n\n1 - Durante a fase de exploração, o dono da obra deve garantir o cumprimento das normas de segurança gerais e das definidas para o aproveitamento, a manutenção e a conservação de todos os órgãos de segurança e exploração e seus equipamentos, assim como as actividades de controlo do comportamento que lhe competirem.\n\n2 - No primeiro período da fase de exploração, definido no plano de observação, deve ser acumulada informação que permita caracterizar o comportamento da obra.\n\n3 - A informação acumulada relativa ao comportamento da obra deve ser utilizada por forma a melhorar o controlo de segurança subsequente e permitir uma mais fundamentada avaliação de eventuais ocorrências excepcionais.\n\n4 - Sempre que se prevejam condições de exploração diferentes das de exploração normal, o dono da obra deve informar a Autoridade."
+  },
+  "1055725675": {
+   "fragment_id": "1055725575",
+   "type": 11,
+   "heading": "Artigo 32.º — Normas de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Normas de segurança\n\n1 - As normas de segurança específicas do aproveitamento devem:\n\na) Respeitar as condições de segurança estrutural, hidráulica, operacional e ambiental;\n\nb) Enquadrar-se nas normas gerais de segurança;\n\nc) Ser sujeitas à aprovação da Autoridade, conforme previsto na alínea h) do n.º 2 do artigo 5.º\n\n2 - O técnico responsável referido na alínea b) do n.º 2 do artigo 9.º dará continuidade ao livro técnico da obra, registando as ocorrências mais significativas do ponto de vista de segurança, devendo observar-se o disposto no n.º 2 do artigo 22.º quanto às visitas à obra das entidades aí mencionadas."
+  },
+  "1055725875": {
+   "fragment_id": "1055725775",
+   "type": 11,
+   "heading": "Artigo 33.º — Controlo da segurança estrutural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Controlo da segurança estrutural\n\n1 - O controlo da segurança estrutural será realizado de acordo com o especificado no plano de observação, designadamente nos aspectos de visitas de inspecção, de exploração do sistema de observação e de análise do comportamento e avaliação das condições de segurança das obras.\n\n2 - Na exploração do sistema de observação deve-se atender aos seguintes aspectos:\n\na) É recomendável a automatização da recolha, transmissão, validação e tratamento dos dados, podendo essa automatização ser imposta pela Autoridade;\n\nb) Os dados da observação devem ser imediatamente tratados e analisados e verificada a conformidade dos resultados com os modelos de comportamento preestabelecidos, podendo esta comparação dar lugar a uma reformulação dos modelos e a uma reavaliação das condições de segurança das obras.\n\n3 - Durante o primeiro período de exploração serão elaborados relatórios de acordo com o plano de observação, após o que será elaborado o relatório final, compreendendo:\n\na) A análise dos resultados de todas as observações efectuadas neste período;\n\nb) Os parâmetros definidores do comportamento normal da obra, com vista ao controlo da segurança no período subsequente;\n\nc) Informações complementares que possam contribuir para uma melhor previsão do comportamento da barragem em cenários de ruptura;\n\nd) Eventual proposta de adaptação do plano de observação para esse período.\n\n4 - Na realização do controlo da segurança estrutural ter-se-á em atenção que:\n\na) As ocorrências excepcionais e circunstâncias anómalas devem, de acordo com a alínea d) do n.º 2 do artigo 9.º, ser comunicadas à Autoridade e promovido o seu estudo, assim como o das medidas convenientes para as remediar;\n\nb) As adaptações do plano de observação previstas no artigo 20.º serão efectuadas após visitas de inspecção e considerarão, nomeadamente, os aspectos relativos à deterioração dos materiais."
+  },
+  "1055726075": {
+   "fragment_id": "1055725975",
+   "type": 11,
+   "heading": "Artigo 34.º — Controlo da segurança estrutural durante esvaziamentos rápidos da albufeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Controlo da segurança estrutural durante esvaziamentos rápidos da albufeira\n\n1 - O controlo da segurança, a realizar por ocasiões de esvaziamentos rápidos da albufeira quando o risco envolvido o justifique, tem por objectivos evitar a ocorrência de acidentes ou minimizar a sua importância e efeitos e ainda rever as hipóteses de projecto.\n\n2 - Nos casos previstos no número anterior deverá o dono da obra:\n\na) Promover a adaptação do plano de observação tendo em conta o programa de esvaziamento e contemplando os aspectos previstos no n.º 2 do artigo 28.º, com os ajustamentos convenientes;\n\nb) Submeter as adaptações do plano de observação à aprovação prévia da Autoridade;\n\nc) Promover, após cada esvaziamento rápido, a elaboração de relatório do comportamento da obra.\n\n3 - Com base no comportamento observado, a Autoridade imporá eventuais medidas correctivas, as quais poderão exigir revisão das normas de segurança específicas do aproveitamento."
+  },
+  "1055726275": {
+   "fragment_id": "1055726175",
+   "type": 11,
+   "heading": "Artigo 35.º — Controlo da segurança hidráulica, operacional e ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Controlo da segurança hidráulica, operacional e ambiental\n\n1 - O controlo da segurança hidráulica será efectuado por aplicação das normas de exploração, bem como por verificação e eventual revisão dos critérios de projecto, nomeadamente em relação aos órgãos de segurança e exploração e aos sistemas de impermeabilização, de filtragem e de drenagem.\n\n2 - O controlo da segurança operacional é feito por aplicação das normas de exploração relativas:\n\na) À operação dos equipamentos;\n\nb) A medidas de manutenção;\n\nc) A medidas de conservação, quando se revelem necessárias.\n\n3 - O controlo da segurança ambiental será efectuado de acordo com as normas de exploração, tomando em consideração, nomeadamente, aspectos relacionados com as precipitações e cheias, com os descarregamentos e caudais mínimos a jusante, com a sismicidade induzida e com o caudal sólido e características da água da albufeira."
+  },
+  "1055726475": {
+   "fragment_id": "1055726375",
+   "type": 11,
+   "heading": "Artigo 36.º — Inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Inspecções\n\n1 - A Autoridade efectuará, periodicamente e sempre que julgar oportuno, visitas de inspecção, com a colaboração do LNEC e perante um representante do dono da obra.\n\n2 - São oportunidades a considerar para a realização dessas visitas:\n\na) Épocas de nível máximo na albufeira;\n\nb) O primeiro esvaziamento da albufeira;\n\nc) Outros abaixamentos significativos do nível da água;\n\nd) A verificação de ocorrências excepcionais, tais como sismos e cheias.\n\n3 - São objectivos dessas visitas:\n\na) Inspecção visual das obras, incluindo o corpo da barragem, sua fundação, zona vizinha a jusante, órgãos de segurança e exploração e albufeira, devendo ser dada especial atenção à existência de ressurgências e fissuras;\n\nb) Verificação das condições de manutenção e operacionalidade dos equipamentos;\n\nc) Verificação do sistema de observação.\n\n4 - Será lavrada acta de cada uma das visitas, a qual será assinada pelos intervenientes e lançada no livro técnico da obra."
+  },
+  "1055726675": {
+   "fragment_id": "1055726575",
+   "type": 11,
+   "heading": "Artigo 37.º — Ocorrências excepcionais e circunstâncias anómalas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Ocorrências excepcionais e circunstâncias anómalas\n\n1 - As medidas que se revelem necessárias face a ocorrências excepcionais ou circunstâncias anómalas devem ser tomadas pelo dono da obra em conformidade com o disposto na alínea d) do n.º 2 do artigo 9.º\n\n2 - Medidas imediatas para diminuir os riscos devem ser tomadas pelo dono da obra com o conhecimento da Autoridade, nomeadamente nos casos de cheias ou sismos, de erosões provocadas pelas descargas ou da observação de comportamentos anormais, podendo estas medidas compreender:\n\na) O abaixamento controlado do nível de água na albufeira;\n\nb) A realização de reparações adequadas.\n\n3 - No caso de reparações a efectuar a médio ou a longo prazos, o dono da obra deve promover a elaboração dos respectivos projectos, que serão submetidos a parecer da CSB e a aprovação da Autoridade."
+  },
+  "1055726875": {
+   "fragment_id": "1055726775",
+   "type": 11,
+   "heading": "Artigo 38.º — Arquivo técnico da obra relativo à exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Arquivo técnico da obra relativo à exploração\n\nO dono da obra manterá permanentemente actualizado e à disposição da Autoridade um arquivo técnico, com as suas peças devidamente ordenadas e classificadas, complementar do referido no artigo 25.º, do qual constarão, nomeadamente:\n\na) O Regulamento de Segurança de Barragens;\n\nb) As normas de segurança específicas do aproveitamento;\n\nc) Os resultados dos estudos laboratoriais, assim como os resultados das observações e inspecções efectuadas após a construção e respectivos relatórios;\n\nd) Os dados relativos a trabalhos complementares e modificações efectuadas após a construção e eventuais obras de reparação;\n\ne) Os dados relativos a sistemas de aviso e aos planos de emergência de protecção civil."
+  },
+  "1055727075": {
+   "fragment_id": "1055726975",
+   "type": 8,
+   "heading": "Secção VI — Controlo de segurança nos casos de abandono e demolição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Controlo de segurança nos casos de abandono e demolição"
+  },
+  "1055727275": {
+   "fragment_id": "1055727175",
+   "type": 11,
+   "heading": "Artigo 39.º — Aspectos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Aspectos gerais\n\n1 - O abandono e a demolição das estruturas de um aproveitamento devem fazer-se respeitando as exigências de segurança e carecem de aprovação da Autoridade, precedida de parecer da CSB.\n\n2 - A Autoridade pode exigir a demolição de estruturas ou a remoção de obstáculos que embaracem o curso livre das águas."
+  },
+  "1055727475": {
+   "fragment_id": "1055727375",
+   "type": 11,
+   "heading": "Artigo 40.º — Projecto de abandono e demolição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Projecto de abandono e demolição\n\n1 - O abandono e a demolição de uma barragem devem ser precedidos do respectivo projecto, a submeter pelo dono da obra à Autoridade, nos termos da alínea e) do n.º 3 do artigo 5.º\n\n2 - O projecto referido no número anterior deve incluir:\n\na) A justificação das opções tomadas;\n\nb) A descrição do processo de retirada de serviço do aproveitamento, do seu abandono e da eventual demolição das estruturas;\n\nc) A verificação da estabilidade das estruturas que permanecerão tendo em consideração as novas condições de funcionamento;\n\nd) Proposta para o controlo da segurança das estruturas que devam permanecer;\n\ne) Estudos hidráulicos sobre as consequências de abandono e eventual demolição das estruturas, designadamente sobre a formação do novo leito a montante e sobre o controlo de cheias, o caudal sólido e a exploração de barragens a jusante;\n\nf) Soluções propostas para eliminar ou minimizar as eventuais consequências negativas do abandono do aproveitamento."
+  },
+  "1055727675": {
+   "fragment_id": "1055727575",
+   "type": 11,
+   "heading": "Artigo 41.º — Execução dos trabalhos de demolição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Execução dos trabalhos de demolição\n\nOs trabalhos de demolição devem ser executados por processos adequados, sem afectar a estabilidade das estruturas que eventualmente devam permanecer e sem embaraçar o curso livre das águas."
+  },
+  "1055727875": {
+   "fragment_id": "1055727775",
+   "type": 1,
+   "heading": "Capítulo III — Medidas de protecção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Medidas de protecção civil"
+  },
+  "1055728075": {
+   "fragment_id": "1055727975",
+   "type": 11,
+   "heading": "Artigo 42.º — Aspectos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Aspectos gerais\n\n1 - O cumprimento das disposições dos artigos anteriores não dispensa a previsão de medidas especiais com vista à protecção de pessoas e bens em caso de acidentes resultantes, nomeadamente, de catástrofes e também de acções de guerra ou sabotagem ou em outras circunstâncias susceptíveis de afectarem a segurança em qualquer dos seus aspectos.\n\n2 - As medidas a prever terão em conta o estudo de ondas de inundação apresentado no projecto, que incluirá a determinação das alturas da água a atingir nas zonas inundáveis e dos respectivos tempos de chegada, constituindo o mapeamento dessas zonas uma carta de riscos que servirá de base à definição de estratégias de protecção a tomar em zonas diferenciadas.\n\n3 - Os resultados dos estudos das zonas de inundação, a comunicar ao SNPC, são de carácter reservado."
+  },
+  "1055728275": {
+   "fragment_id": "1055728175",
+   "type": 11,
+   "heading": "Artigo 43.º — Acções de guerra ou sabotagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Acções de guerra ou sabotagem\n\nA Autoridade, em ligação com o SNPC, colaborará com os ministérios competentes na aplicação das medidas de protecção mais adequadas para a segurança das barragens em situações de ameaça de guerra ou sabotagem."
+  },
+  "1055728475": {
+   "fragment_id": "1055728375",
+   "type": 11,
+   "heading": "Artigo 44.º — Plano de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Plano de emergência\n\n1 - O plano de emergência, que será elaborado com intervenção directa do centro operacional de protecção civil distrital e do dono da obra, é um documento vinculativo que determina as ligações hierárquicas e funcionais de todos os intervenientes, atribuindo-lhes as respectivas missões e garantindo a coordenação e o empenhamento progressivo de meios e recursos necessários para fazer face às consequências de um acidente ou de uma catástrofe.\n\n2 - O plano elaborado de acordo com o número anterior será submetido a parecer da CSB e a aprovação conjunta do SNPC e da Autoridade.\n\n3 - O plano indicará uma periodicidade para a realização de treinos das operações previstas, devendo nesses treinos ser ensaiados os sistemas de aviso e alerta."
+  },
+  "1055728675": {
+   "fragment_id": "1055728575",
+   "type": 11,
+   "heading": "Artigo 45.º — Sistemas de aviso e alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Sistemas de aviso e alerta\n\n1 - Além dos dispositivos previstos no n.º 2 do artigo 16.º, relativos a comunicações rápidas e sempre funcionais com centros operacionais e de decisão, no local da barragem deve também dispor-se de equipamento de alerta que permita o aviso de situações de perigo em zonas que possam ser afectadas.\n\n2 - Os encargos com os sistemas de aviso e alerta referidos no número anterior pertencem ao dono da obra, a quem compete também a sua manutenção, por forma a estarem permanentemente operacionais.\n\n3 - Na fase de detecção de perigo, este deve ser imediatamente comunicado ao centro operacional de protecção civil distrital por linha telefónica ponto a ponto, para que este determine prontamente a preparação das forças de socorro para eventual mobilização.\n\n4 - Em caso de perigo iminente, que obrigue à imediata evacuação das populações, devem ser accionados os sistemas de aviso e alerta e, simultaneamente, feito o aviso ao centro operacional referido no número anterior e aos outros órgãos responsáveis indicados no plano de emergência."
+  },
+  "1055728875": {
+   "fragment_id": "1055728775",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares e transitórias"
+  },
+  "1055729075": {
+   "fragment_id": "1055728975",
+   "type": 11,
+   "heading": "Artigo 46.º — Normas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Normas\n\nPara a boa execução do presente Regulamento serão estabelecidas em portaria dos Ministros da Defesa Nacional, do Planeamento e da Administração do Território, da Administração Interna, da Agricultura, Pescas e Alimentação, da Indústria e Energia e das Obras Públicas, Transportes e Comunicações as normas relativas ao projecto, à construção, à exploração e à observação e inspecção das barragens."
+  },
+  "1055729275": {
+   "fragment_id": "1055729175",
+   "type": 11,
+   "heading": "Artigo 47.º — Aplicação às obras em construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Aplicação às obras em construção\n\nO presente Regulamento aplica-se a partir da sua entrada em vigor às barragens que se encontrem nas fases de construção ou primeiro enchimento da albufeira."
+  },
+  "1055729475": {
+   "fragment_id": "1055729375",
+   "type": 11,
+   "heading": "Artigo 48.º — Aplicação às barragens já construídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Aplicação às barragens já construídas\n\n1 - É estabelecido o prazo de cinco anos para aplicação do Regulamento às barragens em exploração ou em estado de abandono, sendo essa aplicação resultante de um processo que envolve:\n\na) A avaliação das condições actuais de cada obra, dos pontos de vista do risco potencial, segurança e funcionalidade das obras e dos equipamentos, e verificação da sua concordância com as disposições deste Regulamento, designadamente no que se refere ao projecto, construção, exploração e observação;\n\nb) A determinação das medidas que seja necessário empreender para adaptação das obras às condições do Regulamento;\n\nc) A execução dessas medidas num prazo a fixar pela Autoridade.\n\n2 - As acções a que se referem as alíneas a) e b) do número anterior devem resultar de inspecções e da análise da informação disponível, actividades a desenvolver pela Autoridade, com a colaboração do LNEC, de um delegado do dono da obra e eventualmente de consultores especializados, e devem ser seguidas da elaboração do respectivo relatório.\n\n3 - A execução, no prazo fixado de acordo com a alínea c) do n.º 1, das medidas necessárias compete ao dono da obra, para o que deverá previamente promover a realização dos estudos, projectos e programas de trabalhos e submetê-los à aprovação da Autoridade.\n\n4 - Na falta de cumprimento do disposto no número anterior, cabe à Autoridade tomar as medidas legais adequadas, podendo ainda impor a suspensão da exploração dos aproveitamentos ou o seu abandono."
+  },
+  "1055729675": {
+   "fragment_id": "1055729575",
+   "type": 11,
+   "heading": "Artigo 49.º — Revisão do Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Revisão do Regulamento\n\nO presente Regulamento será revisto cinco anos após a sua entrada em vigor."
+  },
+  "1073067775": {
+   "fragment_id": "1055716975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16.",
+    "Retificado pelo/a [Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452)."
+   ],
+   "markdown": "A segurança das barragens constitui uma preocupação permanente para as entidades públicas e privadas, dados os riscos potenciais que representam as possibilidades de ruptura ou outro acidente grave, em termos de vidas humanas e de custos económicos.\n\nHá muito que se reconhece a necessidade de dotar a nossa ordem jurídica de regulamentação específica em matéria de segurança de barragens que complementasse a legislação existente.\n\nO presente diploma estabelece as formas de controlo de segurança das barragens, nomeadamente nas fases de projecto, construção, primeiro enchimento da albufeira, exploração, abandono e demolição, contemplando em especial a matéria da observação das barragens e medidas de protecção civil com elas relacionadas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Diploma, Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452) A retificação ao presente ato, produz efeitos no prazo de seis meses, a contar da publicação (1-06-1990) deste .\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452)."
+  },
+  "1073067975": {
+   "fragment_id": "1071351275",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Regulamento de Segurança de Barragens, que é publicado em anexo e faz parte integrante do presente diploma.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068075": {
+   "fragment_id": "1071349375",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor seis meses após a data da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068175": {
+   "fragment_id": "1055717175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 14 de Dezembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Dezembro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068275": {
+   "fragment_id": "1055717375",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Segurança de Barragens",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "## Anexo — Regulamento de Segurança de Barragens\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068375": {
+   "fragment_id": "1055717575",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068475": {
+   "fragment_id": "1055717775",
+   "type": 8,
+   "heading": "Secção I — Objecto, âmbito e definições",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "#### Secção I — Objecto, âmbito e definições\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068575": {
+   "fragment_id": "1055717975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto a segurança de barragens durante as fases de projecto, construção, primeiro enchimento, exploração e abandono.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068675": {
+   "fragment_id": "1055718175",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente Regulamento aplica-se:\n\na) A todas as barragens de altura superior a 15 m, medida desde a parte mais baixa da superfície geral das fundações até ao coroamento;\n\nb) Às barragens de altura inferior a 15 m cuja albufeira tenha uma capacidade superior a 100000 m3.\n\n2 - Poderão ainda ser sujeitas às disposições do presente Regulamento outras barragens, desde que, no acto de aprovação de projectos de aproveitamento de águas públicas ou particulares, a entidade competente verifique a existência de risco potencial elevado ou significativo.\n\n3 - As disposições do presente Regulamento são aplicáveis, com as devidas adaptações, às obras a cargo do Estado.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068775": {
+   "fragment_id": "1055718375",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16.",
+    "Retificado pelo/a [Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452), em vigor a partir de 1990-02-28."
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Abandono - fase da vida da obra em que esta deixa de ser explorada;\n\nb) Acidente - ocorrência excepcional relativa ao comportamento da barragem, cuja evolução não controlada é susceptível de conduzir à ruptura de uma ou mais componentes estruturais, podendo originar uma onda de inundação;\n\nc) Albufeira - quer o volume de água retido pela barragem (conteúdo), quer o terreno que circunda o mesmo volume (continente), quer ambos, devendo o sentido, em cada caso, ser deduzido do contexto;\n\nd) Barragem - conjunto formado pelo corpo da barragem propriamente dita, sua fundação, zona vizinha a jusante, órgãos de segurança e exploração e albufeira;\n\ne) Catástrofe - ocorrência excepcional afectando grande número de pessoas, provocando vítimas, prejuízos materiais avultados e ultrapassando a capacidade da comunidade atingida para lhe fazer face;\n\nf) Cenários - situações que devem ser encaradas para avaliação das condições de segurança das obras e que se classificam em duas categorias, conforme correspondam às condições de uso normal das estruturas (cenários correntes) ou sejam associados a uma ocorrência excepcional (cenários de ruptura);\n\ng) Circunstâncias anómalas - factos ligados às acções, à exploração ou às características estruturais que se traduzem em comportamentos que não se enquadram na evolução prevista;\n\nh) Conservação - medidas especiais definidas de acordo com o comportamento observado e destinadas a manter ou repor as condições de funcionalidade das estruturas e dos equipamentos;\n\ni) Construção - fase da vida da obra em que se executam os trabalhos projectados de acordo com normas visando a qualidade da obra e, nomeadamente, as condições de segurança;\n\nj) Controlo de segurança - conjunto de medidas a tomar nas várias fases da vida da obra e contemplando aspectos estruturais, hidráulicos, operacionais e ambientais, com vista ao conhecimento adequado e continuado do estado da barragem, à detecção oportuna de eventuais anomalias e a uma intervenção eficaz sempre que esta se revele necessária;\n\nl) Controlo expedito de segurança - verificação que incide na análise de um conjunto restrito de grandezas representativas do comportamento e em inspecções cuja periodicidade será adequada à natureza das obras e à evolução das acções;\n\nm) Critérios de dimensionamento - princípios relativos à segurança, funcionalidade, durabilidade e economia que orientam o dimensionamento das obras;\n\nn) Demolição - destruição de uma obra ou de parte dela, planeada e executada de acordo com as necessárias condições de segurança, visando repor, na medida do possível, as condições existentes antes da construção;\n\no) Director técnico da obra - responsável técnico pela boa condução dos trabalhos de construção, de acordo com o projecto aprovado;\n\np) Dono da obra - entidade responsável pela obra perante a Administração Pública;\n\nq) Esvaziamento rápido da albufeira - esvaziamento da albufeira a uma velocidade tal que as pressões neutras resultantes podem pôr em perigo a estabilidade da barragem;\n\nr) Exploração - fase da vida da obra em que esta é utilizada de acordo com os objectivos que levaram à sua construção;\n\ns) Incidente - anomalia susceptível de afectar, a curto ou longo prazo, a funcionalidade da obra e que implica a tomada de medidas de conservação;\n\nt) Manutenção - conjunto de medidas de rotina destinado a garantir as condições de funcionalidade das obras e dos equipamentos e aplicado independentemente do comportamento observado;\n\nu) Modelo - representação das obras projectadas ou construídas, das acções e dos comportamentos que permite simular a realidade para avaliação da sua segurança;\n\nv) Ocorrência excepcional - facto não previsto, ou apenas previsível para um período de recorrência muito superior ao da vida da obra, em regra de desenvolvimento rápido, relativo a acções, às características das estruturas, a materiais ou à exploração da obra;\n\nx) Onda de inundação - onda de cheia resultante de um acidente, que pode provocar vítimas e prejuízos económicos e afectar o ambiente;\n\nz) Patamar de enchimento - período de tempo, no decurso do enchimento de uma albufeira, durante o qual se impõe um nível de água aproximadamente constante, com o objectivo de realizar as inspecções e a avaliação da segurança previstas no plano de primeiro enchimento;\n\naa) Plano de observação - documento de carácter vinculativo no qual se baseia o controlo de segurança estrutural;\n\nbb) Primeiro enchimento - fase da vida da obra durante a qual pela primeira vez o nível da água na albufeira sobe até ao nível máximo de exploração e em que deve ser verificada a normalidade do comportamento da barragem e a fiabilidade dos equipamentos;\n\ncc) Programa de enchimento da albufeira - planeamento do modo e dos prazos de enchimento da albufeira, a estabelecer de acordo com os caudais previsíveis e com as necessidades do controlo de segurança;\n\ndd) Projecto - conjunto de documentos que permitem a definição e o dimensionamento da obra e o esclarecimento das suas condições de execução e de exploração;\n\nee) Risco efectivo - produto do risco potencial pela probabilidade de ocorrência do acidente com ele relacionado;\n\nff) Risco potencial - quantificação das consequências de um acidente, independentemente da probabilidade da sua ocorrência, e que pode ser graduado nos seguintes níveis, de acordo com as perdas em vidas humanas e bens materiais:\n\nBaixo - na ausência de perdas de vidas humanas e custos materiais reduzidos;\n\nSignificativo - havendo perda de algumas vidas humanas e custos materiais relativamente importantes;\n\nElevado - quando haja lugar à perda de um número apreciável de vidas humanas e os custos materiais sejam altos;\n\ngg) Segurança (da barragem) - capacidade da barragem para satisfazer as exigências de comportamento necessárias para evitar incidentes e acidentes, e que se referem a aspectos estruturais, hidráulicos, operacionais e ambientais;\n\nhh) Segurança ambiental - capacidade da barragem para satisfazer as exigências de comportamento relativas à limitação de incidências prejudiciais sobre o ambiente, designadamente sobre os meios populacionais e produtivos;\n\nii) Segurança estrutural - capacidade da barragem para satisfazer as exigências de comportamento estrutural perante as acções e outras influências, associadas à construção e exploração e a ocorrências excepcionais;\n\njj) Segurança hidráulica - capacidade da barragem para satisfazer as exigências de comportamento hidráulico dos órgãos de segurança e exploração e dos sistemas de impermeabilização, de filtragem e de drenagem;\n\nll) Segurança operacional - capacidade da barragem para satisfazer as exigências de comportamento relacionadas com a operação e funcionalidade dos equipamentos dos órgãos de segurança e exploração;\n\nmm) Sistema de aviso e alerta - conjunto organizado de recursos humanos e meios técnicos que tem por funções divulgar as normas de procedimento a adoptar por uma população face a situações de perigo e manter informada a população da área eventualmente afectada da iminência, ocorrência ou evolução de uma situação de perigo;\n\nnn) Sistema de observação - conjunto de dispositivos montado para a observação da barragem;\n\noo) Técnico responsável pela exploração - técnico com formação profissional adequada à importância da obra, encarregado da exploração, nomeadamente nos aspectos de segurança;\n\npp) Vida da obra - período durante o qual a existência da barragem, ou de parte dela, implica um risco potencial e que abrange as fases que vão desde a construção ao abandono.\n\n> Nota: [Diploma, Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452) A retificação ao presente artigo, produz efeitos no prazo de seis meses, a contar da publicação (1-06-1990) do Decreto-Lei n.º 11/90.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 49/1990, 2º Suplemento, Série I de 1990-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-307452), em vigor a partir de 1990-02-28."
+  },
+  "1073068875": {
+   "fragment_id": "1055718575",
+   "type": 8,
+   "heading": "Secção II — Organização do controlo de segurança",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "#### Secção II — Organização do controlo de segurança\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073068975": {
+   "fragment_id": "1055718775",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades envolvidas",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 4.º — Entidades envolvidas\n\n1 - O controlo de segurança das barragens, que se exerce desde a fase de projecto e por toda a vida das obras, compete às entidades a seguir designadas, nos termos definidos pelo presente diploma.\n\n2 - As entidades envolvidas no controlo de segurança das barragens são:\n\na) A Direcção-Geral dos Recursos Naturais, como organismo da administração central com competência genérica de controlo de segurança das barragens e que por isso se designa no presente Regulamento por Autoridade;\n\nb) O Laboratório Nacional de Engenharia Civil (LNEC);\n\nc) O Serviço Nacional de Protecção Civil (SNPC);\n\nd) A Comissão de Segurança de Barragens (CSB), criada pelo presente diploma;\n\ne) O dono da obra.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073069075": {
+   "fragment_id": "1055718975",
+   "type": 11,
+   "heading": "Artigo 5.º — Autoridade",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 5.º — Autoridade\n\n1 - Em matéria de controlo de segurança compete à Autoridade, designadamente:\n\na) Pronunciar-se sobre os projectos das barragens, nos termos da legislação em vigor;\n\nb) Fiscalizar a construção das obras;\n\nc) Controlar as condições de comportamento e conservação das barragens.\n\n2 - Nas fases de projecto, construção e primeiro enchimento ou enchimento após esvaziamento prolongado da albufeira, compete à Autoridade:\n\na) Promover a intervenção do LNEC, nos termos do presente Regulamento;\n\nb) Aprovar os planos de observação das barragens;\n\nc) Aprovar a designação pelo dono da obra do director técnico da obra e dos seus substitutos autorizados, cuja qualificação profissional deve ser adequada à importância da obra;\n\nd) Aprovar os planos de primeiro enchimento das albufeiras;\n\ne) Definir, em colaboração com o SNPC, os casos em que são necessários o planeamento de emergência e a criação de sistemas de aviso;\n\nf) Controlar o primeiro enchimento das albufeiras;\n\ng) Proceder a inspecções dos trabalhos e autorizar, sob o ponto de vista da segurança, a entrada da obra em exploração;\n\nh) Aprovar as normas de segurança a que deve estar submetida a exploração de cada aproveitamento hidráulico.\n\n3 - Na fase de exploração compete à Autoridade:\n\na) Aprovar a designação pelo dono da obra de um técnico responsável com qualificação profissional adequada à importância da obra;\n\nb) Apreciar os registos de observações e os demais dados relativos à conservação e exploração das obras, bem como os relatórios sobre o seu comportamento;\n\nc) Efectuar inspecções para verificar o estado de conservação das obras e de manutenção dos equipamentos;\n\nd) Determinar a elaboração de estudos e ensaios, bem como a realização de trabalhos e outras medidas necessárias para a garantia da segurança de pessoas e bens;\n\ne) Pronunciar-se sobre os projectos de alteração, ampliação, reparação a médio e a longo prazos, abandono ou demolição de obras.\n\n4 - No exercício das suas funções de fiscalização da construção das obras não realizadas pelo Estado, a Autoridade reger-se-á pela legislação aplicável às obras públicas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071175": {
+   "fragment_id": "1055719175",
+   "type": 11,
+   "heading": "Artigo 6.º — Laboratório Nacional de Engenharia Civil",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 6.º — Laboratório Nacional de Engenharia Civil\n\nSempre que no âmbito da alínea a) do n.º 2 do artigo 5.º lhe seja atribuída uma intervenção de carácter sistemático, compete ao LNEC:\n\na) Elaborar os planos de observação das barragens, a pedido do dono da obra ou sempre que a Autoridade assim o entender, e controlar a sua execução;\n\nb) Rever os planos de observação das barragens elaborados pelo dono da obra e controlar a sua execução;\n\nc) Elaborar ou rever, conforme os casos correspondam à alínea a) ou à alínea b) do presente artigo, os planos de primeiro enchimento das albufeiras e controlar a sua execução;\n\nd) Promover a constituição, na sua sede, de um arquivo informático dos dados dos sistemas de observação das barragens e explorá-lo de modo a manter um conhecimento actualizado do seu comportamento;\n\ne) Acompanhar permanentemente o comportamento das barragens e elaborar pareceres durante o primeiro enchimento e relatórios durante o primeiro período de exploração definido no plano de observação, assim como um relatório final;\n\nf) Pronunciar-se sobre relatórios do comportamento das barragens posteriormente ao primeiro período de exploração referido na alínea e) ou elaborar esses mesmos relatórios;\n\ng) Efectuar inspecções e elaborar pareceres em caso de ocorrências excepcionais ou de circunstâncias anómalas;\n\nh) Efectuar os estudos e ensaios que lhe forem solicitados no âmbito da alínea d) do n.º 3 do artigo 5.º do presente diploma.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071275": {
+   "fragment_id": "1055719375",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço Nacional de Protecção Civil",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 7.º — Serviço Nacional de Protecção Civil\n\n1 - Compete ao SNPC:\n\na) Assegurar o planeamento de emergência;\n\nb) Coordenar as acções de socorro.\n\n2 - As acções de socorro serão efectuadas através das estruturas próprias do sistema de protecção civil, em colaboração com todas as entidades intervenientes.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071375": {
+   "fragment_id": "1055719575",
+   "type": 11,
+   "heading": "Artigo 8.º — Comissão de Segurança de Barragens",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 8.º — Comissão de Segurança de Barragens\n\n1 - É criada a Comissão de Segurança de Barragens (CSB).\n\n2 - A CSB funciona junto do Conselho Superior de Obras Públicas e Transportes e tem a seguinte composição:\n\na) Um engenheiro inspector-geral de obras públicas e transportes, que preside;\n\nb) Dois representantes da Autoridade;\n\nc) Os chefes dos Departamentos de Barragens, de Geotecnia e de Hidráulica do LNEC;\n\nd) Um representante do SNPC;\n\ne) Um professor do curso de Engenharia Civil de cada uma das universidades;\n\nf) Dois engenheiros civis especializados em aproveitamentos hidráulicos, um designado pela Comissão Nacional Portuguesa das Grandes Barragens e outro pela Ordem dos Engenheiros;\n\ng) Dois engenheiros representantes da Electricidade de Portugal (EDP), E. P.;\n\nh) Um engenheiro civil representante da Direcção-Geral de Hidráulica e Engenharia Agrícola.\n\n3 - Compete à CSB:\n\na) Propor à Autoridade a adopção de medidas imediatas para salvaguarda da segurança de qualquer barragem;\n\nb) Elaborar normas sobre segurança das barragens, a pedido do Governo;\n\nc) Emitir parecer sobre os planos de emergência, os sistemas de aviso e os projectos de reparação exigidos por ocorrências excepcionais e sobre o abandono ou demolição de obras;\n\nd) Pronunciar-se sobre outros assuntos relativos à segurança das barragens que lhe sejam submetidos pela Autoridade ou pelo Governo;\n\ne) Dar parecer fundamentado, precedendo decisões da Autoridade que impliquem o esvaziamento da albufeira, excepto em situações de emergência;\n\nf) Pronunciar-se obrigatoriamente em todos os casos de recurso do dono da obra quanto a decisões da Autoridade em matéria abrangida pelo presente diploma.\n\n4 - A CSB é secretariada pelo vogal secretário do Conselho Superior de Obras Públicas e Transportes, que assegura o respectivo expediente através dos serviços a seu cargo.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071475": {
+   "fragment_id": "1055719775",
+   "type": 11,
+   "heading": "Artigo 9.º — Dono da obra",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 9.º — Dono da obra\n\n1 - Constituem obrigações do dono da obra nas fases de projecto e construção:\n\na) Promover a elaboração do projecto e de todos os estudos de apoio necessários, de acordo com as disposições do presente Regulamento, e submetê-lo, para aprovação, à Autoridade;\n\nb) Promover a elaboração do plano de observação e submeter esse plano à aprovação da Autoridade;\n\nc) Submeter à Autoridade a designação do director técnico da obra, nos termos da alínea c) do n.º 2 do artigo 5.º;\n\nd) Promover a execução das obras em conformidade com os projectos aprovados, com perfeição e solidez, empregando materiais de boa qualidade e durabilidade e uma técnica cuidada e mantê-los em perfeito estado de conservação e funcionamento;\n\ne) Facilitar, durante a construção, a acção de fiscalização e promover a execução do sistema de observação segundo as prescrições do respectivo plano;\n\nf) Organizar o arquivo técnico da construção;\n\ng) Promover a elaboração do plano de primeiro enchimento e submetê-lo à aprovação da Autoridade.\n\n2 - Constituem obrigações do dono da obra nas fases de primeiro enchimento e exploração:\n\na) Proceder ao primeiro enchimento da albufeira e promover o seu controlo de acordo com o respectivo plano;\n\nb) Submeter à Autoridade a designação de um técnico responsável nos termos da alínea a) do n.º 3 do artigo 5.º;\n\nc) Efectuar a exploração de acordo com as normas de segurança aprovadas pela Autoridade e promover a observação do comportamento das obras de acordo com o plano de observação relativo a essa fase;\n\nd) Comunicar à Autoridade ocorrências excepcionais e circunstâncias anómalas e promover o seu estudo e análise, assim como as medidas convenientes para as remediar;\n\ne) Submeter à aprovação da Autoridade os projectos de alteração ou ampliação e de reparações a médio ou logo prazo e ainda proceder à sua execução;\n\nf) Organizar e manter actualizado o arquivo técnico da exploração.\n\n3 - Constituem ainda obrigações do dono da obra, em caso de abandono ou demolição, submeter à aprovação da Autoridade o respectivo projecto e proceder à sua execução.\n\n4 - Cabe ao dono da obra suportar as despesas originadas pelo controlo de segurança e por outros estudos considerados indispensáveis pela Autoridade.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071575": {
+   "fragment_id": "1055719975",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissões de inquérito",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 10.º — Comissões de inquérito\n\nEm caso de acidente, a Autoridade nomeia uma comissão de inquérito, que tem como funções:\n\na) Estabelecer a natureza das causas do acidente;\n\nb) Apurar responsabilidades;\n\nc) Contribuir para o progresso dos conhecimentos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071675": {
+   "fragment_id": "1055720175",
+   "type": 1,
+   "heading": "Capítulo II — Controlo de segurança",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "### Capítulo II — Controlo de segurança\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071775": {
+   "fragment_id": "1055720375",
+   "type": 8,
+   "heading": "Secção I — Controlo de segurança na fase de projecto",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "#### Secção I — Controlo de segurança na fase de projecto\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071875": {
+   "fragment_id": "1055720575",
+   "type": 11,
+   "heading": "Artigo 11.º — Aspectos gerais",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 11.º — Aspectos gerais\n\n1 - O projecto deve ser precedido de estudos nos quais os problemas de segurança tenham sido devidamente considerados.\n\n2 - O projecto deve obedecer a critérios adequados e prever os dispositivos necessários para garantir a segurança nos aspectos estruturais, hidráulicos, operacionais e ambientais.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073071975": {
+   "fragment_id": "1055720775",
+   "type": 11,
+   "heading": "Artigo 12.º — Constituição do projecto",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 12.º — Constituição do projecto\n\nOs projectos devem incluir:\n\na) Memória e descrição geral das obras e equipamentos, com justificação da solução técnica adoptada, nas perspectivas de segurança e economia;\n\nb) Estudos climático e hidrológico;\n\nc) Estudos geológico, sismológico e geotécnico da região, da albufeira e do local de implantação das obras;\n\nd) Estudos da origem, tipos e características dos materiais de construção a utilizar;\n\ne) Estudo dos riscos potenciais induzidos pelo aproveitamento, que deverá ser elaborado tendo em vista a definição dos critérios de dimensionamento e servir de base ao planeamento de medidas de protecção civil, nos casos aplicáveis;\n\nf) Estudo do impacte ambiental;\n\ng) Dimensionamento da barragem e sua fundação, incluindo o projecto de tratamento desta última;\n\nh) Dimensionamento dos descarregadores e outros órgãos de segurança e exploração;\n\ni) Estudo da albufeira;\n\nj) Estudo do sistema de derivação provisória do curso de água durante a construção, incluindo as ensecadeiras necessárias;\n\nl) Estudo da ligação do local da barragem com a rede rodoviária e dos acessos desde aquele local a todos os pontos essenciais da obra;\n\nm) Sistema de telecomunicações e sistema de iluminação, especialmente no paramento de jusante e no coroamento, nas instalações de mecanismos e galerias de inspecção;\n\nn) Plano de execução das obras;\n\no) Cláusulas técnicas, a incluir nos cadernos de encargos, da construção e do equipamento;\n\np) Normas gerais de exploração da albufeira e de utilização dos órgãos de segurança;\n\nq) Anteplano de observação no qual deverão ser indicadas, com a respectiva justificação, as grandezas a observar, de acordo com a importância das obras, para verificação dos critérios do projecto e para controlo da segurança estrutural, para cenários correntes e de ruptura;\n\nr) Anteplano de primeiro enchimento.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072075": {
+   "fragment_id": "1055720975",
+   "type": 11,
+   "heading": "Artigo 13.º — Dimensionamento da barragem e da sua fundação",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 13.º — Dimensionamento da barragem e da sua fundação\n\n1 - No projecto serão referidos os critérios, modelos e métodos utilizados no dimensionamento da barragem e da sua fundação, considerando os riscos potenciais referidos na alínea e) do artigo 12.º, bem como as características do local e do esquema geral da obra.\n\n2 - Devem ser expressamente indicadas:\n\na) As características geométricas e físicas da estrutura;\n\nb) As acções estáticas e dinâmicas, suas possíveis variações ao longo da vida da obra e as suas combinações mais desfavoráveis para condições normais e para o caso de ocorrências excepcionais;\n\nc) As características, as propriedades e a previsão do comportamento dos materiais, nomeadamente nos aspectos hidráulico, mecânico e térmico;\n\nd) As características, as propriedades e a previsão do comportamento das fundações.\n\n3 - Deve ser elaborada uma lista de cenários correntes e de ruptura da barragem e suas fundações, previsíveis durante a vida da obra.\n\n4 - As condições de segurança do conjunto estrutura-fundação devem ser justificadas por meio de modelos de acções e de modelos estruturais, que serão analisados por métodos analíticos ou experimentais comprovados pela experiência.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072175": {
+   "fragment_id": "1055721175",
+   "type": 11,
+   "heading": "Artigo 14.º — Dimensionamento dos órgãos de segurança e exploração",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 14.º — Dimensionamento dos órgãos de segurança e exploração\n\n1 - O projecto conterá os critérios de dimensionamento dos órgãos de segurança e de exploração, nomeadamente os de descarga, as tomadas de água, as estruturas da central hidroeléctrica e circuitos hidráulicos integrados na barragem, bem como das obras de derivação provisória, designadamente dos pontos de vista de comportamento hidráulico e estrutural.\n\n2 - No dimensionamento dos órgãos de segurança e exploração serão considerados os seguintes aspectos gerais:\n\na) Deve ser justificada a cheia de projecto nas fases de construção e de exploração e considerado o risco potencial induzido pelo aproveitamento, tomando em conta a eventual existência de barragens a montante e a jusante;\n\nb) Os órgãos de segurança e exploração devem permitir o abaixamento da água da albufeira para níveis que garantam a segurança da barragem, bem como a regulação do nível de água na albufeira;\n\nc) O cálculo do tempo necessário para o esvaziamento da albufeira;\n\nd) A previsão dos dispositivos necessários para proceder à evacuação da água sem prejuízo para a barragem e para outras obras que possam ser afectadas, designadamente dispositivos de dissipação de energia e de protecção do leito e margens do curso de água;\n\ne) A justificação das soluções adoptadas por métodos analíticos e experimentais comprovados pela experiência e, sempre que a Autoridade o entenda, por meio de modelos hidráulicos e estruturais.\n\n3 - Os descarregadores de cheias devem ser aptos a escoar em qualquer circunstância a cheia de projecto sem necessidade de auxílio das descargas de fundo, tomadas de água ou outros dispositivos e satisfazer os seguintes requisitos, quando munidos de comportas:\n\na) Devem ser divididos em dois vãos, pelo menos;\n\nb) As comportas devem poder ser manobradas quer localmente, quer à distância, e mediante energia procedendo de duas origens distintas, além de poderem ser accionadas manualmente;\n\nc) No caso de se instalarem comportas automáticas, estas devem ser providas de dispositivos que permitam comprovar o seu automatismo e respectiva fiabilidade, qualquer que seja o nível da albufeira.\n\n4 - As descargas de fundo e de meio fundo devem permitir o esvaziamento da albufeira e ser equipadas com duas comportas de características idênticas às descritas na alínea b) do número anterior, uma funcionando como segurança e a outra destinada ao serviço normal da exploração.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072275": {
+   "fragment_id": "1055721375",
+   "type": 11,
+   "heading": "Artigo 15.º — Albufeira",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 15.º — Albufeira\n\n1 - Serão referidos os critérios que presidiram ao dimensionamento da albufeira, explicitando, nomeadamente, a capacidade total e a capacidade morta, a sedimentação previsível e a capacidade reservada para amortecimento de cheias.\n\n2 - Serão analisadas as características de impermeabilização da albufeira, a estabilidade das suas margens e indicadas as eventuais medidas a adoptar.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072375": {
+   "fragment_id": "1055721575",
+   "type": 11,
+   "heading": "Artigo 16.º — Outros dispositivos",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 16.º — Outros dispositivos\n\n1 - Devem prever-se no projecto instalações adequadas à importância do aproveitamento para medição de níveis de água e de caudais afluentes e efluentes.\n\n2 - Serão previstos, quando a importância da obra o justifique, meios de telecomunicação permanentemente operacionais entre a barragem, a central e centros de decisão ou operativos, destinados à transmissão de informações e ordens.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072475": {
+   "fragment_id": "1055721775",
+   "type": 8,
+   "heading": "Secção II — Plano de observação",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "#### Secção II — Plano de observação\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072575": {
+   "fragment_id": "1055721975",
+   "type": 11,
+   "heading": "Artigo 17.º — Aspectos gerais",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 17.º — Aspectos gerais\n\n1 - Após a aprovação do projecto, o dono da obra promove a elaboração do plano de observação, que se desenvolverá segundo as orientações propostas no anteplano e tomando em consideração eventuais alterações, recomendações ou outras informações entretanto recolhidas.\n\n2 - O plano de observação tem carácter vinculativo e visa essencialmente o controlo de segurança estrutural das obras principais, a realizar durante as fases de construção, primeiro enchimento, primeiro período de exploração e período de exploração subsequente.\n\n3 - Para cada uma das fases mencionadas no número anterior, o plano de observação deve ter em consideração os cenários de risco característicos de cada barragem, nomeadamente esvaziamentos rápidos, sismos e galgamentos rápidos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072675": {
+   "fragment_id": "1055722175",
+   "type": 11,
+   "heading": "Artigo 18.º — Constituição do plano de observação",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 18.º — Constituição do plano de observação\n\n1 - O plano de observação terá em conta o risco potencial induzido pela construção e exploração do aproveitamento e inclui indicações, consoante preconizado neste Regulamento, relativas a:\n\na) Inspecção visual;\n\nb) Instalação e exploração de um sistema de observação;\n\nc) Análise do comportamento e avaliação das condições de segurança das obras.\n\n2 - Relativamente à inspecção visual deve ter-se em atenção:\n\na) A indicação da periodicidade das visitas em condições normais;\n\nb) A sua obrigatoriedade após ocorrências excepcionais, tais como sismos importantes, grandes cheias e esvaziamentos totais ou quase totais das albufeiras;\n\nc) Os tipos de inspecção e qualificação técnica dos respectivos agentes;\n\nd) Os principais aspectos a inspeccionar nas obras e no sistema de observação;\n\ne) A forma de apresentação dos resultados da inspecção.\n\n3 - Relativamente a instalação e exploração do sistema de observação devem ser dadas indicações sobre:\n\na) A definição, devidamente justificada, das grandezas a observar que permitam avaliar as acções, as propriedades estruturais e as respostas das estruturas;\n\nb) As especificações relativas à aparelhagem e acessórios utilizados para determinação daquelas grandezas, bem como todos os restantes elementos necessários à colocação da aparelhagem e sua leitura (localização, percursos dos cabos, centrais de leitura e outros);\n\nc) Definição das medições que ficam a cargo do dono da obra e das medições que ficam a cargo do LNEC, para o que será estabelecido o necessário acordo entre estas duas entidades;\n\nd) As frequências de leitura a efectuar durante as fases de construção, primeiro enchimento e exploração e os critérios para adaptação em circunstâncias de variação rápida das acções ou ocorrências excepcionais;\n\ne) As especificações relativas à recolha e processamento da informação;\n\nf) Os procedimentos e esquema de comunicação a utilizar em caso de detecção de comportamento anómalo;\n\ng) O esquema previsto de elaboração de relatórios;\n\nh) As qualificações técnicas dos agentes encarregados da instalação e exploração do sistema de observação no local da obra.\n\n4 - Relativamente à análise do comportamento e avaliação das condições de segurança, o plano de observação deve fornecer indicações sobre:\n\na) Os modelos de comportamento a utilizar, que terão em conta os principais cenários de risco, associados às características estruturais e às acções e serão actualizados face aos elementos colhidos na observação do comportamento do protótipo;\n\nb) Os relatórios a elaborar, nomeadamente o relatório final do primeiro período de exploração.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072775": {
+   "fragment_id": "1055722375",
+   "type": 11,
+   "heading": "Artigo 19.º — Revisão do plano de observação",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 19.º — Revisão do plano de observação\n\n1 - A revisão do plano de observação, sempre que necessária nos termos da alínea b) do artigo 6.º, compete ao LNEC, que pode, fundamentadamente, introduzir alterações relativas a aspectos organizativos e técnicos.\n\n2 - A revisão é precedida de audiência do dono da obra e de outros intervenientes na organização do controlo de segurança estrutural.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072875": {
+   "fragment_id": "1055722575",
+   "type": 11,
+   "heading": "Artigo 20.º — Adaptação do plano de observação",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 20.º — Adaptação do plano de observação\n\n1 - O plano de observação será convenientemente adaptado sempre que a vida da obra, ocorrências excepcionais e os resultados da observação o justifiquem e, obrigatoriamente, decorridos 20 anos sobre a sua aprovação.\n\n2 - As adaptações do plano serão submetidas à aprovação da Autoridade.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073072975": {
+   "fragment_id": "1055722775",
+   "type": 8,
+   "heading": "Secção III — Controlo de segurança na fase de construção",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "#### Secção III — Controlo de segurança na fase de construção\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073075": {
+   "fragment_id": "1055722975",
+   "type": 11,
+   "heading": "Artigo 21.º — Aspectos gerais",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 21.º — Aspectos gerais\n\n1 - A construção deve ser executada em conformidade com o projecto e o caderno de encargos aprovados, fazendo uso dos materiais e métodos construtivos previstos e regulamentares, devendo o autor do projecto acompanhar obrigatoriamente a execução da obra.\n\n2 - Toda a alteração significativa do projecto que se revele necessária durante a construção deve ter a concordância do autor do projecto e ser sujeita à aprovação da Autoridade.\n\n3 - O dono da obra encarregará da construção um empreiteiro legalmente qualificado, atribuirá a assistência técnica e a fiscalização a um corpo técnico responsável e proporá à Autoridade a designação do director técnico da obra, indicando os seus substitutos autorizados.\n\n4 - Os cadernos de encargos da construção devem prever os trabalhos de observação, de modo a permitir a sua execução coordenada com os restantes trabalhos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073175": {
+   "fragment_id": "1055723175",
+   "type": 11,
+   "heading": "Artigo 22.º — Livro técnico da obra",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 22.º — Livro técnico da obra\n\n1 - O director técnico da obra manterá actualizado, durante a construção, um livro paginado e selado pela Autoridade, que é designado por livro técnico da obra e onde são registadas, além de outras, as ocorrências com interesse do ponto de vista de segurança.\n\n2 - O livro técnico da obra será posto à disposição da Autoridade, do LNEC, do autor do projecto e dos consultores durante as visitas à obra, devendo as entidades competentes exarar nele as suas recomendações e comentários.\n\n3 - Com base nos lançamentos efectuados no livro técnico da obra, o director técnico elaborará trimestralmente um boletim informativo a enviar à Autoridade e ao dono da obra, onde se resumirão as principais ocorrências registadas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073275": {
+   "fragment_id": "1055723375",
+   "type": 11,
+   "heading": "Artigo 23.º — Controlo da segurança estrutural",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 23.º — Controlo da segurança estrutural\n\n1 - Durante a construção, o controlo da segurança estrutural desenvolve-se através de acções de fiscalização previstas no n.º 4 do artigo 5.º e no n.º 3 do artigo 21.º e ainda da execução do plano de observação.\n\n2 - As informações de interesse para o controlo da segurança estrutural são enviadas à Autoridade.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073375": {
+   "fragment_id": "1055723575",
+   "type": 11,
+   "heading": "Artigo 24.º — Inspecções",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 24.º — Inspecções\n\n1 - Além da fiscalização permanente da construção, a Autoridade efectuará visitas de inspecção para acompanhar a execução dos trabalhos e, no caso de detecção de irregularidades, tomará as medidas julgadas convenientes, que podem incluir a suspensão das obras até que sejam preenchidas as condições exigidas.\n\n2 - Será lavrada acta de cada uma das inspecções, a qual será assinada pelos intervenientes e lançada no livro técnico da obra.\n\n3 - No final da construção, a Autoridade comprovará se a obra foi construída conforme o projecto e o caderno de encargos aprovados e de acordo com as prescrições deste Regulamento, sendo a comprovação feita perante desenhos de construção e uma descrição da forma como as obras foram construídas, elementos que devem ser fornecidos pelo dono da obra.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073475": {
+   "fragment_id": "1055723775",
+   "type": 11,
+   "heading": "Artigo 25.º — Arquivo técnico da obra relativo à construção",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 25.º — Arquivo técnico da obra relativo à construção\n\n1 - O dono da obra manterá permanentemente actualizado e à disposição da Autoridade um arquivo técnico de que constem, nomeadamente:\n\na) O livro técnico da obra;\n\nb) O plano de observação;\n\nc) Todos os elementos do projecto, tal como a obra for sendo executada, incluindo os cálculos justificativos e fotografias representativas das fundações e dos aspectos mais peculiares da construção;\n\nd) Os resultados dos ensaios de materiais utilizados (betão, solos, enrocamentos e maciço rochoso) e outros estudos laboratoriais efectuados e respectivos relatórios;\n\ne) Representação dos aspectos geológicos e geotécnicos das fundações e obras subterrâneas e os resultados relativos ao seu tratamento;\n\nf) Os programas de trabalhos;\n\ng) Os resultados da observação sucessivamente obtidos e devidamente actualizados e respectivos relatórios.\n\n2 - Após a conclusão da construção, o dono da obra promoverá a elaboração de um relatório com a síntese dos elementos referidos no número anterior.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073575": {
+   "fragment_id": "1055723975",
+   "type": 8,
+   "heading": "Secção IV — Controlo de segurança durante o primeiro enchimento da albufeira",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "#### Secção IV — Controlo de segurança durante o primeiro enchimento da albufeira\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073675": {
+   "fragment_id": "1055724175",
+   "type": 11,
+   "heading": "Artigo 26.º — Aspectos gerais",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 26.º — Aspectos gerais\n\n1 - O controlo de segurança durante o primeiro enchimento da albufeira, fase mais crítica da vida da obra do ponto de vista do risco envolvido, tem por objectivos:\n\na) Evitar a ocorrência de acidentes ou incidentes ou minimizar a sua importância e os seus efeitos;\n\nb) Assegurar que as obras e os equipamentos estão em condições de suportar as acções de serviço e que estes últimos funcionam adequadamente;\n\nc) Avaliar a eficácia do sistema de observação.\n\n2 - A informação obtida durante o primeiro enchimento da albufeira deve ainda ser utilizada para rever as hipóteses do projecto relativas ao comportamento da obra para as acções previsíveis durante a exploração.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073775": {
+   "fragment_id": "1055724375",
+   "type": 11,
+   "heading": "Artigo 27.º — Inspecção prévia",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 27.º — Inspecção prévia\n\n1 - A inspecção prévia ao primeiro enchimento, a realizar pela Autoridade com a colaboração do LNEC e perante um representante do dono da obra, tem por objectivo verificar se o estado da obra e a funcionalidade, tanto dos dispositivos de fecho do rio e dos equipamentos dos órgãos de segurança e exploração como do sistema de observação, permitem dar início ao enchimento.\n\n2 - Será lavrada acta da inspecção prévia, a qual será assinada pelos intervenientes e lançada no livro técnico da obra.\n\n3 - Com base na inspecção prévia e nas informações já disponíveis sobre o comportamento da obra, a Autoridade autorizará o início do enchimento ou, em alternativa, imporá as medidas correctivas consideradas necessárias.\n\n4 - A inspecção prévia pode ser anterior, simultânea ou posterior à comprovação referida no n.º 3 do artigo 24.º\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073875": {
+   "fragment_id": "1055724575",
+   "type": 11,
+   "heading": "Artigo 28.º — Plano de primeiro enchimento",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 28.º — Plano de primeiro enchimento\n\n1 - O plano de primeiro enchimento destina-se ao controlo de segurança durante esta fase da vida da obra, devendo ser elaborado e submetido à aprovação da Autoridade com adequada antecedência relativamente à data prevista para início do enchimento.\n\n2 - O plano contém, em regra, indicações sobre:\n\na) Inspecção visual contínua;\n\nb) Selecção de grandezas a observar, destinadas a um controlo expedito de segurança;\n\nc) Frequência de recolha de dados, em função do programa de enchimento da albufeira;\n\nd) Patamares de enchimento, quando se justifique, correspondendo a cada patamar uma visita de inspecção e uma avaliação das condições de segurança;\n\ne) Modelos para apoio da avaliação de segurança.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073073975": {
+   "fragment_id": "1055724775",
+   "type": 11,
+   "heading": "Artigo 29.º — Controlo da segurança estrutural",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 29.º — Controlo da segurança estrutural\n\n1 - A avaliação das condições de segurança estrutural durante o primeiro enchimento da albufeira será efectuada com base no plano de primeiro enchimento.\n\n2 - O prosseguimento do enchimento após cada patamar considerado carece de autorização da Autoridade apoiada em parecer sucinto, mas fundamentado, elaborado pelo LNEC, em que se ateste a normalidade do comportamento da obra.\n\n3 - Após a conclusão do enchimento da albufeira, o LNEC deverá elaborar um relatório final do comportamento da obra durante o primeiro enchimento.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074075": {
+   "fragment_id": "1055724975",
+   "type": 11,
+   "heading": "Artigo 30.º — Inspecção após o primeiro enchimento",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 30.º — Inspecção após o primeiro enchimento\n\n1 - A inspecção após o primeiro enchimento, a realizar pela Autoridade com a colaboração do LNEC e perante um representante do dono da obra, tem por objectivo verificar o estado da obra e equipamentos e contribuir para as decisões que serão tomadas relativamente à exploração.\n\n2 - A acta da inspecção será assinada pelos intervenientes e lançada no livro técnico da obra.\n\n3 - Com base na inspecção e tendo em conta o comportamento observado durante o primeiro enchimento da albufeira, a Autoridade decide do início da exploração, impondo ainda as medidas correctivas consideradas necessárias.\n\n4 - No caso de as medidas referidas no número anterior exigirem revisão das normas de segurança a que se refere a alínea c) do n.º 2 do artigo 9.º, essa revisão será apresentada pelo dono da obra à Autoridade para aprovação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074175": {
+   "fragment_id": "1055725175",
+   "type": 8,
+   "heading": "Secção V — Controlo de segurança durante a fase de exploração",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "#### Secção V — Controlo de segurança durante a fase de exploração\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074275": {
+   "fragment_id": "1055725375",
+   "type": 11,
+   "heading": "Artigo 31.º — Aspectos gerais",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 31.º — Aspectos gerais\n\n1 - Durante a fase de exploração, o dono da obra deve garantir o cumprimento das normas de segurança gerais e das definidas para o aproveitamento, a manutenção e a conservação de todos os órgãos de segurança e exploração e seus equipamentos, assim como as actividades de controlo do comportamento que lhe competirem.\n\n2 - No primeiro período da fase de exploração, definido no plano de observação, deve ser acumulada informação que permita caracterizar o comportamento da obra.\n\n3 - A informação acumulada relativa ao comportamento da obra deve ser utilizada por forma a melhorar o controlo de segurança subsequente e permitir uma mais fundamentada avaliação de eventuais ocorrências excepcionais.\n\n4 - Sempre que se prevejam condições de exploração diferentes das de exploração normal, o dono da obra deve informar a Autoridade.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074375": {
+   "fragment_id": "1055725575",
+   "type": 11,
+   "heading": "Artigo 32.º — Normas de segurança",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 32.º — Normas de segurança\n\n1 - As normas de segurança específicas do aproveitamento devem:\n\na) Respeitar as condições de segurança estrutural, hidráulica, operacional e ambiental;\n\nb) Enquadrar-se nas normas gerais de segurança;\n\nc) Ser sujeitas à aprovação da Autoridade, conforme previsto na alínea h) do n.º 2 do artigo 5.º\n\n2 - O técnico responsável referido na alínea b) do n.º 2 do artigo 9.º dará continuidade ao livro técnico da obra, registando as ocorrências mais significativas do ponto de vista de segurança, devendo observar-se o disposto no n.º 2 do artigo 22.º quanto às visitas à obra das entidades aí mencionadas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074475": {
+   "fragment_id": "1055725775",
+   "type": 11,
+   "heading": "Artigo 33.º — Controlo da segurança estrutural",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 33.º — Controlo da segurança estrutural\n\n1 - O controlo da segurança estrutural será realizado de acordo com o especificado no plano de observação, designadamente nos aspectos de visitas de inspecção, de exploração do sistema de observação e de análise do comportamento e avaliação das condições de segurança das obras.\n\n2 - Na exploração do sistema de observação deve-se atender aos seguintes aspectos:\n\na) É recomendável a automatização da recolha, transmissão, validação e tratamento dos dados, podendo essa automatização ser imposta pela Autoridade;\n\nb) Os dados da observação devem ser imediatamente tratados e analisados e verificada a conformidade dos resultados com os modelos de comportamento preestabelecidos, podendo esta comparação dar lugar a uma reformulação dos modelos e a uma reavaliação das condições de segurança das obras.\n\n3 - Durante o primeiro período de exploração serão elaborados relatórios de acordo com o plano de observação, após o que será elaborado o relatório final, compreendendo:\n\na) A análise dos resultados de todas as observações efectuadas neste período;\n\nb) Os parâmetros definidores do comportamento normal da obra, com vista ao controlo da segurança no período subsequente;\n\nc) Informações complementares que possam contribuir para uma melhor previsão do comportamento da barragem em cenários de ruptura;\n\nd) Eventual proposta de adaptação do plano de observação para esse período.\n\n4 - Na realização do controlo da segurança estrutural ter-se-á em atenção que:\n\na) As ocorrências excepcionais e circunstâncias anómalas devem, de acordo com a alínea d) do n.º 2 do artigo 9.º, ser comunicadas à Autoridade e promovido o seu estudo, assim como o das medidas convenientes para as remediar;\n\nb) As adaptações do plano de observação previstas no artigo 20.º serão efectuadas após visitas de inspecção e considerarão, nomeadamente, os aspectos relativos à deterioração dos materiais.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074575": {
+   "fragment_id": "1055725975",
+   "type": 11,
+   "heading": "Artigo 34.º — Controlo da segurança estrutural durante esvaziamentos rápidos da albufeira",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 34.º — Controlo da segurança estrutural durante esvaziamentos rápidos da albufeira\n\n1 - O controlo da segurança, a realizar por ocasiões de esvaziamentos rápidos da albufeira quando o risco envolvido o justifique, tem por objectivos evitar a ocorrência de acidentes ou minimizar a sua importância e efeitos e ainda rever as hipóteses de projecto.\n\n2 - Nos casos previstos no número anterior deverá o dono da obra:\n\na) Promover a adaptação do plano de observação tendo em conta o programa de esvaziamento e contemplando os aspectos previstos no n.º 2 do artigo 28.º, com os ajustamentos convenientes;\n\nb) Submeter as adaptações do plano de observação à aprovação prévia da Autoridade;\n\nc) Promover, após cada esvaziamento rápido, a elaboração de relatório do comportamento da obra.\n\n3 - Com base no comportamento observado, a Autoridade imporá eventuais medidas correctivas, as quais poderão exigir revisão das normas de segurança específicas do aproveitamento.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074675": {
+   "fragment_id": "1055726175",
+   "type": 11,
+   "heading": "Artigo 35.º — Controlo da segurança hidráulica, operacional e ambiental",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 35.º — Controlo da segurança hidráulica, operacional e ambiental\n\n1 - O controlo da segurança hidráulica será efectuado por aplicação das normas de exploração, bem como por verificação e eventual revisão dos critérios de projecto, nomeadamente em relação aos órgãos de segurança e exploração e aos sistemas de impermeabilização, de filtragem e de drenagem.\n\n2 - O controlo da segurança operacional é feito por aplicação das normas de exploração relativas:\n\na) À operação dos equipamentos;\n\nb) A medidas de manutenção;\n\nc) A medidas de conservação, quando se revelem necessárias.\n\n3 - O controlo da segurança ambiental será efectuado de acordo com as normas de exploração, tomando em consideração, nomeadamente, aspectos relacionados com as precipitações e cheias, com os descarregamentos e caudais mínimos a jusante, com a sismicidade induzida e com o caudal sólido e características da água da albufeira.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074775": {
+   "fragment_id": "1055726375",
+   "type": 11,
+   "heading": "Artigo 36.º — Inspecções",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 36.º — Inspecções\n\n1 - A Autoridade efectuará, periodicamente e sempre que julgar oportuno, visitas de inspecção, com a colaboração do LNEC e perante um representante do dono da obra.\n\n2 - São oportunidades a considerar para a realização dessas visitas:\n\na) Épocas de nível máximo na albufeira;\n\nb) O primeiro esvaziamento da albufeira;\n\nc) Outros abaixamentos significativos do nível da água;\n\nd) A verificação de ocorrências excepcionais, tais como sismos e cheias.\n\n3 - São objectivos dessas visitas:\n\na) Inspecção visual das obras, incluindo o corpo da barragem, sua fundação, zona vizinha a jusante, órgãos de segurança e exploração e albufeira, devendo ser dada especial atenção à existência de ressurgências e fissuras;\n\nb) Verificação das condições de manutenção e operacionalidade dos equipamentos;\n\nc) Verificação do sistema de observação.\n\n4 - Será lavrada acta de cada uma das visitas, a qual será assinada pelos intervenientes e lançada no livro técnico da obra.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074875": {
+   "fragment_id": "1055726575",
+   "type": 11,
+   "heading": "Artigo 37.º — Ocorrências excepcionais e circunstâncias anómalas",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 37.º — Ocorrências excepcionais e circunstâncias anómalas\n\n1 - As medidas que se revelem necessárias face a ocorrências excepcionais ou circunstâncias anómalas devem ser tomadas pelo dono da obra em conformidade com o disposto na alínea d) do n.º 2 do artigo 9.º\n\n2 - Medidas imediatas para diminuir os riscos devem ser tomadas pelo dono da obra com o conhecimento da Autoridade, nomeadamente nos casos de cheias ou sismos, de erosões provocadas pelas descargas ou da observação de comportamentos anormais, podendo estas medidas compreender:\n\na) O abaixamento controlado do nível de água na albufeira;\n\nb) A realização de reparações adequadas.\n\n3 - No caso de reparações a efectuar a médio ou a longo prazos, o dono da obra deve promover a elaboração dos respectivos projectos, que serão submetidos a parecer da CSB e a aprovação da Autoridade.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073074975": {
+   "fragment_id": "1055726775",
+   "type": 11,
+   "heading": "Artigo 38.º — Arquivo técnico da obra relativo à exploração",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 38.º — Arquivo técnico da obra relativo à exploração\n\nO dono da obra manterá permanentemente actualizado e à disposição da Autoridade um arquivo técnico, com as suas peças devidamente ordenadas e classificadas, complementar do referido no artigo 25.º, do qual constarão, nomeadamente:\n\na) O Regulamento de Segurança de Barragens;\n\nb) As normas de segurança específicas do aproveitamento;\n\nc) Os resultados dos estudos laboratoriais, assim como os resultados das observações e inspecções efectuadas após a construção e respectivos relatórios;\n\nd) Os dados relativos a trabalhos complementares e modificações efectuadas após a construção e eventuais obras de reparação;\n\ne) Os dados relativos a sistemas de aviso e aos planos de emergência de protecção civil.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075075": {
+   "fragment_id": "1055726975",
+   "type": 8,
+   "heading": "Secção VI — Controlo de segurança nos casos de abandono e demolição",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "#### Secção VI — Controlo de segurança nos casos de abandono e demolição\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075175": {
+   "fragment_id": "1055727175",
+   "type": 11,
+   "heading": "Artigo 39.º — Aspectos gerais",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 39.º — Aspectos gerais\n\n1 - O abandono e a demolição das estruturas de um aproveitamento devem fazer-se respeitando as exigências de segurança e carecem de aprovação da Autoridade, precedida de parecer da CSB.\n\n2 - A Autoridade pode exigir a demolição de estruturas ou a remoção de obstáculos que embaracem o curso livre das águas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075275": {
+   "fragment_id": "1055727375",
+   "type": 11,
+   "heading": "Artigo 40.º — Projecto de abandono e demolição",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 40.º — Projecto de abandono e demolição\n\n1 - O abandono e a demolição de uma barragem devem ser precedidos do respectivo projecto, a submeter pelo dono da obra à Autoridade, nos termos da alínea e) do n.º 3 do artigo 5.º\n\n2 - O projecto referido no número anterior deve incluir:\n\na) A justificação das opções tomadas;\n\nb) A descrição do processo de retirada de serviço do aproveitamento, do seu abandono e da eventual demolição das estruturas;\n\nc) A verificação da estabilidade das estruturas que permanecerão tendo em consideração as novas condições de funcionamento;\n\nd) Proposta para o controlo da segurança das estruturas que devam permanecer;\n\ne) Estudos hidráulicos sobre as consequências de abandono e eventual demolição das estruturas, designadamente sobre a formação do novo leito a montante e sobre o controlo de cheias, o caudal sólido e a exploração de barragens a jusante;\n\nf) Soluções propostas para eliminar ou minimizar as eventuais consequências negativas do abandono do aproveitamento.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075375": {
+   "fragment_id": "1055727575",
+   "type": 11,
+   "heading": "Artigo 41.º — Execução dos trabalhos de demolição",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 41.º — Execução dos trabalhos de demolição\n\nOs trabalhos de demolição devem ser executados por processos adequados, sem afectar a estabilidade das estruturas que eventualmente devam permanecer e sem embaraçar o curso livre das águas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075475": {
+   "fragment_id": "1055727775",
+   "type": 1,
+   "heading": "Capítulo III — Medidas de protecção civil",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "### Capítulo III — Medidas de protecção civil\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075575": {
+   "fragment_id": "1055727975",
+   "type": 11,
+   "heading": "Artigo 42.º — Aspectos gerais",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 42.º — Aspectos gerais\n\n1 - O cumprimento das disposições dos artigos anteriores não dispensa a previsão de medidas especiais com vista à protecção de pessoas e bens em caso de acidentes resultantes, nomeadamente, de catástrofes e também de acções de guerra ou sabotagem ou em outras circunstâncias susceptíveis de afectarem a segurança em qualquer dos seus aspectos.\n\n2 - As medidas a prever terão em conta o estudo de ondas de inundação apresentado no projecto, que incluirá a determinação das alturas da água a atingir nas zonas inundáveis e dos respectivos tempos de chegada, constituindo o mapeamento dessas zonas uma carta de riscos que servirá de base à definição de estratégias de protecção a tomar em zonas diferenciadas.\n\n3 - Os resultados dos estudos das zonas de inundação, a comunicar ao SNPC, são de carácter reservado.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075675": {
+   "fragment_id": "1055728175",
+   "type": 11,
+   "heading": "Artigo 43.º — Acções de guerra ou sabotagem",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 43.º — Acções de guerra ou sabotagem\n\nA Autoridade, em ligação com o SNPC, colaborará com os ministérios competentes na aplicação das medidas de protecção mais adequadas para a segurança das barragens em situações de ameaça de guerra ou sabotagem.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075775": {
+   "fragment_id": "1055728375",
+   "type": 11,
+   "heading": "Artigo 44.º — Plano de emergência",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 44.º — Plano de emergência\n\n1 - O plano de emergência, que será elaborado com intervenção directa do centro operacional de protecção civil distrital e do dono da obra, é um documento vinculativo que determina as ligações hierárquicas e funcionais de todos os intervenientes, atribuindo-lhes as respectivas missões e garantindo a coordenação e o empenhamento progressivo de meios e recursos necessários para fazer face às consequências de um acidente ou de uma catástrofe.\n\n2 - O plano elaborado de acordo com o número anterior será submetido a parecer da CSB e a aprovação conjunta do SNPC e da Autoridade.\n\n3 - O plano indicará uma periodicidade para a realização de treinos das operações previstas, devendo nesses treinos ser ensaiados os sistemas de aviso e alerta.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075875": {
+   "fragment_id": "1055728575",
+   "type": 11,
+   "heading": "Artigo 45.º — Sistemas de aviso e alerta",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 45.º — Sistemas de aviso e alerta\n\n1 - Além dos dispositivos previstos no n.º 2 do artigo 16.º, relativos a comunicações rápidas e sempre funcionais com centros operacionais e de decisão, no local da barragem deve também dispor-se de equipamento de alerta que permita o aviso de situações de perigo em zonas que possam ser afectadas.\n\n2 - Os encargos com os sistemas de aviso e alerta referidos no número anterior pertencem ao dono da obra, a quem compete também a sua manutenção, por forma a estarem permanentemente operacionais.\n\n3 - Na fase de detecção de perigo, este deve ser imediatamente comunicado ao centro operacional de protecção civil distrital por linha telefónica ponto a ponto, para que este determine prontamente a preparação das forças de socorro para eventual mobilização.\n\n4 - Em caso de perigo iminente, que obrigue à imediata evacuação das populações, devem ser accionados os sistemas de aviso e alerta e, simultaneamente, feito o aviso ao centro operacional referido no número anterior e aos outros órgãos responsáveis indicados no plano de emergência.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073075975": {
+   "fragment_id": "1055728775",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares e transitórias",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "### Capítulo IV — Disposições complementares e transitórias\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073076075": {
+   "fragment_id": "1055728975",
+   "type": 11,
+   "heading": "Artigo 46.º — Normas",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 46.º — Normas\n\nPara a boa execução do presente Regulamento serão estabelecidas em portaria dos Ministros da Defesa Nacional, do Planeamento e da Administração do Território, da Administração Interna, da Agricultura, Pescas e Alimentação, da Indústria e Energia e das Obras Públicas, Transportes e Comunicações as normas relativas ao projecto, à construção, à exploração e à observação e inspecção das barragens.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073076175": {
+   "fragment_id": "1055729175",
+   "type": 11,
+   "heading": "Artigo 47.º — Aplicação às obras em construção",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 47.º — Aplicação às obras em construção\n\nO presente Regulamento aplica-se a partir da sua entrada em vigor às barragens que se encontrem nas fases de construção ou primeiro enchimento da albufeira.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073076275": {
+   "fragment_id": "1055729375",
+   "type": 11,
+   "heading": "Artigo 48.º — Aplicação às barragens já construídas",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 48.º — Aplicação às barragens já construídas\n\n1 - É estabelecido o prazo de cinco anos para aplicação do Regulamento às barragens em exploração ou em estado de abandono, sendo essa aplicação resultante de um processo que envolve:\n\na) A avaliação das condições actuais de cada obra, dos pontos de vista do risco potencial, segurança e funcionalidade das obras e dos equipamentos, e verificação da sua concordância com as disposições deste Regulamento, designadamente no que se refere ao projecto, construção, exploração e observação;\n\nb) A determinação das medidas que seja necessário empreender para adaptação das obras às condições do Regulamento;\n\nc) A execução dessas medidas num prazo a fixar pela Autoridade.\n\n2 - As acções a que se referem as alíneas a) e b) do número anterior devem resultar de inspecções e da análise da informação disponível, actividades a desenvolver pela Autoridade, com a colaboração do LNEC, de um delegado do dono da obra e eventualmente de consultores especializados, e devem ser seguidas da elaboração do respectivo relatório.\n\n3 - A execução, no prazo fixado de acordo com a alínea c) do n.º 1, das medidas necessárias compete ao dono da obra, para o que deverá previamente promover a realização dos estudos, projectos e programas de trabalhos e submetê-los à aprovação da Autoridade.\n\n4 - Na falta de cumprimento do disposto no número anterior, cabe à Autoridade tomar as medidas legais adequadas, podendo ainda impor a suspensão da exploração dos aproveitamentos ou o seu abandono.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  },
+  "1073076375": {
+   "fragment_id": "1055729575",
+   "type": 11,
+   "heading": "Artigo 49.º — Revisão do Regulamento",
+   "in_force_from": "2008-01-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+   ],
+   "markdown": "###### Artigo 49.º — Revisão do Regulamento\n\nO presente Regulamento será revisto cinco anos após a sua entrada em vigor.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 344/2007 - Diário da República n.º 198/2007, Série I de 2007-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-2007-641445), em vigor a partir de 2008-01-16."
+  }
+ }
+}

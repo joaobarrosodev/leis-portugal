@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:482576:por
+title: Decreto-Lei n.º 246/2003
+short_title: null
+summary: Transfere para a Caixa Geral de Aposentações a responsabilidade dos CTT - Correios de Portugal, S. A., pelos encargos
+  com as pensões de aposentação do respectivo pessoal subscritor daquela entidade, já aposentado ou no activo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 246/2003
+official_date: null
+publication_date: '2003-10-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 233/2003, Série I-A de 2003-10-08
+  number: '233'
+  series: I
+  supplement: null
+  pages: 6632 - 6633
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/10/233a00/66326633.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/246/2003/10/08/p/dre/pt/html
+  oj: null
+  dre: '482576'
+  dre_path: /dr/detalhe/decreto-lei/246-2003-482576
+  internal: pt:dre:482576:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2003-482576
+  metadata_url: https://data.dre.pt/eli/dec-lei/246/2003/10/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2003-482576
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:39:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1dcb16d09a89fd14a2438b22ee52efae6402ccbbabcdf474ea71447f4b7b75df
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa Geral de Aposentações
+- Capital Social
+- Contribuições da Segurança Social
+- CTT
+- Estatuto
+- Extinção de Serviços
+- Fundo de Pensões
+- Pensão de Aposentação
+- Prestações da Segurança Social
+- Transferência de Competências
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/42-a/1998/03/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/42-a/1998/03/23/p/dre
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264277:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/122/1994/05/14/p/dre
+- type: cites
+  target: pt:dre:457198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522187:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/88/1992/05/14/p/dre
+- type: cites
+  target: pt:dre:532052:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/277/1992/12/15/p/dre
+- type: cites
+  target: pt:dre:563029:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/241/1995/09/13/p/dre
+- type: cites
+  target: pt:dre:636690:por
+  label: null
+  source: null
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:39:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 246/2003
+
+de 8 de Outubro
+
+O [Decreto-Lei n.º 36610](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36610-1947-636690), de 24 de Novembro de 1947, introduziu, no seu artigo 25.º, significativa alteração ao regime de aposentações do pessoal da Administração Geral dos Correios Telégrafos e Telefones, que assim passou a receber as quotas descontadas no vencimento dos seus trabalhadores e, em contrapartida, a ser responsável pelos encargos com as respectivas pensões de aposentação.
+
+A sublinhada transferência de responsabilidades da Caixa Geral de Aposentações processou-se sem a transmissão das correspondentes reservas matemáticas, facto que, à partida, criou na Administração Geral dos Correios Telégrafos e Telefones uma situação de insuficiência na cobertura das novas responsabilidades com as pensões de aposentação do seu pessoal.
+
+Esta situação, que se manteve inalterada durante a profunda remodelação do sector das comunicações, foi sendo herdada pelas várias empresas com raiz na Administração Geral dos Correios Telégrafos e Telefones, tendo sido a primeira delas a empresa pública CTT - Correios e Telecomunicações de Portugal, E. P., criada pelo [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969.
+
+Encontrando-se previsto no n.º 4 do artigo 27.º deste diploma que os CTT abonam as pensões directamente ou através de fundo a instituir, foi constituído, em 31 de Dezembro de 1988, o Fundo de Pensões do Pessoal dos CTT, destinado a «assegurar a satisfação dos encargos da responsabilidade dos CTT, resultantes dos planos de pensões desenvolvidos e executados pela Caixa Geral de Aposentações, nos termos do Estatuto da Aposentação», Fundo esse que se manteve com a transformação dos CTT em sociedade anónima de capitais exclusivamente públicos, os CTT - Correios e Telecomunicações de Portugal, S. A. (CTT-SA).
+
+Na evolução sectorial subsequente, avultam a criação da Telecom de Portugal, S. A., realizada ao abrigo do [Decreto-Lei n.º 277/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1992-532052), de 15 de Dezembro, por cisão dos CTT, S. A.; a fusão da Telecom de Portugal, S. A., dos TLP - Telefones de Lisboa e Porto, S. A., e da Teledifusora de Portugal (TDP), S. A., na Portugal Telecom, S. A., operada pelo [Decreto-Lei n.º 122/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1994-264277), de 14 de Maio, e a constituição da CN - Comunicações Nacionais, SGPS, S. A., pelo [Decreto-Lei n.º 88/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1992-522187), de 14 de Maio, «para a gestão de todas as participações sociais que o Estado detiver no sector das telecomunicações».
+
+As anotadas transformações provocaram relativamente ao Fundo de Pensões (em obediência ao disposto no n.º 2 do artigo 5.º do citado [Decreto-Lei n.º 122/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1994-264277)), a autonomização das responsabilidades dos CTT - Correios de Portugal, S. A., e da Portugal Telecom, S. A.
+
+Por outro lado, com a aludida fusão, a CN - Comunicações Nacionais, SGPS, S. A., substituiu-se à Telecom de Portugal, S. A., na responsabilidade solidária que para ela tinha sido transferida nos termos do n.º 2 do artigo 122.º do Código das Sociedades Comerciais, com a cisão dos CTT - Correios e Telecomunicações de Portugal, S. A.
+
+Em última análise, a referida responsabilidade solidária acabou transmitindo-se ao Estado aquando da dissolução da CN, operada pelo [Decreto-Lei n.º 241/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1995-563029), de 13 de Setembro.
+
+Também por esta razão, o Estado, mais tarde, com a [Resolução do Conselho de Ministros n.º 42-A/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-a-1998-457198), de 11 de Março, assumiu um papel activo na superação das anotadas insuficiências estruturais do Fundo de Pensões do Pessoal dos CTT - Correios de Portugal, S. A., estimando e calendarizando a cobertura das suas responsabilidades para com o pessoal em situação de reforma em 31 de Dezembro de 1996.
+
+Não obstante o esforço financeiro já realizado pelo Estado e pelos CTT, não foi atingida a adequada cobertura das responsabilidades com pensões do pessoal abrangido pelo Fundo. Para isso, terá também contribuído a situação de insuficiência criada desde o início, quando o [Decreto-Lei n.º 36610](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36610-1947-636690), de 24 de Novembro de 1947, ao transferir as responsabilidades com pensões para a Administração Geral dos Correios Telégrafos e Telefones, não transferiu, consequentemente, as correspondentes reservas.
+
+Verifica-se, igualmente, que o regime de aposentação do pessoal admitido antes da transformação dos CTT em sociedade anónima não é o mais adequado às pessoas colectivas de direito privado, sendo apanágio do Estado e outras pessoas colectivas de direito público.
+
+Para além disso, não se apresenta racional que uma sociedade seja obrigada a actuar no mercado de acordo com regras díspares em relação ao contexto empresarial e económico em que se insere. Assim, pensa-se adequado promover uma clarificação da real situação patrimonial e contabilística dos CTT, de forma que esta empresa não apresente, por força de encargos que não lhe seriam normalmente imputáveis, contas de exploração cronicamente deficitárias.
+
+Importa, assim, encontrar uma fórmula que, sem prejuízo de direitos adquiridos, concilie, tanto quanto for possível, uma situação de ordem factual, que vem do passado, com as condições próprias de uma sociedade anónima em regime concorrencial. Justifica-se, por isso, que a empresa, nesta matéria, seja dotada de condições para o exercício da sua actividade semelhantes às dos outros operadores.
+
+A solução encontrada, e prevista neste diploma, de fazer regressar à Caixa Geral de Aposentações as responsabilidades com pensões do pessoal dos CTT abrangido pelo Estatuto de Aposentação, constitui a solução natural face aos antecedentes deste caso. Encontrando-se o pessoal dos CTT abrangido pelo Estatuto da Aposentação, considera-se, igualmente, dever ser-lhe aplicável regime idêntico ao da generalidade dos funcionários públicos.
+
+Os CTT ficam libertos da obrigação de manutenção de um Fundo de Pensões para este pessoal. O Fundo existente era, aliás, um fundo «instrumental» no sentido de a sua constituição se ter ficado a dever à preocupação da empresa de clarificar responsabilidades com o pagamento de pensões de reforma, não afectando as relações jurídicas entre os CTT e os seus trabalhadores no âmbito das pensões de reforma. Com efeito, nunca deixaram de ser os CTT os responsáveis pelo pagamento dos encargos com pensões deste grupo de pessoal.
+
+Em consequência da decisão de transferência de responsabilidades prevista neste diploma, deixará de fazer sentido manter na titularidade dos CTT os activos recebidos do Fundo. Justifica-se, assim, que a empresa transfira estes activos para a Caixa Geral de Aposentações, em contrapartida de lhe terem sido retiradas as responsabilidades com pensões deste pessoal.
+
+Atendendo a que parte desses activos tiveram origem nas dotações de capital decorrentes da aplicação da [Resolução do Conselho de Ministros n.º 42-A/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-a-1998-457198), de 11 de Março, ao enveredar-se por um modelo de solução diferente do previsto naquele diploma, justifica-se que revertam para o Estado os montantes de dotações de capital por este assumidos e realizados até esta data, transferindo-se o remanescente para a Caixa Geral de Aposentações.
+
+Foi ouvida a Caixa Geral de Aposentações.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Transferência de responsabilidades dos CTT por encargos com pensões de aposentação
+
+1 - A responsabilidade dos CTT - Correios de Portugal, S. A., pelos encargos com as pensões de aposentação do respectivo pessoal subscritor da Caixa Geral de Aposentações, já aposentado ou no activo, é transferida para esta entidade, com efeitos a partir de 1 de Janeiro de 2003.
+
+2 - Em conformidade com esta transferência, cessa a obrigação dos CTT - Correios de Portugal, S. A., na manutenção do Fundo de Pensões do respectivo pessoal abrangido pelo Estatuto da Aposentação.
+
+3 - Os CTT - Correios de Portugal, S. A., entregam mensalmente à Caixa Geral de Aposentações as quotas do pessoal ao seu serviço inscrito nesta Caixa, bem como uma contribuição de montante igual ao que, relativamente a esses trabalhadores, lhe competiria pagar, como entidade patronal, no âmbito do Regime Geral da Segurança Social, com efeitos desde a data referida no n.º 1.
+
+4 - As relações entre os CTT - Correios de Portugal, S. A., e a Caixa Geral de Aposentações deixam de reger-se pelo disposto no artigo 25.º do [Decreto-Lei n.º 36610](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36610-1947-636690), de 24 de Novembro de 1947.
+
+###### Artigo 2.º — Cessação de responsabilidades do Estado decorrentes da [Resolução do Conselho de Ministros n.º 42-A/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-a-1998-457198), de 11 de Março
+
+Cessa, com a entrada em vigor do presente diploma, a responsabilidade assumida pelo Estado, na [Resolução do Conselho de Ministros n.º 42-A/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-a-1998-457198), de 11 de Março, relativamente à cobertura das responsabilidades do Fundo de Pensões do Pessoal dos CTT - Correios de Portugal, S. A.
+
+###### Artigo 3.º — Transferência de activos para o Estado
+
+1 - Com a transferência, nos termos do artigo 1.º, da responsabilidade pelo pagamento das pensões para a Caixa Geral de Aposentações, os CTT - Correios de Portugal, S. A., entregam, em títulos de dívida pública portuguesa ou numerário, no prazo de 60 dias contados a partir da data de entrada em vigor do presente diploma, à Caixa Geral de Aposentações o património do seu Fundo de Pensões, que ora é extinto.
+
+2 - Para efeitos do número anterior, entende-se por património o conjunto dos activos na titularidade do Fundo de Pensões do Pessoal dos CTT - Correios de Portugal, S. A., existentes em 1 de Janeiro de 2003, acrescidos dos respectivos rendimentos e incrementos de valor até à data da sua efectiva entrega à Caixa Geral de Aposentações sob a forma prevista no número anterior.
+
+3 - Ao valor a que se refere o número anterior será deduzida a quantia de (euro) 268301000, correspondente à dotação de capital, já realizada, prevista na [Resolução do Conselho de Ministros n.º 42-A/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-a-1998-457198), de 11 de Março, que é entregue à Direcção-Geral do Tesouro.
+
+###### Artigo 4.º — Alteração do capital social dos CTT
+
+1 - Em resultado da cessação da responsabilidade assumida pelo Estado na [Resolução do Conselho de Ministros n.º 42-A/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-a-1998-457198), de 11 de Março, o capital social dos CTT - Correios de Portugal, S. A., é reduzido em (euro) 446475275, sem reembolso ao Estado, passando a ser de (euro) 87325000.
+
+2 - A presente alteração ao capital social dos CTT - Correios de Portugal, S. A., não carece de quaisquer outras autorizações, formas ou formalidades, considerando-se os respectivos estatutos imediatamente alterados, e devendo o necessário registo ser promovido oficiosamente pelo conservador do registo comercial competente com base na simples publicação do presente diploma no Diário da República, no prazo de 30 dias.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 31 de Julho de 2003. - José Manuel Durão Barroso. - Maria Manuela Dias Ferreira Leite. - Carlos Manuel Tavares da Silva.
+
+Promulgado em 26 de Setembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Setembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

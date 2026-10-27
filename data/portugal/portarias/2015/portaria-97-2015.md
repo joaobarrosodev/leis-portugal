@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:66868374:por
+title: Portaria n.º 97/2015
+short_title: null
+summary: Procede à segunda alteração à Portaria n.º 59/2013, de 11 de fevereiro, à primeira alteração à Portaria n.º 27/2014,
+  de 4 de fevereiro, e aprova as datas relativas ao período de aplicação das tarifas transitórias de venda a clientes finais
+  de gás natural com consumos anuais inferiores ou iguais a 10 000 m3 e de eletricidade com consumos em baixa tensão normal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ambiente, Ordenamento do Território e Energia
+proposing_entity: null
+official_number: 97/2015
+official_date: null
+publication_date: '2015-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2015, Série I de 2015-03-30
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1717 - 1718
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/03/06200/0171701718.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-21'
+version_history:
+  file: portaria-97-2015.versoes.json
+  count: 2
+  source_lastmod: '2025-03-21'
+  versions:
+  - date: '2015-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-03-21'
+    amending: pt:dre:911850393:por
+    amending_title: Portaria n.º 121-B/2025/1
+    changes:
+    - Altera Artigo 4.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/97/2015/p/cons/20250320/pt/html
+  oj: null
+  dre: '66868374'
+  dre_path: /dr/detalhe/portaria/97-2015-66868374
+  internal: pt:dre:66868374:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-2015-66868374
+  metadata_url: https://data.dre.pt/eli/port/97/2015/p/cons/20250320/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-66936902
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-66936902
+  retrieved_at: '2026-10-22T13:24:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-03-21T00:00:00Z'
+integrity:
+  source_sha256: 22d24571bbfafae48afab7df884bfe7735c6aebc5bce452b4a9de322aef72236
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:24:25Z'
+  notes: 2 versão(ões); histórico completo em portaria-97-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Distribuição de Energia Elétrica
+- Gás Natural
+- Energia Elétrica
+- Consumidor
+- Contrato de Prestação de Serviços
+- Distribuição de Gás
+- Mercado Interno
+- Preço de Venda
+- Sistema Elétrico Nacional
+- Sistema Nacional de Gás Natural
+relationships:
+- type: amended_by
+  target: pt:dre:911850393:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/121-b-2025-911850393
+  date: '2025-03-20'
+- type: cites
+  target: celex:32009L0073
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/73/oj
+- type: cites
+  target: pt:dre:2138449:por
+  label: null
+  source: http://data.dre.pt/eli/port/127/2014/06/25/p/dre
+- type: cites
+  target: pt:dre:257005:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2013/01/28/p/dre
+- type: cites
+  target: pt:dre:257661:por
+  label: null
+  source: http://data.dre.pt/eli/port/59/2013/02/11/p/dre
+- type: cites
+  target: pt:dre:335465:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/66/2010/06/11/p/dre
+- type: cites
+  target: pt:dre:342644:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/104/2010/09/29/p/dre
+- type: cites
+  target: pt:dre:553917:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:553927:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/75/2012/
+- type: cites
+  target: pt:dre:570703:por
+  label: null
+  source: http://data.dre.pt/eli/port/27/2014/02/04/p/dre
+- type: cites
+  target: pt:dre:66379753:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2015/01/30/p/dre
+- type: cites
+  target: pt:dre:670022:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/77/2011/06/20/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:24:25Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 97/2015
+
+Portaria n.º 97/2015
+
+de 30 de março
+
+O processo de extinção das tarifas reguladas de venda a clientes finais de gás natural iniciou-se com a aprovação do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 29 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro, que estabelece o procedimento aplicável à extinção das tarifas reguladas de venda de gás natural a clientes finais com consumos anuais superiores a 10 000 m3 e determinou, a título transitório, que os comercializadores de último recurso devem continuar a fornecer gás natural aos clientes finais que, até data a definir através de portaria, não tenham contratado o respetivo fornecimento no mercado livre.
+
+Neste contexto, veio a Portaria n.º 59/2013, de 11 de fevereiro, alterada pela Portaria n.º 127/2014, de 25 de junho, fixar a data prevista no n.º 1 do artigo 5.º do referido decreto-lei em 30 de junho de 2015.
+
+No mesmo sentido, e em cumprimento dos objetivos de liberalização do mercado interno de gás natural, estabelecidos pela Diretiva n.º 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de julho de 2009, e pelo Memorando de Entendimento sobre as Condicionalidades de Política Económica, celebrado entre a República Portuguesa e o Banco Central Europeu, a Comissão Europeia e o Fundo Monetário Internacional, no quadro do programa de auxílio financeiro a Portugal, adotou-se, através do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, um regime semelhante, destinado a permitir a extinção, de forma gradual, das todas as tarifas reguladas de venda de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3, que prevê ainda a obrigação, aplicável aos comercializadores de último recurso, de fornecimento de gás natural a estes clientes finais, durante um período transitório, quando os mesmos não exerçam o direito de mudança para um comercializador de mercado livre.
+
+A extinção das tarifas reguladas de venda a clientes finais de eletricidade ocorreu em termos semelhantes. O Decreto-Lei n.º 104/2010, de 29 de setembro, veio estabelecer o procedimento aplicável à extinção das tarifas reguladas de venda de eletricidade em clientes finais, no continente, com consumos em muito alta tensão (MAT), alta tensão (AT), média tensão (MT) e baixa tensão especial (BTE), tendo fixado um período de aplicação das tarifas transitórias que foi posteriormente alterado pelos Decretos-Leis n.os 75/2012, de 26 de março, 256/2012, de 29 de novembro, e 13/2014, de 22 de janeiro.
+
+Através do Decreto-Lei n.º 13/2014, de 22 de janeiro, ficou estabelecido que os comercializadores de último recurso devem, até data que veio a ser definida através da Portaria n.º 27/2014, de 4 de fevereiro, continuar a fornecer eletricidade a clientes finais com consumos em AT, MT e BTE que não tenham contratado no mercado livre o seu fornecimento, mediante aplicação de uma tarifa transitória.
+
+No que respeita às tarifas reguladas aplicáveis aos clientes finais em baixa tensão normal (BTN), prevê o Decreto-Lei n.º 75/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, a introdução de mecanismos regulatórios de incentivo à adesão ao mercado de eletricidade em regime de preço livres, que se manterão regulados, de forma transitória e, no máximo, durante um período que passa a ser definido através de portaria do membro do Governo responsável pela área da energia, em que é aplicada uma tarifa transitória.
+
+A presente portaria tem precisamente por objeto proceder à alteração das datas anteriormente fixadas para a extinção das tarifas transitórias para fornecimentos de gás natural aos clientes finais com consumos anuais superiores a 10 000 m3 e aos clientes finais de eletricidade com consumos em MAT, AT, MT e BTE, pelas Portarias n.º 127/2014, de 25 de junho, e 27/2014, de 4 de fevereiro, respetivamente, bem como definir os períodos máximos de aplicação das tarifas transitórias aplicáveis aos clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 e aos clientes finais de eletricidade com consumos em BTN.
+
+Os prazos máximos de aplicação destas tarifas transitórias têm vindo a ser diferidos anualmente até que se verifique a contratação, por todos os clientes finais de cada escalão ou nível de tensão, dos respetivos fornecimentos em mercado livre. Segundo informação da Entidade Reguladora dos Serviços Energéticos, os clientes finais de gás natural correspondiam, no final do terceiro trimestre de 2014, a 96% do consumo total, e os clientes finais de eletricidade representavam, à mesma data, cerca de 81% do consumo total.
+
+Importa referir, finalmente, que os clientes finais economicamente vulneráveis mantêm o direito a ser fornecidos por um comercializador de último recurso, que aplica uma tarifa regulada não transitória e não sujeita a qualquer fator de agravamento, podendo ainda beneficiar da tarifa social de fornecimento de gás natural e de energia elétrica.
+
+Foi ouvida a Entidade Reguladora dos Serviços Energéticos.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, no n.º 1 do artigo 4.º do Decreto-Lei n.º 75/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, no n.º 1 do artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro, e no n.º 1 do artigo 6.º do Decreto-Lei n.º 104/2010, de 29 de setembro, alterado pelos Decretos-Leis n.os 75/2012, de 26 de março, 256/2012, de 29 de novembro, 13/2014, de 22 de janeiro, e 15/2015, de 30 de janeiro, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria procede:
+
+a) À segunda alteração da Portaria n.º 59/2013, de 11 de fevereiro, alterada pela Portaria n.º 127/2014, de 25 de junho, que procede à aprovação da data prevista no n.º 1 do artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro;
+
+b) À primeira alteração da Portaria n.º 27/2014, de 4 de fevereiro, que procede à aprovação da data prevista no n.º 1 do artigo 6.º do Decreto-Lei n.º 104/2010, de 29 de setembro, alterado pelos Decretos-Leis n.os 75/2012, de 26 de março, 256/2012, de 29 de novembro, 13/2014, de 22 de janeiro, e 15/2015, de 30 de janeiro.
+
+2 - A presente portaria procede ainda à aprovação das datas previstas no n.º 1 do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro, e no n.º 1 do artigo 4.º do Decreto-Lei n.º 75/2012, de 26 de março, alterado pelo Decreto-Lei n.º 15/2015, de 30 de janeiro.
+
+###### Artigo 2.º — Alteração à Portaria n.º 59/2013, de 11 de fevereiro
+
+O n.º 1 do artigo 2.º da Portaria n.º 59/2013, de 11 de fevereiro, alterada pela Portaria n.º 127/2014, de 25 de junho, passa a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - A data prevista no n.º 1 do artigo 5.º do Decreto-Lei n.º 66/2010, de 11 de junho, alterado pelos Decretos-Leis n.os 77/2011, de 20 de junho, 74/2012, de 26 de março, 15/2013, de 28 de janeiro, e 15/2015, de 30 de janeiro, relativa à obrigatoriedade de fornecimento de gás natural, pelos comercializadores de último recurso, a clientes finais com consumos anuais superiores a 10 000 m3 que não tenham contratado no mercado livre o seu fornecimento, é fixada em 31 de dezembro de 2017.
+
+2 - (Revogado).»
+
+###### Artigo 3.º — Alteração à Portaria n.º 27/2014, de 4 de fevereiro
+
+O artigo 2.º da Portaria n.º 27/2014, de 4 de fevereiro, passa a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+A data prevista no n.º 1 do artigo 6.º do Decreto-Lei n.º 104/2010, de 29 de setembro, alterado pelos Decretos-Leis n.os 75/2012, de 26 de março, 256/2012, de 29 de novembro, 13/2014, de 22 de janeiro, e 15/2015, de 30 de janeiro, relativa à obrigatoriedade de fornecimento de eletricidade, pelos comercializadores de último recurso, a clientes finais com consumos em AT, MT e BTE que não tenham contratado no mercado livre o seu fornecimento, é fixada em 31 de dezembro de 2017.»
+
+###### Artigo 4.º — Data de extinção das tarifas transitórias para fornecimentos de gás natural a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3
+
+A data prevista no n.º 1 do artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, na sua redação atual, relativa à obrigatoriedade de fornecimento de gás natural, pelos comercializadores de último recurso, a clientes finais com consumos anuais inferiores ou iguais a 10 000 m3 que não exerçam o direito de mudança para um comercializador de mercado livre, é fixada em 31 de dezembro de 2027.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 121-B/2025/1 - Diário da República n.º 56/2025, Suplemento, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/portaria/121-b-2025-911850393), em vigor a partir de 2025-03-21
+
+###### Artigo 5.º — Data de extinção das tarifas transitórias para fornecimentos de eletricidade aos clientes finais com consumos em baixa tensão normal
+
+A data prevista no n.º 1 do artigo 4.º do Decreto-Lei n.º 75/2012, de 26 de março, alterado pelo Dzecreto-Lei n.º 15/2015, de 30 de janeiro, relativa à obrigatoriedade de fornecimento de eletricidade, pelos comercializadores de último recurso, a clientes finais com consumos em BTN que não exerçam o direito de mudança para um comercializador de mercado livre, é fixada em 31 de dezembro de 2017.
+
+###### Artigo 6.º — Revogação
+
+É revogado o n.º 2 do artigo 2.º da Portaria n.º 59/2013, de 11 de fevereiro, alterada pela Portaria n.º 127/2014, de 25 de junho.
+
+###### Artigo 7.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 1 de janeiro de 2015.
+
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 16 de março de 2015.

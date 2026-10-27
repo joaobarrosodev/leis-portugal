@@ -1,0 +1,380 @@
+---
+schema_version: '1.0'
+id: eu:celex:31978L0692:por
+title: Directiva 78/692/CEE do Conselho, de 25 de Julho de 1978
+short_title: null
+summary: Directiva 78/692/CEE do Conselho, de 25 de Julho de 1978, que altera as Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE,
+  66/403/CEE, 68/193/CEE, 69/208/CEE e 70/458/CEE relativas à comercialização de sementes de beterraba, de sementes de plantas
+  forrageiras; de sementes de cereais, de batata de semente, de materiais de multiplicação vegetativa da vinha, de sementes
+  de plantas oleaginosas e de fibras e de sementes de espécies hortícolas
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1978/692
+official_date: null
+publication_date: '1978-08-26'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 236 de 26.8.1978
+  number: '236'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/b506d556-242e-45f8-b85a-e3fae74f7674.0011.02/DOC_1
+entry_into_force_dates:
+- '1978-07-31'
+end_of_validity_date: '2002-08-08'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2002-08-09'
+identifiers:
+  celex: 31978L0692
+  eli: http://data.europa.eu/eli/dir/1978/692/oj
+  oj: oj:JOL_1978_236_R_0013_010
+  dre: null
+  dre_path: null
+  internal: eu:celex:31978L0692:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31978L0692
+  metadata_url: http://publications.europa.eu/resource/cellar/b506d556-242e-45f8-b85a-e3fae74f7674.0011
+  content_url: http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0692-20020809
+  retrieved_at: '2026-10-26T11:01:57Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2016-06-27T11:20:10.085+02:00'
+integrity:
+  source_sha256: a4d68f5051c5f844a3707f5b3c11b8d9441cf291ece4a52f5441bc0e92930e1c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:01:57Z'
+  notes: Texto consolidado 01978L0692-20020809.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- batata
+- beterraba forrageira
+- beterraba sacarina
+- cereal
+- norma de comercialização
+- planta forrageira
+- planta oleaginosa
+- planta têxtil
+- preparação para o mercado
+- reprodução vegetal
+- semente
+relationships:
+- type: amends
+  target: celex:31966L0400
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fa2f37e7-7aa7-4ba3-8cb8-7879a6db3677
+  date: '1966-07-11'
+- type: amends
+  target: celex:31966L0403
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ebf9dd6e-86ac-449f-94d3-1704bba8f7db
+  date: '1966-07-11'
+- type: amends
+  target: celex:31969L0208
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6dfa8784-1125-46e1-936f-0ce00125c856
+  date: '1969-07-10'
+- type: amends
+  target: celex:31970L0458
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6158267d-6239-484f-a22b-f0fe6256942f
+  date: '1970-10-12'
+- type: amends
+  target: celex:31966L0401
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8124de30-ce08-4cbe-9814-d4e602698b57
+  date: '2010-03-08'
+- type: amends
+  target: celex:31966L0402
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7fc42eea-19dd-4763-90ac-2ae9268d818f
+  date: '2010-03-08'
+- type: amends
+  target: celex:31968L0193
+  label: null
+  source: http://publications.europa.eu/resource/cellar/862c438d-474a-46cc-9354-984565002e96
+  date: '2010-03-08'
+- type: based_on
+  target: celex:11957E043
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5013e763-b28e-492b-827e-9cb15cc00430
+  date: '1957-03-25'
+- type: based_on
+  target: celex:11957E100
+  label: null
+  source: http://publications.europa.eu/resource/cellar/51fd33b3-06d4-4283-b44e-6027f3f4b82f
+  date: '1957-03-25'
+- type: repealed_by
+  target: celex:32002L0055
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1364812d-2692-4cf9-9b03-3d79c9aeb7f1
+  date: '2002-07-23'
+- type: repealed_by
+  target: celex:32002L0056
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a71d473c-ddf5-40e5-9d5b-22180132315d
+  date: '2002-07-23'
+- type: repealed_by
+  target: celex:32002L0054
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e82446c0-7474-457e-a462-a525944a3f7e
+  date: '2010-03-08'
+- type: repealed_by
+  target: celex:32002L0057
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bad9f2c5-3c17-4576-8fa5-7e56b6e605a9
+  date: '2010-03-08'
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:01:57Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Directiva 78/692/CEE do Conselho, de 25 de Julho de 1978
+
+1978L0692 — PT — 09.08.2002 — 001.001
+
+Este documento constitui um instrumento de documentação e não vincula as instituições
+
+[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0692:PT:NOT) [DIRECTIVA DO CONSELHO de 25 de Julho de 1978 que altera as Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 68/193/CEE, 69/208/CEE e 70/458/CEE, relativas à comercialização de sementes de beterraba, de sementes de plantas forrageiras; de sementes de cereais, de batata de semente, de materiais de multiplicação vegetativa da vinha, de sementes de plantas oleaginosas e de fibras e de sementes de espécies hortícolas (78/692/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0692:PT:NOT) (JO L 236, 26.8.1978, p.13)
+
+Alterado por:
+
+|  |  | Jornal Oficial |  |  |
+| --- | --- | --- | --- | --- |
+| No | page | date |  |  |
+| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) | [Directiva 2002/54/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) | L 193 | 12 | 20.7.2002 |
+| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) | [Directiva 2002/55/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) | L 193 | 33 | 20.7.2002 |
+| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) | [Directiva 2002/56/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) | L 193 | 60 | 20.7.2002 |
+| [►M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) | [Directiva 2002/57/CE do Conselho de 13 de Junho de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) | L 193 | 74 | 20.7.2002 |
+
+[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0692:PT:NOT)
+
+DIRECTIVA DO CONSELHO
+
+de 25 de Julho de 1978
+
+que altera as Directivas 66/400/CEE, 66/401/CEE, 66/402/CEE, 66/403/CEE, 68/193/CEE, 69/208/CEE e 70/458/CEE, relativas à comercialização de sementes de beterraba, de sementes de plantas forrageiras; de sementes de cereais, de batata de semente, de materiais de multiplicação vegetativa da vinha, de sementes de plantas oleaginosas e de fibras e de sementes de espécies hortícolas
+
+(78/692/CEE)
+
+O CONSELHO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43.o e 100.o,
+
+Tendo em conta a proposta da Comissão,
+
+Tendo em conta o parecer do Parlamento Europeu ([1](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0001))
+
+Tendo em conta o parecer do Comité Económico e Social ([2](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0002)),
+
+Considerando que é conveniente, pelos motivos adiante expostos alterar as diferentes directivas relativas à comercialização de sementes e propágulos;
+
+Considerando que as disposições dessas directivas em matéria de empacotamento e de marcação de sementes e de propágulos, aplicáveis no momento actual, não têm em conta os progressos realizados no domínio dos materiais de embalagem, dos processos de empacotamento e das regras de rotulagem; que, consequentemente, convém adaptá-las;
+
+Considerando que é necessário determinar que, igualmente para a batata de semente; as amostras com vista ao exame dos tubérculos para a certificação sejam colhidas oficialmente segundo métodos apropriados,
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0054:PT:NOT) —————
+
+[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0692:PT:NOT)
+
+###### Artigo 2.º
+
+A Directiva 66/401/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de plantas forrageiras ([3](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0005)), com a última redacção que lhe foi dada pela Directiva 78/386/CEE ([4](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0006)), será alterada do seguinte modo:
+
+1. O n.
+
+o
+
+1 do artigo 9.
+
+o
+
+, passa a ter a seguinte redacção:
+
+«1. Os Estados-membros determinam que as embalagens de sementes de base, de sementes certificadas e de sementes comerciais, na medida em que as sementes dessas duas últimas categorias não se apresentem sob a forma de pequenas embalagens CEE B, sejam fechadas oficialmente ou sob controlo oficial de modo que não possam ser abertas sem que o sistema de fecho se deteriore ou sem que o rótulo oficial previsto no n.o 1 do artigo 1.o, e a embalagem mostrem sinais de manipulação.
+
+A fim de garantir o empacotamento, o sistema de fecho deverá comportar pelo menos ou a incorporação neste do rótulo acima referido, ou a aposição de um selo oficial.
+
+As medidas previstas no segundo parágrafo são dispensáveis desde que exista um sistema de fecho não reutilizável.
+
+Segundo o procedimento previsto no artigo 21.o, poderá ser comprovado se um determinado sistema de empacotamento e fecho corresponde às disposições do presente número.»
+
+2. No n.o 2, primeira frase, do artigo 9.o, as palavras «sob controlo oficial» são aditadas a seguir às palavras «senão oficialmente».
+
+3. O n.
+
+o
+
+3 do artigo 9.
+
+o
+
+, passa a ter a seguinte redacção:
+
+«3. Os Estados-membros determinam que as pequenas embalagens CEE B sejam fechadas de modo que não possam ser abertas sem que o sistema de fecho se deteriore ou sem que a marcação e a embalagem mostrem sinais de manipulação. Segundo o procedimento previsto no artigo 21.o, poderá ser comprovado se um determinado sistema de empacotamento e fecho corresponde às disposições do presente número. Não são autorizadas uma ou mais novas operações de empacotamento e fecho, exceptuando-se quando sob controlo oficial.»
+
+4. A n.
+
+o
+
+3, alínea C, do artigo 14.
+
+o
+
+, será aditado, após o travessão
+
+«número de referência do lote»
+
+, o texto seguinte:
+
+«— mês e ano do empacotamento e fecho
+
+ou
+
+— mês e ano da última colheita oficial de amostras com vista à certificação.»
+
+5. Ao Anexo IV, parte A I, alínea a) será aditado o ponto seguinte:
+
+«3 A. Mês e ano do empacotamento e fecho expressos pela indicação: “empacotado …” (mês e ano) ou mês e ano da última colheita oficial de amostras com vista à certificação expressos pela indicação: “amostragem feita …” (mês e ano).»
+
+6. Ao Anexo IV, parte A I, alínea b) será aditado o ponto seguinte:
+
+«4 A. Mês e ano de empacotamento expressos pela indicação: “empacotado …” (mês e ano) ou mês e ano da última colheita oficial de amostras com vista à decisão para a aprovação como sementes comerciais, expressos pela indicação: “amostragem feita …” (mês e ano).»
+
+7. Ao Anexo IV, parte A I, alínea c), será aditado o ponto seguinte:
+
+«3 A. Mês e ano do empacotamento expressos pela indicação: “empacotado e fechado …” (mês e ano).»
+
+([5](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0007)) ([6](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0008))Artigo 3.o
+
+A Directiva 66/402/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de cereais ([7](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0009)), com a última redacção que lhe foi dada pela Directiva 78/387/CEE ([8](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0010)), será alterada do seguinte modo.
+
+1. O n.
+
+o
+
+1 do artigo 9.
+
+o
+
+, passa a ter a seguinte redacção:
+
+«1. Os Estados-membros determinam que as embalagens de sementes de base e de sementes certificadas de qualquer natureza sejam fechadas oficialmente ou sob controlo oficial de modo que não possam ser abertas sem que o sistema de fecho se deteriore ou sem que o rótulo oficial previsto no n.o 1 do artigo 10.o, e a embalagem mostrem sinais de manipulação.
+
+A fim de garantir o empacotamento, o sistema de fecho deverá comportar pelo menos ou a incorporação neste do rótulo acima referido, ou a aposição de um selo oficial.
+
+As medidas previstas no segundo parágrafo são dispensáveis desde que exista um sistema de fecho não reutilizável.
+
+Segundo o procedimento previsto no artigo 21.o, poderá ser comprovado se um determinado sistema de empacotamento e fecho corresponde às disposições do presente número.»
+
+2. No n.o 2, primeira frase, do artigo 9.o, as palavras «ou sob controlo oficial» são aditadas a seguir às palavras «senão oficialmente».
+
+3. No n.
+
+o
+
+3, alínea c), do artigo 14.
+
+o
+
+, é aditado, após o travessão,
+
+«número de referência do lote»
+
+, o texto seguinte:
+
+«— mês e ano do empacotamento e fecho
+
+ou
+
+— mês e ano da última colheita oficial de amostras com vista à certificação.»
+
+4. Ao Anexo IV, parte A, alínea a), será aditado o ponto seguinte:
+
+«3 A. Mês e ano do empacotamento expressos pela indicação: “empacotado e fechado …” (mês e ano) ou mês e ano da última colheita oficial de amostras com vista à certificação, expresses pela indicação: “amostragem feita em …” (mês e ano).»
+
+5. Ao Anexo IV, parte A, alínea b, será aditado o ponto seguinte:
+
+«3 A. Mês e ano do empacotamento e fecho expressos pela indicação “empacotado e fechado …” (mês e ano).»
+
+[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0056:PT:NOT) —————
+
+[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0692:PT:NOT)
+
+###### Artigo 5.º
+
+O artigo 9.o da Directiva 68/193/CEE do Conselho, de 9 de Abril de 1968, relativa à Comercialização dos materiais de multiplicação vegetativa da vinha ([9](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#E0013)), com a última redacção que lhe foi dada, pela Directiva 78/55/CEE, passa a ter a seguinte redacção:
+
+«Artigo 9.o
+
+Os Estados-membros determinam que as embalagens e molhos de materiais de multiplicação sejam fechados de modo que não possam ser abertos sem que o sistema de fecho se deteriore ou conserve indícios de manipulação e sem que o rótulo previsto no n.o 1 do artigo 10.o, nem — no caso das embalagens — as embalagens mostrem sinais de manipulação. As embalagens e os molhos estarão munidos de um selo de chumbo ou de um fecho equivalente apostos pelo responsável da colocação dos rótulos. Segundo o procedimento previsto no artigo 17.o, poderá ser comprovado se um determinado sistema de fecho corresponde às disposições do presente artigo. Não são autorizadas uma ou mais novas operações de empacotamento ou fecho, exceptuando-se quando sob controlo oficial.»
+
+[▼M4](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0057:PT:NOT) —————
+
+[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0055:PT:NOT) —————
+
+[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31978L0692:PT:NOT)
+
+###### Artigo 8.º
+
+Os Estados-membros farão vigorar as disposições legislativas regulamentares e administrativas necessárias para darem cumprimento à presente directiva:
+
+— quanto às disposições dos artigos 1.o a 4.o, 6.o e 7.o, o mais tardar, em 1 de Julho de 1977,
+
+— quando às outras disposições da mesma, o mais tardar, em 1 de Julho de 1979, deste facto informarão imediatamente a Comissão.
+
+###### Artigo 9.º
+
+Os Estados-membros são os destinatários da presente directiva.
+
+([1](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0001)) JO n.o C 183 de 1. 8. 1977, p. 64.
+
+([2](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0002)) JO n.o C 180 de 28. 7. 1977, p. 29.
+
+([3](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0005)) JO n.o 125 de 11. 7. 1966, p. 2298/66.
+
+([4](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0006)) JO n.o L 113 de 25. 5. 1978, p. 1.
+
+([5](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0007)) JO n.o 125 de 11. 7. 1966, p. 2320/66.
+
+([6](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0008)) JO n.o L 261 de 14. 10. 1977, p. 21.
+
+([7](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0009)) JO n.o 125 de 11. 7. 1966, p. 2309/66.
+
+([8](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0010)) JO n.o L 113 de 25. 4. 1978, p. 13.
+
+([9](http://publications.europa.eu/resource/cellar/86224709-7000-49e8-aafc-d3194791210c.0018.02/DOC_1#src.E0013)) JO n.o L 93 de 17. 4. 1968, p. 15.

@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:174340769:por
+title: Decreto-Lei n.º 97/2021
+short_title: null
+summary: Altera a lei da pesca nas águas interiores, permitindo a pesca lúdica nas zonas de pesca profissional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Ação Climática
+official_number: 97/2021
+official_date: null
+publication_date: '2021-11-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 221/2021, Série I de 2021-11-15
+  number: '221'
+  series: I
+  supplement: null
+  pages: 3 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/11/22100/0000300004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/97/2021/11/15/p/dre/pt/html
+  oj: null
+  dre: '174340769'
+  dre_path: /dr/detalhe/decreto-lei/97-2021-174340769
+  internal: pt:dre:174340769:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2021-174340769
+  metadata_url: https://data.dre.pt/eli/dec-lei/97/2021/11/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2021-174340769
+  consolidated_url: null
+  retrieved_at: '2026-10-27T01:22:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6d93ec3a49e69630b55e46a2ecb0ffa1dbbb21478b905d643331d57b0dcf9f57
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T01:22:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Águas Públicas
+- Albufeiras
+- Aquicultura
+- Contra-ordenação
+- Fiscalização
+- Lei de Bases
+- Licença de Pesca
+- Multa
+- Pesca
+- Pesca Desportiva
+- Pesca Profissional
+- Proteção do Ambiente
+- Receita
+- Responsabilidade Civil
+- Responsabilidade Criminal
+- Sanção Penal
+- ZONA de Pesca
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:247981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70485722:por
+  label: null
+  source: null
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T01:22:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 97/2021
+
+de 15 de novembro
+
+A [Lei n.º 7/2008](https://diariodarepublica.pt/dr/detalhe/lei/7-2008-247981), de 15 de fevereiro, que estabelece as bases do ordenamento e da gestão sustentável dos recursos aquícolas das águas interiores e define os princípios reguladores das atividades da pesca e da aquicultura nessas águas, introduziu uma nova filosofia da proteção e conservação dos recursos aquícolas e um novo modelo de ordenamento destes recursos.
+
+Foram, assim, contemplados princípios de conservação da natureza e da biodiversidade, de proteção do estado das massas de água interiores para o património aquícola e de sustentabilidade e conservação da integridade genética do património biológico no que respeita à gestão e ordenamento dos recursos aquícolas.
+
+O [Decreto-Lei n.º 221/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), de 8 de outubro, introduziu alterações na [Lei n.º 7/2008](https://diariodarepublica.pt/dr/detalhe/lei/7-2008-247981), de 15 de fevereiro, designadamente nas definições, na simplificação administrativa no que concerne às autorizações para importação ou exportação de espécies aquícolas mortas e na eliminação da exigência de carta de pescador para o exercício da pesca em águas interiores, tendo ainda procedido às adaptações resultantes das sucessivas alterações orgânicas das entidades com atribuições e competências na área da pesca em águas interiores.
+
+A presente alteração visa permitir que os planos de gestão e exploração das zonas de pesca profissional prevejam, para além da pesca desportiva, a prática da pesca lúdica.
+
+Com efeito, a prática da pesca lúdica em nada colide com o exercício da pesca profissional, e o seu impacto nas espécies aquícolas é pouco relevante, atendendo a que é obrigatória a devolução à água das espécies ameaçadas em boas condições de sobrevivência.
+
+No anterior quadro legal, o conceito de pesca desportiva incluía a prática da pesca como distração ou exercício, sendo permitida nas zonas de pesca profissional, tendo a [Lei n.º 7/2008](https://diariodarepublica.pt/dr/detalhe/lei/7-2008-247981), de 15 de fevereiro, autonomizado os conceitos de pesca lúdica e de pesca desportiva.
+
+Contudo, não há qualquer fundamentação técnico-científica que justifique a interdição da pesca lúdica em áreas tão vastas como as que atualmente são ocupadas pelas zonas de pesca profissional.
+
+Ademais, trata-se de uma atividade com significativa importância socioeconómica, que contribui para a dinamização da atividade económica dos setores da restauração e da hotelaria, constituindo uma importante via para o desenvolvimento local e regional, essencial nas zonas mais desfavorecidas do País.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à segunda alteração à [Lei n.º 7/2008](https://diariodarepublica.pt/dr/detalhe/lei/7-2008-247981), de 15 de fevereiro, alterada pelo [Decreto-Lei n.º 221/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722), de 8 de outubro, que estabelece as bases do ordenamento e da gestão sustentável dos recursos aquícolas das águas interiores e define os princípios reguladores das atividades da pesca e da aquicultura nessas águas.
+
+###### Artigo 2.º — Alteração à [Lei n.º 7/2008](https://diariodarepublica.pt/dr/detalhe/lei/7-2008-247981), de 15 de fevereiro
+
+O artigo 20.º da [Lei n.º 7/2008](https://diariodarepublica.pt/dr/detalhe/lei/7-2008-247981), de 15 de fevereiro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 20.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Nas zonas de pesca profissional é praticada a pesca como atividade comercial sujeita, para além das normas gerais, a normas específicas consignadas nos respetivos planos de gestão e exploração, os quais podem prever ainda a prática da pesca lúdica e da pesca desportiva.
+
+5 - ...
+
+6 - ...»
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de outubro de 2021. - Mariana Guimarães Vieira da Silva - Alexandra Ludomila Ribeiro Fernandes Leitão - Inês dos Santos Costa - Rui Manuel Costa Martinho - Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro.
+
+Promulgado em 5 de novembro de 2021.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 9 de novembro de 2021.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114719112

@@ -1,0 +1,391 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:440315:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-224658594",
+ "dre_path": "/dr/detalhe/portaria/1340-2008-440315",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-11-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224660895"
+   ]
+  },
+  {
+   "date": "2012-02-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:543061:por",
+     "title": "Portaria n.º 39/2012",
+     "published": "2012-02-10",
+     "dre_path": "/dr/detalhe/portaria/39-2012-543061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "224577266",
+    "224577269",
+    "224660890",
+    "224577271",
+    "224577272",
+    "224577273",
+    "224577274",
+    "224660891",
+    "224660892",
+    "224660893",
+    "224660878",
+    "224660879",
+    "224660881",
+    "224660894",
+    "224660884",
+    "224577267"
+   ]
+  },
+  {
+   "date": "2023-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224615907:por",
+     "title": "Portaria n.º 384/2023",
+     "published": "2023-11-22",
+     "dre_path": "/dr/detalhe/portaria/384-2023-224615907"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "224660895",
+    "224660896",
+    "224660897",
+    "224660898",
+    "224660899",
+    "224660900",
+    "224660901",
+    "224660902",
+    "224660903",
+    "224660904",
+    "224660905",
+    "224660906",
+    "224660907",
+    "224660908",
+    "224660909",
+    "224660910"
+   ]
+  }
+ ],
+ "fragments": {
+  "224660895": {
+   "fragment_id": "224658595",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-11-23",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1340/2008\n\nde 26 de Novembro\n\nO Decreto-Lei n.º 100/2007, de 2 de Abril, veio estabelecer o regime aplicável à devolução das cauções que não foram restituídas ao abrigo do Decreto-Lei n.º 195/99, de 8 de Junho, fixando um novo prazo durante o qual os consumidores podem reclamar as cauções prestadas. À luz do Decreto-Lei n.º 100/2007, de 2 de Abril, o consumidor goza de um prazo de 180 dias, a contar da data da afixação dos editais ou da publicitação do anúncio da lista de consumidores a quem a caução não foi restituída, para reclamar o montante da caução junto da entidade prestadora do serviço. Ainda nos termos deste decreto-lei, os montantes relativos às cauções que não tenham sido restituídas no prazo mencionado revertem para um fundo, que se destina ao financiamento de mecanismos extrajudiciais de acesso à justiça pelos consumidores e de projectos de âmbito nacional, regional ou local de promoção dos direitos dos consumidores. Neste enquadramento, a presente portaria define o âmbito, os objectivos, a tipologia de apoios, a gestão e controlo do referido fundo, a administrar pela Direcção-Geral do Consumidor, entidade em que se reconverteu o Instituto do Consumidor, I. P., após a aprovação do Decreto Regulamentar n.º 57/2007, de 27 de Abril. A constituição deste fundo permite, ainda, que os consumidores que não reclamaram a caução no prazo estabelecido no artigo 6.º do Decreto-Lei n.º 195/99, de 8 de Junho, na redacção dada pelo Decreto-Lei n.º 100/2007, de 2 de Abril, possam fazê-lo, perante aquela Direcção-Geral, nos cincos anos subsequentes ao termo do prazo que é atribuído às entidades prestadoras do serviço para depositarem, à ordem da Direcção-Geral do Consumidor, os montantes não reclamados.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 6.º-B do Decreto-Lei n.º 195/99, de 8 de Junho, na redacção dada pelo Decreto-Lei n.º 100/2007, de 2 de Abril, manda o Governo, pelos Ministros de Estado e das Finanças e da Economia e da Inovação, o seguinte:"
+  },
+  "224577266": {
+   "fragment_id": "224658595",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1340/2008\n\nde 26 de Novembro\n\nO Decreto-Lei n.º 100/2007, de 2 de Abril, veio estabelecer o regime aplicável à devolução das cauções que não foram restituídas ao abrigo do Decreto-Lei n.º 195/99, de 8 de Junho, fixando um novo prazo durante o qual os consumidores podem reclamar as cauções prestadas. À luz do Decreto-Lei n.º 100/2007, de 2 de Abril, o consumidor goza de um prazo de 180 dias, a contar da data da afixação dos editais ou da publicitação do anúncio da lista de consumidores a quem a caução não foi restituída, para reclamar o montante da caução junto da entidade prestadora do serviço. Ainda nos termos deste decreto-lei, os montantes relativos às cauções que não tenham sido restituídas no prazo mencionado revertem para um fundo, que se destina ao financiamento de mecanismos extrajudiciais de acesso à justiça pelos consumidores e de projectos de âmbito nacional, regional ou local de promoção dos direitos dos consumidores. Neste enquadramento, a presente portaria define o âmbito, os objectivos, a tipologia de apoios, a gestão e controlo do referido fundo, a administrar pela Direcção-Geral do Consumidor, entidade em que se reconverteu o Instituto do Consumidor, I. P., após a aprovação do Decreto Regulamentar n.º 57/2007, de 27 de Abril. A constituição deste fundo permite, ainda, que os consumidores que não reclamaram a caução no prazo estabelecido no artigo 6.º do Decreto-Lei n.º 195/99, de 8 de Junho, na redacção dada pelo Decreto-Lei n.º 100/2007, de 2 de Abril, possam fazê-lo, perante aquela Direcção-Geral, nos cincos anos subsequentes ao termo do prazo que é atribuído às entidades prestadoras do serviço para depositarem, à ordem da Direcção-Geral do Consumidor, os montantes não reclamados.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 6.º-B do Decreto-Lei n.º 195/99, de 8 de Junho, na redacção dada pelo Decreto-Lei n.º 100/2007, de 2 de Abril, manda o Governo, pelos Ministros de Estado e das Finanças e da Economia e da Inovação, o seguinte:"
+  },
+  "224577269": {
+   "fragment_id": "224658612",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria cria, no âmbito do Ministério da Economia e da Inovação, o Fundo para a Promoção dos Direitos dos Consumidores, adiante designado por Fundo.\n\n2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica."
+  },
+  "224660890": {
+   "fragment_id": "224658618",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2012-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O Fundo tem por objectivo apoiar a realização de projectos relativos à promoção dos direitos e interesses dos consumidores consagrados no artigo 60.º da Constituição da República Portuguesa e na Lei n.º 24/96, de 31 de Julho.\n\n2 - O apoio a projectos relativos à promoção dos direitos e interesses dos consumidores, a que se refere o número anterior, consiste no financiamento total ou parcial de mecanismos extrajudiciais de acesso à justiça pelos consumidores e de projectos de âmbito nacional, regional ou local de promoção dos direitos e interesses dos consumidores.\n\n3 - O Fundo visa, ainda, assegurar a restituição das cauções que vierem a ser reclamadas pelos consumidores, nos termos previstos no artigo 6.º-C do Decreto-Lei n.º 195/99, de 8 de Junho, na redacção dada pelo Decreto-Lei n.º 100/2007, de 2 de Abril.\n\n4 - O regulamento de gestão do fundo bem como a definição do enquadramento aplicável às ações a apoiar são aprovados por despacho dos membros do Governo responsáveis pela área das finanças e da defesa do consumidor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224577271": {
+   "fragment_id": "224658619",
+   "type": 11,
+   "heading": "Artigo 3.º — Capital inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capital inicial\n\nO capital inicial do Fundo é de (euro) 14 713 255,92, correspondente ao montante das cauções não devolvidas relativas à prestação do serviço de fornecimento de electricidade, de gás e de água."
+  },
+  "224577272": {
+   "fragment_id": "224658620",
+   "type": 11,
+   "heading": "Artigo 4.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento\n\nO Fundo é financiado pelas seguintes receitas:\n\na) Montantes de cauções não devolvidas e entregues à Direcção-Geral do Consumidor, na sequência da finalização dos procedimentos necessários à devolução de cauções;\n\nb) Rendimentos provenientes de aplicações financeiras;\n\nc) Quaisquer outros meios financeiros que venham a ser-lhe atribuídos ou consignados por lei, acto ou contrato."
+  },
+  "224577273": {
+   "fragment_id": "224658621",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipologia de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipologia de apoios\n\nOs apoios a conceder através do Fundo assumem a forma de concessão de apoios financeiros ou contratos-programa."
+  },
+  "224577274": {
+   "fragment_id": "224658622",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades candidatas aos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades candidatas aos apoios\n\n1 - Podem candidatar-se aos apoios mencionados na presente portaria as entidades que, com fundos próprios ou trabalho voluntário devidamente contabilizado, assegurem a cobertura de uma parte dos custos de execução do projecto a subsidiar e se incluam na seguinte classificação:\n\na) Associações de consumidores, a que se refere o artigo 17.º da Lei n.º 24/96, de 31 de Julho;\n\nb) Cooperativas de consumo.\n\n2 - Podem, ainda, candidatar-se as demais pessoas colectivas de direito privado sem fins lucrativos que se proponham realizar acções que tenham por objectivos os mencionados no n.º 2 do artigo 2.º\n\n3 - A Direcção-Geral do Consumidor pode candidatar-se aos apoios estabelecidos pela presente portaria para a prossecução dos projectos mencionados no n.º 2 do artigo 2.º, na medida em que estes se encontrem previstos no seu plano de actividades."
+  },
+  "224660891": {
+   "fragment_id": "224658623",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão",
+   "in_force_from": "2012-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 7.º — Gestão\n\nA gestão do Fundo compete:\n\na) À Direção-Geral do Consumidor, na vertente técnica;\n\nb) À Direção-Geral do Tesouro e Finanças, na vertente financeira.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660892": {
+   "fragment_id": "224658624",
+   "type": 11,
+   "heading": "Artigo 8.º — Gestão técnica: plano e relatório",
+   "in_force_from": "2012-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 8.º — Gestão técnica: plano e relatório\n\n1 - A Direcção-Geral do Consumidor apresenta, até 28 de Fevereiro de cada ano, o plano de gestão técnica anual elaborado com base nas disponibilidades financeiras do Fundo, de acordo com o relatório de gestão financeira da Direcção-Geral de Tesouro e Finanças.\n\n2 - A Direção-Geral do Consumidor está obrigada a apresentar, até ao dia 31 de março de cada ano, o relatório da gestão técnica do ano transato ao Ministro da Economia e do Emprego.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660893": {
+   "fragment_id": "224658625",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão de gestão técnica",
+   "in_force_from": "2012-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 9.º — Comissão de gestão técnica\n\n1 - A Direcção-Geral do Consumidor, através de uma comissão de gestão técnica, presidida pelo seu director-geral:\n\na) Aprecia os pedidos de candidatura ao financiamento;\n\nb) Aprova, por maioria dos votos dos seus membros, a atribuição dos apoios financeiros no âmbito do Fundo para desenvolvimento de acções ou iniciativas de acordo com as tipologias previstas;\n\nc) Efectua as acções de acompanhamento, verificação e controlo financeiro e contabilístico dos financiamentos aprovados;\n\nd) Procede ao pagamento dos apoios financeiros aprovados.\n\n2 - Para além do director-geral, que preside, a comissão de gestão técnica a que se refere o número anterior é composta pelos seguintes elementos:\n\na) Um representante da entidade reguladora da água;\n\nb) Um representante da entidade reguladora da electricidade e do gás;\n\nc) Um representante da Direção-Geral de Energia e Geologia;\n\nd) Um representante de uma associação de consumidores de interesse genérico;\n\ne) Um representante de um centro de mediação e arbitragem de conflitos de consumo de competência genérica;\n\nf) Um representante da Direcção-Geral do Tesouro e Finanças.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660878": {
+   "fragment_id": "224658626",
+   "type": 11,
+   "heading": "Artigo 10.º — Candidaturas apresentadas pela Direcção-Geral do Consumidor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Candidaturas apresentadas pela Direcção-Geral do Consumidor\n\nAs candidaturas apresentadas pela Direcção-Geral do Consumidor são submetidas à apreciação da comissão de gestão técnica referida no artigo anterior e, se aprovadas, devem ser homologadas pelo membro do Governo responsável pela política de defesa do consumidor."
+  },
+  "224660879": {
+   "fragment_id": "224658627",
+   "type": 11,
+   "heading": "Artigo 11.º — Gestão financeira: relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gestão financeira: relatório\n\n1 - Compete à Direcção-Geral do Tesouro e Finanças gerir as disponibilidades do Fundo, de acordo com o plano de gestão técnica apresentado pela Direcção-Geral do Consumidor, apresentando anualmente um relatório da gestão financeira, até 28 de Janeiro.\n\n2 - Na gestão financeira do Fundo deve ser tido em consideração o disposto no n.º 2 do artigo 4.º do Decreto-Lei n.º 195/99, de 8 de Junho."
+  },
+  "224660881": {
+   "fragment_id": "224658629",
+   "type": 11,
+   "heading": "Artigo 12.º — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Órgão consultivo\n\n1 - O órgão consultivo, a que se refere o n.º 4 do artigo 6.º-B do Decreto-Lei n.º 100/2007, de 2 de Abril, tem a seguinte composição:\n\na) Um representante das associações e cooperativas de consumo, até ao limite de dois;\n\nb) Um representante da Associação Nacional de Municípios Portugueses;\n\nc) Um representante das entidades reguladoras.\n\n2 - Ao órgão consultivo referido no número anterior deve ser dado conhecimento do plano e do relatório de gestão técnica.\n\n3 - A designação dos representantes das entidades que compõem o órgão consultivo é feita pelo período de dois anos.\n\n4 - Os pareceres do órgão consultivo não têm carácter vinculativo.\n\n5 A consulta ao órgão consultivo é objecto de decisão pela comissão de gestão técnica a que se refere o artigo 9.º"
+  },
+  "224660894": {
+   "fragment_id": "224658630",
+   "type": 11,
+   "heading": "Artigo 13.º — Despesas decorrentes da gestão",
+   "in_force_from": "2012-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 13.º — Despesas decorrentes da gestão\n\nAs entidades gestoras do Fundo têm direito a uma comissão anual de gestão, até ao máximo conjunto de 4 % sobre o montante máximo estabelecido para cada fase de candidaturas a retirar do património do Fundo, para fazer face aos encargos associados à gestão do mesmo, repartida entre a Direção-Geral do Consumidor, a quem cabe 3 %, e a Direção-Geral do Tesouro e Finanças, a quem cabe 1 %.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660884": {
+   "fragment_id": "224658632",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "224577267": {
+   "fragment_id": "224658596",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 21 de Outubro de 2008.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho."
+  },
+  "224660896": {
+   "fragment_id": "224658612",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria cria, no âmbito do Ministério da Economia e da Inovação, o Fundo para a Promoção dos Direitos dos Consumidores, adiante designado por Fundo.\n\n2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660897": {
+   "fragment_id": "224658618",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O Fundo tem por objectivo apoiar a realização de projectos relativos à promoção dos direitos e interesses dos consumidores consagrados no artigo 60.º da Constituição da República Portuguesa e na Lei n.º 24/96, de 31 de Julho.\n\n2 - O apoio a projectos relativos à promoção dos direitos e interesses dos consumidores, a que se refere o número anterior, consiste no financiamento total ou parcial de mecanismos extrajudiciais de acesso à justiça pelos consumidores e de projectos de âmbito nacional, regional ou local de promoção dos direitos e interesses dos consumidores.\n\n3 - O Fundo visa, ainda, assegurar a restituição das cauções que vierem a ser reclamadas pelos consumidores, nos termos previstos no artigo 6.º-C do Decreto-Lei n.º 195/99, de 8 de Junho, na redacção dada pelo Decreto-Lei n.º 100/2007, de 2 de Abril.\n\n4 - O regulamento de gestão do fundo bem como a definição do enquadramento aplicável às ações a apoiar são aprovados por despacho dos membros do Governo responsáveis pela área das finanças e da defesa do consumidor.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660898": {
+   "fragment_id": "224658619",
+   "type": 11,
+   "heading": "Artigo 3.º — Capital inicial",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 3.º — Capital inicial\n\nO capital inicial do Fundo é de (euro) 14 713 255,92, correspondente ao montante das cauções não devolvidas relativas à prestação do serviço de fornecimento de electricidade, de gás e de água.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660899": {
+   "fragment_id": "224658620",
+   "type": 11,
+   "heading": "Artigo 4.º — Fontes de financiamento",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 4.º — Fontes de financiamento\n\nO Fundo é financiado pelas seguintes receitas:\n\na) Montantes de cauções não devolvidas e entregues à Direcção-Geral do Consumidor, na sequência da finalização dos procedimentos necessários à devolução de cauções;\n\nb) Rendimentos provenientes de aplicações financeiras;\n\nc) Quaisquer outros meios financeiros que venham a ser-lhe atribuídos ou consignados por lei, acto ou contrato.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660900": {
+   "fragment_id": "224658621",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipologia de apoios",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 5.º — Tipologia de apoios\n\nOs apoios a conceder através do Fundo assumem a forma de concessão de apoios financeiros ou contratos-programa.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660901": {
+   "fragment_id": "224658622",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades candidatas aos apoios",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 6.º — Entidades candidatas aos apoios\n\n1 - Podem candidatar-se aos apoios mencionados na presente portaria as entidades que, com fundos próprios ou trabalho voluntário devidamente contabilizado, assegurem a cobertura de uma parte dos custos de execução do projecto a subsidiar e se incluam na seguinte classificação:\n\na) Associações de consumidores, a que se refere o artigo 17.º da Lei n.º 24/96, de 31 de Julho;\n\nb) Cooperativas de consumo.\n\n2 - Podem, ainda, candidatar-se as demais pessoas colectivas de direito privado sem fins lucrativos que se proponham realizar acções que tenham por objectivos os mencionados no n.º 2 do artigo 2.º\n\n3 - A Direcção-Geral do Consumidor pode candidatar-se aos apoios estabelecidos pela presente portaria para a prossecução dos projectos mencionados no n.º 2 do artigo 2.º, na medida em que estes se encontrem previstos no seu plano de actividades.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660902": {
+   "fragment_id": "224658623",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 7.º — Gestão\n\nA gestão do Fundo compete:\n\na) À Direção-Geral do Consumidor, na vertente técnica;\n\nb) À Direção-Geral do Tesouro e Finanças, na vertente financeira.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660903": {
+   "fragment_id": "224658624",
+   "type": 11,
+   "heading": "Artigo 8.º — Gestão técnica: plano e relatório",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 8.º — Gestão técnica: plano e relatório\n\n1 - A Direcção-Geral do Consumidor apresenta, até 28 de Fevereiro de cada ano, o plano de gestão técnica anual elaborado com base nas disponibilidades financeiras do Fundo, de acordo com o relatório de gestão financeira da Direcção-Geral de Tesouro e Finanças.\n\n2 - A Direção-Geral do Consumidor está obrigada a apresentar, até ao dia 31 de março de cada ano, o relatório da gestão técnica do ano transato ao Ministro da Economia e do Emprego.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660904": {
+   "fragment_id": "224658625",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão de gestão técnica",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 9.º — Comissão de gestão técnica\n\n1 - A Direcção-Geral do Consumidor, através de uma comissão de gestão técnica, presidida pelo seu director-geral:\n\na) Aprecia os pedidos de candidatura ao financiamento;\n\nb) Aprova, por maioria dos votos dos seus membros, a atribuição dos apoios financeiros no âmbito do Fundo para desenvolvimento de acções ou iniciativas de acordo com as tipologias previstas;\n\nc) Efectua as acções de acompanhamento, verificação e controlo financeiro e contabilístico dos financiamentos aprovados;\n\nd) Procede ao pagamento dos apoios financeiros aprovados.\n\n2 - Para além do director-geral, que preside, a comissão de gestão técnica a que se refere o número anterior é composta pelos seguintes elementos:\n\na) Um representante da entidade reguladora da água;\n\nb) Um representante da entidade reguladora da electricidade e do gás;\n\nc) Um representante da Direção-Geral de Energia e Geologia;\n\nd) Um representante de uma associação de consumidores de interesse genérico;\n\ne) Um representante de um centro de mediação e arbitragem de conflitos de consumo de competência genérica;\n\nf) Um representante da Direcção-Geral do Tesouro e Finanças.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660905": {
+   "fragment_id": "224658626",
+   "type": 11,
+   "heading": "Artigo 10.º — Candidaturas apresentadas pela Direcção-Geral do Consumidor",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 10.º — Candidaturas apresentadas pela Direcção-Geral do Consumidor\n\nAs candidaturas apresentadas pela Direcção-Geral do Consumidor são submetidas à apreciação da comissão de gestão técnica referida no artigo anterior e, se aprovadas, devem ser homologadas pelo membro do Governo responsável pela política de defesa do consumidor.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660906": {
+   "fragment_id": "224658627",
+   "type": 11,
+   "heading": "Artigo 11.º — Gestão financeira: relatório",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 11.º — Gestão financeira: relatório\n\n1 - Compete à Direcção-Geral do Tesouro e Finanças gerir as disponibilidades do Fundo, de acordo com o plano de gestão técnica apresentado pela Direcção-Geral do Consumidor, apresentando anualmente um relatório da gestão financeira, até 28 de Janeiro.\n\n2 - Na gestão financeira do Fundo deve ser tido em consideração o disposto no n.º 2 do artigo 4.º do Decreto-Lei n.º 195/99, de 8 de Junho.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660907": {
+   "fragment_id": "224658629",
+   "type": 11,
+   "heading": "Artigo 12.º — Órgão consultivo",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 12.º — Órgão consultivo\n\n1 - O órgão consultivo, a que se refere o n.º 4 do artigo 6.º-B do Decreto-Lei n.º 100/2007, de 2 de Abril, tem a seguinte composição:\n\na) Um representante das associações e cooperativas de consumo, até ao limite de dois;\n\nb) Um representante da Associação Nacional de Municípios Portugueses;\n\nc) Um representante das entidades reguladoras.\n\n2 - Ao órgão consultivo referido no número anterior deve ser dado conhecimento do plano e do relatório de gestão técnica.\n\n3 - A designação dos representantes das entidades que compõem o órgão consultivo é feita pelo período de dois anos.\n\n4 - Os pareceres do órgão consultivo não têm carácter vinculativo.\n\n5 A consulta ao órgão consultivo é objecto de decisão pela comissão de gestão técnica a que se refere o artigo 9.º\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660908": {
+   "fragment_id": "224658630",
+   "type": 11,
+   "heading": "Artigo 13.º — Despesas decorrentes da gestão",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+   ],
+   "markdown": "###### Artigo 13.º — Despesas decorrentes da gestão\n\nAs entidades gestoras do Fundo têm direito a uma comissão anual de gestão, até ao máximo conjunto de 4 % sobre o montante máximo estabelecido para cada fase de candidaturas a retirar do património do Fundo, para fazer face aos encargos associados à gestão do mesmo, repartida entre a Direção-Geral do Consumidor, a quem cabe 3 %, e a Direção-Geral do Tesouro e Finanças, a quem cabe 1 %.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 39/2012 - Diário da República n.º 30/2012, Série I de 2012-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/39-2012-543061), em vigor a partir de 2012-02-11"
+  },
+  "224660909": {
+   "fragment_id": "224658632",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  },
+  "224660910": {
+   "fragment_id": "224658596",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+   ],
+   "markdown": "Em 21 de Outubro de 2008.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.\n\n> Revogado pelo/a Artigo 17.º do/a [Portaria n.º 384/2023 - Diário da República n.º 226/2023, Série I de 2023-11-22](https://diariodarepublica.pt/dr/detalhe/portaria/384-2023-224615907), em vigor a partir de 2023-11-23"
+  }
+ }
+}

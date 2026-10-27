@@ -1,0 +1,536 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014R0609:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0609-20220503",
+ "dre_path": null,
+ "source_lastmod": "2022-05-03",
+ "versions": [
+  {
+   "date": "2016-10-01",
+   "future": false,
+   "celex": "02014R0609-20161001",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0f0a74b084f25b8e",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "c31205517ad67f1e",
+    "89efd18ed5b9990f",
+    "31fd8bcea3902dff",
+    "ca1835cbbc2f424d",
+    "2c83872de028d888",
+    "f0f8c960bfdbce9b",
+    "4e0f1f69c0e73500",
+    "ebad99f5572aea24",
+    "a87ba453fb0c34f6",
+    "b5cdc8b9fd7d160a",
+    "1e7a0903d2eed348",
+    "72c3af2729628ee7",
+    "1aca1ea199f0d288",
+    "d19a48d033dfcf3e",
+    "ee4ad4b07baac388",
+    "adf922d95fc8780b",
+    "361ac2e487bb5afd",
+    "86db499331ab02ee",
+    "f0c47d69feec6b2a",
+    "1ecfc79da3f1ac7f",
+    "784884813a5d7814",
+    "726f7361adb7d98a",
+    "a8ff22c36019ddd9",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "79b293b168a921eb",
+    "cbd0326058c4d83b",
+    "ab8143b19b372acf",
+    "c174a0b4e17f35d4",
+    "d664376e2a8dcecd",
+    "f9d1a5c26510ac78",
+    "852174729551523b",
+    "bfa66abf57320f82",
+    "aff71e104b858f91"
+   ]
+  },
+  {
+   "date": "2022-05-03",
+   "future": false,
+   "celex": "02014R0609-20220503",
+   "acts": [
+    {
+     "id": "eu:celex:32022R0615:por",
+     "title": "REGULAMENTO (UE, Euratom) 2022/615 DO CONSELHO de 5 de abril de 2022",
+     "published": null,
+     "celex": "32022R0615"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Conservação dos documentos comprovativos",
+    "Altera Artigo 6.º — Lançamento nas contas e relatórios",
+    "Altera Artigo 9.º — Disposições relativas ao Tesouro e à contabilidade",
+    "Altera Artigo 10.º-A — Colocação à disposição dos recursos próprios IVA e RNB",
+    "Altera Artigo 10.º-B — Ajustamentos aos recursos próprios IVA e RNB de exercícios anteriores",
+    "Altera Artigo 12.º — Juros sobre os montantes disponibilizados tardiamente",
+    "Altera Artigo 13.º — Montantes incobráveis",
+    "Altera Artigo 17.º — Disposição transitória sobre a taxa de juro",
+    "Altera Notas",
+    "Adita CAPÍTULO III-A",
+    "Adita PAGAMENTO SOB RESERVA E PROCEDIMENTO DE REVISÃO",
+    "Adita Artigo 13.º-A — Pagamento sob reserva",
+    "Adita Artigo 13.º-B — Procedimento de revisão"
+   ],
+   "fragments": [
+    "0f0a74b084f25b8e",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "c31205517ad67f1e",
+    "89efd18ed5b9990f",
+    "9f260c9013c451bf",
+    "3331be75c113e6de",
+    "2c83872de028d888",
+    "f0f8c960bfdbce9b",
+    "4e0f1f69c0e73500",
+    "3ca19bbbae601ff3",
+    "a87ba453fb0c34f6",
+    "b5cdc8b9fd7d160a",
+    "1e7a0903d2eed348",
+    "72c3af2729628ee7",
+    "a676b94850a338dd",
+    "d19a48d033dfcf3e",
+    "c3a3ecbb66fc21fb",
+    "0db8129c836b4ca1",
+    "361ac2e487bb5afd",
+    "c20068c4838ebac6",
+    "e139cc9a8517741c",
+    "b0342bc1df002810",
+    "352ee6436447dd9f",
+    "8bd0816807b22fe9",
+    "6c875c23d905e9f6",
+    "1ecfc79da3f1ac7f",
+    "784884813a5d7814",
+    "726f7361adb7d98a",
+    "a8ff22c36019ddd9",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "79b293b168a921eb",
+    "08202c5462533212",
+    "ab8143b19b372acf",
+    "c174a0b4e17f35d4",
+    "d664376e2a8dcecd",
+    "f9d1a5c26510ac78",
+    "852174729551523b",
+    "bfa66abf57320f82",
+    "3004c48a6bf7ec66"
+   ]
+  }
+ ],
+ "fragments": {
+  "0f0a74b084f25b8e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de maio de 2014\n\nrelativo aos métodos e ao procedimento para a colocação à disposição dos recursos próprios tradicionais e dos recursos próprios baseados no IVA e no RNB e às medidas destinadas a satisfazer as necessidades da tesouraria\n\n(reformulação)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "c31205517ad67f1e": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as regras relativas à colocação à disposição da Comissão dos recursos próprios da União referidos no artigo 2.º, n.º 1, alíneas a), b) e c), da Decisão 2014/335/UE, Euratom."
+  },
+  "89efd18ed5b9990f": {
+   "fragment_id": "Artigo 2.º — Data de apuramento dos recursos próprios tradicionais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Data de apuramento dos recursos próprios tradicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Data de apuramento dos recursos próprios tradicionais\n\n1. Para efeitos da aplicação do presente regulamento, um direito da União sobre os recursos próprios tradicionais a que se refere o artigo 2.º, n.º 1, alínea a), da Decisão 2014/335/UE, Euratom, considera-se apurado assim que se encontrem preenchidas as condições previstas na regulamentação aduaneira no que se refere ao registo de liquidação do montante do direito e à sua comunicação ao devedor.\n\n2. A data a considerar para o apuramento a que se refere o n.º 1 é a data do registo de liquidação previsto na regulamentação aduaneira.\n\nNo que diz respeito às quotizações e outros direitos previstos no âmbito da organização comum do mercado no setor do açúcar, a data a considerar para o apuramento a que se refere o n.º 1 é a data da comunicação prevista na regulamentação do setor do açúcar.\n\nNos casos em que essa comunicação não está explicitamente prevista, a data a considerar é a data da determinação pelos Estados-Membros dos montantes devidos pelos devedores, eventualmente a título de adiantamento ou de pagamento de saldo.\n\n3. Em casos de contencioso, considera-se que as autoridades administrativas competentes podem calcular o montante dos direitos em dívida, para efeitos do apuramento a que se refere o n.º 1, o mais tardar por ocasião da primeira decisão administrativa de comunicação da dívida ao interessado ou no momento da apresentação do caso à autoridade judicial, caso esta tenha ocorrido antes da referida decisão administrativa.\n\nA data a considerar para o apuramento a que se refere o n.º 1 é a data da decisão ou a do cálculo a efetuar na sequência da apresentação do caso à autoridade judicial.\n\n4. O disposto no n.º 1 é aplicável sempre que a comunicação tenha de ser retificada."
+  },
+  "31fd8bcea3902dff": {
+   "fragment_id": "Artigo 3.º — Conservação dos documentos comprovativos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Conservação dos documentos comprovativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conservação dos documentos comprovativos\n\nOs Estados-Membros tomam todas as medidas necessárias para que os documentos comprovativos respeitantes ao apuramento e à colocação à disposição dos recursos próprios sejam conservados durante pelo menos três anos civis a contar do fim do ano a que esses documentos comprovativos se referem.\n\nOs documentos comprovativos relativos às bases e procedimentos estatísticos a que se refere o artigo 3.º do Regulamento (CE, Euratom) n.º 1287/2003 são conservados pelos Estados-Membros até 30 de novembro do quarto ano seguinte ao exercício em causa. Os documentos comprovativos relativos à base do recurso próprio IVA são conservados durante o mesmo período.\n\nSe a verificação efetuada em virtude do artigo 2.º, n.º 3 do Regulamento (UE, Euratom) n.º 608/2014 ou do artigo 11.º do Regulamento (CEE, Euratom) n.º 1553/89 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#E0001)), dos documentos comprovativos a que se referem o primeiro e o segundo parágrafos revelar a necessidade de proceder a uma retificação, tais documentos comprovativos serão conservados para além do prazo previsto no primeiro parágrafo, durante um período que permita proceder à retificação e ao respetivo controlo.\n\nNo caso de um contencioso entre um Estado-Membro e a Comissão, relativo à obrigação de colocar à disposição um certo montante de recursos próprios, ser resolvido por mútuo acordo ou por decisão do Tribunal de Justiça da União Europeia, o Estado-Membro transmite à Comissão os documentos comprovativos necessários para o seguimento financeiro no prazo de dois meses após a resolução desse contencioso."
+  },
+  "ca1835cbbc2f424d": {
+   "fragment_id": "Artigo 4.º — Cooperação administrativa",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cooperação administrativa\n\n1. Os Estados-Membros comunicam à Comissão os seguintes elementos:\n\na) A denominação dos serviços ou organismos responsáveis pelo apuramento, cobrança, colocação à disposição e controlo dos recursos próprios, bem como as disposições essenciais relativas às atribuições e ao funcionamento desses serviços e organismos;\n\nb) As disposições legislativas, regulamentares, administrativas e contabilísticas de caráter geral relativas ao apuramento, cobrança, colocação à disposição e controlo dos recursos próprios por parte da Comissão;\n\nc) A designação exata de todos os registos administrativos e contabilísticos em que são lançados os direitos apurados, tal como especificados no artigo 2.º, nomeadamente os utilizados para a elaboração da contabilidade prevista no artigo 6.º.\n\nQualquer alteração das referidas denominações ou disposições é imediatamente comunicada à Comissão.\n\n2. A Comissão comunica a todos os Estados-Membros, a pedido de um deles, as informações a que se refere o n.º 1."
+  },
+  "2c83872de028d888": {
+   "fragment_id": "Artigo 5.º — Taxas aplicáveis",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Taxas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Taxas aplicáveis\n\nA taxa uniforme a que se refere o artigo 2.º, n.º 1, alínea c), da Decisão 2014/335/UE, Euratom é fixada no decurso do processo orçamental e é calculada em percentagem da soma dos rendimentos nacionais brutos (RNB) previsionais dos Estados-Membros, por forma a cobrir integralmente a parte do orçamento não financiada pelas receitas a que se refere o artigo 2.º, n.º 1, alíneas a) e b), da Decisão 2014/335/UE, Euratom, pelas contribuições financeiras para os programas complementares de investigação e desenvolvimento tecnológico e por outras receitas.\n\nEsta taxa é expressa no orçamento por um valor que contém tantas casas decimais quantas as necessárias para repartir integralmente entre os Estados-Membros o recurso próprio RNB."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "4e0f1f69c0e73500": {
+   "fragment_id": "CONTABILIZAÇÃO DOS RECURSOS PRÓPRIOS",
+   "type": "divisao",
+   "heading": "CONTABILIZAÇÃO DOS RECURSOS PRÓPRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTABILIZAÇÃO DOS RECURSOS PRÓPRIOS"
+  },
+  "ebad99f5572aea24": {
+   "fragment_id": "Artigo 6.º — Lançamento nas contas e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Lançamento nas contas e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Lançamento nas contas e relatórios\n\n1. É mantida pelo tesouro de cada Estado-Membro ou por uma entidade pública que exerça funções similares («tesouro») ou pelo banco central nacional de cada Estado-Membro uma contabilidade dos recursos próprios. Essa contabilidade é discriminada segundo a natureza desses recursos.\n\n2. Para efeitos da contabilidade dos recursos próprios, o mês contabilístico só pode ser encerrado a partir das 13 horas do último dia útil do mês do apuramento.\n\n3. Sem prejuízo do disposto no segundo parágrafo, os direitos apurados nos termos do artigo 2.º são lançados na contabilidade o mais tardar no primeiro dia útil seguinte ao dia 19 do segundo mês após aquele em que o direito tiver sido apurado.\n\nOs direitos apurados e não inscritos na contabilidade referida no primeiro parágrafo, por ainda não terem sido cobrados nem ter sido fornecida qualquer caução, são lançados numa contabilidade separada, no prazo previsto no primeiro parágrafo. Os Estados-Membros podem proceder do mesmo modo nos casos em que os direitos apurados e cobertos por garantias sejam objeto de contestação e possam vir a sofrer variações na sequência de eventuais diferendos.\n\nTodavia, o recurso próprio IVA e o recurso próprio RNB, tendo em conta o efeito nesses recursos da correção concedida ao Reino Unido em virtude dos desequilíbrios orçamentais e da redução bruta concedida à Dinamarca, Países Baixos, Áustria e Suécia, são lançados na contabilidade referida no primeiro parágrafo do seguinte modo:\n\n— no primeiro dia útil de cada mês, à razão do duodécimo a que se refere o [**►M1**](http://publications.europa.eu/resource/celex/32016R0804) artigo 10.º-A, n.º 1**◄**,\n\n— anualmente, no que se refere ao resultado do cálculo previsto no artigo 10.º-B, n.º 5, primeiro parágrafo, com exceção dos ajustamentos especiais previstos no artigo 10.º-B, n.º 2, alínea b), que são lançados na contabilidade no primeiro dia útil do mês seguinte ao acordo entre o Estado-Membro em causa e a Comissão.\n\nOs direitos apurados relativos às quotizações e outros direitos previstos no âmbito da organização comum de mercado no setor do açúcar são inscritos na contabilidade referida no primeiro parágrafo. Se, posteriormente, esses direitos não forem cobrados nos prazos fixados, os Estados-Membros podem efetuar retificações nos lançamentos iniciais e proceder, a título excecional, à inscrição dos direitos na contabilidade separada.\n\n4. Os Estados-Membros transmitem à Comissão, no prazo previsto no n.º 3:\n\na) Um extrato mensal da sua contabilidade relativa aos direitos a que se refere o n.º 3, primeiro parágrafo;\n\nb) Um extrato trimestral da contabilidade separada a que se refere o n.º 3, segundo parágrafo.\n\nEm apoio aos extratos mensais em questão, os Estados-Membros em causa transmitem as indicações ou os extratos relativos às deduções efetuadas nos recursos próprios com base nas disposições relativas aos territórios com estatuto especial.\n\nOs Estados-Membros transmitem, juntamente com o último extrato trimestral relativo a cada exercício, uma estimativa do montante total dos direitos inscritos na contabilidade separada em 31 de dezembro do referido exercício e cuja cobrança se verifique ser improvável.\n\nA Comissão adota os atos de execução que estabelecem os modelos dos extratos mensais e trimestrais. Esses atos de execução são adotados de acordo com o procedimento consultivo a que se refere o artigo 16.º, segundo parágrafo."
+  },
+  "a87ba453fb0c34f6": {
+   "fragment_id": "Artigo 7.º — Correções contabilísticas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Correções contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Correções contabilísticas\n\nApós o dia 31 de dezembro do terceiro ano seguinte a um determinado exercício, o montante total indicado pelos Estados-Membros nos extratos mensais a que se refere o artigo 6.º, n.º 4, primeiro parágrafo, e relativo a esse exercício, não é retificado, nem pela Comissão nem pelo Estado-Membro em causa, exceto no que se refere aos pontos notificados antes dessa data."
+  },
+  "b5cdc8b9fd7d160a": {
+   "fragment_id": "Artigo 8.º — Retificações dos direitos apurados",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Retificações dos direitos apurados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Retificações dos direitos apurados\n\nAs retificações efetuadas em conformidade com o disposto no artigo 2.º, n.º 4, são lançadas como aumento ou diminuição do montante total dos direitos apurados. São inscritas na contabilidade a que se refere o artigo 6.º, n.º 3, primeiro e segundo parágrafos, bem como nos extratos a que se refere o artigo 6.º, n.º 4, correspondentes à data dessas retificações."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "72c3af2729628ee7": {
+   "fragment_id": "COLOCAÇÃO A DISPOSIÇÃO DOS RECURSOS PRÓPRIOS",
+   "type": "divisao",
+   "heading": "COLOCAÇÃO A DISPOSIÇÃO DOS RECURSOS PRÓPRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COLOCAÇÃO A DISPOSIÇÃO DOS RECURSOS PRÓPRIOS"
+  },
+  "1aca1ea199f0d288": {
+   "fragment_id": "Artigo 9.º — Disposições relativas ao Tesouro e à contabilidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições relativas ao Tesouro e à contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições relativas ao Tesouro e à contabilidade\n\n1. Segundo as regras definidas nos artigos 10.º, 10.º-A e 10.º-B, cada Estado-Membro inscreve os recursos próprios a crédito da conta aberta para o efeito em nome da Comissão junto do tesouro ou do banco central nacional. Sob reserva da aplicação de juros negativos a que se refere o terceiro parágrafo, esta conta só pode ser debitada mediante instruções da Comissão.\n\nA conta é mantida na moeda nacional com isenção de encargos e de juros.\n\nSe forem aplicados juros negativos a esta conta, o Estado-Membro em causa credita a conta com o montante correspondente ao montante desses juros negativos aplicados, o mais tardar no primeiro dia útil do segundo mês seguinte à aplicação de tais juros negativos.\n\n2. Os Estados-Membros ou os respetivos bancos centrais nacionais transmitem à Comissão, por via eletrónica:\n\na) No dia útil em que os recursos próprios são lançados a crédito da conta da Comissão, um extrato de conta ou um aviso de crédito no qual figure o lançamento dos recursos próprios;\n\nb) Sem prejuízo da alínea a), o mais tardar no segundo dia útil subsequente ao crédito da conta, um extrato de conta no qual figure o lançamento dos recursos próprios.\n\n3. Os montantes inscritos são contabilizados em euros nos termos do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho («Regulamento Financeiro») ([^2^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#E0002)) e do Regulamento Delegado (UE) n.º 1268/2012 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#E0003))."
+  },
+  "d19a48d033dfcf3e": {
+   "fragment_id": "Artigo 10.º — Colocação à disposição dos recursos próprios tradicionais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Colocação à disposição dos recursos próprios tradicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Colocação à disposição dos recursos próprios tradicionais\n\n1. Após dedução das despesas de cobrança nos termos do artigo 2.º, n.º 3, e do artigo 10.º, n.º 3, da Decisão 2014/335/UE, Euratom, o lançamento dos recursos próprios tradicionais a que se refere o artigo 2.º, n.º 1, alínea a), dessa decisão é efetuado o mais tardar no primeiro dia útil seguinte ao dia 19 do segundo mês após aquele em que o direito tiver sido apurado nos termos do artigo 2.º do presente regulamento.\n\nTodavia, em relação aos direitos lançados na contabilidade separada, nos termos do artigo 6.º, n.º 3, segundo parágrafo, o lançamento deve ser efetuado o mais tardar no primeiro dia útil seguinte ao dia 19 do segundo mês seguinte ao da cobrança dos direitos.\n\n2. Se necessário, a Comissão pode convidar os Estados-Membros a anteciparem um mês o lançamento dos recursos, exceto o recurso próprio IVA e o recurso próprio RNB, com base nas informações de que disponham no dia 15 do mesmo mês.\n\nA regularização de cada lançamento antecipado é efetuada no mês seguinte, aquando do lançamento a que se refere o n.º 1. Essa regularização consiste no lançamento negativo de um montante igual àquele que foi objeto do lançamento antecipado."
+  },
+  "ee4ad4b07baac388": {
+   "fragment_id": "Artigo 10.º-A — Colocação à disposição dos recursos próprios IVA e RNB",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A — Colocação à disposição dos recursos próprios IVA e RNB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Colocação à disposição dos recursos próprios IVA e RNB\n\n1. O lançamento do recurso próprio IVA e do recurso próprio RNB, tendo em conta o efeito nesses recursos da correção concedida ao Reino Unido em virtude dos desequilíbrios orçamentais e da redução bruta concedida à Dinamarca, Países Baixos, Áustria e Suécia, é efetuado no primeiro dia útil de cada mês, à razão de um duodécimo dos montantes resultantes a esse título do orçamento, convertido em moedas nacionais às taxas de câmbio do último dia de cotação do ano civil que antecede o exercício orçamental, tal como publicadas no *Jornal Oficial da União Europeia*, série C.\n\n2. Para as necessidades específicas relativas ao pagamento das despesas do FEAGA, ao abrigo do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#E0004)), e em função da situação da tesouraria da União, a Comissão pode convidar os Estados-Membros a anteciparem até dois meses, durante o primeiro trimestre do exercício orçamental, o lançamento de um duodécimo ou de uma fração de duodécimo dos montantes previstos no orçamento a título do recurso próprio IVA e do recurso próprio RNB, tendo em conta o efeito nesses recursos da correção concedida ao Reino Unido em virtude dos desequilíbrios orçamentais e da redução bruta concedida à Dinamarca, Países Baixos, Áustria e Suécia.\n\nSob reserva do disposto no terceiro parágrafo, no que se refere às necessidades específicas relativas ao pagamento das despesas dos Fundos Europeus Estruturais e de Investimento ao abrigo do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#E0005)), e em função da situação da tesouraria da União, a Comissão pode convidar os Estados-Membros a anteciparem, durante o primeiro semestre do exercício orçamental, o lançamento de meio duodécimo adicional, no máximo, dos montantes previstos no orçamento a título do recurso próprio IVA e do recurso próprio RNB, tendo em conta o efeito nesses recursos da correção concedida ao Reino Unido em virtude dos desequilíbrios orçamentais e da redução bruta concedida à Dinamarca, Países Baixos, Áustria e Suécia.\n\nO montante total que a Comissão pode convidar os Estados-Membros a anteciparem no mesmo mês ao abrigo do primeiro e do segundo parágrafos não pode, em caso algum, exceder o montante correspondente a dois duodécimos adicionais.\n\nDepois do primeiro semestre, o lançamento mensal solicitado não pode ultrapassar um duodécimo dos recursos próprios IVA e RNB, sempre dentro do limite dos montantes lançados no orçamento a título desses recursos.\n\nA Comissão informa previamente os Estados-Membros a esse respeito, o mais tardar duas semanas antes do lançamento solicitado ao abrigo do primeiro e do segundo parágrafos.\n\nA Comissão informa os Estados-Membros da sua intenção de solicitar um lançamento ao abrigo do segundo parágrafo, com a antecedência suficiente e o mais tardar seis semanas antes do lançamento solicitado.\n\nAs disposições relativas ao lançamento do mês de janeiro de cada exercício, previstas no n.º 4, e as disposições aplicáveis se o orçamento não estiver definitivamente adotado antes do início do exercício, previstas no n.º 5, são aplicáveis aos lançamentos antecipados.\n\n3. Qualquer alteração da taxa uniforme do recurso próprio IVA, da taxa do recurso próprio RNB, da correção concedida ao Reino Unido a título dos desequilíbrios orçamentais e do seu financiamento, a que se referem os artigos 4.º e 5.º da Decisão 2014/335/UE, Euratom, e do financiamento da redução bruta concedida à Dinamarca, Países Baixos, Áustria e Suécia é fundamentada pela adoção definitiva de um orçamento retificativo e dá lugar a reajustamentos dos duodécimos inscritos desde o início do exercício.\n\nEstes reajustamentos são efetuados por ocasião do primeiro lançamento seguinte à adoção definitiva do orçamento retificativo, se essa adoção ocorrer antes do dia 16 do mês. Caso contrário, os reajustamentos são efetuados por ocasião do segundo lançamento a seguir à adoção definitiva. Em derrogação do disposto no artigo 11.º do Regulamento Financeiro, esses reajustamentos são contabilizados no exercício do orçamento retificativo a que se referem.\n\n4. Os duodécimos relativos ao lançamento do mês de janeiro de cada exercício são calculados com base nos montantes previstos no projeto de orçamento a que se refere o artigo 314.º, n.º 2, do Tratado sobre o Funcionamento da União Europeia (TFUE) e convertidos em moeda nacional à taxa de câmbio do primeiro dia de cotação a seguir ao dia 15 de dezembro do ano civil que precede o exercício; a regularização desses montantes é efetuada por ocasião do lançamento relativo ao mês seguinte.\n\n5. Se o orçamento não tiver sido definitivamente adotado pelo menos duas semanas antes do lançamento de janeiro do exercício seguinte, os Estados-Membros lançam no primeiro dia útil de cada mês, incluindo o mês de janeiro, um duodécimo do montante previsto a título do recurso próprio IVA e do recurso próprio RNB, tendo em conta o efeito nesses recursos da correção concedida ao Reino Unido a título dos desequilíbrios orçamentais e da redução bruta concedida à Dinamarca, Países Baixos, Áustria e Suécia, inscrito no último orçamento definitivamente adotado; a regularização é efetuada no momento do primeiro vencimento seguinte à adoção definitiva do orçamento, se esta tiver lugar antes do dia 16 do mês. Caso contrário, a regularização é efetuada por ocasião do segundo vencimento a seguir à adoção definitiva do orçamento.\n\n6. Não pode ser efetuada posteriormente qualquer revisão do financiamento da redução bruta concedida à Dinamarca, Países Baixos, Áustria e Suécia, em caso de alterações dos dados do RNB, ao abrigo do artigo 2.º, n.º 2, do Regulamento (CE, Euratom) n.º 1287/2003."
+  },
+  "adf922d95fc8780b": {
+   "fragment_id": "Artigo 10.º-B — Ajustamentos aos recursos próprios IVA e RNB de exercícios anteriores",
+   "type": "artigo",
+   "heading": "Artigo 10.º-B — Ajustamentos aos recursos próprios IVA e RNB de exercícios anteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-B — Ajustamentos aos recursos próprios IVA e RNB de exercícios anteriores\n\n1. Com base no relatório anual sobre a base do recurso próprio IVA previsto no artigo 7.º, n.º 1, do Regulamento (CEE, Euratom) n.º 1553/89, no ano a seguir àquele em que esse relatório foi transmitido, é debitado a cada Estado-Membro um montante calculado a partir dos dados constantes desse relatório, mediante a aplicação da taxa uniforme adotada para o exercício a que o relatório diz respeito, e são-lhe creditados os 12 lançamentos efetuados durante esse exercício. Todavia, a base do recurso próprio IVA de um Estado-Membro à qual se aplica essa taxa não pode ultrapassar a percentagem do seu RNB determinada pelo artigo 2.º, n.º 1, alínea b), da Decisão 2014/335/UE, Euratom, nos termos do artigo 2.º, n.º 7, primeiro parágrafo, dessa decisão.\n\n2. As eventuais retificações à base do recurso próprio IVA ao abrigo do artigo 9.º, n.º 1, do Regulamento (CEE, Euratom) n.º 1553/89 dão lugar, para cada Estado-Membro cuja base, tendo em conta essas retificações, não exceda as percentagens determinadas de acordo com o artigo 2.º, n.º 1, alínea b), e o artigo 10.º, n.º 2, da Decisão 2014/335/UE, Euratom, a um ajustamento do saldo estabelecido nos termos do n.º 1 do presente artigo nas seguintes condições:\n\na) As retificações ao abrigo do artigo 9.º, n.º 1, primeiro parágrafo, do Regulamento (CEE, Euratom) n.º 1553/89 efetuadas até 31 de julho dão lugar a um ajustamento global no ano seguinte;\n\nb) Pode ser lançado um ajustamento especial a qualquer momento, se o Estado-Membro em causa e a Comissão estiverem de acordo, nos termos do artigo 9.º, n.º 1, primeiro parágrafo, do Regulamento (CEE, Euratom) n.º 1553/89;\n\nc) Caso as medidas tomadas pela Comissão para a retificação da base, ao abrigo do artigo 9.º, n.º 1, segundo parágrafo, do Regulamento (CEE, Euratom) n.º 1553/89, conduzam a um ajustamento especial dos lançamentos na conta a que se refere o artigo 9.º, n.º 1, do presente regulamento, esse ajustamento é efetuado na data fixada pela Comissão no quadro da aplicação dessas medidas.\n\nAs modificações do RNB referidas no n.º 4 do presente artigo dão igualmente lugar a um ajustamento do saldo de qualquer Estado-Membro cuja base do recurso próprio IVA, tendo em conta as retificações a que se refere o primeiro parágrafo do presente número, seja fixada nas percentagens determinadas de acordo com artigo 2.º, n.º 1, alínea b), e o artigo 10.º, n.º 2, da Decisão 2014/335/UE, Euratom.\n\n3. Com base nos dados do agregado RNB a preços de mercado e suas componentes do ano anterior, fornecidos pelos Estados-Membros nos termos do artigo 2.º, n.º 2, do Regulamento (CE, Euratom) n.º 1287/2003, no ano a seguir àquele em que os dados foram fornecidos é debitado a cada Estado-Membro um montante calculado mediante a aplicação ao RNB da taxa adotada para o ano que antecede o do fornecimento dos dados e são-lhe creditados os pagamentos efetuados durante esse ano.\n\n4. As eventuais modificações introduzidas nos RNB dos exercícios anteriores nos termos do artigo 2.º, n.º 2, do Regulamento (CE, Euratom) n.º 1287/2003, sob reserva do disposto no artigo 5.º do referido regulamento, dão lugar, para cada Estado-Membro em causa, a um ajustamento do saldo estabelecido nos termos do n.º 3 do presente artigo. Depois de 30 de novembro do quarto ano seguinte a um dado exercício, as eventuais modificações do RNB deixam de ser consideradas, exceto em relação aos pontos notificados d desse prazo, quer pela Comissão, quer pelo Estado-Membro.\n\n5. Em relação a cada Estado-Membro, a Comissão calcula a diferença entre os montantes resultantes dos ajustamentos referidos nos n.^os^ 1 a 4, com exceção dos ajustamentos especiais ao abrigo do n.º 2, alíneas b) e c), e o resultado da multiplicação dos montantes totais dos ajustamentos pela percentagem do RNB desse Estado-Membro em relação ao RNB do conjunto dos Estados-Membros, conforme aplicável em 15 de janeiro ao orçamento em vigor para o ano seguinte àquele em que foram fornecidos os dados relativos aos ajustamentos («montante líquido»).\n\nPara efeitos deste cálculo, a conversão entre a moeda nacional e o euro é efetuada às taxas de câmbio do último dia de cotação do ano civil que antecede o ano de lançamento nas contas, conforme publicadas no *Jornal Oficial da União Europeia*, Série C.\n\nA Comissão informa os Estados-Membros dos montantes resultantes deste cálculo até 1 de fevereiro do ano a seguir àquele em que foram fornecidos os dados relativos aos ajustamentos. Cada Estado-Membro lança o montante líquido na conta a que se refere o artigo 9.º, n.º 1, no primeiro dia útil do mês de junho desse mesmo ano.\n\n6. As operações a que se referem os n.^os^ 1 a 5 do presente artigo constituem modificações das operações de receitas do exercício durante o qual se procede ao seu lançamento na conta a que se refere o artigo 9.º, n.º 1."
+  },
+  "361ac2e487bb5afd": {
+   "fragment_id": "Artigo 11.º — Ajustamento decorrente da não participação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Ajustamento decorrente da não participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Ajustamento decorrente da não participação\n\n1. Quando, em aplicação do TFUE e dos seus Protocolos n.^os^ 21 e 22, um Estado-Membro não participa no financiamento de uma ação específica ou de uma política da União, tem direito ao ajustamento, calculado segundo o n.º 2, do montante pago a título de recursos próprios para cada exercício de não participação.\n\n2. A Comissão calcula o ajustamento no decurso do ano seguinte ao exercício em causa.\n\nO cálculo é efetuado com base nos seguintes dados relativos ao exercício considerado:\n\na) Do agregado RNB a preços de mercado e das suas componentes, fornecidos pelos Estados-Membros nos termos do artigo 2.º, n.º 2, do Regulamento (CE, Euratom) n.º 1287/2003;\n\nb) Da execução orçamental das despesas operacionais que correspondem à ação ou à política em questão.\n\nPara o cálculo do ajustamento, o montante total das despesas em questão, com exceção das despesas financiadas por Estados terceiros participantes, é multiplicado pela percentagem do RNB do Estado-Membro com direito ao ajustamento em relação ao RNB do conjunto dos Estados-Membros. O ajustamento é financiado pelos Estados-Membros participantes, de acordo com uma escala determinada pela divisão do respetivo RNB pelo RNB do conjunto dos Estados-Membros participantes. Para efeitos do cálculo do ajustamento, a conversão entre a moeda nacional e o euro é efetuada à taxa de câmbio do último dia de cotação do ano civil anterior ao exercício orçamental considerado, conforme publicada no *Jornal Oficial da União Europeia*, série C.\n\nO ajustamento introduzido em cada exercício considerado tem um caráter único e é definitivo em caso de alteração posterior do RNB utilizado.\n\n3. A Comissão comunica o montante do ajustamento aos Estados-Membros em tempo útil para que estes possam inscrevê-lo na conta a que se refere o artigo 9.º, n.º 1, do presente regulamento no primeiro dia útil do mês de dezembro."
+  },
+  "86db499331ab02ee": {
+   "fragment_id": "Artigo 12.º — Juros sobre os montantes disponibilizados tardiamente",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Juros sobre os montantes disponibilizados tardiamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Juros sobre os montantes disponibilizados tardiamente\n\n1. Qualquer atraso na inscrição na conta a que se refere o artigo 9.º, n.º 1, dá lugar ao pagamento de juros de mora pelo Estado-Membro em causa.\n\n2. Relativamente aos recursos próprios baseados no IVA e no RNB, os juros são devidos apenas em relação aos atrasos na inscrição dos montantes:\n\na) A que se refere o artigo 10.º-A;\n\nb) Resultantes do cálculo a que se refere o artigo 10.º-B, n.º 5, primeiro parágrafo, no momento especificado no terceiro parágrafo desse número;\n\nc) Resultantes de ajustamentos especiais do recurso próprio baseado no IVA ao abrigo do artigo 10.º-B, n.º 2, alínea c), do presente artigo, na data fixada pela Comissão no quadro da aplicação das medidas tomadas nos termos do artigo 9.º, n.º 1, segundo parágrafo, do Regulamento (CEE, Euratom) n.º 1553/89;\n\nd) Resultantes da não apresentação, pelos Estados-Membros, de retificações dos dados do RNB necessárias para dar resposta aos pontos notificados pela Comissão ou pelo Estado-Membro, a que se refere o artigo 10.º-B, n.º 4, dentro do prazo expressamente fixado pela Comissão. Os juros sobre os ajustamentos resultantes de tais retificações são calculados a partir do primeiro dia útil do mês de junho do ano seguinte àquele em que expirou o prazo expressamente fixado pela Comissão.\n\n3. É dispensada a cobrança de montantes de juros inferiores a 500 EUR.\n\n4. Relativamente aos Estados-Membros que participam na União Económica e Monetária, a taxa de juro é igual à taxa de juro publicada no *Jornal Oficial da União Europeia*, série C, aplicada pelo Banco Central Europeu às suas principais operações de refinanciamento, no primeiro dia do mês em que o pagamento é devido, ou a 0 %, consoante a que for mais elevada, acrescida de 2,5 pontos percentuais.\n\nEssa taxa é majorada de 0,25 pontos percentuais por cada mês de atraso.\n\nA majoração total a título do primeiro e do segundo parágrafos não pode exceder 16 pontos percentuais. A taxa aumentada aplica-se durante todo o período do atraso.\n\n5. Relativamente aos Estados-Membros que não participem na União Económica e Monetária, a taxa de juro é igual à taxa aplicada no primeiro dia do mês em questão pelos bancos centrais às suas principais operações de refinanciamento, ou a 0 %, consoante a que for mais elevada, acrescida de 2,5 pontos percentuais. Relativamente aos Estados-Membros para os quais não está disponível a taxa do banco central, a taxa de juro é igual à taxa mais equivalente aplicada no primeiro dia do mês em questão no mercado monetário desses Estados-Membros, ou a 0 %, consoante a que for mais elevada, acrescida de 2,5 pontos percentuais.\n\nEssa taxa é majorada de 0,25 pontos percentuais por cada mês de atraso.\n\nA majoração total a título do primeiro e do segundo parágrafos não pode exceder 16 pontos percentuais. A taxa majorada é aplicada ao período total do atraso.\n\n6. Para o pagamento dos juros a que se referem os n.^os^ 1 e 2 do presente artigo, é aplicável, *mutatis mutandis*, o artigo 9.º, n.^os^ 2 e 3."
+  },
+  "f0c47d69feec6b2a": {
+   "fragment_id": "Artigo 13.º — Montantes incobráveis",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Montantes incobráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Montantes incobráveis\n\n1. Os Estados-Membros tomam todas as medidas necessárias para que os montantes correspondentes aos direitos apurados nos termos do artigo 2.º sejam colocados à disposição da Comissão nas condições fixadas pelo presente regulamento.\n\n2. Os Estados-Membros são dispensados de pôr à disposição da Comissão os montantes correspondentes aos direitos apurados em conformidade com o artigo 2.º que se verifique serem incobráveis por uma das seguintes razões:\n\na) Por razões de força maior;\n\nb) Por outras razões que não lhes sejam imputáveis.\n\nOs Estados-Membros podem ser dispensados da obrigação de colocar à disposição da Comissão os montantes correspondentes aos direitos apurados nos termos do artigo 2.º caso se verifique que esses direitos são incobráveis devido ao diferimento do lançamento nas contas ou da notificação da dívida aduaneira a fim de não prejudicar uma investigação criminal lesiva dos interesses financeiros da União.\n\nOs montantes de direitos apurados são declarados incobráveis por decisão da autoridade administrativa competente que verifica a impossibilidade de cobrança.\n\nOs montantes de direitos apurados são considerados incobráveis o mais tardar após um período de cinco anos a contar da data em que o montante foi apurado nos termos do artigo 2.º ou, em caso de recurso administrativo ou judicial, da data da decisão definitiva, da sua notificação ou da sua publicação.\n\nEm caso de pagamento escalonado, o período máximo de cinco anos corre a partir do último pagamento efetivo, na medida em que este não tenha saldado a dívida.\n\nOs montantes declarados ou considerados incobráveis são retirados definitivamente da contabilidade separada a que se refere o artigo 6.º, n.º 3, segundo parágrafo. São mencionados em anexo ao extrato trimestral a que se refere o artigo 6.º, n.º 4, primeiro parágrafo, bem como, se for caso disso, nas descrições trimestrais a que se refere o artigo 5.º do Regulamento (UE) n.º 608/2014.\n\n3. No prazo de três meses a contar da decisão administrativa a que se refere o n.º 2 ou nos prazos referidos no mesmo número, os Estados-Membros apresentam à Comissão um relatório com as informações relativas aos casos de aplicação do n.º 2, na medida em que o montante dos direitos apurados exceda 100 000 EUR.\n\nEsse relatório inclui todos os factos necessários para um pleno exame das razões referidas no n.º 2, alíneas a) e b), do presente artigo que impediram o Estado-Membro em questão de pôr à disposição o montante em causa, bem como as medidas por ele tomadas para garantir a cobrança.\n\nEsse relatório é apresentado de acordo com um modelo estabelecido pela Comissão. Para o efeito, a Comissão adota atos de execução. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 16.º, n.º 2.\n\n4. A Comissão dispõe de seis meses, a contar da receção do relatório previsto no n.º 3, para enviar os seus comentários ao Estado-Membro em questão.\n\nQuando a Comissão considerar necessário solicitar informações complementares, o prazo de seis meses é contado a partir da data de receção das informações complementares solicitadas."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "784884813a5d7814": {
+   "fragment_id": "GESTÃO DA TESOURARIA",
+   "type": "divisao",
+   "heading": "GESTÃO DA TESOURARIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GESTÃO DA TESOURARIA"
+  },
+  "726f7361adb7d98a": {
+   "fragment_id": "Artigo 14.º — Requisitos em matéria de gestão de tesouraria",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Requisitos em matéria de gestão de tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Requisitos em matéria de gestão de tesouraria\n\n1. A Comissão dispõe das quantias lançadas a crédito das contas a que se refere o artigo 9.º, n.º 1, na medida do necessário para cobrir as necessidades de tesouraria decorrentes da execução do orçamento.\n\n2. Quando as necessidades de tesouraria excederem os ativos das contas, a Comissão pode efetuar levantamentos para além do total desses ativos, na condição de que as dotações estejam disponíveis no orçamento e dentro do limite dos recursos próprios previstos no orçamento. Nesse caso, a Comissão informa previamente os Estados-Membros dos levantamentos em excesso previsíveis.\n\n3. O disposto nos n.^os^ 2 e 4 pode ser provisoriamente aplicado para assegurar o serviço das dívidas da União, independentemente das condições previstas no n.º 2, apenas em caso de incumprimento por parte do beneficiário de um empréstimo contraído ou garantido nos termos dos regulamentos e decisões adotados pelo Conselho, ou pelo Parlamento Europeu e pelo Conselho, em circunstâncias que impeçam a Comissão de recorrer atempadamente a outras medidas previstas nas disposições financeiras aplicáveis a esses empréstimos para assegurar o cumprimento das obrigações jurídicas da União para com os mutuantes.\n\n4. Sob reserva do segundo parágrafo, a diferença entre os ativos globais e as necessidades de tesouraria é repartida pelos Estados-Membros, tanto quanto possível proporcionalmente à previsão das receitas do orçamento provenientes de cada um deles.\n\nAo cobrir as suas necessidades de tesouraria, a Comissão procura reduzir o impacto da obrigação que incumbe aos Estados-Membros de creditarem os montantes de juros negativos por força do artigo 9.º, n.º 1, terceiro parágrafo, mediante a mobilização prioritária das quantias lançadas a crédito das contas em causa."
+  },
+  "a8ff22c36019ddd9": {
+   "fragment_id": "Artigo 15.º — Execução das ordens de pagamento",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Execução das ordens de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução das ordens de pagamento\n\n1. Os Estados-Membros ou os respetivos bancos centrais nacionais executam as ordens de pagamento da Comissão de acordo com as instruções desta e o mais tardar no prazo de três dias úteis a contar da receção dessas ordens. No caso de operações relativas a movimentos de tesouraria, os Estados-Membros ou os respetivos bancos centrais nacionais executam as ordens no prazo exigido pela Comissão que, salvo casos excecionais, os notifica com a antecedência mínima de um dia em relação à data em que a ordem deva ser executada.\n\n2. Os Estados-Membros ou os respetivos bancos centrais nacionais transmitem à Comissão por via eletrónica e o mais tardar no segundo dia útil subsequente à realização de cada operação, um extrato de conta no qual figurem os movimentos correspondentes."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "79b293b168a921eb": {
+   "fragment_id": "Artigo 16.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité Consultivo dos Recursos Próprios referido no artigo 7.º do Regulamento (UE, Euratom) n.º 608/2014. Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011."
+  },
+  "cbd0326058c4d83b": {
+   "fragment_id": "Artigo 17.º — Disposição transitória sobre a taxa de juro",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Disposição transitória sobre a taxa de juro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposição transitória sobre a taxa de juro\n\nA taxa prevista no artigo 11.º do Regulamento (CE, Euratom) n.º 1150/2000, com a redação anterior à entrada em vigor do Regulamento (CE, Euratom) n.º 2028/2004 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#E0006)), continua a ser aplicável para efeitos do cálculo dos juros de mora nos casos em que a data de vencimento ocorra antes de 1 de dezembro de 2004."
+  },
+  "ab8143b19b372acf": {
+   "fragment_id": "Artigo 18.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\n1. Sob reserva do n.º 2, o Regulamento (CE, Euratom) n.º 1150/2000 é revogado com efeitos desde 1 de janeiro de 2014.\n\n2. O artigo 10.º, n.º 7-A, do Regulamento (CE, Euratom) n.º 1150/2000 é revogado com efeitos a partir da data de entrada em vigor do presente regulamento.\n\n3. As remissões para o regulamento revogado entendem-se como sendo feitas para o presente regulamento e devem ler-se nos termos da tabela de correspondência que consta do anexo II."
+  },
+  "c174a0b4e17f35d4": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia de entrada em vigor da Decisão 2014/335/UE, Euratom.\n\nO presente regulamento é aplicável com efeitos desde 1 de janeiro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f9d1a5c26510ac78": {
+   "fragment_id": "REGULAMENTO REVOGADO COM A LISTA DAS SUAS ALTERAÇÕES SUCESSIVAS",
+   "type": "divisao",
+   "heading": "REGULAMENTO REVOGADO COM A LISTA DAS SUAS ALTERAÇÕES SUCESSIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGULAMENTO REVOGADO COM A LISTA DAS SUAS ALTERAÇÕES SUCESSIVAS\n\nRegulamento (CE, Euratom) n.º 1150/2000 do Conselho (JO L 130 de 31.5.2000, p. 1).\n\nRegulamento (CE, Euratom) n.º 2028/2004 do Conselho (JO L 352 de 27.11.2004, p. 1).\n\nRegulamento (CE, Euratom) n.º 105/2009 do Conselho (JO L 36 de 5.2.2009, p. 1)."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "bfa66abf57320f82": {
+   "fragment_id": "TABELA DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "TABELA DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TABELA DE CORRESPONDÊNCIA\n\nRegulamento (CE, Euratom) n.º 1150/2000 Presente regulamento\n\nArtigo 1.º —\n\n— Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º, primeiro, segundo e terceiro parágrafos Artigo 3.º, primeiro, segundo e terceiro parágrafos\n\n— Artigo 3.º, quarto parágrafo\n\nArtigo 4.º Artigo 4.º\n\nArtigo 5.º Artigo 5.º\n\nArtigo 6.º, n.^os^ 1 e 2 Artigo 6.º, n.º s 1 e 2\n\nArtigo 6.º, n.º 3, alínea a) Artigo 6.º, n.º 3, primeiro parágrafo\n\nArtigo 6.º, n.º 3, alínea b) Artigo 6.º, n.º 3, segundo parágrafo\n\nArtigo 6.º, n.º 3, alínea c) Artigo 6.º, n.º 3, terceiro parágrafo\n\nArtigo 6.º, n.º 3, alínea d) Artigo 6.º, n.º 3, quarto parágrafo\n\nArtigo 6.º, n.º 4, primeiro parágrafo, alínea a), primeiro período Artigo 6.º, n.º 4, primeiro parágrafo, alínea a)\n\nArtigo 6.º, n.º 4, primeiro parágrafo, alínea a), segundo período Artigo 6.º, n.º 4, segundo parágrafo\n\nArtigo 6.º, n.º 4, primeiro parágrafo, alínea b), primeiro período Artigo 6.º, n.º 4, primeiro parágrafo, alínea b)\n\nArtigo 6.º, n.º 4, primeiro parágrafo, alínea b), segundo período Artigo 6.º, n.º 4, terceiro parágrafo\n\nArtigo 6.º, n.º 4, segundo parágrafo Artigo 6.º, n.º 4, quarto parágrafo\n\nArtigo 6.º, n.º 5 —\n\nArtigo 7.º Artigo 7.º\n\nArtigo 8.º, primeiro parágrafo Artigo 8.º\n\nArtigo 8.º, segundo parágrafo —\n\nArtigo 9.º, n.º 1 Artigo 9.º, n.º 1\n\nArtigo 9.º, n.º 1a. Artigo 9.º, n.º 2\n\nArtigo 9.º, n.º 2 Artigo 9.º, n.º 3\n\nArtigo 10.º, n.^os^ 1, 2, 3, 4, 5, 6 e 7 Artigo 10.º, n.^os^ 1, 2, 3, 4, 5, 6 e 7\n\nArtigo 10.º, n.º 8 Artigo 10.º, n.º 8, primeiro parágrafo\n\nArtigo 10.º, n.º 9 Artigo 10.º, n.º 9\n\nArtigo 10.º, n.º 10 -\n\nArtigo 10.º-A Artigo 11.º\n\nArtigo 11.º, n.º 1 Artigo 12.º, n.º 1, primeiro parágrafo\n\n- Artigo 12.º, n.º 1, segundo parágrafo\n\nArtigo 11.º, n.^os^ 2, 3 e 4 Artigo 12.º, n.^os^ 2, 3 e 4\n\nArtigo 12.º, n.^os^ 1, 2, 3 e 4 Artigo 14.º\n\nArtigo 12.º, n.º 5, primeiro parágrafo Artigo 15.º, n.º 1\n\nArtigo 12.º, n.º 5, segundo parágrafo Artigo 15.º, n.º 2\n\nArtigo 15.º —\n\nArtigo 16.º, primeiro e segundo parágrafos —\n\nArtigo 16.º, terceiro parágrafo Artigo 10.º, n.º 8, segundo parágrafo\n\nArtigo 17.º, n.^os^ 1 e 2 Artigo 13.º, n.^os^ 1 e 2\n\nArtigo 17.º, n.º 3, primeiro parágrafo Artigo 13.º, n.º 3, primeiro parágrafo\n\nArtigo 17.º, n.º 3, segundo parágrafo -\n\nArtigo 17.º, n.º 3, terceiro parágrafo Artigo 13.º, n.º 3, segundo parágrafo\n\n- Artigo 13.º, n.º 3, terceiro parágrafo\n\nArtigo 17.º, n.º 4 Artigo 13.º, n.º 4\n\nArtigo 17.º, n.º 5 —\n\nArtigo 18.º —\n\nArtigo 19.º —\n\nArtigo 20.º —\n\nArtigo 21.º —\n\n— Artigo 16.º\n\nArtigo 21.º-A Artigo 17.º\n\nArtigo 22.º —\n\nArtigo 23.º —\n\n— Artigo 18.º\n\n— Artigo 19.º\n\nAnexo\n\nAnexo I\n\n— Anexo II\n\n---"
+  },
+  "aff71e104b858f91": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#src.E0001)) Regulamento (CEE, Euratom) n.º 1553/89 do Conselho, de 29 de maio de 1989, relativo ao regime uniforme e definitivo de cobrança dos recursos próprios provenientes do Imposto sobre o Valor Acrescentado (JO L 155 de 7.6.1989, p. 9).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#src.E0002)) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União (JO L 298 de 26.10.2012, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#src.E0003)) Regulamento Delegado (UE) n.o 1268/2012 da Comissão, de 29 de outubro de 2012, sobre as normas de execução do Regulamento (UE, Euratom) n.o 966/2012 (JO L 362 de 31.12.2012, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#src.E0004)) Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece regras para os pagamentos diretos aos agricultores ao abrigo de regimes de apoio no âmbito da política agrícola comum e que revoga o Regulamento (CE) n.º 637/2008 do Conselho e o Regulamento (CE) n.º 73/2009 do Conselho (JO L 347 de 20.12.2013, p. 608).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#src.E0005)) Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e que revoga o Regulamento (CE) n.º 1083/2006 do Conselho (JO L 347 de 20.12.2013, p. 320).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8bc1e01d-e6b1-484d-806d-cce75b32dee3.0015.03/DOC_1#src.E0006)) Regulamento (CE, Euratom) n.º 2028/2004 do Conselho, de 16 de novembro de 2004, que altera o Regulamento (CE, Euratom) n.º 1150/2000 relativo à aplicação da Decisão 94/728/CE, Euratom relativa ao sistema dos recursos próprios das Comunidades (JO L 352 de 27.11.2004, p. 1)."
+  },
+  "9f260c9013c451bf": {
+   "fragment_id": "Artigo 3.º — Conservação dos documentos comprovativos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Conservação dos documentos comprovativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conservação dos documentos comprovativos\n\nOs Estados-Membros tomam todas as medidas necessárias para que os documentos comprovativos respeitantes ao apuramento e à colocação à disposição dos recursos próprios sejam conservados durante pelo menos três anos civis a contar do fim do ano a que esses documentos comprovativos se referem.\n\nOs documentos comprovativos relativos às bases e procedimentos estatísticos a que se refere o artigo 3.º do Regulamento (CE, Euratom) n.º 1287/2003 são conservados pelos Estados-Membros até 30 de novembro do quarto ano seguinte ao exercício em causa. Os documentos comprovativos relativos à base do recurso próprio IVA são conservados durante o mesmo período.\n\nSe a verificação efetuada em virtude do artigo 2.º, n.º 3 do Regulamento (UE, Euratom) n.º 608/2014 ou do artigo 11.º do Regulamento (CEE, Euratom) n.º 1553/89 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0001)), dos documentos comprovativos a que se referem o primeiro e o segundo parágrafos revelar a necessidade de proceder a uma retificação, tais documentos comprovativos serão conservados para além do prazo previsto no primeiro parágrafo, durante um período que permita proceder à retificação e ao respetivo controlo.\n\nNo caso de um contencioso entre um Estado-Membro e a Comissão, relativo à obrigação de colocar à disposição um certo montante de recursos próprios, ser resolvido por mútuo acordo ou por decisão do Tribunal de Justiça da União Europeia, o Estado-Membro transmite à Comissão os documentos comprovativos necessários para o seguimento financeiro no prazo de dois meses após a resolução desse contencioso."
+  },
+  "3331be75c113e6de": {
+   "fragment_id": "Artigo 4.º — Cooperação administrativa",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cooperação administrativa\n\n1.\n\nOs Estados-Membros comunicam à Comissão os seguintes elementos:\n\na) A denominação dos serviços ou organismos responsáveis pelo apuramento, cobrança, colocação à disposição e controlo dos recursos próprios, bem como as disposições essenciais relativas às atribuições e ao funcionamento desses serviços e organismos;\n\nb) As disposições legislativas, regulamentares, administrativas e contabilísticas de caráter geral relativas ao apuramento, cobrança, colocação à disposição e controlo dos recursos próprios por parte da Comissão;\n\nc) A designação exata de todos os registos administrativos e contabilísticos em que são lançados os direitos apurados, tal como especificados no artigo 2.º, nomeadamente os utilizados para a elaboração da contabilidade prevista no artigo 6.º.\n\nQualquer alteração das referidas denominações ou disposições é imediatamente comunicada à Comissão.\n\n2. A Comissão comunica a todos os Estados-Membros, a pedido de um deles, as informações a que se refere o n.º 1."
+  },
+  "3ca19bbbae601ff3": {
+   "fragment_id": "Artigo 6.º — Lançamento nas contas e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Lançamento nas contas e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Lançamento nas contas e relatórios\n\n1. É mantida pelo tesouro de cada Estado-Membro ou por uma entidade pública que exerça funções similares («tesouro») ou pelo banco central nacional de cada Estado-Membro uma contabilidade dos recursos próprios. Essa contabilidade é discriminada segundo a natureza desses recursos.\n\n2. Para efeitos da contabilidade dos recursos próprios, o mês contabilístico só pode ser encerrado a partir das 13 horas do último dia útil do mês do apuramento.\n\n3. Sem prejuízo do disposto no segundo parágrafo, os direitos apurados nos termos do artigo 2.º são lançados na contabilidade o mais tardar no primeiro dia útil seguinte ao dia 19 do segundo mês após aquele em que o direito tiver sido apurado.\n\nOs direitos apurados e não inscritos na contabilidade referida no primeiro parágrafo, por ainda não terem sido cobrados nem ter sido fornecida qualquer caução, são lançados numa contabilidade separada, no prazo previsto no primeiro parágrafo. Os Estados-Membros podem proceder do mesmo modo nos casos em que os direitos apurados e cobertos por garantias sejam objeto de contestação e possam vir a sofrer variações na sequência de eventuais diferendos.\n\nTodavia, o recurso próprio IVA e o recurso próprio RNB, tendo em conta o efeito nesses recursos da redução bruta concedida à Dinamarca, Alemanha, Países Baixos, Áustria e Suécia, são lançados na contabilidade referida no primeiro parágrafo do seguinte modo:\n\n— no primeiro dia útil de cada mês, à razão do duodécimo a que se refere o [**►M1**](http://publications.europa.eu/resource/celex/32016R0804) artigo 10.º-A, n.º 1**◄**,\n\n— anualmente, no que se refere ao resultado do cálculo previsto no artigo 10.º-B, n.º 5, primeiro parágrafo, com exceção dos ajustamentos especiais previstos no artigo 10.º-B, n.º 2, alínea b), que são lançados na contabilidade no primeiro dia útil do mês seguinte ao acordo entre o Estado-Membro em causa e a Comissão.\n\nOs direitos apurados relativos às quotizações e outros direitos previstos no âmbito da organização comum de mercado no setor do açúcar são inscritos na contabilidade referida no primeiro parágrafo. Se, posteriormente, esses direitos não forem cobrados nos prazos fixados, os Estados-Membros podem efetuar retificações nos lançamentos iniciais e proceder, a título excecional, à inscrição dos direitos na contabilidade separada.\n\n4.\n\nOs Estados-Membros transmitem à Comissão, no prazo previsto no n.º 3:\n\na) Um extrato mensal da sua contabilidade relativa aos direitos a que se refere o n.º 3, primeiro parágrafo;\n\nb) Um extrato trimestral da contabilidade separada a que se refere o n.º 3, segundo parágrafo.\n\nEm apoio aos extratos mensais em questão, os Estados-Membros em causa transmitem as indicações ou os extratos relativos às deduções efetuadas nos recursos próprios com base nas disposições relativas aos territórios com estatuto especial.\n\nOs Estados-Membros transmitem, juntamente com o último extrato trimestral relativo a cada exercício, uma estimativa do montante total dos direitos inscritos na contabilidade separada em 31 de dezembro do referido exercício e cuja cobrança se verifique ser improvável.\n\nA Comissão adota os atos de execução que estabelecem os modelos dos extratos mensais e trimestrais. Esses atos de execução são adotados de acordo com o procedimento consultivo a que se refere o artigo 16.º, segundo parágrafo."
+  },
+  "a676b94850a338dd": {
+   "fragment_id": "Artigo 9.º — Disposições relativas ao Tesouro e à contabilidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições relativas ao Tesouro e à contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições relativas ao Tesouro e à contabilidade\n\n1.\n\nEm conformidade com o procedimento previsto nos artigos 10.º, 10.º-A e 10.º-B, cada Estado-Membro inscreve os recursos próprios a crédito numa conta escolhida voluntariamente de entre as seguintes:\n\na) uma conta aberta em nome da Comissão junto do tesouro do Estado-Membro;\n\nb) uma conta aberta em nome da Comissão junto do banco central nacional; ou\n\nc) uma conta central aberta para o efeito pela Comissão na instituição financeira pública da sua escolha.\n\nSob reserva da aplicação de juros negativos a que se referem o terceiro e o quarto parágrafos, consoante aplicável, essa conta só pode ser debitada mediante instruções da Comissão.\n\nAs contas referidas no primeiro parágrafo, alíneas a) e b), são mantidas na moeda nacional, com isenção de encargos e de juros. Se forem aplicados juros negativos a essas contas, o Estado-Membro em causa credita a conta com o montante correspondente aos juros negativos aplicados, o mais tardar no primeiro dia útil do segundo mês seguinte à aplicação dos juros negativos.\n\nOs Estados-Membros creditam na conta referida no primeiro parágrafo, alínea c), os montantes na moeda nacional. Se forem aplicados juros negativos à conta central, o Estado-Membro em causa credita a conta central com um montante correspondente à sua quota-parte de recursos próprios que é creditada nesta conta, o mais tardar no primeiro dia útil do segundo mês seguinte à aplicação dos juros negativos.\n\nA Comissão efetua as suas operações de gestão de tesouraria nas contas referidas no primeiro parágrafo, em conformidade com o artigo 14.º, n.º 4, primeiro parágrafo.\n\nA Comissão elabora, sem demora injustificada, uma análise custo-benefício pormenorizada sobre a utilização da conta a que se refere o primeiro parágrafo, alínea c), e informa o Conselho sobre a aplicação da conta central no prazo de três anos a contar da entrada em vigor do presente regulamento.\n\n2.\n\nOs Estados-Membros ou os respetivos bancos centrais nacionais transmitem à Comissão, por via eletrónica:\n\na) No dia útil em que os recursos próprios são lançados a crédito da conta da Comissão, um extrato de conta ou um aviso de crédito no qual figure o lançamento dos recursos próprios;\n\nb) Sem prejuízo da alínea a), o mais tardar no segundo dia útil subsequente ao crédito da conta, um extrato de conta no qual figure o lançamento dos recursos próprios.\n\n2-A. A Comissão transmite mensalmente aos Estados-Membros, por via eletrónica, uma previsão das necessidades de tesouraria para os quatro meses seguintes.\n\n3. Os montantes inscritos são contabilizados em euros nos termos do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho («Regulamento Financeiro») ([^2^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0002)) e do Regulamento Delegado (UE) n.º 1268/2012 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0003))."
+  },
+  "c3a3ecbb66fc21fb": {
+   "fragment_id": "Artigo 10.º-A — Colocação à disposição dos recursos próprios IVA e RNB",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A — Colocação à disposição dos recursos próprios IVA e RNB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Colocação à disposição dos recursos próprios IVA e RNB\n\n1. O lançamento do recurso próprio IVA e do recurso próprio RNB, tendo em conta o efeito nesses recursos da redução bruta concedida à Dinamarca, Alemanha, Países Baixos, Áustria e Suécia, é efetuado no primeiro dia útil de cada mês. Os montantes a creditar são à razão de um duodécimo dos montantes resultantes a esse título do orçamento, convertido em moedas nacionais às taxas de câmbio do último dia de cotação do ano civil que antecede o exercício orçamental, tal como publicadas no *Jornal Oficial da União Europeia*, série C.\n\n2. Para as necessidades específicas relativas ao pagamento das despesas do Fundo Europeu Agrícola de Garantia, ao abrigo do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0004)) e de posterior legislação pertinente da União, e em função da situação da tesouraria da União, a Comissão pode convidar os Estados-Membros a anteciparem até dois meses, durante o primeiro trimestre do exercício orçamental, o lançamento de um duodécimo ou de uma fração de duodécimo dos montantes previstos no orçamento a título do recurso próprio IVA e do recurso próprio RNB, tendo em conta o efeito nesses recursos da redução bruta concedida à Dinamarca, Alemanha, Países Baixos, Áustria e Suécia.\n\nSob reserva do disposto no terceiro parágrafo, no que se refere às necessidades específicas relativas ao pagamento das despesas dos Fundos Europeus Estruturais e de Investimento ao abrigo do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0005)) e de posterior legislação pertinente da União, e em função da situação da tesouraria da União, a Comissão pode convidar os Estados-Membros a anteciparem, durante o primeiro semestre do exercício orçamental, o lançamento de meio duodécimo adicional, no máximo, dos montantes previstos no orçamento a título do recurso próprio IVA e do recurso próprio RNB, tendo em conta o efeito nesses recursos da redução bruta concedida à Dinamarca, Alemanha, Países Baixos, Áustria e Suécia.\n\nO montante total que a Comissão pode convidar os Estados-Membros a anteciparem no mesmo mês ao abrigo do primeiro e do segundo parágrafos não pode, em caso algum, exceder o montante correspondente a dois duodécimos adicionais.\n\nDepois do primeiro semestre, o lançamento mensal solicitado não pode ultrapassar um duodécimo dos recursos próprios IVA e RNB, sempre dentro do limite dos montantes lançados no orçamento a título desses recursos.\n\nA Comissão informa previamente os Estados-Membros a esse respeito, o mais tardar duas semanas antes do lançamento solicitado ao abrigo do primeiro e do segundo parágrafos.\n\nA Comissão informa os Estados-Membros da sua intenção de solicitar um lançamento ao abrigo do segundo parágrafo, com a antecedência suficiente e o mais tardar seis semanas antes do lançamento solicitado.\n\nAs disposições relativas ao lançamento do mês de janeiro de cada exercício, previstas no n.º 4, e as disposições aplicáveis se o orçamento não estiver definitivamente adotado antes do início do exercício, previstas no n.º 5, são aplicáveis aos lançamentos antecipados.\n\nOs Estados-Membros podem, excecionalmente e em casos devidamente justificados, solicitar uma autorização da Comissão para adiantar a colocação à disposição dos recursos próprios IVA e RNB, em particular no contexto de orçamentos retificativos no final do ano, tendo em conta o efeito nesses recursos da redução bruta concedida à Dinamarca, Alemanha, Países Baixos, Áustria e Suécia. Qualquer adiantamento deve ser precedido de pré-aviso feito com pelo menos sete dias úteis de antecedência e o respetivo pedido deve ser devidamente justificado pelo Estado-Membro em causa. A Comissão deve avaliar o pedido tendo em conta a situação de tesouraria e as necessidades de liquidez da Comissão. O Estado-Membro só pode executar o adiantamento com a autorização da Comissão. Quaisquer custos adicionais ligados a esta colocação à disposição antecipada dos recursos próprios baseados no IVA e no RNB deve ser suportado pelo Estado-Membro que a solicita.\n\n3. Qualquer alteração da taxa uniforme do recurso próprio IVA, da taxa do recurso próprio RNB e do financiamento da redução bruta concedida à Dinamarca, Alemanha, Países Baixos, Áustria e Suécia exige a adoção definitiva de um orçamento retificativo e dá lugar a reajustamentos dos duodécimos inscritos desde o início do exercício.\n\nEsses reajustamentos são efetuados por ocasião do primeiro lançamento subsequente à adoção definitiva do orçamento retificativo, se essa adoção ocorrer antes do dia 16 do mês. Caso contrário, os reajustamentos são efetuados por ocasião do segundo lançamento a seguir à adoção definitiva. Em derrogação do disposto no artigo 10.º do Regulamento Financeiro, esses reajustamentos são contabilizados no exercício do orçamento retificativo a que se referem.\n\n4. Os duodécimos relativos ao lançamento do mês de janeiro de cada exercício são calculados com base nos montantes previstos no projeto de orçamento a que se refere o artigo 314.º, n.º 2, do Tratado sobre o Funcionamento da União Europeia (TFUE) e convertidos em moeda nacional à taxa de câmbio do primeiro dia de cotação a seguir ao dia 15 de dezembro do ano civil que precede o exercício. A regularização desses montantes é efetuada por ocasião do lançamento relativo ao mês seguinte.\n\n5. Se a adoção final do orçamento não tiver tido lugar pelo menos duas semanas antes do lançamento de janeiro do exercício seguinte, os Estados-Membros lançam no primeiro dia útil de cada mês, incluindo o mês de janeiro, um duodécimo do montante previsto a título do recurso próprio IVA e do recurso próprio RNB, tendo em conta o efeito nesses recursos da redução bruta concedida à Dinamarca, Alemanha, Países Baixos, Áustria e Suécia, inscrito no último orçamento definitivamente adotado. A regularização é efetuada no momento do primeiro vencimento subsequente à adoção definitiva do orçamento, se esta tiver lugar antes do dia 16 do mês. Caso contrário, a regularização é efetuada por ocasião do segundo vencimento a seguir à adoção definitiva do orçamento.\n\n6. Não será efetuada posteriormente qualquer revisão do financiamento da redução bruta concedida à Dinamarca, Alemanha, Países Baixos, Áustria e Suécia, em caso de alterações dos dados do RNB, em conformidade com o artigo 2.º, n.º 2, do Regulamento (UE) 2019/516 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0006))."
+  },
+  "0db8129c836b4ca1": {
+   "fragment_id": "Artigo 10.º-B — Ajustamentos aos recursos próprios IVA e RNB de exercícios anteriores",
+   "type": "artigo",
+   "heading": "Artigo 10.º-B — Ajustamentos aos recursos próprios IVA e RNB de exercícios anteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-B — Ajustamentos aos recursos próprios IVA e RNB de exercícios anteriores\n\n1. Com base no relatório anual sobre a base do recurso próprio IVA previsto no artigo 7.º, n.º 1, do Regulamento (CEE, Euratom) n.º 1553/89, no ano a seguir àquele em que esse relatório foi transmitido, é debitado a cada Estado-Membro um montante calculado a partir dos dados constantes desse relatório, mediante a aplicação da taxa uniforme adotada para o exercício a que o relatório diz respeito, e são-lhe creditados os 12 lançamentos efetuados durante esse exercício. Todavia, a base do recurso próprio IVA de um Estado-Membro à qual se aplica essa taxa não pode ultrapassar a percentagem do seu RNB determinada pelo artigo 2.º, n.º 1, alínea b), da Decisão 2014/335/UE, Euratom, nos termos do artigo 2.º, n.º 7, primeiro parágrafo, dessa decisão.\n\n2.\n\nAs eventuais retificações à base do recurso próprio IVA ao abrigo do artigo 9.º, n.º 1, do Regulamento (CEE, Euratom) n.º 1553/89 dão lugar, para cada Estado-Membro cuja base, tendo em conta essas retificações, não exceda as percentagens determinadas de acordo com o artigo 2.º, n.º 1, alínea b), e o artigo 10.º, n.º 2, da Decisão 2014/335/UE, Euratom, a um ajustamento do saldo estabelecido nos termos do n.º 1 do presente artigo nas seguintes condições:\n\na) As retificações ao abrigo do artigo 9.º, n.º 1, primeiro parágrafo, do Regulamento (CEE, Euratom) n.º 1553/89 efetuadas até 31 de julho dão lugar a um ajustamento global no ano seguinte;\n\nb) Pode ser lançado um ajustamento especial a qualquer momento, se o Estado-Membro em causa e a Comissão estiverem de acordo, nos termos do artigo 9.º, n.º 1, primeiro parágrafo, do Regulamento (CEE, Euratom) n.º 1553/89;\n\nc) Caso as medidas tomadas pela Comissão para a retificação da base, ao abrigo do artigo 9.º, n.º 1, segundo parágrafo, do Regulamento (CEE, Euratom) n.º 1553/89, conduzam a um ajustamento especial dos lançamentos na conta a que se refere o artigo 9.º, n.º 1, do presente regulamento, esse ajustamento é efetuado na data fixada pela Comissão no quadro da aplicação dessas medidas.\n\nAs modificações do RNB referidas no n.º 4 do presente artigo dão igualmente lugar a um ajustamento do saldo de qualquer Estado-Membro cuja base do recurso próprio IVA, tendo em conta as retificações a que se refere o primeiro parágrafo do presente número, seja fixada nas percentagens determinadas de acordo com artigo 2.º, n.º 1, alínea b), e o artigo 10.º, n.º 2, da Decisão 2014/335/UE, Euratom.\n\n3. Com base nos dados do agregado RNB a preços de mercado e suas componentes do ano anterior, fornecidos pelos Estados-Membros nos termos do artigo 2.º, n.º 2, do Regulamento (CE, Euratom) n.º 1287/2003, no ano a seguir àquele em que os dados foram fornecidos é debitado a cada Estado-Membro um montante calculado mediante a aplicação ao RNB da taxa adotada para o ano que antecede o do fornecimento dos dados e são-lhe creditados os pagamentos efetuados durante esse ano.\n\n4. As eventuais modificações introduzidas nos RNB dos exercícios anteriores nos termos do artigo 2.º, n.º 2, do Regulamento (CE, Euratom) n.º 1287/2003, sob reserva do disposto no artigo 5.º do referido regulamento, dão lugar, para cada Estado-Membro em causa, a um ajustamento do saldo estabelecido nos termos do n.º 3 do presente artigo. Depois de 30 de novembro do quarto ano seguinte a um dado exercício, as eventuais modificações do RNB deixam de ser consideradas, exceto em relação aos pontos notificados d desse prazo, quer pela Comissão, quer pelo Estado-Membro.\n\n5. Em relação a cada Estado-Membro, a Comissão calcula a diferença entre os montantes resultantes dos ajustamentos referidos nos n.^os^ 1 a 4, com exceção dos ajustamentos especiais ao abrigo do n.º 2, alíneas b) e c), e o resultado da multiplicação dos montantes totais dos ajustamentos pela percentagem do RNB desse Estado-Membro em relação ao RNB do conjunto dos Estados-Membros, conforme aplicável em 15 de janeiro ao orçamento em vigor para o ano seguinte àquele em que foram fornecidos os dados relativos aos ajustamentos («montante líquido»).\n\nPara efeitos deste cálculo, a conversão entre a moeda nacional e o euro é efetuada às taxas de câmbio do último dia de cotação do ano civil que antecede o ano de lançamento nas contas, conforme publicadas no *Jornal Oficial da União Europeia*, Série C.\n\nA Comissão informa os Estados-Membros dos montantes resultantes deste cálculo antes de 1 de fevereiro do ano a seguir àquele em que foram fornecidos os dados relativos aos ajustamentos. Cada Estado-Membro lança o montante líquido na conta a que se refere o artigo 9.º, n.º 1, no primeiro dia útil do mês de março do ano seguinte àquele em que a Comissão informou os Estados-Membros dos montantes resultantes do cálculo.\n\nO prazo para os Estados-Membros procederem ao pagamento dos ajustamentos aplica-se igualmente aos montantes relativamente aos quais a Comissão tenha fornecido informações antes de 3 de maio de 2022.\n\n6. As operações a que se referem os n.^os^ 1 a 5 do presente artigo constituem modificações das operações de receitas do exercício durante o qual se procede ao seu lançamento na conta a que se refere o artigo 9.º, n.º 1."
+  },
+  "c20068c4838ebac6": {
+   "fragment_id": "Artigo 12.º — Juros sobre os montantes disponibilizados tardiamente",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Juros sobre os montantes disponibilizados tardiamente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Juros sobre os montantes disponibilizados tardiamente\n\n1. Qualquer atraso na inscrição na conta a que se refere o artigo 9.º, n.º 1, dá lugar ao pagamento de juros de mora pelo Estado-Membro em causa.\n\nRelativamente aos recursos próprios tradicionais referidos no artigo 2.º, n.º 1, alínea a), da Decisão (UE, Euratom) 2020/2053 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0007)), são cobrados juros pelo período compreendido entre a data em que o montante deveria ter sido colocado à disposição e a data em que foi efetivamente depositado na conta da Comissão a que se refere o artigo 9.º.\n\nSem prejuízo do artigo 13.º, n.º 1, e se o montante tiver sido apurado nos termos do artigo 2.º, lançado em tempo útil na contabilidade separada nos termos do artigo 6.º e mantido na contabilidade separada em conformidade com o artigo 13.º, n.º 2, não são devidos juros por um período de cinco anos a contar da data do apuramento do montante.\n\nEm caso de recurso administrativo ou judicial, o prazo de cinco anos tem início na data da decisão definitiva, da sua notificação ou da sua publicação. Em caso de pagamentos escalonados, o período de cinco anos corre, o mais tardar, a partir do último pagamento efetivo, na medida em que este não tenha saldado a dívida.\n\n2.\n\nRelativamente aos recursos próprios baseados no IVA e no RNB, os juros são devidos apenas em relação aos atrasos na inscrição dos montantes:\n\na) A que se refere o artigo 10.º-A;\n\nb) Resultantes do cálculo a que se refere o artigo 10.º-B, n.º 5, primeiro parágrafo, no momento especificado no terceiro parágrafo desse número;\n\nc) Resultantes de ajustamentos especiais do recurso próprio baseado no IVA ao abrigo do artigo 10.º-B, n.º 2, alínea c), do presente artigo, na data fixada pela Comissão no quadro da aplicação das medidas tomadas nos termos do artigo 9.º, n.º 1, segundo parágrafo, do Regulamento (CEE, Euratom) n.º 1553/89;\n\nd) Resultantes da não apresentação, pelos Estados-Membros, de retificações dos dados do RNB necessárias para dar resposta aos pontos notificados pela Comissão ou pelo Estado-Membro, a que se refere o artigo 10.º-B, n.º 4, dentro do prazo expressamente fixado pela Comissão. Os juros sobre os ajustamentos resultantes de tais retificações são calculados a partir do primeiro dia útil do mês de junho do ano seguinte àquele em que expirou o prazo expressamente fixado pela Comissão.\n\n3. É dispensada a cobrança de montantes de juros inferiores a 1 000 EUR.\n\n4. Relativamente aos Estados-Membros que participam na União Económica e Monetária, a taxa de juro é igual à taxa de juro publicada no *Jornal Oficial da União Europeia*, série C, aplicada pelo Banco Central Europeu às suas principais operações de refinanciamento, no primeiro dia do mês em que o pagamento é devido, ou a 0 %, consoante a que for mais elevada, acrescida de 2,5 pontos percentuais.\n\nEssa taxa é majorada de 0,25 pontos percentuais por cada mês de atraso.\n\nA majoração total a título do primeiro e do segundo parágrafos não pode exceder 14 pontos percentuais. A limitação da majoração a 14 pontos percentuais é aplicável a qualquer caso em que o montante de juros não tenha sido comunicado ao Estado-Membro em causa antes de 3 de maio de 2022. A taxa majorada é aplicada ao período total do atraso, tal como referido no n.º 1.\n\n5. Relativamente aos Estados-Membros que não participem na União Económica e Monetária, a taxa de juro é igual à taxa aplicada no primeiro dia do mês em questão pelos bancos centrais às suas principais operações de refinanciamento, ou a 0 %, consoante a que for mais elevada, acrescida de 2,5 pontos percentuais. Relativamente aos Estados-Membros para os quais não está disponível a taxa do banco central, a taxa de juro é igual à taxa mais equivalente aplicada no primeiro dia do mês em questão no mercado monetário desses Estados-Membros, ou a 0 %, consoante a que for mais elevada, acrescida de 2,5 pontos percentuais.\n\nEssa taxa é majorada de 0,25 pontos percentuais por cada mês de atraso.\n\nA majoração total a título do primeiro e do segundo parágrafos não pode exceder 14 pontos percentuais. A limitação da majoração a 14 pontos percentuais é aplicável a qualquer caso em que o montante de juros não tenha sido comunicado ao Estado-Membro em causa antes de 3 de maio de 2022. A taxa majorada é aplicada ao período total do atraso, tal como referido no n.º 1.\n\n6. Para o pagamento dos juros a que se referem os n.^os^ 1 e 2 do presente artigo, é aplicável, *mutatis mutandis*, o artigo 9.º, n.^os^ 2 e 3."
+  },
+  "e139cc9a8517741c": {
+   "fragment_id": "Artigo 13.º — Montantes incobráveis",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Montantes incobráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Montantes incobráveis\n\n1. Os Estados-Membros tomam todas as medidas necessárias para que os montantes correspondentes aos direitos apurados nos termos do artigo 2.º sejam colocados à disposição da Comissão nas condições fixadas pelo presente regulamento.\n\n2.\n\nOs Estados-Membros são dispensados de pôr à disposição da Comissão os montantes correspondentes aos direitos apurados em conformidade com o artigo 2.º que se verifique serem incobráveis por uma das seguintes razões:\n\na) Por razões de força maior;\n\nb) Por outras razões que não lhes sejam imputáveis.\n\nOs Estados-Membros são igualmente dispensados da obrigação de pôr à disposição da Comissão os montantes correspondentes aos direitos apurados nos termos do artigo 2.º sempre que provem que determinado erro cometido pelo Estado-Membro após o apuramento desses direitos, tal como os que implicam um lançamento tardio na contabilidade separada, não teve qualquer influência na impossibilidade de cobrança do montante correspondente aos direitos apurados nos termos do artigo 2.º.\n\nOs Estados-Membros podem ser dispensados da obrigação de colocar à disposição da Comissão os montantes correspondentes aos direitos apurados nos termos do artigo 2.º caso se verifique que esses direitos são incobráveis devido ao diferimento do lançamento nas contas ou da notificação da dívida aduaneira a fim de não prejudicar uma investigação criminal lesiva dos interesses financeiros da União.\n\nOs montantes de direitos apurados são declarados incobráveis por decisão da autoridade administrativa competente que verifica a impossibilidade de cobrança.\n\nOs montantes de direitos apurados são considerados incobráveis o mais tardar após um período de cinco anos a contar da data em que o montante foi apurado nos termos do artigo 2.º ou, em caso de recurso administrativo ou judicial, da data da decisão definitiva, da sua notificação ou da sua publicação.\n\nEm caso de pagamentos escalonados, o período de cinco anos corre, o mais tardar, a partir do último pagamento efetivo, na medida em que este não tenha saldado a dívida.\n\nOs montantes declarados ou considerados incobráveis são retirados definitivamente da contabilidade separada a que se refere o artigo 6.º, n.º 3, segundo parágrafo. São mencionados em anexo ao extrato trimestral a que se refere o artigo 6.º, n.º 4, primeiro parágrafo, bem como, se for caso disso, nas descrições trimestrais a que se refere o artigo 5.º do Regulamento (UE) n.º 608/2014.\n\n3. No prazo de três meses a contar da decisão administrativa a que se refere o n.º 2 ou nos prazos referidos no mesmo número, os Estados-Membros apresentam à Comissão um relatório com as informações relativas aos casos de aplicação do n.º 2, na medida em que o montante dos direitos apurados exceda 100 000 EUR.\n\nEsse relatório inclui todos os factos necessários para um pleno exame das razões referidas no n.º 2, alíneas a) e b), do presente artigo que impediram o Estado-Membro em questão de pôr à disposição o montante em causa, bem como as medidas por ele tomadas para garantir a cobrança.\n\nEsse relatório é apresentado de acordo com um modelo estabelecido pela Comissão. Para o efeito, a Comissão adota atos de execução. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 16.º, n.º 2.\n\n4. No prazo de três meses a contar da receção do relatório previsto no n.º 3, a Comissão envia as suas observações ao Estado-Membro em questão. A Comissão pode prorrogar esse prazo uma vez, por mais três meses, e informar o Estado-Membro em questão desse facto.\n\nA Comissão pode solicitar informações complementares. Nestes casos, o prazo previsto no primeiro parágrafo é contado a partir da data de receção das informações complementares solicitadas. O Estado-Membro em causa deve transmitir as informações complementares no prazo de três meses. A pedido do Estado-Membro em causa, esse prazo é prorrogado uma vez, por mais três meses.\n\nCaso o Estado-Membro não possa fornecer as informações complementares solicitadas pela Comissão, pode notificá-la desse facto. Seguidamente, a Comissão envia as suas observações finais no prazo de três meses a contar da data de receção da referida notificação, com base nas informações disponíveis. A Comissão pode prorrogar esse prazo uma vez, por mais três meses, e deve informar o Estado-Membro em questão desse facto.\n\n5. Se o Estado-Membro e a Comissão não puderem chegar a acordo sobre as razões referidas no n.º 2, o Estado-Membro pode solicitar à Comissão que reveja as suas observações em conformidade com o artigo 13.º-B."
+  },
+  "b0342bc1df002810": {
+   "fragment_id": "CAPÍTULO III-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III-A"
+  },
+  "352ee6436447dd9f": {
+   "fragment_id": "PAGAMENTO SOB RESERVA E PROCEDIMENTO DE REVISÃO",
+   "type": "divisao",
+   "heading": "PAGAMENTO SOB RESERVA E PROCEDIMENTO DE REVISÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAGAMENTO SOB RESERVA E PROCEDIMENTO DE REVISÃO"
+  },
+  "8bd0816807b22fe9": {
+   "fragment_id": "Artigo 13.º-A — Pagamento sob reserva",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A — Pagamento sob reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A — Pagamento sob reserva\n\n1. Em caso de desacordo entre um Estado-Membro e a Comissão relativamente a montantes de recursos próprios tradicionais devidos ao orçamento da União ou relativamente a montantes de IVA sujeitos às medidas referidas no artigo 12.º, n.º 2, alínea c), o Estado-Membro pode, aquando da realização de um pagamento do montante contestado, manifestar reservas quanto à posição da Comissão.\n\nOs Estados-Membros fornecem informações sobre essas reservas, no que diz respeito aos montantes relativos aos recursos próprios tradicionais, juntamente com o seu extrato mensal referido no artigo 6.º, n.º 4, e, no que diz respeito aos montantes relativos ao recurso próprio IVA, juntamente com a sua declaração referida no artigo 10.º-B, n.º 1. Os Estados-Membros notificam a Comissão do levantamento das reservas logo que possível.\n\n2. Se o desacordo a que se refere o n.º 1 for resolvido a favor do Estado-Membro, este é autorizado pela Comissão a deduzir o montante pago do seu ou dos seus pagamentos seguintes a título de recursos próprios.\n\n3. O lançamento na conta, ao abrigo do artigo 9.º, do pagamento sob reserva interrompe o período durante o qual correm os juros, conforme referido no artigo 12.º.\n\n4. Até ao final de setembro de cada ano, a Comissão apresenta uma nota informativa anual em que demonstra o montante total pago sob reserva e o montante total das reservas levantadas durante o ano anterior."
+  },
+  "6c875c23d905e9f6": {
+   "fragment_id": "Artigo 13.º-B — Procedimento de revisão",
+   "type": "artigo",
+   "heading": "Artigo 13.º-B — Procedimento de revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-B — Procedimento de revisão\n\n1. Em caso de desacordo entre um Estado-Membro e a Comissão relativamente a montantes de recursos próprios tradicionais devidos ao orçamento da União, o Estado-Membro pode solicitar à Comissão que reveja a sua avaliação no prazo de seis meses a contar da sua receção. Esse pedido deve aduzir razões para a revisão solicitada e incluir as provas e os documentos de apoio em que se baseia. O pedido e o procedimento subsequente não podem alterar a obrigação dos Estados-Membros de colocar à disposição recursos próprios quando são devidos ao orçamento da União.\n\n2. No prazo de três meses a contar da receção de um pedido a que se refere o n.º 1, a Comissão notifica o Estado-Membro em causa das suas observações sobre as razões aduzidas no pedido. Em casos devidamente justificados, a Comissão pode prorrogar esse prazo uma vez, por mais três meses, e informar o Estado-Membro em questão desse facto.\n\n3. Quando a Comissão considerar necessário solicitar informações complementares, o prazo referido no n.º 2 é contado a partir da data de receção das informações complementares solicitadas. O Estado-Membro em causa deve transmitir as informações complementares no prazo de três meses após receber o pedido de informação adicional pela Comissão. A pedido do Estado-Membro em causa, a Comissão deve prorrogar o prazo uma vez, por mais três meses.\n\n4. Caso o Estado-Membro não possa fornecer informações adicionais, pode notificar a Comissão desse facto. A Comissão procede então à notificação das suas observações com base nas informações disponíveis. Nesse caso, o prazo referido no n.º 2 é contado a partir da data de receção dessa notificação.\n\n5. O procedimento de revisão termina, o mais tardar, dois anos a contar da data em que o Estado-Membro tenha enviado o pedido de revisão a que se refere o n.º 1.\n\n6. Um Estado-Membro pode solicitar, uma vez por ano, uma reunião de alto nível com a Comissão para debater o ponto da situação dos casos que sejam ou tenham sido objeto do procedimento de revisão, bem como para os examinar a fim de reconsiderar as respetivas posições e procurar chegar a um acordo.\n\n7. No âmbito de uma eventual revisão do presente regulamento ou, o mais tardar, até ao final de 2026, a Comissão efetua uma avaliação do funcionamento do procedimento de revisão a que se refere o presente artigo. A referida avaliação inclui consultas com os Estados-Membros e tem em conta as suas conclusões e posições. A Comissão apresenta, se for caso disso, propostas com vista a melhorar o funcionamento do procedimento de revisão."
+  },
+  "08202c5462533212": {
+   "fragment_id": "Artigo 17.º — Disposição transitória sobre a taxa de juro",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Disposição transitória sobre a taxa de juro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposição transitória sobre a taxa de juro\n\nA taxa prevista no artigo 11.º do Regulamento (CE, Euratom) n.º 1150/2000, com a redação anterior à entrada em vigor do Regulamento (CE, Euratom) n.º 2028/2004 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0008)), continua a ser aplicável para efeitos do cálculo dos juros de mora nos casos em que a data de vencimento ocorra antes de 1 de dezembro de 2004."
+  },
+  "3004c48a6bf7ec66": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CEE, Euratom) n.º 1553/89 do Conselho, de 29 de maio de 1989, relativo ao regime uniforme e definitivo de cobrança dos recursos próprios provenientes do Imposto sobre o Valor Acrescentado (JO L 155 de 7.6.1989, p. 9).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União (JO L 298 de 26.10.2012, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento Delegado (UE) n.o 1268/2012 da Comissão, de 29 de outubro de 2012, sobre as normas de execução do Regulamento (UE, Euratom) n.o 966/2012 (JO L 362 de 31.12.2012, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece regras para os pagamentos diretos aos agricultores ao abrigo de regimes de apoio no âmbito da política agrícola comum e que revoga o Regulamento (CE) n.º 637/2008 do Conselho e o Regulamento (CE) n.º 73/2009 do Conselho (JO L 347 de 20.12.2013, p. 608).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, que estabelece disposições gerais relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e que revoga o Regulamento (CE) n.º 1083/2006 do Conselho (JO L 347 de 20.12.2013, p. 320).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Regulamento (UE) 2019/516 do Parlamento Europeu e do Conselho, de 19 de março de 2019, relativo à harmonização do Rendimento Nacional Bruto a preços de mercado, que revoga a Diretiva 89/130/CEE, Euratom do Conselho e o Regulamento (CE, Euratom) n.º 1287/2003 do Conselho («Regulamento RNB») (JO L 91 de 29.3.2019, p. 19).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0007)) Decisão (UE, Euratom) 2020/2053 do Conselho, de 14 de dezembro de 2020, relativa ao sistema de recursos próprios da União Europeia e que revoga a Decisão 2014/335/UE, Euratom (JO L 424 de 15.12.2020, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5deda03f-dbaa-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0008)) Regulamento (CE, Euratom) n.º 2028/2004 do Conselho, de 16 de novembro de 2004, que altera o Regulamento (CE, Euratom) n.º 1150/2000 relativo à aplicação da Decisão 94/728/CE, Euratom relativa ao sistema dos recursos próprios das Comunidades (JO L 352 de 27.11.2004, p. 1)."
+  }
+ }
+}

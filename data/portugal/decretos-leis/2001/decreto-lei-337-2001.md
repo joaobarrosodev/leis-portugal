@@ -1,0 +1,413 @@
+---
+schema_version: '1.0'
+id: pt:dre:536242:por
+title: Decreto-Lei n.º 337/2001
+short_title: null
+summary: Transpõe, para o direito interno, a Directiva n.º 1999/2/CE, do Parlamento Europeu e do Conselho, de 22 de Fevereiro,
+  relativa à aproximação das legislações dos Estados-Membros, respeitante aos alimentos e ingredientes alimentares tratados
+  por radiação ionizante, e a Directiva n.º 1999/3/CE, do Parlamento Europeu e do Conselho, de 22 de Fevereiro, relativa ao
+  estabelecimento de uma lista comunitária de alimentos e ingredientes alimentares tratados por radiação ionizante
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 337/2001
+official_date: null
+publication_date: '2001-12-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 297/2001, Série I-A de 2001-12-26
+  number: '297'
+  series: I
+  supplement: null
+  pages: 8434 - 8437
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/12/297a00/84348437.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-337-2001.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-12-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-04-02'
+    amending: pt:dre:117202785:por
+    amending_title: Decreto-Lei n.º 108/2018
+    changes:
+    - Altera Artigo 7.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/337/2001/p/cons/20210129/pt/html
+  oj: null
+  dre: '536242'
+  dre_path: /dr/detalhe/decreto-lei/337-2001-536242
+  internal: pt:dre:536242:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-2001-536242
+  metadata_url: https://data.dre.pt/eli/dec-lei/337/2001/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-117213969
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-117213969
+  retrieved_at: '2026-10-22T12:22:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0305bfdde089bcd5a76627aa709e197a877a5b5b7bfd004e34a0f7e01fca0320
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:22:45Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-337-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produto Alimentar
+- Aproximação das Legislações
+- Contra-ordenação
+- Etiquetagem
+- Fiscalização
+- Higiene Alimentar
+- Licenciamento
+- Irradiação dos Alimentos
+- Regime Jurídico
+- Tecnologia Alimentar
+relationships:
+- type: amended_by
+  target: pt:dre:117202785:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 12.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: celex:31996L0029
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/29/oj
+- type: cites
+  target: celex:31999L0002
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/2/oj
+- type: cites
+  target: celex:31999L0003
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/3/oj
+article_structure:
+  article_count: 16
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:22:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 337/2001
+
+Decreto-Lei n.º 337/2001
+
+de 26 de Dezembro
+
+O tratamento por radiação ionizante de géneros alimentícios e ingredientes alimentares é em alguns Estados-Membros autorizado, sendo noutros proibido, criando estas diferenças obstáculos à livre circulação dos géneros alimentícios irradiados.
+
+Com vista à criação de iguais condições de concorrência dentro do mercado interno, a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0002" title="Link para Directiva da Comunidade Europeia">1999/2/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Fevereiro, veio fixar as normas de fabrico, comercialização e importação de alimentos e ingredientes alimentares tratados por radiação ionizante, prevendo ainda a adopção de uma lista positiva comunitária dos referidos alimentos, harmonizando-se, deste modo, as legislações dos Estados-Membros.
+
+Os géneros alimentícios só podem ser tratados por radiação ionizante - o processo não deve ser utilizado como substituto de uma boa prática de fabrico - se existir uma necessidade de higiene alimentar, uma vantagem para o consumidor e se os referidos géneros estiverem sãos e em boas condições, dado que as radiações ionizantes não podem ser utilizadas como substituto de práticas de higiene ou sanitárias ou de boas práticas agrícolas ou de produção.
+
+As regras de utilização das radiações ionizantes no tratamento de géneros alimentícios devem ter primeiramente em consideração as exigências da saúde humana, mas também, dentro dos limites impostos pela protecção da saúde, as necessidades económicas e técnicas.
+
+Todo o género alimentício e ingrediente alimentar tratado por radiação ionizante deve ser rotulado de acordo com as disposições constantes deste diploma.
+
+Nos tratamentos por irradiação - a efectuar em unidades de irradiação aprovadas e sujeitas a controlo oficial - devem ser observadas as normas de segurança de base relativas à protecção sanitária da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes fixadas pela Directiva n.º <a href="eurlex.asp?ano=1996&id=396L0029" title="Link para Directiva da Comunidade Europeia">96/29/Euratom</a>, do Conselho, de 13 de Maio.
+
+Os géneros alimentícios e ingredientes alimentares importados de países terceiros só podem ser tratados por radiação ionizante em instalações aprovadas nos termos deste diploma.
+
+Dando execução ao previsto na referida Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0002" title="Link para Directiva da Comunidade Europeia">1999/2/CE</a>, a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0003" title="Link para Directiva da Comunidade Europeia">1999/3/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Fevereiro, estabelece uma lista positiva inicial comunitária de alimentos e ingredientes alimentares que podem ser tratados por radiação ionizante e fixa as doses máximas de irradiação autorizadas.
+
+As ervas aromáticas secas, as especiarias e os condimentos vegetais são, nesta fase, os únicos alimentos que integram a lista positiva inicial de géneros alimentícios que podem ser tratados por radiação ionizante.
+
+São alimentos frequentemente contaminados e ou infestados por organismos e seus metabolitos, prejudiciais à saúde pública, que não podem ser tratados por fumigação, por exemplo com óxido de etileno, devido ao potencial tóxico dos resíduos deste tipo de substâncias, constituindo a utilização de radiações ionizantes um meio eficaz para substituir as referidas substâncias.
+
+Importa, pois, transpor para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0002" title="Link para Directiva da Comunidade Europeia">1999/2/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Fevereiro, relativa à aproximação das legislações dos Estados-Membros respeitantes aos alimentos e ingredientes alimentares tratados por radiação ionizante, e a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0003" title="Link para Directiva da Comunidade Europeia">1999/3/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Fevereiro, relativa ao estabelecimento de uma lista comunitária de alimentos e ingredientes alimentares tratados por radiação ionizante, criando-se o quadro legal relativo ao fabrico, comercialização e importação de alimentos e ingredientes alimentares irradiados e estabelecendo-se uma lista positiva inicial de géneros alimentícios que podem ser tratados por radiação ionizante.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente decreto-lei aplica-se ao fabrico, comercialização e importação de alimentos e ingredientes alimentares, adiante denominados «géneros alimentícios», tratados por radiação ionizante.
+
+2 - O presente diploma não se aplica:
+
+a) Aos géneros alimentícios expostos a radiações ionizantes emitidas por instrumentos de medida ou de inspecção, desde que a dose absorvida não seja superior a 0,01 Gy para os instrumentos de inspecção que utilizam neutrões e a 0,5 Gy noutros casos, a um nível máximo de radiação de 10 MeV no caso dos raios X, de 14 MeV no caso dos neutrões e de 5 MeV noutros casos;
+
+b) Ao tratamento por irradiação de géneros alimentícios preparados, sob supervisão médica, para doentes que exijam uma alimentação esterilizada.
+
+###### Artigo 2.º — Condições de autorização para a irradiação de alimentos
+
+1 - As condições a respeitar para a autorização do tratamento de géneros alimentícios por radiação ionizante, que no momento do tratamento devem estar em condições de salubridade adequadas, estão enunciadas no anexo I.
+
+2 - A irradiação só pode ser efectuada com as fontes de radiação enumeradas no anexo II e de acordo com os requisitos do Código de Prática Internacional recomendado pela Comissão Conjunta do Codex Alimentarius FAO/OMS (ref. FAO/OMS/CAC/vol. XV, ed.1), para a exploração de instalações de irradiação utilizadas para o tratamento de alimentos.
+
+3 - A dose global média absorvida é calculada de acordo com o anexo III.
+
+###### Artigo 3.º — Lista positiva de géneros alimentícios tratados por radiação
+
+1 - A lista positiva dos géneros alimentícios que podem ser tratados por radiação ionizante, com exclusão de todos os outros, bem como as doses máximas de radiação autorizadas, será completada por legislação posterior, tendo em conta as condições de autorização enunciadas no anexo I.
+
+2 - A lista referida no número anterior será elaborada por fases, de acordo com o referido no n.º 2 do artigo 4.º da Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0002" title="Link para Directiva da Comunidade Europeia">1999/2/CE</a>.
+
+3 - O anexo IV estabelece a lista positiva inicial de géneros alimentícios que podem ser tratados por radiação ionizante, bem como a dose global média a que podem ser submetidos.
+
+###### Artigo 4.º — Doses parciais de radiação
+
+1 - A dose máxima de radiação para os géneros alimentícios pode ser administrada em doses parciais, não podendo ser excedida a dose máxima de radiação a que se refere o artigo anterior.
+
+2 - O tratamento por irradiação não pode ser utilizado em conjunto com qualquer tratamento químico que tenha o mesmo objectivo que a irradiação.
+
+###### Artigo 5.º — Rotulagem
+
+A rotulagem dos géneros alimentícios tratados por radiação ionizante rege-se pelas seguintes disposições:
+
+1 - Nos produtos destinados ao consumidor final e às entidades referidas no n.º 2 do artigo 1.º do Decreto-Lei n.º 560/99, de 18 de Dezembro:
+
+a) Se os produtos forem vendidos à unidade, o rótulo deve apresentar uma das seguintes menções: «Irradiado», «Tratado por irradiação» ou «Tratado por radiação ionizante», de acordo com o n.º 8 do artigo 6.º do Decreto-Lei n.º 560/99, de 18 de Dezembro;
+
+b) Se o produto irradiado for utilizado como ingrediente, a sua denominação deve ser acompanhada na lista dos ingredientes das menções referidas na alínea anterior;
+
+c)  Nos casos de produtos vendidos a granel e de produtos irradiados utilizados como ingrediente, as menções referidas na alínea a) deste artigo figuram junto da denominação do produto, num cartaz ou numa tabuleta, por cima ou ao lado do recipiente que o contém;
+
+d) As menções «Irradiado» ou «Tratado por radiação ionizante» devem ser empregues para assinalar os ingredientes irradiados utilizados em ingredientes compostos em géneros alimentícios, mesmo que constituam menos de 25% do produto final.
+
+2 - Nos produtos não destinados ao consumidor final nem às entidades referidas no n.º 2 do artigo 1.º do Decreto-Lei n.º 560/99, de 18 de Dezembro:
+
+a) As menções «Irradiado», «Tratado por irradiação» ou «Tratado por radiação ionizante» devem ser utilizadas para indicar o tratamento tanto dos alimentos como dos ingredientes sujeitos a radiação ionizante contidos em géneros alimentícios não irradiados;
+
+b) É obrigatória a indicação do nome e da morada da instalação onde foi feita a irradiação ou do respectivo número de referência atribuído pela Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, adiante designada por DGFCQA.
+
+3 - A menção relativa ao tratamento deve figurar nos documentos que acompanham os géneros alimentícios irradiados ou que a eles se referem.
+
+###### Artigo 6.º — Entidade competente para aprovar as instalações de irradiação
+
+A verificação das condições de segurança radiológica do equipamento e da instalação de irradiação, o seu licenciamento, a sua inspecção, a protecção sanitária da população e dos trabalhadores profissionalmente expostos, bem como do ambiente, devem respeitar o disposto na correspondente legislação em vigor.
+
+###### Artigo 7.º — Licença
+
+1 - A operação de instalações de irradiação constitui uma prática sujeita a licença pela autoridade nacional competente para a proteção radiológica, nos termos da legislação em vigor, devendo estas cumprir os seguintes requisitos específicos adicionais:
+
+a) Satisfazer o Código de Prática Internacional recomendado pela Comissão Conjunta do Codex Alimentarius FAO/OMS (ref. FAO/OMS/CAC/vol. xv, ed. 1), para a exploração de instalações de irradiação utilizadas para o tratamento de alimentos;
+
+b) Dispor de um técnico responsável pela observância de todas as condições necessárias à aplicação do processo.
+
+2 - [Revogado.]
+
+> Alterado pelo/a Artigo 201.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02
+
+###### Artigo 8.º — Métodos de análise
+
+Os métodos de análise utilizados para detectar o tratamento por radiação ionizante devem cumprir o disposto no artigo 18.º do Decreto-Lei n.º 132/2000, de 13 de Julho.
+
+###### Artigo 9.º — Registo da fonte de radiação
+
+As instalações de irradiação aprovadas nos termos do disposto no artigo 6.º devem manter, para cada fonte de radiação ionizante utilizada, durante cinco anos, e para cada lote de géneros alimentícios tratados, um registo que indique o seguinte:
+
+a) A natureza e quantidade dos géneros alimentícios irradiados;
+
+b) O número do lote;
+
+c) O comitente do tratamento por irradiação;
+
+d) O destinatário dos géneros alimentícios tratados;
+
+e) A data da irradiação;
+
+f) O material de embalagem utilizado durante a irradiação;
+
+g) Os dados necessários ao controlo do tratamento por irradiação previstos no anexo III, os controlos dosimétricos efectuados e os resultados obtidos, com pormenores relativos, em especial, aos valores limite inferior e superior da dose absorvida e ao tipo de radiação ionizante;
+
+h) As medições de validação realizadas antes da irradiação.
+
+###### Artigo 10.º — Importação de países terceiros
+
+Os géneros alimentícios tratados por radiação ionizante só podem ser importados de países terceiros caso:
+
+a) Satisfaçam as condições que lhes são aplicáveis;
+
+b) Venham acompanhados de documentos que indiquem o nome e a morada da instalação que efectuou a irradiação e contenham os dados referidos no artigo 7.º;
+
+c) Tenham sido tratados em instalações de irradiação aprovadas.
+
+###### Artigo 11.º — Acondicionamento
+
+Os materiais utilizados na embalagem dos géneros alimentícios destinados a ser irradiados devem obedecer ao disposto no Decreto-Lei n.º 239/99, de 25 de Junho.
+
+###### Artigo 12.º — Contraordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) O tratamento por radiação ionizante excedendo a dose global média prevista neste diploma;
+
+b) A utilização de fontes de radiação ionizante não previstas no anexo II;
+
+c) A falta, inexactidão ou deficiência de rotulagem dos géneros alimentícios tratados por radiação ionizante, a que respeita o artigo 5.º;
+
+d) A existência na rotulagem dos géneros alimentícios tratados por radiação ionizante de indicações não permitidas ou susceptíveis de induzirem em erro o consumidor;
+
+e) A irradiação de géneros alimentícios em instalações não aprovadas nos termos do artigo 7.º;
+
+f) A falta, inexactidão ou deficiência do registo da fonte de radiação ionizante previsto no artigo 9.º;
+
+g) A irradiação de géneros alimentícios não previstos no anexo IV.
+
+2 - A infração ao disposto no artigo 11.º constitui contraordenação prevista e punida nos termos do Decreto-Lei n.º 175/2007, de 8 de maio, na sua redação atual.
+
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+4 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
+
+> Alterado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 13.º — Sanções acessórias
+
+Em função da gravidade da contra-ordenação ou da culpa do agente, a autoridade competente pode determinar, simultaneamente com a aplicação da coima, as seguintes sanções acessórias:
+
+a) Perda do material usado na prática da infracção;
+
+b) Interdição, por um período até dois anos, do exercício de actividade autorizada nos termos do presente diploma;
+
+c) Encerramento da instalação por um período até dois anos.
+
+###### Artigo 14.º — Fiscalização, instrução e decisão
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização das regras previstas no presente diploma.
+
+2 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.
+
+3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
+
+4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 15.º — Proibição de comercialização
+
+É proibida a comercialização e a utilização de géneros alimentícios irradiados que não observem as disposições deste diploma.
+
+###### Artigo 16.º — Entrada em vigor
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 18 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - António Luís Santos Costa - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - José Mariano Rebelo Pires Gago.
+
+Promulgado em 11 de Dezembro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 13 de Dezembro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — Condições de autorização para a irradiação de alimentos
+
+1 - A irradiação de alimentos só poderá ser autorizada se:
+
+For justificada e necessária do ponto de vista tecnológico;
+
+For inofensiva para a saúde e praticada de acordo com as condições propostas;
+
+For benéfica para o consumidor;
+
+Não for utilizada para substituir normas sanitárias e de higiene nem boas práticas de fabrico ou de cultivo.
+
+2 - A irradiação de alimentos só pode ter os seguintes objectivos:
+
+Reduzir o risco de doenças de origem alimentar pela destruição de organismos patogénicos;
+
+Reduzir a alteração dos géneros alimentícios, retardando ou pondo termo aos processos de deterioração e destruindo os organismos responsáveis por essa deterioração;
+
+Reduzir a perda de géneros alimentícios pelo amadurecimento, germinação ou crescimento prematuros e libertar os géneros alimentícios de organismos prejudiciais às plantas e produtos vegetais.
+
+## Anexo II — Fontes de radiação ionizante
+
+Os géneros alimentícios apenas podem ser tratados pelas seguintes fontes de radiação ionizante:
+
+a) Raios gama emitidos por radionuclídeos (elevado a 60)Co ou (elevado a 137)Cs;
+
+b) Raios X produzidos por aparelhos que funcionem com uma energia nominal (energia quântica máxima) igual ou inferior a 5 MeV;
+
+c) Electrões produzidos por aparelhos que funcionem com uma energia nominal (energia quântica máxima) igual ou inferior a 10 MeV.
+
+## Anexo III — 1 - Dosimetria:
+
+Dose global média absorvida:
+
+Para determinar a salubridade dos géneros alimentícios tratados com uma dose global média igual ou inferior a 10 kGy, pode-se considerar que todos os efeitos químicos da irradiação nessa gama de dose específica são proporcionais à dose.
+
+A dose global média D define-se pela seguinte integral para o volume total de alimentos tratados:
+
+(ver fórmula no documento original)
+
+Para produtos homogéneos ou produtos a granel de densidade aparente homogénea, pode-se determinar a dose global média absorvida, distribuindo, estratégica e aleatoriamente, uma quantidade adequada de dosímetros por todo o volume dos produtos. A partir da distribuição da dose assim determinada, pode calcular-se uma média, que constitui a dose global média absorvida.
+
+Se a forma da curva de distribuição da dose pelo produto for bem determinada, ficam a conhecer-se as posições das doses mínima e máxima. Podem utilizar-se medições da distribuição da dose nestas duas posições numa série de amostras do produto para se obter uma estimativa da dose global média.
+
+Nalguns casos, a média aritmética dos valores médios das doses mínima ((ver documento original)) e máxima ((ver documento original)) constituirá uma boa estimativa da dose global média. Nesses casos:
+
+(ver fórmulas no documento original)
+
+2 - Procedimentos:
+
+2.1 - Antes de se proceder à irradiação de rotina de uma dada categoria de géneros alimentícios numa instalação de irradiação, determinam-se as posições das doses mínima e máxima fazendo medições de dose em todo o volume do produto. Estas medições de validação devem ser efectuadas um número adequado de vezes (por exemplo 3-5) para ter em conta as variações de densidade ou de geometria do produto.
+
+2.2 - As medições devem ser repetidas sempre que o produto, a sua geometria ou as condições de irradiação sofram qualquer alteração.
+
+2.3 - Durante o processo de irradiação realizam-se medições de rotina para assegurar que os limites de dose não sejam excedidos. As medições devem ser feitas colocando dosímetros na posição da dose máxima ou mínima ou numa posição de referência. A dose na posição de referência deve estar quantitativamente ligada às doses máxima e mínima. A posição de referência deve ficar situada num ponto adequado, no interior ou à superfície do produto, em que as variações de dose sejam diminutas.
+
+2.4 - Devem ser feitas medições de rotina em todos os lotes e a intervalos regulares durante o processo de produção.
+
+2.5 - Nos casos em que são irradiados produtos fluidos e não embalados, não se pode determinar a posição das doses mínima e máxima. Nesse caso, é preferível proceder a uma amostragem para determinar os valores das doses limite.
+
+2.6 - As medições de dose devem ser efectuadas utilizando dosímetros homologados e seguidamente cotejadas com as normas de base aplicáveis.
+
+2.7 - Durante a irradiação devem controlar-se e registar-se continuamente certos parâmetros da instalação de irradiação. Nas instalações com radionuclídeos esses parâmetros incluem a velocidade de transporte do produto ou o tempo gasto na zona de irradiação, bem como indicações que confirmem a posição correcta da fonte. Nas instalações com aceleradores de partículas, os parâmetros incluem a velocidade de transporte do produto e o nível de energia, a corrente de electrões e a largura de varrimento da instalação.
+
+## Anexo IV — Géneros alimentícios que podem ser tratados por radiações ionizantes e doses máximas de irradiação
+
+(ver quadro no documento original)

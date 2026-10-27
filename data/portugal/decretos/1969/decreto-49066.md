@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:199863:por
+title: Decreto n.º 49066
+short_title: null
+summary: Dá nova redacção a várias disposições do Decreto n.º 46371, que regula o comércio, uso e detenção de estupefacientes
+  na província de Macau
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Justiça
+proposing_entity: null
+official_number: '49066'
+official_date: null
+publication_date: '1969-06-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 142/1969, Série I de 1969-06-19
+  number: '142'
+  series: I
+  supplement: null
+  pages: 691 - 692
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/06/14200/06910692.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '199863'
+  dre_path: /dr/detalhe/decreto/49066-1969-199863
+  internal: pt:dre:199863:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/49066-1969-199863
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49066-1969-199863
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 016dde955ed95c5e6eb3340b55aac0553d622912bc62e7e9721e272f7c4a37ef
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:294889:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:07:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 49066
+
+Havendo conveniência em modificar algumas das disposições do [Decreto n.º 46371](https://diariodarepublica.pt/dr/detalhe/decreto/46371-1965-294889), de 8 de Junho de 1965, com vista a consagrar os ensinamentos da experiência vivida nos últimos três anos de combate ao uso e tráfico ilícitos de estupefacientes na província de Macau;
+
+Considerando a proposta do Governo de Macau;
+
+Por motivo de urgência;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º Os artigos do [Decreto n.º 46371](https://diariodarepublica.pt/dr/detalhe/decreto/46371-1965-294889) adiante referidos passam a ter a seguinte redacção:
+
+Art. 28.º São punidas com a multa de 5000$00 a 15000$00 as infracções dos artigos 16.º, 17.º, 21.º ou 23.º, bem como do § único do artigo 14.º ou do corpo do artigo 19.º
+
+§ único. ...
+
+...
+
+Art. 31.º É punido com seis meses de prisão e multa até 6000$00 todo aquele que, fora dos casos previstos na lei:
+
+1.º ...
+
+2.º ...
+
+§ único. ...
+
+Art. 32.º É punido com prisão de seis meses a dois anos e multa não superior a 30000$00 todo aquele que, fora dos casos previstos na lei, e sem lucro:
+
+1.º Para uso alheio, possuir, transportar ou detiver estupefacientes ou utensilagem própria à sua consumpção;
+
+2.º Ceder a outrem, comprar ou por qualquer forma adquirir, para o mesmo fim, estupefaciente;
+
+3.º Para uso de estupefaciente, fornecer a outrem qualquer instalação ou utensilagem adequada.
+
+§ único. ...
+
+...
+
+Art. 34.º Incorre na pena de dois a oito anos de prisão maior e em multa até 100000$00 todo aquele que, fora dos casos previstos na lei:
+
+1.º Por qualquer forma onerosa ou lucrativa, ministrar, vender ou fornecer estupefaciente.
+
+2.º ...
+
+3.º ...
+
+Art. 36.º Incorre na pena de oito a doze anos de prisão maior e multa até 200000$00 todo aquele que:
+
+1.º ...
+
+2.º ...
+
+3.º ...
+
+§ único. ...
+
+...
+
+Art. 39.º Para a punição dos factos contemplados no presente decreto, considera-se verificada a reincidência, aplicando-se as respectivas regras de agravação das penas, sempre que, depois da condenação por sentença com trânsito em julgado, por infracção prevista neste diploma, o mesmo indivíduo se constituir agente de outra infracção da mesma natureza, qualquer que tenha sido o tempo decorrido após a condenação anterior.
+
+§ único. ...
+
+Art. 45.º O mobiliário a que se refere o artigo 41.º será, através do almoxarifado da Fazenda, vendido em hasta pública ou, se for reduzido o seu valor económico, por negociação particular.
+
+Art. 2.º As alterações introduzidas pelo presente diploma entram imediatamente em vigor.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 4 de Junho de 1969.
+
+Publique-se.
+
+Presidência da República, 19 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Macau. - J. da Silva Cunha.

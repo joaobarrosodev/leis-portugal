@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006D0595:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D0595-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02006D0595-20070101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ca0d901acd961eea",
+    "c528612959efed78",
+    "c6fc11d0aeafe24c",
+    "07df00cd0b4c72f1",
+    "7e6a21ffd413f1e2",
+    "8876f814b4fa02b4",
+    "e77ae3a1e6c0f078"
+   ]
+  }
+ ],
+ "fragments": {
+  "ca0d901acd961eea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Agosto de 2006\n\nque estabelece a lista das regiões elegíveis para financiamento pelos Fundos Estruturais no âmbito do objectivo «Convergência», no período de 2007-2013\n\n[notificada com o número C(2006) 3475]\n\n(2006/595/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1083/2006 do Conselho, de 11 de Julho de 2006, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão, e que revoga o Regulamento (CE) n.º 1260/1999 ([^1^](http://publications.europa.eu/resource/cellar/4b64ae9c-72f8-4b04-b626-4aab6c7e8d26.0019.03/DOC_1#E0001)), nomeadamente o n.º 3 do artigo 5.º e o n.º 4 do artigo 8.º,\n\n(1) Nos termos da alínea a) do n.º 2 do artigo 3.º do Regulamento (CE) n.º 1083/2006, o objectivo «Convergência» visa acelerar o processo de convergência das regiões e dos Estados-Membros menos desenvolvidos.\n\n(2) Nos termos do n.º 1 do artigo 5.º do Regulamento (CE) n.º 1083/2006, as regiões elegíveis para financiamento pelos Fundos Estruturais, no âmbito do objectivo «Convergência», são regiões que correspondem ao nível 2 da Nomenclatura das Unidades Estatísticas Territoriais (designadas seguidamente por «NUTS 2»), na acepção do Regulamento (CE) n.º 1059/2003 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/4b64ae9c-72f8-4b04-b626-4aab6c7e8d26.0019.03/DOC_1#E0002)), cujo produto interno bruto (PIB) *per capita*, medido em Paridades de Poder de Compra e calculado com base nos dados comunitários para o período de 2000-2002, é inferior a 75 % do PIB médio da UE-25 no mesmo período de referência.\n\n(3) Nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 1083/2006, as regiões NUTS 2 que seriam elegíveis no âmbito do objectivo «Convergência», segundo o n.º 1 do artigo 5.º desse regulamento, se o limiar de elegibilidade permanecesse em 75 % do PIB médio da UE-15, mas que perdem a elegibilidade porque o respectivo PIB *per capita* nominal será superior a 75 % do PIB médio da UE-25, medido e calculado segundo o n.º 1 do artigo 5.º, continuam a ser elegíveis para financiamento pelos Fundos Estruturais no âmbito do objectivo «Convergência», a título transitório e específico.\n\n(4) É necessário estabelecer as listas das regiões elegíveis em conformidade,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "c528612959efed78": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs regiões elegíveis para financiamento pelos Fundos Estruturais no âmbito do objectivo «Convergência» são apresentadas na lista do anexo I."
+  },
+  "c6fc11d0aeafe24c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs regiões elegíveis para financiamento pelos Fundos Estruturais no âmbito do objectivo «Convergência», a título transitório e específico, tal como referido no n.º 1 do artigo 8.º do Regulamento (CE) n.º 1083/2006, são apresentadas na lista do anexo II."
+  },
+  "07df00cd0b4c72f1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "7e6a21ffd413f1e2": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| [▼M1](http://publications.europa.eu/resource/celex/32007D0189) |  |\n| --- | --- |\n| BG31 | Severozapaden |\n| BG32 | Severen tsentralen |\n| BG33 | Severoiztochen |\n| BG34 | Yugoiztochen |\n| BG41 | Yugozapaden |\n| BG42 | Yuzhen tsentralen |\n| [▼B](http://publications.europa.eu/resource/celex/32006D0595) |  |\n| CZ02 | Střední Čechy |\n| CZ03 | Jihozápad |\n| CZ04 | Severozápad |\n| CZ05 | Severovýchod |\n| CZ06 | Jihovýchod |\n| CZ07 | Střední Morava |\n| CZ08 | Moravskoslezsko |\n| DE41 | Brandenburg — Nordost |\n| DE80 | Mecklenburg-Vorpommern |\n| DED1 | Chemnitz |\n| DED2 | Dresden |\n| DEE1 | Dessau |\n| DEE3 | Magdeburg |\n| DEG0 | Thüringen |\n| EE00 | Eesti |\n| GR11 | Anatoliki Makedonia, Thraki |\n| GR14 | Thessalia |\n| GR21 | Ipeiros |\n| GR22 | Ionia Nisia |\n| GR23 | Dytiki Ellada |\n| GR25 | Peloponnisos |\n| GR41 | Voreio Aigaio |\n| GR43 | Kriti |\n| ES11 | Galicia |\n| ES42 | Castilla-La Mancha |\n| ES43 | Extremadura |\n| ES61 | Andalucía |\n| FR91 | Guadeloupe |\n| FR92 | Martinique |\n| FR93 | Guyane |\n| FR94 | Réunion |\n| ITF3 | Campania |\n| ITF4 | Puglia |\n| ITF6 | Calabria |\n| ITG1 | Sicilia |\n| LV00 | Latvija |\n| LT00 | Lietuva |\n| HU21 | Közép-Dunántúl |\n| HU22 | Nyugat-Dunántúl |\n| HU23 | Dél-Dunántúl |\n| HU31 | Észak-Magyarország |\n| HU32 | Észak-Alföld |\n| HU33 | Dél-Alföld |\n| MT00 | Malta |\n| PL11 | Łódzkie |\n| PL12 | Mazowieckie |\n| PL21 | Małopolskie |\n| PL22 | Śląskie |\n| PL31 | Lubelskie |\n| PL32 | Podkarpackie |\n| PL33 | Świętokrzyskie |\n| PL34 | Podlaskie |\n| PL41 | Wielkopolskie |\n| PL42 | Zachodniopomorskie |\n| PL43 | Lubuskie |\n| PL51 | Dolnośląskie |\n| PL52 | Opolskie |\n| PL61 | Kujawsko-Pomorskie |\n| PL62 | Warmińsko-Mazurskie |\n| PL63 | Pomorskie |\n| PT11 | Norte |\n| PT16 | Centro (PT) |\n| PT18 | Alentejo |\n| PT20 | Região Autónoma dos Açores |\n| [▼M1](http://publications.europa.eu/resource/celex/32007D0189) |  |\n| RO11 | Nord-Vest |\n| RO12 | Centru |\n| RO21 | Nord-Est |\n| RO22 | Sud-Est |\n| RO31 | Sud-Muntenia |\n| RO32 | București-Ilfov |\n| RO41 | Sud-Vest Oltenia |\n| RO42 | Vest |\n| [▼B](http://publications.europa.eu/resource/celex/32006D0595) |  |\n| SI00 | Slovenija |\n| SK02 | Západné Slovensko |\n| SK03 | Stredné Slovensko |\n| SK04 | Východné Slovensko |\n| UKK3 | Cornwall and Isles of Scilly |\n| UKL1 | West Wales and The Valleys |"
+  },
+  "8876f814b4fa02b4": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nBE32 Prov. Hainaut\n\nDE42 Brandenburg — Südwest\n\nDE93 Lüneburg\n\nDED3 Leipzig\n\nDEE2 Halle\n\nGR12 Kentriki Makedonia\n\nGR13 Dytiki Makedonia\n\nGR30 Attiki\n\nES12 Principado de Asturias\n\nES62 Región de Murcia\n\nES63 Ciudad Autónoma de Ceuta\n\nES64 Ciudad Autónoma de Melilla\n\nITF5 Basilicata\n\nAT11 Burgenland\n\nPT15 Algarve\n\nUKM4 Highlands and Islands\n\n---"
+  },
+  "e77ae3a1e6c0f078": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4b64ae9c-72f8-4b04-b626-4aab6c7e8d26.0019.03/DOC_1#src.E0001)) JO L 210 de 31.7.2006, p. 25.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4b64ae9c-72f8-4b04-b626-4aab6c7e8d26.0019.03/DOC_1#src.E0002)) JO L 154 de 21.6.2003, p. 1."
+  }
+ }
+}

@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:3285559:por
+title: Portaria n.º 606/2011
+short_title: null
+summary: Concessão da medalha da defesa nacional de 2.ª classe ao tenente-coronel, piloto-aviador, Luís Miguel Gomes Graça
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 606/2011
+official_date: null
+publication_date: '2011-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/2011, Série II de 2011-06-29
+  number: '123'
+  series: II
+  supplement: null
+  pages: 27283 - 27284
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/06/123000000/2728327284.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3285559'
+  dre_path: /dr/detalhe/portaria/606-2011-3285559
+  internal: pt:dre:3285559:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-2011-3285559
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-2011-3285559
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:31:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 11aa9b13ce3920637e7a2eb4642c167a33f88d296534f00efb7d3de96ecb3cba
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:31:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:31:51Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 606/2011
+
+Louvo o tenente-coronel, piloto-aviador, NIP 086047-G, Luís Miguel Gomes Graça, pela forma muito competente, dedicada e eficiente como, desde 27 de Setembro de 2010, desempenhou as exigentes funções de assessor militar no meu Gabinete, assegurando a ligação à Força Aérea.
+
+Profundo conhecedor da estrutura e meios da Força Aérea distinguiu-se como um notável colaborador no acompanhamento e apoio à decisão, prestando assessoria nos inúmeros processos relativos a este ramo das Forças Armadas, abrangendo matérias tão diversas como: sistemas de armas, programas de modernização de meios aéreos, infra-estruturas, pessoal, defesa nacional e ambiente, missões de acompanhamento e fiscalização e ainda nos trabalhos de revisão dos decretos regulamentares, decorrentes da aprovação das novas leis orgânicas.
+
+No plano técnico e militar, o tenente-coronel Luís Graça participou de forma activa no acompanhamento de importantes projectos, designadamente do Novo Aeroporto de Lisboa, Campo de Tiro e Manobras das Forças Armadas, na extensão do Sistema de Comando e Controlo Aéreo de Portugal (SICCAP) aos arquipélagos da Madeira e dos Açores, na instalação do radar na Madeira, da criação da Autoridade Aeronáutica Nacional de Segurança do Espaço Aéreo e no acompanhamento das evacuações sanitárias por meios aéreos em ambiente marítimo.
+
+Evidencia-se ainda a sua perseverante acção desenvolvida na coordenação das visitas do Ministro da Defesa Nacional à Força Aérea, na supervisão da atribuição de meios aéreos em apoio ao transporte de entidades institucionais, e no apoio prestado à preparação dos transportes das forças nacionais destacadas, permitindo a sua atempada rotação e sustentação nos vários teatros de operações.
+
+O tenente-coronel Luís Graça participou, ainda, na indispensável articulação com o Ministério dos Negócios Estrangeiros no âmbito do processamento das autorizações de sobrevoo e aterragem, cabendo uma especial referência à sua intervenção na revisão dos respectivos procedimentos.
+
+Como representante deste Gabinete, a prestação do tenente-coronel Luís Graça foi igualmente relevante no âmbito da preparação e acompanhamento da implementação da Directiva Ambiental de Defesa Nacional, nomeadamente na área militar, e do acompanhamento das actividades de índole científica e ou tecnológica de investigação e desenvolvimento de defesa que satisfazem lacunas ou objectivos de capacidades militares de defesa em reforço da Base Tecnológica e Industrial de Defesa (BTID) nacional e europeia, onde, o seu apurado conselho e sensatez foram importantes para a decisão e concretização dessa iniciativa.
+
+Oficial detentor de grande competência profissional, revelou, também, uma irrepreensível conduta, com excepcional espírito de missão, lealdade e disponibilidade, demonstrando sempre um elevado sentido das responsabilidades.
+
+Pelas razões expostas, é muito grato ao Ministro da Defesa Nacional reconhecer publicamente o elevado nível de desempenho do tenente-coronel Luís Miguel Gomes Graça que, com elevada competência técnica e relevantes qualidades pessoais, contribuiu significativamente para a eficiência, prestígio e cumprimento da missão do Ministério da Defesa Nacional.
+
+Assim, pela competência que me é conferida pelo n.º 3 do artigo 34.º, atento o disposto no artigo 25.º, na alínea a) do n.º 1 do artigo 26.º e na alínea b) do n.º 1 do artigo 27.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de Dezembro, concedo a medalha da defesa nacional de 2.ª classe ao tenente-coronel, piloto-aviador, Luís Miguel Gomes Graça.
+
+16 de Junho de 2011. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.
+
+204821244

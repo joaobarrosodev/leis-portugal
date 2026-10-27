@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R1221:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R1221-20040428",
+ "dre_path": null,
+ "source_lastmod": "2004-04-28",
+ "versions": [
+  {
+   "date": "1997-07-01",
+   "future": false,
+   "celex": "31997R1221",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221def1f196508c8",
+    "eadd9a315ca927c4",
+    "92d6502654e8c4ed",
+    "ef5dae182e3a15d7",
+    "4f6c9ccc1aa7144f",
+    "1a7e651e82f09991",
+    "58795e87a54a8dc7",
+    "b7471dd2b7032868"
+   ]
+  },
+  {
+   "date": "2004-04-28",
+   "future": false,
+   "celex": "01997R1221-20040428",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º"
+   ],
+   "fragments": [
+    "e49019064d8d3c30"
+   ]
+  }
+ ],
+ "fragments": {
+  "221def1f196508c8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 1221/97 do Conselho de 25 de Junho de 1997 que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel** *Jornal Oficial nº L 173 de 01/07/1997 p. 0001 - 0002*\n\nREGULAMENTO (CE) Nº 1221/97 DO CONSELHO de 25 de Junho de 1997 que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, os artigos 42º e 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Comissão comunicou ao Parlamento Europeu e ao Conselho um documento de reflexão sobre a apicultura europeia em que se explicita a situação e as dificuldades do sector;\n\nConsiderando que a apicultura constitui um sector da agricultura cujas principais funções são a actividade económica e o desenvolvimento rural, a produção de mel e de outros produtos apícolas e a contribuição para o equilíbrio ecológico;\n\nConsiderando que este sector se caracteriza pela diversidade de condições de produção e de rendimentos, bem como pela dispersão e heterogeneidade dos agentes económicos, ao nível da produção e da comercialização; que o mercado do mel da Comunidade se encontra numa situação de desequilíbrio entre a oferta e a procura;\n\nConsiderando que, dada a disseminação da varroose nestes últimos anos em vários Estados-membros e os problemas levantados por esta doença à produção de mel, se torna necessária uma acção a nível comunitário;\n\nConsiderando que, nestas condições e a fim de melhorar a produção e comercialização de mel na Comunidade, é necessário estabelecer, sem demora, programas nacionais anuais que prevejam acções de assistência técnica, de luta contra a varroose e doenças associadas, de racionalização da transumância, de gestão de centros regionais apícolas e de colaboração em programas de investigação em matéria de melhoria da qualidade do mel;\n\nConsiderando que, para completar os dados estatísticos sobre o sector da agricultura, é conveniente que os Estados-membros realizem um estudo sobre a estrutura do sector, tanto ao nível do recenseamento e da produção como ao da comercialização e formação dos preços;\n\nConsiderando que as despesas efectuadas pelos Estados-membros na sequência das obrigações impostas pelo presente regulamento são custeadas pela Comunidade, nos termos do artigo 3º do Regulamento (CEE) nº 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (4);\n\nConsiderando a declaração do Parlamento Europeu, do Conselho e da Comissão do 6 de Março de 1995 relativa à inscrição de disposições financeiras nos actos legislativos (5),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "eadd9a315ca927c4": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. O presente regulamento estabelece as acções destinadas a melhorar as condições de produção e comercialização do mel na acepção da definição que lhe é dada na Directiva 74/409/CEE do Conselho, de 22 de Julho de 1974, relativa à harmonização das legislações dos Estados-membros respeitantes ao mel (6). Os Estados-membros podem, para o efeito, estabelecer programas nacionais anuais.\n\n2. As acções que podem ser incluídas nesses programas são as seguintes:\n\na) Assistência técnica aos apicultores e aos centros de produção de mel de grupos de apicultores, tendo em vista a melhoria da qualidade da produção e da extracção do mel;\n\nb) Luta contra a varroose e doenças associadas; melhoria das condições de tratamento das colmeias;\n\nc) Racionalização da transumância;\n\nd) Medidas de apoio aos laboratórios de análise das características físico-químicas do mel;\n\ne) Colaboração com organismos especializados na realização de programas de investigação aplicada em matéria de melhoria da qualidade do mel.\n\n3. O artigo 4º do Regulamento nº 26 relativo à aplicação de determinadas regras de concorrência à produção e ao comércio de produtos agrícolas (7) continua a ser aplicável às ajudas de Estado com excepção das incluídas nos programas aprovados nos termos do artigo 4º do presente regulamento."
+  },
+  "92d6502654e8c4ed": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara poderem beneficiar do co-financiamento previsto no artigo 3º, os Estados-membros devem realizar, o mais tardar, até 15 de Dezembro de 1997, um estudo sobre a estrutura do sector da apicultura nos seus territórios, tanto a nível da produção como da comercialização."
+  },
+  "ef5dae182e3a15d7": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nAs despesas efectuadas ao abrigo do presente regulamento são consideradas despesas na acepção do artigo 3º do Regulamento (CEE) nº 729/70.\n\nA Comunidade participa no financiamento dos programas nacionais até ao limite de 50 % das despesas custeadas pelos Estados-membros em relação às acções previstas no nº 2 do artigo 1º e incluídas no programa nacional.\n\nPara serem elegíveis para co-financiamento comunitário, as despesas dos Estados-membros com acções do âmbito dos programas nacionais anuais referidos no nº 1 do artigo 1º devem ser efectuadas, o mais tardar, até 15 de Outubro de cada ano."
+  },
+  "4f6c9ccc1aa7144f": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs programas referidos no nº 1 do artigo 1º devem ser elaborados em estreita colaboração com as organizações representativas e as cooperativas do sector apícola e serão comunicados à Comissão, que decidirá da sua aprovação nos termos do artigo 17º do Regulamento (CEE) nº 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos (8).\n\nFicam excluídas deste programa as acções inscritas nos programas operacionais para as regiões dos objectivos nºs 1, 5b) e 6."
+  },
+  "1a7e651e82f09991": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nAs normas de execução do presente regulamento, nomeadamente as relativas às medidas de controlo, serão adoptadas nos termos do artigo 17º do Regulamento (CEE) nº 2771/75."
+  },
+  "58795e87a54a8dc7": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho, de três em três anos, e pela primeira vez, o mais tardar, em 31 de Dezembro de 2000, um relatório sobre a aplicação do presente regulamento."
+  },
+  "b7471dd2b7032868": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 25 de Junho de 1997.\n\nPelo Conselho\n\nO Presidente\n\nJ. VAN AARTSEN\n\n(1) JO nº C 378 de 13. 12. 1996, p. 20.\n\n(2) JO nº C 200 de 30. 6. 1997.\n\n(3) JO nº C 133 de 28. 4. 1997.\n\n(4) JO nº L 94 de 28. 4. 1970, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1287/95 (JO nº L 125 de 8. 6. 1995, p. 1).\n\n(5) JO nº C 102 de 4. 4. 1996, p. 4.\n\n(6) JO nº L 221 de 12. 8. 1974, p. 10. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão do 1985.\n\n(7) JO nº 30 de 20. 4. 1962, p. 993/62. Regulamento alterado pelo Regulamento nº 49 (JO nº 53 de 1. 7. 1962, p. 1571/62).\n\n(8) JO nº L 282 de 1. 11. 1975, p. 49. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1516/96 (JO nº L 189 de 30. 7. 1996, p. 99)."
+  },
+  "e49019064d8d3c30": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R1221 — PT — 28.04.2004 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R1221) [REGULAMENTO (CE) N.º 1221/97 DO CONSELHO](http://publications.europa.eu/resource/celex/31997R1221) [de 25 de Junho de 1997](http://publications.europa.eu/resource/celex/31997R1221) [que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel](http://publications.europa.eu/resource/celex/31997R1221) (JO L 173, 1.7.1997, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 797/2004 do Conselho de 26 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0797) — L 125 — 1 — 28.4.2004"
+  }
+ }
+}

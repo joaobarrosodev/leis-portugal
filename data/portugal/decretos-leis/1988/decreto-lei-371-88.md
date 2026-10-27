@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:354164:por
+title: Decreto-Lei n.º 371/88
+short_title: null
+summary: Altera a Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 371/88
+official_date: null
+publication_date: '1988-10-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 240/1988, Série I de 1988-10-17
+  number: '240'
+  series: I
+  supplement: null
+  pages: 4226 - 4231
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '354164'
+  dre_path: /dr/detalhe/decreto-lei/371-1988-354164
+  internal: pt:dre:354164:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1988-354164
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1988-354164
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:43:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7cdf8f028729f1f31b4b43847ce6ecc89da97a11e6a4be6f67799925cd80b66e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Importação
+- Pauta dos Direitos de Importação
+relationships:
+- type: corrected_by
+  target: pt:dre:519066:por
+  label: Rectificado pela DECL.DD4074.1988.11.02.PCM DR.IS [277]4.ºSUPL DE 30/NOV/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-519066
+  date: '1988-11-02'
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:43:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 371/88
+
+de 17 de Outubro
+
+A Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro, em vigor desde 1 de Janeiro de 1988, foi a primeira a ser elaborada com base na Nomenclatura Combinada, instituída pelo Regulamento (CEE) n.º [2658/87](http://data.europa.eu/eli/reg/1987/2658/oj?locale=pt), do Conselho, de 23 de Julho.
+
+A adopção desta nova nomenclatura de mercadorias obrigou à transposição e ao cálculo de cerca de 12000 taxas. Em resultado deste trabalho a Pauta apresenta algumas incorrecções, que é urgente eliminar.
+
+Por outro lado, têm igualmente de ser inseridas na Pauta em vigor as rectificações feitas na Nomenclatura Combinada pelo Regulamento (CEE) n.º [3985/87](http://data.europa.eu/eli/reg/1987/3985/oj?locale=pt), da Comissão, de 22 de Dezembro, que produz efeitos a partir de 1 de Janeiro de 1988, e pelo Regulamento (CEE) n.º [1045/88](http://data.europa.eu/eli/reg/1988/1045/oj?locale=pt), do Conselho, de 18 de Abril, em vigor desde 23 de Abril de 1988.
+
+Aproveita-se ainda a oportunidade para alinhar pela Pauta Aduaneira Comum, nos termos do artigo 201.º do Tratado de Adesão, as taxas dos direitos da pasta de cacau, de determinados aparelhos incompletos de reprodução de som, das máquinas carregadoras para uso subterrâneo e dos contentores, sendo a primeira destas medidas tomada para evitar um ónus orçamental em matéria de recursos próprios comunitários e as seguintes para defesa dos interesses económicos dos respectivos sectores.
+
+Finalmente e atendendo a que se afigura prejudicial aos interesses nacionais a cobrança da taxa de 0,9% ad valorem que incide sobre as mercadorias declaradas apenas para livre prática e ainda sobre determinada categoria de mercadorias, torna-se necessário proceder igualmente à alteração do artigo 10.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.
+
+Assim:
+
+No uso da autorização legislativa concedida pelas alíneas a) e b) do artigo 32.º da Lei n.º 2/88, de 26 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º A Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro, é alterada nos termos dos anexos I a IV ao presente diploma, com referência à separata do Diário da República publicada nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 389/87, de 31 de Dezembro.
+
+Art. 2.º O artigo 10.º da tabela II anexa à Reforma Aduaneira, com a redacção dada pela alínea c) do n.º 2 do artigo 2.º do Decreto-Lei n.º 368/87, de 27 de Novembro, passa a ter a seguinte redacção:
+
+Art. 10.º - 1 - As mercadorias declaradas para consumo ficam sujeitas ao pagamento de um emolumento de despacho geral de 0,9% ad valorem até 31 de Dezembro de 1988, de 0,6% entre esta data e 31 de Dezembro de 1989 e de 0,3% entre a última data e 31 de Dezembro de 1990, considerando-se este emolumento integralmente suprimido em 1 de Janeiro de 1991.
+
+2 - Excluem-se do disposto no número anterior as mercadorias referidas no título II, letras A e B, das Disposições Preliminares da Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro.
+
+Art. 3.º É revogado o Decreto-Lei n.º 45/87, de 29 de Janeiro.
+
+Art. 4.º - 1 - O presente diploma produz efeitos desde 1 de Janeiro de 1988.
+
+2 - Exceptuam-se do disposto no número anterior:
+
+a) As alterações relativas aos códigos 18.03.10, 18.03.20 e 84.29.51.10 constantes do anexo II, as quais produzem efeitos desde 1 de Março de 1988;
+
+b) As alterações relativas ao código 85.27.32 constantes do anexo II, as quais produzem efeitos desde 23 de Abril de 1988;
+
+c) As alterações respeitantes aos códigos 85.19.91.91 e 86.09.00.90 constantes do anexo II, as quais produzem efeitos a partir da data da entrada em vigor do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Fernando Mira Amaral - Licínio Alberto de Almeida Cunha.
+
+Promulgado em 29 de Setembro de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 3 de Outubro de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO I — Quadro a que se refere o n.º 1 do ponto A do título II das Disposições Preliminares e que deverá constituir a p. 13-A da Pauta dos Direitos de Importação
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
+
+## ANEXO II — Alterações a introduzir na Tabela de Direitos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
+
+## ANEXO III — Alterações das notas às subposições
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
+
+## ANEXO IV — Notas complementares a introduzir
+
+#### SECÇÃO XI
+
+Página 392:
+
+Nota complementar
+
+Para aplicação da nota 13 da presente secção, pela expressão «vestuário de matérias têxteis» entende-se o vestuário das posições 61.01 a 61.14 e das posições 62.01 a 62.11.
+
+### CAPÍTULO 53
+
+Página 413:
+
+Nota complementar
+
+A. Para aplicação dos subposições 53.06.10.90, 53.06.20.90 e 53.08.20.90, são considerados como «acondicionados para o venda a retalho», salvo as excepções feitas na letra B seguinte, os fios (simples, retorcidos ou retorcidos múltiplos) que se apresentem.
+
+a) Em cartões, bobinas, tubos e suportes semelhantes, em bolas ou novelos, com o peso máximo (incluído o suporte) de 200 g;
+
+b) Em meadas com o peso máximo de 125 g;
+
+c) Em meadas subdivididas em meadas menores por um ou mais fios divisores que as tornam independentes umas dos outras, apresentando um peso uniforme não superior a 125 g.
+
+B. As disposições contidas na letra A não se aplicam:
+
+a) Aos fios retorcidos ou retorcidos múltiplos, crus em meadas;
+
+b) Aos fios retorcidos ou retorcidos múltiplos apresentados:
+
+1.º Em meadas dobadas em cruz;
+
+2.º Em suporte ou outro acondicionamento que implique o seu emprego na indústria têxtil (por exemplo, em bobinas de torcedores, canelas, canelas cónicas ou cones, ou apresentados em casulos para teares de bordar).
+
+### CAPÍTULO 61
+
+Página 468:
+
+Nota complementar
+
+Para aplicação da posição 61.09 a expressão «camisolas interiores» compreende o vestuário usado directamente sobre a pele, mesmo de fantasia, sem gola, com ou sem mangas, incluído o vestuário com alças.
+
+Este vestuário, destinado a cobrir a parte superior do corpo, apresenta frequentemente várias características comuns às T-shirts ou a outros tipos tradicionais de camisolas interiores.
+
+No entanto, o vestuário com o cós retráctil, cordão ajustável ou outros dispositivos para apertar na base é excluído da posição 61.09.

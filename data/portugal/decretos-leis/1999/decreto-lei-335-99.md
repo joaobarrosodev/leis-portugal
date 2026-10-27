@@ -1,0 +1,399 @@
+---
+schema_version: '1.0'
+id: pt:dre:434001:por
+title: Decreto-Lei n.º 335/99
+short_title: null
+summary: Estabelece o regime jurídico aplicável às cooperativas agrícolas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 335/99
+official_date: null
+publication_date: '1999-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/1999, Série I-A de 1999-08-20
+  number: '194'
+  series: I
+  supplement: null
+  pages: 5559 - 5563
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/194a00/55595563.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2001-02-04'
+version_history:
+  file: decreto-lei-335-99.versoes.json
+  count: 2
+  source_lastmod: '2024-11-18'
+  versions:
+  - date: '1999-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-02-04'
+    amending: pt:dre:315154:por
+    amending_title: Decreto-Lei n.º 23/2001
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/335/1999/p/cons/20010130/pt/html
+  oj: null
+  dre: '434001'
+  dre_path: /dr/detalhe/decreto-lei/335-1999-434001
+  internal: pt:dre:434001:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1999-434001
+  metadata_url: https://data.dre.pt/eli/dec-lei/335/1999/p/cons/20010130/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34496175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34496175
+  retrieved_at: '2026-10-22T13:19:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-11-18T00:00:00Z'
+integrity:
+  source_sha256: 15df9bcc51deb0d6364d86014d2a2d9a7302d199b7af241e58247a1c2ad47d4f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:19:34Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-335-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Apoio Técnico
+- Assembleia Geral
+- Financiamento
+- Caixa de Crédito Agrícola Mútuo
+- Capital Social
+- Eleição
+- Código Cooperativo
+- Contabilidade
+- Desenvolvimento Rural
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Cooperativa Agrícola
+- Instituto António Sérgio do Sector Cooperativo
+- Definição de Competências
+- Estatuto
+- Administração Pública
+- Cooperativa
+- Exploração Pecuária
+- Interesse Público
+- Obrigações
+- Orçamento
+- Exploração Agrícola
+- Personalidade Jurídica
+- Pessoa Coletiva
+- Pessoa Singular
+- Plano de Actividades
+- Exploração Florestal
+- Agricultor
+- Produção Agrícola
+- Regime Jurídico
+- Propriedade de BENS
+- Modernização do Sector Agrícola
+- Agricultura
+- Serviço Regional
+- Direito de Voto
+relationships:
+- type: amended_by
+  target: pt:dre:315154:por
+  label: Altera Artigo 6.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2001-315154
+  date: '2001-01-30'
+- type: cites
+  target: pt:dre:241472:por
+  label: null
+  source: http://data.dre.pt/eli/lei/51/1996/09/07/p/dre
+article_structure:
+  article_count: 24
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:19:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 335/99
+
+O ramo agrícola do sector cooperativo constitui o maior e o mais diversificado conjunto de cooperativas do País em função do seu peso no número total de cooperativas existentes, pelo volume de vendas e pelo nível de emprego por que é responsável e pelo número de agricultores membros que representa nos sectores produtivos e estrategicamente mais relevantes.
+
+Volvidos quase 16 anos sobre a entrada em vigor da primeira legislação especial sobre esta matéria e 12 anos sobre a adesão de pleno direito de Portugal à então Comunidade Económica Europeia, as cooperativas agrícolas continuam a assegurar um papel fundamental na execução das políticas agrícolas, quer no plano nacional, quer no plano comunitário, não obstante se confrontarem com factores exógenos que condicionam o seu crescimento, em resultado, nomeadamente, da adopção de medidas no âmbito da Política Agrícola Comum com carácter e incidência notoriamente mais restritivos.
+
+No mesmo período de tempo ocorreram profundas alterações económicas a nível mundial, com quadros macro e microeconómicos decisivamente marcados pela globalização das economias, pela intensificação da concorrência e pela nova disciplina do comércio internacional, com complexas influências sobre a generalidade dos tecidos produtivos e empresariais, dos quais as cooperativas agrícolas fazem parte, obrigando-as a um esforço decisivo para sobreviverem com eficácia na dupla qualidade de empresas e associações específicas, num sector também dotado de particularidades.
+
+Aprovado que foi, em tempo útil, o Código Cooperativo, pela convergência, num amplo consenso, do espectro político-partidário nacional, consideram-se, assim, reafirmados os valores essenciais do cooperativismo e das cooperativas, que esta legislação complementar não carece de repetir, mas antes acatar.
+
+Neste contexto, a legislação complementar do ramo agrícola do Código Cooperativo cria as condições para que as cooperativas agrícolas possam, a um tempo, responder às necessidades específicas dos agricultores e dos territórios e, por outro lado, desenvolver os seus próprios meios de adaptação às regras económicas prevalecentes, modernizando-se e mobilizando os mecanismos que lhes permitam ser cada vez mais fortes aos níveis empresarial e associativo e capazes de responder aos renovados apelos da organização do mundo agrícola e rural.
+
+O apelo a uma maior responsabilização das cooperativas agrícolas deve ser entendido também como um apelo decisivo à plena vinculação dos seus membros a direitos e obrigações expressamente consignados nos respectivos estatutos, afinal o primeiro e determinante factor para o seu eficaz funcionamento, sem o qual a função associativa não é exercida e a de índole empresarial se vê fortemente condicionada, com os consequentes resultados negativos, a todos os níveis.
+
+O regime aplicável ao ramo agrícola do sector cooperativo procura dar resposta adequada ao novo tipo de relacionamento que entretanto, por razões endógenas e exógenas, se vem estabelecendo e consolidando entre as cooperativas agrícolas e a Administração Pública, em particular com o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, sem quebra do princípio basilar da livre constituição e funcionamento daquelas, face ao Estado.
+
+A nova figura das cooperativas multissectoriais, introduzida pelo actual Código Cooperativo, mereceu, no presente diploma, tratamento específico de modo a permitir a sua constituição e funcionamento no ramo agrícola, no que se vai ao encontro das tendências recentes e futuras das políticas dirigidas à agricultura e ao desenvolvimento rural.
+
+Com idêntica preocupação de dar expressão legal a tendências actuais e futuras de alargamento das áreas tradicionais de intervenção das cooperativas agrícolas, foi introduzido, pela primeira vez, clausulado relacionando de forma visível as cooperativas agrícolas e o desenvolvimento rural, na presunção de que àquelas virá a ser exigido um papel cada vez mais interventor e diversificado nas políticas para o mundo rural.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 51/96, de 7 de Setembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Cooperativas agrícolas
+
+###### Artigo 1.º — Âmbito
+
+As cooperativas agrícolas do primeiro grau e as suas organizações de grau superior regem-se pelas disposições do presente diploma e, nas suas omissões, pelas do Código Cooperativo.
+
+###### Artigo 2.º — Objecto
+
+São cooperativas agrícolas as que tenham por objecto principal, designadamente:
+
+a) A produção agrícola, agro-pecuária e florestal;
+
+b) A recolha, a concentração, a transformação, a conservação, a armazenagem e o escoamento de bens e produtos provenientes das explorações dos seus membros;
+
+c) A produção, a aquisição, a preparação e o acondicionamento de factores de produção e de produtos e a aquisição de animais destinados às explorações dos seus membros ou à sua própria actividade;
+
+d) A instalação e a prestação de serviços às explorações dos seus membros, nomeadamente de índole organizativa, técnica, tecnológica, económica, financeira, comercial, administrativa e associativa;
+
+e) A gestão e a utilização da água de rega, a administração, a exploração e a conservação das respectivas obras e equipamentos de rega, que a lei preveja poderem ser administradas ou geridas por cooperativas.
+
+###### Artigo 3.º — Instrumentos
+
+Para a realização dos seus fins, podem as cooperativas agrícolas, nomeadamente:
+
+a) Adquirir a propriedade ou outros direitos que assegurem o uso e a fruição de prédios destinados à exploração agrícola, à instalação de unidades fabris, à armazenagem, à conservação ou a actividades auxiliares ou complementares;
+
+b) Utilizar e permitir a utilização, no todo ou em parte, dos edifícios, das instalações, dos equipamentos ou dos serviços, de ou por outras cooperativas, em espírito de entreajuda e complemento de meios e operações;
+
+c) Ajustar com quaisquer pessoas jurídicas, singulares ou colectivas, contratos, acordos ou convenções;
+
+d) Filiar-se em cooperativas, nomeadamente de grau superior, e caixas de crédito agrícola mútuo e ainda participar em associações e formas societárias, nos termos legais;
+
+e) Contrair empréstimos e realizar outras operações financeiras;
+
+f) Realizar operações com terceiros, mantendo a prioridade para os cooperadores inscritos na cooperativa.
+
+###### Artigo 4.º — Desenvolvimento rural
+
+1 - Em conformidade com os 6.º e 7.º princípios cooperativos, definidos no artigo 3.º do Código Cooperativo, e com vista à inserção das cooperativas agrícolas no desenvolvimento das comunidades rurais e à intercooperação com estruturas locais, regionais, nacionais e internacionais, as cooperativas agrícolas podem ainda realizar outras actividades complementares ou conexas.
+
+2 - Como actividades complementares ou conexas das actividades agrícolas, definidas no artigo 2.º, podem as cooperativas agrícolas realizar actividades de apoio às explorações agrícolas, ao desenvolvimento de produtos de qualidade, ao desenvolvimento sustentável das florestas, ao desenvolvimento tecnológico e experimentação agro-florestal, ao desenvolvimento de serviços agro-rurais, à requalificação ambiental e à valorização do ambiente e do património rural e à promoção de acções e projectos integrados de desenvolvimento agrícola e rural.
+
+3 - Para a realização das actividades constantes do número anterior, podem as cooperativas agrícolas participar em programas de intercooperação e estabelecer parcerias com organismos públicos ou particulares de economia social, nomeadamente cooperativas, ou com organismos autárquicos, para o que podem criar ou integrar-se em estruturas locais, regionais, nacionais ou internacionais que potenciem ou executem acções de desenvolvimento sustentável das suas comunidades, constantes de políticas aprovadas pelos seus membros.
+
+###### Artigo 5.º — Organizações cooperativas de grau superior
+
+Nos termos do Código Cooperativo, as cooperativas agrícolas podem agrupar-se em uniões, federações e confederações.
+
+###### Artigo 6.º — Capital social
+
+1 - O capital social mínimo de cada cooperativa deve ser definido nos estatutos e não pode ser inferior a 5000 euros.
+
+2 - Os estatutos devem definir o critério para o cálculo da entrada mínima de cada cooperador no capital social, que poderá ser proporcional à sua actividade na cooperativa e terá um valor mínimo de 100 euros.
+
+3 - Nas cooperativas polivalentes o membro é obrigado a subscrever tantas entradas mínimas de capital quantas as secções em que pretenda inscrever-se.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 23/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2001-315154), em vigor a partir de 2001-02-04
+
+###### Artigo 7.º — Admissão de cooperadores
+
+1 - Podem inscrever-se como membros de uma cooperativa agrícola todas as pessoas singulares ou colectivas que exerçam actividades agrícolas, agro-pecuárias ou florestais ou com elas directamente relacionadas ou conexas em explorações localizadas na área geográfica de actuação da cooperativa e satisfaçam as suas exigências estatutárias.
+
+2 - São também admitidos como membros de uma cooperativa agrícola os proprietários de explorações que se dediquem à agricultura, pecuária ou floresta ou a actividades com elas directamente relacionadas ou conexas, que e se localizem na área geográfica de actuação da cooperativa e ainda satisfaçam as suas exigências estatutárias.
+
+###### Artigo 8.º — Vinculação dos membros
+
+É permitido às cooperativas agrícolas estabelecer nos estatutos condicionamentos às demissões dos cooperadores, tendo em conta o respeito e o cumprimento de compromissos, nomeadamente financeiros, assumidos pela cooperativa durante o período de vinculação desse cooperador.
+
+###### Artigo 9.º — Exclusão de membros
+
+Podem ser excluídos, nos termos do n.º 2 do artigo 37.º do Código Cooperativo, os membros das cooperativas agrícolas que, designadamente:
+
+a) Passem a explorar ou negociar de forma concorrencial com a cooperativa, quer em nome próprio, quer através de interposta pessoa ou empresa;
+
+b) Negociem produtos, matérias-primas, máquinas ou outras quaisquer mercadorias ou equipamentos que hajam adquirido por intermédio da cooperativa;
+
+c) Transfiram para outros benefícios que só aos membros é lícito obter;
+
+d) Não participem na subscrição e realização do capital social conforme o determinado pelos estatutos ou o deliberado pela assembleia geral;
+
+e) Sejam declarados em estado de falência fraudulenta ou de insolvência ou tiverem sido demandados pela cooperativa, havendo sido condenados por decisão transitada em julgado.
+
+###### Artigo 10.º — Caducidade do vínculo
+
+1 - Perdem a qualidade de associados os membros das cooperativas agrícolas que deixem de preencher os requisitos exigidos para a sua admissão nos termos do artigo 7.º
+
+2 - Os estatutos podem prever a qualidade de associado honorário, nomeadamente destinada a agricultores reformados que optem por continuar associados.
+
+3 - Os associados honorários podem assistir e participar nas assembleias gerais, não podendo contudo votar ou ser votados.
+
+###### Artigo 11.º — Certificação legal de contas
+
+Ficam obrigadas à certificação legal das contas as cooperativas que, durante dois anos consecutivos, ultrapassam dois dos três limites fixados em mapa anexo, que é parte integrante do presente diploma.
+
+###### Artigo 12.º — Reserva de investimento
+
+1 - Nos termos do artigo 71.º do Código Cooperativo, os estatutos das cooperativas agrícolas podem prever a criação de outras reservas, designadamente para investimento, para além das reservas obrigatórias previstas nos artigos 69.º e 70.º do mesmo Código.
+
+2 - A reserva para investimento destina-se a renovar e repor a capacidade produtiva da cooperativa e é constituída por:
+
+a) Uma percentagem dos excedentes líquidos anuais provenientes de operações com cooperadores, a definir pela assembleia geral, por proposta da direcção;
+
+b) Uma percentagem não inferior a 40% dos excedentes líquidos anuais provenientes de operações com terceiros.
+
+### Capítulo II — Cooperativas polivalentes e multissectoriais
+
+#### Secção I — Cooperativas polivalentes
+
+###### Artigo 13.º — Constituição e funcionamento
+
+1 - Podem constituir-se cooperativas agrícolas polivalentes que se caracterizam por abranger mais de uma área de actividade do ramo agrícola ou com ela directamente relacionada ou conexa e por adoptarem uma organização interna por secções.
+
+2 - Cada secção tem um regulamento que define o seu objecto e funcionamento.
+
+###### Artigo 14.º — Assembleia geral em cooperativa polivalente
+
+Nas cooperativas polivalentes a existência de assembleias sectoriais deve ser prevista nos estatutos e o seu funcionamento estabelecido em regulamento interno.
+
+###### Artigo 15.º — Novas secções
+
+A criação e a extinção de uma secção é da competência da assembleia geral, sob proposta da direcção, em deliberação tomada por maioria qualificada de dois terços dos votos expressos.
+
+###### Artigo 16.º — Cooperativa e secções
+
+1 - Sem prejuízo da personalidade jurídica da cooperativa, cada secção deve possuir regulamento próprio e organização contabilística própria, por forma a evidenciar os seus resultados e actividades.
+
+2 - O capital social da cooperativa responde em conjunto e solidariamente pelas obrigações assumidas.
+
+3 - A composição da direcção deverá ter em conta a natureza polivalente da cooperativa.
+
+###### Artigo 17.º — Assembleia de secção
+
+1 - Nas cooperativas agrícolas polivalentes cujos estatutos prevejam a realização de assembleias sectoriais, a eleição das respectivas mesas será feita para um mandato coincidente com os dos titulares dos órgãos sociais da cooperativa.
+
+2 - À assembleia sectorial compete, nomeadamente:
+
+a) Pronunciar-se sobre as actividades, orçamento, contas e gestão da secção;
+
+b) Pronunciar-se sobre o plano de actividades, orçamento, gestão e relatório e contas da cooperativa a apresentar à assembleia geral;
+
+c) Eleger a mesa da assembleia de secção em ano de eleições dos órgãos sociais;
+
+d) Eleger os seus delegados à assembleia geral.
+
+###### Artigo 18.º — Eleição dos delegados
+
+1 - A eleição dos delegados das várias secções, quando necessária, deverá ocorrer antes da primeira assembleia geral anual da cooperativa.
+
+2 - O número de delegados a eleger por cada secção é proporcional ao respectivo número de inscritos, no mínimo de um delegado por secção, e deve ser anualmente apurado, pela direcção, nos temos dos n.os 2 e 3 do artigo 54.º do Código Cooperativo.
+
+3 - Os estatutos definem a proporção dos delegados a eleger em função do critério referido no número anterior.
+
+4 - A cada delegado corresponde um voto caso os estatutos não decidam de outro modo.
+
+5 - Nenhum membro pode ser delegado de mais de uma secção.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 23/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2001-315154), em vigor a partir de 2001-02-04
+
+#### Secção II — Cooperativas multissectoriais agrícolas
+
+###### Artigo 19.º — Constituição
+
+1 - Só pode optar pela sua integração no ramo agrícola uma cooperativa multissectorial que, cumulativamente:
+
+a) Tenha, no seu objecto, pelo menos uma actividade específica deste ramo;
+
+b) Tenha um número de associados inscritos em actividades agrícolas superior a metade do número total de associados.
+
+2 - O reconhecimento da cooperativa multisectorial como integrada no ramo agrícola decorre nos termos definidos no artigo 23.º
+
+3 - Os direitos e benefícios concedidos às cooperativas agrícolas não podem estender-se às actividades não agrícolas das cooperativas multissectoriais agrícolas.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 23/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2001-315154), em vigor a partir de 2001-02-04
+
+###### Artigo 20.º — Organização e funcionamento das cooperativas multissectoriais agrícolas
+
+1 - À organização e funcionamento das cooperativas multissectoriais integradas no ramo agrícola aplica-se, com as necessárias adaptações, o disposto no presente diploma para cooperativas polivalentes.
+
+2 - No caso de a assembleia da cooperativa multissectorial funcionar por delegados, o número de delegados correspondentes às actividades agrícolas deve ser superior a metade do número total de delegados à assembleia geral.
+
+#### Secção III — Cooperativas de área geográfica dispersa
+
+###### Artigo 21.º — Assembleias sectoriais de âmbito geográfico
+
+Às cooperativas agrícolas que prevejam nos seus estatutos o funcionamento por assembleias sectoriais geográficas, aplica-se, com as necessárias adaptações, o disposto no presente diploma, relativamente às assembleias sectoriais das cooperativas agrícolas polivalentes.
+
+### Capítulo III — Cooperativas de grau superior
+
+###### Artigo 22.º — Federações
+
+1 - As cooperativas agrícolas e suas uniões podem agrupar-se em federações de âmbito nacional ou regional nos termos do artigo 85.º do Código Cooperativo.
+
+2 - As cooperativas agrícolas e suas uniões que se caracterizam por desenvolver actividades da mesma área de actividades podem agrupar-se em federações sectoriais de âmbito nacional ou regional.
+
+### Capítulo IV — Relação das cooperativas agrícolas com o MADRP
+
+###### Artigo 23.º — Certificação da natureza agrícola
+
+1 - A concessão de apoio técnico ou financeiro às cooperativas agrícolas, para além da credencial emitida pelo INSCOOP, nos termos previstos por lei, fica dependente ainda da verificação da natureza agrícola da cooperativa.
+
+2 - Para efeito do estabelecido no número anterior, as cooperativas agrícolas devem entregar nos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas todos os elementos referentes aos actos de constituição e de alteração dos estatutos.
+
+3 - A emissão do certificado previsto no n.º 1 é da competência do director-geral de Desenvolvimento Rural.
+
+4 - A certificação como cooperativa agrícola para os fins específicos referidos no n.º 1 deste artigo, considera-se efectiva se o contrário não for comunicado à requerente no prazo de 60 dias a contar da data de recepção do pedido nos serviços regionais.
+
+###### Artigo 24.º — Revogação
+
+É revogado o Decreto-Lei n.º 394/82, de 21 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 6 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 30 de Julho de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 12 de Agosto de 1999.
+
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
+
+## Anexo — Mapa a que se refere o artigo 11.º
+
+Total do balanço - 1500000 euros.
+
+Total das vendas líquidas e outros proveitos - 3000000 de euros.
+
+Número de trabalhadores empregados, em média, durante o exercício - 50.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 23/2001 - Diário da República n.º 25/2001, Série I-A de 2001-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2001-315154), em vigor a partir de 2001-02-04

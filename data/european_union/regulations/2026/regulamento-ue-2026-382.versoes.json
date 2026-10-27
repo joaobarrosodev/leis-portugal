@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0382:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0382-20260218",
+ "dre_path": null,
+ "source_lastmod": "2026-02-18",
+ "versions": [
+  {
+   "date": "2026-02-18",
+   "future": false,
+   "celex": "02026R0382-20260218",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "342e418e480cbf15",
+    "37a737f270b13365",
+    "7dcdd0df9dbde404",
+    "a52a57cd137fa118",
+    "f614980ce746d42e"
+   ]
+  }
+ ],
+ "fragments": {
+  "342e418e480cbf15": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de fevereiro de 2026\n\nque altera o Regulamento (CE) n.º 1186/2009 no que diz respeito à eliminação da franquia aduaneira com base em limiares"
+  },
+  "37a737f270b13365": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO título II, capítulo V, do Regulamento (CE) n.º 1186/2009 é suprimido."
+  },
+  "7dcdd0df9dbde404": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nDe 1 de julho de 2026 a 1 de julho de 2028, é aplicável um direito aduaneiro de 3 EUR por adição numa remessa cujo valor intrínseco não exceda um total de 150 EUR, em vez da franquia eliminada nos termos do artigo 1.º do presente regulamento, sempre que:\n\na) a importação das mercadorias esteja isenta de IVA nos termos da alínea c-A) do artigo 143.º, n.º 1, da Diretiva 2006/112/CE; ou\n\nb) as mercadorias estejam numa remessa postal na aceção do artigo 1.º, n.º 24, do Regulamento Delegado (UE) 2015/2446."
+  },
+  "a52a57cd137fa118": {
+   "fragment_id": "Artigo 3.",
+   "type": "artigo",
+   "heading": "Artigo 3.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.\n\n1. Até 1 de outubro de 2026 e, posteriormente, todos os meses, a Comissão avalia se se verificam desvios dos fluxos comerciais. Se a Comissão determinar que ocorreu um desvio dos fluxos comerciais, deve apresentar, se adequado, uma proposta de medida transitória nos termos do artigo 2.º, a fim de abranger todas as mercadorias em remessa cujo valor intrínseco não exceda um total de 150 EUR.\n\n2. Até 1 de dezembro de 2027, a Comissão avalia se é realista prever que, o mais tardar em 1 de julho de 2028, esteja operacional uma nova infraestrutura informática centralizada da União para cobrar direitos de importação sobre remessas vendidas à distância. Se a Comissão considerar que a infraestrutura não estará operacional nessa data, deve apresentar, se adequado, uma proposta de prorrogação da medida transitória prevista no artigo 2.º."
+  },
+  "f614980ce746d42e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de julho de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  }
+ }
+}

@@ -1,0 +1,503 @@
+---
+schema_version: '1.0'
+id: pt:dre:681994:por
+title: Despacho Normativo n.º 126/80
+short_title: null
+summary: Aprova as regras de primeiro provimento dos lugares do quadro da Direcção-Geral das Construções Hospitalares
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Habitação e Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: 126/80
+official_date: null
+publication_date: '1980-04-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 88/1980, Série I de 1980-04-15
+  number: '88'
+  series: I
+  supplement: null
+  pages: 742 - 747
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/04/08800/07420747.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '681994'
+  dre_path: /dr/detalhe/despacho-normativo/126-1980-681994
+  internal: pt:dre:681994:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/126-1980-681994
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/126-1980-681994
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4eb9ec5858b123b9c718d0dc028a72202c5451455e238b9d53eac5870bc30d88
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral das Construções Hospitalares
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:453254:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:157036:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:59:18Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 126/80
+
+Ao abrigo do n.º 2 do artigo 40.º do [Decreto-Lei n.º 519-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-z-1979-157036), de 29 de Dezembro, determino, sob proposta da Direcção-Geral das Construções Hospitalares, que, no primeiro preenchimento dos lugares do quadro de pessoal da referida Direcção-Geral, sejam observadas as seguintes regras:
+
+Regras gerais
+
+1 - A integração no novo quadro da Direcção-Geral das Construções Hospitalares, com excepção dos lugares de pessoal dirigente e de chefia, será efectuada pela ordem de prioridades definida no artigo 39.º do [Decreto-Lei n.º 519-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-z-1979-157036), de 29 de Dezembro:
+
+1.1 - Relativamente ao pessoal do quadro atender-se-á à seguinte ordenação:
+
+1.1.1 - Pela ordem do último concurso de promoção, ainda que este já tenha caducado;
+
+1.1.2 - Pela ordem da lista de antiguidades à data da publicação do [Decreto-Lei n.º 519-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-z-1979-157036), de 29 de Dezembro.
+
+1.2 - O restante pessoal será integrado de acordo com a ordem de prioridades definidas no artigo 39.º do [Decreto-Lei n.º 519-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-z-1979-157036), de 29 de Dezembro.
+
+2 - O tempo de serviço a considerar para efeitos de aplicação das presentes regras é o prestado ao Estado, na respectiva carreira ou em carreira de idêntico conteúdo funcional, independentemente do organismo em que o tenha sido.
+
+3 - O pessoal a integrar no novo quadro da Direcção-Geral das Construções Hospitalares será provido em princípio:
+
+3.1 - Na carreira e na categoria em que se encontre provido;
+
+3.2 - Em lugar do quadro de categoria equivalente à que possuir;
+
+3.3 - Em lugar que integre as funções efectivamente exercidas, independentemente da carreira a que estiver vinculado, sem prejuízo das habilitações literárias exigidas.
+
+4 - A integração em categoria superior à actual dependerá do mérito profissional do funcionário, avaliado através de informações de serviço, em obediência aos seguintes critérios:
+
+4.1 - Integração na categoria imediatamente superior:
+
+4.1.1 - Pessoal com, pelo menos, três anos de serviço na actual categoria e classificação de serviço de Bom;
+
+4.1.2 - Pessoal com um ano de serviço na actual categoria, mas com classificação de serviço mínima de Muito bom.
+
+4.2 - A título excepcional, poderá subir duas categorias relativamente à mais baixa da carreira o pessoal com, pelo menos, seis anos de serviço na actual categoria, correspondentes a uma normal progressão na carreira, desde que obtenha classificação de serviço de Muito bom.
+
+5 - A integração em carreira diferente daquela em que o funcionário se encontre provido só poderá observar-se para outra de idêntico conteúdo funcional ou para a qual tenha adquirido habilitações compatíveis e dependerá do mérito profissional avaliado através de informações de serviço com a classificação mínima de Bom.
+
+Regras especiais
+
+Sem prejuízo das regras gerais, atrás mencionadas, o provimento do pessoal obedecerá às normas a seguir indicadas:
+
+Pessoal dirigente
+
+1 - O primeiro provimento do lugar de chefe de repartição poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+1.1 - Pessoal habilitado com curso superior e experiência profissional adequados, mediante proposta fundamentada do director-geral;
+
+1.2 - Os chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria, mediante proposta fundamentada do director-geral.
+
+Pessoal técnico superior
+
+1 - O primeiro provimento no lugar de técnico superior principal poderá ser feito, dentro da respectiva carreira, de acordo com a prioridade aqui fixada, de entre:
+
+1.1 - O actual chefe da repartição dos serviços administrativos;
+
+1.2 - Os técnicos superiores principais não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.3 - Os técnicos superiores principais não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de tempo de serviço prestado na carreira;
+
+1.4 - Os técnicos superiores de 1.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente a uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.5 - Os técnicos superiores de 2.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente a uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.6 - Os técnicos superiores de 1.ª classe não providos noutro lugar, ainda que não possuam o tempo de serviço correspondente a uma normal progressão na carreira.
+
+2 - O primeiro provimento do lugar de técnico superior de 1.ª classe poderá ser feito dentro da respectiva carreira, de acordo com a prioridade aqui fixada, de entre:
+
+2.1 - Os actuais técnicos superiores de 1.ª classe não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+2.2 - Os actuais técnicos superiores de 1.ª classe não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+2.3 - Os actuais técnicos superiores de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira.
+
+3 - O primeiro provimento do lugar de técnico superior de 2.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+3.1 - Os actuais técnicos superiores de 2.ª classe não providos noutro lugar, pela ordem de tempo de serviço na carreira;
+
+3.2 - Pessoal de outras carreiras habilitado com a licenciatura em curso superior adequado à carreira de integração, pela ordem de tempo de serviço prestado na carreira de origem.
+
+Pessoal técnico
+
+1 - O primeiro provimento do lugar de técnico principal poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+1.1 - Os actuais técnicos principais não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.2 - Os actuais técnicos principais não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.3 - Os actuais técnicos de 1.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.4 - Os actuais técnicos de 2.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente a uma normal progressão de carreira, pela ordem de tempo de serviço prestado na carreira;
+
+1.5 - Os actuais técnicos de 1.ª classe não providos noutro lugar, ainda que não possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.6 - Pessoal de outras carreiras ou categorias com as habilitações legalmente exigidas e remunerado por letra não inferior a G.
+
+2 - O primeiro provimento do lugar de técnico de 1.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+2.1 - Os actuais técnicos de 1.ª classe não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+2.2 - Os actuais técnicos de 1.ª classe não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+2.3 - Os actuais técnicos de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço na carreira;
+
+2.4 - Pessoal de outras carreiras ou categorias com as habilitações legalmente exigidas e remunerado por letra não inferior a I.
+
+3 - O primeiro provimento do lugar de técnico de 2.ª classe poderá ser feito, de acordo a prioridade aqui fixada, de entre:
+
+3.1 - Os actuais técnicos de 2.ª classe não providos noutro lugar, pela ordem de tempo de serviço prestado na carreira;
+
+3.2 - Pessoal de outras carreiras ou categorias com as habilitações legalmente exigidas e adequadas à carreira de integração, pela ordem de tempo de serviço prestado na carreira de origem.
+
+Pessoal técnico profissional e administrativo
+
+1 - A presente designação engloba a categoria de chefe de secção e as carreiras de fiscal técnico de obras públicas, topógrafo, desenhador, medidor orçamentista, técnico auxiliar, oficial administrativo, escriturário-dactilógrafo e fiscal de obras públicas.
+
+2 - O primeiro provimento do lugar de chefe de secção será feito, de acordo com a prioridade aqui fixada, de entre:
+
+2.1 - Os actuais chefes de secção que não sejam providos noutro lugar;
+
+2.2 - Os primeiros-oficiais e técnicos auxiliares de 1.ª classe que desempenhem funções de chefia não providos noutro lugar;
+
+2.3 - Os primeiros-oficiais não providos noutro lugar, mediante proposta fundamentada do director-geral.
+
+3 - Carreira de fiscal técnico de obras públicas:
+
+3.1 - O primeiro provimento do lugar de fiscal técnico de obras públicas principal poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+3.1.1 - Os actuais fiscais técnicos de obras públicas principais não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.1.2 - Os actuais fiscais técnicos de obras públicas principais não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.1.3 - Os actuais fiscais técnicos de obras públicas de 1.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.1.4 - Os actuais fiscais técnicos de obras públicas de 2.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.1.5 - Os actuais fiscais técnicos de obras públicas de 1.ª classe não providos noutro lugar, ainda que não possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.1.6 - Pessoal de outras carreiras ou categorias com as habilitações legalmente exigidas para a integração na carreira e remunerado com letra não inferior a J.
+
+3.2 - O primeiro provimento do lugar de fiscal técnico de obras públicas de 1.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+3.2.1 - Os actuais fiscais técnicos de obras públicas de 1.ª classe não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.2.2 - Os actuais fiscais técnicos de obras públicas de 1.ª classe não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.2.3 - Os actuais fiscais técnicos de obras públicas de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.2.4 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado por letra não inferior a K.
+
+3.3 - O primeiro provimento do lugar de fiscal técnico de obras públicas de 2.ª classe poderá ser feito, de acordo com as prioridades aqui fixadas, de entre:
+
+3.3.1 - Os actuais fiscais técnicos de obras de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.3.2 - Pessoal de outras carreiras com as habilitações legalmente exigidas para a carreira de integração.
+
+4 - Carreira de topógrafo:
+
+Segue regras idênticas às previstas para a carreira de fiscais técnicos de obras públicas.
+
+5 - Carreira de desenhador:
+
+5.1 - O primeiro provimento do lugar de desenhador principal poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+5.1.1 - Os actuais desenhadores principais não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+5.1.2 - Os actuais desenhadores principais não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+5.1.3 - Os actuais desenhadores arquitectónicos;
+
+5.1.4 - Os actuais desenhadores de 1.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+5.1.5 - Os actuais desenhadores de 2.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de tempo de serviço prestado na carreira;
+
+5.1.6 - Os actuais desenhadores de 1.ª classe não providos noutro lugar, ainda que não possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+5.1.7 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado por letra não inferior a K.
+
+5.2 - O primeiro provimento do lugar de desenhador de 1.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+5.2.1 - Os actuais desenhadores de 1.ª classe não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+5.2.2 - Os actuais desenhadores de 1.ª classe não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+5.2.3 - Os actuais desenhadores de 2.ª classe que não sejam providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+5.2.4 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado por letra não inferior a L.
+
+5.3 - O primeiro provimento do lugar de desenhador de 2.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+5.3.1 - Os actuais desenhadores de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+5.3.2 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira.
+
+6 - Carreira de técnico auxiliar:
+
+6.1 - O primeiro provimento do lugar de técnico auxiliar principal poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+6.1.1 - Os actuais técnicos auxiliares principais não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.1.2 - Os actuais técnicos auxiliares principais não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.1.3 - Os actuais técnicos auxiliares de 1.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.1.4 - Os actuais técnicos auxiliares de 2.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.1.5 - Os actuais técnicos auxiliares de 1.ª classe não providos noutro lugar, ainda que não possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.1.6 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado com letra não inferior a K.
+
+6.2 - O primeiro provimento do lugar de técnico auxiliar de 1.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+6.2.1 - Os actuais técnicos auxiliares de 1.ª classe não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.2.2 - Os actuais técnicos auxiliares de 1.ª classe não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.2.3 - Os actuais técnicos auxiliares de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.2.4 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado por letra não inferior a L.
+
+6.3 - O primeiro provimento do lugar de técnico auxiliar de 2.ª classe poderá ser feito, de acordo com as prioridades aqui fixadas, de entre:
+
+6.3.1 - Os actuais técnicos auxiliares de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+6.3.2 - Pessoal de outras carreiras com as habilitações legalmente exigidas para a carreira de integração.
+
+7 - Carreira de medidores orçamentistas:
+
+Segue regras idênticas às previstas para a carreira de técnicos auxiliares.
+
+8 - Carreira de oficiais administrativos:
+
+8.1 - O primeiro provimento do lugar de primeiro-oficial poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+8.1.1 - Os actuais primeiros-oficiais não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.1.2 - Os actuais primeiros-oficiais não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.1.3 - Os actuais segundos-oficiais aprovados em concurso válido à data de publicação do [Decreto-Lei n.º 519-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-z-1979-157036), pela ordem de posição quanto à classificação nele obtida;
+
+8.1.4 - Os actuais segundos-oficiais não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.1.5 - Os actuais terceiros-oficiais não providos noutro lugar, desde que possuam o tempo de serviço exigido para uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.1.6 - Os actuais segundos-oficiais não providos noutro lugar, ainda que não possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.1.7 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado com letra não inferior a K.
+
+8.2 - O primeiro provimento do lugar de segundo-oficial poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+8.2.1 - Os actuais segundos-oficiais não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.2.2 - Os actuais terceiros-oficiais não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.2.3 - Os actuais terceiros-oficiais não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.2.4 - Os actuais escriturários-dactilógrafos não providos noutro lugar, com, pelo menos, seis anos de serviço na categoria e as habilitações legalmente exigidas, pela ordem de posição quanto ao tempo de serviço prestado;
+
+8.2.5 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado por letra não inferior a L.
+
+8.3 - O primeiro provimento do lugar de terceiro-oficial poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+8.3.1 - Os actuais terceiros-oficiais não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+8.3.2 - Os actuais escriturários-dactilógrafos não providos noutro lugar, com, pelo menos, três anos de serviço na carreira e as habilitações legalmente exigidas, pela ordem de posição quanto ao tempo de serviço prestado;
+
+8.3.3 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira.
+
+9 - Carreira de escriturário-dactilógrafo:
+
+9.1 - O primeiro provimento do lugar de escriturário-dactilógrafo principal poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+9.1.1 - Os actuais escriturários-dactilógrafos principais não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+9.1.2 - O auxiliar de 1.ª classe de arquivo e estatística.
+
+9.2 - O primeiro provimento do lugar de escriturário-dactilógrafo de 1.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+9.2.1 - Os actuais escriturários-dactilógrafos de 1.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+9.2.2 - Os actuais escriturários-dactilógrafos não providos noutro lugar, com, pelo menos, cinco anos na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira.
+
+9.3 - O primeiro provimento do lugar de escriturário-dactilógrafo de 2.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+9.3.1 - Os actuais escriturários-dactilógrafos não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+9.3.2 - O actual pessoal auxiliar com a escolaridade mínima obrigatória, conforme a idade, mediante prestação de provas práticas e de acordo com a ordem de classificação respectiva.
+
+10 - Carreira de fiscal de obras públicas:
+
+10.1 - O primeiro provimento do lugar de fiscal de obras públicas principal poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+10.1.1 - Os actuais fiscais de obras públicas principais não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.1.2 - Os actuais fiscais de obras públicas principais não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.1.3 - Os actuais fiscais de obras públicas de 1.ª classe não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.1.4 - Os actuais fiscais de obras públicas de 2.ª classe não providos noutro lugar, desde que possuam o tempo de serviço exigido para uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.1.5 - Os actuais fiscais de obras públicas de 1.ª classe não providos noutro lugar, ainda que não possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.1.6 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado com letra não inferior a O.
+
+10.2 - O primeiro provimento do lugar de fiscal de obras públicas de 1.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+10.2.1 - Os actuais fiscais de obras públicas de 1.ª classe não providos noutro lugar, desde que tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.2.2 - Os actuais fiscais de obras públicas de 1.ª classe não providos noutro lugar, ainda que não tenham ingressado em categoria igual ou inferior à de entrada, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.2.3 - Os actuais fiscais de obras públicas de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.2.4 - Os actuais fiscais de obras públicas auxiliares não providos noutro lugar, desde que possuam o tempo de serviço correspondente ao de uma normal progressão na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.2.5 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira e remunerado por letra não inferior a P.
+
+10.3 - O primeiro provimento do lugar de fiscal de obras públicas de 2.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+10.3.1 - Os actuais fiscais de obras públicas de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.3.2 - Os actuais fiscais de obras públicas auxiliares não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.3.3 - Pessoal de outras carreiras com as habilitações legalmente exigidas para a carreira de integração e remunerado por letra não inferior a Q.
+
+10.4 - O primeiro provimento do lugar de fiscal de obras públicas auxiliar poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+10.4.1 - Os actuais fiscais de obras públicas auxiliares não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+10.4.2 - Pessoal de outras carreiras com as habilitações legalmente exigidas para integração na carreira.
+
+Pessoal auxiliar
+
+1 - Carreira de operador de reprografia:
+
+1.1 - O primeiro provimento do lugar de operador de reprografia principal poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+1.1.1 - Os actuais operadores de reprografia principais não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.1.2 - Pessoal de outras carreiras não provido noutro lugar, com mais de seis anos de prática comprovada, pela ordem de posição quanto ao tempo de serviço prestado em efectividade de funções, mediante proposta fundamentada do director-geral.
+
+1.2 - O primeiro provimento do lugar de operador de reprografia de 1.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+1.2.1 - Os actuais operadores de reprografia de 1.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.2.2 - Pessoal de outras carreiras não provido outro lugar, com mais de três anos de prática comprovada, pela ordem de posição quanto ao tempo de serviço prestado em efectividade de funções, mediante proposta fundamentada do director-geral.
+
+1.3 - O primeiro provimento do lugar de operador de reprografia de 2.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+1.3.1 - Os actuais operadores de reprografia de 2.ª classe não providos noutros lugares, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+1.3.2 - Pessoal de outras carreiras não provido noutro lugar, com menos de três anos de prática comprovada, pela ordem de tempo de serviço prestado em efectividade de funções, mediante proposta fundamentada do director-geral;
+
+1.3.3 - Pessoal de outras carreiras não provido noutro lugar, remunerado por letra igual ou inferior a T, com a escolaridade mínima obrigatória, consoante a idade, mediante proposta do director-geral.
+
+2 - Carreira de telefonista:
+
+2.1 - O primeiro provimento do lugar de telefonista principal poderá ser feito, de entre:
+
+2.1.1 - Os actuais telefonistas principais não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira.
+
+2.2 - O primeiro provimento do lugar de telefonista de 1.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+2.2.1 - Os actuais telefonistas de 1.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+2.2.2 - Os actuais telefonistas não providos noutro lugar, com, pelo menos, cinco anos na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira.
+
+2.3 - O primeiro provimento do lugar de telefonista de 2.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+2.3.1 - Os actuais telefonistas não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+2.3.2 - O actual pessoal auxiliar com a escolaridade mínima obrigatória, conforme a idade, mediante prestação de provas práticas e de acordo com a ordem de classificação respectiva.
+
+3 - Carreira de motorista de ligeiros:
+
+3.1 - O primeiro provimento do lugar de motorista de ligeiros de 1.ª classe poderá ser feito, de entre:
+
+3.1.1 - Os actuais motoristas de ligeiros de 1.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+3.1.2 - Os actuais motoristas de ligeiros de 2.ª classe não providos noutro lugar, com, pelo menos, cinco anos de serviço na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira.
+
+3.2 - O primeiro provimento do lugar de motorista de ligeiros de 2.ª classe poderá ser feito, de acordo com a prioridade aqui fixada, de entre:
+
+3.2.1 - Os actuais motoristas de ligeiros de 2.ª classe não providos noutro lugar, pela ordem de tempo de serviço prestado na carreira;
+
+3.2.2 - Pessoal de outras carreiras não provido noutro lugar, com a escolaridade obrigatória, segundo a idade, remunerado por letra igual ou inferior a S, com carta de condução profissional de automóveis ligeiros, mediante proposta do director-geral.
+
+4 - Carreira de contínuo:
+
+4.1 - O primeiro provimento do lugar de contínuo de 1.ª classe poderá ser feito, de entre:
+
+4.1.1 - Os actuais contínuos de 1.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira;
+
+4.1.2 - Os actuais contínuos não providos noutro lugar, com, pelo menos, cinco anos na carreira, pela ordem de posição quanto ao tempo de serviço prestado na carreira.
+
+4.2 - O primeiro provimento do lugar de contínuo de 2.ª classe poderá ser feito, de entre:
+
+4.2.1 - Os actuais contínuos de 2.ª classe não providos noutro lugar, pela ordem de posição quanto ao tempo de serviço prestado na carreira.
+
+5 - Carreira de auxiliar de limpeza:
+
+5.1 - O primeiro provimento do lugar de auxiliar de limpeza poderá ser feito de entre o pessoal que exerça essas funções, pela ordem de posição quanto ao tempo de exercício respectivo.
+
+As presentes regras não são aplicáveis à categoria de assessor, cujo primeiro provimento será objecto de normas específicas a aprovar pelo Ministro da Habitação e Obras Públicas e pelo Secretário de Estado da Reforma Administrativa.
+
+Ministério da Habitação e Obras Públicas, 10 de Março de 1980. - O Ministro da Habitação e Obras Públicas, João Lopes Porto.

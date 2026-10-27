@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:3168433:por
+title: Portaria n.º 394/2006 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Exército - Comando do Pessoal - Direcção de Administração e Mobilização do Pessoal - Repartição
+  de Pessoal Militar Não Permanente
+proposing_entity: null
+official_number: 394/2006 (2.ª série)
+official_date: null
+publication_date: '2006-02-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2006, Série II de 2006-02-21
+  number: '37'
+  series: II
+  supplement: null
+  pages: 2515 - 2515
+  pdf_url: https://files.diariodarepublica.pt/2s/2006/02/037000000/0251502515.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3168433'
+  dre_path: /dr/detalhe/portaria/394-2006-3168433
+  internal: pt:dre:3168433:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-2006-3168433
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/394-2006-3168433
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0a974059365c616b4325e8edfa40b7bb8b2f730fb7b550e06f7191aff282d781
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:02:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:02:33Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 394/2006 (2.ª série)
+
+Portaria n.º 394/2006 (2.ª série). - Manda o Chefe do Estado-Maior do Exército promover ao posto de tenente desde 3 de Janeiro de 2006, nos termos da alínea a) do n.º 1 do artigo 305.º do EMFAR, contando a antiguidade e efeitos administrativos desde a mesma data, os alferes em seguida mencionados:
+
+ALF I atirador RC 00841200, Bruno Miguel Rodrigues Pedrão.
+
+ALF SP programador RC 04315297, Hugo Miguel Fernandes Ribeiro.
+
+ALF AM intendência RC 19376900, Isabel Maria Lucas Guedes da Silva.
+
+ALF C PE RC 18106300, João Carlos Batista Ouro.
+
+ALF SM tecn. man. mat. auto. RC 06257899, José Aníbal Fernandes Martins.
+
+ALF SP programador RC 00298898, Paulo José Pires Lopes dos Santos Branco.
+
+ALF C PE RC 02129395, Pedro Alexandre Duarte Lázaro.
+
+3 de Fevereiro de 2006. - Por subsubdelegação do Major-General DAMP, após subdelegação do Tenente-General AGE, por delegação do General CEME, o Chefe da Repartição, José Manuel P. Esperança da Silva, COR INF.

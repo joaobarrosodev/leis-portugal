@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145188:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-73924433",
+ "dre_path": "/dr/detalhe/portaria/315-2011-145188",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901966218",
+    "73921792",
+    "73921793",
+    "73921794",
+    "73921795",
+    "73921796"
+   ]
+  },
+  {
+   "date": "2016-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73908228:por",
+     "title": "Portaria n.º 47/2016",
+     "published": "2016-03-21",
+     "dre_path": "/dr/detalhe/portaria/47-2016-73908228"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "73921791",
+    "73921824",
+    "73921793",
+    "73921794",
+    "73921795",
+    "73921796",
+    "73921797"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901661935:por",
+     "title": "Portaria n.º 372/2024/1",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/portaria/372-2024-901661935"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "901966218",
+    "901966219",
+    "901966220",
+    "901966221",
+    "901966222",
+    "901966223",
+    "901966224"
+   ]
+  }
+ ],
+ "fragments": {
+  "901966218": {
+   "fragment_id": "73924434",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-01-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 315/2011\n\nde 29 de Dezembro\n\nAs raias são um importante recurso capturado essencialmente pela frota artesanal que utiliza redes de tresmalho, na costa continental portuguesa.\n\nAlgumas preocupações com o estado destes recursos levaram a União Europeia e interditar a captura de algumas espécies e a fixar um Total Admissível de Captura em águas comunitárias.\n\nTendo em conta que o Instituto Nacional de Recursos Biológicos, L- IPIMAR emitiu um parecer positivo relativamente à proposta de interditar a pesca das raias no mês de Maio, considerando que esta medida, ao permitir reduzir o esforço de pesca sobre estes recursos, contribui para aumentar a probabilidade de auto-renovação das espécies de raias que ocorrem na costa continental, cuja devolução ao mar apresenta boas taxas de sobrevivência, estabelece-se agora a interdição da captura das espécies vulgarmente designadas por raias, por todas as artes, durante o referido mês.\n\nPor outro lado, tendo a Portaria n.º 983/2009, de 3 de Setembro, estabelecido a interdição de captura de tamboril com redes de emalhar e de tresmalho durante os meses de Janeiro e Fevereiro, excepto a título acessório, no âmbito da consulta realizada ao sector, verificou-se que seria aconselhável alargar essa proibição a todas as artes, melhorando a eficácia da medida.\n\nAproveita-se, ainda, a oportunidade para revogar certas restrições à captura de espécies de profundidade, que se tornaram obsoletas face à recente proibição, a nível da União Europeia, da descarga de certas espécies de tubarões de profundidade a partir de 2012.\n\nAssim:\n\nAo abrigo do disposto no artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território no despacho n.º 12 412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de Setembro de 2011:\n\nManda o Governo, pelo Secretário de Estado do Mar, o seguinte:"
+  },
+  "73921792": {
+   "fragment_id": "73924435",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição da pesca de raias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Proibição da pesca de raias\n\nA captura, a manutenção a bordo e a descarga de raias das espécies Raja spp. e Leucoraja spp., independentemente da arte utilizada, não é permitida durante o mês de Maio na subárea do continente da Zona Económica Exclusiva, excepto como captura acessória, não podendo o peso destas ser superior a 5 % do total das capturas mantidas a bordo e descarregadas."
+  },
+  "73921793": {
+   "fragment_id": "73924436",
+   "type": 11,
+   "heading": "Artigo 2.º — Proibição da pesca de tamboril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Proibição da pesca de tamboril\n\nA captura, a manutenção a bordo e a descarga de tamboril (Lophius spp), independentemente da arte utilizada, não é permitida durante os meses de Janeiro e Fevereiro na subárea do continente da Zona Económica Exclusiva, excepto como captura acessória, não podendo o peso deste ser superior 3 % do total das capturas mantidas a bordo e descarregadas."
+  },
+  "73921794": {
+   "fragment_id": "73924437",
+   "type": 11,
+   "heading": "Artigo 3.º — Comunicação e Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comunicação e Acompanhamento\n\nPara efeitos de acompanhamento das medidas, a Docapesca - Portos e Lotas, S. A. comunica semanalmente à Direcção-Geral das Pescas e Aquicultura as vendas de raias e de tamboril, por embarcação e porto de descarga."
+  },
+  "73921795": {
+   "fragment_id": "73924438",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nSão revogados:\n\na) A Portaria n.º 848/2007, de 7 de Agosto, na redacção dada pela Portaria n.º 34/2008, de 11 de Janeiro;\n\nb) O n.º 3 do artigo 9.º do Regulamento da Pesca por Arte de Emalhar, aprovado pela Portaria n º 1102-H/2000, de 22 de Novembro, na redacção dada pela Portaria n.º 983/2009, de 3 de Setembro."
+  },
+  "73921796": {
+   "fragment_id": "73924439",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de Janeiro de 2012."
+  },
+  "73921791": {
+   "fragment_id": "73924434",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 315/2011\n\nde 29 de Dezembro\n\nAs raias são um importante recurso capturado essencialmente pela frota artesanal que utiliza redes de tresmalho, na costa continental portuguesa.\n\nAlgumas preocupações com o estado destes recursos levaram a União Europeia e interditar a captura de algumas espécies e a fixar um Total Admissível de Captura em águas comunitárias.\n\nTendo em conta que o Instituto Nacional de Recursos Biológicos, L- IPIMAR emitiu um parecer positivo relativamente à proposta de interditar a pesca das raias no mês de Maio, considerando que esta medida, ao permitir reduzir o esforço de pesca sobre estes recursos, contribui para aumentar a probabilidade de auto-renovação das espécies de raias que ocorrem na costa continental, cuja devolução ao mar apresenta boas taxas de sobrevivência, estabelece-se agora a interdição da captura das espécies vulgarmente designadas por raias, por todas as artes, durante o referido mês.\n\nPor outro lado, tendo a Portaria n.º 983/2009, de 3 de Setembro, estabelecido a interdição de captura de tamboril com redes de emalhar e de tresmalho durante os meses de Janeiro e Fevereiro, excepto a título acessório, no âmbito da consulta realizada ao sector, verificou-se que seria aconselhável alargar essa proibição a todas as artes, melhorando a eficácia da medida.\n\nAproveita-se, ainda, a oportunidade para revogar certas restrições à captura de espécies de profundidade, que se tornaram obsoletas face à recente proibição, a nível da União Europeia, da descarga de certas espécies de tubarões de profundidade a partir de 2012.\n\nAssim:\n\nAo abrigo do disposto no artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território no despacho n.º 12 412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de Setembro de 2011:\n\nManda o Governo, pelo Secretário de Estado do Mar, o seguinte:"
+  },
+  "73921824": {
+   "fragment_id": "73924435",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição da pesca de raias",
+   "in_force_from": "2016-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2016 - Diário da República n.º 56/2016, Série I de 2016-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/47-2016-73908228), em vigor a partir de 2016-03-22"
+   ],
+   "markdown": "###### Artigo 1.º — Proibição da pesca de raias\n\nA captura, a manutenção a bordo e a descarga de raias das espécies Raja spp. e Leucoraja spp., independentemente da arte utilizada, não é permitida durante os meses de maio e junho, na subárea do continente da Zona Económica Exclusiva, exceto como captura acessória, não podendo o peso destas ser superior a 5 % do total das capturas mantidas a bordo e descarregadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2016 - Diário da República n.º 56/2016, Série I de 2016-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/47-2016-73908228), em vigor a partir de 2016-03-22"
+  },
+  "73921797": {
+   "fragment_id": "73924440",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 22 de Dezembro de 2011."
+  },
+  "901966219": {
+   "fragment_id": "73924435",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição da pesca de raias",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2016 - Diário da República n.º 56/2016, Série I de 2016-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/47-2016-73908228), em vigor a partir de 2016-03-22"
+   ],
+   "markdown": "###### Artigo 1.º — Proibição da pesca de raias\n\nA captura, a manutenção a bordo e a descarga de raias das espécies Raja spp. e Leucoraja spp., independentemente da arte utilizada, não é permitida durante os meses de maio e junho, na subárea do continente da Zona Económica Exclusiva, exceto como captura acessória, não podendo o peso destas ser superior a 5 % do total das capturas mantidas a bordo e descarregadas.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2016 - Diário da República n.º 56/2016, Série I de 2016-03-21](https://diariodarepublica.pt/dr/detalhe/portaria/47-2016-73908228), em vigor a partir de 2016-03-22"
+  },
+  "901966220": {
+   "fragment_id": "73924436",
+   "type": 11,
+   "heading": "Artigo 2.º — Proibição da pesca de tamboril",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Proibição da pesca de tamboril\n\nA captura, a manutenção a bordo e a descarga de tamboril (Lophius spp), independentemente da arte utilizada, não é permitida durante os meses de Janeiro e Fevereiro na subárea do continente da Zona Económica Exclusiva, excepto como captura acessória, não podendo o peso deste ser superior 3 % do total das capturas mantidas a bordo e descarregadas.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+  },
+  "901966221": {
+   "fragment_id": "73924437",
+   "type": 11,
+   "heading": "Artigo 3.º — Comunicação e Acompanhamento",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Comunicação e Acompanhamento\n\nPara efeitos de acompanhamento das medidas, a Docapesca - Portos e Lotas, S. A. comunica semanalmente à Direcção-Geral das Pescas e Aquicultura as vendas de raias e de tamboril, por embarcação e porto de descarga.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+  },
+  "901966222": {
+   "fragment_id": "73924438",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nSão revogados:\n\na) A Portaria n.º 848/2007, de 7 de Agosto, na redacção dada pela Portaria n.º 34/2008, de 11 de Janeiro;\n\nb) O n.º 3 do artigo 9.º do Regulamento da Pesca por Arte de Emalhar, aprovado pela Portaria n º 1102-H/2000, de 22 de Novembro, na redacção dada pela Portaria n.º 983/2009, de 3 de Setembro.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+  },
+  "901966223": {
+   "fragment_id": "73924439",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de Janeiro de 2012.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+  },
+  "901966224": {
+   "fragment_id": "73924440",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 22 de Dezembro de 2011.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 372/2024/1 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/372-2024-901661935), em vigor a partir de 2025-01-01"
+  }
+ }
+}

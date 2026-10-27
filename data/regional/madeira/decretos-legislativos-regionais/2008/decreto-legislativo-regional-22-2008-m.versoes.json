@@ -1,0 +1,511 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:449948:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-148707524",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/22-2008-449948",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-06-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "148707785",
+    "148707786",
+    "148707787",
+    "148707788",
+    "148707789",
+    "148707790",
+    "148707791",
+    "148707793",
+    "148707794",
+    "148707795",
+    "148707796",
+    "148707797",
+    "148707798",
+    "148707799",
+    "148707800",
+    "148707801",
+    "148707802",
+    "148707803",
+    "148707804",
+    "148707805",
+    "148707806",
+    "148707807"
+   ]
+  },
+  {
+   "date": "2011-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:287142:por",
+     "title": "Decreto Legislativo Regional n.º 10/2011/M",
+     "published": "2011-04-27",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/10-2011-287142"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "148707785",
+    "148707786",
+    "148707787",
+    "148707788",
+    "148707789",
+    "148707790",
+    "148707791",
+    "148707792",
+    "148707793",
+    "148707794",
+    "148707795",
+    "148707796",
+    "148707797",
+    "148707798",
+    "148707799",
+    "148707800",
+    "148707801",
+    "148707812",
+    "148707803",
+    "148707804",
+    "148707805",
+    "148707806",
+    "148707807"
+   ]
+  },
+  {
+   "date": "2012-07-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179569:por",
+     "title": "Decreto Legislativo Regional n.º 14/2012/M",
+     "published": "2012-07-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/14-2012-179569"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "148707785",
+    "148707786",
+    "148707787",
+    "148707788",
+    "148707789",
+    "148707790",
+    "148707791",
+    "148707792",
+    "148707793",
+    "148707837",
+    "148707795",
+    "148707838",
+    "148707839",
+    "148707840",
+    "148707841",
+    "148707842",
+    "148707801",
+    "148707812",
+    "148707803",
+    "148707804",
+    "148707843",
+    "148707806",
+    "148707807"
+   ]
+  },
+  {
+   "date": "2020-11-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:148599587:por",
+     "title": "Decreto Legislativo Regional n.º 15/2020/M",
+     "published": "2020-11-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2020-148599587"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "148707785",
+    "148707786",
+    "148707787",
+    "148707788",
+    "148707789",
+    "148707790",
+    "148707791",
+    "148707792",
+    "148707793",
+    "148707844",
+    "148707795",
+    "148707845",
+    "148707839",
+    "148707846",
+    "148707847",
+    "148707842",
+    "148707848",
+    "148707812",
+    "148707803",
+    "148707804",
+    "148707843",
+    "148707849",
+    "148707850"
+   ]
+  }
+ ],
+ "fragments": {
+  "148707785": {
+   "fragment_id": "148707525",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 22/2008/M\n\nCria o Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, e aprova a respectiva orgânica\n\nA orgânica da Secretaria Regional dos Assuntos Sociais, aprovada pelo Decreto Regulamentar Regional n.º 7/2007/M, de 8 de Novembro, prevê a criação da Direcção Regional da Saúde e Assuntos Sociais como organismo a dotar de personalidade jurídica e autonomia administrativa, financeira e patrimonial, que integrará as atribuições da Direcção Regional de Gestão e Desenvolvimento dos Recursos, da Direcção Regional de Planeamento e Saúde Pública e do Serviço Regional de Prevenção da Toxicodependência, os quais serão extintos.\n\nEste novo diploma orgânico representa um esforço acentuado de racionalização estrutural ditado por razões de modernização e simplificação administrativa e de melhoria da qualidade dos serviços, com ganhos de eficiência, no quadro de uma reformulação mais vasta que importa operar no âmbito do Serviço Regional de Saúde.\n\nCom a entrada em vigor do Decreto Legislativo Regional n.º 17/2007/M, de 12 de Novembro, o referido organismo a criar adoptará a denominação Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM.\n\nAssim, e avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura, importa plasmar em diploma com a natureza formal constitucionalmente exigida, a criação do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, como organismo da administração indirecta da Região, com funções de administração dos recursos humanos, materiais e financeiros do Serviço Regional de Saúde e dos serviços da administração directa e indirecta da SRAS e de definição e implementação de políticas, normalização, regulamentação, planeamento e avaliação em saúde.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea i) do n.º 1 do artigo 37.º, na alínea qq) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e no n.º 2 do artigo 29.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de Novembro, o seguinte:"
+  },
+  "148707786": {
+   "fragment_id": "148707526",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto legislativo regional cria o Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, e aprova a respectiva orgânica, em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "148707787": {
+   "fragment_id": "148707527",
+   "type": 11,
+   "heading": "Artigo 2.º — Serviços extintos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Serviços extintos\n\n1 - São extintos a Direcção Regional de Gestão e Desenvolvimento dos Recursos, a Direcção Regional de Planeamento e Saúde Pública e o Serviço Regional de Prevenção da Toxicodependência, sucedendo o Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, em todos os seus direitos e obrigações.\n\n2 - As referências legais feitas aos serviços extintos consideram-se feitas ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM."
+  },
+  "148707788": {
+   "fragment_id": "148707528",
+   "type": 11,
+   "heading": "Artigo 3.º — Transição de pessoal, concursos pendentes e estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transição de pessoal, concursos pendentes e estágios\n\n1 - O pessoal do quadro dos serviços extintos transita para o Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, mantendo-se o respectivo regime de origem e os correspondentes quadros de pessoal, como regime transitório, sendo os respectivos lugares extintos à medida que vagarem, nos termos da lei.\n\n2 - Os concursos pendentes e os estágios em curso nos serviços extintos mantêm-se válidos, sendo os candidatos providos, de acordo com o regime previsto na abertura de concurso, nos lugares dos quadros a que se refere o número anterior."
+  },
+  "148707789": {
+   "fragment_id": "148707529",
+   "type": 11,
+   "heading": "Artigo 4.º — Laboratório de Saúde Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Laboratório de Saúde Pública\n\n1 - O Laboratório de Saúde Pública, a que se refere o artigo 1.º, n.º 1, do regime e orgânica do Serviço Regional de Saúde, aprovado pelo Decreto Legislativo Regional n.º 9/2003/M, de 27 de Maio, passa a integrar o Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM.\n\n2 - O pessoal em exercício de funções no Laboratório de Saúde Pública, à data de entrada em vigor do presente diploma, em regime de direito público ou privado, transita para o Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, com a mesma categoria e remuneração, através de lista nominativa a aprovar por despacho do Secretário Regional dos Assuntos Sociais, considerando-se para o efeito automaticamente criado o número de lugares correspondente no quadro de pessoal em regime transitório ou mapa de pessoal respectivo."
+  },
+  "148707790": {
+   "fragment_id": "148707530",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSem prejuízo do disposto nos artigos anteriores, são revogados o Decreto Legislativo Regional n.º 27/2003/M, de 22 de Novembro, o Decreto Regulamentar Regional n.º 9/2002/M, de 25 de Junho, alterado pelo Decreto Regulamentar Regional n.º 4/2007/M, de 15 de Fevereiro, e o Decreto Regulamentar Regional n.º 20/2003/M, de 20 de Agosto, e todas as disposições legislativas e regulamentares regionais que contrariem o disposto no presente diploma."
+  },
+  "148707791": {
+   "fragment_id": "148707531",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor sete dias após a data da sua publicação."
+  },
+  "148707793": {
+   "fragment_id": "148707533",
+   "type": 14,
+   "heading": "Anexo — Orgânica do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Orgânica do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM"
+  },
+  "148707794": {
+   "fragment_id": "148707534",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, abreviadamente designado por IASAÚDE, IP-RAM, é um instituto público integrado na administração indirecta da Região, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IASAÚDE, IP-RAM, prossegue atribuições da Secretaria Regional dos Assuntos Sociais, sob superintendência e tutela do respectivo Secretário Regional.\n\n3 - O IASAÚDE, IP-RAM, rege-se pelo disposto no presente diploma e pelas normas aplicáveis do regime jurídico dos institutos públicos."
+  },
+  "148707795": {
+   "fragment_id": "148707535",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\nO IASAÚDE, IP-RAM, é um organismo com jurisdição sobre todo o território da Região e tem sede no Funchal."
+  },
+  "148707796": {
+   "fragment_id": "148707536",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IASAÚDE, IP-RAM, tem por missão proceder à definição e implementação de políticas, normalização, regulamentação, planeamento e avaliação em saúde, bem como assegurar a gestão dos recursos humanos e financeiros, da formação profissional, das instalações e equipamentos, dos sistemas e tecnologias de informação do Serviço Regional de Saúde e dos serviços da administração directa e indirecta, no domínio da SRAS.\n\n2 - Compete, em especial, ao IASAÚDE, IP-RAM:\n\na) Garantir o apoio técnico à formulação de políticas e ao planeamento estratégico da saúde, acompanhar e avaliar a execução das políticas, dos instrumentos de planeamento e dos resultados obtidos e impulsionar a procura de ganhos em saúde;\n\nb) Assegurar a elaboração, acompanhamento e avaliação do Plano Regional de Saúde, incrementando a sua execução em todo o Sistema Regional de Saúde;\n\nc) Regulamentar, orientar e coordenar as actividades de promoção da saúde e de prevenção e controlo da doença, assegurando o acesso à prestação de cuidados de saúde de qualidade, pela adequação dos recursos disponíveis às necessidades em saúde;\n\nd) Desenvolver e fomentar actividades no âmbito da saúde pública, de forma a garantir a protecção da saúde das populações e coordenar e assegurar a vigilância epidemiológica a nível regional, bem como dos sistemas de alerta e resposta apropriada;\n\ne) Assegurar o desenvolvimento de programas de saúde e fomentar e coordenar a produção de informação adequada, designadamente estatística, em articulação com os demais serviços da SRAS;\n\nf) Planear, coordenar e monitorizar a gestão dos recursos humanos do Serviço Regional de Saúde e dos serviços da administração directa e indirecta, no domínio da SRAS, suportado num adequado sistema integrado de informação, e desenvolver estudos de gestão previsional de recursos humanos, bem como garantir a sua valorização e qualificação profissional, propondo e gerindo planos de formação e promovendo a respectiva formação profissional;\n\ng) Articular com os organismos nacionais nos domínios da regulação profissional e de regimes de trabalho e coordenar o registo de profissionais de saúde;\n\nh) Proceder à gestão do internato médico na Região, sem prejuízo das competências dos respectivos órgãos específicos, nos termos da lei;\n\ni) Coordenar as actividades da SRAS para a definição da rede de instalações e equipamentos do Serviço Regional de Saúde, estabelecendo prioridades e propondo planos de investimentos públicos a realizar no seu desenvolvimento, modernização e renovação;\n\nj) Coordenar as actividades da SRAS para a definição de políticas sobre sistemas e tecnologias de informação e de comunicação, o seu desenvolvimento e avaliação, promovendo a definição e utilização de normas, metodologias e requisitos que garantam a interoperabilidade e interconexão dos sistemas de informação da saúde;\n\nl) Planear e coordenar a gestão dos recursos financeiros afectos à SRAS, designadamente estudando e propondo modelos de financiamento do Serviço Regional de Saúde, definir as normas e as orientações sobre modalidades para obtenção, distribuição e aplicação dos recursos financeiros, bem como do sistema de preços e de contratação das prestações de saúde;\n\nm) Acompanhar, avaliar e controlar o desempenho económico-financeiro dos serviços e estabelecimentos do Serviço Regional de Saúde, bem como desenvolver e implementar acordos com outras entidades responsáveis pelo pagamento de prestações de cuidados de saúde;\n\nn) Regular, supervisionar e acompanhar a actividade dos estabelecimentos, instituições e serviços prestadores de cuidados de saúde, nos termos da lei, emitir e adaptar normas definidoras das condições técnicas, bem como emitir e difundir orientações para a adequada prestação de cuidados de saúde, nas redes hospitalar, de centros de saúde e de cuidados continuados, e proceder à sua avaliação;\n\no) Assegurar o desenvolvimento dos sistemas de avaliação de serviços e coordenar e controlar a sua aplicação, bem como coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a simplificação, a inovação e a modernização administrativas, no âmbito do Serviço Regional de Saúde;\n\np) Promover e coordenar acções de controlo e auditoria, designadamente financeiras, aos sistemas de gestão e ao desempenho organizacional;\n\nq) Afectar recursos financeiros às instituições e serviços prestadores de cuidados de saúde financiados pelo Serviço Regional de Saúde, através da negociação, celebração e acompanhamento de contratos-programa;\n\nr) Proceder à celebração, acompanhamento e revisão de acordos, protocolos e convenções com profissionais em regime liberal e entidades privadas de saúde, com ou sem fins lucrativos;\n\ns) Garantir a comparticipação aos utentes dos encargos resultantes da prestação de cuidados de saúde ao abrigo de acordos, protocolos ou convenções celebrados com entidades privadas de saúde, nos termos dos regulamentos em vigor;\n\nt) Promover a redução do consumo de drogas lícitas e ilícitas, bem como a diminuição das toxicodependências, designadamente através da realização de acções e programas de prevenção, e dinamizar e acompanhar o plano regional de luta contra a droga e a toxicodependência;\n\nu) Coordenar os processos de licenciamento das entidades privadas prestadoras de cuidados de saúde ou serviços de saúde, com ou sem fins lucrativos, bem como dos estabelecimentos farmacêuticos, e proceder à fiscalização e verificação da aplicação do respectivo quadro normativo em vigor;\n\nv) Assegurar a actividade de farmacovigilância, a nível regional;\n\nx) Estabelecer e coordenar as relações com os diferentes organismos nacionais e internacionais da saúde;\n\nz) Exercer as funções de autoridade de saúde na Região, nos termos da lei."
+  },
+  "148707797": {
+   "fragment_id": "148707537",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do IASAÚDE, IP-RAM:\n\na) O presidente;\n\nb) O conselho consultivo;\n\nc) O fiscal único."
+  },
+  "148707798": {
+   "fragment_id": "148707538",
+   "type": 11,
+   "heading": "Artigo 5.º — Presidente e vice-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Presidente e vice-presidentes\n\n1 - O IASAÚDE, IP-RAM, é dirigido por um presidente, coadjuvado por dois vice-presidentes, nos termos do artigo 17, n.º 1, alínea b), da Lei n.º 3/2004, de 15 de Janeiro, republicada pelo Decreto-Lei n.º 105/2007, de 3 de Abril, equiparados, para todos os efeitos legais, a director regional e a subdirectores regionais, cargos de direcção superior de 1.º e 2.º graus, respectivamente, a nomear por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais, sob proposta deste.\n\n2 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas, compete ao presidente do IASAÚDE, IP-RAM:\n\na) Propor ao Secretário Regional dos Assuntos Sociais a constituição ou reorganização de unidades de saúde;\n\nb) Contratualizar os programas e projectos específicos e aquisição de cuidados de saúde com as entidades prestadoras de cuidados de saúde;\n\nc) Propor ao Secretário Regional dos Assuntos Sociais a aprovação de planos de acção anuais e plurianuais e dos relatórios de execução das instituições e serviços públicos prestadores de cuidados de saúde;\n\nd) Dar parecer sobre os orçamentos das instituições e serviços públicos prestadores de cuidados de saúde, bem como dos demais serviços da administração indirecta, no domínio da SRAS.\n\ne) O exercício das funções de autoridade de saúde regional, nos termos da lei.\n\n3 - Sem prejuízo do disposto no n.º 1, o presidente do IASAÚDE, IP-RAM, dispõe ainda das competências previstas na lei para os conselhos directivos dos institutos públicos.\n\n4 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente por si designado.\n\n5 - Os vice-presidentes exercem as competências que neles forem delegadas ou subdelegadas pelo presidente, com a faculdade de subdelegação."
+  },
+  "148707799": {
+   "fragment_id": "148707539",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único tem as competências e é nomeado nos termos da Lei n.º 3/2004, de 15 de Janeiro, por despacho conjunto dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais."
+  },
+  "148707800": {
+   "fragment_id": "148707540",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação do IASAÚDE, IP-RAM, e nas tomadas de decisão do presidente do IASAÚDE, IP-RAM.\n\n2 - O conselho consultivo tem a seguinte composição:\n\na) O presidente do IASAÚDE, IP-RAM, que preside;\n\nb) Os vice-presidentes do IASAÚDE, IP-RAM;\n\nc) Um representante da Secretaria Regional dos Assuntos Sociais;\n\nd) Um representante da entidade pública empresarial integrada no Serviço Regional de Saúde;\n\ne) Um representante do Centro de Segurança Social da Madeira;\n\nf) Um representante do Serviço Regional de Protecção Civil e Bombeiros da Madeira.\n\n3 - O conselho consultivo pode ainda integrar especialistas ou personalidades de reconhecido mérito, convidadas pelo presidente do IASAÚDE, IP-RAM, em função das matérias que constituam a ordem de trabalhos das reuniões."
+  },
+  "148707801": {
+   "fragment_id": "148707541",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna do IASAÚDE, IP-RAM, é a prevista nos respectivos estatutos, a aprovar por portaria do Vice-Presidente do Governo Regional e dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais."
+  },
+  "148707802": {
+   "fragment_id": "148707542",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime do pessoal\n\nAo pessoal do IASAÚDE, IP-RAM, é aplicável o regime jurídico do contrato individual de trabalho, sem prejuízo do disposto no artigo 3.º e no n.º 2 do artigo 4.º do diploma que aprova a presente orgânica."
+  },
+  "148707803": {
+   "fragment_id": "148707543",
+   "type": 11,
+   "heading": "Artigo 10.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Receitas\n\n1 - O IASAÚDE, IP-RAM, dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento Regional, bem como as transferências para o Serviço Regional de Saúde.\n\n2 - O IASAÚDE, IP-RAM, dispõe ainda das seguintes receitas próprias:\n\na) Os rendimentos dos bens próprios ou provenientes da sua actividade;\n\nb) As taxas, emolumentos, multas, coimas ou outras cuja percepção lhe seja concedida por lei, regulamento ou contrato, nas respectivas percentagens legais;\n\nc) Os reembolsos de valores indevidamente pagos e respectivos juros e comissões;\n\nd) O produto da venda de bens e serviços;\n\ne) Os subsídios, doações, heranças ou legados;\n\nf) As comparticipações financeiras resultantes de fundos comunitários;\n\ng) Quaisquer outras receitas que por lei, contrato ou qualquer título lhe sejam atribuídas."
+  },
+  "148707804": {
+   "fragment_id": "148707544",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas\n\nConstituem despesas do IASAÚDE, IP-RAM, as que resultem de encargos decorrentes da prossecução das respectivas atribuições, nomeadamente as comparticipações aos utentes dos encargos resultantes da prestação de cuidados de saúde e as transferências e pagamentos aos profissionais, serviços e estabelecimentos integrados no Sistema Regional de Saúde."
+  },
+  "148707805": {
+   "fragment_id": "148707545",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Património\n\nO património do IASAÚDE, IP-RAM, é constituído pela universalidade dos bens, direitos e obrigações de que é titular."
+  },
+  "148707806": {
+   "fragment_id": "148707546",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentos internos\n\nOs regulamentos internos necessários ao funcionamento do IASAÚDE, IP-RAM, serão aprovados por despacho do Vice-Presidente do Governo Regional e dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais no prazo de 180 dias a contar da data de entrada em vigor do presente diploma."
+  },
+  "148707807": {
+   "fragment_id": "148707547",
+   "type": 11,
+   "heading": "Artigo 14.º — Vinculação normativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vinculação normativa\n\nNo âmbito das suas atribuições o IASAÚDE, IP-RAM, pode emitir instruções genéricas que vinculam as entidades do Serviço Regional de Saúde, bem como as que integram funcionalmente o Sistema Regional de Saúde, designadamente de natureza privada."
+  },
+  "148707792": {
+   "fragment_id": "148707532",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de Maio de 2008.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 9 de Junho de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "148707812": {
+   "fragment_id": "148707542",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime do pessoal",
+   "in_force_from": "2011-04-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2011/M - Diário da República n.º 81/2011, Série I de 2011-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2011-287142), em vigor a partir de 2011-04-28"
+   ],
+   "markdown": "###### Artigo 9.º — Regime do pessoal\n\nAo pessoal do IASAÚDE, IP-RAM, é aplicável o regime jurídico do contrato de trabalho em funções públicas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2011/M - Diário da República n.º 81/2011, Série I de 2011-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2011-287142), em vigor a partir de 2011-04-28"
+  },
+  "148707837": {
+   "fragment_id": "148707534",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2012-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, abreviadamente designado por IASAÚDE, IP-RAM, é um instituto público integrado na administração indireta da Região, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IASAÚDE, IP-RAM, prossegue atribuições da Secretaria Regional dos Assuntos Sociais, sob superintendência e tutela do respectivo Secretário Regional.\n\n3 - O IASAÚDE, IP-RAM, rege-se pelo disposto no presente diploma e pelas normas aplicáveis do regime jurídico dos institutos públicos.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707838": {
+   "fragment_id": "148707536",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2012-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IASAÚDE, IP-RAM, tem por missão apoiar a definição das políticas, prioridades e objetivos para o setor da saúde e consumo, na procura de ganhos em saúde e de um elevado nível de proteção dos direitos e interesses dos consumidores, assegurando a melhor articulação entre os diversos serviços e organismos.\n\n2 - Compete, em especial, ao IASAÚDE, IP-RAM:\n\na) Coadjuvar a Secretaria Regional dos Assuntos Sociais (SRAS) nas funções de regulamentação, planeamento, financiamento, orientação, acompanhamento, avaliação, auditoria e inspeção do Sistema Regional de Saúde;\n\nb) Apoiar a atividade da SRAS nas áreas da saúde e do consumo, nas relações institucionais de âmbito nacional e internacional;\n\nc) Coordenar as atividades de promoção da saúde e de prevenção e controlo da doença, bem como a vigilância epidemiológica e ainda promover e desenvolver a investigação científica na área da saúde a nível regional;\n\nd) Assegurar a implementação e proceder ao acompanhamento do plano regional de saúde, bem como o desenvolvimento de programas de saúde, através da emissão e adaptação de normas e orientações de apoio à respetiva execução e de melhoria contínua da qualidade clínica e organizacional, e coordenar a produção de informação adequada, designadamente estatística, em articulação com o SESARAM, E. P. E.;\n\ne) Garantir a produção e divulgação de informação adequada, designadamente estatísticas de saúde, no quadro do sistema estatístico nacional;\n\nf) Apoiar a SRAS na coordenação e no acompanhamento da gestão da Rede Regional de Cuidados Continuados Integrados, em articulação com os demais organismos competentes;\n\ng) Elaborar, difundir e apoiar a criação de instrumentos de planeamento;\n\nh) Apoiar as atividades da SRAS na definição e desenvolvimento de políticas de recursos humanos na saúde, designadamente, adaptando normas e orientações relativas a profissões, exercício profissional, registo de profissionais, bases de dados de recursos humanos, bem como realizar estudos conducentes à caracterização dos recursos humanos, das profissões e exercícios profissionais no setor da saúde;\n\ni) Coordenar a formação profissional intersectorial para os organismos da SRAS;\n\nj) Coordenar o internato médico na Região, sem prejuízo das competências dos respetivos órgãos específicos, em articulação com as necessidades formativas do SESARAM, E. P. E., nos termos da lei;\n\nk) Coadjuvar a SRAS na elaboração dos contratos-programa a celebrar com o SESARAM, E. P. E., e proceder à transferência dos recursos financeiros para esta entidade pública empresarial, em conformidade com as dotações previstas no contrato-programa;\n\nl) Coadjuvar a SRAS na elaboração dos contratos-programa a celebrar com a Investimentos Habitacionais da Madeira, E. P. E. R. A. M., e proceder à transferência dos recursos financeiros para esta entidade pública empresarial, em conformidade com as dotações previstas no contrato-programa;\n\nm) Coadjuvar a SRAS na celebração, acompanhamento e revisão de acordos, protocolos e convenções com profissionais liberais e entidades privadas de saúde, com ou sem fins lucrativos, em articulação com o SESARAM, E. P. E., e a respetiva capacidade instalada;\n\nn) Proceder à comparticipação, aos utentes, dos encargos resultantes da prestação de cuidados de saúde ao abrigo designadamente de acordos, protocolos ou convenções celebrados com entidades privadas de saúde, nos termos dos regulamentos em vigor;\n\no) Orientar e coordenar os procedimentos e inscrições no subsistema da ADSE, no âmbito da administração regional autónoma da Madeira;\n\np) Assegurar o regular funcionamento da junta médica da ADSE;\n\nq) Promover a redução do consumo de drogas lícitas e ilícitas, bem como a diminuição das toxicodependências, designadamente através da realização de ações e programas de prevenção, e acompanhar o plano regional de luta contra a droga e a toxicodependência;\n\nr) Coordenar os processos de licenciamento das entidades privadas prestadoras de cuidados de saúde ou serviços de saúde, com ou sem fins lucrativos, bem como dos estabelecimentos farmacêuticos e proceder à fiscalização e verificação da aplicação do respetivo quadro normativo em vigor;\n\ns) Assegurar a atividade de farmacovigilância, a nível regional;\n\nt) Apoiar as atividades da SRAS na gestão da rede de instalações e equipamentos de saúde, através da definição e adaptação de normas, metodologias e requisitos tendentes à melhoria e desenvolvimento equilibrado dessa rede no território regional, bem como elaborar a carta regional de instalações e equipamentos;\n\nu) Apoiar a SRAS na definição e normalização dos sistemas de informação e comunicação adaptados às necessidades do sistema regional de saúde;\n\nv) Coordenar e dinamizar as ações tendentes à concretização das políticas de defesa dos consumidores;\n\nw) Instruir os processos de contraordenação em matéria de publicidade;\n\nx) Promover a resolução extrajudicial de conflitos de consumo, de natureza civil, que ocorram na Região, através dos mecanismos de conciliação e arbitragem;\n\ny) Exercer as funções de autoridade de saúde na Região, nos termos da lei.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707839": {
+   "fragment_id": "148707537",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2012-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do IASAÚDE, IP-RAM:\n\na) O conselho diretivo;\n\nb) (Revogada.)\n\nc) O fiscal único.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707840": {
+   "fragment_id": "148707538",
+   "type": 11,
+   "heading": "Artigo 5.º — O conselho diretivo",
+   "in_force_from": "2012-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 5.º — O conselho diretivo\n\n1 - O conselho diretivo do IASAÚDE, IP-RAM, é composto por um presidente, coadjuvado por um vice-presidente e um vogal, nos termos do artigo 19.º da Lei n.º 3/2004, de 15 de janeiro, na redação que lhe foi conferida pelo Decreto-Lei n.º 5/2012, de 17 de janeiro, equiparados, para todos os efeitos legais, a diretor regional e a subdiretores regionais, cargos de direção superior de 1.º e 2.º graus, respetivamente, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais, na sequência de procedimento concursal.\n\n2 - Sem prejuízo das competências que lhe forem cometidas por lei ou nele delegadas ou subdelegadas, compete ainda ao conselho diretivo, no âmbito da orientação e gestão do Instituto:\n\na) Emitir parecer sobre a constituição ou reorganização de unidades de saúde;\n\nb) Contratualizar os programas e projetos específicos e aquisição de cuidados de saúde com as entidades prestadoras de cuidados de saúde;\n\nc) Propor ao Secretário Regional dos Assuntos Sociais a aprovação de planos anuais e plurianuais e dos relatórios de execução das instituições e serviços públicos prestadores de cuidados de saúde;\n\nd) Emitir parecer sobre os orçamentos das instituições e serviços públicos prestadores de cuidados de saúde, bem como dos demais serviços da administração indireta, no domínio da SRAS.\n\n3 - Compete ao presidente do conselho diretivo do IASAÚDE, IP-RAM, exercer as competências previstas na lei para os presidentes dos conselhos diretivos, designadamente presidir às reuniões, orientar trabalhos, garantir a execução das respetivas deliberações, assegurar as relações com os órgãos da tutela e com os demais organismos públicos e, em especial, exercer as funções de autoridade de saúde regional, nos termos da lei.\n\n4 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente e na sua falta, pelo vogal.\n\n5 - O vice-presidente e o vogal exercem as competências que neles forem delegadas ou subdelegadas pelo presidente, com a faculdade de subdelegação.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707841": {
+   "fragment_id": "148707539",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": "2012-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e boa gestão financeira e patrimonial do Instituto, sendo designado por despacho dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, nos termos da Lei n.º 3/2004, de 15 de janeiro, republicada pelo Decreto-Lei n.º 5/2012, de 17 de janeiro.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707842": {
+   "fragment_id": "148707540",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": "2012-07-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação do IASAÚDE, IP-RAM, e nas tomadas de decisão do presidente do IASAÚDE, IP-RAM.\n\n2 - O conselho consultivo tem a seguinte composição:\n\na) O presidente do IASAÚDE, IP-RAM, que preside;\n\nb) Os vice-presidentes do IASAÚDE, IP-RAM;\n\nc) Um representante da Secretaria Regional dos Assuntos Sociais;\n\nd) Um representante da entidade pública empresarial integrada no Serviço Regional de Saúde;\n\ne) Um representante do Centro de Segurança Social da Madeira;\n\nf) Um representante do Serviço Regional de Protecção Civil e Bombeiros da Madeira.\n\n3 - O conselho consultivo pode ainda integrar especialistas ou personalidades de reconhecido mérito, convidadas pelo presidente do IASAÚDE, IP-RAM, em função das matérias que constituam a ordem de trabalhos das reuniões.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707843": {
+   "fragment_id": "148707545",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": "2012-07-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 12.º — Património\n\nO património do IASAÚDE, IP-RAM, é constituído pela universalidade dos bens, direitos e obrigações de que é titular.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707844": {
+   "fragment_id": "148707534",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2020-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto de Administração da Saúde, IP-RAM, abreviadamente designado por IASAÚDE, IP-RAM, é um instituto público integrado na administração indireta da Região, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IASAÚDE, IP-RAM, prossegue atribuições da Secretaria Regional de Saúde e Proteção Civil (SRS), sob superintendência e tutela do respetivo Secretário Regional.\n\n3 - O IASAÚDE, IP-RAM, rege-se pelo disposto no presente diploma e pelas normas aplicáveis do regime jurídico dos institutos públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707845": {
+   "fragment_id": "148707536",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2020-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IASAÚDE, IP-RAM, tem por missão assegurar a gestão dos recursos financeiros, humanos, da formação profissional, das instalações e equipamentos, dos sistemas e tecnologias de informação do Serviço Regional de Saúde e dos serviços da administração direta no domínio da SRS.\n\n2 - Compete, em especial, ao IASAÚDE, IP-RAM:\n\na) Coadjuvar a SRS na definição de políticas no domínio da contratação da prestação de cuidados de saúde no Sistema Regional de Saúde e a respetiva normalização, regulamentação, acompanhamento, auditoria e inspeção;\n\nb) Apoiar financeira e contratualmente a atividade da SRS na área da Saúde;\n\nc) Coordenar, monitorizar e controlar as atividades da SRS para a gestão dos recursos financeiros afetos ao Serviço Regional de Saúde, designadamente estudar e propor modelos de financiamento do Serviço Regional de Saúde, definir normas e orientações sobre modalidades para obtenção, distribuição e aplicação dos recursos financeiros, bem como de avaliação de custos e definição de preços das instituições e serviços integrados no Serviço Regional de Saúde;\n\nd) [Revogada.]\n\ne) [Revogada.]\n\nf) Coordenar e acompanhar a gestão da Rede Regional de Cuidados Continuados Integrados, em articulação com os demais organismos competentes;\n\ng) Elaborar, difundir e apoiar a criação de instrumentos de planeamento financeiro no Sistema Regional de Saúde;\n\nh) Apoiar as atividades da SRS na definição e desenvolvimento de políticas de recursos humanos na saúde, designadamente, adaptando normas e orientações relativas a profissões, exercício profissional, registo de profissionais, bases de dados de recursos humanos, bem como realizar estudos conducentes à caracterização dos recursos humanos, das profissões e exercícios profissionais no setor da saúde;\n\ni) Assegurar a prestação centralizada de atividades comuns nas áreas dos recursos humanos e financeiros para os serviços da SRS integrados na administração direta do Estado, bem como coordenar a formação profissional intersectorial para os organismos da SRS;\n\nj) Coordenar o internato médico na Região, sem prejuízo das competências dos respetivos órgãos específicos, em articulação com as necessidades formativas do SESARAM, EPERAM, nos termos da lei;\n\nk) Coadjuvar a SRS na elaboração dos contratos-programa a celebrar com o SESARAM, EPERAM, e proceder à transferência dos recursos financeiros para esta entidade pública empresarial, em conformidade com as dotações previstas no respetivo contrato-programa;\n\nl) Efetuar o controlo da gestão através da avaliação continuada dos indicadores de desempenho e da prática das instituições e serviços do Sistema de Saúde, bem como desenvolver e implementar modelos de gestão de risco económico-financeiro para o Sistema de Saúde;\n\nm) Coadjuvar a SRS na celebração, acompanhamento e revisão de acordos, protocolos e convenções com profissionais liberais e entidades privadas de saúde, com ou sem fins lucrativos, em articulação com o SESARAM, EPERAM, e a respetiva capacidade instalada;\n\nn) Proceder à comparticipação, aos utentes, dos encargos resultantes da prestação de cuidados de saúde ao abrigo designadamente de acordos, protocolos ou convenções celebrados com entidades privadas de saúde, nos termos dos regulamentos em vigor;\n\no) Orientar e informar sobre os procedimentos e inscrições respeitantes ao subsistema da ADSE, no âmbito da administração regional autónoma da Madeira;\n\np) Assegurar o regular funcionamento da junta médica da ADSE;\n\nq) [Revogada.]\n\nr) [Revogada.]\n\ns) [Revogada.]\n\nt) Apoiar as atividades da SRS na gestão da rede de instalações e equipamentos tendentes à melhoria e desenvolvimento equilibrado da rede no território regional, bem como elaborar a carta regional de instalações e equipamentos;\n\nu) Apoiar a SRS na definição e normalização dos sistemas de informação e comunicação adaptados às necessidades do Sistema Regional de Saúde;\n\nv) [Revogada.]\n\nw) [Revogada.]\n\nx) [Revogada.]\n\ny) [Revogada.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707846": {
+   "fragment_id": "148707538",
+   "type": 11,
+   "heading": "Artigo 5.º — O conselho diretivo",
+   "in_force_from": "2020-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 5.º — O conselho diretivo\n\n1 - O conselho diretivo do IASAÚDE, IP-RAM, é composto por um presidente, coadjuvado por um vice-presidente e dois vogais, nos termos do artigo 19.º da Lei n.º 3/2004, de 15 de janeiro, na redação que lhe foi conferida pelo Decreto-Lei n.º 5/2012, de 17 de janeiro, equiparados, para todos os efeitos legais, a diretor regional e a subdiretores regionais, cargos de direção superior de 1.º e 2.º graus, respetivamente, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional de Saúde e Proteção Civil.\n\n2 - Sem prejuízo das competências que lhe forem cometidas por lei ou nele delegadas ou subdelegadas, compete ainda ao conselho diretivo, no âmbito da orientação e gestão do Instituto:\n\na) Dirigir a atividade do IASAÚDE, IP-RAM, e gerir os seus recursos humanos, materiais e financeiros, tendo em conta os instrumentos de gestão aprovados;\n\nb) Acompanhar e avaliar sistematicamente a atividade desenvolvida, designadamente, responsabilizando os diferentes serviços pela utilização dos meios postos à sua disposição e pelos resultados atingidos;\n\nc) Praticar os demais atos necessários à prossecução das atribuições e ao exercício das competências do IASAÚDE, IP-RAM;\n\nd) Emitir parecer sobre os orçamentos das instituições e serviços públicos prestadores de cuidados de saúde, bem como dos demais serviços da administração direta no domínio da SRS.\n\n3 - Compete ao presidente do conselho diretivo do IASAÚDE, IP-RAM, exercer as competências previstas na lei para os presidentes dos conselhos diretivos, designadamente presidir às reuniões, orientar trabalhos, garantir a execução das respetivas deliberações, assegurar as relações com os órgãos da tutela e com os demais organismos públicos.\n\n4 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente e, na sua falta, por um dos vogais.\n\n5 - O vice-presidente e os vogais exercem as competências que neles forem delegadas ou subdelegadas pelo presidente, com a faculdade de subdelegação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707847": {
+   "fragment_id": "148707539",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": "2020-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e boa gestão financeira e patrimonial do instituto, sendo designado por despacho dos membros do Governo Regional responsáveis pelas áreas das finanças e da saúde, nos termos da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2012/M - Diário da República n.º 131/2012, Série I de 2012-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569), em vigor a partir de 2012-07-10"
+  },
+  "148707848": {
+   "fragment_id": "148707541",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": "2020-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17"
+   ],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna do IASAÚDE, IP-RAM, é a prevista nos respetivos estatutos, a aprovar por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças, da administração pública e da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17"
+  },
+  "148707849": {
+   "fragment_id": "148707546",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentos internos",
+   "in_force_from": "2020-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17"
+   ],
+   "markdown": "###### Artigo 13.º — Regulamentos internos\n\nOs regulamentos internos necessários ao funcionamento do IASAÚDE, IP-RAM, são aprovados por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças, da administração pública e da saúde, no prazo de 180 dias, a contar da data de entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17"
+  },
+  "148707850": {
+   "fragment_id": "148707547",
+   "type": 11,
+   "heading": "Artigo 14.º — Vinculação normativa",
+   "in_force_from": "2020-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17"
+   ],
+   "markdown": "###### Artigo 14.º — Vinculação normativa\n\nNo âmbito das suas atribuições, o IASAÚDE, IP-RAM, pode emitir instruções genéricas que vinculam as entidades do Serviço Regional de Saúde, bem como as que integram funcionalmente o sistema regional de saúde, designadamente de natureza privada\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2020/M - Diário da República n.º 223/2020, Série I de 2020-11-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2020-148599587), em vigor a partir de 2020-11-17"
+  }
+ }
+}

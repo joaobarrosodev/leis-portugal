@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:664769:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1993-944646837",
+ "dre_path": "/dr/detalhe/portaria/449-1993-664769",
+ "source_lastmod": "2025-11-06",
+ "versions": [
+  {
+   "date": "1993-04-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944666375"
+   ]
+  },
+  {
+   "date": "1993-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:593682:por",
+     "title": "Declaração de Rectificação n.º 100/93",
+     "published": "1993-05-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/100-1993-593682"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "944666375",
+    "944635389",
+    "944635388",
+    "944635387",
+    "944635386",
+    "944635385"
+   ]
+  }
+ ],
+ "fragments": {
+  "944666375": {
+   "fragment_id": "944646838",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1993-05-31",
+   "changed_by": [],
+   "markdown": "Portaria n.º 449/93\n\nde 28 de Abril\n\nPela Portaria n.º 237/93, de 27 de Fevereiro, foi instituída uma ajuda à promoção da qualidade da batata de consumo dos distritos de Bragança e de Vila Real.\n\nVerifica-se que também nos distritos da Guarda, Viseu e Castelo Branco subsistem algumas dificuldades no escoamento daquela batata, que, por razões de sazonalidade da oferta, não pôde igualmente beneficiar de qualquer medida anterior, pelo que convirá tornar extensiva a estas regiões o regime adoptado pela referida portaria para a região de Trás-os-Montes.\n\nAssim:\n\nManda o Governo, pelos Ministros da Agricultura e do Comércio e Turismo, ao abrigo do disposto no Decreto-Lei n.º 512/85, de 31 de Dezembro, o seguinte:"
+  },
+  "944635389": {
+   "fragment_id": "944646843",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ extensivo aos distritos da Guarda, Viseu e Castelo Branco o regime de ajuda previsto na Portaria n.º 237/93, de 27 de Fevereiro, até ao limite de 10000 contos."
+  },
+  "944635388": {
+   "fragment_id": "944646842",
+   "type": 14,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## 2.º\n\nOs pedidos de ajuda deverão ser entregues até 20 de Maio de 1993, os quais são apreciados e aprovados por ordem de apresentação até ao montante estabelecido no número anterior."
+  },
+  "944635387": {
+   "fragment_id": "944646841",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nPode ser objecto da ajuda instituída pela Portaria n.º 237/93, de 27 de Fevereiro, a batata produzida por produtores dos distritos por esta abrangidos, ainda que os mesmos não sejam associados das cooperativas agrícolas daqueles distritos."
+  },
+  "944635386": {
+   "fragment_id": "944646840",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nA presente portaria produz efeitos à data da entrada em vigor da Portaria n.º 237/93, de 27 de Fevereiro."
+  },
+  "944635385": {
+   "fragment_id": "944646839",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios da Agricultura e do Comércio e Turismo.\n\nAssinada em 16 de Abril de 1993.\n\nPelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência."
+  }
+ }
+}

@@ -1,0 +1,598 @@
+---
+schema_version: '1.0'
+id: pt:dre:388826:por
+title: Decreto-Lei n.º 226-A/2008
+short_title: null
+summary: Define o regime de autonomia, administração e gestão das escolas de hotelaria e turismo do Turismo de Portugal, I.
+  P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 226-A/2008
+official_date: null
+publication_date: '2008-11-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 226/2008, 1º Suplemento, Série I de 2008-11-20
+  number: '226'
+  series: I
+  supplement: 1º Suplemento
+  pages: 8222-(2) a 8222-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/11/22601/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-08-15'
+version_history:
+  file: decreto-lei-226-a-2008.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-08-15'
+    amending: pt:dre:123968667:por
+    amending_title: Decreto-Lei n.º 110/2019
+    changes:
+    - Adita Artigo 11.º-A
+    - Adita Artigo 11.º-B
+    - Adita Artigo 11.º-C
+    - Adita Artigo 11.º-D
+    - Adita Artigo 13.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Revoga Artigo 15.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/226-a/2008/p/cons/20190814/pt/html
+  oj: null
+  dre: '388826'
+  dre_path: /dr/detalhe/decreto-lei/226-a-2008-388826
+  internal: pt:dre:388826:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2008-388826
+  metadata_url: https://data.dre.pt/eli/dec-lei/226-a/2008/p/cons/20190814/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-123968943
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-123968943
+  retrieved_at: '2026-10-22T12:27:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f204b653c7bebeae1be458423bdae9260aef76680e6636d37fff1c5c8b7e4ad5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:27:45Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-226-a-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Autonomia Administrativa
+- Autonomia Pedagógica
+- Formação Profissional
+- Gestão Financeira
+- Curso de Especialização Tecnológica
+- Conselho Pedagógico
+- Coordenador
+- Definição de Competências
+- Diretor
+- Gestão Administrativa
+- Estabelecimento de Restauração
+- Hotel de Aplicação
+- Instituto Público
+- Qualificação Profissional
+- Regime de Pessoal
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:123968667:por
+  label: Adita Artigo 11.º-A; Adita Artigo 11.º-B; Adita Artigo 11.º-C; Adita Artigo 11.º-D; Adita Artigo 13.º-A; Altera Artigo
+    1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Revoga Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667
+  date: '2019-08-14'
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: http://data.dre.pt/eli/lei/11/2008/02/20/p/dre
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:633289:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/88/2006/05/23/p/dre
+article_structure:
+  article_count: 22
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:27:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 226-A/2008
+
+Decreto-Lei n.º 226-A/2008
+
+de 20 de Novembro
+
+O turismo é hoje uma das mais significativas actividades económicas em Portugal, representando já mais de 10 % do produto interno bruto.
+
+Consciente da importância deste sector para o País, o XVII Governo Constitucional aprovou o Plano Estratégico Nacional de Turismo (PENT) que estabelece um novo paradigma com metas de evolução ambiciosas, assumindo o turismo como um dos principais motores de crescimento da economia portuguesa.
+
+Este modelo de desenvolvimento define um conjunto de eixos considerados essenciais para a concretização das metas referidas, entre os quais se destaca a «excelência no capital humano».
+
+Com efeito, a formação e valorização dos recursos humanos constitui um vector essencial para o reforço da qualidade do turismo em Portugal, sendo necessário promover a qualificação dos jovens que se iniciam em actividades profissionais relevantes para o sector, bem como prosseguir o trabalho de elevação regular de competências dos activos que já hoje realizam, directa ou indirectamente, essas mesmas actividades, correspondendo a mais de 10 % da população activa.
+
+Os desafios que a oferta interna de turismo enfrenta ao nível da constante concorrência e estímulo à inovação impõem a existência de uma rede de escolas muito próximas das empresas, com interacções regulares entre os seus actores, disponíveis para o desenvolvimento de projectos conjuntos, com destaque para a participação público-privada em restaurantes e hotéis de aplicação ou a dinamização de cursos de curta duração, adequados às necessidades reais.
+
+Neste contexto, o presente decreto-lei define o regime da rede de escolas de hotelaria e turismo enquanto estruturas territorialmente desconcentradas do Turismo de Portugal, I. P., consagrando o seu modelo formativo, de administração e de gestão.
+
+O modelo de rede de escolas de hotelaria e turismo consagrado cria as condições de organização e gestão necessárias para dar as respostas mais adequadas àqueles desafios e acompanhar a evolução das exigências da procura, em termos quantitativos e qualitativos.
+
+Estas escolas têm, assim, a missão de dotar o País de recursos humanos de excelência nos serviços do turismo, que acompanhem o desenvolvimento e a qualificação da oferta hoteleira nacional, actuando ao nível da formação inicial, da formação contínua e da certificação de competências profissionais.
+
+Este novo modelo promoverá, ainda, o enriquecimento da oferta formativa através da colaboração regular de formadores internacionais e da certificação dos cursos base ministrados (técnicas de cozinha e pastelaria, food and beverage e técnicas de hotelaria e turismo) por parceiros de reconhecido prestígio internacional.
+
+Paralelamente, e numa lógica de aproximação ao mercado, serão incrementados projectos regulares de colaboração com entidades empresariais nacionais e internacionais através de estágios profissionais e de programas de formação em contexto real de trabalho.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei define o regime de autonomia, administração e gestão das escolas de hotelaria e turismo do Turismo de Portugal, I. P., adiante designadas por escolas, existentes ou que venham a ser criadas.
+
+2 - As escolas caracterizam-se como serviços territorialmente desconcentrados do Turismo de Portugal, I. P., e destinam-se a assegurar a missão e as atribuições daquele Instituto na formação e qualificação dos recursos humanos no sector do turismo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 2.º — Princípios gerais
+
+1 - As escolas estão sujeitas à orientação pedagógica, na área da formação, do Turismo de Portugal, I. P., exercida através da sua direcção de formação, e prosseguem, na respectiva área de intervenção, as atribuições de qualificação de recursos humanos no sector do turismo daquele instituto público.
+
+2 - As escolas gozam de autonomia, entendendo-se como tal o poder de decisão nos domínios pedagógico e organizacional, no âmbito do respectivo projecto técnico-pedagógico, e em função das competências e dos meios que lhes forem atribuídos.
+
+3 - O projecto técnico-pedagógico e o plano anual de actividades constituem os instrumentos enquadradores da autonomia das escolas.
+
+4 - Para os efeitos do presente decreto-lei, entende-se por:
+
+a) «Projecto técnico-pedagógico» o documento que define a orientação técnico-pedagógico da escola, para um período de três anos, elaborado pela direcção de formação e aprovado pelo conselho directivo, ambos do Turismo de Portugal, I. P., e versa sobre a missão, os valores, a estratégia e os objectivos através dos quais aquela se propõe cumprir a sua função formativa e de qualificação dos recursos humanos do sector do turismo;
+
+b) «Plano anual de formação» o documento de planificação do currículo de formação, elaborado pelos órgãos de administração e gestão da escola e aprovado pelo conselho directivo do Turismo de Portugal, I. P., que define a programação e as formas de organização das actividades e cursos a ministrar, identifica os recursos necessários, em articulação com o projecto técnico-pedagógico aprovado.
+
+5 - Os regulamentos internos aprovados pelo conselho directivo do Turismo de Portugal, I. P., que incidam sobre matérias conexas com a actividade técnico-pedagógica constituem, igualmente, instrumentos enquadradores do funcionamento das escolas.
+
+###### Artigo 3.º — Criação, classificação e encerramento das escolas
+
+1 - As escolas são criadas e encerradas por despacho do membro do Governo responsável pela área do turismo, publicado na 2.ª série do Diário da República, sob proposta do conselho diretivo do Turismo de Portugal, I. P., após parecer obrigatório e vinculativo da Agência Nacional para a Qualificação e o Ensino Profissional, I. P.
+
+2 - O despacho referido no número anterior define, ainda, a classificação das escolas como tipos i ou ii, referindo os fundamentos da respectiva classificação, nomeadamente a capacidade formativa e técnica, a dimensão e relevância turística da região em que as escolas estão inseridas.
+
+3 - (Revogado.)
+
+4 - A reavaliação dos requisitos exigidos para a classificação das escolas é feita com a periodicidade máxima de três anos, podendo aquela ser alterada em função dos resultados obtidos por despacho do membro do Governo responsável pela área do turismo, publicado na 2.ª série do Diário da República, sob proposta do conselho directivo do Turismo de Portugal, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 4.º — Estrutura das escolas
+
+1 - A criação e a classificação das escolas têm por base um modelo de gestão integrada de recursos com vista à sua optimização e racionalização, estruturado do seguinte modo:
+
+a) Escolas do tipo I são estruturas com capacidade formativa e técnica, com dimensão e relevância turística na região em que estão inseridas, que prosseguem os objetivos do projeto técnico-pedagógico;
+
+b) Escolas do tipo II são estruturas com capacidade formativa e técnica e relevância turística na região em que estão inseridas, com dimensão inferior às Escolas Tipo I e estruturas mais flexíveis, numa perspetiva de diferenciação da sua oferta formativa em função das características da região em que se inserem.
+
+2 - (Revogado.)
+
+3 - Quando se considere necessário dar resposta a necessidades de formação específicas e concretas, podem ser criadas, por despacho do membro do Governo responsável pela área do turismo, sob proposta do conselho diretivo do Turismo de Portugal, I. P., estruturas formativas deslocalizadas, que vão integrar a escola da zona geográfica em que se encontram inseridas.
+
+4 - As estruturas formativas deslocalizadas referidas no número anterior caracterizam-se pela sua natureza flexível, não dispondo de cargos directivos, sendo compostas por formadores e outro pessoal de apoio das escolas mediante a utilização dos instrumentos adequados de mobilidade na Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 5.º — Âmbito de actuação das escolas
+
+1 - As escolas têm a incumbência de desenvolver e executar as atribuições do Turismo de Portugal, I. P., em matéria de qualificação de recursos humanos do sector do turismo, contribuindo para incentivar a melhoria da qualidade da oferta nacional de formação e o prestígio das respectivas profissões, bem como para divulgar e promover a actividade turística nacional em articulação com os órgãos e serviços centrais do Turismo de Portugal, I. P.
+
+2 - As escolas realizam formação inicial e formação contínua, incluindo a formação à medida, consultoria e assistência técnica e intervêm, ainda, na certificação escolar e profissional, no âmbito da legislação aplicável, designadamente nos termos do previsto no Decreto-Lei n.º 396/2007, de 31 de dezembro, na sua redação atual, que regula o Sistema Nacional de Qualificações.
+
+3 - A formação inicial enquadra-se nas seguintes tipologias:
+
+a) Qualificação inicial pós-secundária conferindo certificação profissional, incluindo os cursos de especialização tecnológica regulados pelo Decreto-Lei n.º 88/2006, de 23 de maio, na sua redação atual;
+
+b) Qualificação de nível secundário obtida por percursos de dupla certificação, nos termos do previsto no Decreto-Lei n.º 396/2007, de 31 de dezembro, na sua redação atual, incluindo as modalidades de formação on-the-job/dual;
+
+c) Outras modalidades de educação e formação que venham a ser consideradas relevantes para o mercado, nomeadamente as que incluam uma forte componente de formação em contexto de trabalho.
+
+4 - Os cursos previstos no número anterior são inscritos no Sistema Integrado de Informação e Gestão da Oferta Educativa e Formativa (SIGO).
+
+5 - A formação contínua enquadra-se nas seguintes modalidades:
+
+a) Formações modulares certificadas inseridas no Catálogo Nacional de Qualificações;
+
+b) Outras acções de formação contínua não inseridas no Catálogo Nacional de Qualificações.
+
+6 - As escolas que reúnam os requisitos para o efeito podem ser também entidades promotoras de centros especializados em qualificação de adultos, com vista ao reconhecimento, validação e certificação de competências adquiridas ao longo da vida, nos termos do previsto no Decreto-Lei n.º 396/2007, de 31 de dezembro, alterado pelo Decreto-Lei n.º 14/2017, de 26 de janeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 6.º — Parcerias
+
+1 - Na prossecução das suas funções, as escolas podem estabelecer parcerias com o setor privado com vista à aproximação da escola às instituições económicas, profissionais, associativas, sociais e culturais, do respetivo tecido económico e social das regiões em que se encontram inseridas, para desenvolvimento de projetos de formação em contexto real de trabalho e de projetos de inovação empresarial e social, promovendo a sua aproximação ao mercado de trabalho e a adequação dos currículos às necessidades reais da oferta turística e hoteleira.
+
+2 - Sob orientação da direcção de formação do Turismo de Portugal, I. P., as escolas desenvolvem parcerias com entidades internacionais, promovendo o intercâmbio de estágios, cursos e desenvolvendo certificações conjuntas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 7.º — Cargos directivos
+
+1 - São cargos diretivos das escolas dos tipos I ou II o cargo de diretor de escola, com as funções e responsabilidades constantes do artigo seguinte.
+
+2 - O exercício do cargo de diretor de escola encontra-se sujeito ao regime previsto no Estatuto do pessoal dirigente dos serviços e órgãos da Administração central, local e regional do Estado, aprovado pela Lei n.º 2/2004 de 15 de janeiro, na sua redação atual, e ao disposto na lei orgânica do Turismo de Portugal, I. P., aprovada pelo Decreto-Lei n.º 129/2012, de 22 de junho, na sua redação atual, em especial aos seus artigos 17.º e 18.º
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 8.º — Direcção e coordenação das escolas
+
+1 - As escolas são dirigidas por um diretor, que desempenha funções com responsabilidade pelo planeamento, coordenação e gestão geral, desenvolvimento e controlo, bem como funções operacionais de gestão, de programação, de coordenação e acompanhamento da escola.
+
+2 - O diretor é substituído nas suas faltas e impedimentos por quem o conselho diretivo do Turismo de Portugal, I. P., designar para o efeito.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 9.º — Competências do director
+
+1 - Ao diretor de escola tipo I e ao diretor de escola tipo II compete:
+
+a) Representar o Turismo de Portugal, I. P., nos actos para que seja formalmente mandatado pelo conselho directivo do Turismo de Portugal, I. P., ou pela direcção de formação do mesmo;
+
+b) Convocar e dirigir as reuniões do conselho pedagógico;
+
+c) Convocar e dirigir as reuniões da Comissão Regional;
+
+d) Organizar e dirigir os serviços da escola, assegurando a respetiva coordenação pedagógica, administrativa e financeira, adotando um modelo de gestão integrada com base nos planos de atividade e orçamentos e de acordo com as prioridades de intervenção estabelecidas;
+
+e) Assegurar as funções de coordenação dos centros especializados em qualificação de adultos com vista ao reconhecimento, validação e certificação de competências adquiridas ao longo da vida;
+
+f) Propor à direcção de formação, para posterior submissão à aprovação do conselho directivo do Turismo de Portugal, I. P., o modelo organizativo interno da escola, fixado nos termos do artigo 12.º;
+
+g) Coordenar a elaboração das propostas dos planos de formação, dos planos de atividades orientados por efetiva gestão por objetivos e projetos de orçamento, bem como do projeto técnico-pedagógico, remetendo-os à direção de formação do Turismo de Portugal, I. P., para posterior submissão à aprovação do conselho diretivo do Turismo de Portugal, I. P.;
+
+h) Elaborar os relatórios de atividades da escola, bem como um relatório trimestral de acompanhamento da execução financeira, sem prejuízo da elaboração de outros documentos analíticos intercalares solicitados, que reflitam a performance financeira da escola, ao nível da receita e da despesa;
+
+i) Propor à direcção de formação do Turismo de Portugal, I. P., para posterior submissão à aprovação do conselho directivo do Turismo de Portugal, I. P., as contratações necessárias para dar execução aos planos e cursos de formação aprovados, bem como para prosseguir as respectivas atribuições e competências;
+
+j) Orientar, coordenar e controlar as actividades de formação e certificação realizadas pela escola, no quadro de execução dos planos de formação e de actividades e do projecto técnico-pedagógico aprovados, de acordo com as normas e orientações da direcção de formação do Turismo de Portugal, I. P.;
+
+l) Homologar as classificações obtidas pelos alunos nos respectivos cursos, bem como assinar certificados e diplomas;
+
+m) Gerir os recursos humanos, materiais e financeiros da escola, promovendo a sua optimização, de acordo com os objectivos decorrentes dos planos aprovados e de acordo com as prioridades de intervenção estabelecidas;
+
+n) Organizar do ponto de vista contabilístico as receitas geradas pela actividade das escolas;
+
+o) Autorizar a realização de despesas dentro dos limites fixados pelo conselho directivo do Turismo de Portugal, I. P.;
+
+p) Zelar pela conservação do património afecto à escola;
+
+q) Cumprir e fazer cumprir a legislação e os regulamentos internos em vigor para as escolas;
+
+r) Exercer a acção disciplinar nos termos da lei e dos regulamentos internos.
+
+2 - Cabe, ainda, ao diretor de escola assegurar a coordenação pedagógica, administrativa e financeira e a gestão integrada dos recursos afetos às estruturas formativas deslocalizadas que venham a ser criadas.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 10.º — Competências do conselho pedagógico
+
+1 - O conselho pedagógico é o órgão de coordenação e orientação educativa da escola que visa a promoção da qualidade do ensino.
+
+2 - Compete ao conselho pedagógico:
+
+a) Promover o desenvolvimento do projecto técnico-pedagógico da escola;
+
+b) Definir e acompanhar a implementação de metodologias de programação, organização, acompanhamento, controlo e avaliação das actividades pedagógicas;
+
+c) Analisar as melhores práticas utilizadas no ensino e propor a adopção de metodologias conducentes à melhoria da qualidade do ensino e à inovação;
+
+d) Emitir parecer sobre o plano e relatório anual de actividades das escolas e sobre o projecto técnico-pedagógico;
+
+e) Emitir parecer sobre assuntos de natureza pedagógica sempre que lhe seja solicitado.
+
+###### Artigo 11.º — Composição do conselho pedagógico
+
+1 - O conselho pedagógico tem a seguinte composição:
+
+a) O diretor de escola, que preside;
+
+b) Os responsáveis pela área de formação;
+
+c) Os responsáveis pela área técnica;
+
+d) Os responsáveis pela área de inovação;
+
+e) Um representante dos orientadores educativos de turma, sendo designado um por cada curso ministrado na escola.
+
+f) Um representante dos coordenadores de curso, sendo designado um por cada curso ministrado na escola;
+
+g) Um representante da associação de alunos, ou na sua falta por representantes eleitos de entre os delegados de turma, podendo ser designado um aluno por cada nível de formação ministrado na escola;
+
+h) Um representante dos pais ou encarregados de educação.
+
+2 - Participa, ainda, nas reuniões do conselho pedagógico um representante da direção de formação do Turismo de Portugal, I. P.
+
+3 - Para os efeitos do número anterior, o diretor de escola deve comunicar à direção de formação do Turismo de Portugal, I. P., com a devida antecedência, a ordem de trabalhos da reunião do conselho pedagógico.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 11.º-A — Comissão Regional
+
+1 - Cada escola dispõe de uma Comissão Regional, que participa na definição e implementação da estratégia de formação nas respetivas regiões de influência.
+
+2 - Compete à Comissão Regional:
+
+a) Identificar as necessidades de formação turística a médio-longo prazo;
+
+b) Emitir parecer sobre o projeto técnico-pedagógico e outros instrumentos de planeamento e gestão da escola que venham a ser definidos;
+
+c) Emitir parecer sobre a oferta formativa da escola, tendo em conta a sua articulação com o setor do turismo e o desenvolvimento estratégico definido para a região;
+
+d) Promover a integração da escola no desenvolvimento da região, colaborando na transferência de conhecimento entre a escola e o setor;
+
+e) Colaborar na promoção da empregabilidade dos jovens formados na região;
+
+f) Identificar produtos e gastronomia regionais;
+
+g) Identificar o calendário sazonal dos produtos locais;
+
+h) Promover formas de valorizar e incentivar o consumo de produtos locais na rede de distribuição e comercialização turística;
+
+i) Contribuir para a missão da escola, apresentando sugestões, propostas e projetos que promovam a qualidade e a excelência da formação ministrada.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 11.º-B — Comissão Nacional
+
+1 - A Comissão Nacional tem a missão de contribuir para a definição de estratégias de formação para o setor do turismo, através da criação de um espaço de cooperação, articulação e colaboração com o meio empresarial, académico e científico, com a Administração central, regional e local, com os sindicatos e associações do setor e com as instituições de formação que atuam no setor do turismo.
+
+2 - A Comissão Nacional promove iniciativas que garantam a melhoria contínua da qualificação dos recursos humanos do turismo, de uma forma alinhada, integrada e complementar, competindo-lhe:
+
+a) Contribuir para a valorização das profissões do setor;
+
+b) Promover a articulação da oferta formativa dos agentes de formação no setor;
+
+c) Promover a aproximação da escola às empresas, tendo em vista um crescente envolvimento das empresas na formação, nomeadamente nas componentes de formação em contexto de trabalho;
+
+d) Realizar diagnósticos de necessidades de formação e promover a correspondente adequação às necessidades e desafios do setor;
+
+e) Realizar e potenciar a inovação e investigação de suporte à melhoria contínua da formação em turismo;
+
+f) Produzir e difundir conteúdos de referência sobre a formação em turismo;
+
+g) Analisar e monitorizar a oferta formativa dos vários agentes de formação e propor alterações de conteúdos, ou novas ofertas, que contribuam para a qualificação dos recursos humanos no turismo;
+
+h) Criar sinergias entre os diferentes agentes, com vista à implementação de estratégias integradas de qualificação dos recursos humanos do turismo;
+
+i) Promover a partilha de informação sobre a evolução do emprego, competências, qualificações e formações, através da realização de estudos prospetivos;
+
+j) Reforçar a capacidade de intervenção dos atores de formação em turismo;
+
+k) Contribuir para a afirmação da importância da transversalização da educação para o turismo.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 11.º-C — Composição das comissões
+
+1 - A Comissão Nacional tem a seguinte composição:
+
+a) Um representante do Turismo de Portugal, I. P., responsável pela coordenação e dinamização da Comissão;
+
+b) Um representante do membro do Governo responsável pela área do turismo;
+
+c) Um representante do membro do Governo responsável pela área da educação;
+
+d) Um representante do membro do Governo responsável pela área do emprego e da formação profissional;
+
+e) Um representante do membro do Governo da área da agricultura;
+
+f) Um representante da Associação NEST - Centro de Inovação do Turismo;
+
+g) Um representante da Confederação do Turismo Português;
+
+h) Um representante da RIPTUR - rede de Institutos Politécnicos de Turismo;
+
+i) Um representante do Conselho Nacional de Educação;
+
+j) Um representante do Instituto do Emprego e da Formação Profissional, I. P.;
+
+k) Um representante da Agência Nacional para a Qualificação e o Ensino Profissional, I. P.;
+
+l) Um representante de cada uma das associações empresariais e profissionais com atuação na área do turismo;
+
+m) Um representante de cada uma das associações sindicais;
+
+n) Outros representantes ou indivíduos que venham a ser identificados como relevantes para a missão da comissão.
+
+2 - A Comissão Regional tem a seguinte composição:
+
+a) O diretor de escola, responsável pela coordenação e dinamização da Comissão;
+
+b) Um representante da Associação NEST - Centro de Inovação do Turismo;
+
+c) Um representante da Direção-Geral dos Estabelecimentos Escolares;
+
+d) Um representante da Direção Regional do Instituto do Emprego e Formação Profissional respetivo;
+
+e) Um representante da Direção Regional de Agricultura e Pescas;
+
+f) Um representante de cada uma das instituições de ensino superior da região com cursos de turismo;
+
+g) Um representante da Entidade Regional de Turismo;
+
+h) Um representante da Agência Regional de Promoção Turística respetiva;
+
+i) Um representante da Comissão de Coordenação e Desenvolvimento Regional respetiva;
+
+j) Um representante da comunidade intermunicipal da região;
+
+k) Um representante da associação de alunos ou, na sua falta, um representante eleito de entre os delegados de turma.
+
+3 - Sempre que se entenda necessário, em função das matérias em apreciação, podem ser convidados a participar na Comissão outros representantes ou indivíduos que venham a ser identificados como relevantes para a respetiva missão.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 11.º-D — Reuniões das comissões
+
+1 - As reuniões da Comissão Nacional são presididas pelo representante do Turismo de Portugal, I. P.
+
+2 - As reuniões da Comissão Regional são presididas pelo diretor de escola.
+
+3 - As Comissões reúnem ordinariamente uma vez por semestre e, extraordinariamente, sempre que convocadas pelo presidente, por sua iniciativa ou por solicitação de, pelo menos, dois terços dos seus membros.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 12.º — Organização interna
+
+1 - As escolas adotam na sua estruturação interna um modelo funcional flexível de estrutura matricial, ajustado aos objetivos do projeto técnico-pedagógico previsto no artigo 2.º, organizado de acordo com as seguintes áreas de atuação:
+
+a) A área de formação, que engloba a formação inicial, a formação contínua, incluindo a formação à medida, a consultoria, a assistência técnica e a certificação profissional;
+
+b) A área técnica que compreende a execução das actividades de apoio técnico, produção hoteleira, aprovisionamento e gestão dos hotéis de aplicação.
+
+c) A área administrativa e financeira, que compreende as atividades de suporte à gestão administrativa e financeira;
+
+d) A área de inovação, que compreende as atividades de apoio à capacitação das empresas, à criação de novos negócios e à inovação empresarial, bem como a gestão das unidades de aplicação de suporte aos serviços de inovação e dos laboratórios abertos de experimentação.
+
+2 - (Revogado.)
+
+3 - As áreas funcionais são dirigidas e coordenadas pelo diretor da escola, sem prejuízo das competências que, por despacho do diretor, sejam delegadas nos trabalhadores que nelas exerçam funções.
+
+4 - A estrutura e organização interna das escolas são fixadas em portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e do turismo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 13.º — Hotéis, restaurantes e outras unidades de aplicação
+
+1 - Os hotéis e restaurantes de aplicação são serviços integrados nas escolas e destinam-se a proporcionar aos alunos a formação prática profissional.
+
+2 - As escolas podem ter outras unidades de aplicação, com serviços igualmente integrados na sua estrutura de suporte à inovação empresarial e à qualificação do setor nas suas dimensões económica, social e ambiental.
+
+3 - As unidades de aplicação podem encontrar-se abertas ao público e realizar a venda de bens e serviços a clientes externos, desde que reúnam as condições técnicas e legais para esse efeito, mediante deliberação do conselho diretivo do Turismo de Portugal, I. P., sob proposta do diretor de escola.
+
+4 - A gestão das unidades de aplicação previstas no presente artigo pode ser concessionada a entidades privadas do setor, no âmbito da legislação aplicável, por decisão e nos termos a definir pelo conselho diretivo do Turismo de Portugal, I. P., desde que a concessão garanta aos alunos das escolas a frequência da formação prática profissional, sob orientação pedagógica exclusiva do Turismo de Portugal, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 13.º-A — Laboratórios Abertos de Experimentação
+
+1 - Nas escolas existem Laboratórios Abertos de Experimentação, ao serviço da inovação e do empreendedorismo empresarial e social, através dos quais podem ser disponibilizados, a pessoas individuais ou coletivas, infraestruturas, equipamentos e conhecimento para experimentação e desenvolvimento de novos produtos.
+
+2 - O modelo de funcionamento destes Laboratórios Abertos de Experimentação é definido em regulamento específico a aprovar pelo membro do Governo responsável pela área do turismo, sob proposta do conselho diretivo do Turismo de Portugal, I. P.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 14.º — Regime de pessoal
+
+1 - Aos trabalhadores das escolas é aplicável o regime jurídico dos trabalhadores que exercem funções públicas.
+
+2 - Sem prejuízo da dotação que vier a ser fixada para cada escola no respectivo mapa de pessoal, o preenchimento de necessidades temporárias, considerando as componentes de formação de natureza profissional ou técnica, incluídas no projecto técnico-pedagógico, nos planos e cursos de formação aprovados, pode ser satisfeito com recurso aos mecanismos de mobilidade geral previstos na lei ou à contratação de pessoal em regime de contrato de trabalho a termo resolutivo, dependendo, neste último caso, de despacho conjunto de autorização dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e do turismo, que fixa a quota anual de contratos a celebrar para efeitos de descongelamento das admissões necessárias.
+
+3 - No âmbito dos planos e cursos aprovados, as escolas podem ainda recorrer a pessoal docente do Ministério da Educação, utilizando os mesmos mecanismos de selecção, recrutamento e colocação por recurso aos instrumentos de mobilidade ou à contratação a termo, neste último caso, nos termos do regime jurídico de vinculação aplicável ao pessoal que exerce transitoriamente funções docentes ou de formação em áreas técnicas específicas no âmbito do ensino público não superior.
+
+4 - Para a docência da componente de formação técnica das escolas, deve ser dada preferência a formadores que tenham uma experiência profissional ou empresarial efectiva.
+
+5 - As habilitações exigidas ao pessoal docente das escolas para leccionarem as disciplinas da formação sócio-cultural e científica nos cursos de dupla qualificação são as previstas na legislação aplicável ao ensino secundário regular.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 15.º — Critérios de selecção de pessoal
+
+1 - Os procedimentos relativos à selecção e reafectação do pessoal das escolas abrangidas pelo presente decreto-lei regem-se pelo disposto na Lei n.º 53/2006, de 7 de Dezembro, na redacção dada pela Lei n.º 11/2008, de 20 de Fevereiro.
+
+2 - Para efeitos de selecção do pessoal a reafectar é definido como critério geral e abstracto o exercício das funções necessárias para a prossecução das competências transferidas para as escolas, considerando o novo modelo de gestão escolar definido no presente decreto-lei.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 110/2019 - Diário da República n.º 155/2019, Série I de 2019-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2019-123968667), em vigor a partir de 2019-08-15
+
+###### Artigo 16.º — Disposição final
+
+1 - Sem prejuízo do disposto no artigo 2.º, a gestão global e integrada dos recursos humanos, financeiros e materiais das escolas é cometida aos serviços centrais do Turismo de Portugal, I. P., competentes em cada uma daquelas matérias.
+
+2 - Cada escola dispõe de uma dotação orçamental, incluída no orçamento do Turismo de Portugal, I. P., fixada de acordo com o respectivo projecto técnico-pedagógico, com o plano de formação e com o plano anual de actividades aprovados.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António José de Castro Guerra - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago.
+
+Promulgado em 29 de Outubro de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 31 de Outubro de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:509856:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1994-73050975",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/1-1994-509856",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-01-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73043436",
+    "73043437",
+    "73043438",
+    "73043439",
+    "73043440",
+    "73043441",
+    "73043442",
+    "73043443",
+    "73043444",
+    "73043445"
+   ]
+  },
+  {
+   "date": "2008-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:455419:por",
+     "title": "Decreto-Lei n.º 153/2008",
+     "published": "2008-08-06",
+     "dre_path": "/dr/detalhe/decreto-lei/153-2008-455419"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "73043436",
+    "73043437",
+    "73043438",
+    "73043447",
+    "73043440",
+    "73043441",
+    "73043442",
+    "73043443",
+    "73043444",
+    "73043445",
+    "73043446"
+   ]
+  }
+ ],
+ "fragments": {
+  "73043436": {
+   "fragment_id": "73050976",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 1/94\n\nde 18 de Janeiro\n\nO Decreto-Lei n.º 322/90, de 18 de Outubro, que definiu, no âmbito dos regimes de segurança social, a protecção na eventualidade morte, consagra a extensão do regime jurídico das prestações nele estabelecidas às pessoas que se encontrem na situação prevista no artigo 2020.º do Código Civil, isto é, que tenham vivido em condições análogas às dos cônjuges.\n\nEm matéria de pensões de sobrevivência, o acolhimento do princípio da relevância das uniões de facto de alguma forma equiparáveis, para efeitos sociais, à sociedade conjugal tem por objectivo a harmonização dos regimes internos de protecção social, bem como a adequação a recomendações formuladas no âmbito de instâncias internacionais.\n\nRelativamente às demais prestações instituídas pelo referido diploma, respectivamente os subsídios por morte e por assistência de terceira pessoa, considerou-se, também, de alargar, no domínio da segurança social, o reconhecimento do respectivo direito às pessoas naquelas circunstâncias.\n\nTendo, porém, em atenção as especificidades de que se revestem as situações de união de facto, o n.º 2 do artigo 8.º daquele diploma determina que a definição das condições de atribuição e do respectivo processo de prova devem ser objecto de regulamentação adequada.\n\nAssim:\n\nAo abrigo do disposto no artigo 8.º do Decreto-Lei n.º 322/90, de 18 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "73043437": {
+   "fragment_id": "73050977",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define o regime de acesso às prestações por morte, no âmbito dos regimes de segurança social, previstas no Decreto-Lei n.º 322/90, de 18 de Outubro, por parte das pessoas que se encontram na situação de união de facto."
+  },
+  "73043438": {
+   "fragment_id": "73050978",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nTem direito às prestações a que se refere o número anterior a pessoa que, no momento da morte de beneficiário não casado ou separado judicialmente de pessoas e bens, vivia com ele há mais de dois anos em condições análogas às dos cônjuges."
+  },
+  "73043439": {
+   "fragment_id": "73050979",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de atribuição\n\n1 - A atribuição das prestações às pessoas referidas no artigo 2.º fica dependente de sentença judicial que lhes reconheça o direito a alimentos da herança do falecido nos termos do disposto no artigo 2020.º do Código Civil.\n\n2 - No caso de não ser reconhecido tal direito, com fundamento na inexistência ou insuficiência de bens da herança, o direito às prestações depende do reconhecimento judicial da qualidade de titular daquelas, obtido mediante acção declarativa interposta, com essa finalidade, contra a instituição de segurança social competente para a atribuição das mesmas prestações."
+  },
+  "73043440": {
+   "fragment_id": "73050980",
+   "type": 11,
+   "heading": "Artigo 4.º — Equiparação a cônjuge",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Equiparação a cônjuge\n\nPara os efeitos previstos no Decreto-Lei n.º 322/90, de 18 de Outubro, consideram-se equiparadas a cônjuge as pessoas que se encontrem nas condições estabelecidas no artigo 3.º"
+  },
+  "73043441": {
+   "fragment_id": "73050981",
+   "type": 11,
+   "heading": "Artigo 5.º — Requerimento das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requerimento das prestações\n\nO requerimento das prestações por morte, a conceder ao abrigo do disposto neste diploma, deve ser acompanhado de certidão da sentença judicial que fixe o direito a alimentos ou declare a qualidade de titular das prestações por morte."
+  },
+  "73043442": {
+   "fragment_id": "73050982",
+   "type": 11,
+   "heading": "Artigo 6.º — Início da pensão de sobrevivência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Início da pensão de sobrevivência\n\nA pensão de sobrevivência é atribuída a partir do início do mês seguinte ao do falecimento do beneficiário, quando requerida nos seis meses posteriores ao trânsito em julgado da sentença, ou a partir do início do mês seguinte ao da apresentação do requerimento, após o decurso daquele prazo."
+  },
+  "73043443": {
+   "fragment_id": "73050983",
+   "type": 11,
+   "heading": "Artigo 7.º — Situação especial de individualização das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Situação especial de individualização das pensões\n\n1 - Quando, por aplicação do disposto no artigo anterior, a pensão de sobrevivência retroaja ao início do mês seguinte ao do falecimento do beneficiário, os valores das pensões dos demais titulares mantêm-se até ao mês da apresentação do requerimento a que se refere o artigo 5.º, inclusive.\n\n2 - A repartição dos montantes a que haja lugar verifica-se desde o início do mês seguinte ao do requerimento."
+  },
+  "73043444": {
+   "fragment_id": "73050984",
+   "type": 11,
+   "heading": "Artigo 8.º — Regras de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regras de aplicação\n\nAs regras técnicas necessárias à boa aplicação do presente diploma são definidas por portaria do Ministro do Emprego e da Segurança Social."
+  },
+  "73043445": {
+   "fragment_id": "73050985",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma aplica-se às situações decorrentes de óbitos de beneficiários que se tenham verificado após a entrada em vigor do Decreto-Lei n.º 322/90, de 18 de Outubro."
+  },
+  "73043447": {
+   "fragment_id": "73050979",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de atribuição",
+   "in_force_from": "2008-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2008 - Diário da República n.º 151/2008, Série I de 2008-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2008-455419), em vigor a partir de 2008-08-11"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de atribuição\n\n1 - A atribuição das prestações por morte às pessoas referidas no artigo 2.º fica dependente de sentença judicial que lhes reconheça o direito a alimentos ou, na falta ou insuficiência de bens da herança, a qualidade de titular do direito a alimentos, nos termos do disposto no artigo 2020.º do Código Civil.\n\n2 - Para efeitos do disposto no número anterior, a acção declarativa deve ser interposta também contra a instituição de segurança social competente para a atribuição das prestações referidas no artigo 1.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 153/2008 - Diário da República n.º 151/2008, Série I de 2008-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2008-455419), em vigor a partir de 2008-08-11"
+  },
+  "73043446": {
+   "fragment_id": "73050986",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 29 de Novembro de 1993.\n\nAníbal António Cavaco Silva - António Morgado Pinto Cardoso.\n\nPromulgado em 23 de Dezembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Dezembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

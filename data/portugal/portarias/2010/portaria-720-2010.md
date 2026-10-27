@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:343610:por
+title: Portaria n.º 720/2010
+short_title: null
+summary: Exclui da zona de caça municipal de Aljezur vários terrenos cinegéticos sitos na freguesia e município de Aljezur
+  (processo n.º 2809-AFN), exclui da zona de caça municipal da freguesia de Marmelete vários terrenos cinegéticos sitos na
+  freguesia e município de Monchique (processo n.º 4191-AFN) e concessiona a zona de caça turística do Barracão, por um período
+  de 12 anos, aos herdeiros de José Joaquim Madeira Valagão Barreira, constituída pelo prédio rústico denominado Herdade do
+  Barracão, sito na freguesia e município de Aljezur e na freguesia e município de Monchique (processo n.º 5484-AFN)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 720/2010
+official_date: null
+publication_date: '2010-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/2010, Série I de 2010-08-18
+  number: '160'
+  series: I
+  supplement: null
+  pages: 3559 - 3560
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16000/0355903560.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/720/2010/08/18/p/dre/pt/html
+  oj: null
+  dre: '343610'
+  dre_path: /dr/detalhe/portaria/720-2010-343610
+  internal: pt:dre:343610:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/720-2010-343610
+  metadata_url: https://data.dre.pt/eli/port/720/2010/08/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/720-2010-343610
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:49:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1e13cdc52c35c686d81098d296790b389b7805baae2624db7f1555a2f422b3b0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aljezur
+- CAÇA
+- Monchique
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+- type: cites
+  target: pt:dre:628803:por
+  label: null
+  source: http://data.dre.pt/eli/port/1568/2007/12/11/p/dre
+- type: cites
+  target: pt:dre:673036:por
+  label: null
+  source: http://data.dre.pt/eli/port/333/2006/04/06/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:49:05Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 720/2010
+
+de 18 de Agosto
+
+As Portarias n.os 339/2008, de 30 de Abril, 883/2009, de 14 de Agosto, e 156/2010, de 12 de Março, procederam respectivamente à renovação, anexação e desanexação de terrenos da zona de caça municipal de Aljezur (processo n.º 2809-AFN), situada no município de Aljezur, tendo ficado com a área total de 20436 ha, válida até 2 de Março de 2014, e transferida a sua gestão para o Clube de Caça e Pesca do Concelho de Aljezur.
+
+As Portarias n.os [333/2006](https://diariodarepublica.pt/dr/detalhe/portaria/333-2006-673036), de 6 de Abril, 913/2007, de 14 de Agosto, e [1568/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1568-2007-628803), de 11 de Dezembro, procederam respectivamente à criação, desanexação de terrenos e correcção da zona de caça municipal da freguesia de Marmelete (processo n.º 4191-AFN), situada no município de Monchique, tendo ficado com a área total de 11747 ha, válida até 6 de Abril de 2012, e transferida a sua gestão para o Clube de Caçadores de Marmelete.
+
+Vieram entretanto proprietários de terrenos incluídos nas zonas de caça acima referidas requerer a exclusão dos seus prédios e simultaneamente os herdeiros de José Joaquim Madeira Valagão Barreira requerer a concessão de uma zona de caça turística para a maioria daqueles prédios.
+
+Foi também reconhecido um direito à não caça em terrenos integrados na zona de caça municipal de Aljezur (processo n.º 2809-AFN), pelo que há necessidade de excluir da mesma a respectiva área.
+
+Cumpridos os preceitos legais e com fundamento no disposto no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º, no artigo 31.º, na alínea a) do artigo 40.º, no artigo 46.º, nos n.os 1 e 2 do artigo 57.º e n.º 1 do artigo 118.º, todos do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e com a alteração do [Decreto-Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de Janeiro, consultados os conselhos cinegéticos municipais de Aljezur e Monchique de acordo com a alínea d) do artigo 158.º do mesmo diploma, e no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pelo despacho n.º 78/2010, de 5 de Janeiro, e delegadas pela Ministra do Ambiente e do Ordenamento do Território pelo despacho n.º 932/2010, de 14 de Janeiro, manda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rural e pelo Secretário de Estado do Ambiente, o seguinte:
+
+###### Artigo 1.º — Exclusão
+
+1 - São excluídos da zona de caça municipal de Aljezur (processo n.º 2809-AFN) vários terrenos cinegéticos, sitos na freguesia e município de Aljezur, com a área de 374 ha, ficando assim esta zona de caça com a área total de 20 062 ha, conforme planta anexa a esta portaria e que dela faz parte integrante.
+
+2 - São excluídos da zona de caça municipal da freguesia de Marmelete (processo n.º 4191-AFN) vários terrenos cinegéticos, sitos na freguesia de Monchique, município de Monchique, com a área de 78 ha, ficando assim esta zona de caça com a área total de 11 669 ha, conforme planta anexa a esta portaria e que dela faz parte integrante.
+
+###### Artigo 2.º — Concessão
+
+É concessionada a zona de caça turística do Barracão (processo n.º 5484-AFN), por um período de 12 anos, renovável automaticamente, aos herdeiros de José Joaquim Madeira Valagão Barreira, com o número de identificação fiscal 901271250 e sede social no Largo do Descarregador, 18, 2860-028 Alhos Vedros, constituída pelo prédio rústico denominado Herdade do Barracão, sito na freguesia de Aljezur, município de Aljezur, com a área de 312 ha, e na freguesia de Monchique, município de Monchique, com a área de 78 ha, perfazendo uma área total de 390 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+###### Artigo 3.º — Terrenos em área classificada
+
+A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados que determinem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de 10 % da área total.
+
+###### Artigo 4.º — Efeitos da sinalização
+
+1 - As exclusões referidas no artigo 1.º só produzem efeitos, relativamente a terceiros, com a correcção da respectiva sinalização.
+
+2 - A concessão referida no artigo 2.º só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+
+###### Artigo 5.º — Produção de efeitos
+
+Esta portaria produz efeitos a partir do dia seguinte ao da sua publicação.
+
+O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 4 de Agosto de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 26 de Julho de 2010.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/16000/0355903560.pdf)

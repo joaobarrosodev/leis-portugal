@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:163638:por
+title: Decreto n.º 44533
+short_title: null
+summary: Cria duas escolas técnicas profissionais, a instalar nos concelhos da Sertã e de Olhão, que se denominarão, respectivamente,
+  Escola Industrial da Sertã e Escola Industrial de Olhão
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação Nacional - Direcção-Geral do Ensino Técnico Profissional
+proposing_entity: null
+official_number: '44533'
+official_date: null
+publication_date: '1962-08-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 191/1962, Série I de 1962-08-21
+  number: '191'
+  series: I
+  supplement: null
+  pages: 1150 - 1151
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/08/19100/11501151.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '163638'
+  dre_path: /dr/detalhe/decreto/44533-1962-163638
+  internal: pt:dre:163638:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44533-1962-163638
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44533-1962-163638
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 615c3759d03364a5d56c79115044a6203e8f7040205bd22c734793b291b67ae7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:30:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:184274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433006:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:30:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44533
+
+Em correspondência com a linha de desenvolvimento traçada ao ensino técnico profissional no relatório do II Plano de Fomento, ficou prevista, no [Decreto n.º 42368](https://diariodarepublica.pt/dr/detalhe/decreto/42368-1959-433006), de 4 de Julho de 1959, a criação de diversas escolas, algumas das quais entraram já em funcionamento.
+
+A presente e grave conjuntura da vida nacional obriga, infelizmente, a retardar o desejável ritmo de execução desse programa, mas não lhe retira a validade. Por isso o Ministério da Educação Nacional continua, empenhado em dar-lhe seguimento.
+
+Entre as escolas previstas figuram as da Sertã e de Olhão.
+
+Por iniciativa local funciona já na Sertã o Centro Liceal e Técnico Santo Condestável, que - dispondo de edifício expressamente construído para o efeito e inteiramente adequado - se propõe ministrar, além do ensino liceal, o do ciclo preparatório e o do curso geral de comércio. Esta instituição particular prontifica-se ainda a facultar a utilização gratuita pelo Estado de parte do seu próprio edifício, a qual permite instalar satisfatòriamente as aulas e os serviços administrativos da escola industrial.
+
+Associando a acção do Estado aos esforços dos particulares torna-se assim possível dotar uma vasta região, até agora desprovida de ensino secundário, de um foco educativo polivalente, apto a orientar ùtilmente, em diversos sentidos, de acordo com as suas aptidões e interesses, a juventude local.
+
+Ao Estado pede-se sòmente a manutenção do ensino industrial e a instalação das respectivas oficinas. Reduzido o problema a estas proporções, entendeu-se ser inteiramente razoável dar-lhe solução tão rápida quanto possível.
+
+Dois ponderosos motivos determinam também a prioridade atribuída ao concelho de Olhão: atenuar, com a abertura deste novo estabelecimento de ensino, o congestionamento da vizinha escola de Faro, já superlotada e frequentada por mais de trezentos alunos residentes naquele concelho; aproveitar instalações já existentes, que a Câmara Municipal coloca à disposição do Estado.
+
+Nestes termos:
+
+Tendo em atenção as disposições da [Lei n.º 2025](https://diariodarepublica.pt/dr/detalhe/lei/2025-1947-184274), de 19 de Junho de 1947, designadamente as da sua base II;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São criadas duas escolas técnicas profissionais, a instalar nos concelhos da Sertã e de Olhão, que se denominarão, respectivamente, Escola Industrial da Sertã e Escola Industrial de Olhão.
+
+Art. 2.º As escolas a que se refere o artigo anterior são de frequência mista e regulam-se pelas disposições do Decreta n.º 37029, de 25 de Agosto de 1948, e demais legislação aplicável.
+
+§ 1.º Na Escola Industrial da Sertã será ministrado o ensino dos cursos de electromecânico e de formação feminina.
+
+§ 2.º Na Escola Industrial de Olhão será ministrado o ensino do ciclo preparatório e dos cursos de electromecânico e de técnico de conservas.
+
+§ 3.º O ensino da técnica de conservas será organizado com a activa cooperação dos organismos representativos da indústria correspondente.
+
+Art. 3.º A Escola Industrial da Sertã entrará em funcionamento após a construção do respectivo corpo de oficinas e a empresa proprietária do Centro Liceal e Técnico Santo Condestável fica obrigada a ceder gratuitamente, para instalação parcial da mesma Escola, as demais dependências necessárias, segundo acordo a estabelecer entre a Direcção-Geral do Ensino Técnico Profissional e aquela empresa.
+
+Art. 4.º Até à construção do edifício próprio, a Escola Industrial de Olhão funcionará em instalação fornecida pela Câmara Municipal, depois de verificado que a mesma satisfaz aos necessários requisitos pedagógicos.
+
+Art. 5.º Os quadros de pessoal docente, administrativo e menor das escolas da Sertã e de Olhão são os que constam do mapa anexo ao presente diploma e que dele faz parte integrante.
+
+§ único. O provimento dos lugares será feito gradualmente, de acordo com as necessidades do serviço.
+
+Art. 6.º Até que sejam constituídos os conselhos administrativos das escolas criadas pelo presente diploma as funções que legalmente lhes competem serão desempenhadas pelos directores.
+
+Art. 7.º No presente ano económico os vencimentos dos funcionários que vierem a ser nomeados para o quadro da Escola Industrial de Olhão serão abonados por conta das disponibilidades da dotação inscrita no artigo 807.º do correspondente orçamento do Ministério da Educação Nacional.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 21 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - António Manuel Pinto Barbosa - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior.
+
+Mapa a que se refere o artigo 5.º do Decreto n.º 44533 desta data
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/08/19100/11501151.pdf)
+
+Ministério da Educação Nacional, 21 de Agosto de 1962. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.

@@ -1,0 +1,338 @@
+---
+schema_version: '1.0'
+id: pt:dre:240044:por
+title: Decreto Legislativo Regional n.º 12/2005/M
+short_title: null
+summary: Aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 12/2005/M
+official_date: null
+publication_date: '2005-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 142/2005, Série I-A de 2005-07-26
+  number: '142'
+  series: I
+  supplement: null
+  pages: 4371 - 4374
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/07/142a00/43714374.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/12/2005/07/26/m/dre/pt/html
+  oj: null
+  dre: '240044'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/12-2005-240044
+  internal: pt:dre:240044:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044
+  metadata_url: https://data.dre.pt/eli/declegreg/12/2005/07/26/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:40:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b356ff0559a5778e5b76e30a48b210cc70fcdda983c0cba02870fd3bb1735752
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Desporto
+- Financiamento
+- Madeira.região Autónoma
+- Organização Desportiva
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:58986482:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:262158:por
+  label: "Alterados os arts. 3º, 4º e 10º e revogado o art. 11º pelo DLR.4/2007/M.18.12.2006.AL-RAM, DR.IS [8] de 11.01.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2007-262158
+  date: '2006-12-18'
+- type: amended_by
+  target: pt:dre:455661:por
+  label: "Alterado o artigo 63.º do DLR 4/2007/M de 11 de Janeiro, dando nova redacção ao artigo 3.º do presente diploma,\
+    \ pelo DLR.29/2008/M.12.08.2008.AL-RAM, DR.IS [155] de 12.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2008-455661
+  date: '2008-08-12'
+- type: amended_by
+  target: pt:dre:58986482:por
+  label: Alterado o art.17.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 14/2014/M - Diário da República
+    n.º 226/2014, Série I de 2014-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2014-58986482
+  date: '2014-11-21'
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:505641:por
+  label: null
+  source: http://data.dre.pt/eli/lei/30/2004/07/21/p/dre
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:40:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 12/2005/M
+
+Aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira.
+
+O fenómeno desportivo na Região Autónoma da Madeira conheceu, por força do processo autonómico, um grande desenvolvimento, permitindo a prática desportiva à generalidade da população, fosse essa prática mero lazer, competição ou mesmo alto rendimento.
+
+Apesar de só com a publicação da [Lei n.º 1/90](https://diariodarepublica.pt/dr/detalhe/lei/1-1990-333524), de 13 de Janeiro, Portugal ter passado a ter uma lei de bases do sistema desportivo, o certo é que a regulamentação a que tal diploma obrigava, por forma a justificar a sua existência, atribuindo em simultâneo a devida eficácia, foi em geral tardia, desadequada ou inexistente. A Região Autónoma da Madeira, apesar de ter consagrado no seu Estatuto Político-Administrativo o desporto como matéria de interesse específico, facto que lhe atribuía o respectivo poder legislativo, nunca legislou de forma directa e objectiva em matéria desportiva, salvo raras excepções, sendo as comparticipações financeiras ao desporto efectuadas tendo por base legal os decretos legislativos regionais que aprovavam os orçamentos do Governo Regional.
+
+Deste modo as comparticipações financeiras eram efectuadas mediante celebração de contratos-programa com as entidades beneficiárias, resultando tais apoios ao associativismo desportivo da Lei de Bases do Sistema Desportivo e dos diplomas orçamentais aprovados na então Assembleia Legislativa Regional.
+
+E exclusivamente destes diplomas porque o desporto enquanto matéria de interesse específico regional, conforme a alínea s) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, se submetia aos ditames da Lei de Bases enquanto tal - válida para todo o território nacional - e somente deste diploma nacional em relação a esta matéria; por outro lado, dos orçamentos regionais porque tais diplomas autorizavam as despesas a serem anualmente realizadas pelo Governo Regional da Madeira.
+
+A nova realidade legislativa resultante da [Lei Constitucional n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2004-506783), de 24 de Julho, veio atribuir maior poder legislativo às Regiões Autónomas, pondo termo a algumas situações de difícil aceitação, nomeadamente a definição de leis gerais da República, efectivo limite aos poderes legislativos regionais.
+
+Neste sentido, é desenvolvido o planeamento e financiamento da actividade desportiva na Região Autónoma da Madeira, previsto na [Lei n.º 30/2004](https://diariodarepublica.pt/dr/detalhe/lei/30-2004-505641), de 21 de Julho, que aprova a Lei de Bases do Desporto, por se ter entendido que, no âmbito regional, o regime de atribuição de comparticipações financeiras ao associativismo desportivo constante do presente diploma é o que melhor acautela a publicidade e transparência de tais comparticipações, optimizando quanto possível o investimento público no desenvolvimento do desporto regional.
+
+Assim:
+
+A Assembleia Legislativa da Madeira decreta, ao abrigo da alínea c) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, nos termos do n.º 4 do referido artigo 227.º, conjugado com o artigo 81.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, na redacção dada pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime de atribuição de comparticipações financeiras ao associativismo desportivo sediado na Região Autónoma da Madeira, previsto no artigo 65.º da [Lei n.º 30/2004](https://diariodarepublica.pt/dr/detalhe/lei/30-2004-505641), de 21 de Julho.
+
+###### Artigo 2.º — Comparticipações financeiras
+
+1 - São abrangidas pelo presente diploma todas as comparticipações financeiras concedidas pela administração pública regional e local ao associativismo desportivo em todas as suas vertentes, formas de organização e regimes de competição.
+
+2 - A atribuição de comparticipações financeiras carece da prévia apresentação de programa de desenvolvimento desportivo por parte da entidade candidata ao financiamento e ou comprovativo de integração numa competição regional, nacional ou internacional.
+
+###### Artigo 3.º — Programas de desenvolvimento desportivo
+
+1 - Para efeitos de atribuição de comparticipações financeiras, consideram-se programas de desenvolvimento desportivo, nomeadamente, os seguintes:
+
+a) Os planos de actividades das entidades que fomentam e dirigem no plano regional ou local a prática de modalidades desportivas;
+
+b) Os planos de acção específica visando a organização de competições desportivas de âmbito regional, nacional ou internacional e a participação de praticantes regionais em provas nacionais e internacionais;
+
+c) Os projectos de construção, recuperação ou melhoramento de infra-estruturas e equipamentos desportivos;
+
+d) Os projectos de formação, investigação e relacionamento com organismos internacionais visando o desenvolvimento desportivo;
+
+e) Os planos de aquisição de apetrechamento desportivo e ou dos meios de transporte destinados à actividade desportiva;
+
+f) A organização de eventos desportivos;
+
+g) Os destinados a garantir os meios e a viabilidade do serviço público prestado pelas entidades do associativismo desportivo.
+
+2 - Outras medidas de fomento e ou relativas a infra-estruturas desportivas, constantes do Programa do Governo Regional.
+
+###### Artigo 4.º — Beneficiários das comparticipações financeiras
+
+1 - Podem beneficiar da concessão de comparticipações financeiras no âmbito definido pelo presente diploma:
+
+a) As associações desportivas filiadas nas federações desportivas dotadas de utilidade pública desportiva;
+
+b) Os clubes desportivos, independentemente da associação ou federação dotada de utilidade pública desportiva em que estejam inscritos;
+
+c) As sociedades anónimas desportivas.
+
+2 - As comparticipações financeiras directamente atribuídas aos clubes desportivos só podem ter por objecto planos ou projectos específicos que não caibam nas atribuições próprias das associações e federações e não constituam um encargo ordinário dos mesmos.
+
+3 - Para beneficiarem de comparticipações financeiras de apoio ao desenvolvimento desportivo, não podem as entidades referidas no n.º 1 ser devedoras ao fisco ou à segurança social.
+
+###### Artigo 5.º — Contratos-programa
+
+1 - A concessão das comparticipações financeiras referidas no presente diploma efectuar-se-á imperativamente mediante celebração de contrato-programa.
+
+2 - A celebração do contrato-programa tem por finalidade flexibilizar o processo de concessão de apoios financeiros ao associativismo desportivo, permitir uma avaliação dos custos de cada plano ou projecto a apoiar, responsabilizar os outorgantes pelo integral cumprimento das obrigações por estes assumidas e assegurar a publicidade e transparência das condições inerentes à comparticipação financeira atribuída.
+
+###### Artigo 6.º — Intervenção de terceiros
+
+Podem ser partes nos contratos-programa, além do concedente e do beneficiário, outras entidades interessadas no plano de desenvolvimento desportivo comparticipado, nomeadamente associações de outra natureza e estabelecimentos de ensino, assumindo para o efeito direitos ou vantagens a seu favor e obrigações ou contrapartidas no âmbito das respectivas atribuições.
+
+###### Artigo 7.º — Proposta de contrato-programa
+
+1 - As propostas de programa de desenvolvimento desportivo no âmbito do presente diploma devem conter os seguintes elementos:
+
+a) Descrição genérica do programa de desenvolvimento desportivo proposto;
+
+b) Justificação social e desportiva do programa, indicando as vantagens dele resultantes;
+
+c) Quantificação dos resultados esperados, quando aplicável;
+
+d) Previsão de custos e de necessidades de financiamento público, acompanhada dos respectivos cronogramas ou escalonamentos;
+
+e) Indicação de outras entidades eventualmente associadas ao programa e respectiva intervenção;
+
+f) Calendário da execução do programa de desenvolvimento desportivo;
+
+g) Destino dos bens adquiridos ou construídos ao abrigo do programa, quando aplicável;
+
+h) As sociedades anónimas desportivas devem apresentar proposta das acções que se propõem realizar, como veículos promocionais da Região Autónoma da Madeira.
+
+2 - Se o programa tiver por objecto a construção, recuperação ou melhoramento de infra-estruturas ou equipamentos desportivos, a proposta deve ainda conter a planta da respectiva localização e os elementos necessários à sua apreciação.
+
+3 - A participação de terceiros no contrato-programa deve ser identificada na proposta, com indicação dos respectivos direitos e obrigações.
+
+###### Artigo 8.º — Análise das propostas
+
+1 - A decisão sobre a aceitação ou rejeição das propostas apresentadas visando a celebração de contratos-programa deve ser proferida e fundamentada no prazo máximo de 90 dias a contar da data de recepção das mesmas.
+
+2 - A aceitação da proposta para celebração de contrato-programa deve ser comunicada ao interessado acompanhada da minuta do contrato com as cláusulas de interesse público que se entenda deverem ser incluídas no mesmo.
+
+###### Artigo 9.º — Celebração dos contratos
+
+1 - No prazo de 90 dias sobre a data da comunicação da aceitação da proposta, a entidade proponente deve dar conhecimento da minuta do contrato às demais entidades interessadas, se as houver, bem como comunicar a decisão destas à entidade concedente da comparticipação financeira.
+
+2 - Uma vez aceite pelo proponente e pelas demais entidades referidas no número anterior, a minuta do contrato será submetida às autorizações e aprovações exigidas por lei.
+
+3 - O texto definitivo do contrato será reduzido a escrito em tantos exemplares quantas as partes outorgantes e por estas assinado.
+
+4 - Os contratos-programa de desenvolvimento desportivo são publicados na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
+
+###### Artigo 10.º — Conteúdo dos contratos
+
+1 - O conteúdo dos contratos é livremente acordado pelas partes outorgantes.
+
+2 - Sem prejuízo de outras estipulações, os contratos-programa devem conter os seguintes elementos:
+
+a) Objecto do contrato;
+
+b) Obrigações da entidade responsável pela execução do programa de desenvolvimento desportivo;
+
+c) Entidades associadas ao programa, seus poderes e suas responsabilidades;
+
+d) Data de entrada em vigor e prazo de execução do programa;
+
+e) Custo previsto do programa e definição das responsabilidades de financiamento;
+
+f) Regime das comparticipações financeiras;
+
+g) Destino dos bens adquiridos ou construídos ao abrigo do programa e responsabilidade pela sua gestão e manutenção;
+
+h) Garantias de afectação futura dos bens referidos na alínea anterior aos fins do contrato e definição do conteúdo e do correspondente prazo de servidão desportiva;
+
+i) Sistema de acompanhamento e controlo da execução do programa;
+
+j) Condições de revisão do contrato.
+
+###### Artigo 11.º — Servidão desportiva
+
+1 - A servidão desportiva referida no artigo anterior tem a natureza de um direito real público de uso de bens privados, destinado a assegurar a utilização pelo público ou por certas categorias de pessoas abstractamente determinadas das infra-estruturas e equipamentos cuja aquisição ou construção tenha sido objecto de comparticipação financeira pública ao abrigo de contratos-programa de desenvolvimento desportivo.
+
+2 - Compete ao Instituto do Desporto da Região Autónoma da Madeira o exercício dos poderes de fiscalização e dos procedimentos executivos necessários para assegurar o cumprimento das obrigações correspondentes à servidão desportiva.
+
+3 - As entidades que adquiram ou construam ao abrigo de contratos-programa de desenvolvimento desportivo bens onerados com uma servidão desportiva devem promover a respectiva inscrição no registo predial, no prazo máximo de 90 dias após a aquisição ou construção, podendo ser efectuada pela entidade pública referida no número anterior a partir de tal data.
+
+###### Artigo 12.º — Controlo da execução dos contratos
+
+1 - Compete à entidade concedente da comparticipação financeira fiscalizar a execução do contrato-programa, podendo realizar, para o efeito, inspecções, inquéritos ou sindicâncias.
+
+2 - A entidade responsável pela realização do programa de desenvolvimento desportivo deve prestar à entidade concedente todas as informações por esta solicitadas acerca da execução do contrato.
+
+3 - A entidade beneficiária da comparticipação financeira enviará à entidade concedente um relatório final sobre a execução do contrato, nos 30 dias sequentes à conclusão do mesmo.
+
+###### Artigo 13.º — Revisão dos contratos
+
+1 - Os contratos-programa podem ser modificados ou revistos nas condições neles estabelecidas ou por livre acordo das partes.
+
+2 - É admitida a revisão do contrato sempre que, em virtude de alteração superveniente e imprevista das circunstâncias, a sua execução seja demasiado onerosa para a entidade beneficiária da comparticipação financeira ou manifestamente inadequada à realização do interesse público.
+
+3 - A entidade interessada na revisão do contrato envia aos demais outorgantes uma proposta fundamentada de onde conste a sua pretensão.
+
+4 - As respostas à proposta de revisão do contrato devem ser comunicadas ao interessado no prazo de 30 dias a contar da data de recepção da mesma, sob pena de aceitação tácita.
+
+###### Artigo 14.º — Cessação dos contratos
+
+1 - A vigência dos contratos-programa cessa nas seguintes situações:
+
+a) Com a conclusão do programa de desenvolvimento desportivo que constitui o seu objecto;
+
+b) Quando, por causa não imputável à entidade responsável pela execução do programa, seja objectiva e definitivamente impossível a realização dos seus objectivos essenciais;
+
+c) Quando, nos termos do n.º 2 do artigo anterior, a entidade concedente da comparticipação financeira resolva o contrato.
+
+2 - A resolução do contrato efectua-se através de notificação dirigida aos outorgantes, por carta registada com aviso de recepção, no prazo máximo de 90 dias a contar da data do conhecimento do facto que lhe serve de fundamento.
+
+###### Artigo 15.º — Incumprimento dos contratos
+
+1 - O atraso na realização do programa de desenvolvimento desportivo confere à entidade concedente da comparticipação financeira o direito a fixar novo prazo para a sua execução ou a resolver o contrato, situação em que as quantias já pagas a título de comparticipação só são restituídas na medida em que a realização do objecto do contrato ficar comprometida.
+
+2 - O incumprimento culposo do programa de desenvolvimento desportivo por parte da entidade beneficiária da comparticipação financeira confere à entidade concedente o direito de resolver o contrato e de reaver todas as quantias pagas; nos demais casos, o incumprimento confere ao concedente apenas o direito de reduzir a sua comparticipação.
+
+3 - Sem prejuízo da responsabilidade das entidades beneficiárias das comparticipações financeiras, os membros dos respectivos órgãos de gestão só respondem pessoalmente pelo reembolso das quantias aplicadas a fim diverso do fixado no contrato-programa quando se prove ter havido da sua parte actuação dolosa ou fraudulenta.
+
+###### Artigo 16.º — Desenvolvimento normativo
+
+Os critérios definindo o montante das comparticipações financeiras de apoio ao associativismo desportivo, as obrigações das entidades beneficiárias dos mesmos e o regime sancionatório ou penalizador pelo incumprimento dos contratos-programa de desenvolvimento desportivo serão estabelecidos por decreto regulamentar do Governo Regional.
+
+###### Artigo 17.º — Disposições finais
+
+1 - Consideram-se abrangidas pelo presente diploma todas as comparticipações financeiras atribuídas pela administração pública regional e local na Região Autónoma da Madeira ao associativismo desportivo, na vigência das Leis n.os [1/90](https://diariodarepublica.pt/dr/detalhe/lei/1-1990-333524), de 13 de Janeiro, e [30/2004](https://diariodarepublica.pt/dr/detalhe/lei/30-2004-505641), de 21 de Julho, e demais legislação complementar e subsequente.
+
+2 - As infra-estruturas desportivas construídas ou adquiridas ao abrigo do presente diploma não podem, em caso algum e sob qualquer forma, constituir garantia real ou outra para pagamento de quaisquer obrigações contraídas ou a contrair pelas entidades beneficiárias dos contratos-programa.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de Junho de 2005.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 8 de Julho de 2005.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

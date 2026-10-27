@@ -1,0 +1,1384 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:666148:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1987-34571175",
+ "dre_path": "/dr/detalhe/lei/11-1987-666148",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1987-04-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868850313",
+    "47950275",
+    "47950375",
+    "47950475",
+    "47950575",
+    "47950675",
+    "47950775",
+    "47950875",
+    "47950975",
+    "47951075",
+    "47951175",
+    "47951275",
+    "47951375",
+    "47951475",
+    "47951575",
+    "47951675",
+    "47951775",
+    "47951875",
+    "47951975",
+    "47952075",
+    "47952175",
+    "47952275",
+    "47952375",
+    "47952475",
+    "47952575",
+    "47952675",
+    "47952775",
+    "47952875",
+    "47952975",
+    "47953075",
+    "47953175",
+    "47953275",
+    "47953375",
+    "47953475",
+    "47953575",
+    "47953675",
+    "47953775",
+    "47953875",
+    "47953975",
+    "47954075",
+    "47954175",
+    "47954275",
+    "47954375",
+    "47954475",
+    "47954575",
+    "47954675",
+    "47954775",
+    "47954875",
+    "47954975",
+    "47955075",
+    "47955175",
+    "47955275",
+    "47955375",
+    "47955475",
+    "47955575",
+    "47955675",
+    "47955775",
+    "47955875",
+    "47955975",
+    "47956075",
+    "47956175",
+    "47956275"
+   ]
+  },
+  {
+   "date": "2003-02-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278029:por",
+     "title": "Lei n.º 13/2002",
+     "published": "2002-02-19",
+     "dre_path": "/dr/detalhe/lei/13-2002-278029"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 45.º"
+   ],
+   "fragments": [
+    "47950175",
+    "47950275",
+    "47950375",
+    "47950475",
+    "47950575",
+    "47950675",
+    "47950775",
+    "47950875",
+    "47950975",
+    "47951075",
+    "47951175",
+    "47951275",
+    "47951375",
+    "47951475",
+    "47951575",
+    "47951675",
+    "47951775",
+    "47951875",
+    "47951975",
+    "47952075",
+    "47952175",
+    "47952275",
+    "47952375",
+    "47952475",
+    "47952575",
+    "47952675",
+    "47952775",
+    "47952875",
+    "47952975",
+    "47953075",
+    "47953175",
+    "47953275",
+    "47953375",
+    "47953475",
+    "47953575",
+    "47953675",
+    "47953775",
+    "47953875",
+    "47953975",
+    "47954075",
+    "47954175",
+    "47954275",
+    "47954375",
+    "47954475",
+    "47954575",
+    "47954675",
+    "47954775",
+    "47954875",
+    "47954975",
+    "47955075",
+    "47955175",
+    "47955275",
+    "47955375",
+    "868850312",
+    "47955575",
+    "47955675",
+    "47955775",
+    "47955875",
+    "47955975",
+    "47956075",
+    "47956175",
+    "47956275",
+    "47956375"
+   ]
+  },
+  {
+   "date": "2014-04-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25344037:por",
+     "title": "Lei n.º 19/2014",
+     "published": "2014-04-14",
+     "dre_path": "/dr/detalhe/lei/19-2014-25344037"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "868850313",
+    "868850314",
+    "868850315",
+    "868850316",
+    "868850317",
+    "868850318",
+    "868850319",
+    "868850320",
+    "868850321",
+    "868850322",
+    "868850323",
+    "868850324",
+    "868850325",
+    "868850326",
+    "868850327",
+    "868850328",
+    "868850329",
+    "868850330",
+    "868850331",
+    "868850332",
+    "868850333",
+    "868850334",
+    "868850335",
+    "868850336",
+    "868850337",
+    "868850338",
+    "868850339",
+    "868850340",
+    "868850341",
+    "868850342",
+    "868850343",
+    "868850344",
+    "868850345",
+    "868850346",
+    "868850347",
+    "868850348",
+    "868850349",
+    "868850350",
+    "868850351",
+    "868850352",
+    "868850353",
+    "868850354",
+    "868850355",
+    "868850356",
+    "868850357",
+    "868850358",
+    "868850359",
+    "868850360",
+    "868850361",
+    "868850362",
+    "868850363",
+    "868850364",
+    "868850365",
+    "868850366",
+    "868850367",
+    "868850368",
+    "868850369",
+    "868850370",
+    "868850371",
+    "868850372",
+    "868850373",
+    "868850374",
+    "868850975"
+   ]
+  }
+ ],
+ "fragments": {
+  "868850313": {
+   "fragment_id": "35190975",
+   "type": 15,
+   "heading": "Diploma — Lei de Bases do Ambiente",
+   "in_force_from": "2014-04-19",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea g), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "47950275": {
+   "fragment_id": "35690375",
+   "type": 1,
+   "heading": "Capítulo I — Princípios e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios e objectivos"
+  },
+  "47950375": {
+   "fragment_id": "37137775",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA presente lei define as bases da política de ambiente, em cumprimento do disposto nos artigos 9.º e 66.º da Constituição da República."
+  },
+  "47950475": {
+   "fragment_id": "37137875",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípio geral\n\n1 - Todos os cidadãos têm direito a um ambiente humano e ecologicamente equilibrado e o dever de o defender, incumbindo ao Estado, por meio de organismos próprios e por apelo a iniciativas populares e comunitárias, promover a melhoria da qualidade de vida, quer individual, quer colectiva.\n\n2 - A política de ambiente tem por fim optimizar e garantir a continuidade de utilização dos recursos naturais, qualitativa e quantitativamente, como pressuposto básico de um desenvolvimento auto-sustentado."
+  },
+  "47950575": {
+   "fragment_id": "37137975",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios específicos\n\nO princípio geral constante do artigo anterior implica a observância dos seguintes princípios específicos:\n\na) Da prevenção: as actuações com efeitos imediatos ou a prazo no ambiente devem ser consideradas de forma antecipativa, reduzindo ou eliminando as causas, prioritariamente à correcção dos efeitos dessas acções ou actividades susceptíveis de alterarem a qualidade do ambiente, sendo o poluidor obrigado a corrigir ou recuperar o ambiente, suportando os encargos daí resultantes, não lhe sendo permitido continuar a acção poluente;\n\nb) Do equilíbrio: devem criar-se os meios adequados para assegurar a integração das políticas de crescimento económico e social e de conservação da Natureza, tendo como finalidade o desenvolvimento integrado, harmónico e sustentável;\n\nc) Da participação: os diferentes grupos sociais devem intervir na formulação e execução da política de ambiente e ordenamento do território, através dos órgãos competentes de administração central, regional e local e de outras pessoas colectivas de direito público ou de pessoas e entidades privadas;\n\nd) Da unidade de gestão e acção: deve existir um órgão nacional responsável pela política de ambiente e ordenamento do território, que normalize e informe a actividade dos agentes públicos ou privados interventores, como forma de garantir a integração da problemática do ambiente, do ordenamento do território e do planeamento económico, quer ao nível global, quer sectorial, e intervenha com vista a atingir esses objectivos na falta ou e substituição de entidades já existentes;\n\ne) Da cooperação internacional: determina a procura de soluções concertadas com outros países ou organizações internacionais para os problemas de ambiente e de gestão dos recursos naturais;\n\nf) Da procura do nível mais adequado de acção: implica que a execução das medidas de política de ambiente tenha em consideração o nível mais adequado de acção, sela ele de âmbito internacional, nacional, regional, local ou sectorial;\n\ng) De recuperação: devem ser tomadas medidas urgentes para limitar os processos degradativos nas áreas onde actualmente ocorrem e promover a recuperação desses áreas, tendo em conta os equilíbrios a estabelecer com as áreas limítrofes;\n\nh) Da responsabilização: aponta para a assunção pelos agentes das consequências, para terceiros, da sua acção, directa ou indirecta, sobre os recursos naturais."
+  },
+  "47950675": {
+   "fragment_id": "37138075",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos e medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos e medidas\n\nA existência de um ambiente propício à saúde e bem-estar das pessoas e ao desenvolvimento social e cultural das comunidades, bem como à melhoria qualidade de vida, pressupõe a adopção de medidas que visem, designadamente:\n\na) O desenvolvimento económico e social auto-sustentado e a expansão correcta das áreas urbanas, através do ordenamento do território;\n\nb) O equilíbrio biológico e a estabilidade geológica com a criação de novas paisagens e a transformação ou a manutenção das existentes;\n\nc) Garantir o mínimo impacte ambiental, através de uma correcta instalação em termos territoriais das actividades produtivas;\n\nd) A manutenção dos ecossistemas que suportam a vida, a utilização racional dos recursos vivos e a preservação do património genético e da sua diversidade;\n\ne) A conservação da Natureza, o equilíbrio biológico e a estabilidade dos diferentes habitats, nomeadamente através da compartimentação e diversificação das paisagens, da constituição de parques e reservas naturais e outras áreas protegidas, corredores ecológicos e espaços verdes urbanos e suburbanos, de modo a estabelecer um continuum naturale;\n\nf) A promoção de acções de investigação quanto aos factores naturais e ao estudo do impacte das acções humanas sobre o ambiente, visando impedir no futuro ou minimizar e corrigir no presente as disfunções existentes e orientar as acções a empreender segundo normas e valores que garantam a efectiva criação de um novo quadro de vida, compatível com a perenidade dos sistemas naturais;\n\ng) A adequada delimitação dos níveis de qualidade dos componentes ambientais;\n\nh) A definição de uma política energética baseada no aproveitamento racional e sustentado de todos os recursos naturais renováveis, na diversificação e descentralização das fontes de produção e na racionalização do consumo;\n\ni) A promoção da participação das populações na formulação e execução da política de ambiente e qualidade de vida, bem como o estabelecimento de fluxos contínuos de informação entre os órgãos da Administração por ela responsáveis e os cidadãos a quem se dirige;\n\nj) O reforço das acções e medidas de defesa do consumidor;\n\nk) O reforço das acções e medidas de defesa e recuperação do património cultural, quer natural, quer construído;\n\nl) A inclusão da componente ambiental e dos valores herdados na educação básica e na formação profissional, bem assim como o incentivo à sua divulgação através dos meios de comunicação social, devendo o Governo produzir meios didácticos de apoio aos docentes (livros, brochuras, etc.);\n\nm) A prossecução de uma estratégia nacional de conservação;\n\nn) A plenitude da vida humana e a permanência da vida selvagem, assim como dos habitats indispensáveis ao seu suporte;\n\no) A recuperação das áreas degradadas do território nacional."
+  },
+  "47950775": {
+   "fragment_id": "37138175",
+   "type": 11,
+   "heading": "Artigo 5.º — Conceitos e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conceitos e definições\n\n1 - A qualidade de vida é resultado da interacção de múltiplos factores no funcionamento das sociedades humanas e traduz-se na situação de bem estar físico, mental e social e na satisfação e afirmação culturais, bem como em relações autênticas entre o indivíduo e a comunidade, dependendo da influência de factores inter-relacionados, que compreendem, designadamente:\n\na) A capacidade de carga do território e dos recursos;\n\nb) A alimentação, a habitação, a saúde, a educação, os transportes e a ocupação dos tempos livres;\n\nc) Um sistema social que assegure a posteridade de toda a população e os consequentes benefícios da Segurança Social;\n\nd) A integração da expansão urbano-industrial na paisagem, funcionando como valorização da mesma, e não como agente de degradação.\n\n2 - Para efeitos do disposto no presente diploma, considera-se que as expressões «ambiente», «ordenamento do território», «paisagem», «continuum naturale», «qualidade do ambiente» e «conservação da Natureza» deverão ser entendidas nas condições a seguir indicadas:\n\na) Ambiente é o conjunto dos sistemas físicos, químicos, biológicos e suas relações e dos factores económicos, sociais e culturais com efeito directo ou indirecto, mediato ou imediato, sobre os seres vivos e a qualidade de vida do homem;\n\nb) Ordenamento do território é o processo integrado da organização do espaço biofísico, tendo como objectivo o uso e a transformação do território, de acordo com as suas capacidades e vocações, e a permanência dos valores de equilíbrio biológico e de estabilidade geológica, numa perspectiva de aumento da sua capacidade de suporte de vida;\n\nc) Paisagem é a unidade geográfica, ecológica e estética resultante da acção do homem e da reacção da Natureza, sendo primitiva quando a acção daquele é mínima e natural quando a acção humana é determinante, sem deixar de se verificar o equilíbrio biológico, a estabilidade física e a dinâmica ecológica;\n\nd) Continuum naturale é o sistema contínuo de ocorrências naturais que constituem o suporte da vida silvestre e da manutenção do potencial genético e que contribui para o equilíbrio e estabilidade do território;\n\ne) Qualidade do ambiente é a adequabilidade de todos os seus componentes às necessidades do homem;\n\nf) Conservação da Natureza é a gestão da utilização humana da Natureza, de modo a viabilizar de forma perene a máxima rentabilidade compatível com a manutenção da capacidade de regeneração de todos os recursos vivos."
+  },
+  "47950875": {
+   "fragment_id": "35690475",
+   "type": 1,
+   "heading": "Capítulo II — Componentes ambientais naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Componentes ambientais naturais"
+  },
+  "47950975": {
+   "fragment_id": "37138275",
+   "type": 11,
+   "heading": "Artigo 6.º — Componentes ambientais naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Componentes ambientais naturais\n\nNos termos da presente lei, são componentes do ambiente:\n\na) O ar;\n\nb) A luz;\n\nc) A água;\n\nd) O solo vivo e o subsolo;\n\ne) A flora;\n\nf) A fauna."
+  },
+  "47951075": {
+   "fragment_id": "37138375",
+   "type": 11,
+   "heading": "Artigo 7.º — Defesa da qualidade dos componentes ambientais naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Defesa da qualidade dos componentes ambientais naturais\n\nEm ordem a assegurar a defesa da qualidade apropriada dos componentes ambientais naturais referidos no número anterior, poderá o Estado, através do ministério da tutela competente, proibir ou condicionar o exercício de actividades e desenvolver acções necessárias à prossecução dos mesmos fins, nomeadamente a adopção de medidas de contenção e fiscalização que levem em conta, para além do mais, os custos económicos, sociais e culturais da degradação do ambiente em termos de obrigatoriedade de análise prévia de custos-benefícios."
+  },
+  "47951175": {
+   "fragment_id": "37138475",
+   "type": 11,
+   "heading": "Artigo 8.º — Ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ar\n\n1 - O lançamento para a atmosfera de quaisquer substâncias, seja qual for o seu estado físico, susceptíveis de afectarem de forma nociva a qualidade do ar e o equilíbrio ecológico ou que impliquem risco, dano ou incómodo grave para as pessoas e bens será objecto de regulamentação especial.\n\n2 - Todas as instalações, máquinas e meios de transporte cuja actividade possa afectar a qualidade da atmosfera devem ser dotados de dispositivos ou processos adequados para reter ou neutralizar as substâncias poluidoras.\n\n3 - É proibido pôr em funcionamento novos empreendimentos ou desenvolver aqueles já existentes e que, pela sua actividade, possam constituir fontes de poluição do ar sem serem dotados de instalações e dispositivos em estado de funcionamento adequado para reter e neutralizar as substâncias poluentes ou sem se terem tomado medidas para respeitar as condições de protecção da qualidade do ar estabelecidas por organismos responsáveis."
+  },
+  "47951275": {
+   "fragment_id": "37138575",
+   "type": 11,
+   "heading": "Artigo 9.º — Luz e níveis de luminosidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Luz e níveis de luminosidade\n\n1 - Todos têm o direito a um nível de luminosidade conveniente à sua saúde, bem-estar e conforto na habitação, no local de trabalho e nos espaços livres públicos de recreio, lazer e circulação.\n\n2 - O nível de luminosidade para qualquer lugar deve ser o mais consentâneo com vista ao equilíbrio dos ecossistemas transformados de que depende a qualidade de vida das populações.\n\n3 - Os anúncios luminosos, fixos ou intermitentes, não devem perturbar o sossego, a saúde e o bem-estar dos cidadãos.\n\n4 - Nos termos do número anterior, ficam condicionados:\n\na) O volume dos edifícios a construir que prejudiquem a qualidade de vida dos cidadãos e a vegetação, pelo ensombramento, dos espaços livres públicos e privados;\n\nb) O regulamento e as normas específicas respeitantes à construção de fogos para habitação, escritórios, fábricas e outros lugares de trabalho, escolas e restante equipamento social;\n\nc) O volume das construções a erigir na periferia dos espaços verdes existentes ou a construir;\n\nd) Os anúncios luminosos só são permitidos nas áreas urbanas e são condicionadas as suas cor, forma, localização e intermitência por normas a fixar especificamente.\n\n5 - Nos termos dos n.os 1, 2 e 3, é proibida:\n\na) A eliminação dos montados de sobro e azinho e outras árvores dispersas nas folhas de cultura, com excepção dos solos das classes A e B, nas paisagens de características mediterrânicas e continentais;\n\nb) A eliminação da vegetação nas margens dos cursos de água;\n\nc) A eliminação da compartimentação, sebes vivas, uveiras e muros, para além da dimensão da folha de cultura considerada mínima regionalmente."
+  },
+  "47951375": {
+   "fragment_id": "37138675",
+   "type": 11,
+   "heading": "Artigo 10.º — Água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Água\n\n1 - As categorias de águas abrangidas pelo presente diploma são as seguintes:\n\na) Águas interiores de superfície;\n\nb) Águas interiores subterrâneas;\n\nc) Águas marítimas interiores;\n\nd) Águas marítimas territoriais;\n\ne) Águas marítimas da zona económica exclusiva.\n\n2 - Estende-se igualmente o presente diploma aos leitos e margens dos cursos de água de superfície, aos fundos e margens de lagoas, às zonas de infiltrações, a toda a orla costeira e aos fundos marinhos interiores, plataforma continental e da zona económica exclusiva.\n\n3 - De entre as medidas específicas do presente diploma, a regulamentar através de legislação apropriada, serão tidas em conta as que se relacionam com:\n\na) A utilização racional da água, com a qualidade referida para cada fim, evitando-se todos os gastos desnecessários e aumentando-se o grau de reutilização;\n\nb) O desenvolvimento coordenado das acções necessárias para conservação, incremento e optimização do aproveitamento das águas de superfície e subterrâneas, tendo por base projectos de conjunto;\n\nc) O estabelecimento de uma faixa de protecção ao longo da orla costeira;\n\nd) O desenvolvimento e aplicação das técnicas de prevenção e combate à poluição hídrica, de origem industrial, agrícola e doméstica ou proveniente de derrames de transportes e outros veículos motorizados, bem como dos respectivos meios de coordenação das acções;\n\ne) As fábricas e estabelecimentos que evacuem águas degradadas directamente para o sistema de esgotos são obrigados a assegurar a sua depuração, de forma a evitar a degradação das canalizações e a perturbação e funcionamento da estação final de depuração.\n\n4 - É interdito dar em exploração novos empreendimentos ou desenvolver aqueles que já existem e que, pela sua actividade, possam constituir fontes de poluição das águas, sem que uns ou outros estejam dotados de instalações de depuração em estado de funcionamento adequado ou sem outros trabalhos ou medidas que permitam respeitar as condições legais e de protecção da qualidade da água.\n\n5 - Os organismos estatais que, de acordo com a lei, autorizam o funcionamento de empresas construídas sobre as águas e suas zonas de protecção só autorizarão a entrada em exploração e funcionamento destas empresas desde que se constate o respeito pelas normas legais concernentes à protecção das águas.\n\n6 - Os organismos responsáveis devem impor às fábricas e estabelecimentos que utilizam águas a sua descarga a jusante da captação depois de convenientemente tratadas."
+  },
+  "47951475": {
+   "fragment_id": "37138775",
+   "type": 11,
+   "heading": "Artigo 11.º — Medidas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Medidas especiais\n\n1 - Todas as utilizações da água carecem de autorização prévia de entidade competente, devendo essa autorização ser acompanhada da definição dos respectivos condicionamentos.\n\n2 - O lançamento nas águas de efluentes poluidores, resíduos sólidos, quaisquer produtos ou espécies que alterem as suas características ou as tornem impróprias para as suas diversas utilizações será objecto de regulamentação especial."
+  },
+  "47951575": {
+   "fragment_id": "37138875",
+   "type": 11,
+   "heading": "Artigo 12.º — Unidade básica de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Unidade básica de gestão\n\nA bacia hidrográfica é a unidade de gestão dos recursos hidrícos, a qual deverá ter em conta as suas implicações sócio-económicas, culturais e internacionais."
+  },
+  "47951675": {
+   "fragment_id": "37138975",
+   "type": 11,
+   "heading": "Artigo 13.º — Solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Solo\n\n1 - A defesa e valorização do solo como recurso natural determina a adopção de medidas conducentes à sua racional utilização, a evitar a sua degradação e a promover a melhoria da sua fertilidade e regeneração, incluindo o estabelecimento de uma política de gestão de recursos naturais que salvaguarde a estabilidade ecológica e os ecossistemas de produção, protecção ou de uso múltiplo e regule o ciclo da água.\n\n2 - Será condicionada a utilização de solos agrícolas de elevada fertilidade para fins não agrícolas, bem como plantações, obras e operações agrícolas que provoquem erosão e degradação do solo, o desprendimento de terras, encharcamento, inundações, excesso de salinidade e outros efeitos perniciosos.\n\n3 - Aos proprietários de terrenos ou seus utilizadores podem ser impostas medidas de defesa e valorização dos mesmos, nos termos do n.º 1 deste artigo, nomeadamente a obrigatoriedade de execução de trabalhos técnicos, agrícolas ou silvícolas, em conformidade com as disposições em vigor.\n\n4 - O uso de biocidas, pesticidas, herbicidas, adubos, correctivos ou quaisquer outras substâncias similares, bem como a sua produção e comercialização, serão objecto de regulamentação especial.\n\n5 - A utilização e a ocupação do solo para fins urbanos e industriais ou implantação de equipamentos e infra-estruturas serão condicionadas pela sua natureza, topografia e fertilidade."
+  },
+  "47951775": {
+   "fragment_id": "37139075",
+   "type": 11,
+   "heading": "Artigo 14.º — Subsolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Subsolo\n\n1 - A exploração dos recursos do subsolo deverá ter em conta:\n\na) Os interesses de conservação da Natureza e dos recursos naturais;\n\nb) A necessidade de obedecer a um plano global de desenvolvimento e, portanto, a uma articulação a nível nacional;\n\nc) Os interesses e questões que local e mais directamente interessem às regiões e autarquias onde se insiram.\n\n2 - Sem prejuízo do estabelecido no n.º 1 do presente artigo, a exploração do subsolo deverá ser orientada por forma a respeitar os seguintes princípios:\n\na) Garantia das condições que permitam a regeneração dos factores naturais renováveis e uma adequada relação entre o volume das reservas abertas e o das preparadas para serem exploradas;\n\nb) Valorização máxima de todas as matérias-primas extraídas;\n\nc) Exploração racional das nascentes de águas minerais e termais e determinação dos seus perímetros de protecção;\n\nd) Adopção de medidas preventivas da degradação do ambiente resultante dos trabalhos de extracção de matéria-prima que possam pôr em perigo a estabilidade dos sistemas naturais e sociais;\n\ne) Recuperação obrigatória da paisagem quando da exploração do subsolo resulta alteração quer da topografia preexistente, quer de sistemas naturais notáveis ou importantes, com vista à integração harmoniosa da área sujeita à exploração na paisagem envolvente."
+  },
+  "47951875": {
+   "fragment_id": "37139175",
+   "type": 11,
+   "heading": "Artigo 15.º — Flora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Flora\n\n1 - Serão adaptadas medidas que visem a salvaguarda e valorização das formações vegetais espontâneas ou subespontâneas, do património florestal e dos espaços verdes e periurbanos.\n\n2 - São proibidos os processos que impeçam o desenvolvimento normal ou a recuperação da flora e da vegetação espontânea que apresentem interesses científicos, económicos ou paisagísticos, designadamente da flora silvestre, que é essencial para a manutenção da fertilidade do espaço rural e do equilíbrio biológico das paisagens e à diversidade dos recursos genéticos.\n\n3 - Para as áreas degradadas ou nas atingidas por incêndios florestais ou afectadas por uma exploração desordenada será concebida e executada uma política de gestão que garanta uma racional recuperação dos recursos, através de beneficiação agrícola e florestal de uso múltiplo, fomento e posição dos recursos cinegéticos.\n\n4 - O património silvícola do País será objecto de medidas de ordenamento visando a sua defesa e valorização, tendo em conta a necessidade de corrigir e normalizar as operações de cultura e de exploração das matas, garantir uma eficaz protecção contra os fogos, promover o ordenamento do território e valorizar, incrementar e diversificar as actividades de produção de bens e prestação de serviços.\n\n5 - As espécies vegetais ameaçadas de extinção ou os exemplares botânicos isolados ou em grupo que, pelo seu potencial genético, porte, idade, raridade ou outra razão, o exijam serão objecto de protecção, a regulamentar em legislação especial.\n\n6 - O controle de colheita, o abate, a utilização e a comercialização de certas espécies vegetais e seus derivados, bem como a importação ou introdução de exemplares exóticos, serão objecto de legislação adequada."
+  },
+  "47951975": {
+   "fragment_id": "37139275",
+   "type": 11,
+   "heading": "Artigo 16.º — Fauna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fauna\n\n1 - Toda a fauna será protegida através de legislação especial que promova e salvaguarde a conservação e a exploração das espécies sobre as quais recaiam interesses científico, económico ou social garantindo o seu potencial genético e os habitats indispensáveis à sua sobrevivência.\n\n2 - A fauna migratória será protegida através de legislação especial que promova e salvaguarde a conservação das espécies, através do levantamento, da classificação e da protecção, em particular dos montados e das zonas húmidas, ribeirinhas e costeiras.\n\n3 - A protecção da fauna autóctene de uma forma mais ampla e a necessidade de proteger a saúde pública implicam a adopção de medidas de controle efectivo, severamente restritivas, quando não mesmo de proibição, a desenvolver pelos organismos competentes e autoridades sanitárias, nomeadamente no âmbito de:\n\na) Manutenção ou activação dos processos biológicos de auto-regeneração;\n\nb) Recuperação dos habitats degradados essenciais para a fauna e criação de habitats de substituição, se necessário;\n\nc) Comercialização da fauna silvestre, aquática ou terrestre;\n\nd) Introdução de qualquer espécie animal selvagem, aquática ou terrestre, no País, com relevo para as áreas naturais;\n\ne) Destruição de animais tidos por prejudiciais, sem qualquer excepção, através do recurso a métodos não autorizados e sempre sob controle das autoridades competentes;\n\nf) Regulamentação e controle da importação de espécies exóticas;\n\ng) Regulamentação e controle da utilização de substâncias que prejudiquem a fauna selvagem;\n\nh) Organização de lista ou listas de espécies animais e das biocenoses em que se integram, quando raras ou ameaçadas de extinção.\n\n4 - Os recursos animais, cinegéticos e piscícolas das águas interiores e da orla costeira marinha serão objecto de legislação especial que regulamente a sua valorização, fomento e usufruição, sendo prestada especial atenção ao material genético que venha a ser utilizado no desenvolvimento da silvicultura e da aquicultura."
+  },
+  "47952075": {
+   "fragment_id": "35690575",
+   "type": 1,
+   "heading": "Capítulo III — Componentes ambientais humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Componentes ambientais humanos"
+  },
+  "47952175": {
+   "fragment_id": "37139375",
+   "type": 11,
+   "heading": "Artigo 17.º — Componentes ambientais humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Componentes ambientais humanos\n\n1 - Os componentes ambientais humanos definem, no seu conjunto, o quadro específico de vida, onde se insere e de que depende a actividade do homem, que, de acordo com o presente diploma, é objecto de medidas disciplinadoras com vista à obtenção de uma melhoria de qualidade de vida.\n\n2 - O ordenamento do território e a gestão urbanística terão em conta o disposto na presente lei, o sistema e orgânica do planeamento económico e social e ainda as atribuições e competências da administração central, regional e local.\n\n3 - Nos termos da presente lei, são componentes ambientais humanos:\n\na) A paisagem;\n\nb) O património natural e construído;\n\nc) A poluição."
+  },
+  "47952275": {
+   "fragment_id": "37139475",
+   "type": 11,
+   "heading": "Artigo 18.º — Paisagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Paisagem\n\n1 - Em ordem a atingir os objectivos consignados na presente lei, no que se refere à defesa da paisagem como unidade estética e visual, serão condicionados pela administração central, regional e local, em termos a regulamentar, a implantação de construções, infra-estruturas viárias, novos aglomerados urbanos ou outras construções que, pela sua dimensão, volume, silhueta, cor ou localização, provoquem um impacte violento na paisagem preexistente, bem como a exploração de minas e pedreiras, evacuação e acumulação de resíduos e materiais usados e o corte maciço do arvoredo.\n\n2 - A ocupação marginal das infra-estruturas viárias, fluviais, portuárias e aeroportuárias, qualquer que seja o seu tipo, hierarquia ou localização, será objecto de regulamentação especial."
+  },
+  "47952375": {
+   "fragment_id": "37139575",
+   "type": 11,
+   "heading": "Artigo 19.º — Gestão da paisagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gestão da paisagem\n\nSão instrumentos da política de gestão das paisagens:\n\na) A protecção e valorização das paisagens que, caracterizadas pelas actividades seculares do homem, pela sua diversidade, concentração e harmonia e pelo sistema sócio-cultural que criaram, se revelam importantes para a manutenção da pluralidade paisagística e cultural;\n\nb) A determinação de critérios múltiplos e dinâmicos que permitam definir prioridades de intervenção, quer no que respeita às áreas menos afectadas pela presença humana, quer àquelas em que a acção do homem é mais determinante;\n\nc) Uma estratégia de desenvolvimento que empenhe as populações na defesa desses valores, nomeadamente, e sempre que necessário, por intermédio de incentivos financeiros ou fiscais e de apoio técnico e social;\n\nd) O inventário e a avaliação dos tipos característicos de paisagem rural e urbana, comportando elementos abióticos e culturais;\n\ne) A identificação e cartografia dos valores visuais e estéticos das paisagens naturais e artificiais."
+  },
+  "47952475": {
+   "fragment_id": "37139675",
+   "type": 11,
+   "heading": "Artigo 20.º — Património natural e construído",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Património natural e construído\n\n1 - O património natural e construído do País, bem como o histórico e cultural, serão objecto de medidas especiais de defesa, salvaguarda e valorização, através, entre outros, de uma adequada gestão de recursos existentes e planificação das acções a empreender numa perspectiva de animação e utilização criativa.\n\n2 - Legislação especial definirá as políticas de recuperação de centros históricos de áreas urbanas e rurais, de paisagens primitivas e naturais notáveis e de edifícios e conjuntos monumentais e de inventariação e classificação do património histórico, cultural, natural e construído, em cooperação com as autarquias e com as associações locais de defesa do património e associações locais de defesa do ambiente, e estabelecerá a orgânica e modo de funcionamento dos organismos, existentes ou a criar, responsáveis pela sua execução."
+  },
+  "47952575": {
+   "fragment_id": "37139775",
+   "type": 11,
+   "heading": "Artigo 21.º — Poluição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Poluição\n\n1 - São factores de poluição do ambiente e degradação do território todas as acções e actividades que afectam negativamente a saúde, o bem-estar e as diferentes formas de vida, o equilíbrio e a perenidade dos ecossistemas naturais e transformados, assim como a estabilidade física e biológica do território.\n\n2 - São causas de poluição do ambiente todas as substâncias e radiações lançadas no ar, na água, no solo e no subsolo que alterem, temporária ou irreversivelmente, a sua qualidade ou interfiram na sua normal conservação ou evolução."
+  },
+  "47952675": {
+   "fragment_id": "37139875",
+   "type": 11,
+   "heading": "Artigo 22.º — Ruído",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Ruído\n\n1 - A luta contra o ruído visa a salvaguarda da saúde e bem-estar das populações e faz-se através, designadamente:\n\na) Da normalização dos métodos de medida do ruído;\n\nb) Do estabelecimento de níveis sonoros máximos, tendo em conta os avanços científicos e tecnológicos nesta matéria;\n\nc) Da redução do nível sonoro na origem, através da fixação de normas de emissão aplicáveis às diferentes fontes;\n\nd) Dos incentivos à utilização de equipamentos cuja produção de ruídos esteja contida dentro dos níveis máximos admitidos para cada caso;\n\ne) Da obrigação de os fabricantes de máquinas e electro-domésticos apresentarem informações detalhadas, homologadas, sobre o nível sonoro dos mesmos nas instruções de uso e facilitarem a execução das inspecções oficiais;\n\nf) Da introdução nas autorizações de construção de edifícios, utilização de equipamento ou exercício de actividades da obrigatoriedade de adoptar medidas preventivas para eliminação da propagação do ruído exterior e interior, bem como das trepidações;\n\ng) Da sensibilização da opinião pública para os problemas do ruído;\n\nh) Da localização adequada no território das actividades causadoras de ruído.\n\n2 - Os veículos motorizados, incluindo as embarcações, as aeronaves e os transportes ferroviários, estão sujeitos a homologação e controle no que se refere às características do ruído que produzem.\n\n3 - Os avisadores sonoros estão sujeitos a homologação e controle no que se refere às características dos sinais acústicos que produzem.\n\n4 - Os equipamentos electro-mecânicos deverão ter especificadas as características do ruído que produzem."
+  },
+  "47952775": {
+   "fragment_id": "37139975",
+   "type": 11,
+   "heading": "Artigo 23.º — Compostos químicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Compostos químicos\n\n1 - O combate à poluição derivada do uso de compostos químicos, no âmbito da defesa do ambiente, processa-se, designadamente, através:\n\na) Da aplicação de tecnologias limpas;\n\nb) Da avaliação sistemática dos efeitos potenciais dos compostos químicos sobre o homem e o ambiente;\n\nc) Do controle do fabrico, comercialização, utilização e eliminação dos compostos químicos;\n\nd) Da aplicação de técnicas preventivas orientadoras para a reciclagem e reutilização de matérias-primas e produtos;\n\ne) Da aplicação de instrumentos fiscais e financeiros que incentivem a reciclagem e utilização de resíduos;\n\nf) Da homologação de laboratórios de ensaio destinados ao estudo do impacte ambiental de compostos químicos;\n\ng) Da elucidação da opinião pública.\n\n2 - O Governo legislará, no prazo de um ano após a entrada em vigor da presente lei, sobre:\n\na) Normas para a biodegradabilidade dos detergentes;\n\nb) Normas para homologação, condicionamento e etiquetagem dos pesticidas, solventes, tintas, vernizes e outros tóxicos;\n\nc) Normas sobre a utilização dos cloro-flúor-carbonetos e de outros componentes utilizados nos aerossóis que provoquem impacte grave no ambiente e na saúde humana;\n\nd) Normas sobre criação de um sistema de informação sobre as novas substâncias químicas, obrigando os industriais a actualizar e avaliar os riscos potenciais dos seus produtos antes da comercialização;\n\ne) Estabelecimento de normas máximas de poluição pelo amianto, chumbo, mercúrio e cádmio;\n\nf) Fomento do apoio à normalização da reciclagem da energia, dos metais, do vidro, do plástico, do pano e do papel;\n\ng) Fomento e aproveitamento dos desperdícios agro-pecuários para o aproveitamento de energia;\n\nh) Fomento e apoio às energias alternativas."
+  },
+  "47952875": {
+   "fragment_id": "37140075",
+   "type": 11,
+   "heading": "Artigo 24.º — Resíduos e efluentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Resíduos e efluentes\n\n1 - Os resíduos sólidos poderão ser reutilizados como fontes de matérias-primas e energia, procurando-se eliminar os tóxicos pela adopção das seguintes medidas:\n\na) Da aplicação de «tecnologias limpas»;\n\nb) Da aplicação de técnicas preventivas orientadas para a reciclagem e reutilização de produtos como matérias-primas;\n\nc) Da aplicação de instrumentos fiscais e financeiros que incentivem a reciclagem e utilização de resíduos e efluentes.\n\n2 - A emissão, transporte e destino final de resíduos e efluentes ficam condicionados a autorização prévia.\n\n3 - A responsabilidade do destino dos diversos tipos de resíduos e efluentes é de quem os produz.\n\n4 - Os resíduos e efluentes devem ser recolhidos, armazenados, transportados, eliminados ou reutilizados de tal forma que não constituam perigo imediato ou potencial para a saúde humana nem causem prejuízo para o ambiente.\n\n5 - A descarga de resíduos e efluentes só pode ser efectuada em locais determinados para o efeito pelas entidades competentes e nas condições previstas na autorização concedida.\n\n6 - As autarquias locais, isoladamente ou em conjunto, poderão proceder à constituição de planos reguladores de descargas de resíduos e efluentes e sua recuperação paisagística."
+  },
+  "47952975": {
+   "fragment_id": "37140175",
+   "type": 11,
+   "heading": "Artigo 25.º — Substâncias radioactivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Substâncias radioactivas\n\nO controle da poluição originada por substâncias radioactivas tem por finalidade eliminar a sua influência na saúde e bem-estar das populações e no ambiente e faz-se, designadamente, através:\n\na) Da avaliação dos efeitos das substâncias radioactivas nos ecossistemas receptores;\n\nb) Da fixação de normas de emissão para os efluentes físicos e quimícos radioactivos resultantes de actividades que impliquem a extracção, o transporte, a transformação, a utilização e o armazenamento de material radioactivo;\n\nc) Do planeamento das medidas preventivas necessárias para a actuação imediata em caso de poluição radioactiva;\n\nd) Da avaliação e controle dos efeitos da poluição transfronteiras e actuação técnica e diplomática internacional que permita a sua prevenção;\n\ne) Da fixação de normas para o trânsito, transferência e deposição de materiais radioactivos no território nacional e nas águas marítimas territoriais e na zona económica exclusiva."
+  },
+  "47953075": {
+   "fragment_id": "37140275",
+   "type": 11,
+   "heading": "Artigo 26.º — Proibição de poluir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Proibição de poluir\n\n1 - Em território nacional ou área sob jurisdição portuguesa é proibido lançar, depositar ou, por qualquer outra forma, introduzir nas águas, no solo, no subsolo ou na atmosfera efluentes, resíduos radioactivos e outros e produtos que contenham substâncias ou microrganismos que possam alterar as características ou tornar impróprios para as suas aplicações aqueles componentes ambientais e contribuam para a degradação do ambiente.\n\n2 - O transporte, a manipulação, o depósito, bem como a reciclagem e deposição de quaisquer produtos susceptíveis de produzirem os tipos de poluição referidos no n.º 1, serão regulamentados por legislação especial.\n\n3 - Diplomas regulamentares apropriados definirão os limites de tolerância admissível da presença de elementos poluentes na atmosfera, água, solo e seres vivos, bem assim como as proibições ou condicionamentos necessários à defesa e melhoria da qualidade do ambiente."
+  },
+  "47953175": {
+   "fragment_id": "35690675",
+   "type": 1,
+   "heading": "Capítulo IV — Instrumentos da política de ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Instrumentos da política de ambiente"
+  },
+  "47953275": {
+   "fragment_id": "37140375",
+   "type": 11,
+   "heading": "Artigo 27.º — Instrumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instrumentos\n\n1 - São instrumentos da política de ambiente e do ordenamento do território:\n\na) A estratégia nacional de conservação da Natureza, integrada na estratégia europeia e mundial;\n\nb) O plano nacional;\n\nc) O ordenamento integrado do território a nível regional e municipal, incluindo a classificação e criação de áreas, sítios ou paisagens protegidas sujeitos a estatutos especiais de conservação;\n\nd) A reserva agrícola nacional e a reserva ecológica nacional;\n\ne) Os planos regionais de ordenamento do território, os planos directores municipais e outros instrumentos de intervenção urbanística;\n\nf) O estabelecimento de critérios, objectivos e normas de qualidade para os efluentes e resíduos e para os meios receptores;\n\ng) A avaliação prévia do impacte provocado por obras, pela construção de infra-estruturas, introdução de novas actividades tecnológicas e de produtos susceptíveis de afectarem o ambiente e a paisagem;\n\nh) O licenciamento prévio de todas as actividades potencial ou efectivamente poluidoras ou capazes de afectarem a paisagem;\n\ni) A redução ou suspensão de laboração de todas as actividades ou transferência de estabelecimentos que de qualquer modo sejam factores de poluição;\n\nj) Os incentivos à produção e instalação de equipamentos e a criação ou transferência de tecnologias que proporcionem a melhoria da qualidade do ambiente;\n\nk) A regulamentação selectiva e quantificada do uso do solo e dos restantes recursos naturais;\n\nl) O inventário dos recursos e de outras informações sobre o ambiente a nível nacional e regional;\n\nm) O sistema nacional de vigilância e controle da qualidade do ambiente;\n\nn) O sistema nacional de prevenção de incêndios florestais;\n\no) A normalização e homologação de métodos e aparelhos de medida;\n\np) As sanções pelo incumprimento do disposto na legislação sobre o ambiente e ordenamento do território;\n\nq) A cartografia do ambiente e do território;\n\nr) A fixação de taxas a aplicar pela utilização de recursos naturais e componentes ambientais, bem como pela rejeição de efluentes.\n\n2 - Lei especial definirá as áreas e zonas de grande poluição onde se fará controle e se tomarão medidas permanentes que normalizem a qualidade do ambiente."
+  },
+  "47953375": {
+   "fragment_id": "37140475",
+   "type": 11,
+   "heading": "Artigo 28.º — Conservação da Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Conservação da Natureza\n\n1 - Para enquadramento e utilização das políticas globais do ambiente com as sectoriais será elaborada pelo Governo, no prazo de um ano, a estratégia nacional de conservação da Natureza, que será submetida a aprovação da Assembleia da República.\n\n2 - A estratégia nacional de conservação da Natureza deverá informar os objectivos do Plano, em obediência ao disposto no n.º 2 do artigo 91.º da Constituição da República."
+  },
+  "47953475": {
+   "fragment_id": "37140575",
+   "type": 11,
+   "heading": "Artigo 29.º — Áreas protegidas, lugares, sítios, conjuntos e objectos classificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Áreas protegidas, lugares, sítios, conjuntos e objectos classificados\n\n1 - Será implementada e regulamentada uma rede nacional contínua de áreas protegidas, abrangendo áreas terrestres, águas interiores e marítimas e outras ocorrências naturais distintas que devam ser submetidas a medidas de classificação, preservação e conservação, em virtude dos seus valores estéticos, raridade, importância científica, cultural e social ou da sua contribuição para o equilíbrio biológico e estabilidade ecológica das paisagens.\n\n2 - As áreas protegidas poderão ter âmbito nacional, regional ou local, consoante os interesses que procuram salvaguardar.\n\n3 - A iniciativa da classificação e conservação de áreas protegidas, de lugares, sítios, conjuntos e objectos classificados será da competência da administração central, regional ou local ou ainda particular.\n\n4 - A regulamentação da gestão de áreas protegidas, lugares, sítios, conjuntos e objectos classificados consoante o seu âmbito compete à administração central, regional ou local.\n\n5 - Na gestão das áreas protegidas ter-se-á sempre em vista a protecção e estudo dos ecossistemas naturais e ainda a preservação de valores de ordem científica, cultural, social e paisagística.\n\n6 - A definição das diversas categorias de áreas protegidas para o efeito da protecção referida nos números anteriores será feita através de legislação própria."
+  },
+  "47953575": {
+   "fragment_id": "37140675",
+   "type": 11,
+   "heading": "Artigo 30.º — Estudos de impacte ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Estudos de impacte ambiental\n\n1 - Os planos, projectos, trabalhos e acções que possam afectar o ambiente, o território e a qualidade de vida dos cidadãos, quer sejam da responsabilidade e iniciativa de um organismo da administração central, regional ou local, quer de instituições públicas ou privadas, devem respeitar as preocupações e normas desta lei e terão de ser acompanhados de um estudo de impacte ambiental.\n\n2 - Serão regulamentadas por lei as condições em que será efectuado o estudo de impacte ambiental, o seu conteúdo, bem como as entidades responsáveis pela análise das suas conclusões e pela autorização e licenciamento de obra ou trabalhos previstos.\n\n3 - A aprovação do estudo de impacte ambiental é condição essencial para o licenciamento final das obras e trabalhos pelos serviços competentes, nos termos da lei."
+  },
+  "47953675": {
+   "fragment_id": "37140775",
+   "type": 11,
+   "heading": "Artigo 31.º — Conteúdo do estudo de impacte ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Conteúdo do estudo de impacte ambiental\n\nO conteúdo do estudo de impacte ambiental compreenderá, no mínimo:\n\na) Uma análise do estado do local e do ambiente;\n\nb) O estudo das modificações que o projecto provocará;\n\nc) As medidas previstas para suprimir e reduzir as normas aprovadas e, se possível, compensar as eventuais incidências sobre a qualidade do ambiente."
+  },
+  "47953775": {
+   "fragment_id": "37140875",
+   "type": 11,
+   "heading": "Artigo 32.º — Equilíbrio entre componentes ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Equilíbrio entre componentes ambientais\n\nNas intervenções sobre componentes ambientais, naturais ou humanos, haverá que ter sempre em conta as consequências que qualquer dessas intervenções, efectivadas ao nível de cada um dos componentes, possa ter sobre as restantes ou sobre as respectivas interacções."
+  },
+  "47953875": {
+   "fragment_id": "35690775",
+   "type": 1,
+   "heading": "Capítulo V — Licenciamento e situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Licenciamento e situações de emergência"
+  },
+  "47953975": {
+   "fragment_id": "37140975",
+   "type": 11,
+   "heading": "Artigo 33.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Licenciamento\n\n1 - A construção, ampliação, instalação e funcionamento de estabelecimentos e o exercício de actividades efectivamente poluidoras dependerão do prévio licenciamento pelo serviço competente do Estado responsável pelo ambiente e ordenamento do território, sem prejuízo de outras licenças exigíveis.\n\n2 - O pedido de licenciamento para empreendimentos a determinar em diploma específico é regulado nos termos do artigo 30.º\n\n3 - A autorização para funcionamento exige o licenciamento prévio e a vistoria das obras e instalações realizadas em cumprimento do projecto aprovado e demais legislação em vigor.\n\n4 - Para garantir a aplicação do artigo 14.º, n.º 2, alínea e), será obrigatório o depósito de uma caução, no valor do custo de recuperação, no acto do licenciamento.\n\n5 - Os licenciamentos abrangidos pelo disposto no n.º 1, a sua renovação e a respectiva concessão serão publicados num periódico regional ou local.\n\n6 - As autarquias interessadas darão parecer para o licenciamento relativo a complexos petroquímicos, cloroquímicos e outros definidos por lei."
+  },
+  "47954075": {
+   "fragment_id": "37141075",
+   "type": 11,
+   "heading": "Artigo 34.º — Declaração de zonas críticas e situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Declaração de zonas críticas e situações de emergência\n\n1 - O Governo declarará como zonas críticas todas aquelas em que os parâmetros que permitem avaliar a qualidade do ambiente atinjam, ou se preveja virem a atingir, valores que possam pôr em causa a saúde humana ou o ambiente, ficando sujeitas a medidas especiais e acções a estabelecer pelo departamento encarregado da protecção civil em conjugação com as demais autoridades da administração central e local.\n\n2 - Quando os índices de poluição, em determinada área, ultrapassarem os valores admitidos pela legislação que vier regulamentar a presente lei ou, por qualquer forma, puserem em perigo a qualidade do ambiente, poderá ser declarada a situação de emergência, devendo ser previstas actuações específicas, administrativas ou técnicas, para lhes fazer face, por parte da administração central e local, acompanhadas do esclarecimento da população afectada.\n\n3 - Será feito o planeamento das medidas imediatas necessárias para ocorrer a casos de acidente sempre que estes provoquem aumentos bruscos e significativos dos índices de poluição permitidos ou que, pela sua natureza, façam prever a possibilidade desta ocorrência."
+  },
+  "47954175": {
+   "fragment_id": "37141175",
+   "type": 11,
+   "heading": "Artigo 35.º — Redução e suspensão de laboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Redução e suspensão de laboração\n\n1 - Pelo serviço competente do Estado responsável pelo ambiente e ordenamento do território poderá ser determinada a redução ou suspensão temporária ou definitiva das actividades geradoras de poluição para manter as emissões gasosas e radioactivas, os efluentes e os resíduos sólidos dentro dos limites estipulados, nos termos em que for estabelecido pela legislação complementar da presente lei.\n\n2 - O Governo poderá celebrar contratos-programa com vista a reduzir gradualmente a carga poluente das actividades poluidoras.\n\n3 - Os contratos-programa só serão celebrados desde que da continuação da laboração nessas actividades não decorram riscos significativos para o homem ou o ambiente."
+  },
+  "47954275": {
+   "fragment_id": "37141275",
+   "type": 11,
+   "heading": "Artigo 36.º — Transferência de estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Transferência de estabelecimentos\n\nOs estabelecimentos que alterem as condições normais de salubridade e higiene do ambiente definidas por lei podem ser obrigados a transferir-se para local mais apropriado, salvaguardados os direitos previamente adquiridos."
+  },
+  "47954375": {
+   "fragment_id": "35690875",
+   "type": 1,
+   "heading": "Capítulo VI — Organismos responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Organismos responsáveis"
+  },
+  "47954475": {
+   "fragment_id": "37141375",
+   "type": 11,
+   "heading": "Artigo 37.º — Competência do Governo e da administração regional e local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Competência do Governo e da administração regional e local\n\n1 - Compete ao Governo, de acordo com a presente lei, a condução de uma política global nos domínios do ambiente, da qualidade de vida e do ordenamento do território, bem como a coordenação das políticas de ordenamento regional do território e desenvolvimento económico e progresso social e ainda a adopção das medidas adequadas à aplicação dos instrumentos previstos na presente lei.\n\n2 - O Governo e a administração regional e local articularão entre si a implementação das medidas necessárias à prossecução dos fins previstos na presente lei, no âmbito das respectivas competências."
+  },
+  "47954575": {
+   "fragment_id": "37141475",
+   "type": 11,
+   "heading": "Artigo 38.º — Organismos responsáveis pela aplicação da presente lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Organismos responsáveis pela aplicação da presente lei\n\n1 - O serviço competente do Estado responsável pela coordenação da aplicação da presente lei terá por missão promover, coordenar, apoiar e participar na execução da política nacional do ambiente e qualidade de vida constante deste diploma e a concretizar pelo Governo, em estreita colaboração com os diferentes serviços da administração central, regional e local, que devem também acatamento aos princípios e normas aqui estabelecidos.\n\n2 - A nível de cada região administrativa existirão organismos regionais, dependentes da administração regional, responsáveis pela coordenação e aplicação da presente lei, em termos análogos aos do organismo central referido nos números anteriores e em colaboração com este, sem impedimento de organismos similares existirem a nível municipal."
+  },
+  "47954675": {
+   "fragment_id": "37141575",
+   "type": 11,
+   "heading": "Artigo 39.º — Instituto Nacional do Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Instituto Nacional do Ambiente\n\n1 - É criado o Instituto Nacional do Ambiente, dotado de personalidade jurídica e autonomia administrativa e financeira.\n\n2 - O Instituto Nacional do Ambiente é um organismo não executivo destinado à promoção de acções no domínio da qualidade do ambiente, com especial ênfase na formação e informação dos cidadãos e apoio às associações de defesa do ambiente, integrando a representação da opinião pública nos seus órgãos de decisão.\n\n3 - São atribuições do Instituto Nacional do Ambiente:\n\na) Estudar e propor ao Governo a definição de políticas e a execução de acções de defesa do ambiente e do património natural e construído;\n\nb) Estudar e promover formas de apoio técnico e financeiro às associações de defesa do ambiente;\n\nc) Estudar e promover projectos especiais, de educação ambiental, de defesa do ambiente e do património natural e construído, em colaboração com as autarquias, serviços da Administração Pública, instituições públicas, privadas e cooperativas, escolas e universidades, incluindo acções de formação e informação;\n\nd) Estabelecer contactos regulares com organismos similares estrangeiros e promover acções comuns, nomeadamente de formação e informação;\n\ne) Impulsionar, em geral, a aplicação e o aprofundamento das medidas previstas na presente lei;\n\nf) Quaisquer outras que lhe venham a ser cometidas por lei.\n\n4 - A gestão do Instituto Nacional do Ambiente é assegurada por um presidente e por um vice-presidente, com funções delegadas pelo conselho directivo.\n\n5 - O Instituto Nacional do Ambiente dispõe de um conselho directivo, a quem compete fixar os princípios a que deve subordinar-se a elaboração do seu plano de actividades e orçamento, bem como acompanhar a sua gestão e funcionamento.\n\n6 - O plano de actividades do Instituto Nacional do Ambiente incluirá, obrigatoriamente, os critérios de atribuição dos apoios financeiros previstos nesta lei e demais legislação complementar.\n\n7 - O conselho directivo do Instituto Nacional do Ambiente é composto por:\n\na) O presidente do Instituto Nacional do Ambiente, que presidirá;\n\nb) Três cidadãos de reconhecido mérito, designados pela Assembleia da República;\n\nc) Dois representantes das associações de defesa do ambiente com representatividade genérica;\n\nd) Dois representantes do movimento sindical;\n\ne) Dois representantes das confederações patronais;\n\nf) Dois representantes da Associação Nacional dos Municípios Portugueses;\n\ng) Dois representantes das universidades portuguesas que ministrem cursos no domínio do ambiente, ordenamento do território e património natural e construído.\n\n8 - O Instituto Nacional do Ambiente deverá ter delegações regionais.\n\n9 - O Governo, no prazo de 180 dias, estruturará a organização, funcionamento e competência, sob a forma de decreto-lei, do Instituto Nacional do Ambiente, na parte não prevista na presente lei, aprovará os respectivos quadros de pessoal e inscreverá no Orçamento do Estado as dotações necessárias ao seu funcionamento."
+  },
+  "47954775": {
+   "fragment_id": "35690975",
+   "type": 1,
+   "heading": "Capítulo VII — Direitos e deveres dos cidadãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Direitos e deveres dos cidadãos"
+  },
+  "47954875": {
+   "fragment_id": "37141675",
+   "type": 11,
+   "heading": "Artigo 40.º — Direitos e deveres dos cidadãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Direitos e deveres dos cidadãos\n\n1 - É dever dos cidadãos, em geral, e dos sectores público, privado e cooperativo, em particular, colaborar na criação de um ambiente sadio e ecologicamente equilibrado e na melhoria progressiva e acelerada da qualidade de vida.\n\n2 - Às iniciativas populares no domínio da melhoria do ambiente e da qualidade de vida, quer surjam espontaneamente, quer correspondam a um apelo da administração central, regional ou local, deve ser dispensada protecção adequada, através dos meios necessários à prossecução dos objectivos do regime previsto na presente lei.\n\n3 - O Estado e as demais pessoas colectivas de direito público, em especial as autarquias, fomentarão a participação das entidades privadas em iniciativas de interesse para a prossecução dos fins previstos na presente lei, nomeadamente as associações nacionais ou locais de defesa do ambiente, do património natural e construído e de defesa do consumidor.\n\n4 - Os cidadãos directamente ameaçados ou lesados no seu direito a um ambiente de vida humana sadio e ecologicamente equilibrado podem pedir, nos termos gerais de direito, a cessação das causas de violação e a respectiva indemnização.\n\n5 - Sem prejuízo do disposto nos números anteriores, é reconhecido às autarquias e aos cidadãos que sejam afectados pelo exercício de actividades susceptíveis de prejudicarem a utilização dos recursos do ambiente o direito às compensações por parte das entidades responsáveis pelos prejuízos causados."
+  },
+  "47954975": {
+   "fragment_id": "37141775",
+   "type": 11,
+   "heading": "Artigo 41.º — Responsabilidade objectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Responsabilidade objectiva\n\n1 - Existe obrigação de indemnizar, independentemente de culpa, sempre que o agente tenha causado danos significativos no ambiente, em virtude de uma acção especialmente perigosa, muito embora com respeito do normativo aplicável.\n\n2 - O quantitativo de indemnização a fixar por danos causados no ambiente será estabelecido em legislação complementar."
+  },
+  "47955075": {
+   "fragment_id": "37141875",
+   "type": 11,
+   "heading": "Artigo 42.º — Embargos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Embargos administrativos\n\nAqueles que se julguem ofendidos nos seus direitos a um ambiente sadio e ecologicamente equilibrado poderão requerer que seja mandada suspender imediatamente a actividade causadora do dano, seguindo-se, para tal efeito, o processo de embargo administrativo."
+  },
+  "47955175": {
+   "fragment_id": "37141975",
+   "type": 11,
+   "heading": "Artigo 43.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Seguro de responsabilidade civil\n\nAqueles que exerçam actividades que envolvam alto grau de risco para o ambiente e como tal venham a ser classificados serão obrigados a segurar a sua responsabilidade civil."
+  },
+  "47955275": {
+   "fragment_id": "37142075",
+   "type": 11,
+   "heading": "Artigo 44.º — Direito a uma justiça acessível e pronta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Direito a uma justiça acessível e pronta\n\n1 - É assegurado aos cidadãos o direito à isenção de preparos nos processos em que pretendam obter reparação de perdas e danos emergentes de factos ilícitos que violem regras constantes da presente lei e dos diplomas que a regulamentem, desde que o valor da causa não exceda o da alçada do tribunal da comarca.\n\n2 - É proibida a apensação de processos contra o mesmo arguido relativos a infracções contra o disposto na presente lei, salvo se requerida pelo Ministério Público."
+  },
+  "47955375": {
+   "fragment_id": "35691075",
+   "type": 1,
+   "heading": "Capítulo VIII — Penalizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Penalizações"
+  },
+  "47955475": {
+   "fragment_id": "37142175",
+   "type": 11,
+   "heading": "Artigo 45.º — Tribunal competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Tribunal competente\n\n1 - O conhecimento das acções a que se referem os artigos 66.º, n.º 3, da Constituição e 41.º e 42.º da presente lei é da competência dos tribunais comuns.\n\n2 - Nos termos dos artigos 66.º, n.º 3, da Constituição e 40.º da presente lei, os lesados têm legitimidade para demandar os infractores nos tribunais comuns para obtenção das correspondentes indemnizações.\n\n3 - Sem prejuízo da legitimidade dos lesados para propor as acções, compete ao Ministério Público a defesa dos valores protegidos por esta lei, através, nomeadamente, dos mecanismos previstos na presente lei."
+  },
+  "47955575": {
+   "fragment_id": "37142275",
+   "type": 11,
+   "heading": "Artigo 46.º — Crimes contra o ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Crimes contra o ambiente\n\nAlém dos crimes previstos e punidos no Código Penal, serão ainda consideradas crimes as infracções que a legislação complementar vier a qualificar como tal de acordo com o disposto na presente lei."
+  },
+  "47955675": {
+   "fragment_id": "37142375",
+   "type": 11,
+   "heading": "Artigo 47.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Contra-ordenações\n\n1 - As restantes infracções à presente lei serão consideradas contra-ordenações puníveis com coima, em termos a definir por legislação complementar, compatibilizando os vários níveis da Administração em função da gravidade da infracção.\n\n2 - Se a mesma conduta constituir simultaneamente crime e contra-ordenação, será o infractor sempre punido a título de crime, sem prejuízo das sanções acessórias previstas para a contra-ordenação.\n\n3 - Em função da gravidade da contra-ordenação e da culpa do agente, poderão ainda ser aplicadas as seguintes sanções acessórias:\n\na) Interdição do exercício de uma profissão ou actividade;\n\nb) Privação do direito a subsídio outorgado por entidades ou serviços públicos;\n\nc) Cessação de licenças ou autorizações relacionadas com o exercício da respectiva actividade;\n\nd) Apreensão e perda a favor do Estado dos objectos utilizados ou produzidos aquando da infracção;\n\ne) Perda de benefícios fiscais, de benefícios de crédito e de linhas de financiamento de estabelecimentos de crédito de que haja usufruído.\n\n4 - A negligência e a tentativa são puníveis."
+  },
+  "47955775": {
+   "fragment_id": "37142475",
+   "type": 11,
+   "heading": "Artigo 48.º — Obrigatoriedade de remoção das causas da infracção e da reconstituição da situação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Obrigatoriedade de remoção das causas da infracção e da reconstituição da situação anterior\n\n1 - Os infractores são obrigados a remover as causas da infracção e a repor a situação anterior à mesma ou equivalente, salvo o disposto no n.º 3.\n\n2 - Se os infractores não cumprirem as obrigações acima referidas no prazo que lhes for indicado, as entidades competentes mandarão proceder às demolições, obras e trabalhos necessários à reposição da situação anterior à infracção a expensas dos infractores.\n\n3 - Em caso de não ser possível a reposição da situação anterior à infracção, os infractores ficam obrigados ao pagamento de uma indemnização especial a definir por legislação e à realização das obras necessárias à minimização das consequências provocadas."
+  },
+  "47955875": {
+   "fragment_id": "35691175",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições finais"
+  },
+  "47955975": {
+   "fragment_id": "37142575",
+   "type": 11,
+   "heading": "Artigo 49.º — Relatório e livro branco sobre o ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Relatório e livro branco sobre o ambiente\n\n1 - O Governo fica obrigado a apresentar à Assembleia da República, juntamente com as Grandes Opções do Plano de cada ano, um relatório sobre o estado do ambiente e ordenamento do território em Portugal referente ao ano anterior.\n\n2 - O Governo fica obrigado a apresentar à Assembleia da República, de três em três anos, um livro branco sobre o estado do ambiente em Portugal."
+  },
+  "47956075": {
+   "fragment_id": "37142675",
+   "type": 11,
+   "heading": "Artigo 50.º — Convenções e acordos internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Convenções e acordos internacionais\n\nA regulamentação, as normas e, de um modo geral, toda a matéria incluída na legislação especial que regulamentará a aplicação da presente lei terão em conta as convenções e acordos internacionais aceites e ratificados por Portugal e que tenham a ver com a matéria em causa, assim como as normas e critérios aprovados multi ou bilateralmente entre Portugal e outros países."
+  },
+  "47956175": {
+   "fragment_id": "37142775",
+   "type": 11,
+   "heading": "Artigo 51.º — Legislação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Legislação complementar\n\nTodos os diplomas legais necessários à regulamentação do disposto no presente diploma serão obrigatoriamente publicados no prazo de um ano a partir da data da sua entrada em vigor."
+  },
+  "47956275": {
+   "fragment_id": "37142875",
+   "type": 11,
+   "heading": "Artigo 52.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Entrada em vigor\n\n1 - Na parte que não necessita de regulamentação, esta lei entra imediatamente em vigor.\n\n2 - As disposições que estão sujeitas a regulamentação entrarão em vigor com os respectivos diplomas regulamentares."
+  },
+  "47950175": {
+   "fragment_id": "35190975",
+   "type": 15,
+   "heading": "Diploma — Lei de Bases do Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea g), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "868850312": {
+   "fragment_id": "37142175",
+   "type": 11,
+   "heading": "Artigo 45.º — Tutela judicial",
+   "in_force_from": "2003-02-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2002 - Diário da República n.º 42/2002, Série I-A de 2002-02-19](https://diariodarepublica.pt/dr/detalhe/lei/13-2002-278029), em vigor a partir de 2003-02-19"
+   ],
+   "markdown": "###### Artigo 45.º — Tutela judicial\n\n1 - Sem prejuízo da legitimidade de quem se sinta ameaçado ou tenha sido lesado nos seus direitos, à actuação perante a jurisdição competente do correspondente direito à cessação da conduta ameaçadora ou lesiva e à indemnização pelos danos que dela possam ter resultado, ao abrigo do disposto no capítulo anterior, também ao Ministério Público compete a defesa dos valores protegidos pela presente lei, nomeadamente através da utilização dos mecanismos nela previstos.\n\n2 - É igualmente reconhecido a qualquer pessoa, independentemente de ter interesse pessoal na demanda, bem como às associações e fundações defensoras dos interesses em causa e às autarquias locais, o direito de propor e intervir, nos termos previstos na lei, em processos principais e cautelares destinados à defesa dos valores protegidos pela presente lei.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2002 - Diário da República n.º 42/2002, Série I-A de 2002-02-19](https://diariodarepublica.pt/dr/detalhe/lei/13-2002-278029), em vigor a partir de 2003-02-19"
+  },
+  "47956375": {
+   "fragment_id": "35691275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 9 de Janeiro de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 21 de Março de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 25 de Março de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "868850314": {
+   "fragment_id": "35690375",
+   "type": 1,
+   "heading": "Capítulo I — Princípios e objectivos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo I — Princípios e objectivos\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850315": {
+   "fragment_id": "37137775",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA presente lei define as bases da política de ambiente, em cumprimento do disposto nos artigos 9.º e 66.º da Constituição da República.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850316": {
+   "fragment_id": "37137875",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípio geral",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 2.º — Princípio geral\n\n1 - Todos os cidadãos têm direito a um ambiente humano e ecologicamente equilibrado e o dever de o defender, incumbindo ao Estado, por meio de organismos próprios e por apelo a iniciativas populares e comunitárias, promover a melhoria da qualidade de vida, quer individual, quer colectiva.\n\n2 - A política de ambiente tem por fim optimizar e garantir a continuidade de utilização dos recursos naturais, qualitativa e quantitativamente, como pressuposto básico de um desenvolvimento auto-sustentado.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850317": {
+   "fragment_id": "37137975",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios específicos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 3.º — Princípios específicos\n\nO princípio geral constante do artigo anterior implica a observância dos seguintes princípios específicos:\n\na) Da prevenção: as actuações com efeitos imediatos ou a prazo no ambiente devem ser consideradas de forma antecipativa, reduzindo ou eliminando as causas, prioritariamente à correcção dos efeitos dessas acções ou actividades susceptíveis de alterarem a qualidade do ambiente, sendo o poluidor obrigado a corrigir ou recuperar o ambiente, suportando os encargos daí resultantes, não lhe sendo permitido continuar a acção poluente;\n\nb) Do equilíbrio: devem criar-se os meios adequados para assegurar a integração das políticas de crescimento económico e social e de conservação da Natureza, tendo como finalidade o desenvolvimento integrado, harmónico e sustentável;\n\nc) Da participação: os diferentes grupos sociais devem intervir na formulação e execução da política de ambiente e ordenamento do território, através dos órgãos competentes de administração central, regional e local e de outras pessoas colectivas de direito público ou de pessoas e entidades privadas;\n\nd) Da unidade de gestão e acção: deve existir um órgão nacional responsável pela política de ambiente e ordenamento do território, que normalize e informe a actividade dos agentes públicos ou privados interventores, como forma de garantir a integração da problemática do ambiente, do ordenamento do território e do planeamento económico, quer ao nível global, quer sectorial, e intervenha com vista a atingir esses objectivos na falta ou e substituição de entidades já existentes;\n\ne) Da cooperação internacional: determina a procura de soluções concertadas com outros países ou organizações internacionais para os problemas de ambiente e de gestão dos recursos naturais;\n\nf) Da procura do nível mais adequado de acção: implica que a execução das medidas de política de ambiente tenha em consideração o nível mais adequado de acção, sela ele de âmbito internacional, nacional, regional, local ou sectorial;\n\ng) De recuperação: devem ser tomadas medidas urgentes para limitar os processos degradativos nas áreas onde actualmente ocorrem e promover a recuperação desses áreas, tendo em conta os equilíbrios a estabelecer com as áreas limítrofes;\n\nh) Da responsabilização: aponta para a assunção pelos agentes das consequências, para terceiros, da sua acção, directa ou indirecta, sobre os recursos naturais.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850318": {
+   "fragment_id": "37138075",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos e medidas",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 4.º — Objectivos e medidas\n\nA existência de um ambiente propício à saúde e bem-estar das pessoas e ao desenvolvimento social e cultural das comunidades, bem como à melhoria qualidade de vida, pressupõe a adopção de medidas que visem, designadamente:\n\na) O desenvolvimento económico e social auto-sustentado e a expansão correcta das áreas urbanas, através do ordenamento do território;\n\nb) O equilíbrio biológico e a estabilidade geológica com a criação de novas paisagens e a transformação ou a manutenção das existentes;\n\nc) Garantir o mínimo impacte ambiental, através de uma correcta instalação em termos territoriais das actividades produtivas;\n\nd) A manutenção dos ecossistemas que suportam a vida, a utilização racional dos recursos vivos e a preservação do património genético e da sua diversidade;\n\ne) A conservação da Natureza, o equilíbrio biológico e a estabilidade dos diferentes habitats, nomeadamente através da compartimentação e diversificação das paisagens, da constituição de parques e reservas naturais e outras áreas protegidas, corredores ecológicos e espaços verdes urbanos e suburbanos, de modo a estabelecer um continuum naturale;\n\nf) A promoção de acções de investigação quanto aos factores naturais e ao estudo do impacte das acções humanas sobre o ambiente, visando impedir no futuro ou minimizar e corrigir no presente as disfunções existentes e orientar as acções a empreender segundo normas e valores que garantam a efectiva criação de um novo quadro de vida, compatível com a perenidade dos sistemas naturais;\n\ng) A adequada delimitação dos níveis de qualidade dos componentes ambientais;\n\nh) A definição de uma política energética baseada no aproveitamento racional e sustentado de todos os recursos naturais renováveis, na diversificação e descentralização das fontes de produção e na racionalização do consumo;\n\ni) A promoção da participação das populações na formulação e execução da política de ambiente e qualidade de vida, bem como o estabelecimento de fluxos contínuos de informação entre os órgãos da Administração por ela responsáveis e os cidadãos a quem se dirige;\n\nj) O reforço das acções e medidas de defesa do consumidor;\n\nk) O reforço das acções e medidas de defesa e recuperação do património cultural, quer natural, quer construído;\n\nl) A inclusão da componente ambiental e dos valores herdados na educação básica e na formação profissional, bem assim como o incentivo à sua divulgação através dos meios de comunicação social, devendo o Governo produzir meios didácticos de apoio aos docentes (livros, brochuras, etc.);\n\nm) A prossecução de uma estratégia nacional de conservação;\n\nn) A plenitude da vida humana e a permanência da vida selvagem, assim como dos habitats indispensáveis ao seu suporte;\n\no) A recuperação das áreas degradadas do território nacional.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850319": {
+   "fragment_id": "37138175",
+   "type": 11,
+   "heading": "Artigo 5.º — Conceitos e definições",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 5.º — Conceitos e definições\n\n1 - A qualidade de vida é resultado da interacção de múltiplos factores no funcionamento das sociedades humanas e traduz-se na situação de bem estar físico, mental e social e na satisfação e afirmação culturais, bem como em relações autênticas entre o indivíduo e a comunidade, dependendo da influência de factores inter-relacionados, que compreendem, designadamente:\n\na) A capacidade de carga do território e dos recursos;\n\nb) A alimentação, a habitação, a saúde, a educação, os transportes e a ocupação dos tempos livres;\n\nc) Um sistema social que assegure a posteridade de toda a população e os consequentes benefícios da Segurança Social;\n\nd) A integração da expansão urbano-industrial na paisagem, funcionando como valorização da mesma, e não como agente de degradação.\n\n2 - Para efeitos do disposto no presente diploma, considera-se que as expressões «ambiente», «ordenamento do território», «paisagem», «continuum naturale», «qualidade do ambiente» e «conservação da Natureza» deverão ser entendidas nas condições a seguir indicadas:\n\na) Ambiente é o conjunto dos sistemas físicos, químicos, biológicos e suas relações e dos factores económicos, sociais e culturais com efeito directo ou indirecto, mediato ou imediato, sobre os seres vivos e a qualidade de vida do homem;\n\nb) Ordenamento do território é o processo integrado da organização do espaço biofísico, tendo como objectivo o uso e a transformação do território, de acordo com as suas capacidades e vocações, e a permanência dos valores de equilíbrio biológico e de estabilidade geológica, numa perspectiva de aumento da sua capacidade de suporte de vida;\n\nc) Paisagem é a unidade geográfica, ecológica e estética resultante da acção do homem e da reacção da Natureza, sendo primitiva quando a acção daquele é mínima e natural quando a acção humana é determinante, sem deixar de se verificar o equilíbrio biológico, a estabilidade física e a dinâmica ecológica;\n\nd) Continuum naturale é o sistema contínuo de ocorrências naturais que constituem o suporte da vida silvestre e da manutenção do potencial genético e que contribui para o equilíbrio e estabilidade do território;\n\ne) Qualidade do ambiente é a adequabilidade de todos os seus componentes às necessidades do homem;\n\nf) Conservação da Natureza é a gestão da utilização humana da Natureza, de modo a viabilizar de forma perene a máxima rentabilidade compatível com a manutenção da capacidade de regeneração de todos os recursos vivos.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850320": {
+   "fragment_id": "35690475",
+   "type": 1,
+   "heading": "Capítulo II — Componentes ambientais naturais",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo II — Componentes ambientais naturais\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850321": {
+   "fragment_id": "37138275",
+   "type": 11,
+   "heading": "Artigo 6.º — Componentes ambientais naturais",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 6.º — Componentes ambientais naturais\n\nNos termos da presente lei, são componentes do ambiente:\n\na) O ar;\n\nb) A luz;\n\nc) A água;\n\nd) O solo vivo e o subsolo;\n\ne) A flora;\n\nf) A fauna.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850322": {
+   "fragment_id": "37138375",
+   "type": 11,
+   "heading": "Artigo 7.º — Defesa da qualidade dos componentes ambientais naturais",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 7.º — Defesa da qualidade dos componentes ambientais naturais\n\nEm ordem a assegurar a defesa da qualidade apropriada dos componentes ambientais naturais referidos no número anterior, poderá o Estado, através do ministério da tutela competente, proibir ou condicionar o exercício de actividades e desenvolver acções necessárias à prossecução dos mesmos fins, nomeadamente a adopção de medidas de contenção e fiscalização que levem em conta, para além do mais, os custos económicos, sociais e culturais da degradação do ambiente em termos de obrigatoriedade de análise prévia de custos-benefícios.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850323": {
+   "fragment_id": "37138475",
+   "type": 11,
+   "heading": "Artigo 8.º — Ar",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 8.º — Ar\n\n1 - O lançamento para a atmosfera de quaisquer substâncias, seja qual for o seu estado físico, susceptíveis de afectarem de forma nociva a qualidade do ar e o equilíbrio ecológico ou que impliquem risco, dano ou incómodo grave para as pessoas e bens será objecto de regulamentação especial.\n\n2 - Todas as instalações, máquinas e meios de transporte cuja actividade possa afectar a qualidade da atmosfera devem ser dotados de dispositivos ou processos adequados para reter ou neutralizar as substâncias poluidoras.\n\n3 - É proibido pôr em funcionamento novos empreendimentos ou desenvolver aqueles já existentes e que, pela sua actividade, possam constituir fontes de poluição do ar sem serem dotados de instalações e dispositivos em estado de funcionamento adequado para reter e neutralizar as substâncias poluentes ou sem se terem tomado medidas para respeitar as condições de protecção da qualidade do ar estabelecidas por organismos responsáveis.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850324": {
+   "fragment_id": "37138575",
+   "type": 11,
+   "heading": "Artigo 9.º — Luz e níveis de luminosidade",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 9.º — Luz e níveis de luminosidade\n\n1 - Todos têm o direito a um nível de luminosidade conveniente à sua saúde, bem-estar e conforto na habitação, no local de trabalho e nos espaços livres públicos de recreio, lazer e circulação.\n\n2 - O nível de luminosidade para qualquer lugar deve ser o mais consentâneo com vista ao equilíbrio dos ecossistemas transformados de que depende a qualidade de vida das populações.\n\n3 - Os anúncios luminosos, fixos ou intermitentes, não devem perturbar o sossego, a saúde e o bem-estar dos cidadãos.\n\n4 - Nos termos do número anterior, ficam condicionados:\n\na) O volume dos edifícios a construir que prejudiquem a qualidade de vida dos cidadãos e a vegetação, pelo ensombramento, dos espaços livres públicos e privados;\n\nb) O regulamento e as normas específicas respeitantes à construção de fogos para habitação, escritórios, fábricas e outros lugares de trabalho, escolas e restante equipamento social;\n\nc) O volume das construções a erigir na periferia dos espaços verdes existentes ou a construir;\n\nd) Os anúncios luminosos só são permitidos nas áreas urbanas e são condicionadas as suas cor, forma, localização e intermitência por normas a fixar especificamente.\n\n5 - Nos termos dos n.os 1, 2 e 3, é proibida:\n\na) A eliminação dos montados de sobro e azinho e outras árvores dispersas nas folhas de cultura, com excepção dos solos das classes A e B, nas paisagens de características mediterrânicas e continentais;\n\nb) A eliminação da vegetação nas margens dos cursos de água;\n\nc) A eliminação da compartimentação, sebes vivas, uveiras e muros, para além da dimensão da folha de cultura considerada mínima regionalmente.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850325": {
+   "fragment_id": "37138675",
+   "type": 11,
+   "heading": "Artigo 10.º — Água",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 10.º — Água\n\n1 - As categorias de águas abrangidas pelo presente diploma são as seguintes:\n\na) Águas interiores de superfície;\n\nb) Águas interiores subterrâneas;\n\nc) Águas marítimas interiores;\n\nd) Águas marítimas territoriais;\n\ne) Águas marítimas da zona económica exclusiva.\n\n2 - Estende-se igualmente o presente diploma aos leitos e margens dos cursos de água de superfície, aos fundos e margens de lagoas, às zonas de infiltrações, a toda a orla costeira e aos fundos marinhos interiores, plataforma continental e da zona económica exclusiva.\n\n3 - De entre as medidas específicas do presente diploma, a regulamentar através de legislação apropriada, serão tidas em conta as que se relacionam com:\n\na) A utilização racional da água, com a qualidade referida para cada fim, evitando-se todos os gastos desnecessários e aumentando-se o grau de reutilização;\n\nb) O desenvolvimento coordenado das acções necessárias para conservação, incremento e optimização do aproveitamento das águas de superfície e subterrâneas, tendo por base projectos de conjunto;\n\nc) O estabelecimento de uma faixa de protecção ao longo da orla costeira;\n\nd) O desenvolvimento e aplicação das técnicas de prevenção e combate à poluição hídrica, de origem industrial, agrícola e doméstica ou proveniente de derrames de transportes e outros veículos motorizados, bem como dos respectivos meios de coordenação das acções;\n\ne) As fábricas e estabelecimentos que evacuem águas degradadas directamente para o sistema de esgotos são obrigados a assegurar a sua depuração, de forma a evitar a degradação das canalizações e a perturbação e funcionamento da estação final de depuração.\n\n4 - É interdito dar em exploração novos empreendimentos ou desenvolver aqueles que já existem e que, pela sua actividade, possam constituir fontes de poluição das águas, sem que uns ou outros estejam dotados de instalações de depuração em estado de funcionamento adequado ou sem outros trabalhos ou medidas que permitam respeitar as condições legais e de protecção da qualidade da água.\n\n5 - Os organismos estatais que, de acordo com a lei, autorizam o funcionamento de empresas construídas sobre as águas e suas zonas de protecção só autorizarão a entrada em exploração e funcionamento destas empresas desde que se constate o respeito pelas normas legais concernentes à protecção das águas.\n\n6 - Os organismos responsáveis devem impor às fábricas e estabelecimentos que utilizam águas a sua descarga a jusante da captação depois de convenientemente tratadas.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850326": {
+   "fragment_id": "37138775",
+   "type": 11,
+   "heading": "Artigo 11.º — Medidas especiais",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 11.º — Medidas especiais\n\n1 - Todas as utilizações da água carecem de autorização prévia de entidade competente, devendo essa autorização ser acompanhada da definição dos respectivos condicionamentos.\n\n2 - O lançamento nas águas de efluentes poluidores, resíduos sólidos, quaisquer produtos ou espécies que alterem as suas características ou as tornem impróprias para as suas diversas utilizações será objecto de regulamentação especial.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850327": {
+   "fragment_id": "37138875",
+   "type": 11,
+   "heading": "Artigo 12.º — Unidade básica de gestão",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 12.º — Unidade básica de gestão\n\nA bacia hidrográfica é a unidade de gestão dos recursos hidrícos, a qual deverá ter em conta as suas implicações sócio-económicas, culturais e internacionais.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850328": {
+   "fragment_id": "37138975",
+   "type": 11,
+   "heading": "Artigo 13.º — Solo",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 13.º — Solo\n\n1 - A defesa e valorização do solo como recurso natural determina a adopção de medidas conducentes à sua racional utilização, a evitar a sua degradação e a promover a melhoria da sua fertilidade e regeneração, incluindo o estabelecimento de uma política de gestão de recursos naturais que salvaguarde a estabilidade ecológica e os ecossistemas de produção, protecção ou de uso múltiplo e regule o ciclo da água.\n\n2 - Será condicionada a utilização de solos agrícolas de elevada fertilidade para fins não agrícolas, bem como plantações, obras e operações agrícolas que provoquem erosão e degradação do solo, o desprendimento de terras, encharcamento, inundações, excesso de salinidade e outros efeitos perniciosos.\n\n3 - Aos proprietários de terrenos ou seus utilizadores podem ser impostas medidas de defesa e valorização dos mesmos, nos termos do n.º 1 deste artigo, nomeadamente a obrigatoriedade de execução de trabalhos técnicos, agrícolas ou silvícolas, em conformidade com as disposições em vigor.\n\n4 - O uso de biocidas, pesticidas, herbicidas, adubos, correctivos ou quaisquer outras substâncias similares, bem como a sua produção e comercialização, serão objecto de regulamentação especial.\n\n5 - A utilização e a ocupação do solo para fins urbanos e industriais ou implantação de equipamentos e infra-estruturas serão condicionadas pela sua natureza, topografia e fertilidade.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850329": {
+   "fragment_id": "37139075",
+   "type": 11,
+   "heading": "Artigo 14.º — Subsolo",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 14.º — Subsolo\n\n1 - A exploração dos recursos do subsolo deverá ter em conta:\n\na) Os interesses de conservação da Natureza e dos recursos naturais;\n\nb) A necessidade de obedecer a um plano global de desenvolvimento e, portanto, a uma articulação a nível nacional;\n\nc) Os interesses e questões que local e mais directamente interessem às regiões e autarquias onde se insiram.\n\n2 - Sem prejuízo do estabelecido no n.º 1 do presente artigo, a exploração do subsolo deverá ser orientada por forma a respeitar os seguintes princípios:\n\na) Garantia das condições que permitam a regeneração dos factores naturais renováveis e uma adequada relação entre o volume das reservas abertas e o das preparadas para serem exploradas;\n\nb) Valorização máxima de todas as matérias-primas extraídas;\n\nc) Exploração racional das nascentes de águas minerais e termais e determinação dos seus perímetros de protecção;\n\nd) Adopção de medidas preventivas da degradação do ambiente resultante dos trabalhos de extracção de matéria-prima que possam pôr em perigo a estabilidade dos sistemas naturais e sociais;\n\ne) Recuperação obrigatória da paisagem quando da exploração do subsolo resulta alteração quer da topografia preexistente, quer de sistemas naturais notáveis ou importantes, com vista à integração harmoniosa da área sujeita à exploração na paisagem envolvente.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850330": {
+   "fragment_id": "37139175",
+   "type": 11,
+   "heading": "Artigo 15.º — Flora",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 15.º — Flora\n\n1 - Serão adaptadas medidas que visem a salvaguarda e valorização das formações vegetais espontâneas ou subespontâneas, do património florestal e dos espaços verdes e periurbanos.\n\n2 - São proibidos os processos que impeçam o desenvolvimento normal ou a recuperação da flora e da vegetação espontânea que apresentem interesses científicos, económicos ou paisagísticos, designadamente da flora silvestre, que é essencial para a manutenção da fertilidade do espaço rural e do equilíbrio biológico das paisagens e à diversidade dos recursos genéticos.\n\n3 - Para as áreas degradadas ou nas atingidas por incêndios florestais ou afectadas por uma exploração desordenada será concebida e executada uma política de gestão que garanta uma racional recuperação dos recursos, através de beneficiação agrícola e florestal de uso múltiplo, fomento e posição dos recursos cinegéticos.\n\n4 - O património silvícola do País será objecto de medidas de ordenamento visando a sua defesa e valorização, tendo em conta a necessidade de corrigir e normalizar as operações de cultura e de exploração das matas, garantir uma eficaz protecção contra os fogos, promover o ordenamento do território e valorizar, incrementar e diversificar as actividades de produção de bens e prestação de serviços.\n\n5 - As espécies vegetais ameaçadas de extinção ou os exemplares botânicos isolados ou em grupo que, pelo seu potencial genético, porte, idade, raridade ou outra razão, o exijam serão objecto de protecção, a regulamentar em legislação especial.\n\n6 - O controle de colheita, o abate, a utilização e a comercialização de certas espécies vegetais e seus derivados, bem como a importação ou introdução de exemplares exóticos, serão objecto de legislação adequada.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850331": {
+   "fragment_id": "37139275",
+   "type": 11,
+   "heading": "Artigo 16.º — Fauna",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 16.º — Fauna\n\n1 - Toda a fauna será protegida através de legislação especial que promova e salvaguarde a conservação e a exploração das espécies sobre as quais recaiam interesses científico, económico ou social garantindo o seu potencial genético e os habitats indispensáveis à sua sobrevivência.\n\n2 - A fauna migratória será protegida através de legislação especial que promova e salvaguarde a conservação das espécies, através do levantamento, da classificação e da protecção, em particular dos montados e das zonas húmidas, ribeirinhas e costeiras.\n\n3 - A protecção da fauna autóctene de uma forma mais ampla e a necessidade de proteger a saúde pública implicam a adopção de medidas de controle efectivo, severamente restritivas, quando não mesmo de proibição, a desenvolver pelos organismos competentes e autoridades sanitárias, nomeadamente no âmbito de:\n\na) Manutenção ou activação dos processos biológicos de auto-regeneração;\n\nb) Recuperação dos habitats degradados essenciais para a fauna e criação de habitats de substituição, se necessário;\n\nc) Comercialização da fauna silvestre, aquática ou terrestre;\n\nd) Introdução de qualquer espécie animal selvagem, aquática ou terrestre, no País, com relevo para as áreas naturais;\n\ne) Destruição de animais tidos por prejudiciais, sem qualquer excepção, através do recurso a métodos não autorizados e sempre sob controle das autoridades competentes;\n\nf) Regulamentação e controle da importação de espécies exóticas;\n\ng) Regulamentação e controle da utilização de substâncias que prejudiquem a fauna selvagem;\n\nh) Organização de lista ou listas de espécies animais e das biocenoses em que se integram, quando raras ou ameaçadas de extinção.\n\n4 - Os recursos animais, cinegéticos e piscícolas das águas interiores e da orla costeira marinha serão objecto de legislação especial que regulamente a sua valorização, fomento e usufruição, sendo prestada especial atenção ao material genético que venha a ser utilizado no desenvolvimento da silvicultura e da aquicultura.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850332": {
+   "fragment_id": "35690575",
+   "type": 1,
+   "heading": "Capítulo III — Componentes ambientais humanos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo III — Componentes ambientais humanos\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850333": {
+   "fragment_id": "37139375",
+   "type": 11,
+   "heading": "Artigo 17.º — Componentes ambientais humanos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 17.º — Componentes ambientais humanos\n\n1 - Os componentes ambientais humanos definem, no seu conjunto, o quadro específico de vida, onde se insere e de que depende a actividade do homem, que, de acordo com o presente diploma, é objecto de medidas disciplinadoras com vista à obtenção de uma melhoria de qualidade de vida.\n\n2 - O ordenamento do território e a gestão urbanística terão em conta o disposto na presente lei, o sistema e orgânica do planeamento económico e social e ainda as atribuições e competências da administração central, regional e local.\n\n3 - Nos termos da presente lei, são componentes ambientais humanos:\n\na) A paisagem;\n\nb) O património natural e construído;\n\nc) A poluição.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850334": {
+   "fragment_id": "37139475",
+   "type": 11,
+   "heading": "Artigo 18.º — Paisagem",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 18.º — Paisagem\n\n1 - Em ordem a atingir os objectivos consignados na presente lei, no que se refere à defesa da paisagem como unidade estética e visual, serão condicionados pela administração central, regional e local, em termos a regulamentar, a implantação de construções, infra-estruturas viárias, novos aglomerados urbanos ou outras construções que, pela sua dimensão, volume, silhueta, cor ou localização, provoquem um impacte violento na paisagem preexistente, bem como a exploração de minas e pedreiras, evacuação e acumulação de resíduos e materiais usados e o corte maciço do arvoredo.\n\n2 - A ocupação marginal das infra-estruturas viárias, fluviais, portuárias e aeroportuárias, qualquer que seja o seu tipo, hierarquia ou localização, será objecto de regulamentação especial.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850335": {
+   "fragment_id": "37139575",
+   "type": 11,
+   "heading": "Artigo 19.º — Gestão da paisagem",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 19.º — Gestão da paisagem\n\nSão instrumentos da política de gestão das paisagens:\n\na) A protecção e valorização das paisagens que, caracterizadas pelas actividades seculares do homem, pela sua diversidade, concentração e harmonia e pelo sistema sócio-cultural que criaram, se revelam importantes para a manutenção da pluralidade paisagística e cultural;\n\nb) A determinação de critérios múltiplos e dinâmicos que permitam definir prioridades de intervenção, quer no que respeita às áreas menos afectadas pela presença humana, quer àquelas em que a acção do homem é mais determinante;\n\nc) Uma estratégia de desenvolvimento que empenhe as populações na defesa desses valores, nomeadamente, e sempre que necessário, por intermédio de incentivos financeiros ou fiscais e de apoio técnico e social;\n\nd) O inventário e a avaliação dos tipos característicos de paisagem rural e urbana, comportando elementos abióticos e culturais;\n\ne) A identificação e cartografia dos valores visuais e estéticos das paisagens naturais e artificiais.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850336": {
+   "fragment_id": "37139675",
+   "type": 11,
+   "heading": "Artigo 20.º — Património natural e construído",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 20.º — Património natural e construído\n\n1 - O património natural e construído do País, bem como o histórico e cultural, serão objecto de medidas especiais de defesa, salvaguarda e valorização, através, entre outros, de uma adequada gestão de recursos existentes e planificação das acções a empreender numa perspectiva de animação e utilização criativa.\n\n2 - Legislação especial definirá as políticas de recuperação de centros históricos de áreas urbanas e rurais, de paisagens primitivas e naturais notáveis e de edifícios e conjuntos monumentais e de inventariação e classificação do património histórico, cultural, natural e construído, em cooperação com as autarquias e com as associações locais de defesa do património e associações locais de defesa do ambiente, e estabelecerá a orgânica e modo de funcionamento dos organismos, existentes ou a criar, responsáveis pela sua execução.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850337": {
+   "fragment_id": "37139775",
+   "type": 11,
+   "heading": "Artigo 21.º — Poluição",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 21.º — Poluição\n\n1 - São factores de poluição do ambiente e degradação do território todas as acções e actividades que afectam negativamente a saúde, o bem-estar e as diferentes formas de vida, o equilíbrio e a perenidade dos ecossistemas naturais e transformados, assim como a estabilidade física e biológica do território.\n\n2 - São causas de poluição do ambiente todas as substâncias e radiações lançadas no ar, na água, no solo e no subsolo que alterem, temporária ou irreversivelmente, a sua qualidade ou interfiram na sua normal conservação ou evolução.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850338": {
+   "fragment_id": "37139875",
+   "type": 11,
+   "heading": "Artigo 22.º — Ruído",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 22.º — Ruído\n\n1 - A luta contra o ruído visa a salvaguarda da saúde e bem-estar das populações e faz-se através, designadamente:\n\na) Da normalização dos métodos de medida do ruído;\n\nb) Do estabelecimento de níveis sonoros máximos, tendo em conta os avanços científicos e tecnológicos nesta matéria;\n\nc) Da redução do nível sonoro na origem, através da fixação de normas de emissão aplicáveis às diferentes fontes;\n\nd) Dos incentivos à utilização de equipamentos cuja produção de ruídos esteja contida dentro dos níveis máximos admitidos para cada caso;\n\ne) Da obrigação de os fabricantes de máquinas e electro-domésticos apresentarem informações detalhadas, homologadas, sobre o nível sonoro dos mesmos nas instruções de uso e facilitarem a execução das inspecções oficiais;\n\nf) Da introdução nas autorizações de construção de edifícios, utilização de equipamento ou exercício de actividades da obrigatoriedade de adoptar medidas preventivas para eliminação da propagação do ruído exterior e interior, bem como das trepidações;\n\ng) Da sensibilização da opinião pública para os problemas do ruído;\n\nh) Da localização adequada no território das actividades causadoras de ruído.\n\n2 - Os veículos motorizados, incluindo as embarcações, as aeronaves e os transportes ferroviários, estão sujeitos a homologação e controle no que se refere às características do ruído que produzem.\n\n3 - Os avisadores sonoros estão sujeitos a homologação e controle no que se refere às características dos sinais acústicos que produzem.\n\n4 - Os equipamentos electro-mecânicos deverão ter especificadas as características do ruído que produzem.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850339": {
+   "fragment_id": "37139975",
+   "type": 11,
+   "heading": "Artigo 23.º — Compostos químicos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 23.º — Compostos químicos\n\n1 - O combate à poluição derivada do uso de compostos químicos, no âmbito da defesa do ambiente, processa-se, designadamente, através:\n\na) Da aplicação de tecnologias limpas;\n\nb) Da avaliação sistemática dos efeitos potenciais dos compostos químicos sobre o homem e o ambiente;\n\nc) Do controle do fabrico, comercialização, utilização e eliminação dos compostos químicos;\n\nd) Da aplicação de técnicas preventivas orientadoras para a reciclagem e reutilização de matérias-primas e produtos;\n\ne) Da aplicação de instrumentos fiscais e financeiros que incentivem a reciclagem e utilização de resíduos;\n\nf) Da homologação de laboratórios de ensaio destinados ao estudo do impacte ambiental de compostos químicos;\n\ng) Da elucidação da opinião pública.\n\n2 - O Governo legislará, no prazo de um ano após a entrada em vigor da presente lei, sobre:\n\na) Normas para a biodegradabilidade dos detergentes;\n\nb) Normas para homologação, condicionamento e etiquetagem dos pesticidas, solventes, tintas, vernizes e outros tóxicos;\n\nc) Normas sobre a utilização dos cloro-flúor-carbonetos e de outros componentes utilizados nos aerossóis que provoquem impacte grave no ambiente e na saúde humana;\n\nd) Normas sobre criação de um sistema de informação sobre as novas substâncias químicas, obrigando os industriais a actualizar e avaliar os riscos potenciais dos seus produtos antes da comercialização;\n\ne) Estabelecimento de normas máximas de poluição pelo amianto, chumbo, mercúrio e cádmio;\n\nf) Fomento do apoio à normalização da reciclagem da energia, dos metais, do vidro, do plástico, do pano e do papel;\n\ng) Fomento e aproveitamento dos desperdícios agro-pecuários para o aproveitamento de energia;\n\nh) Fomento e apoio às energias alternativas.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850340": {
+   "fragment_id": "37140075",
+   "type": 11,
+   "heading": "Artigo 24.º — Resíduos e efluentes",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 24.º — Resíduos e efluentes\n\n1 - Os resíduos sólidos poderão ser reutilizados como fontes de matérias-primas e energia, procurando-se eliminar os tóxicos pela adopção das seguintes medidas:\n\na) Da aplicação de «tecnologias limpas»;\n\nb) Da aplicação de técnicas preventivas orientadas para a reciclagem e reutilização de produtos como matérias-primas;\n\nc) Da aplicação de instrumentos fiscais e financeiros que incentivem a reciclagem e utilização de resíduos e efluentes.\n\n2 - A emissão, transporte e destino final de resíduos e efluentes ficam condicionados a autorização prévia.\n\n3 - A responsabilidade do destino dos diversos tipos de resíduos e efluentes é de quem os produz.\n\n4 - Os resíduos e efluentes devem ser recolhidos, armazenados, transportados, eliminados ou reutilizados de tal forma que não constituam perigo imediato ou potencial para a saúde humana nem causem prejuízo para o ambiente.\n\n5 - A descarga de resíduos e efluentes só pode ser efectuada em locais determinados para o efeito pelas entidades competentes e nas condições previstas na autorização concedida.\n\n6 - As autarquias locais, isoladamente ou em conjunto, poderão proceder à constituição de planos reguladores de descargas de resíduos e efluentes e sua recuperação paisagística.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850341": {
+   "fragment_id": "37140175",
+   "type": 11,
+   "heading": "Artigo 25.º — Substâncias radioactivas",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 25.º — Substâncias radioactivas\n\nO controle da poluição originada por substâncias radioactivas tem por finalidade eliminar a sua influência na saúde e bem-estar das populações e no ambiente e faz-se, designadamente, através:\n\na) Da avaliação dos efeitos das substâncias radioactivas nos ecossistemas receptores;\n\nb) Da fixação de normas de emissão para os efluentes físicos e quimícos radioactivos resultantes de actividades que impliquem a extracção, o transporte, a transformação, a utilização e o armazenamento de material radioactivo;\n\nc) Do planeamento das medidas preventivas necessárias para a actuação imediata em caso de poluição radioactiva;\n\nd) Da avaliação e controle dos efeitos da poluição transfronteiras e actuação técnica e diplomática internacional que permita a sua prevenção;\n\ne) Da fixação de normas para o trânsito, transferência e deposição de materiais radioactivos no território nacional e nas águas marítimas territoriais e na zona económica exclusiva.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850342": {
+   "fragment_id": "37140275",
+   "type": 11,
+   "heading": "Artigo 26.º — Proibição de poluir",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 26.º — Proibição de poluir\n\n1 - Em território nacional ou área sob jurisdição portuguesa é proibido lançar, depositar ou, por qualquer outra forma, introduzir nas águas, no solo, no subsolo ou na atmosfera efluentes, resíduos radioactivos e outros e produtos que contenham substâncias ou microrganismos que possam alterar as características ou tornar impróprios para as suas aplicações aqueles componentes ambientais e contribuam para a degradação do ambiente.\n\n2 - O transporte, a manipulação, o depósito, bem como a reciclagem e deposição de quaisquer produtos susceptíveis de produzirem os tipos de poluição referidos no n.º 1, serão regulamentados por legislação especial.\n\n3 - Diplomas regulamentares apropriados definirão os limites de tolerância admissível da presença de elementos poluentes na atmosfera, água, solo e seres vivos, bem assim como as proibições ou condicionamentos necessários à defesa e melhoria da qualidade do ambiente.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850343": {
+   "fragment_id": "35690675",
+   "type": 1,
+   "heading": "Capítulo IV — Instrumentos da política de ambiente",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo IV — Instrumentos da política de ambiente\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850344": {
+   "fragment_id": "37140375",
+   "type": 11,
+   "heading": "Artigo 27.º — Instrumentos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 27.º — Instrumentos\n\n1 - São instrumentos da política de ambiente e do ordenamento do território:\n\na) A estratégia nacional de conservação da Natureza, integrada na estratégia europeia e mundial;\n\nb) O plano nacional;\n\nc) O ordenamento integrado do território a nível regional e municipal, incluindo a classificação e criação de áreas, sítios ou paisagens protegidas sujeitos a estatutos especiais de conservação;\n\nd) A reserva agrícola nacional e a reserva ecológica nacional;\n\ne) Os planos regionais de ordenamento do território, os planos directores municipais e outros instrumentos de intervenção urbanística;\n\nf) O estabelecimento de critérios, objectivos e normas de qualidade para os efluentes e resíduos e para os meios receptores;\n\ng) A avaliação prévia do impacte provocado por obras, pela construção de infra-estruturas, introdução de novas actividades tecnológicas e de produtos susceptíveis de afectarem o ambiente e a paisagem;\n\nh) O licenciamento prévio de todas as actividades potencial ou efectivamente poluidoras ou capazes de afectarem a paisagem;\n\ni) A redução ou suspensão de laboração de todas as actividades ou transferência de estabelecimentos que de qualquer modo sejam factores de poluição;\n\nj) Os incentivos à produção e instalação de equipamentos e a criação ou transferência de tecnologias que proporcionem a melhoria da qualidade do ambiente;\n\nk) A regulamentação selectiva e quantificada do uso do solo e dos restantes recursos naturais;\n\nl) O inventário dos recursos e de outras informações sobre o ambiente a nível nacional e regional;\n\nm) O sistema nacional de vigilância e controle da qualidade do ambiente;\n\nn) O sistema nacional de prevenção de incêndios florestais;\n\no) A normalização e homologação de métodos e aparelhos de medida;\n\np) As sanções pelo incumprimento do disposto na legislação sobre o ambiente e ordenamento do território;\n\nq) A cartografia do ambiente e do território;\n\nr) A fixação de taxas a aplicar pela utilização de recursos naturais e componentes ambientais, bem como pela rejeição de efluentes.\n\n2 - Lei especial definirá as áreas e zonas de grande poluição onde se fará controle e se tomarão medidas permanentes que normalizem a qualidade do ambiente.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850345": {
+   "fragment_id": "37140475",
+   "type": 11,
+   "heading": "Artigo 28.º — Conservação da Natureza",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 28.º — Conservação da Natureza\n\n1 - Para enquadramento e utilização das políticas globais do ambiente com as sectoriais será elaborada pelo Governo, no prazo de um ano, a estratégia nacional de conservação da Natureza, que será submetida a aprovação da Assembleia da República.\n\n2 - A estratégia nacional de conservação da Natureza deverá informar os objectivos do Plano, em obediência ao disposto no n.º 2 do artigo 91.º da Constituição da República.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850346": {
+   "fragment_id": "37140575",
+   "type": 11,
+   "heading": "Artigo 29.º — Áreas protegidas, lugares, sítios, conjuntos e objectos classificados",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 29.º — Áreas protegidas, lugares, sítios, conjuntos e objectos classificados\n\n1 - Será implementada e regulamentada uma rede nacional contínua de áreas protegidas, abrangendo áreas terrestres, águas interiores e marítimas e outras ocorrências naturais distintas que devam ser submetidas a medidas de classificação, preservação e conservação, em virtude dos seus valores estéticos, raridade, importância científica, cultural e social ou da sua contribuição para o equilíbrio biológico e estabilidade ecológica das paisagens.\n\n2 - As áreas protegidas poderão ter âmbito nacional, regional ou local, consoante os interesses que procuram salvaguardar.\n\n3 - A iniciativa da classificação e conservação de áreas protegidas, de lugares, sítios, conjuntos e objectos classificados será da competência da administração central, regional ou local ou ainda particular.\n\n4 - A regulamentação da gestão de áreas protegidas, lugares, sítios, conjuntos e objectos classificados consoante o seu âmbito compete à administração central, regional ou local.\n\n5 - Na gestão das áreas protegidas ter-se-á sempre em vista a protecção e estudo dos ecossistemas naturais e ainda a preservação de valores de ordem científica, cultural, social e paisagística.\n\n6 - A definição das diversas categorias de áreas protegidas para o efeito da protecção referida nos números anteriores será feita através de legislação própria.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850347": {
+   "fragment_id": "37140675",
+   "type": 11,
+   "heading": "Artigo 30.º — Estudos de impacte ambiental",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 30.º — Estudos de impacte ambiental\n\n1 - Os planos, projectos, trabalhos e acções que possam afectar o ambiente, o território e a qualidade de vida dos cidadãos, quer sejam da responsabilidade e iniciativa de um organismo da administração central, regional ou local, quer de instituições públicas ou privadas, devem respeitar as preocupações e normas desta lei e terão de ser acompanhados de um estudo de impacte ambiental.\n\n2 - Serão regulamentadas por lei as condições em que será efectuado o estudo de impacte ambiental, o seu conteúdo, bem como as entidades responsáveis pela análise das suas conclusões e pela autorização e licenciamento de obra ou trabalhos previstos.\n\n3 - A aprovação do estudo de impacte ambiental é condição essencial para o licenciamento final das obras e trabalhos pelos serviços competentes, nos termos da lei.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850348": {
+   "fragment_id": "37140775",
+   "type": 11,
+   "heading": "Artigo 31.º — Conteúdo do estudo de impacte ambiental",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 31.º — Conteúdo do estudo de impacte ambiental\n\nO conteúdo do estudo de impacte ambiental compreenderá, no mínimo:\n\na) Uma análise do estado do local e do ambiente;\n\nb) O estudo das modificações que o projecto provocará;\n\nc) As medidas previstas para suprimir e reduzir as normas aprovadas e, se possível, compensar as eventuais incidências sobre a qualidade do ambiente.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850349": {
+   "fragment_id": "37140875",
+   "type": 11,
+   "heading": "Artigo 32.º — Equilíbrio entre componentes ambientais",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 32.º — Equilíbrio entre componentes ambientais\n\nNas intervenções sobre componentes ambientais, naturais ou humanos, haverá que ter sempre em conta as consequências que qualquer dessas intervenções, efectivadas ao nível de cada um dos componentes, possa ter sobre as restantes ou sobre as respectivas interacções.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850350": {
+   "fragment_id": "35690775",
+   "type": 1,
+   "heading": "Capítulo V — Licenciamento e situações de emergência",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo V — Licenciamento e situações de emergência\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850351": {
+   "fragment_id": "37140975",
+   "type": 11,
+   "heading": "Artigo 33.º — Licenciamento",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 33.º — Licenciamento\n\n1 - A construção, ampliação, instalação e funcionamento de estabelecimentos e o exercício de actividades efectivamente poluidoras dependerão do prévio licenciamento pelo serviço competente do Estado responsável pelo ambiente e ordenamento do território, sem prejuízo de outras licenças exigíveis.\n\n2 - O pedido de licenciamento para empreendimentos a determinar em diploma específico é regulado nos termos do artigo 30.º\n\n3 - A autorização para funcionamento exige o licenciamento prévio e a vistoria das obras e instalações realizadas em cumprimento do projecto aprovado e demais legislação em vigor.\n\n4 - Para garantir a aplicação do artigo 14.º, n.º 2, alínea e), será obrigatório o depósito de uma caução, no valor do custo de recuperação, no acto do licenciamento.\n\n5 - Os licenciamentos abrangidos pelo disposto no n.º 1, a sua renovação e a respectiva concessão serão publicados num periódico regional ou local.\n\n6 - As autarquias interessadas darão parecer para o licenciamento relativo a complexos petroquímicos, cloroquímicos e outros definidos por lei.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850352": {
+   "fragment_id": "37141075",
+   "type": 11,
+   "heading": "Artigo 34.º — Declaração de zonas críticas e situações de emergência",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 34.º — Declaração de zonas críticas e situações de emergência\n\n1 - O Governo declarará como zonas críticas todas aquelas em que os parâmetros que permitem avaliar a qualidade do ambiente atinjam, ou se preveja virem a atingir, valores que possam pôr em causa a saúde humana ou o ambiente, ficando sujeitas a medidas especiais e acções a estabelecer pelo departamento encarregado da protecção civil em conjugação com as demais autoridades da administração central e local.\n\n2 - Quando os índices de poluição, em determinada área, ultrapassarem os valores admitidos pela legislação que vier regulamentar a presente lei ou, por qualquer forma, puserem em perigo a qualidade do ambiente, poderá ser declarada a situação de emergência, devendo ser previstas actuações específicas, administrativas ou técnicas, para lhes fazer face, por parte da administração central e local, acompanhadas do esclarecimento da população afectada.\n\n3 - Será feito o planeamento das medidas imediatas necessárias para ocorrer a casos de acidente sempre que estes provoquem aumentos bruscos e significativos dos índices de poluição permitidos ou que, pela sua natureza, façam prever a possibilidade desta ocorrência.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850353": {
+   "fragment_id": "37141175",
+   "type": 11,
+   "heading": "Artigo 35.º — Redução e suspensão de laboração",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 35.º — Redução e suspensão de laboração\n\n1 - Pelo serviço competente do Estado responsável pelo ambiente e ordenamento do território poderá ser determinada a redução ou suspensão temporária ou definitiva das actividades geradoras de poluição para manter as emissões gasosas e radioactivas, os efluentes e os resíduos sólidos dentro dos limites estipulados, nos termos em que for estabelecido pela legislação complementar da presente lei.\n\n2 - O Governo poderá celebrar contratos-programa com vista a reduzir gradualmente a carga poluente das actividades poluidoras.\n\n3 - Os contratos-programa só serão celebrados desde que da continuação da laboração nessas actividades não decorram riscos significativos para o homem ou o ambiente.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850354": {
+   "fragment_id": "37141275",
+   "type": 11,
+   "heading": "Artigo 36.º — Transferência de estabelecimentos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 36.º — Transferência de estabelecimentos\n\nOs estabelecimentos que alterem as condições normais de salubridade e higiene do ambiente definidas por lei podem ser obrigados a transferir-se para local mais apropriado, salvaguardados os direitos previamente adquiridos.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850355": {
+   "fragment_id": "35690875",
+   "type": 1,
+   "heading": "Capítulo VI — Organismos responsáveis",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo VI — Organismos responsáveis\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850356": {
+   "fragment_id": "37141375",
+   "type": 11,
+   "heading": "Artigo 37.º — Competência do Governo e da administração regional e local",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 37.º — Competência do Governo e da administração regional e local\n\n1 - Compete ao Governo, de acordo com a presente lei, a condução de uma política global nos domínios do ambiente, da qualidade de vida e do ordenamento do território, bem como a coordenação das políticas de ordenamento regional do território e desenvolvimento económico e progresso social e ainda a adopção das medidas adequadas à aplicação dos instrumentos previstos na presente lei.\n\n2 - O Governo e a administração regional e local articularão entre si a implementação das medidas necessárias à prossecução dos fins previstos na presente lei, no âmbito das respectivas competências.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850357": {
+   "fragment_id": "37141475",
+   "type": 11,
+   "heading": "Artigo 38.º — Organismos responsáveis pela aplicação da presente lei",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 38.º — Organismos responsáveis pela aplicação da presente lei\n\n1 - O serviço competente do Estado responsável pela coordenação da aplicação da presente lei terá por missão promover, coordenar, apoiar e participar na execução da política nacional do ambiente e qualidade de vida constante deste diploma e a concretizar pelo Governo, em estreita colaboração com os diferentes serviços da administração central, regional e local, que devem também acatamento aos princípios e normas aqui estabelecidos.\n\n2 - A nível de cada região administrativa existirão organismos regionais, dependentes da administração regional, responsáveis pela coordenação e aplicação da presente lei, em termos análogos aos do organismo central referido nos números anteriores e em colaboração com este, sem impedimento de organismos similares existirem a nível municipal.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850358": {
+   "fragment_id": "37141575",
+   "type": 11,
+   "heading": "Artigo 39.º — Instituto Nacional do Ambiente",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 39.º — Instituto Nacional do Ambiente\n\n1 - É criado o Instituto Nacional do Ambiente, dotado de personalidade jurídica e autonomia administrativa e financeira.\n\n2 - O Instituto Nacional do Ambiente é um organismo não executivo destinado à promoção de acções no domínio da qualidade do ambiente, com especial ênfase na formação e informação dos cidadãos e apoio às associações de defesa do ambiente, integrando a representação da opinião pública nos seus órgãos de decisão.\n\n3 - São atribuições do Instituto Nacional do Ambiente:\n\na) Estudar e propor ao Governo a definição de políticas e a execução de acções de defesa do ambiente e do património natural e construído;\n\nb) Estudar e promover formas de apoio técnico e financeiro às associações de defesa do ambiente;\n\nc) Estudar e promover projectos especiais, de educação ambiental, de defesa do ambiente e do património natural e construído, em colaboração com as autarquias, serviços da Administração Pública, instituições públicas, privadas e cooperativas, escolas e universidades, incluindo acções de formação e informação;\n\nd) Estabelecer contactos regulares com organismos similares estrangeiros e promover acções comuns, nomeadamente de formação e informação;\n\ne) Impulsionar, em geral, a aplicação e o aprofundamento das medidas previstas na presente lei;\n\nf) Quaisquer outras que lhe venham a ser cometidas por lei.\n\n4 - A gestão do Instituto Nacional do Ambiente é assegurada por um presidente e por um vice-presidente, com funções delegadas pelo conselho directivo.\n\n5 - O Instituto Nacional do Ambiente dispõe de um conselho directivo, a quem compete fixar os princípios a que deve subordinar-se a elaboração do seu plano de actividades e orçamento, bem como acompanhar a sua gestão e funcionamento.\n\n6 - O plano de actividades do Instituto Nacional do Ambiente incluirá, obrigatoriamente, os critérios de atribuição dos apoios financeiros previstos nesta lei e demais legislação complementar.\n\n7 - O conselho directivo do Instituto Nacional do Ambiente é composto por:\n\na) O presidente do Instituto Nacional do Ambiente, que presidirá;\n\nb) Três cidadãos de reconhecido mérito, designados pela Assembleia da República;\n\nc) Dois representantes das associações de defesa do ambiente com representatividade genérica;\n\nd) Dois representantes do movimento sindical;\n\ne) Dois representantes das confederações patronais;\n\nf) Dois representantes da Associação Nacional dos Municípios Portugueses;\n\ng) Dois representantes das universidades portuguesas que ministrem cursos no domínio do ambiente, ordenamento do território e património natural e construído.\n\n8 - O Instituto Nacional do Ambiente deverá ter delegações regionais.\n\n9 - O Governo, no prazo de 180 dias, estruturará a organização, funcionamento e competência, sob a forma de decreto-lei, do Instituto Nacional do Ambiente, na parte não prevista na presente lei, aprovará os respectivos quadros de pessoal e inscreverá no Orçamento do Estado as dotações necessárias ao seu funcionamento.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850359": {
+   "fragment_id": "35690975",
+   "type": 1,
+   "heading": "Capítulo VII — Direitos e deveres dos cidadãos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo VII — Direitos e deveres dos cidadãos\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850360": {
+   "fragment_id": "37141675",
+   "type": 11,
+   "heading": "Artigo 40.º — Direitos e deveres dos cidadãos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 40.º — Direitos e deveres dos cidadãos\n\n1 - É dever dos cidadãos, em geral, e dos sectores público, privado e cooperativo, em particular, colaborar na criação de um ambiente sadio e ecologicamente equilibrado e na melhoria progressiva e acelerada da qualidade de vida.\n\n2 - Às iniciativas populares no domínio da melhoria do ambiente e da qualidade de vida, quer surjam espontaneamente, quer correspondam a um apelo da administração central, regional ou local, deve ser dispensada protecção adequada, através dos meios necessários à prossecução dos objectivos do regime previsto na presente lei.\n\n3 - O Estado e as demais pessoas colectivas de direito público, em especial as autarquias, fomentarão a participação das entidades privadas em iniciativas de interesse para a prossecução dos fins previstos na presente lei, nomeadamente as associações nacionais ou locais de defesa do ambiente, do património natural e construído e de defesa do consumidor.\n\n4 - Os cidadãos directamente ameaçados ou lesados no seu direito a um ambiente de vida humana sadio e ecologicamente equilibrado podem pedir, nos termos gerais de direito, a cessação das causas de violação e a respectiva indemnização.\n\n5 - Sem prejuízo do disposto nos números anteriores, é reconhecido às autarquias e aos cidadãos que sejam afectados pelo exercício de actividades susceptíveis de prejudicarem a utilização dos recursos do ambiente o direito às compensações por parte das entidades responsáveis pelos prejuízos causados.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850361": {
+   "fragment_id": "37141775",
+   "type": 11,
+   "heading": "Artigo 41.º — Responsabilidade objectiva",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 41.º — Responsabilidade objectiva\n\n1 - Existe obrigação de indemnizar, independentemente de culpa, sempre que o agente tenha causado danos significativos no ambiente, em virtude de uma acção especialmente perigosa, muito embora com respeito do normativo aplicável.\n\n2 - O quantitativo de indemnização a fixar por danos causados no ambiente será estabelecido em legislação complementar.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850362": {
+   "fragment_id": "37141875",
+   "type": 11,
+   "heading": "Artigo 42.º — Embargos administrativos",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 42.º — Embargos administrativos\n\nAqueles que se julguem ofendidos nos seus direitos a um ambiente sadio e ecologicamente equilibrado poderão requerer que seja mandada suspender imediatamente a actividade causadora do dano, seguindo-se, para tal efeito, o processo de embargo administrativo.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850363": {
+   "fragment_id": "37141975",
+   "type": 11,
+   "heading": "Artigo 43.º — Seguro de responsabilidade civil",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 43.º — Seguro de responsabilidade civil\n\nAqueles que exerçam actividades que envolvam alto grau de risco para o ambiente e como tal venham a ser classificados serão obrigados a segurar a sua responsabilidade civil.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850364": {
+   "fragment_id": "37142075",
+   "type": 11,
+   "heading": "Artigo 44.º — Direito a uma justiça acessível e pronta",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 44.º — Direito a uma justiça acessível e pronta\n\n1 - É assegurado aos cidadãos o direito à isenção de preparos nos processos em que pretendam obter reparação de perdas e danos emergentes de factos ilícitos que violem regras constantes da presente lei e dos diplomas que a regulamentem, desde que o valor da causa não exceda o da alçada do tribunal da comarca.\n\n2 - É proibida a apensação de processos contra o mesmo arguido relativos a infracções contra o disposto na presente lei, salvo se requerida pelo Ministério Público.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850365": {
+   "fragment_id": "35691075",
+   "type": 1,
+   "heading": "Capítulo VIII — Penalizações",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo VIII — Penalizações\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850366": {
+   "fragment_id": "37142175",
+   "type": 11,
+   "heading": "Artigo 45.º — Tutela judicial",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2002 - Diário da República n.º 42/2002, Série I-A de 2002-02-19](https://diariodarepublica.pt/dr/detalhe/lei/13-2002-278029), em vigor a partir de 2003-02-19"
+   ],
+   "markdown": "###### Artigo 45.º — Tutela judicial\n\n1 - Sem prejuízo da legitimidade de quem se sinta ameaçado ou tenha sido lesado nos seus direitos, à actuação perante a jurisdição competente do correspondente direito à cessação da conduta ameaçadora ou lesiva e à indemnização pelos danos que dela possam ter resultado, ao abrigo do disposto no capítulo anterior, também ao Ministério Público compete a defesa dos valores protegidos pela presente lei, nomeadamente através da utilização dos mecanismos nela previstos.\n\n2 - É igualmente reconhecido a qualquer pessoa, independentemente de ter interesse pessoal na demanda, bem como às associações e fundações defensoras dos interesses em causa e às autarquias locais, o direito de propor e intervir, nos termos previstos na lei, em processos principais e cautelares destinados à defesa dos valores protegidos pela presente lei.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2002 - Diário da República n.º 42/2002, Série I-A de 2002-02-19](https://diariodarepublica.pt/dr/detalhe/lei/13-2002-278029), em vigor a partir de 2003-02-19"
+  },
+  "868850367": {
+   "fragment_id": "37142275",
+   "type": 11,
+   "heading": "Artigo 46.º — Crimes contra o ambiente",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 46.º — Crimes contra o ambiente\n\nAlém dos crimes previstos e punidos no Código Penal, serão ainda consideradas crimes as infracções que a legislação complementar vier a qualificar como tal de acordo com o disposto na presente lei.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850368": {
+   "fragment_id": "37142375",
+   "type": 11,
+   "heading": "Artigo 47.º — Contra-ordenações",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 47.º — Contra-ordenações\n\n1 - As restantes infracções à presente lei serão consideradas contra-ordenações puníveis com coima, em termos a definir por legislação complementar, compatibilizando os vários níveis da Administração em função da gravidade da infracção.\n\n2 - Se a mesma conduta constituir simultaneamente crime e contra-ordenação, será o infractor sempre punido a título de crime, sem prejuízo das sanções acessórias previstas para a contra-ordenação.\n\n3 - Em função da gravidade da contra-ordenação e da culpa do agente, poderão ainda ser aplicadas as seguintes sanções acessórias:\n\na) Interdição do exercício de uma profissão ou actividade;\n\nb) Privação do direito a subsídio outorgado por entidades ou serviços públicos;\n\nc) Cessação de licenças ou autorizações relacionadas com o exercício da respectiva actividade;\n\nd) Apreensão e perda a favor do Estado dos objectos utilizados ou produzidos aquando da infracção;\n\ne) Perda de benefícios fiscais, de benefícios de crédito e de linhas de financiamento de estabelecimentos de crédito de que haja usufruído.\n\n4 - A negligência e a tentativa são puníveis.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850369": {
+   "fragment_id": "37142475",
+   "type": 11,
+   "heading": "Artigo 48.º — Obrigatoriedade de remoção das causas da infracção e da reconstituição da situação anterior",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 48.º — Obrigatoriedade de remoção das causas da infracção e da reconstituição da situação anterior\n\n1 - Os infractores são obrigados a remover as causas da infracção e a repor a situação anterior à mesma ou equivalente, salvo o disposto no n.º 3.\n\n2 - Se os infractores não cumprirem as obrigações acima referidas no prazo que lhes for indicado, as entidades competentes mandarão proceder às demolições, obras e trabalhos necessários à reposição da situação anterior à infracção a expensas dos infractores.\n\n3 - Em caso de não ser possível a reposição da situação anterior à infracção, os infractores ficam obrigados ao pagamento de uma indemnização especial a definir por legislação e à realização das obras necessárias à minimização das consequências provocadas.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850370": {
+   "fragment_id": "35691175",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições finais",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "### Capítulo IX — Disposições finais\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850371": {
+   "fragment_id": "37142575",
+   "type": 11,
+   "heading": "Artigo 49.º — Relatório e livro branco sobre o ambiente",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 49.º — Relatório e livro branco sobre o ambiente\n\n1 - O Governo fica obrigado a apresentar à Assembleia da República, juntamente com as Grandes Opções do Plano de cada ano, um relatório sobre o estado do ambiente e ordenamento do território em Portugal referente ao ano anterior.\n\n2 - O Governo fica obrigado a apresentar à Assembleia da República, de três em três anos, um livro branco sobre o estado do ambiente em Portugal.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850372": {
+   "fragment_id": "37142675",
+   "type": 11,
+   "heading": "Artigo 50.º — Convenções e acordos internacionais",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 50.º — Convenções e acordos internacionais\n\nA regulamentação, as normas e, de um modo geral, toda a matéria incluída na legislação especial que regulamentará a aplicação da presente lei terão em conta as convenções e acordos internacionais aceites e ratificados por Portugal e que tenham a ver com a matéria em causa, assim como as normas e critérios aprovados multi ou bilateralmente entre Portugal e outros países.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850373": {
+   "fragment_id": "37142775",
+   "type": 11,
+   "heading": "Artigo 51.º — Legislação complementar",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 51.º — Legislação complementar\n\nTodos os diplomas legais necessários à regulamentação do disposto no presente diploma serão obrigatoriamente publicados no prazo de um ano a partir da data da sua entrada em vigor.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850374": {
+   "fragment_id": "37142875",
+   "type": 11,
+   "heading": "Artigo 52.º — Entrada em vigor",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "###### Artigo 52.º — Entrada em vigor\n\n1 - Na parte que não necessita de regulamentação, esta lei entra imediatamente em vigor.\n\n2 - As disposições que estão sujeitas a regulamentação entrarão em vigor com os respectivos diplomas regulamentares.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  },
+  "868850975": {
+   "fragment_id": "35691275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2014-04-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+   ],
+   "markdown": "Aprovada em 9 de Janeiro de 1987.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 21 de Março de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 25 de Março de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 24.º do/a [Lei n.º 19/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/lei/19-2014-25344037), em vigor a partir de 2014-04-19"
+  }
+ }
+}

@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:411312:por
+title: Portaria n.º 283/74
+short_title: null
+summary: Concede a João António Veiga uma licença de exclusivo de pesquisas e exploração mineira de determinadas pedras e
+  minerais semipreciosos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Inspecção-Geral de Minas
+proposing_entity: null
+official_number: 283/74
+official_date: null
+publication_date: '1974-04-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 90/1974, Série I de 1974-04-17
+  number: '90'
+  series: I
+  supplement: null
+  pages: 546 - 547
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09000/05460547.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '411312'
+  dre_path: /dr/detalhe/portaria/283-1974-411312
+  internal: pt:dre:411312:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1974-411312
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1974-411312
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 47e27557e48b5d148a1835b92f9c78971ce803be31bda26878ba93e56ecd91c2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:23:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 283/74
+
+de 17 de Abril
+
+Atendendo o que foi proposto pelo Governo-Geral do Estado de Angola;
+
+Nos termos da base XV da Lei Orgânica do Ultramar Português e do artigo 19.º do Decreto de 20 de Setembro de 1906:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
+
+1.º É concedida a João António Veiga uma licença de exclusivo de pesquisas e exploração mineira apenas de pedras e minerais semipreciosos, tais como: quartzos, cristais de rocha coloridos, ágatas, calcedónias, cornalinas, feldspatos, sílex, jaspes, berilo, barita e outros minerais não metálicos mas susceptíveis de corte e polimento para confecção de adornos, com excepção de diamantes.
+
+2.º A licença é válida para a porção do território do Estado de Angola definida pelos seguintes limites:
+
+Área 1:
+
+Norte - paralelo 11º 10' sul.
+
+Sul - paralelo 11º 30' sul.
+
+Este - meridiano 14º 10' este Greenwich.
+
+Oeste - meridiano 14º 00' este Greenwich.
+
+Área 2:
+
+Norte - paralelo 11º 05' sul.
+
+Sul - paralelo 11º 15' sul.
+
+Este - meridiano 14º 25' este Greenwich.
+
+Oeste - meridiano 14º 15' este Greenwich.
+
+3.º O concessionário obriga-se às disposições da lei geral e, em especial, às do Decreto de 20 de Setembro de 1906, do Decreto n.º 32251, de 9 de Setembro de 1942, e à legislação regulamentar da indústria extractiva mineira em vigor ou que venha a vigorar.
+
+4.º A licença a que esta portaria dá direito é válida por um período de três anos, renovável por mais dois, a requerimento fundamentado do concessionário e nos termos do artigo 19.º do Decreto de 20 de Setembro de 1906.
+
+5.º O concessionário obriga-se a despender, anualmente, em trabalhos de pesquisa um mínimo de 400000$00, incluindo nesta importância salários, materiais, equipamentos e encargos com estudos.
+
+6.º O concessionário terá de apresentar nos Serviços de Geologia e Minas de Angola programas de actividade anual, elaborados com indicação das fases de estudo, sua duração, natureza de estudos e trabalhos e objectivos a atingir no prazo a que digam respeito.
+
+7.º - 1. Os programas de actividades, em regra, respeitarão a anos civis, devendo ser apresentados nos Serviços de Geologia e Minas até 30 de Novembro do ano antecedente.
+
+2. O programa relativo a 1974 deverá ser entregue até fins de Junho do mesmo ano.
+
+8.º - 1. Dentro de dois meses a partir do fim de cada semestre o concessionário apresentará aos Serviços de Geologia e Minas relatório circunstanciado da respectiva actividade, acompanhado de documentação que permita avaliar a natureza e dimensão dos trabalhos, seus resultados, interesse económico dos jazigos existentes e encontrados.
+
+2. No relatório do 2.º semestre deverá constar, além dos elementos referidos no número anterior, uma relação de todas as receitas e despesas do ano.
+
+9.º Esta portaria entra imediatamente em vigor.
+
+Ministério do Ultramar, 8 de Abril de 1974. - Pelo Ministro do Ultramar, Rui Jorge Martins dos Santos, Secretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial do Estado de Angola. - Rui Martins dos Santos.

@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: pt:dre:421032:por
+title: Portaria n.º 400/87
+short_title: null
+summary: Visa alterar a estrutura curricular dos cursos de licenciatura em Engenharia Zootécnica e Engenharia Florestal ministrados
+  pela Universidade de Trás-os-Montes e Alto Douro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 400/87
+official_date: null
+publication_date: '1987-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/1987, Série I de 1987-05-13
+  number: '109'
+  series: I
+  supplement: null
+  pages: 1960 - 1960
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/05/10900/19601960.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421032'
+  dre_path: /dr/detalhe/portaria/400-1987-421032
+  internal: pt:dre:421032:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/400-1987-421032
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/400-1987-421032
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8b30c04373252204131985d5a020b8878e63d85fe89cb3a63a81539a7c0fae24
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:07:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Avaliação de Conhecimentos
+- Curso de Engenharia Florestal
+- Curso de Engenharia Zootécnica
+- Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade de Trás-os-montes e ALTO Douro
+relationships:
+- type: amended_by
+  target: pt:dre:550461:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:442926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563797:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:07:10Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 400/87
+
+de 13 de Maio
+
+Sob proposta da Universidade de Trás-os-Montes e Alto Douro:
+
+Ao abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:
+
+1.º
+
+Alterações
+
+1 - O n.º 3 do n.º 3.º da [Portaria n.º 843/81](https://diariodarepublica.pt/dr/detalhe/portaria/843-1981-563797), de 24 de Setembro, com a alteração da [Portaria n.º 895/83](https://diariodarepublica.pt/dr/detalhe/portaria/895-1983-442926), de 27 de Setembro, passa a ter a seguinte redacção:
+
+3.º
+
+Licenciatura em Engenharia Zootécnica
+
+1 - ...
+
+2 - ...
+
+3 - O número total de unidades de crédito necessárias à concessão do grau é de 158,5, assim distribuídas:
+
+3.1 - Áreas obrigatórias:
+
+a) Biologia ... 43
+
+b) Biotecnologia ... 15
+
+c) Geociências ... 6
+
+d) Economia e Sociologia ... 18,5
+
+e) Matemática ... 19
+
+f) Física ... 7
+
+g) Química ... 14
+
+h) Fitotecnia e Engenharia Rural ... 12
+
+i) Línguas Vivas Estrangeiras ... 2
+
+3.2 - Áreas opcionais:
+
+a) Avicultura e Cunicultura ... 10
+
+b) Piscicultura ... 10
+
+c) Apicultura ... 10
+
+d) Aquacultura ... 10
+
+e) Silvo-pastorícia ... 10
+
+3.3 - Estágio ... 12
+
+2 - O n.º 3 do n.º 4.º da [Portaria n.º 843/81](https://diariodarepublica.pt/dr/detalhe/portaria/843-1981-563797), de 24 de Setembro, com a alteração da [Portaria n.º 895/83](https://diariodarepublica.pt/dr/detalhe/portaria/895-1983-442926), de 27 de Setembro, passa a ter a seguinte redacção:
+
+4.º
+
+Licenciatura em Engenharia Florestal
+
+1 - ...
+
+2 - ...
+
+3 - O número total de unidades de crédito necessárias à concessão do grau é de 158, assim distribuídas:
+
+3.1 - Áreas obrigatórias:
+
+a) Silvicultura ... 41
+
+b) Física ... 7
+
+c) Química ... 7
+
+d) Matemática ... 21
+
+e) Biologia ... 32
+
+f) Geociências ... 15
+
+g) Economia e Sociologia ... 15,5
+
+h) Engenharia Rural ... 3
+
+i) Agronomia ... 2,5
+
+j) Línguas Vivas Estrangeiras ... 2
+
+3.2 - Estágio ... 12
+
+2.º
+
+Entrada em vigor
+
+A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Ministério da Educação e Cultura.
+
+Assinada em 21 de Abril de 1987.
+
+Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.

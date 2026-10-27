@@ -1,0 +1,181 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R1100:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R1100-20260730",
+ "dre_path": null,
+ "source_lastmod": "2026-07-30",
+ "versions": [
+  {
+   "date": "2026-05-22",
+   "future": false,
+   "celex": "32026R1100",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e9eeb019064e2007",
+    "e665df4a2397f45e",
+    "d0e5adaa6997a432",
+    "a74b55e1bf827a85",
+    "f78e75358b23f04c",
+    "e4b83553c9d00873",
+    "c98017f66af06dc1"
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "future": false,
+   "celex": "02026R1100-20260730",
+   "acts": [
+    {
+     "id": "eu:celex:32026R1803:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2026/1803 DA COMISSÃO de 24 de julho de 2026",
+     "published": null,
+     "celex": "32026R1803"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Lista de atos jurídicos da União e de legislação eslovaca que enumera as zonas regulamentadas e os períodos a que se refere o artigo 2.º, n.º 1"
+   ],
+   "fragments": [
+    "c9ae4144bff2c067",
+    "e665df4a2397f45e",
+    "d1e00839b6c47afb",
+    "96912772a2e36ccf",
+    "b8c2bb8f598184e4",
+    "bbab1de6cae6ce62",
+    "10220b9774fa9034",
+    "1bc99ea067945eeb",
+    "3e1a2b16e88b0681"
+   ]
+  }
+ ],
+ "fragments": {
+  "e9eeb019064e2007": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de maio de 2026\n\nque institui medidas excecionais de apoio aos setores do leite e da carne de suíno na Eslováquia\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202601100PT.000101-E0001), nomeadamente o artigo 220.º, n.º 1, primeiro parágrafo, alínea a),\n\nConsiderando o seguinte:\n\n(1) No período de 21 de março a 4 de abril de 2025, a Eslováquia confirmou e notificou seis focos de febre aftosa, tendo sido os bovinos a espécie afetada.\n\n(2) A Eslováquia tomou imediata e eficazmente todas as medidas zoossanitárias e veterinárias necessárias exigidas nos termos do Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202601100PT.000101-E0002) e do Regulamento Delegado (UE) 2020/687 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202601100PT.000101-E0003).\n\n(3) A fim de evitar a propagação da febre aftosa, a Eslováquia adotou, em 21 de março de 2025, uma medida de emergência extraordinária [([^4])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202601100PT.000101-E0004) que proíbe a circulação, no seu território, de bovinos, ovinos, caprinos, suínos e outros animais biungulados, incluindo animais de criação.\n\n(4) As autoridades eslovacas também tomaram medidas de controlo, monitorização e prevenção, tendo criado zonas de proteção e de vigilância («zonas regulamentadas») nos termos das Decisões de Execução (UE) 2025/496 [([^5])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr5-L_202601100PT.000101-E0005), (UE) 2025/613 [([^6])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr6-L_202601100PT.000101-E0006), (UE) 2025/654 [([^7])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr7-L_202601100PT.000101-E0007), (UE) 2025/672 [([^8])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr8-L_202601100PT.000101-E0008), (UE) 2025/696 [([^9])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr9-L_202601100PT.000101-E0009), (UE) 2025/795 [([^10])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr10-L_202601100PT.000101-E0010), (UE) 2025/827 [([^11])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr11-L_202601100PT.000101-E0011) e (UE) 2025/1097 [([^12])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr12-L_202601100PT.000101-E0012) da Comissão.\n\n(5) De acordo com as informações prestadas pelas autoridades eslovacas à Comissão, as medidas sanitárias e veterinárias aplicadas para conter a propagação e erradicar a doença afetaram vários operadores, que registaram perdas de rendimento não elegíveis para contribuição financeira da União ao abrigo do Regulamento (UE) 2021/690 do Parlamento Europeu e do Conselho [([^13])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr13-L_202601100PT.000101-E0013).\n\n(6) Em 26 de agosto de 2025, a Comissão recebeu das autoridades eslovacas um pedido formal de cofinanciamento de certas medidas excecionais nos termos do artigo 220.º, n.º 3, do Regulamento (UE) n.º 1308/2013 para os focos confirmados no período de 21 de março a 4 de abril de 2025.\n\n(7) A aplicação das medidas zoossanitárias e veterinárias referidas nos considerandos 3 e 4 conduziu a uma perda de leite cru produzido que não pôde ser entregue devido a restrições de circulação, bem como a custos adicionais devidos a períodos mais longos de criação e engorda de porcos, leitões e porcas.\n\n(8) Nos termos do artigo 220.º, n.º 5, do Regulamento (UE) n.º 1308/2013, o cofinanciamento da União deve corresponder a 60 % das despesas suportadas pela Eslováquia com as medidas excecionais de apoio ao mercado pertinentes. A Comissão analisará o pedido da Eslováquia relativo às restrições impostas pelos focos e fixará as quantidades máximas de leite cru e o número máximo de animais elegíveis para financiamento no quadro de cada medida excecional de apoio ao mercado.\n\n(9) Para evitar qualquer risco de sobrecompensação, os montantes máximos e o montante fixo do cofinanciamento da União deverão basear-se em estudos técnicos e económicos ou documentos contabilísticos e ser fixados a um nível adequado para cada animal e por quilograma de leite cru.\n\n(10) Para evitar qualquer risco de duplo financiamento, os prejuízos sofridos pelos beneficiários não podem ser compensados por auxílios estatais ou seguros, devendo o cofinanciamento concedido pela União ao abrigo do presente regulamento limitar-se aos animais e produtos elegíveis para os quais não tenha sido recebida qualquer contribuição financeira da União ao abrigo do Regulamento (UE) 2021/690.\n\n(11) O alcance e a duração das medidas excecionais de apoio ao mercado previstas no presente regulamento deverão limitar-se ao estritamente necessário para apoiar o mercado. Concretamente, devem aplicar-se apenas à produção de lei cru e de carne de suíno das explorações localizadas nas zonas regulamentadas, durante o período de vigência das medidas zoossanitárias e veterinárias estabelecidas nas legislações da União e eslovaca relevantes para os focos.\n\n(12) Para assegurar a flexibilidade caso o número de animais elegíveis para compensação seja diferente do número máximo fixado no presente regulamento, o qual se baseia em estimativas, a compensação poderá, dentro de certos limites, ser ajustada, sob reserva de se respeitar o montante máximo de despesas cofinanciadas pela União.\n\n(13) A fim de assegurar a eficácia desta medida excecional, os beneficiários devem receber rapidamente o apoio financeiro de emergência. Deve igualmente assegurar-se um controlo atempado da execução orçamental, bem como um acompanhamento adequado e uma utilização eficiente da reserva agrícola, maximizando assim a sua disponibilidade e reforçando a capacidade de resposta rápida a crises emergentes. Por conseguinte, é conveniente definir um período de elegibilidade para os Estados-Membros pagarem este apoio aos beneficiários. Os pagamentos efetuados após uma data final determinada devem ser considerados inelegíveis para financiamento da União.\n\n(14) Assim, as despesas suportadas pela Eslováquia ao abrigo desta medida excecional só devem ser financiadas pela União se forem efetuadas até uma determinada data de elegibilidade. Os apoios concedidos no quadro desta medida excecional devem, por conseguinte, ser pagos até 31 de outubro de 2026.\n\n(15) Atendendo a que os pagamentos efetuados após 31 de outubro de 2026 devem ser considerados, sem exceção, inelegíveis, não será aplicável o artigo 5.º, n.º 2, do Regulamento Delegado (UE) 2022/127 da Comissão [([^14])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr14-L_202601100PT.000101-E0014), que prevê uma redução proporcional dos pagamentos mensais efetuados após o termo desse prazo.\n\n(16) De modo a garantir a elegibilidade e a correção dos pagamentos, as autoridades eslovacas devem proceder a controlos *ex ante*.\n\n(17) A fim de assegurar a aplicação imediata, pela Eslováquia, das medidas previstas no presente regulamento, este deve entrar em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Organização Comum dos Mercados Agrícolas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "e665df4a2397f45e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO cofinanciamento da União é equivalente a 60 % das despesas suportadas pela Eslováquia para apoio aos mercados do leite e da carne de suíno gravemente afetados pelos focos de febre aftosa confirmados e notificados pelas autoridades eslovacas no período de 21 de março a 4 de abril de 2025."
+  },
+  "d0e5adaa6997a432": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As despesas suportadas pela Eslováquia apenas são elegíveis para cofinanciamento da União:\n\na) Durante o período de vigência das medidas zoossanitárias e veterinárias referidas nos atos jurídicos da União e na legislação eslovaca enumeradas no anexo e relacionadas com o período estabelecido no artigo 1.º; bem como\n\nb) No caso de explorações de bovinos e de suínos que tenham sido objeto de medidas zoossanitárias e veterinárias e estejam localizadas nas zonas referidas nos atos jurídicos da União enumerados no anexo («zonas regulamentadas»); bem como\n\nc) Se tiverem sido pagas pela Eslováquia aos beneficiários até 31 de outubro de 2026; bem como\n\nd) Se, durante o período a que se refere a alínea a), o animal ou produto não tiver sido objeto de qualquer compensação por meio de auxílios estatais ou seguros nem recebido qualquer contribuição financeira da União ao abrigo do Regulamento (UE) 2021/690.\n\n2. As despesas pagas pela Eslováquia após 31 de outubro de 2026 não são elegíveis para cofinanciamento da União, independentemente da parte que representam."
+  },
+  "a74b55e1bf827a85": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O montante máximo do cofinanciamento da União é de 2 092 445 EUR, repartidos da seguinte forma:\n\na) Para perdas relacionadas com leite cru não entregue produzido em explorações situadas nas zonas regulamentadas, um máximo de 65 888 EUR para um máximo de 227 915 quilogramas de leite;\n\nb) No que respeita aos prejuízos que decorrem dos períodos mais longos de criação e engorda de porcos devido às restrições à circulação nas zonas regulamentadas, um montante fixo de 1,31 EUR por porco e por dia, até um máximo de 76 673 animais;\n\nc) No respeitante aos prejuízos que decorrem dos períodos mais longos de criação e engorda de leitões devido às restrições à circulação nas zonas regulamentadas, um montante fixo de 0,80 EUR por leitão e por dia, até um máximo de 79 198 animais;\n\nd) No que se refere aos prejuízos que decorrem dos períodos mais longos de criação e engorda de porcas devido às restrições à circulação nas zonas regulamentadas: 3,36 EUR por porca e por dia, até um máximo de 1 025 animais, para o período compreendido entre 21 e 30 de março de 2025, e 4,18 EUR por porca e por dia, até um máximo de 1 593 animais, para o período compreendido entre 31 de março e 20 de maio de 2025.\n\n2. Quando a quantidade de leite cru ou o número de animais elegíveis para compensação excede o número máximo de quilogramas de leite cru ou de animais conforme definidos no n.º 1, as despesas elegíveis para cofinanciamento da União podem ser ajustadas por rubrica e exceder os montantes resultantes da aplicação dos números máximos por rubrica, desde que o total dos ajustamentos continue a ser inferior a 20 % do montante máximo do cofinanciamento da União a que se refere o n.º 1."
+  },
+  "f78e75358b23f04c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As autoridades eslovacas devem realizar os controlos preliminares, administrativos e no local previstos nos artigos 59.º e 60.º do Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho [([^15])](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr15-L_202601100PT.000101-E0015).\n\nEm especial, as autoridades eslovacas devem verificar:\n\na) A elegibilidade do requerente que apresenta o pedido de apoio;\n\nb) Para cada requerente elegível: a elegibilidade, a quantidade e o valor das quebras efetivas na produção;\n\nc) Que nenhum requerente elegível recebeu financiamento de outras fontes para compensação dos prejuízos a que se refere o artigo 2.º do presente regulamento.\n\n2. No respeitante aos requerentes elegíveis em relação aos quais os controlos administrativos foram concluídos, a compensação pode ser paga sem aguardar a realização de todos os controlos relativos aos requerentes que também tenham sido selecionados para controlos no local. Todos os controlos no local devem ser efetuados o mais tardar seis meses após os pagamentos.\n\n3. Nos casos em que a elegibilidade do requerente não tenha sido confirmada, são recuperadas as compensações e impostas sanções em conformidade com o artigo 59.º, n.º 1, do Regulamento (UE) 2021/2116."
+  },
+  "e4b83553c9d00873": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 21 de maio de 2026.\n\n***Pela Comissão***\n\n***A Presidente***\n\n**Ursula VON DER LEYEN**\n\n---"
+  },
+  "c98017f66af06dc1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202601100PT.000101-E0001) [JO L 347 de 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC), ELI: [http://data.europa.eu/eli/reg/2013/1308/oj](http://data.europa.eu/eli/reg/2013/1308/oj).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202601100PT.000101-E0002) Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal («Lei da Saúde Animal») ( [JO L 84 de 31.3.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_084_R_TOC), ELI: [http://data.europa.eu/eli/reg/2016/429/oj](http://data.europa.eu/eli/reg/2016/429/oj)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202601100PT.000101-E0003) Regulamento Delegado (UE) 2020/687 da Comissão, de 17 de dezembro de 2019, que complementa o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho no que se refere às regras de prevenção e controlo de certas doenças listadas ( [JO L 174 de 3.6.2020, p. 64](http://publications.europa.eu/resource/oj/JOL_2020_174_R_TOC), ELI: [http://data.europa.eu/eli/reg_del/2020/687/oj](http://data.europa.eu/eli/reg_del/2020/687/oj)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202601100PT.000101-E0004) Medida extraordinária de emergência de 21 de março de 2025, [MNO-2550/2025](https://www.svps.sk/zdroje/index.php?page=skupina&group_id=15&doc_id=673).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc5-L_202601100PT.000101-E0005) Decisão de Execução (UE) 2025/496 da Comissão, de 11 de março de 2025, relativa a determinadas medidas de emergência provisórias contra a febre aftosa na Hungria ( [JO L, 2025/496, 12.3.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/496/oj](https://data.europa.eu/eli/dec_impl/2025/496/oj)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc6-L_202601100PT.000101-E0006) Decisão de Execução (UE) 2025/613 da Comissão, de 24 de março de 2025, relativa a determinadas medidas de emergência contra a febre aftosa na Hungria e que revoga a Decisão de Execução (UE) 2025/496 ( [JO L, 2025/613, 25.3.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/613/oj](https://data.europa.eu/eli/dec_impl/2025/613/oj)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc7-L_202601100PT.000101-E0007) Decisão de Execução (UE) 2025/654 da Comissão, de 26 de março de 2025, relativa a determinadas medidas de emergência contra a febre aftosa na Hungria e na Eslováquia e que altera a Decisão de Execução (UE) 2025/613 ([JO L, 2025/654, 31.3.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/654/oj](https://data.europa.eu/eli/dec_impl/2025/654/oj)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc8-L_202601100PT.000101-E0008) Decisão de Execução (UE) 2025/672 da Comissão, de 31 de março de 2025, relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia e que revoga a Decisão de Execução (UE) 2025/613 ( [JO L, 2025/672, 2.4.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/672/oj](https://data.europa.eu/eli/dec_impl/2025/672/oj)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc9-L_202601100PT.000101-E0009) Decisão de Execução (UE) 2025/696 da Comissão, de 3 de abril de 2025, que altera o anexo da Decisão de Execução (UE) 2025/672 relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia ( [JO L, 2025/696, 4.4.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/696/oj](https://data.europa.eu/eli/dec_impl/2025/696/oj)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc10-L_202601100PT.000101-E0010) Decisão de Execução (UE) 2025/795 da Comissão, de 14 de abril de 2025, que altera o anexo da Decisão de Execução (UE) 2025/672 relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia ( [JO L, 2025/795, 15.4.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/795/oj](https://data.europa.eu/eli/dec_impl/2025/795/oj)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc11-L_202601100PT.000101-E0011) Decisão de Execução (UE) 2025/827 da Comissão, de 25 de abril de 2025, que altera o anexo da Decisão de Execução (UE) 2025/672 relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia ( [JO L, 2025/827, 28.4.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/827/oj](https://data.europa.eu/eli/dec_impl/2025/827/oj)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc12-L_202601100PT.000101-E0012) Decisão de Execução (UE) 2025/1097 da Comissão, de 23 de maio de 2025, que altera o anexo da Decisão de Execução (UE) 2025/672 relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia ( [JO L, 2025/1097, 27.5.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/1097/oj](https://data.europa.eu/eli/dec_impl/2025/1097/oj)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc13-L_202601100PT.000101-E0013) Regulamento (UE) 2021/690 do Parlamento Europeu e do Conselho, de 28 de abril de 2021, que estabelece um programa a favor do mercado interno, da competitividade das empresas, incluindo as pequenas e médias empresas, do setor dos vegetais, dos animais, dos géneros alimentícios e dos alimentos para animais e das estatísticas europeias (Programa a favor do Mercado Interno) e que revoga os Regulamentos (UE) n.º 99/2013, (UE) n.º 1287/2013, (UE) n.º 254/2014 e (UE) n.º 652/2014 ( [JO L 153 de 3.5.2021, p. 1](http://publications.europa.eu/resource/oj/JOL_2021_153_R_TOC), ELI: [http://data.europa.eu/eli/reg/2021/690/oj](http://data.europa.eu/eli/reg/2021/690/oj)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc14-L_202601100PT.000101-E0014) Regulamento Delegado (UE) 2022/127 da Comissão, de 7 de dezembro de 2021, que completa o Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho com regras relativas aos organismos pagadores e outros, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro ( [JO L 20 de 31.1.2022, p. 95](http://publications.europa.eu/resource/oj/JOL_2022_020_R_TOC), ELI: [http://data.europa.eu/eli/reg_del/2022/127/oj](http://data.europa.eu/eli/reg_del/2022/127/oj)).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/2c33fe69-5577-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc15-L_202601100PT.000101-E0015) Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, relativo ao financiamento, à gestão e ao acompanhamento da política agrícola comum e que revoga o Regulamento (UE) n.º 1306/2013 ( [JO L 435 de 6.12.2021, p. 187](http://publications.europa.eu/resource/oj/JOL_2021_435_R_TOC), ELI: [http://data.europa.eu/eli/reg/2021/2116/oj](http://data.europa.eu/eli/reg/2021/2116/oj))."
+  },
+  "c9ae4144bff2c067": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de maio de 2026\n\nque institui medidas excecionais de apoio aos setores do leite e da carne de suíno na Eslováquia"
+  },
+  "d1e00839b6c47afb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1.\n\nAs despesas suportadas pela Eslováquia apenas são elegíveis para cofinanciamento da União:\n\na) Durante o período de vigência das medidas zoossanitárias e veterinárias referidas nos atos jurídicos da União e na legislação eslovaca enumeradas no anexo e relacionadas com o período estabelecido no artigo 1.º; bem como\n\nb) No caso de explorações de bovinos e de suínos que tenham sido objeto de medidas zoossanitárias e veterinárias e estejam localizadas nas zonas referidas nos atos jurídicos da União enumerados no anexo («zonas regulamentadas»); bem como\n\nc) Se tiverem sido pagas pela Eslováquia aos beneficiários até 30 de novembro de 2026; bem como\n\nd) Se, durante o período a que se refere a alínea a), o animal ou produto não tiver sido objeto de qualquer compensação por meio de auxílios estatais ou seguros nem recebido qualquer contribuição financeira da União ao abrigo do Regulamento (UE) 2021/690.\n\n2. As despesas pagas pela Eslováquia após 30 de novembro de 2026 não são elegíveis para cofinanciamento da União, independentemente da parte que representam."
+  },
+  "96912772a2e36ccf": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1.\n\nO montante máximo do cofinanciamento da União é de 2 092 445 EUR, repartidos da seguinte forma:\n\na) Para perdas relacionadas com leite cru não entregue produzido em explorações situadas nas zonas regulamentadas, um máximo de 65 888 EUR para um máximo de 227 915 quilogramas de leite;\n\nb) No que respeita aos prejuízos que decorrem dos períodos mais longos de criação e engorda de porcos devido às restrições à circulação nas zonas regulamentadas, um montante fixo de 0,786 EUR por porco e por dia, até um máximo de 76 673 animais;\n\nc) No respeitante aos prejuízos que decorrem dos períodos mais longos de criação e engorda de leitões devido às restrições à circulação nas zonas regulamentadas, um montante fixo de 0,48 EUR por leitão e por dia, até um máximo de 79 198 animais;\n\nd) No que se refere aos prejuízos que decorrem dos períodos mais longos de criação e engorda de porcas devido às restrições à circulação nas zonas regulamentadas: 2,016 EUR por porca e por dia, até um máximo de 1 025 animais, para o período compreendido entre 21 e 30 de março de 2025, e 2,508 EUR por porca e por dia, até um máximo de 1 593 animais, para o período compreendido entre 31 de março e 20 de maio de 2025.\n\n2. Quando a quantidade de leite cru ou o número de animais elegíveis para compensação excede o número máximo de quilogramas de leite cru ou de animais conforme definidos no n.º 1, as despesas elegíveis para cofinanciamento da União podem ser ajustadas por rubrica e exceder os montantes resultantes da aplicação dos números máximos por rubrica, desde que o total dos ajustamentos continue a ser inferior a 20 % do montante máximo do cofinanciamento da União a que se refere o n.º 1."
+  },
+  "b8c2bb8f598184e4": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As autoridades eslovacas devem realizar os controlos preliminares, administrativos e no local previstos nos artigos 59.º e 60.º do Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/cf7f8c38-a6b5-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0001)).\n\nEm especial, as autoridades eslovacas devem verificar:\n\na) A elegibilidade do requerente que apresenta o pedido de apoio;\n\nb) Para cada requerente elegível: a elegibilidade, a quantidade e o valor das quebras efetivas na produção;\n\nc) Que nenhum requerente elegível recebeu financiamento de outras fontes para compensação dos prejuízos a que se refere o artigo 2.º do presente regulamento.\n\n2. No respeitante aos requerentes elegíveis em relação aos quais os controlos administrativos foram concluídos, a compensação pode ser paga sem aguardar a realização de todos os controlos relativos aos requerentes que também tenham sido selecionados para controlos no local. Todos os controlos no local devem ser efetuados o mais tardar seis meses após os pagamentos.\n\n3. Nos casos em que a elegibilidade do requerente não tenha sido confirmada, são recuperadas as compensações e impostas sanções em conformidade com o artigo 59.º, n.º 1, do Regulamento (UE) 2021/2116."
+  },
+  "bbab1de6cae6ce62": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "1bc99ea067945eeb": {
+   "fragment_id": "Lista de atos jurídicos da União e de legislação eslovaca que enumera as zonas regulamentadas e os períodos a que se refere o artigo 2.º, n.º 1",
+   "type": "divisao",
+   "heading": "Lista de atos jurídicos da União e de legislação eslovaca que enumera as zonas regulamentadas e os períodos a que se refere o artigo 2.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de atos jurídicos da União e de legislação eslovaca que enumera as zonas regulamentadas e os períodos a que se refere o artigo 2.º, n.º 1\n\nPartes do território da Eslováquia e períodos estabelecidos em conformidade com o Regulamento (UE) 2016/429, o Regulamento Delegado (UE) 2020/687 e a legislação eslovaca, definidos na seguinte regulamentação:\n\nMedida extraordinária de emergência eslovaca: MNO-2550/2025.\n\n---"
+  },
+  "3e1a2b16e88b0681": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cf7f8c38-a6b5-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, relativo ao financiamento, à gestão e ao acompanhamento da política agrícola comum e que revoga o Regulamento (UE) n.º 1306/2013 ([JO L 435 de 6.12.2021, p. 187](https://eur-lex.europa.eu/legal-content/PT/AUTO/?uri=OJ:L:2021:435:TOC), ELI: [http://data.europa.eu/eli/reg/2021/2116/oj](http://data.europa.eu/eli/reg/2021/2116/oj))."
+  }
+ }
+}

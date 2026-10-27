@@ -1,0 +1,499 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107596682:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107596694",
+ "dre_path": "/dr/detalhe/decreto-lei/77-2017-107596682",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107609575",
+    "107609576",
+    "107609577",
+    "107609578",
+    "107609579",
+    "107609580",
+    "107609581",
+    "107609582",
+    "107609583",
+    "107609584",
+    "107609585",
+    "107609586",
+    "107609587",
+    "107609588",
+    "107609589",
+    "107609590",
+    "107609591",
+    "107609592",
+    "107609593",
+    "107609594",
+    "107609595",
+    "107609596",
+    "107609597",
+    "107609598"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:108052023:por",
+     "title": "Declaração de Retificação n.º 22/2017",
+     "published": "2017-08-25",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/22-2017-108052023",
+     "date": "2017-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2019-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:118562581:por",
+     "title": "Decreto-Lei n.º 19/2019",
+     "published": "2019-01-28",
+     "dre_path": "/dr/detalhe/decreto-lei/19-2019-118562581"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "107609575",
+    "107609576",
+    "107609577",
+    "107609578",
+    "107609579",
+    "107609580",
+    "107609581",
+    "115663852",
+    "108107617",
+    "115663853",
+    "107609585",
+    "107609586",
+    "107609587",
+    "107609588",
+    "107609589",
+    "118290806",
+    "107609591",
+    "107609592",
+    "107609593",
+    "108107619",
+    "107609595",
+    "107609596",
+    "107609597",
+    "107609598",
+    "107609599"
+   ]
+  },
+  {
+   "date": "2021-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:169602021:por",
+     "title": "Decreto-Lei n.º 72/2021",
+     "published": "2021-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/72-2021-169602021"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "107609575",
+    "107609576",
+    "107609577",
+    "107609578",
+    "169622850",
+    "169622851",
+    "169622852",
+    "169622853",
+    "108107617",
+    "115663853",
+    "169622854",
+    "169622855",
+    "107609587",
+    "107609588",
+    "169622856",
+    "169622857",
+    "169622858",
+    "107609592",
+    "169622859",
+    "108107619",
+    "107609595",
+    "107609596",
+    "107609597",
+    "107609598",
+    "107609599"
+   ]
+  }
+ ],
+ "fragments": {
+  "107609575": {
+   "fragment_id": "107596695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 77/2017\n\nde 30 de junho\n\nEm Portugal, as micro, pequenas e médias empresas representam cerca de 99 % do número total de empresas, 80 % do total de emprego e cerca de 60 % do total do volume de negócios das sociedades não financeiras.\n\nOra, desde há alguns anos que o setor privado e, em particular, as sociedades não financeiras têm vindo a apresentar níveis excessivos de endividamento e uma forte dependência do crédito bancário, sobretudo de curto prazo. Por outro lado, o movimento de desalavancagem financeira iniciado pelas instituições financeiras, nos últimos anos, concorreu para a adoção de sistemas de avaliação de risco mais rígidos e para a exigência de maiores garantias no quadro do financiamento às empresas, o que se repercutiu fortemente na respetiva atividade. Acresce que o fenómeno recente de concentração bancária verificado em Portugal tem contribuído, adicionalmente, para as limitações no acesso ao crédito, através da redução de plafonds.\n\nCom acesso limitado aos mercados de capitais, as micro, pequenas e médias empresas viram-se, durante largos anos, privadas da sua principal fonte de financiamento, o que tinha vindo a comprometer, até agora, a retoma do investimento empresarial e, por conseguinte, o relançamento da economia portuguesa e o crescimento económico.\n\nPrecisamente por isso, o Programa do XXI Governo Constitucional estabelece como objetivo a expansão e diversificação das opções de financiamento das empresas através, nomeadamente, do reforço do papel do mercado de capitais no financiamento das pequenas e médias empresas, em especial através de instrumentos de capital. Só essa diversificação de fontes de financiamento permitirá continuar a percorrer o caminho de fortalecimento do tecido empresarial produtivo e, assim, promover a consolidação de um crescimento económico sustentado.\n\nO Programa Capitalizar, aprovado pela Resolução do Conselho de Ministros n.º 42/2016, de 18 de agosto, apontou, precisamente, para a necessidade de adoção de medidas concretas que permitam formas alternativas de alavancagem do financiamento e do investimento privado, bem como de dinamização do mercado de capitais. Através do presente decreto-lei adotam-se, assim, as medidas indispensáveis à concretização desse objetivo.\n\nEm primeiro lugar, a dinamização do mercado de capitais pode ser exponencialmente incrementada se estiver associada ao financiamento de pequenas e médias empresas com potencial de investimento e de criação de emprego, que não encontram no mercado de capitais soluções de financiamento, o que as coloca numa situação de desigualdade face às grandes empresas.\n\nNesse contexto, procura-se criar e regular um subtipo de sociedade de investimento mobiliário - as sociedades de investimento mobiliário para fomento da economia. Visa-se, assim, criar um veículo de investimento que tenha por vocação apoiar esse tecido empresarial, quer por via direta - através de participação nas empresas-veículo -, quer indireta, através da participação nas empresas financiadas. Dada a configuração das sociedades de investimento mobiliário para fomento da economia como sociedades de investimento mobiliário, aplica-se-lhes, designadamente, o correspondente regime fiscal e sancionatório.\n\nEm segundo lugar, os valores mobiliários de natureza monetária representativos de dívida desempenham uma função decisiva, como instrumento das empresas, para suprir necessidades de financiamento de curto prazo. Neste contexto, revela-se oportuno proceder a uma revisão e a uma atualização do regime destes valores mobiliários representativos de dívida.\n\nPretende-se também com o presente decreto-lei criar e regular, no quadro dos valores mobiliários de natureza monetária representativos de dívida, um novo tipo de valor mobiliário representativo de dívida de curto prazo: os certificados de dívida de curto prazo. Tal permite atingir um duplo objetivo. De um lado, é ampliado o leque de valores mobiliários representativos de dívida, o que alarga as escolhas das empresas emitentes e encoraja a dinâmica do mercado de dívida nacional. De outro lado, são impostas características típicas a este novo valor mobiliário que o tornam elegível para investimento pelos organismos de investimento coletivo em valores mobiliários.\n\nAlém disso, entende-se ser necessário ampliar o prazo de maturidade máximo dos valores mobiliários de natureza monetária representativos de dívida emitidos por curto prazo até 397 dias, em flexibilização acrescida do quadro jurídico em vigor. Por último, importa aperfeiçoar o regime do patrocinador de emissão, como contributo para uma utilização mais intensa desta figura de apoio sobretudo às emissões por pequenas e médias empresas.\n\nDeste modo, fica facilitada a diversificação de fontes de financiamento das empresas através do desenho de uma disciplina jurídica que aperfeiçoa e moderniza o regime geral dos valores mobiliários de natureza monetária representativos de dívida.\n\nEm terceiro lugar, a redução da dependência das empresas face ao crédito bancário e a dinamização do mercado de capitais, incluindo os mercados de instrumentos financeiros, como fonte alternativa de financiamento, aconselham a que se aproveite a oportunidade desta intervenção legislativa no âmbito do Código dos Valores Mobiliários para esclarecer os deveres jurídicos que oneram as sociedades integradas numa relação de domínio, para efeitos da aplicação de determinados requisitos de transparência e das regras relativas ao dever de lançamento de oferta pública de aquisição a que estão sujeitos os titulares de participações qualificadas em sociedades abertas cujas ações tenham sido admitidas à negociação num mercado regulamentado situado ou a funcionar num Estado-Membro da União Europeia.\n\nO Código dos Valores Mobiliários, na sua redação atual, corre o risco de falta de clareza e de, assim, contribuir para afastar potenciais investidores.\n\nEsta medida favorece a captação de investimento direto estrangeiro, designadamente, entidades infraestaduais estrangeiras com as suas próprias estratégias de internacionalização e de investimento.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 13.º, Decreto-Lei n.º 56/2018 - Diário da República n.º 130/2018, Série I de 2018-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2018-115660003) O presente decreto-lei entra em vigor na data de entrada em vigor da Lei que procede à transposição da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, da Diretiva (UE) 2016/1034, do Parlamento Europeu e do Conselho, de 23 de junho de 2016, e da Diretiva Delegada (UE) 2017/593, da Comissão, de 7 de abril de 2016"
+  },
+  "107609576": {
+   "fragment_id": "107596696",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107609577": {
+   "fragment_id": "107596697",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria medidas de dinamização do mercado de capitais, com vista à diversificação das fontes de financiamento das empresas, e assim:\n\na) Regula as sociedades de investimento mobiliário para fomento da economia (SIMFE), estabelecendo o respetivo regime jurídico;\n\nb) Cria os certificados de dívida de curto prazo, procedendo à terceira alteração ao Decreto-Lei n.º 69/2004, de 25 de março, alterado pelos Decretos-Leis n.os 52/2006, de 15 de março, e 29/2014, de 25 de fevereiro;\n\nc) Procede à vigésima oitava alteração ao Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro."
+  },
+  "107609578": {
+   "fragment_id": "107596698",
+   "type": 1,
+   "heading": "Capítulo II — Regime das sociedades de investimento mobiliário para fomento da economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime das sociedades de investimento mobiliário para fomento da economia"
+  },
+  "107609579": {
+   "fragment_id": "107596699",
+   "type": 11,
+   "heading": "Artigo 2.º — Caracterização e forma societária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Caracterização e forma societária\n\n1 - As SIMFE são organismos de investimento coletivo sob forma societária de capital fixo, correspondendo a sociedades de investimento mobiliário que têm como objeto o investimento em valores mobiliários emitidos por empresas elegíveis.\n\n2 - As SIMFE são sociedades anónimas cujo capital social é integralmente representado por ações nominativas.\n\n3 - O capital social mínimo das SIMFE é de (euro) 125 000.\n\n4 - As ações representativas do capital social das SIMFE devem ser admitidas à negociação em mercado regulamentado situado ou a funcionar em Portugal, no prazo máximo de um ano após a sua constituição.\n\n5 - A sede e a administração efetiva das SIMFE devem situar-se em Portugal.\n\n6 - As sociedades de investimento mobiliário para fomento da economia adotam na sua firma a designação abreviada de SIMFE.\n\n7 - As SIMFE não são intermediários financeiros."
+  },
+  "107609580": {
+   "fragment_id": "107596700",
+   "type": 11,
+   "heading": "Artigo 3.º — Empresas elegíveis para investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Empresas elegíveis para investimento\n\n1 - Uma parcela não inferior a 70 % do investimento das SIMFE deve ser aplicado em empresas elegíveis.\n\n2 - Considera-se, para efeitos do número anterior, como empresas elegíveis para investimento pelas SIMFE, as empresas que cumpram um dos seguintes critérios:\n\na) Pequenas e médias empresas na aceção do n.º 1 do artigo 2.º do anexo à Recomendação 2003/361/CE da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas;\n\nb) Empresas emitentes de ações admitidas à negociação num mercado regulamentado mas que, na média dos últimos três anos civis, tenham tido uma capitalização bolsista inferior a (euro) 50 000 000 com base na cotação no final do ano nos três anos civis precedentes ao investimento;\n\nc) Empresas qualificadas como Mid Caps ou Small Mid Caps na aceção do Decreto-Lei n.º 81/2017, de 30 de junho, que não sejam emitentes de valores mobiliários admitidos à negociação em mercado regulamentado."
+  },
+  "107609581": {
+   "fragment_id": "107596701",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição do património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição do património\n\n1 - O património das SIMFE pode ser composto pelos seguintes ativos:\n\na) Ações e outras partes sociais representativas do capital de empresas elegíveis;\n\nb) Obrigações e outros valores mobiliários representativos de dívida emitidos por empresas elegíveis, desde que os mesmos não tenham sido objeto de oferta pública e tenham, de acordo com as condições originárias de emissão, uma maturidade igual ou superior a cinco anos;\n\n2 - Com exceção dos ativos referidos nas alíneas anteriores, a SIMFE só pode adquirir:\n\na) Os ativos fixos tangíveis e intangíveis necessários à prossecução da sua atividade; e\n\nb) Os ativos referidos no n.º 1 do artigo 172.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro."
+  },
+  "107609582": {
+   "fragment_id": "107596702",
+   "type": 11,
+   "heading": "Artigo 5.º — Operações proibidas e limites de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Operações proibidas e limites de investimento\n\n1 - A SIMFE não pode investir mais de 15 % do seu património em ativos emitidos por uma única empresa elegível ou por várias empresas elegíveis que estejam entre si em relação de grupo.\n\n2 - A SIMFE não pode contrair empréstimos sob qualquer forma num montante superior a 10 % do respetivo capital.\n\n3 - Salvo o disposto no n.º 5, o investimento em ações e outras partes sociais representativas do capital de empresas elegíveis deve representar, a todo o tempo, um mínimo de 50 % dos ativos da SIMFE.\n\n4 - Durante o primeiro ano de seleção de ativos de empresas elegíveis, e até que seja atingida a percentagem mínima prevista no n.º 1, o montante em falta para completar essa percentagem deve estar aplicado em ativos referidos no n.º 1 do artigo 172.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, emitidos por entidades nacionais.\n\n5 - No período inicial referido no número anterior, o investimento em ações e outras partes sociais representativas do capital de empresas elegíveis deve ser sempre superior a 50 % dos ativos detidos pela SIMFE.\n\n6 - É vedado às SIMFE adquirir por sua conta bens imóveis, salvo os necessários à instalação das suas próprias atividades."
+  },
+  "107609583": {
+   "fragment_id": "107596703",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Constituição\n\n1 - As SIMFE podem ser constituídas:\n\na) A título originário, com ou sem recurso a subscrição pública;\n\nb) A título superveniente, a qualquer momento, quando se trate de sociedades anónimas já constituídas que cumpram os requisitos imperativos do presente capítulo.\n\n2 - O regime de constituição de SIMFE com recurso a subscrição pública rege-se pelo disposto nos artigos 279.º a 283.º do Código das Sociedades Comerciais, com as seguintes adaptações:\n\na) As ações a subscrever pelos promotores não ficam sujeitas a qualquer período de inalienabilidade e integram a mesma categoria das ações subscritas por quaisquer outras pessoas ou entidades;\n\nb) Os promotores não terão direito a quaisquer vantagens;\n\nc) A constituição da SIMFE não fica dependente de realização de uma assembleia constitutiva, devendo os membros dos órgãos sociais ser logo designados no contrato de sociedade;\n\nd) O registo definitivo da constituição e da designação dos membros dos órgãos sociais deve ser promovido nos precisos termos do projeto registado, logo após a conclusão da subscrição das ações;\n\ne) A conversão do registo provisório em definitivo não depende da entrega de ata de assembleia constitutiva;\n\nf) A subscrição incompleta das ações oferecidas à subscrição pública não prejudica o disposto nas alíneas c), d) e e), desde que:\n\ni) Sejam subscritas, pelo menos, três quartos das ações destinadas a esta, e\n\nii) Sejam subscritas as ações correspondentes à totalidade das oferecidas para subscrição pelos promotores;\n\niii) Fique subscrito o capital mínimo exigido no presente capítulo; e\n\niv) Seja feita menção expressa aos factos identificados nas subalíneas anteriores, nos documentos de oferta de ações;\n\ng) Não é permitido o diferimento de quaisquer entradas;\n\nh) A constituição da sociedade não pode ser anulada com fundamento em falta de aprovação por parte de qualquer subscritor.\n\n3 - A aprovação da aquisição da qualidade de SIMFE em assembleia geral de acionistas, pela maioria exigida para a alteração do contrato de sociedade e a subsequente alteração do contrato de sociedade para o tornar conforme com as disposições imperativas do presente capítulo constitui condição necessária à aquisição da qualidade de SIMFE por parte de sociedades anónimas já constituídas e que não sejam SIMFE, a título originário.\n\n4 - A alteração referida no número anterior inicia a produção dos seus efeitos no primeiro dia do período de tributação que se inicie após a data do registo das alterações ao contrato de sociedade referidas no número anterior junto da Conservatória do Registo Comercial.\n\n5 - O n.º 1 do artigo 8.º não se aplica às reservas e resultados transitados da sociedade convertida em SIMFE existentes à data de registo das alterações ao contrato de sociedade junto da Conservatória do Registo Comercial."
+  },
+  "107609584": {
+   "fragment_id": "107596704",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo prévio\n\n1 - O início de atividade da SIMFE depende de registo prévio na Comissão do Mercado de Valores Mobiliários (CMVM).\n\n2 - O registo referido no número anterior não implica, por parte da CMVM, qualquer garantia quanto ao conteúdo e à informação constante dos respetivos documentos constitutivos.\n\n3 - O pedido de registo de SIMFE deve ser instruído com os seguintes elementos atualizados:\n\na) Certidão da Conservatória do Registo Comercial;\n\nb) A data de constituição e data prevista para o início da atividade;\n\nc) A carteira de participações que a SIMFE pretende gerir e respetivas estratégias de investimento, que incluam os elementos referidos nas alíneas do n.º 2 do artigo 5.º do Regulamento Delegado (UE) n.º 231/2013, da Comissão Europeia, de 19 de dezembro de 2012;\n\nd) Os estatutos;\n\ne) O lugar da sede e identificação de sucursais, agências, delegações ou outras formas locais de representação;\n\nf) A identificação dos titulares de participações qualificadas;\n\ng) A identificação dos membros dos órgãos de administração e de fiscalização;\n\nh) Regulamento interno;\n\ni) Declaração de adequação de meios;\n\nj) Questionário e declaração de idoneidade dos membros dos órgãos de administração e de fiscalização;\n\nk) Registo criminal e curriculum vitae dos membros dos órgãos de administração e de fiscalização.\n\n4 - A decisão de registo é notificada aos requerentes no prazo de 15 dias a contar da data da receção do pedido ou, se aplicável, das informações complementares que tenham sido solicitadas pela CMVM.\n\n5 - A falta de notificação no prazo referido no número anterior constitui indeferimento tácito do pedido.\n\n6 - A CMVM deve recusar o registo referido no n.º 1 se:\n\na) O pedido não tiver sido instruído com todos os documentos e elementos necessários;\n\nb) Tiverem sido prestadas falsas declarações;\n\nc) Não estiverem preenchidos os requisitos relativos à idoneidade dos membros dos órgãos de administração e de fiscalização.\n\n7 - Havendo fundamento para a recusa nos termos previstos no número anterior, a CMVM, antes de recusar o pedido, notifica os requerentes, dando-lhes o prazo máximo de 10 dias para suprirem a insuficiência do processo, quando apropriado, e para se pronunciarem quanto à apreciação da CMVM.\n\n8 - Constituem fundamento de cancelamento de registo pela CMVM:\n\na) A verificação de factos que obstariam ao registo, se esses factos não tiverem sido sanados no prazo fixado;\n\nb) O registo ter sido obtido com recurso a falsas declarações ou a qualquer outro meio irregular;\n\nc) A SIMFE não iniciar atividade no prazo de 24 meses após a receção da comunicação de concessão do registo pela CMVM, a cessação de atividade por, pelo menos, seis meses, ou a desconformidade entre o objeto e a atividade efetivamente exercida pela entidade em causa;\n\nd) A violação grave ou sistemática de normas legais, regulamentares ou constantes dos documentos constitutivos, quando o interesse dos acionistas ou a defesa do mercado o justificar.\n\n9 - A pedido da SIMFE devidamente fundamentado, a CMVM pode:\n\na) Prorrogar os prazos referidos na alínea c) do número anterior;\n\nb) Cancelar o registo.\n\n10 - Constitui causa de caducidade de registo a extinção da SIMFE.\n\n11 - As alterações aos elementos que integram o pedido de registo devem ser comunicadas à CMVM no prazo de 15 dias, devendo as alterações ou reconduções dos membros dos órgãos de administração e de fiscalização e as alterações relativas aos titulares de participações qualificadas ser instruídas com os elementos constantes das alíneas f), g), j) e k) do n.º 3.\n\n12 - Para efeitos da instrução do requerimento de registo, assim como das comunicações supervenientes, não é exigível a apresentação de documentos que estejam atualizados junto da CMVM ou que esta possa obter em publicações oficiais."
+  },
+  "107609585": {
+   "fragment_id": "107596705",
+   "type": 11,
+   "heading": "Artigo 8.º — Administração e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Administração e fiscalização\n\n1 - Os membros do órgão de administração e de fiscalização da SIMFE devem reunir condições que garantam a sua gestão sã e prudente, devendo cumprir requisitos de idoneidade, qualificação e experiência profissional e disponibilidade comprovadas.\n\n2 - À apreciação dos requisitos de idoneidade, qualificação e experiência profissional e disponibilidade são aplicáveis, com as devidas adaptações, os artigos 30.º-D e 31.º, os n.os 1, 2, 10 e 11 do artigo 33.º e o artigo 103.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.\n\n3 - Não é considerada idónea a pessoa que dolosamente preste declarações falsas ou inexatas sobre factos relevantes no âmbito da apreciação de idoneidade.\n\n4 - O órgão de administração deve assegurar que a SIMFE disponha de estrutura organizacional, meios e procedimentos internos adequados e proporcionais à sua dimensão e complexidade das atividades por si desenvolvidas."
+  },
+  "107609586": {
+   "fragment_id": "107596706",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação sobre ativos sob gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de informação sobre ativos sob gestão\n\n1 - As SIMFE prestam anualmente à CMVM informações sobre os principais instrumentos em que negoceiam, sobre as principais posições de risco e as concentrações mais importantes da carteira própria que gerem, nos termos previstos no artigo 5.º do Regulamento Delegado (UE) n.º 231/2013, da Comissão Europeia, de 19 de dezembro de 2012.\n\n2 - As SIMFE notificam a CMVM assim que os ativos sob gestão excedam os seguintes limites:\n\na) (euro) 100 000 000, quando as carteiras incluam ativos adquiridos através do recurso ao efeito de alavancagem;\n\nb) (euro) 500 000 000, quando as carteiras não incluam ativos adquiridos através do recurso ao efeito de alavancagem e em relação às quais não existam direitos de reembolso que possam ser exercidos durante um período de cinco anos a contar da data do investimento inicial.\n\n3 - Caso os montantes sob gestão excedam os limiares referidos no número anterior de forma não temporária, conforme prevista no artigo 4.º do Regulamento Delegado (UE) n.º 231/2013, da Comissão Europeia, de 19 de dezembro de 2012, as SIMFE dispõem do prazo de 30 dias, contados da data em que sejam excedidos os limiares, para apresentar pedido de autorização, nos termos previstos no capítulo II do título I do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, ou para reduzirem o montante sob gestão para os valores permitidos."
+  },
+  "107609587": {
+   "fragment_id": "107596707",
+   "type": 11,
+   "heading": "Artigo 10.º — Política de distribuição de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Política de distribuição de resultados\n\n1 - As SIMFE devem distribuir pelo menos 30 % do respetivo resultado anual, apurado de acordo com as regras contabilísticas legalmente aplicáveis.\n\n2 - Os documentos de prestação de contas das SIMFE devem identificar expressamente o cumprimento do disposto no número anterior."
+  },
+  "107609588": {
+   "fragment_id": "107596708",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Duração\n\nA SIMFE deve ter uma duração mínima de 10 anos, prorrogável por uma ou mais vezes por idêntico período."
+  },
+  "107609589": {
+   "fragment_id": "107596709",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de ofertas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime de ofertas públicas\n\nÀs SIMFE é aplicável o disposto na alínea m) do n.º 1 do artigo 111.º do Código dos Valores Mobiliários."
+  },
+  "107609590": {
+   "fragment_id": "107596710",
+   "type": 11,
+   "heading": "Artigo 13.º — Fontes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fontes\n\n1 - Às SIMFE cujos ativos sob gestão sejam inferiores aos estabelecidos no n.º 2 do artigo 9.º são aplicáveis, no que não contrariar o disposto no presente capítulo e com as necessárias adaptações, as disposições do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, aplicáveis aos organismos de investimento coletivo sob forma societária autogeridos, com exceção do capítulo II do título I, salvo o disposto no n.º 4 do artigo 19.º, do títulos II, salvo o disposto no respetivo capítulo II e os artigos 66.º, 73.º, 74.º, 76.º, 88.º e 125.º, do título III, salvo o disposto no artigo 139.º, e do título IV, salvo o disposto nos artigos 241.º, 243.º e 254.º\n\n2 - Às SIMFE cujos ativos sob gestão sejam superiores aos estabelecidos no n.º 2 do artigo 7.º é ainda plenamente aplicável o regime dos organismos de investimento alternativo em valores mobiliários estabelecido no Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, e em legislação e regulamentação complementar.\n\n3 - As SIMFE cujos ativos sob gestão não excedam os limiares previstos no n.º 2 do artigo 6.º podem optar por requerer a autorização prevista no capítulo II do título I do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, nos termos previstos no Regulamento de Execução (UE) n.º 447/2013 da Comissão, de 15 de maio de 2013, caso em que o regime previsto no Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, lhes será inteiramente aplicável.\n\n4 - Às SIMFE aplica-se ainda, no que não contrariar o disposto no presente capítulo, o Código das Sociedades Comerciais e o Código dos Valores Mobiliários."
+  },
+  "107609591": {
+   "fragment_id": "107596711",
+   "type": 11,
+   "heading": "Artigo 14.º — Supervisão e regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Supervisão e regulamentação\n\nCompete à CMVM a supervisão e regulamentação do disposto no presente capítulo, dispondo para o efeito, das competências e poderes previstos no Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, e no Código dos Valores Mobiliários."
+  },
+  "107609592": {
+   "fragment_id": "107596712",
+   "type": 1,
+   "heading": "Capítulo III — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações legislativas"
+  },
+  "107609593": {
+   "fragment_id": "107596713",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração ao Regime Geral dos Organismos de Investimento Coletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alteração ao Regime Geral dos Organismos de Investimento Coletivo\n\nO artigo 1.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...]\n\nb) [...]\n\nc) [...] e\n\nd) As sociedades de investimento mobiliário para fomento da economia.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].»"
+  },
+  "107609594": {
+   "fragment_id": "107596714",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração ao regime jurídico do papel comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração ao regime jurídico do papel comercial\n\nOs artigos 1.º, 6.º, 10.º e 17.º do Decreto-Lei n.º 69/2004, de 25 de março, alterado pelos Decretos-Leis n.os 52/2006, de 15 de março, e 29/2014, de 25 de fevereiro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...].\n\n2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo igual ou inferior a 397 dias.\n\nArtigo 6.º\n\n[...]\n\nSalvo disposição legal em contrário, é proibida a emissão de valores mobiliários de natureza monetária de prazo igual ou inferior a 397 dias que não cumpram o disposto no presente diploma.\n\nArtigo 10.º\n\n[...]\n\nO papel comercial é nominativo e deve observar a forma escritural.\n\nArtigo 17.º\n\n[...]\n\n1 - [...].\n\n2 - A nota informativa de papel comercial não admitido à negociação em mercado regulamentado deve incluir, além da informação relativa à emissão ou ao programa de emissão e sobre a situação jurídica e financeira do emitente anterior à emissão do instrumento de mercado monetário, um parecer elaborado por intermediário financeiro, pelo patrocinador da emissão ou por revisor oficial de contas, em qualquer caso, desde que não sujeito a instruções do emitente, tendo por objeto a verificação das informações ali contidas, nos termos da alínea c) do n.º 6 do artigo 172.º do Regime Geral dos Organismos de Investimento Coletivo.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].»"
+  },
+  "107609595": {
+   "fragment_id": "107596715",
+   "type": 11,
+   "heading": "Artigo 17.º — Aditamento ao regime jurídico do papel comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aditamento ao regime jurídico do papel comercial\n\nÉ aditado ao Decreto-Lei n.º 69/2004, de 25 de março, alterado pelos Decretos-Leis n.os 52/2006, de 15 de março, e 29/2014, de 25 de fevereiro, o artigo 11.º-A, com a seguinte redação:\n\n«Artigo 11.º-A\n\nCertificados de dívida de curto prazo\n\n1 - Denomina-se certificado de dívida de curto prazo o papel comercial que respeite cumulativamente e a todo o tempo os seguintes requisitos:\n\na) Seja dotado de liquidez, nos termos do disposto nos n.os 4 e 6 do artigo 169.º do Regime Geral dos Organismos de Investimento Coletivo;\n\nb) Apresente um valor suscetível de ser determinado com exatidão, a todo o tempo, nos termos do disposto nos n.os 5 e 6 do artigo 169.º do Regime Geral dos Organismos de Investimento Coletivo;\n\nc) Seja livremente transmissível.\n\n2 - Para efeitos da alínea a) do número anterior, quando seja contratado patrocinador da emissão considera-se que os certificados de dívida de curto prazo abrangidos são líquidos.\n\n3 - Os certificados de dívida de curto prazo devem ser identificados enquanto tais na informação apresentada aos investidores e nas mensagens publicitárias.\n\n4 - Ao emitente de certificados de dívida de curto prazo, ainda que não admitidos à negociação em mercado regulamentado, são aplicáveis os deveres de informação estabelecidos no artigo 20.º-A.»"
+  },
+  "107609596": {
+   "fragment_id": "107596716",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao Código dos Valores Mobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao Código dos Valores Mobiliários\n\nO artigo 21.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, passa a ter a seguinte redação:\n\n«Artigo 21.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - Para efeitos do disposto nos números anteriores, e sem prejuízo da imputação de direitos de voto à pessoa que exerça influência dominante, as relações de domínio existentes entre a mesma pessoa singular ou coletiva e mais do que uma sociedade são consideradas isoladamente.\n\n4 - (Anterior n.º 3.)»"
+  },
+  "107609597": {
+   "fragment_id": "107596717",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "107609598": {
+   "fragment_id": "107596718",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor a 1 de julho de 2017."
+  },
+  "115663852": {
+   "fragment_id": "107596702",
+   "type": 11,
+   "heading": "Artigo 5.º — Operações proibidas e limites de investimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 56/2018 - Diário da República n.º 130/2018, Série I de 2018-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2018-115660003)"
+   ],
+   "markdown": "###### Artigo 5.º — Operações proibidas e limites de investimento\n\n1 - A SIMFE não pode investir mais de 15 % do seu património em ativos emitidos por uma única empresa elegível ou por várias empresas elegíveis que estejam entre si em relação de grupo.\n\n2 - A SIMFE não pode contrair empréstimos sob qualquer forma num montante superior a 10 % do respetivo capital.\n\n3 - O investimento em ações e outras partes sociais representativas do capital de empresas elegíveis deve representar, a todo o tempo, um mínimo de 50 % dos ativos da SIMFE.\n\n4 - Durante o primeiro ano de seleção de ativos de empresas elegíveis, e até que seja atingida a percentagem mínima prevista no número anterior, o montante em falta para completar essa percentagem deve estar aplicado em ativos referidos no n.º 1 do artigo 172.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, emitidos por entidades nacionais.\n\n5 - (Revogado.)\n\n6 - É vedado às SIMFE adquirir por sua conta bens imóveis, salvo os necessários à instalação das suas próprias atividades.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 56/2018 - Diário da República n.º 130/2018, Série I de 2018-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2018-115660003)"
+  },
+  "108107617": {
+   "fragment_id": "107596703",
+   "type": 11,
+   "heading": "Artigo 6.º — Constituição",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 22/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2017-108052023), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Constituição\n\n1 - As SIMFE podem ser constituídas:\n\na) A título originário, com ou sem recurso a subscrição pública;\n\nb) A título superveniente, a qualquer momento, quando se trate de sociedades anónimas já constituídas que cumpram os requisitos imperativos do presente capítulo.\n\n2 - O regime de constituição de SIMFE com recurso a subscrição pública rege-se pelo disposto nos artigos 279.º a 283.º do Código das Sociedades Comerciais, com as seguintes adaptações:\n\na) As ações a subscrever pelos promotores não ficam sujeitas a qualquer período de inalienabilidade e integram a mesma categoria das ações subscritas por quaisquer outras pessoas ou entidades;\n\nb) Os promotores não terão direito a quaisquer vantagens;\n\nc) A constituição da SIMFE não fica dependente de realização de uma assembleia constitutiva, devendo os membros dos órgãos sociais ser logo designados no contrato de sociedade;\n\nd) O registo definitivo da constituição e da designação dos membros dos órgãos sociais deve ser promovido nos precisos termos do projeto registado, logo após a conclusão da subscrição das ações;\n\ne) A conversão do registo provisório em definitivo não depende da entrega de ata de assembleia constitutiva;\n\nf) A subscrição incompleta das ações oferecidas à subscrição pública não prejudica o disposto nas alíneas c), d) e e), desde que:\n\ni) Sejam subscritas, pelo menos, três quartos das ações destinadas a esta, e\n\nii) Sejam subscritas as ações correspondentes à totalidade das oferecidas para subscrição pelos promotores;\n\niii) Fique subscrito o capital mínimo exigido no presente capítulo; e\n\niv) Seja feita menção expressa aos factos identificados nas subalíneas anteriores, nos documentos de oferta de ações;\n\ng) Não é permitido o diferimento de quaisquer entradas;\n\nh) A constituição da sociedade não pode ser anulada com fundamento em falta de aprovação por parte de qualquer subscritor.\n\n3 - A aprovação da aquisição da qualidade de SIMFE em assembleia geral de acionistas, pela maioria exigida para a alteração do contrato de sociedade e a subsequente alteração do contrato de sociedade para o tornar conforme com as disposições imperativas do presente capítulo constitui condição necessária à aquisição da qualidade de SIMFE por parte de sociedades anónimas já constituídas e que não sejam SIMFE, a título originário.\n\n4 - A alteração referida no número anterior inicia a produção dos seus efeitos no primeiro dia do período de tributação que se inicie após a data do registo das alterações ao contrato de sociedade referidas no número anterior junto da Conservatória do Registo Comercial.\n\n5 - O n.º 1 do artigo 10.º não se aplica às reservas e resultados transitados da sociedade convertida em SIMFE existentes à data de registo das alterações ao contrato de sociedade junto da Conservatória do Registo Comercial.\n\n> Retificado pelo/a [Declaração de Retificação n.º 22/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2017-108052023), em vigor a partir de 2017-07-01"
+  },
+  "115663853": {
+   "fragment_id": "107596704",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo prévio",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 56/2018 - Diário da República n.º 130/2018, Série I de 2018-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2018-115660003)"
+   ],
+   "markdown": "###### Artigo 7.º — Registo prévio\n\n1 - O início de atividade da SIMFE depende de registo prévio na Comissão do Mercado de Valores Mobiliários (CMVM).\n\n2 - O registo referido no número anterior não implica, por parte da CMVM, qualquer garantia quanto ao conteúdo e à informação constante dos respetivos documentos constitutivos.\n\n3 - O pedido de registo de SIMFE deve ser instruído com os seguintes elementos atualizados:\n\na) Certidão da Conservatória do Registo Comercial;\n\nb) A data de constituição e data prevista para o início da atividade;\n\nc) A carteira de participações que a SIMFE pretende gerir e respetivas estratégias de investimento, que incluam os elementos referidos nas alíneas do n.º 2 do artigo 5.º do Regulamento Delegado (UE) n.º 231/2013, da Comissão Europeia, de 19 de dezembro de 2012;\n\nd) Os estatutos;\n\ne) O lugar da sede e identificação de sucursais, agências, delegações ou outras formas locais de representação;\n\nf) A identificação dos titulares de participações qualificadas;\n\ng) A identificação dos membros dos órgãos de administração e de fiscalização;\n\nh) Regulamento interno;\n\ni) Declaração de adequação de meios;\n\nj) Questionário e declaração de idoneidade dos membros dos órgãos de administração e de fiscalização;\n\nk) Registo criminal e curriculum vitae dos membros dos órgãos de administração e de fiscalização.\n\n4 - A decisão de registo é notificada aos requerentes no prazo de 15 dias a contar da data da receção do pedido ou, se aplicável, das informações complementares que tenham sido solicitadas pela CMVM.\n\n5 - A falta de notificação no prazo referido no número anterior constitui indeferimento tácito do pedido.\n\n6 - A CMVM deve recusar o registo referido no n.º 1 se:\n\na) O pedido não tiver sido instruído com todos os documentos e elementos necessários;\n\nb) Tiverem sido prestadas falsas declarações;\n\nc) Não estiverem preenchidos os requisitos relativos à idoneidade dos membros dos órgãos de administração e de fiscalização.\n\n7 - Havendo fundamento para a recusa nos termos previstos no número anterior, a CMVM, antes de recusar o pedido, notifica os requerentes, dando-lhes o prazo máximo de 10 dias para suprirem a insuficiência do processo, quando apropriado, e para se pronunciarem quanto à apreciação da CMVM.\n\n8 - Constituem fundamento de cancelamento de registo pela CMVM:\n\na) A verificação de factos que obstariam ao registo, se esses factos não tiverem sido sanados no prazo fixado;\n\nb) O registo ter sido obtido com recurso a falsas declarações ou a qualquer outro meio irregular;\n\nc) A SIMFE não iniciar atividade no prazo de 24 meses após a receção da comunicação de concessão do registo pela CMVM, a cessação de atividade por, pelo menos, seis meses, ou a desconformidade entre o objeto e a atividade efetivamente exercida pela entidade em causa;\n\nd) A violação grave ou sistemática de normas legais, regulamentares ou constantes dos documentos constitutivos, quando o interesse dos acionistas ou a defesa do mercado o justificar.\n\n9 - A pedido da SIMFE devidamente fundamentado, a CMVM pode:\n\na) Prorrogar os prazos referidos na alínea c) do número anterior;\n\nb) Cancelar o registo.\n\n10 - Constitui causa de caducidade de registo a extinção da SIMFE.\n\n11 - As alterações aos elementos que integram o pedido de registo devem ser comunicadas à CMVM no prazo de 15 dias, devendo as alterações ou reconduções dos membros dos órgãos de administração e de fiscalização ser instruídas com os elementos constantes das alíneas g), j) e k) do n.º 3.\n\n12 - Para efeitos da instrução do requerimento de registo, assim como das comunicações supervenientes, não é exigível a apresentação de documentos que estejam atualizados junto da CMVM ou que esta possa obter em publicações oficiais.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 56/2018 - Diário da República n.º 130/2018, Série I de 2018-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2018-115660003)"
+  },
+  "118290806": {
+   "fragment_id": "107596710",
+   "type": 11,
+   "heading": "Artigo 13.º — Fontes",
+   "in_force_from": "2019-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 19/2019 - Diário da República n.º 19/2019, Série I de 2019-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2019-118562581), em vigor a partir de 2019-02-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 22/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2017-108052023), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Fontes\n\n1 - Às SIMFE cujos ativos sob gestão sejam inferiores aos estabelecidos no n.º 2 do artigo 9.º são aplicáveis, no que não contrariar o disposto no presente capítulo e com as necessárias adaptações, as seguintes disposições do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, aplicáveis aos organismos de investimento coletivo sob a forma societária autogeridos:\n\na) Do título I:\n\ni) Os capítulos I, III, IV e V;\n\nii) O n.º 4 do artigo 19.º do capítulo II;\n\nb) Do título II, os artigos 66.º, 73.º, 74.º, 76.º e 88.º;\n\nc) Do título III, o artigo 139.º;\n\nd) Do título IV, os artigos 241.º, 243.º e 254.º; e\n\ne) O título V.\n\n2 - Às SIMFE cujos ativos sob gestão sejam superiores aos estabelecidos no n.º 2 do artigo 9.º é ainda plenamente aplicável o regime dos organismos de investimento alternativo em valores mobiliários estabelecido no Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, e em legislação e regulamentação complementar.\n\n3 - As SIMFE cujos ativos sob gestão não excedam os limiares previstos no n.º 2 do artigo 9.º podem optar por requerer a autorização prevista no capítulo ii do título i do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, nos termos previstos no Regulamento de Execução (UE) n.º 447/2013 da Comissão, de 15 de maio de 2013, caso em que o regime previsto no Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, lhes será inteiramente aplicável.\n\n4 - Às SIMFE aplica-se ainda, no que não contrariar o disposto no presente capítulo, o Código das Sociedades Comerciais e o Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 19/2019 - Diário da República n.º 19/2019, Série I de 2019-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2019-118562581), em vigor a partir de 2019-02-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 22/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2017-108052023), em vigor a partir de 2017-07-01"
+  },
+  "108107619": {
+   "fragment_id": "107596714",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração ao regime jurídico do papel comercial",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 22/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2017-108052023), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 16.º — Alteração ao regime jurídico do papel comercial\n\nOs artigos 1.º, 6.º, 10.º e 17.º do Decreto-Lei n.º 69/2004, de 25 de março, alterado pelos Decretos-Leis n.os 52/2006, de 15 de março, e 29/2014, de 25 de fevereiro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...].\n\n2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo igual ou inferior a 397 dias.\n\nArtigo 6.º\n\n[...]\n\nSalvo disposição legal em contrário, é proibida a emissão de valores mobiliários de natureza monetária de prazo igual ou inferior a 397 dias que não cumpram o disposto no presente diploma.\n\nArtigo 10.º\n\n[...]\n\nO papel comercial é nominativo e deve observar a forma escritural.\n\nArtigo 17.º\n\n[...]\n\n1 - [...].\n\n2 - A nota informativa de papel comercial não admitido à negociação em mercado regulamentado deve incluir, além da informação relativa à emissão ou ao programa de emissão e sobre a situação jurídica e financeira do emitente anterior à emissão do instrumento de mercado monetário, um parecer elaborado por intermediário financeiro, pelo patrocinador da emissão ou por revisor oficial de contas, em qualquer caso, desde que não sujeito a instruções do emitente, tendo por objeto a verificação das informações ali contidas, quando o papel comercial se destine a ser adquirido por entidades sujeitas ao disposto na alínea c) do n.º 6 do artigo 172.º do Regime Geral dos Organismos de Investimento Coletivo.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].»\n\n> Retificado pelo/a [Declaração de Retificação n.º 22/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2017-108052023), em vigor a partir de 2017-07-01"
+  },
+  "107609599": {
+   "fragment_id": "107596719",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado no Conselho de Ministros de 18 de maio de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Manuel de Herédia Caldeira Cabral.\n\nPromulgado em 28 de junho de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 29 de junho de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "169622850": {
+   "fragment_id": "107596699",
+   "type": 11,
+   "heading": "Artigo 2.º — Caracterização e forma societária",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Caracterização e forma societária\n\n1 - As SIMFE são sociedades de investimento alternativo especializado que têm como objeto o investimento em valores mobiliários emitidos por empresas elegíveis.\n\n2 - As SIMFE são sociedades anónimas cujo capital social é integralmente representado por ações nominativas.\n\n3 - O capital social mínimo das SIMFE é de (euro) 125 000.\n\n4 - As ações representativas do capital social das SIMFE são admitidas à negociação em mercado regulamentado ou em sistema de negociação multilateral situado ou a funcionar em Portugal, no prazo máximo de um ano após a sua constituição, prazo que pode ser prorrogado pela Comissão do Mercado de Valores Mobiliários (CMVM) por mais seis meses, mediante requerimento devidamente fundamentado.\n\n5 - A sede e a administração efetiva das SIMFE devem situar-se em Portugal.\n\n6 - As sociedades de investimento mobiliário para fomento da economia adotam na sua firma a designação abreviada de SIMFE.\n\n7 - (Revogado.)\n\n8 - Podem ser titulares de ações representativas do capital social das SIMFE entidades de natureza pública ou privada, individualmente ou em contitularidade.\n\n9 - Os municípios podem ser titulares de ações representativas do capital social das SIMFE ainda que estas não invistam exclusivamente em empresas sediadas nos respetivos municípios, nos termos da legislação aplicável.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+  },
+  "169622851": {
+   "fragment_id": "107596700",
+   "type": 11,
+   "heading": "Artigo 3.º — Empresas elegíveis para investimento",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Empresas elegíveis para investimento\n\n1 - Uma parcela não inferior a 50 % do investimento das SIMFE deve ser aplicada em empresas elegíveis.\n\n2 - Considera-se, para efeitos do número anterior, como empresas elegíveis para investimento pelas SIMFE, as empresas que cumpram um dos seguintes critérios:\n\na) Pequenas e médias empresas na aceção do n.º 1 do artigo 2.º do anexo à Recomendação 2003/361/CE da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas, ou empresas qualificadas como Mid Caps ou Small Mid Caps na aceção do Decreto-Lei n.º 81/2017, de 30 de junho, que não sejam emitentes de valores mobiliários admitidos à negociação;\n\nb) Empresas emitentes de ações admitidas à negociação em mercado regulamentado ou em sistema de negociação multilateral que, no último ano civil, tenham tido uma capitalização bolsista média inferior a (euro) 100 000 000.\n\nc) (Revogada.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+  },
+  "169622852": {
+   "fragment_id": "107596701",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição do património",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Composição do património\n\n1 - O património das SIMFE pode ser composto pelos seguintes ativos:\n\na) Ações e outras partes sociais representativas do capital de empresas elegíveis;\n\nb) Obrigações e outros valores mobiliários representativos de dívida ou de quase-capital emitidos por empresas elegíveis, nomeadamente os que tenham garantia do Estado, do Banco Português de Fomento, S. A., ou de outra instituição do Sistema Português de Garantia Mútua;\n\nc) Unidades de participação ou ações representativas do capital de organismos de investimento coletivo e unidades de participação em fundos de capital de risco cujos documentos constitutivos prevejam o investimento de pelo menos 50 % do respetivo capital em empresas elegíveis;\n\nd) Créditos concedidos a sociedades em que participem ou em que se proponham participar.\n\n2 - Com exceção dos ativos referidos nas alíneas anteriores, a SIMFE só pode adquirir:\n\na) Os ativos fixos tangíveis e intangíveis necessários à prossecução da sua atividade; e\n\nb) (Revogada.)\n\n3 - As SIMFE podem deter instrumentos financeiros e ativos em contitularidade com outras entidades de natureza pública ou privada.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+  },
+  "169622853": {
+   "fragment_id": "107596702",
+   "type": 11,
+   "heading": "Artigo 5.º — Operações proibidas e limites de investimento",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 56/2018 - Diário da República n.º 130/2018, Série I de 2018-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2018-115660003)"
+   ],
+   "markdown": "###### Artigo 5.º — Operações proibidas e limites de investimento\n\n1 - À exceção do primeiro ano de seleção de ativos de empresas elegíveis, a SIMFE não pode investir mais de 30 % dos seus ativos em ativos emitidos por uma única empresa elegível ou por várias empresas elegíveis em relação de grupo, ou em créditos detidos sobre uma única empresa elegível ou sobre várias empresas elegíveis em relação de grupo.\n\n2 - A SIMFE não pode contrair empréstimos sob qualquer forma num montante superior a 30 % dos ativos detidos.\n\n3 - O investimento em ações e outras partes sociais representativas do capital de empresas elegíveis deve representar, a todo o tempo, um mínimo de 20 % dos ativos da SIMFE.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - É vedado às SIMFE adquirir por sua conta bens imóveis, salvo os necessários à instalação das suas próprias atividades ou os adquiridos em resultado da execução de garantias associadas a créditos detidos pela SIMFE ou quando sejam objeto de dação em cumprimento pelo respetivo devedor.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 56/2018 - Diário da República n.º 130/2018, Série I de 2018-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2018-115660003)"
+  },
+  "169622854": {
+   "fragment_id": "107596705",
+   "type": 11,
+   "heading": "Artigo 8.º — Administração e fiscalização",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 8.º — Administração e fiscalização\n\n1 - Os membros do órgão de administração e de fiscalização da SIMFE são pessoas com idoneidade e experiência comprovadas.\n\n2 - À apreciação dos requisitos de idoneidade e experiência profissional aplica-se, com as devidas adaptações, o disposto no Regime Jurídico do Capital de Risco, Empreendedorismo Social e Investimento Especializado, aprovado pela Lei n.º 18/2015, de 4 de março, na sua redação atual.\n\n3 - Não é considerada idónea a pessoa que dolosamente preste declarações falsas ou inexatas sobre factos relevantes no âmbito da apreciação de idoneidade.\n\n4 - O órgão de administração deve assegurar que a SIMFE disponha de estrutura organizacional, meios e procedimentos internos adequados e proporcionais à sua dimensão e complexidade das atividades por si desenvolvidas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+  },
+  "169622855": {
+   "fragment_id": "107596706",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação sobre ativos sob gestão",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 9.º — Dever de informação sobre ativos sob gestão\n\n1 - As SIMFE prestam anualmente à CMVM informações sobre os principais instrumentos em que negoceiam, o crédito concedido, as principais posições de risco e as concentrações mais importantes da carteira própria que gerem, nos termos a fixar através de regulamento da CMVM.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+  },
+  "169622856": {
+   "fragment_id": "107596709",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de ofertas públicas",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 12.º — Regime de ofertas públicas\n\nÀs SIMFE não é aplicável o disposto no Código dos Valores Mobiliários em matéria de ofertas públicas de aquisição.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+  },
+  "169622857": {
+   "fragment_id": "107596710",
+   "type": 11,
+   "heading": "Artigo 13.º — Fontes",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 19/2019 - Diário da República n.º 19/2019, Série I de 2019-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2019-118562581), em vigor a partir de 2019-02-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 22/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2017-108052023), em vigor a partir de 2017-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Fontes\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Às SIMFE aplica-se, no que não contrariar o disposto no presente capítulo, o Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado, o Código das Sociedades Comerciais e o Código dos Valores Mobiliários.\n\n5 - Sem prejuízo do disposto no presente capítulo, não é aplicável às SIMFE o disposto no n.º 4 do artigo 5.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 19/2019 - Diário da República n.º 19/2019, Série I de 2019-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2019-118562581), em vigor a partir de 2019-02-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 22/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/22-2017-108052023), em vigor a partir de 2017-07-01"
+  },
+  "169622858": {
+   "fragment_id": "107596711",
+   "type": 11,
+   "heading": "Artigo 14.º — Supervisão e regulamentação",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 14.º — Supervisão e regulamentação\n\nCompete à CMVM a supervisão e regulamentação do disposto no presente capítulo, dispondo para o efeito das competências e poderes previstos no Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado e no Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+  },
+  "169622859": {
+   "fragment_id": "107596713",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração ao Regime Geral dos Organismos de Investimento Coletivo",
+   "in_force_from": "2021-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+   ],
+   "markdown": "###### Artigo 15.º — Alteração ao Regime Geral dos Organismos de Investimento Coletivo\n\nO artigo 1.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...]\n\nb) [...]\n\nc) [...] e\n\nd) As sociedades de investimento mobiliário para fomento da economia.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].»\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 72/2021 - Diário da República n.º 158/2021, Série I de 2021-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021), em vigor a partir de 2021-09-01"
+  }
+ }
+}

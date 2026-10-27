@@ -1,0 +1,300 @@
+---
+schema_version: '1.0'
+id: pt:dre:578303:por
+title: Decreto-Lei n.º 170/81
+short_title: null
+summary: Introduz alterações no Decreto-Lei n.º 134/78, de 6 de Junho (carreira dos sargentos do quadro permanente da Força
+  Aérea)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 170/81
+official_date: null
+publication_date: '1981-06-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/1981, Série I de 1981-06-23
+  number: '141'
+  series: I
+  supplement: null
+  pages: 1444 - 1446
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14100/14441446.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '578303'
+  dre_path: /dr/detalhe/decreto-lei/170-1981-578303
+  internal: pt:dre:578303:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1981-578303
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1981-578303
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4a7be73d6416c63effeec7b762ff671700f2b4f5a8aabd078361fe5a0bafac61
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estado Maior da Força Aérea
+- Força Aérea
+- Quadro Permanente da Força Aérea
+- Reestruturação de Carreiras
+relationships:
+- type: amended_by
+  target: pt:dre:626423:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:170480:por
+  label: "Suspensa temporariamente a aplicação das condições estabelecidas na al. b) do n.º 1 do art. 27.º e na al. b) do\
+    \ n.º 1 do art. 28.º-B do Dec Lei 134/78, de 06-Jun, na redacção do presente diploma, pelo DEC LEI.489/85.26.11.1985.MDN,\
+    \ DR.IS [272] de 26.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/489-1985-170480
+  date: '1985-11-26'
+- type: cites
+  target: pt:dre:294745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:37:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 170/81
+
+de 23 de Junho
+
+Os ensinamentos colhidos durante a vigência do [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho, aconselham a que o curso de promoção de sargentos seja substituído por dois cursos distintos visando a preparação para os postos de sargento-ajudante, sargento-chefe e sargento-mor;
+
+Convindo, por consequência, situar a opção definitiva pela carreira de sargentos na candidatura ao curso de qualificação e promoção a sargento-chefe e que, como medida tendente à dignificação dos quadros, o acesso a sargento-chefe seja feito através da promoção por escolha;
+
+Considerando a necessidade de conciliar as disposições relativas à carreira de sargento da Força Aérea, constantes do [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho, alterado pelos Decretos-Leis n.os [426/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1978-325308) e [74/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1981-388847), respectivamente de 27 de Dezembro e de 10 de Abril, com a legislação anteriormente estabelecida pelo [Decreto-Lei n.º 493/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1975-307582), de 10 de Setembro, respeitante ao quadro de sargentos músicos:
+
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+
+Artigo único. As disposições do [Decreto-Lei n.º 134/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1978-294745), de 6 de Junho, abaixo mencionadas passam a ter a seguinte redacção:
+
+...
+
+Art. 18.º - 1 - São condições especiais de promoção aos diferentes postos, além da posse dos níveis de qualificação e de responsabilidade indicados no artigo 11.º, as seguintes:
+
+a) ...
+
+b) ...
+
+c) ...
+
+1) ...
+
+2) ...
+
+d) Para promoção a sargento-ajudante:
+
+1) Ter realizado com aproveitamento o curso de qualificação e promoção a sargento-ajudante (CQPSA) estabelecido para a especialidade, com a ressalva do disposto no n.º 3 deste artigo;
+
+2) ...
+
+3) ...
+
+e) Para promoção a sargento-chefe:
+
+1) Ter aprovação no curso de qualilificação e promoção a sargento-chefe (CQPSC) estabelecido para a especialidade, com a ressalva do disposto no n.º 3 deste artigo;
+
+2) Ter dois anos de serviço efectivo como sargento-ajudante.
+
+f) ...
+
+1) ...
+
+2) ...
+
+2 - ...
+
+3 - O curso de promoção a sargento-ajudante (CPSA) realizado entre 1977 e 1981 constitui, simultaneamente, condição especial de promoção a sargento-ajudante e a sargento-chefe.
+
+...
+
+Art. 21.º - 1 - Nas promoções dos sargentos aos diferentes postos são utilizadas as modalidades de promoção a seguir indicadas:
+
+a) Escolha - nas promoções a sargento-chefe e a sargento-mor, com ressalva do disposto no n.º 2;
+
+b) Antiguidade, com dependência de vacatura - na promoção a sargento-ajudante, com ressalva do disposto no n.º 3;
+
+c) ...
+
+d) ...
+
+2 - A promoção a sargento-chefe dos sargentos-ajudantes habilitados com o CPSA realizado entre 1977 e 1981 é feita por antiguidade, tal como se encontrava estabelecido à data em que foram nomeados para aquele curso, não devendo ser ultrapassados pelos sargentos-ajudantes que posteriormente frequentarem o curso de qualificação e promoção a sargento-chefe (CQPSC).
+
+3 - A promoção a sargento-ajudante dos primeiros-sargentos habilitados com o CPSA realizado entre 1977 e 1981 será feita por escolha, tal como se encontrava estabelecido na data em que foram nomeados para o mesmo, não devendo ser ultrapassados pelos sargentos que frequentarem o curso de qualificação e promoção a sargento-ajudante (CQPSA).
+
+4 - As disposições a que se referem as alíneas a) e b) do n.º 1 vigoram, para cada especialidade, a partir da conclusão do respectivo curso de promoção e qualificação a sargento-ajudante, a realizar no ano lectivo de 1981-1982.
+
+...
+
+Art. 26.º - 1 - O curso de qualificação e promoção a sargento-ajudante visará proporcionar a todos os primeiros-sargentos a aquisição das capacidades de supervisão e de execução técnica da especialidade definidas pelos níveis de qualificação e responsabilidade atribuídos ao posto de sargento-ajudante.
+
+2 - O curso referido no n.º 1 é, simultaneamente, condição de acesso ao nível de qualificação avançada da especialidade e de promoção a sargento-ajudante.
+
+Art. 27.º - 1 - Podem ser admitidos ao curso de qualificação e promoção a sargento-ajudante, segundo critério a definir pelo Chefe do Estado-Maior da Força Aérea (CEMFA), os primeiros-sargentos que satisfaçam as seguintes condições:
+
+a) ...
+
+b) ...
+
+c) ...
+
+2 - A nomeação para o curso referido no número anterior é feita por antiguidade, pelo Subchefe do Estado-Maior da Força Aérea para o pessoal (SCEMFA/Pes), tendo em conta o plano de qualificação elaborado nos termos do artigo 29.º e o disposto no artigo 35.º
+
+Art. 28.º - 1 - Salvo o disposto no n.º 2, serão excluídos definitivamente da nomeação a que se refere o n.º 2 do artigo 27.º os primeiros-sargentos que:
+
+a) ...
+
+b) Não tenham obtido aproveitamento em dois cursos, salvo se por motivo de acidente ou doença devidamente comprovados pela junta de saúde da Força Aérea;
+
+c) ...
+
+2 - Os primeiros-sargentos anteriormente abrangidos pela exclusão definitiva da nomeação para a frequência do curso de promoção a sargento-ajudante (CPS) a que se referia o artigo 28.º agora alterado podem candidatar-se à frequência do CQPSA.
+
+Art. 28.º-A - 1 - O curso de qualificação e promoção a sargento-chefe (CQPSC) visará, primordialmente, proporcionar aos sargentos-ajudantes a aquisição das capacidades de supervisão e de gestão definidas pelos níveis de qualificação e responsabilidade atribuídos aos postos de sargento-chefe e sargento-mor.
+
+2 - O curso referido no n.º 1 é, simultaneamente, condição de acesso ao nível de responsabilidade de chefia da especialidade e de promoção a sargento-chefe.
+
+Art. 28.º-B - 1 - Podem ser admitidos ao curso de qualificação e promoção a sargento-chefe (CQPSC), segundo critério a definir pelo Chefe do Estado-Maior da Força Aérea, os sargentos-ajudantes que satisfaçam as seguintes condições:
+
+a) Possuir boas qualidades militares, intelectuais e morais, atestadas pelo comandante ou chefe da unidade ou órgão em que estiver colocado;
+
+b) Ter menos de 52 anos de idade em 31 de Dezembro do ano de ingresso no curso;
+
+c) Ter, no mínimo, um ano de serviço como sargento-ajudante.
+
+2 - A nomeação para o curso referido no número anterior é feita por antiguidade pelo Subchefe do Estado-Maior da Força Aérea para o pessoal, mediante parecer da comissão técnica da Força Aérea (CTFA) homologado pelo Chefe do Estado-Maior da Força Aérea, de entre os sargentos-ajudantes que tiverem apresentado declaração em como desejam frequentá-lo.
+
+Art. 28.º-C - Serão excluídos definitivamente da nomeação a que se refere o n.º 2 do artigo 28.º-B os sargentos-ajudantes que:
+
+a) Após terem sido nomeados desistam duas vezes do ingresso no curso;
+
+b) Não tenham obtido aprovação em dois cursos, salvo se por motivo de acidente ou doença devidamente comprovados pela junta de saúde da Força Aérea;
+
+c) Desistam do curso durante a sua frequência, salvo se por motivo de força maior devidamente justificado;
+
+d) Tenham optado, em anos anteriores, pela frequência do curso de formação de oficial e sido nomeados, mesmo que não tenham concluído ou iniciado esse curso, salvo se tal houver ocorrido por razões de serviço ou de saúde justificadas pela junta de saúde da Força Aérea (JSFA);
+
+e) Tenham sido excluídos definitivamente da nomeação para o CPSA, nas condições então estabelecidas no artigo 28.º em relação aos cursos realizados entre 1977 e 1981.
+
+Art. 29.º Os cursos de qualificação serão frequentados pelos sargentos dos QP sempre que seja julgado conveniente e necessário para manutenção ou alteração dos níveis de qualificação a que se refere o artigo 11.º
+
+Art. 32.º - 1 - As condições de admissão aos cursos de formação de oficiais dos QP são as seguintes:
+
+a) ...
+
+b) ...
+
+1) Ser primeiro-sargento ou sargento-ajudante, no primeiro caso com, pelo menos, dois anos de permanência no posto;
+
+2) ...
+
+3) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+Art. 33.º São excluídos da nomeação para os cursos de formação de oficiais dos QP a que se refere a alínea b) do n.º 1 do artigo 32.º os sargentos que:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Tenham optado em anos anteriores pela frequência do CQPSC ou pelo CPSA realizado entre 1977 e 1981 e sido nomeados, mesmo que não tenham iniciado ou concluído esse curso, salvo se tal houver ocorrido por razões de serviço ou de saúde, justificadas pela junta de saúde da Força Aérea.
+
+Art. 36.º
+
+...
+
+a) ...
+
+b) Até ao ano lectivo de 1983-1984, inclusive, podem ser admitidos ao curso de formação de sargentos dos QP militares com idade superior a 28 anos referida na alínea c) do artigo 24.º;
+
+c) Até ao ano lectivo de 1984-1985, inclusive, podem ser admitidos ao CQPSA os primeiros-sargentos com idade superior a 47 anos referida na alínea b) do n.º 1 do artigo 27.º;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Enquanto se verificarem as condições de excepção previstas na alínea c), os primeiros-sargentos que se encontrem habilitados com o curso complementar dos liceus ou habilitações equivalentes podem, mediante parecer da comissão técnica da Força Aérea, homologado pelo CEMFA, ser nomeados para a frequência do CFO, independentemente da sua antiguidade, a que alude o n.º 2 do artigo 32.º, ou da especialidade a que pertencem;
+
+i) No que concerne à carreira dos sargentos músicos, as disposições do presente diploma poderão, por despacho do Chefe do Estado-Maior da Força Aérea, ser ajustadas ao que os aspectos técnicos e artísticos desta especialidade tornarem mais aconselhável tendo em conta o estatuído no artigo 3.º do [Decreto-Lei n.º 493/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1975-307582), de 10 de Setembro.
+
+Visto e aprovado em Conselho da Revolução em 27 de Maio de 1981.
+
+Promulgado em 3 de Junho de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

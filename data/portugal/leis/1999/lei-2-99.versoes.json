@@ -1,0 +1,629 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:196218:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-34439075",
+ "dre_path": "/dr/detalhe/lei/2-1999-196218",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-01-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "43455575",
+    "43455675",
+    "43455775",
+    "43455875",
+    "43455975",
+    "43456075",
+    "43456175",
+    "43456275",
+    "43456375",
+    "43456475",
+    "43456575",
+    "43456675",
+    "43456775",
+    "43456875",
+    "43456975",
+    "43457075",
+    "43457175",
+    "43457275",
+    "43457375",
+    "43457475",
+    "43457575",
+    "43457675",
+    "43457775",
+    "43457875",
+    "43457975",
+    "43458075",
+    "43458175",
+    "43458275",
+    "43458375",
+    "43458475",
+    "43458575",
+    "43458675",
+    "43458775",
+    "43458875",
+    "43458975",
+    "43459075",
+    "43459175",
+    "43459275",
+    "43459375",
+    "43459475",
+    "43459575",
+    "43459675",
+    "43459775",
+    "43459875",
+    "43459975",
+    "43460075",
+    "43460175",
+    "43460275",
+    "43460375",
+    "43460475",
+    "43460575",
+    "43460675"
+   ]
+  },
+  {
+   "date": "2015-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69889523:por",
+     "title": "Lei n.º 78/2015",
+     "published": "2015-07-29",
+     "dre_path": "/dr/detalhe/lei/78-2015-69889523"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "43455575",
+    "43455675",
+    "43455775",
+    "43455875",
+    "43455975",
+    "115142875",
+    "43456175",
+    "73838048",
+    "43456375",
+    "43456475",
+    "43456575",
+    "43456675",
+    "43456775",
+    "43456875",
+    "43456975",
+    "43457075",
+    "43457175",
+    "73838049",
+    "43457375",
+    "43457475",
+    "73895700",
+    "73895702",
+    "43457775",
+    "43457875",
+    "43457975",
+    "43458075",
+    "43458175",
+    "43458275",
+    "43458375",
+    "43458475",
+    "43458575",
+    "43458675",
+    "43458775",
+    "43458875",
+    "43458975",
+    "43459075",
+    "43459175",
+    "43459275",
+    "43459375",
+    "43459475",
+    "43459575",
+    "43459675",
+    "43459775",
+    "43459875",
+    "43459975",
+    "73838050",
+    "43460175",
+    "43460275",
+    "43460375",
+    "43460475",
+    "43460575",
+    "43460675",
+    "43460775"
+   ]
+  }
+ ],
+ "fragments": {
+  "43455575": {
+   "fragment_id": "35058875",
+   "type": 15,
+   "heading": "Diploma — Aprova a Lei de Imprensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "43455675": {
+   "fragment_id": "35206775",
+   "type": 1,
+   "heading": "Capítulo I — Liberdade de imprensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Liberdade de imprensa"
+  },
+  "43455775": {
+   "fragment_id": "36302575",
+   "type": 11,
+   "heading": "Artigo 1.º — Garantia de liberdade de imprensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Garantia de liberdade de imprensa\n\n1 - É garantida a liberdade de imprensa, nos termos da Constituição e da lei.\n\n2 - A liberdade de imprensa abrange o direito de informar, de se informar e de ser informado, sem impedimentos nem discriminações.\n\n3 - O exercício destes direitos não pode ser impedido ou limitado por qualquer tipo ou forma de censura."
+  },
+  "43455875": {
+   "fragment_id": "36302675",
+   "type": 11,
+   "heading": "Artigo 2.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conteúdo\n\n1 - A liberdade de imprensa implica:\n\na) O reconhecimento dos direitos e liberdades fundamentais dos jornalistas, nomeadamente os referidos no artigo 22.º da presente lei;\n\nb) O direito de fundação de jornais e quaisquer outras publicações, independentemente de autorização administrativa, caução ou habilitação prévias;\n\nc) O direito de livre impressão e circulação de publicações, sem que alguém a isso se possa opor por quaisquer meios não previstos na lei.\n\n2 - O direito dos cidadãos a serem informados é garantido, nomeadamente, através:\n\na) De medidas que impeçam níveis de concentração lesivos do pluralismo da informação;\n\nb) Da publicação do estatuto editorial das publicações informativas;\n\nc) Do reconhecimento dos direitos de resposta e de rectificação;\n\nd) Da identificação e veracidade da publicidade;\n\ne) Do acesso à Alta Autoridade para a Comunicação Social, para salvaguarda da isenção e do rigor informativos;\n\nf) Do respeito pelas normas deontológicas no exercício da actividade jornalística."
+  },
+  "43455975": {
+   "fragment_id": "36302775",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limites\n\nA liberdade de imprensa tem como únicos limites os que decorrem da Constituição e da lei, de forma a salvaguardar o rigor e a objectividade da informação, a garantir os direitos ao bom nome, à reserva da intimidade da vida privada, à imagem e à palavra dos cidadãos e a defender o interesse público e a ordem democrática."
+  },
+  "43456075": {
+   "fragment_id": "36302875",
+   "type": 11,
+   "heading": "Artigo 4.º — Interesse público da imprensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Interesse público da imprensa\n\n1 - Tendo em vista assegurar a possibilidade de expressão e confronto das diversas correntes de opinião, o Estado organizará um sistema de incentivos não discriminatórios de apoio à imprensa, baseado em critérios gerais e objectivos, a determinar em lei específica.\n\n2 - Estão sujeitas a notificação à Alta Autoridade para a Comunicação Social as aquisições, por empresas jornalísticas ou noticiosas, de quaisquer participações em entidades congéneres.\n\n3 - É aplicável às empresas jornalísticas ou noticiosas o regime geral de defesa e promoção da concorrência, nomeadamente no que diz respeito às práticas proibidas, em especial o abuso de posição dominante, e à concentração de empresas.\n\n4 - As operações de concentração horizontal das entidades referidas no número anterior sujeitas a intervenção do Conselho da Concorrência são por este comunicadas à Alta Autoridade para a Comunicação Social, que emite parecer prévio vinculativo, o qual só deverá ser negativo quando estiver comprovadamente em causa a livre expressão e confronto das diversas correntes de opinião."
+  },
+  "43456175": {
+   "fragment_id": "35206875",
+   "type": 1,
+   "heading": "Capítulo II — Liberdade de empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Liberdade de empresa"
+  },
+  "43456275": {
+   "fragment_id": "36302975",
+   "type": 11,
+   "heading": "Artigo 5.º — Liberdade de empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Liberdade de empresa\n\n1 - É livre a constituição de empresas jornalísticas, editoriais ou noticiosas, observados os requisitos da presente lei.\n\n2 - O Estado assegura a existência de um registo prévio, obrigatório e de acesso público das:\n\na) Publicações periódicas nacionais;\n\nb) Empresas jornalísticas nacionais, com indicação dos detentores do respectivo capital social;\n\nc) Empresas noticiosas nacionais.\n\n3 - Os registos referidos no número anterior estão sujeitos às condições a definir em decreto regulamentar."
+  },
+  "43456375": {
+   "fragment_id": "36303075",
+   "type": 11,
+   "heading": "Artigo 6.º — Propriedade das publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Propriedade das publicações\n\nAs publicações sujeitas ao disposto na presente lei podem ser propriedade de qualquer pessoa singular ou colectiva."
+  },
+  "43456475": {
+   "fragment_id": "36303175",
+   "type": 11,
+   "heading": "Artigo 7.º — Classificação das empresas proprietárias de publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Classificação das empresas proprietárias de publicações\n\nAs empresas proprietárias de publicações são jornalísticas ou editoriais, consoante tenham como actividade principal a edição de publicações periódicas ou de publicações não periódicas."
+  },
+  "43456575": {
+   "fragment_id": "36303275",
+   "type": 11,
+   "heading": "Artigo 8.º — Empresas noticiosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Empresas noticiosas\n\n1 - São empresas noticiosas as que têm por objecto principal a recolha e distribuição de notícias, comentários ou imagens.\n\n2 - As empresas noticiosas estão sujeitas ao regime jurídico das empresas jornalísticas."
+  },
+  "43456675": {
+   "fragment_id": "35206975",
+   "type": 1,
+   "heading": "Capítulo III — Da imprensa em especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da imprensa em especial"
+  },
+  "43456775": {
+   "fragment_id": "36303375",
+   "type": 8,
+   "heading": "Secção I — Definição e classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Definição e classificação"
+  },
+  "43456875": {
+   "fragment_id": "37886775",
+   "type": 11,
+   "heading": "Artigo 9.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Definição\n\n1 - Integram o conceito de imprensa, para efeitos da presente lei, todas as reproduções impressas de textos ou imagens disponíveis ao público, quaisquer que sejam os processos de impressão e reprodução e o modo de distribuição utilizado.\n\n2 - Excluem-se boletins de empresa, relatórios, estatísticas, listagens, catálogos, mapas, desdobráveis publicitários, cartazes, folhas volantes, programas, anúncios, avisos, impressos oficiais e os correntemente utilizados nas relações sociais e comerciais."
+  },
+  "43456975": {
+   "fragment_id": "37886875",
+   "type": 11,
+   "heading": "Artigo 10.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Classificação\n\nAs reproduções impressas referidas no artigo anterior, designadas por publicações, classificam-se como:\n\na) Periódicas e não periódicas;\n\nb) Portuguesas e estrangeiras;\n\nc) Doutrinárias e informativas, e estas em publicações de informação geral e especializada;\n\nd) De âmbito nacional, regional e destinadas às comunidades portuguesas no estrangeiro."
+  },
+  "43457075": {
+   "fragment_id": "37886975",
+   "type": 11,
+   "heading": "Artigo 11.º — Publicações periódicas e não periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicações periódicas e não periódicas\n\n1 - São periódicas as publicações editadas em série contínua, sem limite definido de duração, sob o mesmo título e abrangendo períodos determinados de tempo.\n\n2 - São não periódicas as publicações editadas de uma só vez, em volumes ou fascículos, com conteúdo normalmente homogéneo."
+  },
+  "43457175": {
+   "fragment_id": "37887075",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicações portuguesas e estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Publicações portuguesas e estrangeiras\n\n1 - São publicações portuguesas as editadas em qualquer parte do território português, independentemente da língua em que forem redigidas, sob marca e responsabilidade de editor português ou com nacionalidade de qualquer Estado membro da União Europeia, desde que tenha sede ou qualquer forma de representação permanente em território nacional.\n\n2 - São publicações estrangeiras as editadas noutros países ou em Portugal sob marca e responsabilidade de empresa ou organismo oficial estrangeiro que não preencha os requisitos previstos no número anterior.\n\n3 - As publicações estrangeiras difundidas em Portugal ficam sujeitas aos preceitos da presente lei, à excepção daqueles que, pela sua natureza, lhes não sejam aplicáveis."
+  },
+  "43457275": {
+   "fragment_id": "37887175",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicações doutrinárias e informativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicações doutrinárias e informativas\n\n1 - São publicações doutrinárias aquelas que, pelo conteúdo ou perspectiva de abordagem, visem, predominantemente divulgar qualquer ideologia ou credo religioso.\n\n2 - São informativas as que visem predominantemente a difusão de informações ou notícias.\n\n3 - São publicações de informação geral as que tenham por objecto predominante a divulgação de notícias ou informações de carácter não especializado.\n\n4 - São publicações de informação especializada as que se ocupem predominantemente de uma matéria, designadamente científica, literária, artística ou desportiva."
+  },
+  "43457375": {
+   "fragment_id": "37887275",
+   "type": 11,
+   "heading": "Artigo 14.º — Publicações de âmbito nacional, regional e destinadas às comunidades portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Publicações de âmbito nacional, regional e destinadas às comunidades portuguesas\n\n1 - São publicações de âmbito nacional as que, tratando predominantemente temas de interesse nacional ou internacional, se destinem a ser postas à venda na generalidade do território nacional.\n\n2 - São publicações de âmbito regional as que, pelo seu conteúdo e distribuição, se destinem predominantemente às comunidades regionais e locais.\n\n3 - São publicações destinadas às comunidades portuguesas no estrangeiro as que, sendo portuguesas nos termos do artigo 12.º, se ocupem predominantemente de assuntos a elas respeitantes."
+  },
+  "43457475": {
+   "fragment_id": "36303475",
+   "type": 8,
+   "heading": "Secção II — Requisitos das publicações, estatuto editorial e depósito legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Requisitos das publicações, estatuto editorial e depósito legal"
+  },
+  "43457575": {
+   "fragment_id": "37887375",
+   "type": 11,
+   "heading": "Artigo 15.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Requisitos\n\n1 - As publicações periódicas devem conter, na primeira página de cada edição, o título, a data, o período de tempo a que respeitam, o nome do director e o preço por unidade ou a menção da sua gratuitidade.\n\n2 - As publicações periódicas devem conter ainda, em página predominantemente preenchida com materiais informativos, o número de registo do título, o nome, a firma ou denominação social do proprietário, o número de registo de pessoa colectiva, os nomes dos membros do conselho de administração ou de cargos similares e dos detentores com mais de 10% do capital da empresa, o domicílio ou a sede do editor, impressor e da redacção, bem como a tiragem.\n\n3 - As publicações não periódicas devem conter a menção do autor, do editor, do número de exemplares da respectiva edição, do domicílio ou sede do impressor, bem como da data de impressão.\n\n4 - Nas publicações periódicas que assumam a forma de revista não é obrigatória a menção do nome do director na primeira página."
+  },
+  "43457675": {
+   "fragment_id": "37887475",
+   "type": 11,
+   "heading": "Artigo 16.º — Transparência da propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transparência da propriedade\n\n1 - Nas empresas jornalísticas detentoras de publicações periódicas constituídas sob a forma de sociedade anónima todas as acções devem ser nominativas.\n\n2 - A relação dos detentores de participações sociais das empresas jornalísticas, a discriminação daquelas, bem como a indicação das publicações que àqueles pertençam, ou a outras entidades com as quais mantenham uma relação de grupo, devem ser, durante o mês de Abril, divulgadas em todas as publicações periódicas de que as empresas sejam proprietárias, nas condições referidas no n.º 2 do artigo anterior, e remetidas para a Alta Autoridade para a Comunicação Social.\n\n3 - As empresas jornalísticas são obrigadas a inserir na publicação periódica de sua propriedade com a maior tiragem, até ao fim do 1.º semestre de cada ano, o relatório e contas de demonstração dos resultados líquidos, onde se evidencie a fonte dos movimentos financeiros derivados de capitais próprios ou alheios."
+  },
+  "43457775": {
+   "fragment_id": "37887575",
+   "type": 11,
+   "heading": "Artigo 17.º — Estatuto editorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Estatuto editorial\n\n1 - As publicações periódicas informativas devem adoptar um estatuto editorial que defina claramente a sua orientação e os seus objectivos e inclua o compromisso de assegurar o respeito pelos princípios deontológicos e pela ética profissional dos jornalistas, assim como pela boa fé dos leitores.\n\n2 - O estatuto editorial é elaborado pelo director e, após parecer do conselho de redacção, submetido à ratificação da entidade proprietária, devendo ser inserido na primeira página do primeiro número da publicação e remetido, nos 10 dias subsequentes, à Alta Autoridade para a Comunicação Social.\n\n3 - Sem prejuízo do disposto no número anterior, o estatuto editorial é publicado, em cada ano civil, conjuntamente com o relatório e contas da entidade proprietária.\n\n4 - As alterações introduzidas no estatuto editorial estão sujeitas a parecer prévio do conselho de redacção, devendo ser reproduzidas no primeiro número subsequente à sua ratificação pela entidade proprietária e enviadas, no prazo de 10 dias, à Alta Autoridade para a Comunicação Social."
+  },
+  "43457875": {
+   "fragment_id": "37887675",
+   "type": 11,
+   "heading": "Artigo 18.º — Depósito legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Depósito legal\n\n1 - O regime de depósito legal constará de decreto regulamentar, no qual se especificarão as entidades às quais devem ser enviados exemplares das publicações, o número daqueles e o prazo de remessa.\n\n2 - Independentemente do disposto no número anterior, será remetido ao Instituto da Comunicação Social um exemplar de cada edição de todas as publicações que beneficiem do sistema de incentivos do Estado à imprensa."
+  },
+  "43457975": {
+   "fragment_id": "35207075",
+   "type": 1,
+   "heading": "Capítulo IV — Organização das empresas jornalísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Organização das empresas jornalísticas"
+  },
+  "43458075": {
+   "fragment_id": "36303575",
+   "type": 11,
+   "heading": "Artigo 19.º — Director das publicações periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Director das publicações periódicas\n\n1 - As publicações periódicas devem ter um director.\n\n2 - A designação e a demissão do director são da competência da entidade proprietária da publicação, ouvido o conselho de redacção.\n\n3 - O conselho de redacção emite parecer fundamentado, a comunicar à entidade proprietária no prazo de cinco dias a contar da recepção do respectivo pedido de emissão.\n\n4 - A prévia audição do conselho de redacção é dispensada na nomeação do primeiro director da publicação e nas publicações doutrinárias."
+  },
+  "43458175": {
+   "fragment_id": "36303675",
+   "type": 11,
+   "heading": "Artigo 20.º — Estatuto do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Estatuto do director\n\n1 - Ao director compete:\n\na) Orientar, superintender e determinar o conteúdo da publicação;\n\nb) Elaborar o estatuto editorial, nos termos do n.º 2 do artigo 17.º;\n\nc) Designar os jornalistas com funções de chefia e coordenação;\n\nd) Presidir ao conselho de redacção;\n\ne) Representar o periódico perante quaisquer autoridades em tudo quanto diga respeito a matérias da sua competência e às funções inerentes ao seu cargo.\n\n2 - O director tem direito a:\n\na) Ser ouvido pela entidade proprietária em tudo o que disser respeito à gestão dos recursos humanos na área jornalística, assim como à oneração ou alienação dos imóveis onde funcionem serviços da redacção que dirige;\n\nb) Ser informado sobre a situação económica e financeira da entidade proprietária e sobre a sua estratégia em termos editoriais."
+  },
+  "43458275": {
+   "fragment_id": "36303775",
+   "type": 11,
+   "heading": "Artigo 21.º — Directores-adjuntos e subdirectores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Directores-adjuntos e subdirectores\n\n1 - Nas publicações com mais de cinco jornalistas o director pode ser coadjuvado por um ou mais directores-adjuntos ou subdirectores, que o substituem nas suas ausências ou impedimentos.\n\n2 - Aos directores-adjuntos e subdirectores é aplicável o preceituado no artigo 19.º, com as necessárias adaptações."
+  },
+  "43458375": {
+   "fragment_id": "36303875",
+   "type": 11,
+   "heading": "Artigo 22.º — Direitos dos jornalistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direitos dos jornalistas\n\nConstituem direitos fundamentais dos jornalistas, com o conteúdo e a extensão definidos na Constituição e no Estatuto do Jornalista:\n\na) A liberdade de expressão e de criação;\n\nb) A liberdade de acesso às fontes de informação, incluindo o direito de acesso a locais públicos e respectiva protecção;\n\nc) O direito ao sigilo profissional;\n\nd) A garantia de independência e da cláusula de consciência;\n\ne) O direito de participação na orientação do respectivo órgão de informação."
+  },
+  "43458475": {
+   "fragment_id": "36303975",
+   "type": 11,
+   "heading": "Artigo 23.º — Conselho de redacção e direito de participação dos jornalistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Conselho de redacção e direito de participação dos jornalistas\n\n1 - Nas publicações periódicas com mais de cinco jornalistas, estes elegem um conselho de redacção, por escrutínio secreto e segundo regulamento por eles aprovado.\n\n2 - Compete ao conselho de redacção:\n\na) Pronunciar-se, nos termos dos artigos 19.º e 21.º, sobre a designação ou demissão, pela entidade proprietária, do director, do director-adjunto ou do subdirector da publicação;\n\nb) Dar parecer sobre a elaboração e as alterações ao estatuto editorial, nos termos dos n.os 2 e 4 do artigo 17.º;\n\nc) Pronunciar-se, a solicitação do director, sobre a conformidade de escritos ou imagens publicitários com a orientação editorial da publicação;\n\nd) Cooperar com a direcção no exercício das competências previstas nas alíneas a), b) e e) do n.º 1 do artigo 20.º;\n\ne) Pronunciar-se sobre todos os sectores da vida e da orgânica da publicação que se relacionem com o exercício da actividade dos jornalistas, em conformidade com o respectivo estatuto e código deontológico;\n\nf) Pronunciar-se acerca da admissão e da responsabilidade disciplinar dos jornalistas profissionais, nomeadamente na apreciação de justa causa de despedimento, no prazo de cinco dias a contar da data em que o processo lhe seja entregue."
+  },
+  "43458575": {
+   "fragment_id": "35207175",
+   "type": 1,
+   "heading": "Capítulo V — Do direitos à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do direitos à informação"
+  },
+  "43458675": {
+   "fragment_id": "36304075",
+   "type": 8,
+   "heading": "Secção I — Direitos de resposta e de rectificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direitos de resposta e de rectificação"
+  },
+  "43458775": {
+   "fragment_id": "37887775",
+   "type": 11,
+   "heading": "Artigo 24.º — Pressupostos dos direitos de resposta e de rectificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Pressupostos dos direitos de resposta e de rectificação\n\n1 - Tem direito de resposta nas publicações periódicas qualquer pessoa singular ou colectiva, organização, serviço ou organismo público, bem como o titular de qualquer órgão ou responsável por estabelecimento público, que tiver sido objecto de referências, ainda que indirectas, que possam afectar a sua reputação e boa fama.\n\n2 - As entidades referidas no número anterior têm direito de rectificação nas publicações periódicas sempre que tenham sido feitas referências de facto inverídicas ou erróneas que lhes digam respeito.\n\n3 - O direito de resposta e o de rectificação podem ser exercidos tanto relativamente a textos como a imagens.\n\n4 - O direito de resposta e o de rectificação ficam prejudicados se, com a concordância do interessado, o periódico tiver corrigido ou esclarecido o texto ou imagem em causa ou lhe tiver facultado outro meio de expor a sua posição.\n\n5 - O direito de resposta e o de rectificação são independentes do procedimento criminal pelo facto da publicação, bem como do direito à indemnização pelos danos por ela causados."
+  },
+  "43458875": {
+   "fragment_id": "37887875",
+   "type": 11,
+   "heading": "Artigo 25.º — Exercício dos direitos de resposta e de rectificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Exercício dos direitos de resposta e de rectificação\n\n1 - O direito de resposta e o de rectificação devem ser exercidos pelo próprio titular, pelo seu representante legal ou pelos herdeiros, no período de 30 dias, se se tratar de diário ou semanário, e de 60 dias, no caso de publicação com menor frequência, a contar da inserção do escrito ou imagem.\n\n2 - Os prazos do número anterior suspendem-se quando, por motivo de força maior, as pessoas nele referidas estiverem impedidas de fazer valer o direito cujo exercício estiver em causa.\n\n3 - O texto da resposta ou da rectificação, se for caso disso, acompanhado de imagem, deve ser entregue, com assinatura e identificação do autor, e através de procedimento que comprove a sua recepção, ao director da publicação em causa, invocando expressamente o direito de resposta ou o de rectificação ou as competentes disposições legais.\n\n4 - O conteúdo da resposta ou da rectificação é limitado pela relação directa e útil com o escrito ou imagem respondidos, não podendo a sua extensão exceder 300 palavras ou a da parte do escrito que a provocou, se for superior, descontando a identificação, a assinatura e as fórmulas de estilo, nem conter expressões desproporcionadamente desprimorosas ou que envolvam responsabilidade criminal, a qual, neste caso, bem como a eventual responsabilidade civil, só ao autor da resposta ou da rectificação podem ser exigidas."
+  },
+  "43458975": {
+   "fragment_id": "37887975",
+   "type": 11,
+   "heading": "Artigo 26.º — Publicação da resposta ou da rectificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Publicação da resposta ou da rectificação\n\n1 - Se a resposta exceder os limites previstos no n.º 4 do artigo anterior, a parte restante é publicada, por remissão expressa, em local conveniente à paginação do periódico e mediante pagamento equivalente ao da publicidade comercial redigida, constante das tabelas do periódico, o qual será feito antecipadamente ou assegurado pelo envio da importância consignada bastante.\n\n2 - A resposta ou a rectificação devem ser publicadas:\n\na) Dentro de dois dias a contar da recepção, se a publicação for diária;\n\nb) No primeiro número impresso após o segundo dia posterior à recepção, tratando-se de publicação semanal;\n\nc) No primeiro número distribuído após o 7.º dia posterior à recepção, no caso das demais publicações periódicas.\n\n3 - A publicação é gratuita e feita na mesma secção, com o mesmo relevo e apresentação do escrito ou imagem que tiver provocado a resposta ou rectificação, de uma só vez, sem interpolações nem interrupções, devendo ser precedida da indicação de que se trata de direito de resposta ou rectificação.\n\n4 - Quando a resposta se refira a texto ou imagem publicados na primeira página, ocupando menos de metade da sua superfície, pode ser inserida numa página ímpar interior, observados os demais requisitos do número antecedente, desde que se verifique a inserção na primeira página, no local da publicação do texto ou imagem que motivaram a resposta, de uma nota de chamada, com a devida saliência, anunciando a publicação da resposta e o seu autor, bem como a respectiva página.\n\n5 - A rectificação que se refira a texto ou imagem publicados na primeira página pode, em qualquer caso, cumpridos os restantes requisitos do n.º 3, ser inserida em página ímpar interior.\n\n6 - No mesmo número em que for publicada a resposta ou a rectificação só é permitido à direcção do periódico fazer inserir uma breve anotação à mesma, da sua autoria, com o estrito fim de apontar qualquer inexactidão ou erro de facto contidos na resposta ou na rectificação, a qual pode originar nova resposta ou rectificação, nos termos dos n.os 1 e 2 do artigo 24.º\n\n7 - Quando a resposta ou a rectificação forem intempestivas, provierem de pessoa sem legitimidade, carecerem manifestamente de todo e qualquer fundamento ou contrariarem o disposto no n.º 4 do artigo anterior, o director do periódico, ou quem o substitua, ouvido o conselho de redacção, pode recusar a sua publicação, informando o interessado, por escrito, acerca da recusa e do seu fundamento, nos 3 ou 10 dias seguintes à recepção da resposta ou da rectificação, tratando-se respectivamente de publicações diárias ou semanais ou de periodicidade superior.\n\n8 - No caso de, por sentença com trânsito em julgado, vir a provar-se a falsidade do conteúdo da resposta ou da rectificação e a veracidade do escrito que lhes deu origem, o autor da resposta ou da rectificação pagará o espaço com ela ocupado pelo preço igual ao triplo da tabela de publicidade do periódico em causa, independentemente da responsabilidade civil que ao caso couber."
+  },
+  "43459075": {
+   "fragment_id": "37888075",
+   "type": 11,
+   "heading": "Artigo 27.º — Efectivação coerciva do direito de resposta e de rectificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Efectivação coerciva do direito de resposta e de rectificação\n\n1 - No caso de o direito de resposta ou de rectificação não ter sido satisfeito ou haver sido infundadamente recusado, pode o interessado, no prazo de 10 dias, recorrer ao tribunal judicial do seu domicílio para que ordene a publicação, e para a Alta Autoridade para a Comunicação Social nos termos da legislação especificamente aplicável.\n\n2 - Requerida a notificação judicial do director do periódico que não tenha dado satisfação ao direito de resposta ou de rectificação, é o mesmo imediatamente notificado por via postal para contestar no prazo de dois dias, após o que será proferida em igual prazo a decisão, da qual há recurso com efeito meramente devolutivo.\n\n3 - Só é admitida prova documental, sendo todos os documentos juntos com o requerimento inicial e com a contestação.\n\n4 - No caso de procedência do pedido, o periódico em causa publica a resposta ou rectificação nos prazos do n.º 2 do artigo 26.º, acompanhada da menção de que a publicação é efectuada por efeito de decisão judicial ou por deliberação da Alta Autoridade para a Comunicação Social."
+  },
+  "43459175": {
+   "fragment_id": "36304175",
+   "type": 8,
+   "heading": "Secção II — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Publicidade"
+  },
+  "43459275": {
+   "fragment_id": "37888175",
+   "type": 11,
+   "heading": "Artigo 28.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Publicidade\n\n1 - A difusão de materiais publicitários através da imprensa fica sujeita ao disposto na presente lei e demais legislação aplicável.\n\n2 - Toda a publicidade redigida ou a publicidade gráfica, que como tal não seja imediatamente identificável, deve ser identificada através da palavra «Publicidade» ou das letras «PUB», em caixa alta, no início do anúncio, contendo ainda, quando tal não for evidente, o nome do anunciante.\n\n3 - Considera-se publicidade redigida e publicidade gráfica todo o texto ou imagem cuja inserção tenha sido paga, ainda que sem cumprimento da tabela de publicidade do respectivo periódico."
+  },
+  "43459375": {
+   "fragment_id": "35207275",
+   "type": 1,
+   "heading": "Capítulo VI — Formas de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Formas de responsabilidade"
+  },
+  "43459475": {
+   "fragment_id": "36304275",
+   "type": 11,
+   "heading": "Artigo 29.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Responsabilidade civil\n\n1 - Na determinação das formas de efectivação da responsabilidade civil emergente de factos cometidos por meio da imprensa observam-se os princípios gerais.\n\n2 - No caso de escrito ou imagem inseridos numa publicação periódica com conhecimento e sem oposição do director ou seu substituto legal, as empresas jornalísticas são solidariamente responsáveis com o autor pelos danos que tiverem causado."
+  },
+  "43459575": {
+   "fragment_id": "36304375",
+   "type": 11,
+   "heading": "Artigo 30.º — Crimes cometidos através da imprensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Crimes cometidos através da imprensa\n\n1 - A publicação de textos ou imagens através da imprensa que ofenda bens jurídicos penalmente protegidos é punida nos termos gerais, sem prejuízo do disposto na presente lei, sendo a sua apreciação da competência dos tribunais judiciais.\n\n2 - Sempre que a lei não cominar agravação diversa, em razão do meio de comissão, os crimes cometidos através da imprensa são punidos com as penas previstas na respectiva norma incriminatória, elevadas de um terço nos seus limites mínimo e máximo."
+  },
+  "43459675": {
+   "fragment_id": "36304475",
+   "type": 11,
+   "heading": "Artigo 31.º — Autoria e comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Autoria e comparticipação\n\n1 - Sem prejuízo do disposto na lei penal, a autoria dos crimes cometidos através da imprensa cabe a quem tiver criado o texto ou a imagem cuja publicação constitua ofensa dos bens jurídicos protegidos pelas disposições incriminadoras.\n\n2 - Nos casos de publicação não consentida, é autor do crime quem a tiver promovido.\n\n3 - O director, o director-adjunto, o subdirector ou quem concretamente os substitua, assim como o editor, no caso de publicações não periódicas, que não se oponha, através da acção adequada, à comissão de crime através da imprensa, podendo fazê-lo, é punido com as penas cominadas nos correspondentes tipos legais, reduzidas de um terço nos seus limites.\n\n4 - Tratando-se de declarações correctamente reproduzidas, prestadas por pessoas devidamente identificadas, só estas podem ser responsabilizadas, a menos que o seu teor constitua instigação à prática de um crime.\n\n5 - O regime previsto no número anterior aplica-se igualmente em relação aos artigos de opinião, desde que o seu autor esteja devidamente identificado.\n\n6 - São isentos de responsabilidade criminal todos aqueles que, no exercício da sua profissão, tiveram intervenção meramente técnica, subordinada ou rotineira no processo de elaboração ou difusão da publicação contendo o escrito ou imagem controvertidos."
+  },
+  "43459775": {
+   "fragment_id": "36304575",
+   "type": 11,
+   "heading": "Artigo 32.º — Desobediência qualificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Desobediência qualificada\n\nConstituem crimes de desobediência qualificada:\n\na) O não acatamento, pelo director do periódico ou seu substituto, de decisão judicial ou de deliberação da Alta Autoridade para a Comunicação Social que ordene a publicação de resposta ou rectificação, ao abrigo do disposto no artigo 27.º;\n\nb) A recusa, pelos mesmos, da publicação de decisões a que se refere o artigo 34.º;\n\nc) A edição, distribuição ou venda de publicações suspensas ou apreendidas por decisão judicial."
+  },
+  "43459875": {
+   "fragment_id": "36304675",
+   "type": 11,
+   "heading": "Artigo 33.º — Atentado à liberdade de imprensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Atentado à liberdade de imprensa\n\n1 - É punido com pena de prisão de 3 meses a 2 anos ou multa de 25 a 100 dias aquele que, fora dos casos previstos na lei e com o intuito de atentar contra a liberdade de imprensa:\n\na) Impedir ou perturbar a composição, impressão, distribuição e livre circulação de publicações;\n\nb) Apreender quaisquer publicações;\n\nc) Apreender ou danificar quaisquer materiais necessários ao exercício da actividade jornalística.\n\n2 - Se o infractor for agente do Estado ou de pessoa colectiva pública e agir nessa qualidade, é punido com prisão de 3 meses a 3 anos ou multa de 30 a 150 dias, se pena mais grave lhe não couber nos termos da lei penal."
+  },
+  "43459975": {
+   "fragment_id": "36304775",
+   "type": 11,
+   "heading": "Artigo 34.º — Publicação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Publicação das decisões\n\n1 - As sentenças condenatórias por crimes cometidos através da imprensa são, quando o ofendido o requeira, no prazo de cinco dias após o trânsito em julgado, obrigatoriamente publicadas no próprio periódico, por extracto, do qual devem constar apenas os factos provados relativos à infracção cometida, a identidade dos ofendidos e dos condenados, as sanções aplicadas e as indemnizações fixadas.\n\n2 - A publicação tem lugar dentro do prazo de três dias a contar da notificação judicial, quando se trate de publicações diárias, e num dos dois primeiros números seguintes, quando a periodicidade for superior, sendo aplicável o disposto no n.º 3 do artigo 26.º\n\n3 - Se a publicação em causa tiver deixado de se publicar, a decisão condenatória é inserta, a expensas dos responsáveis, numa das publicações periódicas de maior circulação da localidade, ou da localidade mais próxima, se naquela não existir outra publicação periódica.\n\n4 - O disposto nos números anteriores é aplicável, com as devidas adaptações, às sentenças condenatórias proferidas em acções de efectivação de responsabilidade civil."
+  },
+  "43460075": {
+   "fragment_id": "36304875",
+   "type": 11,
+   "heading": "Artigo 35.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 100000$00 a 500000$00, a inobservância do disposto nos n.os 2 e 3 do artigo 15.º, no artigo 16.º, no n.º 2 do artigo 18.º, nos n.os 2 e 3 do artigo 19.º e no n.º 1 do artigo 26.º;\n\nb) De 200000$00 a 1000000$00, a inobservância do disposto no n.º 3 do artigo 5.º, nos n.os 2 a 6 do artigo 26.º e no n.º 2 do artigo 28.º, bem como a redacção, impressão ou difusão de publicações que não contenham os requisitos exigidos pelo n.º 1 do artigo 15.º;\n\nc) De 500000$00 a 1000000$00, a inobservância do disposto no artigo 17.º;\n\nd) De 500000$00 a 3000000$00, a não satisfação ou recusa infundadas do direito de resposta ou de rectificação, bem como a violação do disposto no n.º 4 do artigo 27.º e no artigo 34.º\n\n2 - Tratando-se de pessoas singulares, os montantes mínimos e máximos constantes do número anterior são reduzidos para metade.\n\n3 - As publicações que não contenham os requisitos exigidos pelo n.º 1 do artigo 15.º podem ser objecto de medida cautelar de apreensão, nos termos do artigo 48.º-A do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 244/95, de 14 de Setembro.\n\n4 - Pelas contra-ordenações previstas no presente diploma respondem as entidades proprietárias das publicações que deram causa à infracção.\n\n5 - No caso previsto na parte final da alínea b) do n.º 1, e não sendo possível determinar a entidade proprietária, responde quem tiver intervindo na redacção, impressão ou difusão das referidas publicações.\n\n6 - A tentativa e a negligência são puníveis.\n\n7 - No caso de comportamento negligente, os limites mínimos e máximos das coimas aplicáveis são reduzidos para metade."
+  },
+  "43460175": {
+   "fragment_id": "36304975",
+   "type": 11,
+   "heading": "Artigo 36.º — Processamento das contra-ordenações e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Processamento das contra-ordenações e aplicação das coimas\n\n1 - O processamento das contra-ordenações compete à entidade responsável pela sua aplicação.\n\n2 - A aplicação das coimas previstas no presente diploma compete à Alta Autoridade para a Comunicação Social, excepto as relativas à violação do disposto no n.º 2 do artigo 5.º, no artigo 15.º e no n.º 2 do artigo 18.º, que cabe ao Instituto da Comunicação Social.\n\n3 - As receitas das coimas referidas na segunda parte do número anterior revertem em 40% para o Instituto da Comunicação Social e em 60% para o Estado."
+  },
+  "43460275": {
+   "fragment_id": "35207375",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições especiais de processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições especiais de processo"
+  },
+  "43460375": {
+   "fragment_id": "36305075",
+   "type": 11,
+   "heading": "Artigo 37.º — Forma do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Forma do processo\n\nO procedimento por crimes de imprensa rege-se pelas disposições do Código de Processo Penal e da legislação complementar, em tudo o que não estiver especialmente previsto na presente lei."
+  },
+  "43460475": {
+   "fragment_id": "36305175",
+   "type": 11,
+   "heading": "Artigo 38.º — Competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competência territorial\n\n1 - Para conhecer dos crimes de imprensa é competente o tribunal da comarca da sede da pessoa colectiva proprietária da publicação.\n\n2 - Se a publicação for propriedade de pessoa singular, é competente o tribunal da comarca onde a mesma tiver o seu domicílio.\n\n3 - Tratando-se de publicação estrangeira importada, o tribunal competente é o da sede ou domicílio da entidade importadora ou o da sua representante em Portugal.\n\n4 - Tratando-se de publicações que não cumpram os requisitos exigidos pelo n.º 1 do artigo 15.º, e não sendo conhecido o elemento definidor de competência nos termos dos números anteriores, é competente o tribunal da comarca onde forem encontradas.\n\n5 - Para conhecer dos crimes de difamação ou de injúria é competente o tribunal da comarca do domicílio do ofendido."
+  },
+  "43460575": {
+   "fragment_id": "36305275",
+   "type": 11,
+   "heading": "Artigo 39.º — Identificação do autor do escrito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Identificação do autor do escrito\n\n1 - Instaurado o procedimento criminal, se o autor do escrito ou imagem for desconhecido, o Ministério Público ordena a notificação do director para, no prazo de cinco dias, declarar no inquérito qual a identidade do autor do escrito ou imagem.\n\n2 - Se o notificado nada disser, incorre no crime de desobediência qualificada e, se declarar falsamente desconhecer a identidade ou indicar como autor do escrito ou imagem quem se provar que o não foi, incorre nas penas previstas no n.º 1 do artigo 360.º do Código Penal, sem prejuízo de procedimento por denúncia caluniosa."
+  },
+  "43460675": {
+   "fragment_id": "36305375",
+   "type": 11,
+   "heading": "Artigo 40.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 85-C/75, de 26 de Fevereiro;\n\nb) O Decreto-Lei n.º 181/76, de 9 de Março;\n\nc) O Decreto-Lei n.º 645/76, de 30 de Julho;\n\nd) O Decreto-Lei n.º 377/88, de 24 de Outubro;\n\ne) A Lei n.º 15/95, de 25 de Maio;\n\nf) A Lei n.º 8/96, de 14 de Março."
+  },
+  "115142875": {
+   "fragment_id": "36302875",
+   "type": 11,
+   "heading": "Artigo 4.º — Interesse público da imprensa",
+   "in_force_from": "2015-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Lei n.º 78/2015 - Diário da República n.º 146/2015, Série I de 2015-07-29](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), em vigor a partir de 2015-09-27",
+    "Alterado pelo/a Artigo 95.º do/a [Lei n.º 19/2012 - Diário da República n.º 89/2012, Série I de 2012-05-08](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391)",
+    "Alterado pelo/a Artigo 57.º do/a [Lei n.º 18/2003 - Diário da República n.º 134/2003, Série I-A de 2003-06-11](https://diariodarepublica.pt/dr/detalhe/lei/18-2003-683219)"
+   ],
+   "markdown": "###### Artigo 4.º — Interesse público da imprensa\n\n1 - Tendo em vista assegurar a possibilidade de expressão e confronto das diversas correntes de opinião, o Estado organizará um sistema de incentivos não discriminatórios de apoio à imprensa, baseado em critérios gerais e objectivos, a determinar em lei específica.\n\n2 - (Revogado.)\n\n3 - É aplicável às empresas jornalísticas ou noticiosas o regime geral de defesa e promoção da concorrência, nomeadamente no que diz respeito às práticas proibidas, em especial o abuso de posição dominante, e à concentração de empresas.\n\n4 - As decisões da Autoridade da Concorrência relativas a operações de concentração de empresas em que participem entidades referidas no número anterior estão sujeitas a parecer prévio da Entidade Reguladora para a Comunicação Social, o qual deverá ser negativo quando estiver comprovadamente em causa a livre expressão e confronto das diversas correntes de opinião, sendo neste caso vinculativo para a Autoridade da Concorrência\n\n> Alterado pelo/a Artigo 20.º do/a [Lei n.º 78/2015 - Diário da República n.º 146/2015, Série I de 2015-07-29](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), em vigor a partir de 2015-09-27\n\n> Alterado pelo/a Artigo 95.º do/a [Lei n.º 19/2012 - Diário da República n.º 89/2012, Série I de 2012-05-08](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391)\n\n> Alterado pelo/a Artigo 57.º do/a [Lei n.º 18/2003 - Diário da República n.º 134/2003, Série I-A de 2003-06-11](https://diariodarepublica.pt/dr/detalhe/lei/18-2003-683219)"
+  },
+  "73838048": {
+   "fragment_id": "36302975",
+   "type": 11,
+   "heading": "Artigo 5.º — Liberdade de empresa",
+   "in_force_from": null,
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 9/99 - Diário da República n.º 53/1999, Série I-A de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-1999-151289)"
+   ],
+   "markdown": "###### Artigo 5.º — Liberdade de empresa\n\n1 - É livre a constituição de empresas jornalísticas, editoriais ou noticiosas, observados os requisitos da presente lei.\n\n2 - O Estado assegura a existência de um registo prévio, obrigatório e de acesso público das:\n\na) Publicações periódicas portuguesas;\n\nb) Empresas jornalísticas nacionais, com indicação dos detentores do respectivo capital social;\n\nc) Empresas noticiosas nacionais.\n\n3 - Os registos referidos no número anterior estão sujeitos às condições a definir em decreto regulamentar.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 9/99 - Diário da República n.º 53/1999, Série I-A de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-1999-151289)"
+  },
+  "73838049": {
+   "fragment_id": "37887175",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicações doutrinárias e informativas",
+   "in_force_from": null,
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 9/99 - Diário da República n.º 53/1999, Série I-A de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-1999-151289)"
+   ],
+   "markdown": "###### Artigo 13.º — Publicações doutrinárias e informativas\n\n1 - São publicações doutrinárias aquelas que, pelo conteúdo ou perspectiva de abordagem, visem, visem predominantemente divulgar qualquer ideologia ou credo religioso.\n\n2 - São informativas as que visem predominantemente a difusão de informações ou notícias.\n\n3 - São publicações de informação geral as que tenham por objecto predominante a divulgação de notícias ou informações de carácter não especializado.\n\n4 - São publicações de informação especializada as que se ocupem predominantemente de uma matéria, designadamente científica, literária, artística ou desportiva.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 9/99 - Diário da República n.º 53/1999, Série I-A de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-1999-151289)"
+  },
+  "73895700": {
+   "fragment_id": "37887375",
+   "type": 11,
+   "heading": "Artigo 15.º — Requisitos",
+   "in_force_from": "2015-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 78/2015 - Diário da República n.º 146/2015, Série I de 2015-07-29](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), em vigor a partir de 2015-09-27"
+   ],
+   "markdown": "###### Artigo 15.º — Requisitos\n\n1 - As publicações periódicas devem conter, na primeira página de cada edição, o título, a data, o período de tempo a que respeitam, o nome do director e o preço por unidade ou a menção da sua gratuitidade.\n\n2 - As publicações periódicas devem conter ainda, em página predominantemente preenchida com materiais informativos, o número de registo do título, o nome, a firma ou a denominação social do proprietário, o número de registo de pessoa coletiva, os nomes dos membros do conselho de administração ou de cargos similares e dos detentores de 5 % ou mais do capital da empresa, o nome do diretor, dos diretores-adjuntos e subdiretores, o domicílio ou a sede do editor, impressor e da redação, a tiragem, bem como o estatuto editorial ou a remissão para uma página na internet onde o mesmo esteja disponível.\n\n3 - As publicações não periódicas devem conter a menção do autor, do editor, do número de exemplares da respectiva edição, do domicílio ou sede do impressor, bem como da data de impressão.\n\n4 - Nas publicações periódicas que assumam a forma de revista não é obrigatória a menção do nome do director na primeira página.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 78/2015 - Diário da República n.º 146/2015, Série I de 2015-07-29](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), em vigor a partir de 2015-09-27"
+  },
+  "73895702": {
+   "fragment_id": "37887475",
+   "type": 11,
+   "heading": "Artigo 16.º — Transparência da propriedade",
+   "in_force_from": "2015-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Lei n.º 78/2015 - Diário da República n.º 146/2015, Série I de 2015-07-29](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), em vigor a partir de 2015-09-27"
+   ],
+   "markdown": "###### Artigo 16.º — Transparência da propriedade\n\n1 - Nas empresas jornalísticas detentoras de publicações periódicas constituídas sob a forma de sociedade anónima todas as acções devem ser nominativas.\n\n2 - A relação dos detentores de participações sociais das empresas jornalísticas, a discriminação daquelas, bem como a indicação das publicações que àqueles pertençam, ou a outras entidades com as quais mantenham uma relação de grupo, devem ser, durante o mês de Abril, divulgadas em todas as publicações periódicas de que as empresas sejam proprietárias, nas condições referidas no n.º 2 do artigo anterior, e remetidas para a Alta Autoridade para a Comunicação Social.\n\n3 - As empresas jornalísticas são obrigadas a inserir na publicação periódica de sua propriedade com a maior tiragem, até ao fim do 1.º semestre de cada ano, o relatório e contas de demonstração dos resultados líquidos, onde se evidencie a fonte dos movimentos financeiros derivados de capitais próprios ou alheios.\n\n> Revogado pelo/a Artigo 20.º do/a [Lei n.º 78/2015 - Diário da República n.º 146/2015, Série I de 2015-07-29](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), em vigor a partir de 2015-09-27"
+  },
+  "73838050": {
+   "fragment_id": "36304875",
+   "type": 11,
+   "heading": "Artigo 35.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 9/99 - Diário da República n.º 53/1999, Série I-A de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-1999-151289)"
+   ],
+   "markdown": "###### Artigo 35.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 100000$00 a 500000$00, a inobservância do disposto nos n.os 2 e 3 do artigo 15.º, no artigo 16.º, no n.º 2 do artigo 18.º, nos n.os 2 e 3 do artigo 19.º e no n.º 1 do artigo 26.º;\n\nb) De 200000$00 a 1000000$00, a inobservância do disposto nos n.os 2 a 6 do artigo 26.º, no n.º 2 do artigo 28.º, e no n.º 2 do artigo 28.º, bem como a redacção, impressão ou difusão de publicações que não contenham os requisitos exigidos pelo n.º 1 do artigo 15.º;\n\nc) De 500000$00 a 1000000$00, a inobservância do disposto no artigo 17.º;\n\nd) De 500000$00 a 3000000$00, a não satisfação ou recusa infundadas do direito de resposta ou de rectificação, bem como a violação do disposto no n.º 4 do artigo 27.º e no artigo 34.º\n\n2 - Tratando-se de pessoas singulares, os montantes mínimos e máximos constantes do número anterior são reduzidos para metade.\n\n3 - As publicações que não contenham os requisitos exigidos pelo n.º 1 do artigo 15.º podem ser objecto de medida cautelar de apreensão, nos termos do artigo 48.º-A do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 244/95, de 14 de Setembro.\n\n4 - Pelas contra-ordenações previstas no presente diploma respondem as entidades proprietárias das publicações que deram causa à infracção.\n\n5 - No caso previsto na parte final da alínea b) do n.º 1, e não sendo possível determinar a entidade proprietária, responde quem tiver intervindo na redacção, impressão ou difusão das referidas publicações.\n\n6 - A tentativa e a negligência são puníveis.\n\n7 - No caso de comportamento negligente, os limites mínimos e máximos das coimas aplicáveis são reduzidos para metade.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 9/99 - Diário da República n.º 53/1999, Série I-A de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-1999-151289)"
+  },
+  "43460775": {
+   "fragment_id": "35207475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 17 de Dezembro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 5 de Janeiro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 6 de Janeiro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

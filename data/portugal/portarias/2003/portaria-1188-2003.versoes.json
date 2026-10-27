@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:481937:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-222366904",
+ "dre_path": "/dr/detalhe/portaria/1188-2003-481937",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-10-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "222366848"
+   ]
+  },
+  {
+   "date": "2008-01-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:628827:por",
+     "title": "Portaria n.º 1515/2007",
+     "published": "2007-11-30",
+     "dre_path": "/dr/detalhe/portaria/1515-2007-628827"
+    }
+   ],
+   "changes": [
+    "Adita 17.º",
+    "Adita 18.º",
+    "Adita 19.º",
+    "Adita 20.º",
+    "Adita 21.º",
+    "Altera 16.º"
+   ],
+   "fragments": [
+    "222366848",
+    "222587956",
+    "222587957",
+    "222587958",
+    "222587959",
+    "222587960",
+    "222587961",
+    "222587962",
+    "222587963",
+    "222587964",
+    "222587965",
+    "222587966",
+    "222587967",
+    "222587968",
+    "222587969",
+    "222587970",
+    "222587973",
+    "222587974",
+    "222639978",
+    "222639982",
+    "222639986",
+    "222639990",
+    "222639991",
+    "222639992",
+    "222639993"
+   ]
+  }
+ ],
+ "fragments": {
+  "222366848": {
+   "fragment_id": "222366905",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1188/2003\n\nde 10 de Outubro\n\nO Decreto-Lei n.º 267/2002, de 26 de Novembro, estabelece os procedimentos e define as competências para efeitos de licenciamento e fiscalização de instalações de armazenamento de produtos de petróleo e instalações de abastecimento de combustíveis líquidos e gasosos (postos de abastecimento de combustíveis).\n\nNo seu âmbito situa-se um largo leque de instalações, com tipologia e capacidade muito diferenciadas, pelo que o artigo 4.º do diploma prevê que a pormenorização de certos aspectos do processo de licenciamento seja fixada por portaria conjunta do Ministro da Economia e do membro do Governo que tutela as autarquias.\n\nAssim:\n\nAo abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 267/2002, de 26 de Novembro:\n\nManda o Governo, pelos Ministros da Economia e das Cidades, Ordenamento do Território e Ambiente, o seguinte:"
+  },
+  "222587956": {
+   "fragment_id": "222639397",
+   "type": 11,
+   "heading": "1.º — Pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Pedido de licenciamento\n\nOs pedidos de licenciamento a que se refere o artigo 8.º do Decreto-Lei n.º 267/2002, de 26 de Novembro, são apresentados em requerimento dirigido à entidade licenciadora, devendo conter, nomeadamente, os seguintes elementos:\n\nIdentificação completa do requerente (nome ou razão social, morada ou sede, número fiscal de contribuinte, número de telefone e, se disponíveis, de fax e endereço de correio electrónico);\n\nLocalização da instalação a licenciar, indicando rua, freguesia e concelho;\n\nCaracterização da instalação (reservatório, parque de garrafas, posto de abastecimento ou outra);\n\nProdutos a armazenar e capacidades respectivas (capacidade e número de garrafas para o caso de armazenamento de gases de petróleo liquefeitos em taras);\n\nFim a que se destina (abastecimento público, próprio, reservas ou outro);\n\nIndicação do prazo de exploração previsto (máximo de 20 anos)."
+  },
+  "222587957": {
+   "fragment_id": "222639398",
+   "type": 11,
+   "heading": "2.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Documentação\n\nO requerimento será acompanhado de:\n\nDocumentos comprovativos do direito à utilização do terreno onde se pretende realizar a instalação;\n\nProjecto das instalações, constituído pela memória descritiva e peças desenhadas, em duplicado, mais uma cópia por cada uma das entidades a consultar;\n\nComprovativo do seguro de responsabilidade civil do projectista, previsto no n.º 6 do artigo 13.º do Decreto-Lei n.º 267/2002, de 26 de Novembro."
+  },
+  "222587958": {
+   "fragment_id": "222639399",
+   "type": 11,
+   "heading": "3.º — Técnico responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Técnico responsável\n\nNos termos do artigo 18.º do Decreto-Lei n.º 267/2002, os documentos que constituem o projecto são assinados por um projectista inscrito na Direcção-Geral da Energia, o qual deverá juntar declaração de conformidade do projecto com a regulamentação de segurança aplicável, designadamente a do sector dos combustíveis indicada no anexo n.º 1 a esta portaria e do modelo indicado no anexo n.º 2 a esta portaria."
+  },
+  "222587959": {
+   "fragment_id": "222639400",
+   "type": 11,
+   "heading": "4.º — Pareceres condicionantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Pareceres condicionantes\n\nQuando exigido pela legislação específica das áreas ambiental ou de segurança, deverão ser juntos os elementos previstos no artigo 11.º do Decreto-Lei n.º 267/2002, nos termos aí estabelecidos."
+  },
+  "222587960": {
+   "fragment_id": "222639401",
+   "type": 11,
+   "heading": "5.º — Memória descritiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Memória descritiva\n\nA memória descritiva enuncia o objectivo do projecto e caracteriza as instalações a construir, indicando, nomeadamente, quando aplicáveis, os seguintes dados:\n\na) Finalidade da instalação;\n\nb) Produtos a armazenar;\n\nc) Capacidade de cada reservatório e sua caracterização (ou, sendo um armazém de taras de GPL, número e capacidades das garrafas);\n\nd) Normas e códigos construtivos e de segurança a que obedece a instalação, os materiais e os acessórios;\n\ne) Equipamentos e disposições de segurança, higiene, salubridade e protecção ambiental;\n\nf) Para as instalações a que respeita o anexo I do Decreto-Lei n.º 267/2002, ou quando solicitado pela entidade licenciadora:\n\nDemonstração dos cálculos de resistência, de estabilidade e de fundações, assinada pelo respectivo responsável;\n\nPrincípios de funcionamento da instalação;\n\ng) Identificação dos interesses relevantes potencialmente afectados pela instalação (nomeadamente servidões ou valores arquitectónicos)."
+  },
+  "222587961": {
+   "fragment_id": "222639402",
+   "type": 11,
+   "heading": "6.º — Peças desenhadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — Peças desenhadas\n\nAs peças desenhadas, incluindo as plantas, os cortes e alçados apropriados, devem permitir uma adequada definição espacial das instalações e a identificação de todos os seus componentes, bem como a sua relação mútua e com a envolvente, compreendendo, conforme aplicável:\n\na) Planta topográfica, à escala de 1:10000 ou outra adequada, mostrando a localização da instalação;\n\nb) Planta geral de instalação, em escala não inferior a 1:1000, definindo com rigor os seus limites e as suas confrontações numa faixa de 100 m onde se identifiquem, pelo menos, as ruas e, numa faixa de 50 m adjacente à instalação, os edifícios habitados, ocupados ou que recebem público;\n\nc) Plantas, alçados e cortes, em escala não inferior a 1:100, que definam completamente a instalação e identifiquem todos os seus elementos relevantes (nomeadamente reservatórios, tubagens, válvulas, unidades de abastecimento, respiros e sistema de recuperação de gases, drenagens e sistemas de tratamento de águas residuais, conforme aplicável);\n\nd) Para as instalações a que respeita o anexo I do Decreto-Lei n.º 267/2002, ou quando solicitado pela entidade licenciadora, diagrama processual."
+  },
+  "222587962": {
+   "fragment_id": "222639403",
+   "type": 11,
+   "heading": "7.º — Verificação de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Verificação de conformidade\n\nA entidade licenciadora verifica a conformidade e suficiência da documentação, solicitando a junção de elementos em falta, ou complementares, nos termos previstos no artigo 8.º do Decreto-Lei n.º 267/2002 e, estando o processo devidamente instruído:\n\na) Emite as guias para pagamento da taxa prevista na alínea a) do n.º 1 do artigo 22.º do Decreto-Lei n.º 267/2002;\n\nb) Envia cópia do processo, ou das suas partes relevantes, às entidades a consultar, em conformidade e nos termos dos artigos 9.º e 10.º do mesmo diploma, tendo em atenção o disposto no número seguinte."
+  },
+  "222587963": {
+   "fragment_id": "222639404",
+   "type": 11,
+   "heading": "8.º — Entidades a consultar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º — Entidades a consultar\n\nSerão consultadas, sem prejuízo do disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 267/2002, as seguintes entidades:\n\na) Serviço Nacional de Bombeiros e Protecção Civil;\n\nb) No caso de projectos contemplados no anexo I do Decreto-Lei n.º 267/2002, o Ministério da Defesa Nacional, o Serviço Nacional de Bombeiros e Protecção Civil, o Centro Regional de Saúde Pública e a entidade com jurisdição sobre o local da instalação;\n\nc) No caso de projectos contemplados no anexo II do mesmo diploma, o Serviço Nacional de Bombeiros e Protecção Civil e as entidades com jurisdição sobre o local da instalação."
+  },
+  "222587964": {
+   "fragment_id": "222639405",
+   "type": 11,
+   "heading": "9.º — Publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º — Publicitação\n\nOs projectos dos anexos I e II do Decreto-Lei n.º 267/2002 que não sejam objecto de publicitação obrigatória em virtude da sujeição a outras disposições legais que a prevejam deverão ser publicitados em jornal com adequada difusão no local da instalação a licenciar, nos seguintes termos:\n\na) A entidade licenciadora emite edital caracterizando a instalação, indicando a localização e identificando o promotor;\n\nb) O edital fixará o prazo máximo de 20 dias após publicação para a recepção de reclamações pela entidade licenciadora;\n\nc) O edital será enviado pela entidade licenciadora ao promotor, o qual efectua a sua publicação, a suas expensas."
+  },
+  "222587965": {
+   "fragment_id": "222639406",
+   "type": 11,
+   "heading": "10.º — Vistoria inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º — Vistoria inicial\n\nTendo recebido o comprovativo de pagamento da taxa devida, a entidade licenciadora efectua a vistoria inicial, após prévia convocatória das entidades participantes, nos termos dos n.os 1 a 4 do artigo 12.º do Decreto-Lei n.º 267/2002, tendo em consideração o seguinte:\n\na) A vistoria inicial contará com a participação, pelo menos, do Serviço Nacional de Bombeiros e Protecção Civil, salvo se a entidade licenciadora dispensar a realização da vistoria inicial, tendo em atenção a dimensão do projecto e se considerar que a documentação apresentada pelo promotor proporciona informação suficiente;\n\nb) No caso de projectos contemplados no anexo I do Decreto-Lei n.º 267/2002, a vistoria é obrigatória, devendo ser efectuada por uma comissão para a qual, para além dos técnicos da entidade licenciadora, serão convocados representantes do Serviço Regional da Inspecção-Geral do Trabalho, do Centro Regional de Saúde Pública e do Serviço Nacional de Bombeiros e Protecção Civil, com a presença do projectista;\n\nc) No caso de projectos contemplados no anexo II do mesmo diploma, a vistoria pelos técnicos da entidade licenciadora é obrigatória, devendo ser efectuada com a presença do projectista, podendo ser constituída, se considerado necessária, uma comissão de vistoria para a qual também será convocado, pelo menos, o representante do Serviço Nacional de Bombeiros e Protecção Civil."
+  },
+  "222587966": {
+   "fragment_id": "222639407",
+   "type": 11,
+   "heading": "11.º — Decisão sobre o projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º — Decisão sobre o projecto\n\nA entidade licenciadora envia ao requerente a decisão sobre o projecto, nos termos previstos no artigo 13.º do mesmo diploma, para a qual terá em conta a análise do processo, os contributos das entidades consultadas, as reclamações apresentadas na sequência da publicação do edital previsto no n.º 9.º e as conclusões do auto de vistoria que tenha sido realizado, bem como os pareceres condicionantes exigíveis a que se refere o artigo 11.º do Decreto-Lei n.º 267/2002."
+  },
+  "222587967": {
+   "fragment_id": "222639408",
+   "type": 11,
+   "heading": "12.º — Licença de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º — Licença de construção\n\nA aprovação do projecto é condicionante para o pedido da licença de construção, ampliação ou alteração, a conceder pela câmara municipal competente, devendo, quando aplicável, ser presentes, adicionalmente, os elementos definidos nas Portarias n.os 1110/2001, de 19 de Setembro, e 1105/2001, de 18 de Setembro."
+  },
+  "222587968": {
+   "fragment_id": "222639409",
+   "type": 11,
+   "heading": "13.º — Seguros durante a obra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º — Seguros durante a obra\n\nO empreiteiro e o responsável técnico na obra pela execução do projecto estarão cobertos por apólice do seguro de responsabilidade civil, como previsto no n.º 6 do artigo 13.º do Decreto-Lei n.º 267/2002, nos termos seguintes:\n\na) Na falta de fixação do respectivo montante pela entidade licenciadora, a obrigação do empreiteiro considera-se suprida pelo seguro correspondente ao alvará que possua;\n\nb) Na falta de apólice de seguro respeitante ao responsável técnico na obra pela execução do projecto, considera-se que a respectiva responsabilidade é assumida pelo empreiteiro, nos mesmos termos."
+  },
+  "222587969": {
+   "fragment_id": "222639415",
+   "type": 11,
+   "heading": "14.º — Vistoria final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º — Vistoria final\n\nConcluída a construção, e tendo o promotor requerido à entidade licenciadora a vistoria final, como previsto no artigo 12.º do Decreto-Lei n.º 267/2002, a entidade licenciadora:\n\na) Emite as guias para pagamento da taxa correspondente, prevista no artigo 22.º do Decreto-Lei n.º 267/2002;\n\nb) Marca a data de realização da vistoria;\n\nc) Fixa o montante do seguro nos termos do n.º 3 do artigo 14.º do citado diploma;\n\nd) Convoca para a vistoria final pelo menos as entidades convocadas para a vistoria inicial."
+  },
+  "222587970": {
+   "fragment_id": "222639416",
+   "type": 11,
+   "heading": "15.º — Licença de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 15.º — Licença de exploração\n\nEfectuada a vistoria e tendo o promotor pago a respectiva taxa e feito prova da titularidade de apólice do seguro de responsabilidade civil, a entidade licenciadora emite a licença de exploração, nos termos do artigo 14.º do Decreto-Lei n.º 267/2002, a qual substitui a licença ou autorização de utilização prevista no regime jurídico da urbanização e da edificação."
+  },
+  "222587973": {
+   "fragment_id": "222639417",
+   "type": 11,
+   "heading": "16.º — Título de licença de exploração",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### 16.º — Título de licença de exploração\n\nO título de licença de exploração conterá, no mínimo, os seguintes elementos:\n\na) Identificação da entidade licenciadora;\n\nb) Identificação da legislação habilitante (nomeadamente o Decreto-Lei n.º 267/2002, de 26 de Novembro, e a presente portaria);\n\nc) Identificação da entidade licenciada (denominação da empresa e sede social);\n\nd) Identificação da entidade exploradora, no caso de armazenagem abastecedora de redes e ramais de distribuição de gás;\n\ne) Fixação do prazo da licença;\n\nf) Localização da instalação (lugar ou rua, freguesia, concelho);\n\ng) Caracterização da instalação (capacidade e identificação dos reservatórios e produtos armazenados, finalidade da instalação e outros elementos identificadores);\n\nh) Declaração expressa de que a instalação fica sujeita à legislação aplicável, nomeadamente às condições de segurança, de higiene e ambientais, bem como às condições eventualmente impostas pelas vistorias realizadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+  },
+  "222587974": {
+   "fragment_id": "222639419",
+   "type": 11,
+   "heading": "17.º — Licenciamento simplificado e isenção de licenciamento",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### 17.º — Licenciamento simplificado e isenção de licenciamento\n\n1 - As instalações qualificadas como classes A1, A2 e A3 nos termos do anexo iii do Decreto-Lei n.º 267/2002, de 26 de Novembro, alterado pelo Decreto-Lei n.º 389/2007, beneficiam do regime de licenciamento simplificado descrito nos artigos 18.º a 20.º deste diploma.\n\n2 - As instalações qualificadas como classes B1 e B2 nos termos do anexo iii do Decreto-Lei n.º 267/2002, de 26 de Novembro, alterado pelo Decreto-Lei n.º 389/2007, não estão sujeitas a licenciamento, não obstante o disposto no artigo 21.º\n\n3 - A aplicação das restantes disposições deste diploma às instalações das classes A1, A2 e A3 é efectuada com as adaptações compatíveis com o regime de licenciamento simplificado, bem como com as disposições do Decreto-Lei n.º 267/2002, de 26 de Novembro, relativas à obrigatoriedade de seguros de responsabilidade civil.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+  },
+  "222639978": {
+   "fragment_id": "222639420",
+   "type": 11,
+   "heading": "18.º — Licenciamento simplificado para instalações classe A1",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### 18.º — Licenciamento simplificado para instalações classe A1\n\n1 - Os pedidos de licenciamento para as instalações de classe A1 são apresentados à entidade licenciadora, devendo conter, nomeadamente, os seguintes elementos:\n\na) Requerimento, com identificação completa do requerente (nome ou razão social, morada ou sede, número fiscal de contribuinte, número de telefone e, se disponíveis, de fax e o endereço de correio electrónico);\n\nb) Documento comprovativo do direito à utilização do terreno onde se pretende realizar a instalação;\n\nc) Planta de localização à escala 1:10 000 ou outra adequada mostrando a localização da instalação;\n\nd) Descrição sumária da instalação, incluindo desenhos da implantação do(s) reservatório(s) e do traçado da rede de distribuição (se aplicável);\n\ne) Documento comprovativo de inscrição no Instituto da Construção e do Imobiliário (INCI) da entidade executora do projecto.\n\n2 - As instalações apenas são sujeitas à vistoria final prevista no n.º 14.º, efectuada pela entidade licenciadora, a qual emite a respectiva licença de exploração, prevista no n.º 15.º, e comunica à Autoridade Nacional de Protecção Civil a localização e a entrada em exploração da mesma.\n\n3 - O requerimento da vistoria final deve ser acompanhado de:\n\na) Identificação da entidade exploradora das instalações, reconhecida pela DGEG, quando tal for exigível pelo Decreto-Lei n.º 125/97, de 23 de Maio;\n\nb) Para os equipamentos sob pressão, certificado de aprovação, nos termos do Decreto-Lei n.º 97/2000, de 25 de Maio;\n\nc) Termo de responsabilidade pela execução das instalações.\n\n4 - A vistoria final referida no número anterior poderá ser executada por uma EI, nos termos de protocolo ou contrato, que defina a sua actuação, estabelecido entre a EI e a entidade licenciadora.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+  },
+  "222639982": {
+   "fragment_id": "222639421",
+   "type": 11,
+   "heading": "19.º — Licenciamento simplificado para instalações classe A2",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### 19.º — Licenciamento simplificado para instalações classe A2\n\n1 - Os pedidos de licenciamento para as instalações de classe A2 são apresentados à entidade licenciadora, devendo conter, nomeadamente, os seguintes elementos:\n\na) Requerimento com identificação completa do requerente (nome ou razão social, morada ou sede, número fiscal de contribuinte, número de telefone e, se disponíveis, de fax e o endereço de correio electrónico);\n\nb) Documento comprovativo do direito à utilização do terreno onde se pretende realizar a instalação;\n\nc) Planta de localização à escala 1:10 000 ou outra adequada mostrando a localização da instalação;\n\nd) Projecto da instalação com memória descritiva e desenho de implantação dos reservatórios e traçado da rede (se aplicável);\n\ne) Declaração de conformidade pelo projecto emitido por técnico projectista inscrito na DGEG;\n\nf) Documento comprovativo de inscrição no INCI, da entidade executora do projecto.\n\n2 - As instalações são apenas sujeitas à vistoria final prevista no n.º 14.º, efectuada pela entidade licenciadora, a qual emite a respectiva licença de exploração, prevista no n.º 15.º, e comunica à Autoridade Nacional de Protecção Civil a localização e a entrada em exploração da mesma.\n\n3 - O requerimento de vistoria final deve ser acompanhado de:\n\na) Indicação da entidade exploradora das instalações reconhecida pela DGEG quando tal for exigível pelo Decreto-Lei n.º 125/97, de 23 de Maio;\n\nb) Para os equipamentos sob pressão, certificado de aprovação, nos termos do Decreto-Lei n.º 97/2000, de 25 de Maio;\n\nc) Termo de responsabilidade pela execução das instalações.\n\n4 - A vistoria final referida no número anterior pode ser executada por uma EI, mediante protocolo ou contrato, que defina a sua actuação, estabelecido entre as EI e as entidades licenciadoras.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+  },
+  "222639986": {
+   "fragment_id": "222639422",
+   "type": 11,
+   "heading": "20.º — Licenciamento simplificado para instalações classe A3",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### 20.º — Licenciamento simplificado para instalações classe A3\n\n1 - O proprietário das instalações de classe A3 deve apresentar na respectiva câmara municipal um processo constituído pelos seguintes elementos referentes à instalação:\n\na) Requerimento, com identificação completa do requerente (nome ou razão social, morada ou sede, número fiscal de contribuinte, número de telefone e, se disponíveis, de fax e o endereço de correio electrónico);\n\nb) Documento comprovativo do direito à utilização do terreno onde se pretende realizar a instalação;\n\nc) Planta de localização à escala 1:10 000 ou outra adequada mostrando a localização da instalação;\n\nd) Ficha técnica da instalação com indicação da capacidade prevista, das regras de segurança previstas nas Portarias n.os 451/2001, de 5 de Maio, e 460/2001, de 8 de Maio.\n\n2 - O requerimento de vistoria final deve ser acompanhado da identificação da entidade exploradora das instalações reconhecida pela DGEG quando tal for exigível pelo Decreto-Lei n.º 125/97, de 23 de Maio.\n\n3 - As instalações são apenas sujeitas à vistoria final prevista no n.º 14.º, efectuada pela entidade licenciadora, a qual emite a respectiva licença de exploração, prevista no n.º 15.º, e comunica à Autoridade Nacional de Protecção Civil a localização e a entrada em exploração da mesma.\n\n4 - A vistoria final referida no número anterior pode ser executada por uma EI, mediante protocolo ou contrato, que defina a sua actuação, estabelecido entre as EI e as entidades licenciadoras.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14"
+  },
+  "222639990": {
+   "fragment_id": "222639423",
+   "type": 11,
+   "heading": "21.º — Instalações não sujeitas a licenciamento",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14."
+   ],
+   "markdown": "###### 21.º — Instalações não sujeitas a licenciamento\n\n1 - As instalações de classes B1 e B2, sem prejuízo do cumprimento dos regulamentos de segurança aplicáveis, não ficam sujeitas a licenciamento.\n\n2 - Não obstante o disposto no número anterior, o proprietário das instalações de classe B2 deve entregar na respectiva câmara municipal um processo, constituído pelos seguintes elementos referentes à instalação:\n\na) Identificação do proprietário, localização da instalação e direito à utilização do terreno;\n\nb) Caracterização da instalação;\n\nc) Certificado de inspecção das instalações emitido por uma EI (entidade inspectora) reconhecida pela Direcção-Geral de Energia e Geologia (DGEG) respeitante ao cumprimento das regras de segurança;\n\nd) Indicação da entidade exploradora das instalações reconhecida pela DGEG, quando tal for exigível pelo Decreto-Lei n.º 125/97, de 23 de Maio;\n\ne) Para o equipamento sob pressão, certificado de aprovação da instalação, nos termos do Decreto-Lei n.º 97/2000, de 25 de Maio.\n\n3 - O processo referido no número anterior deve ser entregue antes do início da exploração.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 1515/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/1515-2007-628827), em vigor a partir de 2008-01-14."
+  },
+  "222639991": {
+   "fragment_id": "222366906",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 21 de Setembro de 2003.\n\nPelo Ministro da Economia, Franquelim Fernando Garcia Alves, Secretário de Estado Adjunto do Ministro da Economia. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias."
+  },
+  "222639992": {
+   "fragment_id": "222366907",
+   "type": 14,
+   "heading": "ANEXO N.º 1 — Regulamentos de segurança, da área dos combustíveis, aplicáveis aos projectos contemplados nesta portaria (lista não exaustiva).",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO N.º 1 — Regulamentos de segurança, da área dos combustíveis, aplicáveis aos projectos contemplados nesta portaria (lista não exaustiva).\n\nArmazenagem de gases de petróleo liquefeitos em taras (garrafas) - Regulamento de Segurança Relativo à Construção, Exploração e Manutenção de Parques de Garrafas de Gases de Petróleo Liquefeito (GPL), aprovado pela Portaria n.º 451/2001, de 5 de Maio.\n\nArmazenagem de gases de petróleo liquefeitos em reservatórios com capacidade até 200 m3 por reservatório - Regulamento de Segurança das Instalações de Armazenagem de Gases de Petróleo Liquefeito (GPL) com capacidade até 200 m3 por recipiente, aprovado pela Portaria n.º 460/2002, de 8 de Maio.\n\nArmazenagem de gases de petróleo liquefeitos em reservatórios com capacidade superior a 200 m3 por reservatório - regulamento de segurança das instalações de armazenagem e tratamento industrial de petróleos brutos, seus derivados e resíduos, aprovado pelo Decreto n.º 36270, de 9 de Maio de 1947.\n\nEquipamentos sob pressão para armazenagem de gases de petróleo liquefeito - Regulamento de Instalação, Funcionamento, Reparação e Alteração de Equipamentos sob Pressão, aprovado pelo Decreto-Lei n.º 97/2000, de 25 de Maio, e instruções técnicas complementares para reservatórios de gases liquefeitos, aprovadas pelo despacho n.º 22333/2001 (2.ª série), de 30 de Outubro.\n\nInstalações de armazenagem de combustíveis líquidos e outros derivados do petróleo - regulamento de segurança das instalações de armazenagem e tratamento industrial de petróleos brutos, seus derivados e resíduos, aprovado pelo Decreto n.º 36270, de 9 de Maio de 1947.\n\nPostos de abastecimento de combustíveis - novo quadro legal para a aplicação do Regulamento de Construção e Exploração de Postos de Abastecimento de Combustíveis, aprovado pelo Decreto-Lei n.º 302/2001, de 23 de Novembro, e Regulamento de Construção e Exploração de Postos de Abastecimento de Combustíveis, aprovado pela Portaria n.º 131/2002, de 9 de Fevereiro."
+  },
+  "222639993": {
+   "fragment_id": "222366908",
+   "type": 14,
+   "heading": "ANEXO N.º 2 — Modelo de declaração de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO N.º 2 — Modelo de declaração de conformidade\n\n... (ver nota 1), ... (ver nota 2), portador do bilhete de identidade n.º ..., emitido pelo arquivo de ..., em ..., contribuinte n.º ..., morador na Rua ..., n.º ..., ... (código postal), concelho de ..., inscrito na Direcção-Geral da Energia nos termos do disposto no artigo 18.º do Decreto-Lei n.º 267/2002, de 26 de Novembro, sob o n.º ..., declara, nos termos legais e para efeitos do disposto no mesmo artigo do citado diploma, que o projecto de ... (ver nota 3), relativo a uma instalação a levar a efeito em ... (ver nota 4), cujo licenciamento é requerido por ... (ver nota 5), observa as normas técnicas gerais e regulamentares aplicáveis.\n\n(Local e data.)\n\nO Técnico, ... (assinatura).\n\n(nota 1) Nome do técnico.\n\n(nota 2) Engenheiro/engenheiro técnico.\n\n(nota 3) Construção, reconstrução, ampliação, alteração (escolher a situação em causa).\n\n(nota 4) Local da instalação.\n\n(nota 5) Nome do requerente."
+  }
+ }
+}

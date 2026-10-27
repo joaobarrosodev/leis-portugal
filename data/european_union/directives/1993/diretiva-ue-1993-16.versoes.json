@@ -1,0 +1,629 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0016:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0016-20071020",
+ "dre_path": null,
+ "source_lastmod": "2007-10-20",
+ "versions": [
+  {
+   "date": "1993-07-07",
+   "future": false,
+   "celex": "31993L0016",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "974581bb614f384d",
+    "502911136c092d40",
+    "8007f9090168b279",
+    "2decc97c474dd6f9",
+    "14d710ec36fc23a2",
+    "b2003a8f0179565c",
+    "e729672b96da7165",
+    "5bc9aee881417936",
+    "56c712076ecb3326",
+    "616537895fabe0ed",
+    "d8a78c90fdbcd3f6",
+    "64aca700b459ae32",
+    "ffb5c4a91996bb08",
+    "caac9ed81aa1d813",
+    "f4458ecf6a41804a",
+    "c773f9579156c661",
+    "484dc908255e62dd",
+    "562322174977dfed",
+    "f6685f5b23cbfc17",
+    "f3ef694aa4702cd2",
+    "0483a9fe0ba74f51",
+    "325973a2ee0b7173",
+    "94820a47bf638266",
+    "93533240a260271c",
+    "783488a27fcbe6d9",
+    "45cedbcef83f3808",
+    "7f63cffb6594a27f",
+    "26d2e8792bcd25f9",
+    "72494b16956b51e9",
+    "e6a2c589fc8fb981",
+    "c5994f47f2b2839a",
+    "9a9a61a2d000e7dc",
+    "b01eb5f7f10159ed",
+    "560a5fc5f4d811a6",
+    "e2b49087da0ee0f3",
+    "ea5437ce71fbca5e",
+    "32dd159d536bfb20",
+    "cf5d989cab36dceb",
+    "4a5fc3a288ee79e8",
+    "d720ccac4df6b333",
+    "c03bf7ccb0a27f5c",
+    "63fbfbb42c6d794c",
+    "b59dc23e9e1f11be",
+    "1ba8c9ca474be93c",
+    "5b903f595d879bb7",
+    "e77860b79d9d2d53",
+    "d53e364287955e77",
+    "f923e52d97c72b74",
+    "fa93d6e86eaeef31",
+    "a8f57cf8ae27b1a5",
+    "c82c2018cd693b93",
+    "4d4bf7b80fbe11fb",
+    "061aa96a9d4c2361",
+    "e5caca4f95dc7acf",
+    "2d64a2081457ae3e",
+    "419627b567823893",
+    "f6edc4ca2a3ad0f7"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01993L0016-20070101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I ÂMBITO DE APLICAÇÃO — Artigo 1o",
+    "Suprime TÍTULO II RECONHECIMENTO MÚTUO DOS DIPLOMAS, CERTIFICADOS E OUTROS — TÍTULOS DE MÉDICO CAPÍTULO I",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime CAPÍTULO IV — DIREITOS ADQUIRIDOS",
+    "Suprime Artigo 9o",
+    "Suprime CAPÍTULO V — USO DO",
+    "Suprime TÍTULO DE FORMAÇÃO — Artigo 10o",
+    "Suprime CAPÍTULO VI — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DE LIVRE PRESTAÇÃO DE SERVIÇOS DO MÉDICO",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o",
+    "Suprime Artigo 25o",
+    "Suprime Artigo 26o",
+    "Suprime Artigo 27o",
+    "Suprime Artigo 28o",
+    "Suprime Artigo 29o",
+    "Suprime TÍTULO IV FORMAÇÃO ESPECÍFICA EM MEDICINA GERAL — Artigo 30o",
+    "Suprime Artigo 31o",
+    "Suprime Artigo 32o",
+    "Suprime Artigo 33o",
+    "Suprime Artigo 34o",
+    "Suprime Artigo 35o",
+    "Suprime Artigo 36o",
+    "Suprime Artigo 37o",
+    "Suprime Artigo 38o",
+    "Suprime Artigo 39o",
+    "Suprime Artigo 40o",
+    "Suprime Artigo 41o",
+    "Suprime TÍTULO V DIPOSIÇÕES FINAIS — Artigo 42o",
+    "Suprime Artigo 43o",
+    "Suprime Artigo 44o",
+    "Suprime Artigo 45o",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III — Parte A Directivas revogadas",
+    "Suprime Parte B Lista dos prazos de transposição para o direito nacional",
+    "Suprime ANEXO IV — /* Quadros: ver JO */"
+   ],
+   "fragments": [
+    "f8c9f63f65459462"
+   ]
+  },
+  {
+   "date": "2007-10-20",
+   "future": false,
+   "celex": "01993L0016-20071020",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "8d6da5c0196d897f"
+   ]
+  }
+ ],
+ "fragments": {
+  "974581bb614f384d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/16/CEE do Conselho, de 5 de Abril de 1993, destinada a facilitar a livre circulação dos médicos e o reconhecimento mútuo dos seus diplomas, certificados e outros títulos** *Jornal Oficial nº L 165 de 07/07/1993 p. 0001 - 0024 Edição especial finlandesa: Capítulo 6 Fascículo 4 p. 0102 Edição especial sueca: Capítulo 6 Fascículo 4 p. 0102*\n\nDIRECTIVA 93/16/CEE DO CONSELHO de 5 de Abril de 1993 destinada a facilitar a livre circulação dos médicos e o reconhecimento mútuo dos seus diplomas, certificados e outros títulos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 49o, os nos 1 e 2, primeira e terceira frases, do seu artigo 57o e o seu artigo 66o,\n\nTendo em conta a proposta da Comissão;\n\nEm cooperação com o Parlamento Europeu(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nConsiderando que as directivas 75/362/CEE do Conselho, de 16 de Junho de 1975, que tem por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos de médico e que inclui medidas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços(3) e 75/363/CEE do Conselho, de 16 de Junho de 1975, que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de médico(4) foram alteradas várias vezes e de modo substancial; que, por isso e por questões de lógica e clareza, convém codificar essas directivas; que, além disso, ao agrupar as referidas directivas num único texto, convém nele incorporar a Directiva 86/457/CEE do Conselho, de 15 de Dezembro de 1986, relativa a uma formação específica em medicina geral(5);\n\nConsiderando que, nos termos do Tratado, é proibido após o termo do período de transição, qualquer tratamento discriminatório em razão da nacionalidade em matéria de estabelecimento e de prestação de serviços; que este princípio do tratamento nacional se aplica, nomeadamente, à concessão das autorizações eventualmente exigidas para o acesso às actividades de médico, bem como para a inscríção ou filiação em organizações ou organismos profissionais;\n\nConsiderando que é, no entanto, oportuno estabelecer normas destinadas a facilitar o exercício efectivo do direito de estabelecimento e da livre prestação de serviços dos médicos;\n\nConsiderando que, nos termos do Tratado, os Estados-membros não devem conceder qualquer auxílio susceptível de falsear as condições de estabelecimento;\n\nConsiderando que o no 1 do artigo 57o do Tratado prevê a adopção de directivas que tenham por objectivo o reconhecimento mútuo dos diplomas, certificados e outros títulos; que a presente directiva tem por objectivo o reconhecimento dos diplomas, certificados e outros títulos de médico que dão acesso ao exercício da medicina, bem como dos diplomas, certificados e outros títulos de médico especialista;\n\nConsiderando que, relativamente à formação de médico especialista, é conveniente proceder ao reconhecimento mútuo dos títulos de formação quando estes, sem constituírem condição de acesso à actividade de médico especialista, constituem, todavia, condição do uso de um título de especialização;\n\nConsiderando que a evolução das legislações dos Estados-membros torna necessárias diversas alterações de ordem técnica a fim de ter em conta, nomeadamente, as alterações na denominação dos diplomas, certificados e outros títulos dessas profissões ou na denominação de determinadas especialidades médicas, bem como a criação de algumas especialidades médicas novas ou o abandono de certas especialidades médicas antigas ocorridas em alguns Estados-membros;\n\nConsiderando que é conveniente prever disposições relativas aos direitos adquiridos no que respeita aos diplomas, certificados e outros títulos de médico, concedidos pelos Estados-membros aprovando as formações iniciadas antes da data de início de aplicação da presente directiva;\n\nConsiderando que, no que respeita ao uso do título de formação, e pelo facto de uma directiva de reconhecimento mútuo de diplomas não implicar necessariamente a equivalência material das formações a que tais diplomas se referem, é conveniente autorizar apenas o seu uso na língua do Estado-membro de origem ou de proveniência;\n\nConsiderando que, para facilitar a aplicação da presente directiva pelas administrações nacionais, os Estados-membros podem determinar que os interessados que preencham as condições de admissão por estas exigidas, apresentem, juntamente com o respectivo título de formação, um atestado das autoridades competentes do Estado-membro de origem ou de proveniência, comprovando que tais títulos são os referidos na presente directiva;\n\nConsiderando que a presente directiva não prejudica as disposições legislativas, regulamentares e administrativas dos Estados-membros que vedam às sociedades o exercício de actividade de médico ou submetem tal exercício a determinadas condições;\n\nConsiderando que, em caso de prestação de serviços, a exigência da inscrição ou filiação em organizações ou organismos profissionais, que está ligada ao carácter estável e permanente da actividade exercida no país de acolhimento, constituiria incontestavelmente um obstáculo para o prestador de serviços, em virtude do carácter temporário da sua actividade; que é conveniente, portanto, afastá-la; que é necessário, contudo, neste caso, assegurar o controlo da disciplina profissional que compete a tais organizações ou organismos profissionais; que é conveniente prever, para o efeito, e sem prejuízo do disposto no artigo 62o do Tratado, a possibilidade de impor ao interessado a obrigação de notificar a prestação de serviços à autoridade competente do Estado-membro de acolhimento;\n\nConsiderando que, em matéria de moralidade e de honorabilidade, é conveniente distinguir as condições exigíveis, por um lado, para o primeiro acesso à profissão e, por outro lado, para o seu exercício;\n\nConsiderando que, tendo em vista o reconhecimento mútuo dos diplomas, certificados e outros títulos de médico especialista a fim de colocar todos os profissionais nacionais dos Estados-membros em plano de igualdade na Comunidade, se afigura necessária uma certa coordenação das condições de formação do médico especialista; que é conveniente prever, para o efeito, critérios mínimos relativos quer ao acesso à formação especializada quer à duração mínima desta, ao seu modo de ensino e ao lugar onde deve ser efectuada, bem como ao controlo a que deve ser submetida; que tais critérios só dizem respeito às especialidades comuns a todos os Estados-membros ou a dois ou mais Estados-membros;\n\nConsiderando que a coordenação das condições de exercício prevista na presente directiva não exclui uma coordenação ulterior;\n\nConsiderando, por outro lado, ser presentemente reconhecida, de forma quase generalizada, a necessidade de uma formação específica para o médico generalista, que deve prepará-lo para melhor cumprir uma função que lhe é própria; que essa função, que assenta em grande parte no seu conhecimento pessoal do ambiente dos seus doentes, consiste em dar conselhos relativamente à prevenção de doenças e à protecção da saúde do indivíduo considerado como um todo, bem como em ministrar os tratamentos adequados;\n\nConsiderando que essa necessidade de uma formação específica em medicina geral resulta, nomeadamente, do facto de o desenvolvimento que se verificou nas ciências médicas ter provocado um desvio cada vez mais acentuado entre, por um lado, a investigação e o ensino médico e, por outro, a prática da medicina geral, de modo que há aspectos importantes da medicina geral que já não podem ser ensinados de forma satisfatória no âmbito da formação médica tradicional de base dos Estados-membros;\n\nConsiderando que, para além das vantagens que daí advirão para os doentes, é igualmente reconhecido que uma melhor adaptação do médico generalista à sua função específica contribuirá para melhorar o sistema de prestação de cuidados, nomeadamente tornando mais selectivo o recurso aos médicos especialistas, aos laboratórios e outros estabelecimentos e equipamentos altamente especializados;\n\nConsiderando que a melhoria da formação em medicina geral é susceptível de revalorizar a função do médico generalista;\n\nConsiderando, no entanto, que embora pareça irreversível, este movimento se desenvolve segundo ritmos diferentes nos Estados-membros; que é conveniente, sem precipitar de forma intempestiva as evoluções em curso, assegurar a sua convergência por etapas sucessivas na perspectiva de uma formação adequada dos médicos generalistas que satisfaça as exigências específicas do exercício da medicina geral;\n\nConsiderando que, para assegurar a execução progressiva desta reforma, se mostra necessário, numa primeira fase, criar em cada Estado-membro uma formação específica em medicina geral que satisfaça certas exigências mínimas tanto do ponto de vista qualitativo como do ponto de vista quantitativo e que complete a formação mínima de base que o médico deve ter nos termos da presente directiva; que é irrelevante que essa formação em medicina geral seja dispensada no âmbito da formação de base do médico na acepção do direito nacional, ou fora desse âmbito; que, numa segunda fase, convém além disso prever que o exercício da actividade de médico enquanto generalista, no âmbito de um regime de segurança social, deva ser subordinado à posse de uma formação específica em medicina geral; que, finalmente, devem ser posteriormente feitas novas propostas para completar a reforma;\n\nConsiderando que a presente directiva não afecta a competência dos Estados-membros para organizar o respectivo regime nacional de segurança social e para determinar quais as actividades que devem ser exercidas no âmbito desse regime;\n\nConsiderando que a coordenação das condições mínimas de concessão de diplomas, certificados e outros títulos comprovativos da formação específica em medicina geral, realizada pela presente directiva, permite aos Estados-membros proceder ao reconhecimento mútuo desses diplomas, certificados e outros títulos;\n\nConsiderando que, por força da presente directiva, um Estado-membro de acolhimento não tem o direito de exigir aos médicos titulares de diplomas obtidos noutro Estado-membro e reconhecidos ao abrigo da referida directiva qualquer formação complementar para o exercício da actividade de médico no âmbito de um regime de segurança social, mesmo que exija tal formação aos titulares de diplomas de médico obtidos no seu território; que esse efeito da presente directiva não pode cessar no que diz respeito ao exercício da medicina geral no âmbito da segurança social antes de 1 de Janeiro de 1995, data em que a presente directiva obriga todos os Estados-membros a subordinar o exercício da actividade de médico generalista, no âmbito dos seus regimes de segurança social, à posse da formação específica em medicina geral; que os médicos que se tiverem estabelecido antes dessa data nos termos da presente directiva devem ter um direito adquirido de exercer a actividade de médico generalista no âmbito do regime de segurança social do Estado-membro de acolhimento, mesmo que não tenham formação específica em medicina geral;\n\nConsiderando que a coordenação prevista na presente directiva diz respeito à formação profissional dos médicos; que, no que respeita à formação, a maioria dos Estados-membros não faz, actualmente, distinção entre os médicos que exercem a sua actividade como assalariados e os que a exercem como independentes; que, em matéria de moralidade e de honorabilidade, de disciplina profissional e de uso de um título, segundo os Estados-membros, as regulamentações em causa são ou podem ser aplicáveis tanto aos assalariados como aos não assalariados; que as actividades de médico estão subordinadas em todos os Estados-membros à posse de um diploma, certificado ou outro título de médico; que tais actividades são exercidas tanto por independentes como por assalariados, ou ainda, alternadamente, na qualidade de assalariado e não assalariado, pelas mesmas pessoas, no decurso da respectiva carreira profissional; que para favorecer plenamente a livre circulação destes profissionais na Comunidade, é, consequentemente, necessário tornar extensiva aos médicos assalariados a aplicação da presente directiva;\n\nConsiderando que a presente directiva não deve prejudicar as obrigações dos Estados-membros relativas aos prazos de transposição que figuram no anexo B,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "502911136c092d40": {
+   "fragment_id": "TÍTULO I ÂMBITO DE APLICAÇÃO — Artigo 1o",
+   "type": "divisao",
+   "heading": "TÍTULO I ÂMBITO DE APLICAÇÃO — Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I ÂMBITO DE APLICAÇÃO — Artigo 1o\n\nA presente directiva é aplicável às actividades de médico exercidas a título independente ou assalariado pelos nacionais dos Estados-membros."
+  },
+  "8007f9090168b279": {
+   "fragment_id": "TÍTULO II RECONHECIMENTO MÚTUO DOS DIPLOMAS, CERTIFICADOS E OUTROS — TÍTULOS DE MÉDICO CAPÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO II RECONHECIMENTO MÚTUO DOS DIPLOMAS, CERTIFICADOS E OUTROS — TÍTULOS DE MÉDICO CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II RECONHECIMENTO MÚTUO DOS DIPLOMAS, CERTIFICADOS E OUTROS — TÍTULOS DE MÉDICO CAPÍTULO I\n\nDIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS DE MÉDICO"
+  },
+  "2decc97c474dd6f9": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nCada Estado-membro reconhecerá os diplomas, certificados e outros títulos concedidos aos nacionais dos Estados-membros pelos outros Estados-membros nos termos do artigo 23o e enumerados no artigo 3o da presente directiva, atribuindo-lhes, no que respeita ao acesso às actividades de médico e ao seu exercício, o mesmo efeito, no seu território, que o conferido aos diplomas, certificados e outros títulos que ele próprio concede."
+  },
+  "14d710ec36fc23a2": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs diplomas, certificados e outros títulos referidos no artigo 2o são:\n\na) Na Bélgica:\n\n«Diplôme légal de docteur en médicine, chirurgie et accouchements/Wettelijk diploma van doctor in de genees-, heel- en verloskunde» (diploma legal de doutor em medicina, cirurgia e partos) conferido pelas faculdades de medicina das universidades ou pelo Júri Central ou Júris de Estado do ensino universitário;\n\nb) Na Dinamarca:\n\n«Bevis for bestaaet laegevidenskabelig embodseksamen» (diploma legal de medicina), conferido pela faculdade de medicina de uma universidade, bem como «dockumentation for gennemfoert praktisk uddannelse» (certificado de estágio), emitido pelas autoridades competentes dos serviços de saúde;\n\nc) Na Alemanha:\n\n1. «Zeugnis ueber die aerztliche Staatspruefung» (certificado de exame de Estado de médico), emitido pelas autoridades competentes, e «Zeugnis ueber die Vorbereitungszeit als Medizinalassistent» (certificado comprovativo do cumprimento do período preparatório como assistente médico) na medida em que a legislação alemã prevê ainda tal período para completar a formação médica;\n\n2. «Zeugnis ueber die aerztliche Staatspruefung» (certificado de exame de Estado de médico) emitido pelas autoridades competentes após 30 de Junho de 1988 e o atestado comprovativo do exercício da actividade de médico durante um período de estágío («Arzt im Praktikum»);\n\nd) Na Grécia:\n\n«Rtychio Iatrikis» (diploma de licenciatura em medicina) emitido pela:\n\n- faculdade de medicina de uma universidade,\n\nou\n\n- pela faculdade de ciências da saúde, departamento de medicina, de uma universidade;\n\ne) Em Espanha:\n\n«Título de Licenciado en Medicina y Cirugía» (título de licenciado em medicina e cirurgia) emitido pelo Ministério da Educação e da Ciência ou pelo reitor de uma universidade;\n\nf) Em França:\n\n1. «Diplôme d'État de docteur en médecine» (diploma de Estado de doutor em medicina), conferido pelas faculdades de medicina ou pelas faculdades mistas de medicina e de farmácia das universidades ou pelas universidades;\n\n2. «Diplôme d'université de docteur en médecine» (diploma universitário de doutor em medicina) na medida em que este certifique o mesmo ciclo de formação que o previsto para o diploma de Estado de doutor em medicina;\n\ng) Na Irlanda:\n\n«Primary qualification» (certificado comprovativo de conhecimentos básicos), emitido na Irlanda após aprovação num exame de qualificação prestado perante júri competente e certificado relativo à experiência adquirida, emitido pelo mesmo júri, certificados esses que autorizam o registo na qualidade de «fully registered medical practitioner» (médico generalista);\n\nh) Na Itália:\n\n«Diploma di laurea in medicina e chirurgia» (diploma de licenciatura em medicina e cirurgia) emitido pela universidade e acompanhado do «diploma di abilitazione all'esercizio della medicina e chirurgia» (diploma de habilitação para o exercício da medicina e da cirurgia) emitido pela comissão de exame de Estado;\n\ni) No Luxemburgo:\n\n«Diplôme d'État de docteur en médecine, chirurgie et accouchements» (diploma de Estado de doutor em medicina, cirurgia e partos) emitido pelo júri de exame de Estado, visado pelo ministro da Educação Nacional, e «certificat de stage» (certificado de estágio) visado pelo ministro da Saúde Pública;\n\nj) Nos Países Baixos:\n\n«Universitair getuigschrift van arts» (certificado universitário de médico);\n\nk) Em Portugal:\n\n«Carta de curso de licenciatura em Medicina», emitida por uma universidade, bem como o diploma comprovativo da conclusão do internato geral, emitido pelas autoridades competentes do Ministério da Saúde.\n\nl) No Reino Unido:\n\n«Primary qualification» (certificado comprovativo dos conhecimentos básicos), emitido no Reino Unido após a realização de exame de qualificação prestado perante júri competente e certificado relativo à experiência, passado pelo mesmo júri, certificados esses que autorizam o registo na qualidade de «fully registered medical practitioner» (médico generalista)."
+  },
+  "b2003a8f0179565c": {
+   "fragment_id": "CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — DIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS DE MÉDICO ESPECIALISTA COMUNS A TODOS OS ESTADOS-MEMBROS"
+  },
+  "e729672b96da7165": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros reconhecerão os diplomas, certificados e outros títulos de médico especialista concedidos aos nacionais dos Estados-membros por outros Estados-membros nos termos dos artigos 24o, 25o, 26o e 29o referidos no artigo 5o, conferindo-lhes o mesmo efeito, no seu território, que o conferido aos diplomas, certificados e outros títulos por ele próprio concedidos."
+  },
+  "5bc9aee881417936": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os diplomas, certificados e outros títulos referidos no artigo 4o são os que, emitidos pelas autoridades ou organismos competentes indicados no no 2, correspondem, para a formação especializada em causa, às denominações em vigor nos diferentes Estados-membros e enumeradas no no 3.\n\n2. Os diplomas, certificados e outros títulos emitidos pelas autoridades ou organismos competentes referidos no no 1 são os seguintes:\n\nNa Bélgica:\n\n«Titre d'agrégation en qualité de médecin spécialiste/erkenningstitel van geneesheer specialist» (título de aprovação na qualidade de médico especialista) emitido pelo ministro responsável pelo pelouro da saúde pública;\n\nNa Dinamarca:\n\n«Bevis for tilladelse til at betegne sig som speciallaege» (certificado conferindo o título de médico especialista) emitido pelas autoridades competentes dos serviços de saúde;\n\nNa Alemanha:\n\n«Fachaerztliche Anerkennung» (certificado de especialização médica) emitido pela «Landesaerztekammern» (Câmara dos Médicos do respectivo Land);\n\nNa Grécia:\n\n«Titlos Iatrikis eidikotitas» (título de especialização em medicina) emitido pelas «Nomarchies» (circunscrições administrativas);\n\nEm Espanha:\n\n«Título de Especialista» (título de especialista), emitido pelo Ministério da Educação e da Ciência;\n\nEm França:\n\n- «Le certificat d'études spéciales de médecine» (certificado de estudos especiais de medicina) emitido pela faculdade de medicina, pelas faculdades mistas de medicina e de farmácia das universidades ou pelas universidades,\n\n- «L'attestation de médecin spécialiste qualifié» (certificado de médico especialista qualificado) passada pelo conselho da Ordem dos Médicos,\n\n- «Le certificat d'études spéciales de médecine» (certificado de estudos especiais de medicina), emitido pela faculdade de medicina ou pelas faculdades mistas de medicina e de farmácia das universidades ou a equivalência de tais certificados concedida por despacho do ministro da Educação Nacional,\n\n- «Le diplôme d'études spécialisées de médecine» (diploma de estudos especializados de medicina) emitido pelas universidades;\n\nNa Irlanda:\n\n«Certificate of specialist doctor» (diploma de médico especialista), emitido pela autoridade competente habilitada para tal efeito pelo ministro da Saúde Pública.\n\nNa Itália:\n\n«Diploma di medico specialista» (diploma de médico especialista), concedido pelo reitor de uma universidade;\n\nNo Luxemburgo\n\n«Le certificat de médecin spécialiste» (certificado de médico especialista) emitido pelo ministro da Saúde Pública sob parecer do Colégio Médico;\n\nNos Países Baixos:\n\n- «Getuigschrift van erkenning en inschrijving in het Specialistenregister» (certificado de agregação e de inscrição no registo de especialistas) emitido pela «Specialisten-Registratiecomissie (SRC)» (comissão de registo de especialistas),\n\n- «Getuigschrift van erkenning en inschrijving in het Register van Sociaal-Geneeskundigen» (certificado de aprovação e inscrição no registo dos médicos de medicina social) emitido pela «Sociaal-Geneeskundigen Registratie-Comissie (SGRC)» (comissão de registo dos médicos de medicina social);\n\nEm Portugal:\n\nGrau de assistente, conferido pelas autoridades competentes do Ministério da Saúde, ou título de especialista emitido pela Ordem dos Médicos.\n\nNo Reino Unido:\n\n«Certificate of completion of specialist training» (certificado de formação especializada), emitido pela autoridade competente habilitada para o efeito.\n\n3. As denominações em vigor nos Estados-membros, correspondentes às formações especializadas em causa, são as seguintes:\n\n- anestesiologia:\n\nBélgica: anesthésiologie/anesthesiologie\n\nDinamarca: anaestesiologi\n\nAlemanha: Anaesthesiologie\n\nGrécia: anaisthisiologia\n\nEspanha: anestesiología y reanimación\n\nFrança: anesthésiologie - réanimation chirurgicale\n\nIrlanda: anaesthetics\n\nItália: anestesia e rianimazione\n\nLuxemburgo: anesthésie-réanimation\n\nPaíses Baixos: anesthesiologie\n\nPortugal: anestesiologia\n\nReino Unido: anaesthetics;\n\n- cirurgia geral:\n\nBélgica: chirurgie/heelkunde\n\nDinamarca: kirurgi eller kirurgiske sygdomme\n\nAlemanha: Chirurgie\n\nGrécia: cheiroyrgiki\n\nEspanha: cirugía general y del aparato digestivo\n\nFrança: chirurgie générale\n\nIrlanda: general surgery\n\nItália: chirurgia generale\n\nLuxemburgo: chirurgie générale\n\nPaíses Baixos: heelkunde\n\nPortugal: cirurgia geral\n\nReino Unido: general surgery;\n\n- neurocirurgia:\n\nBélgica: neurochirurgie/neurochirurgie\n\nDinamarca: neurokirurgi eller kirurgiske nervesygdomme\n\nAlemanha: Neurochirurgie\n\nGrécia: nevrocheiroyrgiki\n\nEspanha: neurocirugía\n\nFrança: neurochirurgie\n\nIrlanda: neurological surgery\n\nItália: neurochirurgia\n\nLuxemburgo: neurochirurgie\n\nPaíses Baixos: neurochirurgie\n\nPortugal: neurocirurgia\n\nReino Unido: neurological surgery;\n\n- ginecologia e obstetrícia:\n\nBélgica: gynécologie-obstétrique/gynecologie-verloskunde\n\nDinamarca: gynaekologi og obstetrik eller kvindesygdomme og foedselshjaelp\n\nAlemanha: Frauenheilkunde und Geburtshilfe\n\nGrécia: maieftiki - gynaikologia\n\nEspanha: obstetricia y ginecología\n\nFrança: gynécologie-obstétrique\n\nIrlanda: obstetrics and gynaecology\n\nItália: ostetricia e ginecologia\n\nLuxemburgo: gynécologie-obstétrique\n\nPaíses Baixos: verloskunde en gynaecologie\n\nPortugal: ginecologia e obstetrícia\n\nReino Unido: obstetrics and gynaecology;\n\n- medicina interna:\n\nBélgica: médicine interne/inwendige geneeskunde\n\nDinamarca: intern medicin eller medicinske sygdomme\n\nAlemanha: Innere Medizin\n\nGrécia: pathologia\n\nEspanha: medicina interna\n\nFrança: médecine interne\n\nIrlanda: general (internal) medicine\n\nItália: medicina interna\n\nLuxemburgo: maladies internes\n\nPaíses Baixos: inwendige geneeskunde\n\nPortugal: medicina interna\n\nReino Unido: general medicine;\n\n- oftalmologia:\n\nBélgica: ophtalmologie/oftalmologie\n\nDinamarca: oftalmologi eller oejensygdomme\n\nAlemanha: Augenheilkunde\n\nGrécia: ofthalmologia\n\nEspanha: oftalmología\n\nFrança: ophtalmologie\n\nIrlanda: ophthalmology\n\nItália: oculistica\n\nLuxemburgo: ophtalmologie\n\nPaíses Baixos: oogheelkunde\n\nPortugal: oftalmologia\n\nReino Unido: ophthalmology;\n\n- otorrinolaringologia:\n\nBélgica: oto-rhino-laryngologie/otorhinolaryngologie\n\nDinamarca: oto-rhino-laryngologi eller oere-naese-halssygdomme\n\nAlemanha: Hals-Nasen-Ohrenheilkunde\n\nGrécia: otorinolagyngologia\n\nEspanha: otorrinolaringología\n\nFrança: oto-rhino-laryngologie\n\nIrlanda: otolaryngology\n\nItália: otorinolaringoiatria\n\nLuxemburgo: oto-rhino-laryngologie\n\nPaíses Baixos: keel-, neus- en oorheelkunde\n\nPortugal: otorrinolaringologia\n\nReino Unido: otolaryngology;\n\n- pediatria:\n\nBélgica: pédiatrie/kindergeneeskunde\n\nDinamarca: paediatri eller boernesygdomme\n\nAlemanha: Kinderheilkunde\n\nGrécia: paidiatriki\n\nEspanha: pediatría y sus áreas específicas\n\nFrança: pédiatrie\n\nIrlanda: paediatrics\n\nItália: pediatria\n\nLuxemburgo: pédiatrie\n\nPaíses Baixos: kindergeneeskunde\n\nPortugal: pediatria\n\nReino Unido: paedriatics;\n\n- pneumologia:\n\nBélgica: pneumologie/pneumologie\n\nDinamarca: medicinske lungesygdomme\n\nAlemanha: Lungen- und Bronchialheilkunde\n\nGrécia: fymatiologia - pnevmonologia\n\nEspanha: neumología\n\nFrança: pneumologie\n\nIrlanda: respiratory medicine\n\nItália: tisiologia e malattie dell'apparato respiratorio\n\nLuxemburgo: pneumo-phtisiologie\n\nPaíses Baixos: longziekten en tuberculose\n\nPortugal: pneumologia\n\nReino Unido: respiratory medicine;\n\n- urologia:\n\nBélgica: urologie/urologie\n\nDinamarca: urologi eller urinvejenes kirurgiske sygdomme\n\nAlemanha: Urologie\n\nGrécia: oyrologia\n\nEspanha: urología\n\nFrança: chirurgie urologique\n\nIrlanda: urology\n\nItália: urologia\n\nLuxemburgo: urologie\n\nPaíses Baixos: urologie\n\nPortugal: urologia\n\nReino Unido: urology;\n\n- ortopedia:\n\nBélgica: orthopédie/orthopedie\n\nDinamarca: ortopaedisk kirurgi\n\nAlemanha: Orthopaedie\n\nGrécia: orthopaidiki\n\nEspanha: traumatología y cirugía ortopédica\n\nFrança: chirurgie orthopédique et traumatologie\n\nIrlanda: orthopaedic surgery\n\nItália: ortopedia e traumatologia\n\nLuxemburgo: orthopédie\n\nPaíses Baixos: orthopedie\n\nPortugal: ortopedia\n\nReino Unido: orthopaedic surgery;\n\n- anatomia patológica:\n\nBélgica: anatomie pathologique/pathologische anatomie\n\nDinamarca: patologisk anatomi og histologi eller vaevsundersoegelse\n\nAlemanha: Pathologie\n\nGrécia: pathologiki anatomiki\n\nEspanha: anatomía patológica\n\nFrança: anatomie et cytologie pathologique\n\nIrlanda: morbid anatomy and histopathology\n\nItália: anatomia patologica\n\nLuxemburgo: anatomie pathologique\n\nPaíses Baixos: pathologische anatomie\n\nPortugal: anatomia patológica\n\nReino Unido: morbid anatomy and histopathology;\n\n- neurologia:\n\nBélgica: neurologie/neurologie\n\nDinamarca: neuromedicin eller medicinske nervesygdomme\n\nAlemanha: Neurologie\n\nGrécia: nevrologia\n\nEspanha: neurología\n\nFrança: neurologie\n\nIrlanda: neurology\n\nItália: neurologia\n\nLuxemburgo: neurologie\n\nPaíses Baixos: neurologie\n\nPortugal: neurologia\n\nReino Unido: neurology;\n\n- psiquiatria:\n\nBélgica: psychiatrie/psychiatrie\n\nDinamarca: psykiatri\n\nAlemanha: Psychiatrie\n\nGrécia: fychiatriki\n\nEspanha: psiquiatría\n\nFrança: psychiatrie\n\nIrlanda: psychiatry\n\nItália: psichiatria\n\nLuxemburgo: psychiatrie\n\nPaíses Baixos: psychiatrie\n\nPortugal: psiquiatria\n\nReino Unido: psychiatry."
+  },
+  "56c712076ecb3326": {
+   "fragment_id": "CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — DIPLOMAS, CERTIFICADOS E OUTROS\n\nTÍTULOS DE MÉDICO ESPECIALISTA PRÓPRIOS A DOIS OU VÁRIOS ESTADOS-MEMBROS"
+  },
+  "616537895fabe0ed": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros em que existam disposições legislativas, regulamentares e administrativas sobre a matéria, reconhecerão os diplomas, certificados e outros títulos de médico especialista referidos no artigo 7o, concedidos aos nacionais dos Estados-membros pelos outros Estados-membros nos termos do disposto nos artigos 24o, 25o, 27o e 29o conferindo-lhes o mesmo efeito, no seu território, que o conferido aos diplomas, certificados e outros títulos que eles próprios concedem."
+  },
+  "d8a78c90fdbcd3f6": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os diplomas, certificados e outros títulos referidos no artigo 6o são os que, concedidos pelas autoridades ou pelos organismos competentes indicados no no 2 do artigo 5o, correspondem, para a formação especializada em causa, às denominações enumeradas no no 2 do presente artigo, relativamente aos Estados-membros onde tal formação existe.\n\n2. As denominações em vigor nos Estados-membros, correspondentes às formações especializadas em causa, são as seguintes:\n\n- patologia clínica:\n\nBélgica: biologie clinique/klinische biologie\n\nEspanha: análisis clínicos\n\nFrança: biologie médicale\n\nItália: patologia diagnostica di laboratorio\n\nPortugal: patologia clínica;\n\n- hematologia biológica:\n\nDinamarca: klinisk blodtypeserologi\n\nFrança: hématologie\n\nLuxemburgo: hématologie biologique\n\nPortugal: hematologia clínica;\n\n- microbiologia-bacteriologia:\n\nDinamarca: klinisk mikrobiologi\n\nAlemanha: Mikrobiologie und Infektionsepidemiologie\n\nGrécia: mikroviologia\n\nEspanha: microbiología y parasitología\n\nIrlanda: microbiology\n\nItália: microbiologia\n\nLuxemburgo: microbiologie\n\nPaíses Baixos: medische microbiologie\n\nReino Unido: medical microbiology;\n\n- química biológica:\n\nDinamarca: klinisk kemi\n\nEspanha: bioquímica clínica\n\nIrlanda: chemical pathology\n\nLuxemburgo: chimie biologique\n\nPaíses Baixos: klinische chemie\n\nReino Unido: chemical pathology;\n\n- imunologia:\n\nEspanha: imunología\n\nIrlanda: clinical immunology\n\nReino Unido: immunology;\n\n- cirurgia plástica:\n\nBélgica: chirurgie plastique/plastische heelkunde\n\nDinamarca: plastikkirurgi\n\nGrécia: plastiki cheiroyrgiki\n\nEspanha: cirugía plástica y reparadora\n\nFrança: chirurgie plastique, reconstructrice et esthétique\n\nIrlanda: plastic surgery\n\nItália: chirurgia plastica\n\nLuxemburgo: chirurgie plastique\n\nPaíses Baixos: plastische chirurgie\n\nPortugal: cirurgia plástica e reconstrutiva\n\nReino Unido: plastic surgery;\n\n- cirurgia cárdio-torácica:\n\nBélgica: chirurgie thoracique/heelkunde op de thorax\n\nDinamarca: thoraxkirurgi eller brysthulens kirurgiske sygdomme\n\nGrécia: cheiroyrgiki thorakos\n\nEspanha: cirugía torácica\n\nFrança: chirurgie thoracique et cardio-vasculaire\n\nIrlanda: thoracic surgery\n\nItália: chirurgia toracica\n\nLuxemburgo: chirurgie thoracique\n\nPaíses Baixos: cardio-pulmonale chirurgie\n\nPortugal: cirurgia cárdio-torácica\n\nReino Unido: thoracic surgery;\n\n- cirurgia pediátrica:\n\nGrécia: cheiroyrgiki paidon\n\nEspanha: cirugía pediátrica\n\nFrança: chirurgie infantile\n\nIrlanda: paediatric surgery\n\nItália: chirurgia pediatrica\n\nLuxemburgo: chirurgie pédiatrique\n\nPortugal: cirurgia pediátrica\n\nReino Unido: paediatric surgery;\n\n- cirurgia vascular:\n\nBélgica: chirurgie des vaisseaux/bloedvatenheelkunde\n\nEspanha: angiología y cirugía vascular\n\nFrança: chirurgie vasculaire\n\nItália: chirurgia vascolare\n\nLuxemburgo: chirurgie cardio-vasculaire\n\nPortugal: cirurgia vascular;\n\n- cardiologia:\n\nBélgica: cardiologie/cardiologie\n\nDinamarca: cardiologi eller hjerte- og kredsloebssygdomme\n\nGrécia: kardiologia\n\nEspanha: cardiología\n\nFrança: pathologie cardio-vasculaire\n\nIrlanda: cardiology\n\nItália: cardiologia\n\nLuxemburgo: cardiologie et angiologie\n\nPaíses Baixos: cardiologie\n\nPortugal: cardiologia\n\nReino Unido: cardio-vascular diseases;\n\n- gastrenterologia:\n\nBélgica: gastro-entérologie/gastro-enterologie\n\nDinamarca: medicinsk gastroenterologi eller medicinske mave-tarmsygdomme\n\nGrécia: gastrenterologia\n\nEspanha: aparato digestivo\n\nFrança: gastro-entérologie et hépatologie\n\nIrlanda: gastroenterology\n\nItália: malattie dell'apparato digerente, della nutrizione e del ricambio\n\nLuxemburgo: gastro-entérologie\n\nPaíses Baixos: gastro-enterologie\n\nPortugal: gastrenterologia\n\nReino Unido: gastroenterology;\n\n- reumatologia:\n\nBélgica: rhumatologie/reumatologie\n\nDinamarca: reumatologi\n\nGrécia: revmatologia\n\nEspanha: reumatología\n\nFrança: rhumatologie\n\nIrlanda: rheumatology\n\nItália: reumatologia\n\nLuxemburgo: rhumatologie\n\nPaíses Baixos: reumatologie\n\nPortugal: reumatologia\n\nReino Unido: rheumatology;\n\n- imuno-hemoterapia:\n\nGrécia: aimatologia\n\nEspanha: hematología hemoterapia\n\nIrlanda: haematology\n\nItália: ematologia\n\nLuxemburgo: hématologie\n\nPortugal: imuno-hemoterapia\n\nReino Unido: haematology;\n\n- endocrinologia-nutrição:\n\nGrécia: endokrinologia\n\nEspanha: endocrinología y nutrición\n\nFrança: endocrinologie - maladies métaboliques\n\nIrlanda: endocrinology and diabetes mellitus\n\nItália: endocrinologia\n\nLuxemburgo: endocrinologie, maladies du métabolisme et de la nutrition\n\nPortugal: endocrinologia-nutrição\n\nReino Unido: endocrinology and diabetes mellitus;\n\n- fisioterapia:\n\nBélgica: médicine physique/fysische geneeskunde\n\nDinamarca: fysiurgi og rehabilitering\n\nGrécia: fysiki iatriki kai apokatastasi\n\nEspanha: rehabilitación\n\nFrança: rééducation et réadaptation fonctionnelles\n\nItália: fisioterapia\n\nPaíses Baixos: revalidatie\n\nLuxemburgo: rééducation et réadaptation fonctionnelles\n\nPortugal: fisiatria;\n\n- estomatologia:\n\nEspanha: estomatología\n\nFrança: stomatologie\n\nItália: odontostomatologia\n\nLuxemburgo: stomatologie\n\nPortugal: estomatologia;\n\n- neuropsiquiatria:\n\nBélgica: neuropsychiatrie/neuropsychiatrie\n\nAlemanha: Nervenheilkunde (Neurologie und Psychiatrie)\n\nGrécia: nevrologia - fychiatriki\n\nFrança: neuropsychiatrie\n\nItália: neuropsichiatria\n\nLuxemburgo: neuropsychiatrie\n\nPaíses Baixos: zenuw- en zielsziekten;\n\n- dermatovenereologia:\n\nBélgica: dermato-vénéréologie/dermato-venereologie\n\nDinamarca: dermato-venereologi eller hud-og koenssygdomme\n\nAlemanha: Dermatologie und Venerologie\n\nGrécia: derpatozogia-afrodisiologia\n\nEspanha: dermatología médico-quirúrgica y venereología\n\nFrança: dermatologie et vénéréologie\n\nItália: dermatologia e venerologia\n\nLuxemburgo: dermato-vénéréologie\n\nPaíses Baixos: dermatologie en venerologie\n\nPortugal: dermatovenereologia;\n\n- dermatologia:\n\nIrlanda: dermatology\n\nReino Unido: dermatology;\n\n- venereologia:\n\nIrlanda: venereology\n\nReino Unido: venereology;\n\n- radiologia:\n\nAlemanha: Radiologie\n\nGrécia: aktinologia - radiologia\n\nEspanha: electrorradiología\n\nFrança: électro-radiologie\n\nItália: radiologia\n\nLuxemburgo: électroradiologie\n\nPaíses Baixos: radiologie\n\nPortugal: radiologia;\n\n- radiodiagnóstico:\n\nBélgica: radiodiagnostic/roentgendiagnose\n\nDinamarca: diagnostisk radiologi eller roentgenundersoegelse\n\nAlemanha: Radiologische Diagnostik\n\nGrécia: aktinodiagnostiki\n\nEspanha: radiodiagnóstico\n\nFrança: radiodiagnostic et imagerie médicale\n\nIrlanda: diagnostic radiology\n\nLuxemburgo: radiodiagnostic\n\nPaíses Baixos: radiodiagnostiek\n\nPortugal: radiodiagnóstico\n\nReino-Unido: diagnostic radiology;\n\n- radioterapia:\n\nBélgica: radio-et radiumthérapie/radio- en radiumtherapie\n\nDinamarca: terapeutisk radiologi eller straalebehandling\n\nAlemanha: Strahlentherapie\n\nGrécia: aktinotherapeftiki\n\nEspanha: oncología radioterápica\n\nFrança: oncologie, option radiothérapie\n\nIrlanda: radiotherapy\n\nLuxemburgo: radiothérapie\n\nPaíses Baixos: radiotherapie\n\nPortugal: radioterapia\n\nReino-Unido: radiotherapy;\n\n- medicina tropical:\n\nDinamarca: tropemedicin\n\nIrlanda: tropical medicine\n\nItália: medicina tropicale\n\nPortugal: medicina tropical\n\nReino-Unido: tropical medicine;\n\n- pedopsiquiatria:\n\nDinamarca: boernepsykiatri\n\nAlemanha: Kinder- und Jugendpsychiatrie\n\nGrécia: paidofychiatriki\n\nFrança: pédo-psychiatrie\n\nIrlanda: child and adolescent psychiatry\n\nItália: neuropsichiatria infantile\n\nLuxemburgo: psychiatrie infantile\n\nPortugal: pedopsiquiatria\n\nReino-Unido: child and adolescent psychiatry;\n\n- geriatria:\n\nEspanha: geriatría\n\nIrlanda: geriatrics\n\nPaíses Baixos: klinische geriatrie\n\nReino-Unido: geriatrics;\n\n- nefrologia:\n\nDinamarca: nefrologi eller medicinske nyresygdomme\n\nGrécia: nefrologia\n\nEspanha: nefrología\n\nFrança: néphrologie\n\nIrlanda: nephrology\n\nItália: nefrologia\n\nLuxemburgo: néphrologie\n\nPortugal: nefrologia\n\nReino-Unido: renal diseases;\n\n- doenças infecto-contagiosas:\n\nIrlanda: communicable diseases\n\nItália: malattie infettive\n\nReino-Unido: communicable diseases;\n\n- «Community medicine» (saúde pública):\n\nFrança: santé publique et médecine sociale\n\nIrlanda: community medicine\n\nReino-Unido: community medicine;\n\n- farmacologia:\n\nAlemanha: Pharmakologie\n\nEspanha: farmacología clínica\n\nIrlanda: clinical pharmacology and therapeutics\n\nReino-Unido: clinical pharmacology and therapeutics;\n\n- medicina do trabalho:\n\nDinamarca: samfundsmedicin/arbejdsmedecin\n\nAlemanha: Arbeitsmedizin\n\nGrécia: iatriki ti ergasias\n\nFrança: médecine du travail\n\nItália: medicina del lavoro\n\nIrlanda: occupational medicine\n\nPaíses Baixos: arbeids- en bedrijfsgeneeskunde\n\nPortugal: medicina do trabalho\n\nReino-Unido: occupational medicine;\n\n- imunalergologia:\n\nGrécia: allergiologia\n\nEspanha: alergologia\n\nItália: allergologia ed immunologia clinica\n\nPaíses Baixos: allergologie\n\nPortugal: imunalergologia;\n\n- cirurgia gastro-intestinal:\n\nBélgica: chirurgie abdominale/heelkunde op het abdomen\n\nDinamarca: kirurgisk gastroenterologi eller kirurgiske mave-tarmsygdomme\n\nEspanha: cirugía del aparato digestivo\n\nFrança: chirurgie viscérale\n\nItália: chirurgia dell'apparato digerente;\n\n- medicina nuclear:\n\nBélgica: médecine nucléaire/nucleaire geneeskunde\n\nAlemanha: Nuklearmedizin\n\nGrécia: pyriniki iatriki\n\nEspanha: medicina nuclear\n\nFrança: médecine nucléaire\n\nItália: medicina nucleare\n\nPaíses Baixos: nucleaire geneeskunde\n\nPortugal: medicina nuclear\n\nReino-Unido: nuclear medicine;\n\n- cirurgia maxilo-facial (formação de base de médico)\n\nEspanha: cirugía oral y maxilofacial\n\nFrança: chirurgie maxillo-faciale et stomatologie\n\nItália: chirurgia maxillo-facciale;\n\n- cirurgia dentária, da boca e maxilo-facial\n\n(formação de base de médico e de dentista)\n\nBélgica: stomatologie - chirurgie orale et maxillo-faciale/stomatologie - orale en maxillo-faciale chirurgie\n\nAlemanha: Zahn-, Mund-, Kiefer- und Gesichtschirurgie\n\nIrlanda: oral and maxillo-facial surgery\n\nReino-Unido: oral and maxillo-facial surgery."
+  },
+  "64aca700b459ae32": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O Estado-membro de acolhimento pode exigir aos nacionais dos Estados-membros que desejem obter um dos diplomas, certificados ou outros títulos de formação de médico especialista não referidos nos artigos 4o e 6o ou que, ainda que referidos no artigo 6o, não sejam concedidos num Estado-membro de origem ou de proveniência, que preencham as condições de formação definidas a esse respeito pelas suas próprias disposições legislativas, regulamentares e administrativas.\n\n2. Todavia, o Estado-membro de acolhimento tomará em consideração, no todo ou em parte, os períodos de formação completados pelos nacionais referidos no no 1 e comprovados por um diploma, certificado ou outro título de formação concedido pelas autoridades competentes do Estado-membro de origem ou de proveniência, quando os referidos períodos correspondam aos exigidos no Estado-membro de acolhimento para a formação especializada em causa.\n\n3. As autoridades ou organismos competentes do Estado-membro de acolhimento, após terem verificado o conteúdo e a duração da formação especializada do interessado com base nos diplomas, certificados e outros títulos apresentados, informá-lo-ao da duração da formação complementar a efectuar, assim como dos domínios por ela abrangidos."
+  },
+  "ffb5c4a91996bb08": {
+   "fragment_id": "CAPÍTULO IV — DIREITOS ADQUIRIDOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — DIREITOS ADQUIRIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — DIREITOS ADQUIRIDOS"
+  },
+  "caac9ed81aa1d813": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Sem prejuízo do disposto no no 3, os Estados-membros reconhecerão como prova suficiente, em relação aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 23o, os diplomas, certificados e outros títulos de médico concedidos por esses Estados-membros quando aprovem uma formação iniciada antes de:\n\n- 1 de Janeiro de 1986 para a Espanha e Portugal,\n\n- 1 de Janeiro de 1981 para a Grécia,\n\n- 20 de Dezembro de 1976 para os outros Estados-membros,\n\ne acompanhados de um atestado comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.\n\n2. Sem prejuízo do disposto no no 4, os Estados-membros reconhecerão como prova suficiente, em relação aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de médico especialista não satisfaçam as exigências mínimas de formação previstas nos artigos 24o a 27o, os diplomas, certificados e outros títulos de médico especialista concedidos por esses Estados-membros, quando aprovem uma formação iniciada antes de:\n\n- 1 de Janeiro de 1986 para a Espanha e Portugal,\n\n- 1 de Janeiro de 1981 para a Grécia,\n\n- 20 de Dezembro de 1976 para os outros Estados-membros.\n\nNo que respeita aos diplomas, certificados e outros títulos de médico especialista, o Estado-membro de acolhimento pode exigir que estes sejam acompanhados de um certificado emitido pelas autoridades ou organismos competentes do Estado-membro de origem ou de proveniência atestando o exercício da actividade de médico especialista em causa durante um tempo equivalente ao dobro da diferença existente entre a duração da especialização no Estado-membro de origem ou de proveniência e a duração mínima de formação referida no título III, quando aqueles não correspondam aos períodos mínimos de formação referidos nos artigos 26o e 27o\n\nTodavia, se no Estado-membro de acolhimento for exigido, antes das datas referidas no primeiro parágrafo, um período mínimo de formação inferior ao estabelecido nos artigos 26o e 27o, a diferença mencionada no segundo parágrafo só pode ser determinada em função do período mínimo de formação previsto neste Estado.\n\n3. No que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de médico sancionem uma formação adquirida nos territórios da antiga República Democrática Alema e que não satisfaçam o conjunto de exigências mínimas de formação previstas no artigo 23o, os Estados-membros que não a Alemanha reconhecerão como prova suficiente os referidos diplomas, certificados e outros títulos:\n\n- se sancionarem uma formação iniciada antes da unificação alemã,\n\n- se facultarem o exercício das actividades de médico em todo o território da Alemanha nas mesmas condições que os títulos emitidos pelas autoridades competentes alemãs referidos na alínea c), pontos 1 e 2, do artigo 3o, e,\n\n- se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederam a emissão do atestado.\n\n4. No que respeita aos nacionais de Estados-membros cujos diplomas, certificados e outros títulos de médico especialista sancionem uma formação adquirida nos territórios da antiga República Democrática Alema e que não satisfaçam as exigências mínimas de formação previstas nos artigos 24o a 27o, os Estados-membros que não a Alemanha reconhecerão como prova suficiente os referidos diplomas, certificados e outros títulos:\n\n- se sancionarem uma formação iniciada antes de 3 de Abril de 1992 e\n\n- se permitirem o exercício como especialista da actividade em causa em todo o território da Alemanha nas mesmas condições que os títulos aí emitidos pelas autoridades competentes alemãs a que se referem os artigos 5o e 7o\n\nPodem, todavia, exigir que esses diplomas, certificados e outros títulos sejam acompanhados de um atestado passado pelas autoridades ou pelos organismos competentes alemães, comprovativo do exercício, como especialista, da actividade em causa durante um período equivalente ao dobro da diferença existente entre o período de formação especializada no território alemão e o período mínimo de formação estabelecido no título III quando aqueles não correspondam aos períodos mínimos de formação estabelecidos nos artigos 26o e 27o\n\n5. Os Estados-membros reconhecerão como prova suficiente, no que respeita aos nacionais dos Estados-membros cujos diplomas, certificados e outros títulos de médico ou de médico especialista não correspondam às denominações que figuram relativamente a cada Estado-membro nos artigos 3o, 5o ou 7o, os diplomas, certificados e outros títulos emitidos por esses Estados-membros, acompanhados de um certificado emitido pelas autoridades ou organismos competentes. Este certificado atestará que esses diplomas, certificados e outros títulos de médico ou de médico especialista sancionam um formação conforme às disposições do título III referidas, consoante o caso, nos artigos 2o, 4o ou 6o da presente directiva, e que são equiparadas pelo Estado-membro que os emitiu àqueles cujas denominações figuram, consoante o caso, nos artigos 3o, 5o ou 7o da presente directiva.\n\n6. Os Estados-membros que tenham revogado as disposições legislativas, regulamentares e administrativas relativas à emissão dos diplomas, certificados e outros títulos de neuropsiquiatria, de radiologia, de cirurgia cárdio-torácica, de cirurgia vascular, de cirurgia gastro-intestinal, de hematologia biológica, de fisioterapia ou de medicina tropical e tomado medidas relativas a direitos adquiridos a favor dos seus próprios nacionais, reconhecerão aos nacionais dos outros Estados-membros o direito de beneficiar dessas mesmas medidas, desde que os diplomas, certificados e outros títulos de neuropsiquiatria, de radiologia, de cirurgia cárdio-torácica, de cirurgia vascular, de cirurgia gastro-intestinal, de hematologia biológica, de fisioterapia ou de medicina tropical destes últimos reúnam as condições pertinentes referidas quer no no 2 do presente artigo quer nos artigos 24o, 25o e 27o, e na medida em que estes diplomas, certificados e outros títulos tenham sido emitidos antes da data a partir da qual o Estado-membro de acolhimento deixou de emitir os seus diplomas, certificados ou outros títulos para a especialidade em causa.\n\n7. As datas em que os Estados-membros em causa revogaram as disposições legislativas, regulamentares e administrativas relativas aos diplomas, certificados e outros títulos referidos no no 6 constam do anexo II."
+  },
+  "f4458ecf6a41804a": {
+   "fragment_id": "CAPÍTULO V — USO DO",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — USO DO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — USO DO"
+  },
+  "c773f9579156c661": {
+   "fragment_id": "TÍTULO DE FORMAÇÃO — Artigo 10o",
+   "type": "divisao",
+   "heading": "TÍTULO DE FORMAÇÃO — Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO DE FORMAÇÃO — Artigo 10o\n\n1. Sem prejuízo do disposto no artigo 19o, os Estados-membros de acolhimento velarão por que seja reconhecido aos nacionais dos Estados-membros que preencham as condições fixadas nos artigos 2o, 4o, 6o e 9o, o direito a usarem o respectivo título legal de formação e, eventualmente, a sua abreviatura, do Estado-membro de origem ou de proveniência, na língua deste Estado. Os Estados-membros de acolhimento podem exigir que esse título seja seguido do nome e local do estabelecimento ou do júri que o concedeu.\n\n2. Quando o título de formação do Estado-membro de origem ou de proveniência puder ser confundido, no Estado-membro de acolhimento, com qualquer título que exija, neste Estado, formação complementar não obtida pelo interessado, o Estado-membro de acolhimento pode exigir que aquele use o respectivo título de formação do Estado-membro de origem ou de proveniência em forma adequada, a indicar pelo Estado-membro de acolhimento."
+  },
+  "484dc908255e62dd": {
+   "fragment_id": "CAPÍTULO VI — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DE LIVRE PRESTAÇÃO DE SERVIÇOS DO MÉDICO",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DE LIVRE PRESTAÇÃO DE SERVIÇOS DO MÉDICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — DISPOSIÇÕES DESTINADAS A FACILITAR O EXERCÍCIO EFECTIVO DO DIREITO DE ESTABELECIMENTO E DE LIVRE PRESTAÇÃO DE SERVIÇOS DO MÉDICO\n\nA. Disposições específicas relativas ao direito de estabelecimento"
+  },
+  "562322174977dfed": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. O Estado-membro de acolhimento que exigir aos seus nacionais prova de moralidade ou de honorabilidade para o primeiro acesso a uma actividade de médico, aceitará como prova suficiente, para os nacionais dos outros Estados-membros, um atestado passado por uma autoridade competente do Estado-membro de origem ou de proveniência comprovativo de que estão preenchidas as condições de moralidade ou de honorabilidade exigidas neste Estado-membro para o acesso à actividade em causa.\n\n2. Quando o Estado-membro de origem ou de proveniência não exigir prova de moralidade ou de honorabilidade para o primeiro acesso à actividade em causa, o Estado-membro de acolhimento pode exigir aos nacionais do Estado-membro de origem ou de proveniência um certificado de registo criminal ou, na sua falta, documento equivalente passado por uma autoridade competente do Estado-membro de origem ou de proveniência.\n\n3. O Estado-membro de acolhimento, se tiver conhecimento de factos graves e concretos ocorridos fora do seu território anteriormente ao estabelecimento do interessado neste Estado, susceptíveis de, neste mesmo Estado, terem consequências relativamente ao acesso à actividade em causa, pode informar desses factos o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência investigará a veracidade dos factos. As autoridades deste Estado decidirão da natureza e extensão das investigações a efectuar e comunicarão ao Estado-membro de acolhimento as medidas que, em consequência, tomarem quanto aos atestados ou documentos que tenham emitido.\n\n4. Os Estados-membros assegurarão a confidencialidade das informações comunicadas."
+  },
+  "f6685f5b23cbfc17": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Quando, num Estado-membro de acolhimento, estiverem em vigor disposições legislativas, regulamentares e administrativas em matéria de moralidade e de honorabilidade, incluindo as que prevejam sanções disciplinares em caso de falta profissional grave ou de condenação por crime e relativas ao exercício de uma actividade de médico, o Estado-membro de origem ou de proveniência transmitirá ao Estado-membro de acolhimento as informações necessárias respeitantes às medidas ou sanções de carácter profissional ou administrativo aplicadas ao interessado, bem como às sanções penais relacionadas com o exercício da profissão no Estado-membro de origem ou de proveniência.\n\n2. O Estado-membro de acolhimento, se tiver conhecimento de factos graves e concretos ocorridos fora do seu território, anteriormente ao estabelecimento do interessado neste Estado, susceptíveis de, neste mesmo Estado, terem consequências relativamente ao exercício da actividade em causa, pode informar desses factos o Estado-membro de origem ou de proveniência.\n\nO Estado-membro de origem ou de proveniência averiguará a veracidade dos factos. As autoridades deste Estado decidirão da natureza e extensão das investigações a efectuar e comunicarão ao Estado-membro de acolhimento as medidas que, em consequência, tomarem quanto aos atestados ou documentos que tenham emitido.\n\n3. Os Estados-membros assegurarão a confidencialidade das informações transmitidas."
+  },
+  "f3ef694aa4702cd2": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nQuando o Estado-membro de acolhimento exigir aos seus nacionais, para o acesso a uma actividade de médico, ou para o seu exercício, documento relativo à saúde física ou psíquica, tal Estado aceitará como suficiente, para o efeito, a apresentação do documento exigido no Estado-membro de origem ou de proveniência.\n\nQuando o Estado-membro de origem ou de proveniência não exigir documento daquela natureza para o acesso à actividade em causa ou para o seu exercício, o Estado-membro de acolhimento aceitará, dos nacionais do Estado-membro de origem ou de proveniência, um atestado passado por uma autoridade competente desse Estado, correspondente aos atestados do Estado-membro de acolhimento."
+  },
+  "0483a9fe0ba74f51": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs documentos referidos nos artigos 11o, 12o e 13o não podem, aquando da sua apresentação, ter sido emitidos há mais de três meses."
+  },
+  "325973a2ee0b7173": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. O processo para autorizar o acesso do interessado a uma actividade de médico, nos termos dos artigos 11o, 12o e 13o, deve ser concluído rapidamente e, o mais tardar, três meses após a apresentação da documentação completa do interessado, sem prejuízo dos atrasos que resultam de um eventual recurso introduzido no final daquele processo.\n\n2. Nos casos referidos no no 3 do artigo 11o e no no 2 do artigo 12o, o pedido de revisão suspende o prazo fixado no no 1.\n\nO Estado-membro consultado deve dar a sua resposta no prazo de três meses.\n\nAo receber a resposta, ou decorrido este prazo, o Estado-membro de acolhimento dará andamento ao processo referido no no 1."
+  },
+  "94820a47bf638266": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nQuando o Estado-membro de acolhimento exigir aos seus nacionais um juramento ou uma declaração solene para o acesso a uma actividade de médico, ou para o seu exercício, e no caso de a fórmula de tal juramento ou declaração não poder ser utilizada pelos nacionais dos outros Estados-membros, o Estado-membro de acolhimento velará por que seja facultada aos interessados uma fórmula adequada e equivalente.\n\nB. Disposições específicas relativas à prestação de serviços"
+  },
+  "93533240a260271c": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Quando um Estado-membro exigir aos seus nacionais, para o acesso a uma actividade de médico, ou para o seu exercício, quer uma autorização quer a inscrição ou filiação numa organização ou organismo profissional, tal Estado-membro dispensará dessa exigência, em caso de prestação de serviços, os nacionais dos Estados-membros.\n\nO beneficiário efectuará a prestação de serviços com os mesmos direitos e obrigações que os nacionais do Estado-membro de acolhimento; encontra-se, designadamente, sujeito às disposições disciplinares de carácter profissional ou administrativo aplicáveis nesse Estado-membro.\n\nPara o efeito, e em complemento da declaração relativa à prestação de serviços referida no no 2, os Estados-membros podem, tendo em vista permitir a aplicação das disposições disciplinares em vigor no seu território, prever quer uma inscrição temporária automática, ou uma adesão pro forma a uma organização ou organismo profissionais, quer um registo, desde que essas inscrições não atrasem nem dificultem de qualquer forma a prestação de serviços, nem envolvam despesas suplementares para o prestador de serviços.\n\nQuando o Estado-membro de acolhimento tomar uma medida nos termos do segundo parágrafo ou tiver conhecimento de factos que contrariem tais disposições, informará imediatamente desses factos o Estado-membro onde se encontra estabelecido o interessado.\n\n2. O Estado-membro de acolhimento pode exigir que o interessado faça às autoridades competentes uma declaração prévia relativa à sua prestação de serviços, no caso de a execução de tal prestação implicar uma estada temporária no seu território.\n\nEm caso de urgência, tal declaração pode ser feita, logo que possível, após a prestação de serviços.\n\n3. Nos termos dos nos 1 e 2, o Estado-membro de acolhimento pode exigir do beneficiário a apresentação de um ou mais documentos com as seguintes indicações:\n\n- a declaração referida no no 2,\n\n- atestado comprovativo de que o beneficiário exerce legalmente as actividades em causa no Estado-membro onde se encontra estabelecido,\n\n- atestado comprovativo de que o beneficiário possui o diploma ou os diplomas, certificados ou outros títulos exigidos par a prestação de serviços em causa, referidos na presente directiva.\n\n4. O documento ou os documentos referidos no no 3 não podem, aquando da sua apresentação, ter sido emitidos há mais de 12 meses.\n\n5. Quando um Estado-membro privar, no todo ou em parte, a título temporário ou definitivo, um dos seus nacionais ou um nacional de outro Estado-membro estabelecido no seu território, da faculdade de exercer qualquer das actividades de médico, assegurará a suspensão ou a revogação, conforme os casos, do atestado referido no segundo travessão do no 3."
+  },
+  "783488a27fcbe6d9": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nQuando no Estado-membro de acolhimento for necessária a inscrição num organismo de segurança social de direito público para regularizar, com um organismo segurador, as contas relativas a actividades exercidas em proveito de pessoas abrangidas por um esquema de segurança social, tal Estado-membro dispensará dessa exigência os nacionais dos Estados-membros estabelecidos em outro Estado-membro, quando se trate de prestação de serviços que implique a deslocação do interessado.\n\nTodavia, o interessado informará previamente, ou em caso de urgência, posteriormente, aquele organismo, da prestação de serviços.\n\nC. Disposições comuns ao direito de estabelecimento e à livre prestação de serviços"
+  },
+  "45cedbcef83f3808": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nQuando, no Estado-membro de acolhimento, estiver regulamentado o uso do título profissional relativo a uma das actividades de médico, os nacionais dos outros Estados-membros que preencham as condições fixadas no artigo 2o e nos nos 1, 3 e 5 do artigo 9o, usarão o título profissional do Estado-membro de acolhimento que, neste Estado, corresponda àquelas condições de formação e utilizarão a sua abreviatura.\n\nO parágrafo anterior é igualmente aplicável ao uso do título de médico especialista pelas pessoas que preencham as condições fixadas, respectivamente, nos artigos 4o e 6o nos nos 2, 4, 5 e 6 do artigo 9o"
+  },
+  "7f63cffb6594a27f": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. Os Estados-membros tomarão as medidas necessárias a fim de permitir que os interessados sejam informados da legislação sanitária e social, bem como, se for caso disso, da deontologia do Estado-membro de acolhimento.\n\nPara o efeito, podem criar serviços de informação junto dos quais os interessados possam obter as informações necessárias. Tratando-se de estabelecimento, os Estados-membros de acolhimento podem obrigar os beneficiários a entrar em contacto com tais serviços.\n\n2. Os Estados-membros podem criar os serviços referidos no no 1 junto das autoridades e organismos competentes que designarem.\n\n3. Se for caso disso, os Estados-membros providenciarão para que os interessados adquiram, no seu próprio interesse e no dos seus pacientes, os conhecimentos da língua necessários ao exercício da actividade profissional no país de acolhimento."
+  },
+  "26d2e8792bcd25f9": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nOs Estados-membros que exijam aos seus próprios nacionais a realização de um estágio preparatório para poderem ser convencionados como médicos de uma instituição de seguro de doença podem impor a mesma obrigação aos nacionais dos outros Estados-membros durante um período de cinco anos a contar de 20 de Junho de 1975. A duração do estágio não pode, todavia, exceder seis meses."
+  },
+  "72494b16956b51e9": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nO Estado-membro de acolhimento pode, em caso de dúvida justificada, exigir das autoridades competentes de outro Estado-membro a confirmação da autenticidade dos diplomas, certificados e outros títulos concedidos neste Estado-membro e referidos nos capítulos I a IV do título II, bem como a confirmação do facto de o beneficiário ter cumprido todas as condições de formação previstas no título III.\n\nTÍTULO III COORDENAÇÃO DAS DISPOSIÇÕES LEGISLATIVAS, REGULAMENTARES E ADMINISTRATIVAS RESPEITANTES ÀS ACTIVIDADES DE MÉDICO"
+  },
+  "e6a2c589fc8fb981": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\n1. Os Estados-membros farão depender o acesso às actividades de médico e ao seu exercício da posse de um diploma, certificado ou outro título de médico referido no artigo 3o comprovativo de que o interessado adquiriu no período total da sua formação:\n\na) Conhecimentos adequados das ciências em que assenta a medicina, bem como uma boa compreensão dos métodos científicos, incluindo princípios da medida das funções biológicas, da apreciação de factos cientificamente estabelecidos e da análise de dados;\n\nb) Conhecimentos adequados da estrutura, das funções e do comportamento dos seres humanos, saudáveis e doentes, assim como das relações entre o estado de saúde do ser humano e o seu ambiente físico e social;\n\nc) Conhecimentos adequados das matérias e das práticas clínicas que dêem uma visão coerente das doenças mentais e físicas dos três aspectos da medicina - prevenção, diagnóstico e terapêutica - bem como da reprodução humana;\n\nd) Experiência clínica adequada sob orientação apropriada em hospitais.\n\n2. Esta formação médica total inclui, pelo menos, seis anos de estudos ou 5 500 horas de ensino teórico e prático ministrados uma universidade ou sob a orientação de uma universidade.\n\n3. A admissão a esta formação está sujeita à posse de um diploma ou certificado que dê acesso, relativamente aos estudos em causa, aos estabelecimentos universitários de um Estado-membro.\n\n4. Para os interessados que tenham iniciado os estudos antes de 1 de Janeiro de 1972, a formação indicada no no 2 pode incluir uma formação prática de nível universitário de seis meses efectuada a tempo inteiro sob o controlo das autoridades competentes.\n\n5. A presente directiva não prejudica a possibilidade de os Estados-membros permitirem no seu território, de acordo com a sua regulamentação própria, o acesso às actividades de médico e o seu exercício aos titulares de diplomas, certificados ou outros títulos que não tenham sido obtidos num Estado-membro."
+  },
+  "c5994f47f2b2839a": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\n1. Os Estados-membros velarão por que a formação que conduz à obtenção de um diploma, certificado ou outro título de médico especialista satisfaça, pelo menos, as seguintes condições:\n\na) Pressuponha a realização completa e com êxito de seis anos de estudos, no âmbito do ciclo de formação referido no artigo 23o; a formação conducente à emissão do diploma, certificado ou outro título de especialista em cirurgia dentária, da boca e maxilo-facial (formação de base de médico e de dentista) pressupõe, além disso, a frequência e a validação do ciclo de formação de dentista referido no artigo 1o da Directiva 78/687/CEE do Conselho, de 25 de Julho de 1978, que tem por objectivo a coordenação das disposições legislativas, regulamentares e administrativas relativas às actividades de dentista(6);\n\nb) Inclua um ensino teórico e prático;\n\nc) Seja efectuada a tempo inteiro e sob o controlo das autoridades ou organismos competentes, nos termos do ponto 1 do anexo I;\n\nd) Seja efectuada num centro universitário, num centro hospitalar universitário ou, se for caso disso, em estabelecimento de cuidados de saúde reconhecido para o efeito pelas autoridades ou organismos competentes;\n\ne) Inclua uma participação pessoal do médico candidato a especialista na actividade e nas responsabilidades dos serviços em causa.\n\n2. Os Estados-membros farão depender a concessão de um diploma, certificado ou outro título de médico especialista da posse de um dos diplomas, certificados ou outros títulos de médico referidos no artigo 23o; a emissão do diploma, certificado ou outro título de especialista em cirurgia dentária, da boca e maxilo-facial (formação de base de médico e de dentista), depende, além disso, da posse de um dos diplomas, certificados ou outros títulos de dentista referidos no artigo 1o da Directiva 78/687/CEE."
+  },
+  "9a9a61a2d000e7dc": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\n1. Sem prejuízo do princípio da formação a tempo inteiro enunciado no no 1, alínea c), do artigo 24o e enquanto não forem tomadas pelo Conselho as decisões nos termos do no 3, os Estados-membros podem autorizar uma formação especializada a tempo parcial, nas condições aprovadas pelas autoridades nacionais competentes quando, por razões individuais justificadas, não seja possível uma formação a tempo inteiro.\n\n2. A formação a tempo parcial deve ser dispensada em conformidade com o ponto 2 do anexo I e ser de um nível qualitativamente equivalente à formação a tempo inteiro. Este nível não pode ser comprometido nem pelo facto de se tratar de formação a tempo parcial nem pelo exercício de uma actividade profissional remunerada, a título privado.\n\nA duração total da formação especializada não pode ser reduzida pelo facto de ser efectuada a tempo parcial.\n\n3. O mais tardar até 25 de Janeiro de 1989, e à luz de um reexame da situação, sob proposta da Comissão, e tendo em conta que a possibilidade de formação a tempo parcial deve continuar a existir em determinadas circunstâncias, a examinar especialidade por especialidade, o Conselho decidirá se as disposições dos nos 1 e 2 devem ser mantidas ou alteradas.\n\nAs formações dos médicos especialistas a tempo parcial, iniciadas antes de 1 de Janeiro de 1983, podem ser concluídas em conformidade com as disposições em vigor antes desta data."
+  },
+  "b01eb5f7f10159ed": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\nOs Estados-membros velarão por que os períodos mínimos de duração das formações especializadas a seguir referidas não sejam inferiores aos seguintes:\n\n1o grupo (5 anos)\n\n- cirurgia geral\n\n- neurocirurgia\n\n- medicina interna\n\n- urologia\n\n- ortopedia;\n\n2o grupo (4 anos)\n\n- ginecologia-obstetrícia\n\n- pediatria\n\n- pneumologia\n\n- anatomia patológica\n\n- neurologia\n\n- psiquiatria;\n\n3o grupo (3 anos)\n\n- anestesiologia\n\n- oftalmologia\n\n- otorrinolaringologia."
+  },
+  "560a5fc5f4d811a6": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\nOs Estados-membros em que existam disposições legislativas, regulamentares e administrativas sobre a matéria velarão por que os períodos mínimos de duração das formações especializadas a seguir referidas não sejam inferiores aos seguintes:\n\n1o grupo (5 anos)\n\n- cirurgia plástica\n\n- cirurgia cárdio-torácica\n\n- cirurgia vascular\n\n- neuropsiquiatria\n\n- cirurgia pediátrica\n\n- cirurgia gastro-intestinal\n\n- cirurgia maxilo-facial (formação de base de médico);\n\n2o grupo (4 anos)\n\n- cardiologia\n\n- gastrenterologia\n\n- reumatologia\n\n- patologia clínica\n\n- radiologia\n\n- radiodiagnóstico\n\n- radioterapia\n\n- medicina tropical\n\n- farmacologia\n\n- pedopsiquiatria\n\n- microbiologia-bacteriologia\n\n- medicina do trabalho\n\n- química biológica\n\n- imunologia\n\n- dermatologia\n\n- venereologia\n\n- geriatria\n\n- nefrologia\n\n- doenças infecto-contagiosas\n\n- «community medicine» (saúde pública)\n\n- hematologia biológica\n\n- medicina nuclear\n\n- cirurgia dentária, da boca e maxilo-facial (formação de base de médico e de dentista);\n\n3o grupo (3 anos)\n\n- imuno-hemoterapia\n\n- endocrinologia\n\n- fisiatria\n\n- estomatologia\n\n- dermatovenereologia\n\n- imunalergologia."
+  },
+  "e2b49087da0ee0f3": {
+   "fragment_id": "Artigo 28o",
+   "type": "artigo",
+   "heading": "Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o\n\nA título transitório, e em derrogação ao disposto no no 1, alínea c), do artigo 24o e no artigo 25o, os Estados-membros cujas disposições legislativas, regulamentares e administrativas prevejam um modo de formação especializada a tempo parcial em 20 de Junho de 1975, podem continuar a aplicar tais disposições aos candidatos que tenham iniciado a formação de especialistas até 31 de Dezembro de 1983.\n\nOs Estados-membros de acolhimento ficam autorizados a exigir dos beneficiários referidos no primeiro parágrafo que os seus diplomas, certificados e outros títulos sejam acompanhados de um atestado comprovativo de que se dedicaram efectiva e licitamente, na qualidade de médicos especialistas, à actividade em causa, durante, pelo menos, três anos consecutivos dos cinco anos que precederam a emissão do atestado."
+  },
+  "ea5437ce71fbca5e": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\nA título transitório, e em derrogação ao no 2 do artigo 24o:\n\na) No que diz respeito ao Luxemburgo e apenas quanto aos diplomas luxemburgueses referidos na Lei de 1939 relativa ao reconhecimento de graus académicos e universitários, a concessão do certificado de médico especialista fica unicamente dependente da posse do diploma de doutor em medicina, cirurgia e partos pelo Júri de Exame de Estado luxemburguês;\n\nb) No que diz respeito à Dinamarca e apenas quanto aos diplomas legais de medicina concedidos pela faculdade de medicina de uma universidade dinamarquesa, em conformidade com o decreto do ministro do Interior de 14 de Maio de 1970, a concessão do título de médico especialista fica unicamente dependente da posse de tais diplomas.\n\nOs diplomas referidos nas alíneas a) e b) podem ser concedidos aos candidatos cuja formação tenha começado antes de 20 de Dezembro de 1976."
+  },
+  "32dd159d536bfb20": {
+   "fragment_id": "TÍTULO IV FORMAÇÃO ESPECÍFICA EM MEDICINA GERAL — Artigo 30o",
+   "type": "divisao",
+   "heading": "TÍTULO IV FORMAÇÃO ESPECÍFICA EM MEDICINA GERAL — Artigo 30o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV FORMAÇÃO ESPECÍFICA EM MEDICINA GERAL — Artigo 30o\n\nOs Estados-membros que dispensam no seu território o ciclo completo de formação referido no artigo 23o devem criar uma formação específica em medicina geral que satisfaça pelo menos as condições previstas nos artigos 31o e 32o da presente directiva, de maneira a que os primeiros diplomas, certificados ou outros títulos comprovativos dessa formação sejam passados o mais tardar em 1 de Janeiro de 1990."
+  },
+  "cf5d989cab36dceb": {
+   "fragment_id": "Artigo 31o",
+   "type": "artigo",
+   "heading": "Artigo 31o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o\n\n1. A formação específica em medicina geral referida no artigo 30o deve satisfazer pelo menos as seguintes condições:\n\na) Só ser acessível após um mínimo de seis anos de estudos completados com êxito no âmbito do ciclo de formação referido no artigo 23o;\n\nb) Ter uma duração mínima de dois anos a tempo inteiro e efectuar-se sob o controlo das autoridades ou organismos competentes;\n\nc) Ser de natureza mais prática do que teórica; a formação prática deve ser ministrada, por um lado, durante pelo menos seis meses em meio hospitalar aprovado, que disponha de equipamento e de serviços adequados e, por outro, durante, pelo menos, seis meses no âmbito de uma prática aprovada de medicina geral ou de um centro aprovado, no qual os médicos ministrem cuidados primários; essa formação efectuar-se-á em ligação com outros estabelecimentos ou estruturas sanitárias que se ocupem da medicina geral; todavia, sem prejuízo dos acima referidos períodos mínimos, essa formação prática pode ser dispensada durante um período máximo de seis meses noutros estabelecimentos ou estruturas sanitárias aprovados que se ocupem de medicina geral;\n\nd) Incluir uma participação pessoal do candidato na actividade profissional e nas responsabilidades das pessoas com quem trabalha.\n\n2. Os Estados-membros têm a faculdade de adiar a aplicação das disposições do no 1, alínea c), relativas aos períodos mínimos de formação, o mais tardar até 1 de Janeiro de 1995.\n\n3. Os Estados-membros farão depender a concessão de diplomas, certificados e outros títulos referentes à formação específica em medicina geral da posse de um dos diplomas, certificados e outros títulos referidos no artigo 3o"
+  },
+  "4a5fc3a288ee79e8": {
+   "fragment_id": "Artigo 32o",
+   "type": "artigo",
+   "heading": "Artigo 32o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o\n\nSe, em 22 de Setembro de 1986, algum Estado-membro assegurar a formação em medicina geral mediante a experiência em medicina geral que o médico adquire no seu próprio consultório sob a supervisão de um orientador de estágio aprovado, pode, a título experimental, manter a referida formação desde que esta:\n\n- esteja em conformidade com o no 1, alíneas a) e b), e com o no 3 do artigo 31o,\n\n- tenha uma duração igual ou dupla da diferença entre a duração prevista no no 1, alínea b), do artigo 31o e o total dos períodos referidos no terceiro travessão do presente artigo,\n\n- inclua um período em meio hospitalar aprovado, dispondo de equipamento e serviços adequados, assim como um período no âmbito de uma prática aprovada de medicina geral ou num centro aprovado em que sejam dispensados cuidados médicos primários; a partir de 1 de Janeiro de 1995, cada um desses períodos será de, pelo menos, seis meses."
+  },
+  "d720ccac4df6b333": {
+   "fragment_id": "Artigo 33o",
+   "type": "artigo",
+   "heading": "Artigo 33o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33o\n\nCom base na experiência adquirida e tendo em conta a evolução das formações no domínio da medicina geral, a Comissão apresentará ao Conselho, o mais tardar em 1 de Janeiro de 1996, um relatório sobre a aplicação dos artigos 31o e 32o propostas adequadas tendo em vista prosseguir a harmonização da formação de médicos generalistas.\n\nO Conselho deliberará sobre essas propostas, de acordo com os procedimentos fixados pelo Tratado, antes de 1 de Janeiro de 1997."
+  },
+  "c03bf7ccb0a27f5c": {
+   "fragment_id": "Artigo 34o",
+   "type": "artigo",
+   "heading": "Artigo 34o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34o\n\n1. Sem prejuízo do princípio da formação a tempo inteiro enunciado no no 1, alínea b), do artigo 31o os Estados-membros podem autorizar uma formação específica em medicina geral a tempo parcial, para além da formação a tempo inteiro, desde que essa formação obedeça às seguintes condições especiais:\n\n- a duração total da formação não pode ser abreviada pelo facto de se efectuar a tempo parcial,\n\n- a carga horária semanal da formação a tempo parcial não pode ser inferior a 60 % da carga horária semanal da formação a tempo inteiro,\n\n- a formação a tempo parcial deve incluir um número de períodos de formação a tempo inteiro tanto para a parte dispensada em meio hospitalar como para a parte no âmbito de uma prática aprovada de medicina geral ou num centro aprovado em que sejam dispensados cuidados médicos primários. Estes períodos de formação a tempo inteiro devem ser em número e ter uma duração tais que proporcionem uma preparação adequada para o exercício efectivo da medicina geral.\n\n2. A formação a tempo parcial deve ter um nível qualitativamente equivalente à formação a tempo inteiro. Essa formação deve ser sancionada pelo diploma, certificado ou outro título referido no artigo 30o"
+  },
+  "63fbfbb42c6d794c": {
+   "fragment_id": "Artigo 35o",
+   "type": "artigo",
+   "heading": "Artigo 35o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35o\n\n1. Independentemente das disposições que adoptem sobre direitos adquiridos, os Estados-membros podem conceder os diplomas, certificados ou outros títulos, referidos no artigo 30o aos médicos que não tenham completado a formação prevista nos artigos 31o e 32o mas que possuam uma outra formação complementar comprovada por diploma, certificado ou outro título passado pelas autoridades competentes de um Estado-membro; todavia, estes diplomas, certificados ou outros títulos só podem ser passados se comprovarem conhecimentos de nível qualitativamente equivalente aos resultantes de formação prevista nos artigos 31o e 32o\n\n2. Nas normas que adoptem nos termos do no 1, os Estados-membros determinarão, nomeadamente, em que medida a formação anteriormente adquirida pelo requerente bem como a sua experiência profissional podem ser tomadas em conta para substituir a formação prevista nos artigos 31o e 32o\n\nO diploma, certificado ou outro título referido no artigo 30o só pode ser passado se o requerente tiver adquirido uma experiência em medicina geral de, pelo menos, seis meses no âmbito de uma prática de medicina geral ou de um centro onde sejam dispensados cuidados médicos primários, tal como referido no no 1, alínea c), do artigo 31o"
+  },
+  "b59dc23e9e1f11be": {
+   "fragment_id": "Artigo 36o",
+   "type": "artigo",
+   "heading": "Artigo 36o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36o\n\n1. A partir de 1 de Janeiro de 1995 e sem prejuízo das disposições sobre direitos adquiridos, os Estados-membros farão depender o exercício da actividade de médico generalista no âmbito dos seus regimes nacionais de segurança social da posse de um diploma, certificado ou outro título referido no artigo 30o\n\nTodavia, os Estados-membros podem dispensar desta condição as pessoas cuja formação específica em medicina geral esteja em curso.\n\n2. Cabe a cada Estado-membro determinar os direitos adquiridos. No entanto, o direito de exercer as actividades de médico generalista no âmbito dos regimes nacionais de segurança social sem o diploma, certificado ou outro título referidos no artigo 30o deve ser reconhecido pelos Estados-membros como adquirido a todos os médicos que, nos termos dos artigos 1o a 20o, dispuserem desse direito em 31 de Dezembro de 1994 e nessa mesma data estiverem estabelecidos no seu território tendo beneficiado do artigo 2o ou do no 1 do artigo 9o\n\n3. Os Estados-membros podem aplicar o no 1 antes de 1 de Janeiro de 1995, desde que os médicos que tenham adquirido noutro Estado-membro a formação referida no artigo 23o possam estabelecer-se no seu território até 31 de Dezembro de 1994 e aí exercer no âmbito do regime nacional de segurança social, invocando o benefício do artigo 2o ou do no 1 do artigo 9o\n\n4. As autoridades competentes de cada Estado-membro passarão aos médicos titulares de direitos adquiridos por força do no 2, e a seu pedido, um certificado atestando o direito de exercer a actividade de médico generalista no âmbito do seu regime nacional de segurança social, sem o diploma, certificado ou outro título referido no artigo 30o\n\n5. O no 1 em nada afecta a possibilidade de os Estados-membros permitirem no seu território, segundo a sua regulamentação, o exercício da actividade de médico generalista, no âmbito de um regime de segurança social, a pessoas que não sejam titulares de diplomas, certificados ou outros títulos comprovativos de uma formação de médico e de uma formação específica em medicina geral adquiridas, uma e outra, num Estado-membro, mas que sejam titulares de diplomas, certificados e outros títulos comprovativos dessas formações, ou de uma delas, obtidos num país terceiro."
+  },
+  "1ba8c9ca474be93c": {
+   "fragment_id": "Artigo 37o",
+   "type": "artigo",
+   "heading": "Artigo 37o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37o\n\n1. Os Estados-membros reconhecerão, para o exercício da actividade de médico generalista, no âmbito do seu regime nacional de segurança social, os diplomas, certificados e outros títulos referidos no artigo 30o e passados aos nacionais dos Estados-membros por outros Estados-membros nos termos dos artigos 31o, 32o, 34 e 35o\n\n2. Cada Estado-membro reconhecerá os certificados referidos no no 4 do artigo 36o passados aos nacionais dos Estados-membros pelos outros Estados-membros dando-lhes equivalência, no seu território, aos diplomas, certificados e outros títulos por ele concedidos que permitem o exercício da actividade de médico enquanto generalista no âmbito do seu regime nacional de segurança social."
+  },
+  "5b903f595d879bb7": {
+   "fragment_id": "Artigo 38o",
+   "type": "artigo",
+   "heading": "Artigo 38o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38o\n\nOs nacionais de um Estado-membro aos quais um outro Estado-membro tenha passado os diplomas, certificados e outros títulos referidos no artigo 30o ou no no 4 do artigo 36o, têm o direito de usar no Estado-membro de acolhimento o título profissional que existe nesse Estado-membro e de fazer uso da sua abreviatura."
+  },
+  "e77860b79d9d2d53": {
+   "fragment_id": "Artigo 39o",
+   "type": "artigo",
+   "heading": "Artigo 39o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39o\n\n1. Sem prejuízo do artigo 38o os Estados-membros de acolhimento zelarão por que seja reconhecido aos beneficiários do disposto no artigo 37o o direito de fazer uso do seu título legal de formação e, eventualmente, da respectiva abreviatura, do Estado-membro de origem ou proveniência, na língua desse Estado. Os Estados-membros de acolhimento podem exigir que esse título seja seguido do nome e do local do estabelecimento ou do júri que o concedeu.\n\n2. Quando o título de formação do Estado-membro de origem ou de proveniência se puder confundir no Estado-membro de acolhimento com um título que exija, nesse Estado, uma formação complementar que o beneficiário não possui, o Estado-membro de acolhimento pode exigir que o beneficiário use o seu título de formação do Estado-membro de origem ou de proveniência numa fórmula adequada, a indicar pelo Estado-membro de acolhimento."
+  },
+  "d53e364287955e77": {
+   "fragment_id": "Artigo 40o",
+   "type": "artigo",
+   "heading": "Artigo 40o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40o\n\nCom base na experiência adquirida e tendo em conta a evolução das formações no domínio da medicina geral, a Comissão apresentará ao Conselho, o mais tardar em 1 de Janeiro de 1997, um relatório sobre a aplicação do presente título e, se for caso disso, propostas adequadas, tendo em vista uma formação conveniente dos médicos generalistas que satisfaça as exigências específicas do exercício da medicina geral. O Conselho deliberará sobre essas propostas de acordo com os procedimentos fixados pelo Tratado."
+  },
+  "f923e52d97c72b74": {
+   "fragment_id": "Artigo 41o",
+   "type": "artigo",
+   "heading": "Artigo 41o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41o\n\nUma vez notificada por um Estado-membro da data da entrada em vigor das medidas tomadas nos termos do artigo 30o, a Comissão fará uma comunicação adequada no Jornal Oficial das Comunidades Europeias, indicando as denominações adoptadas por esse Estado-membro para o diploma, certificado e outro título de formação e, se for o caso, para o título profissional."
+  },
+  "fa93d6e86eaeef31": {
+   "fragment_id": "TÍTULO V DIPOSIÇÕES FINAIS — Artigo 42o",
+   "type": "divisao",
+   "heading": "TÍTULO V DIPOSIÇÕES FINAIS — Artigo 42o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V DIPOSIÇÕES FINAIS — Artigo 42o\n\nOs Estados-membros designarão as autoridades e organismos habilitados a conceder ou a receber os diplomas, certificados e outros títulos, bem como os documentos ou informações referidos na presente directiva e informarão desse facto imediatamente os outros Estados-membros e a Comissão."
+  },
+  "a8f57cf8ae27b1a5": {
+   "fragment_id": "Artigo 43o",
+   "type": "artigo",
+   "heading": "Artigo 43o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43o\n\nSe num Estado-membro surgirem, na aplicação da presente directiva, dificuldades graves em certos domínios, a Comissão examinará tais dificuldades em colaboração com esse Estado e solicitará o parecer do Comité de Altos Funcionários da Saúde Pública instituído pela Decisão 75/365/CEE do Conselho(7).\n\nA Comissão submeterá ao Conselho, quando necessário, propostas adequadas."
+  },
+  "c82c2018cd693b93": {
+   "fragment_id": "Artigo 44o",
+   "type": "artigo",
+   "heading": "Artigo 44o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44o\n\nSão revogadas as directivas referidas na parte A do anexo III, sem prejuízo das obrigações dos Estados-membros relativas aos prazos de transposição que constam da parte B do anexo III.\n\nAs referências feitas às referidas directivas devem-se entender como sendo feitas à presente directiva e devem ser lidas de acordo com a tabela de correspondências que consta do anexo IV."
+  },
+  "4d4bf7b80fbe11fb": {
+   "fragment_id": "Artigo 45o",
+   "type": "artigo",
+   "heading": "Artigo 45o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 5 de Abril de 1993.\n\nPelo Conselho O Presidente J. TROEJBORG\n\n(1) JO no C 125 de 18. 5. 1992, p. 170 eJO no C 72 de 15. 3. 1993.\n\n(2) JO no C 98 de 24. 4. 1992, p. 6.\n\n(3) JO no L 167 de 30. 6. 1975, p. 1. Com a última redacção que lhe foi dada pela Directiva 90/658/CEE (JO no L 353 de 17. 12. 1990, p. 73).\n\n(4) JO no L 167 de 30. 6. 1975, p. 14. Com a última redacção que lhe foi dada pela Directiva 90/658/CEE (JO no L 353 de 17. 12. 1990, p. 73).\n\n(5) JO no L 267 de 19. 9. 1986, p. 26.\n\n(6) JO no L 233 de 24. 8. 1978, p. 10.\n\n(7) JO no L 167 de 10. 6. 1975, p. 19."
+  },
+  "061aa96a9d4c2361": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nCaracterísticas da formação a tempo inteiro e a tempo parcial dos médicos especialistas referidas no no 1, alínea c), do artigo 24o e no artigo 25o 1. Formação a tempo inteiro dos médicos especialistas Esta formação é efectuada em postos específicos reconhecidos pelas autoridades competentes.\n\nEsta formação exige a participação em todas as actividades médicas do departamento onde se efectua a formação, incluindo os períodos de banco, de tal modo que o candidato a especialista dedique a esta formação prática e teórica toda a sua actividade profissional durante toda a semana de trabalho e durante todo ano, segundo as modalidades fixadas pelas autoridades competentes. Por consequência, tais postos serão objecto de remuneração adequada.\n\nEsta formação pode ser interrompida por razões tais como o serviço militar, missões científicas, gravidez e doença. A interrupção não pode reduzir a duração total da formação.\n\n2. Formação a tempo parcial dos médicos especialistas Esta formação corresponde às mesmas exigências que a formação a tempo inteiro, da qual apenas se distingue pela possibilidade de limitar a participação nas acitividades médicas a uma duração pelo menos igual a metade da que se encontra prevista no segundo parágrafo do ponto 1.\n\nAs autoridades competentes velarão por que a duração total e a qualidade da formação dos especialistas a tempo parcial não sejam inferiores às da formação a tempo inteiro.\n\nEsta formação a tempo parcial é, por consequência, objecto de remuneração adequada."
+  },
+  "e5caca4f95dc7acf": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nDatas a partir das quais certos Estados-membros revogaram as disposições legislativas, regulamentares e administrativas relativas à emissão de diplomas, certificados e outros títulos referidos no no 7 do artigo 9o BÉLGICA Cirurgia cárdio-torácica: 1 de Janeiro de 1983\n\nCirurgia vascular: 1 de Janeiro de 1983\n\nNeuropsiquiatria: 1 de Agosto de 1987, excepto para as pessoas que iniciaram a formação antes desta data\n\nCirurgia gastro-intestinal: 1 de Janeiro de 1983\n\nDINAMARCA Hematologia biológica: 1 de Janeiro de 1983, excepto para as pessoas que iniciaram a formação antes desta data e que a tenham terminado antes do final de 1988\n\nNeuropsiquiatria: 1 de Janeiro de 1983, excepto para as pessoas que iniciaram a formação antes desta data e que a tenham terminado antes do final de 1988\n\nMedicina tropical: 1 de Agosto de 1987, excepto para as pessoas que iniciaram a formação antes desta data\n\nFRANÇA Radiologia: 3 de Dezembro de 1971\n\nNeuropsiquiatria: 31 de Dezembro de 1971\n\nLUXEMBURGO Radiologia: os diplomas, certificados e outros títulos deixaram de ser emitidos para as formações iniciadas após 5 de Março de 1982\n\nNeuropsiquiatria: os diplomas, certificados e outros títulos deixaram de ser emitidos para as formações iniciadas após 5 de Março de 1982\n\nPAÍSES BAIXOS Radiologia: 8 de Julho de 1984\n\nNeuropsiquiatria: 9 de Julho de 1984"
+  },
+  "2d64a2081457ae3e": {
+   "fragment_id": "ANEXO III — Parte A Directivas revogadas",
+   "type": "divisao",
+   "heading": "ANEXO III — Parte A Directivas revogadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Parte A Directivas revogadas\n\n(referidas no artigo 44o)\n\n1. Directiva 75/362/CEE\n\n2. Directiva 75/363/CEE\n\ne suas modificações sucessivas:\n\n- Directiva 81/1057/CEE: apenas o que respeita às referências feitas no artigo 1o, às disposições das directivas revogadas 75/362/CEE e 75/363/CEE.\n\n- Directiva 82/76/CEE\n\n- Directiva 89/594/CEE: apenas os artigos 1o a 9o\n\n- Directiva 90/658/CEE: apenas os pontos 1 e 2 do artigo 1o e artigo 2o\n\n3. Directiva 86/457/CEE"
+  },
+  "419627b567823893": {
+   "fragment_id": "Parte B Lista dos prazos de transposição para o direito nacional",
+   "type": "divisao",
+   "heading": "Parte B Lista dos prazos de transposição para o direito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte B Lista dos prazos de transposição para o direito nacional\n\n(referidos no artigo 44o)\n\nDirectiva\n\nData limite para a transposição\n\n75/362/CEE (JO no L 167 de 30. 6. 1975, p. 1) 20 de Dezembro de 1976 (*)\n\n81/1057/CEE (JO no L 385 de 31. 12. 1981, p. 25) 30 de Junho de 1982\n\n75/363/CEE (JO no L 167 de 30. 6. 1975, p. 14) 20 de Dezembro de 1976 (**)\n\n82/76/CEE (JO no L 43 de 15. 2. 1982, p. 21) 31 de Dezembro de 1982\n\n89/594/CEE (JO no L 341 de 23. 11. 1989, p. 19) 8 de Maio de 1991\n\n90/658/CEE (JO no L 353 de 17. 12. 1990, p. 73) 1 de Julho de 1991\n\n86/457/CEE (JO no L 267 de 19. 9. 1986, p. 26) 1 de Janeiro de 1995\n\n(*) 1 de Janeiro de 1981 para a Grécia e 1 de Janeiro de 1986 para Espanha e Portugal.\n\n(**) 1 de Janeiro de 1981 para a Grécia e 1 de Janeiro de 1986 para Espanha e Portugal. Em relação ao território da antiga República Democrática Alema, a Alemanha toma as medidas necessárias à aplicação dos artigos 2o a 5o da Directiva 75/363/CEE (artigos 24o a 27o da presente directiva) antes de 3 de Abril 1992 (Directiva 90/658/CEE, artigo 2o)."
+  },
+  "f6edc4ca2a3ad0f7": {
+   "fragment_id": "ANEXO IV — /* Quadros: ver JO */",
+   "type": "divisao",
+   "heading": "ANEXO IV — /* Quadros: ver JO */",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — /* Quadros: ver JO */"
+  },
+  "f8c9f63f65459462": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0016 — PT — 01.01.2007 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/393L0016) [DIRECTIVA 93/16/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/393L0016) [de 5 de Abril de 1993](http://publications.europa.eu/resource/celex/393L0016) [destinada a facilitar a livre circulação dos médicos e o reconhecimento mútuo dos seus diplomas, certificados e outros títulos](http://publications.europa.eu/resource/celex/393L0016) (JO L 165, 7.7.1993, p.1)\n\n**revogado por:**"
+  },
+  "8d6da5c0196d897f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993L0016 — PT — 20.10.2007 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993L0016) [DIRECTIVA 93/16/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31993L0016) [de 5 de Abril de 1993](http://publications.europa.eu/resource/celex/31993L0016) [destinada a facilitar a livre circulação dos médicos e o reconhecimento mútuo dos seus diplomas, certificados e outros títulos](http://publications.europa.eu/resource/celex/31993L0016) (JO L 165, 7.7.1993, p.1)\n\n**revogado por:**\n\n- [Directiva 2005/36/CE do Parlamento Europeu e do Conselho de 7 de Setembro de 2005](http://publications.europa.eu/resource/celex/32005L0036) — L 255 — 22 — 30.9.2005"
+  }
+ }
+}

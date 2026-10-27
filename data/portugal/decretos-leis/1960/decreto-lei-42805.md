@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:277336:por
+title: Decreto-Lei n.º 42805
+short_title: null
+summary: Aprova o Regulamento das Disposições de Segurança Relativas à Indústria e Comércio de Armamento, Munições e Explosivos
+  - Revoga os artigos 3.º a 17.º do regulamento aprovado pelo Decreto-Lei n.º 41764
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '42805'
+official_date: null
+publication_date: '1960-01-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 10/1960, Série I de 1960-01-14
+  number: '10'
+  series: I
+  supplement: null
+  pages: 47 - 49
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/01/01000/00470049.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '277336'
+  dre_path: /dr/detalhe/decreto-lei/42805-1960-277336
+  internal: pt:dre:277336:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42805-1960-277336
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42805-1960-277336
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:30:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 359bc14bf499ccd2bce2b8cb70ccaba7c12a79644ecd0665c177222059353958
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armas e Munições
+- Uso e porte de arma
+relationships:
+- type: cites
+  target: pt:dre:351694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:30:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 42805
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É aprovado o Regulamento das Disposições de Segurança Relativas à Indústria e Comércio de Armamento, Munições e Explosivos, que faz parte integrante deste decreto e vai assinado pelos Ministros da Defesa Nacional, do Interior, do Ultramar e da Economia.
+
+§ único. O disposto nos seus artigos 2.º a 9.º poderá ser alterado ou revogado por decreto referendado pelos Ministros da Defesa Nacional, do Interior, do Ultramar e da Economia.
+
+Art. 2.º São revogados os artigos 3.º a 17.º do regulamento aprovado pelo [Decreto-Lei n.º 41764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41764-1958-351694), de 30 de Julho de 1958.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 14 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas.
+
+Para ser presente à Assembleia Nacional.
+
+Regulamento dos Disposições de Segurança Relativas à Indústria e Comércio de Armamento, Munições e Explosivos
+
+### CAPÍTULO I — Disposições relativas ao licenciamento e funcionamento das empresas
+
+Artigo 1.º Depende de informação do serviço de segurança das forças armadas a concessão:
+
+a) De alvarás para a instalação de fábricas ou oficinas que produzam armamento, munições e explosivos pròpriamente ditos ou sejam adaptáveis à sua produção;
+
+b) De alvarás ou licenças para a venda dos referidos produtos;
+
+c) Das licenças a que se refere o artigo 13.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
+
+Art. 2.º A informação a que se refere o artigo 1.º será prestada sob uma destas formas:
+
+a) «Nada a opor»;
+
+b) «Pendente»;
+
+c) «Desfavorável».
+
+§ 1.º As licenças ou alvarás só podem ser concedidos se a informação for dada sob a forma «Nada a opor».
+
+§ 2.º A informação «Desfavorável» impede a concessão da licença ou do alvará, salvo por decisão do Ministro da Defesa Nacional e do Ministro do departamento interessado.
+
+§ 3.º A informação «Pendente» tem carácter provisório, por período não superior a seis meses, obstando à concessão da licença ou do alvará até ser dada informação sob a forma «Nada a opor».
+
+Art. 3.º Sempre que seja requerida a concessão de licenças ou alvarás abrangidos pelo artigo 1.º deste regulamento, as entidades competentes para a mesma solicitarão a informação do serviço de segurança das forças armadas, enviando-lhe, por intermédio do Comando-Geral da Polícia de Segurança Pública, fichas individuais respeitantes a todas as pessoas que, conforme os casos, estejam abrangidas nestas categorias:
+
+a) Requerentes ou sócios das sociedades requerentes de alvarás para fabrico de armamento, munições ou explosivos pròpriamente ditas;
+
+b) Requerentes ou sócios das sociedades requerentes de alvarás ou licenças para venda, importação, exportação ou reexportação dos aludidos produtos;
+
+c) Dirigentes técnicos ou administrativos das empresas que se queiram dedicar ao fabrico dos mesmos ou à sua colocação nos mercados;
+
+d) Agentes de fábricas estrangeiras de armamento e munições, a que se refere o artigo 13.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
+
+§ 1.º As fichas individuais obedecerão ao modelo indicado no regulamento aprovado pelo [Decreto-Lei n.º 41764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41764-1958-351694), de 30 de Julho de 1958, e serão fornecidas e preenchidas pelos próprios interessados.
+
+§ 2.º As fichas serão renovadas anualmente, devendo as entidades a que se refere o corpo deste artigo enviar fichas actualizadas, também por intermédio do Comando-Geral da Polícia de Segurança Pública, no dia 1 de Fevereiro de cada ano.
+
+Art. 4.º Os serviços de segurança das forças armadas poderão, quando para tal haja fundamento, prestar informação «Desfavorável» relativamente a licenças ou alvarás já concedidos.
+
+§ 1.º Se a nova informação respeitar aos titulares das licenças ou dos alvarás, ser-lhe-ão os mesmos retirados.
+
+§ 2.º Se a nova informação respeitar a sócios de empresas titulares das licenças ou dos alvarás, ou a pessoas que nas mesmas desempenhem quaisquer funções de direcção técnica ou administrativa, será convidada a empresa a proceder à sua substituição, na prazo que for fixado, sob pena de ser retirado o alvará ou a licença.
+
+Art. 5.º Depende também de informação favorável do serviço de segurança das forças armadas:
+
+1.º O averbamento dos alvarás e licenças referidos no artigo 1.º nos nomes dos adquirentes ou arrendatários, nos casos de transmissão ou arrendamento dos respectivos estabelecimentos;
+
+2.º A substituição das pessoas que exerçam funções de direcção técnica ou administrativa nas empresas titulares dos mesmos alvarás e licenças.
+
+§ 1.º Para os efeitos deste artigo, deverá ser solicitada a respectiva habilitação ao serviço de segurança das forças armadas, sem cuja informação favorável:
+
+1.º As licenças e os alvarás não poderão ser averbados no nome dos adquirentes ou arrendatários, no caso do n.º 1.º;
+
+2.º As pessoas referidas no n.º 2.º não poderão iniciar as suas funções.
+
+§ 2.º O não cumprimento do disposto neste artigo implica a suspensão do funcionamento do estabelecimento e da actividade da empresa.
+
+Art. 6.º No caso de alteração dos sócios das empresas titulares das licenças ou alvarás a que se refere o artigo 1.º, deverão os novos sócios requerer a sua habilitação ao serviço de segurança das forças armadas.
+
+§ 1.º É aplicável o disposto no § 2.º do artigo antecedente.
+
+§ 2.º Se a alteração dos sócios determinar informação «Desfavorável», será aplicável o disposto no § 2.º do artigo 4.º
+
+Art. 7.º Os alvarás para a concessão das licenças mencionadas nas alíneas a) e b) do artigo 1.º conterão uma cláusula especial com a seguinte redacção:
+
+Este alvará caducará quando o titular, ou algum dos indivíduos componentes da firma titular, tenha praticado ou pratique acções que afectem a idoneidade civil e moral requerida quando da sua concessão ou deixe de dar suficientes garantias de respeito pela ordem social estabelecida na Constituição Política do Estado.
+
+O titular ou firma titular deste alvará compromete-se a dispensar os serviços dos indivíduos encarregados da direcção técnica ou administrativa da empresa que, em qualquer momento, sejam considerados não idóneos civil e moralmente, ou de que haja conhecimento não respeitarem a ordem social estabelecida na Constituição Política do Estado, bem como quaisquer empregados ou operários nas mesmas condições.
+
+### CAPÍTULO II — Disposições relativas à concessão de licenças de importação, exportação e reexportação
+
+Art. 8.º O Comando-Geral da Polícia de Segurança Pública comunicará ao serviço de segurança das forças armadas todos os pedidos de licença para importação, exportação ou reexportação de armamento, munições ou explosivos, indicando o país de origem ou ao qual se destinam os produtos e as quantidades e os tipos destes.
+
+§ 1.º Com a comunicação será enviada uma ficha individual dos requerentes, do modelo referido no § 1.º do artigo 3.º, a preencher pelos mesmos.
+
+§ 2.º Se os pedidos de licenças para exportação ou reexportação de explosivos pròpriamente ditos obtiverem provimento, será feita também a respectiva comunicação.
+
+§ 3.º O serviço de segurança das forças armadas poderá, definitiva ou temporàriamente, dispensar da comunicação a que se refere o corpo deste artigo certas espécies de pedidos nele mencionados.
+
+Art. 9.º A concessão de licenças para importação, exportação ou reexportação de armamento, munições e explosivos pode ficar dependente de informação do serviço de segurança das forças armadas sempre que o Ministro da Defesa Nacional assim julgue necessário e faça a respectiva comunicação às entidades competentes para a concessão.
+
+§ único. A exigência dessa informação pode ser estabelecida com carácter temporário para certas regiões e para determinadas espécies de casos.
+
+### CAPÍTULO III — Disposições relativas ao ultramar
+
+Art. 10.º O presente regulamento é aplicável no território das províncias ultramarinas nos termos seguintes:
+
+a) Quando a competência relativa aos estabelecimentos industriais pertença ao Ministro do Ultramar, as habilitações ou informações referidas nos artigos anteriores serão prestadas pelo serviço de segurança das forças armadas ou a este dirigidas;
+
+b) Quando a competência relativa aos estabelecimentos industriais pertença aos governadores das províncias ultramarinas ou quando se trate de empresas comerciais, as habilitações ou informações referidas nos artigos anteriores serão prestadas pelo comando militar ou a este dirigidas;
+
+c) Os comandos militares ultramarinos, no uso das atribuições que lhes são conferidas neste regulamento, observarão as directivas que lhes forem transmitidas pelo serviço de segurança das forças armadas, ao qual remeterão, em 1 de Fevereiro de cada ano, as fichas individuais actualizadas das pessoas e empresas referidas nas alíneas a) a d) do artigo 3.º
+
+Presidência do Conselho, 14 de Janeiro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz. - O Ministro do Interior, Arnaldo Schulz. - O Ministro do Ultramar, Vasco Lopes Alves. - O Ministro da Economia, José do Nascimento Ferreira Dias Júnior.

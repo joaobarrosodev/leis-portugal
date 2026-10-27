@@ -1,0 +1,1172 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:616576:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-137784327",
+ "dre_path": "/dr/detalhe/decreto-lei/301-2000-616576",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-11-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137784482",
+    "137784483",
+    "137784484",
+    "137784485",
+    "137784486",
+    "137784487",
+    "137784488",
+    "137784489",
+    "137784490",
+    "137784491",
+    "137784492",
+    "137784493",
+    "137784494",
+    "137784495",
+    "137784496",
+    "137784497",
+    "137784498",
+    "137784499",
+    "137784500",
+    "137784501",
+    "137784502",
+    "137784503",
+    "137784504",
+    "137784506"
+   ]
+  },
+  {
+   "date": "2015-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67332417:por",
+     "title": "Decreto-Lei n.º 88/2015",
+     "published": "2015-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/88-2015-67332417"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "137784482",
+    "137784483",
+    "137784507",
+    "137784508",
+    "137784486",
+    "137784509",
+    "137784488",
+    "137784510",
+    "137784511",
+    "137784491",
+    "137784492",
+    "137784493",
+    "137784512",
+    "137784495",
+    "137784496",
+    "137784497",
+    "137784498",
+    "137784499",
+    "137784513",
+    "137784514",
+    "137784515",
+    "137784503",
+    "137784516",
+    "137784505",
+    "137784517"
+   ]
+  },
+  {
+   "date": "2020-08-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:137703603:por",
+     "title": "Decreto-Lei n.º 35/2020",
+     "published": "2020-07-13",
+     "dre_path": "/dr/detalhe/decreto-lei/35-2020-137703603"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 17.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "137784482",
+    "137784483",
+    "137784555",
+    "137784547",
+    "137784548",
+    "137784518",
+    "137784519",
+    "137784520",
+    "137784549",
+    "137784550",
+    "137784523",
+    "137784551",
+    "137784525",
+    "137784552",
+    "137784527",
+    "137784528",
+    "137784529",
+    "137784553",
+    "137784554",
+    "137784539",
+    "137784540",
+    "137784541",
+    "137784542",
+    "137784543",
+    "137784544",
+    "137784545",
+    "137784556"
+   ]
+  },
+  {
+   "date": "2021-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150661864:por",
+     "title": "Decreto-Lei n.º 102-A/2020",
+     "published": "2020-12-09",
+     "dre_path": "/dr/detalhe/decreto-lei/102-a-2020-150661864"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-A",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "137784482",
+    "137784483",
+    "137784555",
+    "137784547",
+    "137784548",
+    "150770100",
+    "137784519",
+    "137784520",
+    "137784549",
+    "137784550",
+    "137784523",
+    "137784551",
+    "137784525",
+    "137784552",
+    "137784527",
+    "137784528",
+    "137784529",
+    "137784553",
+    "137784554",
+    "137784539",
+    "137784540",
+    "137784541",
+    "137784542",
+    "137784543",
+    "137784544",
+    "137784545",
+    "150770101"
+   ]
+  },
+  {
+   "date": "2025-01-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:898867718:por",
+     "title": "Decreto-Lei n.º 102/2024",
+     "published": "2024-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2024-898867718"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Adita Anexo II",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 4.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º-A",
+    "Altera Artigo 22.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "137784482",
+    "898982575",
+    "898982576",
+    "898982577",
+    "898982578",
+    "898982579",
+    "898982580",
+    "898982581",
+    "898982582",
+    "898982583",
+    "898982584",
+    "898982585",
+    "898982586",
+    "898982587",
+    "898982588",
+    "898982589",
+    "898982590",
+    "898982591",
+    "898982592",
+    "898982593",
+    "898982594",
+    "898982595",
+    "898982596",
+    "898982597",
+    "898982598",
+    "899370985",
+    "898982600",
+    "1184805975",
+    "898982602"
+   ]
+  },
+  {
+   "date": "2025-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:916914752:por",
+     "title": "Decreto-Lei n.º 72/2025",
+     "published": "2025-05-06",
+     "dre_path": "/dr/detalhe/decreto-lei/72-2025-916914752"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "137784482",
+    "898982575",
+    "898982576",
+    "898982577",
+    "898982578",
+    "898982579",
+    "898982580",
+    "917106508",
+    "898982582",
+    "898982583",
+    "898982584",
+    "898982585",
+    "898982586",
+    "898982587",
+    "898982588",
+    "898982589",
+    "898982590",
+    "898982591",
+    "898982592",
+    "898982593",
+    "898982594",
+    "898982595",
+    "898982596",
+    "898982597",
+    "898982598",
+    "899370985",
+    "898982600",
+    "1184805975",
+    "898982602"
+   ]
+  }
+ ],
+ "fragments": {
+  "137784482": {
+   "fragment_id": "137784328",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 301/2000\n\nde 18 de Novembro\n\n1 - O Decreto-Lei n.º 390/93, de 20 de Novembro, transpôs para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0394\" title=\"Link para Directiva da Comunidade Europeia\">90/394/CEE</a>, do Conselho, de 28 de Junho, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos durante o trabalho.\n\nEntretanto, as Directivas n.os <a href=\"eurlex.asp?ano=1997&id=397L0042\" title=\"Link para Directiva da Comunidade Europeia\">97/42/CE</a>, do Conselho, de 27 de Junho, e <a href=\"eurlex.asp?ano=1999&id=399L0038\" title=\"Link para Directiva da Comunidade Europeia\">1999/38/CE</a>, do Conselho, de 29 de Abril, alteraram a referida regulamentação comunitária. As alterações mais significativas consistiram na extensão aos agentes mutagénicos, na adopção de valores limite de exposição profissional ao benzeno e ao pó de madeira de folhosas, no alargamento do conceito de agente cancerígeno através de novas frases na classificação das substâncias e das preparações perigosas susceptíveis de provocar situações de perigo para a saúde dos trabalhadores em resultado de exposições prolongadas. A avaliação do risco passou a ter em consideração todas as formas e vias de exposição, nomeadamente a absorção pela pele ou através dela. Foi, ainda, alterada a disposição referente aos hidrocarbonetos policílicos aromáticos, cuja redacção inicial deficiente causou dificuldades de aplicação em diversos Estados membros.\n\nA protecção dos trabalhadores contra o risco de exposição ao cloreto de vinilo monómero foi regulada pela Directiva n.º <a href=\"eurlex.asp?ano=1978&id=378L0610\" title=\"Link para Directiva da Comunidade Europeia\">78/610/CEE</a>, do Conselho, de 29 de Junho, transposta para a ordem jurídica interna através de legislação específica. O cloreto de vinilo monómero é classificado como agente cancerígeno da categoria 1, estando por isso abrangido pela regulamentação comunitária sobre a protecção dos trabalhadores contra o risco de exposição a agentes cancerígenos, que impõe um valor limite de exposição ao referido agente mais exigente. Por esse motivo e para assegurar a coerência e a unificação da regulamentação comunitária, a Directiva n.º <a href=\"eurlex.asp?ano=1978&id=378L0610\" title=\"Link para Directiva da Comunidade Europeia\">78/610/CEE</a> foi revogada, com efeitos a partir de 29 de Abril de 2003.\n\nAcompanhando a unificação da regulamentação comunitária, o presente diploma é igualmente aplicável à exposição profissional ao cloreto de vinilo monómero, sendo ao mesmo tempo revogada a legislação específica de transposição da Directiva n.º <a href=\"eurlex.asp?ano=1978&id=378L0610\" title=\"Link para Directiva da Comunidade Europeia\">78/610/CEE</a>, com efeito a partir da data de revogação desta directiva.\n\n2 - Nestas circunstâncias, é necessário transpor para a ordem jurídica interna a nova regulamentação comunitária, alterando em conformidade e extensamente o actual regime de protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos. A amplitude das alterações justifica a adopção de um novo diploma.\n\n3 - O projecto relativo ao presente diploma foi submetido a apreciação pública, através de publicação na separata n.º 5 do Boletim do Trabalho e Emprego, de 29 de Setembro de 1999. Na sequência dos pareceres de diversas associações sindicais e patronais, foram alterados alguns aspectos do diploma, nomeadamente a prestação de determinadas informações sobre a prevenção dos riscos às autoridades públicas, a realização em qualquer caso de exames de saúde antes da exposição dos trabalhadores aos riscos identificados, o conteúdo dos registos e arquivos que devem ser conservados durante, pelo menos, 40 anos após terminar a exposição dos trabalhadores, a informação e consulta dos trabalhadores e dos seus representantes e o diferimento da entrada em vigor do diploma para o termo do prazo de transposição da Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0038\" title=\"Link para Directiva da Comunidade Europeia\">1999/38/CE</a>, do Conselho, de 29 de Abril, em relação aos trabalhos susceptíveis de provocar a exposição ao pó de madeira de folhosas e às substâncias ou preparações que neles se libertem, além do valor limite de exposição profissional ao referido pó.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "137784483": {
+   "fragment_id": "137784329",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0394\" title=\"Link para Directiva da Comunidade Europeia\">90/394/CEE</a>, do Conselho, de 28 de Junho, alterada pelas Directivas n.os <a href=\"eurlex.asp?ano=1997&id=397L0042\" title=\"Link para Directiva da Comunidade Europeia\">97/42/CE</a>, do Conselho, de 27 de Junho, e <a href=\"eurlex.asp?ano=1999&id=399L0038\" title=\"Link para Directiva da Comunidade Europeia\">1999/38/CE</a>, do Conselho, de 29 de Abril, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho."
+  },
+  "137784484": {
+   "fragment_id": "137784330",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma é aplicável a situações em que os trabalhadores estão ou podem estar expostos a agentes cancerígenos ou mutagénicos durante o trabalho, no âmbito das actividades definidas no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro, na redacção dada pelo Decreto-Lei n.º 133/99, de 21 de Abril.\n\n2 - O presente diploma não se aplica aos trabalhadores expostos unicamente às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3 - Nas actividades em que haja risco de exposição ao amianto, são aplicáveis as medidas de protecção previstas no Decreto-Lei n.º 284/89, de 24 de Agosto, na redacção dada pelo Decreto-Lei n.º 389/93, de 20 de Novembro, e na Portaria n.º 1057/89, de 7 de Dezembro, salvo na parte em que o presente diploma for mais favorável à segurança e à saúde dos trabalhadores.\n\n4 - Nas actividades em que haja risco de exposição ao cloreto de vinilo monómero são aplicáveis as medidas de protecção previstas no Decreto-Lei n.º 273/89, de 21 de Agosto, até à data estabelecida no n.º 2 do artigo 21.º, salvo na parte em que o presente diploma for mais favorável à segurança e à saúde dos trabalhadores."
+  },
+  "137784485": {
+   "fragment_id": "137784331",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) «Agente cancerígeno» uma substância ou preparação classificada como cancerígena da categoria 1 ou 2, de acordo com os critérios da legislação relativa à classificação, embalagem e rotulagem das substâncias e preparações perigosas;\n\nb) «Agente mutagénico» uma substância ou preparação classificada como mutagénica da categoria 1 ou 2, de acordo com os critérios da legislação relativa à classificação, embalagem e rotulagem das substâncias e preparações perigosas;\n\nc) «Valor limite» o limite de concentração média ponderada de um agente cancerígeno presente na atmosfera do local de trabalho, na zona de respiração de um trabalhador, no período de referência indicado no anexo do presente diploma, que não deve ser ultrapassado.\n\n2 - São ainda considerados como cancerígenos as substâncias, as preparações, os trabalhos e os processos seguintes:\n\na) Fabrico de auramina;\n\nb) Trabalhos susceptíveis de provocar a exposição aos hidrocarbonetos policílicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou no pez da hulha;\n\nc) Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e electrorrefinação de mates de níquel;\n\nd) Processo de ácido forte durante o fabrico do álcool isopropílico;\n\ne) Trabalhos susceptíveis de provocar a exposição ao pó de madeira de folhosas;\n\nf) As substâncias ou as preparações que se libertem nos processos referidos nas alíneas anteriores."
+  },
+  "137784486": {
+   "fragment_id": "137784332",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação do risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação do risco\n\n1 - Nas actividades susceptíveis de apresentar risco de exposição a agentes cancerígenos ou mutagénicos, o empregador deve avaliar o risco para a segurança e a saúde dos trabalhadores, determinando a natureza, o grau e o tempo de exposição.\n\n2 - A avaliação do risco deve ser repetida periodicamente, bem como sempre que houver alterações das condições de trabalho susceptíveis de afectar a exposição dos trabalhadores a agentes cancerígenos ou mutagénicos e, ainda, nas situações previstas no n.º 4 do artigo 12.º\n\n3 - A avaliação do risco deve ter em conta todas as formas de exposição e vias de absorção, tais como a absorção pela pele ou através desta.\n\n4 - O empregador deve atender, na avaliação do risco, aos eventuais efeitos sobre a segurança e a saúde de trabalhadores particularmente sensíveis aos riscos a que estão expostos, bem como afastá-los de zonas onde possam estar em contacto com agentes cancerígenos ou mutagénicos."
+  },
+  "137784487": {
+   "fragment_id": "137784333",
+   "type": 11,
+   "heading": "Artigo 5.º — Substituição e redução de agentes cancerígenos ou mutagénicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Substituição e redução de agentes cancerígenos ou mutagénicos\n\n1 - O empregador deve evitar ou reduzir a utilização de agentes cancerígenos ou mutagénicos, substituindo-os por substâncias, preparações ou processos que, nas condições de utilização, não sejam perigosos ou impliquem menor risco para a segurança e a saúde dos trabalhadores.\n\n2 - Se não for tecnicamente possível a aplicação do disposto no número anterior, o empregador deve assegurar que a produção ou a utilização do agente cancerígeno ou mutagénico se faça em sistema fechado.\n\n3 - Se a aplicação de um sistema fechado não for tecnicamente possível, o empregador deve assegurar que o nível de exposição dos trabalhadores seja reduzido a um nível tão baixo quanto for tecnicamente possível e não ultrapasse os valores limite indicados no anexo."
+  },
+  "137784488": {
+   "fragment_id": "137784334",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução dos riscos de exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Redução dos riscos de exposição\n\nNas situações em que sejam utilizados agentes cancerígenos ou mutagénicos, além dos procedimentos referidos no artigo 5.º, o empregador deve aplicar conjuntamente as seguintes medidas:\n\na) Limitação das quantidades do agente cancerígeno ou mutagénico no local de trabalho;\n\nb) Redução ao mínimo possível do número de trabalhadores expostos ou susceptíveis de o serem;\n\nc) Concepção de processos de trabalho e de medidas técnicas que evitem ou minimizem a libertação de agentes cancerígenos ou mutagénicos no local de trabalho;\n\nd) Evacuação dos agentes cancerígenos ou mutagénicos na fonte, por aspiração localizada ou ventilação geral, adequadas e compatíveis com a protecção da saúde pública e do ambiente;\n\ne) Utilização de métodos apropriados de medição de agentes cancerígenos ou mutagénicos, em particular para a detecção precoce de exposições anormais resultantes de acontecimento imprevisível ou de acidente;\n\nf) Aplicação de processos e métodos de trabalho adequados;\n\ng) Medidas de protecção colectiva adequadas ou, se a exposição não puder ser evitada por outros meios, medidas de protecção individual;\n\nh) Medidas de higiene, nomeadamente a limpeza periódica dos pavimentos, paredes e outras superfícies;\n\ni) Informação dos trabalhadores e dos seus representantes;\n\nj) Delimitação das zonas de risco e utilização de adequada sinalização de segurança e de saúde, incluindo sinais de proibição de fumar em áreas onde haja risco de exposição a agentes cancerígenos ou mutagénicos;\n\nl) Instalação de dispositivos para situações de emergência susceptíveis de originar exposições anormalmente elevadas;\n\nm) Meios que permitam a armazenagem, o manuseamento e o transporte sem risco, nomeadamente mediante a utilização de recipientes herméticos e rotulados de forma distinta, clara e visível;\n\nn) Meios seguros de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo a utilização de recipientes herméticos e rotulados de forma distinta, clara e visível, de modo a não constituírem fonte de contaminação dos trabalhadores e dos locais de trabalho, que atendam às disposições legais sobre resíduos e protecção do ambiente."
+  },
+  "137784489": {
+   "fragment_id": "137784335",
+   "type": 11,
+   "heading": "Artigo 7.º — Medidas de higiene e protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de higiene e protecção individual\n\nSem prejuízo do disposto nos artigos 8.º e 9.º do Decreto-Lei n.º 441/91, de 14 de Novembro, na redacção dada pelo Decreto-Lei n.º 133/99, de 21 de Abril, nas actividades em que exista risco de contaminação por agentes cancerígenos ou mutagénicos, o empregador deve tomar medidas para:\n\na) Impedir que os trabalhadores comam, bebam ou fumem nas zonas de trabalho onde haja risco de contaminação por agentes cancerígenos ou mutagénicos;\n\nb) Fornecer aos trabalhadores vestuário de protecção adequado, proceder à sua limpeza após cada utilização e disponibilizar locais distintos para guardar separadamente o vestuário de trabalho ou de protecção e o vestuário de uso pessoal;\n\nc) Assegurar a existência de instalações sanitárias e de higiene adequadas;\n\nd) Verificar e assegurar a limpeza dos equipamentos de protecção individual, se possível antes e obrigatoriamente após cada utilização, e disponibilizar um local apropriado para a sua correcta arrumação;\n\ne) Reparar e substituir os equipamentos de protecção individual defeituosos antes de nova utilização."
+  },
+  "137784490": {
+   "fragment_id": "137784336",
+   "type": 11,
+   "heading": "Artigo 8.º — Informação das autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informação das autoridades competentes\n\n1 - Se o resultado da avaliação revelar a existência de riscos para a segurança e a saúde dos trabalhadores, o empregador deve conservar e manter disponíveis as informações sobre:\n\na) As actividades e os processos industriais em causa, as razões por que são utilizados agentes cancerígenos ou mutagénicos e os eventuais casos de substituição;\n\nb) As quantidades de substâncias ou preparações fabricadas ou utilizadas que contenham agentes cancerígenos ou mutagénicos;\n\nc) O número de trabalhadores expostos, bem como a natureza, o grau e o tempo de exposição;\n\nd) As medidas de prevenção tomadas e os equipamentos de protecção utilizados.\n\n2 - O Centro Nacional de Protecção contra os Riscos Profissionais, o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho e as autoridades da saúde têm acesso à informação referida no número anterior, sempre que o solicitem.\n\n3 - A entidade patronal deve, ainda, informar as entidades mencionadas no número anterior, a pedido destas, sobre:\n\na) Os elementos que serviram de base à avaliação do risco;\n\nb) O resultado de investigações que promova sobre a substituição e redução de agentes cancerígenos ou mutagénicos e a redução dos riscos de exposição."
+  },
+  "137784491": {
+   "fragment_id": "137784337",
+   "type": 11,
+   "heading": "Artigo 9.º — Exposição imprevisível ou acidental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exposição imprevisível ou acidental\n\nNas situações imprevisíveis ou acidentais em que os trabalhadores possam estar sujeitos a uma exposição anormal, o empregador deve informar os trabalhadores e os seus representantes desse facto e tomar, até ao restabelecimento da situação normal, as seguintes medidas:\n\na) Limitar o número de trabalhadores na zona afectada aos indispensáveis à execução das reparações e de outros trabalhos necessários;\n\nb) Colocar à disposição, dos trabalhadores referidos na alínea anterior vestuário de protecção e equipamento individual de protecção respiratória;\n\nc) Impedir a exposição permanente e limitá-la ao estritamente necessário para cada trabalhador;\n\nd) Impedir que os trabalhadores não protegidos permaneçam na área afectada."
+  },
+  "137784492": {
+   "fragment_id": "137784338",
+   "type": 11,
+   "heading": "Artigo 10.º — Exposição regular ou previsível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exposição regular ou previsível\n\nNas actividades em que seja previsível um aumento significativo de exposição, nomeadamente a manutenção, em que já não seja possível a aplicação de medidas técnicas preventivas suplementares para limitar a exposição, o empregador deve:\n\na) Após consulta dos trabalhadores e dos seus representantes, e sem prejuízo da responsabilidade da entidade patronal, tomar as medidas necessárias para reduzir ao mínimo a exposição dos trabalhadores e assegurar a sua protecção durante a realização dessas actividades;\n\nb) Colocar à disposição dos trabalhadores vestuário de protecção e equipamento individual de protecção respiratória, a ser utilizado enquanto durar a exposição anormal;\n\nc) Assegurar que a exposição de cada trabalhador não tenha carácter permanente e seja limitada ao estritamente necessário;\n\nd) Tomar as medidas adequadas para que as zonas onde decorrem essas actividades sejam delimitadas e devidamente assinaladas e só tenham acesso a elas as pessoas autorizadas."
+  },
+  "137784493": {
+   "fragment_id": "137784339",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso às zonas de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acesso às zonas de risco\n\nO empregador deve assegurar que o acesso às zonas onde decorrem actividades que apresentem risco seja limitado aos trabalhadores que nelas tenham de entrar por causa das suas funções."
+  },
+  "137784494": {
+   "fragment_id": "137784340",
+   "type": 11,
+   "heading": "Artigo 12.º — Vigilância da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vigilância da saúde\n\n1 - Sem prejuízo do disposto no artigo 16.º do Decreto-Lei n.º 26/94, de 1 de Fevereiro, na redacção dada pela Lei n.º 7/95, de 29 de Março, e pelo Decreto-Lei n.º 109/2000, de 30 de Junho, o empregador deve assegurar a vigilância da saúde dos trabalhadores em relação aos quais o resultado da avaliação revele a existência de riscos, através de exames de saúde de admissão, periódicos e ocasionais, devendo em qualquer caso os primeiros ser realizados antes da exposição aos riscos.\n\n2 - A vigilância da saúde dos trabalhadores deve permitir a aplicação de medidas de saúde individuais, dos princípios e práticas da medicina do trabalho de acordo com os conhecimentos mais recentes, e incluir os seguintes procedimentos:\n\na) Registo da história clínica e profissional de cada trabalhador;\n\nb) Avaliação individual do seu estado de saúde;\n\nc) Vigilância biológica, sempre que necessária;\n\nd) Rastreio de efeitos precoces e reversíveis.\n\n3 - O empregador deve tomar, em relação a cada trabalhador, as medidas preventivas ou de protecção propostas pelo médico do trabalho ou pela entidade responsável pela vigilância da saúde dos trabalhadores.\n\n4 - Se um trabalhador sofrer de uma doença identificável ou um efeito nocivo que possa ter sido provocado pela exposição a agentes cancerígenos ou mutagénicos, o médico de trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores pode exigir que se proceda à vigilância da saúde dos outros trabalhadores que tenham estado sujeitos a exposição idêntica, devendo nestes casos ser repetida a avaliação de risco.\n\n5 - Os trabalhadores têm acesso aos resultados da vigilância da saúde que lhes digam directamente respeito e podem, bem como o empregador, solicitar a revisão desses resultados.\n\n6 - Devem ser prestados aos trabalhadores informações e conselhos sobre a vigilância de saúde a que devem ser submetidos depois de terminar a exposição ao risco.\n\n7 - O empregador deve assegurar que o médico do trabalho participe ao Centro Nacional de Protecção contra os Riscos Profissionais todos os casos de cancro identificados como resultantes da exposição a um agente cancerígeno ou mutagénico durante o trabalho."
+  },
+  "137784495": {
+   "fragment_id": "137784341",
+   "type": 11,
+   "heading": "Artigo 13.º — Formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formação dos trabalhadores\n\n1 - O empregador deve assegurar a formação adequada e suficiente dos trabalhadores e dos seus representantes para a segurança, higiene e saúde no trabalho, no início de uma actividade profissional que implique contactos com agentes cancerígenos ou mutagénicos.\n\n2 - A formação referida no número anterior deve ser adaptada à evolução dos riscos existentes e ao aparecimento de novos riscos, ser periodicamente actualizada, ou repetida se necessário, e incluir todos os dados disponíveis sobre:\n\na) Riscos potenciais para a segurança e a saúde, incluindo os riscos adicionais resultantes do consumo de tabaco;\n\nb) Medidas de prevenção para evitar a exposição aos riscos existentes;\n\nc) Normas em matéria de higiene individual e colectiva;\n\nd) Utilização dos equipamentos e de vestuário de protecção;\n\ne) Medidas a tomar pelos trabalhadores, nomeadamente o pessoal de intervenção, em caso de incidentes e para prevenção dos mesmos."
+  },
+  "137784496": {
+   "fragment_id": "137784342",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação dos trabalhadores\n\n1 - O empregador deve, sem prejuízo das suas responsabilidades, fornecer aos trabalhadores e aos seus representantes informações relativas à aplicação das medidas previstas no presente diploma, nomeadamente as que respeitem às consequências para a segurança e a saúde dos trabalhadores resultantes da escolha e utilização do vestuário e dos equipamentos de protecção e à aplicação das medidas referidas na alínea a) do artigo 10.º\n\n2 - Os trabalhadores e os seus representantes devem ser informados o mais rapidamente possível sobre as exposições anormais, as suas causas e as medidas tomadas ou a tomar para sanar a situação.\n\n3 - O empregador deve informar os trabalhadores sobre as instalações e armazenagens anexas que contenham agentes cancerígenos ou mutagénicos, assegurar que todos os recipientes e embalagens sejam rotulados de forma clara e legível e afixar sinais de perigo bem visíveis.\n\n4 - O empregador deve colocar à disposição do médico do trabalho ou da entidade responsável pela vigilância da saúde dos trabalhadores a lista prevista na alínea b) do artigo 16.º, bem como informações sobre as exposições imprevisíveis ou acidentais.\n\n5 - O empregador deve colocar à disposição dos trabalhadores as informações constantes da lista referida no número anterior que lhe digam directamente respeito, bem como facultar aos representantes dos trabalhadores as informações colectivas anónimas."
+  },
+  "137784497": {
+   "fragment_id": "137784343",
+   "type": 11,
+   "heading": "Artigo 15.º — Informação e consulta dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Informação e consulta dos trabalhadores\n\nO empregador deve assegurar a informação e consulta dos trabalhadores e dos seus representantes para a segurança, higiene e saúde no trabalho sobre a aplicação das disposições do presente diploma."
+  },
+  "137784498": {
+   "fragment_id": "137784344",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo e arquivo de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo e arquivo de documentos\n\nO empregador deve organizar registos de dados e conservar arquivos actualizados sobre:\n\na) Os resultados da avaliação a que se refere o artigo 4.º, bem como os critérios e procedimentos da avaliação, os métodos de medição, análises e ensaios utilizados;\n\nb) A lista dos trabalhadores expostos, com a indicação da natureza e, se possível, do grau de exposição a que cada trabalhador esteve sujeito;\n\nc) Os resultados da vigilância da saúde de cada trabalhador, com a indicação do respectivo posto de trabalho, dos exames médicos e complementares realizados e de outros elementos que o médico responsável considere úteis."
+  },
+  "137784499": {
+   "fragment_id": "137784345",
+   "type": 11,
+   "heading": "Artigo 17.º — Conservação de registos e arquivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conservação de registos e arquivos\n\n1 - Os registos e arquivos referidos no artigo anterior devem ser conservados durante, pelo menos, 40 anos após ter terminado a exposição dos trabalhadores a que digam respeito.\n\n2 - Se a empresa cessar a actividade, os registos e arquivos devem ser transferidos para o Centro Nacional de Protecção contra os Riscos Profissionais, que assegurará a sua confidencialidade."
+  },
+  "137784500": {
+   "fragment_id": "137784346",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave, para efeitos do disposto na Lei n.º 116/99, de 4 de Agosto, a violação dos artigos 4.º e 5.º, das alíneas a) a e), g) e j) a n) do artigo 6.º, do artigo 13.º e do n.º 3 do artigo 14.º\n\n2 - Constitui contra-ordenação grave, para efeitos do disposto na Lei n.º 116/99, de 4 de Agosto, a violação das alíneas f), h) e i) do artigo 6.º, do artigo 7.º, dos artigos 8.º, 9.º, 10.º, 11.º e 12.º, dos n.os 1, 2, 4 e 5 do artigo 14.º e dos artigos 15.º, 16.º e 17.º"
+  },
+  "137784501": {
+   "fragment_id": "137784347",
+   "type": 11,
+   "heading": "Artigo 19.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Fiscalização\n\nA fiscalização do cumprimento do presente diploma compete ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho e à Direcção-Geral da Saúde, no âmbito das respectivas competências."
+  },
+  "137784502": {
+   "fragment_id": "137784348",
+   "type": 11,
+   "heading": "Artigo 20.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira, as referências ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho entendem-se feitas aos órgãos e serviços próprios das respectivas administrações regionais."
+  },
+  "137784503": {
+   "fragment_id": "137784349",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\n1 - É revogado o Decreto-Lei n.º 390/93, de 20 de Novembro.\n\n2 - É revogado o Decreto-Lei n.º 273/89, de 21 de Agosto, com efeitos a partir de 29 de Abril de 2003."
+  },
+  "137784504": {
+   "fragment_id": "137784350",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no 5.º dia útil após a sua publicação.\n\n2 - O valor limite de exposição profissional para o benzeno de 3 ppm, indicado no anexo, passará a 1 ppm a partir de 27 de Junho de 2003.\n\n3 - A aplicabilidade do presente diploma aos trabalhos susceptíveis de provocar a exposição ao pó de madeira de folhosas e às substâncias ou preparações que neles se libertem e o valor limite de exposição profissional ao referido pó entram em vigor a partir de 30 de Abril de 2003."
+  },
+  "137784506": {
+   "fragment_id": "137784352",
+   "type": 14,
+   "heading": "Anexo — Valores limite de exposição profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Valores limite de exposição profissional\n\n(ver quadro no documento original)"
+  },
+  "137784507": {
+   "fragment_id": "137784330",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma é aplicável às situações em que os trabalhadores estão ou podem estar expostos a agentes cancerígenos ou mutagénicos durante o trabalho, no âmbito das atividades definidas no regime jurídico da promoção da segurança e saúde no trabalho.\n\n2 - O presente diploma não se aplica aos trabalhadores expostos unicamente às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3 - Nas atividades em que haja risco de exposição ao amianto, são aplicáveis as medidas de proteção previstas no regime jurídico relativo à proteção sanitária dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho, salvo na parte em que o presente diploma for mais favorável à segurança e à saúde dos trabalhadores.\n\n4 - Nas actividades em que haja risco de exposição ao cloreto de vinilo monómero são aplicáveis as medidas de protecção previstas no Decreto-Lei n.º 273/89, de 21 de Agosto, até à data estabelecida no n.º 2 do artigo 21.º, salvo na parte em que o presente diploma for mais favorável à segurança e à saúde dos trabalhadores.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784508": {
+   "fragment_id": "137784331",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) «Agente cancerígeno» qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008;\n\nb) «Agente mutagénico» qualquer substância ou mistura que preencha os requisitos para ser classificada como agente mutagénico de células germinativas das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008;\n\nc) «Valor limite» o limite de concentração média ponderada de um agente cancerígeno presente na atmosfera do local de trabalho, na zona de respiração de um trabalhador, no período de referência indicado no anexo do presente diploma, que não deve ser ultrapassado.\n\n2 - São ainda considerados como cancerígenos as substâncias, as misturas, os trabalhos e os processos seguintes:\n\na) Fabrico de auramina;\n\nb) Trabalhos susceptíveis de provocar a exposição aos hidrocarbonetos policílicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou no pez da hulha;\n\nc) Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e electrorrefinação de mates de níquel;\n\nd) Processo de ácido forte durante o fabrico do álcool isopropílico;\n\ne) Trabalhos suscetíveis de provocar a exposição a poeira de madeira de folhosas;\n\nf) As substâncias ou as misturas que se libertem nos processos referidos nas alíneas anteriores.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784509": {
+   "fragment_id": "137784333",
+   "type": 11,
+   "heading": "Artigo 5.º — Substituição e redução de agentes cancerígenos ou mutagénicos",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Substituição e redução de agentes cancerígenos ou mutagénicos\n\n1 - O empregador deve evitar ou reduzir a utilização de agentes cancerígenos ou mutagénicos, substituindo-os por substâncias, misturas ou processos que, nas condições de utilização, não sejam perigosos ou impliquem menor risco para a segurança e a saúde dos trabalhadores.\n\n2 - Se não for tecnicamente possível a aplicação do disposto no número anterior, o empregador deve assegurar que a produção ou a utilização do agente cancerígeno ou mutagénico se faça em sistema fechado.\n\n3 - Se a aplicação de um sistema fechado não for tecnicamente possível, o empregador deve assegurar que o nível de exposição dos trabalhadores seja reduzido a um nível tão baixo quanto for tecnicamente possível e não ultrapasse os valores limite indicados no anexo.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784510": {
+   "fragment_id": "137784335",
+   "type": 11,
+   "heading": "Artigo 7.º — Medidas de higiene e protecção individual",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Medidas de higiene e protecção individual\n\nSem prejuízo do disposto em matéria de obrigações gerais do empregador e informação e consulta dos trabalhadores previstas no regime jurídico da promoção da segurança e saúde no trabalho, nas atividades em que exista risco de contaminação por agentes cancerígenos ou mutagénicos, o empregador deve tomar medidas para:\n\na) Impedir que os trabalhadores comam, bebam ou fumem nas zonas de trabalho onde haja risco de contaminação por agentes cancerígenos ou mutagénicos;\n\nb) Fornecer aos trabalhadores vestuário de protecção adequado, proceder à sua limpeza após cada utilização e disponibilizar locais distintos para guardar separadamente o vestuário de trabalho ou de protecção e o vestuário de uso pessoal;\n\nc) Assegurar a existência de instalações sanitárias e de higiene adequadas;\n\nd) Verificar e assegurar a limpeza dos equipamentos de protecção individual, se possível antes e obrigatoriamente após cada utilização, e disponibilizar um local apropriado para a sua correcta arrumação;\n\ne) Reparar e substituir os equipamentos de protecção individual defeituosos antes de nova utilização.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784511": {
+   "fragment_id": "137784336",
+   "type": 11,
+   "heading": "Artigo 8.º — Informação das autoridades competentes",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Informação das autoridades competentes\n\n1 - Se o resultado da avaliação revelar a existência de riscos para a segurança e a saúde dos trabalhadores, o empregador deve conservar e manter disponíveis as informações sobre:\n\na) As actividades e os processos industriais em causa, as razões por que são utilizados agentes cancerígenos ou mutagénicos e os eventuais casos de substituição;\n\nb) As quantidades de substâncias ou misturas fabricadas ou utilizadas que contenham agentes cancerígenos ou mutagénicos;\n\nc) O número de trabalhadores expostos, bem como a natureza, o grau e o tempo de exposição;\n\nd) As medidas de prevenção tomadas e os equipamentos de protecção utilizados.\n\n2 - O Departamento de Proteção contra Riscos Profissionais, a Autoridade para as Condições do Trabalho e as autoridades da saúde têm acesso à informação referida no número anterior, sempre que o solicitem.\n\n3 - A entidade patronal deve, ainda, informar as entidades mencionadas no número anterior, a pedido destas, sobre:\n\na) Os elementos que serviram de base à avaliação do risco;\n\nb) O resultado de investigações que promova sobre a substituição e redução de agentes cancerígenos ou mutagénicos e a redução dos riscos de exposição.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784512": {
+   "fragment_id": "137784340",
+   "type": 11,
+   "heading": "Artigo 12.º — Vigilância da saúde",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 12.º — Vigilância da saúde\n\n1 - Sem prejuízo do disposto em matéria de exames de saúde no regime jurídico da promoção da segurança e saúde no trabalho, o empregador deve assegurar a vigilância da saúde dos trabalhadores em relação aos quais o resultado da avaliação revele a existência de riscos, através de exames de saúde de admissão, periódicos e ocasionais, devendo em qualquer caso os primeiros ser realizados antes da exposição aos riscos.\n\n2 - A vigilância da saúde dos trabalhadores deve permitir a aplicação de medidas de saúde individuais, dos princípios e práticas da medicina do trabalho de acordo com os conhecimentos mais recentes, e incluir os seguintes procedimentos:\n\na) Registo da história clínica e profissional de cada trabalhador;\n\nb) Avaliação individual do seu estado de saúde;\n\nc) Vigilância biológica, sempre que necessária;\n\nd) Rastreio de efeitos precoces e reversíveis.\n\n3 - O empregador deve tomar, em relação a cada trabalhador, as medidas preventivas ou de protecção propostas pelo médico do trabalho ou pela entidade responsável pela vigilância da saúde dos trabalhadores.\n\n4 - Se um trabalhador sofrer de uma doença identificável ou um efeito nocivo que possa ter sido provocado pela exposição a agentes cancerígenos ou mutagénicos, o médico de trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores pode exigir que se proceda à vigilância da saúde dos outros trabalhadores que tenham estado sujeitos a exposição idêntica, devendo nestes casos ser repetida a avaliação de risco.\n\n5 - Os trabalhadores têm acesso aos resultados da vigilância da saúde que lhes digam directamente respeito e podem, bem como o empregador, solicitar a revisão desses resultados.\n\n6 - Devem ser prestados aos trabalhadores informações e conselhos sobre a vigilância de saúde a que devem ser submetidos depois de terminar a exposição ao risco.\n\n7 - O empregador deve assegurar que o médico do trabalho participe ao Centro Nacional de Protecção contra os Riscos Profissionais todos os casos de cancro identificados como resultantes da exposição a um agente cancerígeno ou mutagénico durante o trabalho.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784513": {
+   "fragment_id": "137784346",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Constitui contraordenação muito grave a violação dos artigos 4.º e 5.º, das alíneas a) a e), g) e j) a n) do artigo 6.º, do artigo 13.º e do n.º 3 do artigo 14.º\n\n2 - Constitui contraordenação grave a violação das alíneas f), h) e i) do artigo 6.º, do artigo 7.º, dos artigos 8.º, 9.º, 10.º, 11.º e 12.º, dos n.os 1, 2, 4 e 5 do artigo 14.º e dos artigos 15.º, 16.º e 17.º\n\n3 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho aplica-se às infrações por violação do presente diploma.\n\n4 - O processamento das contraordenações laborais segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784514": {
+   "fragment_id": "137784347",
+   "type": 11,
+   "heading": "Artigo 19.º — Fiscalização",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 19.º — Fiscalização\n\nA fiscalização do cumprimento do presente diploma compete à Autoridade para as Condições do Trabalho e à Direção-Geral da Saúde, no âmbito das respetivas competências.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784515": {
+   "fragment_id": "137784348",
+   "type": 11,
+   "heading": "Artigo 20.º — Regiões Autónomas",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 20.º — Regiões Autónomas\n\nSem prejuízo das competências legislativas próprias, as competências atribuídas pelo presente diploma às autoridades e serviços administrativos são, nas Regiões Autónomas, exercidas pelos órgãos e serviços das respetivas administrações regionais.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784516": {
+   "fragment_id": "137784350",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no 5.º dia útil após a sua publicação.\n\n2 - O valor limite de exposição profissional para o benzeno de 3 ppm, indicado no anexo, passará a 1 ppm a partir de 27 de Junho de 2003.\n\n3 - O presente diploma aplica-se aos trabalhos suscetíveis de provocar a exposição a poeira de madeira de folhosas e às substâncias ou misturas que neles se libertem, bem como ao valor limite de exposição profissional para a referida poeira a partir de 30 de abril de 2003.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784505": {
+   "fragment_id": "137784351",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - António Luís Santos Costa - Mário Cristina de Sousa - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa.\n\nPromulgado em 6 de Novembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Novembro de 2000.\n\nPelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado."
+  },
+  "137784517": {
+   "fragment_id": "137784352",
+   "type": 14,
+   "heading": "Anexo — Valores limite de exposição profissional",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "## Anexo — Valores limite de exposição profissional\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784555": {
+   "fragment_id": "137784330",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma é aplicável às situações em que os trabalhadores estão ou podem estar expostos a agentes cancerígenos ou mutagénicos durante o trabalho, no âmbito das atividades definidas no regime jurídico da promoção da segurança e saúde no trabalho.\n\n2 - O presente diploma não se aplica aos trabalhadores expostos unicamente às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3 - Nas atividades em que haja risco de exposição ao amianto, são aplicáveis as medidas de proteção previstas no regime jurídico relativo à proteção sanitária dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho, salvo na parte em que o presente diploma for mais favorável à segurança e à saúde dos trabalhadores.\n\n4 - Revogado.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784547": {
+   "fragment_id": "137784331",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) «Agente cancerígeno» qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008;\n\nb) «Agente mutagénico» qualquer substância ou mistura que preencha os requisitos para ser classificada como agente mutagénico de células germinativas das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008;\n\nc) 'Valor-limite de exposição profissional' o limite de concentração média ponderada de um agente cancerígeno ou mutagénico presente na atmosfera do local de trabalho, medido na zona de respiração de um trabalhador, no período de referência, que não deve ser ultrapassado, indicado no anexo ao presente decreto-lei e do qual faz parte integrante.\n\n2 - São ainda considerados como cancerígenos as substâncias, as misturas, os trabalhos e os processos seguintes:\n\na) Fabrico de auramina;\n\nb) Trabalhos susceptíveis de provocar a exposição aos hidrocarbonetos policílicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou no pez da hulha;\n\nc) Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e electrorrefinação de mates de níquel;\n\nd) Processo de ácido forte durante o fabrico do álcool isopropílico;\n\ne) Trabalhos que impliquem a exposição a poeira de madeira de folhosas;\n\nf) As substâncias ou as misturas que se libertem nos processos referidos nas alíneas anteriores.\n\ng) Trabalhos que impliquem a exposição a poeira sílica cristalina respirável resultante de um processo de trabalho;\n\nh) Trabalhos que impliquem a exposição cutânea a óleos minerais, que tenham sido previamente utilizados em motores de combustão interna, para lubrificar e arrefecer as peças móveis dentro do motor;\n\ni) Trabalhos que impliquem a exposição a emissões de gases de escape dos motores diesel.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784548": {
+   "fragment_id": "137784332",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação do risco",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 4.º — Avaliação do risco\n\n1 - Nas atividades suscetíveis de apresentar risco de exposição a agentes cancerígenos ou mutagénicos, o empregador deve avaliar o risco para a segurança e a saúde dos trabalhadores, determinando para os postos de trabalho:\n\na) A natureza, o grau e o tempo de exposição ao agente cancerígeno ou mutagénico;\n\nb) A concentração do agente cancerígeno ou mutagénico na atmosfera do local de trabalho, considerando os valores-limite de exposição profissional constantes do anexo ao presente decreto-lei, devendo ser seguidas as normas e especificações técnicas na área da segurança e saúde no trabalho relativas, nomeadamente, a metodologias, procedimentos e critérios de amostragem, no âmbito do sistema português da qualidade;\n\nc) As condições reais de exposição profissional, incluindo a interação com outros agentes ou fatores de risco profissional.\n\n2 - A avaliação do risco deve ser repetida de três em três meses:\n\na) Sempre que houver alterações das condições de trabalho suscetíveis de afetar a exposição dos trabalhadores a agentes cancerígenos ou mutagénicos;\n\nb) Sempre que seja ultrapassado o valor-limite de exposição profissional indicado no anexo ao presente decreto-lei;\n\nc) Quando o resultado da vigilância da saúde justificar a necessidade de nova avaliação, designadamente nas situações previstas no n.º 6 do artigo 12.º\n\n3 - A avaliação de riscos deve ainda:\n\na) Identificar os trabalhadores expostos, incluindo aqueles que, apresentando particular sensibilidade, podem necessitar de medidas de proteção especial, afastando-os de zonas onde possam estar em contacto com agentes cancerígenos ou mutagénicos;\n\nb) Ter em conta todas as formas de exposição e vias de absorção, tais como a absorção pela pele ou através desta;\n\nc) Atender a todas as atividades específicas do trabalhador, incluindo a reparação ou manutenção, em que seja previsível a possibilidade de exposição significativa a agentes cancerígenos ou mutagénicos, ainda que sejam cumpridas todas as medidas técnicas adequadas;\n\nd) Atender às informações relativas à segurança e saúde constantes da respetiva ficha de dados de segurança;\n\ne) Ter em conta o estado de saúde do trabalhador exposto e as suas características individuais;\n\nf) Considerar as recomendações dos organismos competentes no domínio da segurança e da saúde no trabalho.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "137784518": {
+   "fragment_id": "137784353",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Ultrapassagem do valor-limite de exposição profissional",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 4.º-A — Ultrapassagem do valor-limite de exposição profissional\n\n1 - Quando a determinação da concentração do agente cancerígeno ou mutagénico na atmosfera do local de trabalho revele a sujeição de algum trabalhador a um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo ao presente decreto-lei, o empregador:\n\na) Identifica as causas da situação e aplica, de imediato, as medidas adequadas, nomeadamente as previstas nos artigos seguintes;\n\nb) Procede a nova determinação da concentração do agente cancerígeno ou mutagénico na atmosfera do local de trabalho e à avaliação da exposição profissional, a fim de verificar a eficácia das medidas adotadas.\n\n2 - Sempre que as medidas referidas no número anterior não possam ser, em virtude da sua natureza ou importância, adotadas no prazo de um mês, ou quando a nova avaliação da exposição ao agente cancerígeno ou mutagénico indique que persiste a situação de ultrapassagem do valor-limite de exposição profissional, o trabalho na zona afetada só pode prosseguir se forem implementadas medidas específicas para a proteção dos trabalhadores expostos, ouvido o médico responsável pela vigilância da saúde dos respetivos trabalhadores.\n\n3 - Quando, na execução de trabalhos, seja previsível a ultrapassagem do valor-limite de exposição profissional e não seja possível a aplicação de medidas técnicas para o reduzir, o empregador adota as medidas de proteção adequadas, devendo consultar os representantes dos trabalhadores ou, na sua ausência, os próprios trabalhadores, antes de iniciar os referidos trabalhos.\n\n4 - Sempre que a determinação da concentração do agente cancerígeno ou mutagénico na atmosfera do local de trabalho revele a existência de um valor de exposição profissional inferior ao valor-limite de exposição profissional indicado no anexo ao presente decreto-lei, a frequência do controlo é trimestral, desde que não ocorra nenhuma modificação importante nos processos de trabalho ou nas condições dos locais de trabalho.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "137784519": {
+   "fragment_id": "137784333",
+   "type": 11,
+   "heading": "Artigo 5.º — Substituição e redução de agentes cancerígenos ou mutagénicos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Substituição e redução de agentes cancerígenos ou mutagénicos\n\n1 - O empregador deve evitar ou reduzir a utilização de agentes cancerígenos ou mutagénicos, substituindo-os por substâncias, misturas ou processos que, nas condições de utilização, não sejam perigosos ou impliquem menor risco para a segurança e a saúde dos trabalhadores.\n\n2 - Se não for tecnicamente possível a aplicação do disposto no número anterior, o empregador deve assegurar que a produção ou a utilização do agente cancerígeno ou mutagénico se faça em sistema fechado.\n\n3 - Se a aplicação de um sistema fechado não for tecnicamente possível, o empregador deve assegurar que o nível de exposição dos trabalhadores seja reduzido a um nível tão baixo quanto for tecnicamente possível e não ultrapasse os valores limite indicados no anexo.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784520": {
+   "fragment_id": "137784334",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução dos riscos de exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Redução dos riscos de exposição\n\nNas situações em que sejam utilizados agentes cancerígenos ou mutagénicos, além dos procedimentos referidos no artigo 5.º, o empregador deve aplicar conjuntamente as seguintes medidas:\n\na) Limitação das quantidades do agente cancerígeno ou mutagénico no local de trabalho;\n\nb) Redução ao mínimo possível do número de trabalhadores expostos ou susceptíveis de o serem;\n\nc) Concepção de processos de trabalho e de medidas técnicas que evitem ou minimizem a libertação de agentes cancerígenos ou mutagénicos no local de trabalho;\n\nd) Evacuação dos agentes cancerígenos ou mutagénicos na fonte, por aspiração localizada ou ventilação geral, adequadas e compatíveis com a protecção da saúde pública e do ambiente;\n\ne) Utilização de métodos apropriados de medição de agentes cancerígenos ou mutagénicos, em particular para a detecção precoce de exposições anormais resultantes de acontecimento imprevisível ou de acidente;\n\nf) Aplicação de processos e métodos de trabalho adequados;\n\ng) Medidas de protecção colectiva adequadas ou, se a exposição não puder ser evitada por outros meios, medidas de protecção individual;\n\nh) Medidas de higiene, nomeadamente a limpeza periódica dos pavimentos, paredes e outras superfícies;\n\ni) Informação dos trabalhadores e dos seus representantes;\n\nj) Delimitação das zonas de risco e utilização de adequada sinalização de segurança e de saúde, incluindo sinais de proibição de fumar em áreas onde haja risco de exposição a agentes cancerígenos ou mutagénicos;\n\nl) Instalação de dispositivos para situações de emergência susceptíveis de originar exposições anormalmente elevadas;\n\nm) Meios que permitam a armazenagem, o manuseamento e o transporte sem risco, nomeadamente mediante a utilização de recipientes herméticos e rotulados de forma distinta, clara e visível;\n\nn) Meios seguros de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo a utilização de recipientes herméticos e rotulados de forma distinta, clara e visível, de modo a não constituírem fonte de contaminação dos trabalhadores e dos locais de trabalho, que atendam às disposições legais sobre resíduos e protecção do ambiente."
+  },
+  "137784549": {
+   "fragment_id": "137784335",
+   "type": 11,
+   "heading": "Artigo 7.º — Medidas de higiene e protecção individual",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Medidas de higiene e protecção individual\n\nSem prejuízo do disposto em matéria de obrigações gerais do empregador e informação e consulta dos trabalhadores previstas no regime jurídico da promoção da segurança e saúde no trabalho, nas atividades em que exista risco de contaminação por agentes cancerígenos ou mutagénicos, o empregador deve tomar medidas para:\n\na) Impedir que os trabalhadores comam, bebam ou fumem nas zonas de trabalho onde haja risco de contaminação por agentes cancerígenos ou mutagénicos;\n\nb) Fornecer aos trabalhadores vestuário de protecção adequado, proceder à sua limpeza após cada utilização e disponibilizar locais distintos para guardar separadamente o vestuário de trabalho ou de protecção e o vestuário de uso pessoal;\n\nc) Assegurar a existência de instalações sanitárias e de higiene adequadas de acordo com as prescrições mínimas de segurança e saúde nos locais de trabalho;\n\nd) Selecionar, utilizar, manter e eliminar os equipamentos de proteção individual, de acordo com a legislação específica sobre a matéria e com as recomendações do organismo competente no domínio da segurança no trabalho.\n\ne) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784550": {
+   "fragment_id": "137784336",
+   "type": 11,
+   "heading": "Artigo 8.º — Informação das autoridades competentes",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Informação das autoridades competentes\n\n1 - Se o resultado da avaliação revelar a existência de riscos para a segurança e a saúde dos trabalhadores, o empregador deve conservar e manter disponíveis as informações sobre:\n\na) As actividades e os processos industriais em causa, as razões por que são utilizados agentes cancerígenos ou mutagénicos e os eventuais casos de substituição;\n\nb) A classificação das substâncias ou misturas, de acordo com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, e respetivas quantidades, que contenham agentes cancerígenos ou mutagénicos;\n\nc) O número de trabalhadores expostos, bem como a natureza, o grau e o tempo de exposição;\n\nd) As medidas de prevenção tomadas e os equipamentos de protecção utilizados.\n\n2 - O Instituto da Segurança Social, I. P. (ISS, I. P.), a Autoridade para as Condições do Trabalho, a Direção-Geral da Saúde e as autoridades de saúde têm acesso à informação referida no número anterior, sempre que o solicitem.\n\n3 - O empregador deve, ainda, informar as entidades mencionadas no número anterior, a pedido destas, sobre:\n\na) Os elementos que serviram de base à avaliação do risco;\n\nb) O resultado de investigações que promova sobre a substituição e redução de agentes cancerígenos ou mutagénicos e a redução dos riscos de exposição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784523": {
+   "fragment_id": "137784337",
+   "type": 11,
+   "heading": "Artigo 9.º — Exposição imprevisível ou acidental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exposição imprevisível ou acidental\n\nNas situações imprevisíveis ou acidentais em que os trabalhadores possam estar sujeitos a uma exposição anormal, o empregador deve informar os trabalhadores e os seus representantes desse facto e tomar, até ao restabelecimento da situação normal, as seguintes medidas:\n\na) Limitar o número de trabalhadores na zona afectada aos indispensáveis à execução das reparações e de outros trabalhos necessários;\n\nb) Colocar à disposição, dos trabalhadores referidos na alínea anterior vestuário de protecção e equipamento individual de protecção respiratória;\n\nc) Impedir a exposição permanente e limitá-la ao estritamente necessário para cada trabalhador;\n\nd) Impedir que os trabalhadores não protegidos permaneçam na área afectada."
+  },
+  "137784551": {
+   "fragment_id": "137784338",
+   "type": 11,
+   "heading": "Artigo 10.º — Exposição regular ou previsível",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 10.º — Exposição regular ou previsível\n\nNas actividades em que seja previsível um aumento significativo de exposição, nomeadamente a manutenção, em que já não seja possível a aplicação de medidas técnicas preventivas suplementares para limitar a exposição, o empregador deve:\n\na) Após consulta dos trabalhadores e dos seus representantes, e sem prejuízo da responsabilidade do empregador, tomar as medidas necessárias para reduzir ao mínimo a exposição dos trabalhadores e assegurar a sua proteção durante a realização dessas atividades;\n\nb) Colocar à disposição dos trabalhadores vestuário de proteção, equipamento individual de proteção respiratória ou outro que se revele necessário, a ser utilizado enquanto durar a exposição anormal;\n\nc) Assegurar que a exposição de cada trabalhador não tenha carácter permanente e seja limitada ao estritamente necessário;\n\nd) Tomar as medidas adequadas para que as zonas onde decorrem essas actividades sejam delimitadas e devidamente assinaladas e só tenham acesso a elas as pessoas autorizadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "137784525": {
+   "fragment_id": "137784339",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso às zonas de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acesso às zonas de risco\n\nO empregador deve assegurar que o acesso às zonas onde decorrem actividades que apresentem risco seja limitado aos trabalhadores que nelas tenham de entrar por causa das suas funções."
+  },
+  "137784552": {
+   "fragment_id": "137784340",
+   "type": 11,
+   "heading": "Artigo 12.º — Vigilância da saúde",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 12.º — Vigilância da saúde\n\n1 - Sem prejuízo das obrigações gerais em matéria de exames de saúde no regime jurídico da promoção da segurança e saúde no trabalho, aprovado pela Lei n.º 102/2009, de 10 de setembro, na sua redação atual, o empregador deve assegurar a vigilância da saúde dos trabalhadores em relação aos quais o resultado da avaliação revele a existência de riscos, através de exames de saúde de admissão, periódicos ou ocasionais, devendo em qualquer caso os primeiros ser realizados antes da exposição profissional a agente cancerígeno ou mutagénico.\n\n2 - A vigilância da saúde dos trabalhadores deve permitir a aplicação de medidas de saúde individuais, dos princípios e práticas da medicina do trabalho de acordo com os conhecimentos mais recentes, e incluir os seguintes procedimentos:\n\na) Registo da história clínica e profissional de cada trabalhador;\n\nb) Entrevista pessoal com o trabalhador;\n\nc) Exame objetivo;\n\nd) Avaliação individual do seu estado de saúde;\n\ne) Vigilância biológica, sempre que necessária;\n\nf) Rastreio de efeitos precoces e reversíveis.\n\n3 - O registo da história clínica, referido na alínea a) do número anterior, deve incluir, nomeadamente:\n\na) Antecedentes oncológicos, com caracterização quanto ao tipo e localização;\n\nb) Patologia hematológica, das funções renal e hepática, assim como do sistema nervoso central e periférico;\n\nc) Outros indícios de antecedentes de patologia oncológica.\n\n4 - O médico do trabalho responsável pela vigilância da saúde do trabalhador exposto a agente cancerígeno ou mutagénico deve conhecer as condições de trabalho e as circunstâncias de exposição de cada trabalhador, visando estabelecer uma adequada relação entre o contexto de trabalho e o estado de saúde do trabalhador.\n\n5 - O empregador deve tomar, em relação a cada trabalhador, as medidas preventivas ou de protecção propostas pelo médico do trabalho ou pela entidade responsável pela vigilância da saúde dos trabalhadores.\n\n6 - Se um trabalhador sofrer de uma doença identificável ou um efeito nocivo que possa ter sido provocado pela exposição a agentes cancerígenos ou mutagénicos, o médico de trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores pode exigir que se proceda à vigilância da saúde dos outros trabalhadores que tenham estado sujeitos a exposição idêntica, devendo nestes casos ser repetida a avaliação de risco.\n\n7 - Em resultado da vigilância da saúde dos trabalhadores, o médico do trabalho ou a entidade responsável pela mesma deve observar os seguintes procedimentos:\n\na) Informar o trabalhador do resultado;\n\nb) Dar indicações sobre a eventual necessidade de continuar a vigilância da saúde, mesmo depois de terminada a exposição;\n\nc) Comunicar ao empregador o resultado da vigilância da saúde, com interesse para a prevenção de riscos, sem prejuízo do sigilo profissional a que se encontrem vinculados.\n\n8 - Os trabalhadores têm acesso aos resultados da vigilância da saúde que lhes digam directamente respeito e podem, bem como o empregador, solicitar a revisão desses resultados.\n\n9 - Devem ser prestados aos trabalhadores informações e conselhos sobre a vigilância de saúde a que devem ser submetidos depois de terminar a exposição ao risco.\n\n10 - Nas situações de cessação da exposição por término da atividade profissional na empresa, incluindo por reforma, sempre que o trabalhador tenha realizado atividade suscetível de envolver um risco de exposição a agentes cancerígenos ou mutagénicos, o serviço de saúde do trabalho deverá:\n\na) Realizar um exame ocasional ao trabalhador;\n\nb) Prestar informações e conselhos ao trabalhador sobre a vigilância da saúde;\n\nc) Assegurar a transmissão da principal informação clínica, profissional e de vigilância ao médico assistente;\n\nd) Transferir os registos clínicos e outros elementos informativos do trabalhador, que permitam a continuidade da vigilância da saúde do trabalhador pelo serviço de saúde do trabalho, sempre que aplicável.\n\n11 - O empregador ou a entidade responsável pela vigilância da saúde dos trabalhadores deve assegurar que o médico do trabalho participa ao ISS, I. P., todos os casos suspeitos ou de agravamento de doença profissional identificados como resultantes de exposição profissional a um agente cancerígeno ou mutagénico durante o trabalho, incluindo os casos de cancro profissional.\n\n12 - Sem prejuízo do disposto em matéria de comunicação obrigatória estabelecido no regime de reparação de acidentes de trabalho e de doenças profissionais, as situações de cancro profissional deverão ser consideradas pelo serviço com competências na área da proteção contra os riscos profissionais como prioritárias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784527": {
+   "fragment_id": "137784341",
+   "type": 11,
+   "heading": "Artigo 13.º — Formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formação dos trabalhadores\n\n1 - O empregador deve assegurar a formação adequada e suficiente dos trabalhadores e dos seus representantes para a segurança, higiene e saúde no trabalho, no início de uma actividade profissional que implique contactos com agentes cancerígenos ou mutagénicos.\n\n2 - A formação referida no número anterior deve ser adaptada à evolução dos riscos existentes e ao aparecimento de novos riscos, ser periodicamente actualizada, ou repetida se necessário, e incluir todos os dados disponíveis sobre:\n\na) Riscos potenciais para a segurança e a saúde, incluindo os riscos adicionais resultantes do consumo de tabaco;\n\nb) Medidas de prevenção para evitar a exposição aos riscos existentes;\n\nc) Normas em matéria de higiene individual e colectiva;\n\nd) Utilização dos equipamentos e de vestuário de protecção;\n\ne) Medidas a tomar pelos trabalhadores, nomeadamente o pessoal de intervenção, em caso de incidentes e para prevenção dos mesmos."
+  },
+  "137784528": {
+   "fragment_id": "137784342",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação dos trabalhadores\n\n1 - O empregador deve, sem prejuízo das suas responsabilidades, fornecer aos trabalhadores e aos seus representantes informações relativas à aplicação das medidas previstas no presente diploma, nomeadamente as que respeitem às consequências para a segurança e a saúde dos trabalhadores resultantes da escolha e utilização do vestuário e dos equipamentos de protecção e à aplicação das medidas referidas na alínea a) do artigo 10.º\n\n2 - Os trabalhadores e os seus representantes devem ser informados o mais rapidamente possível sobre as exposições anormais, as suas causas e as medidas tomadas ou a tomar para sanar a situação.\n\n3 - O empregador deve informar os trabalhadores sobre as instalações e armazenagens anexas que contenham agentes cancerígenos ou mutagénicos, assegurar que todos os recipientes e embalagens sejam rotulados de forma clara e legível e afixar sinais de perigo bem visíveis.\n\n4 - O empregador deve colocar à disposição do médico do trabalho ou da entidade responsável pela vigilância da saúde dos trabalhadores a lista prevista na alínea b) do artigo 16.º, bem como informações sobre as exposições imprevisíveis ou acidentais.\n\n5 - O empregador deve colocar à disposição dos trabalhadores as informações constantes da lista referida no número anterior que lhe digam directamente respeito, bem como facultar aos representantes dos trabalhadores as informações colectivas anónimas."
+  },
+  "137784529": {
+   "fragment_id": "137784343",
+   "type": 11,
+   "heading": "Artigo 15.º — Informação e consulta dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Informação e consulta dos trabalhadores\n\nO empregador deve assegurar a informação e consulta dos trabalhadores e dos seus representantes para a segurança, higiene e saúde no trabalho sobre a aplicação das disposições do presente diploma."
+  },
+  "137784553": {
+   "fragment_id": "137784344",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo e arquivo de documentos",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 16.º — Registo e arquivo de documentos\n\nO empregador deve organizar registos de dados e conservar arquivos atualizados, nomeadamente em suporte eletrónico, sobre:\n\na) Os resultados da avaliação a que se refere o artigo 4.º, bem como os critérios e procedimentos da avaliação, os métodos de medição, análises e ensaios utilizados;\n\nb) A lista dos trabalhadores expostos, com a indicação da natureza e, se possível, do grau de exposição a que cada trabalhador esteve sujeito;\n\nc) Os resultados da vigilância da saúde de cada trabalhador, com a indicação do respectivo posto de trabalho, dos exames médicos e complementares realizados e de outros elementos que o médico responsável considere úteis.\n\nd) Os registos de acidentes e incidentes de trabalho e das doenças profissionais participadas e confirmadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "137784554": {
+   "fragment_id": "137784345",
+   "type": 11,
+   "heading": "Artigo 17.º — Conservação de registos e arquivos",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 17.º — Conservação de registos e arquivos\n\n1 - Os registos e arquivos referidos no artigo anterior devem ser conservados durante, pelo menos, 40 anos após ter terminado a exposição dos trabalhadores a que digam respeito.\n\n2 - Se a empresa cessar a atividade, os registos devem ser transferidos para o ISS, I. P., com exceção das fichas clínicas, que devem ser enviadas para o organismo competente da área governativa da saúde, sendo assegurada a sua confidencialidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "137784539": {
+   "fragment_id": "137784354",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Orientações práticas",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 17.º-A — Orientações práticas\n\nOs organismos competentes das áreas governativas do trabalho, solidariedade e segurança social e da saúde podem elaborar guias técnicos, ou outros referenciais, que contenham orientações práticas sobre a prevenção dos riscos profissionais, a proteção e vigilância da saúde dos trabalhadores expostos a agentes cancerígenos ou mutagénicos, assim como sobre a avaliação de risco profissional.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "137784540": {
+   "fragment_id": "137784346",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Constitui contraordenação muito grave a violação dos artigos 4.º e 5.º, das alíneas a) a e), g) e j) a n) do artigo 6.º, do artigo 13.º e do n.º 3 do artigo 14.º\n\n2 - Constitui contraordenação grave a violação das alíneas f), h) e i) do artigo 6.º, do artigo 7.º, dos artigos 8.º, 9.º, 10.º, 11.º e 12.º, dos n.os 1, 2, 4 e 5 do artigo 14.º e dos artigos 15.º, 16.º e 17.º\n\n3 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho aplica-se às infrações por violação do presente diploma.\n\n4 - O processamento das contraordenações laborais segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784541": {
+   "fragment_id": "137784347",
+   "type": 11,
+   "heading": "Artigo 19.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 19.º — Fiscalização\n\nA fiscalização do cumprimento do presente diploma compete à Autoridade para as Condições do Trabalho e à Direção-Geral da Saúde, no âmbito das respetivas competências.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784542": {
+   "fragment_id": "137784348",
+   "type": 11,
+   "heading": "Artigo 20.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 20.º — Regiões Autónomas\n\nSem prejuízo das competências legislativas próprias, as competências atribuídas pelo presente diploma às autoridades e serviços administrativos são, nas Regiões Autónomas, exercidas pelos órgãos e serviços das respetivas administrações regionais.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784543": {
+   "fragment_id": "137784349",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\n1 - É revogado o Decreto-Lei n.º 390/93, de 20 de Novembro.\n\n2 - É revogado o Decreto-Lei n.º 273/89, de 21 de Agosto, com efeitos a partir de 29 de Abril de 2003."
+  },
+  "137784544": {
+   "fragment_id": "137784350",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no 5.º dia útil após a sua publicação.\n\n2 - O valor limite de exposição profissional para o benzeno de 3 ppm, indicado no anexo, passará a 1 ppm a partir de 27 de Junho de 2003.\n\n3 - O presente diploma aplica-se aos trabalhos suscetíveis de provocar a exposição a poeira de madeira de folhosas e às substâncias ou misturas que neles se libertem, bem como ao valor limite de exposição profissional para a referida poeira a partir de 30 de abril de 2003.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "137784545": {
+   "fragment_id": "137784351",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - António Luís Santos Costa - Mário Cristina de Sousa - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa.\n\nPromulgado em 6 de Novembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Novembro de 2000.\n\nPelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado."
+  },
+  "137784556": {
+   "fragment_id": "137784352",
+   "type": 14,
+   "heading": "Anexo — Valores-limite de exposição profissional",
+   "in_force_from": "2020-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "## Anexo — Valores-limite de exposição profissional\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "150770100": {
+   "fragment_id": "137784353",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Ultrapassagem do valor-limite de exposição profissional",
+   "in_force_from": "2021-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 4.º-A — Ultrapassagem do valor-limite de exposição profissional\n\n1 - Quando a determinação da concentração do agente cancerígeno ou mutagénico na atmosfera do local de trabalho revele a sujeição de algum trabalhador a um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo ao presente decreto-lei, o empregador:\n\na) Identifica as causas da situação e aplica, de imediato, as medidas adequadas, nomeadamente as previstas nos artigos seguintes;\n\nb) Procede a nova determinação da concentração do agente cancerígeno ou mutagénico na atmosfera do local de trabalho e à avaliação da exposição profissional, a fim de verificar a eficácia das medidas adotadas.\n\n2 - Sempre que as medidas referidas no número anterior não possam ser, em virtude da sua natureza ou importância, adotadas no prazo de um mês, ou quando a nova avaliação da exposição ao agente cancerígeno ou mutagénico indique que persiste a situação de ultrapassagem do valor-limite de exposição profissional, o trabalho na zona afetada só pode prosseguir se forem implementadas medidas específicas para a proteção dos trabalhadores expostos, ouvido o médico responsável pela vigilância da saúde dos respetivos trabalhadores.\n\n3 - Quando, na execução de trabalhos, seja previsível a ultrapassagem do valor-limite de exposição profissional e não seja possível a aplicação de medidas técnicas para o reduzir, o empregador adota as medidas de proteção adequadas, devendo consultar os representantes dos trabalhadores ou, na sua ausência, os próprios trabalhadores, antes de iniciar os referidos trabalhos.\n\n4 - Sempre que a determinação da concentração do agente cancerígeno ou mutagénico na atmosfera do local de trabalho revele a existência de um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo ao presente decreto-lei, a frequência do controlo é trimestral, nos termos do n.º 2 do artigo anterior.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "150770101": {
+   "fragment_id": "137784352",
+   "type": 14,
+   "heading": "Anexo — Recomendações relativas às medidas e aos níveis de confinamento",
+   "in_force_from": "2021-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "## Anexo — Recomendações relativas às medidas e aos níveis de confinamento\n\n(a que se referem o n.º 4 do artigo 14.º e o n.º 1 do artigo 15.º)\n\nNota introdutória\n\nAs medidas referidas no presente anexo devem ser aplicadas de acordo com a natureza das atividades, avaliação do risco para os trabalhadores e natureza do agente biológico em questão.\n\nNo quadro, a menção «Recomendado» significa que as medidas devem, em princípio, ser aplicadas, a não ser que os resultados da avaliação referida no artigo 6.º indiquem o contrário.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982575": {
+   "fragment_id": "137784329",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1990&id=390L0394\" title=\"Link para Directiva da Comunidade Europeia\">90/394/CEE</a>, do Conselho, de 28 de Junho, alterada pelas Directivas n.os <a href=\"eurlex.asp?ano=1997&id=397L0042\" title=\"Link para Directiva da Comunidade Europeia\">97/42/CE</a>, do Conselho, de 27 de Junho, e <a href=\"eurlex.asp?ano=1999&id=399L0038\" title=\"Link para Directiva da Comunidade Europeia\">1999/38/CE</a>, do Conselho, de 29 de Abril, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho."
+  },
+  "898982576": {
+   "fragment_id": "137784330",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei é aplicável às situações em que os trabalhadores estão ou podem estar expostos a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução durante o trabalho, no âmbito das atividades definidas no regime jurídico da promoção da segurança e saúde no trabalho.\n\n2 - O presente diploma não se aplica aos trabalhadores expostos unicamente às radiações a que alude o Tratado que institui a Comunidade Europeia da Energia Atómica.\n\n3 - Nas atividades em que haja risco de exposição ao amianto, são aplicáveis as medidas de proteção previstas no regime jurídico relativo à proteção sanitária dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho, salvo na parte em que o presente diploma for mais favorável à segurança e à saúde dos trabalhadores.\n\n4 - (Revogado).\n\n5 - O disposto pelo n.º 1 inclui os trabalhos suscetíveis de provocar exposição a qualquer substância ou mistura que preencha os requisitos de classificação referidos nas alíneas a) a c) do n.º 1 do artigo 3.º, e que integre a composição dos medicamentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982577": {
+   "fragment_id": "137784331",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) «Agente cancerígeno» qualquer substância ou mistura que preencha os requisitos para ser classificada como agente cancerígeno das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008;\n\nb) «Agente mutagénico» qualquer substância ou mistura que preencha os requisitos para ser classificada como agente mutagénico de células germinativas das categorias 1A ou 1B, previstos no Anexo I do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008;\n\nc) «Substância tóxica para a reprodução», qualquer substância ou mistura que preencha os requisitos para ser classificada como substância tóxica para a reprodução das categorias 1A ou 1B, previstos no anexo i do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008;\n\nd) «Substância tóxica para a reprodução não sujeita a um limiar», qualquer substância tóxica para a reprodução relativamente à qual não existe um nível de exposição seguro para a saúde dos trabalhadores e que seja identificada como tal na coluna de notação do anexo i ao presente decreto-lei;\n\ne) «Substância tóxica para a reprodução sujeita a um limiar», qualquer substância tóxica para a reprodução para a qual existe um nível seguro de exposição abaixo do qual não represente qualquer risco para a saúde dos trabalhadores e que seja identificada como tal na coluna de notação do anexo i ao presente decreto-lei;\n\nf) «Valor-limite de exposição profissional», o limite de concentração média ponderada de um agente cancerígeno, mutagénico ou de uma substância tóxica para a reprodução presente na atmosfera do local de trabalho, medido na zona de respiração de um trabalhador, no período de referência indicado no anexo i ao presente decreto-lei e de que faz parte integrante, o qual não deve ser ultrapassado;\n\ng) «Valor-limite biológico», o limite de concentração no meio biológico adequado do agente em causa, dos seus metabolitos ou de um indicador de efeito, indicado no anexo ii ao presente decreto-lei e do qual faz parte integrante;\n\nh) «Vigilância da saúde», o exame de um trabalhador com o objetivo de determinar o seu estado de saúde relacionado com a exposição, no local de trabalho, a agentes cancerígenos, mutagénicos específicos ou a substâncias tóxicas para a reprodução específicas.\n\n2 - São ainda considerados como cancerígenos as substâncias, as misturas, os trabalhos e os processos seguintes:\n\na) Fabrico de auramina;\n\nb) Trabalhos susceptíveis de provocar a exposição aos hidrocarbonetos policílicos aromáticos presentes na fuligem da hulha, no alcatrão da hulha ou no pez da hulha;\n\nc) Trabalhos susceptíveis de provocar a exposição às poeiras, fumos ou névoas produzidos durante a calcinação e electrorrefinação de mates de níquel;\n\nd) Processo de ácido forte durante o fabrico do álcool isopropílico;\n\ne) Trabalhos que impliquem a exposição a poeira de madeira de folhosas;\n\nf) As substâncias ou as misturas que se libertem nos processos referidos nas alíneas anteriores.\n\ng) Trabalhos que impliquem a exposição a poeira sílica cristalina respirável resultante de um processo de trabalho;\n\nh) Trabalhos que impliquem a exposição cutânea a óleos minerais, que tenham sido previamente utilizados em motores de combustão interna, para lubrificar e arrefecer as peças móveis dentro do motor;\n\ni) Trabalhos que impliquem a exposição a emissões de gases de escape dos motores diesel.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982578": {
+   "fragment_id": "137784332",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação do risco",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 4.º — Avaliação do risco\n\n1 - Nas atividades suscetíveis de apresentar risco de exposição a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, o empregador deve avaliar o risco para a segurança e a saúde dos trabalhadores, determinando para os postos de trabalho:\n\na) A natureza, o grau e o tempo de exposição ao agente cancerígeno, mutagénico ou a substância tóxica para a reprodução;\n\nb) A concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho, considerando os valores-limite de exposição profissional constantes do anexo i ao presente decreto-lei, de acordo com as normas e especificações técnicas na área da segurança e saúde no trabalho relativas, nomeadamente, a metodologias, procedimentos e critérios de amostragem, no âmbito do sistema português da qualidade;\n\n2 - A avaliação do risco deve ser repetida de três em três meses:\n\na) Sempre que existirem alterações nas condições de trabalho suscetíveis de afetar a exposição dos trabalhadores a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução;\n\nb) Sempre que seja ultrapassado o valor-limite de exposição profissional indicado no anexo i ao presente decreto-lei;\n\nc) Quando o resultado da vigilância da saúde justificar a necessidade de nova avaliação, designadamente nas situações previstas no n.º 6 do artigo 12.º\n\n3 - A avaliação de riscos deve ainda:\n\na) Identificar os trabalhadores expostos, incluindo aqueles que, apresentando particular sensibilidade, podem necessitar de medidas de proteção especial, afastando-os de zonas onde possam estar em contacto com agentes cancerígenos, mutagénicos ou com substâncias tóxicas para a reprodução;\n\nb) Ter em conta todas as formas de exposição e vias de absorção, tais como a absorção pela pele ou através desta;\n\nc) Atender a todas as atividades específicas do trabalhador, incluindo a reparação ou manutenção, em que seja previsível a possibilidade de exposição significativa a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, ainda que sejam cumpridas todas as medidas técnicas adequadas;\n\nd) Atender às informações relativas à segurança e saúde constantes da respetiva ficha de dados de segurança;\n\ne) Ter em conta o estado de saúde do trabalhador exposto e as suas características individuais;\n\nf) Considerar as recomendações dos organismos competentes no domínio da segurança e da saúde no trabalho.\n\ng) Considerar a possibilidade de não existir um nível seguro de exposição às substâncias referidas no n.º 5 do artigo 5.º, para efeitos de adoção pelo empregador de medidas adequadas para garantir a saúde dos trabalhadores;\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "898982579": {
+   "fragment_id": "137784353",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Ultrapassagem do valor-limite de exposição profissional",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 4.º-A — Ultrapassagem do valor-limite de exposição profissional\n\n1 - Quando a determinação da concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho revele a sujeição de algum trabalhador a um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo i ao presente decreto-lei, o empregador:\n\na) Identifica as causas da situação e aplica, de imediato, as medidas adequadas, nomeadamente as previstas nos artigos seguintes;\n\nb) Procede a nova determinação da concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho e à avaliação da exposição profissional, a fim de verificar a eficácia das medidas adotadas.\n\n2 - Sempre que as medidas referidas no número anterior não possam ser, em virtude da sua natureza ou importância, adotadas no prazo de um mês, ou quando a nova avaliação da exposição ao agente cancerígeno, mutagénico ou à substância tóxica para a reprodução indique que persiste a situação de ultrapassagem do valor-limite de exposição profissional, o trabalho na zona afetada só pode prosseguir se forem implementadas medidas específicas para a proteção dos trabalhadores expostos, ouvido o médico responsável pela vigilância da saúde dos respetivos trabalhadores.\n\n3 - Quando, na execução de trabalhos, seja previsível a ultrapassagem do valor-limite de exposição profissional e não seja possível a aplicação de medidas técnicas para o reduzir, o empregador adota as medidas de proteção adequadas, devendo consultar os representantes dos trabalhadores ou, na sua ausência, os próprios trabalhadores, antes de iniciar os referidos trabalhos.\n\n4 - Sempre que a determinação da concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho revele a existência de um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo i ao presente decreto-lei, a frequência do controlo é trimestral, nos termos do n.º 2 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "898982580": {
+   "fragment_id": "137784333",
+   "type": 11,
+   "heading": "Artigo 5.º — Substituição e redução de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Substituição e redução de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução\n\n1 - O empregador deve evitar ou reduzir a utilização de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução, substituindo-os por substâncias, misturas ou processos que, nas condições de utilização, não sejam perigosos ou impliquem menor risco para a segurança e a saúde dos trabalhadores.\n\n2 - Não sendo tecnicamente possível a aplicação do disposto no número anterior, o empregador deve assegurar que a produção ou a utilização de agente cancerígeno, mutagénico ou de substância tóxica para a reprodução se faça em sistema fechado.\n\n3 - Não sendo tecnicamente possível utilizar um sistema fechado, o empregador deve garantir que o nível de exposição dos trabalhadores ao agente cancerígeno, mutagénico ou à substância tóxica para a reprodução não sujeita a um limiar seja reduzido a um valor tão baixo quanto tecnicamente possível.\n\n4 - Não sendo tecnicamente possível utilizar ou produzir uma substância tóxica para a reprodução sujeita a um limiar num sistema fechado, o empregador deve assegurar que o risco relacionado com a exposição dos trabalhadores a essa substância tóxica para a reprodução sujeita a um limiar seja reduzido ao mínimo.\n\n5 - O dever previsto no número anterior, de assegurar a redução do risco relacionado com a exposição dos trabalhadores ao mínimo, é aplicável às substâncias tóxicas para a reprodução, não identificadas como substâncias tóxicas para a reprodução não sujeitas a um limiar ou como substâncias tóxicas para a reprodução sujeitas a um limiar.\n\n6 - A exposição dos trabalhadores a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução não pode exceder os limites indicados no anexo i ao presente decreto-lei.\n\n7 - A substituição dos medicamentos que, na sua composição, contenham qualquer substância ou mistura que preencha os requisitos de classificação referidos nas alíneas a) a c) do n.º 1 do artigo 3.º, não pode prejudicar a saúde dos doentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982581": {
+   "fragment_id": "137784334",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução dos riscos de exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Redução dos riscos de exposição\n\nNas situações em que sejam utilizados agentes cancerígenos ou mutagénicos, além dos procedimentos referidos no artigo 5.º, o empregador deve aplicar conjuntamente as seguintes medidas:\n\na) Limitação das quantidades do agente cancerígeno ou mutagénico no local de trabalho;\n\nb) Redução ao mínimo possível do número de trabalhadores expostos ou susceptíveis de o serem;\n\nc) Concepção de processos de trabalho e de medidas técnicas que evitem ou minimizem a libertação de agentes cancerígenos ou mutagénicos no local de trabalho;\n\nd) Evacuação dos agentes cancerígenos ou mutagénicos na fonte, por aspiração localizada ou ventilação geral, adequadas e compatíveis com a protecção da saúde pública e do ambiente;\n\ne) Utilização de métodos apropriados de medição de agentes cancerígenos ou mutagénicos, em particular para a detecção precoce de exposições anormais resultantes de acontecimento imprevisível ou de acidente;\n\nf) Aplicação de processos e métodos de trabalho adequados;\n\ng) Medidas de protecção colectiva adequadas ou, se a exposição não puder ser evitada por outros meios, medidas de protecção individual;\n\nh) Medidas de higiene, nomeadamente a limpeza periódica dos pavimentos, paredes e outras superfícies;\n\ni) Informação dos trabalhadores e dos seus representantes;\n\nj) Delimitação das zonas de risco e utilização de adequada sinalização de segurança e de saúde, incluindo sinais de proibição de fumar em áreas onde haja risco de exposição a agentes cancerígenos ou mutagénicos;\n\nl) Instalação de dispositivos para situações de emergência susceptíveis de originar exposições anormalmente elevadas;\n\nm) Meios que permitam a armazenagem, o manuseamento e o transporte sem risco, nomeadamente mediante a utilização de recipientes herméticos e rotulados de forma distinta, clara e visível;\n\nn) Meios seguros de recolha, armazenagem e evacuação dos resíduos pelos trabalhadores, incluindo a utilização de recipientes herméticos e rotulados de forma distinta, clara e visível, de modo a não constituírem fonte de contaminação dos trabalhadores e dos locais de trabalho, que atendam às disposições legais sobre resíduos e protecção do ambiente."
+  },
+  "898982582": {
+   "fragment_id": "137784335",
+   "type": 11,
+   "heading": "Artigo 7.º — Medidas de higiene e protecção individual",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 7.º — Medidas de higiene e protecção individual\n\nSem prejuízo do disposto em matéria de obrigações gerais do empregador de informação e consulta dos trabalhadores, previstas no regime jurídico da promoção da segurança e saúde no trabalho, nas atividades em que exista risco de contaminação por agentes cancerígenos, mutagénicos ou por substâncias tóxicas para a reprodução, o empregador deve tomar medidas para:\n\na) Impedir que os trabalhadores comam, bebam ou fumem nas zonas de trabalho onde haja risco de contaminação por agentes cancerígenos, mutagénicos ou por substâncias tóxicas para a reprodução;\n\nb) Fornecer aos trabalhadores vestuário de protecção adequado, proceder à sua limpeza após cada utilização e disponibilizar locais distintos para guardar separadamente o vestuário de trabalho ou de protecção e o vestuário de uso pessoal;\n\nc) Assegurar a existência de instalações sanitárias e de higiene adequadas de acordo com as prescrições mínimas de segurança e saúde nos locais de trabalho;\n\nd) Selecionar, utilizar, manter e eliminar os equipamentos de proteção individual, de acordo com a legislação específica sobre a matéria e com as recomendações do organismo competente no domínio da segurança no trabalho.\n\ne) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982583": {
+   "fragment_id": "137784336",
+   "type": 11,
+   "heading": "Artigo 8.º — Informação das autoridades competentes",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 8.º — Informação das autoridades competentes\n\n1 - Se o resultado da avaliação revelar a existência de riscos para a segurança e a saúde dos trabalhadores, o empregador deve conservar e manter disponíveis as informações sobre:\n\na) As atividades e os processos industriais em causa, as razões por que são utilizados agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução e os eventuais casos de substituição;\n\nb) A classificação das substâncias ou misturas, de acordo com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, e respetivas quantidades, que contenham agentes cancerígenos, mutagénicos, ou substâncias tóxicas para a reprodução;\n\nc) O número de trabalhadores expostos, bem como a natureza, o grau e o tempo de exposição;\n\nd) As medidas de prevenção tomadas e os equipamentos de protecção utilizados.\n\n2 - O Instituto da Segurança Social, I. P. (ISS, I. P.), a Autoridade para as Condições do Trabalho, a Direção-Geral da Saúde e as autoridades de saúde têm acesso à informação referida no número anterior, sempre que o solicitem.\n\n3 - O empregador deve, ainda, informar as entidades mencionadas no número anterior, a pedido destas, sobre:\n\na) Os elementos que serviram de base à avaliação do risco;\n\nb) O resultado de investigações que promova sobre a substituição e redução de agentes cancerígenos ou mutagénicos e a redução dos riscos de exposição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982584": {
+   "fragment_id": "137784337",
+   "type": 11,
+   "heading": "Artigo 9.º — Exposição imprevisível ou acidental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exposição imprevisível ou acidental\n\nNas situações imprevisíveis ou acidentais em que os trabalhadores possam estar sujeitos a uma exposição anormal, o empregador deve informar os trabalhadores e os seus representantes desse facto e tomar, até ao restabelecimento da situação normal, as seguintes medidas:\n\na) Limitar o número de trabalhadores na zona afectada aos indispensáveis à execução das reparações e de outros trabalhos necessários;\n\nb) Colocar à disposição, dos trabalhadores referidos na alínea anterior vestuário de protecção e equipamento individual de protecção respiratória;\n\nc) Impedir a exposição permanente e limitá-la ao estritamente necessário para cada trabalhador;\n\nd) Impedir que os trabalhadores não protegidos permaneçam na área afectada."
+  },
+  "898982585": {
+   "fragment_id": "137784338",
+   "type": 11,
+   "heading": "Artigo 10.º — Exposição regular ou previsível",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 10.º — Exposição regular ou previsível\n\nNas actividades em que seja previsível um aumento significativo de exposição, nomeadamente a manutenção, em que já não seja possível a aplicação de medidas técnicas preventivas suplementares para limitar a exposição, o empregador deve:\n\na) Após consulta dos trabalhadores e dos seus representantes, e sem prejuízo da responsabilidade do empregador, tomar as medidas necessárias para reduzir ao mínimo a exposição dos trabalhadores e assegurar a sua proteção durante a realização dessas atividades;\n\nb) Colocar à disposição dos trabalhadores vestuário de proteção, equipamento individual de proteção respiratória ou outro que se revele necessário, a ser utilizado enquanto durar a exposição anormal;\n\nc) Assegurar que a exposição de cada trabalhador não tenha carácter permanente e seja limitada ao estritamente necessário;\n\nd) Tomar as medidas adequadas para que as zonas onde decorrem essas actividades sejam delimitadas e devidamente assinaladas e só tenham acesso a elas as pessoas autorizadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "898982586": {
+   "fragment_id": "137784339",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso às zonas de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acesso às zonas de risco\n\nO empregador deve assegurar que o acesso às zonas onde decorrem actividades que apresentem risco seja limitado aos trabalhadores que nelas tenham de entrar por causa das suas funções."
+  },
+  "898982587": {
+   "fragment_id": "137784340",
+   "type": 11,
+   "heading": "Artigo 12.º — Vigilância da saúde",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 12.º — Vigilância da saúde\n\n1 - Sem prejuízo das obrigações gerais em matéria de exames de saúde previstas no regime jurídico da promoção da segurança e saúde no trabalho, aprovado pela Lei n.º 102/2009, de 10 de setembro, na sua redação atual, o empregador deve assegurar a vigilância da saúde dos trabalhadores em relação aos quais o resultado da avaliação revele a existência de riscos, através de exames de saúde de admissão, periódicos ou ocasionais, devendo em qualquer caso os primeiros ser realizados antes da exposição profissional a agente cancerígeno, mutagénico ou a substância tóxica para a reprodução.\n\n2 - A vigilância da saúde dos trabalhadores deve permitir a aplicação de medidas de saúde individuais, dos princípios e práticas da medicina do trabalho de acordo com os conhecimentos mais recentes, e incluir os seguintes procedimentos:\n\na) Registo da história clínica e profissional de cada trabalhador;\n\nb) Entrevista pessoal com o trabalhador;\n\nc) Exame objetivo;\n\nd) Avaliação individual do seu estado de saúde;\n\ne) Vigilância biológica, sempre que necessária;\n\nf) Rastreio de efeitos precoces e reversíveis.\n\n3 - O registo da história clínica, referido na alínea a) do número anterior, deve incluir, nomeadamente:\n\na) Antecedentes oncológicos, com caracterização quanto ao tipo e localização;\n\nb) Patologia hematológica, das funções renal e hepática, assim como do sistema nervoso central e periférico;\n\nc) Outros indícios de antecedentes de patologia oncológica.\n\n4 - O médico do trabalho responsável pela vigilância da saúde do trabalhador exposto a agente cancerígeno, mutagénico ou a substância tóxica para a reprodução deve conhecer as condições de trabalho e as circunstâncias de exposição de cada trabalhador, visando estabelecer uma adequada relação entre o contexto de trabalho e o estado de saúde do trabalhador.\n\n5 - O empregador deve tomar, em relação a cada trabalhador, as medidas preventivas ou de protecção propostas pelo médico do trabalho ou pela entidade responsável pela vigilância da saúde dos trabalhadores.\n\n6 - Se um trabalhador sofrer de uma doença identificável ou um efeito nocivo que possa ter sido provocado pela exposição a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, ou se tiver sido excedido um valor-limite biológico, o médico de trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores pode exigir que se proceda à vigilância da saúde dos outros trabalhadores que tenham estado sujeitos a exposição idêntica, devendo nestes casos ser repetida a avaliação de risco.\n\n7 - Em resultado da vigilância da saúde dos trabalhadores, o médico do trabalho ou a entidade responsável pela mesma deve observar os seguintes procedimentos:\n\na) Informar o trabalhador do resultado;\n\nb) Dar indicações sobre a eventual necessidade de continuar a vigilância da saúde, mesmo depois de terminada a exposição;\n\nc) Comunicar ao empregador o resultado da vigilância da saúde, com interesse para a prevenção de riscos, sem prejuízo do sigilo profissional a que se encontrem vinculados.\n\n8 - Os trabalhadores têm acesso aos resultados da vigilância da saúde que lhes digam directamente respeito e podem, bem como o empregador, solicitar a revisão desses resultados.\n\n9 - Devem ser prestados aos trabalhadores informações e conselhos sobre a vigilância de saúde a que devem ser submetidos depois de terminar a exposição ao risco.\n\n10 - Nas situações de cessação da exposição por término da atividade profissional na empresa, incluindo por reforma, sempre que o trabalhador tenha realizado atividade suscetível de envolver um risco de exposição a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, o serviço de saúde do trabalho deve:\n\na) Realizar um exame ocasional ao trabalhador;\n\nb) Prestar informações e conselhos ao trabalhador sobre a vigilância da saúde;\n\nc) Assegurar a transmissão da principal informação clínica, profissional e de vigilância ao médico assistente;\n\nd) Transferir os registos clínicos e outros elementos informativos do trabalhador, que permitam a continuidade da vigilância da saúde do trabalhador pelo serviço de saúde do trabalho, sempre que aplicável.\n\n11 - O empregador ou a entidade responsável pela vigilância da saúde dos trabalhadores deve assegurar que o médico do trabalho participa ao ISS, I. P., todos os casos suspeitos ou de agravamento de doença profissional identificados como resultantes de exposição profissional a um agente cancerígeno, mutagénico ou a uma substância tóxica para a reprodução durante o trabalho, incluindo os casos de cancro profissional e os casos de efeitos adversos na função sexual e na fertilidade em homens e mulheres adultos ou de toxicidade para o desenvolvimento dos descendentes.\n\n12 - Sem prejuízo do disposto em matéria de comunicação obrigatória estabelecido no regime de reparação de acidentes de trabalho e de doenças profissionais, o serviço com competências na área da proteção contra os riscos profissionais deve considerar prioritária a tramitação dos casos referidos na última parte do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982588": {
+   "fragment_id": "898982285",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Valores-limite biológicos e medidas de vigilância médica",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02"
+   ],
+   "markdown": "###### Artigo 12.º-A — Valores-limite biológicos e medidas de vigilância médica\n\nSempre que seja indicado no anexo ii ao presente decreto-lei um valor-limite biológico relativamente a um agente cancerígeno ou mutagénico ou a uma substância tóxica para reprodução a que o trabalhador esteja exposto ou potencialmente exposto, a vigilância de saúde deve incluir obrigatoriamente o respetivo controlo biológico.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02"
+  },
+  "898982589": {
+   "fragment_id": "137784341",
+   "type": 11,
+   "heading": "Artigo 13.º — Formação dos trabalhadores",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02"
+   ],
+   "markdown": "###### Artigo 13.º — Formação dos trabalhadores\n\n1 - O empregador deve assegurar a formação adequada e suficiente dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho, antes do início de uma atividade profissional que implique exposição, ou potencial exposição, a agentes cancerígenos, mutagénico ou substâncias tóxicas para a reprodução, que inclua todos os dados disponíveis sobre:\n\na) Riscos potenciais para a segurança e a saúde, incluindo os riscos adicionais resultantes do consumo de tabaco;\n\nb) Medidas de prevenção para evitar a exposição aos riscos existentes;\n\nc) Normas em matéria de higiene individual e colectiva;\n\nd) Utilização dos equipamentos e de vestuário de protecção;\n\ne) Medidas a tomar pelos trabalhadores, nomeadamente o pessoal de intervenção, em caso de incidentes e para prevenção dos mesmos.\n\n2 - A formação referida no número anterior deve ser:\n\na) Adaptada à evolução dos riscos e ao aparecimento de novos riscos, em especial no caso dos trabalhadores expostos ou suscetíveis de estarem expostos a novos agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução ou a diversos agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução, incluindo os contidos em medicamentos perigosos, ou em caso de alteração das circunstâncias relacionadas com o trabalho;\n\nb) Disponibilizada periodicamente em contextos de prestação de cuidados de saúde para todos os trabalhadores expostos a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução, em particular quando são utilizados novos medicamentos perigosos que contenham esses agentes ou substâncias; e\n\nc) Periodicamente repetida noutros contextos, se necessário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02"
+  },
+  "898982590": {
+   "fragment_id": "137784342",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação dos trabalhadores",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02"
+   ],
+   "markdown": "###### Artigo 14.º — Informação dos trabalhadores\n\n1 - O empregador deve, sem prejuízo das suas responsabilidades, fornecer aos trabalhadores e aos seus representantes informações relativas à aplicação das medidas previstas no presente decreto-lei, nomeadamente as que respeitem:\n\na) À informação sobre o direito do trabalhador à vigilância da saúde, a prestar antes do início de funções que impliquem o risco de exposição a agentes ou a substâncias a que se referem os anexos i e ii;\n\nb) Às consequências para a segurança e a saúde dos trabalhadores resultantes da escolha e utilização do vestuário e dos equipamentos de proteção;\n\nc) Às referidas na alínea g) do n.º 3 do artigo 4.º e na alínea a) do artigo 10.º\n\n2 - Os trabalhadores e os seus representantes devem ser informados o mais rapidamente possível sobre as exposições anormais, as suas causas e as medidas tomadas ou a tomar para sanar a situação.\n\n3 - O empregador deve informar os trabalhadores sobre as instalações e armazenagens anexas que contenham agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução, assegurar que todos os recipientes, embalagens e instalações sejam rotulados de forma clara e legível e afixar sinais de perigo bem visíveis.\n\n4 - O empregador deve colocar à disposição do médico do trabalho ou da entidade responsável pela vigilância da saúde dos trabalhadores a lista prevista na alínea b) do artigo 16.º, bem como informações sobre as exposições imprevisíveis ou acidentais.\n\n5 - O empregador deve colocar à disposição dos trabalhadores as informações constantes da lista referida no número anterior que lhe digam directamente respeito, bem como facultar aos representantes dos trabalhadores as informações colectivas anónimas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02"
+  },
+  "898982591": {
+   "fragment_id": "137784343",
+   "type": 11,
+   "heading": "Artigo 15.º — Informação e consulta dos trabalhadores",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02"
+   ],
+   "markdown": "###### Artigo 15.º — Informação e consulta dos trabalhadores\n\nO empregador deve assegurar a informação e consulta dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho sobre a aplicação das disposições do presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02"
+  },
+  "898982592": {
+   "fragment_id": "137784344",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo e arquivo de documentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 16.º — Registo e arquivo de documentos\n\nO empregador deve organizar registos de dados e conservar arquivos atualizados, nomeadamente em suporte eletrónico, sobre:\n\na) Os resultados da avaliação a que se refere o artigo 4.º, bem como os critérios e procedimentos da avaliação, os métodos de medição, análises e ensaios utilizados;\n\nb) A lista dos trabalhadores expostos, com a indicação da natureza e, se possível, do grau de exposição a que cada trabalhador esteve sujeito;\n\nc) Os resultados da vigilância da saúde de cada trabalhador, com a indicação do respectivo posto de trabalho, dos exames médicos e complementares realizados e de outros elementos que o médico responsável considere úteis.\n\nd) Os registos de acidentes e incidentes de trabalho e das doenças profissionais participadas e confirmadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "898982593": {
+   "fragment_id": "137784345",
+   "type": 11,
+   "heading": "Artigo 17.º — Conservação de registos e arquivos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 17.º — Conservação de registos e arquivos\n\n1 - Os registos e arquivos referidos no artigo anterior devem ser conservados durante, pelo menos, 40 anos após ter terminado a exposição dos trabalhadores a que digam respeito.\n\n2 - Se a empresa cessar a atividade, os registos devem ser transferidos para o ISS, I. P., com exceção das fichas clínicas, que devem ser enviadas para o organismo competente da área governativa da saúde, sendo assegurada a sua confidencialidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "898982594": {
+   "fragment_id": "137784354",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Orientações práticas",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+   ],
+   "markdown": "###### Artigo 17.º-A — Orientações práticas\n\nOs organismos competentes das áreas governativas do trabalho, solidariedade e segurança social e da saúde podem elaborar guias técnicos, ou outros referenciais, que contenham orientações práticas sobre a prevenção dos riscos profissionais, a proteção e vigilância da saúde dos trabalhadores expostos a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, assim como sobre a avaliação de risco profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03"
+  },
+  "898982595": {
+   "fragment_id": "137784346",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Constitui contraordenação muito grave a violação dos artigos 4.º e 5.º, das alíneas a) a e), g) e j) a n) do artigo 6.º, do artigo 13.º e do n.º 3 do artigo 14.º\n\n2 - Constitui contraordenação grave a violação das alíneas f), h) e i) do artigo 6.º, do artigo 7.º, dos artigos 8.º, 9.º, 10.º, 11.º e 12.º, dos n.os 1, 2, 4 e 5 do artigo 14.º e dos artigos 15.º, 16.º e 17.º\n\n3 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho aplica-se às infrações por violação do presente diploma.\n\n4 - O processamento das contraordenações laborais segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982596": {
+   "fragment_id": "137784347",
+   "type": 11,
+   "heading": "Artigo 19.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 19.º — Fiscalização\n\nA fiscalização do cumprimento do presente diploma compete à Autoridade para as Condições do Trabalho e à Direção-Geral da Saúde, no âmbito das respetivas competências.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982597": {
+   "fragment_id": "137784348",
+   "type": 11,
+   "heading": "Artigo 20.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 20.º — Regiões Autónomas\n\nSem prejuízo das competências legislativas próprias, as competências atribuídas pelo presente diploma às autoridades e serviços administrativos são, nas Regiões Autónomas, exercidas pelos órgãos e serviços das respetivas administrações regionais.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982598": {
+   "fragment_id": "137784349",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\n1 - É revogado o Decreto-Lei n.º 390/93, de 20 de Novembro.\n\n2 - É revogado o Decreto-Lei n.º 273/89, de 21 de Agosto, com efeitos a partir de 29 de Abril de 2003."
+  },
+  "899370985": {
+   "fragment_id": "137784350",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no 5.º dia útil após a sua publicação.\n\n2 - (Revogado.)\n\n3 - O presente diploma aplica-se aos trabalhos suscetíveis de provocar a exposição a poeira de madeira de folhosas e às substâncias ou misturas que neles se libertem, bem como ao valor limite de exposição profissional para a referida poeira a partir de 30 de abril de 2003.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982600": {
+   "fragment_id": "137784351",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - António Luís Santos Costa - Mário Cristina de Sousa - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa.\n\nPromulgado em 6 de Novembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Novembro de 2000.\n\nPelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado."
+  },
+  "1184805975": {
+   "fragment_id": "137784352",
+   "type": 14,
+   "heading": "Anexo I — Valores limite de exposição profissional",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02.",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+   ],
+   "markdown": "## Anexo I — Valores limite de exposição profissional\n\n[a que se referem as alíneas d), e) e f) do n.º 1 do artigo 3.º, a alínea b) do n.º 1 e a alínea b) do n.º 2 do artigo 4.º, os n.ºs 1 e 4 do artigo 4.º-A, o n.º 6 do artigo 5.º e a alínea a) do n.º 1 do artigo 14.º]\n\n| Nome do agente | N.º CE (1) | N.º CAS (2) | Valores-limite | Notação | Medidas transitórias |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 8 horas (3) | Curta duração (4) |  |  |  |  |  |  |  |  |  |\n| mg/m3 (5) | ppm (6) | f/ml (7) | mg/m3 (5) | ppm (6) | f/ml (7) |  |  |  |  |  |\n| Poeira de madeira de folhosas | - | - | 2 (8) | - | - | - | - | - | - | Valor-limite 3 mg/m3 até 17 de janeiro de 2023. |\n| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i)<br>(como crómio) | - | - | 0,005 | - | - | - | - | - | - | Valor-limite 0,010 mg/m3 até 17 de janeiro de 2025.<br>Valor-limite: 0,025 mg/m3 para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025. |\n| Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) | - | - | - | - | 0,3 | - | - | - | - |  |\n| Poeira de sílica cristalina respirável | - | - | 0,05 (9) | - | - | - | - | - | - | Valor-limite: 0,1 mg/m3 até 31 de dezembro de 2022. |\n| Benzeno | 200-753-7 | 71-43-2 | 0,66 | 0,2 | - | - | - | - | Pele (10) | Valor-limite: 1 ppm (3,25 mg/m3) até 4 de abril de 2024, inclusive.<br>Valor-limite: 0,5 ppm (1,65 mg/m3) entre 5 de abril de 2024 e 5 de abril de 2026, inclusive. |\n| Cloreto de vinilo monómero | 200-831-0 | 75-01-4 | 2,6 | 1 | - | - | - | - | - |  |\n| Óxido de etileno | 200-849-9 | 75-21-8 | 1,8 | 1 | - | - | - | - | Pele (10) |  |\n| 1,2-Epoxipropano | 200-879-2 | 75-56-9 | 2,4 | 1 | - | - | - | - | - |  |\n| Tricloroetileno | 201-167-4 | 79-01-6 | 54,7 | 10 | - | 164,1 | 30 | - | Pele (10) |  |\n| Acrilamida | 201-173-7 | 79-06-1 | 0,1 | - | - | - | - | - | Pele (10) |  |\n| 2-Nitropropano | 201-209-1 | 79-46-9 | 18 | 5 | - | - | - | - | - |  |\n| o-Toluidina | 202-429-0 | 95-53-4 | 0,5 | 0,1 | - | - | - | - | Pele (10) |  |\n| 4,4′-Metilenodianilina | 202-974-4 | 101-77-9 | 0,08 | - | - | - | - | - | Pele (10) |  |\n| Epicloridrina | 203-439-8 | 106-89-8 | 1,9 | - | - | - | - | - | Pele (10) |  |\n| Dibrometo de etileno | 203-444-5 | 106-93-4 | 0,8 | 0,1 | - | - | - | - | Pele (10) |  |\n| 1,3-Butadieno | 203-450-8 | 106-99-0 | 2,2 | 1 | - | - | - | - | - |  |\n| Dicloreto de etileno | 203-458-1 | 107-06-2 | 8,2 | 2 | - | - | - | - | Pele (10) |  |\n| Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | - | - | - | - | Pele (10) |  |\n| Bromoetileno | 209-800-6 | 593-60-2 | 4,4 | 1 | - | - | - | - | - |  |\n| Emissões de gases de escape dos motores diesel |  |  | 0,05 (*1) |  |  |  |  |  |  | O valor-limite é aplicável a partir de 21 de fevereiro de 2023. No caso da indústria extrativa subterrânea e da construção de túneis, o valor-limite é aplicável a partir de 21 de fevereiro de 2026. |\n| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que sejam agentes cancerígenos na aceção da presente diretiva |  |  |  |  |  |  |  |  | Pele (10) |  |\n| Óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as partes móveis dentro do motor |  |  |  |  |  |  |  |  | Pele (10) |  |\n| Cádmio e seus compostos inorgânicos | - | - | 0,001 (11) | - | - | - | - | - |  | Valor-limite 0,004 mg/m3 (12) até 11 de julho de 2027. |\n| Berílio e compostos inorgânicos de berílio | - | - | 0,0002 (11) | - | - | - | - | - | Sensibilização cutânea e respiratória (13) | Valor-limite 0,0006 mg/m3 até 11 de julho de 2026. |\n| Ácido arsénico e seus sais, bem como compostos inorgânicos de arsénio | - | - | 0,01 (11) | - | - | - | - | - | - | Para o setor da fundição de cobre, o valor-limite é aplicável a partir de 11 de julho de 2023. |\n| Formaldeído | 200-001-8 | 50-00-0 | 0,37 | 0,3 | - | 0,74 | 0,6 | - | Sensibilização cutânea (14) | Valor-limite de 0,62 mg/m3 ou de 0,5 ppm (3) para os setores dos cuidados de saúde, funerário e de embalsamamento até 11 de julho de 2024. |\n| 4,4′-Metileno-bis(2-cloroanilina) | 202-918-9 | 101-14-4 | 0,01 | - | - | - | - | - | Pele (10) |  |\n| Acrilonitrilo | 203-466-5 | 107-13-1 | 1 | 0,45 | - | 4 | 1,8 | - | Pele (10)<br>Sensibilização cutânea (14) | Os valores-limite são aplicáveis a partir de 5 de abril de 2026. |\n| Compostos de níquel | - | - | 0,01 (15)<br>0,05 (16) | - | - | - | - | - | Sensibilização cutânea e respiratória (13) | O valor-limite (15) é aplicável a partir de 18 de janeiro de 2025.<br>O valor-limite (16) é aplicável a partir de 18 de janeiro de 2025. Até essa data, aplica-se um valor-limite de 0,1 mg/m3 (16). |\n| Chumbo metálico e respetivos compostos |  |  | 0,15 |  |  |  |  |  |  |  |\n| N,N-Dimetilacetamida | 204-826-4 | 127-19-5 | 36 | 10 |  | 72 | 20 |  | Pele (10) |  |\n| Nitrobenzeno | 202-716-0 | 98-95-3 | 1 | 0,2 |  |  |  |  | Pele (10) |  |\n| N,N Dimetilformamida | 200-679-5 | 68-12-2 | 15 | 5 |  | 30 | 10 |  | Pele (10) |  |\n| 2-Metoxietanol | 203-713-7 | 109-86-4 |  | 1 |  |  |  |  | Pele (10) |  |\n| Acetato de 2-metoxietilo | 203-772-9 | 110-49-6 |  | 1 |  |  |  |  | Pele (10) |  |\n| 2-Etoxietanol | 203-804-1 | 110-80-5 | 8 | 2 |  |  |  |  | Pele (10) |  |\n| Acetato de 2-etoxietilo | 203-839-2 | 111-15-9 | 11 | 2 |  |  |  |  | Pele (10) |  |\n| 1-Metil-2-pirrolidona | 212-828-1 | 872-50-4 | 40 | 10 |  | 80 | 20 |  | Pele (10) |  |\n| Mercúrio e compostos inorgânicos divalentes de mercúrio, incluindo o óxido mercúrico e o cloreto mercúrico (medidos como mercúrio) |  |  | 0,02 |  |  |  |  |  |  |  |\n| Bisfenol A; 4,4′-isopropilidenodifenol | 201-245-8 | 80-05-7 | 2 (11) |  |  |  |  |  |  |  |\n| Monóxido de carbono | 211-128-3 | 630-08-0 | 23 | 20 |  | 117 | 100 |  |  |  |\n\n(1) Número CE, ou seja, EINECS, ELINCS ou NLP: número oficial da substância na União Europeia, na aceção do anexo vi, parte 1, ponto 1.1.1.2, do Regulamento (CE) n.º 1272/2008.\n\n(2) Número CAS: Número de registo do Chemical Abstract Service.\n\n(3) Medidos ou calculados em relação a um período de referência de oito horas em média ponderada no tempo (TWA).\n\n(4) Limite de exposição de curta duração (STEL): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário.\n\n(5) mg/m3 = Miligramas por metro cúbico de ar a 20°C e a 101,3 kPa (pressão de 760 mm de mercúrio).\n\n(6) ppm = Partes por milhão em volume no ar (ml/m3).\n\n(7) f/ml = Fibras por mililitro.\n\n(8) Fração inalável: Se a poeira de madeira de folhosas estiver misturada com outras poeiras de madeira, o valor-limite aplica-se a todas as poeiras de madeira presentes nessa mistura.\n\n(9) Fração respirável.\n\n(10) Possibilidade de contribuição considerável para a carga corporal total devido à exposição cutânea.\n\n(11) Fração inalável.\n\n(12) Fração inalável. Fração respirável nos Estados-Membros que apliquem, à data de entrada em vigor da presente diretiva, um sistema de biomonitorização com um valor-limite biológico que não exceda 0,002 mg de creatinina na urina.\n\n(13) A substância pode causar sensibilização da pele e das vias respiratórias.\n\n(14) A substância pode causar sensibilização da pele.\n\n(15) Fração respirável, medida em níquel.\n\n(16) Fração inalável, medida em níquel.\n\n(*1) Medidas sob a forma de carbono elementar.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01"
+  },
+  "898982602": {
+   "fragment_id": "898982286",
+   "type": 14,
+   "heading": "Anexo II — Valores-limite biológicos e medidas de vigilância da saúde",
+   "in_force_from": "2025-01-02",
+   "changed_by": [
+    "Aditado pelo/a Anexo II do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02."
+   ],
+   "markdown": "## Anexo II — Valores-limite biológicos e medidas de vigilância da saúde\n\n[a que se referem a alínea g) do n.º 1 do artigo 3.º, o artigo 12.º-A e a alínea a) do n.º 1 do artigo 14.º]\n\n1 - Chumbo e respetivos compostos iónicos:\n\n1.1 - O controlo biológico incluirá a medição da plumbemia (PbB), utilizando a espetroscopia de absorção atómica ou um método equivalente. O valor-limite biológico obrigatório é de: 70μg Pb/100 ml de sangue.\n\n1.2 - A vigilância da saúde será efetuada caso a exposição a uma concentração de chumbo na atmosfera seja superior a 0,075 mg/m3, sendo este valor a média ponderada em função do tempo calculada ao longo de 40 horas por semana, ou se as taxas individuais de plumbemia forem superiores a 40μg Pb/100 ml de sangue.\n\n> Aditado pelo/a Anexo II do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02."
+  },
+  "917106508": {
+   "fragment_id": "137784334",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução dos riscos de exposição",
+   "in_force_from": "2025-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2025 - Diário da República n.º 86/2025, Série I de 2025-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2025-916914752), em vigor a partir de 2025-06-02"
+   ],
+   "markdown": "###### Artigo 6.º — Redução dos riscos de exposição\n\nNas situações em que sejam utilizados agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução, para além dos procedimentos referidos no artigo anterior, o empregador deve aplicar conjuntamente as seguintes medidas:\n\na) Limitação das quantidades de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução no local de trabalho;\n\nb) Redução ao mínimo possível do número de trabalhadores expostos ou susceptíveis de o serem;\n\nc) Conceção de processos de trabalho e de medidas técnicas que evitem ou minimizem a libertação de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução no local de trabalho;\n\nd) Remoção dos agentes cancerígenos, mutagénicos ou das substâncias tóxicas para a reprodução na fonte, por aspiração localizada ou ventilação geral, adequadas e compatíveis com a proteção da saúde pública e do ambiente;\n\ne) Utilização de métodos apropriados de medição de agentes cancerígenos, mutagénicos ou de substâncias tóxicas para a reprodução, em particular para a deteção precoce de exposições anormais resultantes de acontecimento imprevisível ou de acidente;\n\nf) Aplicação de processos e métodos de trabalho adequados;\n\ng) Medidas de protecção colectiva adequadas ou, se a exposição não puder ser evitada por outros meios, medidas de protecção individual;\n\nh) Medidas de higiene, nomeadamente a limpeza periódica dos pavimentos, paredes e outras superfícies;\n\ni) Informação dos trabalhadores e dos seus representantes;\n\nj) Delimitação das zonas de risco e utilização de sinalização adequada de segurança e de saúde, incluindo sinais de proibição de fumar em áreas onde haja risco de exposição a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução;\n\nl) Instalação de dispositivos para situações de emergência susceptíveis de originar exposições anormalmente elevadas;\n\nm) Meios que permitam a armazenagem, o manuseamento e o transporte sem risco, nomeadamente mediante a utilização de recipientes herméticos e rotulados de forma distinta, clara e visível;\n\nn) Meios seguros de recolha, armazenagem e remoção dos resíduos pelos trabalhadores, incluindo a utilização de recipientes herméticos e rotulados de forma distinta, clara e visível, de modo a não constituírem fonte de contaminação dos trabalhadores e dos locais de trabalho, que atendam às disposições legais sobre resíduos e proteção do ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2025 - Diário da República n.º 86/2025, Série I de 2025-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2025-916914752), em vigor a partir de 2025-06-02"
+  }
+ }
+}

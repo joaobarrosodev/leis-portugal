@@ -1,0 +1,428 @@
+---
+schema_version: '1.0'
+id: pt:dre:136476384:por
+title: Resolução do Conselho de Ministros n.º 49/2020
+short_title: null
+summary: Cria o Programa de Transformação da Paisagem
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 49/2020
+official_date: null
+publication_date: '2020-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/2020, Série I de 2020-06-24
+  number: '121'
+  series: I
+  supplement: null
+  pages: 6 - 18
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12100/0000600018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-10-31'
+version_history:
+  file: resolucao-conselho-ministros-49-2020.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-06-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-08'
+    amending: pt:dre:177309294:por
+    amending_title: Resolução do Conselho de Ministros n.º 2/2022
+    changes:
+    - Altera Diploma
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo V
+  - date: '2024-03-05'
+    amending: pt:dre:854054391:por
+    amending_title: Resolução do Conselho de Ministros n.º 36/2024
+    changes:
+    - Altera Diploma
+    - Altera Anexo V
+  - date: '2024-10-31'
+    amending: pt:dre:893982650:por
+    amending_title: Resolução do Conselho de Ministros n.º 152/2024
+    changes:
+    - Altera Anexo V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/49/2020/p/cons/20241030/pt/html
+  oj: null
+  dre: '136476384'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/49-2020-136476384
+  internal: pt:dre:136476384:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2020-136476384
+  metadata_url: https://data.dre.pt/eli/resolconsmin/49/2020/p/cons/20241030/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2020-207414766
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2020-207414766
+  retrieved_at: '2026-10-22T12:55:15Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: abf6276c01a1ef574e8c2a46c37428c7fe783019071c6ddb1a6760775c777cc8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:55:15Z'
+  notes: 4 versão(ões); histórico completo em resolucao-conselho-ministros-49-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Prevenção de Incêndios
+- Financiamento
+- Desenvolvimento Rural
+- Ordenamento do Território
+- Contrato Programa
+- Definição de Competências
+- Desenvolvimento Regional
+- Emparcelamento
+- Feader
+- Proteção da Floresta
+- Estratégia Nacional de Conservação da Natureza e da Biodiversidade
+- Fundo Florestal Permanente
+- Direção Geral do Território
+- Instituto da Conservação da Natureza e das Florestas
+- Proteção do Ambiente
+- Política de Solos
+- Fundo Ambiental
+- Programa de Valorização do Interior
+- Programa de Transformação da Paisagem
+- Estratégia Nacional para as Florestas
+- Programa de Reordenamento e Gestão da Paisagem
+- Área Integrada de Gestão da Paisagem
+- Programa Emparcelar para Ordenar
+- Condomínio de Aldeia-Programa de Apoio às Aldeias Localizadas em Territórios de Floresta
+relationships:
+- type: amended_by
+  target: pt:dre:177309294:por
+  label: Altera Diploma; Altera Anexo I; Altera Anexo II; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2022-177309294
+  date: '2022-01-07'
+- type: amended_by
+  target: pt:dre:207332025:por
+  label: Altera Diploma; Altera Anexo I; Altera Anexo II; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2023-207332025
+  date: '2023-02-13'
+- type: amended_by
+  target: pt:dre:854054391:por
+  label: Altera Diploma; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2024-854054391
+  date: '2024-03-04'
+- type: amended_by
+  target: pt:dre:893982650:por
+  label: Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/152-2024-893982650
+  date: '2024-10-30'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+article_structure:
+  article_count: 0
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:55:15Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 49/2020
+
+Resolução do Conselho de Ministros n.º 49/2020
+
+Sumário: Cria o Programa de Transformação da Paisagem.
+
+No processo de discussão e participação do Programa Nacional da Política de Ordenamento do Território (PNPOT), a qualidade da paisagem em meio rural foi assumida como fundamental para a valorização e desenvolvimento sustentável dos territórios e para qualidade de vida dos cidadãos.
+
+Os espaços florestais, área arborizada, matos e pastagens, que ocupam quase 70 % da área terrestre de Portugal continental, constituem um elemento vital da paisagem rural e de sustentação e conetividade dos ecossistemas, além de uma âncora económica, ambiental e social dos territórios e da sua memória coletiva. Desempenham um papel determinante para o sequestro de carbono, indispensável para que Portugal possa atingir a neutralidade carbónica em 2050 e cumprem, ainda, um importante papel na regulação dos diferentes ciclos naturais, tendo uma função estruturante para a conservação da natureza e biodiversidade.
+
+Não obstante, em parte significativa destes espaços florestais, definidos no PNPOT como «territórios de floresta a valorizar», as características físicas, como o relevo ou solos pobres, o acentuado despovoamento e envelhecimento da população, e consequente abandono do modelo agrossilvopastoril, a par de uma extrema fragmentação das propriedades, determinam um quadro marcado por extensas áreas florestais de monocultura, a sua maioria não geridas, que, em presença de condições atmosféricas adversas, atingem níveis de perigosidade de incêndio extremo, pondo em causa pessoas, animais e bens, incluindo património natural e cultural.
+
+Este ciclo de simplificação dos processos ecológicos, com diminuição de mosaicos agroflorestais e económicos tem resultado em incêndios rurais cada vez mais intensos, com consequências ao nível da biodiversidade e da capacidade produtiva dos solos, e no desencadear de processos de erosão e desertificação física dos solos, a que acrescem perdas sociais e prejuízos económicos avultados, fragilizando ainda mais estes territórios.
+
+Para estes contextos, impõe-se desenvolver respostas estruturadas e sustentáveis ambiental e financeiramente de forma a aumentar a sua resiliência socioecológica e contribuir para o seu desenvolvimento integrado, a partir do reordenamento da paisagem, na senda de uma floresta ordenada, biodiversa e resiliente, conjugada com um mosaico agrícola, agroflorestal e silvopastoril, capaz de prestar diversos serviços ambientais e de sustentar as atividades económicas que lhes estão associadas, reduzindo significativamente a severidade da área ardida.
+
+Para o efeito, é fundamental motivar os proprietários, preferencialmente constituídos em agrupamentos, a investir e gerir as suas propriedades rústicas, incluindo no contexto pós-fogo, de modo a quebrar o ciclo de desinvestimento e a promover a gestão ativa, o ordenamento e a revitalização das áreas florestais de minifúndio.
+
+Com base nestes pressupostos, o Governo comprometeu-se a prosseguir com a reforma florestal iniciada na anterior legislatura, como componente essencial da prossecução do primeiro de quatro desafios estratégicos assumidos para a atual legislatura - o de enfrentar as alterações climáticas garantido uma transição justa. Neste âmbito, definiu no seu Programa do Governo medidas concretas para intervir no espaço rural, promovendo a diversificação da paisagem, a diminuição da carga de combustível, o aumento da área florestal gerida e a reconversão e densificação da área existente para espécies mais adaptadas ao território, incluindo agrícolas, tendo em vista a sua resiliência aos riscos, nomeadamente de incêndios, e a valorização da paisagem numa ótica multidimensional e promotora do sequestro de carbono.
+
+São essas medidas que agora se apresentam, num programa estruturado, a implementar a curto, médio e longo prazo - o Programa de Transformação da Paisagem (PTP), dirigido a territórios de floresta com elevada perigosidade de incêndio.
+
+Neste âmbito, reforça-se a conformidade concetual do PTP com o PNPOT, no quadro das medidas dirigidas à valorização da paisagem, revitalização dos territórios das florestas, remuneração dos serviços prestados pelos ecossistemas, bem como de prevenção e adaptação do território às mudanças climáticas.
+
+Encontra-se alinhado com os objetivos da Estratégia Nacional das Florestas 2030 (ENF 2030), nomeadamente ao nível do aumento da resiliência do território aos incêndios rurais, da recuperação e reabilitação das áreas afetadas e promoção de uma gestão sustentável dos territórios e com a Estratégia Nacional de Conservação da Natureza e Biodiversidade 2030 (ENCNB 2030), no qual é assumido que a adequada gestão das florestas é essencial para a conservação do património natural e para a recuperação de ecossistemas florestais abandonados, particularmente em áreas englobadas no Sistema Nacional de Áreas Classificadas.
+
+Em termos conceptuais e programáticos, o PTP responde às orientações do Programa de Valorização do Interior, em concreto ao Programa + CO3SO Capital Natural, que tem em vista promover o desenho da paisagem como referencial de uma nova economia dos territórios rurais ancorada numa floresta multifuncional, biodiversa e resiliente, e às diretrizes do Plano Nacional de Gestão Integrada de Fogos Rurais, que introduz um novo modelo de governação do risco e uma abordagem integrada ao problema dos fogos rurais assente em quatro grandes objetivos estratégicos: valorizar o território, cuidar dos espaços rurais, modificar comportamentos e gerir eficientemente os riscos.
+
+Finalmente, porque o PTP é um programa com medidas a lançar e concretizar no curto prazo, mas cuja dimensão é de médio e longo prazo, não só ao nível das ações, mas também de objetivos e resultados, assume um caráter dinâmico, prevendo ajustamentos e progressos ao nível dos meios e instrumentos aplicáveis, nomeadamente no que se refere ao novo quadro comunitário de apoio, e ao nível da disponibilização de novos incentivos financeiros e fiscais. O objetivo é garantir investimento público e privado para estes territórios vulneráveis, viabilizando uma gestão ativa, enquanto pilar da prevenção dos incêndios rurais e da construção de uma paisagem rural sustentável e resiliente.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar o Programa de Transformação da Paisagem (PTP), enquanto programa estratégico para intervenção integrada em territórios com vulnerabilidades decorrentes da conflitualidade entre a perigosidade e a ocupação e uso do solo, com o objetivo de promover uma transformação da paisagem que garanta a resiliência, a sustentabilidade e a valorização do território.
+
+2 - Determinar que o critério-base para a delimitação dos territórios vulneráveis abrangidos pelo PTP é a perigosidade de incêndio rural, nas classes de perigosidade 'alta' e 'muito alta', nos termos previstos no artigo 41.º do Decreto-Lei n.º 82/2021, de 13 de outubro.
+
+3 - Determinar que são abrangidos pelo PTP os territórios delimitados como vulneráveis, identificados à escala da freguesia, e aprovados por portaria dos membros do governo responsáveis pelas áreas da proteção civil, das autarquias locais, das florestas e do ordenamento do território, e da agricultura e do desenvolvimento rural.
+
+4 - Determinar que podem ser abrangidas pelo PTP as áreas que sejam percorridas por incêndios de grandes dimensões, com área igual ou superior a 500 hectares, incluindo aqueles que se encontrem fora da delimitação geográfica referida no número anterior, por proposta do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), ao membro do Governo responsável pela área da conservação da natureza, das florestas e do ordenamento do território, caso integre áreas classificadas.
+
+5 - Estabelecer como princípios orientadores do PTP:
+
+a) O suporte e a remuneração da transformação da paisagem de longo prazo, através de um processo participado de base local que reforce a cultura territorial e a capacidade dos atores do território;
+
+b) A adoção de políticas públicas de natureza ambiental que alinhem os interesses da sociedade e das gerações futuras com os dos proprietários e gestores da terra, de modo a promover uma maior justiça interterritorial e intergeracional, garantido a devida valorização da propriedade rural e a promoção da gestão sustentável;
+
+c) A aplicação à propriedade rústica de uma gestão sustentável como pilar do ordenamento do território rural, viabilizando-a nos territórios de minifúndio através da promoção da gestão agregada, da sua rentabilidade produtiva e do reconhecimento e compensação das externalidades positivas;
+
+d) A defesa do interesse público na assunção da gestão dos prédios rústicos não geridos e sem dono conhecido, designadamente no que se refere à execução das ações de gestão de fogos rurais e prevenção de riscos bióticos (pragas) e abióticos (outras catástrofes);
+
+e) O acompanhamento próximo dos projetos e boa monitorização e avaliação de resultados em função de metas e objetivos estabelecidos, baseados em indicadores de eficiência e eficácia económicas e sustentabilidade territorial;
+
+f) A definição de modelos de intervenção expeditos e flexíveis, em particular no pós-fogo de modo a acionar, no imediato e in loco, as ações necessárias à estabilização de emergência.
+
+6 - Determinar que o PTP integra as seguintes medidas programáticas de intervenção:
+
+a) Programas de Reordenamento e Gestão da Paisagem (PRGP), destinados a promover o desenho da paisagem como referencial de uma nova economia dos territórios rurais, que promova uma floresta multifuncional, biodiversa e resiliente, mais rentável, com maior capacidade de sequestro de carbono e capaz de produzir melhores serviços a partir dos ecossistemas, conforme o anexo i à presente resolução e da qual faz parte integrante;
+
+b) Áreas Integradas de Gestão da Paisagem, que definem um modelo de gestão agrupada, operacionalizado através de Operações Integradas de Gestão da Paisagem (OIGP), dirigido a contextos microterritoriais específicos, preferencialmente inseridos nos PRGP, com escala adequada para uma gestão ativa e racional, conforme o anexo ii à presente resolução e da qual faz parte integrante;
+
+c) 'Condomínio de Aldeia', Programa Integrado de Apoio às Aldeias localizadas em territórios de floresta, com o objetivo de atuar na envolvente das áreas edificadas mais vulneráveis ou críticas, reduzindo a carga de combustível, fomentando a função produtiva do solo e garantindo comunidades mais resistentes e adaptadas, conforme o anexo iii à presente resolução e da qual faz parte integrante;
+
+d) Programa «Emparcelar para Ordenar», com vista a fomentar o aumento da dimensão física dos prédios rústicos em contexto de minifúndio e, assim, aumentar a viabilidade e sustentabilidade económica, social e ambiental, conforme o anexo iv à presente resolução e da qual faz parte integrante.
+
+7 - Estabelecer que, em cada uma das medidas programáticas de intervenção referidas no número anterior, devem ser prosseguidos os seguintes objetivos específicos:
+
+a) Potenciar as características biofísicas dos territórios de floresta, as potencialidades produtivas dos solos e o equilíbrio dos diferentes ciclos naturais;
+
+b) Aumentar a resiliência dos territórios aos riscos, em particular ao de incêndio, mas também a minimização de outras vulnerabilidades num quadro de alterações climáticas;
+
+c) Aumentar as interfaces de ocupação do solo pela constituição de mosaicos culturais geridos na perspetiva espacial e temporal, impulsionando a construção coletiva de paisagens mais sustentáveis;
+
+d) Estimular os produtores agrícolas e florestais, assim como outros agentes ativos no terreno, a executarem as várias formas de gestão e conservação dos territórios rurais;
+
+e) Aumentar a área com gestão agregada de pequenas propriedades, preferencialmente através de entidades e organizações coletivas, potenciando o aumento da produtividade e da rentabilidade dos ativos florestais e a melhoria do ordenamento e conservação dos espaços rurais;
+
+f) Dar resposta à baixa adesão que os territórios florestais em minifúndio têm em implementar projetos com escala.
+
+8 - Cometer ao membro do Governo responsável pela área das florestas e do ordenamento do território a coordenação política da implementação do PTP, através de uma comissão de acompanhamento assente no sistema de pontos focais que integre representantes das áreas governativas da economia, da defesa nacional, da administração interna, do ambiente, da coesão territorial e da agricultura e do desenvolvimento rural.
+
+9 - Determinar que a monitorização e avaliação global do PTP e respetiva definição de metas e indicadores é assegurada no Fórum Intersetorial do Programa Nacional de Política de Ordenamento do Território e, em particular, no âmbito da articulação das políticas setoriais de florestas, conservação da natureza, ordenamento do território, agricultura, desenvolvimento rural, segurança e proteção civil e das autoridades de gestão responsáveis pelo financiamento das operações previstas.
+
+10 - Designar o ICNF, I. P., e a Direção-Geral do Território como as entidades responsáveis pelo acompanhamento e apoio técnico à implementação das medidas programáticas do PTP.
+
+11 - Prever que o enquadramento jurídico das medidas programáticas previstas nas alíneas a), b) e d) do n.º 6 é efetuado através de diplomas legais e regulamentares próprios, sendo o modelo de operacionalização dos condomínios de aldeia previstos na alínea c) do n.º 6 definido nos termos do anexo iii à presente resolução.
+
+12 - Estabelecer que, para tornar mais sustentável e integrado o investimento na floresta, serão dirigidas medidas de estímulo ao investimento privado, nomeadamente, o mercado voluntário de carbono, aprovado pelo Decreto-Lei n.º 4/2024, de 5 de janeiro.
+
+13 - Determinar que as áreas intervencionadas e apoiadas no quadro dos instrumentos previstos no PTP, que não estejam cobertas por cadastro, são alvo de operações de cadastro a realizar pelos municípios e entidades gestoras com responsabilidade de implementar as OIGP.
+
+14 - Definir que o financiamento das medidas programáticas de intervenção que integram o PTP, no atual período de programação comunitária, é efetuado na modalidade Multifundos, canalizando recursos financeiros provenientes do Plano de Recuperação e Resiliência, do Fundo Ambiental, do Fundo Europeu Agrícola de Desenvolvimento Rural, e de outras fontes de financiamento com origem em fundos da União Europeia, podendo evoluir para modelos de financiamento que se venham a revelar mais ajustados aos objetivos, nomeadamente de maior grau de territorialização e integração das políticas públicas.
+
+15 - Estabelecer que os modelos de gestão, as tipologias das operações e a dotação orçamental para os apoios aos investimentos, à manutenção e gestão e remuneração dos serviços dos ecossistemas são definidos no âmbito dos procedimentos de apoio financeiro previstos na lei.
+
+16 - (Revogado.)
+
+17 - (Revogado.)
+
+18 - Determinar que o modelo de financiamento das OIGP, nomeadamente tipologias de apoios e respetivas regras de elegibilidade, se encontra definido no anexo v à presente resolução e da qual faz parte integrante.
+
+19 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 21 de maio de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## Anexo I — Programas de Reordenamento e Gestão da Paisagem
+
+[a que se refere a alínea a) do n.º 6]
+
+O Programa de Reordenamento e Gestão da Paisagem (PRGP) é um instrumento que tem o objetivo de promover o ordenamento do território através da paisagem, revitalizar atividades e fomentar novos potenciais a partir dos recursos endógenos presentes e do incremento da multifuncionalidade, impulsionando as atividades económicas diretas e complementares relevantes e com valor na requalificação e gestão dos territórios. Para além da valorização dos produtos da floresta, silvopastorícia, caça e pesca, da agricultura e do fomento das atividades de turismo, lazer e recreio, pretende-se suportar o modelo de transformação da paisagem na valorização dos serviços dos ecossistemas prestados por estes territórios, designadamente a biodiversidade e o solo vivo, a infiltração da água e a salvaguarda da sua quantidade e qualidade, o sumidouro de carbono, e dos valores culturais.
+
+Na sequência da identificação de territórios com base nos critérios referidos nos n.os 3 e 4 da presente resolução, e atendendo à Carta das Unidades de Paisagem de Portugal Continental e ao Modelo Territorial do Programa Nacional da Política de Ordenamento do Território, que identifica as áreas de floresta a valorizar, foram desenhadas 20 unidades homogéneas que correspondem aos territórios potenciais para delimitação das áreas a sujeitar a PRGP.
+
+A delimitação das áreas a sujeitar a PRGP deve considerar unidades territoriais de dimensão mais reduzida, entre 25 000 a 40 000 hectares, com características que revelem potencial para identificação de ações com condições de replicação em toda a unidade homogénea.
+
+A Direção-Geral do Território promove a realização dos estudos para apoio aos 20 PRGP e apoio à criação de áreas integradas de gestão da paisagem, incluindo operações de cadastro, recebendo, para o efeito, apoio do Fundo Ambiental, do Plano de Recuperação e Resiliência ou de outras fontes de financiamento com origem em fundos da União Europeia.
+
+Na figura seguinte apresentam-se indicativamente os territórios potenciais para delimitação das áreas a sujeitar a PRGP.
+
+(ver documento original)
+
+> Alterado pelo/a Anexo I do/a [Resolução do Conselho de Ministros n.º 2/2022 - Diário da República n.º 5/2022, Série I de 2022-01-07](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2022-177309294), em vigor a partir de 2022-01-08
+
+## Anexo II — Áreas integradas de gestão da paisagem
+
+[a que se refere a alínea b) do n.º 6]
+
+Os múltiplos desafios que se colocam aos territórios de floresta e de minifúndio - económicos, ambientais e sociais - a par dos resultados pouco expressivos que as medidas de política lançadas ao longo dos tempos têm tido nestes territórios, evidenciam a necessidade de uma abordagem integrada e territorial, que assegure uma resposta eficaz à necessidade premente de ordenamento da paisagem e de aumento da área florestal gerida, a uma escala que permita a redução da frequência de grandes incêndios.
+
+É precisamente a obtenção de escala - unidades de paisagem mínimas - um dos fatores críticos de sucesso das ações de gestão e ordenamento no contexto destes territórios, atendendo à sua estrutura de propriedade, extremamente fragmentada e, por isso, com áreas muito reduzidas e de escasso valor económico, detidas maioritariamente por proprietários privados, muitos deles envelhecidos ou não residentes.
+
+Este perfil de estrutura fundiária, associado à desmotivação que a elevada perigosidade de incêndio rural e as baixas rentabilidades representam, afasta os proprietários de investirem por sua iniciativa nas propriedades e são fator de bloqueio ao desenvolvimento de soluções coletivas, na medida em que estão dependentes da ação conjunta e concertada de inúmeros proprietários.
+
+Perante estes condicionalismos, importa desenhar incentivos ajustados às características e constrangimentos específicos, que prevejam instrumentos suficientemente flexíveis, atrativos e mobilizadores, mas também vinculativos, que impulsionem as entidades locais a avançarem para projetos coletivos, acompanhados da respetiva adesão dos proprietários rurais.
+
+Como resposta, no quadro do Programa de Transformação da Paisagem, prevê-se a criação das áreas integradas de gestão da paisagem (AIGP) com a finalidade de promover a gestão e exploração comum dos espaços agrícolas, florestais e agroflorestais em zonas de minifúndio e de alta e muito alta perigosidade de incêndio. As AIGP, preferencialmente integradas em Programas de Reordenamento e Gestão da Paisagem, são dirigidas a contextos microterritoriais com escala adequada para uma gestão florestal ativa e racional, e têm por base uma metodologia e enquadramento regulamentar e financeiro próprios, nas diferentes fases do processo de constituição e operacionalização: planeamento, governança, propriedade rústica e apoios.
+
+O modelo preconizado é orientado para comunidades locais concretas, na medida em que a sua constituição depende da mobilização dos produtores e proprietários, pelo que o envolvimento dos interlocutores locais, como as autarquias, nestes contextos rurais despovoados e envelhecidos, são fator indispensável para convencer e mobilizar os proprietários a aderirem a modelos de gestão coletiva.
+
+A Reforma Florestal veio, a este nível, introduzir importantes mudanças, que devem ser consideradas no âmbito das AIGP. Para além das Entidades Gestoras das Zonas de Intervenção Florestal, as quais foram objeto de simplificação para a respetiva constituição, e das Unidades de Gestão Florestal, reforça-se a componente da gestão profissionalizada das AIGP, através da inclusão das Entidades de Gestão Florestal, enquanto nova forma de organização dos produtores e proprietários para a gestão agregada dos territórios florestais e agrícolas, em minifúndio.
+
+Como elemento diferenciador do modelo das AIGP surge a disponibilização de instrumentos financeiros que garantem rentabilidades previsíveis e estáveis a médio prazo. Estes apoios incluem, a curto prazo, o financiamento à constituição e funcionamento das entidades responsáveis pela administração e gestão das AIGP, mediante a celebração de contratos-programa.
+
+Os incentivos previstos no âmbito dos contratos-programa são indexados a resultados e têm um caráter progressivo em função das realizações.
+
+Como elemento inovador para impulsionar as entidades locais e proprietários a avançarem com a constituição da AIGP, destaca-se a introdução da modalidade Multifundos que conjuga, para a mesma área objeto de apoio, os instrumentos de financiamento do Fundo Europeu Agrícola de Desenvolvimento Rural, do Fundo Ambiental, do Plano de Recuperação e Resiliência ou de outras fontes de financiamento com origem em fundos da União Europeia, disponibilizando apoios não só ao investimento, mas também à manutenção e gestão a médio prazo, assim como à remuneração dos serviços dos ecossistemas, que deve tomar a forma de uma remuneração-base em função da área gerida, permitindo condições de remuneração estáveis e previsíveis a médio prazo.
+
+> Alterado pelo/a Anexo II do/a [Resolução do Conselho de Ministros n.º 2/2022 - Diário da República n.º 5/2022, Série I de 2022-01-07](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2022-177309294), em vigor a partir de 2022-01-08
+
+## Anexo III — Condomínio de Aldeia - Programa de Apoio às Aldeias Localizadas em Territórios de Floresta
+
+[a que se refere a alínea c) do n.º 6]
+
+I - Enquadramento
+
+Em linha com os pressupostos que estiveram na base da criação do Programa 'Aldeia Segura', através da Resolução do Conselho Ministros n.º 157-A/2017, de 27 de outubro, estabelece-se, de forma complementar, o Programa 'Condomínio de Aldeia'.
+
+Esta medida programática do Programa de Transformação da Paisagem (PTP) visa atuar na envolvente das áreas edificadas mais vulneráveis ou críticas, reduzindo a carga de combustível, fomentando a função produtiva do solo e garantindo comunidades mais resistentes e adaptadas.
+
+Pretende-se que os proprietários e demais titulares de direitos reais sobre os prédios rústicos localizados na envolvente de áreas edificadas, em particular nos territórios com maior ocupação florestal e com um elevado número e dispersão de pequenos lugares, assumam a gestão ativa dos territórios rurais, numa perspetiva colaborativa também com as entidades locais.
+
+Apresenta-se, assim, como um programa de proteção às áreas edificadas com uma elevada percentagem de interface com territórios florestais, através de ações de gestão, ordenamento e reconversão florestal para outros usos.
+
+O 'Condomínio de Aldeia' estabelece-se sobretudo nas faixas de gestão de combustível da rede secundária, aprovadas no âmbito dos Planos Municipais de Defesa da Floresta contra Incêndios (PMDFCI) ou dos Programas Municipais de Execução de Gestão Integrada de Fogos Rurais (PMEGIFR), como forma de libertar os titulares dos prédios rústicos do ónus periódico e permanente da gestão de combustível, através do apoio à alteração do uso do solo para usos agrícolas (e. g. fruticultura, horticultura, olival, vinha) ou agroflorestais (e. g. silvopastorícia), contribuindo para o fomento da economia local e da biodiversidade.
+
+Esta alteração do uso do solo tem uma dupla vantagem. Por um lado, a ação concertada gera eficácia, eficiência e rendimento e, por outro, protege as áreas edificadas de potenciais consequências resultantes da ocorrência de incêndios rurais, assegurando a manutenção dos residentes e das atividades económicas essenciais para a sustentabilidade da paisagem.
+
+Enquanto programa integrado de apoio, as áreas edificadas devem ser entendidas como comunidades com dinâmicas próprias, requerendo a adoção de modelos de governação que aproximem as políticas públicas das pessoas e que propiciem soluções mais integradas para os problemas específicos destes espaços socioterritoriais. Importa persistir na sensibilização e formação das comunidades para a prevenção das situações de risco, para a conversão do território em paisagens diversificadas e para a valorização dos matos e incultos.
+
+II - Tipologia dos apoios - Condições
+
+A - Objetivo e condições de acesso
+
+A medida programática 'Condomínio de Aldeia' é dirigida aos territórios vulneráveis do PTP, perspetiva a reconversão de territórios classificados como matos ou floresta na envolvente das áreas edificadas noutros usos, incluindo agricultura de conservação, sistemas agroflorestais ou zonas de pastagem extensivas, com aproveitamento e melhoria da gestão da água através de sistemas de regadio locais, e o fornecimento de serviços de ecossistemas e a proteção da biodiversidade. Pretende-se ainda valorizar os aglomerados rurais do ponto de vista paisagístico, valorizando os seus ativos naturais, patrimoniais e culturais e garantido maior segurança a pessoas, animais e bens. Neste contexto, pretende-se que as intervenções sejam realizadas de forma integrada e agregada, envolvendo a comunidade no seu conjunto - 'Condomínio de Aldeia'.
+
+B - Critérios
+
+i) Beneficiários finais: autarquias locais, entidades intermunicipais, entidades gestoras de operações integradas de gestão da paisagem, organizações de produtores florestais ou agrícolas, entidades gestoras de zonas de intervenção florestal, entidades gestoras de baldios, organizações não governamentais de ambiente ou associações de desenvolvimento local, agências de desenvolvimento regional ou outras associações sem fins lucrativos que tenham no seu objeto a promoção do desenvolvimento regional.
+
+ii) (Revogada.)
+
+iii) Territórios elegíveis: as áreas edificadas com extensão da interface direta com territórios florestais igual ou superior a 60 % ou enquadrar-se em freguesias que apresentem um quociente de localização da classe conjunta de uso e ocupação do solo 'área florestal' e 'área de matos' superior a 1, calculado a partir da Carta de Uso e Ocupação do Solo produzida pela Direção-Geral do Território, e a publicar no âmbito de cada aviso do Fundo Ambiental.
+
+iv) Áreas de intervenção: cada 'Condomínio de Aldeia' deve corresponder uma aldeia associada a uma toponímia, devendo as intervenções abranger no mínimo a área ocupada pela faixa de gestão de combustível da rede secundária da área edificada, aprovada no âmbito do PMDFCI ou do PMEGIFR do respetivo município, incluindo as áreas existentes entre o limite das edificações e a faixa, podendo abranger as áreas cujos limites se estendam para além da faixa de gestão de combustível, desde que se garanta contiguidade com as áreas abrangidas.
+
+v) Apresentação de projeto: indicação da área de intervenção, das espécies a instalar e a manter e das intervenções a executar nos cinco anos subsequentes à implementação do projeto, acompanhado da respetiva planta cartográfica.
+
+C - Tipologia e forma dos apoios
+
+As entidades promotoras candidatam-se a apoios disponibilizados pelo Fundo Ambiental, pelo Plano de Recuperação e Resiliência ou por outra fonte de financiamento com origem em fundos da União Europeia, propondo a constituição de 'Condomínio de Aldeia'. Cada candidatura pode incluir um ou mais 'Condomínio de Aldeia', tendo por limite máximo (euro) 50 000,00 por 'Condomínio de Aldeia', sendo os apoios atribuídos de acordo com os critérios definidos nos avisos a publicar.
+
+> Alterado pelo/a Anexo do/a [Resolução do Conselho de Ministros n.º 16/2023 - Diário da República n.º 31/2023, Série I de 2023-02-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2023-207332025), em vigor a partir de 2023-01-14
+
+> Alterado pelo/a Anexo III do/a [Resolução do Conselho de Ministros n.º 2/2022 - Diário da República n.º 5/2022, Série I de 2022-01-07](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2022-177309294)
+
+## Anexo IV — Programa «Emparcelar para Ordenar»
+
+[a que se refere a alínea d) do n.º 6]
+
+A estrutura fundiária em Portugal, marcada pela dispersão, fragmentação e pequena dimensão da propriedade, em particular a norte do Tejo, apresenta deficiências estruturais que comprometem a viabilidade e sustentabilidade económica das explorações, levando ao abandono da agricultura e a áreas de matos e floresta sem gestão. Este quadro de retração das atividades tradicionais, agravado pelo envelhecimento populacional, tem vindo a potenciar a tendência de abandono dos territórios rurais.
+
+Nos territórios em que este cenário de extrema fragmentação das propriedades surge associado a extensos territórios florestais de monocultura não geridos, e quando verificadas condições atmosféricas adversas, atingem-se as classes de perigosidade de incêndio alta e muito alta, que propiciam ocorrências de grande magnitude que colocam em risco pessoas, animais e bens, incluindo património natural e cultural.
+
+Para o efeito, é fundamental incentivar os proprietários a investir e a gerir as suas propriedades rústicas, incluindo a melhoria da estrutura fundiária, o que justifica a criação de medidas de apoio ao emparcelamento direcionadas aos territórios classificados como vulneráveis.
+
+Neste contexto, é criado o Programa «Emparcelar para Ordenar», com o objetivo de fomentar o aumento da dimensão física dos prédios rústicos e, assim, aumentar a viabilidade e sustentabilidade económica das explorações que aí estejam instaladas ou venham a instalar-se, e incrementar o ordenamento e gestão dos territórios, assim como a sua resiliência e a preservação e dinamização das atividades agrícolas, florestais e agroflorestais.
+
+Os apoios podem ser disponibilizados através do Fundo Florestal Permanente, do Fundo Ambiental, do Plano de Recuperação e Resiliência ou de outras fontes de financiamento com origem em fundos da União Europeia.
+
+> Alterado pelo/a Anexo IV do/a [Resolução do Conselho de Ministros n.º 2/2022 - Diário da República n.º 5/2022, Série I de 2022-01-07](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2022-177309294)
+
+## Anexo V — Modelo de financiamento das Operações Integradas de Gestão da Paisagem
+
+(a que se refere o n.º 18)
+
+I - Enquadramento
+
+As vulnerabilidades dos territórios vulneráveis aos incêndios rurais, aliados a condicionalismos estruturais - económicos, demográficos e sociais - determinaram a definição de modelos de financiamento multifundos, mais ajustados e com maior grau de territorialização e previsibilidade temporal, questão crítica em investimentos cujo retorno é de muito longo prazo, como é o caso dos investimentos florestais.
+
+No compromisso assinado com a União Europeia no âmbito do Plano de Recuperação e Resiliência (PRR) ficou expressa a importância da complementaridade dos fundos europeus, com os fundos nacionais, como o Fundo Ambiental, de forma a potenciar os investimentos previstos no PRR.
+
+Neste quadro, é crítico que de forma complementar aos investimentos financiadas pelo PRR ao nível da transformação e valorização da paisagem, as Operações Integradas de Gestão da Paisagem (OIGP) beneficiem igualmente de apoios à gestão e manutenção e à remuneração dos serviços dos ecossistemas, por um período de longo prazo.
+
+Desta forma, o Fundo Ambiental deverá disponibilizar apoios a 20 anos, através de contratos de longa duração com as entidades gestoras das OIGP, com vista, por um lado, a garantir a gestão e manutenção conjunta e integrada da OIGP e, por outro lado, a promover sistemas culturais que contribuam ativamente para o aumento da resiliência e a diminuição da vulnerabilidade do território aos incêndios rurais e, desse modo, assegurar a prestação dos serviços dos ecossistemas, nomeadamente a biodiversidade, a proteção da água e do solo e o sequestro de carbono.
+
+II - Tipologia dos apoios
+
+Os apoios às operações a desenvolver nas áreas integradas de gestão da paisagem (AIGP), enquadram-se nas seguintes tipologias:
+
+A. Apoios às ações de investimento ao nível da transformação e valorização da paisagem, previstas no projeto de OIGP e financiados pelo PRR.
+
+Estas ações, definidas tendo por base as estruturas ecológicas e de resiliências e as características biofísicas e edafoclimáticas do território, a aptidão do solo e os fatores que permitem reduzir a perigosidade e a vulnerabilidade ao fogo, compreendem as seguintes prioridades de intervenção:
+
+a) O redesenho da paisagem através do estabelecimento de descontinuidades na estrutura das formações vegetais por via da reestruturação dos territórios florestais, da alteração da composição dos povoamentos ou do uso do solo e da constituição de faixas de gestão de combustível e de áreas estratégicas de mosaicos de gestão de combustível, que permitam a compartimentação dos territórios rurais;
+
+b) A reintrodução da agricultura e da silvopastorícia, enquanto atividades económicas importantes para as economias locais e com função de mosaico e diversificação da paisagem;
+
+c) A gestão e valorização dos povoamentos existentes;
+
+d) A expansão de espécies autóctones e/ou de crescimento lento e de projetos de reconversão, nomeadamente de povoamentos de eucalipto de baixa produtividade, para formações florestais de interesse do ponto de vista da proteção e conservação;
+
+e) A arborização de áreas de matos e incultos e a recuperação de pastagens;
+
+f) As ações de controlo de invasoras lenhosas.
+
+As regras e procedimentos dos apoios do PRR a atribuir às OIGP, nomeadamente ao nível das elegibilidades e formas de apoio, são divulgados nos avisos e orientações técnicas, publicados nos sítios institucionais do Fundo Ambiental e da Estrutura de Missão ‘Recuperar Portugal’, de acordo com o estabelecido na Decisão de Execução do Conselho que aprova a avaliação do PRR português.
+
+g) As tarefas associadas ao investimento, que conduzirão ao reconhecimento por partes terceiras dos serviços de ecossistemas efetivamente prestados nas AIGP.
+
+B. Apoios a 20 anos, financiados pelo Fundo Ambiental, com vista a garantir a gestão e a manutenção conjunta e integrada das OIGP e promover sistemas culturais que contribuam ativamente para o aumento da resiliência e a diminuição da vulnerabilidade do território aos incêndios rurais e, desse modo, assegurar a prestação dos serviços dos ecossistemas.
+
+Estes apoios, sob forma de uma remuneração-base, compreendem:
+
+a) Apoio anual dirigido à entidade gestora para garantir a gestão conjunta e integrada da OIGP, tendo por base o seguinte método de calculo: 13 900,00 euros de valor-base por OIGP, acrescendo 7,00 euros por hectare do total da área da OIGP, até um limite de 40 000 euros;
+
+b) Apoios dirigidos aos sistemas culturais que contribuam para o aumento da resiliência e diminuição da vulnerabilidade do território aos incêndios rurais, atribuído um valor-base, que varia entre os 80 e 140 euros/ha/ano, e majorado em função do declive, estrutura da paisagem e reserva ecológica nacional.
+
+Os apoios são assim disponibilizados em função do sistema cultural associado à transformação realizada e à dimensão da área gerida, e majorados em função do seu contributo para a resiliência ao fogo e, por essa via, para aumentar as condições de prestação de serviços dos ecossistemas relacionados com o aumento da biodiversidade, com a proteção da água e do solo e com o contributo para o sequestro de carbono, de forma a assegurar aos produtores florestais e agrícolas rentabilidades previsíveis e estáveis a médio prazo.
+
+Os sistemas culturais elegíveis, montantes e respetiva majoração, são publicados em orientação técnica, no sítio institucional do Fundo Ambiental, definindo os apoios à gestão e manutenção conjunta e integrada das OIGP e os apoios aos sistemas culturais que contribuam para o aumento da resiliência e diminuição da vulnerabilidade dos territórios aos incêndios rurais.
+
+> Alterado pelo/a 10.º do/a [Resolução do Conselho de Ministros n.º 152/2024 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/152-2024-893982650), em vigor a partir de 2024-10-31
+
+> Alterado pelo/a Anexo do/a [Resolução do Conselho de Ministros n.º 36/2024 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2024-854054391), em vigor a partir de 2024-03-05
+
+> Alterado pelo/a Anexo do/a [Resolução do Conselho de Ministros n.º 16/2023 - Diário da República n.º 31/2023, Série I de 2023-02-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2023-207332025), em vigor a partir de 2023-01-14
+
+> Alterado pelo/a Anexo V do/a [Resolução do Conselho de Ministros n.º 2/2022 - Diário da República n.º 5/2022, Série I de 2022-01-07](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2022-177309294), em vigor a partir de 2022-01-08

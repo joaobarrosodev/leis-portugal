@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222790:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-915235677",
+ "dre_path": "/dr/detalhe/decreto-lei/212-1994-222790",
+ "source_lastmod": "2025-04-16",
+ "versions": [
+  {
+   "date": "1994-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915235587",
+    "915235588",
+    "915235589",
+    "915235590",
+    "915235591",
+    "915235592",
+    "915235593",
+    "915235594"
+   ]
+  },
+  {
+   "date": "2006-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:620286:por",
+     "title": "Decreto-Lei n.º 76-A/2006",
+     "published": "2006-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/76-a-2006-620286"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "915235587",
+    "915235629",
+    "915235589",
+    "915235590",
+    "915235591",
+    "915235592",
+    "915235593",
+    "915235594",
+    "915235595"
+   ]
+  }
+ ],
+ "fragments": {
+  "915235587": {
+   "fragment_id": "915235678",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 212/94\n\nde 10 de Agosto\n\nO desenvolvimento da Zona Franca da Madeira implica a criação de condições que, numa perspectiva jurídico-económica, tornem aquela zona mais competitiva nos mercados internacionais, face a outros centros similares, contribuindo desta forma para o acréscimo de investimento estrangeiro em Portugal.\n\nO reconhecimento da importância deste objectivo implicou a consagração, através do Decreto-Lei n.º 352-A/88, de 3 de Outubro, da possibilidade de criação de sociedades unipessoais que tenham por objecto o trust offshore.\n\nAtendendo à absoluta necessidade de continuar a melhorar as condições que propiciem o desenvolvimento da Zona Franca da Madeira, o presente diploma permite a constituição e a manutenção de sociedades por quotas e anónimas unipessoais, desde que licenciadas para aí operar.\n\nA solução proposta está em consonância com o disposto na Directiva n.º 89/667/CEE, do Conselho, de 21 de Dezembro, sobre as sociedades de responsabilidade limitada com um único sócio e tem em conta que no direito interno já existem casos de admissibilidade limitada de sociedades unipessoais.\n\nConcomitantemente, com o objectivo de reduzir os custos das entidades licenciadas para operar na Zona Franca da Madeira e de assegurar a publicidade e segurança do comércio jurídico, determina-se que os actos registados na Conservatória de Registo Comercial privativa da Zona Franca da Madeira sejam unicamente publicados no Jornal Oficial da Região Autónoma da Madeira, 4.ª série.\n\nForam ouvidos os órgãos de governo próprio da Região Autónoma da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "915235588": {
+   "fragment_id": "915235679",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - As sociedades anónimas e por quotas licenciadas para operar na Zona Franca da Madeira podem ser constituídas ou subsistir com um único sócio, pessoa singular ou colectiva, nacional ou estrangeira.\n\n2 - Cessando, por qualquer causa, a licença para operar na Zona Franca da Madeira, as sociedades referidas no n.º 1 devem ser dissolvidas, nos termos dos artigos 142.º, 143.º e 144.º do Código das Sociedades Comerciais, tendo o Ministério Público legitimidade para propor a respectiva acção."
+  },
+  "915235589": {
+   "fragment_id": "915235680",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - As sociedades referidas no artigo anterior devem incluir na firma a expressão «sociedade unipessoal».\n\n2 - O disposto no número anterior é aplicável às sociedades que se tornem unipessoais, sem necessidade de os seus contratos serem alterados, bastando que a nova firma fique a constar do registo, a requerimento do órgão administrativo da sociedade ou do sócio único."
+  },
+  "915235590": {
+   "fragment_id": "915235681",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As acções de sociedades anónimas unipessoais são obrigatoriamente nominativas.\n\n2 - Quando a sociedade se constitua como sociedade por quotas, há uma só quota pertencente ao sócio único."
+  },
+  "915235591": {
+   "fragment_id": "915235682",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O sócio único exerce os poderes atribuídos por lei à assembleia geral de sócios, devendo as suas decisões ser transcritas em livro de actas.\n\n2 - Os contratos celebrados entre o sócio único e a sociedade unipessoal devem constar integralmente do livro de actas e são transcritos nos relatórios de gestão do exercício em que foram celebrados, excepto se consistirem em operações correntes da sociedade."
+  },
+  "915235592": {
+   "fragment_id": "915235683",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - É vedado a uma sociedade unipessoal constituir outras sociedades de que seja a única sócia.\n\n2 - A sociedade unipessoal e a sociedade que totalmente a domine consideram-se em relação de grupo, independentemente da localização da sede da sociedade dominante, relação essa que termina nos casos previstos pelas alíneas b) e c) do n.º 4 do artigo 489.º do Código das Sociedades Comerciais."
+  },
+  "915235593": {
+   "fragment_id": "915235684",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO disposto nos artigos anteriores deste diploma não prejudica o preceituado nos artigos 21.º e 22.º do Decreto-Lei n.º 352-A/88, de 3 de Outubro, respeitante a sociedades de trust offshore."
+  },
+  "915235594": {
+   "fragment_id": "915235685",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Os actos de registo comercial da Zona Franca da Madeira são apenas publicados no Jornal Oficial da Região Autónoma da Madeira, 4.ª série.\n\n2 - A conservatória de registo comercial que exerça as funções respeitantes à Zona Franca da Madeira deve enviar, oficiosamente, o extracto do registo ao Jornal Oficial no prazo de cinco dias."
+  },
+  "915235629": {
+   "fragment_id": "915235679",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2006-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - As sociedades anónimas e por quotas licenciadas para operar na Zona Franca da Madeira podem ser constituídas ou subsistir com um único sócio, pessoa singular ou colectiva, nacional ou estrangeira.\n\n2 - Cessando, por qualquer causa, a licença para operar na Zona Franca da Madeira, as sociedades referidas no n.º 1 devem ser dissolvidas, nos termos do artigo 142.º do Código das Sociedades Comerciais e do regime jurídico dos procedimentos administrativos de dissolução e de liquidação de entidades comerciais.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, 1º Suplemento, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+  },
+  "915235595": {
+   "fragment_id": "915235686",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Junho de 1994. - Aníbal António Cavaco Silva - Artur Aurélio Teixeira Rodrigues Consolado - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 12 de Julho de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Julho de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

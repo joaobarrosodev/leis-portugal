@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:579740:por
+title: Decreto-Lei n.º 221/81
+short_title: null
+summary: Cria o Gabinete do Aeroporto de Santa Catarina
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 221/81
+official_date: null
+publication_date: '1981-07-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1981, Série I de 1981-07-17
+  number: '162'
+  series: I
+  supplement: null
+  pages: 1743 - 1744
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/07/16200/17431744.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '579740'
+  dre_path: /dr/detalhe/decreto-lei/221-1981-579740
+  internal: pt:dre:579740:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:37:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ab5076e6328cf3b823bbe99736df8645b220e904667c980121b48f685ba3c80b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:37:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto de Santa Catarina
+- Criação de Serviços
+- Funchal
+- Gabinete do Aeroporto de Santa Catarina
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:dre:392016:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:681593:por
+  label: "Alterado o art. 8º pelo DEC LEI.272/91.07.08.1991.MPLAT, DR.IS-A [180] de 07.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1991-681593
+  date: '1991-08-07'
+- type: amended_by
+  target: pt:dre:392016:por
+  label: Extinto o Gabinete para os Aeroportos da Região Autónoma da Madeira, assim designado pelo Dec Lei 137/86, de 12-jun,
+    criado como Gabinete do Aeroporto de Santa Catarina pelo presente diploma pelo(a) Decreto-Lei n.º 453/91 - Diário da República
+    n.º 285/1991, Série I-A de 1991-12-11, que determinou a transferência para a ANAM, S. A. da universalidade de direitos
+    e obrigações de que o GARAM seja titular.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/453-1991-392016
+  date: '1991-12-11'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:37:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 221/81
+
+de 17 de Julho
+
+Verifica-se a necessidade premente, a nível nacional e regional, de se dotar a Madeira com a infra-estrutura aeroportuária adequada à satisfação do previsível aumento do tráfego aéreo, tanto mais que a Madeira não pode perder a sua posição privilegiada no que respeita ao turismo.
+
+Com o presente diploma é criado, com carácter eventual, no Ministério das Finanças e do Plano, o Gabinete do Aeroporto de Santa Catarina, instrumento orgânico que irá permitir a concretização deste grande empreendimento nacional.
+
+Nestes termos:
+
+Ouvidos os órgãos do Governo Regional da Madeira:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - É criado, com carácter eventual, o Gabinete do Aeroporto de Santa Catarina, com personalidade jurídica e autonomia administrativa.
+
+2 - O Gabinete do Aeroporto de Santa Catarina ficará na dependência directa do Ministro das Finanças e do Plano.
+
+Art. 2.º O Gabinete terá as suas instalações principais na Região Autónoma da Madeira.
+
+Art. 3.º O Gabinete do Aeroporto de Santa Catarina tem por fim a gestão técnica e financeira do empreendimento, competindo-lhe, nomeadamente:
+
+a) Promover a elaboração de todos os estudos que se tornem necessários para a realização da obra ou com ela relacionados;
+
+b) Preparar a elaboração dos contratos para a execução do empreendimento e fiscalizar o seu cumprimento;
+
+c) Representar o Governo em todos os actos relacionados com os estudos e a realização deste empreendimento;
+
+d) Assegurar a cooperação dos demais serviços e entidades que intervenham no estudo da obra e prestar essa cooperação aos serviços de outros departamentos do Estado, quando necessário;
+
+e) Dirigir e fiscalizar os trabalhos;
+
+f) Promover o pagamento das despesas;
+
+g) Promover o estudo do futuro regime de exploração do conjunto do empreendimento.
+
+Art. 4.º - 1 - O Gabinete será constituído por um director, dois subdirectores e um secretário.
+
+2 - O director designará, por despacho, um dos subdirectores para o substituir nas suas falhas e impedimentos.
+
+3 - O director, os subdirectores e o secretário constituirão o conselho administrativo do Gabinete.
+
+Art. 5.º - 1 - O director e os subdirectores serão nomeados pelo Ministro da tutela. O director será da livre escolha daquele Ministro e os subdirectores serão indicados um pelo Presidente do Governo Regional da Madeira e outro pelo Ministro dos Transportes e Comunicações.
+
+2 - O secretário é igualmente nomeado pelo Ministro da tutela, competindo-lhe superintender nos serviços administrativos e de expediente do Gabinete e coordenar os estudos dos problemas de carácter financeiro.
+
+Art. 6.º O Gabinete poderá solicitar assistência a entidades públicas ou privadas para a prossecução das atribuições que lhe estão cometidas.
+
+Art. 7.º - 1 - O director, os subdirectores e o secretário poderão exercer as suas funções em regime de comissão de serviço.
+
+2 - Se for julgado conveniente, aquelas funções poderão ser exercidas em acumulação com outro cargo ou cargos que estejam desempenhando.
+
+Art. 8.º O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Governo Regional da Madeira, pelo Ministério das Finanças e do Plano ou por outros Ministérios interessados.
+
+Art. 9.º Os vencimentos ou gratificações dos membros do Gabinete e do pessoal a ele afecto serão fixados por despacho do Ministro da tutela.
+
+Art. 10.º - 1 - As despesas do Gabinete serão suportadas por verbas especialmente inscritas no orçamento do Ministério das Finanças e do Plano.
+
+2 - Mediante processo de alteração do orçamento vigente, transitarão para o Gabinete no presente ano económico as verbas para o efeito necessárias.
+
+3 - O Gabinete requisitara à 2.ª Delegação da Direcção-Geral da Contabilidade Pública, por conta das verbas destinadas à construção do Aeroporto de Santa Catarina, as importâncias de que necessite para o pagamento das suas despesas.
+
+4 - As importâncias referidas no número anterior serão depositadas à ordem do Gabinete na Caixa Geral de Depósitos, devendo a respectiva conta ser movimentada por meio de cheques, que terão obrigatoriamente as assinaturas do director e do secretário ou, em caso de impedimento, dos seus substitutos.
+
+Art. 11.º O Gabinete prestará anualmente contas da sua gerência ao Tribunal de Contas.
+
+Art. 12.º As dúvidas de interpretação e de aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+
+Visto e aprovado em Conselho de Ministros de 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 8 de Julho de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

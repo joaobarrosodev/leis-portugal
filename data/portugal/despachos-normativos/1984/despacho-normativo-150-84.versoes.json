@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:399624:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1984-890053684",
+ "dre_path": "/dr/detalhe/despacho-normativo/150-1984-399624",
+ "source_lastmod": "2024-10-04",
+ "versions": [
+  {
+   "date": "1984-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890052615"
+   ]
+  },
+  {
+   "date": "1984-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:446495:por",
+     "title": "Declaração",
+     "published": "1984-10-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-446495"
+    }
+   ],
+   "changes": [
+    "Retifica A"
+   ],
+   "fragments": [
+    "890052615",
+    "890052621",
+    "890052617",
+    "890052618"
+   ]
+  }
+ ],
+ "fragments": {
+  "890052615": {
+   "fragment_id": "890053685",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 150/84\n\nConsiderando a necessidade de regularizar o procedimento administrativo relativamente aos militares abrangidos pelo disposto no artigo 3.º do Decreto-Lei n.º 383/78, de 6 de Dezembro, determina-se, nos termos do artigo 44.º, n.º 2, alínea e), da Lei n.º 29/82, de 11 de Dezembro, o seguinte:"
+  },
+  "890052621": {
+   "fragment_id": "890053686",
+   "type": 11,
+   "heading": "A",
+   "in_force_from": "1984-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 253/1984, 2º Suplemento, Série I de 1984-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446495), em vigor a partir de 1984-10-31"
+   ],
+   "markdown": "###### A\n\nAos militares amnistiados do crime de deserção previsto e punido no Código de Justiça Militar, bem como aos arguidos do mesmo crime a quem o respectivo procedimento criminal tenha sido declarado extinto por prescrição, ou tenham sido absolvidos por sentença transitada em julgado, deverá ser aplicado o seguinte procedimento:\n\n1) Destino a dar aos militares referidos no artigo 3.º do Decreto-Lei n.º 383/78, de 6 de Dezembro:\n\na) Militares que desertaram antes do início da instrução - incluem-se nesta alínea os desertores que hajam sido refractários e compelidos após julgados aptos e que, uma vez incorporados provisoriamente na unidade mais próxima da sua residência, deixaram de fazer a sua apresentação posterior nas unidades ou estabelecimentos a que foram destinados:\n\n1) Com menos de 29 anos - iniciam o cumprimento das suas obrigações militares, passando à disponibilidade com o turno em que completarem a instrução e sendo incluídos na classe do ano em que terminarem o cumprimento daquelas obrigações, de acordo com o artigo 8.º, n.º 2, da Lei n.º 2135, de 11 de Julho de 1968 (Lei do Serviço Militar);\n\n2) Com mais de 29 anos - serão apreciados à luz do artigo 17.º da Lei do Serviço Militar pelo chefe do estado-maior do ramo a que pertençam;\n\nb) Militares que desertaram durante o período de instrução:\n\n1) Com menos de 29 anos - retomam o cumprimento das suas obrigações militares pela frequência da fase de instrução que não concluíram, passando à disponibilidade com o turno em que completarem a instrução e sendo incluídos na classe do ano em que retomem o cumprimento daquelas obrigações, de acordo com o artigo 8.º, n.º 2, da Lei do Serviço Militar;\n\n2) Com mais de 29 anos - serão apreciados à luz do artigo 17.º da Lei do Serviço Militar pelo chefe do estado-maior do ramo a que pertençam;\n\nc) Militares que desertaram durante o cumprimento do serviço nas fileiras:\n\n1) Antes de terem cumprido o tempo de serviço actualmente em vigor:\n\ni) Com menos de 29 anos - retomam o cumprimento das suas obrigações militares até completarem o tempo de serviço efectivo estabelecido para o contingente do ano em que retomarem o serviço, mantendo-se na classe correspondente ao seu ano de instrução;\n\nii) Com mais de 29 anos - passam à disponibilidade ou às tropas licenciadas ou territoriais, de acordo com a situação da classe correspondente ao seu ano de instrução, na qual se mantêm incluídos:\n\n2) Depois de terem cumprido o tempo de serviço igual ou superior ao actualmente em vigor:\n\ni) Com menos de 29 anos - passam à disponibilidade, mantendo-se na classe correspondente ao seu ano de instrução;\n\nii) Com mais de 29 anos - passam à disponibilidade ou às tropas licenciadas ou territoriais, de acordo com a situação da classe correspondente ao seu ano de instrução, na qual se mantêm incluídos:\n\n2) Disposições gerais:\n\na) Os militares na situação do n.º 1, alínea a), subalínea 1), e n.º 1, alínea b), subalínea 1), serão incluídos na instrução do primeiro turno que ocorrer após a sua apresentação ou captura;\n\nb) Os militares na situação do n.º 1, alínea c), subalínea 1), i), retomam o cumprimento do serviço militar nas unidades de apresentação.\n\nQuando por qualquer motivo tal se mostre impossível ou inconveniente, caberá ao estado-maior do respectivo ramo das Forças Armadas definir a unidade de colocação.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 253/1984, 2º Suplemento, Série I de 1984-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446495), em vigor a partir de 1984-10-31"
+  },
+  "890052617": {
+   "fragment_id": "890053687",
+   "type": 11,
+   "heading": "B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### B\n\nÉ revogado o Despacho Normativo n.º 284/81, de 10 de Setembro, do Chefe do Estado-Maior-General das Forças Armadas, publicado no Diário da República, 1.ª série, n.º 230, de 7 de Outubro de 1981."
+  },
+  "890052618": {
+   "fragment_id": "890053688",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Defesa Nacional, 5 de Setembro de 1984. - O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto."
+  }
+ }
+}

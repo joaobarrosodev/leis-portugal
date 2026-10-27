@@ -1,0 +1,787 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975R2771:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R2771-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "1975-11-01",
+   "future": false,
+   "celex": "31975R2771",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c5582fb9a2768b27",
+    "9fedfb2bcafc5ea4",
+    "6dd2ee1abc765489",
+    "b43b9d75ff4e1082",
+    "91106a64351406cb",
+    "b9857a3bfa89f380",
+    "be7bb2f4cccabbcf",
+    "86f488e82abf17a6",
+    "7234bcbfb6a70663",
+    "ab22ddae8074f4c0",
+    "d75454c0f8a7d595",
+    "68658e66a2301a5a",
+    "1aa7d25864462505",
+    "16c4ad4ca448380f",
+    "6f878daf46827c18",
+    "14238425c823fbd4",
+    "1d9086b04b72e839",
+    "61700d07e600a850",
+    "8c38131b3ca3e096",
+    "ef740ad46f39c8cb",
+    "cad58a1d0b7d05e6",
+    "a751963388eaa205",
+    "f974840e59e4d8d1",
+    "2a9e11f1b6f5ac40",
+    "e7cffee8e1f12163",
+    "d403e9107a5db757"
+   ]
+  },
+  {
+   "date": "2005-12-02",
+   "future": false,
+   "celex": "01975R2771-20051202",
+   "acts": [
+    {
+     "id": "eu:celex:31976R0368:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31976R0368"
+    },
+    {
+     "id": "eu:celex:31981R3643:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31981R3643"
+    },
+    {
+     "id": "eu:celex:31985R3768:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31985R3768"
+    },
+    {
+     "id": "eu:celex:31986R1475:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31986R1475"
+    },
+    {
+     "id": "eu:celex:31987R4000:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31987R4000"
+    },
+    {
+     "id": "eu:celex:31988R3207:por",
+     "title": "REGULAMENTO (CEE) N. o 3207/88 DO CONSELHO de 17 de Outubro de 1988",
+     "published": null,
+     "celex": "31988R3207"
+    },
+    {
+     "id": "eu:celex:31989R1235:por",
+     "title": "REGULAMENTO (CEE) N. o 1235/89 DO CONSELHO de 3 de Maio de 1989",
+     "published": null,
+     "celex": "31989R1235"
+    },
+    {
+     "id": "eu:celex:31993R1574:por",
+     "title": "REGULAMENTO (CEE) N. o 1574/93 DO CONSELHO de 14 de Junho de 1993",
+     "published": null,
+     "celex": "31993R1574"
+    },
+    {
+     "id": "eu:celex:31994R3290:por",
+     "title": "REGULAMENTO (CE) N. o 3290/94 DO CONSELHO de 22 de Dezembro de 1994",
+     "published": null,
+     "celex": "31994R3290"
+    },
+    {
+     "id": "eu:celex:31995R2916:por",
+     "title": "M10",
+     "published": null,
+     "celex": "31995R2916"
+    },
+    {
+     "id": "eu:celex:31996R1516:por",
+     "title": "REGULAMENTO (CE) N. o 1516/96 DA COMISSÃO de 29 de Julho de 1996",
+     "published": null,
+     "celex": "31996R1516"
+    },
+    {
+     "id": "eu:celex:32002R0493:por",
+     "title": "REGULAMENTO (CE) N. o 493/2002 DA COMISSÃO de 19 de Março de 2002",
+     "published": null,
+     "celex": "32002R0493"
+    },
+    {
+     "id": "eu:celex:32003R0806:por",
+     "title": "REGULAMENTO (CE) N. o 806/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0806"
+    },
+    {
+     "id": "eu:celex:32005R1913:por",
+     "title": "REGULAMENTO (CE) N. o 1913/2005 DO CONSELHO de 23 de Novembro de 2005",
+     "published": null,
+     "celex": "32005R1913"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime ANEXO II — Quadro de concordância"
+   ],
+   "fragments": [
+    "9e9ed6f58ae95a73",
+    "e4b3e74d0ca60a8c",
+    "0c2cc00b8c029381",
+    "2d5aab6f01e47d2f",
+    "be54ea47eb10a0d1",
+    "3356f31ae256b5bf",
+    "df3f57b41e58edc1",
+    "4876bfde3da28031",
+    "65841caf01bb7c6a",
+    "47d0d60d7160706e",
+    "e50d679ca8e7e6d4",
+    "d91cceb249e2d706",
+    "568eb5f68b1fc9b8",
+    "eb5dc3c887a060d0",
+    "be41b0fc9c0e5fd9",
+    "f472d8c4a6aef43f",
+    "020158d4ca20b6f6",
+    "d797e1b65af78d76",
+    "94f6860356542fb6",
+    "07ada2dd257b58cc",
+    "fea07f033c73cc7b",
+    "f0003909a7daaf4c",
+    "d286d675e87e0973",
+    "fe27fcd3f82ff5a1",
+    "5ea5d00821bb4207",
+    "45c4a5ec9a749073"
+   ]
+  },
+  {
+   "date": "2006-05-11",
+   "future": false,
+   "celex": "01975R2771-20060511",
+   "acts": [
+    {
+     "id": "eu:celex:32006R0679:por",
+     "title": "REGULAMENTO (CE) N. o 679/2006 DO CONSELHO de 25 de Abril de 2006",
+     "published": null,
+     "celex": "32006R0679"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "dc2c2dc1442ba8bd",
+    "e4b3e74d0ca60a8c",
+    "0c2cc00b8c029381",
+    "2d5aab6f01e47d2f",
+    "be54ea47eb10a0d1",
+    "3356f31ae256b5bf",
+    "df3f57b41e58edc1",
+    "4876bfde3da28031",
+    "65841caf01bb7c6a",
+    "47d0d60d7160706e",
+    "e50d679ca8e7e6d4",
+    "d91cceb249e2d706",
+    "568eb5f68b1fc9b8",
+    "d8b3823ded34f85a",
+    "be41b0fc9c0e5fd9",
+    "f472d8c4a6aef43f",
+    "a444b55d5b727cdb",
+    "d797e1b65af78d76",
+    "94f6860356542fb6",
+    "07ada2dd257b58cc",
+    "141632b6ab39d52b",
+    "c568bf9e16e40aa9",
+    "d286d675e87e0973",
+    "fe27fcd3f82ff5a1",
+    "5ea5d00821bb4207",
+    "b253692f821e63e1"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01975R2771-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "239d5ef5fc0cb7bb"
+   ]
+  }
+ ],
+ "fragments": {
+  "c5582fb9a2768b27": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos** *Jornal Oficial nº L 282 de 01/11/1975 p. 0049 - 0055 Edição especial finlandesa: Capítulo 3 Fascículo 6 p. 0196 Edição especial grega: Capítulo 03 Fascículo 14 p. 0046 Edição especial sueca: Capítulo 3 Fascículo 6 p. 0196 Edição especial espanhola: Capítulo 03 Fascículo 9 p. 0126 Edição especial portuguesa: Capítulo 03 Fascículo 9 p. 0126*\n\nREGULAMENTO (CEE) No 2771/75 DO CONSELHO de 29 de Outubro de 1975 que establece a organização comum de mercado no sector dos ovos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, os seus artigos 42o e 43o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nConsiderando que as disposições fundamentais respeitantes à organização comum de mercado no sector dos ovos foram modificadas em várias ocasiões após a sua adopção; que estes textos são difícies de utilizar devido ao seu número, à sua complexidade e à sua dispersão pelos diferentes jornais oficiais, e carecem por conseguinte da clareza necessária que deve apresentar toda a regulamentação; que, nestas condições, convém proceder à sua codificação;\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados do estabelecimento de uma política agrícola comum e que esta deve nomeadamente comportar uma organização comum dos mercados agrícolas, que pode tomar diversas formas segundo os produtos;\n\nConsiderando que a política agrícola comum tem como propósito atingir os objectivos do artigo 39o do Tratado; que, nomeadamente no sector dos ovos, é necessário que possam ser tomadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado, a fim de estabilizar os mercados e de assegurar um nível de vida justo à população agrícola interessada;\n\nConsiderando que a realização de um mercado único no sector dos ovos implica o estabelecimento, nas fronteiras exteriores da Comunidade, de um regime único de trocas comportando um sistema de direitos niveladores e de restituições à exportação;\n\nConsiderando que o estabelecimento, sobre as importações provenientes de países terceiros, de direitos niveladores que tenham em conta a incidência sobre os custos de alimentação da diferença entre os preços de cereais forrageiros na Comunidade e no mercado mundial e a necessidade de uma protecção de transformação comunitária, é em princípio suficiente para que este objectivo seja atingido;\n\nConsiderando que é necessário evitar no mercado da Comunidade as perturbações resultantes das ofertas feitas no mercado mundial a preços anormalmente baixos; que, para este fim, convém fixar preços limite e aumentar os direitos niveladores de um montante suplementar quando os preços de oferta franco-fronteira se situem abaixo daqueles preços;\n\nConsiderando que a possibilidade de conceder uma restituição, na exportação para países terceiros, igual à diferença entre os preços na Comunidade e no mercado mundial é de natureza a salvaguardar a participação da Comunidade no comércio internacional dos ovos; que, para garantir aos exportadores da Comunidade uma certa segurança no que respeita à estabilidade das restituições, importa prever a possibilidade de se fixar antecipadamente as restituições no sector dos ovos;\n\nConsiderando que, em complemento ao sistema acima descrito, convém prever a possibilidade de proibir total ou parcialmente, na medida em que a situação do mercado e exija, o recurso ao regime dito de aperfeiçoamento activo;\n\nConsiderando que o regime de direitos niveladores permite renunciar a qualquer outra medida de protecção nas fronteiras exteriores da Comunidade; que, todavia, o mecanismo de direitos niveladores pode ser insuficiente em circunstâncias excepcionais; que, a fim de não deixar em tais casos o mercado comunitário sem defesa contra as perturbações que daí podem resultar quando os obstáculos à importação anteriormente existentes forem suprimidos, é conveniente permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que as restrições à livre circulação resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais podem provocar dificuldades no mercado de um ou de vários Estados-membros; que é necessário prever a possibilidade de se aplicarem medidas excepcionais de apoio ao mercado, destinadas a remediar a situação;\n\nConsiderando que para facilitar a execução das medidas apontadas é conveniente prever um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio de um Comité de Gestão;\n\nConsiderando que a realização de um mercado único seria comprometida pela concessão de certas ajudas; que por conseguinte convém que se tornem aplicáveis no sector dos ovos as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum;\n\nConsiderando que a organização comum de mercado no sector dos ovos deve ter em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39o e 110o do Tratado;\n\nConsiderando que as despesas feitas pelos Estados-membros em consequência das obrigações resultantes da aplicação do presente regulamento incumbem à Comunidade, em conformidade com os artigos 2o e 3o do Regulamento (CEE) no 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (2), alterado pelo Regulamento (CEE) no 1566/72 (3),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9fedfb2bcafc5ea4": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A organização comum de mercado no sector dos ovos abrange os seguintes produtos:\n\n\"\" ID=\"1\">a) 04.05 A 1> ID=\"2\">Ovos de aves de capoeira, com casca, frescos ou conservados\"> ID=\"1\">b) 04.05 B 1> ID=\"2\">Ovos sem casca e gemas de ovos, próprios para usos alimentares, frescos, secos ou conservados de outro modo, açucarados ou não\">\n\n2. Na acepção do presente regulamento são considerados como:\n\na) «ovos com casca», os ovos de aves de capoeira com casca, frescos ou conservados, com excepção dos ovos para incubação referidos na alínea b);\n\nb) «ovos para incubação», os ovos de aves de capoeira para incubação;\n\nc) «produtos inteiros», os ovos de aves de capoeira sem casca, próprios para usos alimentares\n\n- frescos ou conservados, mesmo açucarados,\n\n- secos, mesmo açucarados;\n\nd) «produtos separados», as gemas de ovos de aves de capoeira, próprias para usos alimentares\n\n- frescas ou conservadas, mesmo açucaradas,\n\n- secas, mesmo açucaradas;\n\ne) «trimestre» um período de três meses com início em 1 de Fevereiro e 1 de Maio, 1 de Agosto ou 1 de Novembro."
+  },
+  "6dd2ee1abc765489": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Com vista a encorajar as iniciativas profissionais e interprofissionais que permitam facilitar a adaptação da oferta às exigências do mercado, com exclusão das relativas à retirada do mercado, podem ser tomadas as seguintes medidas comunitárias para os produtos referidos no no 1 do artigo 1o:\n\n- medidas tendentes a promover uma melhor organização da sua produção, transformação e comercialização;\n\n- medidas tendentes a melhorar a sua qualidade;\n\n- medidas tendentes a permitir o estabelecimento de previsões a curto e a longo prazo pelo conhecimento dos meios de produção utilizados;\n\n- medidas tendentes a facilitar a verificação da evolução dos seus preços no mercado.\n\nAs regras gerais respeitantes a estas medidas são aprovadas segundo o processo previsto no no 2 do artigo 43o o Tratado.\n\n2. Serão aprovadas normas de comercialização para um ou vários dos produtos referidos no no 1 do artigo 1o. Estas normas podem incidir nomeadamente sobre a classificação por categoria de qualidade e de peso, a embalagem, o armazenamento temporário, o transporte, a apresentação e a marcação.\n\nAs normas, o respectivo campo de aplicação e as regras gerais da sua aplicação, são aprovadas pelo Conselho, deliberando sob proposta da Comissão por maioria qualificada."
+  },
+  "b43b9d75ff4e1082": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nNa importação pela Comunidade dos produtos referidos no no 1 do artigo 1o, é cobrado um direito nivelador que é fixado antecipadamente para cada trimestre, segundo o processo previsto no artigo 17o."
+  },
+  "91106a64351406cb": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. O direito nivelador aplicável aos ovos com casca compõe-se:\n\na) De um elemento igual à diferença entre os preços na Comunidade e no mercado mundial da quantidade de cereais forrageiros necessária à produção na Comunidade de um quilograma de ovos com casca.\n\nOs preços dos cereais forrageiros na Comunidade são estabelecidos uma vez por ano para um período de doze meses com início em 1 de Agosto, em função dos preços limiar destes cereais e da sua majoração mensal.\n\nOs preços dos cereais forrageiros no mercado mundial são estabelecidos trimestralmente com base nos preços destes cereais referentes ao período de seis meses que precede o trimestre durante o qual o dito elemento é calculado.\n\nTodavia, por ocasião das fixações do direito nivelador válido a partir de 1 de Novembro, de 1 de Fevereiro e de 1 de Maio, só é tida em conta a evolução dos preços dos cereais forrageiros no mercado mundial se, na mesma data, ocorrer uma nova fixação do preço limite.\n\nb) De um elemento igual a 7 % da média dos preços limite válidos para os quatro trimestres que precedem o dia 1 de Maio de cada ano.\n\nEste elemento é estabelecido uma vez por ano para um período de doze meses com início no dia 1 de Agosto.\n\n2. O direito nivelador aplicável aos ovos para incubação é calculado segundo o método utilizado para o cálculo do direito nivelador aplicável aos ovos com casca. Todavia, a quantidade de cereais forrageiros a reter é a que for necessária para a produção, na Comunidade, de um ovo para incubação; o preço limite é o que se aplica aos ovos para incubação.\n\n3. O Conselho, deliberando sob proposta da Comissão por maioria qualificada:\n\n- determina a quantidade de cereais forrageiros necessária para a produção de um quilograma de ovos com casca e a quantidade de cereais forrageiros necessária para a produção de um ovo para incubação, assim como as percentagens dos diferentes cereais que entram nestas quantidades;\n\n- aprova as regras de aplicação do presente artigo."
+  },
+  "b9857a3bfa89f380": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. No que respeita aos produtos referidos no no 1, alínea b), do artigo 1o, o direito nivelador é derivado do direito nivelador dos ovos com casca, em função:\n\n- para os produtos inteiros, da quantidade de ovos com casca utilizados no fabrico de um quilograma destes produtos;\n\n- para os produtos separados, da quantidade de ovos com casca utilizados no fabrico de um quilograma destes produtos, assim como da relação média entre os valores comerciais dos constituintes do ovo.\n\n2. Os coeficientes que exprimem as quantidades e a relação referidas no no 1 são fixados de acordo com o processo previsto no artigo 17o. Pelo menos uma vez por ano, procede-se ao reexame dos dados utilizados para esta fixação."
+  },
+  "be7bb2f4cccabbcf": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nQuando se verificar no mercado da Comunidade um aumento sensível dos preços, que esta situação é susceptível de persistir e que, por este facto, aquele mercado se encontra perturbado ou ameaçado de ser perturbado, podem ser tomadas as medidas necessárias.\n\nO Conselho, deliberando sob proposta da Comissão por maioria qualificada, aprova as regras gerais de aplicação do presente artigo."
+  },
+  "86f488e82abf17a6": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os preços limite são fixados antecipadamente para cada trimestre, segundo o processo previsto no artigo 17o.\n\n2. O preço limite para os ovos com casca compõe-se:\n\na) De um montante igual ao preço, no mercado mundial, da quantidade de cereais forrageiros necessária para a produção, em países terceiros, de um quilograma de ovos com casca;\n\nb) De um montante fixo (forfaitaire) que exprime os outros custos de alimentação, assim como os encargos gerais de produção e de comercialização.\n\nO preço da quantidade de cereais forrageiros no mercado mundial é estabelecido trimestralmente, com base nos preços destes cereais para o período de seis meses que precede o trimestre durante o qual é fixado o preço limite.\n\nTodavia, por ocasião da fixação do preço limite válido a partir de 1 de Novembro, de 1 de Fevereiro e de 1 de Maio, só é tida em conta a evolução dos preços dos cereais forrageiros no mercado mundial se o preço daquela quantidade acusar uma variação mínima em relação àquele que foi utilizado para o cálculo do preço limite do trimestre precedente. Procede-se pelo menos uma vez por ano ao reexame dos dados utilizados para a determinação do montante fixo (forfaitaire) referido na alínea b).\n\n3. O preço limite dos ovos para incubação é calculado segundo o método utilizado para o cálculo o preço limite dos ovos com casca; todavia, o preço da quantidade de cereais forrageiros no mercado mundial é o preço da quantidade necessária para a produção, em países terceiros, de um ovo para incubação e o montante forfetário é aquele que exprime os outros custos de alimentação, bem como os encargos gerais de produção e de comercialização de um ovo para incubação.\n\n4. No que respeita aos produtos referidos no no 1, alínea b), do artigo 1o, os preços limite são derivados do preço limite dos ovos com casca, tendo em conta a desvalorização da matéria de base, os coeficientes fixados para estes produtos em virtude do no 2 do artigo 5o de um montante fixo (forfaitaire) que exprime os encargos gerais de produção e de comercialização, fixados segundo o processo previsto no artigo 17o.\n\n5. O Conselho, deliberando sob proposta da Comissão por maioria qualificada, aprova as regras de aplicação do presente artigo."
+  },
+  "7234bcbfb6a70663": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. No caso de o preço de oferta franco-fronteira para um determinado produto cair abaixo do preço limite, o direito nivelador aplicável a este produto é acrescido de um montante suplementar igual à diferença entre o preço limite e o preço de oferta franco-fronteira.\n\n2. Todavia, este montante suplementar não é aplicável em relação a países terceiros que estejam dispostos a garantir, e estão em condições de o fazer, que na importação pela Comunidade de produtos originários e provenientes do seu território o preço praticado não será inferior ao preço limite do produto considerado e que será evitado qualquer desvio de tráfego.\n\n3. O preço de oferta franco-fronteira é estabelecido para todas as importações provenientes de qualquer país terceiro.\n\nTodavia, se as exportações de um ou de vários países terceiros se efectuarem a preços anormalmente baixos, inferiores aos preços praticados por outros países terceiros, é estabelecido um segundo preço de oferta franco-fronteira para as exportações desses outros países.\n\n4. As modalidades de aplicação do presente artigo são adoptadas de acordo com o processo previsto no artigo 17o. Os montantes suplementares são fixados de acordo com o mesmo processo, se for caso disso."
+  },
+  "ab22ddae8074f4c0": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Na medida do necessário para permitir a exportação em natureza, ou sob a forma de mercadorias constantes do Anexo I, dos produtos referidos no no 1 do artigo 1o com base nos preços destes produtos no mercado mundial, a diferença entre estes preços e os preços na Comunidade pode ser coberta por uma restituição à exportação.\n\n2. A restituição é a mesma para toda a Comunidade. Ela pode ser diferenciada segundo os destinos.\n\nA restituição fixada é concedida a pedido do interessado.\n\nNa fixação da restituição, é tida em conta nomeadamente a necessidade de se estabelecer um equilíbrio entre a utilização dos produtos de base comunitários com vista à exportação de mercadorias transformadas para países terceiros e a utilização dos produtos destes países admitidos no regime de aperfeiçoamento.\n\nO Conselho, deliberando sob proposta da Comissão por maioria qualificada, aprova as regras gerais respeitantes à concessão e à fixação antecipada das restituições à exportação, bem como os critérios de fixação do seu montante.\n\nA fixação das restituições ocorre periodicamente de acordo com o processo previsto no artigo 17o. Em caso de necessidade, a Comissão pode modificar as restituições durante os períodos para os quais elas foram fixadas, a pedido de um Estado-membro ou por sua própria iniciativa.\n\n3. As modalidades de aplicação do presente artigo são aprovadas segundo o processo previsto no artigo 17o."
+  },
+  "d75454c0f8a7d595": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nNa medida do necessário para o bom funcionamento da organização comum de mercado dos ovos, o Conselho, deliberando sob proposta da Comissão por maioria qualificada, pode excluir totalmente ou parcialmente o recurso ao regime dito de aperfeiçoamente activo:\n\n- para os produtos referidos no no 1 do artigo 1o, destinados ao fabrico de produtos referidos no no 1, alínea b), do artigo 1o,\n\n- e, em casos particulares, para os produtos referidos no no 1 do artigo 1o destinados ao fabrico de mercadorias referidas no Anexo I."
+  },
+  "68658e66a2301a5a": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. As regras gerais para a interpretação da pauta aduaneira comum e as regras particulares para a sua aplicação são válidas para a classificação dos produtos dependentes do presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento é retomada na pauta aduaneira comum.\n\n2. Salvo disposições contrárias do presente regulamento ou uma derrogação determinada pelo Conselho, deliberando sob proposta da Comissão por maioria qualificada, são proíbidas:\n\n- a cobrança de qualquer direito aduaneiro ou taxa de efeito equivalente,\n\n- a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente.\n\nÉ considerada como medida de efeito equivalente a uma restrição quantitativa, entre outras, a limitação a uma determinada categoria de titulares do direito à concessão de certificados de importação ou de exportação."
+  },
+  "1aa7d25864462505": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Se o mercado comunitário de um ou de vários dos produtos referidos no no 1 do artigo 1o sofre ou está ameaçado de sofrer, devido às importações ou às exportações, perturbações graves susceptíveis de porem em perigo os objectivos do artigo 39o do Tratado, podem ser aplicadas medidas apropriadas nas trocas com países terceiros, até ter desaparecido a perturbação ou a ameaçade perturbação.\n\nO Conselho, deliberando sob proposta da Comissão por maioria qualificada, aprova as modalidades de aplicação do presente número e define os casos e os limites nos quais os Estados-membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação referida no no 1, a Comissão determina as medidas necessárias, a pedido de um Estado-membro ou por sua própria iniciativa, as quais são comunicadas aos Estados-membros e imediatamente aplicáveis. Se um Estado-membro submeter um pedido à Comissão, esta decide a esse respeito nas vinte e quatro horas consecutivas à sua recepção.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão, no prazo de três dias úteis a seguir ao dia da sua comunicaão. O Conselho reúne-se imediatamente. O Conselho pode, por maioria qualificada, modificar ou anular a medida em causa."
+  },
+  "16c4ad4ca448380f": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nNão são admitidas à livre circulação no interior da Comunidade as mercadorias referidas no no 1 do artigo 1o fabricadas ou obtidas a partir de produtos que não são referidos no no 2 do artigo 9o e no no 1 do artigo 10o do Tratado."
+  },
+  "6f878daf46827c18": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nA fim de ter em conta as limitações da livre circulação que poderiam resultar da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem ser tomadas medidas excepcionais de apoio ao mercado afectado por estas limitações, de acordo com o procedimento previsto no artigo 17o. Estas medidas só podem ser tomadas na medida e com a duração estritamente necessárias ao apoio daquele mercado."
+  },
+  "14238425c823fbd4": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros e a Comissão comunicam reciprocamente os dados necessários para a aplicação do presente regulamento. As modalidades da comunicação e da difusão destes dados são aprovadas de acordo com o procedimento previsto no artigo 17o."
+  },
+  "1d9086b04b72e839": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. É instituído um Comité de Gestão da Carne de Aves e dos Ovos, adiante designado por «Comité», composto de representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. No seio do Comité, atribui-se aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado.\n\nO presidente não toma parte na votação."
+  },
+  "61700d07e600a850": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Nos casos em que é feita referência ao procedimento definido no presente artigo, o assunto é submetido ao Comité pelo seu presidente, quer por iniciativa deste, quer por iniciativa do representante de um Estado-membro.\n\n2. O representante da Comissão apresenta um projecto das medidas a tomar. O Comité emite o seu parecer sobre estas medidas, num prazo que o presidente pode fixar em função da urgência das questões submetidas a exame. O Comité pronuncia-se por maioria de quarenta e um votos.\n\n3. A Comissão aprova medidas que são imediatamente aplicáveis. Todavia, se não estão em conformidade com o parecer emitido pelo Comité, estas medidas são imediatamente comunicadas pela Comissão ao Conselho. Neste caso, a Comissão pode adiar por um mês ou mais, a contar desta comunicação, a aplicação das medidas por ela determinadas.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo de um mês."
+  },
+  "8c38131b3ca3e096": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nO Comité pode examinar qualquer outra questão invocada pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro."
+  },
+  "ef740ad46f39c8cb": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nSob reserva das disposições contrárias do presente regulamento, os artigos 92o a 94o do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no no 1 do artigo 1o."
+  },
+  "cad58a1d0b7d05e6": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nO presente regulamento deve ser aplicado de modo a serem tidos em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39o e 110o do Tratado."
+  },
+  "a751963388eaa205": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nPara evitar distorçôes de concorrência, o Conselho, deliberando sob proposta da Comissão por maioria qualificada, tomará as medidas necessárias no caso de a Itália recorrer ao artigo 23o do Regulamento (CEE) no 2727/75 do Conselho, de 29 de Outubro de 1975, que estabelece uma organização comum de mercado no sector dos cereais (4)."
+  },
+  "f974840e59e4d8d1": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\n1. E revogado o Regulamento no 122/67/CEE do Conselho, de 13 de Junho de 1967, que estabelece a organização comum de mercado no sector dos ovos (5), com a última redacção que lhe foi dada pela Decisão do Conselho de 1 de Janeiro de 1973, que estabelece a adaptação dos aelos relativos à adesão de novos Estados-membros às Comunidades Europeias (6).\n\n2. As referências ao regulamento revogado em virtude do no 1 devem entender-se como feitas ao presente regulamento.\n\nAs citações e as referências que se relacionam com os artigos do dito regulamento devem ler-se segundo o quadro de concordância que figura no Anexo II."
+  },
+  "2a9e11f1b6f5ac40": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nO presente regulamento entra em vigor no dia 1 de Novembro de 1975.\n\nO presente regulamento é obrigatório em todos os seus elementos e é directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 29 de Outubro de 1975.\n\nPelo Conselho\n\nO Presidente\n\nG. MARCORA\n\n(1) JO no C 60 de 13. 3. 1975, p. 41.(2) JO no L 94 de 28. 4. 1970, p. 13.(3) JO no L 167 de 25. 7. 1972, p. 5.(4) JO no L 281 de 1. 11. 1975, p. 1.(5) JO no L 117 de 19. 6. 1967, p. 2293/67.(6) JO no L 2 de 1. 1. 1973, p. 1."
+  },
+  "e7cffee8e1f12163": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n\"\" ID=\"1\">18.06> ID=\"2\">Chocolate e outros preparados alimentares contendo cacau\"> ID=\"1\">19.03> ID=\"2\">Massas alimentícias:\n\nA. Contendo ovos\"> ID=\"1\">19.08> ID=\"2\">Produtos de padaria fina, de pastelaria e de biscoitaria, mesmo adicionados de cacau em todas as proporções\"> ID=\"1\">22.09 C> ID=\"2\">Bebidas espirituosas:\n\nex V. Outras:\n\n- contendo ovos ou gema de ovo\"> ID=\"1\">35.02 A> ID=\"2\">II. Outras:\n\nex. a) Ovo-albuminas:\n\n1. Secas (em folhas, escamas, cristais, pós, etc.)\n\n2. Outras\">"
+  },
+  "d403e9107a5db757": {
+   "fragment_id": "ANEXO II — Quadro de concordância",
+   "type": "divisao",
+   "heading": "ANEXO II — Quadro de concordância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Quadro de concordância\n\n\"\" ID=\"1\">Artigo 13o A> ID=\"2\">Artigo 14o\"> ID=\"1\">Artigo 14o> ID=\"2\">Artigo 19o\"> ID=\"1\">Artigo 22o> ID=\"2\">Artigo 21o\"> ID=\"1\">Anexo> ID=\"2\">Anexo I\">"
+  },
+  "9e9ed6f58ae95a73": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Outubro de 1975\n\nque establece a organização comum de mercado no sector dos ovos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, os seus artigos 42.º e 43.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#E0001)),\n\nConsiderando que as disposições fundamentais respeitantes à organização comum de mercado no sector dos ovos foram modificadas em várias ocasiões após a sua adopção; que estes textos são difícies de utilizar devido ao seu número, à sua complexidade e à sua dispersão pelos diferentes jornais oficiais, e carecem por conseguinte da clareza necessária que deve apresentar toda a regulamentação; que, nestas condições, convém proceder à sua codificação;\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados do estabelecimento de uma política agrícola comum e que esta deve nomeadamente comportar uma organização comum dos mercados agrícolas, que pode tomar diversas formas segundo os produtos;\n\nConsiderando que a política agrícola comum tem como propósito atingir os objectivos do artigo 39.º do Tratado; que, nomeadamente no sector dos ovos, é necessário que possam ser tomadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado, a fim de estabilizar os mercados e de assegurar um nível de vida justo à população agrícola interessada;\n\nConsiderando que a realização de um mercado único no sector dos ovos implica o estabelecimento, nas fronteiras exteriores da Comunidade, de um regime único de trocas comportando um sistema de direitos niveladores e de restituições à exportação;\n\nConsiderando que o estabelecimento, sobre as importações provenientes de países terceiros, de direitos niveladores que tenham em conta a incidência sobre os custos de alimentação da diferença entre os preços de cereais forrageiros na Comunidade e no mercado mundial e a necessidade de uma protecção de transformação comunitária, é em princípio suficiente para que este objectivo seja atingido;\n\nConsiderando que é necessário evitar no mercado da Comunidade as perturbações resultantes das ofertas feitas no mercado mundial a preços anormalmente baixos; que, para este fim, convém fixar preços limite e aumentar os direitos niveladores de um montante suplementar quando os preços de oferta franco-fronteira se situem abaixo daqueles preços;\n\nConsiderando que a possibilidade de conceder uma restituição, na exportação para países terceiros, igual à diferença entre os preços na Comunidade e no mercado mundial é de natureza a salvaguardar a participação da Comunidade no comércio internacional dos ovos; que, para garantir aos exportadores da Comunidade uma certa segurança no que respeita à estabilidade das restituições, importa prever a possibilidade de se fixar antecipadamente as restituições no sector dos ovos;\n\nConsiderando que, em complemento ao sistema acima descrito, convém prever a possibilidade de proibir total ou parcialmente, na medida em que a situação do mercado e exija, o recurso ao regime dito de aperfeiçoamento activo;\n\nConsiderando que o regime de direitos niveladores permite renunciar a qualquer outra medida de protecção nas fronteiras exteriores da Comunidade; que, todavia, o mecanismo de direitos niveladores pode ser insuficiente em circunstâncias excepcionais; que, a fim de não deixar em tais casos o mercado comunitário sem defesa contra as perturbações que daí podem resultar quando os obstáculos à importação anteriormente existentes forem suprimidos, é conveniente permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que as restrições à livre circulação resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais podem provocar dificuldades no mercado de um ou de vários Estados-membros; que é necessário prever a possibilidade de se aplicarem medidas excepcionais de apoio ao mercado, destinadas a remediar a situação;\n\nConsiderando que para facilitar a execução das medidas apontadas é conveniente prever um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio de um Comité de Gestão;\n\nConsiderando que a realização de um mercado único seria comprometida pela concessão de certas ajudas; que por conseguinte convém que se tornem aplicáveis no sector dos ovos as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum;\n\nConsiderando que a organização comum de mercado no sector dos ovos deve ter em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39.º e 110.º do Tratado;\n\nConsiderando que as despesas feitas pelos Estados-membros em consequência das obrigações resultantes da aplicação do presente regulamento incumbem à Comunidade, em conformidade com os artigos 2.º e 3.º do Regulamento (CEE) n.º 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum ([^2^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#E0002)), alterado pelo Regulamento (CEE) n.º 1566/72 ([^3^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#E0003)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e4b3e74d0ca60a8c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A organização comum de mercado no sector dos ovos abrange os seguintes produtos:\n\n| Código NC | Designação das mercadorias |  |\n| --- | --- | --- |\n| (a) | 0407 00 11 | Ovos de aves domésticas, com casca, frescos, conservados ou cozidos |\n| 0407 00 19 |  |  |\n| 0407 00 30 |  |  |\n| (b) | 0408 11 80 | Outros ovos de aves, sem casca, e outras gemas de ovos, frescos, secos, cozidos em água ou vapor, moldados, congelados ou conservados de outro modo, mesmo adicionados de açúcar ou de outros edulcorantes |\n| 0408 19 81 |  |  |\n| 0408 19 89 |  |  |\n| 0408 91 80 |  |  |\n| 0408 99 80 |  |  |\n\n2. Para efeitos do presente regulamento são considerados:\n\na) «Ovos com casca», os ovos de aves de capoeira com casca, frescos, conservados ou cozidos, com excepção dos ovos para incubação referidos na alínea b);\n\nb) «Ovos para incubação», os ovos de aves de capoeira para incubação;\n\nc) «Produtos inteiros», os ovos de aves sem casca, mesmo adicionados de açúcar e outros edulcorantes, próprios para usos alimentares;\n\nd) «Produtos separados», as gemas de ovos de aves, próprias para consumo humano, mesmo adicionados de açúcar e outros edulcorantes."
+  },
+  "0c2cc00b8c029381": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Com vista a encorajar as iniciativas profissionais e interprofissionais que permitam facilitar a adaptação da oferta às exigências do mercado, com exclusão das relativas à retirada do mercado, podem ser tomadas as seguintes medidas comunitárias para os produtos referidos no n.º 1 do artigo 1.º:\n\n— medidas tendentes a promover uma melhor organização da sua produção, transformação e comercialização;\n\n— medidas tendentes a melhorar a sua qualidade;\n\n— medidas tendentes a permitir o estabelecimento de previsões a curto e a longo prazo pelo conhecimento dos meios de produção utilizados;\n\n— medidas tendentes a facilitar a verificação da evolução dos seus preços no mercado.\n\nAs regras gerais respeitantes a estas medidas são aprovadas segundo o processo previsto no n.º 2 do artigo 43.º o Tratado.\n\n2. Serão aprovadas normas de comercialização para um ou vários dos produtos referidos no n.º 1 do artigo 1.º Estas normas podem incidir nomeadamente sobre a classificação por categoria de qualidade e de peso, a embalagem, o armazenamento temporário, o transporte, a apresentação e a marcação.\n\nAs normas, o respectivo campo de aplicação e as regras gerais da sua aplicação, são aprovadas pelo Conselho, deliberando sob proposta da Comissão por maioria qualificada."
+  },
+  "2d5aab6f01e47d2f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Todas as importações para a Comunidade ou exportações a partir da Comunidade dos produtos a que se refere o n.º 1 do artigo 1.º podem estar sujeitas à apresentação de um certificado de importação ou de exportação.\n\nO certificado é emitido pelos Estados-membros, a pedido do interessado, seja qual for o local do seu estabelecimento na Comunidade, sem prejuízo das disposições tomadas em aplicação dos artigos 6.º e 8.º\n\nO certificado de importação ou de exportação é válido em toda a Comunidade. A sua emissão está subordinada à constituição de uma garantia que cubra o compromisso de importar ou exportar durante o prazo de validade do certificado e que, salvo caso de força maior, ficará perdida, na totalidade ou em parte, se a operação não for realizada nesse período ou se apenas o for parcialmente.\n\n2. O prazo de validade dos certificados e as demais normas de execução do presente artigo serão adoptados de acordo com o processo previsto no artigo 17.º"
+  },
+  "be54ea47eb10a0d1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSalvo disposições em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o n.º 1 do artigo 1.º"
+  },
+  "3356f31ae256b5bf": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar das importações de determinados produtos referidos no n.º 1 do artigo 1.º, a importação, à taxa do direito previsto na Pauta Aduaneira Comum, de um ou mais desses produtos fica sujeita ao pagamento de um direito de importação adicional, se estiverem preenchidas as condições decorrentes do artigo 5.º do acordo sobre a agricultura, concluído em conformidade com o artigo 228.º do Tratado no âmbito das negociações comerciais multilaterais do *Uruguay Round*, salvo se não houver risco de as importações perturbarem o mercado comunitário ou se os efeitos forem desproporcionados em relação ao objectivo pretendido.\n\n2. Os preços de desencadeamento abaixo dos quais pode ser imposto um direito de importação adicional são comunicados pela Comunidade à Organização Mundial do Comércio.\n\nOs volumes de desencadeamento que terão de ser ultrapassados para a imposição de um direito de importação adicional são determinados com base nomeadamente nas importações para a Comunidade nos três anos que antecedem aquele em que os efeitos nocivos referidos no n.º 1 se manifestam ou podem vir a manifestar-se.\n\n3. Os preços de importação a tomar em consideração para a imposição de um direito de importação adicional são determinados com base nos preços de importação CIF da remessa em causa.\n\nOs preços de importação CIF são verificados, para esse efeito, com base nos preços representativos do produto em questão no mercado mundial ou no mercado comunitário de importação desse produto.\n\n4. A Comissão adoptará as normas de execução do presente artigo de acordo com o processo previsto no artigo 17.º Tais normas incidirão designadamente sobre:\n\na) Os produtos a que são aplicados direitos de importação adicionais nos termos do artigo 5.º do acordo sobre a agricultura;\n\nb) Os restantes critérios necessários para garantir a execução do n.º 1 em conformidade com o artigo 5.º do referido acordo."
+  },
+  "df3f57b41e58edc1": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os contingentes pautais, relativos aos produtos referidos no n.º 1 do artigo 1.º, que decorrem dos acordos celebrados no âmbito das negociações comerciais multilaterais do *Uruguay Round*, serão abertos e geridos segundo normas adoptadas de acordo com o processo previsto no artigo 17.º\n\n2. A gestão dos contingentes pode efectuar-se mediante aplicação de um dos métodos seguintes ou através de uma combinação dos mesmos:\n\n— método baseado na ordem cronológica de apresentação dos pedidos (de acordo com o princípio «primeiro a chegar, primeiro a ser servido»),\n\n— método de repartição proporcional às quantidades solicitadas na apresentação dos pedidos (de acordo como método de «análise simultânea»),\n\n— método baseado na tomada em consideração dos fluxos comerciais tradicionais (de acordo com o método «beneficiários tradicionais/novos beneficiários»).\n\nPodem ser estabelecidos outros métodos adequados.\n\nEsses métodos devem evitar qualquer discriminação entre os operadores interessados.\n\n3. O método de gestão estabelecido deverá atender sempre que for adequado, às necessidades de abastecimento do mercado da Comunidade e à necessidade de salvaguardar o seu equilíbrio, podendo simultaneamente inspirar-se nos métodos aplicados no passado aos contingentes correspondentes aos referidos no n.º 1, sem prejuízo dos direitos decorrentes dos acordos celebrados no âmbito das negociações comerciais do *Uruguay Round*.\n\n4. As normas a que se refere o n.º 1 prevêem a abertura dos contingentes numa base anual e, se necessário, de acordo com um escalonamento adequado e incluem, eventualmente:\n\na) Disposições que garantam a natureza, a proveniência e a origem do produto;\n\nb) Disposições relativas ao reconhecimento do documento que permita verificar as garantias referidas na alínea a);\n\nc) Condições de emissão e prazo de validade dos certificados de importação."
+  },
+  "4876bfde3da28031": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSempre que se registar no mercado da Comunidade uma alta sensível de preços, e essa situação possa persistir, perturbando ou ameaçando perturbar esse mercado, podem ser tomadas as medidas necessárias.\n\nO Conselho, deliberando sob proposta da Comissão de acordo com o processo de votação previsto no n.º 2 do artigo 43.º do Tratado, adopta as regras gerais de execução do presente artigo."
+  },
+  "65841caf01bb7c6a": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Na medida do necessário para permitir a exportação, sem alteração ou sob a forma de mercadorias mencionadas no anexo I, dos produtos a que se refere o n.º 1 do artigo 1.º com base nos preços desses produtos no mercado mundial, e dentro dos limites decorrentes dos acordos concluídos em conformidade com o artigo 228.º do Tratado, a diferença entre tais preços e os preços na Comunidade pode ser coberta por uma restituição à exportação.\n\n2. No que se refere à atribuição das quantidades que podem ser exportadas com restituição, foi estabelecido o método:\n\na) Mais adaptado à natureza do produto e à situação do mercado em causa, por forma a permitir a utilização mais eficaz possível dos recursos disponíveis e tendo em conta a eficácia e a estrutura das exportações da Comunidade, sem contudo criar qualquer discriminação entre pequenos e grandes operadores;\n\nb) Administrativamente menos complexo para os operadores, atendendo às exigências de gestão;\n\nc) Que evite qualquer discriminação entre os operadores intressados.\n\n3. A restituição é a mesma para toda a Comunidade.\n\nEsta restituição pode ser diferenciada conforme os destinos, sempre que a situação no mercado mundial ou as exigências específicas de alguns mercados o exigirem.\n\nAs restituições serão fixadas de acordo com o processo previsto no artigo 17.º Essa fixação efectua-se, nomeadamente, de forma periódica, sem contudo se recorrer ao processo de concurso.\n\nA lista dos produtos em relação aos quais é concedida uma restituição à exportação e o montante da mesma serão fixados pelo menos uma vez de três em três meses. No entanto, estas restituições podem ser mantidas ao mesmo nível durante mais de três meses e, caso seja necessário, alteradas entretanto pela Comissão a pedido de um Estado-membro ou por sua própria iniciativa.\n\n4. As restituições serão fixadas atendendo aos seguintes elementos:\n\na) Situação e perspectivas de evolução:\n\n— no mercado da Comunidade, dos preços dos produtos do sector dos ovos e das disponibilidades,\n\n— no mercado mundial, dos preços dos produtos do sector dos ovos;\n\nb) Necessidade de evitar as perturbações susceptíveis de provocar um desequilíbrio prolongado entre a oferta e a procura no mercado da Comunidade;\n\nc) Aspecto económico das exportações previstas;\n\nd) Limites decorrentes dos acordos celebrados em conformidade com o artigo 228.º do Tratado.\n\nNa fixação da restituição, será além disso tomada em consideração a necessidade de estabelecer um equilíbrio entre a utilização dos produtos de base comunitários com vista à exportação de mercadorias transformadas para países terceiros e a utilização de produtos desses países admitidos ao regime de aperfeiçoamento.\n\nPor outro lado, para o cálculo da restituição, é tida em conta, para os produtos referidos no n.º 1 do artigo 1.º, a diferença entre os preços na Comunidade, por um lado, e no mercado mundial, por outro, da quantidade de cereais forrageiros necessários na Comunidade para a produção de um quilo de ovos em casca e tomando em consideração, no que se refere aos produtos que não sejam ovos em casca, a quantidade de ovos em casca utilizados no fabrico desses produtos e/ou a relação média entre os valores comerciais dos constituintes do ovo.\n\n5. O preço na Comunidade, referido no n.º 1, é fixado atendendo:\n\na) Aos preços praticados nas várias fases de comercialização na Comunidade;\n\nb) Aos preços praticados na exportação.\n\nO preço do mercado mundial, referido no n.º 1, é fixado atendendo:\n\na) Aos preços praticados nos mercados dos países terceiros;\n\nb) Aos preços de importação mais favoráveis, em proveniência de países terceiros, nos países terceiros de destino;\n\nc) Aos preços verificados na produção nos países terceiros exportadores atendendo, eventualmente, às subvenções concedidas por esses países;\n\nd) Aos preços de oferta franco-fronteira da Comunidade.\n\n6. Em relação aos produtos referidos no n.º 1 do artigo e exportados sem alteração, a restituição só será concedida a pedido e mediante a apresentação do correspondente certificado de exportação, excepto no caso dos ovos para incubação aos quais pode ser emitido um certificado *a posteriori*.\n\n7. O montante da restituição aplicável à exportação de produtos referidos no n.º 1 do artigo 1.º exportados sem alteração será o montante válido no dia do pedido do certificado e, no caso de uma restituição diferenciada, aplicável nesse mesmo dia:\n\na) No destino indicado no certificado\n\nb) No destino real, caso este seja diferente do destino indicado no certificado. Neste caso, o montante aplicável não pode ultrapassar o montante aplicável no destino indicado no certificado.\n\nPara evitar a utilização abusiva da flexibilidade prevista no presente número podem ser tomadas medidas adequadas.\n\n8. O disposto nos n.^os^ 6 e 7 pode ser extensivo aos produtos referidos no n.º 1 do artigo 1.º e exportados sob a forma de mercadorias constantes do anexo I, de acordo com o processo previsto do artigo 16.º do Regulamento (CE) n.º 3448/93.\n\n9. Pode ser estabelecida uma derrogação aos n.^os^ 6 e 7 em relação a produtos referidos no n.º 1 do artigo 1.º que beneficiem de restituições no âmbito de acções de ajuda alimentar de acordo com o processo previsto no artigo 17.º\n\n10. A restituição é paga logo que for apresentada a prova de que os produtos\n\n— foram exportados para fora da Comunidade,\n\n— são de origem comunitária, excepto no caso de se aplicar o n.º 11,\n\n— e\n\n— no caso de uma restituição diferenciada, chegaram ao destino indicado no certificado ou a outro destino para o qual tenha sido fixada uma restituição, sem prejuízo da alínea b) do n.º 7. Todavia, podem prever-se derrogações a esta regra, de acordo com o processo previsto no artigo 17.º, sob reserva de condições a determinar, que ofereçam garantias equivalentes.\n\n11. Não será concedida qualquer restituição à exportação de produtos referidos no n.º 1 do artigo 1.º importados de países terceiros e reexportados para países terceiros, excepto se o exportador apresentar a prova:\n\n— da identidade entre o produto a exportar e o produto previamente importado\n\n— e\n\n— da cobrança na importação de todos os direitos de importação desse produto.\n\nNesse caso, a restituição para cada produto é igual ao direito cobrado na importação, se este for inferior à restituição aplicável; caso o direito cobrado na importação seja superior à restituição aplicável, a restituição será igual a esta última.\n\n12. O cumprimento dos limites de volume, decorrentes dos acordos celebrados em conformidade com o artigo 228.º do Tratado, é assegurado com base em certificados de exportação emitidos a título dos períodos de referência neles previstos, aplicáveis aos produtos em causa. Em relação ao respeito pelas obrigações decorrentes dos acordos celebrados no âmbito das negociações comerciais do *Uruguay Round*, a validade dos certificados de exportação não será afectada pelo termo de um período de referência.\n\n13. As normas de execução do presente artigo, incluindo as disposições relativas à redistribuição das quantidades exportáveis, não atribuídas ou não utilizadas, serão adoptadas de acordo com o processo previsto no artigo 17.º O anexo I será alterado de acordo com o mesmo processo. No entanto, as normas relativas à aplicação do n.º 8 para os produtos referidos no n.º 1 do artigo 1.º exportados sob a forma de mercadorias constantes do anexo I, serão adoptados nos termos do processo previsto no artigo 16.º do Regulamento (CE) n.º 3448/93."
+  },
+  "47d0d60d7160706e": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Na medida do necessário ao bom funcionamento da organização comum de mercado dos ovos, o Conselho, deliberando sob proposta da Comissão, de acordo com o processo de votação previsto no n.º 2 do artigo 43.º do Tratado, pode, em casos especiais, proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo:\n\n— em relação aos produtos referidos no n.º 1 do artigo 1.º destinados ao fabrico de produtos referidos no n.º 1, alínea b), do artigo 1.º\n\n— e, em casos especiais, em relação aos produtos referidos no n.º 1 do artigo 1.º destinados ao fabrico de mercadorias referidas no anexo I.\n\n2. Em derrogação do n.º 1, caso a situação referida nesse número seja excepcionalmente urgente e se o mercado comunitário for perturbado ou correr o risco de ser perturbado pelo regime de aperfeiçoamento activo, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, determinará as medidas necessárias, que serão comunicadas ao Conselho e aos Estados-membros, terão um prazo de validade máximo de seis meses e serão imediatamente aplicáveis. No caso de receber um pedido de um Estado-membro, a Comissão decidirá no prazo de uma semana a contar da data da recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a decisão da Comissão, no prazo de uma semana a contar da data da comunicação da mesma. O Conselho, deliberando por maioria qualificada, pode confirmar, alterar ou anular a decisão da Comissão. Se no prazo de três meses o Conselho não tiver tomado qualquer decisão, considera-se anulada a decisão da Comissão."
+  },
+  "e50d679ca8e7e6d4": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As regras gerais para a interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação serão aplicáveis à classificação dos produtos abrangidos pelo presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento será integrada na Pauta Aduaneira Comum.\n\n2. Salvo disposições em contrário do presente regulamento ou adoptadas nos termos de uma disposições deste, são proibidas, nas horas comerciais com países terceiros:\n\n— a cobrança de qualquer imposição de efeito equivalente a um direito aduaneiro,\n\n— a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "d91cceb249e2d706": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Se, devido às importações ou às exportações, o mercado comunitário de um ou vários produtos a que se refere o n.º 1 do artigo 1.º sofrer, ou correr o risco de sofrer perturbações graves que possam pôr em perigo os objectivos do artigo 39.º do Tratado, podem ser aplicadas medidas adequadas às horas comerciais com países terceiros até que desapareça a perturbação ou risco de perturbação.\n\nO Conselho, deliberando sob proposta da Comissão, de acordo com o processo de votação previsto no n.º 2 do artigo 43.º do Tratado, adoptará as regras gerais de aplicação do presente número e deinirá os casos e limites em que os Estados-membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação prevista no n.º 1, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-membro, tomará uma decisão no prazo de três dias úteis seguintes ao da recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão, no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada pode alterar ou anular a medida em causa.\n\n4. As disposições do presente artigo serão aplicadas no respeito das obrigações decorrentes dos acordos concluídos em conformidade com o n.º 2 do artigo 228.º do Tratado."
+  },
+  "568eb5f68b1fc9b8": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNão são admitidas à livre circulação no interior da Comunidade as mercadorias referidas no n.º 1 do artigo 1.º fabricadas ou obtidas a partir de produtos que não são referidos no n.º 2 do artigo 9.º e no n.º 1 do artigo 10.º do Tratado."
+  },
+  "eb5dc3c887a060d0": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A fim de ter em conta as limitações à livre circulação que possam resultar da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem ser tomadas medidas excepcionais de apoio do mercado afectado por essas limitações, nos termos do artigo 17.º. Essas medidas são tomadas a pedido do Estado-Membro ou dos Estados-Membros em causa. Só podem ser tomadas se o Estado-Membro ou os Estados-Membros em causa tiverem adoptado medidas veterinárias e sanitárias para pôr rapidamente termo às epizootias e na medida e pelo período estritamente necessários ao apoio desse mercado.\n\n2. A Comunidade participa no financiamento das medidas excepcionais referidas no n.º 1, tomadas em relação directa com as medidas veterinárias e sanitárias, até ao limite de 50 % das despesas suportadas pelos Estados-Membros.\n\n3. Os Estados-Membros devem assegurar que, caso os produtores contribuam para as despesas suportadas pelos Estados-Membros, tal facto não provoque distorções de concorrência entre produtores de diferentes Estados-Membros.\n\n4. Os artigos 87.º, 88.º e 89.º do Tratado não se aplicam à contribuição financeira dos Estados-Membros a favor das medidas referidas no n.º 1."
+  },
+  "be41b0fc9c0e5fd9": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-membros e a Comissão comunicam reciprocamente os dados necessários para a aplicação do presente regulamento. As modalidades da comunicação e da difusão destes dados são aprovadas de acordo com o procedimento previsto no artigo 17.º"
+  },
+  "f472d8c4a6aef43f": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. É instituído um Comité de Gestão da Carne de Aves e dos Ovos, adiante designado por «Comité», composto de representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "020158d4ca20b6f6": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité de Gestão da Carne de Aves de Capoeira e dos Ovos.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^4^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#E0004)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "d797e1b65af78d76": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO Comité pode examinar qualquer outra questão invocada pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro."
+  },
+  "94f6860356542fb6": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nSob reserva das disposições contrárias do presente regulamento, os artigos 92.º a 94.º do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no n.º 1 do artigo 1.º"
+  },
+  "07ada2dd257b58cc": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO presente regulamento deve ser aplicado de modo a serem tidos em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39.º e 110.º do Tratado."
+  },
+  "fea07f033c73cc7b": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nPara evitar distorçôes de concorrência, o Conselho, deliberando sob proposta da Comissão por maioria qualificada, tomará as medidas necessárias no caso de a Itália recorrer ao artigo 23.º do Regulamento (CEE) n.º 2727/75 do Conselho, de 29 de Outubro de 1975, que estabelece uma organização comum de mercado no sector dos cereais ([^5^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#E0005))."
+  },
+  "f0003909a7daaf4c": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. E revogado o Regulamento n.º 122/67/CEE do Conselho, de 13 de Junho de 1967, que estabelece a organização comum de mercado no sector dos ovos ([^6^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#E0006)), com a última redacção que lhe foi dada pela Decisão do Conselho de 1 de Janeiro de 1973, que estabelece a adaptação dos aelos relativos à adesão de novos Estados-membros às Comunidades Europeias ([^7^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#E0007)).\n\n2. As referências ao regulamento revogado em virtude do n.º 1 devem entender-se como feitas ao presente regulamento.\n\nAs citações e as referências que se relacionam com os artigos do dito regulamento devem ler-se segundo o quadro de concordância que figura no Anexo II."
+  },
+  "d286d675e87e0973": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO presente regulamento entra em vigor no dia 1 de Novembro de 1975.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "fe27fcd3f82ff5a1": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Código NC | Designação das mercadorias |\n| --- | --- |\n| ex040310 51 a ex040310 99 ex040390 71 a ex040390 99 | Leitelho, leite e nata coalhados, iogurte, *kefir*e outros leites e natas fermentados ou acidificados, aromatizados de cacau, mesmo concentrados ou adicionados de açúcar ou de outros edulcorantes |\n| 1806 | Chocolate e outras preparações alimentícias contendo cacau |\n| ex19 01 | Preparações alimentícias de produtos das posições 0401 a 0404, contendo cacau numa proporção inferior a 5 %, em peso, calculado sob uma base totalmente desengordurada, não especificadas nem compreendidas noutras posições |\n| 1902 11 00 | Massas alimentícias não cozidas, nem recheadas, nem preparadas de outro modo, contendo ovos |\n| ex19 04 | Produtos à base de cereais, obtidos por expansão ou por torrefacção [por exemplo: flocos de milhos *(corn flakes)*]; cereais (excepto milho) em grãos ou sob forma de flocos ou de outros grãos trabalhados (com excepção da farinha e da sêmola) pré-cozidos ou preparados de outro modo, não especificados nem compreendidos noutras posições, contendo cacau |\n| 1905 | Produtos de padaria, pastelaria ou da indústria de bolachas e biscoitos, mesmo adicionados de cacau; hóstias, cápsulas vazias para medicamentos, obreias, pastas secas de farinha, amido ou de fécula em folhas e produtos semelhantes: |\n| 1905 20 | - Pão de especiarias |\n| [▼M12](http://publications.europa.eu/resource/celex/32002R0493) |  |\n| 1905 31 | - Bolachas e biscoitos adicionados de edulcorantes |\n| 1905 32 | - *Waffles* e *wafers* |\n| [▼M11](http://publications.europa.eu/resource/celex/31996R1516) |  |\n| 1905 40 | - Tostas, pão torrado e produtos semelhantes torrados |\n| 1905 90 | - Outros, com excepção dos produtos dos códigos NC 1905 90 10 a 1905 90 30 |\n| ex21 05 00 | Sorvetes, contendo cacau |\n| 2208 | Álcool etílico, não desnaturado, com um teor alcoólico em volume inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas: |\n| 2208 70 | - Licores |\n| 3502 | Albuminas (incluídos os concentrados de várias proteínas de soro de leite, contendo,em peso calculado sobre matéria seca, mais de 80 % de proteínas do soro de leite),albuminatos e outros derivados das albuminas: |\n| 3502 11 90 | - - - Outra ovalbumina seca |\n| 3502 19 90 | - - - Outras ovalbumina |"
+  },
+  "5ea5d00821bb4207": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n*Regulamento n.º 122/67/CEE* *Presente regulamento*\n\nArtigo 13.º *A* Artigo 14.º\n\nArtigo 14.º Artigo 19.º\n\nArtigo 22.º Artigo 21.º\n\nAnexo Anexo I\n\n---"
+  },
+  "45c4a5ec9a749073": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#src.E0001)) JO n.º C 60 de 13. 3. 1975, p. 41.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#src.E0002)) JO n.º L 94 de 28. 4. 1970, p. 13.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#src.E0003)) JO n.º L 167 de 25. 7. 1972, p. 5.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#src.E0004)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)..\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#src.E0005)) JO n.º L 281 de 1. 11. 1975, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#src.E0006)) JO n.º L 117 de 19. 6. 1967, p. 2293/67.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d88af7ec-e8c4-4355-9d8d-ee66a9263f41.0016.03/DOC_1#src.E0007)) JO n.º L 2 de 1. 1. 1973, p. 1."
+  },
+  "dc2c2dc1442ba8bd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Outubro de 1975\n\nque establece a organização comum de mercado no sector dos ovos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, e, nomeadamente, os seus artigos 42.º e 43.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#E0001)),\n\nConsiderando que as disposições fundamentais respeitantes à organização comum de mercado no sector dos ovos foram modificadas em várias ocasiões após a sua adopção; que estes textos são difícies de utilizar devido ao seu número, à sua complexidade e à sua dispersão pelos diferentes jornais oficiais, e carecem por conseguinte da clareza necessária que deve apresentar toda a regulamentação; que, nestas condições, convém proceder à sua codificação;\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados do estabelecimento de uma política agrícola comum e que esta deve nomeadamente comportar uma organização comum dos mercados agrícolas, que pode tomar diversas formas segundo os produtos;\n\nConsiderando que a política agrícola comum tem como propósito atingir os objectivos do artigo 39.º do Tratado; que, nomeadamente no sector dos ovos, é necessário que possam ser tomadas medidas que permitam facilitar a adaptação da oferta às exigências do mercado, a fim de estabilizar os mercados e de assegurar um nível de vida justo à população agrícola interessada;\n\nConsiderando que a realização de um mercado único no sector dos ovos implica o estabelecimento, nas fronteiras exteriores da Comunidade, de um regime único de trocas comportando um sistema de direitos niveladores e de restituições à exportação;\n\nConsiderando que o estabelecimento, sobre as importações provenientes de países terceiros, de direitos niveladores que tenham em conta a incidência sobre os custos de alimentação da diferença entre os preços de cereais forrageiros na Comunidade e no mercado mundial e a necessidade de uma protecção de transformação comunitária, é em princípio suficiente para que este objectivo seja atingido;\n\nConsiderando que é necessário evitar no mercado da Comunidade as perturbações resultantes das ofertas feitas no mercado mundial a preços anormalmente baixos; que, para este fim, convém fixar preços limite e aumentar os direitos niveladores de um montante suplementar quando os preços de oferta franco-fronteira se situem abaixo daqueles preços;\n\nConsiderando que a possibilidade de conceder uma restituição, na exportação para países terceiros, igual à diferença entre os preços na Comunidade e no mercado mundial é de natureza a salvaguardar a participação da Comunidade no comércio internacional dos ovos; que, para garantir aos exportadores da Comunidade uma certa segurança no que respeita à estabilidade das restituições, importa prever a possibilidade de se fixar antecipadamente as restituições no sector dos ovos;\n\nConsiderando que, em complemento ao sistema acima descrito, convém prever a possibilidade de proibir total ou parcialmente, na medida em que a situação do mercado e exija, o recurso ao regime dito de aperfeiçoamento activo;\n\nConsiderando que o regime de direitos niveladores permite renunciar a qualquer outra medida de protecção nas fronteiras exteriores da Comunidade; que, todavia, o mecanismo de direitos niveladores pode ser insuficiente em circunstâncias excepcionais; que, a fim de não deixar em tais casos o mercado comunitário sem defesa contra as perturbações que daí podem resultar quando os obstáculos à importação anteriormente existentes forem suprimidos, é conveniente permitir à Comunidade tomar rapidamente todas as medidas necessárias;\n\nConsiderando que as restrições à livre circulação resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais podem provocar dificuldades no mercado de um ou de vários Estados-membros; que é necessário prever a possibilidade de se aplicarem medidas excepcionais de apoio ao mercado, destinadas a remediar a situação;\n\nConsiderando que para facilitar a execução das medidas apontadas é conveniente prever um processo que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio de um Comité de Gestão;\n\nConsiderando que a realização de um mercado único seria comprometida pela concessão de certas ajudas; que por conseguinte convém que se tornem aplicáveis no sector dos ovos as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-membros e proibir as que são incompatíveis com o mercado comum;\n\nConsiderando que a organização comum de mercado no sector dos ovos deve ter em conta, paralelamente e de maneira apropriada, os objectivos previstos nos artigos 39.º e 110.º do Tratado;\n\nConsiderando que as despesas feitas pelos Estados-membros em consequência das obrigações resultantes da aplicação do presente regulamento incumbem à Comunidade, em conformidade com os artigos 2.º e 3.º do Regulamento (CEE) n.º 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum ([^2^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#E0002)), alterado pelo Regulamento (CEE) n.º 1566/72 ([^3^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#E0003)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d8b3823ded34f85a": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Podem ser tomadas medidas excepcionais de apoio do mercado afectado, nos termos do n.º 2 do artigo 17.º, a fim de ter em conta:\n\na) Limitações à livre circulação que possam resultar da aplicação de medidas destinadas a combater a propagação de doenças dos animais; ou\n\nb) Graves perturbações do mercado directamente relacionadas com uma perda de confiança dos consumidores devida à existência de riscos para a saúde pública ou animal.\n\nEssas medidas serão tomadas a pedido do ou dos Estados-Membros interessados.\n\nEm caso de limitações à livre circulação a que se refere a alínea a), só podem ser tomadas medidas excepcionais se o ou os Estados-Membros em causa tiverem adoptado medidas veterinárias e sanitárias conformes com a legislação comunitária, a fim de pôr rapidamente termo às epizootias e na medida e pelo período estritamente necessários para apoiar esse mercado.\n\n2. Quanto às medidas excepcionais a que se refere a alínea a) do n.º 1 que se relacionem directamente com medidas de saúde e veterinárias, e quanto às medidas excepcionais a que se refere a alínea b) do n.º 1, a Comunidade prestará um financiamento parcial equivalente a 50 % da despesa incorrida pelos Estados-Membros.\n\n3. Os Estados-Membros devem assegurar que, caso os produtores contribuam para as despesas suportadas pelos Estados-Membros, tal facto não provoque distorções de concorrência entre produtores de diferentes Estados-Membros.\n\n4. Os artigos 87.º, 88.º e 89.º do Tratado não se aplicam à contribuição financeira dos Estados-Membros a favor das medidas referidas no n.º 1."
+  },
+  "a444b55d5b727cdb": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité de Gestão da Carne de Aves de Capoeira e dos Ovos.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^4^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#E0004)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "141632b6ab39d52b": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nPara evitar distorçôes de concorrência, o Conselho, deliberando sob proposta da Comissão por maioria qualificada, tomará as medidas necessárias no caso de a Itália recorrer ao artigo 23.º do Regulamento (CEE) n.º 2727/75 do Conselho, de 29 de Outubro de 1975, que estabelece uma organização comum de mercado no sector dos cereais ([^5^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#E0005))."
+  },
+  "c568bf9e16e40aa9": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. E revogado o Regulamento n.º 122/67/CEE do Conselho, de 13 de Junho de 1967, que estabelece a organização comum de mercado no sector dos ovos ([^6^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#E0006)), com a última redacção que lhe foi dada pela Decisão do Conselho de 1 de Janeiro de 1973, que estabelece a adaptação dos aelos relativos à adesão de novos Estados-membros às Comunidades Europeias ([^7^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#E0007)).\n\n2. As referências ao regulamento revogado em virtude do n.º 1 devem entender-se como feitas ao presente regulamento.\n\nAs citações e as referências que se relacionam com os artigos do dito regulamento devem ler-se segundo o quadro de concordância que figura no Anexo II."
+  },
+  "b253692f821e63e1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#src.E0001)) JO n.º C 60 de 13. 3. 1975, p. 41.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#src.E0002)) JO n.º L 94 de 28. 4. 1970, p. 13.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#src.E0003)) JO n.º L 167 de 25. 7. 1972, p. 5.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#src.E0004)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)..\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#src.E0005)) JO n.º L 281 de 1. 11. 1975, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#src.E0006)) JO n.º L 117 de 19. 6. 1967, p. 2293/67.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8748aeb5-cb1f-4ac0-9022-a26d83318571.0017.03/DOC_1#src.E0007)) JO n.º L 2 de 1. 1. 1973, p. 1."
+  },
+  "239d5ef5fc0cb7bb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1975R2771 — PT — 01.07.2008 — 017.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31975R2771) [REGULAMENTO (CEE) N.º 2771/75 DO CONSELHO](http://publications.europa.eu/resource/celex/31975R2771) [de 29 de Outubro de 1975](http://publications.europa.eu/resource/celex/31975R2771) [que establece a organização comum de mercado no sector dos ovos](http://publications.europa.eu/resource/celex/31975R2771) (JO L 282, 1.11.1975, p.49)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

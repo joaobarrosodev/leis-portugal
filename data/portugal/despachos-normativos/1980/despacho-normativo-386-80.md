@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:226673:por
+title: Despacho Normativo n.º 386/80
+short_title: null
+summary: Estabelece normas relativas à gestão das verbas globais destinadas ao Serviço Nacional de Saúde
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e dos Assuntos Sociais
+proposing_entity: null
+official_number: 386/80
+official_date: null
+publication_date: '1980-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 301/1980, 3º Suplemento, Série I de 1980-12-31
+  number: '301'
+  series: I
+  supplement: null
+  pages: 4244-(60) a 4244-(60)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30103/00600060.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '226673'
+  dre_path: /dr/detalhe/despacho-normativo/386-1980-226673
+  internal: pt:dre:226673:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/386-1980-226673
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/386-1980-226673
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:05:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d49d1c04691673988f25d2807f850e9a2cc1df1534e0e63851ad7677538a4d17
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:05:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Saúde
+- Serviço Nacional de Saúde
+relationships:
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475162:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:05:33Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 386/80
+
+Considerando que o [Despacho Normativo n.º 146/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/146-1980-475162), de 18 de Abril, determinou que as verbas globais destinadas ao Serviço Nacional de Saúde incluídas no OGE para 1980 fossem requisitadas e geridas pelo Departamento de Gestão Financeira dos Serviços de Saúde, transitoriamente, enquanto não entrasse em funcionamento o conselho directivo da Administração Central de Saúde, previsto no artigo 35.º da [Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/lei/56-1979-369864), de 15 de Setembro;
+
+Considerando que se mantêm os condicionalismos legais e orgânicos que levaram a proferir o referido despacho:
+
+Os Ministros das Finanças e do Plano e dos Assuntos Sociais, nos termos do artigo 13.º do Decreto-Lei n.º 513-T1/79, de 27 de Dezembro, determinam:
+
+1 - As verbas globais destinadas ao Serviço Nacional de Saúde incluídas no OGE continuarão a ser requisitadas e geridas pelo Departamento de Gestão Financeira dos Serviços de Saúde até à entrada em funcionamento do conselho directivo da Administração Central de Saúde, previsto no artigo 35.º da [Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/lei/56-1979-369864), de 15 de Setembro.
+
+2 - Mantém-se a orientação definida no n.º 2 do [Despacho Normativo n.º 146/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/146-1980-475162), de 18 de Abril, acerca dos orçamentos e contas que o DGFSS e os serviços ou estabelecimentos do SNS dotados de autonomia devem elaborar.
+
+Ministérios das Finanças e do Plano e dos Assuntos Sociais, 18 de Dezembro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão.

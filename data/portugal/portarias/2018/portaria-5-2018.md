@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:114457665:por
+title: Portaria n.º 5/2018
+short_title: null
+summary: Portaria que estabelece as normas de execução do Decreto-Lei n.º 126-A/2017, de 6 de outubro, que institui a prestação
+  social para a inclusão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 5/2018
+official_date: null
+publication_date: '2018-01-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2018, Série I de 2018-01-05
+  number: '4'
+  series: I
+  supplement: null
+  pages: 127 - 127
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00400/0012700127.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/5/2018/01/05/p/dre/pt/html
+  oj: null
+  dre: '114457665'
+  dre_path: /dr/detalhe/portaria/5-2018-114457665
+  internal: pt:dre:114457665:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-2018-114457665
+  metadata_url: https://data.dre.pt/eli/port/5/2018/01/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-2018-114457665
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: aaec147723b091acf7ae34307a78bac28f31d74ea1ee10690398e886514137f6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:57:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acumulação de Prestações Sociais
+- Deficiente
+- Inserção Social
+- Pessoa em Situação de Dependência
+- Prestação Social para a Inclusão
+- Prestações da Segurança Social
+- Proteção ao Deficiente
+- Proteção Social
+- Regulamentação de Atos Legislativos
+- Rendimento
+- Segurança Social
+- Valor de Referência
+relationships:
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115460925:por
+  label: Revogada, com efeitos a 01.01.2018, pelo(a) Portaria n.º 162/2018 - Diário da República n.º 109/2018, Série I de
+    2018-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-2018-115460925
+  date: '2018-06-07'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:57:59Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 5/2018
+
+de 5 de janeiro
+
+A prestação social para a inclusão instituída pelo [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, tem como objetivo compensar os encargos acrescidos no domínio da deficiência, com vista a promover a autonomia, a inclusão social e o combate à pobreza das pessoas com deficiência.
+
+O referido decreto-lei determina que o valor de referência anual da componente base, previsto no artigo 18.º, o limite máximo anual de acumulação da componente base com rendimentos de trabalho, definido no artigo 20.º e o valor de referência anual do complemento, previsto no artigo 21.º, sejam definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da solidariedade e segurança social.
+
+Atendendo a que a data de entrada em vigor do complemento está definida para 1 de outubro de 2018, a determinação do valor de referência anual do complemento para o ano de 2017 releva exclusivamente para a fixação do limiar de acumulação anual da componente base com rendimentos, nas situações em que o titular da prestação social para a inclusão não tenha rendimentos de trabalho, conforme previsto no n.º 1 do artigo 20.º do referido decreto-lei.
+
+Deste modo, compete ao Governo, no desenvolvimento das normas anteriormente citadas, determinar os referidos valores a considerar para o cálculo da prestação social para a inclusão.
+
+Assim ao abrigo do disposto nos artigos 18.º, 20.º e 21.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro.
+
+Manda o Governo, pelos Ministros das Finanças e do Trabalho, Solidariedade e Segurança Social, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece as normas de execução do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, que institui a prestação social para a inclusão.
+
+###### Artigo 2.º — Valor de referência anual da componente base
+
+O valor de referência anual da componente base da prestação social para a inclusão a que faz referência o n.º 1 do artigo 18.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, é fixado para o ano de 2017 em (euro) 3.171,84.
+
+###### Artigo 3.º — Limite máximo anual de acumulação da componente base com rendimentos de trabalho
+
+O limite máximo anual de acumulação da componente base da prestação social para a inclusão com rendimentos, nas situações em que existam rendimentos de trabalho, previsto no n.º 3 do artigo 20.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, é fixado em (euro) 8.500.
+
+###### Artigo 4.º — Valor de referência anual do complemento
+
+Para efeitos do n.º 1 do artigo 20.º do [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, o valor de referência anual do complemento da prestação social para a inclusão a que faz referência o n.º 2 do artigo 21.º daquele decreto-lei é fixado para o ano de 2017 em (euro) 5.084,30.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do dia 1 de outubro de 2017.
+
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 29 de dezembro de 2017. - O Ministro do Trabalho, Solidariedade e Segurança Social, José António Fonseca Vieira da Silva, em 28 de dezembro de 2017.
+
+111035264

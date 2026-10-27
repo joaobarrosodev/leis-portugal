@@ -1,0 +1,271 @@
+---
+schema_version: '1.0'
+id: pt:dre:859675441:por
+title: Decreto do Presidente da República n.º 41-B/2024
+short_title: null
+summary: São nomeados, sob proposta do Primeiro-Ministro, Inês Carmelo Rosa Calado Lopes Domingos, Secretária de Estado dos
+  Assuntos Europeus, Nuno Ricardo Ribeiro de Carvalho de Azevedo Sampaio, Secretário de Estado dos Negócios Estrangeiros e
+  da Cooperação, José de Almeida Cesário, Secretário de Estado das Comunidades Portuguesas, José Maria Gonçalves Pereira Brandão
+  de Brito, Secretário de Estado Adjunto e do Orçamento, Cláudia Maria dos Reis Duarte Melo de Carvalho, Secretária de Estado
+  dos Assuntos Fiscais, João Alexandre da Silva Lopes, Secretário de Estado do Tesouro e das Finanças, Marisa da Luz Bento
+  Garrido Marques Oliveira, Secretária de Estado da Administração Pública, Paulo José Martins Raposo Lopes Marcelo, Secretário
+  de Estado da Presidência do Conselho de Ministros, Rui Armindo da Costa Freitas, Secretário de Estado Adjunto da Presidência,
+  Hélder Manuel Gomes dos Reis, Secretário de Estado do Planeamento e Desenvolvimento Regional, Hernâni Dinis Venâncio Dias,
+  Secretário de Estado da Administração Local e Ordenamento do Território, Carlos Eduardo Almeida de Abreu Amorim, Secretário
+  de Estado Adjunto e dos Assuntos Parlamentares, Pedro Miguel Pereira Dias, Secretário de Estado do Desporto, Álvaro Castelo
+  Branco, Secretário de Estado Adjunto e da Defesa Nacional, Ana Isabel Marques Xavier, Secretária de Estado da Defesa Nacional,
+  Maria Clara da Silva Maia de Figueiredo, Secretária de Estado Adjunta e da Justiça, Maria José Dias da Mota Magalhães de
+  Barros, Secretária de Estado da Justiça, Telmo Augusto Janes de Noronha Côrrea, Secretário de Estado da Administração Interna,
+  Paulo Jorge Simões Ribeiro, Secretário de Estado da Proteção Civil, Manuel Alexandre Mateus Homem Cristo, Secretário de
+  Estado Adjunto e da Educação, Pedro Tiago Dantas Machado da Cunha, Secretário de Estado da Administração e Inovação Educativa,
+  Ana Maria Severino de Almeida Paiva, Secretária de Estado da Ciência, Ana Margarida Pinheiro Povo, Secretária de Estado
+  da Saúde, Cristina Alexandra Rodrigues da Cruz Vaz Tomé, Secretária de Estado da Gestão da Saúde, Hugo Morato Alface do
+  Espírito Santo, Secretário de Estado das Infraestruturas, Cristina Maria dos Santos Pinto Dias, Secretária de Estado da
+  Mobilidade, Patrícia Gonçalves Costa de Machado Santos, Secretária de Estado da Habitação, Pedro Manuel Monteiro Machado,
+  Secretário de Estado do Turismo, João Rui da Silva Gomes Ferreira, Secretário de Estado da Economia, Lídia Maria Bulcão
+  Rosa da Silveira Dutra, Secretária de Estado do Mar, Jorge Manuel de Almeida Campino, Secretário de Estado da Segurança
+  Social, Maria Clara Gonçalves Marques Mendes, Secretária de Estado da Ação Social e da Inclusão, Adriano Rafael Sousa Moreira,
+  Secretário de Estado do Trabalho, Emídio Ferreira dos Santos Sousa, Secretário de Estado do Ambiente, Maria João Correia
+  Colunas Pereira, Secretária de Estado da Energia, Carla da Cruz Mouro, Secretária de Estado Adjunta e da Igualdade, Alberto
+  Manuel Rodrigues da Silva, Secretário de Estado da Modernização e da Digitalização, João Manuel Moura Rodrigues, Secretário
+  de Estado da Agricultura, Cláudia Sofia Gomes Monteiro de Aguiar, Secretária de Estado das Pescas, Rui Miguel Ladeira Pereira,
+  Secretário de Estado das Florestas, Maria de Lurdes dos Anjos Craveiro, Secretária de Estado da Cultura.
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 41-B/2024
+official_date: null
+publication_date: '2024-04-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 68/2024, Suplemento, Série I de 2024-04-05
+  number: '68'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06801/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decpresrep/41-b/2024/04/05/p/dre/pt/html
+  oj: null
+  dre: '859675441'
+  dre_path: /dr/detalhe/decreto-presidente-republica/41-b-2024-859675441
+  internal: pt:dre:859675441:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/41-b-2024-859675441
+  metadata_url: https://data.dre.pt/eli/decpresrep/41-b/2024/04/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/41-b-2024-859675441
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:51:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 93d8c6ced965402e5fe002038490aae8cf35acfaf5c2c779c14eedad5d2b18a9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:51:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo XXIV
+- Membros do Governo
+- Nomeação
+- Secretário de Estado Adjunto da Presidência
+- Secretário de Estado Adjunto e da Defesa Nacional
+- Secretário de Estado Adjunto e da Educação
+- Secretário de Estado Adjunto e da Igualdade
+- Secretário de Estado Adjunto e da Justiça
+- Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado Adjunto e dos Assuntos Parlamentares
+- Secretário de Estado da Ação Social e da Inclusão
+- Secretário de Estado da Administração e Inovação Educativa
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local e Ordenamento do Território
+- Secretário de Estado da Administração Pública
+- Secretário de Estado da Agricultura
+- Secretário de Estado da Ciência
+- Secretário de Estado da Cultura
+- Secretário de Estado da Defesa Nacional
+- Secretário de Estado da Economia
+- Secretário de Estado da Energia
+- Secretário de Estado da Gestão da Saúde
+- Secretário de Estado da Habitação
+- Secretário de Estado da Justiça
+- Secretário de Estado da Mobilidade
+- Secretário de Estado da Modernização e da Digitalização
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Proteção Civil
+- Secretário de Estado da Saúde
+- Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado das Florestas
+- Secretário de Estado das Infraestruturas
+- Secretário de Estado das Pescas
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Desporto
+- Secretário de Estado do Mar
+- Secretário de Estado do Planeamento e Desenvolvimento Regional
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Trabalho
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Europeus
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+relationships:
+- type: amended_by
+  target: pt:dre:907468767:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:905460335:por
+  label: Exonerado, com efeitos a 29 de janeiro de 2025, Hernâni Dinis Venâncio Dias do cargo de Secretário de Estado da Administração
+    Local e Ordenamento do Território pelo(a) Decreto do Presidente da República n.º 18-B/2025 - Diário da República n.º 20/2025,
+    Suplemento, Série I de 2025-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/18-b-2025-905460335
+  date: '2025-01-29'
+- type: amended_by
+  target: pt:dre:907468767:por
+  label: Exonerados, a seu pedido, Pedro Tiago Dantas Machado da Cunha, Jorge Manuel de Almeida Campino, Maria João ­Correia
+    Colunas Pereira, Carla da Cruz Mouro e Maria de Lurdes dos Anjos Craveiro pelo(a) Decreto do Presidente da República n.º
+    25-A/2025 - Diário da República n.º 31/2025, Suplemento, Série I de 2025-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/25-a-2025-907468767
+  date: '2025-02-13'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:51:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 41-B/2024
+
+de 5 de abril
+
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
+
+São nomeados, sob proposta do Primeiro-Ministro:
+
+Inês Carmelo Rosa Calado Lopes Domingos, Secretária de Estado dos Assuntos Europeus;
+
+Nuno Ricardo Ribeiro de Carvalho de Azevedo Sampaio, Secretário de Estado dos Negócios Estrangeiros e da Cooperação;
+
+José de Almeida Cesário, Secretário de Estado das Comunidades Portuguesas;
+
+José Maria Gonçalves Pereira Brandão de Brito, Secretário de Estado Adjunto e do Orçamento;
+
+Cláudia Maria dos Reis Duarte Melo de Carvalho, Secretária de Estado dos Assuntos Fiscais;
+
+João Alexandre da Silva Lopes, Secretário de Estado do Tesouro e das Finanças;
+
+Marisa da Luz Bento Garrido Marques Oliveira, Secretária de Estado da Administração Pública;
+
+Paulo José Martins Raposo Lopes Marcelo, Secretário de Estado da Presidência do Conselho de Ministros;
+
+Rui Armindo da Costa Freitas, Secretário de Estado Adjunto da Presidência;
+
+Hélder Manuel Gomes dos Reis, Secretário de Estado do Planeamento e Desenvolvimento Regional;
+
+Hernâni Dinis Venâncio Dias, Secretário de Estado da Administração Local e Ordenamento do Território;
+
+Carlos Eduardo Almeida de Abreu Amorim, Secretário de Estado Adjunto e dos Assuntos Parlamentares;
+
+Pedro Miguel Pereira Dias, Secretário de Estado do Desporto;
+
+Álvaro Castelo Branco, Secretário de Estado Adjunto e da Defesa Nacional;
+
+Ana Isabel Marques Xavier, Secretária de Estado da Defesa Nacional;
+
+Maria Clara da Silva Maia de Figueiredo, Secretária de Estado Adjunta e da Justiça;
+
+Maria José Dias da Mota Magalhães de Barros, Secretária de Estado da Justiça;
+
+Telmo Augusto Janes de Noronha Côrrea, Secretário de Estado da Administração Interna;
+
+Paulo Jorge Simões Ribeiro, Secretário de Estado da Proteção Civil;
+
+Manuel Alexandre Mateus Homem Cristo, Secretário de Estado Adjunto e da Educação;
+
+Pedro Tiago Dantas Machado da Cunha, Secretário de Estado da Administração e Inovação Educativa;
+
+Ana Maria Severino de Almeida Paiva, Secretária de Estado da Ciência;
+
+Ana Margarida Pinheiro Povo, Secretária de Estado da Saúde;
+
+Cristina Alexandra Rodrigues da Cruz Vaz Tomé, Secretária de Estado da Gestão da Saúde;
+
+Hugo Morato Alface do Espírito Santo, Secretário de Estado das Infraestruturas;
+
+Cristina Maria dos Santos Pinto Dias, Secretária de Estado da Mobilidade;
+
+Patrícia Gonçalves Costa de Machado Santos, Secretária de Estado da Habitação;
+
+Pedro Manuel Monteiro Machado, Secretário de Estado do Turismo;
+
+João Rui da Silva Gomes Ferreira, Secretário de Estado da Economia;
+
+Lídia Maria Bulcão Rosa da Silveira Dutra, Secretária de Estado do Mar;
+
+Jorge Manuel de Almeida Campino, Secretário de Estado da Segurança Social;
+
+Maria Clara Gonçalves Marques Mendes, Secretária de Estado da Ação Social e da Inclusão;
+
+Adriano Rafael Sousa Moreira, Secretário de Estado do Trabalho;
+
+Emídio Ferreira dos Santos Sousa, Secretário de Estado do Ambiente;
+
+Maria João Correia Colunas Pereira, Secretária de Estado da Energia;
+
+Carla da Cruz Mouro, Secretária de Estado Adjunta e da Igualdade;
+
+Alberto Manuel Rodrigues da Silva, Secretário de Estado da Modernização e da Digitalização;
+
+João Manuel Moura Rodrigues, Secretário de Estado da Agricultura;
+
+Cláudia Sofia Gomes Monteiro de Aguiar, Secretária de Estado das Pescas;
+
+Rui Miguel Ladeira Pereira, Secretário de Estado das Florestas;
+
+Maria de Lurdes dos Anjos Craveiro, Secretária de Estado da Cultura.
+
+Assinado em 5 de abril de 2024.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 5 de abril de 2024.
+
+O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.
+
+117574411

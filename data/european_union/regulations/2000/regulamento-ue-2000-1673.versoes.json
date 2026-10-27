@@ -1,0 +1,864 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R1673:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1673-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "2000-07-29",
+   "future": false,
+   "celex": "32000R1673",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1fe2c93e14f16d82",
+    "fa12abdaab5d17f8",
+    "46f9a41d1a2bd665",
+    "8c2e075267b68086",
+    "733a5193d3cafa6b",
+    "6b9706e76c57233c",
+    "557cd0aaa1825f19",
+    "56f6579e801db8f6",
+    "670981f5cf442e3c",
+    "a0925d88fe61d043",
+    "a0c7e7dbf76cdbab",
+    "8b0b6cb0cbfedcf8",
+    "4bb619a99c3d6e6a",
+    "0fd5c440d2b13102",
+    "f5049e068559e559",
+    "58aa601d0c88b21e",
+    "ddfef141cf6a5f40",
+    "0dab272f264d2aa4",
+    "63154938f518bf68",
+    "4b1d5292309dba6e",
+    "63c207f9291f29d3",
+    "3d6ea46a23447a90"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "02000R1673-20040501",
+   "acts": [
+    {
+     "id": "eu:celex:32002R0651:por",
+     "title": "REGULAMENTO (CE) N. o 651/2002 DA COMISSÃO de 16 de Abril de 2002",
+     "published": null,
+     "celex": "32002R0651"
+    },
+    {
+     "id": "eu:celex:32004R0393:por",
+     "title": "REGULAMENTO (CE) N. o 393/2004 DO CONSELHO de 24 de Fevereiro de 2004",
+     "published": null,
+     "celex": "32004R0393"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 16.º",
+    "Adita TÍTULO I",
+    "Adita Mercado interno",
+    "Adita TÍTULO II",
+    "Adita Comércio com países terceiros",
+    "Adita TÍTULO III",
+    "Adita Disposições gerais",
+    "Adita TÍTULO IV",
+    "Adita Disposições transitórias e finais",
+    "Adita ANEXO",
+    "Adita ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.º",
+    "Adita ZONA I",
+    "Adita ZONA II",
+    "Adita Notas",
+    "Suprime TÍTULO I — Mercado interno",
+    "Suprime TÍTULO II — Comércio com países terceiros",
+    "Suprime TÍTULO III — Disposições gerais",
+    "Suprime TÍTULO IV — Disposições transitórias e finais",
+    "Suprime ANEXO — ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.o"
+   ],
+   "fragments": [
+    "dd8ea86f406919df",
+    "59e2d1e1401d51e1",
+    "ffc348f463b781ad",
+    "d38765c9ae3ed20c",
+    "35ca30595aa77a6a",
+    "b747e751812b4e96",
+    "6e88873460d53bb6",
+    "4c8bdeab3d91ec7d",
+    "49d1c298c0cb85b3",
+    "7daddd0eba031e46",
+    "d400e7ddaf3840cb",
+    "3898da3d1fdbaae3",
+    "9db704600627e53c",
+    "7fabed8a0a46afb5",
+    "29efc758e35b79d7",
+    "3e3cb744d6d61b1b",
+    "9e842822817b6497",
+    "2b70f745275746fd",
+    "662cf62f00c33127",
+    "afdf9ed5f5653069",
+    "5c723f0b848ad6bc",
+    "93161118cb567831",
+    "0a329dde842d4f45",
+    "d7cd8eb305cf8194",
+    "3ffd31ed7d98a737",
+    "10220b9774fa9034",
+    "a1817265b7d4e8b2",
+    "0e50020844ea0977",
+    "86a1c3646105ba43",
+    "d5c5be02cb0a6e04"
+   ]
+  },
+  {
+   "date": "2005-01-01",
+   "future": false,
+   "celex": "02000R1673-20050101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1782:por",
+     "title": "REGULAMENTO (CE) N. o 1782/2003 DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1782"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "ea492022d3527adb",
+    "2e5bd6964a2a6877",
+    "ffc348f463b781ad",
+    "d38765c9ae3ed20c",
+    "35ca30595aa77a6a",
+    "b747e751812b4e96",
+    "6e88873460d53bb6",
+    "4c8bdeab3d91ec7d",
+    "49d1c298c0cb85b3",
+    "c8962d8169a581da",
+    "d400e7ddaf3840cb",
+    "3898da3d1fdbaae3",
+    "9db704600627e53c",
+    "7fabed8a0a46afb5",
+    "29efc758e35b79d7",
+    "3e3cb744d6d61b1b",
+    "9e842822817b6497",
+    "2b70f745275746fd",
+    "662cf62f00c33127",
+    "afdf9ed5f5653069",
+    "5c723f0b848ad6bc",
+    "93161118cb567831",
+    "0a329dde842d4f45",
+    "d7cd8eb305cf8194",
+    "3ffd31ed7d98a737",
+    "10220b9774fa9034",
+    "a1817265b7d4e8b2",
+    "0e50020844ea0977",
+    "86a1c3646105ba43",
+    "ce67642a9780cafc"
+   ]
+  },
+  {
+   "date": "2006-07-06",
+   "future": false,
+   "celex": "02000R1673-20060706",
+   "acts": [
+    {
+     "id": "eu:celex:32006R0953:por",
+     "title": "REGULAMENTO (CE) N. o 953/2006 DO CONSELHO de 19 de Junho de 2006",
+     "published": null,
+     "celex": "32006R0953"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 15.º",
+    "Altera Notas",
+    "Suprime Artigo 12.º"
+   ],
+   "fragments": [
+    "336f4bf066a0c57a",
+    "3840177d7025229c",
+    "ffc348f463b781ad",
+    "d38765c9ae3ed20c",
+    "57085bdb7c28ae53",
+    "cd368ed89fe61344",
+    "f540a2a93ec2f5ed",
+    "4c8bdeab3d91ec7d",
+    "49d1c298c0cb85b3",
+    "c8962d8169a581da",
+    "d400e7ddaf3840cb",
+    "3898da3d1fdbaae3",
+    "9db704600627e53c",
+    "7fabed8a0a46afb5",
+    "29efc758e35b79d7",
+    "3e3cb744d6d61b1b",
+    "9e842822817b6497",
+    "2b70f745275746fd",
+    "662cf62f00c33127",
+    "afdf9ed5f5653069",
+    "93161118cb567831",
+    "0a329dde842d4f45",
+    "25749e0e03f73fdf",
+    "3ffd31ed7d98a737",
+    "10220b9774fa9034",
+    "a1817265b7d4e8b2",
+    "0e50020844ea0977",
+    "86a1c3646105ba43",
+    "ba76ec0216efad71"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02000R1673-20070101",
+   "acts": [
+    {
+     "id": null,
+     "title": "►A2",
+     "published": null,
+     "celex": "12005S"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "601af1b78f74008c",
+    "3e032d17aa9cd1ec",
+    "ffc348f463b781ad",
+    "d38765c9ae3ed20c",
+    "57085bdb7c28ae53",
+    "36602107fecf883f",
+    "f540a2a93ec2f5ed",
+    "4c8bdeab3d91ec7d",
+    "49d1c298c0cb85b3",
+    "c8962d8169a581da",
+    "d400e7ddaf3840cb",
+    "3898da3d1fdbaae3",
+    "9db704600627e53c",
+    "7fabed8a0a46afb5",
+    "29efc758e35b79d7",
+    "3e3cb744d6d61b1b",
+    "9e842822817b6497",
+    "2b70f745275746fd",
+    "662cf62f00c33127",
+    "afdf9ed5f5653069",
+    "93161118cb567831",
+    "0a329dde842d4f45",
+    "25749e0e03f73fdf",
+    "3ffd31ed7d98a737",
+    "10220b9774fa9034",
+    "a1817265b7d4e8b2",
+    "0e50020844ea0977",
+    "86a1c3646105ba43",
+    "09fbf689ff966158"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "02000R1673-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime TÍTULO I",
+    "Suprime Mercado interno",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime TÍTULO II",
+    "Suprime Comércio com países terceiros",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime TÍTULO III",
+    "Suprime Disposições gerais",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime TÍTULO IV",
+    "Suprime Disposições transitórias e finais",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime ANEXO",
+    "Suprime ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.º",
+    "Suprime ZONA I",
+    "Suprime ZONA II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "6052bcd2036632e9"
+   ]
+  }
+ ],
+ "fragments": {
+  "1fe2c93e14f16d82": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 1673/2000 do Conselho, de 27 de Julho de 2000, que estabelece a organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras** *Jornal Oficial nº L 193 de 29/07/2000 p. 0016 - 0022*\n\nRegulamento (CE) n.o 1673/2000 do Conselho\n\nde 27 de Julho de 2000\n\nque estabelece a organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.o e 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nTendo em conta o parecer do Comité das Regiões(4),\n\nConsiderando o seguinte:\n\n(1) O funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados da adopção de uma política agrícola comum. Esta deve, nomeadamente, compreender uma organização comum dos mercados agrícolas, que pode assumir diversas formas segundo os produtos.\n\n(2) A política agrícola comum tem por finalidade realizar os objectivos do Tratado. No sector do linho e do cânhamo destinados à produção de fibras, além das disposições relativas aos pagamentos por superfície previstas pelo Regulamento (CE) n.o 1251/1999 do Conselho, de 17 de Maio de 1999, que institui um sistema de apoio aos produtores de determinadas culturas arvenses(5), é necessário prever medidas relativas ao mercado interno, incluindo ajudas aos primeiros transformadores de palhas de linho e de cânhamo ou aos agricultores que mandam transformar as palhas por conta própria.\n\n(3) A fim de assegurar uma transformação efectiva das palhas de linho e de cânhamo, é conveniente sujeitar a concessão da ajuda a certas condições, nomeadamente a instauração de uma aprovação dos primeiros transformadores e a obrigação de um contrato de compra da palha por esses transformadores. Do mesmo modo, para combater possíveis abusos, a ajuda à transformação só é concedida em função da transformação das palhas, ou da utilização das fibras no mercado no caso em que o agricultor manda transformar as palhas por conta própria.\n\n(4) A fim de evitar uma má afectação dos fundos comunitários, é conveniente excluir da ajuda qualquer primeiro transformador ou qualquer agricultor acerca do qual seja estabelecido que criou artificialmente as condições requeridas para dela beneficiar e fruir, assim, de uma vantagem não conforme com os objectivos do regime de apoio destinado à transformação de palhas.\n\n(5) Atendendo às especificidades inerentes, por um lado, ao mercado das fibras longas de linho e, por outro, ao das fibras curtas de linho e das fibras de cânhamo, é conveniente diferenciar a ajuda em função cada uma das duas categorias de fibras obtidas. A fim de assegurar um nível total de apoio que permita à produção tradicional de fibras longas de linho subsistir em condições próximas das previstas pelo Regulamento (CEE) n.o 1308/70 do Conselho, de 4 de Julho de 1970, que estabelece a organização comum de mercado no sector do linho e do cânhamo(6), é conveniente aumentar progressivamente o montante da ajuda, de modo a ter em conta a diminuição gradual do apoio por hectare concedido ao produtor no âmbito do Regulamento (CE) n.o 1251/1999 e a supressão, a prazo, da ajuda para as fibras curtas de linho. No que diz respeito às fibras curtas de linho e às fibras de cânhamo, é conveniente conceder um montante de ajuda que permita, durante um certo período, um ajustamento mútuo entre os novos produtos delas procedentes e os potenciais mercados que se abram. A fim de incentivar unicamente a produção das fibras curtas de linho e de fibras de cânhamo de qualidade é conveniente prever uma percentagem máxima de impurezas e de cana, bem como disposições transitórias que permitam à indústria transformadora adaptar-se a esta exigência.\n\n(6) A fim de ter em conta a situação particular do linho tradicional de certas zonas dos Países-Baixos, da Bélgica e da França, é necessário conceder, para as superfícies em causa, uma ajuda complementar transitória ao primeiro transformador das palhas.\n\n(7) A fim de evitar qualquer aumento fraudulento das quantidades elegíveis para ajuda, é conveniente que os Estados-Membros as limitem em função das superfícies cuja palha seja objecto de contratos ou de um compromisso de transformação.\n\n(8) Com o intuito de limitar as despesas decorrentes da aplicação do presente regulamento, é conveniente instaurar um mecanismo estabilizador para cada tipo de fibras obtidas, consoante se trate de fibras longas de linho, por um lado, ou de fibras curtas de linho e de fibras de cânhamo, por outro. A fim de contribuir para um nível razoável das produções em causa em cada um dos Estados-Membros, é necessário fixar uma quantidade máxima garantida para cada categoria de fibras e reparti-la pelos Estados-Membros sob a forma de quantidades nacionais garantidas. No entanto, as quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo são limitadas ao período que permita aos novos produtos delas procedentes ajustar-se ao mercado. As quantidades nacionais garantidas aplicam-se à ajuda à transformação e dizem respeito apenas ao regime previsto no Regulamento (CE) n.o 1251/1999. As quantidades nacionais garantidas são estabelecidas, nomeadamente, tendo em conta as superfícies médias de linho têxtil e de cânhamo mais recentes, se for caso disso adaptadas em função da sua proporção realmente produtiva, afectadas de rendimentos médios de fibras. Para os Estados-Membros cuja produção actual é baixa, é conveniente prever uma quantidade comum a repartir em cada campanha a fim de permitir uma adaptação ao desenvolvimento da sua produção.\n\n(9) A fim de permitir a cada Estado-Membro um ajustamento entre as quantidades de fibras obtidas, é conveniente prever condições de transferência entre as quantidades nacionais garantidas que lhe são atribuídas. Esta transferência de quantidades efectua-se em função de um coeficiente que assegure uma equivalência orçamental.\n\n(10) Os Estados-Membros produtores devem tomar as disposições necessárias para assegurar o bom funcionamento das medidas previstas para a concessão da ajuda. Além disso, devido aos prazos necessários para a transformação de todas as palhas da campanha, é instaurado como medida de controlo um sistema de adiantamento sobre a ajuda.\n\n(11) O conjunto das medidas inerentes ao regime comercial com os países terceiros deve permitir renunciar à aplicação de qualquer restrição quantitativa e à cobrança de qualquer imposição nas fronteiras externas da Comunidade. No entanto, em circunstâncias excepcionais, este mecanismo pode não funcionar devidamente. Para não deixar, em tais casos, o mercado comunitário sem defesa contra as perturbações que daí podem resultar, é conveniente permitir à Comunidade tomar rapidamente quaisquer medidas necessárias. Tais medidas devem ser conformes com as obrigações decorrentes dos acordos da Organização Mundial do Comércio sobre a agricultura(7).\n\n(12) Para que a organização comum de mercado do cânhamo destinado à produção de fibras não seja perturbada por culturas ilícitas de cânhamo, é conveniente prever um controlo das importações de cânhamo e de sementes de cânhamo, a fim de assegurar que os produtos em causa ofereçam certas garantias no que diz respeito ao teor de tetrahidrocanabinol. Além disso, a importação de sementes de cânhamo não destinadas a sementeira deve ser subordinada a um regime de controlo que preveja um sistema de aprovação das importações em causa.\n\n(13) Ao longo da evolução dos mercados do linho e do cânhamo destinados à produção de fibras, os Estados-Membros e a Comissão devem comunicar-se mutuamente as informações necessárias à aplicação do presente regulamento.\n\n(14) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(8).\n\n(15) As despesas suportadas pelos Estados-Membros devido às obrigações decorrentes da aplicação do presente regulamento devem ser financiadas pela Comunidade em conformidade com o Regulamento (CE) n.o 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum(9).\n\n(16) A organização comum de mercado no sector do linho e do cânhamo, definida no Regulamento (CEE) n.o 1308/70, foi objecto de várias alterações, mas já não corresponde às profundas mutações verificadas no sector. Nestas circunstâncias, é conveniente revogar o Regulamento (CEE) n.o 1308/70 e o Regulamento (CEE) n.o 619/71 do Conselho, de 22 de Março de 1971, que fixa as regras gerais de concessão da ajuda para o linho e o cânhamo(10), o Regulamento (CEE) n.o 620/71 do Conselho, de 22 de Março de 1971, que estabelece disposições-tipo para os contratos que dizem respeito à venda do linho e do cânhamo em palha(11), o Regulamento (CEE) n.o 1172/71 do Conselho, de 3 de Junho de 1971, que estabelece as regras gerais relativas às ajudas à armazenagem privada de filamentos de linho e de cânhamo(12), o Regulamento (CEE) n.o 1430/82 do Conselho, de 18 de Maio de 1982, que prevê medidas restritivas à importação do cânhamo e sementes de cânhamo e que altera o Regulamento (CEE) n.o 1308/70 no que diz respeito ao cânhamo(13) e o Regulamento (CEE) n.o 2059/84 do Conselho, de 16 de Julho de 1984, que fixa as regras gerais relativas às medidas restritivas à importação de cânhamo e de sementes de cânhamo e altera o Regulamento (CEE) n.o 619/71 no que diz respeito ao cânhamo(14), que têm por base os Regulamentos (CEE) n.o 1308/70 e (CEE) n.o 619/71, são revogados e substituídos pelas novas disposições do presente regulamento.\n\n(17) A transição das disposições do Regulamento (CEE) n.o 1308/70 para as do presente regulamento pode criar dificuldades não previstas no presente regulamento. A fim de poder responder a esta eventualidade, é conveniente permitir à Comissão adoptar as medidas transitórias necessárias. É, igualmente, conveniente autorizar a Comissão a resolver problemas práticos específicos.\n\n(18) Tendo em conta a data de entrada em vigor do presente regulamento, é necessário prever medidas especiais para a campanha de 2000/2001. Para o efeito, é conveniente que o regime em vigor durante a campanha de 1999/2000 se mantenha aplicável até 30 de Junho de 2001. Todavia, os montantes da ajuda deverão ser fixados, pela Comissão, em função das disponibilidades orçamentais logo que exista uma estimativa fiável das superfícies em causa, sendo fixado em 0 o montante destinado ao financiamento das medidas que favorecem a utilização de filamentos de linho.\n\n(19) A fim de avaliar os efeitos das novas medidas, a Comissão submeterá ao Parlamento Europeu e ao Conselho relatórios relativos, por um lado, em 2003, às quantidades nacionais garantidas e à taxa máxima de impurezas e de cana das fibras curtas de linho e das fibras de cânhamo e, por outro lado, em 2005, ao impacto das ajudas à transformação e da ajuda complementar sobre os produtores e os mercados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "fa12abdaab5d17f8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras compreende um regime do mercado interno e um regime comercial com os países terceiros, aplicando-se aos seguintes produtos:\n\n>POSIÇÃO NUMA TABELA>\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) \"Agricultor\": o agricultor tal como definido na alínea a) do artigo 10.o do Regulamento (CE) n.o 1259/1999 do Conselho, de 17 de Maio de 1999, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum(15);\n\nb) \"Primeiro transformador aprovado\": a pessoa individual ou colectiva, ou o agrupamento de pessoas individuais ou colectivas, independentemente do estatuto jurídico conferido pela legislação nacional ao agrupamento bem como aos seus membros, aprovada pela autoridade competente do Estado-Membro em cujo território estão situadas as suas instalações destinadas à produção de fibras de linho e de cânhamo.\n\n3. O presente regulamento é aplicável sem prejuízo das medidas previstas pelo Regulamento (CE) n.o 1251/1999."
+  },
+  "46f9a41d1a2bd665": {
+   "fragment_id": "TÍTULO I — Mercado interno",
+   "type": "divisao",
+   "heading": "TÍTULO I — Mercado interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Mercado interno"
+  },
+  "8c2e075267b68086": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. É instaurada uma ajuda à transformação de palhas de linho e de cânhamo destinados à produção de fibras.\n\nA ajuda é concedida ao primeiro transformador aprovado, em função da quantidade de fibras efectivamente obtida a partir das palhas em relação às quais tenha sido celebrado um contrato de compra e venda com um agricultor.\n\nTodavia:\n\na) No caso de o primeiro transformador aprovado e o agricultor serem a mesma pessoa, o contrato de compra e venda é substituído por um compromisso do interessado de efectuar ele próprio a transformação,\n\nb) No caso de o agricultor conservar a propriedade da palha que manda transformar sob contrato por um primeiro transformador aprovado e provar que colocou no mercado as fibras obtidas, a ajuda é concedida ao agricultor.\n\n2. Não será paga nenhuma ajuda a favor de um primeiro transformador aprovado ou de um agricultor acerca do qual seja estabelecido que criou artificialmente as condições requeridas para dela beneficiar e fruir, assim, de uma vantagem não conforme com os objectivos do presente regime.\n\n3. O montante da ajuda à transformação, por tonelada de fibra, é fixado do seguinte modo:\n\na) No que respeita às fibras longas de linho:\n\n- 100 euros para a campanha de comercialização 2001/2002,\n\n- 160 euros para as campanhas de comercialização 2002/2003, 2003/2004, 2004/2005 e 2005/2006,\n\n- 200 euros a partir da campanha de comercialização 2006/2007;\n\nb) No que respeita às fibras curtas de linho e às fibras de cânhamo, contendo no máximo 7,5 % de impurezas e de cana: 90 euros para as campanhas de comercialização 2001/2002 a 2005/2006.\n\nTodavia, para as campanhas de 2001/2002 a 2003/2004, o Estado-Membro pode, em função dos mercados tradicionais, decidir conceder igualmente a ajuda:\n\n- para fibras curtas de linho que contenham uma percentagem de impurezas e de cana compreendida entre 7,5 % e 15 %,\n\n- para fibras de cânhamo que contenham uma percentagem de impurezas e de cana compreendida entre 7,5 % e 25 %.\n\nNestes casos, o Estado-Membro concede a ajuda para uma quantidade que, no máximo, equivale, com base em 7,5 % de impurezas e de cana, à quantidade produzida.\n\n4. As quantidades de fibras elegíveis para ajuda são limitadas em função das superfícies que tenham sido objecto de um dos contratos ou do compromisso referidos no n.o 1.\n\nOs limites referidos no primeiro parágrafo são fixados pelos Estados-Membros de modo a respeitar as quantidades nacionais garantidas referidas no artigo 3.o\n\n5. A pedido do primeiro transformador aprovado, é pago um adiantamento sobre a ajuda em função das quantidades de fibras obtidas."
+  },
+  "733a5193d3cafa6b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. É estabelecida para as fibras longas de linho uma quantidade máxima garantida de 75250 toneladas por campanha de comercialização, repartida entre todos os Estados-Membros sob a forma de quantidades nacionais garantidas. É a seguinte a repartição dessa quantidade:\n\n- 13800 toneladas para a Bélgica,\n\n- 300 toneladas para a Alemanha,\n\n- 50 toneladas para a Espanha,\n\n- 55800 toneladas para a França,\n\n- 4800 toneladas para os Países Baixos,\n\n- 150 toneladas para a Áustria,\n\n- 50 toneladas para Portugal,\n\n- 200 toneladas para a Finlândia,\n\n- 50 toneladas para a Suécia,\n\n- 50 toneladas para o Reino Unido.\n\n2. É estabelecida uma quantidade máxima garantida de 135900 toneladas por campanha de comercialização para as fibras curtas de linho e as fibras de cânhamo às quais pode ser concedida a ajuda. Esta quantidade é repartida sob a forma:\n\na) De quantidades nacionais garantidas para os seguintes Estados-Membros:\n\n- 10350 toneladas para a Bélgica,\n\n- 12800 toneladas para a Alemanha,\n\n- 20000 toneladas para a Espanha,\n\n- 61350 toneladas para a França,\n\n- 5550 toneladas para os Países Baixos,\n\n- 2500 toneladas para a Áustria,\n\n- 1750 toneladas para Portugal,\n\n- 2250 toneladas para a Finlândia,\n\n- 2250 toneladas para a Suécia,\n\n- 12100 toneladas para o Reino Unido;\n\nb) De 5000 toneladas a repartir em quantidades nacionais garantidas, para cada campanha de comercialização, entre a Dinamarca, a Grécia, a Irlanda, a Itália e o Luxemburgo. A referida repartição é estabelecida em função das superfícies que são objecto de um dos contratos ou do compromisso referidos no n.o 1 do artigo 2.o\n\nAs quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo, eventualmente reduzidas em conformidade com o n.o 5, deixam de ser aplicáveis a partir da campanha 2006/2007.\n\n3. No caso de as fibras obtidas num Estado-Membro serem provenientes de palhas produzidas noutro Estado-Membro, as quantidades de fibras em causa devem ser imputadas na quantidade nacional garantida do Estado-Membro onde teve lugar a recolha das palhas. A ajuda é paga pelo Estado-Membro em cuja quantidade nacional garantida foi efectuada a imputação.\n\n4. Os Estados-Membros que o desejem podem transferir entre si, uma só vez e antes de 30 de Junho de 2001, uma parte das suas quantidades nacionais garantidas referidas no n.o 1 ou no n.o 2, eventualmente adaptadas em conformidade com o n.o 5. Neste caso, notificam do facto a Comissão, que informará os restantes Estados-Membros.\n\n5. Cada Estado-Membro pode transferir uma parte da sua quantidade nacional garantida referida no n.o 1 para sua quantidade nacional garantida referida no n.o 2 ou reciprocamente.\n\nAs transferências referidas no primeiro parágrafo efectuam-se com base na equivalência de 1 tonelada de fibra longa de linho a 2,2 toneladas de fibras curtas de linho e de fibras de cânhamo.\n\nOs montantes das ajudas à transformação são concedidos, no máximo, para as quantidades respectivamente referidas nos n.os 1 e 2, adaptadas em conformidade com os dois primeiros parágrafos do presente número e com o n.o 4."
+  },
+  "6b9706e76c57233c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAté à campanha de comercialização 2005/2006, é concedida uma ajuda complementar ao primeiro transformador aprovado para as superfícies de linho situadas nas zonas I e II descritas no anexo e cuja produção de palha seja objecto:\n\n- do contrato de compra e venda ou do compromisso referidos no n.o 1 do artigo 2.o, e\n\n- de uma ajuda à transformação em fibras longas.\n\nO montante da ajuda complementar é de 120 euros por hectare na zona I e de 50 euros por hectare na zona II."
+  },
+  "557cd0aaa1825f19": {
+   "fragment_id": "TÍTULO II — Comércio com países terceiros",
+   "type": "divisao",
+   "heading": "TÍTULO II — Comércio com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Comércio com países terceiros"
+  },
+  "56f6579e801db8f6": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O presente artigo aplica-se sem prejuízo de disposições mais restritivas adoptadas pelos Estados-Membros no respeito do Tratado e das obrigações decorrentes dos acordos da Organização Mundial do Comércio sobre a agricultura.\n\n2. Todas as importações de cânhamo em proveniência de países terceiros estão sujeitas à emissão de um certificado nas seguintes condições:\n\n- o cânhamo em bruto do código NC 5302 10 00 e proveniente de países terceiros deve preencher as condições previstas no artigo 5.oA do Regulamento (CE) n.o 1251/1999,\n\n- as sementes destinadas a sementeira de variedades de cânhamo, do código NC 1207 99 10, devem ser acompanhadas da prova de que o teor de tetra-hidrocanabinol não é superior ao fixado nos termos do artigo 5.oA do Regulamento (CE) n.o 1251/1999,\n\n- as sementes de cânhamo não destinadas a sementeira, do código NC 1207 99 91, só podem ser importadas por importadores aprovados pelo Estado-Membro, por forma a assegurar que o seu destino não seja a sementeira.\n\nTodas as importações para a Comunidade dos produtos referidos nos primeiro e segundo travessões estão sujeitas a um sistema de controlo que permita verificar o cumprimento das condições previstas no presente artigo."
+  },
+  "670981f5cf442e3c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSalvo disposições em contrário do presente regulamento ou adoptadas nos termos de uma das disposições deste, são proibidas, no comércio com os países terceiros:\n\n- a cobrança de qualquer encargo de efeito equivalente a um direito aduaneiro,\n\n- a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "a0925d88fe61d043": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Se, devido às importações ou exportações, o mercado comunitário de um ou vários dos produtos a que se refere o n.o 1 do artigo 1.o sofrer ou correr o risco de sofrer perturbações graves que possam pôr em perigo os objectivos do artigo 33.o do Tratado, podem ser aplicadas medidas adequadas ao comércio com países terceiros até que desapareça a perturbação ou ameaça de perturbação.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as regras gerais de aplicação do presente número e definirá os casos e limites em que os Estados-Membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação prevista no n.o 1, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas aos Estados-Membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, tomará uma decisão no prazo de três dias úteis seguintes ao da recepção.\n\n3. Qualquer Estado-Membro pode submeter à apreciação do Conselho a medida tomada pela Comissão no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada, pode alterar ou anular a medida em causa no prazo de um mês a contar do dia em que foi submetida à sua apreciação.\n\n4. O disposto no presente artigo será aplicado tendo em conta as obrigações decorrentes dos acordos celebrados em conformidade com o n.o 2 do artigo 300.o do Tratado."
+  },
+  "a0c7e7dbf76cdbab": {
+   "fragment_id": "TÍTULO III — Disposições gerais",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições gerais"
+  },
+  "8b0b6cb0cbfedcf8": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSob reserva de disposições em contrário do presente regulamento, os artigos 87.o, 88.o e 89.o do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no n.o 1 do artigo 1.o do presente regulamento."
+  },
+  "4bb619a99c3d6e6a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs medidas necessárias à execução do presente regulamento relativas aos assuntos adiante indicados são aprovadas pelo procedimento de gestão a que se refere o n.o 2 do artigo 10.o Trata-se, nomeadamente:\n\n- das condições de aprovação dos primeiros transformadores,\n\n- das condições a respeitar, pelos primeiros transformadores aprovados, no tocante aos contratos de compra e venda e aos compromissos referidos no n.o 1 do artigo 2.o,\n\n- das condições a respeitar, pelos agricultores, no caso referido no n.o 1, alínea b), do artigo 2.o,\n\n- dos critérios a respeitar, por um lado, em relação às fibras longas de linho e, por outro, em relação às fibras curtas de linho e às fibras de cânhamo,\n\n- das regras do cálculo das quantidades elegíveis para a ajuda nos casos referidos no n.o 3, alínea b), segundo parágrafo, do artigo 2.o,\n\n- das condições de concessão da ajuda e do adiantamento e em particular dos elementos comprovativos da transformação das palhas,\n\n- das condições a respeitar para a fixação dos limites referidos no n.o 4 do artigo 2.o,\n\n- da repartição da quantidade de 5000 toneladas referida no n.o 2, alínea b), do artigo 3.o,\n\n- das condições de transferência entre as quantidades nacionais garantidas referidas no n.o 5 do artigo 3.o,\n\n- das condições de concessão da ajuda complementar referida no artigo 4.o\n\nAs regras podem, além disso, dizer respeito a qualquer medida de controlo necessária para proteger os interesses financeiros da Comunidade contra as fraudes e outras irregularidades."
+  },
+  "0fd5c440d2b13102": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité de Gestão das Fibras Naturais, a seguir denominado \"comité\".\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE.\n\nO período previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de um mês.\n\n3. O comité pode examinar qualquer questão evocada pelo seu presidente, quer por sua iniciativa, quer a pedido do representante de um Estado-Membro.\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "f5049e068559e559": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Regulamento (CE) n.o 1258/1999 e as disposições adoptadas para a sua execução são aplicáveis aos produtos referido no n.o 1 do artigo 1.o do presente regulamento."
+  },
+  "58aa601d0c88b21e": {
+   "fragment_id": "TÍTULO IV — Disposições transitórias e finais",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Disposições transitórias e finais"
+  },
+  "ddfef141cf6a5f40": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Para a campanha de comercialização 2000/2001, os montantes da ajuda para o linho e o cânhamo produzidos na Comunidade serão fixados, até 31 de Outubro de 2000, nos termos do n.o 2 do artigo 10.o\n\nEsses montantes serão determinados aplicando, aos montantes em vigor para a campanha 1999/2000, um coeficiente igual à relação entre:\n\n- a despesa média por hectare correspondente a um total de 88 milhões de euros para o conjunto das superfícies resultante das declarações de cultura, e\n\n- a despesa média de 721 euros por hectare estimada para a campanha de 1999/2000.\n\nTodavia, os montantes da ajuda para a campanha 2000/2001 não poderão exceder os fixados para a campanha 1999/2000.\n\n2. Para a campanha de comercialização 2000/2001, o montante a reter sobre a ajuda para o linho, destinado ao financiamento das medidas que favorecem a utilização dos filamentos de linho é fixado em 0 euros por hectare.\n\n3. A campanha de comercialização 2000/2001 termina em 30 de Junho de 2001."
+  },
+  "0dab272f264d2aa4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSão revogados, a partir de 1 de Julho de 2001, os Regulamentos (CEE) n.o 1308/70, (CEE) n.o 619/71, (CEE) n.o 620/71, (CEE) n.o 1172/71, (CEE) n.o 1430/82 e (CEE) n.o 2059/84."
+  },
+  "63154938f518bf68": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA Comissão aprova nos termos do n.o 2 do artigo 10.o:\n\n- as medidas necessárias para facilitar a transição das disposições dos Regulamentos (CEE) n.o 1308/70 e (CEE) n.o 619/71 para as do presente regulamento,\n\n- as medidas necessárias para resolver problemas práticos específicos. Estas medidas, se forem devidamente justificadas, podem derrogar certas disposições do presente regulamento."
+  },
+  "4b1d5292309dba6e": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Até 31 de Dezembro de 2003, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório, eventualmente acompanhado de propostas, sobre as tendências da produção nos diferentes Estados-Membros e o impacto da reforma da organização comum de mercado sobre as possibilidades de escoamento e a viabilidade económica do sector. Será igualmente abordado 0 nível da taxa máxima de impurezas e de cana aplicável às fibras curtas de linho e às fibras de cânhamo.\n\nSendo caso disso, o relatório servirá de base para uma nova repartição e, eventualmente, um aumento, das quantidades nacionais garantidas. A Comissão tomará nomeadamente em conta o nível de produção, a capacidade de produção e as possibilidades de escoamento no mercado.\n\n2. Em 2005, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a ajuda à transformação, eventualmente acompanhado de propostas.\n\nO relatório incluirá uma avaliação do impacto da ajuda à transformação, nomeadamente sobre:\n\n- a situação dos produtores no que respeita às superfícies cultivadas e aos preços por eles obtidos,\n\n- as tendências dos mercados de fibras têxteis e o desenvolvimento de novos produtos,\n\n- a indústria de transformação.\n\nO relatório indicará, tendo em conta a produção alternativa, se a indústria está apta a funcionar segundo as orientações definidas. Tratará igualmente da possibilidade de perenizar para além da campanha 2005/2006 a ajuda à transformação por tonelada de fibras curtas de linho e de fibras de cânhamo, e a ajuda complementar por hectare de linho referida no artigo 4.o"
+  },
+  "63c207f9291f29d3": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nOs artigos 1.o a 11.o são aplicáveis a partir da campanha de comercialização 2001/2002.\n\nOs Regulamentos (CEE) n.o 1308/70 e (CEE) n.o 619/71 mantêm-se aplicáveis em relação às campanhas de comercialização 1998/1999, 1999/2000 e 2000/2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 27 de Julho de 2000.\n\nPelo Conselho\n\nO Presidente\n\nH. Védrine\n\n(1) JO C 56 E de 29.2.2000, p. 19.\n\n(2) Parecer emitido em 6 de Julho de 2000 (ainda não publicado no Jornal Oficial).\n\n(3) JO C 140 de 18.5.2000, p. 3.\n\n(4) Parecer emitido em 14 de Junho de 2000 (ainda não publicado no Jornal Oficial).\n\n(5) JO L 160 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1672/2000 (ver página 13 do presente Jornal Oficial).\n\n(6) JO L 146 de 4.7.1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2702/1999 (JO L 327 de 14.12.1999, p. 7).\n\n(7) JO L 336 de 23.12.1994, p. 22.\n\n(8) JO L 184 de 17.7.1999, p. 23.\n\n(9) JO L 160 de 26.6.1999, p. 103.\n\n(10) JO L 72 de 26.3.1971, p. 2. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1420/98 (JO L 19 de 4.7.1998, p. 7).\n\n(11) JO L 72 de 26.3.1971, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 713/95 (JO L 73 de 1.4.1995, p. 16).\n\n(12) JO L 123 de 5.6.1971, p. 7.\n\n(13) JO L 162 de 12.6.1982, p. 27. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 3290/94 (JO L 349 de 31.12.1994, p. 105).\n\n(14) JO L 191 de 19.7.1984, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 3290/94.\n\n(15) JO L 160 de 26.6.1999, p. 113."
+  },
+  "3d6ea46a23447a90": {
+   "fragment_id": "ANEXO — ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.o",
+   "type": "divisao",
+   "heading": "ANEXO — ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.o\n\nZONA I\n\n1. O território dos Países Baixos.\n\n2. As seguintes comunas belgas: Assenede, Beveren-Waas, Blankenberge, Bredene, Brugge, Damme, De Haan, De Panne, Diksmuide (sem Vladslo et Woumen), Gistel, Jabbeke, Knokke-Heist, Koksijde, Lo-Reninge, Middelkerke, Nieuwpoort, Oostende, Oudenburg, Sint-Gilli-Waas (apenas Meerdonk), Sint-Laureins, Veurne e Zuienkerke.\n\nZONA II\n\n1. As zonas belgas não abrangidas pela zona I.\n\n2. As seguintes zonas francesas:\n\n- o departamento do Norte,\n\n- os \"arrondissements\" de Béthune, de Lens, de Calais, de Saint-Omer e o cantão de Marquise no departamento de Pas-de-Calais,\n\n- os \"arrondissements\" de Saint-Quentin e de Vervins no departamento de l'Aisne,\n\n- o \"arrondissement\" de Charleville-Mézières no departamento das Ardenas."
+  },
+  "dd8ea86f406919df": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho de 2000\n\nque estabelece a organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0004)),\n\n(1) O funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados da adopção de uma política agrícola comum. Esta deve, nomeadamente, compreender uma organização comum dos mercados agrícolas, que pode assumir diversas formas segundo os produtos.\n\n(2) A política agrícola comum tem por finalidade realizar os objectivos do Tratado. No sector do linho e do cânhamo destinados à produção de fibras, além das disposições relativas aos pagamentos por superfície previstas pelo Regulamento (CE) n.º 1251/1999 do Conselho, de 17 de Maio de 1999, que institui um sistema de apoio aos produtores de determinadas culturas arvenses ([^5^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0005)), é necessário prever medidas relativas ao mercado interno, incluindo ajudas aos primeiros transformadores de palhas de linho e de cânhamo ou aos agricultores que mandam transformar as palhas por conta própria.\n\n(3) A fim de assegurar uma transformação efectiva das palhas de linho e de cânhamo, é conveniente sujeitar a concessão da ajuda a certas condições, nomeadamente a instauração de uma aprovação dos primeiros transformadores e a obrigação de um contrato de compra da palha por esses transformadores. Do mesmo modo, para combater possíveis abusos, a ajuda à transformação só é concedida em função da transformação das palhas, ou da utilização das fibras no mercado no caso em que o agricultor manda transformar as palhas por conta própria.\n\n(4) A fim de evitar uma má afectação dos fundos comunitários, é conveniente excluir da ajuda qualquer primeiro transformador ou qualquer agricultor acerca do qual seja estabelecido que criou artificialmente as condições requeridas para dela beneficiar e fruir, assim, de uma vantagem não conforme com os objectivos do regime de apoio destinado à transformação de palhas.\n\n(5) Atendendo às especificidades inerentes, por um lado, ao mercado das fibras longas de linho e, por outro, ao das fibras curtas de linho e das fibras de cânhamo, é conveniente diferenciar a ajuda em função cada uma das duas categorias de fibras obtidas. A fim de assegurar um nível total de apoio que permita à produção tradicional de fibras longas de linho subsistir em condições próximas das previstas pelo Regulamento (CEE) n.º 1308/70 do Conselho, de 4 de Julho de 1970, que estabelece a organização comum de mercado no sector do linho e do cânhamo ([^6^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0006)), é conveniente aumentar progressivamente o montante da ajuda, de modo a ter em conta a diminuição gradual do apoio por hectare concedido ao produtor no âmbito do Regulamento (CE) n.º 1251/1999 e a supressão, a prazo, da ajuda para as fibras curtas de linho. No que diz respeito às fibras curtas de linho e às fibras de cânhamo, é conveniente conceder um montante de ajuda que permita, durante um certo período, um ajustamento mútuo entre os novos produtos delas procedentes e os potenciais mercados que se abram. A fim de incentivar unicamente a produção das fibras curtas de linho e de fibras de cânhamo de qualidade é conveniente prever uma percentagem máxima de impurezas e de cana, bem como disposições transitórias que permitam à indústria transformadora adaptar-se a esta exigência.\n\n(6) A fim de ter em conta a situação particular do linho tradicional de certas zonas dos Países-Baixos, da Bélgica e da França, é necessário conceder, para as superfícies em causa, uma ajuda complementar transitória ao primeiro transformador das palhas.\n\n(7) A fim de evitar qualquer aumento fraudulento das quantidades elegíveis para ajuda, é conveniente que os Estados-Membros as limitem em função das superfícies cuja palha seja objecto de contratos ou de um compromisso de transformação.\n\n(8) Com o intuito de limitar as despesas decorrentes da aplicação do presente regulamento, é conveniente instaurar um mecanismo estabilizador para cada tipo de fibras obtidas, consoante se trate de fibras longas de linho, por um lado, ou de fibras curtas de linho e de fibras de cânhamo, por outro. A fim de contribuir para um nível razoável das produções em causa em cada um dos Estados-Membros, é necessário fixar uma quantidade máxima garantida para cada categoria de fibras e reparti-la pelos Estados-Membros sob a forma de quantidades nacionais garantidas. No entanto, as quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo são limitadas ao período que permita aos novos produtos delas procedentes ajustar-se ao mercado. As quantidades nacionais garantidas aplicam-se à ajuda à transformação e dizem respeito apenas ao regime previsto no Regulamento (CE) n.º 1251/1999. As quantidades nacionais garantidas são estabelecidas, nomeadamente, tendo em conta as superfícies médias de linho têxtil e de cânhamo mais recentes, se for caso disso adaptadas em função da sua proporção realmente produtiva, afectadas de rendimentos médios de fibras. Para os Estados-Membros cuja produção actual é baixa, é conveniente prever uma quantidade comum a repartir em cada campanha a fim de permitir uma adaptação ao desenvolvimento da sua produção.\n\n(9) A fim de permitir a cada Estado-Membro um ajustamento entre as quantidades de fibras obtidas, é conveniente prever condições de transferência entre as quantidades nacionais garantidas que lhe são atribuídas. Esta transferência de quantidades efectua-se em função de um coeficiente que assegure uma equivalência orçamental.\n\n(10) Os Estados-Membros produtores devem tomar as disposições necessárias para assegurar o bom funcionamento das medidas previstas para a concessão da ajuda. Além disso, devido aos prazos necessários para a transformação de todas as palhas da campanha, é instaurado como medida de controlo um sistema de adiantamento sobre a ajuda.\n\n(11) O conjunto das medidas inerentes ao regime comercial com os países terceiros deve permitir renunciar à aplicação de qualquer restrição quantitativa e à cobrança de qualquer imposição nas fronteiras externas da Comunidade. No entanto, em circunstâncias excepcionais, este mecanismo pode não funcionar devidamente. Para não deixar, em tais casos, o mercado comunitário sem defesa contra as perturbações que daí podem resultar, é conveniente permitir à Comunidade tomar rapidamente quaisquer medidas necessárias. Tais medidas devem ser conformes com as obrigações decorrentes dos acordos da Organização Mundial do Comércio sobre a agricultura ([^7^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0007)).\n\n(12) Para que a organização comum de mercado do cânhamo destinado à produção de fibras não seja perturbada por culturas ilícitas de cânhamo, é conveniente prever um controlo das importações de cânhamo e de sementes de cânhamo, a fim de assegurar que os produtos em causa ofereçam certas garantias no que diz respeito ao teor de tetrahidrocanabinol. Além disso, a importação de sementes de cânhamo não destinadas a sementeira deve ser subordinada a um regime de controlo que preveja um sistema de aprovação das importações em causa.\n\n(13) Ao longo da evolução dos mercados do linho e do cânhamo destinados à produção de fibras, os Estados-Membros e a Comissão devem comunicar-se mutuamente as informações necessárias à aplicação do presente regulamento.\n\n(14) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0008)).\n\n(15) As despesas suportadas pelos Estados-Membros devido às obrigações decorrentes da aplicação do presente regulamento devem ser financiadas pela Comunidade em conformidade com o Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^9^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0009)).\n\n(16) A organização comum de mercado no sector do linho e do cânhamo, definida no Regulamento (CEE) n.º 1308/70, foi objecto de várias alterações, mas já não corresponde às profundas mutações verificadas no sector. Nestas circunstâncias, é conveniente revogar o Regulamento (CEE) n.º 1308/70 e o Regulamento (CEE) n.º 619/71 do Conselho, de 22 de Março de 1971, que fixa as regras gerais de concessão da ajuda para o linho e o cânhamo ([^10^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0010)), o Regulamento (CEE) n.º 620/71 do Conselho, de 22 de Março de 1971, que estabelece disposições-tipo para os contratos que dizem respeito à venda do linho e do cânhamo em palha ([^11^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0011)), o Regulamento (CEE) n.º 1172/71 do Conselho, de 3 de Junho de 1971, que estabelece as regras gerais relativas às ajudas à armazenagem privada de filamentos de linho e de cânhamo ([^12^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0012)), o Regulamento (CEE) n.º 1430/82 do Conselho, de 18 de Maio de 1982, que prevê medidas restritivas à importação do cânhamo e sementes de cânhamo e que altera o Regulamento (CEE) n.º 1308/70 no que diz respeito ao cânhamo ([^13^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0013)) e o Regulamento (CEE) n.º 2059/84 do Conselho, de 16 de Julho de 1984, que fixa as regras gerais relativas às medidas restritivas à importação de cânhamo e de sementes de cânhamo e altera o Regulamento (CEE) n.º 619/71 no que diz respeito ao cânhamo ([^14^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0014)), que têm por base os Regulamentos (CEE) n.º 1308/70 e (CEE) n.º 619/71, são revogados e substituídos pelas novas disposições do presente regulamento.\n\n(17) A transição das disposições do Regulamento (CEE) n.º 1308/70 para as do presente regulamento pode criar dificuldades não previstas no presente regulamento. A fim de poder responder a esta eventualidade, é conveniente permitir à Comissão adoptar as medidas transitórias necessárias. É, igualmente, conveniente autorizar a Comissão a resolver problemas práticos específicos.\n\n(18) Tendo em conta a data de entrada em vigor do presente regulamento, é necessário prever medidas especiais para a campanha de 2000/2001. Para o efeito, é conveniente que o regime em vigor durante a campanha de 1999/2000 se mantenha aplicável até 30 de Junho de 2001. Todavia, os montantes da ajuda deverão ser fixados, pela Comissão, em função das disponibilidades orçamentais logo que exista uma estimativa fiável das superfícies em causa, sendo fixado em 0 o montante destinado ao financiamento das medidas que favorecem a utilização de filamentos de linho.\n\n(19) A fim de avaliar os efeitos das novas medidas, a Comissão submeterá ao Parlamento Europeu e ao Conselho relatórios relativos, por um lado, em 2003, às quantidades nacionais garantidas e à taxa máxima de impurezas e de cana das fibras curtas de linho e das fibras de cânhamo e, por outro lado, em 2005, ao impacto das ajudas à transformação e da ajuda complementar sobre os produtores e os mercados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "59e2d1e1401d51e1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras compreende um regime do mercado interno e um regime comercial com os países terceiros, aplicando-se aos seguintes produtos:\n\nCódigo NC Designação das mercadorias\n\n5301 Linho em bruto ou trabalhado, mas não fiado; estopas e desperdícios de linho (incluídos os desperdícios de fios e fiapos)\n\n5302 Cânhamo (*Cannabis sativa* L.) em bruto ou trabalhado, mas não fiado; estopas e desperdícios de cânhamo (incluídos os desperdícios de fios e fiapos)\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) «Agricultor»: o agricultor tal como definido na alínea a) do artigo 10.º do Regulamento (CE) n.º 1259/1999 do Conselho, de 17 de Maio de 1999, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum ([^15^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#E0015));\n\nb) «Primeiro transformador aprovado»: a pessoa individual ou colectiva, ou o agrupamento de pessoas individuais ou colectivas, independentemente do estatuto jurídico conferido pela legislação nacional ao agrupamento bem como aos seus membros, aprovada pela autoridade competente do Estado-Membro em cujo território estão situadas as suas instalações destinadas à produção de fibras de linho e de cânhamo.\n\n3. O presente regulamento é aplicável sem prejuízo das medidas previstas pelo Regulamento (CE) n.º 1251/1999."
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "d38765c9ae3ed20c": {
+   "fragment_id": "Mercado interno",
+   "type": "divisao",
+   "heading": "Mercado interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Mercado interno"
+  },
+  "35ca30595aa77a6a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. É instaurada uma ajuda à transformação de palhas de linho e de cânhamo destinados à produção de fibras.\n\nA ajuda é concedida ao primeiro transformador aprovado, em função da quantidade de fibras efectivamente obtida a partir das palhas em relação às quais tenha sido celebrado um contrato de compra e venda com um agricultor.\n\nTodavia:\n\na) No caso de o primeiro transformador aprovado e o agricultor serem a mesma pessoa, o contrato de compra e venda é substituído por um compromisso do interessado de efectuar ele próprio a transformação,\n\nb) No caso de o agricultor conservar a propriedade da palha que manda transformar sob contrato por um primeiro transformador aprovado e provar que colocou no mercado as fibras obtidas, a ajuda é concedida ao agricultor.\n\n2. Não será paga nenhuma ajuda a favor de um primeiro transformador aprovado ou de um agricultor acerca do qual seja estabelecido que criou artificialmente as condições requeridas para dela beneficiar e fruir, assim, de uma vantagem não conforme com os objectivos do presente regime.\n\n3. O montante da ajuda à transformação, por tonelada de fibra, é fixado do seguinte modo:\n\na) No que respeita às fibras longas de linho:\n\n— 100 euros para a campanha de comercialização 2001/2002,\n\n— 160 euros para as campanhas de comercialização 2002/2003, 2003/2004, 2004/2005 e 2005/2006,\n\n— 200 euros a partir da campanha de comercialização 2006/2007;\n\nb) No que respeita às fibras curtas de linho e às fibras de cânhamo, contendo no máximo 7,5 % de impurezas e de cana: 90 euros para as campanhas de comercialização 2001/2002 a 2005/2006.\n\n— para fibras curtas de linho que contenham uma percentagem de impurezas e de cana compreendida entre 7,5 % e 15 %,\n\n— para fibras de cânhamo que contenham uma percentagem de impurezas e de cana compreendida entre 7,5 % e 25 %.\n\n4. As quantidades de fibras elegíveis para ajuda são limitadas em função das superfícies que tenham sido objecto de um dos contratos ou do compromisso referidos no n.º 1.\n\nOs limites referidos no primeiro parágrafo são fixados pelos Estados-Membros de modo a respeitar as quantidades nacionais garantidas referidas no artigo 3.º\n\n5. A pedido do primeiro transformador aprovado, é pago um adiantamento sobre a ajuda em função das quantidades de fibras obtidas."
+  },
+  "b747e751812b4e96": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. É estabelecida para as fibras longas de linho uma quantidade máxima garantida 80 823 toneladas por campanha de comercialização, repartida entre todos os Estados-Membros sob a forma de quantidades nacionais garantidas. A repartição dessa quantidade é a seguinte:\n\n— 13 800 toneladas para a Bélgica,\n\n— 1 923 para a República Checa,\n\n— 300 toneladas para a Alemanha,\n\n— 30 toneladas para a Estónia,\n\n— 50 toneladas para a Espanha,\n\n— 55 800 toneladas para a França,\n\n— 360 toneladas para a Letónia,\n\n— 2 263 toneladas para a Lituânia,\n\n— 4 800 toneladas para os Países Baixos,\n\n— 150 toneladas para a Áustria,\n\n— 924 toneladas para a Polónia,\n\n— 50 toneladas para Portugal,\n\n— 73 toneladas para a Eslováquia,\n\n— 200 toneladas para a Finlândia,\n\n— 50 toneladas para a Suécia,\n\n— 50 toneladas para o Reino Unido.\n\nÉ estabelecida uma quantidade máxima garantida de 146 296 toneladas por campanha de comercialização para as fibras curtas de linho e as fibras de cânhamo às quais pode ser concedida a ajuda. Esta quantidade é repartida sob a forma:\n\na) De quantidades nacionais garantidas para os seguintes Estados-Membros:\n\n— 10 350 toneladas para a Bélgica,\n\n— 2 866 para a República Checa,\n\n— 12 800 toneladas para a Alemanha,\n\n— 42 toneladas para a Estónia,\n\n— 20 000 toneladas para a Espanha,\n\n— 61 350 toneladas para a França,\n\n— 1 313 toneladas para a Letónia,\n\n— 3 463 toneladas para a Lituânia,\n\n— 2 061 toneladas para a Hungria,\n\n— 5 550 toneladas para os Países Baixos,\n\n— 2 500 toneladas para a Áustria,\n\n— 462 toneladas para a Polónia,\n\n— 1 750 toneladas para Portugal,\n\n— 189 toneladas para a Eslováquia,\n\n— 2 250 toneladas para a Finlândia,\n\n— 2 250 toneladas para a Suécia,\n\n— 12 100 toneladas para o Reino Unido.\n\nb) De 5 000 toneladas a repartir em quantidades nacionais garantidas, para cada campanha de comercialização, entre a Dinamarca, a Grécia, a Irlanda, a Itália e o Luxemburgo. A referida repartição é estabelecida em função das superfícies que são objecto de um dos contratos ou do compromisso referidos no n.º 1 do artigo 2.º\n\nAs quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo, eventualmente reduzidas em conformidade com o n.º 5, deixam de ser aplicáveis a partir da campanha 2006/2007.\n\n3. No caso de as fibras obtidas num Estado-Membro serem provenientes de palhas produzidas noutro Estado-Membro, as quantidades de fibras em causa devem ser imputadas na quantidade nacional garantida do Estado-Membro onde teve lugar a recolha das palhas. A ajuda é paga pelo Estado-Membro em cuja quantidade nacional garantida foi efectuada a imputação.\n\n4. Os Estados-Membros que o desejem podem transferir entre si, uma só vez e antes de 30 de Junho de 2001, uma parte das suas quantidades nacionais garantidas referidas no n.º 1 ou no n.º 2, eventualmente adaptadas em conformidade com o n.º 5. Neste caso, notificam do facto a Comissão, que informará os restantes Estados-Membros.\n\n5. Cada Estado-Membro pode transferir uma parte da sua quantidade nacional garantida referida no n.º 1 para sua quantidade nacional garantida referida no n.º 2 ou reciprocamente.\n\nAs transferências referidas no primeiro parágrafo efectuam-se com base na equivalência de 1 tonelada de fibra longa de linho a 2,2 toneladas de fibras curtas de linho e de fibras de cânhamo.\n\nOs montantes das ajudas à transformação são concedidos, no máximo, para as quantidades respectivamente referidas nos n.^os^ 1 e 2, adaptadas em conformidade com os dois primeiros parágrafos do presente número e com o n.º 4."
+  },
+  "6e88873460d53bb6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAté à campanha de comercialização 2005/2006, é concedida uma ajuda complementar ao primeiro transformador aprovado para as superfícies de linho situadas nas zonas I e II descritas no anexo e cuja produção de palha seja objecto:\n\n— do contrato de compra e venda ou do compromisso referidos no n.º 1 do artigo 2.º, e\n\n— de uma ajuda à transformação em fibras longas.\n\nO montante da ajuda complementar é de 120 euros por hectare na zona I e de 50 euros por hectare na zona II."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "49d1c298c0cb85b3": {
+   "fragment_id": "Comércio com países terceiros",
+   "type": "divisao",
+   "heading": "Comércio com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Comércio com países terceiros"
+  },
+  "7daddd0eba031e46": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O presente artigo aplica-se sem prejuízo de disposições mais restritivas adoptadas pelos Estados-Membros no respeito do Tratado e das obrigações decorrentes dos acordos da Organização Mundial do Comércio sobre a agricultura.\n\n2. Todas as importações de cânhamo em proveniência de países terceiros estão sujeitas à emissão de um certificado nas seguintes condições:\n\n— o cânhamo em bruto do código NC 5302 10 00 e proveniente de países terceiros deve preencher as condições previstas no artigo 5.ºA do Regulamento (CE) n.º 1251/1999,\n\n— as sementes destinadas a sementeira de variedades de cânhamo, do código NC 1207 99 20, devem ser acompanhadas da prova de que o teor de tetra-hidrocanabinol não é superior ao fixado nos termos do artigo 5.ºA do Regulamento (CE) n.º 1251/1999,\n\n— as sementes de cânhamo não destinadas a sementeira, do código NC 1207 99 91, só podem ser importadas por importadores aprovados pelo Estado-Membro, por forma a assegurar que o seu destino não seja a sementeira.\n\nTodas as importações para a Comunidade dos produtos referidos nos primeiro e segundo travessões estão sujeitas a um sistema de controlo que permita verificar o cumprimento das condições previstas no presente artigo."
+  },
+  "d400e7ddaf3840cb": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSalvo disposições em contrário do presente regulamento ou adoptadas nos termos de uma das disposições deste, são proibidas, no comércio com os países terceiros:\n\n— a cobrança de qualquer encargo de efeito equivalente a um direito aduaneiro,\n\n— a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "3898da3d1fdbaae3": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Se, devido às importações ou exportações, o mercado comunitário de um ou vários dos produtos a que se refere o n.º 1 do artigo 1.º sofrer ou correr o risco de sofrer perturbações graves que possam pôr em perigo os objectivos do artigo 33.º do Tratado, podem ser aplicadas medidas adequadas ao comércio com países terceiros até que desapareça a perturbação ou ameaça de perturbação.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as regras gerais de aplicação do presente número e definirá os casos e limites em que os Estados-Membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação prevista no n.º 1, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas aos Estados-Membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, tomará uma decisão no prazo de três dias úteis seguintes ao da recepção.\n\n3. Qualquer Estado-Membro pode submeter à apreciação do Conselho a medida tomada pela Comissão no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada, pode alterar ou anular a medida em causa no prazo de um mês a contar do dia em que foi submetida à sua apreciação.\n\n4. O disposto no presente artigo será aplicado tendo em conta as obrigações decorrentes dos acordos celebrados em conformidade com o n.º 2 do artigo 300.º do Tratado."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "29efc758e35b79d7": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSob reserva de disposições em contrário do presente regulamento, os artigos 87.º, 88.º e 89.º do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no n.º 1 do artigo 1.º do presente regulamento."
+  },
+  "3e3cb744d6d61b1b": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs medidas necessárias à execução do presente regulamento relativas aos assuntos adiante indicados são aprovadas pelo procedimento de gestão a que se refere o n.º 2 do artigo 10.º Trata-se, nomeadamente:\n\n— das condições de aprovação dos primeiros transformadores,\n\n— das condições a respeitar, pelos primeiros transformadores aprovados, no tocante aos contratos de compra e venda e aos compromissos referidos no n.º 1 do artigo 2.º,\n\n— das condições a respeitar, pelos agricultores, no caso referido no n.º 1, alínea b), do artigo 2.º,\n\n— dos critérios a respeitar, por um lado, em relação às fibras longas de linho e, por outro, em relação às fibras curtas de linho e às fibras de cânhamo,\n\n— das regras do cálculo das quantidades elegíveis para a ajuda nos casos referidos no n.º 3, alínea b), segundo parágrafo, do artigo 2.º,\n\n— das condições de concessão da ajuda e do adiantamento e em particular dos elementos comprovativos da transformação das palhas,\n\n— das condições a respeitar para a fixação dos limites referidos no n.º 4 do artigo 2.º,\n\n— da repartição da quantidade de 5 000 toneladas referida no n.º 2, alínea b), do artigo 3.º,\n\n— das condições de transferência entre as quantidades nacionais garantidas referidas no n.º 5 do artigo 3.º,\n\n— das condições de concessão da ajuda complementar referida no artigo 4.º\n\nAs regras podem, além disso, dizer respeito a qualquer medida de controlo necessária para proteger os interesses financeiros da Comunidade contra as fraudes e outras irregularidades."
+  },
+  "9e842822817b6497": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité de Gestão das Fibras Naturais, a seguir denominado «comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO período previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité pode examinar qualquer questão evocada pelo seu presidente, quer por sua iniciativa, quer a pedido do representante de um Estado-Membro.\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "2b70f745275746fd": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO Regulamento (CE) n.º 1258/1999 e as disposições adoptadas para a sua execução são aplicáveis aos produtos referido no n.º 1 do artigo 1.º do presente regulamento."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "afdf9ed5f5653069": {
+   "fragment_id": "Disposições transitórias e finais",
+   "type": "divisao",
+   "heading": "Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições transitórias e finais"
+  },
+  "5c723f0b848ad6bc": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Para a campanha de comercialização 2000/2001, os montantes da ajuda para o linho e o cânhamo produzidos na Comunidade serão fixados, até 31 de Outubro de 2000, nos termos do n.º 2 do artigo 10.º\n\nEsses montantes serão determinados aplicando, aos montantes em vigor para a campanha 1999/2000, um coeficiente igual à relação entre:\n\n— a despesa média por hectare correspondente a um total de 88 milhões de euros para o conjunto das superfícies resultante das declarações de cultura, e\n\n— a despesa média de 721 euros por hectare estimada para a campanha de 1999/2000.\n\nTodavia, os montantes da ajuda para a campanha 2000/2001 não poderão exceder os fixados para a campanha 1999/2000.\n\n2. Para a campanha de comercialização 2000/2001, o montante a reter sobre a ajuda para o linho, destinado ao financiamento das medidas que favorecem a utilização dos filamentos de linho é fixado em 0 euros por hectare.\n\n3. A campanha de comercialização 2000/2001 termina em 30 de Junho de 2001."
+  },
+  "93161118cb567831": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSão revogados, a partir de 1 de Julho de 2001, os Regulamentos (CEE) n.º 1308/70, (CEE) n.º 619/71, (CEE) n.º 620/71, (CEE) n.º 1172/71, (CEE) n.º 1430/82 e (CEE) n.º 2059/84."
+  },
+  "0a329dde842d4f45": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA Comissão aprova nos termos do n.º 2 do artigo 10.º:\n\n— as medidas necessárias para facilitar a transição das disposições dos Regulamentos (CEE) n.º 1308/70 e (CEE) n.º 619/71 para as do presente regulamento,\n\n— as medidas necessárias para resolver problemas práticos específicos. Estas medidas, se forem devidamente justificadas, podem derrogar certas disposições do presente regulamento."
+  },
+  "d7cd8eb305cf8194": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Até 31 de Dezembro de 2003, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório, eventualmente acompanhado de propostas, sobre as tendências da produção nos diferentes Estados-Membros e o impacto da reforma da organização comum de mercado sobre as possibilidades de escoamento e a viabilidade económica do sector. Será igualmente abordado 0 nível da taxa máxima de impurezas e de cana aplicável às fibras curtas de linho e às fibras de cânhamo.\n\nSendo caso disso, o relatório servirá de base para uma nova repartição e, eventualmente, um aumento, das quantidades nacionais garantidas. A Comissão tomará nomeadamente em conta o nível de produção, a capacidade de produção e as possibilidades de escoamento no mercado.\n\n2. Em 2005, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a ajuda à transformação, eventualmente acompanhado de propostas.\n\nO relatório incluirá uma avaliação do impacto da ajuda à transformação, nomeadamente sobre:\n\n— a situação dos produtores no que respeita às superfícies cultivadas e aos preços por eles obtidos,\n\n— as tendências dos mercados de fibras têxteis e o desenvolvimento de novos produtos,\n\n— a indústria de transformação.\n\nO relatório indicará, tendo em conta a produção alternativa, se a indústria está apta a funcionar segundo as orientações definidas. Tratará igualmente da possibilidade de perenizar para além da campanha 2005/2006 a ajuda à transformação por tonelada de fibras curtas de linho e de fibras de cânhamo, e a ajuda complementar por hectare de linho referida no artigo 4.º"
+  },
+  "3ffd31ed7d98a737": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nOs artigos 1.º a 11.º são aplicáveis a partir da campanha de comercialização 2001/2002.\n\nOs Regulamentos (CEE) n.º 1308/70 e (CEE) n.º 619/71 mantêm-se aplicáveis em relação às campanhas de comercialização 1998/1999, 1999/2000 e 2000/2001.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "a1817265b7d4e8b2": {
+   "fragment_id": "ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.º",
+   "type": "divisao",
+   "heading": "ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ZONAS ELEGÍVEIS PARA A AJUDA REFERIDA NO ARTIGO 4.º"
+  },
+  "0e50020844ea0977": {
+   "fragment_id": "ZONA I",
+   "type": "divisao",
+   "heading": "ZONA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ZONA I\n\n1. O território dos Países Baixos.\n\n2. As seguintes comunas belgas: Assenede, Beveren-Waas, Blankenberge, Bredene, Brugge, Damme, De Haan, De Panne, Diksmuide (sem Vladslo et Woumen), Gistel, Jabbeke, Knokke-Heist, Koksijde, Lo-Reninge, Middelkerke, Nieuwpoort, Oostende, Oudenburg, Sint-Gilli-Waas (apenas Meerdonk), Sint-Laureins, Veurne e Zuienkerke."
+  },
+  "86a1c3646105ba43": {
+   "fragment_id": "ZONA II",
+   "type": "divisao",
+   "heading": "ZONA II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ZONA II\n\n1. As zonas belgas não abrangidas pela zona I.\n\n2. As seguintes zonas francesas:\n\n— o departamento do Norte,\n\n— os «arrondissements» de Béthune, de Lens, de Calais, de Saint-Omer e o cantão de Marquise no departamento de Pas-de-Calais,\n\n— os «arrondissements» de Saint-Quentin e de Vervins no departamento de l'Aisne,\n\n— o «arrondissement» de Charleville-Mézières no departamento das Ardenas.\n\n---"
+  },
+  "d5c5be02cb0a6e04": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0001)) JO C 56 E de 29.2.2000, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0002)) Parecer emitido em 6 de Julho de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0003)) JO C 140 de 18.5.2000, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0004)) Parecer emitido em 14 de Junho de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0005)) JO L 160 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1672/2000 (ver página 13 do presente Jornal Oficial).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0006)) JO L 146 de 4.7.1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2702/1999 (JO L 327 de 14.12.1999, p. 7).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 22.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0010)) JO L 72 de 26.3.1971, p. 2. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1420/98 (JO L 19 de 4.7.1998, p. 7).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0011)) JO L 72 de 26.3.1971, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 713/95 (JO L 73 de 1.4.1995, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0012)) JO L 123 de 5.6.1971, p. 7.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0013)) JO L 162 de 12.6.1982, p. 27. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94 (JO L 349 de 31.12.1994, p. 105).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0014)) JO L 191 de 19.7.1984, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/339d27a8-84ec-4fce-9792-197ee43b575a.0010.03/DOC_1#src.E0015)) JO L 160 de 26.6.1999, p. 113."
+  },
+  "ea492022d3527adb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho de 2000\n\nque estabelece a organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0004)),\n\n(1) O funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados da adopção de uma política agrícola comum. Esta deve, nomeadamente, compreender uma organização comum dos mercados agrícolas, que pode assumir diversas formas segundo os produtos.\n\n(2) A política agrícola comum tem por finalidade realizar os objectivos do Tratado. No sector do linho e do cânhamo destinados à produção de fibras, além das disposições relativas aos pagamentos por superfície previstas pelo Regulamento (CE) n.º 1251/1999 do Conselho, de 17 de Maio de 1999, que institui um sistema de apoio aos produtores de determinadas culturas arvenses ([^5^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0005)), é necessário prever medidas relativas ao mercado interno, incluindo ajudas aos primeiros transformadores de palhas de linho e de cânhamo ou aos agricultores que mandam transformar as palhas por conta própria.\n\n(3) A fim de assegurar uma transformação efectiva das palhas de linho e de cânhamo, é conveniente sujeitar a concessão da ajuda a certas condições, nomeadamente a instauração de uma aprovação dos primeiros transformadores e a obrigação de um contrato de compra da palha por esses transformadores. Do mesmo modo, para combater possíveis abusos, a ajuda à transformação só é concedida em função da transformação das palhas, ou da utilização das fibras no mercado no caso em que o agricultor manda transformar as palhas por conta própria.\n\n(4) A fim de evitar uma má afectação dos fundos comunitários, é conveniente excluir da ajuda qualquer primeiro transformador ou qualquer agricultor acerca do qual seja estabelecido que criou artificialmente as condições requeridas para dela beneficiar e fruir, assim, de uma vantagem não conforme com os objectivos do regime de apoio destinado à transformação de palhas.\n\n(5) Atendendo às especificidades inerentes, por um lado, ao mercado das fibras longas de linho e, por outro, ao das fibras curtas de linho e das fibras de cânhamo, é conveniente diferenciar a ajuda em função cada uma das duas categorias de fibras obtidas. A fim de assegurar um nível total de apoio que permita à produção tradicional de fibras longas de linho subsistir em condições próximas das previstas pelo Regulamento (CEE) n.º 1308/70 do Conselho, de 4 de Julho de 1970, que estabelece a organização comum de mercado no sector do linho e do cânhamo ([^6^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0006)), é conveniente aumentar progressivamente o montante da ajuda, de modo a ter em conta a diminuição gradual do apoio por hectare concedido ao produtor no âmbito do Regulamento (CE) n.º 1251/1999 e a supressão, a prazo, da ajuda para as fibras curtas de linho. No que diz respeito às fibras curtas de linho e às fibras de cânhamo, é conveniente conceder um montante de ajuda que permita, durante um certo período, um ajustamento mútuo entre os novos produtos delas procedentes e os potenciais mercados que se abram. A fim de incentivar unicamente a produção das fibras curtas de linho e de fibras de cânhamo de qualidade é conveniente prever uma percentagem máxima de impurezas e de cana, bem como disposições transitórias que permitam à indústria transformadora adaptar-se a esta exigência.\n\n(6) A fim de ter em conta a situação particular do linho tradicional de certas zonas dos Países-Baixos, da Bélgica e da França, é necessário conceder, para as superfícies em causa, uma ajuda complementar transitória ao primeiro transformador das palhas.\n\n(7) A fim de evitar qualquer aumento fraudulento das quantidades elegíveis para ajuda, é conveniente que os Estados-Membros as limitem em função das superfícies cuja palha seja objecto de contratos ou de um compromisso de transformação.\n\n(8) Com o intuito de limitar as despesas decorrentes da aplicação do presente regulamento, é conveniente instaurar um mecanismo estabilizador para cada tipo de fibras obtidas, consoante se trate de fibras longas de linho, por um lado, ou de fibras curtas de linho e de fibras de cânhamo, por outro. A fim de contribuir para um nível razoável das produções em causa em cada um dos Estados-Membros, é necessário fixar uma quantidade máxima garantida para cada categoria de fibras e reparti-la pelos Estados-Membros sob a forma de quantidades nacionais garantidas. No entanto, as quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo são limitadas ao período que permita aos novos produtos delas procedentes ajustar-se ao mercado. As quantidades nacionais garantidas aplicam-se à ajuda à transformação e dizem respeito apenas ao regime previsto no Regulamento (CE) n.º 1251/1999. As quantidades nacionais garantidas são estabelecidas, nomeadamente, tendo em conta as superfícies médias de linho têxtil e de cânhamo mais recentes, se for caso disso adaptadas em função da sua proporção realmente produtiva, afectadas de rendimentos médios de fibras. Para os Estados-Membros cuja produção actual é baixa, é conveniente prever uma quantidade comum a repartir em cada campanha a fim de permitir uma adaptação ao desenvolvimento da sua produção.\n\n(9) A fim de permitir a cada Estado-Membro um ajustamento entre as quantidades de fibras obtidas, é conveniente prever condições de transferência entre as quantidades nacionais garantidas que lhe são atribuídas. Esta transferência de quantidades efectua-se em função de um coeficiente que assegure uma equivalência orçamental.\n\n(10) Os Estados-Membros produtores devem tomar as disposições necessárias para assegurar o bom funcionamento das medidas previstas para a concessão da ajuda. Além disso, devido aos prazos necessários para a transformação de todas as palhas da campanha, é instaurado como medida de controlo um sistema de adiantamento sobre a ajuda.\n\n(11) O conjunto das medidas inerentes ao regime comercial com os países terceiros deve permitir renunciar à aplicação de qualquer restrição quantitativa e à cobrança de qualquer imposição nas fronteiras externas da Comunidade. No entanto, em circunstâncias excepcionais, este mecanismo pode não funcionar devidamente. Para não deixar, em tais casos, o mercado comunitário sem defesa contra as perturbações que daí podem resultar, é conveniente permitir à Comunidade tomar rapidamente quaisquer medidas necessárias. Tais medidas devem ser conformes com as obrigações decorrentes dos acordos da Organização Mundial do Comércio sobre a agricultura ([^7^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0007)).\n\n(12) Para que a organização comum de mercado do cânhamo destinado à produção de fibras não seja perturbada por culturas ilícitas de cânhamo, é conveniente prever um controlo das importações de cânhamo e de sementes de cânhamo, a fim de assegurar que os produtos em causa ofereçam certas garantias no que diz respeito ao teor de tetrahidrocanabinol. Além disso, a importação de sementes de cânhamo não destinadas a sementeira deve ser subordinada a um regime de controlo que preveja um sistema de aprovação das importações em causa.\n\n(13) Ao longo da evolução dos mercados do linho e do cânhamo destinados à produção de fibras, os Estados-Membros e a Comissão devem comunicar-se mutuamente as informações necessárias à aplicação do presente regulamento.\n\n(14) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0008)).\n\n(15) As despesas suportadas pelos Estados-Membros devido às obrigações decorrentes da aplicação do presente regulamento devem ser financiadas pela Comunidade em conformidade com o Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^9^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0009)).\n\n(16) A organização comum de mercado no sector do linho e do cânhamo, definida no Regulamento (CEE) n.º 1308/70, foi objecto de várias alterações, mas já não corresponde às profundas mutações verificadas no sector. Nestas circunstâncias, é conveniente revogar o Regulamento (CEE) n.º 1308/70 e o Regulamento (CEE) n.º 619/71 do Conselho, de 22 de Março de 1971, que fixa as regras gerais de concessão da ajuda para o linho e o cânhamo ([^10^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0010)), o Regulamento (CEE) n.º 620/71 do Conselho, de 22 de Março de 1971, que estabelece disposições-tipo para os contratos que dizem respeito à venda do linho e do cânhamo em palha ([^11^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0011)), o Regulamento (CEE) n.º 1172/71 do Conselho, de 3 de Junho de 1971, que estabelece as regras gerais relativas às ajudas à armazenagem privada de filamentos de linho e de cânhamo ([^12^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0012)), o Regulamento (CEE) n.º 1430/82 do Conselho, de 18 de Maio de 1982, que prevê medidas restritivas à importação do cânhamo e sementes de cânhamo e que altera o Regulamento (CEE) n.º 1308/70 no que diz respeito ao cânhamo ([^13^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0013)) e o Regulamento (CEE) n.º 2059/84 do Conselho, de 16 de Julho de 1984, que fixa as regras gerais relativas às medidas restritivas à importação de cânhamo e de sementes de cânhamo e altera o Regulamento (CEE) n.º 619/71 no que diz respeito ao cânhamo ([^14^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0014)), que têm por base os Regulamentos (CEE) n.º 1308/70 e (CEE) n.º 619/71, são revogados e substituídos pelas novas disposições do presente regulamento.\n\n(17) A transição das disposições do Regulamento (CEE) n.º 1308/70 para as do presente regulamento pode criar dificuldades não previstas no presente regulamento. A fim de poder responder a esta eventualidade, é conveniente permitir à Comissão adoptar as medidas transitórias necessárias. É, igualmente, conveniente autorizar a Comissão a resolver problemas práticos específicos.\n\n(18) Tendo em conta a data de entrada em vigor do presente regulamento, é necessário prever medidas especiais para a campanha de 2000/2001. Para o efeito, é conveniente que o regime em vigor durante a campanha de 1999/2000 se mantenha aplicável até 30 de Junho de 2001. Todavia, os montantes da ajuda deverão ser fixados, pela Comissão, em função das disponibilidades orçamentais logo que exista uma estimativa fiável das superfícies em causa, sendo fixado em 0 o montante destinado ao financiamento das medidas que favorecem a utilização de filamentos de linho.\n\n(19) A fim de avaliar os efeitos das novas medidas, a Comissão submeterá ao Parlamento Europeu e ao Conselho relatórios relativos, por um lado, em 2003, às quantidades nacionais garantidas e à taxa máxima de impurezas e de cana das fibras curtas de linho e das fibras de cânhamo e, por outro lado, em 2005, ao impacto das ajudas à transformação e da ajuda complementar sobre os produtores e os mercados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2e5bd6964a2a6877": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras compreende um regime do mercado interno e um regime comercial com os países terceiros, aplicando-se aos seguintes produtos:\n\nCódigo NC Designação das mercadorias\n\n5301 Linho em bruto ou trabalhado, mas não fiado; estopas e desperdícios de linho (incluídos os desperdícios de fios e fiapos)\n\n5302 Cânhamo (*Cannabis sativa* L.) em bruto ou trabalhado, mas não fiado; estopas e desperdícios de cânhamo (incluídos os desperdícios de fios e fiapos)\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) «Agricultor»: o agricultor tal como definido na alínea a) do artigo 2.º do Regulamento (CE) n.º 1782/2003, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores ([^15^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#E0016));\n\nb) «Primeiro transformador aprovado»: a pessoa individual ou colectiva, ou o agrupamento de pessoas individuais ou colectivas, independentemente do estatuto jurídico conferido pela legislação nacional ao agrupamento bem como aos seus membros, aprovada pela autoridade competente do Estado-Membro em cujo território estão situadas as suas instalações destinadas à produção de fibras de linho e de cânhamo.\n\n3. O presente regulamento é aplicável sem prejuízo das medidas previstas pelo [**►M2**](http://publications.europa.eu/resource/celex/32003R1782) artigo 52.º do Regulamento (CE) n.º 1782/2003**◄**."
+  },
+  "c8962d8169a581da": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O presente artigo aplica-se sem prejuízo de disposições mais restritivas adoptadas pelos Estados-Membros no respeito do Tratado e das obrigações decorrentes dos acordos da Organização Mundial do Comércio sobre a agricultura.\n\n2. Todas as importações de cânhamo em proveniência de países terceiros estão sujeitas à emissão de um certificado nas seguintes condições:\n\n— o cânhamo em bruto do código NC 5302 10 00 e proveniente de países terceiros deve preencher as condições previstas no [**►M2**](http://publications.europa.eu/resource/celex/32003R1782) artigo 52.º do Regulamento (CE) n.º 1782/2003**◄**,\n\n— as sementes destinadas a sementeira de variedades de cânhamo, do código NC 1207 99 20, devem ser acompanhadas da prova de que o teor de tetra-hidrocanabinol não é superior ao fixado nos termos do [**►M2**](http://publications.europa.eu/resource/celex/32003R1782) artigo 52.º do Regulamento (CE) n.º 1782/2003**◄**,\n\n— as sementes de cânhamo não destinadas a sementeira, do código NC 1207 99 91, só podem ser importadas por importadores aprovados pelo Estado-Membro, por forma a assegurar que o seu destino não seja a sementeira.\n\nTodas as importações para a Comunidade dos produtos referidos nos primeiro e segundo travessões estão sujeitas a um sistema de controlo que permita verificar o cumprimento das condições previstas no presente artigo."
+  },
+  "ce67642a9780cafc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0001)) JO C 56 E de 29.2.2000, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0002)) Parecer emitido em 6 de Julho de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0003)) JO C 140 de 18.5.2000, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0004)) Parecer emitido em 14 de Junho de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0005)) JO L 160 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1672/2000 (ver página 13 do presente Jornal Oficial).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0006)) JO L 146 de 4.7.1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2702/1999 (JO L 327 de 14.12.1999, p. 7).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 22.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0010)) JO L 72 de 26.3.1971, p. 2. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1420/98 (JO L 19 de 4.7.1998, p. 7).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0011)) JO L 72 de 26.3.1971, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 713/95 (JO L 73 de 1.4.1995, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0012)) JO L 123 de 5.6.1971, p. 7.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0013)) JO L 162 de 12.6.1982, p. 27. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94 (JO L 349 de 31.12.1994, p. 105).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0014)) JO L 191 de 19.7.1984, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/ba3ca5fb-fa7e-433d-8d33-265332789220.0017.03/DOC_1#src.E0016)) JO L 270 de 21.10.2003, p. 1."
+  },
+  "336f4bf066a0c57a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho de 2000\n\nque estabelece a organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0004)),\n\n(1) O funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados da adopção de uma política agrícola comum. Esta deve, nomeadamente, compreender uma organização comum dos mercados agrícolas, que pode assumir diversas formas segundo os produtos.\n\n(2) A política agrícola comum tem por finalidade realizar os objectivos do Tratado. No sector do linho e do cânhamo destinados à produção de fibras, além das disposições relativas aos pagamentos por superfície previstas pelo Regulamento (CE) n.º 1251/1999 do Conselho, de 17 de Maio de 1999, que institui um sistema de apoio aos produtores de determinadas culturas arvenses ([^5^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0005)), é necessário prever medidas relativas ao mercado interno, incluindo ajudas aos primeiros transformadores de palhas de linho e de cânhamo ou aos agricultores que mandam transformar as palhas por conta própria.\n\n(3) A fim de assegurar uma transformação efectiva das palhas de linho e de cânhamo, é conveniente sujeitar a concessão da ajuda a certas condições, nomeadamente a instauração de uma aprovação dos primeiros transformadores e a obrigação de um contrato de compra da palha por esses transformadores. Do mesmo modo, para combater possíveis abusos, a ajuda à transformação só é concedida em função da transformação das palhas, ou da utilização das fibras no mercado no caso em que o agricultor manda transformar as palhas por conta própria.\n\n(4) A fim de evitar uma má afectação dos fundos comunitários, é conveniente excluir da ajuda qualquer primeiro transformador ou qualquer agricultor acerca do qual seja estabelecido que criou artificialmente as condições requeridas para dela beneficiar e fruir, assim, de uma vantagem não conforme com os objectivos do regime de apoio destinado à transformação de palhas.\n\n(5) Atendendo às especificidades inerentes, por um lado, ao mercado das fibras longas de linho e, por outro, ao das fibras curtas de linho e das fibras de cânhamo, é conveniente diferenciar a ajuda em função cada uma das duas categorias de fibras obtidas. A fim de assegurar um nível total de apoio que permita à produção tradicional de fibras longas de linho subsistir em condições próximas das previstas pelo Regulamento (CEE) n.º 1308/70 do Conselho, de 4 de Julho de 1970, que estabelece a organização comum de mercado no sector do linho e do cânhamo ([^6^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0006)), é conveniente aumentar progressivamente o montante da ajuda, de modo a ter em conta a diminuição gradual do apoio por hectare concedido ao produtor no âmbito do Regulamento (CE) n.º 1251/1999 e a supressão, a prazo, da ajuda para as fibras curtas de linho. No que diz respeito às fibras curtas de linho e às fibras de cânhamo, é conveniente conceder um montante de ajuda que permita, durante um certo período, um ajustamento mútuo entre os novos produtos delas procedentes e os potenciais mercados que se abram. A fim de incentivar unicamente a produção das fibras curtas de linho e de fibras de cânhamo de qualidade é conveniente prever uma percentagem máxima de impurezas e de cana, bem como disposições transitórias que permitam à indústria transformadora adaptar-se a esta exigência.\n\n(6) A fim de ter em conta a situação particular do linho tradicional de certas zonas dos Países-Baixos, da Bélgica e da França, é necessário conceder, para as superfícies em causa, uma ajuda complementar transitória ao primeiro transformador das palhas.\n\n(7) A fim de evitar qualquer aumento fraudulento das quantidades elegíveis para ajuda, é conveniente que os Estados-Membros as limitem em função das superfícies cuja palha seja objecto de contratos ou de um compromisso de transformação.\n\n(8) Com o intuito de limitar as despesas decorrentes da aplicação do presente regulamento, é conveniente instaurar um mecanismo estabilizador para cada tipo de fibras obtidas, consoante se trate de fibras longas de linho, por um lado, ou de fibras curtas de linho e de fibras de cânhamo, por outro. A fim de contribuir para um nível razoável das produções em causa em cada um dos Estados-Membros, é necessário fixar uma quantidade máxima garantida para cada categoria de fibras e reparti-la pelos Estados-Membros sob a forma de quantidades nacionais garantidas. No entanto, as quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo são limitadas ao período que permita aos novos produtos delas procedentes ajustar-se ao mercado. As quantidades nacionais garantidas aplicam-se à ajuda à transformação e dizem respeito apenas ao regime previsto no Regulamento (CE) n.º 1251/1999. As quantidades nacionais garantidas são estabelecidas, nomeadamente, tendo em conta as superfícies médias de linho têxtil e de cânhamo mais recentes, se for caso disso adaptadas em função da sua proporção realmente produtiva, afectadas de rendimentos médios de fibras. Para os Estados-Membros cuja produção actual é baixa, é conveniente prever uma quantidade comum a repartir em cada campanha a fim de permitir uma adaptação ao desenvolvimento da sua produção.\n\n(9) A fim de permitir a cada Estado-Membro um ajustamento entre as quantidades de fibras obtidas, é conveniente prever condições de transferência entre as quantidades nacionais garantidas que lhe são atribuídas. Esta transferência de quantidades efectua-se em função de um coeficiente que assegure uma equivalência orçamental.\n\n(10) Os Estados-Membros produtores devem tomar as disposições necessárias para assegurar o bom funcionamento das medidas previstas para a concessão da ajuda. Além disso, devido aos prazos necessários para a transformação de todas as palhas da campanha, é instaurado como medida de controlo um sistema de adiantamento sobre a ajuda.\n\n(11) O conjunto das medidas inerentes ao regime comercial com os países terceiros deve permitir renunciar à aplicação de qualquer restrição quantitativa e à cobrança de qualquer imposição nas fronteiras externas da Comunidade. No entanto, em circunstâncias excepcionais, este mecanismo pode não funcionar devidamente. Para não deixar, em tais casos, o mercado comunitário sem defesa contra as perturbações que daí podem resultar, é conveniente permitir à Comunidade tomar rapidamente quaisquer medidas necessárias. Tais medidas devem ser conformes com as obrigações decorrentes dos acordos da Organização Mundial do Comércio sobre a agricultura ([^7^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0007)).\n\n(12) Para que a organização comum de mercado do cânhamo destinado à produção de fibras não seja perturbada por culturas ilícitas de cânhamo, é conveniente prever um controlo das importações de cânhamo e de sementes de cânhamo, a fim de assegurar que os produtos em causa ofereçam certas garantias no que diz respeito ao teor de tetrahidrocanabinol. Além disso, a importação de sementes de cânhamo não destinadas a sementeira deve ser subordinada a um regime de controlo que preveja um sistema de aprovação das importações em causa.\n\n(13) Ao longo da evolução dos mercados do linho e do cânhamo destinados à produção de fibras, os Estados-Membros e a Comissão devem comunicar-se mutuamente as informações necessárias à aplicação do presente regulamento.\n\n(14) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0008)).\n\n(15) As despesas suportadas pelos Estados-Membros devido às obrigações decorrentes da aplicação do presente regulamento devem ser financiadas pela Comunidade em conformidade com o Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^9^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0009)).\n\n(16) A organização comum de mercado no sector do linho e do cânhamo, definida no Regulamento (CEE) n.º 1308/70, foi objecto de várias alterações, mas já não corresponde às profundas mutações verificadas no sector. Nestas circunstâncias, é conveniente revogar o Regulamento (CEE) n.º 1308/70 e o Regulamento (CEE) n.º 619/71 do Conselho, de 22 de Março de 1971, que fixa as regras gerais de concessão da ajuda para o linho e o cânhamo ([^10^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0010)), o Regulamento (CEE) n.º 620/71 do Conselho, de 22 de Março de 1971, que estabelece disposições-tipo para os contratos que dizem respeito à venda do linho e do cânhamo em palha ([^11^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0011)), o Regulamento (CEE) n.º 1172/71 do Conselho, de 3 de Junho de 1971, que estabelece as regras gerais relativas às ajudas à armazenagem privada de filamentos de linho e de cânhamo ([^12^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0012)), o Regulamento (CEE) n.º 1430/82 do Conselho, de 18 de Maio de 1982, que prevê medidas restritivas à importação do cânhamo e sementes de cânhamo e que altera o Regulamento (CEE) n.º 1308/70 no que diz respeito ao cânhamo ([^13^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0013)) e o Regulamento (CEE) n.º 2059/84 do Conselho, de 16 de Julho de 1984, que fixa as regras gerais relativas às medidas restritivas à importação de cânhamo e de sementes de cânhamo e altera o Regulamento (CEE) n.º 619/71 no que diz respeito ao cânhamo ([^14^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0014)), que têm por base os Regulamentos (CEE) n.º 1308/70 e (CEE) n.º 619/71, são revogados e substituídos pelas novas disposições do presente regulamento.\n\n(17) A transição das disposições do Regulamento (CEE) n.º 1308/70 para as do presente regulamento pode criar dificuldades não previstas no presente regulamento. A fim de poder responder a esta eventualidade, é conveniente permitir à Comissão adoptar as medidas transitórias necessárias. É, igualmente, conveniente autorizar a Comissão a resolver problemas práticos específicos.\n\n(18) Tendo em conta a data de entrada em vigor do presente regulamento, é necessário prever medidas especiais para a campanha de 2000/2001. Para o efeito, é conveniente que o regime em vigor durante a campanha de 1999/2000 se mantenha aplicável até 30 de Junho de 2001. Todavia, os montantes da ajuda deverão ser fixados, pela Comissão, em função das disponibilidades orçamentais logo que exista uma estimativa fiável das superfícies em causa, sendo fixado em 0 o montante destinado ao financiamento das medidas que favorecem a utilização de filamentos de linho.\n\n(19) A fim de avaliar os efeitos das novas medidas, a Comissão submeterá ao Parlamento Europeu e ao Conselho relatórios relativos, por um lado, em 2003, às quantidades nacionais garantidas e à taxa máxima de impurezas e de cana das fibras curtas de linho e das fibras de cânhamo e, por outro lado, em 2005, ao impacto das ajudas à transformação e da ajuda complementar sobre os produtores e os mercados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3840177d7025229c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras compreende um regime do mercado interno e um regime comercial com os países terceiros, aplicando-se aos seguintes produtos:\n\nCódigo NC Designação das mercadorias\n\n5301 Linho em bruto ou trabalhado, mas não fiado; estopas e desperdícios de linho (incluídos os desperdícios de fios e fiapos)\n\n5302 Cânhamo (*Cannabis sativa* L.) em bruto ou trabalhado, mas não fiado; estopas e desperdícios de cânhamo (incluídos os desperdícios de fios e fiapos)\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) «Agricultor»: o agricultor tal como definido na alínea a) do artigo 2.º do Regulamento (CE) n.º 1782/2003, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores ([^15^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#E0015));\n\nb) «Primeiro transformador aprovado»: a pessoa individual ou colectiva, ou o agrupamento de pessoas individuais ou colectivas, independentemente do estatuto jurídico conferido pela legislação nacional ao agrupamento bem como aos seus membros, aprovada pela autoridade competente do Estado-Membro em cujo território estão situadas as suas instalações destinadas à produção de fibras de linho e de cânhamo.\n\n3. O presente regulamento é aplicável sem prejuízo das medidas previstas pelo [**►M2**](http://publications.europa.eu/resource/celex/32003R1782) artigo 52.º do Regulamento (CE) n.º 1782/2003**◄**."
+  },
+  "57085bdb7c28ae53": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. É instaurada uma ajuda à transformação de palhas de linho e de cânhamo destinados à produção de fibras.\n\nA ajuda é concedida ao primeiro transformador aprovado, em função da quantidade de fibras efectivamente obtida a partir das palhas em relação às quais tenha sido celebrado um contrato de compra e venda com um agricultor.\n\nTodavia:\n\na) No caso de o primeiro transformador aprovado e o agricultor serem a mesma pessoa, o contrato de compra e venda é substituído por um compromisso do interessado de efectuar ele próprio a transformação,\n\nb) No caso de o agricultor conservar a propriedade da palha que manda transformar sob contrato por um primeiro transformador aprovado e provar que colocou no mercado as fibras obtidas, a ajuda é concedida ao agricultor.\n\n2. Não será paga nenhuma ajuda a favor de um primeiro transformador aprovado ou de um agricultor acerca do qual seja estabelecido que criou artificialmente as condições requeridas para dela beneficiar e fruir, assim, de uma vantagem não conforme com os objectivos do presente regime.\n\n3. O montante da ajuda à transformação, por tonelada de fibra, é fixado do seguinte modo:\n\na) No que respeita às fibras longas de linho:\n\n— 100 EUR para a campanha de comercialização de 2001/2002,\n\n— 160 EUR para as campanhas de comercialização de 2002/2003 a 2007/2008,\n\n— 200 EUR a partir da campanha de comercialização de 2008/2009;\n\nb) No que respeita às fibras curtas de linho e às fibras de cânhamo contendo no máximo 7,5 % de impurezas e de cana: 90 EUR para as campanhas de comercialização de 2001/2002 a 2007/2008.\n\n— para fibras curtas de linho que contenham uma percentagem de impurezas e de cana compreendida entre 7,5 % e 15 %,\n\n— para fibras de cânhamo que contenham uma percentagem de impurezas e de cana compreendida entre 7,5 % e 25 %.\n\n4. As quantidades de fibras elegíveis para ajuda são limitadas em função das superfícies que tenham sido objecto de um dos contratos ou do compromisso referidos no n.º 1.\n\nOs limites referidos no primeiro parágrafo são fixados pelos Estados-Membros de modo a respeitar as quantidades nacionais garantidas referidas no artigo 3.º\n\n5. A pedido do primeiro transformador aprovado, é pago um adiantamento sobre a ajuda em função das quantidades de fibras obtidas."
+  },
+  "cd368ed89fe61344": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. É estabelecida para as fibras longas de linho uma quantidade máxima garantida 80 823 toneladas por campanha de comercialização, repartida entre todos os Estados-Membros sob a forma de quantidades nacionais garantidas. A repartição dessa quantidade é a seguinte:\n\n— 13 800 toneladas para a Bélgica,\n\n— 1 923 para a República Checa,\n\n— 300 toneladas para a Alemanha,\n\n— 30 toneladas para a Estónia,\n\n— 50 toneladas para a Espanha,\n\n— 55 800 toneladas para a França,\n\n— 360 toneladas para a Letónia,\n\n— 2 263 toneladas para a Lituânia,\n\n— 4 800 toneladas para os Países Baixos,\n\n— 150 toneladas para a Áustria,\n\n— 924 toneladas para a Polónia,\n\n— 50 toneladas para Portugal,\n\n— 73 toneladas para a Eslováquia,\n\n— 200 toneladas para a Finlândia,\n\n— 50 toneladas para a Suécia,\n\n— 50 toneladas para o Reino Unido.\n\nÉ estabelecida uma quantidade máxima garantida de 146 296 toneladas por campanha de comercialização para as fibras curtas de linho e as fibras de cânhamo às quais pode ser concedida a ajuda. Esta quantidade é repartida sob a forma:\n\na) De quantidades nacionais garantidas para os seguintes Estados-Membros:\n\n— 10 350 toneladas para a Bélgica,\n\n— 2 866 para a República Checa,\n\n— 12 800 toneladas para a Alemanha,\n\n— 42 toneladas para a Estónia,\n\n— 20 000 toneladas para a Espanha,\n\n— 61 350 toneladas para a França,\n\n— 1 313 toneladas para a Letónia,\n\n— 3 463 toneladas para a Lituânia,\n\n— 2 061 toneladas para a Hungria,\n\n— 5 550 toneladas para os Países Baixos,\n\n— 2 500 toneladas para a Áustria,\n\n— 462 toneladas para a Polónia,\n\n— 1 750 toneladas para Portugal,\n\n— 189 toneladas para a Eslováquia,\n\n— 2 250 toneladas para a Finlândia,\n\n— 2 250 toneladas para a Suécia,\n\n— 12 100 toneladas para o Reino Unido.\n\nb) De 5 000 toneladas a repartir em quantidades nacionais garantidas, para cada campanha de comercialização, entre a Dinamarca, a Grécia, a Irlanda, a Itália e o Luxemburgo. A referida repartição é estabelecida em função das superfícies que são objecto de um dos contratos ou do compromisso referidos no n.º 1 do artigo 2.º\n\nAs quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo deixam de se aplicar a partir da campanha de comercialização de 2008/2009.\n\n3. No caso de as fibras obtidas num Estado-Membro serem provenientes de palhas produzidas noutro Estado-Membro, as quantidades de fibras em causa devem ser imputadas na quantidade nacional garantida do Estado-Membro onde teve lugar a recolha das palhas. A ajuda é paga pelo Estado-Membro em cuja quantidade nacional garantida foi efectuada a imputação.\n\n4. Os Estados-Membros que o desejem podem transferir entre si, uma só vez e antes de 30 de Junho de 2001, uma parte das suas quantidades nacionais garantidas referidas no n.º 1 ou no n.º 2, eventualmente adaptadas em conformidade com o n.º 5. Neste caso, notificam do facto a Comissão, que informará os restantes Estados-Membros.\n\n5. Cada Estado-Membro pode transferir uma parte da sua quantidade nacional garantida referida no n.º 1 para sua quantidade nacional garantida referida no n.º 2 ou reciprocamente.\n\nAs transferências referidas no primeiro parágrafo efectuam-se com base na equivalência de 1 tonelada de fibra longa de linho a 2,2 toneladas de fibras curtas de linho e de fibras de cânhamo.\n\nOs montantes das ajudas à transformação são concedidos, no máximo, para as quantidades respectivamente referidas nos n.^os^ 1 e 2, adaptadas em conformidade com os dois primeiros parágrafos do presente número e com o n.º 4."
+  },
+  "f540a2a93ec2f5ed": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAté à campanha de comercialização [**►M4**](http://publications.europa.eu/resource/celex/32006R0953) 2007/2008**◄**, é concedida uma ajuda complementar ao primeiro transformador aprovado para as superfícies de linho situadas nas zonas I e II descritas no anexo e cuja produção de palha seja objecto:\n\n— do contrato de compra e venda ou do compromisso referidos no n.º 1 do artigo 2.º, e\n\n— de uma ajuda à transformação em fibras longas.\n\nO montante da ajuda complementar é de 120 euros por hectare na zona I e de 50 euros por hectare na zona II."
+  },
+  "25749e0e03f73fdf": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Até 31 de Dezembro de 2003, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório, eventualmente acompanhado de propostas, sobre as tendências da produção nos diferentes Estados-Membros e o impacto da reforma da organização comum de mercado sobre as possibilidades de escoamento e a viabilidade económica do sector. Será igualmente abordado 0 nível da taxa máxima de impurezas e de cana aplicável às fibras curtas de linho e às fibras de cânhamo.\n\nSendo caso disso, o relatório servirá de base para uma nova repartição e, eventualmente, um aumento, das quantidades nacionais garantidas. A Comissão tomará nomeadamente em conta o nível de produção, a capacidade de produção e as possibilidades de escoamento no mercado.\n\n2. Em 2005, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a ajuda à transformação, eventualmente acompanhado de propostas.\n\nO relatório incluirá uma avaliação do impacto da ajuda à transformação, nomeadamente sobre:\n\n— a situação dos produtores no que respeita às superfícies cultivadas e aos preços por eles obtidos,\n\n— as tendências dos mercados de fibras têxteis e o desenvolvimento de novos produtos,\n\n— a indústria de transformação.\n\nO relatório indicará, tendo em conta a produção alternativa, se a indústria está apta a funcionar segundo as orientações definidas. Tratará igualmente da possibilidade de perenizar para além da campanha 2005/2006 a ajuda à transformação por tonelada de fibras curtas de linho e de fibras de cânhamo, e a ajuda complementar por hectare de linho referida no artigo 4.º\n\n3. A Comissão deve apresentar um relatório ao Parlamento Europeu e ao Conselho, se necessário acompanhado de propostas, com antecedência suficiente para permitir a aplicação das medidas propostas durante a campanha de comercialização de 2008/2009.\n\nO relatório deve apreciar o impacto da ajuda à transformação nos produtores, na indústria transformadora e no mercado das fibras têxteis. Deve examinar a possibilidade de prorrogar a ajuda à transformação das fibras curtas de linho e das fibras de cânhamo, bem como a ajuda complementar, para além da campanha de comercialização de 2007/2008 e a possibilidade de integrar este regime de ajuda no quadro geral de apoio aos agricultores no âmbito da política agrícola comum, estabelecido pelo Regulamento (CE) n.º 1782/2003."
+  },
+  "ba76ec0216efad71": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0001)) JO C 56 E de 29.2.2000, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0002)) Parecer emitido em 6 de Julho de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0003)) JO C 140 de 18.5.2000, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0004)) Parecer emitido em 14 de Junho de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0005)) JO L 160 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1672/2000 (ver página 13 do presente Jornal Oficial).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0006)) JO L 146 de 4.7.1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2702/1999 (JO L 327 de 14.12.1999, p. 7).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 22.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0010)) JO L 72 de 26.3.1971, p. 2. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1420/98 (JO L 19 de 4.7.1998, p. 7).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0011)) JO L 72 de 26.3.1971, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 713/95 (JO L 73 de 1.4.1995, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0012)) JO L 123 de 5.6.1971, p. 7.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0013)) JO L 162 de 12.6.1982, p. 27. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94 (JO L 349 de 31.12.1994, p. 105).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0014)) JO L 191 de 19.7.1984, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/2476ded5-8ef2-464e-a508-5548205b0814.0016.03/DOC_1#src.E0015)) JO L 270 de 21.10.2003, p. 1."
+  },
+  "601af1b78f74008c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho de 2000\n\nque estabelece a organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0004)),\n\n(1) O funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados da adopção de uma política agrícola comum. Esta deve, nomeadamente, compreender uma organização comum dos mercados agrícolas, que pode assumir diversas formas segundo os produtos.\n\n(2) A política agrícola comum tem por finalidade realizar os objectivos do Tratado. No sector do linho e do cânhamo destinados à produção de fibras, além das disposições relativas aos pagamentos por superfície previstas pelo Regulamento (CE) n.º 1251/1999 do Conselho, de 17 de Maio de 1999, que institui um sistema de apoio aos produtores de determinadas culturas arvenses ([^5^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0005)), é necessário prever medidas relativas ao mercado interno, incluindo ajudas aos primeiros transformadores de palhas de linho e de cânhamo ou aos agricultores que mandam transformar as palhas por conta própria.\n\n(3) A fim de assegurar uma transformação efectiva das palhas de linho e de cânhamo, é conveniente sujeitar a concessão da ajuda a certas condições, nomeadamente a instauração de uma aprovação dos primeiros transformadores e a obrigação de um contrato de compra da palha por esses transformadores. Do mesmo modo, para combater possíveis abusos, a ajuda à transformação só é concedida em função da transformação das palhas, ou da utilização das fibras no mercado no caso em que o agricultor manda transformar as palhas por conta própria.\n\n(4) A fim de evitar uma má afectação dos fundos comunitários, é conveniente excluir da ajuda qualquer primeiro transformador ou qualquer agricultor acerca do qual seja estabelecido que criou artificialmente as condições requeridas para dela beneficiar e fruir, assim, de uma vantagem não conforme com os objectivos do regime de apoio destinado à transformação de palhas.\n\n(5) Atendendo às especificidades inerentes, por um lado, ao mercado das fibras longas de linho e, por outro, ao das fibras curtas de linho e das fibras de cânhamo, é conveniente diferenciar a ajuda em função cada uma das duas categorias de fibras obtidas. A fim de assegurar um nível total de apoio que permita à produção tradicional de fibras longas de linho subsistir em condições próximas das previstas pelo Regulamento (CEE) n.º 1308/70 do Conselho, de 4 de Julho de 1970, que estabelece a organização comum de mercado no sector do linho e do cânhamo ([^6^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0006)), é conveniente aumentar progressivamente o montante da ajuda, de modo a ter em conta a diminuição gradual do apoio por hectare concedido ao produtor no âmbito do Regulamento (CE) n.º 1251/1999 e a supressão, a prazo, da ajuda para as fibras curtas de linho. No que diz respeito às fibras curtas de linho e às fibras de cânhamo, é conveniente conceder um montante de ajuda que permita, durante um certo período, um ajustamento mútuo entre os novos produtos delas procedentes e os potenciais mercados que se abram. A fim de incentivar unicamente a produção das fibras curtas de linho e de fibras de cânhamo de qualidade é conveniente prever uma percentagem máxima de impurezas e de cana, bem como disposições transitórias que permitam à indústria transformadora adaptar-se a esta exigência.\n\n(6) A fim de ter em conta a situação particular do linho tradicional de certas zonas dos Países-Baixos, da Bélgica e da França, é necessário conceder, para as superfícies em causa, uma ajuda complementar transitória ao primeiro transformador das palhas.\n\n(7) A fim de evitar qualquer aumento fraudulento das quantidades elegíveis para ajuda, é conveniente que os Estados-Membros as limitem em função das superfícies cuja palha seja objecto de contratos ou de um compromisso de transformação.\n\n(8) Com o intuito de limitar as despesas decorrentes da aplicação do presente regulamento, é conveniente instaurar um mecanismo estabilizador para cada tipo de fibras obtidas, consoante se trate de fibras longas de linho, por um lado, ou de fibras curtas de linho e de fibras de cânhamo, por outro. A fim de contribuir para um nível razoável das produções em causa em cada um dos Estados-Membros, é necessário fixar uma quantidade máxima garantida para cada categoria de fibras e reparti-la pelos Estados-Membros sob a forma de quantidades nacionais garantidas. No entanto, as quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo são limitadas ao período que permita aos novos produtos delas procedentes ajustar-se ao mercado. As quantidades nacionais garantidas aplicam-se à ajuda à transformação e dizem respeito apenas ao regime previsto no Regulamento (CE) n.º 1251/1999. As quantidades nacionais garantidas são estabelecidas, nomeadamente, tendo em conta as superfícies médias de linho têxtil e de cânhamo mais recentes, se for caso disso adaptadas em função da sua proporção realmente produtiva, afectadas de rendimentos médios de fibras. Para os Estados-Membros cuja produção actual é baixa, é conveniente prever uma quantidade comum a repartir em cada campanha a fim de permitir uma adaptação ao desenvolvimento da sua produção.\n\n(9) A fim de permitir a cada Estado-Membro um ajustamento entre as quantidades de fibras obtidas, é conveniente prever condições de transferência entre as quantidades nacionais garantidas que lhe são atribuídas. Esta transferência de quantidades efectua-se em função de um coeficiente que assegure uma equivalência orçamental.\n\n(10) Os Estados-Membros produtores devem tomar as disposições necessárias para assegurar o bom funcionamento das medidas previstas para a concessão da ajuda. Além disso, devido aos prazos necessários para a transformação de todas as palhas da campanha, é instaurado como medida de controlo um sistema de adiantamento sobre a ajuda.\n\n(11) O conjunto das medidas inerentes ao regime comercial com os países terceiros deve permitir renunciar à aplicação de qualquer restrição quantitativa e à cobrança de qualquer imposição nas fronteiras externas da Comunidade. No entanto, em circunstâncias excepcionais, este mecanismo pode não funcionar devidamente. Para não deixar, em tais casos, o mercado comunitário sem defesa contra as perturbações que daí podem resultar, é conveniente permitir à Comunidade tomar rapidamente quaisquer medidas necessárias. Tais medidas devem ser conformes com as obrigações decorrentes dos acordos da Organização Mundial do Comércio sobre a agricultura ([^7^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0007)).\n\n(12) Para que a organização comum de mercado do cânhamo destinado à produção de fibras não seja perturbada por culturas ilícitas de cânhamo, é conveniente prever um controlo das importações de cânhamo e de sementes de cânhamo, a fim de assegurar que os produtos em causa ofereçam certas garantias no que diz respeito ao teor de tetrahidrocanabinol. Além disso, a importação de sementes de cânhamo não destinadas a sementeira deve ser subordinada a um regime de controlo que preveja um sistema de aprovação das importações em causa.\n\n(13) Ao longo da evolução dos mercados do linho e do cânhamo destinados à produção de fibras, os Estados-Membros e a Comissão devem comunicar-se mutuamente as informações necessárias à aplicação do presente regulamento.\n\n(14) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0008)).\n\n(15) As despesas suportadas pelos Estados-Membros devido às obrigações decorrentes da aplicação do presente regulamento devem ser financiadas pela Comunidade em conformidade com o Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^9^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0009)).\n\n(16) A organização comum de mercado no sector do linho e do cânhamo, definida no Regulamento (CEE) n.º 1308/70, foi objecto de várias alterações, mas já não corresponde às profundas mutações verificadas no sector. Nestas circunstâncias, é conveniente revogar o Regulamento (CEE) n.º 1308/70 e o Regulamento (CEE) n.º 619/71 do Conselho, de 22 de Março de 1971, que fixa as regras gerais de concessão da ajuda para o linho e o cânhamo ([^10^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0010)), o Regulamento (CEE) n.º 620/71 do Conselho, de 22 de Março de 1971, que estabelece disposições-tipo para os contratos que dizem respeito à venda do linho e do cânhamo em palha ([^11^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0011)), o Regulamento (CEE) n.º 1172/71 do Conselho, de 3 de Junho de 1971, que estabelece as regras gerais relativas às ajudas à armazenagem privada de filamentos de linho e de cânhamo ([^12^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0012)), o Regulamento (CEE) n.º 1430/82 do Conselho, de 18 de Maio de 1982, que prevê medidas restritivas à importação do cânhamo e sementes de cânhamo e que altera o Regulamento (CEE) n.º 1308/70 no que diz respeito ao cânhamo ([^13^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0013)) e o Regulamento (CEE) n.º 2059/84 do Conselho, de 16 de Julho de 1984, que fixa as regras gerais relativas às medidas restritivas à importação de cânhamo e de sementes de cânhamo e altera o Regulamento (CEE) n.º 619/71 no que diz respeito ao cânhamo ([^14^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0014)), que têm por base os Regulamentos (CEE) n.º 1308/70 e (CEE) n.º 619/71, são revogados e substituídos pelas novas disposições do presente regulamento.\n\n(17) A transição das disposições do Regulamento (CEE) n.º 1308/70 para as do presente regulamento pode criar dificuldades não previstas no presente regulamento. A fim de poder responder a esta eventualidade, é conveniente permitir à Comissão adoptar as medidas transitórias necessárias. É, igualmente, conveniente autorizar a Comissão a resolver problemas práticos específicos.\n\n(18) Tendo em conta a data de entrada em vigor do presente regulamento, é necessário prever medidas especiais para a campanha de 2000/2001. Para o efeito, é conveniente que o regime em vigor durante a campanha de 1999/2000 se mantenha aplicável até 30 de Junho de 2001. Todavia, os montantes da ajuda deverão ser fixados, pela Comissão, em função das disponibilidades orçamentais logo que exista uma estimativa fiável das superfícies em causa, sendo fixado em 0 o montante destinado ao financiamento das medidas que favorecem a utilização de filamentos de linho.\n\n(19) A fim de avaliar os efeitos das novas medidas, a Comissão submeterá ao Parlamento Europeu e ao Conselho relatórios relativos, por um lado, em 2003, às quantidades nacionais garantidas e à taxa máxima de impurezas e de cana das fibras curtas de linho e das fibras de cânhamo e, por outro lado, em 2005, ao impacto das ajudas à transformação e da ajuda complementar sobre os produtores e os mercados,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3e032d17aa9cd1ec": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras compreende um regime do mercado interno e um regime comercial com os países terceiros, aplicando-se aos seguintes produtos:\n\nCódigo NC Designação das mercadorias\n\n5301 Linho em bruto ou trabalhado, mas não fiado; estopas e desperdícios de linho (incluídos os desperdícios de fios e fiapos)\n\n5302 Cânhamo (*Cannabis sativa* L.) em bruto ou trabalhado, mas não fiado; estopas e desperdícios de cânhamo (incluídos os desperdícios de fios e fiapos)\n\n2. Para efeitos do presente regulamento, entende-se por:\n\na) «Agricultor»: o agricultor tal como definido na alínea a) do artigo 2.º do Regulamento (CE) n.º 1782/2003, de 29 de Setembro de 2003, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores ([^15^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#E0015));\n\nb) «Primeiro transformador aprovado»: a pessoa individual ou colectiva, ou o agrupamento de pessoas individuais ou colectivas, independentemente do estatuto jurídico conferido pela legislação nacional ao agrupamento bem como aos seus membros, aprovada pela autoridade competente do Estado-Membro em cujo território estão situadas as suas instalações destinadas à produção de fibras de linho e de cânhamo.\n\n3. O presente regulamento é aplicável sem prejuízo das medidas previstas pelo [**►M2**](http://publications.europa.eu/resource/celex/32003R1782) artigo 52.º do Regulamento (CE) n.º 1782/2003**◄**."
+  },
+  "36602107fecf883f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. É estabelecida para as fibras longas de linho uma quantidade máxima garantida 80 878 toneladas por campanha de comercialização, repartida entre todos os Estados‐Membros sob a forma de quantidades nacionais garantidas. A repartição dessa quantidade é a seguinte:\n\n— 13 800 toneladas para a Bélgica,\n\n— 13 toneladas para a Bulgária,\n\n— 1923 para a República Checa,\n\n— 300 toneladas para a Alemanha,\n\n— 30 toneladas para a Estónia,\n\n— 50 toneladas para a Espanha,\n\n— 55 800 toneladas para a França,\n\n— 360 toneladas para a Letónia,\n\n— 2 263 toneladas para a Lituânia,\n\n— 4 800 toneladas para os Países Baixos,\n\n— 150 toneladas para a Áustria,\n\n— 924 toneladas para a Polónia,\n\n— 50 toneladas para Portugal,\n\n— 42 toneladas para a Roménia,\n\n— 73 toneladas para a Eslováquia,\n\n— 200 toneladas para a Finlândia,\n\n— 50 toneladas para a Suécia,\n\n— 50 toneladas para o Reino Unido.\n\n2. É estabelecida uma quantidade máxima garantida de 147 265 toneladas por campanha de comercialização para as fibras curtas de linho e as fibras de cânhamo às quais pode ser concedida a ajuda. Esta quantidade é repartida sob a forma:\n\na) De quantidades nacionais garantidas para os seguintes Estados‐Membros:\n\n— 10 350 toneladas para a Bélgica,\n\n— 48 toneladas para a Bulgária,\n\n— 2 866 para a República Checa,\n\n— 12 800 toneladas para a Alemanha,\n\n— 42 toneladas para a Estónia,\n\n— 20 000 toneladas para a Espanha,\n\n— 61 350 toneladas para a França,\n\n— 1 313 toneladas para a Letónia,\n\n— 3 463 toneladas para a Lituânia,\n\n— 2 061 toneladas para a Hungria,\n\n— 5 550 toneladas para os Países Baixos,\n\n— 2 500 toneladas para a Áustria,\n\n— 462 toneladas para a Polónia,\n\n— 1 750 toneladas para Portugal,\n\n— 921 toneladas para a Lituânia,\n\n— 189 toneladas para a Eslováquia,\n\n— 2 250 toneladas para a Finlândia,\n\n— 2 250 toneladas para a Suécia,\n\n— 12 100 toneladas para o Reino Unido.\n\nb) De 5 000 toneladas a repartir em quantidades nacionais garantidas, para cada campanha de comercialização, entre a Dinamarca, a Grécia, a Irlanda, a Itália e o Luxemburgo. A referida repartição é estabelecida em função das superfícies que são objecto de um dos contratos ou do compromisso referidos no n.º 1 do artigo 2.º\n\nAs quantidades nacionais garantidas para as fibras curtas de linho e as fibras de cânhamo deixam de se aplicar a partir da campanha de comercialização de 2008/2009.\n\n3. No caso de as fibras obtidas num Estado-Membro serem provenientes de palhas produzidas noutro Estado-Membro, as quantidades de fibras em causa devem ser imputadas na quantidade nacional garantida do Estado-Membro onde teve lugar a recolha das palhas. A ajuda é paga pelo Estado-Membro em cuja quantidade nacional garantida foi efectuada a imputação.\n\n4. Os Estados-Membros que o desejem podem transferir entre si, uma só vez e antes de 30 de Junho de 2001, uma parte das suas quantidades nacionais garantidas referidas no n.º 1 ou no n.º 2, eventualmente adaptadas em conformidade com o n.º 5. Neste caso, notificam do facto a Comissão, que informará os restantes Estados-Membros.\n\n5. Cada Estado-Membro pode transferir uma parte da sua quantidade nacional garantida referida no n.º 1 para sua quantidade nacional garantida referida no n.º 2 ou reciprocamente.\n\nAs transferências referidas no primeiro parágrafo efectuam-se com base na equivalência de 1 tonelada de fibra longa de linho a 2,2 toneladas de fibras curtas de linho e de fibras de cânhamo.\n\nOs montantes das ajudas à transformação são concedidos, no máximo, para as quantidades respectivamente referidas nos n.^os^ 1 e 2, adaptadas em conformidade com os dois primeiros parágrafos do presente número e com o n.º 4."
+  },
+  "09fbf689ff966158": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0001)) JO C 56 E de 29.2.2000, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0002)) Parecer emitido em 6 de Julho de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0003)) JO C 140 de 18.5.2000, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0004)) Parecer emitido em 14 de Junho de 2000 (ainda não publicado no Jornal Oficial).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0005)) JO L 160 de 26.6.1999, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1672/2000 (ver página 13 do presente Jornal Oficial).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0006)) JO L 146 de 4.7.1970, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2702/1999 (JO L 327 de 14.12.1999, p. 7).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 22.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0009)) JO L 160 de 26.6.1999, p. 103.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0010)) JO L 72 de 26.3.1971, p. 2. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1420/98 (JO L 19 de 4.7.1998, p. 7).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0011)) JO L 72 de 26.3.1971, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 713/95 (JO L 73 de 1.4.1995, p. 16).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0012)) JO L 123 de 5.6.1971, p. 7.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0013)) JO L 162 de 12.6.1982, p. 27. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94 (JO L 349 de 31.12.1994, p. 105).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0014)) JO L 191 de 19.7.1984, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 3290/94.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/5958d5fd-8f20-4956-9bcb-f0d4d3515fba.0018.03/DOC_1#src.E0015)) JO L 270 de 21.10.2003, p. 1."
+  },
+  "6052bcd2036632e9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R1673 — PT — 01.07.2008 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R1673) [REGULAMENTO (CE) N.º 1673/2000 DO CONSELHO](http://publications.europa.eu/resource/celex/32000R1673) [de 27 de Julho de 2000](http://publications.europa.eu/resource/celex/32000R1673) [que estabelece a organização comum de mercado no sector do linho e do cânhamo destinados à produção de fibras](http://publications.europa.eu/resource/celex/32000R1673) (JO L 193, 29.7.2000, p.16)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

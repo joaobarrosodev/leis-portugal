@@ -1,0 +1,402 @@
+---
+schema_version: '1.0'
+id: pt:dre:256602:por
+title: Decreto n.º 48800
+short_title: null
+summary: Transfere verbas dentro dos orçamentos de Encargos Gerais da Nação e dos Ministérios da Educação Nacional e da Saúde
+  e Assistência e abre créditos destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas
+  não previstas no Orçamento Geral do Estado em vigor - Autoriza a 1.ª Repartição da Direcção-Geral da Contabilidade Pública
+  a ordenar pagamentos de conta do crédito aberto pelo presente decreto
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '48800'
+official_date: null
+publication_date: '1968-12-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 304/1968, Série I de 1968-12-27
+  number: '304'
+  series: I
+  supplement: null
+  pages: 1921 - 1924
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30400/19211924.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '256602'
+  dre_path: /dr/detalhe/decreto/48800-1968-256602
+  internal: pt:dre:256602:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48800-1968-256602
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48800-1968-256602
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:05:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d222a2b5034c2c4be014b992dc841bcf67c98eae0443705085ce6c990a16f87a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:158249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:05:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48800
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, no artigo 2.º do [Decreto-Lei n.º 33538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33538-1944-528224), de 21 de Fevereiro de 1944, na alínea a) do artigo 33.º e nas alíneas b), c), d), e) e g) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), nos artigos 2.º e 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, mediante propostas aprovadas pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+
+Encargos Gerais da Nação
+
+No capítulo 2.º:
+
+Do artigo 30.º, n.º 1) «Publicidade ...» ... -15000$00
+
+Para o artigo 29.º, n.º 2) «Telefones» ... +15000$00
+
+Ministério da Educação Nacional
+
+No capítulo 5.º:
+
+Do artigo 807.º, n.º 1) «Móveis» ... -18000$00
+
+Para o artigo 808.º «Despesas de conservação ...»:
+
+N.º 1), alínea 1 «Prédios urbanos» ... +9900$00
+
+N.º 2) «De móveis» ... +2500$00
+
+Para o artigo 809.º «Material de consumo corrente»:
+
+N.º 1) «Impressos» ... +2700$00
+
+N.º 2) «Artigos de expediente ...» ... +2900$00
+
+Ministério da Saúde e Assistência
+
+No capítulo 10.º:
+
+Do artigo 82.º «Protecção materno-infantil» ... -2000000$00
+
+Para o artigo 86.º «Assistência social» ... +2000000$00
+
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 161088187$30, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Encargos Gerais da Nação
+
+Capítulo 2.º «Presidência do Conselho»:
+
+Presidência do Conselho
+
+Artigo 21.º, n.º 2) «Artigos de expediente ...» ... 10000$00
+
+Gabinetes dos Ministros de Estado adjuntos
+
+Artigo 26.º «Aquisições de utilização permanente»; n.º 2) «Semoventes»; alínea 1 «Viaturas com motor» ... 40000$00
+
+Artigo 27.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos» ... 20000$00
+
+Artigo 28.º, n.º 2) «Artigos de expediente ...» ... 10000$00
+
+Artigo 29.º «Despesas de comunicações»:
+
+N.º 1) «Correios ...» ... 5000$00
+
+N.º 2) «Telefones» ... 10000$00
+
+Secretaria-Geral da Presidência do Conselho
+
+Artigo 35.º, n.º 1) «Móveis» ... 20000$00
+
+Artigo 37.º «Material de consumo corrente»:
+
+N.º 2) «Impressos» ... 3000$00
+
+N.º 3) «Artigos de expediente ...» ... 30000$00
+
+Capítulo 13.º «Despesas de anos económicos findos»:
+
+Artigo 316.º «Despesas de anos económicos findos» ... 23173120$70
+
+... 23321120$70
+
+Ministério das Finanças
+
+Capítulo 1.º «Encargos da dívida pública»:
+
+###### Artigo 1.º «Juros»: — N.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público»: «Certificados da dívida pública, 5 por cento» ... 2000000$00
+
+N.º 3) «Empréstimos com aval do Estado, a cargo da Junta do Crédito Público»: «Empréstimo de renovação e apetrechamento da indústria da pesca - III Plano de Fomento»: «5 3/8 por cento de 1968» (ver nota z") ... 180000$00
+
+(nota z") [Decreto-Lei n.º 48491](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48491-1968-273802), de 19 de Julho de 1968.
+
+Artigo 4.º «Certificados de aforro», n.º 1) «Amortização» ... 2000000$00
+
+Capítulo 8.º «Direcção-Geral da Fazenda Pública - Administração dos Próprios da Fazenda Pública - Palácios e monumentos nacionais e outros bens»:
+
+Artigo 99.º, n.º 3) «Pagamento de serviços ...» ... 16260$50
+
+Capítulo 24.º «Outros investimentos»:
+
+Artigo 221.º «Para aquisição de acções e obrigações ...» ... 120000000$00
+
+... 124196260$50
+
+Ministério da Justiça
+
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais»:
+
+Artigo 170.º, n.º 1) «Subsídios a cofres ...», alínea 1 «Para conceder, nos termos do [Decreto-Lei n.º 35659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35659-1946-158249), ...» ... 6500000$00
+
+Ministério da Marinha
+
+Capítulo 1.º «Gabinete do Ministro - Ministro e Repartição do Gabinete»:
+
+Artigo 6.º, n.º 1) «Pagamento de serviços ...» ... 100000$00
+
+Capítulo 12.º «Despesas de anos económicos findos»:
+
+Artigo 273.º «Despesas de anos económicos findos» ... 4500000$00
+
+... 4600000$00
+
+Ministério dos Negócios Estrangeiros
+
+Capítulo 3.º «Direcção-Geral dos Negócios Políticos»:
+
+Artigo 16.º, n.º 1) «Publicidade ...» ... 26000$00
+
+Capítulo 5.º «Direcção-Geral dos Serviços Centrais»:
+
+Serviços internos
+
+Artigo 23.º, n.º 1) «Correios ...» ... 807818$50
+
+Serviços externos do Ministério
+
+Artigo 26.º, n.º 1) «Pessoal assalariado» ... 359000$00
+
+... 1192318$50
+
+Ministério das Obras Públicas
+
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+
+Artigo 51.º «Construções e obras novas»; n.º 3) «Construções e melhoramentos a efectuar por contrapartida de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal» (b), alínea 19 «Direcção-Geral dos Combustíveis - Laboratório de Ensaios Mecânicos - Instalações provisórias» ... 433519$00
+
+Ministério da Educação Nacional
+
+Capítulo 1.º «Gabinete do Ministro»:
+
+Artigo 3.º, n.º 2) «Semoventes», alínea 1 «Viaturas com motor» ... 440000$00
+
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+
+Instrução universitária
+
+Universidade de Coimbra
+
+Faculdade de Medicina
+
+Artigo 107.º «Remunerações certas ao pessoal em exercício»; n.º 3) «Pessoal contratado não pertencente aos quadros»:
+
+(Durante dois meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30400/19211924.pdf)
+
+Escola de Farmácia
+
+Artigo 180.º «Remunerações certas ao pessoal em exercício»; n.º 2) «Pessoal contratado não pertencente aos quadros»:
+
+(Durante dois meses):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30400/19211924.pdf)
+
+Estabelecimentos diversos
+
+Instituto de António Aurélio da Costa Ferreira
+
+Artigo 532.º, n.º 2) «Luz, ...» ... 16000$00
+
+Instrução artística
+
+Museu Nacional de Soares dos Reis
+
+Artigo 632.º, n.º 3) «Rendimento do Fundo de João Chagas ...» ... 77818$60
+
+Capítulo 4.º «Direcção-Geral do Ensino Liceal»:
+
+Ensino Liceal
+
+Liceus
+
+Liceu de Chaves
+
+Artigo 769.º «Material de consumo corrente»:
+
+N.º 1) «Impressos» ... 3000$00
+
+N.º 2) «Artigos de expediente ...» ... 1500$00
+
+Artigo 770.º, n.º 2) «Luz, ...» ... 2850$00
+
+Capítula 5.º «Direcção-Geral do Ensino Técnico Profissional»:
+
+Ensino industrial e comercial
+
+Escolas técnicas elementares, industriais, comerciais e industriais-comerciais Escola Técnica Elementar de Pedro de Santarém, em Lisboa
+
+Artigo 844.º, n.º 1) «Rendas de casa» ... 35000$00
+
+... 844968$60
+
+... 161088187$30
+
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+Capítulo 2.º, artigo 20.º «Imposto de transacções» ... 8247318$50
+
+Capítulo 7.º, artigo 158.º «Reembolsos de juros e amortização dos empréstimos para o Fundo de Renovação e Apetrechamento da Indústria da Pesca» ... 180000$00
+
+Capítulo 7.º, artigo 202.º «Reembolsos diversos» ... 433519$00
+
+Capítulo 7.º, artigo 203.º «Reposições não abatidas nos pagamentos» ... 15144452$20
+
+Capítulo 8.º, artigo 210.º «Serviços prisionais» ... 6500000$00
+
+Capítulo 8.º, artigo 238.º «Fundo de João Chagas» ... 77818$60
+
+Capítulo 9.º, artigo 284.º «Produto da venda de títulos ou de empréstimos»: ... 120000000$00
+
+... 150583108$30
+
+Encargos Gerais da Nação
+
+Capítula 2.º, artigo 24.º, n.º 1) ... 98000$00
+
+Capítulo 2.º, artigo 41.º, n.º 1) ... 10000$00
+
+Capítulo 2.º, artigo 41.º, n.º 3) ... 40000$00
+
+Capítulo 9.º, artigo 157.º, n.º 1) ... 6628668$50
+
+Capítulo 9.º, artigo 158.º, n.º 1), alínea 4 ... 1500000$00
+
+Capítulo 9.º, artigo 159.º, n.º 1), alínea 1 ... 1500000$00
+
+... 9776668$50
+
+Ministério das Finanças
+
+Capítulo 1.º, artigo 13.º ... 16000$00
+
+Capítulo 8.º, artigo 89.º, n.º 1) ... 16260$50
+
+... 32260$50
+
+Ministério dos Negócios Estrangeiros
+
+Capítulo 2.º, artigo 7.º, n.º 1) ... 359000$00
+
+Capítulo 2.º, artigo 13.º, n.º 4) ... 26000$00
+
+... 385000$00
+
+Ministério da Educação Nacional
+
+Capítulo 2.º, artigo 23.º, n.º 3), alínea 6 ... 7350$00
+
+Capítulo 3.º, artigo 107.º, n.º 1) ... 268800$00
+
+Capítulo 5.º, artigo 844.º, n.º 1) ... 35000$00
+
+... 311150$00
+
+... 161088187$30
+
+Art. 4.º A fim de satisfazer encargos respeitantes a anos económicos anteriores, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública autorizada a ordenar pagamentos até ao montante de 21369630$20, de conta do crédito de 23173120$70, incluído no artigo 2.º do presente diploma, da verba do capítulo 13.º, artigo 316.º, do actual orçamento de Encargos Gerais da Nação.
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José da Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
+
+Promulgado em 18 de Dezembro de 1968.
+
+Publique-se.
+
+Presidência da República, 27 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

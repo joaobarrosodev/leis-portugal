@@ -1,0 +1,199 @@
+---
+schema_version: '1.0'
+id: pt:dre:120454102:por
+title: Declaração de Retificação n.º 6/2019
+short_title: null
+summary: Declaração de retificação à Lei n.º 71/2018, de 31 de dezembro, que aprova o Orçamento do Estado para 2019
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 6/2019
+official_date: null
+publication_date: '2019-03-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 43/2019, Série I de 2019-03-01
+  number: '43'
+  series: I
+  supplement: null
+  pages: 1458 - 1459
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/03/04300/0145801459.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declretif/6/2019/03/01/p/dre/pt/html
+  oj: null
+  dre: '120454102'
+  dre_path: /dr/detalhe/declaracao-retificacao/6-2019-120454102
+  internal: pt:dre:120454102:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2019-120454102
+  metadata_url: https://data.dre.pt/eli/declretif/6/2019/03/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/6-2019-120454102
+  consolidated_url: null
+  retrieved_at: '2026-10-27T01:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2d2ba171affe653f61c0c297d343eb0a0811e66945669b183ef99ccb672d36d6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T01:05:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código do IRC
+- Código do IRS
+- Estatuto dos Benefícios Fiscais
+- Fundo Nacional de Reabilitação do Edificado
+- IRS
+- Orçamento
+- Orçamento Geral do Estado
+- Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T01:05:21Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 6/2019
+
+Para os devidos efeitos, observado o disposto no n.º 2 do artigo 115.º do Regimento da Assembleia da República, declara-se que a [Lei n.º 71/2018](https://diariodarepublica.pt/web/guest/pesquisa/-/search/117537583/details/normal?l=1), de 31 de dezembro, que aprova o Orçamento do Estado para 2019, publicada no Diário da República, 1.ª série, n.º 251, de 31 de dezembro de 2018, saiu com as seguintes incorreções, que assim se retificam:
+
+No n.º 2 do artigo 98.º onde se lê:
+
+«A partir de 1 de janeiro de 2019, com vista a garantir a plena transição para o SNC-AP, aprovado pelo [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/70262478/details/normal?l=1), de 11 de setembro, as entidades referidas no número anterior asseguram as diligências necessárias com vista à adoção do SNC-AP, sem prejuízo de a respetiva prestação de contas relativa a 2019 obedecer às normas de contabilidade pública previstas no [Decreto-Lei n.º 54-A/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/514178/details/normal?l=1), de 22 de fevereiro, na sua redação atual, ou às normas contabilísticas privadas previstas no SNC-AP, quando aplicável.»
+
+deve ler-se:
+
+«A partir de 1 de janeiro de 2019, com vista a garantir a plena transição para o SNC-AP, aprovado pelo [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/70262478/details/normal?l=1), de 11 de setembro, as entidades referidas no número anterior asseguram as diligências necessárias com vista à adoção do SNC-AP, sem prejuízo de a respetiva prestação de contas relativa a 2019 obedecer às normas de contabilidade pública previstas no [Decreto-Lei n.º 54-A/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/514178/details/normal?l=1), de 22 de fevereiro, na sua redação atual, ou às normas contabilísticas privadas previstas no SNC, quando aplicável.»
+
+No n.º 6 do artigo 98.º onde se lê:
+
+«O reporte previsto no n.º 4 não é aplicável às entidades integradas no subsetor da administração local que não adotam o regime completo do POCAL ou o SNC-AP.»
+
+deve ler-se:
+
+«O reporte previsto no n.º 4 não é aplicável às entidades integradas no subsetor da administração local que não adotam o regime completo do POCAL ou o SNC.»
+
+No n.º 4 do artigo 198.º onde se lê:
+
+«Para efeitos da aplicação da alínea g) do artigo 4.º do Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior, aprovado pelo Despacho n.º 8442-A/2012, de 22 de junho, na sua redação atual, no ano letivo 2019/2020, o valor da propina máxima a ter em consideração é o valor fixado no ano letivo 2018/2019.»
+
+deve ler-se:
+
+«Para efeitos da aplicação da alínea g) do artigo 5.º do Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior, aprovado pelo Despacho n.º 8442-A/2012, de 22 de junho, na sua redação atual, no ano letivo 2019/2020, o valor da propina máxima a ter em consideração é o valor fixado no ano letivo 2018/2019.»
+
+No n.º 2 do artigo 51.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, constante do artigo 257.º onde se lê:
+
+«Os imóveis que tenham beneficiado de apoio não reembolsável concedido pelo Estado ou outras entidades públicas para a aquisição, construção, reconstrução ou realização de obras de conservação de valor superior a 30 % do valor patrimonial tributário do imóvel para efeitos de IMI sejam vendidos antes de decorridos 10 anos sobre a data da sua aquisição, da assinatura da declaração comprovativa da receção da obra ou do pagamento da última despesa relativa ao apoio público não reembolsável que, nos termos legais ou regulamentares, não estejam sujeitos a ónus ou regimes especiais que limitem ou condicionem a respetiva alienação, apenas são considerados na parte que exceda o valor do apoio não reembolsável recebido.»
+
+deve ler-se:
+
+«Os encargos e as despesas referidos na alínea a) do número anterior relativos a imóveis que tenham beneficiado de apoio não reembolsável, concedido pelo Estado ou outras entidades públicas para a aquisição, construção, reconstrução ou realização de obras de conservação de valor superior a 30 % do valor patrimonial tributário do imóvel para efeitos de IMI e sejam vendidos antes de decorridos 10 anos sobre a data da sua aquisição, da assinatura da declaração comprovativa da receção da obra ou do pagamento da última despesa relativa ao apoio público não reembolsável que, nos termos legais ou regulamentares, não estejam sujeitos a ónus ou regimes especiais que limitem ou condicionem a respetiva alienação, apenas são considerados na parte que exceda o valor do apoio não reembolsável recebido.»
+
+No n.º 7 do artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, constante do artigo 263.º onde se lê:
+
+«A parte da provisão não aplicada nos fins para que a provisão foi constituída é considerada como rendimento do terceiro período de tributação seguinte ao do encerramento da exploração ou do último período de tributação em que seja autorizada a utilização da provisão nos termos do número anterior.»
+
+deve ler-se:
+
+«A parte da provisão não aplicada nos fins para que a provisão foi constituída é considerada como rendimento do terceiro período de tributação seguinte ao do encerramento da exploração ou do último período de tributação em que seja comunicada a utilização da provisão nos termos do número anterior.»
+
+No artigo 271.º onde se lê:
+
+«É aditada à Lista I anexa ao Código do IVA a verba 2.32, com a seguinte redação:
+
+'2.32 - Entradas em espetáculos de canto, dança, música, teatro, cinema, tauromaquia e circo. Excetuam-se as entradas em espetáculos de caráter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.'»
+
+deve ler-se:
+
+«1 - É aditada à Lista I anexa ao Código do IVA a verba 2.32, com a seguinte redação:
+
+'2.32 - Entradas em espetáculos de canto, dança, música, teatro, cinema, tauromaquia e circo. Excetuam-se as entradas em espetáculos de caráter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.'
+
+2 - É revogada a verba 2.6 da Lista II anexa ao Código do IVA.»
+
+No artigo 71.º do Estatuto dos Benefícios Fiscais, constante do artigo 291.º onde se lê:
+
+«6 - É aplicável ao Fundo Nacional de Reabilitação do Edificado o regime tributário previsto no artigo 8.º do Regime Jurídico dos Fundos e Sociedades de Investimento Imobiliário para Arrendamento Habitacional, aprovado pelo artigo 102.º da [Lei n.º 64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro, com as necessárias adaptações, compreendendo as finalidades previstas na alínea b) do n.º 3 da [Resolução do Conselho de Ministros n.º 48/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75239710/details/normal?l=1), de 1 de setembro, com a alteração introduzida pela [Resolução do Conselho de Ministros n.º 50-A/2018](https://diariodarepublica.pt/web/guest/pesquisa/-/search/115211109/details/normal?l=1), de 2 de maio.»
+
+deve ler-se:
+
+«6 - É aplicável ao Fundo Nacional de Reabilitação do Edificado o regime tributário previsto no artigo 8.º do Regime Jurídico dos Fundos e Sociedades de Investimento Imobiliário para Arrendamento Habitacional, aprovado pelo artigo 102.º da [Lei n.º 64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro, com as necessárias adaptações, compreendendo as finalidades previstas na alínea b) do n.º 3 da [Resolução do Conselho de Ministros n.º 48/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75239710/details/normal?l=1), de 1 de setembro, com a alteração introduzida pela [Resolução do Conselho de Ministros n.º 50-A/2018](https://diariodarepublica.pt/web/guest/pesquisa/-/search/115211109/details/normal?l=1), de 2 de maio.
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - ...
+
+13 - ...
+
+14 - ...
+
+15 - ...
+
+16 - ...
+
+17 - ...
+
+18 - ...
+
+19 - ...
+
+20 - ...
+
+21 - ...
+
+22 - ...
+
+23 - ...
+
+24 - ...
+
+25 - ...
+
+26 - ...»
+
+Assembleia da República, 28 de fevereiro de 2019. - O Secretário-Geral, Albino de Azevedo Soares.
+
+112110166

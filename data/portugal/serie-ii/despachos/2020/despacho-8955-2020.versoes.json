@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:143170441:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho/2020-206166152",
+ "dre_path": "/dr/detalhe/despacho/8955-2020-143170441",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206166307"
+   ]
+  }
+ ],
+ "fragments": {
+  "206166307": {
+   "fragment_id": "206166153",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho n.º 8955/2020\n\nSumário: Aprovação da Nota Técnica n.º 17 - Sistemas Automáticos de Extinção de Incêndio por Agentes Gasosos.\n\nNos termos do n.º 4 do artigo 172.º da Portaria n.º 1532/2008, de 29 de dezembro, na redação dada pela Portaria n.º 135/2020, de 2 de junho, que estabelece o Regulamento Técnico de Segurança Contra Incêndio em Edifícios (RT-SCIE), a conceção e a instalação dos sistemas obedecem ao estabelecido no RT-SCIE, assim como às normas nacionais ou europeias em vigor, ou em especificação técnica publicada por despacho do Presidente da Autoridade Nacional de Emergência e Proteção Civil (ANEPC).\n\nSão desta forma definidos os requisitos e especificações a que devem obedecer os Sistemas Automáticos de Extinção de Incêndio por Agentes Gasosos.\n\nAssim, ao abrigo do disposto na alínea j) do n.º 2 do artigo 4.º e da competência prevista na alínea i) do artigo 16.º, ambos do Decreto-Lei n.º 45/2019, de 1 de abril, que aprova a orgânica da ANEPC, do n.º 1 do artigo 5.º da Lei n.º 123/2019, de 18 de outubro, que procede à terceira alteração ao Decreto-Lei n.º 220/2008, de 12 de novembro, e, ainda, do n.º 4 do artigo 172.º da Portaria n.º 1532/2008, de 29 de dezembro, na redação introduzida pela Portaria n.º 135/2020, de 2 de junho, determina-se o seguinte:\n\n1 - É aprovada a Nota Técnica n.º 17 - Sistemas Automáticos de Extinção de Incêndio por Agentes Gasosos - anexa ao presente Despacho e do qual faz parte integrante.\n\n2 - O presente Despacho entra em vigor no primeiro dia útil seguinte ao da sua publicação.\n\n14.08.2020. - O Presidente, Carlos Mourato Nunes, Tenente-General.\n\n313501974"
+  }
+ }
+}

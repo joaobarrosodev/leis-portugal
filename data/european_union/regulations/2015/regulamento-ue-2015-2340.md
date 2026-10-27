@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: eu:celex:32015R2340:por
+title: Regulamento (UE) 2015/2340 da Comissão, de 15 de dezembro de 2015
+short_title: null
+summary: Regulamento (UE) 2015/2340 da Comissão, de 15 de dezembro de 2015, que altera a Diretiva 2009/81/CE do Parlamento
+  Europeu e do Conselho no respeitante aos seus limiares de aplicação no contexto dos processos de adjudicação de contratos
+  (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2015/2340
+official_date: null
+publication_date: '2015-12-16'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 330 de 16.12.2015
+  number: '330'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2016-01-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32015R2340
+  eli: http://data.europa.eu/eli/reg/2015/2340/oj
+  oj: oj:JOL_2015_330_R_0003
+  dre: null
+  dre_path: null
+  internal: eu:celex:32015R2340:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32015R2340
+  metadata_url: http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:21:39Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-12T09:49:21.522+02:00'
+integrity:
+  source_sha256: 0c444856d8a027c6d00709d239997dc69bac3306992fd0e10296d2a3d7b0a276
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:21:39Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- adjudicação por contrato
+- apresentação de propostas a concurso
+- contrato de fornecimentos
+- contrato de obras
+- contrato de prestação de serviços
+relationships:
+- type: amends
+  target: celex:32009L0081
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3fb664c4-0b51-44fc-b738-2c28b4637657
+  date: '2009-07-13'
+- type: based_on
+  target: celex:32009L0081
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3fb664c4-0b51-44fc-b738-2c28b4637657
+  date: '2009-07-13'
+- type: cites
+  target: celex:21994A1223(21)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f4734ba5-893a-4244-99a3-867bfa366e17
+- type: cites
+  target: celex:31994D0800
+  label: null
+  source: http://publications.europa.eu/resource/cellar/66167374-b0b0-44de-a0f6-cd04b870adfa
+- type: cites
+  target: celex:32004L0017
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f523752e-fd07-4b64-a6f5-7f6a4258907c
+- type: cites
+  target: celex:32004L0018
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62c3ce1d-831c-4074-bba1-fbfdc28947cc
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:21:39Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO (UE) 2015/2340 DA COMISSÃO
+
+de 15 de dezembro de 2015
+
+que altera a Diretiva 2009/81/CE do Parlamento Europeu e do Conselho no respeitante aos seus limiares de aplicação no contexto dos processos de adjudicação de contratos
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2009/81/CE do Parlamento Europeu e do Conselho, de 13 de julho de 2009, relativa à coordenação dos processos de adjudicação de determinados contratos de empreitada, contratos de fornecimento e contratos de serviços por autoridades ou entidades adjudicantes nos domínios da defesa e da segurança, e que altera as Diretivas 2004/17/CE e 2004/18/CE [([^1])](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2015330PT.01001401-E0001), nomeadamente o artigo 68.º,
+
+Considerando o seguinte:
+
+(1) Pela Decisão 94/800/CE [([^2])](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2015330PT.01001401-E0002), o Conselho concluiu o Acordo sobre Contratos Públicos («Acordo») [([^3])](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2015330PT.01001401-E0003). O Acordo é aplicável a qualquer contrato público de valor igual ou superior aos montantes («limiares») nele estabelecidos, expressos em direitos de saque especiais.
+
+(2) Um dos objetivos das Diretivas 2004/17/CE [([^4])](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2015330PT.01001401-E0004) e 2004/18/CE [([^5])](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2015330PT.01001401-E0005) do Parlamento Europeu e do Conselho consiste em permitir que as entidades adjudicantes que aplicam essas diretivas cumpram simultaneamente as obrigações previstas no Acordo. Para tal, os limiares estabelecidos pelas referidas diretivas para os contratos públicos que são também abrangidos pelo Acordo devem ser harmonizados de forma a garantir que correspondam ao contravalor em euros, arredondado ao milhar inferior, dos limiares estabelecidos no Acordo.
+
+(3) Por motivos de coerência, os limiares estabelecidos pela Diretiva 2009/81/CE devem ser harmonizados com os limiares revistos estabelecidos pelo artigo 16.º da Diretiva 2004/17/CE.
+
+(4) A Diretiva 2009/81/CE deve, por conseguinte, ser alterada em conformidade.
+
+(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Consultivo para os Contratos Públicos,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O artigo 8.º da Diretiva 2009/81/CE é alterado do seguinte modo:
+
+1) Na alínea a), o montante «414 000 euros» é substituído por «418 000 euros».
+
+2) Na alínea b), o montante «5 186 000 euros» é substituído por «5 225 000 euros».
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor em 1 de janeiro de 2016.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 15 de dezembro de 2015.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**Jean-Claude JUNCKER**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2015330PT.01001401-E0001) [JO L 216 de 20.8.2009, p.76](http://publications.europa.eu/resource/oj/JOL_2009_216_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2015330PT.01001401-E0002) Decisão 94/800/CE do Conselho, de 22 de dezembro de 1994, relativa à celebração, em nome da Comunidade Europeia e em relação às matérias da sua competência, dos acordos resultantes das negociações multilaterais do Uruguay Round (1986-1994) ([JO L 336 de 23.12.1994, p. 1](http://publications.europa.eu/resource/oj/JOL_1994_336_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2015330PT.01001401-E0003) O Acordo é um acordo multilateral no âmbito da Organização Mundial do Comércio. O objetivo do Acordo consiste em abrir mutuamente os mercados de contratos públicos entre as suas partes.
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2015330PT.01001401-E0004) Diretiva 2004/17/CE do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação de contratos nos sectores da água, da energia, dos transportes e dos serviços postais ([JO L 134 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_134_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/0bf87e0c-a3c4-11e5-b528-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2015330PT.01001401-E0005) Diretiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços ([JO L 134 de 30.4.2004, p. 114](http://publications.europa.eu/resource/oj/JOL_2004_134_R_TOC)).

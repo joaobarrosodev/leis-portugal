@@ -1,0 +1,1776 @@
+---
+schema_version: '1.0'
+id: pt:dre:469067:por
+title: Decreto-Lei n.º 233/2005
+short_title: null
+summary: Transforma em entidades públicas empresariais os hospitais com a natureza de sociedade anónima, o Hospital de Santa
+  Maria e o Hospital de São João e cria o Centro Hospitalar de Lisboa Ocidental, E. P. E., o Centro Hospitalar de Setúbal,
+  E. P. E., e o Centro Hospitalar do Nordeste, E. P. E., e aprova os respectivos Estatutos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 233/2005
+official_date: null
+publication_date: '2005-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/2005, Série I-A de 2005-12-29
+  number: '249'
+  series: I
+  supplement: null
+  pages: 7323 - 7333
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/12/249a00/73237333.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-02-15'
+version_history:
+  file: decreto-lei-233-2005.versoes.json
+  count: 11
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2005-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-01'
+    amending: pt:dre:470071:por
+    amending_title: Decreto-Lei n.º 50-A/2007
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+  - date: '2008-07-30'
+    amending: pt:dre:248178:por
+    amending_title: Decreto-Lei n.º 18/2008
+    changes:
+    - Revoga Artigo 13.º
+  - date: '2009-08-09'
+    amending: pt:dre:493009:por
+    amending_title: Decreto-Lei n.º 176/2009
+    changes:
+    - Altera Artigo 14.º
+  - date: '2010-01-01'
+    amending: pt:dre:483169:por
+    amending_title: Decreto-Lei n.º 303/2009
+    changes:
+    - Altera Anexo I
+  - date: '2011-01-01'
+    amending: pt:dre:306579:por
+    amending_title: Decreto-Lei n.º 136/2010
+    changes:
+    - Altera Artigo 6.º
+  - date: '2012-12-01'
+    amending: pt:dre:191998:por
+    amending_title: Decreto-Lei n.º 244/2012
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 17.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 1.º
+    - Altera Capítulo II
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Secção III
+    - Altera Artigo 17.º
+    - Altera Artigo 24.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+  - date: '2013-07-01'
+    amending: pt:dre:261078:por
+    amending_title: Decreto-Lei n.º 69/2013
+    changes:
+    - Altera Anexo I
+  - date: '2015-01-31'
+    amending: pt:dre:66325236:por
+    amending_title: Decreto-Lei n.º 12/2015
+    changes:
+    - Adita Anexo III
+    - Adita Capítulo I
+    - Adita Artigo 3.º
+    - Adita Artigo 2.º
+    - Adita Artigo 4.º
+    - Adita Capítulo II
+    - Adita Artigo 5.º
+    - Adita Secção I
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Secção II
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Secção III
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Secção IV
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Secção V
+    - Adita Artigo 22.º
+    - Adita Capítulo III
+    - Adita Artigo 23.º
+    - Adita Capítulo IV
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2015-09-01'
+    amending: pt:dre:70139963:por
+    amending_title: Decreto-Lei n.º 183/2015
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+  - date: '2017-02-15'
+    amending: pt:dre:106434234:por
+    amending_title: Decreto-Lei n.º 18/2017
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Capítulo II
+    - Revoga Capítulo III
+    - Revoga Capítulo IV
+    - Revoga Capítulo V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/233/2005/p/cons/20170210/pt/html
+  oj: null
+  dre: '469067'
+  dre_path: /dr/detalhe/decreto-lei/233-2005-469067
+  internal: pt:dre:469067:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067
+  metadata_url: https://data.dre.pt/eli/dec-lei/233/2005/p/cons/20170210/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-66348268
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-66348268
+  retrieved_at: '2026-10-22T11:57:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 78d8b78081dbb0b19b711f084c3366a2aca1fd91387967863af026c37c05660b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:57:48Z'
+  notes: 11 versão(ões); histórico completo em decreto-lei-233-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ADSE
+- Aquisição de Bens e Serviços
+- Financiamento
+- Sociedade Anónima
+- Centro Hospitalar
+- Centro Hospitalar de Lisboa Ocidental
+- Centro Hospitalar de Setúbal
+- Comissão de Serviço
+- Gestão Financeira
+- Ministro da Saúde
+- Empresa Pública
+- Estatuto
+- Serviço Nacional de Saúde
+- Recrutamento de Pessoal
+- Hospital de EGAS Moniz
+- Hospital de Santa Cruz
+- Hospital de Santa Maria
+- Hospital de São Bernardo
+- Hospital de São Francisco Xavier
+- Hospital Distrital
+- Hospital de São João
+- Hospital Ortopédico do Outão
+- Macedo de Cavaleiros
+- Mirandela
+- Quadro de Pessoal
+- Recursos Humanos
+- Proteção Social
+- Contrato de Trabalho
+- Regime Geral da Segurança Social
+- Regime Jurídico
+- Estabelecimento Hospitalar
+- Bragança
+- Centro Hospitalar do Nordeste
+relationships:
+- type: amended_by
+  target: pt:dre:470071:por
+  label: Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2007-470071
+  date: '2007-02-28'
+- type: amended_by
+  target: pt:dre:248178:por
+  label: Revoga Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178
+  date: '2008-01-29'
+- type: amended_by
+  target: pt:dre:493009:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009
+  date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:483169:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2009-483169
+  date: '2009-10-22'
+- type: amended_by
+  target: pt:dre:306579:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2010-306579
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:191998:por
+  label: Adita Artigo 6.º-A; Adita Artigo 12.º-A; Adita Artigo 17.º-A; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo
+    8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 1.º; Altera Capítulo II; Altera Artigo 13.º;
+    Altera Artigo 14.º; Altera Artigo 15.º; Altera Secção III; Altera Artigo 17.º; Altera Artigo 24.º; Revoga Artigo 10.º;
+    Revoga Artigo 17.º; Revoga Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998
+  date: '2012-11-09'
+- type: amended_by
+  target: pt:dre:261078:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2013-261078
+  date: '2013-05-17'
+- type: amended_by
+  target: pt:dre:66325236:por
+  label: Adita Anexo III; Adita Capítulo I; Adita Artigo 3.º; Adita Artigo 2.º; Adita Artigo 4.º; Adita Capítulo II; Adita
+    Artigo 5.º; Adita Secção I; Adita Artigo 6.º; Adita Artigo 7.º; Adita Artigo 8.º; Adita Artigo 9.º; Adita Artigo 10.º;
+    Adita Artigo 11.º; Adita Artigo 12.º; Adita Artigo 13.º; Adita Artigo 14.º; Adita Secção II; Adita Artigo 15.º; Adita
+    Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236
+  date: '2015-01-26'
+- type: amended_by
+  target: pt:dre:70139963:por
+  label: Altera Artigo 9.º; Altera Artigo 13.º; Altera Artigo 24.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963
+  date: '2015-08-31'
+- type: amended_by
+  target: pt:dre:106434234:por
+  label: Altera Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Capítulo II; Revoga Capítulo III;
+    Revoga Capítulo IV; Revoga Capítulo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234
+  date: '2017-02-10'
+- type: cites
+  target: pt:dre:220550:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/93/2005/06/07/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/503/1999/11/20/p/dre
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/193/2002/09/25/p/dre
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+article_structure:
+  article_count: 78
+  section_count: 25
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:57:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 233/2005
+
+Decreto-Lei n.º 233/2005
+
+de 29 de Dezembro
+
+De acordo com o Programa do XVII Governo Constitucional, o Decreto-Lei n.º 93/2005, de 7 de Junho, determinou a transformação em entidades públicas empresariais de 31 unidades de saúde às quais havia sido atribuído o estatuto de sociedade anónima de capitais exclusivamente públicos.
+
+Na verdade, considera o Governo que as unidades de saúde integradas no Serviço Nacional de Saúde devem estar sujeitas a um regime jurídico que, atendendo ao serviço público por elas prestado, permita uma maior intervenção ao nível das orientações estratégicas de tutela e superintendência, a exercer pelos Ministros das Finanças e da Saúde, necessária ao adequado funcionamento do conjunto das instituições do Serviço Nacional de Saúde quer ao nível operacional quer ao nível da racionalidade económica das decisões de investimento.
+
+Por outro lado, deve ser inequívoca a natureza pública das instituições do Estado prestadoras de cuidados de saúde, havendo que compatibilizar este princípio com os instrumentos de gestão mais adequados à natureza específica das suas actividades. Por isso, em 1998, o XIII Governo Constitucional criou o Hospital de São Sebastião, em Santa Maria da Feira, dotando-o de meios de gestão empresarial.
+
+Com efeito, o modelo mais adequado à prossecução daqueles objectivos é o de entidade pública empresarial, nos termos do Decreto-Lei n.º 558/99, de 17 de Dezembro, que redefiniu o conceito de empresa pública enquanto modalidade autónoma de organização institucional do sector público estadual.
+
+Conforme previsto no Programa de Estabilidade e Crescimento, o estatuto de entidade pública empresarial será progressivamente atribuído a todos os hospitais, incluindo os que actualmente se encontram integrados no sector público administrativo e que mantêm a natureza jurídica de instituto público.
+
+Neste contexto, o presente decreto-lei procede à concretização da transformação em entidades públicas empresariais dos 31 hospitais com a natureza de sociedade anónima abrangidos pelo Decreto-Lei n.º 93/2005, de 7 de Junho, e confere a natureza de entidade pública empresarial ao Hospital de Santa Maria e ao Hospital de São João, até agora integrados no sector público administrativo, aprovando os respectivos Estatutos.
+
+Por outro lado, tendo em vista uma melhor prestação de cuidados de saúde, através da optimização dos recursos, são criados, igualmente sob a forma de entidade pública empresarial, o Centro Hospitalar de Lisboa Ocidental, E. P. E., integrando o Hospital de Egas Moniz, S. A., o Hospital de São Francisco Xavier, S. A., e o Hospital de Santa Cruz, S. A., o Centro Hospitalar de Setúbal, E. P. E., integrando o Hospital de São Bernardo, S. A., e o Hospital Ortopédico de Sant'Iago do Outão, e o Centro Hospitalar do Nordeste, E. P. E., integrando o Hospital Distrital de Bragança, S. A., o Hospital Distrital de Macedo de Cavaleiros e o Hospital Distrital de Mirandela.
+
+A fim de evitar a proliferação de estatutos de unidades de saúde essencialmente idênticos, optou-se por aprovar um regime jurídico e uns estatutos suficientemente flexíveis para abarcar as várias unidades de saúde com a natureza de entidades públicas empresariais, sejam hospitais sejam centros hospitalares, gerais ou especializados, deixando para os respectivos regulamentos internos os aspectos organizacionais e não estatutários, designadamente a criação de órgãos de direcção adequados à sua especificidade, dimensão e complexidade.
+
+Foram ouvidos a Associação Nacional de Municípios Portugueses e as ordens profissionais, os sindicatos e as associações representativas do sector.
+
+Assim:
+
+Nos termos do n.º 3 do artigo 18.º do regime jurídico da gestão hospitalar, aprovado pela Lei n.º 27/2002, de 8 de Novembro, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Entidades públicas empresariais
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - São criados o Hospital de Santa Maria, E. P. E., e o Hospital de São João, E. P. E., identificados no mapa I do anexo I do presente decreto-lei.
+
+2 - São criados os seguintes centros hospitalares, identificados no mapa II do anexo I deste decreto-lei:
+
+a) Centro Hospitalar de Lisboa Ocidental, E. P. E., que integra, por fusão, o Hospital de Egas Moniz, S. A., o Hospital de Santa Cruz, S. A., e o Hospital de São Francisco Xavier, S. A.;
+
+b) Centro Hospitalar de Setúbal, E. P. E., que integra, por fusão, o Hospital de São Bernardo, S. A., e o Hospital Ortopédico de Sant'Iago do Outão;
+
+c) Centro Hospitalar do Nordeste, E. P. E., que integra, por fusão, o Hospital Distrital de Bragança, S. A., o Hospital Distrital de Macedo de Cavaleiros e o Hospital Distrital de Mirandela.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+> Alterado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 2.º — Sucessão
+
+As entidades públicas empresariais abrangidas pelo presente decreto-lei, adiante designadas abreviadamente por hospitais E. P. E., sucedem nos direitos e obrigações das unidades de saúde que lhes deram origem, independentemente de quaisquer formalidades.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 3.º — Capital estatutário
+
+1 - O capital estatutário dos hospitais E. P. E. é detido pelo Estado e pode ser aumentado ou reduzido por despacho conjunto dos Ministros das Finanças e da Saúde, que constitui título bastante para todos os efeitos legais, incluindo os de registo.
+
+2 - O capital estatutário das entidades públicas empresariais referidas no n.º 1 do artigo 1.º é constituído por uma dotação em numerário, realizada pelo Estado, fixada no mapa I do anexo I do presente decreto-lei, ao qual acresce o montante da entrega em espécie correspondente ao valor do património líquido que se encontrava na propriedade das entidades extintas constante do respectivo balanço reportado à data da sua extinção, aprovado por despacho conjunto dos Ministros das Finanças e da Saúde.
+
+3 - O capital estatutário da entidade pública empresarial referida na alínea a) do n.º 2 do artigo 1.º corresponde ao somatório do montante do capital social das sociedades que a antecederam, fixado no mapa II do anexo I do presente decreto-lei.
+
+4 - O capital estatutário da entidade pública empresarial referida na alínea b) do n.º 2 do artigo 1.º é fixado no mapa II do anexo I do presente decreto-lei e corresponde ao somatório do capital social da sociedade anónima, com uma dotação em numerário, realizada pelo Estado, no valor de (euro) 15000000.
+
+5 - O capital estatutário da entidade pública empresarial referida na alínea c) do n.º 2 do artigo 1.º é fixado no mapa II do anexo I do presente decreto-lei e corresponde ao somatório do capital social da sociedade anónima, com uma dotação em numerário, realizada pelo Estado, no valor de (euro) 24960000.
+
+6 - O capital estatutário das entidades públicas empresariais referidas no n.º 3 do artigo 1.º corresponde ao montante do capital social das sociedades transformadas, fixado no mapa III do anexo I do presente decreto-lei.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 4.º — Registos
+
+O presente decreto-lei e os seus anexos constituem título bastante para todos os efeitos legais, designadamente os de registo.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+### Capítulo II — Regime jurídico
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 5.º — Natureza e regime
+
+1 - As entidades públicas empresariais abrangidas pelo presente decreto-lei são pessoas coletivas de direito público de natureza empresarial dotadas de autonomia administrativa, financeira e patrimonial nos termos do regime jurídico do setor empresarial do Estado e das empresas públicas e do artigo 18.º do anexo da Lei n.º 27/2002, de 8 de novembro.
+
+2 - Os hospitais E. P. E. regem-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas no presente decreto-lei e nos seus Estatutos constantes dos anexos I e II, bem como nos respectivos regulamentos internos e nas normas em vigor para o Serviço Nacional de Saúde que não contrariem as normas aqui previstas.
+
+3 - O regime fixado no presente decreto-lei e nos Estatutos a ele anexos tem caráter especial relativamente ao disposto no regime jurídico do setor empresarial do Estado e das empresas públicas, que é subsidiariamente aplicável com as devidas adaptações.
+
+4 - Aos hospitais E. P. E. aplicam-se as especificidades estatutárias previstas no anexo I deste decreto-lei, designadamente quanto à denominação, sede e capital estatutário.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 6.º — Superintendência
+
+1 - Compete ao membro do Governo responsável pela área da saúde:
+
+a) Aprovar os objectivos e estratégias dos hospitais E. P. E.;
+
+b) Dar orientações, recomendações e directivas para prossecução das atribuições dos hospitais E. P. E., designadamente nos seus aspectos transversais e comuns;
+
+c) Definir normas de organização e de actuação hospitalar;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+2 - O membro do Governo responsável pela área da saúde pode delegar os poderes referidos no número anterior nos conselhos diretivos da Administração Central do Sistema de Saúde, I. P., e da administração regional de saúde territorialmente competente.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 6.º-A — Tutela setorial e financeira
+
+1 - Compete ao membro do Governo responsável pela área da saúde:
+
+a) Exigir todas as informações julgadas necessárias ao acompanhamento da atividade dos hospitais E. P. E., sem prejuízo da prestação de outras legalmente exigíveis;
+
+b) Determinar auditorias e inspeções ao funcionamento dos hospitais E. P. E., de acordo com a legislação aplicável;
+
+c) Homologar os regulamentos internos dos hospitais E. P. E.;
+
+d) Praticar outros atos que, nos termos da lei, careçam de autorização prévia ou aprovação tutelar.
+
+2 - Compete ao membro do Governo responsável pela área das finanças, mediante proposta apresentada pelo membro do Governo responsável pela área da saúde:
+
+a) Aprovar os planos de atividade e os orçamentos;
+
+b) Aprovar os documentos de prestação de contas;
+
+c) Autorizar a aquisição e venda de imóveis, bem como a sua oneração, mediante parecer prévio do fiscal único;
+
+d) Autorizar a realização de investimentos quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior a 2 % do capital estatutário, mediante parecer favorável do fiscal único;
+
+e) Determinar os aumentos e reduções do capital estatutário;
+
+f) Autorizar a contração de empréstimos de valor, individual ou acumulado, igual ou superior a 10 % do capital estatutário;
+
+g) Autorizar cedências de exploração de serviços hospitalares, bem como a constituição de associações com outras entidades públicas para a melhor prossecução das atribuições dos hospitais E. P. E.;
+
+h) Autorizar a participação dos hospitais E. P. E. em sociedades anónimas que tenham por objeto a prestação de cuidados de saúde cujo capital social seja por eles maioritariamente detido;
+
+i) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecução dos objetivos estratégicos, a participação dos hospitais E. P. E. no capital de outras sociedades, nos termos do regime jurídico do setor empresarial do Estado e das empresas públicas;
+
+j) Autorizar os demais atos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 7.º — Capacidade
+
+1 - A capacidade jurídica dos hospitais E. P. E. abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto e das suas atribuições.
+
+2 - É da exclusiva competência dos hospitais E. P. E. a cobrança das receitas e taxas provenientes da sua actividade.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 8.º — Órgãos
+
+1 - Os hospitais E. P. E. dispõem dos órgãos previstos nos Estatutos constantes do anexo ii do presente decreto-lei.
+
+2 - As ULS, E. P. E., dispõem dos órgãos previstos nos Estatutos constantes do anexo III ao presente decreto-lei.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 9.º — Organização interna
+
+1 - Os hospitais E. P. E. organizam-se de acordo com as normas e critérios genéricos definidos pela tutela em função das suas atribuições e áreas de actuação específicas, devendo os respectivos regulamentos internos prever a estrutura orgânica com base em serviços agregados em departamentos e englobando unidades funcionais.
+
+2 - As estruturas orgânicas devem desenvolver a sua acção por centros de responsabilidade que permitam a realização, internamente contratualizada, dos respectivos programas de actividade com autonomia e responsabilidade, de modo a possibilitar formas de trabalho centradas prioritariamente no doente, de acordo com as boas práticas de gestão clínica.
+
+3 - No hospital E. P. E. existe um serviço de auditoria interna, que é dirigido por um auditor, nos termos dos Estatutos anexos ao presente decreto-lei.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+### Capítulo III — Regime financeiro
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 10.º — Tutela
+
+Compete aos Ministros das Finanças e da Saúde:
+
+a) Aprovar os planos de actividade e os orçamentos;
+
+b) Aprovar os documentos de prestação de contas;
+
+c) Autorizar as aquisições e venda de imóveis, bem como a sua oneração, mediante parecer prévio do fiscal único;
+
+d) Autorizar a realização de investimentos, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior a 2% do capital estatutário, mediante parecer favorável do fiscal único;
+
+e) Determinar os aumentos e reduções do capital estatutário;
+
+f) Autorizar a contracção de empréstimos de valor, individual ou acumulado, igual ou superior a 10% do capital estatutário;
+
+g) Autorizar cedências de exploração de serviços hospitalares bem como a constituição de associações com outras entidades públicas para a melhor prossecução das atribuições dos hospitais E. P. E.;
+
+h) Autorizar a participação dos hospitais E. P. E. em sociedades anónimas que tenham por objecto a prestação de cuidados de saúde cujo capital social seja por eles maioritariamente detido;
+
+i) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecução dos pertinentes objectivos estratégicos, a participação dos hospitais E. P. E. no capital social de outras sociedades, nos termos do artigo 37.º do Decreto-Lei n.º 558/99, de 17 de Dezembro;
+
+j) Autorizar os demais actos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 11.º — Controlo financeiro
+
+Sem prejuízo do disposto na legislação aplicável às empresas públicas em matéria de controlo financeiro e deveres especiais de informação e controlo, devem os hospitais E. P. E. submeter aos membros do Governo responsáveis pelas áreas das finanças e da saúde:
+
+a) Os planos de atividades e os orçamentos, até ao final do mês de novembro de cada ano;
+
+b) Os documentos de prestação de contas, até ao final do mês de Março de cada ano;
+
+c) Os indicadores de actividade, económico-financeiros, de recursos humanos e outros definidos pelos Ministros das Finanças e da Saúde, com a periodicidade que for estabelecida.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 12.º — Financiamento
+
+1 - Os hospitais E. P. E. são financiados nos termos da base xxxiii da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro, devendo refletir as necessidades de saúde da população abrangida e permitir um adequado planeamento da oferta de cuidados de saúde.
+
+2 - O pagamento dos atos e serviços dos hospitais E. P. E. pelo Estado é feito através de contratos-programa plurianuais a celebrar com a administração regional de saúde territorialmente competente, no qual se estabelece o seguinte:
+
+a) A atividade contratada;
+
+b) Os objetivos e metas qualitativas e quantitativas;
+
+c) A calendarização das metas referidas na alínea anterior;
+
+d) Os meios e instrumentos para prosseguir os objetivos, designadamente de investimento;
+
+e) Os indicadores para avaliação do desempenho dos serviços e do nível de satisfação dos utentes e as demais obrigações assumidas pelas partes, tendo como referencial os preços praticados no mercado para os diversos atos clínicos.
+
+3 - Para efeitos do disposto no número anterior, o financiamento deve consubstanciar um instrumento indutor da excelência clínica, satisfação dos utentes e da comunidade e do desempenho das instituições.
+
+4 - A celebração dos contratos-programa é precedida de autorização dos membros do Governo responsáveis pelas áreas das finanças e da saúde, tornando-se eficazes com a sua assinatura, sem prejuízo da sua publicação na 2.ª série do Diário da República.
+
+5 - O endividamento dos hospitais E. P. E. não pode exceder em qualquer momento o limite de 30% do respectivo capital estatutário.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 12.º-A — Modelo de acompanhamento
+
+O modelo de acompanhamento do contrato-programa e os instrumentos de monitorização, acompanhamento e avaliação do desempenho assistencial de base populacional são definidos pelo conselho diretivo da Administração Central do Sistema de Saúde, I. P.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 13.º — Aquisição de bens e serviços
+
+1 - A aquisição de bens e serviços e a contratação de empreitadas pelos hospitais E. P. E. regem-se pelas normas de direito privado, sem prejuízo da aplicação do regime do direito comunitário relativo à contratação pública.
+
+2 - Devem os regulamentos internos dos hospitais E. P. E. garantir o disposto no número anterior, bem como, em qualquer caso, o cumprimento dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30
+
+### Capítulo IV — Recursos humanos
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 14.º — Regime de pessoal
+
+1 - Os trabalhadores dos hospitais E. P. E. estão sujeitos ao regime do contrato de trabalho, nos termos do Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal de carreira de profissões da saúde, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.
+
+2 - Os hospitais E. P. E. devem prever anualmente uma dotação global de pessoal, através dos respectivos orçamentos, considerando os planos de actividade.
+
+3 - Sem prejuízo do disposto no n.º 4 do artigo 15.º, os hospitais E. P. E. não podem celebrar contratos de trabalho para além da dotação referida no número anterior.
+
+4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa fé e da não discriminação, bem como da publicidade, excepto em casos de manifesta urgência devidamente fundamentada.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09
+
+###### Artigo 15.º — Regime transitório do pessoal com relação jurídica de emprego público
+
+1 - O pessoal com relação jurídica de emprego público que, à data da entrada em vigor do presente decreto-lei, esteja provido em lugares dos quadros das unidades de saúde abrangidas pelo artigo 1.º, bem como o respectivo pessoal com contrato administrativo de provimento, transita para os hospitais E. P. E. que lhes sucedem, sendo garantida a manutenção integral do seu estatuto jurídico, sem prejuízo do disposto no Decreto-Lei n.º 193/2002, de 25 de Setembro.
+
+2 - Mantêm-se com carácter residual os quadros de pessoal das unidades de saúde referidas no número anterior, exclusivamente para efeitos de acesso dos funcionários, sendo os respectivos lugares a extinguir quando vagarem, da base para o topo.
+
+3 - Mantêm-se válidos os concursos de pessoal pendentes e os estágios e cursos de especialização em curso à data da entrada em vigor do presente decreto-lei.
+
+4 - O pessoal a que se refere o presente artigo pode optar a todo o tempo pelo regime do contrato de trabalho nos termos dos artigos seguintes.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 16.º — Opção pelo contrato de trabalho
+
+A opção definitiva pelo regime do contrato de trabalho é feita, individual e definitivamente, mediante acordo escrito com o conselho de administração, tornando-se efectiva a cessação do vínculo à função pública com a sua publicação no Diário da República, data em que o contrato de trabalho a celebrar com o hospital E. P. E. passa a produzir efeitos.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 17.º — Opção temporária
+
+1 - Todos os funcionários e agentes das unidades de saúde abrangidas pelo artigo 1.º podem optar pela celebração de contrato de trabalho quando para o efeito lhes seja concedida licença sem vencimento prevista nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, sendo-lhes asseguradas:
+
+a) A contagem, na categoria de origem, do tempo de serviço prestado no respectivo hospital E. P. E.;
+
+b) A opção pelo regime de protecção social da função pública.
+
+2 - Compete ao conselho de administração do hospital E. P. E. o reconhecimento casuístico do interesse público subjacente ao pedido de licença sem vencimento.
+
+3 - Finda a licença sem vencimento, é ainda assegurada:
+
+a) A integração no quadro do serviço ou organismo do Ministério da Saúde que careça do profissional em causa, se necessário, em lugar a extinguir quando vagar, de preferência da mesma região de saúde;
+
+b) A integração no quadro de supranumerários nos termos legalmente estabelecidos.
+
+4 - Os agentes retomam o seu contrato administrativo de provimento até ao seu termo.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 18.º — Mobilidade
+
+1 - Os funcionários e agentes dos serviços e organismos do Ministério da Saúde podem ser contratados pelos hospitais E. P. E., nos termos dos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, aplicando-se o disposto no artigo anterior e competindo ao Ministro da Saúde o reconhecimento do respectivo interesse público, ouvidos os dirigentes máximos dos serviços ou organismos de origem e dos hospitais E. P. E. em causa.
+
+2 - Aplica-se aos hospitais E. P. E. o regime de comissão de serviço previsto no artigo 17.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 19.º — Regime de protecção social
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo 15.º, no n.º 1 do artigo 17.º e no n.º 1 do artigo anterior, o regime de protecção social dos hospitais E. P. E. é o regime geral da segurança social.
+
+2 - Relativamente aos funcionários e agentes que não optem pelo regime do contrato de trabalho ou que, nos termos do número anterior, mantenham o regime de protecção social da função pública, os hospitais E. P. E. contribuem para o financiamento da Caixa Geral de Aposentações com a importância que se encontrar legalmente estabelecida para a contribuição das entidades empregadoras com autonomia administrativa e financeira.
+
+3 - Os hospitais E. P. E. observam, relativamente ao pessoal referido no número anterior, o regime previsto no Decreto-Lei n.º 118/83, de 25 de Fevereiro, e no Decreto-Lei n.º 503/99, de 20 de Novembro, para os organismos dotados de autonomia administrativa e financeira.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+### Capítulo V — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 20.º — Hospitais com ensino universitário
+
+1 - Até à revisão do regime jurídico aplicável aos hospitais com ensino universitário, às entidades públicas empresariais criadas pelo n.º 1 do artigo 1.º do presente decreto-lei continuam a aplicar-se as normas actualmente em vigor que não sejam incompatíveis com a natureza e o regime de entidade pública empresarial.
+
+2 - Os hospitais previstos no número anterior devem implementar um sistema contabilístico que permita identificar custos e proveitos associados à actividade de ensino universitário.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 50-A/2007 - Diário da República n.º 42/2007, 2º Suplemento, Série I de 2007-02-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2007-470071), em vigor a partir de 2007-03-01
+
+###### Artigo 21.º — Cessação dos mandatos e das comissões de serviço
+
+1 - Com a entrada em vigor do presente decreto-lei cessam automaticamente os mandatos dos membros dos conselhos de administração e dos órgãos de direcção técnica das unidades abrangidas pelo artigo 1.º, mantendo-se os mesmos em gestão corrente até à nomeação dos novos titulares.
+
+2 - Cessam igualmente as comissões de serviço dos titulares dos cargos de direcção e chefia, mantendo-se os respectivos titulares até à designação dos novos titulares, nos termos previstos no Código do Trabalho.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 22.º — Regulamentos internos
+
+Os regulamentos internos dos hospitais E. P. E. devem ser elaborados e submetidos a homologação do Ministro da Saúde no prazo de 120 dias a contar da data de entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 23.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 31 de Dezembro de 2005.
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), em vigor a partir de 2017-02-15, produz efeitos a partir de 2017-01-01
+
+## Anexo I — Espeficidades estatutárias
+
+(ver mapas no documento original)
+
+MAPA I
+
+(ver mapas no documento original)
+
+MAPA II
+
+(ver mapas no documento original)
+
+MAPA III
+
+(revogado)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 69/2013 - Diário da República n.º 95/2013, Série I de 2013-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2013-261078), em vigor a partir de 2013-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 303/2009 - Diário da República n.º 205/2009, Série I de 2009-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2009-483169), em vigor a partir de 2010-01-01
+
+## Anexo II — Estatutos dos Hospitais e Centros Hospitalares, E. P. E.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 1.º — Natureza e duração
+
+1 - O hospital E. P. E. é uma pessoa coletiva de direito público de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, nos termos do regime jurídico do setor empresarial do Estado e das empresas públicas, e do artigo 18.º do anexo da Lei n.º 27/2002, de 8 de novembro.
+
+2 - O hospital E. P. E. é constituído por tempo indeterminado.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 2.º — Objecto
+
+1 - O hospital E. P. E. tem por objecto principal a prestação de cuidados de saúde à população, designadamente aos beneficiários do Serviço Nacional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com ele contratualizem a prestação de cuidados de saúde, e a todos os cidadãos em geral.
+
+2 - O hospital E. P. E. também tem por objecto desenvolver actividades de investigação, formação e ensino, sendo a sua participação na formação de profissionais de saúde dependente da respectiva capacidade formativa, podendo ser objecto de contratos-programa em que se definam as respectivas formas de financiamento.
+
+###### Artigo 3.º — Atribuições
+
+As atribuições do hospital E. P. E. constam dos seus regulamentos internos, são fixadas de acordo com a política de saúde a nível nacional e regional e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos-programa, em articulação com as atribuições das demais instituições do sistema de saúde.
+
+###### Artigo 4.º — Capital estatutário
+
+1 - O capital estatutário do hospital E. P. E. é o fixado no anexo I do decreto-lei que aprova os presentes Estatutos.
+
+2 - O capital estatutário é detido pelo Estado e é aumentado ou reduzido por despacho conjunto dos Ministros das Finanças e da Saúde.
+
+### Capítulo II — Órgãos
+
+Artigo 5.º
+
+Órgãos
+
+São órgãos do hospital E. P. E.:
+
+a) O conselho de administração;
+
+b) O fiscal único;
+
+c) O conselho consultivo.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+#### Secção I — Conselho de administração
+
+###### Artigo 5.º — Órgãos
+
+São órgãos do hospital E. P. E.:
+
+a) O conselho de administração;
+
+b) O fiscal único;
+
+c) O conselho consultivo.
+
+###### Artigo 6.º — Composição e mandato
+
+1 - O conselho de administração é composto pelo presidente e um máximo de quatro vogais, que exercem funções executivas, em função da dimensão e complexidade do hospital E. P. E., sendo um dos membros o diretor clínico e outro o enfermeiro-diretor.
+
+2 - Os membros do conselho de administração são designados de entre individualidades que reúnam os requisitos previstos no Estatuto do Gestor Público e possuam experiência de gestão empresarial, preferencialmente na área da saúde, sendo o diretor clínico um médico e o enfermeiro-diretor um enfermeiro.
+
+3 - A designação dos membros do conselho de administração observa o disposto nos artigos 12.º e 13.º do Estatuto do Gestor Público.
+
+4 - O mandato dos membros do conselho de administração tem a duração de três anos e é renovável, até ao máximo de três renovações consecutivas, permanecendo aqueles no exercício das suas funções até à designação dos novos titulares, sem prejuízo da renúncia a que houver lugar.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2010-306579), em vigor a partir de 2011-01-01, produz efeitos a partir de 2011-01-01
+
+###### Artigo 7.º — Competências do conselho de administração
+
+1 - Compete ao conselho de administração garantir o cumprimento dos objectivos básicos, bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e em especial:
+
+a) Propor os planos de acção anuais e plurianuais e respectivos orçamentos, bem como os demais instrumentos de gestão previsional legalmente previstos, e assegurar a respectiva execução;
+
+b) Celebrar contratos-programa externos e internos;
+
+c) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento do hospital E. P. E. nas áreas clínicas e não clínicas, propondo a criação de novos serviços, sua extinção ou modificação;
+
+d) Definir as políticas referentes a recursos humanos, incluindo as remunerações dos trabalhadores e dos titulares dos cargos de direcção e chefia;
+
+e) Autorizar a realização de trabalho extraordinário e de prevenção dos trabalhadores do hospital E. P. E., independentemente do seu estatuto, bem como autorizar o respectivo pagamento;
+
+f) Designar o pessoal para cargos de direcção e chefia;
+
+g) Aprovar o regulamento disciplinar do pessoal e as condições de prestação e disciplina do trabalho;
+
+h) Apresentar os documentos de prestação de contas, nos termos definidos na lei;
+
+i) Aprovar e submeter a homologação do Ministro da Saúde o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;
+
+j) Decidir sobre a realização de ensaios clínicos e terapêuticos, ouvida a comissão de ética, sem prejuízo do cumprimento das disposições aplicáveis;
+
+l) Acompanhar e avaliar sistematicamente a actividade desenvolvida pelo hospital E. P. E., designadamente responsabilizando os diferentes sectores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos da qualidade dos serviços prestados;
+
+m) Tomar conhecimento e determinar as medidas adequadas, se for caso disso, sobre as queixas e reclamações apresentadas pelos utentes;
+
+n) Decidir sobre a admissão e gestão do pessoal;
+
+o) Autorizar a aplicação de todas as modalidades de regimes de trabalho legalmente admissíveis;
+
+p) Exercer a competência em matéria disciplinar prevista na lei, independentemente da relação jurídica de emprego;
+
+q) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;
+
+r) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento da despesa do hospital E. P. E.;
+
+s) Tomar as providências necessárias à conservação do património afecto ao desenvolvimento da sua actividade e autorizar as despesas inerentes, previstas no plano de investimentos.
+
+2 - Sem prejuízo do disposto no número anterior e em normas especiais, o conselho de administração detém, ainda, as competências legalmente atribuídas aos titulares dos cargos de direcção superior de 1.º grau da administração central do Estado relativamente aos funcionários e agentes da Administração Pública.
+
+3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direcção e chefia, com excepção das previstas nas alíneas a) a j) do n.º 1, definindo em acta os limites e condições do seu exercício.
+
+###### Artigo 8.º — Presidente do conselho de administração
+
+1 - Compete ao presidente do conselho de administração:
+
+a) Coordenar a actividade do conselho de administração e dirigir as respectivas reuniões;
+
+b) Garantir a correcta execução das deliberações do conselho de administração;
+
+c) Submeter a aprovação ou a autorização dos membros do Governo competentes todos os actos que delas careçam;
+
+d) Representar o hospital E. P. E. em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;
+
+e) Exercer as competências que lhe sejam delegadas.
+
+2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.
+
+###### Artigo 9.º — Director clínico
+
+1 - Ao director clínico compete a direcção de produção clínica do hospital E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correcção e prontidão dos cuidados de saúde prestados, designadamente:
+
+a) Coordenar a elaboração dos planos de acção apresentados pelos vários serviços e departamentos de acção médica a integrar no plano de acção global do hospital;
+
+b) Assegurar uma integração adequada da actividade médica dos departamentos e serviços, designadamente através de uma utilização não compartimentada da capacidade instalada;
+
+c) Propor medidas necessárias à melhoria das estruturas organizativas, funcionais e físicas dos serviços de acção médica, dentro de parâmetros de eficiência e eficácia reconhecidos, que produzam os melhores resultados face às tecnologias disponíveis;
+
+d) Aprovar as orientações clínicas relativas à prescrição de medicamentos e meios complementares de diagnóstico e terapêutica, bem como os protocolos clínicos adequados às patologias mais frequentes, respondendo perante o conselho de administração pela sua adequação em termos de qualidade e de custo-benefício;
+
+e) Propor ao conselho de administração a realização, sempre que necessário, da avaliação externa do cumprimento das orientações clínicas e protocolos mencionados, em colaboração com a Ordem dos Médicos e instituições de ensino médico e sociedades científicas;
+
+f) Desenvolver a implementação de instrumentos de garantia de qualidade técnica dos cuidados de saúde;
+
+g) Decidir sobre conflitos de natureza técnica entre serviços de acção médica;
+
+h) Decidir as dúvidas que lhe sejam presentes sobre deontologia médica, desde que não seja possível o recurso, em tempo útil, à comissão de ética;
+
+i) Participar na gestão do pessoal médico, designadamente nos processos de admissão e mobilidade interna, ouvidos os respectivos directores de serviço;
+
+j) Velar pela constante actualização do pessoal médico;
+
+l) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da medicina e com a formação dos médicos.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 183/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), em vigor a partir de 2015-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 10.º — Enfermeiro-director
+
+Compete ao enfermeiro-director a coordenação técnica da actividade de enfermagem do hospital E. P. E., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
+
+a) Coordenar a elaboração dos planos de acção de enfermagem apresentados pelos vários serviços a integrar no plano de acção global do hospital E. P. E.;
+
+b) Colaborar com o director clínico na compatibilização dos planos de acção dos diferentes serviços de acção médica;
+
+c) Contribuir para a definição das políticas ou directivas de formação e investigação em enfermagem;
+
+d) Definir padrões de cuidados de enfermagem e indicadores de avaliação dos cuidados de enfermagem prestados;
+
+e) Elaborar propostas referentes à gestão do pessoal de enfermagem, designadamente participar no processo de admissão e de mobilidade dos enfermeiros;
+
+f) Promover e acompanhar o processo de avaliação do pessoal de enfermagem;
+
+g) Propor a criação de um sistema efectivo de classificação de utentes que permita determinar necessidades em cuidados de enfermagem e zelar pela sua manutenção;
+
+h) Elaborar estudos para determinação de custos e benefícios no âmbito dos cuidados de enfermagem;
+
+i) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da actividade de enfermagem e com a formação dos enfermeiros.
+
+###### Artigo 11.º — Funcionamento do conselho de administração
+
+1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do fiscal único.
+
+2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno do hospital E. P. E.
+
+3 - O presidente do conselho de administração tem voto de qualidade.
+
+4 - Das reuniões do conselho de administração devem ser lavradas actas, a aprovar na reunião seguinte.
+
+###### Artigo 12.º — Vinculação
+
+O hospital E. P. E. obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 7.º
+
+###### Artigo 13.º — Estatuto dos membros
+
+1 - Aos membros do conselho de administração aplica-se o Estatuto do Gestor Público, sem prejuízo do disposto nos presentes Estatutos e no respetivo diploma de aprovação.
+
+2 - (Revogado.)
+
+3 - O membro do conselho de administração, que exerce as funções de diretor clínico, pode, a título excecional e no âmbito do mesmo estabelecimento de saúde, cujo órgão máximo integra, exercer atividade médica, de natureza assistencial, de forma remunerada, mediante autorização, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+4 - A remuneração prevista no número anterior corresponde a uma percentagem da remuneração da respetiva categoria correspondente ao lugar ou posto de trabalho de origem, calculada em função do número de horas semanais efetivamente prestadas, não podendo exceder 50 % da remuneração que compete ao exercício de funções de gestão.
+
+5 - Caso o médico não esteja integrado na carreira especial médica a remuneração prevista no número anterior tem por referência a primeira posição remuneratória da categoria de assistente graduado e é calculada em função do número de horas semanais efetivamente prestadas, não podendo exceder 50 % da remuneração que compete ao exercício de funções de gestão.
+
+6 - O exercício da atividade médica prevista no n.º 3 depende de requerimento do interessado e da verificação de comprovado interesse para o serviço.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 183/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), em vigor a partir de 2015-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 14.º — Dissolução do conselho de administração
+
+1 - Para além das situações previstas no n.º 1 do artigo 24.º do Estatuto do Gestor Público, o conselho de administração pode ser dissolvido em caso de grave deterioração da qualidade dos serviços prestados, quando não for provocada por razões alheias ao exercício das funções pelos gestores.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+#### Secção II — Fiscal único
+
+###### Artigo 15.º — Fiscal único
+
+1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do hospital E. P. E.
+
+2 - O fiscal único é designado por despacho do membro do Governo responsável pela área das finanças, obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.
+
+3 - O disposto no número anterior não prejudica a aplicação da legislação relativa à fiscalização das entidades de interesse público enumeradas no Decreto-Lei n.º 225/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 71/2010, de 18 de junho.
+
+4 - O fiscal único não pode ter exercido atividades remuneradas no próprio hospital E. P. E. ou nas entidades de direito privado por este participadas, nos últimos três anos antes do início das suas funções, e não pode exercer atividades remuneradas no hospital E. P. E. fiscalizado ou nas entidades de direito privado acima referidas, durante o período de duração do seu mandato, bem como nos três anos subsequentes ao termo das suas funções.
+
+5 - O mandato do fiscal único tem a duração de três anos, renovável apenas uma vez.
+
+6 - O fiscal único tem um suplente, que observa o disposto nos números anteriores.
+
+7 - Cessando o mandato, o fiscal único mantém-se em exercício de funções até à designação de novo titular ou à declaração ministerial de cessação de funções.
+
+8 - A remuneração do fiscal único é fixada no despacho a que se refere o n.º 2, atendendo ao grau de complexidade e de exigência inerente ao exercício do respetivo cargo e tendo em conta os critérios de classificação do hospital E. P. E. fixados na resolução do Conselho de Ministros a que se refere o n.º 4 do artigo 28.º do Estatuto do Gestor Público.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 16.º — Competências
+
+1 - O fiscal único tem as competências, os poderes e os deveres estabelecidos na lei e nestes Estatutos.
+
+2 - Ao fiscal único compete, especialmente:
+
+a) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
+
+b) Dar parecer sobre o relatório de gestão do exercício e certificar as contas;
+
+c) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;
+
+d) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;
+
+e) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;
+
+f) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;
+
+g) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;
+
+h) Dar parecer sobre a realização de investimentos e a contracção de empréstimos;
+
+i) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;
+
+j) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado;
+
+l) Verificar se os critérios valorimétricos adoptados pelo hospital E. P. E. conduzem a uma correcta avaliação do património e dos resultados.
+
+#### Secção III — Serviço de auditoria interna
+
+###### Artigo 17.º — Serviço de auditoria interna
+
+1 - Ao serviço de auditoria interna compete a avaliação dos processos de controlo interno e de gestão de riscos, nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos, contribuindo para o seu aperfeiçoamento contínuo.
+
+2 - Ao serviço de auditoria interna compete em especial:
+
+a) Fornecer ao conselho de administração análises e recomendações sobre as atividades revistas para melhoria do funcionamento dos serviços;
+
+b) Receber as comunicações de irregularidades sobre a organização e funcionamento do hospital E. P. E. apresentadas pelos demais órgãos estatutários, trabalhadores, colaboradores, utentes e cidadãos em geral;
+
+c) Elaborar o plano anual de auditoria interna;
+
+d) Elaborar anualmente um relatório sobre a atividade desenvolvida, em que se refiram os controlos efetuados, as anomalias detetadas e as medidas corretivas a adotar.
+
+3 - A direção do serviço de auditoria interna compete a um auditor interno, que exerce as respetivas funções pelo período de cinco anos, renovável por iguais períodos, até ao limite máximo de três renovações consecutivas ou interpoladas, e que é apoiado tecnicamente nas suas funções por um máximo de três técnicos auditores.
+
+4 - O auditor interno é recrutado pelo conselho de administração, de entre individualidades que reúnam os seguintes requisitos:
+
+a) Qualificação técnica, competências e experiência em auditoria;
+
+b) Inscrição no organismo nacional que regule a atividade de auditoria interna.
+
+5 - Os técnicos que integrem o serviço de auditoria interna devem possuir curso superior adequado ao exercício das suas funções.
+
+6 - Não pode ser recrutado como auditor interno ou técnico do serviço de auditoria interna quem tenha exercido funções de administração no próprio hospital E. P. E., nos últimos três anos, ou em relação ao qual se verifiquem outras incompatibilidades e impedimentos previstos na lei, sendo aplicável, com as necessárias adaptações, o disposto no artigo 414.º-A do Código das Sociedades Comerciais.
+
+7 - O auditor interno exerce as respetivas funções a tempo inteiro, de acordo com as normas internacionais para a prática profissional de auditoria interna e gestão de riscos.
+
+8 - O conselho de administração comunica à Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), à Direção-Geral do Tesouro e Finanças (DGTF), à Inspeção-Geral das Atividades em Saúde (IGAS) e à Inspeção-Geral de Finanças (IGF) a identidade do auditor interno e as datas de início e termo de funções.
+
+9 - A não renovação ou cessação antecipada de funções do auditor interno ocorre por deliberação fundamentada do conselho de administração, precedida de comunicação ao membro do Governo responsável pela área da saúde, ou de quem, para o efeito, detenha poderes delegados.
+
+10 - A retribuição mensal ilíquida do auditor interno, incluindo suplementos remuneratórios, não pode ser superior a 85 % do vencimento mensal ilíquido estabelecido para o vogal do conselho de administração.
+
+11 - No âmbito da sua atividade, o serviço de auditoria interna colabora com a ACSS, I. P., e a IGAS.
+
+12 - O plano anual de auditoria e o relatório anual de auditoria são aprovados e submetidos pelo conselho de administração às entidades referidas no n.º 8, respetivamente, até 15 de dezembro e 15 de março de cada ano.
+
+13 - O serviço de auditoria interna depende, em termos orgânicos, do presidente do conselho de administração.
+
+14 - No sentido de obter informação adequada para o desenvolvimento das suas competências, o serviço de auditoria interna tem acesso livre a registos, documentação, computadores, instalações e pessoal do hospital, com exceção dos registos clínicos individuais dos utentes.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 17.º-A — Sistema de controlo interno e de comunicação de irregularidades
+
+1 - O hospital E. P. E. dispõe de um sistema de controlo interno e de comunicação de irregularidades, competindo ao conselho de administração assegurar a sua implementação e manutenção e ao auditor interno a responsabilidade pela sua avaliação.
+
+2 - O sistema de controlo interno compreende o conjunto de estratégias, políticas, processos, regras e procedimentos estabelecidos no hospital E. P. E. com vista a garantir:
+
+a) Um desempenho eficiente da atividade que assegure a utilização eficaz dos ativos e recursos, a continuidade, segurança e qualidade da prestação de cuidados de saúde, através de uma adequada gestão e controlo dos riscos da atividade, da prudente e correta avaliação dos ativos e responsabilidades, bem como da definição de mecanismos de prevenção e de proteção do serviço público contra atuações danosas;
+
+b) A existência de informação financeira e de gestão que suporte as tomadas de decisão e os processos de controlo, tanto no nível interno como no externo;
+
+c) O respeito pelas disposições legais e regulamentares aplicáveis, bem como pelas normas profissionais e deontológicas aplicáveis, pelas regras internas e estatutárias, regras de conduta e de relacionamento, orientações tutelares e recomendações aplicáveis de entidades externas como o Tribunal de Contas.
+
+3 - O sistema de controlo interno tem por base um adequado sistema de gestão de risco, um sistema de informação e de comunicação e um processo de monitorização que assegure a respetiva adequação e eficácia em todas as áreas de intervenção.
+
+4 - Mediante proposta do serviço de auditoria interna, deve ser aprovado, pelo conselho de administração do hospital E. P. E., um regulamento que defina as regras e procedimentos de comunicação interna de irregularidades, através do qual possam ser descritos factos que indiciem:
+
+a) Violação de princípios e disposições legais, regulamentares e deontológicas por parte dos membros dos órgãos estatutários, trabalhadores, fornecedores de bens e prestadores de serviços no exercício dos seus cargos profissionais;
+
+b) Dano, abuso ou desvio relativo ao património do hospital E. P. E. ou dos utentes;
+
+c) Prejuízo à imagem ou reputação do hospital E. P. E.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+#### Secção IV — Conselho consultivo
+
+###### Artigo 18.º — Composição do conselho consultivo
+
+1 - O conselho consultivo tem a seguinte composição:
+
+a) Uma personalidade de reconhecido mérito nomeada pelo Ministro da Saúde, que preside;
+
+b) Um representante do município da sede do hospital E. P. E. ou, no caso dos centros hospitalares, de cada município onde se encontrem situados os respectivos estabelecimentos;
+
+c) Um representante da respectiva administração regional de saúde;
+
+d) Um representante dos utentes, designado pela respectiva associação ou por equivalente estrutura de representação;
+
+e) Um representante eleito pelos trabalhadores do hospital E. P. E.;
+
+f) Um representante dos prestadores de trabalho voluntário no hospital E. P. E., entre estes eleito, quando existam;
+
+g) Dois elementos, escolhidos pelo conselho de administração do hospital E. P. E., que sejam profissionais de saúde sem vínculo ao mesmo.
+
+2 - Compete ao presidente do conselho consultivo promover a designação dos respectivos membros.
+
+3 - Os membros do conselho de administração e o fiscal único podem ter assento no conselho consultivo, sem direito de voto.
+
+4 - O mandato dos membros do conselho consultivo tem a duração de três anos, sem prejuízo da possibilidade da sua substituição, a todo o tempo, pelas entidades que os designaram ou elegeram.
+
+5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que houver lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pelo Hospital E. P. E.
+
+###### Artigo 19.º — Competências do conselho consultivo
+
+Compete ao conselho consultivo:
+
+a) Apreciar os planos de actividade de natureza anual e plurianual;
+
+b) Apreciar todas as informações que tiver por necessárias para o acompanhamento da actividade do hospital E. P. E.;
+
+c) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a prestar às populações, tendo em conta os recursos disponíveis.
+
+###### Artigo 20.º — Funcionamento do conselho consultivo
+
+1 - O conselho consultivo reúne, pelo menos, uma vez por ano e as suas deliberações são tomadas por maioria simples e constam de acta, tendo o presidente voto de qualidade.
+
+2 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias úteis, devendo ser indicados na convocatória a data, a hora e o local em que se realizam, bem como a respectiva ordem de trabalhos.
+
+3 - Se à hora indicada não existir quórum, a reunião efectua-se uma hora depois, podendo o conselho deliberar por maioria dos votos dos membros presentes.
+
+4 - As demais regras de funcionamento do conselho consultivo são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento.
+
+#### Secção V — Comissões de apoio técnico
+
+###### Artigo 21.º — Comissões de apoio técnico
+
+1 - As comissões de apoio técnico são órgãos de carácter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.
+
+2 - Em cada hospital E. P. E. são imperativamente constituídas as seguintes comissões:
+
+a) Ética;
+
+b) Qualidade e segurança do doente;
+
+c) Controlo da infecção hospitalar;
+
+d) Farmácia e terapêutica.
+
+3 - Sem prejuízo do disposto no número anterior, podem ser criadas pelo conselho de administração outras comissões de apoio técnico que, nos termos da lei, da actividade do hospital e da legis artis, se justifiquem, devendo a sua estrutura, composição e funcionamento constar do regulamento interno.
+
+4 - Compete ao conselho de administração, sob proposta do director clínico, a designação do presidente e dos membros das comissões de apoio técnico.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 50-A/2007 - Diário da República n.º 42/2007, 2º Suplemento, Série I de 2007-02-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2007-470071), em vigor a partir de 2007-03-01
+
+### Capítulo III — Avaliação, controlo e prestação de contas
+
+###### Artigo 22.º — Instrumentos de gestão previsional
+
+A gestão financeira e patrimonial do hospital E. P. E. rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
+
+a) Planos plurianuais e anuais de actividades, de investimento e financeiros, com um horizonte de três anos;
+
+b) Orçamento anual de investimento;
+
+c) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos;
+
+d) Orçamento anual de tesouraria;
+
+e) Balanço previsional;
+
+f) Contratos-programa externos;
+
+g) Contratos-programa internos.
+
+###### Artigo 23.º — Reservas e fundos
+
+1 - O hospital E. P. E. deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:
+
+a) Reserva legal;
+
+b) Reserva para investimentos.
+
+2 - Uma percentagem não inferior a 20% dos resultados de cada exercício apurado de acordo com as normas contabilísticas vigentes é destinada à constituição da reserva legal.
+
+3 - A reserva legal pode ser utilizada para cobrir eventuais prejuízos de exercício.
+
+4 - Integram a reserva para investimentos, entre outras receitas:
+
+a) A parte dos resultados apurados em cada exercício que lhe for anualmente destinado;
+
+b) As receitas provenientes de comparticipações, dotações, subsídios, subvenções ou quaisquer compensações financeiras de que o hospital E. P. E. seja beneficiário e destinadas a esse fim.
+
+5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho conjunto dos Ministros das Finanças e da Saúde.
+
+###### Artigo 24.º — Contabilidade
+
+O hospital, E. P. E., adota o sistema contabilístico que lhe for aplicável por lei.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 183/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), em vigor a partir de 2015-09-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 244/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2012-191998), em vigor a partir de 2012-12-01
+
+###### Artigo 25.º — Documentos de prestação de contas
+
+Os instrumentos de prestação de contas do hospital E. P. E., a elaborar anualmente com referência a 31 de Dezembro de cada ano, são, designadamente, os seguintes:
+
+a) Relatório do conselho de administração e proposta de aplicação dos resultados;
+
+b) Relatório sobre a execução anual do plano plurianual de investimentos;
+
+c) Balanço e demonstração de resultados;
+
+d) Anexo ao balanço e demonstração de resultados;
+
+e) Demonstração de fluxos de caixa;
+
+f) Relação dos empréstimos contraídos a médio e longo prazos;
+
+g) Certificação legal de contas;
+
+h) Relatório e parecer do fiscal único.
+
+## Anexo III — Estatutos das Unidades Locais de Saúde, E. P. E.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+### Capítulo I — Princípios gerais
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 1.º — Natureza e duração
+
+1 - A Unidade Local de Saúde, E. P. E. (ULS, E. P. E.), é uma pessoa coletiva de direito público de natureza empresarial dotada de autonomia administrativa, financeira e patrimonial, nos termos do regime jurídico do setor público empresarial e do artigo 18.º do anexo da Lei n.º 27/2002, de 8 de novembro.
+
+2 - A ULS, E. P. E., é constituída por tempo indeterminado.
+
+###### Artigo 3.º — Atribuições
+
+As atribuições da ULS, E. P. E., constam dos seus regulamentos internos, são fixadas de acordo com a política de saúde a nível nacional e regional e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos-programa, em articulação com as atribuições das demais instituições do sistema de saúde.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 4.º — Capital estatutário
+
+O capital estatutário da ULS, E. P. E., é detido pelo Estado e é aumentado ou reduzido por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 2.º — Objeto
+
+1 - A ULS, E. P. E., tem por objeto principal a prestação integrada de cuidados de saúde primários, hospitalares e continuados à população, designadamente aos beneficiários do Serviço Nacional de Saúde e aos beneficiários dos subsistemas de saúde ou de entidades externas que com ela contratualizem a prestação de cuidados de saúde.
+
+2 - A ULS, E. P. E., também tem por objeto:
+
+a) Assegurar as atividades de serviços operativos de saúde pública e os meios necessários ao exercício das competências da autoridade de saúde na área geográfica por ela abrangida;
+
+b) Desenvolver atividades de investigação, formação e ensino, sendo a sua participação na formação de profissionais de saúde dependente da respetiva capacidade formativa, podendo ser objeto de contratos-programa em que se definam as respetivas formas de financiamento;
+
+c) Prestar serviços a cidadãos estrangeiros não residentes no âmbito da legislação nacional e internacional em vigor.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+### Capítulo II — Órgãos
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+#### Secção I — Conselho de administração
+
+###### Artigo 5.º — Órgãos
+
+São órgãos da ULS, E. P. E.:
+
+a) O conselho de administração;
+
+b) O fiscal único;
+
+c) O conselho consultivo.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 6.º — Composição e mandato
+
+1 - O conselho de administração é composto pelo presidente e um máximo de quatro vogais, que exercem funções executivas, incluindo até dois diretores-clínicos e um enfermeiro-diretor.
+
+2 - Os membros do conselho de administração são designados de entre individualidades que reúnam os requisitos previstos no Estatuto do Gestor Público e possuam experiência de gestão empresarial, preferencialmente na área da saúde, sendo diretor clínico um médico e enfermeiro-diretor um enfermeiro.
+
+3 - A designação dos membros do conselho de administração observa o disposto nos artigos 12.º e 13.º do Estatuto do Gestor Público.
+
+4 - O mandato dos membros do conselho de administração tem a duração de três anos e é renovável, até ao máximo de três renovações consecutivas, permanecendo aqueles no exercício das suas funções até à designação dos novos titulares, sem prejuízo da renúncia a que houver lugar.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 7.º — Competências do conselho de administração
+
+1 - Compete ao conselho de administração garantir o cumprimento dos objetivos em geral, bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e em especial:
+
+a) Propor os planos de ação anuais e plurianuais e respetivos orçamentos, bem como os demais instrumentos de gestão previsional legalmente previstos e assegurar a respetiva execução;
+
+b) Celebrar contratos-programa externos e internos de harmonia com o disposto no artigo 34.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro;
+
+c) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento da ULS, E. P. E., nas áreas clínicas e não clínicas, propondo a criação de novos serviços, sua extinção ou modificação;
+
+d) Definir as políticas referentes aos recursos humanos, incluindo as remunerações dos trabalhadores e dos titulares dos cargos de direção e chefia;
+
+e) Autorizar a realização de trabalho extraordinário e de prevenção dos trabalhadores da ULS, E. P. E., bem como autorizar o respetivo pagamento, nos termos da lei;
+
+f) Designar o pessoal para cargos de direção e chefia;
+
+g) Aprovar o regulamento disciplinar do pessoal e as condições de prestação e disciplina do trabalho;
+
+h) Apresentar os documentos de prestação de contas, nos termos definidos na lei;
+
+i) Aprovar e submeter a homologação do membro do Governo responsável pela área da saúde o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;
+
+j) Decidir sobre a realização de ensaios clínicos e terapêuticos, ouvida a comissão de ética, sem prejuízo do cumprimento das disposições aplicáveis;
+
+k) Contratar com entidades públicas, privadas e do setor social a prestação de cuidados de saúde, sem prejuízo de acordos de âmbito regional ou nacional estabelecidos com o Serviço Nacional de Saúde para o mesmo efeito;
+
+l) Prestar colaboração ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., no âmbito do licenciamento de farmácias e armazenistas de medicamentos;
+
+m) Desenvolver um processo de contratualização interna com o objetivo de acompanhar e avaliar sistematicamente a atividade desenvolvida pela ULS, E. P. E., designadamente responsabilizando os diferentes setores pela utilização eficiente dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos da qualidade dos serviços prestados e da garantia da sustentabilidade económico-financeira da instituição;
+
+n) Tomar conhecimento e determinar as medidas adequadas, se for caso disso, sobre as queixas e reclamações apresentadas pelos utentes, sem prejuízo das demais competências de outras entidades em matéria de tratamento de reclamações;
+
+o) Decidir sobre a admissão e gestão do pessoal;
+
+p) Autorizar a aplicação de todas as modalidades de regimes de trabalho legalmente admissíveis;
+
+q) Exercer a competência em matéria disciplinar prevista na lei, independentemente da relação jurídica de emprego;
+
+r) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;
+
+s) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento da despesa da ULS, E. P. E.;
+
+t) Tomar as providências necessárias à conservação do património afeto ao desenvolvimento da sua atividade e autorizar as despesas inerentes, previstas no plano de investimentos.
+
+2 - Sem prejuízo do disposto no número anterior e em normas especiais, o conselho de administração detém, ainda, as competências legalmente atribuídas aos titulares dos cargos de direção superior de 1.º grau da administração central do Estado, relativamente aos trabalhadores em regime de contrato de trabalho em funções públicas.
+
+3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direção e chefia, com exceção das previstas nas alíneas a) a m) do n.º 1, definindo em ata os limites e condições do seu exercício.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 8.º — Presidente do conselho de administração
+
+1 - Compete ao presidente do conselho de administração:
+
+a) Coordenar a atividade do conselho de administração e dirigir as respetivas reuniões;
+
+b) Garantir a correta execução das deliberações do conselho de administração;
+
+c) Submeter a aprovação ou a autorização dos membros do Governo competentes todos os atos que delas careçam;
+
+d) Representar a ULS, E. P. E., em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;
+
+e) Exercer as competências que lhe sejam delegadas.
+
+2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 9.º — Diretor clínico
+
+1 - Ao diretor clínico compete a direção de atividade assistencial da ULS, E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correção e prontidão dos cuidados de saúde prestados, designadamente:
+
+a) Coordenar a elaboração dos planos de ação apresentados pelos vários serviços e departamentos de atividade clínica no âmbito hospitalar e das unidades funcionais de prestação de cuidados de saúde primários, a integrar no plano de ação global da ULS, E. P. E.;
+
+b) Assegurar uma integração adequada da atividade clínica no âmbito hospitalar e das unidades funcionais de prestação decuidados de saúde primários, designadamente através de uma utilização e alocação da capacidade instalada de forma concertada e tecnicamente eficiente;
+
+c) Propor medidas necessárias à melhoria das estruturas organizativas, funcionais e físicas dos serviços de atividade clínica no âmbito hospitalar e das unidades funcionais de prestação de cuidados de saúde primários, dentro de parâmetros de eficiência e eficácia reconhecidos, que produzam os melhores resultados face às tecnologias disponíveis;
+
+d) Aprovar as orientações clínicas relativas à prescrição de medicamentos e meios complementares de diagnóstico e terapêutica, bem como os protocolos clínicos adequados às patologias mais frequentes, respondendo perante o conselho de administração pela sua adequação em termos de qualidade e de custo-benefício;
+
+e) Propor ao conselho de administração a realização, sempre que necessário, da avaliação externa do cumprimento das orientações clínicas e protocolos mencionados, em colaboração com a Ordem dos Médicos e instituições de ensino médico e sociedades científicas;
+
+f) Desenvolver a implementação de instrumentos de garantia de qualidade técnica dos cuidados de saúde;
+
+g) Decidir sobre conflitos de natureza técnica decorrentes da ação médica;
+
+h) Decidir as dúvidas que lhe sejam presentes sobre deontologia médica, desde que não seja possível o recurso, em tempo útil, à comissão de ética;
+
+i) Participar na gestão do pessoal médico, designadamente nos processos de admissão e mobilidade interna, ouvidos os respetivos dirigentes;
+
+j) Velar pela constante atualização do pessoal médico;
+
+k) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da medicina, investigação e com a formação dos médicos;
+
+l) Desenvolver e analisar estatísticas de saúde.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 183/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), em vigor a partir de 2015-09-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 10.º — Enfermeiro-diretor
+
+Compete ao enfermeiro-diretor a coordenação técnica da atividade de enfermagem da ULS, E. P. E., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
+
+a) Coordenar a elaboração dos planos de ação de enfermagem apresentados pelos vários serviços a integrar no plano de ação global da ULS, E. P. E.;
+
+b) Colaborar com o diretor clínico na compatibilização dos planos de ação dos diferentes serviços e departamentos, tendo em vista a garantia da efetividade dos cuidados prestados;
+
+c) Contribuir para a definição das políticas ou diretivas de formação e investigação em enfermagem;
+
+d) Definir padrões de cuidados de enfermagem e indicadores de avaliação dos cuidados de enfermagem prestados;
+
+e) Elaborar propostas referentes à gestão do pessoal de enfermagem, designadamente participar no processo de admissão e de mobilidade dos enfermeiros;
+
+f) Promover e acompanhar o processo de avaliação do pessoal de enfermagem;
+
+g) Propor a criação de um sistema efetivo de classificação de utentes que permita determinar necessidades em cuidados de enfermagem e zelar pela sua manutenção;
+
+h) Elaborar estudos para determinação de custos e benefícios no âmbito dos cuidados de enfermagem;
+
+i) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da atividade de enfermagem e com a formação dos enfermeiros.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 11.º — Funcionamento do conselho de administração
+
+1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do fiscal único.
+
+2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno da ULS, E. P. E.
+
+3 - O presidente do conselho de administração tem voto de qualidade.
+
+4 - Das reuniões do conselho de administração devem ser lavradas atas, a aprovar na reunião seguinte.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 12.º — Vinculação
+
+A ULS, E. P. E., obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 6.º dos presentes Estatutos.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 13.º — Estatuto dos membros
+
+1 - Aos membros do conselho de administração aplica-se o estatuto do gestor público, sem prejuízo do disposto nos presentes Estatutos e no respetivo diploma de aprovação.
+
+2 - O membro do conselho de administração, que exerce as funções de diretor clínico, pode, a título excecional e no âmbito do mesmo estabelecimento de saúde, cujo órgão máximo integra, exercer atividade médica, de natureza assistencial, de forma remunerada, mediante autorização, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+3 - A remuneração prevista no número anterior corresponde a uma percentagem da remuneração da respetiva categoria correspondente ao lugar ou posto de trabalho de origem, calculada em função do número de horas semanais efetivamente prestadas, não podendo exceder 50 % da remuneração que compete ao exercício de funções de gestão.
+
+4 - Caso o médico não esteja integrado na carreira especial médica a remuneração prevista no número anterior tem por referência a primeira posição remuneratória da categoria de assistente graduado e é calculada em função do número de horas semanais efetivamente prestadas, não podendo exceder 50 % da remuneração que compete ao exercício de funções de gestão.
+
+5 - O exercício da atividade médica prevista no n.º 2 depende de requerimento do interessado e da verificação de comprovado interesse para o serviço.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 183/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), em vigor a partir de 2015-09-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 14.º — Dissolução do conselho de administração
+
+Para além das situações previstas no n.º 1 do artigo 24.º do Estatuto do Gestor Público, o conselho de administração pode ser dissolvido em caso de grave deterioração da qualidade dos serviços prestados, quando não for provocada por razões alheias ao exercício das funções pelos gestores.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+#### Secção II — Fiscal único
+
+###### Artigo 15.º — Fiscal único
+
+1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da ULS, E. P. E.
+
+2 - O fiscal único é designado por despacho do membro do Governo responsável pelas áreas das finanças, obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.
+
+3 - O disposto no número anterior não prejudica a aplicação da legislação relativa à fiscalização das entidades de interesse público enumeradas no Decreto-Lei n.º 225/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 71/2010, de 18 de junho.
+
+4 - O fiscal único não pode ter exercido atividades remuneradas na ULS, E. P. E., respetiva, ou nas entidades de direito privado por esta participada, nos últimos três anos antes do início das suas funções, e não pode exercer atividades remuneradas na ULS, E. P. E., ou nas entidades de direito privado acima referidas durante o período de duração do seu mandato, bem como nos três anos subsequentes ao termo das suas funções.
+
+5 - O mandato do fiscal único tem a duração de três anos, renovável apenas uma vez.
+
+6 - O fiscal único tem um suplente, que observa o disposto nos números anteriores.
+
+7 - Cessando o mandato, o fiscal único mantém-se em exercício de funções até à designação de novo titular ou à declaração ministerial de cessação de funções.
+
+8 - A remuneração do fiscal único é fixada no despacho a que se refere o n.º 2, atendendo ao grau de complexidade e de exigência inerente ao exercício do respetivo cargo e tendo em conta os critérios de classificação da ULS, E. P. E., fixadas na Resolução do Conselho de Ministros a que se refere o n.º 4 do artigo 28.º do Estatuto do Gestor Público.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 16.º — Competências
+
+1 - O fiscal único tem as competências, os poderes e os deveres estabelecidos na lei e nestes Estatutos.
+
+2 - Ao fiscal único compete, especialmente:
+
+a) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;
+
+b) Dar parecer sobre o relatório de gestão do exercício e certificar as contas;
+
+c) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;
+
+d) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;
+
+e) Propor a realização de auditorias externas quando tal se mostre necessário ou conveniente;
+
+f) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;
+
+g) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;
+
+h) Dar parecer sobre a realização de investimentos e a contração de empréstimos;
+
+i) Elaborar relatórios da sua ação fiscalizadora, incluindo um relatório anual global;
+
+j) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado;
+
+k) Verificar se os critérios valorimétricos adotados pela ULS, E. P. E., conduzem a uma correta avaliação do património e dos resultados.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+#### Secção III — Serviço de auditoria interna
+
+###### Artigo 17.º — Serviço de auditoria interna
+
+1 - Ao serviço de auditoria interna compete a avaliação dos processos de controlo interno e de gestão de riscos, nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos, contribuindo para o seu aperfeiçoamento contínuo.
+
+2 - Ao serviço de auditoria interna compete em especial:
+
+a) Fornecer ao conselho de administração análises e recomendações sobre as atividades revistas para melhoria do funcionamento dos serviços;
+
+b) Receber as comunicações de irregularidades sobre a organização e funcionamento da ULS, E. P. E. apresentadas pelos demais órgãos estatutários, trabalhadores, colaboradores, utentes e cidadãos em geral;
+
+c) Elaborar o plano anual de auditoria interna;
+
+d) Elaborar anualmente um relatório sobre a atividade desenvolvida, em que se refiram os controlos efetuados, as anomalias detetadas e as medidas corretivas a adotar.
+
+3 - A direção do serviço de auditoria interna compete a um auditor interno, que exerce as respetivas funções pelo período de cinco anos, renovável por iguais períodos, até ao limite máximo de três renovações consecutivas ou interpoladas e que é apoiado tecnicamente nas suas funções por um máximo de três técnicos auditores.
+
+4 - O auditor interno é recrutado pelo conselho de administração, de entre individualidades que reúnam os seguintes requisitos:
+
+a) Qualificação técnica, competências e experiência em auditoria;
+
+b) Inscrição no organismo nacional que regule a atividade de auditoria interna.
+
+5 - Os técnicos que integrem o serviço de auditoria interna devem possuir curso superior adequado ao exercício das suas funções.
+
+6 - Não pode ser recrutado como auditor interno ou técnico do serviço de auditoria interna quem tenha exercido funções de administração na própria ULS, E. P. E., nos últimos três anos, ou em relação ao qual se verifiquem outras incompatibilidades e impedimentos previstos na lei, sendo aplicável, com as necessárias adaptações, o disposto no artigo 414.º-A do Código das Sociedades Comerciais.
+
+7 - O auditor interno exerce as respetivas funções a tempo inteiro, de acordo com as normas internacionais para a prática profissional de auditoria interna e gestão de riscos.
+
+8 - O conselho de administração comunica à Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), à Administração Regional de Saúde respetiva, à Direção-Geral do Tesouro e Finanças (DGTF), à Inspeção-Geral das Atividades em Saúde (IGAS) e à Inspeção-Geral de Finanças (IGF) a identidade do auditor interno e as datas do início e do termo de funções.
+
+9 - A não renovação ou cessação antecipada de funções do auditor interno ocorre por deliberação fundamentada do conselho de administração, precedida de comunicação ao membro do Governo responsável pela área da saúde, ou a quem, para o efeito, detenha poderes delegados.
+
+10 - A retribuição mensal ilíquida do auditor interno, incluindo suplementos remuneratórios, não pode ser superior a 85 % do vencimento mensal ilíquido estabelecido para o vogal do conselho de administração.
+
+11 - No âmbito da sua atividade, o serviço de auditoria interna colabora com a ACSS, I. P., a Administração Regional de Saúde respetiva e a IGAS.
+
+12 - O plano anual de auditoria e o relatório anual de auditoria são aprovados e submetidos pelo conselho de administração às entidades referidas no n.º 8, respetivamente, até 15 de dezembro e 15 de março de cada ano.
+
+13 - O serviço de auditoria interna depende, em termos orgânicos, do presidente do conselho de administração.
+
+14 - No sentido de obter informação adequada para o desenvolvimento das suas competências, o serviço de auditoria interna tem acesso livre a registos, documentação, computadores, instalações e pessoal da ULS, E. P. E., com exceção dos registos clínicos individuais dos utentes.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 18.º — Sistema de controlo interno e de comunicação de irregularidades
+
+1 - A ULS, E. P. E., dispõe de um sistema de controlo interno e de comunicação de irregularidades, competindo ao conselho de administração assegurar a sua implementação e manutenção e ao auditor interno a responsabilidade pela sua avaliação.
+
+2 - O sistema de controlo interno compreende o conjunto de estratégias, políticas, processos, regras e procedimentos estabelecidos na ULS, E. P. E., com vista a garantir:
+
+a) Um desempenho eficiente da atividade que assegure a utilização eficaz dos ativos e recursos, a continuidade, segurança e qualidade da prestação de cuidados de saúde, através de uma adequada gestão e controlo dos riscos da atividade, da prudente e correta avaliação dos ativos e responsabilidades, bem como da definição de mecanismos de prevenção e de proteção do serviço público contra atuações danosas;
+
+b) A existência de informação financeira e de gestão que suporte as tomadas de decisão e os processos de controlo, tanto no nível interno como no externo;
+
+c) O respeito pelas disposições legais e regulamentares aplicáveis, bem como pelas normas profissionais e deontológicas aplicáveis, pelas regras internas e estatutárias, regras de conduta e de relacionamento, orientações tutelares e recomendações aplicáveis de entidades externas como o Tribunal de Contas.
+
+3 - O sistema de controlo interno tem por base um adequado sistema de gestão de risco, um sistema de informação e de comunicação e um processo de monitorização que assegure a respetiva adequação e eficácia em todas as áreas de intervenção.
+
+4 - Mediante proposta do serviço de auditoria interna, deve ser aprovado pelo conselho de administração da ULS, E. P. E., um regulamento que defina as regras e procedimentos de comunicação interna de irregularidades, através do qual possam ser descritos factos que indiciem:
+
+a) Violação de princípios e disposições legais, regulamentares e deontológicas por parte dos membros dos órgãos estatutários, trabalhadores, fornecedores de bens e prestadores de serviços no exercício dos seus cargos profissionais;
+
+b) Dano, abuso ou desvio relativo ao património da ULS, E. P. E., ou dos utentes;
+
+c) Prejuízo à imagem ou reputação da ULS, E. P. E.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+#### Secção IV — Conselho consultivo
+
+###### Artigo 19.º — Composição do conselho consultivo
+
+1 - O conselho consultivo tem a seguinte composição:
+
+a) Uma personalidade de reconhecido mérito, nomeada pelo membro do Governo responsável pela área da saúde, que preside;
+
+b) Um representante da associação de municípios da sua área de referenciação primária;
+
+c) Um representante das comunidades intermunicipais da sua área de referenciação primária;
+
+d) Um representante da respetiva administração regional de saúde;
+
+e) Um representante dos utentes, designado pela respetiva associação ou por equivalente estrutura de representação;
+
+f) Um representante das escolas ou agrupamentos de escolas, designado pelo diretor regional de educação;
+
+g) Um representante das Comissões de Proteção de Crianças e Jovens (CPCJ) instaladas na área territorial da competência de cada ULS, E. P. E., a indicar pela Comissão Nacional de Proteção das Crianças e Jovens em Risco, à qual compete providenciar pela efetiva representação de todas as CPCJ e a correspondente comunicação e articulação;
+
+h) Um representante dos prestadores de trabalho voluntário na ULS, E. P. E., entre estes eleito, quando existam;
+
+i) O Delegado de Saúde regional;
+
+j) Dois profissionais de saúde, sem vínculo à ULS, E. P. E., designados pelo conselho de administração.
+
+2 - Compete ao presidente do conselho consultivo promover a designação dos respetivos membros.
+
+3 - Os membros do conselho de administração e o fiscal único podem ter assento no conselho consultivo, sem direito de voto.
+
+4 - O mandato dos membros do conselho consultivo tem a duração de três anos, sem prejuízo da possibilidade da sua substituição, a todo o tempo, pelas entidades que os designaram ou elegeram.
+
+5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que houver lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pela ULS, E. P. E.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 20.º — Competências do conselho consultivo
+
+a) Propor o desenvolvimento de estratégias de intervenção conjuntas e concertadas entre a ULS, E. P. E., e outros parceiros locais e comunitários com responsabilidade política e social no âmbito da saúde, nomeadamente promoção de hábitos de vida saudáveis, prevenção da doença e reintegração dos utentes na comunidade;
+
+b) Analisar os fatores sociais preponderantes que influenciam o estado de saúde da população e propor ações de intervenção da ULS, E. P. E., junto da comunidade, concertadas com outras organizações locais;
+
+c) Apreciar os planos de atividade de natureza anual e plurianual;
+
+d) Apreciar todas as informações que tiver por necessárias para o acompanhamento das atividades da ULS, E. P. E.;
+
+e) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a prestar às populações, tendo em conta os recursos disponíveis.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 21.º — Funcionamento do conselho consultivo
+
+1 - O conselho consultivo reúne, pelo menos, uma vez por ano e as suas deliberações são tomadas por maioria simples e constam de ata, tendo o presidente voto de qualidade.
+
+2 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias úteis, devendo ser indicados na convocatória a data, a hora e o local em que se realizam, bem como a respetiva ordem de trabalhos.
+
+3 - Se à hora indicada não existir quórum, a reunião efetua-se uma hora depois, podendo o conselho deliberar por maioria dos votos dos membros presentes.
+
+4 - As demais regras de funcionamento do conselho consultivo são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+#### Secção V — Comissões de apoio técnico
+
+###### Artigo 22.º — Comissões de apoio técnico
+
+1 - As comissões de apoio técnico são órgãos de carácter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.
+
+2 - Nas ULS, E. P. E., são constituídas as seguintes comissões:
+
+a) Comissão de Integração de Cuidados de Saúde;
+
+b) A Comissão de Ética;
+
+c) A Comissão de Qualidade e Segurança do doente;
+
+d) A Comissão do Controlo da infeção associada aos cuidados de saúde;
+
+e) A Comissão de Farmácia e Terapêutica.
+
+3 - Sem prejuízo do disposto no número anterior, podem ser criadas pelo conselho de administração outras comissões de apoio técnico que, nos termos da lei, da atividade da ULS, E. P. E., e das regras da arte, se justifiquem, devendo a sua estrutura, composição e funcionamento constar do regulamento interno.
+
+4 - Compete ao conselho de administração, sob proposta do diretor clínico, a designação do presidente e dos membros das comissões de apoio técnico.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+### Capítulo III — Estrutura organizacional
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 23.º — Unidades funcionais, serviços e departamentos
+
+1 - A ULS, E. P. E., é constituída por unidades funcionais, serviços e departamentos de atividade clínica no âmbito hospitalar, complementares de diagnóstico e terapêutica e de apoio.
+
+2 - Para efeitos do número anterior:
+
+a) As unidades funcionais são agregações especializadas de recursos humanos e tecnológicos que atuam em intercooperação com as demais entidades funcionais, podendo ser integradas em serviços ou departamentos ou partilhadas por serviços ou departamentos distintos;
+
+b) Os serviços funcionam autonomamente ou integrados em departamentos.
+
+3 - As unidades funcionais de prestação de cuidados de saúde primários devem seguir, com as necessárias adaptações, o regime e a estrutura definidos no Decreto-Lei n.º 28/2008, de 22 de fevereiro, e no Decreto-Lei n.º 298/2007, de 22 de agosto, integrando um departamento próprio.
+
+4 - Para efeitos do disposto do número anterior, o diretor do departamento exerce as competências que lhe forem delegadas pelo conselho de administração, ao qual reporta diretamente, sendo-lhe aplicável o estatuto remuneratório do diretor-executivo dos Agrupamentos de Centros de Saúde previsto no Decreto-Lei n.º 28/2008, de 22 de fevereiro.
+
+5 - A ULS, E. P. E., pode adotar formas complementares de organização funcional, nomeadamente que induzam maior articulação e coordenação entre profissionais a nível dos programas de saúde, de doenças ou de utentes específicos.
+
+6 - A estrutura, organização e funcionamento da ULS, E. P. E., consta de regulamento interno.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+### Capítulo IV — Avaliação, controlo e prestação de contas
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 24.º — Instrumentos de gestão previsional
+
+A gestão financeira e patrimonial da ULS, E. P. E., rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
+
+a) Planos plurianuais e anuais de atividades, de investimento e financeiros, com um horizonte de três anos;
+
+b) Orçamento anual de investimento;
+
+c) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos;
+
+d) Orçamento anual de tesouraria;
+
+e) Balanço previsional;
+
+f) Contratos-programa externos e internos.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 25.º — Reservas e fundos
+
+1 - A ULS, E. P. E., deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:
+
+a) Reserva legal;
+
+b) Reserva para investimentos.
+
+2 - Uma percentagem não inferior a 20 % dos resultados de cada exercício apurado de acordo com as normas contabilísticas vigentes é destinada à constituição da reserva legal.
+
+3 - A reserva legal pode ser utilizada para cobrir eventuais prejuízos de exercício.
+
+4 - Integram a reserva para investimentos, entre outras receitas:
+
+a) A parte dos resultados apurados em cada exercício que lhe for anualmente destinado;
+
+b) As receitas provenientes de comparticipações, dotações, subsídios, subvenções ou quaisquer compensações financeiras de que a ULS, E. P. E., seja beneficiário e destinadas a esse fim.
+
+5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho dos membros do governo responsáveis pelas áreas das finanças e da saúde.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 26.º — Contabilidade
+
+A ULS, E. P. E., adota o sistema contabilístico que lhe for aplicável por lei.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 183/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), em vigor a partir de 2015-09-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+###### Artigo 27.º — Documentos de prestação de contas
+
+Os instrumentos de prestação de contas da ULS, E. P. E., a elaborar anualmente com referência a 31 de dezembro de cada ano, são, designadamente, os seguintes:
+
+a) Relatório do conselho de administração e proposta de aplicação dos resultados;
+
+b) Relatório sobre a execução anual do plano plurianual de investimentos;
+
+c) Balanço e demonstração de resultados;
+
+d) Anexo ao balanço e demonstração de resultados;
+
+e) Demonstração de fluxos de caixa;
+
+f) Relação dos empréstimos contraídos a médio e longo prazo;
+
+g) Certificação legal de contas;
+
+h) Relatório e parecer do fiscal único.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31
+
+Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Ventura Ramos.
+
+Promulgado em 21 de Dezembro de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 22 de Dezembro de 2005.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

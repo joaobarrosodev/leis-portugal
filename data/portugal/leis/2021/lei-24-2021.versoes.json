@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:163012626:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-163036597",
+ "dre_path": "/dr/detalhe/lei/24-2021-163012626",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "163012738",
+    "163012739",
+    "163012740",
+    "163012741"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:164590044:por",
+     "title": "Declaração de Retificação n.º 17/2021",
+     "published": "2021-06-04",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/17-2021-164590044",
+     "date": "2021-05-11"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "163012738": {
+   "fragment_id": "163036598",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 24/2021\n\nde 10 de maio\n\nSumário: Alteração da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, aprovada pela Lei n.º 77/88, de 1 de julho, republicada pela Lei n.º 28/2003, de 30 de julho, e alterada pelas Leis n.os 13/2010, de 19 de julho, e 55/2010, de 24 de dezembro.\n\nAlteração da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, aprovada pela Lei n.º 77/88, de 1 de julho, republicada pela Lei n.º 28/2003, de 30 de julho, e alterada pelas Leis n.os 13/2010, de 19 de julho, e 55/2010, de 24 de dezembro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "163012739": {
+   "fragment_id": "163036599",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei clarifica a natureza jurídica do vínculo laboral do pessoal nomeado para exercer funções nos gabinetes dos grupos parlamentares, dos Deputados únicos representantes de um partido e dos Deputados não inscritos, alterando a Lei de Organização e Funcionamento dos Serviços da Assembleia da República, aprovada pela Lei n.º 77/88, de 1 de julho."
+  },
+  "163012740": {
+   "fragment_id": "163036600",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 77/88, de 1 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 77/88, de 1 de julho\n\nO artigo 46.º da Lei n.º 77/88, de 1 de julho, republicada pela Lei n.º 28/2003, de 30 de julho, e alterada pelas Leis n.os 13/2010, de 19 de julho, e 55/2010, de 24 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 46.º\n\n[...]\n\n1 - [...]\n\n2 - No início de cada legislatura, os grupos parlamentares e os Deputados únicos representantes de um partido comunicam aos serviços da Assembleia da República o mapa de pessoal de apoio, com a indicação das categorias e vencimentos.\n\n3 - [...]\n\n4 - [...]\n\n5 - Os grupos parlamentares, os Deputados únicos representantes de um partido e os Deputados não inscritos podem alterar a composição do mapa de pessoal de apoio previsto no n.º 2, desde que daí não resulte agravamento da respetiva despesa global, bem como definir o respetivo modo e local de trabalho, nomeadamente o exercício de funções em regime de trabalho à distância.\n\n6 - [...]\n\n7 - [...]\n\n8 - Os encargos sociais do pessoal dos gabinetes parlamentares são suportados pela Assembleia da República, designadamente as contribuições para a Caixa Geral de Aposentações, para a segurança social, ou as inerentes ao regime de proteção social da entidade de origem, o subsídio de refeição e o seguro de acidentes de trabalho, bem como os apoios sociais e subsídios de estudo que, por determinação do Presidente da Assembleia da República, forem concedidos pela Assembleia da República a todos os que nela exercem funções a tempo inteiro.\n\n9 - [...]\n\n10 - [...]»"
+  },
+  "163012741": {
+   "fragment_id": "163036601",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

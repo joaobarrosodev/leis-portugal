@@ -1,0 +1,355 @@
+---
+schema_version: '1.0'
+id: pt:dre:462245:por
+title: Decreto-Lei n.º 459/80
+short_title: null
+summary: Estabelece normas relativas ao sistema de incentivos financeiros ao investimento no turismo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano e do Comércio e Turismo
+proposing_entity: null
+official_number: 459/80
+official_date: null
+publication_date: '1980-10-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 235/1980, Série I de 1980-10-10
+  number: '235'
+  series: I
+  supplement: null
+  pages: 3309 - 3312
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23500/33093312.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '462245'
+  dre_path: /dr/detalhe/decreto-lei/459-1980-462245
+  internal: pt:dre:462245:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1980-462245
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1980-462245
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7e3ab4e84ea7b87cc358accb2e29e9d33b5b3d3b07aa3f6fc9e934a5854b49bc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Incentivos Fiscais
+- Investimento
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:231318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:458980:por
+  label: Rectificado pela DECL.DD6583.25.11.1980.PCM, DR.IS [283] de 09.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-458980
+  date: '1980-11-25'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:33:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 459/80
+
+de 10 de Outubro
+
+1. O turismo desempenha no quadro geral da economia portuguesa um papel da maior relevância, quer pelos seus efeitos sobre a balança de pagamentos, quer pelo volume de empregos criados, directamente e em actividades com ele conexas, quer ainda pela insubstituível contribuição para o desenvolvimento de certas regiões, chegando em certos casos a revestir o estatuto de primeira actividade económica no contexto regional.
+
+2. Para corresponder às potencialidades de crescimento detectadas e situar-se favoravelmente no âmbito da oferta turística internacional, o sector terá de realizar um considerável esforço de investimento. O parque de equipamento turístico português, designadamente o hoteleiro, tem uma dimensão pequeníssima no contexto internacional e os níveis de utilização que vem registando prenunciam a sua rápida saturação a curto prazo, se não houver acréscimo substancial do investimento no sector.
+
+Está em causa a possibilidade do turismo em Portugal manter, ao longo dos próximos anos, um efectivo crescimento em termos físicos a ritmo satisfatório, sendo, por outro lado, certo que o esforço de investimentos exigido comporta largos sacrifícios financeiros, dado os elevados montantes envolvidos.
+
+3. O presente diploma visa preencher uma lacuna fundamental nos sistemas de apoio financeiro ao investimento em vigor, de modo a atribuir às actividades turísticas condições de crédito que garantam a viabilidade dos seus empreendimentos e suscitem novas iniciativas empresariais de grande expressão no sector.
+
+Embora seguindo de perto os grandes critérios que têm norteado a criação de sistemas paralelos de apoio financeiro ao desenvolvimento de outras actividades económicas, designadamente o sistema integrado de incentivos ao investimento para os sectores das pescas e das indústrias extractivas e transformadoras, pretendeu-se, ainda assim, levar em linha de conta as especificidades próprias do sector, na definição dos termos do sistema que há-de aplicar-se ao turismo. Foi assim que, nomeadamente, se entendeu dispensável realizar, para cada caso, uma análise macroeconómica do projecto de investimento, face à presunção de resultados favoráveis a que ela daria lugar.
+
+4. Ao serem contemplados não só os investimentos em novas unidades, mas também os que visam ampliações ou remodelações de unidades já existentes, atendeu-se à realidade da situação presente, que aponta para o aumento ou melhoria de qualidade da oferta turística tanto através da reestruturação em empreendimentos com potencialidades incompletamente aproveitadas como do melhor dimensionamento de outros dispondo já dos serviços de apoio suficientes.
+
+5. São conhecidas as dificuldades financeiras que, na fase de lançamento, enfrentam os novos empreendimentos turísticos. Daí ter-se considerado justificada a ajuda que, em termos de bonificação das taxas de juro dos respectivos financiamentos, é atribuída no período de arranque. Por outro lado, espera-se que a concessão de idênticos benefícios às ampliações e remodelações de unidades já existentes permita atingir os objectivos visados e também o de um significativo incremento da produtividade, com um envolvimento de capitais menos vultoso do que no caso de um primeiro estabelecimento.
+
+6. Ao admitir-se a extensão dos prazos de financiamento e respectivos períodos de carência de amortização do capital, nos casos de empreendimentos de grande dimensão e mais demorada rentabilização, pretendeu-se criar-lhes condições especialmente favoráveis, de modo a dar ao empresário expectativas de resultados que o motivem a concretizar tais empreendimentos, que, de outra forma, se arriscariam a nunca passar do plano das intenções.
+
+Espera-se, também, e pela mesma via, restringir aos seus justos limites a expansão de actividades imobiliárias que escapam à política definida para o sector e tanto têm contribuído para a degradação do ambiente em zonas de excepcional interesse para o turismo.
+
+7. Visando promover a realização de investimentos em empreendimentos declarados de utilidade turística, mas cujos reduzidos montantes envolvidos não justificariam que se exigisse das empresas promotoras o preenchimento de todos os requisitos fixados para investimentos de maior vulto, previu-se um regime simplificado que atribui àqueles investimentos uma bonificação da taxa de juro dos correspondentes financiamentos, calculada em função do incremento da oferta turística que os mesmos vierem a proporcionar.
+
+8. Faz-se ainda referência no texto do diploma aos incentivos fiscais de que vêm beneficiando, há longos anos, os empreendimentos declarados de utilidade turística e que, em conjunto com os incentivos financeiros agora criados, proporcionarão as condições indispensáveis para uma adequada retoma do investimento no sector.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+ARTIGO 1.º
+
+(Âmbito do diploma)
+
+1 - O presente diploma regula o regime de incentivos financeiros ao investimento em unidades produtivas do sector do turismo declaradas de utilidade turística, nos termos da lei geral.
+
+2 - Os incentivos fiscais de que beneficiam os investimentos referidos no número anterior são os previstos nos termos da [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954, da [Lei n.º 2081](https://diariodarepublica.pt/dr/detalhe/lei/2081-1956-231318), de 4 de Junho de 1956, e demais legislação aplicável.
+
+ARTIGO 2.º
+
+(Incentivos financeiros)
+
+São criados os seguintes incentivos financeiros:
+
+a) Bonificações das taxas de juro dos financiamentos;
+
+b) Alargamento dos prazos de carência e de amortização dos financiamentos.
+
+ARTIGO 3.º
+
+(Projectos de grande incidência económica e social)
+
+1 - Tendo em consideração a sua relevância na prossecução dos objectivos de desenvolvimento económico e social do País, poderão merecer um tratamento especial, em termos a definir caso a caso, os projectos de investimento que reúnam os seguintes requisitos:
+
+a) Tenham um valor global superior a 1 milhão de contos, a preços constantes;
+
+b) Satisfaçam as condições das alíneas a) a f) do artigo 4.º
+
+2 - A concessão de incentivos, nos casos a que se refere o número anterior, ficará subordinada à celebração de um contrato entre o Estado e a empresa promotora do projecto, a aprovar pelo Governo, mediante resolução da Presidência do Conselho de Ministros, no qual serão fixadas as condições a que fica sujeita a atribuição dos benefícios.
+
+3 - O contrato referido no número anterior será objecto de proposta conjunta dos Ministros das Finanças e do Plano e do Comércio e Turismo.
+
+ARTIGO 4.º
+
+(Condições de acesso - Regime geral)
+
+Para beneficiar do regime fixado neste diploma, as empresas promotoras dos empreendimentos turísticos deverão satisfazer cumulativamente os seguintes requisitos:
+
+a) Ter o projecto aprovado nos termos legais;
+
+b) Ter obtido para o empreendimento a declaração prévia de utilidade turística, nos termos da lei geral;
+
+c) No caso de ampliação ou remodelação, manter o estatuto de utilidade turística;
+
+d) Demonstrar que possuem ou podem atingir, por efeito dos investimentos em causa, uma situação de viabilidade económica e financeira;
+
+e) Dispor de contabilidade adequada às análises requeridas pelo presente diploma;
+
+f) Comprovar que estão regularizadas as suas obrigações para com o Estado e a Previdência;
+
+g) Uma vez concluído o empreendimento, obter a confirmação da declaração de utilidade turística.
+
+ARTIGO 5.º
+
+(Método dos pontos)
+
+1 - Os projectos de investimento serão apreciados segundo o critério da produtividade económica, aferido pela relação entre o valor do investimento e o do produto associado ao projecto, sendo as exportações e importações premiadas e penalizadas.
+
+2 - A pontuação do projecto (P) reúne duas parcelas, uma variável, que é função do critério referido no n.º 1, outra constante, que corresponde à utilidade turística.
+
+3 - Os Ministros das Finanças e do Plano e do Comércio e Turismo definirão, por portaria conjunta, o processo de cálculo da pontuação do projecto, para efeitos dos números anteriores.
+
+ARTIGO 6.º
+
+(Bonificação de juros)
+
+1 - Os financiamentos bancários serão objecto de bonificação da taxa de juro, determinada em função da pontuação (P) do projecto, da taxa básica de desconto do Banco de Portugal e do grau de participação dos capitais próprios no financiamento do projecto, em termos a definir na portaria referida no n.º 3 do artigo anterior.
+
+2 - O período de bonificação será de cinco anos para investimentos em estabelecimentos hoteleiros ou em meios complementares de alojamento, de três anos para investimentos em similares de hotelaria ou ainda igual ao prazo da operação, quando este for inferior, e contrar-se-á a partir do termo da utilização dos fundos.
+
+3 - A taxa de bonificação incidirá sobre a parcela do empréstimo bancário referente a aplicações em activo fixo corpóreo, incluindo os terrenos afectos ao projecto.
+
+ARTIGO 7.º
+
+(Pontuação provisória e definitiva de incentivos)
+
+1 - A bonificação da taxa de juro será concedida com base na pontuação provisória, determinada a partir dos efeitos previstos relativamente à execução do projecto.
+
+2 - Decorrido um período máximo de três exercícios económicos completos, no caso de estabelecimentos hoteleiros ou de meios complementares de alojamento, e de dois exercícios económicos completos, no caso de similares de hotelaria, contados após o termo da fase de investimentos do projecto, os efeitos previstos deverão ser comprovados e, em função destes, será atribuída a pontuação definitiva.
+
+3 - Sempre que a pontuação definitiva comprovada para o projecto se afastar da pontuação provisória, deverão ser efectuadas as necessárias correcções relativamente à bonificação a que a empresa responsável pelo mesmo tem direito.
+
+4 - A bonificação só será corrigida quando a pontuação definitiva se afastar em mais de 10% da pontuação provisória.
+
+ARTIGO 8.º
+
+(Regime simplificado)
+
+Do regime simplificado de incentivos financeiros poderão beneficiar as empresas que, cumulativamente, preencham as condições seguintes:
+
+a) Satisfaçam os requisitos referidos nas alíneas a) a d), f) e g) do artigo 4.º;
+
+b) Demonstrem empregar menos de vinte trabalhadores no momento da apresentação do projecto,
+
+c) Se proponham construir ou beneficiar unidades hoteleiras ou meios complementares de alojamento cujo montante de investimentos, a preços constantes, não exceda 50000 contos ou estabelecimentos similares de hotelaria cujo investimento, nas mesmas condições, não exceda 15000 contos.
+
+ARTIGO 9.º
+
+(Bonificação de juros)
+
+Os incentivos financeiros atribuídos aos investimentos previstos no artigo anterior consistirão numa bonificação da taxa de juro dos financiamentos associados ao projecto, cujo montante será determinado em função da capacidade a instalar ou a beneficiar e do tipo de empreendimento, em termos a definir na portaria referida no n.º 3 do artigo 5.º
+
+ARTIGO 10.º
+
+(Pagamento das bonificações)
+
+As bonificações atribuídas aos financiamentos no âmbito deste diploma serão pagas pelo Fundo de Turismo, através de recursos próprios e de dotações a inscrever anualmente no Orçamento Geral do Estado com essa finalidade específica.
+
+ARTIGOS 11.º
+
+(Prazos)
+
+1 - Os empreendimentos abrangidos por este diploma poderão beneficiar de financiamentos por prazos até vinte anos, com períodos de carência de amortização até cinco anos.
+
+2 - A atribuição de benefícios nos termos do número anterior terá em conta, designadamente, o tipo de empreendimento e seu período de vida útil, o equilíbrio financeiro do projecto e a sua relevância do ponto de vista da política global de turismo.
+
+ARTIGO 12.º
+
+(Fiscalização)
+
+Para efeitos da aplicação dos artigos anteriores, os Ministérios do Finanças e do Plano e do Comércio e Turismo reservam-se o direito de acompanhar e fiscalizar a execução do projecto.
+
+ARTIGO 13.º
+
+(Processo)
+
+1 - Para a concessão dos benefícios previstos nos artigos 6.º e 9.º, deverão as empresas interessadas apresentar numa instituição de crédito e, quando for caso disso, no Instituto do Investimento Estrangeiro os elementos comprovativos de que estão satisfeitas as condições de acesso e requerimento devidamente instruído nos termos que venham a ser regulamentados na portaria a que se refere o n.º 3 do artigo 5.º
+
+2 - Sendo favorável o parecer da instituição de crédito e, quando for caso disso, do Instituto do Investimento Estrangeiro, deverão os correspondentes processos ser enviados ao Banco de Portugal e ao Fundo de Turismo para parecer sobre a concessão dos benefícios em causa.
+
+3 - No prazo de quinze dias após a recepção dos processos, o Banco de Portugal e o Fundo de Turismo enviá-los-ão, acompanhados do seu parecer, aos Ministros das Finanças e do Plano e do Comércio e Turismo.
+
+4 - As regras de processo constantes deste artigo não são aplicáveis aos projectos que venham a ser abrangidos pelo disposto no artigo 3.º
+
+ARTIGO 14.º
+
+(Prestação de elementos adicionais)
+
+1 - Os Ministros das Finanças e do Plano e do Comércio e Turismo ou as entidades em quem estes delegarem a apreciação dos pedidos de incentivos poderão solicitar directamente aos promotores dos projectos quaisquer outros elementos que se mostrem necessários.
+
+2 - Tais elementos deverão ser fornecidos no prazo máximo de quinze dias, se outro não for fixado no despacho que os solicitar.
+
+3 - O não fornecimento no prazo devido dos elementos solicitados, salvo justificação atendível, implicará o indeferimento e consequente arquivo do respectivo processo.
+
+ARTIGO 15.º
+
+(Decisão ministerial)
+
+1 - A decisão sobre a concessão dos incentivos pretendidos será objecto de despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo.
+
+2 - O despacho proferido será fundamentado quando for discordante da proposta ou de algum parecer e será sempre comunicado à empresa promotora do projecto, às entidades intervenientes no processo e ao Ministério do Trabalho.
+
+3 - A concessão dos incentivos no regime simplificado considerar-se-á tacitamente aprovada desde que não tenha havido discordância nos pareceres das entidades intervenientes e não seja objecto do despacho a que se refere o número anterior no prazo de trinta dias.
+
+4 - Caso se verifique a aprovação tácita prevista no n.º 3, o Fundo de Turismo comunicará esse facto à empresa promotora do projecto, às entidades intervenientes no processo e ao Ministério do Trabalho.
+
+ARTIGO 16.º
+
+(Requisitos adicionais)
+
+1 - Os despachos que aprovarem a concessão de benefícios no âmbito deste diploma podem incluir condições tidas por indispensáveis à correcta prossecução dos objectivos da política global do turismo.
+
+2 - A inobservância dessas condições pode implicar a caducidade total ou parcial dos benefícios concedidos.
+
+ARTIGO 17.º
+
+(Revogação dos benefícios concedidos)
+
+A concessão de bonificações de juros de crédito a longo prazo, previstas no presente diploma, poderá ser revogada se o investidor não vier a realizar o projecto de investimento nos prazos e condições aprovados, excepto se tal for devido a facto que lhe seja imputável.
+
+ARTIGO 18.º
+
+(Perda da utilidade turística)
+
+Quando, no decurso do prazo dos financiamentos objecto de benefícios no âmbito do presente diploma, for retirada, nos termos da lei vigente, a utilidade turística aos empreendimentos a que se destinaram esses financiamentos, aplicar-se-á o disposto no artigo 17.º, devendo ainda as empresas promotoras restituir, no prazo de noventa dias a contar da respectiva notificação, as importâncias correspondentes aos benefícios financeiros já efectivados, acrescidas de juros calculados à taxa aplicável a operações activas de prazo correspondente.
+
+ARTIGO 19.º
+
+(Contabilização dos benefícios)
+
+A contabilidade das empresas dará expressão adequada aos benefícios concedidos, que serão registados em conta especial de proveitos, lançando nas correspondentes contas os custos financeiros sem qualquer dedução dos referidos benefícios.
+
+ARTIGO 20.º
+
+(Concorrência legal de incentivos)
+
+Sempre que haja concorrência entre os incentivos agora fixados e incentivos da mesma natureza previstos noutros diplomas, apenas serão concedidos os que forem mais favoráveis às empresas que os requeiram, sem prejuízo dos apoios que possam vir a ser concedidos através do Fundo de Turismo.
+
+ARTIGO 21.º
+
+(Correcção monetária)
+
+Os valores de 1 milhão de contos e de 50000 contos e 15000 contos, referidos, respectivamente, na alínea a) do n.º 1 do artigo 3.º e na alínea c) do artigo 8.º, serão objecto de correcção monetária automática, nos termos do artigo 45.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943).
+
+ARTIGO 22.º
+
+(Dúvidas)
+
+As dúvidas suscitadas pela aplicação do disposto neste diploma serão esclarecidas por despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo.
+
+ARTIGO 23.º
+
+(Data de entrada em vigor)
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
+
+Promulgado em 30 de Setembro de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

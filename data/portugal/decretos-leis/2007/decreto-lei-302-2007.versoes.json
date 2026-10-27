@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640893:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-122110958",
+ "dre_path": "/dr/detalhe/decreto-lei/302-2007-640893",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122116508",
+    "122116509",
+    "122116510",
+    "122116511",
+    "122116512"
+   ]
+  }
+ ],
+ "fragments": {
+  "122116508": {
+   "fragment_id": "122110959",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 302/2007\n\nde 23 de Agosto\n\nA Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0105\" title=\"Link para Directiva da Comunidade Europeia\">2006/105/CE</a>, do Conselho, de 20 de Novembro, veio adaptar algumas das directivas comunitárias existentes no domínio do ambiente, entre as quais a Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0068\" title=\"Link para Directiva da Comunidade Europeia\">97/68/CEE</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro.\n\nA adopção da Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0105\" title=\"Link para Directiva da Comunidade Europeia\">2006/105/CE</a> deveu-se à adesão da Bulgária e da Roménia à União Europeia, a qual veio tornar necessária a adopção de certos actos para compatibilizar a legislação comunitária, no que respeita às regras relativas ao sistema de numeração dos certificados de homologação de motores para máquinas móveis não rodoviárias.\n\nNeste contexto, importa transpor para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0105\" title=\"Link para Directiva da Comunidade Europeia\">2006/105/CE</a>, do Conselho, de 20 de Novembro, no que diz respeito à alteração introduzida no anexo vii da Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0068\" title=\"Link para Directiva da Comunidade Europeia\">97/68/CEE</a>, procedendo-se para o efeito à alteração dos Decretos-Leis n.os 47/2006, de 27 de Fevereiro, e 236/2005, de 30 de Dezembro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122116509": {
+   "fragment_id": "122110960",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei transpõe parcialmente para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0105\" title=\"Link para Directiva da Comunidade Europeia\">2006/105/CE</a>, do Conselho, de 20 de Novembro, que adapta as Directivas n.os <a href=\"eurlex.asp?ano=1979&id=379L0409\" title=\"Link para Directiva da Comunidade Europeia\">79/409/CEE</a>, <a href=\"eurlex.asp?ano=1992&id=392L0043\" title=\"Link para Directiva da Comunidade Europeia\">92/43/CEE</a>, <a href=\"eurlex.asp?ano=1997&id=397L0068\" title=\"Link para Directiva da Comunidade Europeia\">97/68/CEE</a>, <a href=\"eurlex.asp?ano=2001&id=301L0080\" title=\"Link para Directiva da Comunidade Europeia\">2001/80/CE</a> e <a href=\"eurlex.asp?ano=2001&id=301L0081\" title=\"Link para Directiva da Comunidade Europeia\">2001/81/CE</a> no domínio do ambiente, em virtude da adesão da Bulgária e da Roménia, na parte em que altera a Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0068\" title=\"Link para Directiva da Comunidade Europeia\">97/68/CEE</a>, relativa às medidas contra as emissões poluentes gasosas e de partículas pelos motores de combustão interna a instalar em máquinas móveis não rodoviárias."
+  },
+  "122116510": {
+   "fragment_id": "122110961",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 47/2006, de 27 de Fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 47/2006, de 27 de Fevereiro\n\nO anexo vii do Decreto-Lei n.º 47/2006, de 27 de Fevereiro, que define as condições de colocação no mercado de certos motores de combustão interna de ignição comandada, passa a ter a seguinte redacção:\n\n«ANEXO VII\n\n[...]\n\n[...]\n\n1 - [...] ('*'):\n\nSecção 1 - ...\n\n1 ...\n\n2 ...\n\n3 ...\n\n4 ...\n\n5 ...\n\n6 ...\n\n9 ...\n\n11 ...\n\n12 ...\n\n13 ...\n\n17 ...\n\n18 ...\n\n21 ...\n\n23 ...\n\n24 para a Irlanda;\n\n26 para a Eslovénia;\n\n27 para a Eslováquia;\n\n29 para a Estónia;\n\n32 para a Letónia;\n\n34 para a Bulgária;\n\n36 para a Lituânia;\n\nCY para o Chipre;\n\nMT para Malta.\n\nSecção 2 - ...\n\nSecção 3 - ...\n\nSecção 4 - ...\n\nSecção 5 - ...»"
+  },
+  "122116511": {
+   "fragment_id": "122110962",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 236/2005, de 30 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 236/2005, de 30 de Dezembro\n\nO anexo vii do Decreto-Lei n.º 236/2005, de 30 de Dezembro, que estabelece os valores limite de emissão de poluentes gasosos e de partículas para determinados motores de ignição por compressão, passa a ter a seguinte redacção:\n\n«ANEXO VII\n\n[...]\n\n[...]\n\n1 - ...\n\nSecção 1 - ...\n\n1 ...\n\n2 ...\n\n3 ...\n\n4 ...\n\n5 ...\n\n6 ...\n\n7 ...\n\n8 ...\n\n9 ...\n\n11 ...\n\n12 ...\n\n13 ...\n\n17 ...\n\n18 ...\n\n19 para a Roménia;\n\n20 ...\n\n21 ...\n\n23 ...\n\n24 ...\n\n26 ...\n\n27 ...\n\n29 ...\n\n32 ...\n\n34 para a Bulgária;\n\n36 ...\n\nCY ...\n\nMT ...\n\nSecção 2 - ...\n\nSecção 3 - ...\n\nSecção 4 - ...\n\nSecção 5 - ...\n\n2 - ...\n\n2 - ...»"
+  },
+  "122116512": {
+   "fragment_id": "122110963",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

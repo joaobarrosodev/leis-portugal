@@ -1,0 +1,301 @@
+---
+schema_version: '1.0'
+id: pt:dre:625026:por
+title: Decreto Legislativo Regional n.º 31/2004/A
+short_title: null
+summary: Adapta à Região Autónoma dos Açores o Regulamento Geral dos Corpos de Bombeiros, aprovado pelo Decreto-Lei n.º 295/2000,
+  de 17 de Novembro, alterado pelo Decreto-Lei n.º 209/2001, de 28 de Julho
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 31/2004/A
+official_date: null
+publication_date: '2004-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2004, Série I-A de 2004-08-25
+  number: '200'
+  series: I
+  supplement: null
+  pages: 5739 - 5742
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/08/200a00/57395742.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/31/2004/08/25/a/dre/pt/html
+  oj: null
+  dre: '625026'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/31-2004-625026
+  internal: pt:dre:625026:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2004-625026
+  metadata_url: https://data.dre.pt/eli/declegreg/31/2004/08/25/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2004-625026
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e6736f3760ec082d5e207d41b621c92319e2d6d21737415b8f7db5ed1dcd4e93
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Bombeiro
+- Carreira Profissional
+- Comissão Arbitral
+- Definição de Competências
+- Federação de Bombeiros
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
+- Reconversão Profissional
+- Regime de Pessoal
+- Regulamento Geral dos Corpos dos Bombeiros
+- Regulamento Interno
+- Srpcba
+relationships:
+- type: cites
+  target: pt:dre:231117:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2003/03/25/p/dre
+- type: cites
+  target: pt:dre:377892:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/209/2001/07/28/p/dre
+- type: cites
+  target: pt:dre:616186:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/295/2000/11/17/p/dre
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+article_structure:
+  article_count: 20
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:20:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 31/2004/A
+
+Adapta à Região Autónoma dos Açores o Regulamento Geral dos Corpos de Bombeiros, aprovado pelo [Decreto-Lei n.º 295/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-2000-616186), de 17 de Novembro, alterado pelo [Decreto-Lei n.º 209/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2001-377892), de 28 de Julho.
+
+A entrada em vigor do novo Regulamento Geral dos Corpos de Bombeiros, aprovado pelo [Decreto-Lei n.º 295/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-2000-616186), de 17 de Novembro, constituiu uma inovação no domínio da actividade dos soldados da paz.
+
+O referido Regulamento Geral introduz assim algumas regras destinadas a agilizar o funcionamento dos corpos de bombeiros, visando proceder a uma melhoria na sua eficácia.
+
+Face ao teor de algumas das soluções concretas do diploma nacional, houve necessidade de proceder à sua adaptação aos aspectos específicos da Região, nomeadamente no que se refere à correspondência entre entidades responsáveis pela sua execução, às regras de actuação e à disciplina, aspectos fundamentais a ter em conta num espaço onde a prontidão e a capacidade de reacção às adversidades são trunfos decisivos no êxito de cada operação.
+
+No tocante à disciplina, destaca-se a preocupação na adopção de um mecanismo de reabilitação de bombeiros disciplinarmente punidos, pondo-se fim a um sistema intolerante e completamente desadequado relativamente a pessoas cuja principal missão é de carácter solidário.
+
+A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+### CAPÍTULO I — Princípios gerais
+
+###### Artigo 1.º — Âmbito
+
+O Regulamento Geral dos Corpos de Bombeiros, aprovado pelo [Decreto-Lei n.º 295/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-2000-616186), de 17 de Novembro, alterado pelo [Decreto-Lei n.º 209/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2001-377892), de 28 de Julho, aplica-se à Região Autónoma dos Açores com as adaptações constantes do presente diploma.
+
+###### Artigo 2.º — Competências
+
+1 - As competências cometidas no Regulamento Geral dos Corpos de Bombeiros às diversas entidades nele referidas são exercidas na Região Autónoma dos Açores do seguinte modo:
+
+a) Reportam-se ao membro do Governo Regional com competência nos domínios da protecção civil e da inspecção de bombeiros as referências feitas ao Ministro da Administração Interna;
+
+b) Reportam-se ao Serviço Regional de Protecção Civil e Bombeiros dos Açores (SRPCBA) as referências feitas ao Serviço Nacional de Bombeiros (SNB), a inspecção nacional de Bombeiros e a inspecção distrital de bombeiros;
+
+c) Reportam-se ao presidente do SRPCBA as referências aos inspectores distritais de bombeiros e ao presidente do SNB, sem prejuízo do disposto no n.º 3 do artigo 15.º do presente diploma;
+
+d) Reportam-se à Associação de Municípios da Região Autónoma dos Açores as referências feitas à Associação Nacional de Municípios Portugueses.
+
+2 - No âmbito do disposto nas alíneas b) e c) do número anterior, deve ter-se presente a remissão prevista no artigo 53.º do [Decreto-Lei n.º 49/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2003-231117), de 25 de Março.
+
+### CAPÍTULO II — Recursos humanos
+
+###### Artigo 3.º — Dotação em recursos humanos e composição das secções operacionais
+
+1 - A dotação em recursos humanos dos corpos de bombeiros bem como a composição das secções operacionais constarão de portaria do membro do Governo Regional referido na alínea a) do n.º 1 do artigo 2.º, observados os princípios gerais decorrentes do regime jurídico ora adaptado.
+
+2 - Na portaria referida no número anterior serão tomados em consideração o tipo de corpo ou de secção e o grau de sinistralidade potencial da área territorial em que aqueles pretendam exercer a respectiva actividade.
+
+###### Artigo 4.º — Áreas de actuação
+
+1 - Sem prejuízo do disposto na lei geral, pode um corpo de bombeiros da Região ser chamado a intervir num município diverso daquele em que se encontra sediado.
+
+2 - Os critérios gerais de actuação e intervenção conjunta de corpos de bombeiros serão definidos por portaria do membro do Governo Regional referido na alínea a) do n.º 1 do artigo 2.º
+
+3 - O desenvolvimento e a concretização dos critérios gerais constantes da portaria referida no número anterior serão vertidos no manual operacional regional, a aprovar nos termos previstos no presente diploma.
+
+###### Artigo 5.º — Ingresso no quadro de reserva
+
+O ingresso no quadro de reserva faz-se por requerimento do interessado ao presidente do SRPCBA, após parecer obrigatório do comandante do corpo de bombeiros.
+
+###### Artigo 6.º — Admissão de cadetes
+
+O número de cadetes admitidos nos corpos de bombeiros é fixado pelas respectivas entidades detentoras, sob proposta do comandante e tendo em conta a dotação dos quadros de pessoal.
+
+###### Artigo 7.º — Actividade no quadro
+
+Sem prejuízo do disposto no regime jurídico ora adaptado, consideram-se ainda na situação de actividade no quadro os elementos que se encontram no gozo de licença de paternidade, nos termos previstos na lei.
+
+###### Artigo 8.º — Quadro activo
+
+1 - Sem prejuízo do disposto no regime jurídico ora adaptado, o ingresso no quadro activo faz-se na categoria de bombeiro de 3.ª classe, de entre aspirantes com, pelo menos, um ano de serviço e idade não inferior a 18 anos, considerados aptos na instrução, e pela ordem da classificação obtida.
+
+2 - Será dada preferência a candidatos com residência na localidade onde se situe a sede do respectivo corpo de bombeiros.
+
+3 - O acesso às restantes categorias do quadro activo faz-se de entre candidatos com, pelo menos, dois anos de serviço e bom comportamento, na categoria imediatamente inferior àquela em que se verificam as vagas a preencher, sendo a nomeação precedida de curso de promoção, com prestação de provas e respectivo concurso, e sendo as vagas preenchidas pela ordem de classificação obtida.
+
+4 - Para efeitos do disposto no número anterior, considera-se bom comportamento a ausência de pena disciplinar que implique suspensão, durante o período considerado.
+
+###### Artigo 9.º — Regresso ao quadro activo
+
+1 - Os elementos que, por força de impedimento de prestação de serviço regular por período superior a um ano ou por motivo de doença, hajam transitado para o quadro de reserva podem regressar ao quadro activo, desde que exista a necessária vaga.
+
+2 - O pedido de regresso ao quadro activo faz-se a requerimento do interessado ao presidente do SRPCBA, após parecer positivo do comandante do corpo de bombeiros e comprovação da cessação do impedimento ou atestado de robustez física e psíquica passado pela autoridade de saúde competente, consoante os casos.
+
+###### Artigo 10.º — Quadro de especialistas e auxiliares
+
+1 - A equiparação de licenciados, titulares de curso superior e bacharéis a adjuntos de comando depende da existência de correspondente vaga no quadro em apreço.
+
+2 - O ingresso de especialistas no respectivo quadro implica, além da existência de vagas para as funções especializadas de apoio ou assessoria previstas, a obrigatoriedade de frequência de um período de formação básica pluridisciplinar e idade não inferior a 18 anos.
+
+3 - O limite de idade dos especialistas, para permanência em funções, é de 65 anos, prorrogável, mediante justificação, por períodos de um ano até um máximo de cinco, findos os quais poderá ingressar no quadro de honra, verificados os respectivos requisitos.
+
+###### Artigo 11.º — Licenças
+
+1 - Sem prejuízo do disposto no regime jurídico ora adaptado, será elaborado um plano regional de férias dos elementos dos quadros de comando dos corpos de bombeiros da Região, aprovado por despacho do presidente do SRPCBA.
+
+2 - Carecem de homologação pelo presidente do SRPCBA as licenças requeridas pelos elementos dos quadros de comando dos corpos de bombeiros da Região.
+
+### CAPÍTULO III — Regime disciplinar
+
+###### Artigo 12.º — Regime disciplinar nos corpos de bombeiros voluntários
+
+Relativamente aos elementos dos quadros activos dos corpos de bombeiros que exerçam funções decorrentes de acordos relativos a regimes especiais de permanência celebrados com as respectivas associações de bombeiros voluntários, ao abrigo do disposto no n.º 6 do artigo 8.º do regime jurídico ora adaptado, a qualidade de bombeiro voluntário prevalece sempre sobre a que resulte de qualquer outro vínculo a essa associação.
+
+###### Artigo 13.º — Competência disciplinar
+
+1 - Para efeitos do disposto no n.º 1 do artigo 36.º do regime jurídico ora adaptado, consideram-se graduados:
+
+a) Os elementos do quadro de comando do respectivo corpo de bombeiros;
+
+b) Os chefes e subchefes, desde que se encontrem em funções de comando de secções destacadas, relativamente aos bombeiros nelas colocados.
+
+2 - As penas aplicadas nos termos do disposto no número anterior por outros graduados serão de comunicação obrigatória ao comandante do respectivo corpo de bombeiros.
+
+###### Artigo 14.º — Pendência de processo disciplinar
+
+1 - Durante a pendência de processo disciplinar, fica suspensa a nomeação do arguido:
+
+a) Para a categoria de ingresso;
+
+b) Para categorias de acesso;
+
+c) Para lugares do quadro de comando desse ou de outro corpo de bombeiros.
+
+2 - Em caso de arquivamento do processo disciplinar, as nomeações referidas nas alíneas a) e b) do número anterior terão os respectivos efeitos reportados à data em que deveriam ter sido produzidos, caso não tivesse ocorrido o processo.
+
+###### Artigo 15.º — Recursos
+
+1 - Das decisões disciplinares aplicadas por outros graduados, nos termos do n.º 1 do artigo 36.º do regime ora adaptado, cabe recurso hierárquico necessário para o comandante do corpo de bombeiros.
+
+2 - Das decisões disciplinares aplicadas pelo comandante do corpo de bombeiros cabe recurso hierárquico necessário para o conselho disciplinar da entidade detentora do corpo de bombeiros, constituído nos termos previstos no n.º 1 do artigo 37.º do regime ora adaptado.
+
+3 - Das decisões disciplinares aplicadas pelo presidente do SRPCBA cabe recurso hierárquico necessário para o membro do Governo Regional com competência nos domínios da protecção civil e da inspecção de bombeiros.
+
+4 - Das decisões disciplinares proferidas em sede de recurso hierárquico cabe recurso contencioso, nos termos gerais.
+
+###### Artigo 16.º — Reabilitação
+
+1 - O pessoal dos corpos de bombeiros da Região que tiver sido ou vier a ser condenado em quaisquer penas pode ser reabilitado, independentemente de revisão do respectivo processo disciplinar, nos termos previstos no artigo 84.º do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro.
+
+2 - A reabilitação deve ser requerida pelo interessado ou por seu representante, decorrido o prazo previsto no n.º 3 do artigo 84.º daquele Estatuto, através de requerimento dirigido ao comandante do corpo de bombeiros a cujo quadro o infractor pertence ou pertencia.
+
+3 - São competentes para decidir sobre a reabilitação de bombeiros:
+
+a) Os comandantes dos corpos de bombeiros, nos casos em que o processo disciplinar que conduziu à pena de que o interessado pretende ser reabilitado tenha sido interposto após a entrada em vigor do regime jurídico ora adaptado;
+
+b) O presidente do SRPCBA, nos restantes casos, ouvidos o inspector regional de Bombeiros dos Açores e o comandante do corpo de bombeiros a cujo quadro o infractor pertence ou pertencia.
+
+4 - Das decisões previstas no número anterior cabe recurso hierárquico, nos termos previstos nos n.os 2 e 3 do artigo anterior, com as devidas adaptações.
+
+5 - A concessão de reabilitação a um indivíduo a quem foi aplicada uma pena expulsiva não atribui ao interessado o direito de ocupar um lugar de quadro em corpos de bombeiros, mas permite essa reocupação mediante parecer favorável do comandante do corpo de bombeiros ao qual o respectivo pedido for dirigido.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 17.º — Regulamentos internos
+
+1 - Com base em modelo a elaborar pelo SRPCBA e aprovado por despacho do seu presidente, os corpos de bombeiros deverão adaptar os seus regulamentos internos ao disposto no presente diploma no prazo de 90 dias após a entrada em vigor deste último.
+
+2 - Os regulamentos internos referidos no número anterior entram em vigor após serem homologados pelo presidente do SRPCBA.
+
+3 - Decorrido o prazo referido no n.º 1, na falta de homologação de regulamento interno, aplicar-se-á ao corpo de bombeiros em causa o modelo elaborado pelo SRPCBA, com as devidas adaptações.
+
+4 - A ausência de regulamento interno devidamente homologado implica que de todas as penas disciplinares aplicadas ao pessoal desse corpo de bombeiros caiba recurso hierárquico necessário para o presidente do SRPCBA.
+
+###### Artigo 18.º — Comissões arbitrais
+
+1 - As comissões arbitrais previstas no artigo 50.º do [Decreto-Lei n.º 295/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-2000-616186), de 17 de Novembro, alterado pelo [Decreto-Lei n.º 209/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2001-377892), de 28 de Julho, têm, na Região, a seguinte composição:
+
+a) Presidente do SRPCBA, que preside;
+
+b) Presidente da assembleia geral da associação a que pertença o corpo de bombeiros em causa;
+
+c) Um elemento designado pela federação de bombeiros onde a associação se encontre inscrita.
+
+2 - Caso a associação a que pertence o corpo de bombeiros em causa não esteja inscrita em nenhuma das federações de bombeiros da Região, o elemento referido na alínea c) do número anterior será indicado pela Liga de Bombeiros Portugueses.
+
+###### Artigo 19.º — Manual operacional regional
+
+1 - Tendo em vista a estruturação da intervenção dos corpos de bombeiros e a optimização dos recursos existentes, será elaborado um manual operacional regional.
+
+2 - O manual referido no número anterior será aprovado por portaria do membro do Governo Regional referido na alínea a) do n.º 1 do artigo 2.º, ouvidas as federações de bombeiros da Região e a Associação de Municípios da Região Autónoma dos Açores.
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 16 de Junho de 2004.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 9 de Julho de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

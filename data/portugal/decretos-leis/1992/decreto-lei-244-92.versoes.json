@@ -1,0 +1,427 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:217704:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-114421475",
+ "dre_path": "/dr/detalhe/decreto-lei/244-1992-217704",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1992-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114421575",
+    "114421576",
+    "114421577",
+    "114421578",
+    "114421579",
+    "114421580",
+    "114421581",
+    "114421582",
+    "114421583",
+    "114421584",
+    "114421585",
+    "114421586",
+    "114421587",
+    "114421588"
+   ]
+  },
+  {
+   "date": "1992-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:449952:por",
+     "title": "Declaração de Rectificação n.º 210/92",
+     "published": "1992-12-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/210-1992-449952"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º"
+   ],
+   "fragments": [
+    "114421575",
+    "114421576",
+    "114421577",
+    "114421578",
+    "114357603",
+    "114421580",
+    "114421581",
+    "114421582",
+    "114421583",
+    "114421584",
+    "114421585",
+    "114421586",
+    "114421587",
+    "114421588",
+    "114421589"
+   ]
+  },
+  {
+   "date": "2000-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:275463:por",
+     "title": "Decreto-Lei n.º 81/2000",
+     "published": "2000-05-10",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2000-275463"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "114421575",
+    "114421576",
+    "114421577",
+    "114421578",
+    "1129453575",
+    "114357604",
+    "114421581",
+    "114421582",
+    "114357605",
+    "114421584",
+    "114421585",
+    "114357606",
+    "114421587",
+    "114421588",
+    "114421589"
+   ]
+  },
+  {
+   "date": "2017-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114420276:por",
+     "title": "Decreto-Lei n.º 154/2017",
+     "published": "2017-12-28",
+     "dre_path": "/dr/detalhe/decreto-lei/154-2017-114420276"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "114421575",
+    "114421576",
+    "114357607",
+    "114421578",
+    "1129453575",
+    "114357608",
+    "114421581",
+    "114357609",
+    "114357610",
+    "114421584",
+    "114421585",
+    "114357611",
+    "114421587",
+    "114421588",
+    "114421589"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "114421575",
+    "165096053",
+    "114357607",
+    "114421578",
+    "1129453575",
+    "114357608",
+    "114421581",
+    "165096054",
+    "165096055",
+    "114421584",
+    "114421585",
+    "114357611",
+    "114421587",
+    "114421588",
+    "114421589"
+   ]
+  }
+ ],
+ "fragments": {
+  "114421575": {
+   "fragment_id": "114421476",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 244/92\n\nde 29 de Outubro\n\nO Decreto de 10 de Fevereiro de 1894, ao abrigo do qual se constituíram as câmaras de comércio e indústria existentes no nosso país, há muito que não serve, até por evidente desajustamento face ao texto constitucional, como instrumento que permita a existência de novas câmaras.\n\nContinua, porém, esta figura a firmar-se como necessária, quer na prestação de serviços no âmbito do comércio externo (como é o caso de certas certificações e da arbitragem) quer no comércio interno, neste caso na prossecução de tarefas, também de interesse para a economia nacional, que lhe sejam atribuídas e que melhor possam ser asseguradas por entidades representativas dos interessados directos.\n\nNa tradição nacional, as câmaras de comércio e indústria tiveram sempre como suporte associações empresariais de direito privado. Por essa razão, optou-se agora também pela possibilidade de reconhecimento destas como câmaras de comércio e indústria, desde que, pelo seu grau de representatividade, implantação territorial, estruturas materiais e humanas e prévio reconhecimento como instituições de utilidade pública, reúnam as condições necessárias para poderem exercer eficazmente as funções que, genérica ou casuisticamente, o Governo lhes entenda conferir.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114421576": {
+   "fragment_id": "114421477",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\nAs câmaras de comércio e indústria são pessoas colectivas de utilidade pública que se regem pelas disposições do presente diploma, seus regulamentos e respectivos estatutos."
+  },
+  "114421577": {
+   "fragment_id": "114421478",
+   "type": 11,
+   "heading": "Artigo 2.º — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Membros\n\n1 - As câmaras de comércio e indústria são constituídas por pessoas singulares ou colectivas, nacionais ou estrangeiras, que no território nacional exerçam, directa ou indirectamente, actividades de natureza económica.\n\n2 - Poderão também ser membros das câmaras de comércio e indústria instituições ou outros organismos que, não prosseguindo fins lucrativos e não tendo natureza política, exerçam a sua actividade em domínios que, directa ou indirectamente, se prendam ou influenciem a actividade dos agentes económicos."
+  },
+  "114421578": {
+   "fragment_id": "114421479",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão funções principais das câmaras de comércio e indústria:\n\na) A defesa dos interesses e representação dos seus associados a nível local, nacional ou internacional;\n\nb) A colaboração com a administração central, regional ou local na prossecução do interesse público;\n\nc) A prestação de serviços aos seus associados e aos agentes económicos em geral, dentro do seu âmbito."
+  },
+  "114421579": {
+   "fragment_id": "114421480",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\nNo exercício das suas funções compete, designadamente, às câmaras de comércio e indústria:\n\na) Relacionar-se e colaborar com os organismos congéneres nacionais ou estrangeiros, podendo representar estes em Portugal, e ainda com quaisquer entidades que promovam o desenvolvimento das relações comerciais com o País;\n\nb) Exercer actividades de interesse público e gerir ou participar na gestão de estabelecimento ou de infra-estruturas destinadas ao serviço dos agentes económicos ou de interesse para a economia nacional ou regional, nos termos em que tais missões lhes venham a ser confiadas e sejam aceites;\n\nc) Emitir certificados e outros documentos necessários ao desenvolvimento das relações económicos nos termos que, para cada câmara e em cada caso, vier a ser definido;\n\nd) Intervir, sempre que para tal sejam solicitadas, em diferendos comerciais entre associados, entre associados e outros ou ainda entre não associados, podendo instituir, para o efeito, centros de arbitragem nos termos da lei;\n\ne) Promover, por intermédio de adequados programas de formação, o desenvolvimento profissional e cultural dos seus associados ou de terceiros, podendo, para o efeito, criar centros de formação;\n\nf) Em geral, prestar serviços aos agentes económicos, nomeadamente no âmbito do comércio externo e na promoção das exportações."
+  },
+  "114421580": {
+   "fragment_id": "114421481",
+   "type": 11,
+   "heading": "Artigo 5.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reconhecimento\n\n1 - As câmaras de comércio e indústria serão reconhecidas por portaria conjunta dos ministros com a tutela dos sectores do comércio e da indústria.\n\n2 - Pode o Governo reconhecer como câmaras de comércio e indústria associações empresariais já existentes que, desenvolvendo de modo relevante a sua actividade, possam prosseguir os fins do presente diploma.\n\n3 - A área territorial em que cada câmara de comércio e indústria exercerá as suas atribuições será definida pela portaria que a reconhecer e compreendendo no mínimo, a área do município da sede."
+  },
+  "114421581": {
+   "fragment_id": "114421482",
+   "type": 11,
+   "heading": "Artigo 6.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Denominação\n\n1 - A denominação das câmaras de comércio e indústria consistirá na expressão \"Câmara de Comércio e Indústria\", aditada do nome da localidade ou região em que se encontre implantada, de acordo com a área territorial que lhe for definida, nos termo do n.º 3 do artigo anterior, não podendo confundir-se com nenhuma outra pré-existente.\n\n2 - No caso do disposto no n.º 2 do artigo anterior, tem a associação reconhecido a faculdade de adoptar, conjuntamente com a sua anterior denominação, a expressão «Câmara de Comércio e Indústria»."
+  },
+  "114421582": {
+   "fragment_id": "114421483",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios\n\nOs critérios em que assenta o reconhecimento das câmaras de comércio e indústria são os seguintes:\n\na) Âmbito de representatividade adequado em função de um número de associados não inferior a 500;\n\nb) Implantação territorial;\n\nc) Grau de desenvolvimento económico da área de implantação;\n\nd) Estruturas materiais e humanas;\n\ne) Serviços prestados ou que se proponham prestar;\n\nf) Existência na mesma área territorial de outra câmara de comércio e indústria;\n\ng) Estatuto de pessoa colectiva de utilidade pública da associação."
+  },
+  "114421583": {
+   "fragment_id": "114421484",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedido de reconhecimento\n\n1 - O pedido de reconhecimento deverá ser dirigido aos ministros com a tutela do comércio e da indústria e remetido a um dos gabinetes, acompanhado dos seguintes elementos:\n\na) Cópia autenticada dos estatutos da pessoa colectiva a reconhecer ou exemplar do Diário da República que os contenha;\n\nb) Lista de associados ou aderentes, com indicação dos respectivos domicílios e sectores de actividade;\n\nc) No caso de associação já existente, relatório de actividades e serviços desenvolvidos no último ano;\n\nd) Programa de actividades e serviços que se visem desenvolver;\n\ne) Documento comprovativo da declaração de utilidade pública.\n\n2 - Tendo em vista a apreciação e decisão, poderão ser solicitados aos requerentes elementos complementares, bem como ser suscitada a audição de entidades administrativas ou outras da área territorial em causa."
+  },
+  "114421584": {
+   "fragment_id": "114421485",
+   "type": 11,
+   "heading": "Artigo 9.º — Organismos de cúpula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Organismos de cúpula\n\nAs câmara de comércio e indústria poderão constituir organismos de cúpula, a nível nacional ou regional, nos quais poderão delegar parte das suas funções, precedida essa delegação de necessária autorização, no caso de se tratar de funções públicas delegadas."
+  },
+  "114421585": {
+   "fragment_id": "114421486",
+   "type": 11,
+   "heading": "Artigo 10.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vinculação\n\nNo exercício de funções delegadas pela Administração Pública, ficam as câmaras de comércio e indústria e as entidades a que se refere o artigo anterior vinculadas à prestação de serviços a todos os agentes económicos da sua área territorial, independentemente de serem ou não seus associados."
+  },
+  "114421586": {
+   "fragment_id": "114421487",
+   "type": 11,
+   "heading": "Artigo 11.º — Cessação do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cessação do reconhecimento\n\n1 - Podem os ministros com a tutela do comércio e da indústria, por portaria conjunta, retirar a qualidade da câmara de comércio e indústria a quem ela haja sido atribuída quando deixem de verificar-se os pressupostos e requisitos exigidos pelo presente diploma.\n\n2 - No caso de fusão ou transformação de associação reconhecida, a manutenção da sua qualidade de câmara de comércio e indústria poderá manter-se nos termos inicialmente concedidos se, por portaria conjunta dos ministros com a tutela do comércio e da indústria, for verificada a permanência dos pressupostos a que se refere o artigo 7.º e dentro da mesma área territorial."
+  },
+  "114421587": {
+   "fragment_id": "114421488",
+   "type": 11,
+   "heading": "Artigo 12.º — Uso indevido da denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Uso indevido da denominação\n\n1 - Fica vedado a qualquer entidade cujo reconhecimento não obedeça ao disposto no presente diploma o uso da denominação «Câmara de Comércio e Indústria» ou «Câmara de Comércio».\n\n2 - As entidades que não detenham a qualificação de câmara de comércio e indústria e que usem essa denominação deverão proceder à sua alteração no prazo de 180 dias a contar da data de entrada em vigor do presente diploma, salvo se, dentro do mesmo prazo, lhes vier a ser reconhecida aquela qualidade.\n\n3 - O disposto no n.º 1 não é aplicável às pessoas colectivas constituídas com a finalidade de fomentar o comércio bilateral com determinados países ou com países de determinada área geográfica."
+  },
+  "114421588": {
+   "fragment_id": "114421489",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto de 10 de Fevereiro de 1894."
+  },
+  "114357603": {
+   "fragment_id": "114421480",
+   "type": 11,
+   "heading": "Artigo 4 — Competências",
+   "in_force_from": "1992-12-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 210/92 - Diário da República n.º 301/1992, 8º Suplemento, Série I-A de 1992-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/210-1992-449952), em vigor a partir de 1992-12-31."
+   ],
+   "markdown": "###### Artigo 4 — Competências\n\nNo exercício das suas funções compete, designadamente, às câmaras de comércio e indústria:\n\na) Relacionar-se e colaborar com os organismos congéneres nacionais ou estrangeiros, podendo representar estes em Portugal, e ainda com quaisquer entidades que promovam o desenvolvimento das relações comerciais com o País;\n\nb) Exercer actividades de interesse público e gerir ou participar na gestão de estabelecimentos ou de infra-estruturas destinadas ao serviço dos agentes económicos ou de interesse para a economia nacional ou regional, nos termos em que tais missões lhes venham a ser confiadas e sejam aceites;\n\nc) Emitir certificados e outros documentos necessários ao desenvolvimento das relações económicos nos termos que, para cada câmara e em cada caso, vier a ser definido;\n\nd) Intervir, sempre que para tal sejam solicitadas, em diferendos comerciais entre associados, entre associados e outros ou ainda entre não associados, podendo instituir, para o efeito, centros de arbitragem nos termos da lei;\n\ne) Promover, por intermédio de adequados programas de formação, o desenvolvimento profissional e cultural dos seus associados ou de terceiros, podendo, para o efeito, criar centros de formação;\n\nf) Em geral, prestar serviços aos agentes económicos, nomeadamente no âmbito do comércio externo e na promoção das exportações.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 210/92 - Diário da República n.º 301/1992, 8º Suplemento, Série I-A de 1992-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/210-1992-449952), em vigor a partir de 1992-12-31."
+  },
+  "114421589": {
+   "fragment_id": "114421490",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Julho de 1992. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 8 de Outubro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Outubro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1129453575": {
+   "fragment_id": "114421480",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2000-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 210/92 - Diário da República n.º 301/1992, 8º Suplemento, Série I-A de 1992-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/210-1992-449952), em vigor a partir de 1992-12-31."
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\nNo exercício das suas funções compete, designadamente, às câmaras de comércio e indústria:\n\na) Relacionar-se e colaborar com os organismos congéneres nacionais ou estrangeiros, podendo representar estes em Portugal, e ainda com quaisquer entidades que promovam o desenvolvimento das relações comerciais com o País;\n\nb) Exercer actividades de interesse público e gerir ou participar na gestão de estabelecimentos ou de infra-estruturas destinadas ao serviço dos agentes económicos ou de interesse para a economia nacional ou regional, nos termos em que tais missões lhes venham a ser confiadas e sejam aceites;\n\nc) Emitir certificados e outros documentos necessários ao desenvolvimento das relações económicos nos termos que, para cada câmara e em cada caso, vier a ser definido;\n\nd) Intervir, sempre que para tal sejam solicitadas, em diferendos comerciais entre associados, entre associados e outros ou ainda entre não associados, podendo instituir, para o efeito, centros de arbitragem nos termos da lei;\n\ne) Promover, por intermédio de adequados programas de formação, o desenvolvimento profissional e cultural dos seus associados ou de terceiros, podendo, para o efeito, criar centros de formação;\n\nf) Em geral, prestar serviços aos agentes económicos, nomeadamente no âmbito do comércio externo e na promoção das exportações;\n\ng) Emitir certificados de origem, quando autorizadas por portaria do Ministro da Economia, ficando sujeitas ao regime previsto nos artigos 4.º, 5.º e 6.º do Decreto-Lei n.º 75-A/86, de 23 de Abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 210/92 - Diário da República n.º 301/1992, 8º Suplemento, Série I-A de 1992-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/210-1992-449952), em vigor a partir de 1992-12-31."
+  },
+  "114357604": {
+   "fragment_id": "114421481",
+   "type": 11,
+   "heading": "Artigo 5.º — Reconhecimento",
+   "in_force_from": "2000-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+   ],
+   "markdown": "###### Artigo 5.º — Reconhecimento\n\n1 - As câmaras de comércio e indústria serão reconhecidas por portaria do Ministro da Economia.\n\n2 - Pode o Governo reconhecer como câmaras de comércio e indústria associações empresariais já existentes que, desenvolvendo de modo relevante a sua actividade, possam prosseguir os fins do presente diploma.\n\n3 - A área territorial em que cada câmara de comércio e indústria exercerá as suas atribuições será definida pela portaria que a reconhecer e compreendendo no mínimo, a área do município da sede.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+  },
+  "114357605": {
+   "fragment_id": "114421484",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de reconhecimento",
+   "in_force_from": "2000-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+   ],
+   "markdown": "###### Artigo 8.º — Pedido de reconhecimento\n\n1 - O pedido de reconhecimento deverá ser dirigido ao Ministro da Economia, acompanhado dos seguintes elementos:\n\na) Cópia autenticada dos estatutos da pessoa colectiva a reconhecer ou exemplar do Diário da República que os contenha;\n\nb) Lista de associados ou aderentes, com indicação dos respectivos domicílios e sectores de actividade;\n\nc) No caso de associação já existente, relatório de actividades e serviços desenvolvidos no último ano;\n\nd) Programa de actividades e serviços que se visem desenvolver;\n\ne) Documento comprovativo da declaração de utilidade pública.\n\n2 - Tendo em vista a apreciação e decisão, poderão ser solicitados aos requerentes elementos complementares, bem como ser suscitada a audição de entidades administrativas ou outras da área territorial em causa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+  },
+  "114357606": {
+   "fragment_id": "114421487",
+   "type": 11,
+   "heading": "Artigo 11.º — Cessação do reconhecimento",
+   "in_force_from": "2000-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+   ],
+   "markdown": "###### Artigo 11.º — Cessação do reconhecimento\n\n1 - Pode o Ministro da Economia retirar a qualidade da câmara de comércio e indústria quando deixem de se verificar os pressupostos e requisitos exigidos pelo presente diploma.\n\n2 - No caso de fusão ou transformação de associação reconhecida, a qualidade de câmara de comércio e indústria poderá manter-se nos termos inicialmente concedidos se, por portaria do Ministro da Economia, for verificada a permanência dos pressupostos a que se refere o artigo 7.º e dentro da mesma área territorial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+  },
+  "114357607": {
+   "fragment_id": "114421478",
+   "type": 11,
+   "heading": "Artigo 2.º — Membros",
+   "in_force_from": "2017-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29"
+   ],
+   "markdown": "###### Artigo 2.º — Membros\n\n1 - As câmaras de comércio e indústria são constituídas por pessoas singulares ou coletivas, nacionais ou estrangeiras, que exerçam, direta ou indiretamente, atividades de natureza económica.\n\n2 - Poderão também ser membros das câmaras de comércio e indústria instituições ou outros organismos que, não prosseguindo fins lucrativos e não tendo natureza política, exerçam a sua actividade em domínios que, directa ou indirectamente, se prendam ou influenciem a actividade dos agentes económicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29"
+  },
+  "114357608": {
+   "fragment_id": "114421481",
+   "type": 11,
+   "heading": "Artigo 5.º — Reconhecimento",
+   "in_force_from": "2017-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+   ],
+   "markdown": "###### Artigo 5.º — Reconhecimento\n\n1 - As câmaras de comércio e indústria são reconhecidas pelo membro do Governo responsável pela área da economia.\n\n2 - No caso das câmaras de comércio e indústria que integrem pessoas singulares ou coletivas estrangeiras, o reconhecimento é feito pelos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da economia.\n\n3 - Pode o Governo reconhecer como câmaras de comércio e indústria associações empresariais já existentes que, desenvolvendo de modo relevante a sua actividade, possam prosseguir os fins do presente diploma.\n\n4 - A portaria que reconhecer a câmara de comércio e indústria pode definir uma área territorial em que esta exercerá as suas atribuições.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+  },
+  "114357609": {
+   "fragment_id": "114421483",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios",
+   "in_force_from": "2017-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios\n\n1 - Os critérios em que assenta o reconhecimento das câmaras de comércio e indústria são os seguintes:\n\na) Âmbito de representatividade adequado em função do número de associados e da sua relevância no tecido empresarial;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Estrutura organizativa e recursos humanos adequados à dimensão, às atividades a desenvolver e aos serviços a prestar;\n\ne) Serviços prestados ou que se proponham prestar, designadamente em matéria de formação profissional orientada, informação técnico-comercial e tecnológica, centro de formalidades empresariais;\n\nf) (Revogada.)\n\ng) Estatuto de pessoa colectiva de utilidade pública da associação.\n\n2 - Na apreciação dos pedidos de reconhecimento são, ainda, valoradas, a complexidade e diversidade das funções desempenhadas, incluindo as decorrentes das participações de capital, de protocolos de colaboração com outras entidades nacionais e estrangeiras e de representação em estruturas internacionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29"
+  },
+  "114357610": {
+   "fragment_id": "114421484",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de reconhecimento",
+   "in_force_from": "2017-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+   ],
+   "markdown": "###### Artigo 8.º — Pedido de reconhecimento\n\n1 - O pedido de reconhecimento deverá ser dirigido ao membro do Governo responsável pela área da economia, acompanhado dos seguintes elementos:\n\na) Cópia autenticada dos estatutos da pessoa colectiva a reconhecer ou exemplar do Diário da República que os contenha;\n\nb) Lista de associados ou aderentes, com indicação dos respectivos domicílios e sectores de actividade;\n\nc) No caso de associação já existente, relatório de actividades e serviços desenvolvidos no último ano;\n\nd) Programa de actividades e serviços que se visem desenvolver;\n\ne) Documento comprovativo da declaração de utilidade pública.\n\n2 - Tendo em vista a apreciação e decisão, poderão ser solicitados aos requerentes elementos complementares, bem como ser suscitada a audição de entidades administrativas ou outras da área territorial em causa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+  },
+  "114357611": {
+   "fragment_id": "114421487",
+   "type": 11,
+   "heading": "Artigo 11.º — Cessação do reconhecimento",
+   "in_force_from": "2017-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+   ],
+   "markdown": "###### Artigo 11.º — Cessação do reconhecimento\n\n1 - Pode ser retirada a qualidade de câmara de comércio e indústria que haja sido atribuída quando deixem de se verificar os pressupostos e requisitos exigidos pelo presente decreto-lei.\n\n2 - A qualidade de câmara de comércio e indústria é retirada por portaria do membro do Governo responsável pela área da economia, ou, no caso das câmaras de comércio e indústria reconhecidas ao abrigo do n.º 2 do artigo 5.º, por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da economia.\n\n3 - No caso de fusão ou transformação de câmara de comércio e indústria, o reconhecimento poderá manter-se se, por portaria dos membros do Governo referidos no número anterior, consoante os casos, for verificada a permanência dos pressupostos a que se refere o artigo 7.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+  },
+  "165096053": {
+   "fragment_id": "114421477",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Definição\n\nAs câmaras de comércio e indústria são associações empresariais de direito privado que, pelo grau de representatividade, implantação territorial, estruturas materiais e humanas e prévia atribuição do estatuto de utilidade pública, como tal sejam reconhecidas, nos termos do presente diploma.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165096054": {
+   "fragment_id": "114421483",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios\n\n1 - Os critérios em que assenta o reconhecimento das câmaras de comércio e indústria são os seguintes:\n\na) Âmbito de representatividade adequado em função do número de associados e da sua relevância no tecido empresarial;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Estrutura organizativa e recursos humanos adequados à dimensão, às atividades a desenvolver e aos serviços a prestar;\n\ne) Serviços prestados ou que se proponham prestar, designadamente em matéria de formação profissional orientada, informação técnico-comercial e tecnológica, centro de formalidades empresariais;\n\nf) (Revogada.)\n\ng) Estatuto de utilidade pública da associação.\n\n2 - Na apreciação dos pedidos de reconhecimento são, ainda, valoradas, a complexidade e diversidade das funções desempenhadas, incluindo as decorrentes das participações de capital, de protocolos de colaboração com outras entidades nacionais e estrangeiras e de representação em estruturas internacionais.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29"
+  },
+  "165096055": {
+   "fragment_id": "114421484",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de reconhecimento",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+   ],
+   "markdown": "###### Artigo 8.º — Pedido de reconhecimento\n\n1 - O pedido de reconhecimento deve ser dirigido aos membros do Governo responsáveis pelas áreas do comércio e da indústria e remetido a um dos gabinetes, acompanhado dos seguintes elementos:\n\na) Cópia autenticada dos estatutos da pessoa colectiva a reconhecer ou exemplar do Diário da República que os contenha;\n\nb) Lista de associados ou aderentes, com indicação dos respectivos domicílios e sectores de actividade;\n\nc) No caso de associação já existente, relatório de actividades e serviços desenvolvidos no último ano;\n\nd) Programa de actividades e serviços que se visem desenvolver;\n\ne) Documento comprovativo da atribuição do estatuto de utilidade pública.\n\n2 - Tendo em vista a apreciação e decisão, poderão ser solicitados aos requerentes elementos complementares, bem como ser suscitada a audição de entidades administrativas ou outras da área territorial em causa.\n\n> Alterado pelo/a Artigo 13.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2017-114420276), em vigor a partir de 2017-12-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/2000 - Diário da República n.º 108/2000, Série I-A de 2000-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2000-275463), em vigor a partir de 2000-05-15"
+  }
+ }
+}

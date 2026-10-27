@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:374841:por
+title: Decreto-Lei n.º 160/88
+short_title: null
+summary: Aplica no direito interno o Regulamento (CEE) n.º 3842/86 do Conselho, de 1 de Dezembro, relativo a mercadorias em
+  contrafacção
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 160/88
+official_date: null
+publication_date: '1988-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/1988, Série I de 1988-05-13
+  number: '111'
+  series: I
+  supplement: null
+  pages: 2013 - 2014
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11100/20132014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '374841'
+  dre_path: /dr/detalhe/decreto-lei/160-1988-374841
+  internal: pt:dre:374841:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1988-374841
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1988-374841
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:24:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f4c4c8b3694740499ba9a838fdbdca45e53973072477e91bebf3cc2edddb1b9a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:24:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Desalfândegamento
+- Direcção Geral das Alfândegas
+- Direito Comercial
+- Fabrico Industrial
+- Fraude
+- Instituto Nacional da Propriedade Industrial
+- Marca Registada
+- Mercadoria
+- Propriedade Industrial
+- Regulamento CE
+relationships:
+- type: amended_by
+  target: pt:dre:180470:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:180470:por
+  label: "Revogado pelo DEC LEI.20/99.1999.01.28.MF DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1999-180470
+  date: '1999-01-28'
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:24:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 160/88
+
+de 13 de Maio
+
+Considerando a entrada em vigor, em 1 de Janeiro de 1988, do Regulamento (CEE) n.º [3842/86](https://data.europa.eu/eli/reg/1986/3842/oj?locale=pt) do Conselho, de 1 de Dezembro, que estabelece medidas destinadas a proibir a colocação em livre prática de mercadorias em contrafacção;
+
+Considerando que o referido Regulamento remete para o direito interno de cada Estado membro o estabelecimento de determinadas disposições relativas à sua aplicação;
+
+Tendo em conta que interessa, nomeadamente, proceder à designação da autoridade competente para a recepção do pedido apresentado pelo titular de uma marca de fabrico ou de comércio e fixar as taxas destinadas a cobrir os encargos administrativos ocasionados pelo tratamento do referido pedido;
+
+Considerando que importa igualmente prever a constituição de uma garantia destinada a cobrir a eventual responsabilidade do requerente face ao importador e a suportar os encargos resultantes da armazenagem das mercadorias durante o período da suspensão do desalfandegamento das mesmas ou decorrentes da instauração de acção judicial na qual o titular da marca não seja parte;
+
+Considerando ainda a necessidade de acautelar a responsabilidade dos serviços aduaneiros, no caso de a estância aduaneira não detectar as mercadorias em contrafacção:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º - 1 - Para a aplicação do artigo 3.º do Regulamento (CEE) n.º [3842/86](https://data.europa.eu/eli/reg/1986/3842/oj?locale=pt) do Conselho, de 1 de Dezembro, compete à Direcção-Geral das Alfândegas receber e deliberar sobre o pedido apresentado pelo titular de uma marca de fabrico ou de comércio, no sentido de as autoridades aduaneiras suspenderem o desalfandegamento de mercadorias em contrafacção declaradas para a colocação em livre prática, quando o referido titular tiver razões fundadas para suspeitar de que está prevista a importação de tais mercadorias.
+
+2 - O Instituto Nacional da Propriedade Industrial prestará todo o apoio técnico relativo à propriedade industrial, sempre que o mesmo seja solicitado pela Direcção-Geral das Alfândegas.
+
+Art. 2.º A Direcção-Geral das Alfândegas pode exigir ao titular da marca, aquando da admissão do seu pedido, a constituição de uma garantia destinada a cobrir a responsabilidade deste último face ao importador, no caso de a suspensão do desalfandegamento não ter prosseguido devido a acto ou a omissão do titular da marca ou no caso de ser posteriormente estabelecido pela autoridade judicial que as mercadorias em causa não são mercadorias em contrafacção.
+
+Art. 3.º A Direcção-Geral das Alfândegas pode igualmente exigir que o requerente suporte os encargos resultantes da suspensão do desalfandegamento das mercadorias ou decorrentes da instauração de uma acção judicial na qual o titular da marca não seja parte e que constitua uma garantia tendo em vista assegurar o pagamento desses encargos.
+
+Art. 4.º A aceitação de um pedido apresentado nos termos do artigo 1.º não confere ao titular da marca direito a indemnização se as mercadorias em contrafacção escaparem ao controle de um estância aduaneira.
+
+Art. 5.º Qualquer estância aduaneira que proceda à suspensão da autorização da saída de mercadorias que correspondam à descrição contida no pedido do titular da marca pode proceder à extracção de amostras em conformidade com as disposições do Decreto-Lei n.º 507/85, de 31 de Dezembro.
+
+Art. 6.º É aditado ao artigo 6.º da tabela II anexa à Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, na redacção dada pelo Decreto-Lei n.º 242/84, de 16 de Julho, um n.º VIII), com a seguinte redacção:
+
+###### Artigo 6.º
+
+Outros serviços a requerimento de partes:
+
+...
+
+VIII) Pedidos de intervenção das autoridades aduaneiras, apresentados pelo titular de uma marca de fabrico ou de comércio, no sentido de uma estância aduaneira suspender o desalfandegamento de mercadorias em contrafacção:
+
+Por cada pedido:
+
+Válido por um mês ... 5000$00
+
+Cada mês ou fracção, além do primeiro ... 3000$00
+
+Art. 7.º O presente diploma produz efeitos desde 1 de Janeiro de 1988.
+
+Visto e aprovado em Conselho de Ministros de 31 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 29 de Abril de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 4 de Maio de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

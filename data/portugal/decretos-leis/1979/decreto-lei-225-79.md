@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:382028:por
+title: Decreto-Lei n.º 225/79
+short_title: null
+summary: Extingue o Comissariado do Governo para as Zonas Clandestinas e Degradadas da Região de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação e Obras Públicas
+proposing_entity: null
+official_number: 225/79
+official_date: null
+publication_date: '1979-07-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/1979, Série I de 1979-07-19
+  number: '165'
+  series: I
+  supplement: null
+  pages: 1577 - 1577
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16500/15771577.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382028'
+  dre_path: /dr/detalhe/decreto-lei/225-1979-382028
+  internal: pt:dre:382028:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1979-382028
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1979-382028
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0acc163fd001a7630e78e45bb7947835e46a9534976702394119ed64837d6085
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissário do Governo
+- Direcção Geral do Equipamento Regional e Urbano
+- Lisboa
+- ZONA Degradada
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:381106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476331:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:19:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 225/79
+
+de 19 de Julho
+
+Dos comissariados do Governo instituídos ao abrigo do despacho conjunto de 27 de Outubro de 1976, publicado no Diário da República, 1.ª série, n.º 253, de 28 de Outubro, resta actualmente o respeitante à área de Lisboa. Aliás o ciclo de caducidade de tais estruturas inicia-se com os Decretos-Leis n.os [794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro (Lei dos Solos) e [804/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/804-1976-407335), de 6 de Novembro (Lei do Clandestino), passa pelas Leis das Autarquias e das Finanças Locais e completa-se com a estruturação, em curso, dos organismos e serviços dependentes do Ministério da Habitação e Obras Públicas. Pelo [Decreto-Lei n.º 189/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1979-381106), de 22 de Junho, as missões até agora confiadas aos comissariados em causa foram enquadradas na Direcção-Geral do Equipamento Regional e Urbano, como designadamente resulta dos artigos 2.º, alínea c), e 16.º - e daí a necessidade de medida que extinga o transitório, com disciplina adequada das consequências da extinção.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º É extinto o Comissariado do Governo para as Zonas Clandestinas e Degradadas da Região de Lisboa, criado nos termos dos n.os 15 e 16 do despacho conjunto de 27 de Outubro de 1976, publicado no Diário da República, 1.ª série, n.º 253, de 28 de Outubro, e, simultaneamente, é revogado o mesmo despacho conjunto.
+
+Art. 2.º - 1 - O pessoal em serviço no Comissariado ora extinto, nomeado ao abrigo do [Decreto-Lei n.º 315/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1974-476331), de 9 de Julho, e requisitado, com vínculo à função pública anterior à nomeação e requisição, será provido em lugares do quadro de pessoal não dirigente da Direcção-Geral do Equipamento Regional e Urbano em categorias não inferiores às que lhe correspondem no dito Comissariado, e quando tais categorias não existam, nas categorias mais próximas, de harmonia com o disposto no n.º 1 do artigo 38.º e no artigo 39.º do [Decreto-Lei n.º 189/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1979-381106), de 22 de Junho.
+
+2 - Enquanto não tomar posse dos respectivos lugares na Direcção-Geral do Equipamento Regional e Urbano, o pessoal referido no n.º 1 deste artigo mantêm as suas situações, independentemente de actos de prorrogação de funções.
+
+Art. 3.º Toda a documentação a cargo do Comissariado extinto por este diploma transitará para a Direcção-Geral do Equipamento Regional e Urbano sem quaisquer formalidades.
+
+Art. 4.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1979. - Carlos Alberto da Mota Pinto - João Orlindo Almeida Pina.
+
+Promulgado em 12 de Julho de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

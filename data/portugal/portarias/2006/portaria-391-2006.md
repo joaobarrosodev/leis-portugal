@@ -1,0 +1,349 @@
+---
+schema_version: '1.0'
+id: pt:dre:661557:por
+title: Portaria n.º 391/2006
+short_title: null
+summary: Altera os artigos 3.º e 5.º do Regulamento do Regime de Ajudas à Prevenção e Melhoramento Genético das Raças Autóctones,
+  Raças Exóticas e Raça Bovina Frísia, da subacção «Desenvolvimento de outros serviços à agricultura», da acção «Serviços
+  à agricultura», da medida AGRIS, aprovado pela Portaria n.º 1109-A/2000, de 27 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento
+  Rural e das Pescas
+proposing_entity: null
+official_number: 391/2006
+official_date: null
+publication_date: '2006-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/2006, Série I-B de 2006-04-24
+  number: '80'
+  series: I
+  supplement: null
+  pages: 2892 - 2896
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/391/2006/04/24/p/dre/pt/html
+  oj: null
+  dre: '661557'
+  dre_path: /dr/detalhe/portaria/391-2006-661557
+  internal: pt:dre:661557:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/391-2006-661557
+  metadata_url: https://data.dre.pt/eli/port/391/2006/04/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/391-2006-661557
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:13:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5f0d267d5ee27ae75b40a01ffa35d1972e08ac7bd90f46bb49e16955c16510ec
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Ajuda Comunitária
+- Apoio ao Investimento
+- Ave de Capoeira
+- Avicultura
+- Gado Bovino
+- Gado Caprino
+- Gado Equino
+- Gado Ovino
+- Gado Suíno
+- Medida Agris
+- Pagamento
+- Pecuária
+- Programa AGRO
+- Projeto de Investimento
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:632903:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:632903:por
+  label: "Aditado o art. 4º-A ao Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones,\
+    \ Raças Exóticas e Raça Bovina Frísia aprovado pela Port 1109-A/2000 de 27-Nov, republicado pelo presente diploma, pela\
+    \ PORT.467/2006.22.05.2006.MAOTDR, DR.IS-B [98] de 22.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/467-2006-632903
+  date: '2006-05-22'
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
+- type: cites
+  target: pt:dre:315519:por
+  label: null
+  source: http://data.dre.pt/eli/port/69/2001/02/02/p/dre
+- type: cites
+  target: pt:dre:514999:por
+  label: null
+  source: http://data.dre.pt/eli/port/978/2004/08/03/p/dre
+- type: cites
+  target: pt:dre:554462:por
+  label: null
+  source: http://data.dre.pt/eli/port/1109-a/2000/11/27/p/dre
+- type: cites
+  target: pt:dre:583007:por
+  label: null
+  source: http://data.dre.pt/eli/port/45/2002/01/11/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:13:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 391/2006
+
+de 24 de Abril
+
+No âmbito do regime de ajudas à preservação e melhoramento genético das raças autóctones, raças exóticas e raça bovina Frísia, cujo regulamento foi aprovado pela [Portaria n.º 1109-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462), de 27 de Novembro, constatou-se a necessidade de alterar a norma relativa à apresentação de candidaturas, a qual deve ter como critério a efectiva localização das explorações e não a sede da entidade candidata, como tem acontecido até à data.
+
+Por outro lado, torna-se necessário proceder à actualização dos anexos I e II a que se refere o artigo 3.º do regulamento acima citado, dado o interesse em introduzir novas elegibilidades, nomeadamente no que respeita às raças autóctones de galinhas, à prova morfofuncional para os bovinos da raça brava de lide e à eliminação dos escalões previstos para os contrastes leiteiros A4 e AT4 em determinadas explorações.
+
+Por último, considera-se conveniente proceder à republicação do regulamento acima referido, aprovado pela [Portaria n.º 1109-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462), de 27 de Novembro, e que, tendo já sofrido várias alterações, nomeadamente através das Portarias n.os [69/2001](https://diariodarepublica.pt/dr/detalhe/portaria/69-2001-315519), de 2 de Fevereiro, [45/2002](https://diariodarepublica.pt/dr/detalhe/portaria/45-2002-583007), de 11 de Janeiro, e [978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), de 3 de Agosto, nunca foi objecto de qualquer republicação.
+
+Assim:
+
+Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 163-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-a-2000-220892), de 27 de Julho, o seguinte:
+
+1.º Os artigos 3.º e 5.º do Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS, aprovado pela [Portaria n.º 1109-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462), de 27 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+1 - Só podem ser aceites as candidaturas das quais constem programas anuais de execução, sob a forma de prestação de serviços.
+
+2 - Os programas referidos no número anterior devem ser previamente homologados pela DGV e devem cumprir os requisitos constantes do presente Regulamento, bem como o disposto no despacho a que se refere o artigo 11.º
+
+3 - No caso das candidaturas relativas às raças autóctones e das raças exóticas, as acções elegíveis e respectivos níveis de ajuda são apenas os constantes do anexo I ao presente Regulamento e que dele faz parte integrante.
+
+4 - No caso das candidaturas relativas à raça bovina Frísia, as acções elegíveis e respectivos níveis de ajuda são apenas os constantes do anexo II ao presente Regulamento e que dele faz parte integrante.
+
+Artigo 5.º
+
+[...]
+
+1 - Os processos de candidatura às ajudas são entregues até 30 de Novembro de cada ano nas direcções regionais de agricultura, adiante designadas por DRA, da área de localização das explorações onde se encontrem os efectivos sobre os quais vão incidir as acções elegíveis.
+
+2 - No caso da raça bovina Frísia e das raças exóticas, em que os animais se encontram em explorações localizadas em zonas abrangidas por diferentes programas operacionais regionais (POR), devem ser elaborados processos de candidatura para cada um dos POR envolvidos.
+
+3 - No caso das raças autóctones pode ser apresentada uma única candidatura ao POR em cuja região se encontrem mais de 50% dos animais ou, caso tal não se verifique, devem ser elaborados processos de candidatura para cada um dos POR envolvidos.
+
+4 - Os processos de candidatura são instruídos com os seguintes documentos:
+
+a) Ficha de projecto de acordo com modelo do Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP;
+
+b) Cópia da escritura pública de constituição da entidade e correspondentes estatutos;
+
+c) Programa anual das acções a desenvolver pela entidade, como prestação de serviços aos seus associados, o qual deverá estar homologado pela DGV;
+
+d) Documento oficial comprovativo de que a entidade não é devedora ao Estado e à segurança social de quaisquer contribuições, impostos, quotizações e outras importâncias ou ter documento comprovativo de que a regularização dos pagamentos está assegurada mediante cumprimento de acordos celebrados para o efeito;
+
+e) Documento bancário com NIB;
+
+f) Cópia do cartão de pessoa colectiva ou entidade equiparada;
+
+g) Organigrama da entidade;
+
+h) Documento oficial que comprove a situação da entidade perante o IVA;
+
+i) Cópia dos documentos necessários à avaliação da situação económica e financeira da entidade com balanço dos últimos três anos, em modelo n.º 22, quando aplicável;
+
+j) Plano plurianual de melhoramento da raça ou raças visadas na candidatura, para o período de 2000 a 2006, aprovado pela DGV.»
+
+2.º Os anexos I e II ao Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS, aprovado pela [Portaria n.º 1109-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462), de 27 de Novembro, passam a ter a seguinte redacção:
+
+## ANEXO I — (a que se refere o n.º 3 do artigo 3.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
+
+## ANEXO II — (a que se refere o n.º 4 do artigo 3.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
+
+3.º É revogado o artigo 12.º do Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS, aprovado pela [Portaria n.º 1109-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462), de 27 de Novembro.
+
+4.º O Regulamento do Regime de Ajudas à Preservação e Melhoramento Genético das Raças Autóctones, Raças Exóticas e Raça Bovina Frísia, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS, aprovado pela [Portaria n.º 1109-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1109-a-2000-554462), de 27 de Novembro, com a redacção que lhe foi dada pelas Portarias n.os [69/2001](https://diariodarepublica.pt/dr/detalhe/portaria/69-2001-315519), de 2 de Fevereiro, [45/2002](https://diariodarepublica.pt/dr/detalhe/portaria/45-2002-583007), de 11 de Janeiro, e [978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), de 3 de Agosto, e pela presente portaria, é republicado em anexo ao presente diploma, dele fazendo parte integrante.
+
+5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Em 10 de Março de 2006.
+
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
+
+## ANEXO
+
+REGULAMENTO DO REGIME DE AJUDAS À PRESERVAÇÃO E MELHORAMENTO GENÉTICO DAS RAÇAS AUTÓCTONES, RAÇAS EXÓTICAS E RAÇA BOVINA FRÍSIA.
+
+(republicação)
+
+###### Artigo 1.º — Âmbito e objectivos
+
+1 - O presente Regulamento estabelece o regime de aplicação da componente de apoio à prestação de serviços agrícolas, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS.
+
+2 - No âmbito do presente Regulamento, pode ser apoiada a prestação contratualizada de serviços aos criadores de raças autóctones, raças exóticas e raça bovina Frísia, no domínio da preservação e melhoramento genético, nomeadamente através da manutenção dos livros genealógicos ou registos zootécnicos, bem como pela realização de controlos de performance, contrastes leiteiros, exames de paternidade e classificações morfológicas.
+
+###### Artigo 2.º — Condições de acesso e de homologação das entidades candidatas
+
+1 - Podem candidatar-se ao presente regime de ajudas as organizações associativas, adiante designadas por entidades, cuja actividade de prestação de serviços aos seus associados se enquadre no sector objecto das acções elegíveis previstas no presente Regulamento, que sejam homologadas pela Direcção-Geral de Veterinária, adiante designada por DGV, e que tenham a seu cargo a gestão, por delegação de competências, de livros genealógicos ou registos zootécnicos, no caso das raças autóctones ou das raças exóticas, com excepção da raça bovina Frísia.
+
+2 - Relativamente à raça bovina Frísia, as entidades candidatas têm de dispor, por delegação de competências, de uma base de dados nacional relativa ao melhoramento genético desta raça, com especial incidência nos dados do contraste leiteiro.
+
+3 - A DGV homologará as entidades que preencham os seguintes requisitos:
+
+a) Disponham de uma estrutura organizacional com capacidade técnica adequada à dimensão e tipo de acções a desenvolver;
+
+b) Disponham de recursos humanos adequados à dimensão e natureza das acções a desenvolver;
+
+c) Disponham de contabilidade adequada às análises requeridas para a apreciação da sua actividade;
+
+d) Estejam equipadas com suporte informático compatível com o da DGV, com vista à uniformização dos fluxos de informação;
+
+e) Tenham capacidade para apresentar relatórios detalhados de execução, trimestrais e anuais, dos serviços que prestam no domínio da preservação e melhoramento genético.
+
+###### Artigo 3.º — Condições de acesso das candidaturas
+
+1 - Só podem ser aceites as candidaturas das quais constem programas anuais de execução, sob a forma de prestação de serviços.
+
+2 - Os programas referidos no número anterior devem ser previamente homologados pela DGV e devem cumprir os requisitos constantes do presente Regulamento, bem como o disposto no despacho a que se refere o artigo 11.º
+
+3 - No caso das candidaturas relativas às raças autóctones e das raças exóticas, as acções elegíveis e respectivos níveis de ajuda são apenas os constantes do anexo I ao presente Regulamento, e que dele faz parte integrante.
+
+4 - No caso das candidaturas relativas à raça bovina Frísia, as acções elegíveis e respectivos níveis de ajuda são apenas os constantes do anexo II ao presente Regulamento, e que dele faz parte integrante.
+
+###### Artigo 4.º — (Revogado.)
+
+###### Artigo 5.º — Entrega das candidaturas
+
+1 - Os processos de candidatura às ajudas são entregues até 30 de Novembro de cada ano nas direcções regionais de agricultura, adiante designadas por DRA, da área de localização das explorações onde se encontrem os efectivos sobre os quais vão incidir as acções elegíveis.
+
+2 - No caso da raça bovina Frísia e das raças exóticas, em que os animais se encontram em explorações localizadas em zonas abrangidas por diferentes programas operacionais regionais (POR), devem ser elaborados processos de candidatura para cada um dos POR envolvidos.
+
+3 - No caso das raças autóctones pode ser apresentada uma única candidatura ao POR em cuja região se encontrem mais de 50% dos animais ou, caso tal não se verifique, devem ser elaborados processos de candidatura para cada um dos POR envolvidos.
+
+4 - Os processos de candidatura são instruídos com os seguintes documentos:
+
+a) Ficha de projecto de acordo com modelo do Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP;
+
+b) Cópia da escritura pública de constituição da entidade e correspondentes estatutos;
+
+c) Programa anual das acções a desenvolver pela entidade, como prestação de serviços aos seus associados, o qual deverá estar homologado pela DGV;
+
+d) Documento oficial comprovativo de que a entidade não é devedora ao Estado e à segurança social de quaisquer contribuições, impostos, quotizações e outras importâncias ou ter documento comprovativo de que a regularização dos pagamentos está assegurada mediante cumprimento de acordos celebrados para o efeito;
+
+e) Documento bancário com NIB;
+
+f) Cópia do cartão de pessoa colectiva ou entidade equiparada;
+
+g) Organigrama da entidade;
+
+h) Documento oficial que comprove a situação da entidade perante o IVA;
+
+i) Cópia dos documentos necessários à avaliação da situação económica e financeira da entidade com balanço dos últimos três anos, em modelo n.º 22, quando aplicável;
+
+j) Plano plurianual de melhoramento da raça ou raças visadas na candidatura, para o período de 2000 a 2006, aprovado pela DGV.
+
+###### Artigo 6.º — Análise das candidaturas
+
+1 - A análise das candidaturas compete ao respectivo coordenador regional da medida «Agricultura e desenvolvimento rural - AGRIS», o qual as remeterá ao gestor da intervenção operacional regional, nos termos do artigo 30.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.
+
+2 - O gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão.
+
+###### Artigo 7.º — Critérios de selecção
+
+Os critérios a considerar para aprovação das candidaturas serão os seguintes:
+
+a) Qualidade e sustentabilidade do programa anual apresentado;
+
+b) Adequada articulação do programa anual com a política nacional de melhoramento e defesa do património genético dos efectivos nacionais.
+
+###### Artigo 8.º — Decisão das candidaturas
+
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.
+
+2 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento.
+
+3 - As demais candidaturas são hierarquizadas de acordo com os critérios de prioridade definidos no artigo anterior e aprovadas conforme a dotação orçamental.
+
+4 - A ponderação dos critérios de prioridade será estabelecida pelo coordenador regional da medida AGRIS.
+
+5 - Serão recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.
+
+###### Artigo 9.º — Forma e nível das ajudas
+
+1 - As ajudas são concedidas sob a forma de reembolso dos custos suportados pelas entidades com a prestação dos serviços que se enquadrem nas despesas elegíveis previstas no presente Regulamento.
+
+2 - Os montantes das ajudas correspondem a 100% da despesa elegível no caso da inscrição em livros genealógicos ou registos zootécnicos das raças autóctones e a 70% das despesas elegíveis nas restantes acções previstas nos anexos I e II a este Regulamento.
+
+3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+###### Artigo 10.º — Contrato de concessão e pagamento de ajudas
+
+1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos a celebrar anualmente entre o IFADAP e a entidade, no prazo máximo de 30 dias a contar da data de notificação à interessada da aprovação da respectiva candidatura.
+
+2 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.
+
+###### Artigo 10.º-A — Obrigações dos beneficiários
+
+Os beneficiários ficam obrigados a prestar os serviços a todos os interessados, nas condições constantes das suas propostas.
+
+###### Artigo 11.º — Normas técnicas de execução
+
+As normas técnicas que regulam a organização e articulação entre as várias entidades com responsabilidades na execução e controlo técnico das acções de preservação e melhoramento genético a que se refere o presente regime de ajudas são aprovadas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+###### Artigo 12.º — (Revogado.)
+
+## ANEXO I — Raças autóctones e raças exóticas
+
+(a que se refere o n.º 3 do artigo 3.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)
+
+## ANEXO II — Raça bovina Frísia
+
+(a que se refere o n.º 4 do artigo 3.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/080b00/28922896.pdf)

@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:205493466:por
+title: Decreto-Lei n.º 87-A/2022
+short_title: null
+summary: Estabelece um regime excecional de atualização das tarifas e taxas de portagem para o ano de 2023 e procede à atribuição
+  de um apoio à utilização de autoestradas e pontes concessionadas sujeitas ao regime de cobrança de taxas de portagem aos
+  utilizadores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Finanças
+official_number: 87-A/2022
+official_date: null
+publication_date: '2022-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/2022, 1º Suplemento, Série I de 2022-12-29
+  number: '250'
+  series: I
+  supplement: 1º Suplemento
+  pages: 171-(2) a 171-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/12/25001/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-29'
+version_history:
+  file: decreto-lei-87-a-2022.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2022-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-05-29'
+    amending: pt:dre:1127477503:por
+    amending_title: Decreto-Lei n.º 107/2026
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/87-a/2022/p/cons/20260528/pt/html
+  oj: null
+  dre: '205493466'
+  dre_path: /dr/detalhe/decreto-lei/87-a-2022-205493466
+  internal: pt:dre:205493466:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2022-205493466
+  metadata_url: https://data.dre.pt/eli/dec-lei/87-a/2022/p/cons/20260528/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-206297179
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-206297179
+  retrieved_at: '2026-10-22T12:54:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ee4679df15b9967a120f0d8df494f9d543df14ea33f78cf75e935a1a665aa82f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:54:55Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-87-a-2022.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inspeção Geral de Finanças
+- Coeficiente de Actualização
+- Comparticipação do Estado
+- Contrato de Concessão
+- Direção Geral do Tesouro e Finanças
+- Fiscalização
+- Instituto da Mobilidade e dos Transportes
+- Orçamento Geral do Estado
+- Portagem
+- Taxa
+- Tráfego Rodoviário
+- Infraestruturas de Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:1127477503:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2026-1127477503
+  date: '2026-05-28'
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:54:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 87-A/2022
+
+Decreto-Lei n.º 87-A/2022
+
+de 29 de dezembro
+
+Sumário: Estabelece um regime excecional de atualização das tarifas e taxas de portagem para o ano de 2023 e procede à atribuição de um apoio à utilização de autoestradas e pontes concessionadas sujeitas ao regime de cobrança de taxas de portagem aos utilizadores.
+
+No âmbito dos contratos de concessão relativos a autoestradas e pontes concessionadas sujeitas ao regime de cobrança de taxas de portagem aos utilizadores, encontra-se prevista a possibilidade de as concessionárias procederem à atualização tarifária anual, em função da evolução do índice de preços no consumidor (IPC), apurado pelo Instituto Nacional de Estatística, I. P., devendo para tal a respetiva concessionária comunicar a sua intenção, o valor de referência do IPC e o valor das tarifas e taxas de portagem a vigorar após atualização, de acordo com o prazo definido nos termos dos contratos em vigor. Sem prejuízo dessa possibilidade, encontra-se também contratualmente prevista a possibilidade de intervenção e controlo por parte do parceiro público na fixação das tarifas e taxas de portagem, com fundamento em motivos de interesse público e regulação económica.
+
+Durante o ano de 2022 verificou-se um aumento muito elevado, anormal e imprevisível da taxa de inflação, o qual resulta essencialmente da atual conjuntura internacional, relacionada com a guerra da Ucrânia. De facto, desde a entrada de Portugal na Zona Euro, e até ao ano de 2021, a taxa de variação anual média do IPC fixou-se abaixo de 2 %, valor que serve igualmente de referência para o Banco Central Europeu na definição dos seus objetivos de médio prazo no sentido de garantir estabilidade e previsibilidade aos preços.
+
+Entendeu assim o Governo determinar a adoção de um regime excecional de atualização das tarifas e taxas de portagem, através da fixação de um coeficiente de atualização para apuramento das tarifas e taxas de portagem para o ano civil de 2023, complementado por um apoio à utilização de infraestruturas rodoviárias portajadas, que se consubstancia num pagamento a realizar pelo Estado.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei procede à:
+
+a) Fixação de um coeficiente de atualização para as tarifas e taxas de portagem, a vigorar durante o ano civil de 2023, aplicável a todos os contratos de concessão e subconcessão no setor rodoviário;
+
+b) Atribuição de um apoio à utilização de autoestradas e pontes concessionadas sujeitas ao regime de cobrança de taxas de portagem aos utilizadores (apoio).
+
+2 - O disposto no presente decreto-lei não prejudica a aplicação dos regimes de descontos em vigor.
+
+###### Artigo 2.º — Atualização extraordinária das tarifas e taxas de portagem
+
+1 - A atualização das tarifas e taxas de portagem para o ano de 2023 é fixada em 4,9 %, por aplicação de um coeficiente de 1,049 às tarifas e taxas em vigor no ano de 2022, sem prejuízo dos arredondamentos previstos contratualmente.
+
+2 - As concessionárias apresentam às entidades previstas nos respetivos contratos as tarifas e taxas de portagem que devem vigorar em 2023 por aplicação do presente decreto-lei.
+
+> Retificado pelo/a [Declaração de Retificação n.º 2/2023 - Diário da República n.º 13/2023, Série I de 2023-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2023-206269669), produz efeitos a partir de 2022-12-30
+
+###### Artigo 3.º — Natureza e apuramento do apoio
+
+1 - O apoio é assegurado através de um pagamento do Estado, a entregar às concessionárias, em complemento do pagamento das tarifas e taxas de portagem realizado pelos utilizadores, no montante correspondente à diferença entre as tarifas e taxas de portagem que resultariam da aplicação de um coeficiente de atualização para o ano de 2023 de 1,077, equivalente a um aumento de 7,7 %, e as tarifas e taxas de portagem que resultam da aplicação do n.º 1 do artigo anterior.
+
+2 - Nos anos subsequentes, o montante do apoio é reduzido, através de uma atualização suplementar das tarifas e taxas de portagem a suportar pelo utilizador, nas seguintes circunstâncias:
+
+a) Sempre que o aumento tarifário proposto pelas concessionárias, nos termos contratuais, seja inferior a 2 %, até ao máximo do montante do apoio, correspondendo a atualização suplementar a essa diferença; ou
+
+b) Por decisão do concedente, comunicada às concessionárias.
+
+3 - Nas primeiras quatro atualizações anuais após a de 2023 podem as concessionárias proceder a um acréscimo de atualização de 0,1 pontos percentuais, em complemento à atualização anual definida contratualmente.
+
+> Retificado pelo/a [Declaração de Retificação n.º 2/2023 - Diário da República n.º 13/2023, Série I de 2023-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2023-206269669), produz efeitos a partir de 2022-12-30
+
+###### Artigo 4.º — Processamento do apoio
+
+1 - As concessionárias procedem, trimestralmente, e até ao vigésimo dia do mês subsequente ao fim de cada trimestre, ao apuramento do valor do pagamento a realizar pelo Estado nos termos do disposto no artigo anterior, remetendo esta informação, juntamente com o respetivo suporte documental, à Infraestruturas de Portugal, S. A. (IP, S. A.).
+
+2 - No caso das taxas de portagem que constituem receita da IP, S. A., esta deve proceder nos termos do número anterior, comunicando o montante do apoio à Direção-Geral do Tesouro e Finanças (DGTF).
+
+3 - Quando aplicável, as concessionárias emitem a correspondente fatura à IP, S. A., que procede ao seu pagamento, em nome do Estado, no prazo de 45 dias a contar da data da respetiva receção.
+
+4 - A DGTF assegura que os valores de pagamento são transferidos para a IP, S. A., para efeitos de pagamento do apoio.
+
+5 - Cabe ao Instituto da Mobilidade e dos Transportes, I. P., a monitorização da implementação do apoio a atribuir.
+
+###### Artigo 5.º — Fiscalização e reposição de montantes indevidamente pagos
+
+1 - Cabe à Inspeção-Geral de Finanças (IGF) fiscalizar a atribuição do apoio previsto no artigo anterior, estando este sujeito a auditorias anuais, relativas aos pagamentos efetuados em cada ano.
+
+2 - Os montantes que, em resultado das auditorias, se concluir constituírem excessos ou défices devem ser objeto de acerto, devendo a regularização ocorrer no prazo de 30 dias a contar da emissão de fatura ou de nota de crédito, conforme aplicável, por parte das concessionárias ou da IP, S. A., consoante o caso.
+
+3 - Para efeitos da auditoria, a IP, S. A., e as concessionárias, consoante o caso, devem facultar todas as informações e registos relativos à atribuição do apoio, designadamente o registo informático das transações realizadas e o apuramento da comparticipação do Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2026 - Diário da República n.º 103/2026, Série I de 2026-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2026-1127477503), em vigor a partir de 2026-05-29.
+
+###### Artigo 6.º — Avaliação do equilíbrio económico-financeiro
+
+1 - Cabe à IGF proceder à verificação dos efeitos financeiros do aumento significativo e anormal da taxa de inflação e à avaliação do equilíbrio económico-financeiro dos contratos de concessão, considerando o disposto no presente decreto-lei, bem como a determinação do benefício que seja atribuível ao concedente no quadro do direito do Estado à partilha de benefícios nos termos legais.
+
+2 - Para efeitos da avaliação do equilíbrio económico-financeiro dos contratos de concessão relativamente aos quais a aplicação do disposto no presente decreto-lei seja suscetível de gerar um benefício atribuível ao concedente ou uma reposição do equilíbrio económico-financeiro, deve obrigatoriamente ser considerado:
+
+a) O efeito positivo nas receitas das concessionárias decorrente da verificação de um nível de tráfego superior em virtude da aplicação de um coeficiente de atualização inferior ao proposto pelas concessionárias;
+
+b) Os benefícios gerados para as concessionárias que não resultem da sua eficiente gestão e das oportunidades por si criadas e que não correspondam aos benefícios que estas obteriam ou poderiam esperar obter em circunstâncias normais, considerando-se, para efeitos de tal avaliação, os resultados verificados historicamente nas respetivas concessões.
+
+3 - A avaliação a que se refere o presente artigo tem lugar após a normalização da evolução do índice de preços no consumidor e das taxas de inflação, mas nunca depois de decorrido um prazo de três anos contado da entrada em vigor do presente decreto-lei.
+
+###### Artigo 7.º — Financiamento
+
+Os encargos resultantes do apoio previsto nos artigos 3.º e 4.º são suportados diretamente pelo Orçamento do Estado, a processar pela DGTF.
+
+###### Artigo 8.º — Modificação unilateral
+
+O disposto no artigo 20.º do Decreto-Lei n.º 111/2012, de 23 de maio, na sua redação atual, não é aplicável a qualquer ato, medida, decisão ou outro tipo de atuação imputável ao parceiro público, incluindo de natureza regulamentar, adotada no âmbito do presente decreto-lei, dispensando-se o cumprimento de qualquer procedimento ou formalidade prescrita por esse preceito.
+
+###### Artigo 9.º — Aplicação subsidiária
+
+Aplica-se subsidiariamente o Decreto-Lei n.º 111/2012, de 23 de maio, na sua redação atual, em tudo o que não contrarie o disposto no presente decreto-lei.
+
+###### Artigo 10.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - A fixação da atualização das taxas e tarifas de portagem nos termos do n.º 1 do artigo 2.º produz efeitos a 1 de janeiro de 2023.
+
+Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Pedro Nuno de Oliveira Santos.
+
+Promulgado em 28 de dezembro de 2022.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 28 de dezembro de 2022.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116018441

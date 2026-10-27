@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:185086767:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-887968859",
+ "dre_path": "/dr/detalhe/portaria/164-2022-185086767",
+ "source_lastmod": "2024-09-16",
+ "versions": [
+  {
+   "date": "2022-06-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887970781",
+    "887970782",
+    "887970783",
+    "887970784",
+    "887970785",
+    "887970786",
+    "887970787"
+   ]
+  },
+  {
+   "date": "2023-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214119139:por",
+     "title": "Portaria n.º 155-B/2023",
+     "published": "2023-06-06",
+     "dre_path": "/dr/detalhe/portaria/155-b-2023-214119139"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "887970781",
+    "887970782",
+    "887970783",
+    "887970784",
+    "887970785",
+    "887970796",
+    "887970787",
+    "887970788"
+   ]
+  }
+ ],
+ "fragments": {
+  "887970781": {
+   "fragment_id": "887968860",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 164/2022\n\nde 23 de junho\n\nSumário: Regula a instalação do Mecanismo Nacional Anticorrupção.\n\nPreâmbulo\n\nO Decreto-Lei n.º 109-E/2021, de 9 de dezembro, no âmbito da Estratégia Nacional Anticorrupção, criou o Mecanismo Nacional Anticorrupção (MENAC), que assume a natureza de entidade administrativa independente, com personalidade jurídica de direito público e poderes de autoridade, dotada de autonomia administrativa e financeira. O MENAC tem por missão a promoção da transparência e da integridade na ação pública e a garantia da efetividade de políticas de prevenção da corrupção e de infrações conexas.\n\nA entrada em funcionamento do MENAC exige que sejam regulados alguns aspetos materiais que permitam assegurar as condições necessárias ao início da sua atividade. Entre estas condições encontram-se a definição do local de funcionamento, a estruturação de uma equipa de apoio técnico e administrativo e a afetação dos recursos financeiros necessários para que o MENAC possa iniciar a preparação do seu funcionamento.\n\nAssim, esta portaria visa regular a instalação do MENAC, garantindo-se que, desde o primeiro momento, estão criadas condições para que possa exercer a sua missão de forma cabal.\n\nAssim:\n\nManda o Governo, pela Ministra da Justiça e pelo Ministro das Finanças, ao abrigo do disposto no artigo 26.º do Decreto-Lei n.º 109-E/2021, de 9 de dezembro, o seguinte:"
+  },
+  "887970782": {
+   "fragment_id": "887968861",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula a instalação do Mecanismo Nacional Anticorrupção (MENAC)."
+  },
+  "887970783": {
+   "fragment_id": "887968862",
+   "type": 11,
+   "heading": "Artigo 2.º — Instalações provisórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Instalações provisórias\n\nAté à sua instalação definitiva, o MENAC funciona em instalações afetas ao Ministério da Justiça."
+  },
+  "887970784": {
+   "fragment_id": "887968863",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio à instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apoio à instalação\n\n1 - Durante o período de instalação do MENAC, o apoio material é assegurado pela Secretaria-Geral do Ministério da Justiça.\n\n2 - Até à instalação do MENAC, o apoio em termos de recursos humanos é assegurado, designadamente, por um técnico superior da Secretaria-Geral do Ministério das Finanças e por um técnico superior da Secretaria-Geral do Ministério da Justiça, que preparam o projeto de regulamento interno, dão o apoio necessário para a concretização do mapa de pessoal de apoio técnico e administrativo do MENAC a que se refere o n.º 1 do artigo 19.º do Decreto-Lei n.º 109-E/2021, de 9 de dezembro, e prestam o demais apoio considerado necessário pelo presidente, tendo em vista a instalação definitiva do MENAC.\n\n3 - Até à instalação do MENAC, o apoio em termos de recursos humanos é ainda assegurado por dois trabalhadores da Secretaria-Geral do Ministério da Justiça, pertencentes à carreira de assistente operacional e/ou de assistente técnico.\n\n4 - O pessoal referido nos n.os 2 e 3 prestam funções, em comissão de serviço, por designação do presidente do MENAC, sob proposta da respetiva Secretaria-Geral, efetuada nos cinco dias seguintes à entrada em vigor da presente portaria.\n\n5 - Os trabalhadores referidos nos n.os 2 e 3 mantêm a remuneração do seu lugar de origem, cujo pagamento é assegurado pela respetiva Secretaria-Geral, não tendo direito a qualquer remuneração ou abono adicional pelo exercício de funções no MENAC.\n\n6 - O presidente do MENAC, por sua iniciativa, sob proposta da respetiva Secretaria-Geral ou a pedido do próprio, pode dar por finda, a todo o tempo, a comissão de serviço referida nos n.os 2 e 3."
+  },
+  "887970785": {
+   "fragment_id": "887968864",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Despesas de funcionamento\n\nSalvo o disposto no n.º 5 do artigo anterior, enquanto o MENAC não dispuser de orçamento próprio, a inscrever no orçamento dos encargos gerais do Estado, as despesas de funcionamento do MENAC são asseguradas pela Secretaria-Geral do Ministério da Justiça, financiadas por receitas de impostos adicionais ao seu orçamento."
+  },
+  "887970786": {
+   "fragment_id": "887968865",
+   "type": 11,
+   "heading": "Artigo 5.º — Instalação definitiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instalação definitiva\n\n1 - A instalação definitiva do MENAC ocorre após a publicação da portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, que fixa o mapa de pessoal de apoio técnico e administrativo do MENAC.\n\n2 - Sem prejuízo do disposto no número anterior, a instalação definitiva do MENAC é declarada por despacho conjunto dos Ministros da Justiça e das Finanças, sob proposta do presidente, logo que o MENAC disponha de dotação orçamental que cubra as suas despesas de funcionamento, se encontrem constituídos os seus órgãos previstos nas alíneas a) a c) do artigo 8.º do Decreto-Lei n.º 109-E/2021, de 9 de dezembro, e estejam preenchidos, pelo menos, metade dos lugares da Comissão de Acompanhamento e do seu mapa de pessoal, o que deve ter lugar em data anterior ao termo do prazo previsto no n.º 1 do artigo 28.º do Decreto-Lei n.º 109-E/2021, de 9 de dezembro.\n\n3 - O despacho previsto no número anterior produz efeitos no dia seguinte ao da sua publicação na 2.ª série do Diário da República."
+  },
+  "887970787": {
+   "fragment_id": "887968866",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor e cessação da vigência\n\nA presente portaria entra em vigor no dia de início de funções do presidente do MENAC e cessa a sua vigência na data da instalação definitiva do MENAC, nos termos do artigo anterior.\n\nEm 21 de junho de 2022."
+  },
+  "887970796": {
+   "fragment_id": "887968865",
+   "type": 11,
+   "heading": "Artigo 5.º — Instalação definitiva",
+   "in_force_from": "2023-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 155-B/2023 - Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/155-b-2023-214119139), em vigor a partir de 2023-06-07"
+   ],
+   "markdown": "###### Artigo 5.º — Instalação definitiva\n\n1 - A instalação definitiva do MENAC ocorre após a publicação da portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, que fixa o mapa de pessoal de apoio técnico e administrativo do MENAC.\n\n2 - (Revogado.)\n\n3 - O despacho previsto no número anterior produz efeitos no dia seguinte ao da sua publicação na 2.ª série do Diário da República.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 155-B/2023 - Diário da República n.º 109/2023, 1º Suplemento, Série I de 2023-06-06](https://diariodarepublica.pt/dr/detalhe/portaria/155-b-2023-214119139), em vigor a partir de 2023-06-07"
+  },
+  "887970788": {
+   "fragment_id": "887968867",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Catarina Teresa Rola Sarmento e Castro. - Pelo Ministro das Finanças, Sofia Alves de Aguiar Batalha, Secretária de Estado do Orçamento.\n\n115443788"
+  }
+ }
+}

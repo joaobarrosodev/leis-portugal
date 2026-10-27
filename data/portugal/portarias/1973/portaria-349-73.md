@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:422191:por
+title: Portaria n.º 349/73
+short_title: null
+summary: Cria na sede do concelho da Moita, com efeitos a partir de 1 de Junho de 1973, um posto da P. S. P.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Interior - Comando-Geral da Polícia de Segurança Pública
+proposing_entity: null
+official_number: 349/73
+official_date: null
+publication_date: '1973-05-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 118/1973, Série I de 1973-05-19
+  number: '118'
+  series: I
+  supplement: null
+  pages: 855 - 855
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/05/11800/08550855.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '422191'
+  dre_path: /dr/detalhe/portaria/349-1973-422191
+  internal: pt:dre:422191:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/349-1973-422191
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/349-1973-422191
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:04:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 36986ab49e7faf7ebc7d0b0495b908b83fb66be78c53d18d8bae7c0d7dad0a3d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:217507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281674:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:04:38Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 349/73
+
+de 19 de Maio
+
+Manda o Governo da República Portuguesa, pelo Ministro do Interior, em conformidade com a proposta elaborada nos termos do artigo 4.º do [Decreto-Lei n.º 42908](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42908-1960-281674), de 8 de Abril de 1960, criar na sede do concelho da Moita, com efeitos a partir de 1 de Junho de 1973, um posto da Polícia de Segurança Pública, com o efectivo de:
+
+1 segundo-subchefe;
+
+2 guardas de 1.ª classe;
+
+5 guardas de 2.ª classe;
+
+a fornecer pelo Comando Distrital de Setúbal, passando a fazer parte integrante do mapa II anexo ao regulamento aprovado pelo [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954.
+
+Ministério do Interior, 2 de Maio de 1973. - O Ministro do Interior, António Manuel Gonçalves Rapazote.

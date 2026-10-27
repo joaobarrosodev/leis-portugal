@@ -1,0 +1,270 @@
+---
+schema_version: '1.0'
+id: pt:dre:107981324:por
+title: Despacho Normativo n.º 10/2017
+short_title: null
+summary: Determina a criação da linha de apoio financeiro destinada a fazer face às necessidades de tesouraria das empresas
+  turísticas com atividade nos concelhos de Castanheira de Pêra, Figueiró dos Vinhos, Pedrógão Grande, Ansião, Alvaiázere,
+  Arganil, Góis, Penela, Pampilhosa da Serra, Oleiros e Sertã
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Economia - Gabinete da Secretária de Estado do Turismo
+proposing_entity: null
+official_number: 10/2017
+official_date: null
+publication_date: '2017-08-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 153/2017, Série II de 2017-08-09
+  number: '153'
+  series: II
+  supplement: null
+  pages: 16975 - 16976
+  pdf_url: https://files.diariodarepublica.pt/2s/2017/08/153000000/1697516976.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '107981324'
+  dre_path: /dr/detalhe/despacho-normativo/10-2017-107981324
+  internal: pt:dre:107981324:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2017-107981324
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-2017-107981324
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3d1aba9a13bcd8115fbcc24a33f9e50bcaefebbea98b1e4dca0371c64fe32b13
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvaiázere
+- Ansião
+- Arganil
+- Auxílio de Minimis
+- Castanheira de PÊRA
+- Catástrofe
+- Definição de Competências
+- Empresa
+- Figueiró dos Vinhos
+- Financiamento
+- Góis
+- Incêndio
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Instituto do Turismo de Portugal
+- Linha de Crédito
+- Oleiros
+- Operações de Tesouraria
+- Pampilhosa da Serra
+- Pedrógão Grande
+- Penela
+- Sertã
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:116490434:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:114248339:por
+  label: Alterados os arts. 1.º, 2.º, 3.º e 4.º do presente diploma, pelo(a) Despacho Normativo n.º 20/2017 - Diário da República
+    n.º 227/2017, Série II de 2017-11-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-2017-114248339
+  date: '2017-11-24'
+- type: amended_by
+  target: pt:dre:116490434:por
+  label: Alterados os arts. 3.º, 5.º e 6.º pelo(a) Despacho Normativo n.º 12/2018 - Diário da República n.º 185/2018, Série
+    II de 2018-09-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-2018-116490434
+  date: '2018-09-25'
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73716774:por
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:08:15Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 10/2017
+
+Os incêndios de grandes proporções ocorridos no passado mês de junho tiveram consequências manifestamente gravosas para os concelhos de Castanheira de Pêra, Figueiró dos Vinhos, Pedrógão Grande, Ansião, Alvaiázere, Arganil, Góis, Penela, Pampilhosa da Serra, Oleiros e Sertã, particularmente ao nível da vida humana e do património das populações, mas também no que diz respeito aos recursos naturais e culturais daqueles territórios e na perceção de valor dos mesmos enquanto destinos turísticos.
+
+Com efeito, e apesar de os mesmos continuarem a dispor e a oferecer experiências, recursos e ativos de manifesto interesse turístico, importa reconhecer a diminuição dos níveis de procura turística, com impacto financeiro direto na atividade das empresas e na sua sustentabilidade a curto prazo.
+
+Neste contexto, importa criar um instrumento capaz de assegurar as necessidades de fundo de maneio acrescidas, e, deste modo, contribuir para minimizar o impacto da diminuição temporária da procura turística e a sustentabilidade das empresas turísticas que operam na região.
+
+Assim, ao abrigo do disposto na alínea d) do artigo 199.º da Constituição da República Portuguesa, no n.º 2 do artigo 1.º e nas alíneas a) e e) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho, com redação do [Decreto-Lei n.º 66/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), de 29 de abril, e no exercício da competência que me está delegada pelo [Despacho n.º 2983/2016](https://diariodarepublica.pt/dr/detalhe/despacho/2983-2016-73716774), de 17 de fevereiro, publicado no Diário da República, 2.ª série, n.º 40, de 26 de fevereiro de 2016, determino o seguinte:
+
+###### Artigo 1.º — Criação, objeto e objetivos
+
+1 - É criada a presente linha de apoio financeiro destinada a fazer face às necessidades de tesouraria das empresas turísticas com atividade nos concelhos de Castanheira de Pêra, Figueiró dos Vinhos, Pedrógão Grande, Ansião, Alvaiázere, Arganil, Góis, Penela, Pampilhosa da Serra, Oleiros e Sertã.
+
+2 - A presente linha de apoio tem por objetivo o financiamento de necessidades de tesouraria que, em resultado dos citados incêndios, impliquem necessidades temporárias de acréscimo de fundo de maneio, incluindo a amortização de contas correntes caucionadas ou liquidação de financiamentos de curto prazo (até 1 ano).
+
+###### Artigo 2.º — Dotação orçamental
+
+A dotação disponível para financiamento das operações ao abrigo da presente linha de apoio é de (euro) 1.500.000,00, sendo assegurada exclusivamente por receitas próprias do Turismo de Portugal, I. P.
+
+###### Artigo 3.º — Intensidade, natureza e limite do financiamento
+
+1 - Os apoios financeiros a conceder ao abrigo da presente linha revestem a natureza de incentivo reembolsável, sem quaisquer juros remuneratórios associados.
+
+2 - Os apoios referidos no número anterior assumem um limite máximo por empresa correspondente a 25 % do volume de negócios de 2016, com um valor máximo absoluto de (euro) 75.000,00.
+
+3 - Para efeitos do disposto no número anterior, no caso de empresas constituídas em 2017 o limite máximo terá como base de cálculo o volume de negócios que resulte do balancete da entidade beneficiária a 30 de junho de 2017.
+
+###### Artigo 4.º — Condições do financiamento
+
+1 - Os apoios financeiros criados através da presente linha são concedidos pelo prazo máximo de 5 anos a contar da data de celebração do respetivo contrato, com um período de carência de capital correspondente a 18 meses.
+
+2 - O reembolso do financiamento concedido nos termos do número anterior ocorre em prestações de igual montante e com uma periodicidade trimestral.
+
+###### Artigo 5.º — Entidades beneficiárias
+
+1 - São beneficiárias dos apoios financeiros previstos no presente diploma as empresas de qualquer natureza e dimensão, que exerçam atividades turísticas e que se localizem nos concelhos afetados pelos incêndios, identificados no n.º 1 do artigo 1.º
+
+2 - Podem ainda beneficiar da linha de crédito ora criada as empresas localizadas em concelhos limítrofes aos que se refere no número anterior, desde que as mesmas demonstrem uma quebra na procura face ao desempenho registado em 2016, ou, no caso de empresas constituídas em 2017, face desempenho registado no período anterior à ocorrência dos incêndios.
+
+###### Artigo 6.º — Condições de elegibilidade
+
+1 - Têm acesso à presente linha de crédito as empresas que, à data da candidatura, reúnam as seguintes condições:
+
+a) Desenvolvam a sua atividade turística nos concelhos de Castanheira de Pêra, Figueiró dos Vinhos, Pedrógão Grande, Ansião, Alvaiázere, Arganil, Góis, Penela, Pampilhosa da Serra, Oleiros e Sertã, ou, se em concelhos limítrofes, demonstrarem quebra na procura face a 2016 ou, no caso de empresas constituídas em 2017, face ao período anterior à ocorrência dos incêndios;
+
+b) Terem início de atividade anterior à data da ocorrência dos incêndios;
+
+c) Encontrarem-se com a sua situação regularizada perante a administração fiscal, segurança social e Turismo de Portugal, I. P.;
+
+d) Encontrarem-se com a sua situação regularizada em matéria de licenciamento da respetiva atividade;
+
+e) Não se encontrarem numa situação de empresa em dificuldade, como tal definida no número seguinte;
+
+f) Demonstrarem capacidade para fazer face ao serviço de dívida resultante do financiamento a conceder ao abrigo do presente diploma.
+
+2 - Por empresa em dificuldade, entende-se uma empresa que se encontre, pelo menos, numa das seguintes circunstâncias:
+
+a) No caso de uma empresa que exista há três ou mais anos, se mais de metade do seu capital social subscrito tiver desaparecido devido a perdas acumuladas;
+
+b) Sempre que a empresa for objeto de um processo coletivo de insolvência ou preencher os critérios para ser submetida a um processo coletivo de insolvência a pedido dos seus credores;
+
+c) Sempre que uma empresa tiver recebido um auxílio de emergência e ainda não tiver reembolsado o empréstimo ou terminado a garantia, ou tiver recebido um auxílio à reestruturação e ainda estiver sujeita a um plano de reestruturação;
+
+d) No caso de uma Não PME, sempre que, nos últimos dois anos, o rácio "dívida contabilística/fundos próprios da empresa" tiver sido superior a 7,5 e o rácio de cobertura dos juros da empresa, calculado com base em EBITDA (resultado antes de juros, impostos, amortizações e depreciações), tiver sido inferior a 1,0.
+
+3 - A comprovação da capacidade a que se refere na alínea f) do n.º 1 do presente artigo é aferida pelo Turismo de Portugal, I. P., nomeadamente em função do desempenho económico e financeiro histórico da empresa.
+
+4 - Em resultado da avaliação prevista no número anterior, o Turismo de Portugal, I. P. pode aprovar, fundamentadamente, um financiamento inferior ao solicitado pela empresa.
+
+###### Artigo 7.º — Natureza do procedimento e apresentação de candidaturas
+
+1 - O procedimento de avaliação das candidaturas à presente linha de crédito ocorre em contínuo, mediante formalização junto do Turismo de Portugal, I. P..
+
+2 - As referidas candidaturas são formalizadas por via eletrónica, através de formulário próprio disponível na página eletrónica do Turismo de Portugal, I. P., acompanhadas obrigatoriamente das declarações fiscais relativas aos últimos três anos, quando aplicável, bem como de cópia de título válido para o exercício da atividade.
+
+###### Artigo 8.º — Análise das candidaturas
+
+1 - Compete ao Turismo de Portugal, I. P. a análise das candidaturas, no prazo máximo de 10 dias úteis.
+
+2 - O Turismo de Portugal realiza as diligências que se revelem necessárias para a apreciação dos pedidos referidos no número anterior.
+
+3 - No prazo de análise referido no n.º 1 inclui-se a solicitação à entidade beneficiária, sempre que necessário, de elementos complementares, os quais devem ser apresentados no prazo máximo de 5 dias úteis, contados da data de notificação do respetivo pedido.
+
+4 - A falta de resposta da entidade beneficiária no prazo fixado nos termos do número anterior determina a desistência da sua candidatura.
+
+###### Artigo 9.º — Decisão e formalização
+
+1 - A decisão final sobre a concessão do apoio financeiro incumbe ao Turismo de Portugal, I. P..
+
+2 - A formalização do apoio é concretizada através de contrato a celebrar entre o promotor e o Turismo de Portugal, I. P..
+
+3 - A não celebração do contrato por razões imputáveis à entidade beneficiária, no prazo de 20 dias úteis, contados da data de notificação do apoio, determina a caducidade do direito ao financiamento.
+
+###### Artigo 10.º — Obrigações das entidades beneficiárias
+
+As entidades beneficiárias ficam sujeitas às seguintes obrigações:
+
+a) Cumprir as obrigações legais, designadamente as fiscais, de segurança social e de manter a situação regularizada perante o Turismo de Portugal, I. P.;
+
+b) Reembolsar o financiamento concedido ao abrigo do presente diploma nos prazos e termos aprovados e contratados;
+
+c) Entregar, nos prazos estabelecidos para o efeito, todos os elementos que lhes forem solicitados pelo Turismo de Portugal, I. P.;
+
+d) Comunicar ao Turismo de Portugal, I. P. qualquer ocorrência ou alteração que coloque em causa os pressupostos de aprovação do apoio;
+
+e) Sempre que aplicável, manter as condições legais exigíveis ao exercício da atividade desenvolvida;
+
+f) Manter a contabilidade organizada de acordo com a legislação aplicável.
+
+###### Artigo 11.º — Incumprimento
+
+1 - Os contratos podem ser resolvidos unilateralmente pelo Turismo de Portugal, I. P. sempre que se verifique qualquer das seguintes situações:
+
+a) Não cumprimento, por facto imputável à beneficiária, dos objetivos ou obrigações contratuais;
+
+b) Não cumprimento, por facto imputável à beneficiária das respetivas obrigações legais e ou fiscais;
+
+c) Prestação de informações falsas sobre a situação da beneficiária ou viciação dos dados fornecidos na apresentação, apreciação e acompanhamento do investimento;
+
+d) Condenação da entidade beneficiária por despedimento de grávidas, puérperas ou lactantes.
+
+2 - A resolução dos contratos implica a devolução do financiamento recebido, acrescidos de juros calculados à taxa indicada no contrato de concessão de apoio, no prazo de 60 dias úteis contados da data da respetiva notificação.
+
+###### Artigo 12.º — Enquadramento comunitário
+
+Os apoios financeiros previstos no presente diploma são concedidos ao abrigo do regime de auxílios de minimis.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente despacho normativo entra em vigor no dia seguinte ao da sua assinatura.
+
+20 de julho de 2017. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+310656233

@@ -1,0 +1,193 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:373414:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-915228557",
+ "dre_path": "/dr/detalhe/decreto-lei/234-1988-373414",
+ "source_lastmod": "2025-04-15",
+ "versions": [
+  {
+   "date": "1988-07-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915059171",
+    "915059172",
+    "915059173",
+    "915059174",
+    "915235575",
+    "915235576",
+    "915235577",
+    "915235578",
+    "915235579",
+    "915235580"
+   ]
+  },
+  {
+   "date": "1995-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185918:por",
+     "title": "Decreto-Lei n.º 50/95",
+     "published": "1995-03-16",
+     "dre_path": "/dr/detalhe/decreto-lei/50-1995-185918"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "915059171",
+    "915059172",
+    "915059173",
+    "915059174",
+    "915235575",
+    "915235586",
+    "915235577",
+    "915235578",
+    "915235579",
+    "915235580",
+    "915235581"
+   ]
+  },
+  {
+   "date": "1995-09-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551196:por",
+     "title": "Decreto-Lei n.º 225/95",
+     "published": "1995-09-08",
+     "dre_path": "/dr/detalhe/decreto-lei/225-1995-551196"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "915059171",
+    "915059172",
+    "915059173",
+    "915059174",
+    "915239777",
+    "915235586",
+    "915235577",
+    "915235578",
+    "915235579",
+    "915235580",
+    "915235581"
+   ]
+  }
+ ],
+ "fragments": {
+  "915059171": {
+   "fragment_id": "915228558",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 234/88\n\nde 5 de Julho\n\nA implementação da zona franca da Madeira assenta na dotação de instrumentos que, numa perspectiva dinâmica e célere, facultem a afirmação daquela zona nos mercados internacionais e criem as condições para a sua competição com outros centros similares.\n\nEsta necessidade faz-se sentir particularmente na constituição e funcionamento das entidades que pretendam operar no âmbito institucional da zona franca, pois é pacífico que aquelas formalidades são satisfeitas de modo diverso e menos burocratizado noutros centros. Importa, por isso, criar um serviço especial de registos e do notariado em conformidade com a especificidade desta situação.\n\nNestes termos, há que começar por dar resposta às fundadas expectativas da existência de um registo comercial privativo da zona franca da Madeira. Este compreenderá o exercício das actividades cometidas às conservatórias do registo de comércio, incluindo a actuação como serviço intermediário do Registo Nacional de Pessoas Colectivas, sem quebra, em qualquer caso, dos imprescindíveis laços de inserção institucional, por razões de certeza e segurança jurídicas.\n\nConcomitantemente, prevê-se a existência de serviços de notariado privativo, com evidentes vantagens para a prossecução daquele escopo e organizados em termos de poder satisfazer uma procura previsivelmente oriunda de países onde a língua inglesa é predominante.\n\nTendo sido ouvidos os órgãos de governo próprio da Região Autónoma da Madeira:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "915059172": {
+   "fragment_id": "915228559",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - São criados, na dependência do Ministério da Justiça, os serviços de registos e do notariado privativos da zona franca da Madeira.\n\n2 - Os serviços previstos no número anterior compreendem:\n\na) Uma conservatória do registo comercial;\n\nb) Um cartório notarial."
+  },
+  "915059173": {
+   "fragment_id": "915228560",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Os serviços de registo comercial ficam a cargo de uma conservatória privativa, adiante designada por CRC, competente para a prática de todos os actos que se encontram cometidos às conservatórias do registo de comércio respeitantes às entidades que operem exclusivamente no âmbito institucional da zona franca da Madeira.\n\n2 - É ainda atribuição da CRC o registo de instrumentos de gestão fiduciária trust, nos quais figurem como gestores fiduciários trustees as entidades referidas no número anterior.\n\n3 - Serão transferidos para a CRC oficiosamente, ou a requerimento dos interessados, os registos previstos no n.º 1 feitos noutras conservatórias, vigentes à data de entrada em vigor do presente diploma."
+  },
+  "915059174": {
+   "fragment_id": "915228561",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Os serviços do notariado ficam a cargo de um cartório privativo.\n\n2 - Compete aos serviços do notariado praticar os actos notariais respeitantes às entidades referidas no n.º 1 do artigo anterior."
+  },
+  "915235575": {
+   "fragment_id": "915228562",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os cartões de identificação de pessoas colectivas ou de entidades equiparadas deverão fazer menção expressa de que o respectivo titular se encontra unicamente autorizado a operar no âmbito institucional da zona franca da Madeira.\n\n2 - O processo de emissão dos certificados de admissibilidade e dos cartões de identificação será accionado directamente pela CRC através dos meios informáticos adequados.\n\n3 - Accionado o competente mecanismo do Registo Nacional de Pessoas Colectivas, será emitido pela CRC um cartão de identificação provisório, contendo a especificação prevista no n.º 1."
+  },
+  "915235576": {
+   "fragment_id": "915228563",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A CRC funciona sob a chefia de um conservador, coadjuvado por dois oficiais.\n\n2 - O cartório privativo funciona sob a chefia de um notário, coadjuvado por dois oficiais.\n\n3 - Os lugares de conservador e de notário privativos dos serviços de registos e do notariado da zona franca da Madeira são exercidos por um conservador e um notário providos em comissão de serviço ou destacamento, sem qualquer limitação de tempo, pelo director-geral dos Registos e do Notariado, podendo este regime ser aplicado aos oficiais.\n\n4 - O destacamento pode ser determinado em regime de acumulação.\n\n5 - O tempo de serviço prestado nos termos dos números anteriores vale, para todos os efeitos, como sendo prestado no lugar de origem.\n\n6 - Os quadros de oficiais das repartições referidas nos n.os 1 e 2 são compostos por um primeiro-ajudante e um escriturário cada um."
+  },
+  "915235577": {
+   "fragment_id": "915228564",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO pessoal previsto no artigo anterior tem direito à participação emolumentar mais favorável correspondente à de funcionário de igual categoria colocado, respectivamente, em conservatória e cartório notarial de 1.ª classe com sede na Região Autónoma da Madeira."
+  },
+  "915235578": {
+   "fragment_id": "915228565",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA instalação e funcionamento dos serviços, bem como as despesas com o pessoal a eles afecto, constituem encargo do Estado."
+  },
+  "915235579": {
+   "fragment_id": "915228566",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs actos referidos neste diploma encontram-se isentos de qualquer taxa ou emolumento."
+  },
+  "915235580": {
+   "fragment_id": "915228567",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nÉ aplicável subsidiariamente aos serviços previstos no presente diploma a legislação que regula os serviços de registos e do notariado."
+  },
+  "915235586": {
+   "fragment_id": "915228563",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1995-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 50/95 - Diário da República n.º 64/1995, Série I-A de 1995-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1995-185918), em vigor a partir de 1995-03-21"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O cartório notarial e a conservatória do registo comercial privativos da zona franca da Madeira funcionam sob a chefia, respectivamente, de um notário e de um conservador.\n\n2 - À alteração dos quadros do pessoal do cartório e da conservatória privativos, bem como ao provimento dos lugares de notário, de conservador e dos oficiais, é aplicável o regime previsto, respectivamente, para a alteração dos quadros e para o provimento, dos lugares dos serviços externos dos registos e do notariado.\n\n3 - Os lugares de conservador e de notário privativos dos serviços de registos e do notariado da zona franca da Madeira são exercidos por um conservador e um notário providos em comissão de serviço ou destacamento, sem qualquer limitação de tempo, pelo director-geral dos Registos e do Notariado, podendo este regime ser aplicado aos oficiais.\n\n4 - O destacamento pode ser determinado em regime de acumulação.\n\n5 - O tempo de serviço prestado nos termos dos números anteriores vale, para todos os efeitos, como sendo prestado no lugar de origem.\n\n6 - Os quadros de oficiais das repartições referidas nos n.os 1 e 2 são compostos por um primeiro-ajudante e um escriturário cada um.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 50/95 - Diário da República n.º 64/1995, Série I-A de 1995-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1995-185918), em vigor a partir de 1995-03-21"
+  },
+  "915235581": {
+   "fragment_id": "915228568",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Junho de 1988. - Eurico Silva Teixeira de Melo - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 22 de Junho de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 23 de Junho de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "915239777": {
+   "fragment_id": "915228562",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1995-09-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 225/95 - Diário da República n.º 208/1995, Série I-A de 1995-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1995-551196), em vigor a partir de 1995-09-13"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Os cartões de identificação de pessoas colectivas ou de entidades equiparadas deverão fazer menção expressa de que o respectivo titular se encontra unicamente autorizado a operar no âmbito institucional da zona franca da Madeira.\n\n2 - O processo de emissão dos certificados de admissibilidade e dos cartões de identificação será accionado directamente pela CRC através dos meios informáticos adequados.\n\n3 - Accionado o competente mecanismo do Registo Nacional de Pessoas Colectivas, será emitido pela CRC um cartão de identificação provisório, contendo a especificação prevista no n.º 1.\n\n4 - As sociedades licenciadas para operar no âmbito institucional da zona franca da Madeira gozam da faculdade de uso de palavras ou de parte de palavras estrangeiras ou de feição estrangeira na composição das suas firmas ou denominações.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 225/95 - Diário da República n.º 208/1995, Série I-A de 1995-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1995-551196), em vigor a partir de 1995-09-13"
+  }
+ }
+}

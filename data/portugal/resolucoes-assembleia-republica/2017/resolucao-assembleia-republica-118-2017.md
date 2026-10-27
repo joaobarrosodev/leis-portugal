@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:107514241:por
+title: Resolução da Assembleia da República n.º 118/2017
+short_title: null
+summary: Recomenda ao Governo a recuperação, requalificação e valorização do Forte de Peniche e a preservação da sua história
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 118/2017
+official_date: null
+publication_date: '2017-06-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2017, Série I de 2017-06-14
+  number: '114'
+  series: I
+  supplement: null
+  pages: 3007 - 3008
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11400/0300703008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/118/2017/06/14/p/dre/pt/html
+  oj: null
+  dre: '107514241'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/118-2017-107514241
+  internal: pt:dre:107514241:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/118-2017-107514241
+  metadata_url: https://data.dre.pt/eli/resolassrep/118/2017/06/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/118-2017-107514241
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:48:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 95e6051ec44dd959e78e09950267745171570fd662935aab905ddd62afcd2d68
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:48:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo
+- Museu
+- Parceria Pública
+- Património Histórico
+- Peniche
+- Recomendação
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:48:47Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 118/2017
+
+Recomenda ao Governo a recuperação, requalificação e valorização do Forte de Peniche e a preservação da sua história
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Na reapreciação em curso sobre o destino a dar ao Forte de Peniche, contemple efetivamente os princípios fundamentais que foram enunciados pelo Ministro da Cultura, quando se comprometeu a respeitar, perpetuar e a valorizar a memória da luta pela Democracia.
+
+2 - Recupere, requalifique e valorize o Forte de Peniche enquanto património nacional, considerando como parte integrante e fundamental do mesmo o núcleo museológico dedicado à denúncia da repressão fascista, à resistência antifascista, em homenagem aos presos políticos ali detidos, e à luta pela Liberdade e pela Democracia.
+
+3 - Acautele a dimensão da preservação da história da Fortaleza anterior ao século xx, bem como a afirmação do património cultural do concelho de Peniche, valorizando o diálogo e a interação com a comunidade local.
+
+4 - Assegure os procedimentos necessários à realização das intervenções para proteção do património arquitetónico militar da Fortaleza de Peniche, em particular, das mais urgentes.
+
+5 - Defina e concretize um programa faseado de recuperação, requalificação e valorização do Forte de Peniche, que dignifique a sua dimensão de espaço museográfico e monumental, nomeadamente através do desenvolvimento de parcerias com as entidades locais, regionais e nacionais e com recurso a financiamento público.
+
+6 - Articule, com o município de Peniche, para a dignificação do Museu Municipal, a valorização do seu espaço e a articulação com os núcleos expositivos dedicados à memória da resistência e da oposição à Ditadura.
+
+7 - Mantenha o Forte de Peniche, dada a sua especificidade histórica e cultural, fora da lista de monumentos nacionais a concessionar no âmbito do Programa Revive.
+
+Aprovada em 7 de abril de 2017.
+
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.

@@ -1,0 +1,1343 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476876:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34508275",
+ "dre_path": "/dr/detalhe/decreto-lei/99-1997-476876",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51477175",
+    "51213775",
+    "51213875",
+    "51213975",
+    "51214075",
+    "51214175",
+    "51214275",
+    "51214375",
+    "51214475",
+    "51214575",
+    "51214675",
+    "51214775",
+    "51214875",
+    "51214975",
+    "51215075",
+    "51215175",
+    "51215275",
+    "51215375",
+    "51215475",
+    "51215575",
+    "51215675",
+    "51215775",
+    "51215875",
+    "51215975",
+    "51216075",
+    "51216175",
+    "51216275",
+    "51216375",
+    "51216475",
+    "51216575",
+    "51216675",
+    "51216775",
+    "51216875",
+    "51216975",
+    "51217075",
+    "51217175",
+    "51217275",
+    "51217375",
+    "51217475",
+    "51217575",
+    "51217675",
+    "51217775",
+    "51217875",
+    "51217975",
+    "51218075",
+    "51218175",
+    "51218275",
+    "51218375",
+    "51218475",
+    "51218575"
+   ]
+  },
+  {
+   "date": "1997-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671935:por",
+     "title": "Decreto-Lei n.º 295/97",
+     "published": "1997-10-24",
+     "dre_path": "/dr/detalhe/decreto-lei/295-1997-671935"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51474375",
+    "51213775",
+    "51213875",
+    "51474475",
+    "51214075",
+    "51214175",
+    "51214275",
+    "51474575",
+    "51214475",
+    "51214575",
+    "51214675",
+    "51214775",
+    "51214875",
+    "51214975",
+    "51215075",
+    "51215175",
+    "51215275",
+    "51215375",
+    "51215475",
+    "51215575",
+    "51215675",
+    "51215775",
+    "51215875",
+    "51215975",
+    "51216075",
+    "51216175",
+    "51216275",
+    "51216375",
+    "51216475",
+    "51216575",
+    "51216675",
+    "51216775",
+    "51216875",
+    "51216975",
+    "51217075",
+    "51217175",
+    "51217275",
+    "51217375",
+    "51217475",
+    "51217575",
+    "51217675",
+    "51217775",
+    "51217875",
+    "51217975",
+    "51218075",
+    "51218175",
+    "51218275",
+    "51218375",
+    "51218475",
+    "51218675",
+    "51218575"
+   ]
+  },
+  {
+   "date": "2000-08-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:335901:por",
+     "title": "Decreto-Lei n.º 166/2000",
+     "published": "2000-08-05",
+     "dre_path": "/dr/detalhe/decreto-lei/166-2000-335901"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "51475875",
+    "51213775",
+    "51213875",
+    "51474475",
+    "51214075",
+    "51214175",
+    "51214275",
+    "51474575",
+    "51475975",
+    "51214575",
+    "51214675",
+    "51214775",
+    "51214875",
+    "51214975",
+    "51215075",
+    "51215175",
+    "51215275",
+    "51215375",
+    "51215475",
+    "51215575",
+    "51215675",
+    "51215775",
+    "51215875",
+    "51215975",
+    "51216075",
+    "51216175",
+    "51216275",
+    "51216375",
+    "51216475",
+    "51216575",
+    "51216675",
+    "51216775",
+    "51216875",
+    "51216975",
+    "51217075",
+    "51217175",
+    "51217275",
+    "51217375",
+    "51217475",
+    "51217575",
+    "51217675",
+    "51217775",
+    "51217875",
+    "51217975",
+    "51218075",
+    "51218175",
+    "51218275",
+    "51218375",
+    "51218475",
+    "51218675",
+    "51218575"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:473500:por",
+     "title": "Decreto-Lei n.º 237/2005",
+     "published": "2005-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/237-2005-473500"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 24.º"
+   ],
+   "fragments": [
+    "51476275",
+    "51213775",
+    "51213875",
+    "51474475",
+    "51214075",
+    "51214175",
+    "51214275",
+    "51474575",
+    "51475975",
+    "51214575",
+    "51214675",
+    "51214775",
+    "51214875",
+    "51214975",
+    "51215075",
+    "51215175",
+    "51215275",
+    "51215375",
+    "51476375",
+    "51215575",
+    "51215675",
+    "51215775",
+    "51215875",
+    "51215975",
+    "51216075",
+    "51216175",
+    "51216275",
+    "51216375",
+    "51476475",
+    "51216575",
+    "51216675",
+    "51216775",
+    "51216875",
+    "51216975",
+    "51217075",
+    "51217175",
+    "51217275",
+    "51217375",
+    "51217475",
+    "51217575",
+    "51217675",
+    "51217775",
+    "51217875",
+    "51217975",
+    "51218075",
+    "51218175",
+    "51218275",
+    "51218375",
+    "51218475",
+    "51218675",
+    "51218575"
+   ]
+  },
+  {
+   "date": "2007-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518856:por",
+     "title": "Decreto-Lei n.º 46/2007",
+     "published": "2007-02-27",
+     "dre_path": "/dr/detalhe/decreto-lei/46-2007-518856"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma",
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "51477175",
+    "51477275",
+    "51477375",
+    "51477475",
+    "51477575",
+    "51477675",
+    "51477775",
+    "51477875",
+    "51477975",
+    "51478075",
+    "51478175",
+    "51478275",
+    "51478375",
+    "51478475",
+    "51478575",
+    "51478675",
+    "51478775",
+    "51478875",
+    "51478975",
+    "51479075",
+    "51479175",
+    "51479275",
+    "51479375",
+    "51479475",
+    "51479575",
+    "51479675",
+    "51479775",
+    "51479875",
+    "51479975",
+    "51480075",
+    "51480175",
+    "51480275",
+    "51480375",
+    "51480475",
+    "51480575",
+    "51480675",
+    "51480775",
+    "51480875",
+    "51480975",
+    "51481075",
+    "51481175",
+    "51481275",
+    "51481375",
+    "51481475",
+    "51481575",
+    "51481675",
+    "51481775",
+    "51481875",
+    "51481975",
+    "51482075",
+    "51482175"
+   ]
+  }
+ ],
+ "fragments": {
+  "51477175": {
+   "fragment_id": "35128075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2007-03-01",
+   "changed_by": [],
+   "markdown": "O Instituto da Vinha e do Vinho, criado em 1986, com base na extinção da Junta Nacional da Vinha e do Vinho, teve como objectivo central adequar a organização corporativa ainda existente aos princípios e regras próprias de um organismo da intervenção no mercado conforme com a OCM do sector.\n\nA reestruturação orgânica implementada em 1993 não constituiu resposta adequada aos principais estrangulamentos diagnosticados no funcionamento do Instituto da Vinha e do Vinho, porquanto o modelo organizacional adoptado não respondeu às necessidades de um organismo que se deve posicionar como autoridade de controlo e coordenação geral do sector.\n\nTem, agora, o Governo, com a estrutura que foi recentemente aprovada no Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, oportunidade de dotar o Instituto da Vinha e do Vinho dos instrumentos adequados às intervenções do Estado no sector vitivinícola.\n\nAssim:\n\nNos termos do disposto no n.º 1 do artigo 16.º do Decreto-Lei n.º 74/96, de 18 de Junho, e no n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "51213775": {
+   "fragment_id": "36147475",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, natureza, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, natureza, atribuições e competências"
+  },
+  "51213875": {
+   "fragment_id": "37650975",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação, natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação, natureza e atribuições\n\nO Instituto da Vinha e do Vinho (IVV) é um instituto público, dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio, cujas actividades se desenvolvem nos domínios da política vitivinícola, da gestão e valorização do património vitícola nacional e da aplicação dos instrumentos de reforço da competitividade dos vinhos portugueses."
+  },
+  "51213975": {
+   "fragment_id": "37651075",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Para prossecução das suas atribuições, compete ao IVV, no âmbito do apoio geral ao sector vitivinícola:\n\na) Promover e apoiar a realização de acções tendentes à melhoria da qualidade dos produtos vitivinícolas e ao reforço da sua competitividade, colaborando com instituições públicas e organizações profissionais e interprofissionais que efectuem a promoção do vinho nos mercados interno e externo;\n\nb) Apoiar a constituição e o funcionamento das organizações profissionais e interprofissionais do sector;\n\nc) Efectuar a certificação dos vinhos de mesa e de outros produtos vínicos e, quando necessário, dos vinhos de qualidade produzidos em região determinada (VQPRD) e dos vinhos de mesa regionais;\n\nd) Promover, realizar, apoiar e divulgar acções de formação técnica e de sensibilização para a qualidade no sector;\n\ne) Realizar a auditoria dos sistemas de controlo e de certificação dos VQPRD e dos vinhos de mesa regionais.\n\n2 - Compete ao IVV, no âmbito dos estudos e da regulamentação:\n\na) Propor e elaborar a regulamentação técnica respeitante ao sector vitivinícola;\n\nb) Assegurar o funcionamento e, através do seu presidente, presidir à Comissão Nacional do Office International de la Vigne et du Vin;\n\nc) Propor a definição dos princípios e regras a que devem obedecer a produção e o comércio do vinho e dos produtos vínicos.\n\n3 - Compete ao IVV, no âmbito da gestão e valorização do património vitícola:\n\na) Elaborar e manter actual o ficheiro vitivinícola;\n\nb) Zelar pelo cumprimento do regime legal da cultura da vinha;\n\nc) Coordenar os programas nacionais e comunitários de ordenamento e melhoria da vinha.\n\n4 - Compete ao IVV, no âmbito da gestão do mercado, da intervenção e de instância de contacto com a União Europeia para o sector vitivinícola:\n\na) Orientar e regular o mercado vitivinícola, mediante a gestão dos mecanismos e instrumentos previstos na Organização Comum do Mercado Vitivinícola;\n\nb) Efectuar o estudo e análise dos mercados vitivinícolas e divulgar os respectivos resultados;\n\nc) Participar e acompanhar, junto das instâncias comunitárias, os processos relativos ao sector vitivinícola, sem prejuízo das competências próprias de outras entidades;\n\nd) Assegurar as funções de organismo de intervenção para o sector vitivinícola;\n\ne) Assegurar a divulgação das medidas, a obtenção de candidaturas, a instrução, a aprovação e remessa ao INGA, para efeitos de pagamento aos beneficiários dos processos relativos às ajudas e outros apoios financiados pela Secção Garantia do FEOGA;\n\nf) Aplicar e zelar pelo cumprimento, no sector vitivinícola, das disposições legais em vigor, bem como dos princípios e normas estabelecidos na Organização Comum do Mercado Vitivinícola;\n\ng) Assegurar a representação nacional no Comité de Gestão do Mercado Vitivinícola e nos demais comités relacionados com vinhos e produtos vínicos e participar nos grupos de trabalho do Conselho.\n\n5 - Compete ainda ao IVV, no âmbito do controlo oficial:\n\na) Fiscalizar as actividades desenvolvidas no sector vitivinícola, podendo vistoriar, em qualquer momento, os estabelecimentos de produção, transformação, armazenamento e comércio de vinhos e produtos vínicos;\n\nb) Verificar o cumprimento pelas comissões vitivinícolas regionais (CVR) das regras e princípios aplicáveis aos produtos que controlam;\n\nc) Controlar a qualidade dos vinhos e dos produtos vínicos, procedendo à colheita das amostras que se mostrem necessárias e à sua análise laboratorial, bem como verificar a conformidade legal das embalagens e rotulagem;\n\nd) Exigir dos produtores, comerciantes e demais agentes económicos a exibição dos elementos de escrituração, contabilidade ou outros, necessários por disposições legais ou administrativas;\n\ne) Lavrar autos das diligências efectuadas e, sendo caso disso, participar às autoridades competentes e proceder coercivamente à recuperação das eventuais importâncias recebidas indevidamente;\n\nf) Apreender ou condicionar o trânsito e o comércio de vinhos e produtos vínicos e, quando necessário, selar os respectivos recipientes;\n\ng) Solicitar das autoridades competentes, designadamente judiciais, fiscais, alfandegárias e policiais, toda a colaboração necessária para a execução de quaisquer acções de fiscalização;\n\nh) Aplicar as coimas e outras sanções acessórias devidas nos processos de contra-ordenação por infracções às normas que regulam a matéria da vinha e a produção e o comércio do vinho e produtos vínicos, nos termos da legislação em vigor sobre a matéria."
+  },
+  "51214075": {
+   "fragment_id": "36147575",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos e serviços"
+  },
+  "51214175": {
+   "fragment_id": "37651175",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos"
+  },
+  "51214275": {
+   "fragment_id": "39279575",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos do IVV:\n\na) O presidente;\n\nb) O conselho consultivo;\n\nc) O conselho administrativo."
+  },
+  "51214375": {
+   "fragment_id": "39279675",
+   "type": 11,
+   "heading": "Artigo 4.º — O presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — O presidente\n\n1 - Compete ao presidente:\n\na) Dirigir os serviços do IVV;\n\nb) Presidir aos conselhos consultivo e administrativo;\n\nc) Submeter à apreciação ou aprovação superior todos os assuntos que delas careçam;\n\nd) Representar o IVV em quaisquer actos ou contratos em que tenha de intervir.\n\n2 - O presidente, equiparado a director-geral, é coadjuvado no exercício das suas funções por dois vice-presidentes, equiparados a subdirector-geral.\n\n3 - O presidente poderá delegar nos vice-presidentes, com ou sem poderes de subdelegação, o exercício permanente ou ocasional de parte das suas competências.\n\n4 - O presidente é substituído nas suas ausências e impedimentos pelo vice-presidente que para esse efeito designar."
+  },
+  "51214475": {
+   "fragment_id": "39279775",
+   "type": 11,
+   "heading": "Artigo 5.º — Do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Do conselho consultivo\n\n1 - O conselho consultivo do IVV é presidido pelo presidente do IVV e integra os representantes dos produtores, das adegas cooperativas, do comércio de vinho, das CVR, dos destiladores e outros representativos do sector vitivinícola designados por despacho do ministro da tutela, sob proposta do presidente do IVV.\n\n2 - O conselho consultivo tem por função assistir o presidente do IVV através da emissão de pareceres que lhe sejam solicitados, sobre:\n\na) A situação do mercado do vinho e a gestão da sua organização;\n\nb) As propostas de normas regulamentadoras, nacionais e comunitárias, aplicáveis ao sector;\n\nc) Os planos de actividade do IVV;\n\nd) Quaisquer outros assuntos que lhe sejam submetidos pelo presidente.\n\n3 - O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que for convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n4 - O conselho consultivo funciona em reuniões plenárias, ou por comissões especializadas, designadamente a Comissão de Acompanhamento do Mercado Vitivinícola, ou outras, de acordo com o respectivo regulamento interno."
+  },
+  "51214575": {
+   "fragment_id": "39279875",
+   "type": 11,
+   "heading": "Artigo 6.º — Do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Do conselho administrativo\n\n1 - O conselho administrativo é o órgão de gestão financeira e patrimonial, constituído pelos seguintes membros efectivos:\n\na) O presidente, que presidirá;\n\nb) Um vice-presidente para tal efeito designado pelo presidente;\n\nc) O director de Serviços de Administração.\n\n2 - Participará nas reuniões do conselho administrativo, com as funções de secretário e sem direito a voto, o chefe da Divisão de Gestão Financeira e Patrimonial ou, nas suas ausências e impedimentos, o chefe da Repartição de Administração Geral.\n\n3 - Compete ao conselho administrativo:\n\na) Elaborar o plano de actividades e o projecto de orçamento, ordinário e suplementar, do IVV;\n\nb) Gerir todas as receitas e os fundos consignados;\n\nc) Autorizar a adjudicação e contratação de estudos, obras, trabalhos, serviços e fornecimentos indispensáveis ao funcionamento dos serviços;\n\nd) Autorizar os actos de administração relativos ao património do IVV, incluindo a aquisição, alienação, expropriação, troca, cedência, aluguer, arrendamento e comodato de quaisquer bens ou direitos a eles inerentes;\n\ne) Pronunciar-se sobre quaisquer assuntos de gestão financeira do IVV que lhe sejam submetidos pelo presidente;\n\nf) Submeter à apreciação superior os orçamentos privativos e os programas de trabalho;\n\ng) Zelar pela cobrança de receitas e promover o seu depósito;\n\nh) Aprovar a venda de produtos e a prestação de serviços;\n\ni) Deliberar sobre a atribuição de subsídios, reembolsáveis ou não, a entidades públicas, privadas ou cooperativas que se proponham colaborar com o IVV nas actividades por este desenvolvidas;\n\nj) Tomar conhecimento do inventário dos bens afectos aos serviços e dos aumentos e abates que, em cada ano, se verifiquem e promover as acções subsequentes;\n\nl) Elaborar a conta e o relatório financeiro e submetê-los ao Tribunal de Contas.\n\n4 - Compete ao presidente convocar e dirigir as reuniões do conselho administrativo, podendo este delegar naquele a gestão dos assuntos correntes.\n\n5 - O conselho administrativo estabelecerá as normas internas do seu funcionamento.\n\n6 - O conselho administrativo poderá delegar no presidente a competência para a prática de actos relativos à administração corrente."
+  },
+  "51214675": {
+   "fragment_id": "37651275",
+   "type": 8,
+   "heading": "Secção II — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços"
+  },
+  "51214775": {
+   "fragment_id": "39279975",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços\n\n1 - O IVV é dotado dos seguintes serviços de apoio:\n\na) Direcção de Serviços de Administração;\n\nb) Laboratório Vitivinícola;\n\nc) Gabinete Jurídico e de Contencioso;\n\nd) Divisão de Informação, Divulgação e Relações Públicas.\n\n2 - O IVV é dotado dos seguintes serviços operativos:\n\na) Direcção de Serviços de Estruturas Vitícolas;\n\nb) Direcção de Serviços de Mercados Vitivinícolas;\n\nc) Direcção de Serviços de Fiscalização Vitivinícola."
+  },
+  "51214875": {
+   "fragment_id": "39280075",
+   "type": 11,
+   "heading": "Artigo 8.º — Direcção de Serviços de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Administração\n\n1 - A Direcção de Serviços de Administração tem como competências promover e assegurar a gestão dos recursos financeiros, patrimoniais, humanos e informáticos do IVV, bem como a inspecção e controlos internos e externos por lei cometidos.\n\n2 - A Direcção de Serviços de Administração compreende as seguintes unidades orgânicas:\n\na) Divisão de Gestão Financeira e Patrimonial;\n\nb) Divisão de Recursos Humanos;\n\nc) Divisão de Informática;\n\nd) Divisão de Inspecção e Controlo;\n\ne) Repartição de Administração Geral."
+  },
+  "51214975": {
+   "fragment_id": "39280175",
+   "type": 11,
+   "heading": "Artigo 9.º — Divisão de Gestão Financeira e Patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Divisão de Gestão Financeira e Patrimonial\n\n1 - À Divisão de Gestão Financeira e Patrimonial compete:\n\na) Preparar a elaboração do plano e dos orçamentos do IVV;\n\nb) Elaborar relatórios de execução orçamental e financeira e promover, organizar e apresentar a conta anual de gerência;\n\nc) Assegurar a gestão e controlo orçamental e propor as alterações julgadas necessárias;\n\nd) Assegurar a gestão integrada dos recursos financeiros e contabilizar o seu movimento;\n\ne) Assegurar a escrituração e registos contabilísticos necessários, incluindo contabilidade analítica, para fins de controlo orçamental permanente;\n\nf) Promover, fiscalizar e coordenar a liquidação, cobrança e depósito das receitas do IVV, bem como a liquidação de despesas;\n\ng) Assegurar os procedimentos necessários à cobrança das dívidas ao IVV nos processos de execução fiscal;\n\nh) Assegurar a gestão do património afecto ao IVV;\n\ni) Coordenar e assegurar a recepção, armazenamento e saída de álcool, no âmbito da aplicação das medidas de intervenção no mercado;\n\nj) Promover e assegurar a adopção de um sistema de prevenção e segurança dos locais de armazenamento do álcool.\n\n2 - Adstrita à Divisão de Gestão Financeira e Patrimonial funciona uma tesouraria, à qual compete assegurar as tarefas inerentes a todo o movimento de receitas e despesas e respectiva escrituração."
+  },
+  "51215075": {
+   "fragment_id": "39280275",
+   "type": 11,
+   "heading": "Artigo 10.º — Divisão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Divisão de Recursos Humanos\n\nÀ Divisão de Recursos Humanos compete:\n\na) Elaborar os estudos necessários à correcta afectação e gestão do pessoal pelos diversos serviços;\n\nb) Desenvolver as acções necessárias à organização e instrução dos processos referentes à situação profissional do pessoal, designadamente no que se refere ao seu recrutamento, acolhimento, mobilidade e progressão nas carreiras;\n\nc) Recolher, organizar e tratar a informação sócio-profissional relativa aos recursos humanos, tendo em vista a sua gestão racional;\n\nd) Assegurar a execução de normas sobre condições ambientais, de segurança e higiene no trabalho;\n\ne) Assegurar, em colaboração com a Divisão de Informática, a instalação e a utilização das aplicações informáticas de gestão de pessoal e processamento de vencimentos;\n\nf) Organizar e manter actualizado o cadastro de pessoal;\n\ng) Assegurar a preparação e divulgação das listas de antiguidade e desencadear e assegurar o processo de marcação de licença para férias nos prazos legalmente previstos;\n\nh) Desencadear e assegurar o processo de notação periódica do pessoal objecto de atribuição de classificação de serviço;\n\ni) Instruir os processos relativos a acidentes em serviço e aposentação dos funcionários;\n\nj) Assegurar a análise e processamento dos elementos relativos aos vencimentos, salários e outros abonos de todo o pessoal, bem como elaborar os documentos que sirvam de suporte ao tratamento informático daquelas remunerações e abonos e respectivos descontos e garantir os procedimentos inerentes."
+  },
+  "51215175": {
+   "fragment_id": "39280375",
+   "type": 11,
+   "heading": "Artigo 11.º — Divisão de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divisão de Informática\n\nÀ Divisão de Informática compete:\n\na) Propor e apoiar a aplicação de medidas de normalização e simplificação de circuitos e de métodos de trabalho, bem como de racionalização de equipamentos e espaços;\n\nb) Organizar e gerir o sistema integrado de informação produzida a partir dos instrumentos declarativos e dos actos administrativos praticados pelos vários serviços do IVV;\n\nc) Compilar informação estatística interna e internacional, com vista à sua divulgação;\n\nd) Assegurar o apoio informático e o recurso sistemático às tecnologias de informação, efectuando a gestão dos equipamentos, o desenvolvimento das aplicações e o tratamento automático da informação;\n\ne) Participar na elaboração de cadernos de encargos, selecção, aquisição, contratação e instalação de equipamentos informáticos e de suportes lógicos e assegurar a sua gestão e manutenção."
+  },
+  "51215275": {
+   "fragment_id": "39280475",
+   "type": 11,
+   "heading": "Artigo 12.º — Divisão de Inspecção e Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Divisão de Inspecção e Controlo\n\nÀ Divisão de Inspecção e Controlo compete proceder às inspecções, inquéritos e sindicâncias de natureza interna ou externa que, por lei ou determinação dos órgãos competentes, lhe sejam cometidas, através da realização de acções de inspecção e controlo, designadamente:\n\na) Preparar, coordenar e executar as operações de verificação e de controlo administrativo e contabilístico das ajudas pagas no sector vitivinícola, em articulação com as demais entidades intervenientes no domínio da fiscalização e controlo;\n\nb) Realizar inspecções internas ao funcionamento dos serviços e propor as correcções aos procedimentos que se mostrem desadequados aos objectivos pretendidos."
+  },
+  "51215375": {
+   "fragment_id": "39280575",
+   "type": 11,
+   "heading": "Artigo 13.º — Repartição de Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Repartição de Administração Geral\n\n1 - À Repartição de Administração Geral compete executar as acções inerentes à gestão, conservação e inventário do património móvel e imóvel, bem como à execução do expediente, arquivo e assuntos gerais.\n\n2 - A Repartição de Administração Geral compreende as seguintes secções:\n\na) Secção de Património;\n\nb) Secção de Administração Geral.\n\n3 - À Secção de Património compete:\n\na) Assegurar a execução das medidas de gestão relativas ao património, incluindo viaturas, zelando pela sua manutenção conservação e segurança;\n\nb) Organizar e manter actual o inventário patrimonial respeitante a edifícios e outras instalações, maquinarias, equipamentos, material de transporte e demais bens de capital;\n\nc) Promover as acções necessárias para a efectivação das construções, remodelações e reparações que se tornem indispensáveis, em conformidade com as orientações emanadas da Divisão de Gestão Financeira e Patrimonial;\n\nd) Assegurar o apetrechamento em mobiliário e equipamento, promover as demais aquisições de bens e serviços necessárias ao funcionamento dos serviços e proceder à sua armazenagem, conservação e distribuição;\n\ne) Assegurar e controlar o fornecimento de selos aos agentes económicos e responder pelas respectivas existências.\n\n4 - À Secção de Administração Geral compete:\n\na) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo do expediente, bem como garantir a divulgação pelos serviços das normas internas e directivas superiores de carácter geral;\n\nb) Assegurar o serviço de motoristas e de outro pessoal auxiliar;\n\nc) Zelar pela segurança das instalações."
+  },
+  "51215475": {
+   "fragment_id": "39280675",
+   "type": 11,
+   "heading": "Artigo 14.º — Laboratório Vitivinícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Laboratório Vitivinícola\n\n1 - Ao Laboratório Vitivinícola, serviço de apoio dirigido por um chefe de divisão, compete:\n\na) Realizar os ensaios laboratoriais necessários à prossecução das atribuições do IVV, incluindo as análises necessárias à prevenção e repressão das infracções antieconómicas e contra a saúde pública;\n\nb) Promover e coordenar a realização de ensaios interlaboratoriais tendentes a melhorar a reprodutibilidade e a fiabilidade dos ensaios efectuados nos laboratórios do sector vitivinícola;\n\nc) Participar na realização de estudos laboratoriais destinados à caracterização dos produtos, das suas condições de obtenção ou comercialização ou à melhoria dos processos tecnológicos;\n\nd) Realizar e participar no estudo e desenvolvimento de novos métodos de análise a propor como métodos oficiais ou como métodos de referência;\n\ne) Realizar ensaios laboratoriais a título de prestação de serviços a terceiros;\n\nf) Organizar a base de dados dos produtos analisados;\n\ng) Promover e realizar acções de formação e de sensibilização nos domínios da análise.\n\n2 - O Laboratório Vitivinícola organiza-se funcionalmente nas áreas de análise sensorial, de análise química e de organização administrativa.\n\n3 - Integram o Laboratório Vitivinícola a Câmara de Provadores e as unidades de análise química localizadas em Lisboa, Mealhada e Vila Nova de Gaia.\n\n4 - A Câmara de Provadores e as unidades de análise química localizadas em Lisboa, Mealhada e Vila Nova de Gaia são coordenadas por técnicos designados para o efeito pelo presidente."
+  },
+  "51215575": {
+   "fragment_id": "39280775",
+   "type": 11,
+   "heading": "Artigo 15.º — Gabinete Jurídico e de Contencioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Gabinete Jurídico e de Contencioso\n\n1 - O Gabinete Jurídico e de Contencioso é dirigido por um chefe de divisão.\n\n2 - Ao Gabinete Jurídico e de Contencioso compete:\n\na) Prestar apoio técnico-jurídico e preparar as peças necessárias à defesa dos interesses do organismo nos processos de pré-contencioso e contencioso em que o IVV seja parte ou por qualquer outra forma interessado e exercer o respectivo patrocínio judiciário;\n\nb) Proceder à instrução e preparar as decisões nos processos administrativos de contra-ordenação que se encontrem legalmente cometidos aos órgãos do IVV;\n\nc) Dar apoio técnico-jurídico ao desempenho das actividades do IVV, prestando assessoria jurídica aos seus órgãos e serviços;\n\nd) Colaborar na elaboração de projectos de diplomas legislativos e emitir pareceres sobre a legislação nacional e comunitária."
+  },
+  "51215675": {
+   "fragment_id": "39280875",
+   "type": 11,
+   "heading": "Artigo 16.º — Divisão de Informação, Divulgação e Relações Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Divisão de Informação, Divulgação e Relações Públicas\n\nÀ Divisão de Informação, Divulgação e Relações Públicas compete:\n\na) Organizar e gerir o centro de documentação técnica e histórica e divulgar a informação técnica e promocional no âmbito das actividades do IVV;\n\nb) Coordenar a ligação a redes de informação nacionais e internacionais;\n\nc) Assegurar os serviços de tradução, reprografia e impressão, gerindo a oficina gráfica e o equipamento de reprografia;\n\nd) Apoiar a realização de acções de promoção genérica do vinho, da iniciativa de instituições públicas e das organizações profissionais e interprofissionais;\n\ne) Promover e organizar a realização de concursos de vinhos e prestar apoio técnico a iniciativas similares;\n\nf) Organizar e coordenar a gestão da utilização do património do IVV com interesse museológico ou de divulgação do vinho;\n\ng) Assegurar as funções de relações públicas e de comunicação institucional do IVV."
+  },
+  "51215775": {
+   "fragment_id": "39280975",
+   "type": 11,
+   "heading": "Artigo 17.º — Direcção de Serviços de Estruturas Vitícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direcção de Serviços de Estruturas Vitícolas\n\n1 - A Direcção de Serviços de Estruturas Vitícolas tem como competências definir, implementar e coordenar a aplicação das medidas de gestão do património vitícola nacional e da sua valorização, através da coordenação de programas nacionais e comunitários de ordenamento e melhoria da vinha.\n\n2 - A Direcção de Serviços de Estruturas Vitícolas compreende as seguintes unidades orgânicas:\n\na) Divisão do Cadastro Vitícola;\n\nb) Divisão de Ordenamento e Controlo Vitícola."
+  },
+  "51215875": {
+   "fragment_id": "39281075",
+   "type": 11,
+   "heading": "Artigo 18.º — Divisão do Cadastro Vitícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Divisão do Cadastro Vitícola\n\nÀ Divisão do Cadastro Vitícola compete:\n\na) Definir e programar a realização do Sistema de Informação Geográfico Vitícola (SIGV);\n\nb) Elaborar os requisitos técnicos necessários ao desenvolvimento das acções de implementação do SIGV;\n\nc) Desenvolver acções de formação técnica no âmbito do levantamento gráfico e alfanumérico das parcelas;\n\nd) Acompanhar e fiscalizar a realização de trabalhos no âmbito do SIGV adjudicados a entidades públicas, privadas ou associativas;\n\ne) Coordenar a execução dos planos anuais e periódicos de actualização e revisão do SIGV."
+  },
+  "51215975": {
+   "fragment_id": "39281175",
+   "type": 11,
+   "heading": "Artigo 19.º — Divisão de Ordenamento e Controlo Vitícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Divisão de Ordenamento e Controlo Vitícola\n\nÀ Divisão de Ordenamento e Controlo Vitícola compete:\n\na) Definir, implementar e coordenar a aplicação das medidas de gestão e de controlo da vinha e do potencial vitícola;\n\nb) Emitir direitos de plantação e replantação de vinhas;\n\nc) Coordenar a aplicação dos programas nacionais e comunitários de ordenamento e melhoria da vinha;\n\nd) Organizar e manter actual o catálogo das castas e dos porta-enxertos."
+  },
+  "51216075": {
+   "fragment_id": "39281275",
+   "type": 11,
+   "heading": "Artigo 20.º — Direcção de Serviços de Mercados Vitivinícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direcção de Serviços de Mercados Vitivinícolas\n\n1 - A Direcção de Serviços de Mercados Vitivinícolas tem como competências a gestão dos mecanismos e instrumentos de intervenção previstos na organização do mercado vitivinícola, o reconhecimento, registo ou homologação das organizações económicas e das infra-estruturas de produção, transformação e comércio vitivinícola e a elaboração dos projectos de diplomas legais que promovam a aplicação dos princípios e normas nacionais e comunitárias respeitantes ao sector vitivinícola.\n\n2 - A Direcção de Serviços de Mercados Vitivinícolas compreende as seguintes divisões:\n\na) Divisão de Intervenção no Mercado;\n\nb) Divisão de Infra-Estruturas e Organização Económica;\n\nc) Divisão de Regulamentação Vitivinícola."
+  },
+  "51216175": {
+   "fragment_id": "39281375",
+   "type": 11,
+   "heading": "Artigo 21.º — Divisão de Intervenção no Mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Divisão de Intervenção no Mercado\n\nÀ Divisão de Intervenção no Mercado compete:\n\na) Acompanhar e analisar o funcionamento do mercado e contribuir para a definição da política para o sector, propondo as acções necessárias à organização, regulamentação e apoio;\n\nb) Elaborar as normas e procedimentos a observar na aplicação das medidas de intervenção e das ajudas;\n\nc) Coordenar e assegurar a execução das medidas de intervenção no mercado e da concessão das ajudas previstas para o vinho e produtos vínicos;\n\nd) Organizar e instruir os processos relativos às medidas de intervenção e verificar a sua conformidade com as normas comunitárias e com as normas e procedimentos internos;\n\ne) Propor a concessão das ajudas previstas na organização de mercado e o pagamento do álcool a retirar do mercado."
+  },
+  "51216275": {
+   "fragment_id": "39281475",
+   "type": 11,
+   "heading": "Artigo 22.º — Divisão de Infra-Estruturas e Organização Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Divisão de Infra-Estruturas e Organização Económica\n\nÀ Divisão de Infra-Estruturas e Organização Económica compete:\n\na) Promover e colaborar na formulação dos requisitos técnicos a observar nas instalações e equipamentos de produção, transformação e comércio do vinho e dos produtos vínicos;\n\nb) Elaborar os requisitos técnicos e administrativos relativos ao exercício da actividade de produção, transformação e comércio do vinho e dos produtos vínicos;\n\nc) Organizar e manter actual o registo das empresas, dos estabelecimentos e das organizações económicas de produção, transformação e comércio de vinho e de produtos vínicos;\n\nd) Participar no processo de concessão de ajudas e incentivos para modernização das empresas e dos estabelecimentos;\n\ne) Apreciar as candidaturas das organizações de produtores e dar parecer sobre o seu reconhecimento;\n\nf) Efectuar o acompanhamento e avaliar a manutenção das condições que justificaram o reconhecimento dos agrupamentos de produtores;\n\ng) Recolher e tratar a informação económica contida nos instrumentos declarativos, de natureza obrigatória e facultativa, previstos na organização do mercado vitivinícola, tendo em vista a avaliação do mercado;\n\nh) Assegurar a participação do IVV nas actividades colaborativas desenvolvidas com o Instituto Nacional de Estatística."
+  },
+  "51216375": {
+   "fragment_id": "39281575",
+   "type": 11,
+   "heading": "Artigo 23.º — Divisão de Regulamentação Vitivinícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Divisão de Regulamentação Vitivinícola\n\nÀ Divisão de Regulamentação Vitivinícola compete:\n\na) Promover a revisão da legislação em vigor e proceder à elaboração de projectos de novos diplomas legais;\n\nb) Elaborar as normas e outras disposições administrativas relativas à produção, armazenagem, circulação, rotulagem e comercialização dos produtos vínicos em colaboração e apoio dos restantes serviços do IVV;\n\nc) Acompanhar os assuntos relativos ao comércio internacional de vinho e de produtos vínicos, incluindo os acordos e convénios celebrados entre a União Europeia e países terceiros;\n\nd) Participar nos grupos de trabalho da Comissão ou do Conselho Europeu que tratem de matérias relativas às relações externas da União Europeia, no domínio das atribuições do IVV;\n\ne) Apoiar o funcionamento da Comissão Nacional do Office International de la Vigne e du Vin e o seu secretariado."
+  },
+  "51216475": {
+   "fragment_id": "39281675",
+   "type": 11,
+   "heading": "Artigo 24.º — Direcção de Serviços de Fiscalização Vitivinícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Direcção de Serviços de Fiscalização Vitivinícola\n\n1 - A Direcção de Serviços de Fiscalização Vitivinícola tem como competências centralizar as orientações emanadas dos vários serviços centrais do IVV e coordenar a sua aplicação pelos serviços descentralizados, bem como zelar pelo cumprimento das leis e das normas em vigor.\n\n2 - A Direcção de Serviços de Fiscalização Vitivinícola compreende as seguintes unidades orgânicas:\n\na) Divisão de Fiscalização Vitivinícola I;\n\nb) Divisão de Fiscalização Vitivinícola II;\n\nc) Divisão de Fiscalização Vitivinícola III;\n\nd) Divisão de Auditoria dos Sistemas de Certificação.\n\n3 - A cada divisão de fiscalização vitivinícola, nas suas zonas de actuação, compete:\n\na) Aplicar e fazer cumprir as normas em vigor no sector vitivinícola, bem como as orientações emanadas pelos serviços centrais do IVV;\n\nb) Proceder ao controlo e efectuar as acções de fiscalização que, para o efeito, se mostrem adequadas e necessárias;\n\nc) Assegurar a gestão do património do IVV situado na sua área de actuação;\n\nd) Efectuar a certificação de vinhos de mesa e de outros produtos vínicos até ao reconhecimento da respectiva entidade certificadora, dos VQPRD e vinhos regionais.\n\n4 - A zona de actuação e a respectiva sediação de cada divisão de fiscalização vitivinícola é definida por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do presidente do IVV.\n\n5 - Junto de cada Divisão de Fiscalização Vitivinícola I, II e III funciona um núcleo de apoio administrativo, coordenado por um funcionário da carreira administrativa, ao qual compete proceder à recepção, classificação, expedição, arquivo e expediente relativos às respectivas atribuições.\n\n6 - As divisões de fiscalização vitivinícola poderão ser organizadas em núcleos a definir pelo presidente do IVV."
+  },
+  "51216575": {
+   "fragment_id": "39281775",
+   "type": 11,
+   "heading": "Artigo 25.º — Divisão de Auditoria dos Sistemas de Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Divisão de Auditoria dos Sistemas de Certificação\n\nÀ Divisão de Auditoria dos Sistemas de Certificação compete:\n\na) Definir as metodologias e os critérios a utilizar na auditoria dos sistemas de controlo e certificação dos VQPRD e dos vinhos de mesa regionais adoptados pelas CVR;\n\nb) Facultar apoio técnico às CVR na elaboração dos respectivos procedimentos de controlo e certificação;\n\nc) Efectuar a auditoria dos sistemas de controlo e certificação praticados pelas CVR;\n\nd) Efectuar a avaliação dos regulamentos e dos meios de suporte técnico, humanos e materiais, dos concursos do vinho promovidos por organizações profissionais e interprofissionais e por instituições públicas ou privadas;\n\ne) Promover e organizar a realização de acções de formação destinadas aos agentes económicos, às organizações profissionais e interprofissionais do sector vitivinícola e aos funcionários do IVV."
+  },
+  "51216675": {
+   "fragment_id": "36147675",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento"
+  },
+  "51216775": {
+   "fragment_id": "37651375",
+   "type": 11,
+   "heading": "Artigo 26.º — Desconcentração e descentralização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Desconcentração e descentralização\n\n1 - Os serviços do IVV funcionam em estreita ligação com outros organismos oficiais com o objectivo de racionalizar as acções a desenvolver no âmbito das suas atribuições e competências, podendo essa articulação ser definida em protocolos com os organismos intervenientes.\n\n2 - O IVV desenvolve a prossecução dos seus objectivos num quadro de desconcentração de funções para as organizações profissionais e interprofissionais do sector vitivinícola, com excepção das que revistam a natureza de controlo, neste caso exercidas directamente pelo IVV.\n\n3 - Sem prejuízo do disposto no número anterior, a execução a nível regional das acções relativas à gestão do património vitícola é cometida às direcções regionais de agricultura, nos termos dos respectivos diplomas orgânicos."
+  },
+  "51216875": {
+   "fragment_id": "37651475",
+   "type": 11,
+   "heading": "Artigo 27.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Funcionamento\n\n1 - O funcionamento do IVV assenta na estrutura definida no presente diploma.\n\n2 - Nos casos em que, pela sua natureza específica ou intersectorial, não se mostre adequado cometer o respectivo estudo às unidades orgânicas do organismo, poderão ser constituídos grupos de trabalho, cujo mandato, composição e funcionamento serão estabelecidos por despacho do presidente."
+  },
+  "51216975": {
+   "fragment_id": "37651575",
+   "type": 11,
+   "heading": "Artigo 28.º — Acordos e participações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Acordos e participações\n\n1 - O IVV pode celebrar acordos com outras entidades, públicas ou privadas, nacionais ou estrangeiras, no domínio das suas atribuições.\n\n2 - O IVV pode, mediante autorização prévia do ministro da tutela, participar na constituição ou adquirir participações em sociedades ou associações cujo objecto se enquadre nas suas atribuições."
+  },
+  "51217075": {
+   "fragment_id": "37651675",
+   "type": 11,
+   "heading": "Artigo 29.º — Vendas e prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Vendas e prestação de serviços\n\nO IVV pode realizar trabalhos e prestar serviços que lhe sejam confiados por outras entidades, praticando preços constantes de tabelas devidamente aprovadas pelo presidente."
+  },
+  "51217175": {
+   "fragment_id": "36147775",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão financeira e patrimonial"
+  },
+  "51217275": {
+   "fragment_id": "37651775",
+   "type": 11,
+   "heading": "Artigo 30.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Gestão financeira\n\nNa prossecução dos seus objectivos, o IVV administra os recursos que lhe são afectos, de acordo com as regras de gestão, utilizando os seguintes instrumentos:\n\na) Planos de actividade e financeiros, anuais e plurianuais;\n\nb) Orçamento;\n\nc) Conta e relatório financeiro."
+  },
+  "51217375": {
+   "fragment_id": "37651875",
+   "type": 11,
+   "heading": "Artigo 31.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Receitas\n\n1 - Constituem receitas do IVV:\n\na) As dotações atribuídas no Orçamento do Estado;\n\nb) O produto das taxas cobradas sobre os vinhos e os outros produtos vínicos;\n\nc) O produto das taxas cobradas em resultado das acções decorrentes da aplicação das medidas relativas à gestão do potencial vitícola;\n\nd) O produto da venda de serviços;\n\ne) O rendimento de bens próprios e os provenientes da sua actividade ou utilização por terceiros;\n\nf) O produto das multas e coimas;\n\ng) O produto da venda de patentes de invenção, novas tecnologias, publicações, impressos e quaisquer bens próprios, móveis e imóveis, e ainda o produto da constituição de direito sobre eles;\n\nh) Os reembolsos dos empréstimos efectuados, bem como os respectivos juros e comissões;\n\ni) As subvenções, comparticipações, subsídios ou donativos concedidos por quaisquer entidades, nacionais ou estrangeiras;\n\nj) Os juros de capitais próprios;\n\nl) Quaisquer outras receitas que por lei, contrato ou qualquer outra forma lhe sejam atribuídas.\n\n2 - Ao IVV compete proceder à cobrança e arrecadação das taxas que constituíam receita da extinta Junta Nacional do Vinho e do extinto Instituto de Gestão e Estruturação Fundiária.\n\n3 - Os saldos apurados no final de cada gerência transitam para o ano seguinte, seja qual for a origem das receitas correspondentes.\n\n4 - As importâncias arrecadadas são movimentadas por meio de cheque ou transferência bancária, mediante assinatura de dois membros do conselho administrativo, um dos quais será obrigatoriamente o director de Serviços de Administração ou o seu substituto legal."
+  },
+  "51217475": {
+   "fragment_id": "37651975",
+   "type": 11,
+   "heading": "Artigo 32.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Despesas\n\nConstituem despesas do IVV:\n\na) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições e competências que lhe estão confiadas;\n\nb) Os juros e as amortizações dos empréstimos que venha a contrair."
+  },
+  "51217575": {
+   "fragment_id": "37652075",
+   "type": 11,
+   "heading": "Artigo 33.º — Cobrança coerciva de dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Cobrança coerciva de dívidas\n\n1 - A cobrança coerciva das dívidas ao IVV é feita pelo processo das execuções fiscais, nos termos consagrados no Código de Processo Tributário.\n\n2 - O processo terá por base certidão emitida pela Direcção de Serviços de Administração do IVV, da qual devem constar os elementos referidos no artigo 249.º do Código de Processo Tributário."
+  },
+  "51217675": {
+   "fragment_id": "37652175",
+   "type": 11,
+   "heading": "Artigo 34.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Isenções\n\nO IVV é isento de taxas, custas e emolumentos nos processos, contratos, actos notariais e registrais ou quaisquer outros em que intervenha."
+  },
+  "51217775": {
+   "fragment_id": "36147875",
+   "type": 1,
+   "heading": "Capítulo V — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Património"
+  },
+  "51217875": {
+   "fragment_id": "37652275",
+   "type": 11,
+   "heading": "Artigo 35.º — Património do Instituto da Vinha e do Vinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Património do Instituto da Vinha e do Vinho\n\n1 - Constitui património do IVV todo o acervo de bens móveis e imóveis que, por força do disposto no artigo 10.º do Decreto-Lei n.º 304/86, de 22 de Setembro, foram transferidos para a sua titularidade, bem como os adquiridos posteriormente.\n\n2 - A actualização dos registos dos bens referidos no número anterior deve ser efectuada pelas respectivas conservatórias do registo predial competentes, mediante requerimento do IVV, em função de certidões sobre a situação dos bens passadas pelo presidente."
+  },
+  "51217975": {
+   "fragment_id": "36147975",
+   "type": 1,
+   "heading": "Capítulo VI — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Pessoal"
+  },
+  "51218075": {
+   "fragment_id": "37652375",
+   "type": 11,
+   "heading": "Artigo 36.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Quadro de pessoal\n\n1 - O quadro de pessoal dirigente do IVV é o constante do mapa anexo ao presente diploma e do qual faz parte integrante.\n\n2 - O quadro de pessoal do IVV é aprovado por portaria dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas e do membro do Governo que detenha a seu cargo a função pública.\n\n3 - O pessoal do IVV rege-se pelo disposto nas leis gerais da função pública.\n\n4 - No exercício das suas funções, designadamente de controlo e fiscalização, os funcionários do IVV ou equiparados, devidamente credenciados, são considerados agentes de autoridade, devendo os agentes económicos colaborar e fornecer todos os elementos que lhe forem solicitados, os quais são confidenciais."
+  },
+  "51218175": {
+   "fragment_id": "37652475",
+   "type": 11,
+   "heading": "Artigo 37.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Pessoal\n\n1 - A afectação do pessoal é feita nos termos da lei geral até à aprovação do quadro de pessoal referido no n.º 4 do artigo 16.º do Decreto-Lei n.º 74/96, de 18 de Junho, sem prejuízo do disposto no número seguinte.\n\n2 - O pessoal integrado no quadro do organismo poderá vir a ser integrado no novo quadro do IVV em função das necessidades do organismo reestruturado, dimensionando-se o novo quadro em função da adequação dos meios técnicos, humanos e financeiros do organismo aos fins por este prosseguidos, utilizando-se os instrumentos de mobilidade e medidas de descongestionamento aplicáveis, bem como outros que lhe venham a ser aplicáveis.\n\n3 - Os funcionários do anterior quadro do organismo que não forem integrados no novo quadro do IVV poderão ter, nomeadamente, um dos seguintes destinos:\n\na) Integração nos outros quadros de pessoal do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas em que se verifique a existência de vaga;\n\nb) Colocação em quaisquer outros serviços, através da utilização dos instrumentos de mobilidade previstos na lei.\n\n4 - Os funcionários que se encontram a prestar serviço no organismo em regime de requisição, destacamento ou comissão de serviço e que não ingressem no novo quadro regressarão aos seus lugares de origem, salvo se for renovada a situação.\n\n5 - Os funcionários do organismo que se encontram a prestar serviço em regime de requisição, destacamento ou comissão de serviço em outros serviços continuarão na mesma situação até ao termo normal do respectivo instrumento de mobilidade."
+  },
+  "51218275": {
+   "fragment_id": "36148075",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "51218375": {
+   "fragment_id": "37652575",
+   "type": 11,
+   "heading": "Artigo 38.º — Fundos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Fundos sociais\n\n1 - São extintos os fundos sociais do organismo reestruturado, nomeadamente o designado «Fundo Seabra».\n\n2 - O saldo do Fundo referido no número anterior é transferido para o IVV, devendo ser aplicado para custear despesas de estruturas de apoio social existentes no organismo."
+  },
+  "51218475": {
+   "fragment_id": "37652675",
+   "type": 11,
+   "heading": "Artigo 39.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Revogações\n\nSão revogados o Decreto-Lei n.º 102/93, de 2 de Abril, e o Decreto Regulamentar n.º 41/93, de 26 de Novembro."
+  },
+  "51218575": {
+   "fragment_id": "36148175",
+   "type": 14,
+   "heading": "Anexo — Mapa a que se refere o n.º 1 do artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa a que se refere o n.º 1 do artigo 36.º\n\n(ver documento original)"
+  },
+  "51474375": {
+   "fragment_id": "35128075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+   ],
+   "markdown": "O Instituto da Vinha e do Vinho, criado em 1986, com base na extinção da Junta Nacional da Vinha e do Vinho, teve como objectivo central adequar a organização corporativa ainda existente aos princípios e regras próprias de um organismo da intervenção no mercado conforme com a OCM do sector.\n\nA reestruturação orgânica implementada em 1993 não constituiu resposta adequada aos principais estrangulamentos diagnosticados no funcionamento do Instituto da Vinha e do Vinho, porquanto o modelo organizacional adoptado não respondeu às necessidades de um organismo que se deve posicionar como autoridade de controlo e coordenação geral do sector.\n\nTem, agora, o Governo, com a estrutura que foi recentemente aprovada no Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, oportunidade de dotar o Instituto da Vinha e do Vinho dos instrumentos adequados às intervenções do Estado no sector vitivinícola.\n\nAssim:\n\nNos termos do disposto no n.º 1 do artigo 16.º do Decreto-Lei n.º 74/96, de 18 de Junho, e no n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+  },
+  "51474475": {
+   "fragment_id": "37651075",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": "1997-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+   ],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Para prossecução das suas atribuições, compete ao IVV, no âmbito do apoio geral ao sector vitivinícola:\n\na) Promover e apoiar a realização de acções tendentes à melhoria da qualidade dos produtos vitivinícolas e ao reforço da sua competitividade, colaborando com instituições públicas e organizações profissionais e interprofissionais que efectuem a promoção do vinho nos mercados interno e externo;\n\nb) Apoiar a constituição e o funcionamento das organizações profissionais e interprofissionais do sector;\n\nc) Efectuar a certificação dos vinhos de mesa e de outros produtos vínicos e, quando necessário, dos vinhos de qualidade produzidos em região determinada (VQPRD) e dos vinhos de mesa regionais;\n\nd) Promover, realizar, apoiar e divulgar acções de formação técnica e de sensibilização para a qualidade no sector;\n\ne) Realizar a auditoria dos sistemas de controlo e de certificação dos VQPRD e dos vinhos de mesa regionais.\n\n2 - Compete ao IVV, no âmbito dos estudos e da regulamentação:\n\na) Propor e elaborar a regulamentação técnica respeitante ao sector vitivinícola;\n\nb) Assegurar o funcionamento e, através do seu presidente, presidir à Comissão Nacional do Office International de la Vigne et du Vin;\n\nc) Propor a definição dos princípios e regras a que devem obedecer a produção e o comércio do vinho e dos produtos vínicos.\n\n3 - Compete ao IVV, no âmbito da gestão e valorização do património vitícola:\n\na) Elaborar e manter actual o ficheiro vitivinícola;\n\nb) Zelar pelo cumprimento do regime legal da cultura da vinha;\n\nc) Coordenar os programas nacionais e comunitários de ordenamento e melhoria da vinha.\n\n4 - Compete ao IVV, no âmbito da gestão do mercado, da intervenção e de instância de contacto com a União Europeia para o sector vitivinícola:\n\na) Orientar e regular o mercado vitivinícola, mediante a gestão dos mecanismos e instrumentos previstos na Organização Comum do Mercado Vitivinícola;\n\nb) Efectuar o estudo e análise dos mercados vitivinícolas e divulgar os respectivos resultados;\n\nc) Participar e acompanhar, junto das instâncias comunitárias, os processos relativos ao sector vitivinícola, sem prejuízo das competências próprias de outras entidades;\n\nd) Assegurar as funções de organismo de intervenção para o sector vitivinícola;\n\ne) Assegurar a divulgação das medidas, a obtenção de candidaturas, a instrução, a aprovação e remessa ao INGA, para efeitos de pagamento aos beneficiários dos processos relativos às ajudas e outros apoios financiados pela Secção Garantia do FEOGA;\n\nf) Aplicar e zelar pelo cumprimento, no sector vitivinícola, das disposições legais em vigor, bem como dos princípios e normas estabelecidos na Organização Comum do Mercado Vitivinícola;\n\ng) Assegurar a representação nacional no Comité de Gestão do Mercado Vitivinícola e nos demais comités relacionados com vinhos e produtos vínicos e participar nos grupos de trabalho do Conselho.\n\nh) Aplicar as coimas e sanções acessórias relativamente às contra-ordenações previstas nos artigos 58.º e 59.º, na alínea c) do n.º 1 do artigo 64.º e nos artigos 61.º, 66.º, 67.º, 68.º, 69.º e 70.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, sempre que se trate de infracções relativas ao não cumprimento de disposições legais aplicáveis à vinha, à produção, comércio e transformação do vinho e dos produtos de origem vitivinícola e às actividades desenvolvidas no sector vitivinícola;\n\ni) Autuar e instruir os processos de contra-ordenação a que se refere a alínea anterior, sem prejuízo das competências de outras autoridades previstas na lei.\n\n5 - Compete ainda ao IVV, no âmbito do controlo oficial:\n\na) Fiscalizar as actividades desenvolvidas no sector vitivinícola, podendo vistoriar, em qualquer momento, os estabelecimentos de produção, transformação, armazenamento e comércio de vinhos e produtos vínicos;\n\nb) Verificar o cumprimento pelas comissões vitivinícolas regionais (CVR) das regras e princípios aplicáveis aos produtos que controlam;\n\nc) Controlar a qualidade dos vinhos e dos produtos vínicos, procedendo à colheita das amostras que se mostrem necessárias e à sua análise laboratorial, bem como verificar a conformidade legal das embalagens e rotulagem;\n\nd) Exigir dos produtores, comerciantes e demais agentes económicos a exibição dos elementos de escrituração, contabilidade ou outros, necessários por disposições legais ou administrativas;\n\ne) Lavrar autos das diligências efectuadas e, sendo caso disso, participar às autoridades competentes e proceder coercivamente à recuperação das eventuais importâncias recebidas indevidamente;\n\nf) Apreender ou condicionar o trânsito e o comércio de vinhos e produtos vínicos e, quando necessário, selar os respectivos recipientes;\n\ng) Solicitar das autoridades competentes, designadamente judiciais, fiscais, alfandegárias e policiais, toda a colaboração necessária para a execução de quaisquer acções de fiscalização;\n\nh) Aplicar as coimas e outras sanções acessórias devidas nos processos de contra-ordenação por infracções às normas que regulam a matéria da vinha e a produção e o comércio do vinho e produtos vínicos, nos termos da legislação em vigor sobre a matéria.\n\n6 - O produto das coimas e sanções acessórias aplicadas ao abrigo do presente diploma reverte:\n\na) 10% para a entidade autuante;\n\nb) 10% para a entidade instrutora;\n\nc) 30% para o IVV;\n\nd) 20% para o Instituto de Reinserção Social;\n\ne) 30% para o Estado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+  },
+  "51474575": {
+   "fragment_id": "39279675",
+   "type": 11,
+   "heading": "Artigo 4.º — O presidente",
+   "in_force_from": "1997-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+   ],
+   "markdown": "###### Artigo 4.º — O presidente\n\n1 - Compete ao presidente:\n\na) Dirigir os serviços do IVV;\n\nb) Presidir aos conselhos consultivo e administrativo;\n\nc) Submeter à apreciação ou aprovação superior todos os assuntos que delas careçam;\n\nd) Representar o IVV em quaisquer actos ou contratos em que tenha de intervir.\n\ne) Aplicação das coimas e sanções acessórias previstas na alínea h) do n.º 4 do artigo 2.º do presente diploma.\n\n2 - O presidente, equiparado a director-geral, é coadjuvado no exercício das suas funções por dois vice-presidentes, equiparados a subdirector-geral.\n\n3 - O presidente poderá delegar nos vice-presidentes, com ou sem poderes de subdelegação, o exercício permanente ou ocasional de parte das suas competências.\n\n4 - O presidente é substituído nas suas ausências e impedimentos pelo vice-presidente que para esse efeito designar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+  },
+  "51218675": {
+   "fragment_id": "36148275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Carvalho Ferreira Vitorino - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 3 de Abril de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 10 de Abril de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "51475875": {
+   "fragment_id": "35128075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2000-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23",
+    "Alterado pelo/a [Decreto-Lei n.º 166/2000 - Diário da República n.º 180/2000, Série I-A de 2000-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), em vigor a partir de 2000-08-10"
+   ],
+   "markdown": "O Instituto da Vinha e do Vinho, criado em 1986, com base na extinção da Junta Nacional da Vinha e do Vinho, teve como objectivo central adequar a organização corporativa ainda existente aos princípios e regras próprias de um organismo da intervenção no mercado conforme com a OCM do sector.\n\nA reestruturação orgânica implementada em 1993 não constituiu resposta adequada aos principais estrangulamentos diagnosticados no funcionamento do Instituto da Vinha e do Vinho, porquanto o modelo organizacional adoptado não respondeu às necessidades de um organismo que se deve posicionar como autoridade de controlo e coordenação geral do sector.\n\nTem, agora, o Governo, com a estrutura que foi recentemente aprovada no Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, oportunidade de dotar o Instituto da Vinha e do Vinho dos instrumentos adequados às intervenções do Estado no sector vitivinícola.\n\nAssim:\n\nNos termos do disposto no n.º 1 do artigo 16.º do Decreto-Lei n.º 74/96, de 18 de Junho, e no n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23\n\n> Alterado pelo/a [Decreto-Lei n.º 166/2000 - Diário da República n.º 180/2000, Série I-A de 2000-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), em vigor a partir de 2000-08-10"
+  },
+  "51475975": {
+   "fragment_id": "39279775",
+   "type": 11,
+   "heading": "Artigo 5.º — Do conselho consultivo",
+   "in_force_from": "2000-08-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 166/2000 - Diário da República n.º 180/2000, Série I-A de 2000-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), em vigor a partir de 2000-08-10"
+   ],
+   "markdown": "###### Artigo 5.º — Do conselho consultivo\n\n1 - O conselho consultivo do IVV é presidido pelo presidente do IVV e integra os representantes dos produtores, das adegas cooperativas, do comércio de vinho, das CVR, dos destiladores e outros representativos do sector vitivinícola designados por despacho do ministro da tutela, sob proposta do presidente do IVV.\n\n2 - O conselho consultivo tem por função assistir o presidente do IVV através da emissão de pareceres que lhe sejam solicitados, sobre:\n\na) A situação do mercado do vinho e a gestão da sua organização;\n\nb) As propostas de normas regulamentadoras, nacionais e comunitárias, aplicáveis ao sector;\n\nc) Os planos de actividade do IVV;\n\nd) Quaisquer outros assuntos que lhe sejam submetidos pelo presidente.\n\n3 - O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que for convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n4 - O conselho consultivo funciona em reuniões plenárias, ou por comissões especializadas, designadamente a Comissão de Acompanhamento do Mercado Vitivinícola, ou outras, de acordo com o respectivo regulamento interno.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 166/2000 - Diário da República n.º 180/2000, Série I-A de 2000-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), em vigor a partir de 2000-08-10"
+  },
+  "51476275": {
+   "fragment_id": "35128075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23",
+    "Alterado pelo/a [Decreto-Lei n.º 166/2000 - Diário da República n.º 180/2000, Série I-A de 2000-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), em vigor a partir de 2000-08-10",
+    "Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "O Instituto da Vinha e do Vinho, criado em 1986, com base na extinção da Junta Nacional da Vinha e do Vinho, teve como objectivo central adequar a organização corporativa ainda existente aos princípios e regras próprias de um organismo da intervenção no mercado conforme com a OCM do sector.\n\nA reestruturação orgânica implementada em 1993 não constituiu resposta adequada aos principais estrangulamentos diagnosticados no funcionamento do Instituto da Vinha e do Vinho, porquanto o modelo organizacional adoptado não respondeu às necessidades de um organismo que se deve posicionar como autoridade de controlo e coordenação geral do sector.\n\nTem, agora, o Governo, com a estrutura que foi recentemente aprovada no Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, oportunidade de dotar o Instituto da Vinha e do Vinho dos instrumentos adequados às intervenções do Estado no sector vitivinícola.\n\nAssim:\n\nNos termos do disposto no n.º 1 do artigo 16.º do Decreto-Lei n.º 74/96, de 18 de Junho, e no n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23\n\n> Alterado pelo/a [Decreto-Lei n.º 166/2000 - Diário da República n.º 180/2000, Série I-A de 2000-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), em vigor a partir de 2000-08-10\n\n> Alterado pelo/a Artigo 54.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+  },
+  "51476375": {
+   "fragment_id": "39280675",
+   "type": 11,
+   "heading": "Artigo 14.º — Laboratório Vitivinícola",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Laboratório Vitivinícola\n\n1 - Ao Laboratório Vitivinícola, serviço de apoio dirigido por um chefe de divisão, compete:\n\na) Realizar os ensaios laboratoriais necessários à prossecução das atribuições do IVV, incluindo as análises necessárias à prevenção e repressão das infracções antieconómicas e contra a saúde pública;\n\nb) Promover e coordenar a realização de ensaios interlaboratoriais tendentes a melhorar a reprodutibilidade e a fiabilidade dos ensaios efectuados nos laboratórios do sector vitivinícola;\n\nc) Participar na realização de estudos laboratoriais destinados à caracterização dos produtos, das suas condições de obtenção ou comercialização ou à melhoria dos processos tecnológicos;\n\nd) Realizar e participar no estudo e desenvolvimento de novos métodos de análise a propor como métodos oficiais ou como métodos de referência;\n\ne) Realizar ensaios laboratoriais a título de prestação de serviços a terceiros;\n\nf) Organizar a base de dados dos produtos analisados;\n\ng) Promover e realizar acções de formação e de sensibilização nos domínios da análise.\n\n2 - O Laboratório Vitivinícola organiza-se funcionalmente nas áreas de análise sensorial, de análise química e de organização administrativa.\n\n3 - Integram o Laboratório Vitivinícola a Câmara de Provadores e as unidades de análise química localizadas em Lisboa, Mealhada e Vila Nova de Gaia.\n\n4 - A Câmara de Provadores e as unidades de análise química localizadas em Lisboa, Mealhada e Vila Nova de Gaia são coordenadas por técnicos designados para o efeito pelo presidente.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+  },
+  "51476475": {
+   "fragment_id": "39281675",
+   "type": 11,
+   "heading": "Artigo 24.º — Direcção de Serviços de Fiscalização Vitivinícola",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Direcção de Serviços de Fiscalização Vitivinícola\n\n1 - A Direcção de Serviços de Fiscalização Vitivinícola tem como competências centralizar as orientações emanadas dos vários serviços centrais do IVV e coordenar a sua aplicação pelos serviços descentralizados, bem como zelar pelo cumprimento das leis e das normas em vigor.\n\n2 - A Direcção de Serviços de Fiscalização Vitivinícola compreende as seguintes unidades orgânicas:\n\na) Divisão de Fiscalização Vitivinícola I;\n\nb) Divisão de Fiscalização Vitivinícola II;\n\nc) Divisão de Fiscalização Vitivinícola III;\n\nd) Divisão de Auditoria dos Sistemas de Certificação.\n\n3 - A cada divisão de fiscalização vitivinícola, nas suas zonas de actuação, compete:\n\na) Aplicar e fazer cumprir as normas em vigor no sector vitivinícola, bem como as orientações emanadas pelos serviços centrais do IVV;\n\nb) Proceder ao controlo e efectuar as acções de fiscalização que, para o efeito, se mostrem adequadas e necessárias;\n\nc) Assegurar a gestão do património do IVV situado na sua área de actuação;\n\nd) Efectuar a certificação de vinhos de mesa e de outros produtos vínicos até ao reconhecimento da respectiva entidade certificadora, dos VQPRD e vinhos regionais.\n\n4 - A zona de actuação e a respectiva sediação de cada divisão de fiscalização vitivinícola é definida por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do presidente do IVV.\n\n5 - Junto de cada Divisão de Fiscalização Vitivinícola I, II e III funciona um núcleo de apoio administrativo, coordenado por um funcionário da carreira administrativa, ao qual compete proceder à recepção, classificação, expedição, arquivo e expediente relativos às respectivas atribuições.\n\n6 - As divisões de fiscalização vitivinícola poderão ser organizadas em núcleos a definir pelo presidente do IVV.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+  },
+  "51477275": {
+   "fragment_id": "36147475",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, natureza, atribuições e competências",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "### Capítulo I — Denominação, natureza, atribuições e competências\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51477375": {
+   "fragment_id": "37650975",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação, natureza e atribuições",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 1.º — Denominação, natureza e atribuições\n\nO Instituto da Vinha e do Vinho (IVV) é um instituto público, dotado de personalidade jurídica, com autonomia administrativa e financeira e património próprio, cujas actividades se desenvolvem nos domínios da política vitivinícola, da gestão e valorização do património vitícola nacional e da aplicação dos instrumentos de reforço da competitividade dos vinhos portugueses.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51477475": {
+   "fragment_id": "37651075",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+   ],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Para prossecução das suas atribuições, compete ao IVV, no âmbito do apoio geral ao sector vitivinícola:\n\na) Promover e apoiar a realização de acções tendentes à melhoria da qualidade dos produtos vitivinícolas e ao reforço da sua competitividade, colaborando com instituições públicas e organizações profissionais e interprofissionais que efectuem a promoção do vinho nos mercados interno e externo;\n\nb) Apoiar a constituição e o funcionamento das organizações profissionais e interprofissionais do sector;\n\nc) Efectuar a certificação dos vinhos de mesa e de outros produtos vínicos e, quando necessário, dos vinhos de qualidade produzidos em região determinada (VQPRD) e dos vinhos de mesa regionais;\n\nd) Promover, realizar, apoiar e divulgar acções de formação técnica e de sensibilização para a qualidade no sector;\n\ne) Realizar a auditoria dos sistemas de controlo e de certificação dos VQPRD e dos vinhos de mesa regionais.\n\n2 - Compete ao IVV, no âmbito dos estudos e da regulamentação:\n\na) Propor e elaborar a regulamentação técnica respeitante ao sector vitivinícola;\n\nb) Assegurar o funcionamento e, através do seu presidente, presidir à Comissão Nacional do Office International de la Vigne et du Vin;\n\nc) Propor a definição dos princípios e regras a que devem obedecer a produção e o comércio do vinho e dos produtos vínicos.\n\n3 - Compete ao IVV, no âmbito da gestão e valorização do património vitícola:\n\na) Elaborar e manter actual o ficheiro vitivinícola;\n\nb) Zelar pelo cumprimento do regime legal da cultura da vinha;\n\nc) Coordenar os programas nacionais e comunitários de ordenamento e melhoria da vinha.\n\n4 - Compete ao IVV, no âmbito da gestão do mercado, da intervenção e de instância de contacto com a União Europeia para o sector vitivinícola:\n\na) Orientar e regular o mercado vitivinícola, mediante a gestão dos mecanismos e instrumentos previstos na Organização Comum do Mercado Vitivinícola;\n\nb) Efectuar o estudo e análise dos mercados vitivinícolas e divulgar os respectivos resultados;\n\nc) Participar e acompanhar, junto das instâncias comunitárias, os processos relativos ao sector vitivinícola, sem prejuízo das competências próprias de outras entidades;\n\nd) Assegurar as funções de organismo de intervenção para o sector vitivinícola;\n\ne) Assegurar a divulgação das medidas, a obtenção de candidaturas, a instrução, a aprovação e remessa ao INGA, para efeitos de pagamento aos beneficiários dos processos relativos às ajudas e outros apoios financiados pela Secção Garantia do FEOGA;\n\nf) Aplicar e zelar pelo cumprimento, no sector vitivinícola, das disposições legais em vigor, bem como dos princípios e normas estabelecidos na Organização Comum do Mercado Vitivinícola;\n\ng) Assegurar a representação nacional no Comité de Gestão do Mercado Vitivinícola e nos demais comités relacionados com vinhos e produtos vínicos e participar nos grupos de trabalho do Conselho.\n\nh) Aplicar as coimas e sanções acessórias relativamente às contra-ordenações previstas nos artigos 58.º e 59.º, na alínea c) do n.º 1 do artigo 64.º e nos artigos 61.º, 66.º, 67.º, 68.º, 69.º e 70.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, sempre que se trate de infracções relativas ao não cumprimento de disposições legais aplicáveis à vinha, à produção, comércio e transformação do vinho e dos produtos de origem vitivinícola e às actividades desenvolvidas no sector vitivinícola;\n\ni) Autuar e instruir os processos de contra-ordenação a que se refere a alínea anterior, sem prejuízo das competências de outras autoridades previstas na lei.\n\n5 - Compete ainda ao IVV, no âmbito do controlo oficial:\n\na) Fiscalizar as actividades desenvolvidas no sector vitivinícola, podendo vistoriar, em qualquer momento, os estabelecimentos de produção, transformação, armazenamento e comércio de vinhos e produtos vínicos;\n\nb) Verificar o cumprimento pelas comissões vitivinícolas regionais (CVR) das regras e princípios aplicáveis aos produtos que controlam;\n\nc) Controlar a qualidade dos vinhos e dos produtos vínicos, procedendo à colheita das amostras que se mostrem necessárias e à sua análise laboratorial, bem como verificar a conformidade legal das embalagens e rotulagem;\n\nd) Exigir dos produtores, comerciantes e demais agentes económicos a exibição dos elementos de escrituração, contabilidade ou outros, necessários por disposições legais ou administrativas;\n\ne) Lavrar autos das diligências efectuadas e, sendo caso disso, participar às autoridades competentes e proceder coercivamente à recuperação das eventuais importâncias recebidas indevidamente;\n\nf) Apreender ou condicionar o trânsito e o comércio de vinhos e produtos vínicos e, quando necessário, selar os respectivos recipientes;\n\ng) Solicitar das autoridades competentes, designadamente judiciais, fiscais, alfandegárias e policiais, toda a colaboração necessária para a execução de quaisquer acções de fiscalização;\n\nh) Aplicar as coimas e outras sanções acessórias devidas nos processos de contra-ordenação por infracções às normas que regulam a matéria da vinha e a produção e o comércio do vinho e produtos vínicos, nos termos da legislação em vigor sobre a matéria.\n\n6 - O produto das coimas e sanções acessórias aplicadas ao abrigo do presente diploma reverte:\n\na) 10% para a entidade autuante;\n\nb) 10% para a entidade instrutora;\n\nc) 30% para o IVV;\n\nd) 20% para o Instituto de Reinserção Social;\n\ne) 30% para o Estado.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+  },
+  "51477575": {
+   "fragment_id": "36147575",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "### Capítulo II — Órgãos e serviços\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51477675": {
+   "fragment_id": "37651175",
+   "type": 8,
+   "heading": "Secção I — Órgãos",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "#### Secção I — Órgãos\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51477775": {
+   "fragment_id": "39279575",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos do IVV:\n\na) O presidente;\n\nb) O conselho consultivo;\n\nc) O conselho administrativo.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51477875": {
+   "fragment_id": "39279675",
+   "type": 11,
+   "heading": "Artigo 4.º — O presidente",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+   ],
+   "markdown": "###### Artigo 4.º — O presidente\n\n1 - Compete ao presidente:\n\na) Dirigir os serviços do IVV;\n\nb) Presidir aos conselhos consultivo e administrativo;\n\nc) Submeter à apreciação ou aprovação superior todos os assuntos que delas careçam;\n\nd) Representar o IVV em quaisquer actos ou contratos em que tenha de intervir.\n\ne) Aplicação das coimas e sanções acessórias previstas na alínea h) do n.º 4 do artigo 2.º do presente diploma.\n\n2 - O presidente, equiparado a director-geral, é coadjuvado no exercício das suas funções por dois vice-presidentes, equiparados a subdirector-geral.\n\n3 - O presidente poderá delegar nos vice-presidentes, com ou sem poderes de subdelegação, o exercício permanente ou ocasional de parte das suas competências.\n\n4 - O presidente é substituído nas suas ausências e impedimentos pelo vice-presidente que para esse efeito designar.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 295/97 - Diário da República n.º 247/1997, Série I-A de 1997-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1997-671935), em vigor a partir de 1997-11-23"
+  },
+  "51477975": {
+   "fragment_id": "39279775",
+   "type": 11,
+   "heading": "Artigo 5.º — Do conselho consultivo",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01",
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 166/2000 - Diário da República n.º 180/2000, Série I-A de 2000-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), em vigor a partir de 2000-08-10"
+   ],
+   "markdown": "###### Artigo 5.º — Do conselho consultivo\n\n1 - O conselho consultivo do IVV é presidido pelo presidente do IVV e integra os representantes dos produtores, das adegas cooperativas, do comércio de vinho, das CVR, dos destiladores e outros representativos do sector vitivinícola designados por despacho do ministro da tutela, sob proposta do presidente do IVV.\n\n2 - O conselho consultivo tem por função assistir o presidente do IVV através da emissão de pareceres que lhe sejam solicitados, sobre:\n\na) A situação do mercado do vinho e a gestão da sua organização;\n\nb) As propostas de normas regulamentadoras, nacionais e comunitárias, aplicáveis ao sector;\n\nc) Os planos de actividade do IVV;\n\nd) Quaisquer outros assuntos que lhe sejam submetidos pelo presidente.\n\n3 - O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que for convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n4 - O conselho consultivo funciona em reuniões plenárias, ou por comissões especializadas, designadamente a Comissão de Acompanhamento do Mercado Vitivinícola, ou outras, de acordo com o respectivo regulamento interno.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 166/2000 - Diário da República n.º 180/2000, Série I-A de 2000-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2000-335901), em vigor a partir de 2000-08-10"
+  },
+  "51478075": {
+   "fragment_id": "39279875",
+   "type": 11,
+   "heading": "Artigo 6.º — Do conselho administrativo",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Do conselho administrativo\n\n1 - O conselho administrativo é o órgão de gestão financeira e patrimonial, constituído pelos seguintes membros efectivos:\n\na) O presidente, que presidirá;\n\nb) Um vice-presidente para tal efeito designado pelo presidente;\n\nc) O director de Serviços de Administração.\n\n2 - Participará nas reuniões do conselho administrativo, com as funções de secretário e sem direito a voto, o chefe da Divisão de Gestão Financeira e Patrimonial ou, nas suas ausências e impedimentos, o chefe da Repartição de Administração Geral.\n\n3 - Compete ao conselho administrativo:\n\na) Elaborar o plano de actividades e o projecto de orçamento, ordinário e suplementar, do IVV;\n\nb) Gerir todas as receitas e os fundos consignados;\n\nc) Autorizar a adjudicação e contratação de estudos, obras, trabalhos, serviços e fornecimentos indispensáveis ao funcionamento dos serviços;\n\nd) Autorizar os actos de administração relativos ao património do IVV, incluindo a aquisição, alienação, expropriação, troca, cedência, aluguer, arrendamento e comodato de quaisquer bens ou direitos a eles inerentes;\n\ne) Pronunciar-se sobre quaisquer assuntos de gestão financeira do IVV que lhe sejam submetidos pelo presidente;\n\nf) Submeter à apreciação superior os orçamentos privativos e os programas de trabalho;\n\ng) Zelar pela cobrança de receitas e promover o seu depósito;\n\nh) Aprovar a venda de produtos e a prestação de serviços;\n\ni) Deliberar sobre a atribuição de subsídios, reembolsáveis ou não, a entidades públicas, privadas ou cooperativas que se proponham colaborar com o IVV nas actividades por este desenvolvidas;\n\nj) Tomar conhecimento do inventário dos bens afectos aos serviços e dos aumentos e abates que, em cada ano, se verifiquem e promover as acções subsequentes;\n\nl) Elaborar a conta e o relatório financeiro e submetê-los ao Tribunal de Contas.\n\n4 - Compete ao presidente convocar e dirigir as reuniões do conselho administrativo, podendo este delegar naquele a gestão dos assuntos correntes.\n\n5 - O conselho administrativo estabelecerá as normas internas do seu funcionamento.\n\n6 - O conselho administrativo poderá delegar no presidente a competência para a prática de actos relativos à administração corrente.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478175": {
+   "fragment_id": "37651275",
+   "type": 8,
+   "heading": "Secção II — Serviços",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "#### Secção II — Serviços\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478275": {
+   "fragment_id": "39279975",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Serviços\n\n1 - O IVV é dotado dos seguintes serviços de apoio:\n\na) Direcção de Serviços de Administração;\n\nb) Laboratório Vitivinícola;\n\nc) Gabinete Jurídico e de Contencioso;\n\nd) Divisão de Informação, Divulgação e Relações Públicas.\n\n2 - O IVV é dotado dos seguintes serviços operativos:\n\na) Direcção de Serviços de Estruturas Vitícolas;\n\nb) Direcção de Serviços de Mercados Vitivinícolas;\n\nc) Direcção de Serviços de Fiscalização Vitivinícola.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478375": {
+   "fragment_id": "39280075",
+   "type": 11,
+   "heading": "Artigo 8.º — Direcção de Serviços de Administração",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Administração\n\n1 - A Direcção de Serviços de Administração tem como competências promover e assegurar a gestão dos recursos financeiros, patrimoniais, humanos e informáticos do IVV, bem como a inspecção e controlos internos e externos por lei cometidos.\n\n2 - A Direcção de Serviços de Administração compreende as seguintes unidades orgânicas:\n\na) Divisão de Gestão Financeira e Patrimonial;\n\nb) Divisão de Recursos Humanos;\n\nc) Divisão de Informática;\n\nd) Divisão de Inspecção e Controlo;\n\ne) Repartição de Administração Geral.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478475": {
+   "fragment_id": "39280175",
+   "type": 11,
+   "heading": "Artigo 9.º — Divisão de Gestão Financeira e Patrimonial",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Divisão de Gestão Financeira e Patrimonial\n\n1 - À Divisão de Gestão Financeira e Patrimonial compete:\n\na) Preparar a elaboração do plano e dos orçamentos do IVV;\n\nb) Elaborar relatórios de execução orçamental e financeira e promover, organizar e apresentar a conta anual de gerência;\n\nc) Assegurar a gestão e controlo orçamental e propor as alterações julgadas necessárias;\n\nd) Assegurar a gestão integrada dos recursos financeiros e contabilizar o seu movimento;\n\ne) Assegurar a escrituração e registos contabilísticos necessários, incluindo contabilidade analítica, para fins de controlo orçamental permanente;\n\nf) Promover, fiscalizar e coordenar a liquidação, cobrança e depósito das receitas do IVV, bem como a liquidação de despesas;\n\ng) Assegurar os procedimentos necessários à cobrança das dívidas ao IVV nos processos de execução fiscal;\n\nh) Assegurar a gestão do património afecto ao IVV;\n\ni) Coordenar e assegurar a recepção, armazenamento e saída de álcool, no âmbito da aplicação das medidas de intervenção no mercado;\n\nj) Promover e assegurar a adopção de um sistema de prevenção e segurança dos locais de armazenamento do álcool.\n\n2 - Adstrita à Divisão de Gestão Financeira e Patrimonial funciona uma tesouraria, à qual compete assegurar as tarefas inerentes a todo o movimento de receitas e despesas e respectiva escrituração.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478575": {
+   "fragment_id": "39280275",
+   "type": 11,
+   "heading": "Artigo 10.º — Divisão de Recursos Humanos",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Divisão de Recursos Humanos\n\nÀ Divisão de Recursos Humanos compete:\n\na) Elaborar os estudos necessários à correcta afectação e gestão do pessoal pelos diversos serviços;\n\nb) Desenvolver as acções necessárias à organização e instrução dos processos referentes à situação profissional do pessoal, designadamente no que se refere ao seu recrutamento, acolhimento, mobilidade e progressão nas carreiras;\n\nc) Recolher, organizar e tratar a informação sócio-profissional relativa aos recursos humanos, tendo em vista a sua gestão racional;\n\nd) Assegurar a execução de normas sobre condições ambientais, de segurança e higiene no trabalho;\n\ne) Assegurar, em colaboração com a Divisão de Informática, a instalação e a utilização das aplicações informáticas de gestão de pessoal e processamento de vencimentos;\n\nf) Organizar e manter actualizado o cadastro de pessoal;\n\ng) Assegurar a preparação e divulgação das listas de antiguidade e desencadear e assegurar o processo de marcação de licença para férias nos prazos legalmente previstos;\n\nh) Desencadear e assegurar o processo de notação periódica do pessoal objecto de atribuição de classificação de serviço;\n\ni) Instruir os processos relativos a acidentes em serviço e aposentação dos funcionários;\n\nj) Assegurar a análise e processamento dos elementos relativos aos vencimentos, salários e outros abonos de todo o pessoal, bem como elaborar os documentos que sirvam de suporte ao tratamento informático daquelas remunerações e abonos e respectivos descontos e garantir os procedimentos inerentes.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478675": {
+   "fragment_id": "39280375",
+   "type": 11,
+   "heading": "Artigo 11.º — Divisão de Informática",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 11.º — Divisão de Informática\n\nÀ Divisão de Informática compete:\n\na) Propor e apoiar a aplicação de medidas de normalização e simplificação de circuitos e de métodos de trabalho, bem como de racionalização de equipamentos e espaços;\n\nb) Organizar e gerir o sistema integrado de informação produzida a partir dos instrumentos declarativos e dos actos administrativos praticados pelos vários serviços do IVV;\n\nc) Compilar informação estatística interna e internacional, com vista à sua divulgação;\n\nd) Assegurar o apoio informático e o recurso sistemático às tecnologias de informação, efectuando a gestão dos equipamentos, o desenvolvimento das aplicações e o tratamento automático da informação;\n\ne) Participar na elaboração de cadernos de encargos, selecção, aquisição, contratação e instalação de equipamentos informáticos e de suportes lógicos e assegurar a sua gestão e manutenção.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478775": {
+   "fragment_id": "39280475",
+   "type": 11,
+   "heading": "Artigo 12.º — Divisão de Inspecção e Controlo",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 12.º — Divisão de Inspecção e Controlo\n\nÀ Divisão de Inspecção e Controlo compete proceder às inspecções, inquéritos e sindicâncias de natureza interna ou externa que, por lei ou determinação dos órgãos competentes, lhe sejam cometidas, através da realização de acções de inspecção e controlo, designadamente:\n\na) Preparar, coordenar e executar as operações de verificação e de controlo administrativo e contabilístico das ajudas pagas no sector vitivinícola, em articulação com as demais entidades intervenientes no domínio da fiscalização e controlo;\n\nb) Realizar inspecções internas ao funcionamento dos serviços e propor as correcções aos procedimentos que se mostrem desadequados aos objectivos pretendidos.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478875": {
+   "fragment_id": "39280575",
+   "type": 11,
+   "heading": "Artigo 13.º — Repartição de Administração Geral",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 13.º — Repartição de Administração Geral\n\n1 - À Repartição de Administração Geral compete executar as acções inerentes à gestão, conservação e inventário do património móvel e imóvel, bem como à execução do expediente, arquivo e assuntos gerais.\n\n2 - A Repartição de Administração Geral compreende as seguintes secções:\n\na) Secção de Património;\n\nb) Secção de Administração Geral.\n\n3 - À Secção de Património compete:\n\na) Assegurar a execução das medidas de gestão relativas ao património, incluindo viaturas, zelando pela sua manutenção conservação e segurança;\n\nb) Organizar e manter actual o inventário patrimonial respeitante a edifícios e outras instalações, maquinarias, equipamentos, material de transporte e demais bens de capital;\n\nc) Promover as acções necessárias para a efectivação das construções, remodelações e reparações que se tornem indispensáveis, em conformidade com as orientações emanadas da Divisão de Gestão Financeira e Patrimonial;\n\nd) Assegurar o apetrechamento em mobiliário e equipamento, promover as demais aquisições de bens e serviços necessárias ao funcionamento dos serviços e proceder à sua armazenagem, conservação e distribuição;\n\ne) Assegurar e controlar o fornecimento de selos aos agentes económicos e responder pelas respectivas existências.\n\n4 - À Secção de Administração Geral compete:\n\na) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo do expediente, bem como garantir a divulgação pelos serviços das normas internas e directivas superiores de carácter geral;\n\nb) Assegurar o serviço de motoristas e de outro pessoal auxiliar;\n\nc) Zelar pela segurança das instalações.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51478975": {
+   "fragment_id": "39280675",
+   "type": 11,
+   "heading": "Artigo 14.º — Laboratório Vitivinícola",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01",
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Laboratório Vitivinícola\n\n1 - Ao Laboratório Vitivinícola, serviço de apoio dirigido por um chefe de divisão, compete:\n\na) Realizar os ensaios laboratoriais necessários à prossecução das atribuições do IVV, incluindo as análises necessárias à prevenção e repressão das infracções antieconómicas e contra a saúde pública;\n\nb) Promover e coordenar a realização de ensaios interlaboratoriais tendentes a melhorar a reprodutibilidade e a fiabilidade dos ensaios efectuados nos laboratórios do sector vitivinícola;\n\nc) Participar na realização de estudos laboratoriais destinados à caracterização dos produtos, das suas condições de obtenção ou comercialização ou à melhoria dos processos tecnológicos;\n\nd) Realizar e participar no estudo e desenvolvimento de novos métodos de análise a propor como métodos oficiais ou como métodos de referência;\n\ne) Realizar ensaios laboratoriais a título de prestação de serviços a terceiros;\n\nf) Organizar a base de dados dos produtos analisados;\n\ng) Promover e realizar acções de formação e de sensibilização nos domínios da análise.\n\n2 - O Laboratório Vitivinícola organiza-se funcionalmente nas áreas de análise sensorial, de análise química e de organização administrativa.\n\n3 - Integram o Laboratório Vitivinícola a Câmara de Provadores e as unidades de análise química localizadas em Lisboa, Mealhada e Vila Nova de Gaia.\n\n4 - A Câmara de Provadores e as unidades de análise química localizadas em Lisboa, Mealhada e Vila Nova de Gaia são coordenadas por técnicos designados para o efeito pelo presidente.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+  },
+  "51479075": {
+   "fragment_id": "39280775",
+   "type": 11,
+   "heading": "Artigo 15.º — Gabinete Jurídico e de Contencioso",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 15.º — Gabinete Jurídico e de Contencioso\n\n1 - O Gabinete Jurídico e de Contencioso é dirigido por um chefe de divisão.\n\n2 - Ao Gabinete Jurídico e de Contencioso compete:\n\na) Prestar apoio técnico-jurídico e preparar as peças necessárias à defesa dos interesses do organismo nos processos de pré-contencioso e contencioso em que o IVV seja parte ou por qualquer outra forma interessado e exercer o respectivo patrocínio judiciário;\n\nb) Proceder à instrução e preparar as decisões nos processos administrativos de contra-ordenação que se encontrem legalmente cometidos aos órgãos do IVV;\n\nc) Dar apoio técnico-jurídico ao desempenho das actividades do IVV, prestando assessoria jurídica aos seus órgãos e serviços;\n\nd) Colaborar na elaboração de projectos de diplomas legislativos e emitir pareceres sobre a legislação nacional e comunitária.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479175": {
+   "fragment_id": "39280875",
+   "type": 11,
+   "heading": "Artigo 16.º — Divisão de Informação, Divulgação e Relações Públicas",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 16.º — Divisão de Informação, Divulgação e Relações Públicas\n\nÀ Divisão de Informação, Divulgação e Relações Públicas compete:\n\na) Organizar e gerir o centro de documentação técnica e histórica e divulgar a informação técnica e promocional no âmbito das actividades do IVV;\n\nb) Coordenar a ligação a redes de informação nacionais e internacionais;\n\nc) Assegurar os serviços de tradução, reprografia e impressão, gerindo a oficina gráfica e o equipamento de reprografia;\n\nd) Apoiar a realização de acções de promoção genérica do vinho, da iniciativa de instituições públicas e das organizações profissionais e interprofissionais;\n\ne) Promover e organizar a realização de concursos de vinhos e prestar apoio técnico a iniciativas similares;\n\nf) Organizar e coordenar a gestão da utilização do património do IVV com interesse museológico ou de divulgação do vinho;\n\ng) Assegurar as funções de relações públicas e de comunicação institucional do IVV.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479275": {
+   "fragment_id": "39280975",
+   "type": 11,
+   "heading": "Artigo 17.º — Direcção de Serviços de Estruturas Vitícolas",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 17.º — Direcção de Serviços de Estruturas Vitícolas\n\n1 - A Direcção de Serviços de Estruturas Vitícolas tem como competências definir, implementar e coordenar a aplicação das medidas de gestão do património vitícola nacional e da sua valorização, através da coordenação de programas nacionais e comunitários de ordenamento e melhoria da vinha.\n\n2 - A Direcção de Serviços de Estruturas Vitícolas compreende as seguintes unidades orgânicas:\n\na) Divisão do Cadastro Vitícola;\n\nb) Divisão de Ordenamento e Controlo Vitícola.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479375": {
+   "fragment_id": "39281075",
+   "type": 11,
+   "heading": "Artigo 18.º — Divisão do Cadastro Vitícola",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 18.º — Divisão do Cadastro Vitícola\n\nÀ Divisão do Cadastro Vitícola compete:\n\na) Definir e programar a realização do Sistema de Informação Geográfico Vitícola (SIGV);\n\nb) Elaborar os requisitos técnicos necessários ao desenvolvimento das acções de implementação do SIGV;\n\nc) Desenvolver acções de formação técnica no âmbito do levantamento gráfico e alfanumérico das parcelas;\n\nd) Acompanhar e fiscalizar a realização de trabalhos no âmbito do SIGV adjudicados a entidades públicas, privadas ou associativas;\n\ne) Coordenar a execução dos planos anuais e periódicos de actualização e revisão do SIGV.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479475": {
+   "fragment_id": "39281175",
+   "type": 11,
+   "heading": "Artigo 19.º — Divisão de Ordenamento e Controlo Vitícola",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 19.º — Divisão de Ordenamento e Controlo Vitícola\n\nÀ Divisão de Ordenamento e Controlo Vitícola compete:\n\na) Definir, implementar e coordenar a aplicação das medidas de gestão e de controlo da vinha e do potencial vitícola;\n\nb) Emitir direitos de plantação e replantação de vinhas;\n\nc) Coordenar a aplicação dos programas nacionais e comunitários de ordenamento e melhoria da vinha;\n\nd) Organizar e manter actual o catálogo das castas e dos porta-enxertos.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479575": {
+   "fragment_id": "39281275",
+   "type": 11,
+   "heading": "Artigo 20.º — Direcção de Serviços de Mercados Vitivinícolas",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 20.º — Direcção de Serviços de Mercados Vitivinícolas\n\n1 - A Direcção de Serviços de Mercados Vitivinícolas tem como competências a gestão dos mecanismos e instrumentos de intervenção previstos na organização do mercado vitivinícola, o reconhecimento, registo ou homologação das organizações económicas e das infra-estruturas de produção, transformação e comércio vitivinícola e a elaboração dos projectos de diplomas legais que promovam a aplicação dos princípios e normas nacionais e comunitárias respeitantes ao sector vitivinícola.\n\n2 - A Direcção de Serviços de Mercados Vitivinícolas compreende as seguintes divisões:\n\na) Divisão de Intervenção no Mercado;\n\nb) Divisão de Infra-Estruturas e Organização Económica;\n\nc) Divisão de Regulamentação Vitivinícola.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479675": {
+   "fragment_id": "39281375",
+   "type": 11,
+   "heading": "Artigo 21.º — Divisão de Intervenção no Mercado",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 21.º — Divisão de Intervenção no Mercado\n\nÀ Divisão de Intervenção no Mercado compete:\n\na) Acompanhar e analisar o funcionamento do mercado e contribuir para a definição da política para o sector, propondo as acções necessárias à organização, regulamentação e apoio;\n\nb) Elaborar as normas e procedimentos a observar na aplicação das medidas de intervenção e das ajudas;\n\nc) Coordenar e assegurar a execução das medidas de intervenção no mercado e da concessão das ajudas previstas para o vinho e produtos vínicos;\n\nd) Organizar e instruir os processos relativos às medidas de intervenção e verificar a sua conformidade com as normas comunitárias e com as normas e procedimentos internos;\n\ne) Propor a concessão das ajudas previstas na organização de mercado e o pagamento do álcool a retirar do mercado.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479775": {
+   "fragment_id": "39281475",
+   "type": 11,
+   "heading": "Artigo 22.º — Divisão de Infra-Estruturas e Organização Económica",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 22.º — Divisão de Infra-Estruturas e Organização Económica\n\nÀ Divisão de Infra-Estruturas e Organização Económica compete:\n\na) Promover e colaborar na formulação dos requisitos técnicos a observar nas instalações e equipamentos de produção, transformação e comércio do vinho e dos produtos vínicos;\n\nb) Elaborar os requisitos técnicos e administrativos relativos ao exercício da actividade de produção, transformação e comércio do vinho e dos produtos vínicos;\n\nc) Organizar e manter actual o registo das empresas, dos estabelecimentos e das organizações económicas de produção, transformação e comércio de vinho e de produtos vínicos;\n\nd) Participar no processo de concessão de ajudas e incentivos para modernização das empresas e dos estabelecimentos;\n\ne) Apreciar as candidaturas das organizações de produtores e dar parecer sobre o seu reconhecimento;\n\nf) Efectuar o acompanhamento e avaliar a manutenção das condições que justificaram o reconhecimento dos agrupamentos de produtores;\n\ng) Recolher e tratar a informação económica contida nos instrumentos declarativos, de natureza obrigatória e facultativa, previstos na organização do mercado vitivinícola, tendo em vista a avaliação do mercado;\n\nh) Assegurar a participação do IVV nas actividades colaborativas desenvolvidas com o Instituto Nacional de Estatística.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479875": {
+   "fragment_id": "39281575",
+   "type": 11,
+   "heading": "Artigo 23.º — Divisão de Regulamentação Vitivinícola",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 23.º — Divisão de Regulamentação Vitivinícola\n\nÀ Divisão de Regulamentação Vitivinícola compete:\n\na) Promover a revisão da legislação em vigor e proceder à elaboração de projectos de novos diplomas legais;\n\nb) Elaborar as normas e outras disposições administrativas relativas à produção, armazenagem, circulação, rotulagem e comercialização dos produtos vínicos em colaboração e apoio dos restantes serviços do IVV;\n\nc) Acompanhar os assuntos relativos ao comércio internacional de vinho e de produtos vínicos, incluindo os acordos e convénios celebrados entre a União Europeia e países terceiros;\n\nd) Participar nos grupos de trabalho da Comissão ou do Conselho Europeu que tratem de matérias relativas às relações externas da União Europeia, no domínio das atribuições do IVV;\n\ne) Apoiar o funcionamento da Comissão Nacional do Office International de la Vigne e du Vin e o seu secretariado.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51479975": {
+   "fragment_id": "39281675",
+   "type": 11,
+   "heading": "Artigo 24.º — Direcção de Serviços de Fiscalização Vitivinícola",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01",
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Direcção de Serviços de Fiscalização Vitivinícola\n\n1 - A Direcção de Serviços de Fiscalização Vitivinícola tem como competências centralizar as orientações emanadas dos vários serviços centrais do IVV e coordenar a sua aplicação pelos serviços descentralizados, bem como zelar pelo cumprimento das leis e das normas em vigor.\n\n2 - A Direcção de Serviços de Fiscalização Vitivinícola compreende as seguintes unidades orgânicas:\n\na) Divisão de Fiscalização Vitivinícola I;\n\nb) Divisão de Fiscalização Vitivinícola II;\n\nc) Divisão de Fiscalização Vitivinícola III;\n\nd) Divisão de Auditoria dos Sistemas de Certificação.\n\n3 - A cada divisão de fiscalização vitivinícola, nas suas zonas de actuação, compete:\n\na) Aplicar e fazer cumprir as normas em vigor no sector vitivinícola, bem como as orientações emanadas pelos serviços centrais do IVV;\n\nb) Proceder ao controlo e efectuar as acções de fiscalização que, para o efeito, se mostrem adequadas e necessárias;\n\nc) Assegurar a gestão do património do IVV situado na sua área de actuação;\n\nd) Efectuar a certificação de vinhos de mesa e de outros produtos vínicos até ao reconhecimento da respectiva entidade certificadora, dos VQPRD e vinhos regionais.\n\n4 - A zona de actuação e a respectiva sediação de cada divisão de fiscalização vitivinícola é definida por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do presidente do IVV.\n\n5 - Junto de cada Divisão de Fiscalização Vitivinícola I, II e III funciona um núcleo de apoio administrativo, coordenado por um funcionário da carreira administrativa, ao qual compete proceder à recepção, classificação, expedição, arquivo e expediente relativos às respectivas atribuições.\n\n6 - As divisões de fiscalização vitivinícola poderão ser organizadas em núcleos a definir pelo presidente do IVV.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01"
+  },
+  "51480075": {
+   "fragment_id": "39281775",
+   "type": 11,
+   "heading": "Artigo 25.º — Divisão de Auditoria dos Sistemas de Certificação",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 25.º — Divisão de Auditoria dos Sistemas de Certificação\n\nÀ Divisão de Auditoria dos Sistemas de Certificação compete:\n\na) Definir as metodologias e os critérios a utilizar na auditoria dos sistemas de controlo e certificação dos VQPRD e dos vinhos de mesa regionais adoptados pelas CVR;\n\nb) Facultar apoio técnico às CVR na elaboração dos respectivos procedimentos de controlo e certificação;\n\nc) Efectuar a auditoria dos sistemas de controlo e certificação praticados pelas CVR;\n\nd) Efectuar a avaliação dos regulamentos e dos meios de suporte técnico, humanos e materiais, dos concursos do vinho promovidos por organizações profissionais e interprofissionais e por instituições públicas ou privadas;\n\ne) Promover e organizar a realização de acções de formação destinadas aos agentes económicos, às organizações profissionais e interprofissionais do sector vitivinícola e aos funcionários do IVV.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480175": {
+   "fragment_id": "36147675",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "### Capítulo III — Funcionamento\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480275": {
+   "fragment_id": "37651375",
+   "type": 11,
+   "heading": "Artigo 26.º — Desconcentração e descentralização",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 26.º — Desconcentração e descentralização\n\n1 - Os serviços do IVV funcionam em estreita ligação com outros organismos oficiais com o objectivo de racionalizar as acções a desenvolver no âmbito das suas atribuições e competências, podendo essa articulação ser definida em protocolos com os organismos intervenientes.\n\n2 - O IVV desenvolve a prossecução dos seus objectivos num quadro de desconcentração de funções para as organizações profissionais e interprofissionais do sector vitivinícola, com excepção das que revistam a natureza de controlo, neste caso exercidas directamente pelo IVV.\n\n3 - Sem prejuízo do disposto no número anterior, a execução a nível regional das acções relativas à gestão do património vitícola é cometida às direcções regionais de agricultura, nos termos dos respectivos diplomas orgânicos.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480375": {
+   "fragment_id": "37651475",
+   "type": 11,
+   "heading": "Artigo 27.º — Funcionamento",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 27.º — Funcionamento\n\n1 - O funcionamento do IVV assenta na estrutura definida no presente diploma.\n\n2 - Nos casos em que, pela sua natureza específica ou intersectorial, não se mostre adequado cometer o respectivo estudo às unidades orgânicas do organismo, poderão ser constituídos grupos de trabalho, cujo mandato, composição e funcionamento serão estabelecidos por despacho do presidente.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480475": {
+   "fragment_id": "37651575",
+   "type": 11,
+   "heading": "Artigo 28.º — Acordos e participações",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 28.º — Acordos e participações\n\n1 - O IVV pode celebrar acordos com outras entidades, públicas ou privadas, nacionais ou estrangeiras, no domínio das suas atribuições.\n\n2 - O IVV pode, mediante autorização prévia do ministro da tutela, participar na constituição ou adquirir participações em sociedades ou associações cujo objecto se enquadre nas suas atribuições.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480575": {
+   "fragment_id": "37651675",
+   "type": 11,
+   "heading": "Artigo 29.º — Vendas e prestação de serviços",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 29.º — Vendas e prestação de serviços\n\nO IVV pode realizar trabalhos e prestar serviços que lhe sejam confiados por outras entidades, praticando preços constantes de tabelas devidamente aprovadas pelo presidente.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480675": {
+   "fragment_id": "36147775",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão financeira e patrimonial",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "### Capítulo IV — Gestão financeira e patrimonial\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480775": {
+   "fragment_id": "37651775",
+   "type": 11,
+   "heading": "Artigo 30.º — Gestão financeira",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 30.º — Gestão financeira\n\nNa prossecução dos seus objectivos, o IVV administra os recursos que lhe são afectos, de acordo com as regras de gestão, utilizando os seguintes instrumentos:\n\na) Planos de actividade e financeiros, anuais e plurianuais;\n\nb) Orçamento;\n\nc) Conta e relatório financeiro.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480875": {
+   "fragment_id": "37651875",
+   "type": 11,
+   "heading": "Artigo 31.º — Receitas",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 31.º — Receitas\n\n1 - Constituem receitas do IVV:\n\na) As dotações atribuídas no Orçamento do Estado;\n\nb) O produto das taxas cobradas sobre os vinhos e os outros produtos vínicos;\n\nc) O produto das taxas cobradas em resultado das acções decorrentes da aplicação das medidas relativas à gestão do potencial vitícola;\n\nd) O produto da venda de serviços;\n\ne) O rendimento de bens próprios e os provenientes da sua actividade ou utilização por terceiros;\n\nf) O produto das multas e coimas;\n\ng) O produto da venda de patentes de invenção, novas tecnologias, publicações, impressos e quaisquer bens próprios, móveis e imóveis, e ainda o produto da constituição de direito sobre eles;\n\nh) Os reembolsos dos empréstimos efectuados, bem como os respectivos juros e comissões;\n\ni) As subvenções, comparticipações, subsídios ou donativos concedidos por quaisquer entidades, nacionais ou estrangeiras;\n\nj) Os juros de capitais próprios;\n\nl) Quaisquer outras receitas que por lei, contrato ou qualquer outra forma lhe sejam atribuídas.\n\n2 - Ao IVV compete proceder à cobrança e arrecadação das taxas que constituíam receita da extinta Junta Nacional do Vinho e do extinto Instituto de Gestão e Estruturação Fundiária.\n\n3 - Os saldos apurados no final de cada gerência transitam para o ano seguinte, seja qual for a origem das receitas correspondentes.\n\n4 - As importâncias arrecadadas são movimentadas por meio de cheque ou transferência bancária, mediante assinatura de dois membros do conselho administrativo, um dos quais será obrigatoriamente o director de Serviços de Administração ou o seu substituto legal.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51480975": {
+   "fragment_id": "37651975",
+   "type": 11,
+   "heading": "Artigo 32.º — Despesas",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 32.º — Despesas\n\nConstituem despesas do IVV:\n\na) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições e competências que lhe estão confiadas;\n\nb) Os juros e as amortizações dos empréstimos que venha a contrair.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481075": {
+   "fragment_id": "37652075",
+   "type": 11,
+   "heading": "Artigo 33.º — Cobrança coerciva de dívidas",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 33.º — Cobrança coerciva de dívidas\n\n1 - A cobrança coerciva das dívidas ao IVV é feita pelo processo das execuções fiscais, nos termos consagrados no Código de Processo Tributário.\n\n2 - O processo terá por base certidão emitida pela Direcção de Serviços de Administração do IVV, da qual devem constar os elementos referidos no artigo 249.º do Código de Processo Tributário.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481175": {
+   "fragment_id": "37652175",
+   "type": 11,
+   "heading": "Artigo 34.º — Isenções",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 34.º — Isenções\n\nO IVV é isento de taxas, custas e emolumentos nos processos, contratos, actos notariais e registrais ou quaisquer outros em que intervenha.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481275": {
+   "fragment_id": "36147875",
+   "type": 1,
+   "heading": "Capítulo V — Património",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "### Capítulo V — Património\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481375": {
+   "fragment_id": "37652275",
+   "type": 11,
+   "heading": "Artigo 35.º — Património do Instituto da Vinha e do Vinho",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 35.º — Património do Instituto da Vinha e do Vinho\n\n1 - Constitui património do IVV todo o acervo de bens móveis e imóveis que, por força do disposto no artigo 10.º do Decreto-Lei n.º 304/86, de 22 de Setembro, foram transferidos para a sua titularidade, bem como os adquiridos posteriormente.\n\n2 - A actualização dos registos dos bens referidos no número anterior deve ser efectuada pelas respectivas conservatórias do registo predial competentes, mediante requerimento do IVV, em função de certidões sobre a situação dos bens passadas pelo presidente.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481475": {
+   "fragment_id": "36147975",
+   "type": 1,
+   "heading": "Capítulo VI — Pessoal",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "### Capítulo VI — Pessoal\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481575": {
+   "fragment_id": "37652375",
+   "type": 11,
+   "heading": "Artigo 36.º — Quadro de pessoal",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 36.º — Quadro de pessoal\n\n1 - O quadro de pessoal dirigente do IVV é o constante do mapa anexo ao presente diploma e do qual faz parte integrante.\n\n2 - O quadro de pessoal do IVV é aprovado por portaria dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas e do membro do Governo que detenha a seu cargo a função pública.\n\n3 - O pessoal do IVV rege-se pelo disposto nas leis gerais da função pública.\n\n4 - No exercício das suas funções, designadamente de controlo e fiscalização, os funcionários do IVV ou equiparados, devidamente credenciados, são considerados agentes de autoridade, devendo os agentes económicos colaborar e fornecer todos os elementos que lhe forem solicitados, os quais são confidenciais.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481675": {
+   "fragment_id": "37652475",
+   "type": 11,
+   "heading": "Artigo 37.º — Pessoal",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 37.º — Pessoal\n\n1 - A afectação do pessoal é feita nos termos da lei geral até à aprovação do quadro de pessoal referido no n.º 4 do artigo 16.º do Decreto-Lei n.º 74/96, de 18 de Junho, sem prejuízo do disposto no número seguinte.\n\n2 - O pessoal integrado no quadro do organismo poderá vir a ser integrado no novo quadro do IVV em função das necessidades do organismo reestruturado, dimensionando-se o novo quadro em função da adequação dos meios técnicos, humanos e financeiros do organismo aos fins por este prosseguidos, utilizando-se os instrumentos de mobilidade e medidas de descongestionamento aplicáveis, bem como outros que lhe venham a ser aplicáveis.\n\n3 - Os funcionários do anterior quadro do organismo que não forem integrados no novo quadro do IVV poderão ter, nomeadamente, um dos seguintes destinos:\n\na) Integração nos outros quadros de pessoal do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas em que se verifique a existência de vaga;\n\nb) Colocação em quaisquer outros serviços, através da utilização dos instrumentos de mobilidade previstos na lei.\n\n4 - Os funcionários que se encontram a prestar serviço no organismo em regime de requisição, destacamento ou comissão de serviço e que não ingressem no novo quadro regressarão aos seus lugares de origem, salvo se for renovada a situação.\n\n5 - Os funcionários do organismo que se encontram a prestar serviço em regime de requisição, destacamento ou comissão de serviço em outros serviços continuarão na mesma situação até ao termo normal do respectivo instrumento de mobilidade.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481775": {
+   "fragment_id": "36148075",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481875": {
+   "fragment_id": "37652575",
+   "type": 11,
+   "heading": "Artigo 38.º — Fundos sociais",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 38.º — Fundos sociais\n\n1 - São extintos os fundos sociais do organismo reestruturado, nomeadamente o designado «Fundo Seabra».\n\n2 - O saldo do Fundo referido no número anterior é transferido para o IVV, devendo ser aplicado para custear despesas de estruturas de apoio social existentes no organismo.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51481975": {
+   "fragment_id": "37652675",
+   "type": 11,
+   "heading": "Artigo 39.º — Revogações",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "###### Artigo 39.º — Revogações\n\nSão revogados o Decreto-Lei n.º 102/93, de 2 de Abril, e o Decreto Regulamentar n.º 41/93, de 26 de Novembro.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51482075": {
+   "fragment_id": "36148275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Carvalho Ferreira Vitorino - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 3 de Abril de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 10 de Abril de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  },
+  "51482175": {
+   "fragment_id": "36148175",
+   "type": 14,
+   "heading": "Anexo — Mapa a que se refere o n.º 1 do artigo 36.º",
+   "in_force_from": "2007-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+   ],
+   "markdown": "## Anexo — Mapa a que se refere o n.º 1 do artigo 36.º\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 46/2007 - Diário da República n.º 41/2007, Série I de 2007-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2007-518856), em vigor a partir de 2007-03-01"
+  }
+ }
+}

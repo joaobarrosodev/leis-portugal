@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:309006:por
+title: Decreto Legislativo Regional n.º 17/99/M
+short_title: null
+summary: Cria uma linha de crédito bonificado a favor dos municípios da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 17/99/M
+official_date: null
+publication_date: '1999-06-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 137/1999, Série I-A de 1999-06-15
+  number: '137'
+  series: I
+  supplement: null
+  pages: 3421 - 3423
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/06/137a00/34213423.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/17/1999/06/15/m/dre/pt/html
+  oj: null
+  dre: '309006'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/17-1999-309006
+  internal: pt:dre:309006:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1999-309006
+  metadata_url: https://data.dre.pt/eli/declegreg/17/1999/06/15/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1999-309006
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:39:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 92fdf915a6a15647a824bd869aba8c65ffbde454db7f5dc8f5b0bb492844f8ab
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- Crédito Bonificado
+- Definição de Competências
+- Desenvolvimento Regional
+- Finanças Locais
+- Financiamento
+- Investimento Municipal
+- JURO Bonificado
+- Madeira.região Autónoma
+- Projeto de Investimento
+- Secretaria Regional do Plano e da Coordenação
+relationships:
+- type: amended_by
+  target: pt:dre:220114:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: repealed_by
+  target: pt:dre:220114:por
+  label: "Revogado, continuando no entanto a reger-se pelo regime dele constante, os empréstimos contraídos no âmbito das\
+    \ linhas de crédito criadas pelo presente diploma, pelo DLR.6/2005/M.05.05.2005.AL-RAM, DR.IS-A [105] de 01.06.2005, a\
+    \ partir da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2005-220114
+  date: '2005-05-05'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:39:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 17/99/M
+
+Cria uma linha de crédito bonificado a favor dos municípios da Região Autónoma da Madeira
+
+Devido em grande medida às suas vastas competências, a acção dos municípios é hoje em dia fundamental para o bem-estar das populações.
+
+No entanto, os meios financeiros disponíveis nem sempre são suficientes para o bom desempenho das suas competências, que vão desde a construção e manutenção da rede viária, de espaços verdes e de infra-estruturas de saneamento básico até ao fornecimento de água, passando pelos serviços de recolha de lixo, pela prevenção e combate de incêndios e pela organização e promoção de actividades culturais, desportivas e recreativas.
+
+Embora essa escassez de meios financeiros seja comum a quase todos os municípios do País, é, ainda assim, mais acentuada nos municípios das Regiões Autónomas.
+
+De facto, os factores negativos decorrentes da situação ultraperiférica e de insularidade destes municípios, agravada nalguns casos pela própria orografia, como é o caso da maior parte dos municípios da Região, e pela dupla insularidade, como é o caso do município do Porto Santo, fazem com que os meios financeiros disponíveis sejam ainda mais escassos para fazer face, de forma satisfatória, às vastas competências que lhes estão atribuídas.
+
+Por forma a compensar esta escassez de receitas próprias, os municípios da Região Autónoma da Madeira têm beneficiado de diversos apoios do orçamento regional para a construção de infra-estruturas, para o pagamento do serviço da dívida de empréstimos contraídos e para o saneamento financeiro, estes últimos sob a forma de empréstimos reembolsáveis.
+
+Não obstante a atribuição destes apoios, os recursos financeiros colocados à disposição dos municípios da Região são ainda insuficientes para a concretização, de forma satisfatória, de todas as suas competências.
+
+Esta situação é tanto mais grave, porquanto devido ao overbooking do Programa Operacional Plurifundos da Região Autónoma da Madeira (POPRAM II), alguns dos projectos inscritos nos planos de investimento municipais, que em princípio seriam financiados através daquele Programa, estão em risco de não se concretizar por falta de comparticipação.
+
+Assim, por forma a atenuar esta escassez de recursos financeiros, é criada, através do presente diploma, uma linha de crédito bonificado a favor dos municípios da Região Autónoma da Madeira, exclusivamente destinada ao financiamento dos projectos que estejam inscritos nos planos de investimento municipais.
+
+A criação deste instrumento tem enquadramento legal nos termos do n.º 7 do artigo 7.º da nova Lei das Finanças Locais - [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto -, a qual atribui poderes às Assembleias Legislativas Regionais para a definição de formas alternativas de cooperação técnica e financeira entre a administração regional e a administração local.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira decreta, nos termos do n.º 7 do artigo 7.º da [Lei n.º 42/98](https://diariodarepublica.pt/dr/detalhe/lei/42-1998-435422), de 6 de Agosto, da alínea c) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É criada uma linha de crédito bonificado a favor dos municípios da Região Autónoma da Madeira para a disponibilização de meios financeiros destinados à execução dos projectos inseridos nos planos de investimento municipais que não tenham assegurada outra forma de financiamento.
+
+###### Artigo 2.º — Montante
+
+1 - A linha de crédito bonificado criada por este diploma não poderá ultrapassar o montante global de 5 milhões de contos.
+
+2 - O crédito a que se refere o número anterior será concedido sob a forma de empréstimos reembolsáveis e disponibilizado pelas instituições de crédito que para o efeito venham a celebrar protocolos com a Região Autónoma da Madeira, através da Secretaria Regional do Plano e da Coordenação.
+
+3 - A minuta dos protocolos a que se refere o número anterior será aprovada mediante resolução do Conselho do Governo Regional, nela devendo constar a taxa de juro contratual máxima e as demais condições gerais dos empréstimos.
+
+4 - O montante dos empréstimos a conceder a cada município será definido pela Secretaria Regional do Plano e da Coordenação, depois de analisadas todas as candidaturas apresentadas.
+
+###### Artigo 3.º — Acesso
+
+1 - Têm acesso à linha de crédito todos os municípios da Região Autónoma da Madeira que apresentem a candidatura no prazo fixado no n.º 1 do artigo 4.º
+
+2 - O acesso à linha de crédito por parte dos municípios será concretizado através da celebração de um acordo de cooperação com a Região Autónoma da Madeira, através da Secretaria Regional do Plano e da Coordenação, cuja minuta será aprovada mediante resolução do Conselho do Governo Regional, nela devendo constar, para além dos direitos e obrigações das partes, o montante dos empréstimos a contrair, os projectos a que se destinam e as penalizações para os municípios em caso de incumprimento.
+
+###### Artigo 4.º — Apresentação das candidaturas
+
+1 - As candidaturas à linha de crédito deverão ser entregues até 30 dias após a data da publicação deste diploma.
+
+2 - Do processo de candidatura deverá constar a listagem dos projectos de investimento a financiar, por ordem prioritária, as outras fontes de financiamento desses projectos, quando existam, a programação financeira dos mesmos e o valor total dos empréstimos a contrair.
+
+###### Artigo 5.º — Condições dos empréstimos
+
+1 - O prazo dos empréstimos a contrair no âmbito da linha de crédito criada pelo presente diploma não poderá exceder 15 anos, contados da data da primeira utilização do capital, admitindo-se um período de carência até 5 anos.
+
+2 - O período de utilização do capital não poderá exceder dois anos, contados da data da primeira utilização.
+
+3 - Os juros serão contados sobre o capital em dívida, à taxa de juro contratual, e calculados e pagos trimestral e postecipadamente pelo método das taxas equivalentes. Durante o período de utilização, os juros serão contados dia a dia sobre o capital efectivamente utilizado.
+
+4 - O reembolso dos empréstimos será efectuado em prestações trimestrais, iguais e sucessivas, de capital e juros, determinadas pelo método das taxas equivalentes.
+
+###### Artigo 6.º — Bonificação
+
+Aos empréstimos contraídos no âmbito deste diploma será atribuída uma bonificação, a cargo da Região Autónoma da Madeira, no montante de 70% do valor dos juros a pagar em cada data de vencimento.
+
+###### Artigo 7.º — Cessação do processamento da bonificação
+
+1 - O processamento da bonificação prevista no artigo anterior cessa nas seguintes situações:
+
+a) Incumprimento por parte dos beneficiários da linha de crédito das obrigações contratuais assumidas;
+
+b) Prestação de falsas declarações na instrução do processo de candidatura à linha de crédito;
+
+c) Amortização antecipada do capital em dívida.
+
+2 - Quando se verifique a situação prevista na alínea a) do número anterior, o beneficiário da linha de crédito em questão fica obrigado a restituir as bonificações que eventualmente tenham sido processadas posteriormente ao período de pagamento de juros imediatamente anterior ao do incumprimento.
+
+3 - Quando se verifique a situação prevista na alínea b) do n.º 1, o beneficiário da linha de crédito em questão fica obrigado a restituir todas as bonificações que tenham sido processadas até à data em que a irregularidade foi detectada.
+
+###### Artigo 8.º — Competências
+
+1 - Compete à Secretaria Regional do Plano e da Coordenação:
+
+a) A execução de todas as medidas e procedimentos necessários à correcta execução do disposto neste diploma;
+
+b) A análise e aprovação do processo de candidatura, bem como do respectivo contrato de empréstimo;
+
+c) O processamento e o pagamento das bonificações de juros previstas neste diploma.
+
+2 - A Secretaria Regional do Plano e da Coordenação poderá solicitar às instituições de crédito e aos municípios beneficiários da linha de crédito todos os esclarecimentos necessários à execução das competências que lhe são atribuídas.
+
+###### Artigo 9.º — Cobertura orçamental
+
+As bonificações previstas neste diploma são suportadas pelo orçamento da Região Autónoma da Madeira, através da Secretaria Regional do Plano e da Coordenação.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 5 de Maio de 1999.
+
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 24 de Maio de 1999.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

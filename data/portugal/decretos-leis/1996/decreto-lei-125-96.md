@@ -1,0 +1,229 @@
+---
+schema_version: '1.0'
+id: pt:dre:405679:por
+title: Decreto-Lei n.º 125/96
+short_title: null
+summary: Altera diversas disposições do Código de Processo Tributário, revendo as condições materiais e processuais da dação
+  de bens em pagamento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 125/96
+official_date: null
+publication_date: '1996-08-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 185/1996, Série I-A de 1996-08-10
+  number: '185'
+  series: I
+  supplement: null
+  pages: 2474 - 2476
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/185a00/24742476.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1996-11-30'
+version_history:
+  file: decreto-lei-125-96.versoes.json
+  count: 2
+  source_lastmod: '2025-11-04'
+  versions:
+  - date: '1996-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-11-30'
+    amending: pt:dre:248864:por
+    amending_title: Declaração de Rectificação n.º 16-C/96
+    changes:
+    - Retifica Artigo 1.º
+    - Retifica Artigo 2.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/125/1996/p/cons/19961130/pt/html
+  oj: null
+  dre: '405679'
+  dre_path: /dr/detalhe/decreto-lei/125-1996-405679
+  internal: pt:dre:405679:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1996-405679
+  metadata_url: https://data.dre.pt/eli/dec-lei/125/1996/p/cons/19961130/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-944409938
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-944409938
+  retrieved_at: '2026-10-22T13:35:59Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-11-04T00:00:00Z'
+integrity:
+  source_sha256: 210858bf83f307cea711087f03ebe86bdd4636d85b404381abe0505413e26aff
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:35:59Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-125-96.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código de Processo Tributário
+- Dação em Cumprimento
+- Execução Fiscal
+- Direcção Geral das Contribuições e Impostos
+relationships:
+- type: amended_by
+  target: pt:dre:248864:por
+  label: Retifica Artigo 1.º; Retifica Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-c-1996-248864
+  date: '1996-11-30'
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:35:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 125/96
+
+Decreto-Lei n.º 125/96
+
+de 10 de Agosto
+
+O pagamento das dívidas fiscais efectua-se, em regra geral, em numerário. O Decreto-Lei n.º 52/84, de 15 de Fevereiro, admitiu, no entanto, a dação em pagamento como causa da extinção da obrigação tributária, embora a título excepcional, já que a dação depende de efectivação em processo de execução fiscal e de os bens dados em pagamento não terem valor superior ao da dívida exequenda e acrescido. A referida disciplina foi transposta para o actual artigo 284.º do Código de Processo Tributário.
+
+Justifica-se, no entanto, em caso de interesse público relevante ou quando se torne necessário assegurar a continuidade da actividade empresarial, o alargamento e flexibilização dos pressupostos da dação em pagamento, bem como dos poderes de disposição dos bens dados em pagamento, aspectos que ora se disciplinam. Por outro lado, o presente decreto-lei afasta também a regra geral da prioridade da penhora dos bens móveis, nos casos em que a sua aplicação possa comprometer a cobrança da dívida exequenda, designadamente por esses bens serem de difícil guarda, conservação ou alienação.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 53.º da Lei n.º 10-B/96, de 23 de Março, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+São aditados ao Código de Processo Tributário os seguintes artigos:
+
+«Artigo 109.º-A
+
+Dação em pagamento antes da execução fiscal
+
+1 - A dação em pagamento antes da instauração do processo de execução fiscal só é admissível no âmbito de processo conducente à celebração de acordo de recuperação de créditos do Estado.
+
+2 - O requerimento da dação em pagamento pode ser apresentado a partir do início do prazo do pagamento voluntário e é dirigido ao Ministro das Finanças, que decidirá, ouvida a Direcção-Geral das Contribuições e Impostos, designadamente sobre o montante da dívida e acrescido e os encargos que incidam sobre os bens.
+
+3 - À dação em pagamento efectuada nos termos do presente artigo aplicam-se os requisitos materiais ou processuais da dação em pagamento na execução fiscal, com as necessárias adaptações.
+
+4 - Tendo sido já instaurado processo de execução fiscal, a dação em pagamento efectua-se por auto no referido processo; caso contrário, efectua-se por auto no processo administrativo previsto no presente artigo.
+
+5 - O pedido de dação em pagamento não suspende a cobrança da obrigação fiscal.
+
+6 - As despesas de avaliação entram em regra de custas do processo administrativo de dação em pagamento, salvo se já tiver sido instaurado processo de execução fiscal, caso em que serão consideradas custas deste processo.
+
+Artigo 284.º-A
+
+Bens dados em pagamento
+
+1 - No despacho que autorizar a dação pode o Ministro das Finanças determinar aos serviços sob a sua dependência a venda por arrematação em hasta pública, ou por proposta em carta fechada, dos bens dados em pagamento, em prazo a fixar.
+
+2 - Em caso de urgência na venda dos bens, designadamente pelo seu risco de desvalorização, ou de estes serem de valor reduzido, ou quando seja essa a solução mais adequada à continuidade da utilização produtiva dos bens, pode o Ministro das Finanças determinar que a venda seja efectuada por negociação particular.
+
+3 - Pode também o Ministro das Finanças autorizar os serviços referidos no n.º 1 a locarem ou a onerarem, nos termos previstos na lei, os bens dados em pagamento.
+
+4 - O produto das vendas e as receitas referidas nos números anteriores são contabilizados como receitas fiscais, de acordo com a proveniência das dívidas ou das entidades credoras das obrigações extintas com a dação em pagamento, mesmo quando excedam o montante destas.
+
+5 - Os direitos emergentes da locação ou da oneração referidas no n.º 3 só podem ser penhorados em processo de execução fiscal.»
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-C/96 - Diário da República n.º 278/1996, 1º Suplemento, Série I-A de 1996-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-c-1996-248864), em vigor a partir de 1996-11-30
+
+###### Artigo 2.º
+
+Os artigos 284.º e 301.º do Código de Processo Tributário passam a ter a seguinte redacção:
+
+«Artigo 284.º
+
+[...]
+
+1 - Nos processos de execução fiscal, o executado ou terceiro podem, no prazo referido no n.º 3 do artigo 273.º, requerer ao Ministro das Finanças a extinção da dívida exequenda e acrescido, com a dação em pagamento de bens móveis ou imóveis, nas condições seguintes:
+
+a) Descrição pormenorizada dos bens dados em pagamento;
+
+b) Os bens dados em pagamento não terem valor superior à dívida exequenda e acrescido, salvo o caso de se demonstrar a possibilidade de imediata utilização dos referidos bens para fins de interesse público ou social, ou o caso de a dação se efectuar no âmbito do processo conducente à celebração de acordo de recuperação de créditos do Estado.
+
+2 - Apresentado o requerimento, o chefe da repartição de finanças enviará, no prazo de 10 dias, aos serviços centrais da Direcção-Geral das Contribuições e Impostos cópia do requerimento, bem como o resumo do processo e dos encargos que incidam sobre os bens, com conhecimento, no mesmo prazo, à direcção distrital de finanças.
+
+3 - Recebido o processo, a Direcção-Geral das Contribuições e Impostos ordenará a avaliação dos bens oferecidos em pagamento, através de uma comissão constituída pelo chefe de repartição de finanças, que presidirá, e dois louvados designados pelo director-geral das Contribuições e Impostos, que serão, no caso de bens imóveis, peritos avaliadores das listas distritais e, no caso de bens móveis, pessoas com especialização técnica adequada, devendo a comissão efectuar a avaliação no prazo máximo de 30 dias após ser determinada a sua realização.
+
+4 - Em situações de especial complexidade técnica, a Direcção-Geral das Contribuições e Impostos solicitará a avaliação dos bens, conforme os casos, às Direcções-Gerais do Património do Estado ou do Tesouro, ao Instituto de Gestão do Crédito Público ou a entidade especializada designada por despacho do Ministro das Finanças.
+
+5 - A avaliação é efectuada pelo valor de mercado dos bens, tendo em conta a maior ou menor possibilidade da sua realização.
+
+6 - As despesas efectuadas com as avaliações referidas nos n.os 3 e 4 entram em regra de custas do processo de execução fiscal, devendo o devedor efectuar o respectivo preparo, no prazo de cinco dias a contar da data da notificação, sob pena de não prosseguimento do pedido.
+
+7 - Reunidos os elementos referidos nos números anteriores, o processo será remetido, para despacho, ao Ministro das Finanças, que poderá, antes de decidir, determinar a junção de outros elementos no prazo de 10 dias, sob pena de o pedido não ter seguimento, salvo se o atraso não for imputável ao contribuinte.
+
+8 - O despacho que autorizar a dação em pagamento definirá os termos de entrega dos bens oferecidos, podendo seleccionar, entre os propostos, os bens a entregar em cumprimento da dívida exequenda e acrescido.
+
+9 - Em caso de aceitação da dação em pagamento de bens de valor superior à dívida exequenda e acrescido, o despacho que a autoriza constitui, a favor do devedor, um crédito no montante desse excesso, a utilizar em futuros pagamentos de impostos ou outras prestações tributárias, na aquisição de bens ou de serviços no prazo de cinco anos ou no pagamento de rendas ao Estado.
+
+10 - O crédito previsto no número anterior é intransmissível e impenhorável e a sua utilização depende da prévia comunicação, no prazo de 30 dias, à entidade a quem deva ser efectuado o pagamento.
+
+11 - Em caso de cessação de actividade, o devedor pode requerer à Direcção-Geral das Contribuições e Impostos, nos 60 dias posteriores, o pagamento em numerário do montante referido no n.º 9, que só lhe será concedido se fizer prova da inexistência de dívidas à Fazenda Nacional.
+
+12 - A dação em pagamento operar-se-á através de auto lavrado no processo.
+
+13 - Na dação em pagamento de bens imóveis lavrar-se-á um auto por cada prédio.
+
+14 - O auto referido nos números anteriores valerá, para todos os efeitos, como título de transmissão.
+
+15 - O executado poderá desistir da dação em pagamentos até cinco dias após a notificação do despacho ministerial.
+
+16 - Autorizada a dação em pagamento, seguir-se-ão, na parte aplicável, as regras previstas nos n.os 7 e 8 do artigo 326.º deste Código.
+
+17 - O terceiro a que se refere o n.º 1 só ficará sub-rogado nos direitos da Fazenda Pública nos termos e condições dos artigos 111.º e 112.º deste Código.
+
+Artigo 301.º
+
+[...]
+
+1 - ...
+
+2 - O disposto no número anterior não se aplica quando os bens móveis se revelarem de difícil guarda, conservação ou alienação.»
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-C/96 - Diário da República n.º 278/1996, 1º Suplemento, Série I-A de 1996-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-c-1996-248864), em vigor a partir de 1996-11-30
+
+Visto e aprovado em Conselho de Ministros de 25 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 1 de Agosto de 1996.
+
+Publique-se.
+
+O Presidente da República, interino, ANTÓNIO DE ALMEIDA SANTOS.
+
+Referendado em 2 de Agosto de 1996.
+
+Pelo Primeiro-Ministro, António Manuel de Carvalho Ferreira Vitorino, Ministro da Presidência.

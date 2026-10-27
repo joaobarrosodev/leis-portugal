@@ -1,0 +1,522 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641143:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-205641705",
+ "dre_path": "/dr/detalhe/lei/55-2007-641143",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "205641616",
+    "205641617",
+    "205641618",
+    "205641619",
+    "205641620",
+    "205641621",
+    "205641622",
+    "205641623",
+    "205641624",
+    "205641625"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:529450:por",
+     "title": "Lei n.º 67-A/2007",
+     "published": "2007-12-31",
+     "dre_path": "/dr/detalhe/lei/67-a-2007-529450"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "205641616",
+    "205641617",
+    "206037567",
+    "205641619",
+    "205641620",
+    "205641621",
+    "205641622",
+    "205641623",
+    "205641624",
+    "205641625",
+    "205641626"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243747:por",
+     "title": "Lei n.º 64-A/2008",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/lei/64-a-2008-243747"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "205641616",
+    "205641617",
+    "206037567",
+    "205641619",
+    "205641620",
+    "206037568",
+    "205641622",
+    "205641623",
+    "205641624",
+    "205641625",
+    "205641626"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243769:por",
+     "title": "Lei n.º 64-B/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "205641616",
+    "205641617",
+    "206037567",
+    "205641619",
+    "206037569",
+    "206037568",
+    "205641622",
+    "205641623",
+    "205641624",
+    "205641625",
+    "205641626"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "205641616",
+    "205641617",
+    "206037567",
+    "205641619",
+    "206037570",
+    "206037568",
+    "205641622",
+    "205641623",
+    "205641624",
+    "205641625",
+    "205641626"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164404:por",
+     "title": "Lei n.º 83-C/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/lei/83-c-2013-164404"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "205641616",
+    "205641617",
+    "206037567",
+    "205641619",
+    "206037571",
+    "206037568",
+    "205641622",
+    "205641623",
+    "205641624",
+    "205641625",
+    "205641626"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "205641616",
+    "205641617",
+    "206037567",
+    "205641619",
+    "206037572",
+    "206037568",
+    "205641622",
+    "205641623",
+    "205641624",
+    "205641625",
+    "205641626"
+   ]
+  },
+  {
+   "date": "2016-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73958532:por",
+     "title": "Lei n.º 7-A/2016",
+     "published": "2016-03-30",
+     "dre_path": "/dr/detalhe/lei/7-a-2016-73958532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "205641616",
+    "205641617",
+    "206037567",
+    "205641619",
+    "206037572",
+    "206037568",
+    "206037573",
+    "205641623",
+    "205641624",
+    "205641625",
+    "205641626"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205557185:por",
+     "title": "Lei n.º 24-E/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/lei/24-e-2022-205557185"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "205641616",
+    "206037574",
+    "206055575",
+    "206055576",
+    "206055577",
+    "206055579",
+    "206055580",
+    "206055581",
+    "206055578",
+    "206055582",
+    "205641626"
+   ]
+  }
+ ],
+ "fragments": {
+  "205641616": {
+   "fragment_id": "205641706",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 55/2007\n\nde 31 de Agosto\n\nRegula o financiamento da rede rodoviária nacional a cargo da EP - Estradas de Portugal, E. P. E.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "205641617": {
+   "fragment_id": "205641707",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei cria a contribuição de serviço rodoviário, que visa financiar a rede rodoviária nacional a cargo da EP - Estradas de Portugal, E. P. E., e determina as condições da sua aplicação."
+  },
+  "205641618": {
+   "fragment_id": "205641708",
+   "type": 11,
+   "heading": "Artigo 2.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Financiamento\n\nO financiamento da rede rodoviária nacional a cargo da EP - Estradas de Portugal, E. P. E., tendo em conta o disposto no Plano Rodoviário Nacional, é assegurado pelos respectivos utilizadores e, subsidiariamente, pelo Estado, nos termos da lei e do contrato de concessão aplicável."
+  },
+  "205641619": {
+   "fragment_id": "205641709",
+   "type": 11,
+   "heading": "Artigo 3.º — Contribuição de serviço rodoviário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contribuição de serviço rodoviário\n\n1 - A contribuição de serviço rodoviário constitui a contrapartida pela utilização da rede rodoviária nacional, tal como esta é verificada pelo consumo dos combustíveis.\n\n2 - A contribuição de serviço rodoviário é estabelecida tendo em atenção o disposto no número anterior e constitui uma fonte de financiamento da rede rodoviária nacional a cargo da EP - Estradas de Portugal, E. P. E., no que respeita à respectiva concepção, projecto, construção, conservação, exploração, requalificação e alargamento.\n\n3 - A exigência da contribuição de serviço rodoviário não prejudica a eventual aplicação de portagens em vias específicas ou o recurso pela EP - Estradas de Portugal, E. P. E., a outras formas de financiamento."
+  },
+  "205641620": {
+   "fragment_id": "205641710",
+   "type": 11,
+   "heading": "Artigo 4.º — Incidência e valor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Incidência e valor\n\n1 - A contribuição de serviço rodoviário incide sobre a gasolina e o gasóleo rodoviário sujeitos ao imposto sobre os produtos petrolíferos e energéticos (ISP) e dele não isentos.\n\n2 - O valor da contribuição de serviço rodoviário é de (euro) 64/1000 l para a gasolina e de (euro) 86/1000 l para o gasóleo rodoviário.\n\n3 - A revisão ou actualização do valor da contribuição de serviço rodoviário é precedida de parecer do InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., a emitir nos termos da respectiva lei orgânica."
+  },
+  "205641621": {
+   "fragment_id": "205641711",
+   "type": 11,
+   "heading": "Artigo 5.º — Liquidação e cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Liquidação e cobrança\n\n1 - A contribuição de serviço rodoviário é devida pelos sujeitos passivos do imposto sobre os produtos petrolíferos e energéticos, sendo aplicável à sua liquidação, cobrança e pagamento o disposto no Código dos Impostos Especiais de Consumo, na lei geral tributária e no Código de Procedimento e Processo Tributário, com as devidas adaptações.\n\n2 - Os encargos de liquidação e cobrança incorridos pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo são compensados através da retenção de uma percentagem de 1  % do produto da contribuição de serviço rodoviário."
+  },
+  "205641622": {
+   "fragment_id": "205641712",
+   "type": 11,
+   "heading": "Artigo 6.º — Titularidade da receita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Titularidade da receita\n\nSem prejuízo do disposto no artigo anterior, o produto da contribuição de serviço rodoviário constitui receita própria da EP - Estradas de Portugal, E. P. E."
+  },
+  "205641623": {
+   "fragment_id": "205641713",
+   "type": 11,
+   "heading": "Artigo 7.º — Fixação das taxas do ISP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fixação das taxas do ISP\n\nAs taxas do ISP são estabelecidas por portaria conjunta nos termos do Código dos Impostos Especiais de Consumo, por forma a garantir a neutralidade fiscal e o não agravamento do preço de venda dos combustíveis em consequência da criação da contribuição de serviço rodoviário."
+  },
+  "205641624": {
+   "fragment_id": "205641714",
+   "type": 11,
+   "heading": "Artigo 8.º — Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Concessão\n\nA actividade de concepção, projecto, construção, conservação, exploração, requalificação e alargamento da rede rodoviária nacional é atribuída à EP - Estradas de Portugal, E. P. E., em regime de concessão, nos termos a definir por decreto-lei."
+  },
+  "205641625": {
+   "fragment_id": "205641715",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\n1 - A presente lei entra em vigor na data de entrada em vigor do decreto-lei referido no artigo anterior.\n\n2 - A portaria referida no artigo 7.º produz efeitos à data de entrada em vigor da presente lei."
+  },
+  "206037567": {
+   "fragment_id": "205641708",
+   "type": 11,
+   "heading": "Artigo 2.º — Financiamento",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 89.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Financiamento\n\n1 - O financiamento da rede rodoviária nacional a cargo da EP - Estradas de Portugal, E. P. E., tendo em conta o disposto no Plano Rodoviário Nacional, é assegurado pelos respectivos utilizadores e, subsidiariamente, pelo Estado, nos termos da lei e do contrato de concessão aplicável.\n\n2 - O disposto na presente lei não é aplicável nas Regiões Autónomas dos Açores e da Madeira.\n\n> Alterado pelo/a Artigo 89.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "205641626": {
+   "fragment_id": "205641716",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 20 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 21 de Agosto de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "206037568": {
+   "fragment_id": "205641711",
+   "type": 11,
+   "heading": "Artigo 5.º — Liquidação e cobrança",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 153.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Liquidação e cobrança\n\n1 - A contribuição de serviço rodoviário é devida pelos sujeitos passivos do imposto sobre os produtos petrolíferos e energéticos, sendo aplicável à sua liquidação, cobrança e pagamento o disposto no Código dos Impostos Especiais de Consumo, na lei geral tributária e no Código de Procedimento e Processo Tributário, com as devidas adaptações.\n\n2 - Os encargos de liquidação e cobrança incorridos pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo são compensados através da retenção de uma percentagem de 2 % do produto da contribuição de serviço rodoviário.\n\n> Alterado pelo/a Artigo 153.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "206037569": {
+   "fragment_id": "205641710",
+   "type": 11,
+   "heading": "Artigo 4.º — Incidência e valor",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Incidência e valor\n\n1 - A contribuição de serviço rodoviário incide sobre a gasolina e o gasóleo rodoviário sujeitos ao imposto sobre os produtos petrolíferos e energéticos (ISP) e dele não isentos.\n\n2 - O valor da contribuição de serviço rodoviário é de (euro) 65, 47/1000 l para a gasolina e de (euro) 87,98/1000 l para o gasóleo rodoviário.\n\n3 - A revisão ou actualização do valor da contribuição de serviço rodoviário é precedida de parecer do InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., a emitir nos termos da respectiva lei orgânica.\n\n> Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "206037570": {
+   "fragment_id": "205641710",
+   "type": 11,
+   "heading": "Artigo 4.º — Incidência e valor",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 211.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Incidência e valor\n\n1 - A contribuição de serviço rodoviário incide sobre a gasolina e o gasóleo rodoviário sujeitos ao imposto sobre os produtos petrolíferos e energéticos (ISP) e dele não isentos.\n\n2 - O valor da contribuição de serviço rodoviário é de (euro) 66,32/1000 l para a gasolina e de (euro) 89,12/1000 l para o gasóleo rodoviário.\n\n3 - A revisão ou actualização do valor da contribuição de serviço rodoviário é precedida de parecer do InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., a emitir nos termos da respectiva lei orgânica.\n\n> Alterado pelo/a Artigo 211.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "206037571": {
+   "fragment_id": "205641710",
+   "type": 11,
+   "heading": "Artigo 4.º — Incidência e valor",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 197.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 211.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Incidência e valor\n\n1 - A contribuição de serviço rodoviário incide sobre a gasolina, o gasóleo rodoviário e o GPL auto, sujeitos ao imposto sobre os produtos petrolíferos e energéticos (ISP) e deles não isentos.\n\n2 - O valor da contribuição de serviço rodoviário é de (euro) 67/1000 l para a gasolina, de (euro) 91/1000 l para o gasóleo rodoviário e de (euro) 103/1000 kg para o GPL auto.\n\n3 - A revisão ou actualização do valor da contribuição de serviço rodoviário é precedida de parecer do InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., a emitir nos termos da respectiva lei orgânica.\n\n> Alterado pelo/a Artigo 197.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 211.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "206037572": {
+   "fragment_id": "205641710",
+   "type": 11,
+   "heading": "Artigo 4.º — Incidência e valor",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 169.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 197.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 211.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Incidência e valor\n\n1 - A contribuição de serviço rodoviário incide sobre a gasolina, o gasóleo rodoviário e o GPL auto, sujeitos ao imposto sobre os produtos petrolíferos e energéticos (ISP) e deles não isentos.\n\n2 - O valor da contribuição de serviço rodoviário é de (euro) 87/1000 l para a gasolina, de (euro) 111/1000 l para o gasóleo rodoviário e de (euro) 123/1000 kg para o GPL auto.\n\n3 - A revisão ou actualização do valor da contribuição de serviço rodoviário é precedida de parecer do InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., a emitir nos termos da respectiva lei orgânica.\n\n> Alterado pelo/a Artigo 169.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 197.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 211.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "206037573": {
+   "fragment_id": "205641712",
+   "type": 11,
+   "heading": "Artigo 6.º — Titularidade da receita",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 204.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 6.º — Titularidade da receita\n\nSem prejuízo do disposto no artigo anterior, o produto da contribuição de serviço rodoviário é transferido do orçamento do subsector Estado para a Infraestruturas de Portugal, S. A., constituindo sua receita própria.\n\n> Alterado pelo/a Artigo 204.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "206037574": {
+   "fragment_id": "205641707",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei consigna parcialmente a receita do imposto sobre os produtos petrolíferos e energéticos ao serviço rodoviário, tendo em vista financiar a rede rodoviária nacional a cargo da Infraestruturas de Portugal, S. A. (IP, S. A.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+  },
+  "206055575": {
+   "fragment_id": "205641708",
+   "type": 11,
+   "heading": "Artigo 2.º — Financiamento",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 89.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Financiamento\n\n1 - O financiamento da rede rodoviária nacional a cargo da IP, S. A., tendo em conta o disposto no Plano Rodoviário Nacional, é assegurado pelos respetivos utilizadores e, subsidiariamente, pelo Estado, nos termos da lei e do contrato de concessão aplicável.\n\n2 - O disposto na presente lei não é aplicável nas Regiões Autónomas dos Açores e da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 89.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "206055576": {
+   "fragment_id": "205641709",
+   "type": 11,
+   "heading": "Artigo 3.º — Consignação de serviço rodoviário",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Consignação de serviço rodoviário\n\n1 - Parte da receita do imposto sobre os produtos petrolíferos e energéticos é transferida do orçamento do subsetor Estado para a IP, S. A., constituindo receita própria desta.\n\n2 - A receita de imposto sobre os produtos petrolíferos e energéticos consignada nos termos do número anterior configura a contrapartida pela utilização da rede rodoviária nacional, constituindo uma fonte de financiamento da rede rodoviária nacional a cargo da IP, S. A., no que respeita à respetiva conceção, projeto, construção, conservação, exploração, requalificação e alargamento.\n\n3 - A consignação parcial da receita de imposto sobre os produtos petrolíferos e energéticos ao serviço rodoviário não prejudica a eventual aplicação de portagens em vias específicas ou o recurso pela IP, S. A., a outras formas de financiamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+  },
+  "206055577": {
+   "fragment_id": "205641710",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante da consignação",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 169.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 197.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 211.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Montante da consignação\n\n1 - O montante a consignar ao serviço rodoviário corresponde a parte da receita efetiva de imposto sobre os produtos petrolíferos e energéticos cobrado sobre a gasolina, o gasóleo rodoviário e o gás de petróleo liquefeito (GPL auto) em território continental.\n\n2 - A parte da receita de imposto sobre os produtos petrolíferos e energéticos a consignar ao serviço rodoviário é de 87 (euro)/1000 l da receita relativa à gasolina, de 111 (euro)/1000 l da receita relativa ao gasóleo rodoviário e de 123 (euro)/1000 kg da receita relativa ao GPL auto, montantes que integram os valores das taxas unitárias fixados nos termos do n.º 1 do artigo 92.º do Código dos Impostos Especiais de Consumo, aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 169.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 197.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 211.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 136.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "206055579": {
+   "fragment_id": "205641711",
+   "type": 11,
+   "heading": "Artigo 5.º — Liquidação e cobrança",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 153.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Liquidação e cobrança\n\n1 - A contribuição de serviço rodoviário é devida pelos sujeitos passivos do imposto sobre os produtos petrolíferos e energéticos, sendo aplicável à sua liquidação, cobrança e pagamento o disposto no Código dos Impostos Especiais de Consumo, na lei geral tributária e no Código de Procedimento e Processo Tributário, com as devidas adaptações.\n\n2 - Os encargos de liquidação e cobrança incorridos pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo são compensados através da retenção de uma percentagem de 2 % do produto da contribuição de serviço rodoviário.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 153.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "206055580": {
+   "fragment_id": "205641712",
+   "type": 11,
+   "heading": "Artigo 6.º — Titularidade da receita",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 204.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+   ],
+   "markdown": "###### Artigo 6.º — Titularidade da receita\n\nSem prejuízo do disposto no artigo anterior, o produto da contribuição de serviço rodoviário é transferido do orçamento do subsector Estado para a Infraestruturas de Portugal, S. A., constituindo sua receita própria.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 204.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31"
+  },
+  "206055581": {
+   "fragment_id": "205641713",
+   "type": 11,
+   "heading": "Artigo 7.º — Fixação das taxas do ISP",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Fixação das taxas do ISP\n\nAs taxas do ISP são estabelecidas por portaria conjunta nos termos do Código dos Impostos Especiais de Consumo, por forma a garantir a neutralidade fiscal e o não agravamento do preço de venda dos combustíveis em consequência da criação da contribuição de serviço rodoviário.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+  },
+  "206055578": {
+   "fragment_id": "205641714",
+   "type": 11,
+   "heading": "Artigo 8.º — Concessão",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Concessão\n\nA atividade de conceção, projeto, construção, conservação, exploração, requalificação e alargamento da rede rodoviária nacional é atribuída à IP, S. A., em regime de concessão, nos termos definidos por decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+  },
+  "206055582": {
+   "fragment_id": "205641715",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\n1 - A presente lei entra em vigor na data de entrada em vigor do decreto-lei referido no artigo anterior.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 24-E/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-e-2022-205557185), em vigor a partir de 2023-01-01"
+  }
+ }
+}

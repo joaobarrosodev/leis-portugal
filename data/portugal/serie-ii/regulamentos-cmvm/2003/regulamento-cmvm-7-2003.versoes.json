@@ -1,0 +1,1117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:781276:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento-cmvm/2003-201660042",
+ "dre_path": "/dr/detalhe/regulamento-cmvm/7-2003-781276",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-01-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2156395:por",
+     "title": "Regulamento da CMVM n.º 17/2003 - 2.ª Série",
+     "published": "2004-01-13",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/17-2003-2156395"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "201677481",
+    "201677482",
+    "201677483",
+    "201677484",
+    "201677485",
+    "201677486",
+    "201677487",
+    "201677488",
+    "201677489",
+    "201677490",
+    "201677491",
+    "201677492",
+    "201677494",
+    "201677495",
+    "201677496",
+    "201677497",
+    "201677498",
+    "201677499",
+    "201677500",
+    "201677501",
+    "201677502",
+    "201677503",
+    "201677504",
+    "201677505",
+    "201677506"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:3449564:por",
+     "title": "Regulamento da CMVM n.º 2/2004 - 2.ª Série",
+     "published": "2004-05-24",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/2-2004-3449564",
+     "date": "2004-01-08"
+    }
+   ]
+  },
+  {
+   "date": "2004-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2799031:por",
+     "title": "Regulamento da CMVM n.º 6/2004 - 2.ª Série",
+     "published": "2004-09-20",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/6-2004-2799031"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "201677481",
+    "201677482",
+    "204424450",
+    "201677484",
+    "204424451",
+    "201677486",
+    "204424452",
+    "204424453",
+    "201677489",
+    "204424454",
+    "201677491",
+    "201540314",
+    "201677493",
+    "204424455",
+    "204424456",
+    "201677496",
+    "201677497",
+    "201677498",
+    "201677499",
+    "201677500",
+    "204424457",
+    "201677502",
+    "201677503",
+    "201677504",
+    "201677505",
+    "201677506"
+   ]
+  },
+  {
+   "date": "2005-07-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3258171:por",
+     "title": "Regulamento da CMVM n.º 3/2005 - 2.ª Série",
+     "published": "2005-07-13",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/3-2005-3258171"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "201677481",
+    "201677482",
+    "204424450",
+    "201677484",
+    "204424451",
+    "201677486",
+    "204424452",
+    "204424453",
+    "201677489",
+    "204424454",
+    "201677491",
+    "201540314",
+    "201677493",
+    "204424455",
+    "204425640",
+    "201677496",
+    "201677497",
+    "201677498",
+    "201677499",
+    "201677500",
+    "204424457",
+    "201677502",
+    "201677503",
+    "201677504",
+    "201677505",
+    "201677506"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1465502:por",
+     "title": "Regulamento da CMVM n.º 2/2008 - 2.ª Série",
+     "published": "2008-05-20",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/2-2008-1465502"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "201677481",
+    "201677482",
+    "204425976",
+    "204425977",
+    "204425978",
+    "204425979",
+    "204425980",
+    "204425981",
+    "204425982",
+    "204425983",
+    "201677491",
+    "204425991",
+    "204425992",
+    "201677493",
+    "204425990",
+    "204425985",
+    "204425993",
+    "201677496",
+    "204425986",
+    "204425987",
+    "204425988",
+    "201677500",
+    "204425989",
+    "201677502",
+    "201677503",
+    "201677504",
+    "201677505",
+    "201677506"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:105687016:por",
+     "title": "Regulamento da CMVM n.º 4/2016 - 2.ª Série",
+     "published": "2017-01-03",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/4-2016-105687016",
+     "date": "2017-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2018-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115596283:por",
+     "title": "Regulamento da CMVM n.º 2/2018 - 2.ª Série",
+     "published": "2018-06-27",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/2-2018-115596283"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-B",
+    "Altera Capítulo I",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 9.º-A",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º-A",
+    "Altera Capítulo III",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º",
+    "Altera Capítulo IV",
+    "Elimina Capítulo II"
+   ],
+   "fragments": [
+    "201677481",
+    "204426016",
+    "204426019",
+    "204426020",
+    "204426021",
+    "204426022",
+    "204426023",
+    "204426024",
+    "204426025",
+    "204426026",
+    "204426027",
+    "204426028",
+    "204426029",
+    "204426034",
+    "204426036",
+    "204426038",
+    "204426040",
+    "204426017",
+    "204426031",
+    "204426008",
+    "204426009",
+    "204426010",
+    "204426032",
+    "204426012",
+    "204426013",
+    "204426018",
+    "201677505",
+    "201677506"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117543985:por",
+     "title": "Regulamento da CMVM n.º 9/2018 - 2.ª Série",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/9-2018-117543985"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "201677481",
+    "204426016",
+    "204426019",
+    "204426020",
+    "204426021",
+    "204426022",
+    "204426023",
+    "204426024",
+    "204426025",
+    "204426026",
+    "204426027",
+    "204426028",
+    "204426029",
+    "204426034",
+    "204426036",
+    "204426038",
+    "204426040",
+    "204426017",
+    "204426031",
+    "215235896",
+    "204426009",
+    "204426010",
+    "204426032",
+    "204426012",
+    "204426013",
+    "204426018",
+    "201677505",
+    "201677506"
+   ]
+  }
+ ],
+ "fragments": {
+  "201677481": {
+   "fragment_id": "201660043",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamento da CMVM n.º 7/2003. - Taxas. - Na sequência do Decreto-Lei n.º 183/2003, de 19 de Agosto, que alterou o Estatuto da Comissão do Mercado de Valores Mobiliários (CMVM), aprovado pelo Decreto-Lei n.º 473/99, de 8 de Novembro, e da portaria a que se refere o n.º 3 do artigo 25.º-A daquele Estatuto, na qual se estabelecem as taxas devidas pelos serviços de supervisão contínua do mercado de valores mobiliários a cargo da CMVM, o presente regulamento completa a nova estrutura de taxas de supervisão, que passa a vigorar a partir de 1 de Setembro de 2003, e revoga o regulamento da CMVM n.º 8/2001, de 28 de Dezembro, bem como as alterações nele introduzidas pelos regulamentos da CMVM n.os 10/2002, de 19 de Julho, 1/2003, de 23 de Janeiro, e 4/2003, de 27 de Junho.\n\nConservando-se fiel aos princípios do \"utilizador-pagador\", da equidade na distribuição dos encargos de financiamento do sistema de supervisão, do reforço da competitividade do mercado de valores mobiliários português, da eliminação das distorções e das perdas de eficiência, do alargamento das bases de incidência e da concomitante redução do montante das taxas, da adequação do sistema de taxas à evolução do mercado e, finalmente, da diversificação das fontes de financiamento da CMVM, que presidem à nova estrutura de taxas de supervisão, o conteúdo do presente regulamento situa-se, no entanto, numa clara linha de continuidade com os regulamentos da CMVM sobre taxas até agora vigentes, mantendo inalterada a estrutura essencial das taxas constantes destes últimos.\n\nNão obstante, no plano substantivo, cumpre salientar um significativo desagravamento das taxas previstas no presente regulamento, quer por via da abolição de várias taxas estabelecidas nos anteriores regulamentos quer por força da acentuada redução dos montantes de numerosas taxas.\n\nCom efeito, através do presente regulamento é eliminado um significativo conjunto de taxas, que inclui as taxas de registo de titulares de órgãos sociais e de outras pessoas físicas, como, por exemplo, os colaboradores e os auditores, as taxas sobre averbamentos ao registo, que eram anteriormente devidas por quase todas as entidades registadas junto da CMVM, e as taxas de registo das cláusulas contratuais gerais dos contratos de intermediação financeira. Para além de representar uma supressão de custos para as entidades que a elas se encontravam sujeitas, não pode deixar de sublinhar-se que a abolição das referidas taxas, implicando a extinção de toda a cadeia de procedimentos administrativos associados à liquidação e ao pagamento das mesmas, permitirá também simplificar e desburocratizar o relacionamento entre aquelas entidades e a autoridade de supervisão.\n\nEm segundo lugar, o referido desagravamento das taxas expressa-se também numa forte redução dos montantes de quase todas as taxas de registo, desde as taxas devidas pelo registo de sociedades gestoras de mercados, de intermediários financeiros e de outras entidades até às taxas sobre o registo de mercados e de sistemas conexos, bem como das actividades de intermediação financeira, passando pelas taxas de registo de ofertas, onde avulta a redução da parte variável da taxa devida pelo registo de oferta pública de distribuição ou de aquisição para 0,05(por mil) ou 0,1(por mil) do valor da operação, consoante a oferta tenha por objecto obrigações ou acções, tendo sido, em qualquer dos casos, também reduzido para metade o limite máximo desta taxa, agora fixado em Euro 50 000.\n\nPor outro lado, em relação às demais taxas que já se encontravam previstas nos regulamentos da CMVM até agora em vigor, embora se aproveite a ocasião para proceder a uma afinação formal da redacção das normas que as estatuem, não se procede, no presente regulamento, a qualquer aumento ou actualização dos respectivos montantes, com excepção dos das taxas devidas pela emissão de cópias ou certidões, cujos novos quantitativos ficam, ainda assim, muito aquém dos normalmente aplicáveis às emitidas por outras entidades.\n\nPor último, relativamente às entidades gestoras de mercados não regulamentados, refira-se a criação de uma taxa mensal de manutenção de registo, de valor módico.\n\nPor sua vez, no que toca aos aspectos procedimentais relativos ao lançamento e à liquidação das taxas de supervisão, o presente regulamento introduz inovações significativas, que se aplicam tanto às taxas nele próprio previstas como às estabelecidas na portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM. Enquanto, até agora, na maior parte dos casos, os devedores das taxas procediam à autoliquidação das mesmas e ao respectivo pagamento com base nessa autoliquidação, após a entrada em vigor do presente regulamento a CMVM passará a liquidar todas as taxas e a enviar a todos os devedores as correspondentes notas de liquidação e cobrança. Introduz-se, deste modo, um procedimento mais simples e cómodo para os devedores das taxas, que ficam inteiramente desonerados de quaisquer deveres acessórios relativos à liquidação das mesmas, bastando-lhes aguardar pelas notas de liquidação e cobrança que lhes serão tempestivamente enviadas.\n\nClaro que, no caso das taxas variáveis, para que a correspondente liquidação possa ser correcta e oportunamente efectuada pela CMVM, a determinação das respectivas matérias colectáveis terá de ser efectuada com base em declarações dos devedores das taxas. Mas também este aspecto não representará qualquer carga administrativa suplementar para estes últimos, pois o presente regulamento consagra a regra segundo a qual, para aquele efeito, valem como declaração dos devedores das taxas as informações que estes já se encontram obrigados a enviar à CMVM e que devam indicar elementos correspondentes às respectivas bases de incidência, nomeadamente as informações que devam ser prestadas nos termos dos regulamentos da CMVM n.os 4/2001, de 24 de Outubro, 3/2001, de 12 de Maio, 2/2002, de 1 de Fevereiro, e 8/2002, de 18 de Junho, e das instruções, da CMVM, n.os 5/2000, de 21 de Junho, e 1/2002, 2/2002, 5/2002 e 6/2002, todas de 13 de Março.\n\nPara que este novo sistema funcione harmoniosa e eficazmente, é essencial, porém, que sejam rigorosamente cumpridos os prazos de envio daquelas declarações, pelo que, sem prejuízo das eventuais responsabilidades contra-ordenacionais, se determina que serão devidos juros compensatórios quando, por facto imputável ao devedor, seja retardada a liquidação da taxa.\n\nPela comodidade que proporciona, este novo sistema de liquidação das taxas de supervisão afigura-se claramente vantajoso para os respectivos devedores, embora se admita que da experiência colhida na sua aplicação prática possa resultar a conveniência de alguns ajustamentos, que, se for caso disso, não deixarão de ser oportunamente introduzidos através das devidas alterações ao presente regulamento.\n\nAssim, ao abrigo do disposto na alínea n) do artigo 9.º e nos n.os 3 e 4 do artigo 25.º-A do Estatuto da CMVM, aprovado pelo Decreto-Lei n.º 473/99, de 8 de Novembro, com a redacção que lhes foi dada pelo Decreto-Lei n.º 183/2003, de 19 de Agosto, o conselho directivo da CMVM aprova o seguinte regulamento:"
+  },
+  "201677482": {
+   "fragment_id": "201660044",
+   "type": 1,
+   "heading": "Capítulo I — Taxas relativas a actos de supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Taxas relativas a actos de supervisão"
+  },
+  "201677483": {
+   "fragment_id": "201660045",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Registo de entidades\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa do registo inicial de:\n\na) Entidades gestoras de:\n\nBolsas, no valor de Euro 7500;\n\nOutros mercados regulamentados, no valor de Euro 7500;\n\nMercados não regulamentados, no valor de Euro 2500;\n\nSistemas de liquidação, com assunção de contraparte, no valor de Euro 7500;\n\nSistemas de liquidação, sem assunção de contraparte, no valor de Euro 5000;\n\nSistemas centralizados de valores mobiliários, no valor de Euro 7500;\n\nb) Intermediários financeiros e sucursais de instituições de crédito ou de empresas de investimento não comunitárias, no valor Euro 7500;\n\nc) Sociedades gestoras de fundos de garantia, no valor de Euro 2500;\n\nd) Sociedades de capital de risco, no valor de Euro 2500;\n\ne) Sociedades de titularização de créditos, no valor de Euro 2500;\n\nf) Sociedades de notação de risco, no valor de Euro 2500;\n\ng) Auditores, no valor de Euro 1000;\n\nh) Avaliadores de imóveis, no valor de Euro 1000, no caso de registo de pessoa colectiva e de pessoa singular para actuação em nome próprio;\n\ni) Associações de defesa de investidores, no valor de Euro 100.\n\n2 - As taxas previstas no número anterior abrangem todos os factos incluídos no registo inicial, mesmo que estes se encontrem sujeitos a taxas de forma autónoma, nos termos do presente regulamento."
+  },
+  "201677484": {
+   "fragment_id": "201660046",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo de mercados, sistemas conexos, actividades e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo de mercados, sistemas conexos, actividades e serviços\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa do registo de cada:\n\na) Bolsa, no valor de Euro 7500;\n\nb) Mercado regulamentado, no valor de Euro 7500;\n\nc) Mercado não regulamentado, no valor de Euro 2500;\n\nd) Sistema centralizado de valores mobiliários, no valor de Euro 7500;\n\ne) Sistema de liquidação:\n\nCom assunção de contraparte, no valor de Euro 7500;\n\nSem assunção de contraparte, no valor de Euro 5000;\n\nf) Actividade de intermediação, constante:\n\nDo artigo 290.º, n.os 1, alíneas a), b) e c), e 2, e do artigo 291.º, alínea a), ambos do Código dos Valores Mobiliários, no valor de Euro 1000;\n\nDos artigos 290.º, n.º 1, alínea d), e 291.º, alíneas b) a f), ambos do Código dos Valores Mobiliários, no valor de Euro 750;\n\ng) Serviço conexo previsto na alínea c) do artigo 2.º do Decreto-Lei n.º 394/99, de 13 de Outubro, no valor de Euro 1000."
+  },
+  "201677485": {
+   "fragment_id": "201660047",
+   "type": 11,
+   "heading": "Artigo 3.º — Comercialização de instituições de investimento colectivo estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comercialização de instituições de investimento colectivo estrangeiras\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela:\n\na) Recepção e análise da comunicação prévia para comercialização de participações em instituições de investimento colectivo em valores mobiliários estrangeiras que preencham os requisitos da Directiva n.º 85/611/CE, do Conselho, na sua redacção actualizada, no valor de Euro 1500, independentemente do número de compartimentos integrados num agrupamento;\n\nb) Autorização de comercialização de outras instituições de investimento colectivo em valores mobiliários estrangeiras, no valor de Euro 3000, independentemente do número de compartimentos integrados num agrupamento;\n\nc) Alteração da nota informativa complementar das instituições de investimento colectivo em valores mobiliários a que se referem as alíneas anteriores, no valor de Euro 150.\n\n2 - Para os efeitos das taxas previstas nas alíneas b) e c) do número anterior, consideram-se requerentes as respectivas entidades comercializadoras."
+  },
+  "201677486": {
+   "fragment_id": "201660048",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autorizações\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de autorização de:\n\na) Sucessão de ofertas, prevista no artigo 186.º do Código de Valores Mobiliários, no valor de Euro 2500;\n\nb) Actividade de consultor autónomo, no valor de Euro 500;\n\nc) Actividade de entidade comercializadora de unidades de participação em instituições de investimento colectivo, no valor de Euro 3000.\n\n2 - No caso de concessão da autorização referida na alínea a) do número anterior, o valor da taxa aí prevista é descontado no da devida pelo registo da oferta."
+  },
+  "201677487": {
+   "fragment_id": "201660049",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo de ofertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo de ofertas\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa do registo:\n\na) De oferta pública, no valor de Euro 2500;\n\nb) Provisório de oferta pública de distribuição, no valor de Euro 1000;\n\nc) De recolha de intenções de investimento, no valor de Euro 1000;\n\nd) De aquisição potestativa, no valor de Euro 5000.\n\n2 - No caso de concessão do registo de oferta pública de distribuição ou aquisição, a taxa estabelecida na alínea a) do número anterior é acrescida em:\n\na) 0,05(por mil) do valor da operação quando se trate de oferta de obrigações ou outros valores mobiliários equiparados a dívida, não podendo a colecta ser superior a Euro 50 000;\n\nb) 0,1(por mil) do valor da operação quando se trate de oferta de valores mobiliários não referidos na alínea anterior, não podendo a colecta ser superior a Euro 50 000.\n\n3 - No caso de a oferta objecto do registo se integrar em oferta internacional, para os efeitos de cálculo do valor da taxa estabelecida no número anterior, considera-se como valor da operação o colocado em Portugal.\n\n4 - É isento da parcela variável da taxa estabelecida no n.º 2 o registo de:\n\na) Ofertas públicas previstas no artigo 134.º, n.º 2, do Código dos Valores Mobiliários quando não seja efectivamente divulgado o prospecto;\n\nb) Ofertas públicas relativamente às quais seja reconhecido prospecto nos termos do artigo 147.º do Código dos Valores Mobiliários.\n\n5 - É isento das taxas estabelecidas no presente artigo o registo de oferta pública de distribuição de unidades de participação em fundos de investimento, de titularização de créditos e de capital de risco constituídos nos termos da legislação nacional ou de outros países da União Europeia.\n\n6 - A CMVM pode isentar das taxas estabelecidas no presente artigo o registo de oferta pública em que o requerente demonstre que a operação em causa se destina a promover a recuperação económica ou financeira do emitente dos valores mobiliários em causa."
+  },
+  "201677488": {
+   "fragment_id": "201660050",
+   "type": 11,
+   "heading": "Artigo 6.º — Aprovação de prospectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aprovação de prospectos\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de aprovação de:\n\na) Prospecto de referência, no valor de Euro 2500;\n\nb) Prospecto de admissão de valores mobiliários à negociação, no valor de:\n\nEuro 2500, acrescida de Euro 500 por cada categoria de valor mobiliário ou, no caso de warrants autónomos, por cada activo subjacente;\n\nEuro 1000, no caso de aprovação prévia do mesmo prospecto no âmbito do registo de oferta pública;\n\nc) Prospecto complementar de admissão de valores mobiliários à negociação, no valor de Euro 500, por cada categoria de valor mobiliário ou, no caso de warrants autónomos, por cada activo subjacente.\n\n2 - É isenta da taxa prevista na alínea b) do número anterior a concessão ou recusa de aprovação de prospecto de admissão à negociação de unidades de participação em instituições de investimento colectivo, fundos de capital de risco e fundos de titularização de créditos."
+  },
+  "201677489": {
+   "fragment_id": "201660051",
+   "type": 11,
+   "heading": "Artigo 7.º — Dispensas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dispensas\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de dispensa:\n\na) Da tradução prevista no n.º 2 do artigo 6.º do Código dos Valores Mobiliários, no valor de Euro 250;\n\nb) Da publicação prevista no artigo 18.º do Código dos Valores Mobiliários, no valor de Euro 250."
+  },
+  "201677490": {
+   "fragment_id": "201660052",
+   "type": 11,
+   "heading": "Artigo 8.º — Reconhecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reconhecimentos\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de reconhecimento de:\n\na) Perda da qualidade de sociedade aberta, no valor de Euro 2500;\n\nb) Prospecto a que se refere o n.º 2 do artigo 237.º do Código dos Valores Mobiliários, no valor de Euro 1500;\n\nc) Relatório ou parecer de auditor não registado na CMVM, no valor de Euro 1000."
+  },
+  "201677491": {
+   "fragment_id": "201660053",
+   "type": 11,
+   "heading": "Artigo 9.º — Declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Declarações\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela emissão da declaração prevista no n.º 2 do artigo 189.º do Código dos Valores Mobiliários, no valor de Euro 2500.\n\n2 - Está isenta da taxa prevista no número anterior a declaração que for emitida ao abrigo do disposto na alínea b) do n.º 1 do artigo 189.º do Código dos Valores Mobiliários."
+  },
+  "201677492": {
+   "fragment_id": "201660054",
+   "type": 11,
+   "heading": "Artigo 10.º — Cópias e certidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cópias e certidões\n\nÉ devida à CMVM, pelo requerente, uma taxa pela emissão de:\n\na) Cópias, no valor de Euro 0,50 por cada página;\n\nb) Certidões cujo conteúdo se reconduza exclusivamente ao referido nas alíneas do n.º 1 do artigo 63.º do Código do Procedimento Administrativo, no valor de Euro 0,50 por cada página;\n\nc) Outras certidões, no valor de Euro 15, acrescidos de Euro 0,75 por cada página."
+  },
+  "201677494": {
+   "fragment_id": "201660056",
+   "type": 11,
+   "heading": "Artigo 11.º — Serviços de manutenção do registo de mercados não regulamentados e suas entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Serviços de manutenção do registo de mercados não regulamentados e suas entidades gestoras\n\n1 - É devida à CMVM, por cada entidade gestora de mercados não regulamentados, uma taxa mensal pela manutenção dos respectivos registos, no valor de Euro 250.\n\n2 - Estão isentas da taxa prevista no número anterior as entidades gestoras de mercados regulamentados que sejam simultaneamente gestoras de mercados não regulamentados."
+  },
+  "201677495": {
+   "fragment_id": "201660057",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes\n\n1 - É devida à CMVM, pelos emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, uma taxa trimestral pela supervisão da prestação da informação, em particular dos relatórios e contas, no valor de:\n\na) Euro 3000 quando tenham acções admitidas à negociação no mercado de cotações oficiais;\n\nb) Euro 2000 quando tenham acções admitidas à negociação no segundo mercado;\n\nc) Euro 1000 quando tenham outros valores mobiliários admitidos à negociação em mercado regulamentado.\n\n2 - Pelos emitentes em relação aos quais se verifique mais de uma das situações previstas nas alíneas do número anterior, apenas é devida a mais elevada das taxas aplicáveis."
+  },
+  "201677496": {
+   "fragment_id": "201660058",
+   "type": 1,
+   "heading": "Capítulo III — Liquidação e pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Liquidação e pagamento"
+  },
+  "201677497": {
+   "fragment_id": "201660059",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição das obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Constituição das obrigações\n\nA obrigação de pagamento das taxas devidas à CMVM constitui-se:\n\na) Em relação às taxas previstas nos artigos 1.º a 10.º do presente regulamento, na data da prática, pela CMVM, dos actos neles referidos;\n\nb) Em relação às taxas previstas no artigo 11.º do presente regulamento e nos artigos 1.º a 6.º da Portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM, no último dia de cada mês;\n\nc) Em relação à taxa prevista no artigo 12.º do presente regulamento, no primeiro dia de negociação de cada trimestre do ano civil."
+  },
+  "201677498": {
+   "fragment_id": "201660060",
+   "type": 11,
+   "heading": "Artigo 14.º — Liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Liquidação\n\n1 - As taxas a que se refere o artigo anterior são liquidadas pela CMVM por referência às situações verificadas nas datas nele mencionadas.\n\n2 - Para os efeitos do lançamento e da liquidação das taxas previstas no presente regulamento e na portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM, valem como declaração dos respectivos devedores as informações que os mesmos devam enviar à CMVM para os efeitos de supervisão e que devam indicar elementos correspondentes à base de incidência das referidas taxas.\n\n3 - Para os efeitos do lançamento e da liquidação da taxa mensal prevista no artigo 3.º da portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM, considera-se como montante correspondente aos valores mobiliários registados ou depositados em contas abertas junto de cada intermediário financeiro o somatório dos montantes que devam ser por ele declarados, nos termos das normas 1.1 e 2.1 da instrução, da CMVM, n.º 5/2000, de 21 de Junho, relativamente ao mês a que a taxa respeita.\n\n4 - Para os efeitos do lançamento e da liquidação das taxas mensais previstas no artigo 4.º da portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM que sejam devidas pelas entidades gestoras de fundos de capital de risco e de fundos de investimento imobiliário em relação aos meses que medeiem entre o da data da constituição dos fundos em causa, inclusive, e o mês a que respeite o primeiro apuramento dos correspondentes valores líquidos globais que deva ser comunicado à CMVM, presume-se, salvo prova em contrário dos interessados, que tais valores não excedem os que determinam a aplicação dos valores mínimos das colectas das taxas aplicáveis, nos termos, respectivamente, da alínea b) ou c) do artigo 4.º da mencionada portaria.\n\n5 - A CMVM procede ao envio aos respectivos devedores das notas de liquidação e cobrança das taxas previstas no presente regulamento e na portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM."
+  },
+  "201677499": {
+   "fragment_id": "201660061",
+   "type": 11,
+   "heading": "Artigo 15.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Deveres de informação\n\n1 - Os devedores das taxas e quaisquer entidades sujeitas à jurisdição da CMVM facultam-lhe, dentro do prazo por esta fixado, as informações e os documentos por esta solicitados para os efeitos do lançamento e da liquidação das taxas previstas no presente regulamento e na portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM.\n\n2 - Para os efeitos da liquidação da taxa prevista na alínea b) do n.º 1 do artigo 1.º da portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM, cada entidade gestora de mercados não regulamentados comunica à CMVM, até ao dia 5 de cada mês, o valor das comissões por ela cobradas no mês anterior e que seja proveniente das operações sobre acções admitidas aos mercados de bolsa ou outros mercados regulamentados realizadas nos mercados por ela geridos."
+  },
+  "201677500": {
+   "fragment_id": "201660062",
+   "type": 11,
+   "heading": "Artigo 16.º — Juros compensatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Juros compensatórios\n\nQuando, por facto imputável ao devedor, for retardada a liquidação de parte ou da totalidade da taxa devida, são devidos juros compensatórios, nos termos do artigo 35.º da lei geral tributária."
+  },
+  "201677501": {
+   "fragment_id": "201660063",
+   "type": 11,
+   "heading": "Artigo 17.º — Prazos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prazos de pagamento\n\n1 - As taxas previstas nos artigos 1.º a 10.º do presente regulamento são pagas:\n\na) No prazo de cinco dias úteis após a data da recepção da notificação do deferimento ou indeferimento do pedido;\n\nb) No prazo de 15 dias após a data de emissão inscrita na nota de liquidação e cobrança, se o final deste prazo for posterior ao do previsto na alínea anterior.\n\n2 - Para os efeitos do disposto na alínea a) do número anterior, nos casos em que ocorra deferimento ou indeferimento tácito do pedido, considera-se como data da recepção da respectiva notificação a data de formação do acto tácito.\n\n3 - As taxas previstas no artigo 10.º do presente regulamento são pagas no momento do levantamento das certidões ou cópias a que respeitem, se este for efectuado antes do final dos prazos previstos no n.º 1.\n\n4 - As taxas previstas:\n\na) No artigo 11.º do presente regulamento e na alínea a) do n.º 1 do artigo 1.º e no artigo 2.º da portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM são pagas até ao dia 10 do mês seguinte àquele a que respeitam;\n\nb) No artigo 12.º do presente regulamento são pagas até ao fim do 1.º mês do trimestre do ano civil a que respeitam;\n\nc) Na alínea b) do n.º 1 e no n.º 2 do artigo 1.º e nos artigos 3.º a 6.º da portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM são pagas até ao dia 20 do mês seguinte àquele a que respeitam.\n\n5 - Nos casos em que haja lugar à emissão de segundas vias de notas de liquidação e cobrança ou de notas de liquidação e cobrança rectificativas ou adicionais, a CMVM procede ao envio das mesmas por correio, registado com aviso de recepção, ou por qualquer outro meio que permita a prova da recepção, e o correspondente pagamento é efectuado no prazo de oito dias após a data da respectiva recepção.\n\n6 - Os pagamentos a que se refere a alínea b) do n.º 4 têm a natureza de pagamentos definitivos, não havendo lugar a qualquer devolução, total ou parcial, dos mesmos, ainda que durante o período a que respeita a taxa deixem de verificar-se os pressupostos que deram origem à respectiva liquidação."
+  },
+  "201677502": {
+   "fragment_id": "201660064",
+   "type": 11,
+   "heading": "Artigo 18.º — Forma de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Forma de pagamento\n\nO pagamento das taxas pode ser efectuado pelas seguintes formas:\n\na) Em dinheiro;\n\nb) Por cheque cruzado, passado à ordem da Comissão do Mercado de Valores Mobiliários;\n\nc) Por transferência bancária, devendo o devedor comunicá-la por escrito à CMVM na data da sua realização;\n\nd) Por transferência electrónica, se este sistema se encontrar disponível."
+  },
+  "201677503": {
+   "fragment_id": "201660065",
+   "type": 11,
+   "heading": "Artigo 19.º — Juros de mora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Juros de mora\n\nQuando o devedor não pague as taxas devidas nos prazos estabelecidos no presente regulamento, são devidos juros de mora, nos termos do artigo 44.º da lei geral tributária."
+  },
+  "201677504": {
+   "fragment_id": "201660066",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "201677505": {
+   "fragment_id": "201660067",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogado o regulamento da CMVM n.º 8/2001, de 28 de Dezembro, com as alterações introduzidas pelos regulamentos da CMVM n.os 10/2002, de 19 de Julho, 1/2003, de 23 de Janeiro, e 4/2003, de 27 de Junho."
+  },
+  "201677506": {
+   "fragment_id": "201660068",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 1 de Setembro de 2003.\n\n29 de Agosto de 2003. - O Presidente do Conselho Directivo, Fernando Teixeira dos Santos. - O Vice-Presidente do Conselho Directivo, Luís Lopes Laranjo."
+  },
+  "204424450": {
+   "fragment_id": "201660045",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de entidades",
+   "in_force_from": "2004-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Registo de entidades\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa do registo inicial de:\n\na) Entidades gestoras de:\n\nBolsas, no valor de Euro 7500;\n\nOutros mercados regulamentados, no valor de Euro 7500;\n\nMercados não regulamentados, no valor de Euro 2500;\n\nSistemas de liquidação, com assunção de contraparte, no valor de Euro 7500;\n\nSistemas de liquidação, sem assunção de contraparte, no valor de Euro 5000;\n\nSistemas centralizados de valores mobiliários, no valor de Euro 7500;\n\nb) Intermediários financeiros e sucursais de instituições de crédito ou de empresas de investimento não comunitárias, no valor Euro 7500;\n\nc) Sociedades gestoras de fundos de garantia, no valor de Euro 2500;\n\nd) Sociedade de capital de risco e outras entidades gestoras de fundos de capital de risco, no valor de Euro 2500;\n\ne) Sociedades de titularização de créditos, no valor de Euro 2500;\n\nf) Sociedades de notação de risco, no valor de Euro 2500;\n\ng) Auditores, no valor de Euro 1000;\n\nh) Avaliadores de imóveis, no valor de Euro 1000, no caso de registo de pessoa colectiva e de pessoa singular para actuação em nome próprio;\n\ni) Associações de defesa de investidores, no valor de Euro 100.\n\n2 - As taxas previstas no número anterior abrangem todos os factos incluídos no registo inicial, mesmo que estes se encontrem sujeitos a taxas de forma autónoma, nos termos do presente regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204424451": {
+   "fragment_id": "201660047",
+   "type": 11,
+   "heading": "Artigo 3.º — Comercialização de instituições de investimento colectivo estrangeiras",
+   "in_force_from": "2004-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Comercialização de instituições de investimento colectivo estrangeiras\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela:\n\na) Recepção e análise da comunicação prévia para comercialização de participações em instituições de investimento colectivo em valores mobiliários estrangeiras que preencham os requisitos da Directiva n.º 85/611/CE, do Conselho, na sua redacção actualizada, no valor de Euro 1500, independentemente do número de compartimentos integrados num agrupamento;\n\nb) Autorização de comercialização de outras instituições de investimento colectivo em valores mobiliários estrangeiras, no valor de Euro 3000, independentemente do número de compartimentos integrados num agrupamento;\n\nc) Inserção de novos compartimentos nas instituições de investimento colectivo em valores mobiliários a que se referem as alíneas anteriores, no valor de Euro 150;\n\n2 - Para os efeitos das taxas previstas nas alíneas b) e c) do número anterior, consideram-se requerentes as respectivas entidades comercializadoras.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204424452": {
+   "fragment_id": "201660049",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo de ofertas",
+   "in_force_from": "2004-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2004 - Diário da República n.º 121/2004, Série II de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2004-3449564), em vigor a partir de 2004-01-08"
+   ],
+   "markdown": "###### Artigo 5.º — Registo de ofertas\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa do registo:\n\na) De oferta pública, no valor de Euro 2500;\n\nb) De oferta pública prevista no artigo 134.º, n.º 2, do Código dos Valores Mobiliários, quando não seja efectivamente divulgado o prospecto, no valor de Euro 500;\n\nc) Provisório de oferta pública de distribuição, no valor de Euro 1000;\n\nd) De registo prévio simplificado de oferta pública de papel comercial, no valor de Euro 250;\n\ne) De recolha de intenções de investimento, no valor de Euro 1000;\n\nf) De aquisição potestativa, no valor de Euro 5000.\n\n2 - No caso de concessão do registo de oferta pública de distribuição ou aquisição, a taxa estabelecida na alínea a) do número anterior é acrescida em:\n\na) 0,05(por mil) do valor da operação quando se trate de oferta de obrigações ou outros valores mobiliários equiparados a dívida, não podendo a colecta ser superior a Euro 50 000;\n\nb) 0,1(por mil) do valor da operação quando se trate de oferta de valores mobiliários não referidos na alínea anterior, não podendo a colecta ser superior a Euro 50 000.\n\n3 - No caso de a oferta objecto do registo se integrar em oferta internacional, para os efeitos de cálculo do valor da taxa estabelecida no número anterior, considera-se como valor da operação o colocado em Portugal.\n\n4 - É isento da parcela variável da taxa estabelecida no n.º 2 o registo de:\n\na) Ofertas públicas previstas no artigo 134.º, n.º 2, do Código dos Valores Mobiliários quando não seja efectivamente divulgado o prospecto;\n\nb) Ofertas públicas relativamente às quais seja reconhecido prospecto nos termos do artigo 147.º do Código dos Valores Mobiliários.\n\n5 - É isento das taxas estabelecidas no presente artigo o registo de oferta pública de distribuição de unidades de participação em fundos de investimento, de titularização de créditos e de capital de risco constituídos nos termos da legislação nacional ou de outros países da União Europeia.\n\n6 - A CMVM pode isentar das taxas estabelecidas no presente artigo o registo de oferta pública em que o requerente demonstre que a operação em causa se destina a promover a recuperação económica ou financeira do emitente dos valores mobiliários em causa.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2004 - Diário da República n.º 121/2004, Série II de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2004-3449564), em vigor a partir de 2004-01-08"
+  },
+  "204424453": {
+   "fragment_id": "201660050",
+   "type": 11,
+   "heading": "Artigo 6.º — Aprovação de prospectos",
+   "in_force_from": "2004-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Aprovação de prospectos\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de aprovação de:\n\na) Prospecto de referência, no valor de Euro 2500;\n\nb) Prospecto de admissão de valores mobiliários à negociação, no valor de:\n\nEuro 1500, acrescida de Euro 250 por cada categoria de valor mobiliário ou, no caso de warrants autónomos, por cada activo subjacente;\n\nEuro 250, no caso de aprovação prévia do mesmo prospecto no âmbito do registo de oferta pública;\n\nc) Prospecto complementar de admissão de valores mobiliários à negociação, no valor de Euro 250, por cada categoria de valor mobiliário ou, no caso de warrants autónomos, por cada activo subjacente.\n\n2 - É isenta da taxa prevista na alínea b) do número anterior a concessão ou recusa de aprovação de prospecto de admissão à negociação de unidades de participação em instituições de investimento colectivo, fundos de capital de risco e fundos de titularização de créditos.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204424454": {
+   "fragment_id": "201660052",
+   "type": 11,
+   "heading": "Artigo 8.º — Reconhecimentos",
+   "in_force_from": "2004-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Reconhecimentos\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de reconhecimento de:\n\na) Perda da qualidade de sociedade aberta, no valor de Euro 2500;\n\nb) Prospecto a que se refere o n.º 2 do artigo 237.º do Código dos Valores Mobiliários, no valor de Euro 1500;\n\nc) Relatório ou parecer de auditor não registado na CMVM, no valor de Euro 500.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "201540314": {
+   "fragment_id": "201660054",
+   "type": 11,
+   "heading": "Artigo 10.º — Cópias e certidões",
+   "in_force_from": "2003-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 17/2003 - Diário da República n.º 10/2004, Série II de 2004-01-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/17-2003-2156395), em vigor a partir de 2003-01-14"
+   ],
+   "markdown": "###### Artigo 10.º — Cópias e certidões\n\nÉ devida à CMVM, pelo requerente, uma taxa pela emissão de:\n\na) Cópias, no valor de Euro 0,50 por cada página;\n\nb) Certidões cujo conteúdo se reconduza exclusivamente ao referido nas alíneas do n.º 1 do artigo 63.º do Código do Procedimento Administrativo, no valor de Euro 0,50 por cada página;\n\nc) Certidões para efeitos do disposto nas alíneas d) e e) do n.º 6 do artigo 26.º do Código do Imposto do Selo, no valor de Euro 3 por cada categoria de valores mobiliários objecto da certidão;\n\nd) Outras certidões, no valor de Euro 15, acrescidos de Euro 0,75 por cada página.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 17/2003 - Diário da República n.º 10/2004, Série II de 2004-01-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/17-2003-2156395), em vigor a partir de 2003-01-14"
+  },
+  "201677493": {
+   "fragment_id": "201660055",
+   "type": 1,
+   "heading": "Capítulo II — Taxas relativas a serviços e actividades de supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Taxas relativas a serviços e actividades de supervisão"
+  },
+  "204424455": {
+   "fragment_id": "201660056",
+   "type": 11,
+   "heading": "Artigo 11.º — Serviços de manutenção do registo de mercados não regulamentados e suas entidades gestoras",
+   "in_force_from": "2004-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Serviços de manutenção do registo de mercados não regulamentados e suas entidades gestoras\n\n1 - É devida à CMVM, por cada entidade gestora de mercados não regulamentados, uma taxa mensal pela manutenção dos respectivos registos, no valor de Euro 150.\n\n2 - Estão isentas da taxa prevista no número anterior as entidades gestoras de mercados regulamentados que sejam simultaneamente gestoras de mercados não regulamentados.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204424456": {
+   "fragment_id": "201660057",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes",
+   "in_force_from": "2004-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes\n\n1 - É devida à CMVM, pelos emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, uma taxa trimestral pela supervisão da prestação da informação, no valor de:\n\na) Euro 2250, quando tenham acções admitidas à negociação no mercado de cotações oficiais;\n\nb) Euro 1500, quando tenham acções admitidas à negociação no segundo mercado;\n\nc) Euro 750, quando tenham outros valores mobiliários admitidos à negociação em mercado regulamentado.\n\n2 - Pelos emitentes em relação aos quais se verifique mais de uma das situações previstas nas alíneas do número anterior, apenas é devida a mais elevada das taxas aplicáveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204424457": {
+   "fragment_id": "201660063",
+   "type": 11,
+   "heading": "Artigo 17.º — Prazos de pagamento",
+   "in_force_from": "2004-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Prazos de pagamento\n\n1 - As taxas previstas nos artigos 1.º a 10.º do presente regulamento são pagas:\n\na) No prazo de cinco dias úteis após a data da recepção da notificação do deferimento ou indeferimento do pedido;\n\nb) No prazo de 15 dias após a data de emissão inscrita na nota de liquidação e cobrança, se o final deste prazo for posterior ao do previsto na alínea anterior.\n\n2 - Para os efeitos do disposto na alínea a) do número anterior, nos casos em que ocorra deferimento ou indeferimento tácito do pedido, considera-se como data da recepção da respectiva notificação a data de formação do acto tácito.\n\n3 - As taxas previstas no artigo 10.º do presente regulamento são pagas no momento do levantamento das certidões ou cópias a que respeitem, se este for efectuado antes do final dos prazos previstos no n.º 1.\n\n4 - As taxas previstas:\n\na) No artigo 11.º do presente regulamento e nas alíneas a) e b) do artigo 1.º e no artigo 2.º da Portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM são pagas até ao dia 10 do mês seguinte àquele a que respeitam;\n\nb) No artigo 12.º do presente regulamento são pagas até ao fim do 1.º mês do trimestre do ano civil a que respeitam;\n\nc) Na alínea c) do artigo 1.º e nos artigos 3.º a 6.º da Portaria a que se refere o n.º 3 do artigo 25.º-A do Estatuto da CMVM são pagas até ao dia 20 do mês seguinte àquele a que respeitam.\n\n5 - Nos casos em que haja lugar à emissão de segundas vias de notas de liquidação e cobrança ou de notas de liquidação e cobrança rectificativas ou adicionais, a CMVM procede ao envio das mesmas por correio, registado com aviso de recepção, ou por qualquer outro meio que permita a prova da recepção, e o correspondente pagamento é efectuado no prazo de oito dias após a data da respectiva recepção.\n\n6 - Os pagamentos a que se refere a alínea b) do n.º 4 têm a natureza de pagamentos definitivos, não havendo lugar a qualquer devolução, total ou parcial, dos mesmos, ainda que durante o período a que respeita a taxa deixem de verificar-se os pressupostos que deram origem à respectiva liquidação.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204425640": {
+   "fragment_id": "201660057",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes",
+   "in_force_from": "2005-07-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 3/2005 - Diário da República n.º 133/2005, Série II de 2005-07-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2005-3258171), em vigor a partir de 2005-07-13",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes\n\n1 - É devida à CMVM, pelos emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, uma taxa trimestral pela supervisão da prestação da informação, no valor de:\n\na) Euro 2250, quando tenham acções admitidas à negociação no mercado de cotações oficiais;\n\nb) Revogada;\n\nc) Euro 750, quando tenham outros valores mobiliários admitidos à negociação em mercado regulamentado.\n\n2 - Pelos emitentes em relação aos quais se verifique mais de uma das situações previstas nas alíneas do número anterior, apenas é devida a mais elevada das taxas aplicáveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 3/2005 - Diário da República n.º 133/2005, Série II de 2005-07-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2005-3258171), em vigor a partir de 2005-07-13\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204425976": {
+   "fragment_id": "201660045",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de entidades",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Registo de entidades\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de registo inicial de:\n\na) Entidades que giram:\n\ni) Mercados regulamentados ou sistemas de negociação multilateral, no valor de (euro) 7 500;\n\nii) Outros mercados, no valor de (euro) 2 500;\n\niii) Sistemas de liquidação, com assunção de contraparte, no valor de (euro) 7 500;\n\niv) Sistemas de liquidação, sem assunção de contraparte, no valor de (euro) 5 000;\n\nv) Sistemas centralizados de valores mobiliários, no valor de (euro) 7 500;\n\nb) Intermediários financeiros e sucursais de instituições de crédito ou de empresas de investimento não comunitárias não mencionados nas alíneas seguintes, no valor (euro) 7 500;\n\nc) Sociedades gestoras de fundos de garantia, no valor de Euro 2500;\n\nd) Sociedade de capital de risco e outras entidades gestoras de fundos de capital de risco, no valor de Euro 2500;\n\ne) Sociedades de titularização e gestoras de fundos de titularização, no valor de (euro) 2 500;\n\nf) Sociedades de notação de risco, no valor de Euro 2500;\n\ng) Auditores, no valor de Euro 1000;\n\nh) [Revogado];\n\ni) Associações de defesa de investidores, no valor de Euro 100.\n\nj) Sociedades de consultoria para investimentos, no valor de (euro)1500;\n\nl) Investidores de capital de risco, no valor de 1 000(euro).\n\n2 - As taxas previstas no número anterior abrangem todos os factos incluídos no registo inicial, mesmo que estes se encontrem sujeitos a taxas de forma autónoma, nos termos do presente regulamento.\n\n3 - Em cada ano civil é devida pelos sujeitos registados mencionados no n.º 1 e não sujeitos ao pagamento de taxa de supervisão contínua uma taxa anual pela manutenção do registo equivalente a um quinto do valor fixado para o registo inicial.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204425977": {
+   "fragment_id": "201660046",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo de mercados, sistemas de negociação multilateral, sistemas conexos, actividades e serviços",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Registo de mercados, sistemas de negociação multilateral, sistemas conexos, actividades e serviços\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de registo de cada:\n\na) [Revogado]\n\nb) Mercado regulamentado ou sistema de negociação multilateral, no valor de (euro) 7 500;\n\nc) Outro mercado, no valor de (euro) 2 500;\n\nd) Sistema centralizado de valores mobiliários, no valor de (euro) 7 500;\n\ne) Sistema de liquidação:\n\ni) Com assunção de contraparte, no valor de (euro) 7 500;\n\nii) Sem assunção de contraparte, no valor de (euro) 5 000;\n\nf) Um dos seguintes serviços ou actividades, auxiliares ou principais, de investimento, no valor de (euro) 1 000:\n\ni) Recepção e a transmissão de ordens por conta de outrem;\n\nii) Execução de ordens por conta de outrem;\n\niii) Gestão de carteiras por conta de outrem;\n\niv) Negociação por conta própria;\n\nv) Registo e depósito de valores mobiliários, bem como os serviços relacionados com a sua guarda, como a gestão de tesouraria ou de garantias.\n\ng) Um dos seguintes serviços ou actividades, auxiliares ou principais, de investimento, no valor de (euro) 750:\n\ni) Tomada firme e a colocação, com ou sem garantia, em oferta pública de distribuição;\n\nii) Concessão de crédito, incluindo o empréstimo de valores mobiliários, para a realização de operações sobre valores mobiliários em que intervém a entidade concedente do crédito;\n\niii) Consultoria para investimento em valores mobiliários, a consultoria sobre a estrutura de capital, a estratégia industrial e questões conexas, bem como sobre a fusão e a aquisição de empresas;\n\niv) Assistência em oferta pública relativa a valores mobiliários; e\n\nv) Serviços de câmbios e o aluguer de cofres-fortes ligados à prestação de serviços de investimento;\n\nh) Serviços relacionados com a emissão e a negociação de valores mobiliários prestados por sociedade gestora de mercado regulamentado, no valor de (euro) 1 000.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204425978": {
+   "fragment_id": "201660047",
+   "type": 11,
+   "heading": "Artigo 3.º — Comercialização de instituições de investimento colectivo estrangeiras",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Comercialização de instituições de investimento colectivo estrangeiras\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela:\n\na) Recepção e análise da comunicação prévia para comercialização de participações em instituições de investimento colectivo em valores mobiliários estrangeiras que preencham os requisitos da Directiva do Conselho n.º 85/611/CE, na sua redacção actualizada, no valor de (euro) 3 000, independentemente do número de compartimentos integrados num agrupamento;\n\nb) Autorização de comercialização de outras instituições de investimento colectivo no valor de (euro) 5 000, independentemente do número de compartimentos integrados num agrupamento;\n\nc) Inserção de novos compartimentos nas instituições de investimento colectivo em valores mobiliários a que se referem as alíneas anteriores, no valor de (euro) 300.\n\n2 - Para os efeitos das taxas previstas nas alíneas b) e c) do número anterior, consideram-se requerentes as respectivas entidades comercializadoras.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204425979": {
+   "fragment_id": "201660048",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorizações e aprovações",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Autorizações e aprovações\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de autorização ou de aprovação de:\n\na) Sucessão de ofertas, prevista no artigo 186.º do Código de Valores Mobiliários, no valor de Euro 2500;\n\nb) [Revogado]\n\nc) Actividade de entidade comercializadora de unidades de participação em instituições de investimento colectivo, no valor de Euro 3000.\n\nd) Modificação, retirada ou revisão da oferta, previstas nos artigos 128.º, 129.º e 172.º do Código dos Valores Mobiliários, no valor de (euro) 1 000;\n\ne) Realização de operações previstas na alínea a) do n.º 1 do artigo 180.º do Código dos Valores Mobiliários, no valor de (euro) 1 000;\n\nf) Dispensa de obrigação de notificação ao devedor no âmbito de operações de titularização, no valor de (euro) 250;\n\ng) Para ser redigida em língua inglesa a ficha técnica de emissão de obrigações titularizadas ou papel comercial emitidos por sociedades de titularização, no valor de (euro) 1 000;\n\n2 - No caso de concessão da autorização referida na alínea a) do número anterior, o valor da taxa aí prevista é descontado no da devida pelo registo da oferta.\n\n3 - É devida à CMVM, pelo requerente, uma taxa de (euro) 2 500 pela concessão ou recusa de aprovação do regulamento de gestão de fundo de garantia previsto nos artigos 35.º e 36.º do Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204425980": {
+   "fragment_id": "201660049",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo de oferta pública de aquisição, de aquisição potestativa e verificação de requisitos para a alienação potestativa",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2004 - Diário da República n.º 121/2004, Série II de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2004-3449564), em vigor a partir de 2004-01-08"
+   ],
+   "markdown": "###### Artigo 5.º — Registo de oferta pública de aquisição, de aquisição potestativa e verificação de requisitos para a alienação potestativa\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa do registo:\n\na) De oferta pública de aquisição, no valor de (euro) 2 500;\n\nb) [Revogado]\n\nc) [Revogado]\n\nd) [Revogado]\n\ne) [Revogado]\n\nf) De aquisição potestativa, no valor de Euro 5000.\n\n2 - No caso de concessão do registo de oferta pública de aquisição, a taxa estabelecida na alínea a) do número anterior é acrescida em:\n\na) 0,05(por mil) do valor da operação, quando se trate de oferta facultativa a que não se aplique o disposto na alínea a) do número 1 do artigo 189.º do Código dos Valores Mobiliários ou oferta sobre obrigações ou outros valores mobiliários equiparados a dívida, não podendo a colecta ser superior a (euro) 75 000;\n\nb) 0,1(por mil) do valor da operação, quando se trate de oferta não abrangida pela alínea anterior, não podendo a colecta ser superior a (euro) 100 000.\n\n3 - [Revogado]\n\n4 - [Revogado]\n\n5 - [Revogado]\n\n6 - A CMVM pode isentar das taxas estabelecidas no presente artigo o registo de oferta pública de aquisição em que o requerente demonstre que a operação em causa se destina a promover a recuperação económica ou financeira do emitente dos valores mobiliários em causa.\n\n7 - É devida à CMVM pelo requerente de acto de verificação dos requisitos de alienação potestativa uma taxa no valor de (euro) 200, no caso do requerente ser titular de participação inferior a 2 % do capital social da sociedade em causa, e de (euro)1 000, nos demais casos.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2004 - Diário da República n.º 121/2004, Série II de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2004-3449564), em vigor a partir de 2004-01-08"
+  },
+  "204425981": {
+   "fragment_id": "201660050",
+   "type": 11,
+   "heading": "Artigo 6.º — Aprovação de prospectos, de publicidade e de nota informativa",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Aprovação de prospectos, de publicidade e de nota informativa\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de aprovação de:\n\na) Prospecto sob a forma de documento único, no valor de:\n\ni) (euro) 2 500, para acções ou outros valores mobiliários emitidos pelo emitente e que podem dar lugar à aquisição de acções representativas do capital do mesmo;\n\nii) (euro) 2 000, para outros valores mobiliários;\n\nb) Prospecto sob a forma de documentos separados, no valor de:\n\ni) (euro) 2 250 pelo documento de registo de acções ou outros valores mobiliários emitidos pelo emitente que podem dar lugar à aquisição de acções representativas do capital do mesmo;\n\nii) (euro) 1 750 pelo documento de registo de outros valores mobiliários;\n\niii) (euro) 250 pela nota sobre os valores mobiliários;\n\nc) Prospecto base, no valor de (euro) 2 000;\n\nd) Prospecto preliminar de recolha de intenções de investimento, no valor de (euro) 1500;\n\ne) Adenda ao prospecto, no valor de (euro) 500;\n\nf) Nota informativa de oferta pública de papel comercial dirigida especificamente a pessoas com residência ou estabelecimento em Portugal, no valor de (euro) 500;\n\ng) Publicidade, no valor de (euro) 500.\n\n2 - Encontram-se isentos do pagamento das taxas previstas nas alíneas a) a e) e alínea g) do número anterior os organismos de investimento colectivo, os fundos de investimento imobiliário, os fundos de capital de risco, os fundos de titularização, bem como as sociedades de capital de risco e de titularização.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204425982": {
+   "fragment_id": "201660051",
+   "type": 11,
+   "heading": "Artigo 7.º — Dispensa",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Dispensa\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de dispensa da tradução prevista no n.º 2 do artigo 6.º do Código dos Valores Mobiliários, no valor de (euro) 250.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204425983": {
+   "fragment_id": "201660052",
+   "type": 11,
+   "heading": "Artigo 8.º — Reconhecimentos",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Reconhecimentos\n\nÉ devida à CMVM, pelo requerente, uma taxa pela concessão ou recusa de reconhecimento de:\n\na) Perda da qualidade de sociedade aberta, no valor de Euro 2500;\n\nb) [Revogado]\n\nc) Relatório ou parecer de auditor não registado na CMVM, no valor de Euro 500.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204425991": {
+   "fragment_id": "204425719",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Requerimentos, entendimentos e esclarecimentos",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Requerimentos, entendimentos e esclarecimentos\n\n1 - É devida à CMVM, pelo requerente, uma taxa pela emissão, por escrito, da resposta a requerimentos ou de um esclarecimento ou entendimento sobre o sentido ou os termos da aplicação das normas legais e regulamentares, a um caso concreto, ainda que hipotético, no valor máximo de (euro) 5 000.\n\n2 - A taxa prevista no número anterior é reduzida para o valor máximo de (euro) 3 000, se o requerente não for entidade emitente, titular de participação qualificada, entidade ou pessoa sujeita a registo na CMVM, advogado ou sociedade de advogados.\n\n3 - Para a determinação em concreto da taxa aplicável a CMVM atende à complexidade e urgência do assunto, bem como à necessidade da sua resposta para o requerente ou para o mercado em geral.\n\n4 - A taxa prevista no presente artigo não é devida nos casos em que o requerimento, esclarecimento ou entendimento a que se refere o número 1:\n\na) Seja publicado pela CMVM como parecer genérico, nos termos do artigo 370.º do Código dos Valores Mobiliários;\n\nb) Seja divulgado pela CMVM, em ofício circular ou meio similar;\n\nc) Tenha de ser prestado ao requerente, por força de legislação que lhe confira o direito a essa informação;\n\nd) Seja prestado ao requerente no âmbito das funções de apoio aos investidores não qualificados desenvolvidas pela CMVM;\n\ne) Se pronuncie no sentido da falta de competência da CMVM para responder ao requerimento ou emitir esclarecimentos ou entendimentos sobre a matéria.\n\n> Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204425992": {
+   "fragment_id": "201660054",
+   "type": 11,
+   "heading": "Artigo 10.º — Cópias e certidões",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 17/2003 - Diário da República n.º 10/2004, Série II de 2004-01-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/17-2003-2156395), em vigor a partir de 2003-01-14"
+   ],
+   "markdown": "###### Artigo 10.º — Cópias e certidões\n\nÉ devida à CMVM, pelo requerente, uma taxa pela emissão de:\n\na) Cópias, no valor de Euro 0,50 por cada página;\n\nb) Certidões cujo conteúdo se reconduza exclusivamente ao referido nas alíneas do n.º 1 do artigo 63.º do Código do Procedimento Administrativo, no valor de Euro 0,50 por cada página;\n\nc) Certidões para efeitos do disposto nas alíneas d) e e) do número 6 do artigo 26.º do Código do Imposto do Selo, no valor de (euro) 3 por cada categoria de valores mobiliários objecto da certidão;\n\nd) Outras certidões, no valor de (euro) 15, acrescido de (euro) 0,75 por cada página.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 17/2003 - Diário da República n.º 10/2004, Série II de 2004-01-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/17-2003-2156395), em vigor a partir de 2003-01-14"
+  },
+  "204425990": {
+   "fragment_id": "201660056",
+   "type": 11,
+   "heading": "Artigo 11.º — Serviços de manutenção do registo de mercados não regulamentados e suas entidades gestoras",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Serviços de manutenção do registo de mercados não regulamentados e suas entidades gestoras\n\n1 - É devida à CMVM, por cada entidade gestora de mercados não regulamentados, uma taxa mensal pela manutenção dos respectivos registos, no valor de Euro 150.\n\n2 - Estão isentas da taxa prevista no número anterior as entidades gestoras de mercados regulamentados que sejam simultaneamente gestoras de mercados não regulamentados.\n\n> Revogado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204425985": {
+   "fragment_id": "201660057",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 3/2005 - Diário da República n.º 133/2005, Série II de 2005-07-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2005-3258171), em vigor a partir de 2005-07-13",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes\n\n1 - É devida à CMVM, pelos emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, uma taxa trimestral pela supervisão da prestação da informação, no valor de:\n\na) (euro) 1 500 no que respeita a emitentes de acções com capitalização bolsista inferior ou igual a (euro) 1 000 000 000;\n\nb) (euro) 3 000 no que respeita a emitentes de acções com capitalização bolsista superior a (euro) 1 000 000 000 e inferior ou igual a (euro) 5 000 000 000;\n\nc) (euro) 4 500 no que respeita a emitentes de acções com capitalização bolsista superior (euro) 5 000 000 000;\n\nd) (euro) 1 000, no que respeita a emitentes de valores mobiliários representativos de dívida;\n\ne) (euro) 1 500, no que respeita a emitentes de outros valores mobiliários.\n\nc) Euro 750, quando tenham outros valores mobiliários admitidos à negociação em mercado regulamentado.\n\n2 - Pelos emitentes em relação aos quais se verifique mais de uma das situações previstas nas alíneas do número anterior, apenas é devida a mais elevada das taxas aplicáveis.\n\n3 - O disposto no presente artigo não é aplicável a sociedades de titularização e a sociedades de capital de risco.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 3/2005 - Diário da República n.º 133/2005, Série II de 2005-07-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2005-3258171), em vigor a partir de 2005-07-13\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204425993": {
+   "fragment_id": "204425720",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Sistema de Indemnização aos Investidores",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 12.º-A — Sistema de Indemnização aos Investidores\n\nÉ devido à Comissão do Mercado de Valores Mobiliários pelo Sistema de Indemnização aos Investidores, em contrapartida dos serviços por aquela prestados, uma taxa mensal de (euro) 2 500.\n\n> Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204425986": {
+   "fragment_id": "201660059",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição das obrigações",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Constituição das obrigações\n\nA obrigação de pagamento das taxas devidas à CMVM constitui-se:\n\na) Em relação à taxa prevista no número 3 do artigo 1.º do presente regulamento, a 1 de Janeiro;\n\nb) Em relação às taxas previstas no artigo 12.º-A do presente regulamento e nos artigos 1.º a 6.º da Portaria 913-I/2003 de 30 de Agosto, no último dia de cada mês, sem prejuízo do disposto na alínea seguinte;\n\nc) Em relação à taxa prevista na alínea b) do n.º 1 do artigo 4.º da Portaria 913-I/2003 de 30 de Agosto, relativa aos fundos de capital de riso, no último dia do quarto mês após o termo de cada semestre;\n\nd) Em relação à taxa prevista no artigo 12.º do presente regulamento, no primeiro dia de negociação de cada trimestre do ano civil;\n\ne)Em relação às restantes taxas previstas nos artigos 1.º a 10.º do presente regulamento, na data da prática, pela CMVM, dos actos neles referidos.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204425987": {
+   "fragment_id": "201660060",
+   "type": 11,
+   "heading": "Artigo 14.º — Liquidação",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Liquidação\n\n1 - As taxas a que se refere o artigo anterior são liquidadas pela CMVM por referência às situações verificadas nas datas nele mencionadas.\n\n2 - Para efeitos do lançamento e da liquidação das taxas previstas no presente regulamento e na Portaria 913-I/2003, de 30 de Agosto valem como declaração dos respectivos devedores as informações que os mesmos devam enviar à CMVM para efeitos de supervisão e que devam indicar elementos correspondentes à base de incidência das referidas taxas.\n\n3 - Para efeitos do lançamento e da liquidação da taxa mensal prevista no artigo 3.º da Portaria 913-I/2003, de 30 de Agosto, considera-se como montante correspondente aos valores mobiliários registados ou depositados em contas abertas junto de cada intermediário financeiro o somatório dos montantes que devam ser por ele declarados nos termos das normas 1.1 e 2.1 da Instrução da CMVM n.º 5/2000, de 21 de Junho, relativamente ao mês a que a taxa respeita.\n\n4 - Para efeitos do lançamento e da liquidação das taxas mensais previstas na alínea b) do n.º 1 do artigo 4.º da Portaria 913-I/2003, de 30 de Agosto, que sejam devidas pelas entidades gestoras de fundos de capital de risco em relação aos meses que medeiem entre o da data da constituição dos fundos em causa, e o mês a que respeite o primeiro apuramento dos correspondentes valores líquidos globais que deva ser comunicado à CMVM, presume-se, salvo prova em contrário dos interessados, que tais valores não excedem os que determinam a aplicação dos valores mínimos das colectas das taxas aplicáveis nos termos da referida norma.\n\n5 - Para efeitos do lançamento e liquidação da taxa prevista nas alíneas a), b) e c) do número 1 do artigo 12.º, a capitalização bolsista relevante é a apurada no primeiro dia de negociação de cada trimestre do ano civil, multiplicando a quantidade admitida pela cotação de fecho, ou, não existindo cotação, pelo valor nominal das acções em causa.\n\n6 - A CMVM procede ao envio aos respectivos devedores das notas de liquidação e cobrança das taxas previstas no presente regulamento e na Portaria 913-I/2003 de 30 de Agosto.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204425988": {
+   "fragment_id": "201660061",
+   "type": 11,
+   "heading": "Artigo 15.º — Deveres de informação",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 15.º — Deveres de informação\n\n1 - Os devedores das taxas e quaisquer entidades sujeitas à jurisdição da CMVM facultam-lhe, dentro do prazo por esta fixado, as informações e os documentos por esta solicitados para efeitos do lançamento e da liquidação das taxas previstas no presente regulamento e na Portaria 913-I/2003 de 30 de Agosto.\n\n2 - Para efeitos da liquidação da taxa prevista na alínea c) do artigo 1.º da Portaria 913-I/2003, de 30 de Agosto, as entidades aí referidas comunicam à CMVM, até ao dia 5 de cada mês, o valor das comissões por si cobradas no mês anterior e que sejam provenientes das operações relevantes para efeitos daquela norma.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204425989": {
+   "fragment_id": "201660063",
+   "type": 11,
+   "heading": "Artigo 17.º — Prazos de pagamento",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Prazos de pagamento\n\n1 - As taxas de periodicidade:\n\na) Anual são pagas até ao final do mês de Janeiro de cada ano;\n\nb) Mensal são pagas até ao final do mês seguinte àquele a que respeitam;\n\nc) Trimestral são pagas até ao fim do primeiro mês do trimestre do ano civil a que respeitam.\n\n2 - As restantes taxas previstas nos artigos 1.º a 10.º do presente regulamento são pagas:\n\na) No prazo de cinco dias úteis após a data da recepção da notificação do deferimento ou indeferimento do pedido;\n\nb) No prazo de 15 dias após a data de emissão inscrita na nota de liquidação e cobrança, se o final deste prazo for posterior ao do previsto na alínea anterior.\n\n3 - Para efeitos do disposto na alínea a) do número anterior, nos casos em que ocorra deferimento ou indeferimento tácito do pedido, considera-se como data da recepção da respectiva notificação a data de formação do acto tácito.\n\n4 - As taxas previstas no artigo 10.º do presente regulamento são pagas no momento do levantamento das certidões ou cópias a que respeitem, se este for efectuado antes do final dos prazos previstos no n.º 2.\n\n5 - Nos casos em que haja lugar à emissão de segundas vias de notas de liquidação e cobrança ou de notas de liquidação e cobrança rectificativas ou adicionais, a CMVM procede ao envio das mesmas por correio registado com aviso de recepção ou por qualquer outro meio que permita a prova da recepção, e o correspondente pagamento é efectuado no prazo de oito dias após a data da respectiva recepção.\n\n6 - Os pagamentos a que se refere o número 3 do artigo 1.º e o número 1 do artigo 12.º têm a natureza de pagamentos definitivos, não havendo lugar a qualquer devolução, total ou parcial, dos mesmos, ainda que durante o período a que respeita a taxa deixem de se verificar os pressupostos que deram origem à respectiva liquidação.\n\n7 - As taxas devidas pelas entidades gestoras de fundos de capital de risco são pagas até ao final do quinto mês após o termo de cada semestre.\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204426016": {
+   "fragment_id": "201660044",
+   "type": 1,
+   "heading": "Capítulo I — Atos e serviços de registo, autorizações e aprovações e outros atos",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+   ],
+   "markdown": "### Capítulo I — Atos e serviços de registo, autorizações e aprovações e outros atos\n\n> Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+  },
+  "204426019": {
+   "fragment_id": "201660045",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo de entidades",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Registo de entidades\n\n1 - É devido à CMVM, pelo requerente, um montante pelo pedido de registo inicial, independentemente da sua concessão ou recusa, de:\n\na) Entidades que giram:\n\ni) Mercados regulamentados, sistemas de negociação multilateral ou sistemas de negociação organizados, no valor de (euro) 7 500;\n\nii) Sistemas de negociação multilateral enquanto mercado de PME em crescimento e outros mercados organizados, no valor de (euro) 2 500;\n\niii) Sistemas de liquidação, no valor de (euro) 7 500;\n\niv) Sistemas centralizados de valores mobiliários, no valor de (euro) 7 500;\n\nv) Câmaras de compensação, no valor de (euro) 5 000;\n\nvi) Contrapartes centrais, no valor de (euro) 7 500;\n\nvii) Sistemas de prestação de informação consolidada (CTP), no valor de (euro) 7 500;\n\nviii) Sistemas de reporte autorizado (ARM) ou sistemas de publicação autorizado (APA), no valor de (euro) 2 500;\n\nix) Plataformas de financiamento colaborativo de capital ou por empréstimo, no valor de (euro) 1 000;\n\nb) Internalizadores sistemáticos, no valor de (euro) 2 500;\n\nc) Intermediários financeiros e sucursais de instituições de crédito ou de empresas de investimento não autorizados na União Europeia e não mencionados nas alíneas seguintes, no valor de (euro) 7 500;\n\nd) Sociedades de capital de risco, sociedades de empreendedorismo social, sociedades de investimento mobiliário para fomento da economia, fundos de capital de risco, fundos de empreendedorismo social e fundos alternativos de investimento especializado, no valor de (euro) 2 500;\n\ne) Sociedades que pretendam utilizar a designação EuVECA ou EuSEF:\n\ni) No caso de sociedades previamente registadas ou autorizadas pela CMVM, no valor de (euro) 1 250;\n\nii) Nas demais sociedades, no valor de (euro) 2 500;\n\nf) Sociedades de titularização de créditos, no valor de (euro) 2 500;\n\ng) Associações de defesa de investidores e federações de associações de defesa do consumidor, no valor de (euro) 200;\n\nh) Sociedades de consultoria para investimento, no valor de (euro) 2 500;\n\ni) Entidades certificadoras de prestadores de serviços ou atividades supervisionadas pela CMVM, no valor de (euro) 1 500;\n\nj) Investidores de capital de risco, no valor de (euro) 1 000;\n\nk) Peritos avaliadores de imóveis, no valor de (euro) 1 000 no caso de pessoas coletivas e de (euro) 500 no caso de pessoas singulares;\n\nl) Consultores para investimento autónomos, no valor de (euro) 1 000;\n\nm) Administradores de benchmark, no valor de (euro) 2 500.\n\n2 - Os montantes a que se refere o número anterior abrangem todos os factos incluídos no registo inicial, mesmo que estes se encontrem sujeitos a outros montantes de forma autónoma, nos termos do presente regulamento.\n\n3 - Pela apresentação do pedido de levantamento de suspensão de atividade dentro do prazo estipulado para o efeito, é devido pelo requerente, pela verificação do cumprimento dos requisitos, um montante no valor de metade do valor fixado para o registo inicial.\n\n4 - Em cada ano civil é devido pelos sujeitos registados mencionados no n.º 1 e não sujeitos ao pagamento de taxa de supervisão contínua um montante anual pela manutenção do registo equivalente a metade do valor fixado para o registo inicial.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204426020": {
+   "fragment_id": "201660046",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo de mercados, sistemas de negociação, sistemas conexos, atividades, serviços e regras",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Registo de mercados, sistemas de negociação, sistemas conexos, atividades, serviços e regras\n\n1 - É devido à CMVM, pelo requerente, um montante pelo pedido de registo inicial, independentemente da sua concessão ou recusa, de cada:\n\na) Mercado regulamentado, sistema de negociação multilateral ou sistema de negociação organizado, no valor de (euro) 7 500;\n\nb) Sistemas de negociação multilateral enquanto mercado de PME em crescimento ou outro mercado organizado, no valor de (euro) 2 500;\n\nc) Sistema centralizado de valores mobiliários, no valor de (euro) 7 500;\n\nd) Sistema de liquidação, no valor de (euro) 7 500;\n\ne) Câmaras de compensação, no valor de (euro) 5 000;\n\nf) Contrapartes centrais, no valor de (euro) 7 500;\n\ng) Sistemas de prestação de informação consolidada (CTP), no valor de (euro) 7 500;\n\nh) Sistemas de reporte autorizado (ARM) ou sistemas de publicação autorizado (APA), no valor de (euro) 2 500;\n\ni) Um dos seguintes serviços ou atividades, auxiliares ou principais, de investimento, no valor de (euro) 1 500:\n\ni) Receção e a transmissão de ordens por conta de outrem;\n\nii) Execução de ordens por conta de outrem;\n\niii) Gestão de carteiras;\n\niv) Negociação por conta própria;\n\nv) Registo e o depósito de instrumentos financeiros, bem como os serviços relacionados com a sua guarda, como a gestão de tesouraria ou de garantias;\n\nj) Um dos seguintes serviços ou atividades, auxiliares ou principiais, de investimento, no valor de (euro) 1 000:\n\ni) Tomada firme e ou a colocação com ou sem garantia, em oferta pública de distribuição;\n\nii) Concessão de crédito, incluindo o empréstimo de instrumentos financeiros, para a realização de operações sobre instrumentos financeiros em que intervém a entidade concedente do crédito;\n\niii) Consultoria para investimento em valores mobiliários, a consultoria sobre a estrutura de capital, a estratégia industrial e questões conexas, bem como sobre a fusão e a aquisição de empresas;\n\niv) Assistência em oferta pública relativa a valores mobiliários;\n\nv) Estudos de investimento e análise financeira relacionada com transações de instrumentos financeiros;\n\nvi) Serviços de câmbios e o aluguer de cofres-fortes ligados à prestação de serviços de investimento;\n\nk) Uma das seguintes atividades de gestão de instituições de investimento coletivo, quando o requerente seja intermediário financeiro:\n\ni) Organismos de investimento coletivo em valores mobiliários, no valor de (euro) 7 500;\n\nii) Organismos de investimento alternativo em valores mobiliários, no valor de (euro) 7 500;\n\niii) Organismos de investimento em ativos não financeiros, no valor de (euro) 7 500;\n\niv) Organismos de investimento imobiliário, no valor de (euro) 7 500;\n\nv) Organismos de investimento em capital de risco, no valor de (euro) 2 500;\n\nvi) Organismos de empreendedorismo social, no valor de (euro) 2 500;\n\nvii) Organismos de investimento alternativo especializado, no valor de (euro) 2 500;\n\nviii) Fundos de titularização de créditos, no valor de (euro) 2 500;\n\nSalvo quando o requerente seja sociedade de investimento mobiliário ou sociedade de investimento imobiliário autogerida, caso em que o valor é de (euro) 2 500;\n\nl) Atividade de depositário de organismos de investimento coletivo, no valor de (euro) 2 500.\n\n2 - Quando o requerente esteja registado ou requeira o registo para uma das atividades previstas:\n\na) Nas subalíneas i) a iv) da alínea k) do número anterior e pretenda registar-se para uma atividade adicional de entre as previstas nas subalíneas i) a vii) da mesma alínea, fica sujeito ao pagamento de montante adicional de (euro) 1 000 por cada nova atividade;\n\nb) Nas subalíneas v) a vii) da alínea k) do número anterior e:\n\ni) Pretenda registar-se para uma atividade adicional de entre estas, fica sujeito ao pagamento de montante adicional de (euro) 1 000 por cada nova atividade;\n\nii) Pretenda registar-se para uma atividade adicional de entre as previstas nas subalíneas i) a iv) da mesma alínea, fica sujeito ao pagamento adicional de (euro) 6 000 pela primeira atividade adicional e (euro) 1 000 por cada atividade adicional.\n\n3 - É devido à CMVM, pela sociedade de titularização de créditos requerente, um montante pelo pedido de concessão inicial de código alfanumérico de:\n\na) (euro) 5 000, relativo a emissões de obrigações titularizadas de montante inferior ou igual a (euro) 100 000 000;\n\nb) (euro) 10 000, relativo a emissões de obrigações titularizadas de montante superior a (euro) 100 000 000 e inferiores ou iguais a (euro) 750 000 000;\n\nc) (euro) 20 000, relativo a emissões de obrigações titularizadas de montante superior a (euro) 750 000 000.\n\n4 - É devido um montante por cada averbamento ao registo de regras nos casos a que se referem a alínea b) do n.º 1 do artigo 1.º e as alíneas a) a f) do n.º 1 do presente artigo, no valor de (euro) 250.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204426021": {
+   "fragment_id": "201660047",
+   "type": 11,
+   "heading": "Artigo 3.º — Comercialização de organismos de investimento coletivo estrangeiros",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Comercialização de organismos de investimento coletivo estrangeiros\n\n1 - É devido à CMVM, pelo requerente, um montante pelo pedido de autorização, independentemente da sua concessão ou recusa, de comercialização de organismos de investimento coletivo estrangeiros e de compartimentos patrimoniais autónomos destes no valor de (euro) 5 000 e (euro) 500, respetivamente.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204426022": {
+   "fragment_id": "201660048",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorizações e aprovações",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 4.º — Autorizações e aprovações\n\n1 - É devido à CMVM, pelo requerente, um montante pelo pedido de autorização para constituição, independentemente da sua concessão ou recusa, de:\n\na) Sociedades gestoras de fundos de capital de risco, no valor de (euro) 7 500;\n\nb) Organismos de investimento coletivo sob forma societária previstos no RGOIC, no valor de (euro) 2 500, no caso de heterogeridos, e de (euro) 7 500, no caso de autogeridos;\n\nc) Sociedades de investimento em capital de risco e sociedades de investimento alternativo especializado heterogeridas, no valor de valor de (euro) 2 500;\n\nd) Sociedades de investimento em capital de risco e sociedades de investimento alternativo especializado autogeridas e fundos europeus de investimento a longo prazo autogeridos, previstos no Regulamento (UE) 2015/760, do Parlamento Europeu e do Conselho, de 29 de abril de 2015, no valor de valor de (euro) 10 000;\n\ne) Fundos de investimento, no valor de (euro) 2 500;\n\nf) Fundos europeus de investimento a longo prazo heterogeridos, previstos no Regulamento (UE) 2015/760, do Parlamento Europeu e do Conselho, de 29 de abril de 2015, no valor de (euro) 2 500;\n\ng) (Revogada.)\n\n2 - É devido à CMVM, pelo requerente, um montante pelo pedido de autorização ou aprovação, independentemente da sua concessão ou recusa, de:\n\na) Sucessão de ofertas, prevista no artigo 186.º do Código de Valores Mobiliários, no valor de (euro) 2 500;\n\nb) Modificação, retirada ou revisão da oferta prevista nos artigos 128.º, 129.º e 172.º do Código dos Valores Mobiliários, no valor de (euro) 2 500;\n\nc) Realização de operações previstas na alínea a) do n.º 1 do artigo 180.º do Código dos Valores Mobiliários, no valor de (euro) 2 500;\n\nd) Creditação de cursos universitários, no valor de (euro) 2 500.\n\n3 - No caso de concessão da autorização referida na alínea a) do número anterior, o valor do montante aí previsto é descontado no valor do montante devido pelo registo da oferta.\n\n4 - É devido à CMVM, pelo requerente, pelo pedido de aprovação, independentemente da sua concessão ou recusa, do regulamento de gestão de fundo de garantia previsto nos artigos 35.º e 36.º do Código dos Valores Mobiliários, um montante no valor de (euro) 2 500.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204426023": {
+   "fragment_id": "201660049",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo de oferta pública de aquisição, de aquisição potestativa e verificação de requisitos para a alienação potestativa",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2004 - Diário da República n.º 121/2004, Série II de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2004-3449564), em vigor a partir de 2004-01-08"
+   ],
+   "markdown": "###### Artigo 5.º — Registo de oferta pública de aquisição, de aquisição potestativa e verificação de requisitos para a alienação potestativa\n\n1 - É devido à CMVM, pelo requerente, um montante pelo pedido de apreciação da documentação necessária para a verificação dos requisitos relacionados com a concessão de aprovação ou recusa de registo:\n\na) De oferta pública de aquisição, no valor de (euro) 10 000;\n\nb) [Revogado]\n\nc) [Revogado]\n\nd) [Revogado]\n\ne) [Revogado]\n\nf) De aquisição potestativa, no valor de (euro) 7 500.\n\n2 - No caso de concessão do registo de oferta pública de aquisição, o montante estabelecido na alínea a) do número anterior é acrescido em:\n\na) 0,1 (por mil) do valor da operação efetuada, quando se trate de oferta facultativa a que não se aplique o disposto na alínea a) do n.º 1 do artigo 189.º do Código dos Valores Mobiliários ou oferta sobre obrigações ou outros valores mobiliários equiparados a dívida, não podendo a coleta ser superior a (euro) 100 000;\n\nb) 0,15 (por mil), do valor da operação efetuada, quando se trate de oferta não abrangida pela alínea anterior, não podendo a coleta ser superior a (euro) 150 000.\n\n3 - A CMVM pode isentar dos montantes estabelecidos no presente artigo o registo de oferta pública de aquisição em que o requerente demonstre que a operação em causa se destina a promover a recuperação económica ou financeira do emitente dos valores mobiliários em causa.\n\n4 - É devido à CMVM pelo requerente de ato de verificação dos requisitos de alienação potestativa um montante no valor:\n\na) De (euro) 500, no caso de o requerente ser titular de participação inferior a 2 % do capital social da sociedade em causa;\n\nb) De (euro) 1 500 nos demais casos.\n\n5 - Os montantes referidos nos n.os 1 e 4 são pagos no ato do pedido de apreciação da documentação não havendo lugar à sua devolução ainda que o requerente venha posteriormente a cancelar o pedido efetuado.\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2004 - Diário da República n.º 121/2004, Série II de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2004-3449564), em vigor a partir de 2004-01-08"
+  },
+  "204426024": {
+   "fragment_id": "201660050",
+   "type": 11,
+   "heading": "Artigo 6.º — Prospetos, documentos de informação, notas informativas, publicidade e informação ao investidor",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Prospetos, documentos de informação, notas informativas, publicidade e informação ao investidor\n\n1 - É devido à CMVM, pelo requerente ou entidade comunicante, um montante pela apreciação da documentação instruída para efeitos de pedido de autorização, aprovação, comunicação prévia sujeita a oposição, notificação, mera comunicação ou divulgação de:\n\na) Prospeto sob a forma de documento único, no valor de:\n\ni) (euro) 10 000, para valores mobiliários representativos de capital, nos termos da definição da Diretiva dos Prospetos, acrescida em 0,15 (por mil) do valor da emissão e ou venda efetuada, não podendo a coleta ser superior a (euro) 100 000;\n\nii) (euro) 2 500, para outros valores mobiliários, acrescido em 0,05 (por mil) do valor da emissão e ou venda efetuada, não podendo a coleta ser superior a (euro) 50 000;\n\nb) Prospeto sob a forma de documentos separados, no valor de:\n\ni) (euro) 5 000 pelo documento de registo para valores mobiliários representativos de capital, nos termos da definição da Diretiva dos Prospetos;\n\nii) (euro) 2 000 pelo documento de registo de outros valores mobiliários;\n\niii) (euro) 1 500 pela nota sobre os valores mobiliários, para valores mobiliários representativos de capital, nos termos da definição da Diretiva dos Prospetos acrescida em 0,1 (por mil) do valor da emissão, não podendo a coleta ser superior a (euro) 50 000;\n\niv) (euro) 500, para outros valores mobiliários, acrescida em 0,05 (por mil) do valor da emissão, não podendo a coleta ser superior a (euro) 25 000;\n\nc) Prospeto base, no valor de (euro) 5 000;\n\nd) Prospeto preliminar de recolha de intenções de investimento, no valor de (euro) 2 000;\n\ne) Adenda ao prospeto, no valor de (euro) 1 500;\n\nf) Documento com informações consideradas pela CMVM equivalentes às de um prospeto, elaborado para os efeitos do disposto na alínea a) do n.º 2 do artigo 134.º do Código dos Valores Mobiliários, no valor de (euro) 5 000;\n\ng) Nota informativa de oferta pública de papel comercial dirigida especificamente a pessoas com residência ou estabelecimento em Portugal, no valor de (euro) 1 000;\n\nh) Documento de informação fundamental relativo ao investimento em pacotes de produtos de investimento de retalho e de produtos de investimento com base em seguros (PRIIP), no valor de (euro) 1 000, com exceção das respetivas atualizações;\n\ni) Publicidade para campanhas publicitárias com até 4 peças, no valor de (euro) 1 000, a que acrescem (euro) 150 por cada peça e ou renovação do pedido de aprovação.\n\n2 - Os montantes fixos referidos no número anterior são pagos no ato do pedido de apreciação da documentação, não havendo lugar à sua devolução ainda que o requerente venha posteriormente a cancelar o pedido efetuado.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204426025": {
+   "fragment_id": "201660051",
+   "type": 11,
+   "heading": "Artigo 7.º — Dispensa",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Dispensa\n\nÉ devido à CMVM, pelo requerente, um montante pelo pedido de dispensa da tradução prevista no n.º 2 do artigo 6.º do Código dos Valores Mobiliários, independentemente da sua concessão ou recusa, no valor de (euro) 250.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204426026": {
+   "fragment_id": "201660052",
+   "type": 11,
+   "heading": "Artigo 8.º — Reconhecimentos",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Reconhecimentos\n\nÉ devido à CMVM, pelo requerente, um montante pelo pedido de reconhecimento de perda da qualidade de sociedade aberta, independentemente da sua concessão ou recusa, no valor de (euro) 7 500.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204426027": {
+   "fragment_id": "201660053",
+   "type": 11,
+   "heading": "Artigo 9.º — Declarações",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+   ],
+   "markdown": "###### Artigo 9.º — Declarações\n\n1 - É devido à CMVM, pelo requerente, um montante pelo pedido de emissão da declaração prevista no n.º 2 do artigo 189.º do Código dos Valores Mobiliários, no valor de (euro) 5 000.\n\n2 - Está isento do pagamento do montante previsto no número anterior o pedido efetuado ao abrigo do disposto na alínea b) do n.º 1 do artigo 189.º do Código dos Valores Mobiliários.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+  },
+  "204426028": {
+   "fragment_id": "204425719",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Requerimentos, entendimentos e esclarecimentos",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Requerimentos, entendimentos e esclarecimentos\n\n1 - É devido à CMVM, pelo requerente, um montante pela emissão, por escrito, da resposta a requerimentos ou de um esclarecimento ou entendimento sobre o sentido ou os termos da aplicação das normas legais e regulamentares, a um caso concreto, ainda que hipotético, no valor máximo de (euro) 25 000.\n\n2 - (Revogado.)\n\n3 - Para a determinação em concreto do montante aplicável a CMVM atende à complexidade e urgência do assunto, à necessidade da sua resposta para o requerente ou para o mercado em geral, assim como ao destinatário.\n\n4 - O montante previsto no presente artigo não é devido nos casos em que o requerimento, esclarecimento ou entendimento a que se refere o n.º 1:\n\na) Seja publicado pela CMVM como parecer genérico, nos termos do artigo 370.º do Código dos Valores Mobiliários;\n\nb) Seja divulgado pela CMVM, em ofício circular ou meio similar;\n\nc) Tenha de ser prestado ao requerente, por força de legislação que lhe confira o direito a essa informação;\n\nd) Seja prestado ao requerente no âmbito das funções de apoio aos investidores não qualificados desenvolvidas pela CMVM;\n\ne) Se pronuncie no sentido da falta de competência da CMVM para responder ao requerimento ou emitir esclarecimentos ou entendimentos sobre a matéria.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204426029": {
+   "fragment_id": "201660054",
+   "type": 11,
+   "heading": "Artigo 10.º — Cópias e certidões",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 17/2003 - Diário da República n.º 10/2004, Série II de 2004-01-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/17-2003-2156395), em vigor a partir de 2003-01-14"
+   ],
+   "markdown": "###### Artigo 10.º — Cópias e certidões\n\n1 - É devido à CMVM, pelo requerente, um montante pelo pedido de emissão de:\n\na) Cópias, no valor de Euro 0,50 por cada página;\n\nb) Certidões cujo conteúdo se reconduza exclusivamente ao referido nas alíneas do n.º 1 do artigo 84.º do Código do Procedimento Administrativo, no valor de (euro) 0,50 por cada página;\n\nc) Certidões para efeitos do disposto nas alíneas d) e e) do número 6 do artigo 26.º do Código do Imposto do Selo, no valor de (euro) 3 por cada categoria de valores mobiliários objecto da certidão;\n\nd) Outras certidões, no valor de (euro) 15, acrescido de (euro) 0,75 por cada página.\n\n2 - Sem prejuízo das custas que sejam devidas no âmbito do respetivo processo, estão isentos do pagamento do montante a que se refere a alínea a) do número anterior os pedidos referentes a processos de contraordenação apresentados pelos respetivos arguidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 17/2003 - Diário da República n.º 10/2004, Série II de 2004-01-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/17-2003-2156395), em vigor a partir de 2003-01-14"
+  },
+  "204426034": {
+   "fragment_id": "201660056",
+   "type": 11,
+   "heading": "Artigo 11.º — Serviços de manutenção do registo de mercados não regulamentados e suas entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283)",
+    "Revogado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Serviços de manutenção do registo de mercados não regulamentados e suas entidades gestoras\n\n1 - É devida à CMVM, por cada entidade gestora de mercados não regulamentados, uma taxa mensal pela manutenção dos respectivos registos, no valor de Euro 150.\n\n2 - Estão isentas da taxa prevista no número anterior as entidades gestoras de mercados regulamentados que sejam simultaneamente gestoras de mercados não regulamentados.\n\n> Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283)\n\n> Revogado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204426036": {
+   "fragment_id": "201660057",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283)",
+    "Revogado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 3/2005 - Diário da República n.º 133/2005, Série II de 2005-07-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2005-3258171), em vigor a partir de 2005-07-13",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Serviços de supervisão da informação prestada pelos emitentes\n\n1 - É devida à CMVM, pelos emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, uma taxa trimestral pela supervisão da prestação da informação, no valor de:\n\na) (euro) 1 500 no que respeita a emitentes de acções com capitalização bolsista inferior ou igual a (euro) 1 000 000 000;\n\nb) (euro) 3 000 no que respeita a emitentes de acções com capitalização bolsista superior a (euro) 1 000 000 000 e inferior ou igual a (euro) 5 000 000 000;\n\nc) (euro) 4 500 no que respeita a emitentes de acções com capitalização bolsista superior (euro) 5 000 000 000;\n\nd) (euro) 1 000, no que respeita a emitentes de valores mobiliários representativos de dívida;\n\ne) (euro) 1 500, no que respeita a emitentes de outros valores mobiliários.\n\nc) Euro 750, quando tenham outros valores mobiliários admitidos à negociação em mercado regulamentado.\n\n2 - Pelos emitentes em relação aos quais se verifique mais de uma das situações previstas nas alíneas do número anterior, apenas é devida a mais elevada das taxas aplicáveis.\n\n3 - O disposto no presente artigo não é aplicável a sociedades de titularização e a sociedades de capital de risco.\n\n> Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283)\n\n> Revogado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 3/2005 - Diário da República n.º 133/2005, Série II de 2005-07-13](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2005-3258171), em vigor a partir de 2005-07-13\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204426038": {
+   "fragment_id": "204425720",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Sistema de Indemnização aos Investidores",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 12.º-A — Sistema de Indemnização aos Investidores\n\nÉ devido à CMVM pelo Sistema de Indemnização aos Investidores, em contrapartida dos serviços por aquela prestados, um montante mensal no valor de (euro) 5 000.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204426040": {
+   "fragment_id": "204425759",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Nova difusão e reabertura de ciclo de reporte ou de divulgação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+   ],
+   "markdown": "###### Artigo 12.º-B — Nova difusão e reabertura de ciclo de reporte ou de divulgação\n\n1 - É devido à CMVM, pela entidade sujeita a um dever de informação, um montante no valor de (euro) 100 por cada reporte, divulgação ou difusão realizado dois dias úteis após o prazo definido, que substitua, no todo ou em parte, o conteúdo inicialmente reportado ou a informação prestada ao mercado.\n\n2 - Na eventualidade de a informação substituída implicar a substituição de outras informações realizadas ao abrigo do mesmo dever de reporte ou de divulgação, é cobrado um montante único de (euro) 100.\n\n> Aditado pelo/a Artigo 3.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+  },
+  "204426017": {
+   "fragment_id": "201660058",
+   "type": 1,
+   "heading": "Capítulo II — Liquidação e pagamento",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+   ],
+   "markdown": "### Capítulo II — Liquidação e pagamento\n\n> Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+  },
+  "204426031": {
+   "fragment_id": "201660059",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição das obrigações",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Constituição das obrigações\n\nA obrigação de pagamento das taxas, tarifas e outros montantes devidos à CMVM constitui-se:\n\na) Em relação às obrigações previstas no n.º 4 do artigo 1.º do presente regulamento e nos artigos 5.º-A, 6.º-A e 6.º-F da Portaria n.º 913-I/2003, de 30 de agosto, a 1 de janeiro;\n\nb) Em relação às obrigações previstas no artigo 12.º-A do presente regulamento e nos artigos 1.º a 6.º-E da Portaria n.º 913-I/2003, de 30 de agosto, no último dia de cada mês, sem prejuízo do disposto nas alíneas c), d) e f) seguintes;\n\nc) Em relação às obrigações previstas no n.º 5 do artigo 4.º e nas alíneas b) e c) do n.º 1 do artigo 4.º-A da Portaria n.º 913-I/2003, de 30 de agosto, no último dia do quarto mês após o termo de cada semestre;\n\nd) Em relação à obrigação prevista no artigo 6.º-B da Portaria n.º 913-I/2003, de 30 de agosto, no primeiro dia de negociação de cada trimestre do ano civil;\n\ne) Em relação às obrigações previstas no n.º 5 do artigo 5.º e no n.º 2 do artigo 6.º do presente regulamento, na data neles referida;\n\nf) Em relação às restantes obrigações previstas nos artigos 1.º a 12.º-B do presente regulamento, na data da prática, pela CMVM, dos atos neles referidos;\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204426008": {
+   "fragment_id": "201660060",
+   "type": 11,
+   "heading": "Artigo 14.º — Liquidação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Liquidação\n\n1 - As taxas, tarifas e outros montantes a que se refere o artigo anterior são liquidados pela CMVM, por referência às situações verificadas nas datas nele mencionadas.\n\n2 - Para efeitos do lançamento e da liquidação das taxas, tarifas e outros montantes previstos no presente regulamento e na Portaria n.º 913-I/2003, de 30 de agosto, valem como declaração dos respetivos devedores as informações que os mesmos devam enviar à CMVM para efeitos de supervisão e que devam indicar elementos correspondentes à base de incidência das referidas obrigações.\n\n3 - Para efeitos do lançamento e da liquidação da taxa mensal prevista no artigo 3.º da Portaria n.º 913-I/2003, de 30 de Agosto, considera-se como montante correspondente aos valores mobiliários registados ou depositados em contas abertas junto de cada intermediário financeiro o somatório dos montantes que devam ser por ele declarados nos termos das normas 1.1 e 2.1 da Instrução da CMVM n.º 2/2011, de 3 de março, relativamente ao mês a que a taxa respeita.\n\n4 - [Revogado].\n\n5 - Para efeitos do lançamento e liquidação da taxa prevista no n.º 1 do artigo 6.º-B da Portaria n.º 913-I/2003, de 30 de agosto, a capitalização bolsista relevante é a apurada no primeiro dia de negociação de cada trimestre do ano civil, multiplicando a quantidade admitida pela cotação de fecho, ou, não existindo cotação, pelo valor nominal dos valores mobiliários em causa.\n\n6 - A liquidação das taxas, tarifas e outros montantes tem em conta o disposto na portaria que autoriza a CMVM a majorá-los tendo em vista perfazer o montante da prestação anual a que se refere o artigo 35.º dos Estatutos da Autoridade da Concorrência, aprovados pelo Decreto-Lei n.º 125/2014, de 18 de agosto.\n\n7 - A CMVM procede ao envio aos respetivos destinatários das notas de liquidação e cobrança das taxas, tarifas e outros montantes previstos no presente regulamento e nas portarias a que se referem os números anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204426009": {
+   "fragment_id": "201660061",
+   "type": 11,
+   "heading": "Artigo 15.º — Deveres de informação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 15.º — Deveres de informação\n\n1 - Sem prejuízo do disposto em legislação aplicável ou do fixado pela CMVM em sentido diverso, os devedores das taxas, tarifas e outros montantes e quaisquer entidades sujeitas à jurisdição da CMVM facultam-lhe, até ao dia 8 do mês seguinte ao do termo do período de referência, as informações e os documentos por esta solicitados para efeitos do lançamento e da liquidação.\n\n2 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  },
+  "204426010": {
+   "fragment_id": "201660062",
+   "type": 11,
+   "heading": "Artigo 16.º — Juros compensatórios",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Juros compensatórios\n\nQuando, por facto imputável ao devedor, for retardada a liquidação de parte ou da totalidade da taxa, tarifa ou outro montante devidos, são devidos juros compensatórios, nos termos do artigo 35.º da Lei Geral Tributária.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01"
+  },
+  "204426032": {
+   "fragment_id": "201660063",
+   "type": 11,
+   "heading": "Artigo 17.º — Prazos de pagamento",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28",
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Prazos de pagamento\n\n1 - As taxas, tarifas e outros montantes de periodicidade:\n\na) Anual são pagos até ao final do mês de janeiro de cada ano, à exceção da obrigação referida no artigo 5.º-A da Portaria n.º 913-I/2003, de 30 de agosto, que é paga até ao final de junho de cada ano;\n\nb) Mensal são pagos até ao final do mês seguinte a que respeitam;\n\nc) Trimestral são pagos até ao fim do primeiro mês do trimestre do ano civil a que respeitam;\n\nd) Semestral são pagos até ao final do mês seguinte ao termo do semestre, à exceção das obrigações previstas no n.º 5 do artigo 4.º e nas alínea b) e c) do n.º 1 do artigo 4.º-A da Portaria n.º 913-I/2003, de 30 de agosto, que são pagas até ao fim do 5.º mês após o termo de cada semestre.\n\n2 - As demais obrigações previstas nos artigos 1.º a 12.º-B do presente regulamento são pagas:\n\na) No prazo de cinco dias úteis após a data da recepção da notificação do deferimento ou indeferimento do pedido;\n\nb) No prazo de 15 dias após a data de emissão inscrita na nota de liquidação e cobrança, se o final deste prazo for posterior ao do previsto na alínea anterior.\n\nc) Em relação às obrigações previstas no n.º 5 do artigo 5.º e no n.º 2 do artigo 6.º do presente regulamento, no momento e termos neles indicado\n\n3 - Para efeitos do disposto na alínea a) do número anterior, nos casos em que ocorra deferimento ou indeferimento tácito do pedido, considera-se como data da receção da respetiva notificação a data de formação do ato tácito.\n\n4 - Os montantes previstos no artigo 10.º do presente regulamento são pagos no momento do levantamento das certidões ou cópias a que respeitam, se este for efetuado antes do final dos prazos previstos no n.º 2.\n\n5 - Nos casos em que haja lugar à emissão de segundas vias de notas de liquidação e cobrança ou de notas de liquidação e cobrança retificativas ou adicionais, a CMVM procede ao envio das mesmas por correio registado com aviso de receção ou por qualquer outro meio que permita a prova da receção, e o correspondente pagamento é efetuado no prazo de oito dias após a data da respetiva receção.\n\n6 - Os pagamentos a que se referem o n.º 4 do artigo 1.º do presente regulamento e os artigos 5.º-A, 6.º-A, 6.º-B e 6.º-F da Portaria n.º 913-I/2003, de 30 de agosto, têm a natureza de pagamentos definitivos, não havendo lugar a qualquer devolução, total ou parcial, dos mesmos, ainda que durante o período a que respeita a taxa, tarifa ou outro montante deixem de se verificar os pressupostos que deram origem à respetiva liquidação.\n\n7 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 6/2004 - Diário da República n.º 222/2004, Série II de 2004-09-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2004-2799031), em vigor a partir de 2004-10-01"
+  },
+  "204426012": {
+   "fragment_id": "201660064",
+   "type": 11,
+   "heading": "Artigo 18.º — Forma de pagamento",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Forma de pagamento\n\nO pagamento das taxas, tarifas e outros montantes pode ser efetuado pelas seguintes formas:\n\na) Em dinheiro;\n\nb) Por cheque cruzado, passado à ordem da Comissão do Mercado de Valores Mobiliários;\n\nc) Por transferência bancária, devendo o devedor comunicá-la por escrito à CMVM na data da sua realização;\n\nd) Por transferência electrónica, se este sistema se encontrar disponível.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01"
+  },
+  "204426013": {
+   "fragment_id": "201660065",
+   "type": 11,
+   "heading": "Artigo 19.º — Juros de mora",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Juros de mora\n\nQuando o devedor não pague as taxas, tarifas e outros montantes devidos nos prazos estabelecidos no presente regulamento, são devidos juros de mora, nos termos do artigo 44.º da Lei Geral Tributária.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01"
+  },
+  "204426018": {
+   "fragment_id": "201660066",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": "2018-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+   ],
+   "markdown": "### Capítulo III — Disposições finais\n\n> Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 2/2018 - Diário da República n.º 122/2018, Série II de 2018-06-27](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2018-115596283), em vigor a partir de 2018-06-28"
+  },
+  "215235896": {
+   "fragment_id": "201660060",
+   "type": 11,
+   "heading": "Artigo 14.º — Liquidação",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 9/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série II de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/9-2018-117543985), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Liquidação\n\n1 - As taxas, tarifas e outros montantes a que se refere o artigo anterior são liquidados pela CMVM, por referência às situações verificadas nas datas nele mencionadas.\n\n2 - Para efeitos do lançamento e da liquidação das taxas, tarifas e outros montantes previstos no presente regulamento e na Portaria n.º 913-I/2003, de 30 de agosto, valem como declaração dos respetivos devedores as informações que os mesmos devam enviar à CMVM para efeitos de supervisão e que devam indicar elementos correspondentes à base de incidência das referidas obrigações.\n\n3 - Para efeitos do lançamento e da liquidação da taxa mensal prevista no artigo 3.º da Portaria n.º 913-I/2003, de 30 de Agosto, considera-se como montante correspondente aos valores mobiliários registados ou depositados em contas abertas junto de cada intermediário financeiro o somatório dos montantes que devam ser por ele declarados nos termos das normas 1.1 e 2.1 da Instrução da CMVM n.º 2/2011, de 3 de março, relativamente ao mês a que a taxa respeita.\n\n4 - [Revogado].\n\n5 - Para efeitos do lançamento e liquidação da taxa prevista no n.º 1 do artigo 6.º-B da Portaria n.º 913-I/2003, de 30 de agosto, a capitalização bolsista relevante é a apurada no primeiro dia de negociação de cada trimestre do ano civil, multiplicando a quantidade admitida pela cotação de fecho, ou, não existindo cotação, pelo valor nominal dos valores mobiliários em causa.\n\n6 - A liquidação das taxas, tarifas e outros montantes tem em conta o disposto na portaria que autoriza a CMVM a majorá-los tendo em vista perfazer o montante da prestação anual a que se refere o artigo 35.º dos Estatutos da Autoridade da Concorrência, aprovados pelo Decreto-Lei n.º 125/2014, de 18 de agosto.\n\n7 - A CMVM procede ao envio aos respetivos destinatários das notas de liquidação e cobrança das taxas, tarifas e outros montantes previstos no presente regulamento e nas portarias a que se referem os números anteriores.\n\n8 - Não há lugar a qualquer ato de liquidação, ainda que adicional, das taxas, tarifas e outros montantes a que se refere o artigo 31.º dos Estatutos da CMVM, aprovados pelo Decreto-Lei n.º 5/2015, de 8 de janeiro, incluindo juros compensatórios, nem de qualquer reembolso ou pagamento de juros indemnizatórios, quando os quantitativos em causa forem inferiores a (euro) 5, salvo quando se trate dos atos de liquidação:\n\na) Dos montantes previstos no artigo 10.º;\n\nb) De juros de mora, que são liquidados nos termos previstos na legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 9/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série II de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/9-2018-117543985), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento da CMVM n.º 4/2016 - Diário da República n.º 2/2017, Série II de 2017-01-03](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2016-105687016), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Regulamento da CMVM n.º 2/2008 - Diário da República n.º 97/2008, Série II de 2008-05-20](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/2-2008-1465502), em vigor a partir de 2008-07-01"
+  }
+ }
+}

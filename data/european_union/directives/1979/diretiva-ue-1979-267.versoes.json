@@ -1,0 +1,559 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31979L0267:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0267-20021219",
+ "dre_path": null,
+ "source_lastmod": "2002-12-19",
+ "versions": [
+  {
+   "date": "1979-03-13",
+   "future": false,
+   "celex": "31979L0267",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "978c54f5e09d0783",
+    "2f437cab314af427",
+    "69b818c8aa317b88",
+    "9069e24820ce89ae",
+    "50f885aa41350a02",
+    "89dfb15fa0850007",
+    "8ef6fd855fd419ec",
+    "4c54232a173d8c8e",
+    "858824111b24a2e9",
+    "3cff4976faf7d268",
+    "972dd2b77d8a5390",
+    "cfa82e82d8c47245",
+    "b374e1ae26d25c42",
+    "f8e6d756957ae9a3",
+    "77863e4827bca7b6",
+    "f8df6d597e352072",
+    "651e8f939961ceff",
+    "1acd4ed159b4d776",
+    "a4869dbd9f9c4f7e",
+    "d87bd7e3f31b07cf",
+    "da87abea887f54b8",
+    "5dc678a699ea7845",
+    "6186a7130cebe89b",
+    "69972cf866a89d63",
+    "28bf0407f2d48540",
+    "2197ed03bfefbf59",
+    "0e6bc5533b48d72e",
+    "b04da8c0b5595add",
+    "c3031109c7b5676c",
+    "41df68e714afe939",
+    "cca1f4aa12360b34",
+    "5b5f059bed507d61",
+    "37f01284da25d405",
+    "e838d8e09eb2abe1",
+    "8b0ba18150785798",
+    "6113b7a85fe2109d",
+    "d90b1a3d1458f5cd",
+    "39bbf3b8c2862910",
+    "1b055f8d4d63057e",
+    "d59a44661ddf3224",
+    "8f6df63cc937cce8",
+    "573f0d98d7525e89",
+    "3d01103fefb72658",
+    "9336812a0b6f5b72",
+    "6e9ede1856566627",
+    "0f016cfab4819da5",
+    "1d98354b8c1d2b4a",
+    "b0e3c83315da08ea",
+    "95a2293d0f3d99c4",
+    "a90ab4fd4bb820cc",
+    "bde6911b9bf6072d",
+    "8089ffd695cd424a"
+   ]
+  },
+  {
+   "date": "2002-12-19",
+   "future": false,
+   "celex": "01979L0267-20021219",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime TÍTULO II — REGRAS APLICÁVEIS ÀS EMPRESAS CUJA SEDE SOCIAL SE ENCONTRA NO INTERIOR DA COMUNIDADE",
+    "Suprime SECÇÃO A — Condições de Acesso",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime SECÇÃO B — Condições de Exercício",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o",
+    "Suprime Artigo 25o",
+    "Suprime SECÇÃO C — Revogação da Autorização",
+    "Suprime Artigo 26o",
+    "Suprime TÍTULO III — REGRAS APLICÁVEIS AS AGENCIAS OU SUCURSAIS ESTABELECIDAS NO INTERIOR DA COMUNIDADE, DE EMPRESAS CUJA SEDE SOCIAL ESTÁ SITUADA FORA DA COMUNIDADE",
+    "Suprime Artigo 27o",
+    "Suprime Artigo 28o",
+    "Suprime Artigo 29o",
+    "Suprime Artigo 30o",
+    "Suprime Artigo 31o",
+    "Suprime Artigo 32o",
+    "Suprime TÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E DIVERSAS",
+    "Suprime Artigo 33o",
+    "Suprime Artigo 34o",
+    "Suprime Artigo 35o",
+    "Suprime Artigo 36o",
+    "Suprime Artigo 37o",
+    "Suprime TÍTULO V — DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 38o",
+    "Suprime Artigo 39o",
+    "Suprime Artigo 40o",
+    "Suprime Artigo 41o",
+    "Suprime Artigo 42o",
+    "Suprime ANEXO — CLASSIFICAÇÃO POR RAMO"
+   ],
+   "fragments": [
+    "59d665f73f23d198"
+   ]
+  }
+ ],
+ "fragments": {
+  "978c54f5e09d0783": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Primeira Directiva 79/267/CEE do Conselho, de 5 de Março de 1979, relativa à coordenação das disposições legislativas, regulamentares e administrativas, respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício** *Jornal Oficial nº L 063 de 13/03/1979 p. 0001 - 0018 Edição especial finlandesa: Capítulo 6 Fascículo 2 p. 0020 Edição especial grega: Capítulo 06 Fascículo 2 p. 0057 Edição especial sueca: Capítulo 6 Fascículo 2 p. 0020 Edição especial espanhola: Capítulo 06 Fascículo 2 p. 0062 Edição especial portuguesa: Capítulo 06 Fascículo 2 p. 0062*\n\nPRIMEIRA DIRECTIVA DO CONSELHO de 5 de Março de 1979 relativa à coordenação das disposições legislativas, regulamentares e administrativas, respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício\n\n79/267/CEE\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o e 57o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, para facilitar o acesso às actividades de seguro de vida e o seu exercício, é necessário eliminar certas divergências existentes, entre as legislações nacionais, em matéria de fiscalização; que, para atingir este objectivo, sem contudo deixar de garantir, em todos os Estados-membros, uma protecção adequada aos segurados e aos beneficiários, convém coordenar, nomeadamente, as disposições relativas às garantias financeiras exigidas às empresas de seguros de vida;\n\nConsiderando que uma classificação por ramos é necessária, nomeadamente, para se determinarem as actividades que estão sujeitas a uma autorização obrigatória;\n\nConsiderando que convém excluir do âmbito de aplicação da presente directiva certas mútuas que, em razão do seu regime jurídico, preenchem certas condições de segurança e oferecem garantias financeiras específicas; que convém, por outro lado, excluir certos organismos cuja actividade abrange apenas um sector muito restrito e se encontra estatutariamente limitada;\n\nConsiderando que os Estados-membros têm regulamentações e práticas diferentes em relação à acumulação de actividade do seguro de vida e do seguro de não vida; que não se deve continuar a permitir, às empresas que se constituem, a prática dessa acumulação; que, no que se refere às empresas existentes que praticam esta acumulação, se deve conceder aos Estados-membros a possibilidade de as autorizarem a continuar a praticá-la, desde que adoptem uma gestão distinta para cada uma das suas actividades, a fim de que os interesses respectivos dos seus segurados de« vida» e dos seus segurados de« não vida» sejam salvaguardados e que as obrigações financeiras mínimas decorrentes de cada uma das actividades não sejam suportadas pela outra actividade; que, sempre que uma dessas empresas pretenda estabelecer-se num Estado-membro para aí explorar o ramo Vida, convém que ela crie, para esse efeito, uma filial que pode beneficiar, a título transitório, de certas facilidades; que, no que se refere a essas mesmas empresas actualmente existentes que practicam a acumulação, se deve, igualmente, conceder aos Estados-membros a possibilidade de lhes exigirem, se estabelecidas no seu território, que cessem essa acumulação; que, por outro lado, se deve submeter a uma fiscalização especial as empresas especializadas, sempre que uma empresa de seguros de não vida pertença ao mesmo grupo financeiro que uma empresa de seguros de vida;\n\nConsiderando que, em cada Estado-membro, o seguro de vida está submetido a uma autorização e a um controlo administrativos, mas que é necessário definir as condições de concessão e de revogação dessa autorização; que é indispensável prever um recurso jurisdicional das decisões de recusa ou de revogação;\n\nConsiderando que, em relação às reservas técnicas, incluindo as matemáticas, podem ser adoptadas as mesmas regras que para os seguros de não vida: localização no país de exploração, regulamentação, por parte deste país, dos métodos de cálculo, da determinação das categorias de investimentos e da avaliação dos activos; que, se bem que se reconheça oportuno coordenar estas diferentes matérias, parece, no entanto, que tal coordenação não é indispensável no âmbito da presente directiva, e que pode ser realizada ulteriormente;\n\nConsiderando que é necessário que as empresas de seguros disponham, para além de reservas técnicas, incluindo as matemáticas, suficientes para fazerem face aos compromissos assumidos, de uma reserva complementar, denominada margem de solvência, representada pelo património livre e, mediante acordo da autoridade de fiscalização, por elementos implícitos do seu património, para fazer face aos riscos de exploração; que, para garantir que as obrigações impostas nesta matéria são determinadas em função de critérios objectivos, colocando em pé de igualdade a concorrência entre empresas do mesmo nível, convém prever que esta margem de solvência esteja em relação com o volume global dos compromissos assumidos pela empresa e com a natureza e a gravidade dos riscos inerentes às diferentes actividades abrangidas pela presente directiva; que esta margem deve, portanto, ser diferente consoante se trate apenas de riscos de investimento, de riscos de mortalidade ou de riscos de gestão; que tal margem deve, pois, ser determinada, tanto em função das reservas matemáticas e de capitais em risco cobertos pela empresa, como em função dos prémios ou quotizações recebidos, como em função unicamente das reservas, como, ainda, em função dos fundos das tontinas;\n\nConsiderando que é necessário exigir um fundo de garantia cujo montante e composição garantam que as empresas dispõem, desde o momento da sua constituição, de meios adequados e que, em nenhum caso, a margem de solvência desça, no decurso da actividade, abaixo de um mínimo de segurança; que este fundo de garantia deve ser constituído, na sua totalidade ou em parte determinada, por elementos explícitos do seu património;\n\nConsiderando que é necessário prever medidas para o caso em que a situação financeira da empresa se transforme de tal modo que lhe seja difícil respeitar os seus compromissos;\n\nConsiderando que as regras de coordenação relativas ao exercício da actividade de seguro directo no interior da Comunidade devem, em princípio, aplicar-se a todas as empresas que actuam no mercado, incluindo, portanto, as agências e sucursais de empresas cuja sede social esteja situada fora da Comunidade; que convém, no entanto, prever, quanto às formas de fiscalização, disposições especiais em relação a essas agências e sucursais, dado que o património das empresas de que aquelas dependem se encontra fora da Comunidade;\n\nConsiderando que convém prever a conclusão de acordos de reciprocidade com um ou vários países terceiros, a fim de permitir a flexibilização destas condições especiais, atendendo, no entanto, ao princípio de que as agências e as sucursais destas empresas não devem ter um tratamento mais favorável do que as empresas da Comunidade;\n\nConsiderando que é necessário prever certas disposições transitórias, tendo em vista permitir, especialmente às pequenas e médias empresas existentes adaptarem-se às normas que devem ser adoptadas pelos Estados-membros, em execução da presente directiva, sem prejuízo da aplicação do artigo 53o do Tratado;\n\nConsiderando que o artigo 52o do Tratado é directamente aplicável desde o fim do período de transição, e que, consequentemente, a partir desse momento, não haverá necessidade de adoptar directivas de supressão das restrições à liberdade de estabelecimento; que, todavia, as disposições relativas às provas de honorabilidade e de não existência de falência, que constam da Directiva 73/240/CEE do Conselho, de 24 de Julho de 1973, relativa à supressão das restrições à liberdade de estabelecimento em matéria de seguro directo não vida (4), não constituem, por um lado, restrições propriamente ditas e, por outro lado, são igualmente exigidas no âmbito de seguros de vida que elas devem ser, conseguinte, ser inseridas na presente directiva de coordenação;\n\nConsiderando que é importante garantir a aplicação uniforme de regras de coordenação e prever, para esse efeito, uma estreita colaboração neste domínio, entre a Comissão e os Estados-membros,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2f437cab314af427": {
+   "fragment_id": "TÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "TÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — DISPOSIÇÕES GERAIS"
+  },
+  "69b818c8aa317b88": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva diz respeito ao acesso à actividade não assalariada do seguro directo praticada por empresas estabelecidas num Estado-membro ou que aí pretendam estabelecer-se, bem como ao exercício das seguintes actividades:\n\n1. Os seguintes seguros, quando decorrem de um contrato:\n\na) O ramo« Vida», isto é, o que, inclui, nomeadamente, o seguro em caso de vida, o seguro em caso de morte, o seguro misto, o seguro em caso de vida com contra-seguro, o seguro de nupcialidade, o seguro de natalidade;\n\nb) O seguro de renda;\n\nc) Os seguros complementares praticados por empresas de seguros de vida, isto é, os seguros de danos corporais, incluindo-se nestes a incapacidade para o trabalho profissional, os seguros em caso de morte por acidente, os seguros em caso de invalidez por acidente ou doença, sempre que estes diversos seguros forem complementares dos seguros de vida;\n\nd) O seguro praticado na Irlanda e no Reino Unido, denominado« permanent health insurance» (seguro de doença a longo prazo, não rescindível).\n\n2. As seguintes operações, quando decorrem de um contrato, desde que estejam submetidas à fiscalização das autoridades administrativas competentes para a fiscalização dos seguros privados e desde que sejam autorizadas no país de exercício;\n\na) As operações de tontinas, que se traduzem na constituição de associações que reúnam aderentes com o objectivo de capitalizar em comum as suas quotizações e de repartir o capital assim constituído, quer entre os sobreviventes, quer entre os herdeiros dos falecidos;\n\nb) As operações de capitalização baseadas numa técnica actuarial, que se traduzam na assunção de compromissos determinados quanto à sua duração e ao seu montante, como contrapartida de prestações únicas ou periódicas, previamente fixadas;\n\nc) As operações de gestão de fundos colectivos de reforma, isto é, as operações que consistem na gestão, pela empresa em causa, de investimentos e, nomeadamente, dos activos representativos das reservas de organismos que liquidam prestações em caso de morte, em caso de vida, ou em caso de cessação ou redução de actividades;\n\nd) As operações indicadas na alínea c), quando conjugadas com uma garantia de seguro respeitante quer à manutenção do capital, quer à obtenção de um juro mínimo;\n\ne) As operações efectuadas pelas empresas de seguros, tais como as previstas no Code Français des Assurances - Livro IV, Título 4, Capítulo 1.\n\n3. As operações dependentes da duração da vida humana, definidas ou previstas na legislação dos seguros sociais, desde que sejam praticadas ou geridas em conformidade com a legislação de um Estado-membro por empresas de seguros, suportando elas próprias o risco inerente."
+  },
+  "9069e24820ce89ae": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nA presente directiva não abrange:\n\n1. Sem prejuízo do disposto no ponto 1, alínea c), do artigo 1o da presente directiva, ramos definidos no Anexo da Primeira Directiva 73/239/CEE do Conselho, de 24 de Julho de 1973, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguro directo não vida e ao seu exercício (5), a seguir denominada« Primeira Directiva de Coordenação (seguro não vida)».\n\n2. As operações de organismos de previdência e de assistência, que concedem prestações variáveis consoante os recursos disponíveis e em que a contribuição dos aderentes é estabelecida com um valor fixo.\n\n3. As operações efectuadas por organismos que, não sendo as empresas indicadas no artigo 1o, tenham por objecto conceder aos trabalhadores, assalariados ou não, agrupados no âmbito de uma empresa ou de uma associação de empresas ou de um sector profissional ou interprofissional, prestações em caso de morte, em caso de vida ou em caso de cessação ou de redução de actividades, quer os compromissos resultantes destas operações estejam ou não cobertos integralmente e a cada momento por reservas matemáticas.\n\n4. Os seguros incluídos num regime legal de segurança social, sem prejuízo do disposto no ponto 3 do artigo 1o."
+  },
+  "50f885aa41350a02": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nA presente directiva não abrange:\n\n1. Os organismos que garantam unicamente prestações em caso de morte, desde que o montante destas prestações não exceda o valor médio das despesas de um funeral no caso de morte, ou desde que sejam concedidas em espécie.\n\n2. As mútuas de seguro que, cumulativamente, apresentem as seguintes características:\n\n- o estatuto preveja a possibilidade, quer de proceder a reforços de quotizações, quer de reduzir as prestações, quer de recorrer ao apoio de outras pessoas que, para esse fim, tenham assumido um determinado compromisso,\n\n- o montante anual das quotizações recebidas, em virtude das actividades abrangidas pela presente directiva, não exceda 500 000 unidades de conta, durante três anos consecutivos. Se este montante for ultrapassado durante três anos consecutivos, a presente directiva é aplicável a partir do quarto ano."
+  },
+  "89dfb15fa0850007": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nA presente directiva não diz respeito, salvo modificação dos respectivos estatutos quanto a competências, ao« Versorgungsverband deutscher Wirschaftsorganisationen», na República Federal da Alemanha e, no Luxemburgo, à« Caisse d'épargne de l'État»."
+  },
+  "8ef6fd855fd419ec": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\na) Unidade de conta: a unidade de conta europeia (UCE) definida no artigo 10o do Regulamento Financeiro de 21 de Dezembro de 1977 (6), aplicável ao orçamento geral das Comunidades Europeias; sempre que a presente directiva faz referência à unidade de conta, o contra-valor em moeda nacional a tomar em consideração, a partir de 31 de Dezembro de cada ano, é o do último dia do mês de Outubro precedente para o qual se encontram disponíveis os contra-valores da unidade de conta europeia, em todas as moedas da Comunidade;\n\nb) Congruência: representação dos compromissos exigíveis numa moeda, por activos liberados ou realizáveis nessa mesma moeda;\n\nc) Localização dos activos: eistência de activos mobiliários ou imobiliários no interior de um Estado-membro, sem que por isso os activos mobiliários devam ser objecto de um depósito e os activos imobiliários devam ser objecto de medidas restritivas, tais como registo de hipotecas; os activos representados por créditos são considerados como localizados no Estado-membro onde são realizáveis;\n\nd) Capital em risco: o montante a pagar por morte, deduzida a reserva matemática do risco principal."
+  },
+  "4c54232a173d8c8e": {
+   "fragment_id": "TÍTULO II — REGRAS APLICÁVEIS ÀS EMPRESAS CUJA SEDE SOCIAL SE ENCONTRA NO INTERIOR DA COMUNIDADE",
+   "type": "divisao",
+   "heading": "TÍTULO II — REGRAS APLICÁVEIS ÀS EMPRESAS CUJA SEDE SOCIAL SE ENCONTRA NO INTERIOR DA COMUNIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — REGRAS APLICÁVEIS ÀS EMPRESAS CUJA SEDE SOCIAL SE ENCONTRA NO INTERIOR DA COMUNIDADE"
+  },
+  "858824111b24a2e9": {
+   "fragment_id": "SECÇÃO A — Condições de Acesso",
+   "type": "divisao",
+   "heading": "SECÇÃO A — Condições de Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO A — Condições de Acesso"
+  },
+  "3cff4976faf7d268": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Cada Estado-membro fará depender de uma autorização administrativa o acesso, no seu território, às actividades que são objecto da presente directiva.\n\n2. Esta autorização deve ser solicitada junto da autoridade competente do Estado-membro interessado:\n\na) Pela empresa que fixa a sede social no território desse Estado;\n\nb) Pela empresa cuja sede social está situada num outro Estado-membro e que abre uma agência ou sucursal no território do Estado-membro interessado;\n\nc) Pela empresa que, depois de ter recebido a autorização prevista nas alíneas a) ou b), alarga as suas actividades a outros ramos, no território desse Estado;\n\nd) Pela empresa que, tendo obtido, nos termos do no 1 do artigo 7o, autorização para actuar uma parte do território nacional, estende a sua actividade para além dessa mesma parte.\n\n3. Os Estados-membros não farão depender essa autorização da efectivação de um depósito ou da prestação de uma caução."
+  },
+  "972dd2b77d8a5390": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. A autorização é válida para o conjunto do território nacional, salvo se o requerente, na medida em que a legislação nacional o permita, solicitar autorização para exercer a sua actividade apenas numa parte do território nacional.\n\n2. A autorização é dada por ramo de seguros, cuja classificação consta do Anexo. A autorização abrange o ramo na sua totalidade, salvo se o requerente só pretender cobrir uma parte dos riscos incluídos nesse ramo.\n\nAs autoridades de fiscalização podem limitar a autorização solicitada por um ramo, às actividades previstas nos programas referidos nos artigos 9o e 11o.\n\n3. Cada Estado-membro pode conceder a autorização para vários ramos, desde que a legislação nacional admita a sua exploração simultânea."
+  },
+  "cfa82e82d8c47245": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Cada Estado-membro exigirá que as empresas que se constituam no seu território e solicitem a autorização:\n\na) Adoptem uma das seguintes formas:\n\n- no que diz respeito ao Reino da Bélgica:\n\n«societé anonyme» /« naamloze vennootschap»,« societé en commandite par actions» /« vennootschap bij wijze van geldschieting op aandelen»,« association d'assurance mutuelle» /« onderlinge verzekeringsmaatschappij»,« société coopérative» /« cooepératieve vennootschap»;\n\n- no que diz respeito ao Reino da Dinamarca:\n\n«aktieselskaber»,« gensidige selskaber»;\n\n- no que diz respeito à República Federal da Alemanha:\n\n«Aktiengesellschaft»,« Versicherungsverein auf Gegenseitigkeit»,« oeffentlich-rechtliches Wettbewerbs-Versicherungsunternehmen»;\n\n- no que diz respeito à República Francesa:\n\n«société anonyme»,« société à forme mutuelle à cotisations fixes»,« société à forme tontinière»;\n\n- no que diz respeito à Irlanda:\n\n«incorporated companies limited by shares or by guarantee or unlimited»,« societies registered under the Industrial and Provident Societies Acts» e« societies registered under the Friendly Societies Acts»;\n\n- no que diz respeito à República Italiana:\n\n«società per azioni»,« società cooperativa»,« mutua di assicurazioni» e os organismos de direito público referidos no artigo 1883o, do Código Civil;\n\n- no que diz respeito ao Grão-Ducado do Luxemburgo:\n\n«société anonyme»,« société en commandite par actions»,« association d'assurances mutuelles»,« société coopérative»;\n\n- no que diz respeito ao Reino dos Países Baixos:\n\n«naamloze vennootschap»,« onderlinge waarborgmaatschappij»;\n\n- no que diz respeito ao Reino Unido:\n\n«incorporated companies limited by shares or by guarantee or unlimited»,« societies registered under the Industrial and Provident Societies Acts»,« societies registered under the Friendly Societies Acts», a associação de subscritores denominada Lloyd's.\n\nPor outro lado, os Estados-membros podem, se for caso disso, autorizar a constituição de empresas sob qualquer forma de direito público ou equiparadas, desde que esses organismos tenham por objecto fazer operações de seguro em condições equivalentes às das empresas privadas;\n\nb) Limitem o seu objecto social às actividades referidas na presente directiva e às operações que daí directamente decorram, com exclusão de qualquer outra actividade comercial;\n\nc) Apresentem um programa de actividades em conformidade com o disposto no artigo 9o;\n\nd) Possuam o mínimo de fundo de garantia previsto no no 2 do artigo 20o.\n\n2. A empresa que solicita a autorização para a extensão das suas actividades a outros ramos ou, no caso previsto no no 2, alínea d) do artigo 6o, a outra parte do território, deve, de acordo com o artigo 9o, apresentar um programa de actividades referente a esses outros ramos ou a essa outra parte do território.\n\nAlém disso, a empresa deve provar que dispõe do mínimo da margem de solvência previsto no artigo 19o e que possui o fundo de garantia previsto nos no 1 e 2 do artigo 20o.\n\n3. Estas medidas de coordenação não obstam a que os Estados-membros apliquem disposições que prevejam a necessidade de os dirigentes das empresas possuírem uma determinada qualificação técnica, bem como a aprovação dos estatutos, das condições gerais e especiais dos contratos, das bases técnicas, nomeadamente quanto ao cálculo das tarifas e das reservas previstas no artigo 17o, e de qualquer outro documento necessário ao exercício normal da fiscalização.\n\n4. As disposições supracitadas não podem determinar que o pedido de autorização seja examinado em função das necessidades económicas do mercado."
+  },
+  "b374e1ae26d25c42": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nO programa de actividades referido no no 1, alínea c), do artigo 8o, e no no 2 do mesmo artigo, deve conter indicações ou justificações relativas sobre:\n\na) A natureza dos compromissos que a empresa se propõe assumir; as condições gerais e especiais dos contratos que se propõe adoptar;\n\nb) As bases técnicas que a empresa prevê utilizar para cada categoria de operações, nomeadamente, os elementos necessários para o cálculo das tarifas e das reservas previstas no artigo 17o;\n\nc) Os princípios orientadores em matéria de resseguro;\n\nd) Os elementos que constituem o mínimo do fundo de garantia;\n\ne) As previsões das despesas de instalação dos serviços administrativos e da rede comercial e os meios financeiros destinados a fazer-lhes face;\n\ne, além disso, deve incluir, relativamente aos três primeiros exercícios sociais:\n\nf) A situação provável da tesouraria;\n\ng) Um plano pormenorizado acerca das previsões das receitas e despesas, quanto às operações de seguro directo, ao resseguro aceite e ao resseguro cedido;\n\nh) As previsões relativas aos meios financeiros destinados a garantir os compromissos assumidos e a margem de solvência."
+  },
+  "f8e6d756957ae9a3": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Cada Estado-membro exigirá que a empresa que tenha a sua sede social no território de um outro Estado-membro e que solicite a autorização para a abertura de uma agência ou sucursal;\n\na) Comunique os seus estatutos e a relação dos seus administradores;\n\nb) Apresente um certificado emitido pelas autoridades competentes do Estado-membro onde está situada a sua sede social, atestando quais os ramos que a empresa interessada está habilitada a explorar e que dispõe do mínimo de fundo de garantia ou, se este for mais elevado, do mínimo da margem de solvência, calculada de acordo com o disposto no artigo 19o, e indicando os ramos que ela efectivamente explora, bem como os meios financeiros referidos no no 1, alínea e), do artigo 11o;\n\nc) Apresente um programa de actividades em conformidade com o disposto no artigo 11o;\n\nd) Designe um mandatário geral que tenha domicílio e residência no país de acolhimento e com poderes bastantes para obrigar a empresa perante terceiros e para a representar, no país de acolhimento, em juízo ou fora dele; se o mandatário for uma pessoa colectiva, esta deve ter a sua sede social no país de acolhimento e designar, por sua vez, para a representar uma pessoa singular que preencha os requisitos acima referidos. O mandatário designado apenas pode ser recusado pelo Estado-membro por razões ligadas à sua honorabilidade ou qualificação técnica, nas mesmas condições aplicáveis aos dirigentes das empresas sediadas no território do Estado interessado.\n\n2. Para que uma agência ou sucursal possa alargar a sua actividade a outros ramos ou, de acordo com o previsto no no 2, alínea d) do artigo 6o, a outras partes do território, cada Estado-membro exigirá que o requerente, ao solicitar a autorização respectiva, apresente um programa de actividades, em conformidade com o artigo 11o, e satisfaça as condições previstas no no 1, alínea b), do presente artigo.\n\n3. Estas medidas de coordenação não obstam a que os Estados-membros apliquem disposições que prevejam, para todas as empresas de seguros, a necessidade de uma aprovação das condições gerais e especiais dos contratos, das bases técnicas, especialmente no que respeita ao cálculo das tarifas e das reservas previstas no artigo 17o, e de qualquer outro documento necessário ao exercício normal da fiscalização.\n\n4. As disposições supracitadas não podem prever que o pedido de autorização seja examinado em função das necessidades económicas do mercado."
+  },
+  "77863e4827bca7b6": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. O programa de actividades da agência ou sucursal, referido no no 17, alínea c), do artigo 1o e no 2 do mesmo artigo, deve conter indicações ou justificações sobre:\n\na) A natureza dos compromissos que a empresa se propõe assumir no país de acolhimento; as condições gerais e especiais dos contratos que se propõe utilizar;\n\nb) As bases técnicas que a empresa prevê utilizar para cada categoria de operações, nomeadamente, os elementos necessários para o cálculo das tarifas e das reservas previstas no artigo 17o;\n\nc) Os princípios orientadores em matéria de resseguro;\n\nd) A situação da margem de solvência e do fundo de garantia da empresa, previstos nos artigos 18o, 19o e 20o;\n\ne) As previsões de despesas de instalação dos serviços administrativos e da rede comercial e os meios financeiros destinados a fazer-lhes face;\n\ne, além disso, deve incluir relativamente aos três primeiros exercícios sociais:\n\nf) A situação provável da tesouraria;\n\ng) Um plano pormenorizado acerca das previsões das receitas e despesas, quanto às operações de seguro directo, ao resseguro aceite e ao resseguro cedido.\n\n2. O programa deve ser acompanhado do balanço e da conta de ganhos e perdas da empresa, relativos a cada um dos três últimos exercícios sociais. No entanto, se a empresa contar menos de três exercícios sociais, apenas terá de fornecer os elementos relativos aos exercícios já encerrados.\n\n3. O programa, acompanhado das observações das autoridades encarregadas de conceder a autorização, será transmitido às autoridades competentes do Estado-membro da sede social. Estas enviarão àquelas o seu parecer, no prazo de três meses a contar da data da recepção dos documentos; se as autoridades consultadas não se pronunciarem até ao termo do referido prazo, considera-se o seu parecer favorável."
+  },
+  "f8df6d597e352072": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nQualquer decisão de recusa de autorização deve ser fundamentada de maneira precisa e notificada à empresa interessada.\n\nCada Estado-membros deve prever um recurso jurisdicional de qualquer decisão de recusa.\n\nDeve igualmente ser previsto o direito de recurso quando as autoridades competentes não se tenham pronunciado sobre o pedido de autorização, decorrido que seja um prazo de seis meses a partir da data da recepção."
+  },
+  "651e8f939961ceff": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Nenhuma empresa pode, sem prejuízo do disposto no no 3, acumular, no território de um Estado-membro, o exercício das actividades indicadas no Anexo à Primeira Directiva de Coordenação (seguro não vida) com o exercício das actividades enumeradas no artigo 1o da presente directiva.\n\n2. Sempre que uma empresa que exerça as actividades indicadas no Anexo da Primeira Directiva de Coordenação (seguro não vida) tenha laços financeiros, comerciais ou administrativos com uma empresa que exerça as actividades abrangidas pela presente directiva, as autoridades de fiscalização dos Estados-membros, no território dos quais se encontram situadas as sedes sociais destas empresas, providenciarão para que as contas das empresas em causa não estejam falseadas por convenções entre estas empresas ou por acordos susceptíveis de influenciarem a repartição das despesas e receitas.\n\n3. As empresas que, no momento da notificação da presente directiva, pratiquem a acumulação das suas actividades indicadas no no 1, no território de um Estado-membro, podem continuar, sem prejuízo do disposto no parágrafo 6o, a praticar nesse Estado tal acumulação, desde que adoptem, de acordo com o disposto no artigo 14o, uma gestão distinta para cada uma dessas actividades.\n\n4. As empresas referidas no no 3, apenas podem criar agências ou sucursais nos outros Estados-membros para os ramos mencionados no Anexo à Primeira Directiva de Coordenação (seguro não vida).\n\n5. As empresas referidas no no 3 podem, aquando da criação, nos outros Estados-membros, de filiais destinadas à prática das actividades abrangidas pela presente directiva, beneficiar das condições e facilidades previstas no artigo 35o, durante um período transitório de dez anos a contar da data da notificação da presente directiva, desde que não tenham já estabelecido qualquer agência ou sucursal exercendo a sua actividade em relação a ramos não abrangidos pela presente directiva.\n\n6. a) Qualquer Estado-membro pode impor às empresas cuja sede social esteja estabelecida no seu território a obrigação de cessar nos prazos que determinar, a acumulação das actividades que praticavam no momento da notificação da presente directiva.\n\nb) Qualquer Estado-membro pode, igualmente, impor essa obrigação, após consulta às autoridades de fiscalização do Estado-membro da sede social, nomeadamente no que respeita à determinação do prazo, às agências e sucursais estabelecidas no seu território e que aí pratiquem essa acumulação.\n\nc) As agências e sucursais das empresas referidas no no 3 que, no momento da notificação da presente directiva, pratiquem, no território de um Estado-membro, unicamente as actividades abrangidas pela presente directiva, podem ali prosseguir as suas actividades. Se a empresa pretender exercer nesse território as actividades abrangidas pela Primeira Directiva de Coordenação (seguro não vida), não poderá aí exercer as actividades abrangidas pela presente directiva senão por intermédio de uma filial."
+  },
+  "1acd4ed159b4d776": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. A gestão distinta prevista no no 3 do artigo 13o, deve ser organizada de tal modo que as actividades abrangidas pela presente directiva e as abrangidas pela Primeira Directiva de Coordenação (seguro não vida) fiquem separadas, a fim de que:\n\n- não sejam causados quaisquer prejuízos aos interesses respectivos dos segurados de vida e não-vida, e que os lucros resultantes da exploração do seguro de vida revertam a favor dos segurados de vida, como se a empresa apenas explorasse o seguro de vida,\n\n- os mínimos das obrigações financeiras exigidas, nomeadamente no que respeita às margens de solvência, correspondentes a cada uma das actividades, de acordo com o previsto, respectivamente, na presente directiva e na Primeira Directiva de Coordenação (seguro não vida), não sejam suportados pela outra actividade.\n\nContudo, uma vez satisfeitos, nas condições acima referidas no segundo travessão do primeiro parágrafo, os mínimos das obrigações financeiras, a empresa pode, desde que informe de tal facto a autoridade competente, utilizar os elementos explícitos da margem de solvência ainda disponíveis, para qualquer uma das duas actividades.\n\nÀs autoridades de fiscalização cabe, através da análise dos resultados das duas actividades, velar pelo cumprimento do disposto neste número.\n\n2. a) A contabilidade deve ser organizada de modo a demonstrar as fontes de resultados para cada uma das duas actividades,« vida» e« não vida». Para esse efeito, o conjunto das receitas (nomeadamente, prémios, pagamentos dos resseguradores, rendimentos financeiros) e das despesas (nomeadamente, prestações de seguro, constituição de reservas técnicas, prémios de resseguro, despesas de exploração das operações de seguro) devem ser separadas em função da sua origem. Os elementos comuns às duas actividades serão imputados segundo um critério de repartição, que deve ser aceite pela autoridade de fiscalização competente.\n\nb) As empresas devem estabelecer, com base nos dados contabilísticos, um documento que demonstre, separadamente, os elementos correspondentes a cada uma das margens de solvência, em conformidade com o disposto no artigo 18o da presente directiva e no no 1 do artigo 16o da Primeira Directiva de Coordenação (seguro não vida).\n\n3. Em caso de insuficiência de uma das margens de solvência, as autoridades de fiscalização aplicarão à actividade em causa as medidas previstas na directiva correspondente, independentemente dos resultados obtidos na outra actividade. Em derrogação do disposto no no 1, segundo travessão do primeiro parágrafo, estas medidas podem incluir a autorização de uma transferência de uma actividade para a outra."
+  },
+  "a4869dbd9f9c4f7e": {
+   "fragment_id": "SECÇÃO B — Condições de Exercício",
+   "type": "divisao",
+   "heading": "SECÇÃO B — Condições de Exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO B — Condições de Exercício"
+  },
+  "d87bd7e3f31b07cf": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros fiscalizarão, em estreita colaboração entre si, a situação financeira das empresas autorizadas."
+  },
+  "da87abea887f54b8": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nA autoridade de fiscalização do Estado-membro do território onde se encontra situada a sede social da empresa deve verificar o estado de solvência dessa empresa, relativamente ao conjunto de todas as suas actividades. Para que essa verificação seja possível, devem as autoridades de fiscalização dos outros Estados-membros fornecer-lhe todas as informações necessárias."
+  },
+  "5dc678a699ea7845": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Cada Estado-membro, no território do qual uma empresa exerce a sua actividade, exigir-lhe-á que constitua reservas técnicas suficientes, incluindo as reservas matemáticas.\n\nO montante das reservas técnicas, incluindo as reservas matemáticas, será determinado de acordo com as regras fixadas pelo Estado-membro ou, na sua falta, segundo as práticas seguidas nesse mesmo Estado.\n\n2. As reservas técnicas, incluindo as reservas matemáticas, devem ser representadas por activos equivalentes, congruentes e localizados em cada país de exploração. No entanto, os Estados-membros podem permitir uma certa flexibilidade das regras da congruência e da localização dos activos. Essa flexibilização à regra da congruência deve atender às características do seguro de vida, que é proncipalmente um seguro de capitais e a longo prazo.\n\nAtendendo à sua situação particular, o Grão-Ducado do Luxemburgo pode, até à coordenação das legislações sobre a liquidação das empresas, manter o seu regime de garantias relativo às reservas técnicas, incluindo as reservas matemáticas, existente no momento da notificação da presente directiva.\n\nA regulamentação do país de exploração fixará a natureza dos activos e, se for caso disso, os limites dentro dos quais estes podem ser admitidos em representação das reservas técnicas, incluindo as reservas matemáticas, bem como as regras de avaliação desses mesmos activos.\n\nO cumprimento desta regulamentação pode ser assegurado através da intervenção de uma pessoa ou de um organismo estranho à empresa, encarregado de fiscalizar, localmente, se os activos representativos das reservas técnicas, incluindo as reservas matemáticas, estão conformes às normas em vigor. Esta função é desempenhada, nomeadamente, pelo« Treuhaender», no República Federal da Alemanha, e pela« Tillidsmand», na Dinamarca.\n\n3. Se um Estado-membro admitir a representação das reservas técnicas, incluindo as reservas matemáticas, através de créditos sobre resseguradores, deve fixar a percentagem para o efeito admitida. Neste caso, não pode, por derrogação do disposto no no 2, exigir a localização no seu território desses créditos.\n\n4. A autoridade de fiscalização dos Estados-membros, onde está situada a sede social de uma empresa, providenciará para que o balanço da empresa apresente, para as reservas técnicas, incluindo as matemáticas, activos equivalentes aos compromissos assumidos em todos os países onde ela exerce a sua actividade."
+  },
+  "6186a7130cebe89b": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nCada Estado-membro exigirá que todas as empresas, cujas sedes sociais esteja situada no seu território, disponham de uma margem de solvência suficiente em relação ao conjunto das suas actividades.\n\nA margem de solvência é constituída:\n\n1. Pelo património da empresa, livre de quaisquer compromissos previsíveis, deduzidos os elementos incorpóreos; este património compreende, nomeadamente:\n\n- o capital social realizado ou, no caso das mútuas, o fundo social realizado,\n\n- metade da parte do capital social ou do fundo social não realizado, que a parte realizada atinja 25 % desse capital ou fundo,\n\n- as reservas, legais e livres, não representativas dos compromissos,\n\n- os lucros transitados de exercícios anteriores.\n\n2. Pelas reservas de lucros que figuram no balanço quando, não tendo sido destinadas a distribuição pelos segurados, possam ser utilizadas para cobrir eventuais prejuízos, desde que a legislação nacional o autorize.\n\n3. Mediante solicitação devidamente justificada da empresa, junto da autoridade de fiscalização do Estado-membro em cujo território se encontra situada a sede social e com o consentimento dessa autoridade:\n\na) Por um montante correspondente a 50 % dos lucros futuros da empresa; o montante dos lucros futuros obtém-se multiplicando o lucro anual previsto pelo factor que representa a duração residual média dos contratos; este factor pode atingir 10, no máximo; o lucro anual previsto é a média aritmética dos lucros que tenham sido obtidos no decurso dos últimos cinco anos nas actividades enumeradas no artigo 1o.\n\nAs bases de cálculo do factor multiplicador do lucro anual previsto, bem como os elementos do lucro anual obtido, serão fixados de comum acordo pelas autoridades competentes dos Estados-membros em colaboração com a Comissão. Até à obtenção desse acordo, esses elementos serão determinados em conformidade com a legislação do Estado-membro no território do qual a empresa (sede, agência ou sucursal) exerce a sua actividade.\n\nLogo que as autoridades competentes tenham fixado a noção de lucros obtidos, a Comissão apresentará propostas tendentes à harmonização das contas anuais das empresas de seguros e à coordenação prevista no no 2 do artigo 1o da Directiva 78/660/CEE (7).\n\nb) Se não for praticada a zillmerização ou no caso de uma zillmerização inferior à carga de aquisição contida no prémio, pela diferença entre a reserva matemática não zillmerizada ou parcialmente zillmerizada e uma reserva matemática zillmerizada à taxa de zillmerização igual à carga de aquisição contida no prémio este montante não pode, no entanto, exceder 3,5 % da soma das diferenças entre os capitais« vida» e as reservas matemáticas para o conjunto dos contratos onde a zillmerização for possível; mas a essa diferença deve, eventualmente, reduzir-se o montante das despesas de aquisição não amortizadas, inscritas no activo;\n\nc) No caso de concordância das autoridades de fiscalização dos Estados-membros interessados, no território dos quais a empresa exerce a sua actividade, pelas mais-valias latentes, que não tenham um carácter excepcional, resultantes da sub-avaliação dos elementos do activo e da sobreavaliação dos elementos do passivo, desde que não sejam reservas matemáticas."
+  },
+  "69972cf866a89d63": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nSem prejuízo do disposto no artigo 20o, o montante mínimo da margem de solvência deve ser determinado consoante os ramos exercidos, nos seguintes termos:\n\na) Para os seguros referidos no ponto 1, alíneas a) e b), do artigo 1o, que não sejam seguros ligados a fundos de investimento, e para as operações referidas no ponto 3 do artigo 1o, o mínimo da margem de solvência deve ser igual à soma dos dois resultados seguintes:\n\n- primeiro resultado:\n\no valor correspondente a 4 % das reservas matemáticas relativas às operações directas sem dedução do resseguro cedido nem do resseguro aceite, é multiplicado pela relação existente, relativamente ao último exercício, entre o montante das reservas matemáticas deduzidas das cessões em resseguro, e o montante bruto, acima previsto, des reservas matemáticas; esta relação não pode, em caso algum, ser inferior a 85 %.\n\n- segundo resultado:\n\npara os contratos cujos capitais em risco não sejam negativos, o valor correspondente a 0,3 % dos capitais seguros pela empresa é multiplicado pela relação existente, relativamente ao último exercício, entre o montante dos capitais em risco que permanecem a cargo da empresa após a cessão em resseguro e a retrocessão, e o montante dos capitais em risco sem dedução do resseguro; esta relação não pode, em caso algum, ser inferior a 50 %;\n\nPara os seguros temporários em caso de morte, com uma duração máxima de três anos, a percentagem acima referida é reduzida para 0,1 %; para os seguros com uma duração superior a três anos mas inferior a cinco, a referida percentagem é reduzida para 0,15 %;\n\nb) Para os seguros complementares referidos no ponto 1, alínea c), do artigo 1o, o mínimo da margem de solvência deve ser igual ao resultado do seguinte cálculo:\n\n- toma-se o valor global dos prémios ou quotizações, incluindo os adicionais, de seguros directos emitidos no decurso do último exercício, mesmo que referentes a outros exercícios,\n\n- acrescenta-se-lhe o montante dos prémios de resseguro aceite, no decurso do último exercício,\n\n- deduz-se-lhe o montante total dos prémios ou quotizações anulados no decurso do último exercício, bem como o montante total dos impostos e taxas referentes aos prémios ou quotizações considerados no valor global acima referido.\n\nO montante assim calculado é dividido em duas partes, em que a primeira vai até ao valor de 10 milhões de unidades de conta e a segunda inclui o excedente, incidindo sobre cada uma delas as percentagens de, respectivamente, 18 % e 16 %, adicionando-se os resultados assim obtidos.\n\nA soma assim obtida é multiplicada pela relação existente, relativamente ao último exercício, entre o montante dos sinistros que, após a cessão e retrocessão em resseguro, permanecem a cargo da empresa e o montante bruto dos sinistros; esta relação não pode, em caso algum, ser inferior a 50 %.\n\nNo caso da associação de subscritores denominada Lloyd's, o cálculo do montante da margem de solvência é efectuado a partir dos prémios líquidos; estes são multiplicados por uma percentagem estimada globalmente, cujo valor é fixado anualmente e determinado pela autoridade de fiscalização do Estado-membro da sede social. Esta percentagem fixa deve ser calculada a partir dos elementos estatísticos mais recentes, abrangendo, nomeadamente, as comissões liquidadas. Estes elementos, bem como o cálculo efectuado, devem ser comunicados às autoridades de fiscalização dos países onde o Lloyd's se encontra estabelecido;\n\nc) Para os seguros de doença a longo prazo, não rescindíveis, indicados no ponto 1, alínea d), do artigo 1o, e para as operações de capitalização referidos no ponto 2, alínea b), do artigo 1o, o mínimo de margem de solvência deve ser igual a 4 % das reservas matemáticas, calculado nas condições estabelecidas para o primeiro resultado da alínea a) do presente artigo;\n\nd) Para as operações das tontinas referidas no ponto 2, alínea a), do artigo 1o, esta margem deve ser igual a 1 % do valor do activo das associações;\n\ne) Para os seguros referidos no ponto 1, alíneas a) e b), do artigo 1o, ligados a fundos de investimento, e para as operações referidas no ponto 2, alíneas c), d) e e), do artigo 1o, o mínimo da margem de solvência deve ser igual:\n\n- ao valor correspondente a 4 % das reservas matemáticas, calculado nas condições previstas para o primeiro resultado da alínea a) deste artigo, na medida em que a empresa assuma um risco de investimento, e ao valor correspondente a 1 % das reservas calculado do mesmo modo, na medida em que a empresa não assuma um risco de investimento e desde que a duração do contrato seja superior a cinco anos e que o montante destinado a cobrir as despesas de gestão previstas no contrato seja fixado para um prazo superior a cinco anos,\n\nacrescido\n\n- do valor correspondente a 0,3 % dos capitais em risco, calculado nas condições previstas para o segundo resultado, da alínea a), segundo parágrafo deste artigo, na medida em que a empresa assuma um risco de mortalidade."
+  },
+  "28bf0407f2d48540": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. O terço do mínimo da margem de solvência, calculado de acordo com o estabelecido no artigo 19o, constitui o fundo de garantia. Pelo menos, 50 % do fundo de garantia deve ser constituído, sem prejuízo do disposto no no 2, pelos elementos enumerados nos pontos 1 e 2 do artigo 18o.\n\n2. a) O fundo de garantia é constituído, no mínimo, por 800 000 unidades de conta.\n\nb) Cada Estado-membro pode prever a redução do mínimo do fundo de garantia para 600 000 unidades de conta, relativamente às mútuas, às sociedades sob a forma de mútuas e às tontinas.\n\nc) Relativamente às mútuas de seguros referidas no ponto 2, segunda frase do segundo travessão, do artigo 3o, que estejam abrangidas pela presente directiva, e às tontinas, cada Estado-membro pode autorizar a constituição de um mínimo do fundo de garantia igual a 100 000 unidades de conta, a elevar, gradualmente, até ao montante fixado na alínea b), através de prestações sucessivas de 100 000 unidades de conta, cada vez que o montante das quotizações seja aumentado em 500 000 unidades de conta.\n\nd) O mínimo do fundo de garantia referido nas alíneas a), b) e c) deve ser constituído pelos elementos enumerados nos pontos 1 e 2 do artigo 18o\n\n3. As mútuas de seguros que pretendam estender a sua actividade, nos termos do no 2 do artigo 8o, ou do artigo 10o, não o podem fazer sem que se adaptem imediatamente às disposições contidas no no 2, alíneas a) e b), do presente artigo."
+  },
+  "2197ed03bfefbf59": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\n1. Os Estados-membros não fixarão qualquer regra no que se refere à escolha dos activos que ultrapassem aqueles que representam as reservas previstas no artigo 17o.\n\n2. Sem prejuízo do disposto no no 2 do artigo 17o, nos no 1 e 3 do artigo 24o, no no 1, última alínea, do artigo 26o, os Estados-membros não restringirão a livre disponibilidade dos activos mobiliários e imobiliários que fazem parte do património das empresas autorizadas.\n\n3. O presente artigo não obsta às medidas que os Estados-membros, embora respeitando a regulamentação dos países de exploração indicada no no 2 do artigo 17o, e salvaguardando os interesses dos segurados, estão habilitados a tomar na qualidade de proprietários ou associados das empresas em questão."
+  },
+  "0e6bc5533b48d72e": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\n1. Os Estados-membros não podem impor às empresas a obrigação de ceder uma parte das suas subscrições, relativas às actividades enumeradas no artigo 1o, a um ou mais organismos determinados pela regulamentação nacional.\n\n2. a) A República Italiana pode, a título excepcional, manter a obrigação imposta às empresas estabelecidas no seu território de cederem uma parte das suas subscrições ao Istituto Nazionale di Assicurazioni, desde que:\n\n- não seja de qualquer modo alargado o êmbito desta obrigação, tal como estiver estabelecida no momento da notificação da presente directiva.\n\n- sempre que na definição da taxa de cessão obrigatória se tome em consideração a antiguidade da agência ou da sucursal estabelecida em Itália, sejam também considerados todos os exercícios sociais durante os quais a empresa praticou os ramos abrangidos pelo disposto no artigo 1o, no território do Estado-membro onde está situada a sua sede social. A autoridade competente deste Estado emitirá, então, um certificado conforme ao disposto no no 1, alínea b), do artigo 10o, relativo a todo o período de actividade da empresa nos ramos em causa.\n\nb) Esta matéria será objecto de um novo exame no âmbito de uma segunda directiva, relativa à coordenação da legislação respeitante ao seguro de Vida e que fixará as disposições destinadas a facilitar o exercício efectivo da livre prestação de serviços."
+  },
+  "b04da8c0b5595add": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\n1. Cada Estado-membro exigirá às empresas que tenham a sua sede social no seu território que prestem anualmente, em relação ao conjunto de todas as suas operações, contas da sua situação e da sua solvência.\n\n2. Os Estados-membros exigirão às empresas que actuem no seu território a apresentação periódica da documentação necessária ao exercício da fiscalização, bem como de documentos estatísticos. As autoridades de fiscalização competentes comunicarão, entre si, os documentos e esclarecimentos úteis ai exercício da fiscalização."
+  },
+  "c3031109c7b5676c": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\n1. Se uma empresa não se adaptar às condições previstas no artigo 17o, a autoridade de fiscalização do Estado-membro em cujo território ela exerce a sua actividade pode, após ter informado da sua intenção as autoridades de fiscalização do Estado-membro da sede social, proibir-lhe a livre disponibilidade dos activos localizados neste Estado-membro.\n\n2. Com vista ao restabelecimento da situação financeira de uma empresa cuja margem de solvência deixe de atingir o mínimo prescrito no artigo 19o, a autoridade de fiscalização do Estado-membro da sede social exigir-lhe-á um plano de recuperação, que deve ser submetido à sua aprovação.\n\n3. Se a margem de solvência baixar a um valor inferior ao fundo de garantia definido no artigo 20o ou se este fundo deixar de estar constituído em conformidade com o citado artigo, a autoridade de fiscalização do Estado-membro da sede social exigirá da empresa um plano de financiamento a curto prazo, que deve ser submetido à sua aprovação.\n\nAquela autoridade de fiscalização pode, além disso, restringir ou proibir a livre disponibilidade dos activos da empresa. Deve informar desta circunstância as autoridades dos Estados-membros em cujos territórios a empresa se encontra igualmente autorizada, as quais, a seu pedido, tomarão medidas idênticas.\n\n4. Nos casos previstos nos no 1 e 3, as autoridades de fiscalização competentes podem tomar, além das citadas, todas as medidas adequadas à salvaguarda dos interesses dos segurados.\n\n5. As autoridades de fiscalização dos Estados-membros, em cujos territórios a empresa em questão estiver igualmente autorizada, colaborarão na execução das medidas previstas nos no 1 a 4."
+  },
+  "41df68e714afe939": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\n1. Cada Estado-membro permitirá que as empresas autorizadas transfiram a totalidade ou parte da respectiva carteira de contratos, desde que a cessionária possua a margem de solvência necessária, atendendo a essa mesma transferência.\n\nAs autoridades de fiscalização interessadas consultar-se-ao mutuamente antes de concederem a autorização para essa mesma transferência.\n\n2. Uma vez autorizada pela autoridade nacional competente, a transferência torna-se oponível, de pleno direito, aos subscritores interessados."
+  },
+  "cca1f4aa12360b34": {
+   "fragment_id": "SECÇÃO C — Revogação da Autorização",
+   "type": "divisao",
+   "heading": "SECÇÃO C — Revogação da Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO C — Revogação da Autorização"
+  },
+  "5b5f059bed507d61": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\n1. A autorização concedida pela autoridade competente do Estado-membro em cujo território está situada a sede social pode ser revogada, por esta mesma autoridade, no caso de a empresa:\n\na) Deixar de satisfazer as condições de acesso;\n\nb) Não ter podido realizar, nos prazos concedidos, as medidas previstas no plano de recuperação ou no plano de financiamento, previsto no artigo 24o;\n\nc) Faltar gravemente ao cumprimento das obrigações que lhe são impostas pela regulamentação nacional.\n\nEm caso de revogação da autorização, a autoridade de fiscalização do Estado-membro onde está situada a sede social informará desse facto as autoridades de fiscalização dos outros Estados-membros, que também tenham concedido autorizações a essa mesma empresa; estas devem proceder, igualmente, à revogação da respectiva autorização. A autoridade de fiscalização do Estado-membro da sede social tomará com a colaboração das outras autoridades, todas as medidas necessárias à salvaguarda dos interesses dos segurados, nomeadamente, através de restrições à livre disponibilidade dos activos da empresa, se tal restrição não tiver sido já anteriormente imposta, ao abrigo do disposto no no 1, segundo parágrafo, e no 3 do artigo 24o.\n\n2. A autorização concedida às agências ou sucursais de empresas que tenham a sua sede social num outro Estado-membro pode ser revogada, no caso de a agência ou sucursal:\n\na) Deixar de satisfazer as condições de acesso;\n\nb) Faltar gravemente às obrigações que lhe são impostas pela regulamentação do Estado-membro onde ela exerce a sua actividade, especialmente no que respeita à constituição das reservas previstas no artigo 17o\n\nAntes de procederem ao revogação da autorização, as autoridades de fiscalização do Estado-membro de exercício consultarão a autoridade de fiscalização do Estado-membro da sede social da empresa. Se considerarem que devem suspender a actividade destas agências ou sucursais antes do resultado desta consulta, informarão, imediatamente, desse facto, a referida autoridade.\n\n3. Qualquer decisão de revogação de autorização ou de suspensão da actividade deve ser fundamentada de maneira precisa e notificada à empresa interessada.\n\nCada Estado-membro deve prever um recurso jurisdicional dessa decisão."
+  },
+  "37f01284da25d405": {
+   "fragment_id": "TÍTULO III — REGRAS APLICÁVEIS AS AGENCIAS OU SUCURSAIS ESTABELECIDAS NO INTERIOR DA COMUNIDADE, DE EMPRESAS CUJA SEDE SOCIAL ESTÁ SITUADA FORA DA COMUNIDADE",
+   "type": "divisao",
+   "heading": "TÍTULO III — REGRAS APLICÁVEIS AS AGENCIAS OU SUCURSAIS ESTABELECIDAS NO INTERIOR DA COMUNIDADE, DE EMPRESAS CUJA SEDE SOCIAL ESTÁ SITUADA FORA DA COMUNIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — REGRAS APLICÁVEIS AS AGENCIAS OU SUCURSAIS ESTABELECIDAS NO INTERIOR DA COMUNIDADE, DE EMPRESAS CUJA SEDE SOCIAL ESTÁ SITUADA FORA DA COMUNIDADE"
+  },
+  "e838d8e09eb2abe1": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\n1. Cada Estado-membro subordinará a uma autorização administrativa o acesso, no seu território, às actividades mencionadas no artigo 1o, de qualquer empresa cuja sede social esteja situada fora da Comunidade.\n\n2. O Estado-membro pode conceder a autorização desde que a empresa satisfaça, pelo menos, as seguintes condições:\n\na) Esteja habilitada, de acordo com a legislação nacional a sue está submetida, a exercer as actividades mencionadas no artigo 1o;\n\nb) Constitua uma agência ou sucursal no território deste Estado-membro;\n\nc) Comprometa-se a estabelecer, na sede da agência ou sucursal, uma contabilidade adequada à actividade que ela aí exerce, bem como a aí manter todos os documentos relativos aos negócios celebrados;\n\nd) Designe um mandatário geral que deve ter o acordo da autoridade competente;\n\ne) Disponha de activos, no Estado-membro de exploração, num montante, pelo menos, igual à metade do mínimo prescrito no no 2, alínea a), do artigo 20o, para o fundo de garantia, e deposite, a título de caução, um quarto deste mínimo;\n\nf) Comprometa-se a possuir uma margem de solvência, em conformidade com o disposto no artigo 29o;\n\ng) Apresente um programa de actividades, de acordo com o disposto nos no 1 e 2 do artigo 11o."
+  },
+  "8b0ba18150785798": {
+   "fragment_id": "Artigo 28o",
+   "type": "artigo",
+   "heading": "Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o\n\nOs Estados-membros exigirão que as empresas constituam reservas suficientes, em conformidade com o disposto no artigo 17o, que correspondam aos compromissos assumidos no seu território. Providenciarão para que estas reservas sejam representadas, pela agência ou sucursal, através de activos equivalentes e, na medida fixada pelo Estado-membro, congruentes.\n\nA legislação dos Estados-membros é aplicável ao cálculo destas reservas, à determinação das categorias de investimento e à avaliação dos activos, bem como, se for caso disso, à fixação dos limites dentro dos quais os activos podem ser admitidos em representação destas reservas.\n\nO Estado-membro interessado exigirá que os activos admitidos em representação destas reservas estajam localizados no seu território. É, no entanto, aplicável o no 3 do artigo 17o."
+  },
+  "6113b7a85fe2109d": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\n1. Cada Estado-membro exigirá que as agências ou sucursais estabelecidas no seu território disponham de uma margem de solvência constituída pelos elementos enunciados no artigo 18o. A margem mínima será calculada de harmonia com o disposto no artigo 19o. Todavia, para o cálculo desta margem, apenas serão tomadas em consideração as operações realizadas pela agência ou sucursal.\n\n2. O terço do mínimo da margem de solvência constitui o fundo de garantia.\n\nO montante deste fundo não pode, no entanto, ser inferior a metade do mínimo previsto no no 2, alínea a), do artigo 20o. Nele está incluída a caução inicialmente depositada em conformidade com o disposto no no 2, alínea c), do artigo 27o.\n\nO fundo de garantia e o mínimo deste fundo são constituídos de acordo com o disposto no artigo 20o.\n\n3. Os activos representativos do mínimo da margem de solvência devem estar localizados no interior do Estado-membro de exploração, até à concorrência do fundo de garantia e, na parte excedente, no interior da Comunidade."
+  },
+  "d90b1a3d1458f5cd": {
+   "fragment_id": "Artigo 30o",
+   "type": "artigo",
+   "heading": "Artigo 30o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o\n\n1. As empresas que tenham solicitado ou obtido autorização de vários Estados-membros podem requerer as seguintes facilidades, que só podem ser concedidas em conjunto:\n\na) Que a margem de solvência prevista no artigo 29o, seja calculada em função da actividade global que elas exercem no interior da Comunidade; neste caso, apenas serão tomadas em consideração para aquele cálculo, as operações realizadas pelo conjunto das agências ou sucursais estabelecidas no interior da Comunidade;\n\nb) Que a caução mencionada no no 2, alínea e), do artigo 27o, seja depositada apenas num dos Estados-membros onde elas exercem a sua actividade;\n\nc) Que os activos representativos do fundo de garantia estajam localizados em qualquer um dos Estados-membros onde elas exercem a sua actividade.\n\n2. O pedido de concessão das facilidades previstas no no 1 deve ser dirigido às autoridades competentes dos Estados-membros em causa. Neste pedido, deve ser indicada a autoridade encarregada de, no futuro, verificar, para o conjunto das suas actividades, a solvência das agências ou sucursais estabelecidas no seio da Comunidade. Deverão ser apresentados os motivos da escolha da autoridade, feita pela empresa. A caução será depositada no Estado-membro correspondente.\n\n3. As facilidades previstas no no 1 apenas podem ser concedidas mediante o acordo das autoridades competentes de todos os Estados-membros junto das quais o pedido foi formulado. Tais facilidades produzirão efeitos a partir da data em que a autoridade de fiscalização escolhida se obrigar, perante as demais autoridades de fiscalização, a verificar, para o conjunto das suas operações, a solvência das agências e sucursais estabelecidas na Comunidade.\n\nÀ autoridade de fiscalização escolhida devem ser fornecidas pelos outros Estados-membros as informações necessárias para a verificação da solvência global das agências e sucursais estabelecidas no seu território.\n\n4. Por iniciativa de um ou vários Estados-membros interessados, as facilidades concedidas, ao abrigo do presente artigo, serão canceladas, simultaneamente, para o conjunto dos Estados-membros a que respeitem."
+  },
+  "39bbf3b8c2862910": {
+   "fragment_id": "Artigo 31o",
+   "type": "artigo",
+   "heading": "Artigo 31o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o\n\n1. a) As agências e sucursais mencionadas no presente título não podem, sem prejuízo do disposto na alínea b), acumular no território de um Estado-membro, o exercício das actividades mencionadas no Anexo da Primeira Directiva de Coordenação (seguro não vida), com o exercício das abrangidas pela presente directiva.\n\nb) Os Estados-membros podem, sem prejuízo do disposto na alínea c), prever que as agências e sucursais abrangidas pelo presente título, que, no momento da notificação da presente directiva, pratiquem a acumulação destas duas actividades no território de um Estado-membro, possam continuar a praticar aí esta acumulação, desde que adoptem, para cada uma das actividades, uma gestão distinta, de acordo com o previsto no artigo 14o.\n\nc) O Estado-membro que, ao abrigo do disposto no no 6, alíneas a) ou b), do artigo 13o, tenha imposto às empresas estabelecidas no seu território a obrigação de deixar de acumular as actividades que elas praticavam no momento da notificação da presente directiva, deve, igualmente, impor tal obrigação às agências e sucursais mencionadas no presente título estabelecidas no seu território e que aí pratiquem essa acumulação.\n\nd) Os Estados-membros podem prever que as agências e sucursais mencionadas no presente título, cuja sede social pratique a acumulação de actividades e que, no momento da notificação da presente directiva, pratiquem no território de um Estado-membro unicamente as actividades mencionadas na presente directiva, possam prosseguir aí as suas actividades. Se a empresa pretender exercer, nesse território, as actividades abrangidas pela Primeira Directiva de Coordenação (seguro não vida), já não poderá exercer as actividades abrangidas pela presente directiva senão por intermédio de uma filial.\n\n2. Os artigos 23o e 24o são aplicáveis, mutatis mutandis, às agências ou sucursais referidas no presente título.\n\nPara efeitos de aplicação do artigo 24o, a autoridade de fiscalização que efectuar a verificação da solvência global dessas agências ou sucursais é aquiparada à autoridade de fiscalização do Estado-membro da sede social.\n\n3. Em caso de revogação da autorização, pela autoridade referida no no 2 do artigo 30o, esta informará as autoridades de fiscalização dos outros Estados-membros onde a empresa exerce a sua actividade, as quais tomarão as medidas adequadas. Se a decisão de revogação for motivada por insuficiência da margem de solvência, calculada de acordo com o disposto no no 1, alínea a), do artigo 30o, as autoridades de fiscalização dos outros Estados-membros envolvidos procederão, igualmente, ao revogação da autorização."
+  },
+  "1b055f8d4d63057e": {
+   "fragment_id": "Artigo 32o",
+   "type": "artigo",
+   "heading": "Artigo 32o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o\n\nA Comunidade pode, mediante acordos celebrados em conformidade com o Tratado, com um ou vários países terceiros, convencionar a aplicação de disposições diversas das previstas no presente título, com vista a assegurar, com base na reciprocidade, uma protecção adequada aos segurados dos Estados-membros."
+  },
+  "d59a44661ddf3224": {
+   "fragment_id": "TÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E DIVERSAS",
+   "type": "divisao",
+   "heading": "TÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E DIVERSAS"
+  },
+  "8f6df63cc937cce8": {
+   "fragment_id": "Artigo 33o",
+   "type": "artigo",
+   "heading": "Artigo 33o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33o\n\n1. Os Estados-membros concederão às empresas referidas no Título II e que, no momento da entrada em vigor das medidas de execução da presente directiva, pratiquem, no seu território, um ou vários ramos mencionados no Anexo, um prazo de cinco anos, a contar da notificação da presente directiva, para se adaptarem às disposições constantes dos artigos 18o, 19o e 20o.\n\n2. Além disso, os Estados-membros podem:\n\na) Conceder às empresas mencionadas no no 1 e que, expirado o prazo de cinco anos, não tenham constituído integralmente a margem de solvência, um prazo complementar, não superior a dois anos, na condição de que essas empresas submetam, em conformidade com o artigo 24o, à aprovação da autoridade de fiscalização as medidas que se propõem tomar para a atingir;\n\nb) Dispensar, com excepção das mútuas de seguros previstas no ponto 2, segundo parágrafo, segundo travessão do artigo 3o, as empresas referidas no no 1 do presente artigo cujo montante da margem de solvência, a constituir de acordo com o prazo de cinco anos, disposto no artigo 19o, sem que haja lugar a dedução do resseguro, não atinja, findo o prazo de cinco anos, o fundo mínimo de garantia, previsto no no 2, alíneas a) e b), do artigo 20o, da obrigação de constituírem esse fundo, antes do final do exercício em que aquele montante atinja esse mínimo.\n\nO prazo máximo assim concedido às empresas para constituírem esse mínimo não pode, no entanto, em caso algum, exceder dez anos, a contar da notificação da presente directiva.\n\n3. As empresas que pretendam alargar a sua actividade, nos termos do disposto no no 2 do artigo 8o, ou no artigo 10o, não podem fazê-lo sem que imediatamente se adaptem às regras da presente directiva.\n\n4. As empresas que não revistam uma das formas indicadas no artigo 8o podem continuar, durante três anos a contar da notificação da presente directiva, a exercer a sua actividade actual, sob a forma jurídica que revestem no momento desta notificação. As empresas criadas no Reino Unido« by Royal Charter» ou« by private Act» ou« by special public Act» podem prosseguir as suas actividades, sob a sua forma actual, sem limitações de tempo.\n\nOs Estados-membros interessados elaborarão a lista dessas empresas e comunicá-la-ao aos outros Estados-membros, bem como à Comissão.\n\n5. As empresas que pratiquem, de acordo com o seu objecto social, o seguro de vida e efectuem operações de poupança podem prosseguir estas actividades, com excepção das operações de poupança que devem cessar dentro do prazo de três anos, a contar da notificação da presente directiva. Escepcionalmente, a« Caisse général d'épargne et de retraite» (CGER) na Bélgica, as sociedades« registered under the Friendly Societies Acts» no Reino Unido e a« Banca nazionali delle comunicazioni» em Itália, podem, no entanto, prosseguir as actividades que pratiquem no momento da notificação da presente directiva.\n\n6. As empresas que pratiquem a acumulação, nas condições previstas no artigo 13o, dispõem de um prazo de cinco anos a contar da notificação da presente directiva para se adaptarem ao disposto no artigo 14o.\n\n7. A pedido das empresas que satisfaçam as obrigações impostas pelos artigos 17o a 20o, os Estados-membros suprimirão as medidas restritivas, tais como hipotecas, depósitos ou caucionamentos, constituídos por força da regulamentação nacional."
+  },
+  "573f0d98d7525e89": {
+   "fragment_id": "Artigo 34o",
+   "type": "artigo",
+   "heading": "Artigo 34o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34o\n\nOs Estados-membros concederão às agências ou sucursais mencionadas no Título III e que, no momento da entrada em vigor das medidas de execução da presente directiva, pratiquem um ou vários dos ramos citados no Anexo e que não alarguem a sua actividade, nos termos do disposto no no 2 do artigo 10o, um prazo máximo de cinco anos a contar da notificação da presente directiva, para se adaptarem ao artigo 29o."
+  },
+  "3d01103fefb72658": {
+   "fragment_id": "Artigo 35o",
+   "type": "artigo",
+   "heading": "Artigo 35o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35o\n\nSempre que for criada uma filial, nos termos do no 5 do artigo 13o, o fundo mínimo de garantia pode ser representado, até metade do seu valor, por uma garantia financeira irrevogável concedida pela sociedade-mae, nas seguintes condições:\n\na) Pelo menos 95o do capital social da filial deve pertencer à sociedade-mae;\n\nb) A fracção não realizada do capital social não pode ser utilizada para a constituição da metade do mínimo do fundo de garantia que não se encontra coberta pela garantia financeira irrefogável;\n\ne\n\nc) A sociedade-mae deve satisfazer as condições financeiras previstas, tanto na Primeira Directiva de Coordenação (seguro não vida), como na presente directiva, não sendo os fundos correspondentes ao montante da garantia concedida considerados como fazendo parte do património livre dessa sociedade.\n\nO benefício consagrado neste regime é válido por um período de sete anos a contar da data da sua concessão. A filial deve, no decorrer deste período, e o mais tardar a partir do terceiro ano, substituir progressivamente a garantia da sociedade-mae por património livre. Simultaneamente com o pedido de autorização, a filial deve submeter à aprovação da autoridade de fiscalização um plano para este efeito."
+  },
+  "9336812a0b6f5b72": {
+   "fragment_id": "Artigo 36o",
+   "type": "artigo",
+   "heading": "Artigo 36o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36o\n\nDurante um período que expira aquando da entrada em vigor de um acordo concluído nos termos do artigo 32o com um país terceiro e, o mais tardar, no termo de um prazo de quatro anos após a notificação da presente directiva, cada Estado-membro pode manter, a favor das empresas desse país estabelecidas no seu território, o regime que lhes era aplicado em 1 de Janeiro de 1979, no que diz respeito à congruência e à localização das reservas técnicas, incluindo as reservas matemáticas, desde que informe os outros Estados-membros e a Comissão e desde que não exceda os limites de flexibilidade concedidos, ao abrigo do no 2 do artigo 17o, às empresas de Estados-membros estabelecidas no seu território."
+  },
+  "6e9ede1856566627": {
+   "fragment_id": "Artigo 37o",
+   "type": "artigo",
+   "heading": "Artigo 37o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37o\n\n1. Sempre que um Estado-membro exigir dos seus nacionais uma prova de honorabilidade e de que não foram anteriormente declarados em falência, ou apenas uma destas duas provas, aceitará, como prova suficiente, relativamente aos nacionais dos outros Estados-membros, a apresentação de um certificado do registo criminal ou, na sua falta, de um documento equivalente emitido por uma autoridade judicial ou administrativa competente do Estado-membro de origem ou de proveniência do qual se possa concluir que estes requisitos estão preenchidos.\n\n2. Se o documento referido no no 1 não for emitido pelo Estado-membro de origem ou de proveniência, tal documento pode ser substituído por uma declaração sob juramento - ou, nos Estados onde tal juramento não exista, por uma declaração solene - feita pelo interessado perante uma autoridade judicial ou administrativa competente ou, se for caso disso, perante um notário do Estado-membro de origem ou de proveniência, que emitirá uma declaração fazendo fé desse juramento ou dessa declaração solene. A declaração de não existência de falência poderá ser feita, igualmente, perante um organismo profissional qualificado desse mesmo Estado.\n\n3. Os documentos emitidos nos termos dos no 1 e 2, não devem, aquando da sua apresentação, ter mais de três meses de data.\n\n4. Os Estados-membros designarão, no prazo de dezoito meses a contar da data da notificação da presente directiva, as autoridades e organismos competentes para a emissão dos documentos referidos nos no 1 e 2, e, desse facto, informarão imediatamente os outros Estados-membros e a Comissão.\n\nDentro do mesmo prazo, cada Estado-membro indicará, igualmente, aos outros Estados-membros e à Comissão, as autoridades e organismos perante os quais devem ser apresentados os documentos mencionados no presente artigo, juntamente com o pedido para exercer, no território desse Estado-membro, as actividades referidas no artigo 1o."
+  },
+  "0f016cfab4819da5": {
+   "fragment_id": "TÍTULO V — DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "TÍTULO V — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — DISPOSIÇÕES FINAIS"
+  },
+  "1d98354b8c1d2b4a": {
+   "fragment_id": "Artigo 38o",
+   "type": "artigo",
+   "heading": "Artigo 38o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38o\n\nA Comissão e as autoridades competentes dos Estados-membros colaborarão estreitamente com vista a facilitar a fiscalização do seguro directo no interior da Comunidade e a examinar as dificuldades que poderão surgir da aplicação da presente directiva."
+  },
+  "b0e3c83315da08ea": {
+   "fragment_id": "Artigo 39o",
+   "type": "artigo",
+   "heading": "Artigo 39o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39o\n\n1. A Comissão submeterá ao Conselho, num prazo de seis anos a contar da notificação da presente directiva, um relatório sobre as consequências das exigências financeiras estabelecidas pela presente directiva na situação dos mercados de seguros dos Estados-membros. A Comissão submeterá ao Conselho, em caso de necessidade, relatórios intercalares antes do termo do período de transição, previsto no no 1 do artigo 33o.\n\n2. No termo de um período de dez anos, a contar da data da notificação da presente directiva, a Comissão submeterá ao Conselho um relatório consagrado às operações dos dois tipos de empresas abrangidas pelo campo de aplicação da presente directiva, isto é, as empresas que praticam a acumulação do exercício das actividades referidas na Primeira Directiva de Coordenação (seguro não vida) e pela presente directiva e as empresas que apenas exerçam as actividades referidas na presente directiva.\n\n3. O Conselho, deliberando sob proposta da Comissão, procederá, de dois em dois anos, ao exame e, se for caso disso, à revisão dos montantes referidos em unidades de conta na presente directiva, tendo em conta a evolução da situação económica e monetária na Comunidade. A Comissão submeterá ao Conselho a sua primeira proposta relativamente a esta matéria, simultaneamente com uma proposta relativa aos seguros não vida, de acordo com o disposto no artigo 3o da Directiva 76/580/CEE (8), e o mais tardar quatro anos após a notificação da presente directiva."
+  },
+  "95a2293d0f3d99c4": {
+   "fragment_id": "Artigo 40o",
+   "type": "artigo",
+   "heading": "Artigo 40o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40o\n\nOs Estados-membros alterarão as respectivas disposições nacionais, de harmonia com o determinado na presente directiva, no prazo de dezoito meses a contar da sua notificação e, desse facto informarão imediatamente a Comissão. As disposições assim alteradas serão aplicáveis, sem prejuízo do disposto nos artigos 33o a 36o, no prazo de trinta meses a contar desta notificação."
+  },
+  "a90ab4fd4bb820cc": {
+   "fragment_id": "Artigo 41o",
+   "type": "artigo",
+   "heading": "Artigo 41o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41o\n\nA partir da notificação da presente directiva, os Estados-membros comunicarão à Comissão o texto das principais disposições legislativas, regulamentares ou administrativas que adoptem no domínio regulado pela presente directiva."
+  },
+  "bde6911b9bf6072d": {
+   "fragment_id": "Artigo 42o",
+   "type": "artigo",
+   "heading": "Artigo 42o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 5 de Março de 1979.\n\nPelo Conselho\n\nO Presidente\n\nJ. FRANÇOIS-PONCET\n\n(1) JO no C 35 de 28. 3. 1974, p. 9.(2) JO no C 140 de 13. 11. 1974, p. 44.(3) JO no C 109 de 19. 9. 1974, p. 1.(4) JO no L 228 de 16. 8. 1973, p. 20.(5) JO no L 228 de 16. 8. 1973, p. 3.(6) JO no L 356 de 31. 12. 1977, p. 1.(7) JO no L 222 de 14. 8. 1978, p. 11.(8) JO no L 189 de 13. 7. 1976, p. 13."
+  },
+  "8089ffd695cd424a": {
+   "fragment_id": "ANEXO — CLASSIFICAÇÃO POR RAMO",
+   "type": "divisao",
+   "heading": "ANEXO — CLASSIFICAÇÃO POR RAMO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CLASSIFICAÇÃO POR RAMO\n\nI. Os seguros mencionados no ponto 1, alíneas a), b) e c), do artigo 1o, com exclusão dos referidos nos pontos II e III.\n\nII. O seguro de nupcialidade o seguro de natalidade.\n\nIII. Os seguros mencionados no ponto 1, alíneas a) e b), do artigo 1o, ligados a fundos de investimento.\n\nIV. O permanent health insurance, citado no ponto 1, alínea d), do artigo 1o.\n\nV. As operações de tontinas mencionadas no ponto 2, alínea a), do artigo 1o.\n\nVI. As operações de capitalização mencionadas no ponto 2, alínea b), do artigo 1o.\n\nVII. As operações de gestão de fundos colectivos de reforma mencionados no ponto 2, alínea c) e d), do artigo 1o.\n\nVIII. As operações mencionadas no ponto 2, alínea e) do artigo 1o.\n\nIX. As operações mencionadas no ponto 3 do artigo 1o."
+  },
+  "59d665f73f23d198": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1979L0267 — PT — 19.12.2002 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31979L0267) [PRIMEIRA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31979L0267) [de 5 de Março de 1979](http://publications.europa.eu/resource/celex/31979L0267) [relativa à coordenação das disposições legislativas, regulamentares e administrativas, respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício](http://publications.europa.eu/resource/celex/31979L0267) [79/267/CEE](http://publications.europa.eu/resource/celex/31979L0267) (JO L 063, 13.3.1979, p.1)\n\n**revogado por:**\n\n- [Directiva 2002/83/CE do Parlamento Europeu e do Conselho de 5 de Novembro de 2002](http://publications.europa.eu/resource/celex/32002L0083) — L 345 — 1 — 19.12.2002"
+  }
+ }
+}

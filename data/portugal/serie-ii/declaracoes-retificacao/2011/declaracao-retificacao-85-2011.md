@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:2365385:por
+title: Declaração de Rectificação n.º 85/2011
+short_title: null
+summary: Rectifica o Plano de Pormenor n.º 1 de Altura
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Castro Marim
+proposing_entity: null
+official_number: 85/2011
+official_date: null
+publication_date: '2011-01-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/2011, Série II de 2011-01-13
+  number: '9'
+  series: II
+  supplement: null
+  pages: 2723 - 2726
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/01/009000000/0272302726.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2365385'
+  dre_path: /dr/detalhe/declaracao-rectificacao/85-2011-2365385
+  internal: pt:dre:2365385:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/85-2011-2365385
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/85-2011-2365385
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b540d3af546ee64b72da95fdd48c150d7a5bbba4379e51a97183a5ec9ca34b3e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:39:09Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 85/2011
+
+O Dr. José Fernandes Estevens, presidente da Câmara Municipal de Castro Marim, torna público que a Câmara Municipal de Castro Marim deliberou, por unanimidade, na sua reunião ordinária de 10 de Dezembro de 2010, aprovar a declaração de rectificação do Plano de Pormenor n.º 1 de Altura, publicado sob a declaração n.º 312/2007 no Diário da República, 2.ª série, n.º 219, de 14 de Novembro de 2007, com alteração publicada através do aviso n.º 24 075/2008 no Diário da República, 2.ª série, n.º 187, de 26 de Setembro de 2008.
+
+A declaração de rectificação foi comunicada, antes do envio para publicação e depósito, à Assembleia Municipal de Castro Marim que em reunião ordinária ocorrida a 17 de Dezembro de 2010 tomou conhecimento da mesma, não manifestando qualquer oposição.
+
+Trata-se de correcções de lapsos no quadro síntese, que se enquadram no previsto na alínea a) do n.º 4, por remissão do n.º 5 do artigo 97.º-A do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção dada pelo [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro, necessárias efectuar para efeitos de registo da operação de emparcelamento e reparcelamento prevista e posterior execução do Plano de Pormenor.
+
+Nos termos do artigo 148.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, alterado e republicado pelo [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro, para efeitos de eficácia, publica-se no Diário da República, 2.ª série, a declaração de rectificação do Plano de Pormenor n.º 1 de Altura, incluindo o quadro síntese e a planta de implantação do Plano rectificados em conformidade.
+
+5 de Janeiro de 2011. - O Presidente da Câmara, José Fernandes Estevens.
+
+Submetido a registo o Plano de Pormenor n.º 1 de Altura, acto que terá, entre outras, a consequência de emparcelar e reparcelar os prédios que integram o referido Plano, vieram a ser detectadas pela Conservatória do Registo Predial algumas divergências relacionadas com áreas do Plano:
+
+1.º Uma pequena divergência de 2 m2 entre o somatório das áreas das parcelas resultantes da operação de emparcelamento e o somatório das áreas de lotes, após reparcelamento, sendo que a primeira tem menos 2 m2 que a segunda;
+
+2.º Divergência de 23 m2 entre o somatório das áreas parcelares de cedências e o valor total de cedências, sendo que o primeiro tem menos 23 m2 que o segundo.
+
+Estes dois pequenos lapsos, de diminuta relevância no âmbito da operação, deixaram de constituir óbice à evolução do processo, porquanto se efectuou alteração da Certidão do Plano de Pormenor, emitida nos termos e para os fins do disposto no artigo 92.º-A do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção dada pelo [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro.
+
+Não obstante, veio depois a ser detectada, ainda no quadro do processo de registo, a omissão de 466 m2, respeitantes a duas parcelas de terreno cedidas no âmbito da operação de loteamento Bela Praia, em Altura, e desafectadas do domínio público municipal para integrarem o Plano de Pormenor n.º 1 de Altura.
+
+Tais parcelas, não contabilizadas para efeitos de índice de construção, porquanto tal faculdade já tinha sido utilizada no loteamento que integraram originariamente, passaram a integrar a área do Plano, contudo, foram omitidas nos espaços que resultaram por efeito da aprovação do Plano. Dito de outro modo, das várias parcelas integrantes do Plano resultam: lotes e áreas de cedência, sendo estas últimas destinadas a equipamentos, espaços verdes e de utilização colectiva, arruamentos e estacionamentos. Tendo ocorrido que os 466 m2, somatório das duas parcelas, não foram devidamente traduzidos nas áreas de cedência para espaços verdes e de utilização colectiva, onde se constata que estão inclusas depois das devidas averiguações.
+
+As correcções em questão enquadram-se no previsto na alínea a) do n.º 4, por remissão do n.º 5 do artigo 97.º-A do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, alterado e republicado pelo [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro, mantendo inalteráveis os pressupostos nucleares do mesmo.
+
+Integram a presente declaração de rectificação, fazendo dela parte, o quadro síntese e a planta de implantação do Plano rectificados em conformidade.
+
+Plano de Pormenor n.º 1 de Altura
+
+Quadro síntese
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/009000000/0272302726.pdf)
+
+204171738

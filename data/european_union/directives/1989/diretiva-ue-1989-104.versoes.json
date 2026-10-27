@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0104:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0104-20081128",
+ "dre_path": null,
+ "source_lastmod": "2008-11-28",
+ "versions": [
+  {
+   "date": "1989-02-11",
+   "future": false,
+   "celex": "31989L0104",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "29887493a977dfb0",
+    "1285289e6eceade3",
+    "85bafe70939f340c",
+    "6d57f62c6d140cfa",
+    "1b163ece69fe4412",
+    "d38fb61546661135",
+    "b017849d0b4ef931",
+    "5db23744a2519f27",
+    "5c8b8dbab10e1569",
+    "c56adf6f7c22a4d3",
+    "cc69c41bfb520764",
+    "43da3d08b7841042",
+    "dadadc95d7334d94",
+    "bc35b81e21509717",
+    "ab37bbeaebf66d26",
+    "38a3148d75be99de",
+    "c3862ae99af60a20",
+    "6abea8aadb7ddd4f"
+   ]
+  },
+  {
+   "date": "2008-11-28",
+   "future": false,
+   "celex": "01989L0104-20081128",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Âmbito",
+    "Suprime Artigo 2.º — Sinais susceptíveis de constituir uma marca",
+    "Suprime Artigo 3.º — Motivos de recusa ou de nulidade",
+    "Suprime Artigo 4.º — Outros motivos de recusa ou de nulidade relativos a conflitos com direitos anteriores",
+    "Suprime Artigo 5.º — Direitos conferidos pela marca",
+    "Suprime Artigo 6.º — Limitação dos efeitos da marca",
+    "Suprime Artigo 7.º — Esgotamento dos direitos conferidos pela marca",
+    "Suprime Artigo 8.º — Licenças",
+    "Suprime Artigo 9.º — Preclusão por tolerância",
+    "Suprime Artigo 10.º — Uso da marca",
+    "Suprime Artigo 11.º — Sanções pelo não uso de uma marca em processos judiciais ou administrativos",
+    "Suprime Artigo 12.º — Motivos de caducidade",
+    "Suprime Artigo 13.º — Motivos de recusa, caducidade ou nulidade apenas para alguns produtos ou serviços",
+    "Suprime Artigo 14.º — Verificação a posteriori da nulidade do registo de uma marca ou da sua caducidade",
+    "Suprime Artigo 15.º — Disposições especiais relativas a marcas colectivas, marcas de garantia e marcas de certificação",
+    "Suprime Artigo 16.º — Disposições nacionais a adoptar de acordo com a presente directiva",
+    "Suprime Artigo 17.º — Destinatários"
+   ],
+   "fragments": [
+    "401afdb9397db492"
+   ]
+  }
+ ],
+ "fragments": {
+  "29887493a977dfb0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Primeira Directiva 89/104/CEE do Conselho de 21 de Dezembro de 1988 que harmoniza as legislações dos Estados-Membros em matéria de marcas** *Jornal Oficial nº L 040 de 11/02/1989 p. 0001 - 0007 Edição especial finlandesa: Capítulo 13 Fascículo 17 p. 0178 Edição especial sueca: Capítulo 13 Fascículo 17 p. 0178 edição especial em língua checa Capítulo 17 Fascículo 01 p. 92 - 98 edição especial em língua estónia Capítulo 17 Fascículo 01 p. 92 - 98 edição especial em língua húngara Capítulo 17 Fascículo 01 p. 92 - 98 edição especial em língua lituana Capítulo 17 Fascículo 01 p. 92 - 98 edição especial em língua letã Capítulo 17 Fascículo 01 p. 92 - 98 edição especial em língua maltesa Capítulo 17 Fascículo 01 p. 92 - 98 edição especial em língua polaca Capítulo 17 Fascículo 01 p. 92 - 98 edição especial em língua eslovaca Capítulo 17 Fascículo 01 p. 92 - 98 edição especial em língua eslovena Capítulo 17 Fascículo 01 p. 92 - 98*\n\n|\n\n31989L0104\n\nPrimeira Directiva 89/104/CEE do Conselho de 21 de Dezembro de 1988 que harmoniza as legislações dos Estados-Membros em matéria de marcas\n\nJornal Oficial n.º L 040 de 11/02/1989 p. 0001 - 0007\n\nEdição especial finlandesa: Capítulo 13 Fascículo 17 p. 0178\n\nEdição especial sueca: Capítulo 13 Fascículo 17 p. 0178\n\nPRIMEIRA DIRECTIVA DO CONSELHO de 21 de Dezembro de 1988 que harmoniza as legislações dos Estados-membros em matéria de marcas (89/104/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que as legislações actualmente aplicáveis nos Estados-membros em matéria de marcas comportam disparidades susceptíveis de entravar a livre circulação dos produtos e a livre prestação de serviços e de distorcer as condições de concorrência no mercado comum; que importa, pois, aproximar as legislações dos Estados-membros com vista ao estabelecimento e funcionamento do mercado interno;\n\nConsiderando que importa não desconhecer as soluções e vantagens que o regime da marca comunitária pode oferecer às empresas que pretendam adquirir marcas;\n\nConsiderando que actualmente não se afigura necessário proceder a uma aproximação total das legislações dos Estados-membros em matéria de marcas e que basta limitar a aproximação às disposições nacionais que tenham uma incidência mais directa sobre o funcionamento do mercado interno;\n\nConsiderando que a presente directiva não retira aos Estados-membros a faculdade de continuar a proteger as marcas adquiridas pelo uso, mas que regula apenas a sua relação com as marcas adquiridas pelo registo;\n\nConsiderando que os Estados-membros continuam igualmente a ter toda a liberdade para fixar as disposições processuais relativas ao registo, à caducidade ou à declaração de nulidade das marcas adquiridas por registo; que cabe aos Estados-membros, por exemplo, determinar a forma dos processos de registo e de declaração de nulidade, decidir se os direitos anteriores devem ser invocados no processo de registo ou no processo de declaração de nulidade, ou em ambos os casos, ou ainda, no caso de os direitos anteriores poderem ser invocados no processo de registo, prever um processo de oposição, ou uma análise oficiosa, ou ambos; que os Estados-membros mantêm a faculdade de determinar os efeitos da caducidade ou da nulidade das marcas;\n\nConsiderando que a presente directiva não exclui a aplicação às marcas de disposições do direito dos Estados-membros que não estejam abrangidas pelo direito de marcas, tais como disposições relativas à concorrência desleal, à responsabilidade civil ou à defesa dos consumidores;\n\nConsiderando que a realização dos objectivos prosseguidos pela aproximação pressupõe que a aquisição e a conservação do direito sobre a marca registada sejam, em princípio, subordinadas às mesmas condições em todos os Estados-membros; que, para o efeito, convém elaborar uma lista ilustrativa dos sinais susceptíveis de constituir uma marca desde que sejam adequados a distinguir os produtos ou serviços de uma empresa dos de outras empresas; que os motivos de recusa ou de nulidade relativos à própria marca, por exemplo, a ausência de carácter distintivo, ou relativos aos conflitos entre a marca e os direitos anteriores, devem ser enumerados de modo exaustivo, mesmo que alguns desses motivos sejam enumerados a título facultativo para os Estados-membros, que poderão assim mantê-los ou introduzi-los na sua legislação; que os Estados-membros poderão manter ou introduzir nas respectivas legislações motivos de recusa ou de nulidade relacionados com condições de aquisição ou de conservação do direito sobre a marca, para as quais não existe qualquer disposição de aproximação, referentes, por exemplo, à qualidade de titular da marca, à renovação da marca, ao regime de taxas, ou à não observância das normas processuais;\n\nConsiderando que, a fim de reduzir o número total de marcas registadas e protegidas na Comunidade e, por conseguinte, o número de conflitos que surgem entre elas, importa exigir que as marcas registadas sejam efectivamente usadas sob pena de caducidade; que é necessário prever que a nulidade de uma marca não possa ser declarada em virtude da existência de uma marca anterior não usada, deixando simultaneamente aos Estados-membros a faculdade de aplicar o mesmo princípio no que diz respeito ao registo de uma marca ou de prever que uma marca não possa ser validamente invocada num processo de contrafacção se se verificar, na sequência de uma excepção, que o registo da marca poderia ficar sujeito a caducidade; que em todos estes casos cabe aos Estados-membros fixar as normas processuais aplicáveis;\n\nConsiderando que é fundamental, para facilitar a livre circulação de produtos e serviços, providenciar para que as marcas registadas passem a usufruir da mesma protecção de acordo com a legislação de todos os Estados-membros; que tal não priva os Estados-membros da faculdade de conceder uma protecção mais ampla às marcas que gozem de prestígio;\n\nConsiderando que a protecção conferida pela marca registada, cujo objectivo consiste nomeadamente em garantir a função de origem da marca, é absoluta em caso de identidade entre a marca e o sinal e entre os produtos ou serviços; que a protecção é igualmente válida em caso de semelhança entre a marca e o sinal e entre os produtos ou serviços; que é indispensável interpretar a noção de semelhança em relação com o risco de confusão; que o risco de confusão, cuja avaliação depende de numerosos factores e nomeadamente do conhecimento da marca no mercado, da associação que pode ser feita com o sinal utilizado ou registado, do grau de semelhança entre a marca e o sinal e entre os produtos ou serviços designados, constitui a condição específica da protecção; que é do domínio das regras nacionais de processo que a presente directiva não prejudica a questão dos meios pelos quais o risco de confusão pode ser constatado, em especial o ónus da prova.\n\nConsiderando que importa, por razões de segurança jurídica e sem prejudicar de forma discriminatória os interesses do titular de uma marca anterior, estipular que este último deixe de poder requerer a declaração de nulidade ou opor-se ao uso de uma marca posterior à sua, de que tiver conscientemente tolerado o uso durante um longo período, salvo se o registo da marca posterior tiver sido pedido com má fé;\n\nConsiderando que todos os Estados-membros da Comunidade estão vinculados pela Convenção de Paris para a Protecção da Propriedade Industrial; que é necessário que as disposições da presente directiva estejam em harmonia completa com as da Convenção de Paris; que as obrigações dos Estados-membros decorrentes dessa Convenção não são afectadas pela presente directiva; que, se necessário, é aplicável o segundo parágrafo do artigo 234.º do Tratado,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1285289e6eceade3": {
+   "fragment_id": "Artigo 1.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA presente directiva é aplicável a todas as marcas de produtos ou de serviços que tenham sido objecto de registo ou de pedido de registo, como marca individual, marca colectiva ou marca de garantia ou de certificação, num Estado-membro ou no Instituto de Marcas do Benelux, ou que tenham sido objecto de um registo internacional com efeitos num Estado-membro."
+  },
+  "85bafe70939f340c": {
+   "fragment_id": "Artigo 2.º — Sinais susceptíveis de constituir uma marca",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Sinais susceptíveis de constituir uma marca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sinais susceptíveis de constituir uma marca\n\nPodem constituir marcas todos os sinais susceptíveis de representação gráfica, nomeadamente as palavras, incluindo os nomes de pessoas, desenhos, letras, números, a forma do produto ou da respectiva embalagem, na condição de que tais sinais sejam adequados a distinguir os produtos ou serviços de uma empresa dos de outras empresas."
+  },
+  "6d57f62c6d140cfa": {
+   "fragment_id": "Artigo 3.º — Motivos de recusa ou de nulidade",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Motivos de recusa ou de nulidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Motivos de recusa ou de nulidade\n\n1. Será recusado o registo ou ficarão sujeitos a declaração de nulidade, uma vez efectuados, os registos relativos:\n\na) Aos sinais que não possam constituir uma marca;\n\nb) As marcas desprovidas de carácter distintivo;\n\nc) As marcas constituídas exclusivamente por sinais ou indicações que possam servir, no comércio, para designar a espécie, a qualidade, a quantidade, o destino, o valor, a proveniência geográfica ou a época de produção do produto ou da prestação do serviço, ou outras características dos mesmos;\n\nd) As marcas constituídas exclusivamente por sinais ou indicações que se tenham tornado usuais na linguagem corrente ou nos hábitos leais e constantes do comércio;\n\ne) Aos sinais constituídos exclusivamente:\n\n- pela forma imposta pela própria natureza do produto,\n\n- pela forma do produto necessária à obtenção de um resultado técnico,\n\n- pela forma que confira um valor substancial ao produto;\n\nf) As marcas contrárias à ordem pública ou aos bons costumes;\n\ng) As marcas que sejam susceptíveis de enganar o público, por exemplo no que respeita à natureza, à qualidade ou à proveniência geográfica do produto ou do serviço;\n\nh) As marcas que, não tendo sido autorizadas pelas autoridades competentes, sejam de recusar ou invalidar por força do artigo 6.º ter da Convenção de Paris para a Protecção da Propriedade Industrial, adiante designada «Convenção de Paris».\n\n2. Qualquer Estado-membro pode prever que seja recusado o registo de uma marca ou que o seu registo, uma vez efectuado, fique sujeito a ser declarado nulo quando e na medida em que:\n\na) O uso dessa marca possa ser proibido por força de legislação que não seja a legislação em matéria de direito de marcas do Estado-membro interessado ou da Comunidade;\n\nb) Da marca faça parte um sinal de elevado valor simbólico e, nomeadamente, um símbolo religioso;\n\nc) A marca inclua emblemas, distintivos e escudos diferentes dos referidos no artigo 6.º B da Convenção de Paris e que apresentem interesse público, salvo se o seu registo tiver sido autorizado em conformidade com a legislação do Estado-membro pela autoridade competente;\n\nd) O requerente tenha apresentado de má fé o pedido de registo da marca.\n\n3. Não será recusado o registo de uma marca ou este não será declarado nulo nos termos do n.º 1, alínea b), c) ou d), se, antes da data do pedido de registo e após o uso que dele foi feito, a marca adquiriu um carácter distintivo. Os Estados-membros podem prever, por outro lado, que o disposto no primeiro período se aplicará também no caso em que o carácter distintivo tiver sido adquirido após o pedido de registo ou o registo.\n\n4. Um Estado-membro pode prever que, não obstante o disposto nos n.ºs 1, 2 e 3 do presente artigo, os motivos de recusa de registo ou de nulidade aplicáveis no Estado-membro em causa antes da data de entrada em vigor das disposições necessárias para dar cumprimento à presente directiva se apliquem às marcas para as quais tenha sido apresentado pedido de registo antes dessa data."
+  },
+  "1b163ece69fe4412": {
+   "fragment_id": "Artigo 4.º — Outros motivos de recusa ou de nulidade relativos a conflitos com direitos anteriores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Outros motivos de recusa ou de nulidade relativos a conflitos com direitos anteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Outros motivos de recusa ou de nulidade relativos a conflitos com direitos anteriores\n\n1. O pedido de registo de uma marca será recusado ou, tendo sido efectuado, o registo de uma marca ficará passível de ser declarado nulo:\n\na) Se a marca for idêntica a uma marca anterior e se os produtos ou serviços para os quais o registo da marca for pedido ou a marca tiver sido registada forem idênticos aos produtos ou serviços para os quais a marca anterior está protegida;\n\nb) Se, devido à sua identidade ou semelhança com a marca anterior, e devido à identidade ou semelhança dos produtos ou serviços a que as duas marcas se destinam, existir, no espírito do público, um risco de confusão que compreenda o risco de associação com a marca anterior.\n\n2. Na acepção do n.º 1, entende-se por «marcas anteriores»:\n\na) As marcas cuja data de pedido de registo seja anterior à do pedido de registo da marca, tendo em conta, se for o caso, o direito de prioridade invocado em apoio dessas marcas, e que pertençam às seguintes categorias:\n\ni) Marcas comunitárias;\n\nii) Marcas registadas no Estado-membro ou, no que se refere à Bélgica, aos Países Baixos e ao Luxemburgo, no Instituto de Marcas do Benelux;\n\niii) Marcas que tenham sido objecto de um registo internacional com efeitos no Estado-membro;\n\nb) As marcas comunitárias para as quais seja validamente invocada a antiguidade, nos termos do regulamento sobre a marca comunitária, em relação a uma marca referida nos parágrafos ii) e iii) da alínea a), mesmo que esta última tenha sido objecto de renúncia ou se tenha extinguido;\n\nc) Os pedidos de marcas referidas nas alíneas a) e b), sob reserva do respectivo registo;\n\nd) As marcas que, à data da apresentação do pedido de registo ou, eventualmente, à data da prioridade invocada em apoio do pedido de registo, sejam notoriamente conhecidas no Estado-membro em causa na acepção em que a expressão «notoriamente conhecida» é empregue no artigo 6.ºA da Convenção de Paris.\n\n3. O pedido de registo de uma marca será igualmente recusado, ou tendo sido efectivado, o registo de uma marca ficará passível de ser declarado nulo se a marca for idêntica ou semelhante a uma marca comunitária anterior na acepção do n.º 2 e se se destinar a ser registada, ou tiver sido registada, para produtos ou serviços que não sejam semelhantes àqueles para os quais a marca comunitária anterior foi registada, sempre que a marca comunitária anterior goze de prestígio na Comunidade e sempre que o uso da marca posterior procure, sem justo motivo, tirar partido indevido do carácter distintivo ou do prestígio da marca comunitária anterior ou possa prejudicá-los.\n\n4. Os Estados-membros podem igualmente prever que o pedido de registo de uma marca seja recusado ou, tendo sido efectuado, que o registo de uma marca fique passível de ser declarado nulo sempre que e na medida em que:\n\na) A marca seja idêntica ou semelhante a uma marca nacional anterior na acepção do n.º 2 e se destine a ser ou tiver sido registada para produtos ou serviços que não sejam semelhantes àqueles para os quais a marca anterior foi registada, sempre que a marca comunitária anterior goze de prestígio no Estado-membro em questão e sempre que o uso da marca posterior procure, sem justo motivo, tirar partido indevido do carácter distintivo ou do prestígio da marca comunitária anterior ou possa prejudicá-los;\n\nb) O direito a uma marca não registada ou a um outro sinal usado na vida comercial tenha sido adquirido antes da data de apresentação do pedido de registo da marca posterior, ou, se for caso disso, antes da data da prioridade invocada em apoio do pedido de registo da marca posterior, e essa marca não registada ou esse outro sinal confira ao seu titular o direito de proibir a utilização de uma marca posterior;\n\nc) A utilização da marca possa ser proibida por força de um direito anterior diferente dos direitos mencionados no n.º 2 e na alínea b) do presente número e, nomeadamente, por força de:\n\ni) Um direito ao nome;\n\nii) Um direito à imagem;\n\niii) Um direito de autor;\n\niv) Um direito de propriedade industrial;\n\nd) A marca seja idêntica ou semelhante a uma marca colectiva anterior que tenha conferido um direito que haja expirado dentro de um prazo máximo de três anos antes da apresentação do pedido;\n\ne) A marca seja idêntica ou semelhante a uma marca de garantia ou de certificação anterior que tenha conferido um direito que haja cessado dentro de um prazo anterior à apresentação do pedido de registo e cuja duração é fixada pelo Estado-membro;\n\nf) A marca seja idêntica ou semelhante a uma marca anterior registada para produtos ou serviços idênticos ou semelhantes que tenha conferido um direito que haja cessado por não renovação dentro de um prazo máximo de dois anos anterior à apresentação do pedido de registo, excepto se o titular da marca anterior tiver dado o seu acordo para o registo da marca posterior ou não tiver usado a sua marca;\n\ng) A marca seja susceptível de confusão com uma marca utilizada num país estrangeiro no momento em que foi apresentado o pedido e que continue a ser utilizada nesse país, desde que o pedido tenha sido feito de má fé pelo requerente.\n\n5. Os Estados-membros podem permitir que, em circunstâncias adequadas, o pedido de registo de uma marca não tenha de ser recusado ou o registo de uma marca não tenha de ser declarado nulo uma vez que o titular da marca anterior ou do direito anterior consinta no registo da marca posterior.\n\n6. Um Estado-membro pode prever que, não obstante o disposto nos n.ºs 1 a 5 do presente artigo, os motivos de recusa ou de nulidade aplicáveis no Estado-membro em causa antes da data de entrada em vigor das disposições necessárias para dar cumprimento à presente directiva se apliquem às marcas para as quais tenha sido apresentado pedido de registo antes dessa data."
+  },
+  "d38fb61546661135": {
+   "fragment_id": "Artigo 5.º — Direitos conferidos pela marca",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Direitos conferidos pela marca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos conferidos pela marca\n\n1. A marca registada confere ao seu titular um direito exclusivo. O titular fica habilitado a proibir que um terceiro, sem o seu consentimento, faça uso na vida comercial:\n\na) De qualquer sinal idêntico à marca para produtos ou serviços idênticos àqueles para os quais a marca foi registada;\n\nb) De um sinal relativamente ao qual, devido à sua identidade ou semelhança com a marca e devido à identidade ou semelhança dos produtos ou serviços a que a marca e o sinal se destinam, exista, no espírito do público, um risco de confusão que compreenda o risco de associação entre o sinal e a marca.\n\n2. Qualquer Estado-membro poderá também estipular que o titular fique habilitado a proibir que terceiros façam uso, na vida comercial, sem o seu consentimento, de qualquer sinal idêntico ou semelhante à marca para produtos ou serviços que não sejam semelhantes àqueles para os quais a marca foi registada, sempre que esta goze de prestígio no Estado-membro e que o uso desse sinal, sem justo motivo, tire partido indevido do carácter distintivo ou do prestígio da marca ou os prejudique.\n\n3. Pode nomeadamente ser proibido, caso se encontrem preenchidas as condições enumeradas nos n.ºs 1 e 2:\n\na) Apor o sinal nos produtos ou na respectiva embalagem;\n\nb) Oferecer os produtos para venda ou colocá-los no mercado ou armazená-los para esse fim, ou oferecer ou fornecer serviços sob o sinal;\n\nc) Importar ou exportar produtos com esse sinal;\n\nd) Utilizar o sinal nos documentos comerciais e na publicidade.\n\n4. Antes da entrada em vigor das disposições necessárias para dar cumprimento à presente directiva num Estado-membro, nos casos em que o direito desse Estado-membro não preveja a proibição do uso de um sinal nas condições previstas no n.º 1, alínea b), ou no n.º 2, os direitos conferidos pela marca não podem ser invocados para impedir a continuação do uso desse sinal.\n\n5. Os n.ºs 1 a 4 não afectam as disposições aplicáveis num Estado-membro relativas à protecção contra o uso de um sinal feito para fins diversos dos que consistem em distinguir os produtos ou serviços, desde que a utilização desse sinal, sem justo motivo, tire partido indevido do carácter distintivo ou do prestígio da marca ou os prejudique."
+  },
+  "b017849d0b4ef931": {
+   "fragment_id": "Artigo 6.º — Limitação dos efeitos da marca",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Limitação dos efeitos da marca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limitação dos efeitos da marca\n\n1. O direito conferido pela marca não permite ao seu titular proibir a terceiros o uso, na vida comercial:\n\na) Do seu próprio nome e endereço;\n\nb) De indicações relativas à espécie, à qualidade, à quantidade, ao destino, ao valor, à proveniência geográfica, à época de produção do produto ou da prestação do serviço ou a outras características dos produtos ou serviços;\n\nc) Da marca, sempre que tal seja necessário para indicar o destino de um produto ou serviço, nomeadamente sob a forma de acessórios ou peças sobressalentes, desde que esse uso seja feito em conformidade com práticas honestas em matéria industrial ou comercial.\n\n2. O direito conferido pela marca não permite ao seu titular proibir a terceiros o uso, na vida comercial, de um direito anterior de alcance local, se tal direito for reconhecido pelas leis do Estado-membro em questão, e dentro dos limites do território em que é reconhecido."
+  },
+  "5db23744a2519f27": {
+   "fragment_id": "Artigo 7.º — Esgotamento dos direitos conferidos pela marca",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Esgotamento dos direitos conferidos pela marca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Esgotamento dos direitos conferidos pela marca\n\n1. O direito conferido pela marca não permite ao seu titular proibir o uso desta para produtos comercializados na Comunidade sob essa marca pelo titular ou com o seu consentimento.\n\n2. O n.º 1 não é aplicável sempre que existam motivos legítimos que justifiquem que o titular se oponha à comercialização posterior dos produtos, nomeadamente sempre que o estado desses produtos seja modificado ou alterado após a sua colocação no mercado."
+  },
+  "5c8b8dbab10e1569": {
+   "fragment_id": "Artigo 8.º — Licenças",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licenças\n\n1. Uma marca pode ser objecto de licenças para a totalidade ou parte dos produtos ou serviços para os quais tenha sido registada e para a totalidade ou parte do território de um Estado-membro. As licenças podem ser exclusivas ou não exclusivas.\n\n2. O titular de uma marca pode invocar os direitos conferidos por essa marca em oposição a um licenciado que infrinja uma das disposições do contrato de licença, em especial no que respeite ao seu prazo de validade, à forma abrangida pelo registo sob que a marca pode ser usada, à natureza dos produtos ou serviços para os quais foi concedida a licença, ao território no qual a marca pode ser aposta ou à qualidade dos produtos fabricados ou dos serviços fornecidos pelo licenciado."
+  },
+  "c56adf6f7c22a4d3": {
+   "fragment_id": "Artigo 9.º — Preclusão por tolerância",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Preclusão por tolerância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Preclusão por tolerância\n\n1. Quando, num Estado-membro, o titular de uma marca anterior referida no n.º 2 do artigo 4.º, embora tendo conhecimento do facto, tiver tolerado o uso, nesse Estado-membro, de uma marca registada posterior por um período de cinco anos consecutivos, deixará de ter direito, com base nessa marca anterior, quer a requerer a declaração de nulidade do registo da marca posterior, quer a opor-se ao seu uso, em relação aos produtos ou serviços para os quais a marca posterior tenha sido usada, salvo se o registo da marca posterior tiver sido efectuado de má fé.\n\n2. Qualquer Estado-membro pode prever que o n.º 1 se aplique ao titular de uma marca anterior prevista no n.º 4, alínea a), do artigo 4.º, ou de um outro direito anterior previsto no n.º 4, alíneas b) ou c), daquele mesmo artigo 4.º\n\n3. Nos casos previstos nos n.ºs 1 ou 2, o titular de uma marca registada posterior não terá o direito de se opor ao uso do direito anterior, mesmo se esse direito não possa já ser invocado contra a marca posterior."
+  },
+  "cc69c41bfb520764": {
+   "fragment_id": "Artigo 10.º — Uso da marca",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Uso da marca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Uso da marca\n\n1. Se, num prazo de cinco anos a contar da data do encerramento do processo de registo, a marca não tiver sido objecto de uso sério pelo seu titular, no Estado-membro em questão, para os produtos ou serviços para que foi registada, ou se tal uso tiver sido suspenso durante um período ininterrupto de cinco anos, a marca fica sujeita às sanções previstas na presente directiva, salvo justo motivo para a falta de uso.\n\n2. São igualmente considerados como uso para efeitos do n.º 1:\n\na) O uso da marca por modo que difira em elementos que não alterem o carácter distintivo da marca na forma sob a qual foi registada;\n\nb) A aposição da marca em produtos ou na respectiva embalagem no Estado-membro em questão apenas para efeitos de exportação.\n\n3. O uso da marca com o consentimento do titular ou por qualquer pessoa habilitada a usar uma marca colectiva ou uma marca de garantia ou certificação será considerado feito pelo titular.\n\n4. No que diz respeito às marcas registadas antes da data de entrada em vigor das disposições necessárias para dar cumprimento à presente directiva no Estado-membro em questão:\n\na) Quando uma disposição em vigor antes dessa data estabelecer sanções pelo não uso de uma marca durante um período ininterrupto, considera-se que o período de cinco anos referido no n.º 1 começou a decorrer ao mesmo tempo que qualquer período de não uso que já esteja a decorrer àquela data;\n\nb) Quando, antes daquela data, não estiver em vigor qualquer disposição sobre uso, considera-se que os períodos de cinco anos referidos no n.º 1 começam a decorrer a partir daquela data."
+  },
+  "43da3d08b7841042": {
+   "fragment_id": "Artigo 11.º — Sanções pelo não uso de uma marca em processos judiciais ou administrativos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Sanções pelo não uso de uma marca em processos judiciais ou administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções pelo não uso de uma marca em processos judiciais ou administrativos\n\n1. O registo de uma marca não pode ser declarado nulo em virtude da existência de uma marca anterior invocada em oposição e que não satisfaça as condições de uso exigidas nos n.ºs 1, 2 e 3 ou, consoante for o caso, no n.º 4 do artigo 10.º\n\n2. Um Estado-membro pode prever que o registo de uma marca não possa ser recusado em virtude da existência de uma marca anterior invocada em oposição que não satisfaça as condições de uso exigidas nos n.ºs 1, 2 e 3 ou, consoante for o caso, no n.º 4 do artigo 10.º\n\n3. Sem prejuízo da aplicação do artigo 12.º em caso de pedido reconvencional que tenha por fundamento uma marca cujo registo seja passível de caducidade, um Estado-membro pode prever que uma marca não possa ser validamente invocada num processo de contrafacção se se verificar, na sequência de uma excepção, que o registo da marca poderia igualmente ficar sujeito a caducidade por força do n.º 1 do artigo 12.º\n\n4. Se a marca anterior apenas tiver sido utilizada para uma parte dos produtos ou serviços para os quais foi registada, considera-se que, para efeitos de aplicação dos números precedentes, está registada apenas para essa parte dos produtos ou serviços."
+  },
+  "dadadc95d7334d94": {
+   "fragment_id": "Artigo 12.º — Motivos de caducidade",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Motivos de caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Motivos de caducidade\n\n1. O registo de uma marca fica passível de caducidade se, durante um período ininterrupto de cinco anos, não tiver sido objecto de uso sério no Estado-membro em causa para os produtos ou serviços para que foi registada e se não existirem motivos justos para o seu não uso; contudo, ninguém poderá requerer a caducidade do registo de uma marca se, durante o intervalo entre o fim do período de cinco anos e a introdução do pedido de caducidade, tiver sido iniciado ou reatado um uso sério da marca; o início ou o reatamento do uso nos três meses imediatamente anteriores à introdução do pedido de caducidade, contados a partir do fim do período ininterrupto de cinco anos de não uso, não será, contudo, tomado em consideração se as diligências para o início ou reatamento do uso só ocorrerem depois de o titular tomar conhecimento de que pode vir a ser introduzido um pedido de caducidade.\n\n2. O registo de uma marca fica igualmente passível de caducidade se, após a data em que o registo foi efectuado:\n\na) Como consequência da actividade ou inactividade do titular, a marca se tiver transformado na designação usual no comércio do produto ou serviço para que foi registada;\n\nb) No seguimento do uso feito pelo titular da marca, ou com o seu consentimento, para os produtos ou serviços para que foi registada, a marca for propícia a induzir o público em erro, nomeadamente acerca da natureza, qualidade e origem geográfica desses produtos ou serviços."
+  },
+  "bc35b81e21509717": {
+   "fragment_id": "Artigo 13.º — Motivos de recusa, caducidade ou nulidade apenas para alguns produtos ou serviços",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Motivos de recusa, caducidade ou nulidade apenas para alguns produtos ou serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Motivos de recusa, caducidade ou nulidade apenas para alguns produtos ou serviços\n\nQuando existam motivos para recusa do registo de uma marca ou para a sua caducidade ou nulidade apenas no que respeita a alguns dos produtos ou serviços para que o registo da marca foi pedido ou efectuado, a recusa do registo, a sua caducidade ou nulidade abrangerão apenas esses produtos ou serviços."
+  },
+  "ab37bbeaebf66d26": {
+   "fragment_id": "Artigo 14.º — Verificação a posteriori da nulidade do registo de uma marca ou da sua caducidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Verificação a posteriori da nulidade do registo de uma marca ou da sua caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Verificação a posteriori da nulidade do registo de uma marca ou da sua caducidade\n\nQuando a antiguidade de uma marca anterior, que tenha sido objecto de renúncia ou cujo registo tenha caducado, for invocada para uma marca comunitária, a nulidade do registo da marca anterior ou a sua caducidade podem ser constatadas a posteriori."
+  },
+  "38a3148d75be99de": {
+   "fragment_id": "Artigo 15.º — Disposições especiais relativas a marcas colectivas, marcas de garantia e marcas de certificação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Disposições especiais relativas a marcas colectivas, marcas de garantia e marcas de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições especiais relativas a marcas colectivas, marcas de garantia e marcas de certificação\n\n1. Sem prejuízo do artigo 4.º, os Estados-membros cuja legislação autorize o registo de marcas colectivas ou de marcas de garantia ou de certificação podem estipular que o registo dessas marcas seja recusado, ferido de caducidade ou declarado nulo, com base em motivos adicionais aos especificados nos artigos 3.º e 12.º, quando a função dessas marcas o exigir.\n\n2. Em derrogação do n.º 1, alínea c), do artigo 3.º, os Estados-membros podem estipular que os sinais ou indicações utilizados no comércio para designar a origem geográfica dos produtos ou serviços possam constituir marcas colectivas ou marcas de garantia ou certificação. Uma marca deste género não confere ao titular o direito de proibir a um terceiro que use no comércio esses sinais ou indicações, desde que esse uso se faça em conformidade com práticas honestas em matéria industrial ou comercial; nomeadamente, uma marca deste género não pode ser oposta a um terceiro habilitado a usar uma denominação geográfica."
+  },
+  "c3862ae99af60a20": {
+   "fragment_id": "Artigo 16.º — Disposições nacionais a adoptar de acordo com a presente directiva",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições nacionais a adoptar de acordo com a presente directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições nacionais a adoptar de acordo com a presente directiva\n\n1. Os Estados-membros farão entrar em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 28 de Dezembro de 1991. Disso informarão imediatamente a Comissão.\n\n2. O Conselho, deliberando por maioria qualificada sob proposta da Comissão, pode prorrogar a data referida no n.º 1 até, o mais tardar, 31 de Dezembro de 1992.\n\n3. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "6abea8aadb7ddd4f": {
+   "fragment_id": "Artigo 17.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destinatários\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1988.\n\nPelo Conselho\n\nO Presidente\n\nV. PAPANDREOU\n\n(1) JO n.º C 351 de 31. 12. 1980, p. 1 e JO n.º C 351 de 31. 12. 1985, p. 4.\n\n(2) JO n.º C 307 de 14. 11. 1983, p. 66 e JO n.º C 309 de 5. 12. 1988.\n\n(3) JO n.º C 310 de 30. 11. 1981, p. 22.\n\n--------------------------------------------------"
+  },
+  "401afdb9397db492": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0104 — PT — 28.11.2008 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0104) [PRIMEIRA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0104) [de 21 de Dezembro de 1988](http://publications.europa.eu/resource/celex/31989L0104) [que harmoniza as legislações dos Estados-membros em matéria de marcas](http://publications.europa.eu/resource/celex/31989L0104) [(89/104/CEE)](http://publications.europa.eu/resource/celex/31989L0104) (JO L 040, 11.2.1989, p.1)\n\n**revogado por:**\n\n- [Directiva 2008/95/CE do Parlamento Europeu e do Conselho de 22 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008L0095) — L 299 — 25 — 8.11.2008"
+  }
+ }
+}

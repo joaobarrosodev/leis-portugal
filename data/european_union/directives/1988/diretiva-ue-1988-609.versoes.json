@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0609:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0609-20021127",
+ "dre_path": null,
+ "source_lastmod": "2002-11-27",
+ "versions": [
+  {
+   "date": "1988-12-07",
+   "future": false,
+   "celex": "31988L0609",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1efb6485488720f8",
+    "cae693933f8fa516",
+    "cd22b90ab63a7654",
+    "185b73d8ad9d934d",
+    "bd429f46b1ddde4d",
+    "550bb44cc3d5e482",
+    "264b434f5b155a13",
+    "50eb2b50f5cba2b4",
+    "43d1d9ca679d592b",
+    "7643ac929917e9aa",
+    "a3d959f65fd37afb",
+    "b467ad684c694448",
+    "f5af81b245fb9cbe",
+    "a9a487a3d9757bb8",
+    "a7a91e04003d1831",
+    "b2b4a59b7c84b1b3",
+    "280f8dbde7083347",
+    "98c9fb1443dc899e",
+    "b6c516fb32b01bb3",
+    "f1dcd38a5979a2f4",
+    "17bd5a7b0a91ad4d",
+    "c510f8c3b2ccb0b3",
+    "d4360fa10fcea698",
+    "67f067665cc53e61",
+    "07f492378e32c15c",
+    "bfcbdfb1c0569c74",
+    "40b2276e74f7c158",
+    "b3527e90a4c6d45c"
+   ]
+  },
+  {
+   "date": "2002-11-27",
+   "future": false,
+   "celex": "01988L0609-20021127",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1",
+    "Suprime Artigo 2",
+    "Suprime Artigo 3",
+    "Suprime Artigo 4",
+    "Suprime Artigo 5",
+    "Suprime Artigo 6",
+    "Suprime Artigo 7",
+    "Suprime Artigo 8",
+    "Suprime Artigo 9",
+    "Suprime Artigo 10",
+    "Suprime Artigo 11",
+    "Suprime Artigo 12",
+    "Suprime Artigo 13",
+    "Suprime Artigo 14",
+    "Suprime Artigo 15",
+    "Suprime Artigo 16",
+    "Suprime Artigo 17",
+    "Suprime Artigo 18",
+    "Suprime ANEXO I — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO II — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO III — >INÍCIO DE GRÁFICO>",
+    "Suprime ANEXO IV — >INÍCIO DE GRÁFICO>",
+    "Suprime ANEXO V — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO VI — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO VII — >POSIÇÃO NUMA TABELA>",
+    "Suprime ANEXO VIII — >INÍCIO DE GRÁFICO>",
+    "Suprime ANEXO IX MÉTODOS DE MEDIÇÃO DAS EMISSÕES"
+   ],
+   "fragments": [
+    "e435e997f9e3eb8b"
+   ]
+  }
+ ],
+ "fragments": {
+  "1efb6485488720f8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 88/609/CEE do Conselho de 24 de Novembro de 1988 relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão** *Jornal Oficial nº L 336 de 07/12/1988 p. 0001 - 0013 Edição especial finlandesa: Capítulo 15 Fascículo 9 p. 0027 Edição especial sueca: Capítulo 15 Fascículo 9 p. 0027*\n\nDIRECTIVA DO CONSELHO de 24 de Novembro de 1988 relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão (88/609/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 130S,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando que os Programas de Acção das Comunidades Europeias de 1973(4), 1977(5), 1983(6) e 1987(7), relativos ao Ambiente, salientam a importância da prevenção e da redução da poluição atmosférica;\n\nConsiderando que, na sua resolução sobre o Programa de Acção relativo ao Ambiente 1987/1992, o Conselho e os Representantes dos Governos dos Estados-membros reunidos em Conselho sublinham a importância de concentrar prioritariamente a acção comunitária na redução da poluição atmosférica na sua fonte, designadamente pela adopção e aplicação de medidas relativas às emissões provenientes das grandes instalações de combustão;\n\nConsiderando que, além disso, nos termos da Decisão 81/462/CEE(8), a Comunidade é Parte Contratante na Convenção sobre a Poluição Atmosférica Transfronteiras de Longo Alcance;\n\nConsiderando que a Directiva 84/360/CEE do Conselho, de 28 de Junho de 1984, relativa à luta contra a poluição atmosférica provocada por instalações industriais(9), prevê a criação de certos processos e medidas destinados a impedir ou a reduzir a poluição atmosférica provocada por instalações industriais e, nomeadamente, pelas pertencentes às categorias aí enumeradas, e de que fazem parte as grandes instalações de combustão;\n\nConsiderando que o artigo 8 da citada Directiva 84//360/CEE determina que o Conselho, deliberando por unanimidade sob proposta da Comissão, fixará, se necessário, os valores-limite de emissão para as novas instalações, baseados na melhor tecnologia disponível que não implique custos excessivos e tendo em conta, para este efeito, a natureza, as quantidades e a nocividade das emissões em causa; que o artigo 13 da mesma directiva dispõe que os Estados-membros aplicarão políticas e estratégias, incluindo as medidas adequadas para adaptar progressivamente as instalações existentes, pertencentes às categorias enumeradas, à melhor tecnologia disponível, tendo em conta um certo número de factores determinados;\n\nConsiderando que, devido aos danos causados ao ambiente pela poluição atmosférica, é urgente reduzir e controlar as emissões provenientes das grandes instalações de combustão, quer novas quer já existentes; que é necessário, para o efeito, definir objectivos globais para um redução gradual e escalonada das emissões anuais totais de dióxido de enxofre e de óxidos de azoto provenientes das grandes instalações de combustão existentes e fixar valores-limite de emissão para o dióxido de enxofre, os óxidos de azoto e as poeiras no caso de novas instalações, nos termos do princípio enunciado no artigo 8 da Directiva 84/360//CEE;\n\nConsiderando que esses valores-limite de emissão para as novas instalações terão de ser revistos em função do progresso tecnológico e da evolução das exigências em matéria de ambiente e que a Comissão apresentará propostas para o efeito;\n\nConsiderando que, ao fixar os limites máximos anuais totais de emissão para as grandes instalações existentes, foi tida em devida conta a necessidade de que cada Estado- -membro desenvolva esforços comparáveis, tendo no entanto em consideração a situação específica de cada um deles; que, na definição dos requisitos para a redução das emissões provenientes das novas instalações, foram tidos em devida conta imperativos específicos técnicos e económicos, de modo a evitar custos excessivos; que foi concedida à Espanha uma derrogação temporária e limitada à aplicação integral do valor-limite de emissão de dióxido de enxofre fixado para as novas instalações, dado que este Estado-membro considera ter necessidade de novas capacidades de produção de electricidade particularmente elevadas para enfrentar o crescimento das suas necessidades energéticas e garantir o crescimento industrial,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "cae693933f8fa516": {
+   "fragment_id": "Artigo 1",
+   "type": "artigo",
+   "heading": "Artigo 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1\n\nA presente directiva aplica-se às instalações de combustão com potência térmica nominal igual ou superior a 50 MW, independentemente do tipo de combustível utilizado (sólido, líquido ou gasoso)."
+  },
+  "cd22b90ab63a7654": {
+   "fragment_id": "Artigo 2",
+   "type": "artigo",
+   "heading": "Artigo 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2\n\nPara efeitos da presente directiva, entende-se por:\n\n1.« Emissão », a descarga na atmosfera de substâncias provenientes de uma instalação de combustão;\n\n2.« Fumos », os efluentes gasosos que contenham emissões, sólidas, líquidas ou gasosas; o respectivo caudal volúmico exprime-se em metros cúbicos por hora, às condições normais de temperatura (273 K) e pressão (101,3 KPa), após dedução do teor de vapor de água, a seguir denominado Nm³/h;\n\n3.« Valor-limite de emissão », a quantidade admissível de uma substância contida nos fumos provenientes da instalação de combustão que pode ser emitida para a atmosfera durante um dado período; essa quantidade é calculada em termos de massa por unidade de volume dos fumos expressos em mg/Nm³, referida a um teor volúmico de oxigénio, nos fumos, de 3 %, no caso de combustíveis líquidos ou gasosos, e de 6 %, no caso de combustíveis sólidos;\n\n4.« Taxa de dessulfurização », a razão entre a quantidade de enxofre separada no local da instalação de combustão durante um determinado período, por processos especialmente concebidos para esse fim, e a quantidade de enxofre contida no combustível introduzido nos dispositivos da instalação de combustão durante o mesmo período;\n\n5.« Operador », qualquer pessoa singular ou colectiva que explore a instalação de combustão ou sobre ela exerça um poder económico decisivo, próprio ou delegado;\n\n6.« Combustível », qualquer matéria combustível sólida, líquida ou gasosa que alimente a instalação de combustão, com excepção dos lixos domésticos e dos detritos tóxicos ou perigosos;\n\n7.« Instalação de combustão », qualquer equipamento técnico onde sejam oxidados produtos combustíveis a fim de se utilizar o calor assim produzido.\n\nA presente directiva diz unicamente respeito às instalações de combustão destinadas à produção de energia, exceptuando-se as que utilizam directamente os produtos da combustão em processos de fabrico.\n\nEm especial, a presente directiva não se aplica às seguintes instalações:\n\n-instalações onde os produtos de combustão sejam utilizados para o aquecimento directo, secagem ou qualquer outro tratamento de objectos ou materiais, como por exemplo fornos de reaquecimento e fornos para tratamento térmico,\n\n-instalações de pós-combustão, ou seja, qualquer equipamento técnico que tenha por objectivo a depuração dos fumos por combustão e não seja explorado com instalação de combustão autónoma,\n\n-equipamentos de regeneração de catalizadores de fraccionamento catalítico,\n\n-equipamentos para a conversão do sulfureto de hidrogénio em enxofre,\n\n-reactores utilizados na indústria química,\n\n-fornos accionados a coque,\n\n-aquecedores de ar de altos fornos.\n\nAs instalações accionadas por motores diesel, a gasolina ou a gás ou por turbinas a gás, seja qual for o combustível utilizado, não são abrangidas pela presente directiva.\n\nSe duas ou mais novas instalações independentes forem construídas de modo a que, tendo em conta factores técnicos e económicos, os respectivos fumos possam, no entender dos serviços oficiais competentes, ser expelidos por uma chaminé comum, o complexo formado por essas instalações deve ser considerado uma só unidade;\n\n8.« Fornalha mista », qualquer instalação de combustão susceptível de ser alimentada simultânea ou alternadamente por dois ou mais tipos de combustível;\n\n9.« Nova instalação », qualquer instalação de combustão cuja licença inicial de construção ou, na sua falta, cuja licença inicial de exploração tenha sido concedida a partir de 1 de Julho de 1987.\n\n10.« Instalação existente », qualquer instalação de combustão cuja licença inicial de construção ou, na sua falta, cuja licença inicial de exploração tenha sido concedida antes de 1 de Julho de 1987."
+  },
+  "185b73d8ad9d934d": {
+   "fragment_id": "Artigo 3",
+   "type": "artigo",
+   "heading": "Artigo 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3\n\n1. Os Estados-membros elaborarão, o mais tardar até 1 de Julho de 1990, programas apropriados tendo por objectivo a redução progressiva das emissões anuais totais provenientes das instalações existentes. Os programas fixarão os calendários e as respectivas regras de aplicação.\n\n2. Os programas devem ser estabelecidos e aplicados com o objectivo de respeitar, mediante uma adequada limitação das emissões, pelo menos os limites máximos de emissão e as percentagens de redução correspondentes para o dióxido de enxofre, fixados nas colunas 1 a 6 do Anexo I, e para os óxidos de azoto, fixados nas colunas 1 a 4 do Anexo II, nas datas indicadas nestes mesmos anexos.\n\n3. Durante a execução dos programas, os Estados-membros determinarão igualmente as emissões anuais totais, nos termos do disposto no ponto C do Anexo IX.\n\n4. Em 1994, a Comissão, com base nos relatórios de síntese fornecidos pelos Estados-membros nos termos do artigo 16, apresentará ao Conselho um relatório sobre a aplicação das reduções a que se refere o presente artigo, acompanhado, se necessário, de propostas de revisão dos objectivos de redução a atingir na fase 3 e/ou da data para o dióxido de enxofre e dos objectivos de redução a atingir na fase 2 e/ou da data para o óxido de azoto. O Conselho deliberará por unanimidade sobre estas propostas.\n\n5. Se se verificar uma alteração considerável e inesperada da procura de energia ou das quantidades disponíveis de determinados combustíveis ou da capacidade de certas instalações de produção que dê origem a dificuldades técnicas graves na aplicação, por parte de um Estado-membro, do programa que tenha estabelecido nos termos do n° 1, a Comissão, a pedido desse Estado-membro, e tendo em conta os termos do pedido, tomará uma decisão no sentido de alterar, para esse Estado-membro, os limites máximos de emissão e/ou as datas fixadas nos Anexos I e II e comunicará a sua decisão ao Conselho e aos outros Estados-membros.\n\nQualquer Estado-membro pode, no prazo de três meses, submeter a decisão da Comissão ao Conselho. O Conselho, por maioria qualificada, pode, no prazo de três meses, adoptar uma decisão diferente daquela."
+  },
+  "bd429f46b1ddde4d": {
+   "fragment_id": "Artigo 4",
+   "type": "artigo",
+   "heading": "Artigo 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4\n\n1. Os Estados-membros tomarão as medidas apropriadas para que qualquer licença de construção ou, na sua falta, de exploração de uma nova instalação, inclua condições relativas à observância dos valores-limite de emissão fixados nos Anexos III a VII para o dióxido de enxofre, os óxidos de azoto e as poeiras.\n\n2. Antes de 1 de Julho de 1995, e à luz do avanço da tecnologia e das exigências do ambiente, a Comissão apresentará propostas de revisão dos valores-limite aplicáveis. O Conselho deliberará por unanimidade sobre estas propostas.\n\n3. Os Estados-membros podem exigir a observância de valores-limite de emissão e de prazos de execução mais rigorosos que os referidos nos n° 1 e 2; podem incluir outros poluentes e impor condições suplementares ou uma adaptação das instalações ao progresso técnico."
+  },
+  "550bb44cc3d5e482": {
+   "fragment_id": "Artigo 5",
+   "type": "artigo",
+   "heading": "Artigo 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5\n\nEm derrogação do disposto no Anexo III:\n\n1.As novas instalações com uma potência térmica nominal igual ou superior a 400 MW, que não funcionem mais de 2 200 horas por ano (média móvel ao longo de um período de cinco anos), será aplicado um valor- -limite de emissão para o dióxido de enxofre de 800 mg/Nm³;\n\n2.As novas instalações que queimem combustíveis sólidos produzidos no país podem exceder os valores-limite de emissão indicados no Anexo III quando, devido às características específicas dos combustíveis, não seja possível observar os valores-limite de emissão de dióxido de enxofre fixados para essas instalações sem recorrer a uma tecnologia excessivamente dispendiosa.\n\nEstas instalações devem pelo menos atingir as taxas de dessulfurização estabelecidas no Anexo VIII;\n\n3.Até 31 de Dezembro de 1999, o Reino de Espanha pode utilizar novas centrais eléctricas com potência térmica nominal igual ou superior a 500 MW que queimem combustíveis sólidos produzidos no país ou importados, que entrem em funcionamento antes do final de 2005 e satisfaçam os seguintes requisitos:\n\n-no caso de combustíveis sólidos importados, um valor-limite de emissão para o dióxido de enxofre de 800 mg/Nm³,\n\n-no caso de combustíveis sólidos locais, uma taxa de dessulfurização de pelo menos 60 %,\n\ndesde que a capacidade total autorizada dessas centrais às quais se aplica a derrogação não exceda:\n\n-2 000 MWe no caso de centrais que queimem combustíveis sólidos, produzidos no país,\n\n-no caso de centrais que queimem combustíveis sólidos importados, ou 7 500 MWe ou 50 % do total da nova capacidade de todas as centrais autorizadas até 31 de Dezembro de 1999 que queimem combustíveis sólidos, consoante o que for mais baixo."
+  },
+  "264b434f5b155a13": {
+   "fragment_id": "Artigo 6",
+   "type": "artigo",
+   "heading": "Artigo 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6\n\nOs Estados-membros podem autorizar a ultrapassagem, pelas instalações que queimem lenhite produzida no país, dos valores-limite de emissão fixados nos termos do artigo 4 se, não obstante a utilização da melhor tecnologia disponível que não implique custos excessivos, importantes dificuldades ligadas à natureza deste combustível assim o exigirem e se a lenhite for uma fonte essencial de combustível para essas instalações.\n\nTais casos serão levados imediatamente ao conhecimento da Comissão e serão objecto de consultas com esta sobre as adequadas medidas a tomar."
+  },
+  "50eb2b50f5cba2b4": {
+   "fragment_id": "Artigo 7",
+   "type": "artigo",
+   "heading": "Artigo 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7\n\nA fim de garantir a observância dos valores-limite de emissão fixados no Anexo VI para os óxidos de azoto, as autorizações referidas no n° 1 do artigo 4 podem impor, nomeadamente, adequadas exigências técnicas de concepção.\n\nNo caso de as medições de controlo revelarem que, por motivos imprevistos, o valor-limite de emissão não foi cumprido, a autoridade competente exigirá ao operador que tome todas as medidas primárias adequadas para garantir a observância desse valor-limite de emissão no mais curto espaço de tempo e o mais tardar no prazo de um ano. A Comissão será imediatamente informada de tais casos, bem como dos resultados das medidas de correcção tomadas.\n\nAs disposições do presente artigo serão revistas com base em proposta da Comissão, a ser apresentada em simultâneo com as propostas referidas no n° 2 do artigo 4"
+  },
+  "43d1d9ca679d592b": {
+   "fragment_id": "Artigo 8",
+   "type": "artigo",
+   "heading": "Artigo 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8\n\n1. Os Estados-membros garantirão que as licenças referidas no n° 1 do artigo 4 contenham uma disposição relativa aos procedimentos de mau funcionamento ou avaria do sistema de redução. Qualquer avaria deverá ser imediatamente comunicada à autoridade competente, que decidirá sobre as medidas adequadas a tomar. A autoridade competente deverá, nomeadamente, exigir que o operador reduza ou cesse logo que possível as operações, até ao momento em que possam recomeçar normalmente, ou que faça funcionar a instalação utilizando combustíveis de baixo nível poluente, excepto nos casos em que, na opinião da autoridade competente, exista uma necessidade prioritária de manter os fornecimentos de electricidade. Esta autoridade garantirá, nomeadamente, que o operador tome todas as disposições necessárias para voltar a pôr o sistema de redução em funcionamento, no mais curto espaço de tempo.\n\n2. A autoridade competente pode autorizar, por um prazo máximo de seis meses, a suspensão da obrigação de respeitar os valores-limite fixados no artigo 4 para a emissão de dióxido de enxofre nas instalações que utilizem normalmente, para o efeito, um combustível com baixo teor de enxofre, quando o operador não estiver em condições de observar esses valores-limite devido a uma interrupção no abastecimento de combustível com baixo teor de enxofre resultante de uma situação de escassez grave.\n\n3. A autoridade competente pode autorizar uma derrogação temporária da obrigação de observar os valores-limite de emissão previstos no artigo 4, no caso de uma instalação que utilize normalmente um combustível gasoso e que, de outra forma, teria de estar equipada com um sistema de depuração de fumos ter de recorrer, excepcionalmente e por um curto período, à utilização de outros combustíveis devido a uma interrupção brusca do fornecimento de gás. A autoridade competente deverá ser imediatamente informada de cada caso específico, logo que ocorra.\n\n4. Os Estados-membros informarão imediatamente a Comissão sobre os casos a que se refere o presente artigo."
+  },
+  "7643ac929917e9aa": {
+   "fragment_id": "Artigo 9",
+   "type": "artigo",
+   "heading": "Artigo 9",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9\n\n1. Para efeitos de concessão das licenças referidas no n° 1 do artigo 4 a uma nova instalação equipada com uma fornalha mista que implique a utilização simultânea de dois ou mais combustíveis, as autoridades competentes fixarão os valores-limite de emissão do seguinte modo:\n\n-começando por determinar o valor-limite de emissão relativo a cada combustível e a cada poluente em função da potência térmica nominal da instalação, nos termos dos Anexos III a VII,\n\n-calculando seguidamente os valores-limite de emissão ponderados por combustível; estes valores obtêm-se multiplicando cada um dos valores-limite de emissão pela potência térmica fornecida por cada combustível, e dividindo o resultado de cada multiplicação pela soma das potências térmicas fornecidas por todos os combustíveis,\n\n-finalmente, adicionando os valores-limite de emissão ponderados por combustível.\n\n2. Sem prejuízo do disposto no n° 1, às instalações de combustão com fornalha mista que utilizem para consumo próprio os resíduos de destilação e de conversão das instalações de refinação do petróleo bruto, isoladamente ou em simultâneo com outros combustíveis, aplicar-se-ão as disposições relativas ao combustível com o valor-limite de emissão mais elevado (combustível determinante), se durante o funcionamento da instalação a proporção de calor fornecida por esse combustível for de pelo menos 50 %, em relação à soma das potência térmicas fornecidas por todos os combustíveis.\n\nSe a proporção de combustível determinante for inferior a 50 %, o valor-limite de emissão será determinado propor- cionalmente à quantidade de calor fornecida por cada um dos combustíveis em relação à soma das potências térmicas fornecidas por todos os combustíveis, do seguinte modo:\n\n-começando por determinar o valor-limite de emissão relativo a cada combustível e a cada poluente em função da potência térmica nominal da instalação, nos termos dos Anexos III a VII,\n\n-calculando seguidamente o valor-limite de emissão para o combustível determinante (o combustível que tenha o valor-limite de emissão mais elevado de acordo com os Anexos III a VII e, no caso de dois combustíveis com o mesmo valor-limite de emissão, aquele que forneça a maior quantidade de calor); este valor obtém-se multiplicando por dois o valor-limite de emissão referido nos Anexos III a VII para esse combustível e subtraindo do resultado o valor-limite relativo ao combustível com o valor-limite de emissão menos elevado,\n\n-determinando depois os valores-limite de emissão ponderados por combustível; esses valores obtêm-se multiplicando o valor-limite de emissão calculado do combustível determinante pela potência térmica desse combustível, multiplicando cada um dos outros valores- -limite de emissão pela potência térmica fornecida por cada combustível e dividindo o resultado de cada multiplicação pela soma das potências térmicas fornecidas por todos os combustíveis,\n\n-finalmente, adicionando os valores-limite de emissão ponderados por combustível.\n\n3. Em alternativa ao disposto no número anterior, pode ser aplicado ao dióxido de enxofre um valor-limite de emissão de 1 000 mg/Nm³, como valor médio das emissões de todas as novas instalações da refinaria, independentemente das misturas de combustíveis utilizadas.\n\nAs autoridades competentes garantirão que a aplicação desta disposição não conduza a um aumento das emissões provenientes de instalações existentes.\n\n4. Para a concessão das licenças referidas no n° 1 do artigo 4 a uma nova instalação equipada com uma fornalha mista que implique a utilização alternada de dois ou mais combustíveis, aplicar-se-ão os valores-limite de emissão fixados nos Anexo III a VII para cada combustível utilizado."
+  },
+  "a3d959f65fd37afb": {
+   "fragment_id": "Artigo 10",
+   "type": "artigo",
+   "heading": "Artigo 10",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10\n\nA descarga dos fumos das grandes instalações de combustão deve ser efectuado de modo controlado, através de uma chaminé.\n\nA licença referida no n° 1 do artigo 4 deve fixar as condições de descarga de fumos. A autoridade competente deve, em especial, garantir que a altura da chaminé seja calculada de modo a salvaguardar a saúde e o ambiente."
+  },
+  "b467ad684c694448": {
+   "fragment_id": "Artigo 11",
+   "type": "artigo",
+   "heading": "Artigo 11",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11\n\nQuando uma instalação de combustão for ampliada de pelo menos 50 MW, o valor-limite de emissão aplicável à nova parte da instalação será fixado com base na potência térmica nominal da totalidade da instalação. Esta disposição não se aplica nos casos referidos nos n° 2 e 3 do artigo 9"
+  },
+  "f5af81b245fb9cbe": {
+   "fragment_id": "Artigo 12",
+   "type": "artigo",
+   "heading": "Artigo 12",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12\n\nEm caso de construção de instalações de combustão que possam afectar de forma significativa o ambiente de outro Estado-membro, os Estados-membros garantirão que, nos termos do artigo 7 da Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente(1), terão lugar todos os procedimentos de informação e consulta adequados."
+  },
+  "a9a487a3d9757bb8": {
+   "fragment_id": "Artigo 13",
+   "type": "artigo",
+   "heading": "Artigo 13",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13\n\n1. Os Estados-membros tomarão as medidas necessárias para assegurar o controlo, nos termos do Anexo IX, das emissões das instalações de combustão que são objecto da presente directiva, bem como de todos os outros valores necessários à sua aplicação. Os Estados-membros podem exigir que esse controlo seja efectuado a expensas do operador.\n\n2. Os métodos e/ou aparelhos de medição utilizados para determinar as concentrações de dióxido de enxofre, de poeiras, de dióxidos de azoto e de oxigénio, bem como os outros valores necessários para o controlo da aplicação da presente directiva, assim como os aparelhos utilizados para a avaliação dos resultados, devem corresponder à melhor tecnologia industrial de medição e fornecer resultados reproduzíveis e comparáveis.\n\nOs métodos de determinação devem ser aprovados pelas autoridades competentes.\n\n3. As autoridades competentes fornecerão informações adequadas àcerca dos critérios de eficácia exigidos para os aparelhos e métodos de medição, aferição e tratamento dos dados utilizados para o efeito e transmitirão essas informações à Comissão."
+  },
+  "a7a91e04003d1831": {
+   "fragment_id": "Artigo 14",
+   "type": "artigo",
+   "heading": "Artigo 14",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14\n\nOs Estados-membro tomarão as medidas adequadas para que o operador participe às autoridades competentes, dentro de prazos razoáveis, os resultados das medições contínuas e os resultados da verificação dos aparelhos de medida e das várias medições efectuadas, bem como os resultados de todas as outras operações de medição efectuadas para controlar o cumprimento da presente directiva."
+  },
+  "b2b4a59b7c84b1b3": {
+   "fragment_id": "Artigo 15",
+   "type": "artigo",
+   "heading": "Artigo 15",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15\n\n1. Em caso de medições contínuas serão considerados observados os valores-limite de emissão previstos nos Anexos III a VII se a avaliação dos resultados demonstrar que, para as horas de funcionamento durante um ano civil:\n\na)Nenhum dos valores médios de um mês de calendário excedeu os valores-limite de emissão e b)No caso de:\n\n-dióxido de enxofre e poeiras: 97 % de todos os valores médios de 48 horas não excederem 110 % dos valores-limite de emissão,\n\n-óxidos de azoto: 95 % de todos os valores médios de 48 horas não excederem 110 % dos valores- -limite de emissão.\n\nNão serão tidos em conta os períodos referidos no artigo 8, nem os períodos de arranque e de paragem.\n\n2. No caso de apenas serem exigidas medições intervaladas ou outros processos de determinação apropriados, considerar-se-á que os valores-limite de emissão previstos nos Anexos III a VII foram respeitados se nenhum dos resultados das séries de medições efectuadas ou dos outros processos definidos e determinados de acordo com as regras aprovadas pelas autoridades competentes ultrapassar o valor-limite de emissão.\n\n3. Nos casos referidos nos n° 2 e 3 do artigo 5, as taxas de dessulfurização considerar-se-ão respeitadas se a avaliação das medições efectuadas nos termos do ponto A,\n\nn° 2, do Anexo IX demonstrar que todos os valores médios de um mês de calendário ou todos os valores médios recolhidos a intervalos de um mês satisfazem as taxas de dessulfurização.\n\nNão serão tidos em conta os períodos referidos no artigo 8, nem os períodos de arranque e paragem."
+  },
+  "280f8dbde7083347": {
+   "fragment_id": "Artigo 16",
+   "type": "artigo",
+   "heading": "Artigo 16",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16\n\n1. Os Estados-membros informarão a Comissão, o mais tardar até 31 de Dezembro de 1990, sobre os programas elaborados de acordo com o n° 1 do artigo 3 Os Estados-membros transmitirão à Comissão, o mais tardar um ano depois do termo das diferentes fases de redução das emissões das instalações existentes, um relatório de síntese sobre os resultados da aplicação dos programas.\n\nSerá igualmente exigido um relatório intermédio a meio de cada fase.\n\n2. Os relatórios referidos no número anterior fornecerão um panorama global sobre:\n\n-todas as instalações de combustão abrangidas pela presente directiva,\n\n-as respectivas emissões de dióxido de enxofre e de óxido de azoto, expressas em toneladas por ano e sob a forma de concentração dessas substâncias nos fumos,\n\n-as medidas já tomadas ou previstas para reduzir as emissões, bem como introduzir alterações na escolha do combustível utilizado,\n\n-as alterações, já efectuadas ou previstas, do modo de exploração,\n\n-os encerramentos definitivos das instalações de combustão, já efectuados ou previstos,\n\n-e, eventualmente, os valores-limite de emissão impostos nos programas para as instalações existentes.\n\nPara a determinação das emissões anuais e das concentrações de poluentes nos fumos, os Estados-membros tomarão em consideração o disposto nos artigos 13, 14 e 15 3. A Comissão efectuará regularmente com os Estados- -membros um confronto dos programas referidos no n° 1 do artigo 3, a fim de assegurar a sua harmonização ao nível comunitário.\n\nA Comissão assegurará, em especial, que a execução desses programas conduza aos resultados esperados de redução global das emissões e apresentará, se necessário, propostas adequadas.\n\n4. Os Estados-membros que apliquem o artigo 5 apresentarão um relatório anual à Comissão sobre essa aplicação."
+  },
+  "98c9fb1443dc899e": {
+   "fragment_id": "Artigo 17",
+   "type": "artigo",
+   "heading": "Artigo 17",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17\n\n1. Os Estados-membros porão em vigor, o mais tardar até 30 de Junho de 1990, as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva. Informarão a Comissão imediatamente desse facto.\n\nOs Estados-membros comunicarão à Comissão os textos das disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "b6c516fb32b01bb3": {
+   "fragment_id": "Artigo 18",
+   "type": "artigo",
+   "heading": "Artigo 18",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 24 de Novembro de 1988.\n\nPelo ConselhoO PresidenteV. KEDIKOGLOU\n\n(1)JO n° C 49 de 21. 2. 1984, p. 1 e JO n° C 76 de 22. 3. 1985, p. 6.\n\n(2)JO n° C 337 de 17. 12. 1984, p. 446 e JO n° C 175 de 15. 7. 1985, p. 297.\n\n(3)JO n° C 25 de 28. 1. 1985, p. 3.\n\n(4)JO n° C 112 de 20. 12. 1973, p. 1.\n\n(5)JO n° C 139 de 13. 6. 1977, p. 1.\n\n(6)JO n° C 46 de 17. 2. 1983, p. 1.\n\n(7)JO n° C 328 de 7. 12. 1987, p. 1.\n\n(8)JO n° L 171 de 27. 6. 1981, p. 11.\n\n(9)JO n° L 188 de 16. 7. 1984, p. 20.\n\n(1)JO n° L 175 de 5. 7. 1985, p. 40."
+  },
+  "f1dcd38a5979a2f4": {
+   "fragment_id": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >POSIÇÃO NUMA TABELA>"
+  },
+  "17bd5a7b0a91ad4d": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>"
+  },
+  "c510f8c3b2ccb0b3": {
+   "fragment_id": "ANEXO III — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO III — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >INÍCIO DE GRÁFICO>\n\n<?aa3W><?aa8H>VALORES-LIMITE DE EMISSÃO DE SO<?È>2 DAS NOVAS INSTALAÇÕES <?aa0G>(¹) <?aa1W><?aa8H>Combustíveis sólidos <?aa5W><?aeFN38,><?aa5W><?aa1X><?aeVS1><?Þ><?aaF><?aa7G>(¹)<?aa3L>O Conselho fixará em 1990, com base num relatório da Comissão sobre a disponibilidade de combustíveis com baixo teor de enxofre e numa proposta adequada da Comissão, os valores-limite de emissão <?ss>para novas instalações de uma potência de 50 a 100 MWth.\n\n>FIM DE GRÁFICO>"
+  },
+  "d4360fa10fcea698": {
+   "fragment_id": "ANEXO IV — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO IV — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >INÍCIO DE GRÁFICO>\n\n<?aa3W><?aa8H>VALORES-LIMITE DE EMISSÃO DE SO<?È>2 DAS NOVAS INSTALAÇÕES <?aa1W><?aa8H>Combustíveis líquidos <?aa5W><?aeFN34,><?aa5W><?aa1X\"FIM DE GRÁFICO>"
+  },
+  "67f067665cc53e61": {
+   "fragment_id": "ANEXO V — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO V — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — >POSIÇÃO NUMA TABELA>"
+  },
+  "07f492378e32c15c": {
+   "fragment_id": "ANEXO VI — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO VI — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — >POSIÇÃO NUMA TABELA>"
+  },
+  "bfcbdfb1c0569c74": {
+   "fragment_id": "ANEXO VII — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO VII — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — >POSIÇÃO NUMA TABELA>"
+  },
+  "40b2276e74f7c158": {
+   "fragment_id": "ANEXO VIII — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO VIII — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — >INÍCIO DE GRÁFICO>\n\n<?aa3W><?aa8H>TAXAS DE DESSULFURIZAÇÃO <?aa1W><?aa8H>em aplicação do <(BLK0)ABREV>n<(BLK0)INDIC TYPE=\"SUF\">o</(BLK0)INDIC>\n\n</(BLK0)ABREV>\n\n2 do artigo 5<?aa5S> <?aa5W><?aeFN28,><?aa5W><?aa1X\"FIM DE GRÁFICO>"
+  },
+  "b3527e90a4c6d45c": {
+   "fragment_id": "ANEXO IX MÉTODOS DE MEDIÇÃO DAS EMISSÕES",
+   "type": "divisao",
+   "heading": "ANEXO IX MÉTODOS DE MEDIÇÃO DAS EMISSÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX MÉTODOS DE MEDIÇÃO DAS EMISSÕES\n\nA.Processos de medição e de avaliação das emissões provenientes de novas instalações 1.A medição das concentrações de SO2, de poeiras, de NOx e de oxigénio efectuar-se-á de modo contínuo no caso de novas instalações com uma potência térmica nominal igual ou superior a 300 MWth. O controlo do SO2 e das poeiras pode, no entanto, limitar-se a medições intervaladas ou a outros processos de determinação apropriados, no caso de essas medições ou processos, que devem ser verificados e reconhecidos pelas autoridades competentes, permitirem determinar a concentração destes poluentes.\n\nNo caso de instalações não abrangidas pelo parágrafo anterior, as autoridades competentes poderão, sempre que o considerem necessário, exigir a realização de medições contínuas daqueles três poluentes e do oxigénio. Se não forem exigidas medições contínuas, proceder-se-á a medições regulares ou utilizar-se-ão processos de determinação adequados, aprovados pelas autoridades competentes, para avaliar a quantidade das substâncias acima referidas presente nas emissões.\n\n2.No caso de instalações que devam sujeitar-se às taxas de dessulfurização dos n° 2 e 3 do artigo 5, aplicar-se-ão os requisitos referentes às medições das emissões de SO2 previstos no número anterior. Além disso, deve proceder-se a um controlo regular do teor em enxofre do combustível utilizado na instalação de combustão.\n\n3.As autoridades competentes devem ser informadas de quaisquer alterações importantes no tipo de combustível utilizado ou no modo de exploração da instalação. Caber-lhes-á decidir se as exigências de controlo referidas no n° 1 se mantêm adequadas ou se necessitam de adaptação.\n\n4.O equipamento de medição contínua deve ser verificado periodicamente, em concertação com as autoridades competentes. Os instrumentos de medição das concentrações de SO2, de poeiras, de NOx e de oxigénio devem ser aferidos e o seu funcionamento deve ser analisado a intervalos regulares. O equipamento de medição contínua deve ser aferido de acordo com um método de medição de referência aprovado pela autoridade competente.\n\nB.Determinação das emissões totais anuais provenientes de novas instalações O resultado da determinação das emissões anuais totais de SO2 e de NOx será comunicado às autoridades competentes. Quando for utilizado o controlo contínuo, o operador da instalação deve indicar separadamente, para cada poluente, a quantidade emitida por dia, com base no caudal volúmico dos fumos expelidos. Quando não for praticado o controlo contínuo, o operador fará estimativas da totalidade de emissões anuais, com base no n° 1 do ponto A, de acordo com as exigências das autoridades competentes.\n\nSimultaneamente à comunicação relativa às emissões anuais totais provenientes das instalações existentes referida no n° 3 do ponto C, os Estados-membros comunicarão à Comissão as emissões anuais totais de SO2 e de NOx provenientes das novas instalações.\n\nC.Determinação das emissões anuais totais provenientes de instalações existentes 1.A partir de 1990, os Estados-membros elaborarão anualmente um inventário completo das emissões de SO2 e de NOx provenientes das instalações existentes:\n\n-numa base individual, em relação às instalações de mais de 300 MW e para as refinarias,\n\n-numa base global, em relação às restantes instalações de combustão a que se aplica a presente directiva.\n\n2.A metodologia a utilizar neste inventário deverá ser conforme à utilizada na determinação das emissões de SO2 e de NOx provenientes das instalações de combustão do ano de 1980.\n\nAté 1990, os Estados-membros informarão pormenorizadamente a Comissão sobre os métodos e os dados de base utilizados para avaliar as emissões de SO2 e de NOx das instalações existentes a que se refere a coluna 0 dos Anexos I e II, respectivamente.\n\n3.Os resultados deste inventário serão devidamente compilados e comunicados à Comissão no prazo de nove meses a partir do final do ano considerado.\n\nA pedido da Comissão, ser-lhe-ão facultadas a metodologia utilizada na elaboração dos referidos inventários, assim como a informação básica de pormenor.\n\n4.A Comissão organizará um confronto sistemático dos referidos inventários nacionais e, se necessário, apresentará propostas ao Conselho no sentido de harmonizar as metodologias dos inventários das emissões, no sentido de uma efectiva aplicação da presente directiva."
+  },
+  "e435e997f9e3eb8b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1988L0609 — PT — 27.11.2002 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31988L0609) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31988L0609) [de 24 de Novembro de 1988](http://publications.europa.eu/resource/celex/31988L0609) [relativa à limitação das emissões para a atmosfera de certos poluentes provenientes de grandes instalações de combustão](http://publications.europa.eu/resource/celex/31988L0609) [(88/609/CEE)](http://publications.europa.eu/resource/celex/31988L0609) (JO L 336, 7.12.1988, p.1)\n\n**revogado por:**\n\n- [Directiva 2001/80/CE do Parlamento Europeu e do Conselho de 23 de Outubro de 2001](http://publications.europa.eu/resource/celex/32001L0080) — L 309 — 1 — 27.11.2001"
+  }
+ }
+}

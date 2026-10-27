@@ -1,0 +1,85 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:666729:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-151734225",
+ "dre_path": "/dr/detalhe/portaria/523-2003-666729",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-07-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "151653314"
+   ]
+  },
+  {
+   "date": "2017-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105770334:por",
+     "title": "Portaria n.º 31/2017",
+     "published": "2017-01-18",
+     "dre_path": "/dr/detalhe/portaria/31-2017-105770334"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "151653307",
+    "151653301"
+   ]
+  },
+  {
+   "date": "2020-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151662904:por",
+     "title": "Portaria n.º 295/2020",
+     "published": "2020-12-21",
+     "dre_path": "/dr/detalhe/portaria/295-2020-151662904"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "151653314",
+    "151653301"
+   ]
+  }
+ ],
+ "fragments": {
+  "151653314": {
+   "fragment_id": "151734226",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-12-22",
+   "changed_by": [],
+   "markdown": "Portaria n.º 523/2003\n\nde 4 de Julho\n\nO advento das novas tecnologias de informação, nomeadamente a existência de redes de comunicação quer de acesso generalizado (Internet) quer de acesso restrito (Intranet), deve ser aproveitado para simplificar o cumprimento das obrigações declarativas ou de pagamento. Dispondo-se actualmente, em termos de cobrança, de uma extensa rede que, para além das tesourarias de finanças, inclui os CTT e as instituições de crédito, bem como o sistema multibanco, importa, agora, fazer uso daquelas novas tecnologias.\n\nA experiência já posta em prática pela administração fiscal, em sede de obrigações declarativas, utilizando a Internet, tem constituído um êxito.\n\nDevem, agora, estender-se aquelas vantagens às obrigações de pagamento, por forma a ser reduzida, ou mesmo eliminada, a utilização do suporte em papel.\n\nAssim:\n\nManda o Governo, pela Ministra de Estado e das Finanças, nos termos do artigo 40.º do Decreto-Lei n.º 492/88, de 30 de Dezembro, que aprovou o Regulamento de Cobrança dos Impostos sobre o Rendimento, e do n.º 2 do artigo 1.º da Lei n.º 150/99, de 11 de Setembro, que aprovou o Código do Imposto do Selo, o seguinte:\n\n1.º É aprovado o modelo, em anexo, da declaração de pagamento de retenções na fonte de imposto sobre o rendimento das pessoas singulares (IRS) e de imposto sobre o rendimento das pessoas colectivas (IRC) e do imposto do selo (IS).\n\n2.º As entidades obrigadas a efectuar retenções na fonte de IRS e de IRC e ao pagamento do imposto do selo devem proceder à entrega das correspondentes importâncias utilizando o modelo referido no número anterior, de acordo com a codificação dele constante.\n\n3.º A apresentação do referido modelo deve ser feita por transmissão electrónica de dados, via Internet, ou através das seguintes entidades:\n\na) Tesourarias de finanças;\n\nb) CTT;\n\nc) Outras entidades cobradoras aderentes à rede.\n\n4.º (Revogado).\n\n5.º Depois de submetida a declaração, é criada uma chave de referência, que deve ser utilizada para o pagamento do imposto.\n\n6.º O pagamento do imposto pode ser efectuado em qualquer um dos seguintes locais ou através dos meios a seguir indicados:\n\na) Tesourarias de finanças;\n\nb) CTT;\n\nc) Instituições de crédito com protocolo com a Direcção-Geral do Tesouro (DGT);\n\nd) Sistema de pagamento automático multibanco;\n\ne) Serviço de homebanking para as instituições de crédito que o disponibilizem.\n\n7.º Constitui prova do pagamento a certificação ou o recibo emitido pelas entidades cobradoras da receita.\n\n8.º A obrigatoriedade de utilização do novo modelo é aplicável às entregas de importâncias retidas na fonte de IRS ou de IRC e de pagamento do imposto do selo efectuadas a partir de 1 de Janeiro de 2004, independentemente do período a que se reportem.\n\n9.º A apresentação da declaração de pagamento de retenções na fonte de imposto sobre o rendimento das pessoas singulares (IRS) e de imposto sobre o rendimento das pessoas coletivas (IRC) e do imposto do selo (IS) não é aplicável às retenções na fonte constantes da Declaração Mensal de Remunerações (DMR), devendo o pagamento ser efetuado nos termos previstos no artigo 6.º com base em chave de referência (DUC) gerada mediante submissão da DMR."
+  },
+  "151653307": {
+   "fragment_id": "151734226",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-01-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 293/2010 - Diário da República n.º 105/2010, Série I de 2010-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/293-2010-332465), produz efeitos a partir de 2009-06-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 31/2017 - Diário da República n.º 13/2017, Série I de 2017-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/31-2017-105770334), em vigor a partir de 2017-01-19, produz efeitos a partir de 2017-01-01"
+   ],
+   "markdown": "Portaria n.º 523/2003\n\nde 4 de Julho\n\nO advento das novas tecnologias de informação, nomeadamente a existência de redes de comunicação quer de acesso generalizado (Internet) quer de acesso restrito (Intranet), deve ser aproveitado para simplificar o cumprimento das obrigações declarativas ou de pagamento. Dispondo-se actualmente, em termos de cobrança, de uma extensa rede que, para além das tesourarias de finanças, inclui os CTT e as instituições de crédito, bem como o sistema multibanco, importa, agora, fazer uso daquelas novas tecnologias.\n\nA experiência já posta em prática pela administração fiscal, em sede de obrigações declarativas, utilizando a Internet, tem constituído um êxito.\n\nDevem, agora, estender-se aquelas vantagens às obrigações de pagamento, por forma a ser reduzida, ou mesmo eliminada, a utilização do suporte em papel.\n\nAssim:\n\nManda o Governo, pela Ministra de Estado e das Finanças, nos termos do artigo 40.º do Decreto-Lei n.º 492/88, de 30 de Dezembro, que aprovou o Regulamento de Cobrança dos Impostos sobre o Rendimento, e do n.º 2 do artigo 1.º da Lei n.º 150/99, de 11 de Setembro, que aprovou o Código do Imposto do Selo, o seguinte:\n\n1.º É aprovado o modelo, em anexo, da declaração de pagamento de retenções na fonte de imposto sobre o rendimento das pessoas singulares (IRS) e de imposto sobre o rendimento das pessoas colectivas (IRC) e do imposto do selo (IS).\n\n2.º As entidades obrigadas a efectuar retenções na fonte de IRS e de IRC e ao pagamento do imposto do selo devem proceder à entrega das correspondentes importâncias utilizando o modelo referido no número anterior, de acordo com a codificação dele constante.\n\n3.º A apresentação do referido modelo deve ser feita por transmissão electrónica de dados, via Internet, ou através das seguintes entidades:\n\na) Tesourarias de finanças;\n\nb) CTT;\n\nc) Outras entidades cobradoras aderentes à rede.\n\n4.º Se a apresentação tiver lugar via Internet, devem ser observados os seguintes procedimentos:\n\na) Seleccionar a opção correspondente;\n\nb) Preencher a declaração;\n\nc) Validar a informação e corrigir os erros locais detectados;\n\nd) Submeter a declaração.\n\n5.º Depois de submetida a declaração, é criada uma chave de referência, que deve ser utilizada para o pagamento do imposto.\n\n6.º O pagamento do imposto pode ser efectuado em qualquer um dos seguintes locais ou através dos meios a seguir indicados:\n\na) Tesourarias de finanças;\n\nb) CTT;\n\nc) Instituições de crédito com protocolo com a Direcção-Geral do Tesouro (DGT);\n\nd) Sistema de pagamento automático multibanco;\n\ne) Serviço de homebanking para as instituições de crédito que o disponibilizem.\n\n7.º Constitui prova do pagamento a certificação ou o recibo emitido pelas entidades cobradoras da receita.\n\n8.º A obrigatoriedade de utilização do novo modelo é aplicável às entregas de importâncias retidas na fonte de IRS ou de IRC e de pagamento do imposto do selo efectuadas a partir de 1 de Janeiro de 2004, independentemente do período a que se reportem.\n\n9.º A apresentação da declaração de pagamento de retenções na fonte de imposto sobre o rendimento das pessoas singulares (IRS) e de imposto sobre o rendimento das pessoas coletivas (IRC) e do imposto do selo (IS) não é aplicável às retenções na fonte constantes da Declaração Mensal de Remunerações (DMR), devendo o pagamento ser efetuado nos termos previstos no artigo 6.º com base em chave de referência (DUC) gerada mediante submissão da DMR.\n\n> Alterado pelo/a [Portaria n.º 293/2010 - Diário da República n.º 105/2010, Série I de 2010-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/293-2010-332465), produz efeitos a partir de 2009-06-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 31/2017 - Diário da República n.º 13/2017, Série I de 2017-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/31-2017-105770334), em vigor a partir de 2017-01-19, produz efeitos a partir de 2017-01-01"
+  },
+  "151653301": {
+   "fragment_id": "151734227",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pela Ministra de Estado e das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais, em 16 de Junho de 2003.\n\n(ver modelo no documento original)"
+  }
+ }
+}

@@ -1,0 +1,226 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:564272:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-156255753",
+ "dre_path": "/dr/detalhe/decreto-lei/291-2001-564272",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-11-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156256211",
+    "156256212",
+    "156256213",
+    "156256214",
+    "156256215",
+    "156256216",
+    "156256217",
+    "156256218",
+    "156256219",
+    "156256220",
+    "156256221",
+    "156256222"
+   ]
+  },
+  {
+   "date": "2011-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278880:por",
+     "title": "Decreto-Lei n.º 43/2011",
+     "published": "2011-03-24",
+     "dre_path": "/dr/detalhe/decreto-lei/43-2011-278880"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "156256211",
+    "156256212",
+    "156256213",
+    "156256214",
+    "156256215",
+    "156256216",
+    "156256226",
+    "156256218",
+    "156256219",
+    "156256220",
+    "156256221",
+    "156256222",
+    "156256223"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "156256211",
+    "156256212",
+    "156256213",
+    "156256214",
+    "156256215",
+    "156256216",
+    "156256226",
+    "156256227",
+    "156256228",
+    "156256220",
+    "156256221",
+    "156256222",
+    "156256223"
+   ]
+  }
+ ],
+ "fragments": {
+  "156256211": {
+   "fragment_id": "156255754",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 291/2001\n\nde 20 de Novembro\n\nA promoção do comércio de géneros alimentícios, sobretudo dos pré-embalados, através da oferta de outros bens, tem sofrido nos últimos anos uma evolução significativa. Esta prática, com especial incidência nos géneros alimentícios destinados a crianças, tem obrigado a que alguns países adoptem medidas legislativas para impedir os acidentes que podem ocorrer quando os brindes incluídos não cumprem as adequadas regras de segurança.\n\nA análise da acidentalidade decorrente da mistura de brindes com os géneros alimentícios permite concluir que aqueles produtos, quando não devidamente embalados, podem representar riscos para a segurança dos consumidores no acto de manuseamento ou ingestão, de que são exemplos a asfixia, o envenenamento e a perfuração ou obstrução do aparelho digestivo.\n\nAtravés do Decreto-Lei n.º 158/99, de 11 de Maio, estabeleceram-se algumas regras conducentes à diminuição dos riscos e à prevenção da segurança dos consumidores neste domínio. Com a publicação daquele diploma, pretendeu-se compatibilizar a iniciativa comercial com o respeito pelo direito à saúde e segurança dos consumidores.\n\nContudo, atento o disposto no artigo 28.º do Tratado de Roma, e a necessidade de evitar a criação de obstáculos à livre circulação de bens e serviços dentro do mercado interno, impõe-se a revisão daquele diploma à luz do direito comunitário vigente, como seja o relativo à segurança dos brinquedos.\n\nForam ouvidas as associações representativas do sector.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "156256212": {
+   "fragment_id": "156255755",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece os princípios e regras a que deve obedecer a comercialização dos géneros alimentícios com brindes."
+  },
+  "156256213": {
+   "fragment_id": "156255756",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação do presente diploma entende-se por:\n\na) «Género alimentício» toda a substância, seja ou não tratada, destinada à alimentação humana, com todos os ingredientes utilizados no seu fabrico, preparação e tratamento;\n\nb) «Embalagem» recipiente ou invólucro de um género alimentício ou de um brinde que se destina a contê-lo, acondicioná-lo ou protegê-lo;\n\nc) «Género alimentício pré-embalado» género alimentício cujo acondicionamento foi realizado antes da sua exposição à venda ao consumidor, em embalagem que solidariamente com ele é comercializada, envolvendo-o completa ou parcialmente, de tal modo que o conteúdo não possa ser modificado sem que aquela seja violada;\n\nd) «Rotulagem» conjunto de menções e indicações, incluindo imagens e marcas de fabrico ou de comércio, que figuram sobre a embalagem, em rótulo, etiqueta, cinta, gargantilha, letreiro ou documento acompanhando ou referindo-se ao respectivo produto;\n\ne) «Mistura directa» a mistura na mesma embalagem ou em contacto directo de géneros alimentícios com brindes;\n\nf) «Mistura indirecta» qualquer outro tipo de mistura;\n\ng) «Brindes» quaisquer objectos ou produtos estranhos à composição dos géneros alimentícios que, misturados directa ou indirectamente com estes, têm por finalidade a promoção comercial do género alimentício, dos próprios objectos ou produtos ou ainda de um outro bem, de um serviço ou de uma ideia."
+  },
+  "156256214": {
+   "fragment_id": "156255757",
+   "type": 11,
+   "heading": "Artigo 3.º — Proibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Proibições\n\n1 - É proibida a comercialização de géneros alimentícios com mistura directa de brindes.\n\n2 - Excepcionam-se do disposto no número anterior os utensílios que se destinem à preparação e dosagem dos géneros alimentícios desde que dessa mistura não resultem riscos no acto de manuseamento ou ingestão para a saúde ou segurança dos consumidores, nomeadamente asfixia, envenenamento, perfuração ou obstrução do aparelho digestivo.\n\n3 - A mistura indirecta de brindes com géneros alimentícios deve obedecer aos requisitos estabelecidos nos artigos 4.º, 5.º e 6.º do presente diploma."
+  },
+  "156256215": {
+   "fragment_id": "156255758",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos dos brindes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos dos brindes\n\n1 - Os brindes misturados com géneros alimentícios devem:\n\na) Ser claramente distinguíveis dos géneros alimentícios pela sua cor, tamanho, consistência e apresentação;\n\nb) Satisfazer os requisitos estabelecidos na legislação referente ao tipo de produtos que o brinde configure;\n\nc) Ser concebidos e apresentados de molde a não causar riscos, no acto de manuseamento ou ingestão, à saúde ou segurança dos consumidores, nomeadamente asfixia, envenenamento, perfuração ou obstrução do aparelho digestivo.\n\n2 - Não há lugar à aplicação do disposto na alínea c) do número anterior nos casos em que os requisitos de segurança contra os riscos no acto de manuseamento ou ingestão aí mencionados resultantes da mistura do brinde com o género alimentício já se encontrem previstos pela legislação comunitária relativa ao produto que o brinde configura."
+  },
+  "156256216": {
+   "fragment_id": "156255759",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos da embalagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos da embalagem\n\nA embalagem utilizada no acondicionamento dos brindes misturados com géneros alimentícios deve respeitar os requisitos estabelecidos no Decreto-Lei n.º 193/88, de 30 de Maio, e legislação complementar."
+  },
+  "156256217": {
+   "fragment_id": "156255760",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos da rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos da rotulagem\n\nSem prejuízo da aplicação da legislação relativa à rotulagem, o rótulo da embalagem destinada a comercializar os géneros alimentícios misturados com brindes deve ainda informar o consumidor, em língua portuguesa, com caracteres facilmente legíveis, visíveis e indeléveis, em evidência e redigido em termos correctos, das características dos brindes que se encontram no seu interior, não podendo ser apresentadas ou descritas por palavras, imagens ou outra forma susceptível de criar uma impressão errada no consumidor."
+  },
+  "156256218": {
+   "fragment_id": "156255761",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - A violação do disposto nos artigos 3.º, 4.º e 6.º do presente diploma constitui contra-ordenação punível com coima de (euro) 748,20 a (euro) 3740,98 e (euro) 1745,79 a (euro) 44891,81, consoante os infractores sejam, respectivamente, pessoas singulares ou pessoas colectivas.\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "156256219": {
+   "fragment_id": "156255762",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscalização, instrução dos processos e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fiscalização, instrução dos processos e aplicação de coimas\n\n1 - A fiscalização do cumprimento do disposto no presente diploma, bem como a instrução dos respectivos processos de contra-ordenação, compete à Inspecção-Geral das Actividades Económicas.\n\n2 - A aplicação das coimas previstas no número anterior é da competência da Comissão de Aplicação de Coimas em Matéria Económica, criada pelo Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\n3 - O produto da aplicação das coimas previstas no presente diploma reverte:\n\na) Em 60% para o Estado;\n\nb) Em 30% para a Inspecção-Geral das Actividades Económicas;\n\nc) Em 10% para o Instituto do Consumidor."
+  },
+  "156256220": {
+   "fragment_id": "156255763",
+   "type": 11,
+   "heading": "Artigo 9.º — Cláusula de reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cláusula de reconhecimento mútuo\n\nO disposto no presente diploma aplica-se, sem prejuízo da livre circulação de produtos que sejam legalmente produzidos ou comercializados nos outros Estados-Membros da União Europeia ou sejam originários dos países da EFTA, que são partes contratantes do Acordo EEE - Acordo sobre o Espaço Económico Europeu, na medida em que tais produtos não acarretem um risco para a saúde ou a segurança dos consumidores."
+  },
+  "156256221": {
+   "fragment_id": "156255764",
+   "type": 11,
+   "heading": "Artigo 10.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 158/99, de 11 de Maio."
+  },
+  "156256222": {
+   "fragment_id": "156255765",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156256226": {
+   "fragment_id": "156255760",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos da rotulagem",
+   "in_force_from": "2011-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 43/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2011-278880), em vigor a partir de 2011-07-20"
+   ],
+   "markdown": "###### Artigo 6.º — Requisitos da rotulagem\n\nSem prejuízo da aplicação da legislação relativa à rotulagem, o rótulo da embalagem destinada a comercializar os géneros alimentícios misturados com brindes deve, ainda, informar o consumidor, em língua portuguesa, com caracteres facilmente legíveis, visíveis e indeléveis, em evidência e redigido em termos correctos, das características dos brindes que se encontram no seu interior, não podendo ser apresentadas ou descritas por palavras, imagens ou outra forma susceptível de criar uma impressão errada no consumidor, e deve, igualmente, apresentar o seguinte aviso: 'Contém um brinde. Recomendada a vigilância por adultos'.\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 43/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2011-278880), em vigor a partir de 2011-07-20"
+  },
+  "156256223": {
+   "fragment_id": "156255766",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa - Luís Garcia Braga da Cruz - António Fernando Correia de Campos - António José Martins Seguro.\n\nPromulgado em 6 de Novembro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Novembro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "156256227": {
+   "fragment_id": "156255761",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Contra-ordenações\n\n1 - A violação do disposto nos artigos 3.º, 4.º e 6.º do presente diploma constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156256228": {
+   "fragment_id": "156255762",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscalização, instrução dos processos e aplicação de coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Fiscalização, instrução dos processos e aplicação de coimas\n\n1 - A fiscalização do cumprimento do disposto no presente diploma, e a instrução dos respetivos processos de contraordenação competem à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

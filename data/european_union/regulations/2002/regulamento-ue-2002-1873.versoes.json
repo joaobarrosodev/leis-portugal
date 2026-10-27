@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R1873:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1873-20051101",
+ "dre_path": null,
+ "source_lastmod": "2005-11-01",
+ "versions": [
+  {
+   "date": "2002-10-22",
+   "future": false,
+   "celex": "32002R1873",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b2513f0a8d0d60d8",
+    "ed75cb02803af261",
+    "44d4e83df2d37bc8",
+    "0af3e9f7c71dc8d8",
+    "7a2d5f61c9231bb9"
+   ]
+  },
+  {
+   "date": "2004-11-01",
+   "future": false,
+   "celex": "02002R1873-20041101",
+   "acts": [
+    {
+     "id": "eu:celex:32004R0865:por",
+     "title": "REGULAMENTO (CE) N. o 865/2004 DO CONSELHO de 29 de Abril de 2004",
+     "published": null,
+     "celex": "32004R0865"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "905f5e69771d2997",
+    "4b8826b3b8b5c6d0",
+    "f1dccfc556e2e374",
+    "cea509015c00819b",
+    "d54f74e60984f720",
+    "7a99f7f0191d918e"
+   ]
+  },
+  {
+   "date": "2005-11-01",
+   "future": false,
+   "celex": "02002R1873-20051101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "26f384ebf6c88641"
+   ]
+  }
+ ],
+ "fragments": {
+  "b2513f0a8d0d60d8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 1873/2002 do Conselho, de 14 de Outubro de 2002, que fixa os limites do financiamento comunitário dos programas de actividades das organizações aprovadas de operadores oleícolas previsto pelo Regulamento (CE) n.° 1638/98 e que derroga o Regulamento n.° 136/66/CEE** *Jornal Oficial nº L 284 de 22/10/2002 p. 0001 - 0002*\n\nRegulamento (CE) n.o 1873/2002 do Conselho\n\nde 14 de Outubro de 2002\n\nque fixa os limites do financiamento comunitário dos programas de actividades das organizações aprovadas de operadores oleícolas previsto pelo Regulamento (CE) n.o 1638/98 e que derroga o Regulamento n.o 136/66/CEE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nConsiderando o seguinte:\n\n(1) O n.o 1 do artigo 4.oA do Regulamento (CE) n.o 1638/98 do Conselho, de 20 de Julho de 1998, que altera o Regulamento n.o 136/66/CEE que estabelece uma organização comum de mercado no sector das matérias gordas(3), determina que os Estados-Membros produtores podem reservar, dentro de certos limites, uma parte das ajudas eventualmente previstas para os produtores de azeite e/ou de azeitonas de mesa, a fim de assegurar o financiamento comunitário dos programas de actividades estabelecidos por organizações de produtores aprovadas, organizações interprofissionais aprovadas ou outras organizações de operadores aprovadas ou suas uniões, num ou mais dos domínios de actividade previstos no referido artigo. De acordo com o n.o 3, primeiro travessão, do artigo 4.oA do mesmo regulamento, importa fixar os limites das ajudas em causa.\n\n(2) A aplicação eficaz desses programas de actividades exige uma previsibilidade orçamental que não seja posta em causa pelo volume de produção anual de azeite e, se for caso disso, de azeitonas de mesa, de cada Estado-Membro. Importa, pois, determinar o limite do financiamento comunitário em função de parâmetros fixos, tais como o montante unitário da ajuda à produção referida no n.o 2 do artigo 5.o do Regulamento n.o 136/66/CEE(4), e as quantidades nacionais garantidas referidas no n.o 3 do mesmo artigo.\n\n(3) Por forma a evitar distorções do mercado, importa prever um sistema destinado a impedir que a totalidade dos montantes retidos pelos Estados-Membros sobre a ajuda à produção de azeite ou de azeitonas de mesa, nos termos do n.o 9 do artigo 5.o e do n.o 1 do artigo 20.oD do Regulamento n.o 136/66/CEE, bem como do n.o 1 do artigo 4.oA do Regulamento (CE) n.o 1638/98, exceda o limite fixado pelo presente regulamento em aplicação do n.o 1 do artigo 4.oA do Regulamento (CE) n.o 1638/98.\n\n(4) A fim de favorecer os programas de actividades das organizações aprovadas durante as campanhas de comercialização de 2002/2003 e 2003/2004, deveria ser facultada aos Estados-Membros a possibilidade de concentrarem nesses programas os recursos das retenções sobre a ajuda à produção referidas no n.o 9 do artigo 5.o e no n.o 1 do artigo 20.oD do Regulamento n.o 136/66/CEE. Para o efeito, importa prever a possibilidade de os Estados-Membros reduzirem ou eliminarem as retenções em causa, com a condição de aumentarem do mesmo montante os recursos disponíveis para os programas de actividades das organizações aprovadas. Importa conferir à Comissão o poder de fixar o prazo para o exercício dessa possibilidade,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ed75cb02803af261": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA partir da campanha de comercialização de 2002/2003, e em relação a cada Estado-Membro, o limite da parte das ajudas reservada por força do n.o 1 do artigo 4.oA do Regulamento (CE) n.o 1638/98 é igual a 3 % do produto da respectiva quantidade nacional garantida, fixada no n.o 3 do artigo 5.o do Regulamento n.o 136/66/CEE, pelo montante unitário, expresso em euros por tonelada, da ajuda à produção, fixado no n.o 2 do mesmo artigo."
+  },
+  "44d4e83df2d37bc8": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEm derrogação ao artigo 1.o, nas campanhas de comercialização de 2002/2003 e 2003/2004, a percentagem de 3 % prevista no referido artigo será deduzida dos pontos percentuais previstos no n.o 9 do artigo 5.o e no n.o 1 do artigo 20.oD do Regulamento n.o 136/66/CEE, se necessário após aplicação do artigo 3.o"
+  },
+  "0af3e9f7c71dc8d8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEm derrogação ao n.o 9 do artigo 5.o e ao n.o 1 do artigo 20.oD do Regulamento n.o 136/66/CEE, nas campanhas de comercialização de 2002/2003 e 2003/2004, cada Estado-Membro poderá, até uma data a determinar, reduzir as percentagens previstas nos referidos números ou não os aplicar, na condição de afectar os recursos libertados à parte das ajudas reservada por força do n.o 1 do artigo 4.oA do Regulamento (CE) n.o 1638/98.\n\nA data referida no primeiro parágrafo será fixada pela Comissão de acordo com o procedimento previsto no artigo 38.o do Regulamento n.o 136/66/CEE."
+  },
+  "7a2d5f61c9231bb9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Novembro de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 14 de Outubro de 2002.\n\nPelo Conselho\n\nA Presidente\n\nM. Fischer Boel\n\n(1) Proposta de 1 de Julho de 2002 (ainda não publicada no Jornal Oficial).\n\n(2) Parecer emitido em 24 de Setembro de 2002 (ainda não publicado no Jornal Oficial).\n\n(3) JO L 210 de 28.7.1998, p. 32. Regulamento alterado pelo Regulamento (CE) n.o 1513/2001 (JO L 201 de 26.7.2001, p. 4).\n\n(4) JO 172 de 30.9.1966, p. 3025/66. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1513/2001."
+  },
+  "905f5e69771d2997": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Outubro de 2002\n\nque fixa os limites do financiamento comunitário dos programas de actividades das organizações aprovadas de operadores oleícolas previsto pelo Regulamento (CE) n.º 1638/98 e que derroga o Regulamento n.º 136/66/CEE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/3032037b-aacf-4d59-97ad-c1cb415fc1cc.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/3032037b-aacf-4d59-97ad-c1cb415fc1cc.0010.03/DOC_1#E0002)),\n\n(1) O n.º 1 do artigo 4.ºA do Regulamento (CE) n.º 1638/98 do Conselho, de 20 de Julho de 1998, que altera o Regulamento n.º 136/66/CEE que estabelece uma organização comum de mercado no sector das matérias gordas ([^3^](http://publications.europa.eu/resource/cellar/3032037b-aacf-4d59-97ad-c1cb415fc1cc.0010.03/DOC_1#E0003)), determina que os Estados-Membros produtores podem reservar, dentro de certos limites, uma parte das ajudas eventualmente previstas para os produtores de azeite e/ou de azeitonas de mesa, a fim de assegurar o financiamento comunitário dos programas de actividades estabelecidos por organizações de produtores aprovadas, organizações interprofissionais aprovadas ou outras organizações de operadores aprovadas ou suas uniões, num ou mais dos domínios de actividade previstos no referido artigo. De acordo com o n.º 3, primeiro travessão, do artigo 4.ºA do mesmo regulamento, importa fixar os limites das ajudas em causa.\n\n(2) A aplicação eficaz desses programas de actividades exige uma previsibilidade orçamental que não seja posta em causa pelo volume de produção anual de azeite e, se for caso disso, de azeitonas de mesa, de cada Estado-Membro. Importa, pois, determinar o limite do financiamento comunitário em função de parâmetros fixos, tais como o montante unitário da ajuda à produção referida no n.º 2 do artigo 5.º do Regulamento n.º 136/66/CEE ([^4^](http://publications.europa.eu/resource/cellar/3032037b-aacf-4d59-97ad-c1cb415fc1cc.0010.03/DOC_1#E0004)), e as quantidades nacionais garantidas referidas no n.º 3 do mesmo artigo.\n\n(3) Por forma a evitar distorções do mercado, importa prever um sistema destinado a impedir que a totalidade dos montantes retidos pelos Estados-Membros sobre a ajuda à produção de azeite ou de azeitonas de mesa, nos termos do n.º 9 do artigo 5.º e do n.º 1 do artigo 20.ºD do Regulamento n.º 136/66/CEE, bem como do n.º 1 do artigo 4.ºA do Regulamento (CE) n.º 1638/98, exceda o limite fixado pelo presente regulamento em aplicação do n.º 1 do artigo 4.ºA do Regulamento (CE) n.º 1638/98.\n\n(4) A fim de favorecer os programas de actividades das organizações aprovadas durante as campanhas de comercialização de 2002/2003 e 2003/2004, deveria ser facultada aos Estados-Membros a possibilidade de concentrarem nesses programas os recursos das retenções sobre a ajuda à produção referidas no n.º 9 do artigo 5.º e no n.º 1 do artigo 20.ºD do Regulamento n.º 136/66/CEE. Para o efeito, importa prever a possibilidade de os Estados-Membros reduzirem ou eliminarem as retenções em causa, com a condição de aumentarem do mesmo montante os recursos disponíveis para os programas de actividades das organizações aprovadas. Importa conferir à Comissão o poder de fixar o prazo para o exercício dessa possibilidade,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4b8826b3b8b5c6d0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA partir da campanha de comercialização de 2002/2003, e em relação a cada Estado-Membro, o limite da parte das ajudas reservada por força do n.º 1 do artigo 4.ºA do Regulamento (CE) n.º 1638/98 é igual a 3 % do produto da respectiva quantidade nacional garantida, fixada no n.º 3 do artigo 5.º do Regulamento n.º 136/66/CEE, pelo montante unitário, expresso em euros por tonelada, da ajuda à produção, fixado no n.º 2 do mesmo artigo."
+  },
+  "f1dccfc556e2e374": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEm derrogação ao artigo 1.º, [**►M1**](http://publications.europa.eu/resource/celex/32004R0865) a partir da campanha de comercialização de 2002/2003**◄**, a percentagem de 3 % prevista no referido artigo será deduzida dos pontos percentuais previstos no n.º 9 do artigo 5.º e no n.º 1 do artigo 20.ºD do Regulamento n.º 136/66/CEE, se necessário após aplicação do artigo 3.º"
+  },
+  "cea509015c00819b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEm derrogação ao n.º 9 do artigo 5.º e ao n.º 1 do artigo 20.ºD do Regulamento n.º 136/66/CEE, [**►M1**](http://publications.europa.eu/resource/celex/32004R0865) a partir da campanha de comercialização de 2002/2003**◄**, cada Estado-Membro poderá, até uma data a determinar, reduzir as percentagens previstas nos referidos números ou não os aplicar, na condição de afectar os recursos libertados à parte das ajudas reservada por força do n.º 1 do artigo 4.ºA do Regulamento (CE) n.º 1638/98.\n\nA data referida no primeiro parágrafo será fixada pela Comissão de acordo com o procedimento previsto no artigo 38.º do Regulamento n.º 136/66/CEE."
+  },
+  "d54f74e60984f720": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Novembro de 2002.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "7a99f7f0191d918e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3032037b-aacf-4d59-97ad-c1cb415fc1cc.0010.03/DOC_1#src.E0001)) Proposta de 1 de Julho de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3032037b-aacf-4d59-97ad-c1cb415fc1cc.0010.03/DOC_1#src.E0002)) Parecer emitido em 24 de Setembro de 2002 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3032037b-aacf-4d59-97ad-c1cb415fc1cc.0010.03/DOC_1#src.E0003)) JO L 210 de 28.7.1998, p. 32. Regulamento alterado pelo Regulamento (CE) n.º 1513/2001 (JO L 201 de 26.7.2001, p. 4).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3032037b-aacf-4d59-97ad-c1cb415fc1cc.0010.03/DOC_1#src.E0004)) JO 172 de 30.9.1966, p. 3025/66. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1513/2001."
+  },
+  "26f384ebf6c88641": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002R1873 — PT — 01.11.2005 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002R1873) [REGULAMENTO (CE) N.º 1873/2002 DO CONSELHO](http://publications.europa.eu/resource/celex/32002R1873) [de 14 de Outubro de 2002](http://publications.europa.eu/resource/celex/32002R1873) [que fixa os limites do financiamento comunitário dos programas de actividades das organizações aprovadas de operadores oleícolas previsto pelo Regulamento (CE) n.º 1638/98 e que derroga o Regulamento n.º 136/66/CEE](http://publications.europa.eu/resource/celex/32002R1873) (JO L 284, 22.10.2002, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 865/2004 do Conselho de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0865) — L 206 — 37 — 9.6.2004"
+  }
+ }
+}

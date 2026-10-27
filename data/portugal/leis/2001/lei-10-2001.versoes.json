@@ -1,0 +1,85 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:341800:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2001-116145700",
+ "dre_path": "/dr/detalhe/lei/10-2001-341800",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116130157",
+    "116130158",
+    "116130159"
+   ]
+  },
+  {
+   "date": "2019-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116130014:por",
+     "title": "Lei n.º 60/2018",
+     "published": "2018-08-21",
+     "dre_path": "/dr/detalhe/lei/60-2018-116130014"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "116130157",
+    "116145978",
+    "116130159",
+    "116130160"
+   ]
+  }
+ ],
+ "fragments": {
+  "116130157": {
+   "fragment_id": "116145701",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 10/2001\n\nde 21 de Maio\n\nInstitui um relatório anual sobre a igualdade de oportunidades entre homens e mulheres\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "116130158": {
+   "fragment_id": "116145702",
+   "type": 11,
+   "heading": "Artigo 1.º — Relatório anual sobre a igualdade de oportunidades entre homens e mulheres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Relatório anual sobre a igualdade de oportunidades entre homens e mulheres\n\n1 - O Governo envia à Assembleia da República, até ao fim de cada sessão legislativa, um relatório sobre o progresso da igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional.\n\n2 - O relatório deve conter os indicadores ao nível nacional que incluam os dados imprescindíveis à avaliação, pela Assembleia da República, do progresso registado em matéria de igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional, designadamente:\n\na) Os recursos humanos e materiais directamente envolvidos na observância da legislação da igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional;\n\nb) O número de acções de fiscalização e de inspecção realizadas de que resultaram a apreciação do cumprimento da legislação da igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional;\n\nc) Os critérios observados na escolha das acções de fiscalização e de inspecção referidas na alínea anterior;\n\nd) O número de queixas apresentadas em matérias relacionadas com a violação da legislação da igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional, sua distribuição geográfica e por sector de actividade, assim como as áreas sobre que incidem.\n\n3 - O plenário da Assembleia da República aprecia o relatório previsto no n.º 1 em sessão a realizar com a presença obrigatória do Governo."
+  },
+  "116130159": {
+   "fragment_id": "116145703",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente lei entra em vigor na data da sua publicação."
+  },
+  "116145978": {
+   "fragment_id": "116145702",
+   "type": 11,
+   "heading": "Artigo 1.º — Relatório anual sobre a igualdade de oportunidades entre homens e mulheres",
+   "in_force_from": "2019-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Lei n.º 60/2018 - Diário da República n.º 160/2018, Série I de 2018-08-21](https://diariodarepublica.pt/dr/detalhe/lei/60-2018-116130014), em vigor a partir de 2019-03-22"
+   ],
+   "markdown": "###### Artigo 1.º — Relatório anual sobre a igualdade de oportunidades entre homens e mulheres\n\n1 - O Governo envia à Assembleia da República, até ao fim de cada sessão legislativa, um relatório sobre o progresso da igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional.\n\n2 - O relatório deve conter os indicadores ao nível nacional que incluam os dados imprescindíveis à avaliação, pela Assembleia da República, do progresso registado em matéria de igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional, designadamente:\n\na) Os recursos humanos e materiais directamente envolvidos na observância da legislação da igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional;\n\nb) O número de acções de fiscalização e de inspecção realizadas de que resultaram a apreciação do cumprimento da legislação da igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional;\n\nc) Os critérios observados na escolha das acções de fiscalização e de inspecção referidas na alínea anterior;\n\nd) O número de queixas apresentadas em matérias relacionadas com a violação da legislação da igualdade de oportunidades entre mulheres e homens no trabalho, no emprego e na formação profissional, sua distribuição geográfica e por sector de actividade, assim como as áreas sobre que incidem.\n\ne) Informação sobre a implementação da lei que aprova medidas de promoção da igualdade remuneratória entre mulheres e homens por trabalho igual ou de igual valor.\n\n3 - O plenário da Assembleia da República aprecia o relatório previsto no n.º 1 em sessão a realizar com a presença obrigatória do Governo.\n\n> Alterado pelo/a Artigo 14.º do/a [Lei n.º 60/2018 - Diário da República n.º 160/2018, Série I de 2018-08-21](https://diariodarepublica.pt/dr/detalhe/lei/60-2018-116130014), em vigor a partir de 2019-03-22"
+  },
+  "116130160": {
+   "fragment_id": "116145704",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Março de 2001.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 3 de Maio de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 10 de Maio de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

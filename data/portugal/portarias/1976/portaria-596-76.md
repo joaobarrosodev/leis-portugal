@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:408900:por
+title: Portaria n.º 596/76
+short_title: null
+summary: Cria a Brigada Hidrográfica n.º 2, destinada à execução de levantamentos hidrográficos, topográficos e outros afins
+  no território nacional, e fixa a lotação de pessoal militar da referida Brigada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Armada
+proposing_entity: null
+official_number: 596/76
+official_date: null
+publication_date: '1976-10-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 238/1976, Série I de 1976-10-11
+  number: '238'
+  series: I
+  supplement: null
+  pages: 2292 - 2292
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23800/22922292.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '408900'
+  dre_path: /dr/detalhe/portaria/596-1976-408900
+  internal: pt:dre:408900:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/596-1976-408900
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/596-1976-408900
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7143bbeef9fff938e8bb075caac9caba659ac1c0aac8f2834a5d4364aa426b0e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:08:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cartografia
+- Criação de Serviços
+- Diretor Geral
+- Hidrografia
+- Instituto Hidrográfico
+- Lotação
+- Militar
+- Missão Hidrográfica
+- Oceanografia
+- Pessoal Civil
+- Quadro de Pessoal
+- Segurança Marítima
+relationships:
+- type: cites
+  target: pt:dre:227230:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:08:25Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 596/76
+
+de 11 de Outubro
+
+Ao abrigo do disposto nos artigos 13.º e 21.º do [Decreto-Lei n.º 26/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1970-227230), de 15 de Janeiro:
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:
+
+1.º É criada a Brigada Hidrográfica n.º 2, destinada à execução de levantamentos hidrográficos, topográficos e outros afins no território nacional.
+
+2.º É fixada para a Brigada Hidrográfica n.º 2 a lotação de pessoal militar anexa à presente portaria.
+
+3.º Fica o director-geral do Instituto Hidrográfico autorizado a integrar na Brigada Hidrográfica n.º 2, sempre que as circunstâncias assim o aconselhem, pessoal do quadro do pessoal civil daquele organismo.
+
+Estado-Maior da Armada, 10 de Setembro de 1976. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, vice-almirante.
+
+## Anexo — Lotação da Brigada Hidrográfica n.º 2
+
+Oficiais
+
+Marinha:
+
+Capitão-tenente ... 1
+
+Primeiros-tenentes ou segundos-tenentes ... (ver nota a) 3
+
+... 4
+
+Sargentos e praças
+
+Electrónicos:
+
+Primeiro-sargento ... (ver nota b) 1
+
+Condutores de máquinas:
+
+Cabos ... 2
+
+Marinheiro ... 1
+
+... 3
+
+Radiotelegrafistas:
+
+Cabo ... 1
+
+Marinheiros ... 2
+
+... 3
+
+Electricistas:
+
+Cabo ... 1
+
+Manobra:
+
+Primeiro-sargento ou segundo-sargento ... 1
+
+Cabos ... 2
+
+Marinheiro ... 1
+
+... 4
+
+Qualquer classe:
+
+Cabos ... 2
+
+Marinheiros ... 3
+
+... 5
+
+... 17
+
+(nota a) Dois podem ser da classe do serviço especial, ramo de hidrografia.
+
+(nota b) Ramo de comunicações.
+
+O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, vice-almirante.

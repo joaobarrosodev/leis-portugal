@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:497402:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-871794427",
+ "dre_path": "/dr/detalhe/decreto-lei/87-2013-497402",
+ "source_lastmod": "2024-07-15",
+ "versions": [
+  {
+   "date": "2013-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871891406",
+    "871891407",
+    "871891408",
+    "871891409",
+    "871891410",
+    "871891411",
+    "871891412",
+    "871891413",
+    "871891414"
+   ]
+  },
+  {
+   "date": "2024-07-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:871763925:por",
+     "title": "Decreto-Lei n.º 45/2024",
+     "published": "2024-07-12",
+     "dre_path": "/dr/detalhe/decreto-lei/45-2024-871763925"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "871891406",
+    "871891407",
+    "871891408",
+    "871891409",
+    "871891410",
+    "871891421",
+    "871891412",
+    "871891413",
+    "871891414",
+    "871891415"
+   ]
+  }
+ ],
+ "fragments": {
+  "871891406": {
+   "fragment_id": "871794428",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 87/2013\n\nde 26 de junho\n\nO funcionamento do Instituto Superior de Línguas e Administração de Lisboa (ISLA - Lisboa) foi autorizado pelo despacho n.º 127/MEC/86, publicado na 2.ª série do Diário da República, de 28 de junho, nos termos do Decreto-Lei n.º 100-B/85, de 8 de abril.\n\nDe acordo com os respetivos estatutos o ISLA - Lisboa é um estabelecimento de ensino universitário não integrado, cuja entidade instituidora é a ENSILIS - Educação e Formação, S. A. (ENSILIS, S. A.).\n\nNesta qualidade, a ENSILIS, S. A., requereu a alteração da sua natureza para universidade e a adoção da denominação Universidade Europeia.\n\nA Agência de Avaliação e Acreditação do Ensino Superior procedeu à acreditação de dois ciclos de estudos de doutoramento, em Gestão do Turismo e em Gestão, que se encontram em condições de ser registados na Direção-Geral do Ensino Superior, ficando assim satisfeito um dos requisitos para o reconhecimento de interesse público como universidade.\n\nDe acordo com o parecer final da Direção-Geral do Ensino Superior, encontram-se reunidas, quer pela entidade instituidora, quer pelo estabelecimento de ensino, as condições previstas na Lei n.º 62/2007, de 10 de setembro, para a alteração do reconhecimento do interesse público e para o registo da denominação.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "871891407": {
+   "fragment_id": "871794429",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à alteração do reconhecimento de interesse público e da denominação do Instituto Superior de Línguas e Administração de Lisboa (ISLA - Lisboa)."
+  },
+  "871891408": {
+   "fragment_id": "871794430",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e denominação do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e denominação do estabelecimento de ensino\n\nO ISLA - Lisboa passa a ter a natureza de universidade e adota a denominação de Universidade Europeia."
+  },
+  "871891409": {
+   "fragment_id": "871794431",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos do estabelecimento de ensino\n\nA Universidade Europeia prossegue os objetivos fixados pelos n.os 1 e 2 do artigo 6.º da Lei n.º 62/2007, de 10 de setembro, que aprova o regime jurídico das instituições de ensino superior."
+  },
+  "871891410": {
+   "fragment_id": "871794432",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade instituidora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidade instituidora\n\nA entidade instituidora da Universidade Europeia é a ENSILIS - Educação e Formação, S. A., com sede em Lisboa."
+  },
+  "871891411": {
+   "fragment_id": "871794433",
+   "type": 11,
+   "heading": "Artigo 5.º — Localização e instalações do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Localização e instalações do estabelecimento de ensino\n\n1 - A Universidade Europeia é autorizada a funcionar no concelho de Lisboa.\n\n2 - A Universidade Europeia pode ministrar o ensino dos seus ciclos de estudos em instalações situadas no concelho de Lisboa que, por despacho do diretor-geral do ensino superior, a publicar na 2.ª série do Diário da República, sejam consideradas adequadas nos termos da lei."
+  },
+  "871891412": {
+   "fragment_id": "871794434",
+   "type": 11,
+   "heading": "Artigo 6.º — Ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ciclos de estudos\n\nOs ciclos de estudos cujo funcionamento se encontra desde já autorizado na Universidade Europeia são os autorizados a funcionar no ISLA - Lisboa."
+  },
+  "871891413": {
+   "fragment_id": "871794435",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime de instalação\n\nA Universidade Europeia funciona em regime de instalação por um período máximo de cinco anos letivos, com início no ano letivo de 2013-2014, nos termos dos artigos 38.º e 46.º da Lei n.º 62/2007, de 10 de setembro."
+  },
+  "871891414": {
+   "fragment_id": "871794436",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a partir da data do início do ano letivo de 2013-2014."
+  },
+  "871891421": {
+   "fragment_id": "871794433",
+   "type": 11,
+   "heading": "Artigo 5.º — Localização e instalações do estabelecimento de ensino",
+   "in_force_from": "2024-07-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2024 - Diário da República n.º 134/2024, Série I de 2024-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2024-871763925), em vigor a partir de 2024-07-13"
+   ],
+   "markdown": "###### Artigo 5.º — Localização e instalações do estabelecimento de ensino\n\n1 - A Universidade Europeia é autorizada a funcionar nos concelhos de Lisboa e de Loures.\n\n2 - A Universidade Europeia pode ministrar o ensino dos seus ciclos de estudos em instalações situadas nos concelhos de Lisboa e de Loures que, por despacho do diretor-geral do Ensino Superior, a publicar na 2.ª série do Diário da República, sejam consideradas adequadas nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2024 - Diário da República n.º 134/2024, Série I de 2024-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2024-871763925), em vigor a partir de 2024-07-13"
+  },
+  "871891415": {
+   "fragment_id": "871794437",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de junho de 2013. - Pedro Passos Coelho - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 20 de junho de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 21 de junho de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

@@ -1,0 +1,281 @@
+---
+schema_version: '1.0'
+id: pt:dre:449416:por
+title: Decreto-Lei n.º 101/2008
+short_title: null
+summary: Estabelece o regime jurídico dos sistemas de segurança privada dos estabelecimentos de restauração ou de bebidas
+  e revoga o Decreto-Lei n.º 263/2001, de 28 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 101/2008
+official_date: null
+publication_date: '2008-06-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2008, Série I de 2008-06-16
+  number: '114'
+  series: I
+  supplement: null
+  pages: 3469 - 3470
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11400/0346903470.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-09-09'
+version_history:
+  file: decreto-lei-101-2008.versoes.json
+  count: 2
+  source_lastmod: '2026-10-21'
+  versions:
+  - date: '2011-12-01'
+    amending: pt:dre:146221:por
+    amending_title: Decreto-Lei n.º 114/2011
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+  - date: '2014-09-09'
+    amending: pt:dre:56479736:por
+    amending_title: Decreto-Lei n.º 135/2014
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/101/2008/06/16/p/dre/pt/html
+  oj: null
+  dre: '449416'
+  dre_path: /dr/detalhe/decreto-lei/101-2008-449416
+  internal: pt:dre:449416:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2008-449416
+  metadata_url: https://data.dre.pt/eli/dec-lei/101/2008/06/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-974490801
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-974490801
+  retrieved_at: '2026-10-22T14:02:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-21T00:00:00Z'
+integrity:
+  source_sha256: 3ba2ee2637bc69aa9eff3ce5a40a92e1f35a54dd2c1e066ddb3fd30225f9a1c6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T14:02:47Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-101-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contra-ordenação
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Fiscalização
+- Medidas Preventivas
+- Regime Jurídico
+- Pessoal de Vigilância
+- Segurança Privada
+relationships:
+- type: amended_by
+  target: pt:dre:56479736:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:146221:por
+  label: Altera Artigo 3.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:56479736:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736
+  date: '2014-09-08'
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/203/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:569761:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/35/2004/02/21/p/dre
+- type: cites
+  target: pt:dre:614359:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/263/2001/09/28/p/dre
+- type: cites
+  target: pt:dre:639279:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/234/2007/06/19/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:02:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 101/2008
+
+O Decreto-Lei n.º 263/2001, de 28 de Setembro, que determina o regime jurídico dos sistemas de segurança privada dos estabelecimentos de restauração ou de bebidas, ficou parcialmente desactualizado com a entrada em vigor do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, que regula o exercício da actividade de segurança privada, e, mais recentemente, com o novo regime jurídico da instalação e modificação de estabelecimentos de restauração ou de bebidas, aprovado pelo Decreto-Lei n.º 234/2007, de 19 de Junho. É necessário, pois, proceder à actualização do regime jurídico dos sistemas de segurança privada dos estabelecimentos de restauração ou de bebidas.
+
+Com o objectivo de reforçar a segurança de pessoas e bens, recebem-se as lições da aplicação do regime que vigorou ao longo de cerca de 10 anos, introduzindo-se os ajustamentos que se revelam necessários. Assim, deste modo, estabelecem-se maiores exigências de segurança no que se refere ao controlo da entrada de armas, objectos, engenhos ou substâncias de uso e porte legalmente proibido ou que ponham em causa a segurança de pessoas e bens, em estabelecimentos de dimensão significativa, cuja lotação exceda 100 lugares.
+
+Além disso, são agravadas as sanções previstas para o incumprimento das regras relativas aos sistemas de segurança privada dos estabelecimentos e, no caso das infracções mais graves, o governador civil territorialmente competente pode determinar o encerramento provisório do estabelecimento como medida cautelar. Neste caso, é fixado o prazo dentro do qual devem ser adoptadas as providências adequadas à regularização da situação, com a advertência de que o incumprimento da injunção constitui fundamento para a determinação da medida acessória do encerramento do estabelecimento, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro.
+
+Foram ouvidos o Conselho de Segurança Privada e as entidades nele representadas, bem como a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 1.º — Sistemas de segurança privada
+
+1 - Os estabelecimentos de restauração ou de bebidas previstos no artigo 2.º do Decreto-Lei n.º 234/2007, de 19 de Junho, que disponham de espaços ou salas destinados a dança ou onde habitualmente se dance são obrigados a adoptar um sistema de segurança privada que inclua, no mínimo, os seguintes meios:
+
+a) Estabelecimentos com lotação até 100 lugares - ligação à central pública de alarmes nos termos da lei;
+
+b) Estabelecimentos com lotação entre 101 e 1000 lugares - um vigilante no controlo de acesso e sistema de controlo de entradas e saídas por vídeo;
+
+c) Estabelecimentos com lotação igual ou superior a 1001 lugares - um vigilante no controlo de acesso, a que acresce um vigilante por cada 250 lugares no controlo de permanência e sistema de controlo de permanência, entradas e saídas por vídeo.
+
+2 - São abrangidos pelo disposto no número anterior todos os estabelecimentos de restauração e bebidas que disponham de espaços ou salas destinados a dança ou onde habitualmente se dance, independentemente da designação que adoptem.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 2.º — Equipamento de detecção de armas e objectos perigosos
+
+1 - Os sistemas de segurança privada a adoptar pelos estabelecimentos referidos nas alíneas b) e c) do n.º 1 do artigo anterior devem incluir equipamentos técnicos destinados à detecção de armas, objectos, engenhos ou substâncias de uso e porte legalmente proibido ou que ponham em causa a segurança de pessoas e bens.
+
+2 - É obrigatória a afixação, na entrada das instalações, em local bem visível, de um aviso com o seguinte teor: «A entrada neste estabelecimento é vedada às pessoas que se recusem a passar pelo equipamento de detecção de objectos perigosos ou de uso proibido», seguindo-se a menção do presente decreto-lei.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 3.º — Deveres especiais
+
+1 - Os proprietários e os administradores ou gerentes de sociedades que explorem os estabelecimentos referidos no artigo 1.º são obrigados:
+
+a) A garantir o funcionamento efectivo dos sistemas de segurança privada previstos no artigo 1.º e no n.º 1 do artigo anterior;
+
+b) A afixar, na entrada das instalações sob vigilância, em local bem visível, um aviso com os seguintes dizeres: «Para sua protecção, este local encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagens e som», seguindo-se a menção do presente decreto-lei;
+
+c) A conservar as gravações de imagem e som, pelo prazo de 30 dias;
+
+d) A entregar à autoridade judiciária competente as gravações de imagem e som que por esta lhe forem solicitadas, nos termos da legislação penal e processual penal;
+
+e) A destruir imediatamente as gravações de imagem e som, uma vez esgotado o prazo previsto na alínea c), se estas não lhes forem solicitadas nos termos da alínea anterior.
+
+2 - Sem prejuízo do disposto no Decreto-Lei n.º 35/2004, de 21 de Fevereiro, os proprietários e os administradores ou gerentes das sociedades comerciais que explorem os estabelecimentos previstos no n.º 1 do artigo 1.º são obrigados a comunicar à força de segurança territorialmente competente, no prazo de 30 dias, a obtenção de autorização de utilização do estabelecimento, o início da actividade, as características técnicas dos equipamentos electrónicos de vigilância instalados e a identificação do responsável pela gestão dos sistema de segurança.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01.
+
+###### Artigo 4.º — Sistema de autoprotecção
+
+A adopção de um sistema de autoprotecção é regulada pelo disposto no Decreto-Lei n.º 35/2004, de 21 de Fevereiro, e o responsável pela sua gestão é o proprietário do estabelecimento ou o administrador ou gerente da sociedade que explora o estabelecimento.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 5.º — Regime supletivo
+
+Sem prejuízo do disposto no presente decreto-lei, o sistema de segurança privada referido no artigo 1.º obedece ao disposto no Decreto-Lei n.º 35/2004, de 21 de Fevereiro, em tudo o que respeita ao funcionamento, à organização dos meios humanos e à instalação dos equipamentos técnicos.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 6.º — Contra-ordenações e coimas
+
+1 - Sem prejuízo do regime geral do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, as infracções às normas previstas no presente diploma constituem contra-ordenações puníveis nos seguintes termos:
+
+a) A violação do disposto no artigo 1.º, no n.º 1 do artigo 2.º e na alínea a) do n.º 1 do artigo 3.º, com coima de (euro) 600 a (euro) 3000;
+
+b) A violação do disposto no n.º 2 do artigo 2.º e nas alíneas b) a d) do n.º 1 e no n.º 2 do artigo 3.º, com coima de (euro) 300 a (euro) 500.
+
+2 - Se as infracções forem imputadas a pessoas colectivas, os limites mínimos e máximos das coimas são elevados para o dobro.
+
+3 - A negligência é punível.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 7.º — Medidas cautelares
+
+1 - No caso previsto na alínea a) do n.º 1 do artigo anterior, as entidades previstas no n.º 1 do artigo seguinte determinam o encerramento provisório do estabelecimento, fixando o prazo dentro do qual devem ser adoptadas as providências adequadas à regularização da situação, com a advertência de que o incumprimento da injunção constitui fundamento da aplicabilidade da medida acessória de encerramento, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro.
+
+2 - No caso previsto na alínea b) do n.º 1 do artigo anterior, na decisão de aplicação da coima é fixado o prazo dentro do qual devem ser adoptadas as providências adequadas à regularização da situação, com a advertência de que o incumprimento da injunção constitui fundamento da aplicabilidade da medida acessória de encerramento do estabelecimento, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01.
+
+###### Artigo 8.º — Competência
+
+1 - A fiscalização da actividade de segurança privada é exercida nos termos do presente diploma e a instrução dos processos de contra-ordenação às normas dela constantes é da competência das entidades previstas nos artigos 31.º e 35.º do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, e na alínea b) do n.º 3 do artigo 16.º do Decreto-Lei n.º 203/2006, de 27 de Outubro.
+
+2 - A decisão dos processos de contra-ordenação é da competência do membro do Governo responsável pela área da Administração Interna, que a pode delegar nos termos da lei.
+
+3 - O produto das coimas reverte em:
+
+a) 60  % para o Estado;
+
+b) 10  % para o Ministério da Administração Interna;
+
+c) 20  % para a Polícia de Segurança Pública; e
+
+d) 10  % para a entidade autuante.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 9.º — Licenças
+
+A autorização de utilização do estabelecimento depende da verificação do cumprimento do disposto no artigo 1.º e no n.º 1 do artigo 2.º
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 10.º — Norma transitória
+
+Os estabelecimentos com lotação entre 101 e 199 lugares que já tenham obtido licença de abertura à data da entrada em vigor do presente diploma adaptam os respectivos sistemas de segurança privada ao disposto na alínea b) do n.º 1 do artigo 1.º e no n.º 1 do artigo 2.º, no prazo de 60 dias a contar da data da entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+###### Artigo 11.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 263/2001, de 28 de Setembro.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.
+
+Visto e aprovado em Conselho de Ministros de 27 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - António José de Castro Guerra.
+
+Promulgado em 26 de Maio de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 27 de Maio de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 135/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2014-56479736), em vigor a partir de 2014-09-09.

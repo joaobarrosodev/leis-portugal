@@ -1,0 +1,859 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228013:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-162168190",
+ "dre_path": "/dr/detalhe/decreto-lei/190-1986-228013",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162165245",
+    "162165197",
+    "162165198",
+    "162165199",
+    "162165200",
+    "162165201",
+    "162165202",
+    "162165203",
+    "162165204",
+    "162165205",
+    "162165206",
+    "162165207",
+    "162165208",
+    "162165209",
+    "162165210",
+    "162165211",
+    "162165212",
+    "162165213",
+    "162165214",
+    "162165215",
+    "162165216",
+    "162165217",
+    "162165218",
+    "162165219",
+    "162165220",
+    "162165221",
+    "162165222",
+    "162165223",
+    "162165224",
+    "162165225",
+    "162165226",
+    "162165227",
+    "162165228",
+    "162165229",
+    "162165230",
+    "162165231",
+    "162165232"
+   ]
+  },
+  {
+   "date": "1989-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611345:por",
+     "title": "Decreto-Lei n.º 46/89",
+     "published": "1989-02-15",
+     "dre_path": "/dr/detalhe/decreto-lei/46-1989-611345"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "162165196",
+    "162165197",
+    "162165244",
+    "162165199",
+    "162165200",
+    "162165201",
+    "162165202",
+    "162165203",
+    "162165204",
+    "162165205",
+    "162165206",
+    "162165207",
+    "162165208",
+    "162165209",
+    "162165210",
+    "162165211",
+    "162165212",
+    "162165213",
+    "162165214",
+    "162165215",
+    "162165216",
+    "162165217",
+    "162165218",
+    "162165219",
+    "162165220",
+    "162165221",
+    "162165222",
+    "162165223",
+    "162165224",
+    "162165225",
+    "162165226",
+    "162165227",
+    "162165228",
+    "162165229",
+    "162165230",
+    "162165231",
+    "162165232",
+    "162165233"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "162165245",
+    "162165246",
+    "162165247",
+    "162165248",
+    "162165249",
+    "162165250",
+    "162165251",
+    "162165252",
+    "162165253",
+    "162165254",
+    "162165255",
+    "162165256",
+    "162165257",
+    "162165258",
+    "162165259",
+    "162165260",
+    "162165261",
+    "162165262",
+    "162165263",
+    "162165264",
+    "162165265",
+    "162165266",
+    "162165267",
+    "162165268",
+    "162165269",
+    "162165270",
+    "162165271",
+    "162165272",
+    "162165273",
+    "162165274",
+    "162165775",
+    "162165776",
+    "162165777",
+    "162165778",
+    "162165779",
+    "162165780",
+    "162165781",
+    "162165782"
+   ]
+  }
+ ],
+ "fragments": {
+  "162165245": {
+   "fragment_id": "162168191",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 190/86\n\nde 16 de Julho\n\nAs direcções regionais de agricultura (DRA) constituem serviços de apoio directo, a nível regional e local, aos agentes económicos actuando nos sectores agrário e alimentar.\n\nA experiência de regionalização do Ministério da Agricultura, Pescas e Alimentação adquirida durante os sete anos de funcionamento das DRA indica como principais estrangulamentos: a inexistência de formas institucionalizadas de participação dos referidos agentes no equacionamento da política agrária nacional, a deficiente capacidade de resposta das direcções regionais de agricultura, pela concentração de competências nos serviços centrais, e o insuficiente apetrechamento em recursos humanos.\n\nA insuficiência de pessoal técnico, agravada pela concentração nos centros urbanos e sua absorção em tarefas de natureza administrativa, em detrimento das acções de fomento e experimentação, obrigou ao recurso a elevado número de técnicos contratados a prazo para execução de actividades de apoio directo aos agricultores, com carácter permanente.\n\nAtravés do presente diploma pretende-se, fundamentalmente, conferir às DRA um papel mais activo na dinamização dos agentes económicos do sector agrário, mediante o reforço da sua capacidade de análise, síntese e acção, o que pressupõe a fixação de técnicos devidamente preparados nas regiões agrárias e o recurso a formas de gestão mais simples, aproximando o mais possível a decisão da execução.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162165197": {
+   "fragment_id": "162168192",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I"
+  },
+  "162165198": {
+   "fragment_id": "162168193",
+   "type": 11,
+   "heading": "Artigo 1.º — (Natureza)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Natureza)\n\n1 - As direcções regionais de agricultura, criadas pelo Decreto-Lei n.º 223/84, de 6 de Julho, abreviadamente designadas por DRA, são serviços que, numa perspectiva integrada, têm por finalidade o apoio directo aos sectores agrário e alimentar a nível regional e local, de acordo com a política e os objectivos de âmbito nacional definidos para aqueles sectores.\n\n2 - As DRA dependem directamente do Ministro da Agricultura, Pescas e Alimentação.\n\n3 - As DRA são serviços dotados de autonomia administrativa, cuja acção se desenvolve em regiões agrárias, agrupando zonas agrárias.\n\n4 - As regiões e as zonas agrárias por elas compreendidas são as constantes do mapa I anexo ao presente diploma."
+  },
+  "162165199": {
+   "fragment_id": "162168194",
+   "type": 11,
+   "heading": "Artigo 2.º — (Atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Atribuições)\n\nSão atribuições das DRA:\n\na) Promover o levantamento e estudo sistemático das necessidades dos sectores agrário e alimentar regionais, com vista à sua integração na política e objectivos nacionais para aqueles sectores, e a elaboração dos respectivos planos de desenvolvimento regional;\n\nb) Promover a execução, a nível regional, da política e objectivos nacionais dos sectores agrário e alimentar;\n\nc) Proceder ao estudo e análise de projectos de investimento e de acções de natureza sócio-estrutural neles não compreendidos, com vista à verificação da sua conformidade com a legislação em vigor;\n\nd) Promover a execução das componentes agrária e alimentar dos planos integrados de desenvolvimento regional, estabelecendo, através das estruturas de coordenação, as necessárias ligações;\n\ne) Promover a nível regional o apoio técnico directo aos agricultores e demais entidades actuando nos sectores agrário e alimentar, nos domínios da protecção e fomento da produção, transformação e comercialização dos produtos agro-alimentares;\n\nf) Promover a realização das infra-estruturas rurais e das medidas de defesa e conservação do solo da responsabilidade do Ministério e satisfazer os pedidos de apoio técnico formulados pelas restantes entidades interessadas nos sectores agrário e alimentar da região;\n\ng) Promover a dinamização da estrutura fundiária da modernização da empresa dos sectores agrícola e alimentar, do associativismo e do rejuvenescimento da população activa agrícola, de acordo com as características sócio-económicas da região agrária e com a política nacional para os referidos sectores;\n\nh) Promover a formação profissional e tecnológica dos agricultores e demais agentes económicos que actuam nos sectores agrário e alimentar regionais;\n\ni) Promover a recolha, tratamento e divulgação da informação técnico-económica necessária à caracterização da região agrária e das actividades por ela desenvolvidas, de forma a manter convenientemente informados os competentes órgãos e serviços do Ministério e demais interessados."
+  },
+  "162165200": {
+   "fragment_id": "162168195",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos e serviços e suas competências"
+  },
+  "162165201": {
+   "fragment_id": "162168196",
+   "type": 11,
+   "heading": "Artigo 3.º — (Órgãos e serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Órgãos e serviços)\n\nAs DRA poderão compreender os seguintes órgãos e serviços:\n\n1) Órgãos:\n\na) Director regional;\n\nb) Conselho regional agrário;\n\nc) Conselho técnico regional;\n\nd) Conselho administrativo;\n\n2) Serviços de apoio técnico e administrativo:\n\na) Gabinete de Planeamento Agrário Regional;\n\nb) Direcção de Serviços de Administração;\n\nc) Núcleo de Organização e Informática;\n\n3) Serviços operativos de âmbito regional:\n\nOs serviços operativos de âmbito regional poderão constituir-se em divisões e agrupar-se em direcções de serviço, de acordo com as características da região agrária e exigências das actividades a desenvolver, devendo o seu nível orgânico ser o adequado à natureza e especificidades que os problemas assumam na região;\n\n4) Serviços operativos de âmbito local:\n\nOs serviços operativos de âmbito local, de composição variável face às características de cada zona agrária, constituir-se-ão em equipas de extensão e produção agrária e núcleos de apoio à protecção e controle da produção agro-pecuária, agrupando-se em divisões."
+  },
+  "162165202": {
+   "fragment_id": "162168197",
+   "type": 11,
+   "heading": "Artigo 4.º — (Director regional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Director regional)\n\n1 - As DRA são dirigidas por um director regional, coadjuvado por dois subdirectores regionais, equiparados, para todos os efeitos legais, a director-geral e subdirectores-gerais, respectivamente.\n\n2 - O director regional designará por despacho o subdirector regional, que o substituirá nas suas ausências e impedimentos."
+  },
+  "162165203": {
+   "fragment_id": "162168198",
+   "type": 11,
+   "heading": "Artigo 5.º — (Competências do director regional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Competências do director regional)\n\n1 - Ao director regional compete, designadamente:\n\na) Assegurar a gestão e coordenação da actividade global da DRA;\n\nb) Definir, de acordo com os princípios da política agrária e alimentar nacionais, os objectivos e linhas de orientação regional, bem como a estratégia de actuação dos serviços;\n\nc) Apresentar superiormente, acompanhado do respectivo parecer, o plano anual de actividades da DRA e o correspondente relatório de execução;\n\nd) Promover formas de gestão por objectivos que acentuem o sentido participativo e a capacidade criadora das chefias e dos quadros técnicos;\n\ne) Presidir aos conselhos regional agrário, técnico regional e administrativo;\n\nf) Decidir sobre o pagamento de indemnizações decorrentes da legislação vigente sobre profilaxia e sanidade animal e vegetal, de acordo com as orientações definidas superiormente;\n\ng) Decidir sobre o pagamento de despesas resultantes de acidentes em serviço e de prejuízos causados a terceiros que sejam da responsabilidade da DRA;\n\nh) Admitir com observância das disposições legais, pessoal operário para trabalhos eventuais ou sazonais a realizar em unidades de exploração e centros de formação a cargo da DRA;\n\ni) Deslocar e afectar pessoal dentro da área da DRA, com observância das disposições legais.\n\n2 - O director regional cometerá aos subdirectores regionais a responsabilidade de domínios de actividade específicos, para o que delegará as competências adequadas, devendo estes, por sua vez, subdelegar parcialmente esses poderes nos restantes dirigentes, de forma a conseguir-se uma maior flexibilidade e rapidez na análise e solução dos problemas.\n\n3 - O director regional poderá, sempre que o entenda conveniente, delegar nos restantes dirigentes as suas competências quanto a assuntos correntes de cada domínio, para um melhor funcionamento dos serviços."
+  },
+  "162165204": {
+   "fragment_id": "162168199",
+   "type": 11,
+   "heading": "Artigo 6.º — (Conselho regional agrário - Natureza e composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Conselho regional agrário - Natureza e composição)\n\n1 - O conselho regional agrário é um órgão consultivo que, congregando os interesses sócio-económicos da região agrária, assegura a representação das entidades e organizações de âmbito regional e nacional interessadas no desenvolvimento dos sectores agrário e alimentar regionais ou que nela exerçam a sua actividade.\n\n2 - O conselho regional agrário será integrado pelos seguintes elementos:\n\na) Director regional;\n\nb) Chefes das circunscrições florestais actuando na área da DRA;\n\nc) Presidentes dos gabinetes coordenadores de programas integrados de desenvolvimento regional;\n\nd) Representantes designados pelas organizações representativas dos empresários e trabalhadores dos sectores agrário e alimentar da região agrária;\n\ne) Representantes designados pelas empresas e cooperativas dos sectores agrário e alimentar da região, suas associações, uniões e federações;\n\nf) Representantes dos estabelecimentos de ensino e de investigação com implantação regional relacionados com os sectores agrário e alimentar,\n\ng) Representantes dos agrupamentos de municípios da região;\n\nh) Representantes de outras entidades de reconhecido interesse para o desenvolvimento sócio-económico da região.\n\n3 - O número de elementos e representantes que constituirão o conselho regional agrário será fixado, sob proposta do respectivo director regional, por portaria do Ministro da Agricultura, Pescas e Alimentação.\n\n4 - Os representantes das organizações referidas no n.º 2 deste artigo são por elas livremente designados e substituídos, em conformidade com os seus estatutos, mediante comunicação escrita ao director regional.\n\n5 - Os representantes dos agrupamentos de municípios serão designados pelos presidentes das câmaras municipais agrupadas.\n\n6 - Sempre que se mostre conveniente serão convocados ou convidados elementos do MAPA, ou a ele estranhos, especialmente qualificados para o esclarecimento das matérias em apreciação.\n\n7 - As entidades estranhas ao MAPA convidadas nos termos do número anterior terão direito a uma senha de presença por cada sessão a que assistam, bem como ao abono de despesas de transporte, nos termos legais."
+  },
+  "162165205": {
+   "fragment_id": "162168200",
+   "type": 11,
+   "heading": "Artigo 7.º — (Conselho regional agrário - Competências e funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Conselho regional agrário - Competências e funcionamento)\n\n1 - Ao conselho regional agrário compete, designadamente:\n\na) Veicular e analisar a informação sobre as reais necessidades e aspirações das entidades actuando na região agrária e transmitir-lhe as políticas e objectivos que o MAPA se propõe atingir;\n\nb) Apreciar os elementos que devem caracterizar objectivos e programas de desenvolvimento regional, de forma a poderem ser considerados nas propostas dos planos nacionais;\n\nc) Sugerir a adopção de medidas no âmbito da política agrária e alimentar;\n\nd) Pronunciar-se sobre a execução dos planos de desenvolvimento regional no campo agrário e alimentar, bem como sobre as actividades desenvolvidas pela DRA;\n\ne) Propor a adopção de quaisquer medidas que repute convenientes no âmbito do desenvolvimento agrário regional.\n\n2 - O conselho regional agrário reunirá ordinariamente três vezes por ano e extraordinariamente por iniciativa do seu presidente ou a solicitação da maioria simples dos seus membros.\n\n3 - O conselho regional agrário só pode reunir com a presença da maioria dos seus membros.\n\n4 - As deliberações do conselho regional serão tomadas por maioria simples de votos, tendo o presidente voto de qualidade em caso de empate.\n\n5 - Da acta de cada uma das reuniões do conselho regional agrário serão enviadas cópias ao Ministro da Agricultura, Pescas e Alimentação, bem como às entidades nele representadas, no prazo de 30 dias.\n\n6 - As normas de funcionamento do conselho regional agrário constarão de regulamento interno, a elaborar pelo próprio conselho."
+  },
+  "162165206": {
+   "fragment_id": "162168201",
+   "type": 11,
+   "heading": "Artigo 8.º — (Conselho técnico regional - Natureza e composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Conselho técnico regional - Natureza e composição)\n\n1 - O conselho técnico regional é um órgão de natureza consultiva e de apoio em matéria de planeamento e desenvolvimento integrado da região agrária.\n\n2 - O conselho técnico regional terá a seguinte composição:\n\na) Director regional;\n\nb) Subdirectores regionais;\n\nc) Directores de serviços da DRA;\n\nd) Director do serviço de planeamento do Ministério, ou seu representante, devidamente mandatado;\n\ne) Chefes das circunscrições florestais com actuação na área da DRA;\n\nf) Directores das estações nacionais de I-DE com actividades na área da DRA, ou seus representantes, devidamente mandatados;\n\ng) Dirigentes dos serviços centrais com responsabilidades directas no desenvolvimento dos planos ou projectos em execução na área da DRA.\n\n3 - Sempre que se mostre conveniente, serão convocados ou convidados elementos da DRA, ou de outros serviços do Ministério, especialmente qualificados para o esclarecimento das matérias em apreciação."
+  },
+  "162165207": {
+   "fragment_id": "162168202",
+   "type": 11,
+   "heading": "Artigo 9.º — (Conselho técnico regional - Competência e funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Conselho técnico regional - Competência e funcionamento)\n\n1 - Ao conselho técnico regional compete, designadamente:\n\na) Pronunciar-se sobre a elaboração de planos e projectos de desenvolvimento para a região agrária, nomeadamente os resultantes da adesão à CEE, e apreciar as acções necessárias à sua execução, através da aplicação de medidas que visem uma adequada participação dos serviços e demais entidades;\n\nb) Apreciar as linhas gerais de actuação da DRA, seus objectivos, respectivas prioridades e grau de execução, face às directrizes do Ministro da Agricultura, Pescas e Alimentação e sugestões apresentadas pelo conselho regional agrário;\n\nc) Apreciar as propostas dos planos anuais e plurianuais de actividades da DRA e respectivo relatório anual de execução;\n\nd) Propor medidas que visem melhorar a coordenação dos diversos serviços na execução dos programas e projectos e seu acompanhamento.\n\n2 - O conselho técnico regional funciona em reuniões plenárias, reunindo ordinariamente quatro vezes por ano e extraordinariamente sempre que o presidente o convoque.\n\n3 - Os assuntos submetidos à apreciação do conselho técnico regional serão objecto de votação.\n\n4 - As normas de funcionamento serão objecto de regulamento interno, a elaborar pelo próprio conselho.\n\n5 - O conselho técnico regional tem o apoio técnico do Gabinete de Planeamento Agrário Regional e do Núcleo de Organização e Informática e apoio logístico da Direcção de Serviços de Administração."
+  },
+  "162165208": {
+   "fragment_id": "162168203",
+   "type": 11,
+   "heading": "Artigo 10.º — (Conselho administrativo - Natureza e composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Conselho administrativo - Natureza e composição)\n\n1 - O conselho administrativo é um órgão deliberativo em matéria de gestão financeira e patrimonial.\n\n2 - O conselho administrativo terá a seguinte composição:\n\na) Director regional;\n\nb) Subdirector regional que não tiver sido designado substituto do director regional;\n\nc) Director de Serviços de Administração;\n\nd) Director do Gabinete de Planeamento Agrário Regional.\n\n3 - O conselho administrativo será secretariado por um funcionário administrativo, designado pelo director regional, sem direito a voto."
+  },
+  "162165209": {
+   "fragment_id": "162168204",
+   "type": 11,
+   "heading": "Artigo 11.º — (Conselho administrativo - Competências e funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Conselho administrativo - Competências e funcionamento)\n\n1 - Ao conselho administrativo compete, designadamente:\n\na) Superintender na gestão financeira e patrimonial da DRA;\n\nb) Promover a elaboração de planos financeiros anuais e plurianuais;\n\nc) Promover a elaboração do orçamento da DRA, de conta das dotações atribuídas no Orçamento do Estado, e propor as alterações consideradas necessárias;\n\nd) Promover a elaboração dos orçamentos ordinários e suplementares, de aplicação de receitas próprias;\n\ne) Zelar pela cobrança de receitas e rendas e promover o seu depósito nos termos legais;\n\nf) Promover a venda de produtos das unidades de exploração agrária, nos termos da legislação em vigor, que constituam receita da DRA;\n\ng) Verificar a legalidade e eficiência das despesas e autorizar a sua realização e pagamento;\n\nh) Promover a organização da contabilidade e zelar pela sua execução;\n\ni) Superintender na organização anual da conta de gerência e submetê-la à aprovação do Tribunal de Contas no prazo legalmente estabelecido;\n\nj) Emitir pareceres sobre a aceitação de heranças, legados e doações;\n\nl) Proceder à verificação regular dos fundos em cofre e em depósito;\n\nm) Autorizar a venda de material considerado inservível ou dispensável, após a sua desafectação ao património a cargo da DRA;\n\nn) Pronunciar-se sobre qualquer outro assunto que no âmbito das suas atribuições lhe seja submetido pelo presidente.\n\n2 - O conselho administrativo reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n3 - O conselho administrativo só poderá deliberar quando se encontre presente a maioria dos seus membros, incluindo o presidente.\n\n4 - As deliberações do conselho administrativo serão tomadas por maioria simples de votos, tendo o presidente voto de qualidade.\n\n5 - Os membros do conselho administrativo são solidariamente responsáveis pelas deliberações tomadas, salvo se houverem feito exarar na acta a sua discordância.\n\n6 - Sempre que o presidente o considere conveniente, poderá convocar para participar nas reuniões do conselho administrativo, sem direito a voto, qualquer funcionário da DRA.\n\n7 - Das reuniões do conselho administrativo serão lavradas actas.\n\n8 - As normas de funcionamento do conselho administrativo serão objecto de regulamento interno, a elaborar pelo próprio conselho.\n\n9 - O conselho administrativo pode delegar no seu presidente os poderes consignados nas alíneas f) e g) do n.º 1 do presente artigo, fixando-lhe os respectivos limites.\n\n10 - O conselho administrativo poderá ainda delegar em qualquer dos seus membros e nos dirigentes dos serviços operativos algumas das suas competências para a realização de despesas, fixando-lhes os respectivos limites.\n\n11 - As entidades referidas no número anterior prestarão mensalmente contas, podendo ser constituídos, sob a sua responsabilidade, fundos de maneio para ocorrer ao pagamento das despesas que devam ser satisfeitas a dinheiro.\n\n12 - O conselho administrativo obriga-se mediante a assinatura de dois dos seus membros, sendo um deles o presidente."
+  },
+  "162165210": {
+   "fragment_id": "162168205",
+   "type": 11,
+   "heading": "Artigo 12.º — (Gabinete de Planeamento Agrário Regional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Gabinete de Planeamento Agrário Regional)\n\nAo Gabinete de Planeamento Agrário Regional compete designadamente:\n\n1) No domínio do planeamento, programação e controle:\n\na) Promover a definição dos objectivos da DRA, a curto, médio e longo prazos, e a elaboração dos correspondentes planos anuais e plurianuais devidamente orçamentados, assegurar a programação das respectivas fases e fixar o grau de participação dos vários serviços;\n\nb) Promover a definição e implementação de um esquema de informação de controle necessário ao acompanhamento e avaliação dos planos anuais e plurianuais, bem como de todas as actividades em que a DRA esteja envolvida;\n\n2) No domínio da estatística:\n\na) Promover a criação, manutenção e actualização de um banco de dados necessário à elaboração de indicadores estatísticos com vista à caracterização permanente da região agrária e à formulação das políticas e objectivos da DRA;\n\nb) Assegurar a recolha e tratamento da informação necessária à elaboração oportuna e sistemática de indicadores conjunturais, bem como os referentes às actividades desenvolvidas pelos serviços e sua distribuição;\n\nc) Assegurar a nível da região agrária, de acordo com as directrizes e orientação do serviço central competente e em articulação com o INE, a execução de inquéritos e outras operações estatísticas, nomeadamente os resultantes da legislação da CEE, incluindo a recolha, análise, registo e validação da informação base;\n\nd) Assegurar a gestão da rede de recolha de informação estatística a nível da região agrária e a manutenção e actualização dos ficheiros das unidades estatísticas;\n\ne) Assegurar a participação da DRA na Comissão Consultiva de Estatística do MAPA;\n\n3) No domínio da documentação e informação:\n\na) Assegurar a gestão da biblioteca e arquivos documentais da DRA e a aquisição, permuta e oferta de publicações e documentos entre serviços e entidades nacionais e estrangeiras;\n\nb) Assegurar as ligações com os serviços centrais competentes com vista à optimização dos recursos e meios documentais e informativos, numa perspectiva de gestão integrada e eficiente;\n\nc) Promover a recolha, análise e difusão, pelos vários serviços e entidades interessados, da informação seleccionada, designadamente a ligada com a adesão à CEE;\n\nd) Apoiar o funcionamento dos órgãos consultivos da DRA, difundindo para os seus membros a informação pertinente;\n\ne) Assegurar o serviço de relações públicas;\n\n4) No domínio da análise e projectos:\n\na) Promover a dinamização do recurso a equipas de projecto, garantindo o apoio metodológico necessário;\n\nb) Colaborar na elaboração de planos e projectos de desenvolvimento regional, nomeadamente os resultantes da adesão à CEE, e definir as suas formas de execução;\n\nc) Colaborar na avaliação técnico-económica de projectos, nomeadamente no âmbito da viabilidade económico-financeira e em matéria de crédito e seguros;\n\nd) Promover o estudo e definição do ordenamento agrário regional;\n\ne) Promover a realização de estudos técnico-económicos necessários à elaboração do planeamento e à estratégia do desenvolvimento regional;\n\nf) Promover a avaliação de prejuízos causados por fenómenos naturais, designadamente os resultantes de acidentes meteorológicos, e propor as medidas consideradas adequadas;\n\ng) Promover a avaliação de situações susceptíveis de medidas conjunturais e de apoios específicos, nomeadamente a concessão de subsídios, indemnizações e bonificações, e controlar a sua aplicação;\n\nh) Proceder à análise dos projectos de investimento e das acções de natureza sócio-estrutural que neles não se enquadrem e da sua conformidade com a legislação em vigor;\n\ni) Promover a elaboração de relatórios periódicos de execução."
+  },
+  "162165211": {
+   "fragment_id": "162168206",
+   "type": 11,
+   "heading": "Artigo 13.º — (Direcção de Serviços de Administração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Direcção de Serviços de Administração)\n\nÀ Direcção de Serviços de Administração compete, designadamente:\n\n1) No domínio do pessoal e expediente:\n\na) Promover as acções relativas à admissão, mobilidade, gestão e aposentação do pessoal e a organização e manutenção do respectivo cadastro;\n\nb) Assegurar a análise e processamento dos elementos relacionados com os vencimentos, remunerações e outros abonos do pessoal, bem como dos descontos que sobre eles eventualmente incidam, e elaboração dos documentos que lhes servem de suporte;\n\nc) Coordenar as iniciativas que venham a ser desenvolvidas no âmbito da acção social complementar;\n\nd) Assegurar o expediente e arquivo da DRA;\n\n2) No domínio financeiro e patrimonial:\n\na) Preparar o orçamento anual da DRA de conta das dotações consignadas no Orçamento do Estado e propor as alterações consideradas convenientes;\n\nb) Elaborar os orçamentos ordinários e suplementares de aplicação de receitas próprias da DRA;\n\nc) Assegurar o controle orçamental;\n\nd) Organizar a conta anual de gerência e preparar os elementos indispensáveis à elaboração do relatório financeiro;\n\ne) Proceder à cobrança de receitas e à liquidação das despesas dentro dos critérios e normas legalmente em vigor;\n\nf) Assegurar o registo dos movimentos de entrada e saída de dinheiro nos termos legais e de acordo com as normas em vigor;\n\ng) Colaborar na adequada gestão dos recursos financeiros;\n\nh) Proceder à elaboração e actualização do inventário patrimonial da DRA;\n\ni) Proceder à aquisição e arrendamento de bens, equipamento e material necessário ao funcionamento da DRA, bem como promover a realização de obras;\n\nj) Assegurar a gestão, conservação e segurança dos bens, equipamentos, instalações e meios de comunicação da DRA."
+  },
+  "162165212": {
+   "fragment_id": "162168207",
+   "type": 11,
+   "heading": "Artigo 14.º — (Núcleo de Organização e Informática)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Núcleo de Organização e Informática)\n\nAo Núcleo de Organização e Informática compete, designadamente:\n\n1) No domínio da organização:\n\na) Assegurar a adequação e implementação a nível regional das instruções de serviço, recomendações e normas de organização, modernização, racionalização de procedimentos e circuitos administrativos, nos termos definidos para o Ministério;\n\nb) Assegurar a implementação das normas sobre condições ambientais de higiene e segurança no trabalho;\n\nc) Realizar os estudos de carácter organizativo e consequentes recomendações no seio dos serviços regionais, assegurando a sua implementação;\n\nd) Promover o estudo e a execução de medidas tendentes à racionalização de procedimentos e circuitos administrativos;\n\ne) Colaborar com os serviços centrais na implementação das técnicas da burótica e dos sistemas de microfilmagem;\n\nf) Promover a elaboração e execução do plano geral de formação do pessoal da DRA.\n\n2) No domínio da informática:\n\na) Promover a elaboração de estudos e propostas com vista à definição dos meios informáticos mais adequados à DRA, de acordo com o plano de informática do Ministério;\n\nb) Apoiar os vários serviços na definição das suas necessidades de informação e analisar as possibilidades do seu tratamento automático;\n\nc) Assegurar uma correcta gestão dos meios informáticos;\n\nd) Assegurar as ligações entre a DRA e os serviços centrais no domínio da organização e informática;\n\ne) Garantir a segurança e privacidade da informação."
+  },
+  "162165213": {
+   "fragment_id": "162168208",
+   "type": 11,
+   "heading": "Artigo 15.º — (Serviços operativos de âmbito regional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Serviços operativos de âmbito regional)\n\nAos serviços operativos de âmbito regional compete, designadamente:\n\n1) No domínio da formação técnico-profissional, da experimentação, vulgarização e fomento da produção:\n\na) Promover o desenvolvimento e a execução das actividades de experimentação necessárias à região agrária, sob orientação técnico-científica dos competentes serviços centrais ou resultante de convénios estabelecidos com instituições regionais de ensino, investigação e desenvolvimento;\n\nb) Assegurar a gestão das unidades experimentais da DRA;\n\nc) Assegurar no campo prático a efectivação do plano de formação profissional dos técnicos regionais, elaborado pelo Núcleo de Organização e Informática, mediante a sua participação nas equipas de experimentação;\n\nd) Promover a elaboração e execução do plano de formação técnico-profissional dos agricultores e trabalhadores rurais;\n\ne) Assegurar o apoio à dinamização do processo de rejuvenescimento da população activa, de formas de associativismo e de modernização da gestão das explorações no âmbito dos sectores agrário e alimentar, de acordo com as características da região agrária;\n\nf) Assegurar a definição regional das zonas agro-ecológicas mais adequadas às diferentes espécies vegetais e animais e respectivas variedades e raças, bem como dos sistemas de exploração agro-pecuários mais aconselháveis;\n\ng) Promover a execução das acções necessárias à identificação dos animais características genéticas dos reprodutores e sua avaliação, e elaboração dos registos genealógicos e zootécnicos;\n\nh) Assegurar o funcionamento dos serviços de inseminação artificial, promovendo a sua transferência para as associações de agricultores;\n\ni) Promover a divulgação de conhecimentos, normas práticas aconselháveis na gestão, maneio e preservação das diferentes espécies animais;\n\nj) Assegurar o estudo e caracterização das espécies vegetais e suas variedades mais importantes e aptas para a região;\n\nl) Assegurar a divulgação junto dos produtores dos conhecimentos adquiridos através da actividade técnica da DRA em matéria de produção vegetal e animal, integrados nos sistemas de exploração mais adequados às características regionais;\n\nm) Apoiar a instalação da rede de observações hidrometeorológicas e agroclimatológicas, bem como a sua exploração, manutenção e beneficiação, em colaboração com os serviços centrais competentes, e proceder à recolha, tratamento e divulgação dos elementos agroclimatológicos de interesse para a região;\n\nn) Promover junto dos interessados a disponibilização de terrenos susceptíveis de serem arborizados;\n\no) Colaborar com as circunscrições florestais na definição e implementação das práticas mais aconselháveis à exploração de terrenos arborizáveis e utilização de pastagens naturais e cultivadas.\n\n2) No domínio da protecção à produção vegetal:\n\na) Assegurar a recolha e tratamento da informação necessária à elaboração da regulamentação do condicionamento das culturas e garantir a sua aplicação;\n\nb) Assegurar a diagnose e zonagem dos inimigos das culturas, promover a execução das acções de combate a pragas, doenças infestantes e a outros agentes patogénicos de espécies vegetais e garantir o funcionamento da rede de avisos e de outras formas de protecção fitossanitária;\n\nc) Promover a recolha e análise de produtos vegetais para detecção de resíduos toxicológicos de fitofármacos;\n\nd) Assegurar a execução das acções de inspecção e fiscalização visando as garantias varietal e sanitária.\n\n3) No domínio da protecção e controle da produção animal e higiene pública veterinária:\n\na) Assegurar a execução das acções de carácter preventivo e curativo contra as doenças infecto-contagiosas, parasitárias e outras, dos animais, segundo as directrizes, de ordem nacional e internacional, veiculadas pelo serviço central competente;\n\nb) Promover a execução de inquéritos sanitários epizootológicos e registos noso-necrológicos, bem como a recolha de informação estatística, referentes às acções profilácticas e de saneamento, assegurando o seu envio aos serviços centrais;\n\nc) Promover o cumprimento das normas de exploração e requisitos sanitários das diferentes espécies animais, bem como a execução das acções de vigilância sanitária, com vista à defesa e preservação do património animal, saúde pública e aumento da produção;\n\nd) Coordenar as actividades dos veterinários municipais e de outras entidades no âmbito da sanidade animal e cooperar em acções de educação sanitária.\n\n4) No domínio da transformação, comercialização e controle de qualidade dos produtos agro-alimentares:\n\na) Assegurar o estudo e divulgação das medidas mais aconselháveis no âmbito da transformação e comercialização dos produtos do sector agrário nacional e o apoio aos respectivos agentes económicos;\n\nb) Assegurar a execução das medidas destinadas a garantir a qualidade das matérias-primas e produtos agro-alimentares destinados ao consumo público, nas suas várias fases de produção, armazenagem, transporte, distribuição e venda;\n\nc) Promover as acções necessárias ao licenciamento sanitário dos estabelecimentos agro-alimentares;\n\nd) Promover a realização de acções de esclarecimento e sensibilização no âmbito da educação sanitária e da defesa da saúde pública, contra as enfermidades veiculadas através dos produtos alimentares.\n\n5) No domínio das infra-estruturas agrárias e estruturação fundiária:\n\na) Promover a elaboração de estudos e projectos relativos a aproveitamentos hidroagrícolas, nos termos do Decreto-Lei n.º 269/82, de 10 de Julho, bem como de infra-estruturas, construções rurais e obras de defesa e conservação do solo, de acordo com as necessidades e prioridades da região agrária, e assegurar o cumprimento das normas referentes à defesa da reserva agrícola;\n\nb) Assegurar, em colaboração com os serviços centrais competentes, o estudo e definição dos tipos de instalações e equipamentos mais aconselháveis à correcta exploração animal, face às exigências de cada espécie e raça e aos factores de ordem económica e ecológica;\n\nc) Colaborar com os serviços centrais competentes no estudo, definição e divulgação dos modelos e normas técnicas mais adequados à mecanização agrícola e garantir a satisfação dos pedidos de apoio formulados pelas entidades da região agrária nesta matéria;\n\nd) Promover a aplicação e divulgação das normas técnicas e práticas mais aconselháveis em matéria de regadio e apoiar a gestão dos perímetros de rega;\n\ne) Assegurar as acções decorrentes das medidas definidas no âmbito da estruturação fundiária e dos níveis de aproveitamento dos solos, do arrendamento rural e de outras modalidades de exploração;\n\nf) Assegurar a gestão dos interesses do Estado relativamente às propriedades expropriadas e nacionalizadas;\n\ng) Assegurar o apoio e dinamização das actividades de transformação e comercialização dos produtos agro-alimentares nos seus vários aspectos;\n\nh) Assegurar o desenvolvimento das actividades de âmbito laboratorial, sob orientação técnica e científica dos correspondentes serviços centrais;\n\ni) Promover a realização dos exames e análises laboratoriais necessários ao desenvolvimento das actividades da DRA e assegurar a gestão das instalações e equipamentos laboratoriais."
+  },
+  "162165214": {
+   "fragment_id": "162168209",
+   "type": 11,
+   "heading": "Artigo 16.º — (Centros de formação técnico-profissional e unidades experimentais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Centros de formação técnico-profissional e unidades experimentais)\n\nPara o desenvolvimento das suas actividades de formação profissional e de experimentação, as DRA disporão de centros de formação técnico-profissional e unidades experimentais a instituir nos respectivos diplomas orgânicos, os quais serão coordenados por um funcionário da carreira técnica superior de grau 1 ou da carreira técnica, designado pelo director regional."
+  },
+  "162165215": {
+   "fragment_id": "162168210",
+   "type": 11,
+   "heading": "Artigo 17.º — (Serviços operativos de âmbito local)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Serviços operativos de âmbito local)\n\n1 - Aos serviços operativos de âmbito local compete, designadamente:\n\na) No domínio da extensão e produção agrária:\n\nExecutar acções de apoio directo aos agricultores e outras entidades interessadas, nas várias componentes do fomento e dinamização das actividades agrárias, de acordo com metodologias, objectivos, planos e programas de trabalho definidos pela DRA.\n\nb) No domínio da protecção e controle da produção agrícola e pecuária:\n\nExecutar as acções de apoio directo aos agricultores e demais entidades, nos vários aspectos do cumprimento de normas, formalidades e directrizes de âmbito legal, sanitário e administrativo, de acordo com as normas em vigor para a área da zona agrária.\n\n2 - Os serviços operativos de âmbito local, de composição variável face às características de cada zona agrária, são dirigidos por um chefe de zona agrária, equiparados para todos os efeitos legais a chefe de divisão, a quem compete coordenar as actividades da zona agrária, bem como gerir os meios humanos e materiais afectos à mesma, e compreendem:\n\na) Equipas de extensão e produção agrária, coordenadas por um funcionário da carreira técnica superior de grau 1 ou da carreira técnica, constituídas por pessoal da carreira técnica superior de grau 1 ou da carreira técnica das várias áreas funcionais da extensão e da experimentação e fomento da produção agrária, em número e qualificação adequados às características e problemas da zona, competindo-lhes em especial a execução das tarefas referidas na alínea a) do n.º 1, e podendo funcionar também por produtos;\n\nb) Núcleos de apoio à protecção e controle da produção agrícola, coordenados por um funcionário da carreira técnica superior de grau 1, competindo-lhes fundamentalmente a actuação no âmbito específico das tarefas referidas na alínea b) do n.º 1, no domínio da produção agrícola;\n\nc) Núcleos de apoio à protecção e controle da produção animal, coordenados por um funcionário da carreira técnica superior de grau 1, competindo-lhes a execução das tarefas no âmbito específico da sanidade e higiene pública veterinária, referidas na alínea b) do n.º 1.\n\n3 - A coordenação referida no número anterior entende-se sem prejuízo de, em actividades específicas e casos devidamente justificados, nomeadamente no que se refere à sanidade animal e vegetal, se poderem estabelecer ligações directas de dependência técnico-funcional em relação a outros serviços especializados de âmbito regional ou nacional."
+  },
+  "162165216": {
+   "fragment_id": "162168211",
+   "type": 11,
+   "heading": "Artigo 18.º — (Coordenadores técnicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Coordenadores técnicos)\n\n1 - Sempre que as características da região agrária o justifiquem, poderá o director regional, ouvido o conselho técnico regional, propor ao Ministro, de entre o pessoal técnico superior, a designação de coordenadores técnicos de actividades específicas que interessa desenvolver em mais de uma zona agrária.\n\n2 - No despacho de designação serão definidas as actividades específicas objecto de coordenação, seu âmbito geográfico e duração, além das competências atribuídas ao coordenador técnico."
+  },
+  "162165217": {
+   "fragment_id": "162168212",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pessoal"
+  },
+  "162165218": {
+   "fragment_id": "162168213",
+   "type": 11,
+   "heading": "Artigo 19.º — (Quadro de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Quadro de pessoal)\n\n1 - Cada DRA disporá de quadro próprio de pessoal, que será fixado nos termos do artigo 22.º\n\n2 - A distribuição do pessoal pelos diversos serviços da DRA é da competência do respectivo director regional, partindo das necessidades reais das zonas agrárias."
+  },
+  "162165219": {
+   "fragment_id": "162168214",
+   "type": 11,
+   "heading": "Artigo 20.º — (Incentivos de fixação na periferia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Incentivos de fixação na periferia)\n\n1 - Serão activados os mecanismos de incentivos de fixação na periferia de acordo com o estipulado no Decreto-Lei n.º 45/84, de 3 de Fevereiro, e na Portaria n.º 715/85, de 24 de Setembro, para o pessoal técnico superior, técnico e técnico-profissional.\n\n2 - Os incentivos de fixação na periferia serão atribuídos ao pessoal a prestar serviço nas zonas de média e extrema periferia."
+  },
+  "162165220": {
+   "fragment_id": "162168215",
+   "type": 11,
+   "heading": "Artigo 21.º — (Gratificações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Gratificações)\n\nAos coordenadores técnicos responsáveis pelos centros de formação e chefes de equipa de projectos poderá ser concedida uma gratificação adicional por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação."
+  },
+  "162165221": {
+   "fragment_id": "162168216",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "162165222": {
+   "fragment_id": "162168217",
+   "type": 11,
+   "heading": "Artigo 22.º — (Diplomas orgânicos e regime dos serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Diplomas orgânicos e regime dos serviços)\n\n1 - As atribuições, organização, normas de funcionamento e quadros e regime de pessoal da DRA, se necessário, serão objecto de decretos regulamentares.\n\n2 - Até à publicação dos diplomas referidos no número anterior manter-se-ão em vigor os diplomas orgânicos e outras disposições com expressão orgânica nas actuais direcções regionais de agricultura."
+  },
+  "162165223": {
+   "fragment_id": "162168218",
+   "type": 11,
+   "heading": "Artigo 23.º — (Princípios de gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Princípios de gestão)\n\n1 - A base de filosofia de gestão das DRA assenta na desconcentração das atribuições do Ministério e das tomadas de decisão concretizadas através do reforço e autonomia de actuação dos serviços regionais e dos vários níveis de dirigentes.\n\n2 - As DRA orientarão as suas actividades no sentido de prioritariamente possibilitarem o desenvolvimento da região agrária através do reforço da capacidade de intervenção local e da simplificação dos circuitos entre os serviços e os utentes.\n\n3 - As DRA promoverão a transferência para outras entidades da execução de tarefas que pelo carácter multidisciplinar, número de especialistas envolvidos e duração prolongada, ou pela sua natureza residual, não devem ser levadas a efeito pelos serviços, devendo assegurar um adequado controle da execução.\n\n4 - As DRA poderão estabelecer protocolos e convénios de cooperação e assistência técnica quando se mostrem de interesse para a consecução dos seus objectivos.\n\n5 - As DRA deverão estabelecer articulações funcionais com as comissões de coordenação regional, designadamente nos programas integrados de desenvolvimento regional."
+  },
+  "162165224": {
+   "fragment_id": "162168219",
+   "type": 11,
+   "heading": "Artigo 24.º — (Equipas de projecto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Equipas de projecto)\n\n1 - Sempre que a natureza multidisciplinar e especificidade das tarefas o aconselhem, poderão ser constituídas, com carácter temporário, por despacho do director regional, equipas de projecto integradas por técnicos de diversas especialidades e de diferentes serviços da DRA.\n\n2 - Do despacho constitutivo da equipa de projecto deverá constar, designadamente, os seus objectivos, o seu chefe e os elementos que a integram, bem como o mandato e prazo para a sua realização."
+  },
+  "162165225": {
+   "fragment_id": "162168220",
+   "type": 11,
+   "heading": "Artigo 25.º — (Planos, relatórios de actividades e informação de gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Planos, relatórios de actividades e informação de gestão)\n\nA actuação das DRA, assentando numa gestão por objectivos e adequado controle orçamental, será disciplinada pelos seguintes instrumentos:\n\na) Definição dos objectivos e correspondentes planos de acção devidamente orçamentados e formalizados em planos de actividades anuais e plurianuais;\n\nb) Orçamento anual, com desdobramentos internos que permitam a desconcentração de competências e adequado controle de gestão;\n\nc) Indicadores periódicos de gestão que permitam o acompanhamento e avaliação das actividades desenvolvidas e a introdução de correcções em tempo oportuno sempre que necessário,\n\nd) Relatório anual de actividades, a elaborar até final do 1.º trimestre do ano seguinte;\n\ne) Conta de gerência e relatório financeiro a elaborar nos prazos legais."
+  },
+  "162165226": {
+   "fragment_id": "162168221",
+   "type": 11,
+   "heading": "Artigo 26.º — (Gestão financeira e patrimonial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Gestão financeira e patrimonial)\n\nAlém dos princípios consignados no artigo anterior, as DRA deverão adoptar os seguintes critérios em matéria de gestão financeira e patrimonial:\n\na) Sistema de controle orçamental pelos resultados, tendo em vista a avaliação da produtividade dos serviços;\n\nb) A contabilidade das DRA deverá adequar-se às necessidades da respectiva gestão, permitindo um controle orçamental permanente e, bem assim, a fácil verificação da relação existente entre os valores patrimoniais financeiros e os correspondentes elementos contabilísticos;\n\nc) As DRA deverão manter uma contabilidade analítica, a fim de procederem ao apuramento dos custos de participação de cada unidade orgânica em cada um dos programas e projectos e, bem assim, do seu custo global, tendo em vista uma gestão integrada;\n\nd) Para satisfação das necessidades referidas nas alíneas anteriores, as DRA poderão aplicar, adaptado às suas realidades e fundamentalmente como um instrumento de gestão, o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 47/77, de 7 de Fevereiro."
+  },
+  "162165227": {
+   "fragment_id": "162168222",
+   "type": 11,
+   "heading": "Artigo 27.º — (Receitas próprias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Receitas próprias)\n\n1 - Além das dotações que lhes forem atribuídas no Orçamento do Estado, as DRA dispõem das seguintes receitas próprias:\n\na) O produto das taxas e licenças que lhes esteja consignado;\n\nb) O produto das multas e coimas que lhes esteja legalmente consignado pelo não cumprimento de normas;\n\nc) As quantias provenientes da venda de produtos das unidades de exploração agrária a seu cargo;\n\nd) As quantias por serviços prestados a entidades públicas ou privadas, nacionais ou estrangeiras;\n\ne) O produto da venda de publicações e impressos e da prestação de serviços reprográficos;\n\nf) Quaisquer outras receitas não compreendidas nas alíneas anteriores que, por lei, acto ou contrato, lhes sejam atribuídas.\n\n2 - Os Ministros das Finanças e da Agricultura, Pescas e Alimentação regulamentarão, através de portaria conjunta, as receitas a atribuir às DRA e aos serviços centrais e DRA conjuntamente, conforme sejam provenientes, respectivamente, de actividades específicas ou conjuntas.\n\n3 - Os preços dos serviços a que se refere a alínea d) do n.º 1 serão aprovados por portaria do Ministro da Agricultura, Pescas e Alimentação.\n\n4 - Na movimentação e utilização das receitas próprias e atribuídas, a que se refere o presente artigo, observar-se-á o regime estabelecido no Decreto-Lei n.º 459/82, de 26 de Novembro."
+  },
+  "162165228": {
+   "fragment_id": "162168223",
+   "type": 11,
+   "heading": "Artigo 28.º — (Despesas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Despesas)\n\n1 - Constituem despesas das DRA as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atribuições.\n\n2 - Na realização das despesas respeitar-se-ão os condicionalismos e imperativos decorrentes do orçamento e dos planos aprovados e, bem assim, as prioridades que vierem a ser fixadas.\n\n3 - Os pagamentos devem ser efectuados, em regra, por meio de cheques, que serão entregues em troca dos respectivos recibos, devidamente legalizados.\n\n4 - O conselho administrativo poderá levantar e manter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devem ser satisfeitas a dinheiro."
+  },
+  "162165229": {
+   "fragment_id": "162168224",
+   "type": 11,
+   "heading": "Artigo 29.º — (Cobrança coerciva de dívidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Cobrança coerciva de dívidas)\n\n1 - A cobrança coerciva das dívidas às DRA provenientes de taxas ou outras receitas, cuja obrigação de pagamento esteja estabelecida em diploma, ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execução fiscal, através dos serviços de justiça fiscal.\n\n2 - O processo terá por base certidão passada pela entidade competente, da qual constem os elementos seguintes:\n\na) Nome ou denominação e domicílio ou sede do devedor;\n\nb) Proveniência da dívida e indicação por extenso do seu montante;\n\nc) Data a partir da qual são devidos juros de mora;\n\nd) Data da certidão e assinatura da entidade emitente devidamente autenticada com o selo branco ou carimbo do serviço respectivo.\n\n3 - Os juros de mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento."
+  },
+  "162165230": {
+   "fragment_id": "162168225",
+   "type": 11,
+   "heading": "Artigo 30.º — (Transição de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Transição de pessoal)\n\n1 - A transição dos funcionários e agentes actualmente afectos às DRA para os quadros a definir nos termos do n.º 1 do artigo 22.º deste diploma far-se-á em obediência ao disposto no artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e no Decreto-Lei n.º 146-C/80, de 21 de Maio, com observância do previsto na lei geral e tendo em conta o Decreto Regulamentar n.º 41/84, de 28 de Maio, em tudo o que não contrarie o Decreto-Lei n.º 248/85, de 15 de Julho, e o definido no presente diploma.\n\n2 - O pessoal que não corresponde às necessidades das DRA ingressa no quadro de efectivos interdepartamentais do Ministério, nos termos e para os efeitos previstos no Decreto-Lei n.º 43/84, de 3 de Fevereiro.\n\n3 - Para efeitos da aplicação dos números anteriores as DRA apresentarão ao Ministro, até 30 dias após a entrada em vigor dos respectivos diplomas orgânicos, o mapa das necessidades das respectivas DRA, com indicação da distribuição por cada zona agrária, acompanhado de propostas concretas de preenchimento dos lugares, com base nos mecanismos legais existentes, nomeadamente o recurso à mobilidade e reafectação do pessoal vinculado à função pública, com prioridade do pessoal dos QEI."
+  },
+  "162165231": {
+   "fragment_id": "162168226",
+   "type": 11,
+   "heading": "Artigo 31.º — (Transição de pessoal dirigente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Transição de pessoal dirigente)\n\n1 - Os lugares de pessoal dirigente criados pelo Decreto Regulamentar n.º 6-A/79, de 24 de Março, e pelo Decreto-Lei n.º 223/84, de 6 de Julho, consideram-se extintos à medida que entrarem em vigor os diplomas referidos no n.º 1 do artigo 22.º, sendo dadas por findas as comissões de serviço dos respectivos directores de serviço, chefes de divisão e equiparados, salvo despacho ministerial de confirmação, devidamente anotado pelo Tribunal de Contas e publicado no Diário da República, nos casos em que haja correspondência de conteúdos funcionais entre os lugares extintos e os criados.\n\n2 - São mantidos os lugares de chefe de divisão criados pelos Decretos-Leis n.os 90/85 e 91/85, de 1 de Abril, que, nos termos dos citados diplomas, passarão a fazer parte do quadro de pessoal próprio das respectivas DRA.\n\n3 - Os lugares de pessoal dirigente criados nos termos do n.º 1 serão providos de acordo com o previsto no Decreto-Lei n.º 191-F/79, de 26 de Junho."
+  },
+  "162165232": {
+   "fragment_id": "162168227",
+   "type": 11,
+   "heading": "Artigo 32.º — (Revogação de legislação anterior)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Revogação de legislação anterior)\n\nFicam revogados o Decreto-Lei n.º 223/84, de 6 de Julho, e o Decreto Regulamentar n.º 6-A/79, de 24 de Março, bem como quaisquer outras normas que contrariem o presente decreto-lei, sem prejuízo do disposto no n.º 2 do artigo 22.º"
+  },
+  "162165196": {
+   "fragment_id": "162168191",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 190/86\n\nde 16 de Julho\n\nAs direcções regionais de agricultura (DRA) constituem serviços de apoio directo, a nível regional e local, aos agentes económicos actuando nos sectores agrário e alimentar.\n\nA experiência de regionalização do Ministério da Agricultura, Pescas e Alimentação adquirida durante os sete anos de funcionamento das DRA indica como principais estrangulamentos: a inexistência de formas institucionalizadas de participação dos referidos agentes no equacionamento da política agrária nacional, a deficiente capacidade de resposta das direcções regionais de agricultura, pela concentração de competências nos serviços centrais, e o insuficiente apetrechamento em recursos humanos.\n\nA insuficiência de pessoal técnico, agravada pela concentração nos centros urbanos e sua absorção em tarefas de natureza administrativa, em detrimento das acções de fomento e experimentação, obrigou ao recurso a elevado número de técnicos contratados a prazo para execução de actividades de apoio directo aos agricultores, com carácter permanente.\n\nAtravés do presente diploma pretende-se, fundamentalmente, conferir às DRA um papel mais activo na dinamização dos agentes económicos do sector agrário, mediante o reforço da sua capacidade de análise, síntese e acção, o que pressupõe a fixação de técnicos devidamente preparados nas regiões agrárias e o recurso a formas de gestão mais simples, aproximando o mais possível a decisão da execução.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162165244": {
+   "fragment_id": "162168193",
+   "type": 11,
+   "heading": "Artigo 1.º — (Natureza)",
+   "in_force_from": "1989-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 46/89 - Diário da República n.º 38/1989, Série I de 1989-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), em vigor a partir de 1989-02-20"
+   ],
+   "markdown": "###### Artigo 1.º — (Natureza)\n\n1 - As direcções regionais de agricultura, criadas pelo Decreto-Lei n.º 223/84, de 6 de Julho, abreviadamente designadas por DRA, são serviços que, numa perspectiva integrada, têm por finalidade o apoio directo aos sectores agrário e alimentar a nível regional e local, de acordo com a política e os objectivos de âmbito nacional definidos para aqueles sectores.\n\n2 - As DRA dependem directamente do Ministro da Agricultura, Pescas e Alimentação.\n\n3 - As DRA são serviços dotados de autonomia administrativa, cuja acção se desenvolve em regiões agrárias, agrupando zonas agrárias.\n\n4 - As regiões e as zonas agrárias por elas compreendidas são as constantes do mapa I anexo ao presente diploma.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 46/89 - Diário da República n.º 38/1989, Série I de 1989-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), em vigor a partir de 1989-02-20"
+  },
+  "162165233": {
+   "fragment_id": "162168228",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 22 de Junho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Junho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa I a que se refere o n.º 4 do artigo 1.º deste diploma\n\n(ver documento original)"
+  },
+  "162165246": {
+   "fragment_id": "162168192",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo I\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165247": {
+   "fragment_id": "162168193",
+   "type": 11,
+   "heading": "Artigo 1.º — (Natureza)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 46/89 - Diário da República n.º 38/1989, Série I de 1989-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), em vigor a partir de 1989-02-20"
+   ],
+   "markdown": "###### Artigo 1.º — (Natureza)\n\n1 - As direcções regionais de agricultura, criadas pelo Decreto-Lei n.º 223/84, de 6 de Julho, abreviadamente designadas por DRA, são serviços que, numa perspectiva integrada, têm por finalidade o apoio directo aos sectores agrário e alimentar a nível regional e local, de acordo com a política e os objectivos de âmbito nacional definidos para aqueles sectores.\n\n2 - As DRA dependem directamente do Ministro da Agricultura, Pescas e Alimentação.\n\n3 - As DRA são serviços dotados de autonomia administrativa, cuja acção se desenvolve em regiões agrárias, agrupando zonas agrárias.\n\n4 - As regiões e as zonas agrárias por elas compreendidas são as constantes do mapa I anexo ao presente diploma.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 46/89 - Diário da República n.º 38/1989, Série I de 1989-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), em vigor a partir de 1989-02-20"
+  },
+  "162165248": {
+   "fragment_id": "162168194",
+   "type": 11,
+   "heading": "Artigo 2.º — (Atribuições)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 2.º — (Atribuições)\n\nSão atribuições das DRA:\n\na) Promover o levantamento e estudo sistemático das necessidades dos sectores agrário e alimentar regionais, com vista à sua integração na política e objectivos nacionais para aqueles sectores, e a elaboração dos respectivos planos de desenvolvimento regional;\n\nb) Promover a execução, a nível regional, da política e objectivos nacionais dos sectores agrário e alimentar;\n\nc) Proceder ao estudo e análise de projectos de investimento e de acções de natureza sócio-estrutural neles não compreendidos, com vista à verificação da sua conformidade com a legislação em vigor;\n\nd) Promover a execução das componentes agrária e alimentar dos planos integrados de desenvolvimento regional, estabelecendo, através das estruturas de coordenação, as necessárias ligações;\n\ne) Promover a nível regional o apoio técnico directo aos agricultores e demais entidades actuando nos sectores agrário e alimentar, nos domínios da protecção e fomento da produção, transformação e comercialização dos produtos agro-alimentares;\n\nf) Promover a realização das infra-estruturas rurais e das medidas de defesa e conservação do solo da responsabilidade do Ministério e satisfazer os pedidos de apoio técnico formulados pelas restantes entidades interessadas nos sectores agrário e alimentar da região;\n\ng) Promover a dinamização da estrutura fundiária da modernização da empresa dos sectores agrícola e alimentar, do associativismo e do rejuvenescimento da população activa agrícola, de acordo com as características sócio-económicas da região agrária e com a política nacional para os referidos sectores;\n\nh) Promover a formação profissional e tecnológica dos agricultores e demais agentes económicos que actuam nos sectores agrário e alimentar regionais;\n\ni) Promover a recolha, tratamento e divulgação da informação técnico-económica necessária à caracterização da região agrária e das actividades por ela desenvolvidas, de forma a manter convenientemente informados os competentes órgãos e serviços do Ministério e demais interessados.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165249": {
+   "fragment_id": "162168195",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços e suas competências",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo II — Órgãos e serviços e suas competências\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165250": {
+   "fragment_id": "162168196",
+   "type": 11,
+   "heading": "Artigo 3.º — (Órgãos e serviços)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º — (Órgãos e serviços)\n\nAs DRA poderão compreender os seguintes órgãos e serviços:\n\n1) Órgãos:\n\na) Director regional;\n\nb) Conselho regional agrário;\n\nc) Conselho técnico regional;\n\nd) Conselho administrativo;\n\n2) Serviços de apoio técnico e administrativo:\n\na) Gabinete de Planeamento Agrário Regional;\n\nb) Direcção de Serviços de Administração;\n\nc) Núcleo de Organização e Informática;\n\n3) Serviços operativos de âmbito regional:\n\nOs serviços operativos de âmbito regional poderão constituir-se em divisões e agrupar-se em direcções de serviço, de acordo com as características da região agrária e exigências das actividades a desenvolver, devendo o seu nível orgânico ser o adequado à natureza e especificidades que os problemas assumam na região;\n\n4) Serviços operativos de âmbito local:\n\nOs serviços operativos de âmbito local, de composição variável face às características de cada zona agrária, constituir-se-ão em equipas de extensão e produção agrária e núcleos de apoio à protecção e controle da produção agro-pecuária, agrupando-se em divisões.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165251": {
+   "fragment_id": "162168197",
+   "type": 11,
+   "heading": "Artigo 4.º — (Director regional)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 4.º — (Director regional)\n\n1 - As DRA são dirigidas por um director regional, coadjuvado por dois subdirectores regionais, equiparados, para todos os efeitos legais, a director-geral e subdirectores-gerais, respectivamente.\n\n2 - O director regional designará por despacho o subdirector regional, que o substituirá nas suas ausências e impedimentos.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165252": {
+   "fragment_id": "162168198",
+   "type": 11,
+   "heading": "Artigo 5.º — (Competências do director regional)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 5.º — (Competências do director regional)\n\n1 - Ao director regional compete, designadamente:\n\na) Assegurar a gestão e coordenação da actividade global da DRA;\n\nb) Definir, de acordo com os princípios da política agrária e alimentar nacionais, os objectivos e linhas de orientação regional, bem como a estratégia de actuação dos serviços;\n\nc) Apresentar superiormente, acompanhado do respectivo parecer, o plano anual de actividades da DRA e o correspondente relatório de execução;\n\nd) Promover formas de gestão por objectivos que acentuem o sentido participativo e a capacidade criadora das chefias e dos quadros técnicos;\n\ne) Presidir aos conselhos regional agrário, técnico regional e administrativo;\n\nf) Decidir sobre o pagamento de indemnizações decorrentes da legislação vigente sobre profilaxia e sanidade animal e vegetal, de acordo com as orientações definidas superiormente;\n\ng) Decidir sobre o pagamento de despesas resultantes de acidentes em serviço e de prejuízos causados a terceiros que sejam da responsabilidade da DRA;\n\nh) Admitir com observância das disposições legais, pessoal operário para trabalhos eventuais ou sazonais a realizar em unidades de exploração e centros de formação a cargo da DRA;\n\ni) Deslocar e afectar pessoal dentro da área da DRA, com observância das disposições legais.\n\n2 - O director regional cometerá aos subdirectores regionais a responsabilidade de domínios de actividade específicos, para o que delegará as competências adequadas, devendo estes, por sua vez, subdelegar parcialmente esses poderes nos restantes dirigentes, de forma a conseguir-se uma maior flexibilidade e rapidez na análise e solução dos problemas.\n\n3 - O director regional poderá, sempre que o entenda conveniente, delegar nos restantes dirigentes as suas competências quanto a assuntos correntes de cada domínio, para um melhor funcionamento dos serviços.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165253": {
+   "fragment_id": "162168199",
+   "type": 11,
+   "heading": "Artigo 6.º — (Conselho regional agrário - Natureza e composição)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 6.º — (Conselho regional agrário - Natureza e composição)\n\n1 - O conselho regional agrário é um órgão consultivo que, congregando os interesses sócio-económicos da região agrária, assegura a representação das entidades e organizações de âmbito regional e nacional interessadas no desenvolvimento dos sectores agrário e alimentar regionais ou que nela exerçam a sua actividade.\n\n2 - O conselho regional agrário será integrado pelos seguintes elementos:\n\na) Director regional;\n\nb) Chefes das circunscrições florestais actuando na área da DRA;\n\nc) Presidentes dos gabinetes coordenadores de programas integrados de desenvolvimento regional;\n\nd) Representantes designados pelas organizações representativas dos empresários e trabalhadores dos sectores agrário e alimentar da região agrária;\n\ne) Representantes designados pelas empresas e cooperativas dos sectores agrário e alimentar da região, suas associações, uniões e federações;\n\nf) Representantes dos estabelecimentos de ensino e de investigação com implantação regional relacionados com os sectores agrário e alimentar,\n\ng) Representantes dos agrupamentos de municípios da região;\n\nh) Representantes de outras entidades de reconhecido interesse para o desenvolvimento sócio-económico da região.\n\n3 - O número de elementos e representantes que constituirão o conselho regional agrário será fixado, sob proposta do respectivo director regional, por portaria do Ministro da Agricultura, Pescas e Alimentação.\n\n4 - Os representantes das organizações referidas no n.º 2 deste artigo são por elas livremente designados e substituídos, em conformidade com os seus estatutos, mediante comunicação escrita ao director regional.\n\n5 - Os representantes dos agrupamentos de municípios serão designados pelos presidentes das câmaras municipais agrupadas.\n\n6 - Sempre que se mostre conveniente serão convocados ou convidados elementos do MAPA, ou a ele estranhos, especialmente qualificados para o esclarecimento das matérias em apreciação.\n\n7 - As entidades estranhas ao MAPA convidadas nos termos do número anterior terão direito a uma senha de presença por cada sessão a que assistam, bem como ao abono de despesas de transporte, nos termos legais.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165254": {
+   "fragment_id": "162168200",
+   "type": 11,
+   "heading": "Artigo 7.º — (Conselho regional agrário - Competências e funcionamento)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 7.º — (Conselho regional agrário - Competências e funcionamento)\n\n1 - Ao conselho regional agrário compete, designadamente:\n\na) Veicular e analisar a informação sobre as reais necessidades e aspirações das entidades actuando na região agrária e transmitir-lhe as políticas e objectivos que o MAPA se propõe atingir;\n\nb) Apreciar os elementos que devem caracterizar objectivos e programas de desenvolvimento regional, de forma a poderem ser considerados nas propostas dos planos nacionais;\n\nc) Sugerir a adopção de medidas no âmbito da política agrária e alimentar;\n\nd) Pronunciar-se sobre a execução dos planos de desenvolvimento regional no campo agrário e alimentar, bem como sobre as actividades desenvolvidas pela DRA;\n\ne) Propor a adopção de quaisquer medidas que repute convenientes no âmbito do desenvolvimento agrário regional.\n\n2 - O conselho regional agrário reunirá ordinariamente três vezes por ano e extraordinariamente por iniciativa do seu presidente ou a solicitação da maioria simples dos seus membros.\n\n3 - O conselho regional agrário só pode reunir com a presença da maioria dos seus membros.\n\n4 - As deliberações do conselho regional serão tomadas por maioria simples de votos, tendo o presidente voto de qualidade em caso de empate.\n\n5 - Da acta de cada uma das reuniões do conselho regional agrário serão enviadas cópias ao Ministro da Agricultura, Pescas e Alimentação, bem como às entidades nele representadas, no prazo de 30 dias.\n\n6 - As normas de funcionamento do conselho regional agrário constarão de regulamento interno, a elaborar pelo próprio conselho.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165255": {
+   "fragment_id": "162168201",
+   "type": 11,
+   "heading": "Artigo 8.º — (Conselho técnico regional - Natureza e composição)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 8.º — (Conselho técnico regional - Natureza e composição)\n\n1 - O conselho técnico regional é um órgão de natureza consultiva e de apoio em matéria de planeamento e desenvolvimento integrado da região agrária.\n\n2 - O conselho técnico regional terá a seguinte composição:\n\na) Director regional;\n\nb) Subdirectores regionais;\n\nc) Directores de serviços da DRA;\n\nd) Director do serviço de planeamento do Ministério, ou seu representante, devidamente mandatado;\n\ne) Chefes das circunscrições florestais com actuação na área da DRA;\n\nf) Directores das estações nacionais de I-DE com actividades na área da DRA, ou seus representantes, devidamente mandatados;\n\ng) Dirigentes dos serviços centrais com responsabilidades directas no desenvolvimento dos planos ou projectos em execução na área da DRA.\n\n3 - Sempre que se mostre conveniente, serão convocados ou convidados elementos da DRA, ou de outros serviços do Ministério, especialmente qualificados para o esclarecimento das matérias em apreciação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165256": {
+   "fragment_id": "162168202",
+   "type": 11,
+   "heading": "Artigo 9.º — (Conselho técnico regional - Competência e funcionamento)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 9.º — (Conselho técnico regional - Competência e funcionamento)\n\n1 - Ao conselho técnico regional compete, designadamente:\n\na) Pronunciar-se sobre a elaboração de planos e projectos de desenvolvimento para a região agrária, nomeadamente os resultantes da adesão à CEE, e apreciar as acções necessárias à sua execução, através da aplicação de medidas que visem uma adequada participação dos serviços e demais entidades;\n\nb) Apreciar as linhas gerais de actuação da DRA, seus objectivos, respectivas prioridades e grau de execução, face às directrizes do Ministro da Agricultura, Pescas e Alimentação e sugestões apresentadas pelo conselho regional agrário;\n\nc) Apreciar as propostas dos planos anuais e plurianuais de actividades da DRA e respectivo relatório anual de execução;\n\nd) Propor medidas que visem melhorar a coordenação dos diversos serviços na execução dos programas e projectos e seu acompanhamento.\n\n2 - O conselho técnico regional funciona em reuniões plenárias, reunindo ordinariamente quatro vezes por ano e extraordinariamente sempre que o presidente o convoque.\n\n3 - Os assuntos submetidos à apreciação do conselho técnico regional serão objecto de votação.\n\n4 - As normas de funcionamento serão objecto de regulamento interno, a elaborar pelo próprio conselho.\n\n5 - O conselho técnico regional tem o apoio técnico do Gabinete de Planeamento Agrário Regional e do Núcleo de Organização e Informática e apoio logístico da Direcção de Serviços de Administração.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165257": {
+   "fragment_id": "162168203",
+   "type": 11,
+   "heading": "Artigo 10.º — (Conselho administrativo - Natureza e composição)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 10.º — (Conselho administrativo - Natureza e composição)\n\n1 - O conselho administrativo é um órgão deliberativo em matéria de gestão financeira e patrimonial.\n\n2 - O conselho administrativo terá a seguinte composição:\n\na) Director regional;\n\nb) Subdirector regional que não tiver sido designado substituto do director regional;\n\nc) Director de Serviços de Administração;\n\nd) Director do Gabinete de Planeamento Agrário Regional.\n\n3 - O conselho administrativo será secretariado por um funcionário administrativo, designado pelo director regional, sem direito a voto.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165258": {
+   "fragment_id": "162168204",
+   "type": 11,
+   "heading": "Artigo 11.º — (Conselho administrativo - Competências e funcionamento)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 11.º — (Conselho administrativo - Competências e funcionamento)\n\n1 - Ao conselho administrativo compete, designadamente:\n\na) Superintender na gestão financeira e patrimonial da DRA;\n\nb) Promover a elaboração de planos financeiros anuais e plurianuais;\n\nc) Promover a elaboração do orçamento da DRA, de conta das dotações atribuídas no Orçamento do Estado, e propor as alterações consideradas necessárias;\n\nd) Promover a elaboração dos orçamentos ordinários e suplementares, de aplicação de receitas próprias;\n\ne) Zelar pela cobrança de receitas e rendas e promover o seu depósito nos termos legais;\n\nf) Promover a venda de produtos das unidades de exploração agrária, nos termos da legislação em vigor, que constituam receita da DRA;\n\ng) Verificar a legalidade e eficiência das despesas e autorizar a sua realização e pagamento;\n\nh) Promover a organização da contabilidade e zelar pela sua execução;\n\ni) Superintender na organização anual da conta de gerência e submetê-la à aprovação do Tribunal de Contas no prazo legalmente estabelecido;\n\nj) Emitir pareceres sobre a aceitação de heranças, legados e doações;\n\nl) Proceder à verificação regular dos fundos em cofre e em depósito;\n\nm) Autorizar a venda de material considerado inservível ou dispensável, após a sua desafectação ao património a cargo da DRA;\n\nn) Pronunciar-se sobre qualquer outro assunto que no âmbito das suas atribuições lhe seja submetido pelo presidente.\n\n2 - O conselho administrativo reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n3 - O conselho administrativo só poderá deliberar quando se encontre presente a maioria dos seus membros, incluindo o presidente.\n\n4 - As deliberações do conselho administrativo serão tomadas por maioria simples de votos, tendo o presidente voto de qualidade.\n\n5 - Os membros do conselho administrativo são solidariamente responsáveis pelas deliberações tomadas, salvo se houverem feito exarar na acta a sua discordância.\n\n6 - Sempre que o presidente o considere conveniente, poderá convocar para participar nas reuniões do conselho administrativo, sem direito a voto, qualquer funcionário da DRA.\n\n7 - Das reuniões do conselho administrativo serão lavradas actas.\n\n8 - As normas de funcionamento do conselho administrativo serão objecto de regulamento interno, a elaborar pelo próprio conselho.\n\n9 - O conselho administrativo pode delegar no seu presidente os poderes consignados nas alíneas f) e g) do n.º 1 do presente artigo, fixando-lhe os respectivos limites.\n\n10 - O conselho administrativo poderá ainda delegar em qualquer dos seus membros e nos dirigentes dos serviços operativos algumas das suas competências para a realização de despesas, fixando-lhes os respectivos limites.\n\n11 - As entidades referidas no número anterior prestarão mensalmente contas, podendo ser constituídos, sob a sua responsabilidade, fundos de maneio para ocorrer ao pagamento das despesas que devam ser satisfeitas a dinheiro.\n\n12 - O conselho administrativo obriga-se mediante a assinatura de dois dos seus membros, sendo um deles o presidente.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165259": {
+   "fragment_id": "162168205",
+   "type": 11,
+   "heading": "Artigo 12.º — (Gabinete de Planeamento Agrário Regional)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 12.º — (Gabinete de Planeamento Agrário Regional)\n\nAo Gabinete de Planeamento Agrário Regional compete designadamente:\n\n1) No domínio do planeamento, programação e controle:\n\na) Promover a definição dos objectivos da DRA, a curto, médio e longo prazos, e a elaboração dos correspondentes planos anuais e plurianuais devidamente orçamentados, assegurar a programação das respectivas fases e fixar o grau de participação dos vários serviços;\n\nb) Promover a definição e implementação de um esquema de informação de controle necessário ao acompanhamento e avaliação dos planos anuais e plurianuais, bem como de todas as actividades em que a DRA esteja envolvida;\n\n2) No domínio da estatística:\n\na) Promover a criação, manutenção e actualização de um banco de dados necessário à elaboração de indicadores estatísticos com vista à caracterização permanente da região agrária e à formulação das políticas e objectivos da DRA;\n\nb) Assegurar a recolha e tratamento da informação necessária à elaboração oportuna e sistemática de indicadores conjunturais, bem como os referentes às actividades desenvolvidas pelos serviços e sua distribuição;\n\nc) Assegurar a nível da região agrária, de acordo com as directrizes e orientação do serviço central competente e em articulação com o INE, a execução de inquéritos e outras operações estatísticas, nomeadamente os resultantes da legislação da CEE, incluindo a recolha, análise, registo e validação da informação base;\n\nd) Assegurar a gestão da rede de recolha de informação estatística a nível da região agrária e a manutenção e actualização dos ficheiros das unidades estatísticas;\n\ne) Assegurar a participação da DRA na Comissão Consultiva de Estatística do MAPA;\n\n3) No domínio da documentação e informação:\n\na) Assegurar a gestão da biblioteca e arquivos documentais da DRA e a aquisição, permuta e oferta de publicações e documentos entre serviços e entidades nacionais e estrangeiras;\n\nb) Assegurar as ligações com os serviços centrais competentes com vista à optimização dos recursos e meios documentais e informativos, numa perspectiva de gestão integrada e eficiente;\n\nc) Promover a recolha, análise e difusão, pelos vários serviços e entidades interessados, da informação seleccionada, designadamente a ligada com a adesão à CEE;\n\nd) Apoiar o funcionamento dos órgãos consultivos da DRA, difundindo para os seus membros a informação pertinente;\n\ne) Assegurar o serviço de relações públicas;\n\n4) No domínio da análise e projectos:\n\na) Promover a dinamização do recurso a equipas de projecto, garantindo o apoio metodológico necessário;\n\nb) Colaborar na elaboração de planos e projectos de desenvolvimento regional, nomeadamente os resultantes da adesão à CEE, e definir as suas formas de execução;\n\nc) Colaborar na avaliação técnico-económica de projectos, nomeadamente no âmbito da viabilidade económico-financeira e em matéria de crédito e seguros;\n\nd) Promover o estudo e definição do ordenamento agrário regional;\n\ne) Promover a realização de estudos técnico-económicos necessários à elaboração do planeamento e à estratégia do desenvolvimento regional;\n\nf) Promover a avaliação de prejuízos causados por fenómenos naturais, designadamente os resultantes de acidentes meteorológicos, e propor as medidas consideradas adequadas;\n\ng) Promover a avaliação de situações susceptíveis de medidas conjunturais e de apoios específicos, nomeadamente a concessão de subsídios, indemnizações e bonificações, e controlar a sua aplicação;\n\nh) Proceder à análise dos projectos de investimento e das acções de natureza sócio-estrutural que neles não se enquadrem e da sua conformidade com a legislação em vigor;\n\ni) Promover a elaboração de relatórios periódicos de execução.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165260": {
+   "fragment_id": "162168206",
+   "type": 11,
+   "heading": "Artigo 13.º — (Direcção de Serviços de Administração)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 13.º — (Direcção de Serviços de Administração)\n\nÀ Direcção de Serviços de Administração compete, designadamente:\n\n1) No domínio do pessoal e expediente:\n\na) Promover as acções relativas à admissão, mobilidade, gestão e aposentação do pessoal e a organização e manutenção do respectivo cadastro;\n\nb) Assegurar a análise e processamento dos elementos relacionados com os vencimentos, remunerações e outros abonos do pessoal, bem como dos descontos que sobre eles eventualmente incidam, e elaboração dos documentos que lhes servem de suporte;\n\nc) Coordenar as iniciativas que venham a ser desenvolvidas no âmbito da acção social complementar;\n\nd) Assegurar o expediente e arquivo da DRA;\n\n2) No domínio financeiro e patrimonial:\n\na) Preparar o orçamento anual da DRA de conta das dotações consignadas no Orçamento do Estado e propor as alterações consideradas convenientes;\n\nb) Elaborar os orçamentos ordinários e suplementares de aplicação de receitas próprias da DRA;\n\nc) Assegurar o controle orçamental;\n\nd) Organizar a conta anual de gerência e preparar os elementos indispensáveis à elaboração do relatório financeiro;\n\ne) Proceder à cobrança de receitas e à liquidação das despesas dentro dos critérios e normas legalmente em vigor;\n\nf) Assegurar o registo dos movimentos de entrada e saída de dinheiro nos termos legais e de acordo com as normas em vigor;\n\ng) Colaborar na adequada gestão dos recursos financeiros;\n\nh) Proceder à elaboração e actualização do inventário patrimonial da DRA;\n\ni) Proceder à aquisição e arrendamento de bens, equipamento e material necessário ao funcionamento da DRA, bem como promover a realização de obras;\n\nj) Assegurar a gestão, conservação e segurança dos bens, equipamentos, instalações e meios de comunicação da DRA.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165261": {
+   "fragment_id": "162168207",
+   "type": 11,
+   "heading": "Artigo 14.º — (Núcleo de Organização e Informática)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 14.º — (Núcleo de Organização e Informática)\n\nAo Núcleo de Organização e Informática compete, designadamente:\n\n1) No domínio da organização:\n\na) Assegurar a adequação e implementação a nível regional das instruções de serviço, recomendações e normas de organização, modernização, racionalização de procedimentos e circuitos administrativos, nos termos definidos para o Ministério;\n\nb) Assegurar a implementação das normas sobre condições ambientais de higiene e segurança no trabalho;\n\nc) Realizar os estudos de carácter organizativo e consequentes recomendações no seio dos serviços regionais, assegurando a sua implementação;\n\nd) Promover o estudo e a execução de medidas tendentes à racionalização de procedimentos e circuitos administrativos;\n\ne) Colaborar com os serviços centrais na implementação das técnicas da burótica e dos sistemas de microfilmagem;\n\nf) Promover a elaboração e execução do plano geral de formação do pessoal da DRA.\n\n2) No domínio da informática:\n\na) Promover a elaboração de estudos e propostas com vista à definição dos meios informáticos mais adequados à DRA, de acordo com o plano de informática do Ministério;\n\nb) Apoiar os vários serviços na definição das suas necessidades de informação e analisar as possibilidades do seu tratamento automático;\n\nc) Assegurar uma correcta gestão dos meios informáticos;\n\nd) Assegurar as ligações entre a DRA e os serviços centrais no domínio da organização e informática;\n\ne) Garantir a segurança e privacidade da informação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165262": {
+   "fragment_id": "162168208",
+   "type": 11,
+   "heading": "Artigo 15.º — (Serviços operativos de âmbito regional)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 15.º — (Serviços operativos de âmbito regional)\n\nAos serviços operativos de âmbito regional compete, designadamente:\n\n1) No domínio da formação técnico-profissional, da experimentação, vulgarização e fomento da produção:\n\na) Promover o desenvolvimento e a execução das actividades de experimentação necessárias à região agrária, sob orientação técnico-científica dos competentes serviços centrais ou resultante de convénios estabelecidos com instituições regionais de ensino, investigação e desenvolvimento;\n\nb) Assegurar a gestão das unidades experimentais da DRA;\n\nc) Assegurar no campo prático a efectivação do plano de formação profissional dos técnicos regionais, elaborado pelo Núcleo de Organização e Informática, mediante a sua participação nas equipas de experimentação;\n\nd) Promover a elaboração e execução do plano de formação técnico-profissional dos agricultores e trabalhadores rurais;\n\ne) Assegurar o apoio à dinamização do processo de rejuvenescimento da população activa, de formas de associativismo e de modernização da gestão das explorações no âmbito dos sectores agrário e alimentar, de acordo com as características da região agrária;\n\nf) Assegurar a definição regional das zonas agro-ecológicas mais adequadas às diferentes espécies vegetais e animais e respectivas variedades e raças, bem como dos sistemas de exploração agro-pecuários mais aconselháveis;\n\ng) Promover a execução das acções necessárias à identificação dos animais características genéticas dos reprodutores e sua avaliação, e elaboração dos registos genealógicos e zootécnicos;\n\nh) Assegurar o funcionamento dos serviços de inseminação artificial, promovendo a sua transferência para as associações de agricultores;\n\ni) Promover a divulgação de conhecimentos, normas práticas aconselháveis na gestão, maneio e preservação das diferentes espécies animais;\n\nj) Assegurar o estudo e caracterização das espécies vegetais e suas variedades mais importantes e aptas para a região;\n\nl) Assegurar a divulgação junto dos produtores dos conhecimentos adquiridos através da actividade técnica da DRA em matéria de produção vegetal e animal, integrados nos sistemas de exploração mais adequados às características regionais;\n\nm) Apoiar a instalação da rede de observações hidrometeorológicas e agroclimatológicas, bem como a sua exploração, manutenção e beneficiação, em colaboração com os serviços centrais competentes, e proceder à recolha, tratamento e divulgação dos elementos agroclimatológicos de interesse para a região;\n\nn) Promover junto dos interessados a disponibilização de terrenos susceptíveis de serem arborizados;\n\no) Colaborar com as circunscrições florestais na definição e implementação das práticas mais aconselháveis à exploração de terrenos arborizáveis e utilização de pastagens naturais e cultivadas.\n\n2) No domínio da protecção à produção vegetal:\n\na) Assegurar a recolha e tratamento da informação necessária à elaboração da regulamentação do condicionamento das culturas e garantir a sua aplicação;\n\nb) Assegurar a diagnose e zonagem dos inimigos das culturas, promover a execução das acções de combate a pragas, doenças infestantes e a outros agentes patogénicos de espécies vegetais e garantir o funcionamento da rede de avisos e de outras formas de protecção fitossanitária;\n\nc) Promover a recolha e análise de produtos vegetais para detecção de resíduos toxicológicos de fitofármacos;\n\nd) Assegurar a execução das acções de inspecção e fiscalização visando as garantias varietal e sanitária.\n\n3) No domínio da protecção e controle da produção animal e higiene pública veterinária:\n\na) Assegurar a execução das acções de carácter preventivo e curativo contra as doenças infecto-contagiosas, parasitárias e outras, dos animais, segundo as directrizes, de ordem nacional e internacional, veiculadas pelo serviço central competente;\n\nb) Promover a execução de inquéritos sanitários epizootológicos e registos noso-necrológicos, bem como a recolha de informação estatística, referentes às acções profilácticas e de saneamento, assegurando o seu envio aos serviços centrais;\n\nc) Promover o cumprimento das normas de exploração e requisitos sanitários das diferentes espécies animais, bem como a execução das acções de vigilância sanitária, com vista à defesa e preservação do património animal, saúde pública e aumento da produção;\n\nd) Coordenar as actividades dos veterinários municipais e de outras entidades no âmbito da sanidade animal e cooperar em acções de educação sanitária.\n\n4) No domínio da transformação, comercialização e controle de qualidade dos produtos agro-alimentares:\n\na) Assegurar o estudo e divulgação das medidas mais aconselháveis no âmbito da transformação e comercialização dos produtos do sector agrário nacional e o apoio aos respectivos agentes económicos;\n\nb) Assegurar a execução das medidas destinadas a garantir a qualidade das matérias-primas e produtos agro-alimentares destinados ao consumo público, nas suas várias fases de produção, armazenagem, transporte, distribuição e venda;\n\nc) Promover as acções necessárias ao licenciamento sanitário dos estabelecimentos agro-alimentares;\n\nd) Promover a realização de acções de esclarecimento e sensibilização no âmbito da educação sanitária e da defesa da saúde pública, contra as enfermidades veiculadas através dos produtos alimentares.\n\n5) No domínio das infra-estruturas agrárias e estruturação fundiária:\n\na) Promover a elaboração de estudos e projectos relativos a aproveitamentos hidroagrícolas, nos termos do Decreto-Lei n.º 269/82, de 10 de Julho, bem como de infra-estruturas, construções rurais e obras de defesa e conservação do solo, de acordo com as necessidades e prioridades da região agrária, e assegurar o cumprimento das normas referentes à defesa da reserva agrícola;\n\nb) Assegurar, em colaboração com os serviços centrais competentes, o estudo e definição dos tipos de instalações e equipamentos mais aconselháveis à correcta exploração animal, face às exigências de cada espécie e raça e aos factores de ordem económica e ecológica;\n\nc) Colaborar com os serviços centrais competentes no estudo, definição e divulgação dos modelos e normas técnicas mais adequados à mecanização agrícola e garantir a satisfação dos pedidos de apoio formulados pelas entidades da região agrária nesta matéria;\n\nd) Promover a aplicação e divulgação das normas técnicas e práticas mais aconselháveis em matéria de regadio e apoiar a gestão dos perímetros de rega;\n\ne) Assegurar as acções decorrentes das medidas definidas no âmbito da estruturação fundiária e dos níveis de aproveitamento dos solos, do arrendamento rural e de outras modalidades de exploração;\n\nf) Assegurar a gestão dos interesses do Estado relativamente às propriedades expropriadas e nacionalizadas;\n\ng) Assegurar o apoio e dinamização das actividades de transformação e comercialização dos produtos agro-alimentares nos seus vários aspectos;\n\nh) Assegurar o desenvolvimento das actividades de âmbito laboratorial, sob orientação técnica e científica dos correspondentes serviços centrais;\n\ni) Promover a realização dos exames e análises laboratoriais necessários ao desenvolvimento das actividades da DRA e assegurar a gestão das instalações e equipamentos laboratoriais.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165263": {
+   "fragment_id": "162168209",
+   "type": 11,
+   "heading": "Artigo 16.º — (Centros de formação técnico-profissional e unidades experimentais)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 16.º — (Centros de formação técnico-profissional e unidades experimentais)\n\nPara o desenvolvimento das suas actividades de formação profissional e de experimentação, as DRA disporão de centros de formação técnico-profissional e unidades experimentais a instituir nos respectivos diplomas orgânicos, os quais serão coordenados por um funcionário da carreira técnica superior de grau 1 ou da carreira técnica, designado pelo director regional.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165264": {
+   "fragment_id": "162168210",
+   "type": 11,
+   "heading": "Artigo 17.º — (Serviços operativos de âmbito local)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 17.º — (Serviços operativos de âmbito local)\n\n1 - Aos serviços operativos de âmbito local compete, designadamente:\n\na) No domínio da extensão e produção agrária:\n\nExecutar acções de apoio directo aos agricultores e outras entidades interessadas, nas várias componentes do fomento e dinamização das actividades agrárias, de acordo com metodologias, objectivos, planos e programas de trabalho definidos pela DRA.\n\nb) No domínio da protecção e controle da produção agrícola e pecuária:\n\nExecutar as acções de apoio directo aos agricultores e demais entidades, nos vários aspectos do cumprimento de normas, formalidades e directrizes de âmbito legal, sanitário e administrativo, de acordo com as normas em vigor para a área da zona agrária.\n\n2 - Os serviços operativos de âmbito local, de composição variável face às características de cada zona agrária, são dirigidos por um chefe de zona agrária, equiparados para todos os efeitos legais a chefe de divisão, a quem compete coordenar as actividades da zona agrária, bem como gerir os meios humanos e materiais afectos à mesma, e compreendem:\n\na) Equipas de extensão e produção agrária, coordenadas por um funcionário da carreira técnica superior de grau 1 ou da carreira técnica, constituídas por pessoal da carreira técnica superior de grau 1 ou da carreira técnica das várias áreas funcionais da extensão e da experimentação e fomento da produção agrária, em número e qualificação adequados às características e problemas da zona, competindo-lhes em especial a execução das tarefas referidas na alínea a) do n.º 1, e podendo funcionar também por produtos;\n\nb) Núcleos de apoio à protecção e controle da produção agrícola, coordenados por um funcionário da carreira técnica superior de grau 1, competindo-lhes fundamentalmente a actuação no âmbito específico das tarefas referidas na alínea b) do n.º 1, no domínio da produção agrícola;\n\nc) Núcleos de apoio à protecção e controle da produção animal, coordenados por um funcionário da carreira técnica superior de grau 1, competindo-lhes a execução das tarefas no âmbito específico da sanidade e higiene pública veterinária, referidas na alínea b) do n.º 1.\n\n3 - A coordenação referida no número anterior entende-se sem prejuízo de, em actividades específicas e casos devidamente justificados, nomeadamente no que se refere à sanidade animal e vegetal, se poderem estabelecer ligações directas de dependência técnico-funcional em relação a outros serviços especializados de âmbito regional ou nacional.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165265": {
+   "fragment_id": "162168211",
+   "type": 11,
+   "heading": "Artigo 18.º — (Coordenadores técnicos)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 18.º — (Coordenadores técnicos)\n\n1 - Sempre que as características da região agrária o justifiquem, poderá o director regional, ouvido o conselho técnico regional, propor ao Ministro, de entre o pessoal técnico superior, a designação de coordenadores técnicos de actividades específicas que interessa desenvolver em mais de uma zona agrária.\n\n2 - No despacho de designação serão definidas as actividades específicas objecto de coordenação, seu âmbito geográfico e duração, além das competências atribuídas ao coordenador técnico.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165266": {
+   "fragment_id": "162168212",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo III — Pessoal\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165267": {
+   "fragment_id": "162168213",
+   "type": 11,
+   "heading": "Artigo 19.º — (Quadro de pessoal)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 19.º — (Quadro de pessoal)\n\n1 - Cada DRA disporá de quadro próprio de pessoal, que será fixado nos termos do artigo 22.º\n\n2 - A distribuição do pessoal pelos diversos serviços da DRA é da competência do respectivo director regional, partindo das necessidades reais das zonas agrárias.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165268": {
+   "fragment_id": "162168214",
+   "type": 11,
+   "heading": "Artigo 20.º — (Incentivos de fixação na periferia)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 20.º — (Incentivos de fixação na periferia)\n\n1 - Serão activados os mecanismos de incentivos de fixação na periferia de acordo com o estipulado no Decreto-Lei n.º 45/84, de 3 de Fevereiro, e na Portaria n.º 715/85, de 24 de Setembro, para o pessoal técnico superior, técnico e técnico-profissional.\n\n2 - Os incentivos de fixação na periferia serão atribuídos ao pessoal a prestar serviço nas zonas de média e extrema periferia.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165269": {
+   "fragment_id": "162168215",
+   "type": 11,
+   "heading": "Artigo 21.º — (Gratificações)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 21.º — (Gratificações)\n\nAos coordenadores técnicos responsáveis pelos centros de formação e chefes de equipa de projectos poderá ser concedida uma gratificação adicional por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165270": {
+   "fragment_id": "162168216",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165271": {
+   "fragment_id": "162168217",
+   "type": 11,
+   "heading": "Artigo 22.º — (Diplomas orgânicos e regime dos serviços)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 22.º — (Diplomas orgânicos e regime dos serviços)\n\n1 - As atribuições, organização, normas de funcionamento e quadros e regime de pessoal da DRA, se necessário, serão objecto de decretos regulamentares.\n\n2 - Até à publicação dos diplomas referidos no número anterior manter-se-ão em vigor os diplomas orgânicos e outras disposições com expressão orgânica nas actuais direcções regionais de agricultura.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165272": {
+   "fragment_id": "162168218",
+   "type": 11,
+   "heading": "Artigo 23.º — (Princípios de gestão)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 23.º — (Princípios de gestão)\n\n1 - A base de filosofia de gestão das DRA assenta na desconcentração das atribuições do Ministério e das tomadas de decisão concretizadas através do reforço e autonomia de actuação dos serviços regionais e dos vários níveis de dirigentes.\n\n2 - As DRA orientarão as suas actividades no sentido de prioritariamente possibilitarem o desenvolvimento da região agrária através do reforço da capacidade de intervenção local e da simplificação dos circuitos entre os serviços e os utentes.\n\n3 - As DRA promoverão a transferência para outras entidades da execução de tarefas que pelo carácter multidisciplinar, número de especialistas envolvidos e duração prolongada, ou pela sua natureza residual, não devem ser levadas a efeito pelos serviços, devendo assegurar um adequado controle da execução.\n\n4 - As DRA poderão estabelecer protocolos e convénios de cooperação e assistência técnica quando se mostrem de interesse para a consecução dos seus objectivos.\n\n5 - As DRA deverão estabelecer articulações funcionais com as comissões de coordenação regional, designadamente nos programas integrados de desenvolvimento regional.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165273": {
+   "fragment_id": "162168219",
+   "type": 11,
+   "heading": "Artigo 24.º — (Equipas de projecto)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 24.º — (Equipas de projecto)\n\n1 - Sempre que a natureza multidisciplinar e especificidade das tarefas o aconselhem, poderão ser constituídas, com carácter temporário, por despacho do director regional, equipas de projecto integradas por técnicos de diversas especialidades e de diferentes serviços da DRA.\n\n2 - Do despacho constitutivo da equipa de projecto deverá constar, designadamente, os seus objectivos, o seu chefe e os elementos que a integram, bem como o mandato e prazo para a sua realização.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165274": {
+   "fragment_id": "162168220",
+   "type": 11,
+   "heading": "Artigo 25.º — (Planos, relatórios de actividades e informação de gestão)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 25.º — (Planos, relatórios de actividades e informação de gestão)\n\nA actuação das DRA, assentando numa gestão por objectivos e adequado controle orçamental, será disciplinada pelos seguintes instrumentos:\n\na) Definição dos objectivos e correspondentes planos de acção devidamente orçamentados e formalizados em planos de actividades anuais e plurianuais;\n\nb) Orçamento anual, com desdobramentos internos que permitam a desconcentração de competências e adequado controle de gestão;\n\nc) Indicadores periódicos de gestão que permitam o acompanhamento e avaliação das actividades desenvolvidas e a introdução de correcções em tempo oportuno sempre que necessário,\n\nd) Relatório anual de actividades, a elaborar até final do 1.º trimestre do ano seguinte;\n\ne) Conta de gerência e relatório financeiro a elaborar nos prazos legais.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165775": {
+   "fragment_id": "162168221",
+   "type": 11,
+   "heading": "Artigo 26.º — (Gestão financeira e patrimonial)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 26.º — (Gestão financeira e patrimonial)\n\nAlém dos princípios consignados no artigo anterior, as DRA deverão adoptar os seguintes critérios em matéria de gestão financeira e patrimonial:\n\na) Sistema de controle orçamental pelos resultados, tendo em vista a avaliação da produtividade dos serviços;\n\nb) A contabilidade das DRA deverá adequar-se às necessidades da respectiva gestão, permitindo um controle orçamental permanente e, bem assim, a fácil verificação da relação existente entre os valores patrimoniais financeiros e os correspondentes elementos contabilísticos;\n\nc) As DRA deverão manter uma contabilidade analítica, a fim de procederem ao apuramento dos custos de participação de cada unidade orgânica em cada um dos programas e projectos e, bem assim, do seu custo global, tendo em vista uma gestão integrada;\n\nd) Para satisfação das necessidades referidas nas alíneas anteriores, as DRA poderão aplicar, adaptado às suas realidades e fundamentalmente como um instrumento de gestão, o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 47/77, de 7 de Fevereiro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165776": {
+   "fragment_id": "162168222",
+   "type": 11,
+   "heading": "Artigo 27.º — (Receitas próprias)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 27.º — (Receitas próprias)\n\n1 - Além das dotações que lhes forem atribuídas no Orçamento do Estado, as DRA dispõem das seguintes receitas próprias:\n\na) O produto das taxas e licenças que lhes esteja consignado;\n\nb) O produto das multas e coimas que lhes esteja legalmente consignado pelo não cumprimento de normas;\n\nc) As quantias provenientes da venda de produtos das unidades de exploração agrária a seu cargo;\n\nd) As quantias por serviços prestados a entidades públicas ou privadas, nacionais ou estrangeiras;\n\ne) O produto da venda de publicações e impressos e da prestação de serviços reprográficos;\n\nf) Quaisquer outras receitas não compreendidas nas alíneas anteriores que, por lei, acto ou contrato, lhes sejam atribuídas.\n\n2 - Os Ministros das Finanças e da Agricultura, Pescas e Alimentação regulamentarão, através de portaria conjunta, as receitas a atribuir às DRA e aos serviços centrais e DRA conjuntamente, conforme sejam provenientes, respectivamente, de actividades específicas ou conjuntas.\n\n3 - Os preços dos serviços a que se refere a alínea d) do n.º 1 serão aprovados por portaria do Ministro da Agricultura, Pescas e Alimentação.\n\n4 - Na movimentação e utilização das receitas próprias e atribuídas, a que se refere o presente artigo, observar-se-á o regime estabelecido no Decreto-Lei n.º 459/82, de 26 de Novembro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165777": {
+   "fragment_id": "162168223",
+   "type": 11,
+   "heading": "Artigo 28.º — (Despesas)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 28.º — (Despesas)\n\n1 - Constituem despesas das DRA as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atribuições.\n\n2 - Na realização das despesas respeitar-se-ão os condicionalismos e imperativos decorrentes do orçamento e dos planos aprovados e, bem assim, as prioridades que vierem a ser fixadas.\n\n3 - Os pagamentos devem ser efectuados, em regra, por meio de cheques, que serão entregues em troca dos respectivos recibos, devidamente legalizados.\n\n4 - O conselho administrativo poderá levantar e manter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devem ser satisfeitas a dinheiro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165778": {
+   "fragment_id": "162168224",
+   "type": 11,
+   "heading": "Artigo 29.º — (Cobrança coerciva de dívidas)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 29.º — (Cobrança coerciva de dívidas)\n\n1 - A cobrança coerciva das dívidas às DRA provenientes de taxas ou outras receitas, cuja obrigação de pagamento esteja estabelecida em diploma, ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execução fiscal, através dos serviços de justiça fiscal.\n\n2 - O processo terá por base certidão passada pela entidade competente, da qual constem os elementos seguintes:\n\na) Nome ou denominação e domicílio ou sede do devedor;\n\nb) Proveniência da dívida e indicação por extenso do seu montante;\n\nc) Data a partir da qual são devidos juros de mora;\n\nd) Data da certidão e assinatura da entidade emitente devidamente autenticada com o selo branco ou carimbo do serviço respectivo.\n\n3 - Os juros de mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165779": {
+   "fragment_id": "162168225",
+   "type": 11,
+   "heading": "Artigo 30.º — (Transição de pessoal)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 30.º — (Transição de pessoal)\n\n1 - A transição dos funcionários e agentes actualmente afectos às DRA para os quadros a definir nos termos do n.º 1 do artigo 22.º deste diploma far-se-á em obediência ao disposto no artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e no Decreto-Lei n.º 146-C/80, de 21 de Maio, com observância do previsto na lei geral e tendo em conta o Decreto Regulamentar n.º 41/84, de 28 de Maio, em tudo o que não contrarie o Decreto-Lei n.º 248/85, de 15 de Julho, e o definido no presente diploma.\n\n2 - O pessoal que não corresponde às necessidades das DRA ingressa no quadro de efectivos interdepartamentais do Ministério, nos termos e para os efeitos previstos no Decreto-Lei n.º 43/84, de 3 de Fevereiro.\n\n3 - Para efeitos da aplicação dos números anteriores as DRA apresentarão ao Ministro, até 30 dias após a entrada em vigor dos respectivos diplomas orgânicos, o mapa das necessidades das respectivas DRA, com indicação da distribuição por cada zona agrária, acompanhado de propostas concretas de preenchimento dos lugares, com base nos mecanismos legais existentes, nomeadamente o recurso à mobilidade e reafectação do pessoal vinculado à função pública, com prioridade do pessoal dos QEI.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165780": {
+   "fragment_id": "162168226",
+   "type": 11,
+   "heading": "Artigo 31.º — (Transição de pessoal dirigente)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 31.º — (Transição de pessoal dirigente)\n\n1 - Os lugares de pessoal dirigente criados pelo Decreto Regulamentar n.º 6-A/79, de 24 de Março, e pelo Decreto-Lei n.º 223/84, de 6 de Julho, consideram-se extintos à medida que entrarem em vigor os diplomas referidos no n.º 1 do artigo 22.º, sendo dadas por findas as comissões de serviço dos respectivos directores de serviço, chefes de divisão e equiparados, salvo despacho ministerial de confirmação, devidamente anotado pelo Tribunal de Contas e publicado no Diário da República, nos casos em que haja correspondência de conteúdos funcionais entre os lugares extintos e os criados.\n\n2 - São mantidos os lugares de chefe de divisão criados pelos Decretos-Leis n.os 90/85 e 91/85, de 1 de Abril, que, nos termos dos citados diplomas, passarão a fazer parte do quadro de pessoal próprio das respectivas DRA.\n\n3 - Os lugares de pessoal dirigente criados nos termos do n.º 1 serão providos de acordo com o previsto no Decreto-Lei n.º 191-F/79, de 26 de Junho.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165781": {
+   "fragment_id": "162168227",
+   "type": 11,
+   "heading": "Artigo 32.º — (Revogação de legislação anterior)",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 32.º — (Revogação de legislação anterior)\n\nFicam revogados o Decreto-Lei n.º 223/84, de 6 de Julho, e o Decreto Regulamentar n.º 6-A/79, de 24 de Março, bem como quaisquer outras normas que contrariem o presente decreto-lei, sem prejuízo do disposto no n.º 2 do artigo 22.º\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162165782": {
+   "fragment_id": "162168228",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Maio de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 22 de Junho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Junho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa I a que se refere o n.º 4 do artigo 1.º deste diploma\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

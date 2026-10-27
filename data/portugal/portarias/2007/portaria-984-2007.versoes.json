@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640939:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-122657707",
+ "dre_path": "/dr/detalhe/portaria/984-2007-640939",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122677696",
+    "122677687",
+    "122677688",
+    "122677689"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:642004:por",
+     "title": "Declaração de Rectificação n.º 92/2007",
+     "published": "2007-10-16",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/92-2007-642004",
+     "date": "2007-09-01"
+    }
+   ]
+  },
+  {
+   "date": "2009-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:482810:por",
+     "title": "Portaria n.º 1316/2009",
+     "published": "2009-10-21",
+     "dre_path": "/dr/detalhe/portaria/1316-2009-482810"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "122677696",
+    "122677704",
+    "122677688",
+    "122677689",
+    "122677690"
+   ]
+  },
+  {
+   "date": "2012-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178491:por",
+     "title": "Decreto-Lei n.º 133/2012",
+     "published": "2012-06-27",
+     "dre_path": "/dr/detalhe/decreto-lei/133-2012-178491"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "122677696",
+    "122677705",
+    "122677706",
+    "122677689",
+    "122677690"
+   ]
+  }
+ ],
+ "fragments": {
+  "122677696": {
+   "fragment_id": "122657708",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2007-09-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 984/2007\n\nde 27 de Agosto\n\nA modernização da Administração Pública, enquanto vector de desenvolvimento da estratégia de crescimento propugnada pelo Programa do XVII Governo Constitucional, implica, necessariamente, a adopção de medidas de desburocratização tendentes a imprimir uma maior eficácia no funcionamento dos respectivos serviços e instituições.\n\nCom este objectivo têm sido concretizadas várias medidas visando a simplificação dos processos burocráticos de que resulta não só a facilitação da vida dos cidadãos, como também uma maior racionalização no exercício da função administrativa do Estado.\n\nTambém no domínio do ordenamento jurídico da segurança social se têm verificado desenvolvimentos neste sentido, constituindo preocupação latente a racionalização da generalidade dos procedimentos indispensáveis ao exercício dos direitos sociais.\n\nNeste contexto, constituíram um marco de desenvolvimento as iniciativas concretizadas no âmbito do Programa de Simplificação Administrativa e Legislativa (SIMPLEX), designadamente as que incidiram sobre a simplificação e desmaterialização dos processos de concessão das prestações sociais e sobre a adopção de novas metodologias no que respeita ao processo probatório dos requisitos de que depende o reconhecimento do direito às mesmas.\n\nAssim e especificamente no que concerne à concessão do abono de família para crianças e jovens, foi, oportunamente, implementada a troca de informação oficiosa entre as instituições de segurança social e os serviços da administração fiscal, em subordinação ao disposto na Portaria n.º 112/2007, de 24 de Janeiro, para efeitos de apuramento dos rendimentos dos agregados familiares das crianças e jovens titulares do direito à prestação de que depende a modulação do respectivo valor.\n\nEstão agora reunidas as condições, técnicas e operacionais, para no âmbito de um processo gradual de articulação entre as entidades competentes, em desenvolvimento do disposto no artigo 29.º do Decreto-Lei n.º 176/2003, de 2 de Agosto, se proceder à troca de informação, com vista à comprovação oficiosa dos elementos necessários à verificação da prova da situação escolar, a que se refere o artigo 44.º do mesmo diploma.\n\nDeste modo, e já no ano lectivo de 2007-2008, a prova da situação escolar em relação ao universo de alunos que se matriculem no ensino secundário, em estabelecimentos de ensino oficial, será efectuada oficiosamente, através da troca de informação entre o Instituto da Segurança Social, I. P., enquanto entidade gestora da prestação, e o Gabinete Coordenador do Sistema de Informação do Ministério da Educação, prevendo-se, na presente portaria, os procedimentos imprescindíveis à dispensa da obrigatoriedade de apresentação da prova escolar, nos termos em que tradicionalmente era efectuada.\n\nA adopção desta medida permite não só imprimir maior eficácia e eficiência no processo de concessão da prestação como apresenta impactes positivos ao nível da comodidade dos titulares das prestações e, bem assim, de racionalização dos procedimentos dos estabelecimentos de ensino no processo de certificação, pela eliminação das respectivas declarações casuísticas em suporte papel.\n\nAssim:\n\nAo abrigo do disposto no artigo 53.º do Decreto-Lei n.º 176/2003, de 2 de Agosto, manda o Governo, pelos Ministros do Trabalho e da Solidariedade Social e da Educação, o seguinte:"
+  },
+  "122677687": {
+   "fragment_id": "122657709",
+   "type": 11,
+   "heading": "Artigo 1.º — Prova anual da situação escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Prova anual da situação escolar\n\n1 - A prova anual da situação escolar estabelecida no artigo 44.º do Decreto-Lei n.º 176/2003, de 2 de Agosto, relativa às prestações de abono de família geridas pelo Instituto da Segurança Social, I. P., adiante designado por ISS, e referente aos jovens com idades a partir dos 16 anos, ainda que atingidos no decurso do ano lectivo, matriculados no ensino secundário, em estabelecimentos de ensino oficial, passa a ser feita, oficiosamente, através da troca de informação decorrente da articulação entre aquele Instituto e o Gabinete de Informação e Avaliação do Sistema Educativo do Ministério da Educação.\n\n2 - Para efeito do disposto no número anterior, o ISS comunica aos titulares de abono de família, ou às pessoas ou entidades a quem é pago, o número de identificação da segurança social dos titulares da prestação, adiante designado por NISS, o qual deve ser referenciado expressamente no respectivo acto de matrícula dos alunos.\n\n3 - Os alunos matriculados no ensino secundário, em estabelecimentos oficiais, que tenham referenciado o respectivo NISS no acto de matrícula estão dispensados de apresentar a prova anual da situação escolar em cumprimento do estabelecido no artigo 44.º do Decreto-Lei n.º 176/2003, de 2 de Agosto.\n\n4 - O disposto nos números anteriores não prejudica o dever de os titulares das prestações, ou das pessoas/entidades a quem as mesmas são pagas, fornecerem ao ISS os elementos necessários à comprovação da situação escolar nas situações em que, excepcionalmente, tais elementos não possam ser obtidos ou suscitem dúvidas."
+  },
+  "122677688": {
+   "fragment_id": "122657710",
+   "type": 11,
+   "heading": "Artigo 2.º — Troca de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Troca de informação\n\n1 - O acesso, o tratamento e a conservação dos dados recolhidos para efeitos da presente portaria estão subordinados à legislação aplicável.\n\n2 - A forma de concretização da troca de informação entre o ISS e o Gabinete Coordenador do Sistema de Informação do Ministério da Educação consta de protocolo."
+  },
+  "122677689": {
+   "fragment_id": "122657711",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nO disposto na presente portaria aplica-se relativamente à prova anual da situação escolar referente ao ano lectivo de 2007-2008 e aos anos lectivos subsequentes."
+  },
+  "122677704": {
+   "fragment_id": "122657709",
+   "type": 11,
+   "heading": "Artigo 1.º — Prova oficiosa da situação escolar no ensino básico, secundário ou equiparado",
+   "in_force_from": "2009-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1316/2009 - Diário da República n.º 204/2009, Série I de 2009-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/1316-2009-482810), em vigor a partir de 2009-10-22",
+    "Retificado pelo/a [Declaração de Rectificação n.º 92/2007 - Diário da República n.º 199/2007, Série I de 2007-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/92-2007-642004), em vigor a partir de 2007-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Prova oficiosa da situação escolar no ensino básico, secundário ou equiparado\n\n1 - A prova anual da matrícula, da frequência escolar e do aproveitamento escolar, a que fazem referência os artigos 12.º-B e 43.º do Decreto-Lei n.º 176/2003, de 2 de Agosto, alterado pelos Decretos-Leis n.os 245/2008, de 18 de Dezembro, e 201/2009, de 28 de Agosto, relativa às prestações de abono de família para crianças e jovens e da bolsa de estudo geridas pelo Instituto da Segurança Social, I. P., adiante designado por ISS, de que sejam titulares os alunos do ensino básico e secundário, ou a estes equiparados, matriculados em estabelecimentos de ensino público, ou privado com contrato de associação, é feita oficiosamente através da troca de informação decorrente da articulação entre o ISS e o Gabinete Coordenador do Sistema de Informação do Ministério da Educação.\n\n2 - Para efeito do disposto no número anterior, o ISS comunica aos titulares de abono de família, ou às pessoas ou entidades a quem é pago, o número de identificação da segurança social dos titulares da prestação, adiante designado por NISS, o qual deve ser referenciado expressamente no respectivo acto de matrícula dos alunos.\n\n3 - Os alunos abrangidos pelo regime de prova oficiosa a que se refere o n.º 1 ficam dispensados de apresentar a prova anual da situação escolar desde que tenham referenciado o respectivo número de identificação da segurança social (NISS) no acto da matrícula.\n\n4 - O disposto nos números anteriores não prejudica o dever de os titulares das prestações, ou das pessoas/entidades a quem as mesmas são pagas, fornecerem ao ISS os elementos necessários à comprovação da situação escolar nas situações em que, excepcionalmente, tais elementos não possam ser obtidos ou suscitem dúvidas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1316/2009 - Diário da República n.º 204/2009, Série I de 2009-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/1316-2009-482810), em vigor a partir de 2009-10-22\n\n> Retificado pelo/a [Declaração de Rectificação n.º 92/2007 - Diário da República n.º 199/2007, Série I de 2007-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/92-2007-642004), em vigor a partir de 2007-09-01"
+  },
+  "122677690": {
+   "fragment_id": "122657712",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 13 de Agosto de 2007. - Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação, em 9 de Agosto de 2007."
+  },
+  "122677705": {
+   "fragment_id": "122657709",
+   "type": 11,
+   "heading": "Artigo 1.º — Prova anual da situação escolar pelo recebedor da prestação",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1316/2009 - Diário da República n.º 204/2009, Série I de 2009-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/1316-2009-482810), em vigor a partir de 2009-10-22",
+    "Retificado pelo/a [Declaração de Rectificação n.º 92/2007 - Diário da República n.º 199/2007, Série I de 2007-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/92-2007-642004), em vigor a partir de 2007-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Prova anual da situação escolar pelo recebedor da prestação\n\n1 - A prova anual da matrícula, da frequência escolar e do aproveitamento escolar, a que fazem referência os artigos 12.º-B e 43.º do Decreto-Lei n.º 176/2003, de 2 de agosto, é efetuada pelo recebedor das prestações nos termos seguintes:\n\na) Através da segurança social direta, no serviço de prova escolar disponível no sítio da Internet www.seg-social.pt, para os titulares das prestações processadas através do sistema de informação da segurança social;\n\nb) Mediante a apresentação de fotocópias simples do cartão de estudante ou de documento utilizado pelo estabelecimento de ensino ou de formação comprovativo da situação, nos termos previstos no Decreto-Lei n.º 416/93, de 24 de dezembro, para os titulares das prestações processadas fora do sistema de informação da segurança social, designadamente das prestações geridas pelos serviços processadores de remunerações da Administração Pública.\n\n2 - O controlo da prova escolar na Internet pode ser efetuado através da troca de informação decorrente da articulação entre as entidades gestoras das prestações e as entidades responsáveis pelos sistemas de informação do Ministério da Educação e da Ciência.\n\n3 - O número de identificação da segurança social (NISS) dos titulares da prestação deve ser sempre referenciado expressamente no respetivo ato de matrícula dos alunos.\n\n4 - O disposto nos números anteriores não prejudica o dever de os titulares das prestações, ou das pessoas ou entidades a quem as mesmas são pagas, fornecerem às entidades gestoras das prestações os elementos necessários à comprovação da situação escolar nas situações em que, excecionalmente, tais elementos não possam ser obtidos ou suscitem dúvidas.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1316/2009 - Diário da República n.º 204/2009, Série I de 2009-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/1316-2009-482810), em vigor a partir de 2009-10-22\n\n> Retificado pelo/a [Declaração de Rectificação n.º 92/2007 - Diário da República n.º 199/2007, Série I de 2007-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/92-2007-642004), em vigor a partir de 2007-09-01"
+  },
+  "122677706": {
+   "fragment_id": "122657710",
+   "type": 11,
+   "heading": "Artigo 2.º — Troca de informação",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Troca de informação\n\n1 - O acesso, o tratamento e a conservação dos dados recolhidos para efeitos da presente portaria estão subordinados à legislação aplicável.\n\n2 - A forma de concretização da troca de informação entre as entidades gestoras das prestações e as entidades responsáveis pelos sistemas de informação do Ministério da Educação e da Ciência consta de protocolo.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+  }
+ }
+}

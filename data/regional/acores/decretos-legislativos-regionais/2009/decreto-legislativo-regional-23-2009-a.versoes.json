@@ -1,0 +1,829 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:481970:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-884566041",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/23-2009-481970",
+ "source_lastmod": "2024-08-16",
+ "versions": [
+  {
+   "date": "2009-12-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "884566138",
+    "884566139",
+    "884566140",
+    "884566141",
+    "884566142",
+    "884566143",
+    "884566144",
+    "884566145",
+    "884566146",
+    "884566147",
+    "884566148",
+    "884566149",
+    "884566150",
+    "884566151",
+    "884566152",
+    "884566153",
+    "884566154",
+    "884566155",
+    "884566156",
+    "884566157",
+    "884566158",
+    "884566159",
+    "884566160",
+    "884566161",
+    "884566162",
+    "884566163",
+    "884566164",
+    "884566165",
+    "884566166",
+    "884566167",
+    "884566168",
+    "884566169",
+    "884566170",
+    "884566171",
+    "884566172",
+    "884566173",
+    "884566174",
+    "884567075",
+    "884567076",
+    "884567077",
+    "884567078",
+    "884567079",
+    "884567080",
+    "884567081",
+    "884567082",
+    "884567083",
+    "884567084",
+    "884567085",
+    "884567086",
+    "884567087",
+    "884567088",
+    "884567089",
+    "884567090",
+    "884567091",
+    "884567092",
+    "884567093",
+    "884567094",
+    "884567095",
+    "884567096",
+    "884567097",
+    "884567098",
+    "884567099",
+    "884567100",
+    "884567101",
+    "884567103"
+   ]
+  },
+  {
+   "date": "2026-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031450:por",
+     "title": "Decreto Legislativo Regional n.º 27/2025/A",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2025-993031450"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 42.º"
+   ],
+   "fragments": [
+    "884566138",
+    "884566139",
+    "884566140",
+    "884566141",
+    "884566142",
+    "884566143",
+    "884566144",
+    "884567385",
+    "884566146",
+    "884566147",
+    "884566148",
+    "884566149",
+    "884566150",
+    "884566151",
+    "884566152",
+    "884566153",
+    "884566154",
+    "884566155",
+    "884567386",
+    "884566157",
+    "884566158",
+    "884566159",
+    "884566160",
+    "884566161",
+    "884566162",
+    "884566163",
+    "884567387",
+    "884566165",
+    "884566166",
+    "884566167",
+    "884567388",
+    "998506146",
+    "884566170",
+    "884566171",
+    "884566172",
+    "884566173",
+    "884566174",
+    "998506147",
+    "884567076",
+    "884567390",
+    "884567078",
+    "884567391",
+    "884567392",
+    "884567081",
+    "884567082",
+    "884567083",
+    "884567393",
+    "884567085",
+    "884567086",
+    "884567087",
+    "884567088",
+    "884567089",
+    "884567090",
+    "884567394",
+    "884567092",
+    "998506148",
+    "884567094",
+    "884567095",
+    "884567096",
+    "884567097",
+    "884567098",
+    "884567099",
+    "884567100",
+    "884567101",
+    "884567102",
+    "884567395"
+   ]
+  }
+ ],
+ "fragments": {
+  "884566138": {
+   "fragment_id": "884566042",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 23/2009/A\n\nAprova o programa de acesso à habitação pela via do arrendamento, designado por Programa Famílias com Futuro\n\nConsiderando que a concretização do acesso generalizado a uma habitação condigna e adequada às expectativas de uma sociedade moderna é indissociável do direito fundamental à habitação consagrado no artigo 65.º da Constituição da República Portuguesa;\n\nConsiderando que, de acordo com o Programa do X Governo Regional dos Açores, se torna premente promover políticas habitacionais que fomentem o acesso de todos os açorianos à habitação, recorrendo, em consonância, à adopção de políticas públicas capazes de dinamizar os vários mercados associados ao sector da habitação, nomeadamente através da dinamização do mercado do arrendamento, numa perspectiva de criação e gestão eficiente do parque de arrendamento público;\n\nConsiderando que, efectivamente, a resolução de situações de grave carência habitacional poderá ser atingida através do estabelecimento de um regime de arrendamento de prédios ou de fracções autónomas, adquiridos ou construídos pela Região Autónoma dos Açores, ou de subarrendamento de prédios ou de fracções autónomas previamente arrendados por esta no mercado imobiliário;\n\nConsiderando a necessária articulação da política de habitação com a requalificação e revitalização das cidades, tendo em vista, designadamente, reabilitar o parque degradado e requalificar o ambiente urbano;\n\nConsiderando que o Estatuto Político-Administrativo da Região Autónoma dos Açores, nomeadamente no seu artigo 37.º e na alínea i) do artigo 67.º, prevê a possibilidade de a Assembleia Legislativa definir um regime especial de arrendamento urbano, tratando-se tais matérias de competência legislativa própria;\n\nAtendendo, ainda, à necessidade de dar resposta adequada a situações específicas, nomeadamente relativas a cidadãos idosos e portadores de deficiência, bem como aos jovens em busca de uma primeira habitação e às famílias sem meios para aceder ao mercado imobiliário privado:\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "884566139": {
+   "fragment_id": "884566043",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "884566140": {
+   "fragment_id": "884566044",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma aprova o regime de apoio à habitação pela via do arrendamento, designado por Programa Famílias com Futuro."
+  },
+  "884566141": {
+   "fragment_id": "884566045",
+   "type": 11,
+   "heading": "Artigo 2.º — Fins e formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fins e formas de apoio\n\nO Programa Famílias com Futuro tem em vista os seguintes fins:\n\na) A resolução de situações de grave carência habitacional, através do arrendamento de prédios ou de fracções autónomas, adquiridos ou construídos pela Região Autónoma dos Açores, ou mediante o subarrendamento de prédios ou de fracções autónomas previamente arrendados por esta no mercado imobiliário;\n\nb) O incentivo ao arrendamento de prédios ou de fracções autónomas para residência permanente, mediante a concessão de uma subvenção mensal aos arrendatários."
+  },
+  "884566142": {
+   "fragment_id": "884566046",
+   "type": 11,
+   "heading": "Artigo 3.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Destinatários\n\nO Programa Famílias com Futuro destina-se exclusivamente a cidadãos com residência permanente na Região Autónoma dos Açores há pelo menos três anos."
+  },
+  "884566143": {
+   "fragment_id": "884566047",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão e obrigações\n\n1 - O Programa Famílias com Futuro é gerido e fiscalizado pelo departamento do Governo Regional com competência em matéria de habitação.\n\n2 - Os candidatos e beneficiários do Programa Famílias com Futuro, assim como os senhorios das casas arrendadas pela Região Autónoma dos Açores e pelos beneficiários dos incentivos previstos na alínea b) do artigo 2.º do presente diploma, estão obrigados a cooperar nas acções de fiscalização efectuadas pelo departamento do Governo Regional referido no número anterior, quer na fase de instrução da candidatura quer na fase de execução do apoio, fornecendo os meios probatórios que lhes forem solicitados em ordem a avaliar do cumprimento das condições e obrigações de acesso e permanência no Programa."
+  },
+  "884566144": {
+   "fragment_id": "884566048",
+   "type": 11,
+   "heading": "Artigo 5.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dotação orçamental\n\nO montante anual das verbas a afectar ao Programa Famílias com Futuro será fixado no Plano e inscrito no Orçamento da Região Autónoma dos Açores e terá em conta os compromissos decorrentes e os anteriormente assumidos, sem prejuízo do recurso a outras fontes de financiamento comunitárias, nacionais ou regionais."
+  },
+  "884566145": {
+   "fragment_id": "884566049",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conceitos\n\n1 - Para efeitos do presente diploma e respectiva regulamentação, considera-se:\n\na) «Residência permanente» aquela onde o agregado familiar mantém, estável, o seu centro de vida e que constitui o respectivo domicílio para todos os efeitos, incluindo os fiscais;\n\nb) «Habitação» a unidade delimitada por paredes separadoras constituída pelos espaços privados nos quais se processa a vida do agregado familiar, tais como a sala, os quartos, a cozinha, as instalações sanitárias, a despensa e as varandas privativas, incluindo, no caso de edifícios em regime de propriedade horizontal, a quota-parte que lhe corresponda nas partes comuns do edifício;\n\nc) «Partes acessórias da habitação» as áreas destinadas a garagem ou lugar de estacionamento e a arrecadação ou arrumos que constituam parte integrante ou estejam afectas ao uso exclusivo da habitação e respectivos acessos;\n\nd) «Habitações devolutas» as habitações desocupadas cuja construção estivesse concluída em 18 de Novembro de 1990 ou, no caso de habitações de custos controlados, que estivesse concluída ou em curso em 31 de Dezembro de 2003, constituindo indícios de desocupação a inexistência de contratos em vigor com empresas de telecomunicações e de fornecimento de água, gás e electricidade ou a inexistência de facturação relativa a consumos de água, gás, electricidade e telecomunicações nos últimos 12 meses;\n\ne) «Pessoa com deficiência» aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60 %;\n\nf) «Tipologia adequada» aquela que, face à composição e especificidades do agregado familiar, se situe entre o mínimo e o máximo previstos no anexo do presente diploma, de modo que não se verifique sobreocupação e, sempre que possível, subocupação.\n\n2 - Para efeitos do apoio previsto na alínea a) do artigo 2.º, considera-se:\n\na) «Situação de grave carência habitacional»:\n\ni) A situação de residência permanente de agregados familiares em edificações, partes de edificações ou estruturas provisórias caracterizadas por graves deficiências de solidez, segurança, salubridade ou sobrelotação;\n\nii) As situações de alojamento urgente, definitivo ou temporário, de agregados familiares sem local para habitar, nomeadamente por destruição total ou parcial das suas habitações e demolição das edificações ou estruturas provisórias em que residiam;\n\niii) Outras situações não previstas nas subalíneas anteriores que se traduzam em situações de precariedade habitacional, assim reconhecidas por despacho do membro do Governo com competência em matéria de habitação, devidamente fundamentado;\n\nb) «Agregado familiar» o conjunto de pessoas constituído pelo arrendatário e os dependentes a seu cargo, bem como pelas seguintes pessoas que com ele vivam em comunhão de habitação:\n\ni) Cônjuge não separado judicialmente de pessoas e bens e os seus dependentes;\n\nii) Cônjuge ou ex-cônjuge, respectivamente nos casos de separação judicial de pessoas e bens ou de declaração de nulidade, anulação ou dissolução do casamento, e os dependentes a seu cargo;\n\niii) Pessoa que com o arrendatário viva em união de facto há mais de dois anos e os seus dependentes;\n\niv) Ascendentes do arrendatário, do seu cônjuge ou de pessoa que com ele viva em união de facto há mais de dois anos;\n\nc) «Dependentes» os filhos, adoptados e enteados menores não emancipados, bem como os menores sob tutela; os filhos, adoptados e enteados maiores, bem como aqueles que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos a quem incumbe a direcção do agregado familiar, que, não tendo mais de 25 anos e não auferindo anualmente rendimentos superiores à retribuição mínima mensal garantida, frequentem estabelecimento de ensino; os filhos, adoptados, enteados e os sujeitos a tutela maiores, inaptos para o trabalho e para angariar meios de subsistência, quando não aufiram rendimentos superiores à retribuição mínima mensal garantida; os ascendentes cujo rendimento mensal seja inferior à retribuição mínima mensal garantida;\n\nd) «Agregado familiar carenciado» aquele cujo rendimento anual bruto corrigido (RABC) seja inferior a três remunerações mínimas nacionais anuais (RMNA) praticadas na Região Autónoma dos Açores, observando, quanto aos conceitos de rendimento anual bruto (RAB), RABC e RMNA, as definições e os critérios estabelecidos na alínea a) do artigo 3.º e nos artigos 4.º e 5.º do Decreto-Lei n.º 158/2006, de 8 de Agosto;\n\ne) «Renda» o quantitativo devido mensalmente ao senhorio pela utilização do fogo para fins habitacionais.\n\n3 - Para efeitos do apoio previsto na alínea b) do artigo 2.º, considera-se:\n\na) «Agregado familiar» o conjunto de pessoas constituído pelo arrendatário, seu cônjuge ou pessoa que com ele viva em união de facto há mais de dois anos, seus parentes ou afins na linha recta ou até ao 3.º grau da linha colateral, ainda que paguem alguma retribuição, e bem assim as pessoas relativamente às quais, por força da lei ou de negócio jurídico que não respeite directamente à habitação, haja obrigação de convivência ou de alimentos, que com ele vivam em comunhão de habitação;\n\nb) «Jovens» aqueles que possuam idade inferior a 35 anos ou, no caso de casais de jovens não separados judicialmente de pessoas e bens ou em união de facto, aqueles cuja idade individual não ultrapasse os 35 anos;\n\nc) «Renda» o quantitativo devido mensalmente ao senhorio pela utilização do fogo para fins habitacionais;\n\nd) «Renda máxima admitida (RMA)» o valor máximo da renda estabelecida para cada zona da Região Autónoma dos Açores;\n\ne) «Taxa de esforço» o valor em percentagem resultante da relação entre o valor da renda mensal devida pela habitação e o valor correspondente à soma dos rendimentos brutos auferidos pelo candidato e por todos os membros do agregado familiar;\n\nf) «Rendimentos» as remunerações provenientes de trabalho subordinado e independente, incluindo ordenados, salários e outras remunerações do trabalho, tais como diuturnidades, horas extraordinárias e subsídios; os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos e urbanos; as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras, rendimento social de inserção, subsídio de desemprego e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória, incluindo os subsídios auferidos em razão dessas actividades, com excepção do subsídio familiar;\n\ng) «Rendimento mensal bruto (RMB)» o valor que resulte da divisão por 12 dos rendimentos auferidos, sem dedução de quaisquer encargos, por todos os elementos do agregado familiar durante o ano civil anterior ao da candidatura ou da renovação, consoante o caso, sem prejuízo do disposto nos n.os 4 e 5.\n\n4 - Tratando-se de rendimentos da categoria B do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS) enquadrados no regime simplificado, nos termos daquele Código, considera-se rendimento bruto o resultante da aplicação do coeficiente 0,20 ao valor das vendas de mercadorias e produtos, bem como aos serviços prestados no âmbito de actividades hoteleiras e similares, restauração e bebidas e ao montante dos subsídios destinados à exploração que tenha por efeito compensar reduções nos preços de venda de mercadorias e produtos, e do coeficiente de 0,70 aos restantes rendimentos provenientes desta categoria, excluindo a variação de produção.\n\n5 - Tratando-se de rendimentos da categoria B do CIRS enquadrados no regime de contabilidade organizada, nos termos daquele Código, considera-se rendimento bruto o resultado líquido do exercício apurado."
+  },
+  "884566146": {
+   "fragment_id": "884566050",
+   "type": 1,
+   "heading": "Capítulo II — Resolução de situações de grave carência habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Resolução de situações de grave carência habitacional"
+  },
+  "884566147": {
+   "fragment_id": "884566051",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "884566148": {
+   "fragment_id": "884566052",
+   "type": 11,
+   "heading": "Artigo 7.º — Formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formas de apoio\n\nPara efeitos do presente diploma, a resolução de situações de grave carência habitacional será realizada através do arrendamento de habitações adquiridas ou construídas pela Região Autónoma dos Açores ou pelo subarrendamento de habitações arrendadas no mercado imobiliário."
+  },
+  "884566149": {
+   "fragment_id": "884566053",
+   "type": 8,
+   "heading": "Secção II — Arrendamento de habitações adquiridas ou construídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Arrendamento de habitações adquiridas ou construídas"
+  },
+  "884566150": {
+   "fragment_id": "884566054",
+   "type": 11,
+   "heading": "Artigo 8.º — Selecção das habitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Selecção das habitações\n\n1 - A selecção das habitações a adquirir será realizada pela direcção regional competente em matéria de habitação, podendo os actos instrutórios respectivos ser realizados pelos serviços executivos periféricos do departamento do Governo Regional com competência na mesma matéria.\n\n2 - O valor de aquisição das habitações referidas no n.º 1 não poderá ultrapassar o que resultar da avaliação do imóvel.\n\n3 - Em regra, as habitações a adquirir devem possuir condições adequadas de habitabilidade, sem prejuízo do disposto no número seguinte.\n\n4 - Podem ser adquiridas habitações que necessitem de obras de conservação, ampliação, reconstrução ou alteração, nomeadamente por motivos de melhor adequação do imóvel aos seus beneficiários ou respectivos membros do agregado familiar, assim como para efeitos de reabilitação do parque degradado e requalificação do ambiente urbano."
+  },
+  "884566151": {
+   "fragment_id": "884566055",
+   "type": 11,
+   "heading": "Artigo 9.º — Arrendamento das habitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Arrendamento das habitações\n\n1 - As habitações adquiridas ou construídas pela Região Autónoma dos Açores, para efeitos de resolução de situações de grave carência habitacional, são arrendadas no regime de renda apoiada previsto no Decreto-Lei n.º 166/93, de 7 de Maio, aos agregados familiares que reúnam as condições de acesso previstas no presente diploma.\n\n2 - Para efeitos do número anterior, as habitações devem ter uma tipologia adequada nos termos definidos no presente diploma, podendo ser imediatamente superior se algum dos seus membros for portador de deficiência ou por motivo excepcional devidamente justificado, reconhecido por despacho do membro do Governo com competência em matéria de habitação."
+  },
+  "884566152": {
+   "fragment_id": "884566056",
+   "type": 11,
+   "heading": "Artigo 10.º — Contrato de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contrato de arrendamento\n\n1 - Aos contratos de arrendamento são aplicáveis as disposições do Novo Regime do Arrendamento Urbano (NRAU), sem prejuízo do previsto no presente diploma.\n\n2 - O contrato de arrendamento é celebrado por prazo certo e pelo período de três anos, renovando-se automaticamente, por períodos mínimos sucessivos de três anos, se outros não estiverem contratualmente previstos e se nenhuma das partes se opuser à renovação, nos termos da lei aplicável.\n\n3 - Excepcionalmente e para os fins previstos no capítulo ii do presente diploma, poderão ser celebrados contratos de arrendamento com prazo de duração inferior, quando destinados para fins especiais transitórios, nomeadamente a resolução de situações de grave carência habitacional de cariz temporário ou outras que possam ser colmatadas, por outra via, em período inferior ao estabelecido no número anterior.\n\n4 - O contrato de arrendamento é celebrado por escrito e o seu conteúdo deve observar o disposto no Decreto-Lei n.º 160/2006, de 8 de Agosto, sem prejuízo do previsto no presente diploma."
+  },
+  "884566153": {
+   "fragment_id": "884566057",
+   "type": 11,
+   "heading": "Artigo 11.º — Autorização e representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autorização e representação\n\n1 - A competência para a autorização da celebração do contrato de arrendamento e da respectiva outorga é do membro do Governo Regional competente em matéria de habitação, sem prejuízo da possibilidade de delegação para o efeito no director regional competente nesta matéria.\n\n2 - A Região Autónoma dos Açores é representada no contrato de arrendamento pelo membro do Governo Regional referido no artigo anterior, sem prejuízo da possibilidade de delegação."
+  },
+  "884566154": {
+   "fragment_id": "884566058",
+   "type": 8,
+   "heading": "Secção III — Subarrendamento de habitações arrendadas no mercado imobiliário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Subarrendamento de habitações arrendadas no mercado imobiliário"
+  },
+  "884566155": {
+   "fragment_id": "884566059",
+   "type": 3,
+   "heading": "Subsecção I — Arrendamento de habitações pela Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Arrendamento de habitações pela Região Autónoma dos Açores"
+  },
+  "884566156": {
+   "fragment_id": "884566060",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime e procedimentos\n\n1 - As habitações a tomar de arrendamento pela Região Autónoma dos Açores são disponibilizadas aos agregados familiares que reúnam as condições de acesso previstas no presente diploma, mediante contrato de subarrendamento.\n\n2 - O arrendamento mencionado no número anterior poderá ser realizado independentemente de procedimento de consulta prévia ao mercado imobiliário.\n\n3 - A selecção das habitações a arrendar será realizada pela direcção regional competente em matéria de habitação, podendo os actos instrutórios respectivos ser realizados pelos serviços executivos periféricos do departamento do Governo Regional com competência na mesma matéria.\n\n4 - Os valores máximos de renda por metro quadrado são fixados em regulamento."
+  },
+  "884566157": {
+   "fragment_id": "884566061",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato de arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato de arrendamento\n\n1 - Aos contratos de arrendamento previstos na presente secção são aplicáveis as disposições do NRAU, sem prejuízo do previsto no presente diploma.\n\n2 - O contrato de arrendamento pode ser celebrado por prazo certo ou por duração indeterminada.\n\n3 - O contrato de arrendamento por prazo certo é celebrado pelo período de três anos, renovando-se automaticamente, por períodos mínimos sucessivos de três anos, se outros não estiverem contratualmente previstos e se nenhuma das partes se opuser à renovação, nos termos da lei aplicável.\n\n4 - O contrato de arrendamento é celebrado por escrito e o seu conteúdo deve observar o disposto no Decreto-Lei n.º 160/2006, de 8 de Agosto, sem prejuízo do previsto no presente diploma.\n\n5 - Do contrato de arrendamento deve constar, obrigatoriamente, a autorização do senhorio para o subarrendamento da habitação a agregados familiares seleccionados ao abrigo do presente diploma."
+  },
+  "884566158": {
+   "fragment_id": "884566062",
+   "type": 3,
+   "heading": "Subsecção II — Subarrendamento de habitações pela Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Subarrendamento de habitações pela Região Autónoma dos Açores"
+  },
+  "884566159": {
+   "fragment_id": "884566063",
+   "type": 11,
+   "heading": "Artigo 14.º — Tipologia das habitações a subarrendar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tipologia das habitações a subarrendar\n\nAs habitações a subarrendar devem ter uma tipologia adequada nos termos definidos no presente diploma, podendo ser imediatamente superior se algum dos seus membros for portador de deficiência ou por motivo devidamente justificado, reconhecido por despacho do membro do Governo com competência em matéria de habitação."
+  },
+  "884566160": {
+   "fragment_id": "884566064",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de subarrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato de subarrendamento\n\n1 - Os contratos de subarrendamento previstos na presente secção regem-se pelo NRAU e pelo Código Civil, sendo-lhes igualmente aplicável o regime de renda apoiada previsto no Decreto-Lei n.º 166/93, de 7 de Maio, com as necessárias adaptações, sem prejuízo do previsto no presente diploma.\n\n2 - O contrato de subarrendamento é celebrado por prazo certo e pelo período de três anos, renovando-se automaticamente nos termos da lei aplicável, se nenhuma das partes se opuser à renovação.\n\n3 - Excepcionalmente e para os fins previstos no capítulo ii do presente diploma, poderão ser celebrados contratos de subarrendamento com prazo de duração inferior, quando destinados a fins especiais transitórios, nomeadamente a resolução de situações de grave carência habitacional de cariz temporário ou outras que possam ser colmatadas, por outra via, em período inferior ao estabelecido no número anterior.\n\n4 - O contrato de subarrendamento é celebrado por escrito e o seu conteúdo deve observar o disposto no Decreto-Lei n.º 160/2006, de 8 de Agosto.\n\n5 - Do contrato deve constar o consentimento do subarrendatário à sua transferência e do respectivo agregado familiar para outra habitação, a disponibilizar, em regime de arrendamento ou de subarrendamento, pela Região Autónoma dos Açores.\n\n6 - Se o contrato de subarrendamento caducar antes do termo do prazo, por extinção do contrato de arrendamento, a Região Autónoma dos Açores fica obrigada a garantir ao subarrendatário nova habitação, desde que o motivo da extinção não seja imputável àquele.\n\n7 - O referido no número anterior é concretizado mediante a celebração de um novo contrato de arrendamento ou de subarrendamento."
+  },
+  "884566161": {
+   "fragment_id": "884566065",
+   "type": 11,
+   "heading": "Artigo 16.º — Renda devida pelos subarrendatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Renda devida pelos subarrendatários\n\nOs subarrendatários pagarão à Região Autónoma dos Açores, a título de renda, um valor calculado nos mesmos termos que o previsto na secção ii do presente capítulo para os arrendatários, até ao limite máximo do valor da renda que é paga ao senhorio."
+  },
+  "884566162": {
+   "fragment_id": "884566066",
+   "type": 11,
+   "heading": "Artigo 17.º — Autorização e representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Autorização e representação\n\nAos contratos de arrendamento e de subarrendamento a que se refere a presente secção é aplicável o disposto no artigo 11.º"
+  },
+  "884566163": {
+   "fragment_id": "884566067",
+   "type": 8,
+   "heading": "Secção IV — Acesso, candidatura, instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Acesso, candidatura, instrução e decisão"
+  },
+  "884566164": {
+   "fragment_id": "884566068",
+   "type": 11,
+   "heading": "Artigo 18.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Condições de acesso\n\n1 - O acesso ao apoio previsto no presente capítulo depende da verificação cumulativa das seguintes condições:\n\na) Ser considerado agregado familiar em situação de grave carência habitacional;\n\nb) Ser considerado agregado familiar carenciado;\n\nc) Nenhum dos membros do agregado familiar deter, a qualquer título, outra habitação que possa satisfazer as necessidades habitacionais do agregado;\n\nd) Nenhum dos membros do agregado familiar estar a usufruir de apoios públicos para fins exclusivamente habitacionais, excepto se o apoio se justificar por constituição de novo agregado familiar ou para resolução provisória e urgente da situação habitacional do agregado.\n\n2 - Sem prejuízo da responsabilidade criminal, a prestação de falsas declarações, de forma expressa ou por omissão, ou a falsificação de documentos constitui causa de exclusão da candidatura ou de resolução do contrato, se este já tiver sido celebrado.\n\n3 - Quando, nos termos do número anterior, haja lugar à exclusão da candidatura ou à resolução do contrato, o candidato ou contraente beneficiário fica impedido de se candidatar, nessa ou noutra qualidade, a qualquer programa de apoio à habitação promovido pela Região Autónoma dos Açores durante o período de três anos.\n\n4 - Se, por facto superveniente à candidatura e decisão da mesma, o agregado familiar deixar de reunir as condições de acesso ao apoio previsto no capítulo ii do presente diploma, cessa, de imediato, o contrato de arrendamento ou subarrendamento celebrado com a Região Autónoma dos Açores.\n\n5 - O prazo fixado no artigo 3.º do presente diploma poderá ser reduzido, por despacho devidamente fundamentado do membro do Governo com competência em matéria de habitação."
+  },
+  "884566165": {
+   "fragment_id": "884566069",
+   "type": 11,
+   "heading": "Artigo 19.º — Forma da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Forma da candidatura\n\n1 - A candidatura inicia-se a requerimento dos interessados, mediante a apresentação de formulário próprio, a aprovar nos termos previstos no presente diploma.\n\n2 - Os documentos e os elementos necessários à formalização da candidatura, os serviços onde as mesmas deverão ser apresentadas e respectivos períodos de candidatura são fixados em regulamento."
+  },
+  "884566166": {
+   "fragment_id": "884566070",
+   "type": 11,
+   "heading": "Artigo 20.º — Instrução da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Instrução da candidatura\n\n1 - O processo de candidatura é instruído pela direcção regional competente em matéria de habitação ou por despacho do membro do Governo com competência em matéria de habitação, pelos serviços executivos periféricos do departamento do Governo Regional com competência na mesma matéria.\n\n2 - A instrução cabe ao director regional com competência em matéria de habitação, com poderes de delegação.\n\n3 - A instrução compreende o conjunto de diligências necessárias à verificação da conformidade da candidatura e da sua admissibilidade, a qual deverá ser concluída no prazo de 60 dias úteis a contar da data de apresentação do formulário de candidatura."
+  },
+  "884566167": {
+   "fragment_id": "884566071",
+   "type": 11,
+   "heading": "Artigo 21.º — Diligências instrutórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Diligências instrutórias\n\n1 - Na fase de instrução das candidaturas, o serviço instrutor promoverá as diligências necessárias para aferir da elegibilidade da candidatura.\n\n2 - Para efeitos do disposto no número anterior, deve ser fixado um prazo não inferior a 10 dias úteis, a contar da data da notificação, para os candidatos apresentarem os elementos que lhes forem solicitados.\n\n3 - A não observância do disposto no número anterior determina a exclusão da candidatura.\n\n4 - Todos os actos instrutórios realizados são registados e arquivados no processo do candidato a que digam respeito."
+  },
+  "884566168": {
+   "fragment_id": "884566072",
+   "type": 11,
+   "heading": "Artigo 22.º — Prioridades de instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prioridades de instrução\n\n1 - São prioritariamente instruídos os processos de candidatura que configurem situações de maior gravidade, designadamente:\n\na) Agregados familiares sem local para habitar;\n\nb) Agregados familiares que tenham de ser desalojados em virtude de o local habitado não oferecer condições mínimas de segurança ou de salubridade;\n\nc) Agregados familiares que incluam pessoas com deficiência ou acamados;\n\nd) Agregados familiares que incluam crianças com idade igual ou inferior a 10 anos;\n\ne) Agregados familiares que incluam idosos;\n\nf) Os casos em que, por motivos de violência doméstica, seja considerado urgente o realojamento.\n\n2 - O estabelecido no número anterior, conjugado com o disposto no artigo 5.º, implica que:\n\na) A análise e decisão das candidaturas é feita de acordo com a gravidade da situação habitacional do candidato e respectivo agregado familiar e não por ordem cronológica da apresentação da candidatura;\n\nb) A decisão de admissão da candidatura fica suspensa até que estejam reunidas as condições para que aquela seja proferida, sem prejuízo do disposto nos números seguintes e nos artigos 110.º e 112.º do Código do Procedimento Administrativo.\n\n3 - Os candidatos devem ser notificados da suspensão referida na alínea b) do n.º 2 do presente artigo.\n\n4 - Se, por virtude da suspensão mencionada no número anterior, for ultrapassado o ano civil relevante no que concerne aos documentos apresentados em sede de candidatura, a decisão sobre admissibilidade da mesma deverá ser precedida da actualização dos documentos que se afigurem necessários para o efeito."
+  },
+  "884566169": {
+   "fragment_id": "884566073",
+   "type": 11,
+   "heading": "Artigo 23.º — Projecto de decisão, audiência prévia e relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Projecto de decisão, audiência prévia e relatório final\n\nConcluída a instrução, o serviço instrutor elabora um projecto de decisão fundamentado, observando-se o disposto nos artigos 100.º e seguintes do Código do Procedimento Administrativo quanto à audiência dos interessados."
+  },
+  "884566170": {
+   "fragment_id": "884566074",
+   "type": 11,
+   "heading": "Artigo 24.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Decisão\n\n1 - O processo de candidatura, acompanhado pelo projecto de decisão e de relatório final elaborado pelo serviço instrutor, que proceda à ponderação das observações que eventualmente forem formuladas em sede de audiência prévia, é submetido a decisão do membro do Governo Regional com competência em matéria de habitação.\n\n2 - A decisão deverá ser notificada ao candidato, contendo os elementos necessários para que o interessado fique a conhecer todos os aspectos relevantes da mesma."
+  },
+  "884566171": {
+   "fragment_id": "884566975",
+   "type": 11,
+   "heading": "Artigo 25.º — Exclusão e resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Exclusão e resolução do contrato\n\n1 - São excluídos os candidatos admitidos que não aceitem, expressa ou tacitamente, sem justificação atendível, a habitação que lhes foi destinada ou que, sem justo impedimento, não compareçam ao acto de outorga do contrato de arrendamento ou de subarrendamento.\n\n2 - Os contratos de arrendamento e subarrendamento previstos nas secções ii e iii do presente capítulo serão resolvidos nos termos previstos no NRAU, sem prejuízo do disposto no número seguinte.\n\n3 - No caso de a resolução do contrato se fundamentar na falta de pagamento de renda, haverá, ainda, lugar ao pagamento dos valores em falta, acrescidos de juros de mora à taxa legal em vigor, sem prejuízo de outras sanções legalmente aplicáveis ao caso.\n\n4 - Os candidatos excluídos nos termos do n.º 1 ficam impedidos de aceder, nessa ou noutra qualidade, ao apoio previsto na alínea a) do artigo 2.º do presente diploma pelo período de dois anos.\n\n5 - Os beneficiários cujo contrato seja resolvido nos termos do n.º 2 poderão ser impedidos de aceder, nessa ou noutra qualidade, ao apoio previsto na alínea a) do artigo 2.º do presente diploma pelo período de dois anos, por decisão do membro do Governo Regional com competência em matéria de habitação, atenta a gravidade dos factos praticados."
+  },
+  "884566172": {
+   "fragment_id": "884566976",
+   "type": 11,
+   "heading": "Artigo 26.º — Cumulação de subsídios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cumulação de subsídios\n\nSem prescindir do disposto na alínea d) do n.º 1 do artigo 18.º do presente diploma, o apoio previsto no capítulo ii não é cumulável com qualquer outro de idêntica natureza ou finalidade."
+  },
+  "884566173": {
+   "fragment_id": "884566977",
+   "type": 1,
+   "heading": "Capítulo III — Incentivo ao arrendamento de prédios ou de fracções autónomas para residência permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Incentivo ao arrendamento de prédios ou de fracções autónomas para residência permanente"
+  },
+  "884566174": {
+   "fragment_id": "884566978",
+   "type": 8,
+   "heading": "Secção I — Modelo do apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Modelo do apoio financeiro"
+  },
+  "884567075": {
+   "fragment_id": "884566979",
+   "type": 11,
+   "heading": "Artigo 27.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Apoio financeiro\n\n1 - O apoio financeiro ao arrendamento de prédios ou de fracções autónomas para residência permanente é concedido sob a forma de subvenção mensal, não reembolsável, aos agregados familiares que reúnam as condições de acesso previstas no presente diploma, pelo período de um ano, podendo ser renovado por igual período, até ao máximo de quatro renovações consecutivas.\n\n2 - Atingido o termo do contrato referido no número anterior, deverá dar-se início a uma nova candidatura.\n\n3 - A subvenção mensal corresponde a uma percentagem do valor da renda.\n\n4 - O modelo do apoio financeiro, incluindo os escalões, percentagens e majorações admissíveis a aplicar ao valor da renda, é fixado em regulamento."
+  },
+  "884567076": {
+   "fragment_id": "884566980",
+   "type": 8,
+   "heading": "Secção II — Acesso, candidatura, instrução e aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Acesso, candidatura, instrução e aprovação"
+  },
+  "884567077": {
+   "fragment_id": "884566981",
+   "type": 11,
+   "heading": "Artigo 28.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Condições de acesso\n\n1 - O acesso ao apoio previsto no presente capítulo depende da verificação cumulativa das seguintes condições à data da apresentação da candidatura:\n\na) Ter o candidato e os membros do agregado familiar residência permanente na habitação a que se refere a candidatura;\n\nb) Não ser o candidato ou os membros do agregado familiar proprietários ou arrendatários de outro prédio ou fracção autónoma destinados à habitação;\n\nc) Não ser o candidato ou os membros do agregado familiar parentes ou afins do senhorio na linha recta ou na linha colateral;\n\nd) Não estar o candidato ou os membros do agregado familiar a usufruir de apoios públicos para fins exclusivamente habitacionais, excepto se o apoio se justificar por constituição de novo agregado familiar;\n\ne) Não ser o RMB do candidato e do agregado familiar respectivo inferior a uma vez, nem superior a quatro vezes, o valor da renda máxima admitida;\n\nf) A soma dos rendimentos brutos auferidos pelo candidato e por todos os membros do agregado familiar ser compatível com uma taxa de esforço máxima de 60 %;\n\ng) Ser titular de contrato de arrendamento celebrado ao abrigo do NRAU, constante do título i da Lei n.º 6/2006, de 27 de Fevereiro, ou do regime transitório previsto no seu título ii do capítulo i;\n\nh) Apresentar uma renda até ao limite do valor da RMA na zona onde se localiza a habitação, nos termos a fixar em regulamento;\n\ni) Ser a habitação de tipologia adequada à composição do agregado familiar, nos termos definidos no presente diploma.\n\n2 - A tipologia da habitação para cujo arrendamento é concedida a subvenção pode ser a imediatamente superior à prevista na alínea i) do número anterior se o candidato ou algum membro do agregado familiar for portador de deficiência ou por motivo devidamente justificado, reconhecido por despacho do membro do Governo com competência em matéria de habitação.\n\n3 - Sem prejuízo da responsabilidade criminal, a prestação de falsas declarações, de forma expressa ou por omissão, e a falsificação de documentos constitui causa de exclusão da candidatura.\n\n4 - Quando haja lugar à exclusão da candidatura nos termos do número anterior, o candidato fica impedido de se candidatar, nessa ou noutra qualidade, a qualquer programa de apoio à habitação promovido pela Região Autónoma dos Açores durante o período de três anos."
+  },
+  "884567078": {
+   "fragment_id": "884566982",
+   "type": 11,
+   "heading": "Artigo 29.º — Forma e períodos de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Forma e períodos de candidatura\n\n1 - A candidatura inicia-se a requerimento dos interessados, mediante a apresentação de formulário próprio, a aprovar nos termos previstos no presente diploma.\n\n2 - Os documentos e os elementos necessários à formalização da candidatura, os serviços onde as mesmas deverão ser apresentadas e respectivos períodos de candidatura são fixados em regulamento."
+  },
+  "884567079": {
+   "fragment_id": "884566983",
+   "type": 11,
+   "heading": "Artigo 30.º — Hierarquização das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Hierarquização das candidaturas\n\n1 - As candidaturas são aprovadas, de acordo com uma determinada ordem de precedência, até ao limite das verbas fixado para cada período de candidatura.\n\n2 - As candidaturas são hierarquizadas por ordem decrescente das pontuações finais resultantes do somatório das pontuações parciais atribuídas.\n\n3 - Os critérios de hierarquização e a respectiva pontuação, bem como os critérios de desempate em caso de igualdade de pontuação, são fixados em regulamento."
+  },
+  "884567080": {
+   "fragment_id": "884566984",
+   "type": 11,
+   "heading": "Artigo 31.º — Exclusão de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Exclusão de candidaturas\n\nSem prejuízo do disposto no n.º 3 do artigo 28.º, são excluídas as candidaturas:\n\na) Cujos candidatos não reúnam as condições de acesso previstas no presente diploma;\n\nb) Que sejam entregues após o termo do prazo fixado para a sua apresentação;\n\nc) Que não estejam instruídas com todos os documentos e elementos exigidos;\n\nd) Cujos candidatos não respondam adequada e atempadamente aos pedidos formulados pela entidade instrutora do processo, nomeadamente pedidos de informação e de esclarecimento."
+  },
+  "884567081": {
+   "fragment_id": "884566985",
+   "type": 11,
+   "heading": "Artigo 32.º — Instrução das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Instrução das candidaturas\n\n1 - À instrução do processo de candidatura é aplicável o disposto nos n.os 1 e 2 do artigo 20.º e nos n.os 1 e 4 do artigo 21.º, com as necessárias adaptações.\n\n2 - A instrução compreende o conjunto de diligências necessárias à verificação da conformidade, admissibilidade e hierarquização das candidaturas.\n\n3 - A instrução deve ser concluída no prazo de 60 dias úteis a contar do termo do período fixado para a apresentação de candidaturas.\n\n4 - O prazo para os candidatos apresentarem provas, documentos, informações e esclarecimentos que lhes forem solicitados é de 10 dias úteis a contar da data da notificação."
+  },
+  "884567082": {
+   "fragment_id": "884566986",
+   "type": 11,
+   "heading": "Artigo 33.º — Relatório de apreciação e audiência prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Relatório de apreciação e audiência prévia\n\n1 - Concluída a instrução, o órgão instrutor elabora um relatório de apreciação das candidaturas, ao qual são anexadas as seguintes listas:\n\na) Lista dos candidatos excluídos, com a indicação sumária dos fundamentos que estiveram na base da exclusão;\n\nb) Lista dos candidatos admitidos, ordenados de acordo com a pontuação obtida, com a indicação desta e da respectiva subvenção mensal.\n\n2 - As listas são afixadas no local ou nos locais de estilo do departamento do Governo Regional com competência em matéria de habitação, disponibilizadas no portal do Governo Regional www.azores.gov.pt e publicadas, pelo menos, num jornal de âmbito regional, fazendo-se menção das horas e do local onde pode ser consultado ou obtido o relatório de apreciação das candidaturas.\n\n3 - Os candidatos dispõem do prazo de 10 dias úteis, a contar do dia seguinte ao da publicação das listas no referido órgão de imprensa escrita, para virem dizer, por escrito, o que se lhes oferecer sobre o relatório e as listas referidas no número anterior.\n\n4 - O órgão instrutor pondera as observações que forem formuladas e elabora o relatório final de apreciação das candidaturas e as listas definitivas."
+  },
+  "884567083": {
+   "fragment_id": "884566987",
+   "type": 11,
+   "heading": "Artigo 34.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Aprovação\n\n1 - O relatório final de apreciação das candidaturas e as listas definitivas são submetidos à aprovação do membro do Governo Regional com competência em matéria de habitação.\n\n2 - Proferido o despacho de aprovação, observar-se-á o disposto no n.º 2 do artigo 33.º, com as necessárias adaptações."
+  },
+  "884567084": {
+   "fragment_id": "884566988",
+   "type": 11,
+   "heading": "Artigo 35.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Duração\n\n1 - O apoio financeiro previsto no capítulo iii do presente diploma é devido a partir do mês seguinte ao da publicação das listas definitivas das candidaturas aprovadas, nos termos previstos no artigo anterior.\n\n2 - O apoio financeiro referido no número anterior é pago trimestralmente aos respectivos titulares ou aos seus representantes legais, podendo, ainda, ser pago às pessoas ou entidades que prestem assistência aos titulares do direito, desde que sejam consideradas idóneas pelo departamento do Governo Regional com competência em matéria de habitação, quando os respectivos titulares:\n\na) Sejam incapazes e se encontrem a aguardar a nomeação do respectivo representante legal;\n\nb) Se encontrem impossibilitados de modo temporário ou permanente de receber a prestação, por motivos de doença, ou se encontrem internados temporariamente em estabelecimentos de apoio social ou equiparados.\n\n3 - O pagamento referido no número anterior é efectuado através de transferência bancária nos termos a definir em regulamento, salvo se for indicada outra forma de pagamento."
+  },
+  "884567085": {
+   "fragment_id": "884566989",
+   "type": 11,
+   "heading": "Artigo 36.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Caducidade\n\n1 - O direito ao apoio financeiro previsto no capítulo iii do presente diploma caduca por morte do titular, salvo no caso de transmissão do arrendamento para quem reúna os pressupostos do referido apoio, nos termos previstos no NRAU e no presente diploma.\n\n2 - No caso previsto no número anterior, se a posição contratual se transmitir para quem reúna os pressupostos para a manutenção do apoio financeiro referido no n.º 1, o transmissário comunica este facto à direcção regional com competência em matéria de habitação, no prazo de 15 dias a contar da data da ocorrência do mesmo, sob pena de caducidade do apoio.\n\n3 - Para efeitos do disposto no número anterior, segue-se o procedimento de atribuição do apoio financeiro ao arrendamento de prédios ou de fracções autónomas para residência permanente, previsto nos artigos 27.º e seguintes do presente diploma, com as devidas adaptações.\n\n4 - Findo o procedimento previsto no número anterior, caso o transmissário não reúna os pressupostos do apoio referido no n.º 1, haverá lugar à restituição das importâncias indevidamente recebidas, nos termos legalmente previstos."
+  },
+  "884567086": {
+   "fragment_id": "884566990",
+   "type": 8,
+   "heading": "Secção III — Renovações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Renovações"
+  },
+  "884567087": {
+   "fragment_id": "884566991",
+   "type": 11,
+   "heading": "Artigo 37.º — Condições de renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Condições de renovação\n\n1 - A renovação do apoio financeiro concedido ao abrigo do capítulo iii do presente diploma depende do cumprimento pelos beneficiários das condições de acesso referidas no artigo 28.º, salvo da prevista na alínea f) do n.º 1 desse mesmo artigo.\n\n2 - O cumprimento das condições referidas no n.º 1 é avaliado à data da apresentação do pedido de renovação."
+  },
+  "884567088": {
+   "fragment_id": "884566992",
+   "type": 11,
+   "heading": "Artigo 38.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Procedimentos\n\n1 - Ao pedido de renovação do apoio financeiro é aplicável o disposto nos artigos 29.º e 31.º e nos n.os 1, 2, com excepção da última parte, e 4 do artigo 32.º\n\n2 - Os documentos e os elementos necessários à formalização do pedido de renovação, bem como o período para a sua apresentação, são fixados em regulamento.\n\n3 - A instrução deve ser concluída no prazo de 15 dias úteis, a contar do termo do período fixado para a apresentação do pedido de renovação, o qual pode ser prorrogado até ao limite máximo de 15 dias úteis.\n\n4 - Concluída a instrução, o órgão instrutor elabora um relatório de apreciação das candidaturas, ao qual são anexadas as seguintes listas:\n\na) Lista dos candidatos cujos pedidos de renovação foram excluídos, com a indicação sumária dos fundamentos que estiveram na base da exclusão;\n\nb) Lista dos candidatos cujos pedidos de renovação foram admitidos, com a indicação da subvenção mensal a pagar no período da renovação.\n\n5 - As listas são afixadas no local ou nos locais de estilo do departamento do Governo Regional com competência em matéria de habitação, disponibilizadas no portal do Governo Regional www.azores.gov.pt e publicadas, pelo menos, num jornal de âmbito regional, fazendo-se menção das horas e do local onde pode ser consultado ou obtido o relatório de apreciação das candidaturas.\n\n6 - Os candidatos dispõem do prazo de 10 dias úteis, a contar do dia seguinte ao da publicação das listas no referido órgão de imprensa escrita, para virem dizer, por escrito, o que se lhes oferecer.\n\n7 - O órgão instrutor pondera as observações que forem formuladas nos termos do número anterior e elabora o relatório final de apreciação das candidaturas, bem como as listas definitivas, submetendo-os à aprovação do membro do Governo Regional com competência em matéria de habitação.\n\n8 - Proferido o despacho de aprovação, observar-se-á o disposto no n.º 5 do presente artigo, com as necessárias adaptações."
+  },
+  "884567089": {
+   "fragment_id": "884566993",
+   "type": 11,
+   "heading": "Artigo 39.º — Mudança de escalão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Mudança de escalão\n\nSempre que, no âmbito do processo de renovação do apoio financeiro previsto no capítulo iii do presente diploma, se verifique existir alteração da pontuação que determine a aplicação de escalão diferente do anterior, a subvenção mensal a pagar no período da renovação é calculada com base na percentagem correspondente ao novo escalão."
+  },
+  "884567090": {
+   "fragment_id": "884566994",
+   "type": 8,
+   "heading": "Secção IV — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Fiscalização"
+  },
+  "884567091": {
+   "fragment_id": "884566995",
+   "type": 11,
+   "heading": "Artigo 40.º — Verificação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Verificação e fiscalização\n\n1 - Os titulares do apoio financeiro previsto no presente capítulo estão sujeitos à verificação pela direcção regional competente em matéria de habitação ou pelos serviços executivos periféricos do departamento do Governo Regional com competência na mesma matéria, do cumprimento das condições e dos deveres a que se vinculam para efeito de atribuição do apoio financeiro, designadamente quanto à entrega de elementos ou documentos e ao respeito pelas condições de acesso e de permanência no Programa, nomeadamente o pagamento da renda.\n\n2 - O titular do direito ao apoio financeiro previsto no número anterior deverá comunicar à direcção regional com competência em matéria de habitação qualquer alteração dos pressupostos de atribuição do mesmo.\n\n3 - O apoio financeiro previsto no presente capítulo cessa, com efeitos imediatos, se, por facto superveniente à candidatura e decisão da mesma, o titular do apoio deixar de reunir as condições de acesso ao mesmo."
+  },
+  "884567092": {
+   "fragment_id": "884566996",
+   "type": 11,
+   "heading": "Artigo 41.º — Suspensão e cessação do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Suspensão e cessação do apoio\n\n1 - No exercício das suas competências de gestão do Programa, o departamento do Governo Regional com competência em matéria de habitação pode suspender a atribuição do apoio financeiro, sempre que verifique existirem fundados indícios da prática de actos ou omissões por parte dos beneficiários contrários ao disposto no presente diploma.\n\n2 - A comprovação pelos beneficiários da regularidade do cumprimento das obrigações determina o reinício do processo de atribuição da subvenção e o pagamento dos valores relativos ao período da suspensão.\n\n3 - A não apresentação da prova a que se refere o número anterior no prazo de 20 dias úteis a contar da data de recepção da notificação para o efeito determina a imediata cessação da atribuição do apoio financeiro, bem como, se aplicável, o previsto no n.º 5.\n\n4 - O departamento do Governo Regional referido no n.º 1 pode ainda fazer cessar o apoio financeiro, sempre que se verifique:\n\na) A falsificação de documentos ou a prestação de falsas declarações, quer na fase de candidatura quer na fase de execução do apoio, nomeadamente por omissão de factos ou dados relevantes para efeito de atribuição, manutenção ou alteração do apoio financeiro;\n\nb) A prática de acto ou omissão que constitua o senhorio no direito de resolver o contrato de arrendamento, nomeadamente a mora no pagamento da renda.\n\n5 - No caso em que se comprove a existência de actos ou omissões, por parte dos beneficiários, contrários ao disposto no presente diploma, haverá, ainda, lugar à devolução dos montantes recebidos a esse título desde a prática do acto ou omissão, acrescidos de juros de mora à taxa legal em vigor, sem prejuízo de outras sanções legalmente aplicáveis ao caso.\n\n6 - Quando haja lugar à cessação do apoio financeiro nos termos da alínea a) do n.º 4, os beneficiários faltosos ficam impedidos de se candidatar, nessa ou noutra qualidade, ao presente programa de incentivo ao arrendamento promovido pela Região Autónoma dos Açores durante o período de três anos."
+  },
+  "884567093": {
+   "fragment_id": "884566997",
+   "type": 11,
+   "heading": "Artigo 42.º — Cumulação de subsídios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Cumulação de subsídios\n\nSem prescindir do disposto na alínea d) do n.º 1 do artigo 28.º do presente diploma, o apoio previsto no capítulo iii não é cumulável com qualquer outro de idêntica natureza ou finalidade."
+  },
+  "884567094": {
+   "fragment_id": "884566998",
+   "type": 1,
+   "heading": "Capítulo IV — Plataforma informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Plataforma informática"
+  },
+  "884567095": {
+   "fragment_id": "884566999",
+   "type": 11,
+   "heading": "Artigo 43.º — Plataforma informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Plataforma informática\n\n1 - A gestão da informação do Programa, incluindo a respectiva tramitação processual, poderá ser efectuada através de uma plataforma informática criada para o efeito, nos termos a fixar por decreto regulamentar regional, o qual incluirá a constituição de uma base de dados, atenta a legislação aplicável.\n\n2 - A plataforma informática tem por finalidade organizar e manter actualizada a informação das candidaturas para efeitos de concessão dos apoios financeiros previstos no Programa Famílias com Futuro."
+  },
+  "884567096": {
+   "fragment_id": "884567000",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "884567097": {
+   "fragment_id": "884567001",
+   "type": 11,
+   "heading": "Artigo 44.º — Modelos dos formulários de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Modelos dos formulários de candidatura\n\nOs formulários de candidatura previstos nos artigos 19.º e 29.º do presente diploma são aprovados por despacho do membro do Governo Regional competente em matéria de habitação, o qual fixará, nomeadamente, o respectivo modelo, suporte, formato e meio de disponibilização/submissão/transmissão."
+  },
+  "884567098": {
+   "fragment_id": "884567002",
+   "type": 11,
+   "heading": "Artigo 45.º — Ano civil relevante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Ano civil relevante\n\nPara efeitos dos apoios previstos no presente diploma, a retribuição mínima nacional anual praticada na Região Autónoma dos Açores e os factores de correcção do rendimento anual bruto relevantes, entre os quais o agregado familiar, são aqueles que existem no ano civil anterior à data da apresentação da candidatura."
+  },
+  "884567099": {
+   "fragment_id": "884567003",
+   "type": 11,
+   "heading": "Artigo 46.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Regulamentação\n\n1 - Os regulamentos previstos no presente diploma são aprovados por portaria conjunta dos membros do Governo Regional competentes em matéria de finanças e de habitação.\n\n2 - As portarias referidas no n.º 1, bem como o despacho referido no artigo 44.º, são aprovadas no prazo de 30 dias a contar da publicação do presente diploma."
+  },
+  "884567100": {
+   "fragment_id": "884567004",
+   "type": 11,
+   "heading": "Artigo 47.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Norma revogatória\n\n1 - São revogados o capítulo vii do Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto, e o Decreto Legislativo Regional n.º 47/2006/A, de 23 de Novembro.\n\n2 - Mantêm-se em vigor os apoios que tenham sido atribuídos ao abrigo do Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto, com todos os direitos e obrigações nele previstos."
+  },
+  "884567101": {
+   "fragment_id": "884567005",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da publicação das portarias referidas no n.º 1 do artigo 46.º"
+  },
+  "884567103": {
+   "fragment_id": "884567007",
+   "type": 14,
+   "heading": "Anexo — [a que se refere a alínea f) do n.º 1 do artigo 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — [a que se refere a alínea f) do n.º 1 do artigo 6.º]\n\n(ver documento original)"
+  },
+  "884567385": {
+   "fragment_id": "884566049",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 6.º — Conceitos\n\n1 - Para efeitos do presente diploma e respectiva regulamentação, considera-se:\n\na) «Residência permanente» aquela onde o agregado familiar mantém, estável, o seu centro de vida e que constitui o respectivo domicílio para todos os efeitos, incluindo os fiscais;\n\nb) «Habitação» a unidade delimitada por paredes separadoras constituída pelos espaços privados nos quais se processa a vida do agregado familiar, tais como a sala, os quartos, a cozinha, as instalações sanitárias, a despensa e as varandas privativas, incluindo, no caso de edifícios em regime de propriedade horizontal, a quota-parte que lhe corresponda nas partes comuns do edifício;\n\nc) «Partes acessórias da habitação» as áreas destinadas a garagem ou lugar de estacionamento e a arrecadação ou arrumos que constituam parte integrante ou estejam afectas ao uso exclusivo da habitação e respectivos acessos;\n\nd) «Habitações devolutas» as habitações desocupadas cuja construção estivesse concluída em 18 de Novembro de 1990 ou, no caso de habitações de custos controlados, que estivesse concluída ou em curso em 31 de Dezembro de 2003, constituindo indícios de desocupação a inexistência de contratos em vigor com empresas de telecomunicações e de fornecimento de água, gás e electricidade ou a inexistência de facturação relativa a consumos de água, gás, electricidade e telecomunicações nos últimos 12 meses;\n\ne) «Pessoa com deficiência» aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60 %;\n\nf) «Tipologia adequada» aquela que, face à composição e especificidades do agregado familiar, se situe entre o mínimo e o máximo previstos na tabela I do anexo ao presente diploma, de modo que não se verifique sobreocupação e, sempre que possível, subocupação;\n\ng) «Rendimentos» as remunerações provenientes de trabalho subordinado e independente, incluindo ordenados, salários e outras remunerações do trabalho, tais como diuturnidades, horas extraordinárias e subsídios; os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos e urbanos; as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras, rendimento social de inserção, subsídio de desemprego e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória, incluindo os subsídios auferidos em razão dessas actividades, com excepção do subsídio familiar;\n\nh) «Rendimento mensal bruto (RMB)» o valor que resulte da divisão por 12 dos rendimentos auferidos, sem dedução de quaisquer encargos, por todos os elementos do agregado familiar durante o ano civil anterior ao da candidatura ou da renovação, consoante o caso, sem prejuízo do disposto nos n.os 2 e 3;\n\ni) «Indexante de apoios sociais ou IAS» criado pela Lei n.º 53-B/2006, de 29 de dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 323/2009, de 24 de dezembro e pelas Leis n.os 3-B/2010, de 28 de abril, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66-B/2012, de 31 de dezembro e 83-C/2013, de 31 de dezembro, e fixado nos termos da Portaria em vigor, constitui o referencial determinante da fixação, cálculo e atualização dos apoios e outras despesas e das receitas da administração central do Estado, das Regiões Autónomas e das autarquias locais, qualquer que seja a sua natureza, previstos em atos legislativos ou regulamentares.\n\n2. Tratando-se de rendimentos da categoria B do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS) enquadrados no regime simplificado, nos termos daquele Código, considera-se rendimento bruto o resultante da aplicação do coeficiente 0,20 ao valor das vendas de mercadorias e produtos, bem como aos serviços prestados no âmbito de atividades hoteleiras e similares, restauração e bebidas e ao montante dos subsídios destinados à exploração que tenha por efeito compensar reduções nos preços de venda de mercadorias e produtos, e do coeficiente de 0,75 aos restantes rendimentos provenientes desta categoria, excluindo a variação de produção.\n\n3 - Tratando-se de rendimentos da categoria B do CIRS enquadrados no regime de contabilidade organizada, nos termos daquele Código, considera-se rendimento bruto o resultado líquido do exercício apurado.\n\n4 - Para efeitos do apoio previsto na alínea a) do artigo 2.º, considera-se:\n\na) «Situação de grave carência habitacional»:\n\ni) A situação de residência permanente de agregados familiares em edificações, partes de edificações ou estruturas provisórias caracterizadas por graves deficiências de solidez, segurança, salubridade ou sobrelotação;\n\nii) As situações de alojamento urgente, definitivo ou temporário, de agregados familiares sem local para habitar, nomeadamente por destruição total ou parcial das suas habitações e demolição das edificações ou estruturas provisórias em que residiam;\n\niii) Outras situações não previstas nas subalíneas anteriores que se traduzam em situações de precariedade habitacional, assim reconhecidas por despacho do membro do Governo com competência em matéria de habitação, devidamente fundamentado;\n\nb) «Agregado familiar» o conjunto de pessoas constituído pelo arrendatário e os dependentes a seu cargo, bem como pelas seguintes pessoas que com ele vivam em comunhão de habitação:\n\ni) Cônjuge não separado judicialmente de pessoas e bens e os seus dependentes;\n\nii) Cônjuge ou ex-cônjuge, respectivamente nos casos de separação judicial de pessoas e bens ou de declaração de nulidade, anulação ou dissolução do casamento, e os dependentes a seu cargo;\n\niii) Pessoa que com o arrendatário viva em união de facto há mais de dois anos e os seus dependentes;\n\niv) Ascendentes do arrendatário, do seu cônjuge ou de pessoa que com ele viva em união de facto há mais de dois anos;\n\nc) «Dependentes» os filhos, adoptados e enteados menores não emancipados, bem como os menores sob tutela; os filhos, adoptados e enteados maiores, bem como aqueles que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos a quem incumbe a direcção do agregado familiar, que, não tendo mais de 25 anos e não auferindo anualmente rendimentos superiores à retribuição mínima mensal garantida, frequentem estabelecimento de ensino; os filhos, adoptados, enteados e os sujeitos a tutela maiores, inaptos para o trabalho e para angariar meios de subsistência, quando não aufiram rendimentos superiores à retribuição mínima mensal garantida; os ascendentes cujo rendimento mensal seja inferior à retribuição mínima mensal garantida;\n\nd) «Agregado familiar carenciado» aquele cujo rendimento mensal corrigido obedeça aos limites previstos no n.º 1 do artigo 18.º;\n\ne) «Renda» o quantitativo devido mensalmente ao senhorio pela utilização do fogo para fins habitacionais.\n\n5 - Para efeitos do apoio previsto na alínea b) do artigo 2.º, considera-se:\n\na) «Agregado familiar» o conjunto de pessoas constituído pelo arrendatário, seu cônjuge ou pessoa que com ele viva em união de facto há mais de dois anos, seus parentes ou afins na linha recta ou até ao 3.º grau da linha colateral, ainda que paguem alguma retribuição, e bem assim as pessoas relativamente às quais, por força da lei ou de negócio jurídico que não respeite directamente à habitação, haja obrigação de convivência ou de alimentos, que com ele vivam em comunhão de habitação;\n\nb) «Jovens» aqueles que possuam idade inferior a 35 anos ou, no caso de casais de jovens não separados judicialmente de pessoas e bens ou em união de facto, aqueles cuja idade individual não ultrapasse os 35 anos;\n\nc) «Renda» o quantitativo devido mensalmente ao senhorio pela utilização do fogo para fins habitacionais;\n\nd) «Renda máxima admitida (RMA)» o valor máximo da renda estabelecida para cada zona da Região Autónoma dos Açores;\n\ne) «Taxa de esforço» o valor em percentagem resultante da relação entre o valor da renda mensal devida pela habitação e o valor correspondente à soma dos rendimentos brutos auferidos pelo candidato e por todos os membros do agregado familiar;\n\nf) [Revogado];\n\ng) [Revogado].\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "884567386": {
+   "fragment_id": "884566060",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime e procedimentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 12.º — Regime e procedimentos\n\n1. As habitações a tomar de arrendamento pela Região Autónoma dos Açores são disponibilizadas, mediante celebração de contrato de subarrendamento, aos agregados familiares que reúnam as condições de acesso previstas no presente diploma.\n\n2 - O arrendamento mencionado no número anterior poderá ser realizado independentemente de procedimento de consulta prévia ao mercado imobiliário.\n\n3 - A selecção das habitações a arrendar será realizada pela direcção regional competente em matéria de habitação, podendo os actos instrutórios respectivos ser realizados pelos serviços executivos periféricos do departamento do Governo Regional com competência na mesma matéria.\n\n4. Os valores máximos de renda por metro quadrado são fixados por decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "884567387": {
+   "fragment_id": "884566068",
+   "type": 11,
+   "heading": "Artigo 18.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 18.º — Condições de acesso\n\n1. O acesso ao apoio previsto no presente capítulo depende:\n\na) De o agregado familiar auferir um rendimento mensal corrigido (RMC) que obedeça aos limites previstos na tabela II do anexo ao presente diploma, tendo por referência a composição do agregado familiar e o coeficiente do IAS;\n\nb) Ser considerado agregado familiar em situação de grave carência habitacional;\n\nc) Ser considerado agregado familiar carenciado;\n\nd) Nenhum dos membros do agregado familiar deter, a qualquer título, outra habitação que possa satisfazer as necessidades habitacionais do agregado;\n\ne) Nenhum dos membros do agregado familiar estar a usufruir de apoios públicos para fins exclusivamente habitacionais, excepto se o apoio se justificar por constituição de novo agregado familiar ou para resolução provisória e urgente da situação habitacional do agregado.\n\n2. Para efeito do disposto no número anterior, considera-se rendimento mensal corrigido (RMC) o definido na alínea d) do n.º 1 do artigo 3.º do Decreto-Lei n.º 166/93, de 7 de maio.\n\n3 - Sem prejuízo da responsabilidade criminal, a prestação de falsas declarações, de forma expressa ou por omissão, ou a falsificação de documentos constitui causa de exclusão da candidatura ou de resolução do contrato, se este já tiver sido celebrado.\n\n4 - Quando, nos termos do número anterior, haja lugar à exclusão da candidatura ou à resolução do contrato, o candidato ou contraente beneficiário fica impedido de se candidatar, nessa ou noutra qualidade, a qualquer programa de apoio à habitação promovido pela Região Autónoma dos Açores durante o período de três anos.\n\n5 - Se, por facto superveniente à candidatura e decisão da mesma, o agregado familiar deixar de reunir as condições de acesso ao apoio previsto no capítulo ii do presente diploma, cessa, de imediato, o contrato de arrendamento ou subarrendamento celebrado com a Região Autónoma dos Açores.\n\n6 - O prazo fixado no artigo 3.º do presente diploma poderá ser reduzido, por despacho devidamente fundamentado do membro do Governo com competência em matéria de habitação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "884567388": {
+   "fragment_id": "884566072",
+   "type": 11,
+   "heading": "Artigo 22.º — Prioridades de instrução",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 22.º — Prioridades de instrução\n\n1. São prioritariamente instruídos os processos cujas candidaturas obtenham maior pontuação em função, nomeadamente, do tipo de alojamento à data do pedido e da fundamentação deste, bem como do tipo de família e escalão de rendimento per capita em função do IAS.\n\n2 - O estabelecido no número anterior, conjugado com o disposto no artigo 5.º, implica que:\n\na) A análise e decisão das candidaturas é feita de acordo com a gravidade da situação habitacional do candidato e respectivo agregado familiar e não por ordem cronológica da apresentação da candidatura;\n\nb) A decisão de admissão da candidatura fica suspensa até que estejam reunidas as condições para que aquela seja proferida, sem prejuízo do disposto nos números seguintes e nos artigos 110.º e 112.º do Código do Procedimento Administrativo.\n\n3 - Os candidatos devem ser notificados da suspensão referida na alínea b) do n.º 2 do presente artigo.\n\n4 - Se, por virtude da suspensão mencionada no número anterior, for ultrapassado o ano civil relevante no que concerne aos documentos apresentados em sede de candidatura, a decisão sobre admissibilidade da mesma deverá ser precedida da actualização dos documentos que se afigurem necessários para o efeito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "998506146": {
+   "fragment_id": "884566073",
+   "type": 11,
+   "heading": "Artigo 23.º — Projeto de decisão e audiência prévia",
+   "in_force_from": "2026-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 86.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Projeto de decisão e audiência prévia\n\nConcluída a instrução, o serviço instrutor elabora um projeto de decisão fundamentado, observando-se o disposto nos artigos 121.º e seguintes do Código do Procedimento Administrativo quanto à audiência dos interessados.\n\n> Alterado pelo/a Artigo 86.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01"
+  },
+  "998506147": {
+   "fragment_id": "884566979",
+   "type": 11,
+   "heading": "Artigo 27.º — Apoio financeiro",
+   "in_force_from": "2026-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 86.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 65.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 27.º — Apoio financeiro\n\n1 - O apoio financeiro ao arrendamento de prédios ou de fracções autónomas para residência permanente é concedido sob a forma de subvenção mensal, não reembolsável, aos agregados familiares que reúnam as condições de acesso previstas no presente diploma, pelo período de um ano, podendo ser renovado por igual período, até ao máximo de quatro renovações consecutivas.\n\n2. Atingido o termo do contrato referido no número anterior, poderá dar-se início a uma nova candidatura.\n\n3 - Para as candidaturas previstas no n.º 2, depois de decorridas as quatro renovações, poderá dar-se início a duas novas candidaturas sucessivas.\n\n4 - A subvenção mensal corresponde a uma percentagem do valor da renda.\n\n5 - O modelo de apoio financeiro, incluindo os escalões, percentagens e majorações admissíveis a aplicar ao valor da renda, é fixado por decreto regulamentar regional.\n\n6 - Para as situações previstas nos n.os 2 e 3, a subvenção é atribuída de forma decrescente, em cada ano, até à penúltima candidatura admissível, nos termos a fixar em decreto regulamentar regional.\n\n7 - A subvenção correspondente à última candidatura admissível nos termos do n.º 3, é atribuída de acordo com o previsto para a candidatura imediatamente antecedente.\n\n> Alterado pelo/a Artigo 86.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 65.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "884567390": {
+   "fragment_id": "884566981",
+   "type": 11,
+   "heading": "Artigo 28.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 28.º — Condições de acesso\n\n1 - O acesso ao apoio previsto no presente capítulo depende da verificação cumulativa das seguintes condições à data da apresentação da candidatura:\n\na) Ter o candidato e os membros do agregado familiar residência permanente na habitação a que se refere a candidatura;\n\nb) Não ser o candidato ou os membros do agregado familiar proprietários ou arrendatários de outro prédio ou fracção autónoma destinados à habitação;\n\nc) Não ser o candidato ou os membros do agregado familiar parentes ou afins do senhorio na linha recta ou na linha colateral;\n\nd) Não estar o candidato ou os membros do agregado familiar a usufruir de apoios públicos para fins exclusivamente habitacionais, excepto se o apoio se justificar por constituição de novo agregado familiar;\n\ne) O agregado familiar aufira um rendimento mensal corrigido (RMC) que obedeça aos limites previstos na tabela III do anexo ao presente diploma, tendo por referência a composição do agregado familiar e o coeficiente do IAS;\n\nf) A soma dos rendimentos brutos auferidos pelo candidato e por todos os membros do agregado familiar ser compatível com uma taxa de esforço máxima de 60 %;\n\ng) Ser titular de contrato de arrendamento, com prazo mínimo de um ano, renovável por iguais períodos, celebrado ao abrigo do NRAU, constante do título I da Lei n.º 6/2006, de 27 de fevereiro, ou do regime transitório previsto no seu título II do capítulo I, comprovado o encargo do imposto devido nos termos do Código do Imposto do Selo;\n\nh) Apresentar uma renda até ao limite do valor da RMA na zona onde se localiza a habitação, nos termos a fixar em regulamento;\n\ni) Ser a habitação de tipologia adequada à composição do agregado familiar, nos termos definidos no presente diploma, e reunir condições de habitabilidade, segurança e salubridade.\n\n2. Para efeito do disposto na alínea e) do número anterior, o RMC será obtido deduzindo ao rendimento mensal bruto uma quantia igual a três décimos do IAS pelo primeiro dependente e de um décimo por cada um dos outros dependentes, sendo a dedução acrescida de um décimo por cada dependente que, comprovadamente, possua qualquer forma de incapacidade permanente.\n\n3 - A tipologia da habitação para cujo arrendamento é concedida a subvenção pode ser a imediatamente superior à prevista na alínea i) do número anterior se o candidato ou algum membro do agregado familiar for portador de deficiência ou por motivo devidamente justificado, reconhecido por despacho do membro do Governo com competência em matéria de habitação.\n\n4 - Sem prejuízo da responsabilidade criminal, a prestação de falsas declarações, de forma expressa ou por omissão, e a falsificação de documentos constitui causa de exclusão da candidatura.\n\n5 - Quando haja lugar à exclusão da candidatura nos termos do número anterior, o candidato fica impedido de se candidatar, nessa ou noutra qualidade, a qualquer programa de apoio à habitação promovido pela Região Autónoma dos Açores durante o período de três anos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "884567391": {
+   "fragment_id": "884566983",
+   "type": 11,
+   "heading": "Artigo 30.º — Hierarquização das candidaturas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 30.º — Hierarquização das candidaturas\n\n1. As candidaturas são aprovadas de acordo com os critérios legalmente definidos até ao limite das verbas fixado para cada período de candidatura.\n\n2 - As candidaturas são hierarquizadas por ordem decrescente das pontuações finais resultantes do somatório das pontuações parciais atribuídas.\n\n3. Os critérios de hierarquização e a respetiva pontuação, bem como os critérios de desempate em caso de igualdade de pontuação, são fixados em decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "884567392": {
+   "fragment_id": "884566984",
+   "type": 11,
+   "heading": "Artigo 31.º — Exclusão de candidaturas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 31.º — Exclusão de candidaturas\n\nSem prejuízo do disposto no n.º 3 do artigo 28.º, são excluídas as candidaturas:\n\na) Cujos candidatos não reúnam as condições de acesso previstas no presente diploma;\n\nb) Que sejam entregues após o termo do prazo fixado para a sua apresentação;\n\nc) Que não estejam instruídas com todos os documentos e elementos exigidos;\n\nd) Cujos candidatos não respondam adequada e atempadamente aos pedidos formulados pela entidade instrutora do processo, nomeadamente pedidos de informação e de esclarecimento.\n\ne) Cujos imóveis tenham sido objeto de apoios públicos, incorrendo os seus beneficiários na obrigação de afetação da habitação a residência própria e permanente do seu agregado familiar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "884567393": {
+   "fragment_id": "884566988",
+   "type": 11,
+   "heading": "Artigo 35.º — Duração",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 35.º — Duração\n\n1 - O apoio financeiro previsto no capítulo iii do presente diploma é devido a partir do mês seguinte ao da publicação das listas definitivas das candidaturas aprovadas, nos termos previstos no artigo anterior.\n\n2. O apoio financeiro referido no número anterior é pago mensalmente aos respetivos titulares ou aos seus representantes legais, podendo, ainda, ser pago às pessoas ou entidades que prestem assistência aos titulares do direito, desde que sejam consideradas idóneas pelo departamento do Governo Regional com competência em matéria de habitação, quando os respetivos titulares:\n\na) Sejam incapazes e se encontrem a aguardar a nomeação do respectivo representante legal;\n\nb) Se encontrem impossibilitados de modo temporário ou permanente de receber a prestação, por motivos de doença, ou se encontrem internados temporariamente em estabelecimentos de apoio social ou equiparados.\n\n3 - O pagamento referido no número anterior é efectuado através de transferência bancária nos termos a definir em regulamento, salvo se for indicada outra forma de pagamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "884567394": {
+   "fragment_id": "884566995",
+   "type": 11,
+   "heading": "Artigo 40.º — Verificação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "###### Artigo 40.º — Verificação e fiscalização\n\n1. Os titulares do apoio financeiro previsto no presente capítulo estão sujeitos à verificação pela direção regional competente em matéria de habitação ou pelos serviços executivos periféricos do departamento do Governo Regional com competência na mesma matéria, do cumprimento das condições e dos deveres a que se vinculam para efeito de atribuição do apoio financeiro, designadamente quanto à entrega de elementos ou documentos e ao respeito pelas condições de acesso e de permanência no Programa, nomeadamente o pagamento da renda e a permanência na habitação objeto da candidatura durante o período de concessão do apoio.\n\n2 - O titular do direito ao apoio financeiro previsto no número anterior deverá comunicar à direcção regional com competência em matéria de habitação qualquer alteração dos pressupostos de atribuição do mesmo.\n\n3 - O apoio financeiro previsto no presente capítulo cessa, com efeitos imediatos, se, por facto superveniente à candidatura e decisão da mesma, o titular do apoio deixar de reunir as condições de acesso ao mesmo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  },
+  "998506148": {
+   "fragment_id": "884566997",
+   "type": 11,
+   "heading": "Artigo 42.º — Cumulação de subsídios",
+   "in_force_from": "2026-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 86.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 42.º — Cumulação de subsídios\n\n1 - Sem prescindir do disposto na alínea d) do n.º 1 do artigo 28.º, o apoio previsto no capítulo iii não é cumulável com qualquer outro de idêntica natureza ou finalidade.\n\n2 - O disposto no número anterior não prejudica a possibilidade de cumulação com o apoio extraordinário à renda previsto no Decreto-Lei n.º 20-B/2023, de 22 de março, na sua redação atual, que cria apoios extraordinários de apoio às famílias para pagamento da renda e da prestação de contratos de crédito.\n\n> Alterado pelo/a Artigo 86.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01"
+  },
+  "884567102": {
+   "fragment_id": "884567006",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Outubro de 2009.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 2 de Dezembro de 2009.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "884567395": {
+   "fragment_id": "884567007",
+   "type": 14,
+   "heading": "Anexo — [a que se refere a alínea f) do n.º 1 do artigo 6.º]",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+   ],
+   "markdown": "## Anexo — [a que se refere a alínea f) do n.º 1 do artigo 6.º]\n\n(ver documento original)\n\nTabela I\n\n[a que se refere a alínea f) do n.º 1 do artigo 6.º]\n\n(ver documento original)\n\nTabela II\n\n[a que se refere a alínea a) do n.º 1 do artigo 18.º]\n\n(ver documento original)\n\nTabela III\n\n[a que se refere a alínea e) do n.º 1 do artigo 28.º]\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2014/A - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936)"
+  }
+ }
+}

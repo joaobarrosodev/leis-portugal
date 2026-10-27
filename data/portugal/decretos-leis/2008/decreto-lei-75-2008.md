@@ -1,0 +1,1428 @@
+---
+schema_version: '1.0'
+id: pt:dre:249866:por
+title: Decreto-Lei n.º 75/2008
+short_title: null
+summary: Aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos
+  ensinos básico e secundário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 75/2008
+official_date: null
+publication_date: '2008-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 79/2008, Série I de 2008-04-22
+  number: '79'
+  series: I
+  supplement: null
+  pages: 2341 - 2356
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07900/0234102356.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2012-07-03'
+version_history:
+  file: decreto-lei-75-2008.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-12'
+    amending: pt:dre:489733:por
+    amending_title: Decreto-Lei n.º 224/2009
+    changes:
+    - Entrada Vigor Diploma
+  - date: '2012-07-03'
+    amending: pt:dre:178527:por
+    amending_title: Decreto-Lei n.º 137/2012
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 9.º-A
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 52.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Capítulo VIII
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/75/2008/p/cons/20120702/pt/html
+  oj: null
+  dre: '249866'
+  dre_path: /dr/detalhe/decreto-lei/75-2008-249866
+  internal: pt:dre:249866:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866
+  metadata_url: https://data.dre.pt/eli/dec-lei/75/2008/p/cons/20120702/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34457775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34457775
+  retrieved_at: '2026-10-22T11:43:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 43e29a32bafe6c2b74bc2511f33c888942b010ca007075f1281481a3bd65be3c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:43:04Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-75-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração do Ensino
+- Eleição
+- Concurso
+- Conselho Administrativo
+- Conselho Geral
+- Conselho Pedagógico
+- Definição de Competências
+- Diretor
+- Direito de Participação
+- Estudante
+- Gestão Escolar
+- Recrutamento de Pessoal
+- Mandato
+- Organismo do Estado
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Presidente
+- Ensino Básico
+- Regime Jurídico
+- Educação Pré-escolar
+relationships:
+- type: amended_by
+  target: pt:dre:489733:por
+  label: Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2009-489733
+  date: '2009-09-11'
+- type: amended_by
+  target: pt:dre:178527:por
+  label: Adita Artigo 7.º-A; Adita Artigo 9.º-A; Adita Artigo 22.º-A; Adita Artigo 22.º-B; Altera Artigo 6.º; Altera Artigo
+    9.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 20.º; Altera Artigo
+    21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 29.º; Altera Artigo
+    31.º; Altera Artigo 32.º; Altera Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527
+  date: '2012-07-02'
+- type: cites
+  target: pt:dre:144996:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80/1999/03/16/p/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/115-a/1998/05/04/p/dre
+- type: cites
+  target: pt:dre:176533:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/7/2003/01/15/p/dre
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:353971:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/10/1999/07/21/p/dre
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: http://data.dre.pt/eli/lei/24/1999/04/22/p/dre
+- type: cites
+  target: pt:dre:538016:por
+  label: null
+  source: http://data.dre.pt/eli/lei/29/2006/07/04/p/dre
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+article_structure:
+  article_count: 75
+  section_count: 20
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:43:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 75/2008
+
+As escolas são estabelecimentos aos quais está confiada uma missão de serviço público, que consiste em dotar todos e cada um dos cidadãos das competências e conhecimentos que lhes permitam explorar plenamente as suas capacidades, integrar-se activamente na sociedade e dar um contributo para a vida económica, social e cultural do País. É para responder a essa missão em condições de qualidade e equidade, da forma mais eficaz e eficiente possível, que deve organizar-se a governação das escolas.
+
+O programa do XVII Governo Constitucional identificou a necessidade de revisão do regime jurídico da autonomia, administração e gestão das escolas no sentido do reforço da participação das famílias e comunidades na direcção estratégica dos estabelecimentos de ensino e no favorecimento da constituição de lideranças fortes.
+
+Entendeu o Governo, no exercício das suas funções, que, antes mesmo de proceder a essa revisão, era possível, dentro do quadro legal existente, reforçar a autonomia e a capacidade de intervenção dos órgãos de direcção das escolas para reforçar a eficácia da execução das medidas de política educativa e da prestação do serviço público de educação. Nesse sentido, o Ministério da Educação estabeleceu a prática de reunir regularmente com os conselhos executivos, delegou neles competências da administração educativa, atribuiu-lhes funções na contratação e na avaliação de desempenho do pessoal docente. Do mesmo modo, promoveu a celebração de contratos de autonomia, na sequência de um procedimento de avaliação externa das escolas, e instituiu um órgão de carácter consultivo para assegurar a sua representação junto do Ministério da Educação, o Conselho das Escolas.
+
+O Governo promoveu ainda a alteração do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, no sentido de dotar cada estabelecimento de ensino público de um corpo de docentes reconhecido, com mais experiência, mais autoridade e mais formação, que assegure em permanência funções de maior responsabilidade. A estruturação da carreira, com a criação da categoria de professor titular, à qual são reservadas as actividades de coordenação e supervisão, constituiu um importante contributo para a capacidade de organização das escolas em função da missão de serviço público que lhes está confiada.
+
+O prosseguimento deste caminho exige, agora, a passagem a outro patamar, que implica a introdução de alterações ao regime jurídico de autonomia, administração e gestão escolar, de acordo com as necessidades identificadas e os objectivos definidos no programa do Governo.
+
+Em primeiro lugar, trata-se de reforçar a participação das famílias e comunidades na direcção estratégica dos estabelecimentos de ensino. É indispensável promover a abertura das escolas ao exterior e a sua integração nas comunidades locais. Para tanto, torna-se necessário assegurar não apenas os direitos de participação dos agentes do processo educativo, designadamente do pessoal docente, mas também a efectiva capacidade de intervenção de todos os que mantêm um interesse legítimo na actividade e na vida de cada escola. Uma tal intervenção constitui também um primeiro nível, mais directo e imediato, de prestação de contas da escola relativamente àqueles que serve.
+
+Este objectivo é concretizado, no presente decreto-lei, através da instituição de um órgão de direcção estratégica em que têm representação o pessoal docente e não docente, os pais e encarregados de educação (e também os alunos, no caso dos adultos e do ensino secundário), as autarquias e a comunidade local, nomeadamente representantes de instituições, organizações e actividades económicas, sociais, culturais e científicas.
+
+A este órgão colegial de direcção - designado conselho geral - cabe a aprovação das regras fundamentais de funcionamento da escola (regulamento interno), as decisões estratégicas e de planeamento (projecto educativo, plano de actividades) e o acompanhamento da sua concretização (relatório anual de actividades).
+
+Além disso, confia-se a este órgão a capacidade de eleger e destituir o director, que por conseguinte lhe tem de prestar contas.
+
+Para garantir condições de participação a todos os interessados, nenhum dos corpos ou grupos representados tem, por si mesmo, a maioria dos lugares. Nos termos do presente decreto-lei, uma vez observadas algumas regras elementares (todos os interessados devem estar representados e os corpos representativos dos profissionais que exercem a sua actividade na escola não podem, em conjunto, deter a maioria dos lugares no conselho), os estabelecimentos de ensino determinam a composição deste órgão.
+
+Em segundo lugar, com este decreto-lei, procura-se reforçar as lideranças das escolas, o que constitui reconhecidamente uma das mais necessárias medidas de reorganização do regime de administração escolar. Sob o regime até agora em vigor, emergiram boas lideranças e até lideranças fortes e existem até alguns casos assinaláveis de dinamismo e continuidade. Contudo, esse enquadramento legal em nada favorecia a emergência e muito menos a disseminação desses casos. Impunha-se, por isso, criar condições para que se afirmem boas lideranças e lideranças eficazes, para que em cada escola exista um rosto, um primeiro responsável, dotado da autoridade necessária para desenvolver o projecto educativo da escola e executar localmente as medidas de política educativa. A esse primeiro responsável poderão assim ser assacadas as responsabilidades pela prestação do serviço público de educação e pela gestão dos recursos públicos postos à sua disposição.
+
+Este objectivo concretiza-se no presente decreto-lei pela criação do cargo de director, coadjuvado por um subdirector e um pequeno número de adjuntos, mas constituindo um órgão unipessoal e não um órgão colegial.
+
+Ao director é confiada a gestão administrativa, financeira e pedagógica, assumindo, para o efeito, a presidência do conselho pedagógico. Exercendo também competências no domínio da gestão pedagógica, sem as quais estaria sempre diminuído nas suas funções, entende-se que o director deve ser recrutado de entre docentes do ensino público ou particular e cooperativo qualificados para o exercício das funções, seja pela formação ou pela experiência na administração e gestão escolar.
+
+No sentido de reforçar a liderança da escola e de conferir maior eficácia, mas também mais responsabilidade ao director, é-lhe conferido o poder de designar os responsáveis pelos departamentos curriculares, principais estruturas de coordenação e supervisão pedagógica.
+
+Finalmente, o presente decreto-lei corresponde a um terceiro objectivo: o reforço da autonomia das escolas. A necessidade de reforçar a autonomia das escolas tem sido reclamada por todos os sectores de opinião. A esta retórica, porém, não têm correspondido propostas substantivas, nomeadamente no que se refere à identificação das competências da administração educativa que devem ser transferidas para as escolas.
+
+Convém considerar que a autonomia constitui não um princípio abstracto ou um valor absoluto, mas um valor instrumental, o que significa que do reforço da autonomia das escolas tem de resultar uma melhoria do serviço público de educação. É necessário, por conseguinte, criar as condições para que isso se possa verificar, conferindo maior capacidade de intervenção ao órgão de gestão e administração, o director, e instituindo um regime de avaliação e de prestação de contas. A maior autonomia tem de corresponder maior responsabilidade.
+
+A prestação de contas organiza-se, por um lado, de forma mais imediata, pela participação determinante dos interessados e da comunidade no órgão de direcção estratégica e na escolha do director e, por outro lado, pelo desenvolvimento de um sistema de auto-avaliação e avaliação externa. Só com estas duas condições preenchidas é possível avançar de forma sustentada para o reforço da autonomia das escolas.
+
+Essa autonomia exprime-se, em primeiro lugar, na faculdade de auto-organização da escola. Neste domínio, o presente decreto-lei estabelece um enquadramento legal mínimo, determinando apenas a criação de algumas estruturas de coordenação de 1.º nível (departamentos curriculares) com assento no conselho pedagógico e de acompanhamento dos alunos (conselhos e directores de turma). No mais, é dada às escolas a faculdade de se organizarem, de criar estruturas e de as fazer representar no conselho pedagógico, para o qual se estabelece, por razões de operacionalidade, um número limitado de membros.
+
+Quanto à possibilidade de transferência de competências, o regime jurídico aprovado pelo presente decreto-lei mantém o princípio da contratualização da autonomia, estabelecendo os princípios fundamentais, mas flexibilizando e deixando para regulamentação posterior os procedimentos administrativos. A associação entre a transferência de competências e a avaliação externa da capacidade da escola para o seu exercício constitui um princípio fundamental. É a garantia da própria sustentabilidade da autonomia e do princípio da responsabilidade e da prestação de contas pelos recursos utilizados no serviço público, bem como de que este é efectivamente satisfeito em condições de equidade e qualidade.
+
+Foram ouvidos o Conselho Nacional de Educação, o Conselho de Escolas, a Associação Nacional dos Municípios Portugueses, a Confederação Nacional das Associações de Pais, bem como as organizações sindicais representativas do pessoal docente.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelo artigo 48.º e pela alínea d) do n.º 1 do artigo 62.º da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de Outubro, e alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Objecto, âmbito e princípios
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente regime jurídico aplica-se aos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário, regular e especializado.
+
+2 - Para os efeitos do presente decreto-lei, consideram-se estabelecimentos públicos os agrupamentos de escolas e as escolas não agrupadas.
+
+###### Artigo 3.º — Princípios gerais
+
+1 - A autonomia, a administração e a gestão dos agrupamentos de escolas e das escolas não agrupadas orientam-se pelos princípios da igualdade, da participação e da transparência.
+
+2 - A autonomia, a administração e a gestão dos agrupamentos de escolas e das escolas não agrupadas subordinam-se particularmente aos princípios e objectivos consagrados na Constituição e na Lei de Bases do Sistema Educativo, designadamente:
+
+a) Integrar as escolas nas comunidades que servem e estabelecer a interligação do ensino e das actividades económicas, sociais, culturais e científicas;
+
+b) Contribuir para desenvolver o espírito e a prática democráticos;
+
+c) Assegurar a participação de todos os intervenientes no processo educativo, nomeadamente dos professores, dos alunos, das famílias, das autarquias e de entidades representativas das actividades e instituições económicas, sociais, culturais e científicas, tendo em conta as características específicas dos vários níveis e tipologias de educação e de ensino;
+
+d) Assegurar o pleno respeito pelas regras da democraticidade e representatividade dos órgãos de administração e gestão da escola, garantida pela eleição democrática de representantes da comunidade educativa.
+
+3 - A autonomia, a administração e a gestão dos agrupamentos de escolas e das escolas não agrupadas funcionam sob o princípio da responsabilidade e da prestação de contas do Estado assim como de todos os demais agentes ou intervenientes.
+
+###### Artigo 4.º — Princípios orientadores e objectivos
+
+1 - No quadro dos princípios e objectivos referidos no artigo anterior, a autonomia, a administração e a gestão dos agrupamentos de escolas e das escolas não agrupadas organizam-se no sentido de:
+
+a) Promover o sucesso e prevenir o abandono escolar dos alunos e desenvolver a qualidade do serviço público de educação, em geral, e das aprendizagens e dos resultados escolares, em particular;
+
+b) Promover a equidade social, criando condições para a concretização da igualdade de oportunidades para todos;
+
+c) Assegurar as melhores condições de estudo e de trabalho, de realização e de desenvolvimento pessoal e profissional;
+
+d) Cumprir e fazer cumprir os direitos e os deveres constantes das leis, normas ou regulamentos e manter a disciplina;
+
+e) Observar o primado dos critérios de natureza pedagógica sobre os critérios de natureza administrativa nos limites de uma gestão eficiente dos recursos disponíveis para o desenvolvimento da sua missão;
+
+f) Assegurar a estabilidade e a transparência da gestão e administração escolar, designadamente através dos adequados meios de comunicação e informação;
+
+g) Proporcionar condições para a participação dos membros da comunidade educativa e promover a sua iniciativa.
+
+2 - No respeito pelos princípios e objectivos enunciados e das regras estabelecidas no presente decreto-lei, admite-se a diversidade de soluções organizativas a adoptar pelos agrupamentos de escolas e pelas escolas não agrupadas no exercício da sua autonomia organizacional, em particular no que concerne à organização pedagógica.
+
+###### Artigo 5.º — Princípios gerais de ética
+
+No exercício das suas funções, os titulares dos cargos previstos no presente decreto-lei estão exclusivamente ao serviço do interesse público, devendo observar no exercício das suas funções os valores fundamentais e princípios da actividade administrativa consagrados na Constituição e na lei, designadamente os da legalidade, justiça e imparcialidade, competência, responsabilidade, proporcionalidade, transparência e boa fé.
+
+#### Secção II — Organização
+
+###### Artigo 6.º — Agrupamento de escolas
+
+1 - O agrupamento de escolas é uma unidade organizacional, dotada de órgãos próprios de administração e gestão, constituída pela integração de estabelecimentos de educação pré-escolar e escolas de diferentes níveis e ciclos de ensino, com vista à realização das seguintes finalidades:
+
+a) Garantir e reforçar a coerência do projeto educativo e a qualidade pedagógica das escolas e estabelecimentos de educação pré-escolar que o integram, numa lógica de articulação vertical dos diferentes níveis e ciclos de escolaridade;
+
+b) Proporcionar um percurso sequencial e articulado dos alunos abrangidos numa dada área geográfica e favorecer a transição adequada entre níveis e ciclos de ensino;
+
+c) Superar situações de isolamento de escolas e estabelecimentos de educação pré-escolar e prevenir a exclusão social e escolar;
+
+d) Racionalizar a gestão dos recursos humanos e materiais das escolas e estabelecimentos de educação pré-escolar que o integram.
+
+2 - A constituição de agrupamentos de escolas obedece, designadamente, aos seguintes critérios:
+
+a) Construção de percursos escolares coerentes e integrados;
+
+b) Articulação curricular entre níveis e ciclos educativos;
+
+c) Eficácia e eficiência da gestão dos recursos humanos, pedagógicos e materiais;
+
+d) Proximidade geográfica;
+
+e) Dimensão equilibrada e racional.
+
+3 - Cada uma das escolas ou estabelecimentos de educação pré-escolar que integra o agrupamento mantém a sua identidade e denominação próprias, recebendo o agrupamento uma designação que o identifique, nos termos da legislação em vigor.
+
+4 - O agrupamento integra escolas e estabelecimentos de educação pré-escolar de um mesmo concelho, salvo em casos devidamente justificados e mediante parecer favorável das câmaras municipais envolvidas.
+
+5 - No processo de constituição de um agrupamento de escolas deve garantir-se que nenhuma escola ou estabelecimento de educação pré-escolar fique em condições de isolamento que dificultem uma prática pedagógica de qualidade.
+
+6 - No quadro dos princípios consagrados nos números anteriores, os requisitos e condições específicos a que se subordina a constituição de agrupamentos de escolas são os definidos em regulamentação própria.
+
+7 - No exercício da respetiva autonomia, e sem prejuízo do disposto nos números anteriores, podem ainda os agrupamentos de escolas ou as escolas não agrupadas estabelecer com outras escolas, públicas ou privadas, formas temporárias ou duradouras de cooperação e de articulação aos diferentes níveis, podendo para o efeito constituir parcerias, associações, redes ou outras formas de aproximação e partilha que, de algum modo, possam contribuir para a prossecução de algum ou alguns dos objetivos previstos no presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 7.º — Agregação de agrupamentos
+
+Para fins específicos, designadamente para efeitos da organização da gestão do currículo e de programas, da avaliação da aprendizagem, da orientação e acompanhamento dos alunos, da avaliação, formação e desenvolvimento profissional do pessoal docente, pode a administração educativa, por sua iniciativa ou sob proposta dos agrupamentos de escolas e escolas não agrupadas, constituir unidades administrativas de maior dimensão por agregação de agrupamentos de escolas e escolas não agrupadas.
+
+###### Artigo 7.º-A — Regime de exceção
+
+1 - São excecionadas de integração em agrupamento ou de agregação:
+
+a) As escolas integradas nos territórios educativos de intervenção prioritária;
+
+b) As escolas profissionais públicas;
+
+c) As escolas de ensino artístico;
+
+d) As escolas que prestem serviços educativos permanentes em estabelecimentos prisionais;
+
+e) As escolas com contrato de autonomia.
+
+2 - A integração em agrupamentos ou a agregação das escolas referidas no número anterior depende da sua iniciativa.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+### Capítulo II — Regime de autonomia
+
+###### Artigo 8.º — Autonomia
+
+1 - A autonomia é a faculdade reconhecida ao agrupamento de escolas ou à escola não agrupada pela lei e pela administração educativa de tomar decisões nos domínios da organização pedagógica, da organização curricular, da gestão dos recursos humanos, da acção social escolar e da gestão estratégica, patrimonial, administrativa e financeira, no quadro das funções, competências e recursos que lhe estão atribuídos.
+
+2 - A extensão da autonomia depende da dimensão e da capacidade do agrupamento de escolas ou escola não agrupada e o seu exercício supõe a prestação de contas, designadamente através dos procedimentos de auto-avaliação e de avaliação externa.
+
+3 - A transferência de competências da administração educativa para as escolas observa os princípios do gradualismo e da sustentabilidade.
+
+###### Artigo 9.º — Instrumentos de autonomia
+
+1 - O projecto educativo, o regulamento interno, os planos anual e plurianual de actividades e o orçamento constituem instrumentos do exercício da autonomia de todos os agrupamentos de escolas e escolas não agrupadas, sendo entendidos para os efeitos do presente decreto-lei como:
+
+a) «Projecto educativo» o documento que consagra a orientação educativa do agrupamento de escolas ou da escola não agrupada, elaborado e aprovado pelos seus órgãos de administração e gestão para um horizonte de três anos, no qual se explicitam os princípios, os valores, as metas e as estratégias segundo os quais o agrupamento de escolas ou escola não agrupada se propõe cumprir a sua função educativa;
+
+b) «Regulamento interno» o documento que define o regime de funcionamento do agrupamento de escolas ou da escola não agrupada, de cada um dos seus órgãos de administração e gestão, das estruturas de orientação e dos serviços administrativos, técnicos e técnico-pedagógicos, bem como os direitos e os deveres dos membros da comunidade escolar;
+
+c) «Planos anual e plurianual de actividades» os documentos de planeamento, que definem, em função do projecto educativo, os objectivos, as formas de organização e de programação das actividades e que procedem à identificação dos recursos necessários à sua execução;
+
+d) «Orçamento» o documento em que se prevêem, de forma discriminada, as receitas a obter e as despesas a realizar pelo agrupamento de escolas ou escola não agrupada.
+
+2 - São ainda instrumentos de autonomia dos agrupamentos de escolas e das escolas não agrupadas, para efeitos da respectiva prestação de contas, o relatório anual de actividades, a conta de gerência e o relatório de auto-avaliação, sendo entendidos para os efeitos do presente decreto-lei como:
+
+a) «Relatório anual de actividades» o documento que relaciona as actividades efectivamente realizadas pelo agrupamento de escolas ou escola não agrupada e identifica os recursos utilizados nessa realização;
+
+b) «Conta de gerência» o documento que relaciona as receitas obtidas e despesas realizadas pelo agrupamento de escolas ou escola não agrupada;
+
+c) «Relatório de auto-avaliação» o documento que procede à identificação do grau de concretização dos objectivos fixados no projecto educativo, à avaliação das actividades realizadas pelo agrupamento de escolas ou escola não agrupada e da sua organização e gestão, designadamente no que diz respeito aos resultados escolares e à prestação do serviço educativo.
+
+3 - O contrato de autonomia constitui o instrumento de desenvolvimento e aprofundamento da autonomia dos agrupamentos de escolas e escolas não agrupadas.
+
+4 - O contrato de autonomia é celebrado entre a administração educativa e os agrupamentos de escolas ou escolas não agrupadas, nos termos previstos no capítulo vii do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+## Artigo 9.º-A — Integração dos instrumentos de gestão
+
+1 - Os instrumentos de gestão a que se refere o artigo anterior, constituindo documentos diferenciados, obedecem a uma lógica de integração e de articulação, tendo em vista a coerência, a eficácia e a qualidade do serviço prestado.
+
+2 - A integração e articulação a que alude o número anterior assentam, prioritariamente, nos seguintes instrumentos:
+
+a) No projeto educativo, que constitui um documento objetivo, conciso e rigoroso, tendo em vista a clarificação e comunicação da missão e das metas da escola no quadro da sua autonomia pedagógica, curricular, cultural, administrativa e patrimonial, assim como a sua apropriação individual e coletiva;
+
+b) No plano anual e plurianual de atividades, que concretiza os princípios, valores e metas enunciados no projeto educativo elencando as atividades e as prioridades a concretizar no respeito pelo regulamento interno e o orçamento.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+### Capítulo III — Regime de administração e gestão
+
+###### Artigo 10.º — Administração e gestão
+
+1 - A administração e gestão dos agrupamentos de escolas e escolas não agrupadas é assegurada por órgãos próprios, aos quais cabe cumprir e fazer cumprir os princípios e objectivos referidos nos artigos 3.º e 4.º do presente decreto-lei.
+
+2 - São órgãos de direcção, administração e gestão dos agrupamentos de escolas e escolas não agrupadas os seguintes:
+
+a) O conselho geral;
+
+b) O director;
+
+c) O conselho pedagógico;
+
+d) O conselho administrativo.
+
+#### Secção I — Órgãos
+
+##### Subsecção I — Conselho geral
+
+###### Artigo 11.º — Conselho geral
+
+1 - O conselho geral é o órgão de direcção estratégica responsável pela definição das linhas orientadoras da actividade da escola, assegurando a participação e representação da comunidade educativa, nos termos e para os efeitos do n.º 4 do artigo 48.º da Lei de Bases do Sistema Educativo.
+
+2 - Sem prejuízo do disposto no número anterior, a articulação com o município faz-se ainda através das câmaras municipais no respeito pelas competências dos conselhos municipais de educação, estabelecidos pelo Decreto-Lei n.º 7/2003, de 15 de Janeiro.
+
+###### Artigo 12.º — Composição
+
+1 - O número de elementos que compõem o conselho geral é estabelecido por cada agrupamento de escolas ou escola não agrupada, nos termos do respectivo regulamento interno, devendo ser um número ímpar não superior a 21.
+
+2 - Na composição do conselho geral tem de estar salvaguardada a participação de representantes do pessoal docente e não docente, dos pais e encarregados de educação, dos alunos, do município e da comunidade local.
+
+3 - Para os efeitos previstos no número anterior, considera-se pessoal docente os docentes de carreira com vínculo contratual com o Ministério da Educação e Ciência.
+
+4 - Sem prejuízo do disposto no n.º 9, os membros da direção, os coordenadores de escolas ou de estabelecimentos de educação pré-escolar, bem como os docentes que assegurem funções de assessoria da direção, nos termos previstos no artigo 30.º, não podem ser membros do conselho geral.
+
+5 - O número de representantes do pessoal docente e não docente, no seu conjunto, não pode ser superior a 50 % da totalidade dos membros do conselho geral.
+
+6 - A representação dos discentes é assegurada por alunos maiores de 16 anos de idade.
+
+7 - Nos agrupamentos de escolas ou escolas não agrupadas onde não haja lugar à representação dos alunos, nos termos do número anterior, o regulamento interno pode prever a participação de representantes dos alunos, sem direito a voto, nomeadamente através das respectivas associações de estudantes.
+
+8 - Além de representantes dos municípios, o conselho geral integra representantes da comunidade local, designadamente de instituições, organizações e actividades de carácter económico, social, cultural e científico.
+
+9 - O director participa nas reuniões do conselho geral, sem direito a voto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 13.º — Competências
+
+1 - Sem prejuízo das competências que lhe sejam cometidas por lei ou regulamento interno, ao conselho geral compete:
+
+a) Eleger o respectivo presidente, de entre os seus membros, à excepção dos representantes dos alunos;
+
+b) Eleger o director, nos termos dos artigos 21.º a 23.º do presente decreto-lei;
+
+c) Aprovar o projecto educativo e acompanhar e avaliar a sua execução;
+
+d) Aprovar o regulamento interno do agrupamento de escolas ou escola não agrupada;
+
+e) Aprovar os planos anual e plurianual de actividades;
+
+f) Apreciar os relatórios periódicos e aprovar o relatório final de execução do plano anual de actividades;
+
+g) Aprovar as propostas de contratos de autonomia;
+
+h) Definir as linhas orientadoras para a elaboração do orçamento;
+
+i) Definir as linhas orientadoras do planeamento e execução, pelo director, das actividades no domínio da acção social escolar;
+
+j) Aprovar o relatório de contas de gerência;
+
+k) Apreciar os resultados do processo de auto-avaliação;
+
+l) Pronunciar-se sobre os critérios de organização dos horários;
+
+m) Acompanhar a acção dos demais órgãos de administração e gestão;
+
+n) Promover o relacionamento com a comunidade educativa;
+
+o) Definir os critérios para a participação da escola em actividades pedagógicas, científicas, culturais e desportivas.
+
+p) Dirigir recomendações aos restantes órgãos, tendo em vista o desenvolvimento do projeto educativo e o cumprimento do plano anual de atividades;
+
+q) Participar, nos termos definidos em diploma próprio, no processo de avaliação do desempenho do diretor;
+
+r) Decidir os recursos que lhe são dirigidos;
+
+s) Aprovar o mapa de férias do diretor.
+
+2 - O presidente é eleito por maioria absoluta dos votos dos membros do conselho geral em efectividade de funções.
+
+3 - Os restantes órgãos devem facultar ao conselho geral todas as informações necessárias para este realizar eficazmente o acompanhamento e a avaliação do funcionamento do agrupamento de escolas ou escola não agrupada.
+
+4 - O conselho geral pode constituir no seu seio uma comissão permanente, na qual pode delegar as competências de acompanhamento da actividade do agrupamento de escolas ou escola não agrupada entre as suas reuniões ordinárias.
+
+5 - A comissão permanente constitui-se como uma fracção do conselho geral, respeitada a proporcionalidade dos corpos que nele têm representação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 14.º — Designação de representantes
+
+1 - Os representantes do pessoal docente são eleitos por todos os docentes e formadores em exercício de funções no agrupamento de escolas ou escola não agrupada.
+
+2 - Os representantes dos alunos e do pessoal não docente são eleitos separadamente pelos respetivos corpos, nos termos definidos no regulamento interno.
+
+3 - Os representantes dos pais e encarregados de educação são eleitos em assembleia geral de pais e encarregados de educação do agrupamento de escolas ou escola não agrupada, sob proposta das respectivas organizações representativas, e, na falta das mesmas, nos termos a definir no regulamento interno.
+
+4 - Os representantes do município são designados pela câmara municipal, podendo esta delegar tal competência nas juntas de freguesia.
+
+5 - Os representantes da comunidade local, quando se trate de individualidades ou representantes de actividades de carácter económico, social, cultural e científico, são cooptados pelos demais membros nos termos do regulamento interno.
+
+6 - Os representantes da comunidade local, quando se trate de representantes de instituições ou organizações são indicados pelas mesmas nos termos do regulamento interno.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 15.º — Eleições
+
+1 - Os representantes referidos no n.º 1 do artigo anterior candidatam-se à eleição, apresentando-se em listas separadas.
+
+2 - As listas devem conter a indicação dos candidatos a membros efectivos, em número igual ao dos respectivos representantes no conselho geral, bem como dos candidatos a membros suplentes.
+
+3 - As listas do pessoal docente devem assegurar, sempre que possível, a representação dos diferentes níveis e ciclos de ensino, nos termos definidos no regulamento interno.
+
+4 - A conversão dos votos em mandatos faz-se de acordo com o método de representação proporcional da média mais alta de Hondt.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 16.º — Mandato
+
+1 - O mandato dos membros do conselho geral tem a duração de quatro anos, sem prejuízo do disposto nos números seguintes.
+
+2 - Salvo quando o regulamento interno fixar diversamente e dentro do limite referido no número anterior, o mandato dos representantes dos pais e encarregados de educação e dos alunos tem a duração de dois anos escolares.
+
+3 - Os membros do conselho geral são substituídos no exercício do cargo se entretanto perderem a qualidade que determinou a respectiva eleição ou designação.
+
+4 - As vagas resultantes da cessação do mandato dos membros eleitos são preenchidas pelo primeiro candidato não eleito, segundo a respectiva ordem de precedência, na lista a que pertencia o titular do mandato, com respeito pelo disposto no n.º 4 do artigo anterior.
+
+###### Artigo 17.º — Reunião do conselho geral
+
+1 - O conselho geral reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que convocado pelo respectivo presidente, por sua iniciativa, a requerimento de um terço dos seus membros em efectividade de funções ou por solicitação do director.
+
+2 - As reuniões do conselho geral devem ser marcadas em horário que permita a participação de todos os seus membros.
+
+##### Subsecção II — Director
+
+###### Artigo 18.º — Director
+
+O director é o órgão de administração e gestão do agrupamento de escolas ou escola não agrupada nas áreas pedagógica, cultural, administrativa, financeira e patrimonial.
+
+###### Artigo 19.º — Subdirector e adjuntos do director
+
+1 - O director é coadjuvado no exercício das suas funções por um subdirector e por um a três adjuntos.
+
+2 - O número de adjuntos do director é fixado em função da dimensão dos agrupamentos de escolas e escolas não agrupadas e da complexidade e diversidade da sua oferta educativa, nomeadamente dos níveis e ciclos de ensino e das tipologias de cursos que lecciona.
+
+3 - Os critérios de fixação do número de adjuntos do director são estabelecidos por despacho do membro do Governo responsável pela área da educação.
+
+###### Artigo 20.º — Competências
+
+1 - Compete ao director submeter à aprovação do conselho geral o projecto educativo elaborado pelo conselho pedagógico.
+
+2 - Ouvido o conselho pedagógico, compete também ao director:
+
+a) Elaborar e submeter à aprovação do conselho geral:
+
+i) As alterações ao regulamento interno;
+
+ii) Os planos anual e plurianual de actividades;
+
+iii) O relatório anual de actividades;
+
+iv) As propostas de celebração de contratos de autonomia;
+
+b) Aprovar o plano de formação e de actualização do pessoal docente e não docente, ouvido também, no último caso, o município.
+
+3 - No acto de apresentação ao conselho geral, o director faz acompanhar os documentos referidos na alínea a) do número anterior dos pareceres do conselho pedagógico.
+
+4 - Sem prejuízo das competências que lhe sejam cometidas por lei ou regulamento interno, no plano da gestão pedagógica, cultural, administrativa, financeira e patrimonial, compete ao director, em especial:
+
+a) Definir o regime de funcionamento do agrupamento de escolas ou escola não agrupada;
+
+b) Elaborar o projecto de orçamento, em conformidade com as linhas orientadoras definidas pelo conselho geral;
+
+c) Superintender na constituição de turmas e na elaboração de horários;
+
+d) Distribuir o serviço docente e não docente;
+
+e) Designar os coordenadores de escola ou estabelecimento de educação pré-escolar;
+
+f) Propor os candidatos ao cargo de coordenador de departamento curricular nos termos definidos no n.º 5 do artigo 43.º e designar os diretores de turma;
+
+g) Planear e assegurar a execução das actividades no domínio da acção social escolar, em conformidade com as linhas orientadoras definidas pelo conselho geral;
+
+h) Gerir as instalações, espaços e equipamentos, bem como os outros recursos educativos;
+
+i) Estabelecer protocolos e celebrar acordos de cooperação ou de associação com outras escolas e instituições de formação, autarquias e coletividades, em conformidade com os critérios definidos pelo conselho geral nos termos da alínea o) do n.º 1 do artigo 13.º;
+
+j) Proceder à selecção e recrutamento do pessoal docente, nos termos dos regimes legais aplicáveis;
+
+k) Assegurar as condições necessárias à realização da avaliação do desempenho do pessoal docente e não docente, nos termos da legislação aplicável;
+
+l) Dirigir superiormente os serviços administrativos, técnicos e técnico-pedagógicos.
+
+5 - Compete ainda ao director:
+
+a) Representar a escola;
+
+b) Exercer o poder hierárquico em relação ao pessoal docente e não docente;
+
+c) Exercer o poder disciplinar em relação aos alunos, nos termos da legislação aplicável;
+
+d) Intervir nos termos da lei no processo de avaliação de desempenho do pessoal docente;
+
+e) Proceder à avaliação de desempenho do pessoal não docente.
+
+f) (Revogada).
+
+6 - O director exerce ainda as competências que lhe forem delegadas pela administração educativa e pela câmara municipal.
+
+7 - O diretor pode delegar e subdelegar no subdiretor, nos adjuntos ou nos coordenadores de escola ou de estabelecimento de educação pré-escolar as competências referidas nos números anteriores, com exceção da prevista da alínea d) do n.º 5.
+
+8 - Nas suas faltas e impedimentos, o director é substituído pelo subdirector.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 21.º — Recrutamento
+
+1 - O director é eleito pelo conselho geral.
+
+2 - Para recrutamento do director, desenvolve-se um procedimento concursal, prévio à eleição, nos termos do artigo seguinte.
+
+3 - Podem ser opositores ao procedimento concursal referido no número anterior docentes de carreira do ensino público ou professores profissionalizados com contrato por tempo indeterminado do ensino particular e cooperativo, em ambos os casos com, pelo menos, cinco anos de serviço e qualificação para o exercício de funções de administração e gestão escolar, nos termos do número seguinte.
+
+4 - Consideram-se qualificados para o exercício de funções de administração e gestão escolar os docentes que preencham uma das seguintes condições:
+
+a) Sejam detentores de habilitação específica para o efeito, nos termos das alíneas b) e c) do n.º 1 do artigo 56.º do Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário;
+
+b) Possuam experiência correspondente a, pelo menos, um mandato completo no exercício dos cargos de diretor, subdiretor ou adjunto do diretor, presidente ou vice-presidente do conselho executivo, diretor executivo ou adjunto do diretor executivo ou membro do conselho diretivo e ou executivo, nos termos dos regimes aprovados respetivamente pelo presente decreto-lei, pelo Decreto-Lei n.º 115-A/98, de 4 de maio, alterado pelo Decreto-Lei n.º 75/2008, de 22 de abril, pela Lei n.º 24/99, de 22 de abril, pelo Decreto-Lei n.º 172/91, de 10 de maio, e pelo Decreto-Lei n.º 769-A/76, de 23 de outubro;
+
+c) Possuam experiência de, pelo menos, três anos como director ou director pedagógico de estabelecimento do ensino particular e cooperativo.
+
+d) Possuam currículo relevante na área da gestão e administração escolar, como tal considerado, em votação secreta, pela maioria dos membros da comissão prevista no n.º 4 do artigo 22.º
+
+5 - As candidaturas apresentadas por docentes com o perfil a que se referem as alíneas b), c) e d) do número anterior só são consideradas na inexistência ou na insuficiência, por não preenchimento de requisitos legais de admissão ao concurso, das candidaturas que reúnam os requisitos previstos na alínea a) do número anterior.
+
+6 - O subdiretor e os adjuntos são nomeados pelo diretor de entre os docentes de carreira que contem pelo menos cinco anos de serviço e se encontrem em exercício de funções no agrupamento de escolas ou escola não agrupada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 22.º — Abertura do procedimento concursal
+
+1 - Não sendo aprovada a recondução do diretor cessante, o conselho geral delibera a abertura do procedimento concursal até 60 dias antes do termo do mandato daquele.
+
+2 - Em cada agrupamento de escolas ou escola não agrupada, o procedimento concursal para preenchimento do cargo de diretor é obrigatório, urgente e de interesse público.
+
+3 - O aviso de abertura do procedimento contém, obrigatoriamente, os seguintes elementos:
+
+a) O agrupamento de escolas ou escola não agrupada para que é aberto o procedimento concursal;
+
+b) Os requisitos de admissão ao procedimento concursal fixados no presente decreto-lei;
+
+c) A entidade a quem deve ser apresentado o pedido de admissão ao procedimento, com indicação do respetivo prazo de entrega, forma de apresentação, documentos a juntar e demais elementos necessários à formalização da candidatura;
+
+d) Os métodos utilizados para a avaliação da candidatura.
+
+4 - O procedimento concursal é aberto em cada agrupamento de escolas ou escola não agrupada, por aviso publicitado do seguinte modo:
+
+a) Em local apropriado das instalações de cada agrupamento de escolas ou escola não agrupada;
+
+b) Na página eletrónica do agrupamento de escolas ou escola não agrupada e na do serviço competente do Ministério da Educação e Ciência;
+
+c) Por aviso publicado no Diário da República, 2.ª série, e divulgado em órgão de imprensa de expansão nacional através de anúncio que contenha referência ao Diário da República em que o referido aviso se encontra publicado.
+
+5- Com o objectivo de proceder à apreciação das candidaturas, o conselho geral incumbe a sua comissão permanente ou uma comissão especialmente designada para o efeito de elaborar um relatório de avaliação.
+
+6 - Para efeitos da avaliação das candidaturas, a comissão referida no número anterior considera obrigatoriamente:
+
+a) A análise do curriculum vitae de cada candidato, designadamente para efeitos de apreciação da sua relevância para o exercício das funções de director e do seu mérito;
+
+b) A análise do projecto de intervenção na escola;
+
+c) O resultado de entrevista individual realizada com o candidato.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 22.º-A — Candidatura
+
+1 - A admissão ao procedimento concursal é efetuada por requerimento acompanhado, para além de outros documentos exigidos no aviso de abertura, pelo curriculum vitae e por um projeto de intervenção no agrupamento de escolas ou escola não agrupada.
+
+2 - É obrigatória a prova documental dos elementos constantes do currículo, com exceção daquela que já se encontre arquivada no respetivo processo individual existente no agrupamento de escolas ou escola não agrupada onde decorre o procedimento.
+
+3 - No projeto de intervenção o candidato identifica os problemas, define a missão, as metas e as grandes linhas de orientação da ação, bem como a explicitação do plano estratégico a realizar no mandato.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 22.º-B — Avaliação das candidaturas
+
+1 - As candidaturas são apreciadas pela comissão permanente do conselho geral ou por uma comissão especialmente designada para o efeito por aquele órgão.
+
+2 - Sem prejuízo do disposto no n.º 1 do artigo 22.º, os métodos utilizados para a avaliação das candidaturas são aprovados pelo conselho geral, sob proposta da sua comissão permanente ou da comissão especialmente designada para a apreciação das candidaturas.
+
+3 - Previamente à apreciação das candidaturas, a comissão referida no número anterior procede ao exame dos requisitos de admissão ao concurso, excluindo os candidatos que os não preencham, sem prejuízo da aplicação do artigo 76.º do Código do Procedimento Administrativo.
+
+4 - Das decisões de exclusão da comissão de apreciação das candidaturas cabe recurso, com efeito suspensivo, a interpor para o conselho geral, no prazo de dois dias úteis e a decidir, por maioria qualificada de dois terços dos seus membros em efetividade de funções, no prazo de cinco dias úteis.
+
+5 - A comissão que procede à apreciação das candidaturas, além de outros elementos fixados no aviso de abertura, considera obrigatoriamente:
+
+a) A análise do curriculum vitae de cada candidato, designadamente para efeitos de apreciação da sua relevância para o exercício das funções de diretor e o seu mérito;
+
+b) A análise do projeto de intervenção no agrupamento de escolas ou escola não agrupada;
+
+c) O resultado da entrevista individual realizada com o candidato.
+
+6 - Após a apreciação dos elementos referidos no número anterior, a comissão elabora um relatório de avaliação dos candidatos, que é presente ao conselho geral, fundamentando, relativamente a cada um, as razões que aconselham ou não a sua eleição.
+
+7 - Sem prejuízo da expressão de um juízo avaliativo sobre as candidaturas em apreciação, a comissão não pode, no relatório previsto no número anterior, proceder à seriação dos candidatos.
+
+8 - A comissão pode considerar no relatório de avaliação que nenhum dos candidatos reúne condições para ser eleito.
+
+9 - Após a entrega do relatório de avaliação ao conselho geral, este realiza a sua discussão e apreciação, podendo para o efeito, antes de proceder à eleição, por deliberação tomada por maioria dos presentes ou a requerimento de pelo menos um terço dos seus membros em efetividade de funções, decidir efetuar a audição oral dos candidatos, podendo nesta sede serem apreciadas todas as questões relevantes para a eleição.
+
+10 - A notificação da realização da audição oral dos candidatos e as respetivas convocatórias são efetuadas com a antecedência de, pelo menos, oito dias úteis.
+
+11 - A falta de comparência do interessado à audição não constitui motivo do seu adiamento, podendo o conselho geral, se não for apresentada justificação da falta, apreciar essa conduta para o efeito do interesse do candidato na eleição.
+
+12 - Da audição é lavrada ata contendo a súmula do ato.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 23.º — Eleição
+
+1- Após a discussão e apreciação do relatório e a eventual audição dos candidatos, o conselho geral procede à eleição do director, considerando-se eleito o candidato que obtenha maioria absoluta dos votos dos membros do conselho geral em efectividade de funções.
+
+2 - No caso de o candidato ou de nenhum dos candidatos sair vencedor, nos termos do número anterior, o conselho geral reúne novamente, no prazo máximo de cinco dias úteis, para proceder a novo escrutínio, ao qual são admitidos, consoante o caso, o candidato único ou os dois candidatos mais votados na primeira eleição, sendo considerado eleito aquele que obtiver maior número de votos favoráveis, desde que em número não inferior a um terço dos membros do conselho geral em efetividade de funções.
+
+3 - Sempre que o candidato, no caso de ser único, ou o candidato mais votado, nos restantes casos, não obtenha, na votação a que se refere o número anterior, o número mínimo de votos nele estabelecido, é o facto comunicado ao serviço competente do Ministério da Educação e Ciência, para os efeitos previstos no artigo 66.º do presente decreto-lei.
+
+4 - O resultado da eleição do diretor é homologado pelo diretor-geral da Administração Escolar nos 10 dias úteis posteriores à sua comunicação pelo presidente do conselho geral, considerando-se após esse prazo tacitamente homologado.
+
+5 - A recusa de homologação apenas pode fundamentar-se na violação da lei ou dos regulamentos, designadamente do procedimento eleitoral.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 24.º — Posse
+
+1 - O diretor toma posse perante o conselho geral nos 30 dias subsequentes à homologação dos resultados eleitorais pelo diretor-geral da Administração Escolar, nos termos do n.º 4 do artigo anterior.
+
+2 - O director designa o subdirector e os seus adjuntos no prazo máximo de 30 dias após a sua tomada de posse.
+
+3 - O subdirector e os adjuntos do director tomam posse nos 30 dias subsequentes à sua designação pelo director.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 25.º — Mandato
+
+1 - O mandato do director tem a duração de quatro anos.
+
+2 - Até 60 dias antes do termo do mandato do director, o conselho geral delibera sobre a recondução do director ou a abertura do procedimento concursal tendo em vista a realização de nova eleição.
+
+3 - A decisão de recondução do director é tomada por maioria absoluta dos membros do conselho geral em efectividade de funções, não sendo permitida a sua recondução para um terceiro mandato consecutivo.
+
+4 - Não é permitida a eleição para um quinto mandato consecutivo ou durante o quadriénio imediatamente subsequente ao termo do quarto mandato consecutivo.
+
+5 - Não sendo ou não podendo ser aprovada a recondução do director de acordo com o disposto nos números anteriores, abre-se o procedimento concursal tendo em vista a eleição do director, nos termos do artigo 22.º
+
+6 - O mandato do director pode cessar:
+
+a) A requerimento do interessado, dirigido ao diretor-geral da Administração Escolar, com a antecedência mínima de 45 dias, fundamentado em motivos devidamente justificados;
+
+b) No final do ano escolar, por deliberação do conselho geral aprovada por maioria de dois terços dos membros em efectividade de funções, em caso de manifesta desadequação da respectiva gestão, fundada em factos comprovados e informações, devidamente fundamentadas, apresentados por qualquer membro do conselho geral;
+
+c) Na sequência de processo disciplinar que tenha concluído pela aplicação de sanção disciplinar de cessação da comissão de serviço, nos termos da lei.
+
+7 - A cessação do mandato do director determina a abertura de um novo procedimento concursal.
+
+8 - Os mandatos do subdirector e dos adjuntos têm a duração de quatro anos e cessam com o mandato do director.
+
+9 - Sem prejuízo do disposto no número anterior, e salvaguardadas as situações previstas nos artigos 35.º e 66.º, quando a cessação do mandato do diretor ocorra antes do termo do período para o qual foi eleito, o subdiretor e os adjuntos asseguram a administração e gestão do agrupamento de escolas ou da escola não agrupada até à tomada de posse do novo diretor, devendo o respetivo processo de recrutamento estar concluído no prazo máximo de 90 dias.
+
+10 - Não sendo possível adotar a solução prevista no número anterior e não sendo aplicável o disposto no artigo 35.º, a gestão do agrupamento de escolas ou da escola não agrupada é assegurada nos termos estabelecidos no artigo 66.º
+
+11 - O subdirector e os adjuntos podem ser exonerados a todo o tempo por decisão fundamentada do director.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 26.º — Regime de exercício de funções
+
+1 - O director exerce as funções em regime de comissão de serviço.
+
+2 - O exercício das funções de director faz-se em regime de dedicação exclusiva.
+
+3 - O regime de dedicação exclusiva implica a incompatibilidade do cargo dirigente com quaisquer outras funções, públicas ou privadas, remuneradas ou não.
+
+4 - Exceptuam-se do disposto no número anterior:
+
+a) A participação em órgãos ou entidades de representação das escolas ou do pessoal docente;
+
+b) Comissões ou grupos de trabalho, quando criados por resolução ou deliberação do Conselho de Ministros ou por despacho do membro do Governo responsável pela área da educação;
+
+c) A actividade de criação artística e literária, bem como quaisquer outras de que resulte a percepção de remunerações provenientes de direitos de autor;
+
+d) A realização de conferências, palestras, acções de formação de curta duração e outras actividades de idêntica natureza;
+
+e) O voluntariado, bem como a actividade desenvolvida no quadro de associações ou organizações não governamentais.
+
+5 - O director está isento de horário de trabalho, não lhe sendo, por isso, devida qualquer remuneração por trabalho prestado fora do período normal de trabalho.
+
+6 - Sem prejuízo do disposto no número anterior, o director está obrigado ao cumprimento do período normal de trabalho, assim como do dever geral de assiduidade.
+
+7 - O director está dispensado da prestação de serviço lectivo, sem prejuízo de, por sua iniciativa, o poder prestar na disciplina ou área curricular para a qual possua qualificação profissional.
+
+###### Artigo 27.º — Direitos do director
+
+1 - O director goza, independentemente do seu vínculo de origem, dos direitos gerais reconhecidos aos docentes do agrupamento de escolas ou escola não agrupada em que exerça funções.
+
+2 - O director conserva o direito ao lugar de origem e ao regime de segurança social por que está abrangido, não podendo ser prejudicado na sua carreira profissional por causa do exercício das suas funções, relevando para todos os efeitos no lugar de origem o tempo de serviço prestado naquele cargo.
+
+###### Artigo 28.º — Direitos específicos
+
+1 - O director, o subdirector e os adjuntos gozam do direito à formação específica para as suas funções em termos a regulamentar por despacho do membro do Governo responsável pela área da educação.
+
+2 - O director, o subdirector e os adjuntos mantêm o direito à remuneração base correspondente à categoria de origem, sendo-lhes abonado um suplemento remuneratório pelo exercício de função, a estabelecer nos termos do artigo 54.º
+
+###### Artigo 29.º — Deveres específicos
+
+Para além dos deveres gerais dos trabalhadores que exercem funções públicas aplicáveis ao pessoal docente, o diretor e os adjuntos estão sujeitos aos seguintes deveres específicos:
+
+a) Cumprir e fazer cumprir as orientações da administração educativa;
+
+b) Manter permanentemente informada a administração educativa, através da via hierárquica competente, sobre todas as questões relevantes referentes aos serviços;
+
+c) Assegurar a conformidade dos actos praticados pelo pessoal com o estatuído na lei e com os legítimos interesses da comunidade educativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 30.º — Assessoria da direcção
+
+1 - Para apoio à actividade do director e mediante proposta deste, o conselho geral pode autorizar a constituição de assessorias técnico-pedagógicas, para as quais são designados docentes em exercício de funções no agrupamento de escolas ou escola não agrupada.
+
+2 - Os critérios para a constituição e dotação das assessorias referidas no número anterior são definidos por despacho do membro do Governo responsável pela área da educação, em função da população escolar e do tipo e regime de funcionamento do agrupamento de escolas ou escola não agrupada.
+
+##### Subsecção III — Conselho pedagógico
+
+###### Artigo 31.º — Conselho pedagógico
+
+O conselho pedagógico é o órgão de coordenação e supervisão pedagógica e orientação educativa do agrupamento de escolas ou escola não agrupada, nomeadamente nos domínios pedagógico-didático, da orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 32.º — Composição
+
+1 - A composição do conselho pedagógico é estabelecida pelo agrupamento de escolas ou escola não agrupada nos termos do respetivo regulamento interno, não podendo ultrapassar o máximo de 17 membros e observando os seguintes princípios:
+
+a) Participação dos coordenadores dos departamentos curriculares;
+
+b) Participação das demais estruturas de coordenação e supervisão pedagógica e de orientação educativa, assegurando uma representação pluridisciplinar e das diferentes ofertas formativas;
+
+c) (Revogada).
+
+2 - Os agrupamentos de escolas e as escolas não agrupadas podem ainda definir, nos termos do respectivo regulamento interno, as formas de participação dos serviços técnico-pedagógicos.
+
+3 - O director é, por inerência, presidente do conselho pedagógico.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - Os representantes do pessoal docente no conselho geral não podem ser membros do conselho pedagógico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 33.º — Competências
+
+Sem prejuízo das competências que lhe sejam cometidas por lei ou regulamento interno, ao conselho pedagógico compete:
+
+a) Elaborar a proposta de projecto educativo a submeter pelo director ao conselho geral;
+
+b) Apresentar propostas para a elaboração do regulamento interno e dos planos anual e plurianual de actividade e emitir parecer sobre os respectivos projectos;
+
+c) Emitir parecer sobre as propostas de celebração de contratos de autonomia;
+
+d) Elaborar e aprovar o plano de formação e de atualização do pessoal docente;
+
+e) Definir critérios gerais nos domínios da informação e da orientação escolar e vocacional, do acompanhamento pedagógico e da avaliação dos alunos;
+
+f) Propor aos órgãos competentes a criação de áreas disciplinares ou disciplinas de conteúdo regional e local, bem como as respectivas estruturas programáticas;
+
+g) Definir princípios gerais nos domínios da articulação e diversificação curricular, dos apoios e complementos educativos e das modalidades especiais de educação escolar;
+
+h) Adoptar os manuais escolares, ouvidos os departamentos curriculares;
+
+i) Propor o desenvolvimento de experiências de inovação pedagógica e de formação, no âmbito do agrupamento de escolas ou escola não agrupada e em articulação com instituições ou estabelecimentos do ensino superior vocacionados para a formação e a investigação;
+
+j) Promover e apoiar iniciativas de natureza formativa e cultural;
+
+k) Definir os critérios gerais a que deve obedecer a elaboração dos horários;
+
+l) Definir os requisitos para a contratação de pessoal docente, de acordo com o disposto na legislação aplicável;
+
+m) Propor mecanismos de avaliação dos desempenhos organizacionais e dos docentes, bem como da aprendizagem dos alunos, credíveis e orientados para a melhoria da qualidade do serviço de educação prestado e dos resultados das aprendizagens;
+
+n) Participar, nos termos regulamentados em diploma próprio, no processo de avaliação do desempenho do pessoal docente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 34.º — Funcionamento
+
+1 - O conselho pedagógico reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa, a requerimento de um terço dos seus membros em efectividade de funções ou sempre que um pedido de parecer do conselho geral ou do director o justifique.
+
+2 - Nas reuniões plenárias ou de comissões especializadas, designadamente quando a ordem de trabalhos verse sobre as matérias previstas nas alíneas a), b), e), f) j), e k) do artigo anterior, podem participar, sem direito a voto, a convite do presidente do conselho pedagógico, representantes do pessoal não docente, dos pais e encarregados de educação e dos alunos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+##### Subsecção IV — Garantia do serviço público
+
+###### Artigo 35.º — Dissolução dos órgãos
+
+1 - A todo o momento, por despacho fundamentado do membro do Governo responsável pela área da educação, na sequência de processo de avaliação externa ou de acção inspectiva que comprovem prejuízo manifesto para o serviço público ou manifesta degradação ou perturbação da gestão do agrupamento de escolas ou escola não agrupada, podem ser dissolvidos os respectivos órgãos de direcção, administração e gestão.
+
+2 - No caso previsto no número anterior, o despacho do membro do Governo responsável pela área da educação que determine a dissolução dos órgãos de direcção, administração e gestão designa uma comissão administrativa encarregada da gestão do agrupamento de escolas ou escola não agrupada.
+
+3 - A comissão administrativa referida no número anterior é ainda encarregada de organizar novo procedimento para a constituição do conselho geral, cessando o seu mandato com a eleição do director, a realizar no prazo máximo de 18 meses a contar da sua nomeação.
+
+#### Secção II — Conselho administrativo
+
+###### Artigo 36.º — Conselho administrativo
+
+O conselho administrativo é o órgão deliberativo em matéria administrativo-financeira do agrupamento de escolas ou escola não agrupada, nos termos da legislação em vigor.
+
+###### Artigo 37.º — Composição
+
+O conselho administrativo tem a seguinte composição:
+
+a) O director, que preside;
+
+b) O subdirector ou um dos adjuntos do director, por ele designado para o efeito;
+
+c)  O chefe dos serviços administrativos, ou quem o substitua.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 38.º — Competências
+
+Sem prejuízo das competências que lhe sejam cometidas por lei ou regulamento interno, compete ao conselho administrativo:
+
+a) Aprovar o projecto de orçamento anual, em conformidade com as linhas orientadoras definidas pelo conselho geral;
+
+b) Elaborar o relatório de contas de gerência;
+
+c) Autorizar a realização de despesas e o respectivo pagamento, fiscalizar a cobrança de receitas e verificar a legalidade da gestão financeira;
+
+d) Zelar pela actualização do cadastro patrimonial.
+
+###### Artigo 39.º — Funcionamento
+
+O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convoque, por sua iniciativa ou a requerimento de qualquer dos restantes membros.
+
+#### Secção III — Coordenação de escola ou de estabelecimento de educação pré-escolar
+
+###### Artigo 40.º — Coordenador
+
+1 - A coordenação de cada estabelecimento de educação pré-escolar ou de escola integrada num agrupamento é assegurada por um coordenador.
+
+2 - Nas escolas em que funcione a sede do agrupamento, bem como nos que tenham menos de três docentes em exercício efectivo de funções, não há lugar à designação de coordenador.
+
+3 - O coordenador é designado pelo diretor, de entre os professores em exercício efetivo de funções na escola ou no estabelecimento de educação pré-escolar.
+
+4 - O mandato do coordenador de estabelecimento tem a duração de quatro anos e cessa com o mandato do director.
+
+5 - O coordenador de estabelecimento pode ser exonerado a todo o tempo por despacho fundamentado do director.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 41.º — Competências
+
+Compete ao coordenador de escola ou estabelecimento de educação pré-escolar:
+
+a) Coordenar as actividades educativas, em articulação com o director;
+
+b) Cumprir e fazer cumprir as decisões do director e exercer as competências que por esta lhe forem delegadas;
+
+c) Transmitir as informações relativas a pessoal docente e não docente e aos alunos;
+
+d) Promover e incentivar a participação dos pais e encarregados de educação, dos interesses locais e da autarquia nas actividades educativas.
+
+### Capítulo IV — Organização pedagógica
+
+#### Secção I — Estruturas de coordenação e supervisão
+
+###### Artigo 42.º — Estruturas de coordenação educativa e supervisão pedagógica
+
+1 - Com vista ao desenvolvimento do projecto educativo, são fixadas no regulamento interno as estruturas que colaboram com o conselho pedagógico e com o director, no sentido de assegurar a coordenação, supervisão e acompanhamento das actividades escolares, promover o trabalho colaborativo e realizar a avaliação de desempenho do pessoal docente.
+
+2 - A constituição de estruturas de coordenação educativa e supervisão pedagógica visa, nomeadamente:
+
+a) A articulação e gestão curricular na aplicação do currículo nacional e dos programas e orientações curriculares e programáticas definidos a nível nacional, bem como o desenvolvimento de componentes curriculares por iniciativa do agrupamento de escolas ou escola não agrupada;
+
+b) A organização, o acompanhamento e a avaliação das actividades de turma ou grupo de alunos;
+
+c) A coordenação pedagógica de cada ano, ciclo ou curso;
+
+d) A avaliação de desempenho do pessoal docente.
+
+###### Artigo 43.º — Articulação e gestão curricular
+
+1 - A articulação e gestão curricular devem promover a cooperação entre os docentes do agrupamento de escolas ou escola não agrupada, procurando adequar o currículo às necessidades específicas dos alunos.
+
+2 - A articulação e gestão curricular são asseguradas por departamentos curriculares nos quais se encontram representados os grupos de recrutamento e áreas disciplinares, de acordo com os cursos leccionados e o número de docentes.
+
+3 - O número de departamentos curriculares é definido no regulamento interno do agrupamento de escolas ou da escola não agrupada, no âmbito e no exercício da respetiva autonomia pedagógica e curricular.
+
+4 - (Revogado).
+
+5 - O coordenador de departamento curricular deve ser um docente de carreira detentor de formação especializada nas áreas de supervisão pedagógica, avaliação do desempenho docente ou administração educacional.
+
+6 - Quando não for possível a designação de docentes com os requisitos definidos no número anterior, por não existirem ou não existirem em número suficiente para dar cumprimento ao estabelecido no presente decreto-lei, podem ser designados docentes segundo a seguinte ordem de prioridade:
+
+a) Docentes com experiência profissional, de pelo menos um ano, de supervisão pedagógica na formação inicial, na profissionalização ou na formação em exercício ou na profissionalização ou na formação em serviço de docentes;
+
+b) Docentes com experiência de pelo menos um mandato de coordenador de departamento curricular ou de outras estruturas de coordenação educativa previstas no regulamento interno, delegado de grupo disciplinar ou representante de grupo de recrutamento;
+
+c) Docentes que, não reunindo os requisitos anteriores, sejam considerados competentes para o exercício da função.
+
+7 - O coordenador de departamento é eleito pelo respetivo departamento, de entre uma lista de três docentes, propostos pelo diretor para o exercício do cargo.
+
+8 - Para efeitos do disposto no número anterior considera-se eleito o docente que reúna o maior número de votos favoráveis dos membros do departamento curricular.
+
+9 - O mandato dos coordenadores dos departamentos curriculares tem a duração de quatro anos e cessa com o mandato do diretor.
+
+10 - Os coordenadores dos departamentos curriculares podem ser exonerados a todo o tempo por despacho fundamentado do diretor, após consulta ao respetivo departamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 44.º — Organização das actividades de turma
+
+1 - Em cada escola, a organização, o acompanhamento e a avaliação das actividades a desenvolver com os alunos e a articulação entre a escola e as famílias é assegurada:
+
+a) Pelos educadores de infância, na educação pré-escolar;
+
+b) Pelos professores titulares das turmas, no 1.º ciclo do ensino básico;
+
+c) Pelo conselho de turma, nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, com a seguinte constituição:
+
+i) Os professores da turma;
+
+ii) Dois representantes dos pais e encarregados de educação;
+
+iii) Um representante dos alunos, no caso do 3.º ciclo do ensino básico e no ensino secundário.
+
+2 - Para coordenar o trabalho do conselho de turma, o director designa um director de turma de entre os professores da mesma, sempre que possível pertencente ao quadro do respectivo agrupamento de escolas ou escola não agrupada.
+
+3 - Nas reuniões do conselho de turma em que seja discutida a avaliação individual dos alunos apenas participam os membros docentes.
+
+4 - No desenvolvimento da sua autonomia, o agrupamento de escolas ou escola não agrupada pode ainda designar professores tutores para acompanhamento em particular do processo educativo de um grupo de alunos.
+
+###### Artigo 45.º — Outras estruturas de coordenação
+
+1 - No âmbito da sua autonomia e nos termos dos seus regulamentos internos, os agrupamentos de escolas e as escolas não agrupadas estabelecem as demais estruturas de coordenação e supervisão pedagógica, bem como as formas da sua representação no conselho pedagógico.
+
+2 - A coordenação das estruturas referidas no número anterior é assegurada, sempre que possível, por professores de carreira a designar nos termos do regulamento interno.
+
+3 - Os regulamentos internos estabelecem as formas de participação e representação do pessoal docente e dos serviços técnico-pedagógicos nas estruturas de coordenação e supervisão pedagógica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+#### Secção II — Serviços
+
+###### Artigo 46.º — Serviços administrativos, técnicos e técnico-pedagógicos
+
+1 - Os agrupamentos de escolas e escolas não agrupadas dispõem de serviços administrativos, técnicos e técnico-pedagógicos que funcionam na dependência do director.
+
+2 - Os serviços administrativos são unidades orgânicas flexíveis com o nível de secção chefiadas por trabalhador detentor da categoria de coordenador técnico da carreira geral de assistente técnico, sem prejuízo da carreira subsistente de chefe de serviços de administração escolar, nos termos do Decreto-Lei n.º 121/2008, de 11 de julho, alterado pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 72-A/2010, de 18 de junho.
+
+3 - Os serviços técnicos podem compreender as áreas de administração económica e financeira, gestão de edifícios, instalações e equipamentos e apoio jurídico.
+
+4 - Os serviços técnico-pedagógicos podem compreender as áreas de apoio sócio-educativo, orientação vocacional e biblioteca.
+
+5 - Os serviços técnicos e técnico-pedagógicos referidos nos números anteriores são assegurados por pessoal técnico especializado ou por pessoal docente, sendo a sua organização e funcionamento estabelecida no regulamento interno, no respeito das orientações a fixar por despacho do membro do Governo responsável pela área da educação.
+
+6 - Sem prejuízo do disposto no número anterior, as áreas que integram os serviços técnicos e técnico-pedagógicos e a respectiva implementação podem ser objecto dos contratos de autonomia previstos no capítulo vii do presente decreto-lei.
+
+7 - Os serviços técnicos e técnico-pedagógicos podem ser objecto de partilha entre os agrupamentos de escolas e escolas não agrupadas, devendo o seu funcionamento ser enquadrado por protocolos que estabeleçam as regras necessárias à actuação de cada uma das partes.
+
+8 - Para a organização, acompanhamento e avaliação das actividades dos serviços técnico-pedagógicos, o agrupamento de escolas ou escola não agrupada pode fazer intervir outros parceiros ou especialistas em domínios que considere relevantes para o processo de desenvolvimento e de formação dos alunos, designadamente no âmbito da saúde, da segurança social, cultura, ciência e ensino superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 224/2009 - Diário da República n.º 177/2009, Série I de 2009-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2009-489733)
+
+### Capítulo V — Participação dos pais e alunos
+
+###### Artigo 47.º — Princípio geral
+
+Aos pais e encarregados de educação e aos alunos é reconhecido o direito de participação na vida do agrupamento de escolas ou escola não agrupada.
+
+###### Artigo 48.º — Representação
+
+1 - O direito de participação dos pais e encarregados de educação na vida do agrupamento de escolas ou escola não agrupada processa-se de acordo com o disposto na Lei de Bases do Sistema Educativo e no Decreto-Lei n.º 372/90, de 27 de Novembro, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 80/99, de 16 de Março, e pela Lei n.º 29/2006, de 4 de Julho.
+
+2 - O direito à participação dos alunos na vida do agrupamento de escolas ou escola não agrupada processa-se de acordo com o disposto na Lei de Bases do Sistema Educativo e concretiza-se, para além do disposto no presente decreto-lei e demais legislação aplicável, designadamente através dos delegados de turma, do conselho de delegados de turma e das assembleias de alunos, em termos a definir no regulamento interno.
+
+### Capítulo VI — Disposições comuns
+
+###### Artigo 49.º — Processo eleitoral
+
+1 - Sem prejuízo do disposto no presente decreto-lei, as disposições referentes aos processos eleitorais a que haja lugar para os órgãos de administração e gestão constam do regulamento interno.
+
+2 - Os processos eleitorais realizam-se por sufrágio secreto e presencial.
+
+3 - Os resultados do processo eleitoral para o conselho geral produzem efeitos após comunicação ao diretor-geral da Administração Escolar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 50.º — Inelegibilidade
+
+1 - O pessoal docente e não docente a quem tenha sido aplicada pena disciplinar superior a multa não pode ser eleito ou designado para os órgãos e estruturas previstos no presente decreto-lei, durante o cumprimento da pena e nos quatro anos posteriores ao seu cumprimento.
+
+2 - O disposto no número anterior não é aplicável ao pessoal docente e não docente e aos profissionais de educação reabilitados nos termos do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local.
+
+3 - Não podem ser eleitos ou designados para os órgãos e estruturas previstos no presente decreto-lei os alunos a quem seja ou tenha sido aplicada nos últimos dois anos escolares medida disciplinar sancionatória superior à de repreensão registada ou sejam ou tenham sido no mesmo período excluídos da frequência de qualquer disciplina ou retidos por excesso de faltas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 51.º — Responsabilidade
+
+No exercício das respectivas funções, os titulares dos órgãos previstos no artigo 10.º do presente decreto-lei respondem, perante a administração educativa, nos termos gerais do direito.
+
+###### Artigo 52.º — Direitos à informação e colaboração da administração educativa
+
+No exercício das suas funções, os titulares dos cargos referidos no presente regime gozam do direito à informação, à colaboração e apoio dos serviços centrais e periféricos do Ministério da Educação e Ciência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 53.º — Redução da componente lectiva
+
+As reduções da componente lectiva a que haja direito pelo exercício de cargos ou funções previstos no presente decreto-lei são fixadas por despacho do membro do Governo responsável pela área da educação, sem prejuízo do disposto no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
+
+###### Artigo 54.º — Suplementos remuneratórios
+
+Os suplementos remuneratórios a que haja direito pelo exercício de cargos ou funções previstos no presente decreto-lei são fixados por decreto regulamentar.
+
+###### Artigo 55.º — Regimento
+
+1 - Os órgãos colegiais de administração e gestão e as estruturas de coordenação educativa e supervisão pedagógica previstos no presente decreto-lei elaboram os seus próprios regimentos, definindo as respectivas regras de organização e de funcionamento, nos termos fixados no presente decreto-lei e em conformidade com o regulamento interno.
+
+2 - O regimento é elaborado ou revisto nos primeiros 30 dias do mandato do órgão ou estrutura a que respeita.
+
+### Capítulo VII — Contratos de autonomia
+
+###### Artigo 56.º — Desenvolvimento da autonomia
+
+1 - A autonomia dos agrupamentos de escolas e das escolas não agrupadas desenvolve-se e aprofunda-se com base na sua iniciativa e segundo um processo ao longo do qual lhe podem ser reconhecidos diferentes níveis de competência e de responsabilidade, de acordo com a capacidade demonstrada para assegurar o respectivo exercício.
+
+2 - Os níveis de competência e de responsabilidade a atribuir são objeto de negociação entre a escola, o Ministério da Educação e Ciência e a câmara municipal, mediante a participação dos conselhos municipais de educação, podendo conduzir à celebração de um contrato de autonomia, nos termos dos artigos seguintes.
+
+3 - A celebração de contratos de autonomia persegue objectivos de equidade, qualidade, eficácia e eficiência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 57.º — Contratos de autonomia
+
+1 - Por contrato de autonomia entende-se o acordo celebrado entre a escola, o Ministério da Educação e Ciência, a câmara municipal e, eventualmente, outros parceiros da comunidade interessados, através do qual se definem objetivos e se fixam as condições que viabilizam o desenvolvimento do projeto educativo apresentado pelos órgãos de administração e gestão de uma escola ou de um agrupamento de escolas.
+
+2 - Constituem princípios orientadores da celebração e desenvolvimento dos contratos de autonomia:
+
+a) Subordinação da autonomia aos objectivos do serviço público de educação e à qualidade da aprendizagem das crianças, dos jovens e dos adultos;
+
+b) Compromisso do Estado através da administração educativa e dos órgãos de administração e gestão do agrupamento de escolas ou escola não agrupada na execução do projeto educativo, assim como dos respetivos planos de atividades;
+
+c) Responsabilização dos órgãos de administração e gestão do agrupamento de escolas ou escola não agrupada, designadamente através do desenvolvimento de instrumentos credíveis e rigorosos de avaliação e acompanhamento do desempenho que permitam aferir a qualidade do serviço público de educação;
+
+d) Adequação dos recursos atribuídos às condições específicas do agrupamento de escolas ou escola não agrupada e ao projecto que pretende desenvolver;
+
+e) Garantia da equidade do serviço prestado e do respeito pela coerência do sistema educativo.
+
+f) A melhoria dos resultados escolares e a diminuição do abandono escolar.
+
+3 - Constituem requisitos para a apresentação de propostas de contratos de autonomia:
+
+a) Um projeto educativo contextualizado, consistente e fundamentado;
+
+b) A conclusão do procedimento de avaliação externa nos termos da lei e demais normas regulamentares aplicáveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 58.º — Atribuição de competências
+
+1 - O desenvolvimento da autonomia processa-se pela atribuição de competências nos seguintes domínios:
+
+a) Gestão flexível do currículo, com possibilidade de inclusão de componentes regionais e locais, respeitando os núcleos essenciais definidos a nível nacional;
+
+b) Oferta de cursos com planos curriculares próprios, no respeito pelos objetivos do sistema nacional de educação;
+
+c) Gestão de um crédito global de horas de serviço docente, incluindo a componente lectiva, não lectiva, o exercício de cargos de administração, gestão e orientação educativa e ainda o desenvolvimento de projectos de acção e inovação;
+
+d) Adopção de normas próprias sobre horários, tempos lectivos, constituição de turmas ou grupos de alunos e ocupação de espaços;
+
+e) Recrutamento e selecção do pessoal docente e não docente, nos termos da legislação aplicável;
+
+f) Extensão das áreas que integram os serviços técnicos e técnico-pedagógicos e suas formas de organização;
+
+g) Gestão e execução do orçamento, através de uma afectação global de meios;
+
+h) Possibilidade de autofinanciamento e gestão de receitas que lhe estão consignadas;
+
+i) Aquisição de bens e serviços e execução de obras, dentro de limites a definir;
+
+j) Adoção de uma cultura de avaliação nos domínios da avaliação interna da escola, da avaliação dos desempenhos docentes e da avaliação da aprendizagem dos alunos, orientada para a melhoria da qualidade da prestação do serviço público de educação.
+
+2 - A extensão das competências a transferir depende do resultado da negociação referida no n.º 2 do artigo 56.º, tendo por base a proposta apresentada pelo agrupamento de escolas ou escola não agrupada e a avaliação realizada pela administração educativa sobre a capacidade do agrupamento de escolas ou escola não agrupada para o seu exercício.
+
+3 - Na renovação dos contratos de autonomia, para além do previsto no número anterior, deve avaliar-se, em especial:
+
+a) O grau de cumprimento dos objectivos constantes do projecto educativo;
+
+b) O grau de cumprimento dos planos de actividades e dos objectivos do contrato.
+
+c) A evolução dos resultados escolares e do abandono escolar.
+
+4 - Na sequência de avaliação externa ou de acção inspectiva que comprovem o incumprimento do contrato de autonomia ou manifesto prejuízo para o serviço público, pode, por despacho fundamentado do membro do Governo responsável pela área da educação, determinar-se a suspensão, total ou parcial, desse contrato ou ainda a sua anulação, com a consequente reversão para a administração educativa de parte ou da totalidade das competências atribuídas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 59.º — Procedimentos
+
+Os demais procedimentos relativos à celebração, acompanhamento, avaliação e fiscalização dos contratos de autonomia são estabelecidos por portaria do membro do Governo responsável pela área da educação, ouvido o Conselho das Escolas.
+
+> Republicado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+### Capítulo VIII — Disposições finais
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 60.º — Conselho geral transitório
+
+1 - Para aplicação do regime de autonomia, administração e gestão estabelecido pelo presente decreto-lei constitui-se, em cada unidade orgânica resultante da constituição de agrupamentos ou agregações nele previstas, um conselho geral com caráter transitório.
+
+2 - O conselho geral transitório tem a seguinte composição:
+
+a) Sete representantes do pessoal docente;
+
+b) Dois representantes do pessoal não docente;
+
+c) Quatro representantes dos pais e encarregados de educação;
+
+d) Dois representantes dos alunos, sendo um representante do ensino secundário e outro da educação de adultos;
+
+e) Três representantes do município;
+
+f) Três representantes da comunidade local.
+
+3 - Quando o estabelecimento não leccione o ensino secundário ou a educação de adultos os lugares previstos na alínea d) do número anterior para representação dos alunos transitam para a representação dos pais e encarregados de educação.
+
+4 - A forma de designação e eleição dos membros do conselho geral transitório é a prevista nos artigos 14.º e 15.º, utilizando-se, em termos processuais, o regime previsto no regulamento interno da escola não agrupada ou do agrupamento a que pertencia a escola sede da nova unidade orgânica.
+
+5 - (Revogado).
+
+6 - Nos agrupamentos de escolas em que funcione a educação pré-escolar ou o 1.º ciclo do ensino básico, as listas de representantes do pessoal docente que se candidatam à eleição devem integrar representantes dos educadores de infância e dos professores do 1.º ciclo.
+
+7 - Para efeitos da designação dos representantes da comunidade local, os demais membros do conselho geral transitório, em reunião convocada pelo presidente do conselho geral cessante da escola não agrupada ou do agrupamento de escolas a que pertencia a escola sede da nova unidade orgânica, cooptam as individualidades ou escolhem as instituições e organizações, as quais devem indicar os seus representantes no prazo de 10 dias.
+
+8 - O conselho geral transitório só pode proceder à eleição do presidente e deliberar estando constituído na sua totalidade.
+
+9 - O presidente do conselho geral transitório é eleito nos termos previstos na alínea a) do n.º 1 e no n.º 2 do artigo 13.º do presente decreto-lei.
+
+10 - Até à eleição do presidente, as reuniões do conselho geral transitório são presididas pelo presidente do conselho geral cessante a que se refere o n.º 7, sem direito a voto.
+
+11 - O presidente da comissão administrativa provisória participa nas reuniões do conselho geral transitório sem direito a voto.
+
+12 - O conselho geral transitório reúne ordinariamente sempre que convocado pelo seu presidente e extraordinariamente a requerimento de um terço dos seus membros ou por solicitação do presidente da comissão administrativa provisória.
+
+13 - (Revogado).
+
+14 - As reuniões do conselho geral transitório devem ser marcadas em horário que permita a participação de todos os seus membros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 61.º — Competências do conselho geral transitório
+
+1 - O conselho geral transitório assume todas as competências previstas no artigo 13.º do presente decreto-lei, cabendo-lhe ainda:
+
+a) Elaborar e aprovar o regulamento interno, definindo nomeadamente a composição prevista nos artigos 12.º e 32.º do presente decreto-lei;
+
+b) Preparar, assim que aprovado o regulamento interno, as eleições para o conselho geral;
+
+c) Proceder à eleição do diretor, caso não esteja ainda eleito o conselho geral.
+
+2 - Para efeitos da elaboração do regulamento interno previsto na alínea a) do número anterior, o conselho geral transitório pode constituir uma comissão.
+
+3 - O regulamento interno previsto na alínea a) do n.º 1 é aprovado por maioria absoluta dos votos dos membros do conselho geral transitório em efetividade de funções.
+
+4 - Sem prejuízo do disposto no n.º 4 do artigo anterior, até à entrada em vigor do regulamento interno previsto na alínea a) do n.º 1, mantêm-se em vigor, relativamente a cada estabelecimento de educação pré-escolar, escola ou agrupamento integrados na nova unidade orgânica, os respetivos regulamentos internos, os quais são aplicados sempre que as situações a contemplar respeitem aos membros da comunidade escolar em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2013-07-03
+
+###### Artigo 62.º — Prazos
+
+1 - No prazo máximo de 30 dias úteis após o início do ano escolar, o presidente do conselho geral cessante da escola não agrupada ou agrupamento de escolas a que pertencia a escola sede da nova unidade orgânica desencadeia os procedimentos necessários à eleição e designação dos membros do conselho geral transitório.
+
+2 - Esgotado esse prazo sem que tenham sido desencadeados esses procedimentos, compete ao presidente da comissão administrativa provisória dar imediato cumprimento ao disposto no número anterior.
+
+3 - O regulamento interno previsto na alínea a) do n.º 1 do artigo anterior deve estar aprovado até final de março do respetivo ano escolar.
+
+4 - O procedimento de recrutamento do diretor deve ser desencadeado até 31 de março e o diretor deve ser eleito até 31 de maio do ano escolar em curso.
+
+5 - No caso de o conselho geral não estar constituído até 31 de março, cabe ao conselho geral transitório desencadear o procedimento para recrutamento do diretor e proceder à sua eleição.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 63.º — Mandatos e cessação de funções
+
+1 - Os conselhos gerais das escolas não agrupadas ou agrupamentos sujeitos a processos de reorganização nos termos do presente capítulo mantêm-se em funções até à tomada de posse dos membros do conselho geral transitório da nova unidade orgânica.
+
+2 - No período a que se refere o número anterior, o presidente da comissão administrativa provisória pode ser substituído nas reuniões daqueles órgãos bem como nas dos conselhos pedagógicos a que se refere o n.º 4, pelo seu substituto legal ou delegar a sua representação noutro membro da comissão ou no coordenador da escola ou estabelecimento.
+
+3 - Os mandatos dos diretores das escolas ou dos agrupamentos de escolas que vierem a ser integrados em novos agrupamentos ou sujeitos a processos de agregação cessam com a tomada de posse da comissão administrativa provisória designada nos termos e para os efeitos previstos nos n.os 4 e 5 do artigo 66.º
+
+4 - Até à tomada de posse do diretor da nova unidade orgânica entretanto constituída, mantêm-se em exercício de funções os conselhos pedagógicos e estruturas de coordenação educativa e supervisão pedagógica, bem como de coordenação de estabelecimento das escolas ou agrupamentos objeto de agregação, devendo ser assegurada a coordenação das escolas que em resultado do processo a passem a justificar, nos termos previstos no n.º 1 do artigo 40.º
+
+5 - Sempre que possível, o coordenador de estabelecimento nomeado nos termos do número anterior é designado de entre os membros da direção cessante.
+
+6 - (Revogado).
+
+7 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 64.º — Contratos de autonomia
+
+1 - Os contratos de autonomia celebrados ao abrigo Decreto-Lei n.º 115-A/98, de 4 de Maio, alterado, por apreciação parlamentar, pela Lei n.º 24/99, de 22 de Abril, mantêm-se em vigor até ao seu termo.
+
+2 - As cláusulas dos contratos de autonomia mencionados no número anterior que se refiram a aspectos da estrutura orgânica do agrupamento de escolas ou da escola não agrupada mantêm-se igualmente em vigor até ao seu termo, sem prejuízo de, por decisão dos órgãos competentes do agrupamento de escolas ou da escola não agrupada, ser decidida a sua adaptação ao presente decreto-lei nos termos dos artigos anteriores.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 65.º — Revisão dos regulamentos internos
+
+Na inexistência de alterações legislativas que imponham a sua revisão antecipada, os regulamentos internos dos agrupamentos de escolas e das escolas não agrupadas, aprovados nos termos da alínea d) do n.º 1 do artigo 13.º, podem ser revistos ordinariamente quatro anos após a sua aprovação e extraordinariamente, a todo tempo, por deliberação do conselho geral, aprovada por maioria absoluta dos membros em efetividade de funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 66.º — Comissão administrativa provisória
+
+1 - Nos casos em que não seja possível realizar as operações conducentes ao procedimento concursal para recrutamento do diretor, o procedimento concursal tenha ficado deserto ou todos os candidatos tenham sido excluídos, bem como na situação a que se refere o n.º 4, a sua função é assegurada por uma comissão administrativa provisória constituída por docentes de carreira, com a composição prevista no artigo 19.º, nomeada pelo dirigente dos serviços competentes do Ministério da Educação e Ciência, pelo período máximo de um ano escolar.
+
+2 - Compete ao órgão de gestão referido no número anterior desenvolver as acções necessárias à entrada em pleno funcionamento do regime previsto no presente decreto-lei, no início do ano escolar subsequente ao da cessação do respectivo mandato.
+
+3 - O presidente da comissão administrativa provisória exerce as competências atribuídas pelo presente decreto-lei ao diretor, cabendo-lhe indicar os membros que exercem as funções equivalentes a subdiretor e a adjuntos.
+
+4 - Tendo em vista assegurar a transição e a gestão dos processos de agrupamento ou de agregação, o serviço competente do Ministério da Educação e Ciência nomeia uma comissão administrativa provisória, nos termos e com as funções previstas no presente artigo, com as especificidades constantes do número seguinte.
+
+5 - A comissão administrativa provisória a que se refere o número anterior é designada no final do ano letivo, de modo a assegurar a preparação do ano escolar imediatamente seguinte, podendo integrar membros dos órgãos de administração e gestão das escolas ou agrupamentos objeto de agregação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03, produz efeitos a partir de 2012-07-03
+
+###### Artigo 67.º — Exercício de competências
+
+1 - O director e o conselho administrativo exercem as suas competências no respeito pelos poderes próprios da administração educativa e da administração local.
+
+2 - Compete às entidades da administração educativa ou da administração local, em conformidade com o grau de transferência efectiva verificado, assegurar o apoio técnico-jurídico legalmente previsto em matéria de gestão educativa.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 68.º — Regime subsidiário
+
+Em matéria de procedimento, aplica-se subsidiariamente o disposto no Código do Procedimento Administrativo naquilo que não se encontre especialmente regulado no presente decreto-lei.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 69.º — Mandatos de substituição
+
+Os titulares dos órgãos previstos no presente decreto-lei, eleitos ou designados em substituição de anteriores titulares, terminam os seus mandatos na data prevista para a conclusão do mandato dos membros substituídos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 70.º — Regiões Autónomas
+
+A aplicação do presente decreto-lei não prejudica os regimes de autonomia, administração e gestão escolares vigentes nas Regiões Autónomas, de acordo com a Lei de Bases do Sistema Educativo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 71.º — Norma revogatória
+
+Sem prejuízo do disposto no artigo 63.º, são revogados:
+
+a) O Decreto-Lei n.º 115-A/98, de 4 de Maio;
+
+b) O Decreto Regulamentar n.º 10/99, de 21 de Julho.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+###### Artigo 72.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 137/2012 - Diário da República n.º 126/2012, Série I de 2012-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), em vigor a partir de 2012-07-03
+
+Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Maria de Lurdes Reis Rodrigues.
+
+Promulgado em 11 de Abril de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 11 de Abril de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

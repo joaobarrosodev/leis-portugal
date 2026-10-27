@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: eu:celex:32010R0772:por
+title: Regulamento (UE) n. ° 772/2010 da Comissão, de 1 de Setembro de 2010
+short_title: null
+summary: Regulamento (UE) n. ° 772/2010 da Comissão, de 1 de Setembro de 2010 , que altera o Regulamento (CE) n. ° 555/2008
+  que estabelece regras de execução do Regulamento (CE) n. ° 479/2008 do Conselho que estabelece a organização comum do mercado
+  vitivinícola, no que respeita aos programas de apoio, ao comércio com países terceiros, ao potencial de produção e aos controlos
+  no sector vitivinícola
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2010/772
+official_date: null
+publication_date: '2010-09-02'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 232 de 2.9.2010
+  number: '232'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021.01/DOC_1
+entry_into_force_dates:
+- '2010-09-05'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+version_history:
+  file: regulamento-ue-2010-772.versoes.json
+  count: 1
+  source_lastmod: '2010-09-05'
+  versions:
+  - date: '2010-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: 32010R0772
+  eli: http://data.europa.eu/eli/reg/2010/772/oj
+  oj: oj:JOL_2010_232_R_0001_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32010R0772:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32010R0772
+  metadata_url: http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021
+  content_url: http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T15:48:19Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-09-04T05:25:24.395+02:00'
+integrity:
+  source_sha256: 324b86c3fbe1d871b6342161ea7d5438868500a04384a8b9fbca9990441b21b5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:19Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2010-772.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- capacidade de produção
+- comércio extra-UE
+- organização comum de mercado
+- programa de ajuda
+- vinha
+- vinho
+- viticultura
+relationships:
+- type: amends
+  target: celex:32008R0555
+  label: null
+  source: http://publications.europa.eu/resource/cellar/db170131-dc8e-4c02-bf2c-793697e23084
+  date: '2008-06-27'
+- type: based_on
+  target: celex:32007R1234
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cdc39167-df71-40ca-a817-12537381ae5e
+  date: '2007-11-16'
+- type: cited_by
+  target: pt:dre:543069:por
+  label: null
+  source: null
+- type: corrected_by
+  target: celex:32010R0772R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1074653d-d3b4-4edc-8023-d42295334d49
+  date: '2010-12-30'
+article_structure:
+  article_count: 2
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T15:48:19Z'
+  warnings:
+  - '02010R0772-20100905: versão indisponível (Sem expressão na língua por para CELEX 02010R0772-20100905.)'
+  errors: []
+---
+
+# Regulamento (UE) n. ° 772/2010 da Comissão, de 1 de Setembro de 2010
+
+de 1 de Setembro de 2010
+
+que altera o Regulamento (CE) n.º 555/2008 que estabelece regras de execução do Regulamento (CE) n.º 479/2008 do Conselho que estabelece a organização comum do mercado vitivinícola, no que respeita aos programas de apoio, ao comércio com países terceiros, ao potencial de produção e aos controlos no sector vitivinícola
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021.02/DOC_1#ntr1-L_2010232PT.01000101-E0001), nomeadamente o artigo 103.º-ZA, em conjugação com o artigo 4.º,
+
+Considerando o seguinte:
+
+(1) O artigo 4.º, primeiro parágrafo, alínea d), do Regulamento (CE) n.º 555/2008 da Comissão, de 27 de Junho de 2008, que estabelece regras de execução do Regulamento (CE) n.º 479/2008 do Conselho que estabelece a organização comum do mercado vitivinícola, no que respeita aos programas de apoio, ao comércio com países terceiros, ao potencial de produção e aos controlos no sector vitivinícola [([^2])](http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021.02/DOC_1#ntr2-L_2010232PT.01000101-E0002), estatui que o apoio a acções de promoção e de informação em mercados de países terceiros, dirigidas a um determinado beneficiário num determinado país terceiro, não se prolongue por mais de três anos.
+
+(2) Com base na experiência adquirida na realização dessas acções de apoio, importa prever a renovação das mesmas por um período máximo de dois anos, devido às especificidades das acções de promoção e de informação em países terceiros, que, por exemplo, exigem que os Estados-Membros e os países terceiros procedam a formalidades administrativas mais demoradas.
+
+(3) O artigo 5.º, n.º 1, do Regulamento (CE) n.º 555/2008 prevê que os Estados-Membros estabeleçam um procedimento para a apresentação das propostas que contemple, nomeadamente, regras relativas à avaliação das acções apoiadas. É igualmente necessário prever que os Estados-Membros estabeleçam o procedimento para a eventual renovação do apoio, bem como para a avaliação prévia das acções apoiadas.
+
+(4) O artigo 9.º, n.º 1, do Regulamento (CE) n.º 555/2008 descreve a gestão financeira da reestruturação e reconversão de vinhas, sem porém estabelecer disposições específicas relativas ao controlo das operações. As operações de reestruturação e reconversão de vinhas podem, em determinados casos, ser objecto de múltiplas verificações no local sem que disso resultem melhorias ao nível dos custos administrativos e financeiros correspondentes.
+
+(5) O artigo 81.º do Regulamento (CE) n.º 555/2008 estabelece disposições relativas unicamente ao controlo do potencial de produção. Embora as operações de reestruturação e reconversão de vinhas estejam estreitamente ligadas às operações relativas ao potencial de produção, não são actualmente abrangidas por este artigo. Para simplificar o sistema de controlo, importa estabelecer regras relativas à verificação das operações de reestruturação e reconversão de vinhas semelhantes às regras actuais relativas à verificação das operações respeitantes ao potencial de produção.
+
+(6) A fim de simplificar a verificação das operações de reestruturação e reconversão de vinhas, devem estabelecer-se disposições que, além do recurso a meios gráficos, admitam a utilização de instrumentos equivalentes que também permitam identificar, medir e localizar as parcelas.
+
+(7) O Regulamento (CE) n.º 555/2008 deve, portanto, ser alterado em conformidade.
+
+(8) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O Regulamento (CE) n.º 555/2008 é alterado do seguinte modo:
+
+1. No artigo 4.º, primeiro parágrafo, a alínea d) passa a ter a seguinte redacção: «d) O apoio a acções de promoção e de informação, dirigidas a um determinado beneficiário num determinado país terceiro, não se prolongar por mais de três anos. Porém, se necessário, o apoio pode ser renovado uma vez, por um período máximo de dois anos;».
+
+«d) O apoio a acções de promoção e de informação, dirigidas a um determinado beneficiário num determinado país terceiro, não se prolongar por mais de três anos. Porém, se necessário, o apoio pode ser renovado uma vez, por um período máximo de dois anos;».
+
+2. O artigo 5.º, n.º 1, é alterado do seguinte modo: a) O proémio passa a ter a seguinte redacção: «Os Estados-Membros estabelecem um procedimento para a apresentação das propostas, assim como para a eventual renovação a que se refere o artigo 4.º, n.º 1, alínea d), que contemple, nomeadamente, regras relativas:»; b) A alínea e) passa a ter a seguinte redacção: «e) À avaliação das acções apoiadas. Em caso de renovação de acordo com o artigo 4.º, n.º 1, alínea d), os resultados das acções apoiadas devem, além disso, ser avaliados antes da renovação.».
+
+a) O proémio passa a ter a seguinte redacção: «Os Estados-Membros estabelecem um procedimento para a apresentação das propostas, assim como para a eventual renovação a que se refere o artigo 4.º, n.º 1, alínea d), que contemple, nomeadamente, regras relativas:»;
+
+b) A alínea e) passa a ter a seguinte redacção: «e) À avaliação das acções apoiadas. Em caso de renovação de acordo com o artigo 4.º, n.º 1, alínea d), os resultados das acções apoiadas devem, além disso, ser avaliados antes da renovação.».
+
+«e) À avaliação das acções apoiadas. Em caso de renovação de acordo com o artigo 4.º, n.º 1, alínea d), os resultados das acções apoiadas devem, além disso, ser avaliados antes da renovação.».
+
+3. No artigo 9.º, n.º 1, o primeiro parágrafo passa a ter a seguinte redacção: «O apoio só é pago depois de se confirmar a realização de uma determinada operação ou de todas as operações abrangidas pelo pedido de apoio, consoante a opção feita pelo Estado-Membro para a gestão da medida, e de se proceder à correspondente verificação no local, em conformidade com o artigo 81.º.».
+
+4. O artigo 81.º passa a ter a seguinte redacção: «Artigo 81.º Controlo relativo ao potencial de produção e às operações de reestruturação e reconversão de vinhas 1. Para verificar o cumprimento das disposições relativas ao potencial de produção estabelecidas na parte II, título I, capítulo III, secção IV-A, do Regulamento (CE) n.º 1234/2007, incluindo o cumprimento da proibição transitória de novas plantações estabelecida no artigo 85.º-G, n.º 1, desse regulamento, assim como das disposições do artigo 103.º-Q do mesmo regulamento relativas às operações de reestruturação e reconversão de vinhas, os Estados-Membros recorrem ao cadastro vitícola. 2. Ao concederem-se direitos de replantação em conformidade com o artigo 85.º-I do Regulamento (CE) n.º 1234/2007, procede-se a uma verificação sistemática, antes e depois do arranque, das superfícies. São controladas as parcelas candidatas à concessão de direitos de replantação. O controlo a efectuar antes do arranque inclui também a verificação da existência da vinha em causa. Esse controlo consiste num controlo no local. Todavia, se o Estado-Membro dispuser de um cadastro vitícola informatizado que se encontre actualizado e seja fiável, o controlo pode ser administrativo e a obrigação de controlo no local antes do arranque pode limitar-se a 5 % dos pedidos do ano, para confirmar a fiabilidade do sistema de controlo administrativo. Se este controlo no local revelar a existência de discrepâncias ou irregularidades significativas numa região ou parte de região, a autoridade competente aumenta, de modo adequado, o número de controlos no local durante o ano em causa e o ano seguinte. 3. Procede-se a uma verificação sistemática, antes e depois do arranque, das superfícies candidatas ao prémio ao arranque. São verificadas as parcelas que sejam objecto de um pedido de ajuda. O controlo a efectuar antes do arranque inclui também a verificação da existência da vinha em causa e a confirmação da superfície plantada, determinada em conformidade com o artigo 75.º, destinando-se igualmente a verificar se a superfície em causa foi adequadamente cultivada. Esse controlo consiste num controlo no local. Todavia, se o Estado-Membro dispuser de meios gráficos, ou de um instrumento equivalente, que permitam medir a superfície plantada em conformidade com o artigo 75.º no cadastro vitícola informatizado, assim como de informações actualizadas fiáveis sobre o adequado cultivo das parcelas, o controlo pode ser administrativo e a obrigação de efectuar um controlo no local antes do arranque pode limitar-se a 5 % dos pedidos, para confirmar a fiabilidade do sistema de controlo administrativo. Se este controlo no local revelar a existência de discrepâncias ou irregularidades significativas numa região ou parte de região, a autoridade competente aumenta, de modo adequado, o número de controlos no local durante o ano em causa. 4. Para verificar se o arranque foi, de facto, efectuado, procede-se a um controlo no local. Caso se trate do arranque de parcelas completas de vinha ou se a resolução da teledetecção for, no mínimo, de 1 m^2^, essa verificação pode ser efectuada por teledetecção. 5. No caso das superfícies candidatas ao prémio ao arranque, e sem prejuízo do n.º 3, terceiro parágrafo, e do n.º 4, pelo menos uma das duas verificações a que se refere o n.º 3, primeiro parágrafo, deve consistir num controlo no local. 6. Procede-se a uma verificação sistemática, antes e depois da execução das operações, das superfícies candidatas à ajuda a operações de reestruturação e reconversão de vinhas. São verificadas as parcelas que sejam objecto de um pedido de ajuda. O controlo a efectuar antes das operações inclui também a verificação da existência da vinha em causa, a confirmação da superfície plantada, determinada em conformidade com o artigo 75.º, e a exclusão dos casos de renovação normal de vinhas, na acepção do artigo 6.º. O controlo referido no segundo parágrafo consiste num controlo no local. Todavia, se o Estado-Membro dispuser de meios gráficos, ou de um instrumento equivalente, que permitam medir a superfície plantada em conformidade com o artigo 75.º no cadastro vitícola informatizado, assim como de informações actualizadas fiáveis sobre as castas de vinha plantadas, o controlo pode ser administrativo e, consequentemente, a obrigação de efectuar um controlo no local antes da execução das operações pode limitar-se a 5 % dos pedidos, para confirmar a fiabilidade do sistema de controlo administrativo. Se este controlo no local revelar a existência de discrepâncias ou irregularidades significativas numa região ou parte de região, a autoridade competente aumenta, de modo adequado, o número de controlos no local durante o ano em causa.».
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 1 de Setembro de 2010.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021.02/DOC_1#ntc1-L_2010232PT.01000101-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021.02/DOC_1#ntc2-L_2010232PT.01000101-E0002) [JO L 170 de 30.6.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_170_R_TOC).

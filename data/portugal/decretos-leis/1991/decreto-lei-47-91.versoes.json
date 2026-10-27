@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:507813:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-161789675",
+ "dre_path": "/dr/detalhe/decreto-lei/47-1991-507813",
+ "source_lastmod": "2025-12-11",
+ "versions": [
+  {
+   "date": "1991-01-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "161789775"
+   ]
+  },
+  {
+   "date": "1991-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:242041:por",
+     "title": "Declaração de Rectificação n.º 4/91",
+     "published": "1991-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/4-1991-242041"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo único"
+   ],
+   "fragments": [
+    "161789775",
+    "976186848",
+    "161789777"
+   ]
+  }
+ ],
+ "fragments": {
+  "161789775": {
+   "fragment_id": "161789676",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 47/91\n\nde 24 de Janeiro\n\nO Decreto-Lei n.º 12/90, de 6 de Janeiro, operou a transformação da Rodoviária Nacional, E. P., em sociedade anónima de capitais exclusivamente públicos.\n\nNo citado diploma igualmente se estatui que a RNIP, S. A., se cindirá em várias empresas de transporte, metalo-mecânicas e industriais.\n\nTais passos são marcos fulcrais no caminho da privatização das empresas cinditárias.\n\nCondição essencial para essa privatização, a par de adequada dimensão, integração no tecido regional que servirão e qualidade dos serviços a prestar, é, sem dúvida, a sua viabilidade económica e equilíbrio económico-financeiro.\n\nTal desiderato apenas se poderá alcançar se o passivo da ex-RN, E. P., se localizar preferencialmente na RNIP, S. A., enquanto holding, e não nas empresas cinditárias a criar.\n\nPor seu turno, a própria viabilização de todo este processo passa necessariamente pelo equilíbrio económico-financeiro da empresa mãe.\n\nForma correcta e adequada de alcançar os objectivos propostos, assegurando não só a criação de empresas economicamente saudáveis como garantindo que na holding de capitais exclusivamente públicos se não irá enquistar uma situação económico-financeira deficiente, é a reversão para o holding da totalidade do produto de eventuais alienações das acções representativas do capital social das empresas cinditárias.\n\nCom o presente diploma altera-se a actual forma de distribuição do produto das alienações, alterando-se, ainda, algumas das suas disposições, que, à luz da experiência entretanto colhida, careciam de reequacionamento e adequação.\n\nVisa-se, assim, dotar a RNIP de meios mais amplos que possibilitem a sua gestão e a criação de empresas em termos verdadeiramente concorrenciais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "976186848": {
+   "fragment_id": "976310919",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": "1991-01-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 4/91 - Diário da República n.º 26/1991, 1º Suplemento, Série I-A de 1991-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-1991-242041), em vigor a partir de 1991-01-31"
+   ],
+   "markdown": "###### Artigo único\n\nOs artigos 10.º e 12.º do Decreto-Lei n.º 12/90, de 6 de Janeiro, passam a ter a seguinte redacção:\n\nArt. 10.º\n\n1 - ...\n\n2 - ...\n\n3 - No património a destacar para as novas sociedades cujo objecto consista na exploração de transportes serão incluídas, em termos a fixar no plano geral de cisões, as acções representativas do capital das novas sociedades cujo objecto consista na exploração de unidades metalo-mecânicas e industriais, bem como as acções ou quotas representativas do capital de actuais sociedades participadas pela RNIP.\n\n4 - A posição que a RNIP detém no capital das sociedades de transportes internacionais de passageiros passará a ser detida pelas novas sociedades que tenham por objecto o transporte de passageiros, sem outra formalidade que não seja a própria das cisões previstas neste diploma, e na proporção que for determinada no plano de cisões aprovado, devendo ser dado conhecimento àquelas, no prazo de 15 dias a partir da data das cisões, das quotas atribuídas a cada uma das novas sociedades.\n\n5 - (O antigo n.º 4.)\n\n6 - (O antigo n.º 5.)\n\nArt. 12.º O produto de eventuais alienações de acções representativas do capital social das empresas cinditárias da RNIP revertem integralmente para esta, nos termos e para os efeitos da alínea b) do artigo 296.º da Constituição.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 4/91 - Diário da República n.º 26/1991, 1º Suplemento, Série I-A de 1991-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-1991-242041), em vigor a partir de 1991-01-31"
+  },
+  "161789777": {
+   "fragment_id": "161789678",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 14 de Janeiro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Janeiro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

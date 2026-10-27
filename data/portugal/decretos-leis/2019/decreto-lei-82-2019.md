@@ -1,0 +1,672 @@
+---
+schema_version: '1.0'
+id: pt:dre:122728684:por
+title: Decreto-Lei n.º 82/2019
+short_title: null
+summary: Estabelece as regras de identificação dos animais de companhia, criando o Sistema de Informação de Animais de Companhia
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Agricultura, Florestas e Desenvolvimento Rural
+official_number: 82/2019
+official_date: null
+publication_date: '2019-06-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/2019, Série I de 2019-06-27
+  number: '121'
+  series: I
+  supplement: null
+  pages: 3060 - 3067
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/06/12100/0306003067.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-06-28'
+version_history:
+  file: decreto-lei-82-2019.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 27.º
+  - date: '2022-06-28'
+    amending: pt:dre:185224662:por
+    amending_title: Lei n.º 12/2022
+    changes:
+    - Altera Artigo 27.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/82/2019/06/27/p/dre/pt/html
+  oj: null
+  dre: '122728684'
+  dre_path: /dr/detalhe/decreto-lei/82-2019-122728684
+  internal: pt:dre:122728684:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684
+  metadata_url: https://data.dre.pt/eli/dec-lei/82/2019/06/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122728695
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122728695
+  retrieved_at: '2026-10-22T12:26:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9336c6832d86a4c51ea103104146802d24729a9811dcf4d5c2ebccefcbbdb462
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:26:48Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-82-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Acreditação
+- PSP
+- Animal Doméstico
+- Animal Perigoso
+- Animal Vadio
+- Atribuição de Verba
+- Doença Animal
+- Multa
+- Proteção dos Animais
+- Contra-ordenação
+- Definição de Competências
+- Direção Geral de Alimentação e Veterinária
+- Diretor Geral
+- CÃO
+- Fiscalização
+- Segurança da Informação
+- GNR
+- Instituto da Conservação da Natureza e das Florestas
+- Programa Simplex
+- Polícia Marítima
+- Polícia Municipal
+- Sistema de Informação
+- Receita Própria
+- Regime Jurídico
+- Regulamento CE
+- Regulamento de Identificação Registo e Circulação de Animais
+- Gato
+- Sanção
+- Sistema de Identificação e Registo de Caninos e Félinos
+- Taxa
+- TAXA de Prestação de Serviços
+- Transporte de Animais
+- Vacinação
+- Veterinário
+- Saúde Animal
+- Sistema de Informação de Animais de Companhia
+relationships:
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Altera Artigo 3.º; Altera Artigo 9.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: cites
+  target: celex:32013R0576
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/576/oj
+- type: cites
+  target: celex:32016R0429
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/429/oj
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/679/oj
+- type: cites
+  target: pt:dre:108038374:por
+  label: null
+  source: http://data.dre.pt/eli/lei/95/2017/08/23/p/dre
+- type: cites
+  target: pt:dre:190815:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/260/2012/12/12/p/dre
+- type: cites
+  target: pt:dre:432862:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/313/2003/12/17/p/dre
+- type: cites
+  target: pt:dre:483402:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/315/2009/10/29/p/dre
+- type: cites
+  target: pt:dre:497605:por
+  label: null
+  source: http://data.dre.pt/eli/lei/46/2013/07/04/p/dre
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/276/2001/10/17/p/dre
+- type: cites
+  target: pt:dre:70114079:por
+  label: null
+  source: http://data.dre.pt/eli/lei/110/2015/08/26/p/dre
+- type: cites
+  target: pt:dre:75079781:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/155/2016/08/02/p/dre
+article_structure:
+  article_count: 32
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:26:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 82/2019
+
+Decreto-Lei n.º 82/2019
+
+de 27 de junho
+
+A regulação da detenção dos animais de companhia constitui uma medida destinada a contrariar o abandono e as suas consequências para a saúde e segurança das pessoas e bem-estar dos animais.
+
+A prevenção do abandono animal pela promoção da detenção responsável engloba, entre outras obrigações, a identificação e registo dos animais de companhia.
+
+O sistema de marcação com um dispositivo eletrónico denominado transponder e o registo no sistema informático permitem estabelecer a ligação do animal ao seu titular ou, quando aplicável, ao seu detentor e local de detenção, possibilitando a responsabilização do titular do animal pelo cumprimento dos parâmetros legais, sanitários e de bem-estar animal.
+
+Assim, importa tornar mais eficaz o quadro legal existente para o reforço da detenção responsável dos animais de companhia, instituindo-se, para esse efeito, o Sistema de Informação de Animais de Companhia (SIAC).
+
+Também os aspetos de natureza económica assumem importância significativa no contexto da valorização individual dos animais de companhia, sendo exigível um melhor controlo da respetiva comercialização.
+
+Em 2003, com a publicação do Decreto-Lei n.º 313/2003, de 17 de dezembro, foi criado o Sistema de Identificação de Caninos e Felinos (SICAFE), que estabelece as exigências em matéria de identificação eletrónica de cães e gatos, enquanto animais de companhia, e o seu registo numa base de dados nacional.
+
+Por outro lado, numa iniciativa privada, tinha sido criado em 1992 o Sistema de Identificação e Recuperação Animal (SIRA), desenvolvido com o objetivo de facilitar a recuperação de animais de companhia perdidos e encontrados por terceiros, onde muitos animais de companhia de diferentes espécies foram registados de modo voluntário.
+
+O SIAC, instituído pelo presente decreto-lei, dá satisfação à Resolução da Assembleia da República n.º 155/2016, de 1 de julho, que recomendou ao Governo a fusão do SICAFE e do SIRA, passando o novo sistema, o SIAC, a integrar a identificação dos animais de companhia constantes dos dois anteriores sistemas, e a assegurar as respetivas finalidades.
+
+O registo dos animais de companhia no SICAFE estava dependente do cumprimento de obrigações por parte de duas entidades: o detentor do animal e a junta de freguesia. O sistema, todavia, não se revelou eficaz, uma vez que muitos animais eram marcados, mas não eram registados na base de dados nacional, não sendo possível determinar o seu titular, nem qualquer responsável pela sua detenção, quando são encontrados.
+
+Neste novo sistema, o médico veterinário que tenha marcado um animal de companhia torna-se também responsável pelo registo do animal, ficando assim desde logo assegurada a identificação do seu titular.
+
+De igual forma, em cumprimento de uma medida SIMPLEX+, são estabelecidos procedimentos de simplificação do regime de identificação e registo dos animais de companhia, bem como procedimentos mais ágeis para o registo das transferências de titularidade, prevendo-se ainda que todos os registos e intervenções sanitárias obrigatórias passem a ser registados no novo sistema e também que outras espécies de animais de companhia possam ser registadas de forma voluntária no novo sistema.
+
+Por outro lado, o Decreto-Lei n.º 276/2001, de 17 de outubro, na sua redação atual, que estabeleceu procedimentos a serem observados na comercialização de animais de companhia, é complementado com a determinação da obrigatoriedade do registo das transferências de titularidade, bem como da necessidade de os animais objeto de transação deverem estar previamente marcados e registados na base de dados.
+
+Esta alteração também vem dar resposta a uma necessidade de partilha e interoperabilidade da informação associada aos animais de companhia, tendo em atenção, nomeadamente, as entidades gestoras dos registos genealógicos dos animais de companhia nacionais, considerando que, por força da Lei n.º 95/2017, de 23 de agosto, a raça pura dos animais de companhia está dependente do reconhecimento pela entidade gestora do respetivo registo genealógico.
+
+É, ainda, assegurada a execução do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo à circulação sem caráter comercial de animais de companhia, bem como a aplicação eficaz das medidas de controlo de doenças pelos titulares de animais de companhia, previstas no Regulamento (UE) n.º 2016/429, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Comissão Nacional de Proteção de Dados, a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias, a Ordem dos Médicos Veterinários e o Sindicato Nacional dos Médicos Veterinários.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 10.º, Decreto-Lei n.º 46/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2021-164955304) Determina a sucessão, pelo Instituto da Conservação da Natureza e das Florestas, I.P, (ICNF, I.P.), nas atribuições e competências da Direção Geral de Alimentação e Veterinária (DGAV), no domínio do Sistema de Infomação de Animais de Companhia (SIAC), previstas no presente diploma.
+
+### Capítulo I — Objeto e âmbito
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece as regras de identificação dos animais de companhia.
+
+2 - Para efeitos do disposto no número anterior, o presente decreto-lei:
+
+a) Cria o Sistema de Informação de Animais de Companhia, abreviadamente designado por SIAC;
+
+b) Assegura a execução do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo à circulação sem caráter comercial de animais de companhia;
+
+c) Assegura a aplicação eficaz das medidas de controlo de doenças pelos titulares de animais de companhia, previstas no Regulamento (UE) n.º 2016/429, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal;
+
+d) Procede à quarta alteração ao Decreto-Lei n.º 315/2009, de 29 de outubro, alterado pelo Decreto-Lei n.º 260/2012, de 12 de dezembro, e pelas Leis n.os 46/2013, de 4 de julho, e 110/2015, de 26 de agosto, que aprova o regime jurídico da detenção de animais perigosos e potencialmente perigosos enquanto animais de companhia.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente decreto-lei aplica-se à identificação de animais de companhia das espécies referidas no anexo I do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, e no anexo I do Regulamento (UE) n.º 2016/429, do Parlamento Europeu e do Conselho, de 9 de março de 2016, nascidos ou presentes no território nacional.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) 'Detentor', a pessoa singular ou coletiva que se encontre na situação de possuidor precário, nos termos previstos no artigo 1253.º do Código Civil, de animal de companhia, e que, por esse facto, e enquanto se mantiver como detentor, se torna responsável pela sua guarda, acomodação ou utilização, com ou sem fins comerciais, num determinado momento;
+
+b) «Identificação de Animais de Companhia», a marcação do animal de companhia por implantação de um transponder, ou outro sistema autorizado para a espécie em causa, e o seu registo no SIAC;
+
+c) «Marcação», a aplicação, por médico veterinário, de um transponder;
+
+d) «Pessoa acreditada», pessoa singular que no âmbito de uma pessoa coletiva desenvolva atividades ligadas aos animais de companhia, com um perfil de acesso ao SIAC determinado pela Direção-Geral de Veterinária (DGAV);
+
+e) «Registo», o conjunto de informação coligida no SIAC com os elementos relativos ao número do transponder, elementos de resenha do animal, identificação do titular do animal e respetivos dados de contacto, do médico veterinário que procede à marcação do animal, bem como outras particularidades ou características e as medidas sanitárias preventivas oficiais ou informações relevantes que tenham sido associadas ao animal;
+
+f) 'Titular de animal de companhia', o proprietário ou o possuidor, quer se trate de pessoa singular ou coletiva, que seja responsável pelo animal de companhia, independentemente da finalidade com que o detém, e cuja posse faça presumir a propriedade e em cujo nome deve efetuar-se o registo da titularidade do animal de companhia no SIAC e ser emitido o correspondente documento de identificação do animal de companhia (DIAC), ou aquele para quem o animal foi transmitido, e ainda aquele que figure como seu titular no passaporte do animal de companhia (PAC);
+
+g) «Transponder», um dispositivo passivo de identificação por radiofrequências, reservado a leitura.
+
+> Alterado pelo/a Artigo 425.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+### Capítulo II — Identificação de animais de companhia
+
+###### Artigo 4.º — Obrigação de identificação
+
+1 - A identificação de animais de companhia é obrigatória para cães, gatos e furões, nos termos da parte A do anexo I do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, e a parte A do anexo I do Regulamento (UE) n.º 2016/429, do Parlamento Europeu e do Conselho, de 9 de março de 2016, sendo facultativa para as espécies abrangidas na parte B do anexo I dos referidos Regulamentos.
+
+2 - Por despacho do diretor-geral de Alimentação e Veterinária, pode ser determinada a obrigatoriedade de identificação, nos termos do presente decreto-lei, de qualquer das espécies referidas na parte B do anexo I dos Regulamentos mencionados no número anterior ou de outras espécies de animais detidos para fins de companhia, com fundamento na necessidade de implementar medidas de natureza sanitária para combate a surtos de doenças epizoóticas ou zoonoses.
+
+3 - A obrigação de identificação, pela marcação e registo, abrange os animais nascidos em território nacional ou nele presentes por período igual ou superior 120 dias.
+
+###### Artigo 5.º — Cumprimento da obrigação de identificação
+
+1 - A identificação dos animais de companhia, pela sua marcação e registo no SIAC, deve ser realizada até 120 dias após o seu nascimento.
+
+2 - Na impossibilidade de determinar a data de nascimento exata, para efeitos de contagem do prazo referido no número anterior, a identificação deve ser efetuada até à perda dos dentes incisivos de leite.
+
+3 - Sem prejuízo dos números anteriores, e relativamente aos cães, gatos e furões que sejam cedidos e ou comercializados a partir de um criador ou de um estabelecimento autorizado para a detenção de animais de companhia, nomeadamente os centros de hospedagem com ou sem fins lucrativos e os centros de recolha oficiais, deve ser assegurada a sua marcação e registo no SIAC antes de abandonarem a instalação de nascimento ou de alojamento, independentemente da sua idade.
+
+4 - Sempre que seja declarada a obrigatoriedade de proceder à vacinação antirrábica ou a outros atos de profilaxia médica, a execução dos mesmos só pode ser realizada em animais identificados e, caso o não estejam, o médico veterinário deve assegurar a sua prévia identificação, marcando-os e registando-os no SIAC.
+
+###### Artigo 6.º — Métodos de marcação
+
+1 - Os cães, gatos e furões devem ser marcados por implantação de um transponder, que assegure os requisitos estabelecidos no anexo II do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013.
+
+2 - A implantação do transponder referido no número anterior deve ser efetuada por médico veterinário, no centro da face lateral esquerda do pescoço do animal, após verificação de que o animal não se encontra já marcado por outro dispositivo de identificação.
+
+3 - Se não for possível, por motivo justificado, aplicar o transponder no local referido no número anterior, deve o mesmo ser aplicado num local alternativo, devendo o médico veterinário inserir essa informação no documento de identificação do animal e no SIAC.
+
+4 - Caso exista alguma contraindicação, que por motivos de saúde do animal não permita temporariamente a sua marcação, o registo deve ser realizado pelo médico veterinário, com a emissão de uma declaração, nos termos a definir em despacho do diretor-geral de Alimentação e Veterinária.
+
+###### Artigo 7.º — Dispositivos de identificação eletrónica (transponders)
+
+1 - A colocação no mercado nacional de transponders depende de comunicação prévia dirigida à DGAV, para efeitos do seu registo e autorização da sua comercialização, de acordo com os procedimentos estabelecidos pela DGAV.
+
+2 - Às entidades autorizadas a comercializar transponders para animais de companhia é atribuído um acesso único ao SIAC, para que estas registem todos os transponders que tenham comercializado para cada médico veterinário ou entidade autorizada perante o SIAC a deter meios de identificação, de acordo com procedimento a determinar pela DGAV.
+
+3 - Para a marcação só pode ser utilizado um transponder que tenha sido previamente registado no SIAC pela empresa comercializadora, e atribuído ao médico veterinário ou a uma entidade autorizada a identificar animais de companhia.
+
+###### Artigo 8.º — Sistema de Informação de Animais de Companhia
+
+1 - É criado o SIAC, que constitui o sistema de registo dos animais de companhia das espécies referidas no artigo 4.º, processado em sistema informático, reunindo a informação relativa à identificação dos animais de companhia, à sua titularidade ou detenção e ainda toda a informação sanitária obrigatória.
+
+2 - A DGAV é a entidade responsável pelo SIAC, competindo-lhe assegurar o seu funcionamento e o tratamento dos dados nele reunidos.
+
+3 - A DGAV pode atribuir a gestão do SIAC a outras entidades, mediante a celebração de protocolo e sob sua supervisão, observado o regime de subcontratação de tratamento de dados pessoais.
+
+4 - As normas e procedimentos relativos ao funcionamento do SIAC, bem como a gestão das entidades com acesso e respetivos perfis de acesso, são aprovados pelo diretor-geral de Alimentação e Veterinária e devem constar de um Manual de Procedimentos SIAC.
+
+5 - O diretor-geral de Alimentação e Veterinária pode determinar, por decisão fundamentada, a suspensão provisória e cautelar do acesso ao SIAC a uma entidade, médico veterinário, ou titular de animais de companhia, sempre que sejam identificados incumprimentos graves das normas prevista no Manual de Procedimentos SIAC, até à decisão que aplique a pertinente contraordenação, designadamente as previstas no artigo 21.º do presente decreto-lei.
+
+6 - Sempre que se mostre necessário à operacionalização do SIAC ou ao cumprimento das suas finalidades, deve promover-se a transmissão de dados entre sistemas de informação através da Plataforma de Interoperabilidade da Administração Pública (iAP), nos termos do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual, e da Resolução do Conselho de Ministros n.º 42/2015, de 19 de junho, mediante portaria do membro do Governo responsável pela área da agricultura, que tipifique as situações em que pode justificar-se a transmissão de dados pessoais e as bases de dados entre as quais pode ocorrer tal transmissão.
+
+7 - Nas regras e procedimentos de segurança, para acesso e tratamento de informação no SIAC, deve ser obrigatoriamente prevista a utilização de mecanismos de autenticação eletrónica através do Cartão de Cidadão e Chave Móvel Digital.
+
+8 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes do SIAC é diretamente aplicável o disposto na legislação e regulamentação relativa à proteção de dados pessoais, nomeadamente o Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados.
+
+###### Artigo 9.º — Registo no Sistema de Informação de Animais de Companhia
+
+1 - Os animais de companhia abrangidos pela obrigação de identificação devem ser registados pelo médico veterinário no SIAC, imediatamente após a sua marcação com o transponder, em nome do respetivo titular.
+
+2 - Quando não esteja disponível o SIAC, pode o médico veterinário que procede à marcação do animal de companhia emitir uma ficha de registo manual, segundo modelo determinado pela DGAV, devendo promover o seu registo no SIAC no prazo de 15 dias consecutivos.
+
+3 - Na situação referida no número anterior, deve ser entregue ao titular, no momento de marcação do animal, um comprovativo da emissão da ficha de registo, que tem uma validade de 30 dias consecutivos, durante os quais é remetida, por via eletrónica, uma versão digital do DIAC.
+
+4 - Em alternativa, pode o titular solicitar a emissão do DIAC diretamente ao SIAC, ao médico veterinário que procedeu à marcação do animal ou à junta de freguesia respetiva.
+
+5 - Só podem figurar no registo do SIAC como titulares de animais de companhia as pessoas singulares ou coletivas, exceto nos seguintes casos:
+
+a) Quando o animal esteja detido num estabelecimento autorizado para a detenção de animais de companhia, designadamente centros de recolha oficial, centros de alojamento sem fins lucrativos, centros de hospedagem, centro de treino de cães de assistência e estabelecimentos de comércio de animais;
+
+b) Quando o seu titular seja uma entidade pública ou uma organização de socorro, resgate e salvamento ou uma empresa detentora de alvará ou licença atribuído no âmbito do regime do exercício de atividade de segurança privada.
+
+6 - Nos casos e nos termos referidos nos n.os 2 e 5 do artigo 11.º e no n.º 3 do artigo 29.º, o registo no SIAC dos animais de companhia pode ainda ser realizado por pessoa acreditada perante o SIAC, pela junta de freguesia ou pela câmara municipal.
+
+> Alterado pelo/a Artigo 425.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+###### Artigo 10.º — Documento de identificação do animal de companhia
+
+1 - Após o registo do animal de companhia no SIAC, é emitido pelo sistema o DIAC que reproduz, em suporte físico ou digital, os dados constantes do SIAC, constituindo este o documento de identificação dos animais de companhia sujeitos à obrigação de registo naquele sistema.
+
+2 - Qualquer alteração aos elementos constantes do SIAC, nomeadamente alteração de titular, da sua residência ou de local de alojamento do animal, ou outras disposições obrigatórias, deve ser comunicada ao sistema e determina a emissão de DIAC atualizado.
+
+###### Artigo 11.º — Situações especiais de marcação e registo no Sistema de Informação de Animais de Companhia
+
+1 - Os animais de companhia que entrem em território nacional provenientes de um Estado-Membro da União Europeia ou de um país terceiro, devidamente marcados nos termos do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, são obrigatoriamente registados no SIAC, desde que permaneçam em território nacional por período igual ou superior a 120 dias.
+
+2 - Os animais de companhia nas condições referidas no número anterior devem ser registados no SIAC por médico veterinário acreditado no SIAC, por pessoa acreditada perante o SIAC, pela junta de freguesia ou pela câmara municipal, da área de residência, em nome da pessoa que figure como seu titular no Passaporte de Animal de Companhia (PAC) ou no certificado sanitário.
+
+3 - O registo no SIAC dos cães pertencentes às Forças Armadas e às Forças de Segurança e Serviços de Segurança é facultativo, desde que estejam marcados e estejam assegurados registos equivalentes mantidos pelas respetivas entidades.
+
+4 - Também é facultativo o registo no SIAC dos animais de companhia detidos em centros de investigação ou experimentação, nos termos do Decreto-Lei n.º 113/2013, de 7 de agosto, na sua redação atual.
+
+5 - Os animais que sejam recolhidos num Centro de Recolha Oficial (CRO) e que não sejam reclamados pelos seus proprietários devem ser registados no SIAC em nome do titular desse CRO, após o período de 15 dias previsto no n.º 4 do artigo 8.º da Portaria n.º 146/2017, de 26 de abril.
+
+6 - Os animais referidos nos n.os 3 e 4, caso sejam transmitidos, devem, no ato de transmissão, ser registados no SIAC em nome do seu novo titular.
+
+7 - Quem tenha a posse de um animal de companhia, que pela espécie não esteja obrigado a marcação e registo, pode solicitar a um médico veterinário que o seu animal seja marcado e registado no SIAC, passando a partir desse momento a ter de assegurar o cumprimento das normas previstas no presente decreto-lei.
+
+###### Artigo 12.º — Registo de profilaxias médicas e outras disposições
+
+1 - As profilaxias médicas declaradas obrigatórias pela DGAV nos animais de companhia, nomeadamente a vacina antirrábica, ou as intervenções que sejam requeridas para efeitos de certificação sanitária, devem ser registadas pelo médico veterinário no SIAC.
+
+2 - Devem ainda ser registadas pelos médicos veterinários no SIAC as intervenções ou mutilações que por razões clínicas tenham sido realizadas e que interferem com as características dos animais, nomeadamente a esterilização ou amputações.
+
+3 - Os procedimentos para os registos referidos nos números anteriores são estabelecidos no Manual de Procedimentos SIAC, aprovado pelo diretor-geral de Alimentação e Veterinária.
+
+###### Artigo 13.º — Alterações ao registo
+
+1 - As alterações aos registos do SIAC só podem ser efetuadas pelas entidades com acesso ao sistema, de acordo com o respetivo perfil atribuído pela DGAV.
+
+2 - A pessoa que figure como titular do animal de companhia no SIAC deve informar o SIAC, direta ou indiretamente, sempre que ocorra uma das seguintes situações:
+
+a) Transmissão da titularidade do animal para novo titular;
+
+b) Alteração da residência do titular;
+
+c) Alteração do local de alojamento do animal;
+
+d) Desaparecimento e/ou recuperação do animal;
+
+e) Morte do animal.
+
+3 - As alterações referidas no número anterior devem ser comunicadas diretamente ao SIAC, pelo titular do animal, caso tenha solicitado acesso ao SIAC, ou por via de qualquer entidade que tenha acesso ao sistema, nomeadamente o médico veterinário acreditado no SIAC, por pessoa acreditada perante o SIAC, pela junta de freguesia ou pela câmara municipal, no prazo de 15 dias.
+
+4 - A transferência de titularidade pode operar de forma desmaterializada se a transmissão for registada pelo titular do animal de companhia no SIAC, efetivando-se quando o novo titular validar a transferência no sistema.
+
+5 - Aquele que tenha recebido o animal de companhia por herança, legado ou na sequência de partilha deve promover o registo da nova titularidade no SIAC, por médico veterinário acreditado, por pessoa acreditada perante o SIAC, pela junta de freguesia ou pela câmara municipal.
+
+6 - Sempre que uma entidade promova uma alteração do registo de um animal de companhia no SIAC, deve assegurar a emissão e a entrega ao seu titular de um novo DIAC e a atualização do PAC.
+
+###### Artigo 14.º — Deslocação de animais de companhia
+
+1 - Em qualquer deslocação do animal de companhia em território nacional, o seu titular ou o simples detentor deve fazer-se acompanhar do respetivo DIAC ou PAC, ou, nas situações previstas no n.º 4 do artigo 29.º, do Boletim Sanitário de Cães e Gatos, para eventual demonstração junto das autoridades responsáveis pela fiscalização da regularidade do registo do animal.
+
+2 - Os animais de companhia que circulem, sem caráter comercial, para outro Estado-Membro da União Europeia devem cumprir as condições de identificação exigidas pelo Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo à circulação sem caráter comercial de animais de companhia, fazendo-se acompanhar do PAC.
+
+### Capítulo III — Deveres específicos do médico veterinário e do titular de animal de companhia
+
+###### Artigo 15.º — Deveres do médico veterinário
+
+O médico veterinário com perfil ativo no SIAC deve assegurar as seguintes obrigações:
+
+a) Verificar, antes de proceder à marcação de um animal de companhia, se o animal é já portador de um transponder, e, em caso afirmativo, proceder ao seu registo no SIAC, caso ainda não esteja registado;
+
+b) Verificar, no âmbito do processo de identificação, a leitura do transponder, antes e depois da aplicação do mesmo;
+
+c) Emitir o PAC, nos termos dos artigos 22.º e 29.º do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo à circulação sem caráter comercial de animais de companhia, quando solicitado por um titular de animal de companhia, nos termos do n.º 2 do artigo anterior;
+
+d) Assegurar a renovação do DIAC, e averbar no PAC ou no Boletim Sanitário as alterações de registo sempre que solicitado;
+
+e) Emitir a partir do SIAC, sempre que seja solicitado pelo titular, uma segunda via ou uma via atualizada do DIAC;
+
+f) Comunicar à DGAV as irregularidades detetadas na identificação e registo de animais de companhia.
+
+###### Artigo 16.º — Deveres do titular e do detentor do animal de companhia
+
+1 - O titular do animal de companhia deve:
+
+a) Cumprir as normas de bem-estar animal e assegurar os requisitos hígio-sanitários e legais aplicáveis ao animal;
+
+b) Apresentar o animal para marcação e registo ou alteração de registo no SIAC, nos termos do artigo 4.º, dos n.os 1, 2 e 3 do artigo 5.º e dos n.os 2, 3 e 5 do artigo 13.º;
+
+c) Solicitar a emissão do DIAC previsto no artigo 10.º;
+
+d) Solicitar ao médico veterinário a emissão do PAC, sempre que necessário;
+
+e) Dar cumprimento ao disposto no artigo 5.º do Decreto-Lei n.º 315/2009, de 29 de outubro, na sua redação atual, relativamente a cão de raça potencialmente perigoso, que tenha sido introduzido no território nacional com a finalidade de reprodução, no prazo de 10 dias a contar da data da entrada;
+
+f) Solicitar o registo no SIAC dos animais de companhia que estejam obrigados à identificação nos termos dos n.os 1 e 2 do artigo 11.º, que foram introduzidos no território nacional e que permaneçam por um período igual ou superior a 120 dias, mediante a apresentação do PAC ou do certificado sanitário respetivo;
+
+g) Fornecer ao médico veterinário, à autoridade competente e às entidades fiscalizadoras, a pedido destas, o DIAC, o PAC, ou o Boletim Sanitário nas situações previstas no n.º 1 do artigo 14.º
+
+2 - O detentor ou o seu representante devem comunicar a morte ou desaparecimento do animal de companhia ao SIAC, sob pena de presunção de abandono, punido nos termos do disposto na alínea c) do n.º 2 do artigo 68.º do Decreto-Lei n.º 276/2001, de 17 de outubro, sem prejuízo de eventual responsabilidade criminal que venha a ser apurada.
+
+> Alterado pelo/a Artigo 425.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+### Capítulo IV — Financiamento do Sistema
+
+###### Artigo 17.º — Taxa de registo
+
+1 - Pelo registo de animal no SIAC é devido o pagamento de uma taxa.
+
+2 - Os animais de companhia recolhidos pelos CRO e pelas associações zoófilas legalmente constituídas que sejam registados em seu nome estão isentos do pagamento da taxa.
+
+3 - A taxa referida no n.º 1 constitui receita da DGAV.
+
+4 - Sem prejuízo do pagamento devido por outros atos médico-veterinários, não pode ser exigido outro pagamento pelo mero registo do animal no SIAC.
+
+> Alterado pelo/a Artigo 425.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+###### Artigo 18.º — Montante e atualização da taxa de registo
+
+1 - O montante da taxa prevista no n.º 1 do artigo anterior é determinado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, sendo atualizado anualmente de forma automática, de acordo com o valor da inflação publicado pelo Instituto Nacional de Estatística, I. P.
+
+2 - A fixação do montante da taxa prevista no número anterior tem em consideração os custos de funcionamento do SIAC, incluindo, nomeadamente, as despesas inerentes ao controlo da aplicação do regime constante do presente decreto-lei, bem como à promoção de uma detenção responsável dos animais de companhia.
+
+3 - Na eventualidade de a gestão e disponibilização do SIAC ter sido atribuída a outras entidades, nos termos do disposto no n.º 3 do artigo 8.º, o serviço de registo devido a essa entidade e a taxa de registo SIAC são cobrados em simultâneo.
+
+###### Artigo 19.º — Liquidação e cobrança
+
+1 - Os procedimentos de liquidação e cobrança da taxa de registo no SIAC são fixados no Manual de Procedimentos SIAC aprovado pelo diretor-geral de Alimentação e Veterinária nos termos do n.º 4 do artigo 8.º
+
+2 - No caso de a gestão do SIAC ser atribuída a outras entidades, nos termos do disposto no n.º 3 do artigo 8.º a taxa de registo no SIAC é cobrada por essa entidade por conta da DGAV.
+
+### Capítulo V — Fiscalização e contraordenações
+
+###### Artigo 20.º — Fiscalização
+
+1 - Compete à DGAV, aos municípios, às freguesias, ao Instituto da Conservação da Natureza e das Florestas, I. P., à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Polícia Municipal e à Polícia Marítima, assegurar a fiscalização do cumprimento das normas constantes do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+2 - A DGAV quando verifique existirem irregularidades ou o não cumprimento dos procedimentos normativos estabelecidos no presente decreto-lei ou no Manual de Procedimentos SIAC, por parte de um titular de animal de companhia, um médico veterinário ou outra entidade com acesso ao SIAC, pode determinar desde logo, a título cautelar, a suspensão provisória do respetivo acesso, até que sejam clarificadas as eventuais irregularidades ou incumprimentos.
+
+###### Artigo 21.º — Contraordenações
+
+1 - Constitui contraordenação punível com coima cujo montante mínimo é de (euro) 50 e máximo de (euro) 3740 ou (euro) 44 890, consoante o agente seja pessoa singular ou coletiva:
+
+a) A posse ou detenção de animal por qualquer pessoa, que não se encontre identificado nos termos do artigo 5.º ou que não disponha de DIAC, PAC ou Boletim Sanitário nas suas deslocações, nos termos do n.º 1 do artigo 14.º;
+
+b) O registo de informação no SIAC por parte de médico veterinário acreditado, das entidades autorizadas, ou do titular de animal de companhia, que não esteja em conformidade com as normas constantes do Manual de Procedimentos SIAC, previsto no n.º 4 do artigo 8.º;
+
+c) O incumprimento, pelo titular, da obrigação de alteração do registo e de atualização do DIAC e do PAC, nos termos do artigo 13.º;
+
+d) O incumprimento dos deveres previstos no artigo 16.º;
+
+e) O incumprimento por parte do médico veterinário, das obrigações previstas:
+
+i) No n.º 4 do artigo 5.º, relativa à obrigatoriedade de assegurar a prévia identificação aquando da vacinação antirrábica ou outros atos de profilaxia médica;
+
+ii) No artigo 6.º ou no n.º 3 do artigo 7.º, relativas à marcação dos animais;
+
+iii) Nos n.os 1, 2, 3 e 4 do artigo 9.º, relativos ao dever de registo no SIAC;
+
+iv) Na não disponibilização do DIAC ao titular em incumprimento do artigo 10.º;
+
+v) No incumprimento no artigo 12.º, relativo ao registo de profilaxias médicas e outras disposições;
+
+vi) No artigo 15.º, relativa aos deveres específicos;
+
+f) A colocação, disponibilização ou comercialização de transponders por entidade não autorizada, em incumprimento do disposto no artigo 7.º;
+
+g) O incumprimento, por qualquer entidade, das obrigações previstas no n.º 6 do artigo 13.º;
+
+h) O incumprimento das normas constantes nos artigos 5.º, 6.º, 9.º, 10.º, 14.º, 33.º e 34.º do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo à circulação sem caráter comercial de animais de companhia, por parte dos titulares ou qualquer detentor dos animais de companhia;
+
+i) O incumprimento das normas constantes nos artigos 22.º e 29.º do Regulamento (UE) n.º 576/2013, do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo à circulação sem caráter comercial de animais de companhia, por parte dos médicos veterinários autorizados a emitir documentos de identificação referidos como PAC.
+
+2 - A tentativa e a negligência são puníveis.
+
+###### Artigo 22.º — Sanções acessórias
+
+Consoante a gravidade da contraordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:
+
+a) Perda a favor do Estado de objetos e/ou de animais mantidos pelo seu titular, possuidor ou detentor;
+
+b) Interdição do exercício de uma profissão ou atividade cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participarem em feiras ou mercados de animais;
+
+e) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+f) Suspensão de autorizações, licenças e alvarás;
+
+g) Suspensão do acesso ao SIAC, do titular ou detentor do animal de companhia, do médico veterinário ou outra entidade.
+
+###### Artigo 23.º — Instrução e decisão
+
+1 - Compete à DGAV a instrução dos procedimentos de contraordenação previstos no artigo 21.º
+
+2 - Compete ao diretor-geral de Alimentação e Veterinária a aplicação das coimas e das sanções acessórias.
+
+3 - A DGAV deve participar à Ordem dos Médicos Veterinários as contraordenações que tenham sido aplicadas a médico veterinário.
+
+###### Artigo 24.º — Destino das coimas
+
+A afetação do produto das coimas previstas no artigo 21.º faz-se da seguinte forma:
+
+a) 10 % para a autoridade autuante;
+
+b) 30 % para a DGAV;
+
+c) 60 % para o Estado.
+
+###### Artigo 25.º — Regiões Autónomas
+
+1 - Nas Regiões Autónomas dos Açores e Madeira, as competências cometidas à DGAV pelo presente decreto-lei são exercidas pelos competentes serviços e organismos das respetivas administrações regionais, sem prejuízo das competências atribuídas à DGAV na qualidade de autoridade sanitária veterinária nacional.
+
+2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas.
+
+3 - Os dados constantes, e que sejam compatíveis, da base de dados do Registo de Animais de Companhia e/ou Errantes em funcionamento na Região Autónoma dos Açores, devem ser integrados no SIAC.
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 26.º — Fusão do Sistema de Identificação de Caninos e Felinos e do Sistema de Identificação e Recuperação Animal
+
+O SIAC deve assegurar a integração dos registos dos animais de companhia que se encontrem inscritos de forma regular no Sistema de Identificação de Caninos e Felinos (SICAFE) e no Sistema de Identificação e Recuperação Animal (SIRA), nos termos da Resolução da Assembleia da República n.º 155/2016, de 1 de julho.
+
+###### Artigo 27.º — Licença de cães e articulação com o Sistema de Informação de Animais de Companhia
+
+1 - Os cães registados no SIAC são objeto de licenciamento anual na junta de freguesia da área de recenseamento do seu titular, podendo as freguesias emitir regulamentação complementar para o procedimento de emissão da licença.
+
+2 - Com exceção dos cães perigosos ou potencialmente perigosos, o registo inicial no SIAC é válido como licença por um ano a contar da data do registo.
+
+3 - Para a emissão da licença e das suas renovações anuais, os titulares de cães perigosos ou potencialmente perigosos devem apresentar os elementos que para o efeito forem exigidos por lei especial, devendo assegurar o licenciamento no prazo de 30 dias após o registo no SIAC.
+
+4 - São isentos de licença os cães para fins militares, policiais ou de segurança do Estado, devendo, no entanto, possuir sistemas de identificação e de registo próprios sediados nas entidades onde se encontram e cumprir todas as disposições de registo e de profilaxia médica e sanitária previstas no presente decreto-lei.
+
+5 - Os canídeos cujos titulares não apresentem carta de caçador ou declaração de guarda de bens, ou prova de cão-guia, são licenciados como cães de companhia.
+
+6 - A taxa devida pelo licenciamento é aprovada pela assembleia de freguesia, devendo ter por referência o valor da taxa N de profilaxia médica para esse ano, não podendo exceder o triplo daquele valor e variando de acordo com a categoria do animal, podendo as freguesias criar fundamentadamente um quadro de isenções totais ou parciais.
+
+7 - Ficam isentos do pagamento de taxa, enquanto conservarem essa qualidade, os:
+
+a) Cães-guia;
+
+b) Cães de guarda de estabelecimentos do Estado, corpos administrativos, organismos de beneficência e de utilidade pública;
+
+c) Cães que se encontrem recolhidos em instalações pertencentes a sociedades zoófilas legalmente constituídas e sem fins lucrativos e nos canis municipais;
+
+d) Cães detidos por outras entidades públicas no quadro de políticas de sensibilização ou de educação para o bem-estar animal.
+
+8 - Ficam igualmente isentos do pagamento de taxa os titulares de canídeos em situação de insuficiência económica, bem como os detentores que tenham adotado os cães em centros de recolha oficial de animais ou em associações zoófilas legalmente constituídas.
+
+9 - Até à aprovação da taxa referida no n.º 6 pela assembleia de freguesia aplicam-se os valores vigentes no momento de entrada em vigor do presente decreto-lei.
+
+> Alterado pelo/a Artigo 335.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 425.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+###### Artigo 28.º — Alteração ao Decreto-Lei n.º 315/2009, de 29 de outubro
+
+O artigo 5.º do Decreto-Lei n.º 315/2009, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Sem prejuízo do disposto nos n.os 1 e 2, os cães que sejam classificados como potencialmente perigosos, provenientes de um Estado-Membro ou de um país terceiro, tendo em vista a reprodução, devem ser registados no SIAC, no prazo de 10 dias após a entrada no território nacional em nome do titular que figure no Passaporte do Animal de Companhia ou no certificado sanitário respetivo.»
+
+###### Artigo 29.º — Normas transitórias
+
+1 - Os cães nascidos antes de 1 de julho de 2008, que por força do Decreto-Lei n.º 313/2003, de 17 de dezembro, na sua redação atual, não eram obrigados a estarem identificados, devem ser marcados e registados no SIAC no prazo de 12 meses após a entrada em vigor do presente decreto-lei.
+
+2 - Os gatos e furões que tenham nascido antes da entrada em vigor do presente decreto-lei devem ser marcados com transponder e registados no SIAC no prazo de 36 meses após a entrada em vigor do presente decreto-lei.
+
+3 - Os proprietários ou possuidores de animais que, apesar de terem sido marcados antes da entrada em vigor do presente decreto-lei, não tenham sido registados no SICAFE, nem tenham sido integrados no SIAC, devem, solicitar o seu registo por via de um médico veterinário acreditado no SIAC, por pessoa acreditada perante o SIAC, pela junta de freguesia ou pela câmara municipal da área de residência ou por via dos serviços da DGAV, no prazo de 12 meses após a entrada em vigor do presente decreto-lei.
+
+4 - Os Boletins Sanitários de Cães e Gatos, emitidos até a data da entrada em vigor do presente decreto-lei, ao abrigo do Programa Nacional de Luta e Vigilância Epidemiológica da Raiva Animal e Outras Zoonoses, aprovado pela Portaria n.º 264/2013, de 16 de agosto, mantêm-se válidos e substituem, para todos os efeitos legais, o DIAC, caso contenham o registo do número de marcação do animal e os animais tenham sido corretamente registados no SIAC.
+
+5 - Os animais de companhia que no SIRA ou SICAFE tenham sido registados em nome de pessoa coletiva, ficam obrigados a assegurar a correção do registo nos termos do disposto no n.º 5 do artigo 9.º do presente decreto-lei, no prazo de 12 meses após a entrada em vigor do presente decreto-lei.
+
+###### Artigo 30.º — Remissões e referências legais
+
+As referências e remissões feitas ao SICAFE, estabelecido pelo Decreto-Lei n.º 313/2003, de 17 de dezembro, na sua redação atual, e ao Regulamento de Registo, Classificação e Licenciamento de Cães e Gatos, aprovado pela Portaria n.º 421/2004, de 24 de abril, consideram-se efetuadas para o presente decreto-lei.
+
+###### Artigo 31.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 313/2003, de 17 de dezembro, na sua redação atual;
+
+b) A Portaria n.º 421/2004, de 24 de abril.
+
+###### Artigo 32.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 120 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de maio de 2019. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Maria Isabel Solnado Porto Oneto - Luís Manuel Capoulas Santos.
+
+Promulgado em 18 de junho de 2019.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 18 de junho de 2019.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112389804

@@ -1,0 +1,716 @@
+---
+schema_version: '1.0'
+id: pt:dre:628017:por
+title: Decreto-Lei n.º 396/2007
+short_title: null
+summary: Estabelece o regime jurídico do Sistema Nacional de Qualificações e define as estruturas que regulam o seu funcionamento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 396/2007
+official_date: null
+publication_date: '2007-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/2007, Série I de 2007-12-31
+  number: '251'
+  series: I
+  supplement: null
+  pages: 9165 - 9173
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/12/25100/0916509173.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-06-29'
+version_history:
+  file: decreto-lei-396-2007.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-01-27'
+    amending: pt:dre:105808927:por
+    amending_title: Decreto-Lei n.º 14/2017
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+  - date: '2019-06-29'
+    amending: pt:dre:122747583:por
+    amending_title: Decreto-Lei n.º 84/2019
+    changes:
+    - Adita Artigo 20.º-A
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/396/2007/p/cons/20190628/pt/html
+  oj: null
+  dre: '628017'
+  dre_path: /dr/detalhe/decreto-lei/396-2007-628017
+  internal: pt:dre:628017:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017
+  metadata_url: https://data.dre.pt/eli/dec-lei/396/2007/p/cons/20190628/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34556675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34556675
+  retrieved_at: '2026-10-22T11:52:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f49173450911cda126591656c89de21e10f58112607fc7b4398396f606e5f0d0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:52:33Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-396-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caderneta Individual de Competências
+- Catálogo Nacional de Qualificações
+- Centro de Formação e Reabilitação Profissional
+- Formação Profissional
+- Conselho Nacional da Formação Profissional
+- Definição de Competências
+- Habilitações Literárias
+- Agência Nacional para a Qualificação
+- Centro Novas Oportunidades
+- Educação dos Adultos
+- Sistema Nacional de Qualificações
+- Estabelecimento de Ensino
+- Qualificação Profissional
+- Ensino Básico
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:105808927:por
+  label: Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera
+    Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 26.º; Revoga
+    Artigo 10.º; Revoga Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927
+  date: '2017-01-26'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Adita Artigo 20.º-A; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: cites
+  target: pt:dre:200004:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59/1992/04/13/p/dre
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/205/1996/10/25/p/dre
+- type: cites
+  target: pt:dre:288669:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/35/2002/04/23/p/dre
+- type: cites
+  target: pt:dre:289056:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/401/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2001/01/18/p/dre
+- type: cites
+  target: pt:dre:432450:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/209/2002/10/17/p/dre
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:676841:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/39/2006/02/20/p/dre
+article_structure:
+  article_count: 28
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:52:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 396/2007
+
+Portugal realizou nas últimas décadas um significativo esforço de qualificação da sua população no sentido de recuperar um atraso histórico neste domínio. Apesar dos progressos realizados, a realidade nacional e os ritmos de evolução em matéria de qualificações continuam muito longe dos níveis dos países mais desenvolvidos, não assegurando ao país as condições necessárias ao seu desenvolvimento, no contexto de uma economia global cada vez mais baseada no conhecimento. Aos baixos níveis de qualificação da população activa em geral acrescem os ainda elevados níveis de abandono e de saída escolar precoce, situação que compromete a essencial trajectória de convergência e aproximação aos países mais desenvolvidos. Este quadro bloqueia o acesso à formação e à aquisição e aplicação de novos conhecimentos, impedindo a estruturação de uma base sólida de competências e a adaptação da população activa a contextos de profunda reestruturação económica e de elevada mobilidade profissional.
+
+Torna-se, pois, essencial encontrar soluções inovadoras no plano dos objectivos, nos modos de organização e nos meios utilizados, para superar as dificuldades e conseguir melhorar aumentar rápida e sustentadamente as competências dos portugueses e os seus níveis de qualificação.
+
+O Sistema Nacional de Qualificações assume objectivos já afirmados na Iniciativa Novas Oportunidades - desde logo o de promover a generalização do nível secundário como qualificação mínima da população - e promove os instrumentos necessários à sua efectiva execução, em articulação com os instrumentos financeiros propiciados, nomeadamente pelo Quadro de Referência Estratégico Nacional 2007-2013. Neste contexto, a elevação da formação de base da população activa deve, ao mesmo tempo, gerar competências necessárias ao desenvolvimento pessoal e à modernização das empresas e da economia, bem como possibilitar a progressão escolar e profissional dos cidadãos. Estes objectivos aplicam-se tanto a jovens como a adultos, por forma a promover, por razões de justiça social e por imperativos de desenvolvimento, novas oportunidades de qualificação das pessoas inseridas no mercado de trabalho, muitas das quais sofreram os efeitos do abandono e da saída escolar precoce.
+
+No quadro da Iniciativa Novas Oportunidades, a elevação da formação de base de jovens passa nomeadamente pela diversificação das ofertas de educação e formação - através do reforço das vias profissionalizantes - e, no caso dos adultos, pela disponibilização de ofertas de qualificação flexíveis, em particular estruturadas a partir das competências adquiridas. É, pois, essencial valorizar e reconhecer as competências já adquiridas pelos adultos - por via da educação, da formação, da experiência profissional ou outras - como via de estruturar percursos de qualificação adequados à realidade de cada cidadão e orientados para o seu desenvolvimento pessoal e para as necessidades do mercado de trabalho, num contexto económico particularmente exigente e em acelerada mudança.
+
+O Sistema Nacional de Qualificações adopta os princípios consagrados no acordo celebrado com os parceiros sociais e reestrutura a formação profissional inserida no sistema educativo e a inserida no mercado de trabalho, integrando-as com objectivos e instrumentos comuns e sob um enquadramento institucional renovado. A presente reforma não envolve outros domínios do sistema educativo que igualmente concorrem para a qualificação das pessoas.
+
+A estratégia fundamental passa por assegurar a relevância da formação e das aprendizagens para o desenvolvimento pessoal e para a modernização das empresas e da economia, assegurando ao mesmo tempo que todo o esforço nacional em formação é efectivamente valorizado para efeitos de progressão escolar e profissional dos cidadãos, quer de forma directa, através da formação de dupla certificação inserida no Catálogo Nacional de Qualificações, quer de forma indirecta, através dos centros novas oportunidades e do processo de reconhecimento, validação e certificação de competências.
+
+O Catálogo Nacional de Qualificações, agora criado, constitui um instrumento de gestão estratégica das qualificações de nível não superior, contendo o conjunto de referenciais essenciais para a competitividade e modernização das empresas e da economia, bem como para o desenvolvimento pessoal e social dos cidadãos. Possibilita assim uma melhor adequação das respostas formativas às necessidades das empresas, do mercado de trabalho e dos cidadãos, estando organizado numa lógica de dupla certificação, escolar e profissional e estruturado em níveis de qualificação descritos no Quadro Nacional de Qualificações.
+
+O Catálogo Nacional de Qualificações é um instrumento aberto, em permanente actualização, pelo que se torna essencial assegurar a participação activa e constante dos principais agentes económicos e sociais na sua elaboração e gestão, nomeadamente através dos conselhos sectoriais para a Qualificação e do Conselho Nacional da Formação Profissional. O Catálogo Nacional de Qualificações será responsável pela estruturação de parte importante do esforço nacional em formação, nomeadamente da formação contínua financiada através de recursos públicos.
+
+A obtenção de qualificações integradas no Catálogo Nacional de Qualificações, independentemente das vias, é comprovada por diploma de qualificação. A conclusão com aproveitamento de um ou mais módulos ou unidades de formação com base nos referenciais do Catálogo - e no caso de não serem suficientes para concluir uma qualificação - é titulada por certificado de qualificações e automaticamente creditável e reconhecida pelas várias entidades do sistema para efeito da obtenção de qualificação em qualquer momento posterior. A quem conclua uma acção de formação não inserida no Catálogo é emitido certificado de formação profissional e efectuado registo na caderneta individual de competências, por forma a permitir a creditação dessa formação para efeitos de progressão escolar e profissional, a qualquer momento, através dos centros novas oportunidades. A caderneta individual de competências permite pois aos indivíduos apresentar de forma mais eficaz, clara e transparente as formações e competências que foram adquirindo ao longo da vida, bem como aos empregadores apreender de modo mais fácil a adequação das competências dos candidatos aos postos de trabalho.
+
+A estrutura de níveis de qualificação constante no Quadro Nacional de Qualificações está em linha com os trabalhos já desenvolvidos no âmbito da União Europeia sobre o futuro quadro europeu de qualificações para a aprendizagem ao longo da vida, facilitando assim comparabilidade das qualificações dos portugueses no espaço europeu e consequentemente a sua mobilidade em condições mais favoráveis.
+
+O Sistema Nacional de Qualificações é apoiado num novo modelo institucional, com destaque para a Agência Nacional para a Qualificação, I. P., à qual está atribuído um papel central, nomeadamente a gestão da rede de centros novas oportunidades - autorizando a sua criação, regulando as condições do seu funcionamento e procedendo à sua permanente avaliação e acompanhamento, tendo em conta o grau de cobertura da rede e a exigência de manutenção de elevados padrões de qualidade - a elaboração e actualização do Catálogo Nacional de Qualificações, o ordenamento e racionalização da oferta formativa desenvolvida no âmbito do Catálogo, bem como o acompanhamento e apoio às actividades de informação e orientação para a qualificação e o emprego.
+
+Os centros novas oportunidades desempenham uma função nuclear na qualificação dos adultos, competindo-lhes o encaminhamento para ofertas de educação ou de formação, o reconhecimento e validação de competências dos adultos para se determinar o seu posicionamento em percursos de educação e formação, bem como o reconhecimento, validação e certificação de competências adquiridas ao longo da vida.
+
+A qualidade do Sistema Nacional de Qualificações é um objectivo presente em todos os seus elementos, designadamente através da certificação das entidades formadoras e da qualificação dos formadores e outros técnicos de formação. A certificação das entidades formadoras, obrigatória para o acesso a financiamento público da actividade formativa, é significativamente reforçada, através da realização de auditorias externas anuais a todas as entidades e da simplificação e desburocratização do processo de certificação. A entidade pública que assegura a certificação das entidades formadoras deverá ser acreditada no âmbito do Sistema Português da Qualidade.
+
+O financiamento da formação rege-se segundo critérios de eficiência e de qualidade, privilegiando a formação profissional desenvolvida de acordo com o Catálogo Nacional de Qualificações, bem como outra que se revele estratégica para o desenvolvimento das empresas - com particular destaque para a dirigida a médias, pequenas e microempresas - e dos trabalhadores e introduz critérios de selectividade das entidades formadoras em função da qualidade da formação que ministram. O financiamento público deve contribuir para efectivar o direito dos trabalhadores à formação, quando esta respeite à procura individual de formação profissional.
+
+A efectivação dos objectivos da presente reforma depende decisivamente do envolvimento das pessoas e organizações directamente interessadas, o que é nomeadamente propiciado através da participação dos parceiros sociais em várias estruturas do sistema, com destaque para o Conselho Nacional da Formação Profissional.
+
+O projecto correspondente ao presente decreto-lei foi publicado, para apreciação pública, na separata do Boletim de Trabalho e Emprego n.º 5, de 9 de Agosto de 2007, tendo sido ponderados os comentários recebidos, nomeadamente os de associações de empregadores e associações sindicais.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo aprova o seguinte:
+
+> Nota: [Artigo 210.º, Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583) O presente decreto-lei produz efeitos à data da entrada em vigor da Lei do Orçamento do Estado, salvo se disposto em contrário nos artigos antecedentes, e até à entrada em vigor do decreto-lei de execução orçamental para 2020.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente decreto-lei estabelece o regime jurídico do Sistema Nacional de Qualificações (SNQ) e define as estruturas que asseguram o seu funcionamento.
+
+2 - Integram o Sistema Nacional de Qualificações, nos termos da legislação específica que lhes é aplicável:
+
+a) A Agência Nacional para a Qualificação e o Ensino Profissional, I. P. (ANQEP, I. P.), que coordena;
+
+b) A Direção-Geral da Educação;
+
+c) A Direção-Geral do Emprego e das Relações de Trabalho (DGERT);
+
+d) O Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.);
+
+e) Os organismos e as estruturas com competências no domínio do financiamento das políticas de educação e formação profissional;
+
+f) Os conselhos setoriais para a qualificação;
+
+g) Os centros especializados em qualificação de adultos;
+
+h) Os estabelecimentos de ensino básico e secundário;
+
+i) Os centros de formação e reabilitação profissional de gestão directa e protocolares;
+
+j) Os pólos de excelência que sejam criados a partir de operadores de formação que se distingam pela qualidade das suas intervenções formativas, designadamente a partir dos centros protocolares de formação profissional.
+
+k) Outras entidades com estruturas formativas certificadas.
+
+3 - Integram ainda o Sistema Nacional de Qualificações as empresas que promovam a formação dos seus trabalhadores, bem como outras entidades que concorram para o mesmo fim.
+
+4 - As instituições do ensino superior integram também o Sistema Nacional de Qualificações, nos termos da legislação específica que lhes é aplicável.
+
+5 - O presente decreto-lei cria o Quadro Nacional de Qualificações (QNQ), o Catálogo Nacional de Qualificações (CNQ), o Sistema Nacional de Créditos do Ensino e Formação Profissionais e o instrumento de orientação e registo individual de qualificações e competências.
+
+6 - O presente decreto-lei é aplicável em todo o território nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 2.º — Objectivos
+
+1 - São objectivos do Sistema Nacional de Qualificações, nomeadamente:
+
+a) Promover a generalização do nível secundário como qualificação mínima da população;
+
+b) Elevar a formação de base da população activa, possibilitando a sua progressão escolar e profissional;
+
+c) Garantir que os cursos profissionalizantes de jovens confiram a dupla certificação, escolar e profissional;
+
+d) Estruturar uma oferta relevante de formação inicial e contínua, ajustada às necessidades das empresas e do mercado de trabalho, tendo por base as necessidades actuais e emergentes das empresas e dos sectores económicos;
+
+e) Promover uma oferta formativa diversificada, no contexto da promoção da aprendizagem ao longo da vida, geradora de qualificações baseadas em competências e resultados de aprendizagem;
+
+f) Desenvolver as competências necessárias ao desenvolvimento dos indivíduos, à promoção da coesão social e ao exercício dos direitos de cidadania;
+
+g) Reforçar e consolidar o processo de reconhecimento, validação e certificação de competências;
+
+h) Promover a efectividade do direito individual dos trabalhadores à formação anual certificada;
+
+i) Promover a qualificação e integração socioprofissional de grupos com particulares dificuldades de inserção;
+
+j) Promover a coerência, a transparência e a comparabilidade das qualificações a nível nacional e internacional;
+
+k) Promover a inclusão, por via das qualificações e da aprendizagem ao longo da vida, das pessoas com deficiência ou incapacidade;
+
+l) Assegurar a informação e orientação escolar e profissional e a articulação e gestão partilhada dos respectivos recursos e instrumentos;
+
+m) Promover a eficácia e eficiência do ensino e formação profissionais, nomeadamente através da antecipação de necessidades de qualificação e de mecanismos que concorrem para a garantia da qualidade;
+
+n) Garantir a gestão de financiamento público orientada para as prioridades das políticas de educação e formação profissional;
+
+o) Contribuir para a igualdade de oportunidades no acesso às profissões, bem como para a empregabilidade e para o empreendedorismo com superação das discriminações de género.
+
+2 - Os objectivos do Sistema Nacional de Qualificações são promovidos com a participação dos parceiros sociais em vários níveis, nos termos do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) 'Aprendizagem' o processo que se desenvolve ao longo da vida mediante o qual se adquirem conhecimentos, aptidões e atitudes, no âmbito do sistema educativo, de formação e dos contextos profissional e pessoal;
+
+b) «Competência» a capacidade reconhecida para mobilizar os conhecimentos, as aptidões e as atitudes em contextos de trabalho, de desenvolvimento profissional, de educação e de desenvolvimento pessoal;
+
+d) «Dupla certificação» o reconhecimento de competências para exercer uma ou mais actividades profissionais e de uma habilitação escolar, através de um diploma;
+
+e) «Educação e formação profissional» ou «formação profissional» a formação com objectivo de dotar o indivíduo de competências com vista ao exercício de uma ou mais actividades profissionais;
+
+f) «Entidade formadora certificada» a entidade com personalidade jurídica, dotada de recursos e capacidade técnica e organizativa para desenvolver processos associados à formação, objecto de avaliação e reconhecimento oficiais de acordo com o referencial de qualidade estabelecido para o efeito;
+
+g) «Formação certificada» a formação desenvolvida por entidade formadora certificada para o efeito ou por estabelecimento de ensino reconhecido pelos ministérios competentes;
+
+h) «Formação contínua» a actividade de educação e formação empreendida após a saída do sistema de ensino ou após o ingresso no mercado de trabalho que permita ao indivíduo aprofundar competências profissionais e relacionais, tendo em vista o exercício de uma ou mais actividades profissionais, uma melhor adaptação às mutações tecnológicas e organizacionais e o reforço da sua empregabilidade;
+
+i) 'Formação contínua certificada' a formação contínua desenvolvida por entidade formadora certificada para o efeito ou por estabelecimento de ensino reconhecido pelos ministérios competentes, sem prejuízo do disposto no n.º 3 do artigo 131.º da Lei n.º 7/2009, de 12 de fevereiro, na sua atual redação, para os efeitos aí previstos;
+
+j) 'Formação contínua de dupla certificação' a formação contínua desenvolvida através da frequência de quaisquer unidades de formação de curta duração integradas no CNQ e desenvolvida por entidade formadora certificada para o efeito ou por estabelecimento de ensino reconhecido pelos ministérios competentes;
+
+k) «Formação inicial» a actividade de educação e formação certificada que visa a aquisição de saberes, competências e capacidades indispensáveis para poder iniciar o exercício qualificado de uma ou mais actividades profissionais;
+
+l) «Formação inicial de dupla certificação» a formação inicial integrada no Catálogo Nacional de Qualificações e desenvolvida por entidade formadora certificada para o efeito ou por estabelecimento de ensino reconhecido pelos ministérios competentes;
+
+m) «Modalidade de formação» a organização da formação definida em função de características específicas, nomeadamente objectivos, destinatários, estrutura curricular, metodologia e duração.
+
+n) [Revogada];
+
+o) 'Perfil profissional' o conjunto de atividades associadas às qualificações, bem como os conhecimentos, aptidões e atitudes necessários para exercer essas atividades;
+
+p) 'Pontos de crédito' a expressão numérica do peso global dos resultados de aprendizagem associados a uma qualificação e do peso específico de cada unidade de qualificação;
+
+q) «Qualificação» o resultado formal de um processo de avaliação e validação comprovado por um órgão competente, reconhecendo que um indivíduo adquiriu competências, em conformidade com os referenciais estabelecidos;
+
+r) «Reconhecimento, validação e certificação de competências» o processo que permite a indivíduo com, pelo menos, 18 anos de idade o reconhecimento, a validação e a certificação de competências adquiridas e desenvolvidas ao longo da vida;
+
+s) «Referencial de competências» o conjunto de competências exigidas para a obtenção de uma qualificação;
+
+t) 'Referencial de formação' o conjunto da informação que define os conteúdos e outros elementos relevantes para o desenvolvimento da formação, devendo adequar-se ao referencial de competências definido para a respetiva qualificação;
+
+u) 'Resultados de aprendizagem' o enunciado do que um aprendente conhece, compreende e é capaz de fazer aquando da conclusão de um processo de aprendizagem, descrito em termos de conhecimentos, aptidões e atitudes;
+
+v) 'Unidade de competência' a combinatória coerente de resultados de aprendizagem, passível de avaliação e validação autónoma;
+
+w) 'Unidade de formação de curta duração' a unidade de aprendizagem, passível de certificação autónoma e de integração em um ou mais percursos formativos referidos no CNQ, permitindo o desenvolvimento de competências certificadas;
+
+x) 'Unidade de qualificação' a unidade de formação de curta duração e a unidade de competência que integram uma qualificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+### Capítulo II — Qualificação, formação e reconhecimento de competências
+
+###### Artigo 4.º — Qualificação
+
+1 - A qualificação pode ser obtida através de formação inserida no Catálogo Nacional de Qualificações, desenvolvida no âmbito do sistema de educação e formação.
+
+2 - A qualificação pode resultar do reconhecimento, validação e certificação de competências adquiridas noutras formações e noutros contextos da vida profissional e pessoal.
+
+3 - A qualificação pode ainda resultar do reconhecimento de títulos adquiridos noutros países.
+
+###### Artigo 5.º — Quadro Nacional de Qualificações
+
+1 - O Quadro Nacional de Qualificações define a estrutura de níveis de qualificação, incluindo requisitos de acesso e a habilitação escolar a que corresponde, tendo em conta o quadro europeu de qualificações, com vista a permitir a comparação dos níveis de qualificação dos diferentes sistemas dos Estados membros.
+
+2 - O QNQ visa integrar os subsistemas nacionais de qualificação e melhorar o acesso, a progressão e a qualidade das qualificações em relação ao mercado de trabalho e à sociedade em geral.
+
+3 - De acordo com o disposto no n.º 1, são adoptados os princípios do quadro europeu de qualificações no que diz respeito à descrição das qualificações nacionais em termos de resultados de aprendizagem, de acordo com os descritores associados a cada nível de qualificação.
+
+4 - A estrutura referida no n.º 1 é regulada por portaria dos membros do Governo responsáveis pelas áreas do ensino superior, da educação e da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 6.º — Catálogo Nacional de Qualificações
+
+1 - O Catálogo Nacional de Qualificações é um instrumento dinâmico, de gestão estratégica das qualificações de nível não superior, essenciais para a competitividade e modernização das empresas e do tecido produtivo e para o desenvolvimento pessoal e social do indivíduo.
+
+2 - O CNQ integra as qualificações baseadas em competências e resultados de aprendizagem, identificando para cada uma os respetivos referenciais de competências, de formação, bem como o nível de qualificação de acordo com o QNQ e pontos de crédito.
+
+3 - A formação de dupla certificação desenvolvida com base nos referenciais de formação integrados no CNQ é, na sua componente tecnológica e na componente de formação de base, estruturada em unidades de competência e/ou unidades de formação de curta duração, capitalizáveis e certificáveis autonomamente.
+
+4 - O CNQ é organizado de acordo com a Classificação Nacional das Áreas de Educação e Formação, aprovada por portaria dos membros do Governo responsáveis pelas áreas do ensino superior, da educação e da formação profissional.
+
+5 - Compete à ANQEP, I. P., elaborar, avaliar e atualizar em permanência o CNQ, mediante a inclusão, exclusão ou alteração de qualificações, tendo em conta as necessidades atuais e emergentes das empresas, dos setores económicos e dos indivíduos, em colaboração com os conselhos setoriais para a qualificação, nos termos do disposto no artigo 17.º
+
+6 -  [Revogado].
+
+7 - A atualização do CNQ referida no n.º 5 é publicada em separata do Boletim do Trabalho e Emprego, bem como publicitada no sítio na Internet da ANQEP, I. P.
+
+8 - A inclusão, exclusão ou alteração de qualificações no CNQ entra imediatamente em vigor após a publicação referida no número anterior, sem prejuízo das ações de formação que se encontrem em curso.
+
+9 - Sem prejuízo do disposto no número anterior, a entidade formadora dispõe de um período de três meses, após a data de publicação referida no n.º 7, para implementar as referidas atualizações nas ações de formação com início previsto após essa data.
+
+10 - Para efeitos do disposto no n.º 8, todos os referenciais que integram uma qualificação objeto de alteração devem ser revistos aquando da revisão dessa qualificação.
+
+11 - O CNQ é regulado por portaria dos membros do Governo responsáveis pelas áreas do ensino superior, da educação e da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 6.º-A — Sistema Nacional de Créditos do Ensino e Formação Profissionais
+
+1 - O Sistema Nacional de Créditos do Ensino e Formação Profissionais concretiza-se na atribuição de pontos de crédito às qualificações de dupla certificação do QNQ, integradas no CNQ, nos termos a regular por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+2 - Para efeito do disposto no número anterior, é permitida a acumulação e transferência de pontos de crédito, em linha com os princípios do Sistema Europeu de Créditos para o Ensino e Formação Profissionais, favorecendo, nomeadamente, a mobilidade no espaço europeu, nos termos a regular na portaria prevista no número anterior.
+
+3 - O Sistema Nacional de Créditos do Ensino e Formação Profissionais aplica-se, ainda, a outra formação certificada não integrada no CNQ, desde que registada no SIGO, e desde que cumpra os critérios de garantia da qualidade em vigor, a regular por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 7.º — Diplomas e certificados
+
+1 - A obtenção de uma qualificação prevista no Catálogo Nacional de Qualificações é comprovada por diploma de qualificação.
+
+2 - O diploma de qualificação deve referenciar o nível de qualificação correspondente, de acordo com o Quadro Nacional de Qualificações e, quando aplicável, a actividade profissional para a qual foi obtida qualificação, de acordo com o Catálogo Nacional de Qualificações.
+
+3 - A conclusão com aproveitamento de uma ou mais unidades de formação desenvolvidas com base nos referenciais do Catálogo Nacional de Qualificações, que não permita de imediato a obtenção de qualificação ou a conclusão de um processo de reconhecimento, validação e certificação de competências, é comprovada por um certificado de qualificações.
+
+4 - O certificado referido no número anterior é também emitido no caso da obtenção de uma qualificação prevista no Catálogo Nacional de Qualificações.
+
+5 - Os modelos de diploma e certificado referidos nos números anteriores são definidos por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional de acordo com o previsto, respetivamente, nos artigos 9.º e 12.º e disponibilizados no Sistema Integrado de Informação e Gestão da Oferta Educativa e Formativa (SIGO).
+
+6 - A conclusão com aproveitamento de uma acção de formação certificada não inserida no Catálogo Nacional de Qualificações é comprovada por certificado de formação profissional, regulado por portaria do membro do Governo responsável pela área da formação profissional.
+
+7 - Os diplomas e certificados referidos nos números anteriores são emitidos pelas entidades que integram a rede de entidades formadoras do Sistema Nacional de Qualificações.
+
+8 - A conclusão com aproveitamento de uma ação de formação contínua realizada por entidade formadora não certificada é comprovada por certificado emitido por esta, nomeadamente de acordo com o certificado previsto no n.º 6, devendo essa formação ser registada no instrumento de orientação e registo individual de qualificações e competências.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 8.º — Instrumento de orientação e registo individual de qualificações e competências
+
+1 - O instrumento de orientação e registo individual de qualificações e competências regista todas as qualificações e competências que um indivíduo adquire ou desenvolve ao longo da vida, referidas no CNQ, bem como as restantes ações de formação concluídas, distintas das que deram origem a qualificações e competências registadas.
+
+2 - O instrumento de orientação e registo individual de qualificações e competências identifica as competências em falta para completar um determinado percurso de qualificação, de forma a facilitar a construção de trajetórias de formação mais adequadas às necessidades de cada indivíduo, de entre as diferentes trajetórias possíveis.
+
+3 - A definição da estrutura do instrumento de orientação e registo individual de qualificações e competências é regulado por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 9.º — Modalidades de formação
+
+1 - Constituem modalidades de formação de dupla certificação, em função do perfil e condições de acesso de cada indivíduo, as seguintes:
+
+a) Cursos profissionais, entendendo-se como tais os cursos de nível secundário de educação, vocacionados para a formação inicial de jovens, privilegiando a sua inserção na vida activa e permitindo o prosseguimento de estudos;
+
+b) Cursos de aprendizagem, entendendo-se como tais os cursos de formação profissional inicial de jovens, em alternância, privilegiando a sua inserção na vida activa e permitindo o prosseguimento de estudos;
+
+c) Cursos de educação e formação para jovens, entendendo-se como tais os cursos de formação profissional inicial para jovens que abandonaram ou estão em risco de abandonar o sistema regular de ensino, privilegiando a sua inserção na vida activa e permitindo o prosseguimento de estudos;
+
+d) Cursos de educação e formação para adultos, entendendo-se como tais os cursos que se destinam a indivíduos com idade igual ou superior a 18 anos, não qualificados ou sem qualificação adequada, para efeitos de inserção, reinserção e progressão no mercado de trabalho e que não tenham concluído o ensino básico ou o secundário;
+
+e) Cursos de especialização tecnológica, entendendo-se como tais os cursos de nível pós-secundário não superior que visam conferir uma qualificação com base em formação técnica especializada;
+
+f) Formações modulares certificadas inseridas no CNQ, no quadro da formação contínua;
+
+g) Cursos artísticos especializados orientados na dupla perspetiva da inserção no mundo do trabalho e do prosseguimento de estudos.
+
+2 - As modalidades referidas no número anterior aplicam-se, com as devidas adaptações, a grupos com particulares dificuldades de inserção e no respeito pela igualdade de género.
+
+3 - As modalidades de formação referidas nas alíneas a) a d) e f) do n.º 1 são reguladas por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+4 - Podem ainda ser criadas outras modalidades de formação de dupla certificação, nomeadamente de âmbito setorial, reguladas por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional e, quando aplicável, do setor respetivo.
+
+5 - A modalidade referida na alínea e) do n.º 1 é regulada por diploma próprio.
+
+6 - Constituem também modalidades de formação:
+
+a) A formação-ação, dirigida a empresas e assente na prestação de serviços integrados de formação e consultoria, regulada por portaria do membro do Governo responsável pela área da formação profissional;
+
+b) Ações de formação inicial e contínua, nomeadamente as realizadas por empresas e inseridas em processos de inovação, modernização e reconversão empresarial, bem como as dirigidas à modernização da Administração Pública.
+
+7 - As competências adquiridas através das modalidades de formação referidas no número anterior podem ter dupla certificação no âmbito do processo de reconhecimento, validação e certificação de competências.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 10.º — Referenciais de formação
+
+A apreciação da adequação da estrutura curricular e do plano dos cursos de formação inicial ao referencial constante do Catálogo Nacional de Qualificações realiza-se a partir do momento em que essa formação o integre e é atribuição das entidades competentes para o efeito, tuteladas pelos membros do Governo responsáveis pelas áreas da formação profissional, da educação e do ensino superior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 11.º — Rede de oferta formativa
+
+1 - Compete à Agência Nacional para a Qualificação, I. P., definir e publicitar os critérios de ordenamento da rede de oferta de formação inicial a aplicar pelas entidades competentes pela promoção e apreciação de cursos e em articulação com estas.
+
+2 - As acções de formação a desenvolver no âmbito do Catálogo Nacional de Qualificações são inscritas no SIGO.
+
+###### Artigo 12.º — Reconhecimento, validação e certificação de competências
+
+1 - A qualificação pode ser obtida através do reconhecimento, validação e certificação de competências adquiridas e desenvolvidas ao longo da vida.
+
+2 - O processo de reconhecimento, validação e certificação de competências compete aos centros especializados em qualificação de adultos.
+
+3 - O reconhecimento, validação e certificação de competências é regulado por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 13.º — Reconhecimento das qualificações adquiridas noutros países
+
+1 - A qualificação pode ser obtida através do reconhecimento de títulos adquiridos noutros países, nos termos de legislação especial.
+
+2 - O reconhecimento de títulos, quando não abrangido pela legislação especial referida no número anterior, é da competência da Agência Nacional para a Qualificação, I. P.
+
+###### Artigo 14.º — Informação e orientação para a qualificação e o emprego
+
+1 - A informação e a orientação para a qualificação e o emprego visam facilitar a articulação entre a orientação escolar e profissional, a inserção em percursos de aprendizagem e de trabalho e contribuir para aumentar a eficiência do investimento em educação e formação profissional, respondendo às expectativas e necessidades de desenvolvimento dos indivíduos e das empresas.
+
+2 - No âmbito da informação e orientação para a qualificação e o emprego, deve ser disponibilizada informação específica relevante para a decisão por parte das organizações e dos indivíduos, no que respeita à satisfação das suas necessidades, nomeadamente informação sobre oferta de formação profissional e de emprego.
+
+3 - A informação e orientação para a qualificação e o emprego são desenvolvidas pelos serviços públicos de emprego e formação, centros especializados em qualificação de adultos, serviços de psicologia e orientação dos estabelecimentos de ensino e outras entidades que desenvolvam atividades de informação reconhecidas pelo Estado.
+
+4 - No âmbito da informação e orientação para a qualificação e o emprego, compete à Agência Nacional para a Qualificação, I. P., promover a partilha de instrumentos técnicos produzidos no âmbito das actividades de informação e orientação para a qualificação e o emprego, dinamizar acções de formação conjuntas para os profissionais de orientação, bem como proporcionar a divulgação de diagnósticos de base territorial e sectorial de suporte a estas actividades.
+
+5 - A informação e orientação para a qualificação e o emprego são reguladas por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+### Capítulo III — Estruturas do Sistema Nacional de Qualificações
+
+###### Artigo 15.º — Centros especializados em qualificação de adultos
+
+1 - Os centros especializados em qualificação de adultos asseguram a informação, a orientação e o encaminhamento de candidatos para modalidades de formação, o reconhecimento e validação e certificação de competências para efeitos de posicionamento em percursos de educação e formação, bem como o reconhecimento, validação e certificação das competências adquiridas ao longo da vida.
+
+2 - Cabe à ANQEP, I. P., a autorização da criação de centros especializados em qualificação de adultos, tendo nomeadamente em conta o grau de cobertura assegurada pela rede de centros, em função das necessidades de qualificação da população adulta.
+
+3 - Cabe ainda à ANQEP, I. P., a gestão da rede de centros especializados em qualificação de adultos, regulando as condições do seu funcionamento, procedendo à sua avaliação e acompanhamento, com vista à manutenção de elevados padrões de qualidade.
+
+4 - Os centros especializados em qualificação de adultos são regulados por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional, de acordo com o n.º 3 do artigo 12.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 16.º — Entidades formadoras
+
+1 - Constituem a rede de entidades formadoras do SNQ os estabelecimentos de ensino básico e secundário, os centros de formação profissional e de reabilitação profissional de gestão direta e protocolares do IEFP, I. P., no âmbito dos ministérios responsáveis pelas áreas da educação e da formação profissional, as entidades formadoras integradas noutros ministérios ou noutras pessoas coletivas de direito público, bem como os estabelecimentos de ensino particular e cooperativo, as escolas profissionais, os centros especializados em qualificação de adultos e as entidades com estruturas formativas certificadas do setor privado, sem prejuízo no disposto nos n.os 2, 3 e 4 do artigo 1.º
+
+2 - A certificação das entidades formadoras é realizada pelo serviço competente do ministério responsável pela área da formação profissional envolvendo a participação dos parceiros sociais e outras entidades representativas do setor, nos termos de portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+3 -(Revogado).
+
+> Alterado pelo/a Artigo 207.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 17.º — Conselhos sectoriais para a qualificação
+
+1 - Os conselhos sectoriais para a qualificação identificam em permanência as necessidades de actualização do Catálogo Nacional de Qualificações e colaboram com a Agência Nacional para a Qualificação, I. P., nos trabalhos conducentes a essa actualização.
+
+2 - Os conselhos sectoriais para a qualificação integram, entre outros, especialistas indicados pelo ministério que tutele o respectivo sector de actividade, por associações sindicais e associações de empregadores representativas dos correspondentes sectores de actividade, empresas de referência, entidades formadoras com maior especialização sectorial ou regional e peritos independentes, não devendo em princípio exceder os 10 membros.
+
+3 - Os conselhos sectoriais para a qualificação são constituídos e regulamentados por despacho do presidente da Agência Nacional para a Qualificação, I. P., e presididos por um representante desta entidade, que tem voto de qualidade.
+
+###### Artigo 18.º — Coordenação do Sistema Nacional de Qualificações
+
+1 - O SNQ é coordenado pelos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+2 - Os parceiros sociais intervêm na coordenação do SNQ através da sua participação no conselho geral da ANQEP, I. P., no conselho de administração do IEFP, I. P., e no conselho de acompanhamento da certificação das entidades formadoras da DGERT.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+### Capítulo IV — Qualidade
+
+###### Artigo 19.º — Acompanhamento e avaliação
+
+1 - Os serviços responsáveis pela execução das políticas de educação e formação profissional procedem ao acompanhamento das mesmas, nomeadamente, recolhendo informação relevante para a sua avaliação.
+
+2 - Os serviços com competências na conceção das políticas de educação e formação profissional promovem a avaliação da execução das mesmas, designadamente a avaliação global do SNQ.
+
+3 - A participação dos parceiros sociais no âmbito da avaliação do SNQ decorre da sua intervenção nos conselhos referidos no n.º 2 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 20.º — Princípios para a qualidade do Sistema Nacional de Qualificações
+
+1 - O SNQ deve promover a qualidade do ensino e formação profissionais, designadamente através do CNQ, da adoção de sistemas de garantia da qualidade alinhados com os princípios do Quadro de Referência Europeu de Garantia da Qualidade para o Ensino e a Formação Profissionais, da certificação das entidades formadoras, da qualificação dos formadores e outros técnicos de formação, bem como da avaliação periódica dos seus resultados.
+
+2 - Concorrem também para a qualidade do Sistema Nacional de Qualificações a informação e orientação escolar e profissional, bem como o financiamento público da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 20.º-A — Taxas
+
+1 - A certificação de entidades formadoras regulada no artigo 16.º está sujeita ao pagamento de uma taxa fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da formação profissional.
+
+2 - A certificação de competências pedagógicas dos formadores que desenvolvem a sua atividade no âmbito do Sistema Nacional de Qualificações, bem como a autorização de funcionamento dos cursos que dão acesso a essa certificação estão sujeitas ao pagamento de taxas fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da formação profissional.
+
+> Aditado pelo/a Artigo 196.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 21.º — Prioridades e outras situações de financiamento da formação
+
+1 - O financiamento público de qualquer modalidade de formação profissional privilegia acções que correspondam a referenciais de formação previstos no Catálogo Nacional de Qualificações e tem em conta a adequação da oferta formativa às necessidades de qualificação ao nível sectorial e territorial.
+
+2 - Sem prejuízo do número anterior, o financiamento público privilegia ainda:
+
+a) Acções de formação-acção, enquanto instrumentos privilegiados de formação em micro, pequenas e médias empresas, a serem implementadas prioritariamente por entidades formadoras com estreita ligação a essas empresas e trabalhadores;
+
+b) Acções de formação contínua para empresas que se encontram em processos de inovação, modernização e reconversão empresarial, nomeadamente para as micro, pequenas e médias empresas.
+
+3 - O financiamento público da formação profissional inicial de jovens destina-se preferencialmente às formações de dupla certificação.
+
+4 - O financiamento público à formação profissional tem em consideração a avaliação dos resultados da mesma, nomeadamente através de critérios de selectividade de entidades formadoras em função da qualidade e da eficácia da formação ministrada, nos termos de legislação especial.
+
+5 - Tem prioridade o financiamento público da procura individual de formação profissional inserida no Catálogo Nacional de Qualificações, designadamente a mediada por processos de reconhecimento, validação e certificação de competências e a que contribua para a efectivação do direito individual à formação não realizada por iniciativa do empregador.
+
+6 - O financiamento público referido no número anterior pode ser concedido através de cheque-formação, regulado por portaria do membro do Governo responsável pela área da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 22.º — Regiões Autónomas
+
+Na aplicação do presente decreto-lei às Regiões Autónomas são tidas em conta as competências legais atribuídas aos respectivos órgãos e serviços, devendo aquelas criar as condições necessárias para a sua execução.
+
+###### Artigo 23.º — Alteração do Decreto-Lei n.º 39/2006, de 20 de Fevereiro
+
+Os artigos 2.º, 3.º e 8.º do Decreto-Lei n.º 39/2006, de 20 de Fevereiro, passam a ter a seguinte redacção:
+
+«Artigo 2.º
+
+[...]
+
+1 - O Conselho é um órgão de consulta do Governo no âmbito da concepção, formulação e acompanhamento das políticas de qualificação da população portuguesa no quadro do Sistema Nacional de Qualificações.
+
+2 - O Conselho avalia e aprova globalmente os elementos que integram o Catálogo Nacional de Qualificações, pelo menos de dois em dois anos.
+
+3 - Os elementos referidos no número anterior consideram-se aprovados, no caso de o Conselho não deliberar sobre os mesmos, no prazo de 90 dias consecutivos a contar da data da primeira reunião em que sejam debatidos, podendo esse prazo ser antecipado, mediante convocação de reunião extraordinária para o efeito.
+
+Artigo 3.º
+
+[...]
+
+Compete ao Conselho no âmbito das atribuições referidas no âmbito do n.º 1 do artigo anterior:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) (Revogado.)
+
+Artigo 8.º
+
+[...]
+
+Os meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento da Agência Nacional para a Qualificação, I. P., que presta também o apoio técnico e administrativo necessário ao seu financiamento.»
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 24.º — Alteração do Decreto-Lei n.º 6/2001, de 18 de Janeiro
+
+O artigo 11.º do Decreto-Lei n.º 6/2001, de 18 de Janeiro, alterado pelo Decreto-Lei n.º 209/2002, de 17 de Outubro, passa a ter a seguinte redacção:
+
+«Artigo 11.º
+
+[...]
+
+1 -...
+
+2 -...
+
+3 - As orientações relativas à diversificação das ofertas curriculares constam de portaria do ministro responsável pela área da educação ou, quando respeitem a percursos de dupla certificação, escolar e profissional, são reguladas no âmbito do Sistema Nacional de Qualificações.»
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+###### Artigo 25.º — Norma revogatória
+
+1 - São revogados os Decretos-Leis n.os 401/91 e 405/91, ambos de 16 de Outubro, e o Decreto-Lei n.º 205/96, de 25 de Outubro, este último a partir da entrada em vigor da portaria que regula esta modalidade de formação referida nos termos no n.º 3 do artigo 9.º
+
+2 - É revogado o Decreto-Lei n.º 59/92, de 13 de Abril, com efeitos a partir da entrada em vigor da portaria que regule a informação e orientação para a qualificação e o emprego em matéria de educação, formação profissional e emprego.
+
+3 - É revogado o Decreto Regulamentar n.º 35/2002, de 23 de Abril, com efeito a partir da entrada em vigor da portaria que aprove o modelo de certificado de formação profissional.
+
+###### Artigo 26.º — Normas transitórias
+
+1 - [Revogado];
+
+2 - [Revogado];
+
+3 - [Revogado];
+
+4 - Mantêm-se válidos os certificados de formação profissional emitidos ao abrigo de legislação específica revogada pelo presente decreto-lei.
+
+5 - [Revogado];
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 14/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), em vigor a partir de 2017-01-27
+
+Visto e aprovado em Conselho de Ministros de 17 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Dias de Jesus Marques - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago.
+
+Promulgado em 7 de Dezembro de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 11 de Dezembro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa

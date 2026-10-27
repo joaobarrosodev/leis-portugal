@@ -1,0 +1,644 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:484419:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-867605267",
+ "dre_path": "/dr/detalhe/decreto-lei/95-1991-484419",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-02-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "867193536",
+    "867193537",
+    "867193538",
+    "867193539",
+    "867193540",
+    "867193541",
+    "867193542",
+    "867193543",
+    "867193544",
+    "867193545",
+    "867193546",
+    "867193547",
+    "867193548",
+    "867193549",
+    "867193550",
+    "867193551",
+    "867193552",
+    "867193553",
+    "867193554",
+    "867193555",
+    "867193556",
+    "867193557",
+    "867193558",
+    "867193559",
+    "867193560",
+    "867193561",
+    "867193562",
+    "867193563",
+    "867193564",
+    "867193565",
+    "867193566",
+    "867193567",
+    "867193568",
+    "867193569",
+    "867193570",
+    "867193571",
+    "867193573"
+   ]
+  },
+  {
+   "date": "1993-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:665342:por",
+     "title": "Decreto-Lei n.º 133/93",
+     "published": "1993-04-26",
+     "dre_path": "/dr/detalhe/decreto-lei/133-1993-665342"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "867193536",
+    "867193537",
+    "867193574",
+    "867193538",
+    "867193539",
+    "867193540",
+    "868583430",
+    "867193542",
+    "867193543",
+    "867193544",
+    "867193545",
+    "867193546",
+    "867193547",
+    "867193548",
+    "868583431",
+    "867193550",
+    "867193551",
+    "867193552",
+    "867193553",
+    "867193554",
+    "867193555",
+    "868583432",
+    "867193557",
+    "868583433",
+    "867193559",
+    "867193560",
+    "867193561",
+    "867193562",
+    "867193563",
+    "867193564",
+    "867193565",
+    "867193566",
+    "867193567",
+    "867193568",
+    "867193569",
+    "867193570",
+    "867193571",
+    "868814385",
+    "867193573"
+   ]
+  },
+  {
+   "date": "1996-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:241670:por",
+     "title": "Decreto-Lei n.º 165/96",
+     "published": "1996-09-05",
+     "dre_path": "/dr/detalhe/decreto-lei/165-1996-241670"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "867193536",
+    "867193537",
+    "867193574",
+    "867193538",
+    "867193539",
+    "867193540",
+    "868583430",
+    "867193542",
+    "867193543",
+    "867193544",
+    "867193545",
+    "867193546",
+    "868583438",
+    "867193548",
+    "868583431",
+    "867193550",
+    "867193551",
+    "867193552",
+    "867193553",
+    "867193554",
+    "867193555",
+    "868583432",
+    "867193557",
+    "868583433",
+    "868583434",
+    "867193560",
+    "868583435",
+    "868583436",
+    "868583437",
+    "867193564",
+    "867193565",
+    "867193566",
+    "867193567",
+    "867193568",
+    "867193569",
+    "867193570",
+    "867193571",
+    "868814385",
+    "867193573"
+   ]
+  },
+  {
+   "date": "2004-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:210801:por",
+     "title": "Decreto-Lei n.º 74/2004",
+     "published": "2004-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2004-210801"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "867193536",
+    "867193537",
+    "867193574",
+    "867193538",
+    "867193539",
+    "867193540",
+    "868583439",
+    "867193542",
+    "867193543",
+    "867193544",
+    "867193545",
+    "867193546",
+    "868583438",
+    "867193548",
+    "868583431",
+    "867193550",
+    "867193551",
+    "867193552",
+    "867193553",
+    "867193554",
+    "867193555",
+    "868583432",
+    "867193557",
+    "868583433",
+    "868583434",
+    "867193560",
+    "868583435",
+    "868583436",
+    "868583437",
+    "867193564",
+    "867193565",
+    "867193566",
+    "867193567",
+    "867193568",
+    "867193569",
+    "867193570",
+    "867193571",
+    "868814385",
+    "867193573"
+   ]
+  }
+ ],
+ "fragments": {
+  "867193536": {
+   "fragment_id": "867605268",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 95/91\n\nde 26 de Fevereiro\n\nO desenvolvimento do sistema educativo nacional passa, necessariamente, por uma bem estruturada organização da Educação Física e do desporto escolar. No entanto, ao passo que a Educação Física se situa no quadro das actividades curriculares, o desporto escolar carece de tratamento próprio, em virtude de se tratar de uma actividade de complemento curricular.\n\nAssim sendo, o desporto escolar deve ser desenvolvido tendo como referência os princípios próprios que orientam o quadro teórico, pedagógico e organizacional em que o mesmo se deve processar, constantes da Lei de Bases do Sistema Educativo, Lei n.º 46/86, de 14 de Outubro, e da Lei de Bases do Sistema Desportivo, Lei n.º 1/90, de 13 de Janeiro.\n\nA concretização das suas finalidades determina, inequivocamente, que o desporto se integre na vida escolar, surgindo como uma componente da actividade educativa proporcionada pelo estabelecimento de ensino.\n\nO acesso à educação, ao bem-estar físico e à saúde, através de uma prática desportiva orientada, é um direito que assiste a todos os portugueses, com especial incidência nos jovens em idade escolar.\n\nSimultaneamente, o desporto escolar deve promover a saúde e a condição física, bem como a educação moral, intelectual e social da juventude portuguesa, no respeito absoluto pelo direito à individualidade e à diferença, partindo do princípio de que a actividade desportiva do jovem deve servir exclusivamente a sua educação, sem parcialismo e em verdadeiro espírito de cooperação.\n\nAssumindo-se o desporto escolar como um subsistema totalmente integrado no sistema educativo, deve, contudo, ser também um sector autónomo do sistema desportivo, onde poderá estabelecer ligações com os outros subsistemas, numa situação de igualdade institucional, nomeadamente no quadro das relações com os clubes e as federações desportivas, salvaguardando sempre o primado da educação, das suas estruturas próprias e da sua unidade de direcção.\n\nPor outro lado, imperativo se torna sublinhar a necessária coerência sistémica entre a área ou disciplina de Educação Física e o desporto escolar como actividade de complemento curricular, assegurando a respectiva estrutura orgânica de forma coerente e operativa desde a escola à administração central.\n\nO desporto escolar decorre, com efeito, tal como as demais actividades escolares, sob a responsabilidade dos órgãos de gestão e administração dos estabelecimentos de educação e ensino, constituindo a escola a unidade organizativa de base do desporto escolar.\n\nNo respeito pelas características específicas de cada região, o desporto escolar deve basear-se num sistema aberto de modalidades e de práticas desportivas que serão organizadas integrando de modo harmonioso as dimensões próprias desta actividade, designadamente o ensino, o treino, a recreação e a competição.\n\nFinalmente, e porque o desporto escolar se situa no domínio da área formal das práticas desportivas, entende-se que só deve ser desenvolvido a nível de cada escola desde que estejam garantidas as condições pedagógicas, técnicas e organizacionais que salvaguardem a dignidade do acto pedagógico e desportivo.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nForam ouvidos o Conselho Nacional de Educação e o Conselho Consultivo da Juventude.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelas Leis n.os 46/86, de 14 de Outubro, e 1/90, de 13 de Janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "867193537": {
+   "fragment_id": "867605269",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "867193538": {
+   "fragment_id": "867605270",
+   "type": 8,
+   "heading": "Secção I — Educação Física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Educação Física"
+  },
+  "867193539": {
+   "fragment_id": "867605271",
+   "type": 11,
+   "heading": "Artigo 2.º — Obrigatoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigatoriedade\n\nA Educação Física é uma disciplina curricular obrigatória nos ensinos básico e secundário."
+  },
+  "867193540": {
+   "fragment_id": "867605272",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nA Educação Física tem por objectivos:\n\na) Contribuir para a formação integral dos alunos na diversidade dos seus componentes biofisiológicos, psicológicos, sociais e axiológicos, através do aperfeiçoamento das suas aptidões sensório-motoras, da aquisição de uma saudável condição física e do desenvolvimento correlativo da personalidade nos planos emocional, cognitivo, estético, social e moral;\n\nb) Promover a prática de actividades corporais, lúdicas e desportivas, bem como o seu entendimento enquanto factores de cultura e de concretização de valores sociais, estéticos e éticos;\n\nc) Incentivar o gosto pelo exercício físico e pelas práticas desportivas, como meio privilegiado de desenvolvimento pessoal, interpessoal e comunitário;\n\nd) Apoiar, estimular e desenvolver o desportivismo, o espírito de equipa e as atitudes de cooperação, solidariedade, autonomia e criatividade, bem como a capacidade de interpretação e de compreensão das potencialidades do desporto como expressão cultural e factor de desenvolvimento humano;\n\ne) Contribuir para a integração e reabilitação dos alunos portadores de deficiências, através de actividades que atendam às suas características específicas."
+  },
+  "867193541": {
+   "fragment_id": "867605273",
+   "type": 11,
+   "heading": "Artigo 4.º — Programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Programas\n\n1 - A Educação Física desenvolve-se através de programas próprios com três horas lectivas semanais, observando-se o disposto no Decreto-Lei n.º 286/89, de 29 de Agosto.\n\n2 - À semelhança das restantes disciplinas, é definido um processo de avaliação dos alunos, em termos adequados às especificidades da disciplina de Educação Física.\n\n3 - Para os efeitos do disposto nos números anteriores, os programas de Educação Física deverão ser desenvolvidos numa sequência vertical, tendo em atenção os interesses e características próprios dos vários níveis etários e estabelecer relações horizontais interdisciplinares com vista à prossecução dos objectivos globais de cada ciclo de escolaridade.\n\n4 - Em consequência do estabelecido no número anterior, serão elaborados programas específicos no âmbito dos sistemas dos ensinos básicos e secundário, conforme definido na Lei n.º 46/86, de 14 de Outubro."
+  },
+  "867193542": {
+   "fragment_id": "867605274",
+   "type": 8,
+   "heading": "Secção II — Desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Desporto escolar"
+  },
+  "867193543": {
+   "fragment_id": "867741075",
+   "type": 11,
+   "heading": "Artigo 5.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Definição\n\n1 - Entende-se por desporto escolar o conjunto das práticas lúdico-desportivas e de formação com objecto desportivo desenvolvidas como complemento curricular e ocupação dos tempos livres, num regime de liberdade de participação e de escolha, integradas no plano de actividade da escola e coordenadas no âmbito do sistema educativo.\n\n2 - De acordo com os objectivos referidos no número anterior, o desporto escolar desenvolve as suas actividades nas escolas dos 2.º e 3.º ciclos do ensino básico e nas escolas do ensino secundário.\n\n3 - Nas escolas do 1.º ciclo do ensino básico são desenvolvidas actividades lúdicas de iniciação desportiva integradas no âmbito dos programas de Educação Física da respectiva área curricular ou articuladas com estes."
+  },
+  "867193544": {
+   "fragment_id": "867741076",
+   "type": 11,
+   "heading": "Artigo 6.º — Inserção institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Inserção institucional\n\n1 - A nível local, o desporto escolar organiza-se na escola sob a responsabilidade dos respectivos órgãos de administração e gestão.\n\n2 - A nível regional, o desporto escolar insere-se nas estruturas regionais do Ministério da Educação definidas no Decreto-Lei n.º 361/89, de 18 de Outubro.\n\n3 - A nível central, o desporto escolar é da responsabilidade da Direcção-Geral dos Ensinos Básico e Secundário.\n\n4 - Compete à Inspecção-Geral de Ensino, no quadro das suas atribuições, assegurar o respeito pelos princípios e regras constantes do presente decreto-lei e zelar pela garantia e defesa dos objectivos pedagógicos e da formação integral dos alunos."
+  },
+  "867193545": {
+   "fragment_id": "867741077",
+   "type": 1,
+   "heading": "Capítulo II — Estruturas do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estruturas do desporto escolar"
+  },
+  "867193546": {
+   "fragment_id": "867741078",
+   "type": 8,
+   "heading": "Secção I — Enquadramento geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Enquadramento geral"
+  },
+  "867193547": {
+   "fragment_id": "867741079",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização do desporto escolar\n\n1 - Para os efeitos de prossecução dos objectivos inerentes ao desporto escolar, este articula-se:\n\na) A nível local, através dos núcleos de desporto escolar constituídos em cada escola;\n\nb) A nível regional, através das estruturas de coordenação das direcções regionais de educação criadas nos termos do artigo 29.º do Decreto-Lei n.º 361/89, de 18 de Outubro;\n\nc) A nível central, através da Direcção-Geral dos Ensinos Básico e Secundário.\n\n2 - São órgãos consultivos para o desporto escolar o Conselho Técnico e o Conselho Nacional do Desporto Escolar, que funcionarão junto da Direcção-Geral dos Ensinos Básico e Secundário."
+  },
+  "867193548": {
+   "fragment_id": "867741080",
+   "type": 8,
+   "heading": "Secção II — Estruturas locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estruturas locais"
+  },
+  "867193549": {
+   "fragment_id": "867741081",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização local do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização local do desporto escolar\n\n1 - Sem prejuízo da especificidade própria do 1.º ciclo do ensino básico, as actividades de desporto escolar organizam-se e desenvolvem-se em cada uma das escolas dos ensino básico e secundário sob a responsabilidade dos órgãos de gestão das mesmas.\n\n2 - A organização do desporto escolar faz-se em cada escola através do respectivo núcleo.\n\n3 - O núcleo de desporto escolar, através do órgão de gestão e administração do estabelecimento de ensino, articulará a sua actividade com o órgão competente da respectiva estrutura de coordenação da direcção regional de educação.\n\n4 - Na medida do possível, os órgãos de gestão e administração dos estabelecimentos de educação e ensino devem, na preparação dos respectivos horários, prever uma manhã ou uma tarde semanal reservada à prática desportiva, independentemente das outras actividades correntes do núcleo de desporto escolar e sem prejudicar a actividade curricular, designadamente os horários de Educação Física."
+  },
+  "867193550": {
+   "fragment_id": "867741082",
+   "type": 11,
+   "heading": "Artigo 9.º — Núcleo do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Núcleo do desporto escolar\n\n1 - O núcleo do desporto escolar é a unidade organizativa da escola na qual se processam as práticas do desporto escolar, designadamente, de acordo com o disposto no Decreto-Lei n.º 43/89, de 3 de Fevereiro, quanto às escolas do 2.º e 3.º ciclos do ensino básico e do ensino secundário.\n\n2 - O núcleo do desporto escolar organiza-se de acordo com o grau de ensino, o projecto educativo da escola e a especificidade da região.\n\n3 - Salvo o disposto no número seguinte, o núcleo do desporto escolar é dirigido por um professor de Educação Física, para o efeito nomeado pelo órgão de gestão e administração do estabelecimento de educação e ensino, sob proposta dos professores da disciplina em serviço na mesma.\n\n4 - Nas escolas do 1.º ciclo do ensino básico poderá ser designado um professor-coordenador de Educação Física e de desporto escolar.\n\n5 - Constituem o núcleo do desporto escolar, para além do seu coordenador, todos os docentes intervenientes no desporto escolar que nele trabalharem, todos os alunos praticantes que, a título voluntário, o integrem, bem como, onde exista, um representante da respectiva associação de estudantes."
+  },
+  "867193551": {
+   "fragment_id": "867741083",
+   "type": 11,
+   "heading": "Artigo 10.º — Desenvolvimento do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Desenvolvimento do desporto escolar\n\n1 - O desporto escolar desenvolve-se a dois níveis:\n\na) No primeiro nível, através de um quadro de actividades formativas e recreativas sistemáticas, integrando o treino e a competição, processadas de acordo com horário semanal e especificadas num plano e programa anual integrado no plano de actividades da escola;\n\nb) No segundo nível, através da participação da escola nos diversos quadros competitivos a nível local, regional ou nacional, organizados segundo a iniciativa e regulamentos, respectivamente, das escolas, das direcções regionais de educação e da Direcção-Geral dos Ensinos Básico e Secundário.\n\n2 - As actividades de primeiro nível são desenvolvidas de modo a assegurar a participação dos alunos deficientes, na perspectiva do integral aproveitamento das potencialidades formativas e integradoras da prática desportiva.\n\n3 - O acompanhamento médico dos praticantes e o controlo médico para a Educação Física são assegurados pelos serviços competentes de apoio aos estabelecimentos de ensino, a definir por portaria conjunta dos Ministros da Educação e da Saúde.\n\n4 - O seguro escolar para cobertura dos riscos inerentes à Educação Física cobre, nos mesmos termos e condições, os inerentes a todas as actividades do desporto escolar.\n\n5 - Salvaguardada a supervisão técnica e pedagógica dos professores da respectiva escola, serão fomentados, nomeadamente ao nível do ensino secundário, os mecanismos necessários que conduzam e incentivem os estudantes a participar na organização e gestão das práticas desportivas do núcleo.\n\n6 - A articulação das iniciativas das escolas com as autarquias locais e com os clubes desportivos da respectiva área geográfica desenvolve-se de acordo com o quadro de modelos definido pela Direcção-Geral dos Ensinos Básico e Secundário."
+  },
+  "867193552": {
+   "fragment_id": "867741084",
+   "type": 11,
+   "heading": "Artigo 11.º — Professor-coordenador do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Professor-coordenador do desporto escolar\n\n1 - Sem prejuízo das especialidades ao nível das escolas do 1.º ciclo do ensino básico, compete ao professor-coordenador do desporto escolar:\n\na) Elaborar, em conjugação com os docentes intervenientes no processo e de acordo com as directivas superiormente determinadas, o planeamento, a programação e o orçamento anual das actividades do desporto escolar e assegurar que estas estejam integradas no plano de actividades da escola;\n\nb) Incentivar o desenvolvimento de um quadro de práticas desportivas aberto à participação da generalidade da respectiva população escolar, concretamente através da coordenação das actividades previstas nas alíneas a) e b) do n.º 1 do artigo anterior;\n\nc) Fomentar a participação dos alunos na gestão do desporto escolar, intervindo no desenvolvimento, organização e avaliação das respectivas actividades;\n\nd) Enviar, sob a forma de projecto, o programa e o orçamento do desporto escolar para o órgão competente da respectiva estrutura de coordenação da direcção regional de educação, através dos órgãos de administração e gestão da escola, de forma que o mesmo passe a fazer parte do planeamento regional do desporto escolar.\n\n2 - Ao professor-coordenador do desporto escolar nas escolas do 2.º e 3.º ciclos do ensino básico e do ensino secundário é vedada a acumulação com qualquer outro cargo na escola."
+  },
+  "867193553": {
+   "fragment_id": "867741085",
+   "type": 8,
+   "heading": "Secção III — Estruturas regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Estruturas regionais"
+  },
+  "867193554": {
+   "fragment_id": "867741086",
+   "type": 11,
+   "heading": "Artigo 12.º — Organização regional da Educação Física e do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Organização regional da Educação Física e do desporto escolar\n\n1 - O enquadramento da Educação Física e do desporto escolar a nível regional é atribuição das direcções regionais de educação.\n\n2 - Cada direcção regional de educação mantém estreita ligação com a Direcção-Geral dos Ensinos Básico e Secundário, nomeadamente no planeamento e execução de tarefas de incidência nacional da Educação Física e do desporto escolar resultantes da harmonização entre estas e as actividades programadas a nível regional."
+  },
+  "867193555": {
+   "fragment_id": "867741087",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências das direcções regionais de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências das direcções regionais de educação\n\nNo âmbito da Educação Física e do desporto escolar compete às direcções regionais de educação:\n\na) Definir, a nível regional, as prioridades e as linhas de acção para a Educação Física e o desporto escolar, articulando tal definição com a Direcção-Geral dos Ensinos Básico e Secundário;\n\nb) Regulamentar e articular, a nível regional, as diversas etapas de desenvolvimento das actividades físicas, desportivas e outras, a desenvolver nas escolas da região, conjugando tal actividade com os princípios estabelecidos, a nível nacional, sobre as actividades de complemento curricular, em especial o desporto escolar;\n\nc) Promover, a nível regional, o intercâmbio do desporto escolar e de outras actividades congéneres;\n\nd) Fomentar, regulamentar e coordenar os quadros competitivos regionais, tendo em vista a maior participação possível da juventude escolar no âmbito da respectiva região, salvaguardando as características e condições pedagógicas próprias dessas competições;\n\ne) Elaborar e manter actualizado um plano de dados sobre possibilidades e necessidades de recursos para a Educação Física das escolas;\n\nf) Promover anualmente a divulgação pública das actividades de complemento curricular, em especial do desporto escolar."
+  },
+  "867193556": {
+   "fragment_id": "867741088",
+   "type": 11,
+   "heading": "Artigo 14.º — Organização do desporto escolar nas direcções regionais de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Organização do desporto escolar nas direcções regionais de educação\n\n1 - Para o exercício das suas competências no âmbito do desporto escolar, as direcções regionais de educação disporão de um coordenador regional e de um coordenador por cada estrutura de coordenação criada nos termos do artigo 29.º do Decreto-Lei n.º 361/89, de 18 de Outubro.\n\n2 - O coordenador regional é equiparado, para efeitos remuneratórios, a chefe de divisão, exercendo as suas funções no âmbito do Departamento Técnico-Pedagógico, previsto no artigo 14.º do Decreto-Lei n.º 361/89, de 18 de Outubro, e na dependência do respectivo director de serviços.\n\n3 - Junto dos órgãos competentes das estruturas de coordenação previstas no n.º 3 do artigo 29.º do Decreto-Lei n.º 361/89, de 18 de Outubro, exercerão funções os coordenadores do desporto escolar, que dependem funcionalmente do respectivo coordenador regional.\n\n4 - No âmbito das competências previstas no artigo 13.º do presente diploma, o director regional de educação respectivo estabelecerá, por despacho, mediante proposta do coordenador regional, as competências a desenvolver pelos coordenadores do desporto escolar, as quais visarão prosseguir os objectivos que, a nível regional, se visem concretizar."
+  },
+  "867193557": {
+   "fragment_id": "867741089",
+   "type": 8,
+   "heading": "Secção IV — Estrutura central do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Estrutura central do desporto escolar"
+  },
+  "867193558": {
+   "fragment_id": "867741090",
+   "type": 11,
+   "heading": "Artigo 15.º — Gabinete de Educação Física e do Desporto Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Gabinete de Educação Física e do Desporto Escolar\n\n1 - É criado, no âmbito da Direcção-Geral dos Ensinos Básico e Secundário, o Gabinete da Educação Física e do Desporto Escolar.\n\n2 - O Gabinete é um serviço de planeamento, coordenação, orientação e avaliação do sistema educativo para a Educação Física e o desporto escolar, desenvolvendo, de acordo com as políticas superiormente definidas, as competências previstas na lei orgânica da Direcção-Geral dos Ensinos Básico e Secundário.\n\n3 - O Gabinete é dirigido por um subdirector-geral da Direcção-Geral dos Ensinos Básico e Secundário, para o efeito designado pelo membro do Governo competente, sob proposta do director-geral."
+  },
+  "867193559": {
+   "fragment_id": "867741091",
+   "type": 11,
+   "heading": "Artigo 16.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Receitas\n\nConstituem receitas da Direcção-Geral dos Ensinos Básico e Secundário, exclusivamente para o desporto escolar:\n\na) As verbas que a seu favor forem inscritas no Orçamento do Estado;\n\nb) O subsídio que, por despacho anual dos membros do Governo com a tutela da educação e dos desportos e nos termos definidos no Decreto-Lei n.º 193/73, de 30 de Abril, for anualmente atribuído ao desporto escolar pelo Instituto Nacional de Fomento do Desporto, o qual corresponderá obrigatoriamente, no mínimo, a 15% das receitas próprias que aquele Instituto receber ao abrigo da legislação aplicável à repartição da receita líquida das Apostas Mútuas;\n\nc) Os donativos e patrocínios especialmente dirigidos ao desenvolvimento das práticas desportivas escolares e seus quadros competitivos privativos."
+  },
+  "867193560": {
+   "fragment_id": "867741092",
+   "type": 8,
+   "heading": "Secção V — Estruturas consultivas do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Estruturas consultivas do desporto escolar"
+  },
+  "867193561": {
+   "fragment_id": "867741093",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho Técnico\n\n1 - O Conselho Técnico é um órgão consultivo da Direcção-Geral dos Ensinos Básico e Secundário que tem por atribuição, em especial, o acompanhamento das diversas matérias e actuações que, estando a cargo de outros departamentos ou serviços da administração central, comportam incidência directa sobre o desenvolvimento do desporto escolar, designadamente no âmbito do parque desportivo escolar, suas características e gestão, da medicina pedagógica, da orientação escolar e profissional, da economia e financiamento gerais do sistema, de aspectos de carácter normativo e, bem assim, do respectivo planeamento articulado.\n\n2 - O Conselho Técnico é presidido pelo director-geral dos Ensinos Básico e Secundário, que pode delegar esta competência no responsável pelo Gabinete de Educação Física e do Desporto Escolar, e é composto ainda por um licenciado em Educação Física, um licenciado em Arquitectura ou Engenharia Civil, um licenciado em Medicina, um licenciado em Psicologia, um licenciado em Economia, Finanças ou Gestão e um licenciado em Direito, designados pelo Ministro da Educação, em acumulação de funções, de entre funcionários pertencentes aos serviços de si dependentes, ou por despacho conjunto dos Ministros da Educação e da respectiva tutela, sempre que se trate de funcionário afecto a outro departamento ministerial.\n\n3 - É da competência do Conselho Técnico:\n\na) Emitir os pareceres ou realizar os estudos que lhe sejam determinados;\n\nb) Manter permanente articulação com os departamentos da Administração Púbica que tenham conexão com o desporto escolar;\n\nc) Apresentar superiormente as propostas que, no âmbito das suas atribuições, haja por convenientes.\n\n4 - O Conselho Técnico reúne mensalmente, regendo-se por regulamento interno, a aprovar por despacho do Ministro da Educação."
+  },
+  "867193562": {
+   "fragment_id": "867741094",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho Nacional do Desporto Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho Nacional do Desporto Escolar\n\n1 - O desporto escolar tem, como estrutura consultiva independente, o Conselho Nacional do Desporto Escolar.\n\n2 - Compete ao Conselho Nacional do Desporto Escolar:\n\na) Propor um sistema de comunicação e troca de informação, a nível nacional, no âmbito do desporto escolar;\n\nb) Participar na definição das orientações gerais para o desenvolvimento do desporto escolar;\n\nc) Propor iniciativas, acções e projectos que possam contribuir para o desenvolvimento do desporto escolar;\n\nd) Emitir parecer sobre o plano de actividades e correspondente orçamento na área do desporto escolar, bem como sobre a respectiva execução;\n\ne) Emitir parecer no final de cada ano lectivo sobre o trabalho realizado a nível nacional;\n\nf) Emitir parecer sobre o relatório da Direcção-Geral dos Ensinos Básico e Secundário na área do desporto escolar;\n\ng) Pronunciar-se em todos os casos em que tal lhe for solicitado pelo Ministro da Educação.\n\n3 - Têm assento no Conselho:\n\na) O director-geral dos Ensinos Básico e Secundário, que presidirá;\n\nb) O subdirector-geral da Direcção-Geral dos Ensinos Básico e Secundário ao qual competir a direcção do Gabinete de Educação Física e do Desporto Escolar;\n\nc) O director-geral dos Desportos ou um seu representante;\n\nd) Um representante de cada um dos directores regionais de educação;\n\ne) Um representante dos serviços competentes para a Educação Física e desporto escolar da Região Autónoma da Madeira;\n\nf) Um representante da Direcção Regional de Educação Física e Desporto da Região Autónoma dos Açores;\n\ng) Um representante de cada um dos conselhos científicos dos estabelecimentos de ensino universitário na área da Educação Física e do desporto;\n\nh) Um representante do Secretariado Nacional de Reabilitação;\n\ni) Um representante da Associação dos Estabelecimentos de Ensino Particular e Cooperativo;\n\nj) Um representante da Associação Nacional dos Municípios Portugueses;\n\nl) Um representante do Conselho Nacional da Juventude;\n\nm) Um representante da Sociedade Portuguesa de Educação Física;\n\nn) Um representante do Conselho Nacional das Associações dos Profissionais de Educação Física;\n\no) Um representante do Comité Olímpico Português;\n\np) Quatro representantes das associações de pais, sendo um por área abrangida por cada direcção regional de educação;\n\nq) Quatro representantes das associações de estudantes do ensino secundário, eleitos pelas mesmas, sendo um por cada área abrangida por cada direcção regional de educação."
+  },
+  "867193563": {
+   "fragment_id": "867741095",
+   "type": 11,
+   "heading": "Artigo 19.º — Funcionamento do Conselho Nacional do Desporto Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funcionamento do Conselho Nacional do Desporto Escolar\n\n1 - O Conselho Nacional do Desporto Escolar reunirá duas vezes por ano em reunião ordinária e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de dois terços dos seus membros.\n\n2 - O Conselho aprovará o seu regulamento interno.\n\n3 - As reuniões do Conselho Nacional do Desporto Escolar são dirigidas pelo presidente e por dois vogais, eleitos pelo próprio Conselho.\n\n4 - A mesa designará o relator sempre que o Conselho Nacional do Desporto Escolar haja que emitir parecer."
+  },
+  "867193564": {
+   "fragment_id": "867741096",
+   "type": 1,
+   "heading": "Capítulo III — Alterações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações orgânicas"
+  },
+  "867193565": {
+   "fragment_id": "867741097",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração da Direcção-Geral do Ensino Básico e Secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração da Direcção-Geral do Ensino Básico e Secundário\n\n1 - É alterada a designação da Direcção-Geral do Ensino Básico e Secundário, criada pelo Decreto-Lei n.º 3/87, de 3 de Janeiro, para Direcção-Geral dos Ensinos Básico e Secundário.\n\n2 - Por decreto regulamentar serão introduzidas as necessárias alterações à estrutura orgânica e funcional da Direcção-Geral dos Ensinos Básico e Secundário, aprovada pelo Decreto Regulamentar n.º 30/89, de 20 de Outubro."
+  },
+  "867193566": {
+   "fragment_id": "867741098",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração ao Decreto-Lei n.º 361/89, de 18 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração ao Decreto-Lei n.º 361/89, de 18 de Outubro\n\n1 - O quadro a que se refere o artigo 30.º do Decreto-Lei n.º 361/89, de 18 de Outubro, passa a ser o constante do anexo ao presente diploma, que dele faz parte integrante.\n\n2 - O artigo 31.º do Decreto-Lei n.º 361/89, de 18 de Outubro, passa a ter a seguinte redacção:\n\nArtigo 31.º\n\nQuadro de afectação\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Os lugares de coordenador regional de desporto escolar são providos, nos termos da lei geral, de entre licenciados em Educação Física e ou Desporto.\n\n6 - As funções de coordenador do desporto escolar, a desenvolver nas estruturas de coordenação das direcções regionais de educação, a que se refere o artigo 29.º do Decreto-Lei n.º 361/89, de 18 de Outubro, serão exercidas, em regime de requisição, por professores de Educação Física com provimento definitivo, sendo aquelas funções de natureza técnico-pedagógica.\n\n7 - Nas sedes das direcções regionais de educação, os coordenadores regionais do desporto escolar acumulam as respectivas funções com as de coordenador.\n\n3 - O artigo 33.º do Decreto-Lei n.º 361/89, de 18 de Outubro, passa a ter a seguinte redacção:\n\nArtigo 33.º\n\nCompetências\n\n1 - ...\n\n2 - ...\n\n3 - Na área territorial das Direcções Regionais de Educação do Norte, do Centro e do Sul, as juntas médicas regionais são também competentes para se pronunciarem em relação ao pessoal não docente dos estabelecimentos de ensino superior."
+  },
+  "867193567": {
+   "fragment_id": "867741099",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "867193568": {
+   "fragment_id": "867741100",
+   "type": 11,
+   "heading": "Artigo 22.º — Funcionamento do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Funcionamento do desporto escolar\n\nO director-geral dos Ensinos Básico e Secundário, em conjunto com o subdirector-geral responsável pelo Gabinete de Educação Física e do Desporto Escolar, tomará as providências para que o desporto escolar, orientado de acordo com os princípios previstos neste diploma, se desenvolva a partir do ano lectivo de 1991-1992."
+  },
+  "867193569": {
+   "fragment_id": "867741101",
+   "type": 11,
+   "heading": "Artigo 23.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Legislação revogada\n\nÉ revogada toda a legislação que contrarie o disposto no presente diploma, nomeadamente:\n\na) O Decreto-Lei n.º 554/77, de 31 de Dezembro;\n\nb) Decreto-Lei n.º 197/79, de 29 de Junho;\n\nc) Decreto-Lei n.º 150/86, de 18 de Julho."
+  },
+  "867193570": {
+   "fragment_id": "867741102",
+   "type": 11,
+   "heading": "Artigo 24.º — Encargos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Encargos orçamentais\n\nOs encargos resultantes do presente diploma na parte respeitante a pessoal serão suportados pelas verbas inscritas nas competentes rubricas do orçamento da Secretaria-Geral do Ministério da Educação."
+  },
+  "867193571": {
+   "fragment_id": "867741103",
+   "type": 11,
+   "heading": "Artigo 25.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regiões autónomas\n\nO desporto escolar organiza-se nas regiões autónomas de acordo com legislação específica elaborada pelos respectivos órgãos de governo próprio."
+  },
+  "867193573": {
+   "fragment_id": "867741105",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n4 directores regionais.\n\n8 subdirectores regionais.\n\n12 directores de serviços.\n\n28 chefes de divisão.\n\n4 coordenadores regionais de desporto (ver nota a).\n\n4 chefes de repartição.\n\n24 chefes de secção.\n\n(nota a) Equiparado a chefe de divisão."
+  },
+  "867193574": {
+   "fragment_id": "867741106",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o quadro geral da Educação Física e do desporto escolar como unidades coerentes de ensino."
+  },
+  "868583430": {
+   "fragment_id": "867605273",
+   "type": 11,
+   "heading": "Artigo 4.º — Programas",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 35/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1991-618693), produz efeitos a partir de 1991-03-03"
+   ],
+   "markdown": "###### Artigo 4.º — Programas\n\n1 - A Educação Física desenvolve-se através de programas próprios com três horas lectivas semanais, observando-se o disposto no Decreto-Lei n.º 286/89, de 29 de Agosto.\n\n2 - À semelhança das restantes disciplinas, é definido um processo de avaliação dos alunos, em termos adequados às especificidades da disciplina de Educação Física.\n\n3 - Para os efeitos do disposto nos números anteriores, os programas de Educação Física deverão ser desenvolvidos numa sequência vertical, tendo em atenção os interesses e características próprios dos vários níveis etários e estabelecer relações horizontais interdisciplinares com vista à prossecução dos objectivos globais de cada ciclo de escolaridade.\n\n4 - Em consequência do estabelecido no número anterior, serão elaborados programas específicos no no âmbito dos sistemas dos ensinos básico e secundário, conforme definido na Lei n.º 46/86, de 14 de Outubro.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 35/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1991-618693), produz efeitos a partir de 1991-03-03"
+  },
+  "868583431": {
+   "fragment_id": "867741081",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização local do desporto escolar",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 35/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1991-618693), produz efeitos a partir de 1991-03-03"
+   ],
+   "markdown": "###### Artigo 8.º — Organização local do desporto escolar\n\n1 - Sem prejuízo da especificidade própria do 1.º ciclo do ensino básico, as actividades de desporto escolar organizam-se e desenvolvem-se em cada uma das escolas dos ensinos básico e secundário sob a responsabilidade dos órgãos de gestão das mesmas.\n\n2 - A organização do desporto escolar faz-se em cada escola através do respectivo núcleo.\n\n3 - O núcleo de desporto escolar, através do órgão de gestão e administração do estabelecimento de ensino, articulará a sua actividade com o órgão competente da respectiva estrutura de coordenação da direcção regional de educação.\n\n4 - Na medida do possível, os órgãos de gestão e administração dos estabelecimentos de educação e ensino devem, na preparação dos respectivos horários, prever uma manhã ou uma tarde semanal reservada à prática desportiva, independentemente das outras actividades correntes do núcleo de desporto escolar e sem prejudicar a actividade curricular, designadamente os horários de Educação Física.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 35/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1991-618693), produz efeitos a partir de 1991-03-03"
+  },
+  "868583432": {
+   "fragment_id": "867741088",
+   "type": 11,
+   "heading": "Artigo 14.º — Organização do desporto escolar nas direcções regionais de educação",
+   "in_force_from": "1993-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 133/93 - Diário da República n.º 97/1993, Série I-A de 1993-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1993-665342), em vigor a partir de 1993-05-01"
+   ],
+   "markdown": "###### Artigo 14.º — Organização do desporto escolar nas direcções regionais de educação\n\n1 - Para o exercício das suas competências no âmbito do desporto escolar, as direcções regionais de educação disporão de um coordenador regional e de um coordenador por cada estrutura de coordenação criada nos termos do artigo 29.º do Decreto-Lei n.º 361/89, de 18 de Outubro.\n\n2 - O coordenador regional é equiparado, para efeitos remuneratórios, a chefe de divisão, exercendo as suas funções no âmbito do Departamento Técnico-Pedagógico, previsto no artigo 14.º do Decreto-Lei n.º 361/89, de 18 de Outubro, e na dependência do respectivo director de serviços.\n\n3 - Junto dos órgãos competentes das estruturas de coordenação previstas no n.º 3 do artigo 29.º do Decreto-Lei n.º 361/89, de 18 de Outubro, exercerão funções os coordenadores do desporto escolar, que dependem funcionalmente do respectivo coordenador regional.\n\n4 - No âmbito das competências previstas no artigo 13.º do presente diploma, o director regional de educação respectivo estabelecerá, por despacho, mediante proposta do coordenador regional, as competências a desenvolver pelos coordenadores do desporto escolar, as quais visarão prosseguir os objectivos que, a nível regional, se visem concretizar.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 133/93 - Diário da República n.º 97/1993, Série I-A de 1993-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1993-665342), em vigor a partir de 1993-05-01"
+  },
+  "868583433": {
+   "fragment_id": "867741090",
+   "type": 11,
+   "heading": "Artigo 15.º — Gabinete de Educação Física e do Desporto Escolar",
+   "in_force_from": "1993-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 133/93 - Diário da República n.º 97/1993, Série I-A de 1993-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1993-665342), em vigor a partir de 1993-05-01"
+   ],
+   "markdown": "###### Artigo 15.º — Gabinete de Educação Física e do Desporto Escolar\n\n1 - É criado, no âmbito da Direcção-Geral dos Ensinos Básico e Secundário, o Gabinete da Educação Física e do Desporto Escolar.\n\n2 - O Gabinete é um serviço de planeamento, coordenação, orientação e avaliação do sistema educativo para a Educação Física e o desporto escolar, desenvolvendo, de acordo com as políticas superiormente definidas, as competências previstas na lei orgânica da Direcção-Geral dos Ensinos Básico e Secundário.\n\n3 - O Gabinete é dirigido por um subdirector-geral da Direcção-Geral dos Ensinos Básico e Secundário, para o efeito designado pelo membro do Governo competente, sob proposta do director-geral.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 133/93 - Diário da República n.º 97/1993, Série I-A de 1993-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1993-665342), em vigor a partir de 1993-05-01"
+  },
+  "868814385": {
+   "fragment_id": "867741104",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 35/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1991-618693), produz efeitos a partir de 1991-03-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - António Fernando Couto dos Santos - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.\n\nPromulgado em 6 de Fevereiro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Fevereiro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 35/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1991-618693), produz efeitos a partir de 1991-03-03"
+  },
+  "868583438": {
+   "fragment_id": "867741079",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização do desporto escolar",
+   "in_force_from": "1996-09-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+   ],
+   "markdown": "###### Artigo 7.º — Organização do desporto escolar\n\n1 - Para os efeitos de prossecução dos objectivos inerentes ao desporto escolar, este articula-se:\n\na) A nível local, através dos núcleos de desporto escolar constituídos em cada escola;\n\nb) A nível regional, através das estruturas de coordenação das direcções regionais de educação criadas nos termos do artigo 29.º do Decreto-Lei n.º 361/89, de 18 de Outubro;\n\nc) A nível central, através da Direcção-Geral dos Ensinos Básico e Secundário.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+  },
+  "868583434": {
+   "fragment_id": "867741091",
+   "type": 11,
+   "heading": "Artigo 16.º — Receitas",
+   "in_force_from": "1996-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+   ],
+   "markdown": "###### Artigo 16.º — Receitas\n\nConstituem receitas da Direcção-Geral dos Ensinos Básico e Secundário, exclusivamente para o desporto escolar:\n\na) As verbas que a seu favor forem inscritas no Orçamento do Estado;\n\nb) O subsídio que, por despacho anual dos membros do Governo com a tutela da educação e dos desportos e nos termos definidos no Decreto-Lei n.º 193/73, de 30 de Abril, for anualmente atribuído ao desporto escolar pelo Instituto Nacional de Fomento do Desporto, o qual corresponderá obrigatoriamente, no mínimo, a 15% das receitas próprias que aquele Instituto receber ao abrigo da legislação aplicável à repartição da receita líquida das Apostas Mútuas;\n\nc) Os donativos e patrocínios especialmente dirigidos ao desenvolvimento das práticas desportivas escolares e seus quadros competitivos privativos.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+  },
+  "868583435": {
+   "fragment_id": "867741093",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho Técnico",
+   "in_force_from": "1996-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+   ],
+   "markdown": "###### Artigo 17.º — Conselho Técnico\n\n1 - O Conselho Técnico é um órgão consultivo da Direcção-Geral dos Ensinos Básico e Secundário que tem por atribuição, em especial, o acompanhamento das diversas matérias e actuações que, estando a cargo de outros departamentos ou serviços da administração central, comportam incidência directa sobre o desenvolvimento do desporto escolar, designadamente no âmbito do parque desportivo escolar, suas características e gestão, da medicina pedagógica, da orientação escolar e profissional, da economia e financiamento gerais do sistema, de aspectos de carácter normativo e, bem assim, do respectivo planeamento articulado.\n\n2 - O Conselho Técnico é presidido pelo director-geral dos Ensinos Básico e Secundário, que pode delegar esta competência no responsável pelo Gabinete de Educação Física e do Desporto Escolar, e é composto ainda por um licenciado em Educação Física, um licenciado em Arquitectura ou Engenharia Civil, um licenciado em Medicina, um licenciado em Psicologia, um licenciado em Economia, Finanças ou Gestão e um licenciado em Direito, designados pelo Ministro da Educação, em acumulação de funções, de entre funcionários pertencentes aos serviços de si dependentes, ou por despacho conjunto dos Ministros da Educação e da respectiva tutela, sempre que se trate de funcionário afecto a outro departamento ministerial.\n\n3 - É da competência do Conselho Técnico:\n\na) Emitir os pareceres ou realizar os estudos que lhe sejam determinados;\n\nb) Manter permanente articulação com os departamentos da Administração Púbica que tenham conexão com o desporto escolar;\n\nc) Apresentar superiormente as propostas que, no âmbito das suas atribuições, haja por convenientes.\n\n4 - O Conselho Técnico reúne mensalmente, regendo-se por regulamento interno, a aprovar por despacho do Ministro da Educação.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+  },
+  "868583436": {
+   "fragment_id": "867741094",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho Nacional do Desporto Escolar",
+   "in_force_from": "1996-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+   ],
+   "markdown": "###### Artigo 18.º — Conselho Nacional do Desporto Escolar\n\n1 - O desporto escolar tem, como estrutura consultiva independente, o Conselho Nacional do Desporto Escolar.\n\n2 - Compete ao Conselho Nacional do Desporto Escolar:\n\na) Propor um sistema de comunicação e troca de informação, a nível nacional, no âmbito do desporto escolar;\n\nb) Participar na definição das orientações gerais para o desenvolvimento do desporto escolar;\n\nc) Propor iniciativas, acções e projectos que possam contribuir para o desenvolvimento do desporto escolar;\n\nd) Emitir parecer sobre o plano de actividades e correspondente orçamento na área do desporto escolar, bem como sobre a respectiva execução;\n\ne) Emitir parecer no final de cada ano lectivo sobre o trabalho realizado a nível nacional;\n\nf) Emitir parecer sobre o relatório da Direcção-Geral dos Ensinos Básico e Secundário na área do desporto escolar;\n\ng) Pronunciar-se em todos os casos em que tal lhe for solicitado pelo Ministro da Educação.\n\n3 - Têm assento no Conselho:\n\na) O director-geral dos Ensinos Básico e Secundário, que presidirá;\n\nb) O subdirector-geral da Direcção-Geral dos Ensinos Básico e Secundário ao qual competir a direcção do Gabinete de Educação Física e do Desporto Escolar;\n\nc) O director-geral dos Desportos ou um seu representante;\n\nd) Um representante de cada um dos directores regionais de educação;\n\ne) Um representante dos serviços competentes para a Educação Física e desporto escolar da Região Autónoma da Madeira;\n\nf) Um representante da Direcção Regional de Educação Física e Desporto da Região Autónoma dos Açores;\n\ng) Um representante de cada um dos conselhos científicos dos estabelecimentos de ensino universitário na área da Educação Física e do desporto;\n\nh) Um representante do Secretariado Nacional de Reabilitação;\n\ni) Um representante da Associação dos Estabelecimentos de Ensino Particular e Cooperativo;\n\nj) Um representante da Associação Nacional dos Municípios Portugueses;\n\nl) Um representante do Conselho Nacional da Juventude;\n\nm) Um representante da Sociedade Portuguesa de Educação Física;\n\nn) Um representante do Conselho Nacional das Associações dos Profissionais de Educação Física;\n\no) Um representante do Comité Olímpico Português;\n\np) Quatro representantes das associações de pais, sendo um por área abrangida por cada direcção regional de educação;\n\nq) Quatro representantes das associações de estudantes do ensino secundário, eleitos pelas mesmas, sendo um por cada área abrangida por cada direcção regional de educação.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+  },
+  "868583437": {
+   "fragment_id": "867741095",
+   "type": 11,
+   "heading": "Artigo 19.º — Funcionamento do Conselho Nacional do Desporto Escolar",
+   "in_force_from": "1996-09-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+   ],
+   "markdown": "###### Artigo 19.º — Funcionamento do Conselho Nacional do Desporto Escolar\n\n1 - O Conselho Nacional do Desporto Escolar reunirá duas vezes por ano em reunião ordinária e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de dois terços dos seus membros.\n\n2 - O Conselho aprovará o seu regulamento interno.\n\n3 - As reuniões do Conselho Nacional do Desporto Escolar são dirigidas pelo presidente e por dois vogais, eleitos pelo próprio Conselho.\n\n4 - A mesa designará o relator sempre que o Conselho Nacional do Desporto Escolar haja que emitir parecer.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 165/96 - Diário da República n.º 206/1996, Série I-A de 1996-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), em vigor a partir de 1996-09-10"
+  },
+  "868583439": {
+   "fragment_id": "867605273",
+   "type": 11,
+   "heading": "Artigo 4.º — Programas",
+   "in_force_from": "2004-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31",
+    "Retificado pelo/a [Declaração de Rectificação n.º 35/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1991-618693), produz efeitos a partir de 1991-03-03"
+   ],
+   "markdown": "###### Artigo 4.º — Programas\n\n1 - A Educação Física desenvolve-se através de programas próprios com três horas lectivas semanais, observando-se o disposto no Decreto-Lei n.º 286/89, de 29 de Agosto.\n\n2 - À semelhança das restantes disciplinas, é definido um processo de avaliação dos alunos, em termos adequados às especificidades da disciplina de Educação Física.\n\n3 - Para os efeitos do disposto nos números anteriores, os programas de Educação Física deverão ser desenvolvidos numa sequência vertical, tendo em atenção os interesses e características próprios dos vários níveis etários e estabelecer relações horizontais interdisciplinares com vista à prossecução dos objectivos globais de cada ciclo de escolaridade.\n\n4 - Em consequência do estabelecido no número anterior, serão elaborados programas específicos no no âmbito dos sistemas dos ensinos básico e secundário, conforme definido na Lei n.º 46/86, de 14 de Outubro.\n\n> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 74/2004 - Diário da República n.º 73/2004, Série I-A de 2004-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), em vigor a partir de 2004-03-31\n\n> Retificado pelo/a [Declaração de Rectificação n.º 35/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-1991-618693), produz efeitos a partir de 1991-03-03"
+  }
+ }
+}

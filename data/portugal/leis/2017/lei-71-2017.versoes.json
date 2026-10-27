@@ -1,0 +1,93 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108001407:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2017-953449645",
+ "dre_path": "/dr/detalhe/lei/71-2017-108001407",
+ "source_lastmod": "2026-07-21",
+ "versions": [
+  {
+   "date": "2026-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1149265697:por",
+     "title": "Decreto-Lei n.º 148/2026",
+     "published": "2026-07-20",
+     "dre_path": "/dr/detalhe/decreto-lei/148-2026-1149265697"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "953757575",
+    "953757775",
+    "953757975",
+    "1150099775",
+    "953758375",
+    "953758575",
+    "953758775"
+   ]
+  }
+ ],
+ "fragments": {
+  "953757575": {
+   "fragment_id": "953757475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "953757775": {
+   "fragment_id": "953757675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei define o preço máximo da refeição subsidiada no âmbito do sistema de ação social do ensino superior e o preço máximo do alojamento para bolseiros nas residências dos serviços de ação social."
+  },
+  "953757975": {
+   "fragment_id": "953757875",
+   "type": 11,
+   "heading": "Artigo 2.º — Preço máximo da refeição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Preço máximo da refeição\n\nO preço máximo da refeição subsidiada no âmbito do sistema de ação social do ensino superior é fixado em 0,63 % do Indexante de Apoios Sociais em vigor no início de cada ano letivo, e automaticamente atualizado a 1 de outubro de cada ano civil."
+  },
+  "1150099775": {
+   "fragment_id": "953758075",
+   "type": 11,
+   "heading": "Artigo 3.º — Preço máximo mensal do alojamento",
+   "in_force_from": "2026-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 148/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697), em vigor a partir de 2026-07-25, com efeitos a partir de 2026-09-23."
+   ],
+   "markdown": "###### Artigo 3.º — Preço máximo mensal do alojamento\n\nO preço cobrado por cama pelas instituições de ensino superior está limitado aos custos da disponibilização dessa cama ao estudante, não devendo o preço cobrado aos estudantes bolseiros exceder 30 % do valor do indexante dos apoios sociais em vigor no início de cada ano letivo, e automaticamente atualizado a 1 de outubro de cada ano civil.\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 148/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697), em vigor a partir de 2026-07-25, com efeitos a partir de 2026-09-23."
+  },
+  "953758375": {
+   "fragment_id": "953758275",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação de taxas ou suplementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação de taxas ou suplementos\n\nAos preços referidos nos artigos anteriores não podem ser aplicados quaisquer tipos de outras taxas ou suplementos, a não ser que estes resultem de serviços voluntariamente solicitados pelos estudantes."
+  },
+  "953758575": {
+   "fragment_id": "953758475",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente lei entra em vigor a 1 de setembro de 2017."
+  },
+  "953758775": {
+   "fragment_id": "953758675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 1 de junho de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 2 de agosto de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 7 de agosto de 2017."
+  }
+ }
+}

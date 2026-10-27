@@ -1,0 +1,266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70508969:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-122428775",
+ "dre_path": "/dr/detalhe/portaria/342-2015-70508969",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-10-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122428875",
+    "122428876",
+    "122428877",
+    "122428878",
+    "122428879",
+    "122428880",
+    "122428881",
+    "122428882",
+    "122428883",
+    "122428884",
+    "122428885",
+    "122428887",
+    "122428888"
+   ]
+  },
+  {
+   "date": "2019-05-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122419060:por",
+     "title": "Portaria n.º 163/2019",
+     "published": "2019-05-28",
+     "dre_path": "/dr/detalhe/portaria/163-2019-122419060"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A"
+   ],
+   "fragments": [
+    "122428875",
+    "122428876",
+    "122428877",
+    "122425479",
+    "122425480",
+    "122425481",
+    "122425482",
+    "122425483",
+    "122425484",
+    "122425485",
+    "122425486",
+    "122425487",
+    "122425488",
+    "122425489",
+    "122425490"
+   ]
+  }
+ ],
+ "fragments": {
+  "122428875": {
+   "fragment_id": "122428776",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 342/2015\n\nde 12 de outubro\n\nA Portaria n.º 184/2013, de 16 de maio, aprovou as taxas e respetivos montantes a cobrar pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) pela prestação de serviços públicos e pela emissão de licenças, certificações e títulos análogos no âmbito da regulamentação, supervisão e fiscalização do setor marítimo-portuário e da náutica de recreio.\n\nConsiderando que foram entretanto atribuídas à DGRM novas competências no âmbito da implementação da Convenção do Trabalho Marítimo, do Protocolo de 2002 à Convenção sobre o Transporte Marítimo de Passageiros e Suas Bagagens por Mar, e do Regulamento (CE) n.º 392/2009 do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativo à responsabilidade das transportadoras de passageiros por mar em caso de acidente, torna-se agora necessário contemplar as taxas aplicáveis aos novos serviços que passam a ser prestados.\n\nPor outro lado, alguns valores das taxas já existentes são agora ajustados, de forma a garantir uma harmonização de valores e que os mesmos reflitam o esforço de intervenção técnica da DGRM.\n\nPermite-se ainda, no âmbito das competências atribuídas pelo artigo 13.º do Decreto-Lei n.º 18/2014, de 4 de fevereiro, conjugado com o disposto no Decreto Regulamentar n.º 39/2012, de 11 de abril, que as Direções Regionais de Agricultura e Pescas (DRAP), enquanto serviços periféricos do Ministério e num quadro de colaboração com a DGRM, possam, em razão da sua proximidade com os utentes, facultar, mediante venda, alguns dos documentos necessários para o exercício da atividade da pesca, tais como guias de transporte de pescado, guias de transporte de bivalves e, ainda, o livro de faturas.\n\nConsiderando a dimensão das alterações preconizadas, aliadas à extensão do próprio documento, revela-se mais adequado proceder à revogação da Portaria n.º 184/2013, de 16 de maio, ao invés da sua simples alteração.\n\nNa fixação dos valores em causa, teve-se em consideração os recursos humanos e materiais da DGRM, bem como os respetivos custos indiretos, sendo ainda considerada a conjuntura económica atual, mantendo-se inalterada a maioria dos valores inicialmente previstos na portaria ora revogada.\n\nAssim:\n\nManda o Governo, pelas Ministras de Estado e das Finanças e da Agricultura e do Mar, ao abrigo das alíneas a), b) e e) do n.º 2 e do n.º 3 do artigo 6.º do Decreto-Lei n.º 49-A/2012, de 29 de fevereiro, alterado pelo Decreto-Lei n.º 237/2012, de 31 de outubro, o seguinte:"
+  },
+  "122428876": {
+   "fragment_id": "122428777",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - São aprovadas as taxas e respetivos montantes a cobrar pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) pela prestação de serviços públicos e pela emissão de certificados, licenças, declarações e títulos análogos no âmbito da regulamentação, certificação, supervisão, inspeção e fiscalização do setor marítimo-portuário e da náutica de recreio, constantes do anexo i da presente portaria, que dela faz parte integrante.\n\n2 - São aprovados os preços da prestação de serviços e da venda de bens, constantes do anexo ii da presente portaria, que dela faz parte integrante.\n\n3 - É fixada a percentagem da receita da exploração de cada porto integrado em administração portuária que constitui receita própria da DGRM, prevista na alínea e) do n.º 2 do artigo 6.º do Decreto-Lei n.º 49-A/2012, de 29 de fevereiro, alterado pelo Decreto-Lei n.º 237/2012, de 31 de outubro."
+  },
+  "122428877": {
+   "fragment_id": "122428778",
+   "type": 11,
+   "heading": "Artigo 2.º — Liquidação e pagamento das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Liquidação e pagamento das taxas\n\n1 - O pagamento das taxas é prévio à da prestação do serviço público, bem como à emissão e entrega da licença, certificação e títulos análogos, exceto se outro procedimento for determinado pela DGRM, sendo efetuado no ato do respetivo pedido escrito.\n\n2 - As taxas não são reembolsáveis se, por razões imputáveis ao requerente, o serviço não for prestado, sem prejuízo do disposto no artigo seguinte.\n\n3 - A liquidação das taxas é suscetível de impugnação nos termos da Lei Geral Tributária.\n\n4 - O não pagamento das taxas determina, nos termos do artigo 133.º do Código do Procedimento Administrativo, a extinção do procedimento e o consequente arquivamento do respetivo requerimento.\n\n5 - Caso o serviço já tenha sido prestado, a falta de pagamento da taxa determina sua cobrança coerciva nos termos da Lei Geral Tributária."
+  },
+  "122428878": {
+   "fragment_id": "122428779",
+   "type": 11,
+   "heading": "Artigo 3.º — Pedido e cancelamento do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido e cancelamento do serviço\n\n1 - O pedido de serviços à DGRM pode ser requerido por particulares, associações ou outras entidades representativas dos interessados, desde que devidamente mandatados para o efeito.\n\n2 - Se o pedido do serviço for cancelado pelo requerente, com antecedência prévia superior a 24 horas relativamente ao início da respetiva prestação, apenas são cobradas as despesas de natureza administrativa, previstas no n.º 2 do artigo 5.º\n\n3 - O valor das despesas previstas no número anterior deve ser descontado no reembolso das importâncias já pagas, quando a este haja lugar."
+  },
+  "122428879": {
+   "fragment_id": "122428780",
+   "type": 11,
+   "heading": "Artigo 4.º — Sobretaxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sobretaxas\n\n1 - A prestação dos serviços públicos e a emissão de certificados, licenças, declarações e títulos análogos previstos no anexo i são agravadas com uma sobretaxa se, a pedido do requerente, forem realizadas fora do horário normal de funcionamento da DGRM, que decorre de segunda-feira a sexta-feira, entre as 8 horas e as 20 horas.\n\n2 - A sobretaxa referida no número anterior é calculada sobre o valor respetivo fixado no anexo i, nas seguintes percentagens:\n\na) Nos dias úteis, das 20 às 8 horas do dia seguinte: 150 %;\n\nb) Nos sábados, domingos e feriados: 200 %.\n\n3 - A mudança do local da prestação do serviço, por indicação do requerente, no período que decorre nas vinte e quatro horas que antecedem a prestação do serviço, implica o pagamento de uma sobretaxa de 50 % sobre o valor respetivo fixado no anexo i.\n\n4 - A prestação de serviço com pedido de urgência pelo requerente, a realizar no prazo de 24 horas, é agravada com uma sobretaxa de 100 % sobre o valor respetivo fixado no anexo i."
+  },
+  "122428880": {
+   "fragment_id": "122428781",
+   "type": 11,
+   "heading": "Artigo 5.º — Deslocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deslocação\n\n1 - Sempre que haja lugar à deslocação de um técnico da DGRM, a prestação dos serviços inicia-se no local e hora acordados entre a DGRM e o requerente.\n\n2 - A prestação de serviços fora do território nacional implica ainda o pagamento, pelo requerente, do título de transporte, do valor do alojamento dos técnicos, bem como do montante correspondente ao valor abonado a título de ajudas de custo, de acordo com a tabela em vigor na Administração Pública."
+  },
+  "122428881": {
+   "fragment_id": "122428782",
+   "type": 11,
+   "heading": "Artigo 6.º — Atualização das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atualização das taxas\n\n1 - Os valores das taxas previstas no anexo i são automaticamente atualizados, com arredondamento à casa decimal imediatamente seguinte, a partir de 1 de março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação publicado pelo Instituto Nacional de Estatística.\n\n2 - A atualização das taxas nos termos previstos no número anterior é publicitada por despacho do diretor-geral da DGRM."
+  },
+  "122428882": {
+   "fragment_id": "122428783",
+   "type": 11,
+   "heading": "Artigo 7.º — Receita da exploração de cada porto integrado em administração portuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Receita da exploração de cada porto integrado em administração portuária\n\n1 - A percentagem das receitas de exploração dos portos integrados em administrações portuárias que constitui receita própria da DGRM é fixada em 3 % com base nos proveitos registados na conta 72 - «Prestação de Serviços», excluindo a receita do serviço de pilotagem.\n\n2 - As administrações portuárias enviam à DGRM os montantes correspondentes a cada mês, até ao último dia útil do mês seguinte àquele a que respeita a receita, acompanhados dos balancetes comprovativos da receita apurada."
+  },
+  "122428883": {
+   "fragment_id": "122428784",
+   "type": 11,
+   "heading": "Artigo 8.º — Prestação de serviços e venda de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prestação de serviços e venda de bens\n\n1 - No âmbito da sua atividade, a DGRM presta serviços e vende bens cujos preços são os constantes do anexo ii.\n\n2 - Ao abrigo do disposto no n.º 1 do artigo 2.º do Decreto Regulamentar n.º 39/2012, de 11 de abril, as Direções Regionais de Agricultura e Pescas podem adquirir, para efeitos de revenda, os documentos mencionados nos n.os 3.1 a 3.3 do anexo ii, sendo neste caso, o preço fixado reduzido em 20 %.\n\n3 - A pedido dos interessados, os bens podem ser expedidos por correio, acrescendo, neste caso, ao seu preço, o valor dos respetivos portes.\n\n4 - Os preços referidos no n.º 1 são atualizados nos termos do artigo 6.º"
+  },
+  "122428884": {
+   "fragment_id": "122428785",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogada a Portaria n.º 184/2013, de 16 de maio."
+  },
+  "122428885": {
+   "fragment_id": "122428786",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, com exceção do disposto no artigo 8.º, cujos efeitos se consideram reportados a 1 de janeiro de 2015."
+  },
+  "122428887": {
+   "fragment_id": "122428788",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 1.º)\n\nTabela de Taxas\n\n(ver documento original)\n\n> Nota: [Artigo 6.º, Portaria n.º 242/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2020-145102356) São revogados os n.os xi e xiv do Anexo I pela Portaria n.º 242/2020, de 13 de outubro."
+  },
+  "122428888": {
+   "fragment_id": "122428789",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 1.º)\n\nTabela de Preços de Prestação de Serviços e da Venda de Bens\n\n(ver documento original)\n\nPara efeitos dos serviços prestados no âmbito dos pontos 3.4 e 5, é apresentada uma proposta de orçamento para aceitação do interessado."
+  },
+  "122425479": {
+   "fragment_id": "122429179",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Regras especiais",
+   "in_force_from": "2019-05-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 163/2019 - Diário da República n.º 102/2019, Série I de 2019-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/163-2019-122419060), em vigor a partir de 2019-05-29"
+   ],
+   "markdown": "###### Artigo 2.º-A — Regras especiais\n\n1 - As taxas aplicáveis são reduzidas a 90 % do seu valor sempre que a emissão da licença, certificação ou título análogo sejam requeridos exclusivamente em formato digital.\n\n2 - Quando o serviço seja prestado através dos terminais de acesso previstos no n.º 3 do artigo 4.º do Decreto-Lei n.º 43/2018, de 18 de junho, a DGRM transfere para a entidade que disponibiliza o terminal de acesso 10 % do valor das taxas cobradas em resultado dessa prestação.\n\n3 - Os termos da transferência prevista no número anterior são estabelecidos por protocolo a celebrar entre as entidades envolvidas.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 163/2019 - Diário da República n.º 102/2019, Série I de 2019-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/163-2019-122419060), em vigor a partir de 2019-05-29"
+  },
+  "122425480": {
+   "fragment_id": "122428779",
+   "type": 11,
+   "heading": "Artigo 3.º — Pedido e cancelamento do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido e cancelamento do serviço\n\n1 - O pedido de serviços à DGRM pode ser requerido por particulares, associações ou outras entidades representativas dos interessados, desde que devidamente mandatados para o efeito.\n\n2 - Se o pedido do serviço for cancelado pelo requerente, com antecedência prévia superior a 24 horas relativamente ao início da respetiva prestação, apenas são cobradas as despesas de natureza administrativa, previstas no n.º 2 do artigo 5.º\n\n3 - O valor das despesas previstas no número anterior deve ser descontado no reembolso das importâncias já pagas, quando a este haja lugar."
+  },
+  "122425481": {
+   "fragment_id": "122428780",
+   "type": 11,
+   "heading": "Artigo 4.º — Sobretaxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sobretaxas\n\n1 - A prestação dos serviços públicos e a emissão de certificados, licenças, declarações e títulos análogos previstos no anexo i são agravadas com uma sobretaxa se, a pedido do requerente, forem realizadas fora do horário normal de funcionamento da DGRM, que decorre de segunda-feira a sexta-feira, entre as 8 horas e as 20 horas.\n\n2 - A sobretaxa referida no número anterior é calculada sobre o valor respetivo fixado no anexo i, nas seguintes percentagens:\n\na) Nos dias úteis, das 20 às 8 horas do dia seguinte: 150 %;\n\nb) Nos sábados, domingos e feriados: 200 %.\n\n3 - A mudança do local da prestação do serviço, por indicação do requerente, no período que decorre nas vinte e quatro horas que antecedem a prestação do serviço, implica o pagamento de uma sobretaxa de 50 % sobre o valor respetivo fixado no anexo i.\n\n4 - A prestação de serviço com pedido de urgência pelo requerente, a realizar no prazo de 24 horas, é agravada com uma sobretaxa de 100 % sobre o valor respetivo fixado no anexo i."
+  },
+  "122425482": {
+   "fragment_id": "122428781",
+   "type": 11,
+   "heading": "Artigo 5.º — Deslocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deslocação\n\n1 - Sempre que haja lugar à deslocação de um técnico da DGRM, a prestação dos serviços inicia-se no local e hora acordados entre a DGRM e o requerente.\n\n2 - A prestação de serviços fora do território nacional implica ainda o pagamento, pelo requerente, do título de transporte, do valor do alojamento dos técnicos, bem como do montante correspondente ao valor abonado a título de ajudas de custo, de acordo com a tabela em vigor na Administração Pública."
+  },
+  "122425483": {
+   "fragment_id": "122428782",
+   "type": 11,
+   "heading": "Artigo 6.º — Atualização das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atualização das taxas\n\n1 - Os valores das taxas previstas no anexo i são automaticamente atualizados, com arredondamento à casa decimal imediatamente seguinte, a partir de 1 de março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação publicado pelo Instituto Nacional de Estatística.\n\n2 - A atualização das taxas nos termos previstos no número anterior é publicitada por despacho do diretor-geral da DGRM."
+  },
+  "122425484": {
+   "fragment_id": "122428783",
+   "type": 11,
+   "heading": "Artigo 7.º — Receita da exploração de cada porto integrado em administração portuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Receita da exploração de cada porto integrado em administração portuária\n\n1 - A percentagem das receitas de exploração dos portos integrados em administrações portuárias que constitui receita própria da DGRM é fixada em 3 % com base nos proveitos registados na conta 72 - «Prestação de Serviços», excluindo a receita do serviço de pilotagem.\n\n2 - As administrações portuárias enviam à DGRM os montantes correspondentes a cada mês, até ao último dia útil do mês seguinte àquele a que respeita a receita, acompanhados dos balancetes comprovativos da receita apurada."
+  },
+  "122425485": {
+   "fragment_id": "122428784",
+   "type": 11,
+   "heading": "Artigo 8.º — Prestação de serviços e venda de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prestação de serviços e venda de bens\n\n1 - No âmbito da sua atividade, a DGRM presta serviços e vende bens cujos preços são os constantes do anexo ii.\n\n2 - Ao abrigo do disposto no n.º 1 do artigo 2.º do Decreto Regulamentar n.º 39/2012, de 11 de abril, as Direções Regionais de Agricultura e Pescas podem adquirir, para efeitos de revenda, os documentos mencionados nos n.os 3.1 a 3.3 do anexo ii, sendo neste caso, o preço fixado reduzido em 20 %.\n\n3 - A pedido dos interessados, os bens podem ser expedidos por correio, acrescendo, neste caso, ao seu preço, o valor dos respetivos portes.\n\n4 - Os preços referidos no n.º 1 são atualizados nos termos do artigo 6.º"
+  },
+  "122425486": {
+   "fragment_id": "122428785",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogada a Portaria n.º 184/2013, de 16 de maio."
+  },
+  "122425487": {
+   "fragment_id": "122428786",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, com exceção do disposto no artigo 8.º, cujos efeitos se consideram reportados a 1 de janeiro de 2015."
+  },
+  "122425488": {
+   "fragment_id": "122428787",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 23 de setembro de 2015. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 4 de setembro de 2015."
+  },
+  "122425489": {
+   "fragment_id": "122428788",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 1.º)\n\nTabela de Taxas\n\n(ver documento original)"
+  },
+  "122425490": {
+   "fragment_id": "122428789",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 1.º)\n\nTabela de Preços de Prestação de Serviços e da Venda de Bens\n\n(ver documento original)\n\nPara efeitos dos serviços prestados no âmbito dos pontos 3.4 e 5, é apresentada uma proposta de orçamento para aceitação do interessado."
+  }
+ }
+}

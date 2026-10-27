@@ -1,0 +1,118 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:899757461:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-899870704",
+ "dre_path": "/dr/detalhe/portaria/322-c-2024-899757461",
+ "source_lastmod": "2024-12-26",
+ "versions": [
+  {
+   "date": "2024-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "899873596",
+    "899873597",
+    "899873598",
+    "899873599",
+    "899873600",
+    "899873601",
+    "899873602",
+    "899873603",
+    "899873604",
+    "899873606",
+    "899873607"
+   ]
+  }
+ ],
+ "fragments": {
+  "899873596": {
+   "fragment_id": "899870705",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 322-C/2024/1\n\nde 10 de dezembro\n\nO Programa do XXIV Governo Constitucional prevê o desenvolvimento da Rede Nacional de Cuidados Continuados (RNCCI) e da Rede Nacional de Cuidados Paliativos, nomeadamente apoiando as equipas médicas e multidisciplinares nestes estabelecimentos.\n\nPor outro lado, o Programa do XXIV Governo Constitucional também prevê o desenvolvimento de medidas com vista à simplificação na prestação de serviços de assistência e de cuidados continuados à população sénior.\n\nO Plano de Emergência e Transformação na Saúde (PETS) visa a implementação de medidas urgentes e prioritárias que garantam o acesso a cuidados de saúde ajustados às necessidades da população, rentabilizando e maximizando a resposta do Serviço Nacional de Saúde (SNS) e um funcionamento em rede.\n\nNo Eixo 3 do PETS está previsto que devem ser desenvolvidas medidas que permitam uma diminuição significativa dos internamentos sociais em hospitais. No entanto, mais do que reduzir os internamentos sociais é necessário criar condições para que os utentes internados na RNCCI obtenham a resposta adequada sem recurso aos serviços de urgência dos hospitais.\n\nCom o propósito de criar condições para que estes utentes possam ter o mesmo nível de cuidados, no que diz respeito a consultas e meios complementares de diagnóstico e terapêutica sem necessidade de recorrer à triagem dos serviços de urgência hospitalar, é necessário garantir acesso por parte dos profissionais de saúde a um conjunto de serviços que, genericamente, atualmente apenas estão disponíveis num contexto de serviço de urgência. Pretende-se com a atual alteração legislativa garantir que os utentes, através de prescrição médica, possam aceder à rede de convencionados no que diz respeito aos meios complementares de diagnóstico e terapêutica evitando desta forma a deslocação aos hospitais ou a outras respostas do Serviço Nacional de Saúde.\n\nEsta portaria consagra o Regime Ponto Parceiro SNS (PP-SNS), para as especificidades das unidades de internamento da Rede Nacional de Cuidados Continuados e das Unidades de Cuidados Paliativos, que se designa por Regime PP-SNS para UCCI e UCP-RNCCI.\n\nAssim:\n\nAo abrigo dos artigos 46.º e 47.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual, dos artigos 23.º, 24.º e 29.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 52/2022, de 4 de agosto, na sua redação atual, do disposto no Decreto-Lei n.º 32/2024, de 10 de maio, e no uso das competências delegadas pelo Despacho n.º 5884-A/2024, publicado no Diário da República, 2.ª série, n.º 100, suplemento, de 23 de maio de 2024, na sua redação atual, e pelo Despacho n.º 5948/2024, publicado no Diário da República, 2.ª série, n.º 102, de 27 de maio de 2024, manda o Governo, pelo Ministro de Estado e das Finanças, pela Secretária de Estado da Gestão da Saúde e pela Secretária de Estado da Ação Social e da Inclusão, o seguinte:"
+  },
+  "899873597": {
+   "fragment_id": "899870706",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece o Regime Ponto Parceiro SNS (PP-SNS) para as unidades de internamento da Rede Nacional de Cuidados Continuados (UCCI) e para as unidades de cuidados paliativos (UCP-RNCCI).\n\n2 - A presente portaria define as condições para prescrição de medicamentos e produtos de apoio e requisição de Meios Complementares de Diagnóstico e Terapêutica (MCDT), no âmbito do Serviço Nacional de Saúde pelas UCCI e pelas UCP-RNCCI.\n\n3 - A presente portaria procede, ainda, à quinta alteração à Portaria n.º 45/2021, de 24 de fevereiro, alterada pelas Portarias n.<sup>os </sup>140/2021, de 8 de julho, 272/2022, de 10 de novembro, 47/2024, de 9 de fevereiro, e 74/2024, de 29 de fevereiro."
+  },
+  "899873598": {
+   "fragment_id": "899870707",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições\n\n1 - Nos termos da presente portaria, podem ser prescritos medicamentos e produtos de apoio, a dispensar em farmácia comunitária, e requisitados MCDT, a realizar no setor convencionado, nos seguintes estabelecimentos:\n\na) Unidades de convalescença;\n\nb) Unidades de média duração e reabilitação;\n\nc) Unidades de longa duração e manutenção;\n\nd) Unidade de cuidados paliativos.\n\n2 - Para efeitos do disposto no número anterior:\n\na) As unidades de internamento referidas deverão dispor, consoante o caso, de registo e licenciamento ou certificado de conformidade adequado à tipologia emitido pela Entidade Reguladora da Saúde;\n\nb) As prescrições são efetuadas através da plataforma Prescrição Eletrónica Médica (PEM);\n\nc) Os encargos com os equipamentos e recursos adequados, e demais condições tecnológicas para a utilização do sistema de prescrição, são da responsabilidade dos estabelecimentos.\n\n3 - Cada estabelecimento interessado deverá requerer à Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), a atribuição de código de local de prescrição, em modelo e local próprio na página eletrónica da mesma entidade e juntando a ficha técnica cuja minuta constitui o anexo i à presente portaria, da qual faz parte integrante, devidamente preenchida, bem como a documentação lá mencionada.\n\n4 - A prescrição de medicamentos nos termos desta portaria observa as disposições legais e regulamentares em vigor, devendo existir, sempre que possível, uma articulação com o médico de família do utente.\n\n5 - A prescrição de produtos de apoio nos termos desta portaria observa as disposições legais e regulamentares em vigor.\n\n6 - A requisição de MCDT nos termos desta portaria observa as disposições legais e regulamentares em vigor, devendo cumprir as Normas de Orientação Clínica da Direção-Geral da Saúde.\n\n7 - As prescrições e requisições nos termos dos números anteriores deverão ser devidamente registadas no processo clínico de cada utente, o qual deverá ser mantido, devidamente ordenado, no estabelecimento a que respeita o local de prescrição, sob responsabilidade do médico.\n\n8 - A responsabilidade pelos encargos com os medicamentos, produtos de apoio prescritos e MCDT prescritos observa o regime definido para a prescrição e requisição dos mesmos produtos e MCDT no âmbito do SNS."
+  },
+  "899873599": {
+   "fragment_id": "899870708",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação como Ponto Parceiro SNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação como Ponto Parceiro SNS\n\nExclusivamente para efeitos da presente portaria, os estabelecimentos prescritores são classificados como Ponto Parceiro SNS (PP-SNS)."
+  },
+  "899873600": {
+   "fragment_id": "899870709",
+   "type": 11,
+   "heading": "Artigo 4.º — Disponibilização, monitorização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disponibilização, monitorização e acompanhamento\n\n1 - A disponibilização da PEM aos estabelecimentos cabe à SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), devendo a ACSS, I. P., solicitar a mesma àquela empresa pública, cumprido o disposto no n.º 3 do artigo 2.º\n\n2 - A ACSS, I. P., no âmbito da solicitação referida no número anterior, informa a SPMS, E. P. E., relativamente a:\n\na) Número de identificação fiscal da entidade gestora do estabelecimento;\n\nb) Código do contrato com a ACSS, I. P.;\n\nc) Designação da entidade gestora do estabelecimento;\n\nd) Morada da entidade gestora do estabelecimento;\n\ne) Código postal da entidade gestora do estabelecimento;\n\nf) Localidade da entidade gestora do estabelecimento;\n\ng) Contacto telefónico da entidade gestora do estabelecimento;\n\nh) Endereço de correio eletrónico da entidade gestora do estabelecimento;\n\ni) Código do local de prescrição;\n\nj) Denominação do estabelecimento;\n\nk) Morada do estabelecimento;\n\nl) Código postal do estabelecimento;\n\nm) Localidade do estabelecimento;\n\nn) Contacto telefónico do estabelecimento;\n\no) Endereço de correio eletrónico do estabelecimento;\n\np) Data de início da prescrição\n\nq) Nome do médico prescritor;\n\nr) Número da cédula da Ordem dos Médicos do médico prescritor;\n\ns) ULS de referência;\n\nt) Tipologia de estabelecimento, de acordo com o disposto no n.º 1 do artigo 2.º\n\n3 - Aquando da atribuição do local de prescrição deve o Portal de Requisição de Vinhetas e Receitas ser atualizado em conformidade.\n\n4 - Cabe à ACSS, I. P., a monitorização da atividade e da despesa relacionadas com o âmbito da presente portaria, sem prejuízo da articulação que vier a ser necessária com a SPMS, E. P. E.\n\n5 - Devem a ACSS, I. P., e a SPMS, E. P. E., promover uma análise relativamente às situações que venham a afigurar-se como desvios face ao expectável, propondo ao membro do governo responsável pela área da saúde a aplicação de medidas corretoras desses desvios, bem como de procedimentos a aplicar em caso de fraude."
+  },
+  "899873601": {
+   "fragment_id": "899870710",
+   "type": 11,
+   "heading": "Artigo 5.º — Alterações à Portaria n.º 45/2021, de 24 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alterações à Portaria n.º 45/2021, de 24 de fevereiro\n\nOs artigos 4.º, 10.º e 12.º da Portaria n.º 45/2021, de 24 de fevereiro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n1 - [...]\n\n2 - Os preços referidos no número anterior, fixados por dia de internamento e por utente para cada uma das tipologias de unidades, compreendem todos os cuidados e serviços contratualizados, incluindo os encargos globais com medicamentos, com a realização de exames auxiliares de diagnóstico e com apósitos e material de penso para tratamento de úlceras de pressão nas unidades de internamento, cujos encargos estão incluídos no preço compreensivo, nos termos do artigo 10.º\n\n3 - [...]\n\n4 - [...]\n\nArtigo 10.º\n\n[...]\n\n1 - Os encargos globais com medicamentos, com a realização de meios complementares de diagnóstico e terapêutica e com apósitos e material de penso para tratamento de úlceras de pressão nas unidades de internamento da RNCCI e nas UCP-RNCCI estão incluídos na parcela de custos Encargos com cuidados de saúde que figura nas tabelas de preços constantes do anexo i à presente portaria, sem prejuízo do disposto nos números seguintes.\n\n2 - [...]\n\n3 - [...]\n\n4 - No caso dos estabelecimentos aderentes ao regime previsto na portaria que estabelece o Regime PP-SNS para UCCI e UCP-RNCCI, os encargos com medicamentos e produtos de apoio prescritos e com MCDT requisitados nas unidades de internamento da RNCCI e nas UCP-RNCCI são ainda suportados, de forma partilhada, entre o Serviço Nacional de Saúde e a unidade de internamento, por comparticipação ou taxa moderadora aplicada nos termos gerais.\n\nArtigo 12.º\n\n[...]\n\n1 - Os encargos decorrentes da utilização de fraldas nas unidades de internamento são pagos por dia de internamento e por utente, sendo acrescido, nessas situações, aos valores constantes do anexo i o montante de € 1,44 ao valor global a pagar, por dia de internamento e por utente.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]»"
+  },
+  "899873602": {
+   "fragment_id": "899870711",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao anexo i à Portaria n.º 45/2021, de 24 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao anexo i à Portaria n.º 45/2021, de 24 de fevereiro\n\nO anexo i à Portaria n.º 45/2021, de 24 de fevereiro, na sua redação atual, passa a ter a redação constante do anexo ii à presente portaria, da qual faz parte integrante."
+  },
+  "899873603": {
+   "fragment_id": "899870712",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições transitórias\n\n1 - Para além das entidades que dispõem de contrato com o Serviço Nacional de Saúde (SNS) no âmbito do setor convencionado, podem aquelas que venham a ter atribuído local de prescrição no âmbito da presente portaria realizar os MCDT prescritos, a título excecional e transitório, até 31 de março de 2025, desde que detenham capacidade e licenciamento para a efetiva prestação.\n\n2 - Aplicam-se às entidades referidas no número anterior as condições e preços das entidades convencionadas.\n\n3 - Sem prejuízo do disposto no número anterior, devem aquelas entidades cumprir o disposto no artigo 12.º do Decreto-Lei n.º 139/2013, de 9 de outubro."
+  },
+  "899873604": {
+   "fragment_id": "899870713",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "899873606": {
+   "fragment_id": "899870715",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 2.º)\n\nFicha técnica\n\n1 - Identificação da entidade gestora do estabelecimento:\n\n1.1 - Número de Identificação Fiscal da entidade gestora do estabelecimento;\n\n1.2 - Código do contrato com a ACSS, I. P.;\n\n1.3 - Designação da entidade gestora do estabelecimento;\n\n1.4 - Morada da entidade gestora do estabelecimento;\n\n1.5 - Código postal da entidade gestora do estabelecimento;\n\n1.6 - Localidade da entidade gestora do estabelecimento;\n\n1.7 - Contacto telefónico da entidade gestora do estabelecimento;\n\n1.8 - Endereço de correio eletrónico da entidade gestora do estabelecimento;\n\n1.9 - Código de acesso à Certidão Permanente, se aplicável;\n\n1.10 - Outros elementos de registo e identificação, se aplicável.\n\n2 - Identificação do estabelecimento:\n\n2.1 - Denominação do estabelecimento;\n\n2.2 - Morada do estabelecimento;\n\n2.3 - Código postal do estabelecimento;\n\n2.4 - Localidade do estabelecimento;\n\n2.5 - Contacto telefónico do estabelecimento;\n\n2.6 - Endereço de correio eletrónico do estabelecimento.\n\n3 - Caracterização do Ponto Parceiro SNS:\n\n3.1 - Nome dos médicos prescritores que detenham idoneidade reconhecida pela Ordem dos Médicos;\n\n3.2 - Número da cédula profissional dos médicos referidos no n.º 3.1;\n\n3.3 - Horários de presença física dos médicos referidos no n.º 3.1;\n\n3.4 - Nome dos enfermeiros que prestam serviços de enfermagem no estabelecimento;\n\n3.5 - Número da cédula profissional dos enfermeiros referidos no n.º 3.4;\n\n3.6 - Horário de presença física dos enfermeiros referidos no n.º 3.4;\n\n3.7 - Número de utentes/residentes máximo a abranger.\n\nData, ___\n\nO Administrador/gerente.\n\n___\n\nO médico responsável\n\n___\n\nDeve anexar-se:\n\nDocumento, atualizado à data do pedido, que comprove a atividade desenvolvida pela entidade e a atribuição do respetivo título de autorização de funcionamento, atribuído pelo Instituto da Segurança Social, I. P., nos termos da legislação em vigor, consoante o caso;\n\nIndicação dos médicos prescritores que exercem funções na entidade, para efeitos de atribuição de certidões de acesso ao sistema de prescrição, com a indicação do nome profissional e número de cédula profissional;\n\nDeclaração de conformidade ao nível dos equipamentos técnicos, práticas de segurança de informação e cumprimento das obrigações emergentes da legislação sobre proteção de dados."
+  },
+  "899873607": {
+   "fragment_id": "899870716",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 6.º)\n\n«ANEXO I\n(a que se referem os n.\n\nos\n\n1 e 3 do artigo 4.º)\nTabela de preços aplicáveis às unidades de internamento e de ambulatório da RNCCI e às UCP-RNCCI\n\n| Tipologia | Encargos com cuidados<br>de saúde (utente/dia) | Encargos com cuidados<br>de apoio social (utente/dia) | Total (utente/dia) |  |\n| --- | --- | --- | --- | --- |\n| Diárias de internamento por utente |  |  |  |  |\n| I - Unidades de internamento: |  |  |  |  |\n| I.1 - Unidade de Convalescença | 118,04 € | - | 118,04 € |  |\n| I.2 - Unidade de Média Duração e Reabilitação | 79,36 € | 23,39 € | 102,75 € |  |\n| I.3 - Unidade de Longa Duração e Manutenção | 38,40 € | 43,64 € | 82,04 € |  |\n| II - Unidade de Cuidados Paliativos | 118,04 € | - | 118,04 € | » |\n\n118451585"
+  }
+ }
+}

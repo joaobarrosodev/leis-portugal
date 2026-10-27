@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:180407:por
+title: Decreto-Lei n.º 330/85
+short_title: null
+summary: Limita e disciplina a prática de utilização por conta das dotações orçamentais de «Aquisição de serviços - Não especificados»
+  para pagamento de remunerações certas com carácter de continuidade
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 330/85
+official_date: null
+publication_date: '1985-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 184/1985, Série I de 1985-08-12
+  number: '184'
+  series: I
+  supplement: null
+  pages: 2542 - 2542
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/08/18400/25422542.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '180407'
+  dre_path: /dr/detalhe/decreto-lei/330-1985-180407
+  internal: pt:dre:180407:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1985-180407
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1985-180407
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bee85381eb9d00529ec15b60399f2e412b89de5a3210fe871be9fc05404ae84f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:06:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Contenção de Despesas
+- Função Pública
+- Gestão de Recursos Humanos
+- Gestão Orçamental
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:190671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:06:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 330/85
+
+de 12 de Agosto
+
+Na sequência das medidas legais que têm vindo a ser estabelecidas visando disciplinar os gastos e o recurso a pessoal pago pelas dotações orçamentais destinadas a «Aquisição de serviços - Não especificados», das quais as mais recentes foram inseridas no [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, reconhece-se ainda necessário complementá-las e reforçá-las no sentido de reduzir a utilização das referidas dotações à dimensão compatível com a sua finalidade.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. - 1 - De conta das dotações orçamentais de «Aquisição de serviços - Não especificados» não podem ser pagas remunerações certas com carácter de continuidade, excepto tratando-se de contrato de avença.
+
+2 - As prestações de serviços que eventualmente se mostrem absoluta e urgentemente indispensáveis e que tenham de prolongar-se para além de 60 dias em relação a cada prestador carecem de autorização do ministro da tutela.
+
+3 - Nos seus orçamentos, os serviços passam a destacar em alínea própria, a partir de 1986, a parte da dotação que se destina ao pagamento de prestações de serviços em regime de tarefa ou outro.
+
+4 - Os reforços das verbas referidas no número anterior carecem sempre do prévio acordo do Ministro das Finanças e do Plano.
+
+5 - O disposto no presente decreto-lei não prejudica a regularização da situação do pessoal tarefeiro, nos termos previstos no n.º 3 do artigo 12.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro.
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
+
+Promulgado em 26 de Julho de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 30 de Julho de 1985.
+
+O Primeiro-Ministro, Mário Soares.

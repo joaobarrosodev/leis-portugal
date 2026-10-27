@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:383054:por
+title: Resolução n.º 97/79
+short_title: null
+summary: Estabelece as disposições que conduzem à cessação da intervenção do Estado na Loturba - Sociedade de Loteamentos
+  e Urbanizações, Lda.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 97/79
+official_date: null
+publication_date: '1979-04-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/1979, Série I de 1979-04-05
+  number: '80'
+  series: I
+  supplement: null
+  pages: 552 - 553
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08000/05520553.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '383054'
+  dre_path: /dr/detalhe/resolucao/97-1979-383054
+  internal: pt:dre:383054:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/97-1979-383054
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/97-1979-383054
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:26:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5d8aed86c538424949158da75c82ed2f76901cb06596e7274cb4f0662e16b275
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:26:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação
+- Empresa Privada
+- Empresa Pública de Urbanização de Lisboa
+- Gestão de Empresas
+- Interesse Público
+- Intervenção do Estado
+relationships:
+- type: amended_by
+  target: pt:dre:570326:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:570326:por
+  label: "Exonerada a comissão administrativa nomeada pelo Despacho n.º DD4243, de 29 de Agosto de 1978, e determinada exonerar\
+    \ pelo presente diploma, pela RES.5/81.07.01.1981.PCM, DR.IS [5] de 07.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/5-1981-570326
+  date: '1981-01-07'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485645:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:26:38Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 97/79
+
+A [Resolução n.º 119/78](https://diariodarepublica.pt/dr/detalhe/resolucao/119-1978-297001), de 5 de Julho, publicada no Diário da República, de 27 de Julho de 1978, cometeu à Comissão Administrativa da Loturba - Sociedade de Loteamentos e Urbanizações, Lda., a elaboração de um programa de acção tendente fundamentalmente a solucionar o problema da urbanização do Casal da Fonte Santa, devendo a mesma propor, no prazo de seis meses, as condições em que se deveria processar a cessação da intervenção do Estado, com a restituição aos seus titulares ou com a formação de uma associação, nos termos do artigo 23.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+
+Para o efeito, era prioritária a elaboração e aprovação de um plano de urbanização em condições de viabilidade técnico-económica, que permitisse a resolução da referida urbanização, o que implicaria uma revisão do plano existente ainda não aprovado, por condicionamentos derivados da prevista circular regional exterior.
+
+Para definir concretamente os condicionamentos que da construção daquela podiam resultar para a urbanização, foi constituído um grupo de trabalho com elementos da Junta Autónoma das Estradas, Direcção-Geral do Planeamento Urbanístico e Ministério da Administração Interna.
+
+Para a revisão do plano é essencial a confirmação, de princípio, de que a circular regional, como parece, se desenvolverá fora dos limites da propriedade.
+
+Após reuniões com a Câmara Municipal de Sintra, definiram-se outros condicionamentos a que, em princípio, deve respeitar a urbanização do Casal da Fonte Santa.
+
+A viabilidade económica do empreendimento implicará, conforme análises já efectuadas, um aumento do número de habitantes por hectare, previsto (noventa habitantes por hectare) e confirmado por despacho do Secretário de Estado da Habitação e Urbanismo de 1974, que terá assim de ser revogado, o que a Câmara Municipal de Sintra admite, embora com condicionamentos.
+
+A falta de meios financeiros da empresa não permitiu, nestas condições, o reinício dos estudos de urbanização, dado verificar-se inclusivamente a falta de pagamento ao urbanista de honorários devidos por trabalhos já anteriormente realizados.
+
+Verifica-se, assim, que a resolução do problema da urbanização do Casal da Fonte Santa, principal problema da Loturba, que pelas suas implicações, com elevado número de promitentes compradores, alguns já proprietários, e pela sua proximidade a uma zona degradada, se reveste de inegável interesse público e dificilmente se poderá conseguir sem ser através da associação prevista no capítulo v do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+
+Efectivamente, um grande número de pessoas investiram as suas pequenas poupanças na compra de lotes para habitação própria.
+
+Embora as suas situações sejam juridicamente discutíveis, uma vez que os compromissos de compra e venda e escrituras efectuadas não se referiam a terrenos com plano de urbanização já aprovado, considera-se justa a salvaguarda dos interesses desses investidores, a ter em conta na solução que vier a ser encontrada para a urbanização dos terrenos.
+
+Considerando que a Câmara Municipal de Sintra aprovou a solução encontrada, embora com a ressalva de que não aceita fazer parte da associação, como representante da administração;
+
+Considerando que a Câmara Municipal de Lisboa concordou com a designação da EPUL para, em nome da administração, proceder às tarefas necessárias à constituição da associação e concretização dos seus objectivos;
+
+Nestes termos:
+
+O Conselho de Ministros, reunido em 7 de Março de 1979, resolveu:
+
+1 - A constituição de uma associação da administração com os proprietários e promitentes compradores de terrenos do Casal da Fonte Santa e titulares de direitos sobre os mesmos, os quais foram já objecto de um anteplano de urbanização submetido à aprovação oficial, mas não aprovado, nos termos do capítulo v do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, considerando-se desde já o interesse público da associação, nos termos da alínea b) do n.º 2 do artigo 23.º do mesmo diploma.
+
+2 - A associação terá por fim a realização de todos os trabalhos necessários à concretização da urbanização do Casal da Fonte Santa, o loteamento respectivo e a partilha entre os associados, na proporção das suas participações, do produto da cedência dos lotes constituídos ou desses mesmos lotes, em propriedade plena, nos termos dos n.os 1 e 2 do artigo 25.º
+
+3 - Nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), fica desde já a EPUL, Empresa Pública de Urbanização de Lisboa, E. P., incumbida de, em nome da administração, proceder às tarefas necessárias à constituição da associação e concretização dos seus objectivos, nas condições que vierem a ser acordadas entre o Ministério da Habitação e Obras Públicas e a referida empresa.
+
+4 - Os encargos financeiros necessários para ocorrer às despesas inerentes às tarefas atrás referidas serão suportados pelas dotações inscritas no orçamento do Ministério da Habitação e Obras Públicas.
+
+5 - As participações dos associados serão em princípio as seguintes:
+
+5.1 - Os proprietários participarão pelos valores que venham a ser atribuídos às respectivas parcelas de terreno, considerada a sua situação e estado à data da constituição da associação.
+
+5.2 - A Loturba, Sociedade de Loteamento e Urbanizações, Lda., participará pelo valor que venha a ser atribuído à totalidade dos terrenos de que ainda é proprietária, considerada a situação e estado dos mesmos à data da constituição da associação, deduzidos dos valores referidos em 5.3.
+
+5.3 - Os promitentes compradores e titulares de direitos participarão com as percentagens dos valores das terrenos referidos em 5.1, iguais às percentagens dos sinais entregues em relação aos preços estipulados nos contratos, ou pelo valor dos respectivos direitos.
+
+5.4 - A administração participará pelo capital que investir para concretização dos empreendimentos, nos termos do n.º 1 do artigo 24.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292).
+
+6 - É revogado o despacho de 1974 do Secretário de Estado da Habitação e Urbanismo que condicionava a noventa habitantes por hectare a densidade populacional para a referida urbanização, valor este que deverá ser determinado atendendo ao equilíbrio urbanístico e ecológico da zona, bem como à viabilidade e económica do empreendimento.
+
+7 - A partir da data do acto constitutivo da associação, cessará a intervenção do Estado na empresa Loturba, Sociedade de Loteamentos e Urbanizações, Lda., sendo restituída aos respectivos sócios, nos termos da alínea d) do n.º 1 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, ficando exonerada, a partir da mesma data, a comissão administrativa nomeada por despacho ministerial de 27 de Julho de 1978, publicado no Diário da República, de 29 de Agosto.
+
+8 - Fixar o prazo de noventa dias, a partir da data da cessação da intervenção para a empresa elaborar o programa de actividades e correspondente proposta de saneamento financeiro, se necessário integrando um contrato de viabilização, para o que lhe é desde já concedida a prioridade prevista no n.º 6 do artigo 2.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
+
+9 - Manter, ao abrigo do disposto no n.º 3 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, com a redacção dada a essa disposição pelo artigo 1.º do [Decreto-Lei n.º 67/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1978-485645), de 9 de Abril, o regime previsto nos artigos 12.º, 13.º e 14.º do referido [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), até à celebração do contrato de viabilização.
+
+Presidência do Conselho de Ministros, 7 de Março de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

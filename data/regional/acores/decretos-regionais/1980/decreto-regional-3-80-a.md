@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:692987:por
+title: Decreto Regional n.º 3/80/A
+short_title: null
+summary: Estabelece medidas de protecção para a paisagem do Monte Brasil
+jurisdiction: regional
+territory: acores
+document_type: decreto-regional
+document_type_label: Decreto Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 3/80/A
+official_date: null
+publication_date: '1980-02-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 32/1980, Série I de 1980-02-07
+  number: '32'
+  series: I
+  supplement: null
+  pages: 132 - 135
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/02/03200/01320135.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '692987'
+  dre_path: /dr/detalhe/decreto-regional/3-1980-692987
+  internal: pt:dre:692987:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1980-692987
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1980-692987
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:24:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5594691f6a09bfacfa6eb9d76541433c7e6901f392b58e3f2771145ff4f4839f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- ILHA Terceira
+- Proteção do Ambiente
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:346709:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:399845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346709:por
+  label: "Revogado pelo DLR.29/99/A.1999.07.09.ALR-RAA DR.IS-A [177] DE 31/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-1999-346709
+  date: '1999-07-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:24:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regional n.º 3/80/A
+
+Medidas de protecção para a paisagem do Monte Brasil
+
+O Monte Brasil, morro com crateras de antigos vulcões, constitui uma península sobranceira à cidade de Angra do Heroísmo. Nele se acha implantado o Castelo de S. João Baptista, uma das mais vastas e importantes fortalezas dos finais do século XVI construídas no nosso país.
+
+Denominado de S. Filipe até à Restauração, o Castelo de S. João Baptista tem servido, desde o século XVI, de quartel das diversas unidades militares, que ao longo de reformas sucessivas tem ocupado as suas instalações.
+
+Pelo [Decreto n.º 32973](https://diariodarepublica.pt/dr/detalhe/decreto/32973-1943-399845), de 18 de Agosto de 1943, a Igreja de S. João Baptista, a fortaleza e as suas muralhas foram classificadas como «imóvel de interesse público», com vista à sua conservação e protecção, uma vez que se verificavam permanentes atentados à multicentenária fortaleza. No entanto, verifica-se que dessa data até aos nossos dias tal medida legislativa não surtiu os efeitos que se desejaria, pois que o maior número de demolições e construções modernas se realizaram exactamente ao longo dos últimos trinta anos.
+
+Acresce a isto o facto de o Monte Brasil constituir um parque natural da cidade, com espécies arbóreas e arbustivas de especial interesse e com excelentes miradouros, não só sobre o aglomerado urbano, como também sobre grande parte da costa sul da ilha Terceira e ilhas situadas a ocidente.
+
+O Monte Brasil afirma-se assim, não só como o centro de uma das mais ricas zonas paisagísticas da ilha Terceira, mas ainda como uma zona altamente impregnada pelos eventos históricos açorianos dos últimos quatro séculos, muitos dos quais se desenrolaram dentro das muralhas da sua fortaleza.
+
+Por estes motivos torna-se imperioso e urgente preservá-lo e valorizá-lo.
+
+Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, a Assembleia Regional decreta o seguinte:
+
+Artigo 1.º Pelo presente diploma é criada e definida a zona de paisagem protegida do Monte Brasil.
+
+Art. 2.º - 1 - A zona referida no artigo anterior tem os seguintes limites:
+
+a) A sul, este e oeste, pela linha da costa com o oceano Atlântico;
+
+b) A norte, pela linha definida no início do ponto de intercepção da linha da costa com uma linha imaginária definida pelo prolongamento recto do lado norte da Rua de Tomé Belo de Castro para oeste, seguindo por esta linha imaginária no sentido oeste-este até ao ponto de intercepção com o lado oeste da Rua do Tenente Ferreira Durão;
+
+c) Sempre no sentido oeste-este, continua a partir do ponto referido na alínea anterior, seguindo ao longo do lado norte da Rua de Tomé Belo de Castro, e sempre na mesma direcção e sentido, até à sua intercepção com o lado este do fim da Rua de Gonçalo Velho Cabral e princípio da Rua da Boa Nova;
+
+d) Desta intercepção, continua pelo lado este da Rua da Boa Nova, prolongando-se pelo mesmo lado até à sua intercepção com o lado este da Rua de D. Afonso VI;
+
+e) Continua por uma linha imaginária definida pelo prolongamento do lado este da Rua de D. Afonso VI, até à sua intercepção com a linha da costa do oceano Atlântico.
+
+2 - Os limites da paisagem protegida descritos no número anterior vão demarcados no mapa anexo ao presente decreto regional, e que dele faz parte integrante.
+
+Art. 3.º - 1 - Anexas à zona definida no artigo anterior, são consideradas mais duas zonas, para as quais se estabelecerão medidas preventivas em face do grau de sensibilidade e de proximidade da paisagem protegida do Monte Brasil.
+
+2 - A primeira zona considera-se como zona de construção altamente condicionada, e tem os limites seguintes:
+
+a) Linha definida pelas alíneas b) e c) do n.º 1 do artigo anterior;
+
+b) Lado este da Rua de Gonçalo Velho Cabral, percorrendo-o no sentido sul-norte até ao ponto de intercepção de uma linha imaginária, que consiste no seu prolongamento recto do mesmo sentido, com outra linha imaginária, que constitui o prolongamento do lado norte da Avenida do Tenente-Coronel José Agostinho, no sentido oeste-este;
+
+c) Continua da intercepção definida no ponto anterior, percorrendo, no sentido este-oeste, o lado norte da Avenida do Tenente-Coronel José Agostinho, envolvendo a praceta pelo seu lado norte e continuando em linha imaginária, que é o prolongamento do lado norte da praceta da Avenida do Tenente-Coronel José Agostinho, em recta, até à sua intercepção com a linha da costa com o oceano Atlântico.
+
+3 - A segunda zona considera-se como zona de construção condicionada e tem os limites seguintes:
+
+a) A sul, pelas linhas definidas nas alíneas b) e c) do n.º 2 deste artigo, incluindo a totalidade do Largo de 11 de Março, e pela linha da costa até ao porto de S. Mateus da Calheta;
+
+b) A norte, por uma linha imaginária situada a norte da E. R. n.º 1 de 1.ª classe, paralela ao seu eixo e distanciada de 100 m, percorrendo-a no sentido este-oeste até ao porto de S. Mateus da Calheta.
+
+Art. 4.º - 1 - Fica dependente da Secretaria Regional do Equipamento Social, precedendo parecer favorável da Secretaria Regional da Educação e Cultura, dentro do perímetro da paisagem protegida do Monte Brasil, bem como das zonas descritas no artigo 3.º deste decreto regional, a autorização para a realização dos seguintes trabalhos:
+
+a) Construção, reconstrução, ampliação, alteração ou demolição de edifícios e outras instalações de carácter público ou privado;
+
+b) Pinturas e caiações de edifícios ou muros, existentes ou a construir, bem como quaisquer alterações dos elementos ornamentais dos mesmos.
+
+2 - Fica dependente de autorização da Secretaria Regional do Equipamento Social, ouvidos os serviços competentes das Secretarias Regionais da Agricultura e Pescas e da Educação e Cultura, e dentro do perímetro da paisagem protegida do Monte Brasil, a realização dos seguintes trabalhos:
+
+a) Alterações importantes, por meio de aterros ou escavações, na configuração geral dos terrenos;
+
+b) Derrube de árvores, em maciço ou de espécies isoladas, devidamente identificadas no plano de ordenamento a elaborar em cumprimento do artigo 12.º;
+
+c) Criação de novas pastagens;
+
+d) Corte de leivas ou matas;
+
+e) Abertura de novas vias de comunicação e passagem de linhas eléctricas ou telefónicas;
+
+f) Abertura de fossas ou depósitos de lixo;
+
+g) Captação e desvios de água ou quaisquer outras obras de hidráulica;
+
+h) Caça e pesca, enquanto não existam regulamentos superiormente aprovados que as contemplem.
+
+3 - As autorizações a que se referem os números anteriores deste artigo não dispensam quaisquer outros condicionalismos exigidos por lei.
+
+Art. 5.º São consideradas contravenções:
+
+a) A realização de quaisquer trabalhos, obras ou actividades em terrenos abrangidos pela paisagem protegida, bem como nas zonas descritas no artigo 3.º, sem a autorização da Secretaria Regional do Equipamento Social;
+
+b) O exercício da caça e da pesca, enquanto não for regulamentado pelas entidades competentes na matéria, dentro do perímetro da paisagem protegida;
+
+c) A introdução e o estabelecimento, nos terrenos situados na zona da paisagem protegida, de veículos, caravanas ou barracas, com inobservância dos condicionalismos que forem estabelecidos;
+
+d) A instalação de locais de campismo ou acampamentos em terrenos situados na zona da paisagem protegida fora das áreas especialmente destinadas e aprovadas para esse fim, ou a inobservância das condições, fixadas por via regulamentar, sobre tal instalação;
+
+e) O abandono de detritos fora dos locais especialmente destinados a esse fim;
+
+f) O depósito de materiais, ou qualquer outra alteração do relevo; a introdução, na zona da paisagem protegida, de animais não domésticos e de espécies vegetais exóticas, quando não superiormente autorizados, bem como a destruição ou colheita de plantas e partes de plantas endémicas, ou daquelas cujo habitat nos Açores está confinado, exclusivamente ou quase, à zona do Monte Brasil.
+
+Art. 6.º - 1 - As contravenções previstas no artigo 5.º, sem prejuízo de outras sanções aplicáveis, são punidas:
+
+a) Com multa de 500$00 a 10000$00, as previstas nas alíneas a), c), e) e f);
+
+b) Com multa de 500$00 a 1000$00, as previstas na alínea d);
+
+c) Com multa de 500$00 a 5000$00, as previstas nas alíneas b) e d);
+
+d) Com o máximo das multas previstas nas alíneas anteriores, respectivamente, e prisão até um mês, em caso de reincidência.
+
+2 - A aplicação da multa pelas contravenções previstas nas alíneas a) e f) do artigo anterior envolve a obrigação de o infractor demolir as obras ou trabalhos efectuados, quando não possam ser autorizados.
+
+3 - Se o infractor se recusar a demolir as obras ou trabalhos efectuados depois de para tal notificado, mandar-se-á proceder à demolição e dos trabalhos que para o efeito se mostrem necessários, apresentando a relação das despesas para cobrança ao infractor e recorrendo aos tribunais sempre que precisa a cobrança coerciva.
+
+Art. 7.º - 1 - As funções de policiamento e fiscalização, dentro do perímetro da paisagem protegida do Monte Brasil, competem aos guardas florestais, à câmara municipal e ao corpo de vigilantes privativos da paisagem protegida.
+
+2 - Os autos de notícia por infracção ao disposto no presente decreto regional serão levantados e processados, nos termos dos artigos 166.º e 167.º do Código de Processo Penal, sem prejuízo de outras disposições legais aplicáveis.
+
+Art. 8.º - 1 - É aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo 4.º o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+
+2 - São nulas as licenças, municipais ou outras, concedidas com violação do regime instituído neste diploma.
+
+Art. 9.º As despesas emergentes da execução do presente diploma serão suportadas pelo orçamento da Secretaria Regional do Equipamento Social.
+
+Art. 10.º O Governo Regional deverá, pelos canais competentes, estabelecer protocolos de acordo com as autoridades militares que tenham interesse funcional nas zonas a proteger pelo presente diploma, de maneira a assegurar a plena eficácia das medidas nele estabelecidas.
+
+Art. 11.º Serão aprovados por decreto regulamentar regional os sinais indicativos de proibições, permissões e condicionamentos previstos neste diploma para os quais não existam já modelos legalmente estabelecidos.
+
+Art. 12.º - 1 - No prazo de seis meses, a contar da data da publicação do presente decreto regional, deverá ser elaborado o projecto de ordenamento da paisagem protegida do Monte Brasil, bem como das zonas descritas no artigo 3.º, por um grupo de trabalho nomeado por despacho conjunto das Secretarias Regionais do Equipamento Social e da Educação e Cultura, do qual farão parte representantes da Secretaria Regional da Agricultura e Pescas e da Secretaria Regional dos Transportes e Turismo.
+
+2 - Com a aprovação do projecto referido no n.º 1 deste artigo, ficam definidas as servidões e as restrições administrativas a que devem sujeitar-se os terrenos e os bens compreendidos nas áreas ali referidas.
+
+3 - Os projectos de que sejam objecto as áreas que vierem a ser definidas como reservas de recreio, bem como para qualquer fim de natureza diferente, deverão prever a integração na paisagem, a resolução dos problemas de estabilização biofísica por processos integráveis com base na vegetação clímax ou tradicional, a valorização e a protecção dos elementos físicos naturais, a valorização estética e ambiental, assim como a integração na plástica urbana circundante, para o caso específico das áreas definidas no artigo 3.º
+
+Art. 13.º Até à entrada em vigor do decreto que regulamentar o presente diploma, a zona de paisagem protegida do Monte Brasil será administrada por uma comissão presidida por um representante da Secretaria Regional do Equipamento Social, a designar pelo Secretário Regional, e integrada por um representante da Direcção Regional dos Serviços Florestais, um da Direcção Regional dos Serviços Agrícolas, um da Direcção Regional de Obras Públicas e Equipamento, um da Direcção Regional dos Assuntos Culturais, um da Câmara Municipal de Angra do Heroísmo, e um da Junta de Freguesia da Sé.
+
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 8 de Novembro de 1979.
+
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
+
+Assinado em Angra do Heroísmo em 4 de Janeiro de 1980.
+
+Publique-se.
+
+O Ministro da República, Henrique Afonso da Silva Horta.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/03200/01320135.pdf)

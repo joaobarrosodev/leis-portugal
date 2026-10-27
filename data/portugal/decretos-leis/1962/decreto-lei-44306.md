@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:516069:por
+title: Decreto-Lei n.º 44306
+short_title: null
+summary: Autoriza a Hidroeléctrica Portuguesa a ceder à Hidroeléctrica do Douro a concessão do aproveitamento hidroeléctrico
+  do rio Távora, com todos os direitos e obrigações que resultam do decreto de concessão de 31 de Julho de 1950 e respectivo
+  caderno de encargos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e da Economia
+proposing_entity: null
+official_number: '44306'
+official_date: null
+publication_date: '1962-04-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 95/1962, Série I de 1962-04-27
+  number: '95'
+  series: I
+  supplement: null
+  pages: 574 - 575
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/04/09500/05740575.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '516069'
+  dre_path: /dr/detalhe/decreto-lei/44306-1962-516069
+  internal: pt:dre:516069:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44306-1962-516069
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44306-1962-516069
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:40:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ee806c85f7ea30d78af639cf96c3190ccc740fd0874f4b977714ddd816ac95bd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproveitamento Hidroeléctrico
+- Contrato de Concessão
+- Empresa Privada
+- Isenção Fiscal
+- RIO Távora
+- Sisa
+- Transmissão de Contrato
+relationships:
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568758:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:40:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44306
+
+Tendo a Hidroeléctrica Portuguesa, S. A. R. L., requerido autorização para ceder à Hidroeléctrica do Douro, S. A. R. L., a concessão do aproveitamento hidroeléctrico do rio Távora, que lhe fora outorgada por decreto de 31 de Julho de 1950;
+
+Havendo a Hidroeléctrica do Douro, S. A. R. L., solicitado, com fundamento na base XVII da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944, e nos artigos 73.º e 79.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, isenção da sisa devida pela transmissão;
+
+Considerando que nenhuma razão de interesse público se opõe à pretendida cessão e que, pelo contrário, todas as circunstâncias a aconselham, revelando-se mesmo necessária a transferência imediata para a Hidroeléctrica do Douro, S. A. R. L., da posse e administração do aproveitamento do rio Távora;
+
+Ponderando que a outorga do contrato definitivo depende de diligências e avaliações morosas e delicadas;
+
+Atendendo a que a transmissão realiza um objectivo oportunamente formulado pelo Governo, como resulta da obrigação imposta à Hidroeléctrica do Douro, S. A. R. L., no § 3.º do artigo 3.º do caderno de encargos da concessão do aproveitamento hidroeléctrico do rio Douro;
+
+Considerando que, pela razão acabada de apontar, e também porque a cessão obedece aos princípios enunciados na base XVII da citada [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) e no artigo 79.º do referido [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), se justifica a solicitada isenção de sisa;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É autorizada a Hidroeléctrica Portuguesa, sociedade anónima de responsabilidade limitada, a ceder à Hidroeléctrica do Douro, sociedade anónima de responsabilidade limitada, a concessão do aproveitamento hidroeléctrico do rio Távora, com todos os direitos e obrigações que resultam do decreto de concessão de 31 de Julho de 1950 e respectivo caderno de encargos da mesma data, publicados no Diário do Governo n.º 178, 3.ª série, de 2 de Agosto de 1950, tendo o caderno de encargos a rectificação publicada no Diário do Governo n.º 196, 3.ª série, de 23 de Agosto de 1950.
+
+Art. 2.º Enquanto não for celebrado o contrato definitivo, a Hidroeléctrica do Douro poderá entrar na posse e administração do aproveitamento mediante simples contrato-promessa de cessão, nos termos que as duas sociedades entre si acordarem.
+
+Art. 3.º É isenta de sisa a cessão a que se referem os artigos anteriores, e ainda a transmissão de todos os demais bens e direitos que, pelo mesmo contrato, forem transferidos para a Hidroeléctrica do Douro.
+
+Art. 4.º O presente diploma entra imediatamente em vigor.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

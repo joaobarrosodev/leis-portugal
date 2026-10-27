@@ -1,0 +1,367 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:548241:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-160585689",
+ "dre_path": "/dr/detalhe/decreto-lei/116-c-2006-548241",
+ "source_lastmod": "2025-05-27",
+ "versions": [
+  {
+   "date": "2006-06-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919653219",
+    "160585600",
+    "160585601",
+    "160585602",
+    "160585603",
+    "160585604",
+    "160585605",
+    "160585606",
+    "160585607",
+    "160585608",
+    "160585609",
+    "160585610",
+    "160585611",
+    "160585612",
+    "160585613",
+    "160585614"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:504127:por",
+     "title": "Decreto-Lei n.º 158/2013",
+     "published": "2013-11-15",
+     "dre_path": "/dr/detalhe/decreto-lei/158-2013-504127",
+     "date": "2006-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2016-12-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105371771:por",
+     "title": "Decreto-Lei n.º 83/2016",
+     "published": "2016-12-16",
+     "dre_path": "/dr/detalhe/decreto-lei/83-2016-105371771"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "919653219",
+    "919653220",
+    "919653221",
+    "919653222",
+    "919653223",
+    "919653224",
+    "919653225",
+    "919653226",
+    "919653227",
+    "919653228",
+    "919653229",
+    "919653230",
+    "919653231",
+    "919653232",
+    "919653233",
+    "919653234",
+    "919653235"
+   ]
+  }
+ ],
+ "fragments": {
+  "919653219": {
+   "fragment_id": "160585690",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2016-12-17",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 116-C/2006\n\nde 16 de Junho\n\nPara fazer funcionar a democracia é essencial dispor de informação de qualidade, atempada e credível, cabendo ao Governo promover a sua disponibilização através da adopção de medidas de modernização e de abertura das formas de acesso ao direito pelos cidadãos.\n\nO XVII Governo Constitucional está firmemente empenhado na simplificação e na transparência como formas de desburocratizar o Estado e de facilitar a vida dos cidadãos e das empresas, tendo apresentado, no quadro do Programa Legislar Melhor, um conjunto de medidas em matéria de qualidade, eficiência e exigência dos actos normativos, destinadas também a simplificar e tornar mais acessível e transparente aos cidadãos todo o procedimento legislativo, designadamente o procedimento relativo à publicação de diplomas.\n\nO presente decreto-lei determina a disponibilização do Diário da República, devidamente reformado e simplificado, em edição electrónica de acesso universal e gratuito, de forma a facilitar a consulta por parte dos utilizadores, com a consequente redução substancial de encargos financeiros associados à publicação em suporte de papel.\n\nO acesso gratuito pelo cidadão à edição electrónica do Diário da República, com a possibilidade de impressão, arquivo e pesquisa, constitui um meio privilegiado de universalizar o acesso à lei e de aprofundar, consequentemente, o Estado de direito democrático. A divulgação aberta do Diário da República traduz um serviço público indispensável para o reforço e para o exercício de uma cidadania activa e impõe-se com a generalização das novas tecnologias de informação e comunicação.\n\nIgualmente relevante é a aposta do Governo na desmaterialização de procedimentos, com recurso às novas tecnologias de informação e comunicação, pelo que o presente decreto-lei determina que o Diário da República deixe de ser publicado em papel, mantendo-se apenas a edição impressa da 1.ª série para assegurar o arquivo público e assinaturas de particulares subscritas a custo real.\n\nAinda no domínio da desmaterialização de procedimentos, importa referir a previsão da obrigatoriedade do envio por suporte electrónico de todos os actos sujeitos a publicação no Diário da República, nos termos de formulários electrónicos a aprovar pela Imprensa Nacional-Casa da Moeda, S. A., o que permitirá aumentar os padrões de segurança, de fiabilidade e de eficiência dos procedimentos de publicação.\n\nMerecem igualmente destaque as medidas de racionalização e simplificação a introduzir no domínio dos actos a publicar no Diário da República. Para além do reordenamento da 2.ª série, é extinta a 3.ª série do Diário da República, cuja dimensão sofreu uma redução de cerca de 80% com o novo regime de publicidade dos actos societários adoptado pelo Decreto-Lei n.º 111/2005, de 8 de Julho, e que passa a integrar a 2.ª série.\n\nPor fim, o presente decreto-lei introduz um conjunto de inovações na forma como se define o modelo organizativo relativo ao tratamento e análise da informação jurídica, actualmente assegurado pela DIGESTO, criado pela Resolução do Conselho de Ministros n.º 48/92, de 31 de Dezembro, integrado como unidade funcional na Presidência do Conselho de Ministros.\n\nA base de dados jurídica DIGESTO passa a ser disponibilizada, mediante assinatura, directamente através do sítio da edição electrónica do Diário da República, articulando-se, assim, a publicação do jornal oficial com um sistema de pesquisa avançada, que permite melhorar e maximizar a qualidade da informação jurídica disponibilizada ao cidadão.\n\nPara além de mais, estabelece-se uma valorização e desenvolvimento da base de dados jurídica DIGESTO, prevendo-se a sua progressiva conexão e interoperabilidade com outras bases de dados jurídicas existentes na Administração Pública.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "160585600": {
+   "fragment_id": "160585691",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece como serviço público o acesso universal e gratuito ao Diário da República e as demais condições da sua utilização.\n\n2 - O serviço público referido no número anterior é assegurado pela Imprensa Nacional-Casa da Moeda, S. A., nos termos previstos no Decreto-Lei n.º 170/99, de 19 de Maio, e nas condições estabelecidas pelo presente decreto-lei."
+  },
+  "160585601": {
+   "fragment_id": "160585692",
+   "type": 11,
+   "heading": "Artigo 2.º — Edição electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Edição electrónica\n\n1 - O Diário da República é editado por via electrónica.\n\n2 - O Diário da República é disponibilizado no sítio da Internet gerido pela Imprensa Nacional-Casa da Moeda, S. A.\n\n3 - Sem prejuízo do disposto no n.º 1, é assegurada a edição impressa da 1.ª série do Diário da República para assinantes particulares que a subscrevam a custo real."
+  },
+  "160585602": {
+   "fragment_id": "160585693",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso universal e gratuito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso universal e gratuito\n\n1 - A edição electrónica do Diário da República é de acesso universal e gratuito e inclui um registo das datas da sua efectiva disponibilização no sítio da Internet referido no n.º 2 do artigo anterior.\n\n2 - O acesso universal e gratuito compreende a possibilidade de impressão, arquivo e pesquisa dos actos publicados no Diário da República."
+  },
+  "160585603": {
+   "fragment_id": "160585694",
+   "type": 11,
+   "heading": "Artigo 4.º — Arquivo público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Arquivo público\n\n1 - A Imprensa Nacional-Casa da Moeda, S. A., assegura, de forma permanente, o arquivo e a preservação electrónicas do Diário da República editado nos termos do n.º 1 do artigo 2.º\n\n2 - A Imprensa Nacional-Casa da Moeda, S. A., garante o depósito na Biblioteca Nacional e na Torre do Tombo de três exemplares de uma versão impressa devidamente autenticada das duas séries do Diário da República, preparadas para efeitos de arquivo público.\n\n3 - A Imprensa Nacional-Casa da Moeda, S. A., garante ainda o depósito de um exemplar junto da Presidência da República, da Assembleia de República, da Presidência do Conselho de Ministros, dos supremos tribunais, do Tribunal Constitucional e da Procuradoria-Geral da República."
+  },
+  "160585604": {
+   "fragment_id": "160585695",
+   "type": 11,
+   "heading": "Artigo 5.º — Gratuitidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gratuitidades\n\nTodas as distribuições gratuitas legalmente previstas do Diário da República na sua versão impressa são substituídas pelo acesso gratuito através da Internet."
+  },
+  "160585605": {
+   "fragment_id": "160585696",
+   "type": 11,
+   "heading": "Artigo 6.º — Séries",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Séries\n\n1 - O Diário da República compreende a 1.ª e a 2.ª séries.\n\n2 - São objecto de publicação na 1.ª série do Diário da República os actos previstos na Lei n.º 74/98, de 11 de Novembro.\n\n3 - São objecto de publicação na 2.ª série do Diário da República os actos previstos na Lei n.º 74/98, de 11 de Novembro, e os demais actos de publicação obrigatória, bem como aqueles previstos em despacho do membro do Governo responsável pela edição do Diário da República."
+  },
+  "160585606": {
+   "fragment_id": "160585697",
+   "type": 11,
+   "heading": "Artigo 7.º — Ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ordenação\n\n1 - Os actos objecto de publicação na 1.ª série do Diário da República são ordenados segundo o disposto na Lei n.º 74/98, de 11 de Novembro.\n\n2 - Os actos publicados na 2.ª série do Diário da República são ordenados segundo a sequência constitucional de órgãos e, no caso dos actos do Governo, de acordo com a ordenação resultante da lei orgânica do Governo.\n\n3 - Com respeito pelo disposto nos números anteriores, o despacho do membro do Governo referido no n.º 3 do artigo anterior estabelece ainda as demais condições de ordenação, organização e envio dos actos sujeitos a publicação."
+  },
+  "160585607": {
+   "fragment_id": "160585698",
+   "type": 11,
+   "heading": "Artigo 8.º — Transmissão de actos para publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transmissão de actos para publicação\n\nOs actos sujeitos a publicação no Diário da República devem ser transmitidos por via electrónica e obedecer:\n\na) Às exigências de fiabilidade e segurança da assinatura electrónica qualificada, aplicáveis no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas;\n\nb) Aos requisitos técnicos de preenchimento de formulários electrónicos expressamente concebidos para disciplinar o envio de actos."
+  },
+  "160585608": {
+   "fragment_id": "160585699",
+   "type": 11,
+   "heading": "Artigo 9.º — Outros conteúdos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Outros conteúdos\n\n1 - Para além da edição electrónica do Diário da República, o sítio na Internet referido no n.º 2 do artigo 2.º disponibiliza ainda, mediante pagamento, um serviço de acesso à base de dados jurídica DIGESTO, que compreende:\n\na) A consulta de referências dos actos publicados no Diário da República;\n\nb) Informação jurídica devidamente tratada e sistematizada;\n\nc) Interligação com bases sectoriais de informação jurídica complementar, designadamente jurisprudência, direito comunitário, orientações administrativas e doutrina.\n\n2 - O sítio na Internet referido no n.º 2 do artigo 2.º deve identificar todos os sítios da Internet destinados à publicitação oficial sectorial ou especializada de determinadas categorias de actos sujeitos a divulgação obrigatória.\n\n3 - Os conteúdos referidos nos números anteriores são estabelecidos por despacho do membro do Governo responsável pela edição do Diário da República."
+  },
+  "160585609": {
+   "fragment_id": "160585700",
+   "type": 11,
+   "heading": "Artigo 10.º — Preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Preço\n\n1 - Os critérios de definição do preço da assinatura do serviço não gratuito referido no artigo anterior são estabelecidos por despacho conjunto do membro do Governo responsável pela edição do Diário da República e pelo membro do Governo que exerce a tutela financeira sobre a Imprensa Nacional-Casa da Moeda, S. A.\n\n2 - O despacho referido no número anterior estabelece ainda os critérios para a repartição dos encargos e das receitas entre as entidades e os serviços intervenientes na elaboração, no suporte tecnológico e na edição dos conteúdos aí referidos."
+  },
+  "160585610": {
+   "fragment_id": "160585701",
+   "type": 11,
+   "heading": "Artigo 11.º — Extinção da 3.ª série",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Extinção da 3.ª série\n\nOs actos actualmente publicados na 3.ª série do Diário da República são objecto de publicação na 2.ª série do Diário da República."
+  },
+  "160585611": {
+   "fragment_id": "160585702",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento do serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento do serviço público\n\n1 - O serviço público referido no artigo 1.º do presente decreto-lei entra em funcionamento a partir de 1 de Julho de 2006, sem prejuízo do disposto no número seguinte.\n\n2 - O serviço referido nos artigos 9.º e 10.º entra em funcionamento a partir de 15 de Setembro de 2006."
+  },
+  "160585612": {
+   "fragment_id": "160585703",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime transitório\n\nOs contratos de assinatura do Diário da República, tanto na edição em papel como na edição electrónica, são assegurados até 31 de Dezembro de 2006, sem prejuízo da entrada em vigor, a partir de 15 de Setembro de 2006, do serviço referido no artigo 9.º"
+  },
+  "160585613": {
+   "fragment_id": "160585704",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamentação\n\n1 - O despacho referido no n.º 3 do artigo 6.º é publicado até 30 de Junho de 2006.\n\n2 - Os despachos referidos nos n.os 3 do artigo 9.º e 1 do artigo 10.º são publicados até 15 de Setembro de 2006."
+  },
+  "160585614": {
+   "fragment_id": "160585705",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 391/93, de 23 de Novembro;\n\nb) O Decreto n.º 137, de 17 de Setembro de 1913;\n\nc) O Decreto n.º 365/70, de 5 de Agosto."
+  },
+  "919653220": {
+   "fragment_id": "160585691",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece como serviço público o acesso universal e gratuito ao Diário da República e as demais condições da sua utilização.\n\n2 - O serviço público referido no número anterior é assegurado pela Imprensa Nacional-Casa da Moeda, S. A., nos termos previstos no Decreto-Lei n.º 170/99, de 19 de Maio, e nas condições estabelecidas pelo presente decreto-lei.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653221": {
+   "fragment_id": "160585692",
+   "type": 11,
+   "heading": "Artigo 2.º — Edição electrónica",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 2.º — Edição electrónica\n\n1 - O Diário da República é editado por via electrónica.\n\n2 - O Diário da República é disponibilizado no sítio da Internet gerido pela Imprensa Nacional-Casa da Moeda, S. A.\n\n3 - Sem prejuízo do disposto no n.º 1, é assegurada a edição impressa da 1.ª série do Diário da República para assinantes particulares que a subscrevam a custo real.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653222": {
+   "fragment_id": "160585693",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso universal e gratuito",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Acesso universal e gratuito\n\n1 - A edição electrónica do Diário da República é de acesso universal e gratuito e inclui um registo das datas da sua efectiva disponibilização no sítio da Internet referido no n.º 2 do artigo anterior.\n\n2 - O acesso universal e gratuito compreende a possibilidade de impressão, arquivo e pesquisa dos actos publicados no Diário da República.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653223": {
+   "fragment_id": "160585694",
+   "type": 11,
+   "heading": "Artigo 4.º — Arquivo público",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 4.º — Arquivo público\n\n1 - A Imprensa Nacional-Casa da Moeda, S. A., assegura, de forma permanente, o arquivo e a preservação electrónicas do Diário da República editado nos termos do n.º 1 do artigo 2.º\n\n2 - A Imprensa Nacional-Casa da Moeda, S. A., garante o depósito na Biblioteca Nacional e na Torre do Tombo de três exemplares de uma versão impressa devidamente autenticada das duas séries do Diário da República, preparadas para efeitos de arquivo público.\n\n3 - A Imprensa Nacional-Casa da Moeda, S. A., garante ainda o depósito de um exemplar junto da Presidência da República, da Assembleia de República, da Presidência do Conselho de Ministros, dos supremos tribunais, do Tribunal Constitucional e da Procuradoria-Geral da República.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653224": {
+   "fragment_id": "160585695",
+   "type": 11,
+   "heading": "Artigo 5.º — Gratuitidades",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 5.º — Gratuitidades\n\nTodas as distribuições gratuitas legalmente previstas do Diário da República na sua versão impressa são substituídas pelo acesso gratuito através da Internet.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653225": {
+   "fragment_id": "160585696",
+   "type": 11,
+   "heading": "Artigo 6.º — Séries",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 6.º — Séries\n\n1 - O Diário da República compreende a 1.ª e a 2.ª séries.\n\n2 - São objecto de publicação na 1.ª série do Diário da República os actos previstos na Lei n.º 74/98, de 11 de Novembro.\n\n3 - São objecto de publicação na 2.ª série do Diário da República os actos previstos na Lei n.º 74/98, de 11 de Novembro, e os demais actos de publicação obrigatória, bem como aqueles previstos em despacho do membro do Governo responsável pela edição do Diário da República.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653226": {
+   "fragment_id": "160585697",
+   "type": 11,
+   "heading": "Artigo 7.º — Ordenação",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 158/2013 - Diário da República n.º 222/2013, Série I de 2013-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2013-504127), em vigor a partir de 2006-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Ordenação\n\n1 - Os actos objecto de publicação na 1.ª série do Diário da República são ordenados segundo o disposto na Lei n.º 74/98, de 11 de Novembro.\n\n2 - Os atos publicados na 2.ª série do Diário da República são ordenados segundo a sequência constitucional de órgãos e, no caso dos atos do Governo, de acordo com a ordenação resultante da lei orgânica do Governo ao nível do primeiro emissor do ato.\n\n3 - Com respeito pelo disposto nos números anteriores, o despacho do membro do Governo referido no n.º 3 do artigo anterior estabelece ainda as demais condições de ordenação, organização e envio dos actos sujeitos a publicação.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 158/2013 - Diário da República n.º 222/2013, Série I de 2013-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2013-504127), em vigor a partir de 2006-07-01"
+  },
+  "919653227": {
+   "fragment_id": "160585698",
+   "type": 11,
+   "heading": "Artigo 8.º — Transmissão de actos para publicação",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 8.º — Transmissão de actos para publicação\n\nOs actos sujeitos a publicação no Diário da República devem ser transmitidos por via electrónica e obedecer:\n\na) Às exigências de fiabilidade e segurança da assinatura electrónica qualificada, aplicáveis no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas;\n\nb) Aos requisitos técnicos de preenchimento de formulários electrónicos expressamente concebidos para disciplinar o envio de actos.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653228": {
+   "fragment_id": "160585699",
+   "type": 11,
+   "heading": "Artigo 9.º — Outros conteúdos",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 9.º — Outros conteúdos\n\n1 - Para além da edição electrónica do Diário da República, o sítio na Internet referido no n.º 2 do artigo 2.º disponibiliza ainda, mediante pagamento, um serviço de acesso à base de dados jurídica DIGESTO, que compreende:\n\na) A consulta de referências dos actos publicados no Diário da República;\n\nb) Informação jurídica devidamente tratada e sistematizada;\n\nc) Interligação com bases sectoriais de informação jurídica complementar, designadamente jurisprudência, direito comunitário, orientações administrativas e doutrina.\n\n2 - O sítio na Internet referido no n.º 2 do artigo 2.º deve identificar todos os sítios da Internet destinados à publicitação oficial sectorial ou especializada de determinadas categorias de actos sujeitos a divulgação obrigatória.\n\n3 - Os conteúdos referidos nos números anteriores são estabelecidos por despacho do membro do Governo responsável pela edição do Diário da República.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653229": {
+   "fragment_id": "160585700",
+   "type": 11,
+   "heading": "Artigo 10.º — Preço",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 10.º — Preço\n\n1 - Os critérios de definição do preço da assinatura do serviço não gratuito referido no artigo anterior são estabelecidos por despacho conjunto do membro do Governo responsável pela edição do Diário da República e pelo membro do Governo que exerce a tutela financeira sobre a Imprensa Nacional-Casa da Moeda, S. A.\n\n2 - O despacho referido no número anterior estabelece ainda os critérios para a repartição dos encargos e das receitas entre as entidades e os serviços intervenientes na elaboração, no suporte tecnológico e na edição dos conteúdos aí referidos.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653230": {
+   "fragment_id": "160585701",
+   "type": 11,
+   "heading": "Artigo 11.º — Extinção da 3.ª série",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 11.º — Extinção da 3.ª série\n\nOs actos actualmente publicados na 3.ª série do Diário da República são objecto de publicação na 2.ª série do Diário da República.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653231": {
+   "fragment_id": "160585702",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento do serviço público",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 12.º — Funcionamento do serviço público\n\n1 - O serviço público referido no artigo 1.º do presente decreto-lei entra em funcionamento a partir de 1 de Julho de 2006, sem prejuízo do disposto no número seguinte.\n\n2 - O serviço referido nos artigos 9.º e 10.º entra em funcionamento a partir de 15 de Setembro de 2006.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653232": {
+   "fragment_id": "160585703",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime transitório",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 13.º — Regime transitório\n\nOs contratos de assinatura do Diário da República, tanto na edição em papel como na edição electrónica, são assegurados até 31 de Dezembro de 2006, sem prejuízo da entrada em vigor, a partir de 15 de Setembro de 2006, do serviço referido no artigo 9.º\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653233": {
+   "fragment_id": "160585704",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamentação",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 14.º — Regulamentação\n\n1 - O despacho referido no n.º 3 do artigo 6.º é publicado até 30 de Junho de 2006.\n\n2 - Os despachos referidos nos n.os 3 do artigo 9.º e 1 do artigo 10.º são publicados até 15 de Setembro de 2006.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653234": {
+   "fragment_id": "160585705",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 391/93, de 23 de Novembro;\n\nb) O Decreto n.º 137, de 17 de Setembro de 1913;\n\nc) O Decreto n.º 365/70, de 5 de Agosto.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  },
+  "919653235": {
+   "fragment_id": "160585706",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa.\n\nPromulgado em 8 de Junho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 12 de Junho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 83/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771), em vigor a partir de 2016-12-17"
+  }
+ }
+}

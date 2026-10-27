@@ -1,0 +1,414 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:406293:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-223313077",
+ "dre_path": "/dr/detalhe/lei/33-1996-406293",
+ "source_lastmod": "2026-07-29",
+ "versions": [
+  {
+   "date": "1996-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "223313010",
+    "223313011",
+    "223313012",
+    "223313013",
+    "223313014",
+    "223313015",
+    "223313016",
+    "223313017",
+    "223313018",
+    "223313019",
+    "223313020",
+    "223313021",
+    "223313022",
+    "223313023",
+    "223313024",
+    "223313025",
+    "223313026",
+    "223313027",
+    "223313028",
+    "223313029",
+    "223313030",
+    "223313031",
+    "223313032",
+    "223313033",
+    "223313034",
+    "223313035",
+    "223313036",
+    "223313037",
+    "223313038",
+    "223313039"
+   ]
+  },
+  {
+   "date": "2009-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490450:por",
+     "title": "Decreto-Lei n.º 254/2009",
+     "published": "2009-09-24",
+     "dre_path": "/dr/detalhe/decreto-lei/254-2009-490450"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "223313010",
+    "223313011",
+    "223313012",
+    "223313013",
+    "223313014",
+    "223313015",
+    "223313016",
+    "223313017",
+    "223313018",
+    "223313041",
+    "223313020",
+    "223313021",
+    "223313022",
+    "223313023",
+    "223313024",
+    "223313025",
+    "223313026",
+    "223313027",
+    "223313028",
+    "223313029",
+    "223313030",
+    "223313031",
+    "223313032",
+    "223313033",
+    "223313034",
+    "223313035",
+    "223313036",
+    "223313037",
+    "223313038",
+    "223313039",
+    "223313040"
+   ]
+  },
+  {
+   "date": "2012-03-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553442:por",
+     "title": "Lei n.º 12/2012",
+     "published": "2012-03-13",
+     "dre_path": "/dr/detalhe/lei/12-2012-553442"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "223313010",
+    "223313011",
+    "223313012",
+    "223313013",
+    "223313014",
+    "223313015",
+    "223313016",
+    "223313017",
+    "223313018",
+    "1153222075",
+    "223313020",
+    "223313021",
+    "223313022",
+    "223313023",
+    "223313024",
+    "223313025",
+    "223313026",
+    "223313027",
+    "223313028",
+    "223313029",
+    "223313030",
+    "223313031",
+    "223313032",
+    "223313033",
+    "223313034",
+    "223313035",
+    "223313036",
+    "223313037",
+    "223313038",
+    "223313039",
+    "223313040"
+   ]
+  }
+ ],
+ "fragments": {
+  "223313010": {
+   "fragment_id": "223313078",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 33/96\n\nde 17 de Agosto\n\nLei de Bases da Política Florestal\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição o seguinte:"
+  },
+  "223313011": {
+   "fragment_id": "223313079",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, princípios e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto, princípios e objectivos"
+  },
+  "223313012": {
+   "fragment_id": "223313080",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei define as bases da política florestal nacional.\n\n2 - A política florestal nacional, fundamental ao desenvolvimento e fortalecimento das instituições e programas para a gestão, conservação e desenvolvimento sustentável das florestas e sistemas naturais associados, visa a satisfação das necessidades da comunidade, num quadro de ordenamento do território."
+  },
+  "223313013": {
+   "fragment_id": "223313081",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios gerais\n\n1 - A política florestal nacional obedece aos seguintes princípios gerais:\n\na) A floresta, pela diversidade e natureza dos bens e serviços que proporciona, é reconhecida como um recurso natural renovável, essencial à manutenção de todas as formas de vida, cabendo a todos os cidadãos a responsabilidade de a conservar e proteger;\n\nb) O uso e a gestão da floresta devem ser levados a cabo de acordo com políticas e prioridades de desenvolvimento nacionais, harmonizadas com as orientações internacionalmente aceites e articuladas com as políticas sectoriais de âmbito agrícola, industrial, ambiental, fiscal e de ordenamento do território;\n\nc) Os recursos da floresta e dos sistemas naturais associados devem ser geridos de modo sustentável para responder às necessidades das gerações presentes e futuras, num quadro de desenvolvimento rural integrado;\n\nd) Os detentores de áreas florestais são responsáveis pela execução de práticas de silvicultura e gestão, de acordo com normas reguladoras da fruição dos recursos da floresta.\n\n2 - A exploração, conservação, reconversão e expansão da floresta são de interesse público, sem prejuízo do regime jurídico da propriedade.\n\n3 - Cabe ao Estado definir normas reguladoras da fruição dos recursos naturais, em harmonia e com a participação activa de todas as entidades produtoras e utilizadoras dos bens e serviços da floresta e dos sistemas naturais associados."
+  },
+  "223313014": {
+   "fragment_id": "223313082",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nOs princípios gerais constantes do artigo anterior implicam a observância dos seguintes princípios orientadores:\n\na) Da produção: as políticas tendentes ao aumento da produção, para além da expansão da área florestal, devem contemplar o aumento da produtividade dos espaços florestais, na óptica do uso múltiplo dos recursos e da sua sustentabilidade;\n\nb) Da conservação: as intervenções silvícolas devem respeitar a manutenção da floresta enquanto recurso indissociável de outros recursos naturais como a água, o solo, o ar, a fauna e a flora, tendo em vista a sua contribuição para a estabilização da fixação do dióxido de carbono e como repositório de diversidade biológica e genética;\n\nc) Da concertação estratégica: a participação dos diferentes grupos sociais, profissionais e sócio-económicos na definição e concretização da política florestal deve ser promovida e dinamizada pelos órgãos competentes da administração central, regional e local;\n\nd) Da responsabilização social: os cidadãos devem participar no estabelecimento dos objectivos da política de desenvolvimento florestal, no respeito pelos valores económicos, sociais, ambientais e culturais da floresta e sistemas naturais associados;\n\ne) Da intervenção e mediação: a entidade responsável pela execução da política florestal deve normalizar, fiscalizar e informar a actividade dos agentes interventores, bem como compatibilizar os diversos interesses em presença e arbitrar os conflitos resultantes da sua aplicação;\n\nf) Da criação do conhecimento: o conhecimento gerado pela intervenção científica constitui um elemento estratégico para a tomada de decisões sobre o planeamento da actividade florestal;\n\ng) Da cooperação internacional: a gestão, conservação e desenvolvimento sustentável dos recursos da floresta exigem a procura de soluções concertadas com outros países e organizações internacionais, no respeito pelo direito soberano de cada Estado em explorar os próprios recursos de acordo com as suas políticas de desenvolvimento e de ambiente."
+  },
+  "223313015": {
+   "fragment_id": "223313083",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos da política florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos da política florestal\n\nA política florestal nacional prossegue os seguintes objectivos:\n\na) Promover e garantir um desenvolvimento sustentável dos espaços florestais e do conjunto das actividades da fileira florestal;\n\nb) Promover e garantir o acesso à utilização social da floresta, promovendo a harmonização das múltiplas funções que ela desempenha e salvaguardando os seus aspectos paisagísticos, recreativos, científicos e culturais;\n\nc) Assegurar a melhoria do rendimento global dos agricultores, produtores e utilizadores dos sistemas florestais, como contributo para o equilíbrio sócio-económico do mundo rural;\n\nd) Optimizar a utilização do potencial produtivo de bens e serviços da floresta e dos sistemas naturais associados, no respeito pelos seus valores multifuncionais;\n\ne) Promover a gestão do património florestal nacional, nomeadamente através do ordenamento das explorações florestais e da dinamização e apoio ao associativismo;\n\nf) Assegurar o papel fundamental da floresta na regularização dos recursos hídricos, na conservação do solo e da qualidade do ar e no combate à erosão e à desertificação física e humana;\n\ng) Garantir a protecção das formações florestais de especial importância ecológica e sensibilidade, nomeadamente os ecossistemas frágeis de montanha, os sistemas dunares, os montados de sobro e azinho e as formações ripícolas e das zonas marginais dulçaquícolas;\n\nh) Assegurar a protecção da floresta contra agentes bióticos e abióticos, nomeadamente contra os incêndios;\n\ni) Incentivar e promover a investigação científica e tecnológica no domínio florestal."
+  },
+  "223313016": {
+   "fragment_id": "223313084",
+   "type": 1,
+   "heading": "Capítulo II — Medidas de política florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Medidas de política florestal"
+  },
+  "223313017": {
+   "fragment_id": "223313085",
+   "type": 11,
+   "heading": "Artigo 5.º — Ordenamento e gestão florestal - Planos regionais de ordenamento florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ordenamento e gestão florestal - Planos regionais de ordenamento florestal\n\n1 - A organização dos espaços florestais faz-se, em cada região, através de planos de ordenamento florestal, numa óptica de uso múltiplo e de forma articulada com os planos regionais e locais de ordenamento do território.\n\n2 - Os planos regionais de ordenamento florestal (PROF) são elaborados pelo organismo público legalmente competente em colaboração com os detentores das áreas abrangidas, submetidos à apreciação pública e aprovados pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n3 - Os PROF devem contemplar:\n\na) A avaliação das potencialidades dos espaços florestais, do ponto de vista dos seus usos dominantes;\n\nb) A definição do elenco das espécies a privilegiar nas acções de expansão ou reconversão do património florestal;\n\nc) A identificação dos modelos gerais de silvicultura e de gestão de recursos mais adequados;\n\nd) A definição das áreas críticas do ponto de vista do risco de incêndio, da sensibilidade à erosão e da importância ecológica, social e cultural, bem como das normas específicas de silvicultura e de utilização sustentada de recursos a aplicar nestes espaços.\n\n4 - A gestão das explorações florestais deve ser efectuada de acordo com as normas de silvicultura definidas nos PROF.\n\n5 - Nas matas públicas e comunitárias, bem como nas matas privadas acima de uma dimensão a definir nos planos regionais de ordenamento florestal, as intervenções silvícolas de qualquer natureza devem realizar-se de acordo com um plano de gestão florestal a submeter à aprovação da autoridade florestal nacional."
+  },
+  "223313018": {
+   "fragment_id": "223313086",
+   "type": 11,
+   "heading": "Artigo 6.º — Ordenamento das matas e planos de gestão florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ordenamento das matas e planos de gestão florestal\n\n1 - O plano de gestão florestal (PGF) é o instrumento básico de ordenamento florestal das explorações, que regula as intervenções de natureza cultural e ou de exploração e visa a produção sustentada dos bens ou serviços originados em espaços florestais, determinada por condições de natureza económica, social e ecológica.\n\n2 - Os PROF definirão a área das explorações florestais a partir da qual estas serão obrigatoriamente sujeitas a um PGF, a elaborar pelos proprietários segundo normas definidas pelo organismo público legalmente competente.\n\n3 - Na elaboração dos PGF deve atender-se ao PROF da respectiva região, designadamente às suas opções de natureza social ou ecológica, sendo as opções de natureza económica livremente estabelecidas pelos proprietários.\n\n4 - Sempre que os proprietários ou outros detentores das áreas florestais não efectuarem as operações silvícolas mínimas a que estão obrigados pelo respectivo PGF, pode o organismo público legalmente competente, em termos a regulamentar, executar as operações em causa, sub-rogando-se ao respectivo proprietário pelo prazo necessário à realização das mesmas."
+  },
+  "223313019": {
+   "fragment_id": "223313087",
+   "type": 11,
+   "heading": "Artigo 7.º — Explorações não sujeitas a PGF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Explorações não sujeitas a PGF\n\n1 - As explorações florestais de área inferior à definida nos PROF como mínima obrigatória a ser submetida a um PGF, ficam sujeitas às normas constantes dos PROF.\n\n2 - As explorações florestais ficam obrigadas a declarar com antecedência a natureza e dimensão dos cortes que pretendam realizar.\n\n3 - As intervenções a que se refere o n.º 2 ficam sujeitas a aprovação do organismo público legalmente competente, desde que incidam numa área igual ou superior ao valor a definir em diploma regulamentar."
+  },
+  "223313020": {
+   "fragment_id": "223313088",
+   "type": 11,
+   "heading": "Artigo 8.º — Reestruturação fundiária e das explorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reestruturação fundiária e das explorações\n\nCompete ao Estado:\n\na) Dinamizar a constituição de explorações florestais com dimensão que possibilite ganhos de eficiência na sua gestão, através de incentivos fiscais e financeiros ao agrupamento de explorações, ao emparcelamento de propriedades e à desincentivação do seu fraccionamento;\n\nb) Fixar, em casos devidamente fundamentados e em função dos objectivos da política florestal, limites máximos da área florestal na posse de uma única entidade;\n\nc) Ampliar o património florestal público, tanto em áreas produtivas para a exploração económico-social como em áreas sensíveis, com vista a privilegiar o factor protecção;\n\nd) Promover, em áreas percorridas por incêndios de grandes dimensões, a constituição de unidades de exploração, designadamente de gestão mista, de modo a garantir uma rearborização adequada e a sua futura gestão em condições adequadas do ponto de vista silvícola;\n\ne) Apoiar as formas de associativismo que prossigam os objectivos fixados nos números anteriores;\n\nf) Dinamizar e apoiar a constituição de assembleias de compartes e respectivos conselhos directivos e cooperar na elaboração de planos integrados de utilização dos baldios."
+  },
+  "223313021": {
+   "fragment_id": "223313089",
+   "type": 11,
+   "heading": "Artigo 9.º — Fomento florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fomento florestal\n\n1 - O Estado, através da criação de instrumentos financeiros, apoia as iniciativas de fomento florestal com um horizonte temporal adequado a investimentos desta natureza, que tenham por objectivo:\n\na) A valorização e expansão do património florestal;\n\nb) A melhoria geral dos materiais florestais de reprodução;\n\nc) A construção de infra-estruturas de apoio e defesa das explorações;\n\nd) Acções de formação profissional e assistência técnica a todos os agentes que intervêm no sector produtivo florestal.\n\n2 - É criado um órgão de recurso dos actos da Administração Pública, relativos a decisões sobre projectos de arborização e planos de gestão florestal, presidido pela autoridade florestal nacional."
+  },
+  "223313022": {
+   "fragment_id": "223313090",
+   "type": 11,
+   "heading": "Artigo 10.º — Conservação e protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conservação e protecção\n\n1 - Compete ao Estado definir as acções adequadas à protecção das florestas contra agentes bióticos e abióticos, à conservação dos recursos genéticos e à protecção dos ecossistemas frágeis, raros ou ameaçados e promover a sua divulgação e concretização.\n\n2 - Para a prossecução das acções definidas no número anterior, importa:\n\na) Promover e apoiar as iniciativas tendentes à conservação dos espaços florestais, nomeadamente através de intervenções que garantam a sustentabilidade dos seus recursos;\n\nb) Considerar os montados de sobro e azinho, enquanto parte de sistemas agrários de particular valia sócio-económica e ambiental, como objecto de um plano específico de conservação e desenvolvimento;\n\nc) Manter informação actualizada sobre o estado sanitário e a vitalidade dos povoamentos florestais;\n\nd) Instituir uma estrutura nacional, regional e sub-regional com funções de planeamento e coordenação das acções de prevenção e detecção e de colaboração no combate aos incêndios florestais;\n\ne) Incentivar a participação activa das comunidades rurais, das associações representativas dos produtores e das autarquias no apoio a acções de prevenção, detecção e combate aos incêndios florestais;\n\nf) Promover a criação de um sistema de previsão do risco de incêndios florestais e de investigação das suas causas, com vista à tomada de medidas tendentes, quer à redução do seu número, quer da área afectada pelos mesmos.\n\n3 - São apoiadas as iniciativas que visem a educação e a sensibilização públicas para a importância da floresta, nomeadamente ao nível dos programas de ensino e dos agentes de opinião."
+  },
+  "223313023": {
+   "fragment_id": "223313091",
+   "type": 11,
+   "heading": "Artigo 11.º — Gestão dos recursos silvestres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gestão dos recursos silvestres\n\nA conservação, o fomento e a exploração dos recursos silvestres, nomeadamente cinegéticos, aquícolas e apícolas, associados ao património florestal, constituem actividades inerentes ao aproveitamento integrado e sustentável do meio rural.\n\nSem prejuízo dos regimes jurídicos aplicáveis a cada um dos recursos referidos no número anterior, devem ser promovidas e adoptadas as formas de gestão optimizadas, nomeadamente de carácter associativo, que conciliem a sua utilização económica e os equilíbrios ambientais."
+  },
+  "223313024": {
+   "fragment_id": "223313092",
+   "type": 1,
+   "heading": "Capítulo III — Instrumentos de política",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Instrumentos de política"
+  },
+  "223313025": {
+   "fragment_id": "223313093",
+   "type": 11,
+   "heading": "Artigo 12.º — Administração florestal - Autoridade florestal nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Administração florestal - Autoridade florestal nacional\n\n1 - O organismo público legalmente competente, investido nas funções de autoridade florestal nacional, colabora na definição da política florestal nacional e é responsável pelo sector florestal.\n\n2 - As atribuições e competências do organismo público referido no número anterior serão objecto de definição legal própria.\n\n3 - A gestão do património florestal sob jurisdição do Estado compete ao organismo público referido no n.º 1, directamente ou por outras formas que venham a revelar-se adequadas."
+  },
+  "223313026": {
+   "fragment_id": "223313094",
+   "type": 11,
+   "heading": "Artigo 13.º — Comissão interministerial para os assuntos da floresta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comissão interministerial para os assuntos da floresta\n\n1 - Com a finalidade de garantir uma efectiva articulação entre as diferentes políticas sectoriais com incidências no sector florestal, bem como avaliar as consequências das respectivas medidas de política na fileira florestal e nos seus agentes, é criada uma comissão interministerial.\n\n2 - Integram esta comissão, que é presidida pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, os ministérios cujas políticas interagem com o sector florestal."
+  },
+  "223313027": {
+   "fragment_id": "223313095",
+   "type": 11,
+   "heading": "Artigo 14.º — Conselho Consultivo Florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conselho Consultivo Florestal\n\n1 - O Conselho Consultivo Florestal é um órgão de consulta do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n2 - Ao Conselho Consultivo Florestal compete pronunciar-se sobre:\n\na) Medidas de política florestal e sua concretização;\n\nb) Medidas legislativas e regulamentadoras dos instrumentos de fomento, gestão e protecção dos sistemas florestais e das actividades a eles associadas;\n\nc) A aplicação, no quadro interno, da legislação comunitária mais relevante para a área florestal;\n\nd) O estabelecimento de limites à posse de áreas florestais previsto na alínea b) do artigo 8.º\n\n3 - O Conselho Consultivo Florestal pode propor ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas a adopção de medidas legislativas que considere necessárias ao desenvolvimento florestal do País.\n\n4 - O Conselho Consultivo Florestal é ainda consultado sobre todas as questões sobre as quais o Governo considere útil ouvir o Conselho."
+  },
+  "223313028": {
+   "fragment_id": "223313096",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição e funcionamento do Conselho Consultivo Florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição e funcionamento do Conselho Consultivo Florestal\n\n1 - O Conselho Consultivo Florestal é constituído, nomeadamente, por representantes da Administração Pública, das autarquias locais, das associações de produtores florestais, do comércio e das indústrias florestais, dos baldios, das confederações agrícolas e sindicais e dos jovens agricultores, das associações de defesa do ambiente e das instituições de ensino e de investigacão florestal.\n\n2 - O Conselho Consultivo Florestal é convocado e presidido pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e funcionará nos termos a definir em regulamentação específica."
+  },
+  "223313029": {
+   "fragment_id": "223313097",
+   "type": 11,
+   "heading": "Artigo 16.º — Investigação florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Investigação florestal\n\n1 - As instituições de investigação florestal devem privilegiar as acções de investigação que reforcem a capacidade de intervenção sustentada do sector florestal e assegurar a transmissão do conhecimento gerado.\n\n2 - A descentralização das estruturas de investigação florestal e a criação de unidades de experimentação e demonstração a nível regional devem ser promovidas pelo Estado, de forma articulada com as instituições de ensino, os serviços de natureza operativa e os agentes da fileira florestal, visando o reforço da capacidade interventiva a nível regional.\n\n3 - O Estado deve promover e apoiar a participação e responsabilização dos agentes da fileira na definição e execução de projectos de investigação, experimentação e desenvolvimento, por forma a dotá-los de objectivos mais relevantes e capazes de melhor tipificar as lacunas de conhecimento necessário ao desenvolvimento florestal do País."
+  },
+  "223313030": {
+   "fragment_id": "223313098",
+   "type": 11,
+   "heading": "Artigo 17.º — Organizações dos produtores florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Organizações dos produtores florestais\n\n1 - As organizações dos produtores florestais asseguram a representatividade do sector produtivo privado no acompanhamento das medidas decorrentes da política florestal nacional.\n\n2 - A criação e reforço técnico de organizações de produtores florestais é estimulada através de incentivos de natureza diversa."
+  },
+  "223313031": {
+   "fragment_id": "223313099",
+   "type": 1,
+   "heading": "Capítulo IV — Instrumentos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Instrumentos financeiros"
+  },
+  "223313032": {
+   "fragment_id": "223313100",
+   "type": 11,
+   "heading": "Artigo 18.º — Fundo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fundo financeiro\n\n1 - Compete ao Estado a criação de um fundo financeiro de carácter permanente, destinado a:\n\na) Apoiar as medidas de fomento a que se refere o artigo 9.º\n\nb) Financiar projectos de rearborização de áreas afectadas por incêndios;\n\nc) Ressarcir economicamente os proprietários de ecossistemas sensíveis pelos prejuízos que advenham de restrições impostas pela necessidade da sua conservação;\n\nd) Financiar acções de investigação específicas, privilegiando a forma de contratos-programas;\n\ne) Instituir um sistema bonificado de crédito florestal, destinado, nomeadamente:\n\n1) À viabilização das intervenções silvícolas de resultados líquidos imediatos negativos;\n\n2) Ao pagamento de tornas a herdeiros em acções de emparcelamento florestal;\n\n3) Às acções de emparcelamento florestal de vizinhos confinantes.\n\n2 - A criação do fundo referido no número anterior, a origem das respectivas receitas, bem como a sua gestão, serão objecto de regulamentação específica."
+  },
+  "223313033": {
+   "fragment_id": "223313101",
+   "type": 11,
+   "heading": "Artigo 19.º — Incentivos fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Incentivos fiscais\n\nSerão objecto de incentivos fiscais as acções com vista a estimular:\n\na) O associativismo das explorações florestais;\n\nb) As acções de emparcelamento florestal;\n\nc) As acções tendentes a evitar o fraccionamento da propriedade florestal;\n\nd) O autofinanciamento do investimento florestal, nomeadamente no domínio da prevenção activa dos incêndios florestais."
+  },
+  "223313034": {
+   "fragment_id": "223313102",
+   "type": 11,
+   "heading": "Artigo 20.º — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Seguros\n\n1 - É instituído um sistema de seguros florestais, de custo acessível, nomeadamente um seguro obrigatório de arborização para todas as áreas florestais que sejam objecto de financiamento público.\n\n2 - Este seguro obrigatório deve ser gradualmente estendido a todas as arborizações.\n\n3 - O seguro obrigatório de arborização destina-se a garantir os meios financeiros necessários à reposição da área florestada em caso de insucesso acidental ou de destruição do povoamento."
+  },
+  "223313035": {
+   "fragment_id": "223313103",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "223313036": {
+   "fragment_id": "223313104",
+   "type": 11,
+   "heading": "Artigo 21.º — Acções com carácter prioritário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acções com carácter prioritário\n\nSão de carácter prioritário as seguintes acções de emergência, a desenvolver pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:\n\na) Reforço e estruturação dos processos de prevenção, vigilância e de apoio ao combate aos fogos florestais;\n\nb) Definição e implementação de normas técnicas relativas à estrutura e composição dos povoamentos e à rede de infra-estruturas nos espaços florestais, com vista à minimização dos riscos de incêndio;\n\nc) Reforço e expansão do corpo especializado de sapadores florestais;\n\nd) Reforço, valorização profissional e dignificação do corpo de guardas e mestres florestais;\n\ne) Diagnóstico do estado sanitário dos principais sistemas agro-florestais, promoção dos estudos e investigação para apuramento das respectivas causas e adopção das medidas profiláticas adequadas;\n\nf) Adopção de todas as medidas tendentes à realização do cadastro da propriedade florestal;\n\ng) Definição e introdução de normas de ordenamento de práticas culturais que favoreçam a recuperação dos sistemas agro-florestais e assegurem a sua vitalidade;\n\nh) Identificação de ecossistemas de grande importância e sensibilidade ecológica, designadamente sistemas dunares e de montanha, zonas em risco de desertificação, endemismos e montados de sobro e azinho;\n\ni) Aplicação de medidas de protecção e recuperação, com vista a garantir a especificidade da função ecológica dos ecossistemas, manutenção ou melhoramento do seu património genético, aumento da produtividade e rentabilidade dos sistemas produtivos e melhoria da qualidade dos produtos, designadamente da cortiça;\n\nj) Identificação das áreas mais carenciadas de estudo, investigação aplicada, experimentação e divulgação e promoção da coordenação entre as várias entidades com atribuições ou interesses neste domínio, designadamente do organismo público competente em matéria florestal, do Instituto Nacional do Ambiente e das entidades com competência em matéria de ordenamento do território, institutos de investigação, universidades, empresas e organizações de produtores;\n\nl) Elaboração de normas regionais de silvicultura a integrar nos PROF e nos PGF, que determinem as diferentes e mais adequadas aptidões ecológicas e reflictam os princípios de uso múltiplo, da utilização social, da biodiversidade e do desenvolvimento sustentado da floresta;\n\nm) Fomento e apoio das organizações dos produtores florestais;\n\nn) Promoção, a todos os níveis, de acções de sensibilização dos cidadãos, em particular dos jovens, para a importância da salvaguarda e valorização dos recursos florestais."
+  },
+  "223313037": {
+   "fragment_id": "223313105",
+   "type": 11,
+   "heading": "Artigo 22.º — Convenções e acordos internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Convenções e acordos internacionais\n\nA legislação que regulamentará a aplicação da presente lei terá em conta as convenções e acordos internacionais aceites e ratificados por Portugal e que tenham a ver com a questão florestal, bem como as normas e critérios aprovados multi ou bilateralmente entre Portugal e outros países."
+  },
+  "223313038": {
+   "fragment_id": "223313106",
+   "type": 11,
+   "heading": "Artigo 23.º — Legislação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Legislação complementar\n\nTodos os diplomas legais necessários à regulamentação do disposto no presente diploma serão obrigatoriamente publicados no prazo de um ano a partir da data da sua entrada em vigor."
+  },
+  "223313039": {
+   "fragment_id": "223313107",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\n1 - Na parte em que não necessite de regulamentação, esta lei entra imediatamente em vigor.\n\n2 - As disposições que estão sujeitas a regulamentação entrarão em vigor com os respectivos diplomas regulamentares, a publicar por decreto-lei."
+  },
+  "223313041": {
+   "fragment_id": "223313087",
+   "type": 11,
+   "heading": "Artigo 7.º — Explorações não sujeitas a PGF",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 254/2009 - Diário da República n.º 186/2009, Série I de 2009-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2009-490450), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Explorações não sujeitas a PGF\n\n1 - As explorações florestais de área inferior à definida nos PROF como mínima obrigatória a ser submetida a um PGF, ficam sujeitas às normas constantes dos PROF.\n\n2 - (Revogado).\n\n3 - (Revogado)\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 254/2009 - Diário da República n.º 186/2009, Série I de 2009-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2009-490450), em vigor a partir de 2009-12-23"
+  },
+  "223313040": {
+   "fragment_id": "223313108",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 12 de Julho de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 25 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 1 de Agosto de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1153222075": {
+   "fragment_id": "223313087",
+   "type": 11,
+   "heading": "Artigo 7.º — Explorações não sujeitas a PGF",
+   "in_force_from": "2012-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13](https://diariodarepublica.pt/dr/detalhe/lei/12-2012-553442), em vigor a partir de 2012-03-14, com efeitos a partir de 2009-12-23.",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 254/2009 - Diário da República n.º 186/2009, Série I de 2009-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2009-490450), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 7.º — Explorações não sujeitas a PGF\n\n1 - As explorações florestais de área inferior à definida nos PROF como mínima obrigatória a ser submetida a um PGF, ficam sujeitas às normas constantes dos PROF.\n\n2 - As explorações florestais ficam obrigadas a declarar com antecedência a natureza e dimensão dos cortes que pretendam realizar.\n\n3 - As intervenções a que se refere o n.º 2 ficam sujeitas a aprovação do organismo público legalmente competente, desde que incidam numa área igual ou superior ao valor a definir em diploma regulamentar.\n\n> Nota: [Artigo 3.º, Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13](https://diariodarepublica.pt/dr/detalhe/lei/12-2012-553442) São repristinados os n.ºs 2 e 3 do presente artigo, por força do disposto no n.º 2 do artigo 3.º da Lei n.º 12/2012, de 13 de março.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13](https://diariodarepublica.pt/dr/detalhe/lei/12-2012-553442), em vigor a partir de 2012-03-14, com efeitos a partir de 2009-12-23.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 254/2009 - Diário da República n.º 186/2009, Série I de 2009-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2009-490450), em vigor a partir de 2009-12-23"
+  }
+ }
+}

@@ -1,0 +1,476 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174841:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-962603447",
+ "dre_path": "/dr/detalhe/lei/52-2012-174841",
+ "source_lastmod": "2026-05-08",
+ "versions": [
+  {
+   "date": "2012-09-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "963052775",
+    "963052975",
+    "963053175",
+    "963053375",
+    "963053575",
+    "963053775",
+    "963053975",
+    "963054175",
+    "963054375",
+    "963054575",
+    "963054775",
+    "963054975",
+    "963055175",
+    "963055375",
+    "963055575",
+    "963055775",
+    "963055975",
+    "963056175",
+    "963056375",
+    "963056575",
+    "963056775",
+    "963056975",
+    "963057175",
+    "963057375",
+    "963057575",
+    "963057775",
+    "963057975",
+    "963058175",
+    "963058375",
+    "963058575",
+    "963058775",
+    "963058975",
+    "963059175",
+    "963059375",
+    "963059575",
+    "963059775",
+    "963059975",
+    "963060175",
+    "963060375",
+    "963060575",
+    "963060775",
+    "963060975",
+    "963061175"
+   ]
+  },
+  {
+   "date": "2026-05-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1114077532:por",
+     "title": "Lei n.º 19/2026",
+     "published": "2026-05-08",
+     "dre_path": "/dr/detalhe/lei/19-2026-1114077532"
+    }
+   ],
+   "changes": [
+    "Altera Base V"
+   ],
+   "fragments": [
+    "963052775",
+    "963052975",
+    "963053175",
+    "963053375",
+    "963053575",
+    "963053775",
+    "963053975",
+    "963054175",
+    "1118512575",
+    "963054575",
+    "963054775",
+    "963054975",
+    "963055175",
+    "963055375",
+    "963055575",
+    "963055775",
+    "963055975",
+    "963056175",
+    "963056375",
+    "963056575",
+    "963056775",
+    "963056975",
+    "963057175",
+    "963057375",
+    "963057575",
+    "963057775",
+    "963057975",
+    "963058175",
+    "963058375",
+    "963058575",
+    "963058775",
+    "963058975",
+    "963059175",
+    "963059375",
+    "963059575",
+    "963059775",
+    "963059975",
+    "963060175",
+    "963060375",
+    "963060575",
+    "963060775",
+    "963060975",
+    "963061175"
+   ]
+  }
+ ],
+ "fragments": {
+  "963052775": {
+   "fragment_id": "963052675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei de Bases dos Cuidados Paliativos\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "963052975": {
+   "fragment_id": "963052875",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "963053175": {
+   "fragment_id": "963053075",
+   "type": 2,
+   "heading": "Base I — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I — Âmbito\n\nA presente lei consagra o direito e regula o acesso dos cidadãos aos cuidados paliativos, define a responsabilidade do Estado em matéria de cuidados paliativos e cria a Rede Nacional de Cuidados Paliativos (RNCP), a funcionar sob tutela do Ministério da Saúde."
+  },
+  "963053375": {
+   "fragment_id": "963053275",
+   "type": 2,
+   "heading": "Base II — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Conceitos\n\nPara efeitos da presente lei, entende-se por:\n\na) «Cuidados paliativos» os cuidados ativos, coordenados e globais, prestados por unidades e equipas específicas, em internamento ou no domicílio, a doentes em situação em sofrimento decorrente de doença incurável ou grave, em fase avançada e progressiva, assim como às suas famílias, com o principal objetivo de promover o seu bem-estar e a sua qualidade de vida, através da prevenção e alívio do sofrimento físico, psicológico, social e espiritual, com base na identificação precoce e do tratamento rigoroso da dor e outros problemas físicos, mas também psicossociais e espirituais;\n\nb) «Ações paliativas» as medidas terapêuticas sem intuito curativo, isoladas e praticadas por profissionais sem preparação específica, que visam minorar, em internamento ou no domicílio, as repercussões negativas da doença sobre o bem-estar global do doente, nomeadamente em situação de doença incurável ou grave, em fase avançada e progressiva;\n\nc) «Continuidade dos cuidados» a sequencialidade, no tempo e nos serviços da RNCP, e fora desta, das intervenções integradas de saúde e de apoio psicossocial e espiritual;\n\nd) «Obstinação diagnóstica e terapêutica» os procedimentos diagnósticos e terapêuticos que são desproporcionados e fúteis, no contexto global de cada doente, sem que daí advenha qualquer benefício para o mesmo, e que podem, por si próprios, causar sofrimento acrescido;\n\ne) «Família» a pessoa ou pessoas designadas pelo doente ou, em caso de menores ou pessoas sem capacidade de decisão, pelo seu representante legal, com quem o doente tem uma relação próxima, podendo ter ou não laços de parentesco com o doente;\n\nf) «Integração de cuidados» a conjugação das intervenções de saúde e de apoio psicossocial e espiritual, assente numa avaliação e planeamento de intervenção conjuntos;\n\ng) «Multidisciplinaridade» a complementaridade de atuação entre diferentes especialidades profissionais;\n\nh) «Interdisciplinaridade» a definição e assunção de objetivos comuns, orientadores das atuações, entre os profissionais da equipa de prestação de cuidados;\n\ni) «Dependência» a situação em que se encontra a pessoa que, por falta ou perda de autonomia física, psíquica ou intelectual, resultante ou agravada por doença crónica, demência orgânica, sequelas pós-traumáticas, deficiência, doença incurável e ou grave em fase avançada, ausência ou escassez de apoio familiar ou de outra natureza, não consegue, por si só, realizar as atividades da vida diária;\n\nj) «Domicílio» a residência particular, o estabelecimento ou a instituição onde habitualmente reside a pessoa que necessita de cuidados paliativos;\n\nk) «Cuidados continuados de saúde» o conjunto de intervenções sequenciais de saúde e ou de apoio social, decorrente de avaliação conjunta, centrado na recuperação global entendida como o processo terapêutico e de apoio social, ativo e contínuo, que visa promover a autonomia melhorando a funcionalidade da pessoa em situação de dependência, através da sua reabilitação, readaptação e reinserção familiar e social;\n\nl) «Prestadores informais» aqueles que, tendo ou não laços de parentesco com o doente, se responsabilizam e asseguram a prestação de cuidados básicos regulares e não especializados, ditos informais."
+  },
+  "963053575": {
+   "fragment_id": "963053475",
+   "type": 1,
+   "heading": "Capítulo II — Cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Cuidados paliativos"
+  },
+  "963053775": {
+   "fragment_id": "963053675",
+   "type": 2,
+   "heading": "Base III — Cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base III — Cuidados paliativos\n\n1 - Os cuidados paliativos centram-se na prevenção e alívio do sofrimento físico, psicológico, social e espiritual, na melhoria do bem-estar e no apoio aos doentes e às suas famílias, quando associado a doença grave ou incurável, em fase avançada e progressiva.\n\n2 - Os cuidados paliativos devem respeitar a autonomia, a vontade, a individualidade, a dignidade da pessoa e a inviolabilidade da vida humana."
+  },
+  "963053975": {
+   "fragment_id": "963053875",
+   "type": 2,
+   "heading": "Base IV — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IV — Princípios\n\nOs cuidados paliativos regem-se pelos seguintes princípios:\n\na) Afirmação da vida e do valor intrínseco de cada pessoa, considerando a morte como processo natural que não deve ser prolongado através de obstinação terapêutica;\n\nb) Aumento da qualidade de vida do doente e sua família;\n\nc) Prestação individualizada, humanizada, tecnicamente rigorosa, de cuidados paliativos aos doentes que necessitem deste tipo de cuidados;\n\nd) Multidisciplinaridade e interdisciplinaridade na prestação de cuidados paliativos;\n\ne) Conhecimento diferenciado da dor e dos demais sintomas;\n\nf) Consideração pelas necessidades individuais dos pacientes;\n\ng) Respeito pelos valores, crenças e práticas pessoais, culturais e religiosas;\n\nh) Continuidade de cuidados ao longo da doença."
+  },
+  "963054175": {
+   "fragment_id": "963054075",
+   "type": 1,
+   "heading": "Capítulo III — Direitos, deveres e responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Direitos, deveres e responsabilidades"
+  },
+  "963054375": {
+   "fragment_id": "963054275",
+   "type": 2,
+   "heading": "Base V — Direitos dos doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base V — Direitos dos doentes\n\n1 - O doente tem direito a:\n\na) Receber cuidados paliativos adequados à complexidade da situação e às necessidades da pessoa, incluindo a prevenção e o alivio da dor e de outros sintomas;\n\nb) Escolher o local de prestação de cuidados paliativos e os profissionais, exceto em casos urgentes, nos termos dos princípios gerais da Lei de Bases da Saúde;\n\nc) Fazer-se acompanhar, nos termos da lei;\n\nd) Ser informado sobre o seu estado clínico, se for essa a sua vontade;\n\ne) Participar nas decisões sobre cuidados paliativos que lhe são prestados, nomeadamente para efeitos de determinação de condições, limites ou interrupção dos tratamentos;\n\nf) Ver garantidas a sua privacidade e a confidencialidade dos dados pessoais;\n\ng) Receber informação objetiva e rigorosa sobre condições de internamento.\n\n2 - Nenhum cidadão pode ser prejudicado ou discriminado em função da sua situação económica, área de residência ou patologia, nos termos gerais da Lei de Bases da Saúde.\n\n3 - Os menores e maiores sem capacidade de decisão não podem tomar, sozinhos, decisões relativas aos cuidados paliativos.\n\n4 - As crianças, os adolescentes e as pessoas incapacitadas sob tutela têm o direito de expressar a sua vontade e essa vontade deve ser considerada pelo médico."
+  },
+  "963054575": {
+   "fragment_id": "963054475",
+   "type": 2,
+   "heading": "Base VI — Direitos das famílias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VI — Direitos das famílias\n\nAs famílias ou representantes legais dos doentes têm direito a:\n\na) Receber apoio adequado à sua situação e necessidades, incluindo a facilitação do processo do luto;\n\nb) Participar na escolha do local da prestação de cuidados paliativos e dos profissionais, exceto em casos urgentes, nos termos dos princípios gerais da Lei de Bases da Saúde;\n\nc) Receber informação sobre o estado clínico do doente, se for essa a vontade do mesmo;\n\nd) Participar nas decisões sobre cuidados paliativos que serão prestados ao doente e à família, nos termos da presente lei;\n\ne) Receber informação objetiva e rigorosa sobre condições de internamento."
+  },
+  "963054775": {
+   "fragment_id": "963054675",
+   "type": 2,
+   "heading": "Base VII — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VII — Deveres\n\n1 - O doente ou o seu representante legal tem o dever de:\n\na) Fornecer aos profissionais de saúde todas as informações necessárias para obtenção de diagnóstico correto e tratamento adequado;\n\nb) Respeitar os direitos dos outros doentes;\n\nc) Colaborar com os profissionais de saúde, respeitando as indicações que lhe são dadas e livremente aceites;\n\nd) Respeitar as regras de funcionamento dos serviços de saúde com vista à garantia do bem comum;\n\ne) Utilizar os serviços de saúde de forma apropriada e colaborar ativamente na redução de gastos desnecessários.\n\n2 - As famílias têm o dever de colaborar com os serviços de saúde, tendo em conta o melhor interesse do doente e a eficiência dos cuidados prestados."
+  },
+  "963054975": {
+   "fragment_id": "963054875",
+   "type": 2,
+   "heading": "Base VIII — Responsabilidade do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VIII — Responsabilidade do Estado\n\n1 - Os cuidados paliativos são prestados por serviços e estabelecimentos do Serviço Nacional de Saúde (SNS), podendo, quando a resposta pública se revelar insuficiente, ser também assegurados por entidades do setor social ou privado, certificados nos termos da lei.\n\n2 - Cabe ao Ministério da Saúde, no âmbito dos cuidados paliativos:\n\na) Aprovar a política nacional de cuidados paliativos e os planos previstos na presente lei;\n\nb) Promover, acompanhar, fiscalizar, avaliar e responder pela execução da política nacional de cuidados paliativos;\n\nc) Assegurar a prestação de cuidados paliativos através de uma rede pública em regime de internamento e ambulatório, no âmbito do SNS, reforçando progressivamente o investimento em equipamentos e demais recursos materiais e humanos;\n\nd) Garantir a qualidade da prestação de cuidados paliativos;\n\ne) Contratualizar, no âmbito da RNCP, quando necessário e visando a máxima eficiência, a prestação de cuidados paliativos com entidades do setor social ou privado, assegurando a sua fiscalização e garantindo a efetiva cobertura em todo território nacional;\n\nf) Assegurar a atualização permanente dos profissionais e equipas;\n\ng) Facilitar o apoio psicológico aos cuidadores profissionais, numa lógica de prevenção do esgotamento e de redução dos riscos psicossociais;\n\nh) Facilitar o processo de luto nos doentes e familiares.\n\n3 - O Estado deve promover, enquadrar e incentivar o voluntariado que contribua para as finalidades da presente lei."
+  },
+  "963055175": {
+   "fragment_id": "963055075",
+   "type": 1,
+   "heading": "Capítulo IV — Rede Nacional de Cuidados Paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Rede Nacional de Cuidados Paliativos"
+  },
+  "963055375": {
+   "fragment_id": "963055275",
+   "type": 2,
+   "heading": "Base IX — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IX — Objetivos\n\n1 - Constitui objetivo global da RNCP a prestação de cuidados paliativos a pessoas doentes que, independentemente da idade e patologia, estejam numa situação de sofrimento decorrente de doença grave ou incurável, com prognóstico limitado e em fase avançada e progressiva.\n\n2 - Constituem objetivos específicos da RNCP:\n\na) A melhoria das condições de vida e de bem-estar das pessoas em situação de sofrimento, através da prestação de cuidados paliativos;\n\nb) O apoio, acompanhamento e internamento tecnicamente adequados à respetiva situação;\n\nc) A melhoria contínua da qualidade na prestação de cuidados paliativos;\n\nd) O apoio aos familiares ou prestadores informais na respetiva qualificação e na prestação dos cuidados paliativos;\n\ne) A articulação e coordenação em rede dos cuidados em diferentes serviços, setores e níveis de diferenciação;\n\nf) O acesso atempado e equitativo dos doentes e suas famílias aos cuidados paliativos em todo o território nacional;\n\ng) A manutenção dos doentes no domicílio, desde que seja essa a vontade da pessoa doente, sempre que o apoio domiciliário possa garantir os cuidados paliativos necessários à manutenção de conforto e qualidade de vida;\n\nh) A antecipação das necessidades e planeamento das respostas em matéria de cuidados paliativos."
+  },
+  "963055575": {
+   "fragment_id": "963055475",
+   "type": 2,
+   "heading": "Base X — Modelo de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base X — Modelo de intervenção\n\n1 - A RNCP é uma rede funcional, integrada nos serviços do Ministério da Saúde, e baseia-se num modelo de intervenção integrada e articulada, que prevê diferentes tipos de unidades e de equipas para a prestação de cuidados paliativos, cooperando com outros recursos de saúde hospitalares, comunitários e domiciliários.\n\n2 - A prestação de cuidados paliativos organiza-se mediante modelos de gestão que garantam uma prestação de cuidados eficazes, oportunos e eficientes, visando a satisfação das pessoas numa lógica de otimização dos recursos locais e regionais, de acordo com a Lei de Bases da Saúde.\n\n3 - A intervenção em cuidados paliativos é baseada no plano individual de cuidados paliativos, elaborado e organizado pela equipa interdisciplinar em relação a cada doente."
+  },
+  "963055775": {
+   "fragment_id": "963055675",
+   "type": 2,
+   "heading": "Base XI — Coordenação da Rede Nacional Cuidados Paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XI — Coordenação da Rede Nacional Cuidados Paliativos\n\n1 - A coordenação da RNCP processa-se a nível nacional e em articulação operacional com as estruturas regionais e locais.\n\n2 - A coordenação da RNCP a nível nacional é assegurada pela Comissão Nacional de Cuidados Paliativos, a regulamentar pelo Ministério da Saúde.\n\n3 - A regulamentação referida no número anterior deve respeitar a obrigatoriedade de o presidente da RNCP ser um profissional de saúde com formação específica em cuidados paliativos.\n\n4 - A coordenação da RNCP a nível regional é assegurada no âmbito das Administrações Regionais de Saúde (ARS), em termos a regulamentar pelo Ministério da Saúde.\n\n5 - A regulamentação referida no número anterior deve prever a forma de representação das entidades do setor social ou privado, presentes na RNCP.\n\n6 - A operacionalização a nível local é determinada pelo Ministério da Saúde, sob proposta da Comissão Nacional de Cuidados Paliativos, ouvidas as estruturas regionais."
+  },
+  "963055975": {
+   "fragment_id": "963055875",
+   "type": 2,
+   "heading": "Base XII — Competências da Comissão Nacional de Cuidados Paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XII — Competências da Comissão Nacional de Cuidados Paliativos\n\n1 - Compete à Comissão Nacional de Cuidados Paliativos:\n\na) Coordenar a RNCP;\n\nb) Elaborar e propor para aprovação da tutela os planos estratégicos para o desenvolvimento dos cuidados paliativos, com periodicidade bianual;\n\nc) Estabelecer metas de progresso anuais;\n\nd) Elaborar relatório anual;\n\ne) Estabelecer critérios de certificação, acreditação e avaliação da qualidade das respostas da RNCP e disponibilizar meios para a concretização das mesmas;\n\nf) Promover a elaboração e permanente atualização de normas técnicas e guias de boas práticas para a prestação de cuidados paliativos;\n\ng) Fazer cumprir os regulamentos de segurança e qualidade nos estabelecimentos da RNCP, em estreita articulação com os organismos competentes;\n\nh) Estabelecer orientações estratégicas e técnicas no domínio da formação contínua e específica dos diversos grupos de profissionais e voluntários a envolver na prestação de cuidados paliativos;\n\ni) Elaborar os termos de referência para a contratualização da prestação de cuidados paliativos no âmbito da RNCP;\n\nj) Propor a celebração de acordos com instituições do setor público, social ou privado, com ou sem fins lucrativos, prestadoras de cuidados paliativos;\n\nk) Responder às reclamações apresentadas pelos utentes da RNCP;\n\nl) Dinamizar a articulação com outras unidades de prestação de cuidados, nomeadamente com os cuidados de saúde primários e hospitalares e ainda com os programas e planos nacionais do Ministério da Saúde;\n\nm) Promover a definição e implementação do sistema de informação que suporta a gestão da Rede.\n\n2 - Os planos, metas e relatórios previstos nas alíneas b), c) e d) do número anterior devem conter informação, nomeadamente, sobre as principais patologias, opções terapêuticas, recursos humanos envolvidos e necessários e execução financeira."
+  },
+  "963056175": {
+   "fragment_id": "963056075",
+   "type": 2,
+   "heading": "Base XIII — Competências das estruturas regionais de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIII — Competências das estruturas regionais de cuidados paliativos\n\nA coordenação da RNCP no plano regional é assegurada nos termos previstos na base xi, atuando em conformidade com princípios orientadores da coordenação nacional, articulando com as unidades e equipas da RNCP e assegurando o planeamento, a gestão, o controlo e a avaliação na Rede na sua área de jurisdição."
+  },
+  "963056375": {
+   "fragment_id": "963056275",
+   "type": 2,
+   "heading": "Base XIV — Equipas locais de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIV — Equipas locais de cuidados paliativos\n\n1 - As equipas de prestação de cuidados paliativos, a nível local, são:\n\na) Unidades de cuidados paliativos;\n\nb) Equipas intra-hospitalares de suporte em cuidados paliativos;\n\nc) Equipas comunitárias de suporte em cuidados paliativos.\n\n2 - Estas equipas multiprofissionais, integrantes e contratualizadas com a RNCP, estão articuladas entre si e com a coordenação regional.\n\n3 - Outras unidades funcionais do SNS podem realizar ações paliativas, de acordo com orientação técnica da RNCP."
+  },
+  "963056575": {
+   "fragment_id": "963056475",
+   "type": 2,
+   "heading": "Base XV — Competências das equipas locais de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Competências das equipas locais de cuidados paliativos\n\nSão competências das equipas referidas no artigo anterior, no seu âmbito de referência:\n\na) Proceder à admissão ou readmissão dos doentes com necessidade de cuidados paliativos;\n\nb) Articular com a coordenação regional a afetação de doentes com necessidade de cuidados paliativos entre as várias equipas locais da Rede, de modo a cumprir com os objetivos previstos no n.º 1 da base ix;\n\nc) Definir e concretizar, em relação a cada doente, um plano individual de cuidados;\n\nd) Divulgar junto da população a informação sobre cuidados paliativos e acesso à Rede;\n\ne) Articular com os outros prestadores de cuidados de saúde, na sua área de influência."
+  },
+  "963056775": {
+   "fragment_id": "963056675",
+   "type": 2,
+   "heading": "Base XVI — Unidade de cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Unidade de cuidados paliativos\n\n1 - A unidade de cuidados paliativos é um serviço específico de tratamento de doentes que necessitam de cuidados paliativos diferenciados e multidisciplinares, nomeadamente em situação clínica aguda complexa.\n\n2 - A unidade referida no número anterior presta cuidados, designadamente em regime de internamento, podendo estar integrada num hospital ou noutra instituição de saúde com serviços de internamento.\n\n3 - Estas unidades podem ter diferentes valências assistenciais, de internamento, apoio intra-hospitalar, centro de dia, apoio domiciliário e consulta externa."
+  },
+  "963056975": {
+   "fragment_id": "963056875",
+   "type": 2,
+   "heading": "Base XVII — Equipa intra-hospitalar de suporte em cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Equipa intra-hospitalar de suporte em cuidados paliativos\n\n1 - A equipa intra-hospitalar de suporte em cuidados paliativos:\n\na) Presta aconselhamento e apoio diferenciado em cuidados paliativos especializados a outros profissionais e aos serviços do hospital, assim como aos doentes e suas famílias;\n\nb) Presta assistência na execução do plano individual de cuidados aos doentes internados em situação de sofrimento decorrente de doença grave ou incurável, em fase avançada e progressiva ou com prognóstico de vida limitado, para os quais seja solicitada a sua atuação.\n\n2 - A equipa está integrada na unidade de cuidados paliativos, quando esta exista na mesma instituição.\n\n3 - Esta equipa funciona de forma autónoma, sempre que não exista unidade de internamento."
+  },
+  "963057175": {
+   "fragment_id": "963057075",
+   "type": 2,
+   "heading": "Base XVIII — Equipa comunitária de suporte em cuidados paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVIII — Equipa comunitária de suporte em cuidados paliativos\n\n1 - A equipa comunitária de suporte em cuidados paliativos:\n\na) Presta cuidados paliativos específicos a doentes que deles necessitam e apoio às suas famílias ou cuidadores, no domicílio, para os quais seja solicitada a sua atuação;\n\nb) Presta apoio e aconselhamento diferenciado, em cuidados paliativos, às unidades de cuidados de saúde primários, nomeadamente às unidades de cuidados na comunidade e às unidades e equipas da rede nacional de cuidados continuados e integrados;\n\nc) Assegura formação em cuidados paliativos dirigida às equipas de saúde familiar do centro de saúde e aos profissionais que prestam cuidados continuados domiciliários.\n\n2 - A equipa comunitária de suporte em cuidados paliativos pode estar integrada numa unidade funcional de cuidados de saúde primários ou na Rede Nacional de Cuidados Continuados Integrados, dispondo de recursos específicos."
+  },
+  "963057375": {
+   "fragment_id": "963057275",
+   "type": 2,
+   "heading": "Base XIX — Coordenação técnica e funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Coordenação técnica e funcional\n\nA coordenação técnica e funcional das unidades e equipas de cuidados paliativos é assegurada por uma equipa multidisciplinar, que integra, entre outros, médicos e ou enfermeiros com formação avançada e experiência reconhecida em cuidados paliativos."
+  },
+  "963057575": {
+   "fragment_id": "963057475",
+   "type": 2,
+   "heading": "Base XX — Admissão na RNCP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XX — Admissão na RNCP\n\n1 - A admissão na RNCP é efetuada com base em critérios clínicos, mediante decisão das unidades ou equipas de cuidados paliativos.\n\n2 - A admissão em cada unidade ou equipa da RNCP tem em conta critérios de complexidade, gravidade e prioridade clínica.\n\n3 - A admissão nas unidades e equipas de cuidados paliativos é solicitada pelos próprios serviços da RNCP, pelo médico de família, por outro médico que referencia o doente necessitado de cuidados paliativos, pelas unidades dos cuidados de saúde primários ou da Rede Nacional de Cuidados Continuados Integrados, pelos serviços hospitalares ou pelo doente e sua família.\n\n4 - A exaustão dos cuidadores informais pode constituir critério para internamento.\n\n5 - O Ministério da Saúde deve definir para os cuidados paliativos, nos termos da legislação específica, os tempos máximos de resposta garantidos, de forma compatível com a natureza e fase evolutiva da doença."
+  },
+  "963057775": {
+   "fragment_id": "963057675",
+   "type": 2,
+   "heading": "Base XXI — Mobilidade na Rede Nacional de Cuidados Paliativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXI — Mobilidade na Rede Nacional de Cuidados Paliativos\n\n1 - Ao doente admitido na RNCP é garantida a mobilidade nos vários serviços da Rede, de acordo com critérios de adequação, de continuidade de cuidados e de maior proximidade ao domicílio, nos termos da Lei de Bases da Saúde.\n\n2 - A gestão de oferta disponível deve ser supervisionada pelas estruturas regionais."
+  },
+  "963057975": {
+   "fragment_id": "963057875",
+   "type": 2,
+   "heading": "Base XXII — Alta das unidades e equipas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXII — Alta das unidades e equipas\n\n1 - A alta das unidades e equipas de cuidados paliativos, nos casos em que tal se justifique, tem por objetivo promover o bem-estar do doente e sua família, visando o ingresso do doente em equipas mais adequadas às suas necessidades ou o seu regresso ao domicílio.\n\n2 - A preparação da alta deve ser iniciada com antecedência suficiente, de modo a disponibilizar informação clínica e social que torne possível a sequencialidade da prestação de cuidados.\n\n3 - A preparação da alta é obrigatoriamente comunicada, de forma detalhada e humanizada, ao doente, se estiver em condições clínicas para tal, aos seus familiares, às instituições de origem e ao médico assistente."
+  },
+  "963058175": {
+   "fragment_id": "963058075",
+   "type": 1,
+   "heading": "Capítulo V — Funcionamento da Rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Funcionamento da Rede"
+  },
+  "963058375": {
+   "fragment_id": "963058275",
+   "type": 2,
+   "heading": "Base XXIII — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIII — Organização\n\n1 - A caracterização dos serviços que integram a RNCP, designadamente no âmbito da base xiv, é regulamentada pelo Ministério da Saúde.\n\n2 - O Ministério da Saúde, sob proposta da Comissão Nacional de Cuidados Paliativos, aprova a entrada de serviços na Rede.\n\n3 - Os serviços da RNCP podem diferenciar-se para dar resposta específica, nomeadamente na área das doenças neurológicas rapidamente progressivas, da infeção VIH/SIDA e na área pediátrica.\n\n4 - A diferenciação de serviços pode também ocorrer em razão do desenvolvimento de atividades de docência e investigação."
+  },
+  "963058575": {
+   "fragment_id": "963058475",
+   "type": 2,
+   "heading": "Base XXIV — Obrigações das entidades prestadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIV — Obrigações das entidades prestadoras\n\n1 - O modelo de contratação das entidades previstas no n.º 1 da base viii é aprovado pelo Ministério da Saúde, sob proposta da Comissão Nacional de Cuidados Paliativos.\n\n2 - As entidades referidas no número anterior estão obrigadas à prestação de informação, de acordo com o previsto no respetivo contrato, e sujeitas à fiscalização da tutela."
+  },
+  "963058775": {
+   "fragment_id": "963058675",
+   "type": 2,
+   "heading": "Base XXV — Garantia de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXV — Garantia de qualidade\n\n1 - Os modelos de promoção e gestão da qualidade são de aplicação obrigatória em cada uma das unidades e equipas da RNCP, sendo fixados pelo Ministério da Saúde, sob proposta da Comissão Nacional.\n\n2 - Sem prejuízo do disposto no número anterior, os indicadores para avaliação da qualidade dos cuidados paliativos devem contemplar o uso de opioides, a avaliação e monitorização da dor e outros sintomas, bem como o nível de formação e experiência profissional dos diferentes elementos que constituem a equipa."
+  },
+  "963058975": {
+   "fragment_id": "963058875",
+   "type": 2,
+   "heading": "Base XXVI — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVI — Avaliação\n\nAs unidades e equipas da RNCP estão sujeitas a um processo de avaliação que integra a autoavaliação anual e a avaliação externa."
+  },
+  "963059175": {
+   "fragment_id": "963059075",
+   "type": 2,
+   "heading": "Base XXVII — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVII — Recursos humanos\n\n1 - A política de recursos humanos para as unidades e equipas de cuidados paliativos rege-se por padrões de qualidade, baseada na formação específica, de acordo com os níveis de diferenciação recomendados.\n\n2 - A prestação de cuidados nas unidades e equipas de cuidados paliativos é assegurada por equipas multidisciplinares com dotações adequadas à garantia de uma prestação de cuidados de qualidade, nos termos das bases iv e v.\n\n3 - A formação, nomeadamente no seu nível avançado, deve incluir uma componente de estágios profissionais.\n\n4 - As ordens profissionais certificam formações especializadas de nível avançado em cuidados paliativos e definem os critérios considerados mínimos para uma formação adequada nesta área.\n\n5 - As equipas multidisciplinares podem ser complementadas por voluntários com formação específica, sendo a sua atividade enquadrada por um profissional de saúde da equipa com a qual colaboram, nos termos da lei geral e normativos a emitir pela Comissão Nacional de Cuidados Paliativos."
+  },
+  "963059375": {
+   "fragment_id": "963059275",
+   "type": 2,
+   "heading": "Base XXVIII — Condições de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVIII — Condições de instalação\n\nAs condições e requisitos de construção e segurança das instalações de cuidados paliativos são objeto de regulamentação pelo Ministério da Saúde."
+  },
+  "963059575": {
+   "fragment_id": "963059475",
+   "type": 2,
+   "heading": "Base XXIX — Dotação orçamental específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIX — Dotação orçamental específica\n\n1 - O funcionamento da RNCP nas suas estruturas central, regionais e locais, é objeto de dotação orçamental específica no quadro do orçamento do Ministério da Saúde.\n\n2 - O Ministério da Saúde garante a comparabilidade e a capacidade de escrutínio das dotações orçamentais relativas aos cuidados paliativos."
+  },
+  "963059775": {
+   "fragment_id": "963059675",
+   "type": 2,
+   "heading": "Base XXX — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXX — Financiamento\n\n1 - O financiamento de prestação de cuidados paliativos, no âmbito da RCNP, é da responsabilidade do Ministério da Saúde e rege-se pelos princípios constitucionais, pela Lei de Bases da Saúde e demais legislação aplicável.\n\n2 - As regras de financiamento de cada serviço são regulamentadas pelo Ministério da Saúde, assegurando o cumprimento do disposto no n.º 1 da base anterior."
+  },
+  "963059975": {
+   "fragment_id": "963059875",
+   "type": 2,
+   "heading": "Base XXXI — Fármacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXI — Fármacos\n\nO funcionamento de unidades e equipas em cuidados paliativos implica o acesso, disponibilização e dispensa dos medicamentos considerados fundamentais pela Organização Mundial de Saúde para o tratamento dos doentes em cuidados paliativos."
+  },
+  "963060175": {
+   "fragment_id": "963060075",
+   "type": 2,
+   "heading": "Base XXXII — Obstinação terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXII — Obstinação terapêutica\n\nA obstinação terapêutica definida na base ii constitui má prática clínica e infração disciplinar, nos termos da legislação geral e deontológica aplicável."
+  },
+  "963060375": {
+   "fragment_id": "963060275",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "963060575": {
+   "fragment_id": "963060475",
+   "type": 2,
+   "heading": "Base XXXIII — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXIII — Regiões autónomas\n\nCompete aos órgãos de governo das regiões autónomas procederem à regulamentação própria em matéria de organização, funcionamento e regionalização dos cuidados paliativos, nos termos da base viii da Lei de Bases da Saúde."
+  },
+  "963060775": {
+   "fragment_id": "963060675",
+   "type": 2,
+   "heading": "Base XXXIV — Aplicação progressiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXIV — Aplicação progressiva\n\n1 - A regulamentação necessária à plena produção de efeitos da presente lei, designadamente no que respeita às bases xi, xiv, xxiii, xxvii e xxviii, é elaborada pelo Ministério da Saúde no prazo de 120 dias.\n\n2 - As unidades de cuidados paliativos, as equipas intra-hospitalares de suporte em cuidados paliativos e as equipas comunitárias de suporte em cuidados paliativos, criadas no âmbito do Decreto-Lei n.º 101/2006, de 6 de junho, bem como outros estabelecimentos e serviços idênticos no âmbito da Rede Nacional de Cuidados Continuados e Integrados, que se encontrem em funcionamento à data da entrada em vigor da presente lei, são integradas na RNCP.\n\n3 - As unidades e equipas referidas no número anterior devem adaptar-se ao disposto na presente lei, no prazo de 120 dias após a entrada em vigor da regulamentação a que se refere o n.º 1."
+  },
+  "963060975": {
+   "fragment_id": "963060875",
+   "type": 2,
+   "heading": "Base XXXV — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXV — Entrada em vigor\n\nA presente lei entra em vigor com o Orçamento do Estado subsequente à sua publicação."
+  },
+  "963061175": {
+   "fragment_id": "963061075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de julho de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 25 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 28 de agosto de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1118512575": {
+   "fragment_id": "963054275",
+   "type": 2,
+   "heading": "Base V — Direitos dos doentes",
+   "in_force_from": "2026-05-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2026 - Diário da República n.º 89/2026, Série I de 2026-05-08](https://diariodarepublica.pt/dr/detalhe/lei/19-2026-1114077532), em vigor a partir de 2026-05-09."
+   ],
+   "markdown": "###### Base V — Direitos dos doentes\n\n1 - O doente tem direito a:\n\na) Receber cuidados paliativos adequados à complexidade da situação e às necessidades da pessoa, incluindo a prevenção e o alivio da dor e de outros sintomas;\n\nb) Escolher o local de prestação de cuidados paliativos e os profissionais, exceto em casos urgentes, nos termos dos princípios gerais da Lei de Bases da Saúde;\n\nc) Fazer-se acompanhar, nos termos da lei;\n\nd) Ser informado sobre o seu estado clínico, se for essa a sua vontade;\n\ne) Participar nas decisões sobre cuidados paliativos que lhe são prestados, nomeadamente para efeitos de determinação de condições, limites ou interrupção dos tratamentos;\n\nf) Ver garantidas a sua privacidade e a confidencialidade dos dados pessoais;\n\ng) Receber informação objetiva e rigorosa sobre condições de internamento.\n\n2 - Nenhum cidadão pode ser prejudicado ou discriminado em função da sua situação económica, área de residência ou patologia, nos termos gerais da Lei de Bases da Saúde.\n\n3 - Os menores e maiores sem capacidade de decisão não podem tomar, sozinhos, decisões relativas aos cuidados paliativos.\n\n4 - As crianças, os adolescentes e as pessoas incapacitadas sob tutela têm o direito de expressar a sua vontade e essa vontade deve ser considerada pelo médico.\n\n5 - Quando o doente atinge a maioridade, a transição do serviço pediátrico para o serviço para adultos tem obrigatoriamente carácter gradual e é adaptada às necessidades médicas, psicossociais e educacionais do doente.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2026 - Diário da República n.º 89/2026, Série I de 2026-05-08](https://diariodarepublica.pt/dr/detalhe/lei/19-2026-1114077532), em vigor a partir de 2026-05-09."
+  }
+ }
+}

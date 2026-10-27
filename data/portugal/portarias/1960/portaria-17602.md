@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:282124:por
+title: Portaria n.º 17602
+short_title: null
+summary: Determina que as normas relativas ao funcionamento dos serviços de inspecção administrativa e de inspecção do serviço
+  de intendência, criados pelo Decreto-Lei n.º 42564, sejam aprovadas por despacho do quartel-mestre-general
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Exército - Quartel-Mestre-General - Chefia do Serviço de Verificação de Contas e de Inspecção Administrativa
+proposing_entity: null
+official_number: '17602'
+official_date: null
+publication_date: '1960-02-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 42/1960, Série I de 1960-02-20
+  number: '42'
+  series: I
+  supplement: null
+  pages: 672 - 672
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/02/04200/06720672.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '282124'
+  dre_path: /dr/detalhe/portaria/17602-1960-282124
+  internal: pt:dre:282124:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17602-1960-282124
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17602-1960-282124
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5e869104f097d2a155cd3f1d84d77d87e5de115bda57ec5234a40f09d62f2290
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:256611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:41:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17602
+
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, o seguinte:
+
+1.º As normas relativas ao funcionamento dos serviços de inspecção administrativa e de inspecção do serviço de intendência, criados pelo [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, serão aprovadas por despacho do quartel-mestre-general, mediante propostas apresentadas pelos respectivos serviços.
+
+2.º Fica revogada a [Portaria n.º 15833](https://diariodarepublica.pt/dr/detalhe/portaria/15833-1956-256611), de 23 de Abril de 1956.
+
+Ministério do Exército, 20 de Fevereiro de 1960. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes.

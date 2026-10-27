@@ -1,0 +1,361 @@
+---
+schema_version: '1.0'
+id: pt:dre:520394:por
+title: Portaria n.º 355/2007
+short_title: null
+summary: Aprova os Estatutos do Instituto de Financiamento da Agricultura e Pescas, I. P.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 355/2007
+official_date: null
+publication_date: '2007-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 64/2007, Série I de 2007-03-30
+  number: '64'
+  series: I
+  supplement: null
+  pages: 1992 - 1995
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06400/19921995.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/355/2007/03/30/p/dre/pt/html
+  oj: null
+  dre: '520394'
+  dre_path: /dr/detalhe/portaria/355-2007-520394
+  internal: pt:dre:520394:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-2007-520394
+  metadata_url: https://data.dre.pt/eli/port/355/2007/03/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-2007-520394
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:23:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b50c4a0ace6ed35ae9ab0c4ca5bb9a8323642c208d06e555c58a06ddf307a2b4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estatuto
+- IFAP
+relationships:
+- type: amended_by
+  target: pt:dre:190608:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:494021:por
+  label: "Alterados os arts. 1º, 3º, 4º, 7º, 9º e 10º, revogados o nº 3 do art. 1º, a al. c) do art. 7º e o art. 12º, e aditados\
+    \ os arts. 13º e 14º aos Estatutos do IFAP pela PORT.846/2009.06.08.2009.MFAP, DR.IS [151] de 06.08.2009, que republicou\
+    \ o presente diploma com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/846-2009-494021
+  date: '2009-08-06'
+- type: cites
+  target: pt:dre:520468:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/87/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/63/2004/03/22/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: corrected_by
+  target: pt:dre:490417:por
+  label: "Rectificado o art. 2.º [na parte em que adita o artigo 14.º ao anexo do presente diploma], da Port 846/2009 de 06-Ago\
+    \ e rectificado ainda o art. 2.º da republicação do anexo da mesma, no que se refere ao art. 14.º, pela DECL-RECT.68/2009.23.09.2009.PCM,\
+    \ DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/68-2009-490417
+  date: '2009-09-23'
+- type: repealed_by
+  target: pt:dre:190608:por
+  label: "Revogado o presente diploma, na redação da Port 846/2009, de 06-ago, pela PORT.393/2012.29.11.2012.MF, DR.IS [231]\
+    \ de 29.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-2012-190608
+  date: '2012-11-29'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:23:03Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 355/2007
+
+de 30 de Março
+
+O [Decreto-Lei n.º 87/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2007-520468), de 29 de Março, definiu a missão e atribuições do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.). Importa, agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.
+
+Assim:
+
+Ao abrigo do artigo 12.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+São aprovados os Estatutos do Instituto de Financiamento da Agricultura e Pescas, I. P., abreviadamente designado por IFAP, I. P., publicados em anexo à presente portaria e que dela fazem parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Em 22 de Março de 2007.
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.
+
+## ANEXO — Estatutos do Instituto de Financiamento da Agricultura e Pescas, I. P.
+
+###### Artigo 1.º — Estrutura
+
+1 - A estrutura orgânica do IFAP, I. P., é constituída por unidades orgânicas de linha, designadas por departamentos, e por unidades orgânicas de apoio, designadas por gabinetes, ambas de 1.º grau, que se subordinam, hierárquica e funcionalmente, ao conselho directivo, com as seguintes designações:
+
+a) Departamento de Ajudas Directas;
+
+b) Departamento de Apoios ao Investimento;
+
+c) Departamento de Controlo;
+
+d) Departamento Financeiro;
+
+e) Departamento de Administração Geral e Recursos Humanos;
+
+f) Departamento Jurídico e de Devedores;
+
+g) Departamento de Sistemas de Informação;
+
+h) Gabinete de Auditoria;
+
+i) Gabinete de Planeamento e Relações Comunitárias.
+
+2 - Os Departamentos e Gabinetes referidos no número anterior são dirigidos por directores, em regime de comissão de serviço prevista no Código do Trabalho.
+
+3 - A estrutura orgânica do IFAP, I. P., integra ainda o Gabinete de Gestão do Fundo Florestal Permanente, unidade orgânica de 1.º grau, é dirigida por um director, ao qual compete prosseguir os objectivos fixados no artigo 2.º do [Decreto-Lei n.º 63/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2004-541375), de 22 de Março.
+
+4 - As unidades orgânicas referidas nos números anteriores podem ser desagregadas em órgãos funcionais de hierarquia inferior, 2.º grau, designadas por unidades ou áreas, consoante estejam na dependência de departamentos ou de gabinetes, sendo dirigidos por chefes de unidade ou por chefes de área, respectivamente, e não podendo o número total destas subunidades orgânicas ser superior a 40.
+
+5 - Podem ser criados núcleos ou subunidades orgânicas de 3.º grau, temporários e com objectivos especificados, dirigidos por coordenadores, não podendo o número total destas subunidades orgânicas ser superior a 15.
+
+6 - O conselho directivo pode criar, modificar ou extinguir as unidades orgânicas referidas nos n.os 4 e 5 do presente artigo, até ao limite neles fixado, incluindo unidades ou áreas na sua directa dependência.
+
+###### Artigo 2.º — Competências comuns
+
+São comuns aos Departamentos e Gabinetes referidos no artigo 1.º as seguintes competências:
+
+a) Participar na elaboração dos planos anuais e plurianuais de actividade;
+
+b) Contribuir para a elaboração do orçamento do Instituto, bem como assegurar a respectiva execução departamental;
+
+c) Elaborar os relatórios sectoriais anuais e participar na elaboração do relatório de execução anual do Instituto;
+
+d) Propor as acções de formação dos seus colaboradores, a integrar anualmente no plano de formação;
+
+e) Gerir adequadamente os recursos humanos e materiais que lhes estão afectos;
+
+f) Analisar e dar sequência às reclamações que forem apresentadas no âmbito da sua área de actividade;
+
+g) Elaborar, no âmbito da sua esfera de intervenção e enquadrado na política de comunicação definida, os instrumentos normativos, as regras e procedimentos que devam ser observados;
+
+h) Definir as normas que visem garantir a adequada gestão funcional das subunidades orgânicas que os integram;
+
+i) Colaborar, no âmbito das suas atribuições e em articulação com o departamento respectivo, na elaboração das normas internas com os procedimentos, circuitos e tramitação relativos às áreas de intervenção da sua responsabilidade;
+
+j) Participar no desenvolvimento e actualização dos formulários electrónicos, a disponibilizar na Internet, através do desenho e caracterização do conteúdo informacional dos campos que os integram.
+
+###### Artigo 3.º — Departamento de Ajudas Directas
+
+Compete ao Departamento de Ajudas Directas, abreviadamente designado por DAD:
+
+a) Assegurar a gestão das ajudas directas aos agricultores previstas na regulamentação comunitária;
+
+b) Assegurar a gestão das medidas de intervenções nos mercados de produtos agrícolas e das pescas;
+
+c) Assegurar a gestão das medidas de apoio ao desenvolvimento rural que lhe vierem a ser cometidas;
+
+d) Assegurar a gestão dos apoios à promoção dos produtos agrícolas;
+
+e) Assegurar a gestão do regime da condicionalidade;
+
+f) Assegurar a gestão do sistema de eliminação de resíduos de origem animal;
+
+g) Assegurar a gestão do programa de ajuda aos carenciados.
+
+###### Artigo 4.º — Departamento de Apoios ao Investimento
+
+Compete ao Departamento de Apoios ao Investimento, abreviadamente designado por DAI:
+
+a) Promover a elaboração e a supervisão e acompanhamento da aplicação de normas e regras de execução relativas ao pagamento dos incentivos e outras formas de apoio ao investimento dirigidos às entidades e empresas dos sectores agro-florestal, agro-industrial, do desenvolvimento rural e das pescas;
+
+b) Promover a aprovação de projectos no âmbito das atribuições do IFAP, I. P.;
+
+c) Promover a contratação dos incentivos;
+
+d) Promover a recuperação de verbas em caso de fraudes e incumprimentos contratuais;
+
+e) Intervir no processo de avaliação e emissão de parecer das operações de criação de entidades financeiras destinadas ao sector agrícola;
+
+f) Coordenar a aplicação dos programas de iniciativa comunitária e de outros programas operacionais em que o Instituto actue como entidade pagadora, designadamente o das pescas;
+
+g) Gerir os sistemas de seguros e de crédito dirigidos aos sectores da agricultura, silvicultura, pescas e agro-indústria.
+
+###### Artigo 5.º — Departamento de Controlo
+
+Compete ao Departamento de Controlo, abreviadamente designado por DCO:
+
+a) Assegurar a gestão do planeamento e da execução do controlo das ajudas a conceder e concedidas;
+
+b) Assegurar a manutenção e o funcionamento do sistema de informação geográfica unificado;
+
+c) Assegurar as acções de controlo desenvolvidas por outras entidades, incluindo a formação dos agentes, a criação e actualização dos procedimentos, metodologias e instrumentos de controlo.
+
+###### Artigo 6.º — Departamento Financeiro
+
+Compete ao Departamento Financeiro, abreviadamente designado por DFI:
+
+a) Assegurar a gestão financeira dos diferentes programas de ajudas ao sector primário;
+
+b) Assegurar a elaboração do relatório, balanço e contas do Instituto;
+
+c) Assegurar a prestação de contas à União Europeia no âmbito das transferências dos fundos comunitários;
+
+d) Assegurar a interlocução com os organismos nacionais e comunitários nos programas co-financiados pela União Europeia;
+
+e) Assegurar a elaboração dos pedidos de pagamentos a remeter às instâncias comunitárias;
+
+f) Assegurar a interligação com os auditores externos e o fiscal único;
+
+g) Assegurar a preparação das informações contabilísticas, orçamentais e financeiras e da prestação de contas às tutelas, ao Tribunal de Contas e à Direcção-Geral do Orçamento;
+
+h) Assegurar a aquisição e alienação de bens e a contratação de serviços, bem como a organização e actualização dos bens patrimoniais;
+
+i) Assegurar a gestão das participações financeiras e do fundo de pensões.
+
+###### Artigo 7.º — Departamento de Administração Geral e Recursos Humanos
+
+Compete ao Departamento de Administração Geral e Recursos Humanos, abreviadamente designado por DAG:
+
+a) Assegurar a gestão integrada do desenvolvimento e motivação dos recursos humanos;
+
+b) Assegurar a vertente administrativa e social da função pessoal;
+
+c) Assegurar a componente da organização interna;
+
+d) Assegurar a gestão da documentação, divulgação e biblioteca, do expediente, correspondência, distribuição e arquivo central;
+
+e) Assegurar a gestão dos bens imóveis, das instalações e das respectivas infra-estruturas;
+
+f) Assegurar a gestão da frota automóvel, da supervisão dos serviços de vigilância, de limpeza e de higiene das instalações;
+
+g) Assegurar a gestão do atendimento aos beneficiários.
+
+###### Artigo 8.º — Departamento Jurídico e de Devedores
+
+Compete ao Departamento Jurídico e de Devedores, abreviadamente designado por DJU:
+
+a) Assegurar a gestão da assessoria jurídica ao conselho directivo e a todos os órgãos do Instituto;
+
+b) Garantir o exercício do patrocínio judiciário e assistência jurídica ao nível do contencioso e pré-contencioso;
+
+c) Assegurar o tratamento jurídico em todos os processos de inquérito, disciplinares;
+
+d) Assegurar a gestão dos processos de contra-ordenações e de penhoras;
+
+e) Assegurar a prestação de informações aos tribunais;
+
+f) Assegurar a gestão dos processos de recuperação de verbas, de fraudes e irregularidades;
+
+g) Assegurar a gestão e a comunicação de todas as comunicações ao organismo de controlo anti-fraude da União Europeia;
+
+h) Assegurar a representação junto das instituições nacionais e comunitárias e demais entidades, em matérias do foro jurídico e da sua competência.
+
+###### Artigo 9.º — Departamento de Sistemas de Informação
+
+Compete ao Departamento de Sistemas de Informação, abreviadamente designado por DSI:
+
+a) Assegurar a gestão dos trabalhos de concepção e implementação dos sistemas de informação;
+
+b) Assegurar a administração de todo o parque informático, da rede de comunicações e das aquisições informáticas;
+
+c) Assegurar a concepção e disponibilização dos diferentes sistemas de suporte ao pagamento das ajudas e incentivos, inerentes aos fundos comunitários destinados à agricultura, desenvolvimento rural e pescas;
+
+d) Assegurar a coordenação e gestão da recolha, tratamento e disponibilização de dados que se revelarem necessários para o pagamento dos apoios a conceder;
+
+e) Propor e executar a política na área das tecnologias de informação (TIC) no âmbito do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, assegurando a construção, gestão e operações das respectivas infra-estruturas.
+
+###### Artigo 10.º — Gabinete de Auditoria
+
+Compete ao Gabinete de Auditoria, abreviadamente designado por GAU:
+
+a) Assegurar a gestão do sistema de controlo interno em todas as suas áreas de intervenção;
+
+b) Assegurar as funções de auditoria inerentes à emissão das declarações de fiabilidade emitidas pelo organismo pagador dos fundos comunitários;
+
+c) Assegurar as funções de auditoria inerentes à emissão dos certificados das despesas emitidos como autoridade de pagamento dos fundos comunitários;
+
+d) Assegurar as funções de auditoria relativas aos restantes apoios financeiros concedidos;
+
+e) Assegurar as funções de auditoria interna em qualquer unidade orgânica do Instituto.
+
+###### Artigo 11.º — Gabinete de Planeamento e Relações Comunitárias
+
+Compete ao Gabinete de Planeamento e Relações Comunitárias, abreviadamente designado por GPRC:
+
+a) Coordenar a elaboração do plano e respectivo relatório de actividades;
+
+b) Efectuar a programação dos pagamentos das ajudas à agricultura e pescas e assegurar o relacionamento do organismo com as instituições comunitárias;
+
+c) Elaborar estudos em matérias das atribuições do IFAP, I. P.;
+
+d) Assegurar a informação a disponibilizar relativamente ao funcionamento do Instituto e dos apoios concedidos;
+
+e) Assegurar a recolha, tratamento e análise de informação estatística gerada pela actividade do Instituto.
+
+###### Artigo 12.º — Gabinete de Gestão do Fundo Florestal Permanente
+
+Compete ao Gabinete de Gestão do Fundo Florestal Permanente, abreviadamente designado por FFP:
+
+a) Assegurar a gestão dos programas de apoios financeiros a conceder no âmbito do Fundo;
+
+b) Assegurar o acompanhamento da execução física e financeira dos protocolos e das candidaturas contratadas;
+
+c) Assegurar a centralização, organização e actualização de toda a informação respeitante à administração e gestão do Fundo;
+
+d) Assegurar a elaboração anual do relatório e contas e do plano de actividades.

@@ -1,0 +1,315 @@
+---
+schema_version: '1.0'
+id: pt:dre:2973298:por
+title: Portaria n.º 1077/2004 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: regional
+territory: acores
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Ciência, Inovação e Ensino Superior e Região Autónoma dos Açores
+proposing_entity: null
+official_number: 1077/2004 (2.ª série)
+official_date: null
+publication_date: '2004-10-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 240/2004, Série II de 2004-10-12
+  number: '240'
+  series: II
+  supplement: null
+  pages: 15052 - 15053
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/10/240000000/1505215053.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2973298'
+  dre_path: /dr/detalhe/portaria/1077-2004-2973298
+  internal: pt:dre:2973298:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1077-2004-2973298
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1077-2004-2973298
+  consolidated_url: null
+  retrieved_at: '2026-10-23T18:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e5dff96f7cd10daebc0c003c956e91614e584acb31c3877076ad3d1af47702ba
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:03:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Açores
+- Cooperação
+- Curso de Medicina
+- Ensino Superior
+- Estabelecimento Hospitalar
+- Universidade
+- Universidade dos Açores
+relationships:
+- type: cites
+  target: pt:dre:183262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654680:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T18:03:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1077/2004 (2.ª série)
+
+Portaria n.º 1077/2004 (2.ª série). - Considerando que algumas das disciplinas dos planos de estudo aprovados para o ciclo básico do curso de licenciatura em Medicina da Universidade dos Açores deverão ser ministradas em instituições prestadoras de cuidados de saúde, de acordo com os regimes previstos no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro (alterado pelos Decretos-Lei n.os [294/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), de 24 de Julho, [246/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1989-618876), de 5 de Agosto, [311/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1994-571600), de 21 de Dezembro, e [188/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2003-654680), de 20 de Agosto, e derrogado pelo [Decreto-Lei n.º 94/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1991-484416), de 28 de Fevereiro), e no [Decreto-Lei n.º 33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro;
+
+Considerando que os médicos das instituições prestadoras de cuidados de saúde podem participar nas actividades de ensino, ao abrigo e nos termos do disposto nos aludidos diplomas;
+
+Considerando que, para tal efeito, foram celebrados protocolos de colaboração entre a Universidade dos Açores e o Centro de Saúde de Ponta Delgada e o Hospital do Divino Espírito Santo;
+
+Considerando, ainda, que, face ao disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665) e no n.º 1 do artigo 3.º do [Decreto-Lei n.º 33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), a eficácia do referidos protocolos está condicionada a homologação dos membros do Governo que tutelam o ensino superior e a saúde:
+
+Mandam o Governo da República Portuguesa, pela Ministra da Ciência, Inovação e Ensino Superior, e o Governo Regional dos Açores, pelo Secretário Regional dos Assuntos Sociais, o seguinte:
+
+1.º
+
+Homologação
+
+São homologados os protocolos de colaboração celebrados:
+
+a) Entre a Universidade dos Açores e o Centro de Saúde de Ponta Delgada;
+
+b) Entre a Universidade dos Açores e o Hospital do Divino Espírito Santo;
+
+que constam dos anexos I e II da presente portaria.
+
+2.º
+
+Produção de efeitos
+
+A presente portaria produz efeitos a partir da data da sua assinatura.
+
+18 de Agosto de 2004. - A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Secretário Regional dos Assuntos Sociais do Governo da Região Autónoma dos Açores, Francisco Manuel Coelho Lopes Cabral.
+
+## ANEXO I — Protocolo de cooperação entre a Universidade dos Açores e o Centro de Saúde de Ponta Delgada
+
+No seguimento do convénio celebrado entre a Universidade dos Açores (UA) e a Secretaria Regional dos Assuntos Sociais (SRAS) visando o aproveitamento das respectivas potencialidades para a realização de actividades comuns de ensino e de investigação, as duas instituições ora outorgantes, representadas, respectivamente, pelo reitor da UA e pelo presidente do conselho de administração do Centro de Saúde de Ponta Delgada (CSPD), celebram o presente protocolo, subordinado às cláusulas seguintes:
+
+1.ª
+
+Ciclo básico da licenciatura em Medicina
+
+1 - A UA passa a ministrar as disciplinas do ciclo básico (1.º e 2.º anos) do curso de licenciatura em Medicina da Universidade de Coimbra (adiante designado por curso), com a duração de dois anos lectivos.
+
+2 - Algumas disciplinas constantes do plano de estudos aprovado para a Faculdade de Medicina da Universidade de Coimbra serão ministradas pelo CSPD, de acordo com os regimes previstos no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, e no [Decreto-Lei n.º 33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro.
+
+2.ª
+
+Serviços e disciplinas
+
+De acordo com as alíneas a) e b) do n.º 3 do artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, e das alíneas a) e b) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro, a disciplina a administrar em colaboração com o CSPD é a seguinte:
+
+Introdução à Saúde Comunitária.
+
+3.ª
+
+Meios disponíveis
+
+A UA e o CSPD facultarão a utilização recíproca de instalações e equipamentos e a permuta de experiências entre profissionais, em função das necessidades da leccionação, aferidas pela comissão mista referida na cláusula 7.ª
+
+4.ª
+
+Pessoal
+
+1 - O CSPD disponibiliza horas de trabalho médico dos seus profissionais para as funções de docência e de tutoria aos alunos da Universidade dos Açores.
+
+2 - Até 31 de Março de cada ano, a comissão mista mencionada na cláusula 7.ª propõe a relação dos médicos que irá participar no ensino da medicina, bem como a duração de tal participação.
+
+3 - Após análise curricular efectuada pelo conselho científico da Faculdade de Medicina da Universidade de Coimbra, o pessoal das carreiras médicas necessário às actividades docentes será designado pela Universidade dos Açores, pelo período correspondente à respectiva colaboração, nos termos do disposto no artigo 11.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, ou disponibilizado, nos termos do aludido no artigo 2.º do [Decreto-Lei n.º 33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro.
+
+5.ª
+
+Remuneração da actividade docente
+
+Os médicos indicados nas condições do artigo anterior terão direito, para além das remunerações e acréscimos sobre o vencimento base que lhes couberem no CSPD, a uma gratificação de 30% do vencimento correspondente à respectiva categoria da carreira médica, em função do tempo de leccionação em que hajam participado, mesmo que se encontrem em regime de dedicação exclusiva no CSPD.
+
+6.ª
+
+Encargos financeiros
+
+Compete à UA, mediante apresentação da factura respectiva, compensar o CSPD através do pagamento mensal do quantitativo correspondente ao total de gratificações.
+
+7.ª
+
+Comissão mista
+
+1 - Para execução do presente acordo, é constituída uma comissão mista permanente, fazendo dela parte um elemento nomeado pela UA e um elemento indicado pelo conselho de administração do CSPD.
+
+2 - A coordenação da comissão competirá a um dos seus membros, indicado anualmente e em regime de rotatividade pela UA e pelo CSPD.
+
+3 - Compete a esta comissão mista:
+
+a) Zelar pelo cumprimento deste acordo e fazer respeitar o estipulado nos Decretos-Leis n.os [312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, e [33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro;
+
+b) Informar o presidente do conselho de administração do Centro de Saúde de Ponta Delgada da relação dos médicos que irão participar na leccionação, recomendando-lhe ainda que proporcione as melhores condições de trabalho;
+
+c) Pronunciar-se sobre a criação ou transformação de serviços com implicação no ensino.
+
+8.ª
+
+Disposições finais
+
+1 - O presente protocolo produz efeitos a partir da data da sua homologação e vigora pelo período de um ano, sendo automatica mente renovável por iguais períodos se nenhuma das partes o denunciar.
+
+2 - A denúncia deve ser efectuada mediante notificação à outra parte, por carta registada com aviso de recepção, com a antecedência mínima de 90 dias em relação ao termo do prazo inicial ou respectivas renovações.
+
+3 - A comissão mista referida na cláusula 7.ª será nomeada logo após a homologação do protocolo.
+
+4 - A referida comissão reunirá no mais curto espaço de tempo, tendo em vista dar execução imediata ao presente acordo, especialmente no que se refere à definição das linhas do programa a estabelecer para o ano lectivo de 2004-2005.
+
+Ponta Delgada, 6 de Junho de 2004. - O Presidente do Conselho de Administração do Centro de Saúde de Ponta Delgada, João Carlos Fontes e Sousa. - O Reitor da Universidade dos Açores, Avelino de Freitas Meneses.
+
+## ANEXO II — Protocolo de cooperação entre a Universidade dos Açores e o Hospital do Divino Espírito Santo
+
+No seguimento do convénio celebrado entre a Universidade dos Açores (UA) e a Secretaria Regional dos Assuntos Sociais (SRAS) visando o aproveitamento das respectivas potencialidades para a realização de actividades comuns de ensino e de investigação, as duas instituições ora outorgantes, representadas, respectivamente, pelo reitor da UA e pelo presidente do conselho de administração do Hospital do Divino Espírito Santo (HDES), celebram o presente protocolo, subordinado às cláusulas seguintes:
+
+1.ª
+
+Ciclo básico de licenciatura em Medicina
+
+1 - A UA passa a ministrar as disciplinas do ciclo básico (1.º e 2.º anos) do curso de licenciatura em Medicina da Universidade de Coimbra (adiante designado por curso), com a duração de dois anos lectivos.
+
+2 - Algumas disciplinas constantes do plano de estudos aprovado para a Faculdade de Medicina da Universidade de Coimbra serão ministradas no HDES, de acordo com os regimes previstos no [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, e no [Decreto-Lei n.º 33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro.
+
+2.ª
+
+Serviços e disciplinas
+
+De acordo com as alíneas a) e b) do n.º 3 do artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, e das alíneas a) e b) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro, as disciplinas a administrar em colaboração com o HDES são as seguintes:
+
+Disciplinas ... Departamento ou serviços
+
+Introdução à Medicina ... Medicina interna e especialidades médicas.
+
+Anatomia I ... Cirugia geral e especialidades cirúrgicas.
+
+Anatomia II ... Cirurgia geral e especialidades cirúrgicas.
+
+Fisiopatologia ... Medicina interna e especialidades.
+
+Biologia Molecular ... Unidade de genética e patologia molecular.
+
+3.ª
+
+Meios disponíveis
+
+A UA e o HDES facultarão a utilização recíproca de instalações e equipamentos e a permuta de experiências entre profissionais, em função das necessidades da leccionação, aferidas pela comissão mista referida na cláusula 7.ª
+
+4.ª
+
+Pessoal
+
+1 - O HDES disponibiliza horas de trabalho médico dos seus profissionais para as funções de docência e de tutoria aos alunos da Universidade dos Açores.
+
+2 - Até 31 de Março de cada ano, a comissão mista mencionada na cláusula 7.ª propõe a relação dos médicos que irá participar no ensino da Medicina, bem como a duração de tal participação.
+
+3 - Após análise curricular efectuada pelo conselho científico da Faculdade de Medicina da Universidade de Coimbra, o pessoal das carreiras médicas necessário às actividades docentes será contratado pela Universidade dos Açores, pelo período correspondente à respectiva colaboração, nos termos do disposto no artigo 11.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, ou disponibilizado, nos termos do aludido no artigo 2.º do [Decreto-Lei n.º 33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro.
+
+5.ª
+
+Remuneração da actividade docente
+
+Os médicos indicados nas condições do artigo anterior terão direito, para além das remunerações e acréscimos sobre o vencimento base que lhes couberem no Hospital, a uma gratificação de 30% do vencimento correspondente à categoria para que forem contratados, em função do tempo de leccionação em que hajam participado, mesmo que se encontrem em regime de dedicação exclusiva no HDES.
+
+6.ª
+
+Encargos financeiros
+
+Compete à UA, mediante apresentação da factura respectiva, compensar o HDES através do pagamento mensal do quantitativo correspondente ao total de gratificações.
+
+7.ª
+
+Comissão mista
+
+1 - Para execução do presente acordo, é constituída uma comissão mista permanente, fazendo dela parte dois elementos nomeados pela UA e dois elementos indicados pelo conselho de administração do HDES.
+
+2 - A coordenação da comissão competirá a um dos seus membros, indicado anualmente e em regime de rotatividade pela UA e pelo HDES.
+
+3 - Compete a esta comissão mista:
+
+a) Zelar pelo cumprimento deste acordo e fazer respeitar o estipulado nos Decretos-Leis n.os [312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, e [33/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031), de 19 de Fevereiro;
+
+b) Informar os respectivos directores do serviço hospitalar do ensino a ministrar e da relação dos médicos que irão participar na leccionação, recomendando-lhes ainda que proporcionem as melhores condições de trabalho;
+
+c) Pronunciar-se sobre a criação ou transformação de serviços com implicação no ensino.
+
+8.ª
+
+Disposições finais
+
+1 - O presente protocolo produz efeitos a partir da data da sua homologação e vigora pelo período de um ano, sendo automaticamente renovável por iguais períodos se nenhuma das partes o denunciar.
+
+2 - A denúncia deve ser efectuada mediante notificação à outra parte, por carta registada com aviso de recepção, com a antecedência mínima de 90 dias em relação ao termo do prazo inicial ou das respectivas renovações.
+
+3 - A comissão mista referida na cláusula 7.ª será nomeada logo após a homologação do protocolo.
+
+4 - A referida comissão reunirá no mais curto espaço de tempo, tendo em vista dar execução imediata ao presente acordo, especialmente no que se refere à definição das linhas do programa a estabelecer para o ano lectivo de 2004-2005.
+
+6 de Junho de 2004. - O Presidente do Conselho de Administração do Hospital do Divino Espírito Santo, Armando Ademar Monteiro Anahory. - O Reitor da Universidade dos Açores, Avelino de Freitas Meneses.

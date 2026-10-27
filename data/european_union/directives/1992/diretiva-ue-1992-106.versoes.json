@@ -1,0 +1,475 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0106:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0106-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "1992-12-17",
+   "future": false,
+   "celex": "31992L0106",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a40e5b3095f5ab6a",
+    "41f89e1c85372047",
+    "3c3594c1a4f50814",
+    "e5f67b008e50d2c8",
+    "381d5f53d2ee2510",
+    "4456d5f3d11de4b2",
+    "f0fc784afea6595a",
+    "f848a3418d2cb20a",
+    "bdcb926ae77ea3d9",
+    "c51b4cbab0270823",
+    "1ec24796d3443074",
+    "515e0fb9d65f79e2",
+    "dc91d603a6931fbd",
+    "cd890be04b116e31",
+    "82acb2cac0d9212e",
+    "b08fad4ace023dbc"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01992L0106-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0103:por",
+     "title": "DIRECTIVA 2006/103/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0103"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita ANEXO",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 7 de Dezembro de 1992. Pelo Conselho",
+    "Suprime ANEXO — PARTE A",
+    "Suprime PARTE B — Quadro de correspondência",
+    "Suprime Artigo 10o — - Artigo 11o - Artigo 12o Artigo 13o Anexo -"
+   ],
+   "fragments": [
+    "63531f046609117c",
+    "503e4d5aa48b3921",
+    "cf771b8ca5aa81c7",
+    "ec89112b7b69b702",
+    "dea4f2aa05099c37",
+    "ea893035a980025c",
+    "d9956f0933bddb5d",
+    "ee68aaee52b8fe8f",
+    "12696690e7de38fb",
+    "baa441f26045b571",
+    "53a6b1559274a220",
+    "2c9500f34c098026",
+    "08b66beb65f6c7c3",
+    "10220b9774fa9034",
+    "1edf65a941127273",
+    "1b2f850f3f0b4a76",
+    "9be7f5dfd126e6b9"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01992L0106-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0022:por",
+     "title": "DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,",
+     "published": null,
+     "celex": "32013L0022"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "690b6597c6eb4236",
+    "57ed3423b1c35733",
+    "cf771b8ca5aa81c7",
+    "bba6dae941c3b347",
+    "dea4f2aa05099c37",
+    "ea893035a980025c",
+    "eeda32ae5d88bfc5",
+    "ee68aaee52b8fe8f",
+    "12696690e7de38fb",
+    "02acf624b2c5ea2f",
+    "53a6b1559274a220",
+    "09886067e5e9d354",
+    "08b66beb65f6c7c3",
+    "10220b9774fa9034",
+    "1edf65a941127273",
+    "1b2f850f3f0b4a76",
+    "5cb338796f11abfc"
+   ]
+  }
+ ],
+ "fragments": {
+  "a40e5b3095f5ab6a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/106/CEE do Conselho, de 7 de Dezembro de 1992, relativa ao estabelecimento de regras comuns para certos transportes combinados de mercadorias entre Estados-membros** *Jornal Oficial nº L 368 de 17/12/1992 p. 0038 - 0042 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0148 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0148*\n\nDIRECTIVA 92/106/CEE DO CONSELHO de 7 de Dezembro de 1992 relativa ao estabelecimento de regras comuns para certos transportes combinados de mercadorias entre Estados-membros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75o e o no 2 do seu artigo 84o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 75/130/CEE do Conselho, de 17 de Fevereiro de 1975, relativa ao estabelecimento de regras comuns para certos transportes combinados rodo/ferroviários de mercadorias entre Estados-membros (4), foi várias vezes alterada; que, efectuando-se agora novas alterações, se deve, por uma questão de clareza, proceder à reformulação da referida directiva;\n\nConsiderando que o mercado interno provocará um aumento do tráfego e que a Comunidade deve utilizar os meios necessários para gerir, da melhor forma possível e a bem do interesse colectivo, os seus recursos em matéria de transportes, o que implica o apelo aos transportes combinados;\n\nConsiderando que os problemas cada vez maiores inerentes ao congestionamento das estradas, ao ambiente e à segurança rodoviária exigem, a bem do interesse público, um desenvolvimento mais acelerado dos transportes combinados como alternativa ao transporte rodoviário;\n\nConsiderando que devem ser tomadas medidas destinadas a permitir um desenvolvimento progressivo das técnicas de transporte baseado no carácter intermodal dos transportes, bem como nos meios e necessidades específicas dos operadores e utentes dos transportes; que essas medidas devem visar os transportes combinados que associam a estrada a outros meios de transporte, nomeadamente o caminho-de-ferro, a navegação fluvial e a navegação marítima;\n\nConsiderando que a liberalização de todas as restrições quantitativas e a supressão de várias restrições de ordem administrativa ainda existentes no domínio dos transportes rodoviários são de molde a fomentar uma utilização mais ampla dos transportes combinados;\n\nConsiderando que, para que a técnica do transporte combinado conduza ao descongestionamento efectivo das estradas, essa liberalização deve incidir nos percursos rodoviários limitados em distância;\n\nConsiderando que a liberalização dos percursos rodoviários iniciais e finais de um transporte combinado deve ser tornada extensiva aos transportes combinados por via marítima sempre que o percurso marítimo represente uma parte considerável desses transportes combinados;\n\nConsiderando que é conveniente que a Comissão apresente, de dois em dois anos, e pela primeira vez antes de 1 de Julho de 1995, um relatório sobre a aplicação da presente directiva;\n\nConsiderando que o desenvolvimento dos transportes combinados seria igualmente facilitado por medidas de incentivo e que, consequentemente, é oportuno reduzir os impostos que recaem sobre a circulação e os veículos comerciais de mercadorias na medida em que estes últimos sejam transportados por caminho-de-ferro, e isentar os troços rodoviários iniciais e finais de qualquer tarificação obrigatória;\n\nConsiderando que é conveniente facilitar o acesso do transporte por conta própria aos transportes combinados;\n\nConsiderando que a presente directiva não deve afectar as obrigações dos Estados-membros relativas aos prazos de transposição e de aplicação das directivas sujeitas à reformulação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "41f89e1c85372047": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA presente directiva aplica-se às operações de transporte combinado, sem prejuízo do Regulamento (CEE) no 881/92 (5).\n\nNa acepção da presente directiva entende-se por transportes combinados, os transportes de mercadorias entre Estados-membros para os quais o camião, o reboque, o semi-reboque, com ou sem tractor, a caixa móvel ou o contentor de 20 pés e mais utilizam a estrada para a parte inicial ou final do trajecto e, para a outra parte, o caminho-de-ferro, uma via navegável ou um percurso marítimo que exceda 100 quilómetros em linha recta, e efectuam o trajecto inicial ou final por via rodoviária:\n\n- quer entre o ponto de carga da mercadoria e a estação ferroviária de embarque apropriada mais próxima para o trajecto inicial e entre a estação ferroviária de desembarque apropriada mais próxima e o ponto de descarga da mercadoria para o trajecto final,\n\n- quer num raio superior a 150 quilómetros em linha recta a partir do porto fluvial ou marítimo de embarque ou de desembarque."
+  },
+  "3c3594c1a4f50814": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nCada Estado-membro libertará os transportes combinados referidos no artigo 1o de todos os regimes de contingentamento e de autorização, o mais tardar em 1 de Julho de 1993."
+  },
+  "e5f67b008e50d2c8": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nEm caso de transporte combinado por conta de outrem, o documento de transporte, que deve preencher, pelo menos, os requisitos estipulados no artigo 6o do Regulamento no 11 do Conselho, de 27 de Junho de 1960, relativo à supressão de discriminações em matéria de preços e condições de transporte, em execução do disposto no no 3 do artigo 79o do Tratado que institui a Comunidade Económica Europeia (6), deve ser completado com a indicação das estações ferroviárias de embarque e de desembarque relativas ao percurso ferroviário ou com a indicação dos portos fluviais de embarque e de desembarque relativos ao percurso por via navegável ou dos portos marítimos de embarque e de desembarque relativos ao percurso marítimo. Estas indicações serão inscritas antes da execução do transporte e confirmadas por aposição de um carimbo das autoridades ferroviárias ou portuárias nas estações ferroviárias ou nos portos fluviais ou marítimos em questão quando tiver sido concluída a parte do transporte efectuada por caminho-de-ferro, por via navegável ou por via marítima."
+  },
+  "381d5f53d2ee2510": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs transportadores rodoviários estabelecidos num Estado-membro que satisfaçam as condições de acesso à profissão e ao mercado dos transportes de mercadorias entre Estados-membros têm o direito de efectuar, no âmbito de um transporte combinado entre Estados-membros, trajectos rodoviários iniciais e/ou finais que façam parte integrante do transporte combinado e que incluam ou não a passagem de uma fronteira."
+  },
+  "4456d5f3d11de4b2": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A Comissão apresentará bienalmente, e pela primeira vez em 1 de Julho de 1995, um relatório ao Conselho sobre:\n\n- o desenvolvimento económico dos transportes combinados,\n\n- a aplicação do direito comunitário nesta área,\n\n- a definição, se for caso disso, de novas acções destinadas a promover os transportes combinados.\n\n2. Na elaboração do relatório referido no no 1, a Comissão será assistida pelos representantes dos Estados-membros para a recolha das informações necessárias para o efeito.\n\nEsse relatório analisará as informações e dados estatísticos relativos nomeadamente a:\n\n- relações de tráfego efectuadas em transporte combinado,\n\n- número de veículos (conjunto rodoviário conta como um único veículo), de caixas amovíveis e de contentores transportados nas diferentes relações de tráfego,\n\n- tonelagens transportadas,\n\n- serviços efectuados em toneladas-quilómetros.\n\nEsse relatório proporá, se for caso disso, soluções que permitam, posteriormente, melhorar essas informações e a situação dos transportes combinados."
+  },
+  "f0fc784afea6595a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros tomarão as medidas necessárias para que os impostos indicados no no 3, aplicáveis aos veículos rodoviários (camiões, tractores, reboques ou semi-reboques) quando estes são encaminhados por transporte combinado, sejam reduzidos ou reembolsados, quer num montante fixo quer proporcionalmente aos percursos ferroviários destes veículos, dentro dos limites e segundo as condições e modalidades por eles definidas após consulta da Comissão.\n\nAs reduções ou os reembolsos referidos no primeiro parágrafo serão concedidos pelo Estado de registo dos veículos com base nos percursos ferroviários efectuados no interior desse Estado.\n\nTodavia, os Estados-membros podem conceder essas reduções ou reembolsos tendo em conta os percursos ferroviários efectuados quer parcialmente quer na totalidade, fora do Estado-membro de registo dos veículos.\n\n2. Sem prejuízo das disposições que resultem de uma eventual adaptação no plano comunitário dos sistemas nacionais de impostos sobre veículos comerciais, os veículos utilizados exclusivamente para a tracção rodoviária em trajectos iniciais ou finais de um transporte combinado podem ser isentos dos impostos indicados no no 3, se forem tributados isoladamente.\n\n3. Os impostos referidos nos nos 1 e 2 são os seguintes:\n\n- Bélgica:\n\ntaxe de circulation sur les véhicules automobiles/verkeersbelasting op de autovoertuigen;\n\n- Dinamarca:\n\nvaegtafgift af motorkoeretoejer mv;\n\n- Alemanha:\n\nKraftfahrzeugsteuer;\n\n- França:\n\ntaxe spéciale sur certains véhicules routiers;\n\n- Grécia:\n\nôÝëç êõêëïoeïñssáò áõôïêéíÞôùí;\n\n- Espanha:\n\na) impuesto sobre actividades económicas,\n\nb) impuesto sobre vehículos de tracción mecánica;\n\n- Irlanda:\n\n- vehicle excise duties;\n\n- Itália:\n\na) tassa automobilistica,\n\nb) addizionale del 5 % sulla tassa automobilistica;\n\n- Luxemburgo:\n\ntaxe sur les véhicules automoteurs;\n\n- Países Baixos:\n\nmotorrijtuigenbelasting;\n\n- Portugal:\n\na) imposto de camionagem,\n\nb) imposto de circulação;\n\n- Reino Unido:\n\nvehicle excise duties."
+  },
+  "f848a3418d2cb20a": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nSempre que um reboque ou um semi-reboque pertencentes a uma empresa que efectue transportes por conta própria for traccionado, num dos percursos finais, por um tractor que pertença a uma empresa que efectue transportes por conta de outrem, o transporte assim efectuado está dispensado do documento previsto no artigo 3o; todavia, deve ser apresentado um outro documento que faça prova do percurso efectuado ou a efectuar por caminho-de-ferro, por via navegável ou por via marítima."
+  },
+  "bdcb926ae77ea3d9": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nO trajecto rodoviário inicial ou final efectuado no âmbito de um transporte combinado fica isento de qualquer tarificação obrigatória."
+  },
+  "c51b4cbab0270823": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nSempre que, no âmbito de um transporte combinado, a empresa expedidora efectuar o percurso rodoviário inicial por conta própria na acepção da Primeira Directiva do Conselho, de 23 de Julho de 1962, relativa ao estabelecimento de certas regras comuns para determinados transportes rodoviários de mercadorias (7), a empresa destinatária da mercadoria transportada pode, em derrogação da definição constante da directiva supracitada, efectuar por conta própria o percurso rodoviário final para transportar a mercadoria ao seu destino, utilizando um tractor que lhe pertença ou que tenha comprado a prestações ou alugado nos termos da Directiva 84/647/CEE do Conselho, de 19 de Dezembro de 1984, relativa à utilização de veículos de aluguer sem condutor no transporte rodoviário de mercadorias (8), e que seja conduzido pelos seus empregados, se o reboque ou semi-reboque tiver sido registado pela empresa expedidora ou por ela alugado.\n\nO percurso rodoviário inicial de um transporte combinado, efectuado pela empresa expedidora utilizando um tractor que lhe pertença ou que tenha comprado a prestações ou alugado nos termos da Directiva 84/647/CEE e conduzido pelos seus empregados, se o reboque ou semi-reboque tiver sido registado pela empresa destinatária da mercadoria transportada ou por ela alugado, é igualmente considerado, em derrogação da Primeira Directiva de 23 de Julho de 1962, como uma operação de transporte por conta própria sempre que o percurso rodoviário final seja efectuado por conta própria pela empresa destinatária, nos termos dessa primeira directiva."
+  },
+  "1ec24796d3443074": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Julho de 1993. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem as referidas disposições, estas devem conter uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem nas matérias reguladas pela presente directiva."
+  },
+  "515e0fb9d65f79e2": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. É revogada a Directiva 75/130/CEE (9), sem prejuízo das obrigações dos Estados-membros no que se refere aos prazos de transposição e de aplicação constantes da parte A do anexo.\n\n2. As referências feitas à directiva revogada entendem-se como referências à presente directiva e devem interpretar-se de acordo com o quadro de correspondências constante da parte B do anexo."
+  },
+  "dc91d603a6931fbd": {
+   "fragment_id": "Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 7 de Dezembro de 1992. Pelo Conselho",
+   "type": "artigo",
+   "heading": "Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 7 de Dezembro de 1992. Pelo Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 7 de Dezembro de 1992. Pelo Conselho\n\nO Presidente\n\nJ. MacGREGOR\n\n(1) JO no C 282 de 30. 10. 1992, p. 8. (2) Parecer emitido em 20 de Novembro de 1992 (ainda não publicado no Jornal Oficial). (3) Parecer emitido em 24 de Novembro de 1992 (ainda não publicado no Jornal Oficial). (4) JO no L 48 de 22. 2. 1975, p. 31. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) no 881/92 (JO no L 95 de 9. 4. 1992, p. 1). (5) Regulamento (CEE) no 881/92 do Conselho, de 26 de Março de 1992, relativo ao acesso ao mercado dos transportes rodoviários de mercadorias na Comunidade efectuados a partir do ou com destino ao território de um Estado-membro ou que atravessem o território de um ou vários Estados-membros (JO no L 95 de 9. 4. 1992, p. 1). (6) JO no 52 de 16. 8. 1960, p. 1221/60. (7) JO no 70 de 6. 8. 1962, p. 2005/62. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) no 881/92 (JO no L 95 de 9. 4. 1992, p. 1). (8) JO no L 335 de 22. 12. 1984, p. 72. Directiva alterada pela Directiva 90/398/CEE (JO no L 202 de 31. 7. 1980, p. 46). (9) Incluindo os actos que a alteraram, ou seja, as disposições pertinentes do Acto de Adesão de 1985 e as Directivas 79/5/CEE, 82/3/CEE, 82/603/CEE, 86/544/CEE e 91/224/CEE."
+  },
+  "cd890be04b116e31": {
+   "fragment_id": "ANEXO — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PARTE A\n\nPrazos de transposição e de aplicação\n\nDirectiva Data limite de transposição ou de aplicação 75/130/CEE (JO no L 48 de 22. 2. 1975, p. 31) 30 de Junho de 1975 79/ 5/CEE (JO no L 5 de 9. 1. 1979, p. 33) 1 de Julho de 1979 82/ 3/CEE (JO no L 5 de 9. 1. 1982, p. 12) - 82/603/CEE (JO no L 247 de 23. 8. 1982, p. 6) 1 de Abril de 1983 86/544/CEE (JO no L 320 de 15. 11. 1986, p. 33) 1 de Julho de 1987 91/224/CEE (JO no L 103 de 23. 4. 1991, p. 1) 1 de Janeiro de 1992"
+  },
+  "82acb2cac0d9212e": {
+   "fragment_id": "PARTE B — Quadro de correspondência",
+   "type": "divisao",
+   "heading": "PARTE B — Quadro de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — Quadro de correspondência\n\nPresente directiva Directiva 75/130/CEE Artigo 1o Artigo 1o Artigo 2o Artigo 2o Artigo 3o Artigo 3o Artigo 4o Artigo 6o Artigo 5o Artigo 7o Artigo 6o Artigo 8o Artigo 7o Artigo 9o Artigo 8o Artigo 11o Artigo 9o Artigo 12o"
+  },
+  "b08fad4ace023dbc": {
+   "fragment_id": "Artigo 10o — - Artigo 11o - Artigo 12o Artigo 13o Anexo -",
+   "type": "artigo",
+   "heading": "Artigo 10o — - Artigo 11o - Artigo 12o Artigo 13o Anexo -",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o — - Artigo 11o - Artigo 12o Artigo 13o Anexo -"
+  },
+  "63531f046609117c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Dezembro de 1992\n\nrelativa ao estabelecimento de regras comuns para certos transportes combinados de mercadorias entre Estados-membros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75.º e o n.º 2 do seu artigo 84.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0003)),\n\nConsiderando que a Directiva 75/130/CEE do Conselho, de 17 de Fevereiro de 1975, relativa ao estabelecimento de regras comuns para certos transportes combinados rodo/ferroviários de mercadorias entre Estados-membros ([^4^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0004)), foi várias vezes alterada; que, efectuando-se agora novas alterações, se deve, por uma questão de clareza, proceder à reformulação da referida directiva;\n\nConsiderando que o mercado interno provocará um aumento do tráfego e que a Comunidade deve utilizar os meios necessários para gerir, da melhor forma possível e a bem do interesse colectivo, os seus recursos em matéria de transportes, o que implica o apelo aos transportes combinados;\n\nConsiderando que os problemas cada vez maiores inerentes ao congestionamento das estradas, ao ambiente e à segurança rodoviária exigem, a bem do interesse público, um desenvolvimento mais acelerado dos transportes combinados como alternativa ao transporte rodoviário;\n\nConsiderando que devem ser tomadas medidas destinadas a permitir um desenvolvimento progressivo das técnicas de transporte baseado no carácter intermodal dos transportes, bem como nos meios e necessidades específicas dos operadores e utentes dos transportes; que essas medidas devem visar os transportes combinados que associam a estrada a outros meios de transporte, nomeadamente o caminho-de-ferro, a navegação fluvial e a navegação marítima;\n\nConsiderando que a liberalização de todas as restrições quantitativas e a supressão de várias restrições de ordem administrativa ainda existentes no domínio dos transportes rodoviários são de molde a fomentar uma utilização mais ampla dos transportes combinados;\n\nConsiderando que, para que a técnica do transporte combinado conduza ao descongestionamento efectivo das estradas, essa liberalização deve incidir nos percursos rodoviários limitados em distância;\n\nConsiderando que a liberalização dos percursos rodoviários iniciais e finais de um transporte combinado deve ser tornada extensiva aos transportes combinados por via marítima sempre que o percurso marítimo represente uma parte considerável desses transportes combinados;\n\nConsiderando que é conveniente que a Comissão apresente, de dois em dois anos, e pela primeira vez antes de 1 de Julho de 1995, um relatório sobre a aplicação da presente directiva;\n\nConsiderando que o desenvolvimento dos transportes combinados seria igualmente facilitado por medidas de incentivo e que, consequentemente, é oportuno reduzir os impostos que recaem sobre a circulação e os veículos comerciais de mercadorias na medida em que estes últimos sejam transportados por caminho-de-ferro, e isentar os troços rodoviários iniciais e finais de qualquer tarificação obrigatória;\n\nConsiderando que é conveniente facilitar o acesso do transporte por conta própria aos transportes combinados;\n\nConsiderando que a presente directiva não deve afectar as obrigações dos Estados-membros relativas aos prazos de transposição e de aplicação das directivas sujeitas à reformulação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "503e4d5aa48b3921": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se às operações de transporte combinado, sem prejuízo do Regulamento (CEE) n.º 881/92 ([^5^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0005)).\n\nNa acepção da presente directiva entende-se por transportes combinados, os transportes de mercadorias entre Estados-membros para os quais o camião, o reboque, o semi-reboque, com ou sem tractor, a caixa móvel ou o contentor de 20 pés e mais utilizam a estrada para a parte inicial ou final do trajecto e, para a outra parte, o caminho-de-ferro, uma via navegável ou um percurso marítimo que exceda 100 quilómetros em linha recta, e efectuam o trajecto inicial ou final por via rodoviária:\n\n— quer entre o ponto de carga da mercadoria e a estação ferroviária de embarque apropriada mais próxima para o trajecto inicial e entre a estação ferroviária de desembarque apropriada mais próxima e o ponto de descarga da mercadoria para o trajecto final,\n\n— quer num raio superior a 150 quilómetros em linha recta a partir do porto fluvial ou marítimo de embarque ou de desembarque."
+  },
+  "cf771b8ca5aa81c7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCada Estado-membro libertará os transportes combinados referidos no artigo 1 de todos os regimes de contingentamento e de autorização, o mais tardar em 1 de Julho de 1993."
+  },
+  "ec89112b7b69b702": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEm caso de transporte combinado por conta de outrem, o documento de transporte, que deve preencher, pelo menos, os requisitos estipulados no artigo 6.º do Regulamento n.º 11 do Conselho, de 27 de Junho de 1960, relativo à supressão de discriminações em matéria de preços e condições de transporte, em execução do disposto no n.º 3 do artigo 79.º do Tratado que institui a Comunidade Económica Europeia ([^6^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0006)), deve ser completado com a indicação das estações ferroviárias de embarque e de desembarque relativas ao percurso ferroviário ou com a indicação dos portos fluviais de embarque e de desembarque relativos ao percurso por via navegável ou dos portos marítimos de embarque e de desembarque relativos ao percurso marítimo. Estas indicações serão inscritas antes da execução do transporte e confirmadas por aposição de um carimbo das autoridades ferroviárias ou portuárias nas estações ferroviárias ou nos portos fluviais ou marítimos em questão quando tiver sido concluída a parte do transporte efectuada por caminho-de-ferro, por via navegável ou por via marítima."
+  },
+  "dea4f2aa05099c37": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs transportadores rodoviários estabelecidos num Estado-membro que satisfaçam as condições de acesso à profissão e ao mercado dos transportes de mercadorias entre Estados-membros têm o direito de efectuar, no âmbito de um transporte combinado entre Estados-membros, trajectos rodoviários iniciais e/ou finais que façam parte integrante do transporte combinado e que incluam ou não a passagem de uma fronteira."
+  },
+  "ea893035a980025c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão apresentará bienalmente, e pela primeira vez em 1 de Julho de 1995, um relatório ao Conselho sobre:\n\n— o desenvolvimento económico dos transportes combinados,\n\n— a aplicação do direito comunitário nesta área,\n\n— a definição, se for caso disso, de novas acções destinadas a promover os transportes combinados.\n\n2. Na elaboração do relatório referido no n.º 1, a Comissão será assistida pelos representantes dos Estados-membros para a recolha das informações necessárias para o efeito.\n\nEsse relatório analisará as informações e dados estatísticos relativos nomeadamente a:\n\n— relações de tráfego efectuadas em transporte combinado,\n\n— número de veículos (conjunto rodoviário conta como um único veículo), de caixas amovíveis e de contentores transportados nas diferentes relações de tráfego,\n\n— tonelagens transportadas,\n\n— serviços efectuados em toneladas-quilómetros.\n\nEsse relatório proporá, se for caso disso, soluções que permitam, posteriormente, melhorar essas informações e a situação dos transportes combinados."
+  },
+  "d9956f0933bddb5d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros tomarão as medidas necessárias para que os impostos indicados no n.º 3, aplicáveis aos veículos rodoviários (camiões, tractores, reboques ou semi-reboques) quando estes são encaminhados por transporte combinado, sejam reduzidos ou reembolsados, quer num montante fixo quer proporcionalmente aos percursos ferroviários destes veículos, dentro dos limites e segundo as condições e modalidades por eles definidas após consulta da Comissão.\n\nAs reduções ou os reembolsos referidos no primeiro parágrafo serão concedidos pelo Estado de registo dos veículos com base nos percursos ferroviários efectuados no interior desse Estado.\n\nTodavia, os Estados-membros podem conceder essas reduções ou reembolsos tendo em conta os percursos ferroviários efectuados quer parcialmente quer na totalidade, fora do Estado-membro de registo dos veículos.\n\n2. Sem prejuízo das disposições que resultem de uma eventual adaptação no plano comunitário dos sistemas nacionais de impostos sobre veículos comerciais, os veículos utilizados exclusivamente para a tracção rodoviária em trajectos iniciais ou finais de um transporte combinado podem ser isentos dos impostos indicados no n.º 3, se forem tributados isoladamente.\n\n3. Os impostos referidos nos n.^os^ 1 e 2 são os seguintes:\n\n— Bélgica:\n\n— *taxe de circulation sur les véhicules automobiles*/*verkeersbelasting op de autovoertuigen*;\n\n— Bulgária:\n\n— данък върху превозните средства;\n\n— República Checa:\n\n— silniční daň;\n\n— Dinamarca:\n\n— *vægtafgift af motorkøretøjer mv*;\n\n— Alemanha:\n\n— *Kraftfahrzeugsteuer*;\n\n— Estónia:\n\n— raskeveokimaks;\n\n— França:\n\n— *taxe spéciale sur certains véhicules routiers*;\n\n— Grécia:\n\n— *τέλη κυκλοφορίας αυτοκινήτων*;\n\n— Espanha:\n\na) *impuesto sobre actividades económicas*,\n\nb) *impuesto sobre vehículos de tracción mecánica*;\n\n— Irlanda:\n\n— *vehicle excise duties*;\n\n— Itália:\n\na) *tassa automobilistica*,\n\nb) *addizionale del 5 % sulla tassa automobilistica*;\n\n— Chipre:\n\n— τέλη κυκλοφορίας οχημάτων;\n\n— Letónia:\n\n— transportlīdzekļa ikgadējā nodeva;\n\n— Lituânia:\n\n— transporto priemonių savininkų ar valdytojų naudotojo mokestis;\n\n— Luxemburgo:\n\n— *taxe sur les véhicules automoteurs*;\n\n— Hungria:\n\n— gépjárműadó;\n\n— Malta:\n\n— liċenzja tat-triq/road licence fee;\n\n— Países Baixos:\n\n— *motorrijtuigenbelasting*;\n\n— Áustria:\n\n— *Straßenverkehrsbeitrag*;\n\n— Polónia:\n\n— podatek od środków transportowych;\n\n— Portugal:\n\na) imposto de camionagem,\n\nb) imposto de circulação;\n\n— Roménia:\n\n— Taxa asupra mijloacelor de transport;\n\n— Eslovénia:\n\n— letno povračilo za uporabo javnih cest za motorna in priklopna vozila;\n\n— Eslováquia:\n\n— cestná daň;\n\n— Finlândia:\n\n— *varsinainen ajoneuvovero*/*egentlig fordonsskatt*;\n\n— Suécia:\n\n— *fordonsskatt*;\n\n— Reino Unido:\n\n— *vehicle excise duties*."
+  },
+  "ee68aaee52b8fe8f": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSempre que um reboque ou um semi-reboque pertencentes a uma empresa que efectue transportes por conta própria for traccionado, num dos percursos finais, por um tractor que pertença a uma empresa que efectue transportes por conta de outrem, o transporte assim efectuado está dispensado do documento previsto no artigo 3.º; todavia, deve ser apresentado um outro documento que faça prova do percurso efectuado ou a efectuar por caminho-de-ferro, por via navegável ou por via marítima."
+  },
+  "12696690e7de38fb": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO trajecto rodoviário inicial ou final efectuado no âmbito de um transporte combinado fica isento de qualquer tarificação obrigatória."
+  },
+  "baa441f26045b571": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSempre que, no âmbito de um transporte combinado, a empresa expedidora efectuar o percurso rodoviário inicial por conta própria na acepção da Primeira Directiva do Conselho, de 23 de Julho de 1962, relativa ao estabelecimento de certas regras comuns para determinados transportes rodoviários de mercadorias ([^7^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0007)), a empresa destinatária da mercadoria transportada pode, em derrogação da definição constante da directiva supracitada, efectuar por conta própria o percurso rodoviário final para transportar a mercadoria ao seu destino, utilizando um tractor que lhe pertença ou que tenha comprado a prestações ou alugado nos termos da Directiva 84/647/CEE do Conselho, de 19 de Dezembro de 1984, relativa à utilização de veículos de aluguer sem condutor no transporte rodoviário de mercadorias ([^8^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0008)), e que seja conduzido pelos seus empregados, se o reboque ou semi-reboque tiver sido registado pela empresa expedidora ou por ela alugado.\n\nO percurso rodoviário inicial de um transporte combinado, efectuado pela empresa expedidora utilizando um tractor que lhe pertença ou que tenha comprado a prestações ou alugado nos termos da Directiva 84/647/CEE e conduzido pelos seus empregados, se o reboque ou semi-reboque tiver sido registado pela empresa destinatária da mercadoria transportada ou por ela alugado, é igualmente considerado, em derrogação da Primeira Directiva de 23 de Julho de 1962, como uma operação de transporte por conta própria sempre que o percurso rodoviário final seja efectuado por conta própria pela empresa destinatária, nos termos dessa primeira directiva."
+  },
+  "53a6b1559274a220": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Julho de 1993. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem as referidas disposições, estas devem conter uma referência à presente directiva ou ser acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem nas matérias reguladas pela presente directiva."
+  },
+  "2c9500f34c098026": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. É revogada a Directiva 75/130/CEE ([^9^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#E0009)), sem prejuízo das obrigações dos Estados-membros no que se refere aos prazos de transposição e de aplicação constantes da parte A do anexo.\n\n2. As referências feitas à directiva revogada entendem-se como referências à presente directiva e devem interpretar-se de acordo com o quadro de correspondências constante da parte B do anexo."
+  },
+  "08b66beb65f6c7c3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "1edf65a941127273": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva Data limite de transposição ou de aplicação\n\n75/130/CEE (JO n.º L 48 de 22. 2. 1975, p. 31) 30 de Junho de 1975\n\n79/5/CEE (JO n.º L 5 de 9. 1. 1979, p. 33) 1 de Julho de 1979\n\n82/3/CEE (JO n.º L 5 de 9. 1. 1982, p. 12) —\n\n82/603/CEE (JO n.º L 247 de 23. 8. 1982, p. 6) 1 de Abril de 1983\n\n86/544/CEE (JO n.º L 320 de 15. 11. 1986, p. 33) 1 de Julho de 1987\n\n91/224/CEE (JO n.º L 103 de 23. 4. 1991, p. 1). 1 de Janeiro de 1992"
+  },
+  "1b2f850f3f0b4a76": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nPresente Directiva Directiva 75/130/CEE\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\nArtigo 4.º Artigo 6.º\n\nArtigo 5.º Artigo 7.º\n\nArtigo 6.º Artigo 8.º\n\nArtigo 7.º Artigo 9.º\n\nArtigo 8.º Artigo 11.º\n\nArtigo 9.º Artigo 12.º\n\nArtigo 10.º —\n\nArtigo 11.º —\n\nArtigo 12.º Artigo 13.º\n\nAnexo —\n\n---"
+  },
+  "9be7f5dfd126e6b9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0001)) JO n.º C 282 de 30. 10. 1992, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0002)) Parecer emitido em 20 de Novembro de 1992 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0003)) Parecer emitido em 24 de Novembro de 1992 (ainda não publicado no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0004)) JO n.º L 48 de 22. 2. 1975, p. 31. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 881/92 (JO n.º L 95 de 9. 4. 1992, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0005)) Regulamento (CEE) n.º 881/92 do Conselho, de 26 de Março de 1992, relativo ao acesso ao mercado dos transportes rodoviários de mercadorias na Comunidade efectuados a partir do ou com destino ao território de um Estado-membro ou que atravessem o território de um ou vários Estados-membros (*JO n.º L 95 de 9. 4. 1992, p. 1*).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0006)) JO n.º 52 de 16. 8. 1960, p. 1121/60.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0007)) JO n.º 70 de 6. 8. 1962, p. 2005/62.Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 881/92 (JO n.º L 95 de 9. 4. 1992, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0008)) JO n.º L 335 de 22. 12. 1984, p. 72.Directiva alterada pela Directiva 90/398/CEE (JO n.º L 202 de 31. 7. 1980, p. 46).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b420865d-afcb-4065-9102-6f164b1f8044.0011.03/DOC_1#src.E0009)) Incluindo os actos que a alteraram, ou seja, as disposições pertinentes do Acto de Adesão de 1985 e as Directivas 79/5/CEE, 82/3/CEE, 82/603/CEE, 86/544/CEE e 91/224/CEE."
+  },
+  "690b6597c6eb4236": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Dezembro de 1992\n\nrelativa ao estabelecimento de regras comuns para certos transportes combinados de mercadorias entre Estados-membros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 75.º e o n.º 2 do seu artigo 84.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0003)),\n\nConsiderando que a Directiva 75/130/CEE do Conselho, de 17 de Fevereiro de 1975, relativa ao estabelecimento de regras comuns para certos transportes combinados rodo/ferroviários de mercadorias entre Estados-membros ([^4^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0004)), foi várias vezes alterada; que, efectuando-se agora novas alterações, se deve, por uma questão de clareza, proceder à reformulação da referida directiva;\n\nConsiderando que o mercado interno provocará um aumento do tráfego e que a Comunidade deve utilizar os meios necessários para gerir, da melhor forma possível e a bem do interesse colectivo, os seus recursos em matéria de transportes, o que implica o apelo aos transportes combinados;\n\nConsiderando que os problemas cada vez maiores inerentes ao congestionamento das estradas, ao ambiente e à segurança rodoviária exigem, a bem do interesse público, um desenvolvimento mais acelerado dos transportes combinados como alternativa ao transporte rodoviário;\n\nConsiderando que devem ser tomadas medidas destinadas a permitir um desenvolvimento progressivo das técnicas de transporte baseado no carácter intermodal dos transportes, bem como nos meios e necessidades específicas dos operadores e utentes dos transportes; que essas medidas devem visar os transportes combinados que associam a estrada a outros meios de transporte, nomeadamente o caminho-de-ferro, a navegação fluvial e a navegação marítima;\n\nConsiderando que a liberalização de todas as restrições quantitativas e a supressão de várias restrições de ordem administrativa ainda existentes no domínio dos transportes rodoviários são de molde a fomentar uma utilização mais ampla dos transportes combinados;\n\nConsiderando que, para que a técnica do transporte combinado conduza ao descongestionamento efectivo das estradas, essa liberalização deve incidir nos percursos rodoviários limitados em distância;\n\nConsiderando que a liberalização dos percursos rodoviários iniciais e finais de um transporte combinado deve ser tornada extensiva aos transportes combinados por via marítima sempre que o percurso marítimo represente uma parte considerável desses transportes combinados;\n\nConsiderando que é conveniente que a Comissão apresente, de dois em dois anos, e pela primeira vez antes de 1 de Julho de 1995, um relatório sobre a aplicação da presente directiva;\n\nConsiderando que o desenvolvimento dos transportes combinados seria igualmente facilitado por medidas de incentivo e que, consequentemente, é oportuno reduzir os impostos que recaem sobre a circulação e os veículos comerciais de mercadorias na medida em que estes últimos sejam transportados por caminho-de-ferro, e isentar os troços rodoviários iniciais e finais de qualquer tarificação obrigatória;\n\nConsiderando que é conveniente facilitar o acesso do transporte por conta própria aos transportes combinados;\n\nConsiderando que a presente directiva não deve afectar as obrigações dos Estados-membros relativas aos prazos de transposição e de aplicação das directivas sujeitas à reformulação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "57ed3423b1c35733": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva aplica-se às operações de transporte combinado, sem prejuízo do Regulamento (CEE) n.º 881/92 ([^5^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0005)).\n\nNa acepção da presente directiva entende-se por transportes combinados, os transportes de mercadorias entre Estados-membros para os quais o camião, o reboque, o semi-reboque, com ou sem tractor, a caixa móvel ou o contentor de 20 pés e mais utilizam a estrada para a parte inicial ou final do trajecto e, para a outra parte, o caminho-de-ferro, uma via navegável ou um percurso marítimo que exceda 100 quilómetros em linha recta, e efectuam o trajecto inicial ou final por via rodoviária:\n\n— quer entre o ponto de carga da mercadoria e a estação ferroviária de embarque apropriada mais próxima para o trajecto inicial e entre a estação ferroviária de desembarque apropriada mais próxima e o ponto de descarga da mercadoria para o trajecto final,\n\n— quer num raio superior a 150 quilómetros em linha recta a partir do porto fluvial ou marítimo de embarque ou de desembarque."
+  },
+  "bba6dae941c3b347": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEm caso de transporte combinado por conta de outrem, o documento de transporte, que deve preencher, pelo menos, os requisitos estipulados no artigo 6.º do Regulamento n.º 11 do Conselho, de 27 de Junho de 1960, relativo à supressão de discriminações em matéria de preços e condições de transporte, em execução do disposto no n.º 3 do artigo 79.º do Tratado que institui a Comunidade Económica Europeia ([^6^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0006)), deve ser completado com a indicação das estações ferroviárias de embarque e de desembarque relativas ao percurso ferroviário ou com a indicação dos portos fluviais de embarque e de desembarque relativos ao percurso por via navegável ou dos portos marítimos de embarque e de desembarque relativos ao percurso marítimo. Estas indicações serão inscritas antes da execução do transporte e confirmadas por aposição de um carimbo das autoridades ferroviárias ou portuárias nas estações ferroviárias ou nos portos fluviais ou marítimos em questão quando tiver sido concluída a parte do transporte efectuada por caminho-de-ferro, por via navegável ou por via marítima."
+  },
+  "eeda32ae5d88bfc5": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros tomarão as medidas necessárias para que os impostos indicados no n.º 3, aplicáveis aos veículos rodoviários (camiões, tractores, reboques ou semi-reboques) quando estes são encaminhados por transporte combinado, sejam reduzidos ou reembolsados, quer num montante fixo quer proporcionalmente aos percursos ferroviários destes veículos, dentro dos limites e segundo as condições e modalidades por eles definidas após consulta da Comissão.\n\nAs reduções ou os reembolsos referidos no primeiro parágrafo serão concedidos pelo Estado de registo dos veículos com base nos percursos ferroviários efectuados no interior desse Estado.\n\nTodavia, os Estados-membros podem conceder essas reduções ou reembolsos tendo em conta os percursos ferroviários efectuados quer parcialmente quer na totalidade, fora do Estado-membro de registo dos veículos.\n\n2. Sem prejuízo das disposições que resultem de uma eventual adaptação no plano comunitário dos sistemas nacionais de impostos sobre veículos comerciais, os veículos utilizados exclusivamente para a tracção rodoviária em trajectos iniciais ou finais de um transporte combinado podem ser isentos dos impostos indicados no n.º 3, se forem tributados isoladamente.\n\n3. Os impostos referidos nos n.^os^ 1 e 2 são os seguintes:\n\n— Bélgica:\n\n— *taxe de circulation sur les véhicules automobiles*/*verkeersbelasting op de autovoertuigen*;\n\n— Bulgária:\n\n— данък върху превозните средства;\n\n— República Checa:\n\n— silniční daň;\n\n— Dinamarca:\n\n— *vægtafgift af motorkøretøjer mv*;\n\n— Alemanha:\n\n— *Kraftfahrzeugsteuer*;\n\n— Estónia:\n\n— raskeveokimaks;\n\n— França:\n\n— *taxe spéciale sur certains véhicules routiers*;\n\n— Croácia:\n\n— godišnja naknada za uporabu javnih cesta koja se plaća pri registraciji motornih i priključnih vozila;\n\n— Grécia:\n\n— *τέλη κυκλοφορίας αυτοκινήτων*;\n\n— Espanha:\n\na) *impuesto sobre actividades económicas*,\n\nb) *impuesto sobre vehículos de tracción mecánica*;\n\n— Irlanda:\n\n— *vehicle excise duties*;\n\n— Itália:\n\na) *tassa automobilistica*,\n\nb) *addizionale del 5 % sulla tassa automobilistica*;\n\n— Chipre:\n\n— τέλη κυκλοφορίας οχημάτων;\n\n— Letónia:\n\n— transportlīdzekļa ikgadējā nodeva;\n\n— Lituânia:\n\n— transporto priemonių savininkų ar valdytojų naudotojo mokestis;\n\n— Luxemburgo:\n\n— *taxe sur les véhicules automoteurs*;\n\n— Hungria:\n\n— gépjárműadó;\n\n— Malta:\n\n— liċenzja tat-triq/road licence fee;\n\n— Países Baixos:\n\n— *motorrijtuigenbelasting*;\n\n— Áustria:\n\n— *Straßenverkehrsbeitrag*;\n\n— Polónia:\n\n— podatek od środków transportowych;\n\n— Portugal:\n\na) imposto de camionagem,\n\nb) imposto de circulação;\n\n— Roménia:\n\n— Taxa asupra mijloacelor de transport;\n\n— Eslovénia:\n\n— letno povračilo za uporabo javnih cest za motorna in priklopna vozila;\n\n— Eslováquia:\n\n— cestná daň;\n\n— Finlândia:\n\n— *varsinainen ajoneuvovero*/*egentlig fordonsskatt*;\n\n— Suécia:\n\n— *fordonsskatt*;\n\n— Reino Unido:\n\n— *vehicle excise duties*."
+  },
+  "02acf624b2c5ea2f": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSempre que, no âmbito de um transporte combinado, a empresa expedidora efectuar o percurso rodoviário inicial por conta própria na acepção da Primeira Directiva do Conselho, de 23 de Julho de 1962, relativa ao estabelecimento de certas regras comuns para determinados transportes rodoviários de mercadorias ([^7^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0007)), a empresa destinatária da mercadoria transportada pode, em derrogação da definição constante da directiva supracitada, efectuar por conta própria o percurso rodoviário final para transportar a mercadoria ao seu destino, utilizando um tractor que lhe pertença ou que tenha comprado a prestações ou alugado nos termos da Directiva 84/647/CEE do Conselho, de 19 de Dezembro de 1984, relativa à utilização de veículos de aluguer sem condutor no transporte rodoviário de mercadorias ([^8^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0008)), e que seja conduzido pelos seus empregados, se o reboque ou semi-reboque tiver sido registado pela empresa expedidora ou por ela alugado.\n\nO percurso rodoviário inicial de um transporte combinado, efectuado pela empresa expedidora utilizando um tractor que lhe pertença ou que tenha comprado a prestações ou alugado nos termos da Directiva 84/647/CEE e conduzido pelos seus empregados, se o reboque ou semi-reboque tiver sido registado pela empresa destinatária da mercadoria transportada ou por ela alugado, é igualmente considerado, em derrogação da Primeira Directiva de 23 de Julho de 1962, como uma operação de transporte por conta própria sempre que o percurso rodoviário final seja efectuado por conta própria pela empresa destinatária, nos termos dessa primeira directiva."
+  },
+  "09886067e5e9d354": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. É revogada a Directiva 75/130/CEE ([^9^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#E0009)), sem prejuízo das obrigações dos Estados-membros no que se refere aos prazos de transposição e de aplicação constantes da parte A do anexo.\n\n2. As referências feitas à directiva revogada entendem-se como referências à presente directiva e devem interpretar-se de acordo com o quadro de correspondências constante da parte B do anexo."
+  },
+  "5cb338796f11abfc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0001)) JO n.º C 282 de 30. 10. 1992, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0002)) Parecer emitido em 20 de Novembro de 1992 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0003)) Parecer emitido em 24 de Novembro de 1992 (ainda não publicado no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0004)) JO n.º L 48 de 22. 2. 1975, p. 31. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 881/92 (JO n.º L 95 de 9. 4. 1992, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0005)) Regulamento (CEE) n.º 881/92 do Conselho, de 26 de Março de 1992, relativo ao acesso ao mercado dos transportes rodoviários de mercadorias na Comunidade efectuados a partir do ou com destino ao território de um Estado-membro ou que atravessem o território de um ou vários Estados-membros (*JO n.º L 95 de 9. 4. 1992, p. 1*).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0006)) JO n.º 52 de 16. 8. 1960, p. 1121/60.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0007)) JO n.º 70 de 6. 8. 1962, p. 2005/62.Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 881/92 (JO n.º L 95 de 9. 4. 1992, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0008)) JO n.º L 335 de 22. 12. 1984, p. 72.Directiva alterada pela Directiva 90/398/CEE (JO n.º L 202 de 31. 7. 1980, p. 46).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1#src.E0009)) Incluindo os actos que a alteraram, ou seja, as disposições pertinentes do Acto de Adesão de 1985 e as Directivas 79/5/CEE, 82/3/CEE, 82/603/CEE, 86/544/CEE e 91/224/CEE."
+  }
+ }
+}

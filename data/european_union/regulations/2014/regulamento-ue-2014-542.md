@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: eu:celex:32014R0542:por
+title: Regulamento (UE) n. ° 542/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014
+short_title: null
+summary: Regulamento (UE) n. ° 542/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014 , que altera o Regulamento
+  (UE) n. ° 1215/2012, no que diz respeito às regras a aplicar em relação ao Tribunal Unificado de Patentes e ao Tribunal
+  de Justiça do Benelux
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Parlamento Europeu
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2014/542
+official_date: null
+publication_date: '2014-05-29'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 163 de 29.5.2014
+  number: '163'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2014-05-30'
+- '2015-01-10'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32014R0542
+  eli: http://data.europa.eu/eli/reg/2014/542/oj
+  oj: oj:JOL_2014_163_R_0001
+  dre: null
+  dre_path: null
+  internal: eu:celex:32014R0542:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32014R0542
+  metadata_url: http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:18:12Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-16T15:07:00.760+02:00'
+integrity:
+  source_sha256: f51615b9851fddfa4902e828856b776368bccf06f92307ca6941cc3391cd30ea
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:18:12Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Benelux
+- competência jurisdicional
+- cooperação judiciária civil na UE
+- direito civil
+- direito comercial
+- direito de patentes
+- execução de sentença
+- jurisdição
+- princípio de reconhecimento mútuo
+relationships:
+- type: amends
+  target: celex:32012R1215
+  label: null
+  source: http://publications.europa.eu/resource/cellar/387e4da5-e292-496d-a9bc-c3ebface5413
+  date: '2012-12-20'
+- type: based_on
+  target: celex:12012E081
+  label: null
+  source: http://publications.europa.eu/resource/cellar/db007d02-a470-4275-b5b7-845a985604dc
+  date: '2012-11-23'
+- type: based_on
+  target: celex:12012E294
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
+  date: '2012-11-23'
+- type: cites
+  target: celex:22005A1116(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/71a5c2cc-22d4-4da0-9b2a-8515772aaa55
+- type: cites
+  target: celex:42013A0620(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1975f569-da3c-11e2-bfa7-01aa75ed71a1
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:18:12Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO (UE) N.º 542/2014 DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 15 de maio de 2014
+
+que altera o Regulamento (UE) n.º 1215/2012, no que diz respeito às regras a aplicar em relação ao Tribunal Unificado de Patentes e ao Tribunal de Justiça do Benelux
+
+O PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 81.º, n.º 2, alíneas a), c) e e),
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Após transmissão do projeto de ato legislativo aos parlamentos nacionais,
+
+Tendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2014163PT.01000101-E0001),
+
+Deliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2014163PT.01000101-E0002),
+
+Considerando o seguinte:
+
+(1) Em 19 de fevereiro de 2013, o Reino da Bélgica, a República da Bulgária, a República Checa, o Reino da Dinamarca, a República Federal da Alemanha, a República da Estónia, a Irlanda, a República Helénica, a República Francesa, a República Italiana, a República de Chipre, a República da Letónia, a República da Lituânia, o Grão-Ducado do Luxemburgo, a Hungria, a República de Malta, o Reino dos Países Baixos, a República da Áustria, a República Portuguesa, a Roménia, a República da Eslovénia, a República Eslovaca, a República da Finlândia, o Reino da Suécia e o Reino Unido da Grã-Bretanha e Irlanda do Norte assinaram o Acordo relativo ao Tribunal Unificado de Patentes [([^3])](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2014163PT.01000101-E0003) («Acordo relativo ao TUP»). O Acordo relativo ao TUP dispõe que a sua entrada em vigor não terá lugar antes do primeiro dia do quarto mês após a data de entrada em vigor das alterações ao Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2014163PT.01000101-E0004) relativas à relação desse regulamento com o Acordo relativo ao TUP.
+
+(2) Em 15 de outubro de 2012, o Reino da Bélgica, o Grão-Ducado do Luxemburgo e o Reino dos Países Baixos, partes no Tratado relativo à instituição e ao estatuto do Tribunal de Justiça do Benelux, de 31 de março de 1965, («Tratado do Tribunal de Justiça do Benelux») assinaram um Protocolo que altera o referido Tratado. Esse Protocolo tornou possível a transferência da competência judiciária para o Tribunal de Justiça do Benelux em matérias específicas abrangidas pelo âmbito do Regulamento (UE) n.º 1215/2012.
+
+(3) É necessário regular a relação do Regulamento (UE) n.º 1215/2012 com o Acordo relativo ao TUP e o Tratado do Tribunal de Justiça do Benelux, introduzindo alterações nesse regulamento.
+
+(4) O Tribunal Unificado de Patentes e o Tribunal de Justiça do Benelux deverão ser considerados tribunais na aceção do Regulamento (UE) n.º 1215/2012, a fim de garantir segurança jurídica e previsibilidade aos requeridos que possam vir a ser demandados nesses dois tribunais em local situado num Estado-Membro que não o designado pelas regras estabelecidas no Regulamento (UE) n.º 1215/2012.
+
+(5) As alterações ao Regulamento (UE) n.º 1215/2012 previstas no presente regulamento em relação ao Tribunal Unificado de Patentes destinam-se a estabelecer a competência judiciária internacional daquele Tribunal e não afetam a repartição interna de processos entre as divisões daquele Tribunal, nem as disposições previstas no Acordo relativo ao TUP no que diz respeito ao exercício da competência, incluindo a competência exclusiva, durante o período de transição previsto no referido Acordo.
+
+(6) Enquanto tribunais comuns a vários Estados-Membros, o Tribunal Unificado de Patentes e o Tribunal de Justiça do Benelux não podem, ao contrário de um tribunal de um Estado-Membro, exercer competência judiciária com base no direito nacional em relação a requeridos que não tenham domicílio num Estado-Membro. A fim de permitir que esses dois tribunais exerçam a competência judiciária em relação a esses requeridos, as regras estabelecidas no Regulamento (UE) n.º 1215/2012 deverão assim, relativamente às matérias abrangidas, respetivamente, pela competência judiciária do Tribunal Unificado de Patentes e do Tribunal de Justiça do Benelux, aplicar-se igualmente aos requeridos domiciliados em Estados terceiros. As normas de competência do Regulamento (UE) n.º 1215/2012 em vigor asseguram uma estreita conexão entre os processos a que esse regulamento se aplica e o território dos Estados-Membros. É, pois, apropriado estender essas regras aos processos contra todos os requeridos, independentemente do seu domicílio. Ao aplicar as regras de competência judiciária do Regulamento (UE) n.º 1215/2012, o Tribunal Unificado de Patentes e o Tribunal de Justiça do Benelux (adiante designados individualmente «tribunal comum») deverão aplicar apenas as regras que são apropriadas às matérias para as quais lhes foi conferida competência.
+
+(7) Um tribunal comum deverá poder decidir litígios que envolvam requeridos de Estados terceiros com base numa regra subsidiária de competência judiciária em processos relativos à violação de uma patente europeia que dê origem a danos tanto dentro como fora da União. Essa competência judiciária subsidiária deverá ser exercida nos casos em que os bens pertencentes ao requerido estejam localizados em qualquer Estado-Membro que seja parte no instrumento que estabelece o tribunal comum e o litígio em questão tenha conexão suficiente com esse Estado-Membro, por exemplo porque o requerente nele está domiciliado ou os elementos de prova relativos ao litígio nele estão disponíveis. Ao estabelecer a sua competência judiciária, o tribunal comum deverá ter em conta o valor dos bens em questão, que não deverá ser insignificante e deverá ser suficiente para tornar possível, pelo menos parcialmente, a execução da decisão nos Estados-Membros que são partes no instrumento que estabelece o tribunal comum.
+
+(8) As regras estabelecidas no Regulamento (UE) n.º 1215/2012 em matéria de litispendência e conexão, que visam evitar processos concorrentes e decisões inconciliáveis, deverão aplicar-se quando os processos são intentados num tribunal comum e num tribunal de um Estado-Membro em que o Acordo relativo ao TUP ou, consoante o caso, o Tratado do Tribunal de Justiça do Benelux não se aplique.
+
+(9) As regras estabelecidas no Regulamento (UE) n.º 1215/2012 em matéria de litispendência e conexão deverão ser igualmente aplicadas se, durante o período transitório previsto no Acordo relativo ao TUP, forem intentados processos relativos a determinados tipos de litígios, por um lado, no Tribunal Unificado de Patentes e, por outro, num tribunal nacional de um Estado-Membro parte no Acordo relativo ao TUP.
+
+(10) As decisões proferidas pelo Tribunal Unificado de Patentes ou pelo Tribunal de Justiça do Benelux deverão ser reconhecidas e executadas nos termos do Regulamento (UE) n.º 1215/2012 num Estado-Membro que não seja parte, consoante o caso, no Acordo relativo ao TUP ou no Tratado do Tribunal de Justiça do Benelux.
+
+(11) As decisões proferidas pelos tribunais de um Estado-Membro que não seja parte, consoante o caso, no Acordo relativo ao TUP ou no Tratado do Tribunal de Justiça do Benelux deverão ser reconhecidas e executadas noutro Estado-Membro nos termos do Regulamento (UE) n.º 1215/2012.
+
+(12) O Regulamento (UE) n.º 1215/2012 deverá, pois, ser alterado em conformidade.
+
+(13) Atendendo a que o objetivo do presente regulamento não pode ser suficientemente alcançado pelos Estados-Membros, mas pode, devido à sua dimensão e aos seus efeitos, ser mais bem alcançado a nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia (TUE). Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar esse objetivo.
+
+(14) Nos termos do artigo 3.º e do artigo 4.º-A, n.º 1, do Protocolo n.º 21 relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça, anexo ao TUE e ao Tratado sobre o Funcionamento da União Europeia (TFUE), esses Estados-Membros notificaram a sua intenção de participar na adoção e na aplicação do presente regulamento.
+
+(15) Nos termos dos artigos 1.º e 2.º do Protocolo n.º 22 relativo à posição da Dinamarca, anexo ao TUE e ao TFUE, a Dinamarca não participa na adoção do presente regulamento e não está a ele vinculada nem sujeita à sua aplicação, sem prejuízo da possibilidade de a Dinamarca aplicar as alterações ao Regulamento (UE) n.º 1215/2012 previstas no presente regulamento de acordo com o artigo 3.º do Acordo entre a Comunidade Europeia e o Reino da Dinamarca de 19 de outubro de 2005 relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial [([^5])](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2014163PT.01000101-E0005),
+
+ADOTARAM O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+No Capítulo VII do Regulamento (UE) n.º 1215/2012, são inseridos os seguintes artigos:
+
+###### «Artigo 71.º-A
+
+1. Para efeitos do presente regulamento, um tribunal comum a vários Estados-Membros, conforme especificado no n.º 2, («tribunal comum») é considerado um tribunal de um Estado-Membro quando, nos termos do seu ato constitutivo, esse tribunal comum exerce a sua competência em matérias abrangidas pelo âmbito do presente regulamento.
+
+2. Para efeitos do presente regulamento, cada um dos seguintes tribunais é um tribunal comum:
+
+a) O Tribunal Unificado de Patentes, estabelecido pelo Acordo relativo ao Tribunal Unificado de Patentes assinado em 19 de fevereiro de 2013 (a seguir designado «Acordo relativo ao TUP»); e
+
+b) O Tribunal de Justiça do Benelux, estabelecido pelo Tratado relativo à instituição e ao estatuto do Tribunal de Justiça do Benelux, de 31 de março de 1965 («Tratado do Tribunal de Justiça do Benelux»).
+
+###### Artigo 71.º-B
+
+A competência judiciária dos tribunais comuns é determinada da seguinte forma:
+
+1) Um tribunal comum é competente quando, nos termos do presente regulamento, os tribunais de um Estado-Membro que seja parte no ato que estabelece o tribunal comum sejam competentes nas matérias reguladas por esse ato;
+
+2) Nos casos em que o requerido não tenha domicílio num Estado-Membro e o presente regulamento não tenha de outra forma atribuído competência a seu respeito, o Capítulo II aplica-se, sempre que adequado, independentemente do domicílio do requerido. Podem ser pedidas a um tribunal comum medidas provisórias, incluindo medidas de proteção, mesmo que os tribunais de um Estado terceiro tenham competência relativamente ao fundo da questão;
+
+3) Nos casos em que um tribunal comum tenha competência relativamente a um requerido nos termos do ponto 2 num litígio relativo à violação de uma patente europeia que dê origem a danos no interior da União, esse tribunal pode igualmente exercer a competência relativamente a danos verificados fora da União resultantes de uma violação desse tipo. Essa competência judiciária só pode ser estabelecida nos casos em que os bens pertencentes ao requerido estejam localizados em qualquer Estado-Membro que seja parte no ato que estabelece o tribunal comum e em que o litígio tenha uma conexão suficiente com qualquer desses Estados-Membros.
+
+###### Artigo 71.º-C
+
+1. Os artigos 29.º a 32.º aplicam-se quando forem intentados processos num tribunal comum e num tribunal de um Estado-Membro que não seja parte no ato que estabelece o tribunal comum.
+
+2. Os artigos 29.º a 32.º aplicam-se quando, durante o período transitório referido no artigo 83.º do Acordo relativo ao TUP, os processos são intentados no Tribunal Unificado de Patentes e num tribunal de um Estado-Membro que seja parte no Acordo relativo ao TUP.
+
+###### Artigo 71.º-D
+
+O presente regulamento aplica-se ao reconhecimento e execução de:
+
+a) Decisões proferidas por um tribunal comum que devam ser reconhecidas e executadas num Estado-Membro que não seja parte no ato que estabelece o tribunal comum; e
+
+b) Decisões proferidas pelos tribunais de um Estado-Membro que não seja parte no ato que estabelece o tribunal comum e que necessitam de ser reconhecidas e executadas num Estado-Membro que seja parte nesse ato.
+
+Contudo, sempre que for solicitado o reconhecimento ou a execução de uma decisão proferida por um tribunal comum num Estado-Membro que seja parte no ato que estabelece o tribunal comum, aplicam-se as regras do referido ato relativas ao reconhecimento e execução, em vez das regras do presente regulamento.»
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é aplicável a partir de 10 de janeiro de 2015.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável nos Estados-Membros nos termos dos Tratados.
+
+Feito em Bruxelas, em 15 de maio de 2014.
+
+***Pelo Parlamento Europeu***
+
+***O Presidente***
+
+**M. SCHULZ**
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**D. KOURKOULAS**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2014163PT.01000101-E0001) Parecer de 26 de fevereiro de 2014 (ainda não publicado no Jornal Oficial).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2014163PT.01000101-E0002) Posição do Parlamento Europeu de 15 de abril de 2014 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 6 de maio de 2014.
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2014163PT.01000101-E0003) [JO C 175 de 20.6.2013, p. 1](http://publications.europa.eu/resource/oj/JOC_2013_175_R_TOC).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2014163PT.01000101-E0004) Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial ([JO L 351 de 20.12.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_351_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/7fefcc5f-ed5d-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2014163PT.01000101-E0005) [JO L 299 de 16.11.2005, p. 62](http://publications.europa.eu/resource/oj/JOL_2005_299_R_TOC).

@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:287661:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-885421296",
+ "dre_path": "/dr/detalhe/portaria/199-2011-287661",
+ "source_lastmod": "2024-08-23",
+ "versions": [
+  {
+   "date": "2011-05-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885579286",
+    "885579276",
+    "885579277",
+    "885579278",
+    "885579279",
+    "885579281",
+    "885579282",
+    "885579283"
+   ]
+  }
+ ],
+ "fragments": {
+  "885579286": {
+   "fragment_id": "885421297",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 199/2011\n\nde 19 de Maio\n\nO Quadro Nacional de Qualificações (QNQ) foi criado pelo Decreto-Lei n.º 396/2007, de 31 de Dezembro, que revoga a aplicação da estrutura dos níveis de formação estabelecidos com a Decisão n.º 85/368/CEE, do Conselho, de 16 de Julho. O QNQ, instituído no âmbito do processo de criação e desenvolvimento do Sistema Nacional de Qualificações, constitui-se como um quadro de referência único para classificar todas as qualificações produzidas no âmbito do sistema educativo e formativo nacional, independentemente do nível e das vias de acesso.\n\nO QNQ, regulado pela Portaria n.º 782/2009, de 23 de Julho, adopta os princípios do Quadro Europeu de Qualificações (QEQ) no que diz respeito à descrição das qualificações nacionais em termos de resultados de aprendizagem, de acordo com os descritores associados a cada nível de qualificação, promovendo, assim, a transparência, a comparabilidade e a valorização das qualificações e a mobilidade das pessoas no espaço europeu.\n\nO QNQ constitui-se como um quadro integrador das diferentes modalidades de educação e formação profissional e de escolaridade, referenciando, em cada nível de qualificação, competências de diferente natureza, consagrando, deste modo, uma noção mais abrangente do conceito de qualificação.\n\nNeste contexto, o despacho n.º 978/2011, de 12 de Janeiro, estabelece a obrigatoriedade de alteração dos modelos de certificados e diplomas das qualificações constantes do QNQ, de modo a incluírem a referência aos respectivos níveis de qualificação.\n\nAssim:\n\nAo abrigo do disposto no artigo 5.º do Decreto-Lei n.º 396/2007, de 31 de Dezembro, regulamentado pela Portaria n.º 782/2009, de 23 de Julho, e nos termos do despacho n.º 978/2011, de 12 de Janeiro, manda o Governo, pela Ministra da Educação e pelo Secretário de Estado do Emprego e da Formação Profissional, o seguinte:"
+  },
+  "885579276": {
+   "fragment_id": "885421298",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente portaria aprova os modelos de diplomas e de certificados que conferem uma qualificação de nível não superior no âmbito do Sistema Nacional de Qualificações (SNQ).\n\n2 - As qualificações a que se refere o número anterior são as constantes do Quadro Nacional de Qualificações (QNQ), nos termos da Portaria n.º 782/2009, de 23 de Julho, e do despacho n.º 978/2011, de 12 de Janeiro."
+  },
+  "885579277": {
+   "fragment_id": "885421299",
+   "type": 11,
+   "heading": "Artigo 2.º — Certificados e diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Certificados e diplomas\n\n1 - Os modelos de certificados e diplomas aprovados são os constantes dos anexos i, ii e iii da presente portaria, da qual fazem parte integrante.\n\n2 - Os modelos constantes do anexo i reportam-se aos cursos profissionais, aos cursos do ensino artístico especializado, aos cursos do ensino recorrente e a outros cursos já extintos que, para além da habilitação escolar, conferiam também qualificação profissional, e são disponibilizados em área reservada para o efeito na página electrónica da Agência Nacional para a Qualificação, I. P. (ANQ).\n\n3 - Os modelos constantes do anexo ii reportam-se aos cursos de aprendizagem, aos cursos de educação e formação de adultos (EFA), às formações modulares certificadas, ao sistema de reconhecimento, validação e certificação de competências (RVCC) e às vias de conclusão do ensino secundário ao abrigo do Decreto-Lei n.º 357/2007, de 29 de Outubro, e são disponibilizados no Sistema de Informação e Gestão da Oferta Educativa e Formativa (SIGO).\n\n4 - Os modelos constantes do anexo iii reportam-se aos cursos de educação e formação de jovens (CEF) e são disponibilizados em área reservada para o efeito na página electrónica da ANQ.\n\n5 - A emissão do certificado de qualificações, no caso de obtenção de uma qualificação no âmbito de um curso EFA ou de uma formação modular exige a menção à aprovação em prova de avaliação final sempre que esta constitua um requisito de acesso ao exercício de uma profissão regulada.\n\n6 - Uma unidade de competência (UC) ou uma unidade de formação de curta duração (UFCD) do CNQ certificada no âmbito de uma modalidade de formação do SNQ ou do RVCC é automaticamente capitalizada aquando do ingresso noutro percurso de qualificação que inclua aquela UC ou UFCD.\n\n7 - No prazo de 90 dias após a publicação da presente portaria, os modelos que, nos termos dos n.os 1, 4 e 5, são disponibilizados na página electrónica da ANQ passam a ser disponibilizados no SIGO.\n\n8 - Os diplomas e certificados emitidos antes da entrada em vigor do QNQ, e cuja substituição seja expressamente solicitada pelos interessados, nos termos do n.º 6 do despacho n.º 978/2011, de 12 de Janeiro, devem ser emitidos pela entidade formadora onde o curso foi concluído, de acordo com o disposto no n.º 7 do referido despacho.\n\n9 - No caso de entidades formadoras já extintas, os diplomas e certificados referidos no número anterior devem ser solicitados na entidade onde se encontra o processo do interessado, a qual, para esse efeito, deve ser indicada pelos seguintes organismos:\n\na) Direcção Regional de Educação, caso a entidade formadora onde o curso foi concluído seja uma escola;\n\nb) Delegação Regional do Instituto do Emprego e da Formação Profissional, I. P., caso a entidade formadora onde o curso foi concluído seja um centro de formação profissional de gestão directa ou de gestão participada;\n\nc) Direcção-Geral do Emprego e das Relações de Trabalho, caso a entidade formadora onde o curso foi concluído seja uma entidade formadora certificada por este organismo.\n\n10 - Toda a informação complementar que seja necessária à emissão dos certificados e diplomas referidos neste artigo será disponibilizada no SIGO e na página electrónica da ANQ."
+  },
+  "885579278": {
+   "fragment_id": "885421300",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSão revogadas as Portarias n.os 802/91, de 12 de Agosto, 803/91, de 12 de Agosto, e 612/2010, de 3 de Agosto."
+  },
+  "885579279": {
+   "fragment_id": "885421301",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação."
+  },
+  "885579281": {
+   "fragment_id": "885421303",
+   "type": 14,
+   "heading": "Anexo I — Modelos de diplomas e certificados das modalidades de educação e formação previstas no n.º 1 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Modelos de diplomas e certificados das modalidades de educação e formação previstas no n.º 1 do artigo 2.º\n\nCursos de nível secundário criados ao abrigo do Decreto-Lei n.º 74/2004, de 26 de Março\n\n(ver documento original)\n\nOutros cursos de nível secundário\n\n(ver documento original)\n\n10.º ano profissionalizante\n\n(ver documento original)\n\nCursos de nível básico\n\n(ver documento original)\n\n> Nota: [Artigo 20.º, Portaria n.º 194/2021 - Diário da República n.º 182/2021, Série I de 2021-09-17](https://diariodarepublica.pt/dr/detalhe/portaria/194-2021-171516470) São revogados os modelos de diplomas e certificados constantes do presente anexo, relativamente às ofertas educativas e formativas identificadas no anexo i à Portaria n.º 194/2021, de 17 de setembro, da qual faz parte integrante."
+  },
+  "885579282": {
+   "fragment_id": "885421304",
+   "type": 14,
+   "heading": "Anexo II — (certificação parcial Cursos EFA/ Formação Modular)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (certificação parcial Cursos EFA/ Formação Modular)\n\n(ver documento original)\n\n(certificação final Cursos EFA/Formação Modular)\n\n(ver documento original)\n\n(certificação parcial - RVCC)\n\n(ver documento original)\n\n(certificação final - RVCC)\n\n(ver documento original)\n\n(conclusão de um curso de origem orientado para o prosseguimento de estudos ao abrigo do Decreto-Lei n.º 357/2007)\n\n(ver documento original)\n\n(conclusão de um curso de origem profissionalmente qualificante ao abrigo do Decreto-Lei n.º 357/2007)\n\n(ver documento original)\n\n(conclusão do secundário, através de uma formação generalista ao abrigo Decreto-Lei n.º 357/2007)\n\n(ver documento original)\n\n(conclusão do secundário, através de unidades de formação de curta duração, ao abrigo do Decreto-Lei n.º 357/2007)\n\n(ver documento original)\n\n(certificado dos cursos de aprendizagem)\n\n(ver documento original)\n\n(diploma relativo aos cursos EFA, formações modulares e sistema de reconhecimento, validação e certificação de competências)\n\n(ver documento original)\n\n(diploma relativo às vias de conclusão do ensino secundário através do Decreto-Lei n.º 357/2007, de 29 de Outubro)\n\n(ver documento original)\n\n(diploma relativo aos cursos de aprendizagem)\n\n(ver documento original)\n\n> Nota: [Artigo 23.º, Portaria n.º 86/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/86-2022-178660787) São revogados os modelos de certificados e diploma constantes do presente anexo, relativamente aos cursos EFA.\n\n> Nota: [Artigo 25.º, Portaria n.º 70/2022 - Diário da República n.º 23/2022, Série I de 2022-02-02](https://diariodarepublica.pt/dr/detalhe/portaria/70-2022-178532525) São revogados os modelos de certificado e diploma constantes do presente anexo, relativamente aos cursos de aprendizagem.\n\n> Nota: [Artigo 20.º, Portaria n.º 66/2022 - Diário da República n.º 22/2022, Série I de 2022-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/66-2022-178478636) São revogados os modelos de certificados e diploma constantes do presente anexo, relativamente às formações modulares certificadas.\n\n> Nota: [Artigo 19.º, Portaria n.º 61/2022 - Diário da República n.º 21/2022, Série I de 2022-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/61-2022-178394355) São revogados os modelos de diploma e certificados do Sistema de Reconhecimento, Validação e Certificação de Competências constantes no presente anexo."
+  },
+  "885579283": {
+   "fragment_id": "885421305",
+   "type": 14,
+   "heading": "Anexo III — (diploma relativo aos Cursos de Educação para Jovens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (diploma relativo aos Cursos de Educação para Jovens)\n\n(ver documento original)\n\n> Nota: [Artigo 20.º, Portaria n.º 194/2021 - Diário da República n.º 182/2021, Série I de 2021-09-17](https://diariodarepublica.pt/dr/detalhe/portaria/194-2021-171516470) São revogados os modelos de diplomas e certificados constantes do presente anexo, relativamente às ofertas educativas e formativas identificadas no anexo i à Portaria n.º 194/2021, de 17 de setembro, da qual faz parte integrante."
+  }
+ }
+}

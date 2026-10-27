@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:520834:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-137808150",
+ "dre_path": "/dr/detalhe/decreto-lei/171-2007-520834",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-05-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137808215",
+    "137808216",
+    "137808217",
+    "137808218",
+    "137808219"
+   ]
+  },
+  {
+   "date": "2008-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:448970:por",
+     "title": "Decreto-Lei n.º 88/2008",
+     "published": "2008-05-29",
+     "dre_path": "/dr/detalhe/decreto-lei/88-2008-448970"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "137808215",
+    "137808225",
+    "137808217",
+    "137808218",
+    "137808219",
+    "137808220"
+   ]
+  }
+ ],
+ "fragments": {
+  "137808215": {
+   "fragment_id": "137808151",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 171/2007\n\nde 8 de Maio\n\nCom a aprovação do Decreto-Lei n.º 240/2006, de 22 de Dezembro, o Governo pôs termo à possibilidade de arredondamento em alta da taxa de juro aplicada aos contratos de crédito para aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento e para aquisição de terrenos para construção de habitação própria.\n\nSendo a prática do arredondamento em alta, que consiste em fixar unilateralmente um preço superior ao que é devido pela prestação de um serviço ou pela aquisição de um bem em resultado da realização de uma operação aritmética, também utilizada nos contratos de concessão de crédito e de financiamento para aquisição de serviços ou bens que não os referidos no parágrafo anterior, tais como os de leasing, aluguer de longa duração, factoring ou outros, justifica-se, por isso, a extensão do regime daquele decreto-lei a estes contratos.\n\nAssim, no sentido de uniformizar os critérios utilizados no arredondamento e no indexante da taxa de juro aos diversos contratos de crédito ou de financiamento, o Governo decide legislar no sentido de lhes aplicar o regime previsto no Decreto-Lei n.º 240/2006, de 22 de Dezembro, para o chamado «crédito à habitação».\n\nFoi ouvido o Banco de Portugal.\n\nFoi promovida a consulta ao Conselho Nacional do Consumo e à Associação Portuguesa de Consumidores e Utilizadores de Serviços Financeiros (SEFIN).\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "137808216": {
+   "fragment_id": "137808152",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece as regras a que deve obedecer o arredondamento da taxa de juro quando aplicado aos contratos de crédito e de financiamento celebrados por instituições de crédito e sociedades financeiras que não se encontrem abrangidos pelo disposto no Decreto-Lei n.º 240/2006, de 22 de Dezembro.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970) O disposto no artigo 1.º é aplicável aos contratos a taxa variável que se encontram em execução, a partir da primeira data de revisão da taxa de juro do contrato que ocorra após a entrada em vigor do presente decreto-lei."
+  },
+  "137808217": {
+   "fragment_id": "137808153",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Os contratos referidos no artigo anterior abrangem, designadamente, os contratos em que uma das partes se obriga, contra retribuição, a conceder à outra o gozo temporário de uma coisa móvel de consumo duradouro e o locatário tiver o direito de adquirir a coisa locada num prazo convencionado, eventualmente mediante o pagamento de um preço determinado ou determinável nos termos do próprio contrato.\n\n2 - O presente decreto-lei aplica-se aos contratos de crédito e de financiamento referidos no artigo anterior que venham a ser celebrados após a sua entrada em vigor e aos contratos que se encontrem em execução, qualquer que seja o valor da quantia mutuada e o fim a que o crédito se destina.\n\n3 - Aos contratos que se encontrem em execução o presente decreto-lei aplica-se a partir da refixação da taxa de juro, para efeitos de arredondamento, que deve ocorrer logo após o início da sua vigência."
+  },
+  "137808218": {
+   "fragment_id": "137808154",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime jurídico\n\nÀs instituições de crédito e sociedades financeiras é aplicável, relativamente aos contratos referidos no artigo 1.º, bem como para efeitos de aplicação e fiscalização do cumprimento do presente decreto-lei, o disposto nos artigos 3.º a 10.º do Decreto-Lei n.º 240/2006, de 22 de Dezembro."
+  },
+  "137808219": {
+   "fragment_id": "137808155",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "137808225": {
+   "fragment_id": "137808152",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2008-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1- O presente decreto-lei estabelece as regras a que deve obedecer o arredondamento da taxa de juro quando aplicado aos contratos de crédito e de financiamento celebrados por instituições de crédito e sociedades financeiras que não se encontrem abrangidos pelo disposto no Decreto-Lei n.º 240/2006, de 22 de Dezembro.\n\n2 - Nos contratos de crédito e de financiamento celebrados por instituições de crédito ou sociedades financeiras com entidades que não sejam consumidores, na acepção prevista no n.º 1 do artigo 2.º da Lei n.º 24/96, de 31 de Julho, o disposto no artigo 3.º do Decreto-Lei n.º 240/2006, de 22 de Dezembro, será aplicado, salvo se as partes dispuserem expressamente de outro modo.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970) O disposto no artigo 1.º é aplicável aos contratos a taxa variável que se encontram em execução, a partir da primeira data de revisão da taxa de juro do contrato que ocorra após a entrada em vigor do presente decreto-lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28"
+  },
+  "137808220": {
+   "fragment_id": "137808156",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Fernando Pereira Serrasqueiro.\n\nPromulgado em 10 de Abril de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 23 de Abril de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

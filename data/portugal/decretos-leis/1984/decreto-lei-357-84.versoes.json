@@ -1,0 +1,1157 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400470:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-896267858",
+ "dre_path": "/dr/detalhe/decreto-lei/357-1984-400470",
+ "source_lastmod": "2024-11-11",
+ "versions": [
+  {
+   "date": "1984-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "896268376",
+    "896268377",
+    "896268378",
+    "896268380",
+    "896268381",
+    "896268382",
+    "896268383",
+    "896268384",
+    "896268385",
+    "896268386",
+    "896268387",
+    "896268388",
+    "896268389",
+    "896268390",
+    "896268391",
+    "896268392",
+    "896268393",
+    "896268394",
+    "896268395",
+    "896268396",
+    "896268397",
+    "896268398",
+    "896268399",
+    "896268400",
+    "896268401",
+    "896268402",
+    "896268403",
+    "896268404",
+    "896268405",
+    "896268406",
+    "896268407",
+    "896268408",
+    "896268409",
+    "896268410",
+    "896268411",
+    "896268412",
+    "896268413",
+    "896268414",
+    "896268415",
+    "896268416",
+    "896268417",
+    "896268418",
+    "896268419",
+    "896268420",
+    "896268421",
+    "896268422",
+    "896268423",
+    "896268424",
+    "896268425",
+    "896268426",
+    "896268427",
+    "896268428",
+    "896268429",
+    "896268430",
+    "896268431",
+    "896268432",
+    "896268433",
+    "896268434",
+    "896268435",
+    "896268436",
+    "896268437",
+    "896268438",
+    "896268439",
+    "896268440",
+    "896268441",
+    "896268442",
+    "896268443",
+    "896268444"
+   ]
+  },
+  {
+   "date": "1995-07-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:462028:por",
+     "title": "Decreto-Lei n.º 170/95",
+     "published": "1995-07-18",
+     "dre_path": "/dr/detalhe/decreto-lei/170-1995-462028"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 64.º",
+    "Altera Artigo 2.º",
+    "Altera Capítulo II",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 55.º"
+   ],
+   "fragments": [
+    "896268376",
+    "896268377",
+    "896268378",
+    "896268379",
+    "896268380",
+    "896268381",
+    "896268382",
+    "896269368",
+    "896268384",
+    "896268385",
+    "896271590",
+    "896269369",
+    "896269370",
+    "896268389",
+    "896269371",
+    "896269372",
+    "896269373",
+    "896269374",
+    "896271575",
+    "896271576",
+    "896271577",
+    "896271578",
+    "896271579",
+    "896271580",
+    "896271581",
+    "896271582",
+    "896271583",
+    "896268403",
+    "896268404",
+    "896268405",
+    "896268406",
+    "896271584",
+    "896268408",
+    "896268409",
+    "896271585",
+    "896271586",
+    "896271587",
+    "896268413",
+    "896268414",
+    "896268415",
+    "896268416",
+    "896271588",
+    "896268418",
+    "896268419",
+    "896268420",
+    "896268421",
+    "896268422",
+    "896268423",
+    "896268424",
+    "896268425",
+    "896268426",
+    "896268427",
+    "896268428",
+    "896268429",
+    "896268430",
+    "896268431",
+    "896268432",
+    "896268433",
+    "896268944",
+    "896268945",
+    "896268946",
+    "896268947",
+    "896268953",
+    "896268954",
+    "896268434",
+    "896271589",
+    "896268436",
+    "896268437",
+    "896268438",
+    "896268439",
+    "896268440",
+    "896268441",
+    "896268442",
+    "896268443",
+    "896268444",
+    "896271596"
+   ]
+  },
+  {
+   "date": "1998-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:217939:por",
+     "title": "Decreto-Lei n.º 373/98",
+     "published": "1998-11-23",
+     "dre_path": "/dr/detalhe/decreto-lei/373-1998-217939"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º"
+   ],
+   "fragments": [
+    "896268376",
+    "896268377",
+    "896268378",
+    "896268379",
+    "896268380",
+    "896268381",
+    "896268382",
+    "896269368",
+    "896268384",
+    "896268385",
+    "896271590",
+    "896269369",
+    "896269370",
+    "896268389",
+    "896269371",
+    "896269372",
+    "896269373",
+    "896269374",
+    "896271575",
+    "896271576",
+    "896271577",
+    "896271578",
+    "896271579",
+    "896271580",
+    "896271581",
+    "896271582",
+    "896271583",
+    "896268403",
+    "896268404",
+    "896268405",
+    "896268406",
+    "896271584",
+    "896268408",
+    "896268409",
+    "896271585",
+    "896271586",
+    "896271587",
+    "896268413",
+    "896268414",
+    "896268415",
+    "896268416",
+    "896271588",
+    "896268418",
+    "896268419",
+    "896268420",
+    "896268421",
+    "896268422",
+    "896268423",
+    "896268424",
+    "896271617",
+    "896271618",
+    "896268427",
+    "896268428",
+    "896268429",
+    "896268430",
+    "896268431",
+    "896268432",
+    "896268433",
+    "896268944",
+    "896268945",
+    "896268946",
+    "896268947",
+    "896268953",
+    "896268954",
+    "896268434",
+    "896271589",
+    "896268436",
+    "896268437",
+    "896268438",
+    "896268439",
+    "896268440",
+    "896268441",
+    "896268442",
+    "896268443",
+    "896268444",
+    "896271596"
+   ]
+  }
+ ],
+ "fragments": {
+  "896268376": {
+   "fragment_id": "896267859",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 357/84\n\nde 31 de Outubro\n\nA disciplina jurídica básica da Academia Portuguesa da História encontra-se nos Estatutos, aprovados pelo Decreto-Lei n.º 34451, de 19 de Março de 1945, e no Regulamento, aprovado pela Portaria n.º, 10932, de 16 de Abril de 1945, com as alterações que, pouco depois, lhe introduziu a Portaria n.º 10956, de 15 de Maio do mesmo ano. Não se estranhará, portanto, que se considere muito oportuna a sua revisão. É que o decurso do tempo não só veio desactualizando, em definitivo, alguns desses preceitos mas também tornou conveniente a modernização de muitos outros. Acresce a carência de estatuições sobre aspectos novos ou renovados da vida académica.\n\nPode dizer-se, consequentemente, que a actual lei interna da Academia Portuguesa da História se acha hoje ultrapassada. O facto é manifesto ao estabelecer-se o confronto com os preceitos que vigoram para as congéneres Academia das Ciências de Lisboa (Decreto-Lei n.º 5/78, de 12 de Janeiro) e Academia Nacional de Belas-Artes (Decreto-Lei n.º 32/78, de 10 de Fevereiro, e Portaria n.º 80/78, da mesma data).\n\nAliás, em face de situações paralelas, não raro se tomaram esses diplomas como paradigma. Seguiu-se, porém, a técnica de fundir num único texto orgânico a matéria que se encontra repartida, nem sempre obedecendo a rigoroso critério, entre os Estatutos e o Regulamento. Assim se evitam possíveis contradições e dúvidas de interpretação.\n\nO regime jurídico da Academia Portuguesa da História, agora introduzido, em nada afecta os vectores peculiares da instituição, que ao longo de fecunda existência têm permitido o desenvolvimento de uma actividade científica e cultural de reconhecido mérito, sempre ao serviço dos valores nacionais. Apenas se visa a criação do quadro legal que, em nosso tempo e na perspectiva do futuro, melhor possibilite a prossecução dos seus objectivos, dentro de uma contínua linha de progresso.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º, da Constituição, o seguinte:\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028) Todas as referências feitas nos Estatutos, aprovados pelo presente decreto-lei, a sessões gerais da assembleia devem entender-se como relativas a sessões plenárias."
+  },
+  "896268377": {
+   "fragment_id": "896267860",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão aprovados os novos Estatutos da Academia Portuguesa da História, publicados em anexo ao presente diploma e que dele fazem parte integrante."
+  },
+  "896268378": {
+   "fragment_id": "896267861",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÈ revogado o Decreto-Lei n.º 34451, de 19 de Março de 1945."
+  },
+  "896268380": {
+   "fragment_id": "896267863",
+   "type": 14,
+   "heading": "Estatutos da Academia Portuguesa da História",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Estatutos da Academia Portuguesa da História"
+  },
+  "896268381": {
+   "fragment_id": "896267864",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, fins e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, fins e sede"
+  },
+  "896268382": {
+   "fragment_id": "896267865",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Academia Portuguesa da História, fundada pelo Decreto de 8 de Dezembro de 1720, com o título de Academia Real da História Portuguesa, e restaurada pelo Decreto-Lei n.º 26611, de 19 de Maio de 1936, é uma instituição científica de utilidade pública, dotada de personalidade jurídica e de autonomia administrativa."
+  },
+  "896268383": {
+   "fragment_id": "896267866",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Como agremiação de especialistas que se dedicam à reconstituição documental e crítica do passado, tem a Academia, designadamente, os seguintes fins:\n\na) Realizar a investigação científica de história e tornar públicos os seus resultados;\n\nb) Estimular e coordenar esforços tendentes ao rigoroso conhecimento da história nacional, no sentido de eslarecer a contribuição portuguesa para o progresso da cultura e da civilização;\n\nc) Promover a publicação sistemática de fontes documentais que interessem à história portuguesa;\n\nd) Publicar, em língua portuguesa ou em línguas estrangeiras, obras que contribuam para o conhecimento dos factos relacionados com a presença civilizadora de Portugal no Mundo;\n\ne) Procurar servir de orientadora dos estudos históricos nacionais;\n\nf) Cooperar em tudo o que respeita à inventariação e defesa do património histórico e documental da Nação, emitindo parecer sobre esta matéria sempre que lhe seja solicitado.\n\n2 - A Academia poderá desenvolver, em ligação com instituições ou entidades nacionais ou estrangeiras, sobretudo dos países e comunidades de expressão portuguesa, especialmente por delegação daquelas, quaisquer actividades conformes aos fins definidos nos presentes Estatutos."
+  },
+  "896268384": {
+   "fragment_id": "896267867",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Academia, quando para tal solicitada, é órgão consultivo do Governo na matéria da sua competência."
+  },
+  "896268385": {
+   "fragment_id": "896267868",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Academia Portuguesa da História tem sede em Lisboa, cabendo-lhe, porém, criar dependências onde se torne necessário ou conveniente para a consecução dos seus objectivos."
+  },
+  "896268386": {
+   "fragment_id": "896267869",
+   "type": 1,
+   "heading": "Capítulo II — Académicos e presidentes de honra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Académicos e presidentes de honra"
+  },
+  "896268387": {
+   "fragment_id": "896267870",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs sócios da Academia agrupam-se nas seguintes categorias:\n\na) De mérito;\n\nb) De número;\n\nc) Correspondentes;\n\nd) Supranumerários."
+  },
+  "896268388": {
+   "fragment_id": "896267871",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO título de académico de mérito pode ser conferido a eminentes personalidades, nacionais e estrangeiras, pertençam ou não à Academia."
+  },
+  "896268389": {
+   "fragment_id": "896267872",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Os académicos de número limitam-se a 40, dos quais:\n\na) 30 de nacionalidade portuguesa, residentes no País, que ocuparão as cadeiras de 1 a 30;\n\nb) 10 de nacionalidade brasileira, a cujas cadeiras caberão os números 31 a 40.\n\n2 - Os académicos de número são necessariamente escolhidos de entre os correspondentes que tenham, pelo menos, 3 anos de actividade académica."
+  },
+  "896268390": {
+   "fragment_id": "896267873",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Os académicos correspondentes não excederão os 80, com a seguinte distribuição:\n\na) Cidadãos portugueses - até 40;\n\nb) Cidadãos dos restantes países e comunidades de expressão portuguesa - até 20;\n\nc) Nacionais de outros países não compreendidos nas alíneas anteriores - até 20.\n\n2 - A eleição para académicos correspondentes deve recair em pessoas que tenham demonstrado a sua competência pela publicação de importantes estudos de investigação e crítica."
+  },
+  "896268391": {
+   "fragment_id": "896267874",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - O Presidente da República é presidente de honra da Academia.\n\n2 - Pode haver, excepcionalmente, outros presidentes de honra, quando algum académico de número seja distinguido com essa qualidade, o qual abre vaga na sua cadeira e fica equiparado, em direitos e deveres, aos académicos de mérito."
+  },
+  "896268392": {
+   "fragment_id": "896268475",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Passam automaticamente a supranumerários os académicos correspondentes que, por período superior a 3 anos consecutivos e sem apresentação de motivo justificado, não tomem parte, de qualquer forma, nas actividades da Academia, sempre que residam no País.\n\n2 - Os sócios supranumerários abrem vaga na sua anterior categoria, podendo reingressar nela se durante os 2 anos imediatos retomarem a efectividade da vida académica.\n\n3 - Verificando-se a hipótese da segunda parte do número anterior, os sócios ocupam sucessivamente as vagas que se verifiquem após o decurso do prazo previsto no mesmo preceito.\n\n4 - Considera-se renúncia tácita à qualidade de académico o facto de o sócio supranumerário não tomar parte nas actividades da Academia durante 2 anos ininterruptos, sem fundamentada justificação da sua falta.\n\n5 - O sócio supranumerário, em relação ao qual se verifique a situação de renúncia tácita, não pode ser readmitido na Academia."
+  },
+  "896268393": {
+   "fragment_id": "896268476",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs vagas de académicos de número ou de académicos correspondentes devem ser comunicadas na primeira sessão geral ordinária da assembleia de académicos que se realize após o conselho académico ter delas conhecimento."
+  },
+  "896268394": {
+   "fragment_id": "896268477",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - A admissão de académicos correspondentes, a elevação de académicos a categoria superior e a eleição de presidentes de honra ou de personalidades estranhas à Academia como académicos de mérito podem ser propostas:\n\na) Pelo conselho académico;\n\nb) Por 3 académicos com direito de voto na respectiva eleição.\n\n2 - Se a proposta partir de académicos, devem estes dirigi-la, com a sua justificação, ao conselho académico, que sobre ela emitirá parecer, apresentando-a seguidamente em sessão da assembleia restrita aos académicos de número e equiparados, para apreciação e votação; sendo o conselho académico o proponente, juntará à proposta a respectiva justificação, submetendo-a, para o mesmo efeito, a idêntica sessão da assembleia.\n\n3 - Quando a assembleia em sessão restrita aos eleitores o não dispense, devem os candidatos declarar por escrito que aceitam a eventual eleição para académicos e que se submetem às disposições estatutárias e regulamentares da Academia."
+  },
+  "896268395": {
+   "fragment_id": "896268478",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - A referida assembleia restrita toma conhecimento da proposta em sessão para o efeito especialmente convocada, dentro dos 15 dias imediatos à sua entrega ao conselho académico, ou, sendo este o proponente, em igual período de tempo, contado da data da respectiva redacção.\n\n2 - Se a assembleia considerar nesta sessão a proposta suficientemente apreciada, fixa-se nova sessão, dentro dos 15 dias seguintes, a fim de se proceder à respectiva votação; porém, sempre que nessa primeira sessão não se considere a proposta suficientemente apreciada, procede-se à convocação de outra ou outras sessões em datas fixadas pela mesma assembleia.\n\n3 - As votações fazem-se necessariamente por escrutínio secreto, considerando-se aprovada a proposta que obtenha o mínimo de dois terços dos votos entrados na urna."
+  },
+  "896268396": {
+   "fragment_id": "896268479",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs sócios da Academia são iguais em direitos e deveres, dentro da categoria a que pertencem."
+  },
+  "896268397": {
+   "fragment_id": "896268480",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Constituem direitos dos sócios da Academia:\n\na) Gozar de honras e preeminências idênticas às dos sócios da Academia das Ciências de Lisboa e da Academia Nacional de Belas-Artes;\n\nb) Usar as insígnias académicas e o respectivo trajo;\n\nc) Frequentar as instalações da Academia e consultar a sua biblioteca e o seu arquivo, de acordo com as normas regulamentares;\n\nd) Receber graciosamente as publicações da Academia feitas após a sua admissão;\n\ne) Solicitar, através do secretário-geral, a quaisquer serviços públicos, mormente bibliotecas, arquivos, museus e outros centros de documentação, elementos necessários às suas investigações, mas sem encargos para a Academia;\n\nf) Obter gratuitamente o diploma e o bilhete de identificação académica que correspondam à sua categoria.\n\n2 - O direito previsto na alínea d) do número anterior é, em princípio, privativo dos académicos nacionais.\n\n3 - O exercício da faculdade a que se refere a alínea e) do n.º 1 depende de prévio despacho favorável do presidente da Academia."
+  },
+  "896268398": {
+   "fragment_id": "896268481",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nMediante a exibição do cartão de identidade académica, os sócios da Academia têm livre entrada, com dispensa de quaisquer formalidades ou taxas, em todas as bibliotecas, arquivos, museus, estações arqueológicas e outros centros de investigação do Estado ou de corpos administrativos, inclusive secções de reservados e depósitos não destinados à exposição pública, devendo ser-lhes assegurado, quando dele careçam, gabinete ou local adequado para os seus estudos, assim como proporcionadas outras facilidades que justificadamente solicitem."
+  },
+  "896268399": {
+   "fragment_id": "896268482",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nConstituem deveres dos sócios da Academia:\n\na) Colaborar nas actividades científicas, culturais e administrativas da Academia;\n\nb) Participar nas eleições para os cargos académicos e aceitar aqueles para que sejam eleitos;\n\nc) Desempenhar quaisquer outras funções ou comissões académicas que lhes caibam por eleição ou designação;\n\nd) Apresentar comunicações, memórias, relatórios, projectos e propostas de investigação, assim como estudos ou sugestões de diversa natureza, respeitantes aos fins e desenvolvimento da Academia;\n\ne) Proferir, dentro do ano académico imediato ao preenchimento das respectivas vagas, o «elogio histórico» dos sócios em cujas cadeiras sucedem, ou saudar os novos recipiendários, quando para o efeito, sob proposta do conselho académico, sejam designados em sessão geral da assembleia de académicos."
+  },
+  "896268400": {
+   "fragment_id": "896268483",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - Os presidentes de honra e os sócios de mérito encontram-se equiparados, em princípio, no que respeita a direitos e deveres, aos sócios efectivos; porém, os que não hajam tido esta categoria não gozam de capacidade eleitoral activa ou passiva para os cargos académicos, enquanto os restantes possuem apenas capacidade eleitoral activa.\n\n2 - É facultativo o cumprimento pelos presidentes de honra e sócios de mérito dos deveres académicos."
+  },
+  "896268401": {
+   "fragment_id": "896268484",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nConstituem deveres dos sócios correspondentes e dos supranumerários os indicados nas alíneas a), c) e d) do artigo 17.º"
+  },
+  "896268402": {
+   "fragment_id": "896268485",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os sócios estrangeiros de qualquer categoria são dispensados da comparência às sessões e da colaboração permanente, devendo, contudo, manter contacto com a Academia através do envio de comunicações e demais estudos, podendo cometer-se-lhes comissões académicas nos seus ou noutros países.\n\n2 - Quando residam ou se encontrem em Portugal, os sócios estrangeiros ficam equiparados aos nacionais da respectiva categoria."
+  },
+  "896268403": {
+   "fragment_id": "896268486",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nSem prejuízo da essencial e responsável liberdade crítica ou da justa expressão de ideias, é vedado aos académicos:\n\na) Contrariar os fins da instituição;\n\nb) Fazer referências desprimorosas, mormente alheias à controvérsia científica, a qualquer entidade ou instituição em sessões ou publicações da Academia;\n\nc) Usar de termos ou tomar atitudes incorrectas ou agressivas nas polémicas ou debates realizados no âmbito académico;\n\nd) Imprimir trabalhos em publicações não académicas com indicação de previrem da Academia, salvo com autorização do conselho académico;\n\ne) Criticar, fora das sessões ordinárias, trabalhos feitos mediante incumbência da Academia ou a ela apresentados por outros académicos."
+  },
+  "896268404": {
+   "fragment_id": "896268487",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - Constitui causa de exclusão de académico a violação de qualquer das proibições mencionadas no artigo anterior.\n\n2 - A referida exclusão é precedida de processo disciplinar interno e eventual inquérito, sob proposta:\n\na) Do conselho académico;\n\nb) De 3 académicos com direito de voto na respectiva sessão deliberativa da assembleia.\n\n3 - As designações dos inquiridores e instrutores, assim como a apreciação dos inquéritos e a decisão dos processos disciplinares, têm lugar em sessão da assembleia restrita aos académicos de número e equiparados.\n\n4 - Na decisão dos processos disciplinares observam-se, com as necessárias adaptações, os trâmites constantes dos artigos 12.º e 13.º"
+  },
+  "896268405": {
+   "fragment_id": "896268488",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos"
+  },
+  "896268406": {
+   "fragment_id": "896268489",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nA Academia é dirigida pelos seguintes órgãos:\n\na) Assembleia dos académicos;\n\nb) Presidente;\n\nc) Conselho académico;\n\nd) Secretário-geral."
+  },
+  "896268407": {
+   "fragment_id": "896268490",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - A assembleia dos académicos funciona em sessões gerais, quando nela participam académicos de todas as categorias, e em sessões restritas, que se circunscrevem aos académicos de número, assim como aos presidentes de honra e aos académicos de mérito que hajam pertencido à categoria de sócios efectivos.\n\n2 - As sessões gerais da assembleia podem ser ordinárias e extraordinárias.\n\n3 - A mesa da assembleia é formada pelo presidente da Academia, pelo vogal do conselho académico que seja académico de número mais antigo e pelo secretário-geral, aos quais, nas suas faltas e impedimentos, se substituem, respectivamente, o 1.º ou o 2.º vice-presidente da Academia, o outro vogal do conselho académico e o vice-secretário-geral.\n\n4 - Sempre que as circunstâncias o justifiquem, pode a composição da mesa ser alargada por decisão da presidência."
+  },
+  "896268408": {
+   "fragment_id": "896268491",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - A assembleia reúne em sessão geral ordinária, via de regra, uma vez por semana ou quinzena, conforme deliberação do conselho académico, tomada no começo de cada trimestre, e depois de ouvido aquele órgão.\n\n2 - Compete à assembleia reunida em sessão geral ordinária:\n\na) Discutir as comunicações apresentadas pelos académicos;\n\nb) Estudar os assuntos que o conselho académico submeter à sua apreciação;\n\nc) Emitir os pareceres que sejam solicitados à Academia sobre problemas históricos;\n\nd) Elaborar planos de trabalho;\n\ne) Tratar de tudo o mais que respeite aos fins da Academia, excluídas as matérias administrativas ou da competência reservada a outros órgãos.\n\n3 - Sempre que a complexidade dos problemas o justifique e para além dos casos expressamente previstos nestes Estatutos, a assembleia designará comissões, as quais, concluído o encargo que lhes seja cometido, se consideram extintas."
+  },
+  "896268409": {
+   "fragment_id": "896268492",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1 - A assembleia reúne em sessão extraordinária quando se trate de comemorações de datas e factos históricos significativos ou de prestar homenagem a personalidades de relevo.\n\n2 - A sessão geral extraordinária prevista no número anterior pode ser considerada sessão solene da Academia."
+  },
+  "896268410": {
+   "fragment_id": "896268493",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nCompete à assembleia reunida em sessão restrita a académicos de número e equiparados:\n\na) Eleger os membros do conselho académico;\n\nb) Eleger os presidentes de honra previstos no n.º 2 do artigo 9.º, assim como eleger e excluir, nos termos estatutários, sócios de qualquer categoria;\n\nc) Promover ou sancionar a realização de sessões gerais extraordinárias da assembleia ou de sessões solenes da Academia e seus programas;\n\nd) Apreciar a colaboração académica ou a justificação da sua falta, com vista ao disposto nos n.os 1, 2 e 4 do artigo 10.º;\n\ne) Ocupar-se da elaboração ou revisão dos Estatutos, regulamentos internos e regulamentos de prémios da Academia;\n\nf) Deliberar sobre a aceitação ou rejeição de doações e deixas testamentárias feitas à Academia com cláusulas modais ou condicionais."
+  },
+  "896268411": {
+   "fragment_id": "896268494",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1 - As sessões gerais ordinárias da assembleia são reservadas a académicos; só podem, todavia, assistir às sessões restritas a académicos de número, além destes, os académicos aos mesmos equiparados nos termos do n.º 1 do artigo 24.º\n\n2 - Tanto as sessões gerais extraordinárias da assembleia como as sessões solenes se encontram abertas a pessoas que não sejam membros da Academia.\n\n3 - A título excepcional, atendendo à importância científica ou cultural do tema apresentado, pode a assembleia admitir que não académicos assistam às sessões gerais ordinárias, mas sem direito a intervenção nos trabalhos.\n\n4 - O número de académicos necessário para que as sessões gerais ou restritas da assembleia funcionem é de 10, incluídos os que fazem parte da mesa."
+  },
+  "896268412": {
+   "fragment_id": "896268495",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - As actas das sessões gerais ordinárias ou extraordinárias da assembleia, assim como as das sessões solenes, devem ser lidas e aprovadas na imediata sessão geral ordinária; porém, as actas das sessões restritas da assembleia devem ser aprovadas no termo da própria sessão, para o que esta se suspende pelo tempo necessário à elaboração do respectivo projecto.\n\n2 - As actas das sessões gerais, ordinárias ou extraordinárias, e das sessões solenes são redigidas num único livro, havendo outro livro destinado às actas das sessões restritas."
+  },
+  "896268413": {
+   "fragment_id": "896268496",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1 - Nas sessões gerais ordinárias da assembleia, depois de lida e aprovada a acta da última sessão e de se ter procedido à leitura do expediente, entra-se na ordem do dia, que consta das comunicações e assuntos anunciados nos avisos convocatórios.\n\n2 - Os académicos não inscritos na ordem do dia encontram-se impedidos de fazer comunicações nessa mesma sessão, mas podem tratar de assuntos de urgência, após a leitura do expediente, não sendo permitido ocupar tempo que exceda 15 minutos.\n\n3 - Se o tempo destinado aos assuntos de urgência não bastar aos académicos, pode o presidente da mesa da assembleia reservar-lhes a palavra para depois da ordem do dia.\n\n4 - O disposto nos númreos anteriores aplica-se, com as necessárias adaptações, às outras sessões da assembleia."
+  },
+  "896268414": {
+   "fragment_id": "896268497",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1 - Em todas as votações da assembleia dos académicos é permitida a representação por carta dirigida ao presidente da mesa, indicando o académico que exerce os poderes representativos.\n\n2 - Só podem ser representantes os académicos que tenham capacidade eleitoral activa para o acto a que a representação se destina, mas não há limite quanto ao número de representações que cada académico pode aceitar, inclusive o presidente da mesa."
+  },
+  "896268415": {
+   "fragment_id": "896268498",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1 - Ao presidente da Academia compete:\n\na) Representar a Academia nas suas relações com quaisquer entidades e instituições nacionais ou estrangeiras;\n\nb) Presidir às sessões da assembleia dos académicos, às sessões solenes da Academia e às reuniões do conselho académico;\n\nc) Garantir a execução das deliberações da assembleia dos académicos e praticar os actos delas decorrentes, tais como a nomeação de júris, delegações académicas e comissões de estudo;\n\nd) Garantir o desempenho das atribuições do conselho académico;\n\ne) Propor ao Governo o provimento dos lugares dos quadros do pessoal administrativo, técnico e auxiliar;\n\nf) Assinar os diplomas expedidos em nome da Academia;\n\ng) Manter a observância dos estatutos e regulamentos académicos.\n\n2 - O presidente da Academia pode delegar funções nos vice-presidentes e nos vogais do conselho académico."
+  },
+  "896268416": {
+   "fragment_id": "896268499",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1 - O presidente da Academia é substituído, nas suas faltas e impedimentos, pelo vice-presidente; em caso de falta ou impedimento deste, substitui-o o 2.º vice-presidente.\n\n2 - Além do disposto no número anterior, os vice-presidentes devem prestar ao presidente toda a colaboração."
+  },
+  "896268417": {
+   "fragment_id": "896268500",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1 - O conselho académico compõe-se dos seguintes membros:\n\na) Presidente e 2 vice-presidentes;\n\nb) Secretário-geral e vice-secretário-geral;\n\nc) 2 vogais.\n\n2 - Apenas os sócios de número residentes em Lisboa e seu termo podem fazer parte do conselho académico, o qual é eleito trienalmente numa sessão da assembleia restrita aos eleitores, para esse efeito convocada, pelo menos, 30 dias antes do fim do exercício do conselho académico precedente, podendo haver antecipação se esse prazo colidir com férias.\n\n3 - A votação faz-se necessariamente por escrutínio secreto."
+  },
+  "896268418": {
+   "fragment_id": "896268501",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nExistirá um livro para a posse dos membros do conselho académico, que lhes é conferido pelo presidente do conselho antecessor ou seu substituto estatutário."
+  },
+  "896268419": {
+   "fragment_id": "896268502",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nNão se aplicam ao exercício dos cargos académicos as disposições legais respeitantes ao limite de idade."
+  },
+  "896268420": {
+   "fragment_id": "896268503",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1 - Compete ao conselho académico a superior orientação e dinamização da Academia, devendo, consequentemente, ocupar-se de quaisquer assuntos que interessem à instituição, em especial:\n\na) Executar as deliberações da assembleia dos académicos;\n\nb) Organizar e submeter à assembleia dos académicos, reunida em sessão geral ordinária, os programas trimestrais de comunicações;\n\nc) Fixar as datas das sessões gerais ordinárias da assembleia, de acordo com o n.º 1 do artigo 25.º;\n\nd) Propor à assembleia restrita a realização de sessões gerais extraordinárias ou de sessões solenes e seus programas;\n\ne) Estimular as relações culturais com instituições congéneres, nacionais e estrangeiras;\n\nf) Elaborar os projectos de orçamento;\n\ng) Administrar as verbas atribuídas à Academia no Orçamento do Estado;\n\nh) Arrecadar e administrar as receitas próprias da Academia e outros subsídios ou verbas de que beneficie;\n\ni) Fazer escriturar, nos termos legais, as receitas e despesas da Academia;\n\nj) Superintender na conservação dos bens móveis e imóveis que sejam propriedade da Academia ou se encontrem na sua dependência;\n\nl) Aceitar doações e deixas testamentárias puras e simples feitas à Academia, assim como propor à assembleia restrita a aceitação ou rejeição de liberalidades acompanhadas de cláusulas modais ou condicionais;\n\nm) Fixar gratificações pelos serviços prestados por académicos, funcionários ou pessoas estranhas à Academia;\n\nn) Atribuir subsídios e bolsas de estudo, em conformidade com os objectivos académicos.\n\n2 - Os programas previstos na alínea b) do número anterior devem ser apresentados em sessão geral ordinária da assembleia nos meses de Dezembro, Março e Julho, contendo a relação das comunicações respeitantes aos períodos subsequentes; para a organização desses programas, o secretário-geral solicitará oportunamente aos académicos a indicação dos temas das comunicações que se propuserem fazer no período considerado."
+  },
+  "896268421": {
+   "fragment_id": "896268504",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nO conselho académico tem reuniões ordinárias, uma por quinzena, e reuniões extraordinárias, quando o presidente o convoque."
+  },
+  "896268422": {
+   "fragment_id": "896268505",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1 - É da competência do secretário-geral:\n\na) Elaborar as actas das sessões da assembleia dos académicos, das sessões solenes da Academia e das reuniões do conselho académico;\n\nb) Dirigir superiormente a secretaria e assegurar a eficiência dos serviços;\n\nc) Expedir avisos e convites para as sessões ou reuniões académicas e outros efeitos;\n\nd) Colaborar com o presidente da Academia e assisti-lo no despacho dos assuntos correntes;\n\ne) Dar andamento às deliberações do conselho académico;\n\nf) Outorgar, em nome da Academia, nos provimentos por contrato do pessoal administrativo, técnico e auxiliar;\n\ng) Assinar com o presidente os diplomas académicos e legalizar certidões ou extractos de documentos solicitados à Academia;\n\nh) Redigir o relatório anual das actividades académicas.\n\n2 - O vice-secretário-geral substitui o secretário-geral nas suas faltas e impedimentos."
+  },
+  "896268423": {
+   "fragment_id": "896268506",
+   "type": 1,
+   "heading": "Capítulo IV — Secretaria, biblioteca e arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Secretaria, biblioteca e arquivo"
+  },
+  "896268424": {
+   "fragment_id": "896268507",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nConstituem serviço da Academia a secretaria, a biblioteca e o arquivo."
+  },
+  "896268425": {
+   "fragment_id": "896268508",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1 - A secretaria é o serviço de apoio administrativo aos órgãos da Academia, tendo a seu cargo o expediente, a contabilidade e as publicações académicas.\n\n2 - Conservam-se no âmbito da secretaria, devidamente arquivados, os documentos administrativos respeitantes aos seus fins que ainda se mostrem necessários à respectiva actividade."
+  },
+  "896268426": {
+   "fragment_id": "896268509",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1 - Incumbe ao funcionário responsável pela secretaria elaborar e submeter ao conselho académico o plano de distribuição das tarefas que à mesma pertencem, assim como a orientação directa do seu desempenho.\n\n2 - Quando convocado, o funcionário responsável pela secretaria assiste às reuniões do conselho académico, com o objectivo de prestar esclarecimentos sobre assuntos das suas atribuições."
+  },
+  "896268427": {
+   "fragment_id": "896268510",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1 - A biblioteca é integrada por todas as publicações oferecidas à Academia ou por esta adquiridas a qualquer outro título.\n\n2 - As espécies existentes em duplicado, truncadas ou em estado de conservação que ofereça perigo para as restantes obras podem ser alienadas mediante deliberação da assembleia de académicos, reunida em sessão geral, com dispensa de outras formalidades."
+  },
+  "896268428": {
+   "fragment_id": "896268511",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1 - O arquivo, que funciona anexo à biblioteca, compõe-se de uma parte histórica e de outra administrativa.\n\n2 - A parte histórica é formada pelos livros de actas, de posse e presença às sessões, relatórios, propostas, pareceres, retratos e bustos de académicos ou de outras individualidades, colecções de fotografias e documentos, selos e moedas, assim como por outras espécies que não tenham cabimento na biblioteca.\n\n3 - A parte administrativa é constituída pelos documentos da secretaria relativos a anos findos, já não necessários à respectiva actividade, mas que devam ser conservados pelo seu valor histórico ou por imposição da lei.\n\n4 - Os documentos administrativos incluídos no arquivo só podem ser consultados pelos membros da Academia, mediante autorização do conselho académico, que para o efeito ouvirá os serviços."
+  },
+  "896268429": {
+   "fragment_id": "896268512",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nA biblioteca e o arquivo funcionam sob a orientação directa de um funcionário com competência técnica e documentalista e na dependência do presidente da Academia."
+  },
+  "896268430": {
+   "fragment_id": "896268513",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1 - Ao pessoal administrativo, técnico e auxiliar continua a aplicar-se o Estatuto da Função Pública.\n\n2 - O novo quadro de pessoal e respectivas normas de provimento serão fixados em diploma legal."
+  },
+  "896268431": {
+   "fragment_id": "896268514",
+   "type": 1,
+   "heading": "Capítulo V — Publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Publicações"
+  },
+  "896268432": {
+   "fragment_id": "896268515",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nSão publicações académicas de carácter permanente:\n\na) O Boletim, de edição anual, em que se inserem relações, eleições e bibliografias dos académicos e dos presidentes de honra, eleição do conselho académico, legislação, sumários das actas das sessões da assembleia dos académicos, das sessões solenes da Academia e das reuniões do conselho académico, relatórios anuais e outros cuja publicação se considere conveniente, lista das obras editadas pela Academia e das espécies que entrarem na sua biblioteca e arquivo;\n\nb) Os Anais, sem natureza periódica, mas de que deve sair, pelo menos, um volume em cada ano, que se destinam à publicação de comunicações e estudos históricos da autoria dos académicos."
+  },
+  "896268433": {
+   "fragment_id": "896268516",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nA Academia editará também obras e documentos em volumes autónomos ou agrupados nas séries que se considerem necessárias."
+  },
+  "896268434": {
+   "fragment_id": "896268517",
+   "type": 1,
+   "heading": "Capítulo VI — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime financeiro"
+  },
+  "896268435": {
+   "fragment_id": "896268518",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n1 - Constituem receitas da Academia:\n\na) As dotações que lhe sejam atribuídas no Orçamento do Estado;\n\nb) O rendimento de bens próprios;\n\nc) O produto da venda de publicações feitas com verbas não compreendidas na alínea a);\n\nd) Os subsídios, doações ou deixas testamentárias que a Academia receba.\n\n2 - Não é permitida a aceitação de quaisquer subsídios, doações ou deixas testamentárias que, de forma directa ou indirecta, designadamente através de cláusulas modais ou condicionais, envolvam contradição com as finalidades da Academia ou prejudiquem a sua realização."
+  },
+  "896268436": {
+   "fragment_id": "896268519",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nAs despesas da Academia estão submetidas às regras gerais da contabilidade pública, ficando, porém, dispensadas de realização de qualquer concurso as despesas relativas à elaboração de trabalhos originais, preparação de edições ou reedições e impressão de obras que a Academia publique."
+  },
+  "896268437": {
+   "fragment_id": "896268520",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições gerais e transitórias"
+  },
+  "896268438": {
+   "fragment_id": "896268521",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n1 - O ano académico principia em Outubro e termina em Julho, não havendo sessões em férias escolares.\n\n2 - Na sessão inaugural será lido o relatório das actividades académicas do ano transacto e nela se indicarão as previstas para o novo ano.\n\n3 - A distribuição dos prémios atribuídos pela Academia terá lugar, via de regra, na sessão de encerramento do ano académico."
+  },
+  "896268439": {
+   "fragment_id": "896268522",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nOs prémios da Academia resultantes de doações ou deixas testamentárias para o efeito recebidas terão regulamento próprio, no qual se respeitará a vontade dos seus instituidores e os fins definidos no artigo 2.º dos presentes Estatutos."
+  },
+  "896268440": {
+   "fragment_id": "896268523",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nÉ vedada a utilização das instalações académicas para actividades alheias à natureza e aos fins da Academia."
+  },
+  "896268441": {
+   "fragment_id": "896268524",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nA Academia poderá requisitar, quer para os seus serviços, quer para a execução de trabalhos especiais, funcionários públicos, nos mesmos termos e condições que se encontram estabelecidos para a Academia das Ciências de Lisboa, nos respectivos estatutos."
+  },
+  "896268442": {
+   "fragment_id": "896268525",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nO tempo correspondente à participação, nas sessões da Academia, dos académicos que também sejam servidores do Estado ou dos corpos administrativos contar-se-á, para todos os efeitos, como tempo de serviço no desempenho das respectivas funções."
+  },
+  "896268443": {
+   "fragment_id": "896268526",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\n1 - A revisão dos Estatutos ou do regulamento interno somente se pode fazer a requerimento do conselho académico ou de 15 académicos de número, apresentado à assembleia reunida em sessão restrita aos sócios efectivos e equiparados.\n\n2 - Depois de apreciar o pedido, a assembleia designará a comissão encarregada do projecto de revisão, escolhendo esta o seu relator.\n\n3 - Em sessões de assembleia restrita aos sócios de número e equiparados, especialmente convocadas com esse objectivo, proceder-se-á à discussão e aprovação do projecto.\n\n4 - Para as referidas sessões da assembleia serão convocados os sócios de número e equiparados residentes em território português; as convocatórias devem ser enviadas com a antecedência mínima de 10 dias, mas a assembleia funcionará, em segunda convocatória, uma hora após a primeira, se os avisos desta assim o indicarem.\n\n5 - O quórum de tais sessões da assembleia é de 20 e de 10 académicos, respectivamente, na primeira e na segunda convocatórias.\n\n6 - A votação realiza-se por artigos ou por todo o projecto, conforme no começo da sessão a assembleia delibere; a votação do projecto em conjunto exclui a sua discussão."
+  },
+  "896268444": {
+   "fragment_id": "896268527",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\n1 - A Academia fica autorizada a pôr em vigor, a título experimental e provisório, as disposições regulamentares necessárias ao desenvolvimento da sua actividade e à eficiência dos seus serviços.\n\n2 - O regulamento interno vigente ao tempo da publicação destes estatutos mantém-se na parte em que os não contrarie, até que seja totalmente revisto."
+  },
+  "896268379": {
+   "fragment_id": "896267862",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - António Antero Coimbra Martins.\n\nPromulgado em 17 de Outubro de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 18 de Outubro de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "896269368": {
+   "fragment_id": "896267866",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Como agremiação de especialistas que se dedicam à reconstituição documental e crítica do passado, tem a Academia, designadamente, os seguintes fins:\n\na) Realizar a investigação científica de história e tornar públicos os seus resultados;\n\nb) Estimular e coordenar esforços tendentes ao rigoroso conhecimento da história nacional, no sentido de eslarecer a contribuição portuguesa para o progresso da cultura e da civilização;\n\nc) Promover a publicação sistemática de fontes documentais que interessem à história portuguesa;\n\nd) Publicar, em língua portuguesa ou em línguas estrangeiras, obras que contribuam para o conhecimento dos factos relacionados com a presença civilizadora de Portugal no Mundo;\n\ne) Procurar servir de orientadora dos estudos históricos nacionais;\n\nf) Cooperar em tudo o que respeita à inventariação e defesa do património histórico e documental da Nação, emitindo parecer sobre esta matéria sempre que lhe seja solicitado.\n\n2 - A Academia poderá desenvolver, em ligação com instituições ou entidades nacionais ou estrangeiras, nomeadamente de países e comunidades de expressão portuguesa, quaisquer actividades conformes aos fins definidos nos presentes Estatutos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271590": {
+   "fragment_id": "896267869",
+   "type": 1,
+   "heading": "Capítulo II — Académicos, presidentes de honra e beneméritos",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "### Capítulo II — Académicos, presidentes de honra e beneméritos\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896269369": {
+   "fragment_id": "896267870",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 5.º\n\nOs académicos agrupam-se nas seguintes categorias:\n\na) De mérito;\n\nb) Honorários;\n\nc) De número;\n\nd) Correspondentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896269370": {
+   "fragment_id": "896267871",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Os académicos de mérito são eleitos de entre os de número ou de entre os historiadores nacionais e estrangeiros que mereçam ser distinguidos pela sua obra histórica ou serviços excepcionais.\n\n2 - O título de académico honorário pode ser conferido a personalidades nacionais ou estrangeiras de reconhecido prestígio que hajam prestado relevantes serviços à Academia ou à cultura.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896269371": {
+   "fragment_id": "896267873",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Os académicos correspondentes não excederão os 190, com a seguinte distribuição:\n\na) Cidadãos portugueses - até 80;\n\nb) Cidadãos brasileiros - até 20;\n\nc) Cidadãos dos restantes países e comunidades de expressão portuguesa - até 10;\n\nd) Nacionais de outros países não compreendidos nas alíneas anteriores - até 80.\n\n2 - A eleição para académicos correspondentes deve recair em pessoas que tenham demonstrado a sua competência pela publicação de importantes estudos de investigação e crítica.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896269372": {
+   "fragment_id": "896267874",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - O Presidente da República é presidente de honra da Academia.\n\n2 - Pode haver outro presidente de honra, se algum académico português de mérito ou de número for distinguido com essa qualidade, caso em que abre vaga na sua cadeira e fica equiparado, com direitos e deveres, aos académicos de número.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896269373": {
+   "fragment_id": "896268475",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - Passam automaticamente a supranumerários os académicos correspondentes que, residindo no País, não tomem parte, sem motivo justificado, nas actividades da Academia por período superior a três anos consecutivos.\n\n2 - Os supranumerários abrem vaga na sua anterior categoria podendo nela reingressar se durante os dois anos imediatos retomarem a efectividade da vida académica.\n\n3 - Verificando-se a hipótese prevista na segunda parte do número anterior, os académicos ocupam sucessivamente as vagas que se verifiquem após o decurso do prazo aí previsto.\n\n4 - Considera-se renúncia tácita à qualidade de académico o facto de o mesmo, residindo em Lisboa, não tomar parte nas actividades da Academia durante três anos ininterruptos, sem fundamentadamente justificar as suas faltas, por iniciativa própria ou decorridos 30 dias após solicitação do conselho académico.\n\n5 - O académico em relação ao qual se verifique a situação de renúncia tácita não pode ser readmitido na Academia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896269374": {
+   "fragment_id": "896268476",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 11.º\n\n1 - As vagas de académicos de número ou de académicos correspondentes devem ser oportunamente comunicadas, em sessão plenária ordinária da assembleia de académicos.\n\n2 - Pode ser atribuído o título de benemérito a pessoas singulares ou colectivas que contribuam de forma relevante para o maior incentivo e melhor projecção das actividades da Academia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271575": {
+   "fragment_id": "896268477",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - A admissão de académicos correspondentes, a elevação de académicos a categoria superior, a eleição de presidentes de honra e de académicos honorários e a atribuição do título de benemérito, assim como a passagem à situação de supranumerários, podem ser propostas:\n\na) Pelo conselho académico;\n\nb) Por 3 académicos com direito de voto na respectiva eleição.\n\n2 - Se a proposta partir de académicos, devem estes dirigi-la, com a sua justificação, ao conselho académico, que sobre ela emitirá parecer, apresentando-a seguidamente em sessão da assembleia restrita aos académicos de número e equiparados, para apreciação e votação; sendo o conselho académico o proponente, juntará à proposta a respectiva justificação, submetendo-a, para o mesmo efeito, a idêntica sessão da assembleia.\n\n3 - Quando a assembleia em sessão restrita aos eleitores o não dispense, devem os candidatos declarar por escrito que aceitam a eventual eleição para académicos e que se submetem às disposições estatutárias e regulamentares da Academia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271576": {
+   "fragment_id": "896268478",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - A referida assembleia restrita toma conhecimento da proposta em sessão para o efeito especialmente convocada, dentro dos 15 dias imediatos à sua entrega ao conselho académico, ou, sendo este o proponente, em igual período de tempo, contado da data da respectiva redacção.\n\n2 - Se nessa sessão a assembleia considerar a proposta suficientemente apreciada, fixa-se nova sessão após 15 dias, no mínimo, a fim de se proceder à respectiva votação.\n\n3 - Sempre que na primeira sessão se não verifique o disposto no número anterior, procede-se à convocação de outra ou outras sessões em datas fixadas pela mesma assembleia.\n\n4 - As votações fazem-se necessariamente por escrutínio secreto, salvo para as eleições do presidente de honra, de académicos de mérito ou honorários e para atribuição do título de benemérito, e considera-se aprovada a proposta que obtenha o mínimo de dois terços dos votos entrados nas urnas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271577": {
+   "fragment_id": "896268479",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 14.º\n\nOs académicos são iguais em direitos e deveres dentro da categoria a que pertencem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271578": {
+   "fragment_id": "896268480",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - Constituem direitos dos académicos:\n\na) Gozar de honras e preeminências idênticas às dos sócios da Academia das Ciências de Lisboa e da Academia Nacional de Belas-Artes;\n\nb) Usar as insígnias académicas e o respectivo trajo;\n\nc) Frequentar as instalações da Academia e consultar a sua biblioteca e o seu arquivo, de acordo com as normas regulamentares;\n\nd) Receber graciosamente as publicações da Academia feitas após a sua admissão;\n\ne) Solicitar, através do secretário-geral, a quaisquer serviços públicos, mormente bibliotecas, arquivos, museus e outros centros de documentação, elementos necessários às suas investigações, mas sem encargos para a Academia;\n\nf) Obter gratuitamente o diploma e o bilhete de identificação académica que correspondam à sua categoria.\n\n2 - O direito previsto na alínea d) do número anterior exerce-se mediante o levantamento das publicações pelo próprio na sede da Academia ou o seu envio à cobrança pelo correio, de acordo com as instruções que o académico transmita à secretaria.\n\n3 - O exercício da faculdade a que se refere a alínea e) do n.º 1 depende de prévio despacho favorável do presidente da Academia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271579": {
+   "fragment_id": "896268481",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 16.º\n\nMediante a exibição do cartão de identidade académica, os académicos têm livre entrada, com dispensa de quaisquer formalidades ou taxas, em todas as bibliotecas, arquivos, museus, estações arqueológicas e outros centros de investigação do Estado ou outras entidades públicas, inclusive secções de reservados e depósitos não destinados à exposição pública, devendo ser-lhes assegurado, quando dele careçam, gabinete ou local adequado para os seus estudos, assim como proporcionadas outras facilidades que justificadamente solicitem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271580": {
+   "fragment_id": "896268482",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 17.º\n\nConstituem deveres dos académicos:\n\na) Colaborar nas actividades científicas, culturais e administrativas da Academia;\n\nb) Participar nas eleições para os cargos académicos e aceitar aqueles para que sejam eleitos;\n\nc) Desempenhar quaisquer outras funções ou comissões académicas que lhes caibam por eleição ou designação;\n\nd) Apresentar comunicações, memórias, relatórios, projectos e propostas de investigação, assim como estudos ou sugestões de diversa natureza, respeitantes aos fins e desenvolvimento da Academia;\n\ne) Proferir, dentro do ano académico imediato ao preenchimento das respectivas vagas, o «elogio histórico» dos académicos em cujas cadeiras sucedem, ou saudar os novos recipiendários, quando para o efeito sejam designados em sessão geral da assembleia de académicos, sob proposta do conselho académico.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271581": {
+   "fragment_id": "896268483",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 18.º\n\n1 - Os presidentes de honra e os académicos de mérito encontram-se equiparados, no que respeita a direitos e deveres, aos académicos de número, embora possuam apenas capacidade eleitoral activa.\n\n2 - Os académicos honorários não possuem capacidade eleitoral activa ou passiva para os cargos académicos.\n\n3 - É facultativo o cumprimento dos deveres estatutários pelos presidentes de honra e académicos de mérito e honorários.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271582": {
+   "fragment_id": "896268484",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 19.º\n\nConstituem deveres dos académicos correspondentes os indicados nas alíneas a), c) e d) do artigo 17.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271583": {
+   "fragment_id": "896268485",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 20.º\n\n1 - Os académicos estrangeiros de qualquer categoria são dispensados da comparência às sessões e da colaboração permanente, mas devem manter o contacto com a Academia através do envio de comunicações e outros estudos, podendo ser-lhes atribuídas comissões académicas nos seus ou noutros países.\n\n2 - Quando residam ou se encontrem em Portugal, os académicos estrangeiros ficam equiparados aos nacionais da respectiva categoria.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271584": {
+   "fragment_id": "896268490",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 24.º\n\n1 - A assembleia dos académicos funciona em sessões plenárias, quando nelas participam académicos de todas as categorias, e em sessões restritas, que se circunscrevam aos de número, assim como aos presidentes de honra e académicos de mérito que hajam sido de número.\n\n2 - As sessões gerais da assembleia podem ser ordinárias e extraordinárias.\n\n3 - A mesa da assembleia é formada pelo presidente da Academia, pelos 1.º ou 2.º vice-presidentes e pelo secretário-geral, que são substituídos nas suas faltas e impedimentos, respectivamente, por um dos vice-presidentes ou pelo vogal mais antigo do conselho académico e pelo vice-secretário-geral.\n\n4 - Sempre que as circunstâncias o justifiquem, pode a composição da mesa ser alargada por decisão da presidência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271585": {
+   "fragment_id": "896268493",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 27.º\n\nCompete à assembleia reunida em sessão restrita a académicos de número e equiparados:\n\na) Eleger os membros do conselho académico;\n\nb) Eleger o presidente de honra previsto no n.º 2 do artigo 9.º, assim como eleger e excluir, nos termos estatutários, académicos de qualquer categoria e beneméritos;\n\nc) Promover ou sancionar a realização de sessões gerais extraordinárias da assembleia ou de sessões solenes da Academia e seus programas;\n\nd) Apreciar a colaboração académica ou a justificação da sua falta, com vista ao disposto nos n.os 1, 2 e 4 do artigo 10.º;\n\ne) Ocupar-se da elaboração ou revisão dos Estatutos, regulamentos internos e regulamentos de prémios da Academia;\n\nf) Deliberar sobre a aceitação ou rejeição de doações e deixas testamentárias feitas à Academia com cláusulas modais ou condicionais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271586": {
+   "fragment_id": "896268494",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 28.º\n\n1 - As sessões plenárias ordinárias da assembleia são reservadas a académicos, sem prejuízo de os seus equiparados, nos termos do n.º 1 do artigo 24.º, poderem assistir às sessões restritas a académicos de número.\n\n2 - Tanto as sessões plenárias extraordinárias da assembleia como as sessões solenes se encontram abertas a pessoas estranhas à Academia.\n\n3 - A título excepcional, atendendo à importância científica ou cultural do tema apresentado, pode a assembleia admitir que não académicos assistam às sessões gerais ordinárias, mas sem direito a intervenção nos trabalhos.\n\n4 - O número de académicos necessário para que as sessões gerais ou restritas da assembleia funcionem é de 10, incluídos os que fazem parte da mesa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271587": {
+   "fragment_id": "896268495",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 29.º\n\n1 - As actas das sessões gerais ordinárias ou extraordinárias da assembleia, assim como as das sessões solenes, devem ser lidas e aprovadas na imediata sessão geral ordinária; porém, as actas das sessões restritas da assembleia devem ser aprovadas no termo da própria sessão, para o que esta se suspende pelo tempo necessário à elaboração do respectivo projecto.\n\n2 - As actas das sessões plenárias ordinárias, extraordinárias e solenes são publicadas no Boletim da Academia após a sua aprovação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271588": {
+   "fragment_id": "896268500",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 34.º\n\n1 - O conselho académico compõe-se dos seguintes membros:\n\na) Presidente e 2 vice-presidentes;\n\nb) Secretário-geral e vice-secretário-geral;\n\nc) 2 vogais.\n\n2 - Apenas os académicos de número residentes no distrito de Lisboa podem ser eleitos para as funções referidas nas alíneas a) e b) do número anterior.\n\n3 - O conselho académico é eleito trienalmente em sessão da assembleia restrita aos eleitores, para esse efeito convocada, pelo menos 15 dias antes do termo do exercício do conselho académico, podendo haver antecipação se esse prazo colidir com férias.\n\n4 - A votação faz-se necessariamente por escrutínio secreto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896268944": {
+   "fragment_id": "896269029",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1 - Com o objectivo de verificar se estão conformes ao programa e às directrizes científicas da Academia, a assembleia dos académicos, em sessão geral ordinária, designará comissões para aceitação dos trabalhos destinados a publicação.\n\n2 - As comissões redigirão parecer sobre cada um dos trabalhos que apreciam, considerando-se aprovados os pareceres favoráveis à publicação, desde que sejam subscritos, no mínimo, por dois terços dos membros da comissão respectiva."
+  },
+  "896268945": {
+   "fragment_id": "896269030",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nPara a publicação dos documentos, em colecção ou isoladamente, assim como de quaisquer outros trabalhos, devem ser, em princípio, observadas regras a estabelecer por uma comissão de académicos especialistas na matéria, designada pela assembleia em sessão geral ordinária."
+  },
+  "896268946": {
+   "fragment_id": "896269031",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nOs trabalhos académicos são da responsabilidade dos seus autores, mas por eles responde também a Academia, quando os publique."
+  },
+  "896268947": {
+   "fragment_id": "896269032",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n1 - Os originais dos textos a publicar devem ser entregues à Academia dactilografados e na sua versão definitiva.\n\n2 - A revisão das provas tipográficas é encargo dos autores, que devem proceder de forma a não onerar ou perturbar a execução das tarefas de composição e impressão, sob pena de serem responsabilizados em caso de manifesto aumento de custos.\n\n3 - Os académicos têm direito a uma separata de 50 exemplares dos seus trabalhos publicados pela Academia; se os trabalhos ocuparem volumes inteiros, recebem igual número de exemplares destes."
+  },
+  "896268953": {
+   "fragment_id": "896269039",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1 - A Academia procurará estabelecer permuta das suas publicações com as instituições congéneres ou universitárias, nacionais e estrangeiras.\n\n2 - A permuta com publicações que não emanem de instituições congéneres faz-se, em regra, somente através do Boletim."
+  },
+  "896268954": {
+   "fragment_id": "896269040",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nOs trabalhos tipográficos, o depósito, a distribuição e a venda das publicações académicas estão a cargo da secretaria."
+  },
+  "896271589": {
+   "fragment_id": "896268518",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 55.º\n\n1 - Constituem receitas da Academia:\n\na) As dotações que lhe sejam atribuídas no Orçamento do Estado;\n\nb) O rendimento de bens próprios;\n\nc) O produto da venda das suas publicações;\n\nd) Os subsídios, doações ou deixas testamentárias que a Academia receba.\n\n2 - Não é permitida a aceitação de quaisquer subsídios, doações ou deixas testamentárias que, de forma directa ou indirecta, designadamente através de cláusulas modais ou condicionais, envolvam contradição com as finalidades da Academia ou prejudiquem a sua realização.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271596": {
+   "fragment_id": "896271459",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": "1995-07-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+   ],
+   "markdown": "###### Artigo 64.º\n\n1 - Os actuais académicos de mérito nacionais que não possuírem a categoria de académicos de número mantêm a sua designação, sendo equiparados a académicos honorários em deveres e direitos consignados nos presentes Estatutos.\n\n2 - Os actuais académicos supranumerários passam a ser designados «Correspondentes supranumerários».\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170/95 - Diário da República n.º 164/1995, Série I-A de 1995-07-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028), em vigor a partir de 1995-07-23"
+  },
+  "896271617": {
+   "fragment_id": "896268508",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "1998-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 373/98 - Diário da República n.º 271/1998, Série I-A de 1998-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1998-217939), em vigor a partir de 1998-11-28"
+   ],
+   "markdown": "###### Artigo 41.º\n\n1 - A secretaria é o serviço de apoio administrativo aos órgãos da Academia, tendo a seu cargo o expediente, a contabilidade e as publicações académicas.\n\n2 - Conservam-se no âmbito da secretaria, devidamente arquivados, os documentos administrativos respeitantes aos seus fins que ainda se mostrem necessários à respectiva actividade.\n\n3 - A secretaria é chefiada por um chefe de secção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 373/98 - Diário da República n.º 271/1998, Série I-A de 1998-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1998-217939), em vigor a partir de 1998-11-28"
+  },
+  "896271618": {
+   "fragment_id": "896268509",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": "1998-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 373/98 - Diário da República n.º 271/1998, Série I-A de 1998-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1998-217939), em vigor a partir de 1998-11-28"
+   ],
+   "markdown": "###### Artigo 42.º\n\n1 - Incumbe ao chefe de secção elaborar e submeter ao conselho académico o plano de distribuição das tarefas que à mesma pertencem, assim como a orientação directa do seu desempenho.\n\n2 - Quando convocado, o chefe de secção assiste às reuniões do conselho académico, com o objectivo de prestar esclarecimentos sobre assuntos das suas atribuições.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 373/98 - Diário da República n.º 271/1998, Série I-A de 1998-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1998-217939), em vigor a partir de 1998-11-28"
+  }
+ }
+}

@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:526850:por
+title: Decreto n.º 48850
+short_title: null
+summary: Torna extensivos à província de Angola, a partir de 1 de Janeiro de 1969, os preceitos do Decreto n.º 45605, com
+  a redacção dada ao § 1.º do seu artigo 1.º pelo artigo 4.º do Decreto n.º 46885, que considera obrigados os serviços autónomos,
+  os organismos de coordenação económica e os fundos especiais do Estado, mesmo quando subsidiados através do orçamento da
+  província de Moçambique, a comparticipar nos encargos de que trata o artigo 1.º do Decreto-Lei n.º 42559 (defesa nacional)
+  e mantém em vigor as disposições do Decreto n.º 46958 referentes aos serviços autónomos dos correios, telégrafos e telefones
+  das províncias de Angola e Moçambique
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '48850'
+official_date: null
+publication_date: '1969-01-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 20/1969, Série I de 1969-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 89 - 90
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/01/02000/00890090.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '526850'
+  dre_path: /dr/detalhe/decreto/48850-1969-526850
+  internal: pt:dre:526850:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48850-1969-526850
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48850-1969-526850
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:06:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 506476ef7d84f0b9598418aec62815f32954b0d94fe5403cb3af3014049d3020
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:140815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491402:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:06:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48850
+
+Pelo [Decreto n.º 45605](https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034), de 9 de Março de 1964, foram tornados extensivos aos organismos de coordenação económica, fundos e serviços especiais do Estado na província de Moçambique os preceitos respeitantes à comparticipação dos serviços autónomos nos encargos a que se refere o artigo 1.º do [Decreto-Lei n.º 42559](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42559-1959-429862), de 3 de Outubro de 1959, e actualizada a percentagem fixada como comparticipação mínima destes serviços nas despesas com a defesa nacional.
+
+Considerando que nada justifica tratamento diferente em relação a idênticos organismos da província de Angola, por ali se verificarem as mesmas razões determinantes daquela providência legislativa;
+
+Considerando que a circunstância de alguns desses organismos serem subsidiados através do orçamento geral da província não constitui impedimento à sua comparticipação nas despesas daquela natureza, desde que a correspondente percentagem incida sobre as receitas próprias previstas nos seus orçamentos privativos;
+
+Atendendo a que se torna necessário assegurar a efectiva e regular entrega nos cofres da Fazenda Nacional da comparticipação nas despesas com a defesa;
+
+Ouvido o Governo-Geral de Angola;
+
+Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º São tornados extensivos à província de Angola, a partir de 1 de Janeiro de 1969, os preceitos do [Decreto n.º 45605](https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034), de 9 de Março de 1964, com a redacção dada ao § 1.º do seu artigo 1.º pelo artigo 4.º do [Decreto n.º 46885](https://diariodarepublica.pt/dr/detalhe/decreto/46885-1966-491402), de 25 de Fevereiro de 1966.
+
+Art. 2.º Mantêm-se em vigor as disposições do [Decreto n.º 46958](https://diariodarepublica.pt/dr/detalhe/decreto/46958-1966-487899), de 13 de Abril de 1966, referentes aos serviços autónomos dos correios, telégrafos e telefones das províncias de Angola e Moçambique.
+
+Art. 3.º Os serviços autónomos, organismos e fundos abrangidos pelo disposto no artigo 1.º do presente diploma elaborarão no ano de 1969 os orçamentos suplementares que forem necessários, utilizando como contrapartida quaisquer recursos, incluindo os saldos das suas contas de exercícios findos, para exacto cumprimento do que fica determinado.
+
+Art. 4.º São consideradas prioritárias as despesas com a defesa nacional, devendo os serviços autónomos, organismos de coordenação económica, fundos e serviços especiais fazer entrega nos cofres da Fazenda Nacional, até ao dia 15 de cada mês, do duodécimo correspondente à sua comparticipação, a fim de ser escriturado nos termos do disposto no § 2.º do artigo 1.º do [Decreto n.º 44342](https://diariodarepublica.pt/dr/detalhe/decreto/44342-1962-140815), de 12 de Maio de 1962.
+
+§ único. A rubrica da receita mencionada no preceito referido no corpo deste artigo passa a ter a seguinte redacção:
+
+Consignação de receitas: comparticipação dos serviços autónomos, organismos de coordenação económica, fundos e serviços especiais nas despesas com a defesa nacional.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 9 de Janeiro de 1969.
+
+Publique-se.
+
+Presidência da República, 24 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais da Guiné, Angola, Moçambique e Macau. - J. da Silva Cunha.

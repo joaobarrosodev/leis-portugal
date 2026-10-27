@@ -1,0 +1,205 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:470854:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1980-160581267",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/41-1980-470854",
+ "source_lastmod": "2026-09-28",
+ "versions": [
+  {
+   "date": "1980-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160585053",
+    "160585054",
+    "160585055",
+    "160585056",
+    "160585057",
+    "160585058",
+    "160585059",
+    "160585060",
+    "160585061",
+    "160585062",
+    "160585063",
+    "160585064",
+    "160585065",
+    "160585066",
+    "160585067"
+   ]
+  },
+  {
+   "date": "1985-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178372:por",
+     "title": "Decreto Regulamentar n.º 66/85",
+     "published": "1985-10-11",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/66-1985-178372"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "160585053",
+    "160585054",
+    "160585055",
+    "160585056",
+    "160585057",
+    "160585058",
+    "160585059",
+    "160585060",
+    "160585061",
+    "160585062",
+    "160585063",
+    "160585064",
+    "1173417275",
+    "160585066",
+    "160585067",
+    "160585068"
+   ]
+  }
+ ],
+ "fragments": {
+  "160585053": {
+   "fragment_id": "160581268",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Constitui preocupação do Governo o aumento da qualidade dos serviços prestados aos turistas que nos visitam, na linha de orientação definida pela legislação sobre profissões turísticas.\n\nNesse sentido, julga-se de interesse criar as condições para que, além dos serviços tradicionais de transporte oferecidos aos turistas, estes possam dispor de veículos ligeiros de aluguer para passageiros com especiais condições de conforto e condutores qualificados - os motoristas de turismo.\n\nTais serviços poderão revestir-se, igualmente, de interesse no que respeita às relações públicas de numerosas entidades públicas e privadas.\n\nDentro do princípio tradicional, seguido no domínio do acesso ao mercado de transportes de passageiros, de privilegiar, no acesso à titularidade das licenças, os que exercem a profissão, como forma de rentabilização de exploração e promoção social, considera-se dever permitir, em exclusivo, aos motoristas de turismo o acesso à titularidade das licenças a conceder nos termos do presente diploma.\n\nO regime agora criado procurou assegurar que este novo tipo de serviço não venha pôr em causa as exigências de coordenação de transportes, designadamente salvaguardando a sua não interferência com a exploração dos transportes de aluguer.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "160585054": {
+   "fragment_id": "160581269",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado um regime especial de licenciamento para veículos ligeiros de passageiros afectos a transportes de aluguer de carácter turístico, cuja exploração obedecerá ao disposto no presente diploma e suas disposições regulamentares."
+  },
+  "160585055": {
+   "fragment_id": "160581270",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs licenças para a exploração dos veículos de aluguer para serviços turísticos serão atribuídas pela Direcção-Geral de Transportes Terrestres, mediante concurso, que obedecerá aos requisitos genéricos e às normas específicas a fixar por portaria dos Ministros do Comércio e Turismo e dos Transportes e Comunicações."
+  },
+  "160585056": {
+   "fragment_id": "160581271",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As licenças a que se refere o artigo anterior serão atribuídas dentro dos contingentes fixados pela Direcção-Geral de Transportes Terrestres, ouvidas as câmaras municipais interessadas, sob proposta da Direcção-Geral do Turismo.\n\n2 - Os contingentes serão fixados para zonas turísticas e de acordo com as normas e os critérios a definir em despacho do director-geral de Transportes Terrestres, ouvida a Direcção-Geral do Turismo."
+  },
+  "160585057": {
+   "fragment_id": "160581272",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - As licenças para a exploração dos veículos de aluguer para serviços turísticos só podem ser atribuídas a motoristas de turismo.\n\n2 - Em qualquer caso, cada motorista de turismo só pode ser titular de uma licença para a exploração de veículos de aluguer para serviços turísticos."
+  },
+  "160585058": {
+   "fragment_id": "160581273",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nTêm preferência na concessão das licenças a que se refere o presente diploma os motoristas de turismo que sejam industriais de transportes em veículos ligeiros de aluguer para passageiros."
+  },
+  "160585059": {
+   "fragment_id": "160581274",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA concessão de licenças aos indivíduos a que se refere o artigo anterior implica o cancelamento das licenças de aluguer de que sejam titulares."
+  },
+  "160585060": {
+   "fragment_id": "160587475",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA condução dos veículos licenciados ao abrigo do presente diploma apenas poderá ser efectuada por motoristas de turismo."
+  },
+  "160585061": {
+   "fragment_id": "160587476",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara os efeitos do presente diploma, entende-se por motorista de turismo a pessoa titular de carta de condutor profissional e de carteira profissional de motorista de turismo, nos termos do Decreto-Lei n.º 519-F/79, de 28 de Dezembro, e respectiva legislação regulamentar."
+  },
+  "160585062": {
+   "fragment_id": "160587477",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Só podem ser licenciados como veículos de aluguer para serviços turísticos veículos automóveis que reúnam as características a definir em despacho do director-geral de Transportes Terrestres, ouvida a Direcção-Geral de Turismo.\n\n2 - Os veículos só poderão ser utilizados no exercício da actividade por um período de cinco anos, contados a partir da data da respectiva matrícula.\n\n3 - O limite estabelecido no número anterior pode ser prorrogado por prazos não superiores a um ano, mediante autorização da Direcção-Geral de Transportes Terrestres, após inspecção dos veículos."
+  },
+  "160585063": {
+   "fragment_id": "160587478",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs veículos devem encontrar-se à disposição do público no local de recolha, podendo, excepcionalmente, a Direcção-Geral de Transportes Terrestres autorizar, sob proposta das câmaras municipais interessadas, que sejam fixados locais de estacionamento próprios."
+  },
+  "160585064": {
+   "fragment_id": "160587479",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Os serviços prestados deverão iniciar-se dentro das zonas a que os veículos, por força do respectivo contingente, se encontram afectos.\n\n2 - Ouvida a Direcção-Geral do Turismo, a Direcção-Geral de Transportes Terrestres pode autorizar que em épocas de ponta os veículos prestem igualmente serviços noutras zonas turísticas."
+  },
+  "160585065": {
+   "fragment_id": "160587480",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - As tarifas a aplicar a este tipo de serviços de transporte serão fixadas por portaria dos Ministros do Comércio e Turismo e dos Transportes e Comunicações.\n\n2 - O preço a pagar pelos serviços prestados deverá integrar duas componentes, uma correspondente ao tempo de duração do serviço e outra aos quilómetros percorridos.\n\n3 - A portaria a que se refere o n.º 1 fixará, igualmente, um mínimo de cobrança."
+  },
+  "160585066": {
+   "fragment_id": "160587481",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs normas de identificação dos veículos ligeiros de aluguer para serviços turísticos serão fixadas em despacho do director-geral de Transportes Terrestres."
+  },
+  "160585067": {
+   "fragment_id": "160587482",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Aos transportes em veículos de aluguer para serviços turísticos são aplicáveis, em tudo o que não contrarie o presente diploma, as normas que regulam os transportes de aluguer em veículos ligeiros de passageiros.\n\n2 - As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações."
+  },
+  "1173417275": {
+   "fragment_id": "160587480",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1985-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 66/85 - Diário da República n.º 234/1985, Série I de 1985-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1985-178372), em vigor a partir de 1985-10-12."
+   ],
+   "markdown": "###### Artigo 12.º\n\nOs preços a aplicar a este tipo de serviço de transporte serão livremente fixados pelos operadores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 66/85 - Diário da República n.º 234/1985, Série I de 1985-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1985-178372), em vigor a partir de 1985-10-12."
+  },
+  "160585068": {
+   "fragment_id": "160587483",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Diogo Pinto de Freitas do Amaral - Basílio Adolfo Mendonça Horta da Franca - José Carlos Pinto Soromenho Viana Baptista.\n\nPromulgado em 7 de Agosto de 1980.\n\nPublique.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

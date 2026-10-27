@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0040:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0040-19980707",
+ "dre_path": null,
+ "source_lastmod": "1998-07-07",
+ "versions": [
+  {
+   "date": "1998-06-17",
+   "future": false,
+   "celex": "31998L0040",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eeccd205dbcbd3b8",
+    "13f57e6e1e808d5c",
+    "7b023171b6ab9948",
+    "0d6fc6cb440f390c",
+    "bdf913f3c7407289",
+    "fe3026860d64e911"
+   ]
+  }
+ ],
+ "fragments": {
+  "eeccd205dbcbd3b8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/40/CE da Comissão de 8 de Junho de 1998 que adapta ao progresso técnico a Directiva 74/346/CEE do Conselho relativa aos espelhos retrovisores dos tractores agrícolas ou florestais de rodas (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 171 de 17/06/1998 p. 0028 - 0029*\n\nDIRECTIVA 98/40/CE DA COMISSÃO de 8 de Junho de 1998 que adapta ao progresso técnico a Directiva 74/346/CEE do Conselho relativa aos espelhos retrovisores dos tractores agrícolas ou florestais de rodas (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 74/346/CEE do Conselho, de 25 de Junho de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes aos espelhos retrovisores dos tractores agrícolas ou florestais de rodas (1), com a última redacção que lhe foi dada pela Directiva 97/54/CE do Parlamento Europeu e do Conselho (2), e, nomeadamente, o seu artigo 4º,\n\nConsiderando que, tendo em conta a complexidade crescente das tarefas realizadas pelos tractores, convém tomar em consideração os espelhos retrovisores utilizados para a vigilância das alfaias e não concebidos para uma utilização em estrada;\n\nConsiderando que, para aumentar a segurança, convém especificar as condições de regulação dos espelhos retrovisores pelo condutor; que é conveniente, por conseguinte, modificar a Directiva 74/346/CEE;\n\nConsiderando que as disposições da presente directiva estão em conformidade com o parecer do Comité de Adaptação ao Progresso Técnico criado pela Directiva 74/150/CEE do Conselho (3), com a última redacção que lhe foi dada pela Directiva 97/54/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "13f57e6e1e808d5c": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO anexo da Directiva 74/346/CEE é alterado do seguinte modo:\n\n1. No ponto 1.1, é aditada uma frase com a seguinte redacção: «Os espelhos retrovisores adicionais concebidos para a vigilância das alfaias durante o trabalho nos campos não são necessariamente homologáveis mas devem estar situados em conformidade com as prescrições de montagem dos pontos 2.3.3, 2.3.4 e 2.3.5.»;\n\n2. No ponto 2.4.2, a primeira frase é substituída pelo texto seguinte:\n\n«O espelho retrovisor exterior deve ser regulável pelo condutor sem abandonar o posto de condução.»."
+  },
+  "7b023171b6ab9948": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A partir de 1 de Maio de 1999, os Estados-membros não podem:\n\n- recusar a homologação CE ou a emissão do documento previsto no nº 1, terceiro travessão, do artigo 10º da Directiva 74/150/CEE ou a recepção de âmbito nacional a um modelo de tractor,\n\nnem\n\n- proibir a primeira entrada em circulação de tractores,\n\nse esses tractores satisfizerem os requisitos da Directiva 74/346/CEE, com a redacção que lhe é dada pela presente directiva.\n\n2. A partir de 1 de Outubro de 1999, os Estados-membros:\n\n- deixam de poder emitir o documento previsto no nº 1, terceiro travessão, do artigo 10º da Directiva 74/150/CEE a um modelo de tractor se este não satisfizer os requisitos da Directiva 74/346/CEE, com a redacção que lhe é dada pela presente directiva,\n\n- podem recusar a homologação de âmbito nacional de um modelo de tractor se este não satisfizer os requisitos da Directiva 74/346/CEE, com a redacção que lhe é dada pela presente directiva."
+  },
+  "0d6fc6cb440f390c": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 30 de Abril de 1999. Desse facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-membros devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "bdf913f3c7407289": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "fe3026860d64e911": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 8 de Junho de 1998.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO L 191 de 15. 7. 1974, p. 1.\n\n(2) JO L 277 de 10. 10. 1997, p. 24.\n\n(3) JO L 84 de 28. 3. 1974, p. 10."
+  }
+ }
+}

@@ -1,0 +1,260 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223826722:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-223825424",
+ "dre_path": "/dr/detalhe/portaria/335-a-2023-223826722",
+ "source_lastmod": "2026-01-21",
+ "versions": [
+  {
+   "date": "2023-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "223763722",
+    "223763723",
+    "223763724",
+    "223763725",
+    "223763726",
+    "223763727",
+    "223763728",
+    "223763729",
+    "223763730",
+    "223763731",
+    "223763732",
+    "223763733",
+    "223763734",
+    "223763735",
+    "223763737"
+   ]
+  },
+  {
+   "date": "2026-01-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1017369025:por",
+     "title": "Portaria n.º 21/2026/1",
+     "published": "2026-01-21",
+     "dre_path": "/dr/detalhe/portaria/21-2026-1017369025"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "223763722",
+    "223763723",
+    "223763724",
+    "1020029003",
+    "223763726",
+    "1020029004",
+    "223763728",
+    "1020029005",
+    "1020029006",
+    "223763731",
+    "1020029007",
+    "1020029008",
+    "223763734",
+    "223763735",
+    "223763736",
+    "223763737"
+   ]
+  }
+ ],
+ "fragments": {
+  "223763722": {
+   "fragment_id": "223825425",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 335-A/2023\n\nde 3 de novembro\n\nSumário: Define e estabelece os termos e as condições para o descanso do cuidador informal e procede à sétima alteração à Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.\n\nO Estatuto do Cuidador Informal, aprovado em anexo à Lei n.º 100/2019, de 6 de setembro, regula os direitos e deveres do cuidador e da pessoa cuidada e estabelece as respetivas medidas de apoio.\n\nA referida lei determinou a implementação de projetos-piloto no sentido de desenvolver as medidas de apoio aos cuidadores informais e às pessoas cuidadas, com uma distribuição uniforme por todo o território nacional, selecionando-se os territórios a abranger de acordo com os respetivos níveis de fragilidade social.\n\nNa sequência da avaliação da implementação dos projetos-piloto, foi publicado o Decreto Regulamentar n.º 1/2022, de 10 de janeiro, que estabelece os termos e as condições do reconhecimento como cuidador informal, bem como as medidas de apoio aos cuidadores informais e às pessoas cuidadas, alargando tais medidas a todo o território continental.\n\nUma das medidas de apoio ao cuidador informal considerada fundamental e que objetiva a diminuição da sua sobrecarga física e emocional é, de acordo com a avaliação efetuada em Plano de Intervenção Específico, o descanso do cuidador, por forma a beneficiar de um período de descanso na prestação dos cuidados. Deste modo, permite-se o desenvolvimento de medidas de mitigação do burnout e da promoção da saúde física e ou mental.\n\nNesse período, viabiliza-se que a pessoa cuidada possa ser acolhida numa estrutura onde lhe sejam facultados cuidados de saúde e ou de apoio social adequados às suas necessidades, e consagra-se a possibilidade de acesso à prestação de cuidados no domicílio, através do Serviço de Apoio Domiciliário.\n\nCientes de que a utilização da medida de apoio para descanso do cuidador envolve fatores de diversa ordem, nomeadamente a natureza dos serviços prestados, os recursos financeiros envolvidos, bem como fatores de índole geográfico, a presente portaria introduz os procedimentos de utilização das medidas de descanso do cuidador e de gestão de vagas, determinando, ainda, uma diferenciação positiva visando a redução dos encargos suportados pelo cidadão, em concreto através da diminuição da percentagem sobre o rendimento per capita do seu agregado familiar, cujo diferencial é assumido pela segurança social. Possibilita, ainda, dependendo da natureza da resposta, a isenção de comparticipação.\n\nEspera-se com esta medida cuidar de quem cuida, pelo que é compromisso do Governo promover uma efetiva proteção dos direitos dos cuidadores informais e da sua valorização, devolvendo-lhes o legítimo e insubstituível papel, não apenas para as pessoas que cuidam, mas para todo o sistema social e de saúde, reconhecendo o seu primordial contributo para a sua sustentabilidade.\n\nForam ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a CONFECOOP - Confederação Cooperativa Portuguesa, C. C. R. L.\n\nAssim:\n\nAo abrigo do n.º 2 do artigo 16.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, na sua redação atual, manda o Governo, pelo Ministro das Finanças, pelo Secretário de Estado da Segurança Social, pela Secretária de Estado da Inclusão e pelo Secretário de Estado da Saúde, no uso das competências que lhes foram delegadas, o seguinte:"
+  },
+  "223763723": {
+   "fragment_id": "223825426",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nA presente portaria:\n\na) Define e estabelece os termos e as condições do descanso do cuidador informal, previsto como medida de apoio no Estatuto do Cuidador Informal (ECI), aprovado em anexo à Lei n.º 100/2019, de 6 de setembro, e no Decreto Regulamentar n.º 1/2022, de 10 de janeiro;\n\nb) Procede à sétima alteração da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual, que estabelece as normas que define os critérios, regras e formas em que assenta o modelo específico da cooperação estabelecida entre o Instituto da Segurança Social, I. P. (ISS, I. P.), e as instituições particulares de solidariedade social ou legalmente equiparadas, adiante designadas por instituições, para o desenvolvimento de respostas sociais, em conformidade com o subsistema de ação social."
+  },
+  "223763724": {
+   "fragment_id": "223825427",
+   "type": 11,
+   "heading": "Artigo 2.º — Descanso do cuidador informal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Descanso do cuidador informal\n\n1 - O descanso do cuidador consiste na possibilidade do cuidador informal reconhecido, beneficiar de descanso efetivo, de acordo com a avaliação efetuada no Plano de Intervenção Específico (PIE) previsto no artigo 12.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, visando a redução da sua sobrecarga física e emocional.\n\n2 - Para os efeitos previstos no número anterior, há lugar à interrupção temporária dos cuidados providenciados pelo cuidado informal, mediante o acesso a serviços de apoio social ou acolhimento temporário da pessoa cuidada."
+  },
+  "223763725": {
+   "fragment_id": "223825428",
+   "type": 11,
+   "heading": "Artigo 3.º — Período de descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Período de descanso\n\n1 - O período de descanso do cuidador informal é definido no PIE, num período até 30 dias, seguidos ou interpolados, por cada ano civil.\n\n2 - O PIE resulta do diagnóstico e planeamento centrado na continuidade e proximidade de cuidados, e é efetuado conjuntamente pelos profissionais de referência da saúde e da segurança social, com a participação ativa do cuidador informal e da pessoa cuidada, ou do seu acompanhante ou quem a representa, bem como de outros profissionais das instituições do setor social e solidário ou da comunidade que desenvolvam a sua ação junto de cuidadores informais e pessoas cuidadas.\n\n3 - Do PIE deve constar a declaração de consentimento da pessoa cuidada, ou de quem a representa para, no período de descanso do cuidador, ser referenciada ou encaminhada para uma das estruturas ou serviços referidos no artigo 5.º, conforme previsto na alínea d) do n.º 4 do artigo 12.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro."
+  },
+  "223763726": {
+   "fragment_id": "223825429",
+   "type": 11,
+   "heading": "Artigo 4.º — Pressupostos para o descanso do cuidador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pressupostos para o descanso do cuidador\n\nO descanso do cuidador, identificado no âmbito do PIE, deve ter em conta:\n\na) A vontade do cuidador informal e da pessoa cuidada;\n\nb) As necessidades do cuidador e da pessoa cuidada;\n\nc) As exigências laborais do cuidador informal não principal, quando aplicável;\n\nd) As limitações funcionais e níveis de exaustão do cuidador informal, nomeadamente através de avaliação de sobrecarga;\n\ne) As características da rede familiar e social de suporte, designadamente, e quando aplicável, da instituição da comunidade responsável pela intervenção junto do cuidador informal, pessoa cuidada ou de ambos;\n\nf) A proximidade dos serviços de apoio social de acolhimento temporário à área do domicílio da pessoa cuidada, sempre que possível."
+  },
+  "223763727": {
+   "fragment_id": "223825430",
+   "type": 11,
+   "heading": "Artigo 5.º — Encaminhamento para descanso do cuidador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Encaminhamento para descanso do cuidador\n\n1 - Para descanso do cuidador informal, a pessoa cuidada pode, periódica e transitoriamente, ser:\n\na) Referenciada e integrada na Rede Nacional dos Cuidados Continuados Integrados (RNCCI), incluindo os cuidados continuados integrados de saúde mental;\n\nb) Encaminhada e acolhida em respostas sociais de natureza residencial ou em famílias de acolhimento de pessoas idosas ou adultas com deficiência;\n\nc) Beneficiar de Serviço de Apoio Domiciliário (SAD).\n\n2 - A referenciação, integração e acolhimento da pessoa cuidada é efetuada de acordo com os termos estabelecidos no PIE, atendendo às necessidades do descanso do cuidador informal e em função da disponibilidade de vaga, nos termos das disposições em vigor, salvaguardando, prioritariamente, as situações de maior desgaste físico e emocional dos cuidadores.\n\n3 - As necessidades do cuidador informal são definidas através do recurso ao diagnóstico de enquadramento de cada situação em concreto e à avaliação do estado de saúde e psicossocial efetuada pelo profissional de referência.\n\n4 - Para os efeitos da avaliação prevista no número anterior, deve ser aferida a sobrecarga física e mental do cuidador, em contexto de emergência ou programado, bem como as circunstâncias pessoais e profissionais que se afigurem relevantes à elaboração do diagnóstico de enquadramento.\n\n5 - Em articulação com os técnicos das instituições do setor social e solidário, a implementação da medida de descanso compete ao profissional de referência da saúde no caso da referenciação e integração na RNCCI, ou ao profissional de referência da segurança social, no caso do encaminhamento em resposta social ou em família de acolhimento de pessoas idosas ou adultas com deficiência, ou a prestação de serviço de apoio domiciliário.\n\n6 - O cuidador informal pode recorrer à bolsa de cuidadores reconhecidos ao abrigo do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, nos termos do despacho a fixar pela área do membro responsável pela área do trabalho, solidariedade e segurança social."
+  },
+  "223763728": {
+   "fragment_id": "223825431",
+   "type": 11,
+   "heading": "Artigo 6.º — Referenciação para descanso do cuidador na RNCCI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Referenciação para descanso do cuidador na RNCCI\n\n1 - Para efeitos de acesso ao descanso do cuidador no âmbito da RNCCI, o profissional de referência da saúde promove junto da unidade de cuidados de saúde primários da área de residência da pessoa cuidada a referenciação nos termos dos artigos 19.º e 20.º da Portaria n.º 174/2014, de 10 de setembro, na sua redação atual.\n\n2 - Para efeitos de acesso ao descanso do cuidador no âmbito da RNCCI de saúde mental, o profissional de referência da saúde promove, junto do Serviço Local de Saúde Mental da área de residência da pessoa cuidada, a referenciação mediante o estabelecido no artigo 14.º da Portaria n.º 311/2021, de 20 de dezembro."
+  },
+  "223763729": {
+   "fragment_id": "223825432",
+   "type": 11,
+   "heading": "Artigo 7.º — Diferenciação positiva no âmbito da RNCCI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Diferenciação positiva no âmbito da RNCCI\n\n1 - O princípio da diferenciação positiva traduz-se na flexibilização da comparticipação a pagar pelo utente na componente de cuidados de apoio social nas unidades de internamento da RNCCI, incluindo os cuidados continuados integrados de saúde mental, durante o período de descanso do cuidador informal.\n\n2 - Nos termos da diferenciação positiva prevista na alínea a) do n.º 2 do artigo 16.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, nas unidades de internamento de longa duração e manutenção da RNCCI, o valor a pagar pelo utente resulta da aplicação da percentagem de 65 % sobre o rendimento per capita do seu agregado familiar, até ao limite do valor correspondente aos encargos com os cuidados de apoio social fixados na tabela de preços constante da Portaria n.º 45/2021, de 24 de fevereiro, na sua redação atual.\n\n3 - Nas situações em que a pessoa cuidada é uma criança ou jovem até aos 18 anos que ingressa numa unidade de longa duração e manutenção da RNCCI para descanso do respetivo cuidador, há lugar a 25 % de comparticipação familiar para os agregados familiares com rendimento per capita inferior ou igual a 50 % do Indexante dos Apoios Sociais.\n\n4 - Nos termos da diferenciação positiva prevista na alínea b) do n.º 2 do artigo 16.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, nas unidades residenciais, residência de apoio máximo e residência de apoio moderado da RNCCI, na área da saúde mental, o valor a pagar pelo utente resulta da percentagem a aplicar sobre o rendimento per capita do agregado familiar, nos termos fixados no anexo ao presente diploma, que dele faz parte integrante, até ao limite do valor correspondente aos encargos com os cuidados de apoio social fixados na tabela de preços constante da Portaria n.º 45/2021, de 24 de fevereiro, na sua redação atual.\n\n5 - O valor da comparticipação da segurança social corresponde ao diferencial entre os encargos com a prestação dos cuidados de apoio social e o valor a pagar pelo utente, nos termos dos n.os 2 e 4 do presente artigo."
+  },
+  "223763730": {
+   "fragment_id": "223825433",
+   "type": 11,
+   "heading": "Artigo 8.º — Encaminhamento para respostas sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Encaminhamento para respostas sociais\n\n1 - Para descanso do cuidador informal, a pessoa cuidada, por indicação dos serviços competentes da segurança social, pode ser encaminhada para as seguintes respostas sociais, em função da adequação às suas necessidades:\n\na) Estrutura residencial para pessoas idosas (ERPI) ou em lar residencial (LR);\n\nb) Família de acolhimento para pessoas idosas e adultas com deficiência;\n\nc) Serviço de apoio domiciliário.\n\n2 - Para efeitos do disposto no número anterior, o valor a pagar pelo utente resulta da aplicação de uma percentagem sobre o rendimento per capita do seu agregado familiar, ao abrigo de uma diferenciação positiva calculada nos termos do artigo 12.º\n\n3 - O diferencial do pagamento previsto com a diferenciação positiva na comparticipação familiar constitui encargo da segurança social."
+  },
+  "223763731": {
+   "fragment_id": "223825434",
+   "type": 11,
+   "heading": "Artigo 9.º — Diferenciação positiva no âmbito das respostas sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Diferenciação positiva no âmbito das respostas sociais\n\n1 - O princípio da diferenciação positiva traduz-se na flexibilização da comparticipação a pagar pelo utente na componente de cuidados prestados no âmbito das respostas sociais de ERPI, LR e SAD, durante o período de descanso do cuidador informal referido no n.º 1 do artigo 3.º\n\n2 - Nos termos do artigo 12.º, a comparticipação familiar das respostas sociais de ERPI, LR e SAD para descanso do cuidador é reduzida em 20 %, sendo o valor apurado deduzido à comparticipação financeira da segurança social, conforme previsto no n.º 5 do artigo 11.º\n\n3 - Sempre que para o descanso do cuidador informal a pessoa cuidada seja encaminhada e acolhida por uma família de acolhimento para pessoas idosas ou adultas com deficiência, os agregados familiares com rendimento per capita inferior ou igual a 50 % do Indexante dos Apoios Sociais beneficiam de isenção de pagamento de comparticipação familiar."
+  },
+  "223763732": {
+   "fragment_id": "223825435",
+   "type": 11,
+   "heading": "Artigo 10.º — Gestão de vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gestão de vagas\n\n1 - O processo de admissão nas unidades da RNCCI realiza-se nos termos do artigo 21.º da Portaria n.º 174/2014, de 10 de setembro, na sua redação atual, e do artigo 14.º da Portaria n.º 311/2021, de 20 de dezembro.\n\n2 - Sem prejuízo da avaliação conjunta com a respetiva instituição, a gestão das vagas para descanso do cuidador relativas às respostas sociais previstas no n.º 1 do artigo 8.º é efetuada por indicação dos serviços da segurança social, nos termos estabelecidos no Compromisso de Cooperação, em conformidade com as seguintes condições:\n\na) Devem esgotar-se, em primeiro lugar, as hipóteses de colocação em respostas especificas adequadas às necessidades da pessoa cuidada, acautelando, sempre que possível, os critérios de proximidade geográfica;\n\nb) Nas situações em que as vagas referidas na alínea anterior se encontrem ocupadas, podem os serviços da segurança social recorrer a outras instituições, prioritariamente da rede solidária, e caso tal não seja comprovadamente possível, a entidades da rede lucrativa.\n\n3 - As vagas que não se encontrem adstritas à cooperação com as IPSS ou legalmente equiparadas para o desenvolvimento da resposta social ERPI, LR e SAD ficam sujeitas no que à comparticipação da segurança social diz respeito, ao valor previsto nos n.os 1 a 3 do artigo 11.º, ao qual é deduzido o valor a pagar pelo utente, nos termos da presente portaria.\n\n4 - No que se refere às vagas previstas na alínea b) do n.º 2, para pagamento da mensalidade devida pela pessoa cuidada a entidades da rede lucrativa, pode ser concedida uma prestação pecuniária de caráter eventual no âmbito do subsistema de ação social, nos termos dos normativos em vigor."
+  },
+  "223763733": {
+   "fragment_id": "223825436",
+   "type": 11,
+   "heading": "Artigo 11.º — Comparticipação financeira em ERPI, LR e SAD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comparticipação financeira em ERPI, LR e SAD\n\n1 - Na medida do descanso do cuidador informal, para a frequência das pessoas cuidadas em ERPI, há lugar a uma comparticipação financeira da segurança social correspondente ao valor mensal convencionado de (euro) 1554 por utente.\n\n2 - Na medida do descanso do cuidador informal, para a frequência das pessoas cuidadas em LR, há lugar a uma comparticipação financeira da segurança social correspondente ao valor mensal convencionado de (euro) 1965,27 por utente.\n\n3 - Para a prestação de cuidados e serviços às pessoas cuidadas em SAD, na medida de descanso do cuidador, há lugar a uma comparticipação financeira da segurança social correspondente a 140 % do valor mensal inscrito no acordo de cooperação respetivo.\n\n4 - O valor referido nos n.os 1 a 3 é objeto de atualização anual no âmbito do Compromisso de Cooperação para o Setor Social e Solidário.\n\n5 - O valor da comparticipação familiar mensal devida pela utilização das vagas reguladas pela presente portaria determina-se segundo as regras de cálculo aplicáveis às respostas sociais ERPI, LR e SAD, que constam do anexo à Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual, com a alteração introduzida pelo artigo 12.º da presente portaria, sendo o valor apurado deduzido à comparticipação financeira da segurança social referida nos n.os 1 a 3.\n\n6 - O valor da comparticipação financeira referido nos n.os 1 a 3 inclui as despesas com fraldas e todas as atividades e serviços previstos na Portaria n.º 67/2012, de 21 de março, na Portaria n.º 59/2015, de 2 de março, na sua redação atual, e na Portaria n.º 38/2013, de 30 de janeiro.\n\n7 - A reserva de vagas para descanso do cuidador é efetuada mediante celebração de adenda ao acordo de cooperação, ou de novo acordo de cooperação a celebrar entre as IPSS ou legalmente equiparadas e o ISS, I. P., respeitando a capacidade autorizada do equipamento."
+  },
+  "223763734": {
+   "fragment_id": "223825437",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração ao anexo à Portaria n.º 196-A/2015, de 1 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração ao anexo à Portaria n.º 196-A/2015, de 1 de julho\n\n1 - O n.º 11.2. do anexo da Portaria n.º 196-A/2015, de 1 de julho, que dela faz parte integrante, na sua atual redação, que passa a ter a seguinte redação:\n\n«11.2 - [...]\n\n11.2.1 - O valor da comparticipação familiar mensal em ERPI determina-se pela aplicação de uma percentagem sobre o rendimento per capita do agregado familiar, variável entre 75 % e 90 % de acordo com o grau de dependência do utente, com exceção das situações em que o acolhimento se destina ao descanso do cuidador, nos termos da legislação em vigor, em que a comparticipação é variável entre 55 % e 70 %.\n\n11.2.2 - [...]\n\n11.2.3 - [...]\n\n11.2.4 - [...]\n\n11.2.5 - [...]\n\n11.2.5.1 - [...]»\n\n2 - É aditado o n.º 11.3.6 ao anexo da Portaria n.º 196-A/2015, de 1 de julho, que dela faz parte integrante, na sua atual redação, com a seguinte redação:\n\n«11.3.6 - Para as respostas sociais de lar residencial e serviço de apoio domiciliário, quando em causa está o descanso do cuidador, nos termos da legislação em vigor, a comparticipação familiar prevista no n.º 11.3.1 tem uma redução de 20 %.»"
+  },
+  "223763735": {
+   "fragment_id": "223825438",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 3 de novembro de 2023."
+  },
+  "223763737": {
+   "fragment_id": "223825440",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 4 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 4 do artigo 7.º)\n\n| Escalões de Rendimento per capita (RC) em função<br>do indexante dos apoios sociais (IAS) | Percentagem a indexar ao RC |\n| --- | --- |\n|  |  |\n| RC =(menor que) 50 % do IAS... | 10 |\n| 50 % (menor que) RC (menor que) 75 % do IAS... | 15 |\n| 75 % (menor que) RC (menor que) 100 % do IAS... | 22,5 |\n| 100 % (menor que) RC (menor que) 150 % do IAS... | 30 |\n| RC (maior que) 150 % do IAS... | 40 |\n\n117026965"
+  },
+  "1020029003": {
+   "fragment_id": "223825428",
+   "type": 11,
+   "heading": "Artigo 3.º — Período de descanso",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 3.º — Período de descanso\n\n1 - O período de descanso do cuidador informal é definido no PIE, num período até 30 dias, seguidos ou interpolados, por cada ano civil, sem prejuízo do disposto no n.º 2.\n\n2 - No caso do SAD e de outras respostas de natureza não residencial, o período previsto no número anterior pode ser dilatado até 120 dias.\n\n3 - O PIE resulta do diagnóstico e planeamento centrado na continuidade e proximidade de cuidados, e é efetuado conjuntamente pelos profissionais de referência da saúde e da segurança social, com a participação ativa do cuidador informal e da pessoa cuidada, ou do seu acompanhante ou quem a representa, bem como de outros profissionais das instituições do setor social e solidário ou da comunidade que desenvolvam a sua ação junto de cuidadores informais e pessoas cuidadas.\n\n4 - Do PIE deve constar a declaração de consentimento da pessoa cuidada, ou de quem a representa para, no período de descanso do cuidador, ser referenciada ou encaminhada para uma das estruturas ou serviços referidos no artigo 5.º, conforme previsto na alínea d) do n.º 4 do artigo 12.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+  },
+  "1020029004": {
+   "fragment_id": "223825430",
+   "type": 11,
+   "heading": "Artigo 5.º — Encaminhamento para descanso do cuidador",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 5.º — Encaminhamento para descanso do cuidador\n\n1 - Para descanso do cuidador informal, a pessoa cuidada pode, periódica e transitoriamente, ser:\n\na) Referenciada e integrada na Rede Nacional dos Cuidados Continuados Integrados (RNCCI), incluindo os cuidados continuados integrados de saúde mental;\n\nb) Encaminhada e acolhida em respostas sociais de natureza residencial ou em famílias de acolhimento de pessoas idosas ou adultas com deficiência;\n\nc) Beneficiária de Serviço de Apoio Domiciliário (SAD);\n\nd) Beneficiária da Bolsa de Cuidadores.\n\n2 - A referenciação, integração e acolhimento da pessoa cuidada é efetuada de acordo com os termos estabelecidos no PIE, atendendo às necessidades do descanso do cuidador informal e em função da disponibilidade de vaga, nos termos das disposições em vigor, salvaguardando, prioritariamente, as situações de maior desgaste físico e emocional dos cuidadores.\n\n3 - As necessidades do cuidador informal são definidas através do recurso ao diagnóstico de enquadramento de cada situação em concreto e à avaliação do estado de saúde e psicossocial efetuada pelo profissional de referência.\n\n4 - Para os efeitos da avaliação prevista no número anterior, deve ser aferida a sobrecarga física e mental do cuidador, em contexto de emergência ou programado, bem como as circunstâncias pessoais e profissionais que se afigurem relevantes à elaboração do diagnóstico de enquadramento.\n\n5 - Em articulação com os técnicos das instituições do setor social e solidário, a implementação da medida de descanso compete ao profissional de referência da saúde no caso da referenciação e integração na RNCCI, ou ao profissional de referência da segurança social, no caso do encaminhamento em resposta social ou em família de acolhimento de pessoas idosas ou adultas com deficiência, ou a prestação de serviço de apoio domiciliário.\n\n6 - O cuidador informal pode beneficiar da bolsa de cuidadores reconhecidos ao abrigo do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, alterado pelo Decreto Regulamentar n.º 5/2024, de 6 de novembro, nos termos do regulamento a emitir pelo membro do Governo responsável pela área governativa do trabalho, solidariedade e segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+  },
+  "1020029005": {
+   "fragment_id": "223825432",
+   "type": 11,
+   "heading": "Artigo 7.º — Diferenciação positiva no âmbito da RNCCI",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 7.º — Diferenciação positiva no âmbito da RNCCI\n\n1 - O princípio da diferenciação positiva traduz-se na flexibilização da comparticipação a pagar pelo utente na componente de cuidados de apoio social nas unidades de internamento da RNCCI, incluindo os cuidados continuados integrados de saúde mental, durante o período de descanso do cuidador informal.\n\n2 - Nos termos da diferenciação positiva prevista na alínea a) do n.º 3 do artigo 16.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, alterado pelo Decreto Regulamentar n.º 5/2024, de 6 de novembro, nas unidades de internamento de longa duração e manutenção da RNCCI, o valor a pagar pelo utente resulta da aplicação da percentagem de 65 % sobre o rendimento per capita do seu agregado familiar, até ao limite do valor correspondente aos encargos com os cuidados de apoio social fixados na tabela de preços constante da Portaria n.º 45/2021, de 24 de fevereiro, na sua redação atual.\n\n3 - Nas situações em que a pessoa cuidada é uma criança ou jovem até aos 18 anos que ingressa numa unidade de longa duração e manutenção da RNCCI para descanso do respetivo cuidador, há lugar a 25 % de comparticipação familiar para os agregados familiares com rendimento per capita inferior ou igual a 50 % do Indexante dos Apoios Sociais.\n\n4 - Nos termos da diferenciação positiva prevista na alínea b) do n.º 3 do artigo 16.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, alterado pelo Decreto Regulamentar n.º 5/2024, de 6 de novembro, nas unidades residenciais, residência de apoio máximo e residência de apoio moderado da RNCCI, na área da saúde mental, o valor a pagar pelo utente resulta da percentagem a aplicar sobre o rendimento per capita do agregado familiar, nos termos fixados no anexo i ao presente diploma, que dele faz parte integrante, até ao limite do valor correspondente aos encargos com os cuidados de apoio social fixados na tabela de preços constante da Portaria n.º 45/2021, de 24 de fevereiro, na sua redação atual.\n\n5 - O valor da comparticipação da segurança social corresponde ao diferencial entre os encargos com a prestação dos cuidados de apoio social e o valor a pagar pelo utente, nos termos dos n.os 2 e 4 do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+  },
+  "1020029006": {
+   "fragment_id": "223825433",
+   "type": 11,
+   "heading": "Artigo 8.º — Encaminhamento para respostas sociais",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 8.º — Encaminhamento para respostas sociais\n\n1 - Para descanso do cuidador informal, a pessoa cuidada, por indicação dos serviços competentes da segurança social, pode ser encaminhada para as seguintes respostas sociais, em função da adequação às suas necessidades:\n\na) Estrutura residencial para pessoas idosas (ERPI) ou em lar residencial (LR);\n\nb) Família de acolhimento para pessoas idosas e adultas com deficiência;\n\nc) Serviço de apoio domiciliário.\n\nd) Bolsa de Cuidadores.\n\n2 - Para efeitos do disposto no número anterior, o valor a pagar pelo utente resulta da aplicação de uma percentagem sobre o rendimento per capita do seu agregado familiar, ao abrigo de uma diferenciação positiva calculada nos termos do artigo 12.º\n\n3 - O diferencial do pagamento previsto com a diferenciação positiva na comparticipação familiar constitui encargo da segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+  },
+  "1020029007": {
+   "fragment_id": "223825435",
+   "type": 11,
+   "heading": "Artigo 10.º — Gestão de vagas",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 10.º — Gestão de vagas\n\n1 - As vagas em resposta social reservadas para descanso do cuidador são contratualizadas a título extraordinário, através da celebração de adenda ao acordo de cooperação em vigor ou da celebração de novo acordo.\n\n2 - As instituições do setor social e solidário que, ao abrigo de acordo de cooperação, desenvolvam as respostas sociais de ERPI ou LR podem alocar um mínimo de uma vaga à referida adenda ao acordo ou ao novo acordo a celebrar, para efeitos de aplicação do disposto na presente portaria, respeitando a capacidade autorizada do equipamento e sem prejuízo das restantes vagas reservadas.\n\n3 - O processo de admissão nas unidades da RNCCI realiza-se nos termos do artigo 21.º da Portaria n.º 174/2014, de 10 de setembro, na sua redação atual, e do artigo 14.º da Portaria n.º 311/2021, de 20 de dezembro.\n\n4 - Sem prejuízo da avaliação conjunta com a respetiva instituição, a gestão das vagas para descanso do cuidador relativas às respostas sociais previstas no n.º 1 do artigo 8.º é efetuada por indicação dos serviços da segurança social, nos termos estabelecidos no Compromisso de Cooperação, em conformidade com as seguintes condições:\n\na) Devem esgotar-se, em primeiro lugar, as hipóteses de colocação em respostas especificas adequadas às necessidades da pessoa cuidada, acautelando, sempre que possível, os critérios de proximidade geográfica;\n\nb) Nas situações em que as vagas referidas na alínea anterior se encontrem ocupadas, podem os serviços da segurança social recorrer a outras instituições, prioritariamente da rede solidária, e caso tal não seja comprovadamente possível, a entidades da rede lucrativa.\n\n5 - As vagas que não se encontrem adstritas à cooperação com as IPSS ou legalmente equiparadas para o desenvolvimento da resposta social ERPI, LR e SAD ficam sujeitas no que à comparticipação da segurança social diz respeito, ao valor previsto nos n.os 1 a 3 do artigo 11.º, ao qual é deduzido o valor a pagar pelo utente, nos termos da presente portaria.\n\n6 - No que se refere às vagas previstas na alínea b) do n.º 4, para pagamento da mensalidade devida pela pessoa cuidada a entidades da rede lucrativa, pode ser concedida uma prestação pecuniária de caráter eventual no âmbito do subsistema de ação social, nos termos dos normativos em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+  },
+  "1020029008": {
+   "fragment_id": "223825436",
+   "type": 11,
+   "heading": "Artigo 11.º — Comparticipação financeira em resposta social para descanso do Cuidador",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 11.º — Comparticipação financeira em resposta social para descanso do Cuidador\n\n1 - Na medida do descanso do cuidador informal, para a frequência das pessoas cuidadas em ERPI, há lugar a uma comparticipação financeira da segurança social correspondente ao valor mensal convencionado para as vagas reservadas para a segurança social definido em sede de compromisso de cooperação para o setor social e solidário.\n\n2 - Na medida do descanso do cuidador informal, para a frequência das pessoas cuidadas em LR, há lugar a uma comparticipação financeira da segurança social correspondente ao valor mensal convencionado para as vagas reservadas para a segurança social definido em sede de compromisso de cooperação para o setor social e solidário.\n\n3 - Para a prestação de cuidados e serviços às pessoas cuidadas em SAD e outras respostas sociais de natureza não residencial, na medida de descanso do cuidador, há lugar a uma comparticipação financeira da segurança social correspondente a 140 % do valor mensal inscrito no compromisso de cooperação respetivo.\n\n4 - O valor referido nos n.os 1 a 3 é objeto de atualização anual no âmbito do Compromisso de Cooperação para o Setor Social e Solidário.\n\n5 - O valor da comparticipação familiar mensal devida pela utilização das vagas reguladas pela presente portaria determina-se segundo as regras de cálculo aplicáveis às respostas sociais ERPI, LR e SAD, que constam do anexo à Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual, com a alteração introduzida pelo artigo 12.º da presente portaria, sendo o valor apurado deduzido à comparticipação financeira da segurança social referida nos n.os 1 a 3.\n\n6 - O valor da comparticipação financeira referido nos n.os 1 a 3 inclui as despesas com fraldas e todas as atividades e serviços previstos na Portaria n.º 67/2012, de 21 de março, na Portaria n.º 59/2015, de 2 de março, na sua redação atual, e na Portaria n.º 38/2013, de 30 de janeiro.\n\n7 - A reserva de vagas para descanso do cuidador é efetuada mediante celebração de adenda ao acordo de cooperação, ou de novo acordo de cooperação a celebrar entre as IPSS ou legalmente equiparadas e o ISS, I. P., respeitando a capacidade autorizada do equipamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 21/2026/1 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/21-2026-1017369025), em vigor a partir de 2026-01-22"
+  },
+  "223763736": {
+   "fragment_id": "223825439",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos. - A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre."
+  }
+ }
+}

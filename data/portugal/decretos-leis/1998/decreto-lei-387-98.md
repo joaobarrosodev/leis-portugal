@@ -1,0 +1,396 @@
+---
+schema_version: '1.0'
+id: pt:dre:222073:por
+title: Decreto-Lei n.º 387/98
+short_title: null
+summary: Restringe a utilização de produtos de origem bovina, ovina e caprina na alimentação humana e animal (revoga parcialmente
+  o Decreto-Lei n.º 32-A/97, de 28 de Janeiro, e aplica a Decisão n.º 97/534/CE, de 30 de Junho de 1997)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 387/98
+official_date: null
+publication_date: '1998-12-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 280/1998, Série I-A de 1998-12-04
+  number: '280'
+  series: I
+  supplement: null
+  pages: 6671 - 6676
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/387/1998/12/04/p/dre/pt/html
+  oj: null
+  dre: '222073'
+  dre_path: /dr/detalhe/decreto-lei/387-1998-222073
+  internal: pt:dre:222073:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1998-222073
+  metadata_url: https://data.dre.pt/eli/dec-lei/387/1998/12/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1998-222073
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:03:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ed7d361b9d11e5e53a533508d0288e3f5da03fd516375f93767acdcd62882917
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alimentação Humana
+- Alimento para Animais
+- BSE
+- Carne de Caprino
+- Carne de Ovino
+- Carne de Vaca
+- Comércio
+- Contra-ordenação
+- Controlo Sanitário
+- Decisão CE
+- Definição de Competências
+- Direção Geral da Saúde
+- Direção Geral de Veterinária
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Doença Animal
+- Fabrico Industrial
+- Fiscalização
+- Medicamento
+- Medicina
+- Medicina Veterinária
+- Multa
+- Produto Farmacêutico
+- Proteção do Consumidor
+- Saúde Pública
+relationships:
+- type: amended_by
+  target: pt:dre:106647823:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:345534:por
+  label: "Alterado o art. 6º pelo DEC LEI.288/99.1999.07.28.MADRP, DR.IS-A [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1999-345534
+  date: '1999-07-28'
+- type: amended_by
+  target: pt:dre:684611:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º, 5º, 6º (este último na redacção do Dec Lei 288/99 de 28-Jul), 8º e 10º, os anexos\
+    \ II, III e IV, revogado o nº 3 do art. 1º, os nºs. 3 a 6 do art. 2º, o anexo I e os nºs 6.1, 6.2 e 8 do anexo II todos\
+    \ do presente diploma, pelo DEC LEI.26/2006.10.02.2006.MADRP, DR.IS-A [30] de 10.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2006-684611
+  date: '2006-02-10'
+- type: cites
+  target: celex:31996D0239
+  label: null
+  source: http://data.europa.eu/eli/dec/1996/239/oj
+- type: cites
+  target: celex:31996D0362
+  label: null
+  source: http://data.europa.eu/eli/dec/1996/362/oj
+- type: cites
+  target: celex:31996D0449
+  label: null
+  source: http://data.europa.eu/eli/dec/1996/449/oj
+- type: cites
+  target: celex:31997D0534
+  label: null
+  source: http://data.europa.eu/eli/dec/1997/534/oj
+- type: repealed_by
+  target: pt:dre:106647823:por
+  label: Revogado, a partir de 28.03.2017, o presente diploma, alterado pelos Dec Lei 288/99 de 28-jul e 26/2006 de 10-fev,
+    pelo(a) Decreto-Lei n.º 33/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2017-106647823
+  date: '2017-03-23'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:03:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 387/98
+
+de 4 de Dezembro
+
+A salvaguarda da saúde humana e animal tem constituído uma das principais preocupações deste governo, designadamente no combate à encefalopatia espongiforme dos bovinos (BSE).
+
+Por isso, foram adoptados modelos de luta contra a BSE, até considerados, por vezes, excessivos pela União Europeia, face à dimensão da doença em Portugal.
+
+Com efeito, no início de 1996, Portugal foi um dos primeiros países a suspender a importação de bovinos provenientes do Reino Unido, tendo aprovado internamente um plano de erradicação da BSE que previu o abate compulsivo e destruição de todos os animais da espécie bovina e seus co-habitantes nas explorações onde ocorreram casos de diagnósticos confirmados de BSE, bem como o abate compulsivo e destruição de todos os bovinos importados do Reino Unido.
+
+Posteriormente, consciente das limitações do método adoptado para controlar o desenvolvimento desta doença, quer pela sua própria natureza, que envolve um período de incubação superior a cinco anos, quer pelo nível do conhecimento científico do momento, o Governo adoptou, a título preventivo, medidas que vieram proibir a utilização, para qualquer fim, de produtos de origem bovina provenientes de animais doentes, bem como a entrada, na cadeia alimentar humana, e a detenção e comercialização para esse efeito dos denominados órgãos de risco, a saber, o encéfalo, a medula espinal, os olhos, as amígdalas, o baço, o timo e intestino de bovinos.
+
+Foram, no entanto, aprovadas pela Comissão da União Europeia novas medidas de reforço da defesa da saúde pública e animal no domínio da BSE, que abrangem, para além da cadeia alimentar humana, também a cadeia alimentar animal.
+
+E se bem que estas medidas ainda não tenham entrado em vigor a nível comunitário, entende o Governo Português, e mais uma vez, por razões de segurança alimentar, antecipar o início da aplicação deste regime no mercado nacional e publicar, desde já, essas medidas.
+
+Por outro lado, e por razões de maior segurança, incluem-se também neste regime o sector dos ovinos e caprinos, dado tratarem-se de animais susceptíveis de apresentar sintomatologia de encefalopatia espongiforme.
+
+Estas medidas entroncam, aliás, nas Decisões da Comissão n.os [96/239/CE](https://data.europa.eu/eli/dec/1996/239/oj?locale=pt), de 27 de Março de 1996, com as alterações introduzidas pela Decisão da Comissão n.º [96/362/CE](https://data.europa.eu/eli/dec/1996/362/oj?locale=pt), de 11 de Junho de 1996, [>96/449/CE](https://data.europa.eu/eli/dec/1996/449/oj?locale=pt), de 18 de Julho de 1996, e [97/534/CE](https://data.europa.eu/eli/dec/1997/534/oj?locale=pt), de 30 de Julho de 1997, relativas a determinadas medidas de emergência em matéria de protecção contra as encefalopatias espongiformes transmissíveis, bem como nas recomendações constantes dos pareceres da Organização Mundial de Saúde.
+
+Pretende-se, assim, em articulação com a aprovação de um conjunto de medidas complementares a este diploma e a publicar em diploma autónomo, criar um quadro global de combate à BSE, tendente à eliminação radical desta doença e a uma maior protecção dos consumidores.
+
+Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira:
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito material e territorial
+
+1 - É interdita a utilização, para qualquer fim, de produtos de origem bovina, ovina e caprina provenientes de animais que apresentem sintomatologia de encefalopatia espongiforme.
+
+2 - O disposto no n.º 1 não é aplicável à utilização para efeitos de ensino ou investigação em estabelecimentos oficialmente reconhecidos, mediante autorização das autoridades competentes.
+
+3 - Este diploma só é aplicável em Portugal continental.
+
+###### Artigo 2.º — Produtos interditos
+
+1 - É interdita a entrada, por qualquer forma, na cadeia alimentar humana e animal, bem como a detenção e comercialização para esse efeito, da cabeça de bovinos e todos os seus componentes, com excepção da língua, e ainda da medula espinal, amígdalas, baço, intestinos e timo, qualquer que seja a sua proveniência.
+
+2 - É interdita a entrada, por qualquer forma, na cadeia alimentar humana e animal, bem como a detenção e comercialização para esse efeito, das cabeças e de todos os seus componentes, com excepção da língua, da espinal medula, do timo e das amígdalas de ovinos e caprinos, que tenham idade superior a 12 meses ou que apresentem um dente incisivo definitivo, que já tenha rompido a gengiva, qualquer que seja a sua proveniência.
+
+3 - É interdita a entrada, por qualquer forma, na cadeia alimentar humana e animal, bem como a detenção e comercialização para esse efeito, do baço e intestinos de ovinos e caprinos, qualquer que seja a sua idade e roveniência.
+
+4 - É igualmente interdita a utilização da coluna vertebral de animais das espécies bovina, ovina e caprina para produção de carne separada mecanicamente, qualquer que seja a sua proveniência.
+
+5 - É permitida a utilização de intestino de bovino, ovino e caprino na indústria, desde que tenha origem em países não afectados pela encefalopatia espongiforme bovina e que, em relação a esta, tenham implementado um sistema de vigilância, tal como se encontra regulado no Código Zoossanitário Internacional da Organização Internacional das Epizootias (OIE).
+
+6 - É igualmente permitida a detenção de intestino com a proveniência referida no número anterior se o mesmo se destinar a aperfeiçoamento activo.
+
+###### Artigo 3.º — Destino dos produtos interditos
+
+1 - Os produtos referidos nos n.os 1, 2 e 3 do artigo 2.º são obrigatoriamente marcados com um corante que deve ser termorresistente aquando da sua remoção.
+
+2 - Os produtos referidos no n.º 1 do artigo 1.º e as matérias referidas no número anterior deverão ser:
+
+a) Destruídos por incineração;
+
+b) Destruídos de qualquer outra forma considerada cientificamente apropriada, de acordo com as melhores práticas internacionais e as normas em vigor de eliminação de resíduos;
+
+c) Transformados e, de seguida:
+
+i) Incinerados;
+
+ii) Depositados em aterro, após autoclavagem;
+
+iii) Utilizados como combustível.
+
+###### Artigo 4.º — Transporte
+
+1 - Os produtos a destruir referidos nos n.os 1, 2 e 3 do artigo 2.º devem ser transportados em contentores ou veículos cobertos e selados, e dirigidos directamente para o local onde serão tratados nos termos do n.º 2 do artigo 3.º, devendo o seu transporte ser acompanhado pelo certificado oficial referido no anexo IV.
+
+2 - Os produtos transformados nos termos da alínea c) do n.º 2 do artigo anterior devem ser acompanhados, no transporte, pelo certificado oficial constante do anexo I.
+
+###### Artigo 5.º — Procedimentos
+
+1 - Os procedimentos para garantir a aplicação do presente decreto-lei, nomeadamente no que se refere à remoção, armazenamento, recolha e transporte dos produtos interditos referidos no artigo 2.º do presente diploma, constam do anexo II.
+
+2 - As guias de acompanhamento dos subprodutos e produtos interditos, de origem animal, são as constantes dos anexos III e IV, respectivamente.
+
+###### Artigo 6.º — Utilização de farinhas
+
+É interdita a colocação no mercado de farinhas obtidas a partir de mamíferos como alimento simples ou como ingrediente que não sejam obtidas segundo as condições expressas no anexo da Decisão n.º [96/449/CE](https://data.europa.eu/eli/dec/1996/449/oj?locale=pt), que fixa como parâmetros mínimos para a transformação de resíduos provenientes de mamíferos, com excepção das gorduras, 50 mm para a dimensão máxima das partículas submetidas a uma temperatura superior a 133ºC durante vinte minutos a uma pressão absoluta de 3 bar.
+
+###### Artigo 7.º — Competências
+
+Sem prejuízo da competência atribuída por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma compete às:
+
+a) Direcção-Geral de Veterinária e Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, de acordo com as respectivas competências atribuídas por lei;
+
+b) Direcção-Geral da Saúde, relativamente aos géneros alimentícios destinados a uma alimentação especial.
+
+###### Artigo 8.º — Coimas
+
+1 - Sem prejuízo de outras sanções previstas na lei, será punido com coima de 100000$00 a 750000$00 ou até 9000000$00, consoante o agente seja pessoa singular ou colectiva, quem:
+
+a) Utilizar, para qualquer fim, produtos de origem bovina, ovina e caprina provenientes de animais que apresentem sintomatologia de encefalopatia espongiforme, excepto quando os mesmos sejam utilizados para efeitos de ensino ou investigação em estabelecimentos oficialmente reconhecidos, mediante autorização das autoridades competentes;
+
+b) Fizer entrar ou permitir a entrada, por qualquer forma, na cadeia alimentar humana e animal, bem como quem detiver e comercializar, para esse efeito, a cabeça de bovinos e todos os seus componentes, com excepção da língua, e ainda a medula espinal, amígdalas, baço, intestinos e timo, qualquer que seja a sua proveniência;
+
+c) Fizer entrar ou permitir a entrada, por qualquer forma, na cadeia alimentar humana e animal, bem como quem detiver e comercializar, para esse efeito, as cabeças de ovinos e caprinos e todos os seus componentes, com excepção da língua dos que tenham idade superior a 12 meses ou que apresentem um dente incisivo definitivo, que já tenha rompido a gengiva, bem como o baço de todos os animais destas espécies;
+
+d) Fizer entrar ou permitir a entrada na cadeia alimentar humana e animal, bem como quem detiver e comercializar a espinal medula, timo, amígdalas e intestino dos animais das espécies ovina e caprina;
+
+e) Utilizar a coluna vertebral de animais das espécies bovina, ovina e caprina para produção de carne separada mecanicamente;
+
+f) Utilizar intestino de bovino, ovino e caprino na cadeia alimentar humana e animal quando tenha origem:
+
+i) Em países afectados pelas encefalopatias espongiformes transmissíveis dos animais;
+
+ii) Em países não afectados pela encefalopatia espongiforme mas em que não tenha sido implementado um sistema de vigilância, tal como se encontra regulado no Código Zoossanitário Internacional da Organização Internacional das Epizootias (OIE);
+
+g) Detiver intestino de bovino, ovino e caprino se este não se destinar a aperfeiçoamento activo.
+
+2 - A negligência e a tentativa são puníveis.
+
+###### Artigo 9.º — Sanções acessórias
+
+1 - Cumulativamente com as coimas previstas no presente diploma podem ser aplicadas as seguintes sanções acessórias, em função da gravidade da infracção e da culpa do agente:
+
+a) Interdição do exercício da actividade cujo exercício dependa de título público ou de autorização ou de homologação de autoridade pública;
+
+b) Encerramento do estabelecimento onde a actividade se exerce, cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+c) Suspensão das autorizações, licenças ou alvarás.
+
+2 - Sempre que o agente pratique a contra-ordenação com flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres que lhe são inerentes, será dada publicidade da sanção principal e da sanção acessória.
+
+###### Artigo 10.º — Instrução, aplicação e destino das receitas das coimas e sanções acessórias
+
+1 - Às contra-ordenações previstas neste diploma aplica-se subsidiariamente o disposto no Decreto-Lei n.º 433/82, de 27 de Outubro, com a redacção dada pelos Decretos-Leis n.os 356/89, de 17 de Outubro, e 244/95, de 14 de Setembro.
+
+2 - Sem prejuízo da competência atribuída por lei a outras entidades, a instrução dos processos compete à Direcção-Geral de Veterinária e à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar e à Direcção-Geral da Saúde, em conformidade com a respectiva competência fiscalizadora atribuída nos termos do artigo 7.º, competindo aos respectivos dirigentes máximos a aplicação das coimas e sanções acessórias.
+
+3 - O produto das coimas constitui receita das seguintes entidades:
+
+a) 40% para a Direcção-Geral de Veterinária, Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar e Direcção-Geral da Saúde, consoante as respectivas áreas de fiscalização;
+
+b) 60% para os cofres do Estado.
+
+###### Artigo 11.º — Fabrico de medicamentos
+
+A utilização dos produtos de origem bovina, ovina e caprina no fabrico de medicamentos, de produtos cosméticos e de higiene corporal, de produtos farmacêuticos homeopáticos e de dispositivos médicos continua a reger-se pela respectiva regulamentação específica, bem como pelas linhas de orientação adoptadas a nível comunitário, nomeadamente pela Agência Europeia de Avaliação de Medicamentos.
+
+###### Artigo 12.º — Norma revogatória
+
+São revogadas as disposições do Decreto-Lei n.º 32-A/97, de 28 de Janeiro, que contrariem este diploma.
+
+Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago.
+
+Promulgado em 23 de Novembro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 25 de Novembro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## ANEXO I — (a que se refere o n.º 2 do artigo 4.º)
+
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)
+
+## ANEXO II — (a que se refere o n.º 1 do artigo 5.º)
+
+Regulamento para a remoção, armazenamento, recolha e transporte dos subprodutos e produtos interditos
+
+1 - Entende-se por:
+
+a) Subprodutos de origem animal - as carcaças ou partes de carcaças de animais, as vísceras despejadas do seu conteúdo, despojos de abate ou de desmancha, ou os produtos de origem animal não destinados ao consumo humano ou animal, com excepção das sobras de cozinha;
+
+b) Produtos interditos - os produtos previstos no artigo 2.º do decreto-lei;
+
+c) Produtor - as unidades de abate e salas de desmancha que fornecem os estabelecimentos de subprodutos;
+
+d) Negociantes - os agentes que actuam numa fase intermediária entre a produção e os estabelecimentos;
+
+e) Transportador - o negociante, estabelecimento ou agente que faz o transporte dos subprodutos ou matérias-primas de risco especificado entre o produtor e o estabelecimento;
+
+f) Estabelecimento - instalações de transformação de baixo ou alto risco, fábricas de farinhas de peixe e de alimentos para animais de estimação e instalação de armazenamento de subprodutos animais.
+
+2 - Os produtos interditos, após a sua remoção, devem ser, de imediato, corados. O corante deve ser termorresistente.
+
+3 - Os produtos interditos devem ser colocados em depósitos hermeticamente fechados e armazenados em local refrigerado.
+
+4 - O produtor deve emitir, em quadruplicado, a guia de acompanhamento constante dos anexos III e IV, relativa aos subprodutos e aos produtos interditos, respectivamente.
+
+5 - Na utilização da guia de acompanhamento devem ser observados os procedimentos seguintes:
+
+5.1 - Pelo produtor:
+
+a) Preencher convenientemente o campo I da guia de acompanhamento;
+
+b) Verificar o preenchimento do campo II, pelo transportador, da guia de acompanhamento;
+
+c) Reter o quadruplicado da guia de acompanhamento;
+
+d) Manter em arquivo durante o prazo de dois anos a guia de acompanhamento referida na alínea anterior e as citadas na alínea a) do n.º 5.3.
+
+5.2 - Pelo transportador:
+
+a) Preencher o campo II da guia de acompanhamento;
+
+b) Fazer acompanhar os subprodutos dos três exemplares da guia de acompanhamento na sua posse;
+
+c) Após a entrega dos subprodutos de origem animal ou dos produtos interditos, obter do destinatário o preenchimento do campo III dos três exemplares na sua posse;
+
+d) Manter em arquivo durante o prazo de dois anos o triplicado das guias de acompanhamento.
+
+5.3 - Pelo destinatário:
+
+a) Preencher o campo III da guia de acompanhamento;
+
+b) Devolver ao produtor, no prazo de 30 dias, o duplicado da guia de acompanhamento;
+
+c) Manter em arquivo durante o prazo de dois anos o original das guias de acompanhamento.
+
+6 - Os subprodutos de origem animal e produtos interditos devem ser transportados em veículos.
+
+6.1 - Os subprodutos e os produtos interditos de origem animal devem ser transportados em veículos cobertos que não permitam quaisquer escorrimentos e facilmente laváveis e desinfectados.
+
+6.2 - Os veículos, incluindo as caixas e os materiais da cobertura, devem ser mantidos limpos.
+
+7 - As viaturas referidas no artigo anterior devem ser acompanhadas por uma declaração emitida pelo médico veterinário oficial em que ateste que a viatura cumpre com o estipulado no n.º 6.
+
+A citada declaração deverá ser renovada semestralmente.
+
+8 - As viaturas que transportam produtos interditos não podem transportar qualquer outro produto.
+
+9 - Os negociantes e os transportadores devem estar inscritos na Direcção-Geral de Veterinária.
+
+10 - Anualmente, até 30 de Janeiro, deverão os estabelecimentos comunicar à Direcção-Geral de Veterinária a identificação das viaturas aprovadas nos termos do n.º 6, para o transporte dos subprodutos ou das matérias de risco especificado.
+
+11 - A Direcção-Geral de Veterinária publicará, anualmente, até 30 de Março:
+
+11.1 - A lista das indústrias autorizadas a proceder à transformação dos subprodutos de origem animal, nos termos da legislação em vigor;
+
+11.2 - A lista dos negociantes e transportadores;
+
+11.3 - A lista das viaturas inscritas para procederem ao transporte dos subprodutos ou produtos interditos.
+
+12 - O controlo dos subprodutos de origem animal e dos produtos interditos e das matérias de risco especificado será assegurado por médico veterinário inspector sanitário, tanto na produção como nos estabelecimentos.
+
+## ANEXO III — (a que se refere o n.º 2 do artigo 5.º)
+
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)
+
+## ANEXO IV — (a que se refere o n.º 2 do artigo 5.º)
+
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66716676.pdf)

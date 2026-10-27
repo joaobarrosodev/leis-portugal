@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:396886:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-157229992",
+ "dre_path": "/dr/detalhe/portaria/11-2009-396886",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-01-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "157230096",
+    "157230097",
+    "157230098",
+    "157230099",
+    "157230100",
+    "157230101",
+    "157230102",
+    "157230103",
+    "157230104",
+    "157230105",
+    "157230106",
+    "157230107",
+    "157230108",
+    "157230109"
+   ]
+  },
+  {
+   "date": "2012-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175574:por",
+     "title": "Portaria n.º 312/2012",
+     "published": "2012-10-10",
+     "dre_path": "/dr/detalhe/portaria/312-2012-175574"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "157230096",
+    "157230097",
+    "157230098",
+    "157230099",
+    "157230100",
+    "157230101",
+    "157230102",
+    "157230103",
+    "157230104",
+    "157230105",
+    "157230106",
+    "157230114",
+    "157230108",
+    "157230109"
+   ]
+  }
+ ],
+ "fragments": {
+  "157230096": {
+   "fragment_id": "157229993",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 11/2009\n\nde 7 de Janeiro\n\nO sector da caça sofreu, nas últimas duas décadas, uma profunda transformação que faz com que caminhe, a passos largos, para a auto-regulação e para a afirmação de um princípio de interprofissionalismo.\n\nCom cerca de 5 mil zonas de caça constituídas, com o ordenamento de quase todo o território, com a consolidação dos três modelos - zonas de caça de interesse associativo, de interesse turístico e de interesse municipal, o sector representa, actualmente, cerca de 340 milhões de euros.\n\nA Lei da Caça, Lei n.º 173/99, de 21 de Setembro, regulamentada pelo Decreto-Lei n.º 202/2004, 18 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, e o Decreto-Lei n.º 159/2008, de 8 de Agosto, prevêem a participação das Organizações do Sector da Caça na determinação de orientações para o sector e considera que muitas áreas de actividade que são, actualmente desempenhadas pelos serviços públicos, podem, com vantagem, ser executadas pelas OSC.\n\nImporta assim e para esse efeito, que se determine um regime de tipificação das OSC e dos necessários apoios financeiros, bem como a forma de participação daquelas nas questões do sector e ainda que se valorize a homologação de troféus.\n\nAssim:\n\nNos termos da Lei n.º 173/99, de 21 de Setembro, e dos n.os 6 e 7 do artigo 3.º e do n.º 3 do artigo 9.º do Decreto-Lei n.º 159/2008, de 8 de Agosto:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o regulamento de enquadramento e financiamento das Organizações do Sector da Caça (OSC), para efeitos do seu envolvimento e financiamento nas actividades que sejam objecto de protocolo de gestão e de enquadramento das actividades que sejam objecto de credenciação, que define a criação e funcionamento da Comissão Científica e Técnica da Caça e determina o exercício da função de homologação de troféus, que consta do anexo à presente portaria e que dela faz parte integrante.\n\n2.º É revogado o despacho n.º 25 035/2002 (2.ª série), de 12 de Novembro, publicado no Diário da República, 2.ª série, n.º 272, de 25 de Novembro de 2002.\n\n3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 30 de Dezembro de 2008.\n\nANEXO\n\nREGULAMENTO DE ENQUADRAMENTO E FINANCIAMENTO DAS ORGANIZAÇÕES DO SECTOR DA CAÇA, DE ENQUADRAMENTO DA COMISSÃO CIENTÍFICA E TÉCNICA DA CAÇA E DA COMISSÃO NACIONAL DE HOMOLOGAÇÃO DE TROFÉUS."
+  },
+  "157230097": {
+   "fragment_id": "157229994",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento tipifica e enquadra as Organizações do Sector da Caça (OSC) para efeitos de financiamento das actividades que sejam objecto de protocolo de gestão e de enquadramento das actividades que sejam objecto de credenciação, define a criação e funcionamento da Comissão Científica e Técnica da Caça e determina o exercício da função de homologação de troféus."
+  },
+  "157230098": {
+   "fragment_id": "157229995",
+   "type": 11,
+   "heading": "Artigo 2.º — Tipificação das OSC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tipificação das OSC\n\nAs Organizações do Sector da Caça dividem-se em três grupos:\n\na) OSC de 1.º nível;\n\nb) OSC de 2.º nível;\n\nc) OSC de 3.º nível."
+  },
+  "157230099": {
+   "fragment_id": "157229996",
+   "type": 11,
+   "heading": "Artigo 3.º — Características das OSC de 1.º nível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Características das OSC de 1.º nível\n\n1 - São OSC de 1.º nível as que reúnam as seguintes características:\n\na) Sejam confederações ou federações de âmbito nacional;\n\nb) Sejam associações de zonas de caça turística de âmbito nacional.\n\n2 - São consideradas confederações ou federações de âmbito nacional as OSC que, podendo representar as três tipologias de zonas de caça, representam maioritariamente zonas de caça associativas e cumpram cumulativamente os seguintes critérios:\n\na) Tenham estruturas de natureza associativa, em mais de 50 % dos distritos do continente português;\n\nb) Tenham no seu seio mais de 500 associações e entidades gestoras;\n\nc) Representem mais de 50 000 caçadores;\n\nd) Tenham sido constituídas e desenvolvido trabalho continuado, há mais de 10 anos.\n\n3 - São consideradas associações de âmbito nacional as OSC que, podendo representar as três tipologias de zonas de caça, representam maioritariamente zonas de caça turística e cumpram cumulativamente os seguintes critérios:\n\na) Representem mais de 30 % das zonas de caça turística existentes;\n\nb) Representem uma área não inferior a 200 000 ha;\n\nc) Tenham sido constituídas e desenvolvido trabalho continuado, há mais de 10 anos."
+  },
+  "157230100": {
+   "fragment_id": "157229997",
+   "type": 11,
+   "heading": "Artigo 4.º — Características das OSC de 2.º e 3.º níveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Características das OSC de 2.º e 3.º níveis\n\n1 - São OSC de 2.º nível as que, não preenchendo as condições definidas no artigo 3.º, reúnam cumulativamente as seguintes características:\n\na) Sejam confederações ou federações que representem entidades gestoras de zonas de caça associativa ou municipal;\n\nb) Tenham estruturas associativas com sede social localizada em mais de 25 % dos distritos do continente português;\n\nc) Representem mais de 200 associações;\n\nd) Representem mais de 12 000 caçadores.\n\n2 - São OSC de 2.º nível as associações de zonas de caça turística que representem mais de 50 000 ha.\n\n3 - São OSC de 2.º nível as associações de caçadores que, existindo e funcionando ininterruptamente há mais de 10 anos, tenham recebido competências delegadas pelo Estado há mais de 5 anos.\n\n4 - São ainda OSC de 3.º nível todas as federações e associações que não se enquadrem no artigo anterior e nos n.os 1 e 2 do presente artigo e as organizações de caçadores de modalidades específicas."
+  },
+  "157230101": {
+   "fragment_id": "157229998",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo\n\n1 - No âmbito da aplicação da presente portaria e para efeitos de reconhecimento das OSC é criado um Registo das Organizações do Sector da Caça, junto da Autoridade Florestal Nacional (AFN).\n\n2 - O registo das OSC de 1.º e 2.º níveis é válido por um período de cinco anos, devendo as OSC entregar anualmente acta da assembleia geral que confirme a manutenção das condições que levaram ao seu reconhecimento no âmbito da aplicação da presente portaria.\n\n3 - As condições de inscrição e de reinscrição são previstas em despacho do presidente da AFN, publicitado no sítio da Internet daquela autoridade.\n\n4 - A mesma entidade não pode registar-se em mais do que um dos níveis."
+  },
+  "157230102": {
+   "fragment_id": "157229999",
+   "type": 11,
+   "heading": "Artigo 6.º — Credenciação, protocolos de gestão e apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Credenciação, protocolos de gestão e apoios financeiros\n\n1 - A AFN, pode, nos termos do n.º 7 do artigo 3.º do Decreto-Lei n.º 159/2008, de 8 de Agosto, credenciar as OSC de 1.º nível para a prossecução das atribuições previstas na alínea j) do n.º 4 do mesmo artigo, definindo através de contrato, os critérios do exercício, os preços a praticar e as formas de controlo.\n\n2 - A AFN, pode, nos termos da alínea b) do n.º 6 do artigo 3.º do Decreto-Lei n.º 159/2008, de 8 de Agosto, concretizar protocolos de gestão com OSC de 1.º nível, definindo, no mesmo protocolo, as respectivas comparticipações financeiras.\n\n3 - A AFN pode, no cumprimento do n.º 3 do artigo 9.º do Decreto-Lei n.º 159/2008, de 8 de Agosto, celebrar protocolos com as OSC de 1.º nível, para o desenvolvimento de programas e projectos que visem cumprir as missões próprias da mesma AFN, no âmbito da avaliação socioeconómica da caça, da monitorização da dinâmica das populações cinegéticas e no âmbito da divulgação de boas práticas de gestão.\n\n4 - As transferências a afectar pela AFN e referentes ao cumprimento dos instrumentos previstos no n.º 3 do presente artigo não podem exceder, em cada ano, 30 % do total de receitas provenientes das taxas de emissão das licenças anuais de caçador através do sistema Multibanco cobradas no ano anterior.\n\n5 - A Autoridade Florestal Nacional pode ainda, através de protocolo, acordar com as OSC de 2.º nível a realização de acções que visem a valorização do sector, bem como os apoios a conceder, desde que as mesmas não tenham sido beneficiárias em protocolos específicos e financiamentos por ligação ou filiação a uma OSC de 1.º nível ou outorgante de protocolo com a AFN.\n\n6 - As áreas de intervenção específicas e os montantes referentes ao cumprimento dos protocolos previstos no número anterior são os previstos em cada protocolo."
+  },
+  "157230103": {
+   "fragment_id": "157230000",
+   "type": 11,
+   "heading": "Artigo 7.º — Prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prestação de contas\n\n1 - Para efeitos da presente portaria as OSC de 1.º e 2.º níveis estão sujeitas obrigatoriamente a verificação oficial de contas.\n\n2 - As entidades credenciadas e subscritoras de protocolos obrigam-se à apresentação do seu relatório de contas, aprovado pela respectiva assembleia geral, até ao mês de Junho de cada ano."
+  },
+  "157230104": {
+   "fragment_id": "157230001",
+   "type": 11,
+   "heading": "Artigo 8.º — Comissão Científica e Técnica da Caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comissão Científica e Técnica da Caça\n\n1 - É criada a Comissão Científica e Técnica da Caça, adiante designada por CCTC.\n\n2 - A CCTC tem como objectivo primordial o acompanhamento dos processos de credenciação e dos protocolos previstos no artigo 6.º e a sua adequação à realidade da caça, bem como propor medidas de intervenção.\n\n3 - A CCTC tem ainda como função o estudo de orientações técnicas e de comportamentos cinegéticos a observar por entidades gestoras de zonas de caça e pelos caçadores.\n\n4 - A CCTC deve promover a análise comparada de modelos praticados em diferentes países."
+  },
+  "157230105": {
+   "fragment_id": "157230002",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento da CCTC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funcionamento da CCTC\n\n1 - O mandato da CCTC tem a duração de cinco anos.\n\n2 - A CCTC é presidida, rotativamente e por períodos de 18 meses, por cada uma das OSC de 1.º nível.\n\n3 - Integram a CCTC:\n\na) O director de Unidade de Produtos e Recursos Silvestres da Autoridade Florestal Nacional ou elemento por ele designado;\n\nb) Um representante de cada OSC de 1.º nível;\n\nc) Três representantes das OSC de 2.º e 3.º níveis, escolhidos pelo universo destas em reunião realizada para o efeito.\n\n4 - Integram ainda a CCTC até 10 personalidades, de reconhecido mérito, escolhidas pelo colégio referido no número anterior.\n\n5 - A CCTC pode funcionar por secções temáticas.\n\n6 - A CCTC pode funcionar junto da entidade onde funcionar o secretariado da CNHT."
+  },
+  "157230106": {
+   "fragment_id": "157230003",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão Nacional de Homologação de Troféus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissão Nacional de Homologação de Troféus\n\n1 - A Comissão Nacional de Homologação de Troféus, adiante designada por CNHT, é a entidade técnica reconhecida, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, para a homologação dos troféus de caça.\n\n2 - A CNHT, recorrendo às normas que emanam da Conselho Internacional da Caça e da Conservação da Fauna - CIC, procede à avaliação, classificação e homologação, de troféus.\n\n3 - A CNHT deve facultar à AFN a informação necessária à manutenção e actualização do «c"
+  },
+  "157230107": {
+   "fragment_id": "157230004",
+   "type": 11,
+   "heading": "Artigo 11.º — ional de troféus de caça maior».",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — ional de troféus de caça maior».\n\nArtigo 11.º\n\nFuncionamento da CNHT\n\n1 - A CNHT é presidida por um elemento de reconhecida capacidade técnica e científica escolhido pelo plenário do CNHT, por proposta do presidente do Clube Português de Monteiros.\n\n2 - Integram a CNHT:\n\na) O director de Unidade de Produtos e Recursos Silvestres da Autoridade Florestal Nacional ou elemento por ele designado;\n\nb) O presidente do Clube Português de Monteiros, ou seu substituto;\n\nc) Um representante, de reconhecida competência técnica e científica, indicado por cada OSC de 1.º nível;\n\nd) Dois representantes, de reconhecida competência técnica e científica, indicados pelas OSC de 2.º e 3.º níveis e escolhidos pelo universo destas em reunião realizada para o efeito;\n\ne) Um representante, de reconhecida competência técnica e científica, indicado pelos clubes de caça maior, de âmbito regional, existentes no território continental português, ou seus substitutos.\n\n3 - Integram ainda a CNHT até 10 personalidades, de reconhecido mérito científico e técnico, escolhidas pelo colégio referido no número anterior, sendo uma delas o representante da delegação portuguesa no CIC.\n\n4 - Compete à CNHT a aprovação do respectivo regulamento interno.\n\n5 - A CNHT prepara anualmente um relatório sobre a actividade da Comissão no ano civil anterior, contendo uma tabela da qual conste a pontuação dos troféus.\n\n6 - O relatório referido no número anterior deve ser entregue à AFN até ao dia 31 de Março do ano seguinte ao que se refere.\n\n7 - A CNHT dispõe de um secretário técnico nomeado por despacho do membro do Governo responsável pela área das florestas."
+  },
+  "157230108": {
+   "fragment_id": "157230005",
+   "type": 11,
+   "heading": "Artigo 12.º — Financiamento da CNHT e do CCTC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Financiamento da CNHT e do CCTC\n\n1 - A CNHT funcionará sob a responsabilidade do Clube Português de Monteiros.\n\n2 - A AFN e o Clube Português de Monteiros devem promover a subscrição de um protocolo destinado à garantia de funcionamento da CNHT.\n\n3 - As transferências referentes ao cumprimento do instrumento previsto no número anterior do presente artigo não podem exceder, em cada ano, 0,15 % do total de receitas provenientes das taxas de emissão das licenças anuais de caçador através do sistema Multibanco."
+  },
+  "157230109": {
+   "fragment_id": "157230006",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma transitória\n\nSem prejuízo do disposto no n.º 4 do artigo 6.º e no que se refere apenas ao ano de 2009, as transferências não podem exceder 30 % da totalidade das receitas provenientes das taxas de emissão das licenças anuais."
+  },
+  "157230114": {
+   "fragment_id": "157230004",
+   "type": 11,
+   "heading": "Artigo 11.º — ional de troféus de caça maior».",
+   "in_force_from": "2012-10-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2012 - Diário da República n.º 196/2012, Série I de 2012-10-10](https://diariodarepublica.pt/dr/detalhe/portaria/312-2012-175574), em vigor a partir de 2012-10-11"
+   ],
+   "markdown": "###### Artigo 11.º — ional de troféus de caça maior».\n\nArtigo 11.º\n\nFuncionamento da CNHT\n\n1 - A CNHT é presidida por um elemento de reconhecida capacidade técnica e científica escolhido pelo plenário do CNHT, por proposta do presidente do Clube Português de Monteiros.\n\n2 - Integram a CNHT:\n\na) Representante do Instituto da Conservação da Natureza e das Florestas (ICNF);\n\nb) O presidente do Clube Português de Monteiros, ou seu substituto;\n\nc) Um representante, de reconhecida competência técnica e científica, indicado por cada OSC de 1.º nível;\n\nd) Dois representantes, de reconhecida competência técnica e científica, indicados pelas OSC de 2.º e 3.º níveis e escolhidos pelo universo destas em reunião realizada para o efeito;\n\ne) Um representante, de reconhecida competência técnica e científica, indicado pelos clubes de caça maior, de âmbito regional, existentes no território continental português, ou seus substitutos.\n\n3 - Integram ainda a CNHT até 10 personalidades, de reconhecido mérito científico e técnico, designadas pelo membro do Governo responsável pelo Sector da Caça pelo período de 3 anos, renovável.\n\n4 - Compete à CNHT a aprovação do respectivo regulamento interno.\n\n5 - A CNHT prepara anualmente um relatório sobre a atividade da Comissão no ano civil anterior, contendo uma tabela da qual conste, nomeadamente, o nome do proprietário do troféu, a data de abate, a zona de caça onde foi abatido o exemplar do troféu e a respetiva pontuação.\n\n6 - O relatório referido no número anterior deve ser entregue ao ICNF até ao dia 31 de março do ano seguinte ao que se refere.\n\n7 - A CNHT dispõe de um secretário técnico nomeado por despacho do membro do Governo responsável pela tutela do Sector da Caça.\n\n8 - A primeira reunião da CNHT, que deverá eleger o novo Presidente, deverá ocorrer até 30 dias úteis após a publicação da presente portaria, devendo ser convocada pelo Presidente em exercício à data daquela publicação.\n\n9 - As entidades referentes no n.º 2 devem indicar os respetivos representantes ao Presidente do Clube Português de Monteiros até 20 dias úteis após a publicação da presente portaria.\n\n10 - A participação dos membros da CNHT nas suas reuniões não lhes confere o direito a qualquer tipo de remuneração.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2012 - Diário da República n.º 196/2012, Série I de 2012-10-10](https://diariodarepublica.pt/dr/detalhe/portaria/312-2012-175574), em vigor a partir de 2012-10-11"
+  }
+ }
+}

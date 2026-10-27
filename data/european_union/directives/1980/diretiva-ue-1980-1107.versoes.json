@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L1107:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L1107-19950101",
+ "dre_path": null,
+ "source_lastmod": "1995-01-01",
+ "versions": [
+  {
+   "date": "1980-12-03",
+   "future": false,
+   "celex": "31980L1107",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a5ef095a22584bc7",
+    "38d4d6c99ced6ea7",
+    "9d270b6ac565d761",
+    "a6d754c3df746007",
+    "5dec3e5638096e97",
+    "f98ddce579281ee3",
+    "a8d7d6a390d1a050",
+    "4500bda2a64e4eba",
+    "2e0392b45057de6f",
+    "1ae9d6e4e6084e58",
+    "72411bdf42bd5037",
+    "21d45030b6703bfc",
+    "edef4ac72f19fbc4",
+    "c30c845132466241",
+    "4f2b88c1136c5924",
+    "315d2df405c3c1ba"
+   ]
+  }
+ ],
+ "fragments": {
+  "a5ef095a22584bc7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/1107/CEE do Conselho, de 27 de Novembro de 1980, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho** *Jornal Oficial nº L 327 de 03/12/1980 p. 0008 - 0013 Edição especial finlandesa: Capítulo 5 Fascículo 2 p. 0126 Edição especial grega: Capítulo 05 Fascículo 4 p. 0042 Edição especial sueca: Capítulo 5 Fascículo 2 p. 0126 Edição especial espanhola: Capítulo 05 Fascículo 2 p. 0224 Edição especial portuguesa: Capítulo 05 Fascículo 2 p. 0224*\n\nDIRECTIVA DO CONSELHO de 27 de Novembro de 1980 relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho\n\n(80/1107/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100o,\n\nTendo em conta a proposta da Comissão (1), elaborada após consulta do Comité Consultivo para a Segurança, Higiene e Protecção da Saúde no Local de Trabalho,\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Resolução do Conselho, de 29 de Junho de 1978, relativa a um programa de acção das Comunidades Europeias em matéria de segurança e saúde no local de trabalho (4), prevê a harmonização das disposições e das medidas relativas à protecção dos trabalhadores contra certos agentes químicos, físicos e biológicos; que se trata, consequentemente, de desenvolver esforços tendentes à aproximação, no progresso, das disposições legislativas, regulamentares e administrativas dos Estados-membros nos termos do artigo 117o do Tratado;\n\nConsiderando que o exame das medidas de protecção dos trabalhadores contra os riscos ligados à exposição a agentes químicos, físicos e biológicos durante o trabalho adoptadas nos Estados-membros revela determinadas diferenças; que, para assegurar uma evolução equilibrada, é conveniente aproximar e melhorar tais medidas que têm uma incidência directa no funcionamento do mercado comum; que tal aproximação e melhoria se devem basear em princípios comuns;\n\nConsiderando que a referida protecção terá de ser assegurada, na medida do possível, por medidas tendentes a evitar a exposição ou a mantê-la a um nível tão baixo quanto for razoavelmente praticável;\n\nConsiderando que, para esse efeito, devem os Estados-membros, a partir do momento em que adoptem disposições neste domínio, conformar-se com um conjunto de prescrições que incluam, nomeadamente, a fixação de valores limite; que uma primeira lista de agentes para aplicação das prescrições complementares mais específicas pode ser adoptada na presente directiva; que os Estados-membros devem determinar se e em que medida cada uma destas prescrições se deve aplicar ao agente em causa;\n\nConsiderando que se deve prever dentro dos prazos fixados na presente directiva a entrada em vigor, relativamente a um número limitado de agentes, de disposições tendentes a garantir uma vigilância adequada do estado de saúde durante a exposição e a fornecer uma informação adequada aos trabalhadores em causa;\n\nConsiderando que, relativamente a um certo número de agentes, o Conselho fixará, em directivas especiais, os valores limite e outras prescrições específicas;\n\nConsiderando que certos aspectos técnicos relativos às prescrições específicas a fixar nas directivas especiais podem ser revistos face à experiência adquirida e aos progressos realizados nos domínios técnico e científico;\n\nConsiderando que os parceiros sociais têm um papel a desempenhar no domínio da protecção dos trabalhadores;\n\nConsiderando que, tornando-se a República Helénica membro da Comunidade Económica Europeia em 1 de Janeiro de 1981, nos termos do Acto de Adesão de 1979, convém prever, para esse país, um prazo suplementar para aplicação da presente directiva a fim de que lhe seja possível montar as estruturas legislativas, sociais e técnicas necessárias, nomeadamente as relativas à consulta dos parceiros sociais, à organização da vigilância do estado de saúde dos trabalhadores, bem como ao controlo daquela aplicação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "38d4d6c99ced6ea7": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva tem por objectivo a protecção dos trabalhadores contra os riscos para a sua saúde e segurança, incluindo a prevenção desses riscos, aos quais estão ou podem estar sujeitos durante o trabalho devido a exposição a agentes químicos, físicos e biológicos tidos como prejudiciais.\n\n2. A presente directiva não se aplica:\n\n- aos trabalhadores expostos às radiações previstas no Tratado que institui a Comunidade Europeia da Energia Atómica,\n\n- à navegação marítima,\n\n- à navegação aérea."
+  },
+  "9d270b6ac565d761": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos do disposto na presente directiva, entendese por:\n\na) Agente, o agente químico, físico ou biológico presente durante o trabalho e susceptível de apresentar um risco para a saúde;\n\nb) Trabalhador, toda a pessoa assalariada exposta ou susceptível de ser exposta a um agente durante o trabalho;\n\nc) Valor limite, o limite de exposição ou o valor limite de um indicador biológico no meio adequado, conforme o agente."
+  },
+  "a6d754c3df746007": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. A fim de evitar a exposição dos trabalhadores aos agentes ou de a manter a um nível tão baixo quanto seja razoavelmente praticável, os Estados-membros, ao adoptarem, para a protecção dos trabalhadores, disposições relativas a um agente, devem tomar as seguintes medidas:\n\n- as medidas previstas no artigo 4o,\n\n- as medidas complementares previstas no artigo 5o, quando se trate de um dos agentes que conste de uma primeira lista que figura no Anexo I.\n\n2. Para aplicação do no 1, os Estados-membros determinarão, se necessário, em que medida deve ser aplicada cada uma das medidas previstas nos artigos 4o e 5o, tendo em conta a natureza do agente, o grau e a duração da exposição, a gravidade do risco e os dados que sobre ele existam, bem como o grau de urgência das medidas a tomar.\n\n3. Os Estados-membros devem tomar as medidas necessárias para assegurar:\n\n- no que diz respeito aos agentes referidos na parte A do Anexo II, uma adequada vigilância do estado de saúde dos trabalhadores durante o período de exposição,\n\n- no que diz respeito aos agentes referidos na parte B do Anexo II, o acceso dos trabalhadores e/ou dos seus representantes, nos locais de trabalho, a uma informação adequada sobre os perigos que os referidos agentes representam.\n\n4. A adopção pelos Estados-membros das medidas previstas no no 3, não inclui a obrigatoriedade de aplicação dos no 1 e 2."
+  },
+  "5dec3e5638096e97": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs medidas referidas no no 1, primeiro travessão, do artigo 3o são as seguintes:\n\n1. A limitação da utilização do agente no local de trabalho;\n\n2. A limitação do número de trabalhadores expostos ou que possam sê-lo;\n\n3. Medidas técnicas de prevenção;\n\n4. A fixação de valores limite, bem como de modalidades de amostragem, medida e avaliação dos resultados;\n\n5. Medidas de protecção que incluam a aplicação de processos e métodos de trabalho apropriados;\n\n6. Medidas de protecção colectivas;\n\n7. Medidas de protecção individuais, quando a exposição não possa, razoavelmente, ser evitada por outros meios;\n\n8. Medidas de higiene;\n\n9. Informação dos trabalhadores sobre os riscos potenciais ligados à exposição a que estão sujeitos, sobre as técnicas de prevenção que os trabalhadores devem respeitar e sobre as precauções tomadas pelo empregador e a tomar pelos trabalhadores;\n\n10. Sinalização de perigo e de segurança;\n\n11. Vigilância da saúde dos trabalhadores;\n\n12. Manutenção e actualização de registos indicadores dos níveis de exposição, de listas dos trabalhadores expostos e de processos clínicos;\n\n13. Medidas de urgência para casos de exposição anormal;\n\n14. Se necessária, proibição limitada ou geral do agente nos casos em que a utilização dos outros meios disponíveis não permita assegurar uma protecção suficiente."
+  },
+  "f98ddce579281ee3": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nAs medidas complementares referidas no no 1, segundo travessão, do artigo 3o são as seguintes:\n\n1. Estabelecimento de vigilância médica dos trabalhadores antes da sua exposição, e subsequentemente, a intervalos regulares. Em casos especiais, os trabalhadores que tenham estado expostos ao agente devem poder beneficiar de uma vigilância adequada do seu estado de saúde após cessar aquela exposição,\n\n2. Acesso dos trabalhadores e/ou dos seus representantes nos locais de trabalho aos resultados das medidas de exposição e aos resultados colectivos anónimos dos exames biológicos indicadores da exposição, sempre que tais exames estejam previstos,\n\n3. Acesso de cada trabalhador interessado aos resultados dos seus próprios exames biológicos indicadores da exposição,\n\n4. Informação dos trabalhadores e/ou dos seus representantes nos locais de trabalho, no caso de serem excedidos os valores limite previstos no artigo 4o, sobre as causas de tal facto e sobre as medidas adoptadas ou a adoptar para corrigir a situação,\n\n5. Acesso dos trabalhadores e/ou dos seus representantes nos locais de trabalho a uma informação adequada susceptível de melhorar os respectivos conhecimentos acerca dos perigos a que estão expostos."
+  },
+  "a8d7d6a390d1a050": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros devem assegurar que:\n\n- as organizações de trabalhadores e empregadores sejam consultadas antes da adopção das disposições para aplicação das medidas previstas no artigo 3o e que os representantes dos trabalhadores nas empresas ou estabelecimentos onde existam possam certificar-se da respectiva aplicação ou ser-lhe associados,\n\n- qualquer trabalhador temporariamente subtraído à acção de um agente, por razões médicas e de acordo com a legislação ou prática nacionais, seja, na medida do possível, afectado a outro posto de trabalho,\n\n- as medidas adoptadas para aplicação da presente directiva sejam coerentes com a necessidade de proteger a saúde da população e o ambiente."
+  },
+  "4500bda2a64e4eba": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA presente directiva e as directivas especiais previstas no artigo 8o não prejudicam a faculdade de aplicação ou introdução de disposições legislativas, regulamentares ou administrativas por parte dos Estados-membros, que tenham por objectivo assegurar uma mais eficiente protecção dos trabalhadores."
+  },
+  "2e0392b45057de6f": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O Conselho fixará, sob proposta da Comissão, nas directivas especiais que publicar acerca dos agentes referidos no Anexo I o valor ou valores limite, bem como quaisquer outras prescrições específicas.\n\n2. As directivas especiais terão um número de ordem no respectivo título.\n\n3. A adaptação ao progresso técnico, de acordo com o processo previsto no artigo 10o, deve limitar-se aos aspectos técnicos previstos no Anexo III nas condições definidas nas directivas especiais."
+  },
+  "1ae9d6e4e6084e58": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Para a adaptação ao progresso técnico prevista no no 3 do artigo 8o, é instituído um comité composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O Comité estabelece o seu regulamento interno."
+  },
+  "72411bdf42bd5037": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Caso seja feita referência ao procedimento definido no presente artigo, os assuntos serão submetidos ao Comité pelo seu presidente, quer por sua própria iniciativa, quer a pedido do representante de um dos Estados-membros.\n\n2. O representante da Comissão submeterá ao Comité um projecto das medidas a adoptar. O Comité dará o seu parecer sobre esse projecto num prazo que o presidente fixará em função da urgência da questão. Pronunciar-se-á por uma maioria de quarenta e um votos, sendo atribuída aos votos dos Estados-membros a ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não toma parte na votação.\n\n3. a) A Comissão tomará as medidas propostas, quando forem conformes ao parecer do Comité.\n\nb) Quando as medidas propostas não forem conformes ao parecer do Comité, ou na falta de parecer, a Comissão deve submeter imediatamente ao Conselho uma proposta relativa às medidas a adoptar. O Conselho decide por maioria qualificada.\n\nc) Se, decorrido um prazo de três meses a contar da data em que a Comissão apresentou a sua proposta ao Conselho, este nada tiver decidido, a Comissão adoptará as medidas propostas."
+  },
+  "21d45030b6703bfc": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. Os Estados-membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva num prazo de três anos a contar da data da sua notificação. Desse facto informarão imediatamente a Comissão.\n\nContudo no caso previsto no no 3, primeiro travessão, do artigo 3o, o prazo é de quatro anos.\n\nEm derrogação das disposições precedentes, os prazos previstos no primeiro e segundo parágrafos são, respectivamente, de quatro e cinco anos no que se refere à República Helénica.\n\n2. Os Estados-membros comunicarão à Comissão as disposições de direito nacional que adoptarem no domínio regulado pela presente directiva."
+  },
+  "edef4ac72f19fbc4": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 27 de Novembro de 1980.\n\nPelo Conselho\n\nO Presidente\n\nJ. SANTER\n\n(1) JO no C 89, de 5. 4. 1979, p. 6.(2) JO no C 59, de 10. 3. 1980, p. 73.(3) JO no C 297, de 28. 11. 1979, p. 5.(4) JO no C 165, de 11. 7. 1978, p. 1."
+  },
+  "c30c845132466241": {
+   "fragment_id": "ANEXO I — Lista dos agentes referidos no no 1, segundo travessão, do artigo 3o e no no 1 do artigo 8o",
+   "type": "divisao",
+   "heading": "ANEXO I — Lista dos agentes referidos no no 1, segundo travessão, do artigo 3o e no no 1 do artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Lista dos agentes referidos no no 1, segundo travessão, do artigo 3o e no no 1 do artigo 8o\n\nAcrilonitrilo\n\nAmianto\n\nArsénio e seus compostos\n\nBenzeno\n\nCádmio e seus compostos\n\nMercúrio e seus compostos\n\nNíquel e seus compostos\n\nChumbo e seus compostos\n\nHidrocarbonetos clorados:\n\n- clorofórmio\n\n- paradiclorobenzeno\n\n- tetracloreto de carbono"
+  },
+  "4f2b88c1136c5924": {
+   "fragment_id": "ANEXO II — A. Lista dos agentes referidos no no 3, primeiro travessão, do artigo 3o",
+   "type": "divisao",
+   "heading": "ANEXO II — A. Lista dos agentes referidos no no 3, primeiro travessão, do artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — A. Lista dos agentes referidos no no 3, primeiro travessão, do artigo 3o\n\n1. Amianto\n\n2. Chumbo e seus compostos\n\nB. Lista dos agentes referidos no no 3, segundo travessão do artigo 3o\n\n1. Amianto\n\n2. Arsénio e seus compostos\n\n3. Cádmio e seus compostos\n\n4. Mercúrio e seus compostos\n\n5. Chumbo e seus compostos"
+  },
+  "315d2df405c3c1ba": {
+   "fragment_id": "ANEXO III — Aspectos técnicos referidos no no 3 do artigo 8o",
+   "type": "divisao",
+   "heading": "ANEXO III — Aspectos técnicos referidos no no 3 do artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Aspectos técnicos referidos no no 3 do artigo 8o\n\n1. Modalidades de amostragem e de medida (incluindo o controlo de qualidade) tendo em conta os valores limite, na medida em que tais modalidades não tenham incidência no significado quantitativo desses valores limite.\n\n2. Recomendações práticas relativamente à vigilância médica antes e durante a exposição e após esta ter cessado e a manutenção de processos clínicos relativos aos resultados desta vigilância médica.\n\n3. Modalidades práticas relativas à criação e manutenção de processos clínicos relativos aos resultados das medidas de ambiente e de listas dos trabalhadores expostos.\n\n4. Recomendações práticas relativas aos dispositivos de alarme a implantar nos locais de trabalho onde exista o risco de se verificarem exposições anormais.\n\n5. Recomendações práticas relativas às medidas de urgência a adoptar no caso de emissões anormais.\n\n6. Medidas de protecção colectivas e individuais para certos trabalhos (por exemplo manutenções e reparações) relativamente aos quais não é possível garantir um nível de concentração ou de intensidade dos agentes inferior aos valores limite.\n\n7. Modalidades de aplicação das regras de higiene geral e meios para assegurar a higiene individual.\n\n8. Sinalização a adoptar para designar as zonas em que se possa verificar uma exposição significativa e para indicar as precauções a tomar."
+  }
+ }
+}

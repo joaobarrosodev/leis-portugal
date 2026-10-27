@@ -1,0 +1,456 @@
+---
+schema_version: '1.0'
+id: pt:dre:912653921:por
+title: Decreto-Lei n.º 44/2025
+short_title: null
+summary: Aprova um regime especial de comparticipação destinado a determinadas soluções habitacionais e altera o Decreto-Lei
+  n.º 37/2018, de 4 de junho, que cria o 1.º Direito ― Programa de Apoio ao Acesso à Habitação.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Infraestruturas e Habitação
+official_number: 44/2025
+official_date: null
+publication_date: '2025-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/2025, Série I de 2025-03-27
+  number: '61'
+  series: I
+  supplement: null
+  pages: 11 - 18
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06100/0001100018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/44/2025/03/27/p/dre/pt/html
+  oj: null
+  dre: '912653921'
+  dre_path: /dr/detalhe/decreto-lei/44-2025-912653921
+  internal: pt:dre:912653921:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921
+  metadata_url: https://data.dre.pt/eli/dec-lei/44/2025/03/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2025-912653921
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2f7f94631f62f5f43aa2fafba5e91b062fdb7bbd0e12cccd47c07e3e5411a36b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Casa Degradada
+- Comparticipação do Estado
+- Construção Civil
+- Crédito à Habitação
+- Habitação
+- Instituto da Habitação e da Reabilitação Urbana
+- Linha de Crédito
+- Prédio Urbano
+- Programa de Apoio ao Acesso à Habitação-1.º Direito
+- Reabilitação
+- Realojamento
+relationships:
+- type: amended_by
+  target: pt:dre:942401304:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amends
+  target: pt:numero:decreto-lei:37/2018
+  label: Altera, a partir de 1 de abril de 2025, nos termos do artigo 5.º, os artigos 5.º, 7.º, 19.º, 22.º, 34.º, 72.º, 73.º,
+    74.º, 82.º e 83.º, adita o artigo 83.º-A e revoga o n.º 3 do artigo 74.º do Decreto-Lei n.º 37/2018, de 4 de junho, Diário
+    da República n.º 106/2018, Série I
+  source: null
+  date: '2018-06-04'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2018/06/04/p/dre
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/81/2020/10/02/p/dre
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/101-d/2020/12/07/p/dre
+- type: cites
+  target: pt:dre:159174076:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2021/03/10/p/dre
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165721068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166158055:por
+  label: null
+  source: http://data.dre.pt/eli/port/138-c/2021/06/30/p/dre
+- type: cites
+  target: pt:dre:174614573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/175/2012/08/02/p/dre
+- type: cites
+  target: pt:dre:202552707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409483:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/102/2015/06/05/p/dre
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907934881:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/2025/02/19/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:52:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44/2025
+
+de 27 de março
+
+O XXIV Governo Constitucional concebeu uma política pública para o setor da habitação denominada «Construir Portugal: Nova Estratégia para a Habitação», no âmbito da qual visa assegurar a aprovação e implementação de medidas para mitigar a crise de oferta habitacional, reforçar a confiança no mercado de arrendamento e assegurar a acessibilidade no setor da habitação.
+
+A necessidade de implementação de políticas públicas que assegurem uma resposta estrutural ao problema existente no acesso à habitação motivou a inclusão no Plano de Recuperação e Resiliência (PRR) de um conjunto de investimentos na sua Componente 02 (Habitação), entre os quais o RE-C02-i01 - Programa de Apoio ao Acesso à Habitação, o qual assume como meta a disponibilização de 26 000 habitações destinadas às famílias mais necessitadas.
+
+No diagnóstico das carências habitacionais efetuado pelos municípios no âmbito das respetivas Estratégias Locais de Habitação (ELH), foram identificadas mais de 120 000 famílias em situação habitacional indigna, pelo que as necessidades nacionais não se esgotam nas 26 000 habitações previstas no PRR, conforme se comprova, também, pelo número de candidaturas apresentadas até 1 de abril de 2024 ao abrigo do Aviso n.º 01/CO2-i01/2021 do investimento RE-C02-i01 - Programa de Apoio ao Acesso à Habitação, que, no seu conjunto, representam cerca de 59 000 soluções habitacionais, verificando-se terem ficado, assim, fora do âmbito do PRR cerca de 33 000 habitações, as quais constituem uma necessidade efetiva e premente, cuja concretização cumpre assegurar.
+
+Paralelamente, foi assumido no âmbito da Estratégia Construir Portugal o compromisso de promoção da habitação pública, através do reforço do financiamento necessário para a viabilização do desenvolvimento de milhares de outros fogos candidatos, mas não financiados no âmbito do PRR.
+
+Assim, o presente decreto-lei procede à alteração ao [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho, que cria o 1.º Direito - Programa de Apoio ao Acesso à Habitação, aprovando a criação de um regime especial de financiamento dirigido às soluções habitacionais que tenham sido objeto de candidaturas submetidas no âmbito do Aviso n.º 01/CO2-i01/2021 do investimento RE-C02-i01 - Programa de Apoio ao Acesso à Habitação, mas que não foram abrangidas por financiamento com verbas do PRR, por extravasarem a meta de 26 000 habitações nele definida.
+
+Pretende-se assegurar, ainda, que as soluções habitacionais que foram aprovadas ao abrigo do referido aviso, que se tenham deparado com vicissitudes ou atrasos na execução que põem em causa o cumprimento dos marcos e metas estabelecidos no PRR, possam também ser objeto de conversão e comparticipação ao abrigo do 1.º Direito - Programa de Apoio ao Acesso à Habitação.
+
+O mecanismo especial de financiamento ora previsto deve operar até ao limite da dotação disponibilizada no âmbito do 1.º Direito - Programa de Apoio ao Acesso à Habitação, prevendo-se a definição da comparticipação aplicável, em função dos prazos de execução das operações necessárias à disponibilização das habitações.
+
+Por outro lado, prevê-se a possibilidade de as candidaturas submetidas ou a submeter ao abrigo do 1.º Direito - Programa de Apoio ao Acesso à Habitação, aprovado pelo [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho, as quais, apesar de não terem concorrido ao abrigo do Aviso n.º 01/CO2-i01/2021 do investimento RE-C02-i01 do PRR, cumpram integralmente os respetivos requisitos, caso a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento, se aplicável, se verifique até 30 de junho de 2026, serem objeto de financiamento no valor correspondente a 100 % das despesas elegíveis, até ao limite da dotação orçamental que seja especificamente aprovada para esse efeito.
+
+Por fim, e considerando o aumento significativo do peso da habitação no orçamento das famílias, urge atender igualmente aos casos em que este custo implica uma sobrecarga, comprometendo a disponibilidade financeira para atender a outras necessidades relevantes para a vida pessoal e familiar. Neste sentido, procede-se a um alargamento do âmbito do 1.º Direito - Programa de Apoio ao Acesso à Habitação, no sentido de permitir que o mesmo possa vir a apoiar agregados que se encontrem em situação de carência financeira e a suportar uma renda ou prestação que corresponda a uma taxa de esforço superior a 40 % do rendimento médio mensal do agregado familiar.
+
+Procede-se ainda ao ajustamento da forma de disponibilização dos apoios do 1.º Direito - Programa de Apoio ao Acesso à Habitação, por forma a garantir maior agilidade e imediatismo dos respetivos pagamentos.
+
+Por fim, aproveita-se a oportunidade para proceder a alguns ajustamentos, designadamente no que se refere ao regime especial de alienação previsto no decreto-lei.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à sétima alteração ao [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho, na sua redação atual, que cria o 1.º Direito - Programa de Apoio ao Acesso à Habitação.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho
+
+Os artigos 5.º, 7.º, 19.º, 22.º, 34.º, 72.º, 73.º, 74.º, 82.º e 83.º do [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) Sobrecarga de custos com a renda ou a prestação mensal do crédito à habitação, quando esta implique uma taxa de esforço superior a 40 % do rendimento médio mensal a que se refere o artigo 9.º
+
+Artigo 7.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - O título de propriedade relativo a outra habitação situada a uma distância inferior a 100 km medidos nos termos do número anterior, mas que não seja adequada, com fundamento nos motivos referidos nas alíneas c) e d) do artigo 5.º, não constitui causa de exclusão desde que, como contrapartida pelo apoio recebido ao abrigo do presente regime, o beneficiário celebre com o IHRU, I. P., ou com o município, contrato tendo em vista a disponibilização dessa habitação em regime de arrendamento acessível ou outro regime de renda reduzida.
+
+4 - (Anterior n.º 3.)
+
+Artigo 19.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - No caso de intervenções de reabilitação, apenas são comparticipáveis as despesas relativas a soluções de eficiência energética que incluam melhoria do desempenho energético, evidenciado mediante certificação energética final que ateste o cumprimento do [Decreto-Lei n.º 101-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), de 7 de dezembro, alterado pelo [Decreto-Lei n.º 102/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2021-174614573), de 19 de novembro, e pelo [Decreto-Lei n.º 11/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2025-907934881), de 19 de fevereiro, que estabelece os requisitos aplicáveis a edifícios para a melhoria do seu desempenho energético e regula o Sistema de Certificação Energética de Edifícios.
+
+6 - [...]
+
+7 - [...]
+
+Artigo 22.º
+
+[...]
+
+1 - [...]
+
+2 - As comparticipações e os empréstimos à aquisição são, em regra, disponibilizados no ato de celebração das escrituras, ou posteriormente, sem prejuízo da possibilidade de adiantamento das verbas necessárias para pagamento de quantias devidas a título de sinal ou de princípio de pagamento de contratos-promessa.
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - Nas obras de reabilitação e de construção promovidas pelos beneficiários previstos no artigo 25.º e pelas entidades constantes das alíneas d) e e) do artigo 26.º, a primeira prestação, que assume a natureza de adiantamento, será disponibilizada em duas fases, nos seguintes termos:
+
+a) Com a celebração do contrato de financiamento, o valor correspondente a 25 % das despesas elegíveis, excluindo as despesas referentes à empreitada;
+
+b) O valor remanescente, com a assinatura do contrato de empreitada.
+
+7 - Nos casos previstos no número anterior, quando as obras ou contratos se encontrem em execução, ou concluídos, as prestações subsequentes ao adiantamento são disponibilizadas em função dos comprovativos das despesas realizadas, podendo o IHRU, I. P., fazer depender cada nova libertação de verbas da apresentação de documentos que comprovem a boa aplicação dos montantes recebidos.
+
+8 - Nas obras de reabilitação e de construção promovidas pelas entidades beneficiárias previstas nas alíneas a) a c) do artigo 26.º, que sejam financiadas sob a forma de comparticipação, as correspondentes verbas são disponibilizadas em prestações de até 25 % do financiamento, apenas podendo ser superiores se corresponderem a trabalhos executados ou, no caso de outras despesas elegíveis, desde que realizadas e devidamente comprovadas.
+
+9 - Nos casos previstos no número anterior, as prestações subsequentes ao adiantamento são disponibilizadas após demonstração, com o envio dos respetivos comprovativos de pagamento, da execução dos trabalhos de valor não inferior a 80 % do valor disponibilizado na prestação imediatamente anterior, e de valor não inferior a 100 % do valor disponibilizado nas restantes prestações.
+
+10 - Os últimos 5 % do valor do financiamento apenas podem ser disponibilizados após a entrega comprovada das habitações.
+
+11 - A libertação de verbas depende da existência de liquidez por parte do IHRU, I. P., e da apresentação dos comprovativos das despesas realizadas que atestem a boa aplicação dos montantes entretanto recebidos.
+
+Artigo 34.º
+
+[...]
+
+1 - Com respeito pelos limites relativos aos valores de referência aplicáveis à construção ou à reabilitação e pelas condições aplicáveis aos empréstimos, nos casos de autopromoção e de reabilitação de habitação própria, o montante máximo da comparticipação corresponde ao valor das despesas elegíveis para efeito do financiamento, deduzido de 180 vezes o valor correspondente a 25 % do RMM da pessoa ou do agregado habitacional, sendo, para o efeito, deduzido do respetivo RMM o encargo mensal com a renda ou prestação do crédito à habitação, quando aplicável.
+
+2 - A comparticipação à aquisição ou aquisição e reabilitação de habitação corresponde ao preço da aquisição ou ao valor total do investimento que é considerado pelo IHRU, I. P., para efeito do financiamento, deduzido de 180 vezes o valor correspondente a 25 % do RMM da pessoa ou do agregado habitacional, sendo, para o efeito, deduzido do respetivo RMM o encargo mensal com a renda ou prestação do crédito à habitação, quando aplicável.
+
+3 - [...]
+
+4 - No caso das candidaturas submetidas ao abrigo do Aviso n.º 01/C02-i01/2021, o disposto nos n.os1 e 2 nunca pode comprometer a manutenção pelo agregado da parte do RMM igual a duas vezes o valor do IAS.
+
+Artigo 72.º
+
+[...]
+
+1 - As habitações cuja aquisição, reabilitação ou construção tenha sido financiada com comparticipações concedidas às entidades referidas nas alíneas a) a c) do artigo 26.º só podem ser desafetadas por estas do fim para que foram financiadas decorrido um período de 20 anos a contar da data do auto de receção provisória das obras no caso de reabilitação de fogos já arrendados, da data do primeiro contrato de arrendamento, ou outro que titule a subconcessão ou cedência, ou de constituição do regime de propriedade resolúvel ou, em qualquer caso, após o reembolso total do correspondente empréstimo, se este tiver prazo superior àquele período.
+
+2 - [...]
+
+3 - As entidades referidas nas alíneas a) a c) do artigo 26.º remetem ao IHRU, I. P., por via eletrónica, cópia simples do auto de receção provisória das obras de reabilitação, do primeiro contrato de arrendamento, ou outro que titule a subconcessão ou cedência, ou do primeiro contrato de constituição do regime de propriedade resolúvel, no prazo máximo de 20 dias úteis após a respetiva celebração, sob pena de se considerar definitivamente incumprido o contrato de financiamento celebrado, com as inerentes consequências legais e contratuais.
+
+Artigo 73.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - Para efeitos de opção de compra, o preço máximo da habitação corresponde ao valor da compra e venda, deduzido do valor correspondente à comparticipação, atualizado mediante a aplicação da taxa de variação média anual do índice de preços no consumidor divulgada pelo INE, I. P.
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+10 - [...]
+
+11 - O disposto no presente artigo é aplicável às situações em que, no período da disponibilização dos apoios, ocorra a morte dos beneficiários diretos que compõem o agregado, podendo os seus herdeiros assumir a sua posição contratual e concretizar a solução habitacional, desde que integrassem o agregado familiar ou destinem a habitação financiada a arrendamento nos termos do n.º 7, sob pena de devolução das quantias concedidas.
+
+12 - As habitações cedidas através de arrendamento nos termos dos n.os7 e 11 do presente artigo estão sujeitas, para além do regime especial de alienação previsto no n.º 1, a um regime especial de afetação por um período de 15 anos a contar da data da aquisição ou da última utilização do financiamento às obras.
+
+Artigo 74.º
+
+[...]
+
+1 - [...]
+
+2 - O registo dos regimes especiais de afetação e de alienação é requerido com base em declaração emitida pelo IHRU, I. P., para o efeito, com menção da data a partir da qual se começa a contar o prazo de aplicação daquele regime.
+
+3 - (Revogado.)
+
+4 - [...]
+
+5 - [...]
+
+Artigo 82.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - O regime especial de financiamento aplicável às soluções habitacionais que tenham sido objeto de candidaturas submetidas no âmbito do Aviso n.º 01/CO2-i01/2021 do investimento RE-C02-i01 do Plano de Recuperação e Resiliência (PRR) rege-se pelo disposto nos artigos 83.º e 83.º-A e é objeto de dotação orçamental própria.
+
+6 - As candidaturas submetidas ou a submeter ao abrigo do regime do 1.º Direito previsto no presente decreto-lei, as quais, embora não tendo sido apresentadas no âmbito do Aviso n.º 01/CO2-i01/2021 do investimento RE-C02-i01 do PRR, cumpram integralmente os respetivos requisitos, caso a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento, se aplicável, se verifique até 30 de junho de 2026, podem ser objeto de financiamento no valor correspondente a 100 % das despesas elegíveis, até ao limite da dotação orçamental que seja especificamente aprovada para esse efeito.
+
+7 - Uma vez esgotada a dotação orçamental disponibilizada para a comparticipação prevista no número anterior, as candidaturas são comparticipadas ao abrigo dos limites próprios do regime do 1.º Direito - Programa de Apoio ao Acesso à Habitação.
+
+Artigo 83.º
+
+Regime especial de financiamento
+
+1 - [...]
+
+2 - [...]
+
+3 - As candidaturas que tenham sido submetidas dentro do prazo, ao abrigo do Aviso n.º 01/CO2-i01/2021, mas que, apesar de cumprirem os respetivos requisitos de acesso e de atribuição, não tenham sido abrangidas por financiamento com verbas do PRR, podem ser convertidas para o regime especial do 1.º Direito, mediante comunicação da intenção de conversão, remetida por escrito ao IHRU, I. P., no prazo concedido por este para o efeito, beneficiando, até ao limite da dotação orçamental definida, de uma comparticipação de 100 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 30 de junho de 2026.
+
+4 - Uma vez esgotada a dotação orçamental disponibilizada para a comparticipação prevista no número anterior, as candidaturas que tenham sido submetidas dentro do prazo, ao abrigo do Aviso n.º 01/CO2-i01/2021, mas que, apesar de cumprirem os respetivos requisitos de acesso e de atribuição, não tenham sido abrangidas por financiamento com verbas do PRR, podem ser convertidas para o regime do 1.º Direito, mediante comunicação da intenção de conversão, remetida por escrito ao IHRU, I. P., no prazo concedido por este para o efeito, beneficiando, até ao limite da dotação orçamental definida, de uma comparticipação de 60 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 31 de dezembro de 2030.
+
+5 - As candidaturas aprovadas ou contratadas ao abrigo do Aviso n.º 01/CO2-i01/2021, que cumpram os respetivos requisitos de acesso e de atribuição do financiamento, mas cujo estado de execução comprometa o cumprimento das metas e marcos previstos para o investimento RE-C02-i01 do PRR, e cujos beneficiários comuniquem a intenção de conversão, por escrito, ao IHRU, I. P., no prazo concedido por este para o efeito, podem ser convertidas para o regime do 1.º Direito, beneficiando, até ao limite da dotação disponibilizada, das seguintes percentagens de comparticipação:
+
+a) 85 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 31 de dezembro de 2026;
+
+b) 75 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 30 de junho de 2027;
+
+c) 65 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 31 de dezembro de 2027;
+
+d) 60 % das despesas elegíveis até aos respetivos valores de referência, quando a conclusão da solução habitacional, incluindo a celebração do contrato de arrendamento se aplicável, se verifique até 31 de dezembro de 2030.
+
+6 - Sempre que o IHRU, I. P., conclua existirem vicissitudes ou atrasos na execução das soluções habitacionais financiadas nos termos do presente artigo que impliquem o incumprimento dos prazos previstos nos n.os3 e 5, pode, após audição dos beneficiários, aprovar a redução das percentagens de comparticipação de acordo com a data da conclusão daquelas soluções, que lhes é comunicada nos termos previstos no n.º 1 do artigo 19.º do [Decreto-Lei n.º 175/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2012-179064), de 2 de agosto, na sua redação atual, por simples troca de correspondência.
+
+7 - Em qualquer caso, as soluções habitacionais cujo prazo de conclusão, incluindo a celebração do contrato de arrendamento se aplicável, seja posterior a 31 de dezembro de 2030, podem ser convertidas para o regime geral de financiamento previsto no presente decreto-lei.
+
+8 - A disponibilização das comparticipações relativas a candidaturas previstas nos n.os3, 4 e 5 obedece ao disposto no artigo 22.º
+
+9 - (Anterior n.º 5.)»
+
+###### Artigo 3.º — Aditamento ao [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho
+
+É aditado ao [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho, na sua redação atual, o artigo 83.º-A, com a seguinte redação:
+
+«Artigo 83.º-A
+
+Conversão de candidaturas e contratos
+
+1 - A conversão de candidaturas prevista no artigo anterior obedece aos requisitos previstos no presente decreto-lei e a respetiva ordenação decorre do estado de desenvolvimento das soluções habitacionais, devidamente evidenciado pelos beneficiários.
+
+2 - As candidaturas previstas no n.º 3 do artigo anterior são ordenadas, até ao limite da respetiva dotação orçamental e independentemente da respetiva modalidade, de acordo com a seguinte ordem de prioridades:
+
+a) Soluções habitacionais concretizadas, com contrato de arrendamento celebrado, quando aplicável;
+
+b) Soluções habitacionais em fase de obra, em processo de aquisição ou de arrendamento para subarrendamento, com previsão de concretização ou de celebração de contrato de arrendamento, quando aplicável, até junho de 2025;
+
+c) Soluções habitacionais em fase de obra, em processo de aquisição ou de arrendamento para subarrendamento com previsão de concretização até março de 2026 e de celebração de contrato de arrendamento, quando aplicável, até junho de 2026;
+
+d) Soluções habitacionais com previsão de conclusão da obra até março de 2026, e de celebração de contrato de arrendamento, quando aplicável, até junho de 2026, que se encontrem numa das seguintes fases anteriores ao início da obra:
+
+i) Com concurso de empreitada a decorrer; ou
+
+ii) Com empreitada orçamentada, quando a obra não seja sujeita a concurso.
+
+3 - A ordenação das candidaturas em sede de cada prioridade definida no número anterior é efetuada de acordo com a antiguidade da respetiva data de submissão.
+
+4 - As candidaturas submetidas ao abrigo do Aviso n.º 01/CO2-i01/2021 podem ser convertidas para o regime do 1.º Direito, mediante comunicação do beneficiário ou proposta do IHRU, I. P., podendo recorrer-se ao termo de responsabilidade e aceitação aprovado em anexo à [Portaria n.º 138-C/2021](https://diariodarepublica.pt/dr/detalhe/portaria/138-c-2021-166158055), de 30 de junho, com as necessárias adaptações.
+
+5 - No caso de instrumentos contratuais já celebrados ao abrigo do Aviso n.º 01/CO2-i01/2021 e do artigo 3.º-A da [Portaria n.º 138-C/2021](https://diariodarepublica.pt/dr/detalhe/portaria/138-c-2021-166158055), de 30 de junho, que sejam convertidos para o regime do 1.º Direito, é dispensada a apresentação de nova candidatura, sendo os referidos instrumentos objeto de aditamento, nos termos previstos no n.º 1 do artigo 19.º do [Decreto-Lei n.º 175/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2012-179064), de 2 de agosto, alterado pelos Decretos-Leis n.os[102/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2015-67409483), de 5 de junho, e [81/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), de 2 de outubro, pela [Lei n.º 12/2021](https://diariodarepublica.pt/dr/detalhe/lei/12-2021-159174076), de 10 de março, e pelo [Decreto-Lei n.º 74/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2022-202552707), de 24 de outubro, por simples troca de correspondência.
+
+6 - Mantêm-se válidos para o efeito da conversão prevista nos n.os3, 4 e 5 do artigo anterior todas as aquisições e demais atos anteriormente praticados no âmbito das candidaturas apresentadas e dos contratos celebrados nos termos do Aviso n.º 01/CO2-i01/2021, ao abrigo das disposições constantes do [Decreto-Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, alterado pela [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro, e pelos Decretos-Leis n.os[10/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), de 8 de fevereiro, [61/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961), de 24 de julho, e [17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, que estabelece o regime excecional de execução orçamental e de simplificação de procedimentos dos projetos aprovados no âmbito do PRR, e da [Lei n.º 30/2021](https://diariodarepublica.pt/dr/detalhe/lei/30-2021-163728569), de 21 de maio, que aprova medidas especiais de contratação pública em matéria de projetos financiados ou cofinanciados por fundos europeus.»
+
+###### Artigo 4.º — Norma revogatória
+
+É revogado o n.º 3 do artigo 74.º do [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho, na sua redação atual.
+
+###### Artigo 5.º — Produção de efeitos
+
+1 - Sem prejuízo do disposto nos números seguintes, o presente decreto-lei é aplicável aos atos e contratos realizados após a data da sua entrada em vigor.
+
+2 - O disposto nos artigos 72.º, 73.º e 74.º do [Decreto-Lei n.º 37/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), de 4 de junho, com a redação conferida pelo presente decreto-lei, é aplicável às relações jurídicas já constituídas à data da entrada em vigor do presente decreto-lei.
+
+3 - O disposto nos n.os6 e 7 do artigo 82.º, com a redação conferida pelo presente decreto-lei, é aplicável às candidaturas já submetidas e a submeter ao abrigo do 1.º Direito.
+
+4 - O disposto no n.º 5 do artigo 82.º, no artigo 83.º e no artigo 83.º-A, com a redação conferida pelo presente decreto-lei, é aplicável às candidaturas que tenham sido tempestivamente submetidas ao abrigo do Aviso n.º 01/CO2-i01/20221.
+
+Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
+
+Promulgado em 19 de março de 2025.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 21 de março de 2025.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+118858432

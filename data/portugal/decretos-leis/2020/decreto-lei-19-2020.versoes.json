@@ -1,0 +1,392 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:132721068:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-132783810",
+ "dre_path": "/dr/detalhe/decreto-lei/19-2020-132721068",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202132128",
+    "132782641",
+    "132782642",
+    "132782643",
+    "132782644",
+    "132782645",
+    "132782646",
+    "132782647",
+    "132782648",
+    "132782649"
+   ]
+  },
+  {
+   "date": "2020-08-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140431168:por",
+     "title": "Lei n.º 42/2020",
+     "published": "2020-08-18",
+     "dre_path": "/dr/detalhe/lei/42-2020-140431168"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 7.º-C",
+    "Adita Artigo 7.º-D"
+   ],
+   "fragments": [
+    "132782640",
+    "132782641",
+    "132782642",
+    "132782643",
+    "132782644",
+    "132782645",
+    "132782646",
+    "132782647",
+    "140626992",
+    "140626996",
+    "140854175",
+    "140854176",
+    "140854177",
+    "140854178",
+    "140854179"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202132128",
+    "202132129",
+    "202132130",
+    "202132131",
+    "202132132",
+    "202132133",
+    "202132134",
+    "202132135",
+    "202132136",
+    "202132137",
+    "202132138",
+    "202132139",
+    "202132140",
+    "202132141",
+    "202132142"
+   ]
+  }
+ ],
+ "fragments": {
+  "202132128": {
+   "fragment_id": "132783811",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 19/2020\n\nde 30 de abril\n\nSumário: Estabelece um regime temporário e excecional de apoio às associações humanitárias de bombeiros, no âmbito da pandemia da doença COVID-19.\n\nAtendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação, no dia 11 de março de 2020, da doença COVID-19 como uma pandemia, o Governo tem vindo a aprovar um conjunto de medidas extraordinárias e de caráter urgente, em diversas matérias.\n\nA situação atual de pandemia da doença COVID-19 e os efeitos causados na atividade das associações humanitárias de bombeiros, nomeadamente originado pela diminuição abrupta do transporte de doentes não urgentes, com um impacto muito significativo na sua faturação, agravada pelo acréscimo repentino de gastos com equipamentos de proteção individual e material de desinfeção, conduzem essas associações a uma situação de debilidade financeira que pode comprometer a atividade operacional dos corpos de bombeiros e, consequentemente, a sua capacidade de resposta a situações de emergência.\n\nNeste contexto, entende o Governo ser necessário apoiar as associações humanitárias de bombeiros, de modo excecional, através da possibilidade de antecipação de duodécimos do financiamento permanente que lhes é devido e da disponibilização de financiamento específico, que se destinam a fazer face às necessidades de tesouraria, nomeadamente para assegurar o pagamento de salários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "132782641": {
+   "fragment_id": "132783812",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime temporário e excecional de apoio às associações humanitárias de bombeiros (AHB), no âmbito da pandemia da doença COVID-19."
+  },
+  "132782642": {
+   "fragment_id": "132783813",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se às AHB que, em virtude da pandemia da doença COVID-19, se encontram em situação de debilidade financeira, significativa ou agravada, com impacto, nomeadamente, na capacidade de pagamento de salários aos bombeiros assalariados e demais trabalhadores."
+  },
+  "132782643": {
+   "fragment_id": "132783814",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação de debilidade financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Situação de debilidade financeira\n\n1 - Para efeitos do disposto no presente decreto-lei, considera-se que as AHB se encontram em:\n\na) Situação de debilidade financeira significativa quando se comprove uma perda de faturação mensal do transporte de doentes igual ou superior a 20 % face ao mês homólogo do ano anterior;\n\nb) Situação de debilidade financeira agravada quando se comprove uma perda de faturação mensal do transporte de doentes igual ou superior a 40 % face ao mês homólogo do ano anterior.\n\n2 - A situação de debilidade financeira é comunicada pela AHB à Autoridade Nacional de Emergência e Proteção Civil (ANEPC), acompanhada de declaração de contabilista certificado ou revisor oficial de contas.\n\n3 - A fiscalização da verificação dos factos em que se baseou a declaração de debilidade financeira compete à ANEPC, sem prejuízo da competência fiscalizadora de outras entidades públicas, legalmente estabelecida."
+  },
+  "132782644": {
+   "fragment_id": "132783815",
+   "type": 11,
+   "heading": "Artigo 4.º — Apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoios financeiros\n\nAs AHB que se encontram em situação de debilidade financeira podem beneficiar, isolada ou cumulativamente, dos seguintes apoios financeiros:\n\na) Antecipação do financiamento permanente determinado nos termos do artigo 4.º da Lei n.º 94/2015, de 13 de agosto, na sua redação atual;\n\nb) Financiamento específico, para fazer face às necessidades de tesouraria."
+  },
+  "132782645": {
+   "fragment_id": "132783816",
+   "type": 11,
+   "heading": "Artigo 5.º — Antecipação do financiamento permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Antecipação do financiamento permanente\n\n1 - A antecipação do financiamento permanente referente ao ano de 2020 é solicitada à ANEPC, com a indicação do número de duodécimos, num máximo de três, cujo pagamento a AHB pretende antecipar.\n\n2 - A antecipação referida no número anterior é compensada mediante deduções, de igual montante, efetuadas nos duodécimos remanescentes do financiamento permanente referente ao ano de 2020."
+  },
+  "132782646": {
+   "fragment_id": "132783817",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento específico\n\n1 - A dotação máxima disponível para financiamento das necessidades de tesouraria das AHB é de:\n\na) 2,5 milhões de euros, para as AHB que se encontram em situação de debilidade financeira significativa;\n\nb) 4 milhões de euros, para as AHB que se encontram em situação de debilidade financeira agravada.\n\n2 - O apoio referido no número anterior tem como limite máximo, para cada AHB:\n\na) 30 % do financiamento permanente anual, quando seja concedido nos termos da alínea a) do número anterior;\n\nb) 40 % do financiamento permanente anual, quando seja concedido nos termos da alínea b) do número anterior.\n\n3 - A atribuição do financiamento específico a cada beneficiário é feita por ordem de submissão dos pedidos, por referência às alíneas a) e b) do número anterior, até serem alcançados os montantes nelas fixados.\n\n4 - O reembolso do financiamento específico inicia-se em janeiro de 2021, sendo efetuado através de deduções, de igual montante e sem juros remuneratórios associados, efetuadas nos duodécimos do financiamento permanente durante:\n\na) 24 meses, para as AHB que se encontram em situação de debilidade financeira significativa;\n\nb) 48 meses, para as AHB que se encontram em situação de debilidade financeira agravada."
+  },
+  "132782647": {
+   "fragment_id": "132783818",
+   "type": 11,
+   "heading": "Artigo 7.º — Transferência anual para o Fundo de Proteção Social do Bombeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transferência anual para o Fundo de Proteção Social do Bombeiro\n\nEm 2020, a transferência anual para o Fundo de Proteção Social do Bombeiro, efetuada nos termos do artigo 8.º da Lei n.º 94/2015, de 13 de agosto, na sua redação atual, é, a título excecional, de 5 %."
+  },
+  "132782648": {
+   "fragment_id": "132783819",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nO disposto no artigo anterior produz efeitos a 1 de janeiro de 2020."
+  },
+  "132782649": {
+   "fragment_id": "132783820",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "132782640": {
+   "fragment_id": "132783811",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 19/2020\n\nde 30 de abril\n\nSumário: Estabelece um regime temporário e excecional de apoio às associações humanitárias de bombeiros, no âmbito da pandemia da doença COVID-19.\n\nAtendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação, no dia 11 de março de 2020, da doença COVID-19 como uma pandemia, o Governo tem vindo a aprovar um conjunto de medidas extraordinárias e de caráter urgente, em diversas matérias.\n\nA situação atual de pandemia da doença COVID-19 e os efeitos causados na atividade das associações humanitárias de bombeiros, nomeadamente originado pela diminuição abrupta do transporte de doentes não urgentes, com um impacto muito significativo na sua faturação, agravada pelo acréscimo repentino de gastos com equipamentos de proteção individual e material de desinfeção, conduzem essas associações a uma situação de debilidade financeira que pode comprometer a atividade operacional dos corpos de bombeiros e, consequentemente, a sua capacidade de resposta a situações de emergência.\n\nNeste contexto, entende o Governo ser necessário apoiar as associações humanitárias de bombeiros, de modo excecional, através da possibilidade de antecipação de duodécimos do financiamento permanente que lhes é devido e da disponibilização de financiamento específico, que se destinam a fazer face às necessidades de tesouraria, nomeadamente para assegurar o pagamento de salários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "140626992": {
+   "fragment_id": "140626874",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Dívidas e pagamentos",
+   "in_force_from": "2020-08-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 7.º-A — Dívidas e pagamentos\n\n1 - O pagamento de serviços efetuados pelas AHB a entidades públicas deve ser efetuado no prazo máximo de 45 dias.\n\n2 - Todas as dívidas vencidas de entidades públicas às AHB devem ser liquidadas em prazo igual ao do número anterior.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+  },
+  "140626996": {
+   "fragment_id": "140629275",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Revisão do protocolo com o INEM e a ANEPC",
+   "in_force_from": "2020-08-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 7.º-B — Revisão do protocolo com o INEM e a ANEPC\n\nO protocolo entre as AHB, o INEM e a ANEPC deve ser revisto de modo a contemplar:\n\na) Os valores que cubram de modo integral os custos efetivos dos serviços prestados;\n\nb) O valor dos equipamentos de proteção individual e da higienização de materiais e veículos.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+  },
+  "140854175": {
+   "fragment_id": "140821561",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Equipamentos de proteção individual",
+   "in_force_from": "2020-08-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 7.º-C — Equipamentos de proteção individual\n\n1 - Compete à ANEPC distribuir às AHB os equipamentos de proteção individual necessários e suficientes para que cada corpo de bombeiros possa cumprir as suas missões no âmbito da pandemia da doença COVID-19 em condições de segurança.\n\n2 - Compete igualmente à ANEPC suportar os custos do material para a prevenção e mitigação da pandemia da doença COVID-19, nas atividades do Dispositivo Especial de Combate a Incêndios Rurais, para cumprimento da Instrução Operacional n.º 2/2020.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+  },
+  "140854176": {
+   "fragment_id": "140629276",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Seguros de acidentes pessoais e de trabalho",
+   "in_force_from": "2020-08-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 7.º-D — Seguros de acidentes pessoais e de trabalho\n\nO Governo adota as medidas legislativas e regulamentares necessárias para garantir:\n\na) A melhoria dos valores e condições de cobertura dos seguros de acidentes pessoais e de acidentes de trabalho dos bombeiros, por morte ou invalidez permanente, incapacidade temporária e absoluta e tratamentos médicos;\n\nb) A incorporação nas apólices de seguro da cobertura dos riscos de contágio por doença infetocontagiosa.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+  },
+  "140854177": {
+   "fragment_id": "132783819",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nO disposto no artigo anterior produz efeitos a 1 de janeiro de 2020."
+  },
+  "140854178": {
+   "fragment_id": "132783820",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "140854179": {
+   "fragment_id": "132783821",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de abril de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita.\n\nPromulgado em 28 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 29 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113215185"
+  },
+  "202132129": {
+   "fragment_id": "132783812",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime temporário e excecional de apoio às associações humanitárias de bombeiros (AHB), no âmbito da pandemia da doença COVID-19.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132130": {
+   "fragment_id": "132783813",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se às AHB que, em virtude da pandemia da doença COVID-19, se encontram em situação de debilidade financeira, significativa ou agravada, com impacto, nomeadamente, na capacidade de pagamento de salários aos bombeiros assalariados e demais trabalhadores.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132131": {
+   "fragment_id": "132783814",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação de debilidade financeira",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Situação de debilidade financeira\n\n1 - Para efeitos do disposto no presente decreto-lei, considera-se que as AHB se encontram em:\n\na) Situação de debilidade financeira significativa quando se comprove uma perda de faturação mensal do transporte de doentes igual ou superior a 20 % face ao mês homólogo do ano anterior;\n\nb) Situação de debilidade financeira agravada quando se comprove uma perda de faturação mensal do transporte de doentes igual ou superior a 40 % face ao mês homólogo do ano anterior.\n\n2 - A situação de debilidade financeira é comunicada pela AHB à Autoridade Nacional de Emergência e Proteção Civil (ANEPC), acompanhada de declaração de contabilista certificado ou revisor oficial de contas.\n\n3 - A fiscalização da verificação dos factos em que se baseou a declaração de debilidade financeira compete à ANEPC, sem prejuízo da competência fiscalizadora de outras entidades públicas, legalmente estabelecida.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132132": {
+   "fragment_id": "132783815",
+   "type": 11,
+   "heading": "Artigo 4.º — Apoios financeiros",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Apoios financeiros\n\nAs AHB que se encontram em situação de debilidade financeira podem beneficiar, isolada ou cumulativamente, dos seguintes apoios financeiros:\n\na) Antecipação do financiamento permanente determinado nos termos do artigo 4.º da Lei n.º 94/2015, de 13 de agosto, na sua redação atual;\n\nb) Financiamento específico, para fazer face às necessidades de tesouraria.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132133": {
+   "fragment_id": "132783816",
+   "type": 11,
+   "heading": "Artigo 5.º — Antecipação do financiamento permanente",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Antecipação do financiamento permanente\n\n1 - A antecipação do financiamento permanente referente ao ano de 2020 é solicitada à ANEPC, com a indicação do número de duodécimos, num máximo de três, cujo pagamento a AHB pretende antecipar.\n\n2 - A antecipação referida no número anterior é compensada mediante deduções, de igual montante, efetuadas nos duodécimos remanescentes do financiamento permanente referente ao ano de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132134": {
+   "fragment_id": "132783817",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento específico",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Financiamento específico\n\n1 - A dotação máxima disponível para financiamento das necessidades de tesouraria das AHB é de:\n\na) 2,5 milhões de euros, para as AHB que se encontram em situação de debilidade financeira significativa;\n\nb) 4 milhões de euros, para as AHB que se encontram em situação de debilidade financeira agravada.\n\n2 - O apoio referido no número anterior tem como limite máximo, para cada AHB:\n\na) 30 % do financiamento permanente anual, quando seja concedido nos termos da alínea a) do número anterior;\n\nb) 40 % do financiamento permanente anual, quando seja concedido nos termos da alínea b) do número anterior.\n\n3 - A atribuição do financiamento específico a cada beneficiário é feita por ordem de submissão dos pedidos, por referência às alíneas a) e b) do número anterior, até serem alcançados os montantes nelas fixados.\n\n4 - O reembolso do financiamento específico inicia-se em janeiro de 2021, sendo efetuado através de deduções, de igual montante e sem juros remuneratórios associados, efetuadas nos duodécimos do financiamento permanente durante:\n\na) 24 meses, para as AHB que se encontram em situação de debilidade financeira significativa;\n\nb) 48 meses, para as AHB que se encontram em situação de debilidade financeira agravada.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132135": {
+   "fragment_id": "132783818",
+   "type": 11,
+   "heading": "Artigo 7.º — Transferência anual para o Fundo de Proteção Social do Bombeiro",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Transferência anual para o Fundo de Proteção Social do Bombeiro\n\nEm 2020, a transferência anual para o Fundo de Proteção Social do Bombeiro, efetuada nos termos do artigo 8.º da Lei n.º 94/2015, de 13 de agosto, na sua redação atual, é, a título excecional, de 5 %.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132136": {
+   "fragment_id": "140626874",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Dívidas e pagamentos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 7.º-A — Dívidas e pagamentos\n\n1 - O pagamento de serviços efetuados pelas AHB a entidades públicas deve ser efetuado no prazo máximo de 45 dias.\n\n2 - Todas as dívidas vencidas de entidades públicas às AHB devem ser liquidadas em prazo igual ao do número anterior.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+  },
+  "202132137": {
+   "fragment_id": "140629275",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Revisão do protocolo com o INEM e a ANEPC",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 7.º-B — Revisão do protocolo com o INEM e a ANEPC\n\nO protocolo entre as AHB, o INEM e a ANEPC deve ser revisto de modo a contemplar:\n\na) Os valores que cubram de modo integral os custos efetivos dos serviços prestados;\n\nb) O valor dos equipamentos de proteção individual e da higienização de materiais e veículos.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+  },
+  "202132138": {
+   "fragment_id": "140821561",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Equipamentos de proteção individual",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 7.º-C — Equipamentos de proteção individual\n\n1 - Compete à ANEPC distribuir às AHB os equipamentos de proteção individual necessários e suficientes para que cada corpo de bombeiros possa cumprir as suas missões no âmbito da pandemia da doença COVID-19 em condições de segurança.\n\n2 - Compete igualmente à ANEPC suportar os custos do material para a prevenção e mitigação da pandemia da doença COVID-19, nas atividades do Dispositivo Especial de Combate a Incêndios Rurais, para cumprimento da Instrução Operacional n.º 2/2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+  },
+  "202132139": {
+   "fragment_id": "140629276",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Seguros de acidentes pessoais e de trabalho",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+   ],
+   "markdown": "###### Artigo 7.º-D — Seguros de acidentes pessoais e de trabalho\n\nO Governo adota as medidas legislativas e regulamentares necessárias para garantir:\n\na) A melhoria dos valores e condições de cobertura dos seguros de acidentes pessoais e de acidentes de trabalho dos bombeiros, por morte ou invalidez permanente, incapacidade temporária e absoluta e tratamentos médicos;\n\nb) A incorporação nas apólices de seguro da cobertura dos riscos de contágio por doença infetocontagiosa.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 42/2020 - Diário da República n.º 160/2020, Série I de 2020-08-18](https://diariodarepublica.pt/dr/detalhe/lei/42-2020-140431168), em vigor a partir de 2020-08-23"
+  },
+  "202132140": {
+   "fragment_id": "132783819",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nO disposto no artigo anterior produz efeitos a 1 de janeiro de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132141": {
+   "fragment_id": "132783820",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132142": {
+   "fragment_id": "132783821",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de abril de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita.\n\nPromulgado em 28 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 29 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113215185\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

@@ -1,0 +1,256 @@
+---
+schema_version: '1.0'
+id: pt:dre:139679806:por
+title: Acórdão do Tribunal Constitucional n.º 423/2020
+short_title: null
+summary: Decide ter por verificada a constitucionalidade e a legalidade do referendo local que a Assembleia Municipal de Chaves,
+  na sua reunião ordinária de 30 de junho de 2020, deliberou realizar
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 423/2020
+official_date: null
+publication_date: '2020-08-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/2020, Série I de 2020-08-06
+  number: '152'
+  series: I
+  supplement: null
+  pages: 34 - 38
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15200/0003400038.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/actconst/423/2020/08/06/p/dre/pt/html
+  oj: null
+  dre: '139679806'
+  dre_path: /dr/detalhe/acordao-tribunal-constitucional/423-2020-139679806
+  internal: pt:dre:139679806:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/423-2020-139679806
+  metadata_url: https://data.dre.pt/eli/actconst/423/2020/08/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/423-2020-139679806
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:25:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 57056234a72c90ef5913c2c7407140771cdedad2329572c421ae5fdcc6bf4959
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:25:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Municipal
+- Autarquia Local
+- Chaves
+- Inconstitucionalidade
+- Legalidade
+- Referendo Local
+relationships:
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+- type: cites
+  target: pt:dre:132883356:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/20/2020/05/01/p/dre
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/115/2012/05/25/p/dre
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: http://data.dre.pt/eli/leiorg/4/2000/08/24/p/dre
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:25:04Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 423/2020
+
+Processo n.º 525/2020
+
+Acordam, em Plenário, no Tribunal Constitucional
+
+I - Relatório
+
+1 - O Presidente da Assembleia Municipal de Chaves submeteu ao Tribunal Constitucional, para efeitos de fiscalização preventiva da constitucionalidade e da legalidade, ao abrigo do disposto no artigo 25.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na redação atualmente em vigor (LORL), a deliberação de realização de um referendo local sobre a reabertura da ponte romana ao trânsito automóvel, tomada na sessão ordinária dessa Assembleia Municipal de 30 de junho de 2020.
+
+2 - O requerimento vem instruído com (i) cópia da proposta de referendo local, subscrita pelo Presidente da Câmara Municipal de Chaves, e datada de 12 de junho de 2020; (ii) certidão com um extrato da reunião da Câmara Municipal de Chaves de 22 de junho de 2020, na qual tal proposta foi aprovada; e (iii) certidão da reunião da Assembleia Municipal, com um extrato referente ao decidido quanto à realização do referendo.
+
+3 - A solicitação do relator foram juntos os seguintes documentos:
+
+Cópia parcial da ata - aprovada em minuta - da reunião da Câmara Municipal de Chaves de 22 de junho de 2020, na qual a proposta de referendo foi aprovada e foi deliberado remetê-la à Assembleia Municipal da Chaves;
+
+Cópia parcial da ata - aprovada em minuta - da sessão ordinária de 30 de junho de 2020, da Assembleia Municipal de Chaves, na qual a proposta relativa à realização do referendo foi aprovada.
+
+4 - Tendo sido apresentado no dia 6 de julho de 2020, o pedido foi liminarmente admitido por despacho do Presidente do Tribunal Constitucional, que ordenou a distribuição do processo, nos termos dos artigos 28.º, n.º 3, e 29.º, n.º 1, da LORL.
+
+5 - Apresentado o memorando a que se refere o n.º 2 do artigo 29.º da LORL, e fixada a orientação do Tribunal, cabe prolatar acórdão, nos termos do n.º 3 do artigo 30.º do mesmo diploma.
+
+II - Fundamentação
+
+6 - Compulsados os autos, tem-se por assente, com relevância para a decisão:
+
+i) Em 22 de junho de 2020, o Presidente da Câmara de Chaves submeteu a Reunião de Câmara uma proposta de referendo local, com o seguinte teor:
+
+«I - Enquadramento
+
+1 - Considerando que existem matérias de relevante interesse local que devem ser decididas pelos órgãos autárquicos municipais e que se integram nas suas competências, quer exclusivas quer partilhadas com o Estado ou com as Regiões Autónomas, sendo certo que, embora possam consubstanciar matérias controversas, carecem de uma resposta necessária, adequada e proporcional ao interesse público, porquanto se afiguram estruturantes para o município e cruciais para o bem-estar dos munícipes e da coletividade, especialmente à luz da previsão constante no n.º 1 do artigo 3.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na ulterior redação;
+
+2 - Considerando que o poder de iniciativa para o referendo local é competência, a par de outros órgãos, da câmara municipal, cujo âmbito perpassa por chamar a pronunciarem-se os cidadãos eleitores recenseados na área territorial correspondente à autarquia local, atento o quadro legal plasmado no artigo 2.º e no artigo 10.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na ulterior redação, bem como o disposto no artigo 240.º da Constituição da República Portuguesa;
+
+3 - Considerando que a 'determinação das matérias a submeter a referendo local obedece aos princípios da unidade e subsidiariedade do Estado, da descentralização, da autonomia local e da solidariedade interlocal', em sintonia com a previsão constante no n.º 2 do artigo 3.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na ulterior redação;
+
+4 - Considerando que a matéria ora em análise, e a seguir detalhada, não consta da lista expressamente excluída do âmbito do referendo local, elencada no artigo 4.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na ulterior redação;
+
+5 - Considerando que os atos em procedimento de decisão, ainda não definitivamente aprovados, podem consubstanciar objeto de referendo local, sendo certo que os procedimentos suspender-se-ão até a deliberação da Assembleia Municipal e posterior decisão do Tribunal Constitucional, ex vi o disposto no artigo 5.º, em conjugação com o disposto nos artigos 23.º e 25.º, todos da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na ulterior redação;
+
+6 - Considerando que nenhum referendo pode comportar mais de três perguntas, e que estas devem ser formuladas com objetividade, clareza e precisão e para respostas de sim ou não, sem sugerirem direta ou indiretamente o sentido das respostas, e, que as perguntas não podem ser precedidas de quaisquer considerandos, preâmbulos ou notas explicativas, atenta a previsão do artigo 7.º [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na ulterior redação;
+
+Considerando ainda que:
+
+7 - A Ponte Romana de Chaves, monumento nacional classificado com mais de 1900 anos, representa hoje para todos os flavienses um legado de enorme valor patrimonial, não só devido à sua representação de simbolismo e identidade que o património dá aos territórios, mas também devido ao seu valor cultural como produto turístico que vale hoje muitos milhares de euros para a economia local;
+
+8 - A Ponte Romana de Chaves, um dos ex-libris do concelho, patenteia atualmente um dos melhores legados romanos da antiga Aquae Flaviae, e que teve ao longo da sua história um papel importante na mobilidade pedonal, de circulação de mercadorias e de circulação automóvel entre as duas margens;
+
+9 - A Ponte Romana foi objeto de uma intervenção de reabilitação e conservação no ano de 2008, uma intervenção após a qual foi tomada a decisão política da sua pedonização;
+
+10 - A passagem da Ponte Romana a pedonal gerou um forte descontentamento dos comerciantes localizados na antiga freguesia da Madalena, hoje União das freguesias de Madalena e Samaiões;
+
+11 - A decisão da abertura ou não Ponte Romana ao trânsito automóvel é uma matéria controversa nos munícipes, onde os argumentos que defendem a sua pedonização salientando o seu valor patrimonial e turístico, são contraditados com os argumentos da importância de ligação entre as duas margens e de dinamização da economia do centro histórico da Madalena;
+
+12 - Existe o compromisso de, no decorrer deste mandato autárquico, propor a realização de um referendo local, onde os flavienses se possam pronunciar sobre a reabertura da Ponte Romana de Chaves ao trânsito de veículos automóveis ligeiros.
+
+II - Da proposta
+
+Face ao enquadramento exposto, a proposta de referendo de âmbito local comporta, no caso concreto em apreço, uma pergunta:
+
+Concorda com a reabertura da Ponte Romana de Chaves ao trânsito de veículos automóveis ligeiros, num único sentido? Sim/Não
+
+Assim, em coerência com as razões de facto e de direito enunciadas, tomo a liberdade de sugerir a adoção da seguinte estratégia procedimental:
+
+a) Agendamento do presente assunto para a próxima reunião da Câmara, em vista a que tal órgão executivo tome uma decisão sobre a proposta de deliberação, atento o poder de iniciativa para o efeito plasmado no artigo 10.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na redação atual;
+
+b) Sequencialmente, e caso a presente proposta seja aprovada nos termos anteriormente sugeridos, deverá a mesma ser agendada para a próxima sessão da Assembleia Municipal para ulterior sancionamento do aludido órgão deliberativo da Autarquia, conforme previsto no artigo 23.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na redação atual, e na alínea e) do n.º 2 do artigo 25.º do Anexo I, da [Lei n.º 75/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/500023/details/normal?l=1), de 12 de setembro, na redação atual;
+
+c) Por último, caso haja um sancionamento favorável do órgão deliberativo, deverá o seu presidente, no prazo de oito dias a contar da deliberação, submeter a proposta ao Tribunal Constitucional, para efeitos de fiscalização preventiva da constitucionalidade e da legalidade, à luz da previsão constante no artigo 25.º da [Lei Orgânica n.º 4/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/330217/details/normal?l=1), de 24 de agosto, na redação atual.»
+
+ii) Na Reunião da Câmara Municipal de Chaves de 22 de junho de 2020, foi deliberado, por maioria dos membros presentes, aprovar a proposta.
+
+iii) Reunida em sessão ordinária no dia 30 de junho de 2020, a Assembleia Municipal de Chaves deliberou aprovar por maioria dos membros presentes a referida proposta de referendo local, com a seguinte pergunta: «Concorda com a reabertura da Ponte Romana de Chaves ao trânsito de veículos automóveis ligeiros, num único sentido?»
+
+iv) Por ofício datado de 3 de julho de 2020, dirigido ao Presidente do Tribunal Constitucional, o Presidente da Assembleia Municipal de Chaves remeteu tal deliberação, com vista a fiscalização preventiva da constitucionalidade e da legalidade, nos termos do artigo 25.º da LORL.
+
+v) O mencionado ofício deu entrada no Tribunal Constitucional no dia 6 de julho de 2020.
+
+vi) Por despacho do Presidente do Tribunal Constitucional, datado de 7 de julho de 2020, foi determinada a distribuição do processo.
+
+7 - Compete ao Tribunal Constitucional, em fiscalização preventiva, verificar a constitucionalidade e a legalidade do referendo [artigos 223.º, n.º 2, alínea f), da Constituição, 11.º e 105.º da Lei do Tribunal Constitucional, e artigos 25.º e seguintes da LORL].
+
+O requerente tem legitimidade para o pedido de fiscalização preventiva do referendo local, na qualidade de presidente do órgão da autarquia que deliberou a sua realização (artigo 25.º da LORL).
+
+No caso presente - e tratando-se de referendo municipal - a iniciativa referendária foi exercida pela Câmara Municipal de Chaves, assumindo a forma de proposta de deliberação, em conformidade com o disposto nos artigos 10.º, n.º 1 e 11.º, ambos da LORL.
+
+A Assembleia Municipal, a quem cabe deliberar sobre a realização do referendo, por se tratar de um referendo de âmbito municipal, pronunciou-se dentro do prazo fixado no artigo 24.º, n.º 1, da LORL, após a receção da iniciativa referendária, e por maioria de votos, em conformidade com o que prevê o n.º 5 desse artigo 8cf. artigos 23.º da LORL e 25.º, n.º 2, alínea e), da [Lei n.º 75/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/500023/details/normal?l=1), de 12 de setembro, que estabelece o Regime Jurídico das Autarquias Locais].
+
+A proposta de deliberação foi aprovada pela Assembleia Municipal, em 30 de junho de 2020, dentro do prazo estipulado pelo artigo 24.º, n.º 1, da LORL, e o requerimento deu entrada no Tribunal Constitucional no dia 6 de julho, e, por isso, também dentro do prazo legalmente previsto para a sujeição a fiscalização preventiva (artigo 25.º da LORL).
+
+8 - O pedido contém o texto da deliberação, através da indicação da proposta n.º 39/GAP/20 e menção da respetiva aprovação, e encontra-se suficientemente instruído, ainda que com cópia da minuta da ata da sessão em que foi tomada a deliberação, assinada pelo Presidente da Mesa, pelos 1.º e 2.º Secretário da Mesa e pela trabalhadora designada para o efeito, Maria de Fátima Machado, nos termos permitidos pelo artigo 57.º, n.os 3 e 4, da [Lei n.º 75/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/500023/details/normal?l=1), de 12 de setembro, e pelo artigo 34.º, n.os 4 e 6, do Código do Procedimento Administrativo.
+
+É jurisprudência constante do Tribunal (Acórdãos do TC n.os 100/2009, 394/10, 391/12 e 400/2012), que a elaboração e aprovação de minuta da ata no final da sessão em que foi tomada a deliberação referendária atinge valor certificativo equivalente ao da ata aprovada em sessão posterior, e confere, nos mesmos termos, imediata eficácia externa à deliberação (n.º 4 do artigo 57.º da [Lei n.º 75/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/500023/details/normal?l=1), de 12 de setembro).
+
+Assim, e apesar de não corresponder literalmente à exigência decorrente do artigo 28.º, n.º 1, da LORL - que impõe que o pedido seja «acompanhado do texto da deliberação e de cópia da ata da sessão em que tiver sido tomada» - , em conformidade com a referida jurisprudência, deve interpretar-se extensivamente o segmento normativo ata da sessão, de forma a contemplar a minuta da ata elaborada e aprovada nos termos das referidas disposições legais.
+
+Resta apreciar a constitucionalidade e a legalidade da deliberação de referendo.
+
+9 - O artigo 8.º da LORL estabelece que «[n]ão pode ser praticado nenhum ato relativo à convocação ou à realização de referendo entre a data de convocação e a de realização de eleições gerais para os órgãos de soberania, eleições do governo próprio das Regiões Autónomas e do poder local, dos deputados ao Parlamento Europeu, bem como de referendo regional autonómico ou nacional».
+
+Nos termos do artigo 19.º da Lei Eleitoral da Assembleia Legislativa da Região Autónoma dos Açores «as eleições [dos deputados à Assembleia Legislativa] realizam-se, normalmente, entre o dia 28 de Setembro e o dia 28 de Outubro do ano correspondente ao termo da legislatura», o que poderia obstar à realização da consulta popular, nos termos do artigo 32.º e ss da LORL (isto, evidentemente, no caso de as eleições virem a ser convocadas para tal data, o que ainda não ocorreu).
+
+Porém, como o Tribunal tem afirmado, nos Acórdãos n.º 435/2011, 391/2012 e 400/2012, quando, in casu, não exista sobreposição entre o âmbito territorial da eleição e o do referendo local - daí resultando não existir qualquer coincidência entre os dois colégios de cidadãos chamados ao sufrágio -, tal limite temporal não deve aplicar-se. É essa a situação que se verifica no caso em apreço, pois o referendo local que se deliberou convocar diz respeito a um município que não pertence à Região Autónoma dos Açores, onde poderá ocorrer a eleição dos deputados à respetiva Assembleia Legislativa.
+
+Afasta-se, assim a violação dos limites temporais previstos no artigo 8.º da LORL
+
+10 - O artigo 240.º da Constituição autoriza as autarquias locais a submeterem a «referendo dos respetivos cidadãos eleitores matérias incluídas nas competências dos seus órgãos, nos casos, nos termos e com a eficácia que a lei estabelecer».
+
+A Assembleia Municipal de Chaves deliberou consultar o eleitorado municipal sobre a seguinte questão: «Concorda com a reabertura da Ponte Romana de Chaves ao trânsito de veículos automóveis ligeiros, num único sentido?».
+
+É inequívoco que compete à Assembleia Municipal pronunciar-se sobre esta consulta, nos termos do artigo 25.º, n.º 2, alínea e), da [Lei n.º 75/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/500023/details/normal?l=1), de 12 de setembro.
+
+11 - Apreciemos agora a legalidade do objeto ou matéria do referendo local.
+
+O referendo tem por objeto a reabertura da Ponte Romana de Chaves ao trânsito de veículos automóveis que, conforme se refere na proposta de referendo, é monumento nacional classificado com mais de 1900 anos, que representa para todos os flavienses um legado de enorme valor patrimonial, não só devido à sua representação de simbolismo e identidade que o património dá aos territórios, mas também devido ao seu valor cultural como produto turístico que vale hoje muitos milhares de euros para a economia local, constituindo a decisão da abertura ou não da Ponte Romana ao trânsito automóvel uma matéria controversa entre os munícipes, onde os argumentos que defendem a manutenção da sua utilização pedonal, salientando o seu valor patrimonial e turístico, são contraditados com os argumentos relativos à importância da ligação entre as duas margens e à dinamização da economia do centro histórico da Madalena.
+
+Nos termos do artigo 3.º, n.º 1, da LORL, o referendo local só pode ter por objeto questões de relevante interesse local que devam ser decididas pelos órgãos autárquicos municipais ou de freguesia e que se integrem nas suas competências, quer exclusivas quer partilhadas com o Estado ou com as Regiões Autónomas. É o que sucede com as atribuições em matérias de transportes e comunicações, património, cultura e ciência e de ordenamento do território e urbanismo [alíneas c), e) e n) do n.º 2 do artigo 23.º do Regime Jurídico das Autarquias Locais].
+
+Não se trata de matéria que contenda com os princípios da unidade e subsidiariedade do Estado, da descentralização, da autonomia local e da solidariedade interlocal, para os efeitos do disposto no n.º 2 do artigo 3.º da LORL, nem se verifica qualquer das situações expressamente excluídas do âmbito de tal referendo (cf. o artigo 4.º do mesmo diploma).
+
+Sublinhe-se, ainda, que a vinculatividade do referendo significa tão-somente que os órgãos municipais ficam obrigados - obviamente nos limites das suas competências - a empreender todos os procedimentos e a promover o cumprimento de todas as formalidades legais de que depende a concretização dos resultados do referendo, maxime o cumprimento das exigências legais previstas no regime decorrente da classificação como monumento nacional [[Decreto-Lei n.º 115/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/177827/details/normal?l=1), de 25 de maio, nomeadamente o artigo 2.º, n.º 2, alínea g)]. O referendo não se destina, claro, a autorizar os órgãos autárquicos a violar o quadro legal aplicável. Parece fazer sentido que esta fase procedimental suceda ao apuramento do resultado do referendo e, naturalmente, apenas se este for favorável.
+
+Conclui-se, assim, que nenhum obstáculo legal existe à consulta popular relativamente a esta matéria.
+
+12 - Cabe agora apreciar se a pergunta formulada reúne as exigências legais.
+
+Dispõe o artigo 7.º, n.º 1, da LORL que nenhum referendo pode comportar mais do que três perguntas. Trata-se de uma exigência respeitada no caso vertente, visto que a deliberação incide sobre uma única pergunta.
+
+Mostra-se igualmente verificada a condição prevista no n.º 3 do artigo 7.º do mesmo diploma, segundo a qual as perguntas não podem ser precedidas de quaisquer considerandos, preâmbulos ou notas explicativas.
+
+Nos termos do n.º 2 do mesmo artigo, «as perguntas são formuladas com objetividade, clareza e precisão e para respostas de sim ou não, sem sugerirem direta ou indiretamente o sentido das respostas».
+
+13 - Recorde-se que a pergunta é a seguinte: «Concorda com a reabertura da Ponte Romana de Chaves ao trânsito de veículos automóveis ligeiros, num único sentido?».
+
+Não oferece dúvida que a questão é de resposta sim ou não, como exige o n.º 2 do artigo 7.º da LORL. Tal como está formulada, também não resulta da pergunta qualquer sugestão relativamente ao sentido das respostas.
+
+Constata-se igualmente que o objeto da concordância (ou discordância) que se questiona é enunciado de forma absolutamente clara e objetiva, não dando azo a qualquer ambiguidade ou obscuridade. A pergunta não tem qualquer complexidade que possa dificultar o seu entendimento, sendo formulada de modo simples e direto.
+
+Importa, assim, dar por verificados os requisitos do artigo 7.º, n.º 2, da LORL.
+
+III - Decisão
+
+Pelo exposto, o Tribunal Constitucional decide ter por verificada a constitucionalidade e a legalidade do referendo local que a Assembleia Municipal de Chaves, na sua reunião ordinária de 30 de junho de 2020, deliberou realizar.
+
+Lisboa, 15 de julho de 2020. - João Pedro Caupers - José Teles Pereira - Fernando Vaz Ventura - Maria de Fátima Mata-Mouros - Gonçalo Almeida Ribeiro - Joana Fernandes Costa - Mariana Canotilho - José João Abrantes - Maria José Rangel de Mesquita - Assunção Raimundo - Pedro Machete - Atesto o voto de conformidade do Juiz Conselheiro Lino Ribeiro, nos termos do disposto no artigo 15.º-A do [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/130243053/details/normal?l=1), de 13 de março (aditado pelo artigo 3.º do [Decreto-Lei n.º 20/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/132883356/details/normal?l=1), de 1 de maio), João Pedro Caupers.
+
+113450758

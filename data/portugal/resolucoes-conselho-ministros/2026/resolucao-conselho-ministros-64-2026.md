@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:1078137065:por
+title: Resolução do Conselho de Ministros n.º 64/2026
+short_title: null
+summary: Designa, sob proposta do Conselho Metropolitano do Porto, vogal executivo do conselho de administração da Unidade
+  Local de Saúde de Gaia/Espinho, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 64/2026
+official_date: null
+publication_date: '2026-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2026, Série I de 2026-03-30
+  number: '62'
+  series: I
+  supplement: null
+  pages: 3 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/03/06200/0000300004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/64/2026/03/30/p/dre/pt/html
+  oj: null
+  dre: '1078137065'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/64-2026-1078137065
+  internal: pt:dre:1078137065:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-2026-1078137065
+  metadata_url: https://data.dre.pt/eli/resolconsmin/64/2026/03/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/64-2026-1078137065
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b18a2e5afe3ab6c2ba2e048bf16287fba20cca3f6970f2b75ba575333243ac27
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:36:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Administração
+- Conselho de Ministros
+- Governo XXV
+- Nomeação
+- Regulamentação de Atos Legislativos
+- Unidade Local de Saúde de Gaia/Espinho
+- Vogal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/52/2022/08/04/p/dre
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:542993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:908735411:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/32-a/2025/02/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:36:49Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 64/2026
+
+Tendo em vista melhorar a prestação de cuidados de saúde e reforçar o acesso das populações abrangidas, garantindo que todos os cidadãos tenham acesso a cuidados de saúde de qualidade e de forma tempestiva e equitativa, o Governo tem procurado implementar um conjunto de medidas que reforcem a capacidade de resposta do Serviço Nacional de Saúde (SNS).
+
+Para se alcançar este desiderato, ou seja, fortalecer a capacidade de resposta das entidades integradas no SNS, é necessário que a respetiva gestão seja assegurada por um conselho de administração capaz de adotar estratégias eficazes, quer de planeamento quer de gestão eficiente dos recursos disponíveis.
+
+Considerando a proposta do Conselho Metropolitano do Porto para o cargo de vogal executivo do conselho de administração da Unidade Local de Saúde de Gaia/Espinho, E. P. E., cargo que se encontra vago, importa proceder à designação da personalidade indicada, para completar o mandato em curso do atual conselho de administração, designado pela [Resolução do Conselho de Ministros n.º 32-A/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-a-2025-908735411), de 24 de fevereiro.
+
+A remuneração dos membros do conselho de administração da Unidade Local de Saúde de Gaia/Espinho, E. P. E., obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre a designação constante da presente resolução.
+
+Assim:
+
+Nos termos dos n.os2, 4 e 5 do artigo 69.º e do n.º 1 do artigo 77.º do [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, do artigo 12.º, dos n.os1 a 3 do artigo 13.º, do artigo 15.º, da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, para exercer funções no conselho de administração da Unidade Local de Saúde de Gaia/Espinho, E. P. E., o vogal executivo José Carlos Cidade Rodrigues de Oliveira, cuja idoneidade, experiência e competências profissionais para o desempenho do cargo são evidenciadas na respetiva nota curricular, que consta do anexo à presente resolução e da qual faz parte integrante.
+
+2 - Estabelecer que a presente designação é feita pelo período restante do mandato em curso dos membros do mesmo conselho de administração.
+
+3 - Autorizar o designado José Carlos Cidade Rodrigues de Oliveira a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público, devendo a acumulação de funções ora autorizada ser exercida em horário e de forma a não colidir com o exercício das funções para as quais está a ser designado.
+
+4 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 12 de março de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO — (a que se refere o n.º 1)
+
+Nota curricular
+
+José Carlos Cidade Rodrigues de Oliveira.
+
+Doutor em Geografia, desde 2021, pela Faculdade de Letras da Universidade do Porto, mestre em Direito das Autarquias Locais pela Escola de Direito da Universidade do Minho e licenciado em Administração Pública pelo ISPGaya. Complementarmente, concluiu em 2023, a pós-graduação em Gestão na Saúde na Católica Porto Business School, consolidando competências avançadas de gestão e coordenação aplicadas ao setor da saúde.
+
+Ao longo da sua carreira, tem desempenhado funções técnicas e de coordenação em diversas instituições de referência. Atualmente exerce funções de técnico superior e gestor de ensino no Serviço de Formação da Unidade Local de Saúde Gaia e Espinho, após ter desempenhado funções equivalentes no Departamento Financeiro e no Serviço de Formação do Centro Hospitalar de Vila Nova de Gaia/Espinho. Entre 2020 e 2021 desempenhou o cargo de assessor do vogal com o pelouro financeiro do conselho de administração da mesma instituição, tendo anteriormente exercido funções de coordenador de logística e serviços gerais quer no Centro Hospitalar de Vila Nova de Gaia/Espinho, quer na Santa Casa da Misericórdia do Porto.
+
+O seu percurso profissional inclui ainda funções como técnico superior no Serviço de Equipamentos e Eletromedicina e nos Serviços Gerais e Hoteleiros do Centro Hospitalar de Vila Nova de Gaia/Espinho. Entre 2003 e 2009 assumiu responsabilidades executivas enquanto presidente da Junta de Freguesia da Vila da Madalena. Detém igualmente uma ampla experiência no setor farmacêutico, onde desempenhou, entre 1992 e 2003, funções como delegado de informação médica e gestor de zona em várias empresas de prestígio. É desde 2018, presidente da Direção da «OnGaia - Associação de Defesa do Ambiente».
+
+Desenvolveu igualmente uma atividade científica e formativa de destaque, tendo lecionado em várias edições da pós-graduação em Gestão Municipal da Proteção Civil do ISCIA - Aveiro, onde ministrou as unidades curriculares de Legislação Fundamental da Proteção Civil e Gestão Autárquica da Proteção Civil, bem como sessões no mestrado em Direito Administrativo da Escola de Direito da Universidade do Minho. A sua produção académica inclui a publicação de artigos em revistas científicas especializadas, nomeadamente sobre a proteção civil, a articulação entre corpos de bombeiros e a organização territorial, além de contributos como coautor em obras de âmbito histórico e local. Participou ainda como palestrante em múltiplos congressos, encontros e ciclos de conferências, nacionais e internacionais, apresentando comunicações sobre proteção civil, gestão do socorro, sustentabilidade dos corpos de bombeiros e dinâmicas territoriais, reforçando a sua ligação à investigação e à difusão científica.
+
+119948104

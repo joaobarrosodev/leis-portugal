@@ -1,0 +1,279 @@
+---
+schema_version: '1.0'
+id: pt:dre:170221047:por
+title: Decreto Legislativo Regional n.º 22/2021/M
+short_title: null
+summary: Procede à primeira alteração ao Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto, e cria regras excecionais
+  para a avaliação do desempenho das carreiras de enfermagem no biénio de 2019-2020
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 22/2021/M
+official_date: null
+publication_date: '2021-08-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/2021, Série I de 2021-08-26
+  number: '166'
+  series: I
+  supplement: null
+  pages: 45 - 48
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16600/0004500048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-06-29'
+version_history:
+  file: decreto-legislativo-regional-22-2021-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-06-29'
+    amending: pt:dre:214870723:por
+    amending_title: Decreto Legislativo Regional n.º 23/2023/M
+    changes:
+    - Altera Artigo 4.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/22/2021/m/cons/20230628/pt/html
+  oj: null
+  dre: '170221047'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/22-2021-170221047
+  internal: pt:dre:170221047:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2021-170221047
+  metadata_url: https://data.dre.pt/eli/declegreg/22/2021/m/cons/20230628/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-170285381
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-170285381
+  retrieved_at: '2026-10-22T12:45:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7f94a6e6b22125443e42de880704e5ec51709808a547bf3d605096c63835c6b6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:45:33Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-22-2021-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Carreira Profissional
+- Interpretação do Direito
+- Pessoal de Enfermagem
+- Madeira.região Autónoma
+- Progressão na Carreira
+- Promoção Profissional
+- Quota de Descongelamento
+- Remuneração
+- Sesaram
+- Avaliação do Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:214870723:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2023-214870723
+  date: '2023-06-28'
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+- type: cites
+  target: pt:dre:123666152:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/7/2019/08/05/m/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:309024:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/122/2010/11/11/p/dre
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:490413:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/248/2009/09/22/p/dre
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:45:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 22/2021/M
+
+Decreto Legislativo Regional n.º 22/2021/M
+
+Sumário: Procede à primeira alteração ao Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto, e cria regras excecionais para a avaliação do desempenho das carreiras de enfermagem no biénio de 2019-2020.
+
+Procede à primeira alteração ao Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto, e cria regras excecionais para a avaliação do desempenho das carreiras de enfermagem no biénio de 2019-2020
+
+O Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto, veio estabelecer as regras e procedimentos a serem adotados pelo, então denominado, Serviço de Saúde da Região Autónoma da Madeira, E. P. E., SESARAM, E. P. E., no âmbito do processo de descongelamento das carreiras de enfermagem.
+
+Na sua execução, trabalhadores da carreira de enfermagem, posicionados numa determinada categoria, mas com menos antiguidade, ficaram beneficiados, a final, em termos remuneratórios em relação a outros, detentores da mesma categoria, mas com mais antiguidade.
+
+Esta situação é violadora do corolário do princípio da igualdade, constitucionalmente consagrado. É jurisprudência constitucional que, por uma questão de justiça, quando o trabalho prestado for igual em quantidade, natureza e qualidade seja igual a remuneração, mas a remuneração deve ser diferente, pagando-se mais a quem tiver melhores habilitações ou mais tempo de serviço, sendo que, deste modo, se concretizará o que se exige no preceito constitucional do princípio da igualdade.
+
+Outra situação que merece clarificação é a de que o referido decreto legislativo regional, ao não ter regulado o descongelamento de forma exaustiva, tornou necessário para a concretização desse processo a aplicação, sem prejuízo das especificidades constantes do diploma ora objeto de alteração, do disposto no artigo 18.º da Lei n.º 114/2017, de 29 de dezembro, e do previsto na Lei Geral do Trabalho em Funções Públicas, aplicável em virtude do acordado em sede de negociação coletiva.
+
+Por outro lado, desde março de 2020 que se vive na Região Autónoma da Madeira uma situação de pandemia, provocada pela doença COVID-19, declarada pela Organização Mundial de Saúde como pandemia internacional.
+
+Tal situação exigiu esforços redobrados no Sistema Regional de Saúde e uma total reestruturação da organização dos serviços, bem como na forma de prestação de cuidados de saúde, para que o Serviço Regional de Saúde tivesse, como tem tido até ao momento, uma resposta adequada no combate à pandemia.
+
+Consequentemente, todos os objetivos traçados, no âmbito do SIADAP, para o biénio de 2019-2020, sofreram diversas e sucessivas alterações, na senda dessa reestruturação da organização do SESARAM, E. P. E., com especial incidência nos trabalhadores das carreiras de enfermagem.
+
+São, pois, estas as razões que justificam, plenamente, que no âmbito do presente diploma se consagre, a título excecional, independentemente do vínculo e da existência de avaliação, a atribuição de 4 pontos no biénio de 2019-2020 aos trabalhadores das carreiras de enfermagem do SESARAM, E. P. E.
+
+Foram observados os procedimentos de auscultação estabelecidos no Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na redação atual, e na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na redação atual.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º e nas alíneas m) e nn) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à primeira alteração ao Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto, que estabelece as regras e procedimentos a serem adotados pelo Serviço de Saúde da Região Autónoma da Madeira, E. P. E. - SESARAM, E. P. E. - no âmbito do processo de descongelamento das carreiras de enfermagem, e cria regras excecionais para a avaliação do desempenho das carreiras de enfermagem no biénio de 2019-2020.
+
+###### Artigo 2.º — Alteração ao Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto
+
+O artigo 3.º do Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto, passa a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - Para efeitos do previsto no n.º 1 do presente artigo, a atribuição dos pontos ocorre desde a última alteração de posição remuneratória, a qualquer título, e antes do ano de 2018, com exceção do previsto no número seguinte.
+
+5 - Para efeitos do disposto na parte final do número anterior, não é considerado como alteração de posição remuneratória as situações seguidamente identificadas:
+
+a) Qualquer mudança de, e na categoria, ou respetiva transição, que tenha ocorrido ao abrigo do disposto no Decreto-Lei n.º 437/91, de 8 de novembro, entre 1 de janeiro de 2004 e 29 de agosto de 2005, nas situações em que a mesma ocorreu por imposição legal, de forma automática e oficiosa, e não por procedimento concursal;
+
+b) O reposicionamento remuneratório ocorrido em virtude da transição para a carreira especial de enfermagem, prevista no artigo 5.º do Decreto-Lei n.º 122/2010, de 11 de novembro, na sua redação atual, e da transição para a carreira de enfermagem prevista na cláusula do Acordo de Empresa publicado no Jornal Oficial da Região Autónoma da Madeira, 3.ª série, n.º 24, de 16 de dezembro de 2015, não é considerado, para os devidos efeitos legais, como alteração da posição remuneratória, mas sim como um reconhecimento da habilitação académica e correspondente remuneração;
+
+c) Progressões do primeiro para o segundo escalão da categoria de enfermeiro graduado, ocorridas entre 1 de janeiro de 2004 e 29 de agosto de 2005;
+
+d) Progressões ou alterações remuneratórias derivadas do desempenho de funções como enfermeiro formador;
+
+e) Progressões ou alterações remuneratórias advenientes da aquisição de graus académicos;
+
+f) Progressões ou alterações remuneratórias derivadas de aprovação em concurso de provas públicas entre 2007 e 2009, incluindo as situações previstas no n.º 2 do artigo 27.º do Decreto-Lei n.º 248/2009, de 22 de setembro, para a então existente categoria de enfermeiro especialista, sempre que das mesmas resulte um posicionamento remuneratório inferior ao de trabalhadores enfermeiros especialistas com menor antiguidade.
+
+6 - Nas alterações obrigatórias de posicionamento remuneratório a efetuar após 1 de janeiro de 2018, quando o trabalhador enfermeiro tenha acumulado até 31 de dezembro de 2017 mais do que os pontos legalmente exigidos para aquele efeito, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório.
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]»
+
+###### Artigo 3.º — Aditamento ao Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto
+
+É aditado ao Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto, o artigo 3.º-A, com a seguinte redação:
+
+«Artigo 3.º-A
+
+Regime excecional de avaliação do desempenho do biénio de 2019-2020, no âmbito da pandemia da doença COVID-19
+
+1 - Na avaliação de desempenho do biénio de 2019-2020, são atribuídos 4 pontos aos profissionais das carreiras de enfermagem do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., independentemente do vínculo e da existência de avaliação.
+
+2 - Caso haja lugar, no biénio referido no número anterior, à atribuição de mais do que 4 pontos, em consequência de requerimento de avaliação por ponderação curricular, é essa a pontuação que releva.
+
+3 - Para efeito do disposto nos números anteriores, quando os trabalhadores tenham acumulado mais do que os pontos legalmente exigidos para a alteração da posição remuneratória, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório.»
+
+###### Artigo 4.º — Norma interpretativa
+
+1 - No âmbito da Região Autónoma da Madeira, a aplicabilidade do disposto nos artigos 8.º e 9.º do Decreto-Lei n.º 71/2019, de 27 de maio, na sua atual redação, abrange, também, para a transição para a categoria de enfermeiro gestor e de enfermeiro especialista, os enfermeiros que, à data da entrada em vigor do referido diploma se encontravam a exercer funções de membros de gabinete, funções de direção ou quaisquer outras funções de interesse público.
+
+2 - No âmbito da Região Autónoma da Madeira, a aplicabilidade do disposto no artigo 3.º do Decreto-Lei n.º 27/2018, de 27 de abril, abrange os postos de trabalho a aprovar por despacho conjunto dos membros do Governo Regional responsáveis pela área das finanças e da saúde, correspondentes ao levantamento do número de enfermeiros detentores do título de enfermeiro especialista que, entre 1 de janeiro de 2018 e 31 de maio de 2019, exerciam as funções a que se referem os n.os 2 dos artigos 9.º dos Decretos-Leis n.os 247/2009 e 248/2009, ambos de 22 de setembro.
+
+3 - Para efeitos do disposto no número anterior, considera-se que os enfermeiros reúnem os requisitos para a transição prevista no disposto no n.º 2 do artigo 8.º do Decreto-Lei n.º 71/2019, de 27 de maio, na sua atual redação, desde 1 de junho de 2019.
+
+4 - Para efeitos do disposto nos n.os 1 e 3 do presente artigo, aos trabalhadores abrangidos por essas transições, independentemente do vínculo, reconhece-se o reposicionamento na posição remuneratória da tabela constante do anexo i do referido Decreto-Lei n.º 71/2019, de 27 de maio, consoante o caso de enfermeiro especialista e de chefia, respetivamente de (euro) 150 e (euro) 200, desde a data da cessação das funções referidas no n.º 1 ou desde 1 de junho de 2019, nos termos do previsto no número seguinte.
+
+5 - Determina-se que o reposicionamento na tabela remuneratória e integração do suplemento remuneratório devido pelo exercício de funções de enfermeiro especialista ou de funções de chefia ocorre, no caso de falta de identidade, para a posição remuneratória mais próxima da que resultar do somatório da remuneração base mensal a que tinham direito e do suplemento remuneratório de função, com exceção dos que transitaram para a posição remuneratória de nível não inferior ao da primeira posição da categoria para a qual transitam, com efeitos à data da entrada em vigor do Decreto-Lei n.º 71/2019, de 27 de maio.
+
+6 - A transição prevista no artigo 8.º do Decreto-Lei n.º 71/2019, de 27 de maio, na redação atual, não equivale a alteração da posição remuneratória obrigatória, mantendo todos os trabalhadores a totalidade dos pontos obtidos na pretérita categoria ainda não utilizados.
+
+7 - Para efeitos de reposicionamento remuneratório nas novas categorias são contabilizados os pontos correspondentes ao tempo de serviço e à avaliação do desempenho da pretérita categoria.
+
+8 - O disposto nos n.os 5, 6 e 7 do presente artigo é aplicável às situações previstas no artigo 9.º do Decreto-Lei n.º 71/2019, de 27 de maio, na redação atual, onde se incluem as situações especificamente salvaguardadas nos n.os 1, 3 e 9 do presente artigo.
+
+9 - Os trabalhadores enfermeiros titulares das categorias subsistentes que se encontravam previstas no n.º 1 do artigo 6.º do Decreto-Lei n.º 122/2010, de 11 de novembro, alterado pelo Decreto-Lei n.º 27/2018, de 27 de abril, que transitaram automaticamente e com dispensa de quaisquer formalidades, nos termos do Decreto-Lei n.º 71/2019, de 27 de maio, para a categoria de enfermeiro-gestor têm direito a um suplemento remuneratório no montante de (euro) 200 que acresce à remuneração base mensal auferida, sendo posicionados na respetiva tabela remuneratória, com efeitos reportados a 1 de junho de 2019.
+
+10 - Quando os trabalhadores das carreiras de enfermagem do SESARAM, EPERAM, tenham acumulado mais do que os pontos legalmente exigidos para a alteração da posição remuneratória, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 23/2023/M - Diário da República n.º 124/2023, Série I de 2023-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2023-214870723), em vigor a partir de 2023-06-29
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos reportados à data de entrada em vigor do Decreto Legislativo Regional n.º 7/2019/M, de 5 de agosto.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de julho de 2021.
+
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+Assinado em 5 de agosto de 2021.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+114508901

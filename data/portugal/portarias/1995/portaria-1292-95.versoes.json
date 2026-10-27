@@ -1,0 +1,120 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:678995:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-1028158316",
+ "dre_path": "/dr/detalhe/portaria/1292-1995-678995",
+ "source_lastmod": "2026-05-28",
+ "versions": [
+  {
+   "date": "1995-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:410478:por",
+     "title": "Declaração de Rectificação n.º 162/95",
+     "published": "1995-12-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/162-1995-410478"
+    }
+   ],
+   "changes": [
+    "Retifica 3.º"
+   ],
+   "fragments": [
+    "1028665975",
+    "1124503975",
+    "1124527175",
+    "1124528075",
+    "1124504175",
+    "1124527575",
+    "1124527775",
+    "1124504375",
+    "1028666175",
+    "1028666375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1028665975": {
+   "fragment_id": "1028665875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sob proposta do Instituto Politécnico de Viana do Castelo e da sua Escola Superior de Tecnologia e Gestão;\n\nAo abrigo do disposto no artigo 4.º do Decreto-Lei n.º 303/80, de 16 de Agosto, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:\n\nManda o Governo, pela Ministra da Educação, o seguinte:"
+  },
+  "1124503975": {
+   "fragment_id": "1124503875",
+   "type": 11,
+   "heading": "1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Criação\n\nO Instituto Politécnico de Viana do Castelo, através da sua Escola Superior de Tecnologia e Gestão, confere o grau de bacharel em Engenharia e Design do Produto, ministrando, em consequência, o respectivo curso.\n\n2.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o constante do anexo à presente portaria.\n\n3.º\n\nEstágio profissional\n\n1 - Os estágios profissionais terão a duração mínima de 12 semanas e serão realizados durante o 2.º e ou 3.º anos do curso. Poderão abarcar um bloco único de 12 semanas (mínimo) ou dois blocos repartidos pelos 2.º e 3.º anos do curso, com igual duração.\n\n2 - Os estágios referidos no n.º 1 serão substituídos por seminários ou trabalhos de investigação de igual duração, sempre que não seja viável a realização de estágios para todos os alunos.\n\n3 - A realização e a avaliação dos estágios e ou seminários ou trabalhos de investigação obedecerão a regulamento a aprovar pelo conselho científico.\n\n4 - O regulamento a que se refere o n.º 3 será sujeito a homologação do presidente do Instituto Politécnico de Viseu.\n\n4.º\n\nRegimes escolares\n\nOs regimes de frequência, de avaliação de conhecimentos, de transição de ano e de precedências são fixados pela Escola, através do seu órgão competente, nos termos do Estatuto do Instituto Politécnico de Viana do Castelo.\n\n5.º\n\nCondições para obtenção do grau\n\nSão condições para obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das disciplinas que integram o plano de estudos a que se refere o n.º 2.º;\n\nb) A realização, com aproveitamento, dos estágios e ou seminários ou trabalhos de investigação previstos.\n\n6.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico e sujeitos a homologação do presidente do Instituto Politécnico, de modo a assegurar a uniformidade entre os vários cursos.\n\n7.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entrará em funcionamento, progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1995-1996, inclusive.\n\nMinistério da Educação."
+  },
+  "1124527175": {
+   "fragment_id": "1124527075",
+   "type": 11,
+   "heading": "2.º — Plano de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Plano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o constante do anexo à presente portaria."
+  },
+  "1124528075": {
+   "fragment_id": "1124527275",
+   "type": 11,
+   "heading": "3.º — Estágio profissional",
+   "in_force_from": "1995-12-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 162/95 - Diário da República n.º 300/1995, 2º Suplemento, Série I-B de 1995-12-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/162-1995-410478), em vigor a partir de 1995-12-30."
+   ],
+   "markdown": "###### 3.º — Estágio profissional\n\n1 - Os estágios profissionais terão a duração mínima de 12 semanas e serão realizados durante o 2.º e ou 3.º anos do curso. Poderão abarcar um bloco único de 12 semanas (mínimo) ou dois blocos repartidos pelos 2.º e 3.º anos do curso, com igual duração.\n\n2 - Os estágios referidos no n.º 1 serão substituídos por seminários ou trabalhos de investigação de igual duração, sempre que não seja viável a realização de estágios para todos os alunos.\n\n3 - A realização e a avaliação dos estágios e ou seminários ou trabalhos de investigação obedecerão a regulamento a aprovar pelo conselho científico.\n\n4 - O regulamento a que se refere o n.º 3 será sujeito a homologação do presidente do Instituto Politécnico de Viana do Castelo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 162/95 - Diário da República n.º 300/1995, 2º Suplemento, Série I-B de 1995-12-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/162-1995-410478), em vigor a partir de 1995-12-30."
+  },
+  "1124504175": {
+   "fragment_id": "1124504075",
+   "type": 11,
+   "heading": "4.º — Regimes escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Regimes escolares\n\nOs regimes de frequência, de avaliação de conhecimentos, de transição de ano e de precedências são fixados pela Escola, através do seu órgão competente, nos termos do Estatuto do Instituto Politécnico de Viana do Castelo.\n\n5.º\n\nCondições para obtenção do grau\n\nSão condições para obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das disciplinas que integram o plano de estudos a que se refere o n.º 2.º;\n\nb) A realização, com aproveitamento, dos estágios e ou seminários ou trabalhos de investigação previstos.\n\n6.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico e sujeitos a homologação do presidente do Instituto Politécnico, de modo a assegurar a uniformidade entre os vários cursos.\n\n7.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entrará em funcionamento, progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1995-1996, inclusive.\n\nMinistério da Educação."
+  },
+  "1124527575": {
+   "fragment_id": "1124527475",
+   "type": 11,
+   "heading": "5.º — Condições para obtenção do grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Condições para obtenção do grau\n\nSão condições para obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das disciplinas que integram o plano de estudos a que se refere o n.º 2.º;\n\nb) A realização, com aproveitamento, dos estágios e ou seminários ou trabalhos de investigação previstos."
+  },
+  "1124527775": {
+   "fragment_id": "1124527675",
+   "type": 11,
+   "heading": "6.º — Classificação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — Classificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico e sujeitos a homologação do presidente do Instituto Politécnico, de modo a assegurar a uniformidade entre os vários cursos.\n\n7.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entrará em funcionamento, progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1995-1996, inclusive.\n\nMinistério da Educação."
+  },
+  "1124504375": {
+   "fragment_id": "1124504275",
+   "type": 11,
+   "heading": "7.º — Entrada em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Entrada em funcionamento\n\nO curso referido no n.º 1.º entrará em funcionamento, progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1995-1996, inclusive.\n\nMinistério da Educação."
+  },
+  "1028666175": {
+   "fragment_id": "1028666075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 21 de Setembro de 1995.\n\nPela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior."
+  },
+  "1028666375": {
+   "fragment_id": "1028666275",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  }
+ }
+}

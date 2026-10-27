@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:321884:por
+title: Resolução do Conselho de Ministros n.º 66/2001
+short_title: null
+summary: Determina a elaboração do plano sectorial relativo à implementação da Rede Natura 2000 e constitui a respectiva comissão
+  mista de coordenação
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 66/2001
+official_date: null
+publication_date: '2001-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/2001, Série I-B de 2001-06-06
+  number: '131'
+  series: I
+  supplement: null
+  pages: 3437 - 3439
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/06/131b00/34373439.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/66/2001/06/06/p/dre/pt/html
+  oj: null
+  dre: '321884'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/66-2001-321884
+  internal: pt:dre:321884:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2001-321884
+  metadata_url: https://data.dre.pt/eli/resolconsmin/66/2001/06/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2001-321884
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:45:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 76da21a8fee5e66ac952540d4efc8bd5b886e32dbdd1350d5a9ffb18fc4e6bea
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:45:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- Avaliação de Impacte Ambiental
+- Comissão Mista de Coordenação
+- Instituto da Conservação da Natureza
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Recursos Naturais
+- Rede Natura 2000
+- Zona de Proteção
+relationships:
+- type: cites
+  target: celex:31979L0409
+  label: null
+  source: http://data.europa.eu/eli/dir/1979/409/oj
+- type: cites
+  target: celex:31992L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/43/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:45:26Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 66/2001
+
+A criação de uma rede ecológica coerente, denominada Rede Natura 2000, constitui um instrumento fundamental da política da União Europeia em matéria de conservação da natureza e da diversidade biológica.
+
+Resultando da aplicação de duas directivas comunitárias distintas, a Rede Natura 2000 tem como objectivos fundamentais contribuir para assegurar a conservação dos habitats de espécies de aves listadas no anexo I da Directiva n.º [79/409/CEE](http://data.europa.eu/eli/dir/1979/409/oj?locale=pt), do Conselho, de 2 de Abril (Directiva Aves), bem como dos habitats naturais do anexo I e dos habitats de espécies da flora e da fauna do anexo II da Directiva n.º [92/43/CEE](http://data.europa.eu/eli/dir/1992/43/oj?locale=pt), do Conselho, de 21 de Maio (Directiva Habitats), considerados ameaçados ou significativos no espaço da União Europeia.
+
+Tendo em vista a prossecução destes objectivos, aos Estados membros compete designar zonas de protecção especial (ZPE), ao abrigo da Directiva Aves, e sítios nacionais, no âmbito da Directiva Habitats.
+
+A partir das várias listas nacionais de sítios serão posteriormente seleccionados os sítios de importância comunitária (SIC) que darão lugar a zonas especiais de conservação (ZEC).
+
+Neste contexto, Portugal desempenha um papel decisivo na prossecução dos objectivos da Rede Natura 2000, atendendo à inquestionável riqueza do seu património natural e à presença de uma diversidade biológica assinalável.
+
+Deste modo, com o envolvimento da comunidade científica portuguesa, responsável pela implementação de vários projectos de inventariação e caracterização dos valores naturais a nível nacional, e após a realização de um amplo processo de discussão pública, foram aprovadas a 1.ª e 2.ª fases da Lista Nacional de Sítios, através, respectivamente, das Resoluções do Conselho de Ministros n.os 142/97, de 28 de Agosto, e 76/2000, de 5 de Julho.
+
+Relativamente à Directiva Aves, as ZPE criadas ao abrigo dos Decretos-Leis n.os 280/94, de 5 de Novembro, e 384-B/99, de 23 de Setembro, constituem já parte integrante da Rede Natura 2000.
+
+A necessidade de manter num estado de conservação favorável os sítios da Lista Nacional de Sítios e as ZPE, bem como a circunstância de o seu conjunto ocupar uma área significativa do território continental, conduzem a que a gestão territorial destas áreas constitua matéria da maior prioridade e relevância.
+
+O Decreto-Lei n.º 140/99, de 24 de Abril, ao efectuar a transposição conjunta para o direito interno das Directivas Aves e Habitats, estabeleceu que a gestão dos sítios e das ZPE há-de decorrer dos instrumentos de gestão territorial, devendo estes conter as medidas necessárias à garantia da conservação dos habitats naturais e das espécies da fauna e da flora selvagens.
+
+Para esse efeito, aquele diploma prevê a elaboração de um plano sectorial destinado a estabelecer o âmbito e o enquadramento dessas mesmas medidas, tendo em conta os valores ambientais a proteger e o desenvolvimento económico e social das áreas integradas no processo da Rede Natura 2000.
+
+Tal plano, que há-de servir de orientação para a elaboração dos planos municipais de ordenamento do território ou, se for o caso, dos próprios planos especiais de ordenamento do território, constitui, assim, um instrumento de concretização da política nacional e comunitária de conservação da diversidade biológica, visando a salvaguarda e valorização das ZPE e dos sítios da Lista Nacional de Sítios, bem como a manutenção das espécies num estado de conservação favorável.
+
+A amplitude e complexidade técnica e científica das matérias a tratar neste plano sectorial, bem como a adequada ponderação e articulação de interesses que pressupõe, exigem que a sua elaboração fique adstrita a uma equipa de projecto, a funcionar sob responsabilidade do Instituto da Conservação da Natureza.
+
+Por outro lado, a pluralidade de interesses a salvaguardar na elaboração deste mesmo plano justifica o seu acompanhamento por parte de uma comissão mista de coordenação, nos termos do n.º 2 do artigo 39.º do Decreto-Lei n.º 380/99, de 22 de Setembro.
+
+Considerando o disposto nos n.os 1 e 2 do artigo 38.º do Decreto-Lei n.º 380/99, de 22 de Setembro:
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar a elaboração do plano sectorial relativo à implementação da Rede Natura 2000, a que se refere o n.º 5 do artigo 7.º do Decreto-Lei n.º 140/99, de 24 de Abril, com os seguintes objectivos:
+
+a) Estabelecer orientações para a gestão territorial das zonas de protecção especial (ZPE) criadas pelos Decretos-Leis n.os 280/94, de 5 de Novembro, e 384-B/99, de 23 de Setembro, e dos sítios da Lista Nacional de Sítios, aprovada pelas Resoluções do Conselho de Ministros n.os 142/97, de 28 de Agosto, e 76/2000, de 5 de Julho, integradas no processo da Rede Natura 2000;
+
+b) Estabelecer o regime de salvaguarda dos recursos e valores naturais dos locais integrados no processo de Rede Natura 2000, fixando os usos e o regime de gestão compatíveis com a utilização sustentável do território;
+
+c) Representar cartograficamente, em função dos dados disponíveis, a distribuição dos habitats presentes nos sítios da Lista Nacional de Sítios nas ZPE;
+
+d) Estabelecer directrizes para o zonamento das áreas em função das respectivas características e prioridades de conservação;
+
+e) Definir as medidas que garantam a valorização e a manutenção num estado de conservação favorável dos habitats e espécies constantes dos anexos ao Decreto-Lei n.º 140/99, de 24 de Abril, bem como fornecer a tipologia das restrições ao uso do solo, tendo em conta a distribuição dos habitats a proteger;
+
+f) Fornecer orientações sobre a inserção em plano municipal ou especial de ordenamento do território das medidas e restrições mencionadas nas alíneas anteriores;
+
+g) Definir as condições, os critérios e o processo a seguir na realização da avaliação de impacte ambiental e na análise de incidências ambientais a que se refere o artigo 9.º do Decreto-Lei n.º 140/99, de 24 de Abril.
+
+2 - O plano referido no número anterior incide sobre o território continental abrangido pelos sítios da Lista Nacional de Sítios e pelas ZPE, incluindo os seguintes municípios: Amares, Águeda, Alandroal, Albergaria-a-Velha, Albufeira, Alcácer do Sal, Alcanena, Alcobaça, Alcochete, Alcoutim, Alenquer, Alfândega da Fé, Aljezur, Aljustrel, Almeida, Almodôvar, Alter do Chão, Alvaiázere, Alvito, Amarante, Ansião, Arcos de Valdevez, Arganil, Arouca, Arronches, Aveiro, Avis, Azambuja, Barrancos, Batalha, Beja, Benavente, Bragança, Cadaval, Caminha, Campo Maior, Cantanhede, Carregal do Sal, Cascais, Castanheira de Pêra, Castelo Branco, Castelo de Paiva, Castelo de Vide, Castro Daire, Castro Marim, Castro Verde, Celorico da Beira, Chaves, Cinfães, Coimbra, Condeixa-a-Nova, Covilhã, Crato, Cuba, Elvas, Espinho, Esposende, Estarreja, Évora, Faro, Ferreira do Zêzere, Figueira da Foz, Figueira de Castelo Rodrigo, Figueiró dos Vinhos, Freixo de Espada à Cinta, Fundão, Góis, Golegã, Gondomar, Gouveia, Grândola, Guarda, Idanha-a-Nova, Ílhavo, Lagoa, Lagos, Lamego, Leiria, Loulé, Loures, Lourinhã, Lousã, Macedo de Cavaleiros, Mafra, Manteigas, Marco de Canaveses, Marvão, Meda, Melgaço, Mértola, Mira, Miranda do Corvo, Miranda do Douro, Mirandela, Mogadouro, Moimenta da Beira, Moita, Monção, Monchique, Mondim de Basto, Montalegre, Montemor-o-Novo, Montemor-o-Velho, Montijo, Mora, Moura, Mourão, Murtosa, Nisa, Óbidos, Odemira, Olhão, Oliveira de Frades, Oliveira do Bairro, Oliveira do Hospital, Ourém, Ourique, Ovar, Palmela, Pampilhosa da Serra, Paredes, Paredes de Coura, Penamacor, Penela, Peniche, Pinhel, Pombal, Ponte da Barca, Ponte de Lima, Ponte de Sor, Portalegre, Portimão, Porto de Mós, Resende, Ribeira de Pena, Rio Maior, Sabugal, Santa Marta de Penaguião, Santarém, Santiago do Cacém, São Brás de Alportel, São Pedro do Sul, Sátão, Seia, Sernancelhe, Serpa, Sesimbra, Setúbal, Sever do Vouga, Silves, Sines, Sintra, Soure, Tarouca, Tavira, Terras de Bouro, Tomar, Torre de Moncorvo, Torres Novas, Torres Vedras, Vagos, Vale de Cambra, Valença, Valongo, Vendas Novas, Viana do Alentejo, Viana do Castelo, Vila do Bispo, Vila Franca de Xira, Vila Nova de Cerveira, Vila Nova de Foz Côa, Vila Nova de Paiva, Vila Pouca de Aguiar, Vila Real de Santo António, Vila Real, Vila Velha de Ródão, Vimioso, Vinhais, Viseu e Vouzela.
+
+3 - Cometer ao Instituto da Conservação da Natureza (ICN) a elaboração do plano sectorial relativo à implementação da Rede Natura 2000, entidade que, para o efeito, disporá de uma equipa de projecto, nomeada ao abrigo do artigo 23.º do Decreto-Lei n.º 120/2000, de 4 de Julho.
+
+4 - Estabelecer a composição da comissão mista de coordenação, prevista no n.º 2 do artigo 39.º do Decreto-Lei n.º 380/99, de 22 de Setembro, que integra as seguintes entidades:
+
+a) Três representantes do Ministério do Ambiente e do Ordenamento do Território, um dos quais presidirá;
+
+b) Um representante do Ministério da Defesa Nacional;
+
+c) Um representante do Ministério do Equipamento Social;
+
+d) Um representante do Ministério da Economia;
+
+e) Dois representantes do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;
+
+f) Dois representantes da Associação Nacional dos Municípios Portugueses;
+
+g) Um representante das organizações não governamentais de ambiente, a designar pela Confederação Portuguesa das Associações de Defesa do Ambiente.
+
+5 - A elaboração do plano sectorial relativo à implementação da Rede Natura 2000 deve estar concluída no prazo máximo de um ano a contar da data da entrada em vigor da presente resolução.
+
+6 - Até à entrada em vigor do plano referido no n.º 1, a elaboração dos instrumentos de gestão territorial deverá desde já assegurar, nos termos da lei, a adopção das medidas necessárias para a conservação dos habitats e das populações de espécies.
+
+7 - O acompanhamento da elaboração referida no número anterior, por parte dos organismos competentes do Ministério do Ambiente e do Ordenamento do Território, deve zelar pela prossecução dos objectivos visados pelo processo da Rede Natura 2000, nos termos do Decreto-Lei n.º 140/99, de 24 de Abril.
+
+8 - Para efeitos do disposto nos números anteriores, o ICN deve fornecer às entidades responsáveis pela elaboração dos instrumentos de gestão territorial os dados técnicos necessários.
+
+Presidência do Conselho de Ministros, 17 de Maio de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

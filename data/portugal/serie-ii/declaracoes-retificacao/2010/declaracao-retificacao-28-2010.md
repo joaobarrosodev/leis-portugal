@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:2260662:por
+title: Declaração de Rectificação n.º 28/2010
+short_title: null
+summary: Rectifica a declaração de rectificação n.º 2963/2009, publicada no Diário da República, 2.ª série, n.º 235, de 4
+  de Dezembro de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Instituto Politécnico do Porto
+proposing_entity: null
+official_number: 28/2010
+official_date: null
+publication_date: '2010-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2010, Série II de 2010-01-07
+  number: '4'
+  series: II
+  supplement: null
+  pages: 735 - 735
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/01/004000000/0073500735.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2260662'
+  dre_path: /dr/detalhe/declaracao-rectificacao/28-2010-2260662
+  internal: pt:dre:2260662:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-2010-2260662
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-2010-2260662
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6bea723a715e513f02be10eb7af0c9a32e2b4fbcf34ac54005b8ef8a6c7f2e37
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:25:02Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 28/2010
+
+Declaração de rectificação n.º 28/2010
+
+Por ter saído com inexactidão a publicação da declaração de rectificação n.º 2963/2009, publicada no Diário da República, 2.ª série, n.º 235, de 4 de Dezembro de 2009, referente à abertura de concurso documental para professor-ajunto, área científica de Engenharia Química, referência ISE/D/25/2009, rectifica-se que onde se lê:
+
+«1 - Está aberto, pelo prazo de 30 dias consecutivos, concurso documental para provimento de uma vaga de professor-adjunto do mapa de pessoal do Instituto Superior de Engenharia do Porto, Instituto Politécnico do Porto, na área científica de Engenharia Química, área disciplinar de Tecnologia Química, a que poderão concorrer:
+
+...
+
+5 - A selecção e ordenação dos candidatos terá como base a relevância do seu currículo pedagógico, científico, profissional e de apoio às actividades de gestão no ensino superior, a sua relevância para a área em que é aberto concurso, tendo em conta os seguintes aspectos:
+
+a) Adequação do candidato ao departamento e à área científica de Engenharia Química;
+
+b) Adequação do candidato à área disciplinar de Tecnologia Química;
+
+c) Adequação do candidato à docência numa escola de engenharia do ensino superior politécnico e ao exercício da actividade no domínio e na região onde a escola se insere;
+
+d) Trabalho desenvolvido, sua qualidade, reconhecimento, especificidade e complexidade;
+
+e) Experiência profissional no domínio da área científica em que é aberto o concurso e duração das actividades desenvolvidas;
+
+f) Criatividade, capacidade de empreendimento, de organização e de estruturação.
+
+6 - Serão excluídos os candidatos cujo currículo revele a não adequação dos mesmos à área científica e à área disciplinar para o qual o concurso foi aberto.
+
+...
+
+9 - A valoração relativa dos elementos constantes dos n.os 7.1 a 7.5 será feita de acordo com a ponderação aprovada na reunião n.º 713 da comissão coordenadora do Conselho Científico de 01/07/2009»
+
+deve ler-se:
+
+«1 - Está aberto, pelo prazo de 30 dias consecutivos, concurso documental para provimento de uma vaga de professor-adjunto do mapa de pessoal do Instituto Superior de Engenharia do Porto, Instituto Politécnico do Porto, na área científica de Engenharia Química, a que poderão concorrer:
+
+...
+
+5 - A selecção e ordenação dos candidatos terá como base a relevância do seu currículo pedagógico, científico, profissional e de apoio às actividades de gestão no ensino superior, a sua relevância para a área em que é aberto concurso, tendo em conta os seguintes aspectos:
+
+a) Adequação do candidato ao departamento e à área científica de Engenharia Química;
+
+b) Adequação do candidato à docência numa escola de engenharia do ensino superior politécnico e ao exercício da actividade no domínio e na região onde a escola se insere;
+
+c) Trabalho desenvolvido, sua qualidade, reconhecimento, especificidade e complexidade;
+
+d) Experiência profissional no domínio da área científica em que é aberto o concurso e duração das actividades desenvolvidas;
+
+e) Criatividade, capacidade de empreendimento, de organização e de estruturação.
+
+6 - Serão excluídos os candidatos cujo currículo revele a não adequação dos mesmos à área científica para a qual o concurso foi aberto.
+
+...
+
+9 - A valoração relativa dos elementos constantes dos n.os 7.1 a 7.5 será feita de acordo com a ponderação aprovada na reunião n.º 712 da comissão coordenadora do Conselho Científico de 1 de Julho de 2009»
+
+31 de Dezembro de 2009. - O Vice-Presidente, José de Freitas Santos.
+
+202746535

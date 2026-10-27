@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:217697:por
+title: Decreto-Lei n.º 239/92
+short_title: null
+summary: Estabelece normas relativas às condições de comercialização dos materiais florestais de reprodução
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 239/92
+official_date: null
+publication_date: '1992-10-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/1992, Série I-A de 1992-10-29
+  number: '250'
+  series: I
+  supplement: null
+  pages: 5000 - 5001
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/10/250a00/50005001.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/239/1992/10/29/p/dre/pt/html
+  oj: null
+  dre: '217697'
+  dre_path: /dr/detalhe/decreto-lei/239-1992-217697
+  internal: pt:dre:217697:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1992-217697
+  metadata_url: https://data.dre.pt/eli/dec-lei/239/1992/10/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1992-217697
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:18:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bfa8504c323615098091f5ccddce59fee743266f1e8185c10e5b7d42c9782f04
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- CEE
+- Comércio
+- Direcção Geral das Florestas
+- Exploração Florestal
+- Política Agrícola Comum
+- Política Florestal
+relationships:
+- type: amended_by
+  target: pt:dre:118051706:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31966L0404
+  label: null
+  source: http://data.europa.eu/eli/dir/1966/404/oj
+- type: cites
+  target: celex:31969L0064
+  label: null
+  source: http://data.europa.eu/eli/dir/1969/64/oj
+- type: cites
+  target: celex:31971L0161
+  label: null
+  source: http://data.europa.eu/eli/dir/1971/161/oj
+- type: cites
+  target: celex:31973L0013
+  label: null
+  source: http://data.europa.eu/eli/dir/1973/13/oj
+- type: cites
+  target: celex:31988L0332
+  label: null
+  source: http://data.europa.eu/eli/dir/1988/332/oj
+- type: repealed_by
+  target: pt:dre:505211:por
+  label: "Revogado a partir da entrada em vigor do DEC LEI.205/2003.2003.09.12.MADRP DR.IS-A [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2003-505211
+  date: '2003-09-12'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:18:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 239/92
+
+de 29 de Outubro
+
+Considerando a necessidade de transpor para a ordem jurídica interna as Directivas do Conselho n.os [66/404/CEE](http://data.europa.eu/eli/dir/1966/404/oj?locale=pt), de 14 de Junho, com as alterações introduzidas pelas Directivas n.os [69/64/CEE](http://data.europa.eu/eli/dir/1969/64/oj?locale=pt), de 18 de Fevereiro, [88/332/CEE](http://data.europa.eu/eli/dir/1988/332/oj?locale=pt), de 13 de Junho, e [71/161/CEE](http://data.europa.eu/eli/dir/1971/161/oj?locale=pt), de 30 de Março, com a alteração introduzida pela Directiva n.º [73/13/CEE](http://data.europa.eu/eli/dir/1973/13/oj?locale=pt), de 4 de Dezembro, relativas à comercialização de materiais florestais de reprodução com o objectivo de produção de madeira e às normas de qualidade exterior dos materiais florestais de reprodução comercializados no interior da Comunidade;
+
+Considerando o interesse em incluir neste diploma as espécies florestais que revestem particular interesse para a arborização em Portugal;
+
+Considerando que a regeneração das florestas assim como a criação de novas arborizações necessitam de uma quantidade crescente de materiais florestais de reprodução de alta qualidade genética;
+
+Considerando a necessidade de definir as condições de comercialização dos materiais florestais de reprodução que desempenham um papel importante nas arborizações destinadas à produção de madeira e de garantir a qualidade genética desses materiais florestais, bem como a sua identificação aquando da comercialização:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna as Directivas do Conselho n.os [66/404/CEE](http://data.europa.eu/eli/dir/1966/404/oj?locale=pt), de 14 de Junho, com as alterações introduzidas pelas Directivas do Conselho n.os [69/64/CEE](http://data.europa.eu/eli/dir/1969/64/oj?locale=pt) e [88/332/CEE](http://data.europa.eu/eli/dir/1988/332/oj?locale=pt), de 18 de Fevereiro e 13 de Junho, respectivamente, e a Directiva do Conselho n.º [71/161/CEE](http://data.europa.eu/eli/dir/1971/161/oj?locale=pt), de 30 de Março, com as alterações introduzidas pela Directiva do Conselho n.º [73/13/CEE](http://data.europa.eu/eli/dir/1973/13/oj?locale=pt), de 4 de Dezembro, relativas à comercialização dos materiais florestais de reprodução e às normas de qualidade exterior dos materiais florestais de reprodução comercializadas no interior da Comunidade.
+
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura e do Comércio e Turismo.
+
+Art. 3.º Para efeitos do presente diploma a autoridade nacional é a Direcção-Geral das Florestas, a quem compete, nomeadamente:
+
+a) Certificar os materiais florestais de reprodução de acordo com o esquema de certificação de sementes e plantas a estabelecer nos termos do artigo anterior;
+
+b) Assegurar a fiscalização do cumprimento das normas constantes do presente diploma e do referido no artigo anterior, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+Art. 4.º - 1 - As infracções às normas técnicas referidas no artigo 2.º do presente diploma constituem contra-ordenações puníveis com coima, a aplicar pelo director-geral das Florestas, cujo montante mínimo é de 500$00 e máximo de 500000$00.
+
+2 - As coimas aplicáveis às pessoas colectivas poderão elevar-se até ao montante máximo de:
+
+a) 6000000$00, em caso de dolo;
+
+b) 3000000$00, em caso de negligência.
+
+Art. 5.º O produto das coimas reverte:
+
+a) Em 30% para a Direcção-Geral das Florestas;
+
+b) Em 10% para a entidade autuante;
+
+c) Em 60% para o Estado.
+
+Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
+
+Promulgado em 8 de Outubro de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 9 de Outubro de 1992.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

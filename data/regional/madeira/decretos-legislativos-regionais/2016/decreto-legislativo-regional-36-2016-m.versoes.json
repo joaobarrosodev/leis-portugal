@@ -1,0 +1,1087 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75150221:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-115929821",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/36-2016-75150221",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-08-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124124187",
+    "115929764",
+    "115929765",
+    "115929766",
+    "115929767",
+    "115929769",
+    "115929770",
+    "115929771",
+    "115929772",
+    "115929773",
+    "115929774",
+    "115932075",
+    "115932076",
+    "115932077",
+    "115932078",
+    "115932079",
+    "115932080",
+    "115932081",
+    "115932082",
+    "115932083",
+    "115932084",
+    "115932085",
+    "115932086",
+    "115932087",
+    "115932088",
+    "115932089",
+    "115932090",
+    "115932091",
+    "115932092",
+    "115932093",
+    "115932094",
+    "115932095",
+    "115932096",
+    "115932097",
+    "115932098",
+    "115932099",
+    "115932100",
+    "115932101",
+    "115932102",
+    "115932103",
+    "115932104",
+    "115932105",
+    "115932106",
+    "115932107",
+    "115932108"
+   ]
+  },
+  {
+   "date": "2018-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115924019:por",
+     "title": "Decreto Legislativo Regional n.º 12/2018/M",
+     "published": "2018-08-06",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2018-115924019"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "115929763",
+    "115929764",
+    "115929765",
+    "115929766",
+    "115929767",
+    "115929768",
+    "115929769",
+    "115929770",
+    "115929771",
+    "115929772",
+    "115929773",
+    "115929774",
+    "124124181",
+    "115932076",
+    "115932077",
+    "115932078",
+    "115932079",
+    "115932080",
+    "115932081",
+    "124124182",
+    "115932083",
+    "115932084",
+    "115932085",
+    "124124183",
+    "115932087",
+    "115932088",
+    "115932089",
+    "115932090",
+    "115932091",
+    "115932092",
+    "124124184",
+    "124124185",
+    "115932095",
+    "115932096",
+    "115932097",
+    "115932098",
+    "115932099",
+    "115932100",
+    "115932101",
+    "124124186",
+    "115932103",
+    "115932104",
+    "115932105",
+    "115932106",
+    "115932107",
+    "115932108"
+   ]
+  },
+  {
+   "date": "2019-08-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124134341:por",
+     "title": "Decreto Legislativo Regional n.º 13/2019/M",
+     "published": "2019-08-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2019-124134341"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "124124187",
+    "124124188",
+    "124124189",
+    "124124190",
+    "124124191",
+    "124124192",
+    "124124193",
+    "124124194",
+    "124124195",
+    "124124196",
+    "124124197",
+    "124124198",
+    "124124199",
+    "124124200",
+    "124124201",
+    "124124202",
+    "124124203",
+    "124124204",
+    "124124205",
+    "124124206",
+    "124124207",
+    "124124208",
+    "124124209",
+    "124124210",
+    "124124211",
+    "124124212",
+    "124124213",
+    "124124214",
+    "124124215",
+    "124124216",
+    "124124217",
+    "124124218",
+    "124124219",
+    "124124220",
+    "124124221",
+    "124124222",
+    "124124223",
+    "124124224",
+    "124124225",
+    "124124226",
+    "124124227",
+    "124124228",
+    "124124229",
+    "124124230",
+    "124124231",
+    "124124232"
+   ]
+  }
+ ],
+ "fragments": {
+  "124124187": {
+   "fragment_id": "115929822",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-08-23",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 36/2016/M\n\nSegunda alteração aos Estatutos do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., e sua republicação\n\nO Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, aprovou os Estatutos do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., SESARAM, E. P. E.\n\nO Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, na redação dada pelo Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, estatui no artigo 24.º sob a epígrafe Património que o património próprio do SESARAM, E. P. E., é constituído pelos bens e direitos por si adquiridos a qualquer título, podendo dispor dos bens que integram o seu património, nos termos do presente diploma e da demais legislação aplicável.\n\nConsiderando que importa definir a quem incumbe a responsabilidade pela intervenção em termos de ampliação, modernização, requalificação e adaptação de capacidade instalada bem como pelas obras de reabilitação, remodelação e manutenção dos bens imóveis afetos ao SESARAM, E. P. E., que constituem património da Região.\n\nConsiderando que importa definir, igualmente, a responsabilidade do SESARAM, E. P. E., pela manutenção e conservação corrente dos imóveis suprarreferidos.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea c) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea e) do n.º 1 do artigo 37.º, nas alíneas m) e qq) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e na base VIII da Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro, o seguinte:"
+  },
+  "115929764": {
+   "fragment_id": "115929823",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma procede à segunda alteração ao anexo do Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, na redação dada pelo Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro."
+  },
+  "115929765": {
+   "fragment_id": "115929824",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração de artigos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração de artigos\n\nOs artigos 11.º e 24.º do anexo do Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, alterado pelo Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 11.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Gestão de riscos técnicos e clínicos.\n\n3 - ...\n\n4 - ...\n\nArtigo 24.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Os bens imóveis afetos ao SESARAM, E. P. E., que constituem património da Região, poderão ser objeto de intervenção em termos de ampliação, modernização, requalificação e adaptação de capacidade instalada, assim como de obras de reabilitação e de remodelação, a serem promovidas pela administração direta da Região Autónoma da Madeira, em coordenação com a Secretaria Regional da Saúde e o SESARAM, E. P. E.\n\n4 - Excluem-se do disposto no número anterior os imóveis que se encontrem concessionados.\n\n5 - Compete ao SESARAM, E. P. E., proceder à manutenção e conservação corrente dos imóveis que integram o património referido no n.º 3.»"
+  },
+  "115929766": {
+   "fragment_id": "115929825",
+   "type": 11,
+   "heading": "Artigo 3.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Republicação\n\nSão republicados em anexo, que fazem parte integrante do presente diploma, os Estatutos do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., constantes do anexo do Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, com as alterações introduzidas pelo artigo 59.º do Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, pelas alterações decorrentes da Orgânica do XII Governo da Região Autónoma da Madeira, aprovada pelo Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, das Orgânicas da Secretaria Regional das Finanças e da Administração Pública e da Saúde, aprovadas pelos Decretos Regulamentares Regionais n.os 3/2015/M, de 28 de maio, e 16/2015/M, de 19 de agosto, e pelo presente Decreto Legislativo Regional."
+  },
+  "115929767": {
+   "fragment_id": "115929826",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115929769": {
+   "fragment_id": "115929828",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\nESTATUTOS DO SERVIÇO DE SAÚDE DA REGIÃO AUTÓNOMA DA MADEIRA, E. P. E."
+  },
+  "115929770": {
+   "fragment_id": "115929829",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "115929771": {
+   "fragment_id": "115929830",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e regime\n\n1 - O Serviço de Saúde da Região Autónoma da Madeira, E. P. E., abreviadamente designado por SESARAM, E. P. E., é uma pessoa coletiva de direito público, de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, e rege-se pelo regime jurídico aplicável às entidades públicas empresariais do Setor Empresarial da Região Autónoma da Madeira, com as especificidades constantes do presente diploma e dos seus regulamentos internos, bem como das normas em vigor para o Serviço Regional de Saúde que não contrariem as normas aqui previstas.\n\n2 - O SESARAM, E. P. E., é constituído por tempo indeterminado."
+  },
+  "115929772": {
+   "fragment_id": "115929831",
+   "type": 11,
+   "heading": "Artigo 2.º — Denominação, sede e capital estatutário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Denominação, sede e capital estatutário\n\n1 - A entidade empresarial a que se refere o presente diploma adota a denominação de Serviço de Saúde da Região Autónoma da Madeira, E. P. E., e tem sede na Avenida de Luís de Camões, 57, freguesia de São Pedro, concelho do Funchal, podendo a localização da sede ser alterada por deliberação do conselho de administração.\n\n2 - O capital estatutário do SESARAM, E. P. E., é detido pela Região Autónoma da Madeira e é aumentado ou reduzido por resolução do Conselho do Governo Regional.\n\n3 - O capital estatutário do SESARAM, E. P. E., é de (euro) 145 000 000 estando totalmente realizado."
+  },
+  "115929773": {
+   "fragment_id": "115929832",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objeto e atribuições\n\n1 - O SESARAM, E. P. E., tem por objeto principal a prestação de cuidados de saúde, de cuidados e tratamentos continuados e cuidados paliativos à população, designadamente aos beneficiários do Serviço Regional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com este contratem a prestação de cuidados de saúde e a todos os cidadãos em geral.\n\n2 - O SESARAM, E. P. E., poderá ainda, acessoriamente, explorar os serviços e efetuar as operações civis e comerciais relacionadas direta ou indiretamente, no todo ou em parte, com o seu objeto ou que sejam suscetíveis de facilitar ou favorecer a sua realização.\n\n3 - O SESARAM, E. P. E., tem também por objeto desenvolver atividades de investigação e formação.\n\n4 - O SESARAM, E. P. E., garante ainda o apoio técnico e logístico ao desenvolvimento dos programas de saúde de âmbito regional promovidos pelo Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, em termos a celebrar por protocolo.\n\n5 - As atribuições do SESARAM, E. P. E., constam dos seus regulamentos internos e são fixadas de acordo com a política de saúde a nível regional e com os planos estratégicos superiormente aprovados e serão desenvolvidas através de contratos-programa."
+  },
+  "115929774": {
+   "fragment_id": "115929833",
+   "type": 11,
+   "heading": "Artigo 4.º — Estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estabelecimentos\n\n1 - São estabelecimentos do SESARAM, E. P. E.:\n\na) O Hospital Dr. Nélio Mendonça;\n\nb) O Hospital dos Marmeleiros;\n\nc) A Unidade de Cuidados Continuados Dr. João de Almada;\n\nd) O Centro Dr. Agostinho Cardoso;\n\ne) Os Centros de Saúde.\n\n2 - A estrutura dos centros de saúde, bem como a definição da respetiva área geográfica serão estabelecidas por portaria do Secretário Regional da Saúde, sob proposta do conselho de administração do SESARAM, E. P. E.\n\n3 - O Hospital dos Marmeleiros poderá ser reconvertido em unidade de internamento de cuidados continuados de longa duração, através de portaria do Secretário Regional dos Assuntos Sociais.\n\n4 - A Unidade de Cuidados Continuados Dr. João de Almada, poderá ser reconvertida em unidade hospitalar, através de portaria do Secretário Regional da Saúde, verificados os respetivos requisitos legais e técnicos."
+  },
+  "115932075": {
+   "fragment_id": "115929834",
+   "type": 11,
+   "heading": "Artigo 5.º — Superintendência e tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Superintendência e tutela\n\n1 - Compete ao Secretário Regional da Saúde, no exercício de poderes de superintendência:\n\na) Definir e aprovar os objetivos e estratégias do\n\nSESARAM, E. P. E.;\n\nb) Orientar a atividade e emitir recomendações e diretivas para prossecução das atribuições do SESARAM, E. P. E., designadamente nos seus aspetos transversais e comuns;\n\nc) Definir normas de organização e de atuação dos serviços e estabelecimentos do SESARAM, E. P. E.;\n\nd) Homologar os regulamentos internos do SESARAM, E. P. E.;\n\ne) Exigir todas as informações julgadas necessárias ao acompanhamento da atividade do SESARAM, E. P. E.\n\n2 - Compete ao Secretário Regional da Saúde, no exercício de poderes de tutela, determinar a realização de auditorias e inspeções ao funcionamento do SESARAM, E. P. E.\n\n3 - Compete ao Secretário Regional da Saúde e ao Secretário Regional das Finanças e da Administração Pública o exercício dos seguintes poderes de tutela sobre o SESARAM, E. P. E.:\n\na) Aprovar os planos de atividades e os orçamentos;\n\nb) Aprovar os documentos de prestação de contas;\n\nc) Autorizar a aquisição e venda de bens imóveis, bem como a sua oneração, mediante parecer prévio do fiscal único;\n\nd) Determinar os aumentos e reduções de capital;\n\ne) Autorizar a realização de investimentos, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior a 2 % do capital estatutário, mediante parecer do fiscal único;\n\nf) Autorizar a contração de empréstimos de valor, individual ou acumulado, igual ou superior a 10 % do capital estatutário;\n\ng) Autorizar cedências de exploração de serviços, nos termos da lei;\n\nh) Autorizar os demais atos que, nos termos da legislação aplicável, necessitem de aprovação tutelar."
+  },
+  "115932076": {
+   "fragment_id": "115929835",
+   "type": 1,
+   "heading": "Capítulo II — Princípios de organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Princípios de organização"
+  },
+  "115932077": {
+   "fragment_id": "115929836",
+   "type": 11,
+   "heading": "Artigo 6.º — Atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atividade\n\nA atividade do SESARAM, E. P. E., tem por finalidade proporcionar aos indivíduos, às famílias e aos grupos sociais um atendimento de qualidade, em tempo útil, com eficiência e humanidade, no quadro dos recursos disponíveis e das capacidades instaladas e será desenvolvida de modo integrado, com base em contratos-programa a celebrar com a Secretaria Regional da Saúde."
+  },
+  "115932078": {
+   "fragment_id": "115929837",
+   "type": 11,
+   "heading": "Artigo 7.º — Financiamento e controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Financiamento e controlo financeiro\n\n1 - O SESARAM, E. P. E., é financiado pelo Orçamento da Região Autónoma da Madeira, nos termos da base XXXIII, conjugada com a base VIII, da Lei de Bases da Saúde.\n\n2 - O pagamento dos atos e atividades do SESARAM, E. P. E., nos termos do disposto no número anterior, é feito através de contrato-programa a celebrar com a Secretaria Regional da Saúde, no qual se estabelecem os objetivos e metas qualitativas e quantitativas, sua calendarização, os meios e instrumentos para os prosseguir, os indicadores para a avaliação do desempenho dos serviços e nível de satisfação dos utentes e demais obrigações assumidas pelas partes, tendo como referencial os preços praticados no mercado para os diversos atos clínicos.\n\n3 - O disposto nos números anteriores não prejudica a concessão de outros apoios ao SESARAM, E. P. E., destinados, nomeadamente, ao financiamento de investimentos que se revelem fundamentais à prossecução da sua atividade, os quais são autorizados pelo Governo Regional e regem-se pela lei aplicável à concessão de apoios a entidades públicas e privadas."
+  },
+  "115932079": {
+   "fragment_id": "115929838",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação\n\nO SESARAM, E. P. E., participa na formação de profissionais de saúde, de acordo com a respetiva capacidade formativa, nos termos da lei."
+  },
+  "115932080": {
+   "fragment_id": "115929839",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentos internos\n\nA organização e funcionamento do SESARAM, E. P. E., consta de regulamentos internos, a aprovar pelo conselho de administração, homologados pelo Secretário Regional da Saúde, precedidos de parecer prévio favorável do Secretário Regional das Finanças e da Administração Pública."
+  },
+  "115932081": {
+   "fragment_id": "115929840",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos e competências"
+  },
+  "115932082": {
+   "fragment_id": "115929841",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos do SESARAM, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Órgãos do SESARAM, E. P. E.\n\nSão órgãos do SESARAM, E. P. E.:\n\na) O conselho de administração;\n\nb) O fiscal único;\n\nc) O diretor clínico;\n\nd) O enfermeiro-diretor."
+  },
+  "115932083": {
+   "fragment_id": "115929842",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissões de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comissões de apoio técnico\n\n1 - As comissões de apoio técnico são órgãos de caráter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.\n\n2 - No SESARAM, E. P. E., serão constituídas as seguintes comissões:\n\na) Ética;\n\nb) Qualidade e segurança do doente;\n\nc) Controlo da infeção hospitalar;\n\nd) Hospitalar de transfusão;\n\ne) Farmácia e terapêutica;\n\nf) Gestão de riscos técnicos e clínicos.\n\n3 - Podem ser criadas pelo conselho de administração outras comissões de apoio técnico que, nos termos da lei, da atividade do SESARAM, E. P. E., e das leges artis se justifiquem, devendo a sua estrutura, composição e funcionamento constar de regulamento interno.\n\n4 - Compete ao conselho de administração, sob proposta do diretor clínico, a designação do presidente e dos membros das comissões de apoio técnico."
+  },
+  "115932084": {
+   "fragment_id": "115929843",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição e mandato\n\n1 - O conselho de administração é composto por um presidente, um vice-presidente e um vogal.\n\n2 - Os membros do conselho de administração são nomeados por resolução do Conselho do Governo Regional, sob proposta dos membros do Governo responsáveis pelas áreas da Saúde e das Finanças, de entre individualidades de reconhecido mérito e perfil adequado, nos termos da lei.\n\n3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo em exercício de funções até efetiva substituição."
+  },
+  "115932085": {
+   "fragment_id": "115929844",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do conselho de administração\n\n1 - Sem prejuízo dos poderes de tutela e superintendência, compete ao conselho de administração garantir o cumprimento do objeto do SESARAM, E. P. E., bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e em especial:\n\na) Propor os planos de ação anuais e plurianuais e respetivos orçamentos e assegurar a respetiva execução;\n\nb) Celebrar contratos-programa;\n\nc) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento do SESARAM, E. P. E., nas áreas clínicas e não clínicas, propondo a criação de novos serviços, a sua extinção ou modificação;\n\nd) Decidir sobre a admissão e gestão do pessoal;\n\ne) Apresentar os documentos de prestação de contas, nos termos da lei;\n\nf) Autorizar a realização de trabalho extraordinário e de prevenção dos trabalhadores do SESARAM, E. P. E., independentemente do seu estatuto, bem como autorizar o respetivo pagamento;\n\ng) Designar o pessoal para cargos de direção e chefia;\n\nh) Aprovar o regulamento disciplinar dos trabalhadores e as condições de prestação e disciplina do trabalho;\n\ni) Aprovar e submeter a homologação do Secretário Regional da Saúde os regulamentos internos, sem prejuízo do disposto no artigo 9.º, e fazer cumprir as disposições legais e regulamentares aplicáveis;\n\nj) Decidir sobre a realização de ensaios clínicos e terapêuticos, ouvida a comissão de ética, sem prejuízo das disposições legais aplicáveis;\n\nk) Acompanhar e avaliar sistematicamente a atividade desenvolvida pelos serviços do SESARAM, E. P. E., designadamente responsabilizando os diferentes setores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos da qualidade dos serviços prestados;\n\nl) Tomar conhecimento e determinar as medidas adequadas sobre as queixas e reclamações apresentadas pelos utentes;\n\nm) Autorizar a aplicação de todas as modalidades de regimes de trabalho legalmente admissíveis;\n\nn) Exercer a competência em matéria disciplinar prevista na lei;\n\no) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;\n\np) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento das despesas do SESARAM, E. P. E.;\n\nq) Promover a cobrança das receitas e taxas provenientes da sua atividade;\n\nr) Tomar as providências necessárias à conservação do património afeto ao desenvolvimento da sua atividade e autorizar as despesas inerentes, previstas no plano de investimentos.\n\n2 - Sem prejuízo do disposto no número anterior e em normas especiais, o conselho de administração detém ainda as competências legalmente atribuídas aos titulares dos cargos de direção superior de 1.º grau da administração regional autónoma relativamente aos trabalhadores em regime de contrato de trabalho em funções públicas.\n\n3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direção, definindo em ata os limites e as condições do seu exercício, sem prejuízo do direito de avocação."
+  },
+  "115932086": {
+   "fragment_id": "115929845",
+   "type": 11,
+   "heading": "Artigo 14.º — Funcionamento do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Funcionamento do conselho de administração\n\n1 - O conselho de administração reúne, pelo menos, semanalmente e ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do fiscal único.\n\n2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho e constam de regulamento interno.\n\n3 - Das reuniões do conselho de administração devem ser lavradas atas, a aprovar na reunião seguinte.\n\n4 - O SESARAM, E. P. E., obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 13.º\n\n5 - Em casos excecionais, o SESARAM, E. P. E. pode obrigar-se pela assinatura de um membro do conselho de administração, devendo o ato ser objeto de ratificação pelos demais membros, nos oito dias seguintes, sob pena de nulidade."
+  },
+  "115932087": {
+   "fragment_id": "115929846",
+   "type": 11,
+   "heading": "Artigo 15.º — Demissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Demissão\n\n1 - Os membros do conselho de administração podem ser demitidos, nos termos da lei, quando lhes seja individualmente imputável uma das seguintes situações:\n\na) A avaliação do desempenho seja negativa, nos termos da lei;\n\nb) A violação grave, por ação ou omissão, da lei ou dos estatutos do SESARAM, E. P. E.;\n\nc) A violação das regras sobre incompatibilidades e impedimentos;\n\nd) A violação do dever de sigilo profissional.\n\n2 - A demissão requer audiência prévia do membro do conselho de administração, é devidamente fundamentada e implica a cessação do mandato, não havendo lugar a qualquer indemnização pela cessação de funções.\n\n3 - Os membros do conselho de administração podem também ser demitidos, a todo o tempo, nos termos da lei, independentemente dos fundamentos a que se refere o n.º 1.\n\n4 - A demissão nos termos do número anterior confere ao gestor o direito a uma indemnização correspondente ao vencimento de base que auferiria até final do respetivo mandato, com o limite de um ano, à qual será deduzida o montante do vencimento do lugar de origem que aquele tenha direito a reocupar, nos termos da lei."
+  },
+  "115932088": {
+   "fragment_id": "115929847",
+   "type": 11,
+   "heading": "Artigo 16.º — Dissolução e renúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Dissolução e renúncia\n\n1 - O conselho de administração pode ser dissolvido, nos termos da lei, nos seguintes casos:\n\na) Grave violação, por ação ou omissão, da lei ou dos estatutos do SESARAM, E. P. E.;\n\nb) Desvio substancial entre os orçamentos e a respetiva execução, quando não provocado por razões alheias ao exercício das funções pelos gestores;\n\nc) Grave deterioração dos resultados da atividade, incluindo a qualidade dos serviços prestados, quando não provocada por razões alheias ao exercício das funções pelos seus membros.\n\n2 - A dissolução requer audiência prévia, pelo menos, do presidente do conselho de administração, é devidamente fundamentada e implica a cessação do mandato de todos os membros do conselho de administração, não havendo lugar a qualquer indemnização pela cessação de funções.\n\n3 - O conselho de administração pode ainda ser dissolvido, a todo o tempo, nos termos da lei, independentemente dos fundamentos a que se refere o n.º 1.\n\n4 - Nos casos previstos no número anterior, os membros do conselho de administração têm direito a uma indemnização, nos termos do n.º 4 do artigo anterior.\n\n5 - Os membros do conselho de administração podem ainda renunciar ao cargo, nos termos da lei comercial."
+  },
+  "115932089": {
+   "fragment_id": "115929848",
+   "type": 11,
+   "heading": "Artigo 17.º — Estatuto dos membros do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Estatuto dos membros do conselho de administração\n\n1 - Aos membros do conselho de administração aplica-se o estatuto do gestor público regional.\n\n2 - A remuneração dos membros do conselho de administração do SESARAM, E. P. E., é fixada nos termos da lei em vigor, à data da sua nomeação."
+  },
+  "115932090": {
+   "fragment_id": "115929849",
+   "type": 11,
+   "heading": "Artigo 18.º — Presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração:\n\na) Coordenar a atividade do conselho de administração e dirigir as respetivas reuniões;\n\nb) Garantir a correta execução das deliberações do conselho de administração;\n\nc) Submeter à aprovação ou à autorização dos membros do Governo competentes todos os atos que delas careçam;\n\nd) Representar o SESARAM, E. P. E., em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;\n\ne) Exercer as competências que lhe sejam delegadas.\n\n2 - O presidente do conselho de administração é substituído nas suas faltas e impedimentos pelo vice-presidente."
+  },
+  "115932091": {
+   "fragment_id": "115929850",
+   "type": 11,
+   "heading": "Artigo 19.º — Diretor clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Diretor clínico\n\n1 - O diretor clínico é designado por despacho do Secretário Regional da Saúde, sob proposta do presidente do conselho de administração do SESARAM, E. P. E., em comissão de serviço, por um período de três anos, nos termos do artigo 30.º, n.º 2, de entre médicos que trabalhem nesta entidade pública empresarial, de reconhecido mérito, experiência profissional e perfil adequado.\n\n2 - Compete ao diretor clínico a direção da produção clínica do SESARAM, E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correção e prontidão dos cuidados de saúde prestados, designadamente:\n\na) Coordenar a elaboração dos planos de ação apresentados pelos vários serviços e departamentos de ação médica a integrar no plano de ação global do SESARAM, E. P. E.;\n\nb) Assegurar uma integração adequada da atividade clínica dos departamentos e serviços, designadamente através de uma utilização não compartimentada da capacidade instalada;\n\nc) Propor medidas necessárias à melhoria das estruturas organizativas, funcionais e físicas dos serviços de ação médica, dentro de parâmetros de eficiência e eficácia reconhecidos, que produzam os melhores resultados face às tecnologias disponíveis;\n\nd) Aprovar as orientações clínicas relativas à prescrição de medicamentos e meios complementares de diagnóstico e terapêutica, bem como os protocolos clínicos adequados às patologias mais frequentes, respondendo perante o conselho de administração pela sua adequação em termos de qualidade e de custo-benefício;\n\ne) Propor ao conselho de administração a realização, sempre que necessário, da avaliação externa do cumprimento das orientações clínicas e protocolos mencionados, em colaboração com a Ordem dos Médicos e instituições de ensino médico e sociedades científicas;\n\nf) Desenvolver a implementação de instrumentos de garantia de qualidade técnica dos cuidados de saúde;\n\ng) Decidir sobre conflitos de natureza técnica entre serviços de ação médica;\n\nh) Decidir as dúvidas que lhe sejam presentes sobre deontologia médica, desde que não seja possível o recurso, em tempo útil, à comissão de ética;\n\ni) Participar na gestão do pessoal médico, designadamente nos processos de admissão e mobilidade interna, ouvidos os respetivos responsáveis pelos serviços;\n\nj) Velar pela constante atualização do pessoal médico;\n\nk) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da medicina e com a formação dos médicos.\n\n3 - Compete ainda ao diretor clínico propor ao conselho de administração a nomeação dos diretores de departamento e de serviços de ação médica.\n\n4 - O diretor clínico responde perante o conselho de administração pela qualidade da assistência prestada, dentro das regras da boa prática e da melhor gestão de recursos.\n\n5 - O diretor clínico cessa funções com a cessação de funções do presidente do conselho de administração do SESARAM, E. P. E.\n\n6 - O diretor clínico será coadjuvado por adjuntos, em termos a definir em regulamento interno."
+  },
+  "115932092": {
+   "fragment_id": "115929851",
+   "type": 11,
+   "heading": "Artigo 20.º — Enfermeiro-diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Enfermeiro-diretor\n\n1 - O enfermeiro-diretor é designado por despacho do Secretário Regional da Saúde, sob proposta do presidente do conselho de administração do SESARAM, E. P. E., em comissão de serviço, por um período de três anos, nos termos do artigo 30.º, n.º 2, de entre enfermeiros que trabalhem nesta entidade pública empresarial, de reconhecido mérito, experiência profissional e perfil adequado.\n\n2 - Compete ao enfermeiro-diretor do SESARAM, E. P. E., a coordenação técnica e a gestão da atividade de enfermagem desta entidade, velando pela sua qualidade, designadamente:\n\na) Coordenar a elaboração dos planos de ação de enfermagem apresentados pelos vários serviços a integrar no plano de ação global do SESARAM, E. P. E.;\n\nb) Colaborar com o diretor clínico na compatibilização dos planos de ação dos diferentes serviços de ação médica;\n\nc) Contribuir para a definição das políticas ou diretivas de formação e investigação e velar pela constante atualização dos enfermeiros;\n\nd) Definir padrões de cuidados de enfermagem e indicadores de avaliação dos cuidados de enfermagem prestados;\n\ne) Proceder à gestão geral dos serviços de enfermagem, e elaborar propostas de admissão e de mobilidade dos enfermeiros, de acordo com as orientações estratégicas definidas pelo conselho de administração;\n\nf) Promover e acompanhar o processo de avaliação do pessoal de enfermagem;\n\ng) Propor a criação de um sistema efetivo de classificação de utentes para determinar as necessidades em cuidados de enfermagem e zelar pela sua manutenção, bem como a utilização do ratio de enfermeiro de família para afetação de recursos de enfermagem;\n\nh) Elaborar estudos para determinação de custos e benefícios no âmbito dos cuidados de enfermagem;\n\ni) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da atividade de enfermagem, designadamente de índole técnica e deontológica e de formação dos enfermeiros.\n\n3 - O enfermeiro-diretor responde perante o conselho de administração pela qualidade da assistência prestada, dentro das regras da boa prática e da melhor gestão de recursos, ao qual compete a coordenação e gestão geral das atividades de apoio social aos utentes do SESARAM, E. P. E.\n\n4 - O enfermeiro-diretor cessa funções com a cessação de funções do presidente do conselho de administração do SESARAM, E. P. E.\n\n5 - O enfermeiro-diretor será coadjuvado por adjuntos, em termos a definir em regulamento interno.\n\n6 - O enfermeiro-diretor poderá delegar as competências a que se referem os n.os 2 e 3 do presente artigo nos seus adjuntos ou nos enfermeiros com competências de chefia dos serviços de enfermagem."
+  },
+  "115932093": {
+   "fragment_id": "115929852",
+   "type": 11,
+   "heading": "Artigo 21.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fiscal único\n\n1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do SESARAM, E. P. E.\n\n2 - O fiscal único é nomeado por despacho conjunto dos Secretários Regionais das Finanças e da Administração Pública e da Saúde, obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficias de contas, por um período de três anos, apenas renovável uma vez.\n\n3 - O fiscal único tem sempre um suplente, que é igualmente revisor oficial de contas ou sociedade de revisores oficiais de contas.\n\n4 - Cessando o mandato, o fiscal único mantém-se em exercício de funções até à nomeação do substituto.\n\n5 - A remuneração do fiscal único é fixada por despacho conjunto dos Secretários Regionais das Finanças e da Administração Pública e da Saúde.\n\n6 - Não pode ser designado fiscal único ou suplente quem for beneficiário de vantagens particulares do próprio SESARAM, E. P. E., ou nele tenha exercido funções de administração nos últimos três anos, nem os revisores oficiais de contas em relação aos quais se verifiquem outras incompatibilidades previstas na lei."
+  },
+  "115932094": {
+   "fragment_id": "115929853",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências\n\n1 - O fiscal único tem as competências, os poderes e os deveres estabelecidos na lei e no presente diploma.\n\n2 - Compete, em especial, ao fiscal único:\n\na) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;\n\nb) Dar parecer sobre o relatório de gestão do exercício e certificar as contas;\n\nc) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;\n\nd) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;\n\ne) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;\n\nf) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;\n\ng) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\nh) Dar parecer sobre a realização de investimentos e a contração de empréstimos;\n\ni) Elaborar relatórios da sua ação fiscalizadora, incluindo um relatório anual global;\n\nj) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e demais entidades, nos termos da lei;\n\nk) Verificar se os critérios valorimétricos adotados pelo SESARAM, E. P. E., conduzem a uma correta avaliação do património e dos resultados."
+  },
+  "115932095": {
+   "fragment_id": "115929854",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão financeira e patrimonial"
+  },
+  "115932096": {
+   "fragment_id": "115929855",
+   "type": 11,
+   "heading": "Artigo 23.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Receitas\n\nSão receitas do SESARAM, E. P. E.:\n\na) As dotações do Orçamento da Região Autónoma da Madeira incluídas nos contratos-programa;\n\nb) Outras dotações, comparticipações e subsídios do Estado ou de outras entidades;\n\nc) O pagamento de serviços prestados, nos termos da legislação em vigor e dos acordos e tabelas aprovados;\n\nd) O rendimento de bens próprios;\n\ne) O produto da alienação de bens próprios e da constituição de direitos sobre os mesmos;\n\nf) As doações, heranças ou legados;\n\ng) Quaisquer outros rendimentos ou valores que resultem da sua atividade ou que por lei ou contrato devam pertencer-lhe."
+  },
+  "115932097": {
+   "fragment_id": "115929856",
+   "type": 11,
+   "heading": "Artigo 24.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Património\n\n1 - O património próprio do SESARAM, E. P. E., é constituído pelos bens e direitos por si adquiridos a qualquer título.\n\n2 - O SESARAM, E. P. E., pode dispor dos bens que integram o seu património, nos termos do presente diploma e da demais legislação aplicável.\n\n3 - Os bens imóveis afetos ao SESARAM, E. P. E., que constituem património da Região, poderão ser objeto de intervenção em termos de ampliação, modernização, requalificação e adaptação de capacidade instalada, assim como de obras de reabilitação e de remodelação, a serem promovidas pela administração direta da Região Autónoma da Madeira, em coordenação com a Secretaria Regional da Saúde e o SESARAM, E. P. E.\n\n4 - Excluem-se do disposto no número anterior os imóveis que se encontrem concessionados.\n\n5 - Compete ao SESARAM, E. P. E., proceder à manutenção e conservação corrente dos imóveis que integram o património referido no n.º 3."
+  },
+  "115932098": {
+   "fragment_id": "115929857",
+   "type": 11,
+   "heading": "Artigo 25.º — Instrumentos de gestão previsional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instrumentos de gestão previsional\n\nA gestão financeira e patrimonial do SESARAM, E. P. E., rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:\n\na) Planos plurianuais e anuais de atividades, de investimento e financeiros, com um horizonte de três anos;\n\nb) Orçamento anual de investimento;\n\nc) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos;\n\nd) Orçamento anual de tesouraria;\n\ne) Balanço previsional;\n\nf) Contratos-programa."
+  },
+  "115932099": {
+   "fragment_id": "115929858",
+   "type": 11,
+   "heading": "Artigo 26.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Controlo financeiro\n\nSem prejuízo do disposto na legislação aplicável, deve o SESARAM, E. P. E., submeter aos Secretários Regionais das Finanças e da Administração Pública e da Saúde os planos de atividade e os orçamentos, até final do mês de outubro de cada ano, bem como os documentos de prestação de contas, nos termos do presente diploma e os indicadores de atividade, económico-financeira, de recursos humanos e outros definidos por aqueles membros do Governo Regional, com a periodicidade que for estabelecida."
+  },
+  "115932100": {
+   "fragment_id": "115929859",
+   "type": 11,
+   "heading": "Artigo 27.º — Aquisição de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Aquisição de bens e serviços\n\n1 - A aquisição de bens e serviços e a contratação de empreitadas pelo SESARAM, E. P. E., rege-se pelas normas do direito privado, sem prejuízo da aplicação do regime do direito comunitário relativo à contratação pública.\n\n2 - O disposto no número anterior deve ser garantido em regulamento interno, bem como o cumprimento, em qualquer caso, dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas."
+  },
+  "115932101": {
+   "fragment_id": "115929860",
+   "type": 11,
+   "heading": "Artigo 28.º — Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Contabilidade\n\nO SESARAM, E. P. E., segue o plano oficial de contabilidade em vigor para o setor da saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos Secretários Regionais das Finanças e da Administração Pública e da Saúde."
+  },
+  "115932102": {
+   "fragment_id": "115929861",
+   "type": 11,
+   "heading": "Artigo 29.º — Documentos de prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Documentos de prestação de contas\n\nOs instrumentos de prestação de contas do SESARAM, E. P. E., a elaborar e submeter aos Secretários Regionais das Finanças e da Administração Pública e da Saúde até ao final do mês de março do ano seguinte, com referência a 31 de dezembro de cada ano, são, designadamente, os seguintes:\n\na) Relatório do conselho de administração e proposta de aplicação de resultados;\n\nb) Relatório sobre a execução anual do plano plurianual de investimentos;\n\nc) Balanço e demonstração de resultados;\n\nd) Anexo ao balanço e demonstração de resultados;\n\ne) Demonstração de fluxos de caixa;\n\nf) Relação dos empréstimos contraídos a médio e longo prazo;\n\ng) Certificação legal de contas;\n\nh) Relatório e parecer do fiscal único."
+  },
+  "115932103": {
+   "fragment_id": "115929862",
+   "type": 1,
+   "heading": "Capítulo V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do pessoal"
+  },
+  "115932104": {
+   "fragment_id": "115929863",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regime\n\n1 - Os trabalhadores do SESARAM, E. P. E., estão sujeitos ao regime do contrato de trabalho, de acordo com o Código do Trabalho, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação coletiva de trabalho e regulamentos internos, sem prejuízo do disposto no artigo 33.º\n\n2 - O disposto no número anterior aplica-se aos cargos de direção e chefia não integrados em carreiras e aos de diretor clínico e enfermeiro-diretor.\n\n3 - As habilitações e qualificações para admissão de pessoal correspondem às do Serviço Nacional de Saúde e os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade, da imparcialidade, da não discriminação, bem como da publicidade, exceto em casos de manifesta urgência devidamente fundamentada.\n\n4 - Para efeitos de deslocação em serviço, entende-se que a Região Autónoma da Madeira constitui o domicílio necessário dos trabalhadores do SESARAM, E. P. E."
+  },
+  "115932105": {
+   "fragment_id": "115929864",
+   "type": 11,
+   "heading": "Artigo 31.º — Dotação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Dotação de pessoal\n\nO SESARAM, E. P. E., deve prever anualmente uma dotação global de pessoal, através do respetivo orçamento e contrato-programa, considerando os planos de atividade e o desenvolvimento das carreiras, englobando o quadro de pessoal referido no n.º 3 do artigo 33.º"
+  },
+  "115932106": {
+   "fragment_id": "115929865",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "115932107": {
+   "fragment_id": "115929866",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime experimental\n\n1 - O presente diploma será revisto ao fim de três anos em função da avaliação sistemática dos resultados qualitativos e quantitativos, da mesma dependendo a decisão de prorrogação, cessação ou consolidação da atribuição deste estatuto.\n\n2 - No caso de cessação da atribuição deste estatuto, é garantido a todos os profissionais em regime de contrato individual de trabalho, do Código do Trabalho, a integração no mapa de pessoal do SESARAM, E. P. E., ou das instituições que lhe sucedam, na mesma categoria, sendo-lhes aplicável:\n\na) O regime jurídico dos trabalhadores em funções públicas, caso se encontrem na situação a que se refere o n.º 2 do artigo 33.º, salvo se optarem pelo disposto na alínea seguinte;\n\nb) A manutenção do regime jurídico do contrato individual de trabalho, do Código do Trabalho, nos demais casos."
+  },
+  "115932108": {
+   "fragment_id": "115929867",
+   "type": 11,
+   "heading": "Artigo 33.º — Pessoal em regime de direito público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Pessoal em regime de direito público\n\n1 - Ao pessoal em exercício de funções no SESARAM, E. P. E., em regime de direito público, é garantida a manutenção integral do seu estatuto jurídico, sem prejuízo da opção, a todo o tempo, pelo regime do contrato individual de trabalho, do Código do Trabalho.\n\n2 - Aos trabalhadores em regime de funções públicas, contratados para prestar serviço no SESARAM, E. P. E., nos termos do disposto nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, é aplicável, automaticamente, o regime das licenças sem remuneração, previsto no Regime de Contrato de Trabalho em Funções Públicas, aprovado pelo Anexo I à Lei n.º 59/2008, de 11 de setembro, sendo-lhes assegurada durante a licença sem remuneração:\n\na) A contagem, na categoria de origem, do tempo de serviço prestado no SESARAM, E. P. E.;\n\nb) A opção pela manutenção do regime de proteção social dos trabalhadores em funções públicas, incidindo os descontos sobre o montante da remuneração efetivamente auferida.\n\n3 - Mantêm-se com caráter residual os quadros de pessoal aprovados pelas portarias conjuntas da Vice-Presidência do Governo Regional e das Secretarias Regionais do Plano e Finanças e dos Assuntos Sociais n.os 29-A/2004, de 27 de fevereiro, 56/2005, de 2 de junho, 123/2006, de 10 de outubro, e 133/2007, de 18 de dezembro, exclusivamente para efeitos de desenvolvimento da carreira dos trabalhadores em regime de funções públicas e ainda do ingresso dos contratados em regime de funções públicas, a termo resolutivo incerto, que, à data de entrada em vigor do Decreto Legislativo Regional n.º 9/2003/M, de 27 de maio, estivessem vinculados com contrato administrativo de provimento."
+  },
+  "115929763": {
+   "fragment_id": "115929822",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 36/2016/M\n\nSegunda alteração aos Estatutos do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., e sua republicação\n\nO Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, aprovou os Estatutos do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., SESARAM, E. P. E.\n\nO Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, na redação dada pelo Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, estatui no artigo 24.º sob a epígrafe Património que o património próprio do SESARAM, E. P. E., é constituído pelos bens e direitos por si adquiridos a qualquer título, podendo dispor dos bens que integram o seu património, nos termos do presente diploma e da demais legislação aplicável.\n\nConsiderando que importa definir a quem incumbe a responsabilidade pela intervenção em termos de ampliação, modernização, requalificação e adaptação de capacidade instalada bem como pelas obras de reabilitação, remodelação e manutenção dos bens imóveis afetos ao SESARAM, E. P. E., que constituem património da Região.\n\nConsiderando que importa definir, igualmente, a responsabilidade do SESARAM, E. P. E., pela manutenção e conservação corrente dos imóveis suprarreferidos.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea c) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, na alínea e) do n.º 1 do artigo 37.º, nas alíneas m) e qq) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e na base VIII da Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro, o seguinte:"
+  },
+  "115929768": {
+   "fragment_id": "115929827",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de julho de 2016.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 29 de julho de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "124124181": {
+   "fragment_id": "115929834",
+   "type": 11,
+   "heading": "Artigo 5.º — Superintendência e tutela",
+   "in_force_from": "2018-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 5.º — Superintendência e tutela\n\n1 - Compete ao Secretário Regional da Saúde, no exercício de poderes de superintendência:\n\na) Definir e aprovar os objetivos e estratégias do\n\nSESARAM, E. P. E.;\n\nb) Orientar a atividade e emitir recomendações e diretivas para prossecução das atribuições do SESARAM, E. P. E., designadamente nos seus aspetos transversais e comuns;\n\nc) Definir normas de organização e de atuação dos serviços e estabelecimentos do SESARAM, E. P. E.;\n\nd) Homologar os regulamentos internos do SESARAM, E. P. E.;\n\ne) Exigir todas as informações julgadas necessárias ao acompanhamento da atividade do SESARAM, E. P. E.\n\n2 - Compete ao Secretário Regional da Saúde, no exercício de poderes de tutela, determinar a realização de auditorias e inspeções ao funcionamento do SESARAM, E. P. E.\n\n3 - Compete ao Secretário Regional da Saúde e ao Secretário Regional das Finanças e da Administração Pública o exercício dos seguintes poderes de tutela sobre o SESARAM, E. P. E.:\n\na) Aprovar os planos de atividades e os orçamentos;\n\nb) Aprovar os documentos de prestação de contas;\n\nc) Autorizar a aquisição e venda de bens imóveis, bem como a sua oneração, mediante parecer prévio do conselho fiscal;\n\nd) Determinar os aumentos e reduções de capital;\n\nc) Autorizar a aquisição e venda de bens imóveis, bem como a sua oneração, mediante parecer prévio do conselho fiscal;\n\nf) Autorizar a contração de empréstimos de valor, individual ou acumulado, igual ou superior a 10 % do capital estatutário;\n\ng) Autorizar cedências de exploração de serviços, nos termos da lei;\n\nh) Autorizar os demais atos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124182": {
+   "fragment_id": "115929841",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos do SESARAM, E. P. E.",
+   "in_force_from": "2018-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 10.º — Órgãos do SESARAM, E. P. E.\n\nSão órgãos do SESARAM, E. P. E.:\n\na) O conselho de administração;\n\nb) O Conselho Fiscal;\n\nc) O diretor clínico;\n\nd) O enfermeiro-diretor.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124183": {
+   "fragment_id": "115929845",
+   "type": 11,
+   "heading": "Artigo 14.º — Funcionamento do conselho de administração",
+   "in_force_from": "2018-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 14.º — Funcionamento do conselho de administração\n\n1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do Conselho Fiscal.\n\n2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho e constam de regulamento interno.\n\n3 - Das reuniões do conselho de administração devem ser lavradas atas, a aprovar na reunião seguinte.\n\n4 - O SESARAM, E. P. E., obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 13.º\n\n5 - Em casos excecionais, o SESARAM, E. P. E. pode obrigar-se pela assinatura de um membro do conselho de administração, devendo o ato ser objeto de ratificação pelos demais membros, nos oito dias seguintes, sob pena de nulidade.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124184": {
+   "fragment_id": "115929852",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho fiscal e revisor oficial de contas",
+   "in_force_from": "2018-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 21.º — Conselho fiscal e revisor oficial de contas\n\n1 - A fiscalização e controlo da gestão financeira e patrimonial é exercida por um conselho fiscal e por um revisor oficial de contas ou por uma sociedade de revisores oficiais de contas, que não seja membro daquele órgão, obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.\n\n2 - O conselho fiscal é constituído por três membros efetivos e por um suplente, sendo um deles o presidente do órgão.\n\n3 - Os membros do conselho fiscal são nomeados, sob proposta do conselho de administração, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde, por um período de três anos, renovável por uma única vez.\n\n4 - O revisor oficial de contas ou a sociedade de revisores oficiais de contas é nomeado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde, sob proposta fundamentada do conselho fiscal, tendo o mandato a duração de três anos, renovável por uma única vez.\n\n5 - A remuneração do conselho fiscal é fixada no despacho a que se refere o n.º 3, atendendo ao grau de complexidade e de exigência inerente ao exercício do respetivo cargo e tendo em conta os critérios de classificação do SESARAM, E. P. E..\n\n6 - Cessando o mandato do conselho fiscal e do revisor oficial de contas ou da sociedade de revisores oficiais de contas, mantêm-se os titulares em exercício de funções, até à designação de novos ou à declaração governamental de cessação de funções.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124185": {
+   "fragment_id": "115929853",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": "2018-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 22.º — Competências\n\n1 - O conselho fiscal tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes Estatutos.\n\n2 - Ao conselho fiscal compete, especialmente, sem prejuízo das demais competências que lhe sejam atribuídas por lei:\n\na) Dar parecer sobre o relatório de gestão;\n\nb) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;\n\nd) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;\n\ne) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;\n\nf) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\ng) Dar parecer sobre a realização de investimentos e a contração de empréstimos;\n\nh) Elaborar relatórios da sua ação fiscalizadora, incluindo um relatório anual global;\n\ni) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira da Região.\n\n3 - Compete ao revisor oficial de contas ou à sociedade de revisores oficiais de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, bem como exercer as seguintes funções:\n\na) Verificar da regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;\n\nb) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes à empresa ou por ela recebidos em garantia, depósito ou outro título;\n\nc) Verificar a exatidão dos documentos de prestação de contas;\n\nd) Verificar se os critérios valorimétricos adotados pelo SESARAM, E. P. E., conduzem a uma correta avaliação do património e dos resultados.\n\n4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal e o revisor oficial de contas ou a sociedade de revisores oficiais de contas, devem emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal e o revisor oficial de contas ou a sociedade de revisores oficiais de contas, devem emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124186": {
+   "fragment_id": "115929861",
+   "type": 11,
+   "heading": "Artigo 29.º — Documentos de prestação de contas",
+   "in_force_from": "2018-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 29.º — Documentos de prestação de contas\n\nOs instrumentos de prestação de contas do SESARAM, E. P. E., a elaborar e submeter aos Secretários Regionais das Finanças e da Administração Pública e da Saúde até ao final do mês de março do ano seguinte, com referência a 31 de dezembro de cada ano, são, designadamente, os seguintes:\n\na) Relatório do conselho de administração e proposta de aplicação de resultados;\n\nb) Relatório sobre a execução anual do plano plurianual de investimentos;\n\nc) Balanço e demonstração de resultados;\n\nd) Anexo ao balanço e demonstração de resultados;\n\ne) Demonstração de fluxos de caixa;\n\nf) Relação dos empréstimos contraídos a médio e longo prazo;\n\ng) Certificação legal de contas;\n\nh) Relatório e parecer do Conselho Fiscal.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124188": {
+   "fragment_id": "115929823",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma procede à segunda alteração ao anexo do Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, na redação dada pelo Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124189": {
+   "fragment_id": "115929824",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração de artigos",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 2.º — Alteração de artigos\n\nOs artigos 11.º e 24.º do anexo do Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, alterado pelo Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 11.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Gestão de riscos técnicos e clínicos.\n\n3 - ...\n\n4 - ...\n\nArtigo 24.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Os bens imóveis afetos ao SESARAM, E. P. E., que constituem património da Região, poderão ser objeto de intervenção em termos de ampliação, modernização, requalificação e adaptação de capacidade instalada, assim como de obras de reabilitação e de remodelação, a serem promovidas pela administração direta da Região Autónoma da Madeira, em coordenação com a Secretaria Regional da Saúde e o SESARAM, E. P. E.\n\n4 - Excluem-se do disposto no número anterior os imóveis que se encontrem concessionados.\n\n5 - Compete ao SESARAM, E. P. E., proceder à manutenção e conservação corrente dos imóveis que integram o património referido no n.º 3.»\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124190": {
+   "fragment_id": "115929825",
+   "type": 11,
+   "heading": "Artigo 3.º — Republicação",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 3.º — Republicação\n\nSão republicados em anexo, que fazem parte integrante do presente diploma, os Estatutos do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., constantes do anexo do Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, com as alterações introduzidas pelo artigo 59.º do Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, pelas alterações decorrentes da Orgânica do XII Governo da Região Autónoma da Madeira, aprovada pelo Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, das Orgânicas da Secretaria Regional das Finanças e da Administração Pública e da Saúde, aprovadas pelos Decretos Regulamentares Regionais n.os 3/2015/M, de 28 de maio, e 16/2015/M, de 19 de agosto, e pelo presente Decreto Legislativo Regional.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124191": {
+   "fragment_id": "115929826",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124192": {
+   "fragment_id": "115929827",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de julho de 2016.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 29 de julho de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124193": {
+   "fragment_id": "115929828",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\nESTATUTOS DO SERVIÇO DE SAÚDE DA REGIÃO AUTÓNOMA DA MADEIRA, E. P. E.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124194": {
+   "fragment_id": "115929829",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124195": {
+   "fragment_id": "115929830",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e regime",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e regime\n\n1 - O Serviço de Saúde da Região Autónoma da Madeira, E. P. E., abreviadamente designado por SESARAM, E. P. E., é uma pessoa coletiva de direito público, de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, e rege-se pelo regime jurídico aplicável às entidades públicas empresariais do Setor Empresarial da Região Autónoma da Madeira, com as especificidades constantes do presente diploma e dos seus regulamentos internos, bem como das normas em vigor para o Serviço Regional de Saúde que não contrariem as normas aqui previstas.\n\n2 - O SESARAM, E. P. E., é constituído por tempo indeterminado.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124196": {
+   "fragment_id": "115929831",
+   "type": 11,
+   "heading": "Artigo 2.º — Denominação, sede e capital estatutário",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 2.º — Denominação, sede e capital estatutário\n\n1 - A entidade empresarial a que se refere o presente diploma adota a denominação de Serviço de Saúde da Região Autónoma da Madeira, E. P. E., e tem sede na Avenida de Luís de Camões, 57, freguesia de São Pedro, concelho do Funchal, podendo a localização da sede ser alterada por deliberação do conselho de administração.\n\n2 - O capital estatutário do SESARAM, E. P. E., é detido pela Região Autónoma da Madeira e é aumentado ou reduzido por resolução do Conselho do Governo Regional.\n\n3 - O capital estatutário do SESARAM, E. P. E., é de (euro) 145 000 000 estando totalmente realizado.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124197": {
+   "fragment_id": "115929832",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto e atribuições",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 3.º — Objeto e atribuições\n\n1 - O SESARAM, E. P. E., tem por objeto principal a prestação de cuidados de saúde, de cuidados e tratamentos continuados e cuidados paliativos à população, designadamente aos beneficiários do Serviço Regional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com este contratem a prestação de cuidados de saúde e a todos os cidadãos em geral.\n\n2 - O SESARAM, E. P. E., poderá ainda, acessoriamente, explorar os serviços e efetuar as operações civis e comerciais relacionadas direta ou indiretamente, no todo ou em parte, com o seu objeto ou que sejam suscetíveis de facilitar ou favorecer a sua realização.\n\n3 - O SESARAM, E. P. E., tem também por objeto desenvolver atividades de investigação e formação.\n\n4 - O SESARAM, E. P. E., garante ainda o apoio técnico e logístico ao desenvolvimento dos programas de saúde de âmbito regional promovidos pelo Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, em termos a celebrar por protocolo.\n\n5 - As atribuições do SESARAM, E. P. E., constam dos seus regulamentos internos e são fixadas de acordo com a política de saúde a nível regional e com os planos estratégicos superiormente aprovados e serão desenvolvidas através de contratos-programa.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124198": {
+   "fragment_id": "115929833",
+   "type": 11,
+   "heading": "Artigo 4.º — Estabelecimentos",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 4.º — Estabelecimentos\n\n1 - São estabelecimentos do SESARAM, E. P. E.:\n\na) O Hospital Dr. Nélio Mendonça;\n\nb) O Hospital dos Marmeleiros;\n\nc) A Unidade de Cuidados Continuados Dr. João de Almada;\n\nd) O Centro Dr. Agostinho Cardoso;\n\ne) Os Centros de Saúde.\n\n2 - A estrutura dos centros de saúde, bem como a definição da respetiva área geográfica serão estabelecidas por portaria do Secretário Regional da Saúde, sob proposta do conselho de administração do SESARAM, E. P. E.\n\n3 - O Hospital dos Marmeleiros poderá ser reconvertido em unidade de internamento de cuidados continuados de longa duração, através de portaria do Secretário Regional dos Assuntos Sociais.\n\n4 - A Unidade de Cuidados Continuados Dr. João de Almada, poderá ser reconvertida em unidade hospitalar, através de portaria do Secretário Regional da Saúde, verificados os respetivos requisitos legais e técnicos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124199": {
+   "fragment_id": "115929834",
+   "type": 11,
+   "heading": "Artigo 5.º — Superintendência e tutela",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 5.º — Superintendência e tutela\n\n1 - Compete ao Secretário Regional da Saúde, no exercício de poderes de superintendência:\n\na) Definir e aprovar os objetivos e estratégias do\n\nSESARAM, E. P. E.;\n\nb) Orientar a atividade e emitir recomendações e diretivas para prossecução das atribuições do SESARAM, E. P. E., designadamente nos seus aspetos transversais e comuns;\n\nc) Definir normas de organização e de atuação dos serviços e estabelecimentos do SESARAM, E. P. E.;\n\nd) Homologar os regulamentos internos do SESARAM, E. P. E.;\n\ne) Exigir todas as informações julgadas necessárias ao acompanhamento da atividade do SESARAM, E. P. E.\n\n2 - Compete ao Secretário Regional da Saúde, no exercício de poderes de tutela, determinar a realização de auditorias e inspeções ao funcionamento do SESARAM, E. P. E.\n\n3 - Compete ao Secretário Regional da Saúde e ao Secretário Regional das Finanças e da Administração Pública o exercício dos seguintes poderes de tutela sobre o SESARAM, E. P. E.:\n\na) Aprovar os planos de atividades e os orçamentos;\n\nb) Aprovar os documentos de prestação de contas;\n\nc) Autorizar a aquisição e venda de bens imóveis, bem como a sua oneração, mediante parecer prévio do conselho fiscal;\n\nd) Determinar os aumentos e reduções de capital;\n\nc) Autorizar a aquisição e venda de bens imóveis, bem como a sua oneração, mediante parecer prévio do conselho fiscal;\n\nf) Autorizar a contração de empréstimos de valor, individual ou acumulado, igual ou superior a 10 % do capital estatutário;\n\ng) Autorizar cedências de exploração de serviços, nos termos da lei;\n\nh) Autorizar os demais atos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124200": {
+   "fragment_id": "115929835",
+   "type": 1,
+   "heading": "Capítulo II — Princípios de organização",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "### Capítulo II — Princípios de organização\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124201": {
+   "fragment_id": "115929836",
+   "type": 11,
+   "heading": "Artigo 6.º — Atividade",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 6.º — Atividade\n\nA atividade do SESARAM, E. P. E., tem por finalidade proporcionar aos indivíduos, às famílias e aos grupos sociais um atendimento de qualidade, em tempo útil, com eficiência e humanidade, no quadro dos recursos disponíveis e das capacidades instaladas e será desenvolvida de modo integrado, com base em contratos-programa a celebrar com a Secretaria Regional da Saúde.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124202": {
+   "fragment_id": "115929837",
+   "type": 11,
+   "heading": "Artigo 7.º — Financiamento e controlo financeiro",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 7.º — Financiamento e controlo financeiro\n\n1 - O SESARAM, E. P. E., é financiado pelo Orçamento da Região Autónoma da Madeira, nos termos da base XXXIII, conjugada com a base VIII, da Lei de Bases da Saúde.\n\n2 - O pagamento dos atos e atividades do SESARAM, E. P. E., nos termos do disposto no número anterior, é feito através de contrato-programa a celebrar com a Secretaria Regional da Saúde, no qual se estabelecem os objetivos e metas qualitativas e quantitativas, sua calendarização, os meios e instrumentos para os prosseguir, os indicadores para a avaliação do desempenho dos serviços e nível de satisfação dos utentes e demais obrigações assumidas pelas partes, tendo como referencial os preços praticados no mercado para os diversos atos clínicos.\n\n3 - O disposto nos números anteriores não prejudica a concessão de outros apoios ao SESARAM, E. P. E., destinados, nomeadamente, ao financiamento de investimentos que se revelem fundamentais à prossecução da sua atividade, os quais são autorizados pelo Governo Regional e regem-se pela lei aplicável à concessão de apoios a entidades públicas e privadas.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124203": {
+   "fragment_id": "115929838",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 8.º — Formação\n\nO SESARAM, E. P. E., participa na formação de profissionais de saúde, de acordo com a respetiva capacidade formativa, nos termos da lei.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124204": {
+   "fragment_id": "115929839",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentos internos",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 9.º — Regulamentos internos\n\nA organização e funcionamento do SESARAM, E. P. E., consta de regulamentos internos, a aprovar pelo conselho de administração, homologados pelo Secretário Regional da Saúde, precedidos de parecer prévio favorável do Secretário Regional das Finanças e da Administração Pública.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124205": {
+   "fragment_id": "115929840",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos e competências",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "### Capítulo III — Órgãos e competências\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124206": {
+   "fragment_id": "115929841",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos do SESARAM, E. P. E.",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 10.º — Órgãos do SESARAM, E. P. E.\n\nSão órgãos do SESARAM, E. P. E.:\n\na) O conselho de administração;\n\nb) O Conselho Fiscal;\n\nc) O diretor clínico;\n\nd) O enfermeiro-diretor.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124207": {
+   "fragment_id": "115929842",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissões de apoio técnico",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 11.º — Comissões de apoio técnico\n\n1 - As comissões de apoio técnico são órgãos de caráter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.\n\n2 - No SESARAM, E. P. E., serão constituídas as seguintes comissões:\n\na) Ética;\n\nb) Qualidade e segurança do doente;\n\nc) Controlo da infeção hospitalar;\n\nd) Hospitalar de transfusão;\n\ne) Farmácia e terapêutica;\n\nf) Gestão de riscos técnicos e clínicos.\n\n3 - Podem ser criadas pelo conselho de administração outras comissões de apoio técnico que, nos termos da lei, da atividade do SESARAM, E. P. E., e das leges artis se justifiquem, devendo a sua estrutura, composição e funcionamento constar de regulamento interno.\n\n4 - Compete ao conselho de administração, sob proposta do diretor clínico, a designação do presidente e dos membros das comissões de apoio técnico.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124208": {
+   "fragment_id": "115929843",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição e mandato",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 12.º — Composição e mandato\n\n1 - O conselho de administração é composto por um presidente, um vice-presidente e um vogal.\n\n2 - Os membros do conselho de administração são nomeados por resolução do Conselho do Governo Regional, sob proposta dos membros do Governo responsáveis pelas áreas da Saúde e das Finanças, de entre individualidades de reconhecido mérito e perfil adequado, nos termos da lei.\n\n3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, permanecendo em exercício de funções até efetiva substituição.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124209": {
+   "fragment_id": "115929844",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do conselho de administração",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 13.º — Competências do conselho de administração\n\n1 - Sem prejuízo dos poderes de tutela e superintendência, compete ao conselho de administração garantir o cumprimento do objeto do SESARAM, E. P. E., bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e em especial:\n\na) Propor os planos de ação anuais e plurianuais e respetivos orçamentos e assegurar a respetiva execução;\n\nb) Celebrar contratos-programa;\n\nc) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento do SESARAM, E. P. E., nas áreas clínicas e não clínicas, propondo a criação de novos serviços, a sua extinção ou modificação;\n\nd) Decidir sobre a admissão e gestão do pessoal;\n\ne) Apresentar os documentos de prestação de contas, nos termos da lei;\n\nf) Autorizar a realização de trabalho extraordinário e de prevenção dos trabalhadores do SESARAM, E. P. E., independentemente do seu estatuto, bem como autorizar o respetivo pagamento;\n\ng) Designar o pessoal para cargos de direção e chefia;\n\nh) Aprovar o regulamento disciplinar dos trabalhadores e as condições de prestação e disciplina do trabalho;\n\ni) Aprovar e submeter a homologação do Secretário Regional da Saúde os regulamentos internos, sem prejuízo do disposto no artigo 9.º, e fazer cumprir as disposições legais e regulamentares aplicáveis;\n\nj) Decidir sobre a realização de ensaios clínicos e terapêuticos, ouvida a comissão de ética, sem prejuízo das disposições legais aplicáveis;\n\nk) Acompanhar e avaliar sistematicamente a atividade desenvolvida pelos serviços do SESARAM, E. P. E., designadamente responsabilizando os diferentes setores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos da qualidade dos serviços prestados;\n\nl) Tomar conhecimento e determinar as medidas adequadas sobre as queixas e reclamações apresentadas pelos utentes;\n\nm) Autorizar a aplicação de todas as modalidades de regimes de trabalho legalmente admissíveis;\n\nn) Exercer a competência em matéria disciplinar prevista na lei;\n\no) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;\n\np) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento das despesas do SESARAM, E. P. E.;\n\nq) Promover a cobrança das receitas e taxas provenientes da sua atividade;\n\nr) Tomar as providências necessárias à conservação do património afeto ao desenvolvimento da sua atividade e autorizar as despesas inerentes, previstas no plano de investimentos.\n\n2 - Sem prejuízo do disposto no número anterior e em normas especiais, o conselho de administração detém ainda as competências legalmente atribuídas aos titulares dos cargos de direção superior de 1.º grau da administração regional autónoma relativamente aos trabalhadores em regime de contrato de trabalho em funções públicas.\n\n3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direção, definindo em ata os limites e as condições do seu exercício, sem prejuízo do direito de avocação.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124210": {
+   "fragment_id": "115929845",
+   "type": 11,
+   "heading": "Artigo 14.º — Funcionamento do conselho de administração",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 14.º — Funcionamento do conselho de administração\n\n1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do Conselho Fiscal.\n\n2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho e constam de regulamento interno.\n\n3 - Das reuniões do conselho de administração devem ser lavradas atas, a aprovar na reunião seguinte.\n\n4 - O SESARAM, E. P. E., obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 13.º\n\n5 - Em casos excecionais, o SESARAM, E. P. E. pode obrigar-se pela assinatura de um membro do conselho de administração, devendo o ato ser objeto de ratificação pelos demais membros, nos oito dias seguintes, sob pena de nulidade.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124211": {
+   "fragment_id": "115929846",
+   "type": 11,
+   "heading": "Artigo 15.º — Demissão",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 15.º — Demissão\n\n1 - Os membros do conselho de administração podem ser demitidos, nos termos da lei, quando lhes seja individualmente imputável uma das seguintes situações:\n\na) A avaliação do desempenho seja negativa, nos termos da lei;\n\nb) A violação grave, por ação ou omissão, da lei ou dos estatutos do SESARAM, E. P. E.;\n\nc) A violação das regras sobre incompatibilidades e impedimentos;\n\nd) A violação do dever de sigilo profissional.\n\n2 - A demissão requer audiência prévia do membro do conselho de administração, é devidamente fundamentada e implica a cessação do mandato, não havendo lugar a qualquer indemnização pela cessação de funções.\n\n3 - Os membros do conselho de administração podem também ser demitidos, a todo o tempo, nos termos da lei, independentemente dos fundamentos a que se refere o n.º 1.\n\n4 - A demissão nos termos do número anterior confere ao gestor o direito a uma indemnização correspondente ao vencimento de base que auferiria até final do respetivo mandato, com o limite de um ano, à qual será deduzida o montante do vencimento do lugar de origem que aquele tenha direito a reocupar, nos termos da lei.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124212": {
+   "fragment_id": "115929847",
+   "type": 11,
+   "heading": "Artigo 16.º — Dissolução e renúncia",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 16.º — Dissolução e renúncia\n\n1 - O conselho de administração pode ser dissolvido, nos termos da lei, nos seguintes casos:\n\na) Grave violação, por ação ou omissão, da lei ou dos estatutos do SESARAM, E. P. E.;\n\nb) Desvio substancial entre os orçamentos e a respetiva execução, quando não provocado por razões alheias ao exercício das funções pelos gestores;\n\nc) Grave deterioração dos resultados da atividade, incluindo a qualidade dos serviços prestados, quando não provocada por razões alheias ao exercício das funções pelos seus membros.\n\n2 - A dissolução requer audiência prévia, pelo menos, do presidente do conselho de administração, é devidamente fundamentada e implica a cessação do mandato de todos os membros do conselho de administração, não havendo lugar a qualquer indemnização pela cessação de funções.\n\n3 - O conselho de administração pode ainda ser dissolvido, a todo o tempo, nos termos da lei, independentemente dos fundamentos a que se refere o n.º 1.\n\n4 - Nos casos previstos no número anterior, os membros do conselho de administração têm direito a uma indemnização, nos termos do n.º 4 do artigo anterior.\n\n5 - Os membros do conselho de administração podem ainda renunciar ao cargo, nos termos da lei comercial.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124213": {
+   "fragment_id": "115929848",
+   "type": 11,
+   "heading": "Artigo 17.º — Estatuto dos membros do conselho de administração",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 17.º — Estatuto dos membros do conselho de administração\n\n1 - Aos membros do conselho de administração aplica-se o estatuto do gestor público regional.\n\n2 - A remuneração dos membros do conselho de administração do SESARAM, E. P. E., é fixada nos termos da lei em vigor, à data da sua nomeação.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124214": {
+   "fragment_id": "115929849",
+   "type": 11,
+   "heading": "Artigo 18.º — Presidente do conselho de administração",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 18.º — Presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração:\n\na) Coordenar a atividade do conselho de administração e dirigir as respetivas reuniões;\n\nb) Garantir a correta execução das deliberações do conselho de administração;\n\nc) Submeter à aprovação ou à autorização dos membros do Governo competentes todos os atos que delas careçam;\n\nd) Representar o SESARAM, E. P. E., em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;\n\ne) Exercer as competências que lhe sejam delegadas.\n\n2 - O presidente do conselho de administração é substituído nas suas faltas e impedimentos pelo vice-presidente.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124215": {
+   "fragment_id": "115929850",
+   "type": 11,
+   "heading": "Artigo 19.º — Diretor clínico",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 19.º — Diretor clínico\n\n1 - O diretor clínico é designado por despacho do Secretário Regional da Saúde, sob proposta do presidente do conselho de administração do SESARAM, E. P. E., em comissão de serviço, por um período de três anos, nos termos do artigo 30.º, n.º 2, de entre médicos que trabalhem nesta entidade pública empresarial, de reconhecido mérito, experiência profissional e perfil adequado.\n\n2 - Compete ao diretor clínico a direção da produção clínica do SESARAM, E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correção e prontidão dos cuidados de saúde prestados, designadamente:\n\na) Coordenar a elaboração dos planos de ação apresentados pelos vários serviços e departamentos de ação médica a integrar no plano de ação global do SESARAM, E. P. E.;\n\nb) Assegurar uma integração adequada da atividade clínica dos departamentos e serviços, designadamente através de uma utilização não compartimentada da capacidade instalada;\n\nc) Propor medidas necessárias à melhoria das estruturas organizativas, funcionais e físicas dos serviços de ação médica, dentro de parâmetros de eficiência e eficácia reconhecidos, que produzam os melhores resultados face às tecnologias disponíveis;\n\nd) Aprovar as orientações clínicas relativas à prescrição de medicamentos e meios complementares de diagnóstico e terapêutica, bem como os protocolos clínicos adequados às patologias mais frequentes, respondendo perante o conselho de administração pela sua adequação em termos de qualidade e de custo-benefício;\n\ne) Propor ao conselho de administração a realização, sempre que necessário, da avaliação externa do cumprimento das orientações clínicas e protocolos mencionados, em colaboração com a Ordem dos Médicos e instituições de ensino médico e sociedades científicas;\n\nf) Desenvolver a implementação de instrumentos de garantia de qualidade técnica dos cuidados de saúde;\n\ng) Decidir sobre conflitos de natureza técnica entre serviços de ação médica;\n\nh) Decidir as dúvidas que lhe sejam presentes sobre deontologia médica, desde que não seja possível o recurso, em tempo útil, à comissão de ética;\n\ni) Participar na gestão do pessoal médico, designadamente nos processos de admissão e mobilidade interna, ouvidos os respetivos responsáveis pelos serviços;\n\nj) Velar pela constante atualização do pessoal médico;\n\nk) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da medicina e com a formação dos médicos.\n\n3 - Compete ainda ao diretor clínico propor ao conselho de administração a nomeação dos diretores de departamento e de serviços de ação médica.\n\n4 - O diretor clínico responde perante o conselho de administração pela qualidade da assistência prestada, dentro das regras da boa prática e da melhor gestão de recursos.\n\n5 - O diretor clínico cessa funções com a cessação de funções do presidente do conselho de administração do SESARAM, E. P. E.\n\n6 - O diretor clínico será coadjuvado por adjuntos, em termos a definir em regulamento interno.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124216": {
+   "fragment_id": "115929851",
+   "type": 11,
+   "heading": "Artigo 20.º — Enfermeiro-diretor",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 20.º — Enfermeiro-diretor\n\n1 - O enfermeiro-diretor é designado por despacho do Secretário Regional da Saúde, sob proposta do presidente do conselho de administração do SESARAM, E. P. E., em comissão de serviço, por um período de três anos, nos termos do artigo 30.º, n.º 2, de entre enfermeiros que trabalhem nesta entidade pública empresarial, de reconhecido mérito, experiência profissional e perfil adequado.\n\n2 - Compete ao enfermeiro-diretor do SESARAM, E. P. E., a coordenação técnica e a gestão da atividade de enfermagem desta entidade, velando pela sua qualidade, designadamente:\n\na) Coordenar a elaboração dos planos de ação de enfermagem apresentados pelos vários serviços a integrar no plano de ação global do SESARAM, E. P. E.;\n\nb) Colaborar com o diretor clínico na compatibilização dos planos de ação dos diferentes serviços de ação médica;\n\nc) Contribuir para a definição das políticas ou diretivas de formação e investigação e velar pela constante atualização dos enfermeiros;\n\nd) Definir padrões de cuidados de enfermagem e indicadores de avaliação dos cuidados de enfermagem prestados;\n\ne) Proceder à gestão geral dos serviços de enfermagem, e elaborar propostas de admissão e de mobilidade dos enfermeiros, de acordo com as orientações estratégicas definidas pelo conselho de administração;\n\nf) Promover e acompanhar o processo de avaliação do pessoal de enfermagem;\n\ng) Propor a criação de um sistema efetivo de classificação de utentes para determinar as necessidades em cuidados de enfermagem e zelar pela sua manutenção, bem como a utilização do ratio de enfermeiro de família para afetação de recursos de enfermagem;\n\nh) Elaborar estudos para determinação de custos e benefícios no âmbito dos cuidados de enfermagem;\n\ni) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da atividade de enfermagem, designadamente de índole técnica e deontológica e de formação dos enfermeiros.\n\n3 - O enfermeiro-diretor responde perante o conselho de administração pela qualidade da assistência prestada, dentro das regras da boa prática e da melhor gestão de recursos, ao qual compete a coordenação e gestão geral das atividades de apoio social aos utentes do SESARAM, E. P. E.\n\n4 - O enfermeiro-diretor cessa funções com a cessação de funções do presidente do conselho de administração do SESARAM, E. P. E.\n\n5 - O enfermeiro-diretor será coadjuvado por adjuntos, em termos a definir em regulamento interno.\n\n6 - O enfermeiro-diretor poderá delegar as competências a que se referem os n.os 2 e 3 do presente artigo nos seus adjuntos ou nos enfermeiros com competências de chefia dos serviços de enfermagem.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124217": {
+   "fragment_id": "115929852",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho fiscal e revisor oficial de contas",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 21.º — Conselho fiscal e revisor oficial de contas\n\n1 - A fiscalização e controlo da gestão financeira e patrimonial é exercida por um conselho fiscal e por um revisor oficial de contas ou por uma sociedade de revisores oficiais de contas, que não seja membro daquele órgão, obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários.\n\n2 - O conselho fiscal é constituído por três membros efetivos e por um suplente, sendo um deles o presidente do órgão.\n\n3 - Os membros do conselho fiscal são nomeados, sob proposta do conselho de administração, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde, por um período de três anos, renovável por uma única vez.\n\n4 - O revisor oficial de contas ou a sociedade de revisores oficiais de contas é nomeado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde, sob proposta fundamentada do conselho fiscal, tendo o mandato a duração de três anos, renovável por uma única vez.\n\n5 - A remuneração do conselho fiscal é fixada no despacho a que se refere o n.º 3, atendendo ao grau de complexidade e de exigência inerente ao exercício do respetivo cargo e tendo em conta os critérios de classificação do SESARAM, E. P. E..\n\n6 - Cessando o mandato do conselho fiscal e do revisor oficial de contas ou da sociedade de revisores oficiais de contas, mantêm-se os titulares em exercício de funções, até à designação de novos ou à declaração governamental de cessação de funções.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124218": {
+   "fragment_id": "115929853",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 22.º — Competências\n\n1 - O conselho fiscal tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes Estatutos.\n\n2 - Ao conselho fiscal compete, especialmente, sem prejuízo das demais competências que lhe sejam atribuídas por lei:\n\na) Dar parecer sobre o relatório de gestão;\n\nb) Acompanhar com regularidade a gestão através de balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;\n\nd) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;\n\ne) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;\n\nf) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\ng) Dar parecer sobre a realização de investimentos e a contração de empréstimos;\n\nh) Elaborar relatórios da sua ação fiscalizadora, incluindo um relatório anual global;\n\ni) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira da Região.\n\n3 - Compete ao revisor oficial de contas ou à sociedade de revisores oficiais de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas, bem como exercer as seguintes funções:\n\na) Verificar da regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;\n\nb) Verificar, quando o julgue conveniente e pela forma que entenda adequada, a extensão da caixa e as existências de qualquer espécie de bens ou valores pertencentes à empresa ou por ela recebidos em garantia, depósito ou outro título;\n\nc) Verificar a exatidão dos documentos de prestação de contas;\n\nd) Verificar se os critérios valorimétricos adotados pelo SESARAM, E. P. E., conduzem a uma correta avaliação do património e dos resultados.\n\n4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal e o revisor oficial de contas ou a sociedade de revisores oficiais de contas, devem emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal e o revisor oficial de contas ou a sociedade de revisores oficiais de contas, devem emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124219": {
+   "fragment_id": "115929854",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão financeira e patrimonial",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "### Capítulo IV — Gestão financeira e patrimonial\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124220": {
+   "fragment_id": "115929855",
+   "type": 11,
+   "heading": "Artigo 23.º — Receitas",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 23.º — Receitas\n\nSão receitas do SESARAM, E. P. E.:\n\na) As dotações do Orçamento da Região Autónoma da Madeira incluídas nos contratos-programa;\n\nb) Outras dotações, comparticipações e subsídios do Estado ou de outras entidades;\n\nc) O pagamento de serviços prestados, nos termos da legislação em vigor e dos acordos e tabelas aprovados;\n\nd) O rendimento de bens próprios;\n\ne) O produto da alienação de bens próprios e da constituição de direitos sobre os mesmos;\n\nf) As doações, heranças ou legados;\n\ng) Quaisquer outros rendimentos ou valores que resultem da sua atividade ou que por lei ou contrato devam pertencer-lhe.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124221": {
+   "fragment_id": "115929856",
+   "type": 11,
+   "heading": "Artigo 24.º — Património",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 24.º — Património\n\n1 - O património próprio do SESARAM, E. P. E., é constituído pelos bens e direitos por si adquiridos a qualquer título.\n\n2 - O SESARAM, E. P. E., pode dispor dos bens que integram o seu património, nos termos do presente diploma e da demais legislação aplicável.\n\n3 - Os bens imóveis afetos ao SESARAM, E. P. E., que constituem património da Região, poderão ser objeto de intervenção em termos de ampliação, modernização, requalificação e adaptação de capacidade instalada, assim como de obras de reabilitação e de remodelação, a serem promovidas pela administração direta da Região Autónoma da Madeira, em coordenação com a Secretaria Regional da Saúde e o SESARAM, E. P. E.\n\n4 - Excluem-se do disposto no número anterior os imóveis que se encontrem concessionados.\n\n5 - Compete ao SESARAM, E. P. E., proceder à manutenção e conservação corrente dos imóveis que integram o património referido no n.º 3.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124222": {
+   "fragment_id": "115929857",
+   "type": 11,
+   "heading": "Artigo 25.º — Instrumentos de gestão previsional",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 25.º — Instrumentos de gestão previsional\n\nA gestão financeira e patrimonial do SESARAM, E. P. E., rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:\n\na) Planos plurianuais e anuais de atividades, de investimento e financeiros, com um horizonte de três anos;\n\nb) Orçamento anual de investimento;\n\nc) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos;\n\nd) Orçamento anual de tesouraria;\n\ne) Balanço previsional;\n\nf) Contratos-programa.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124223": {
+   "fragment_id": "115929858",
+   "type": 11,
+   "heading": "Artigo 26.º — Controlo financeiro",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 26.º — Controlo financeiro\n\nSem prejuízo do disposto na legislação aplicável, deve o SESARAM, E. P. E., submeter aos Secretários Regionais das Finanças e da Administração Pública e da Saúde os planos de atividade e os orçamentos, até final do mês de outubro de cada ano, bem como os documentos de prestação de contas, nos termos do presente diploma e os indicadores de atividade, económico-financeira, de recursos humanos e outros definidos por aqueles membros do Governo Regional, com a periodicidade que for estabelecida.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124224": {
+   "fragment_id": "115929859",
+   "type": 11,
+   "heading": "Artigo 27.º — Aquisição de bens e serviços",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 27.º — Aquisição de bens e serviços\n\n1 - A aquisição de bens e serviços e a contratação de empreitadas pelo SESARAM, E. P. E., rege-se pelas normas do direito privado, sem prejuízo da aplicação do regime do direito comunitário relativo à contratação pública.\n\n2 - O disposto no número anterior deve ser garantido em regulamento interno, bem como o cumprimento, em qualquer caso, dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124225": {
+   "fragment_id": "115929860",
+   "type": 11,
+   "heading": "Artigo 28.º — Contabilidade",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 28.º — Contabilidade\n\nO SESARAM, E. P. E., segue o plano oficial de contabilidade em vigor para o setor da saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos Secretários Regionais das Finanças e da Administração Pública e da Saúde.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124226": {
+   "fragment_id": "115929861",
+   "type": 11,
+   "heading": "Artigo 29.º — Documentos de prestação de contas",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 29.º — Documentos de prestação de contas\n\nOs instrumentos de prestação de contas do SESARAM, E. P. E., a elaborar e submeter aos Secretários Regionais das Finanças e da Administração Pública e da Saúde até ao final do mês de março do ano seguinte, com referência a 31 de dezembro de cada ano, são, designadamente, os seguintes:\n\na) Relatório do conselho de administração e proposta de aplicação de resultados;\n\nb) Relatório sobre a execução anual do plano plurianual de investimentos;\n\nc) Balanço e demonstração de resultados;\n\nd) Anexo ao balanço e demonstração de resultados;\n\ne) Demonstração de fluxos de caixa;\n\nf) Relação dos empréstimos contraídos a médio e longo prazo;\n\ng) Certificação legal de contas;\n\nh) Relatório e parecer do Conselho Fiscal.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "124124227": {
+   "fragment_id": "115929862",
+   "type": 1,
+   "heading": "Capítulo V — Do pessoal",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "### Capítulo V — Do pessoal\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124228": {
+   "fragment_id": "115929863",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 30.º — Regime\n\n1 - Os trabalhadores do SESARAM, E. P. E., estão sujeitos ao regime do contrato de trabalho, de acordo com o Código do Trabalho, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação coletiva de trabalho e regulamentos internos, sem prejuízo do disposto no artigo 33.º\n\n2 - O disposto no número anterior aplica-se aos cargos de direção e chefia não integrados em carreiras e aos de diretor clínico e enfermeiro-diretor.\n\n3 - As habilitações e qualificações para admissão de pessoal correspondem às do Serviço Nacional de Saúde e os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade, da imparcialidade, da não discriminação, bem como da publicidade, exceto em casos de manifesta urgência devidamente fundamentada.\n\n4 - Para efeitos de deslocação em serviço, entende-se que a Região Autónoma da Madeira constitui o domicílio necessário dos trabalhadores do SESARAM, E. P. E.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124229": {
+   "fragment_id": "115929864",
+   "type": 11,
+   "heading": "Artigo 31.º — Dotação de pessoal",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 31.º — Dotação de pessoal\n\nO SESARAM, E. P. E., deve prever anualmente uma dotação global de pessoal, através do respetivo orçamento e contrato-programa, considerando os planos de atividade e o desenvolvimento das carreiras, englobando o quadro de pessoal referido no n.º 3 do artigo 33.º\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124230": {
+   "fragment_id": "115929865",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124231": {
+   "fragment_id": "115929866",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime experimental",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 32.º — Regime experimental\n\n1 - O presente diploma será revisto ao fim de três anos em função da avaliação sistemática dos resultados qualitativos e quantitativos, da mesma dependendo a decisão de prorrogação, cessação ou consolidação da atribuição deste estatuto.\n\n2 - No caso de cessação da atribuição deste estatuto, é garantido a todos os profissionais em regime de contrato individual de trabalho, do Código do Trabalho, a integração no mapa de pessoal do SESARAM, E. P. E., ou das instituições que lhe sucedam, na mesma categoria, sendo-lhes aplicável:\n\na) O regime jurídico dos trabalhadores em funções públicas, caso se encontrem na situação a que se refere o n.º 2 do artigo 33.º, salvo se optarem pelo disposto na alínea seguinte;\n\nb) A manutenção do regime jurídico do contrato individual de trabalho, do Código do Trabalho, nos demais casos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  },
+  "124124232": {
+   "fragment_id": "115929867",
+   "type": 11,
+   "heading": "Artigo 33.º — Pessoal em regime de direito público",
+   "in_force_from": "2019-08-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+   ],
+   "markdown": "###### Artigo 33.º — Pessoal em regime de direito público\n\n1 - Ao pessoal em exercício de funções no SESARAM, E. P. E., em regime de direito público, é garantida a manutenção integral do seu estatuto jurídico, sem prejuízo da opção, a todo o tempo, pelo regime do contrato individual de trabalho, do Código do Trabalho.\n\n2 - Aos trabalhadores em regime de funções públicas, contratados para prestar serviço no SESARAM, E. P. E., nos termos do disposto nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, é aplicável, automaticamente, o regime das licenças sem remuneração, previsto no Regime de Contrato de Trabalho em Funções Públicas, aprovado pelo Anexo I à Lei n.º 59/2008, de 11 de setembro, sendo-lhes assegurada durante a licença sem remuneração:\n\na) A contagem, na categoria de origem, do tempo de serviço prestado no SESARAM, E. P. E.;\n\nb) A opção pela manutenção do regime de proteção social dos trabalhadores em funções públicas, incidindo os descontos sobre o montante da remuneração efetivamente auferida.\n\n3 - Mantêm-se com caráter residual os quadros de pessoal aprovados pelas portarias conjuntas da Vice-Presidência do Governo Regional e das Secretarias Regionais do Plano e Finanças e dos Assuntos Sociais n.os 29-A/2004, de 27 de fevereiro, 56/2005, de 2 de junho, 123/2006, de 10 de outubro, e 133/2007, de 18 de dezembro, exclusivamente para efeitos de desenvolvimento da carreira dos trabalhadores em regime de funções públicas e ainda do ingresso dos contratados em regime de funções públicas, a termo resolutivo incerto, que, à data de entrada em vigor do Decreto Legislativo Regional n.º 9/2003/M, de 27 de maio, estivessem vinculados com contrato administrativo de provimento.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 13/2019/M - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-124134341), em vigor a partir de 2019-08-23"
+  }
+ }
+}

@@ -1,0 +1,2302 @@
+---
+schema_version: '1.0'
+id: eu:celex:32022R0869:por
+title: Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho de 30 de maio de 2022
+short_title: null
+summary: Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho de 30 de maio de 2022 relativo às orientações para
+  as infraestruturas energéticas transeuropeias, que altera os Regulamentos (CE) n.o 715/2009, (UE) 2019/942 e (UE) 2019/943
+  e as Diretivas 2009/73/CE e (UE) 2019/944 e que revoga o Regulamento (UE) n.o 347/2013
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Parlamento Europeu
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2022/869
+official_date: '2022-05-30'
+publication_date: '2022-06-03'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 152 de 3.6.2022
+  number: '152'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/dd62a206-e2d6-11ec-a534-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2022-06-23'
+end_of_validity_date: '2024-08-03'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2026-04-29'
+version_history:
+  file: regulamento-ue-2022-869.versoes.json
+  count: 5
+  source_lastmod: '2026-04-29'
+  versions:
+  - date: '2022-06-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-04-28'
+    amending: eu:celex:32024R1041:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1041 DA COMISSÃO de 28 de novembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Critérios de avaliação dos projetos pelos Grupos
+    - Altera Artigo 8.º — Organização do processo de concessão de licenças
+    - Altera Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+    - Altera Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+    - Altera Artigo 21.º — Relatórios e avaliação
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 32.º — Revogação
+    - Altera Artigo 33.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CORREDORES E DOMÍNIOS PRIORITÁRIOS DAS INFRAESTRUTURAS ENERGÉTICAS
+    - Adita (referidos no artigo 1.º, n.º 1)
+    - Adita 1. CORREDORES PRIORITÁRIOS NO SECTOR DA ELETRICIDADE
+    - Adita 2. CORREDORES PRIORITÁRIOS DAS REDES AO LARGO
+    - Adita 3. CORREDORES PRIORITÁRIOS PARA O HIDROGÉNIO E OS ELETROLISADORES
+    - Adita 4. DOMÍNIOS TEMÁTICOS PRIORITÁRIOS
+    - Adita ANEXO II
+    - Adita CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Adita ANEXO III
+    - Adita LISTAS REGIONAIS DOS PROJETOS
+    - Adita 1. REGRAS APLICÁVEIS AOS GRUPOS
+    - Adita 2. PROCESSO DE ESTABELECIMENTO DE LISTAS REGIONAIS
+    - Adita ANEXO IV
+    - Adita REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS
+    - Adita ANEXO V
+    - Adita ANÁLISE DE CUSTO-BENEFÍCIO A NÍVEL DO SISTEMA ENERGÉTICO
+    - Adita ANEXO VI
+    - Adita ORIENTAÇÕES EM MATÉRIA DE TRANSPARÊNCIA E DE PARTICIPAÇÃO PÚBLICA
+    - Adita ANEXO VII
+    - Adita LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO («LISTA DA UNIÃO»)
+    - Adita referida no artigo 3.º, n.º 4
+    - Adita A. PRINCÍPIOS APLICADOS NA ELABORAÇÃO DA LISTA DA UNIÃO
+    - Adita (1) Agregados de projetos de interesse comum e de projetos de interesse mútuo
+    - Adita (2) Tratamento das subestações e das estações de compressão
+    - Adita (3) Partes não elegíveis dos projetos de interesse comum ou dos projetos de interesse mútuo
+  - date: '2024-08-18'
+    amending: eu:celex:32024R1991:por
+    amending_title: REGULAMENTO (UE) 2024/1991 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Estatuto prioritário dos projetos constantes da lista da União
+    - Altera Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+    - Altera Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 32.º — Revogação
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera Notas
+  - date: '2025-02-05'
+    amending: eu:celex:32024R1789:por
+    amending_title: REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Estatuto prioritário dos projetos constantes da lista da União
+    - Altera Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+    - Altera Artigo 12.º — Cenários para os planos decenais de desenvolvimento da rede
+    - Altera Artigo 13.º — Identificação das lacunas em matéria de infraestruturas
+    - Altera Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 31.º — Período transitório
+    - Altera Artigo 32.º — Revogação
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera Notas
+  - date: '2026-04-29'
+    amending: eu:celex:32026R0764:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/764 DA COMISSÃO de 1 de dezembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Estatuto prioritário dos projetos constantes da lista da União
+    - Altera Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+    - Altera Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 32.º — Revogação
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO («LISTA DA UNIÃO»)
+    - Altera A. PRINCÍPIOS APLICADOS NA ELABORAÇÃO DA LISTA DA UNIÃO
+    - Altera B. LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO
+    - Altera Notas
+    - Adita C. LISTAS DE «PROJETOS QUE DEIXARAM DE SER CONSIDERADOS DE INTERESSE COMUM OU DE INTERESSE MÚTUO» E DE «PROJETOS
+      QUE PASSARAM A FAZER PARTE DE OUTROS PROJETOS DE INTERESSE COMUM OU PROJETOS DE INTERESSE MÚTUO»
+    - Suprime referida no artigo 3.º, n.º 4
+    - Suprime (1) Agregados de projetos de interesse comum e de projetos de interesse mútuo
+    - Suprime (2) Tratamento das subestações e das estações de compressão
+    - Suprime (3) Partes não elegíveis dos projetos de interesse comum ou dos projetos de interesse mútuo
+    - Suprime (4) Projetos de interesse comum cujo número mudou em relação à anterior lista da União
+    - Suprime (1) Interligações Norte-Sul de eletricidade na Europa Ocidental («NSI West Electricity»)
+    - Suprime (2) Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste («NSI East Electricity»)
+    - Suprime (3) Plano de Interligação do Mercado Báltico da Energia no setor da eletricidade («BEMIP Electricity»)
+    - Suprime (4) Redes ao largo nos mares do Norte («NSOG»)
+    - Suprime (5) Plano de Interligação do Mercado Báltico da Energia para as redes ao largo («BEMIP offshore»)
+    - Suprime (6) Redes ao largo meridional e ocidental («SW offshore»)
+    - Suprime (7) Redes ao largo meridional e oriental («SE offshore»)
+    - Suprime (8) Redes ao largo atlânticas
+    - Suprime (9) Interligações para o hidrogénio na Europa Ocidental («HI West»)
+    - Suprime (10) Interligações de hidrogénio na Europa Centro-Oriental e do Sudeste («HI East»)
+    - Suprime (11) Plano de Interligação do Mercado Báltico da Energia no setor do hidrogénio («BEMIP Hydrogen»)
+    - Suprime (12) Domínio temático prioritário «Implantação de Redes Elétricas Inteligentes»
+    - Suprime (13) Domínio temático prioritário «Redes transfronteiras de dióxido de carbono»
+    - Suprime (14) Domínio temático prioritário «Redes de Gás Inteligentes»
+    - Suprime (15) Projetos que mantêm o seu estatuto de projeto de interesse comum (derrogação prevista no artigo 24.º)
+identifiers:
+  celex: 32022R0869
+  eli: http://data.europa.eu/eli/reg/2022/869/oj
+  oj: oj:JOL_2022_152_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32022R0869:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022R0869
+  metadata_url: http://publications.europa.eu/resource/cellar/dd62a206-e2d6-11ec-a534-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R0869-20260429
+  retrieved_at: '2026-10-22T17:15:59Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-16T06:04:58.102+02:00'
+integrity:
+  source_sha256: 10885a1626c766e7c13d385e80c1d6c3ff674d4d02dcaaf43ca1e7d5fda7f7d4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:59Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2022-869.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- cooperação energética
+- distribuição de eletricidade
+- distribuição de gás
+- energia elétrica
+- neutralidade carbónica
+- política energética da UE
+- projeto de interesse comum
+- rede energética
+- rede transeuropeia
+- segurança de abastecimento
+relationships:
+- type: amended_by
+  target: celex:32024R1041
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c598bced-f53f-11ee-8e14-01aa75ed71a1
+  date: '2024-04-08'
+- type: amended_by
+  target: celex:32024R1789
+  label: null
+  source: http://publications.europa.eu/resource/cellar/20530115-4242-11ef-865a-01aa75ed71a1
+  date: '2024-07-15'
+- type: amended_by
+  target: celex:32024R1991
+  label: null
+  source: http://publications.europa.eu/resource/cellar/19be476c-4d44-11ef-acbc-01aa75ed71a1
+  date: '2024-07-29'
+- type: amended_by
+  target: celex:32026R0764
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b5e860d7-33ad-11f1-be39-01aa75ed71a1
+  date: '2026-04-09'
+- type: amends
+  target: celex:32009L0073
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a0b2dee3-1ab4-4204-92e7-cb494cce6130
+  date: '2009-07-13'
+- type: amends
+  target: celex:32009R0715
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f1610b76-5447-4182-97d3-375a42748ab8
+  date: '2009-08-11'
+- type: amends
+  target: celex:32019L0944
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1
+  date: '2019-06-14'
+- type: amends
+  target: celex:32019R0942
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e848b031-8e7b-11e9-9369-01aa75ed71a1
+  date: '2019-06-14'
+- type: amends
+  target: celex:32019R0943
+  label: null
+  source: http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1
+  date: '2019-06-14'
+- type: based_on
+  target: celex:12016E172
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dc307073-e3c8-4f0b-8f95-2cf1737bd56e
+  date: '2016-06-09'
+- type: cited_by
+  target: pt:dre:1055043916:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:891107797:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:927196887:por
+  label: null
+  source: null
+- type: cites
+  target: celex:12016E194
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4b87c3ec-0814-4314-afcd-68d9aa912b58
+- type: cites
+  target: celex:12016E290
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2336cfbf-797f-4c59-b9f7-e859ed72817e
+- type: cites
+  target: celex:12016M005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c404f9ba-4b2f-403c-8517-f911d61cbbd7
+- type: cites
+  target: celex:21992A0424(04)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4d8e7d88-883e-4815-aedb-b20a6291422e
+- type: cites
+  target: celex:21994A0207(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/37519074-44e2-419c-ab77-a4460c2aba73
+- type: cites
+  target: celex:22005A0517(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/af47b123-2eed-44a4-9079-c232e318f5ad
+- type: cites
+  target: celex:22016A1019(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8e9b8d04-95ca-11e6-a9e2-01aa75ed71a1
+- type: cites
+  target: celex:31992L0043
+  label: null
+  source: http://publications.europa.eu/resource/cellar/226d5e34-b115-4d2f-a54c-d66aa5385fda
+- type: cites
+  target: celex:32000L0060
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5c835afb-2ec6-4577-bdf8-756d3d694eeb
+- type: cites
+  target: celex:32001L0042
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d7661277-9738-421d-b872-6f07e1abf968
+- type: cites
+  target: celex:32008L0114
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ba51b03f-66f4-4807-bf7d-c66244414b10
+- type: cites
+  target: celex:32009L0031
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2c32c0c9-8be9-415c-be08-84adbbdb6eb1
+- type: cites
+  target: celex:32009R0401
+  label: null
+  source: http://publications.europa.eu/resource/cellar/84604a64-eba0-4c37-b5db-a8f2924ba089
+- type: cites
+  target: celex:32009R0714
+  label: null
+  source: http://publications.europa.eu/resource/cellar/924a1d7c-1961-4421-be9e-3c740524436e
+- type: cites
+  target: celex:32010L0075
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c7191b72-4e07-4712-86d6-d3ae5e4f0082
+- type: cites
+  target: celex:32011L0092
+  label: null
+  source: http://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a
+- type: cites
+  target: celex:32013R1315
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f277232a-699e-11e3-8e4e-01aa75ed71a1
+- type: cites
+  target: celex:32013R1316
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dba332db-69a6-11e3-8e4e-01aa75ed71a1
+- type: cites
+  target: celex:32014L0089
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ab147bca-2e82-11e4-8c3c-01aa75ed71a1
+- type: cites
+  target: celex:32016Q0512(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f082e37e-180d-11e6-ba9a-01aa75ed71a1
+- type: cites
+  target: celex:32018L2001
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7aa60dea-04e7-11e9-adde-01aa75ed71a1
+- type: cites
+  target: celex:32018R1046
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5e3c1d89-93bd-11e8-8bc1-01aa75ed71a1
+- type: cites
+  target: celex:32018R1999
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c6980a60-04e7-11e9-adde-01aa75ed71a1
+- type: cites
+  target: celex:32020R0852
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e5ba36a8-b454-11ea-bb7a-01aa75ed71a1
+- type: cites
+  target: celex:32020R1294
+  label: null
+  source: http://publications.europa.eu/resource/cellar/007ec523-f8ad-11ea-991b-01aa75ed71a1
+- type: cites
+  target: celex:32021R1119
+  label: null
+  source: http://publications.europa.eu/resource/cellar/365a2e8e-e04f-11eb-895a-01aa75ed71a1
+- type: cites
+  target: celex:32021R1153
+  label: null
+  source: http://publications.europa.eu/resource/cellar/10613289-e43f-11eb-895a-01aa75ed71a1
+- type: cites
+  target: celex:52019DC0640
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b828d165-1c22-11ea-8c1f-01aa75ed71a1
+- type: cites
+  target: celex:52020AE5835
+  label: null
+  source: http://publications.europa.eu/resource/cellar/42022458-c8be-11eb-84ce-01aa75ed71a1
+- type: cites
+  target: celex:52020DC0299
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5ba29377-c135-11ea-b3a4-01aa75ed71a1
+- type: cites
+  target: celex:52020DC0301
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5602f358-c136-11ea-b3a4-01aa75ed71a1
+- type: cites
+  target: celex:52020DC0562
+  label: null
+  source: http://publications.europa.eu/resource/cellar/78db0798-f8c4-11ea-991b-01aa75ed71a1
+- type: cites
+  target: celex:52020IP0199
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8d604299-15c1-11ec-b4fe-01aa75ed71a1
+- type: cites
+  target: celex:52021AR0722
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9dc6b181-3856-11ec-8daf-01aa75ed71a1
+- type: corrected_by
+  target: celex:32022R0869R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a3746033-105a-11f1-8870-01aa75ed71a1
+  date: '2026-02-23'
+- type: implicitly_repeals
+  target: celex:32013R1391
+  label: null
+  source: http://publications.europa.eu/resource/cellar/91e76bc0-6bd7-11e3-9afb-01aa75ed71a1
+  date: '2013-12-21'
+- type: implicitly_repeals
+  target: celex:32016R0089
+  label: null
+  source: http://publications.europa.eu/resource/cellar/80b62ae8-c4cd-11e5-a4b5-01aa75ed71a1
+  date: '2016-01-27'
+- type: implicitly_repeals
+  target: celex:32018R0540
+  label: null
+  source: http://publications.europa.eu/resource/cellar/49d2bace-3964-11e8-b5fe-01aa75ed71a1
+  date: '2018-04-06'
+- type: implicitly_repeals
+  target: celex:32020R0389
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b5853453-635f-11ea-b735-01aa75ed71a1
+  date: '2020-03-11'
+- type: repealed_by
+  target: celex:32024L1788
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f07e2c67-4242-11ef-865a-01aa75ed71a1
+  date: '2024-07-15'
+- type: repealed_by
+  target: celex:32024R1789
+  label: null
+  source: http://publications.europa.eu/resource/cellar/20530115-4242-11ef-865a-01aa75ed71a1
+  date: '2024-07-15'
+- type: repeals
+  target: celex:32013R0347
+  label: null
+  source: http://publications.europa.eu/resource/cellar/579d92a9-acc7-11e2-ab01-01aa75ed71a1
+  date: '2013-04-24'
+article_structure:
+  article_count: 33
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T17:15:59Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho de 30 de maio de 2022
+
+de 30 de maio de 2022
+
+relativo às orientações para as infraestruturas energéticas transeuropeias, que altera os Regulamentos (CE) n.º 715/2009, (UE) 2019/942 e (UE) 2019/943 e as Diretivas 2009/73/CE e (UE) 2019/944 e que revoga o Regulamento (UE) n.º 347/2013
+
+## CAPÍTULO I
+
+### DIsposições gerais
+
+###### Artigo 1.º — Objeto, objetivos e âmbito de aplicação
+
+1. O presente regulamento estabelece orientações para o desenvolvimento atempado e a interoperabilidade dos corredores e domínios prioritários das infraestruturas energéticas transeuropeias (corredores e domínios prioritários das infraestruturas energéticas) definidos no anexo I que contribuem para assegurar a atenuação das alterações climáticas, nomeadamente para alcançar as metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática até 2050, o mais tardar, e para assegurar as interligações, a segurança energética, a integração do mercado e do sistema e as condições de concorrência que beneficiem todos os Estados-Membros, bem como preços da energia acessíveis.
+
+2.
+
+Nomeadamente, o presente regulamento:
+
+a) Prevê a identificação de projetos constantes da lista da União de projetos de interesse comum e de projetos de interesse mútuo, estabelecida nos termos do artigo 3.º (lista da União);
+
+b) Facilita a execução atempada dos projetos constantes da lista da União através da racionalização, de uma coordenação mais estreita e da aceleração dos processos de concessão de licenças, e ainda do reforço da transparência e da participação pública;
+
+c) Estabelece regras para a imputação dos custos transfronteiriços e os incentivos relacionados com os riscos para projetos constantes da lista da União;
+
+d) Determina as condições de elegibilidade dos projetos constantes da lista da União para assistência financeira da União.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente regulamento, para além das definições previstas nos Regulamentos (CE) n.º 715/2009, (UE) 2018/1999, (UE) 2019/942 e (UE) 2019/943 e nas Diretivas 2009/73/CE, (UE) 2018/2001 ([^1^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0001)) e (UE) 2019/944, entende-se por:
+
+1) «Infraestrutura energética», um equipamento físico ou instalação pertencente às categorias de infraestruturas energéticas que esteja localizado na União ou que ligue a União a um ou mais países terceiros;
+
+2) «Estrangulamento da infraestrutura energética», limitação dos fluxos físicos num sistema energético devida à insuficiente capacidade de transporte, o que inclui, nomeadamente, a falta de infraestruturas;
+
+3) «Decisão global», a decisão, ou o conjunto de decisões, tomada por uma autoridade ou autoridades de um Estado-Membro, excluindo tribunais, que determina se um promotor de um projeto está autorizado a construir a infraestrutura energética para realizar um projeto de interesse comum ou um projeto de interesse mútuo tendo a possibilidade de iniciar, ou de contratar e iniciar, as obras de construção necessárias (fase «pronto a construir»), sem prejuízo de qualquer decisão tomada no âmbito de um procedimento de recurso administrativo;
+
+4) «Projeto», uma ou mais linhas, gasodutos, instalações ou equipamentos pertencentes às categorias de infraestruturas energéticas indicadas no anexo II;
+
+5) «Projeto de interesse comum», um projeto necessário para executar os corredores e domínios prioritários das infraestruturas energéticas indicados no anexo I e que consta da lista da União;
+
+6) «Projeto de interesse mútuo», um projeto promovido pela União em cooperação com países terceiros nos termos de cartas de apoio dos governos dos países diretamente afetados, ou de outros acordos não vinculativos, abrangido por uma das categorias de infraestruturas energéticas definidas no ponto 1, alíneas a) ou f), no ponto 3, alínea a), ou no ponto 5, alíneas a) ou c), do anexo II, que contribui para as metas da União para 2030 em matéria de energia e de clima e para o seu objetivo de neutralidade climática para 2050 e que consta da lista da União;
+
+7) «Projetos concorrentes», os projetos que preenchem, no todo ou em parte, a mesma lacuna identificada em matéria de infraestruturas ou necessidade regional em matéria de infraestruturas;
+
+8) «Promotor do projeto», um dos seguintes:
+
+a) Um operador da rede de transporte (ORT), um operador da rede de distribuição (ORD) ou outro operador ou investidor que desenvolva um projeto constante da lista da União;
+
+b) Se existir mais de um ORT, de um ORD, de outro operador ou investidor, ou de um grupo dos mesmos, a entidade com personalidade jurídica nos termos do direito nacional aplicável que tenha sido designada por meio de um acordo contratual celebrado entre eles e que tenha capacidade para assumir compromissos jurídicos em nome das partes no acordo contratual, bem como assumir a respetiva responsabilidade financeira;
+
+9) «Rede elétrica inteligente», uma rede de eletricidade, inclusive em ilhas que não estão interligadas ou que não estão suficientemente ligadas a redes transeuropeias de energia, que permite a integração, de forma eficiente em termos de custos, e o controlo ativo do comportamento e das ações de todos os utilizadores a ela ligados, incluindo produtores, consumidores e produtores-consumidores, a fim de assegurar um sistema elétrico economicamente eficiente e sustentável, com perdas baixas e um nível elevado de integração de fontes renováveis, de segurança do abastecimento e de segurança e na qual o operador da rede pode monitorizar, por via digital, as ações dos utilizadores a ela ligados, bem como as tecnologias de informação e comunicação para comunicar com os operadores da rede, os produtores, as instalações de armazenamento de energia e os consumidores ou os produtores-consumidores conexos, a fim de transportar e distribuir a eletricidade de uma forma sustentável, eficiente em termos de custos e segura;
+
+10) «Rede de gás inteligente», uma rede de gás que utiliza soluções inovadoras e digitais para integrar, de uma forma eficiente em termos de custos, uma pluralidade de fontes de gás hipocarbónicas e, em especial, renováveis, em conformidade com as necessidades dos consumidores e os requisitos em matéria de qualidade do gás, a fim de reduzir a pegada carbónica do consumo de gás correspondente, de permitir aumentar a quota-parte de gases renováveis e hipocarbónicos e de criar ligações com outros vetores e sectores energéticos, incluindo as melhorias físicas conexas que sejam indispensáveis para o funcionamento do equipamento e das instalações para a integração dos gases hipocarbónicos e, em especial, renováveis;
+
+11) «Autoridade em causa», uma autoridade que, nos termos do direito nacional, é competente para emitir várias licenças e autorizações relativas ao planeamento, à conceção e à construção de bens imóveis, incluindo infraestruturas energéticas;
+
+12) «Entidade reguladora nacional», uma entidade reguladora nacional designada nos termos do artigo 39.º, n.º 1, da Diretiva 2009/73/CE, ou uma autoridade reguladora a nível nacional designada nos termos do artigo 57.º da Diretiva (UE) 2019/944;
+
+13) «Entidade reguladora nacional relevante», a entidade reguladora nacional dos Estados-Membros que acolhem os projetos e dos Estados-Membros nos quais o projeto exerce um impacto positivo significativo;
+
+14) «Obras», a aquisição, o fornecimento e a implantação de componentes, sistemas e serviços, incluindo software, a realização dos trabalhos de desenvolvimento, reconversão, e construção e instalação relativos a um projeto, a homologação das instalações e o lançamento de um projeto;
+
+15) «Estudos», as atividades necessárias para preparar a execução de um projeto, como estudos preparatórios, de viabilidade, de avaliação, de teste e de validação, incluindo software, e quaisquer outras medidas de apoio técnico, incluindo os trabalhos prévios de definição e de desenvolvimento de um projeto e a decisão sobre o seu financiamento, nomeadamente o reconhecimento dos locais em causa e a preparação do pacote financeiro;
+
+16) «Colocação em funcionamento», o processo de pôr em funcionamento um projeto depois de concluída a sua construção;
+
+17) «Ativos dedicados ao hidrogénio», uma infraestrutura apta a acolher hidrogénio puro sem obras de adaptação adicionais, nomeadamente redes de gasodutos ou locais de armazenamento recém-construídos, reconvertidos a partir de ativos dedicados ao gás natural, ou ambos;
+
+18) «Reconversão», a atualização técnica ou modificação da infraestrutura de gás natural existente de forma a assegurar que se destina especificamente à utilização de hidrogénio puro;
+
+19) «Adaptação às alterações climáticas», um processo que assegura que a resiliência das infraestruturas energéticas aos potenciais impactos adversos das alterações climáticas é alcançada através de uma avaliação dos riscos e da vulnerabilidade climática, nomeadamente através de medidas de adaptação pertinentes.
+
+## CAPÍTULO II
+
+### Projetos de interesse comum e projetos de interesse mútuo
+
+###### Artigo 3.º — Lista da União de projetos de interesse comum e de projetos de interesse mútuo
+
+1. São criados grupos regionais («Grupos»), em conformidade com o procedimento definido na secção 1 do anexo III. A participação num Grupo baseia-se em cada corredor e domínio prioritário e na respetiva cobertura geográfica como indicado no anexo I. O poder de decisão nos Grupos é reservado aos Estados-Membros e à Comissão («órgão de decisão») e baseado num consenso.
+
+2. Cada Grupo aprova o seu regulamento interno, tendo em conta as disposições estabelecidas no anexo III.
+
+3. O órgão de decisão de cada Grupo aprova uma lista regional de projetos, elaborada de acordo com o processo descrito na secção 2 do anexo III, em função do contributo de cada projeto para a realização dos corredores e domínios prioritários das infraestruturas energéticas definidos no anexo I e da forma como preenchem os critérios estabelecidos no artigo 4.º.
+
+Quando um Grupo elabora a sua lista regional:
+
+a) Cada proposta relativa a um projeto exige a aprovação dos Estado-Membros a cujo território o projeto diga respeito; se um Estado-Membro não der a sua aprovação, deve fundamentar as razões dessa decisão ao Grupo em causa;
+
+b) tem em conta o parecer da Comissão a fim de incluir na lista da União um número total gerível de projetos.
+
+4. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 20.º do presente regulamento, para estabelecer a lista da União, sem prejuízo do artigo 172.º, segundo parágrafo, do TFUE.
+
+No exercício das suas competências, a Comissão assegura que a lista da União seja estabelecida de dois em dois anos, com base nas listas regionais adotadas pelos órgãos de decisão dos Grupos criados nos termos da secção 1, ponto 1, do anexo III, de acordo com o procedimento estabelecido no n.º 3 do presente artigo.
+
+A Comissão adota o ato delegado que estabelece a primeira lista da União nos termos do presente regulamento até 30 de novembro de 2023.
+
+Se o ato delegado adotado pela Comissão nos termos do presente número não puder entrar em vigor devido a uma objeção formulada pelo Parlamento Europeu ou pelo Conselho ao abrigo do artigo 20.º, n.º 6, a Comissão convoca imediatamente os Grupos para elaborar novas listas regionais, tendo em conta os motivos subjacentes à objeção. A Comissão adota, com a maior brevidade possível, um novo ato delegado de criação da lista da União.
+
+5.
+
+Ao adotar a lista da União através da conjugação das listas regionais a que se refere o n.º 3, a Comissão, tendo em conta as deliberações dos Grupos:
+
+a) Assegura que só sejam nela incluídos projetos que preencham os critérios referidos no artigo 4.º;
+
+b) Assegura a coerência transregional, tendo em conta o parecer da Agência, tal como referido na secção 2, ponto 14, do anexo III;
+
+c) Tem em conta os pareceres dos Estados-Membros, tal como referido na secção 2, ponto 10, do anexo III;
+
+d) Procura assegurar a inclusão de um número total gerível de projetos na lista da União.
+
+6. Os projetos de interesse comum abrangidos pelas categorias de infraestruturas energéticas previstas no ponto 1, alíneas a), b), c), d) e f), do anexo II do presente regulamento, passam a fazer parte integrante dos planos de investimento regional pertinentes ao abrigo do artigo 34.º do Regulamento (UE) 2019/943 e dos planos decenais de desenvolvimento de redes nacionais pertinentes ao abrigo do artigo 51.º da Diretiva (UE) 2019/944, bem como de outros planos de infraestruturas nacionais em causa, se for caso disso. Deve ser dada a máxima prioridade possível a esses projetos de interesse comum, em cada um destes planos. O presente número não se aplica aos projetos concorrentes, aos projetos que não tenham atingido um grau de maturidade suficiente para proporcionarem uma análise custo-benefício específica do projeto, como indicado na secção 2, ponto 1, alínea d), do anexo III, ou aos projetos de interesse mútuo.
+
+7. Os projetos de interesse comum abrangidos pelas categorias de infraestruturas energéticas definidas no ponto 1, alíneas a), b), c), d) e f), do anexo II, e que sejam projetos concorrentes ou que não tenham atingido o grau de maturidade suficiente para proporcionarem uma análise custo-benefício específica do projeto, tal como referido na secção 2, ponto 1, alínea d), do anexo III, podem ser incluídos nos planos de investimento regional pertinentes, nos planos decenais de desenvolvimento da rede nacionais pertinentes e noutros planos nacionais de infraestruturas, conforme adequado, como projetos que estão a ser considerados.
+
+###### Artigo 4.º — Critérios de avaliação dos projetos pelos Grupos
+
+1.
+
+Um projeto de interesse comum deve respeitar os seguintes critérios gerais:
+
+a) O projeto é necessário pelo menos para um dos corredores e domínios prioritários das infraestruturas energéticas definidos no anexo I;
+
+b) Os benefícios potenciais do projeto, avaliados de acordo com os critérios específicos pertinentes nos termos do n.º 3, são superiores aos custos, inclusive a longo prazo;
+
+c) O projeto preenche um dos seguintes critérios:
+
+i) envolve pelo menos dois Estados-Membros, atravessando direta ou indiretamente, por via de uma interligação com um país terceiro, a fronteira de dois ou mais Estados-Membros,
+
+ii) está localizado no território terrestre ou marítimo, incluindo as ilhas, de um Estado-Membro e tem um impacto transfronteiriço significativo, tal como definido no ponto 1 do anexo IV.
+
+2.
+
+Um projeto de interesse mútuo deve respeitar os seguintes critérios gerais:
+
+a) O projeto contribui significativamente para os objetivos a que se refere o artigo 1.º, n.º 1, e os do país terceiro, em especial não prejudicando a capacidade de o país terceiro eliminar progressivamente os ativos de produção de combustíveis fósseis para o seu consumo interno, e para a sustentabilidade, nomeadamente mediante a integração de energia renovável na rede e do transporte e da distribuição de eletricidade produzida a partir de fontes renováveis até aos grandes centros de consumo e locais de armazenamento;
+
+b) Os benefícios potenciais do projeto, a nível da União, avaliados de acordo com os critérios específicos pertinentes nos termos do n.º 3, são superiores aos custos na União, inclusive a longo prazo;
+
+c) O projeto está localizado no território de pelo menos um Estado-Membro e no território de pelo menos um país terceiro e tem um impacto transfronteiriço significativo, tal como definido no anexo IV, ponto 2;
+
+d) Relativamente à parte situada no território do Estado-Membro, o projeto está em consonância com as Diretivas 2009/73/CE e (UE) 2019/944 nos casos em que se enquadra nas categorias de infraestruturas descritas nos pontos 1 e 3, do anexo II do presente regulamento;
+
+e) Existe um nível elevado de convergência do quadro político do país terceiro ou dos países terceiros envolvidos e os mecanismos jurídicos de execução para apoiar os objetivos políticos da União são demonstrados, nomeadamente para garantir:
+
+i) o bom funcionamento do mercado interno da energia,
+
+ii) a segurança do abastecimento assente, nomeadamente, em fontes diversas, na cooperação e na solidariedade,
+
+iii) um sistema energético, incluindo a produção de energia, o transporte e a distribuição, que avança para a consecução do objetivo de neutralidade climática em conformidade com o Acordo de Paris e com as metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática para 2050, em particular, evitando a fuga de emissões carbónicas;
+
+f) O país terceiro ou os países terceiros envolvidos apoiam o estatuto prioritário do projeto, conforme previsto no artigo 7.º, e comprometem-se a cumprir um calendário semelhante para a execução acelerada e outras medidas políticas e regulamentares de apoio aplicáveis aos projetos de interesse comum na União.
+
+No que diz respeito aos projetos de armazenamento de dióxido de carbono pertencentes à categoria de infraestruturas energéticas definida no ponto 5, alínea c), do anexo II, o projeto é necessário para permitir o transporte e o armazenamento transfronteiriço de dióxido de carbono e o país terceiro em que o projeto está localizado dispõe de um regime jurídico adequado, baseado em mecanismos de execução demonstradamente eficazes para assegurar que as normas e as salvaguardas são aplicadas ao projeto, evitando fugas de dióxido de carbono, e relativamente ao clima, à saúde humana e aos ecossistemas no que diz respeito à segurança e à eficácia do armazenamento permanente de dióxido de carbono, que são, no mínimo, equivalentes aos previstos no direito da União.
+
+3.
+
+Aplicam-se os seguintes critérios específicos aos projetos de interesse comum pertencentes a categorias de infraestruturas energéticas específicas:
+
+a) No caso dos projetos de transporte, distribuição e armazenamento de eletricidade pertencentes às categorias de infraestruturas energéticas definidas no, ponto 1, alíneas a), b), c), d) e f), do anexo II, o projeto contribui significativamente para a sustentabilidade mediante a integração de energia renovável na rede, o transporte ou a distribuição de eletricidade produzida a partir de fontes renováveis até aos grandes centros de consumo e locais de armazenamento e para a redução das restrições de energia, onde aplicável, contribuindo também para, pelo menos, um dos seguintes critérios específicos:
+
+i) integração de mercado – nomeadamente pondo termo ao isolamento energético de pelo menos um Estado-Membro e reduzindo os estrangulamentos das infraestruturas energéticas-, concorrência, interoperabilidade e flexibilidade do sistema,
+
+ii) segurança do abastecimento – nomeadamente através da interoperabilidade –, flexibilidade do sistema, cibersegurança, conexões adequadas e funcionamento seguro e fiável do sistema;
+
+b) No caso dos projetos de redes elétricas inteligentes pertencentes às categorias de infraestruturas energéticas definidas no ponto 1, alínea e), do anexo II, o projeto contribui significativamente para a sustentabilidade através da integração de energia renovável na rede e contribui para, pelo menos, dois dos seguintes critérios específicos:
+
+i) segurança do abastecimento – nomeadamente através da eficiência e interoperabilidade do transporte e da distribuição de eletricidade na exploração diária da rede –, prevenção dos congestionamentos e integração e participação dos utilizadores da rede,
+
+ii) integração do mercado, nomeadamente através do funcionamento eficiente do sistema e da utilização de interligações,
+
+iii) segurança, flexibilidade e qualidade do abastecimento da rede, nomeadamente através de um maior recurso à inovação na compensação, mercados de flexibilidade, cibersegurança, monitorização, controlo do sistema e correção de erros,
+
+iv) integração do sector inteligente, quer no sistema energético através da ligação de diversos vetores e sectores energéticos, quer, de uma forma mais ampla, favorecendo as sinergias e a coordenação entre os sectores da energia, dos transportes e das telecomunicações;
+
+c) No caso dos projetos de transporte e de armazenamento de dióxido de carbono pertencentes às categorias de infraestruturas energéticas definidas no ponto 5 do anexo II, o projeto contribui significativa e cumulativamente para a sustentabilidade através da redução das emissões de dióxido de carbono nas instalações industriais conectadas e contribui para os seguintes critérios específicos:
+
+i) prevenção das emissões de dióxido de carbono, mantendo a segurança do abastecimento,
+
+ii) aumento da resiliência e da segurança do transporte e do armazenamento de dióxido de carbono,
+
+iii) utilização eficiente dos recursos, ao permitir a ligação de várias fontes e locais de armazenamento de dióxido de carbono através de uma infraestrutura comum e ao atenuar a sobrecarga e os riscos ambientais;
+
+d) No caso dos projetos de hidrogénio pertencentes às categorias de infraestruturas energéticas definidas no ponto 3 do anexo II, o projeto contribui significativamente para a sustentabilidade, nomeadamente reduzindo as emissões de gases com efeito de estufa, reforçando a utilização do hidrogénio renovável ou hipocarbónico, com ênfase no hidrogénio proveniente de fontes renováveis, em especial em aplicações de utilização final, como os sectores de difícil redução, em que não são viáveis soluções mais eficientes do ponto de vista energético, e apoiando a produção de energia a partir de fontes de energia renováveis intermitentes oferecendo soluções de flexibilidade, de armazenamento, ou ambos, e o projeto contribui significativamente para, pelo menos, um dos seguintes critérios específicos:
+
+i) integração do mercado, nomeadamente ligando as redes de hidrogénio existentes ou emergentes dos Estados-Membros ou contribuindo, de outro modo, para a emergência de uma rede à escala da União para o transporte e o armazenamento de hidrogénio, e garantindo a interoperabilidade dos sistemas ligados,
+
+ii) segurança do abastecimento e flexibilidade, nomeadamente através de conexões adequadas e facilitando o funcionamento seguro e fiável do sistema,
+
+iii) concorrência, nomeadamente permitindo o acesso a várias fontes de abastecimento e a vários utilizadores da rede de forma transparente e não discriminatória;
+
+e) No caso dos eletrolisadores pertencentes às categorias de infraestruturas energéticas definidas no ponto 4 do anexo II, o projeto contribui significativamente para os seguintes critérios específicos:
+
+i) sustentabilidade, nomeadamente reduzindo as emissões de gases com efeito de estufa e reforçando a utilização do hidrogénio renovável ou hipocarbónico, em especial proveniente de fontes renováveis, bem como de combustíveis sintéticos da mesma origem,
+
+ii) segurança do abastecimento, nomeadamente contribuindo para o funcionamento seguro, eficiente e fiável do sistema ou oferecendo soluções de armazenamento, de flexibilidade, ou ambos, como a resposta do lado da procura e os serviços de compensação,
+
+iii) viabilização de serviços de flexibilidade, como a resposta da procura e o armazenamento, facilitando a integração inteligente do sector da energia através da criação de ligações a outros vetores e sectores energéticos;
+
+f) No caso dos projetos de redes de gás inteligentes pertencentes às categorias de infraestruturas energéticas definidas no ponto 2 do anexo II, o projeto contribui significativamente para a sustentabilidade, assegurando a integração de uma pluralidade de gases hipocarbónicos e, em especial, gases renováveis, nomeadamente onde são obtidos localmente, como o biometano ou o hidrogénio renovável, nos sistemas de transporte, distribuição ou armazenamento de gás, a fim de reduzir as emissões de gases com efeito de estufa, e esse projeto contribui significativamente para, pelo menos, um dos seguintes critérios específicos:
+
+i) segurança da rede e qualidade do abastecimento, melhorando a eficiência e interoperabilidade dos sistemas de transporte, distribuição ou armazenamento de gás na exploração diária da rede, nomeadamente resolvendo os desafios decorrentes da injeção de gases de diversas qualidades,
+
+ii) funcionamento do mercado e serviços de apoio ao cliente,
+
+iii) facilitação da integração inteligente do sector da energia através da criação de ligações a outros vetores e sectores energéticos e permitindo a resposta da procura.
+
+4. No caso dos projetos pertencentes às categorias de infraestruturas energéticas definidas no anexo II, os critérios estabelecidos no n.º 3 do presente artigo devem ser avaliados em conformidade com os indicadores definidos nos pontos 3 a 8 do anexo IV.
+
+5. A fim de facilitar a análise de todos os projetos potencialmente elegíveis como projetos de interesse comum e suscetíveis de ser incluídos numa lista regional, cada Grupo deve avaliar, de um modo transparente e objetivo, a contribuição de cada projeto para a aplicação do mesmo corredor ou domínio prioritário da infraestrutura energética. Cada Grupo deve determinar o seu método de avaliação com base na contribuição total para os critérios referidos no n.º 3. Essa avaliação deve conduzir a uma classificação dos projetos para uso interno do Grupo. A lista regional e a lista da União não devem incluir qualquer classificação, nem deve ser utilizada qualquer classificação para fins subsequentes, com exceção dos descritos na secção 2, ponto 16, do anexo III.
+
+Ao avaliar os projetos, a fim de assegurar uma abordagem de avaliação coerente entre os Grupos, cada Grupo deve ter ainda devidamente em conta:
+
+a) A urgência e o contributo de cada projeto proposto tendo em vista a realização das metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática para 2050, integração do mercado, concorrência, sustentabilidade e segurança do abastecimento;
+
+b) A complementaridade de cada projeto proposto em relação a outros projetos propostos, incluindo projetos concorrentes ou potencialmente concorrentes;
+
+c) Possíveis sinergias com os corredores e domínios temáticos prioritários identificadas no âmbito das redes transeuropeias de transportes e telecomunicações;
+
+d) No caso dos projetos propostos que sejam, na altura da avaliação, projetos constantes da lista da União, os progressos na sua execução e a sua conformidade com as obrigações em matéria de comunicação e de transparência.
+
+No caso dos projetos de redes elétricas inteligentes e de redes de gás inteligentes pertencentes às categorias de infraestruturas energéticas definidas no ponto 1, alínea e), e ponto 2 do anexo II, devem classificar-se por ordem de precedência os projetos que afetem os mesmos dois Estados-Membros, e deve também ser devidamente tido em conta o número de utilizadores afetados pelo projeto, o consumo anual de energia e a quota de energia não despachável na área abrangida por esses utilizadores.
+
+###### Artigo 5.º — Execução e acompanhamento dos projetos constantes da lista da União
+
+1.
+
+Os promotores dos projetos devem elaborar um plano de execução para os projetos constantes da lista da União que inclua um calendário para:
+
+a) Os estudos de viabilidade e de conceção, nomeadamente no que diz respeito à adaptação às alterações climáticas e à conformidade com a legislação ambiental e com o princípio de «não prejudicar significativamente»;
+
+b) A autorização pela entidade reguladora nacional ou por qualquer outra autoridade em causa;
+
+c) A construção e a colocação em funcionamento;
+
+d) O processo de concessão de licenças referido no artigo 10.º, n.º 6, alínea b).
+
+2. Os ORT, os ORD e outros operadores devem cooperar entre si para facilitar o desenvolvimento de projetos constantes da lista da União na sua área.
+
+3. A Agência e os Grupos interessados devem acompanhar os progressos realizados na execução dos projetos constantes da lista da União e, se necessário, fazer recomendações para facilitar a sua execução. Os Grupos podem solicitar informações adicionais nos termos dos n.^os^ 4, 5 e 6, organizar reuniões com os interessados e convidar a Comissão a verificar as informações prestadas in loco.
+
+4. Até 31 de dezembro de cada ano subsequente ao ano de inclusão de um projeto na lista da União, os promotores dos projetos devem apresentar um relatório anual relativo a cada projeto pertencente às categorias de infraestruturas energéticas definidas no anexo II à autoridade nacional competente referida no artigo 8.º, n.º 1.
+
+Esse relatório deve descrever pormenorizadamente:
+
+a) Os progressos realizados em relação ao desenvolvimento, construção e colocação em funcionamento do projeto, nomeadamente no que respeita ao processo de concessão de licença e ao procedimento de consulta, bem como à conformidade com a legislação ambiental, com o princípio de «não prejudicar significativamente» o ambiente e com as medidas adotadas de adaptação às alterações climáticas;
+
+b) Se for caso disso, os atrasos relativamente ao plano de execução, os motivos para tais atrasos e informações pormenorizadas sobre outras dificuldades encontradas;
+
+c) Se pertinente, um plano revisto para ultrapassar os atrasos.
+
+5. Até 28 de fevereiro de cada ano subsequente ao ano em que o promotor do projeto deve apresentar o relatório a que se refere o n.º 4 do presente artigo, as autoridades competentes a que se refere o artigo 8.º, n.º 1, devem apresentar à Agência e ao respetivo Grupo o relatório mencionado no n.º 4 do presente artigo, complementado com informações sobre os progressos e, se aplicável, os atrasos na execução dos projetos constantes da lista da União localizados no seu território, no que diz respeito aos processos de concessão de licenças, e os motivos para esses atrasos. Os contributos das autoridades competentes para o relatório devem ser claramente identificados como tal e redigidos sem modificar o texto introduzido pelos promotores dos projetos.
+
+6. Até 30 de abril de cada ano durante o qual haja lugar à adoção de uma nova lista da União, a Agência deve apresentar aos Grupos um relatório consolidado relativo aos projetos constantes da lista da União da competência das entidades reguladoras nacionais, avaliando os progressos realizados e as alterações esperadas dos custos dos projetos, e formular, se for caso disso, recomendações para ultrapassar os atrasos e as dificuldades encontradas. Esse relatório consolidado deve avaliar também, nos termos do artigo 11.º, alínea b), do Regulamento (UE) 2019/942, a execução coerente dos planos de desenvolvimento da rede à escala da União no que se refere aos corredores e domínios prioritários das infraestruturas energéticas definidas no anexo I.
+
+Nos casos devidamente justificados, a Agência pode solicitar as informações adicionais necessárias para desempenhar as suas funções definidas no presente número.
+
+7.
+
+Se a colocação em funcionamento de um projeto constante da lista da União sofrer um atraso relativamente ao plano de execução, exceto por razões imperiosas que estejam para além do controlo do promotor do projeto, devem aplicar-se as medidas seguintes:
+
+a) Desde que as medidas referidas no artigo 22.º, n.º 7, alíneas a), b) ou c), da Diretiva 2009/73/CE e do artigo 51.º, n.º 7, alíneas a), b) ou c), da Diretiva (UE) 2019/944 sejam aplicáveis nos termos do respetivo direito nacional, as entidades reguladoras nacionais devem assegurar que o investimento seja efetuado;
+
+b) Se as medidas das entidades reguladoras nacionais nos termos da alínea a) não forem aplicáveis, o promotor desse projeto deve, no prazo de 24 meses a contar da data de colocação em funcionamento estabelecida no plano de execução, escolher um terceiro para financiar ou construir a totalidade ou parte do projeto.
+
+c) Se não for escolhido um terceiro nos termos da alínea b), o Estado-Membro ou, se este assim o tiver previsto, a entidade reguladora nacional pode designar, no prazo de dois meses a contar do termo do prazo a que se refere a alínea b), um terceiro para financiar ou construir o projeto que o promotor deve aceitar;
+
+d) Se o atraso relativamente à data de colocação em funcionamento prevista no plano de execução for superior a 26 meses, a Comissão, sob reserva do consentimento e com a inteira colaboração dos Estados-Membros em causa, pode lançar um convite à apresentação de propostas aberto a qualquer terceiro suscetível de se tornar um promotor de projetos, a fim de construir o projeto de acordo com um calendário acordado;
+
+e) Caso se apliquem as medidas a que se referem as alíneas c) ou d), o operador da rede em cuja área o investimento esteja localizado fornece aos operadores ou investidores ou terceiros envolvidos na execução todas as informações necessárias para a realização do investimento, liga os novos ativos à rede de transporte ou, se for caso disso, à rede de distribuição e envida, de um modo geral, todos os esforços para facilitar a aplicação do investimento e a exploração e manutenção seguras, fiáveis e eficientes do projeto constante da lista da União.
+
+8. Um projeto constante da lista da União pode ser retirado dessa lista, de acordo com o procedimento previsto no artigo 3.º, n.º 4, se a sua inclusão naquela lista se tiver baseado em informações incorretas que tenham constituído um fator determinante para essa inclusão, ou se o projeto não cumprir a legislação em vigor na União.
+
+9. Os projetos que tenham deixado de constar da lista da União perdem todos os direitos e obrigações associados ao estatuto de projeto de interesse comum ou de projeto de interesse mútuo previsto no presente regulamento.
+
+No entanto, um projeto que tenha deixado de constar da lista da União, mas cujo processo de candidatura tenha sido admitido a exame pela autoridade competente, mantém os direitos e as obrigações estabelecidas do capítulo III, exceto se tiver sido retirado da lista da União pelas razões indicadas no n.º 8 do presente artigo.
+
+10. O presente artigo não prejudica a eventual assistência financeira da União concedida a projetos constantes da lista da União antes da sua retirada dessa lista.
+
+###### Artigo 6.º — Coordenadores europeus
+
+1. Caso um projeto de interesse comum seja afetado por dificuldades de execução significativas, a Comissão pode designar, juntamente com os Estados-Membros em causa, um coordenador europeu por um prazo máximo de um ano, renovável duas vezes.
+
+2.
+
+Cabe ao coordenador europeu:
+
+a) Promover os projetos de que foi designado como coordenador europeu e o diálogo transfronteiriço entre os promotores dos projetos e todas as partes interessadas em causa;
+
+b) Prestar assistência a todas as partes na medida do necessário, no que se refere à consulta das partes interessadas em causa, ao debate de rotas alternativas, se for caso disso, e à obtenção das autorizações necessárias para os projetos;
+
+c) Se for caso disso, aconselhar os promotores dos projetos sobre o financiamento do projeto;
+
+d) Assegurar a prestação de um apoio e de uma orientação estratégica adequados por parte dos Estados-Membros envolvidos para a preparação e a execução dos projetos;
+
+e) Apresentar anualmente à Comissão e, se for caso disso, no fim do seu mandato, um relatório sobre os progressos dos projetos e as dificuldades e obstáculos suscetíveis de atrasar significativamente a data de colocação em funcionamento dos mesmos.
+
+A Comissão transmite o relatório do coordenador europeu referido na alínea e) ao Parlamento Europeu e aos Grupos em causa.
+
+3. O coordenador europeu é escolhido no âmbito de um procedimento aberto, não discriminatório e transparente, com base na sua experiência nas funções específicas que lhe são atribuídas nos projetos em causa.
+
+4. A decisão que designa o coordenador europeu deve especificar o respetivo mandato, referindo a sua duração, as funções específicas e os prazos correspondentes, bem como a metodologia a seguir. O esforço de coordenação deve ser proporcional à complexidade e aos custos estimados dos projetos.
+
+5. Os Estados-Membros envolvidos devem cooperar plenamente com o coordenador europeu no exercício das funções referidas nos n.^os^ 2 e 4.
+
+## CAPÍTULO III
+
+### Concessão de licenças e participação pública
+
+###### Artigo 7.º — Estatuto prioritário dos projetos constantes da lista da União
+
+1. A adoção da lista da União deve demonstrar, para efeitos das decisões tomadas no âmbito do processo de concessão de licenças, a necessidade dos projetos constantes da lista da União do ponto de vista da política energética e climática, sem prejuízo da localização, da rota ou da tecnologia precisas do projeto.
+
+O presente número não se aplica aos projetos concorrentes ou aos projetos que não tenham atingido um grau de maturidade suficiente para proporcionarem uma análise custo-benefício específica do projeto em conformidade com a secção 2, ponto 1, alínea d), do anexo III.
+
+2. A fim de assegurar uma tramitação administrativa eficiente dos processos de candidatura relativos aos projetos constantes da lista da União, os promotores dos projetos e todas as autoridades em causa devem assegurar que esses processos recebam o tratamento mais célere possível em conformidade com o direito da União e nacional.
+
+3. Sem prejuízo das obrigações decorrentes do direito da União, deve ser conferido aos projetos constantes da lista da União o estatuto da máxima importância nacional possível, sempre que esse estatuto esteja previsto no direito nacional, e devem ser adequadamente tratados nos processos de concessão de licenças e, se o direito nacional assim o determinar, a nível do ordenamento do território, incluindo os processos relativos à avaliação ambiental, quando e como esse tratamento estiver previsto na legislação nacional aplicável ao tipo de infraestrutura energética correspondente.
+
+4. Todos os procedimentos de resolução de litígios, o contencioso e todos os recursos, judiciais ou outros, relacionados com projetos constantes da lista da União perante quaisquer órgãos jurisdicionais nacionais, incluindo mediação ou arbitragem, sempre que existam no direito nacional, devem ser tratados como urgentes, se e na medida em que a legislação nacional preveja tais procedimentos de urgência.
+
+5. Os Estados-Membros devem avaliar, tomando em devida consideração as orientações existentes emitidas pela Comissão relativas à racionalização dos procedimentos de avaliação ambiental para projetos constantes da lista da União, quais as medidas legislativas e não legislativas necessárias para racionalizar os procedimentos de avaliação ambiental e garantir a sua aplicação coerente, devendo informar a Comissão do resultado dessa avaliação.
+
+6. Até 24 de março de 2023, os Estados-Membros adotam as medidas não legislativas que identificaram nos termos do n.º 5.
+
+7. Até 24 de junho de 2023, os Estados-Membros adotam as medidas legislativas que identificaram nos termos do n.º 5. Essas medidas legislativas não prejudicam as obrigações previstas no direito da União.
+
+8. [**►M3**](http://publications.europa.eu/resource/celex/32024R1991) Quanto aos impactos ambientais a que se referem o artigo 6.º, n.º 4, da Diretiva 92/43/CEE, o artigo 4.º, n.º 7, da Diretiva 2000/60/CE, o artigo 4.º, n.^os^ 14 e 15, e 5.º, e o artigo 5.º, n.^os^ 11 e 12, do Regulamento (UE) 2024/1991 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0002)), desde que todas as condições previstas nessas diretivas e nesse regulamento se encontrem preenchidas, deve considerar-se que os projetos constantes da lista da União são de interesse público do ponto de vista da política energética, ou mesmo de interesse público superior.**◄**
+
+Sempre que o parecer da Comissão seja necessário nos termos da Diretiva 92/43/CEE, a Comissão e a autoridade nacional competente a que se refere o artigo 9.º do presente regulamento devem assegurar que a decisão relativa ao interesse público superior de um projeto é tomada nos prazos fixados no artigo 10.º, n.^os^ 1 e 2, do presente regulamento.
+
+O presente número não é aplicável aos projetos concorrentes ou aos projetos que não tenham atingido um grau de maturidade suficiente para proporcionarem uma análise custo-benefício específica do projeto em conformidade com a secção 2, ponto 1, alínea d), do anexo III.
+
+###### Artigo 8.º — Organização do processo de concessão de licenças
+
+1. Até 23 de junho de 2022, os Estados-Membros atualizam, se necessário, a designação de uma autoridade nacional competente responsável pela facilitação e coordenação do processo de concessão de licenças para projetos que constam da lista da União.
+
+2.
+
+As responsabilidades da autoridade nacional competente referidas no n.º 1 ou as suas funções podem ser delegadas ou realizadas por outra autoridade, por projeto constante da lista da União ou por determinada categoria de projetos dessa lista, desde que:
+
+a) A autoridade nacional competente notifique a Comissão dessa delegação e a informação a ela relativa seja publicada pela autoridade nacional competente ou pelo promotor do projeto no sítio Web indicado no artigo 9.º, n.º 7;
+
+b) Exista apenas uma autoridade responsável por cada projeto constante da lista da União, que constitua o único ponto de contacto para o promotor do projeto no processo conducente à decisão global relativa a um determinado projeto constante da lista da União e que coordene a apresentação de todos os documentos e de todas as informações relevantes.
+
+A autoridade nacional competente pode manter a responsabilidade de estabelecer prazos, sem prejuízo dos prazos fixados no artigo 10.º, n.^os^ 1 e 2.
+
+3.
+
+Sem prejuízo dos requisitos relevantes do direito da União, do direito internacional e, na medida em que os não contradiga, do direito nacional, a autoridade nacional competente facilita a tomada da decisão global. A decisão global é emitida nos prazos fixados no artigo 10.º, n.^os^ 1 e 2, e em conformidade com um dos seguintes regimes:
+
+a) Regime integrado:
+
+b) Regime coordenado:
+
+c) Regime colaborativo:
+
+Os Estados-Membros aplicam os regimes de forma a contribuir, em conformidade com o direito nacional, para que a decisão global seja tomada da forma mais eficiente e atempada possível.
+
+A competência das autoridades em causa pode ser integrada na competência da autoridade nacional competente designada em conformidade com o n.º 1, ou as autoridades em causa podem conservar, em certa medida, a sua competência independente em conformidade com o respetivo regime para concessão de licenças escolhido pelo Estado-Membro nos termos do presente número, a fim de facilitar a tomada da decisão global e de cooperar com a autoridade nacional competente em conformidade.
+
+Se considerar que não pode tomar uma decisão específica dentro do prazo estabelecido, a autoridade em causa informa imediatamente a autoridade nacional competente, apresentando os motivos do atraso. Subsequentemente, a autoridade nacional competente deve fixar outro prazo dentro do qual a decisão específica deve ser tomada, respeitando os prazos gerais fixados no artigo 10.º, n.^os^ 1 e 2.
+
+Os Estados-Membros optam por um dos três regimes referidos no primeiro parágrafo, alíneas a), b) e c), para facilitar e coordenar os seus procedimentos, devendo pôr em prática o regime que seja mais eficiente, tendo em conta as especificidades nacionais nos processos de planeamento e de concessão de licenças. Caso um Estado-Membro opte pelo regime colaborativo, esse Estado-Membro informa a Comissão dos motivos da sua decisão.
+
+4. Os Estados-Membros podem aplicar os regimes, como estabelecido no n.º 3, a projetos que constam na lista da União em terra e ao largo.
+
+5. Se um projeto constante da lista da União exigir que as decisões sejam tomadas por dois ou mais Estados-Membros, as autoridades nacionais competentes relevantes tomam todas as medidas necessárias para manter uma cooperação e uma comunicação eficientes e eficazes entre si, incluindo as referidas no artigo 10.º, n.º 6. Os Estados-Membros devem procurar instaurar procedimentos conjuntos, sobretudo no caso da avaliação dos impactos ambientais.
+
+6. As autoridades nacionais competentes relevantes dos Estados-Membros que participam num projeto constante da lista da União que pertença a um dos corredores prioritários da rede ao largo definidos na secção 2 do anexo I designam conjuntamente entre si um ponto de contacto único para os promotores de projetos por projeto, que será responsável por facilitar o intercâmbio de informações entre as autoridades nacionais competentes sobre o processo de concessão de licenças para o projeto, com o objetivo de facilitar esse processo e a tomada de decisões pelas autoridades nacionais competentes. Os pontos de contacto únicos podem funcionar como um repositório e agregar os documentos existentes relacionados com os projetos.
+
+###### Artigo 9.º — Transparência e participação pública
+
+1. Até 24 de outubro de 2023, o Estado-Membro ou a autoridade nacional competente publica, se for caso disso, em colaboração com outras autoridades em causa, um manual de procedimentos atualizado para o processo de concessão de licenças aplicável aos projetos que constam da lista da União que inclua, no mínimo, as informações especificadas no ponto 1 do anexo VI. O manual não é vinculativo, mas deve citar ou remeter para disposições jurídicas pertinentes. As autoridades nacionais competentes devem, se for caso disso, cooperar e encontrar sinergias com as autoridades dos países vizinhos, a fim de promover o intercâmbio de boas práticas e facilitar o processo de concessão de licenças, em particular na elaboração do manual de procedimentos.
+
+2. Sem prejuízo do direito do ambiente, dos requisitos da Convenção de Aarhus e da Convenção de Espoo e da legislação pertinente da União, todas as partes envolvidas no processo de concessão de licenças devem respeitar os princípios de participação pública estabelecidos no ponto 3 do anexo VI.
+
+3. O promotor do projeto deve elaborar e apresentar um conceito de participação pública à autoridade nacional competente, num prazo indicativo de três meses a contar do início do processo de concessão de licenças nos termos do artigo 10.º, n.º 3, com base no processo descrito no manual a que se refere o n.º 1 do presente artigo e em consonância com as orientações estabelecidas no anexo VI. A autoridade nacional competente solicita alterações ou aprova o conceito de participação pública no prazo de três meses a contar da receção do conceito, tendo em consideração qualquer forma de participação e de consulta pública realizada antes do início do processo de concessão de licenças, na medida em que essa participação e consulta pública tenha cumprido os requisitos estabelecidos no presente artigo.
+
+Caso tencione introduzir alterações significativas num conceito de participação pública aprovado, o promotor do projeto deve informar a autoridade nacional competente desse facto. Nesse caso, a autoridade nacional competente pode requerer modificações.
+
+4. Se o direito nacional não o exigir já ao abrigo de normas iguais ou superiores, o promotor do projeto ou, caso o direito nacional o preveja, a autoridade nacional competente deve realizar, no mínimo, uma consulta pública antes do promotor do projeto apresentar o processo de candidatura definitivo e completo à autoridade nacional competente nos termos do artigo 10.º, n.º 7, sem prejuízo das consultas públicas a realizar após a apresentação do pedido de aprovação de projeto nos termos do artigo 6.º, n.º 2, da Diretiva 2011/92/UE. A consulta pública deve informar as partes interessadas referidas no ponto 3, alínea a), do anexo VI a respeito do projeto, numa fase inicial, e deve ajudar a identificar o local, a trajetória ou a tecnologia mais adequados, nomeadamente, se for caso disso, tendo em conta os aspetos em matéria de adaptação às alterações climáticas pertinentes para o projeto, todos os impactos relevantes no âmbito do direito da União e do direito nacional e as questões relevantes que devem ser abordadas no processo de candidatura. A consulta pública deve cumprir os requisitos mínimos especificados no ponto 5 do anexo VI. Sem prejuízo das regras processuais e de transparência dos Estados-Membros, o promotor do projeto deve publicar, no sítio Web mencionado no n.º 7 do presente artigo, um relatório que explique de que modo os pareceres expressos nas consultas públicas foram tidos em conta, indicando quais as alterações efetuadas no local, na trajetória e na conceção do projeto ou apresentando os motivos pelos quais os pareceres em causa não foram tidos em conta.
+
+O promotor do projeto deve elaborar um relatório que resuma os resultados das atividades relacionadas com a participação do público antes da apresentação do processo de candidatura, incluindo as que tenham tido lugar antes do início do processo de concessão de licenças.
+
+O promotor do projeto deve apresentar os relatórios mencionados nos dois primeiros parágrafos, em conjunto com o processo de candidatura, à autoridade nacional competente. A decisão global toma em devida consideração os resultados desses relatórios.
+
+5. No caso dos projetos transfronteiriços que envolvam dois ou mais Estados-Membros, as consultas públicas realizadas nos termos do n.º 4 em cada um dos Estados-Membros envolvidos devem ter lugar num prazo máximo de dois meses a contar da data do início da primeira consulta pública.
+
+6. No caso dos projetos que possam vir a ter um impacto transfronteiras significativo em um ou mais Estados-Membros vizinhos, aos quais o artigo 7.º da Diretiva 2011/92/UE e a Convenção de Espoo sejam aplicáveis, as informações relevantes devem ser comunicadas às autoridades nacionais competentes dos Estados-Membros vizinhos em causa. Essas autoridades nacionais competentes devem informar, no âmbito do processo de notificação, se for caso disso, se elas ou qualquer outra autoridade em causa desejam participar nos procedimentos de consulta pública pertinentes.
+
+7. O promotor do projeto elabora e atualiza periodicamente um sítio Web dedicado ao projeto com informações importantes sobre o projeto de interesse comum, o qual deve ficar ligado ao sítio Web da Comissão e à plataforma de transparência mencionada no artigo 23.º, devendo satisfazer os requisitos especificados no ponto 6 do anexo VI. É preservada a confidencialidade das informações comercialmente sensíveis.
+
+Os promotores dos projetos publicam também as informações relevantes por outros meios de informação adequados abertos ao público.
+
+###### Artigo 10.º — Duração e execução do processo de concessão de licenças
+
+1.
+
+O processo de concessão de licenças compreende dois procedimentos:
+
+a) O procedimento anterior à candidatura, que abrange o período compreendido entre o início do processo de concessão de licenças e a aceitação do processo de candidatura pela autoridade nacional competente, deve ter lugar num prazo indicativo de 24 meses; e
+
+b) O procedimento legal de concessão de licenças, que abrange o período compreendido entre a data de receção do processo de candidatura apresentado e a adoção da decisão global, não pode ser superior a 18 meses.
+
+No que se refere ao primeiro parágrafo, alínea b), se for caso disso, os Estados-Membros podem prever um procedimento legal de concessão de licenças inferior a 18 meses.
+
+2. A autoridade nacional competente assegura que a duração combinada dos dois procedimentos a que se refere o n.º 1 não seja superior a 42 meses.
+
+Todavia, se a autoridade nacional competente considerar que um ou ambos os procedimentos não estarão concluídos dentro dos prazos fixados no n.º 1, pode prorrogar um ou ambos os prazos antes de estes expirarem e analisando caso a caso. A autoridade nacional competente não pode prorrogar a duração combinada dos dois procedimentos por mais de nove meses, salvo circunstâncias excecionais.
+
+Se a autoridade nacional competente prorrogar os prazos, deve informar o Grupo em causa, expondo-lhe as medidas tomadas, ou a tomar, para concluir o processo de concessão de licenças, no mais curto espaço de tempo possível. O Grupo pode solicitar que a autoridade nacional competente apresente relatórios periódicos sobre os progressos realizados nesta matéria e os motivos de eventuais atrasos.
+
+3. Para estabelecer o início do processo de concessão de licenças, os promotores do projeto notificam o projeto, por escrito, à autoridade nacional competente de cada Estado-Membro envolvido e incluem uma descrição razoavelmente detalhada do projeto.
+
+No prazo de três meses a contar da receção da notificação, a autoridade nacional competente acusa a receção ou, se considerar que o projeto não está suficientemente amadurecido para iniciar o processo de concessão de licenças, indefere essa notificação, por escrito, inclusive em nome de outras autoridades em causa. Em caso de indeferimento, a autoridade nacional competente apresenta os motivos da sua decisão, inclusive em nome de outras autoridades em causa. A data de assinatura da acusação de receção da notificação pela autoridade nacional competente assinala o início do processo de concessão de licenças. Caso estejam dois ou mais Estados-Membros envolvidos, a data de acusação de receção da última notificação pela autoridade nacional competente em causa assinala o início do processo de concessão de licenças.
+
+As autoridades nacionais competentes asseguram que o processo de concessão de licenças seja acelerado em conformidade com o presente capítulo para cada categoria de projetos de interesse comum. Para esse efeito, as autoridades nacionais competentes adaptam os seus requisitos para o início do processo de concessão de licenças e para a aceitação do processo de candidatura apresentado, para que sejam adequados aos projetos que, pela sua natureza, dimensão ou ausência de obrigação, nos termos da legislação nacional, de realizar uma avaliação ambiental, possam exigir menos autorizações e aprovações para alcançar a fase de «pronto a construir». Os Estados-Membros podem decidir que o procedimento anterior à candidatura, referido nos n.^os^ 1 e 6 do presente artigo não é necessário para os projetos referidos no presente parágrafo.
+
+4. As autoridades nacionais competentes devem ter em consideração, no processo de concessão de licenças, quaisquer estudos válidos realizados e licenças ou autorizações concedidas para um determinado projeto que conste da lista da União, antes do início do processo de concessão de licenças em conformidade com o presente artigo, e não devem exigir a duplicação de estudos e licenças ou autorizações.
+
+5. Nos Estados-Membros nos quais a determinação de uma rota ou localização, adotada exclusivamente para efeitos de um dado projeto, incluindo o planeamento de corredores específicos para infraestruturas de rede, não possa ser incluída no processo conducente à decisão global, a correspondente decisão deve ser tomada no âmbito de um prazo distinto de seis meses, a partir da data de apresentação pelo promotor dos documentos definitivos e completos relativos ao processo de candidatura.
+
+Nas circunstâncias descritas no primeiro parágrafo do presente número, a prorrogação referida no n.º 2, segundo parágrafo, será reduzida a seis meses, salvo em circunstâncias excecionais, incluindo para o procedimento referido no presente número.
+
+6.
+
+O procedimento anterior à candidatura compreende as seguintes etapas:
+
+a) O mais rapidamente possível e, o mais tardar, seis meses após a notificação, nos termos do n.º 3, primeiro parágrafo, a autoridade nacional competente deve determinar, com base na lista de controlo mencionada no anexo VI, n.º 1, alínea e), e em estreita cooperação com as outras autoridades em causa e, se for caso disso, com base numa proposta do promotor do projeto, o conteúdo dos relatórios e documentos e o nível de pormenor das informações a apresentar pelo promotor do projeto, no âmbito do processo de candidatura, para solicitar a decisão global;
+
+b) A autoridade nacional competente deve elaborar, em estreita cooperação com o promotor do projeto e as outras autoridades em causa, e tendo em conta os resultados das atividades realizadas nos termos da alínea a) do presente número, um calendário pormenorizado para o processo de concessão de licenças, de acordo com as orientações previstas no ponto 2 do anexo VI;
+
+c) Após a receção do projeto de processo de candidatura, a autoridade nacional competente deve solicitar, se necessário, em seu próprio nome ou em nome de outras autoridades em causa, que o promotor do projeto apresente as informações em falta relacionadas com os elementos solicitados mencionados na alínea a).
+
+Este procedimento inclui a elaboração de relatórios ambientais pelos promotores do projeto, se necessário, incluindo a documentação relativa à adaptação às alterações climáticas.
+
+No prazo de três meses a contar da entrega das informações em falta a que se refere o primeiro parágrafo, alínea c), a autoridade competente deve aceitar examinar a candidatura por escrito ou em plataformas digitais, dando início ao procedimento legal de concessão de licenças referido no n.º 1, alínea b). Pedidos de informações adicionais podem ser apresentados, mas apenas se justificados por novas circunstâncias.
+
+7. O promotor do projeto deve assegurar que o processo de candidatura está completo e tem a qualidade adequada, e solicitar o parecer da autoridade nacional competente, o mais cedo possível durante o processo de concessão de licenças. O promotor do projeto deve cooperar plenamente com a autoridade nacional competente com o intuito de cumprir os prazos fixados no presente regulamento.
+
+8. Os Estados-Membros devem envidar esforços para garantir que quaisquer alterações à legislação nacional não conduzam ao prolongamento de qualquer processo de concessão de licenças iniciado antes da entrada em vigor dessas alterações. A fim de manter um processo acelerado de concessão de licenças para projetos que constam da lista da União, as autoridades nacionais competentes devem adaptar devidamente o calendário estabelecido em conformidade com o n.º 6, alínea b), do presente artigo, para garantir, na medida do possível, que os prazos para o processo de concessão de licenças estabelecidos no presente artigo não sejam excedidos.
+
+9. Os prazos fixados no presente artigo não prejudicam as obrigações decorrentes do direito da União e do direito internacional, nem os procedimentos de recurso administrativo e judicial junto de um tribunal.
+
+Os prazos fixados no presente artigo para qualquer procedimento de concessão de licenças não prejudicam eventuais prazos mais curtos fixados pelos Estados-Membros.
+
+## CAPÍTULO IV
+
+### Planeamento intersectorial das infraestruturas
+
+###### Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+
+1. A REORT para a Eletricidade e a Rede Europeia dos Operadores das Redes de Transporte de Eletricidade (REORH) a que se refere o artigo 57.º do Regulamento (UE) 2024/1789 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0003)) devem elaborar projetos de metodologias coerentes para cada setor, incluindo o modelo do mercado e da rede de energia referido no n.º 10 do presente artigo, tendo em vista uma análise harmonizada da relação custo-benefício a nível de todo o sistema energético da União para projetos que figurem na lista da União pertencentes às categorias de infraestruturas energéticas definidas no anexo II, ponto 1, alíneas a), b), d) e f), e no anexo II, ponto 3, do presente regulamento.
+
+As metodologias a que se refere o primeiro parágrafo do presente número devem ser elaboradas em sintonia com os princípios estabelecidos no anexo V, devem basear-se em pressupostos comuns que permitam a comparação de projetos e devem ser coerentes com as metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática para 2050, bem como com as regras e os indicadores estabelecidos no anexo IV.
+
+As metodologias a que se refere o primeiro parágrafo do presente número devem ser aplicadas na preparação de todos os planos decenais de desenvolvimento da rede à escala da União subsequentemente elaborados pela REORT para a Eletricidade nos termos do artigo 30.º do Regulamento (UE) 2019/943 ou pela REORH nos termos do artigo 60.º do Regulamento (UE) 2024/1789.
+
+Até 24 de abril de 2023, a REORT para a Eletricidade deve publicar e apresentar aos Estados-Membros, à Comissão e à Agência o seu projeto de metodologia coerente para cada setor, após ter recolhido os contributos das partes interessadas relevantes durante o processo de consulta a que se refere o n.º 2 do presente artigo. Qualquer metodologia para uma análise custo-benefício do hidrogénio a nível de todo o sistema energético desenvolvida pela REORT para o Gás até 1 de setembro de 2024 deve ser aprovada em conformidade com o processo estabelecido no presente artigo. Até 1 de dezembro de 2025, a REORH deve publicar e apresentar aos Estados-Membros, à Comissão e à Agência o seu projeto de metodologia coerente para cada setor, após ter recolhido os contributos das partes interessadas relevantes durante o processo de consulta referido no artigo 61.º, n.º 3, alínea d), do Regulamento (UE) 2024/1789.
+
+2. Antes de apresentar os respetivos projetos de metodologias aos Estados-Membros, à Comissão e à Agência, em conformidade com o n.º 1, a REORT para a Eletricidade e a REORH devem publicar projetos preliminares de metodologias, levar a cabo um amplo processo de consulta e solicitar recomendações aos Estados-Membros e, pelo menos, às organizações representativas de todas as partes interessadas relevantes, incluindo a entidade europeia dos operadores da rede de distribuição, criada nos termos do artigo 52.º, n.º 1, do Regulamento (UE) 2019/943 («entidade ORDUE»), as associações envolvidas nos mercados da eletricidade, do gás natural e do hidrogénio, as partes interessadas nos domínios do aquecimento e arrefecimento, da captura e armazenamento de carbono e da captura e utilização de carbono, os agregadores independentes, os operadores de resposta da procura, as organizações envolvidas em soluções de eficiência energética, as associações de consumidores de energia e os representantes da sociedade civil e, se considerado adequado, as entidades reguladoras nacionais e outras autoridades nacionais.
+
+No prazo de três meses a contar da publicação dos projetos preliminares de metodologias nos termos do primeiro parágrafo, qualquer parte interessada referida nesse parágrafo pode apresentar uma recomendação.
+
+O Conselho Consultivo Científico Europeu sobre as Alterações Climáticas, criado nos termos do artigo 10.º-A do Regulamento (CE) n.º 401/2009 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0004)), pode, por iniciativa própria, apresentar um parecer sobre os projetos de metodologias.
+
+Se for caso disso, os Estados-Membros e as partes interessadas a que se refere o primeiro parágrafo devem apresentar e disponibilizar ao público as suas recomendações, e o Conselho Consultivo Científico Europeu sobre as Alterações Climáticas deve publicar e apresentar o seu parecer à Agência e, se for caso disso, à REORT para a Eletricidade ou à REORH.
+
+O processo de consulta deve ser aberto, transparente e decorrer em tempo útil. A REORT para a Eletricidade e a REORH devem elaborar e publicar um relatório sobre o processo de consulta.
+
+A REORT para a Eletricidade e a REORH apresentam os motivos da sua decisão caso não tenham em conta, ou tenham apenas parcialmente em conta, as recomendações dos Estados-Membros, das partes interessadas, bem como das autoridades nacionais, ou o parecer do Conselho Consultivo Científico Europeu sobre as Alterações Climáticas.
+
+3. No prazo de três meses a contar da receção dos projetos de metodologias, bem como dos contributos recebidos no âmbito do processo de consulta e do relatório sobre a consulta, a Agência fornece um parecer à REORT para a Eletricidade e à REORH. A Agência transmite o seu parecer à REORT para a Eletricidade, à REORH, aos Estados-Membros e à Comissão e publica-o no seu sítio Web.
+
+4. No prazo de três meses a contar da receção dos projetos de metodologias, os Estados-Membros podem fornecer os seus pareceres à REORT para a Eletricidade e à REORH e à Comissão. Para facilitar a consulta, a Comissão pode organizar reuniões específicas dos Grupos para debater os projetos de metodologias.
+
+5. No prazo de três meses a contar da receção dos pareceres da Agência e dos Estados-Membros a que se referem os n.^os^ 3 e 4, a REORT para a Eletricidade e a REORH alteram as respetivas metodologias para ter plenamente em conta os pareceres da Agência e dos Estados-Membros e apresentam-nas juntamente com o parecer da Agência à Comissão para sua aprovação. A Comissão emite a sua decisão no prazo de três meses a contar da apresentação das metodologias por parte da REORT para a Eletricidade, da REORT para o Gás e da REORH, respetivamente.
+
+6. No prazo de duas semanas a contar da aprovação pela Comissão em conformidade com o n.º 5, a REORT para a Eletricidade e a REORH publicam as suas metodologias nos respetivos sítios Web. Devem publicar os dados correspondentes e outros dados pertinentes relativos à rede, ao fluxo de carga e ao mercado, de forma suficientemente precisa, sob reserva das restrições previstas no direito nacional e nos acordos de confidencialidade pertinentes. A Comissão e a Agência devem assegurar o tratamento confidencial dos dados recebidos, por elas próprias e por qualquer parte que, em seu nome, efetue trabalhos de análise com base nesses dados.
+
+7. As metodologias devem ser atualizadas e melhoradas periodicamente de acordo com o procedimento descrito nos n.^os^ 1 a 6. Em particular, devem ser alteradas após a apresentação do modelo do mercado e da rede de energia a que se refere o n.º 10. A Agência, por sua própria iniciativa ou a pedido, devidamente fundamentado, das entidades reguladoras nacionais ou das partes interessadas, e depois de consultar formalmente as organizações que representam todas as partes interessadas relevantes referidas no n.º 2, primeiro parágrafo, e a Comissão, pode solicitar as referidas atualizações e melhorias, apresentado os motivos e um calendário. A Agência deve publicar os pedidos das entidades reguladoras nacionais ou das partes interessadas, assim como todos os documentos pertinentes não sensíveis do ponto de vista comercial que a tenham levado a solicitar uma atualização ou melhoria.
+
+8. Em relação aos projetos pertencentes às categorias de infraestruturas energéticas definidas no ponto 1, alíneas c) e e), e pontos 2, 4 e 5 do anexo II, a Comissão assegura o desenvolvimento de metodologias para uma análise harmonizada da relação custo-benefício a nível de todo o sistema energético da União. Essas metodologias devem ser compatíveis, em termos de benefícios e custos, com as metodologias desenvolvidas pela REORT para a Eletricidade e pela REORH. A Agência, com o apoio das entidades reguladoras nacionais, deve promover a coerência destas metodologias com as metodologias elaboradas pela REORT para a Eletricidade e pela REORH. As metodologias devem ser elaboradas de forma transparente e incluir uma ampla consulta dos Estados-Membros e de todas as partes interessadas relevantes.
+
+9. De três em três anos, a Agência deve criar e publicar um conjunto de indicadores e valores de referência correspondentes para a comparação dos custos de investimento unitários relativos a projetos comparáveis pertencentes às categorias de infraestruturas incluídas no anexo II. Os promotores de projetos devem fornecer os dados solicitados às entidades reguladoras nacionais e à Agência.
+
+A Agência deve publicar os primeiros indicadores para as categorias de infraestruturas definidas nos pontos 1, 2 e 3 do anexo II, até 24 de abril de 2023, na medida em que estejam disponíveis dados para calcular indicadores sólidos e valores de referência. Estes valores de referência podem ser utilizados pela REORT para a Eletricidade e pela REORH para as análises de custo-benefício realizadas no âmbito dos planos decenais de desenvolvimento da rede à escala da União subsequentes.
+
+A Agência deve publicar os primeiros indicadores para as categorias de infraestruturas energéticas definidas nos pontos 4 e 5 do anexo II, até 24 de abril de 2025.
+
+10. Até 31 de outubro de 2025, na sequência do amplo processo de consulta das partes interessadas referido no n.º 2, primeiro parágrafo, a REORT para a Eletricidade, a REORT para o Gás e a REORH devem apresentar conjuntamente à Comissão e à Agência um modelo coeso e de integração progressiva que permita a compatibilidade entre as metodologias de cada setor, com base em pressupostos comuns, que inclua as infraestruturas de transporte de eletricidade, gás natural e hidrogénio, bem como as instalações de armazenamento de gás natural, o gás natural liquefeito e os eletrolisadores, abrangendo os corredores e domínios prioritários de infraestruturas energéticas estabelecidos no anexo I e elaborados em sintonia com os princípios definidos no anexo V.
+
+11. O modelo mencionado no n.º 10 deve abranger, no mínimo, as interligações entre os setores relevantes em todas as fases do planeamento das infraestruturas, nomeadamente os cenários, as tecnologias e a resolução espacial, a identificação de lacunas em matéria de infraestruturas, em particular no que diz respeito às capacidades transfronteiriças, e a avaliação dos projetos.
+
+12. Depois de aprovado pela Comissão pelo procedimento definido nos n.^os^ 1 a 5, o modelo mencionado no n.º 10 deve ser incluído nas metodologias a que se refere o n.º 1, que devem ser alteradas em conformidade.
+
+13. Pelo menos de cinco em cinco anos, a contar da data da sua aprovação nos termos do n.º 10, e, se necessário, com maior frequência, o modelo e as metodologias coerentes de custo-benefício para cada setor devem ser atualizados pelo procedimento a que se refere o n.º 7.
+
+14. Até 1 de janeiro de 2027, o presente artigo é aplicável sob reserva das disposições transitórias estabelecidas no artigo 61.º do Regulamento (UE) 2024/1789.
+
+###### Artigo 12.º — Cenários para os planos decenais de desenvolvimento da rede
+
+1. Até 24 de janeiro de 2023, a Agência, após ter realizado um amplo processo de consulta envolvendo a Comissão, os Estados-Membros, a REORT para a Eletricidade, a REORT para o Gás, a entidade ORDUE e, no mínimo, as organizações representativas das associações envolvidas nos mercados da eletricidade, do gás natural e do hidrogénio, as partes interessadas nos domínios do aquecimento e arrefecimento, da captura e armazenamento de carbono e da captura e utilização de carbono, os agregadores independentes, os operadores de resposta da procura, as organizações envolvidas em soluções de eficiência energética, as associações de consumidores de energia e representantes da sociedade civil, deve publicar as orientações-quadro para os cenários conjuntos a elaborar pela REORT para a Eletricidade, pela REORT para o Gás e pela REORH. Essas orientações-quadro devem ser atualizadas periodicamente, se necessário. O processo de consulta para qualquer atualização das orientações-quadro deve também envolver a REORH.
+
+As orientações-quadro a que se refere o primeiro parágrafo devem definir critérios para uma elaboração transparente, não discriminatória e sólida dos cenários, tendo em conta as boas práticas no domínio da avaliação de infraestruturas e do planeamento do desenvolvimento de redes. As orientações-quadro devem igualmente visar garantir que os cenários subjacentes da REORT para a Eletricidade, da REORT para o Gás e da REORH estão em plena conformidade com o princípio da prioridade à eficiência energética e com as metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática para 2050, e devem ter em conta os mais recentes cenários disponíveis da Comissão, bem como, se for caso disso, os planos nacionais em matéria de energia e clima.
+
+O Conselho Consultivo Científico Europeu sobre as Alterações Climáticas pode, por sua própria iniciativa, contribuir para assegurar a conformidade dos cenários com as metas da União para 2030 em matéria de energia e clima e o seu objetivo de neutralidade climática para 2050. A Agência deve ter esses contributos em devida conta nas orientações-quadro a que se refere o primeiro parágrafo.
+
+Caso não tenha tido em conta, ou tenha tido apenas parcialmente em conta, as recomendações dos Estados-Membros, das partes interessadas e do Conselho Consultivo Científico Europeu sobre as Alterações Climáticas, a Agência deve apresentar os motivos da sua decisão.
+
+2. A REORT para a Eletricidade, a REORT para o Gás e a REORH devem seguir as orientações-quadro da Agência ao elaborar os cenários conjuntos a utilizar para os planos decenais de desenvolvimento da rede à escala da União.
+
+Os cenários conjuntos devem também incluir uma perspetiva de longo prazo até 2050 e, se for caso disso, etapas intermédias.
+
+3. A REORT para a Eletricidade, a REORT para o Gás e a REORH devem convidar as organizações representativas de todas as partes interessadas relevantes, incluindo a entidade ORDUE, as associações envolvidas nos mercados da eletricidade, do gás natural e do hidrogénio, as partes interessadas nos domínios do aquecimento e arrefecimento, da captura e armazenamento de carbono e da captura e utilização de carbono, os agregadores independentes, os operadores de resposta da procura, as organizações envolvidas em soluções de eficiência energética, as associações de consumidores de energia e os representantes da sociedade civil, a participar no processo de desenvolvimento de cenários, em especial no que se refere a elementos essenciais tais como os pressupostos e a forma como são refletidos nos dados dos cenários.
+
+4. A REORT para a Eletricidade, a REORT para o Gás e a REORH devem publicar e apresentar o projeto de relatório sobre os cenários conjuntos para parecer à Agência, aos Estados-Membros e à Comissão.
+
+O Conselho Consultivo Científico Europeu sobre as Alterações Climáticas pode, por sua própria iniciativa, emitir um parecer relativamente ao relatório sobre os cenários conjuntos.
+
+5. No prazo de três meses a contar da receção do projeto de relatório sobre os cenários conjuntos, juntamente com os contributos recebidos no âmbito do processo de consulta e um relatório sobre o modo como foram tidos em conta, a Agência apresenta o seu parecer sobre a conformidade dos cenários com as orientações-quadro referidas no n.º 1, primeiro parágrafo, incluindo eventuais recomendações de alterações, à REORT para a Eletricidade, à REORT para o Gás, à REORH, aos Estados-Membros e à Comissão.
+
+Dentro do mesmo prazo, o Conselho Consultivo Científico Europeu sobre as Alterações Climáticas pode, por sua própria iniciativa, emitir um parecer sobre a conformidade dos cenários com as metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática para 2050.
+
+6. No prazo de três meses a contar da receção do parecer mencionado no n.º 5, a Comissão, tendo em conta os pareceres da agência e dos Estados-Membros, aprova o projeto de relatório sobre os cenários conjuntos ou pede à REORT para a Eletricidade, à REORT para o Gás e à REORH que o alterem.
+
+A REORT para a Eletricidade, a REORT para o Gás e a REORH devem apresentar os motivos que expliquem quais as medidas tomadas em resposta aos pedidos de alteração por parte da Comissão.
+
+Caso não aprove o relatório sobre os cenários conjuntos, a Comissão deve apresentar um parecer fundamentado à REORT para a Eletricidade, à REORT para o Gás e à REORH.
+
+7. No prazo de duas semanas a contar da aprovação do relatório sobre os cenários conjuntos em conformidade com o n.º 6, a REORT para a Eletricidade, a REORT para o Gás e a REORH devem publicá-lo nos seus sítios Web. Publicam igualmente os dados de entrada e de saída correspondentes de uma forma suficientemente clara e precisa, por forma a permitir a terceiros reproduzir os resultados, tendo devidamente em conta o direito nacional, bem como os acordos de confidencialidade pertinentes e as informações sensíveis.
+
+8. Até 1 de janeiro de 2027, o presente artigo é aplicável sob reserva das disposições transitórias estabelecidas no artigo 61.º do Regulamento (UE) 2024/1789.
+
+###### Artigo 13.º — Identificação das lacunas em matéria de infraestruturas
+
+1. No prazo de seis meses a contar da aprovação do relatório sobre os cenários conjuntos nos termos do artigo 12.º, n.º 6, e, posteriormente, de dois em dois anos, a REORT para a Eletricidade, a REORT para o Gás e a REORH devem publicar os relatórios sobre as lacunas em matéria de infraestruturas elaborados no âmbito dos planos decenais de desenvolvimento da rede à escala da União.
+
+Ao avaliar as lacunas em matéria de infraestruturas, a REORT para a Eletricidade, a REORT para o Gás e a REORH devem basear a sua análise nos cenários definidos no artigo 12.º, aplicar o princípio da prioridade à eficiência energética e dar prioridade a todas as alternativas pertinentes a novas infraestruturas. Ao considerar novas soluções de infraestrutura, a avaliação das lacunas em matéria de infraestruturas tem em conta todos os custos pertinentes, incluindo os reforços da rede.
+
+A avaliação das lacunas em matéria de infraestruturas deve, em especial, centrar-se nas lacunas em matéria de infraestruturas que possam afetar o cumprimento das metas da União para 2030 em matéria de energia e clima e do seu objetivo de neutralidade climática para 2050.
+
+Antes de publicarem os respetivos relatórios, a REORT para a Eletricidade, a REORT para o Gás e a REORH devem realizar um amplo processo de consulta envolvendo todas as partes interessadas relevantes, incluindo a entidade ORDUE, as associações envolvidas nos mercados da eletricidade, do gás natural e do hidrogénio, as partes interessadas nos domínios do aquecimento e arrefecimento, da captura e armazenamento de carbono e da captura e utilização de carbono, os agregadores independentes, os operadores de resposta da procura, as organizações envolvidas em soluções de eficiência energética e as associações de consumidores de energia, os representantes da sociedade civil, a Agência e todos os representantes dos Estados-Membros que fazem parte dos corredores prioritários das infraestruturas energéticas pertinentes relevantes previstos no anexo I.
+
+2. A REORT para a Eletricidade, a REORT para o Gás e a REORH devem apresentar o respetivo projeto de relatório sobre as lacunas em matéria de infraestruturas à Agência, à Comissão e aos Estados-Membros, para obtenção dos respetivos pareceres.
+
+3. No prazo de três meses a contar da receção do relatório sobre as lacunas em matéria de infraestruturas, juntamente com os contributos recebidos no âmbito do processo de consulta e de um relatório sobre o modo como foram tidos em conta, a Agência deve apresentar o seu parecer à REORT para a Eletricidade, à REORT para o Gás, à REORH, à Comissão e aos Estados-Membros, assim como disponibilizá-lo ao público.
+
+4. No prazo de três meses a contar da receção do parecer da Agência mencionado no n.º 3, a Comissão, tendo em conta esse parecer e os contributos dos Estados-Membros, elabora e apresenta o seu parecer à REORT para a Eletricidade, à REORT para o Gás ou à REORH.
+
+5. A REORT para a Eletricidade, a REORT para o Gás e a REORH devem adaptar os seus relatórios sobre as lacunas em matéria de infraestruturas, tendo devidamente em conta o parecer da Agência e em conformidade com os pareceres da Comissão e dos Estados-Membros e disponibilizá-los ao público.
+
+6. Até 1 de janeiro de 2027, o presente artigo é aplicável sob reserva das disposições transitórias estabelecidas no artigo 61.º do Regulamento (UE) 2024/1789.
+
+## CAPÍTULO V
+
+### Redes ao largo para a integração da energia de fontes renováveis
+
+###### Artigo 14.º — Planeamento das redes ao largo
+
+1. Até 24 de janeiro de 2023, os Estados-Membros, com o apoio da Comissão, no âmbito dos seus corredores prioritários específicos da rede ao largo previstos no ponto 2 do anexo I, tendo em conta as especificidades e o desenvolvimento em cada região, celebram um acordo de cooperação não vinculativo no que respeita às metas de produção a partir de fontes renováveis ao largo a implantar em cada bacia marítima até 2050, com etapas intermédias em 2030 e 2040, em conformidade com os seus planos nacionais em matéria de energia e clima e o potencial de cada bacia marítima em matéria de energias renováveis ao largo.
+
+Esse acordo não vinculativo é celebrado por escrito relativamente a cada bacia marítima ligada ao território dos Estados-Membros e aplica-se sem prejuízo do direito que assiste aos Estados-Membros de desenvolverem projetos no seu mar territorial e na sua zona económica exclusiva. A Comissão fornecerá orientações para o trabalho nos grupos.
+
+2. Até 24 de janeiro de 2024 e, posteriormente, como parte de cada plano decenal de desenvolvimento da rede, a REORT para a Eletricidade, com a participação dos ORT pertinentes, das entidades reguladoras nacionais, dos Estados-Membros e da Comissão e em conformidade com o acordo mencionado no n.º 1 do presente artigo, deve elaborar e publicar, num relatório separado que faz parte integrante do plano decenal de desenvolvimento da rede à escala da União, planos estratégicos de alto nível de desenvolvimento da rede integrada ao largo para cada bacia marítima, em consonância com os corredores prioritários da rede ao largo mencionados no anexo I, tendo em conta a proteção do ambiente e as outras utilizações do mar.
+
+Na elaboração dos planos estratégicos de alto nível de desenvolvimento da rede integrada ao largo dentro do prazo previsto no n.º 1, a REORT para a Eletricidade deve ter em conta os acordos não vinculativos a que se refere o n.º 1 para o desenvolvimento dos cenários do plano decenal de desenvolvimento da rede à escala da União.
+
+Os planos estratégicos de alto nível de desenvolvimento da rede integrada ao largo devem fornecer uma perspetiva de alto nível sobre o potencial das capacidades de produção ao largo e as necessidades resultantes numa rede ao largo, designadamente as possíveis necessidades em matéria de interligações, projetos híbridos, ligações radiais, reforços e infraestruturas de hidrogénio.
+
+3. Os planos estratégicos de alto nível de desenvolvimento da rede integrada ao largo devem ser coerentes com os planos de investimento regional publicados nos termos do artigo 34.º, n.º 1, do Regulamento (UE) 2019/943 e integrados nos planos decenais de desenvolvimento da rede à escala da União, a fim de assegurar o desenvolvimento coerente do planeamento da rede em terra e ao largo e os reforços necessários.
+
+4. Até 24 de dezembro de 2024 e, posteriormente, de dois em dois anos, os Estados-Membros devem atualizar o seu acordo não vinculativo referido no n.º 1 do presente artigo, inclusive tendo em conta os resultados da aplicação da relação custo-benefício e da partilha de custos aos corredores prioritários da rede ao largo, quando esses resultados ficarem disponíveis.
+
+5. Após cada atualização dos acordos não vinculativos em conformidade com o n.º 4, para cada bacia marítima, a REORT para a Eletricidade deve atualizar o plano estratégico de alto nível de desenvolvimento da rede integrada ao largo no âmbito do próximo plano decenal de desenvolvimento da rede à escala da União referido no n.º 2.
+
+###### Artigo 15.º — Partilha transfronteiriça dos custos ligados às redes ao largo para a energia de fontes renováveis
+
+1. Até 24 de junho de 2024, a Comissão, com a participação dos Estados-Membros, dos ORT competentes, da Agência e das entidades reguladoras nacionais, elabora orientações para uma metodologia específica relativa aos custos e benefícios e à partilha dos custos para a implantação dos planos de desenvolvimento da rede integrada ao largo das bacias marítimas a que se refere o artigo 14.º, n.º 2, em conformidade com os acordos não vinculativo referidos no artigo 14.º, n.º 1. Estas orientações devem ser compatíveis com o artigo 16.º, n.º 1. A Comissão atualiza as suas orientações sempre que necessário, tendo em conta os resultados da sua aplicação.
+
+2. Até 24 de junho de 2025, a REORT para a Eletricidade, com a participação dos ORT pertinentes, da Agência, das entidades reguladoras nacionais e da Comissão, deve apresentar os resultados da aplicação da metodologia relativa aos custos e benefícios e à partilha dos custos aos corredores prioritários das redes ao largo.
+
+## CAPÍTULO VI
+
+### Quadro regulamentar
+
+###### Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+
+1. Os custos de investimento eficientemente suportados, o que exclui custos de manutenção, relativos a um projeto de interesse comum pertencente às categorias de infraestruturas energéticas definidas no ponto 1, alíneas a), b), c), d) e f), do anexo II e a projetos de interesse comum pertencentes à categoria de infraestruturas energéticas definida no ponto 3 do anexo II, se forem da competência das entidades reguladoras nacionais de cada Estado-Membro em causa, devem ser suportados pelos ORT em causa ou pelos promotores do projeto da infraestrutura de transporte dos Estados-Membros nos quais o projeto produz um impacto positivo líquido e, na medida em que não se encontrem abrangidos pelas receitas de congestionamento ou outras taxas, pagos pelos utilizadores da rede através de tarifas de acesso à rede no ou nos Estados-Membros.
+
+2. As disposições do presente artigo aplicam-se a um projeto de interesse comum pertencente às categorias de infraestruturas energéticas previstas no ponto 1, alíneas a), b), c), d) e f), e no ponto 3 do anexo II, se pelo menos um promotor do projeto solicitar que as autoridades nacionais relevantes o apliquem aos custos do projeto.
+
+Os projetos pertencentes à categoria de infraestruturas energéticas prevista no ponto 1, alínea e), e ponto 2 do anexo II podem beneficiar das disposições do presente artigo se pelo menos um promotor do projeto solicitar a sua aplicação às autoridades nacionais relevantes.
+
+Se um projeto tiver vários promotores, as entidades reguladoras nacionais relevantes devem solicitar sem demora a todos os promotores que submetam o pedido de investimento em conjunto nos termos do n.º 4.
+
+3. Relativamente a um projeto de interesse comum abrangido pelas disposições do n.º 1, os promotores do projeto devem, pelo menos uma vez por ano e até à colocação em funcionamento do projeto, manter periodicamente todas as entidades reguladoras nacionais relevantes ao corrente dos progressos realizados por esse projeto e da identificação dos custos e do impacto a este associados.
+
+4.
+
+Assim que um projeto de interesse comum desta natureza atingir a maturidade suficiente e se estime que esteja pronto para iniciar a fase de construção nos 36 meses seguintes, os promotores do projeto, após consulta dos ORT dos Estados-Membros nos quais o projeto tenha um impacto positivo líquido significativo, devem apresentar um pedido de investimento. Esse pedido de investimento deve incluir um pedido de repartição transfronteiriça dos custos e deve ser submetido a todas as entidades reguladoras nacionais relevantes em causa, acompanhado de todos os seguintes elementos:
+
+a) Uma análise de custo-benefício específica do projeto atualizada, que seja conforme com a metodologia elaborada nos termos do artigo 11.º e que tenha em consideração os benefícios obtidos fora das fronteiras dos Estados-Membros em cujo território o projeto está situado, tendo em conta, pelo menos, os cenários conjuntos estabelecidos para o planeamento do desenvolvimento da rede a que se refere o artigo 12.º. Caso sejam utilizados cenários adicionais, esses cenários devem ser coerentes com as metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática para 2050 e devem ser sujeitos ao mesmo nível de consulta e controlo do processo previsto no artigo 12.º. A Agência é responsável pela avaliação de quaisquer cenários adicionais e pela garantia da sua conformidade com o presente número;
+
+b) Um plano de atividades que avalie a viabilidade financeira do projeto, incluindo a solução de financiamento escolhida, e, para um projeto de interesse comum pertencente à categoria de infraestruturas energéticas referida no ponto 3 do anexo II, os resultados das consultas do mercado;
+
+c) Se os promotores do projeto estiverem de acordo, uma proposta fundamentada para uma repartição transfronteiriça dos custos.
+
+Se um projeto for promovido por vários promotores, estes devem apresentar o seu pedido de financiamento em conjunto.
+
+As entidades reguladoras nacionais relevantes devem enviar à Agência, para informação, imediatamente após a sua receção, uma cópia de cada pedido de investimento.
+
+As entidades reguladoras nacionais relevantes e a Agência devem preservar a confidencialidade das informações comercialmente sensíveis.
+
+5. No prazo de seis meses a contar da data em que o pedido de investimento for recebido pelas última das entidades reguladoras nacionais relevantes, essas entidades devem, após consulta aos promotores do projeto envolvidos, tomar decisões coordenadas sobre a repartição dos custos de investimento eficientemente incorridos a suportar por cada operador de rede relativamente ao projeto, bem como a sua inclusão nas tarifas, ou sobre a rejeição do pedido de investimento, no seu todo ou em parte, se a análise comum das entidades reguladoras nacionais relevantes concluir que o projeto, ou parte do mesmo, não concede um benefício líquido significativo em qualquer um dos Estados-Membros das entidades reguladoras nacionais relevantes. As entidades reguladoras nacionais relevantes devem incluir os custos de investimento pertinentes eficientemente incorridos nas tarifas, conforme definidos na recomendação mencionada no n.º 11, em conformidade com a repartição dos custos de investimento a suportar por cada operador de rede relativamente ao projeto. As entidades reguladoras nacionais relevantes devem, em relação a projetos nos territórios do respetivo Estado-Membro, avaliar posteriormente, se for caso disso, se podem surgir problemas de acessibilidade económica motivados pela inclusão dos custos de investimento nas tarifas.
+
+Na repartição dos custos, as entidades reguladoras nacionais relevantes devem tomar em consideração os montantes reais ou estimados:
+
+a) Das receitas de congestionamento ou outras taxas;
+
+b) Das receitas provenientes do mecanismo de compensação entre operadores de redes de transporte criado nos termos do artigo 49.º do Regulamento (UE) 2019/943.
+
+A repartição transfronteiriça dos custos deve ter em conta os custos e os benefícios económicos, sociais e ambientais dos projetos nos Estados-Membros envolvidos e a eventual necessidade de assegurar um quadro de financiamento estável para o desenvolvimento de projetos de interesse comum, minimizando a necessidade de apoio financeiro.
+
+Na repartição transfronteiriça dos custos, as entidades reguladoras nacionais relevantes, após consultar os ORT pertinentes, devem esforçar-se por obter um acordo mútuo com base, entre outros, nas informações especificadas no n.º 4, primeiro parágrafo, alíneas a) e b), do presente artigo. A sua avaliação deve ter em conta todos os cenários pertinentes a que se refere o artigo 12.º e outros cenários para o planeamento do desenvolvimento da rede, permitindo uma análise sólida do contributo do projeto de interesse comum para os objetivos da política energética da União em matéria de descarbonização, integração do mercado, concorrência, sustentabilidade e segurança do abastecimento. Caso sejam utilizados cenários adicionais, esses cenários devem ser coerentes com as metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática para 2050 e devem ser sujeitos ao mesmo nível de consulta e controlo do processo previsto no artigo 12.º.
+
+Se um projeto de interesse comum atenuar os efeitos externos negativos, como os fluxos circulares, e se esse projeto de interesse comum for executado no Estado-Membro que está na origem do efeito externo negativo, essa atenuação não deve ser considerada um benefício transfronteiriço, pelo que não servirá de base para a imputação dos custos ao ORT dos Estados-Membros afetados por esses efeitos externos negativos.
+
+6. Quando fixam ou aprovam as tarifas ao abrigo do artigo 41.º, n.º 1, alínea a), da Diretiva 2009/73/CE e do artigo 59.º, n.º 1, alínea a), da Diretiva (UE) 2019/944, as entidades reguladoras nacionais relevantes devem tomar em consideração, com base na repartição transfronteiriça dos custos referida no n.º 5 do presente artigo, os custos efetivamente suportados por um ORT ou por outro promotor do projeto em consequência dos investimentos, na medida em que estes custos correspondam aos de um operador de rede eficiente e estruturalmente comparável.
+
+A decisão de repartição dos custos deve ser notificada pelas entidades reguladoras nacionais relevantes à Agência, sem demora, acompanhada de todas as informações relevantes acerca da mesma. A decisão de repartição dos custos deve incluir, nomeadamente, as razões circunstanciadas para a repartição dos custos entre os Estados-Membros, incluindo, por exemplo:
+
+a) Uma avaliação do impacto identificado em cada um dos Estados-Membros envolvidos, nomeadamente em relação às tarifas de rede;
+
+b) Uma avaliação do plano de atividades referido no n.º 4, primeiro parágrafo, alínea b);
+
+c) Os efeitos externos positivos, a nível regional ou da União, que o projeto pode gerar, tais como segurança do abastecimento, flexibilidade do sistema, solidariedade ou inovação;
+
+d) O resultado da consulta aos promotores do projeto envolvidos.
+
+A decisão de repartição dos custos deve ser publicada.
+
+7. Se as entidades reguladoras nacionais relevantes não tiverem chegado a acordo sobre o pedido de investimento no prazo de seis meses a contar da data em que o pedido foi recebido pela última das entidades reguladoras nacionais relevantes, devem informar a Agência desse facto, sem demora.
+
+Neste caso, ou a pedido conjunto das entidades reguladoras nacionais relevantes, a decisão sobre o pedido de investimento, incluindo a repartição transfronteiriça dos custos referida no n.º 5, deve ser tomada pela Agência no prazo de três meses a contar da data em que a questão lhe foi submetida.
+
+Antes de tomar uma decisão, a Agência deve consultar as entidades reguladoras nacionais relevantes e os promotores dos projetos. O prazo de três meses referido no segundo parágrafo pode ser prorrogado por mais dois meses se a Agência pretender obter informações suplementares. O novo prazo começa a correr no dia seguinte ao da receção das informações completas.
+
+A avaliação da Agência deve ter em conta todos os cenários pertinentes estabelecidos nos termos do artigo 12.º e outros cenários para o planeamento do desenvolvimento da rede, permitindo uma análise sólida do contributo do projeto de interesse comum para os objetivos da política energética da União em matéria de descarbonização, integração do mercado, concorrência, sustentabilidade e segurança do abastecimento. Caso sejam utilizados cenários adicionais, esses cenários devem ser coerentes com as metas da União para 2030 em matéria de energia e de clima e o seu objetivo de neutralidade climática para 2050 e devem ser sujeitos ao mesmo nível de consulta e controlo do processo previsto no artigo 12.º.
+
+A Agência deve, na sua decisão sobre o pedido de investimento, inclusive sobre a repartição transfronteiriça dos custos, deixar às autoridades nacionais competentes a definição do modo como os custos de investimento são incluídos nas tarifas em conformidade com a repartição transfronteiriça dos custos prevista no momento da implementação da decisão, em conformidade com o direito nacional.
+
+A decisão sobre o pedido de investimento, incluindo a repartição transfronteiriça dos custos, deve ser publicada. Aplicam-se o artigo 25.º, n.º 3, o artigo 28.º e o artigo 29.º do Regulamento (UE) 2019/942.
+
+8. A Agência deve notificar imediatamente à Comissão uma cópia de todas as decisões de repartição dos custos, acompanhada de todas as informações relevantes acerca de cada decisão. Essas informações podem ser apresentadas de forma agregada. A Comissão preserva a confidencialidade das informações comercialmente sensíveis.
+
+9. As decisões de repartição dos custos não afetam o direito dos ORT de aplicar taxas de acesso às redes, nem o das entidades reguladoras nacionais de as aprovar, nos termos do artigo 13.º do Regulamento (CE) n.º 715/2009, do artigo 18.º, n.º 1 e n.^os^ 3 a 6, do Regulamento (UE) 2019/943, do artigo 32.º da Diretiva 2009/73/CE e do artigo 6.º da Diretiva (UE) 2019/944.
+
+10.
+
+O presente artigo não se aplica aos projetos de interesse comum que beneficiem de uma isenção:
+
+a) Do disposto nos artigos 32.º, 33.º, 34.º e no artigo 41.º, n.^os^ 6, 8 e 10, da Diretiva 2009/73/CE, nos termos do artigo 36.º dessa diretiva;
+
+b) Do disposto no artigo 19.º, n.^os^ 2 e 3, do Regulamento (UE) 2019/943 ou do disposto no artigo 6.º, no artigo 59.º, n.º 7, e no artigo 60.º, n.º 1, da Diretiva (UE) 2019/944, nos termos do artigo 63.º do Regulamento (UE) 2019/943;
+
+c) Das regras de separação ou de acesso de terceiros nos termos do artigo 17.º do Regulamento (CE) n.º 714/2009 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0005)) ou do artigo 64.º do Regulamento (UE) 2019/943 e do artigo 66.º da Diretiva (UE) 2019/944.
+
+11. Até 24 de junho de 2023, a Agência adota uma recomendação com vista à identificação de boas práticas para o tratamento de pedidos de investimento para projetos de interesse comum. Essa recomendação é regularmente atualizada, na medida do necessário e, em especial, para assegurar a coerência com os princípios relativos às redes ao largo para a energia de fontes renováveis a que se refere o artigo 15.º, n.º 1. Ao aprovar ou alterar a recomendação, a Agência realiza um extenso processo de consulta, envolvendo todas as partes interessadas pertinentes.
+
+12. O presente artigo aplica-se, com as necessárias adaptações, a projetos de interesse mútuo.
+
+###### Artigo 17.º — Incentivos regulamentares
+
+1. Caso o promotor de um projeto incorra em maiores riscos para o desenvolvimento, a construção, a exploração e a manutenção de um projeto de interesse comum da competência das entidades reguladoras nacionais, em comparação com os riscos normalmente incorridos por um projeto de infraestrutura comparável, os Estados-Membros e as entidades reguladoras nacionais podem conceder incentivos apropriados a esse projeto nos termos do artigo 13.º do Regulamento (CE) n.º 715/2009, do artigo 18.º, n.º 1 e artigo 18.º n.^os^ 3 a 6, do Regulamento (UE) 2019/943, do artigo 41.º, n.º 8, da Diretiva 2009/73/CE e do artigo 58.º, alínea f), da Diretiva (UE) 2019/944.
+
+O primeiro parágrafo não se aplica caso o projeto de interesse comum tenha beneficiado de uma isenção:
+
+a) Do disposto nos artigos 32.º, 33.°, 34.° e no artigo 41.º, n.^os^ 6, 8 e 10, da Diretiva 2009/73/CE, nos termos no artigo 36.º dessa diretiva;
+
+b) Do disposto no artigo 19.º, n.^os^ 2 e 3, do Regulamento (UE) 2019/943 ou do disposto no artigo 6.º, no artigo 59.º, n.º 7, e no artigo 60.º, n.º 1, da Diretiva (UE) 2019/944, nos termos do artigo 63.º do Regulamento (UE) 2019/943;
+
+c) Nos termos do artigo 36.º da Diretiva 2009/73/CE;
+
+d) Nos termos do artigo 17.º do Regulamento (CE) n.º 714/2009.
+
+2. Caso decidam conceder os incentivos mencionados no n.º 1 do presente artigo, as entidades reguladoras nacionais tomam em consideração os resultados da análise custo-benefício conforme com a metodologia elaborada nos termos do artigo 11.º e, em especial, os efeitos externos positivos a nível regional ou da União produzidos pelo projeto. As entidades reguladoras nacionais devem analisar ainda os riscos específicos em que os promotores do projeto incorrem, as medidas de atenuação dos riscos tomadas e os motivos desse perfil de risco, tendo em conta o impacto positivo líquido produzido pelo projeto em comparação com uma alternativa de menor risco. Nos riscos elegíveis devem incluir-se, nomeadamente, os riscos relacionados com as novas tecnologias de transporte, em terra e ao largo, os riscos relacionados com a sub-recuperação de custos e os riscos de desenvolvimento.
+
+3.
+
+A decisão de concessão dos incentivos deve ter em conta a natureza específica do risco incorrido e pode conceder incentivos que abranjam, nomeadamente, uma ou mais das medidas seguintes:
+
+a) As regras para a antecipação do investimento;
+
+b) As regras para o reconhecimento dos custos eficientemente suportados antes da colocação em funcionamento do projeto;
+
+c) As regras para a obtenção de um rendimento suplementar sobre o capital investido no projeto;
+
+d) Qualquer outra medida considerada necessária e adequada.
+
+4. Até 24 de janeiro de 2023, cada entidade reguladora nacional deve apresentar à Agência a sua metodologia e os critérios utilizados para avaliar os investimentos em projetos de infraestruturas e os maiores riscos incorridos por esses projetos, atualizados tendo em conta a mais recente evolução da legislação, das políticas, das tecnologias e do mercado. Essa metodologia e esses critérios também devem ter expressamente em conta os riscos específicos incorridos pelas redes ao largo para a energia de fontes renováveis a que se refere o ponto 1, alínea f), do anexo II e pelos projetos que, tendo baixas despesas de capital, incorram em despesas de exploração significativas.
+
+5.
+
+Até 24 de junho de 2023, tendo devidamente em conta as informações recebidas de acordo com o n.º 4 do presente artigo, a Agência deve facilitar a partilha de boas práticas e formular recomendações, nos termos do artigo 6.º, n.º 2, do Regulamento (UE) 2019/942, relativamente aos dois pontos que se seguem:
+
+a) Os incentivos referidos no n.º 1, com base numa análise comparativa das melhores práticas adotadas pelas entidades reguladoras nacionais;
+
+b) Uma metodologia comum para avaliar os maiores riscos de investimento incorridos em projetos de infraestruturas de energia.
+
+6. Até 24 de setembro de 2023, cada entidade reguladora nacional deve publicar a sua metodologia e os critérios utilizados para avaliar os investimentos em projetos de infraestruturas de energia e os maiores riscos por eles incorridos.
+
+7. Caso as medidas mencionadas nos n.^os^ 5 e 6 não sejam suficientes para garantir a execução atempada dos projetos de interesse comum, a Comissão pode formular orientações relativas aos incentivos previstos no presente artigo.
+
+## CAPÍTULO VII
+
+### Financiamento
+
+###### Artigo 18.º — Elegibilidade dos projetos para assistência financeira da União nos termos do Regulamento (UE) 2021/1153
+
+1. Os projetos de interesse comum pertencentes às categorias de infraestruturas energéticas definidas no artigo 24.º e no anexo II são elegíveis para assistência financeira da União sob a forma de subvenções para estudos e de instrumentos financeiros.
+
+2.
+
+Os projetos de interesse comum pertencentes às categorias de infraestruturas energéticas definidas no artigo 24.º e no ponto 1, alíneas a), b), c), d) e f), do anexo II e no ponto 3 do anexo II também são elegíveis para a assistência financeira da União sob a forma de subvenções para obras, se preencherem todos os seguintes critérios:
+
+a) A análise de custo-benefício específica do projeto, elaborada nos termos do artigo 16.º, n.º 4, alínea a), fornece provas da existência de efeitos externos positivos significativos, tais como a segurança do abastecimento, a flexibilidade do sistema, a solidariedade ou a inovação;
+
+b) O projeto foi objeto de uma decisão de repartição transfronteiriça dos custos nos termos do artigo 16.º ou, para os projetos de interesse comum que se inserem na categoria de infraestruturas energéticas definida no anexo II, ponto 3, que não sejam da competência das entidades reguladoras nacionais e que, por conseguinte, não beneficiem de uma decisão de repartição transfronteiriça dos custos, o projeto vise o fornecimento de serviços transfronteiriços, seja portador de inovação tecnológica e garanta a segurança do funcionamento da rede transfronteiriça;
+
+c) O projeto não pode ser financiado pelo mercado ou através do quadro regulamentar em conformidade com o plano de atividades e outras avaliações, em especial as realizadas por potenciais investidores, credores ou pela autoridade reguladora nacional, tomando em consideração uma eventual decisão sobre os incentivos e os motivos, referida no artigo 17.º, n.º 2, aquando da avaliação da necessidade de assistência financeira da União para o projeto.
+
+3. Os projetos de interesse comum realizados de acordo com o procedimento a que se refere o artigo 5.º, n.º 7, alínea d), também são elegíveis para a assistência financeira da União sob a forma de subvenções para obras, se preencherem os critérios estabelecidos no n.º 2 do presente artigo.
+
+4. Os projetos de interesse comum pertencentes às categorias de infraestruturas energéticas definidas no ponto 1, alínea e), e pontos 2 e 5 do anexo II também são elegíveis para assistência financeira da União sob a forma de subvenções para obras, se os promotores dos projetos em causa puderem demonstrar claramente, numa avaliação realizada pela autoridade nacional competente ou, se for o caso, pela entidade reguladora nacional, que os projetos produzem efeitos externos positivos significativos, como a segurança do abastecimento, a flexibilidade do sistema, a solidariedade ou a inovação, e apresentarem provas claras da sua falta de viabilidade comercial, em conformidade com a análise custo-benefício, o plano de atividades e as avaliações realizados, nomeadamente por potenciais investidores ou credores ou, se for o caso, por uma entidade reguladora nacional.
+
+5. O presente artigo aplica-se, com as necessárias adaptações, a projetos de interesse mútuo.
+
+Os projetos de interesse mútuo são elegíveis para assistência financeira da União nas condições estabelecidas no artigo 5.º, n.º 2, do Regulamento (UE) 2021/1153. No que diz respeito às subvenções para obras, os projetos de interesse mútuo são elegíveis para assistência financeira da União, desde que cumpram os critérios estabelecidos no n.º 2 do presente artigo e contribuam para os objetivos gerais da política da União em matéria de energia e de clima.
+
+###### Artigo 19.º — Orientações relativas aos critérios de concessão de assistência financeira da União
+
+Os critérios específicos estabelecidos no artigo 4.º, n.º 3, do presente regulamento e os parâmetros fixados no artigo 4.º, n.º 5, do presente regulamento aplicam-se para efeitos do estabelecimento dos critérios de concessão de assistência financeira da União no Regulamento (UE) 2021/1153. No que diz respeito aos projetos de interesse comum abrangidos pelo artigo 24.º do presente regulamento, aplicam-se os critérios de integração do mercado, de segurança do abastecimento, de concorrência e de sustentabilidade.
+
+## CAPÍTULO VIII
+
+### Disposições finais
+
+###### Artigo 20.º — Exercício da delegação
+
+1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2. O poder de adotar atos delegados referido no artigo 3.º, n.º 4, é conferido à Comissão por um prazo de sete anos a contar de 23 de junho de 2022. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de sete anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.
+
+3. A delegação de poderes referida no artigo 3.º, n.º 4, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.
+
+5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+6. Os atos delegados adotados nos termos do artigo 3.º, n.º 4, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+###### Artigo 21.º — Relatórios e avaliação
+
+A Comissão deve publicar até 30 de junho de 2027, o mais tardar, um relatório sobre a execução dos projetos constantes da lista da União e apresentá-lo ao Parlamento Europeu e ao Conselho. Esse relatório deve fornecer uma avaliação:
+
+a) Dos progressos realizados no tocante ao planeamento, desenvolvimento, construção e colocação em funcionamento dos projetos constantes da lista da União e, se aplicável, os atrasos na execução e outras dificuldades encontradas;
+
+b) Dos fundos afetados e desembolsados pela União para projetos constantes da lista da União, comparativamente ao valor total dos projetos constantes da lista da União financiados;
+
+c) Dos progressos realizados em termos de integração de fontes de energia renováveis, incluindo fontes de energia renováveis ao largo, e de redução das emissões de gases com efeito de estufa por meio do planeamento, do desenvolvimento, da construção e da colocação em funcionamento dos projetos constantes da lista da União;
+
+d) Relativamente aos sectores da eletricidade e dos gases renováveis ou hipocarbónicos, incluindo o sector do hidrogénio, da evolução do nível de interligação entre os Estados-Membros, da evolução correspondente dos preços da energia, bem como do número de falhas sistémicas da rede, as suas causas e os custos económicos associados;
+
+e) Relativamente ao processo de concessão de licenças e de participação pública, em especial:
+
+i) da duração total média e máxima do processo de concessão de licenças para projetos constantes da lista da União, incluindo da duração de cada fase do procedimento anterior à candidatura, comparativamente ao calendário previsto pelas principais etapas iniciais mencionadas no artigo 10.º, n.º 6,
+
+ii) do nível de oposição aos projetos constantes da lista da União, nomeadamente o número de objeções por escrito recebidas durante o processo de consulta pública e o número de recursos judiciais,
+
+iii) das melhores práticas e das práticas inovadoras no que respeita ao envolvimento dos interessados,
+
+iv) das melhores práticas e das práticas inovadoras no que respeita à mitigação dos impactos ambientais, incluindo a adaptação às alterações climáticas, durante os processos de concessão de licenças e a execução do projeto,
+
+v) da eficácia dos procedimentos previstos no artigo 8.º, n.º 3, relativamente ao cumprimento dos prazos fixados no artigo 10.º, n.^os^ 1 e 2;
+
+f) Relativamente ao tratamento regulamentar, em especial:
+
+i) do número de projetos de interesse comum a que foi concedida uma decisão de repartição transfronteiriça dos custos nos termos do artigo 16.º,
+
+ii) do número e do tipo de projetos de interesse comum que receberam incentivos específicos nos termos do artigo 17.º;
+
+g) Da eficácia da contribuição do presente regulamento para as metas da União para 2030 em matéria de energia e de clima e para alcançar a neutralidade climática, o mais tardar, até 2050.
+
+###### Artigo 22.º — Reexame
+
+Até 30 de junho de 2027, a Comissão reexamina o presente regulamento com base nos resultados dos relatórios e da avaliação previstos no artigo 21.º do presente regulamento, bem como no acompanhamento, nos relatórios e na avaliação levados a cabo nos termos dos artigos 22.º e 23.° do Regulamento (UE) 2021/1153.
+
+###### Artigo 23.º — Informação e publicidade
+
+A Comissão cria e mantém uma plataforma de transparência facilmente acessível ao público através da Internet. A plataforma deve ser atualizada periodicamente com informações constantes dos relatórios mencionados no artigo 5.º, n.º 4, e do sítio Web a que se refere o artigo 9.º, n.º 7. Esta plataforma deve conter as seguintes informações:
+
+a) Informações de caráter geral, atualizadas, incluindo informações geográficas, em relação a cada projeto constante da lista da União;
+
+b) O plano de execução, previsto no artigo 5.º, n.º 1, de cada projeto constante da lista da União, apresentado de uma forma que permita a avaliação, em qualquer momento, dos progressos na execução;
+
+c) Os principais benefícios esperados, o contributo para a concretização dos objetivos referidos no artigo 1.º, n.º 1, e os custos dos projetos, com exceção de eventuais informações comercialmente sensíveis;
+
+d) A lista da União;
+
+e) Os fundos afetados e desembolsados pela União para cada projeto constante da lista da União;
+
+f) As ligações para o manual de procedimentos nacional referido no artigo 9.º;
+
+g) Para cada corredor prioritário da rede ao largo, os estudos e planos existentes relativos às bacias marítimas, sem violar quaisquer direitos de propriedade intelectual.
+
+###### Artigo 24.º — Derrogação aplicável às interligações de Chipre e Malta
+
+1.
+
+No caso de Chipre e Malta, que não estão interligados à rede transeuropeia de gás, é aplicável uma derrogação ao artigo 3.º, ao artigo 4.º, n.º 1, alíneas a) e b), ao artigo 4.º, n.º 5, ao artigo 16.º, n.º 4, alínea a), e aos anexos I, II e III, sem prejuízo do artigo 32.º, n.º 2. Uma interligação a cada um desses Estados-Membros mantém o seu estatuto de projeto de interesse comum nos termos do presente regulamento, com todos os direitos e obrigações relevantes, se essa interligação:
+
+a) Estiver em fase de desenvolvimento ou de planeamento em 23 de junho de 2022;
+
+b) Tiver obtido o estatuto de projeto de interesse comum ao abrigo do Regulamento (UE) n.º 347/2013; e
+
+c) For necessária para assegurar a interligação permanente desses Estados-Membros à rede transeuropeia de gás.
+
+Esses projetos devem assegurar a possibilidade futura de aceder a novos mercados da energia, incluindo o mercado do hidrogénio.
+
+2. Os promotores dos projetos devem fornecer aos Grupos pertinentes provas suficientes da forma como as interligações referidas no n.º 1 permitirão o acesso a novos mercados da energia, incluindo o mercado do hidrogénio, em consonância com os objetivos gerais da política da União em matéria de energia e de clima. Tais provas devem incluir uma avaliação da oferta e da procura de hidrogénio renovável ou hipocarbónico, bem como um cálculo da redução das emissões de gases com efeito de estufa possibilitada pelo projeto.
+
+A Comissão deve verificar regularmente essa avaliação e esse cálculo, bem como a execução atempada do projeto.
+
+3. Para além dos critérios específicos estabelecidos no artigo 19.º para a assistência financeira da União, as interligações referidas no n.º 1 do presente artigo devem ser concebidas com vista a garantir o acesso a futuros mercados da energia, incluindo o mercado do hidrogénio, não devem conduzir a um prolongamento da vida útil dos ativos de gás natural e devem assegurar a interoperabilidade transfronteiriça das redes vizinhas. A elegibilidade para a assistência financeira da União ao abrigo do artigo 18.º termina em 31 de dezembro de 2027.
+
+4. Qualquer pedido de assistência financeira da União para obras deve demonstrar claramente o objetivo de converter o ativo num ativo específico de hidrogénio até 2036, se as condições de mercado o permitirem, através de um roteiro com um calendário preciso.
+
+5. A derrogação prevista no n.º 1 é aplicável até Chipre ou Malta, respetivamente, estarem diretamente interligados à rede transeuropeia de gás ou até 31 de dezembro de 2029, consoante o que ocorrer primeiro.
+
+###### Artigo 25.º — Alteração do Regulamento (CE) n.º 715/2009
+
+No artigo 8.º, n.º 10, do Regulamento (CE) n.º 715/2009, o primeiro parágrafo passa a ter a seguinte redação:
+
+«10. A REORT para o Gás aprova e publica de dois em dois anos um plano de desenvolvimento da rede à escala comunitária referido no n.º 3, alínea b). O plano de desenvolvimento da rede à escala comunitária deve incluir a modelização da rede integrada, incluindo redes de hidrogénio, a elaboração de cenários, uma perspetiva de adequação da produção à escala europeia e uma avaliação da resiliência do sistema.».
+
+###### Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+
+No artigo 11.º do Regulamento (UE) 2019/942, as alíneas c) e d) passam a ter a seguinte redação:
+
+«c) Cumprir as obrigações previstas no artigo 5.º, no artigo 11.º, n.º 3 e n.^os^ 6 a 9, nos artigos 12.º, 13.° e 17.°, bem como na secção 2, ponto 12, do anexo III do Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0006));
+
+d) Tomar decisões relativas aos pedidos de investimento, incluindo à repartição transfronteiriça dos custos, nos termos do artigo 16.º, n.º 7, do Regulamento (UE) 2022/869.
+
+###### Artigo 27.º — Alteração do Regulamento (UE) 2019/943
+
+No artigo 48.º, n.º 1, do Regulamento (UE) 2019/943, o primeiro parágrafo passa a ter a seguinte redação:
+
+«1. O plano de desenvolvimento da rede à escala da União referido no artigo 30.º, n.º 1, alínea b), deve incluir a modelização da rede integrada, incluindo a elaboração de cenários e uma avaliação da resiliência do sistema. Os parâmetros de entrada relevantes para a modelização, como os pressupostos sobre os preços dos combustíveis e do carbono ou a instalação de sistemas de energias renováveis, devem ser plenamente coerentes com a avaliação europeia da adequação dos recursos realizada nos termos do artigo 23.º.».
+
+###### Artigo 28.º — Alteração da Diretiva 2009/73/CE
+
+Ao artigo 41.º, n.º 1, da Diretiva 2009/73/CE, é aditada a seguinte alínea:
+
+«v) Cumprir as obrigações previstas no artigo 3.º, no artigo 5.º, n.º 7, e nos artigos 14.º a 17.º do Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0007)).
+
+###### Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+
+Ao artigo 59.º, n.º 1, da Diretiva (UE) 2019/944, é aditada a seguinte alínea:
+
+«a-A) Cumprir as obrigações previstas no artigo 3.º, no artigo 5.º, n.º 7, e nos artigos 14.º a 17.º do Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0008)).
+
+###### Artigo 30.º — Disposições transitórias
+
+O presente regulamento não afeta a concessão, a confirmação ou a alteração da assistência financeira concedida pela Comissão nos termos do Regulamento (UE) n.º 1316/2013 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0009)).
+
+O capítulo III não se aplica aos projetos de interesse comum que tenham participado no processo de concessão de licenças e para os quais o promotor do projeto tenha apresentado um processo de candidatura antes de 16 de novembro de 2013.
+
+###### Artigo 31.º — Período transitório
+
+1. Durante um período transitório que termina em 31 de dezembro de 2029, os ativos dedicados ao hidrogénio convertidos de ativos do gás natural pertencentes à categoria de infraestruturas energéticas definida no ponto 3 do anexo II podem ser utilizados para o transporte ou o armazenamento de uma mistura predefinida de hidrogénio e gás natural ou biometano.
+
+2. Durante o período transitório referido no n.º 1, os promotores dos projetos cooperam estreitamente na conceção e execução dos projetos, a fim de assegurar a interoperabilidade das redes vizinhas.
+
+3. O promotor do projeto deve fornecer provas suficientes – incluindo através de contratos comerciais – sobre a forma como, no final do período transitório, os ativos referidos no n.º 1 do presente artigo deixam de ser ativos do gás natural e passam a ser ativos dedicados ao hidrogénio – tal como enunciados no ponto 3 do anexo II – e a forma como será possibilitada a utilização acrescida de hidrogénio durante o período transitório. Tais provas devem incluir uma avaliação da oferta e da procura de hidrogénio renovável ou hipocarbónico, bem como um cálculo da redução das emissões de gases com efeito de estufa possibilitada pelo projeto. No contexto do acompanhamento dos progressos alcançados na execução dos projetos de interesse comum, a Agência verifica a transição atempada do projeto para um ativo específico de hidrogénio, tal como enunciado no ponto 3 do anexo II.
+
+4. A elegibilidade dos projetos referidos no n.º 1 do presente artigo para a assistência financeira da União ao abrigo do artigo 18.º termina em 31 de dezembro de 2027.
+
+5. Nos anexos do presente regulamento, qualquer referência à «REORT para o gás» deve ser entendida como «a REORT para o gás e a REORH» para efeitos das disposições transitórias nos termos do artigo 61.º do Regulamento (UE) 2024/1789. A partir de 1 de janeiro de 2027, qualquer referência à «REORT para o Gás» deve ser entendida como «a REORH».
+
+###### Artigo 32.º — Revogação
+
+1. O Regulamento (UE) n.º 347/2013 é revogado a partir de 23 de junho de 2022. Do presente regulamento não decorrem quaisquer direitos para os projetos enumerados nos anexos do Regulamento (UE) n.º 347/2013.
+
+2. Não obstante o disposto no n.º 1 do presente artigo, o anexo VII do Regulamento (UE) n.º 347/2013, com a redação que lhe foi dada pelo Regulamento Delegado (UE) 2022/564 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0010)), que contém a quinta lista da União de projetos de interesse comum, bem como os artigos 2.º a 10.°, os artigos 12.º, 13.° e 14.° e os anexos I a IV e VI do Regulamento (UE) n.º 347/2013, devem permanecer em vigor e produzir efeitos no que respeita aos projetos de interesse comum incluídos na quinta lista da União até à entrada em vigor da primeira lista da União de projetos de interesse comum e projetos de interesse mútuo estabelecida nos termos do presente regulamento.
+
+3. Não obstante o disposto no n.º 2 do presente artigo, os projetos incluídos na quinta lista da União de projetos de interesse comum estabelecida nos termos do Regulamento (UE) n.º 347/2013, cujo processo de candidatura tenha sido admitido a exame pela autoridade competente, devem beneficiar dos direitos e obrigações decorrentes do capítulo III do presente regulamento por um período de quatro anos a contar da data de entrada em vigor do presente regulamento.
+
+###### Artigo 33.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+## ANEXO I
+
+### CORREDORES E DOMÍNIOS PRIORITÁRIOS DAS INFRAESTRUTURAS ENERGÉTICAS
+
+### (referidos no artigo 1.º, n.º 1)
+
+O presente regulamento é aplicável aos corredores e domínios prioritários das infraestruturas energéticas transeuropeias a seguir indicados:
+
+### 1. CORREDORES PRIORITÁRIOS NO SECTOR DA ELETRICIDADE
+
+1) Interligações Norte-Sul de eletricidade na Europa Ocidental («NSI West Electricity»): interligações entre os Estados-Membros da região e com a região mediterrânica, incluindo a Península Ibérica, nomeadamente para integrar a eletricidade produzida a partir de fontes de energia renováveis, reforçar as infraestruturas das redes internas para promover a integração do mercado na região, pôr termo ao isolamento da Irlanda e assegurar os necessários prolongamentos em terra das redes ao largo para a energia de fontes renováveis e os reforços da rede interna necessários para assegurar uma rede de transporte adequada e fiável e fornecer eletricidade produzida ao largo aos Estados-Membros sem litoral.
+
+2) Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste («NSI East Electricity»): interligações e linhas internas nos sentidos Norte-Sul e Este-Oeste para concluir o mercado interno, integrar a eletricidade produzida a partir de fontes de energia renováveis, pôr termo ao isolamento de Chipre e assegurar os necessários prolongamentos em terra das redes ao largo para a energia de fontes renováveis e os reforços da rede interna necessários para assegurar uma rede de transporte adequada e fiável e fornecer eletricidade produzida ao largo aos Estados-Membros sem litoral.
+
+3) Plano de Interligação do Mercado Báltico da Energia no sector da eletricidade («BEMIP Electricity»): interligações entre os Estados-Membros e as linhas internas na região do Báltico, para promover a integração do mercado, integrando simultaneamente as quotas crescentes de energia de fontes renováveis na região.
+
+### 2. CORREDORES PRIORITÁRIOS DAS REDES AO LARGO
+
+4) Redes ao largo nos mares do Norte (NSOG): desenvolvimento de uma rede de eletricidade ao largo, desenvolvimento de uma rede de eletricidade – bem como, se adequado, de hidrogénio – integrada ao largo e as interligações correspondentes no mar do Norte, no mar da Irlanda, no mar Céltico, no canal da Mancha e nas águas adjacentes para transportar eletricidade ou, se adequado, hidrogénio produzidos a partir de fontes de energia renováveis ao largo da costa para os centros de consumo e armazenamento ou para aumentar o intercâmbio transfronteiriço de energias renováveis.
+
+5) Plano de Interligação do Mercado Báltico da Energia para as redes ao largo («BEMIP offshore»): desenvolvimento de uma rede de eletricidade ao largo, desenvolvimento de uma rede de eletricidade – bem como, se adequado, de hidrogénio – integrada ao largo e as interligações correspondentes no mar Báltico e nas águas adjacentes para transportar eletricidade ou, se adequado, hidrogénio produzidos a partir de fontes de energia renováveis ao largo da costa para os centros de consumo e armazenamento ou para aumentar o intercâmbio transfronteiriço de energias renováveis.
+
+6) Redes ao largo meridional e ocidental («SW offshore»): desenvolvimento de uma rede de eletricidade ao largo, desenvolvimento de uma rede de eletricidade – bem como, se adequado, de hidrogénio – integrada ao largo e as interligações correspondentes no mar Mediterrâneo, incluindo o Golfo de Cádis, e nas águas adjacentes para transportar eletricidade ou, se adequado, hidrogénio produzidos a partir de fontes de energia renováveis ao largo da costa para os centros de consumo e armazenamento ou para aumentar o intercâmbio transfronteiriço de energias renováveis.
+
+7) Redes ao largo meridional e oriental («SE offshore»): desenvolvimento de uma rede de eletricidade ao largo, desenvolvimento de uma rede de eletricidade – bem como, se adequado, de hidrogénio – integrada ao largo e as interligações correspondentes no mar Mediterrâneo, no mar Negro e nas águas adjacentes para transportar eletricidade ou, se adequado, hidrogénio produzidos a partir de fontes de energia renováveis ao largo da costa para os centros de consumo e armazenamento ou para aumentar o intercâmbio transfronteiriço de energias renováveis.
+
+8) Redes ao largo atlânticas: desenvolvimento de uma rede de eletricidade ao largo, desenvolvimento de uma rede de eletricidade integrada ao largo e as interligações correspondentes nas águas do oceano Atlântico Norte para transportar eletricidade produzida a partir de fontes de energia renováveis ao largo da costa para os centros de consumo e armazenamento e para aumentar o intercâmbio transfronteiriço de eletricidade.
+
+### 3. CORREDORES PRIORITÁRIOS PARA O HIDROGÉNIO E OS ELETROLISADORES
+
+9) Interligações para o hidrogénio na Europa Ocidental («HI West»): infraestruturas para o hidrogénio e reconversão das infraestruturas de gás que permitam a criação de uma infraestrutura de base integrada para o hidrogénio, direta ou indiretamente (através da interligação com um país terceiro), capaz de ligar os países da região e de responder às suas necessidades específicas de infraestruturas para o hidrogénio e de apoiar a criação de uma rede à escala da União para o transporte de hidrogénio e, além disso – no que diz respeito às ilhas e aos sistemas insulares – reduzir o isolamento energético, apoiar soluções inovadoras e outras que envolvam, pelo menos, dois Estados-Membros com um impacto positivo significativo nas metas da União para 2030 em matéria de energia e de clima e no seu objetivo de neutralidade climática para 2050 e ainda contribuir significativamente para a sustentabilidade do sistema energético insular e do da União.
+
+10) Interligações de hidrogénio na Europa Centro-Oriental e do Sudeste («HI East»): infraestruturas para o hidrogénio e reconversão das infraestruturas de gás que permitam a criação de uma infraestrutura de base integrada para o hidrogénio, direta ou indiretamente (através da interligação com um país terceiro), capaz de ligar os países da região e de responder às suas necessidades específicas de infraestruturas para o hidrogénio e de apoiar a criação de uma rede à escala da União para o transporte de hidrogénio e, além disso – no que diz respeito às ilhas e aos sistemas insulares – reduzir o isolamento energético, apoiar soluções inovadoras e outras que envolvam, pelo menos, dois Estados-Membros com um impacto positivo significativo nas metas da União para 2030 em matéria de energia e de clima e no seu objetivo de neutralidade climática para 2050 e ainda contribuir significativamente para a sustentabilidade do sistema energético insular e do da União.
+
+11) Plano de Interligação do Mercado Báltico da Energia no sector do hidrogénio («BEMIP Hydrogen»): infraestruturas para o hidrogénio e reconversão das infraestruturas de gás que permitam a criação de uma infraestrutura de base integrada para o hidrogénio, direta ou indiretamente (através da interligação com um país terceiro), capaz de ligar os países da região e de responder às suas necessidades específicas em matéria de infraestruturas para o hidrogénio e de apoiar a criação de uma rede à escala da União para o transporte de hidrogénio e, além disso – no que diz respeito às ilhas e aos sistemas insulares – reduzir o isolamento energético, apoiar soluções inovadoras e outras que envolvam, pelo menos, dois Estados-Membros com um impacto positivo significativo nas metas da União para 2030 em matéria de energia e de clima e no seu objetivo de neutralidade climática para 2050 e ainda contribuir significativamente para a sustentabilidade do sistema energético insular e do da União.
+
+### 4. DOMÍNIOS TEMÁTICOS PRIORITÁRIOS
+
+12) Implantação de redes elétricas inteligentes: adotar tecnologias de redes inteligentes em toda a União para integrar eficientemente o comportamento e as ações de todos os utilizadores ligados à rede de eletricidade, em especial a produção de grandes quantidades de eletricidade a partir de fontes de energia renováveis ou descentralizadas e a resposta da procura pelos consumidores, o armazenamento de energia, os veículos elétricos e outras fontes de flexibilidade e, além disso – no que diz respeito às ilhas e aos sistemas insulares – reduzir o isolamento energético, apoiar soluções inovadoras e outras que envolvam, pelo menos, dois Estados-Membros com um impacto positivo significativo nas metas da União para 2030 em matéria de energia e de clima e no seu objetivo de neutralidade climática para 2050 e ainda contribuir significativamente para a sustentabilidade do sistema energético insular e do da União.
+
+13) Rede transfronteiriça de dióxido de carbono: desenvolvimento de infraestruturas de transporte e armazenamento de dióxido de carbono entre os Estados-Membros e com países terceiros vizinhos, da captura e do armazenamento de carbono capturado em instalações industriais para efeitos de armazenamento geológico permanente, bem como a utilização de dióxido de carbono para gases combustíveis sintéticos que resulte na neutralização permanente de dióxido de carbono.
+
+14) Redes de gás inteligentes: adoção de tecnologias de redes de gás inteligentes em toda a União para integrar eficientemente na rede de gás uma pluralidade de fontes de gás hipocarbónicas e especialmente renováveis, apoiar a aceitação de soluções inovadoras e digitais para a gestão da rede e facilitar a integração inteligente do sector energético e a resposta da procura, incluindo as melhorias físicas caso sejam indispensáveis para o funcionamento do equipamento e instalações para integrar os gases hipocarbónicos e especialmente renováveis.
+
+## ANEXO II
+
+### CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+
+As categorias de infraestruturas energéticas a desenvolver para dar cumprimento às prioridades em matéria de infraestruturas energéticas estabelecidas no anexo I são as seguintes:
+
+1) Eletricidade:
+
+a) Linhas aéreas de transporte de alta e muito alta tensões que atravessem uma fronteira ou no território de um Estado-Membro, incluindo a zona económica exclusiva, desde que sejam concebidas para uma tensão igual ou superior a 220 kV, e cabos subterrâneos e submarinos de transporte, desde que sejam concebidos para uma tensão igual ou superior a 150 kV; para os Estados-Membros e as pequenas redes isoladas com uma rede de transporte de tensão inferior, esses limiares de tensão são iguais ao nível de tensão mais elevado nas respetivas redes de eletricidade;
+
+b) Qualquer equipamento ou instalação pertencente à categoria de infraestruturas energéticas mencionada na alínea a) que permita o transporte de eletricidade produzida a partir de fontes renováveis ao largo a partir dos locais de produção ao largo (infraestruturas energéticas para eletricidade produzida a partir de fontes renováveis ao largo);
+
+c) Instalações de armazenamento de eletricidade, de forma individual ou agregada, utilizadas para armazenar eletricidade a título permanente ou temporário em infraestruturas à superfície ou subterrâneas ou em depósitos geológicos, desde que estejam diretamente ligadas a linhas de transporte e linhas de distribuição de alta tensão concebidas para uma tensão igual ou superior a 110 kV; para os Estados-Membros e as pequenas redes isoladas com uma rede de transporte de tensão inferior, esses limiares de tensão são iguais ao nível de tensão mais elevado nas respetivas redes de eletricidade;
+
+d) Qualquer equipamento ou instalação essencial para os sistemas mencionados nas alíneas a), b) e c) funcionarem de modo seguro e eficiente, incluindo os sistemas de proteção, monitorização e controlo a todos os níveis de tensão e subestações;
+
+e) Redes elétricas inteligentes: qualquer equipamento ou instalação, sistemas e componentes digitais que integrem tecnologias da informação e comunicação (TIC), através de plataformas digitais operacionais, sistemas de controlo e tecnologias de sensores utilizados tanto a nível do transporte como da distribuição de média e alta tensão, tendo em vista assegurar uma rede de transporte e distribuição de eletricidade mais eficaz e mais inteligente, bem como uma maior capacidade de integração de novas formas de produção, armazenamento e consumo e fomentando novos modelos económicos e novas estruturas de mercado, incluindo investimentos em ilhas e sistemas insulares, a fim de reduzir o isolamento energético, apoiar soluções inovadoras e outras que envolvam, pelo menos, dois Estados-Membros com um impacto positivo significativo nas metas da União para 2030 em matéria de energia e de clima e no seu objetivo de neutralidade climática para 2050 e ainda contribuir significativamente para a sustentabilidade do sistema energético insular e do da União;
+
+f) Qualquer equipamento ou instalação pertencente à categoria de infraestruturas energéticas mencionada na alínea a) que tenha uma dupla funcionalidade: sistema de interligação e ligação às redes ao largo a partir dos locais de produção a partir de fontes renováveis ao largo para dois ou mais Estados-Membros e países terceiros que participem em projetos constantes da lista da União, incluindo o prolongamento em terra desse equipamento até à primeira subestação da rede de transporte em terra, bem como qualquer equipamento ou instalação adjacente ao largo indispensável para assegurar a segurança e a eficácia do funcionamento, nomeadamente os sistemas de proteção, monitorização e controlo e as subestações necessárias, se também garantirem a interoperabilidade tecnológica, nomeadamente compatibilidade das interfaces entre as diversas tecnologias (redes ao largo para a energia de fontes renováveis).
+
+2) Redes de gás inteligentes: qualquer um dos seguintes equipamentos ou instalações que visam favorecer e facilitar a integração de uma pluralidade de gases hipocarbónicos e especialmente renováveis, incluindo o biometano e o hidrogénio, na rede de gás: sistemas e componentes digitais que integrem TIC, sistemas de controlo e tecnologias de sensores para permitir a monitorização interativa e inteligente, a utilização de contadores, o controlo de qualidade e a gestão da produção, do transporte, da distribuição, do armazenamento e do consumo de gás numa rede de gás. Além disso, estes projetos também podem incluir equipamentos que permitam a inversão dos fluxos da distribuição para o transporte, incluindo as melhorias físicas caso sejam indispensáveis para o funcionamento do equipamento e instalações para integrar os gases hipocarbónicos e especialmente renováveis.
+
+3) Hidrogénio:
+
+a) Gasodutos para o transporte de hidrogénio, sobretudo de alta pressão, incluindo infraestruturas de gás natural reconvertidas, dando acesso a múltiplos utilizadores da rede de uma forma transparente e não discriminatória;
+
+b) Instalações de armazenamento ligadas aos gasodutos de hidrogénio de alta pressão referidos na alínea a);
+
+c) Instalações de receção, armazenamento e regaseificação ou descompressão para hidrogénio liquefeito ou hidrogénio incorporado noutras substâncias químicas, com o objetivo de injetar o hidrogénio na rede, se for caso disso;
+
+d) Qualquer equipamento ou instalação essencial para o sistema de hidrogénio funcionar de modo seguro e eficiente ou para possibilitar uma capacidade bidirecional, incluindo as estações de compressão;
+
+e) Qualquer equipamento ou instalação que permita a utilização de hidrogénio ou de combustíveis derivados do hidrogénio no sector dos transportes na rede principal RTE-T, identificado em conformidade com o capítulo III do Regulamento (UE) n.º 1315/2013 do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0011)).
+
+4) Instalações de eletrolisadores:
+
+a) Eletrolisadores:
+
+i) que possuam uma capacidade mínima de 50 MW, fornecida por um único eletrolisador ou por um conjunto de eletrolisadores que formem um único projeto coordenado,
+
+ii) em que a produção cumpre o requisito de redução de 70% das emissões de gases com efeito de estufa durante o ciclo de vida em relação a um combustível fóssil de referência de 94g CO2eq/MJ, conforme previsto no artigo 25.º, n.º 2, e no anexo V da Diretiva (UE) 2018/2001. A redução das emissões de gases com efeito de estufa ao longo do ciclo de vida é calculada utilizando a metodologia referida no artigo 28.º, n.º 5, da Diretiva (UE) 2018/2001 ou, em alternativa, utilizando as normas ISO 14067 ou ISO 14064-1. As emissões de gases com efeito de estufa ao longo do ciclo de vida devem incluir as emissões indiretas. A redução das emissões de gases com efeito de estufa quantificadas ao longo do ciclo de vida é controlada nos termos do artigo 30.º da Diretiva (UE) 2018/2001, se aplicável, ou por uma entidade terceira independente, e
+
+iii) que tenham uma função relacionada com a rede, em especial tendo em vista a flexibilidade global do sistema e a eficiência global das redes de eletricidade e hidrogénio;
+
+b) Equipamentos conexos, incluindo ligações por gasoduto à rede;
+
+5) Dióxido de carbono:
+
+a) Condutas específicas, distintas da rede de condutas a montante, utilizadas para transportar dióxido de carbono proveniente de mais de uma fonte, para fins de armazenamento geológico permanente nos termos da Diretiva 2009/31/CE;
+
+b) Instalações fixas para liquefação, armazenamento tampão e conversores de dióxido de carbono, tendo em vista o seu posterior transporte por condutas e em modos de transporte específicos, como navios, batelões, camiões e comboios;
+
+c) Sem prejuízo de qualquer proibição de armazenamento geológico de dióxido de carbono num Estado-Membro, instalações de superfície e de injeção associadas a infraestruturas no âmbito de uma formação geológica utilizada, nos termos da Diretiva 2009/31/CE, para o armazenamento geológico permanente de dióxido de carbono, desde que não impliquem a utilização de dióxido de carbono para aumentar a recuperação de hidrocarbonetos e sejam necessárias para permitir o transporte e o armazenamento transfronteiriços de dióxido de carbono;
+
+d) Qualquer equipamento ou instalação essencial para o sistema em questão funcionar de modo adequado, seguro e eficiente, incluindo sistemas de proteção, monitorização e controlo.
+
+## ANEXO III
+
+### LISTAS REGIONAIS DOS PROJETOS
+
+### 1. REGRAS APLICÁVEIS AOS GRUPOS
+
+1) No que diz respeito às infraestruturas energéticas da competência das entidades reguladoras nacionais, cada Grupo deve ser composto por representantes dos Estados-Membros, das entidades reguladoras nacionais, dos ORT, bem como da Comissão, da Agência, da entidade ORDUE e da REORT para a Eletricidade ou da REORT para o Gás.
+
+2) Dependendo do número de projetos candidatos à lista da União, das lacunas regionais em matéria de infraestruturas e da evolução do mercado, os Grupos e os órgãos de decisão dos Grupos podem dividir-se, fundir-se ou reunir-se em diferentes configurações, consoante as necessidades, para examinar questões comuns a todos os Grupos ou relativas apenas a regiões específicas. Essas questões podem incluir questões relativas à coerência regional ou ao número de projetos propostos incluídos nos projetos de listas regionais que corram o risco de tornar-se impossíveis de gerir.
+
+3) Cada Grupo deve organizar o seu trabalho em função dos esforços de cooperação regional previstos no artigo 12.º do Regulamento (CE) n.º 715/2009, no artigo 34.º do Regulamento (UE) 2019/943, no artigo 7.º da Diretiva 2009/73/CE e no artigo 61.º da Diretiva (UE) 2019/944 e noutras estruturas de cooperação regional existentes.
+
+4) Cada Grupo deve convidar, consoante o necessário tendo em vista a realização dos corredores e domínios prioritários das infraestruturas energéticas pertinentes designados no anexo I, promotores de projetos eventualmente suscetíveis de ser selecionados como projetos de interesse comum, bem como representantes das administrações públicas nacionais, das entidades reguladoras, da sociedade civil e dos ORT de países terceiros. A decisão de convidar representantes de países terceiros será baseada num consenso.
+
+5) Para os corredores prioritários das infraestruturas energéticas definidos na secção 2 do anexo I, cada Grupo deve convidar, se for caso disso, representantes dos Estados-Membros sem litoral, das autoridades competentes, das entidades reguladoras nacionais e dos ORT.
+
+6) Cada Grupo deve convidar, consoante o necessário, as organizações representativas das partes interessadas, incluindo representantes de países terceiros e, se for o caso, diretamente as partes interessadas, incluindo produtores, ORD, fornecedores, consumidores, populações locais**,** organizações de proteção do ambiente sediadas na União, a fim de expressarem os seus conhecimentos específicos. Cada Grupo deve organizar audições ou consultas sempre que necessário para o desempenho das suas funções.
+
+7) Relativamente às reuniões dos Grupos, a Comissão deve publicar, numa plataforma acessível às partes interessadas, o regulamento interno, uma lista atualizada das organizações, informações periodicamente atualizadas sobre o progresso dos trabalhos, as ordens do dia das reuniões, bem como, se estiverem disponíveis, as atas das reuniões. As deliberações dos órgãos de decisão dos Grupos e a classificação dos projetos em conformidade com o artigo 4.º, n.º 5, são confidenciais. Todas as decisões relativas ao funcionamento e aos trabalhos dos Grupos regionais são tomadas por consenso entre os Estados-Membros e a Comissão.
+
+8) A Comissão, a Agência e os Grupos esforçam-se por garantir a coerência entre os Grupos. Nesse sentido, a Comissão e a Agência asseguram, caso necessário, o intercâmbio de informações entre os Grupos interessados sobre todo o trabalho de interesse inter-regional.
+
+9) A participação das entidades reguladoras nacionais e da Agência nos Grupos não deve pôr em risco o cumprimento dos objetivos e dos deveres ao abrigo do presente regulamento ou do Regulamento (UE) 2019/942, dos artigos 40.º e 41.° da Diretiva 2009/73/CE e dos artigos 58.º, 59.° e 60.° da Diretiva (UE) 2019/944.
+
+### 2. PROCESSO DE ESTABELECIMENTO DE LISTAS REGIONAIS
+
+1) Os promotores de projetos eventualmente suscetíveis de serem selecionados como projetos constantes da lista da União que desejem obter esse estatuto devem apresentar um pedido de seleção como projeto a constar da lista da União ao Grupo, que inclua:
+
+a) Uma avaliação dos seus projetos no que respeita ao contributo dado para a realização das prioridades definidas no anexo I;
+
+b) Uma indicação da categoria do projeto relevante, tal como estabelecido no anexo II;
+
+c) Uma análise do cumprimento dos critérios relevantes definidos no artigo 4.º;
+
+d) Para os projetos que tenham atingido um grau de maturidade suficiente, uma análise dos custos e benefícios específicos, conforme com as metodologias elaboradas nos termos do artigo 11.º;
+
+e) Para os projetos de interesse mútuo, as cartas de apoio dos governos dos países diretamente afetados, em que expressem o seu apoio ao projeto, ou outros acordos não vinculativos;
+
+f) Quaisquer outras informações pertinentes para a avaliação do projeto.
+
+2) Todos os destinatários devem assegurar a confidencialidade das informações comercialmente sensíveis.
+
+3) Os projetos de interesse comum de transporte e armazenamento de eletricidade propostos pertencentes às categorias de infraestruturas energéticas definidas no ponto 1, alíneas a), b), c), d) e f), do anexo II do presente regulamento são projetos que fazem parte do último plano decenal de desenvolvimento da rede de eletricidade disponível à escala da União, elaborado pela REORT para a Eletricidade nos termos do artigo 30.º do Regulamento (UE) 2019/943. Os projetos de interesse comum de transporte de eletricidade propostos que pertencem às categorias definidas no ponto 1, alíneas b) e f), do anexo II do presente regulamento são projetos que derivam do desenvolvimento da rede integrada ao largo e dos reforços da rede mencionados no artigo 14.º, n.º 2, do presente regulamento e são coerentes com os mesmos.
+
+4) A partir de 1 de janeiro de 2024, os projetos de interesse comum propostos no domínio do hidrogénio pertencentes às categorias de infraestruturas energéticas definidas no ponto 3 do anexo II do presente regulamento são projetos que fazem parte do mais recente plano decenal de desenvolvimento da rede de gás disponível à escala comunitária, elaborado pela REORT para o Gás nos termos do artigo 8.º do Regulamento (CE) n.º 715/2009.
+
+5) Até 30 de junho de 2022 e, posteriormente, para cada plano decenal de desenvolvimento da rede à escala da União, a REORT para a Eletricidade e a REORT para o Gás devem publicar orientações atualizadas para a inclusão dos projetos nos respetivos planos decenais de desenvolvimento da rede à escala da União referidos nos pontos 3 e 4, a fim de garantir a igualdade de tratamento e a transparência do processo. Para todos os projetos constantes da lista da União em vigor no momento, as orientações devem estabelecer um processo simplificado de inclusão nos planos decenais de desenvolvimento da rede à escala da União, tendo em conta a documentação e os dados já apresentados durante os anteriores processos de elaboração dos planos decenais de desenvolvimento da rede à escala da União, desde que a documentação e os dados já apresentados permaneçam válidos.
+
+6) Os projetos de transporte e armazenamento de dióxido de carbono propostos pertencentes à categoria definida no ponto 5 do anexo II devem ser apresentados como parte de um plano, elaborado por pelo menos dois Estados-Membros, de desenvolvimento de uma infraestrutura transfronteiriça de transporte e armazenamento de dióxido de carbono, a apresentar à Comissão pelos Estados-Membros envolvidos ou pelas entidades por estes designadas.
+
+7) A REORT para a Eletricidade e a REORT para o Gás devem informar os Grupos sobre a forma como seguiram as orientações para avaliar a inclusão nos planos decenais de desenvolvimento da rede à escala da União.
+
+8) Para projetos da sua competência, as entidades reguladoras nacionais e, caso necessário, a Agência devem, na medida do possível no contexto da cooperação regional nos termos do artigo 7.º da Diretiva 2009/73/CE e do artigo 61.º da Diretiva (UE) 2019/944, verificar a coerência da aplicação dos critérios e da metodologia de análise custo-benefício e avaliar a sua importância transfronteiriça. Devem apresentar o resultado da sua avaliação ao Grupo. A Comissão deve assegurar que os critérios e as metodologias referidos no artigo 4.º do presente regulamento e no anexo IV sejam aplicados de forma harmonizada, a fim de garantir a coerência entre os Grupos regionais.
+
+9) Para todos os projetos não abrangidos pelo ponto 8 do presente anexo, a Comissão avaliará a aplicação dos critérios estabelecidos no artigo 4.º do presente regulamento. A Comissão deve ter igualmente em conta o potencial de expansão futura, de modo a incluir outros Estados-Membros. A Comissão deve apresentar o resultado da sua avaliação ao Grupo. Para projetos que requeiram o estatuto de projeto de interesse mútuo, os representantes de países terceiros e as entidades reguladoras devem ser convidados para a apresentação da avaliação.
+
+10) Cada Estado-Membro a cujo território uma proposta de projeto não diga respeito, mas em que a proposta de projeto possa ter um eventual impacto positivo ou um eventual impacto significativo, por exemplo, no meio ambiente ou no funcionamento das infraestruturas energéticas, pode apresentar um parecer ao Grupo especificando as suas preocupações.
+
+11) O Grupo examina, a pedido de um Estado-Membro do Grupo, os motivos fundamentados apresentados por um Estado-Membro em conformidade com o artigo 3.º, n.º 3, para não aprovar um projeto que afete o seu território.
+
+12) O Grupo deve ponderar a aplicação do princípio da «prioridade da eficiência energética» no que diz respeito ao estabelecimento de infraestruturas orientado para as necessidades regionais e no que diz respeito a cada um dos projetos candidatos. O Grupo deve, em especial, ponderar soluções como a gestão da procura, soluções de acordos de mercado, a aplicação de soluções digitais e a renovação de edifícios como soluções prioritárias, sempre que sejam consideradas mais eficientes em termos de custos do que a construção de novas infraestruturas do lado da oferta numa perspetiva de todo o sistema.
+
+13) O Grupo deve reunir-se para examinar e classificar as propostas de projetos com base numa avaliação transparente dos projetos e utilizando os critérios estabelecidos no artigo 4.º, tendo em conta a avaliação dos reguladores ou a avaliação da Comissão relativa a projetos que não sejam da competência das entidades reguladoras nacionais.
+
+14) Os projetos de listas regionais de propostas de projetos da competência das entidades reguladoras nacionais elaborados pelos Grupos, acompanhados dos pareceres eventualmente emitidos de acordo com o ponto 10 da presente secção, devem ser apresentados à Agência seis meses antes da data de adoção da lista da União. A Agência deve avaliar os projetos de listas regionais e os pareceres que os acompanhem no prazo de três meses a contar da data da sua receção. A Agência deve apresentar um parecer sobre os projetos de listas regionais, em particular sobre a coerência da aplicação dos critérios e a análise custo-benefício nas regiões. O parecer da Agência deve ser adotado em conformidade com o processo previsto no artigo 22.º, n.º 5, do Regulamento (UE) 2019/942.
+
+15) No prazo de um mês a contar da data de receção do parecer da Agência, o órgão de decisão de cada Grupo deve adotar a sua lista regional definitiva de propostas de projetos, cumprindo as disposições estabelecidas no artigo 3.º, n.º 3, com base na proposta do Grupo e tendo em conta o parecer da Agência e a avaliação das entidades reguladoras nacionais apresentada em conformidade com o ponto 8, ou a avaliação da Comissão relativa a projetos que não sejam da competência das entidades reguladoras nacionais propostos em conformidade com o ponto 9, e os conselhos prestados pela Comissão destinados a assegurar um número total gerível de projetos constantes da lista da União, em especial nas fronteiras, relacionados com projetos concorrentes ou potencialmente concorrentes. Os órgãos de decisão dos Grupos devem apresentar à Comissão as listas regionais definitivas, acompanhadas dos pareceres eventualmente emitidos de acordo com o ponto 10.
+
+16) Se, com base nos projetos de listas regionais e depois de tomado em consideração o parecer da Agência, o número total de propostas de projetos a constar da lista da União exceder um número gerível, a Comissão deve aconselhar todos os Grupos em causa a não incluir na lista regional os projetos a que o Grupo em causa tenha atribuído a classificação mais baixa em conformidade com a classificação estabelecida nos termos do artigo 4.º, n.º 5.
+
+## ANEXO IV
+
+### REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS
+
+1) Entende-se por projeto de interesse mútuo com impacto transfronteiriço significativo um projeto no território de um Estado-Membro e que preencha as seguintes condições:
+
+a) No tocante ao transporte de eletricidade, o projeto aumenta a capacidade de transporte da rede, ou a capacidade disponível para fluxos comerciais, na fronteira desse Estado-Membro com um ou mais Estados-Membros, que tenha o efeito de aumentar a capacidade de transporte transfronteiriça da rede na fronteira desse Estado-Membro com um ou mais Estados-Membros em pelo menos 500 megawatts (MW) comparativamente à situação existente sem a colocação em funcionamento do projeto, ou o projeto diminui o isolamento energético de sistemas não interligados num ou mais Estados-Membros e aumenta a capacidade de transporte transfronteiriça da rede na fronteira entre dois Estados-Membros em pelo menos 200 MW;
+
+b) Quanto ao armazenamento de eletricidade, o projeto proporciona uma potência instalada de pelo menos 225 MW e tem uma capacidade de armazenamento que permite uma produção anual líquida de eletricidade de 250 GW-horas/ano;
+
+c) No que se refere às redes inteligentes, o projeto destina-se a equipamentos e instalações de alta ou média tensão e envolve ORT, ORT e ORD, ou ORD de, pelo menos, dois Estados-Membros. O projeto pode envolver apenas ORD, desde que sejam provenientes de, pelo menos, dois Estados-Membros e desde que a interoperabilidade seja assegurada. O projeto deve satisfazer, no mínimo, dois dos seguintes critérios: envolve 50 000 utilizadores, produtores, consumidores ou prossumidores de eletricidade, capta uma zona de consumo de, pelo menos, 300 GW horas/ano, pelo menos 20% do consumo de eletricidade ligado ao projeto provém de recursos renováveis variáveis ou diminui o isolamento energético de redes não interligadas num ou mais Estados-Membros. O projeto não tem de envolver uma fronteira física comum. Para projetos relacionados com pequenas redes isoladas, na aceção do artigo 2.º, ponto 42, da Diretiva (UE) 2019/944, incluindo ilhas, esses níveis de tensão devem ser iguais ao nível de tensão mais elevado da rede de eletricidade relevante;
+
+d) No que se refere ao transporte de hidrogénio, o projeto permite-o além das fronteiras dos Estados-Membros em causa, ou aumenta a capacidade existente de transporte transfronteiriço de hidrogénio na fronteira entre dois Estados-Membros em, pelo menos, 10% em relação à situação anterior à colocação em funcionamento do projeto, e o projeto demonstra de forma suficiente que constitui uma parte essencial de uma rede transfronteiriça de hidrogénio planeada e apresenta prova suficiente da existência de planos e de uma cooperação com países vizinhos e operadores de rede ou, para projetos que diminuem o isolamento energético de redes não interligadas num ou mais Estados-Membros, o projeto visa abastecer, direta ou indiretamente, pelo menos, dois Estados-Membros;
+
+e) No que diz respeito às instalações de armazenamento ou de receção de hidrogénio a que se refere o n.º 3 do anexo II, o projeto visa o abastecimento direto ou indireto de pelo menos dois Estados-Membros;
+
+f) No que se refere aos eletrolisadores, o projeto oferece uma potência instalada de, pelo menos, 50 MW, assegurada por um único eletrolisador ou por um conjunto de eletrolisadores, que formam um projeto único e coordenado e que traz benefícios diretos ou indiretos, pelo menos, a dois Estados-Membros e, especificamente, no que diz respeito às ilhas e aos sistemas insulares, apoia soluções inovadoras e outras que envolvam, pelo menos, dois Estados-Membros com um impacto positivo significativo nas metas da União para 2030 em matéria de energia e de clima e no seu objetivo de neutralidade climática para 2050, e contribui, significativamente, para a sustentabilidade do sistema energético insular e do da União;
+
+g) Em relação às redes de gás inteligentes, o projeto envolve ORT, ORT e ORD, ou ORD de, pelo menos, dois Estados-Membros. Os ORD só podem participar com o apoio de ORT de pelo menos dois Estados-Membros que estejam estreitamente associados ao projeto e garantam a sua interoperabilidade;
+
+h) No que se refere ao transporte de eletricidade produzida a partir de fontes de energia renováveis ao largo, o projeto é concebido para transportar eletricidade de locais de produção ao largo com capacidade de, pelo menos, 500 MW e permite o transporte de eletricidade para a rede em terra de um determinado Estado-Membro, aumentando o volume de eletricidade produzida a partir de fontes de energia renováveis disponíveis no mercado interno. O projeto deve ser desenvolvido nas zonas com baixa penetração da eletricidade produzida a partir de fontes renováveis ao largo e deve demonstrar um impacto positivo significativo nas metas da União para 2030 em matéria de energia e de clima e no seu objetivo de neutralidade climática para 2050, bem como contribuir, significativamente, para a sustentabilidade do sistema energético e a integração do mercado, sem prejudicar as capacidades e os fluxos transfronteiriços;
+
+i) No que se refere aos projetos relativos ao dióxido de carbono, o projeto é utilizado para transportar e, se for caso disso, armazenar dióxido de carbono antropogénico proveniente de, pelo menos, dois Estados-Membros.
+
+2) Entende-se por projeto de interesse mútuo com impacto transfronteiriço significativo um projeto que preencha as seguintes condições:
+
+a) Em relação a projetos de interesse mútuo pertencentes à categoria prevista no ponto 1, alíneas a) e f), do anexo II, um projeto que aumenta a capacidade de transporte da rede, ou a capacidade disponível para fluxos comerciais, na fronteira desse Estado-Membro com um ou mais países terceiros e que traz benefícios significativos, quer direta quer indiretamente (por meio da interligação a um país terceiro), ao abrigo dos critérios específicos enumerados no artigo 4.º, n.º 3, a nível da União. O cálculo dos benefícios para os Estados-Membros deve ser efetuado e publicado pela REORT para a Eletricidade no âmbito do plano decenal de desenvolvimento da rede à escala da União;
+
+b) Em relação a projetos de interesse mútuo pertencentes à categoria prevista no ponto 3 do anexo II, um projeto no sector do hidrogénio que possibilita o transporte de hidrogénio na fronteira de um Estado-Membro com um ou mais países terceiros e que comprova trazer benefícios significativos, quer direta quer indiretamente (por meio da interligação a um país terceiro), ao abrigo dos critérios específicos enumerados no artigo 4.º, n.º 3, a nível da União. O cálculo dos benefícios para os Estados-Membros deve ser efetuado e publicado pela REORT para o Gás no âmbito do plano decenal de desenvolvimento da rede à escala da União;
+
+c) Em relação a projetos de interesse mútuo na categoria prevista no ponto 5 do anexo II, o projeto pode ser utilizado para transportar e armazenar dióxido de carbono antropogénico por, pelo menos, dois Estados-Membros e um país terceiro.
+
+3) Em relação aos projetos pertencentes às categorias de infraestruturas energéticas definidas no ponto 1, alíneas a), b), c), d) e f), do anexo II, os critérios enunciados no artigo 4.º devem ser avaliados do seguinte modo:
+
+a) O transporte de eletricidade produzida a partir de fontes de energia renováveis para os grandes centros de consumo e locais de armazenamento deve ser medido de acordo com a análise efetuada no último plano decenal de desenvolvimento da rede de eletricidade à escala da União disponível, nomeadamente:
+
+i) em relação ao transporte de eletricidade, estimando a capacidade de produção de eletricidade a partir de fontes de energia renováveis (por tecnologia, em MW) que o projeto permite ligar e transportar, em comparação com a capacidade de produção total prevista a partir desses tipos de fontes de energia renováveis no Estado-Membro em causa em 2030, em consonância com os planos nacionais em matéria de energia e clima apresentados pelos Estados-Membros em conformidade com o Regulamento (UE) 2018/1999,
+
+ii) relativamente ao armazenamento de energia, comparando a nova potência permitida pelo projeto com a potência total existente para a mesma tecnologia de armazenamento na área de análise definida no anexo V;
+
+b) A integração do mercado, a concorrência e a flexibilidade do sistema devem ser medidas em conformidade com a análise efetuada no último plano decenal de desenvolvimento da rede de eletricidade à escala da União disponível, nomeadamente:
+
+i) calculando, para os projetos transfronteiriços, incluindo os projetos de reinvestimento, o impacto na capacidade de transporte da rede em ambos os sentidos do fluxo de energia, medido em termos da quantidade de energia (em MW) e a sua contribuição para atingir a meta mínima de interligação de 15% e, no caso dos projetos com impacto transfronteiriço significativo, o impacto na capacidade de transporte da rede nas fronteiras entre os Estados-Membros em causa, entre estes Estados-Membros e países terceiros ou no interior dos Estados-Membros em causa, bem como no equilíbrio entre a oferta e a procura e nas operações de rede desses Estados-Membros,
+
+ii) avaliando o impacto na área de análise definida no anexo V em termos dos custos de produção e de transporte à escala do sistema de energia e da evolução e convergência dos preços de mercado, produzido por um projeto em diversos cenários de planeamento, nomeadamente tendo em conta as variações induzidas na ordem de mérito;
+
+c) A segurança do abastecimento, a interoperabilidade e o funcionamento seguro do sistema devem ser medidos de acordo com a análise efetuada no último plano decenal de desenvolvimento da rede de eletricidade à escala da União disponível, nomeadamente através da avaliação do impacto do projeto na perda de carga prevista para a área de análise definida no anexo V, em termos da adequação da produção e do transporte a um conjunto de períodos de carga característicos, tendo em conta as alterações previstas em caso de fenómenos meteorológicos extremos relacionados com o clima e o seu impacto na resiliência das infraestruturas. Se for o caso, deve ser medida a incidência do projeto no controlo independente e fiável do funcionamento do sistema e dos serviços.
+
+4) Relativamente aos projetos de infraestruturas energéticas pertencentes à categoria definida no ponto 1, alínea e), do anexo II, os critérios enumerados no artigo 4.º devem ser avaliados da seguinte forma:
+
+a) O nível de sustentabilidade, medido avaliando a capacidade das redes para serem ligadas e transportarem energia de fontes renováveis intermitentes;
+
+b) A segurança do abastecimento, medida pelo nível de perdas nas redes de distribuição, nas redes de transporte ou em ambas, pela percentagem de utilização (ou seja, carga média) dos componentes da rede de eletricidade, pela disponibilidade dos componentes da rede (relacionados com a manutenção programada e não programada) e pelo seu impacto nos desempenhos da rede e na duração e frequência das interrupções, incluindo perturbações relacionadas com o clima;
+
+c) A integração do mercado, medida avaliando a adoção de soluções inovadoras na exploração do sistema, a diminuição do isolamento energético e a interligação, bem como o nível de integração de outros sectores e a facilitação de novos modelos de negócio e estruturas de mercado;
+
+d) A segurança, a flexibilidade e a qualidade do abastecimento da rede, medidas avaliando a abordagem inovadora da flexibilidade do sistema, a cibersegurança, a operabilidade eficiente entre os ORT e os ORD, a capacidade para incluir a resposta da procura, o armazenamento, as medidas de eficiência energética, a utilização rentável das ferramentas digitais e das TIC para efeitos de monitorização e de controlo, a estabilidade do sistema de eletricidade e o desempenho da qualidade da tensão.
+
+5) Relativamente aos projetos de hidrogénio pertencentes à categoria de infraestruturas energéticas definida no ponto 3 do anexo II, os critérios enumerados no artigo 4.º devem ser avaliados da seguinte forma:
+
+a) A sustentabilidade, medida como o contributo de um projeto para as reduções das emissões de gases com efeito de estufa em diversas aplicações finais em sectores em que é difícil reduzir as emissões, como a indústria ou os transportes; a flexibilidade e as opções de armazenamento sazonal para a produção de eletricidade a partir de fontes de energia renováveis; ou a integração do hidrogénio renovável e hipocarbónico, a fim de ter em conta as necessidades do mercado e promover o hidrogénio renovável;
+
+b) A integração do mercado e a interoperabilidade, medidas calculando o valor acrescentado do projeto para a integração das zonas de mercado e a convergência dos preços e para a flexibilidade global do sistema;
+
+c) A segurança do abastecimento e a flexibilidade, medidas calculando o valor acrescentado do projeto para a resiliência, a diversidade e a flexibilidade do abastecimento de hidrogénio;
+
+d) A concorrência, medida avaliando o contributo do projeto para a diversificação da oferta, incluindo a facilitação do acesso a fontes indígenas de abastecimento de hidrogénio.
+
+6) Relativamente aos projetos de redes de gás inteligentes pertencentes à categoria de infraestruturas energéticas definida no ponto 2 do anexo II, os critérios enumerados no artigo 4.º devem ser avaliados da seguinte forma:
+
+a) O nível de sustentabilidade, medido avaliando a percentagem de gases renováveis e hipocarbónicos integrados na rede de gás, as correspondentes reduções das emissões de gases com efeito de estufa com vista à descarbonização total do sistema e a deteção adequada de fugas;
+
+b) A qualidade e segurança do abastecimento, medidas avaliando o rácio entre a oferta de gás disponível de forma fiável e os picos na procura, a quota das importações substituída por gases locais renováveis e hipocarbónicos, a estabilidade do funcionamento da rede e a duração e a frequência das interrupções por cliente;
+
+c) A viabilização de serviços de flexibilidade, como a resposta da procura e o armazenamento, facilitando a integração inteligente do sector da energia através da criação de ligações a outros vetores e sectores energéticos, medida avaliando as economias de custos geradas nos sectores e sistemas energéticos ligados, como as redes de calor e de energia, os transportes e a indústria.
+
+7) Relativamente aos projetos de eletrolisadores pertencentes à categoria de infraestruturas energéticas definida no ponto 4 do anexo II, os critérios enumerados no artigo 4.º devem ser avaliados da seguinte forma:
+
+a) A sustentabilidade, medida avaliando a percentagem de hidrogénio renovável ou de hidrogénio hipocarbónico, em especial proveniente de fontes renováveis, que cumpra os critérios definidos no ponto 4, alínea a), subalínea ii), do anexo II integrado na rede ou estimando o volume de utilização de hidrogénio renovável ou de combustíveis sintéticos provenientes dessas fontes, bem como as correspondentes reduções das emissões de gases com efeito de estufa;
+
+b) A segurança do abastecimento, medida avaliando o seu contributo para a segurança, a estabilidade e a eficiência do funcionamento da rede, nomeadamente através da avaliação das restrições de produção de eletricidade a partir de fontes de energia renováveis assim evitadas;
+
+c) A viabilização de serviços de flexibilidade, como a resposta da procura e o armazenamento, facilitando a integração inteligente do sector da energia através da criação de ligações a outros vetores e sectores energéticos, medida avaliando as economias de custos geradas nos sectores e sistemas energéticos ligados, como as redes de gás, de hidrogénio, de energia e de calor e os sectores do transporte e da indústria.
+
+8) Relativamente às infraestruturas de dióxido de carbono pertencentes às categorias de infraestruturas energéticas definidas no ponto 5 do anexo II, os critérios enumerados no artigo 4.º devem ser avaliados da seguinte forma:
+
+a) O nível de sustentabilidade, medido avaliando as reduções esperadas de emissões de gases com efeito de estufa ao longo de todo o ciclo de vida e a ausência de soluções tecnológicas alternativas tais como, entre outros, a eficiência energética ou a eletrificação que integra fontes renováveis, para alcançar o mesmo nível de redução de gases com efeito de estufa que a quantidade de dióxido de carbono a capturar em instalações industriais interligadas a um custo comparável, num prazo comparável, tendo em conta as emissões de gases com efeito de estufa provenientes da energia necessária para capturar, transportar ou armazenar o dióxido de carbono, conforme o caso, e tendo em conta a infraestrutura, incluindo, se for caso disso, outros possíveis usos futuros;
+
+b) A resiliência e a segurança, medidas através da avaliação da segurança da infraestrutura;
+
+c) A atenuação da sobrecarga e dos riscos ambientais através da neutralização permanente do dióxido de carbono.
+
+## ANEXO V
+
+### ANÁLISE DE CUSTO-BENEFÍCIO A NÍVEL DO SISTEMA ENERGÉTICO
+
+As metodologias de análise custo-benefício desenvolvidas pela REORT para a Eletricidade e pela REORT para o Gás devem ser coerentes entre si, tendo simultaneamente em conta as especificidades sectoriais. As metodologias utilizadas para realizar uma análise custo-benefício harmonizada e transparente a nível de todo o sistema energético dos projetos constantes da lista da União devem ser uniformes para todas as categorias de infraestruturas, a menos que divergências específicas sejam justificadas. Devem abordar os custos em sentido lato, incluindo os efeitos externos, tendo em vista as metas da União para 2030 em matéria de energia e de clima e o seu objetivo da neutralidade climática para 2050 e devem respeitar os princípios a seguir estabelecidos:
+
+1) A área de análise de um projeto individual deve abranger todos os Estados-Membros e países terceiros em cujo território o projeto esteja situado, todos os Estados-Membros na sua vizinhança direta e todos os outros Estados-Membros nos quais o projeto tenha um impacto significativo. Para tal, a REORT para a Eletricidade e a REORT para o Gás devem cooperar com todos os operadores da rede competentes nos países terceiros relevantes. No caso dos projetos pertencentes à categoria de infraestruturas energéticas definida no anexo II, ponto 3, a REORT para a Eletricidade e a REORT para o Gás devem cooperar com o promotor do projeto, inclusive quando este não seja um operador de rede;
+
+2) Cada análise custo-benefício deve incluir análises de sensibilidade relativas ao conjunto de dados, que contemplem a geração de gases com efeito de estufa e os custos a estes associados, bem como a evolução esperada da procura e da oferta, incluindo em relação a fontes de energia renováveis, tendo em conta a flexibilidade da procura e da oferta, e a disponibilidade do armazenamento, a data de colocação em funcionamento dos diversos projetos na mesma área de análise, os impactos no clima e outros parâmetros relevantes;
+
+3) As metodologias devem definir a análise a realizar, com base no conjunto de dados multissectoriais relevante, determinando o impacto com e sem cada um dos projetos, e incluir as interdependências relevantes em relação a outros projetos;
+
+4) As metodologias devem fornecer orientações para o desenvolvimento e a utilização de modelizações da rede e do mercado de energia necessárias para a análise de custo-benefício. A modelização deve permitir uma avaliação completa dos benefícios económicos, incluindo a integração do mercado, a segurança do abastecimento e a concorrência, bem como o termo do isolamento energético, e dos impactos sociais, ambientais e no clima, incluindo os impactos intersectoriais. As metodologias devem ser totalmente transparente e especificar as razões pelas quais cada um dos benefícios e dos custos é calculado, bem como o conteúdo do cálculo e as respetivas modalidades;
+
+5) As metodologias devem mencionar e explicar o modo como o princípio da prioridade à eficiência energética é aplicado em todas as etapas dos planos decenais de desenvolvimento da rede;
+
+6) As metodologias devem explicar que o projeto não prejudicará o desenvolvimento e a implantação de energias renováveis;
+
+7) As metodologias devem assegurar que são identificados os Estados-Membros em que o projeto tem um impacto positivo líquido (os beneficiários), os Estados-Membros em que o projeto produz um impacto negativo líquido e os que suportam os custos, que podem ser outros Estados-Membros que não aqueles em cujo território está construída a infraestrutura;
+
+8) As metodologias devem tomar em consideração, pelo menos, as despesas de capital, os custos de manutenção e de funcionamento, bem como os custos decorrentes do sistema conexo ao longo do ciclo de vida técnico do projeto no seu conjunto, como os custos de desmantelamento e de gestão dos resíduos, incluindo os custos externos. As metodologias devem fornecer orientações sobre as taxas de atualização, a vida útil técnica e o valor residual a utilizar para os cálculos da relação custo-benefício. Devem ainda incluir uma metodologia de cálculo obrigatória da relação custo-benefício e do valor atual líquido, bem como uma diferenciação dos benefícios em função do nível de fiabilidade dos métodos de estimativa. Devem também ser tidos em conta métodos de cálculo dos impactos climático e ambiental dos projetos e o seu contributo para a realização das metas da União no domínio da energia, como as metas em matéria de penetração das energias renováveis, de eficiência energética e de interligação;
+
+9) As metodologias devem assegurar que as medidas de adaptação às alterações climáticas adotadas para cada projeto são avaliadas e refletem os custos das emissões de gases com efeito de estufa e que a avaliação seja sólida e coerente com outras políticas da União, a fim de permitir a comparação com outras soluções que não exijam novas infraestruturas.
+
+## ANEXO VI
+
+### ORIENTAÇÕES EM MATÉRIA DE TRANSPARÊNCIA E DE PARTICIPAÇÃO PÚBLICA
+
+1) O manual de procedimentos referido no artigo 9.º, n.º 1 deve conter, pelo menos:
+
+a) Especificações relativas aos atos legislativos relevantes em que se baseiam as decisões e os pareceres relativos aos diversos tipos de projetos de interesse comum em causa, incluindo a legislação ambiental;
+
+b) A lista das decisões e dos pareceres relevantes que devem ser obtidos;
+
+c) Os nomes e os contactos da autoridade competente, de outras autoridades em causa e das principais partes interessadas;
+
+d) O fluxo de trabalho, descrevendo cada fase do processo, incluindo um calendário indicativo e uma descrição concisa do processo de decisão relativos aos diversos tipos de projetos de interesse comum em causa;
+
+e) Informações sobre o âmbito, a estrutura e o nível de pormenor dos documentos a apresentar juntamente com o pedido de decisão, incluindo uma lista de controlo;
+
+f) As fases e os meios para a população participar no processo;
+
+g) A forma segundo a qual a autoridade competente, as outras autoridades em causa e o promotor do projeto devem demonstrar que os pareceres expressos nas consultas públicas foram tidos em conta, por exemplo indicando quais as alterações efetuadas no local e na conceção do projeto ou apresentado os motivos pelos quais os pareceres em causa não foram tidos em conta;
+
+h) Na medida do possível, traduções dos seus conteúdos em todas as línguas dos Estados-Membros vizinhos, a realizar em coordenação com os Estados-Membros vizinhos em causa.
+
+2) O calendário pormenorizado referido no artigo 10.º, n.º 6, alínea b), deve especificar, no mínimo:
+
+a) As decisões e pareceres a obter;
+
+b) As autoridades, as partes interessadas e o público que possa estar envolvido;
+
+c) As diferentes fases do processo e a sua duração;
+
+d) Os principais objetivos intermédios e os respetivos prazos, tendo em vista a decisão global que deve ser tomada;
+
+e) Os recursos previstos pelas autoridades e os recursos adicionais que possam vir a ser necessários.
+
+3) Sem prejuízo das exigências em termos de consulta pública ao abrigo da legislação ambiental, a fim de aumentar a participação pública no processo de concessão de licenças e assegurar antecipadamente a informação e o diálogo com o público, devem aplicar-se os seguintes princípios:
+
+a) As partes interessadas afetadas por um projeto de interesse comum, incluindo as autoridades competentes a nível nacional, regional e local, os proprietários de terras e os cidadãos que vivem nas proximidades do projeto, a população e as suas associações, organizações ou grupos, devem ser amplamente informados e consultados numa fase inicial, de maneira inclusiva, quando as eventuais preocupações do público puderem ainda ser tidas em consideração, e de forma aberta e transparente. Quando relevante, a autoridade competente deve apoiar ativamente as atividades desenvolvidas pelo promotor do projeto;
+
+b) As autoridades competentes devem assegurar o agrupamento dos procedimentos de consulta pública relativos aos projetos de interesse comum, sempre que possível, incluindo consultas públicas já exigidas ao abrigo do direito nacional. Cada consulta pública deve abranger todas as matérias relevantes para a fase do procedimento em causa, e uma matéria relevante para essa fase não deve ser abordada em mais de uma consulta pública; contudo, uma consulta pública pode ser realizada em mais do que uma localização geográfica. As matérias abordadas por uma consulta pública devem ser claramente indicadas na respetiva notificação;
+
+c) As observações e objeções só são admissíveis entre o início da consulta pública e o termo do seu prazo.
+
+d) Os promotores do projeto devem garantir que as consultas são realizadas durante um período que permita a participação aberta e inclusiva do público.
+
+4) O conceito de participação pública deve incluir, pelo menos, informações sobre:
+
+a) As partes interessadas e abordadas;
+
+b) As medidas previstas, incluindo a localização geral e as datas propostas para as reuniões específicas;
+
+c) O calendário;
+
+d) Os recursos humanos afetados a várias funções.
+
+5) No contexto da consulta pública a realizar antes da apresentação do processo de candidatura, os interessados devem, pelo menos:
+
+a) Publicar, em formato eletrónico e, se for caso disso, impresso, um folheto informativo, com não mais de 15 páginas, que apresente de forma clara e concisa uma síntese da descrição, da finalidade e do calendário preliminar das etapas de desenvolvimento do projeto, o plano de desenvolvimento da rede nacional, as rotas alternativas consideradas, os tipos e características do potencial impacto, nomeadamente de caráter transfronteiriço, e as medidas de atenuação possíveis, tal folheto informativo deve ser publicado antes do início da consulta e deve conter os endereços Web do sítio Web do projeto de interesse comum a que se refere o artigo 9.º, n.º 7, da plataforma de transparência referida no artigo 23.º e do manual de procedimentos mencionado no ponto 1 do presente anexo;
+
+b) Publicar as informações sobre a consulta no sítio Web do projeto de interesse comum a que se refere o artigo 9.º, n.º 7, nos quadros de avisos dos escritórios das administrações locais e em, pelo menos, um ou, se for caso disso, dois meios de comunicação social locais;
+
+c) Convidar, por escrito ou por via eletrónica, as partes interessadas, associações, organizações e grupos afetados para reuniões específicas, durante as quais as suas preocupações serão debatidas.
+
+6) O sítio Web do projeto referido no artigo 9.º, n.º 7, deve publicar, pelo menos, as seguintes informações:
+
+a) A data da última atualização do sítio Web do projeto;
+
+b) Traduções dos seus conteúdos em todas as línguas dos Estados-Membros afetados pelo projeto ou nos quais o projeto possui um impacto transfronteiriço significativo em conformidade com o ponto 1 do anexo IV;
+
+c) O folheto informativo referido no ponto 5, atualizado com os dados mais recentes relativos ao projeto;
+
+d) Um resumo não técnico e periodicamente atualizado que reflita a situação atual do projeto, incluindo informações geográficas, e que indique claramente, caso tenham sido feitas atualizações, as alterações às versões anteriores;
+
+e) O plano de execução previsto no artigo 5.º, n.º 1, atualizado com os dados mais recentes relativos ao projeto;
+
+f) Os fundos afetados e desembolsados pela União para o projeto;
+
+g) O planeamento do projeto e da consulta pública, indicando claramente as datas e os locais das consultas e audições públicas, bem como os assuntos pertinentes previstos para essas audições;
+
+h) Os contactos para obter informações ou documentos suplementares;
+
+i) Os contactos para onde deverão ser enviadas as observações e objeções, durante as consultas públicas.
+
+## ANEXO VII
+
+### LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO («LISTA DA UNIÃO»)
+
+(referida no artigo 3.º, n.º 4)
+
+### A. PRINCÍPIOS APLICADOS NA ELABORAÇÃO DA LISTA DA UNIÃO
+
+1) Agregados de projetos de interesse comum e de projetos de interesse mútuo
+
+a) Define-se **agregado de projetos de interesse comum ou de projetos de interesse mútuo interdependentes** como «agregado X; inclui os seguintes projetos de interesse comum ou projetos de interesse mútuo:». Trata-se de um agregado constituído para identificar os projetos de interesse comum ou os projetos de interesse mútuo necessários para resolver um determinado estrangulamento transfronteiriço, cuja execução conjunta cria sinergias. Neste caso, há que executar todos os projetos em causa para obter os benefícios a nível da União;
+
+b) Define-se **agregado de projetos de interesse comum ou de projetos de interesse mútuo potencialmente concorrentes** como «agregado X; inclui um ou mais dos seguintes projetos de interesse comum ou projetos de interesse mútuo:». Trata-se de um agregado que reflete incertezas quanto à extensão transfronteiriça do estrangulamento. Neste caso, não têm de ser executados todos os projetos de interesse comum ou os projetos de interesse mútuo que constituem o agregado. Fica ao critério do mercado se são executados todos, vários ou apenas um dos projetos, sob reserva dos necessários planeamento, licenciamento e autorizações regulamentares. A necessidade de cada projeto é reavaliada — nomeadamente também em termos de necessidades de capacidade — num processo ulterior de identificação de projetos de interesse comum ou de projetos de interesse mútuo;
+
+c) Define-se **agregado de projetos de interesse comum ou de projetos de interesse mútuo concorrentes** como «agregado X; inclui um dos seguintes projetos de interesse comum ou projetos de interesse mútuo:». Trata-se de um agregado dedicado à resolução do mesmo estrangulamento. No entanto, a extensão do estrangulamento é conhecida com maior certeza do que no caso dos agregados de projetos de interesse comum ou de projetos de interesse mútuo potencialmente concorrentes, pelo que foi decidido que apenas um dos projetos tem de ser executado. Fica ao critério do mercado qual dos projetos é executado, sob reserva dos necessários planeamento, licenciamento e autorizações regulamentares. Se for caso disso, a necessidade de cada projeto é reavaliada num processo ulterior de identificação de projetos de interesse comum ou de projetos de interesse mútuo.
+
+2) Tratamento das subestações e das estações de compressão
+
+3) Projetos que deixaram de ser considerados projetos de interesse comum ou projetos de interesse mútuo e projetos que se tornaram parte de outros projetos de interesse comum ou projetos de interesse mútuo
+
+a) O projeto já entrou ou entrará em funcionamento até março de 2026, pelo que não beneficiaria do disposto no Regulamento (UE) 2022/869;
+
+b) Tendo em conta novos dados obtidos, o projeto não satisfaz os critérios gerais;
+
+c) O projeto não foi apresentado novamente para ser selecionado como projeto de interesse comum ou projeto de interesse mútuo;
+
+d) Um Estado-Membro a cujo território o projeto diz respeito não concedeu aprovação; ou
+
+e) No processo de seleção, o projeto obteve classificação inferior à de outros projetos candidatos a projeto de interesse comum ou a projeto de interesse mútuo.
+
+4) Partes não elegíveis dos projetos de interesse comum ou dos projetos de interesse mútuo
+
+a) Reforços internos do projeto «Medlink» (parte do projeto de interesse mútuo 1.35), nomeadamente a linha de transporte de corrente alternada entre Annaba e Tugurte, na Argélia, e a linha de transporte de corrente alternada entre De Jebil e Marsa Dhib, na Tunísia;
+
+b) Reforços internos da interligação entre Subotica (RS) e Sándorfalva (HU) (parte do projeto de interesse mútuo 2.12), nomeadamente a linha aérea entre Novi Sad 3 e Sombor 3, a linha aérea entre Srbobran e Sremska Mitrovica 2 e a reconstrução da subestação Subotica 3;
+
+c) Reforços internos da interligação entre Wadi El Natroon (EG) e Mesogeia/St Stefanos (EL) [atualmente conhecida por «GREGY Interconnector»] (parte do projeto de interesse mútuo 2.13) — secções internas no Egito;
+
+d) Reforços internos da interligação entre Bobov Dol (BG) e Leskovac 2 (RS) [atualmente conhecida por «Central Balkan Corridor»] (parte do projeto de interesse mútuo 2.26), nomeadamente a modernização da linha aérea entre Nis 2 e Krusevac 1, a modernização da subestação Kruševac 1, a modernização da linha aérea Kruševac 1 e Kraljevo 3, a modernização da linha aérea entre Kraljevo e Požega, a nova subestação de Požega, a nova linha aérea entre Jagodina e Požarevac, a modernização da linha aérea entre Požega e Vardište e a nova subestação em Požarevac 3;
+
+e) Secções internas da rede principal espanhola (parte do projeto de interesse comum 9.1.3): Corunha-Zamora, Huelva-Algeciras, Castela e Leão (entre Zamora e Haro), Guitiriz-Zamora e a ligação entre Castela-Mancha e Madrid;
+
+f) Secção interna de Freiburg-Offenbach, na Alemanha (parte do projeto de interesse comum 9.2.1);
+
+g) Secção da zona do Limburgo e sua ligação à espinha dorsal Norte-Sul no leste dos Países Baixos (parte do projeto de interesse comum 9.6);
+
+h) Secção interna na Alemanha, que começa perto de Bremen e estende-se em direção a Hanôver (parte do projeto de interesse comum 9.7.4);
+
+i) Secção interna de Port-la-Nouvelle via Barbaira, em França (parte do projeto de interesse comum 9.27.2);
+
+j) Secção interna de Bordéus-Lussagnet, em França (parte do projeto de interesse comum 9.27.3);
+
+k) Secção interna na Alemanha, que começa perto de Bremen e estende-se para sul (parte do projeto de interesse comum 9.28);
+
+l) Secção interna no Reino Unido, de Bacton até à rede interna de hidrogénio do Reino Unido (parte do projeto de interesse mútuo 9.35);
+
+m) Secções internas na Tunísia, pertencentes ao North Africa Hydrogen Corridor (parte do projeto de interesse mútuo 10.12);
+
+n) Secção interna na Suécia, que liga Kiruna a Luleå, pertencente à interligação Nordic Hydrogen Route — Bothnian Bay (parte do projeto de interesse comum 11.1);
+
+o) Secções internas na Finlândia (as referências geográficas são fornecidas como indicações): Mäntsälä, Imatra, Kouvola, Kotka; linha interna do Nordic-Baltic Hydrogen Corridor na Lituânia que liga Klaipėda (parte do projeto de interesse comum 11.2);
+
+p) Secção Suécia-Finlândia e a ligação do Baltic Sea Hydrogen Collector à ilha da Gotlândia (parte do projeto de interesse comum 11.3).
+
+5) Numeração dos projetos constantes da lista da União
+
+### B. LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO
+
+1) Interligações Norte-Sul de eletricidade na Europa Ocidental («NSI West Electricity»)
+
+N.º Definição
+
+1.1 Interligação Portugal-Espanha: Beariz-Fontefría (ES), Fontefría (ES)-Ponte de Lima (PT) e Ponte de Lima-Vila Nova de Famalicão (PT); inclui subestações em Beariz (ES), Fontefría (ES) e Ponte de Lima (PT)
+
+1.2 Interligação entre Gatica (ES) e Cubnezais (FR) [atualmente conhecida por «Biscay Gulf»]
+
+1.3 Interligação entre La Martyre (FR) e Great Island ou Knockraha (IE) [atualmente conhecida por «Celtic Interconnector»]
+
+1.4 1.4.1 Linha interna entre Emden leste e Osterath para aumentar a capacidade de transporte do norte da Alemanha para a Renânia [atualmente conhecida por «A-Nord»]
+
+1.5 Linha interna entre Brunsbüttel/Wilster e Großgartach/Grafenrheinfeld (DE) para aumentar a capacidade de transporte nas fronteiras setentrionais e meridionais [atualmente conhecida por «Suedlink»]
+
+1.6 Linha interna entre Osterath e Philippsburg (DE) para aumentar a capacidade de transporte nas fronteiras ocidentais [atualmente conhecida por «Ultranet»]
+
+1.7 1.7.1 Interligação entre Navarra (ES) e o departamento de Landes (FR) [atualmente conhecida por «Pyrenean crossing 1»] 1.7.2 Interligação entre Aragão (ES) e Marsillon (FR) [atualmente conhecida por «Pyrenean crossing 2»]
+
+1.8 Interligação entre Lonny (FR) e Gramme (BE)
+
+1.9 Linhas internas na fronteira norte da Bélgica entre Zandvliet e Lillo-Liefkenshoek (BE) e entre Liefkenshoek e Mercator (BE), incluindo uma subestação em Lillo (BE) [atualmente conhecidas por «BRABO II + III»]
+
+1.10 Interligação entre a Itália continental, a Córsega (FR) e a Sardenha (IT) [atualmente conhecida por «SACOI 3»]
+
+1.11 Aumento da capacidade da central elétrica hidroelétrica reversível de Kaunertal (AT)
+
+1.12 Central hidroelétrica reversível de Navaleo (ES)
+
+1.13 Central hidroelétrica reversível de Silvermines (IE)
+
+1.14 Central hidroelétrica reversível de Riedl (DE)
+
+1.16 Armazenamento de ar comprimido da plataforma de hidrogénio verde (DK)
+
+1.17 Central hidroelétrica reversível WSK PULS (DE)
+
+1.18 Central hidroelétrica reversível de Aguayo II (ES)
+
+1.22 Linha interna entre a região de Bordéus e a região de Nantes (FR) [atualmente conhecida por «GiLA»]
+
+1.23 Linha interna entre Montalto e Avenza (IT) [atualmente conhecida por «HG North Tyrrhenian Corridor»]
+
+1.24 Linha interna entre Ovelgönne/Rastede/Wiefelstede/Westerstede e Bürstadt e Marxheim (Taunus) (DE) [atualmente conhecida por «Rhine-Main-Link»]
+
+1.25 Controlador de rede em linha «PSKW-Rio» (DE)
+
+1.26 Central hidroelétrica reversível CHR IRENE (ES)
+
+1.27 Central hidroelétrica reversível PSP CONSO II (ES)
+
+1.28 Central hidroelétrica reversível Villarosa (IT)
+
+1.29 Central hidroelétrica reversível Taccu Sa Pruna (IT)
+
+1.30 Central hidroelétrica reversível Favazzina (IT)
+
+1.31 Central hidroelétrica reversível Serra Del Corvo (IT)
+
+1.32 Armazenamento de ar comprimido «CAES Ahaus, Alemanha» (DE)
+
+N.º Definição
+
+1.19 Interligação entre a Sicília (IT) e a Tunísia (TN) [atualmente conhecida por «ELMED»]
+
+1.20 Interligação entre a região de Zeebrugge (BE) e Kemsley, condado de Kent (UK) [atualmente conhecida por «Cronos»]
+
+1.21 Interligação entre as zonas de Emden (DE) e Corringham, condado de Essex (UK) [atualmente conhecida por «Tarchon»]
+
+1.33 Interligação entre Woodland (IE) e Turleenan (UK) [atualmente conhecida por «North-South interconnector»] (projeto n.º 2.13.1 da quarta lista de projetos de interesse comum)
+
+1.34 Interligação entre Maynooth (IE) e Bodelwyddan (UK) [atualmente conhecida por «MaresConnect»]
+
+1.35 Interligação entre La Spezia (IT) e Annaba (DZ) e entre Suvereto (IT) e Marsa Dhib (TN) [atualmente conhecida por «Medlink»]
+
+2) Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste («NSI East Electricity»)
+
+N.º Definição
+
+2.1 Agregado Áustria-Alemanha; inclui os seguintes projetos de interesse comum: 2.1.1 interligação entre Isar/Altheim/Ottenhofen (DE) e St. Peter (AT) 2.1.3 Linha interna entre o Tirol Ocidental e Zell-Ziller (AT) 2.1.4 Interligação entre Pleinting (DE) e St. Peter (AT)
+
+2.2 Linha interna na Alemanha entre Wolmirstedt e Isar [atualmente conhecida por «SuedOstLink»]
+
+2.3 Agregado de linhas internas na Chéquia; inclui os seguintes projetos de interesse comum: 2.3.2 Linha interna entre Prestice e Kocin 2.3.3 Linha interna entre Kocin e Mirovka
+
+2.4 Interligação entre Würmlach (AT) e Somplago (IT)
+
+2.5 Agregado Hungria-Roménia; inclui os seguintes projetos de interesse comum: 2.5.1 Interligação entre Józsa (HU) e Oradea (RO) 2.5.2 Linha interna entre Urechesti (RO) e Targu Jiu (RO) 2.5.3 Linha interna entre Targu Jiu (RO) e Paroseni (RO) 2.5.4 Linha interna entre Paroseni (RO) e Baru Mare (RO) 2.5.5 Linha interna entre Baru Mare (RO) e Hasdat (RO) 2.5.6 Modernização da subestação Rosiori (RO) 2.5.7 Interligação entre Nadab (RO) e Bekescsaba (HU)
+
+2.6 Agregado Israel-Chipre-Grécia [atualmente conhecido por «Great Sea Interconnector»]; inclui os seguintes projetos de interesse comum: 2.6.1 Interligação entre Hadera (IL) e Kofinou (CY) 2.6.2 Interligação entre Kofinou (CY) e Korakia, Creta (EL)
+
+2.7 Interligação entre Otrokovice (CZ) e Ladce (SK)
+
+2.8 Interligação entre Lienz (AT) e a região do Veneto (IT)
+
+2.9 Central hidroelétrica reversível de Anfilóquia (EL)
+
+2.10 Sistema de armazenamento de energia de baterias de Ptolemaida (EL)
+
+2.11 Modernização da central hidroelétrica reversível de Čierny Váh (SK) [atualmente conhecida por «SE Integrator»]
+
+2.14 Linha interna entre Villanova e Fano (IT) [atualmente conhecida por «Adriatic HVDC link»]
+
+2.15 Linha interna entre Lienz, Malta e Obersielach (AT) (projeto n.º 3.28 da quinta lista de projetos de interesse comum)
+
+2.16 Interligação entre Hradec (CZ) e Röhrsdorf (DE)
+
+2.17 Interligação entre Galatina (IT) e Tesprócia (EL) [atualmente conhecida por «GRITA 2»]
+
+2.18 Linha interna entre St. Peter e Dürnrohr (AT)
+
+2.19 Linha interna entre Foggia e Forli (IT) [atualmente conhecida por «HG Adriatic Corridor»]
+
+2.20 Interligação entre Sajóivánka (HU) e Rimavská Sobota (SK) (projeto n.º 3.17 da quarta lista de projetos de interesse comum)
+
+2.21 Central hidroelétrica reversível de Yadenitsa (BG) (projeto n.º 3.23 da quarta lista de projetos de interesse comum)
+
+2.22 Central hidroelétrica reversível de Kozjak (SI)
+
+2.23 Central hidroelétrica reversível de Batak (BG)
+
+2.24 Central hidroelétrica reversível de Dospat (BG)
+
+N.º Definição
+
+2.12 Interligação entre Subotica (RS) e Sándorfalva (HU) [atualmente conhecida por «Pannonian Corridor»]
+
+2.13 Interligação entre a costa de Sidi Barrani (EG) e Mesogeia/St Stefanos (EL) [atualmente conhecida por «GREGY Interconnector»]
+
+2.25 Segunda interligação entre Villanova (IT) e Lastva (ME)
+
+2.26 Interligação entre Bobov Dol (BG) e Leskovac 2 (RS) [atualmente conhecida por «Central Balkan Corridor»]
+
+2.27 Interligação entre Anaklia (GE) e Constanța Sud (RO) [atualmente conhecida por «Black Sea interconnection cable»]
+
+2.28 Interligação entre Mukacheve (UA) e Veľké Kapušany (SK)
+
+2.29 Interligação entre Artsyz (UA) e Isaccea (RO)
+
+3) Plano de Interligação do Mercado Báltico da Energia no setor da eletricidade («BEMIP Electricity»)
+
+N.º Definição
+
+3.2 Central hidroelétrica reversível na Estónia
+
+3.3 Integração e sincronização do sistema elétrico dos Estados Bálticos com as redes europeias; inclui os seguintes projetos de interesse comum: 3.3.3 Linha interna entre Paide e Sindi (EE) 3.3.5 Outros aspetos inerentes à infraestrutura relacionados com a sincronização do sistema dos Estados Bálticos com a rede continental europeia 3.3.6 Interligação entre a Lituânia e a Polónia [atualmente conhecida por «Harmony Link»] 3.3.11 Linha interna entre Dunowo e Żydowo Kierzkowo (PL) 3.3.12 Linha interna entre Piła Krzewina e Żydowo Kierzkowo (PL) 3.3.13 Linha interna entre Morzyczyn-Dunowo-Słupsk-Żarnowiec (PL) 3.3.14 Linha interna entre Żarnowiec-Gdańsk/Gdańsk Przyjaźń-Gdańsk Błonia (PL)
+
+3.5 Quarta interligação entre a Finlândia e a Suécia [atualmente conhecida por «Aurora line 2»]
+
+3.6 Interligação entre a Finlândia e a Estónia [atualmente conhecida por «Estlink 3»]
+
+3.7 Interligação entre a Finlândia e a Suécia [atualmente conhecida por «Fenno-Skan 3»]
+
+3.8 Interligação entre a Suécia e a Dinamarca [atualmente conhecida por «Upgrade to Konti-Skan»]
+
+3.9 Projeto de reforço transfronteiriço entre a Letónia e a Lituânia
+
+3.10 Central hidroelétrica reversível na Finlândia [atualmente conhecida por «Kemijoki PSP»]
+
+4) Redes ao largo nos mares do Norte («NSOG»)
+
+N.º Definição
+
+4.2 Interligação híbrida ao largo entre a Bélgica e a Dinamarca [atualmente conhecida por «Triton Link»]
+
+4.3 Subestação de alta tensão ao largo e ligação a Menuel (FR) [atualmente conhecida por «Offshore Wind connection Centre Manche 1»]
+
+4.4 Subestação de alta tensão ao largo e ligação a Tourbe (FR) [atualmente conhecida por «Offshore Wind connection Centre Manche 2»]
+
+4.7 Ligação eólica ao largo Fécamp-Grand Large 1 (FR)
+
+4.8 Ligação eólica ao largo Fécamp-Grand Large 2 (FR)
+
+4.9 Interligação híbrida ao largo entre a Alemanha e os Países Baixos
+
+N.º Definição
+
+4.5 Interligação polivalente entre a Princess Elisabeth Island (BE) e o condado de Kent (UK) [atualmente conhecida por «Nautilus»]
+
+4.6 Interligação de CCAT polivalente entre a Grã-Bretanha e os Países Baixos [atualmente conhecida por «LionLink»]
+
+4.10 Interligação híbrida ao largo entre o Reino Unido e a Alemanha [atualmente conhecida por «HansaLink — Phase 1»]
+
+5) Plano de Interligação do Mercado Báltico da Energia para as redes ao largo («BEMIP offshore»)
+
+N.º Definição
+
+5.1 Interligação híbrida ao largo entre a Letónia e a Estónia [atualmente conhecida por «Elwind»]
+
+5.2 Interligação híbrida ao largo entre a Dinamarca e a Alemanha «Bornholm Energy Island» (BEI)
+
+6) Redes ao largo meridional e ocidental («SW offshore»)
+
+N.º Definição
+
+6.1 Ligação eólica ao largo da região da Occitânia (FR)
+
+6.2 Ligação eólica ao largo PACA (FR)
+
+6.3 Ligação eólica ao largo Golfe de Lion Centre (FR)
+
+7) Redes ao largo meridional e oriental («SE offshore»)
+
+8) Redes ao largo atlânticas
+
+N.º Definição
+
+8.1 Ligação eólica ao largo, sul da Bretanha (FR)
+
+8.2 Ligação eólica ao largo, Atlântico Sul Oléron 1 (FR)
+
+8.3 Ligação eólica ao largo, Atlântico Sul Oléron 2 (FR)
+
+8.4 Ligação eólica ao largo Golfe de Gascogne Sud (FR)
+
+8.5 Ligação eólica ao largo Bretagne Nord-Ouest (FR)
+
+9) Interligações para o hidrogénio na Europa Ocidental («HI West»)
+
+N.º Definição
+
+9.1 Corredor Portugal-Espanha-França-Alemanha: 9.1.1 Infraestrutura interna para o hidrogénio em Portugal 9.1.2 Interligação de hidrogénio entre Portugal e Espanha 9.1.3 Infraestrutura interna para o hidrogénio em Espanha 9.1.4 Interligação de hidrogénio entre Espanha e França [atualmente conhecida por «BarMar»] 9.1.5 Infraestrutura interna para o hidrogénio em França com ligação à Alemanha [atualmente conhecida por «HyFen»] 9.1.6 Infraestrutura interna para o hidrogénio na Alemanha com ligação a França [atualmente conhecida por «H2Hercules South-West»]
+
+9.2 Vales de hidrogénio transfronteiriços França-Alemanha: 9.2.1 Vale de hidrogénio na Alemanha até à fronteira francesa [atualmente conhecido por «RHYn»] 9.2.2 Vale de hidrogénio em França até à fronteira alemã [atualmente conhecido por «Mosahyc»]
+
+9.3 Infraestrutura interna para o hidrogénio em França até à fronteira belga [atualmente conhecida por «Franco-Belgian H2 corridor»]
+
+9.4 Infraestrutura interna para o hidrogénio na Alemanha [atualmente conhecida por «H2ercules West»]
+
+9.5 Infraestrutura interna para o hidrogénio na Bélgica [atualmente conhecida por «Belgian Hydrogen Backbone»]
+
+9.6 Infraestrutura interna para o hidrogénio nos Países Baixos [atualmente conhecida por «National Hydrogen Backbone»]
+
+9.7 Interligações de hidrogénio National Hydrogen Backbone (NL)-Alemanha Parte alemã: 9.7.1 Interligação de hidrogénio da rede principal Norte-Sul no Leste até Oude (NL) [atualmente conhecida por «H2ercules North»] 9.7.2 Interligação de hidrogénio da rede principal Norte-Sul no Leste até Vlieghuis (NL)-Vlieghuis-Ochtrup (DE) 9.7.3 Interligação de hidrogénio dos Países Baixos para a Alemanha [atualmente conhecida por «Delta Rhine Corridor H2»] 9.7.4 Interligação de hidrogénio entre a Alemanha e os Países Baixos 2 [atualmente conhecida por «Hyperlink»] 9.7.5 Interligação de hidrogénio da rede principal Norte-Sul em Winterswijk/Vreden até à Alemanha [atualmente conhecida por «H2ercules North-West»]
+
+9.8 Gasoduto de hidrogénio ao largo da Alemanha [atualmente conhecido por «AquaDuctus»]
+
+9.9 Interligação de hidrogénio Dinamarca-Alemanha: 9.9.1 Infraestrutura interna para o hidrogénio na Alemanha [atualmente conhecida por «HyperLink III»] 9.9.2 Infraestrutura interna para o hidrogénio na Dinamarca [atualmente conhecida por «DK Hydrogen Pipeline West»]
+
+9.10 Instalações de receção de amoníaco na Bélgica: 9.10.1 Instalação de receção de amoníaco Antuérpia 9.10.2 Instalação de receção de amoníaco Amplifhy Antwerp 9.10.3 Instalação de receção de amoníaco Zeebrugge New Molecules 9.10.4 Instalação de receção de amoníaco Antwerp VEPA
+
+9.11 Instalações de receção de amoníaco na Alemanha: 9.11.1 Instalação de receção de amoníaco, terminal de Brunsbüttel 9.11.3 Instalação de receção de amoníaco Wilhelmshaven (Uniper)
+
+9.12 9.12.2 Instalação de receção de amoníaco Amplifhy Rotterdam
+
+9.13 Instalação de receção de amoníaco Dunquerque (FR)
+
+9.15 Instalações de eletrolisadores em Espanha: 9.15.4 Eletrolisador Valle Andaluz del Hidrógeno Verde — Huelva 9.15.5 Eletrolisador Asturias H2 valley 9.15.6 Eletrolisador Valdo Eume 9.15.7 Eletrolisador Catalina 9.15.8 Eletrolisador ErasmoPower2X
+
+9.16 Instalações de eletrolisadores em França: 9.16.6 Eletrolisador GHYga H2 9.16.7 Eletrolisador H2V 59
+
+9.17 9.17.4 Eletrolisador ScheldeH2 (NL)
+
+9.18 Instalações de eletrolisadores na Alemanha: 9.18.3 Eletrolisador Rheinfelden 9.18.4 Eletrolisador GreenRoot
+
+9.20 Armazenamento de hidrogénio dinamarquês (DK)
+
+9.21 Armazenamento Hystock Opslag H2 (NL)
+
+9.22 Armazenamento de hidrogénio na Alemanha: 9.22.1 Armazenamento de hidrogénio no âmbito do projeto SaltHy em Harsefeld 9.22.3 Armazenamento de hidrogénio no âmbito do projeto SaltHy, Harsefeld II A+B 9.22.4 Armazenamento de hidrogénio EWE, Huntorf 9.22.5 Armazenamento de hidrogénio UST, Krummhörn 9.22.6 Armazenamento de hidrogénio NWKG 9.22.7 Armazenamento de hidrogénio EWE, Jemgum 9.22.8 Gasunie SpHyGER Etzel 9.22.9 Expansão do armazenamento de hidrogénio da RWE em Gronau-Epe (projeto n.o 9.22.2 da primeira lista da União) 9.22.10 Armazenamento de hidrogénio da RWE em Gronau-Epe — 2.a expansão 9.22.11 Armazenamento de hidrogénio UST, Epe
+
+9.24 Armazenamento de hidrogénio em Espanha: 9.24.1 Armazenamento de Hidrogénio North — 1 9.24.2 Armazenamento de Hidrogénio North — 2
+
+9.26 Interligações de hidrogénio França-Luxemburgo-Bélgica: 9.26.1 Interligação de hidrogénio entre França e o Luxemburgo [atualmente conhecida por «Hy4link (FR)»] 9.26.2 Gasoduto de hidrogénio interno no Luxemburgo até à fronteira com a Bélgica [atualmente conhecido por «Hy4link (LU)»]
+
+9.27 Infraestrutura interna para o hidrogénio em França, desde Bordéus até à costa mediterrânica: 9.27.1 MidHY 9.27.2 HySoW Mediterranean 9.27.3 HySoW Atlantic
+
+9.28 Infraestrutura interna para o hidrogénio na Alemanha [atualmente conhecida por «Hyperlink 4-5»]
+
+9.29 Corredor de hidrogénio Itália-Suíça-Alemanha: 9.29.1 Infraestrutura interna para o hidrogénio em Itália, desde Poggio Renatico até à fronteira suíça 9.29.2 Infraestrutura interna para o hidrogénio na Alemanha [atualmente conhecida por «Alpine HyWay»]
+
+9.30 Instalações de eletrolisadores na Dinamarca: 9.30.1 Eletrolisador HØST PtX Esbjerg (anteriormente designado por Jyske Banke Nord PtX) (projeto n.º 9.19 da primeira lista da União) 9.30.2 Eletrolisador Hela 9.30.3 Eletrolisador Vidar 9.30.4 Eletrolisador Plug Idomlund 9.30.5 Eletrolisador Esbjerg
+
+9.31 Eletrolisador H2Austria&Bavaria+Store (AT)
+
+9.32 Eletrolisador CHYMIA (BE)
+
+9.33 Armazenamento de hidrogénio em França: 9.33.1 Armazenamento GeoH2 (projeto n.o 9.23 da primeira lista da União) 9.33.2 Armazenamento HyPSTER_3 9.33.3 Armazenamento HySoW
+
+N.º Definição
+
+9.34 Infraestrutura interna para o hidrogénio na Suíça (parte do corredor de hidrogénio Itália-Suíça-Alemanha) [atualmente conhecida por «Alpine H2 corridor»]
+
+9.35 Interligação de hidrogénio Bélgica-Reino Unido
+
+10) Interligações de hidrogénio na Europa Centro-Oriental e do Sudeste («HI East»)
+
+N.º Definição
+
+10.1 Corredor SoutH2 (Tunísia-Itália-Áustria-Alemanha): 10.1.1 Infraestrutura interna para o hidrogénio em Itália [atualmente conhecida por «Italian H2 Backbone»] 10.1.2 Infraestrutura interna para o hidrogénio na Áustria [atualmente conhecida por «H2 Readiness of the TAG pipeline system»] 10.1.3 Infraestrutura interna para o hidrogénio na Áustria [atualmente conhecida por «H2 Backbone WAG and Penta West»] 10.1.4 Infraestrutura interna para o hidrogénio na Alemanha [atualmente conhecida por «HyPipe Bavaria — The Hydrogen Hub»]
+
+10.2 Interligação de hidrogénio entre a Chéquia e a Alemanha: 10.2.1 Infraestrutura interna para o hidrogénio na Chéquia para a Alemanha [atualmente conhecida por «Czech H2 Backbone West»] 10.2.2 Infraestrutura interna para o hidrogénio na Alemanha [atualmente conhecida por «FLOW East — Making Hydrogen Happen»] 10.2.3 Infraestrutura interna para o hidrogénio na Alemanha [atualmente conhecida por «H2ercules Network South-East»]
+
+10.3 Interligação de hidrogénio entre a Grécia e a Bulgária: 10.3.1 Infraestrutura interna para o hidrogénio na Grécia para a fronteira búlgara [atualmente conhecida por «H2DRIA pipeline»] 10.3.2 Infraestrutura interna para o hidrogénio na Bulgária para a fronteira grega
+
+10.5 Central European Hydrogen Corridor (Ucrânia-Eslováquia-Chéquia-Alemanha): 10.5.1 Infraestrutura interna para o hidrogénio na Eslováquia [atualmente conhecida por «Slovak Hydrogen Backbone»] 10.5.2 Infraestrutura interna para o hidrogénio na Chéquia [atualmente conhecida por «Czech Hydrogen Backbone North»]
+
+10.6 Interligação de hidrogénio entre a Eslováquia e a Hungria: 10.6.1 Infraestrutura interna para o hidrogénio na Eslováquia [atualmente conhecida por «SK-HU H2 corridor»] 10.6.2 Infraestrutura interna para o hidrogénio na Hungria [atualmente conhecida por «HU/SK hydrogen corridor»]
+
+10.7 Corredor de hidrogénio entre a Grécia e Itália: 10.7.1 Infraestrutura interna para o hidrogénio na Grécia [atualmente conhecida por «Komnina-Florovouni pipeline»] 10.7.2 Gasoduto de hidrogénio ao largo entre a Grécia e Itália [atualmente conhecido por «H2 Poseidon pipeline»]
+
+10.8 Instalação de receção de amoníaco Ionian Energy Terminal (GR)
+
+10.9 Instalação de eletrolisadores Thalis 1 (GR)
+
+10.10 Armazenamento de hidrogénio EWE, Rüdersdorf (DE)
+
+10.11 Armazenamento subterrâneo de hidrogénio Fiume Treste Livello (IT)
+
+N.º Definição
+
+10.12 Gasoduto de hidrogénio ao largo entre a Tunísia e Itália [atualmente conhecido por «North Africa Hydrogen Corridor»] (parte do corredor SoutH2)
+
+10.13 Infraestrutura interna para o hidrogénio na Ucrânia [atualmente conhecida por «Central European Hydrogen Corridor (parte da Ucrânia)»]
+
+11) Plano de Interligação do Mercado Báltico da Energia no setor do hidrogénio («BEMIP Hydrogen»)
+
+N.º Definição
+
+11.1 Interligação de hidrogénio entre a Suécia e a Finlândia [atualmente conhecida por «Nordic Hydrogen Route — Bothnian Bay»]
+
+11.2 Interligação de hidrogénio entre a Finlândia, a Estónia, a Letónia, a Lituânia, a Polónia e a Alemanha [atualmente conhecida por «Nordic-Baltic Hydrogen Corridor»]
+
+11.3 Interligação de hidrogénio entre a Finlândia e a Alemanha [atualmente conhecida por «Baltic Sea Hydrogen Collector»]
+
+11.4 Interligações de hidrogénio entre a Alemanha e a Polónia [atualmente conhecidas por «Pomeranian Green Hydrogen cluster»]
+
+11.5 Instalações de eletrolisadores na Finlândia: 11.5.1 Porvoo Phase 2 11.5.2 Projeto FOX 11.5.3 Projeto Plug Power Kristinestad
+
+12) Domínio temático prioritário «Implantação de Redes Elétricas Inteligentes»
+
+N.º Definição
+
+12.2 O projeto CARMEN (BG, RO) destina-se a reforçar a cooperação transfronteiras e a partilha de dados entre ORT, melhorar a cooperação entre ORT e ORD, apoiar a expansão da rede, aumentar a capacidade de integração de novas fontes de energia renovável e melhorar a estabilidade, a segurança e a flexibilidade da rede
+
+12.3 O projeto Danube InGrid (HU, SK) visa integrar eficazmente o comportamento e as ações de todos os utilizadores do mercado ligados às redes de eletricidade na Hungria e na Eslováquia
+
+12.4 O projeto Gabreta Smart Grids (CZ, DE) visa aumentar a capacidade de alojamento da rede, permitir a monitorização e o controlo à distância das redes de média tensão e melhorar a observabilidade das redes e o planeamento das redes
+
+12.5 O projeto GreenSwitch (AT, HR, SI) visa aumentar a capacidade de alojamento das fontes de energia renovável distribuídas e a integração eficiente de novas cargas, melhorar a observabilidade da rede de distribuição e aumentar a capacidade transfronteiras
+
+12.6 O projeto Selena (CZ, HU, SK) destina-se a reforçar a segurança, a eficiência e a resiliência energéticas na Chéquia, na Hungria e na Eslováquia, modernizando e integrando as suas redes de distribuição de eletricidade
+
+12.7 O projeto Tune (HU, SI, SK) visa aumentar a controlabilidade e reforçar as redes elétricas na Eslovénia, na Eslováquia e na Hungria
+
+13) Domínio temático prioritário «Redes transfronteiras de dióxido de carbono»
+
+N.º Definição
+
+13.1 O projeto «CO2 TransPorts» visa criar infraestruturas que facilitem a captura, o transporte e a armazenagem em grande escala de CO2 dos portos de Roterdão, de Antuérpia e do mar do Norte
+
+13.2 Aramis — projeto de transporte e armazenamento transfronteiras de CO2 (com origem em emissores na zona do porto de Roterdão e transporte por gasoduto para um local de armazenagem na plataforma continental dos Países Baixos)
+
+13.4 Bifrost — projeto de transporte e armazenamento, com armazenamento ao largo da Dinamarca a partir de emissores situados na Dinamarca, na Alemanha e na Polónia
+
+13.5 Callisto — desenvolvimento de plataformas multimodais para CO2 no Mediterrâneo que armazenam as emissões de CO2 provenientes de França e Itália em instalações de armazenamento ao largo da costa de Ravena
+
+13.6 CCS Baltic Consortium — transporte transfronteiras de CO2 por gasoduto e caminho de ferro/camião entre a Letónia e a Lituânia com um terminal multimodal LCO2 baseado em Klaipeda
+
+13.7 Corredor Delta Reno — projeto de transporte de CO2 através de gasodutos a partir de emissores situados na região do Ruhr, na Alemanha, e na região de Roterdão, nos Países Baixos, para instalações de armazenamento ao largo da costa neerlandesa
+
+13.8 EU2NSEA — rede transfronteiriça de CO2 desenvolvida entre a Bélgica, a Alemanha e a Noruega para recolher também CO2 da DK, FR, LV, NL, PL e SE, com armazenamento na plataforma continental norueguesa
+
+13.10 Norne — infraestrutura de transporte na Dinamarca com armazenamento em terra e possivelmente ao largo. Os emissores, principalmente situados na DK, SE, BE e UK, efetuarão o transporte para a DK por navio
+
+13.11 Prinos — Apollo CO2 — armazenamento ao largo no complexo de Prinos das emissões da EL, por gasoduto, e da BG, HR, CY, EL, IT e SI, por navio
+
+13.12 Pycasso — transporte e armazenamento de CO2 em instalações de armazenamento em terra no sudoeste da França, emissores industriais de FR e ES
+
+13.15 BaltiCO2Net — o projeto inclui 17 iniciativas de captura em instalações industriais geradoras de emissões em cinco Estados-Membros da UE (DK, DE, LV, PL e SE), com armazenamento previsto em terra na Dinamarca
+
+13.16 ECO2CEE — terminal LCO2 em Gdańsk, que recebe CO2 da indústria na Polónia por gasoduto, e terminal em Klaipeda, que recebe CO2 da fábrica lituana por gasoduto/caminho de ferro/camião (n.º 13.3 da primeira lista da União)
+
+N.º Definição
+
+13.13 Northern Lights — projeto de ligação entre várias iniciativas europeias transfronteiras de captura de CO2 (nomeadamente, Bélgica, Alemanha, Irlanda, França e Suécia) e seu transporte, em navios, para um local de armazenagem na plataforma continental norueguesa
+
+13.14 Nautilus CCS — captura e transporte, em navio, de emissões das zonas de Le Havre, Dunquerque, Duisburgo e Rogaland para vários sumidouros no mar do Norte (extensão do projeto n.º 12.8 da quinta lista de projetos de interesse comum)
+
+13.17 Atlas — armazenamento na instalação ao largo Atlas (NO) e transporte por navios transportadores de CO2 com capacidade de transferência direta e unidade flutuante de recolha, armazenamento e transferência como opção para o CO2 capturado em instalações industriais na UE
+
+13.18 Carbon Connect — um gasoduto transfronteiriço submarino de aproximadamente 200 km para o transporte e armazenamento de CO2 antropogénico, que se estende desde Zeebrugge (Bélgica) até ao setor do Reino Unido da zona meridional do mar do Norte
+
+13.19 German Carbon Transport Grid — o projeto visa construir e explorar uma vasta rede de gasodutos de CO2 na Alemanha, transportando emissões para sumidouros de CO2 no norte da Europa, e ligar a rede a várias redes nacionais
+
+14) Domínio temático prioritário «Redes de Gás Inteligentes»
+
+N.º Definição
+
+14.1 GREENCONNECT (rede de gás renovável que contribui para redes eficientes e para a operação transfronteiriça de uma nova interligação e transporte de energia de impacto zero)
+
+14.2 Projeto da rede inteligente de gás da Croácia e da Eslovénia
+
+14.3 Projeto Smartswitch — o projeto visa tornar mais inteligente a atual rede de transporte de gás grega e búlgara para a integração do hidrogénio e de gases renováveis na mesma
+
+15) Projetos que mantêm o seu estatuto de projeto de interesse comum (derrogação prevista no artigo 24.º)
+
+N.º Definição
+
+15.1 Ligação de Malta à rede europeia de gás — ligação por gasoduto com a Itália, em Gela
+
+15.2 Gasoduto das reservas de gás do Mediterrâneo oriental para a Grécia continental através de Chipre e Creta [atualmente conhecido por «EastMed Pipeline»], com uma estação de medição e regulação em Megalopólis
+
+### C. LISTAS DE «PROJETOS QUE DEIXARAM DE SER CONSIDERADOS DE INTERESSE COMUM OU DE INTERESSE MÚTUO» E DE «PROJETOS QUE PASSARAM A FAZER PARTE DE OUTROS PROJETOS DE INTERESSE COMUM OU PROJETOS DE INTERESSE MÚTUO»
+
+1) Interligações Norte-Sul de eletricidade na Europa Ocidental («NSI West Electricity»)
+
+| 1.4.2 |
+| --- |
+| 1.4.3 |
+| 1.15 |
+
+2) Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste («NSI East Electricity»)
+
+| 2.1.2 |
+| --- |
+| 2.3.1 |
+
+3) Plano de Interligação do Mercado Báltico da Energia no setor da eletricidade («BEMIP Electricity»)
+
+| 3.1 |
+| --- |
+| 3.3.1 |
+| 3.3.2 |
+| 3.3.4 |
+| 3.3.7 |
+| 3.3.8 |
+| 3.3.9 |
+| 3.3.10 |
+| 3.3.15 |
+| 3.4.1 |
+| 3.4.2 |
+
+4) Redes ao largo nos mares do Norte («NSOG»)
+
+| 4.1 |
+| --- |
+
+9) Interligações para o hidrogénio na Europa Ocidental («HI West»)
+
+| 9.11.2 |
+| --- |
+| 9.12.1 |
+| 9.12.3 |
+| 9.14 |
+| 9.15.1 |
+| 9.15.2 |
+| 9.15.3 |
+| 9.16.1 |
+| 9.16.2 |
+| 9.16.3 |
+| 9.16.4 |
+| 9.16.5 |
+| 9.17.1 |
+| 9.17.2 |
+| 9.17.3 |
+| 9.18.1 |
+| 9.18.2 |
+| 9.19 |
+| 9.22.2 |
+| 9.25 |
+
+10) Interligações de hidrogénio na Europa Centro-Oriental e do Sudeste («HI East»)
+
+Número original do projeto de interesse comum ou do projeto de interesse mútuo Número do projeto de interesse comum ou do projeto de interesse mútuo no qual o projeto passou a estar integrado
+
+10.4 10.5 e 10.13
+
+12) Domínio temático prioritário «Implantação de Redes Elétricas Inteligentes»
+
+| 12.1 |
+| --- |
+
+13) Domínio temático prioritário «Redes transfronteiras de dióxido de carbono»
+
+| 13.9 |
+| --- |
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, relativa à promoção da utilização de energia de fontes renováveis (JO L 328 de 21.12.2018, p. 82).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) 2024/1991 do Parlamento Europeu e do Conselho, de 24 de junho de 2024, relativo ao restauro da natureza e que altera o Regulamento (UE) 2022/869 (JO L, 2024/1991, 29.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1991/oj).**◄**
+
+> ([^3^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (UE) 2024/1789 do Parlamento Europeu e do Conselho, de 13 de junho de 2024, relativo aos mercados internos do gás renovável, do gás natural e do hidrogénio, que altera os Regulamentos (UE) n.º 1227/2011, (UE) 2017/1938, (UE) 2019/942 e (UE) 2022/869 e a Decisão (UE) 2017/684 e que revoga o Regulamento (CE) n.º 715/2009 (JO L, 2024/1789, 15.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1789/oj).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento (CE) n.º 401/2009 do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativo à Agência Europeia do Ambiente e à Rede Europeia de Informação e de Observação do Ambiente (JO L 126 de 21.5.2009, p. 13).
+
+> ([^5^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Regulamento (CE) n.º 714/2009 do Parlamento Europeu e do Conselho, de 13 de julho de 2009, relativo às condições de acesso à rede para o comércio transfronteiriço de eletricidade e que revoga o Regulamento (CE) n.º 1228/2003 (JO L 211 de 14.8.2009, p. 15).
+
+> ([^6^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0006)) Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho, de 30 de maio de 2022, relativo às orientações para as infraestruturas energéticas transeuropeias, que altera os Regulamentos (CE) n.º 715/2009, (UE) 2019/942 e (UE) 2019/943 e as Diretivas 2009/73/CE e (UE) 2019/944 e que revoga o Regulamento (UE) n.º 347/2013 (JO L 152 de 3.6.2022, p. 45).».
+
+> ([^7^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0007)) Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho, de 30 de maio de 2022, relativo às orientações para as infraestruturas energéticas transeuropeias, que altera os Regulamentos (CE) n.º 715/2009, (UE) 2019/942 e (UE) 2019/943 e as Diretivas 2009/73/CE e (UE) 2019/944 e que revoga o Regulamento (UE) n.º 347/2013 (JO L 152 de 3.6.2022, p. 45).».
+
+> ([^8^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0008)) Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho, de 30 de maio de 2022, relativo às orientações para as infraestruturas energéticas transeuropeias, que altera os Regulamentos (CE) n.º 715/2009, (UE) 2019/942 e (UE) 2019/943 e as Diretivas 2009/73/CE e (UE) 2019/944 e que revoga o Regulamento (UE) n.º 347/2013 (JO L 152 de 3.6.2022 p. 45).».
+
+> ([^9^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0009)) Regulamento (UE) n.º 1316/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que cria o Mecanismo Interligar a Europa, altera o Regulamento (UE) n.º 913/2010 e revoga os Regulamentos (CE) n.º 680/2007 e (CE) n.º 67/2010 (JO L 348 de 20.12.2013, p. 129).
+
+> ([^10^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0010)) Regulamento Delegado (UE) 2022/564 da Comissão, de 19 de novembro de 2021, que altera o Regulamento (UE) n.º 347/2013 do Parlamento Europeu e do Conselho no respeitante à lista de projetos de interesse comum da União (JO L 109 de 8.4.2022, p. 14).
+
+> ([^11^](http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#src.E0011)) Regulamento (UE) n.º 1315/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, relativo às orientações da União para o desenvolvimento da rede transeuropeia de transportes e que revoga a Decisão n.º 661/2010/UE (JO L 348 de 20.12.2013, p. 1).

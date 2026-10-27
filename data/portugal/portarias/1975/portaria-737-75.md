@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:311231:por
+title: Portaria n.º 737/75
+short_title: null
+summary: Introduz alterações na Portaria n.º 419-B/75, de 5 de Julho, que reestrutura os serviços da Direcção-Geral das Contribuições
+  e Impostos, relativamente ao respectivo pessoal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Gabinete do Secretário de Estado
+proposing_entity: null
+official_number: 737/75
+official_date: null
+publication_date: '1975-12-12'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 286/1975, Série I de 1975-12-12
+  number: '286'
+  series: I
+  supplement: null
+  pages: 2002 - 2003
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28600/20022003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '311231'
+  dre_path: /dr/detalhe/portaria/737-1975-311231
+  internal: pt:dre:311231:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/737-1975-311231
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/737-1975-311231
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:54:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 16cd308c0b1ade8f57c79da5565eb60a7eb4f5c2f4d26bc0d0b182d4e3ea9c43
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:54:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Gestão de Recursos Humanos
+- Pessoal Administrativo
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+relationships:
+- type: cites
+  target: pt:dre:424142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:54:08Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 737/75
+
+de 12 de Dezembro
+
+Considerando que a [Portaria n.º 419-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/419-b-1975-424142), de 5 de Julho, ao determinar a extinção dos lugares de escriturário-dactilógrafo das repartições concelhias e a criação, em substituição dos mesmos, de igual número de lugares de aspirante, visou reclassificar aqueles escriturários-dactilógrafos devido à reorganização dos respectivos quadros;
+
+Considerando que, assim, os objectivos de selecção e de ordenação, sempre visados com a prestação de quaisquer provas de mérito, foram subalternizados no caso concreto dos escriturários-dactilógrafos;
+
+Considerando que as medidas que foram tomadas encontram bom fundamento na situação da generalidade dos escriturários-dactilógrafos, que exercem a contento - mas sem qualquer compensação - as funções dos aspirantes; e nas dos demais, que vêm desempenhando funções meramente burocráticas, por motivos alheios à sua vontade, embora em exclusivo interesse da função pública;
+
+Considerando que todos os escriturários-dactilógrafos permanecem, em maior ou menor medida, há longo tempo, em lugares cuja existência se entendeu afinal não ser justificada;
+
+Considerando que a longa situação de estagnação a que têm sido votados os escriturários-dactilógrafos constitui um justo motivo para que, na sua maioria, queiram ver solucionado com urgência o seu problema;
+
+Considerando que, por razões de conveniência, de oportunidade ou de justiça, se têm realizado admissões ou promoções no quadro da Direcção-Geral das Contribuições e Impostos, em escalões idênticos ou até de maior relevância, sem uma prévia prestação de provas práticas que baseasse actos de objectiva avaliação do mérito de cada candidato;
+
+Considerando, assim, e como já antes tem acontecido, que certos motivos concretos podem sobrepor-se decisivamente à prestação de provas práticas como critério aferidor num acto de admissão ou de promoção;
+
+Considerando, por outro lado, e sobretudo, que os cursos de formação, organizados e efectivados, com resultados amplamente satisfatórios, pela Direcção dos Serviços de Pessoal e Organização, constituíram o mais seguro e importante alicerce da preparação profissional, e por isso da eficiência, dos escriturários-dactilógrafos;
+
+Considerando ainda que as decisões consubstanciadas na presente portaria se apoiam no circunstancialismo muito concreto do caso, não pondo de modo algum em crise a validade da regra da avaliação do mérito, mediante a prestação de adequadas provas, a qual se impõe tanto mais quanto mais especializadas e altas forem as funções administrativas;
+
+Nos termos do artigo 23.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo [Decreto n.º 45095](https://diariodarepublica.pt/dr/detalhe/decreto/45095-1963-693236), de 29 de Julho de 1963, e do artigo 8.º do [Decreto-Lei n.º 576/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1974-471504), de 5 de Novembro:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento:
+
+1. A alínea c) do n.º 6 da [Portaria n.º 419-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/419-b-1975-424142), de 5 de Julho, passa a ter a seguinte redacção:
+
+c) Os escriturários que o solicitem podem transitar para as categorias de aspirante ou de terceiro-oficial desde que o tenham feito, ou venham a fazê-lo, no prazo de trinta dias contados da data da entrada em vigor da presente portaria.
+
+2. Os efeitos das reconversões previstas na aludida portaria produzir-se-ão, sem mais, a contar de 24 de Novembro de 1975.
+
+3. Os funcionários que, eventualmente, não hajam ainda optado de modo inequívoco pela transição para a categoria de aspirante, ou de terceiro-oficial, deverão comunicar por escrito a sua opção definitiva à Direcção dos Serviços de Pessoal e Organização, dentro do prazo fixado na parte final do n.º 1 desta portaria.
+
+4. Ficam revogadas as disposições contidas nos n.os 11 e 12 da [Portaria n.º 419-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/419-b-1975-424142), de 5 de Julho.
+
+Ministério das Finanças, 19 de Novembro de 1975. - O Secretário de Estado do Orçamento, Vítor Manuel Ribeiro Constâncio.

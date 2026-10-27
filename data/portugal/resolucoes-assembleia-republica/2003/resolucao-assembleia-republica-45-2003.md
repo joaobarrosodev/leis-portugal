@@ -1,0 +1,279 @@
+---
+schema_version: '1.0'
+id: pt:dre:540848:por
+title: Resolução da Assembleia da República n.º 45/2003
+short_title: null
+summary: Aprova, para ratificação, o Tratado entre a República Portuguesa e a República Federativa do Brasil sobre a Transferência
+  de Pessoas Condenadas, assinado em Brasília em 5 de Setembro de 2001
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 45/2003
+official_date: null
+publication_date: '2003-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/2003, Série I-A de 2003-05-23
+  number: '119'
+  series: I
+  supplement: null
+  pages: 3207 - 3210
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/05/119a00/32073210.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/45/2003/05/23/p/dre/pt/html
+  oj: null
+  dre: '540848'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/45-2003-540848
+  internal: pt:dre:540848:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/45-2003-540848
+  metadata_url: https://data.dre.pt/eli/resolassrep/45/2003/05/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/45-2003-540848
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:12:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4c1a503bd7bf516e6c60f344e2ac7b4f04bfbbe8c5747f98dccec00f3290cc7f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:12:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Brasil
+- Brasília
+- Convenção
+- Portugal
+- Transferência de Pessoas Condenadas
+- Tratado entre a República Portuguesa e a República Federativa do Brasil sobre a Transferência de Pessoas Condenadas
+relationships:
+- type: amended_by
+  target: pt:dre:540837:por
+  label: "Ratificado o Tratado pelo DEC.34/2003.2003.05.23.PR DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/34-2003-540837
+  date: '2003-05-23'
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:12:38Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 45/2003
+
+Aprova, para ratificação, o Tratado entre a República Portuguesa e a República Federativa do Brasil sobre a Transferência de Pessoas Condenadas, assinado em Brasília em 5 de Setembro de 2001.
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar, para ratificação, o Tratado entre a República Portuguesa e a República Federativa do Brasil sobre a Transferência de Pessoas Condenadas, assinado em Brasília em 5 de Setembro de 2001, cujo texto, na versão autêntica em língua portuguesa, é publicado em anexo à presente resolução.
+
+Aprovada em 13 de Março de 2003.
+
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
+
+TRATADO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA FEDERATIVA DO BRASIL SOBRE A TRANSFERÊNCIA DE PESSOAS CONDENADAS.
+
+A República Portuguesa e a República Federativa do Brasil (doravante denominadas «Partes»):
+
+Animados pelos laços de fraternidade, amizade e cooperação que presidem as relações entre ambos os países;
+
+Desejando aprofundar esse relacionamento privilegiado no campo da cooperação em áreas de interesse comum;
+
+Desejando reforçar a cooperação judiciária mútua em matéria penal;
+
+Cientes de que essa cooperação deve, em atenção aos interesses da boa administração da justiça, contribuir para a reinserção social das pessoas condenadas;
+
+Considerando que, para a realização destes objectivos, é importante que os nacionais de ambos os Estados ou as pessoas que neles tenham residência habitual ou vínculo pessoal que se encontram privados da liberdade por decisão judicial proferida em virtude de uma infracção penal tenham a possibilidade de cumprir a condenação no seu ambiente social de origem;
+
+Considerando que a melhor forma de alcançar tal desiderato é possibilitar a efectivação da transferência das pessoas condenadas para o seu próprio país;
+
+Tendo ainda presente que deve ser garantido o pleno respeito pelos direitos do homem decorrentes das normas e princípios universalmente reconhecidos;
+
+acordam o seguinte:
+
+###### Artigo 1.º — Definições
+
+Para os fins do presente Tratado, considera-se:
+
+a) «Condenação», qualquer pena ou medida privativa da liberdade, incluindo medida de segurança, de duração determinada, proferida por juiz ou tribunal, em virtude da prática de uma infracção penal;
+
+b) «Sentença», decisão judicial pela qual é imposta uma condenação;
+
+c) «Estado da condenação», Estado no qual foi condenada a pessoa que pode ser transferida;
+
+d) «Nacional»:
+
+No caso do Brasil, um brasileiro, tal como definido pela Constituição Federal brasileira;
+
+No caso de Portugal, o cidadão que tenha adquirido a nacionalidade portuguesa por qualquer dos modos previstos na lei portuguesa.
+
+###### Artigo 2.º — Princípios gerais
+
+1 - As Partes comprometem-se a cooperar mutuamente com o objectivo de possibilitar a transferência de uma pessoa condenada no território de uma delas para o território da outra, para nele cumprir ou continuar a cumprir uma condenação que lhe foi imposta por sentença transitada em julgado.
+
+2 - A transferência poderá ser pedida por qualquer das Partes ou pela pessoa condenada.
+
+###### Artigo 3.º — Condições para a transferência
+
+A transferência poderá ter lugar quando:
+
+a) O condenado no território de uma das Partes for nacional ou tiver residência habitual ou vínculo pessoal no território da outra Parte que justifique a transferência;
+
+b) A sentença tiver transitado em julgado;
+
+c) A duração da condenação a cumprir ou que restar para cumprir for de, pelo menos, seis meses, na data de apresentação do pedido ao Estado da condenação;
+
+d) Os factos que originaram a condenação constituírem infracção penal face à lei de ambas as Partes;
+
+e) O condenado ou, quando, em virtude da sua idade ou do seu estado físico ou mental, uma das Partes o considere necessário, o seu representante consentir na transferência;
+
+f) As Partes estiverem de acordo quanto à transferência.
+
+###### Artigo 4.º — Informações
+
+1 - As Partes comprometem-se a informar as pessoas condenadas a quem o presente Tratado possa aplicar-se acerca do seu conteúdo, bem como dos termos em que a transferência se pode efectivar.
+
+2 - A Parte junto à qual a pessoa condenada manifestou o desejo de ser transferida deve informar a outra Parte deste pedido no mais curto prazo possível. Se esse pedido for feito ao Estado de condenação, a informação é acompanhada de indicação da decisão deste quanto à transferência.
+
+3 - A informação referida no número anterior deve conter:
+
+a) Indicação do crime pelo qual a pessoa foi condenada, da duração da pena ou medida aplicada e do tempo já cumprido;
+
+b) Cópia autenticada da sentença;
+
+c) Cópia autenticada do texto das disposições legais aplicadas;
+
+d) Relatório sobre o comportamento prisional;
+
+e) Declaração da pessoa condenada contendo o seu consentimento na transferência;
+
+f) Outros elementos de interesse para a execução da pena.
+
+4 - O Estado para o qual a pessoa deve ser transferida pode solicitar informações complementares que considerar necessárias.
+
+5 - A pessoa condenada será informada da decisão relativa ao pedido de transferência.
+
+###### Artigo 5.º — Autoridades centrais
+
+1 - Para efeitos de recepção e de transmissão dos pedidos de transferência, bem como para todas as comunicações que lhes digam respeito, as Partes designam como autoridades centrais:
+
+a) Pela República Portuguesa: a Procuradoria-Geral da República;
+
+b) Pela República Federativa do Brasil: o Ministério da Justiça.
+
+2 - Os pedidos de transferência são transmitidos directamente entre as autoridades centrais ou por via diplomática.
+
+3 - A decisão de aceitar ou recusar a transferência é comunicada ao Estado que formular o pedido, no mais curto prazo possível.
+
+###### Artigo 6.º — Consentimento
+
+1 - O consentimento é prestado em conformidade com a legislação nacional da Parte onde se encontra a pessoa a transferir.
+
+2 - Ambas as Partes podem assegurar-se de que a pessoa cujo consentimento para a transferência é necessário o preste voluntariamente e com plena consciência das consequências daí decorrentes.
+
+3 - O Estado para o qual a pessoa deva ser transferida pode verificar, por intermédio de um cônsul ou de funcionário, mutuamente aceite, a prestação do consentimento em conformidade com o disposto no número anterior.
+
+###### Artigo 7.º — Transferência
+
+1 - Decidida a transferência, a pessoa condenada é entregue ao Estado onde deva cumprir a condenação em local acordado entre ambas as Partes.
+
+2 - No acto de entrega da pessoa, o Estado da condenação fornece aos agentes do Estado para o qual a pessoa é transferida uma certidão actualizando os elementos a que se refere o n.º 3 do artigo 4.º
+
+###### Artigo 8.º — Efeitos da transferência
+
+1 - A execução da sentença fica suspensa no Estado da condenação logo que as autoridades do Estado para o qual a pessoa for transferida tomem esta a seu cargo.
+
+2 - Cumprida a condenação no Estado para o qual a pessoa foi transferida, o Estado da condenação não pode mais executá-la.
+
+###### Artigo 9.º — Execução
+
+1 - A transferência de qualquer pessoa condenada somente será efectuada se a sentença for exequível no Estado para o qual a pessoa deva ser transferida.
+
+2 - O Estado para o qual a pessoa deve ser transferida não pode:
+
+a) Agravar, aumentar ou prolongar a pena ou a medida aplicada no Estado da condenação, nem privar a pessoa condenada de qualquer direito para além do que resultar da sentença proferida no Estado da condenação;
+
+b) Alterar a matéria de facto constante da sentença proferida no Estado da condenação.
+
+3 - Na execução da pena, observam-se a legislação e os procedimentos do Estado para o qual a pessoa tenha sido transferida.
+
+###### Artigo 10.º — Recurso de revisão
+
+1 - Apenas o Estado da condenação pode julgar um recurso de revisão.
+
+2 - A decisão é comunicada à outra Parte, devendo esta executar as modificações introduzidas na condenação.
+
+###### Artigo 11.º — Cessação do cumprimento da pena
+
+1 - O Estado para o qual a pessoa foi transferida deve pôr fim ao cumprimento da condenação logo que seja informado pelo Estado da condenação de qualquer decisão ou medida que tenha como efeito retirar à condenação o seu carácter executório ou a sua cessação.
+
+2 - A decisão é imediatamente comunicada pelo Estado da condenação.
+
+###### Artigo 12.º — Non bis in idem
+
+A pessoa transferida para o território de uma das Partes não pode ser nele condenada pelos mesmos factos por que tiver sido condenada no território da outra Parte.
+
+###### Artigo 13.º — Informações relativas ao cumprimento da condenação
+
+O Estado para o qual a pessoa tiver sido transferida deve informar o Estado da condenação quando:
+
+a) A condenação tiver sido cumprida ou a pessoa transferida se evadir antes de a ter terminado;
+
+b) O Estado da condenação solicitar informação sobre o cumprimento da pena, incluindo a liberdade condicional e a libertação do condenado.
+
+###### Artigo 14.º — Aplicação no tempo
+
+O presente Tratado aplica-se à execução das condenações aplicadas antes ou depois da sua entrada em vigor.
+
+###### Artigo 15.º — Resolução de dúvidas
+
+As Partes procederão a consultas mútuas para a resolução das dúvidas resultantes da aplicação do presente Tratado.
+
+###### Artigo 16.º — Disposições finais e transitórias
+
+1 - O presente Tratado está sujeito à ratificação.
+
+2 - O Tratado entrará em vigor 30 dias após a troca de instrumentos de ratificação e manter-se-á em vigor enquanto não for denunciado por uma das Partes.
+
+3 - Os efeitos do presente Tratado cessam seis meses após o dia do recebimento da denúncia. Não obstante, as suas disposições continuarão a aplicar-se ao cumprimento das condenações das pessoas que tenham sido transferidas ao seu abrigo.
+
+Assinado em Brasília em 5 de Setembro de 2001, em dois exemplares originais igualmente autênticos, redigidos em língua portuguesa.
+
+Pela República Portuguesa:
+
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/119a00/32073210.pdf)](https://files.diariodarepublica.pt/1s/2003/05/119a00/32073210.pdf)
+
+Pela República Federativa do Brasil:
+
+[[(ver assinatura no documento original)](https://files.diariodarepublica.pt/1s/2003/05/119a00/32073210.pdf)](https://files.diariodarepublica.pt/1s/2003/05/119a00/32073210.pdf)

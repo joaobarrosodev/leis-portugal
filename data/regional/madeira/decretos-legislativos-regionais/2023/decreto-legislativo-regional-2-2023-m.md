@@ -1,0 +1,264 @@
+---
+schema_version: '1.0'
+id: pt:dre:205644590:por
+title: Decreto Legislativo Regional n.º 2/2023/M
+short_title: null
+summary: Adapta à Região Autónoma da Madeira o Estatuto da Agricultura Familiar, aprovado pelo Decreto-Lei n.º 64/2018, de
+  7 de agosto, e alterado pelo Decreto-Lei n.º 81/2021, de 11 de outubro, e estabelece benefícios adicionais aos seus detentores
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 2/2023/M
+official_date: null
+publication_date: '2023-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 2/2023, Série I de 2023-01-03
+  number: '2'
+  series: I
+  supplement: null
+  pages: 34 - 37
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00200/0003400037.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/2/2023/01/03/m/dre/pt/html
+  oj: null
+  dre: '205644590'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/2-2023-205644590
+  internal: pt:dre:205644590:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2023-205644590
+  metadata_url: https://data.dre.pt/eli/declegreg/2/2023/01/03/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2023-205644590
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:42:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 08ce0a27164d67f7ce4ceb4635c56e9996dc8ec973ad3c3d2d05986f50787d82
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Agricultura Biológica
+- Atividade Agrícola
+- Comissão Nacional da Agricultura Familiar
+- Definição de Competências
+- Desenvolvimento Rural
+- Direção Geral de Agricultura e Desenvolvimento Rural
+- Estatuto
+- Exploração Agrícola Familiar
+- Financiamento
+- Governo Regional
+- JURO Bonificado
+- Linha de Crédito
+- Madeira.região Autónoma
+- Mercado Abastecedor
+- Política Agrícola
+relationships:
+- type: cites
+  target: pt:dre:115933868:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/64/2018/08/07/p/dre
+- type: cites
+  target: pt:dre:172604610:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/81/2021/10/11/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:42:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 2/2023/M
+
+Adapta à Região Autónoma da Madeira o Estatuto da Agricultura Familiar, aprovado pelo [Decreto-Lei n.º 64/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2018-115933868), de 7 de agosto, e alterado pelo [Decreto-Lei n.º 81/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), de 11 de outubro, e estabelece benefícios adicionais aos seus detentores
+
+Considerando a importância de que se reveste na Região Autónoma da Madeira a agricultura familiar e as explorações agrícolas de muito pequena dimensão;
+
+Considerando que, de acordo com o mais recente Recenseamento da Agricultura 2019 (RA 2019), censo decenal realizado pelo Instituto Nacional de Estatística, a Região Autónoma da Madeira àquela data detinha 13 534 explorações agrícolas, 98 % das quais geridas por produtores singulares autónomos que, permanente e predominantemente, utilizam a atividade própria ou de pessoas do seu agregado doméstico na sua exploração, com ou sem recurso excecional ao trabalho assalariado;
+
+Considerando que, segundo o mesmo RA 2019, a população familiar agrícola da Região Autónoma da Madeira, ou seja, o conjunto de pessoas que fazem parte do agregado doméstico do produtor quer trabalhem ou não na exploração, rondava as 37 mil, correspondendo a cerca de 14,5 % da população residente naquele ano;
+
+Considerando que o [Decreto-Lei n.º 64/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2018-115933868), de 7 de agosto, alterado pelo [Decreto-Lei n.º 81/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), de 11 de outubro, consagrou o Estatuto da Agricultura Familiar, reconhecendo que as atividades da agricultura, da produção animal, da floresta, da caça, da pesca, bem como as atividades dos serviços que estão diretamente relacionados com a agricultura familiar são determinantes em grande parte do território nacional, assumindo grande relevância na produção, no emprego, na biodiversidade e na preservação do ambiente;
+
+Considerando que, com aquela alteração, o título de reconhecimento do Estatuto é atribuído a pessoa singular titular da exploração agrícola familiar que satisfaça, cumulativamente, os requisitos de ter idade superior a 18 anos, um rendimento coletável do agregado familiar, por sujeito passivo, inferior ou igual ao valor enquadrável no 4.º escalão do imposto do rendimento de pessoas singulares, um rendimento da atividade agrícola igual ou superior a 20 % do total do rendimento coletável, receber um montante de apoios de ajudas da Política Agrícola Comum (PAC), ao rendimento não superior a 5000 (euro); mão de obra familiar igual ou superior a 50 % do total de mão de obra estimada para a exploração e ser titular de exploração agrícola familiar que se situe em prédios rústicos ou mistos identificados no sistema de identificação parcelar do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);
+
+Considerando que as alterações ao Estatuto da Agricultura Familiar, introduzidas ao diploma através do [Decreto-Lei n.º 81/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), de 11 de outubro, continuam a não ter em devida conta a necessária adaptação às especificidades da agricultura familiar da Região Autónoma da Madeira, designadamente, estabelecendo, que nesta, a execução administrativa, incluindo a fiscalização, cabe aos serviços competentes da respetiva administração regional, competindo aos órgãos de governo próprio a definição da regulamentação do procedimento relativo à atribuição do título de reconhecimento do Estatuto da Agricultura Familiar;
+
+Considerando que proceder às adaptações que se tornem necessárias, constitui o ensejo para criar um conjunto de benefícios adicionais aos agricultores que venham a usufruir do Estatuto da Agricultura Familiar, designadamente, a título não oneroso de serviços e bens prestados/fornecidos pelo departamento do Governo Regional com competência em matéria de agricultura e pecuária;
+
+Considerando que, nesta mesma linha, é de possibilitar que as autarquias locais da Região Autónoma da Madeira possam estabelecer, para os detentores do Estatuto da Agricultura Familiar, medidas adicionais de apoio que tenham por convenientes, designadamente, ao nível da promoção dos circuitos curtos de comercialização;
+
+Foram ouvidas a Associação de Municípios da Região Autónoma da Madeira, a Associação de Agricultores da Madeira e a Associação de Jovens Agricultores da Madeira e do Porto Santo.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 228.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º e na alínea g) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma adapta à Região Autónoma da Madeira o [Decreto-Lei n.º 64/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2018-115933868), de 7 de agosto, alterado pelo [Decreto-Lei n.º 81/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), de 11 de outubro, que consagrou o Estatuto da Agricultura Familiar, e estabelece benefícios adicionais aos seus detentores.
+
+###### Artigo 2.º — Definições
+
+Para efeitos de aplicação do presente diploma, entende-se por:
+
+a) «Agregado familiar», os cônjuges, os ascendentes e descendentes na linha reta em 1.º e 2.º grau, os parentes por afinidade, os que vivam em união de facto e os demais a cargo que vivam em situação de economia comum com o titular da exploração agrícola e participem na atividade da exploração de forma regular;
+
+b) «Agricultura familiar», o modo de organização de atividades produtivas, de gestão do ambiente e de suporte da vida social nos territórios rurais, assente numa exploração agrícola familiar;
+
+c) «Exploração agrícola familiar», a exploração agrícola em que a mão de obra familiar, medida em unidade de trabalho ano, representa mais de 50 % da mão de obra total da exploração agrícola;
+
+d) «Mão de obra da exploração agrícola», o trabalho mobilizado na exploração agrícola, com origem na família ou no assalariamento (trabalhadores permanentes, eventuais ou não contratados diretamente pelo produtor);
+
+e) «Mão de obra estimada», a mão de obra obtida por estimativa, considerando o tipo de orientação produtiva da exploração medida através da orientação técnica económica (OTE) e a dimensão da exploração medida através do valor da produção padrão (VPP), de acordo com a tipologia comunitária das explorações agrícolas;
+
+f) «Mão de obra familiar», trabalho realizado pelo titular da exploração agrícola (produtor agrícola) e por membros do seu agregado familiar;
+
+g) «Rendimento coletável», rendimento anual bruto, efetuadas as respetivas deduções específicas;
+
+h) «Titular da exploração agrícola familiar», o proprietário, superficiário, arrendatário ou comodatário cujos prédios rústicos ou mistos estejam registados no Sistema de Identificação Parcelar (iSIP);
+
+i) «Unidade de trabalho ano (UTA)», a unidade de medida da mão de obra correspondente ao trabalho realizado num ano por um trabalhador a tempo inteiro.
+
+###### Artigo 3.º — Adaptação orgânica
+
+As competências atribuídas no [Decreto-Lei n.º 64/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2018-115933868), de 7 de agosto, alterado pelo [Decreto-Lei n.º 81/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), de 11 de outubro, consideram-se reportadas na Região Autónoma da Madeira, ao membro do Governo Regional responsável pela área da agricultura e pecuária, sem prejuízo das competências que de acordo como o mesmo diploma sejam exclusivas dos serviços centrais do ministério correspondente, bem como das competências atribuídas a outro órgão pela legislação em vigor a nível regional.
+
+###### Artigo 4.º — Requisitos para o reconhecimento
+
+O título de reconhecimento do Estatuto da Agricultura Familiar na Região Autónoma da Madeira, adiante designado abreviadamente por Estatuto RAM, é atribuído a pessoa singular titular da exploração agrícola familiar que satisfaça cumulativamente os seguintes requisitos:
+
+a) Tenha idade igual ou superior a 18 anos;
+
+b) Tenha um rendimento coletável inferior ou igual ao valor de 35 vezes a retribuição mínima mensal garantida em vigor na Região Autónoma da Madeira;
+
+c) Tenha um rendimento da atividade agrícola igual ou superior a 20 % do total do rendimento coletável;
+
+d) Receba um montante de apoio não superior a 5000 (euro) (cinco mil euros) decorrente das ajudas do Programa de Operações Específicas para fazer face ao afastamento e insularidade (POSEI-Madeira), no ano anterior ao da apresentação do pedido de reconhecimento;
+
+e) Tenha os prédios rústicos ou mistos de que é titular registados no Sistema de Identificação Parcelar (iSIP);
+
+f) Utilize mão de obra familiar, não remunerada, em percentagem igual ou superior a 50 % do total de mão de obra estimada para a exploração;
+
+g) Possua domicílio fiscal na Região Autónoma da Madeira.
+
+###### Artigo 5.º — Direitos da agricultura familiar
+
+1 - Sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 64/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2018-115933868), de 7 de agosto, alterado pelo [Decreto-Lei n.º 81/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), de 11 de outubro, a atribuição do título de reconhecimento do Estatuto RAM concede aos seus detentores:
+
+a) O aconselhamento técnico especializado prioritário e gratuito nas áreas da agronomia e produção pecuária, incluindo em Produção Integrada, e em Modo de Produção Biológico;
+
+b) Ao fornecimento gratuito de plantas de frutícolas e hortícolas produzidas nos viveiros da rede públicos;
+
+c) A prestação gratuita de serviços de mecanização agrícola;
+
+d) Ao fornecimento gratuito de animais para recria das espécies bovina e ovina produzidos na Estação Zootécnica da Madeira e Polo de Ovinicultura da Madeira;
+
+e) A cedência a título gratuito de composto orgânico da Estação Zootécnica da Madeira e do Polo de Ovinicultura da Madeira;
+
+f) A isenção do pagamento dos serviços laboratoriais de análises de terras e fitopatológicas;
+
+g) A isenção do pagamento das taxas relativas aos serviços de podas, enxertias e crestas;
+
+h) A emissão gratuita do cartão de aplicador de produtos fitofarmacêuticos;
+
+i) A assessoria técnica gratuita, agronómica ou zootécnica, na elaboração e acompanhamento de projetos a candidatar às medidas de apoio cofinanciadas por fundos europeus ao investimento nas explorações agrícolas;
+
+j) A prestação gratuita, e prioridade no acesso aos serviços de recolha, processamento, conservação frigorífica, acondicionamento e entrega de produções hortofrutícolas, prestados pelos estabelecimentos da Rede de Centros de Abastecimento Agrícola da RAM - Rede CA;
+
+k) O acesso gratuito e prioritário aos Mercados de Agricultores da Região Autónoma da Madeira;
+
+l) O acesso gratuito e prioritário ao Centro de Abastecimento de Produtos Agrícolas do Funchal (CAPA) - Mercado Abastecedor do Funchal;
+
+m) A isenção das taxas por serviços de conservação frigorífica de hortofrutícolas prestados pelo CAPA;
+
+n) A isenção das taxas relativas a análises de resíduos de pesticidas;
+
+o) A disponibilização gratuita de selos de autenticação numerados da marca «Produto da Madeira» e das suas versões;
+
+p) O acesso diferenciado a outras medidas de apoio às atividades agrícola e pecuária, financiadas exclusivamente pelo orçamento da Região Autónoma da Madeira.
+
+2 - Os direitos atribuídos no número anterior serão regulamentados, consoante o caso, por portaria do membro do Governo Regional responsável pela área da agricultura e pecuária e ou dos membros do Governo Regional responsáveis pelas áreas das finanças e da agricultura e pecuária.
+
+###### Artigo 6.º — Autarquias locais
+
+As autarquias locais da Região Autónoma da Madeira podem estabelecer para os detentores do Estatuto RAM, medidas adicionais de apoio que tenham por convenientes, designadamente, ao nível da promoção dos circuitos curtos de comercialização.
+
+###### Artigo 7.º — Procedimento de reconhecimento
+
+1 - O procedimento relativo à atribuição do título de reconhecimento e controlo do Estatuto RAM, bem como as condições da sua manutenção, são regulamentados por portaria do membro do Governo Regional responsável pela área da agricultura e pecuária.
+
+2 - O departamento do Governo Regional responsável pela área da agricultura e pecuária, comunica à Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e à Comissão Nacional da Agricultura Familiar (CNAF) as atribuições, as renovações e as revogações dos títulos de reconhecimento do Estatuto RAM, que venham a ser decididos.
+
+###### Artigo 8.º — Integração, promoção e divulgação do Estatuto RAM
+
+1 - Os departamentos do Governo Regional responsáveis pelas áreas relacionadas com as medidas constantes do presente diploma devem promover a sua adequada implementação.
+
+2 - As entidades regionais gestoras de programas ou iniciativas de apoio, nacionais ou comunitários, devem integrar o Estatuto RAM, nos respetivos programas ou iniciativas.
+
+3 - As entidades referidas no número anterior procedem à divulgação das medidas destinadas aos titulares do Estatuto RAM.
+
+###### Artigo 9.º — Entrada em vigor
+
+O presente diploma entra em vigor 90 dias após a data da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de dezembro de 2022.
+
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+Assinado em 28 de dezembro de 2022.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116014901

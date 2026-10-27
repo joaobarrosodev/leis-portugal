@@ -1,0 +1,587 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R0683:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0683-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2008-07-24",
+   "future": false,
+   "celex": "32008R0683",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e54132b5ea20d7bb",
+    "226c39ffd0a88dad",
+    "893ad05d17035945",
+    "e350b7cb5478822a",
+    "dd6383d175981d1b",
+    "388ac1552e6bcfb1",
+    "b114f58793d40d0b",
+    "45fdb02e29a122a2",
+    "503e522df247ef2e",
+    "8f3447bfe94c9a11",
+    "e492d23a5e122566",
+    "f0f8c960bfdbce9b",
+    "7d176e3dae7404cf",
+    "a60d97a481b8fb70",
+    "6de6fcdd8373a121",
+    "b12a6aa778391f55",
+    "1e7a0903d2eed348",
+    "e532e7f39a2707d3",
+    "16418aa7edc5c796",
+    "b0015049d6f5ec42",
+    "b2f43f36b86432b6",
+    "2cf4f760adf4b57f",
+    "17c461e105c734af",
+    "6881d14c5b81878f",
+    "d348ec86fba49297",
+    "539948260e2b41bf",
+    "e3bc949a26ba234a",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "7b091fa1eec0498e",
+    "fd3bebcc9790125c",
+    "9ad82de3c33987ae",
+    "542dd91d03824c1e",
+    "d7fa8472fcc8a44d"
+   ]
+  },
+  {
+   "date": "2010-11-09",
+   "future": false,
+   "celex": "02008R0683-20101109",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0912:por",
+     "title": "REGULAMENTO (UE) N. o 912/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2010",
+     "published": null,
+     "celex": "32010R0912"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 12.º — Quadro geral da governação dos programas",
+    "Altera Artigo 13.º — Governação das questões de segurança",
+    "Altera Artigo 14.º — Aplicação das regras de segurança",
+    "Altera Artigo 19.º — Procedimento de comité",
+    "Altera Artigo 21.º — Protecção dos interesses financeiros da Comunidade",
+    "Altera Artigo 23.º — Revogação",
+    "Altera Artigo 24.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 16.º — Papel da [►M1](http://publications.europa.eu/resource/celex/32010R0912) Agência do GNSS Europeu◄",
+    "Adita ANEXO",
+    "Adita OBJECTIVOS ESPECÍFICOS DOS PROGRAMAS EUROPEUS DE NAVEGAÇÃO POR SATÉLITE",
+    "Adita DECLARAÇÃO COMUM",
+    "Adita do Parlamento Europeu, do Conselho e da Comissão",
+    "Adita sobre o",
+    "Adita «PAINEL INTERINSTITUCIONAL GALILEO»",
+    "Suprime Artigo 16.º — Papel da Autoridade Supervisora do GNSS Europeu"
+   ],
+   "fragments": [
+    "e7c4cb0063239e88",
+    "226c39ffd0a88dad",
+    "893ad05d17035945",
+    "e350b7cb5478822a",
+    "dd6383d175981d1b",
+    "388ac1552e6bcfb1",
+    "b114f58793d40d0b",
+    "45fdb02e29a122a2",
+    "503e522df247ef2e",
+    "8f3447bfe94c9a11",
+    "e492d23a5e122566",
+    "f0f8c960bfdbce9b",
+    "7d176e3dae7404cf",
+    "a60d97a481b8fb70",
+    "6de6fcdd8373a121",
+    "b12a6aa778391f55",
+    "1e7a0903d2eed348",
+    "e532e7f39a2707d3",
+    "bdb6c19b19ae887e",
+    "c86edace5e571225",
+    "ede8597cb6a71bc8",
+    "2cf4f760adf4b57f",
+    "bed394f5b9742121",
+    "6881d14c5b81878f",
+    "d348ec86fba49297",
+    "7546fdc553cf30f8",
+    "e3bc949a26ba234a",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "1db2b9b106dd6fe3",
+    "fd3bebcc9790125c",
+    "2b3580bc78070579",
+    "9cbd262440b3eb9f",
+    "10220b9774fa9034",
+    "4026e74c4225ae94",
+    "db454e54bb8f0f36",
+    "39934c01e7531de2",
+    "6e858ce4dd9c392c",
+    "ff4ee09563cef878",
+    "27b3f2670d2d2d4c"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02008R0683-20140101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTO E PRINCÍPIOS GERAIS",
+    "Suprime Artigo 1.º — Sistemas e programas europeus de navegação por satélite",
+    "Suprime Artigo 2.º — Objecto",
+    "Suprime Artigo 3.º — Fases do programa Galileo",
+    "Suprime Artigo 4.º — Financiamento do programa Galileo",
+    "Suprime Artigo 5.º — Exploração do sistema EGNOS",
+    "Suprime Artigo 6.º — Financiamento da exploração do sistema EGNOS",
+    "Suprime Artigo 7.º — Compatibilidade e interoperabilidade dos sistemas",
+    "Suprime Artigo 8.º — Propriedade",
+    "Suprime CAPÍTULO II",
+    "Suprime CONTRIBUIÇÃO E MECANISMOS ORÇAMENTAIS",
+    "Suprime Artigo 9.º — Actividades em causa",
+    "Suprime Artigo 10.º — Recursos orçamentais",
+    "Suprime Artigo 11.º — Receitas de exploração",
+    "Suprime CAPÍTULO III",
+    "Suprime GOVERNAÇÃO PÚBLICA DOS PROGRAMAS",
+    "Suprime Artigo 12.º — Quadro geral da governação dos programas",
+    "Suprime Artigo 13.º — Governação das questões de segurança",
+    "Suprime Artigo 14.º — Aplicação das regras de segurança",
+    "Suprime Artigo 15.º — Programação",
+    "Suprime Artigo 16.º — Papel da [►M1](http://publications.europa.eu/resource/celex/32010R0912) Agência do GNSS Europeu◄",
+    "Suprime Artigo 17.º — Princípios relativos aos contratos aplicáveis à fase de implantação do programa Galileo",
+    "Suprime Artigo 18.º — Papel da Agência Espacial Europeia",
+    "Suprime Artigo 19.º — Procedimento de comité",
+    "Suprime Artigo 20.º — Protecção dos dados pessoais e da vida privada",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 21.º — Protecção dos interesses financeiros da Comunidade",
+    "Suprime Artigo 22.º — Informação do Parlamento Europeu e do Conselho",
+    "Suprime Artigo 23.º — Revogação",
+    "Suprime Artigo 24.º — Entrada em vigor",
+    "Suprime ANEXO",
+    "Suprime OBJECTIVOS ESPECÍFICOS DOS PROGRAMAS EUROPEUS DE NAVEGAÇÃO POR SATÉLITE",
+    "Suprime DECLARAÇÃO COMUM",
+    "Suprime do Parlamento Europeu, do Conselho e da Comissão",
+    "Suprime sobre o",
+    "Suprime «PAINEL INTERINSTITUCIONAL GALILEO»",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4b6cb434b5e6d661"
+   ]
+  }
+ ],
+ "fragments": {
+  "e54132b5ea20d7bb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Julho de 2008\n\nrelativo ao prosseguimento da execução dos programas europeus de navegação por satélite (EGNOS e Galileo)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 156.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr1-L_2008196PT.01000101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr2-L_2008196PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) A política europeia de navegação por satélite tem por objectivo dotar a Comunidade Europeia de dois sistemas de navegação por satélite (a seguir designados «os sistemas»). Estes sistemas são instaurados pelos programas EGNOS e Galileo (a seguir designados «os programas»). Cada infra-estrutura compreende satélites e uma rede de estações terrestres.\n\n(2) O programa Galileo tem por objectivo criar a primeira infra-estrutura mundial de navegação e localização por satélite especificamente concebida para fins civis. O sistema resultante do programa Galileo é totalmente independente de quaisquer outros sistemas existentes ou que possam vir a ser criados.\n\n(3) O programa EGNOS tem por objectivo melhorar a qualidade dos sinais dos sistemas mundiais de navegação por satélite (a seguir designados «GNSS») existentes.\n\n(4) O Parlamento Europeu, o Conselho e o Comité Económico e Social Europeu sempre deram um apoio sem reservas aos programas.\n\n(5) O desenvolvimento da navegação por satélite enquadra-se plenamente na estratégia de Lisboa e noutras políticas comunitárias, como a dos transportes, definida no livro branco da Comissão de 12 de Setembro de 2001 intitulado «A política europeia de transportes no horizonte 2010: a hora das opções». No seu programa de trabalho, a Comissão deverá, se for caso disso, dar especial atenção ao desenvolvimento das aplicações e dos serviços GNSS.\n\n(6) Os programas constituem um dos projectos prioritários seleccionados no âmbito do Programa de Acção de Lisboa para o Crescimento e o Emprego proposto pela Comissão e avalizado pelo Conselho Europeu. São igualmente considerados como um dos principais pilares do futuro programa espacial europeu, mencionado na Comunicação da Comissão de 26 de Abril de 2007 sobre a política espacial europeia.\n\n(7) O programa Galileo compreende uma fase de definição, uma fase de desenvolvimento e validação, uma fase de implantação e uma fase de exploração. A fase de implantação deverá começar em 2008 e terminar em 2013. O sistema deverá estar operacional em 2013.\n\n(8) A fase de definição e a fase de desenvolvimento e validação do programa Galileo, que constituem as fases do programa consagradas à investigação, foram financiadas numa percentagem significativa pelo orçamento comunitário das redes transeuropeias e pela Agência Espacial Europeia (a seguir designada «AEE»). A fase de implantação deverá, em princípio, ser integralmente financiada pela Comunidade. Mais tarde poderá ser decidido que, para a exploração, manutenção, aperfeiçoamento e renovação do sistema após 2013, são adequadas parcerias público-privadas ou quaisquer outras formas de contratos com entidades do sector privado.\n\n(9) O Centro de Segurança da Vida em Madrid poderá evoluir para um Centro de Controlo de Satélites Galileo, plenamente qualificado e equivalente, cujos activos serão propriedade da Comunidade. O investimento necessário para esta transformação não comportará custos adicionais aos que foram acordados no orçamento comunitário para os programas no período 2007-2013. Nesse caso, e sem que sejam afectadas as capacidades operacionais dos Centros de Controlo de Satélites Galileo de Oberpfaffenhofen e Fucino, a Comissão assegurará que, desde que possa preencher todos os requisitos aplicáveis a todos os centros, o Centro em Madrid seja inteiramente qualificado em termos operacionais como um Centro de Controlo de Satélites Galileo até ao final de 2013 e incluído na rede Galileo juntamente com os dois centros acima referidos.\n\n(10) É importante que o financiamento do sistema EGNOS, incluindo as suas exploração, sustentabilidade e comercialização, seja garantido pela Comunidade. A exploração do EGNOS poderá ser objecto de um ou mais contratos públicos de serviços, em especial com entidades do sector privado, até à sua integração na exploração do Galileo.\n\n(11) Tendo os programas já atingido um estádio avançado de maturidade, ultrapassando largamente o âmbito de simples projectos de investigação, é necessário dotá-los de uma base jurídica específica, mais capaz de satisfazer as suas necessidades e de responder à exigência de uma boa gestão financeira.\n\n(12) Os sistemas criados no âmbito dos programas são infra-estruturas estabelecidas como redes transeuropeias cuja utilização ultrapassa largamente as fronteiras nacionais dos Estados-Membros. Além disso, os serviços prestados ao abrigo destes sistemas contribuem, em especial, para o desenvolvimento das redes transeuropeias no domínio das infra-estruturas de transportes, telecomunicações e energia.\n\n(13) A boa governação pública dos programas Galileo e EGNOS implica, por um lado, que exista uma clara repartição de competências entre a Comissão, a Autoridade Europeia Supervisora do GNSS (a seguir designada «Autoridade») e a AEE, e, por outro, que a Comunidade, representada pela Comissão, assegure a gestão dos programas. A Comissão deverá criar os instrumentos adequados e dispor dos recursos necessários, nomeadamente no que respeita à assistência requerida.\n\n(14) Tendo em conta a importância, a especificidade e a complexidade dos programas, e considerando que os sistemas resultantes dos programas são propriedade da Comunidade e que no período de 2008-2013 os programas serão integralmente financiados pelo orçamento comunitário, o Parlamento Europeu, o Conselho e a Comissão reconhecem a utilidade de uma estreita cooperação entre as três instituições. Para o efeito, o Parlamento Europeu, o Conselho e a Comissão reunir-se-ão no âmbito do Painel Interinstitucional Galileo, nos termos da declaração conjunta sobre o Painel Interinstitucional Galileo de 9 de Julho de 2008.\n\n(15) O Regulamento (CE) n.º 1321/2004 do Conselho, de 12 de Julho de 2004, relativo às estruturas de gestão dos programas europeus de radionavegação por satélite [([^3])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr3-L_2008196PT.01000101-E0003), criou a Autoridade. A Autoridade é uma agência comunitária que, na sua qualidade de organismo na acepção do artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^4])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr4-L_2008196PT.01000101-E0004) (a seguir designado «Regulamento Financeiro»), está sujeita às obrigações que impendem sobre as agências comunitárias.\n\n(16) Sem prejuízo do papel da Comissão de gestora dos programas e nos termos das orientações dadas pela Comissão, a Autoridade deverá assegurar a acreditação de segurança do sistema e a exploração do Centro de Segurança Galileo e contribuir para a preparação da comercialização dos sistemas tendo em vista garantir um bom funcionamento, a prestação ininterrupta do serviço e uma elevada taxa de penetração no mercado. Além disso, a Autoridade deverá também realizar outras tarefas que possam ser-lhe confiadas pela Comissão ao abrigo do Regulamento Financeiro, em particular promover aplicações e serviços e garantir a certificação dos componentes dos sistemas.\n\n(17) O Parlamento Europeu e o Conselho convidam a Comissão a apresentar uma proposta destinada a adaptar formalmente as estruturas de gestão dos programas previstas no Regulamento (CE) n.º 1321/2004 às novas funções da Comissão e da Autoridade.\n\n(18) Para garantir o seu prosseguimento, é necessário estabelecer um quadro financeiro e jurídico adequado que permita à Comunidade continuar a financiar os programas. Convém igualmente indicar o montante requerido, entre 1 de Janeiro de 2007 e 31 de Dezembro de 2013, para o financiamento da parte restante da fase de desenvolvimento e validação e da fase de implantação do Galileo, da exploração do EGNOS e da preparação para a fase de exploração dos programas.\n\n(19) O Parlamento Europeu e o Conselho decidiram que o montante total estimado para custos de exploração dos sistemas Galileo e EGNOS no período de 2007-2013 é de 3 405 milhões de EUR. Foram inicialmente previstos no quadro financeiro plurianual (2007-2013)1 005 milhões de EUR. Este montante foi acrescido de 2 000 milhões de EUR [([^5])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr5-L_2008196PT.01000101-E0005). Além disso, foi disponibilizado um montante de 400 milhões de EUR proveniente do Sétimo Programa-Quadro da Comunidade Europeia de actividades em matéria de investigação, desenvolvimento tecnológico e demonstração (2007-2013) [([^6])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr6-L_2008196PT.01000101-E0006) (a seguir designado «Sétimo Programa-Quadro»), ascendendo portanto a 3 405 milhões de EUR o orçamento total disponível para os programas no período de 2007-2013.\n\n(20) Na afectação destes fundos comunitários, são essenciais procedimentos e negociações de contratos eficazes que proporcionem a melhor relação custo-benefício e garantam a conclusão com bons resultados, a continuidade dos programas, a gestão dos riscos e o cumprimento do calendário proposto. Estes aspectos deverão ser assegurados pela Comissão.\n\n(21) Nos termos do Regulamento Financeiro, os Estados-Membros, os países terceiros e as organizações internacionais deverão poder contribuir financeiramente ou em espécie para os programas, com base em acordos apropriados.\n\n(22) Convém assinalar que os custos dos investimentos e os custos de exploração dos sistemas Galileo e EGNOS actualmente avaliados para o período 2007-2013 não têm em conta as obrigações financeiras imprevistas que a Comunidade poderá ter de suportar, nomeadamente as associadas ao regime de responsabilidade extracontratual decorrente do carácter público da propriedade dos sistemas, em especial por motivos de força maior ou de uma avaria catastrófica.\n\n(23) As receitas da exploração dos sistemas Galileo e EGNOS, provenientes, em especial, do serviço comercial do sistema instalado ao abrigo do programa Galileo, deverão reverter em favor da Comunidade, para garantir a recuperação dos investimentos previamente efectuados. No entanto, deverá ser possível estabelecer um mecanismo de partilha de receitas em contratos celebrados com entidades do sector privado.\n\n(24) A Comunidade deverá celebrar um acordo de delegação plurianual com a AEE que abranja os aspectos técnicos e de planeamento dos programas. Para que a Comissão, enquanto representante da Comunidade, possa exercer plenamente o seu poder de controlo, o acordo de delegação deverá fixar as condições gerais de gestão dos fundos confiados à AEE.\n\n(25) Dado que os programas serão financiados pela Comunidade, os contratos públicos celebrados no âmbito dos programas deverão obedecer às regras comunitárias aplicáveis aos contratos públicos e, sobretudo, visar uma boa relação custo-benefício, o controlo dos custos, a atenuação dos riscos, uma maior eficiência e a redução da dependência de um fornecedor único. Em todos os Estados-Membros, deverão ser prosseguidos os objectivos do acesso livre e da concorrência equitativa na cadeia de fornecimento industrial, com a oferta de possibilidades equilibradas de participação da indústria a todos os níveis, incluindo, em particular, as pequenas e médias empresas (PME). Deverão evitar-se eventuais abusos de dominância e a dependência a longo prazo de fornecedores únicos. Para atenuar os riscos do programa, evitar a dependência de fornecedores únicos e assegurar um melhor controlo global dos programas e dos respectivos custos e calendário, deverá enveredar-se pela dupla fonte, sempre que tal seja adequado. A indústria europeia deverá ter a possibilidade de recorrer a fontes não europeias para certos componentes e serviços caso se comprove a existência de vantagens significativas em termos de qualidade e de custos, tendo-se em conta, no entanto, a natureza estratégica dos programas e a necessidade de segurança e de controlo das exportações da União Europeia. Deverá tirar-se partido dos investimentos do sector público e da experiência e competências industriais, nomeadamente as adquiridas nas fases de definição e desenvolvimento e validação dos programas, garantindo simultaneamente que as normas aplicáveis aos concursos não sejam postas em causa.\n\n(26) Todos os pacotes de trabalho no âmbito das actividades da fase de implantação do Galileo deverão ser abertos à máxima concorrência possível, em consonância com os princípios da União Europeia aplicáveis aos contratos. Para garantir uma contratação satisfatória, os pacotes de trabalho deverão ser amplamente abertos a novos intervenientes e às PME, assegurando-se simultaneamente a excelência tecnológica e a eficácia em termos de custos.\n\n(27) Dado que a preocupação com uma boa governação pública implica a uniformidade da gestão dos programas, uma maior rapidez na tomada de decisões e a igualdade no acesso às informações, os representantes da Autoridade e da AEE podem ser associados aos trabalhos do Comité dos Programas GNSS Europeus (a seguir designado «Comité») criado para assistir a Comissão.\n\n(28) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^7])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr7-L_2008196PT.01000101-E0007).\n\n(29) Em especial, deverá ser atribuída competência à Comissão para aprovar as medidas necessárias para garantir a compatibilidade e a interoperabilidade dos sistemas. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento, completando-o mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(30) A Comunidade deverá ser a proprietária de todos os activos corpóreos e incorpóreos criados ou desenvolvidos no âmbito dos programas. A fim de respeitar plenamente eventuais direitos fundamentais relacionados com a propriedade, deverão ser celebrados com os proprietários existentes quaisquer acordos que se revelem adequados.\n\n(31) Deverá ser dada particular atenção à certificação do EGNOS para todos os modos de transporte, em especial a aviação, para declarar o sistema operacional e permitir a sua utilização logo que possível.\n\n(32) O presente regulamento estabelece, para o prosseguimento dos programas, um enquadramento financeiro que constitui para a Autoridade Orçamental a referência privilegiada, na acepção do ponto 37 do Acordo Interinstitucional de 17 de Maio de 2006 sobre a disciplina orçamental e a boa gestão financeira, no decurso do processo orçamental anual.\n\n(33) Atendendo a que o objectivo do presente regulamento, a saber, a implantação de sistemas de navegação por satélite, não pode ser suficientemente realizado pelos Estados-Membros, dado que ultrapassa as capacidades financeiras e técnicas de qualquer Estado-Membro agindo individualmente, e pode, pois, ser mais bem alcançado a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade, consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objectivo.\n\n(34) É necessário assegurar que o Parlamento Europeu e o Conselho sejam regularmente informados sobre a execução dos programas,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "893ad05d17035945": {
+   "fragment_id": "OBJECTO E PRINCÍPIOS GERAIS",
+   "type": "divisao",
+   "heading": "OBJECTO E PRINCÍPIOS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E PRINCÍPIOS GERAIS"
+  },
+  "e350b7cb5478822a": {
+   "fragment_id": "Artigo 1.º — Sistemas e programas europeus de navegação por satélite",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Sistemas e programas europeus de navegação por satélite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Sistemas e programas europeus de navegação por satélite\n\n1. Os programas EGNOS e Galileo compreendem todas as actividades necessárias para definir, desenvolver, validar, construir, explorar, renovar e melhorar os dois sistemas europeus de navegação por satélite, ou seja, o sistema EGNOS e o sistema resultante do programa Galileo.\n\n2. O sistema EGNOS é uma infra-estrutura que controla e corrige os sinais emitidos pelos sistemas globais de navegação por satélite existentes. Compreende estações terrestres e vários transpondedores instalados em satélites geoestacionários.\n\n3. O sistema resultante do programa Galileo é uma infra-estrutura autónoma de navegação global por satélite (GNSS), composta por uma constelação de satélites e uma rede mundial de estações terrestres.\n\n4. Os objectivos específicos dos programas constam do anexo."
+  },
+  "dd6383d175981d1b": {
+   "fragment_id": "Artigo 2.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\nO presente regulamento estabelece as regras aplicáveis à continuação da execução dos programas, incluindo as regras relativas à governação e à contribuição financeira da Comunidade."
+  },
+  "388ac1552e6bcfb1": {
+   "fragment_id": "Artigo 3.º — Fases do programa Galileo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Fases do programa Galileo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fases do programa Galileo\n\nO programa Galileo comporta as seguintes fases:\n\na) Uma fase de definição, durante a qual foi concebida a estrutura do sistema e foram determinadas as suas componentes, que terminou em 2001;\n\nb) Uma fase de desenvolvimento e validação, que compreende a construção e o lançamento dos primeiros satélites, a instalação das primeiras infra-estruturas no solo e todos os trabalhos e operações necessários para a validação do sistema em órbita. O objectivo é que esta fase termine em 2010;\n\nc) Uma fase de implantação, que compreende a instalação das diversas infra-estruturas espaciais e terrestres, assim como as operações a ela associadas. O objectivo é que esta fase decorra de 2008 a 2013. Deve incluir os preparativos para a fase de exploração;\n\nd) Uma fase de exploração, que compreende a gestão da infra-estrutura, a manutenção, o aperfeiçoamento constante e a renovação do sistema, as operações de certificação e de normalização relacionadas com o programa, a comercialização do sistema e todas as outras actividades necessárias ao desenvolvimento do sistema e ao bom desenrolar do programa. A fase de exploração deve começar, no máximo, aquando da conclusão da fase de implantação."
+  },
+  "b114f58793d40d0b": {
+   "fragment_id": "Artigo 4.º — Financiamento do programa Galileo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Financiamento do programa Galileo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Financiamento do programa Galileo\n\n1. A fase de desenvolvimento e validação é financiada pela Comunidade e pela AEE.\n\n2. A fase de implantação é financiada pela Comunidade, sem prejuízo dos n.^os^ 4 e 5.\n\n3. Em 2010, a Comissão apresenta, se adequado, ao Parlamento Europeu e ao Conselho, juntamente com o seu relatório intercalar, uma proposta relativa às autorizações e fundos públicos necessários para o período de programação financeira que começa em 2014 e que abranja igualmente quaisquer obrigações financeiras relativas à fase de exploração decorrentes da sua responsabilidade em relação à propriedade pública do sistema, o mecanismo de partilha de receitas para a fase de exploração e os objectivos para uma política de preços que garanta que os consumidores recebam serviços de elevada qualidade a preços razoáveis. Essa proposta deve incluir, designadamente, um estudo de viabilidade fundamentado das vantagens e inconvenientes da celebração de contratos de concessão de serviços ou de contratos públicos de serviços com o sector privado.\n\nSe possível, a Comissão propõe também, juntamente com o seu relatório intercalar, quaisquer medidas adequadas para facilitar o desenvolvimento de aplicações e serviços de navegação por satélite.\n\n4. Os Estados-Membros podem proceder ao financiamento complementar do programa Galileo para cobrir o investimento necessário à evolução no sentido da arquitectura acordada para o sistema em casos específicos. As receitas provenientes dessas contribuições constituem receitas afectadas na acepção do n.º 2 do artigo 18.º do Regulamento Financeiro. De acordo com o princípio da gestão transparente, a Comissão comunica ao Comité as eventuais repercussões que a aplicação do presente número possa ter no programa Galileo.\n\n5. Podem igualmente participar no financiamento complementar do programa Galileo países terceiros e organizações internacionais. Os acordos celebrados pela Comunidade com estas entidades nos termos do artigo 300.º do Tratado fixam as condições e as regras pormenorizadas da respectiva participação."
+  },
+  "45fdb02e29a122a2": {
+   "fragment_id": "Artigo 5.º — Exploração do sistema EGNOS",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Exploração do sistema EGNOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exploração do sistema EGNOS\n\nA exploração do sistema EGNOS consiste essencialmente na gestão da infra-estrutura, na manutenção, no aperfeiçoamento constante e na renovação do sistema, nas operações de certificação e de normalização associadas ao programa e na comercialização."
+  },
+  "503e522df247ef2e": {
+   "fragment_id": "Artigo 6.º — Financiamento da exploração do sistema EGNOS",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Financiamento da exploração do sistema EGNOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento da exploração do sistema EGNOS\n\n1. A Comunidade assegura o financiamento da exploração do EGNOS, sem prejuízo de eventuais contribuições provenientes de quaisquer outras fontes, incluindo as referidas nos n.^os^ 3 e 4.\n\n2. A exploração do EGNOS deve ser objecto, numa primeira fase, de um ou mais contratos públicos de serviços.\n\n3. Os Estados-Membros podem proceder ao financiamento complementar do programa EGNOS. As receitas provenientes dessas contribuições constituem receitas afectadas na acepção do n.º 2 do artigo 18.º do Regulamento Financeiro.\n\n4. Podem igualmente participar no financiamento complementar do programa EGNOS países terceiros e organizações internacionais. Os acordos celebrados pela Comunidade com estas entidades nos termos do artigo 300.º do Tratado fixam as condições e regras pormenorizadas da respectiva participação."
+  },
+  "8f3447bfe94c9a11": {
+   "fragment_id": "Artigo 7.º — Compatibilidade e interoperabilidade dos sistemas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Compatibilidade e interoperabilidade dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Compatibilidade e interoperabilidade dos sistemas\n\n1. A Comissão envida todos os esforços para garantir a compatibilidade e interoperabilidade dos sistemas, redes e serviços EGNOS e Galileo e procura retirar os benefícios da compatibilidade e interoperabilidade de EGNOS e Galileo com outros sistemas de navegação e, se possível, com os meios de navegação convencionais.\n\n2. As medidas necessárias para esse fim, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 5 do artigo 19.º."
+  },
+  "e492d23a5e122566": {
+   "fragment_id": "Artigo 8.º — Propriedade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Propriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Propriedade\n\nA Comunidade é proprietária de todos os activos corpóreos e incorpóreos criados ou desenvolvidos no âmbito dos programas. Pare este efeito, são celebrados com terceiros, se for caso disso, acordos relativos aos direitos de propriedade existentes."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "7d176e3dae7404cf": {
+   "fragment_id": "CONTRIBUIÇÃO E MECANISMOS ORÇAMENTAIS",
+   "type": "divisao",
+   "heading": "CONTRIBUIÇÃO E MECANISMOS ORÇAMENTAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTRIBUIÇÃO E MECANISMOS ORÇAMENTAIS"
+  },
+  "a60d97a481b8fb70": {
+   "fragment_id": "Artigo 9.º — Actividades em causa",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Actividades em causa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Actividades em causa\n\n1. As dotações orçamentais comunitárias atribuídas aos programas ao abrigo do presente regulamento têm por objectivo financiar:\n\na) As actividades associadas à conclusão da fase de desenvolvimento e validação do programa Galileo;\n\nb) As actividades associadas à fase de implantação do programa Galileo, incluindo as acções de gestão e de acompanhamento desta fase;\n\nc) As actividades associadas à exploração do EGNOS e as acções prévias ou preparatórias da fase de exploração dos programas.\n\n2. A fim de permitir uma identificação clara dos custos dos programas e das suas diferentes fases, a Comissão, de acordo com o princípio da gestão transparente, informa anualmente o Comité sobre a afectação de fundos comunitários a cada uma das actividades enumeradas no n.º 1."
+  },
+  "6de6fcdd8373a121": {
+   "fragment_id": "Artigo 10.º — Recursos orçamentais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Recursos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Recursos orçamentais\n\n1. O montante afectado à execução das actividades enumeradas no artigo 9.º é de 3 405 milhões de EUR para o período compreendido entre 1 de Janeiro de 2007 e 31 de Dezembro de 2013. Este montante inclui 400 milhões de EUR disponibilizados a título do Sétimo Programa-Quadro.\n\n2. As dotações são autorizadas anualmente pela Autoridade Orçamental no limite do quadro financeiro plurianual. São executadas de acordo com o disposto no Regulamento Financeiro.\n\n3. As autorizações orçamentais relativas aos programas são efectuadas por fracções anuais."
+  },
+  "b12a6aa778391f55": {
+   "fragment_id": "Artigo 11.º — Receitas de exploração",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Receitas de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Receitas de exploração\n\n1. As receitas da exploração dos sistemas revertem a favor da Comunidade e são transferidas para o orçamento comunitário e afectadas aos programas. Se o volume das receitas se revelar maior do que o necessário para os programas, qualquer adaptação do princípio da afectação deve ser submetida à aprovação da autoridade orçamental com base numa proposta da Comissão.\n\n2. Pode ser previsto nos contratos celebrados com entidades do sector privado um mecanismo de partilha de receitas."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "e532e7f39a2707d3": {
+   "fragment_id": "GOVERNAÇÃO PÚBLICA DOS PROGRAMAS",
+   "type": "divisao",
+   "heading": "GOVERNAÇÃO PÚBLICA DOS PROGRAMAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GOVERNAÇÃO PÚBLICA DOS PROGRAMAS"
+  },
+  "16418aa7edc5c796": {
+   "fragment_id": "Artigo 12.º — Quadro geral da governação dos programas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Quadro geral da governação dos programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Quadro geral da governação dos programas\n\n1. A governação pública dos programas assenta no princípio da estrita repartição de competências entre a Comunidade, representada pela Comissão, a Autoridade e a AEE.\n\n2. A Comissão, assistida pelo Comité, é responsável pela gestão dos programas, que conduz de forma transparente. A Comissão deve evitar a duplicação de estruturas e funções, através de uma clara repartição de competências com a Autoridade e a AEE. Pode recorrer à assistência de peritos dos Estados-Membros e procede a auditorias de carácter financeiro e técnico.\n\n3. A Comissão cria os instrumentos adequados, incluindo a execução de uma gestão de riscos integrada a todos os níveis dos programas e medidas estruturais para identificar, controlar, atenuar e acompanhar os riscos, e dota-se dos recursos necessários para desempenhar estas funções. Para o efeito, a Comissão estabelece, pelo procedimento consultivo a que se refere o n.º 2 do artigo 19.º, os estádios de decisão determinantes para a avaliação da execução dos programas."
+  },
+  "b0015049d6f5ec42": {
+   "fragment_id": "Artigo 13.º — Governação das questões de segurança",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Governação das questões de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Governação das questões de segurança\n\n1. A Comissão gere todas as questões relacionadas com a segurança dos sistemas, tendo na devida conta a necessidade de supervisão e integração dos requisitos de segurança na totalidade dos programas.\n\n2. A Comissão aprova, pelo procedimento de regulamentação a que se refere o n.º 4 do artigo 19.º, medidas de execução destinadas a estabelecer os principais requisitos técnicos para controlar o acesso e a utilização das tecnologias que conferem segurança aos sistemas.\n\n3. A Comissão assegura que sejam feitas as diligências necessárias para o cumprimento das medidas referidas no n.º 2 e o respeito de quaisquer outros requisitos relativos à segurança dos sistemas, tendo plenamente em conta o parecer dos peritos.\n\n4. Caso a segurança da União Europeia ou dos seus Estados-Membros possa ser afectada pela exploração dos sistemas, aplicam-se os procedimentos previstos na Acção Comum 2004/552/PESC do Conselho, de 12 de Julho de 2004, sobre os aspectos da exploração do sistema europeu de radionavegação por satélite que afectem a segurança da União Europeia [([^8])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr8-L_2008196PT.01000101-E0008).\n\n5. As questões abrangidas exclusivamente pelos títulos V e/ou VI do Tratado da União Europeia não são da competência do Comité."
+  },
+  "b2f43f36b86432b6": {
+   "fragment_id": "Artigo 14.º — Aplicação das regras de segurança",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Aplicação das regras de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação das regras de segurança\n\n1. Os Estados-Membros asseguram a aplicação de regras de segurança que garantam um grau de protecção pelo menos equivalente ao garantido pelas regras de segurança da Comissão constantes do anexo da Decisão 2001/844/CE, CECA, Euratom da Comissão [([^9])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr9-L_2008196PT.01000101-E0009), e pelas regras de segurança do Conselho constantes do anexo da Decisão 2001/264/CE do Conselho [([^10])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr10-L_2008196PT.01000101-E0010), a todas as pessoas singulares residentes no seu território e todas as pessoas colectivas nele estabelecidas que tratem informações classificadas da União Europeia relativas aos programas.\n\n2. Os Estados-Membros informam de imediato a Comissão da aprovação das regras nacionais de segurança a que se refere o n.º 1.\n\n3. As pessoas singulares residentes em países terceiros e as pessoas colectivas neles estabelecidas só podem tratar informações classificadas da União Europeia relativas aos programas caso estejam sujeitas nos referidos países a regras de segurança que garantam um grau de protecção pelo menos equivalente ao garantido pelas regras de segurança da Comissão constantes do anexo da Decisão 2001/844/CE, CECA, Euratom e pelas regras de segurança do Conselho constantes do anexo da Decisão 2001/264/CE. As regras de segurança da AEE são consideradas equivalentes às regras de segurança da Comissão e do Conselho. A equivalência das regras de segurança aplicadas em países terceiros pode ser reconhecida em acordos com esses países."
+  },
+  "2cf4f760adf4b57f": {
+   "fragment_id": "Artigo 15.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Programação\n\n1. A Comissão gere os fundos afectados aos programas pelo presente regulamento.\n\n2. A Comissão aprova medidas destinadas a definir um quadro estratégico para a elaboração de um programa de trabalho consentâneo com os requisitos do presente regulamento. O referido quadro estratégico deve incluir as principais acções, o orçamento previsto e o calendário necessário para cumprir os objectivos definidos no anexo.\n\nAs medidas que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 5 do artigo 19.º.\n\n3. A Comissão aprova o programa de trabalho que inclui o plano de execução do programa e respectivo financiamento, revistos anualmente, bem como as suas eventuais alterações, pelo procedimento de gestão a que se refere o n.º 3 do artigo 19.º.\n\n4. As medidas financiadas ao abrigo do presente regulamento são executadas nos termos do Regulamento Financeiro."
+  },
+  "17c461e105c734af": {
+   "fragment_id": "Artigo 16.º — Papel da Autoridade Supervisora do GNSS Europeu",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Papel da Autoridade Supervisora do GNSS Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Papel da Autoridade Supervisora do GNSS Europeu\n\nSem prejuízo do disposto no artigo 12.º ou do papel de gestora dos programas desempenhado pela Comissão, a Autoridade desempenha as seguintes funções no âmbito dos programas, de acordo com as orientações formuladas pela Comissão:\n\na) Relativamente à segurança dos programas, e sem prejuízo dos artigos 13.º e 14.º, assegura: i) A acreditação de segurança; para o efeito, inicia e acompanha a aplicação dos procedimentos de segurança e efectua auditorias da segurança do sistema; ii) A exploração do Centro de Segurança Galileo, nos termos das decisões tomadas ao abrigo do artigo 13.º e das instruções fornecidas ao abrigo da Acção Comum 2004/552/PESC;\n\ni) A acreditação de segurança; para o efeito, inicia e acompanha a aplicação dos procedimentos de segurança e efectua auditorias da segurança do sistema;\n\nii) A exploração do Centro de Segurança Galileo, nos termos das decisões tomadas ao abrigo do artigo 13.º e das instruções fornecidas ao abrigo da Acção Comum 2004/552/PESC;\n\nb) Contribui para a preparação da comercialização dos sistemas, incluindo a necessária análise de mercado;\n\nc) Realiza igualmente outras tarefas que possam ser-lhe confiadas pela Comissão, ao abrigo da alínea b) do n.º 2 do artigo 54.º do Regulamento Financeiro, relativamente a questões específicas ligadas ao programa, tais como: i) A promoção de aplicações e serviços no mercado da navegação por satélite; ii) A garantia de que os componentes dos sistemas sejam certificados pelos organismos de certificação apropriados e devidamente autorizados.\n\ni) A promoção de aplicações e serviços no mercado da navegação por satélite;\n\nii) A garantia de que os componentes dos sistemas sejam certificados pelos organismos de certificação apropriados e devidamente autorizados."
+  },
+  "6881d14c5b81878f": {
+   "fragment_id": "Artigo 17.º — Princípios relativos aos contratos aplicáveis à fase de implantação do programa Galileo",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Princípios relativos aos contratos aplicáveis à fase de implantação do programa Galileo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Princípios relativos aos contratos aplicáveis à fase de implantação do programa Galileo\n\n1. À fase de implantação do programa Galileo aplicam-se as regras comunitárias que regem os contratos públicos, designadamente o acesso livre e a concorrência equitativa em toda a cadeia de fornecimento industrial, a apresentação de propostas com base na prestação de informações transparentes e atempadas, a comunicação clara das regras aplicáveis à contratação, aos critérios de selecção e das demais informações relevantes que permitam a igualdade de condições para todos os potenciais proponentes, sem prejuízo das medidas que possam revelar-se necessárias para proteger os interesses essenciais de segurança da União Europeia ou a segurança pública ou para cumprir os requisitos de controlo de exportações da União Europeia.\n\n2. Na adjudicação dos contratos devem ser perseguidos os seguintes objectivos:\n\na) Promover uma participação equilibrada da indústria a todos os níveis, designadamente das PME, em todos os Estados-Membros;\n\nb) Evitar eventuais abusos de dominância e a dependência a longo prazo de fornecedores únicos;\n\nc) Tirar partido dos anteriores investimentos do sector público e dos ensinamentos colhidos, bem como da experiência e das competências industriais, incluindo as adquiridas nas fases de definição e de desenvolvimento e validação dos programas, garantindo simultaneamente que as regras aplicáveis aos concursos não sejam violadas.\n\n3. Para o efeito, aplicam-se aos contratos para actividades da fase de implantação do programa Galileo os seguintes princípios:\n\na) Divisão dos contratos relativos à infra-estrutura num conjunto de seis grandes pacotes de trabalho (apoio à engenharia de sistemas, conclusão da infra-estrutura de missões no solo, conclusão da infra-estrutura de controlo no solo, satélites, lançadores e operações) e num número adicional de pacotes de trabalho, através de uma discriminação global de todos os contratos; esta divisão não exclui a possibilidade de vários lotes de contratos simultâneos para pacotes de trabalhos individuais, inclusivamente para satélites;\n\nb) Adjudicação por concurso de todos os pacotes e, em relação aos seis grandes pacotes de trabalho, aplicação de um procedimento único, mediante o qual qualquer pessoa colectiva independente ou grupo representado para o efeito por uma pessoa colectiva que faça parte do grupo possa concorrer enquanto contratante principal a um máximo de dois dos seis grandes pacotes de trabalho;\n\nc) Subcontratação, por concurso a vários níveis, de pelo menos 40 % do valor agregado das actividades a subcontratar a empresas não pertencentes aos grupos de entidades contratantes principais de qualquer dos grandes pacotes de trabalhos; a Comissão informa periodicamente o Comité da observância deste princípio. Caso as projecções demonstrem que pode não ser possível atingir o referido limiar de 40 %, a Comissão deve, pelo procedimento de gestão a que se refere o n.º 3 do artigo 19.º, tomar medidas adequadas;\n\nd) Dupla fonte de fornecimentos, se possível, para assegurar um melhor controlo global do programa e dos respectivos custos e calendário."
+  },
+  "d348ec86fba49297": {
+   "fragment_id": "Artigo 18.º — Papel da Agência Espacial Europeia",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Papel da Agência Espacial Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Papel da Agência Espacial Europeia\n\n1. Com base nos princípios estabelecidos no artigo 17.º, a Comunidade, representada pela Comissão, celebra um acordo de delegação plurianual com a AEE com base numa decisão de delegação aprovada pela Comissão nos termos do n.º 2 do artigo 54.º do Regulamento Financeiro, que deve abranger as funções delegadas e a execução orçamental no que respeita à execução do programa Galileo, em especial à fase de implantação.\n\n2. O acordo de delegação, na medida em que tal seja necessário para o desempenho das funções e a execução orçamental delegadas nos termos do n.º 1, fixa as condições gerais da gestão dos fundos confiados à AEE e, nomeadamente, as acções a realizar, o respectivo financiamento, os procedimentos de gestão, as medidas de acompanhamento e inspecção, as medidas aplicáveis em caso de execução deficiente dos contratos e o regime de propriedade de todos os activos corpóreos e incorpóreos.\n\n3. O Comité é consultado sobre a decisão de delegação a que se refere o n.º 1 do presente artigo pelo procedimento consultivo a que se refere o n.º 2 do artigo 19.º. O Comité é informado do acordo de delegação plurianual a celebrar entre a Comunidade, representada pela Comissão, e a AEE.\n\n4. A Comissão informa o Comité dos resultados intercalares e finais da avaliação dos concursos e dos contratos a celebrar pela AEE com entidades do sector privado."
+  },
+  "539948260e2b41bf": {
+   "fragment_id": "Artigo 19.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité designado «Comité dos Programas GNSS Europeus» («Comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês.\n\n5. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n6. Representantes da Autoridade e da AEE podem participar, na qualidade de observadores, nos trabalhos do Comité, nas condições estabelecidas no seu regulamento interno.\n\n7. Os acordos celebrados pela Comunidade nos termos do n.º 5 do artigo 4.º e do n.º 4 do artigo 6.º podem prever a participação de países terceiros ou de organizações internacionais nos trabalhos do Comité, nas condições estabelecidas no seu regulamento interno."
+  },
+  "e3bc949a26ba234a": {
+   "fragment_id": "Artigo 20.º — Protecção dos dados pessoais e da vida privada",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Protecção dos dados pessoais e da vida privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Protecção dos dados pessoais e da vida privada\n\nA Comissão garante a protecção dos dados pessoais e da vida privada e a integração das salvaguardas apropriadas nas estruturas técnicas dos sistemas."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "7b091fa1eec0498e": {
+   "fragment_id": "Artigo 21.º — Protecção dos interesses financeiros da Comunidade",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Protecção dos interesses financeiros da Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Protecção dos interesses financeiros da Comunidade\n\n1. A Comissão assegura que, na execução das acções financiadas ao abrigo do presente regulamento, os interesses financeiros da Comunidade sejam protegidos pela aplicação de medidas preventivas contra a fraude, a corrupção e qualquer outra actividade ilegal, pela realização de controlos eficazes e pela recuperação dos montantes indevidamente pagos, assim como, caso sejam detectadas irregularidades, pela aplicação de sanções efectivas, proporcionadas e dissuasivas, nos termos do Regulamento (CE, Euratom) n.º 2988/95 do Conselho, de 18 de Dezembro de 1995, relativo à protecção dos interesses financeiros das Comunidades Europeias [([^11])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr11-L_2008196PT.01000101-E0011), do Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de Novembro de 1996, relativo às inspecções e verificações no local efectuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades [([^12])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr12-L_2008196PT.01000101-E0012), e do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) [([^13])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr13-L_2008196PT.01000101-E0013).\n\n2. Para efeitos das acções comunitárias financiadas ao abrigo do presente regulamento, entende-se por «irregularidade», na acepção do n.º 2 do artigo 1.º do Regulamento (CE, Euratom) n.º 2988/95, a violação de uma disposição do direito comunitário ou o incumprimento de uma obrigação contratual resultante de um acto ou omissão de um operador económico que tenha ou possa ter por efeito lesar, através de uma despesa indevida, o orçamento geral da União Europeia ou os orçamentos por ela geridos.\n\n3. Os acordos decorrentes do presente regulamento, incluindo os acordos celebrados com países terceiros participantes e organizações internacionais, devem prever a supervisão e o controlo financeiro a exercer pela Comissão ou por um representante por ela autorizado, assim como auditorias a realizar pelo Tribunal de Contas, se necessário no local."
+  },
+  "fd3bebcc9790125c": {
+   "fragment_id": "Artigo 22.º — Informação do Parlamento Europeu e do Conselho",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Informação do Parlamento Europeu e do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Informação do Parlamento Europeu e do Conselho\n\nA Comissão garante a execução do presente regulamento. Todos os anos, por altura da apresentação do anteprojecto de orçamento, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a execução dos programas. Em 2010, deve ser feita uma avaliação intercalar, que deve incluir uma análise dos custos, dos riscos e das eventuais receitas provenientes dos serviços prestados pelo programa Galileo, nomeadamente à luz da evolução tecnológica e do mercado, para informar o Parlamento Europeu e o Conselho do grau de avanço dos programas."
+  },
+  "9ad82de3c33987ae": {
+   "fragment_id": "Artigo 23.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revogação\n\nO artigo 7.º do Regulamento (CE) n.º 876/2002 do Conselho, de 21 de Maio de 2002, que institui a empresa comum Galileu [([^14])](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntr14-L_2008196PT.01000101-E0014), é revogado com efeitos a partir de 25 de Julho de 2009."
+  },
+  "542dd91d03824c1e": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 9 de Julho de 2008.\n\n***Pelo Parlamento,***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho,***\n\n***O Presidente***\n\n**J.-P. JOUYET**\n\n---"
+  },
+  "d7fa8472fcc8a44d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc1-L_2008196PT.01000101-E0001) [JO C 221 de 8.9.2005, p. 28](http://publications.europa.eu/resource/oj/JOC_2005_221_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc2-L_2008196PT.01000101-E0002) Parecer do Parlamento Europeu de 23 de Abril de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 3 de Julho de 2008.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc3-L_2008196PT.01000101-E0003) [JO L 246 de 20.7.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_246_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 1942/2006 ([JO L 367 de 22.12.2006, p. 18](http://publications.europa.eu/resource/oj/JOL_2006_367_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc4-L_2008196PT.01000101-E0004) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1525/2007 ([JO L 343 de 27.12.2007, p. 9](http://publications.europa.eu/resource/oj/JOL_2007_343_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc5-L_2008196PT.01000101-E0005) Acordo Interinstitucional de 17 de Maio de 2006 entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental e a boa gestão financeira ([JO C 139 de 14.6.2006, p. 1](http://publications.europa.eu/resource/oj/JOC_2006_139_R_TOC)). Acordo alterado pela Decisão 2008/29/CE do Parlamento Europeu e do Conselho ([JO L 6 de 10.1.2008, p. 7](http://publications.europa.eu/resource/oj/JOL_2008_006_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc6-L_2008196PT.01000101-E0006) [JO L 412 de 30.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_412_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc7-L_2008196PT.01000101-E0007) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). Decisão alterada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc8-L_2008196PT.01000101-E0008) [JO L 246 de 20.7.2004, p. 30](http://publications.europa.eu/resource/oj/JOL_2004_246_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc9-L_2008196PT.01000101-E0009) Decisão 2001/844/CE, CECA, Euratom da Comissão, de 29 de Novembro de 2001, que altera o seu Regulamento Interno ([JO L 317 de 3.12.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_317_R_TOC)). Decisão com a última redacção que lhe foi dada pela Decisão 2006/548/CE ([JO L 215 de 5.8.2006, p. 38](http://publications.europa.eu/resource/oj/JOL_2006_215_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc10-L_2008196PT.01000101-E0010) Decisão 2001/264/CE do Conselho, de 19 de Março de 2001, que aprova as regras de segurança do Conselho ([JO L 101 de 11.4.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_101_R_TOC)). Decisão com a última redacção que lhe foi dada pela Decisão 2007/438/CE ([JO L 164 de 26.6.2007, p. 24](http://publications.europa.eu/resource/oj/JOL_2007_164_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc11-L_2008196PT.01000101-E0011) [JO L 312 de 23.12.1995, p. 1](http://publications.europa.eu/resource/oj/JOL_1995_312_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 1233/2007 da Comissão ([JO L 279 de 23.10.2007, p. 10](http://publications.europa.eu/resource/oj/JOL_2007_279_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc12-L_2008196PT.01000101-E0012) [JO L 292 de 15.11.1996, p. 2](http://publications.europa.eu/resource/oj/JOL_1996_292_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc13-L_2008196PT.01000101-E0013) [JO L 136 de 31.5.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/362af028-0a14-4ca7-ae19-693fb0b08e1e.0019.02/DOC_1#ntc14-L_2008196PT.01000101-E0014) [JO L 138 de 28.5.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_138_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 1943/2006 ([JO L 367 de 22.12.2006, p. 21](http://publications.europa.eu/resource/oj/JOL_2006_367_R_TOC))."
+  },
+  "e7c4cb0063239e88": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Julho de 2008\n\nrelativo ao prosseguimento da execução dos programas europeus de navegação por satélite (EGNOS e Galileo)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 156.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0002)),\n\n(1) A política europeia de navegação por satélite tem por objectivo dotar a Comunidade Europeia de dois sistemas de navegação por satélite (a seguir designados «os sistemas»). Estes sistemas são instaurados pelos programas EGNOS e Galileo (a seguir designados «os programas»). Cada infra-estrutura compreende satélites e uma rede de estações terrestres.\n\n(2) O programa Galileo tem por objectivo criar a primeira infra-estrutura mundial de navegação e localização por satélite especificamente concebida para fins civis. O sistema resultante do programa Galileo é totalmente independente de quaisquer outros sistemas existentes ou que possam vir a ser criados.\n\n(3) O programa EGNOS tem por objectivo melhorar a qualidade dos sinais dos sistemas mundiais de navegação por satélite (a seguir designados «GNSS») existentes.\n\n(4) O Parlamento Europeu, o Conselho e o Comité Económico e Social Europeu sempre deram um apoio sem reservas aos programas.\n\n(5) O desenvolvimento da navegação por satélite enquadra-se plenamente na estratégia de Lisboa e noutras políticas comunitárias, como a dos transportes, definida no livro branco da Comissão de 12 de Setembro de 2001 intitulado «A política europeia de transportes no horizonte 2010: a hora das opções». No seu programa de trabalho, a Comissão deverá, se for caso disso, dar especial atenção ao desenvolvimento das aplicações e dos serviços GNSS.\n\n(6) Os programas constituem um dos projectos prioritários seleccionados no âmbito do Programa de Acção de Lisboa para o Crescimento e o Emprego proposto pela Comissão e avalizado pelo Conselho Europeu. São igualmente considerados como um dos principais pilares do futuro programa espacial europeu, mencionado na Comunicação da Comissão de 26 de Abril de 2007 sobre a política espacial europeia.\n\n(7) O programa Galileo compreende uma fase de definição, uma fase de desenvolvimento e validação, uma fase de implantação e uma fase de exploração. A fase de implantação deverá começar em 2008 e terminar em 2013. O sistema deverá estar operacional em 2013.\n\n(8) A fase de definição e a fase de desenvolvimento e validação do programa Galileo, que constituem as fases do programa consagradas à investigação, foram financiadas numa percentagem significativa pelo orçamento comunitário das redes transeuropeias e pela Agência Espacial Europeia (a seguir designada «AEE»). A fase de implantação deverá, em princípio, ser integralmente financiada pela Comunidade. Mais tarde poderá ser decidido que, para a exploração, manutenção, aperfeiçoamento e renovação do sistema após 2013, são adequadas parcerias público-privadas ou quaisquer outras formas de contratos com entidades do sector privado.\n\n(9) O Centro de Segurança da Vida em Madrid poderá evoluir para um Centro de Controlo de Satélites Galileo, plenamente qualificado e equivalente, cujos activos serão propriedade da Comunidade. O investimento necessário para esta transformação não comportará custos adicionais aos que foram acordados no orçamento comunitário para os programas no período 2007-2013. Nesse caso, e sem que sejam afectadas as capacidades operacionais dos Centros de Controlo de Satélites Galileo de Oberpfaffenhofen e Fucino, a Comissão assegurará que, desde que possa preencher todos os requisitos aplicáveis a todos os centros, o Centro em Madrid seja inteiramente qualificado em termos operacionais como um Centro de Controlo de Satélites Galileo até ao final de 2013 e incluído na rede Galileo juntamente com os dois centros acima referidos.\n\n(10) É importante que o financiamento do sistema EGNOS, incluindo as suas exploração, sustentabilidade e comercialização, seja garantido pela Comunidade. A exploração do EGNOS poderá ser objecto de um ou mais contratos públicos de serviços, em especial com entidades do sector privado, até à sua integração na exploração do Galileo.\n\n(11) Tendo os programas já atingido um estádio avançado de maturidade, ultrapassando largamente o âmbito de simples projectos de investigação, é necessário dotá-los de uma base jurídica específica, mais capaz de satisfazer as suas necessidades e de responder à exigência de uma boa gestão financeira.\n\n(12) Os sistemas criados no âmbito dos programas são infra-estruturas estabelecidas como redes transeuropeias cuja utilização ultrapassa largamente as fronteiras nacionais dos Estados-Membros. Além disso, os serviços prestados ao abrigo destes sistemas contribuem, em especial, para o desenvolvimento das redes transeuropeias no domínio das infra-estruturas de transportes, telecomunicações e energia.\n\n(13) A boa governação pública dos programas Galileo e EGNOS implica, por um lado, que exista uma clara repartição de competências entre a Comissão, a [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência do GNSS Europeu**◄** (a seguir designada «[**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄**») e a AEE, e, por outro, que a Comunidade, representada pela Comissão, assegure a gestão dos programas. A Comissão deverá criar os instrumentos adequados e dispor dos recursos necessários, nomeadamente no que respeita à assistência requerida.\n\n(14) Tendo em conta a importância, a especificidade e a complexidade dos programas, e considerando que os sistemas resultantes dos programas são propriedade da Comunidade e que no período de 2008-2013 os programas serão integralmente financiados pelo orçamento comunitário, o Parlamento Europeu, o Conselho e a Comissão reconhecem a utilidade de uma estreita cooperação entre as três instituições. Para o efeito, o Parlamento Europeu, o Conselho e a Comissão reunir-se-ão no âmbito do Painel Interinstitucional Galileo, nos termos da declaração conjunta sobre o Painel Interinstitucional Galileo de 9 de Julho de 2008.\n\n(15) O Regulamento (CE) n.º 1321/2004 do Conselho, de 12 de Julho de 2004, relativo às estruturas de gestão dos programas europeus de radionavegação por satélite ([^3^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0003)), criou a [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄**. A [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄** é uma agência comunitária que, na sua qualidade de organismo na acepção do artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^4^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0004)) (a seguir designado «Regulamento Financeiro»), está sujeita às obrigações que impendem sobre as agências comunitárias.\n\n(16) Sem prejuízo do papel da Comissão de gestora dos programas e nos termos das orientações dadas pela Comissão, a [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄** deverá assegurar a acreditação de segurança do sistema e a exploração do Centro de Segurança Galileo e contribuir para a preparação da comercialização dos sistemas tendo em vista garantir um bom funcionamento, a prestação ininterrupta do serviço e uma elevada taxa de penetração no mercado. Além disso, a [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄** deverá também realizar outras tarefas que possam ser-lhe confiadas pela Comissão ao abrigo do Regulamento Financeiro, em particular promover aplicações e serviços e garantir a certificação dos componentes dos sistemas.\n\n(17) O Parlamento Europeu e o Conselho convidam a Comissão a apresentar uma proposta destinada a adaptar formalmente as estruturas de gestão dos programas previstas no Regulamento (CE) n.º 1321/2004 às novas funções da Comissão e da [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄**.\n\n(18) Para garantir o seu prosseguimento, é necessário estabelecer um quadro financeiro e jurídico adequado que permita à Comunidade continuar a financiar os programas. Convém igualmente indicar o montante requerido, entre 1 de Janeiro de 2007 e 31 de Dezembro de 2013, para o financiamento da parte restante da fase de desenvolvimento e validação e da fase de implantação do Galileo, da exploração do EGNOS e da preparação para a fase de exploração dos programas.\n\n(19) O Parlamento Europeu e o Conselho decidiram que o montante total estimado para custos de exploração dos sistemas Galileo e EGNOS no período de 2007-2013 é de 3 405 milhões de EUR. Foram inicialmente previstos no quadro financeiro plurianual (2007-2013)1 005 milhões de EUR. Este montante foi acrescido de 2 000 milhões de EUR ([^5^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0005)). Além disso, foi disponibilizado um montante de 400 milhões de EUR proveniente do Sétimo Programa-Quadro da Comunidade Europeia de actividades em matéria de investigação, desenvolvimento tecnológico e demonstração (2007-2013) ([^6^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0006)) (a seguir designado «Sétimo Programa-Quadro»), ascendendo portanto a 3 405 milhões de EUR o orçamento total disponível para os programas no período de 2007-2013.\n\n(20) Na afectação destes fundos comunitários, são essenciais procedimentos e negociações de contratos eficazes que proporcionem a melhor relação custo-benefício e garantam a conclusão com bons resultados, a continuidade dos programas, a gestão dos riscos e o cumprimento do calendário proposto. Estes aspectos deverão ser assegurados pela Comissão.\n\n(21) Nos termos do Regulamento Financeiro, os Estados-Membros, os países terceiros e as organizações internacionais deverão poder contribuir financeiramente ou em espécie para os programas, com base em acordos apropriados.\n\n(22) Convém assinalar que os custos dos investimentos e os custos de exploração dos sistemas Galileo e EGNOS actualmente avaliados para o período 2007-2013 não têm em conta as obrigações financeiras imprevistas que a Comunidade poderá ter de suportar, nomeadamente as associadas ao regime de responsabilidade extracontratual decorrente do carácter público da propriedade dos sistemas, em especial por motivos de força maior ou de uma avaria catastrófica.\n\n(23) As receitas da exploração dos sistemas Galileo e EGNOS, provenientes, em especial, do serviço comercial do sistema instalado ao abrigo do programa Galileo, deverão reverter em favor da Comunidade, para garantir a recuperação dos investimentos previamente efectuados. No entanto, deverá ser possível estabelecer um mecanismo de partilha de receitas em contratos celebrados com entidades do sector privado.\n\n(24) A Comunidade deverá celebrar um acordo de delegação plurianual com a AEE que abranja os aspectos técnicos e de planeamento dos programas. Para que a Comissão, enquanto representante da Comunidade, possa exercer plenamente o seu poder de controlo, o acordo de delegação deverá fixar as condições gerais de gestão dos fundos confiados à AEE.\n\n(25) Dado que os programas serão financiados pela Comunidade, os contratos públicos celebrados no âmbito dos programas deverão obedecer às regras comunitárias aplicáveis aos contratos públicos e, sobretudo, visar uma boa relação custo-benefício, o controlo dos custos, a atenuação dos riscos, uma maior eficiência e a redução da dependência de um fornecedor único. Em todos os Estados-Membros, deverão ser prosseguidos os objectivos do acesso livre e da concorrência equitativa na cadeia de fornecimento industrial, com a oferta de possibilidades equilibradas de participação da indústria a todos os níveis, incluindo, em particular, as pequenas e médias empresas (PME). Deverão evitar-se eventuais abusos de dominância e a dependência a longo prazo de fornecedores únicos. Para atenuar os riscos do programa, evitar a dependência de fornecedores únicos e assegurar um melhor controlo global dos programas e dos respectivos custos e calendário, deverá enveredar-se pela dupla fonte, sempre que tal seja adequado. A indústria europeia deverá ter a possibilidade de recorrer a fontes não europeias para certos componentes e serviços caso se comprove a existência de vantagens significativas em termos de qualidade e de custos, tendo-se em conta, no entanto, a natureza estratégica dos programas e a necessidade de segurança e de controlo das exportações da União Europeia. Deverá tirar-se partido dos investimentos do sector público e da experiência e competências industriais, nomeadamente as adquiridas nas fases de definição e desenvolvimento e validação dos programas, garantindo simultaneamente que as normas aplicáveis aos concursos não sejam postas em causa.\n\n(26) Todos os pacotes de trabalho no âmbito das actividades da fase de implantação do Galileo deverão ser abertos à máxima concorrência possível, em consonância com os princípios da União Europeia aplicáveis aos contratos. Para garantir uma contratação satisfatória, os pacotes de trabalho deverão ser amplamente abertos a novos intervenientes e às PME, assegurando-se simultaneamente a excelência tecnológica e a eficácia em termos de custos.\n\n(27) Dado que a preocupação com uma boa governação pública implica a uniformidade da gestão dos programas, uma maior rapidez na tomada de decisões e a igualdade no acesso às informações, os representantes da [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄** e da AEE podem ser associados aos trabalhos do Comité dos Programas GNSS Europeus (a seguir designado «Comité») criado para assistir a Comissão.\n\n(28) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0007)).\n\n(29) Em especial, deverá ser atribuída competência à Comissão para aprovar as medidas necessárias para garantir a compatibilidade e a interoperabilidade dos sistemas. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento, completando-o mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(30) A Comunidade deverá ser a proprietária de todos os activos corpóreos e incorpóreos criados ou desenvolvidos no âmbito dos programas. A fim de respeitar plenamente eventuais direitos fundamentais relacionados com a propriedade, deverão ser celebrados com os proprietários existentes quaisquer acordos que se revelem adequados.\n\n(31) Deverá ser dada particular atenção à certificação do EGNOS para todos os modos de transporte, em especial a aviação, para declarar o sistema operacional e permitir a sua utilização logo que possível.\n\n(32) O presente regulamento estabelece, para o prosseguimento dos programas, um enquadramento financeiro que constitui para a Autoridade Orçamental a referência privilegiada, na acepção do ponto 37 do Acordo Interinstitucional de 17 de Maio de 2006 sobre a disciplina orçamental e a boa gestão financeira, no decurso do processo orçamental anual.\n\n(33) Atendendo a que o objectivo do presente regulamento, a saber, a implantação de sistemas de navegação por satélite, não pode ser suficientemente realizado pelos Estados-Membros, dado que ultrapassa as capacidades financeiras e técnicas de qualquer Estado-Membro agindo individualmente, e pode, pois, ser mais bem alcançado a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade, consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objectivo.\n\n(34) É necessário assegurar que o Parlamento Europeu e o Conselho sejam regularmente informados sobre a execução dos programas,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "bdb6c19b19ae887e": {
+   "fragment_id": "Artigo 12.º — Quadro geral da governação dos programas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Quadro geral da governação dos programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Quadro geral da governação dos programas\n\n1. A governação pública dos programas assenta no princípio da estrita repartição de competências entre a Comunidade, representada pela Comissão, a [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄** e a AEE.\n\n2. A Comissão, assistida pelo Comité, é responsável pela gestão dos programas, que conduz de forma transparente. A Comissão deve evitar a duplicação de estruturas e funções, através de uma clara repartição de competências com a [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄** e a AEE. Pode recorrer à assistência de peritos dos Estados-Membros e procede a auditorias de carácter financeiro e técnico.\n\n3. A Comissão cria os instrumentos adequados, incluindo a execução de uma gestão de riscos integrada a todos os níveis dos programas e medidas estruturais para identificar, controlar, atenuar e acompanhar os riscos, e dota-se dos recursos necessários para desempenhar estas funções. Para o efeito, a Comissão estabelece, pelo procedimento consultivo a que se refere o n.º 2 do artigo 19.º, os estádios de decisão determinantes para a avaliação da execução dos programas."
+  },
+  "c86edace5e571225": {
+   "fragment_id": "Artigo 13.º — Governação das questões de segurança",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Governação das questões de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Governação das questões de segurança\n\n1. A Comissão gere todas as questões relacionadas com a segurança dos sistemas, tendo na devida conta a necessidade de supervisão e integração dos requisitos de segurança na totalidade dos programas.\n\n2. A Comissão aprova, pelo procedimento de regulamentação a que se refere o n.º 4 do artigo 19.º, medidas de execução destinadas a estabelecer os principais requisitos técnicos para controlar o acesso e a utilização das tecnologias que conferem segurança aos sistemas.\n\n3. A Comissão assegura que sejam feitas as diligências necessárias para o cumprimento das medidas referidas no n.º 2 e o respeito de quaisquer outros requisitos relativos à segurança dos sistemas, tendo plenamente em conta o parecer dos peritos.\n\n4. Caso a segurança da União Europeia ou dos seus Estados-Membros possa ser afectada pela exploração dos sistemas, aplicam-se os procedimentos previstos na Acção Comum 2004/552/PESC do Conselho, de 12 de Julho de 2004, sobre os aspectos da exploração do sistema europeu de radionavegação por satélite que afectem a segurança da União Europeia ([^8^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0008)).\n\n5. As questões abrangidas exclusivamente pelos títulos V e/ou VI do Tratado da União Europeia não são da competência do Comité."
+  },
+  "ede8597cb6a71bc8": {
+   "fragment_id": "Artigo 14.º — Aplicação das regras de segurança",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Aplicação das regras de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aplicação das regras de segurança\n\n1. Os Estados-Membros asseguram a aplicação de regras de segurança que garantam um grau de protecção pelo menos equivalente ao garantido pelas regras de segurança da Comissão constantes do anexo da Decisão 2001/844/CE, CECA, Euratom da Comissão ([^9^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0009)), e pelas regras de segurança do Conselho constantes do anexo da Decisão 2001/264/CE do Conselho ([^10^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0010)), a todas as pessoas singulares residentes no seu território e todas as pessoas colectivas nele estabelecidas que tratem informações classificadas da União Europeia relativas aos programas.\n\n2. Os Estados-Membros informam de imediato a Comissão da aprovação das regras nacionais de segurança a que se refere o n.º 1.\n\n3. As pessoas singulares residentes em países terceiros e as pessoas colectivas neles estabelecidas só podem tratar informações classificadas da União Europeia relativas aos programas caso estejam sujeitas nos referidos países a regras de segurança que garantam um grau de protecção pelo menos equivalente ao garantido pelas regras de segurança da Comissão constantes do anexo da Decisão 2001/844/CE, CECA, Euratom e pelas regras de segurança do Conselho constantes do anexo da Decisão 2001/264/CE. As regras de segurança da AEE são consideradas equivalentes às regras de segurança da Comissão e do Conselho. A equivalência das regras de segurança aplicadas em países terceiros pode ser reconhecida em acordos com esses países."
+  },
+  "bed394f5b9742121": {
+   "fragment_id": "Artigo 16.º — Papel da [►M1](http://publications.europa.eu/resource/celex/32010R0912) Agência do GNSS Europeu◄",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Papel da [►M1](http://publications.europa.eu/resource/celex/32010R0912) Agência do GNSS Europeu◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Papel da [►M1](http://publications.europa.eu/resource/celex/32010R0912) Agência do GNSS Europeu◄\n\nSem prejuízo do disposto no artigo 12.º ou do papel de gestora dos programas desempenhado pela Comissão, a [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄** desempenha as seguintes funções no âmbito dos programas, de acordo com as orientações formuladas pela Comissão:\n\na) Relativamente à segurança dos programas, e sem prejuízo dos artigos 13.º e 14.º, assegura:\n\ni) A acreditação de segurança; para o efeito, inicia e acompanha a aplicação dos procedimentos de segurança e efectua auditorias da segurança do sistema;\n\nii) A exploração do Centro de Segurança Galileo, nos termos das decisões tomadas ao abrigo do artigo 13.º e das instruções fornecidas ao abrigo da Acção Comum 2004/552/PESC;\n\nb) Contribui para a preparação da comercialização dos sistemas, incluindo a necessária análise de mercado;\n\nc) Realiza igualmente outras tarefas que possam ser-lhe confiadas pela Comissão, ao abrigo da alínea b) do n.º 2 do artigo 54.º do Regulamento Financeiro, relativamente a questões específicas ligadas ao programa, tais como:\n\ni) A promoção de aplicações e serviços no mercado da navegação por satélite;\n\nii) A garantia de que os componentes dos sistemas sejam certificados pelos organismos de certificação apropriados e devidamente autorizados."
+  },
+  "7546fdc553cf30f8": {
+   "fragment_id": "Artigo 19.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité designado «Comité dos Programas GNSS Europeus» («Comité»).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de um mês.\n\n5. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n6. Representantes da [**►M1**](http://publications.europa.eu/resource/celex/32010R0912) Agência**◄** e da AEE podem participar, na qualidade de observadores, nos trabalhos do Comité, nas condições estabelecidas no seu regulamento interno.\n\n7. Os acordos celebrados pela Comunidade nos termos do n.º 5 do artigo 4.º e do n.º 4 do artigo 6.º podem prever a participação de países terceiros ou de organizações internacionais nos trabalhos do Comité, nas condições estabelecidas no seu regulamento interno."
+  },
+  "1db2b9b106dd6fe3": {
+   "fragment_id": "Artigo 21.º — Protecção dos interesses financeiros da Comunidade",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Protecção dos interesses financeiros da Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Protecção dos interesses financeiros da Comunidade\n\n1. A Comissão assegura que, na execução das acções financiadas ao abrigo do presente regulamento, os interesses financeiros da Comunidade sejam protegidos pela aplicação de medidas preventivas contra a fraude, a corrupção e qualquer outra actividade ilegal, pela realização de controlos eficazes e pela recuperação dos montantes indevidamente pagos, assim como, caso sejam detectadas irregularidades, pela aplicação de sanções efectivas, proporcionadas e dissuasivas, nos termos do Regulamento (CE, Euratom) n.º 2988/95 do Conselho, de 18 de Dezembro de 1995, relativo à protecção dos interesses financeiros das Comunidades Europeias ([^11^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0011)), do Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de Novembro de 1996, relativo às inspecções e verificações no local efectuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades ([^12^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0012)), e do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^13^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0013)).\n\n2. Para efeitos das acções comunitárias financiadas ao abrigo do presente regulamento, entende-se por «irregularidade», na acepção do n.º 2 do artigo 1.º do Regulamento (CE, Euratom) n.º 2988/95, a violação de uma disposição do direito comunitário ou o incumprimento de uma obrigação contratual resultante de um acto ou omissão de um operador económico que tenha ou possa ter por efeito lesar, através de uma despesa indevida, o orçamento geral da União Europeia ou os orçamentos por ela geridos.\n\n3. Os acordos decorrentes do presente regulamento, incluindo os acordos celebrados com países terceiros participantes e organizações internacionais, devem prever a supervisão e o controlo financeiro a exercer pela Comissão ou por um representante por ela autorizado, assim como auditorias a realizar pelo Tribunal de Contas, se necessário no local."
+  },
+  "2b3580bc78070579": {
+   "fragment_id": "Artigo 23.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revogação\n\nO artigo 7.º do Regulamento (CE) n.º 876/2002 do Conselho, de 21 de Maio de 2002, que institui a empresa comum Galileu ([^14^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#E0014)), é revogado com efeitos a partir de 25 de Julho de 2009."
+  },
+  "9cbd262440b3eb9f": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "4026e74c4225ae94": {
+   "fragment_id": "OBJECTIVOS ESPECÍFICOS DOS PROGRAMAS EUROPEUS DE NAVEGAÇÃO POR SATÉLITE",
+   "type": "divisao",
+   "heading": "OBJECTIVOS ESPECÍFICOS DOS PROGRAMAS EUROPEUS DE NAVEGAÇÃO POR SATÉLITE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTIVOS ESPECÍFICOS DOS PROGRAMAS EUROPEUS DE NAVEGAÇÃO POR SATÉLITE\n\nOs objectivos específicos do programa Galileo consistem em assegurar que os sinais emitidos pelo sistema sejam utilizados para satisfazer as cinco funções seguintes:\n\n— Oferecer um «serviço aberto» (open service ou OS), gratuito para o utilizador, que forneça informações de localização e de sincronização, destinado a aplicações em massa de navegação por satélite,\n\n— Oferecer um «serviço de salvaguarda da vida humana» (Safety of Life Service ou SoL), orientado para os utilizadores para os quais a segurança é essencial. Este serviço responde igualmente às necessidades de continuidade, disponibilidade e precisão de determinados sectores e compreende uma função de integridade que permite prevenir o utilizador em caso de mau funcionamento do sistema,\n\n— Oferecer um «serviço comercial» (Commercial Service ou CS) que permita o desenvolvimento de aplicações para fins profissionais ou comerciais graças a desempenhos de maior qualidade e a dados com um valor acrescentado superior aos oferecidos pelo «serviço aberto»,\n\n— Oferecer um «serviço público regulado» (Public Regulated Service ou PRS) reservado a utilizadores autorizados pelos governos competentes, para aplicações sensíveis que exijam um alto nível de continuidade de serviço. O «serviço público regulado» utiliza sinais fortes e cifrados,\n\n— Participar no «serviço de busca e salvamento» (Search and Rescue Support Service ou SAR) do sistema COSPAS-SARSAT, detectando os sinais de emergência emitidos por radiofaróis e reenviando-lhes mensagens.\n\nOs objectivos específicos do programa EGNOS consistem em assegurar que o sistema EGNOS satisfaça as três funções seguintes:\n\n— Oferecer um «serviço aberto» (OS), gratuito para o utilizador, que forneça informações de localização e de sincronização, destinado a aplicações em massa de navegação por satélite na zona de cobertura do sistema,\n\n— Oferecer um «serviço de difusão de dados de carácter comercial» para apoiar o desenvolvimento de aplicações para fins profissionais ou comerciais graças a desempenhos de maior qualidade e a dados com um valor acrescentado superior aos oferecidos pelo «serviço aberto»,\n\n— Oferecer um «serviço de salvaguarda da vida humana» (SoL) orientado para os utilizadores para os quais a segurança é essencial. Este serviço responde, nomeadamente, às necessidades de continuidade, disponibilidade e precisão de determinados sectores e compreende uma função de integridade que permite prevenir o utilizador em caso de mau funcionamento do sistema na área de cobertura."
+  },
+  "db454e54bb8f0f36": {
+   "fragment_id": "DECLARAÇÃO COMUM",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO COMUM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## DECLARAÇÃO COMUM"
+  },
+  "39934c01e7531de2": {
+   "fragment_id": "do Parlamento Europeu, do Conselho e da Comissão",
+   "type": "divisao",
+   "heading": "do Parlamento Europeu, do Conselho e da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## do Parlamento Europeu, do Conselho e da Comissão"
+  },
+  "6e858ce4dd9c392c": {
+   "fragment_id": "sobre o",
+   "type": "divisao",
+   "heading": "sobre o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## sobre o"
+  },
+  "ff4ee09563cef878": {
+   "fragment_id": "«PAINEL INTERINSTITUCIONAL GALILEO»",
+   "type": "divisao",
+   "heading": "«PAINEL INTERINSTITUCIONAL GALILEO»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «PAINEL INTERINSTITUCIONAL GALILEO»\n\n1. Tendo em conta a importância, a especificidade e a complexidade dos programas GNSS Europeus, e considerando que os sistemas resultantes dos programas são propriedade da Comunidade e que os programas para o período de 2008-2013 são plenamente financiados pelo orçamento comunitário, o Parlamento Europeu, o Conselho e a Comissão Europeia reconhecem a necessidade de uma estreita cooperação entre as três instituições.\n\n2. O Painel Interinstitucional Galileo reunir-se-á com o objectivo de ajudar cada instituição comunitária no exercício da sua responsabilidade respectiva. Para esse efeito, é criado o Painel Interinstitucional Galileo a fim de acompanhar de perto:\n\na) Os progressos realizados na execução dos programas GNSS Europeus, em particular no que diz respeito à execução dos acordos relativos aos concursos e aos contratos, especialmente no que diz respeito à AEE;\n\nb) Os acordos internacionais com países terceiros, sem prejuízo do disposto no artigo 300.º do Tratado;\n\nc) A preparação dos mercados de radionavegação por satélite;\n\nd) A aplicação efectiva dos mecanismos de governação; e\n\ne) A revisão anual do programa de trabalho.\n\n3. Por força das regras existentes, o Painel Interinstitucional Galileo respeita a necessidade de discrição, em especial o carácter sensível e de sigilo comercial de que se revestem determinados dados.\n\n4. A Comissão terá em conta as opiniões expressas pelo Painel Interinstitucional Galileo.\n\n5. O Painel Interinstitucional Galileo será composto por sete representantes, dos quais:\n\n— 3 do Conselho\n\n— 3 do PE\n\n— 1 da Comissão\n\n6. O Painel Interinstitucional Galileo não afecta as responsabilidades estabelecidas nem as relações interinstitucionais.\n\n---"
+  },
+  "27b3f2670d2d2d4c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0001)) JO C 221 de 8.9.2005, p. 28.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 23 de Abril de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 3 de Julho de 2008.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0003)) JO L 246 de 20.7.2004, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 1942/2006 (JO L 367 de 22.12.2006, p. 18).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0004)) JO L 248 de 16.9.2002, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1525/2007 (JO L 343 de 27.12.2007, p. 9).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0005)) Acordo Interinstitucional de 17 de Maio de 2006 entre o Parlamento Europeu, o Conselho e a Comissão sobre a disciplina orçamental e a boa gestão financeira (JO C 139 de 14.6.2006, p. 1). Acordo alterado pela Decisão 2008/29/CE do Parlamento Europeu e do Conselho (JO L 6 de 10.1.2008, p. 7).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0006)) JO L 412 de 30.12.2006, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23. Decisão alterada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0008)) JO L 246 de 20.7.2004, p. 30.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0009)) Decisão 2001/844/CE, CECA, Euratom da Comissão, de 29 de Novembro de 2001, que altera o seu Regulamento Interno (JO L 317 de 3.12.2001, p. 1). Decisão com a última redacção que lhe foi dada pela Decisão 2006/548/CE (JO L 215 de 5.8.2006, p. 38).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0010)) Decisão 2001/264/CE do Conselho, de 19 de Março de 2001, que aprova as regras de segurança do Conselho (JO L 101 de 11.4.2001, p. 1). Decisão com a última redacção que lhe foi dada pela Decisão 2007/438/CE (JO L 164 de 26.6.2007, p. 24).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0011)) JO L 312 de 23.12.1995, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 1233/2007 da Comissão (JO L 279 de 23.10.2007, p. 10).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0012)) JO L 292 de 15.11.1996, p. 2.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0013)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/027e09ff-5286-49fb-a33c-455b8d707a62.0019.03/DOC_1#src.E0014)) JO L 138 de 28.5.2002, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 1943/2006 (JO L 367 de 22.12.2006, p. 21)."
+  },
+  "4b6cb434b5e6d661": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2008R0683 — PT — 01.01.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32008R0683) [REGULAMENTO (CE) N.º 683/2008 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32008R0683) [de 9 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0683) [relativo ao prosseguimento da execução dos programas europeus de navegação por satélite (EGNOS e Galileo)](http://publications.europa.eu/resource/celex/32008R0683) (JO L 196, 24.7.2008, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 1285/2013 do Parlamento Europeu e do Conselho de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1285) — L 347 — 1 — 20.12.2013"
+  }
+ }
+}

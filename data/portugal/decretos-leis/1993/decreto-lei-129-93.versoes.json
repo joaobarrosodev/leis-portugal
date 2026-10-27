@@ -1,0 +1,552 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:692654:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-1042672960",
+ "dre_path": "/dr/detalhe/decreto-lei/129-1993-692654",
+ "source_lastmod": "2026-07-30",
+ "versions": [
+  {
+   "date": "1997-09-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:649162:por",
+     "title": "Lei n.º 113/97",
+     "published": "1997-09-16",
+     "dre_path": "/dr/detalhe/lei/113-1997-649162"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 21.º"
+   ],
+   "fragments": [
+    "1043014075",
+    "1043014275",
+    "1043014475",
+    "1043014675",
+    "1043014875",
+    "1150415375",
+    "1043015275",
+    "1043015475",
+    "1043015675",
+    "1043015875",
+    "1043016075",
+    "1043016275",
+    "1043016475",
+    "1043016675",
+    "1043016875",
+    "1043017075",
+    "1043017275",
+    "1043017475",
+    "1043017675",
+    "1043017875",
+    "1043018075",
+    "1150415575",
+    "1043018475",
+    "1043018675",
+    "1150424475",
+    "1043019075",
+    "1043019275",
+    "1043019475",
+    "1043019675",
+    "1043019875",
+    "1043020075",
+    "1043020275",
+    "1043020475",
+    "1043020675",
+    "1043020875",
+    "1043021075",
+    "1043021275"
+   ]
+  },
+  {
+   "date": "2007-10-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640339:por",
+     "title": "Lei n.º 62/2007",
+     "published": "2007-09-10",
+     "dre_path": "/dr/detalhe/lei/62-2007-640339"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "1043014075",
+    "1043014275",
+    "1043014475",
+    "1043014675",
+    "1043014875",
+    "1150415375",
+    "1043015275",
+    "1043015475",
+    "1043015675",
+    "1043015875",
+    "1043016075",
+    "1043016275",
+    "1043016475",
+    "1043016675",
+    "1151701875",
+    "1151702075",
+    "1151702275",
+    "1151702475",
+    "1151702675",
+    "1151702875",
+    "1043018075",
+    "1150415575",
+    "1043018475",
+    "1043018675",
+    "1150424475",
+    "1043019075",
+    "1043019275",
+    "1043019475",
+    "1043019675",
+    "1043019875",
+    "1043020075",
+    "1043020275",
+    "1043020475",
+    "1043020675",
+    "1043020875",
+    "1043021075",
+    "1043021275"
+   ]
+  },
+  {
+   "date": "2009-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:488483:por",
+     "title": "Decreto-Lei n.º 204/2009",
+     "published": "2009-08-31",
+     "dre_path": "/dr/detalhe/decreto-lei/204-2009-488483"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "1043014075",
+    "1043014275",
+    "1043014475",
+    "1043014675",
+    "1152661575",
+    "1150415375",
+    "1043015275",
+    "1043015475",
+    "1043015675",
+    "1043015875",
+    "1043016075",
+    "1043016275",
+    "1043016475",
+    "1043016675",
+    "1151701875",
+    "1151702075",
+    "1151702275",
+    "1151702475",
+    "1151702675",
+    "1151702875",
+    "1043018075",
+    "1150415575",
+    "1043018475",
+    "1043018675",
+    "1150424475",
+    "1043019075",
+    "1043019275",
+    "1043019475",
+    "1043019675",
+    "1043019875",
+    "1043020075",
+    "1043020275",
+    "1043020475",
+    "1043020675",
+    "1043020875",
+    "1043021075",
+    "1043021275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1043014075": {
+   "fragment_id": "1043013975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A situação em que se encontra actualmente a acção social no ensino superior impõe uma profunda alteração no funcionamento dos serviços e no processo de atribuição dos benefícios sociais dos estudantes. O presente diploma procura responder a essa necessidade de mudança, dando cumprimento ao disposto na Lei de Autonomia Universitária.\n\nNesse sentido, a acção social escolar no ensino superior passa a desenvolver-se no âmbito das respectivas instituições de ensino, cabendo-lhes definir o modelo de gestão a implantar e a escolha dos instrumentos mais adequados para executar a política definida pelo Governo, através do Ministro da Educação.\n\nA política assim definida e os princípios fixados na lei devem ser aplicados nas instituições de ensino superior não público, por forma a estender os benefícios e regalias sociais legalmente previstos aos seus estudantes, através de um processo a regular por diploma próprio que leve em conta a sua especificidade.\n\nFixou-se como objectivo da acção social no ensino superior melhorar as possibilidades de sucesso escolar mediante a prestação de serviços e a concessão de apoios aos estudantes, tais como bolsas de estudo, alimentação em cantinas e bares, alojamento, serviços de saúde, actividades desportivas, empréstimos, reprografia, livros e material escolar.\n\nPor outro lado, estabelece-se que o preço dos serviços a prestar aos alunos no âmbito da acção social escolar deve ser fixado com base em indicadores económicos relativos ao custo de vida na região onde está implantada a instituição de ensino, na situação económica média dos estudantes e no custo dos serviços prestados, visando o acesso generalizado da população estudantil aos mesmos.\n\nÉ assegurada aos estudantes, quando se coaduna com o serviço em causa, a preferência na contratação de pessoal para a prestação de serviços que assegurem as actividades correntes dos estabelecimentos em que estejam matriculados, no regime de tarefa ou de prestação de serviço, com a remuneração adequada.\n\nComo órgão consultivo do Governo e para acompanhamento da política de acção social no ensino superior é criado um conselho nacional, que integrará representantes dos Ministros da Educação, das Finanças, da Saúde e da Juventude, das associações de estudantes e dos órgãos próprios das universidades e dos institutos politécnicos.\n\nPara a execução, em cada instituição de ensino superior, da política de acção social superiormente traçada, são criados serviços de acção social, como serviços próprios dessas instituições, dotados de autonomia administrativa e financeira.\n\nTais serviços devem, entre outras coisas, receber e tratar as informações e declarações prestadas pelos estudantes beneficiários da acção social, prestar os serviços e apoios previstos, instalar, na sua dependência, os serviços indispensáveis à prossecução dos fins fixados e assegurar o seu funcionamento.\n\nPara definir a forma de aplicação da política de acção social em cada instituição de ensino superior é instituído um conselho de acção social composto pelo reitor, por um gestor e por dois representantes dos estudantes, sendo um deles bolseiro. Este conselho fixa e fiscaliza o cumprimento das normas de acompanhamento e avaliação que garantem a funcionalidade e qualidade dos serviços prestados.\n\nO funcionamento e dinamização dos serviços sociais, nomeadamente a gestão dos recursos humanos e financeiros, bem como a execução dos seus planos e deliberações, passa a ser assegurado por um gestor de acção social, nomeado pelo reitor ou pelo presidente do instituto politécnico.\n\nNessa medida, são extintos os serviços sociais actualmente existentes, transitando parte do seu pessoal para os quadros dos novos serviços de acção social, aos quais é imposta uma limitação percentual nos gastos de funcionamento em relação às receitas afectas à prossecução da acção social.\n\nA actividade dos serviços de acção social e as informações e declarações prestadas pelos estudantes beneficiários são fiscalizadas pela Inspecção-Geral da Educação, com a colaboração da Inspecção-Geral de Finanças e da Direcção-Geral das Contribuições e Impostos.\n\nForam ouvidos o Conselho Nacional de Educação, o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos, a Associação Nacional dos Funcionários das Universidades Portuguesas, o Sindicato dos Trabalhadores da Função Pública, as associações de estudantes do ensino universitário e a Federação Nacional de Estudantes do Ensino Superior Politécnico.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo artigo 60.º da Lei n.º 30-C/92, de 28 de Dezembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1043014275": {
+   "fragment_id": "1043014175",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "1043014475": {
+   "fragment_id": "1043014375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece as bases do sistema de acção social no âmbito das instituições de ensino superior."
+  },
+  "1043014675": {
+   "fragment_id": "1043014575",
+   "type": 11,
+   "heading": "Artigo 2.º — Instituições do ensino superior particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Instituições do ensino superior particular e cooperativo\n\nA aplicação dos princípios fixados no presente diploma ao sistema de acção social das instituições do ensino superior particular e cooperativo é realizada por diploma próprio."
+  },
+  "1043014875": {
+   "fragment_id": "1043014775",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação pessoal\n\nBeneficiam do sistema de acção social no ensino superior, desde que matriculados num estabelecimento de ensino superior:\n\na) Os estudantes portugueses;\n\nb) Os estudantes nacionais dos Estados membros da Comunidade Europeia;\n\nc) Os estudantes apátridas ou beneficiando do estatuto de refugiado político;\n\nd) Os estudantes estrangeiros provenientes de países com os quais hajam sido celebrados acordos de cooperação prevendo a aplicação de tais benefícios ou de Estados cuja lei, em igualdade de circunstâncias, conceda igual tratamento aos estudantes portugueses."
+  },
+  "1150415375": {
+   "fragment_id": "1043014975",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos da acção social no ensino superior",
+   "in_force_from": "1997-09-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Lei n.º 113/97 - Diário da República n.º 214/1997, Série I-A de 1997-09-16](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), em vigor a partir de 1997-09-17."
+   ],
+   "markdown": "###### Artigo 4.º — Objectivos da acção social no ensino superior\n\n1 - A acção social no ensino superior tem por objectivo proporcionar aos estudantes melhores condições de estudo, mediante a prestação de serviços e a concessão de apoios.\n\n2 - A acção social no ensino superior compreende, designadamente:\n\na) A atribuição de bolsas de estudo;\n\nb) (Revogado);\n\nc) O acesso à alimentação em cantinas e bares;\n\nd) O alojamento;\n\ne) O funcionamento de serviços de informação, de reprografia, de apoio bibliográfico e de material escolar;\n\nf) O acesso a serviços de saúde;\n\ng) O apoio às actividades desportivas e culturais.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 40.º do/a [Lei n.º 113/97 - Diário da República n.º 214/1997, Série I-A de 1997-09-16](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), em vigor a partir de 1997-09-17."
+  },
+  "1043015275": {
+   "fragment_id": "1043015175",
+   "type": 11,
+   "heading": "Artigo 5.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Financiamento\n\nPara além das dotações anualmente atribuídas no Orçamento do Estado para acção social, são também afectas à prossecução das respectivas atribuições:\n\na) As receitas provenientes da prestação de serviços no âmbito da acção social escolar;\n\nb) Os rendimentos dos bens que os serviços de acção social possuírem a qualquer título;\n\nc) Os subsídios, subvenções, comparticipações, doações, heranças e legados concedidos por quaisquer entidades;\n\nd) As receitas provenientes do pagamento de propinas que o órgão competente da instituição de ensino superior afecte à acção social;\n\ne) O produto de taxas, emolumentos e multas;\n\nf) Os saldos da conta de gerência de anos anteriores;\n\ng) Quaisquer outras receitas que, por lei, contrato ou outro título, lhes sejam atribuídas."
+  },
+  "1043015475": {
+   "fragment_id": "1043015375",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura do sistema"
+  },
+  "1043015675": {
+   "fragment_id": "1043015575",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos\n\nIntegram o sistema de acção social no ensino superior:\n\na) O Conselho Nacional para a Acção Social no Ensino Superior;\n\nb) Os conselhos de acção social;\n\nc) Os serviços de acção social."
+  },
+  "1043015875": {
+   "fragment_id": "1043015775",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho Nacional para a Acção Social no Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho Nacional para a Acção Social no Ensino Superior\n\n1 - O Conselho Nacional para a Acção Social no Ensino Superior, adiante designado por Conselho Nacional, é o órgão consultivo do Ministro da Educação no domínio da acção social no ensino superior.\n\n2 - Compete, em especial, ao Conselho Nacional:\n\na) Acompanhar o desenvolvimento da política geral de acção social nas instituições de ensino superior e a actividade dos serviços de acção social;\n\nb) Propor critérios gerais para a repartição das verbas destinadas à acção social inscritas anualmente no Orçamento do Estado pelas instituições de ensino superior;\n\nc) Pronunciar-se sobre o orçamento anual, o programa de desenvolvimento a médio prazo e o balanço e relatório de actividades do ano económico findo de cada instituição de ensino superior;\n\nd) Propor critérios orientadores para a atribuição de benefícios sociais aos estudantes;\n\ne) Empreender acções de dinamização da comunidade no âmbito da política de acção social escolar no ensino superior;\n\nf) Pronunciar-se sobre quaisquer outros assuntos que lhe sejam presentes pelo Ministro da Educação, no âmbito das suas competências.\n\n3 - Na fixação dos critérios a que se refere a alínea b) do número anterior, deve o Conselho Nacional atender, designadamente, aos seguintes elementos:\n\na) Objectivos gerais estabelecidos, por cada instituição, para a acção social no ensino superior;\n\nb) Número de alunos abrangidos;\n\nc) Natureza das actividades a desenvolver;\n\nd) Fase de desenvolvimento das instalações e respectivos encargos;\n\ne) Condições particulares da região onde se insere a instituição de ensino superior."
+  },
+  "1043016075": {
+   "fragment_id": "1043015975",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição do Conselho Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição do Conselho Nacional\n\n1 - O Conselho Nacional é constituído por:\n\na) Um representante do Ministro da Educação, que preside, com voto de qualidade;\n\nb) Um representante do Ministro das Finanças;\n\nc) Um representante do Ministro da Saúde;\n\nd) Um representante do membro do Governo responsável pela área da juventude;\n\ne) O director do Departamento do Ensino Superior;\n\nf) Um representante do Conselho de Reitores das Universidades Portuguesas;\n\ng) Um representante do Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nh) Um representante do Conselho Coordenador do Ensino Particular e Cooperativo;\n\ni) Dois representantes das associações de estudantes das instituições universitárias;\n\nj) Um representante das associações de estudantes dos institutos politécnicos;\n\nl) Um representante das associações de estudantes do ensino superior particular e cooperativo.\n\n2 - Os membros do Conselho Nacional são indicados pelas entidades que representam e nomeados por despacho do Ministro da Educação.\n\n3 - O Departamento do Ensino Superior presta o apoio técnico, logístico e material necessário ao funcionamento do Conselho Nacional."
+  },
+  "1043016275": {
+   "fragment_id": "1043016175",
+   "type": 11,
+   "heading": "Artigo 9.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reuniões\n\n1 - O Conselho Nacional reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente, por sua iniciativa ou a pedido de um terço dos seus membros.\n\n2 - Quando para tal sejam expressamente convocados, podem assistir às reuniões do Conselho Nacional, sem direito a voto, indivíduos de reconhecida competência nos assuntos a tratar ou cuja presença seja considerada necessária, precedendo deliberação do Conselho."
+  },
+  "1043016475": {
+   "fragment_id": "1043016375",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho de Acção Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho de Acção Social\n\n1 - O Conselho de Acção Social, adiante designado por Conselho, é o órgão superior de gestão da acção social no âmbito de cada instituição de ensino superior, cabendo-lhe definir e orientar o apoio a conceder aos estudantes.\n\n2 - O Conselho é constituído:\n\na) Pelo reitor ou pelo presidente da instituição de ensino superior, que preside, com voto de qualidade;\n\nb) Pelo administrator para a acção social;\n\nc) Por dois representantes da associação de estudantes, um dos quais bolseiro."
+  },
+  "1043016675": {
+   "fragment_id": "1043016575",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências do Conselho\n\n1 - Compete ao Conselho:\n\na) Aprovar a forma de aplicação, na respectiva instituição de ensino superior, da política de acção social escolar;\n\nb) Fixar e fiscalizar o cumprimento das normas de acompanhamento que garantam a funcionalidade dos respectivos serviços;\n\nc) Dar parecer sobre o relatório de actividades, bem como sobre os projectos de orçamento para o ano económico seguinte e os planos de desenvolvimento a médio prazo para a acção social;\n\nd) Propor mecanismos que garantam a qualidade dos serviços prestados e definir os critérios e os meios para a sua avaliação.\n\n2 - Sem prejuízo do disposto no número anterior, o Conselho pode promover outros esquemas de apoio social considerados adequados para as respectivas instituições."
+  },
+  "1043016875": {
+   "fragment_id": "1043016775",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviços de acção social\n\n1 - A execução da política de acção social e a prestação dos apoios e benefícios nela compreendidos cabe, em cada instituição de ensino superior, aos serviços de acção social.\n\n2 - Os serviços de acção social são unidades orgânicas das instituições de ensino superior, dotadas, nos termos dos estatutos da respectiva instituição, de autonomia administrativa e financeira."
+  },
+  "1043017075": {
+   "fragment_id": "1043016975",
+   "type": 11,
+   "heading": "Artigo 13.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Órgãos\n\nSão órgãos dos serviços de acção social, para além de outros previstos nos estatutos da respectiva instituição de ensino superior:\n\na) O administrador para a acção social;\n\nb) O conselho administrativo."
+  },
+  "1043017275": {
+   "fragment_id": "1043017175",
+   "type": 11,
+   "heading": "Artigo 14.º — Administrador para a acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Administrador para a acção social\n\n1 - Cabe ao administrador para a acção social assegurar o funcionamento e a dinamização dos serviços de acção social e a execução dos planos e deliberações aprovados pelos órgãos competentes.\n\n2 - O administrador para a acção social é nomeado pelo reitor ou pelo presidente da instituição de ensino superior.\n\n3 - O cargo de administrador para a acção social é equiparado ao de subdirector-geral, para todos os efeitos legais."
+  },
+  "1043017475": {
+   "fragment_id": "1043017375",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências do administrador para a acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências do administrador para a acção social\n\nCompete, em especial, ao administrador para a acção social:\n\na) Instalar, garantir a funcionalidade e assegurar a gestão corrente dos serviços de acção social da instituição de ensino superior respectiva;\n\nb) Superintender e gerir os recursos humanos e financeiros afectos à acção social;\n\nc) Propor os instrumentos de gestão previsional e elaborar os documentos de prestação de contas previstos no Decreto-Lei n.º 155/92, de 28 de Julho;\n\nd) Propor ao conselho os projectos de orçamento para o ano económico seguinte e os planos de desenvolvimento a médio prazo para a acção social;\n\ne) Promover o tratamento das informações e declarações prestadas pelos estudantes candidatos a beneficiários da acção social."
+  },
+  "1043017675": {
+   "fragment_id": "1043017575",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho administrativo\n\n1 - Integram o conselho administrativo:\n\na) O reitor ou presidente, que preside;\n\nb) O administrador para a acção social;\n\nc) O responsável pelos serviços administrativos e financeiros, que secretaria.\n\n2 - Cabe, em especial, ao conselho administrativo:\n\na) Aprovar os instrumentos de gestão previsional referidos na alínea c) do n.º 1 do artigo 11.º e fiscalizar a sua execução;\n\nb) Aprovar os projectos de orçamento para o ano económico seguinte e os planos de desenvolvimento a médio prazo para a acção social;\n\nc) Promover e fiscalizar a cobrança de receitas, autorizar as despesas e verificar e visar o seu processamento;\n\nd) Organizar a contabilidade e fiscalizar a sua escrituração;\n\ne) Apresentar os relatórios e contas anuais e submetê-los ao Tribunal de Contas;\n\nf) Promover a verificação regular dos fundos em cofre e em depósito e fiscalizar a respectiva escrituração contabilística;\n\ng) Deliberar sobre o montante do fundo permanente;\n\nh) Acompanhar a gestão financeira e patrimonial dos serviços de acção social."
+  },
+  "1043017875": {
+   "fragment_id": "1043017775",
+   "type": 11,
+   "heading": "Artigo 17.º — Racionalização de recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Racionalização de recursos\n\n1 - Cabe ao Conselho definir o modelo de gestão que considera mais adequado à prossecução das atribuições da acção social na respectiva instituição de ensino superior.\n\n2 - Tendo em vista a racionalização dos recursos humanos, financeiros e materiais, serão privilegiados os seguintes princípios de gestão:\n\na) Disponibilização de instalações e serviços para a utilização e frequência por outras entidades, mediante adequada contrapartida financeira e sem prejuízo para a prossecução das suas atribuições;\n\nb) A utilização de instalações e prestação de serviços em comum aos alunos das diversas instituições de ensino superior situadas numa mesma região, por forma a prosseguir a unidade de objectivos no domínio da acção social;\n\nc) Contratação, nos termos da lei aplicável, de estudantes para assegurar temporariamente actividades dos estabelecimentos em que estejam matriculados."
+  },
+  "1043018075": {
+   "fragment_id": "1043017975",
+   "type": 1,
+   "heading": "Capítulo III — Tipos de apoio concedidos no âmbito da acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Tipos de apoio concedidos no âmbito da acção social"
+  },
+  "1150415575": {
+   "fragment_id": "1043018175",
+   "type": 11,
+   "heading": "Artigo 18.º — Bolsas de estudos, empréstimos e subsídios",
+   "in_force_from": "1997-09-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Lei n.º 113/97 - Diário da República n.º 214/1997, Série I-A de 1997-09-16](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), em vigor a partir de 1997-09-17."
+   ],
+   "markdown": "###### Artigo 18.º — Bolsas de estudos, empréstimos e subsídios\n\n1 - As bolsas de estudo, empréstimos e outros subsídios são modalidades da acção social a conceder aos estudantes economicamente mais carenciados, visando promover uma efectiva igualdade de oportunidades no sucesso escolar.\n\n2 - A atribuição de bolsas de estudo é feita de acordo com critérios gerais a desenvolver pelo Conselho Nacional para todas as instituições de ensino superior e atendendo, ainda, designadamente:\n\na) À insuficiência de meios económicos por parte do estudante e do respectivo agregado familiar;\n\nb) À distância entre a instituição de ensino superior que o estudante frequenta e o local de residência habitual;\n\nc) Ao aproveitamento escolar.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 40.º do/a [Lei n.º 113/97 - Diário da República n.º 214/1997, Série I-A de 1997-09-16](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), em vigor a partir de 1997-09-17."
+  },
+  "1043018475": {
+   "fragment_id": "1043018375",
+   "type": 11,
+   "heading": "Artigo 19.º — Alimentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alimentação\n\n1 - Os serviços de acção social devem fazer uma avaliação global periódica das condições de qualidade de funciomento das unidades alimentares, por forma a assegurar as condições de higiene, equilíbrio dietético das emendas, custos, tempo e forma de atendimento dos estudantes.\n\n2 - Os serviços de acção social podem, por decisão do Conselho, concessionar a exploração das unidades alimentares a entidades especializadas, mediante concurso.\n\n3 - Podem as associações de estudades candidatar-se à exploração, total ou parcial, das unidades alimentares quando preencham os requisitos fixados para o concurso."
+  },
+  "1043018675": {
+   "fragment_id": "1043018575",
+   "type": 11,
+   "heading": "Artigo 20.º — Alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alojamento\n\n1 - Os serviços de acção social devem promover o acesso dos alunos a condições de alojamento que propiciem um ambiente adequado ao estudo, designadamente através da criação de residências de estudantes.\n\n2 - As residências de estudantes regem-se por um regulamento interno, a aprovar pelo Conselho, sob proposta conjunta dos serviços sociais e dos estudantes que nelas habitam, do qual constem, designadamente:\n\na) As condições de ingresso e de utilização dos equipamentos;\n\nb) As normas de disciplina interna;\n\nc) As formas de participação dos estudantes na gestão, conservação e limpeza das instalações."
+  },
+  "1150424475": {
+   "fragment_id": "1043018775",
+   "type": 11,
+   "heading": "Artigo 21.º — Candidaturas",
+   "in_force_from": "1997-09-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Lei n.º 113/97 - Diário da República n.º 214/1997, Série I-A de 1997-09-16](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), em vigor a partir de 1997-09-17."
+   ],
+   "markdown": "###### Artigo 21.º — Candidaturas\n\n1 - A concessão das várias modalidades de acção social deve ser requerida pelos alunos às instituições respectivas, nos prazos por estas fixadas para o efeito, devendo o pedido ser acompanhado dos seguintes documentos:\n\na) Declaração, sob compromisso de honra, do rendimento familiar anual ilíquido per capita ou do rendimento familiar anual ilíquido e dos níveis de riqueza bruta, em modelo a fornecer pela instituição de ensino;\n\nb) Cópia das declarações de rendimentos do ano anterior que sustentem a situação declarada;\n\nc) Outros documentos que a instituição entenda necessários.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, considera-se:\n\na) Rendimento familiar anual iliquído per capita - a soma de todos os rendimentos declarados pelo agregado familiar em sede de IRS no ano anterior àquele a que se aplica a modalidade de acção social requerida, antes dos descontos para determinação da matéria colectável e incluindo os rendimentos não englobados, dividida pelo número de sujeitos passivos e dependentes do agregado familiar declarados para efeitos desse imposto;\n\nb) Riqueza bruta - o conjunto do património mobiliário e imobiliário nominalmente detido pelo conjunto dos membros do respectivo agregado familiar.\n\n> Revogado pelo/a Artigo 40.º do/a [Lei n.º 113/97 - Diário da República n.º 214/1997, Série I-A de 1997-09-16](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), em vigor a partir de 1997-09-17."
+  },
+  "1043019075": {
+   "fragment_id": "1043018975",
+   "type": 11,
+   "heading": "Artigo 22.º — Pagamento dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pagamento dos serviços\n\n1 - Os encargos com os apoios a prestar pelos serviços de acção social no âmbito das suas competências, nomeadamente os referidos nas alíneas c) a f) do n.º 2 do artigo 4.º, são comparticipados pelos estudantes beneficiários.\n\n2 - Os preços são fixados pelo Conselho, sob proposta dos serviços de acção social e ponderados os seguintes aspectos:\n\na) Linhas gerais de orientação definidas pelo Conselho Nacional;\n\nb) Indicadores económicos do custo de vida na região onde está situada a instituição de ensino;\n\nc) Situação económica média dos estudantes;\n\nd) Percentagem de estudantes deslocados para frequentar o ensino superior;\n\ne) Grau de acesso da população estudantil aos mesmos;\n\nf) Custo médio dos serviços prestados."
+  },
+  "1043019275": {
+   "fragment_id": "1043019175",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e regime sancionatório"
+  },
+  "1043019475": {
+   "fragment_id": "1043019375",
+   "type": 11,
+   "heading": "Artigo 23.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fiscalização\n\n1 - A actividade dos serviços de acção social está sujeita à fiscalização da Inspecção-Geral da Educação, sem prejuízo das competências atribuídas por lei a outras entidades, e da necessária prestação de contas, nos termos legais.\n\n2 - A fiscalização das informações e declarações prestadas pelos estudantes beneficiários da acção social é feita pela Inspecção-Geral da Educação, podendo esta solicitar à Direcção-Geral das Contribuições e Impostos, à Inspecção-Geral de Finanças e a outros serviços públicos a colaboração considerada necessária para o exercício das suas funções fiscalizadoras.\n\n3 - Para a execução das tarefas de fiscalização, os serviços competentes podem, designadamente, enviar aos beneficiários questionários relativos a dados ou factos de carácter específico relevantes para o apuramento e controlo das declarações feitas.\n\n4 - Quando os relatórios elaborados na sequência das acções de fiscalização referidos nos n.os 1 e 2 indiciarem a prática de ilícitos penais ou de mera ordenação social, o Ministro da Educação providenciará pelo seu envio às autoridades competentes para a instrauração da acção respectiva."
+  },
+  "1043019675": {
+   "fragment_id": "1043019575",
+   "type": 11,
+   "heading": "Artigo 24.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contra-ordenações\n\nA prestação de falsas declarações ou a omissão de dados que resultem na violação do disposto no artigo anterior, no respeitante ao preenchimento dos requisitos fixados para a concessão e comparticipação de modalidades de acção social escolar, constitui contra-ordenação, punível com coima de 200000$00 a 500000$00, sem prejuízo da responsabilidade civil a que haja lugar."
+  },
+  "1043019875": {
+   "fragment_id": "1043019775",
+   "type": 11,
+   "heading": "Artigo 25.º — Processo e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Processo e coimas\n\n1 - A instrução dos processos contra-ordenacionais compete ao administrador para a acção social.\n\n2 - A aplicação das coimas e sanções acessórias previstas neste diploma é da competência do reitor ou do presidente da instituição de ensino superior onde foi praticada a infracção.\n\n3 - O produto das coimas constitui receita própria da instituição de ensino superior respectiva."
+  },
+  "1043020075": {
+   "fragment_id": "1043019975",
+   "type": 11,
+   "heading": "Artigo 26.º — Privação de direito a benefícios sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Privação de direito a benefícios sociais\n\nA prestação de falsas declarações ou a omissão de dados, quando reconhecida no processo a que se refere o artigo anterior, implica, após nova matrícula, privação do direito a quaisquer benefícios sociais concedidos pela instituição de ensino superior, por um prazo não superior a dois anos."
+  },
+  "1043020275": {
+   "fragment_id": "1043020175",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "1043020475": {
+   "fragment_id": "1043020375",
+   "type": 11,
+   "heading": "Artigo 27.º — Despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Despesas de funcionamento\n\n1 - As despesas de funcionamento dos serviços de acção social de cada instituição de ensino não devem exceder 20% do total do financiamento a que se refere artigo 5.º\n\n2 - O cumprimento do disposto no número anterior deve ser considerado favoravelmente no estabelecimento dos critérios a que se refere a alínea b) do n.º 2 do artigo 7.º"
+  },
+  "1043020675": {
+   "fragment_id": "1043020575",
+   "type": 11,
+   "heading": "Artigo 28.º — Serviços médico-sociais universitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Serviços médico-sociais universitários\n\n1 - São extintos os Serviços Médico-Sociais Universitários de Lisboa.\n\n2 - A universalidade de direitos e obrigações do serviço extinto é transferida, com dispensa de qualquer formalidade, para os serviços de acção social das instituições de ensino superior público de Lisboa.\n\n3 - Os serviços médico-sociais no ensino superior são assegurados através do Serviço Nacional de Saúde e dentro dos parâmetros definidos para este Serviço, sem prejuízo da existência de protocolos a firmar entre as instituições de ensino superior e as estruturas regionais ou locais do mesmo Serviço."
+  },
+  "1043020875": {
+   "fragment_id": "1043020775",
+   "type": 11,
+   "heading": "Artigo 29.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Aplicação\n\n1 - As instituições de ensino superior devem, nos 90 dias subsequentes à data da entrada em vigor do presente diploma, tomar as providências necessárias à aplicação da estrutura nele prevista.\n\n2 - Os serviços sociais do ensino superior e as comissões dinamizadoras de acção social escolar dos institutos politécnicos actualmente existentes mantêm-se a funcionar nos termos actuais até à conclusão dos procedimentos a que se refere o número anterior.\n\n3 - Os quadros dos serviços de acção social são aprovados por portaria conjunta dos Ministros das Finanças e da Educação.\n\n4 - Os actuais quadros dos serviços sociais caducam com a entrada em vigor dos quadros que forem aprovados nos termos do número anterior.\n\n5 - Os actuais vice-presidentes dos serviços de acção social podem, nos termos do n.º 2 do artigo 14.º, ser nomeados administradores para a acção social."
+  },
+  "1043021075": {
+   "fragment_id": "1043020975",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 132/80, de 17 de Maio, e 125/84, de 26 de Abril, e a respectiva legislação complementar, bem como a Portaria n.º 1027/81, de 28 de Novembro."
+  },
+  "1043021275": {
+   "fragment_id": "1043021175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - Luís Manuel Gonçalves Marques Mendes.\n\nPromulgado em 2 de Abril de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Abril de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1151701875": {
+   "fragment_id": "1043016775",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de acção social",
+   "in_force_from": "2007-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+   ],
+   "markdown": "###### Artigo 12.º — Serviços de acção social\n\n1 - A execução da política de acção social e a prestação dos apoios e benefícios nela compreendidos cabe, em cada instituição de ensino superior, aos serviços de acção social.\n\n2 - Os serviços de acção social são unidades orgânicas das instituições de ensino superior, dotadas, nos termos dos estatutos da respectiva instituição, de autonomia administrativa e financeira.\n\n> Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+  },
+  "1151702075": {
+   "fragment_id": "1043016975",
+   "type": 11,
+   "heading": "Artigo 13.º — Órgãos",
+   "in_force_from": "2007-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+   ],
+   "markdown": "###### Artigo 13.º — Órgãos\n\nSão órgãos dos serviços de acção social, para além de outros previstos nos estatutos da respectiva instituição de ensino superior:\n\na) O administrador para a acção social;\n\nb) O conselho administrativo.\n\n> Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+  },
+  "1151702275": {
+   "fragment_id": "1043017175",
+   "type": 11,
+   "heading": "Artigo 14.º — Administrador para a acção social",
+   "in_force_from": "2007-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+   ],
+   "markdown": "###### Artigo 14.º — Administrador para a acção social\n\n1 - Cabe ao administrador para a acção social assegurar o funcionamento e a dinamização dos serviços de acção social e a execução dos planos e deliberações aprovados pelos órgãos competentes.\n\n2 - O administrador para a acção social é nomeado pelo reitor ou pelo presidente da instituição de ensino superior.\n\n3 - O cargo de administrador para a acção social é equiparado ao de subdirector-geral, para todos os efeitos legais.\n\n> Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+  },
+  "1151702475": {
+   "fragment_id": "1043017375",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências do administrador para a acção social",
+   "in_force_from": "2007-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+   ],
+   "markdown": "###### Artigo 15.º — Competências do administrador para a acção social\n\nCompete, em especial, ao administrador para a acção social:\n\na) Instalar, garantir a funcionalidade e assegurar a gestão corrente dos serviços de acção social da instituição de ensino superior respectiva;\n\nb) Superintender e gerir os recursos humanos e financeiros afectos à acção social;\n\nc) Propor os instrumentos de gestão previsional e elaborar os documentos de prestação de contas previstos no Decreto-Lei n.º 155/92, de 28 de Julho;\n\nd) Propor ao conselho os projectos de orçamento para o ano económico seguinte e os planos de desenvolvimento a médio prazo para a acção social;\n\ne) Promover o tratamento das informações e declarações prestadas pelos estudantes candidatos a beneficiários da acção social.\n\n> Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+  },
+  "1151702675": {
+   "fragment_id": "1043017575",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho administrativo",
+   "in_force_from": "2007-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+   ],
+   "markdown": "###### Artigo 16.º — Conselho administrativo\n\n1 - Integram o conselho administrativo:\n\na) O reitor ou presidente, que preside;\n\nb) O administrador para a acção social;\n\nc) O responsável pelos serviços administrativos e financeiros, que secretaria.\n\n2 - Cabe, em especial, ao conselho administrativo:\n\na) Aprovar os instrumentos de gestão previsional referidos na alínea c) do n.º 1 do artigo 11.º e fiscalizar a sua execução;\n\nb) Aprovar os projectos de orçamento para o ano económico seguinte e os planos de desenvolvimento a médio prazo para a acção social;\n\nc) Promover e fiscalizar a cobrança de receitas, autorizar as despesas e verificar e visar o seu processamento;\n\nd) Organizar a contabilidade e fiscalizar a sua escrituração;\n\ne) Apresentar os relatórios e contas anuais e submetê-los ao Tribunal de Contas;\n\nf) Promover a verificação regular dos fundos em cofre e em depósito e fiscalizar a respectiva escrituração contabilística;\n\ng) Deliberar sobre o montante do fundo permanente;\n\nh) Acompanhar a gestão financeira e patrimonial dos serviços de acção social.\n\n> Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+  },
+  "1151702875": {
+   "fragment_id": "1043017775",
+   "type": 11,
+   "heading": "Artigo 17.º — Racionalização de recursos",
+   "in_force_from": "2007-10-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+   ],
+   "markdown": "###### Artigo 17.º — Racionalização de recursos\n\n1 - Cabe ao Conselho definir o modelo de gestão que considera mais adequado à prossecução das atribuições da acção social na respectiva instituição de ensino superior.\n\n2 - Tendo em vista a racionalização dos recursos humanos, financeiros e materiais, serão privilegiados os seguintes princípios de gestão:\n\na) Disponibilização de instalações e serviços para a utilização e frequência por outras entidades, mediante adequada contrapartida financeira e sem prejuízo para a prossecução das suas atribuições;\n\nb) A utilização de instalações e prestação de serviços em comum aos alunos das diversas instituições de ensino superior situadas numa mesma região, por forma a prosseguir a unidade de objectivos no domínio da acção social;\n\nc) Contratação, nos termos da lei aplicável, de estudantes para assegurar temporariamente actividades dos estabelecimentos em que estejam matriculados.\n\n> Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-09."
+  },
+  "1152661575": {
+   "fragment_id": "1043014775",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação pessoal",
+   "in_force_from": "2009-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 204/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2009-488483), em vigor a partir de 2009-09-01."
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação pessoal\n\n1 - Beneficiam do sistema de apoios directos da acção social no ensino superior e do regime de apoios específicos para estudantes portadores de deficiência, nas condições definidas pela lei, os estudantes matriculados e inscritos em instituições de ensino superior portuguesas que sejam:\n\na) Cidadãos nacionais;\n\nb) Cidadãos nacionais de Estados membros da União Europeia com direito de residência permanente em Portugal e seus familiares, nos termos da Lei n.º 37/2006, de 9 de Agosto;\n\nc) Cidadãos nacionais de países terceiros:\n\ni) Titulares de autorização de residência permanente, nos termos do artigo 80.º da Lei n.º 23/2007, de 4 de Julho;\n\nii) Beneficiários do estatuto de residente de longa duração nos termos do artigo 125.º da Lei n.º 23/2007, de 4 de Julho;\n\niii) Provenientes de Estados com os quais hajam sido celebrados acordos de cooperação prevendo a aplicação de tais benefícios;\n\niv) Provenientes de Estados cuja lei, em igualdade de circunstâncias, conceda igual tratamento aos estudantes portugueses;\n\nd) Apátridas;\n\ne) Beneficiários do estatuto de refugiado político.\n\n2 - Beneficiam do sistema de apoios indirectos da acção social no ensino superior a que se referem as alíneas c) a g) do n.º 2 do artigo 4.º, nas condições definidas pela lei, todos os estudantes matriculados e inscritos em instituições de ensino superior portuguesas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 204/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2009-488483), em vigor a partir de 2009-09-01."
+  }
+ }
+}

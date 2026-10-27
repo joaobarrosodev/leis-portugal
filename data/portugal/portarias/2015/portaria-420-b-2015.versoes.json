@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:72997140:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-114421309",
+ "dre_path": "/dr/detalhe/portaria/420-b-2015-72997140",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114357633",
+    "114357634",
+    "114357635",
+    "114357636",
+    "114357637",
+    "114357638"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:105726270:por",
+     "title": "Portaria n.º 10/2017",
+     "published": "2017-01-09",
+     "dre_path": "/dr/detalhe/portaria/10-2017-105726270",
+     "date": "2017-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114420278:por",
+     "title": "Portaria n.º 384/2017",
+     "published": "2017-12-28",
+     "dre_path": "/dr/detalhe/portaria/384-2017-114420278"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "114357633",
+    "114357634",
+    "114357635",
+    "114357641",
+    "114357642",
+    "114357638",
+    "114357639"
+   ]
+  }
+ ],
+ "fragments": {
+  "114357633": {
+   "fragment_id": "114421310",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 420-B/2015\n\nde 31 de dezembro\n\nO artigo 92.º-A do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, estabelece que alguns produtos petrolíferos e energéticos, previstos no artigo 92.º, sujeitos a imposto sobre os produtos petrolíferos e energéticos (ISP) e dele não isentos, estão ainda sujeitos a um adicionamento sobre as emissões de CO(índice 2), resultante da aplicação de uma taxa aos fatores de adicionamento constantes da tabela prevista no n.º 1 do artigo 92.º-A do CIEC. O valor da taxa do adicionamento é calculado, para cada ano, de acordo com o previsto no n.º 2 do artigo 92.º-A, pelo que se impõe fixar o seu valor para 2016, bem como o valor do adicionamento que resulta da aplicação da referida taxa aos fatores de adicionamento.\n\nProcede-se ainda à identificação dos produtos sujeitos ao adicionamento sobre as emissões de CO(índice 2).\n\nAssim, manda o Governo, pelo Ministro das Finanças, ao abrigo do artigo 116.º do CIEC, o seguinte:"
+  },
+  "114357634": {
+   "fragment_id": "114421311",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria identifica os produtos petrolíferos e energéticos sujeitos ao adicionamento sobre as emissões de CO(índice 2), aplicável no continente, estabelece o valor da taxa do adicionamento e fixa o valor do adicionamento resultante da aplicação desta taxa aos fatores de adicionamento relativos a cada produto."
+  },
+  "114357635": {
+   "fragment_id": "114421312",
+   "type": 11,
+   "heading": "Artigo 2.º — Incidência objetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Incidência objetiva\n\nO adicionamento incide sobre os seguintes produtos petrolíferos e energéticos, quando sujeitos ao imposto sobre os produtos petrolíferos e energéticos e dele não isentos:\n\na) Gasolina classificada pelos códigos NC 2710 11 41 a 2710 11 49;\n\nb) Petróleo classificado pelo código NC 2710 19 21 e 2710 19 25;\n\nc) Petróleo colorido e marcado classificado pelo código NC 2710 19 25;\n\nd) Gasóleos rodoviário e colorido e marcado classificados pelos códigos NC 2710 19 41 a 2710 19 49;\n\ne) Gasóleo de aquecimento classificado pelo código NC 2710 19 45;\n\nf) GPL (metano e gases de petróleo) usado como combustível e como carburante;\n\ng) Gás natural usado como combustível e como carburante;\n\nh) Fuelóleo classificado pelos códigos NC 2710 19 61 e 2710 19 63 a 2710 19 69;\n\ni) Coque de petróleo classificado pelo código NC 2713;\n\nj) Carvão e coque classificados pelos códigos NC 2701, 2702 e 2704."
+  },
+  "114357636": {
+   "fragment_id": "114421313",
+   "type": 11,
+   "heading": "Artigo 3.º — Taxa do adicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Taxa do adicionamento\n\n1 - O valor da taxa do adicionamento é calculado de acordo com a metodologia estabelecida no n.º 2 do artigo 92.º-A do CIEC, com base nos preços dos leilões de licenças de emissão de gases com efeito de estufa realizados no âmbito do Comércio Europeu de Licenças de Emissão (CELE).\n\n2 - Nos termos da forma de cálculo referida no número anterior, e de acordo com a informação divulgada pela EEX-European Energy Exchange, plataforma comum de leilões da União Europeia, o valor apurado para o ano de 2016 é de 6,67 euros/tonelada de CO(índice 2)."
+  },
+  "114357637": {
+   "fragment_id": "114421314",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor do adicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Valor do adicionamento\n\nTendo em consideração o valor da taxa do adicionamento de 6,67 euros/tonelada de CO(índice 2) e os fatores de adiciona-mento constantes da tabela do n.º 1 do artigo 92.º-A do CIEC, os valores do adicionamento sobre as emissões de CO(índice 2) a aplicar aos produtos abrangidos são os seguintes:\n\n(ver documento original)"
+  },
+  "114357638": {
+   "fragment_id": "114421315",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de janeiro de 2016."
+  },
+  "114357641": {
+   "fragment_id": "114421313",
+   "type": 11,
+   "heading": "Artigo 3.º — Taxa do adicionamento",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 384/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/384-2017-114420278), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Taxa do adicionamento\n\n1 - O valor da taxa do adicionamento é calculado de acordo com a metodologia estabelecida no n.º 2 do artigo 92.º-A do CIEC, com base nos preços dos leilões de licenças de emissão de gases com efeito de estufa realizados no âmbito do Comércio Europeu de Licenças de Emissão (CELE).\n\n2 - Nos termos da forma de cálculo referida no número anterior, e de acordo com a informação divulgada pela EEX-European Energy Exchange, plataforma comum de leilões da União Europeia, o valor apurado para o ano de 2016 é de 6,67 euros/tonelada de CO(índice 2).\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 384/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/384-2017-114420278), em vigor a partir de 2018-01-01"
+  },
+  "114357642": {
+   "fragment_id": "114421314",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor do adicionamento",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 384/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/384-2017-114420278), em vigor a partir de 2018-01-01",
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 10/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/10-2017-105726270), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Valor do adicionamento\n\nTendo em consideração o valor da taxa do adicionamento de 6,67 euros/tonelada de CO(índice 2) e os fatores de adiciona-mento constantes da tabela do n.º 1 do artigo 92.º-A do CIEC, os valores do adicionamento sobre as emissões de CO(índice 2) a aplicar aos produtos abrangidos são os seguintes:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 384/2017 - Diário da República n.º 248/2017, Série I de 2017-12-28](https://diariodarepublica.pt/dr/detalhe/portaria/384-2017-114420278), em vigor a partir de 2018-01-01\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 10/2017 - Diário da República n.º 6/2017, Série I de 2017-01-09](https://diariodarepublica.pt/dr/detalhe/portaria/10-2017-105726270), em vigor a partir de 2017-01-01"
+  },
+  "114357639": {
+   "fragment_id": "114421316",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 30 de dezembro de 2015."
+  }
+ }
+}

@@ -1,0 +1,1114 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640919:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-70462232",
+ "dre_path": "/dr/detalhe/lei/46-2007-640919",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107738328",
+    "70467880",
+    "70467881",
+    "70467882",
+    "70467883",
+    "70467884",
+    "70467885",
+    "70467886",
+    "70467887",
+    "70467888",
+    "70467889",
+    "70467890",
+    "70467891",
+    "70467892",
+    "70467893",
+    "70467894",
+    "70467895",
+    "70467896",
+    "70467897",
+    "70467898",
+    "70467899",
+    "70467900",
+    "70467901",
+    "70467902",
+    "70467903",
+    "70467904",
+    "70467905",
+    "70467906",
+    "70467907",
+    "70467908",
+    "70467909",
+    "70467910",
+    "70467911",
+    "70467912",
+    "70467913",
+    "70467914",
+    "70467915",
+    "70467916",
+    "70467917",
+    "70467918",
+    "70467919",
+    "70467920",
+    "70467921",
+    "70467922",
+    "70467923",
+    "70467924",
+    "70467925",
+    "70467926"
+   ]
+  },
+  {
+   "date": "2015-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70423756:por",
+     "title": "Decreto-Lei n.º 214-G/2015",
+     "published": "2015-10-02",
+     "dre_path": "/dr/detalhe/decreto-lei/214-g-2015-70423756"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "70467879",
+    "70467880",
+    "70467881",
+    "70467882",
+    "70467883",
+    "70467884",
+    "70467885",
+    "70467886",
+    "70467887",
+    "70467888",
+    "70467889",
+    "70467890",
+    "70467891",
+    "70467892",
+    "70467893",
+    "70467894",
+    "70467895",
+    "70467928",
+    "70467897",
+    "70467898",
+    "70467899",
+    "70467900",
+    "70467901",
+    "70467902",
+    "70467903",
+    "70467904",
+    "70467905",
+    "70467929",
+    "70467907",
+    "70467908",
+    "70467909",
+    "70467910",
+    "70467911",
+    "70467912",
+    "70467913",
+    "70467914",
+    "70467930",
+    "70467916",
+    "70467917",
+    "70467918",
+    "70467919",
+    "70467920",
+    "70467921",
+    "70467922",
+    "70467923",
+    "70467924",
+    "70467925",
+    "70467926",
+    "70467927"
+   ]
+  },
+  {
+   "date": "2016-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75177807:por",
+     "title": "Lei n.º 26/2016",
+     "published": "2016-08-22",
+     "dre_path": "/dr/detalhe/lei/26-2016-75177807"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "107738328",
+    "107738329",
+    "107738330",
+    "107738331",
+    "107738332",
+    "107738333",
+    "107738334",
+    "107738335",
+    "107738336",
+    "107738337",
+    "107738338",
+    "107738339",
+    "107738340",
+    "107738341",
+    "107738342",
+    "107738343",
+    "107738344",
+    "107738345",
+    "107738346",
+    "107738347",
+    "107738348",
+    "107738349",
+    "107738350",
+    "107738351",
+    "107738352",
+    "107738353",
+    "107738354",
+    "107738355",
+    "107738356",
+    "107738357",
+    "107738358",
+    "107738359",
+    "107738360",
+    "107738361",
+    "107738362",
+    "107738363",
+    "107738364",
+    "107738365",
+    "107738366",
+    "107738367",
+    "107738368",
+    "107738369",
+    "107738370",
+    "107738371",
+    "107738372",
+    "107738373",
+    "107738374",
+    "107760675",
+    "107760676"
+   ]
+  }
+ ],
+ "fragments": {
+  "107738328": {
+   "fragment_id": "70462233",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2016-10-01",
+   "changed_by": [],
+   "markdown": "Lei n.º 46/2007\n\nde 24 de Agosto\n\nRegula o acesso aos documentos administrativos e a sua reutilização, revoga a Lei n.º 65/93, de 26 de Agosto, com a redacção introduzida pelas Lei n.os 8/95, de 29 de Março, e 94/99, de 16 de Julho, e transpõe para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0098\" title=\"Link para Directiva da Comunidade Europeia\">2003/98/CE</a>, do Parlamento e do Conselho, de 17 de Novembro, relativa à reutilização de informações do sector público.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70467880": {
+   "fragment_id": "70462234",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70467881": {
+   "fragment_id": "70462235",
+   "type": 11,
+   "heading": "Artigo 1.º — Administração aberta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Administração aberta\n\nO acesso e a reutilização dos documentos administrativos são assegurados de acordo com os princípios da publicidade, da transparência, da igualdade, da justiça e da imparcialidade."
+  },
+  "70467882": {
+   "fragment_id": "70462236",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - A presente lei regula o acesso aos documentos administrativos, sem prejuízo do disposto na legislação relativa ao acesso à informação em matéria de ambiente.\n\n2 - A presente lei regula ainda a reutilização de documentos relativos a actividades desenvolvidas pelas entidades referidas no artigo 4.º, transpondo para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0098\" title=\"Link para Directiva da Comunidade Europeia\">2003/98/CE</a>, do Parlamento Europeu e do Conselho, de 17 de Novembro, relativa à reutilização de informações do sector público.\n\n3 - O acesso a documentos nominativos, nomeadamente quando incluam dados de saúde, efectuado pelo titular da informação, por terceiro autorizado pelo titular ou por quem demonstre um interesse directo, pessoal e legítimo rege-se pela presente lei.\n\n4 - O regime de exercício do direito dos cidadãos a serem informados pela Administração sobre o andamento dos processos em que sejam directamente interessados e a conhecer as resoluções definitivas que sobre eles forem tomadas consta de legislação própria.\n\n5 - O acesso aos documentos notariais e registrais, aos documentos de identificação civil e criminal e aos documentos depositados em arquivos históricos rege-se por legislação própria."
+  },
+  "70467883": {
+   "fragment_id": "70462237",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos da presente lei, considera-se:\n\na) «Documento administrativo» qualquer suporte de informação sob forma escrita, visual, sonora, electrónica ou outra forma material, na posse dos órgãos e entidades referidos no artigo seguinte, ou detidos em seu nome;\n\nb) «Documento nominativo» o documento administrativo que contenha, acerca de pessoa singular, identificada ou identificável, apreciação ou juízo de valor, ou informação abrangida pela reserva da intimidade da vida privada.\n\n2 - Não se consideram documentos administrativos, para efeitos da presente lei:\n\na) As notas pessoais, esboços, apontamentos e outros registos de natureza semelhante;\n\nb) Os documentos cuja elaboração não releve da actividade administrativa, designadamente referentes à reunião do Conselho de Ministros e de secretários de Estado, bem como à sua preparação."
+  },
+  "70467884": {
+   "fragment_id": "70462238",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se aos seguintes órgãos e entidades:\n\na) Órgãos do Estado e das Regiões Autónomas, que integrem a Administração Pública;\n\nb) Demais órgãos do Estado e das Regiões Autónomas, na medida em que desenvolvam funções materialmente administrativas;\n\nc) Órgãos dos institutos públicos e das associações e fundações públicas;\n\nd) Órgãos das empresas públicas;\n\ne) Órgãos das autarquias locais e das suas associações e federações;\n\nf) Órgãos das empresas regionais, intermunicipais e municipais;\n\ng) Outras entidades no exercício de funções administrativas ou de poderes públicos.\n\n2 - As disposições da presente lei são ainda aplicáveis aos documentos detidos ou elaborados por quaisquer entidades dotadas de personalidade jurídica que tenham sido criadas para satisfazer de um modo específico necessidades de interesse geral, sem carácter industrial ou comercial, e em relação às quais se verifique uma das seguintes circunstâncias:\n\na) A respectiva actividade seja financiada maioritariamente por alguma das entidades referidas no número anterior ou no presente número;\n\nb) A respectiva gestão esteja sujeita a um controlo por parte de alguma das entidades referidas no número anterior ou no presente número;\n\nc) Os respectivos órgãos de administração, de direcção ou de fiscalização sejam compostos, em mais de metade, por membros designados por alguma das entidades referidas no número anterior ou no presente número."
+  },
+  "70467885": {
+   "fragment_id": "70462239",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito de acesso\n\nTodos, sem necessidade de enunciar qualquer interesse, têm direito de acesso aos documentos administrativos, o qual compreende os direitos de consulta, de reprodução e de informação sobre a sua existência e conteúdo."
+  },
+  "70467886": {
+   "fragment_id": "70462240",
+   "type": 11,
+   "heading": "Artigo 6.º — Restrições ao direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Restrições ao direito de acesso\n\n1 - Os documentos que contenham informações cujo conhecimento seja avaliado como podendo pôr em risco ou causar dano à segurança interna e externa do Estado ficam sujeitos a interdição de acesso ou a acesso sob autorização, durante o tempo estritamente necessário, através da classificação nos termos de legislação específica.\n\n2 - O acesso a documentos referentes a matérias em segredo de justiça é regulado por legislação própria.\n\n3 - O acesso aos documentos administrativos preparatórios de uma decisão ou constantes de processos não concluídos pode ser diferido até à tomada de decisão, ao arquivamento do processo ou ao decurso de um ano após a sua elaboração.\n\n4 - O acesso aos inquéritos e sindicâncias tem lugar após o decurso do prazo para eventual procedimento disciplinar.\n\n5 - Um terceiro só tem direito de acesso a documentos nominativos se estiver munido de autorização escrita da pessoa a quem os dados digam respeito ou demonstrar interesse directo, pessoal e legítimo suficientemente relevante segundo o princípio da proporcionalidade.\n\n6 - Um terceiro só tem direito de acesso a documentos administrativos que contenham segredos comerciais, industriais ou sobre a vida interna de uma empresa se estiver munido de autorização escrita desta ou demonstrar interesse directo, pessoal e legítimo suficientemente relevante segundo o princípio da proporcionalidade.\n\n7 - Os documentos administrativos sujeitos a restrições de acesso são objecto de comunicação parcial sempre que seja possível expurgar a informação relativa à matéria reservada."
+  },
+  "70467887": {
+   "fragment_id": "70462241",
+   "type": 11,
+   "heading": "Artigo 7.º — Comunicação de dados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comunicação de dados de saúde\n\nA comunicação de dados de saúde é feita por intermédio de médico se o requerente o solicitar."
+  },
+  "70467888": {
+   "fragment_id": "70462242",
+   "type": 11,
+   "heading": "Artigo 8.º — Uso ilegítimo de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Uso ilegítimo de informações\n\n1 - Não é permitida a utilização de informações em violação dos direitos de autor ou dos direitos de propriedade industrial.\n\n2 - Os documentos nominativos comunicados a terceiros não podem ser utilizados para fins diversos dos que determinaram o acesso, sob pena de responsabilidade por perdas e danos, nos termos legais."
+  },
+  "70467889": {
+   "fragment_id": "70462243",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsável pelo acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsável pelo acesso\n\nCada ministério, secretaria regional, autarquia local, instituto público, associação pública, fundação pública, empresa pública, empresa regional, empresa intermunicipal e empresa municipal designa um responsável pelo cumprimento das disposições da presente lei."
+  },
+  "70467890": {
+   "fragment_id": "70462244",
+   "type": 11,
+   "heading": "Artigo 10.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Divulgação de informação\n\nOs órgãos e entidades a que se refere o artigo 4.º devem assegurar a divulgação, designadamente em bases de dados electrónicas facilmente acessíveis ao público através de redes públicas de telecomunicações, da seguinte informação administrativa, a actualizar no mínimo semestralmente:\n\na) Todos os documentos, designadamente despachos normativos internos, circulares e orientações, que comportem enquadramento da actividade administrativa;\n\nb) A enunciação de todos os documentos que comportem interpretação de direito positivo ou descrição de procedimento administrativo, mencionando designadamente o seu título, matéria, data, origem e local onde podem ser consultados."
+  },
+  "70467891": {
+   "fragment_id": "70462245",
+   "type": 1,
+   "heading": "Capítulo II — Exercício do direito de acesso e de reutilização dos documentos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício do direito de acesso e de reutilização dos documentos administrativos"
+  },
+  "70467892": {
+   "fragment_id": "70462246",
+   "type": 8,
+   "heading": "Secção I — Direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direito de acesso"
+  },
+  "70467893": {
+   "fragment_id": "70462247",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma do acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma do acesso\n\n1 - O acesso aos documentos administrativos exerce-se através dos seguintes meios, conforme opção do requerente:\n\na) Consulta gratuita, efectuada nos serviços que os detêm;\n\nb) Reprodução por fotocópia ou por qualquer meio técnico, designadamente visual, sonoro ou electrónico;\n\nc) Certidão.\n\n2 - Os documentos são transmitidos em forma inteligível e em termos rigorosamente correspondentes aos do conteúdo do registo.\n\n3 - Quando houver risco de a reprodução causar dano ao documento, pode o requerente, a expensas suas e sob a direcção do serviço detentor, promover a cópia manual ou a reprodução por outro meio que não prejudique a sua conservação.\n\n4 - Os documentos informatizados são enviados por qualquer meio de transmissão electrónica de dados, sempre que tal for possível e desde que se trate de meio adequado à inteligibilidade e fiabilidade do seu conteúdo e em termos rigorosamente correspondentes ao do conteúdo do registo.\n\n5 - A entidade requerida não tem o dever de criar ou adaptar documentos para satisfazer o pedido, nem a obrigação de fornecer extractos de documentos, caso isso envolva um esforço desproporcionado que ultrapasse a simples manipulação dos mesmos."
+  },
+  "70467894": {
+   "fragment_id": "70462248",
+   "type": 11,
+   "heading": "Artigo 12.º — Encargos de reprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Encargos de reprodução\n\n1 - A reprodução prevista na alínea b) do n.º 1 do artigo anterior faz-se num exemplar, sujeito a pagamento, pela pessoa que a solicitar, da taxa fixada, que deve corresponder à soma dos encargos proporcionais com a utilização de máquinas e ferramentas e dos custos dos materiais usados e do serviço prestado, sem que, porém, ultrapasse o valor médio praticado no mercado por serviço correspondente.\n\n2 - Tendo em conta o disposto no número anterior, o Governo da República e os Governos das Regiões Autónomas, ouvida a Comissão de Acesso aos Documentos Administrativos (doravante abreviadamente designada por CADA) e as associações nacionais das autarquias locais, devem fixar as taxas a cobrar pelas reproduções e certidões dos documentos administrativos.\n\n3 - As entidades com poder tributário autónomo não podem fixar taxas que ultrapassem em mais de 100 % os valores respectivamente fixados nos termos do número anterior, aos quais se devem subordinar enquanto não editarem tabelas próprias.\n\n4 - Os órgãos e entidades a que se refere o artigo 4.º devem afixar em lugar acessível ao público uma lista das taxas que cobram pelas reproduções e certidões de documentos administrativos.\n\n5 - A entidade requerida pode exigir um preparo que garanta as taxas devidas e, quando for caso disso, os encargos de remessa."
+  },
+  "70467895": {
+   "fragment_id": "70462249",
+   "type": 11,
+   "heading": "Artigo 13.º — Pedido de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pedido de acesso\n\n1 - O acesso aos documentos deve ser solicitado por escrito através de requerimento do qual constem os elementos essenciais à sua identificação, bem como o nome, morada e assinatura do requerente.\n\n2 - A entidade requerida pode também aceitar pedidos verbais e deve fazê-lo nos casos em que a lei assim o determine.\n\n3 - A apresentação de queixa à CADA, nos termos da presente lei, pressupõe pedido escrito de acesso ou, pelo menos, a formalização por escrito do indeferimento de pedido verbal.\n\n4 - Se o pedido não for suficientemente preciso, a entidade requerida deve, no prazo de cinco dias, indicar ao requerente essa deficiência e convidá-lo a supri-la em prazo fixado para o efeito.\n\n5 - Os órgãos e entidades a que se refere o artigo 4.º prestarão, através dos seus funcionários, assistência ao público na identificação dos documentos pretendidos, designadamente informando sobre a forma de organização e utilização dos seus arquivos e registos."
+  },
+  "70467896": {
+   "fragment_id": "70462250",
+   "type": 11,
+   "heading": "Artigo 14.º — Resposta ao pedido de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Resposta ao pedido de acesso\n\n1 - A entidade a quem foi dirigido o requerimento de acesso a um documento administrativo deve, no prazo de 10 dias:\n\na) Comunicar a data, local e modo para se efectivar a consulta, se requerida;\n\nb) Emitir a reprodução ou certidão requeridas;\n\nc) Comunicar por escrito as razões da recusa, total ou parcial, do acesso ao documento pretendido, bem como quais as garantias de recurso administrativo e contencioso dessa decisão;\n\nd) Informar que não possui o documento e, se souber qual a entidade que o detém, remeter-lhe o requerimento, com conhecimento ao requerente;\n\ne) Expor à CADA dúvidas que tenha sobre a decisão a proferir, a fim de esta entidade emitir parecer.\n\n2 - No caso da alínea e) do número anterior, a entidade requerida deve informar o requerente e enviar à CADA cópia do requerimento e de todas as informações e documentos que contribuam para convenientemente o instruir.\n\n3 - A Administração não está obrigada a satisfazer pedidos que, face ao seu carácter repetitivo e sistemático ou ao número de documentos requeridos, sejam manifestamente abusivos.\n\n4 - Em casos excepcionais, se o volume ou a complexidade da informação o justificarem, o prazo referido no n.º 1 pode ser prorrogado, até ao máximo de dois meses, devendo o requerente ser informado desse facto com indicação dos respectivos fundamentos, no prazo máximo de 10 dias."
+  },
+  "70467897": {
+   "fragment_id": "70462251",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de queixa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito de queixa\n\n1 - O requerente pode queixar-se à CADA contra falta de resposta, indeferimento ou outra decisão limitadora do acesso a documentos administrativos.\n\n2 - A queixa interrompe o prazo para introdução em juízo de petição de intimação para a prestação de informações, consulta de processos ou passagem de certidões e deve ser apresentada dentro de tal prazo, a que se aplicam, com as devidas adaptações, as disposições relativas à remessa a juízo das peças processuais.\n\n3 - Se não for caso de indeferimento liminar, a CADA deve convidar a entidade requerida a responder à queixa no prazo de 10 dias.\n\n4 - Tanto no caso de queixa como no da consulta prevista na alínea e) do n.º 1 do artigo 14.º, a CADA tem o prazo de 40 dias para elaborar o correspondente relatório de apreciação da situação, enviando-o, com as devidas conclusões, a todos os interessados.\n\n5 - Recebido o relatório referido no número anterior, a entidade requerida comunica ao requerente a sua decisão final fundamentada, no prazo de 10 dias, sem o que se considera haver falta de decisão.\n\n6 - Tanto a decisão como a falta de decisão a que se refere o número anterior podem ser impugnadas pelo interessado junto dos tribunais administrativos, aplicando-se, com as devidas adaptações, as regras do processo de intimação referido no n.º 2."
+  },
+  "70467898": {
+   "fragment_id": "70462252",
+   "type": 8,
+   "heading": "Secção II — Da reutilização dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da reutilização dos documentos"
+  },
+  "70467899": {
+   "fragment_id": "70462253",
+   "type": 11,
+   "heading": "Artigo 16.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Princípio geral\n\n1 - Os documentos detidos ou elaborados pelas entidades referidas no artigo 4.º, cujo acesso seja autorizado nos termos da presente lei, podem ser reutilizados por pessoas singulares ou colectivas para fins diferentes do fim de serviço público para o qual foram produzidos.\n\n2 - As disposições da presente secção não prejudicam a utilização de textos de convenções, de leis, de regulamentos e de relatórios ou de decisões administrativas, judiciais ou de quaisquer órgãos ou autoridades do Estado ou da Administração, bem como a utilização das traduções oficiais destes textos.\n\n3 - As disposições da presente secção não são aplicáveis aos documentos detidos ou elaborados por:\n\na) Empresas de radiodifusão de serviço público, suas filiais e outros organismos que cumpram funções de radiodifusão de serviço público;\n\nb) Estabelecimentos de ensino e investigação, incluindo, quando pertinente, organizações criadas com vista à transferência de resultados de investigação;\n\nc) Pessoas colectivas públicas ou privadas que se dediquem à prestação de actividades culturais, designadamente museus, bibliotecas, arquivos, orquestras, óperas, companhias de bailado e de teatro.\n\n4 - A troca de documentos entre as entidades referidas no artigo 4.º, exclusivamente no desempenho das suas funções, não constitui reutilização.\n\n5 - Salvo acordo da Administração, quem reutilizar documentos administrativos não deve alterar a informação neles vertida, nem deve permitir que o seu sentido seja desvirtuado e deve mencionar sempre as fontes, bem como a data da última actualização dessa informação."
+  },
+  "70467900": {
+   "fragment_id": "70462254",
+   "type": 11,
+   "heading": "Artigo 17.º — Pedido de reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pedido de reutilização\n\n1 - A reutilização de documentos depende de autorização expressa da entidade que os detenha, mediante pedido formulado pelo requerente.\n\n2 - O pedido de reutilização é formulado por escrito no mesmo requerimento em que é solicitado o acesso ao documento.\n\n3 - Quando a reutilização de documentos se destine a fins educativos ou de investigação e desenvolvimento, o requerente deve indicá-lo expressamente."
+  },
+  "70467901": {
+   "fragment_id": "70462255",
+   "type": 11,
+   "heading": "Artigo 18.º — Documentos excluídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Documentos excluídos\n\nNão podem ser objecto de reutilização:\n\na) Documentos elaborados no exercício de uma actividade de gestão privada da entidade em causa;\n\nb) Documentos cujos direitos de autor ou direitos conexos pertençam a terceiros ou cuja reprodução, difusão ou utilização possam configurar práticas de concorrência desleal;\n\nc) Documentos nominativos, salvo autorização do titular, disposição legal que a preveja expressamente ou quando os juízos de valor ou informações abrangidas pela reserva da intimidade da vida privada possam ser anonimizados."
+  },
+  "70467902": {
+   "fragment_id": "70462256",
+   "type": 11,
+   "heading": "Artigo 19.º — Resposta da entidade requerida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Resposta da entidade requerida\n\n1 - A entidade a quem foi dirigido o requerimento de reutilização do documento deve, no mesmo prazo que o previsto no n.º 1 do artigo 14.º:\n\na) Autorizar a reutilização do documento; ou\n\nb) Indicar as razões de recusa, total ou parcial, de reutilização do documento e quais os meios de tutela de que dispõe o requerente contra essa decisão.\n\n2 - O pedido de reutilização do documento só pode ser indeferido com fundamento na violação de disposições legais, nomeadamente de alguma das disposições da presente lei.\n\n3 - O dever de indicar as razões de recusa compreende a indicação da pessoa singular ou colectiva titular do direito de autor ou de direitos conexos sobre o documento, quando essa titularidade constitua o fundamento da recusa da reutilização pretendida.\n\n4 - O prazo previsto no n.º 1 pode ser prorrogado uma vez, por igual período, nos casos de pedidos extensos ou complexos, mediante notificação ao requerente nos cinco dias subsequentes à recepção do pedido."
+  },
+  "70467903": {
+   "fragment_id": "70462257",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições de reutilização\n\n1 - A autorização concedida nos termos do artigo anterior pode ser subordinada à observância de determinadas condições de reutilização.\n\n2 - A reutilização de documentos pode ainda ser subordinada a pagamento por parte do requerente, nos termos e condições a fixar por portaria conjunta dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da modernização administrativa, não podendo o valor total cobrado pelo acesso e pela reutilização exceder os custos suportados com a recolha, produção, reprodução e divulgação do respectivo documento, acrescidos de uma rentabilidade razoável, tendo em vista a recuperação de eventuais investimentos e a boa qualidade do serviço.\n\n3 - A reutilização pode também ser subordinada a pagamento por parte do requerente do custo da anonimização dos documentos.\n\n4 - A entidade requerida pode exigir um preparo que garanta as taxas devidas e, quando for caso disso, os encargos de remessa.\n\n5 - Na fixação dos valores a cobrar nos termos dos n.os 1 e 2, a entidade requerida deve basear-se nos custos durante o exercício contabilístico normal calculados de acordo com os princípios contabilísticos aplicáveis.\n\n6 - Devem ser introduzidos regimes diferenciados de preços consoante os documentos sejam reutilizados para fins comerciais ou não comerciais, sendo gratuita a reutilização de documentos para fins educativos ou de investigação e desenvolvimento.\n\n7 - As condições de reutilização e os valores cobrados não devem restringir desnecessariamente as possibilidades de reutilização, não podendo a entidade requerida, por essa via, discriminar categorias de reutilização equivalentes ou limitar a concorrência."
+  },
+  "70467904": {
+   "fragment_id": "70462258",
+   "type": 11,
+   "heading": "Artigo 21.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Publicidade\n\nAs condições de reutilização e os preços aplicáveis, incluindo o prazo e a forma do respectivo pagamento, são preestabelecidos e publicitados, sempre que possível por via electrónica, devendo ser indicada a base de cálculo dos valores a cobrar sempre que solicitada pelo requerente."
+  },
+  "70467905": {
+   "fragment_id": "70462259",
+   "type": 11,
+   "heading": "Artigo 22.º — Proibição de acordos exclusivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Proibição de acordos exclusivos\n\n1 - É proibida a celebração de acordos exclusivos de reutilização de documentos, com excepção dos casos em que a constituição de um direito exclusivo é necessária para a prestação de um serviço de interesse público.\n\n2 - Os acordos exclusivos celebrados ao abrigo do número anterior, bem como a respectiva fundamentação, devem ser publicitados, sempre que possível por via electrónica.\n\n3 - Os motivos subjacentes à constituição de um direito exclusivo devem ser objecto de um exame periódico, a realizar, pelo menos, de três em três anos.\n\n4 - Os acordos exclusivos existentes que não respeitem o disposto no n.º 1 caducam em 31 de Dezembro de 2008."
+  },
+  "70467906": {
+   "fragment_id": "70462260",
+   "type": 11,
+   "heading": "Artigo 23.º — Intimação para a reutilização de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Intimação para a reutilização de documentos\n\nSem prejuízo de outras garantias previstas na lei, quando não seja dada integral satisfação ao pedido de reutilização formulado nos termos da presente secção, o interessado pode requerer ao tribunal administrativo competente a intimação da entidade requerida, sendo correspondentemente aplicável o disposto nos artigos 104.º a 108.º do Código de Processo nos Tribunais Administrativos."
+  },
+  "70467907": {
+   "fragment_id": "70462261",
+   "type": 11,
+   "heading": "Artigo 24.º — Divulgação de documentos disponíveis para reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Divulgação de documentos disponíveis para reutilização\n\n1 - As entidades abrangidas pelas disposições da presente secção devem publicitar, sempre que possível por via electrónica, listas de existências dos documentos disponíveis para reutilização.\n\n2 - A informação prevista no número anterior deve ser, logo que possível, organizada num portal de existências descentralizadas, com vista a facilitar a procura de documentos disponíveis para reutilização."
+  },
+  "70467908": {
+   "fragment_id": "70462262",
+   "type": 1,
+   "heading": "Capítulo III — CADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — CADA"
+  },
+  "70467909": {
+   "fragment_id": "70462263",
+   "type": 11,
+   "heading": "Artigo 25.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Natureza\n\n1 - A CADA é uma entidade administrativa independente, que funciona junto da Assembleia da República e a quem cabe zelar pelo cumprimento das disposições da presente lei.\n\n2 - A CADA dispõe de orçamento anual, cuja dotação é inscrita no orçamento da Assembleia da República."
+  },
+  "70467910": {
+   "fragment_id": "70462264",
+   "type": 11,
+   "heading": "Artigo 26.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Composição\n\n1 - A CADA é composta pelos seguintes membros:\n\na) Um juiz conselheiro do Supremo Tribunal Administrativo, designado pelo Conselho Superior dos Tribunais Administrativos e Fiscais, que preside;\n\nb) Dois deputados eleitos pela Assembleia da República, sendo um sob proposta do grupo parlamentar do maior partido que apoia o Governo e o outro sob proposta do maior partido da oposição;\n\nc) Um professor de Direito designado pelo Presidente da Assembleia da República;\n\nd) Duas personalidades designadas pelo Governo;\n\ne) Uma personalidade designada por cada um dos Governos das Regiões Autónomas;\n\nf) Uma personalidade designada pela Associação Nacional dos Municípios Portugueses;\n\ng) Um advogado designado pela Ordem dos Advogados;\n\nh) Um membro designado, de entre os seus vogais, pela Comissão Nacional de Protecção de Dados.\n\n2 - Os titulares são substituídos por um suplente, designado pelas mesmas entidades.\n\n3 - Os membros da CADA tomam posse perante o Presidente da Assembleia da República nos 10 dias seguintes à publicação da respectiva lista na 1.ª série do Diário da República.\n\n4 - Os mandatos são de dois anos, renováveis, e cessam com a posse dos novos titulares."
+  },
+  "70467911": {
+   "fragment_id": "70462265",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência\n\n1 - Compete à CADA:\n\na) Elaborar a sua regulamentação interna, a publicar na 2.ª série do Diário da República;\n\nb) Apreciar as queixas que lhe sejam apresentadas nos termos do artigo 15.º;\n\nc) Emitir parecer sobre o acesso aos documentos administrativos, a solicitação dos órgãos e entidades a que se refere o artigo 4.º;\n\nd) Emitir parecer sobre a comunicação de documentos entre serviços e organismos da Administração, a pedido da entidade requerida ou da interessada, a não ser que se anteveja risco de interconexão de dados, caso em que a questão é submetida à apreciação da Comissão Nacional de Protecção de Dados;\n\ne) Pronunciar-se sobre o sistema de registo e de classificação de documentos;\n\nf) Emitir parecer sobre a aplicação da presente lei, bem como sobre a elaboração e aplicação de diplomas complementares, a solicitação da Assembleia da República, do Governo e dos órgãos e entidades a que se refere o artigo 4.º;\n\ng) Elaborar um relatório anual sobre a aplicação da presente lei e a sua actividade, a enviar à Assembleia da República para publicação e apreciação e ao Primeiro-Ministro;\n\nh) Contribuir para o esclarecimento e divulgação das diferentes vias de acesso aos documentos administrativos no âmbito do princípio da administração aberta;\n\ni) Aplicar coimas em processos de contra-ordenação.\n\n2 - Os projectos de deliberação são elaborados pelos membros da CADA, com o apoio dos serviços técnicos.\n\n3 - Os pareceres são publicados nos termos do regulamento interno."
+  },
+  "70467912": {
+   "fragment_id": "70462266",
+   "type": 11,
+   "heading": "Artigo 28.º — Cooperação da administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cooperação da administração\n\n1 - Todos os dirigentes, funcionários e agentes dos órgãos e entidades a que se refere o artigo 4.º têm o dever de cooperação com a CADA, sob pena de responsabilidade disciplinar ou de outra natureza, nos termos da lei.\n\n2 - Para efeitos do número anterior devem ser comunicadas todas as informações relevantes para o conhecimento das questões apresentadas à CADA no âmbito das suas competências."
+  },
+  "70467913": {
+   "fragment_id": "70462267",
+   "type": 11,
+   "heading": "Artigo 29.º — Estatuto dos membros da CADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Estatuto dos membros da CADA\n\n1 - Não podem ser membros da CADA os cidadãos que não se encontrem no pleno gozo dos seus direitos civis e políticos.\n\n2 - São deveres dos membros da CADA:\n\na) Exercer o cargo com isenção, rigor e independência;\n\nb) Participar activa e assiduamente nos trabalhos da CADA.\n\n3 - Os membros da CADA não podem ser prejudicados na estabilidade do seu emprego, na sua carreira profissional, nomeadamente nas promoções a que entretanto tenham adquirido direito, nem nos concursos públicos a que se submetam e ainda no regime de segurança social de que beneficiem à data do início do mandato.\n\n4 - Os membros da CADA são inamovíveis, não podendo as suas funções cessar antes do termo do mandato, salvo nos seguintes casos:\n\na) Morte;\n\nb) Impossibilidade física permanente ou com uma duração que se preveja ultrapassar a data do termo do mandato;\n\nc) Renúncia ao mandato;\n\nd) Perda do mandato.\n\n5 - A renúncia ao mandato torna-se eficaz com a apresentação da respectiva declaração escrita ao presidente da CADA e é publicada na 2.ª série do Diário da República.\n\n6 - Perdem o mandato os membros da CADA que venham a ser abrangidos por incapacidade ou incompatibilidade prevista na lei, ou que faltem, no mesmo ano civil, a três reuniões consecutivas ou a seis interpoladas, salvo motivo justificado.\n\n7 - A perda do mandato é objecto de deliberação a publicar na 2.ª série do Diário da República."
+  },
+  "70467914": {
+   "fragment_id": "70462268",
+   "type": 11,
+   "heading": "Artigo 30.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Estatuto remuneratório\n\n1 - O presidente aufere a remuneração e outras regalias a que tem direito como juiz conselheiro do Supremo Tribunal Administrativo, bem como um abono mensal para despesas de representação no valor de 20 % do respectivo vencimento base.\n\n2 - À excepção do presidente, todos os membros podem exercer o seu mandato em acumulação com outras funções e auferem um abono correspondente a 25 % do valor do índice 100 da escala salarial do pessoal dirigente da função pública.\n\n3 - À excepção do presidente, todos os membros auferem um abono correspondente a 5 % do valor do índice 100 da escala salarial do pessoal dirigente da função pública por cada sessão da CADA em que participem.\n\n4 - Todos os membros têm direito a ajudas de custo e ao reembolso de despesas com transportes e com telecomunicações nos termos previstos para o cargo de director-geral.\n\n5 - Nas deslocações das personalidades designadas pelos Governos das Regiões Autónomas o abono das ajudas de custo será processado segundo o regime vigente nas respectivas administrações regionais."
+  },
+  "70467915": {
+   "fragment_id": "70462269",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competência do presidente\n\n1 - No quadro das orientações dadas pela CADA, o presidente exerce, com possibilidade de delegação no secretário, as competências fixadas na lei para o cargo de dirigente máximo de organismo autónomo em matéria de gestão de pessoal, financeira, patrimonial e administrativa.\n\n2 - A CADA pode delegar no presidente poderes para apreciar e decidir:\n\na) Queixas manifestamente infundadas ou extemporâneas;\n\nb) Desistências;\n\nc) Casos de inutilidade superveniente."
+  },
+  "70467916": {
+   "fragment_id": "70462270",
+   "type": 11,
+   "heading": "Artigo 32.º — Serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Serviços de apoio\n\n1 - A CADA dispõe de serviços próprios de apoio técnico e administrativo, cujo regulamento e mapa de pessoal são aprovados por resolução da Assembleia da República, sob proposta da Comissão.\n\n2 - O regulamento e o mapa de pessoal previstos na Lei n.º 8/95, de 29 de Março, continuam a ser aplicáveis até à entrada em vigor do instrumento jurídico a que se refere o número anterior."
+  },
+  "70467917": {
+   "fragment_id": "70462271",
+   "type": 1,
+   "heading": "Capítulo IV — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Contra-ordenações"
+  },
+  "70467918": {
+   "fragment_id": "70462272",
+   "type": 11,
+   "heading": "Artigo 33.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Contra-ordenações\n\n1 - Praticam contra-ordenação punível com coima as pessoas singulares ou colectivas que:\n\na) Reutilizem documentos do sector público sem autorização da entidade competente;\n\nb) Reutilizem documentos do sector público sem observar as condições de reutilização estabelecidas no n.º 1 do artigo 20.º;\n\nc) Reutilizem documentos do sector público sem que tenham procedido ao pagamento do valor fixado nos n.os 2 e 3 do artigo 20.º\n\n2 - As infracções previstas nas alíneas a) e c) do número anterior são puníveis com as seguintes coimas:\n\na) Tratando-se de pessoa singular, no mínimo de (euro) 300 e no máximo de (euro) 3500;\n\nb) Tratando-se de pessoa colectiva, no mínimo de (euro) 2500 e no máximo de (euro) 25 000.\n\n3 - A infracção prevista na alínea b) do n.º 1 é punível com as seguintes coimas:\n\na) Tratando-se de pessoa singular, no mínimo de (euro) 150 e no máximo de (euro) 1750;\n\nb) Tratando-se de pessoa colectiva, no mínimo de (euro) 1250 e no máximo de (euro) 12 500."
+  },
+  "70467919": {
+   "fragment_id": "70462273",
+   "type": 11,
+   "heading": "Artigo 34.º — Negligência e tentativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Negligência e tentativa\n\nA negligência e a tentativa são sempre punidas nas contra-ordenações previstas no artigo anterior."
+  },
+  "70467920": {
+   "fragment_id": "70462274",
+   "type": 11,
+   "heading": "Artigo 35.º — Aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Aplicação das coimas\n\n1 - A instrução do processo de contra-ordenação compete aos serviços da Administração onde foi detectada a infracção, podendo ser completada pelos serviços de apoio da CADA.\n\n2 - A aplicação das coimas previstas na presente lei é da competência da CADA.\n\n3 - A deliberação da CADA constitui título executivo, no caso de não ser impugnada no prazo legal."
+  },
+  "70467921": {
+   "fragment_id": "70471175",
+   "type": 11,
+   "heading": "Artigo 36.º — Destino das receitas cobradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Destino das receitas cobradas\n\nO montante das importâncias cobradas, em resultado da aplicação das coimas, reverte:\n\na) Em 40 % para a CADA;\n\nb) Em 40 % para os cofres do Estado; e\n\nc) Em 20 % para a entidade referida no artigo 4.º lesada com a prática da infracção."
+  },
+  "70467922": {
+   "fragment_id": "70471176",
+   "type": 11,
+   "heading": "Artigo 37.º — Omissão de dever",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Omissão de dever\n\nSempre que a contra-ordenação resulte da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível."
+  },
+  "70467923": {
+   "fragment_id": "70471177",
+   "type": 11,
+   "heading": "Artigo 38.º — Impugnação judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Impugnação judicial\n\n1 - A impugnação da decisão final da CADA reveste a forma de reclamação a apresentar no prazo de 10 dias a contar da respectiva notificação.\n\n2 - Em face dessa impugnação, a CADA pode modificar ou revogar a sua decisão, notificando o arguido ou arguidos da nova decisão final.\n\n3 - Caso mantenha a anterior decisão, a CADA remete a reclamação em 10 dias ao Ministério Público a prestar funções no Tribunal Administrativo e Fiscal de Lisboa."
+  },
+  "70467924": {
+   "fragment_id": "70471178",
+   "type": 11,
+   "heading": "Artigo 39.º — Decurso do processo judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Decurso do processo judicial\n\n1 - O Ministério Público, assessorado por técnico ou representante da CADA, conclui os autos e torna-os presentes ao juiz.\n\n2 - O juiz pode decidir a questão nos termos da presente lei por simples despacho, se a tal não se opuserem a defesa, o Ministério Público e a CADA.\n\n3 - Se houver audiência, as respectivas formalidades são reduzidas ao mínimo indispensável, não havendo lugar à gravação de prova, nem à audição de mais de três testemunhas por cada contra-ordenação imputada.\n\n4 - O juiz tem sempre competência para arbitrar uma indemnização a quem entenda ter a ela direito.\n\n5 - Da decisão final do juiz cabe recurso per saltum para o Supremo Tribunal Administrativo, que decidirá de direito."
+  },
+  "70467925": {
+   "fragment_id": "70471179",
+   "type": 11,
+   "heading": "Artigo 40.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Revogação\n\nÉ revogada a Lei n.º 65/93, de 26 de Agosto, com a redacção introduzida pelas Leis n.os 8/95, de 29 de Março, e 94/99, de 16 de Julho, bem como pelo artigo 19.º da Lei n.º 19/2006, de 12 de Junho."
+  },
+  "70467926": {
+   "fragment_id": "70471180",
+   "type": 11,
+   "heading": "Artigo 41.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Entrada em vigor\n\nA presente lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação, à excepção do disposto no artigo 30.º, que produz efeitos com a entrada em vigor da lei do Orçamento do Estado posterior à sua aprovação."
+  },
+  "70467879": {
+   "fragment_id": "70462233",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 46/2007\n\nde 24 de Agosto\n\nRegula o acesso aos documentos administrativos e a sua reutilização, revoga a Lei n.º 65/93, de 26 de Agosto, com a redacção introduzida pelas Lei n.os 8/95, de 29 de Março, e 94/99, de 16 de Julho, e transpõe para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0098\" title=\"Link para Directiva da Comunidade Europeia\">2003/98/CE</a>, do Parlamento e do Conselho, de 17 de Novembro, relativa à reutilização de informações do sector público.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70467928": {
+   "fragment_id": "70462250",
+   "type": 11,
+   "heading": "Artigo 14.º — Resposta ao pedido de acesso",
+   "in_force_from": "2015-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+   ],
+   "markdown": "###### Artigo 14.º — Resposta ao pedido de acesso\n\n1 - A entidade a quem foi dirigido o requerimento de acesso a um documento administrativo deve, no prazo de 10 dias:\n\na) Comunicar a data, local e modo para se efectivar a consulta, se requerida;\n\nb) Emitir a reprodução ou certidão requeridas;\n\nc) Comunicar por escrito as razões da recusa, total ou parcial, do acesso ao documento pretendido, bem como quais as garantias de recurso administrativo e contencioso dessa decisão;\n\nd) Informar que não possui o documento e, se souber qual a entidade que o detém, remeter-lhe o requerimento, com conhecimento ao requerente;\n\ne) Expor à CADA dúvidas que tenha sobre a decisão a proferir, a fim de esta entidade emitir parecer no prazo máximo de 30 dias.\n\n2 - No caso da alínea e) do número anterior, a entidade requerida deve informar o requerente e enviar à CADA cópia do requerimento e de todas as informações e documentos que contribuam para convenientemente o instruir.\n\n3 - A Administração não está obrigada a satisfazer pedidos que, face ao seu carácter repetitivo e sistemático ou ao número de documentos requeridos, sejam manifestamente abusivos.\n\n4 - Em casos excepcionais, se o volume ou a complexidade da informação o justificarem, o prazo referido no n.º 1 pode ser prorrogado, até ao máximo de dois meses, devendo o requerente ser informado desse facto com indicação dos respectivos fundamentos, no prazo máximo de 10 dias.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+  },
+  "70467929": {
+   "fragment_id": "70462260",
+   "type": 11,
+   "heading": "Artigo 23.º — Intimação para a reutilização de documentos",
+   "in_force_from": "2015-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+   ],
+   "markdown": "###### Artigo 23.º — Intimação para a reutilização de documentos\n\nQuando não seja dada integral satisfação ao pedido de reutilização de acordo com o disposto na presente secção, o interessado pode apresentar queixa à CADA ou requerer ao tribunal administrativo competente a intimação da entidade requerida, nos termos previstos na presente lei e no Código de Processo nos Tribunais Administrativos.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+  },
+  "70467930": {
+   "fragment_id": "70462269",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência do presidente",
+   "in_force_from": "2015-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+   ],
+   "markdown": "###### Artigo 31.º — Competência do presidente\n\n1 - No quadro das orientações dadas pela CADA, o presidente exerce, com possibilidade de delegação no secretário, as competências fixadas na lei para o cargo de dirigente máximo de organismo autónomo em matéria de gestão de pessoal, financeira, patrimonial e administrativa.\n\n2 - A CADA pode delegar no presidente poderes para apreciar e decidir:\n\na) Queixas manifestamente infundadas ou extemporâneas;\n\nb) Desistências;\n\nc) Casos de inutilidade superveniente.\n\nd) Queixas sobre questões que já tenham sido apreciadas pela CADA de modo uniforme e reiterado.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+  },
+  "70467927": {
+   "fragment_id": "70471181",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 8 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 16 de Agosto de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "107738329": {
+   "fragment_id": "70462234",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738330": {
+   "fragment_id": "70462235",
+   "type": 11,
+   "heading": "Artigo 1.º — Administração aberta",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Administração aberta\n\nO acesso e a reutilização dos documentos administrativos são assegurados de acordo com os princípios da publicidade, da transparência, da igualdade, da justiça e da imparcialidade.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738331": {
+   "fragment_id": "70462236",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - A presente lei regula o acesso aos documentos administrativos, sem prejuízo do disposto na legislação relativa ao acesso à informação em matéria de ambiente.\n\n2 - A presente lei regula ainda a reutilização de documentos relativos a actividades desenvolvidas pelas entidades referidas no artigo 4.º, transpondo para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0098\" title=\"Link para Directiva da Comunidade Europeia\">2003/98/CE</a>, do Parlamento Europeu e do Conselho, de 17 de Novembro, relativa à reutilização de informações do sector público.\n\n3 - O acesso a documentos nominativos, nomeadamente quando incluam dados de saúde, efectuado pelo titular da informação, por terceiro autorizado pelo titular ou por quem demonstre um interesse directo, pessoal e legítimo rege-se pela presente lei.\n\n4 - O regime de exercício do direito dos cidadãos a serem informados pela Administração sobre o andamento dos processos em que sejam directamente interessados e a conhecer as resoluções definitivas que sobre eles forem tomadas consta de legislação própria.\n\n5 - O acesso aos documentos notariais e registrais, aos documentos de identificação civil e criminal e aos documentos depositados em arquivos históricos rege-se por legislação própria.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738332": {
+   "fragment_id": "70462237",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos da presente lei, considera-se:\n\na) «Documento administrativo» qualquer suporte de informação sob forma escrita, visual, sonora, electrónica ou outra forma material, na posse dos órgãos e entidades referidos no artigo seguinte, ou detidos em seu nome;\n\nb) «Documento nominativo» o documento administrativo que contenha, acerca de pessoa singular, identificada ou identificável, apreciação ou juízo de valor, ou informação abrangida pela reserva da intimidade da vida privada.\n\n2 - Não se consideram documentos administrativos, para efeitos da presente lei:\n\na) As notas pessoais, esboços, apontamentos e outros registos de natureza semelhante;\n\nb) Os documentos cuja elaboração não releve da actividade administrativa, designadamente referentes à reunião do Conselho de Ministros e de secretários de Estado, bem como à sua preparação.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738333": {
+   "fragment_id": "70462238",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito de aplicação",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se aos seguintes órgãos e entidades:\n\na) Órgãos do Estado e das Regiões Autónomas, que integrem a Administração Pública;\n\nb) Demais órgãos do Estado e das Regiões Autónomas, na medida em que desenvolvam funções materialmente administrativas;\n\nc) Órgãos dos institutos públicos e das associações e fundações públicas;\n\nd) Órgãos das empresas públicas;\n\ne) Órgãos das autarquias locais e das suas associações e federações;\n\nf) Órgãos das empresas regionais, intermunicipais e municipais;\n\ng) Outras entidades no exercício de funções administrativas ou de poderes públicos.\n\n2 - As disposições da presente lei são ainda aplicáveis aos documentos detidos ou elaborados por quaisquer entidades dotadas de personalidade jurídica que tenham sido criadas para satisfazer de um modo específico necessidades de interesse geral, sem carácter industrial ou comercial, e em relação às quais se verifique uma das seguintes circunstâncias:\n\na) A respectiva actividade seja financiada maioritariamente por alguma das entidades referidas no número anterior ou no presente número;\n\nb) A respectiva gestão esteja sujeita a um controlo por parte de alguma das entidades referidas no número anterior ou no presente número;\n\nc) Os respectivos órgãos de administração, de direcção ou de fiscalização sejam compostos, em mais de metade, por membros designados por alguma das entidades referidas no número anterior ou no presente número.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738334": {
+   "fragment_id": "70462239",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito de acesso",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Direito de acesso\n\nTodos, sem necessidade de enunciar qualquer interesse, têm direito de acesso aos documentos administrativos, o qual compreende os direitos de consulta, de reprodução e de informação sobre a sua existência e conteúdo.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738335": {
+   "fragment_id": "70462240",
+   "type": 11,
+   "heading": "Artigo 6.º — Restrições ao direito de acesso",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Restrições ao direito de acesso\n\n1 - Os documentos que contenham informações cujo conhecimento seja avaliado como podendo pôr em risco ou causar dano à segurança interna e externa do Estado ficam sujeitos a interdição de acesso ou a acesso sob autorização, durante o tempo estritamente necessário, através da classificação nos termos de legislação específica.\n\n2 - O acesso a documentos referentes a matérias em segredo de justiça é regulado por legislação própria.\n\n3 - O acesso aos documentos administrativos preparatórios de uma decisão ou constantes de processos não concluídos pode ser diferido até à tomada de decisão, ao arquivamento do processo ou ao decurso de um ano após a sua elaboração.\n\n4 - O acesso aos inquéritos e sindicâncias tem lugar após o decurso do prazo para eventual procedimento disciplinar.\n\n5 - Um terceiro só tem direito de acesso a documentos nominativos se estiver munido de autorização escrita da pessoa a quem os dados digam respeito ou demonstrar interesse directo, pessoal e legítimo suficientemente relevante segundo o princípio da proporcionalidade.\n\n6 - Um terceiro só tem direito de acesso a documentos administrativos que contenham segredos comerciais, industriais ou sobre a vida interna de uma empresa se estiver munido de autorização escrita desta ou demonstrar interesse directo, pessoal e legítimo suficientemente relevante segundo o princípio da proporcionalidade.\n\n7 - Os documentos administrativos sujeitos a restrições de acesso são objecto de comunicação parcial sempre que seja possível expurgar a informação relativa à matéria reservada.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738336": {
+   "fragment_id": "70462241",
+   "type": 11,
+   "heading": "Artigo 7.º — Comunicação de dados de saúde",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Comunicação de dados de saúde\n\nA comunicação de dados de saúde é feita por intermédio de médico se o requerente o solicitar.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738337": {
+   "fragment_id": "70462242",
+   "type": 11,
+   "heading": "Artigo 8.º — Uso ilegítimo de informações",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Uso ilegítimo de informações\n\n1 - Não é permitida a utilização de informações em violação dos direitos de autor ou dos direitos de propriedade industrial.\n\n2 - Os documentos nominativos comunicados a terceiros não podem ser utilizados para fins diversos dos que determinaram o acesso, sob pena de responsabilidade por perdas e danos, nos termos legais.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738338": {
+   "fragment_id": "70462243",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsável pelo acesso",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Responsável pelo acesso\n\nCada ministério, secretaria regional, autarquia local, instituto público, associação pública, fundação pública, empresa pública, empresa regional, empresa intermunicipal e empresa municipal designa um responsável pelo cumprimento das disposições da presente lei.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738339": {
+   "fragment_id": "70462244",
+   "type": 11,
+   "heading": "Artigo 10.º — Divulgação de informação",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Divulgação de informação\n\nOs órgãos e entidades a que se refere o artigo 4.º devem assegurar a divulgação, designadamente em bases de dados electrónicas facilmente acessíveis ao público através de redes públicas de telecomunicações, da seguinte informação administrativa, a actualizar no mínimo semestralmente:\n\na) Todos os documentos, designadamente despachos normativos internos, circulares e orientações, que comportem enquadramento da actividade administrativa;\n\nb) A enunciação de todos os documentos que comportem interpretação de direito positivo ou descrição de procedimento administrativo, mencionando designadamente o seu título, matéria, data, origem e local onde podem ser consultados.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738340": {
+   "fragment_id": "70462245",
+   "type": 1,
+   "heading": "Capítulo II — Exercício do direito de acesso e de reutilização dos documentos administrativos",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "### Capítulo II — Exercício do direito de acesso e de reutilização dos documentos administrativos\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738341": {
+   "fragment_id": "70462246",
+   "type": 8,
+   "heading": "Secção I — Direito de acesso",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "#### Secção I — Direito de acesso\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738342": {
+   "fragment_id": "70462247",
+   "type": 11,
+   "heading": "Artigo 11.º — Forma do acesso",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Forma do acesso\n\n1 - O acesso aos documentos administrativos exerce-se através dos seguintes meios, conforme opção do requerente:\n\na) Consulta gratuita, efectuada nos serviços que os detêm;\n\nb) Reprodução por fotocópia ou por qualquer meio técnico, designadamente visual, sonoro ou electrónico;\n\nc) Certidão.\n\n2 - Os documentos são transmitidos em forma inteligível e em termos rigorosamente correspondentes aos do conteúdo do registo.\n\n3 - Quando houver risco de a reprodução causar dano ao documento, pode o requerente, a expensas suas e sob a direcção do serviço detentor, promover a cópia manual ou a reprodução por outro meio que não prejudique a sua conservação.\n\n4 - Os documentos informatizados são enviados por qualquer meio de transmissão electrónica de dados, sempre que tal for possível e desde que se trate de meio adequado à inteligibilidade e fiabilidade do seu conteúdo e em termos rigorosamente correspondentes ao do conteúdo do registo.\n\n5 - A entidade requerida não tem o dever de criar ou adaptar documentos para satisfazer o pedido, nem a obrigação de fornecer extractos de documentos, caso isso envolva um esforço desproporcionado que ultrapasse a simples manipulação dos mesmos.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738343": {
+   "fragment_id": "70462248",
+   "type": 11,
+   "heading": "Artigo 12.º — Encargos de reprodução",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Encargos de reprodução\n\n1 - A reprodução prevista na alínea b) do n.º 1 do artigo anterior faz-se num exemplar, sujeito a pagamento, pela pessoa que a solicitar, da taxa fixada, que deve corresponder à soma dos encargos proporcionais com a utilização de máquinas e ferramentas e dos custos dos materiais usados e do serviço prestado, sem que, porém, ultrapasse o valor médio praticado no mercado por serviço correspondente.\n\n2 - Tendo em conta o disposto no número anterior, o Governo da República e os Governos das Regiões Autónomas, ouvida a Comissão de Acesso aos Documentos Administrativos (doravante abreviadamente designada por CADA) e as associações nacionais das autarquias locais, devem fixar as taxas a cobrar pelas reproduções e certidões dos documentos administrativos.\n\n3 - As entidades com poder tributário autónomo não podem fixar taxas que ultrapassem em mais de 100 % os valores respectivamente fixados nos termos do número anterior, aos quais se devem subordinar enquanto não editarem tabelas próprias.\n\n4 - Os órgãos e entidades a que se refere o artigo 4.º devem afixar em lugar acessível ao público uma lista das taxas que cobram pelas reproduções e certidões de documentos administrativos.\n\n5 - A entidade requerida pode exigir um preparo que garanta as taxas devidas e, quando for caso disso, os encargos de remessa.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738344": {
+   "fragment_id": "70462249",
+   "type": 11,
+   "heading": "Artigo 13.º — Pedido de acesso",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 13.º — Pedido de acesso\n\n1 - O acesso aos documentos deve ser solicitado por escrito através de requerimento do qual constem os elementos essenciais à sua identificação, bem como o nome, morada e assinatura do requerente.\n\n2 - A entidade requerida pode também aceitar pedidos verbais e deve fazê-lo nos casos em que a lei assim o determine.\n\n3 - A apresentação de queixa à CADA, nos termos da presente lei, pressupõe pedido escrito de acesso ou, pelo menos, a formalização por escrito do indeferimento de pedido verbal.\n\n4 - Se o pedido não for suficientemente preciso, a entidade requerida deve, no prazo de cinco dias, indicar ao requerente essa deficiência e convidá-lo a supri-la em prazo fixado para o efeito.\n\n5 - Os órgãos e entidades a que se refere o artigo 4.º prestarão, através dos seus funcionários, assistência ao público na identificação dos documentos pretendidos, designadamente informando sobre a forma de organização e utilização dos seus arquivos e registos.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738345": {
+   "fragment_id": "70462250",
+   "type": 11,
+   "heading": "Artigo 14.º — Resposta ao pedido de acesso",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+   ],
+   "markdown": "###### Artigo 14.º — Resposta ao pedido de acesso\n\n1 - A entidade a quem foi dirigido o requerimento de acesso a um documento administrativo deve, no prazo de 10 dias:\n\na) Comunicar a data, local e modo para se efectivar a consulta, se requerida;\n\nb) Emitir a reprodução ou certidão requeridas;\n\nc) Comunicar por escrito as razões da recusa, total ou parcial, do acesso ao documento pretendido, bem como quais as garantias de recurso administrativo e contencioso dessa decisão;\n\nd) Informar que não possui o documento e, se souber qual a entidade que o detém, remeter-lhe o requerimento, com conhecimento ao requerente;\n\ne) Expor à CADA dúvidas que tenha sobre a decisão a proferir, a fim de esta entidade emitir parecer no prazo máximo de 30 dias.\n\n2 - No caso da alínea e) do número anterior, a entidade requerida deve informar o requerente e enviar à CADA cópia do requerimento e de todas as informações e documentos que contribuam para convenientemente o instruir.\n\n3 - A Administração não está obrigada a satisfazer pedidos que, face ao seu carácter repetitivo e sistemático ou ao número de documentos requeridos, sejam manifestamente abusivos.\n\n4 - Em casos excepcionais, se o volume ou a complexidade da informação o justificarem, o prazo referido no n.º 1 pode ser prorrogado, até ao máximo de dois meses, devendo o requerente ser informado desse facto com indicação dos respectivos fundamentos, no prazo máximo de 10 dias.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+  },
+  "107738346": {
+   "fragment_id": "70462251",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito de queixa",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Direito de queixa\n\n1 - O requerente pode queixar-se à CADA contra falta de resposta, indeferimento ou outra decisão limitadora do acesso a documentos administrativos.\n\n2 - A queixa interrompe o prazo para introdução em juízo de petição de intimação para a prestação de informações, consulta de processos ou passagem de certidões e deve ser apresentada dentro de tal prazo, a que se aplicam, com as devidas adaptações, as disposições relativas à remessa a juízo das peças processuais.\n\n3 - Se não for caso de indeferimento liminar, a CADA deve convidar a entidade requerida a responder à queixa no prazo de 10 dias.\n\n4 - Tanto no caso de queixa como no da consulta prevista na alínea e) do n.º 1 do artigo 14.º, a CADA tem o prazo de 40 dias para elaborar o correspondente relatório de apreciação da situação, enviando-o, com as devidas conclusões, a todos os interessados.\n\n5 - Recebido o relatório referido no número anterior, a entidade requerida comunica ao requerente a sua decisão final fundamentada, no prazo de 10 dias, sem o que se considera haver falta de decisão.\n\n6 - Tanto a decisão como a falta de decisão a que se refere o número anterior podem ser impugnadas pelo interessado junto dos tribunais administrativos, aplicando-se, com as devidas adaptações, as regras do processo de intimação referido no n.º 2.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738347": {
+   "fragment_id": "70462252",
+   "type": 8,
+   "heading": "Secção II — Da reutilização dos documentos",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "#### Secção II — Da reutilização dos documentos\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738348": {
+   "fragment_id": "70462253",
+   "type": 11,
+   "heading": "Artigo 16.º — Princípio geral",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 16.º — Princípio geral\n\n1 - Os documentos detidos ou elaborados pelas entidades referidas no artigo 4.º, cujo acesso seja autorizado nos termos da presente lei, podem ser reutilizados por pessoas singulares ou colectivas para fins diferentes do fim de serviço público para o qual foram produzidos.\n\n2 - As disposições da presente secção não prejudicam a utilização de textos de convenções, de leis, de regulamentos e de relatórios ou de decisões administrativas, judiciais ou de quaisquer órgãos ou autoridades do Estado ou da Administração, bem como a utilização das traduções oficiais destes textos.\n\n3 - As disposições da presente secção não são aplicáveis aos documentos detidos ou elaborados por:\n\na) Empresas de radiodifusão de serviço público, suas filiais e outros organismos que cumpram funções de radiodifusão de serviço público;\n\nb) Estabelecimentos de ensino e investigação, incluindo, quando pertinente, organizações criadas com vista à transferência de resultados de investigação;\n\nc) Pessoas colectivas públicas ou privadas que se dediquem à prestação de actividades culturais, designadamente museus, bibliotecas, arquivos, orquestras, óperas, companhias de bailado e de teatro.\n\n4 - A troca de documentos entre as entidades referidas no artigo 4.º, exclusivamente no desempenho das suas funções, não constitui reutilização.\n\n5 - Salvo acordo da Administração, quem reutilizar documentos administrativos não deve alterar a informação neles vertida, nem deve permitir que o seu sentido seja desvirtuado e deve mencionar sempre as fontes, bem como a data da última actualização dessa informação.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738349": {
+   "fragment_id": "70462254",
+   "type": 11,
+   "heading": "Artigo 17.º — Pedido de reutilização",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Pedido de reutilização\n\n1 - A reutilização de documentos depende de autorização expressa da entidade que os detenha, mediante pedido formulado pelo requerente.\n\n2 - O pedido de reutilização é formulado por escrito no mesmo requerimento em que é solicitado o acesso ao documento.\n\n3 - Quando a reutilização de documentos se destine a fins educativos ou de investigação e desenvolvimento, o requerente deve indicá-lo expressamente.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738350": {
+   "fragment_id": "70462255",
+   "type": 11,
+   "heading": "Artigo 18.º — Documentos excluídos",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 18.º — Documentos excluídos\n\nNão podem ser objecto de reutilização:\n\na) Documentos elaborados no exercício de uma actividade de gestão privada da entidade em causa;\n\nb) Documentos cujos direitos de autor ou direitos conexos pertençam a terceiros ou cuja reprodução, difusão ou utilização possam configurar práticas de concorrência desleal;\n\nc) Documentos nominativos, salvo autorização do titular, disposição legal que a preveja expressamente ou quando os juízos de valor ou informações abrangidas pela reserva da intimidade da vida privada possam ser anonimizados.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738351": {
+   "fragment_id": "70462256",
+   "type": 11,
+   "heading": "Artigo 19.º — Resposta da entidade requerida",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 19.º — Resposta da entidade requerida\n\n1 - A entidade a quem foi dirigido o requerimento de reutilização do documento deve, no mesmo prazo que o previsto no n.º 1 do artigo 14.º:\n\na) Autorizar a reutilização do documento; ou\n\nb) Indicar as razões de recusa, total ou parcial, de reutilização do documento e quais os meios de tutela de que dispõe o requerente contra essa decisão.\n\n2 - O pedido de reutilização do documento só pode ser indeferido com fundamento na violação de disposições legais, nomeadamente de alguma das disposições da presente lei.\n\n3 - O dever de indicar as razões de recusa compreende a indicação da pessoa singular ou colectiva titular do direito de autor ou de direitos conexos sobre o documento, quando essa titularidade constitua o fundamento da recusa da reutilização pretendida.\n\n4 - O prazo previsto no n.º 1 pode ser prorrogado uma vez, por igual período, nos casos de pedidos extensos ou complexos, mediante notificação ao requerente nos cinco dias subsequentes à recepção do pedido.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738352": {
+   "fragment_id": "70462257",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de reutilização",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 20.º — Condições de reutilização\n\n1 - A autorização concedida nos termos do artigo anterior pode ser subordinada à observância de determinadas condições de reutilização.\n\n2 - A reutilização de documentos pode ainda ser subordinada a pagamento por parte do requerente, nos termos e condições a fixar por portaria conjunta dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da modernização administrativa, não podendo o valor total cobrado pelo acesso e pela reutilização exceder os custos suportados com a recolha, produção, reprodução e divulgação do respectivo documento, acrescidos de uma rentabilidade razoável, tendo em vista a recuperação de eventuais investimentos e a boa qualidade do serviço.\n\n3 - A reutilização pode também ser subordinada a pagamento por parte do requerente do custo da anonimização dos documentos.\n\n4 - A entidade requerida pode exigir um preparo que garanta as taxas devidas e, quando for caso disso, os encargos de remessa.\n\n5 - Na fixação dos valores a cobrar nos termos dos n.os 1 e 2, a entidade requerida deve basear-se nos custos durante o exercício contabilístico normal calculados de acordo com os princípios contabilísticos aplicáveis.\n\n6 - Devem ser introduzidos regimes diferenciados de preços consoante os documentos sejam reutilizados para fins comerciais ou não comerciais, sendo gratuita a reutilização de documentos para fins educativos ou de investigação e desenvolvimento.\n\n7 - As condições de reutilização e os valores cobrados não devem restringir desnecessariamente as possibilidades de reutilização, não podendo a entidade requerida, por essa via, discriminar categorias de reutilização equivalentes ou limitar a concorrência.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738353": {
+   "fragment_id": "70462258",
+   "type": 11,
+   "heading": "Artigo 21.º — Publicidade",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 21.º — Publicidade\n\nAs condições de reutilização e os preços aplicáveis, incluindo o prazo e a forma do respectivo pagamento, são preestabelecidos e publicitados, sempre que possível por via electrónica, devendo ser indicada a base de cálculo dos valores a cobrar sempre que solicitada pelo requerente.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738354": {
+   "fragment_id": "70462259",
+   "type": 11,
+   "heading": "Artigo 22.º — Proibição de acordos exclusivos",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 22.º — Proibição de acordos exclusivos\n\n1 - É proibida a celebração de acordos exclusivos de reutilização de documentos, com excepção dos casos em que a constituição de um direito exclusivo é necessária para a prestação de um serviço de interesse público.\n\n2 - Os acordos exclusivos celebrados ao abrigo do número anterior, bem como a respectiva fundamentação, devem ser publicitados, sempre que possível por via electrónica.\n\n3 - Os motivos subjacentes à constituição de um direito exclusivo devem ser objecto de um exame periódico, a realizar, pelo menos, de três em três anos.\n\n4 - Os acordos exclusivos existentes que não respeitem o disposto no n.º 1 caducam em 31 de Dezembro de 2008.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738355": {
+   "fragment_id": "70462260",
+   "type": 11,
+   "heading": "Artigo 23.º — Intimação para a reutilização de documentos",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+   ],
+   "markdown": "###### Artigo 23.º — Intimação para a reutilização de documentos\n\nQuando não seja dada integral satisfação ao pedido de reutilização de acordo com o disposto na presente secção, o interessado pode apresentar queixa à CADA ou requerer ao tribunal administrativo competente a intimação da entidade requerida, nos termos previstos na presente lei e no Código de Processo nos Tribunais Administrativos.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+  },
+  "107738356": {
+   "fragment_id": "70462261",
+   "type": 11,
+   "heading": "Artigo 24.º — Divulgação de documentos disponíveis para reutilização",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 24.º — Divulgação de documentos disponíveis para reutilização\n\n1 - As entidades abrangidas pelas disposições da presente secção devem publicitar, sempre que possível por via electrónica, listas de existências dos documentos disponíveis para reutilização.\n\n2 - A informação prevista no número anterior deve ser, logo que possível, organizada num portal de existências descentralizadas, com vista a facilitar a procura de documentos disponíveis para reutilização.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738357": {
+   "fragment_id": "70462262",
+   "type": 1,
+   "heading": "Capítulo III — CADA",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "### Capítulo III — CADA\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738358": {
+   "fragment_id": "70462263",
+   "type": 11,
+   "heading": "Artigo 25.º — Natureza",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 25.º — Natureza\n\n1 - A CADA é uma entidade administrativa independente, que funciona junto da Assembleia da República e a quem cabe zelar pelo cumprimento das disposições da presente lei.\n\n2 - A CADA dispõe de orçamento anual, cuja dotação é inscrita no orçamento da Assembleia da República.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738359": {
+   "fragment_id": "70462264",
+   "type": 11,
+   "heading": "Artigo 26.º — Composição",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 26.º — Composição\n\n1 - A CADA é composta pelos seguintes membros:\n\na) Um juiz conselheiro do Supremo Tribunal Administrativo, designado pelo Conselho Superior dos Tribunais Administrativos e Fiscais, que preside;\n\nb) Dois deputados eleitos pela Assembleia da República, sendo um sob proposta do grupo parlamentar do maior partido que apoia o Governo e o outro sob proposta do maior partido da oposição;\n\nc) Um professor de Direito designado pelo Presidente da Assembleia da República;\n\nd) Duas personalidades designadas pelo Governo;\n\ne) Uma personalidade designada por cada um dos Governos das Regiões Autónomas;\n\nf) Uma personalidade designada pela Associação Nacional dos Municípios Portugueses;\n\ng) Um advogado designado pela Ordem dos Advogados;\n\nh) Um membro designado, de entre os seus vogais, pela Comissão Nacional de Protecção de Dados.\n\n2 - Os titulares são substituídos por um suplente, designado pelas mesmas entidades.\n\n3 - Os membros da CADA tomam posse perante o Presidente da Assembleia da República nos 10 dias seguintes à publicação da respectiva lista na 1.ª série do Diário da República.\n\n4 - Os mandatos são de dois anos, renováveis, e cessam com a posse dos novos titulares.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738360": {
+   "fragment_id": "70462265",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 27.º — Competência\n\n1 - Compete à CADA:\n\na) Elaborar a sua regulamentação interna, a publicar na 2.ª série do Diário da República;\n\nb) Apreciar as queixas que lhe sejam apresentadas nos termos do artigo 15.º;\n\nc) Emitir parecer sobre o acesso aos documentos administrativos, a solicitação dos órgãos e entidades a que se refere o artigo 4.º;\n\nd) Emitir parecer sobre a comunicação de documentos entre serviços e organismos da Administração, a pedido da entidade requerida ou da interessada, a não ser que se anteveja risco de interconexão de dados, caso em que a questão é submetida à apreciação da Comissão Nacional de Protecção de Dados;\n\ne) Pronunciar-se sobre o sistema de registo e de classificação de documentos;\n\nf) Emitir parecer sobre a aplicação da presente lei, bem como sobre a elaboração e aplicação de diplomas complementares, a solicitação da Assembleia da República, do Governo e dos órgãos e entidades a que se refere o artigo 4.º;\n\ng) Elaborar um relatório anual sobre a aplicação da presente lei e a sua actividade, a enviar à Assembleia da República para publicação e apreciação e ao Primeiro-Ministro;\n\nh) Contribuir para o esclarecimento e divulgação das diferentes vias de acesso aos documentos administrativos no âmbito do princípio da administração aberta;\n\ni) Aplicar coimas em processos de contra-ordenação.\n\n2 - Os projectos de deliberação são elaborados pelos membros da CADA, com o apoio dos serviços técnicos.\n\n3 - Os pareceres são publicados nos termos do regulamento interno.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738361": {
+   "fragment_id": "70462266",
+   "type": 11,
+   "heading": "Artigo 28.º — Cooperação da administração",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 28.º — Cooperação da administração\n\n1 - Todos os dirigentes, funcionários e agentes dos órgãos e entidades a que se refere o artigo 4.º têm o dever de cooperação com a CADA, sob pena de responsabilidade disciplinar ou de outra natureza, nos termos da lei.\n\n2 - Para efeitos do número anterior devem ser comunicadas todas as informações relevantes para o conhecimento das questões apresentadas à CADA no âmbito das suas competências.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738362": {
+   "fragment_id": "70462267",
+   "type": 11,
+   "heading": "Artigo 29.º — Estatuto dos membros da CADA",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 29.º — Estatuto dos membros da CADA\n\n1 - Não podem ser membros da CADA os cidadãos que não se encontrem no pleno gozo dos seus direitos civis e políticos.\n\n2 - São deveres dos membros da CADA:\n\na) Exercer o cargo com isenção, rigor e independência;\n\nb) Participar activa e assiduamente nos trabalhos da CADA.\n\n3 - Os membros da CADA não podem ser prejudicados na estabilidade do seu emprego, na sua carreira profissional, nomeadamente nas promoções a que entretanto tenham adquirido direito, nem nos concursos públicos a que se submetam e ainda no regime de segurança social de que beneficiem à data do início do mandato.\n\n4 - Os membros da CADA são inamovíveis, não podendo as suas funções cessar antes do termo do mandato, salvo nos seguintes casos:\n\na) Morte;\n\nb) Impossibilidade física permanente ou com uma duração que se preveja ultrapassar a data do termo do mandato;\n\nc) Renúncia ao mandato;\n\nd) Perda do mandato.\n\n5 - A renúncia ao mandato torna-se eficaz com a apresentação da respectiva declaração escrita ao presidente da CADA e é publicada na 2.ª série do Diário da República.\n\n6 - Perdem o mandato os membros da CADA que venham a ser abrangidos por incapacidade ou incompatibilidade prevista na lei, ou que faltem, no mesmo ano civil, a três reuniões consecutivas ou a seis interpoladas, salvo motivo justificado.\n\n7 - A perda do mandato é objecto de deliberação a publicar na 2.ª série do Diário da República.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738363": {
+   "fragment_id": "70462268",
+   "type": 11,
+   "heading": "Artigo 30.º — Estatuto remuneratório",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 30.º — Estatuto remuneratório\n\n1 - O presidente aufere a remuneração e outras regalias a que tem direito como juiz conselheiro do Supremo Tribunal Administrativo, bem como um abono mensal para despesas de representação no valor de 20 % do respectivo vencimento base.\n\n2 - À excepção do presidente, todos os membros podem exercer o seu mandato em acumulação com outras funções e auferem um abono correspondente a 25 % do valor do índice 100 da escala salarial do pessoal dirigente da função pública.\n\n3 - À excepção do presidente, todos os membros auferem um abono correspondente a 5 % do valor do índice 100 da escala salarial do pessoal dirigente da função pública por cada sessão da CADA em que participem.\n\n4 - Todos os membros têm direito a ajudas de custo e ao reembolso de despesas com transportes e com telecomunicações nos termos previstos para o cargo de director-geral.\n\n5 - Nas deslocações das personalidades designadas pelos Governos das Regiões Autónomas o abono das ajudas de custo será processado segundo o regime vigente nas respectivas administrações regionais.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738364": {
+   "fragment_id": "70462269",
+   "type": 11,
+   "heading": "Artigo 31.º — Competência do presidente",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+   ],
+   "markdown": "###### Artigo 31.º — Competência do presidente\n\n1 - No quadro das orientações dadas pela CADA, o presidente exerce, com possibilidade de delegação no secretário, as competências fixadas na lei para o cargo de dirigente máximo de organismo autónomo em matéria de gestão de pessoal, financeira, patrimonial e administrativa.\n\n2 - A CADA pode delegar no presidente poderes para apreciar e decidir:\n\na) Queixas manifestamente infundadas ou extemporâneas;\n\nb) Desistências;\n\nc) Casos de inutilidade superveniente.\n\nd) Queixas sobre questões que já tenham sido apreciadas pela CADA de modo uniforme e reiterado.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 214-G/2015 - Diário da República n.º 193/2015, 3º Suplemento, Série I de 2015-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-g-2015-70423756), em vigor a partir de 2015-12-01"
+  },
+  "107738365": {
+   "fragment_id": "70462270",
+   "type": 11,
+   "heading": "Artigo 32.º — Serviços de apoio",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 32.º — Serviços de apoio\n\n1 - A CADA dispõe de serviços próprios de apoio técnico e administrativo, cujo regulamento e mapa de pessoal são aprovados por resolução da Assembleia da República, sob proposta da Comissão.\n\n2 - O regulamento e o mapa de pessoal previstos na Lei n.º 8/95, de 29 de Março, continuam a ser aplicáveis até à entrada em vigor do instrumento jurídico a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738366": {
+   "fragment_id": "70462271",
+   "type": 1,
+   "heading": "Capítulo IV — Contra-ordenações",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "### Capítulo IV — Contra-ordenações\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738367": {
+   "fragment_id": "70462272",
+   "type": 11,
+   "heading": "Artigo 33.º — Contra-ordenações",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 33.º — Contra-ordenações\n\n1 - Praticam contra-ordenação punível com coima as pessoas singulares ou colectivas que:\n\na) Reutilizem documentos do sector público sem autorização da entidade competente;\n\nb) Reutilizem documentos do sector público sem observar as condições de reutilização estabelecidas no n.º 1 do artigo 20.º;\n\nc) Reutilizem documentos do sector público sem que tenham procedido ao pagamento do valor fixado nos n.os 2 e 3 do artigo 20.º\n\n2 - As infracções previstas nas alíneas a) e c) do número anterior são puníveis com as seguintes coimas:\n\na) Tratando-se de pessoa singular, no mínimo de (euro) 300 e no máximo de (euro) 3500;\n\nb) Tratando-se de pessoa colectiva, no mínimo de (euro) 2500 e no máximo de (euro) 25 000.\n\n3 - A infracção prevista na alínea b) do n.º 1 é punível com as seguintes coimas:\n\na) Tratando-se de pessoa singular, no mínimo de (euro) 150 e no máximo de (euro) 1750;\n\nb) Tratando-se de pessoa colectiva, no mínimo de (euro) 1250 e no máximo de (euro) 12 500.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738368": {
+   "fragment_id": "70462273",
+   "type": 11,
+   "heading": "Artigo 34.º — Negligência e tentativa",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 34.º — Negligência e tentativa\n\nA negligência e a tentativa são sempre punidas nas contra-ordenações previstas no artigo anterior.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738369": {
+   "fragment_id": "70462274",
+   "type": 11,
+   "heading": "Artigo 35.º — Aplicação das coimas",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 35.º — Aplicação das coimas\n\n1 - A instrução do processo de contra-ordenação compete aos serviços da Administração onde foi detectada a infracção, podendo ser completada pelos serviços de apoio da CADA.\n\n2 - A aplicação das coimas previstas na presente lei é da competência da CADA.\n\n3 - A deliberação da CADA constitui título executivo, no caso de não ser impugnada no prazo legal.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738370": {
+   "fragment_id": "70471175",
+   "type": 11,
+   "heading": "Artigo 36.º — Destino das receitas cobradas",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 36.º — Destino das receitas cobradas\n\nO montante das importâncias cobradas, em resultado da aplicação das coimas, reverte:\n\na) Em 40 % para a CADA;\n\nb) Em 40 % para os cofres do Estado; e\n\nc) Em 20 % para a entidade referida no artigo 4.º lesada com a prática da infracção.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738371": {
+   "fragment_id": "70471176",
+   "type": 11,
+   "heading": "Artigo 37.º — Omissão de dever",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 37.º — Omissão de dever\n\nSempre que a contra-ordenação resulte da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738372": {
+   "fragment_id": "70471177",
+   "type": 11,
+   "heading": "Artigo 38.º — Impugnação judicial",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 38.º — Impugnação judicial\n\n1 - A impugnação da decisão final da CADA reveste a forma de reclamação a apresentar no prazo de 10 dias a contar da respectiva notificação.\n\n2 - Em face dessa impugnação, a CADA pode modificar ou revogar a sua decisão, notificando o arguido ou arguidos da nova decisão final.\n\n3 - Caso mantenha a anterior decisão, a CADA remete a reclamação em 10 dias ao Ministério Público a prestar funções no Tribunal Administrativo e Fiscal de Lisboa.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738373": {
+   "fragment_id": "70471178",
+   "type": 11,
+   "heading": "Artigo 39.º — Decurso do processo judicial",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 39.º — Decurso do processo judicial\n\n1 - O Ministério Público, assessorado por técnico ou representante da CADA, conclui os autos e torna-os presentes ao juiz.\n\n2 - O juiz pode decidir a questão nos termos da presente lei por simples despacho, se a tal não se opuserem a defesa, o Ministério Público e a CADA.\n\n3 - Se houver audiência, as respectivas formalidades são reduzidas ao mínimo indispensável, não havendo lugar à gravação de prova, nem à audição de mais de três testemunhas por cada contra-ordenação imputada.\n\n4 - O juiz tem sempre competência para arbitrar uma indemnização a quem entenda ter a ela direito.\n\n5 - Da decisão final do juiz cabe recurso per saltum para o Supremo Tribunal Administrativo, que decidirá de direito.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107738374": {
+   "fragment_id": "70471179",
+   "type": 11,
+   "heading": "Artigo 40.º — Revogação",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 40.º — Revogação\n\nÉ revogada a Lei n.º 65/93, de 26 de Agosto, com a redacção introduzida pelas Leis n.os 8/95, de 29 de Março, e 94/99, de 16 de Julho, bem como pelo artigo 19.º da Lei n.º 19/2006, de 12 de Junho.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107760675": {
+   "fragment_id": "70471180",
+   "type": 11,
+   "heading": "Artigo 41.º — Entrada em vigor",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 41.º — Entrada em vigor\n\nA presente lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação, à excepção do disposto no artigo 30.º, que produz efeitos com a entrada em vigor da lei do Orçamento do Estado posterior à sua aprovação.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  },
+  "107760676": {
+   "fragment_id": "70471181",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "Aprovada em 19 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 8 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 16 de Agosto de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 47.º do/a [Lei n.º 26/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/26-2016-75177807), em vigor a partir de 2016-10-01"
+  }
+ }
+}

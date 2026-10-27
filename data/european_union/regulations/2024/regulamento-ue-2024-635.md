@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: eu:celex:32024R0635:por
+title: Regulamento de Execução (UE) 2024/635 da Comissão, de 2 de fevereiro de 2024
+short_title: null
+summary: Regulamento de Execução (UE) 2024/635 da Comissão, de 2 de fevereiro de 2024, que altera o Regulamento de Execução
+  (UE) 2015/2447 no que diz respeito aos meios de prova do estatuto aduaneiro de mercadorias UE e a determinadas disposições
+  relativas aos regimes de trânsito da União
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+- TAXUD
+proposing_entity: null
+official_number: 2024/635
+official_date: null
+publication_date: '2024-02-20'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2024/635, 20.2.2024
+  number: '635'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.01/DOC_1
+entry_into_force_dates:
+- '2024-03-11'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32024R0635
+  eli: http://data.europa.eu/eli/reg_impl/2024/635/oj
+  oj: oj:L_202400635
+  dre: null
+  dre_path: null
+  internal: eu:celex:32024R0635:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32024R0635
+  metadata_url: http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020
+  content_url: http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:44:59Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-03-13T06:32:18.092+01:00'
+integrity:
+  source_sha256: 7bff299626e8c89fd41fbf55f8f14b87a59ef4079b4240fccf93f651eface262
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:44:59Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- certificado de origem
+- exportação (UE)
+- harmonização alfandegária
+- importação (UE)
+- intercâmbio de informação
+- regime aduaneiro da UE
+- regulamentação aduaneira
+- sistema de informação
+- território aduaneiro (UE)
+relationships:
+- type: amends
+  target: celex:32015R2447
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ed0fe62d-ae35-11e5-b528-01aa75ed71a1
+  date: '2015-12-29'
+- type: based_on
+  target: celex:32013R0952
+  label: null
+  source: http://publications.europa.eu/resource/cellar/80502785-3178-11e3-8d1c-01aa75ed71a1
+  date: '2013-10-10'
+- type: cites
+  target: celex:32015R2446
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c73754bc-ae35-11e5-b528-01aa75ed71a1
+- type: cites
+  target: celex:32019D2151
+  label: null
+  source: http://publications.europa.eu/resource/cellar/25dac0b2-205a-11ea-95ab-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:44:59Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DE EXECUÇÃO (UE) 2024/635 DA COMISSÃO
+
+de 2 de fevereiro de 2024
+
+que altera o Regulamento de Execução (UE) 2015/2447 no que diz respeito aos meios de prova do estatuto aduaneiro de mercadorias UE e a determinadas disposições relativas aos regimes de trânsito da União
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União [([^1])](http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202400635PT.000101-E0001), nomeadamente os artigos 157.º e 232.º,
+
+Considerando o seguinte:
+
+(1) A aplicação prática do Regulamento (UE) n.º 952/2013, em conjugação com o Regulamento de Execução (UE) 2015/2447 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202400635PT.000101-E0002), demonstrou que são necessárias algumas alterações a esse regulamento de execução para o adaptar melhor às necessidades dos operadores económicos e das autoridades aduaneiras e para ter em conta a transição de documentos em suporte papel para a utilização de intercâmbios eletrónicos de dados, no que diz respeito aos meios de prova do estatuto aduaneiro de mercadorias UE e a determinados aspetos dos regimes de trânsito da União.
+
+(2) No que diz respeito aos meios de prova do estatuto aduaneiro de mercadorias UE, é necessário atualizar os termos a indicar para as mercadorias UE cuja embalagem não tem o estatuto aduaneiro de mercadorias UE. Além disso, a emissão *a posteriori* desses meios de prova só deve ser permitida em casos devidamente justificados, sendo necessário especificar o período durante o qual esses meios de prova podem ser emitidos *a posteriori*.
+
+(3) Nos termos do artigo 128.º do Regulamento Delegado (UE) 2015/2446 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202400635PT.000101-E0003), a facilitação da emissão de um documento T2L ou T2LF permite a dispensa do visto desse documento T2L ou T2LF juntamente com a prova do estatuto aduaneiro de mercadorias UE. Essa facilitação deve aplicar-se apenas no Estado-Membro em que foi concedida ao emissor uma autorização para emitir o documento T2L ou T2LF ao abrigo do artigo 128.º do Regulamento Delegado (UE) 2015/2446. Essas provas devem ser registadas no sistema de prova do estatuto da União (PoUS) no âmbito do CAU a que se refere o anexo da Decisão de Execução (UE) 2019/2151 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202400635PT.000101-E0004).
+
+(4) Além disso, importa especificar que o documento T2L ou T2LF só pode ser utilizado uma vez, a saber, para a primeira apresentação das mercadorias a fim de determinar o seu estatuto aduaneiro de mercadorias UE, e que, para as mercadorias remanescentes, em caso de utilização parcial dos meios de prova do estatuto aduaneiro de mercadorias UE, é necessário emitir um novo meio de prova.
+
+(5) Para responder melhor às necessidades económicas prevalecentes, a pessoa que apresenta as mercadorias na estância aduaneira de partida deve ser autorizada, tal como o titular do regime, a solicitar à estância aduaneira de partida que lhe forneça um documento de acompanhamento de trânsito ou um documento de acompanhamento de trânsito/segurança.
+
+(6) A fim de assegurar uma abordagem facilitada, mas harmonizada, em toda a União e nos países de trânsito comum, os transbordos de contentores e unidades de transporte intermodal similares devem ser dispensados, em determinadas condições, da lista de incidentes que exigem intervenção aduaneira.
+
+(7) O Regulamento de Execução (UE) 2015/2447 deve, portanto, ser alterado em conformidade.
+
+(8) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Código Aduaneiro,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O Regulamento de Execução (UE) 2015/2447 é alterado do seguinte modo:
+
+1) No artigo 199.º, os n.^os^ 4 e 5 passam a ter a seguinte redação: «4. Quando os meios de prova a que se refere o n.º 1 são utilizados para mercadorias com o estatuto aduaneiro de mercadorias UE com embalagens que não possuem o estatuto aduaneiro de mercadorias UE, esses meios de prova têm de incluir a seguinte menção: “Embalagem N — 98200” 5. Sempre que, em casos devidamente justificados, os meios de prova referidos no n.º 1, alíneas b), c) e d), forem emitidos *a posteriori*, devem incluir a seguinte indicação: “Emitido *a posteriori* – 99210” Os meios de prova referidos no primeiro parágrafo só podem ser emitidos *a posteriori* antes do termo dos prazos de notificação da dívida aduaneira previstos no artigo 103.º do Código.»;
+
+2) No artigo 200.º, o n.º 3 passa a ter a seguinte redação: «3. Os meios de prova a que se refere o n.º 1 são apresentados à estância aduaneira competente em que as mercadorias são apresentadas para determinar o seu estatuto aduaneiro de mercadorias UE após a sua reentrada no território aduaneiro da União, mediante indicação do respetivo MRN.»;
+
+3) É inserido o seguinte artigo 200.º-A: «Artigo 200.º-A Emissão de meios de prova por um emissor autorizado (Artigo 153.º, n.º 2, do Código) 1. A facilitação da emissão de um meio de prova por um emissor autorizado prevista no artigo 128.º do Regulamento Delegado (UE) 2015/2446 aplica-se apenas aos meios de prova do estatuto aduaneiro de mercadorias UE emitidos no Estado-Membro que autorizou a emissão desses meios de prova. 2. O emissor autorizado do T2L ou T2LF deve registar a prova do estatuto aduaneiro de mercadorias UE o mais tardar aquando da expedição das mercadorias. 3. O emissor autorizado não pode iniciar a circulação das mercadorias UE antes do termo do prazo especificado na autorização a que se refere o artigo 128.º, n.º 3-B, alínea c), do Regulamento Delegado (UE) 2015/2446.»;
+
+4) No artigo 205.º, o n.º 1 passa a ter a seguinte redação: «1. Quando o MRN for indicado para provar o estatuto aduaneiro de mercadorias UE, os dados T2L ou T2LF que servem de base ao MRN apenas podem ser utilizados para a primeira apresentação das mercadorias, a fim de determinar o seu estatuto aduaneiro de mercadorias UE. Se os dados T2L ou T2LF forem utilizados apenas para uma parte das mercadorias aquando da sua primeira apresentação para determinar o seu estatuto aduaneiro de mercadorias UE, deve ser estabelecido um novo meio de prova para a parte restante das mercadorias, em conformidade com o artigo 200.º do presente regulamento e com o artigo 128.º do Regulamento Delegado (UE) 2015/2446.»;
+
+5) No artigo 303.º, o n.º 4 passa a ter a seguinte redação: «4. A pedido do titular do regime ou da pessoa que apresentou as mercadorias na estância aduaneira de partida, a estância aduaneira de partida fornece um documento de acompanhamento de trânsito ou, se for caso disso, um documento de acompanhamento de trânsito/segurança ao titular do regime ou à pessoa que apresentou as mercadorias na estância aduaneira de partida. O documento de acompanhamento de trânsito é fornecido mediante o formulário que figura no anexo B-02 do Regulamento Delegado (UE) 2015/2446, complementado, se necessário, pela lista de adições no formulário que figura no anexo B-03 desse regulamento delegado.»;
+
+6) Ao artigo 305.º, n.º 1, são aditados os seguintes segundo e terceiro parágrafos: «Nos casos referidos no primeiro parágrafo, alíneas c) e f), se as mercadorias forem transportadas numa mesma unidade de transporte intermodal, o modo de transporte for alterado sem manipulação das próprias mercadorias e a unidade de transporte intermodal ostentar um número de identificação único, essa alteração não deve ser considerada um incidente para efeitos do primeiro parágrafo. Para efeitos do segundo parágrafo, uma unidade de transporte intermodal é, por exemplo, um contentor, uma caixa móvel ou um semirreboque. O segundo parágrafo aplica-se igualmente a um veículo carregado que seja, ele próprio, transportado num meio de transporte ativo.».
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 2 de fevereiro de 2024.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202400635PT.000101-E0001) [JO L 269 de 10.10.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_269_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202400635PT.000101-E0002) Regulamento de Execução (UE) 2015/2447 da Comissão, de 24 de novembro de 2015, que estabelece as regras de execução de determinadas disposições do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho que estabelece o Código Aduaneiro da União ([JO L 343 de 29.12.2015, p. 558](http://publications.europa.eu/resource/oj/JOL_2015_343_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202400635PT.000101-E0003) Regulamento Delegado (UE) 2015/2446 da Comissão, de 28 de julho de 2015, que completa o Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, com regras pormenorizadas relativamente a determinadas disposições do Código Aduaneiro da União ([JO L 343 de 29.12.2015, p. 1](http://publications.europa.eu/resource/oj/JOL_2015_343_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/a02d7df2-cf90-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202400635PT.000101-E0004) Decisão de Execução (UE) 2019/2151 da Comissão, de 13 de dezembro de 2019, que estabelece o programa de trabalho para o desenvolvimento e a implementação dos sistemas eletrónicos previstos no Código Aduaneiro da União ([JO L 325 de 16.12.2019, p. 168](http://publications.europa.eu/resource/oj/JOL_2019_325_R_TOC)).

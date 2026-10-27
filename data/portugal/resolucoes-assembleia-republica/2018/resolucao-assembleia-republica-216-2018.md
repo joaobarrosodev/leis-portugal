@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:115804533:por
+title: Resolução da Assembleia da República n.º 216/2018
+short_title: null
+summary: Recomenda ao Governo que promova um estudo sobre o impacto das linhas de muito alta tensão na saúde das populações
+  e suspenda a construção da linha de muito alta tensão em Barcelos e em Ponte de Lima
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 216/2018
+official_date: null
+publication_date: '2018-07-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/2018, Série I de 2018-07-30
+  number: '145'
+  series: I
+  supplement: null
+  pages: 3722 - 3722
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/07/14500/0372203722.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/216/2018/07/30/p/dre/pt/html
+  oj: null
+  dre: '115804533'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/216-2018-115804533
+  internal: pt:dre:115804533:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/216-2018-115804533
+  metadata_url: https://data.dre.pt/eli/resolassrep/216/2018/07/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/216-2018-115804533
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c176e3f25a4702a1623122e0b5ceec4f1de5591bee49fb3801ff8784d01e68d8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:57:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Barcelos
+- Energia Elétrica
+- Material Electromagnético
+- Ponte de LIMA
+- Proteção do Ambiente
+- Recomendação
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:344375:por
+  label: null
+  source: http://data.dre.pt/eli/lei/30/2010/09/02/p/dre
+- type: cites
+  target: pt:dre:75619182:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/210/2016/10/28/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:57:02Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 216/2018
+
+Recomenda ao Governo que promova um estudo sobre o impacto das linhas de muito alta tensão na saúde das populações e suspenda a construção da linha de muito alta tensão em Barcelos e em Ponte de Lima.
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Promova a realização de um estudo nacional sobre o tipo de impacto dos postes e linhas de alta e muito alta tensão na saúde das populações, recorrendo, designadamente, à análise do estado geral de saúde das populações que habitam na proximidade dos mesmos, comparando-o com o das que habitam a uma distância superior a 100 metros.
+
+2 - Suspenda a construção da linha de muito alta tensão em Barcelos e em Ponte de Lima enquanto não forem conhecidas as conclusões do referido estudo.
+
+3 - Realize um estudo sobre a possibilidade alternativa da colocação subterrânea dos cabos da linha de muito alta tensão.
+
+4 - Proceda à regulamentação urgente dos níveis máximos de exposição humana admitidos a campos eletromagnéticos derivados das linhas, instalações ou equipamentos de alta e muito alta tensão, em cumprimento do disposto no artigo 2.º da [Lei n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/lei/30-2010-344375), de 2 de setembro, e da [Resolução da Assembleia da República n.º 210/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/210-2016-75619182), de 28 de outubro.
+
+Aprovada em 6 de abril de 2018.
+
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+
+111536736

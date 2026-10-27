@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:378499:por
+title: Portaria n.º 500/88
+short_title: null
+summary: Regulamenta o sistema de formação profissional, deveres e direitos dos participantes e respectiva avaliação e falta
+  de aproveitamento decorrentes da aplicação do Estatuto do Pessoal das Administrações dos Portos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 500/88
+official_date: null
+publication_date: '1988-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/1988, Série I de 1988-07-27
+  number: '172'
+  series: I
+  supplement: null
+  pages: 3108 - 3109
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/07/17200/31083109.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '378499'
+  dre_path: /dr/detalhe/portaria/500-1988-378499
+  internal: pt:dre:378499:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/500-1988-378499
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/500-1988-378499
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:32:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5bfd7d9ae514daab27d3cf02463699defd0e7530b7c4cc185ae663973e86e204
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:32:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração de Portos
+- Formação Profissional
+- Trabalhador Portuário
+relationships:
+- type: amended_by
+  target: pt:dre:668135:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668135:por
+  label: "Revogada pela PORT.1278/95.27.10.1995.MM, DR.IS-B [249] de 27.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1278-1995-668135
+  date: '1995-10-27'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:32:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 500/88
+
+de 27 de Julho
+
+Considerando ser necessário estabelecer a regulamentação do sistema de formação profissional, deveres e direitos dos participantes e respectiva avaliação e falta de aproveitamento decorrentes da aplicação do Estatuto do Pessoal das Administrações dos Portos:
+
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos do artigo 70.º, n.º 2, do Estatuto do Pessoal das Administrações dos Portos, aprovado pelo [Decreto-Lei n.º 101/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1988-286360), de 26 de Março, o seguinte:
+
+1.º - 1 - A organização, instalação e funcionamento do sistema formativo das administrações deverão, na medida do possível, obedecer aos seguintes princípios:
+
+a) A formação profissional será prosseguida através de unidades de formação profissional equilibradamente dimensionadas face ao cumprimento dos objectivos estabelecidos;
+
+b) Cada unidade de formação profissional terá uma estrutura que evidencie áreas homogéneas dos pontos de vista técnico, pedagógico e de supervisão, interligadas e convergentes nos objectivos;
+
+c) O número de unidades de formação profissional a criar no conjunto das administrações deverá ser tão limitado quanto possível, de forma a rentabilizar o sistema, sem prejuízo de as acções formativas previstas deverem ser desenvolvidas no local, especialmente se assumirem a modalidade de treino na função;
+
+d) O trabalho de formação poderá ser repartido entre a unidades de formação, visando a economia de custos e o melhor aproveitamento dos participantes.
+
+2 - Para além do seu próprio sistema de formação profissional, as administrações poderão recorrer a centros de formação exteriores ou a empresas especializadas ou que disponham de sistema formativo próprio, mediante aquisição de serviços.
+
+3 - Para efeitos do disposto no presente número, nomeadamente na alínea c) do n.º 1, deverão as administrações proceder a adequadas consultas entre si.
+
+4 - No âmbito das administrações, a formação profissional poderá ser assegurada por trabalhadores destas, por profissionais contratados no exterior ou por empresas fornecedoras de serviços de formação.
+
+2.º São deveres dos participantes em acções de formação, para além de outros que venham a ser previstos no regulamento da acção específica:
+
+a) Frequentar os locais onde essas acções se desenvolvem e nelas participar com assiduidade e pontualidade;
+
+b) Manifestar disponibilidade e interesse para cooperar com o formador no cumprimento das normas gerais e específicas vigentes;
+
+c) Desenvolver esforço empenhado na aquisição dos conhecimentos ministrados;
+
+d) Participar nas provas de avaliação com espírito de colaboração e interesse;
+
+e) Manter as instalações e o equipamento do centro de formação em bom estado de funcionamento e o material distribuído em boas condições de utilização.
+
+3.º - 1 - Os participantes em acções de formação têm direito:
+
+a) A que lhes seja passado certificado do aproveitamento obtido;
+
+b) À frequência da primeira acção formativa que se seguir, no caso de interrupção da anterior por motivo da prestação de serviço militar obrigatório ou de outra razão que configure força maior e que como tal seja reconhecida;
+
+c) Ao pagamento de despesas de deslocação, nos termos previstos para o pessoal em regime de deslocação em serviço.
+
+2 - O trabalhador das administrações dos portos que, pelos motivos referidos na alínea b) do número anterior, não puder participar em qualquer acção de formação terá direito à frequência da primeira acção que se seguir.
+
+4.º - 1 - O sistema de avaliação aplicável às acções formativas terá por finalidade determinar em que medida os objectivos dessas acções foram atingidos pelos participantes, utilizando o método de avaliação contínua e ou outras técnicas apropriadas à natureza da acção, nomeadamente a prestação de provas eliminatórias.
+
+2 - Os resultados finais globais da avaliação devem traduzir se os participantes atingiram ou não os objectivos programados, podendo ser complementados pela atribuição de uma classificação, segundo escala constante do regulamento da acção formativa específica.
+
+5.º Determinam falta de aproveitamento nas acções de formação:
+
+a) As ausências que excedam o limite fixado em regulamento a aprovar por cada administração;
+
+b) A exclusão em prova eliminatória de avaliação;
+
+c) A exclusão por comportamento que afecte o funcionamento normal da respectiva acção;
+
+d) A não comparência ou a desistência de prestação de prova eliminatória de avaliação, salvo justificação apresentada nos cinco dias úteis imediatos e que seja aceite.
+
+6.º A presente portaria entra em vigor na data da entrada em vigor do Estatuto do Pessoal das Administrações dos Portos.
+
+Ministério das Obras Públicas, Transportes e Comunicações.
+
+Assinada em 14 de Julho de 1988.
+
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

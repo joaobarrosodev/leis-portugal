@@ -1,0 +1,455 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:887091776:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-887092612",
+ "dre_path": "/dr/detalhe/decreto-lei/54-2024-887091776",
+ "source_lastmod": "2024-10-22",
+ "versions": [
+  {
+   "date": "2024-09-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887091009",
+    "887091010",
+    "887091011",
+    "887091012",
+    "887091013",
+    "887091014",
+    "887091015",
+    "887091016",
+    "887091017",
+    "887091018",
+    "887091019",
+    "887091020",
+    "887091021",
+    "887091022",
+    "887091023",
+    "887091024",
+    "887091025",
+    "887091026",
+    "887091027",
+    "887091028",
+    "887091029",
+    "887091030",
+    "887091031",
+    "887091032",
+    "887091033",
+    "887091034",
+    "887091035",
+    "887091036",
+    "887091037",
+    "887091038",
+    "887091039",
+    "887091040",
+    "887091041",
+    "887091042",
+    "887091043",
+    "887091044",
+    "887091045",
+    "887091047",
+    "887091049"
+   ]
+  },
+  {
+   "date": "2025-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:989282074:por",
+     "title": "Decreto-Lei n.º 128/2025",
+     "published": "2025-12-17",
+     "dre_path": "/dr/detalhe/decreto-lei/128-2025-989282074"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "887091009",
+    "887091010",
+    "887091011",
+    "887091012",
+    "887091013",
+    "887091014",
+    "887091015",
+    "887091016",
+    "887091017",
+    "887091018",
+    "887091019",
+    "887091020",
+    "887091021",
+    "887091022",
+    "887091023",
+    "887091024",
+    "887091025",
+    "887091026",
+    "887091027",
+    "887091028",
+    "887091029",
+    "887091030",
+    "887091031",
+    "887091032",
+    "887091033",
+    "887091034",
+    "887091035",
+    "887091036",
+    "887091037",
+    "887091038",
+    "892302270",
+    "887091040",
+    "887091041",
+    "989163369",
+    "887091043",
+    "887091044",
+    "887091045",
+    "887091046",
+    "887091047",
+    "887091049"
+   ]
+  }
+ ],
+ "fragments": {
+  "887091009": {
+   "fragment_id": "887092613",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 54/2024\n\nde 6 de setembro\n\nO Serviço Nacional de Saúde (SNS) tem sido sujeito a um processo transformativo, orgânico e funcional, capacitando o SNS para a prestação de cuidados de saúde de qualidade. Para o efeito, entrou em vigor o Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 52/2022, de 4 de agosto, bem como a criação, pelo Decreto-Lei n.º 61/2022, de 23 de setembro, da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.). Mais recentemente, foi criado o Instituto para os Comportamentos Aditivos e as Dependências, através do Decreto-Lei n.º 89/2023, de 11 de outubro, e verificou-se a generalização das unidades locais de saúde, nos termos do Decreto-Lei n.º 102/2023, de 7 de novembro.\n\nNo âmbito deste processo, em conformidade com o artigo 9.º da Lei n.º 82/2023, de 29 de dezembro, que aprovou o Orçamento do Estado para 2024, está prevista a restruturação das Administrações Regionais de Saúde, I. P. (ARS, I. P.), nomeadamente a extinção por fusão, com a consequente transferência das atribuições e competências remanescentes para outros serviços ou organismos.\n\nA concretização desta extinção implica a introdução de alterações pontuais na orgânica da Direção-Geral da Saúde, do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., e da DE-SNS, I. P., de modo, por um lado, a refletir a transferência de atribuições e competências das ARS, I. P., que não possam já ser reconduzíveis à missão e atribuições destas entidades, e, por outro, a reforçar as suas capacidades e a coerência de todo o sistema.\n\nDe outro modo, importa ainda proceder à alteração de um conjunto de diplomas legais que atribuem competências em diversos domínios às ARS, I. P., ajustando-os em função da sua extinção.\n\nAs atribuições relacionadas com o desenvolvimento de atividades no âmbito da saúde pública carecem de adequação legislativa, de modo a assegurar a coerência do sistema e a segurança jurídica. Neste sentido, torna-se especialmente necessária a adaptação da Lei n.º 81/2009, de 21 de agosto, que estabelece um sistema de vigilância em saúde pública, do Decreto-Lei n.º 81/2009, de 2 de abril, na sua redação atual, que estabelece as regras e princípios de organização dos serviços e funções de natureza operativa de saúde pública, sediados a nível nacional, regional e local, bem como do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual, que estabelece as regras de designação, competência e funcionamento das entidades que exercem o poder de autoridade de saúde.\n\nDa extinção das ARS, I. P., conjugada com as demais alterações orgânicas em curso, deve resultar um modelo organizacional reforçado e mais eficaz, melhor ajustado à diversidade territorial e capaz de garantir a adequada prestação de cuidados de saúde aos cidadãos. Ao mesmo tempo, e em particular, esta reestruturação é também muito relevante para respeitar os direitos e as legítimas expetativas dos trabalhadores destes organismos, garantindo a necessária estabilidade da sua situação jurídico-funcional e, em simultâneo, contribuir para o aproveitamento integral do valioso trabalho que desenvolvem.\n\nAssim:\n\nAo abrigo do n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, do n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "887091010": {
+   "fragment_id": "887092614",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "887091011": {
+   "fragment_id": "887092615",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei procede:\n\na) À extinção, por fusão, nos termos previstos no capítulo ii, das seguintes Administrações Regionais de Saúde, I. P. (ARS, I. P.):\n\ni) Administração Regional de Saúde do Norte, I. P. (ARS Norte, I. P.);\n\nii) Administração Regional de Saúde do Centro, I. P. (ARS Centro, I. P.);\n\niii) Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P. (ARS LVT, I. P.);\n\niv) Administração Regional de Saúde do Alentejo, I. P. (ARS Alentejo, I. P.);\n\nv) Administração Regional de Saúde do Algarve, I. P. (ARS Algarve, I. P.);\n\nb) À reestruturação:\n\ni) Da Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), nos termos previstos no capítulo ii e nos artigos 23.º e 26.º;\n\nii) Da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), nos termos previstos no capítulo ii e no artigo 23.º ;\n\niii) Da Direção-Geral da Saúde (DGS), nos termos previstos nos artigos 23.º e 27.º\n\n2 - O presente decreto-lei procede, ainda:\n\na) À segunda alteração ao Decreto-Lei n.º 81/2009, de 2 de abril, alterado pelo Decreto-Lei n.º 137/2013, de 7 de outubro, que reestrutura a organização dos serviços operativos de saúde pública a nível regional e local, articulando com a organização das administrações regionais de saúde e dos agrupamentos de centros de saúde;\n\nb) À segunda alteração ao Decreto-Lei n.º 82/2009, de 2 de abril, alterado pelo Decreto-Lei n.º 135/2013, de 4 de outubro, que estabelece o regime jurídico da designação, competência e funcionamento das entidades que exercem o poder de autoridades de saúde;\n\nc) À primeira alteração à Lei n.º 81/2009, de 21 de agosto, que institui um sistema de vigilância em saúde pública, que identifica situações de risco, recolhe, atualiza, analisa e divulga os dados relativos a doenças transmissíveis e outros riscos em saúde pública, bem como prepara planos de contingência face a emergências ou tão graves como de calamidade pública;\n\nd) À oitava alteração ao Decreto-Lei n.º 124/2011, de 29 de dezembro, na sua redação atual, que aprova a orgânica do Ministério da Saúde;\n\ne) À terceira alteração ao Decreto Regulamentar n.º 14/2012, de 26 de janeiro, alterado pelos Decretos-Leis n.<sup>os </sup>69/2017, de 16 de junho, e 61/2022, de 23 de setembro, que aprova a orgânica da DGS;\n\nf) À segunda alteração ao Decreto-Lei n.º 27/2012, de 8 de fevereiro, alterado pelo Decreto-Lei n.º 35/2022, de 20 de maio, que aprova a orgânica do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P.;\n\ng) À quinta alteração ao Decreto-Lei n.º 35/2012, de 15 de fevereiro, alterado pelos Decretos-Leis n.<sup>os </sup>173/2014, de 19 de novembro, 206/2015, de 23 de setembro, 38/2018, de 11 de junho, e 61/2022, de 23 de setembro, que aprova a orgânica da ACSS, I. P.;\n\nh) À terceira alteração ao Decreto-Lei n.º 61/2022, de 23 de setembro, alterado pelos Decretos-Leis n.<sup>os </sup>89/2023, de 11 de outubro, e 102/2023, de 7 de novembro, que aprova a orgânica da DE-SNS, I. P.;\n\ni) À primeira alteração ao Decreto-Lei n.º 102/2023, de 7 de novembro, que procede à criação, com natureza de entidades públicas empresariais, de unidades locais de saúde."
+  },
+  "887091012": {
+   "fragment_id": "887092616",
+   "type": 1,
+   "heading": "Capítulo II — Extinção, por fusão, das Administrações Regionais de Saúde, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Extinção, por fusão, das Administrações Regionais de Saúde, I. P."
+  },
+  "887091013": {
+   "fragment_id": "887092617",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "887091014": {
+   "fragment_id": "887092618",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transferência de atribuições e competências\n\n1 - Sucedem nas atribuições e competências das ARS, I. P.:\n\na) A DGS, no domínio da saúde pública e da coordenação regional dos programas de saúde;\n\nb) O Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P. (INSA, I. P.), no que respeita aos laboratórios regionais de saúde pública, da ARS Algarve, I. P., da ARS Alentejo, I. P., da ARS Centro, I. P., e da ARS Norte, I. P., integrados nos respetivos departamentos de saúde pública;\n\nc) À DE-SNS, I. P., nos seguintes domínios:\n\ni) Cuidados continuados integrados e cuidados paliativos;\n\nii) Planeamento regional de recursos humanos;\n\niii) Apoio técnico às instituições prestadoras de cuidados de saúde;\n\niv) Acompanhar o desenvolvimento dos investimentos em instalações e equipamentos e participar na definição da Carta de Equipamentos de Saúde que decorre das necessidades da rede do SNS;\n\nv) A DE-SNS será responsável pelo apoio à implementação e desenvolvimento das USF, tendo por missão apoiar as equipas e as Unidade Local de Saúde (ULS) na criação e acompanhamento das USF a nível nacional;\n\nvi) Acompanhamento da gestão dos cuidados de saúde primários com a designação da Equipa Nacional de Apoio (ENA) e das Equipas Regionais de Apoio (ERAs);\n\nd) A ACSS, I. P., nos seguintes domínios:\n\ni) Planeamento de recursos financeiros;\n\nii) Formação pré-carreira;\n\niii) Coordenação dos concursos da carreira médica;\n\niv) Contratação de prestação de cuidados de saúde de âmbito nacional e regional, sem prejuízo da competência das Unidades Locais de Saúde para a celebração de contratos de prestação de cuidados na sua área geográfica;\n\nv) Execução e acompanhamento de projetos de investimento das instituições prestadoras de cuidados de saúde;\n\nvi) Instalações e equipamentos.\n\n2 - As atribuições e competências das ARS, I. P., relativas ao Plano de Recuperação e Resiliência (PRR), transitam para a ULS respetiva, no quadro do investimento nos cuidados de saúde primários, com exceção de procedimentos de aquisições agregadas de bens e serviços que passam para a Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), e, nos restantes investimentos, para a ACSS, I. P.\n\n3 - As demais atribuições e competências das ARS, I. P., previstas noutros diplomas legais, são transferidas para a ACSS, I. P., sem prejuízo do disposto no artigo 27.º"
+  },
+  "887091015": {
+   "fragment_id": "887092619",
+   "type": 11,
+   "heading": "Artigo 3.º — Transferência de direitos, obrigações e posições contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transferência de direitos, obrigações e posições contratuais\n\nSucedem nos direitos e obrigações e nas posições contratuais das ARS, I. P., as entidades integradoras de acordo com os critérios estabelecidos no artigo anterior, sem prejuízo do exposto no artigo 26.º"
+  },
+  "887091016": {
+   "fragment_id": "887092620",
+   "type": 11,
+   "heading": "Artigo 4.º — Processos de fusão das Administrações Regionais de Saúde, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Processos de fusão das Administrações Regionais de Saúde, I. P.\n\n1 - Aos processos de fusão das ARS, I. P., é aplicável o disposto no Decreto-Lei n.º 200/2006, de 25 de outubro, e no Regime de Valorização Profissional dos Trabalhadores com Vínculo de Emprego Público, aprovado em anexo à Lei n.º 25/2017, de 30 de maio (RVP), sem prejuízo do disposto no presente decreto-lei.\n\n2 - Sem prejuízo das competências da comissão liquidatária prevista no artigo 26.º, os processos de fusão decorrem sob a responsabilidade dos dirigentes máximos de cada uma das entidades integradoras, com a colaboração dos dirigentes máximos de cada uma das ARS, I. P., sem prejuízo do disposto no número seguinte.\n\n3 - Na ausência de titulares dos órgãos das ARS, I. P., cabe ao dirigente máximo responsável pela coordenação do processo designado nos termos do n.º 3 do artigo 5.º do Decreto-Lei n.º 200/2006, de 25 de outubro, assegurar a execução dos processos de fusão.\n\n4 - Os dirigentes máximos das ARS, I. P., realizam as operações necessárias à identificação dos direitos, obrigações, responsabilidades contingentes e processos de contencioso e posições contratuais, bens móveis e imóveis a transmitir.\n\n5 - Os dirigentes máximos das ARS, I. P., são responsáveis pela execução orçamental até ao termo do processo de extinção, em articulação com a ACSS, I. P.\n\n6 - Concluídos os processos de fusão a que respeita o presente artigo, é publicado na 2.ª série do Diário da República despacho nos termos estabelecidos no n.º 6 do artigo 4.º do Decreto-Lei n.º 200/2006, de 25 de outubro, na sua redação atual."
+  },
+  "887091017": {
+   "fragment_id": "887092621",
+   "type": 11,
+   "heading": "Artigo 5.º — Bens móveis e imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Bens móveis e imóveis\n\n1 - A transferência da propriedade dos bens móveis e imóveis das ARS, I. P., é determinada por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde, sob proposta da entidade referida no artigo 26.º\n\n2 - Sem prejuízo do disposto nos artigos 13.º a 18.º do Decreto-Lei n.º 200/2006, de 25 de outubro, são reafetos às entidades integradoras, se para tal forem necessários, nos termos da transferência de atribuições e competências previstas no artigo 2.º, os bens móveis e imóveis afetos às ARS, I. P., com as seguintes exceções:\n\na) Os bens móveis e imóveis que foram ou venham a ser objeto de auto de transferência para os municípios, ao abrigo do Decreto-Lei n.º 23/2019, de 30 de janeiro, na sua redação atual;\n\nb) Os bens móveis e imóveis a reafetar ao Instituto para os Comportamentos Aditivos e as Dependências, I. P., por força do Decreto-Lei n.º 89/2023, de 11 de outubro;\n\nc) Os bens móveis e imóveis a reafetar às Unidades Locais de Saúde, E. P. E., nos termos do Decreto-Lei n.º 102/2023, de 7 de novembro.\n\n3 - Cabe aos responsáveis pelos processos de fusão, em colaboração com os dirigentes máximos das ARS, I. P., a aferição do critério da necessidade a que se refere o número anterior.\n\n4 - Compete a cada uma das entidades integradoras proceder à atualização do inventário do património imobiliário público, no prazo de 30 dias após o cumprimento do disposto nos n.<sup>os </sup>1 e 2, prestando, para o efeito, toda a informação necessária à ESTAMO - Participações Imobiliárias, S. A."
+  },
+  "887091018": {
+   "fragment_id": "887092622",
+   "type": 11,
+   "heading": "Artigo 6.º — Processos e procedimentos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processos e procedimentos pendentes\n\nOs processos e procedimentos administrativos pendentes nas ARS, I. P., bem como os que se relacionam com o exercício dos poderes de autoridade de saúde, transitam para as entidades que sucedam nas respetivas atribuições e competências."
+  },
+  "887091019": {
+   "fragment_id": "887092623",
+   "type": 11,
+   "heading": "Artigo 7.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recursos financeiros\n\n1 - As entidades integradoras sucedem às ARS, I. P., nas autorizações para assunção de encargos plurianuais que, à data da entrada em vigor do presente decreto-lei, tenham sido concedidas, se encontrem submetidas a parecer da ACSS, I. P., quando aplicável, ou se encontrem submetidas a autorização dos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n2 - Os orçamentos das entidades integradoras podem, no âmbito dos processos de fusão e para acomodar o acréscimo de despesa resultante da transferência de atribuições e competências, ser objeto de reforço por verbas provenientes do programa orçamental da saúde, mediante autorização do membro do Governo responsável pela área da saúde."
+  },
+  "887091020": {
+   "fragment_id": "887092624",
+   "type": 11,
+   "heading": "Artigo 8.º — Registos e demais efeitos legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registos e demais efeitos legais\n\nO presente decreto-lei constitui título bastante para todos os efeitos legais, designadamente os de registo, transmissão de direitos e obrigações, e bem assim outras posições jurídicas, ficando as entidades integradoras isentas de pagamento de quaisquer taxas e emolumentos."
+  },
+  "887091021": {
+   "fragment_id": "887092625",
+   "type": 8,
+   "heading": "Secção II — Disposições relativas ao pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições relativas ao pessoal"
+  },
+  "887091022": {
+   "fragment_id": "887092626",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de seleção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de seleção do pessoal\n\n1 - São fixados como critérios gerais e abstratos de seleção dos trabalhadores necessários à prossecução das atribuições ou ao exercício das competências transferidas das ARS, I. P., nos termos do artigo 2.º:\n\na) Para a DGS, o exercício de funções no domínio da saúde pública e da coordenação regional dos programas de saúde, sem prejuízo do disposto na alínea seguinte;\n\nb) Para o INSA, I. P., o exercício de funções nos laboratórios regionais de saúde pública, da ARS Algarve, I. P., da ARS Alentejo, I. P., da ARS Centro, I. P., e da ARS Norte, I. P.;\n\nc) Para a ACSS, I. P., o exercício de funções nos domínios do planeamento regional de recursos financeiros, de apoio técnico às instituições prestadoras de cuidados de saúde em matéria de instalações e equipamentos, da formação pré-carreira, da coordenação dos concursos da carreira médica, contratação da prestação de cuidados de saúde de âmbito regional, sem prejuízo da competência das unidades locais de saúde, da execução e do acompanhamento de projetos de investimento das instituições prestadoras de cuidados, da coordenação e acompanhamento da execução dos contratos de gestão em regime de parceria público-privada e do PRR no quadro dos investimentos não abrangidos pela alínea seguinte;\n\nd) Para as respetivas ULS, o exercício de funções no domínio do PRR no quadro do investimento dos cuidados de saúde primários;\n\ne) Para a DE-SNS, o exercício de funções nos domínios dos cuidados continuados integrados e cuidados paliativos, do planeamento regional de recursos humanos, e nos domínios não abrangidos nas alíneas anteriores.\n\n2 - Os trabalhadores do Hospital Distrital de Braga, também designado por Hospital de São Marcos, e do Hospital de Reynaldo dos Santos, que, à data da entrada em vigor do presente decreto-lei integrem os mapas de pessoal da ARS, Norte, I. P., e da ARS LVT, I. P., no âmbito dos contratos de gestão em regime de parceria público-privada de Braga e Vila Franca de Xira, transitam, respetivamente, para a Unidade Local de Saúde de Braga, E. P. E., e para a Unidade Local de Saúde do Estuário do Tejo, E. P. E.\n\n3 - Os trabalhadores do Centro Hospitalar de Cascais com vínculo de emprego público que à data da entrada em vigor do presente decreto-lei integrem o mapa de pessoal da ARS LVT, I. P., no âmbito do contrato de gestão em regime de parceria público-privada de Cascais, transitam para a ACSS, I. P.\n\n4 - Se da aplicação dos critérios previstos no n.º 1 resultar colocação em concelho diferente do concelho do local de trabalho à data da entrada em vigor do presente decreto-lei, o trabalhador pode solicitar mobilidade nos termos legais em vigor para estabelecimentos ou serviços integrados no SNS ou em órgão ou serviço sob tutela do membro do Governo responsável pela área da saúde."
+  },
+  "887091023": {
+   "fragment_id": "887092627",
+   "type": 11,
+   "heading": "Artigo 10.º — Elaboração das listas nominativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Elaboração das listas nominativas\n\n1 - Na sequência da aplicação dos critérios de seleção de pessoal estabelecidos no artigo anterior, são elaboradas listas nominativas submetidas pela comissão liquidatária prevista no artigo 26.º, a aprovação por despacho do membro do Governo responsável pela área da saúde.\n\n2 - Sem prejuízo do disposto no artigo 4.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, as listas nominativas referidas no número anterior são notificadas respetivamente a cada um dos trabalhadores e tornadas públicas na página eletrónica das ARS, I. P., no prazo de 20 dias, contados da data da entrada em vigor do presente decreto-lei, aplicando-se o disposto no artigo 109.º da Lei n.º 12-A/2008, de 27 de fevereiro, com as necessárias adaptações."
+  },
+  "887091024": {
+   "fragment_id": "887092628",
+   "type": 11,
+   "heading": "Artigo 11.º — Exercício transitório de funções noutro órgão ou serviço por trabalhadores das Administrações Regionais de Saúde, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exercício transitório de funções noutro órgão ou serviço por trabalhadores das Administrações Regionais de Saúde, I. P.\n\n1 - Ao exercício transitório de funções noutro órgão ou serviço por trabalhadores das ARS, I. P., aplica-se o disposto no presente artigo.\n\n2 - Durante os processos de fusão das ARS, I. P., há lugar a mobilidade nos termos gerais, com as seguintes especificidades:\n\na) A mobilidade é autorizada pelos responsáveis pelos processos de fusão das ARS, I. P.;\n\nb) Apenas carece do acordo do trabalhador e do serviço de destino;\n\nc) Para além do disposto nas alíneas antecedentes, nos casos em que o serviço de destino corresponda a estabelecimento ou serviço integrado no SNS, incluindo o setor público empresarial, a mobilidade opera-se nos termos do artigo 19.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 52/2022, de 4 de agosto, na sua redação atual.\n\n3 - Sem prejuízo do disposto nos números seguintes, caso a situação de mobilidade se mantenha à data do despacho que declara a conclusão do processo de fusão da ARS, I. P., o trabalhador, mediante despacho do membro do Governo que exerça poderes de direção, superintendência ou tutela sobre o empregador, é integrado:\n\na) No órgão ou serviço em que exerce funções, na categoria, posição, nível remuneratórios detidos na origem, em posto de trabalho não ocupado ou a prever no mapa de pessoal;\n\nb) No órgão ou serviço que resulte da aplicação das regras previstas no artigo 9.º do presente decreto-lei.\n\n4 - Aos trabalhadores que, sendo detentores de uma relação jurídica de emprego público por tempo indeterminado previamente constituída, exerçam funções em período experimental e que não concluam com sucesso aquele período regressam à situação jurídico-funcional que detinham anteriormente.\n\n5 - Aos trabalhadores das ARS, I. P., que se encontrem designados em regime de comissão de serviço, em funções em gabinete ministerial ou que exerçam outras funções de caráter transitório noutro órgão ou serviço, ou em organismo internacional, não abrangidas pelo disposto nos números anteriores, é aplicável o procedimento relativo à reafetação de trabalhadores previsto no artigo 9.º, sem prejuízo da manutenção do exercício de funções de caráter transitório até ao seu termo."
+  },
+  "887091025": {
+   "fragment_id": "887092629",
+   "type": 11,
+   "heading": "Artigo 12.º — Trabalhadores das Administrações Regionais de Saúde, I. P., em situação de licença sem remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Trabalhadores das Administrações Regionais de Saúde, I. P., em situação de licença sem remuneração\n\n1 - Os trabalhadores das ARS, I. P., que se encontrem em situação de licença sem remuneração mantêm-se na situação de licença.\n\n2 - Sem prejuízo do disposto no número anterior, é aplicável o procedimento relativo à reafetação de trabalhadores previsto no artigo 9.º aos trabalhadores das ARS, I. P., que se encontrem numa das seguintes situações:\n\na) Licença fundada em circunstâncias de interesse público;\n\nb) Licença de duração inferior a um ano;\n\nc) Licença sem remuneração para acompanhamento de cônjuge colocado no estrangeiro com duração inferior a dois anos;\n\nd) Licença para o exercício de funções em organismos internacionais;\n\ne) Licença especial para o exercício transitório de funções públicas ou de interesse público em Macau.\n\n3 - Sem prejuízo do disposto no n.º 1, nas licenças sem remuneração não abrangidas pelo número anterior, os trabalhadores das ARS, I. P., são colocados, na data da conclusão dos respetivos processos de fusão, em situação de valorização profissional, operando-se o regresso destes trabalhadores nos termos previstos no RVP."
+  },
+  "887091026": {
+   "fragment_id": "887092630",
+   "type": 11,
+   "heading": "Artigo 13.º — Exercício transitório de funções nas Administrações Regionais de Saúde, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exercício transitório de funções nas Administrações Regionais de Saúde, I. P.\n\n1 - Ao exercício transitório de funções nas ARS, I. P., aplica-se o disposto no presente artigo.\n\n2 - As comissões de serviço dos titulares dos cargos dirigentes das ARS, I. P., cessam automaticamente com a entrada em vigor do presente decreto-lei.\n\n3 - Sem prejuízo do disposto no número anterior, os titulares dos cargos dirigentes mantêm-se em funções até à conclusão dos processos de fusão das ARS, I. P., ou até à data determinada por despacho do responsável pela condução dos processos de fusão.\n\n4 - O disposto no número anterior não prejudica a aplicação do procedimento relativo à reafetação de trabalhadores previstos no artigo 9.º\n\n5 - Aos trabalhadores em mobilidade nas ARS, I. P., à data da entrada em vigor do decreto-lei, aplica-se o n.º 1 do artigo 9.º ou, quando não seja possível, o regresso à situação jurídico-funcional de origem."
+  },
+  "887091027": {
+   "fragment_id": "887092631",
+   "type": 11,
+   "heading": "Artigo 14.º — Estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estágios\n\nOs estágios curriculares, profissionais ou equiparados em curso nas ARS, I. P., à data da entrada em vigor do presente decreto-lei, prosseguem nas entidades integradoras, de acordo com a sucessão das atribuições e competências previstas no artigo 2.º"
+  },
+  "887091028": {
+   "fragment_id": "887092632",
+   "type": 11,
+   "heading": "Artigo 15.º — Outras disposições relativas a pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Outras disposições relativas a pessoal\n\n1 - Os concursos de pessoal pendentes à data de entrada em vigor do presente decreto-lei, no domínio das atribuições e competências transferidas nos termos do artigo 2.º, mantêm-se válidos, sendo os lugares a prover os que lhes corresponderem nas orgânicas das entidades integradoras.\n\n2 - Para efeitos do número anterior e no caso de o serviço integrador ter natureza de entidade pública empresarial podem ser criados postos de trabalho adequados à constituição de vínculos de emprego público.\n\n3 - O disposto no n.º 1 aplica-se, com as necessárias adaptações, aos períodos experimentais em curso à data da entrada em vigor do presente decreto-lei.\n\n4 - As entidades integradoras, nos termos do artigo 2.º, sucedem ainda nas atribuições e responsabilidades das ARS, I. P., quanto ao pagamento de retroativos referentes a créditos laborais, designadamente alteração de posicionamento remuneratório, que respeitem a factos anteriores a 31 de dezembro de 2023.\n\n5 - Para os efeitos previstos no número anterior, o serviço integrador assume, designadamente junto do competente serviço da segurança social, a posição jurídica de empregador.\n\n6 - No caso dos trabalhadores que transitaram, nos termos previstos no Decreto-Lei n.º 102/2023, de 7 de novembro, para uma ULS, considera-se serviço integrador, para os efeitos previstos nos n.<sup>os </sup>4 e 5, a ACSS, I. P.\n\n7 - Nas situações referidas no número anterior, a responsabilidade pelo pagamento ali referido não dispensa a ULS respetiva de comunicar à ACSS, I. P., quer o montante a processar quer o respetivo enquadramento."
+  },
+  "887091029": {
+   "fragment_id": "887092633",
+   "type": 1,
+   "heading": "Capítulo III — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações legislativas"
+  },
+  "887091030": {
+   "fragment_id": "887092634",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração à Lei n.º 81/2009, de 21 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração à Lei n.º 81/2009, de 21 de agosto\n\nOs artigos 3.º, 5.º, 7.º, 13.º e 17.º da Lei n.º 81/2009, de 21 de agosto, na sua redação atual, passam a ter a seguinte redação:\n\n\"Artigo 3.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) [...]\n\nb) Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P. (INSA, I. P.);\n\nc) [...]\n\nd) (Revogada.)\n\ne) Serviços de saúde pública sediados nas unidades locais de saúde (ULS).\n\n3 - [...]\n\n4 - [...]\n\nArtigo 5.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\na) [...]\n\nb) Presidente do conselho diretivo do INSA, I. P.;\n\nc) [...]\n\nd) Autoridades de saúde regionais;\n\ne) Diretor-geral de Alimentação e Veterinária;\n\nf) Presidente do conselho diretivo do Laboratório Nacional de Investigação Veterinária.\n\n6 - [...]\n\nArtigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\na) [...]\n\nb) (Revogada.)\n\nc) [...]\n\nd) [...]\n\ne) Presidente do conselho diretivo do INSA, I. P.;\n\nf) [...]\n\ng) Presidente da Autoridade Nacional de Emergência e Proteção Civil;\n\nh) Diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P.\n\n6 - [...]\n\nArtigo 13.º\n\n[...]\n\n1 - [...]\n\n2 - As ocorrências que envolvam níveis de morbilidade ou mortalidade superiores aos esperados para o período e local considerados devem ser, logo que conhecidas, comunicadas pelas entidades que integram a rede às autoridades de saúde, bem como aos responsáveis de estruturas locais, nomeadamente os conselhos de administração das ULS da área geográfica relevante, os quais devem aplicar, de imediato, medidas preliminares adequadas de controlo.\n\n3 - A DGS e as ULS asseguram a respetiva capacidade de resposta de saúde pública para confirmar o estado das ocorrências notificadas e apoiar ou aplicar, de imediato, medidas complementares de controlo e, se considerados de emergência, comunicar todos os dados essenciais a nível nacional para a CCE, para avaliação nos termos previstos na alínea a) do n.º 2 do artigo 7.º\n\n4 - [...]\n\nArtigo 17.º\n\n[...]\n\n1 - De acordo com o estipulado no n.º 3 da base 34 da Lei n.º 95/2019, de 4 de setembro, o membro do Governo responsável pela área da saúde pode tomar medidas de exceção indispensáveis em caso de emergência em saúde pública, incluindo a restrição, a suspensão ou o encerramento de atividades ou a separação de pessoas que não estejam doentes, meios de transporte ou mercadorias, que tenham sido expostos, de forma a evitar a eventual disseminação da infeção ou contaminação.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\""
+  },
+  "887091031": {
+   "fragment_id": "887092635",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração ao Decreto-Lei n.º 81/2009, de 2 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração ao Decreto-Lei n.º 81/2009, de 2 de abril\n\nOs artigos 2.º, 4.º, 5.º-A, 6.º e 7.º do Decreto-Lei n.º 81/2009, de 2 de abril, na sua redação atual, passam a ter a seguinte redação:\n\n\"Artigo 2.º\n\n[...]\n\nAs funções operativas do serviço de saúde pública de área de intervenção regional são exercidas pelas delegações regionais de saúde da Direção-Geral da Saúde (DGS).\n\nArtigo 4.º\n\n[...]\n\n1 - [...]\n\na) A nível regional, cada delegação regional de saúde deve garantir o funcionamento e a disponibilidade da informação em saúde, bem como a necessária articulação com as demais delegações regionais de saúde e unidades orgânicas da DGS, bem como com as ULS;\n\nb) A nível local, as unidades de saúde pública das ULS devem garantir a funcionalidade do sistema e circuitos de informação, bem como a necessária articulação com as outras unidades funcionais das unidades locais de saúde e outros estabelecimentos e serviços da sua área geodemográfica.\n\n2 - [...]\n\n3 - [...]\n\nArtigo 5.º-A\n\n[...]\n\nO processo de designação dos diretores das delegações regionais de saúde e dos coordenadores das unidades de saúde pública envolve as diligências e formalidades previstas para a designação da autoridade de saúde, nos termos da legislação especial aplicável.\n\nArtigo 6.º\n\nDiretores das delegações regionais de saúde\n\n1 - Aos diretores das delegações regionais de saúde compete:\n\na) [...]\n\nb) [...]\n\nc) Elaborar o regulamento interno da delegação regional e submetê-lo à aprovação do diretor-geral da Saúde;\n\nd) Elaborar a proposta do plano de ação e respetivo orçamento e submetê-lo a aprovação do diretor-geral da Saúde e assegurar a sua execução;\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\n2 - [...]\n\nArtigo 7.º\n\n[...]\n\n1 - As competências de cada delegação regional de saúde constam da portaria que aprova a estrutura nuclear da DGS.\n\n2 - A organização e funcionamento de cada delegação regional de saúde constam de regulamento próprio aprovado pelo diretor-geral da Saúde, o qual se deve reger, no que respeita às funções operativas de serviços de saúde pública, pelos seguintes princípios:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\n3 - [...]\""
+  },
+  "887091032": {
+   "fragment_id": "887092636",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao Decreto-Lei n.º 82/2009, de 2 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao Decreto-Lei n.º 82/2009, de 2 de abril\n\nOs artigos 4.º, 7.º, 8.º e 9.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual, passam a ter a seguinte redação:\n\n\"Artigo 4.º\n\n[...]\n\n1 - Os delegados de saúde regionais são designados, em comissão de serviço, por despacho do membro do Governo responsável pela área da saúde, sob proposta do diretor-geral da Saúde.\n\n2 - O delegado de saúde regional exerce, por inerência à comissão de serviço para que foi designado, as funções de diretor da delegação regional de saúde respetiva, nos termos de legislação própria.\n\n3 - Os delegados de saúde regionais-adjuntos são designados, em comissão de serviço, por despacho do membro do Governo responsável pela área da saúde, sob proposta do diretor-geral da Saúde, ouvido o delegado de saúde regional.\n\n4 - [...]\n\n5 - Os delegados de saúde-coordenadores são designados, em comissão de serviço, pelo diretor-geral da Saúde, ouvido o conselho de administração da ULS a que se encontram afetos e mediante o parecer favorável do respetivo delegado de saúde regional.\n\n6 - O delegado de saúde-coordenador exerce, por inerência à comissão de serviço para que foi designado, as funções de coordenador da unidade de saúde pública da ULS respetiva, nos termos de legislação própria.\n\n7 - Os delegados de saúde são designados, em comissão de serviço, pelo diretor-geral da Saúde, ouvido o conselho de administração da ULS a que se encontram afetos, e após pareceres favoráveis do respetivo delegado de saúde-coordenador e do delegado de saúde regional.\n\n8 - [...]\n\n9 - É aplicável à comissão de serviço o regime constante da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, com as especificidades previstas nos números seguintes.\n\n10 - O conselho de administração da ULS territorialmente competente deve promover a renovação da comissão de serviço das autoridades de saúde locais, de acordo com o referido nos n.<sup>os </sup>1, 3, 5 e 7, no prazo de 90 dias antes do seu termo.\n\n11 - [...]\n\n12 - [...]\n\n13 - Mediante despacho do diretor-geral da Saúde, sob proposta fundamentada do delegado de saúde regional e ouvidos os conselhos de administração das ULS intervenientes, pode ser autorizado aos delegados de saúde-coordenadores e delegados de saúde o exercício de funções de autoridade de saúde em área geográfica diferente daquela para que estão designados, desde que a intervenção se situe na circunscrição territorial da respetiva região de saúde, haja concordância do interessado e sem prejuízo do disposto em legislação especial sobre a matéria.\n\n14 - [...]\n\n15 - [...]\n\n16 - [...]\n\nArtigo 7.º\n\n[...]\n\n1 - As autoridades de saúde de âmbito regional, também designadas por delegados de saúde regionais, estão sediadas nas delegações regionais de saúde da Direção-Geral da Saúde (DGS).\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) Prestar a colaboração que lhe seja solicitada pelas ULS dentro da sua competência;\n\ng) [...]\n\n3 - A autoridade de saúde regional é coadjuvada por um delegado de saúde regional-adjunto, conforme proposta fundamentada a apresentar pelo delegado de saúde regional ao diretor-geral da Saúde.\n\n4 - [...]\n\n5 - [...]\n\nArtigo 8.º\n\n[...]\n\n1 - A autoridade de saúde de nível local, também designada por delegado de saúde-coordenador, está sediada na unidade de saúde pública das ULS e exerce as suas competências no âmbito geográfico territorialmente competente.\n\n2 - Para cada unidade local de saúde é designado um delegado de saúde-coordenador e um ou mais delegados de saúde, nos termos do número seguinte.\n\n3 - Em cada ULS o delegado de saúde-coordenador é coadjuvado por delegados de saúde, segundo um rácio de um delegado de saúde por cada 75 mil habitantes residentes na área de intervenção.\n\n4 - Nos municípios com mais de uma ULS, é designado pelo delegado regional de saúde o delegado de saúde que se articula com as instituições externas ao Serviço Nacional de Saúde, para efeitos de normalização e de aplicação de procedimentos de âmbito municipal.\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\nArtigo 9.º\n\n[...]\n\n1 - [...]\n\n2 - As autoridades de saúde, no exercício do seu poder e competências, dispõem de apoio, a nível técnico, jurídico, de recursos humanos e logístico, que é assegurado pela DGS, a nível nacional e regional, bem como pelas ULS das respetivas áreas de intervenção.\n\n3 - [...]\""
+  },
+  "887091033": {
+   "fragment_id": "887092637",
+   "type": 11,
+   "heading": "Artigo 19.º — Alteração ao Decreto-Lei n.º 124/2011, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração ao Decreto-Lei n.º 124/2011, de 29 de dezembro\n\nOs artigos 12.º e 13.º-B do Decreto-Lei n.º 124/2011, de 29 de dezembro, na sua redação atual, passam a ter a seguinte redação:\n\n\"Artigo 12.º\n\n[...]\n\n1 - A Direção-Geral da Saúde, abreviadamente designada por DGS, tem por missão regulamentar, orientar e coordenar as atividades de promoção da saúde e prevenção da doença, desenvolver atividades no âmbito da saúde pública, definir as condições técnicas para a adequada prestação de cuidados de saúde, planear e programar a política nacional para a qualidade no sistema de saúde, bem como assegurar a elaboração e execução do Plano Nacional de Saúde (PNS).\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) Coordenar e assegurar a vigilância epidemiológica de determinantes da saúde e de doenças transmissíveis e não transmissíveis, bem como os sistemas de alerta e resposta apropriada a emergências de saúde pública, a nível nacional e regional e a respetiva contribuição no quadro internacional;\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) Assegurar a elaboração e a execução do Plano Nacional de Saúde, coordenando, a nível nacional e regional, a definição e o desenvolvimento de programas de saúde, com base num sistema integrado de informação, articulando com os demais serviços e organismos do sistema de saúde, designadamente com o Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., em matéria de investigação científica e laboratorial;\n\nk) Desenvolver e fomentar atividades nacionais e regionais no âmbito da saúde pública, incluindo no que respeita à sanidade internacional, de modo a garantir a proteção e a promoção da saúde das populações.\n\n3 - [...]\n\nArtigo 13.º-B\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) [...]\n\nr) [...]\n\ns) [...]\n\nt) [...]\n\nu) [...]\n\nv) [...]\n\nw) [...]\n\nx) (Revogada.)\n\ny) [...]\n\n3 - [...]\""
+  },
+  "887091034": {
+   "fragment_id": "887092638",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao anexo ii do Decreto-Lei n.º 124/2011, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao anexo ii do Decreto-Lei n.º 124/2011, de 29 de dezembro\n\nO anexo ii do Decreto-Lei n.º 124/2011, de 29 de dezembro, na sua redação atual, passa a ter a redação constante do anexo i do presente decreto-lei e do qual faz parte integrante."
+  },
+  "887091035": {
+   "fragment_id": "887092639",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração ao Decreto-Lei n.º 27/2012, de 8 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração ao Decreto-Lei n.º 27/2012, de 8 de fevereiro\n\nO artigo 2.º do Decreto-Lei n.º 27/2012, de 8 de fevereiro, na sua redação atual, passa a ter a seguinte redação:\n\n\"Artigo 2.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Integram ainda o INSA, I. P., os laboratórios regionais de saúde pública do Algarve, do Alentejo, do Centro e do Norte.\""
+  },
+  "887091036": {
+   "fragment_id": "887092640",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração ao Decreto-Lei n.º 35/2012, de 15 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração ao Decreto-Lei n.º 35/2012, de 15 de fevereiro\n\nO artigo 7.º do Decreto-Lei n.º 35/2012, de 15 de fevereiro, na sua redação atual, passa a ter a seguinte redação:\n\n\"Artigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) (Revogada.)\n\ng) O diretor executivo da DE-SNS, I. P.\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\""
+  },
+  "887091037": {
+   "fragment_id": "887092641",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Decreto Regulamentar n.º 14/2012, de 26 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Decreto Regulamentar n.º 14/2012, de 26 de janeiro\n\nOs artigos 1.º, 2.º e 5.º do Decreto Regulamentar n.º 14/2012, de 26 de janeiro, na sua redação atual, passam a ter a seguinte redação:\n\n\"Artigo 1.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - A DGS dispõe de unidades orgânicas desconcentradas de âmbito regional, designadas por delegações regionais de saúde, com competência territorial correspondentes às cinco regiões de saúde, conforme definidas no artigo 6.º do Decreto-Lei n.º 52/2022, de 4 de agosto, na sua redação atual.\n\nArtigo 2.º\n\n[...]\n\n1 - A DGS tem por missão regulamentar, orientar e coordenar as atividades de promoção da saúde e prevenção da doença, desenvolver atividades no âmbito da saúde pública, definir as condições técnicas para a adequada prestação de cuidados de saúde, planear e programar a política nacional para a qualidade no sistema de saúde, bem como assegurar a elaboração e execução do Plano Nacional de Saúde (PNS).\n\n2 - [...]\n\na) [...]\n\nb) Coordenar e assegurar a vigilância epidemiológica de determinantes da saúde e de doenças transmissíveis e não transmissíveis, bem como os sistemas de alerta e resposta apropriada a emergências de saúde pública, a nível nacional e regional e a respetiva contribuição no quadro internacional;\n\nc) [...]\n\nd) Assegurar a elaboração e a execução do Plano Nacional de Saúde, coordenando, a nível nacional e regional, a definição e o desenvolvimento de programas de saúde, com base num sistema integrado de informação, articulando com os demais serviços e organismos do sistema de saúde;\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) Desenvolver e fomentar atividades nacionais e regionais no âmbito da saúde pública, incluindo no que respeita à sanidade internacional, de modo a garantir a proteção e a promoção da saúde das populações.\n\n3 - No desenvolvimento da sua missão, a DGS prossegue ainda as seguintes atribuições, a nível nacional e regional, para além das que lhe sejam conferidas por legislação própria:\n\na) Apoiar o diretor-geral da Saúde e os diretores das delegações regionais de saúde no exercício das suas competências de autoridades de saúde, nos termos previstos na lei;\n\nb) [...]\n\nc) [...]\n\n4 - [...]\n\nArtigo 5.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) Nas áreas de apoio e acompanhamento à Autoridade de Saúde Nacional, incluindo a Avaliação e Gestão de Riscos Associados a Radiações, o modelo de estrutura matricial assente em equipas multidisciplinares.\""
+  },
+  "887091038": {
+   "fragment_id": "887092642",
+   "type": 11,
+   "heading": "Artigo 24.º — Alteração ao anexo ao Decreto Regulamentar n.º 14/2012, de 26 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alteração ao anexo ao Decreto Regulamentar n.º 14/2012, de 26 de janeiro\n\nO anexo ao Decreto Regulamentar n.º 14/2012, de 26 de janeiro, na sua redação atual, passa a ter a redação constante do anexo ii do presente decreto-lei e do qual faz parte integrante."
+  },
+  "887091039": {
+   "fragment_id": "887092643",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração ao Decreto-Lei n.º 102/2023, de 7 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Alteração ao Decreto-Lei n.º 102/2023, de 7 de novembro\n\nOs artigos 1.º e 18.º do Decreto-Lei n.º 102/2023, de 7 de novembro, passam a ter a seguinte redação:\n\n\"Artigo 1.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) Centro Hospitalar de Entre o Douro e Vouga, E. P. E., com integração dos Agrupamentos de Centros de Saúde de Entre Douro e Vouga I - Feira e Arouca, Entre Douro e Vouga II - Aveiro Norte, Cuidados de Saúde de Ovar (ex-Hospital Dr. Francisco Zagalo) e o Agrupamento de Centros de Saúde do Baixo Vouga, passando a denominar-se Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.;\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) [...]\n\nr) [...]\n\ns) [...]\n\nt) [...]\n\nu) [...]\n\nv) [...]\n\nw) [...]\n\nx) [...]\n\ny) [...]\n\nz) [...]\n\naa) [...]\n\nbb) [...]\n\ncc) Unidade Local de Saúde do Norte Alentejano, E. P. E., com integração do polo de Portalegre Laboratório de Saúde Pública do Alentejo, passando a denominar-se Unidade Local de Saúde do Alto Alentejo, E. P. E.;\n\ndd) [...]\n\nee) [...]\n\n2 - [...]\n\nArtigo 18.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - Os processos de reestruturação previstos no presente decreto-lei não determinam a cessação das comissões de serviço dos delegados de saúde-coordenadores, com exceção dos casos em que, por virtude daqueles processos, ocorra a integração de mais do que um ACES numa ULS.\n\n9 - Sem prejuízo do disposto na parte final do número anterior, mantém-se em funções, até à designação de novo titular, o delegado de saúde-coordenador que tiver maior antiguidade, sucessivamente, no exercício dessas funções, na categoria ou na carreira ou, em igualdade de circunstâncias, aquele que for fundamentadamente designado pelo delegado de saúde regional respetivo, passando os demais a exercer as funções de delegados de saúde.\""
+  },
+  "887091040": {
+   "fragment_id": "887092644",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares, transitórias e finais"
+  },
+  "887091041": {
+   "fragment_id": "887092645",
+   "type": 11,
+   "heading": "Artigo 26.º — Comissão liquidatária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comissão liquidatária\n\n1 - É criada uma comissão liquidatária por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde com o objetivo de coordenar e dirigir o processo de extinção das ARS e garantir a transição das competências e património para as entidades em causa.\n\n2 - O despacho referido no número anterior define as competências da comissão liquidatária, incluindo a articulação com os órgãos máximos de gestão das entidades integradoras e das ARS, I. P., o prazo do exercício de funções, bem como o estatuto remuneratório dos elementos que a integram, o qual não pode ser acumulado com outras remunerações."
+  },
+  "887091042": {
+   "fragment_id": "887092646",
+   "type": 11,
+   "heading": "Artigo 27.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Referências legais\n\n1 - As referências feitas às ARS, I. P., em lei, regulamento ou contrato, consideram-se feitas:\n\na) À DGS, quando sejam relativas a atribuições transferidas nos termos do disposto na alínea a) do n.º 1 do artigo 2.º;\n\nb) Ao INSA, I. P., quando sejam relativas a atribuições transferidas nos termos do disposto na alínea b) do n.º 1 do artigo 2.º;\n\nc) À DE-SNS, I. P., quando sejam relativas a atribuições transferidas nos termos do disposto na alínea c) do n.º 1 e no n.º 3 do artigo 2.º;\n\nd) À ACSS, I. P., quando sejam relativas a atribuições transferidas nos termos do disposto na alínea d) do n.º 1 e no n.º 2 do artigo 2.º;\n\ne) Às ULS respetivas, quando sejam relativas a atribuições transferidas nos termos do disposto no n.º 2 do artigo 2.º\n\n2 - Sem prejuízo do disposto no número anterior, e após a conclusão dos processos de fusão das ARS, I. P., as referências feitas nos n.<sup>os </sup>4 a 8 do artigo 5.º do Decreto-Lei n.º 10-A/2020, de 13 de março, enquanto estes vigorarem por força do n.º 3 do artigo 3.º do Decreto-Lei n.º 15/2024, de 17 de janeiro, consideram-se feitas às unidades locais de saúde onde se encontram constituídas as juntas médicas de avaliação de incapacidade.\n\n3 - As referências feitas às ARS, I. P., nos Decretos-Leis n.<sup>os </sup>138/2013 e 139/2013, ambos de 9 de outubro, consideram-se feitas às ULS, sem prejuízo de a ACSS, I. P., poder intervir na contratação de âmbito regional de prestação de cuidados de saúde.\n\n4 - As referências feitas às ARS, I. P., na Portaria n.º 134-A/2022, de 30 de março, consideram-se feitas à ACSS, I. P.\n\n5 - A competência das ARS, I. P., prevista no artigo 14.º do Decreto-Lei n.º 53/2007, de 8 de março, relativa à aprovação dos turnos das farmácias é transferida para o INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P."
+  },
+  "887091043": {
+   "fragment_id": "887092647",
+   "type": 11,
+   "heading": "Artigo 28.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Disposições transitórias\n\n1 - A ACSS, I. P., pode ter equipas locais para efeitos de prosseguir as atribuições e competências de âmbito regional.\n\n2 - A SPMS, E. P. E., e a ACSS, I. P., podem optar por manter os júris nomeados ou, fundamentadamente, proceder, sempre que necessário, à nomeação de novos júris nos procedimentos no âmbito do PRR, em cuja posição jurídica hajam sucedido a uma ARS, I. P., por força do disposto no presente decreto-lei.\n\n3 - O membro do Governo responsável pela área da saúde regula, por despacho, os aspetos não previstos nos números anteriores que se mostrem necessários à boa execução dos procedimentos no âmbito do PRR.\n\n4 - São aprovadas, no prazo de 60 dias a contar da entrada em vigor do presente decreto-lei, designadamente, as seguintes alterações aos estatutos das entidades abrangidas pelos processos de fusão e reestruturação a que se refere o artigo 2.º:\n\na) Portaria n.º 155/2012, de 22 de maio, que aprova os Estatutos da ACSS, I. P.;\n\nb) Portaria n.º 159/2012, de 22 de maio, na sua redação atual, que fixa a estrutura nuclear da DGS;\n\nc) Portaria n.º 306-A/2023, de 12 de outubro, que aprova os Estatutos da DE-SNS, I P."
+  },
+  "887091044": {
+   "fragment_id": "887092648",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\n1 - São revogados:\n\na) A alínea d) do n.º 2 do artigo 3.º e a alínea b) do n.º 5 do artigo 7.º da Lei n.º 81/2009, de 21 de agosto, na sua redação atual;\n\nb) O n.º 2 do artigo 5.º, a alínea x) do n.º 2 do artigo 13.º-B e o artigo 19.º do Decreto-Lei n.º 124/2011, de 29 de dezembro, na sua redação atual;\n\nc) O Decreto-Lei n.º 22/2012, de 30 de janeiro, na sua redação atual;\n\nd) A alínea x) do n.º 2 do artigo 3.º do Decreto-Lei n.º 61/2022, de 23 de setembro, na sua redação atual;\n\ne) A Portaria n.º 153/2012, de 22 de maio, na sua redação atual;\n\nf) A Portaria n.º 156/2012, de 22 de maio, na sua redação atual;\n\ng) A Portaria n.º 157/2012, de 22 de maio, na sua redação atual;\n\nh) A Portaria n.º 161/2012, de 22 de maio, na sua redação atual;\n\ni) A Portaria n.º 164/2012, de 22 de maio, na sua redação atual.\n\n2 - O disposto no número anterior não prejudica o exercício das competências legalmente previstas até à conclusão dos processos de fusão e reestruturação previstos no presente decreto-lei."
+  },
+  "887091045": {
+   "fragment_id": "887092649",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação."
+  },
+  "887091047": {
+   "fragment_id": "887092651",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 20.º)\n\nAnexo II \n(a que se refere o artigo 22.º)\nDirigentes de organismos da administração indireta\n\n|  | Número de lugares |\n| --- | --- |\n| Presidentes de conselho diretivo | 7 |\n| Vice-presidentes ou vogais de conselho diretivo | 15 |"
+  },
+  "887091049": {
+   "fragment_id": "887092653",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 24.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 24.º)\n\nAnexo \n(a que se refere o artigo 8.º)\n\n| Cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares |\n| --- | --- | --- | --- |\n| Diretor-geral | Direção superior | 1.º | 1 |\n| Subdiretor-geral | Direção superior | 2.º | 2 |\n| Diretor de serviços | Direção intermédia | 1.º | 8 |\n\n118088016"
+  },
+  "892302270": {
+   "fragment_id": "887092643",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração ao Decreto-Lei n.º 102/2023, de 7 de novembro",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 38/2024/1 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2024-892125866), produz efeitos a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 25.º — Alteração ao Decreto-Lei n.º 102/2023, de 7 de novembro\n\nOs artigos 1.º e 18.º do Decreto-Lei n.º 102/2023, de 7 de novembro, passam a ter a seguinte redação:\n\n\"Artigo 1.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) Centro Hospitalar de Entre o Douro e Vouga, E. P. E., com integração dos Agrupamentos de Centros de Saúde de Entre Douro e Vouga I - Feira e Arouca, Entre Douto e Vouga II - Aveiro Norte, o Centro de Saúde de Ovar do Agrupamento de Centros de Saúde do Baixo Vouga e o Hospital Dr. Francisco Zagalo, passando a denominar-se Unidade Local de Saúde de Entre Douro e Vouga, E. P. E.;\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) Centro Hospitalar do Baixo Vouga, E. P. E., com integração do Agrupamento de Centros de Saúde do Baixo Vouga, com exceção do Centro de Saúde de Ovar, passando a denominar-se Unidade Local de Saúde da Região de Aveiro, E. P. E.;\n\nr) [...]\n\ns) [...]\n\nt) [...]\n\nu) [...]\n\nv) [...]\n\nw) [...]\n\nx) [...]\n\ny) [...]\n\nz) [...]\n\naa) [...]\n\nbb) [...]\n\ncc) [...]\n\ndd) Unidade Local de Saúde do Norte Alentejano, E. P. E., com integração do polo de Portalegre do Laboratório de Saúde Pública do Alentejo, passando a denominar-se Unidade Local de Saúde do Alto Alentejo, E. P. E.;\n\nee) [...]\n\n2 - [...]\n\nArtigo 18.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - Os processos de reestruturação previstos no presente decreto-lei não determinam a cessação das comissões de serviço dos delegados de saúde-coordenadores, com exceção dos casos em que, por virtude daqueles processos, ocorra a integração de mais do que um ACES numa ULS.\n\n9 - Sem prejuízo do disposto na parte final do número anterior, mantém-se em funções, até à designação de novo titular, o delegado de saúde-coordenador que tiver maior antiguidade, sucessivamente, no exercício dessas funções, na categoria ou na carreira ou, em igualdade de circunstâncias, aquele que for fundamentadamente designado pelo delegado de saúde regional respetivo, passando os demais a exercer as funções de delegados de saúde.\"\n\n> Retificado pelo/a [Declaração de Retificação n.º 38/2024/1 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2024-892125866), produz efeitos a partir de 2024-10-01"
+  },
+  "989163369": {
+   "fragment_id": "887092646",
+   "type": 11,
+   "heading": "Artigo 27.º — Referências legais",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+   ],
+   "markdown": "###### Artigo 27.º — Referências legais\n\n1 - As referências feitas às ARS, I. P., em lei, regulamento ou contrato, consideram-se feitas:\n\na) À DGS, quando sejam relativas a atribuições transferidas nos termos do disposto na alínea a) do n.º 1 do artigo 2.º;\n\nb) Ao INSA, I. P., quando sejam relativas a atribuições transferidas nos termos do disposto na alínea b) do n.º 1 do artigo 2.º;\n\nc) À DE-SNS, I. P., quando sejam relativas a atribuições transferidas nos termos do disposto na alínea c) do n.º 1 e no n.º 3 do artigo 2.º;\n\nd) À ACSS, I. P., quando sejam relativas a atribuições transferidas nos termos do disposto na alínea d) do n.º 1 e no n.º 2 do artigo 2.º;\n\ne) Às ULS respetivas, quando sejam relativas a atribuições transferidas nos termos do disposto no n.º 2 do artigo 2.º\n\n2 - Sem prejuízo do disposto no número anterior, e após a conclusão dos processos de fusão das ARS, I. P., as referências feitas nos n.<sup>os </sup>4 a 8 do artigo 5.º do Decreto-Lei n.º 10-A/2020, de 13 de março, enquanto estes vigorarem por força do n.º 3 do artigo 3.º do Decreto-Lei n.º 15/2024, de 17 de janeiro, consideram-se feitas às unidades locais de saúde onde se encontram constituídas as juntas médicas de avaliação de incapacidade.\n\n3 - As referências feitas às ARS, I. P., nos Decretos-Leis n.<sup>os </sup>138/2013 e 139/2013, ambos de 9 de outubro, consideram-se feitas às ULS, sem prejuízo de a ACSS, I. P., poder intervir na contratação de âmbito regional de prestação de cuidados de saúde.\n\n4 - As referências feitas às ARS, I. P., na Portaria n.º 134-A/2022, de 30 de março, consideram-se feitas à ACSS, I. P.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+  },
+  "887091046": {
+   "fragment_id": "887092650",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de agosto de 2024. - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida - Ana Margarida Pinheiro Povo.\n\nPromulgado em 28 de agosto de 2024.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 2 de setembro de 2024.\n\nO Primeiro-Ministro, Luís Montenegro."
+  }
+ }
+}

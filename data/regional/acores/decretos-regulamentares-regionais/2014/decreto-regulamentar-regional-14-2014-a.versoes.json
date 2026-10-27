@@ -1,0 +1,544 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:56152688:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2014-107713414",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/14-2014-56152688",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-08-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "872430662",
+    "107713492",
+    "107713493",
+    "107713494",
+    "107713495",
+    "107713496",
+    "107713497",
+    "107713498",
+    "107713499",
+    "107713500",
+    "107713501",
+    "107713502",
+    "107713503",
+    "107713504",
+    "107713505",
+    "107713506",
+    "107713507",
+    "107713508",
+    "107713509",
+    "107713510",
+    "107713511",
+    "107713512"
+   ]
+  },
+  {
+   "date": "2017-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107709513:por",
+     "title": "Decreto Regulamentar Regional n.º 5/2017/A",
+     "published": "2017-07-19",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/5-2017-107709513"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "107713491",
+    "107713492",
+    "107713493",
+    "107713494",
+    "107713495",
+    "107713496",
+    "107713545",
+    "107713498",
+    "107713499",
+    "107713500",
+    "107713501",
+    "107713502",
+    "107713503",
+    "107713504",
+    "107713505",
+    "107713506",
+    "107713507",
+    "107713508",
+    "107713509",
+    "107713510",
+    "107713511",
+    "107713512",
+    "107713513"
+   ]
+  },
+  {
+   "date": "2022-10-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201755756:por",
+     "title": "Decreto Regulamentar Regional n.º 19/2022/A",
+     "published": "2022-10-03",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "872430662",
+    "872430663",
+    "872430664",
+    "872430665",
+    "872430666",
+    "872430667",
+    "872430668",
+    "872430669",
+    "872430670",
+    "872430671",
+    "872430672",
+    "872430673",
+    "872430674",
+    "872428175",
+    "872428176",
+    "872428177",
+    "872428178",
+    "872428179",
+    "872428180",
+    "872428181",
+    "872428182",
+    "872428183",
+    "872428184"
+   ]
+  }
+ ],
+ "fragments": {
+  "872430662": {
+   "fragment_id": "107713415",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-04",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 14/2014/A\n\nNatureza, composição e normas de funcionamento do Conselho Regional da Agricultura, Florestas e Desenvolvimento Rural\n\nCada vez mais a participação da sociedade civil na definição das políticas regionais se quer uma realidade, pelo que a administração tende a adotar mecanismos de interação e diálogo permanente com os diversos parceiros sociais e com os cidadãos.\n\nNeste âmbito, têm vindo a ser criados, nas estruturas orgânicas dos vários departamentos do Governo Regional, órgãos de caráter consultivo, em regra compostos por responsáveis políticos, dirigentes da administração e representantes de organizações não-governamentais;\n\nCom vista a prosseguir estes objetivos, na sequência da alteração da estrutura do Governo Regional e da criação da Secretaria Regional dos Recursos Naturais, cuja estrutura orgânica e quadro de pessoal dirigente foram aprovados pelo Decreto Regulamentar Regional n.º 11/2013/A, de 2 de agosto, tornou-se necessário redefinir a composição e normas de funcionamento do Conselho da Agricultura, Florestas e Desenvolvimento Rural e dotá-lo de uma componente participativa mais abrangente;\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "107713492": {
+   "fragment_id": "107713416",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107713493": {
+   "fragment_id": "107713417",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO Conselho Regional de Agricultura, Florestas e Desenvolvimento Rural, abreviadamente designado por CRAFDR, previsto no artigo 7.º do Decreto Regulamentar Regional n.º 11/2013/A, de 2 de agosto, rege-se, quanto à sua composição e normas de funcionamento, pelo disposto no presente diploma."
+  },
+  "107713494": {
+   "fragment_id": "107713418",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e âmbito\n\nO CRAFDR é um órgão consultivo do departamento do Governo Regional competente em matéria de agricultura, florestas e desenvolvimento rural, constituído com o objetivo de contribuir para a formulação das linhas gerais de ação nos setores da agricultura, indústria, atividades conexas, desenvolvimento rural e florestas, assegurando o direito de participação pública e o diálogo e cooperação com entidades e organizações de âmbito regional."
+  },
+  "107713495": {
+   "fragment_id": "107713419",
+   "type": 1,
+   "heading": "Capítulo II — Competências e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Competências e composição"
+  },
+  "107713496": {
+   "fragment_id": "107713420",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências gerais\n\n1. Ao CRAFDR compete, sempre que solicitado, a emissão de pareceres e recomendações relativas à formulação das linhas gerais de ação da administração regional autónoma nos domínios da agricultura, florestas e desenvolvimento rural.\n\n2. No exercício das suas competências cabe genericamente ao CRAFDR:\n\na) Aconselhar as instâncias governamentais competentes em matéria de agricultura, florestas e desenvolvimento rural, assistindo-as na elaboração das estratégias de desenvolvimento sustentável e publicando relatórios sobre determinadas políticas;\n\nb) Acompanhar e controlar os progressos na aplicação das estratégias de desenvolvimento sustentável ou na consecução de objetivos específicos e chamar a atenção para eventuais lacunas;\n\nc) Promover o diálogo e a consulta da sociedade civil, associando representantes da sociedade civil aos seus trabalhos, e encorajando o diálogo entre eles e entre eles e o Governo Regional;\n\nd) Comunicar sobre o desenvolvimento sustentável, participando em eventos públicos e publicando informações.\n\n3. Compete ainda ao CRAFDR:\n\na) Emitir parecer sobre os documentos que, por lei ou regulamento, o departamento do Governo Regional competente em matéria de agricultura, florestas e desenvolvimento rural deva elaborar;\n\nb) Emitir os pareceres em matéria da sua competência que lhe sejam especificamente solicitados pelo Governo Regional;\n\nc) Aprovar o seu plano anual de atividades e o correspondente relatório anual;\n\nd) Aprovar as normas reguladoras do seu funcionamento interno que considere necessárias."
+  },
+  "107713497": {
+   "fragment_id": "107713421",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\n1. O CRAFDR é composto pelo membro do Governo Regional competente em matéria de agricultura, florestas e desenvolvimento rural, que preside, e pelos seguintes vogais:\n\na) Um representante de cada uma das associações agrícolas regionais;\n\nb) Um representante do setor cooperativo agrícola;\n\nc) Um representante da Associação Nacional dos Industriais de Laticínios;\n\nd) Um representante da Comissão Vitivinícola Regional dos Açores;\n\ne) Um representante da Federação de Caçadores dos Açores;\n\nf) Um representante dos conselhos cinegéticos de ilha;\n\ng) Um representante das associações de proprietários;\n\nh) Um representante dos sindicatos dos trabalhadores agrícolas e florestais;\n\ni) Um representante da Universidade dos Açores;\n\nj) Um representante da Câmara do Comércio e Indústria dos Açores.\n\n2. Participam, ainda, no CRAFDR, sem direito a voto, os dirigentes máximos das unidades orgânicas e dos institutos e empresas públicas com competência nas áreas referidas no n.º 1 do presente artigo.\n\n3. Por iniciativa do presidente ou por sugestão da maioria dos membros do CRAFDR, podem ser convidados para participar nas reuniões do conselho representantes de entidades públicas ou privadas ou outras personalidades, cuja presença seja considerada útil, atendendo à agenda da reunião.\n\n4. Os convidados a que se refere o número anterior participam nas reuniões do CRAFDR, sem direito a voto, e em número que, em cada reunião, não pode ser superior a cinco."
+  },
+  "107713498": {
+   "fragment_id": "107713422",
+   "type": 11,
+   "heading": "Artigo 5.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Presidente\n\n1. Compete ao presidente do CRAFDR:\n\na) Representar o CRAFDR;\n\nb) Dar posse aos vogais;\n\nc) Estabelecer a agenda, convocar e presidir às reuniões do CRAFDR;\n\nd) Orientar as ações do CRAFDR e solicitar ao plenário parecer sobre matérias da competência do CRAFDR;\n\ne) Propor a constituição de grupos de trabalho, o respetivo mandato e prazos para a elaboração da tarefa, designando os respetivos relatores coordenadores, de entre os membros do CRAFDR;\n\nf) Convidar a participar nas reuniões do CRAFDR ou dos grupos de trabalho, sem direito a voto, quaisquer entidades públicas ou privadas ou outras personalidades cuja presença seja considerada útil;\n\ng) Informar regularmente o CRAFDR do seguimento dado às deliberações e recomendações do plenário e das atividades desenvolvidas pelos grupos de trabalho;\n\nh) Determinar a elaboração de estudos especializados complementares, de apoio ao âmbito da atividade do CRAFDR, confiando a sua realização a entidades públicas ou privadas, dando disso informação ao plenário;\n\ni) Nomear, mediante despacho, o secretário-geral do CRAFDR;\n\nj) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.\n\n2. Nas suas ausências e impedimentos, o presidente é substituído pelo dirigente máximo do serviço da administração regional competente em matéria de agricultura e desenvolvimento rural."
+  },
+  "107713499": {
+   "fragment_id": "107713423",
+   "type": 11,
+   "heading": "Artigo 6.º — Vogais e convidados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Vogais e convidados\n\n1. Compete aos vogais do CRAFDR:\n\na) Participar nas reuniões;\n\nb) Apreciar, formular propostas e suscitar esclarecimentos sobre os assuntos presentes para apreciação;\n\nc) Votar as deliberações do plenário, traduzindo o respetivo voto a posição da entidade por si representada se nessa qualidade tiverem sido nomeados;\n\nd) Participar nos grupos de trabalho para os quais forem designados;\n\ne) Requerer a inclusão de assuntos na agenda das reuniões ou a convocação de reuniões extraordinárias, nos termos do disposto no presente diploma.\n\n2. Os vogais do CRAFDR, no exercício das suas funções, designadamente para a participação em reuniões plenárias e grupos de trabalho a que pertençam, são dispensados das suas atividades profissionais, mediante aviso antecipado às respetivas entidades empregadoras.\n\n3. As despesas decorrentes da participação dos vogais e personalidades convidadas são suportadas pelo departamento do Governo Regional competente em matéria de agricultura e florestas."
+  },
+  "107713500": {
+   "fragment_id": "107713424",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Secretário-geral\n\n1. O secretário-geral é nomeado pelo presidente, ouvido o CRAFDR.\n\n2. Compete ao secretário-geral:\n\na) Organizar as reuniões do CRAFDR e coordenar as atividades do CRAFDR entre as reuniões plenárias;\n\nb) Assegurar o envio das convocatórias e agendas das reuniões, bem como dos documentos que devam ser conhecidos ou sobre os quais seja solicitado parecer;\n\nc) Lavrar as atas das reuniões e submetê-las à apreciação dos membros do CRAFDR;\n\nd) Diligenciar no sentido do eficaz cumprimento das deliberações do plenário;\n\ne) Acompanhar e orientar as atividades dos grupos de trabalho e dos serviços de apoio;\n\nf) Levar ao conhecimento e submeter à aprovação do presidente as medidas que dela careçam;\n\ng) Acompanhar o desenvolvimento e a atualização do sítio na internet do CRAFDR.\n\n3. As funções de secretário-geral são exercidas, em regime de acumulação, por um trabalhador que exerça funções públicas no departamento do Governo Regional com competência em matéria de agricultura, florestas e desenvolvimento rural."
+  },
+  "107713501": {
+   "fragment_id": "107713425",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento do CRAFDR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento do CRAFDR"
+  },
+  "107713502": {
+   "fragment_id": "107713426",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1. O CRAFDR reúne ordinariamente uma vez por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou por solicitação de, pelo menos, um terço dos seus vogais.\n\n2. A convocatória para as reuniões deve ser enviada com a antecedência mínima de quinze dias para as reuniões ordinárias e de oito dias para as reuniões extraordinárias e pode ser feita por qualquer meio de comunicação que assegure o seu efetivo conhecimento e divulgação em tempo útil, devendo conter o dia, hora e local da reunião.\n\n3. A agenda de cada reunião é estabelecida pelo presidente e enviada com a antecedência mínima de oito dias para as reuniões ordinárias e de quatro dias para as reuniões extraordinárias, acompanhada dos documentos a analisar, e simultaneamente disponibilizada no sítio do CRAFDR na Internet.\n\n4. Os vogais do CRAFDR, no mínimo de cinco, podem propor ao presidente a inclusão na agenda da reunião de assuntos que reputem de interesse para apreciação, devendo a proposta de agendamento ser remetida ao secretário-geral, acompanhada da respetiva documentação, até dois dias antes dos prazos estabelecidos no número anterior.\n\n5. Só podem ser objeto de deliberação os assuntos incluídos na agenda da reunião, salvo, tratando-se de reunião ordinária, se for reconhecida a urgência e aprovado o respetivo aditamento por, pelo menos, dois terços dos membros presentes.\n\n6. A requerimento da maioria dos vogais do CRAFDR, podem participar nas reuniões, em função da respetiva agenda e sem direito a voto, representantes de entidades públicas ou privadas, bem como especialistas ou peritos, em número não superior a dois em cada reunião.\n\n7. O CRAFDR poderá funcionar em comissões especializadas, em termos a definir no respetivo regimento."
+  },
+  "107713503": {
+   "fragment_id": "107713427",
+   "type": 11,
+   "heading": "Artigo 9.º — Quórum e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Quórum e deliberações\n\n1. O CRAFDR só pode deliberar, em primeira convocatória, desde que estejam presentes, no mínimo, metade dos seus membros com direito a voto.\n\n2. Não sendo possível o funcionamento, por falta de quórum, à hora marcada para o início da sessão, o plenário funcionará meia hora depois, com qualquer número de membros, apenas podendo deliberar desde que estejam presentes, pelo menos, um terço dos membros em efetividade de funções.\n\n3. As deliberações do CRAFDR são preferencialmente tomadas por consenso e, sempre que tal não se revele possível, por maioria dos membros em efetividade de funções, tendo o presidente voto de qualidade.\n\n4. Os membros do CRAFDR podem efetuar declaração de voto, imediatamente após a votação que a origine, ou declarem que a farão por escrito, entregando-a até ao final da respetiva reunião."
+  },
+  "107713504": {
+   "fragment_id": "107713428",
+   "type": 11,
+   "heading": "Artigo 10.º — Atas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Atas\n\n1. De cada reunião do CRAFDR é lavrada uma ata, contendo um resumo do que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes e as justificações dos ausentes, os assuntos apreciados, as conclusões e as deliberações tomadas, incluindo o resultado das respetivas votações e, caso existam, as declarações de voto.\n\n2. A ata é submetida à apreciação dos membros do CRAFDR e votada na reunião seguinte, sendo assinada, após aprovação, pelo presidente e pelo secretário-geral.\n\n3. Sempre que se mostre necessário, pode ser aprovada, na reunião a que disser respeito, uma minuta da ata, contendo a menção das deliberações tomadas e a forma e o resultado das respetivas votações."
+  },
+  "107713505": {
+   "fragment_id": "107713429",
+   "type": 11,
+   "heading": "Artigo 11.º — Grupos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Grupos de trabalho\n\n1. O plenário pode, por proposta do presidente, criar grupos de trabalho, tendo por objeto a elaboração de pareceres, relatórios, estudos ou informações destinados a apoiar a ação e objetivos do CRAFDR, definindo as respetivas atribuições, duração e modo de funcionamento.\n\n2. Os grupos de trabalho, incluindo o relator-coordenador, são constituídos por membros do CRAFDR designados pelo presidente, ouvido o plenário, podendo incluir personalidades convidadas, cuja participação seja considerada útil, em função do respetivo objeto.\n\n3. Compete ao relator-coordenador:\n\na) Organizar e orientar as atividades do grupo e presidir às respetivas reuniões;\n\nb) Assegurar o cumprimento dos prazos para as tarefas atribuídas, elaborar o respetivo relatório e apresentar os resultados ao plenário;\n\nc) Informar, sempre que solicitado pelo presidente, sobre a evolução das atividades do grupo."
+  },
+  "107713506": {
+   "fragment_id": "107713430",
+   "type": 11,
+   "heading": "Artigo 12.º — Apoio logístico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apoio logístico e administrativo\n\nO apoio logístico e administrativo para o funcionamento do CRAFDR é assegurado pelos serviços do departamento do Governo Regional com competência em matéria de agricultura, florestas e desenvolvimento rural."
+  },
+  "107713507": {
+   "fragment_id": "107713431",
+   "type": 1,
+   "heading": "Capítulo IV — Participação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Participação pública"
+  },
+  "107713508": {
+   "fragment_id": "107713432",
+   "type": 11,
+   "heading": "Artigo 13.º — Participação dos cidadãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Participação dos cidadãos\n\n1. Os cidadãos podem participar na atividade do CRAFDR mediante a apresentação de comunicações ao plenário ou através do respetivo sítio na Internet.\n\n2. A apresentação de comunicações ao plenário pode ser solicitada através de requerimento dirigido ao presidente, no qual se indique o objeto e os fundamentos da pretensão, acompanhado da documentação a distribuir pelos membros do CRAFDR.\n\n3. Os pedidos que não sejam indeferidos pelo presidente são agendados por ordem de entrada e em número nunca superior a dois por cada reunião, notificando-se o requerente da data, hora e local onde deve comparecer, a fim de participar na reunião.\n\n4. A comunicação referida nos números anteriores tem a duração máxima de trinta minutos, seguindo-se igual período de debate.\n\n5. Os cidadãos podem, ainda, indicar os assuntos que pretendem ver abordados nas reuniões do CRAFDR ou efetuar comentários e propostas relativamente aos pontos da agenda da reunião, através de formulários disponibilizados no sítio do CRAFDR na Internet."
+  },
+  "107713509": {
+   "fragment_id": "107713433",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "107713510": {
+   "fragment_id": "107713434",
+   "type": 11,
+   "heading": "Artigo 14.º — Normas supletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Normas supletivas\n\nAo funcionamento do CRAFDR aplicam-se, supletivamente, as regras relativas aos órgãos colegiais previstas no Código do Procedimento Administrativo."
+  },
+  "107713511": {
+   "fragment_id": "107713435",
+   "type": 11,
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nÉ revogado o Decreto Regulamentar Regional n.º 27/2007/A, de 20 de novembro."
+  },
+  "107713512": {
+   "fragment_id": "107713436",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107713491": {
+   "fragment_id": "107713415",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 14/2014/A\n\nNatureza, composição e normas de funcionamento do Conselho Regional da Agricultura, Florestas e Desenvolvimento Rural\n\nCada vez mais a participação da sociedade civil na definição das políticas regionais se quer uma realidade, pelo que a administração tende a adotar mecanismos de interação e diálogo permanente com os diversos parceiros sociais e com os cidadãos.\n\nNeste âmbito, têm vindo a ser criados, nas estruturas orgânicas dos vários departamentos do Governo Regional, órgãos de caráter consultivo, em regra compostos por responsáveis políticos, dirigentes da administração e representantes de organizações não-governamentais;\n\nCom vista a prosseguir estes objetivos, na sequência da alteração da estrutura do Governo Regional e da criação da Secretaria Regional dos Recursos Naturais, cuja estrutura orgânica e quadro de pessoal dirigente foram aprovados pelo Decreto Regulamentar Regional n.º 11/2013/A, de 2 de agosto, tornou-se necessário redefinir a composição e normas de funcionamento do Conselho da Agricultura, Florestas e Desenvolvimento Rural e dotá-lo de uma componente participativa mais abrangente;\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "107713545": {
+   "fragment_id": "107713421",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2017-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 5/2017/A - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2017-107709513), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1. O CRAFDR é composto pelo membro do Governo Regional competente em matéria de agricultura, florestas e desenvolvimento rural, que preside, e pelos seguintes vogais:\n\na) Um representante de cada uma das associações agrícolas regionais;\n\nb) Um representante do setor cooperativo agrícola;\n\nc) Um representante do setor cooperativo da agricultura biológica;\n\nd) Um representante da Associação Nacional dos Industriais de Laticínios;\n\ne) Um representante da Comissão Vitivinícola Regional dos Açores;\n\nf) Um representante de cada uma das associações florestais regionais;\n\ng) Um representante da Federação de Caçadores dos Açores;\n\nh) Um representante dos conselhos cinegéticos de ilha;\n\ni) Um representante das associações de proprietários;\n\nj) Um representante dos sindicatos dos trabalhadores agrícolas e florestais;\n\nk) Um representante da Universidade dos Açores;\n\nl) Um representante da Câmara do Comércio e Indústria dos Açores.\n\nm) Um representante de cada uma das associações de desenvolvimento local nos Açores, designadamente, da ARDE - Associação Regional para o Desenvolvimento, da GRATER - Associação de Desenvolvimento Regional, da ADELIAÇOR - Associação para o Desenvolvimento Local de Ilhas dos Açores e da ASDEPR - Associação para o Desenvolvimento e Promoção Rural;\n\nn) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\no) Um representante da Delegação Regional dos Açores da Associação Nacional das Freguesias.\n\n2. Participam, ainda, no CRAFDR, sem direito a voto, os dirigentes máximos das unidades orgânicas e dos institutos e empresas públicas com competência nas áreas referidas no n.º 1 do presente artigo.\n\n3. Por iniciativa do presidente ou por sugestão da maioria dos membros do CRAFDR, podem ser convidados para participar nas reuniões do conselho representantes de entidades públicas ou privadas ou outras personalidades, cuja presença seja considerada útil, atendendo à agenda da reunião.\n\n4. Os convidados a que se refere o número anterior participam nas reuniões do CRAFDR, sem direito a voto, e em número que, em cada reunião, não pode ser superior a cinco.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 5/2017/A - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2017-107709513), em vigor a partir de 2017-07-20"
+  },
+  "107713513": {
+   "fragment_id": "107713437",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 11 de junho de 2014.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 24 de julho de 2014.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "872430663": {
+   "fragment_id": "107713416",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430664": {
+   "fragment_id": "107713417",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO Conselho Regional de Agricultura, Florestas e Desenvolvimento Rural, abreviadamente designado por CRAFDR, previsto no artigo 7.º do Decreto Regulamentar Regional n.º 11/2013/A, de 2 de agosto, rege-se, quanto à sua composição e normas de funcionamento, pelo disposto no presente diploma.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430665": {
+   "fragment_id": "107713418",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e âmbito",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza e âmbito\n\nO CRAFDR é um órgão consultivo do departamento do Governo Regional competente em matéria de agricultura, florestas e desenvolvimento rural, constituído com o objetivo de contribuir para a formulação das linhas gerais de ação nos setores da agricultura, indústria, atividades conexas, desenvolvimento rural e florestas, assegurando o direito de participação pública e o diálogo e cooperação com entidades e organizações de âmbito regional.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430666": {
+   "fragment_id": "107713419",
+   "type": 1,
+   "heading": "Capítulo II — Competências e composição",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "### Capítulo II — Competências e composição\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430667": {
+   "fragment_id": "107713420",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências gerais",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 3.º — Competências gerais\n\n1. Ao CRAFDR compete, sempre que solicitado, a emissão de pareceres e recomendações relativas à formulação das linhas gerais de ação da administração regional autónoma nos domínios da agricultura, florestas e desenvolvimento rural.\n\n2. No exercício das suas competências cabe genericamente ao CRAFDR:\n\na) Aconselhar as instâncias governamentais competentes em matéria de agricultura, florestas e desenvolvimento rural, assistindo-as na elaboração das estratégias de desenvolvimento sustentável e publicando relatórios sobre determinadas políticas;\n\nb) Acompanhar e controlar os progressos na aplicação das estratégias de desenvolvimento sustentável ou na consecução de objetivos específicos e chamar a atenção para eventuais lacunas;\n\nc) Promover o diálogo e a consulta da sociedade civil, associando representantes da sociedade civil aos seus trabalhos, e encorajando o diálogo entre eles e entre eles e o Governo Regional;\n\nd) Comunicar sobre o desenvolvimento sustentável, participando em eventos públicos e publicando informações.\n\n3. Compete ainda ao CRAFDR:\n\na) Emitir parecer sobre os documentos que, por lei ou regulamento, o departamento do Governo Regional competente em matéria de agricultura, florestas e desenvolvimento rural deva elaborar;\n\nb) Emitir os pareceres em matéria da sua competência que lhe sejam especificamente solicitados pelo Governo Regional;\n\nc) Aprovar o seu plano anual de atividades e o correspondente relatório anual;\n\nd) Aprovar as normas reguladoras do seu funcionamento interno que considere necessárias.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430668": {
+   "fragment_id": "107713421",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 5/2017/A - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2017-107709513), em vigor a partir de 2017-07-20"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1. O CRAFDR é composto pelo membro do Governo Regional competente em matéria de agricultura, florestas e desenvolvimento rural, que preside, e pelos seguintes vogais:\n\na) Um representante de cada uma das associações agrícolas regionais;\n\nb) Um representante do setor cooperativo agrícola;\n\nc) Um representante do setor cooperativo da agricultura biológica;\n\nd) Um representante da Associação Nacional dos Industriais de Laticínios;\n\ne) Um representante da Comissão Vitivinícola Regional dos Açores;\n\nf) Um representante de cada uma das associações florestais regionais;\n\ng) Um representante da Federação de Caçadores dos Açores;\n\nh) Um representante dos conselhos cinegéticos de ilha;\n\ni) Um representante das associações de proprietários;\n\nj) Um representante dos sindicatos dos trabalhadores agrícolas e florestais;\n\nk) Um representante da Universidade dos Açores;\n\nl) Um representante da Câmara do Comércio e Indústria dos Açores.\n\nm) Um representante de cada uma das associações de desenvolvimento local nos Açores, designadamente, da ARDE - Associação Regional para o Desenvolvimento, da GRATER - Associação de Desenvolvimento Regional, da ADELIAÇOR - Associação para o Desenvolvimento Local de Ilhas dos Açores e da ASDEPR - Associação para o Desenvolvimento e Promoção Rural;\n\nn) Um representante da Associação de Municípios da Região Autónoma dos Açores;\n\no) Um representante da Delegação Regional dos Açores da Associação Nacional das Freguesias.\n\n2. Participam, ainda, no CRAFDR, sem direito a voto, os dirigentes máximos das unidades orgânicas e dos institutos e empresas públicas com competência nas áreas referidas no n.º 1 do presente artigo.\n\n3. Por iniciativa do presidente ou por sugestão da maioria dos membros do CRAFDR, podem ser convidados para participar nas reuniões do conselho representantes de entidades públicas ou privadas ou outras personalidades, cuja presença seja considerada útil, atendendo à agenda da reunião.\n\n4. Os convidados a que se refere o número anterior participam nas reuniões do CRAFDR, sem direito a voto, e em número que, em cada reunião, não pode ser superior a cinco.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 5/2017/A - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2017-107709513), em vigor a partir de 2017-07-20"
+  },
+  "872430669": {
+   "fragment_id": "107713422",
+   "type": 11,
+   "heading": "Artigo 5.º — Presidente",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 5.º — Presidente\n\n1. Compete ao presidente do CRAFDR:\n\na) Representar o CRAFDR;\n\nb) Dar posse aos vogais;\n\nc) Estabelecer a agenda, convocar e presidir às reuniões do CRAFDR;\n\nd) Orientar as ações do CRAFDR e solicitar ao plenário parecer sobre matérias da competência do CRAFDR;\n\ne) Propor a constituição de grupos de trabalho, o respetivo mandato e prazos para a elaboração da tarefa, designando os respetivos relatores coordenadores, de entre os membros do CRAFDR;\n\nf) Convidar a participar nas reuniões do CRAFDR ou dos grupos de trabalho, sem direito a voto, quaisquer entidades públicas ou privadas ou outras personalidades cuja presença seja considerada útil;\n\ng) Informar regularmente o CRAFDR do seguimento dado às deliberações e recomendações do plenário e das atividades desenvolvidas pelos grupos de trabalho;\n\nh) Determinar a elaboração de estudos especializados complementares, de apoio ao âmbito da atividade do CRAFDR, confiando a sua realização a entidades públicas ou privadas, dando disso informação ao plenário;\n\ni) Nomear, mediante despacho, o secretário-geral do CRAFDR;\n\nj) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.\n\n2. Nas suas ausências e impedimentos, o presidente é substituído pelo dirigente máximo do serviço da administração regional competente em matéria de agricultura e desenvolvimento rural.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430670": {
+   "fragment_id": "107713423",
+   "type": 11,
+   "heading": "Artigo 6.º — Vogais e convidados",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 6.º — Vogais e convidados\n\n1. Compete aos vogais do CRAFDR:\n\na) Participar nas reuniões;\n\nb) Apreciar, formular propostas e suscitar esclarecimentos sobre os assuntos presentes para apreciação;\n\nc) Votar as deliberações do plenário, traduzindo o respetivo voto a posição da entidade por si representada se nessa qualidade tiverem sido nomeados;\n\nd) Participar nos grupos de trabalho para os quais forem designados;\n\ne) Requerer a inclusão de assuntos na agenda das reuniões ou a convocação de reuniões extraordinárias, nos termos do disposto no presente diploma.\n\n2. Os vogais do CRAFDR, no exercício das suas funções, designadamente para a participação em reuniões plenárias e grupos de trabalho a que pertençam, são dispensados das suas atividades profissionais, mediante aviso antecipado às respetivas entidades empregadoras.\n\n3. As despesas decorrentes da participação dos vogais e personalidades convidadas são suportadas pelo departamento do Governo Regional competente em matéria de agricultura e florestas.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430671": {
+   "fragment_id": "107713424",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretário-geral",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 7.º — Secretário-geral\n\n1. O secretário-geral é nomeado pelo presidente, ouvido o CRAFDR.\n\n2. Compete ao secretário-geral:\n\na) Organizar as reuniões do CRAFDR e coordenar as atividades do CRAFDR entre as reuniões plenárias;\n\nb) Assegurar o envio das convocatórias e agendas das reuniões, bem como dos documentos que devam ser conhecidos ou sobre os quais seja solicitado parecer;\n\nc) Lavrar as atas das reuniões e submetê-las à apreciação dos membros do CRAFDR;\n\nd) Diligenciar no sentido do eficaz cumprimento das deliberações do plenário;\n\ne) Acompanhar e orientar as atividades dos grupos de trabalho e dos serviços de apoio;\n\nf) Levar ao conhecimento e submeter à aprovação do presidente as medidas que dela careçam;\n\ng) Acompanhar o desenvolvimento e a atualização do sítio na internet do CRAFDR.\n\n3. As funções de secretário-geral são exercidas, em regime de acumulação, por um trabalhador que exerça funções públicas no departamento do Governo Regional com competência em matéria de agricultura, florestas e desenvolvimento rural.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430672": {
+   "fragment_id": "107713425",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento do CRAFDR",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "### Capítulo III — Funcionamento do CRAFDR\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430673": {
+   "fragment_id": "107713426",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1. O CRAFDR reúne ordinariamente uma vez por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou por solicitação de, pelo menos, um terço dos seus vogais.\n\n2. A convocatória para as reuniões deve ser enviada com a antecedência mínima de quinze dias para as reuniões ordinárias e de oito dias para as reuniões extraordinárias e pode ser feita por qualquer meio de comunicação que assegure o seu efetivo conhecimento e divulgação em tempo útil, devendo conter o dia, hora e local da reunião.\n\n3. A agenda de cada reunião é estabelecida pelo presidente e enviada com a antecedência mínima de oito dias para as reuniões ordinárias e de quatro dias para as reuniões extraordinárias, acompanhada dos documentos a analisar, e simultaneamente disponibilizada no sítio do CRAFDR na Internet.\n\n4. Os vogais do CRAFDR, no mínimo de cinco, podem propor ao presidente a inclusão na agenda da reunião de assuntos que reputem de interesse para apreciação, devendo a proposta de agendamento ser remetida ao secretário-geral, acompanhada da respetiva documentação, até dois dias antes dos prazos estabelecidos no número anterior.\n\n5. Só podem ser objeto de deliberação os assuntos incluídos na agenda da reunião, salvo, tratando-se de reunião ordinária, se for reconhecida a urgência e aprovado o respetivo aditamento por, pelo menos, dois terços dos membros presentes.\n\n6. A requerimento da maioria dos vogais do CRAFDR, podem participar nas reuniões, em função da respetiva agenda e sem direito a voto, representantes de entidades públicas ou privadas, bem como especialistas ou peritos, em número não superior a dois em cada reunião.\n\n7. O CRAFDR poderá funcionar em comissões especializadas, em termos a definir no respetivo regimento.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872430674": {
+   "fragment_id": "107713427",
+   "type": 11,
+   "heading": "Artigo 9.º — Quórum e deliberações",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 9.º — Quórum e deliberações\n\n1. O CRAFDR só pode deliberar, em primeira convocatória, desde que estejam presentes, no mínimo, metade dos seus membros com direito a voto.\n\n2. Não sendo possível o funcionamento, por falta de quórum, à hora marcada para o início da sessão, o plenário funcionará meia hora depois, com qualquer número de membros, apenas podendo deliberar desde que estejam presentes, pelo menos, um terço dos membros em efetividade de funções.\n\n3. As deliberações do CRAFDR são preferencialmente tomadas por consenso e, sempre que tal não se revele possível, por maioria dos membros em efetividade de funções, tendo o presidente voto de qualidade.\n\n4. Os membros do CRAFDR podem efetuar declaração de voto, imediatamente após a votação que a origine, ou declarem que a farão por escrito, entregando-a até ao final da respetiva reunião.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428175": {
+   "fragment_id": "107713428",
+   "type": 11,
+   "heading": "Artigo 10.º — Atas",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 10.º — Atas\n\n1. De cada reunião do CRAFDR é lavrada uma ata, contendo um resumo do que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes e as justificações dos ausentes, os assuntos apreciados, as conclusões e as deliberações tomadas, incluindo o resultado das respetivas votações e, caso existam, as declarações de voto.\n\n2. A ata é submetida à apreciação dos membros do CRAFDR e votada na reunião seguinte, sendo assinada, após aprovação, pelo presidente e pelo secretário-geral.\n\n3. Sempre que se mostre necessário, pode ser aprovada, na reunião a que disser respeito, uma minuta da ata, contendo a menção das deliberações tomadas e a forma e o resultado das respetivas votações.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428176": {
+   "fragment_id": "107713429",
+   "type": 11,
+   "heading": "Artigo 11.º — Grupos de trabalho",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 11.º — Grupos de trabalho\n\n1. O plenário pode, por proposta do presidente, criar grupos de trabalho, tendo por objeto a elaboração de pareceres, relatórios, estudos ou informações destinados a apoiar a ação e objetivos do CRAFDR, definindo as respetivas atribuições, duração e modo de funcionamento.\n\n2. Os grupos de trabalho, incluindo o relator-coordenador, são constituídos por membros do CRAFDR designados pelo presidente, ouvido o plenário, podendo incluir personalidades convidadas, cuja participação seja considerada útil, em função do respetivo objeto.\n\n3. Compete ao relator-coordenador:\n\na) Organizar e orientar as atividades do grupo e presidir às respetivas reuniões;\n\nb) Assegurar o cumprimento dos prazos para as tarefas atribuídas, elaborar o respetivo relatório e apresentar os resultados ao plenário;\n\nc) Informar, sempre que solicitado pelo presidente, sobre a evolução das atividades do grupo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428177": {
+   "fragment_id": "107713430",
+   "type": 11,
+   "heading": "Artigo 12.º — Apoio logístico e administrativo",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 12.º — Apoio logístico e administrativo\n\nO apoio logístico e administrativo para o funcionamento do CRAFDR é assegurado pelos serviços do departamento do Governo Regional com competência em matéria de agricultura, florestas e desenvolvimento rural.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428178": {
+   "fragment_id": "107713431",
+   "type": 1,
+   "heading": "Capítulo IV — Participação pública",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "### Capítulo IV — Participação pública\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428179": {
+   "fragment_id": "107713432",
+   "type": 11,
+   "heading": "Artigo 13.º — Participação dos cidadãos",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 13.º — Participação dos cidadãos\n\n1. Os cidadãos podem participar na atividade do CRAFDR mediante a apresentação de comunicações ao plenário ou através do respetivo sítio na Internet.\n\n2. A apresentação de comunicações ao plenário pode ser solicitada através de requerimento dirigido ao presidente, no qual se indique o objeto e os fundamentos da pretensão, acompanhado da documentação a distribuir pelos membros do CRAFDR.\n\n3. Os pedidos que não sejam indeferidos pelo presidente são agendados por ordem de entrada e em número nunca superior a dois por cada reunião, notificando-se o requerente da data, hora e local onde deve comparecer, a fim de participar na reunião.\n\n4. A comunicação referida nos números anteriores tem a duração máxima de trinta minutos, seguindo-se igual período de debate.\n\n5. Os cidadãos podem, ainda, indicar os assuntos que pretendem ver abordados nas reuniões do CRAFDR ou efetuar comentários e propostas relativamente aos pontos da agenda da reunião, através de formulários disponibilizados no sítio do CRAFDR na Internet.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428180": {
+   "fragment_id": "107713433",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "### Capítulo V — Disposições finais\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428181": {
+   "fragment_id": "107713434",
+   "type": 11,
+   "heading": "Artigo 14.º — Normas supletivas",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 14.º — Normas supletivas\n\nAo funcionamento do CRAFDR aplicam-se, supletivamente, as regras relativas aos órgãos colegiais previstas no Código do Procedimento Administrativo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428182": {
+   "fragment_id": "107713435",
+   "type": 11,
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 15.º — Revogação\n\nÉ revogado o Decreto Regulamentar Regional n.º 27/2007/A, de 20 de novembro.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428183": {
+   "fragment_id": "107713436",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  },
+  "872428184": {
+   "fragment_id": "107713437",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 11 de junho de 2014.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 24 de julho de 2014.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto Regulamentar Regional n.º 19/2022/A - Diário da República n.º 191/2022, Série I de 2022-10-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756), em vigor a partir de 2022-10-04"
+  }
+ }
+}

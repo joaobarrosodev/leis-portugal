@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:422215:por
+title: Decreto n.º 251/73
+short_title: null
+summary: Revoga o artigo 54.º e respectivo § único do Regulamento da Pesca de Arrasto na Província de Angola, aprovado pelo
+  Decreto n.º 44398, de 14 de Junho de 1962
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Gabinete Militar e de Marinha - Serviços de Marinha
+proposing_entity: null
+official_number: 251/73
+official_date: null
+publication_date: '1973-05-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 117/1973, Série I de 1973-05-18
+  number: '117'
+  series: I
+  supplement: null
+  pages: 851 - 851
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/05/11700/08510851.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '422215'
+  dre_path: /dr/detalhe/decreto/251-1973-422215
+  internal: pt:dre:422215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/251-1973-422215
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/251-1973-422215
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 690f063eea01a6a62ff52e6e5e54336ab736ddc2bb40df61c9460c90582cac8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:164861:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:27:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 251/73
+
+de 18 de Maio
+
+O [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962, que aprovou o Regulamento da Pesca de Arrasto na Província de Angola, previu a necessidade de se efectuarem alterações aconselhadas pela experiência da sua execução.
+
+Reconhecendo haver vantagem em actualizar as suas disposições, nomeadamente regularizar com urgência a situação das embarcações que naquele Estado Português têm vindo a exercer a actividade da pesca de arrasto sem satisfazerem, no entanto, todas as condições exigidas pelo referido Regulamento;
+
+Considerando a conveniência de o Regulamento da Pesca de Arrasto no Estado Português de Angola ser aprovado e posto em execução por medida legislativa provincial, à semelhança do procedimento já adoptado no Estado Português de Moçambique;
+
+Por proposta do Governo-Geral do Estado de Angola;
+
+Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituição;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º, do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+Artigo 1.º É revogado o artigo 54.º e respectivo § único do Regulamento da Pesca de Arrasto na Província de Angola, aprovado e mandado pôr em execução pelo [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962.
+
+Art. 2.º Às embarcações que têm vindo a exercer a pesca de arrasto e àquelas cuja autorização de construção não caducou até 1 de Julho de 1972 - embarcações cuja relação será publicada em edital da Direcção Provincial dos Serviços de Marinha de Angola - será permitido o registo na pesca de arrasto, ainda que não satisfaçam às condições mínimas exigidas pelo Regulamento da Pesca de Arrasto na Província de Angola, aprovado e mandado pôr em execução pelo [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962.
+
+Art. 3.º Não será permitida a substituição, reconstrução ou grandes reparações, incluindo a substituição de motores de aparelhos de propulsão, quando se tratar de embarcações abrangidas pelo artigo anterior, a não ser que se destinem a outra modalidade de pesca compatível com as suas características.
+
+Art. 4.º - 1. As licenças destas embarcações serão requeridas pelos proprietários ou armadores, separadamente por cada embarcação, e serão passadas nominalmente.
+
+2. Em caso algum serão as licenças negociáveis.
+
+3. Só serão autorizadas substituições destas embarcações por outras que satisfaçam às condições do Regulamento da Pesca de Arrasto que esteja em vigor na data do pedido.
+
+4. Serão canceladas as licenças:
+
+a) Quando a exploração de pesca for interrompida por período superior a um ano, salvo os casos de força maior devidamente comprovados ao ser atingido esse período;
+
+b) Se o proprietário transferir a propriedade da embarcação;
+
+c) Se o pacto social da empresa a quem pertence a embarcação for alterado sem autorização do Governador-Geral.
+
+5. No caso de transmissão de herdeiros, estes deverão requerer o licenciamento da embarcação em seu nome, caso pretendam que ela continue a exercer a mesma actividade.
+
+Art. 5.º O Governo-Geral do Estado de Angola aprovará e mandará pôr em execução por meio de decreto provincial um novo regulamento de pesca de arrasto.
+
+Art. 6.º O [Decreto n.º 44398](https://diariodarepublica.pt/dr/detalhe/decreto/44398-1962-164861), de 14 de Junho de 1962, deixará de vigorar a partir do momento em que entrar em vigor o decreto provincial a que se refere o artigo anterior.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 1 de Maio de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Par ser publicado no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.

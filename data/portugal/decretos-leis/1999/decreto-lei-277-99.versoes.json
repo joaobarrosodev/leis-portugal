@@ -1,0 +1,444 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:352528:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-164798863",
+ "dre_path": "/dr/detalhe/decreto-lei/277-1999-352528",
+ "source_lastmod": "2025-06-18",
+ "versions": [
+  {
+   "date": "1999-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164866092",
+    "164866093",
+    "164866094",
+    "164866095",
+    "164866096",
+    "164866097",
+    "164866098",
+    "164866099",
+    "164866100",
+    "164866101",
+    "164866102",
+    "164866103",
+    "164866104",
+    "164866105",
+    "164866106",
+    "164866107",
+    "164866108",
+    "164866109",
+    "164866111",
+    "164866112",
+    "164866113"
+   ]
+  },
+  {
+   "date": "2007-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520260:por",
+     "title": "Decreto-Lei n.º 72/2007",
+     "published": "2007-03-27",
+     "dre_path": "/dr/detalhe/decreto-lei/72-2007-520260"
+    }
+   ],
+   "changes": [
+    "Adita Anexo 4.º-A",
+    "Adita Anexo IV",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Anexo I",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "164866092",
+    "164866093",
+    "164866094",
+    "164866095",
+    "922206622",
+    "922206603",
+    "922206623",
+    "922206605",
+    "922206606",
+    "922206624",
+    "922206625",
+    "922206609",
+    "922206626",
+    "922206627",
+    "922206628",
+    "922206613",
+    "922206630",
+    "922206615",
+    "922206616",
+    "922206617",
+    "922206629",
+    "922206619",
+    "922206620",
+    "922206621"
+   ]
+  }
+ ],
+ "fragments": {
+  "164866092": {
+   "fragment_id": "164798864",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 277/99\n\nde 23 de Julho\n\nOs bifenilos policlorados e os terfenilos policlorados, conhecidos internacionalmente pela designação de PCB e PCT, respectivamente, constituem um grupo de produtos químicos cuja utilização industrial se desenvolveu e diversificou extraordinariamente, devido sobretudo à sua estabilidade química, baixa volatilidade, elevada constante dieléctrica e propriedades plastificantes.\n\nAs investigações desenvolvidas, porém, mostram que os PCB devem ser considerados produtos com características de perigosidade para a saúde pública e para o ambiente.\n\nO Decreto-Lei n.º 221/88, de 28 de Junho, consagrou uma estratégia relativa à eliminação dos PCB e inseriu-se no processo de harmonização da legislação comunitária.\n\nDurante os 10 anos de aplicação do referido diploma, muitos equipamentos contendo PCB foram exportados para eliminação, os conhecimentos técnicos evoluíram e nova directiva sobre este assunto, a n.º <a href=\"eurlex.asp?ano=1996&id=396L0059\" title=\"Link para Directiva da Comunidade Europeia\">96/59/CE</a>, de 16 Setembro, foi aprovada. Assim, torna-se necessário proceder à revisão do Decreto-Lei n.º 221/88, de 28 de Junho, e à transposição para o direito interno do estipulado na referida directiva.\n\nConsiderando que a Portaria n.º 240/92, de 25 de Março, relativa à eliminação dos óleos usados, fixa em 50 ppm o limite máximo de teor de PCB nos óleos usados regenerados ou utilizados como combustível;\n\nEstando a comercialização dos PCB proibida:\n\nImporta proibir a separação dos PCB de outras substâncias para fins da sua reutilização, bem como o enchimento de transformadores com estes produtos, se bem que, por motivos de segurança, a manutenção destes equipamentos possa continuar a ser efectuada com vista a manter a sua qualidade dieléctrica.\n\nA descontaminação ou eliminação dos equipamentos com PCB deverá ser efectuada, logo que seja possível, havendo para tal necessidade de ser definido um prazo para a sua concretização. Por outro lado, no que diz respeito aos aparelhos pouco contaminados com PCB, poderá ser admitida a sua eliminação no fim da sua vida útil, tendo em consideração que representam riscos reduzidos para o ambiente.\n\nTendo em consideração que o número de instalações de eliminação e de descontaminação de PCB é reduzida na Comunidade Europeia e a sua capacidade é limitada, é necessário proceder à marcação dos equipamentos que contêm PCB, manter a sua inventariação actualizada, planificar a eliminação e ou descontaminação dos PCB usados e equipamentos com PCB inventariados, elaborar um projecto de recolha e posterior eliminação dos aparelhos não inventariados.\n\nPor outro lado, as empresas que procedem à eliminação e ou à descontaminação dos PCB devem ser sujeitas a um processo de autorização.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164866093": {
+   "fragment_id": "164798865",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para o direito interno a Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0059\" title=\"Link para Directiva da Comunidade Europeia\">96/59/CE</a>, do Conselho, de 16 de Setembro, e estabelece as regras a que ficam sujeitas a eliminação dos PCB, a descontaminação ou a eliminação de equipamentos que contenham PCB e a eliminação de PCB usados, tendo em vista a destruição total destes."
+  },
+  "164866094": {
+   "fragment_id": "164798866",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeito do presente diploma, entende-se por:\n\na) PCB:\n\nOs policlorobifenilos;\n\nOs policlorotrifenilos;\n\nO monometilotetraclorodifenilmetano;\n\nO monometilodiclorodifenilmetano;\n\nO monometilodibromodifenilmetano;\n\nQualquer mistura com um teor acumulado das substâncias acima referidas superior a 0,005% em peso;\n\nb) Equipamentos que contenham PCB: qualquer equipamento que contenha ou tenha contido PCB (por exemplo, transformadores, condensadores, recipientes que contenham depósitos residuais) e que não tenha sido descontaminado, bem como os equipamentos de qualquer tipo que possam conter PCB, excepto se houver suspeitas fundadas que não contenham PCB;\n\nc) PCB usados: qualquer PCB considerado como resíduo na acepção do Decreto-Lei n.º 239/97, de 9 de Setembro;\n\nd) Detentor: qualquer pessoa singular ou colectiva que possua PCB, PCB usados e ou equipamentos que contenham PCB;\n\ne) Descontaminação: o conjunto das operações que tornam reutilizáveis ou recicláveis os equipamentos, objectos, materiais ou fluidos contaminados por PCB ou que permitem a sua eliminação em condições de segurança, e que podem incluir a sua substituição, ou seja, o conjunto de operações que consistem em substituir os PCB por um fluido adequado que não contenha PCB;\n\nf) Eliminação: as operações D8, D9, D10, D12 (somente em condições de armazenamento subterrâneo seguro e profundo em formação rochosa seca e apenas para equipamentos que contenham PCB ou PCB usados que não possam ser descontaminados) e D15, previstas na Decisão n.º <a href=\"eurlex.asp?ano=1996&id=396D0350\" title=\"Link para Decisão da Comunidade Europeia\">96/350/CE</a>, de 24 de Maio."
+  },
+  "164866095": {
+   "fragment_id": "164798867",
+   "type": 11,
+   "heading": "Artigo 3.º — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições iniciais\n\n1 - Os detentores devem tomar as medidas necessárias para garantir, logo que possível, a eliminação dos PCB usados e a descontaminação ou eliminação dos PCB e dos equipamentos que contenham PCB.\n\n2 - No respeitante aos PCB usados e equipamentos que os contenham, sujeitos a inventariação, nos termos do n.º 1 do artigo 4.º, a sua descontaminação e ou eliminação devem ser efectuadas o mais tardar até ao final de 2010.\n\n3 - Os equipamentos que contenham PCB e não forem inventariados nos termos do n.º 1 do artigo 4.º e que façam parte de qualquer outro equipamento devem ser, sempre que viável, retirados e recolhidos separadamente, logo que o equipamento principal for desactivado, reciclado ou eliminado."
+  },
+  "164866096": {
+   "fragment_id": "164798868",
+   "type": 11,
+   "heading": "Artigo 4.º — Inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Inventário\n\n1 - Todo o detentor de equipamentos que contenham mais de 5 dm3 de PCB (no caso dos condensadores eléctricos o limiar de 5 dm3 incluirá todos os elementos do seu conjunto) deve comunicar ao Instituto de Resíduos e à direcção regional do ambiente respectiva a quantidade que detém, através da informação prevista no anexo I a este diploma, que dele faz parte integrante, no prazo máximo de dois meses após a data da sua entrada em vigor.\n\n2 - Os equipamentos referidos no n.º 1, para os quais seja razoável presumir que os fluidos contêm entre 0,05% e 0,005%, em peso, de PCB, podem ser inventariados sem os elementos referenciados com as notas 5, 6 e 7 do anexo I e serem rotulados como «PCB contaminados < 0,05%».\n\n3 - Qualquer posterior alteração às informações enviadas nos termos dos n.os 1 e 2 deve ser igualmente comunicada, logo após a sua ocorrência.\n\n4 - A fim de dar cumprimento ao disposto no artigo 3.º e com base na informação resultante do cumprimento do estipulado no n.º 1, deve ser elaborado pelo Instituto de Resíduos um inventário nacional dos equipamentos que contenham mais de 5 dm3 de PCB, referenciados nos números anteriores.\n\n5 - O Instituto de Resíduos procederá à actualização regular do inventário e, partindo de resumos destes, deve elaborar relatórios periódicos.\n\n6 - Todas as embalagens contendo PCB e os equipamentos inventariados nos termos do n.º 1 do artigo 4.º devem ostentar uma inscrição de acordo com as indicações constantes no anexo II a este diploma, que dele faz parte integrante, devendo uma inscrição similar ser igualmente afixada nas portas das instalações em que os equipamentos e as embalagens se encontrem."
+  },
+  "164866097": {
+   "fragment_id": "164798869",
+   "type": 11,
+   "heading": "Artigo 5.º — Descontaminação, armazenagem, eliminação e transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Descontaminação, armazenagem, eliminação e transporte\n\n1 - Os PCB usados e os equipamentos que contenham PCB sujeitos a inventário nos termos do n.º 1 do artigo 4.º devem ser entregues logo que possível a uma empresa autorizada de acordo com o estipulado no artigo 8.º\n\n2 - As empresas de eliminação/descontaminação de PCB devem manter um registo com indicação da quantidade, origem, natureza e teor em PCB e PCB usados que lhes sejam entregues e enviar os respectivos dados ao Instituto de Resíduos e à direcção regional do ambiente respectiva.\n\n3 - As empresas devem passar aos detentores que entreguem PCB, PCB usados e equipamentos contendo PCB, um certificado de entrega que especificará a natureza e quantidade de PCB (para efeitos de certificação da entrega poderão ser usadas as guias de acompanhamento de resíduos previstas na Portaria n.º 335/97, de 16 de Maio).\n\n4 - Antes da entrega dos PCB, dos PCB usados e ou dos equipamentos que contenham PCB a uma empresa autorizada devem ser tomadas todas as precauções necessárias para evitar qualquer risco de incêndio, devendo, para esse efeito, os PCB ser mantidos afastados de qualquer produto inflamável.\n\n5 - O detentor destes resíduos pode proceder ao seu armazenamento temporário, à espera de eliminação, por um período de tempo não superior a 18 meses e de acordo com as instruções publicadas no Diário da República por despacho do presidente do Instituto de Resíduos.\n\n6 - Quando for utilizada a incineração para fins de eliminação, é aplicável o Decreto-Lei n.º 273/98, de 2 de Setembro, relativo à incineração de resíduos perigosos, podendo ser autorizados outros métodos de eliminação dos PCB, PBC usados e ou equipamentos que contenham PCB desde que atinjam níveis de segurança ambientalmente equivalentes - por comparação com a incineração - e obedeçam aos requisitos técnicos considerados como sendo a melhor técnica disponível.\n\n7 - O transporte de PCB, de equipamentos que contenham PCB e dos PCB usados conforme definidos no artigo 2.º rege-se pelo Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada (RPE), aprovado pelo Decreto-Lei n.º 77/97, de 5 de Abril, e regulamentado pela Portaria n.º 1196-C/97, de 24 de Novembro."
+  },
+  "164866098": {
+   "fragment_id": "164798870",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de descontaminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de descontaminação\n\n1 - Os transformadores que contenham mais de 0,05% de PCB, em peso, no fluido dieléctrico devem ser descontaminados nas seguintes condições:\n\na) O objectivo da descontaminação é a redução do teor de PCB para menos de 0,05%, em peso, e, se possível, para uma quantidade que não ultrapasse 0,005%, em peso;\n\nb) O fluido de substituição sem PCB deve garantir uma nítida diminuição dos riscos;\n\nc) A substituição do fluido não deve comprometer a eliminação posterior dos PCB;\n\nd) Após a descontaminação, a inscrição ostentada pelo transformador deve ser substituída pela inscrição prevista no anexo III a este diploma, que dele faz parte integrante.\n\n2 - Em derrogação do disposto no artigo 3.º, os transformadores cujos fluidos tenham um teor de PCB, em peso, entre 0,05% e 0,005% devem ser descontaminados, nas condições referidas nas alíneas b) a d) do n.º 1, ou eliminados após o final da sua vida útil."
+  },
+  "164866099": {
+   "fragment_id": "164798871",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Proibições\n\n1 - É proibido:\n\na) A comercialização das substâncias e preparações mencionadas na alínea a) do artigo 2.º, quer isoladas quer contidas em equipamentos;\n\nb) Qualquer tipo de incineração de PCB e ou de PCB usados em navios;\n\nc) Proceder à separação de PCB de outras substâncias com vista à reutilização de PCB;\n\nd) O enchimento dos transformadores com PCB.\n\n2 - Fica excluída da proibição mencionada na alínea a) do número anterior a comercialização de PCB quando a finalidade for exclusivamente uma das seguintes:\n\na) Para eliminação;\n\nb) Para completar níveis em equipamentos já em serviço à data de entrada em vigor do presente diploma, desde que não seja possível, por razões técnicas, o uso de produtos de substituição e nas condições estipuladas no n.º 6.\n\n3 - Até à sua descontaminação, desactivação e ou eliminação, nos termos do presente diploma, a manutenção dos transformadores que contenham PCB apenas pode continuar se tiver como objectivo assegurar que os PCB neles contidos satisfazem as regras ou especificações técnicas relativas à qualidade dieléctrica e desde que os transformadores se encontrem em bom estado e não apresentem fugas."
+  },
+  "164866100": {
+   "fragment_id": "164798872",
+   "type": 11,
+   "heading": "Artigo 8.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licenciamento\n\n1 - Todas as empresas que procedam às operações de descontaminação e ou de eliminação de PCB, PCB usados e ou equipamentos que contenham PCB estão sujeitas à autorização prévia do Instituto de Resíduos, nos termos previstos no Decreto-Lei n.º 239/97, de 9 de Setembro, e na Portaria n.º 961/98, de 10 de Novembro.\n\n2 - A autorização prevista no número anterior não prejudica a sujeição a licenciamento industrial das actividades abrangidas por esse procedimento nos termos da legislação em vigor.\n\n3 - A autorização prevista no n.º 1 compete ao Ministro do Ambiente sempre que a mesma esteja sujeita, nos termos da lei, a processo de avaliação de impacte ambiental."
+  },
+  "164866101": {
+   "fragment_id": "164798873",
+   "type": 11,
+   "heading": "Artigo 9.º — Planos e projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Planos e projectos\n\nO INR, com a colaboração da Direcção-Geral da Energia e das direcções regionais do Ministério da Economia, deve elaborar:\n\na) Um plano nacional de descontaminação e ou de eliminação dos equipamentos inventariados e dos PCB neles contidos;\n\nb) Um projecto de recolha e posterior eliminação dos equipamentos não sujeitos a inventário, nos termos do n.º 1 do artigo 4.º, mas referidos no n.º 3 do artigo 3.º"
+  },
+  "164866102": {
+   "fragment_id": "164798874",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informação\n\n1 - Os relatórios referidos no n.º 5 do artigo 4.º, os registos referidos no n.º 2 do artigo 5.º, bem como o plano e projectos referidos no artigo anterior devem estar acessíveis ao público nos termos previstos na legislação aplicável aos documentos em posse da Administração Pública.\n\n2 - Logo que elaborados, os relatórios previstos no n.º 5 do artigo 4.º, o plano e o projecto referidos no artigo anterior devem ser enviados à Comissão da Comunidade Europeia."
+  },
+  "164866103": {
+   "fragment_id": "164866375",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\n1 - As quantidades de PCB notificadas, nos termos do n.º 1 do artigo 4.º e do n.º 2 do artigo 5.º, devem ser verificadas pelas entidades com competências de fiscalização.\n\n2 - A fiscalização do cumprimento do presente diploma incumbe ao Instituto de Resíduos, à Inspecção-Geral do Ambiente e às direcções regionais do ambiente, bem como às demais entidades competentes."
+  },
+  "164866104": {
+   "fragment_id": "164866376",
+   "type": 11,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de 100000$00 a 3000000$00, no caso de pessoas colectivas e de 50000$00 a 500000$00, no caso de pessoas singulares, a infracção ao disposto nos n.os 1 e 3 do artigo 3.º e nos n.os 1, 2, 3, 4 e 5 do artigo 5.º\n\n2 - Constitui contra-ordenação punível com coima de 500000$00 a 9000000$00, no caso das pessoas colectivas, e 100000$00 a 750000$00, no caso das pessoas singulares, a infracção ao disposto no n.º 2 do artigo 3.º, nos n.os 1, 3 e 6 do artigo 4.º, nos n.os 1 e 2 do artigo 6.º e nos n.os 1 e 3 do artigo 7.º\n\n3 - A tentativa e a negligência são sempre puníveis."
+  },
+  "164866105": {
+   "fragment_id": "164866377",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nÀs contra-ordenações previstas mencionadas no artigo anterior podem, em simultâneo com a coima e nos termos da lei geral, ser aplicadas as seguintes sanções acessórias:\n\na) Privação do direito a subsídios ou benefício outorgado por entidades ou serviços públicos;\n\nb) Privação do direito de participação em concursos públicos que tenham como objecto a empreitada ou a concessão de obras, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças e alvarás;\n\nc) Suspensão de autorizações, licenças e alvarás."
+  },
+  "164866106": {
+   "fragment_id": "164866378",
+   "type": 11,
+   "heading": "Artigo 14.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instrução de processos e aplicação de sanções\n\n1 - Compete às entidades fiscalizadoras do cumprimento do presente diploma instruir os processos relativos às contra-ordenações previstas nos artigos anteriores.\n\n2 - Compete ao dirigente máximo da entidade que tenha instruído o processo de contra-ordenação a aplicação de coimas e sanções acessórias."
+  },
+  "164866107": {
+   "fragment_id": "164866379",
+   "type": 11,
+   "heading": "Artigo 15.º — Produtos das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Produtos das coimas\n\nO produto das coimas previstas no presente diploma é afectado da seguinte forma:\n\na) 60% para o Estado;\n\nb) 20% para o Instituto de Resíduos;\n\nc) 20% para a entidade que processa a contra-ordenação."
+  },
+  "164866108": {
+   "fragment_id": "164866380",
+   "type": 11,
+   "heading": "Artigo 16.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regiões Autónomas\n\nO regime do presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma a introduzir em diploma regional adequado."
+  },
+  "164866109": {
+   "fragment_id": "164866381",
+   "type": 11,
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 221/88, de 28 de Junho."
+  },
+  "164866111": {
+   "fragment_id": "164866383",
+   "type": 14,
+   "heading": "Anexo I — Inventário de PCB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Inventário de PCB\n\n1 - Identificação do detector e data da declaração:\n\nNome...\n\nMorada...\n\nTelefone...\n\nMunicípio...\n\nResponsável a contactar...\n\nData da declaração...\n\n2 - Material em serviço:\n\n(ver tabela no documento original)\n\n3 - Material fora de serviço:\n\n(ver tabela no documento original)"
+  },
+  "164866112": {
+   "fragment_id": "164866384",
+   "type": 14,
+   "heading": "Anexo II — Indicações para a rotulagem dos equipamentos que contêm PCB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Indicações para a rotulagem dos equipamentos que contêm PCB\n\na) Símbolo de perigo - a cruz de Santo André, em cor preta, sobre fundo amarelo-alaranjado, com a inscrição «NOCIVO», de acordo com o estipulado no anexo II do Decreto-Lei n.º 82/95, de 22 de Abril.\n\nb) Frases de risco e conselhos de prudência, consoante o caso:\n\n«Contém policlorobifenilos - PCB»;\n\n«Perigo de efeitos cumulativos»;\n\n«Não se desfazer deste produto ou do recipiente sem tomar as devidas precauções»;\n\n«Em caso de incêndio e ou explosão, não respirar os fumos».\n\nc) Outras indicações:\n\nNome, morada e números de telefone e fax da(s) pessoa(s) a contactar em caso de fugas ou derrames;\n\n«Quando da eliminação, enviar para instalação autorizada para o efeito»."
+  },
+  "164866113": {
+   "fragment_id": "164866385",
+   "type": 14,
+   "heading": "Anexo III — Marcação dos equipamentos descontaminados que tenham contido PCB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Marcação dos equipamentos descontaminados que tenham contido PCB\n\nCada unidade de equipamento descontaminado deve ostentar uma inscrição clara e indelével, cunhada ou gravada, que inclua as seguintes indicações na língua do país em que o equipamento for usado:\n\nEquipamento descontaminado que tenha contido PCB\n\nO fluido que continha PCB foi substituído:\n\nPor... (nome do substituto);\n\nEm... (data);\n\nPor ... (empresa).\n\nConcentração de PCB:\n\nNo fluido anterior...% em peso;\n\nNo novo fluido...% em peso."
+  },
+  "922206622": {
+   "fragment_id": "164798868",
+   "type": 11,
+   "heading": "Artigo 4.º — Inventário",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 4.º — Inventário\n\n1 - Os detentores de equipamentos que contenham mais de 5 dm3 de PCB (no caso dos condensadores eléctricos, o limiar de 5 dm3 incluirá todos os elementos do seu conjunto) devem comunicar à Autoridade Nacional dos Resíduos (ANR) a quantidade que detêm, através da informação prevista no anexo I deste diploma, do qual faz parte integrante.\n\n2 - Os detentores referidos no número anterior estão obrigados a comunicar à ANR, anualmente, até 31 de Janeiro do ano subsequente àquele a que se reporta a informação, o inventário de PCB, através do preenchimento, designadamente por via electrónica, do modelo constante do anexo I do presente decreto-lei, o qual se encontra disponível no portal da ANR.\n\n3 - Os equipamentos referidos no n.º 1 para os quais tenha sido determinado, pelos respectivos detentores, que os fluidos contêm entre 0,05% e 0,005% em peso de PCB, devem ser rotulados como 'PCB contaminados (menor que) 0,05%'.\n\n4 - Qualquer alteração às informações enviadas nos termos dos n.os 1 e 2 do presente artigo deve ser comunicada à ANR no prazo máximo de 20 dias úteis a contar da data da referida alteração.\n\n5 - A fim de dar cumprimento ao disposto no artigo 3.º e com base na informação resultante do cumprimento do estipulado no n.º 1, deve ser elaborado pela ANR um inventário nacional dos equipamentos que contenham mais de 5 dm3 de PCB, referenciados nos números anteriores.\n\n6 - A ANR procede à actualização regular do inventário com base no qual elabora relatórios periódicos.\n\n7 - Todas as embalagens contendo PCB e os equipamentos inventariados nos termos do n.º 1 do artigo 4.º devem ostentar uma inscrição de acordo com as indicações constantes no anexo II a este diploma, que dele faz parte integrante, devendo uma inscrição similar ser igualmente afixada nas portas das instalações em que os equipamentos e as embalagens se encontrem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206603": {
+   "fragment_id": "922206129",
+   "type": 14,
+   "heading": "Anexo 4.º-A — Obrigações específicas dos detentores de PCB e equipamentos que os contenham",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "## Anexo 4.º-A — Obrigações específicas dos detentores de PCB e equipamentos que os contenham\n\n1 - Sem prejuízo do disposto no n.º 2 do artigo 3.º, os detentores de PCB e equipamentos que os contenham, inventariados ou a inventariar nos termos do artigo 4.º, estão obrigados a descontaminá-los ou eliminá-los de acordo com a calendarização e demais condições constantes do anexo IV do presente decreto-lei, que dele faz parte integrante.\n\n2 - Sem prejuízo do disposto no número anterior, os detentores de equipamentos com PCB devem dar prioridade à eliminação ou descontaminação daqueles cujas condições os tornem especialmente perigosos, tais como o seu elevado conteúdo em PCB ou a sua localização, ou qualquer outra circunstância que implique maior risco para as pessoas ou para o ambiente.\n\n3 - Os detentores de aparelhos potencialmente contaminados com PCB estão obrigados a submetê-los a análises químicas de acordo com o disposto no n.º 3 do anexo IV do presente decreto-lei.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206623": {
+   "fragment_id": "164798869",
+   "type": 11,
+   "heading": "Artigo 5.º — Descontaminação, armazenagem, eliminação e transporte",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-D/99 - Diário da República n.º 203/1999, 2º Suplemento, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-d-1999-141846), produz efeitos a partir de 1999-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Descontaminação, armazenagem, eliminação e transporte\n\n1 - Os PCB usados e os equipamentos que contenham PCB sujeitos a inventário nos termos do n.º 1 do artigo 4.º devem ser entregues logo que possível a uma empresa autorizada de acordo com o estipulado no artigo 8.º\n\n2 - As empresas de eliminação/descontaminação de PCB devem manter um registo com indicação da quantidade, origem, natureza e teor em PCB e PCB usados que lhes sejam entregues e enviar os respectivos dados à ANR.\n\n3 - As empresas devem passar aos detentores que entreguem PCB, PCB usados e equipamentos contendo PCB, um certificado de entrega que especificará a natureza e quantidade de PCB (para efeitos de certificação da entrega poderão ser usadas as guias de acompanhamento de resíduos previstas na Portaria n.º 335/97, de 16 de Maio).\n\n4 - Antes da entrega dos PCB, dos PCB usados e ou dos equipamentos que contenham PCB a uma empresa autorizada devem ser tomadas todas as precauções necessárias para evitar qualquer risco de incêndio, devendo, para esse efeito, os PCB ser mantidos afastados de qualquer produto inflamável.\n\n5 - O detentor destes resíduos pode proceder ao seu armazenamento temporário antes da eliminação por um período de tempo não superior a 18 meses e de acordo com as instruções aprovadas por despacho do presidente da ANR, publicado no Diário da República.\n\n6 - Quando for utilizada a incineração para fins de eliminação, é aplicável o Decreto-Lei n.º 85/2005, de 28 de Abril, podendo ser autorizados outros métodos de eliminação dos PCB, PCB usados e ou equipamentos que contenham PCB, desde que atinjam níveis de segurança ambientalmente equivalentes, por comparação com a incineração, e obedeçam aos requisitos técnicos considerados como sendo a melhor técnica disponível.\n\n7 - O transporte de PCB, de equipamentos que contenham PCB e dos PCB usados conforme definido no artigo 2.º rege-se pelo Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada (RPE).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-D/99 - Diário da República n.º 203/1999, 2º Suplemento, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-d-1999-141846), produz efeitos a partir de 1999-07-28"
+  },
+  "922206605": {
+   "fragment_id": "164798870",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de descontaminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de descontaminação\n\n1 - Os transformadores que contenham mais de 0,05% de PCB, em peso, no fluido dieléctrico devem ser descontaminados nas seguintes condições:\n\na) O objectivo da descontaminação é a redução do teor de PCB para menos de 0,05%, em peso, e, se possível, para uma quantidade que não ultrapasse 0,005%, em peso;\n\nb) O fluido de substituição sem PCB deve garantir uma nítida diminuição dos riscos;\n\nc) A substituição do fluido não deve comprometer a eliminação posterior dos PCB;\n\nd) Após a descontaminação, a inscrição ostentada pelo transformador deve ser substituída pela inscrição prevista no anexo III a este diploma, que dele faz parte integrante.\n\n2 - Em derrogação do disposto no artigo 3.º, os transformadores cujos fluidos tenham um teor de PCB, em peso, entre 0,05% e 0,005% devem ser descontaminados, nas condições referidas nas alíneas b) a d) do n.º 1, ou eliminados após o final da sua vida útil."
+  },
+  "922206606": {
+   "fragment_id": "164798871",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibições",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-D/99 - Diário da República n.º 203/1999, 2º Suplemento, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-d-1999-141846), produz efeitos a partir de 1999-07-28"
+   ],
+   "markdown": "###### Artigo 7.º — Proibições\n\n1 - É proibido:\n\na) A comercialização das substâncias e preparações mencionadas na alínea a) do artigo 2.º, quer isoladas quer contidas em equipamentos;\n\nb) Qualquer tipo de incineração de PCB e ou de PCB usados em navios;\n\nc) Proceder à separação de PCB de outras substâncias com vista à reutilização de PCB;\n\nd) O enchimento dos transformadores com PCB.\n\n2 - Fica excluída da proibição mencionada na alínea a) do número anterior a comercialização de PCB quando a finalidade for exclusivamente uma das seguintes:\n\na) Para eliminação;\n\nb) Para completar níveis em equipamentos já em serviço à data de entrada em vigor do presente diploma, desde que não seja possível, por razões técnicas, o uso de produtos de substituição e nas condições estipuladas no n.º 3.\n\n3 - Até à sua descontaminação, desactivação e ou eliminação, nos termos do presente diploma, a manutenção dos transformadores que contenham PCB apenas pode continuar se tiver como objectivo assegurar que os PCB neles contidos satisfazem as regras ou especificações técnicas relativas à qualidade dieléctrica e desde que os transformadores se encontrem em bom estado e não apresentem fugas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-D/99 - Diário da República n.º 203/1999, 2º Suplemento, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-d-1999-141846), produz efeitos a partir de 1999-07-28"
+  },
+  "922206624": {
+   "fragment_id": "164798872",
+   "type": 11,
+   "heading": "Artigo 8.º — Licenciamento",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 8.º — Licenciamento\n\n1 - As empresas que procedam às operações de descontaminação e ou de eliminação de PCB, PCB usados e ou equipamentos que contenham PCB estão sujeitas a licenciamento pela ANR, nos termos do Decreto-Lei n.º 178/2006, de 5 de Setembro.\n\n2 - A autorização prevista no número anterior não prejudica a sujeição a licenciamento industrial das actividades abrangidas por esse procedimento nos termos da legislação em vigor.\n\n3 - A autorização prevista no n.º 1 compete ao Ministro do Ambiente sempre que a mesma esteja sujeita, nos termos da lei, a processo de avaliação de impacte ambiental.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206625": {
+   "fragment_id": "164798873",
+   "type": 11,
+   "heading": "Artigo 9.º — Planos e projectos",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 9.º — Planos e projectos\n\nA ANR, com a colaboração da Direcção-Geral de Geologia e Energia e das direcções regionais do Ministério da Economia e da Inovação, deve elaborar:\n\na) Um plano nacional de descontaminação e ou de eliminação dos equipamentos inventariados e dos PCB neles contidos;\n\nb) Um projecto de recolha e posterior eliminação dos equipamentos não sujeitos a inventário, nos termos do n.º 1 do artigo 4.º, mas referidos no n.º 3 do artigo 3.º.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206609": {
+   "fragment_id": "164798874",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informação\n\n1 - Os relatórios referidos no n.º 5 do artigo 4.º, os registos referidos no n.º 2 do artigo 5.º, bem como o plano e projectos referidos no artigo anterior devem estar acessíveis ao público nos termos previstos na legislação aplicável aos documentos em posse da Administração Pública.\n\n2 - Logo que elaborados, os relatórios previstos no n.º 5 do artigo 4.º, o plano e o projecto referidos no artigo anterior devem ser enviados à Comissão da Comunidade Europeia."
+  },
+  "922206626": {
+   "fragment_id": "164866375",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\n1 - As quantidades de PCB notificadas, nos termos do n.º 1 do artigo 4.º e do n.º 2 do artigo 5.º, devem ser verificadas pelas entidades com competências de fiscalização.\n\n2 - A fiscalização do cumprimento do presente decreto-lei incumbe à ANR, à Inspecção-Geral do Ambiente e do Ordenamento do Território e às autoridades regionais dos resíduos, bem como às demais entidades competentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206627": {
+   "fragment_id": "164866376",
+   "type": 11,
+   "heading": "Artigo 12.º — Classificação das contra-ordenações",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 12.º — Classificação das contra-ordenações\n\n1 - Constitui contra-ordenação ambiental leve:\n\na) O incumprimento pelo detentor da obrigação prevista no n.º 3 do artigo 3.º;\n\nb) O incumprimento pelo detentor da obrigação de comunicar a informação a que se referem os n.os 1, 2 e 4 do artigo 4.º;\n\nc) O incumprimento pelo detentor da obrigação de rotular os equipamentos nos termos previstos no n.º 3 do artigo 4.º;\n\nd) A falta da inscrição a que se refere o n.º 7 do artigo 4.º;\n\ne) O incumprimento pelas empresas a quem cabe essa responsabilidade das obrigações estabelecidas nos n.os 2 e 3 do artigo 5.º\n\n2 - Constitui contra-ordenação ambiental grave:\n\na) O incumprimento da obrigação de submeter os equipamentos potencialmente contaminados com PCB a análises químicas, prevista no n.º 3 do artigo 4.º-A;\n\nb) A violação do disposto nos n.os 1, 4, 5 e 7 do artigo 5.º;\n\nc) O exercício não autorizado das operações a que se refere o artigo 8.º\n\n3 - Constitui contra-ordenação ambiental muito grave:\n\na) O incumprimento das obrigações de descontaminação e eliminação previstas no artigo 4.º-A;\n\nb) A inobservância das condições de descontaminação previstas nos n.os 1 e 2 do artigo 6.º;\n\nc) A violação das proibições estabelecidas nos n.os 1 e 3 do artigo 7.º\n\n4 - A tentativa e a negligência são sempre puníveis.\n\n5 - A condenação pela prática das infracções graves e muito graves previstas respectivamente nos n.os 2 e 3 do presente artigo pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima em abstracto aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206628": {
+   "fragment_id": "164866377",
+   "type": 11,
+   "heading": "Artigo 13.º — Apreensão cautelar e sanções acessórias",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 13.º — Apreensão cautelar e sanções acessórias\n\n1 - As entidades a que se refere o artigo 11.º do presente decreto-lei podem proceder a apreensões cautelares, nos termos do disposto no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.\n\n2 - A entidade competente para aplicar a coima tem igualmente competência para a aplicação das sanções acessórias que se mostrem adequadas, nos termos do disposto na Lei n.º 50/2006, de 29 de Agosto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206613": {
+   "fragment_id": "164866378",
+   "type": 11,
+   "heading": "Artigo 14.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instrução de processos e aplicação de sanções\n\n1 - Compete às entidades fiscalizadoras do cumprimento do presente diploma instruir os processos relativos às contra-ordenações previstas nos artigos anteriores.\n\n2 - Compete ao dirigente máximo da entidade que tenha instruído o processo de contra-ordenação a aplicação de coimas e sanções acessórias."
+  },
+  "922206630": {
+   "fragment_id": "164866379",
+   "type": 11,
+   "heading": "Artigo 15.º — Produtos das coimas",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 15.º — Produtos das coimas\n\nO produto das coimas previstas no presente diploma é afectado da seguinte forma:\n\na) 60% para o Estado;\n\nb) 20% para o Instituto de Resíduos;\n\nc) 20% para a entidade que processa a contra-ordenação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206615": {
+   "fragment_id": "164866380",
+   "type": 11,
+   "heading": "Artigo 16.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regiões Autónomas\n\nO regime do presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma a introduzir em diploma regional adequado."
+  },
+  "922206616": {
+   "fragment_id": "164866381",
+   "type": 11,
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 221/88, de 28 de Junho."
+  },
+  "922206617": {
+   "fragment_id": "164866382",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 8 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "922206629": {
+   "fragment_id": "164866383",
+   "type": 14,
+   "heading": "Anexo I — Inventário de PCB",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "## Anexo I — Inventário de PCB\n\n(ler atentamente as instruções de preenchimento)\n\n1 - Identificação do detentor e data da declaração:\n\nNome: ...\n\nMorada: ...\n\nTelefone: ...; fax: ...\n\nE-mail: ...\n\nCAE: ...; NIPC: ...\n\nMunicípio:. ...\n\nResponsável a contactar: ...\n\nData da declaração: ...\n\n2 - Material em serviço:\n\n(ver documento original)\n\n3 - Material fora de serviço:\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  },
+  "922206619": {
+   "fragment_id": "164866384",
+   "type": 14,
+   "heading": "Anexo II — Indicações para a rotulagem dos equipamentos que contêm PCB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Indicações para a rotulagem dos equipamentos que contêm PCB\n\na) Símbolo de perigo - a cruz de Santo André, em cor preta, sobre fundo amarelo-alaranjado, com a inscrição «NOCIVO», de acordo com o estipulado no anexo II do Decreto-Lei n.º 82/95, de 22 de Abril.\n\nb) Frases de risco e conselhos de prudência, consoante o caso:\n\n«Contém policlorobifenilos - PCB»;\n\n«Perigo de efeitos cumulativos»;\n\n«Não se desfazer deste produto ou do recipiente sem tomar as devidas precauções»;\n\n«Em caso de incêndio e ou explosão, não respirar os fumos».\n\nc) Outras indicações:\n\nNome, morada e números de telefone e fax da(s) pessoa(s) a contactar em caso de fugas ou derrames;\n\n«Quando da eliminação, enviar para instalação autorizada para o efeito»."
+  },
+  "922206620": {
+   "fragment_id": "164866385",
+   "type": 14,
+   "heading": "Anexo III — Marcação dos equipamentos descontaminados que tenham contido PCB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Marcação dos equipamentos descontaminados que tenham contido PCB\n\nCada unidade de equipamento descontaminado deve ostentar uma inscrição clara e indelével, cunhada ou gravada, que inclua as seguintes indicações na língua do país em que o equipamento for usado:\n\nEquipamento descontaminado que tenha contido PCB\n\nO fluido que continha PCB foi substituído:\n\nPor... (nome do substituto);\n\nEm... (data);\n\nPor ... (empresa).\n\nConcentração de PCB:\n\nNo fluido anterior...% em peso;\n\nNo novo fluido...% em peso."
+  },
+  "922206621": {
+   "fragment_id": "922206130",
+   "type": 14,
+   "heading": "Anexo IV — Calendarização prevista no n.º 1 do artigo 4.º-A",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "## Anexo IV — Calendarização prevista no n.º 1 do artigo 4.º-A\n\n1 - Equipamentos fabricados com fluido de PCB:\n\nData de fabrico desconhecida - antes de 1 de Julho de 2007;\n\nData de fabrico anterior a 1965 - antes de 1 de Julho de 2007;\n\nData de fabrico entre 1965 e 1969, ambos inclusive - antes de 1 de Abril de 2008;\n\nData de fabrico entre 1970 e 1974, ambos inclusive - antes de 1 de Janeiro de 2009;\n\nData de fabrico entre 1975 e 1980, ambos inclusive - antes de 1 de Janeiro de 2010;\n\nData de fabrico posterior a 1980 - antes de 31 de Dezembro de 2010.\n\na) Se um equipamento fabricado com fluido de PCB, que não tenha sido inventariado nos termos do artigo 4.º, for identificado numa data posterior à que lhe corresponde para a sua eliminação ou descontaminação, o seu detentor deverá no prazo de 30 dias informar a Autoridade Nacional dos Resíduos sobre esse facto, expondo as razões que deram origem ao facto desse equipamento não ter sido inventariado.\n\nb) Nas circunstâncias previstas na alínea a), o equipamento deverá, no prazo de 60 dias, ser entregue a gestor autorizado para a sua eliminação, devendo ser dada esta indicação no inventário referente ao ano da sua identificação.\n\n2 - Equipamentos contaminados com PCB. - Deverá ser garantida, por parte dos detentores de equipamentos contaminados com PCB, a eliminação ou descontaminação dos mesmos nos anos e percentagens mínimas seguintes, relativas à quantidade total em peso (equipamento mais fluido contaminado com PCB):\n\n2007 - 25%;\n\n2008 - 33%;\n\n2009 - 50%;\n\n2010 - 100%.\n\na) Nos casos em que, no decorrer dos próximos anos, forem identificados equipamentos contaminados com PCB que não estejam identificados nos respectivos inventários, as quantidades desses equipamentos serão somadas às quantidades a descontaminar ou eliminar nesse mesmo ano, determinadas de acordo com as percentagens anteriormente referidas, devendo ser feita referência a esse facto no inventário correspondente a esse ano e devidamente justificada, junto do Autoridade Nacional dos Resíduos, a situação que deu origem à não inventariação dos equipamentos contaminados com PCB.\n\nb) Caso sejam identificados, no decorrer do ano 2010, equipamentos contaminados com PCB que não tenham sido inventariados, deverá ser garantida a sua descontaminação ou eliminação nesse mesmo ano.\n\nc) Os detentores de um número de equipamentos contaminados com PCB inferior a quatro, poderão descontaminar ou eliminar um por ano, desde que o último seja eliminado antes do final de 2010.\n\n3 - As análises químicas para verificação da existência e concentração de PCB no fluido dos aparelhos potencialmente contaminados devem ser efectuadas respeitando o plano seguinte, no que se refere às percentagens mínimas da quantidade total em peso (equipamento mais fluido) a analisar:\n\nAno de 2007 - 40%;\n\nAno de 2008 - 75%;\n\nAno de 2009 - 100%.\n\na) Os detentores de um número de aparelhos potencialmente contaminados com PCB inferior a três podem proceder à análise de um por ano, desde que o último seja analisado antes do final de 2009.\n\nb) Caso as análises aos equipamentos revelem uma concentração em PCB superior a 0,005% em peso, deverão os mesmos ser declarados como equipamentos contaminados com PCB e, se o conteúdo de PCB for superior a 5 dm3, incluídos no inventário do ano em que foram realizadas as referidas análises.\n\nc) Os equipamentos potencialmente contaminados com PCB identificados em 2009 que devido a causas de força maior, devidamente justificadas, não tenham sido analisados durante esse ano poderão ser analisados até 1 de Abril de 2010, devendo, em caso de concentração superior a 0,005% em peso e se o conteúdo de PCB for superior a 5 dm3, ser actualizado de imediato o inventário previsto no artigo 4.º\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2007-520260), em vigor a partir de 2007-04-01"
+  }
+ }
+}

@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:693410:por
+title: Portaria n.º 19992
+short_title: null
+summary: Aprova os processos analíticos a adoptar na verificação da presença de óleo de bagaço no azeite
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Indústria - Inspecção-Geral dos Produtos Agrícolas e Industriais
+proposing_entity: null
+official_number: '19992'
+official_date: null
+publication_date: '1963-08-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 183/1963, Série I de 1963-08-05
+  number: '183'
+  series: I
+  supplement: null
+  pages: 1064 - 1064
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/08/18300/10641064.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '693410'
+  dre_path: /dr/detalhe/portaria/19992-1963-693410
+  internal: pt:dre:693410:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19992-1963-693410
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19992-1963-693410
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:32:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3e50e6145ac9d2a5f9236634510c38c0f9ce834337e3c57c5812448cbfcbe590
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Azeite
+- Controlo de Qualidade
+- Indústria Agro-alimentar
+- Produto Alimentar
+relationships:
+- type: cites
+  target: pt:dre:193651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591538:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:32:21Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19992
+
+Tendo em atenção o disposto no n.º 7.º do Regulamento da Comissão Técnica dos Métodos Químico-Analíticos, aprovado pela [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950, de harmonia com o preceituado no [Decreto-Lei n.º 37630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37630-1949-268002), de 24 de Novembro de 1949, e sob proposta da mesma Comissão, foi determinado, pela [Portaria n.º 19707](https://diariodarepublica.pt/dr/detalhe/portaria/19707-1963-193651), de 15 de Fevereiro de 1963, que se considerassem desde já sem características legais os azeites que revelem resultados positivos quer no ensaio de Bellier-Carocci-Buzi, quer no ensaio de Vizern-Espejo, enquanto não for concluído o estudo moroso a que a citada Comissão procede, a fim de ser detectada, com segurança, a presença de óleo de bagaço no azeite.
+
+Porque tais estudos ainda não se encontram concluídos, torna-se imperioso e urgente unificar, em todos os laboratórios, os processos a seguir nos referidos ensaios.
+
+Assim, tendo em atenção a parte final do n.º 7.º da [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950, ouvida a subcomissão a que o assunto está directamente ligado:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, que sejam adoptados os seguintes processos analíticos:
+
+Ensaio de Bellier-Carocci-Buzi
+
+Preparação da amostra:
+
+Procede-se como se encontra determinado pelos n.os 4, 5 e 6 dos métodos gerais da [Portaria n.º 10134](https://diariodarepublica.pt/dr/detalhe/portaria/10134-1942-316320), de 9 de Julho de 1942 (métodos oficiais para análise das gorduras alimentares), para homogeneização, eliminação de água, se for necessária, e filtração.
+
+Reagentes:
+
+I) Dissolvem-se 8,5 g de hidróxido de potássio em 14,4 ml de água destilada e completa-se o volume de 100 ml com álcool etílico a 95 por cento em volume, a 20ºC.
+
+II) Dilui-se a 1 + 2 ácido acético glacial em água destilada e acerta-se de modo que 1,5 ml neutralizem, à fenolftaleína, 5 ml do reagente I).
+
+Processo:
+
+Medem-se por pipetas e introduzem-se em frasco de Erleinmeyer de 100 ml 1 ml de gordura e 5 ml do reagente I). Adapta-se ao frasco um tubo de refluxo e, agitando de vez em quando, leva-se à ebulição sobre banho-maria, até saponificação completa, que se obtém em menos de 20 minutos.
+
+Deixa-se arrefecer até à temperatura do ambiente e adiciona-se 1,5 ml do reagente II), medidos por pipeta, e depois 4 a 5 gotas de ácido acético glacial.
+
+Aquecem-se à parte, até 45ºC, 50 ml de álcool etílico a 70 por cento em volume a 20ºC e adicionam-se à mistura. Introduz-se um termómetro, aquece-se até 45ºC e deixa-se arrefecer, agitando moderadamente. Durante o arrefecimento observa-se o líquido. Se este estiver límpido a 40ºC e assim permanecer até 15,5ºC, o resultado do ensaio é negativo.
+
+Se o líquido estiver turvo logo de início ou turvar a temperatura superior a 40ºC, há suspeita de resultado positivo.
+
+Se o líquido turvar no decurso do arrefecimento até 15,5ºC, toma-se nota da temperatura a que tem início essa turvação.
+
+Deixa-se em repouso durante três horas à temperatura do ambiente, não inferior a 18ºC.
+
+Se existe, ou está formando, um precipitado em suspensão, leve, com aspecto de pequenas nuvens, há suspeita de resultado positivo; mas se o precipitado for de aspecto cristalino e tende a depositar, há, porém, a suspeita da presença de ácidos araquídio e lignocérico, devido a adição de óleo de amendoim, da qual já pode haver conhecimento pela determinação prévia do índice de Bellier.
+
+Mantém-se em repouso, pelo menos 24 horas, à temperatura ambiente não inferior a 18ºC, e observa-se novamente o aspecto do líquido.
+
+Se há precipitado leve, mas volumoso, aparentemente não cristalino, de aspecto semelhante a pequenas nuvens, não depositado no fundo do frasco, mas em suspensão no líquido, o resultado do ensaio é positivo. Um precipitado de aspecto cristalino que se encontre depositado no fundo do frasco apenas indica a presença de ácidos araquídico e lignocérico.
+
+Ensaio de Vizern-Espejo
+
+Processo:
+
+Dissolve-se, aquecendo ligeiramente, em 10 ml de álcool etílico a 95 por cento em volume, a 20ºC, o insaponificável da gordura determinado pelo método de Hönig e Spitz modificado (Wizöff), conforme o n.º 24 dos métodos gerais, dos métodos oficiais para análise das gorduras alimentares e segundo o texto da [Portaria n.º 13698](https://diariodarepublica.pt/dr/detalhe/portaria/13698-1951-591538), de 10 de Outubro de 1951.
+
+Transfere-se para copo de 250 ml, lavando com mais 10 ml de álcool etílico a 95 por cento em volume, a 20ºC.
+
+Adicionam-se 5 ml de água oxigenada a 10 por cento (34,2 volumes), ou aproximadamente a 30 volumes, e evapora-se à secura em banho-maria.
+
+Dissolve-se, aquecendo ligeiramente, em 20 ml de álcool etílico a 95 por cento em volume, a 20ºC, adicionam-se 5 ml de água oxigenada a 10 por cento, ou aproximadamente a 30 volumes, e evapora-se à secura como anteriormente.
+
+Retira-se do banho-maria e dissolve-se por completo em 20 ml de álcool etílico a 85 por cento em volume, a 20ºC, aquecendo de modo que não haja perda de etanol, a fim de não diminuir a concentração.
+
+Filtra-se imediatamente por filtro de papel de 7 cm a 9 cm de diâmetro e de porosidade média (papel Whatman n.º 41 ou n.º 541), recolhendo o filtrado em tubo de ensaio e arrefece-se.
+
+Decorrida uma hora, observa-se o líquido. Se estiver perfeitamente límpido, o resultado do ensaio é negativo. Se, porém, não estiver límpido, observa-se de novo depois de decorridas mais três horas.
+
+Se o líquido apresentar precipitado em suspensão e reunido em flocos, o resultado do ensaio é positivo. Porém, se o precipitado não se apresentar flucunoso, o resultado do ensaio é negativo.
+
+Secretaria de Estado da Indústria, 5 de Agosto de 1963. - Pelo Secretário de Estado da Indústria, José Luís Esteves da Fonseca, Subsecretário de Estado da Indústria.

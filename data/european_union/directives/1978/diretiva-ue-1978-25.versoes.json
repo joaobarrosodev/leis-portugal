@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31978L0025:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01978L0025-20090520",
+ "dre_path": null,
+ "source_lastmod": "2009-05-20",
+ "versions": [
+  {
+   "date": "2009-05-20",
+   "future": false,
+   "celex": "01978L0025-20090520",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b6d1ad8e4597a3de"
+   ]
+  }
+ ],
+ "fragments": {
+  "b6d1ad8e4597a3de": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1978L0025 — PT — 20.05.2009 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31978L0025) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31978L0025) [de 12 de Dezembro de 1977](http://publications.europa.eu/resource/celex/31978L0025) [relativa à aproximação das legislações dos Estados-membros respeitantes às matérias que podem ser adicionadas aos medicamentos tendo em vista a sua coloração](http://publications.europa.eu/resource/celex/31978L0025) [(78/25/CEE)](http://publications.europa.eu/resource/celex/31978L0025) (JO L 011, 14.1.1978, p.18)\n\n**revogado por:**\n\n- [Directiva 2009/35/CE do Parlamento Europeu e do Conselho de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0035) — L 109 — 10 — 30.4.2009"
+  }
+ }
+}

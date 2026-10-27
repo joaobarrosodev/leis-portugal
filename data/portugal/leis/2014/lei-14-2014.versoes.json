@@ -1,0 +1,1194 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571931:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2014-223038981",
+ "dre_path": "/dr/detalhe/lei/14-2014-571931",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-03-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "222694970",
+    "222694971",
+    "222694972",
+    "222694973",
+    "222694974",
+    "223031675",
+    "223031676",
+    "223031677",
+    "223031678",
+    "223031679",
+    "223031680",
+    "223031681",
+    "223031682",
+    "223031683",
+    "223031684",
+    "223031685",
+    "223031686",
+    "223031687",
+    "223031688",
+    "223031689",
+    "223031690",
+    "223031691",
+    "223031692",
+    "223031693",
+    "223031694",
+    "223031695",
+    "223031696",
+    "223031697",
+    "223031698",
+    "223031699",
+    "223031700",
+    "223031701",
+    "223031702",
+    "223031703",
+    "223031704",
+    "223031705",
+    "223031706",
+    "223031707",
+    "223031708",
+    "223031709",
+    "223031710",
+    "223031711",
+    "223031712",
+    "223031713",
+    "223031714",
+    "223031715",
+    "223031716",
+    "223031717",
+    "223031718",
+    "223031719",
+    "223031720",
+    "223031721",
+    "223031722",
+    "223031723",
+    "223031724",
+    "223031725",
+    "223031726",
+    "223031727",
+    "223031728",
+    "223031729",
+    "223031730",
+    "223031731",
+    "223031732",
+    "223031733",
+    "223031734",
+    "223031735",
+    "223031736",
+    "223031737",
+    "223031738",
+    "223031739",
+    "223031740",
+    "223031741",
+    "223031742",
+    "223031743",
+    "223031744",
+    "223031745",
+    "223031746",
+    "223031747",
+    "223031748",
+    "223031749",
+    "223031750",
+    "223031751",
+    "223031752",
+    "223031753",
+    "223031754",
+    "223031755",
+    "223031756",
+    "223031757",
+    "223031758",
+    "223031759",
+    "223031760",
+    "223031761",
+    "223031762",
+    "223031763",
+    "223031764",
+    "223031765",
+    "223031766"
+   ]
+  },
+  {
+   "date": "2023-10-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222695020:por",
+     "title": "Decreto-Lei n.º 92/2023",
+     "published": "2023-10-12",
+     "dre_path": "/dr/detalhe/decreto-lei/92-2023-222695020"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 57.º"
+   ],
+   "fragments": [
+    "222694970",
+    "222694971",
+    "222694972",
+    "222694973",
+    "222694974",
+    "223031675",
+    "223031676",
+    "223031677",
+    "223031678",
+    "223031679",
+    "223031680",
+    "223031681",
+    "223031682",
+    "223031683",
+    "223031684",
+    "223031685",
+    "223031686",
+    "223031687",
+    "223031688",
+    "223031689",
+    "223031690",
+    "223031691",
+    "223031692",
+    "223031693",
+    "223031694",
+    "223031695",
+    "223031696",
+    "223031697",
+    "223031698",
+    "223031699",
+    "223031700",
+    "223031701",
+    "223031702",
+    "223031703",
+    "223031704",
+    "223031705",
+    "223031706",
+    "223031707",
+    "223031708",
+    "223031709",
+    "223031710",
+    "223031711",
+    "223031712",
+    "223031713",
+    "223031714",
+    "223031715",
+    "223031716",
+    "223031717",
+    "223031718",
+    "223031719",
+    "223031720",
+    "223031721",
+    "223031722",
+    "223031723",
+    "223031724",
+    "223031725",
+    "223031726",
+    "223031727",
+    "223031728",
+    "223031729",
+    "223031730",
+    "223031731",
+    "223031732",
+    "223031733",
+    "223031734",
+    "223031735",
+    "223031736",
+    "223031737",
+    "223031738",
+    "223031739",
+    "223031740",
+    "223031741",
+    "223031742",
+    "223031743",
+    "223031768",
+    "223031745",
+    "223031746",
+    "223031747",
+    "223031748",
+    "223031749",
+    "223031750",
+    "223031751",
+    "223031752",
+    "223031753",
+    "223031754",
+    "223031755",
+    "223031756",
+    "223031757",
+    "223031758",
+    "223031759",
+    "223031760",
+    "223031761",
+    "223031762",
+    "223031763",
+    "223031764",
+    "223031765",
+    "223031766",
+    "223031767"
+   ]
+  },
+  {
+   "date": "2026-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1129514952:por",
+     "title": "Decreto-Lei n.º 112/2026",
+     "published": "2026-06-05",
+     "dre_path": "/dr/detalhe/decreto-lei/112-2026-1129514952"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "222694970",
+    "222694971",
+    "222694972",
+    "222694973",
+    "222694974",
+    "223031675",
+    "223031676",
+    "1130025775",
+    "1130025975",
+    "1130026175",
+    "223031680",
+    "223031681",
+    "223031682",
+    "223031683",
+    "223031684",
+    "223031685",
+    "223031686",
+    "223031687",
+    "223031688",
+    "223031689",
+    "223031690",
+    "1130026375",
+    "223031692",
+    "223031693",
+    "223031694",
+    "223031695",
+    "223031696",
+    "223031697",
+    "223031698",
+    "223031699",
+    "223031700",
+    "223031701",
+    "223031702",
+    "223031703",
+    "223031704",
+    "223031705",
+    "1130026575",
+    "223031707",
+    "223031708",
+    "223031709",
+    "223031710",
+    "223031711",
+    "223031712",
+    "223031713",
+    "223031714",
+    "223031715",
+    "223031716",
+    "223031717",
+    "223031718",
+    "223031719",
+    "223031720",
+    "223031721",
+    "223031722",
+    "223031723",
+    "223031724",
+    "223031725",
+    "223031726",
+    "223031727",
+    "223031728",
+    "223031729",
+    "223031730",
+    "223031731",
+    "223031732",
+    "223031733",
+    "223031734",
+    "223031735",
+    "223031736",
+    "223031737",
+    "223031738",
+    "223031739",
+    "223031740",
+    "223031741",
+    "223031742",
+    "223031743",
+    "223031768",
+    "223031745",
+    "223031746",
+    "223031747",
+    "223031748",
+    "223031749",
+    "223031750",
+    "223031751",
+    "223031752",
+    "223031753",
+    "223031754",
+    "223031755",
+    "223031756",
+    "223031757",
+    "223031758",
+    "223031759",
+    "223031760",
+    "223031761",
+    "223031762",
+    "223031763",
+    "223031764",
+    "223031765",
+    "223031766",
+    "223031767"
+   ]
+  }
+ ],
+ "fragments": {
+  "222694970": {
+   "fragment_id": "223038982",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 14/2014\n\nde 18 de março\n\nAprova o regime jurídico do ensino da condução, regulando o acesso e o exercício da atividade de exploração de escolas de condução e das profissões de instrutor de condução e de diretor de escola de condução e a certificação das respetivas entidades formadoras.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "222694971": {
+   "fragment_id": "223038983",
+   "type": 1,
+   "heading": "Capítulo I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições preliminares"
+  },
+  "222694972": {
+   "fragment_id": "223038984",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei aprova o regime jurídico do ensino da condução, regulando o acesso e o exercício da atividade de exploração de escolas de condução e das profissões de instrutor de condução e de diretor de escola de condução e a certificação das respetivas entidades formadoras.\n\n2 - A presente lei procede ainda à adaptação do regime jurídico referido no número anterior aos seguintes diplomas:\n\na) Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva n.º <a href=\"eurlex.asp?ano=2005&id=305L0036\" title=\"Link para Directiva da Comunidade Europeia\">2005/36/CE</a>, do Parlamento e do Conselho, de 7 de setembro, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0100\" title=\"Link para Directiva da Comunidade Europeia\">2006/100/CE</a>, do Conselho, de 20 de novembro, que adapta determinadas diretivas no domínio da livre circulação de pessoas, em virtude da adesão da Bulgária e da Roménia, alterada pela Lei n.º 41/2012, de 28 de agosto;\n\nb) Decreto-Lei n.º 92/2010, de 26 de julho, que estabelece os princípios e as regras necessárias para simplificar o livre acesso e exercício das atividades de serviços e transpõe a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro;\n\nc) Decreto-Lei n.º 92/2011, de 27 de julho, que estabelece o regime jurídico do Sistema de Regulação de Acesso a Profissões (SRAP);\n\nd) Decreto-Lei n.º 138/2012, de 5 de julho, que altera o Código da Estrada e aprova o Regulamento da Habilitação Legal para Conduzir (RHLC), transpondo parcialmente a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0126\" title=\"Link para Directiva da Comunidade Europeia\">2006/126/CE</a>, do Parlamento Europeu e do Conselho, de 20 de dezembro, alterada pelas Diretivas n.os <a href=\"eurlex.asp?ano=2009&id=309L0113\" title=\"Link para Directiva da Comunidade Europeia\">2009/113/CE</a>, da Comissão, de 25 de agosto, e <a href=\"eurlex.asp?ano=2011&id=311L0094\" title=\"Link para Directiva da Comunidade Europeia\">2011/94/UE</a>, da Comissão, de 28 de novembro, relativas à carta de condução."
+  },
+  "222694973": {
+   "fragment_id": "223038985",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O disposto na presente lei é aplicável ao ensino da condução para todas as categorias de veículos com vista à obtenção de carta de condução emitida em Portugal, sem prejuízo do disposto nos números seguintes.\n\n2 - A presente lei aplica-se ao ensino da condução ministrado em escolas de condução localizadas noutro Estado membro da União Europeia ou do Espaço Económico Europeu com vista à obtenção de carta de condução emitida em Portugal, incluindo os requisitos relativos aos instrutores de condução e diretores de escola de condução, com exceção:\n\na) Dos requisitos relativos ao contrato entre o candidato a condutor e a escola de condução referidos no artigo 5.º;\n\nb) Do regime da condução acompanhada por tutor, referido no artigo 7.º;\n\nc) Dos requisitos relativos aos veículos de instrução.\n\n3 - Ao ensino da condução ministrado em Portugal com vista a obtenção de carta de condução de outro Estado membro da União Europeia ou do Espaço Económico Europeu aplica-se apenas o disposto no artigo 12.º."
+  },
+  "222694974": {
+   "fragment_id": "223038986",
+   "type": 11,
+   "heading": "Artigo 3.º — Formação em escola de condução localizada noutro Estado membro da União Europeia ou do Espaço Económico Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formação em escola de condução localizada noutro Estado membro da União Europeia ou do Espaço Económico Europeu\n\n1 - No ensino de condução referido no n.º 2 do artigo 2.º, quando o candidato a condutor tenha completado a formação em escola de condução localizada noutro Estado membro da União Europeia ou do Espaço Económico Europeu, a propositura a exame de condução é realizada por esta escola ou em regime de autopropositura, em conformidade com o disposto no RHLC e nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n2 - Nos casos previstos no número anterior, consideram-se competentes para realizar o exame de condução os centros de exame da área de jurisdição da direção regional de mobilidade e transportes ou do distrito mais próximos da residência do candidato a condutor.\n\n3 - Nos casos do n.º 1, para efeitos de realização da prova prática, o candidato a condutor deve ser acompanhado pelo instrutor que ministrou o ensino, pelo diretor desta escola ou por outro instrutor de escola de condução localizada em território nacional com a qual tenha celebrado um protocolo nos termos do n.º 5.\n\n4 - A prova prática deve ser prestada em veículo da escola de condução onde o candidato a condutor obteve a formação ou em veículo de escola de condução localizada em território nacional com a qual a primeira tenha celebrado um protocolo, nos termos do número seguinte, devendo este respeitar, em qualquer caso, as características previstas no artigo 61.º do RHLC.\n\n5 - As escolas de condução localizadas noutro Estado membro da União Europeia ou do Espaço Económico Europeu que ministram o ensino da condução com vista à obtenção de carta de condução emitida em Portugal podem celebrar protocolos com outras escolas de condução localizadas em território nacional, para efeitos de disponibilização de instrutor e de veículo de instrução para a prestação da prova prática do candidato a condutor, aferindo-se a competência territorial dos centros de exames em função da escola localizada em território nacional."
+  },
+  "223031675": {
+   "fragment_id": "223038987",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara os efeitos do disposto na presente lei e respetiva legislação complementar, entende-se por:\n\na) Ensino da condução - o ensino teórico e prático com vista à aquisição ou reaquisição de competências para a condução em segurança;\n\nb) Ensino teórico - o ensino que tem por objetivo a aquisição de competências e conhecimentos relativos a regras de trânsito e de sinalização, normas sancionatórias e processuais pela prática de contraordenações rodoviárias, responsabilidade e avaliação dos riscos para a circulação rodoviária segura, mobilidade sustentável e a preservação do ambiente;\n\nc) Ensino prático - o ensino que tem por objetivo a adaptação do candidato a condutor ao ambiente rodoviário de condução, o domínio do veículo em circulação, a circulação rodoviária segura e a preservação do ambiente;\n\nd) Instrutor de condução - o profissional qualificado e possuidor de título profissional para ministrar o ensino da condução;\n\ne) Diretor de escola de condução - o instrutor qualificado para coordenar pedagogicamente a atividade do ensino da condução numa determinada empresa que explore escolas de condução;\n\nf) Candidato a condutor - o indivíduo que pretende obter a habilitação para conduzir uma ou mais categorias de veículos;\n\ng) Escola de condução - o estabelecimento onde é ministrado o ensino da condução para obtenção de carta de condução emitida em Portugal e, subsidiariamente, a formação associada à condução e atividades administrativas conexas;\n\nh) Tutor - o condutor devidamente habilitado que acompanha o candidato a condutor na aquisição de experiência de condução durante a aprendizagem de prática de condução da categoria B, nos termos previstos na presente lei."
+  },
+  "223031676": {
+   "fragment_id": "223038988",
+   "type": 1,
+   "heading": "Capítulo II — Do ensino da condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do ensino da condução"
+  },
+  "223031677": {
+   "fragment_id": "223038989",
+   "type": 11,
+   "heading": "Artigo 5.º — Ensino da condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ensino da condução\n\n1 - Sem prejuízo das disposições previstas nos artigos 10.º e 11.º, o ensino da condução só pode ser ministrado por instrutor de condução, em escola de condução, e formaliza-se através de contrato escrito celebrado entre o candidato a condutor e a empresa que explore a escola de condução em causa.\n\n2 - Os elementos e termos obrigatórios do contrato referido no número anterior são os constantes da portaria referida no n.º 1 do artigo 69.º.\n\n3 - O contrato referido no n.º 1 obriga a escola de condução a:\n\na) Promover a organização do processo do candidato a condutor com os elementos legalmente exigidos;\n\nb) Emitir e entregar ao candidato a condutor cópia da ficha de inscrição;\n\nc) Desenvolver o processo de aprendizagem de acordo com os conteúdos programáticos e demais condições fixadas na lei;\n\nd) Realizar a avaliação formativa do candidato a condutor;\n\ne) Propor o candidato a condutor às provas do exame de condução.\n\n4 - Deve, ainda, ser celebrado contrato escrito entre a empresa que explore escola de condução e:\n\na) O indivíduo já habilitado a conduzir, para a reaquisição de competências de condução na categoria de veículos para que se encontre habilitado;\n\nb) O candidato a condutor dispensado de frequência de formação obrigatória em escola de condução, nos termos dos n.os 2 e 3 do artigo 33.º do RHLC."
+  },
+  "223031678": {
+   "fragment_id": "223038990",
+   "type": 11,
+   "heading": "Artigo 6.º — Modalidades de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Modalidades de ensino\n\n1 - O ensino da condução compreende as seguintes modalidades:\n\na) Ensino teórico de condução, onde são transmitidas as regras de segurança rodoviária, trânsito e sinalização;\n\nb) Ensino prático de condução, onde são desenvolvidas as competências do candidato a condutor ao nível do controlo do veículo em circulação e exercício de uma condução segura.\n\n2 - O ensino teórico é constituído por:\n\na) Módulo comum de segurança rodoviária, para as categorias A1, A2, A, B1 e B;\n\nb) Módulo específico de segurança rodoviária, para as categorias C1, C, D1 e D;\n\nc) Módulo de teoria da condução, que pode ser realizado com recurso a formação à distância ou através de ensino presencial;\n\nd) Módulos complementares teórico-práticos, de frequência presencial obrigatória para todas as categorias de habilitação.\n\n3 - O módulo de formação teórica previsto na alínea c) do número anterior pode ser ministrado com recurso a ferramentas de ensino a distância, que devem registar o número de horas de permanência dos candidatos a condutor nos diversos temas e a respetiva avaliação formativa, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n4 - Nos casos referidos no número anterior, a escola de condução onde o candidato a condutor se encontra inscrito é responsável por assegurar que este frequentou as horas obrigatórias na plataforma de ensino a distância e obteve avaliação positiva.\n\n5 - No ensino prático de condução, o candidato a condutor deve cumprir, cumulativamente, o número mínimo de horas de condução e quilómetros percorridos, a registar em equipamento próprio, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n6 - Podem ser utilizados no ensino prático, como suporte e complemento à formação, simuladores de condução, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n7 - A ministração do ensino das categorias C1E, CE, D1E e DE é restrita à modalidade de prática de condução.\n\n8 - Os conteúdos programáticos para a ministração do ensino teórico e prático são os previstos para o exame de condução, constantes nas partes I e II do Anexo VII do RHLC.\n\n9 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 33.º do RHLC, o candidato a condutor só pode ser admitido à prova teórica e à prova prática do exame de condução após ter concluído, respetivamente o ensino teórico e o ensino prático, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º."
+  },
+  "223031679": {
+   "fragment_id": "223038991",
+   "type": 11,
+   "heading": "Artigo 7.º — Condução acompanhada por tutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condução acompanhada por tutor\n\n1 - É permitida a condução acompanhada por tutor durante a aprendizagem de prática de condução da categoria B.\n\n2 - A função de tutor não pode ser remunerada, a qualquer título.\n\n3 - Só pode ser tutor quem preencha, cumulativamente, os seguintes requisitos:\n\na) Estar habilitado para a condução de veículo da categoria B há, pelo menos, 10 anos;\n\nb) Não ter sido condenado pela prática de crime rodoviário ou de contraordenação rodoviária grave ou muito grave, nos últimos cinco anos;\n\nc) Ter frequentado com aproveitamento, em simultâneo com cada candidato a condutor que vai acompanhar, o módulo comum de segurança rodoviária a que se refere a alínea a) do n.º 2 do artigo anterior.\n\n4 - Nas situações em que o candidato a condutor está dispensado da frequência do módulo referido na alínea c) do número anterior, o tutor mantém a obrigatoriedade de o frequentar.\n\n5 - Na condução acompanhada por tutor não é permitido:\n\na) Transporte de passageiros;\n\nb) Circular em autoestradas ou vias equiparadas.\n\n6 - O tutor é responsável pelas infrações praticadas pelo candidato a condutor no exercício da condução acompanhada.\n\n7 - É obrigatória a celebração pelo tutor de seguro de responsabilidade civil específico que cubra os danos decorrentes dos acidentes provocados pelo candidato a condutor, durante a condução acompanhada, podendo ser subscrito por extensão de cobertura do seguro de responsabilidade civil automóvel do veículo utilizado.\n\n8 - Relativamente à cobertura prevista no número anterior:\n\na) Não é aplicável o direito de regresso do segurador previsto na primeira parte da alínea d) do n.º 1 do artigo 27.º do Decreto-Lei n.º 291/2007, de 21 de agosto;\n\nb) Salvo convenção em contrário, o tutor e o candidato a condutor integram também os seus beneficiários;\n\nc) Quando se traduza num contrato autónomo, é-lhe aplicável o regime geral do seguro obrigatório de responsabilidade civil automóvel, com ressalva do previsto nas alíneas anteriores, e, com as devidas adaptações, as condições contratuais aprovadas pelo Instituto de Seguros de Portugal, nos termos do artigo 91.º do Decreto-Lei n.º 291/2007, de 21 de agosto.\n\n9 - Para efeitos de propositura a exame de condução, a condução acompanhada por tutor não isenta o candidato a condutor da formação obrigatória prevista no artigo 6.º da presente lei.\n\n10 - Durante a condução acompanhada por tutor, o veículo deve estar devidamente identificado, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º."
+  },
+  "223031680": {
+   "fragment_id": "223038992",
+   "type": 11,
+   "heading": "Artigo 8.º — Inscrição em escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inscrição em escola de condução\n\n1 - O ensino da condução só pode iniciar-se após a inscrição em escola de condução.\n\n2 - Os candidatos a condutor podem inscrever-se e iniciar o ensino da condução seis meses antes de completarem a idade mínima exigida para a categoria de habilitação pretendida.\n\n3 - No ato de inscrição, a escola de condução recolhe os elementos de identificação do candidato a condutor e envia-os para a aplicação informática disponibilizada pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).\n\n4 - A escola de condução deve emitir uma ficha de inscrição, a qual deve conter os elementos identificativos do candidato a condutor, informação sobre a avaliação médica e sobre a avaliação psicológica, se aplicável, bem como os dados relativos às provas de exame que realizar durante o percurso formativo, incluindo os respetivos resultados.\n\n5 - A escola de condução é responsável pelos dados que transmite ao IMT, I. P., não sendo marcadas provas de exame ou emitida carta de condução caso se verifique que contêm irregularidades ou imprecisões.\n\n6 - A ficha de inscrição em escola de condução obedece ao modelo aprovado por despacho do presidente do Conselho Diretivo do IMT, I. P., disponibilizado no sítio da Internet daquele instituto.\n\n7 - O candidato a condutor deve ser portador de cópia da ficha de inscrição durante a ministração do ensino prático."
+  },
+  "223031681": {
+   "fragment_id": "223038993",
+   "type": 11,
+   "heading": "Artigo 9.º — Atividade de ensino da condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Atividade de ensino da condução\n\n1 - O ensino da condução é ministrado em escola de condução nos termos fixados na presente lei e na portaria referida no n.º 1 do artigo 69.º.\n\n2 - Excetuam-se do disposto no número anterior o ensino teórico na modalidade de formação à distância e a condução acompanhada por tutor, cujas condições são fixadas pela portaria referida no n.º 1 do artigo 69.º.\n\n3 - As escolas de condução podem prestar serviços relacionados com os procedimentos administrativos associados à emissão de títulos de condução."
+  },
+  "223031682": {
+   "fragment_id": "223038994",
+   "type": 11,
+   "heading": "Artigo 10.º — Ensino da condução promovido por outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ensino da condução promovido por outras entidades\n\nPodem, ainda, ministrar o ensino da condução em território nacional:\n\na) As forças militares e de segurança, nos termos da legislação própria;\n\nb) A Escola Nacional de Bombeiros, a bombeiros em formação, nos termos da legislação própria;\n\nc) As entidades que ministrem curso de formação de condutores de transportes rodoviários de mercadorias, nos termos da legislação aplicável;\n\nd) As empresas de transporte público em automóveis pesados de passageiros que ministrem cursos de formação aos seus trabalhadores, nos termos da portaria referida no n.º 1 do artigo 69.º;\n\ne) As entidades formadoras que ministrem o ensino da condução de veículos agrícolas, especificamente para esse fim, de acordo com a legislação aplicável."
+  },
+  "223031683": {
+   "fragment_id": "223038995",
+   "type": 11,
+   "heading": "Artigo 11.º — Ensino teórico da condução à população reclusa em estabelecimentos prisionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Ensino teórico da condução à população reclusa em estabelecimentos prisionais\n\n1 - É permitido o ensino teórico da condução em estabelecimentos prisionais em território nacional, mediante as condições fixadas na portaria referida no n.º 2 do artigo 69.º.\n\n2 - Os encargos inerentes à frequência do ensino teórico da condução em estabelecimento prisional são suportados pelo recluso candidato a condutor."
+  },
+  "223031684": {
+   "fragment_id": "223038996",
+   "type": 11,
+   "heading": "Artigo 12.º — Ensino da condução para a obtenção de carta de condução de outro Estado membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ensino da condução para a obtenção de carta de condução de outro Estado membro\n\n1 - As empresas que pretendam ministrar ensino de condução em território nacional com vista à obtenção de carta de condução a emitir noutro Estado membro da União Europeia ou do Espaço Económico Europeu devem, por mera comunicação prévia, informar o IMT, I. P., dessa intenção e observar os seguintes deveres:\n\na) Cumprir a legislação nacional no que respeita à circulação de automóveis em território nacional, incluindo os deveres de natureza fiscal;\n\nb) Identificar os veículos de instrução nos termos fixados na portaria referida no n.º 1 do artigo 69.º;\n\nc) Realizar seguro de responsabilidade civil específico para a condução de automóveis em situação de instrução;\n\nd) Assegurar que a formação é ministrada por instrutores de condução qualificados de acordo com a legislação do Estado membro de emissão das cartas de condução em causa.\n\n2 - Relativamente ao seguro previsto na alínea c) do número anterior:\n\na) O candidato a condutor integra os seus beneficiários;\n\nb) Pode abranger os danos do instrutor de condução cuja causa seja a negligência grave do candidato a condutor, desde que convencionado pelas partes;\n\nc) São aplicáveis, com as devidas adaptações, as condições contratuais aprovadas pelo Instituto de Seguros de Portugal, nos termos do artigo 91.º do Decreto-Lei n.º 291/2007, de 21 de agosto."
+  },
+  "223031685": {
+   "fragment_id": "223038997",
+   "type": 11,
+   "heading": "Artigo 13.º — Outras atividades de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Outras atividades de formação\n\n1 - Pode também ser ministrada em escola de condução, incluindo nas escolas referidas no n.º 2 do artigo 2.º, não podendo coincidir nem prejudicar a ministração do ensino da condução aos candidatos a condutor:\n\na) A formação para a certificação de motoristas na área dos transportes rodoviários;\n\nb) A formação de diretor de escola de condução e de instrutor de condução;\n\nc) A atividade formativa nas áreas da educação, prevenção e segurança rodoviárias;\n\nd) A formação para a atualização de condutores.\n\n2 - As empresas que explorem escolas de condução e realizem as ações de formação previstas no número anterior ficam sujeitas aos requisitos constantes dos artigos 57.º a 59.º da presente lei, no que respeita à formação referida na alínea b), e aos requisitos da respetiva legislação sectorial, relativamente à formação prevista nas restantes alíneas."
+  },
+  "223031686": {
+   "fragment_id": "223038998",
+   "type": 1,
+   "heading": "Capítulo III — Das escolas de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das escolas de condução"
+  },
+  "223031687": {
+   "fragment_id": "223038999",
+   "type": 8,
+   "heading": "Secção I — Acesso à atividade de exploração de escolas de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Acesso à atividade de exploração de escolas de condução"
+  },
+  "223031688": {
+   "fragment_id": "223039000",
+   "type": 11,
+   "heading": "Artigo 14.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Requisitos de acesso\n\n1 - Sem prejuízo do disposto no n.º 7, o acesso à atividade de exploração de escolas de condução depende da obtenção prévia de licença emitida para o efeito.\n\n2 - A licença referida no número anterior é concedida a empresas, singulares ou coletivas, que cumpram o previsto nos artigos 15.º a 18.º.\n\n3 - As condições de instrução do pedido de licença são fixadas pela portaria referida no n.º 1 do artigo 69.º.\n\n4 - Na falta de decisão expressa do IMT, I. P., no prazo máximo de 60 dias a contar da apresentação do pedido de licença, e verificando-se o prévio pagamento das taxas que se mostrem devidas nos termos do presente diploma, considera-se tacitamente deferido o pedido de licença.\n\n5 - O modelo da licença de empresa exploradora de escolas de condução é fixado por despacho do presidente do Conselho Diretivo do IMT, I. P., podendo ser substituída pelos comprovativos de realização do respetivo pedido e do pagamento das taxas devidas, em caso de deferimento tácito e até que a licença expressa seja emitida.\n\n6 - Nos casos em que ocorram atos que impliquem alterações ao conteúdo da licença de empresa exploradora de escolas de condução esta deve ser substituída.\n\n7 - As empresas legalmente estabelecidas noutro Estado membro da União Europeia ou do Espaço Económico Europeu para o ensino da condução podem abrir escolas de condução em território nacional, desde que realizem a comunicação prévia prevista no n.º 2 do artigo 22.º e observem o previsto nos artigos 15.º a 18.º, no artigo 23.º e na portaria referida no n.º 1 do artigo 69.º da presente lei.\n\n8 - As empresas referidas no número anterior ficam sujeitas aos requisitos de exercício aplicáveis às empresas licenciadas em Portugal, nomeadamente aos constantes dos artigos 24.º a 31.º"
+  },
+  "223031689": {
+   "fragment_id": "223039001",
+   "type": 11,
+   "heading": "Artigo 15.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Idoneidade\n\n1 - Sem prejuízo do disposto no número seguinte, consideram-se inidóneas para o exercício da atividade de exploração de escolas de condução as empresas singulares ou coletivas, considerando neste último caso a situação dos respetivos sócios, gerentes ou administradores, que:\n\na) Estejam inabilitados, interditos ou suspensos do exercício da atividade do ensino da condução por decisão administrativa da qual não se possa recorrer ou por sentença condenatória transitada em julgado;\n\nb) Tenham explorado escolas de condução encerradas compulsivamente nos termos do artigo 33.º;\n\nc) Tenham ministrado, participado ou auxiliado a ministração de ensino da condução em instalações não licenciadas, em veículos que não obedeçam ao disposto no artigo 23.º ou por indivíduos não habilitados para o efeito.\n\n2 - As situações de inidoneidade previstas no número anterior caducam decorridos cinco anos após a decisão que as determinou, exceto se outro prazo for fixado por decisão ou sentença."
+  },
+  "223031690": {
+   "fragment_id": "223039002",
+   "type": 11,
+   "heading": "Artigo 16.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Incompatibilidades\n\n1 - Não podem ser empresas exploradoras de escolas de condução as pessoas singulares ou pessoas coletivas, considerando neste último caso a situação dos respetivos sócios, gerentes ou administradores, que exerçam a profissão de examinador de condução ou que exerçam funções, a qualquer título, em centros de exames de condução.\n\n2 - A incompatibilidade prevista no n.º 1 aplica-se também ao respetivo cônjuge, à pessoa com quem viva em condições análogas às dos cônjuges, aos ascendentes e aos descendentes, sempre que pretendam exercer a atividade no distrito onde são realizados os exames de condução."
+  },
+  "223031691": {
+   "fragment_id": "223039003",
+   "type": 11,
+   "heading": "Artigo 17.º — Capacidade técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Capacidade técnica\n\n1 - A empresa exploradora de escola de condução deve assegurar a existência de uma estrutura e organização interna adequadas, com os recursos humanos em número suficiente e habilitados com as competências adequadas, que permitam o desenvolvimento da atividade do ensino da condução, de acordo com as exigências estabelecidas e o número de escolas que explore.\n\n2 - São requisitos mínimos de aferição da competência técnica:\n\na) Um diretor de escola de condução responsável pela coordenação pedagógica, devendo a empresa dispor, no mínimo, de um diretor por cada duas escolas de condução exploradas em território nacional;\n\nb) Instalações e equipamento pedagógico de suporte à formação adequados, que garantam a qualidade da formação dos candidatos a condutor e a acessibilidade, mobilidade e comodidade dos seus utilizadores, incluindo os cidadãos com mobilidade condicionada;\n\nc) Pelo menos um veículo adaptado ao ensino da condução por cada categoria de ensino e por cada escola de condução, sem prejuízo do disposto no artigo 30.º;\n\nd) Área adequada ao estacionamento dos veículos referidos na alínea anterior.\n\n3 - A empresa exploradora de escolas de condução deve informar, por mera comunicação prévia, o IMT, I. P., sempre que deseje afetar veículos ao ensino da condução.\n\n4 - As condições relativas ao requisito estabelecido na alínea b) do n.º 2 e os termos da comunicação referida no número anterior são fixadas na portaria prevista no n.º 1 do artigo 69.º.\n\n5 - Pode ser autorizado o funcionamento temporário de escola de condução em instalações provisórias, desde que estas disponham de condições adequadas para a ministração do ensino da condução, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º."
+  },
+  "223031692": {
+   "fragment_id": "223039004",
+   "type": 11,
+   "heading": "Artigo 18.º — Situação tributária e contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Situação tributária e contributiva\n\n1 - A empresa exploradora de escolas de condução deve ter a sua situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, respetivamente.\n\n2 - Para efeitos de obtenção da informação referida no número anterior, o interessado deve entregar ao IMT, I. P., declaração da situação tributária e da situação contributiva ou autorizar o IMT, I. P., a aceder a essa informação."
+  },
+  "223031693": {
+   "fragment_id": "223039005",
+   "type": 11,
+   "heading": "Artigo 19.º — Manutenção dos requisitos de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Manutenção dos requisitos de licenciamento\n\n1 - Os requisitos de licenciamento de empresa exploradora de escolas de condução são de verificação permanente, devendo as entidades titulares da licença comprovar o seu cumprimento sempre que tal lhes seja solicitado pelo IMT, I. P.\n\n2 - A falta superveniente de qualquer das condições de licenciamento previstas nos artigos 15.º a 18.º deve ser suprida no prazo de 60 dias a contar da notificação do IMT, I. P., para o efeito.\n\n3 - O disposto no presente artigo é aplicável, com as devidas adaptações, às escolas de condução que operem em território nacional nos termos do n.º 7 do artigo 14.º."
+  },
+  "223031694": {
+   "fragment_id": "223039006",
+   "type": 11,
+   "heading": "Artigo 20.º — Deveres das empresas exploradoras de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Deveres das empresas exploradoras de escola de condução\n\nSão deveres das empresas exploradoras de escolas de condução:\n\na) Assegurar a manutenção das condições constantes dos artigos 15.º a 18.º, incluindo nas novas escolas de condução abertas na vigência da licença;\n\nb) Dotar a escola de instrutores de condução habilitados a ministrar o ensino da condução em território nacional que sejam detentores do título profissional respetivo;\n\nc) Disponibilizar ao diretor da escola de condução e aos instrutores de condução os meios necessários à atualização dos conhecimentos e técnicas pedagógicas utilizadas no ensino da condução;\n\nd) Celebrar os contratos de formação previstos no artigo 5.º;\n\ne) Contratar um seguro de responsabilidade civil específico para a condução de veículos em situação de instrução, aplicando-se o disposto do n.º 2 do artigo 12.º;\n\nf) Zelar pela manutenção permanente das condições de boa acessibilidade, conservação, conforto, higiene e funcionalidade das instalações;\n\ng) Dotar as escolas de condução de todo o equipamento pedagógico necessário para garantir a qualidade da formação dos candidatos a condutor e assegurar as respetivas condições de funcionamento;\n\nh) Atuar em articulação com o diretor de escola de condução, tendo em vista a resolução de questões respeitantes aos instrutores de condução, ao pessoal administrativo, às instalações e ao equipamento pedagógico;\n\ni) Assegurar o cumprimento das disposições previstas na presente lei relativas aos preços, informação de divulgação obrigatória e conservação dos elementos de registo;\n\nj) Colaborar com o IMT, I. P., no exercício da sua atividade de fiscalização e de acompanhamento, bem como comparecer no mesmo instituto sempre que notificado para o efeito;\n\nk) Comunicar o encerramento de escolas de condução, nos termos do n.º 5 do artigo 33.º."
+  },
+  "223031695": {
+   "fragment_id": "223039007",
+   "type": 11,
+   "heading": "Artigo 21.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Designação\n\n1 - A expressão «Escola de Condução» deve preceder a designação das escolas de condução.\n\n2 - A designação da escola de condução não pode conter termos ou expressões que possam iludir a boa-fé dos candidatos a condutor, constituam publicidade contrária aos princípios da prevenção e segurança rodoviárias ou ser igual ou semelhante à de escola de condução já existente.\n\n3 - A empresa exploradora de escola de condução deve informar, por mera comunicação prévia, o IMT, I. P., da alteração da designação de qualquer escola de condução que explore."
+  },
+  "223031696": {
+   "fragment_id": "223039008",
+   "type": 11,
+   "heading": "Artigo 22.º — Início da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Início da atividade\n\n1 - Após o licenciamento, expresso ou tácito, a empresa de exploração de escolas de condução tem 60 dias para iniciar a atividade, abrindo pelo menos uma escola de condução ao público.\n\n2 - A abertura ou mudança de cada escola de condução deve ser objeto de mera comunicação prévia ao IMT, I. P., que contenha os seguintes elementos:\n\na) Identificação da empresa exploradora;\n\nb) Indicação da localização da escola em causa;\n\nc) Identificação do âmbito de ensino respetivo, dos instrutores e dos veículos de instrução a ela afetos."
+  },
+  "223031697": {
+   "fragment_id": "223039009",
+   "type": 11,
+   "heading": "Artigo 23.º — Veículos de instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Veículos de instrução\n\n1 - Para a obtenção de carta de condução portuguesa, só podem ser utilizados no ensino da condução veículos com as características legalmente previstas para os veículos de exame e cuja adaptação e transformação para o ensino da condução se encontre registada no Documento de Identificação do Veículo, devendo estar identificados com a letra L, nos termos da portaria referida no n.º 1 do artigo 69.º.\n\n2 - Excetua-se do disposto no número anterior os veículos adaptados a cidadãos com mobilidade condicionada, desde que a adaptação se encontre registada no Documento de Identificação do Veículo.\n\n3 - Os critérios a aplicar na transformação referida no n.º 1 são definidos por deliberação do Conselho Diretivo do IMT, I. P."
+  },
+  "223031698": {
+   "fragment_id": "223039010",
+   "type": 8,
+   "heading": "Secção II — Exercício da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Exercício da atividade"
+  },
+  "223031699": {
+   "fragment_id": "223039011",
+   "type": 11,
+   "heading": "Artigo 24.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Informação\n\n1 - A escola de condução deve divulgar, de forma visível, as informações relevantes de interesse para o público, designadamente:\n\na) O horário de funcionamento;\n\nb) A tabela de preços;\n\nc) A existência de livro de reclamações;\n\nd) A identificação do diretor de escola de condução em causa;\n\ne) A identificação dos instrutores que nela exerçam atividade;\n\nf) O número de escolas de condução que a empresa explora;\n\ng) As categorias de carta de condução ministradas;\n\nh) O número de veículos afetos à empresa exploradora por cada categoria e por cada escola de condução.\n\n2 - Os preços a praticar pela ministração do ensino da condução e de outros serviços prestados são livremente estabelecidos pela escola de condução.\n\n3 - Não podem ser praticados preços que não estejam publicitados e discriminados na tabela de preços prevista na alínea b) do n.º 1.\n\n4 - O IMT, I. P., através do seu sítio eletrónico, pode periodicamente publicar de forma agregada e sem identificação de dados nominativos, os resultados das provas do exame de condução dos candidatos a condutor propostos pelas escolas de condução."
+  },
+  "223031700": {
+   "fragment_id": "223039012",
+   "type": 11,
+   "heading": "Artigo 25.º — Âmbito de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Âmbito de ensino\n\n1 - Sem prejuízo do disposto no artigo 31.º, a ampliação do âmbito de ensino ministrado em determinada escola é objeto de mera comunicação prévia ao IMT, I. P., acompanhada da identificação do veículo de instrução da categoria que pretende ministrar, caso este não integre já o património da empresa, e da identificação de novo diretor de escola, caso a empresa dele careça em face do disposto no n.º 2 do artigo 51.º.\n\n2 - A restrição do âmbito de ensino ministrado em determinada escola é objeto de mera comunicação prévia ao IMT, I. P."
+  },
+  "223031701": {
+   "fragment_id": "223039013",
+   "type": 11,
+   "heading": "Artigo 26.º — Elementos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Elementos de registo\n\n1 - A escola de condução deve assegurar o registo eletrónico dos seguintes elementos:\n\na) Número, conteúdo, horas e quilómetros percorridos das lições ministradas aos candidatos a condutor;\n\nb) Identificação do diretor e dos instrutores de condução a ela afetos;\n\nc) Identificação dos veículos de instrução a ela afetos.\n\n2 - As escolas de condução devem facultar ao IMT, I. P., o acesso eletrónico dos registos referidos no número anterior.\n\n3 - Os elementos de registo devem ser conservados pela escola de condução pelo período mínimo de cinco anos.\n\n4 - A escola de condução não pode fazer qualquer uso dos elementos de registo referidos nos números anteriores para além dos fins determinados para a sua recolha.\n\n5 - O formato e acesso dos registos referidos no n.º 1 são definidos na portaria prevista no n.º 1 do artigo 69.º."
+  },
+  "223031702": {
+   "fragment_id": "223039014",
+   "type": 11,
+   "heading": "Artigo 27.º — Transferência do candidato a condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transferência do candidato a condutor\n\n1 - Sem prejuízo do disposto no n.º 12 do artigo 39.º do RHLC, é permitida a transferência do candidato a condutor para outra escola de condução, nos termos a definir na portaria referida no n.º 1 do artigo 69.º, sendo contabilizadas as horas de formação obtidas noutra escola de condução.\n\n2 - A transferência do candidato a condutor deve ser comunicada ao IMT, I. P., pela escola de condução de destino e deve ser acompanhada de declaração de concordância do candidato a condutor."
+  },
+  "223031703": {
+   "fragment_id": "223039015",
+   "type": 11,
+   "heading": "Artigo 28.º — Transmissão de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Transmissão de escola de condução\n\n1 - A transmissão de escola de condução só é admitida para empresa licenciada nos termos da presente lei ou que opere em território nacional nos termos do n.º 7 do artigo 14.º, sob pena de nulidade.\n\n2 - A transmissão de escola de condução deve ser comunicada ao IMT, I. P., no prazo de 30 dias após a sua efetivação, com identificação das empresas exploradoras envolvidas, indicação da localização da escola em causa e ainda identificação do âmbito de ensino respetivo, dos instrutores e dos veículos de instrução a ela afetos, quando estes elementos não coincidam com os elementos anteriormente comunicados ao IMT, I. P., nos termos da presente lei.\n\n3 - Nas situações de transmissão por morte do titular da empresa, o cabeça de casal dispõe de 60 dias para comunicar ao IMT, I. P., o óbito e apresentar o documento comprovativo da habilitação de herdeiros ou da partilha dos bens.\n\n4 - Enquanto não for realizada a partilha referida no número anterior, os requisitos previstos nos artigos 15.º a 18.º devem ser assegurados pelo cabeça de casal ou por um gestor de negócios por si nomeado, quando o cabeça de casal não os reúna.\n\n5 - Caso não preencham os requisitos para a titularidade de empresa exploradora de escola de condução, os herdeiros dispõem de seis meses para proceder à transmissão da propriedade da escola de condução.\n\n6 - O requisito previsto no artigo 18.º deve ser comprovado com referência aos bens da herança.\n\n7 - A cessão de quotas de pessoa coletiva exploradora de escolas de condução deve ser comunicada ao IMT, I. P., no prazo de 60 dias contados da data da transmissão, devendo os novos sócios fazer prova de que reúnem os requisitos previstos nos artigos 15.º e 16.º."
+  },
+  "223031704": {
+   "fragment_id": "223039016",
+   "type": 11,
+   "heading": "Artigo 29.º — Cessão de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cessão de exploração\n\nÉ proibida a cessão de exploração de escola de condução a qualquer título."
+  },
+  "223031705": {
+   "fragment_id": "223039017",
+   "type": 8,
+   "heading": "Secção III — Associação de escolas de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Associação de escolas de condução"
+  },
+  "223031706": {
+   "fragment_id": "223039018",
+   "type": 11,
+   "heading": "Artigo 30.º — Partilha de veículos pesados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Partilha de veículos pesados\n\n1 - É permitida a partilha dos veículos de instrução entre empresas exploradoras de escolas de condução.\n\n2 - As condições de partilha são estabelecidas na portaria referida no n.º 1 do artigo 69.º."
+  },
+  "223031707": {
+   "fragment_id": "223039019",
+   "type": 11,
+   "heading": "Artigo 31.º — Ensino teórico partilhado de veículos pesados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Ensino teórico partilhado de veículos pesados\n\n1 - As empresas exploradoras de escolas de condução que ministrem o ensino da condução de veículos pesados podem associar-se a empresas exploradoras de escolas de condução com âmbito de ensino restrito a motociclos e veículos ligeiros para a ministração de ensino teórico das categorias C1, C, D1 ou D.\n\n2 - A associação prevista no número anterior é objeto de mera comunicação ao IMT, I. P. no prazo de 30 dias após a sua efetivação, e permite a ministração do ensino teórico específico para as categorias C1, C, D1 ou D nas escolas de condução com âmbito de ensino restrito a motociclos e veículos ligeiros, desde que disponham de sala de teoria da condução adaptada ao ensino teórico das categorias C1, C, D1 ou D, nos termos do disposto na presente lei e na portaria referida no n.º 1 do artigo 69.º.\n\n3 - Nos casos previstos no número anterior, os candidatos a condutor são considerados para efeitos de propositura a exame de condução como candidatos da escola de condução onde se encontram inscritos."
+  },
+  "223031708": {
+   "fragment_id": "223039020",
+   "type": 8,
+   "heading": "Secção IV — Extinção da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Extinção da atividade"
+  },
+  "223031709": {
+   "fragment_id": "223039021",
+   "type": 11,
+   "heading": "Artigo 32.º — Revogação da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Revogação da licença\n\n1 - A licença de empresa exploradora de escola de condução é revogada pelo IMT, I. P., quando:\n\na) Ocorra a dissolução da entidade titular da licença;\n\nb) A empresa não inicie a sua atividade no prazo de 60 dias após a emissão da licença;\n\nc) Com exceção do disposto na alínea b) do n.º 2 do artigo 17.º, a empresa que deixe de cumprir qualquer das condições previstas nos artigos 15.º a 18.º;\n\nd) Ocorra a recusa em facultar o acesso eletrónico dos elementos de registo referidos no n.º 1 do artigo 26.º;\n\ne) Deixe de ter qualquer escola de condução associada;\n\nf) Os herdeiros não procedam à transmissão da empresa, nos termos previstos no n.º 5 do artigo 28.º;\n\ng) O titular da licença o requeira.\n\n2 - Nas situações previstas nas alíneas d) e f) do número anterior, a revogação só tem lugar se as irregularidades não forem sanadas no prazo de 90 dias após notificação do IMT, I. P., para o efeito."
+  },
+  "223031710": {
+   "fragment_id": "223039022",
+   "type": 11,
+   "heading": "Artigo 33.º — Encerramento compulsivo de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Encerramento compulsivo de escola de condução\n\n1 - O IMT, I. P., encerra compulsivamente escolas de condução, nos seguintes casos:\n\na) Quando as condições de higiene, salubridade e segurança das instalações ou o seu equipamento pedagógico ponham em sério risco a integridade física das pessoas e a qualidade do ensino;\n\nb) Quando a empresa exploradora não proceda à correção das deficiências nas instalações ou das irregularidades detetadas ou quando não observe as regras de funcionamento da escola de condução, previstas na presente lei;\n\nc) Quando, nos processos de transmissão de escola de condução, o adquirente não cumpra as condições previstas nos artigos 15.º a 18.º;\n\nd) Quando se verifique cessão de exploração da escola de condução;\n\ne) Quando se verifique a revogação da licença nos termos do disposto no artigo anterior.\n\n2 - Nas situações previstas nas alíneas a) e b) do número anterior, o encerramento só pode ser determinado se as irregularidades não forem sanadas no prazo de 90 dias após notificação do IMT, I. P., para o efeito.\n\n3 - No decurso do processo de encerramento compulsivo pode ser decretada a medida provisória de suspensão de pedido de marcação de provas de exame de candidatos a condutor, nos casos em que as irregularidades detetadas ponham em causa a qualidade do ensino da condução ministrado.\n\n4 - Para o encerramento compulsivo das escolas de condução referidas no n.º 2 do artigo 2.º, o IMT, I. P., recorre à cooperação administrativa prevista no artigo 71.º.\n\n5 - No caso de a empresa exploradora de escola de condução pretender encerrar uma escola deve:\n\na) Comunicar previamente, com 20 dias de antecedência, ao IMT, I. P.;\n\nb) Informar os candidatos a condutor que se encontram inscritos na escola de condução a encerrar;\n\nc) Não aceitar novas inscrições;\n\nd) Assegurar o acompanhamento no exame de condução aos candidatos a condutor propostos pela escola de condução a encerrar."
+  },
+  "223031711": {
+   "fragment_id": "223039023",
+   "type": 1,
+   "heading": "Capítulo IV — Dos instrutores de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos instrutores de condução"
+  },
+  "223031712": {
+   "fragment_id": "223039024",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "223031713": {
+   "fragment_id": "223039025",
+   "type": 11,
+   "heading": "Artigo 34.º — Profissão de instrutor de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Profissão de instrutor de condução\n\n1 - A profissão de instrutor de condução só pode ser exercida por pessoas possuidoras do respetivo título profissional, nos termos previstos na presente lei.\n\n2 - O instrutor de condução só pode ministrar o ensino da condução nas categorias averbadas no seu título profissional."
+  },
+  "223031714": {
+   "fragment_id": "223039026",
+   "type": 11,
+   "heading": "Artigo 35.º — Deveres dos instrutores de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Deveres dos instrutores de condução\n\nSão deveres do instrutor de condução:\n\na) Cumprir as disposições legais e regulamentares aplicáveis ao ensino e exames de condução;\n\nb) Ministrar o ensino da condução das categorias em que se encontra habilitado;\n\nc) Aplicar os conteúdos programáticos em vigor, utilizando os métodos e técnicas pedagógicas e o equipamento pedagógico adequados;\n\nd) Informar o diretor da escola de condução sobre a evolução da aprendizagem do candidato a condutor;\n\ne) Comportar-se com urbanidade nas suas relações com os candidatos a condutor, examinadores e agentes de fiscalização;\n\nf) Contribuir para o bom funcionamento da escola de condução, informando o diretor de qualquer ocorrência relevante;\n\ng) Não perturbar a realização dos exames de condução;\n\nh) Colaborar com o IMT, I. P., no exercício da sua atividade de fiscalização e de acompanhamento, bem como comparecer no mesmo instituto sempre que notificado para o efeito."
+  },
+  "223031715": {
+   "fragment_id": "223039027",
+   "type": 11,
+   "heading": "Artigo 36.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Impedimentos\n\nNão pode ministrar o ensino da condução o indivíduo que:\n\na) Seja examinador de condução em exercício ou exerça outra atividade, a título gratuito ou oneroso, em centro de exame de condução;\n\nb) Tenha sido alvo de medida de interdição do exercício da profissão de instrutor de condução, enquanto a medida durar;\n\nc) Se encontre proibido ou inibido de conduzir pela prática de crime rodoviário ou de contraordenação rodoviária grave ou muito grave, enquanto durar a proibição ou inibição."
+  },
+  "223031716": {
+   "fragment_id": "223039028",
+   "type": 8,
+   "heading": "Secção II — Acesso à profissão de instrutor de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Acesso à profissão de instrutor de condução"
+  },
+  "223031717": {
+   "fragment_id": "223039029",
+   "type": 11,
+   "heading": "Artigo 37.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Requisitos de acesso\n\n1 - Sem prejuízo do disposto nos artigos 48.º e 49.º, são requisitos de acesso à profissão de instrutor:\n\na) Ter o 12.º ano de escolaridade ou equivalente;\n\nb) Ser titular de carta de condução definitiva da categoria B há pelo menos dois anos;\n\nc) Ser titularidade do certificado de aptidão pedagógica ou de certificado de competências pedagógicas de formador ou qualificação equivalente, reconhecida nos termos da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;\n\nd) Ter frequentado curso de formação para instrutor de condução ministrado por entidade formadora certificada;\n\ne) Ser aprovado no exame realizado perante júri designado pelo IMT, I. P.;\n\nf) Ser idóneo para o exercício da profissão, nos termos definidos nas alíneas a) e c) do n.º 1 do artigo 15.º da presente lei;\n\ng) Ter aptidão médica e psicológica, nos termos exigidos para os condutores do Grupo 2.\n\n2 - O candidato a instrutor que não possua o requisito previsto na alínea c) do número anterior pode frequentar em simultâneo o curso de formação de instrutor e o curso de formação pedagógica inicial de formador, devendo fazer prova da conclusão do curso, com aproveitamento, antes da propositura às provas de exame de instrutor."
+  },
+  "223031718": {
+   "fragment_id": "223039030",
+   "type": 11,
+   "heading": "Artigo 38.º — Curso de formação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Curso de formação inicial\n\n1 - O curso de formação inicial de instrutor de condução é composto por formação teórica e formação prática.\n\n2 - A formação teórica pode ser ministrada com recurso a ferramentas de ensino a distância, nos termos a fixar pela portaria referida no n.º 3 do artigo 69.º.\n\n3 - A formação prática, em contexto real de ensino da condução, é composta pela observação e ministração de aulas práticas a candidatos a condutor da categoria B e tem a duração máxima de um ano.\n\n4 - A observação e a formação referidas no número anterior são realizadas em escola de condução e acompanhadas por instrutor com, pelo menos, cinco anos consecutivos de experiência.\n\n5 - Os candidatos a instrutores em formação prática devem ser portadores de declaração comprovativa dessa qualidade, emitida pelo IMT, I. P., após aprovação na prova teórica.\n\n6 - O modelo do documento referido no número anterior é fixado por despacho do presidente do Conselho Diretivo do IMT, I. P., e publicitado no sítio da Internet daquele instituto.\n\n7 - A organização, a duração e os conteúdos do curso de formação inicial de instrutores de condução são definidos pela portaria referida no n.º 3 do artigo 69.º.\n\n8 - Os candidatos a instrutor que não concluam a formação prática no prazo referido no n.º 3 devem reiniciar o curso de formação."
+  },
+  "223031719": {
+   "fragment_id": "223039031",
+   "type": 11,
+   "heading": "Artigo 39.º — Do exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Do exame\n\n1 - O exame de acesso à profissão de instrutor de condução é constituído pelas seguintes provas:\n\na) Prova teórica escrita ou por sistema multimédia;\n\nb) Prova prática.\n\n2 - Após a conclusão da formação teórica, o candidato a instrutor deve requerer, no prazo de 30 dias, a realização da prova teórica, prevista na alínea a) do número anterior.\n\n3 - Após aprovação na prova teórica, o candidato a instrutor de condução deve iniciar a formação prática.\n\n4 - Após conclusão da formação prática, o candidato a instrutor deve requerer no prazo de 30 dias a realização da prova prática, prevista na alínea b) do n.º 1.\n\n5 - A reprovação ou a falta a qualquer uma das provas determina a exclusão do candidato a instrutor do processo de exame, o qual pode ser reiniciado com dispensa de frequência de curso de formação inicial por uma única vez, no prazo máximo de dois anos.\n\n6 - Os conteúdos e os procedimentos das provas de exame são definidos na portaria referida no n.º 3 do artigo 69.º."
+  },
+  "223031720": {
+   "fragment_id": "223039032",
+   "type": 11,
+   "heading": "Artigo 40.º — Prova teórica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Prova teórica\n\n1 - A prova teórica é realizada pelo IMT, I. P., ou por entidade por este designada, em sala equipada com um monitor para cada candidato, que pode transmitir simultaneamente imagens, figuras ou outro tipo de aplicação multimédia e respetivas questões.\n\n2 - O resultado da prova teórica é comunicado no final da prova ao candidato e no prazo de 10 dias à entidade formadora, devendo a formação prática em contexto real de ensino da condução iniciar-se nos 30 dias subsequentes a esta última comunicação."
+  },
+  "223031721": {
+   "fragment_id": "223039033",
+   "type": 11,
+   "heading": "Artigo 41.º — Prova prática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Prova prática\n\n1 - A prova prática é constituída por:\n\na) Ministração de uma lição de teoria de disposições comuns a todas as categorias, nos termos do RHLC;\n\nb) Verificação das competências práticas em matéria de condução;\n\nc) Ministração de uma lição de prática da categoria B, em contexto real de ensino da condução.\n\n2 - A prova referida no número anterior é avaliada por júri designado pelo IMT, I. P., o qual avalia a prestação do candidato a instrutor e preenche um relatório de avaliação, cujo modelo é fixado por despacho do presidente do Conselho Diretivo do IMT, I. P., e consta do sítio da Internet daquele instituto.\n\n3 - O júri referido no número anterior deve incluir um instrutor com, pelo menos, cinco anos de experiência.\n\n4 - Os candidatos a instrutores de condução aprovados na prova prática ficam habilitados a exercer a profissão de instrutor das categorias B1 e B, após requererem a emissão do respetivo título profissional."
+  },
+  "223031722": {
+   "fragment_id": "223039034",
+   "type": 8,
+   "heading": "Secção III — Ministração do ensino da condução das restantes categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Ministração do ensino da condução das restantes categorias"
+  },
+  "223031723": {
+   "fragment_id": "223039035",
+   "type": 11,
+   "heading": "Artigo 42.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Requisitos\n\n1 - A ministração do ensino da condução das categorias AM, A1, A2, A, BE, C1, C1E, C, CE, D1, D1E, D e DE depende do preenchimento pelo instrutor dos seguintes requisitos:\n\na) Ser instrutor da categoria B há, pelo menos, um ano;\n\nb) Ser titular da carta de condução da categoria cujo ensino pretende ministrar há, pelo menos, dois anos;\n\nc) Ter frequentado curso de formação específico das categorias A, C, D ou E, conforme a categoria de ensino a que se pretende habilitar;\n\nd) Ser aprovado nas provas de exame específicas das categorias referidas na alínea anterior.\n\n2 - A aprovação nas provas de exame para as categorias A, C, D e E permite a ministração do ensino da condução das seguintes categorias:\n\na) Categoria A: habilita às categorias AM, A1, A2 e A;\n\nb) Categoria C: habilita às categorias C1 e C;\n\nc) Categoria D: habilita às categorias D1 e D;\n\nd) Categoria E: habilita às categorias C1E, CE, D1E e DE."
+  },
+  "223031724": {
+   "fragment_id": "223039036",
+   "type": 11,
+   "heading": "Artigo 43.º — Cursos de formação específica para categorias A, C, D e E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Cursos de formação específica para categorias A, C, D e E\n\nAplica-se à formação específica das categorias A, C, D e E o disposto no artigo 38.º, com as necessárias adaptações."
+  },
+  "223031725": {
+   "fragment_id": "223039037",
+   "type": 11,
+   "heading": "Artigo 44.º — Categoria E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Categoria E\n\n1 - A ministração do ensino das categorias C1E, CE, D1E e DE depende do exercício da atividade de instrutor de condução da categoria C para as categorias C1E e CE e da categoria D para as categorias D1E e DE.\n\n2 - A formação específica e a aprovação em provas de exame da categoria E só são exigidas na primeira habilitação das categorias referidas na alínea d) do n.º 2 do artigo 42.º.\n\n3 - Os instrutores de condução que sejam titulares da carta de condução da categoria BE há mais de três anos podem ministrar o ensino da condução da mesma categoria, com dispensa da frequência de curso de formação específica e da aprovação em provas de exame."
+  },
+  "223031726": {
+   "fragment_id": "223039038",
+   "type": 11,
+   "heading": "Artigo 45.º — Provas de exame para averbamento das categorias A, C, D e E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Provas de exame para averbamento das categorias A, C, D e E\n\n1 - O exame a que se refere a alínea d) do n.º 1 do artigo 42.º é constituído por prova prática onde o júri observa a ministração de uma lição de prática de condução da categoria a que o instrutor se pretende habilitar, em contexto real de formação a candidato a condutor.\n\n2 - Aplica-se às provas práticas das categorias A, C, D e E o disposto no artigo 41.º, com as necessárias adaptações."
+  },
+  "223031727": {
+   "fragment_id": "223039039",
+   "type": 8,
+   "heading": "Secção IV — Exercício da profissão de instrutor de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Exercício da profissão de instrutor de condução"
+  },
+  "223031728": {
+   "fragment_id": "223039040",
+   "type": 11,
+   "heading": "Artigo 46.º — Emissão do título profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Emissão do título profissional\n\n1 - Aos candidatos a instrutores aprovados na prova prática é emitido título profissional.\n\n2 - O modelo de título profissional é fixado por despacho do presidente do Conselho Diretivo do IMT, I. P., e publicitado no sítio da Internet daquele instituto."
+  },
+  "223031729": {
+   "fragment_id": "223039041",
+   "type": 11,
+   "heading": "Artigo 47.º — Exercício da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Exercício da profissão\n\n1 - No exercício da profissão de instrutor, os requisitos previstos nas alíneas f) e g) do n.º 1 do artigo 37.º são de verificação permanente.\n\n2 - O título profissional de instrutor é válido pelo período nele indicado, sendo os limites do período de validade do título profissional correspondentes às datas em que o seu titular perfaça 30, 35, 40, 45, 50, 55 e 60 anos de idade e, posteriormente, por categoria de veículo, de acordo com os períodos previstos para a revalidação da respetiva carta de condução.\n\n3 - O título profissional deve ser revalidado nos seis meses anteriores ao termo da validade, mediante a frequência com aproveitamento de curso de atualização, cuja organização, duração e conteúdos são estabelecidos pela portaria referida no n.º 3 do artigo 69.º, podendo ser utilizadas ferramentas de ensino a distância.\n\n4 - Os instrutores que não revalidem o título profissional até ao termo da sua validade, nos termos do número anterior ou, quanto aos títulos referidos no n.º 4 do artigo seguinte, nos termos da legislação do Estado membro de origem, ficam impedidos de exercer a profissão enquanto não o revalidarem.\n\n5 - No caso previsto no número anterior, os instrutores estabelecidos em território nacional dispõem de dois anos para revalidarem o título profissional, prazo findo o qual este deixa de poder ser revalidado.\n\n6 - No caso de caducidade previsto no número anterior, pode ser requerido novo título profissional de instrutor de condução, mediante aprovação nas provas previstas no n.º 1 do artigo 39.º ou através de novo processo de reconhecimento de qualificações, nos termos do artigo seguinte.\n\n7 - Nos processos de revalidação da licença de instrutor e da carta de condução pode ser utilizado o mesmo certificado de avaliação médica e psicológica."
+  },
+  "223031730": {
+   "fragment_id": "223039042",
+   "type": 11,
+   "heading": "Artigo 48.º — Instrutores de condução de outros Estados membros da União Europeia ou do Espaço Económico Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Instrutores de condução de outros Estados membros da União Europeia ou do Espaço Económico Europeu\n\n1 - Os cidadãos nacionais de Estado membro da União Europeia ou do Espaço Económico Europeu cujas qualificações não tenham sido obtidas em território nacional e que neste se pretendam estabelecer como instrutores de condução acedem à profissão pelo reconhecimento das suas qualificações, nos termos da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente da secção I do seu capítulo III e do seu artigo 47.º, desde que possuam os requisitos previstos nas alíneas f) e g) do n.º 1 do artigo 37.º da presente lei.\n\n2 - Nas situações de reconhecimento das qualificações previstas no número anterior é emitido o título profissional previsto no n.º 2 do artigo 46.º, ficando os instrutores sujeitos aos demais requisitos de exercício da profissão constantes na presente lei.\n\n3 - Os cidadãos nacionais de outro Estado membro ou do Espaço Económico Europeu e aí legalmente estabelecidos para o exercício da profissão de instrutor de condução podem exercer essa profissão em território nacional de forma ocasional e esporádica, nos termos do artigo 6.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, ficando sujeitos aos requisitos de exercício da profissão estabelecidos pela presente lei e que lhes sejam aplicáveis, atenta a natureza temporária da prestação, nomeadamente, à obrigatoriedade de serem titulares de carta de condução válida para as categorias de veículos cujo ensino pretendam ministrar e aos requisitos constantes dos artigos 34.º a 36.º e 50.º.\n\n4 - Nos termos do procedimento de reconhecimento de qualificações referido no número anterior, o IMT, I. P., emite título profissional de instrutor de condução, cujo modelo é aprovado por despacho do presidente do Conselho Diretivo deste instituto e consta do seu sítio na Internet.\n\n5 - As medidas de compensação admissíveis nos termos da legislação referida nos n.os 1 e 3 são reguladas pela portaria referida no n.º 3 do artigo 69.º.\n\n6 - Os documentos que suportam os pedidos de reconhecimento das qualificações devem, em caso de justificada necessidade, ser acompanhados de tradução em forma simples."
+  },
+  "223031731": {
+   "fragment_id": "223039043",
+   "type": 11,
+   "heading": "Artigo 49.º — Equivalência da qualificação dos monitores do ensino da condução das forças militares e de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Equivalência da qualificação dos monitores do ensino da condução das forças militares e de segurança\n\nOs monitores do ensino da condução das forças armadas e das forças de segurança, após a passagem à reserva, à pré-aposentação, à reforma ou à aposentação, ou no decurso de licença registada, licença sem remuneração ou licença sem vencimento, bem como na situação de abate aos Quadros Permanentes, realizado a requerimento pelo militar, podem, no prazo de dois anos e mediante requerimento ao IMT, I. P., obter título profissional de instrutor válido para a ministração do ensino da condução, nas categorias em que se encontrem habilitados a ministrar formação, desde que possuam os requisitos previstos nas alíneas a), b) e f) do n.º 1 do artigo 37.º."
+  },
+  "223031732": {
+   "fragment_id": "223039044",
+   "type": 11,
+   "heading": "Artigo 50.º — Revogação do título profissional de instrutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Revogação do título profissional de instrutor\n\n1 - O IMT, I. P., revoga o título profissional ao instrutor que:\n\na) Tenha ministrado, participado ou auxiliado a ministração de ensino da condução em instalações não licenciadas ou em veículos que não obedeçam ao disposto no artigo 23.º;\n\nb) Tenha sido condenado por sentença transitada em julgado por crime praticado no exercício da profissão.\n\n2 - O titular de título profissional de instrutor revogado pode requerer a emissão de novo título profissional, decorridos cinco anos após a decisão definitiva de revogação, mediante a aprovação no exame a que se refere o n.º 1 do artigo 39.º ou através de novo processo de reconhecimento de qualificações nos termos do artigo 48.º."
+  },
+  "223031733": {
+   "fragment_id": "223039045",
+   "type": 1,
+   "heading": "Capítulo V — Dos diretores de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Dos diretores de escola de condução"
+  },
+  "223031734": {
+   "fragment_id": "223039046",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "223031735": {
+   "fragment_id": "223039047",
+   "type": 11,
+   "heading": "Artigo 51.º — Diretor de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Diretor de escola de condução\n\n1 - A atividade de diretor de escola de condução só pode ser exercida por indivíduo certificado pelo IMT, I. P., nos termos do artigo 53.º ou 55.º, conforme o caso aplicável.\n\n2 - A empresa exploradora de escola de condução dispõe obrigatoriamente de, pelo menos, um diretor devidamente certificado e habilitado a ministrar o ensino para as categorias de veículos a que o conjunto das escolas de condução exploradas se dedica, sem prejuízo do disposto na parte final da alínea a) do n.º 2 do artigo 17.º.\n\n3 - O diretor da escola de condução só pode ministrar o ensino da condução nas escolas exploradas pela empresa onde exerce aquela atividade.\n\n4 - O diretor da escola de condução deve designar um instrutor que o substitui nas suas faltas e impedimentos e que é responsável pelas contraordenações previstas na alínea c) do n.º 2 do artigo 64.º, enquanto durar a substituição.\n\n5 - A substituição temporária do diretor de escola de condução deve ser comunicada ao IMT, I. P., no prazo máximo de dois dias, contados do início da substituição.\n\n6 - A substituição temporária do diretor de escola de condução não pode exceder 45 dias em cada ano civil.\n\n7 - A substituição definitiva de diretor de escola de condução é objeto de mera comunicação prévia ao IMT, I. P."
+  },
+  "223031736": {
+   "fragment_id": "223039048",
+   "type": 11,
+   "heading": "Artigo 52.º — Deveres do diretor de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Deveres do diretor de escola de condução\n\n1 - São deveres do diretor de escola de condução:\n\na) Dirigir a atividade das escolas exploradas pela empresa para que presta funções, nos aspetos pedagógicos relacionados com o ensino de condução;\n\nb) Gerir a atividade administrativa das escolas de condução, nomeadamente no que respeita ao ensino e aos exames de condução;\n\nc) Coordenar, orientar e fiscalizar os instrutores de condução no exercício da sua atividade;\n\nd) Assegurar uma presença regular e supervisão contínua nas escolas onde exerce funções;\n\ne) Promover a atualização de conhecimentos dos instrutores de condução;\n\nf) Assegurar a adoção das metodologias de ensino mais adequadas ao ensino dos candidatos a condutor;\n\ng) Assegurar a planificação da formação e garantir os registos da evolução da aprendizagem dos candidatos a condutor;\n\nh) Fazer a avaliação formativa dos candidatos a condutor;\n\ni) Elaborar documento que contenha a formação ministrada ao candidato a condutor em caso de transferência de escola de condução;\n\nj) Analisar o registo das reclamações e propor as soluções adequadas, nos termos da lei aplicável;\n\nk) Comunicar à empresa para que presta funções as questões respeitantes aos instrutores de condução, à atividade do ensino da condução, às instalações e meios pedagógicos das escolas exploradas;\n\nl) Colaborar com o IMT, I. P., no exercício da sua atividade de fiscalização e de acompanhamento, bem como comparecer no mesmo instituto sempre que notificado para o efeito.\n\n2 - O diretor de escola de condução deve registar as avaliações formativas dos candidatos a condutor nas condições definidas pela portaria referida no n.º 3 do artigo 69.º, de modo a assegurar o cumprimento do disposto na alínea g) do número anterior."
+  },
+  "223031737": {
+   "fragment_id": "223039049",
+   "type": 8,
+   "heading": "Secção II — Acesso à atividade de diretor de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Acesso à atividade de diretor de escola de condução"
+  },
+  "223031738": {
+   "fragment_id": "223039050",
+   "type": 11,
+   "heading": "Artigo 53.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Requisitos de acesso\n\n1 - Sem prejuízo do disposto no artigo 55.º, o acesso à atividade de diretor de escola de condução depende do preenchimento dos seguintes requisitos:\n\na) Ter o 12.º ano de escolaridade ou equivalente;\n\nb) Ter título profissional válido de instrutor de condução há, pelo menos, cinco anos;\n\nc) Ser titular do certificado de aptidão pedagógica ou de certificado de competências pedagógicas de formador, ou qualificação equivalente, reconhecida nos termos da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;\n\nd) Ter frequentado o curso de formação para diretor de escola de condução ministrado por entidade formadora certificada;\n\ne) Ser aprovado no exame realizado pelo IMT, I. P.\n\n2 - As condições de formação e de realização do exame de diretor de escola de condução são definidas pela portaria referida no n.º 3 do artigo 69.º.\n\n3 - Os candidatos a diretor de escola de condução que reprovem ou faltem podem repetir o exame com dispensa, por uma única vez, de frequência de curso de formação.\n\n4 - Em caso de aprovação no exame referido na alínea e) do n.º 1, o IMT, I. P., emite o correspondente certificado."
+  },
+  "223031739": {
+   "fragment_id": "223039051",
+   "type": 8,
+   "heading": "Secção III — Exercício da atividade de diretor de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Exercício da atividade de diretor de escola de condução"
+  },
+  "223031740": {
+   "fragment_id": "223039052",
+   "type": 11,
+   "heading": "Artigo 54.º — Certificado de diretor de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Certificado de diretor de escola de condução\n\n1 - O certificado de diretor de escola de condução emitido nos termos do artigo anterior é válido enquanto se mantiver válido o seu título profissional de instrutor de condução.\n\n2 - Quando se verifique o estabelecido no n.º 5 do artigo 47.º, o certificado de diretor de escola de condução pode ser readquirido mediante aprovação no exame previsto na alínea e) do n.º 1 do artigo anterior, com dispensa da frequência do curso de formação.\n\n3 - O modelo do certificado de diretor de escola de condução é fixado por despacho do presidente do Conselho Diretivo do IMT, I. P."
+  },
+  "223031741": {
+   "fragment_id": "223039053",
+   "type": 11,
+   "heading": "Artigo 55.º — Diretores de outros Estados membros da União Europeia ou do Espaço Económico Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Diretores de outros Estados membros da União Europeia ou do Espaço Económico Europeu\n\n1 - Os cidadãos nacionais de Estado membro da União Europeia ou do Espaço Económico Europeu cujas qualificações não tenham sido obtidas em território nacional e neste se pretendam estabelecer como diretores de escolas de condução acedem à atividade pelo reconhecimento das suas qualificações nos termos da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente da secção I do seu capítulo III e do seu artigo 47.º.\n\n2 - Nas situações de reconhecimento das qualificações previstas no número anterior é emitido o certificado previsto no artigo 54.º, ficando os diretores de escolas de condução sujeitos aos demais requisitos de exercício da profissão constantes na presente lei.\n\n3 - As medidas de compensação admissíveis nos termos da legislação referida no n.º 1 são reguladas pela portaria referida no n.º 3 do artigo 69.º.\n\n4 - Os documentos que suportam os pedidos de reconhecimento das qualificações devem, em caso de justificada necessidade, ser acompanhados de tradução em forma simples."
+  },
+  "223031742": {
+   "fragment_id": "223039054",
+   "type": 11,
+   "heading": "Artigo 56.º — Revogação e caducidade do certificado de diretor de escola de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Revogação e caducidade do certificado de diretor de escola de condução\n\n1 - O certificado de diretor de escola de condução é revogado ao diretor condenado por crime praticado no exercício da profissão com sentença transitada em julgado.\n\n2 - O titular do certificado de diretor de escola de condução revogado pode requerer a emissão de novo certificado, decorridos cinco anos após a decisão definitiva de revogação, desde que observe o estabelecido no n.º 2 do artigo 54.º ou através de novo processo de reconhecimento de qualificações, nos termos do artigo 55.º.\n\n3 - A revogação ou caducidade do título profissional de instrutor emitido nos termos do artigo 53.º determina a caducidade do certificado de diretor de escola de condução."
+  },
+  "223031743": {
+   "fragment_id": "223039055",
+   "type": 1,
+   "heading": "Capítulo VI — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Entidades formadoras"
+  },
+  "223031744": {
+   "fragment_id": "223039056",
+   "type": 11,
+   "heading": "Artigo 57.º — Certificação de entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Certificação de entidades formadoras\n\n1 - A certificação de entidades formadoras de instrutores e diretores de escolas de condução segue os trâmites previstos na regulamentação específica da certificação de entidades formadoras, com as seguintes adaptações:\n\na) A entidade competente para a certificação é o IMT, I. P.;\n\nb) Não podem ser certificadas como entidades formadoras de instrutores de condução e de diretores de escolas de condução as entidades que desenvolvam atividades associadas aos exames de condução;\n\nc) Os formadores devem possuir, como habilitações literárias mínimas, o 12.º ano de escolaridade e as competências para o exercício da profissão de instrutor ou, em alternativa, licenciatura em área adequada às matérias a ministrar, sem prejuízo do reconhecimento de qualificações obtidas fora de Portugal por formadores cidadãos de Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;\n\nd) Os demais requisitos específicos, em complemento ou derrogação dos requisitos constantes da regulamentação específica da certificação de entidades formadoras, são aprovados pela portaria referida no n.º 3 do artigo 69.º.\n\n2 - A certificação de entidades formadoras pelo IMT, I. P., seja expressa ou tácita, é comunicada ao serviço central competente do ministério responsável pela área da formação profissional, no prazo de 10 dias.\n\n3 - A falta superveniente de qualquer dos requisitos de certificação deve ser suprida no prazo de 90 dias a contar da sua ocorrência.\n\n4 - O decurso do prazo previsto no número anterior, sem que a falta seja suprida, determina a revogação da certificação e a cassação do certificado pelo IMT, I. P.\n\n5 - Não é reconhecida validade aos cursos ministrados em território nacional por entidade formadora não certificada."
+  },
+  "223031745": {
+   "fragment_id": "223039057",
+   "type": 11,
+   "heading": "Artigo 58.º — Comunicação dos cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Comunicação dos cursos de formação\n\n1 - As entidades formadoras certificadas nos termos da presente lei e da regulamentação específica da certificação de entidades formadoras devem apresentar ao IMT, I. P., mera comunicação prévia, nos termos do disposto na alínea b) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de julho, relativamente a cada curso de formação, com os seguintes elementos:\n\na) Identificação da ação a ministrar, com data de início, duração, horário de funcionamento e local;\n\nb) Cópia dos manuais de formação do curso ou acesso eletrónico a estes pelo IMT, I. P.;\n\nc) Identificação dos formadores e respetivas qualificações, salvo se já tiver sido anteriormente entregue no IMT, I. P., caso em que basta essa referência;\n\nd) Identificação dos formandos.\n\n2 - O disposto no número anterior aplica-se às entidades formadoras legalmente estabelecidas noutro Estado membro da União Europeia ou do espaço económico europeu para ministrar cursos equivalentes aos referidos no n.º 1 que pretendam ministrar cursos de formação em território nacional, conformes à presente lei, de forma ocasional e esporádica, nos termos da portaria referida no n.º 3 do artigo 69.º.\n\n3 - Não é reconhecida validade aos cursos de formação que não cumpram os requisitos previstos na presente lei e na portaria referida no n.º 3 do artigo 69.º."
+  },
+  "223031746": {
+   "fragment_id": "223039058",
+   "type": 11,
+   "heading": "Artigo 59.º — Deveres das entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Deveres das entidades formadoras\n\n1 - São deveres das entidades formadoras, inclusive das que prestem serviços ocasionais e esporádicos em território nacional, em regime de livre prestação de serviços:\n\na) Organizar e desenvolver as ações de formação em conformidade com o estabelecido na presente lei e na portaria referida no n.º 3 do artigo 69.º;\n\nb) Observar princípios de independência e de igualdade de tratamento de todos os candidatos à formação e formandos;\n\nc) Comunicar previamente ao IMT, I. P., a realização das ações de formação, nos termos do artigo anterior, e a sua alteração, com a antecedência de 10 e de 3 dias, respetivamente, e realizá-las de acordo com a comunicação efetuada;\n\nd) Colaborar nas ações de acompanhamento e de avaliação técnico-pedagógica realizadas pelo IMT, I. P.;\n\ne) Fornecer ao IMT, I. P., os elementos relativos ao exercício da atividade, sempre que tal lhes seja solicitado;\n\nf) Manter, pelo período de cinco anos, o registo das ações de formação realizadas em território nacional, bem como os processos individuais dos formandos;\n\ng) Comunicar ao IMT, I. P., no prazo de 10 dias, a mudança de sede ou estabelecimento principal em território nacional, nos casos aplicáveis.\n\n2 - O incumprimento pelas entidades formadoras dos deveres estabelecidos no número anterior pode determinar, sem prejuízo do disposto na alínea d) do n.º 2 do artigo 64.º, a aplicação, pelo conselho diretivo do IMT, I. P., das seguintes sanções administrativas, em função da respetiva gravidade:\n\na) Advertência escrita;\n\nb) Suspensão do exercício da atividade de formação, pelo período máximo de um ano;\n\nc) Cancelamento da certificação da entidade formadora, com a cassação do correspondente certificado.\n\n3 - As sanções previstas no número anterior são publicitadas no sítio da Internet do IMT, I. P."
+  },
+  "223031747": {
+   "fragment_id": "223039059",
+   "type": 11,
+   "heading": "Artigo 60.º — Acompanhamento técnico-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Acompanhamento técnico-pedagógico\n\n1 - O IMT, I. P., efetua o acompanhamento técnico-pedagógico das ações de formação, o qual visa, nomeadamente, apoiar e incentivar a qualidade da formação, através do controlo efetivo da sua conformidade com as condições e termos legalmente estabelecidos.\n\n2 - As entidades formadoras estabelecidas em território nacional devem enviar, anualmente, ao IMT, I. P., relatório da atividade, nos termos da portaria referida no n.º 3 do artigo 69.º."
+  },
+  "223031748": {
+   "fragment_id": "223039060",
+   "type": 11,
+   "heading": "Artigo 61.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Registo\n\nO IMT, I. P., organiza e mantém atualizado um registo das entidades que exercem a atividade de formação e das sanções que lhes forem aplicadas nos termos da presente lei."
+  },
+  "223031749": {
+   "fragment_id": "223039061",
+   "type": 1,
+   "heading": "Capítulo VII — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Regime sancionatório"
+  },
+  "223031750": {
+   "fragment_id": "223039062",
+   "type": 11,
+   "heading": "Artigo 62.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Fiscalização\n\n1 - Sem prejuízo das competências das forças de segurança, a fiscalização do cumprimento do disposto na presente lei compete ao IMT, I. P.\n\n2 - Quando o procedimento sancionatório não seja da sua competência, o IMT, I. P., comunica às entidades competentes as irregularidades verificadas.\n\n3 - As entidades referidas nos números anteriores podem proceder, junto das pessoas singulares ou coletivas que desenvolvam qualquer das atividades previstas na presente lei, às verificações e investigações necessárias para o exercício da sua competência fiscalizadora, nos termos da lei."
+  },
+  "223031751": {
+   "fragment_id": "223039063",
+   "type": 11,
+   "heading": "Artigo 63.º — Suspensão cautelar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Suspensão cautelar\n\n1 - No âmbito de uma ação de fiscalização pode ser determinado o encerramento temporário das instalações da escola de condução, quando:\n\na) As condições de higiene, salubridade e segurança das mesmas, verificadas mediante parecer da entidade competente em razão da matéria, bem como o seu equipamento pedagógico, ponham em sério risco a segurança das pessoas e a qualidade do ensino;\n\nb) As instalações e o equipamento pedagógico não obedeçam ao declarado nos processos de licenciamento de empresa exploradora de escolas de condução ou de comunicação prévia de abertura de escola de condução.\n\n2 - O encerramento temporário das instalações tem o prazo máximo de 90 dias.\n\n3 - Durante o período de encerramento temporário o titular de licença de escola de condução deve corrigir as situações irregulares e requerer uma vistoria ao IMT, I. P., que verifica se as irregularidades foram corrigidas.\n\n4 - Caso o titular de licença de escola de condução não tenha procedido à correção das irregularidades que levaram ao encerramento temporário das instalações, é encerrada compulsivamente a escola de condução em causa, nos termos do artigo 33.º."
+  },
+  "223031752": {
+   "fragment_id": "223039064",
+   "type": 11,
+   "heading": "Artigo 64.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima de (euro) 2500 a (euro) 12500 e de (euro) 5000 a (euro) 25000, conforme se trate de pessoa singular ou coletiva, respetivamente:\n\na) A exploração de escola de condução por empresa sem licença, em violação do disposto no n.º 1 do artigo 14.º;\n\nb) A ministração do ensino da condução por indivíduo sem título profissional de instrutor, em violação do disposto no artigo 34.º,\n\nc) O exercício da atividade de diretor de escola de condução por indivíduo sem a certificação prevista no n.º 1 do artigo 51.º;\n\nd) O exercício da atividade de formação por entidade não certificada nos termos do artigo 57.º;\n\ne) A ministração do ensino da condução em veículo que não obedeça ao estatuído no artigo 23.º, sem prejuízo do disposto no artigo 7.º\n\n2 - Constitui contraordenação punível com coima de (euro) 250 a (euro) 1250 e de (euro) 500 a (euro) 2 500, conforme se trate de pessoa singular ou coletiva, respetivamente:\n\na) A violação dos deveres da empresa exploradora de escola de condução, estabelecidos no artigo 20.º;\n\nb) A violação dos deveres do instrutor de condução, estabelecidos no artigo 35.º;\n\nc) A violação dos deveres do diretor de escola de condução, estabelecidos no artigo 52.º;\n\nd) A violação dos deveres da entidade formadora certificada, estabelecidos no artigo 59.º;\n\ne) O não cumprimento das obrigações de comunicação previstas na presente lei;\n\nf) O não cumprimento pelo candidato a condutor da obrigação prevista no n.º 7 do artigo 8.º\n\n3 - Constitui contraordenação punível com coima de (euro) 1000 a (euro) 5000, o não cumprimento das disposições relativas ao tutor previstas no artigo 7.º.\n\n4 - A negligência e a tentativa são puníveis, reduzindo-se para metade os limites mínimos e máximos dos montantes das coimas.\n\n5 - É sempre admissível o pagamento voluntário das coimas previstas na presente lei."
+  },
+  "223031753": {
+   "fragment_id": "223039065",
+   "type": 11,
+   "heading": "Artigo 65.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Sanções acessórias\n\n1 - No caso das contraordenações previstas nas alíneas a) a c) do n.º 2 do artigo anterior pode também ser aplicada a sanção acessória de suspensão da licença de exploração de escolas de condução, do título profissional de instrutor e do certificado de diretor de escola de condução, respetivamente, pelo período de 30 dias a um ano.\n\n2 - A execução da sanção acessória prevista no número anterior pode ser suspensa nos casos em que a coima se encontre paga e o infrator não tenha sido condenado pela prática de contraordenação à presente lei nos últimos três anos.\n\n3 - Qualquer dos títulos suspensos nos termos do n.º 1 deve ser entregue pelo seu titular ao IMT, I. P., sob pena de apreensão."
+  },
+  "223031754": {
+   "fragment_id": "223039066",
+   "type": 11,
+   "heading": "Artigo 66.º — Processos das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Processos das contraordenações\n\n1 - A instrução e o processamento das contraordenações previstas na presente lei competem ao IMT, I. P., e observam o regime geral das contraordenações.\n\n2 - A aplicação das coimas e das sanções acessórias é da competência do Conselho Diretivo do IMT, I. P."
+  },
+  "223031755": {
+   "fragment_id": "223039067",
+   "type": 11,
+   "heading": "Artigo 67.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Destino das coimas\n\nO produto das coimas aplicadas reverte a favor das seguintes entidades:\n\na) 60 % para o Estado;\n\nb) 30 % para o IMT, I. P.;\n\nc) 10 % para a entidade que levantou o auto."
+  },
+  "223031756": {
+   "fragment_id": "223039068",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "223031757": {
+   "fragment_id": "223039069",
+   "type": 11,
+   "heading": "Artigo 68.º — Desmaterialização de atos e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Desmaterialização de atos e procedimentos\n\n1 - Todos os pedidos, comunicações e notificações previstos na presente lei e nas portarias referidas nos n.os 1 e 3 do artigo 69.º são efetuados por meios eletrónicos, através da plataforma eletrónica de informação do IMT, I. P., acessível através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, sendo admissível qualquer outro meio legal sempre que aquela plataforma não esteja disponível.\n\n2 - A todos os procedimentos administrativos previstos na presente lei, para cuja instrução ou decisão final seja legal ou regulamentarmente exigida a apresentação de certidões ou declarações de entidades administrativas, aplica-se o disposto na alínea d) do artigo 5.º do Decreto-Lei n.º 92/2010, de 26 de julho, e nos diplomas previstos no artigo 4.º da Lei n.º 110/2009, de 16 de setembro.\n\n3 - A informação prestada no âmbito dos procedimentos previstos na presente lei é confirmada pelo IMT, I. P., com base nos registos dos contribuintes, no registo comercial, nos registos da segurança social, no registo criminal e por recurso à cooperação administrativa referida no artigo 71.º, se aplicável.\n\n4 - A verificação da informação com recurso a bases de dados nacionais é efetuada automaticamente aquando da submissão dos pedidos no balcão único eletrónico dos serviços, através da interconexão às bases de dados dos organismos públicos competentes, detentores da informação, devendo a informação disponibilizada ser restrita à verificação dos requisitos constantes da presente lei.\n\n5 - A informação referida no número anterior relativa aos contribuintes é confirmada através de ligação à base de dados da Autoridade Tributária e Aduaneira (AT), nos termos a definir em protocolo assinado entre o IMT, I. P., e a AT.\n\n6 - A informação dos dados de identificação dos requerentes e do registo comercial referida no n.º 3 é confirmada através da ligação à base de dados do Instituto dos Registos e Notariado, I. P., nos termos a definir em protocolo a celebrar entre o IMT, I. P., e aquele instituto público.\n\n7 - A informação referida no n.º 3 relativa à regularização da situação contributiva junto da segurança social é confirmada e atualizada através de ligação à base de dados da segurança social, nos termos a definir em protocolo a celebrar entre o IMT, I. P., o Instituto da Segurança Social, I. P., e o Instituto de Informática, I. P., nunca podendo ser facultadas informações para além da existência ou não de dívidas à segurança social.\n\n8 - A informação referida no n.º 3 relativa ao registo criminal é confirmada através da ligação à base de dados da Direção-Geral da Administração da Justiça (DGAJ), nos termos a definir em protocolo a celebrar entre o IMT, I. P., e a DGAJ.\n\n9 - Os protocolos referidos nos n.os 5 a 8 devem concretizar a finalidade do tratamento da informação, as categorias dos titulares e dos dados a analisar e as condições da sua comunicação às entidades envolvidas, bem como especificar as medidas de segurança adotadas, os controlos a que devem ser sujeitos os utilizadores do sistema e as condições em que devem ser efetuadas auditorias periódicas aos terminais, sendo submetidos a prévia apreciação da Comissão Nacional de Proteção de Dados."
+  },
+  "223031758": {
+   "fragment_id": "223039070",
+   "type": 11,
+   "heading": "Artigo 69.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Regulamentação\n\n1 - Sem prejuízo do disposto nos números seguintes, a presente lei deve ser regulamentada por portaria do membro do Governo responsável pela área dos transportes, no prazo de 90 dias após a sua publicação.\n\n2 - A regulamentação do disposto no artigo 11.º deve ser efetuada por portaria dos membros do Governo responsáveis pelas áreas da justiça e dos transportes.\n\n3 - A regulamentação prevista nos capítulos IV a VI da presente lei deve ser efetuada por portaria dos membros do Governo responsáveis pelas áreas do emprego e dos transportes."
+  },
+  "223031759": {
+   "fragment_id": "223039071",
+   "type": 11,
+   "heading": "Artigo 70.º — Reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Reconhecimento mútuo\n\n1 - Nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre os requisitos exigíveis para a autorização e o exercício de atividade das escolas de condução, dos profissionais e das entidades formadoras previstos na presente lei e os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em Portugal ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu.\n\n2 - O disposto no número anterior não é aplicável ao cumprimento das condições diretamente referentes a instalações físicas localizadas em território nacional, aos conteúdos para a ministração do ensino teórico com vista a obtenção de carta de condução de outro Estado membro da União Europeia ou do Espaço Económico Europeu, nem aos respetivos controlos por autoridade competente.\n\n3 - Sem prejuízo do disposto nos números anteriores, o reconhecimento mútuo de requisitos relativos a qualificações rege-se pelo disposto na Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto."
+  },
+  "223031760": {
+   "fragment_id": "223039072",
+   "type": 11,
+   "heading": "Artigo 71.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Cooperação administrativa\n\nPara efeitos da aplicação da presente lei, as autoridades competentes participam na cooperação administrativa no âmbito dos procedimentos relativos a empresas, profissionais e entidades formadoras provenientes de outros Estados membros, bem como às empresas que ministrem o ensino da condução referido no n.º 2 do artigo 2.º, nos termos do disposto no capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente através do Sistema de Informação do Mercado Interno."
+  },
+  "223031761": {
+   "fragment_id": "223039073",
+   "type": 11,
+   "heading": "Artigo 72.º — Integração no Sistema Nacional de Qualificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Integração no Sistema Nacional de Qualificações\n\n1 - A formação e a certificação estabelecidas pela presente lei devem ser articuladas com o Catálogo Nacional de Qualificações, nos termos da legislação aplicável, de forma a contribuir para a elevação dos níveis de qualificação.\n\n2 - A articulação prevista no número anterior é promovida pela Agência Nacional para a Qualificação e Ensino Profissional, I. P., e Direção-Geral do Emprego e das Relações do Trabalho, em articulação com o IMT, I. P., de acordo com as respetivas competências."
+  },
+  "223031762": {
+   "fragment_id": "223039074",
+   "type": 11,
+   "heading": "Artigo 73.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Taxas\n\n1 - É devido o pagamento de taxas ao IMT, I. P., pelos atos relativos a licenciamentos, emissão de títulos profissionais, certificações e receção e tratamento de comunicações previstos na presente lei, no momento da apresentação dos respetivos requerimentos ou comunicações.\n\n2 - As taxas referidas no número anterior são fixadas por portaria do membro do Governo responsável pela área dos transportes e constituem receita do IMT, I. P."
+  },
+  "223031763": {
+   "fragment_id": "223031775",
+   "type": 11,
+   "heading": "Artigo 74.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Regiões autónomas\n\n1 - Os atos e os procedimentos necessários à execução da presente lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - Nos termos do n.º 1 do artigo 17.º do Decreto-Lei n.º 92/2010, de 26 de julho, os controlos exercidos, quer pelos organismos da administração central quer pelos serviços competentes das administrações das regiões autónomas, no âmbito da presente lei, são válidos para todo o território nacional, excetuados os referentes a determinadas instalações físicas."
+  },
+  "223031764": {
+   "fragment_id": "223031776",
+   "type": 11,
+   "heading": "Artigo 75.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Disposições transitórias\n\n1 - Os titulares de alvará de escola de condução emitidos antes da entrada em vigor da presente lei são considerados empresas exploradoras de escolas de condução nos termos desta, sem prejuízo do disposto nos números seguintes.\n\n2 - Os titulares de alvará das escolas de condução existentes à data da entrada em vigor da presente lei dispõem de 180 dias para comprovar perante o IMT, I. P., o requisito referido no artigo 18.º, sob pena de revogação do alvará pelo IMT, I. P., com as consequências previstas para a revogação da licença de exploração de escolas de condução.\n\n3 - As empresas exploradoras de escolas de condução que possuam veículos licenciados para a instrução antes da entrada em vigor da presente lei devem proceder ao registo no Documento de Identificação do Veículo da adaptação e transformação do veículo para o ensino da condução, antes de o submeterem a inspeção periódica, nos termos do Decreto-Lei n.º 144/2012, de 11 de julho.\n\n4 - As licenças de subdiretor de escola de condução emitidas ao abrigo do Decreto-Lei n.º 86/98, de 3 de abril, valem como certificados de diretor de escola de condução nos termos da presente lei, devendo ser substituídas oficiosa e gratuitamente no momento da revalidação da respetiva licença de instrutor.\n\n5 - As licenças de instrutor de condução e as licenças de diretor emitidas ao abrigo do Decreto-Lei n.º 86/98, de 3 de abril, valem como títulos profissionais de instrutor e certificados de diretor de escola de condução, respetivamente, nos termos da presente lei.\n\n6 - Os instrutores de condução cujas licenças caducaram ao abrigo do regime previsto no Decreto-Lei n.º 86/98, de 3 de abril, beneficiam do regime previsto no n.º 5 do artigo 47.º da presente lei.\n\n7 - Os instrutores habilitados antes da entrada em vigor da presente lei podem substituir, por uma única vez, a frequência do curso de atualização de instrutor pela frequência, com aproveitamento, do curso de formação pedagógica de formador.\n\n8 - Os instrutores de condução que tenham obtido a modalidade de teoria da condução ao abrigo do Decreto-Lei n.º 86/98, de 3 de abril, ficam dispensados da prova teórica de disposições específicas no processo de habilitação à condução das categorias A1, A2 e A.\n\n9 - Os instrutores de condução que tenham obtido a modalidade de técnica da condução ao abrigo do Decreto-Lei n.º 86/98, de 3 de abril, ficam dispensados da prova teórica de disposições específicas no processo de habilitação à condução das categorias C1, C, D1 e D.\n\n10 - Os instrutores habilitados antes da entrada em vigor da presente lei que participem na formação prática dos candidatos a instrutor prevista no n.º 4 do artigo 38.º devem possuir certificação pedagógica de formador.\n\n11 - As entidades formadoras autorizadas à data da entrada em vigor da presente lei devem obter, no prazo de um ano, certificação nos termos do artigo 57.º\n\n12 - O incumprimento do disposto no número anterior determina a caducidade do reconhecimento."
+  },
+  "223031765": {
+   "fragment_id": "223031777",
+   "type": 11,
+   "heading": "Artigo 76.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 86/98, de 3 de abril, com as alterações introduzidas pela Lei n.º 51/98, de 18 de agosto, pelo Decreto-Lei n.º 315/99, de 11 de agosto, e pelo Decreto-Lei n.º 127/2004, de 1 de junho;\n\nb) O Decreto Regulamentar n.º 5/98, de 9 de abril, com as alterações introduzidas pelo Decreto Regulamentar n.º 20/2000, de 19 de dezembro, e pelo Decreto Regulamentar n.º 22/2004, de 7 de junho;\n\nc) A Portaria n.º 790/98, de 22 de setembro, com as alterações introduzidas pela Portaria n.º 528/2000, de 28 de julho."
+  },
+  "223031766": {
+   "fragment_id": "223031778",
+   "type": 11,
+   "heading": "Artigo 77.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Entrada em vigor\n\nA presente lei entra em vigor 90 dias após a data da sua publicação."
+  },
+  "223031768": {
+   "fragment_id": "223039056",
+   "type": 11,
+   "heading": "Artigo 57.º — Certificação de entidades formadoras",
+   "in_force_from": "2023-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 92/2023 - Diário da República n.º 198/2023, Série I de 2023-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2023-222695020), em vigor a partir de 2023-10-13, produz efeitos a partir de 2023-09-01"
+   ],
+   "markdown": "###### Artigo 57.º — Certificação de entidades formadoras\n\n1 - A certificação de entidades formadoras de instrutores e diretores de escolas de condução segue os trâmites previstos na regulamentação específica da certificação de entidades formadoras, com as seguintes adaptações:\n\na) A entidade competente para a certificação é o IMT, I. P.;\n\nb) [Revogada.]\n\nc) Os formadores devem possuir, como habilitações literárias mínimas, o 12.º ano de escolaridade e as competências para o exercício da profissão de instrutor ou, em alternativa, licenciatura em área adequada às matérias a ministrar, sem prejuízo do reconhecimento de qualificações obtidas fora de Portugal por formadores cidadãos de Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;\n\nd) Os demais requisitos específicos, em complemento ou derrogação dos requisitos constantes da regulamentação específica da certificação de entidades formadoras, são aprovados pela portaria referida no n.º 3 do artigo 69.º.\n\n2 - A certificação de entidades formadoras pelo IMT, I. P., seja expressa ou tácita, é comunicada ao serviço central competente do ministério responsável pela área da formação profissional, no prazo de 10 dias.\n\n3 - A falta superveniente de qualquer dos requisitos de certificação deve ser suprida no prazo de 90 dias a contar da sua ocorrência.\n\n4 - O decurso do prazo previsto no número anterior, sem que a falta seja suprida, determina a revogação da certificação e a cassação do certificado pelo IMT, I. P.\n\n5 - Não é reconhecida validade aos cursos ministrados em território nacional por entidade formadora não certificada.\n\n> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 92/2023 - Diário da República n.º 198/2023, Série I de 2023-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2023-222695020), em vigor a partir de 2023-10-13, produz efeitos a partir de 2023-09-01"
+  },
+  "223031767": {
+   "fragment_id": "223031779",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 24 de janeiro de 2014.\n\nO Presidente da Assembleia da República, em exercício, Guilherme Silva.\n\nPromulgada em 5 de março de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 10 de março de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1130025775": {
+   "fragment_id": "223038989",
+   "type": 11,
+   "heading": "Artigo 5.º — Ensino da condução",
+   "in_force_from": "2026-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+   ],
+   "markdown": "###### Artigo 5.º — Ensino da condução\n\n1 - Sem prejuízo das disposições previstas nos artigos 7.º, 10.º e 11.º, o ensino da condução é ministrado em escola de condução e formaliza-se através de contrato escrito celebrado entre o candidato a condutor e a empresa que explore a escola de condução em causa.\n\n2 - Os elementos e termos obrigatórios do contrato referido no número anterior são os constantes da portaria referida no n.º 1 do artigo 69.º.\n\n3 - O contrato referido no n.º 1 obriga a escola de condução a:\n\na) Promover a organização do processo do candidato a condutor com os elementos legalmente exigidos;\n\nb) Emitir e entregar ao candidato a condutor cópia da ficha de inscrição;\n\nc) Desenvolver o processo de aprendizagem de acordo com os conteúdos programáticos e demais condições fixadas na lei;\n\nd) Realizar a avaliação formativa do candidato a condutor;\n\ne) Proceder à comunicação prévia do tutor responsável pela condução acompanhada prevista no artigo 7.º\n\nf) Realizar o teste de aferição de competências práticas para efeitos de propositura a exame de condução, nos termos previstos no artigo 7.º;\n\ng) Propor o candidato a condutor às provas do exame de condução.\n\n4 - Deve, ainda, ser celebrado contrato escrito entre a empresa que explore escola de condução e:\n\na) O indivíduo já habilitado a conduzir, para a reaquisição de competências de condução na categoria de veículos para que se encontre habilitado;\n\nb) O candidato a condutor dispensado de frequência de formação obrigatória em escola de condução, nos termos dos n.ºs 2 e 3 do artigo 33.º do RHLC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+  },
+  "1130025975": {
+   "fragment_id": "223038990",
+   "type": 11,
+   "heading": "Artigo 6.º — Modalidades de ensino",
+   "in_force_from": "2026-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+   ],
+   "markdown": "###### Artigo 6.º — Modalidades de ensino\n\n1 - O ensino da condução compreende as seguintes modalidades:\n\na) Ensino teórico de condução, onde são transmitidas as regras de segurança rodoviária, trânsito e sinalização;\n\nb) Ensino prático de condução, onde são desenvolvidas as competências do candidato a condutor ao nível do controlo do veículo em circulação e exercício de uma condução segura.\n\n2 - O ensino teórico é constituído por:\n\na) Módulo comum de segurança rodoviária, para as categorias A1, A2, A, B1 e B;\n\nb) Módulo específico de segurança rodoviária, para as categorias C1, C, D1 e D;\n\nc) Módulo de teoria da condução, que pode ser realizado com recurso a formação à distância ou através de ensino presencial;\n\nd) Módulos complementares teórico-práticos, de frequência presencial obrigatória para todas as categorias de habilitação.\n\n3 - O módulo de formação teórica previsto na alínea c) do número anterior pode ser ministrado com recurso a ferramentas de ensino a distância, que devem registar o número de horas de permanência dos candidatos a condutor nos diversos temas e a respetiva avaliação formativa, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n4 - Nos casos referidos no número anterior, a escola de condução onde o candidato a condutor se encontra inscrito é responsável por assegurar que este frequentou as horas obrigatórias na plataforma de ensino a distância e obteve avaliação positiva.\n\n5 - O ensino prático da condução pode ser ministrado por:\n\na) Instrutor de condução;\n\nb) Tutor.\n\n6 - No ensino prático de condução, o candidato a condutor deve cumprir, cumulativamente, o número mínimo de horas de condução e quilómetros percorridos, a registar em equipamento próprio, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n7 - Podem ser utilizados no ensino prático, como suporte e complemento à formação, simuladores de condução, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n8 - A ministração do ensino das categorias C1E, CE, D1E e DE é restrita à modalidade de prática de condução.\n\n9 - Os conteúdos programáticos para a ministração do ensino teórico e prático são os previstos para o exame de condução, constantes nas partes I e II do Anexo VII do RHLC.\n\n10 - Sem prejuízo do disposto nos n.ºs 2 e 3 do artigo 33.º do RHLC, o candidato a condutor só pode ser admitido à prova teórica e à prova prática do exame de condução após ter concluído, respetivamente o ensino teórico e o ensino prático, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+  },
+  "1130026175": {
+   "fragment_id": "223038991",
+   "type": 11,
+   "heading": "Artigo 7.º — Aprendizagem acompanhada por tutor para habilitação da categoria B",
+   "in_force_from": "2026-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+   ],
+   "markdown": "###### Artigo 7.º — Aprendizagem acompanhada por tutor para habilitação da categoria B\n\n1 - O candidato inscrito em escola de condução pode optar pela modalidade de ensino prático da condução acompanhado por tutor para obtenção da carta de condução da categoria B.\n\n2 - A função de tutor não pode ser remunerada, a qualquer título.\n\n3 - Só pode ser tutor quem preencha, cumulativamente, os seguintes requisitos:\n\na) Ser titular de habilitação legal para conduzir veículos de categoria B, emitida em Portugal ou em qualquer Estado-Membro da União Europeia há pelo menos 10 anos ou reconhecida pelas autoridades portuguesas há pelo menos cinco anos, desde que, neste último caso, a habilitação tenha sido emitida pelo respetivo país há pelo menos dez anos;\n\nb) Não ter sido condenado pela prática de crime rodoviário ou de contraordenação rodoviária grave ou muito grave, nos últimos cinco anos;\n\nc) Não ser instrutor ou examinador de condução.\n\n4 - Antes de iniciar a condução acompanhada por tutor, a escola de condução em que o candidato a condutor se encontra inscrito deve comunicar esta opção do candidato ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), por via eletrónica a disponibilizar pelo IMT, I. P., onde identifica o tutor e indica que o mesmo cumpre o respetivo regime, nos termos a especificar por deliberação do conselho diretivo do IMT, I. P.\n\n5 - Na condução acompanhada por tutor não é permitido:\n\na) Transporte de passageiros;\n\nb) Circular em autoestradas ou vias equiparadas.\n\n6 - O tutor é responsável pelos danos e infrações praticadas pelo candidato a condutor no exercício da condução acompanhada, desde que não resultem de desobediência às indicações da tutoria.\n\n7 - No âmbito da condução acompanhada por tutor, é obrigatório que o seguro de responsabilidade civil automóvel obrigatório, associado ao veículo ou ao condutor, na qualidade de tutor, cubra os danos provocados pelo candidato a condutor.\n\n8 - Relativamente à cobertura prevista no número anterior:\n\na) Não é aplicável o direito de regresso do segurador previsto na primeira parte da alínea d) do n.º 1 do artigo 27.º do Decreto-Lei n.º 291/2007, de 21 de agosto;\n\nb) A empresa de seguros tem direito de regresso contra o tutor em caso de incumprimento das condições fixadas no n.º 5, sem prejuízo do previsto na alínea g) do n.º 2 do artigo 14.º do Decreto-Lei n.º 291/2007, de 21 de agosto;\n\nc) Salvo convenção em contrário, o tutor e o candidato a condutor integram também os seus beneficiários;\n\nd) Quando se traduza num contrato autónomo, é-lhe aplicável o regime geral do seguro obrigatório de responsabilidade civil automóvel, com ressalva do previsto nas alíneas anteriores, e, com as devidas adaptações, as condições contratuais aprovadas pela Autoridade de Supervisão de Seguros e Fundos de Pensões, nos termos do artigo 91.º do Decreto-Lei n.º 291/2007, de 21 de agosto.\n\n9 - O candidato a condutor só pode ser proposto a exame 90 dias após a declaração previsto no n.º 4.\n\n10 - Terminado o ensino prático de condução, o candidato a condutor pode:\n\na) Propor-se a exame de condução, aplicando-se o regime de autopropositura;\n\nb) Realizar teste de aferição na escola de condução onde se encontra inscrito, para verificação das suas competências práticas e definição das horas de formação prática complementar.\n\n11 - O candidato que opte por propor-se a exame de condução sem realizar o teste de aferição de competências práticas e não obtenha aprovação pode apenas propor-se novamente em regime de autopropositura decorridos quatro meses.\n\n12 - Durante a condução acompanhada por tutor, o veículo deve estar devidamente identificado, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n13 - Cada tutor pode acompanhar a formação prática, por cada período de 10 anos, no máximo, de cinco candidatos a condutor.\n\n14 - O tutor deve assegurar que a circulação não se realiza em vias ou períodos caracterizados por um elevado volume de tráfego, adequando o itinerário e o horário da condução acompanhada em função das condições de segurança rodoviária.\n\n15 - O cumprimento do disposto no número anterior pode ser verificado pela Polícia de Segurança Pública (PSP) e pela Guarda Nacional Republicana (GNR), podendo ser determinado, em caso de incumprimento, o imediato afastamento do veículo do candidato a condutor e do tutor.\n\n16 - Sem prejuízo do disposto no n.º 14, os municípios podem aprovar regulamentos que identifiquem áreas de elevado volume de tráfego vedadas à prática da condução acompanhada por tutor, desde que integradas na respetiva esfera de jurisdição.\n\n17 - Podem ser identificados, através de portaria dos membros do Governo responsáveis pelas áreas dos transportes e da segurança rodoviária, e mediante proposta da PSP, da GNR, da Infraestruturas de Portugal, S. A., ou dos municípios, vias vedadas à prática da condução acompanhada por tutor, que não estejam integradas na esfera de jurisdição dos municípios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+  },
+  "1130026375": {
+   "fragment_id": "223039003",
+   "type": 11,
+   "heading": "Artigo 17.º — Capacidade técnica",
+   "in_force_from": "2026-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+   ],
+   "markdown": "###### Artigo 17.º — Capacidade técnica\n\n1 - A empresa exploradora de escola de condução deve assegurar a existência de uma estrutura e organização interna adequadas, com os recursos humanos em número suficiente e habilitados com as competências adequadas, que permitam o desenvolvimento da atividade do ensino da condução, de acordo com as exigências estabelecidas e o número de escolas que explore.\n\n2 - São requisitos mínimos de aferição da competência técnica:\n\na) Um diretor de escola de condução responsável pela coordenação pedagógica, devendo a empresa dispor, no mínimo, de um diretor por cada duas escolas de condução exploradas em território nacional;\n\nb) Instalações e equipamento pedagógico de suporte à formação adequados, que garantam a qualidade da formação dos candidatos a condutor e a acessibilidade, mobilidade e comodidade dos seus utilizadores, incluindo os cidadãos com mobilidade condicionada;\n\nc) Pelo menos um veículo adaptado ao ensino da condução por cada categoria de ensino e por cada escola de condução, sem prejuízo do disposto no n.º 1 do artigo 30.º;\n\nd) Área adequada ao estacionamento dos veículos referidos na alínea anterior.\n\n3 - A empresa exploradora de escolas de condução deve informar, por mera comunicação prévia, o IMT, I. P., sempre que deseje afetar veículos ao ensino da condução.\n\n4 - As condições relativas ao requisito estabelecido na alínea b) do n.º 2 e os termos da comunicação referida no número anterior são fixadas na portaria prevista no n.º 1 do artigo 69.º.\n\n5 - Pode ser autorizado o funcionamento temporário de escola de condução em instalações provisórias, desde que estas disponham de condições adequadas para a ministração do ensino da condução, nos termos a definir pela portaria referida no n.º 1 do artigo 69.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+  },
+  "1130026575": {
+   "fragment_id": "223039018",
+   "type": 11,
+   "heading": "Artigo 30.º — Partilha e locação de veículos",
+   "in_force_from": "2026-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+   ],
+   "markdown": "###### Artigo 30.º — Partilha e locação de veículos\n\n1 - É permitida a partilha de veículos pesados de instrução entre empresas exploradoras de escolas de condução, bem como a locação de veículos pesados devidamente certificados para ensino de condução.\n\n2 - Sem prejuízo do disposto na alínea c) do n.º 2 do artigo 17.º, é permitida a partilha de veículos ligeiros de instrução entre escolas de condução, bem como a locação de veículos ligeiros devidamente certificados para ensino de condução.\n\n3 - As condições de partilha e locação de veículos são estabelecidas na portaria referida no n.º 1 do artigo 69.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2026-1129514952), em vigor a partir de 2026-07-05."
+  }
+ }
+}

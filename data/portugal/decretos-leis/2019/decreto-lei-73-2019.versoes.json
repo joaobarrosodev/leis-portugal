@@ -1,0 +1,545 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122419057:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-172358782",
+ "dre_path": "/dr/detalhe/decreto-lei/73-2019-122419057",
+ "source_lastmod": "2025-10-31",
+ "versions": [
+  {
+   "date": "2019-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "172382675",
+    "172382676",
+    "172382677",
+    "172382678",
+    "172382679",
+    "172382680",
+    "172382681",
+    "172382682",
+    "943530992",
+    "943530993",
+    "943530994",
+    "943530995",
+    "943530996",
+    "943530997",
+    "943530998",
+    "943530999",
+    "943531000",
+    "943531001",
+    "943531002",
+    "943531003",
+    "172382695",
+    "172382696",
+    "172382697",
+    "172382698",
+    "172382699",
+    "172382700",
+    "172382701",
+    "172382702",
+    "172382703",
+    "172382704",
+    "172382705",
+    "172382706",
+    "172382707",
+    "172382708",
+    "172382709",
+    "172382710",
+    "172382711",
+    "172382712",
+    "172382713",
+    "172382714"
+   ]
+  },
+  {
+   "date": "2023-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835994078:por",
+     "title": "Decreto-Lei n.º 139-B/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/139-b-2023-835994078"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "172382675",
+    "172382676",
+    "172382677",
+    "172382678",
+    "172382679",
+    "172382680",
+    "172382681",
+    "172382682",
+    "943531004",
+    "943530992",
+    "943530993",
+    "943530994",
+    "943530995",
+    "943530996",
+    "943530997",
+    "943530998",
+    "943530999",
+    "943531000",
+    "943531001",
+    "943531002",
+    "943531003",
+    "172382695",
+    "172382696",
+    "172382697",
+    "172382698",
+    "172382699",
+    "943531005",
+    "172382701",
+    "172382702",
+    "172382703",
+    "172382704",
+    "172382705",
+    "172382706",
+    "172382707",
+    "172382708",
+    "172382709",
+    "172382710",
+    "172382711",
+    "172382712",
+    "172382713",
+    "172382714",
+    "172382715"
+   ]
+  },
+  {
+   "date": "2025-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:917593145:por",
+     "title": "Decreto-Lei n.º 78/2025",
+     "published": "2025-05-12",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2025-917593145"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "172382675",
+    "172382676",
+    "172382677",
+    "172382678",
+    "172382679",
+    "172382680",
+    "172382681",
+    "172382682",
+    "943531004",
+    "943530992",
+    "943530993",
+    "943530994",
+    "943530995",
+    "943530996",
+    "943530997",
+    "943530998",
+    "943530999",
+    "943531000",
+    "943531001",
+    "943531002",
+    "943531003",
+    "172382695",
+    "172382696",
+    "172382697",
+    "172382698",
+    "172382699",
+    "943531006",
+    "172382701",
+    "943531007",
+    "172382703",
+    "172382704",
+    "172382705",
+    "172382706",
+    "172382707",
+    "172382708",
+    "172382709",
+    "172382710",
+    "172382711",
+    "172382712",
+    "172382713",
+    "172382714",
+    "172382715"
+   ]
+  }
+ ],
+ "fragments": {
+  "172382675": {
+   "fragment_id": "172358783",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 73/2019\n\nde 28 de maio\n\nA difusão da língua e da cultura portuguesas pelo mundo e o aprofundamento das relações com os Estados de língua oficial portuguesa é um objetivo do XXI Governo Constitucional.\n\nNesse sentido, a criação de uma escola portuguesa no Brasil, mais concretamente no Estado de São Paulo, é uma aposta importantíssima no alcançar desse objetivo, tendo em conta os laços de história, amizade e identidade cultural entre os dois países.\n\nNeste quadro, o presente decreto-lei procede à criação da Escola Portuguesa de São Paulo, de currículo português e integrada na rede de escolas portuguesas do Ministério da Educação, sediadas em território estrangeiro.\n\nÀ Escola é conferida ampla autonomia administrativa, financeira e pedagógica.\n\nInsere-se, assim, numa nova geração de escolas públicas portuguesas no estrangeiro, caracterizadas pelo reforço da importância dos respetivos órgãos, dispondo de autonomia e flexibilidade na gestão e desenvolvimento local do currículo, adotando soluções adequadas aos contextos e às necessidades específicas dos seus alunos, de modo que desenvolvam os princípios, os valores e as áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória, que permitem fazer face à evolução em cada área de saber e à imprevisibilidade dos desafios do mundo global em que vivemos.\n\nNeste novo paradigma, é dada a oportunidade a estas escolas de construírem projetos educativos inclusivos, alicerçados em culturas escolares que valorizam o respeito pela diversidade humana e cultural, pela defesa dos direitos humanos e pelo exercício de uma cidadania informada, participativa e democrática.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "172382676": {
+   "fragment_id": "172358784",
+   "type": 1,
+   "heading": "Capítulo I — Criação, natureza e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Criação, natureza e objetivos"
+  },
+  "172382677": {
+   "fragment_id": "172358785",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criada a Escola Portuguesa de São Paulo - Centro de Ensino da Língua e Cultura Portuguesa (EPSP-CELP), da titularidade do Estado Português, com sede na cidade de São Paulo, adiante abreviadamente designada por Escola."
+  },
+  "172382678": {
+   "fragment_id": "172358786",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - A Escola é um estabelecimento público de educação e de ensino com a mesma natureza dos estabelecimentos públicos de educação e de ensino do sistema educativo português e ministra a educação pré-escolar e os ensinos básico e secundário.\n\n2 - Sem prejuízo do disposto no número anterior, a Escola é dotada de autonomia administrativa e financeira e rege-se pelo regime financeiro previsto nos artigos 43.º e seguintes do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual.\n\n3 - No âmbito da sua autonomia pedagógica, a Escola pode celebrar:\n\na) Protocolos ou acordos de colaboração com outras entidades públicas e privadas com vista ao alargamento da sua oferta educativa ou formativa desde que devidamente autorizada pelo membro do Governo responsável pela área da educação;\n\nb) Contratos de autonomia.\n\n4 - A autonomia, a administração e a gestão da Escola funcionam sob o princípio da responsabilidade e da prestação de contas do Estado.\n\n5 - Sem prejuízo dos poderes cometidos ao Ministério da Educação no presente decreto-lei, a Escola pode, por decisão do Ministério da Educação, com o acordo do Ministério dos Negócios Estrangeiros, vir a obter, nos termos do direito local, personalidade jurídica, de direito público ou de direito privado, se tal for necessário para prossecução dos seus objetivos."
+  },
+  "172382679": {
+   "fragment_id": "172358787",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nConstituem objetivos da Escola:\n\na) Promover e difundir a língua e a cultura portuguesas;\n\nb) Promover os laços linguísticos e culturais entre Portugal e o Brasil;\n\nc) Assegurar as ofertas educativas do sistema educativo português da educação pré-escolar, do ensino básico geral e dos cursos científico-humanísticos do ensino secundário;\n\nd) Assegurar a oferta de cursos com planos curriculares próprios que permitam o prosseguimento de estudos no ensino superior nos sistemas português e brasileiro, em articulação com as autoridades portuguesas e brasileiras competentes;\n\ne) Contribuir para a promoção socioeducativa de recursos humanos;\n\nf) Proporcionar uma formação de base cultural portuguesa;\n\ng) Assegurar uma oferta educativa de matriz portuguesa para filhos de portugueses;\n\nh) Instalar e manter um centro de ensino da língua e cultura portuguesas."
+  },
+  "172382680": {
+   "fragment_id": "172358788",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de atuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios de atuação\n\nConstituem princípios de atuação da Escola:\n\na) Valorização da pluralidade e diversidade da população escolar com a inclusão de alunos portugueses e brasileiros, bem como de outras nacionalidades;\n\nb) Oferta de funcionamento de todos os níveis de educação e de ensino, desde a educação pré-escolar até ao final do ensino secundário;\n\nc) Assunção da importância das orientações científica e pedagógica da responsabilidade do Estado Português;\n\nd) Possibilidade de criação de novas disciplinas ou da introdução de adaptações curriculares em disciplinas dos planos curriculares dos ensinos básico e secundário de forma a contemplar a realidade local e assegurar o objetivo de prosseguimento de estudos no ensino nos sistemas português e brasileiro;\n\ne) Promoção de um plano de formação contínua de docentes com vista ao enriquecimento da capacitação e da proficiência em língua portuguesa;\n\nf) Acesso a professores, alunos e servidores da rede estadual de ensino ao Centro de Ensino da Língua e Cultura Portuguesa;\n\ng) Afirmação de uma identidade que permita constituir-se como um centro de referência de apoio à cooperação portuguesa nas áreas cultural, científica, tecnológica e da educação e formação;\n\nh) Reconhecimento da gestão e racionalização de custos de forma sustentável de modo a viabilizar a continuidade da atividade no futuro, conjugada com o autofinanciamento da Escola."
+  },
+  "172382681": {
+   "fragment_id": "172358789",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gestão\n\n1 - A gestão da Escola e a prestação do serviço público de educação é efetuada diretamente pelo Estado Português.\n\n2 - Sem prejuízo das especificidades previstas no presente decreto-lei, a gestão da Escola é efetuada de acordo com o regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual."
+  },
+  "172382682": {
+   "fragment_id": "172358790",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica e gestão"
+  },
+  "943530992": {
+   "fragment_id": "943650539",
+   "type": 8,
+   "heading": "Secção I — Conselho de patronos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho de patronos"
+  },
+  "943530993": {
+   "fragment_id": "943650540",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição\n\n1 - O conselho de patronos tem a seguinte composição:\n\na) O Cônsul Geral de Portugal no Estado de São Paulo, que, por inerência, preside;\n\nb) Um representante do Ministério da Educação português;\n\nc) Um representante da associação de pais e encarregados de educação dos alunos da Escola ou quem os representa.\n\n2 - Podem ainda fazer parte do conselho de patronos individualidades ou representantes de entidades que se tenham distinguido no apoio ao funcionamento da Escola, na promoção e na divulgação da língua e da cultura portuguesas no Brasil ou dos laços linguísticos e culturais entre os povos português e brasileiro, a designar por despacho do membro do Governo responsável pela área da educação, até ao limite de quatro.\n\n3 - A participação nos trabalhos do conselho de patronos não confere aos respetivos titulares o direito a qualquer remuneração ou abono."
+  },
+  "943530994": {
+   "fragment_id": "943650541",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências\n\nO conselho de patronos é o órgão responsável pela definição das linhas orientadoras da atividade da Escola, competindo-lhe, em especial:\n\na) Aprovar o projeto educativo;\n\nb) Aprovar o regimento interno de funcionamento;\n\nc) Aprovar o plano anual de atividades;\n\nd) Definir as linhas orientadoras para a elaboração do orçamento;\n\ne) Aprovar o orçamento;\n\nf) Apreciar e aprovar o relatório de contas de gerência;\n\ng) Emitir parecer sobre a proposta das quantias a cobrar pelos serviços prestados, nomeadamente o montante da mensalidade;\n\nh) Aprovar as propostas de contratos de autonomia, nos termos do artigo 23.º;\n\ni) Realizar as demais funções previstas na lei;\n\nj) Proceder ao acompanhamento geral das atividades da Escola."
+  },
+  "943530995": {
+   "fragment_id": "943650542",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funcionamento e mandato\n\n1 - Os membros do conselho de patronos elegem, de entre si, um vice-presidente.\n\n2 - O conselho de patronos reúne:\n\na) Ordinariamente, duas vezes por ano, mediante convocatória do seu presidente;\n\nb) Extraordinariamente, por iniciativa do seu presidente ou da maioria dos seus membros.\n\n3 - A duração do mandato de cada elemento do conselho de patronos, com exceção do presidente, é de três anos, podendo o mesmo ser renovado.\n\n4 - Sempre que o presidente considere que as deliberações do conselho de patronos podem pôr em causa o interesse público ou a prossecução dos objetivos da Escola, deve submetê-las a homologação do membro do Governo responsável pela área da educação, suspendendo-se a sua execução.\n\n5 - As deliberações do conselho de patronos são adotadas por maioria dos votos expressos, não podendo o conselho reunir se representada menos de metade dos votos.\n\n6 - A cada membro do conselho de patronos corresponde um voto, cabendo a cada um dos membros referidos no n.º 1 do artigo 7.º um voto adicional."
+  },
+  "943530996": {
+   "fragment_id": "943650543",
+   "type": 8,
+   "heading": "Secção II — Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direção"
+  },
+  "943530997": {
+   "fragment_id": "943650544",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição\n\n1 - A direção da Escola é composta por um diretor e dois subdiretores.\n\n2 - Os membros da direção da Escola são recrutados de entre indivíduos que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, sendo-lhes aplicáveis, com as necessárias adaptações, as regras previstas na portaria que aprova o procedimento de seleção dos cargos de direção da Escola.\n\n3 - Os membros da direção da Escola são designados em comissão de serviço pelo período de quatro anos, por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação.\n\n4 - O diretor e os subdiretores são equiparados, para efeitos remuneratórios, a dirigentes superiores de 1.º e 2.º grau, respetivamente."
+  },
+  "943530998": {
+   "fragment_id": "943650545",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\n1 - O diretor tem os poderes de administração e gestão da Escola nas áreas pedagógica, cultural, administrativa, financeira e patrimonial.\n\n2 - Compete ao diretor:\n\na) Representar a Escola;\n\nb) Distribuir o serviço docente e não docente;\n\nc) Designar os coordenadores dos departamentos e os diretores de turma;\n\nd) Exercer o poder hierárquico em relação ao pessoal docente e não docente;\n\ne) Exercer o poder disciplinar em relação aos alunos;\n\nf) Intervir, nos termos da lei, no processo de avaliação de desempenho do pessoal docente;\n\ng) Proceder à avaliação de desempenho do pessoal não docente;\n\nh) Gerir as instalações, espaços e equipamentos, bem como outros recursos educativos;\n\ni) Proceder à seleção e recrutamento de pessoal docente e não docente;\n\nj) Celebrar, renovar e rescindir contratos de trabalho do pessoal docente e não docente contratados localmente;\n\nk) Autorizar a realização de despesas e o respetivo pagamento, fiscalizar a cobrança de receitas e verificar a legalidade da gestão financeira da Escola;\n\nl) Estabelecer protocolos e celebrar acordos de cooperação com outras escolas ou instituições de formação;\n\nm) Promover e incentivar o relacionamento com a comunidade educativa;\n\nn) Elaborar o orçamento;\n\no) Propor aos membros do Governo responsáveis pela área dos negócios estrangeiros, das finanças e da educação a aprovação do valor da mensalidade fixado pela direção;\n\np) Praticar todos os atos necessários ao normal funcionamento dos serviços e órgãos no âmbito da gestão dos recursos financeiros, materiais e patrimoniais, designadamente:\n\ni) Autorizar, dentro dos limites estabelecidos pelo respetivo orçamento anual, transferências de verbas subordinadas à mesma classificação orgânica e a antecipação até dois duodécimos por rubrica, com limites fixados pelo Ministério das Finanças;\n\nii) Autorizar a constituição de fundos permanentes das dotações do respetivo orçamento, com exceção das rubricas referentes a pessoal, até ao limite de um duodécimo;\n\niii) Celebrar contratos de seguro e de arrendamento e autorizar a respetiva atualização, nos termos da lei.\n\n3 - Compete, ainda, ao diretor, ouvido o conselho pedagógico:\n\na) Elaborar e submeter à aprovação do conselho de patronos:\n\ni) As alterações ao regimento interno de funcionamento;\n\nii) Os planos anual e plurianual de atividades;\n\niii) O relatório de atividades;\n\niv) As propostas de celebração de contrato de autonomia;\n\nb) Aprovar o plano de formação e atualização do pessoal docente e não docente;\n\nc) Definir o regime de funcionamento da Escola;\n\nd) Superintender na constituição de turmas e na elaboração de horários.\n\n4 - O diretor submete à aprovação do conselho de patronos o projeto educativo elaborado pelo conselho pedagógico.\n\n5 - O diretor pode delegar nos subdiretores as competências referidas nos números anteriores, com exceção da prevista na alínea f) do n.º 2.\n\n6 - O diretor é substituído, nas suas ausências e impedimentos, pelo subdiretor que designar."
+  },
+  "943530999": {
+   "fragment_id": "943650546",
+   "type": 8,
+   "heading": "Secção III — Conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho pedagógico"
+  },
+  "943531000": {
+   "fragment_id": "943650547",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - O conselho pedagógico é o órgão de coordenação e supervisão pedagógica e orientação educativa da Escola, de orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.\n\n2 - A composição do conselho pedagógico é da responsabilidade da Escola, a definir no regimento interno de funcionamento, não devendo ultrapassar o máximo de 17 membros, observando os seguintes princípios:\n\na) Participação dos coordenadores dos departamentos curriculares;\n\nb) Participação das demais estruturas de coordenação e supervisão pedagógica e de orientação educativa, assegurando uma representação pluridisciplinar e das diferentes ofertas formativas.\n\n3 - O diretor é, por inerência, o presidente do conselho pedagógico."
+  },
+  "943531001": {
+   "fragment_id": "943650548",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências\n\nSem prejuízo das competências atribuídas por lei ou pelo regimento interno de funcionamento, cabe ao conselho pedagógico exercer as competências legais definidas no regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário."
+  },
+  "943531002": {
+   "fragment_id": "943650549",
+   "type": 8,
+   "heading": "Secção IV — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Outras estruturas"
+  },
+  "943531003": {
+   "fragment_id": "943650550",
+   "type": 11,
+   "heading": "Artigo 14.º — Estruturas de orientação educativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estruturas de orientação educativa\n\nO regimento interno de funcionamento fixa, nos termos do regime jurídico referido no n.º 2 do artigo 5.º, as estruturas que colaboram com a direção e com o conselho pedagógico no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos."
+  },
+  "172382695": {
+   "fragment_id": "172358803",
+   "type": 1,
+   "heading": "Capítulo III — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gestão financeira e patrimonial"
+  },
+  "172382696": {
+   "fragment_id": "172358804",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrumentos de gestão\n\nNa prossecução dos seus objetivos, a Escola administra os recursos que lhe estão afetos, tendo em consideração os princípios de gestão por objetivos, utilizando os seguintes instrumentos de gestão:\n\na) Planos de atividades e financeiros, anuais e plurianuais;\n\nb) Orçamento anual;\n\nc) Relatório de atividades e financeiro, sendo a contabilidade da Escola organizada de forma analítica."
+  },
+  "172382697": {
+   "fragment_id": "172358805",
+   "type": 11,
+   "heading": "Artigo 16.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Património\n\nO património da Escola é constituído pelos direitos e bens recebidos ou adquiridos no âmbito dos seus objetivos ou para o exercício da sua atividade."
+  },
+  "172382698": {
+   "fragment_id": "172358806",
+   "type": 11,
+   "heading": "Artigo 17.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Receitas\n\n1 - Constituem receitas da Escola:\n\na) A mensalidade, emolumentos e multas;\n\nb) O produto resultante dos serviços prestados;\n\nc) O produto da venda das suas publicações;\n\nd) O rendimento de bens próprios;\n\ne) Os juros das contas de depósitos e outras aplicações financeiras em quaisquer instituições bancárias;\n\nf) Outras receitas que lhe sejam atribuídas por lei, subsídios, subvenções, comparticipações, doações, heranças ou legados.\n\n2 - Os saldos apurados no fim de cada exercício, relativamente às receitas próprias, transitam para o exercício seguinte."
+  },
+  "172382699": {
+   "fragment_id": "172358807",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "172382700": {
+   "fragment_id": "172358808",
+   "type": 11,
+   "heading": "Artigo 18.º — Pessoal docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pessoal docente\n\n1 - Aos docentes da Escola é aplicável o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual.\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado com professores integrados na carreira do ensino público português, em regime de mobilidade e localmente, com recurso ao procedimento de contratação de escola, nos termos dos artigos 38.º e seguintes do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual.\n\n3 - Esgotada localmente a possibilidade de contratação de pessoal para o exercício de funções docentes, com os requisitos previstos nas alíneas b) e f) do artigo 22.º do ECD pode proceder-se, a título excecional, à contratação de trabalhadores com o grau académico de licenciado, habilitados cientificamente para a docência da área disciplinar ou disciplinas em falta.\n\n4 - Podem ainda exercer funções na Escola docentes que se encontrem em licença sem remuneração.\n\n5 - Para o exercício de funções de coordenação educativa e supervisão pedagógica, em regime de exclusividade ou em acumulação com a função docente e por recurso à mobilidade, pode ainda ser colocado na Escola pessoal da carreira docente do ensino público português.\n\n6 - À contratação local do pessoal docente é aplicável o regime jurídico de trabalho local, não conferindo a mesma qualquer vínculo à Administração Pública Portuguesa.\n\n7 - A remuneração do pessoal docente referido no número anterior é fixada nos termos do artigo 43.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual.\n\n> Nota: [Artigo 10.º, Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145) O regime previsto nos n.ºs 8 a 10 do presente artigo, apenas é aplicável às colocações de docentes que tenham lugar a partir do dia 1 de setembro de 2025."
+  },
+  "172382701": {
+   "fragment_id": "172358809",
+   "type": 11,
+   "heading": "Artigo 19.º — Pessoal não docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pessoal não docente\n\nO recrutamento do pessoal para o exercício de funções não docentes na Escola é efetuado através de contratação local de trabalhadores, nos termos de legislação própria."
+  },
+  "172382702": {
+   "fragment_id": "172358810",
+   "type": 11,
+   "heading": "Artigo 20.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Garantias\n\n1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.\n\n2 - A concessão de licença que tenha como fundamento a celebração de contrato para o desempenho de funções nas escolas portuguesas no estrangeiro considera-se fundamentada em circunstâncias de interesse público.\n\n3 - Os membros da direção, os docentes e o pessoal não docente que se desloquem de Portugal para o exercício de funções em regime de mobilidade têm direito ao reembolso das seguintes despesas, nos termos e em montantes a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças, dos negócios estrangeiros e da educação:\n\na) Com a instalação no local de trabalho;\n\nb) Com a residência no local de trabalho;\n\nc) Com as suas viagens ou dos membros do seu agregado familiar, incluindo as bagagens;\n\nd) Com seguros de saúde para si e para os membros do seu agregado familiar."
+  },
+  "172382703": {
+   "fragment_id": "172358811",
+   "type": 11,
+   "heading": "Artigo 21.º — Proteção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Proteção social\n\n1 - Ao pessoal docente e não docente contratado localmente para o exercício de funções na Escola aplica-se a legislação de segurança social brasileira, sem prejuízo do disposto em instrumento bilateral de segurança social celebrado entre Portugal e o Brasil.\n\n2 - Complementarmente, em condições a fixar por despacho do membro do Governo responsável pela área da educação e sob proposta da direção, pode ser celebrado contrato de seguro para cobertura das eventualidades não abrangidas pelo regime de proteção social brasileiro, sendo esses encargos suportados, nas percentagens de 35 % e 65 %, pelo docente e pela Escola, não podendo a comparticipação do trabalhador, para a formação do prémio de seguro, exceder o montante que o mesmo teria de suportar com a inscrição no regime geral de segurança social português para proteção nas mesmas eventualidades."
+  },
+  "172382704": {
+   "fragment_id": "172358812",
+   "type": 11,
+   "heading": "Artigo 22.º — Mapa de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Mapa de pessoal\n\nO pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a elaborar pelo diretor e a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da educação."
+  },
+  "172382705": {
+   "fragment_id": "172358813",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "172382706": {
+   "fragment_id": "172358814",
+   "type": 8,
+   "heading": "Secção I — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições finais"
+  },
+  "172382707": {
+   "fragment_id": "172358815",
+   "type": 11,
+   "heading": "Artigo 23.º — Contrato de autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Contrato de autonomia\n\n1 - Ao contrato de autonomia, caso o mesmo venha a ser celebrado, é aplicável a legislação portuguesa, com as necessárias adaptações.\n\n2 - O conselho de patronos exerce, relativamente ao processo de celebração do contrato de autonomia, as competências atribuídas ao conselho geral na legislação portuguesa aplicável."
+  },
+  "172382708": {
+   "fragment_id": "172358816",
+   "type": 11,
+   "heading": "Artigo 24.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Avaliação\n\n1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior previsto na legislação portuguesa, sem prejuízo do disposto nas alíneas d) dos artigos 3.º e 4.º\n\n2 - É aplicável ao pessoal docente em exercício de funções na Escola o regime de avaliação de desempenho constante do ECD e demais legislação portuguesa, com as necessárias adaptações."
+  },
+  "172382709": {
+   "fragment_id": "172358817",
+   "type": 8,
+   "heading": "Secção II — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições transitórias"
+  },
+  "172382710": {
+   "fragment_id": "172358818",
+   "type": 11,
+   "heading": "Artigo 25.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Organização interna\n\nO primeiro regimento interno de funcionamento da Escola é submetido pelo conselho de patronos à aprovação do membro do Governo responsável pela área da educação."
+  },
+  "172382711": {
+   "fragment_id": "172358819",
+   "type": 11,
+   "heading": "Artigo 26.º — Nome da Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Nome da Escola\n\nPor despacho do membro do Governo responsável pela área da educação, pode ser atribuída à Escola uma denominação que corresponda ao nome de uma personalidade que se tenha distinguido no âmbito da cultura, ciência ou educação."
+  },
+  "172382712": {
+   "fragment_id": "172358820",
+   "type": 11,
+   "heading": "Artigo 27.º — Início de atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Início de atividades\n\nA Escola inicia a sua atividade no ano letivo seguinte ao da sua autorização de funcionamento."
+  },
+  "172382713": {
+   "fragment_id": "172358821",
+   "type": 11,
+   "heading": "Artigo 28.º — Contratação transitória de pessoal não docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Contratação transitória de pessoal não docente\n\n1 - Até à entrada em vigor da legislação referida no artigo 19.º, a Escola pode proceder à contratação de pessoal não docente, localmente, na modalidade de contrato de trabalho a termo incerto nos termos dos artigos 56.º e seguintes da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n2 - Aos contratos referidos no número anterior são aplicáveis as alíneas a) e b) do n.º 5 do artigo 1.º da LTFP."
+  },
+  "172382714": {
+   "fragment_id": "172358822",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "943531004": {
+   "fragment_id": "943650551",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos\n\nA Escola dispõe dos seguintes órgãos:\n\na) O conselho de patronos;\n\nb) A direção;\n\nc) O conselho pedagógico."
+  },
+  "943531005": {
+   "fragment_id": "172358808",
+   "type": 11,
+   "heading": "Artigo 18.º — Pessoal docente",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30"
+   ],
+   "markdown": "###### Artigo 18.º — Pessoal docente\n\n1 - Aos docentes da Escola é aplicável o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual.\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30"
+  },
+  "172382715": {
+   "fragment_id": "172358823",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de maio de 2019. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Tiago Brandão Rodrigues.\n\nPromulgado em 21 de maio de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 22 de maio de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112324266"
+  },
+  "943531006": {
+   "fragment_id": "172358808",
+   "type": 11,
+   "heading": "Artigo 18.º — Pessoal docente",
+   "in_force_from": "2025-05-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2015-09-01",
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30"
+   ],
+   "markdown": "###### Artigo 18.º — Pessoal docente\n\n1 - Aos docentes da Escola é aplicável o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual.\n\n2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - O docente que, em resultado de concurso, aceite a colocação fica obrigado ao cumprimento de um período mínimo de dois anos de permanência na Escola, a contar da data do início de funções.\n\n9 - O incumprimento do disposto no número anterior constitui o docente na obrigação de indemnizar a Escola do valor correspondente aos custos suportados com o pagamento do apoio à instalação no local de trabalho e determina a perda do direito ao pagamento dos apoios ao regresso a Portugal e relativo à viagem de regresso a Portugal, para si e para os membros do seu agregado familiar, previstos nas alíneas a) e c) do n.º 4 do artigo 20.º, exceto se for devido a motivo de força maior ou a facto não imputável ao docente.\n\n10 - Para o efeito do disposto na parte final do número anterior, constitui motivo de força maior ou facto não imputável ao docente, designadamente:\n\na) Acidente de trabalho;\n\nb) Doença profissional;\n\nc) Internamento hospitalar e tratamento ambulatório na sequência daquele;\n\nd) Doença incapacitante do próprio que exija tratamento prolongado; ou\n\ne) Instabilidade política ou social devidamente reconhecida pelo Estado Português.\n\n> Nota: [Artigo 10.º, Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145) O regime previsto nos n.ºs 8 a 10 do presente artigo, apenas é aplicável às colocações de docentes que tenham lugar a partir do dia 1 de setembro de 2025.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2015-09-01\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 139-B/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2023-835994078), em vigor a partir de 2023-12-30"
+  },
+  "943531007": {
+   "fragment_id": "172358810",
+   "type": 11,
+   "heading": "Artigo 20.º — Garantias",
+   "in_force_from": "2025-05-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 20.º — Garantias\n\n1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.\n\n2 - A concessão de licença que tenha como fundamento a celebração de contrato para o desempenho de funções na Escola considera-se fundamentada em circunstâncias de interesse público.\n\n3 - O exercício de funções docentes no quadro da Escola confere ao docente de carreira vinculado a quadro de agrupamento de escolas, de escola não agrupada ou de quadro de zona pedagógica, consoante o caso, o direito à manutenção do seu lugar de origem, pelo período de até quatro anos.\n\n4 - Os membros da direção da Escola, os adjuntos e os docentes que se desloquem de Portugal para o exercício de funções na Escola têm direito aos seguintes apoios, nos termos e nos montantes a definir por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação:\n\na) Apoio à instalação no local de trabalho e ao regresso a Portugal;\n\nb) Apoio ao custo da residência no local de trabalho, o qual é pago mensalmente, 12 vezes por ano, e é determinado tendo em conta os índices de custo de vida da Organização das Nações Unidas, constantes da publicação mais recente do ‘UN Bulletin of Statistics’, bem como critérios inerentes ao nível de risco e à insalubridade no país do exercício das funções;\n\nc) Apoio relativo à viagem de ida para o país do exercício das funções e de regresso a Portugal, no início e na cessação de funções, para si e para os membros do seu agregado familiar, podendo a sua realização por cada uma dessas pessoas ter lugar em datas distintas;\n\nd) Apoio relativo a uma viagem de ida para Portugal e de regresso ao país do exercício das funções, por cada ano civil de exercício na Escola que não coincida com o do início nem com o da cessação de funções, para si e para os membros do seu agregado familiar, podendo a sua realização por cada uma dessas pessoas ter lugar em datas distintas;\n\ne) Apoio relativo a prémios de seguros de saúde, para si e para os membros do seu agregado familiar;\n\nf) Isenção do pagamento de matrículas, propinas e outras despesas devidas pela frequência dos seus descendentes na Escola.\n\n5 - No caso dos docentes que se desloquem de Portugal para o exercício de funções na Escola, o apoio relativo à viagem de ida e de regresso, para si e para os membros do seu agregado familiar, previsto na alínea d) do número anterior, é devido, no máximo, três vezes.\n\n6 - O docente que cumpra um período de quatro anos de exercício de funções contínuas na Escola tem direito a um prémio de permanência, equivalente ao valor da sua remuneração base mensal, pago uma única vez, no mês seguinte a ter completado os quatro anos.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2015-09-01"
+  }
+ }
+}

@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:550188:por
+title: Decreto Regulamentar n.º 65/94
+short_title: null
+summary: Regulamenta a atribuição de habilitação legal para conduzir
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 65/94
+official_date: null
+publication_date: '1994-11-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 267/1994, Série I-B de 1994-11-18
+  number: '267'
+  series: I
+  supplement: null
+  pages: 6876 - 6878
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/11/267b00/68766878.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/65/1994/11/18/p/dre/pt/html
+  oj: null
+  dre: '550188'
+  dre_path: /dr/detalhe/decreto-regulamentar/65-1994-550188
+  internal: pt:dre:550188:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1994-550188
+  metadata_url: https://data.dre.pt/eli/decregul/65/1994/11/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1994-550188
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 896409002f1b14256d4b0cbb45e3f5d5dfb1b4b6245c0d904b0d4f839e8a8a87
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carta de Condução
+- Código da Estrada
+- Direcção Geral de Viação
+- Exame de Condução
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:423602:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:462002:por
+  label: "Alterados os arts. 3.º e 4.º pelo DR.19/95.1995.07.18.MAI DR.IS-B [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-1995-462002
+  date: '1995-07-18'
+- type: amended_by
+  target: pt:dre:469198:por
+  label: "Alterado o art 9º pelo DR.10/97.1997.04.21.MAI, DR.IS-B [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-1997-469198
+  date: '1997-04-21'
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: repealed_by
+  target: pt:dre:423602:por
+  label: "Revogado pelo DEC LEI. 209/98.1998.07.15.MAI, DR.IS-A [161]I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1998-423602
+  date: '1998-07-15'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:22:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 65/94
+
+de 18 de Novembro
+
+Os artigos 124.º a 132.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, dispõem sobre a habilitação legal para conduzir.
+
+Em alguns destes artigos, remete-se para regulamento matérias que, pelo seu carácter técnico, estão sujeitas mais frequentemente a alterações legislativas.
+
+Importa, pois, dar execução a esses preceitos.
+
+Assim:
+
+Ao abrigo do disposto nos artigos 125.º e 130.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Títulos de habilitação para a condução
+
+1 - Os títulos de habilitação para a condução podem, nos termos definidos no Código da Estrada, assumir a forma seguinte:
+
+a) Carta de condução;
+
+b) Licença de condução;
+
+c) Licença especial de condução.
+
+2 - As cartas de condução, as licenças de condução e as licenças especiais de condução serão de modelo aprovado por despacho do Ministro da Administração Interna, sob proposta da Direcção-Geral de Viação, ouvida a Direcção-Geral da Administração Autárquica, quando se trate de licenças de condução.
+
+3 - As licenças especiais de condução devem referir o título de condução estrangeiro que lhes serviu de base e ser com ele exibidas sempre que para tal o seu titular seja solicitado pelos serviços da Direcção-Geral de Viação e autoridades de fiscalização de trânsito ou seus agentes.
+
+###### Artigo 2.º — Cartas de condução
+
+1 - Quem for aprovado nas provas para a condução de veículos da categoria A pode conduzir os seguintes veículos:
+
+a) Motociclos;
+
+b) Ciclomotores.
+
+2 - Quem for aprovado nas provas para a condução de veículos da categoria B pode conduzir os seguintes veículos:
+
+a) Automóveis ligeiros de passageiros, mercadorias ou mistos, sem ou com reboque, cujo peso bruto não exceda 750 kg ou, quando o exceda, não seja superior à tara do automóvel e o peso bruto do conjunto não ultrapasse 3500 kg;
+
+b) Tractores agrícolas sem reboque de tara não superior a 3500 kg ou com reboque, desde que o peso bruto do conjunto não exceda 6000 kg;
+
+c) Máquinas de peso bruto não superior a 3500 kg;
+
+d) Ciclomotores.
+
+3 - Quem for aprovado nas provas para a condução de veículos da categoria C pode conduzir:
+
+a) Automóveis pesados de mercadorias sem reboque ou com reboque de peso bruto não superior a 750 kg;
+
+b) Automóveis ligeiros da categoria B;
+
+c) Tractores agrícolas, com ou sem reboque, e máquinas.
+
+4 - Quem for aprovado nas provas para a condução de veículos da categoria D pode conduzir, para além de veículos dessa categoria, veículos das categorias B e C, tractores agrícolas e máquinas.
+
+5 - Quem for aprovado nas provas para a condução de veículos das categorias E + C e E + D pode conduzir, para além de veículos dessas categorias, conjuntos da categoria E + B.
+
+6 - Quem for aprovado nas provas para a condução de veículos da categoria E + C pode conduzir veículos da categoria E + D, desde que o seu titular esteja aprovado para conduzir veículos da categoria D.
+
+7 - Quem for aprovado nas provas para a condução de veículos da categoria E + D pode conduzir veículos da categoria E + C.
+
+8 - O exame para a condução de veículos da categoria C só pode ser solicitado por candidatos já aprovados para a condução de veículos da categoria B e consta de uma prova prática e de uma prova técnica.
+
+9 - O exame para a condução de veículos da categoria D só pode ser solicitado por candidatos já aprovados para a condução de veículos da categoria C há, pelo menos, um ano e consta de uma prova prática prestada em automóvel pesado de passageiros.
+
+###### Artigo 3.º — Licenças de condução
+
+As licenças de condução podem ser atribuídas para a condução de:
+
+a) Ciclomotores;
+
+b) Tractores e máquinas agrícolas.
+
+###### Artigo 4.º — Licenças especiais de condução
+
+1 - As licenças especiais de condução revestem as modalidades previstas nos artigos 2.º e 3.º
+
+2 - Podem requerer licenças especiais de condução:
+
+a) Membros do corpo diplomático e cônsules de carreira acreditados junto do Governo Português e membros do pessoal administrativo e técnico de missão estrangeira que não sejam portugueses nem tenham residência permanente em Portugal, desde que sejam titulares de qualquer das licenças de condução referidas nas alíneas c) a e) do artigo 130.º do Código da Estrada;
+
+b) Membros de missões militares estrangeiras que não tenham residência em Portugal que sejam titulares de qualquer das licenças de condução referidas nas alíneas c) a e) do artigo 130.º do Código da Estrada;
+
+c) Cônjuges e descendentes em 1.º grau na linha recta dos membros a que se referem as alíneas anteriores, desde que sejam estrangeiros, com eles residam e tal esteja previsto nos acordos ou convenções aplicáveis, desde que sejam titulares de qualquer das licenças de condução referidas nas alíneas c) a e) do artigo 130.º do Código da Estrada;
+
+d) Apenas para a condução de ciclomotores, as pessoas de idade não inferior a 14 anos, desde que tenham concluído com aproveitamento curso aprovado pela Direcção-Geral de Viação;
+
+e) Apenas para condução de ciclomotores ou de tractores e máquinas agrícolas, as pessoas não possuidoras das habilitações mínimas exigidas para a obtenção de carta ou licença de condução mas que dela necessitem por razões profissionais.
+
+###### Artigo 5.º — Marcação de exames
+
+1 - As marcações de exame de condução de veículos automóveis serão solicitadas na Direcção-Geral de Viação, podendo a marcação ser feita pela escola de condução onde o candidato tiver realizado a sua aprendizagem ou pelo candidato.
+
+2 - Os titulares de carta de condução caduca nos termos do n.º 4 do artigo 125.º do Código da Estrada apenas poderão voltar a conduzir após terem sido aprovados em novo exame de condução, que só poderá ser requerido após cumprimento da inibição aplicada.
+
+3 - Os exames para a obtenção de licenças de condução serão solicitados pelos candidatos à câmara municipal da sua área de residência, fazendo acompanhar o requerimento da apresentação do bilhete de identidade, de atestado médico e de duas fotografias.
+
+###### Artigo 6.º — Emissão de títulos de habilitação para conduzir
+
+1 - Aos candidatos aprovados em exame será passada a respectiva carta de condução e efectuado o seu registo e numeração pela Direcção-Geral de Viação.
+
+2 - Podem requerer a emissão da carta de condução, com dispensa de exame, os titulares de licenças de condução emitidas por outros Estados membros da União Europeia, pelos países da EFTA e pelos países com os quais exista acordo bilateral de equivalência e troca de títulos.
+
+3 - Os titulares de documentos emitidos pelas forças de segurança, válidos para a condução de veículos pertencentes àquelas forças, das categorias ou subcategorias idênticas às referidas no n.º 5 do artigo 125.º do Código da Estrada podem, desde o momento da atribuição ou no prazo de dois anos depois de licenciados, de terem baixa de serviço ou de passarem à reserva, à pré-aposentação ou à reforma, requerer nas delegações distritais de viação carta de condução válida para as correspondentes categorias ou subcategorias, mediante a apresentação de fotocópia autenticada do respectivo documento de habilitação, bilhete de identidade, atestado médico e duas fotografias.
+
+4 - A emissão de títulos de habilitação para conduzir aos titulares de documentos emitidos pelas autoridades militares é regulada por diploma próprio.
+
+5 - No caso de equivalência relativa a categoria para a qual o Código da Estrada exija idade superior a 18 anos, o requerimento só pode ser formulado a partir da data em que o requerente atinja a idade prevista no Código da Estrada para a referida categoria.
+
+###### Artigo 7.º — Validade dos títulos de habilitação de conduzir
+
+1 - As cartas e as licenças de condução são válidas pelo período nelas averbado.
+
+2 - Relativamente às cartas de condução para veículos das categorias A, B e E + B e às licenças de condução, sem prejuízo do que em exame médico ou psicotécnico tenha sido especialmente estabelecido, o termo da validade da carta ou licença de condução ocorre, sucessivamente, na data em que o seu titular perfaça 65 e 70 anos e, posteriormente, de dois em dois anos.
+
+3 - As cartas de condução para as demais categorias de veículos caducam, nas condições previstas no número anterior, quando o seu titular perfaça 40, 45, 50, 55, 60 e 65 anos e, posteriormente, de dois em dois anos, sem prejuízo do disposto no n.º 3 do artigo 128.º do Código da Estrada para os condutores das categorias D, E + D e E.
+
+4 - A revalidação das cartas e licenças de condução efectua-se mediante entrega, pelos seus titulares, nas delegações distritais de viação, de atestado de aptidão médica nos seis meses que antecedem o termo da sua validade.
+
+5 - As licenças especiais de condução terão a validade correspondente à do título estrangeiro que lhes serviu de base, até ao limite máximo de três anos.
+
+6 - No termo da missão, os titulares de licenças especiais de condução deverão devolvê-las à Direcção-Geral de Viação, através do serviço solicitante.
+
+###### Artigo 8.º — Requerimentos de títulos sem exame
+
+1 - Os títulos de habilitação de condução cuja emissão não seja obrigatoriamente precedida de realização de exame serão emitidos pela Direcção-Geral de Viação, a requerimento de:
+
+a) Membros do corpo diplomático e cônsules de carreira ou seus cônjuges e descendentes, por intermédio do Ministério dos Negócios Estrangeiros;
+
+b) Membros de missões militares estrangeiras ou seus cônjuges e descendentes, por intermédio do comando militar de que depende o requerente, através do organismo de ligação em Portugal.
+
+2 - O pedido de licença especial de condução deve referir o nome completo do requerente, o cargo desempenhado e o seu domicílio em Portugal, devendo ser acompanhado da fotocópia de licença de condução estrangeira autenticada pelos serviços competentes do organismo solicitante.
+
+3 - No caso de se tratar de cônjuge ou descendentes de elemento de missão, deve ser indicado o cargo por ele desempenhado.
+
+4 - O requerimento da carta de condução nacional apresentado pelas pessoas referidas no n.º 5 do artigo 130.º do Código da Estrada deve ser acompanhado dos documentos indicados como necessários para obtenção da licença de aprendizagem, para além do título de condução, autorizado pelos serviços competentes e da apresentação do documento de autorização de residência.
+
+###### Artigo 9.º — Norma transitória
+
+1 - Os títulos de condução de velocípedes com motor, de tractores e máquinas agrícolas válidos à data de entrada em vigor do presente diploma conferem aos seus titulares a habilitação para conduzir, respectivamente, ciclomotores, tractores e máquinas agrícolas.
+
+2 - Os condutores de motocultivadores ficam isentos de licença de condução pelo prazo de um ano a contar da data da entrada em vigor do presente diploma.
+
+Presidência do Conselho de Ministros, 8 de Agosto de 1994.
+
+Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - José Manuel Durão Barroso.
+
+Promulgado em 31 de Outubro de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 3 de Novembro de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

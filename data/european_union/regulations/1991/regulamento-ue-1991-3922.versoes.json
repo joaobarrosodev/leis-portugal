@@ -1,0 +1,454 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991R3922:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R3922-20120408",
+ "dre_path": null,
+ "source_lastmod": "2012-04-08",
+ "versions": [
+  {
+   "date": "1991-12-31",
+   "future": false,
+   "celex": "31991R3922",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c7568e47cab3165c",
+    "4266ff967f889025",
+    "af8c934a36440f8b",
+    "8a39ec24a512c6b3",
+    "3f89b22989197e4c",
+    "45bd09d887d0ef05",
+    "138c4c2afce17329",
+    "d0784c9f3633d510",
+    "0030e1c069b25818",
+    "82bfeecee1dbf053",
+    "31f17df28d6c4107",
+    "b174ac3ccf376dd2",
+    "6c7eef94836719ac",
+    "c79a8e287a946370",
+    "72f66aca74b8c037",
+    "8fa8e5c2144df32d",
+    "dceb3106ab8bf295"
+   ]
+  },
+  {
+   "date": "2012-04-08",
+   "future": false,
+   "celex": "01991R3922-20120408",
+   "acts": [
+    {
+     "id": "eu:celex:31996R2176:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31996R2176"
+    },
+    {
+     "id": "eu:celex:31999R1069:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31999R1069"
+    },
+    {
+     "id": "eu:celex:32000R2871:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32000R2871"
+    },
+    {
+     "id": "eu:celex:32002R1592:por",
+     "title": "REGULAMENTO (CE) N. o 1592/2002 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de Julho de 2002",
+     "published": null,
+     "celex": "32002R1592"
+    },
+    {
+     "id": "eu:celex:32006R1899:por",
+     "title": "REGULAMENTO (CE) N. o 1899/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006R1899"
+    },
+    {
+     "id": "eu:celex:32006R1900:por",
+     "title": "REGULAMENTO (CE) N. o 1900/2006 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006R1900"
+    },
+    {
+     "id": "eu:celex:32008R0008:por",
+     "title": "M7",
+     "published": null,
+     "celex": "32008R0008"
+    },
+    {
+     "id": "eu:celex:32008R0216:por",
+     "title": "REGULAMENTO (CE) N. o 216/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de Fevereiro de 2008",
+     "published": null,
+     "celex": "32008R0216"
+    },
+    {
+     "id": "eu:celex:32008R0859:por",
+     "title": "M9",
+     "published": null,
+     "celex": "32008R0859"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita ANEXO I",
+    "Adita Convénios referidos no n.º 1, alínea h), do artigo 2.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime ANEXO I — Convénios referidos no n° 1, alínea h), do artigo 2o",
+    "Suprime ANEXO II — Listas dos códigos em vigor onde se encontram as normas técnicas e os procedimentos administrativos comuns referidos no artigo 3o"
+   ],
+   "fragments": [
+    "803382ba028a20d6",
+    "9be81a02c4e0513a",
+    "bcebe3785c83ef6b",
+    "ecf1409266057859",
+    "72b9942d3c13e679",
+    "ee0d0d3d5db2b68a",
+    "2c29413b9c5f4ec7",
+    "c169f8813393da04",
+    "5df8939fa254df61",
+    "c22aeadd73ae5185",
+    "8ccd19c0b25d0ea7",
+    "eb2666caf4055b39",
+    "fb75000449a44975",
+    "850ec62f7cc9d328",
+    "86924c7008c63d4c",
+    "51642b4b6c36c7f6",
+    "d42cbf178ef31cbb",
+    "d664376e2a8dcecd",
+    "f70c5db0c2839322",
+    "c15fb9b7389c4c65"
+   ]
+  }
+ ],
+ "fragments": {
+  "c7568e47cab3165c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil** *Jornal Oficial nº L 373 de 31/12/1991 p. 0004 - 0008 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0052 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0052*\n\nREGULAMENTO (CEE) N° 3922/91 DO CONSELHO de 16 de Dezembro de 1991 relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n° 2 do seu artigo 84o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, tal como previsto no artigo 8oA do Tratado, é necessário adoptar medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreenderá um espaço sem fronteiras internas, no qual será assegurada a livre circulação de pessoas, bens, serviços e capitais;\n\nConsiderando que é conveniente manter a segurança da aviação civil na Europa a um elevado nível geral e melhorar as normas técnicas e os procedimentos administrativos dos Estados-membros para que atinjam os níveis mais elevados já verificados actualmente na Comunidade;\n\nConsiderando que a segurança constitui um factor-chave no domínio dos transportes aéreos comunitários; que é conveniente ter em conta a existência da Convenção sobre a Aviação Civil Internacional assinada em Chicago em 7 de Dezembro de 1944, que prevê a aplicação das disposições necessárias para garantir a segurança de exploração das aeronaves;\n\nConsiderando que as actuais restrições à transferência de aeronaves e de produtos aeronáuticos e de certos serviços no domínio aeronáutico existentes entre os Estados-membros poderiam causar distorções no mercado interno;\n\nConsiderando que as Joint Aviation Authorities (JAA), organismo associado da Comissão Europeia da Aviação Civil (CEAC), elaboraram esquemas de cooperação para o desenvolvimento e aplicação de normas comuns (códigos JAR) em todos os domínios relacionados com a segurança das aeronaves e a sua exploração;\n\nConsiderando que, no âmbito da política comum de transportes, se devem harmonizar as regras técnicas e os procedimentos administrativos relativos à segurança das aeronaves e à sua exploração com base nos códigos JAR das JAA;\n\nConsiderando que a adesão de todos os Estados-membros às JAA e a participação da Comissão nos seus trabalhos poderiam facilitar essa harmonização;\n\nConsiderando que, a fim de atingir os objectivos comunitários em matéria de livre circulação de pessoas e produtos, bem como em matéria de política comum de transportes, os Estados-membros são obrigados a reconhecer a certificação de acordo com as normas técnicas e os procedimentos administrativos dos produtos e dos organismos ou pessoas envolvidos na concepção, fabrico, manutenção e exploração de produtos, sem trabalhos técnicos ou avaliação suplementares, sempre que esses produtos, organismos ou pessoas tenham sido certificados em conformidade com as normas e procedimentos comuns;\n\nConsiderando que podem surgir problemas a nível da segurança e que em tal caso compete aos Estados-membros tomar as medidas urgentes apropriadas; que essas medidas devem ser devidamente motivadas e que, no caso de existirem lacunas nas normas técnicas e procedimentos administrativos comuns, cabe à Comissão, no exercício das suas competências de execução, adoptar as alterações que forem necessárias;\n\nConsiderando que o financiamento, por parte dos Estados-membros, de acções de investigação destinadas a aumentar o nível de segurança da aviação deve ser coordenado de modo a garantir a melhor utilização possível dos recursos e permitir que se tire o melhor partido dessas acções;\n\nConsiderando que a Comissão, assistida por um comité de peritos designados pelos Estados-membros, deve ser habilitada a introduzir nas normas técnicas e nos procedimentos administrativos comuns adoptados pelo Conselho as alterações elaboradas pelas JAA,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4266ff967f889025": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O presente regulamento aplica-se à harmonização de normas técnicas e dos procedimentos administrativos no domínio da segurança da aviação civil, tal como definidos no anexo II, nomeadamente no que se refere:\n\n- à concepção, fabrico, exploração e manutenção de aeronaves,\n\n- às pessoas e organismos envolvidos nestas tarefas.\n\n2. As normas técnicas e procedimentos administrativos harmonizados referidos no n° 1 serão aplicáveis a todas as aeronaves utilizadas por operadores, tal como definidos na alínea a) do artigo 2o, que estejam registados num Estado-membro ou um país terceiro."
+  },
+  "af8c934a36440f8b": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Operador»: qualquer pessoa singular residente num Estado-membro ou qualquer pessoa colectiva estabelecida num Estado-membro que utilize uma ou mais aeronaves em conformidade com a regulamentação aplicável nesse Estado-membro ou qualquer transportador aéreo comunitário tal como definido na legislação comunitária;\n\nb) «Produto»: uma aeronave, um motor, uma hélice ou um equipamento civil;\n\nc) «Equipamento»: qualquer instrumento, dispositivo, mecanismo, aparelho ou acessório utilizado ou que possa ser utilizado para a exploração de uma aeronave em voo, quer esteja instalado quer se destine a ser instalado numa aeronave civil ou ligado a ela, mas que não faça parte de uma célula, de um motor ou de uma hélice;\n\nd) «Elemento»: qualquer material, componente ou subconjunto não abrangido pelas definições constantes das alíneas b) ou c) destinado a aeronaves, motores, hélices ou equipamentos civis;\n\ne) «Certificação» (de um produto, serviço, organismo ou pessoa): qualquer forma de reconhecimento legal de que esse produto, serviço, organização ou pessoa respeita as condições aplicáveis. Esta certificação inclui dois actos:\n\ni) o acto que, do ponto de vista técnico, permite controlar o produto, o serviço, a organização ou a pessoa que respeitam as condições aplicáveis; este acto denomina-se «elaboração do relatório técnico»,\n\nii) o acto de reconhecimento formal do respeito das condições aplicáveis mediante a concessão de um certificado, licença, aprovação ou outro documento na forma exigida pelas leis e procedimentos nacionais; este actodenomina-se «elaboração da declaração legal»;\n\nf) «Manutenção»: o conjunto das operações de inspecção, revisão, modificação e reparação efectuadas durante todo o tempo de vida de uma aeronave para garantir que a aeronave continua a satisfazer a certificação de tipo e a demonstrar um elevado nível de segurança; tal inclui, nomeadamente, as modificações impostas pelas autoridades partes nos convénios previstos na alínea h), em conformidade com as concepções de controlo da navegabilidade das aeronaves;\n\ng) «Variante nacional»: uma norma ou regulamento nacional imposto por um determinado país como complemento de uma disposição JAR ou em sua substituição;\n\nh) «Convénios»: os convénios acordados sob a égide da Comissão Europeia da Aviação Civil (CEAC) a fim de participar no desenvolvimento e na aplicação de normas comuns em todos os domínios relacionados com a segurança das aeronaves e com a segurança da respectiva exploração; estes convénios encontram-se repertoriados no anexo I."
+  },
+  "8a39ec24a512c6b3": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nSem prejuízo do disposto no artigo 11o, as normas técnicas e os procedimentos administrativos comuns aplicáveis na Comunidade relativamente aos domínios enumerados no anexo II são os códigos correspondentes mencionados nesse anexo em vigor em 1 de Janeiro de 1992."
+  },
+  "3f89b22989197e4c": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. No que se refere aos domínios não enumerados no anexo II, o Conselho adoptará normas técnicas e procedimentos administrativos comuns, com base no n° 2 do artigo 84o do Tratado. A Comissão, se necessário, apresentará propostas adequadas relativas a esses domínios o mais rapidamente possível.\n\n2. Até à adopção das propostas previstas no n° 1, os Estados-membros poderão aplicar as disposições pertinentes das regulamentações nacionais em vigor."
+  },
+  "45bd09d887d0ef05": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs Estados-membros assegurarão que as respectivas autoridades competentes em matéria de aviação civil satisfaçam as condições de adesão às JAA referidas nos convénios, os quais deverão ser assinados sem reservas até 1 de Janeiro de 1992."
+  },
+  "138c4c2afce17329": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros reconhecerão os produtos concebidos, fabricados, explorados e assistidos de acordo com as normas técnicas e os procedimentos administrativos comuns, sem imporem requisitos técnicos ou avaliação complementares, sempre que esses produtos tenham sido certificados por outro Estado-membro. Os produtos inicialmente reconhecidos dentro de certos limites serão subsequentemente reconhecidos dentro dos mesmos limites.\n\n2. Os produtos existentes e as versões derivadas desses produtos que não tenham sido certificados nos termos das normas técnicas e dos procedimentos administrativos comuns poderão ser aceites pelos Estados-membros com base na regulamentação nacional em vigor até serem adoptadas normas técnicas e procedimentos administrativos comuns aplicáveis e esses produtos por força do presente regulamento."
+  },
+  "d0784c9f3633d510": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros reconhecerão a certificação emitida em conformidade com o presente regulamento por um outro Estado-membro ou um organismo actuando em seu nome ou organismos ou pessoas sob a sua jurisdição e sob a sua autoridade encarregados da concepção, fabrico ou manutenção de produtos ou da exploração de aeronaves."
+  },
+  "0030e1c069b25818": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Nenhuma das disposições acima referidas impede que um Estado-membro possa reagir imediatamente a um problema de segurança que possa surgir por ocasião de um acidente, de um incidente ou da experiência em serviço e que esteja relacionado com um produto concebido, fabricado, explorado ou assistido de acordo com o presente regulamento ou com uma pessoa, um procedimento ou um organismo implicado nessas tarefas. Se o problema de segurança resultar:\n\n- de uma insuficiência do nível de segurança correspondente à aplicação das normas técnicas e dos procedimentos administrativos comuns,\n\nou - de uma lacuna das normas técnicas e dos procedimentos administrativos comuns,\n\no Estado-membro informa imediatamente a Comissão e os outros Estados-membros das medidas tomadas e respectiva motivação.\n\n2. Nos casos previstos no n° 1, a Comissão consultará os Estados-membros o mais rapidamente possível. Se a insuficiência do nível de segurança ou a lacuna das normas técnicas e dos procedimentos administrativos comuns for confirmada, a Comissão fará as propostas que considerar apropriadas, nos termos dos procedimentos previstos no artigo 4o e/ou no artigo 11o"
+  },
+  "82bfeecee1dbf053": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros tomarão as medidas necessárias para coordenar os seus programas de investigação para melhoria da segurança das aeronaves civis e da sua exploração e informarão desse facto a Comissão. A Comissão poderá, após consulta aos Estados-membros, tomar todas as iniciativas necessárias para promover esses programas de investigação nacionais."
+  },
+  "31f17df28d6c4107": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nOs Estados-membros notificarão a Comissão:\n\na) De qualquer norma ou procedimento novo ou alterado estabelecido ou adoptado em conformidade com os procedimentos previstos nos convénios;\n\nb) De qualquer alteração introduzida nos convénios;\n\nc) Dos resultados das consultas em curso com os meios industriais e outras instâncias interessadas."
+  },
+  "b174ac3ccf376dd2": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. A Comissão, agindo em conformidade com o procedimento estabelecido no artigo 12o, introduzirá, nas normas técnicas e nos procedimentos administrativos comuns enumerados no anexo II ou adoptados pelo Conselho nos termos do artigo 4o, as alterações que se tornem necessárias em virtude do progresso científico e técnico.\n\n2. Se as modificações referidas no n° 1 incluírem uma variante nacional para um Estado-membro, a Comissão decidirá da inclusão dessa variante nas normas técnicas e nos procedimentos administrativos comuns em conformidade com o procedimento previsto no artigo 12o"
+  },
+  "6c7eef94836719ac": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Para efeitos de aplicação dos artigos 8o, 9o e 11o, a Comissão será assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre o projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no n° 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité os votos dos representantes dos Estados-membros estarão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas consideradas desde que sejam conformes com o parecer do comité;\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada;\n\nc) Se, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, salvo no caso de o Conselho se ter pronunciado por maioria simples contra as medidas em causa."
+  },
+  "c79a8e287a946370": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Os Estados-membros prestar-se-ão assistência mútua na aplicação do presente regulamento e no seu controlo.\n\n2. No âmbito da assistência mútua prevista no n° 1, as autoridades competentes dos Estados-membros comunicarão regularmente entre si todas as informações disponíveis relacionadas com:\n\n- as infracções ao presente regulamento cometidas pelos não residentes e qualquer sanção aplicada por tais infracções,\n\n- as sanções aplicadas por um Estado-membro aos seus residentes por tais infracções cometidas noutros Estados-membros."
+  },
+  "72f66aca74b8c037": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1992.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 16 de Dezembro de 1991.\n\nPelo ConselhoO PresidenteH. MAIJ-WEGGEN\n\n(1)JO n° C 270 de 26. 10. 1990, p. 3.\n\n(2)JO n° C 267 de 14. 10. 1991, p. 154.\n\n(3)JO n° C 159 de 17. 6. 1991, p. 28."
+  },
+  "8fa8e5c2144df32d": {
+   "fragment_id": "ANEXO I — Convénios referidos no n° 1, alínea h), do artigo 2o",
+   "type": "divisao",
+   "heading": "ANEXO I — Convénios referidos no n° 1, alínea h), do artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Convénios referidos no n° 1, alínea h), do artigo 2o\n\n«Arrangements Concerning the Development, the Acceptance and the Implementation of Joint Aviation Requirements» (Convénios relativos à elaboração, adopção e aplicação das JAR, concluídos em Chipre em 11 de Setembro de 1990)."
+  },
+  "dceb3106ab8bf295": {
+   "fragment_id": "ANEXO II — Listas dos códigos em vigor onde se encontram as normas técnicas e os procedimentos administrativos comuns referidos no artigo 3o",
+   "type": "divisao",
+   "heading": "ANEXO II — Listas dos códigos em vigor onde se encontram as normas técnicas e os procedimentos administrativos comuns referidos no artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Listas dos códigos em vigor onde se encontram as normas técnicas e os procedimentos administrativos comuns referidos no artigo 3o\n\n1.Generalidades e procedimentos\n\nJAR 1Definições e abreviaturas\n\n2.Certificação de tipo dos produtos e peças\n\nJAR 22Sailplanes and Powered Sailplanes (planadores e planadores com motor) JAR 25Large Aeroplanes (grandes aviões) JAR AWOAll Weather Operations (operações em todas as condições meteorológicas) JAR EEngines (motores) JAR PPropellers (hélices) JAR APUAuxiliary Power Units (unidades auxiliares de produção de energia) JAR TSOTechnical Standards Orders (normas técnicas) JAR VLAVery Light Aeroplanes (aviões muito ligeiros) JAR 145Approved Maintenance Organisations (organizações de manutenção aprovadas)"
+  },
+  "803382ba028a20d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 1991\n\nrelativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 2 do seu artigo 84.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#E0003)),\n\nConsiderando que, tal como previsto no artigo 8.ºA do Tratado, é necessário adoptar medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreenderá um espaço sem fronteiras internas, no qual será assegurada a livre circulação de pessoas, bens, serviços e capitais;\n\nConsiderando que é conveniente manter a segurança da aviação civil na Europa a um elevado nível geral e melhorar as normas técnicas e os procedimentos administrativos dos Estados-membros para que atinjam os níveis mais elevados já verificados actualmente na Comunidade;\n\nConsiderando que a segurança constitui um factor-chave no domínio dos transportes aéreos comunitários; que é conveniente ter em conta a existência da Convenção sobre a Aviação Civil Internacional assinada em Chicago em 7 de Dezembro de 1944, que prevê a aplicação das disposições necessárias para garantir a segurança de exploração das aeronaves;\n\nConsiderando que as actuais restrições à transferência de aeronaves e de produtos aeronáuticos e de certos serviços no domínio aeronáutico existentes entre os Estados-membros poderiam causar distorções no mercado interno;\n\nConsiderando que as Joint Aviation Authorities (JAA), organismo associado da Comissão Europeia da Aviação Civil (CEAC), elaboraram esquemas de cooperação para o desenvolvimento e aplicação de normas comuns (códigos JAR) em todos os domínios relacionados com a segurança das aeronaves e a sua exploração;\n\nConsiderando que, no âmbito da política comum de transportes, se devem harmonizar as regras técnicas e os procedimentos administrativos relativos à segurança das aeronaves e à sua exploração com base nos códigos JAR das JAA;\n\nConsiderando que a adesão de todos os Estados-membros às JAA e a participação da Comissão nos seus trabalhos poderiam facilitar essa harmonização;\n\nConsiderando que, a fim de atingir os objectivos comunitários em matéria de livre circulação de pessoas e produtos, bem como em matéria de política comum de transportes, os Estados-membros são obrigados a reconhecer a certificação de acordo com as normas técnicas e os procedimentos administrativos dos produtos e dos organismos ou pessoas envolvidos na concepção, fabrico, manutenção e exploração de produtos, sem trabalhos técnicos ou avaliação suplementares, sempre que esses produtos, organismos ou pessoas tenham sido certificados em conformidade com as normas e procedimentos comuns;\n\nConsiderando que podem surgir problemas a nível da segurança e que em tal caso compete aos Estados-membros tomar as medidas urgentes apropriadas; que essas medidas devem ser devidamente motivadas e que, no caso de existirem lacunas nas normas técnicas e procedimentos administrativos comuns, cabe à Comissão, no exercício das suas competências de execução, adoptar as alterações que forem necessárias;\n\nA aplicação de disposições relativas às limitações do PSV e do período de trabalho é susceptível de gerar perturbações significativas no sistema de escalas de serviço para as empresas que operam exclusivamente em serviços nocturnos. A Comissão deverá, com base nas provas apresentadas pelas partes interessadas, efectuar uma avaliação e propor uma alteração das disposições relativas às limitações do PSV e do período de trabalho, a fim de ter em conta estes modelos de operação especiais;\n\nConsiderando que o financiamento, por parte dos Estados-membros, de acções de investigação destinadas a aumentar o nível de segurança da aviação deve ser coordenado de modo a garantir a melhor utilização possível dos recursos e permitir que se tire o melhor partido dessas acções;\n\nA Agência Europeia para a Segurança da Aviação deverá concluir, até 16 de Janeiro de 2009, uma avaliação científica e médica das disposições da Subparte Q e, se necessário, da Subparte O do Anexo III. Com base nos resultados desta avaliação e nos termos do n.º 2 do artigo 12.º, a Comissão deverá elaborar e apresentar sem demora, se necessário, propostas destinadas a alterar as disposições técnicas relevantes;\n\nNo âmbito da revisão de certas disposições a que se refere o artigo 8.º-A, deverá ser mantida a via proposta no sentido de reforçar a harmonização dos requisitos de formação da tripulação de cabina, a fim de facilitar a livre circulação dos membros dessa tripulação na Comunidade. Neste contexto, a possibilidade de uma nova harmonização das qualificações da tripulação de cabina deverá ser reexaminada;\n\nAs medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^4^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#E0004)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9be81a02c4e0513a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento aplica-se à harmonização das normas técnicas e dos procedimentos administrativos no domínio da segurança da aviação civil referentes à exploração e manutenção de aeronaves e às pessoas e organismos envolvidos nessas tarefas.\n\n2. As normas técnicas e procedimentos administrativos harmonizados referidos no n.º 1 serão aplicáveis a todas as aeronaves utilizadas por operadores, tal como definidos na alínea a) do artigo 2.º, que estejam registados num Estado-membro ou um país terceiro.\n\n3. A aplicação do presente regulamento ao aeroporto de Gibraltar não prejudica as posições jurídicas do Reino de Espanha e do Reino Unido relativamente ao diferendo sobre a soberania do território em que o aeroporto se encontra situado.\n\n4. A aplicação do presente regulamento ao aeroporto de Gibraltar fica suspensa até que seja aplicado o regime previsto na Declaração Conjunta dos Ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido, de 2 de Dezembro de 1987. Os Governos da Espanha e do Reino Unido devem informar o Conselho da data de início de aplicação desse regime."
+  },
+  "bcebe3785c83ef6b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Operador»: qualquer pessoa singular residente num Estado-membro ou qualquer pessoa colectiva estabelecida num Estado-membro que utilize uma ou mais aeronaves em conformidade com a regulamentação aplicável nesse Estado-membro ou qualquer transportador aéreo comunitário tal como definido na legislação comunitária;\n\nb) «Produto»: uma aeronave, um motor, uma hélice ou um equipamento civil;\n\nc) «Equipamento»: qualquer instrumento, dispositivo, mecanismo, aparelho ou acessório utilizado ou que possa ser utilizado para a exploração de uma aeronave em voo, quer esteja instalado quer se destine a ser instalado numa aeronave civil ou ligado a ela, mas que não faça parte de uma célula, de um motor ou de uma hélice;\n\nd) «Elemento»: qualquer material, componente ou subconjunto não abrangido pelas definições constantes das alíneas b) ou c) destinado a aeronaves, motores, hélices ou equipamentos civis;\n\ne) «Certificação» (de um produto, serviço, organismo ou pessoa): qualquer forma de reconhecimento legal de que esse produto, serviço, organização ou pessoa respeita as condições aplicáveis. Esta certificação inclui dois actos:\n\ni) o acto que, do ponto de vista técnico, permite controlar o produto, o serviço, a organização ou a pessoa que respeitam as condições aplicáveis; este acto denomina-se «elaboração do relatório técnico»,\n\nii) o acto de reconhecimento formal do respeito das condições aplicáveis mediante a concessão de um certificado, licença, aprovação ou outro documento na forma exigida pelas leis e procedimentos nacionais; este actodenomina-se «elaboração da declaração legal»;\n\nf) «Manutenção»: o conjunto das operações de inspecção, revisão, modificação e reparação efectuadas durante todo o tempo de vida de uma aeronave para garantir que a aeronave continua a satisfazer a certificação de tipo e a demonstrar um elevado nível de segurança; tal inclui, nomeadamente, as modificações impostas pelas autoridades partes nos convénios previstos na alínea h), em conformidade com as concepções de controlo da navegabilidade das aeronaves;\n\ng) «Variante nacional»: uma norma ou regulamento nacional imposto por um determinado país como complemento de uma disposição JAR ou em sua substituição;\n\nh) «Convénios»: os convénios acordados sob a égide da Comissão Europeia da Aviação Civil (CEAC) a fim de participar no desenvolvimento e na aplicação de normas comuns em todos os domínios relacionados com a segurança das aeronaves e com a segurança da respectiva exploração; estes convénios encontram-se repertoriados no anexo I;\n\ni) «Autoridade»: no Anexo III, a autoridade competente que concedeu o certificado de operador aéreo (COA)."
+  },
+  "ecf1409266057859": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sem prejuízo do artigo 11.º, as normas técnicas e os procedimentos administrativos comuns aplicáveis na Comunidade no que respeita ao transporte aéreo comercial constam do Anexo III.\n\n2. As referências à Subparte M do Anexo III ou às suas disposições consideram-se feitas à parte M do Regulamento (CE) n.º 2042/2003 da Comissão, de 20 de Novembro de 2003, relativo à aeronavegabilidade permanente das aeronaves e dos produtos, peças e equipamentos aeronáuticos, bem como à certificação das entidades e do pessoal envolvidos nestas tarefas ([^5^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#E0005)), ou às suas disposições aplicáveis."
+  },
+  "72b9942d3c13e679": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. No que se refere aos domínios não abrangidos pelo Anexo III, serão adoptadas normas técnicas e procedimentos administrativos comuns, com base no n.º 2 do artigo 80.º do Tratado. A Comissão apresentará, se necessário e o mais rapidamente possível, propostas adequadas nesses domínios.\n\n2. Até à adopção das propostas previstas no n.º 1, os Estados-membros poderão aplicar as disposições pertinentes das regulamentações nacionais em vigor."
+  },
+  "ee0d0d3d5db2b68a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-membros assegurarão que as respectivas autoridades competentes em matéria de aviação civil satisfaçam as condições de adesão às JAA referidas nos convénios, os quais deverão ser assinados sem reservas até 1 de Janeiro de 1992."
+  },
+  "2c29413b9c5f4ec7": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs aeronaves exploradas ao abrigo de uma autorização concedida por um Estado-Membro em conformidade com as normas técnicas e os procedimentos administrativos comuns podem ser exploradas nas mesmas condições nos outros Estados-Membros, sem que estes imponham normas técnicas ou avaliações suplementares."
+  },
+  "c169f8813393da04": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros reconhecerão a certificação concedida em conformidade com o presente regulamento por outro Estado-Membro, ou por um organismo agindo em seu nome, a organismos ou pessoas sob a sua jurisdição e autoridade encarregados da manutenção de produtos e da operação de aeronaves."
+  },
+  "5df8939fa254df61": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O disposto nos artigos 3.º a 7.º não obsta a que um Estado-Membro reaja imediatamente a um problema de segurança que envolva um produto, uma pessoa ou um organismo subordinados ao presente regulamento.\n\nSe o problema de segurança resultar de um nível insuficiente de segurança decorrente das normas técnicas e dos procedimentos administrativos comuns ou de deficiências dessas normas e procedimentos, o Estado-Membro informará imediatamente a Comissão e os outros Estados-Membros das medidas tomadas, bem como da respectiva fundamentação.\n\nA Comissão decidirá, nos termos do n.º 2 do artigo 12.º, se a insuficiência do nível de segurança ou a deficiência das normas técnicas e dos procedimentos administrativos comuns justificam a manutenção das medidas adoptadas em aplicação do primeiro parágrafo do presente número. Nesse caso, a Comissão tomará igualmente as medidas necessárias para alterar as normas técnicas e os procedimentos administrativos comuns em questão de acordo com os artigos 4.º ou 11.º. Caso se apure que as medidas tomadas pelo Estado-Membro não se justificam, este revoga as medidas em causa.\n\n2. Os Estados-Membros podem conceder derrogações às normas técnicas e aos procedimentos administrativos especificados no presente regulamento em caso de circunstâncias operacionais imprevistas e urgentes ou de necessidades operacionais de duração limitada.\n\nA Comissão e os restantes Estados-Membros serão informados das derrogações concedidas se estas forem de natureza repetitiva ou tiverem sido concedidas por um período superior a dois meses.\n\nQuando a Comissão e os restantes Estados-Membros forem informados de derrogações concedidas por um Estado-Membro em conformidade com o segundo parágrafo, a Comissão examinará se as referidas derrogações respeitam os objectivos de segurança estabelecidos no presente regulamento ou quaisquer outras disposições relevantes da legislação comunitária.\n\nSe apurar que as derrogações concedidas não respeitam os objectivos de segurança estabelecidos no presente regulamento ou quaisquer outras disposições relevantes da legislação comunitária, a Comissão toma uma decisão sobre medidas de salvaguarda nos termos do artigo 12.º-A.\n\nNesse caso, o Estado-Membro em causa revoga a derrogação.\n\n3. Nos casos em que possa ser alcançado por outros meios um nível de segurança equivalente ao obtido através da aplicação das normas técnicas e dos procedimentos administrativos comuns estabelecidos no Anexo III do presente regulamento, os Estados-Membros podem, sem discriminações com base na nacionalidade dos requerentes e tendo em conta a necessidade de não distorcer a concorrência, conceder uma aprovação em derrogação às presentes disposições.\n\nNesses casos, o Estado-Membro em causa comunicará à Comissão a sua intenção de conceder essa aprovação e a respectiva fundamentação, bem como as condições previstas para garantir a obtenção de um nível de segurança equivalente.\n\nNo prazo de três meses a contar da data da notificação por um Estado-Membro, a Comissão dará início ao procedimento referido no n.º 2 do artigo 12.º a fim de decidir se a aprovação proposta pode ser concedida.\n\nNesse caso, a Comissão notificará a sua decisão a todos os Estados-Membros, que serão autorizados a aplicar a medida em causa. As disposições pertinentes do anexo III podem igualmente ser alteradas nos termos do artigo 11.º para reflectir essa medida.\n\nOs artigos 6.º e 7.º aplicar-se-ão à medida em causa.\n\n4. Não obstante o disposto nos n.^os^ 1, 2 e 3, os Estados-Membros podem aprovar ou manter disposições relativas à OPS 1.1105, ponto 6, à OPS 1.1110, pontos 1.3 e 1.4.1, à OPS 1.1115 e à OPS 1.1125, ponto 2.1, da Subparte Q do Anexo III até à aprovação de regras comunitárias baseadas no conhecimento científico e nas melhores práticas.\n\nOs Estados-Membros informarão a Comissão das disposições que decidam manter.\n\nEm relação às disposições nacionais que derroguem às disposições da OPS 1 referidas no primeiro parágrafo e que os Estados-Membros tencionem aprovar após a data de aplicação do Anexo III, a Comissão, no prazo de três meses a contar da notificação por um Estado-Membro, iniciará o procedimento referido no n.º 2 do artigo 12.º a fim de decidir se essas disposições cumprem os objectivos de segurança do presente regulamento e as restantes regras do direito comunitário, e se podem ser aplicadas.\n\nNesse caso, a Comissão notificará a sua decisão a todos os Estados-Membros, que serão autorizados a aplicar a medida em causa. As disposições pertinentes do anexo III podem igualmente ser alteradas nos termos do artigo 11.º para reflectir essa medida.\n\nOs artigos 6.º e 7.º aplicar-se-ão à medida em causa."
+  },
+  "c22aeadd73ae5185": {
+   "fragment_id": "Artigo 8.º-A",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A\n\n1. A Agência Europeia para a Segurança da Aviação concluirá, até 16 de Janeiro de 2009, uma avaliação científica e médica das disposições da Subparte Q e, se necessário, da Subparte O do Anexo III.\n\n2. Sem prejuízo do artigo 7.º do Regulamento (CE) n.º 1592/2002 do Parlamento Europeu e do Conselho, de 15 de Julho de 2002, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação ([^6^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#E0006)), a Agência Europeia para a Segurança da Aviação assistirá a Comissão na preparação de propostas de alteração das disposições técnicas aplicáveis das Subpartes O e Q do Anexo III."
+  },
+  "8ccd19c0b25d0ea7": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros tomarão as medidas necessárias para coordenar os seus programas de investigação para melhoria da segurança das aeronaves civis e da sua exploração e informarão desse facto a Comissão. A Comissão poderá, após consulta aos Estados-membros, tomar todas as iniciativas necessárias para promover esses programas de investigação nacionais."
+  },
+  "eb2666caf4055b39": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros notificarão a Comissão:\n\na) De qualquer norma ou procedimento novo ou alterado estabelecido ou adoptado em conformidade com os procedimentos previstos nos convénios;\n\nb) De qualquer alteração introduzida nos convénios;\n\nc) Dos resultados das consultas em curso com os meios industriais e outras instâncias interessadas."
+  },
+  "fb75000449a44975": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. As medidas que têm por objecto alterar elementos não essenciais do presente regulamento, completando-os, que sejam necessárias em virtude do progresso científico e técnico, e que alterem as normas técnicas e os procedimentos administrativos comuns enumerados no anexo III, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 12.º. Por imperativos de urgência, a Comissão pode recorrer ao procedimento de urgência a que se refere o n.º 4 do artigo 12.º.\n\n2. Se as modificações referidas no n.º1 incluírem uma variante nacional para um Estado-membro, a Comissão decidirá da inclusão dessa variante nas normas técnicas e nos procedimentos administrativos comuns em conformidade com o procedimento previsto [**►M6**](http://publications.europa.eu/resource/celex/32006R1900) no n.º 3 do artigo 12.º **◄**"
+  },
+  "850ec62f7cc9d328": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A Comissão é assistida pelo Comité da Segurança Aérea, a seguir designado «o comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.ºs 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\n4. Sempre que se faça referência ao presente número, são aplicáveis os n.ºs 1, 2, 4 e 6 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "86924c7008c63d4c": {
+   "fragment_id": "Artigo 12.º-A",
+   "type": "artigo",
+   "heading": "Artigo 12.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A\n\nSempre que se faça referência ao presente artigo, é aplicável o procedimento de salvaguarda estabelecido no artigo 6.º da Decisão 1999/468/CE.\n\nAntes de adoptar a sua decisão, a Comissão consultará o Comité.\n\nO prazo previsto na alínea b) do artigo 6.º da Decisão 1999/468/CE é de três meses.\n\nSempre que uma decisão da Comissão seja submetida ao Conselho por um Estado-Membro, o Conselho, deliberando por maioria qualificada, pode aprovar uma decisão distinta no prazo de três meses."
+  },
+  "51642b4b6c36c7f6": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros prestar-se-ão assistência mútua na aplicação do presente regulamento e no seu controlo.\n\n2. No âmbito da assistência mútua prevista no n.º 1, as autoridades competentes dos Estados-membros comunicarão regularmente entre si todas as informações disponíveis relacionadas com:\n\n— as infracções ao presente regulamento cometidas pelos não residentes e qualquer sanção aplicada por tais infracções,\n\n— as sanções aplicadas por um Estado-membro aos seus residentes por tais infracções cometidas noutros Estados-membros."
+  },
+  "d42cbf178ef31cbb": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1992.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f70c5db0c2839322": {
+   "fragment_id": "Convénios referidos no n.º 1, alínea h), do artigo 2.º",
+   "type": "divisao",
+   "heading": "Convénios referidos no n.º 1, alínea h), do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Convénios referidos no n.º 1, alínea h), do artigo 2.º\n\n«Arrangements Concerning the Development, the Acceptance and the Implementation of Joint Aviation Requirements» (Convénios relativos à elaboração, adopção e aplicação das JAR, concluídos em Chipre em 11 de Setembro de 1990).\n\n---"
+  },
+  "c15fb9b7389c4c65": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#src.E0001)) JO n.º C 270 de 26.10.1990, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#src.E0002)) JO n.º C 267 de 14.10.1991, p. 154.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#src.E0003)) JO n.º C 159 de 17.6.1991, p. 28.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#src.E0004)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45). Decisão com a redacção que lhe foi dada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#src.E0005)) JO L 315 de 28.11.2003, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/bbd470fe-0e6c-47f9-a45b-56d79d367e6b.0018.03/DOC_1#src.E0006)) JO L 240 de 7.9.2002, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1701/2003 da Comissão (JO L 243 de 27.9.2003, p. 5)."
+  }
+ }
+}

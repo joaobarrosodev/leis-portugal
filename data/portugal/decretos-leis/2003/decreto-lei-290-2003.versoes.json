@@ -1,0 +1,335 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:446373:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-156547082",
+ "dre_path": "/dr/detalhe/decreto-lei/290-2003-446373",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156546990",
+    "156546991",
+    "156546992",
+    "156546993",
+    "156546994",
+    "156546995",
+    "156546996",
+    "156546997",
+    "156546998",
+    "156546999",
+    "156547000",
+    "156547001",
+    "156547002",
+    "156547003",
+    "156547004",
+    "156547005"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:603479:por",
+     "title": "Declaração de Rectificação n.º 10/2004",
+     "published": "2004-01-15",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-2004-603479",
+     "date": "2003-11-16"
+    }
+   ]
+  },
+  {
+   "date": "2005-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:583779:por",
+     "title": "Decreto-Lei n.º 188/2005",
+     "published": "2005-11-04",
+     "dre_path": "/dr/detalhe/decreto-lei/188-2005-583779"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "156546990",
+    "156546991",
+    "156546992",
+    "156546993",
+    "156546994",
+    "156546995",
+    "156546996",
+    "156546997",
+    "156546998",
+    "156546999",
+    "156547000",
+    "156547001",
+    "156547002",
+    "156547003",
+    "156547004",
+    "156547005",
+    "156547006",
+    "156546022",
+    "156547010",
+    "156547011"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "156546990",
+    "156546991",
+    "156546992",
+    "156546993",
+    "156546994",
+    "156546995",
+    "156546023",
+    "156546997",
+    "156546024",
+    "156546025",
+    "156546026",
+    "156546027",
+    "156547002",
+    "156547003",
+    "156547004",
+    "156547005",
+    "156547006",
+    "156546022",
+    "156547010",
+    "156547011"
+   ]
+  }
+ ],
+ "fragments": {
+  "156546990": {
+   "fragment_id": "156547083",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 290/2003\n\nde 15 de Novembro\n\nO Decreto-Lei n.º 302/85, de 29 de Julho, estabelece as características e regula o acondicionamento e a rotulagem de determinados açúcares constituídos por sacarose, glucose e frutose destinados à alimentação humana, adoptando algumas disposições da Directiva n.º <a href=\"eurlex.asp?ano=1973&id=373L0437\" title=\"Link para Directiva da Comunidade Europeia\">73/437/CEE</a>, do Conselho, de 11 de Dezembro, relativa à aproximação das legislações dos Estados membros respeitantes a determinados açúcares destinados à alimentação humana.\n\nA Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0111\" title=\"Link para Directiva da Comunidade Europeia\">2001/111/CE</a>, do Conselho, de 20 de Dezembro, relativa a determinados açúcares destinados à alimentação humana, veio reformular a Directiva n.º <a href=\"eurlex.asp?ano=1973&id=373L0437\" title=\"Link para Directiva da Comunidade Europeia\">73/437/CEE</a>, tornando mais acessíveis as regras relativas às condições de fabrico e comercialização de certos açúcares destinados à alimentação humana, adaptando-as à legislação comunitária geral aplicável aos géneros alimentícios, especialmente a relativa à rotulagem, aos corantes e outros aditivos autorizados e, ainda, aos solventes de extracção e métodos de análise.\n\nOs métodos de análise para o controlo de determinados açúcares destinados à alimentação humana foram fixados pela Primeira Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0096\" title=\"Link para Directiva da Comunidade Europeia\">79/96/CEE</a>, da Comissão, de 26 de Julho, adoptada na ordem jurídica nacional pela Portaria n.º 976/85, de 31 de Dezembro, que, para além dos métodos de análise comunitários, fixou outros não harmonizados.\n\nEm cumprimento do artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0111\" title=\"Link para Directiva da Comunidade Europeia\">2001/111/CE</a>, do Conselho, de 20 de Dezembro, este diploma transpõe para a ordem jurídica interna as disposições comunitárias relativas às definições e características de certos açúcares destinados à alimentação humana e, ainda, as regras a que deve obedecer o seu acondicionamento e rotulagem.\n\nAdoptam-se igualmente os métodos de análise comunitários fixados pela Primeira Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0096\" title=\"Link para Directiva da Comunidade Europeia\">79/96/CEE</a>, da Comissão, de 26 de Julho, para o controlo destes produtos.\n\nProcede-se à revogação do Decreto-Lei n.º 302/85, de 29 de Julho, e da Portaria n.º 976/85, de 31 de Dezembro.\n\nPara além dos métodos de análise fixados pela Primeira Directiva n.º <a href=\"eurlex.asp?ano=1979&id=379L0096\" title=\"Link para Directiva da Comunidade Europeia\">79/96/CEE</a>, da Comissão, de 26 de Julho, aplicam-se igualmente os métodos previstos no Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1969&id=369R1265\" title=\"Link para Regulamento da Comunidade Europeia\">1265/69</a>, da Comissão, de 1 de Julho, relativo aos métodos de determinação da qualidade aplicáveis ao açúcar comprado pelos organismos de intervenção.\n\nImporta ainda referir no contexto da matéria regulamentada por este diploma que, estando os consumidores nacionais habituados às denominações de venda «açúcar areado amarelo», «açúcar areado branco», «açúcar macio», «açúcar demerera» e «açúcar mascavado», com expressão apenas no mercado nacional, este diploma mantém essas denominações de venda, fixando regras para as mesmas, de modo que os consumidores nacionais não fiquem privados do seu consumo, já que o seu uso está tradicionalmente consagrado, não se justificando a sua eliminação do nosso mercado pelo facto de não terem sido incluídos no direito comunitário, o que limitaria a escolha do consumidor nacional.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156546991": {
+   "fragment_id": "156547084",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0111\" title=\"Link para Directiva da Comunidade Europeia\">2001/111/CE</a>, do Conselho, de 20 de Dezembro, relativa a determinados açúcares destinados à alimentação humana."
+  },
+  "156546992": {
+   "fragment_id": "156547085",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma estabelece as características e regula o acondicionamento e rotulagem dos açúcares definidos e caracterizados na parte A do anexo I ao presente diploma, do qual faz parte integrante.\n\n2 - Não são abrangidos pelo presente decreto-lei os produtos definidos na parte A do referido anexo I que se apresentem sob a forma de açúcar impalpável, açúcar cândi ou pão de açúcar."
+  },
+  "156546993": {
+   "fragment_id": "156547086",
+   "type": 11,
+   "heading": "Artigo 3.º — Acondicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acondicionamento\n\n1 - Os açúcares na venda a retalho devem apresentar-se pré-embalados.\n\n2 - O material em contacto com os açúcares deve ser inerte e inócuo em relação ao conteúdo e garantir uma adequada conservação, conforme previsto na legislação relativa aos materiais destinados a entrar em contacto com os géneros alimentícios."
+  },
+  "156546994": {
+   "fragment_id": "156547087",
+   "type": 11,
+   "heading": "Artigo 4.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rotulagem\n\nA rotulagem dos produtos abrangidos por este diploma obedece ao disposto na legislação em vigor sobre rotulagem dos géneros alimentícios, exigindo-se ainda o cumprimento das seguintes regras:\n\n1) Sem prejuízo do disposto no n.º 8, as denominações de venda previstas na parte A do anexo I são reservadas aos produtos nele referidos;\n\n2) A denominação de venda de açúcar ou açúcar branco pode também ser utilizada para designar açúcar branco extra;\n\n3) Desde que não induzam o consumidor em erro, os açúcares abrangidos por este diploma podem ostentar, para além da denominação de venda obrigatória, outros qualificativos habitualmente utilizados no mercado comunitário;\n\n4) É permitida a utilização das denominações de venda previstas neste diploma em denominações compostas para designar outros produtos, de acordo com as práticas consagradas pelo uso, desde que não enganem o consumidor;\n\n5) Na rotulagem do açúcar líquido, do açúcar líquido invertido e do xarope de açúcar invertido devem figurar os teores de matéria seca e de açúcar invertido;\n\n6) Aos produtos definidos nos n.os 4, 5 e 6 da parte A do anexo I é reservado o qualificativo «branco» quando:\n\na) No caso do açúcar líquido, a cor da solução não exceda 25 unidades Icumsa determinadas de acordo com o método especificado na alínea c) da parte B do referido anexo;\n\nb) No caso do açúcar líquido invertido e do xarope de açúcar invertido, o teor de cinza condutivimétrica não exceda 0,1% e cuja cor da solução não exceda 25 unidades Icumsa determinadas de acordo com o método especificado na alínea c) da parte B do referido anexo;\n\n7) No caso dos xaropes de açúcar invertido cuja solução contenha cristais, deve figurar na rotulagem o qualificativo «cristalizado»;\n\n8) Sempre que o xarope de glucose e o xarope de glucose desidratado contenham frutose numa proporção superior a 5% em relação à matéria seca, são rotulados, relativamente às suas denominações e enquanto ingredientes, como «xarope de glucose-frutose» ou «xarope de frutose-glucose» e «xarope de glucose-frutose desidratado» ou «xarope de frutose-glucose desidratado», respectivamente, identificando-se qual a componente presente em maior proporção;\n\n9) No caso dos produtos pré-embalados com menos de 20 g, não é necessário que a respectiva rotulagem indique a sua quantidade líquida."
+  },
+  "156546995": {
+   "fragment_id": "156547088",
+   "type": 11,
+   "heading": "Artigo 5.º — Métodos de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Métodos de análise\n\n1 - O anexo II deste diploma, que dele faz parte integrante, define o âmbito de aplicação dos métodos de análise a utilizar no controlo dos açúcares definidos e caracterizados na parte A do anexo I.\n\n2 - A parte B do anexo I fixa o método de determinação do tipo de cor, do teor de cinza condutivimétrica e da cor da solução do açúcar (branco) e do açúcar branco extra definidos nos n.os 2 e 3 da parte A do mesmo anexo.\n\n3 - As análises necessárias aos controlos dos critérios indicados no anexo II são efectuadas de acordo com os métodos de análise descritos no anexo III deste diploma, que dele faz parte integrante.\n\n4 - O método Luff-Schoorl - método 6 do anexo III - deve utilizar-se para o doseamento dos açúcares redutores nos seguintes açúcares:\n\na) Açúcar líquido;\n\nb) Açúcar branco líquido;\n\nc) Açúcar líquido invertido;\n\nd) Açúcar branco líquido invertido;\n\ne) Xarope de açúcar invertido;\n\nf) Xarope de açúcar branco invertido;\n\ng) Xarope de glucose;\n\nh) Xarope de glucose desidratado;\n\ni) Dextrose monoidratado;\n\nj) Dextrose anidra.\n\n5 - O método Lane e Eynon - métodos 7 e 8 do anexo III - deve utilizar-se para o doseamento dos açúcares redutores nos seguintes açúcares:\n\na) Açúcar areado amarelo;\n\nb) Açúcar areado branco;\n\nc) Açúcar macio."
+  },
+  "156546996": {
+   "fragment_id": "156547089",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima, nos montantes mínimo de (euro) 500 e máximos de (euro) 3740 ou de (euro) 44890, consoante o agente da infracção seja pessoa singular ou colectiva:\n\na) O fabrico ou a comercialização, com falta de características legais, dos açúcares definidos na parte A do anexo I ao presente diploma;\n\nb) A apresentação ao consumidor dos açúcares abrangidos por este diploma não pré-embalados;\n\nc) A falta, inexactidão ou deficiência das menções de rotulagem previstas no artigo 4.º deste diploma.\n\n2 - A infracção ao disposto no n.º 2 do artigo 3.º constitui contra-ordenação prevista e punida nos termos do Decreto-Lei n.º 193/88, de 30 de Maio, e respectiva regulamentação.\n\n3 - A tentativa e a negligência são puníveis."
+  },
+  "156546997": {
+   "fragment_id": "156547090",
+   "type": 11,
+   "heading": "Artigo 7.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito de subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "156546998": {
+   "fragment_id": "156547091",
+   "type": 11,
+   "heading": "Artigo 8.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autoridade competente\n\nSem prejuízo da competência atribuída por lei a outras autoridades policiais e fiscalizadoras, compete especialmente à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar assegurar a fiscalização do cumprimento das regras previstas neste diploma."
+  },
+  "156546999": {
+   "fragment_id": "156547092",
+   "type": 11,
+   "heading": "Artigo 9.º — Autuação, instrução e aplicação da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autuação, instrução e aplicação da coima\n\n1 - O levantamento dos autos de contra-ordenação compete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, assim como às autoridades policiais e fiscalizadoras.\n\n2 - A instrução dos processos de contra-ordenação compete à autoridade que levantar o auto de notícia ou, caso esta não tenha competência para o efeito, à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar.\n\n3 - A aplicação das coimas e sanções acessórias compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar."
+  },
+  "156547000": {
+   "fragment_id": "156547093",
+   "type": 11,
+   "heading": "Artigo 10.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Afectação do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto de notícia;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para os cofres do Estado."
+  },
+  "156547001": {
+   "fragment_id": "156547094",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direito subsidiário\n\nÀs contra-ordenações e sanções acessórias previstas neste diploma e em tudo quanto nele não se encontre especialmente regulado são aplicáveis as disposições do Decreto-Lei n.º 433/82, de 23 de Outubro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro."
+  },
+  "156547002": {
+   "fragment_id": "156547095",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências das Regiões Autónomas dos Açores e da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências das Regiões Autónomas dos Açores e da Madeira\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar pelo presente diploma são exercidas pelos competentes serviços e organismos das respectivas administrações regionais, sem prejuízo das competências próprias da referida Direcção-Geral.\n\n2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "156547003": {
+   "fragment_id": "156547096",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma transitória\n\nÉ autorizada a comercialização, até ao esgotamento das existências, dos produtos não conformes com o presente diploma, desde que tenham sido rotulados antes de 12 de Julho de 2004, de acordo com o Decreto-Lei n.º 302/85, de 29 de Julho."
+  },
+  "156547004": {
+   "fragment_id": "156547097",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 302/85, de 29 de Julho, e a Portaria n.º 976/85, de 31 de Dezembro."
+  },
+  "156547005": {
+   "fragment_id": "156547098",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156547006": {
+   "fragment_id": "156547099",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto.\n\nPromulgado em 24 de Outubro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Outubro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "156546022": {
+   "fragment_id": "156547112",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2005-11-05",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 188/2005 - Diário da República n.º 212/2005, Série I-A de 2005-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2005-583779), em vigor a partir de 2005-11-05",
+    "Retificado pelo/a [Declaração de Rectificação n.º 10/2004 - Diário da República n.º 12/2004, Série I-A de 2004-01-15](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2004-603479), em vigor a partir de 2003-11-16"
+   ],
+   "markdown": "## Anexo I\n\nParte A\n\nDenominações de venda, definições e características\n\n(ver tabela no documento original)\n\n> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 188/2005 - Diário da República n.º 212/2005, Série I-A de 2005-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2005-583779), em vigor a partir de 2005-11-05\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10/2004 - Diário da República n.º 12/2004, Série I-A de 2004-01-15](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2004-603479), em vigor a partir de 2003-11-16"
+  },
+  "156547010": {
+   "fragment_id": "156547113",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver anexos no documento original)"
+  },
+  "156547011": {
+   "fragment_id": "156547114",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\n(ver anexos no documento original)"
+  },
+  "156546023": {
+   "fragment_id": "156547089",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) O fabrico ou a comercialização, com falta de características legais, dos açúcares definidos na parte A do anexo I ao presente diploma;\n\nb) A apresentação ao consumidor dos açúcares abrangidos por este diploma não pré-embalados;\n\nc) A falta, inexactidão ou deficiência das menções de rotulagem previstas no artigo 4.º deste diploma.\n\n2 - A infração ao disposto no n.º 2 do artigo 3.º rege-se pelo disposto no artigo 3.º do Decreto-Lei n.º 175/2007, de 8 de maio, na sua redação atual.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156546024": {
+   "fragment_id": "156547091",
+   "type": 11,
+   "heading": "Artigo 8.º — Fiscalização",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 8.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras autoridades policiais e fiscalizadoras, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das regras previstas no presente diploma.\n\n> Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156546025": {
+   "fragment_id": "156547092",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Instrução e decisão\n\n1 - (Revogado.)\n\n2 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156546026": {
+   "fragment_id": "156547093",
+   "type": 11,
+   "heading": "Artigo 10.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156546027": {
+   "fragment_id": "156547094",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Direito subsidiário\n\nÀs contraordenações económicas e sanções acessórias previstas no presente diploma é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

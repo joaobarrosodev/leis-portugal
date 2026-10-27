@@ -1,0 +1,414 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0388:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0388-20110120",
+ "dre_path": null,
+ "source_lastmod": "2011-01-20",
+ "versions": [
+  {
+   "date": "1988-07-15",
+   "future": false,
+   "celex": "31988L0388",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cc9baa5b5ded9cec",
+    "411a99c566133703",
+    "a15da104b6f4368a",
+    "27cc574f628057c8",
+    "a460629ab29e9da6",
+    "786e57c24c97bba8",
+    "521b3846e776f6fa",
+    "07023f2807eaa824",
+    "a2ed8005cf8a9d50",
+    "817f85f5a2883e7b",
+    "2c4c6751268375f7",
+    "f4adf68ff61917e0",
+    "74bed0a8f96e8e8d",
+    "916bf73bee7614c3",
+    "128eb8ed194fab76",
+    "679b525b282ead08",
+    "9f5c4c12608abac4"
+   ]
+  },
+  {
+   "date": "2003-11-20",
+   "future": false,
+   "celex": "01988L0388-20031120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não transformados e devidas à utilização de aromas",
+    "Altera ANEXO II",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 9.oA",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º"
+   ],
+   "fragments": [
+    "34ca058ef62911d3",
+    "213de8fb72115798",
+    "8510f9f9e363a82c",
+    "d888c228cf662df8",
+    "067eb9bde1e14a8b",
+    "599c3ebb11d17a02",
+    "b76aaeb5e2f16407",
+    "1a3c2a1f4b36f369",
+    "94726766a5bdc90d",
+    "b98727210e5ad123",
+    "743605e285c8cfaa",
+    "db2153088f3e739a",
+    "95c349f156da5958",
+    "2d07934fd752404f",
+    "f70b967a6a4684e7",
+    "93f7be9cb1d3e0bd",
+    "8b8adbf1682363f9",
+    "d885e43a184cfdc8"
+   ]
+  },
+  {
+   "date": "2011-01-20",
+   "future": false,
+   "celex": "01988L0388-20110120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 9.oA",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não transformados e devidas à utilização de aromas",
+    "Suprime ANEXO II"
+   ],
+   "fragments": [
+    "75bddab84ce26582"
+   ]
+  }
+ ],
+ "fragments": {
+  "cc9baa5b5ded9cec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 88/388/CEE do Conselho de 22 de Junho de 1988 relativa à aproximação das legislações dos Estados- membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção** *Jornal Oficial nº L 184 de 15/07/1988 p. 0061 - 0066 Edição especial finlandesa: Capítulo 13 Fascículo 17 p. 0077 Edição especial sueca: Capítulo 13 Fascículo 17 p. 0077*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 22 de Junho de 1988\n\nrelativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção\n\n(88/388/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º A,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que as diferenças existentes entre as legislações nacionais relativas aos aromas entravam a livre circulação dos géneros alimentícios e podem criar situações de desigualdade de concorrência, afectando por esse facto directamente a realização ou o funcionamento do mercado comum;\n\nConsiderando que é necessária a aproximação dessas legislações para a realização da livre circulação dos géneros alimentícios;\n\nConsiderando que a legislação relativa aos aromas utilizados nos géneros alimentícios deve ter em conta, em primeiro lugar, as exigências de protecção da saúde humana, mas também, dentro dos limites impostos pela protecção sanitária, as exigências económicas e técnicas;\n\nConsiderando que o primeiro passo deve consistir em definir numa directiva-quadro critérios gerais de pureza, definições, normas de rotulagem e princípios gerais que permitirão, posteriormente, eliminar as diferenças nas legislações;\n\nConsiderando que, com base no inventário das substâncias e materiais de base utilizados na preparação dos aromas, elaborado pela Comissão por força da Decisão 88/389/CEE do Conselho (4), o Conselho adoptará numa fase posterior, e de acordo com o processo previsto no artigo 100ºA do Tratado, as disposições adequadas quanto a certas categorias de aromas e certos materiais de base e as medidas necessárias relativas à sua utilização e aos seus métodos de produção;\n\nConsiderando que, segundo os mais recentes pareceres científicos e técnicos, dever ser limitada a utilização, nos géneros alimentícios, de determinados componentes das matérias-primas vegetais ou animais utilizadas na preparação de aromas;\n\nConsiderando que devem ser estabelecidos critérios específicos de pureza para determinados aromas, critérios microbiológicos para os aromas, métodos de análise e de amostragem dos aromas e das substâncias enumeradas nos anexos e utilizados no interior ou à superfície dos géneros alimentícios;\n\nConsiderando que, no caso de se verificar que a utilização num aroma de uma substância ou matéria autorizada com base na presente directiva ou nas disposções adoptadas posteriormente, ou que a presença de uma das substâncias referidas no Anexo II podem constituir um risco para a saúde, os Estados-membros devem ser autorizados a suspender ou limitar a sua utilização, ou a reduzir os teores máximos previstos, enquanto não for tomada uma decisão a nível comunitário;\n\nConsiderando que a elaboração da lista das substâncias ou matériais autorizadas como aditivos necessários à armazenagem e à utilização dos aromas, como solventes e diluentes dos aromas e como auxiliares tecnológicos, e a\n\nfixação de critérios específicos de pureza para os aromas, a fixação das regras de colheita de amostragem e dos métodos de análise dos aromas utilizados no interior ou à superfície dos géneros alimentícios e o controlo dos teores máximos previstos nos anexos constituem medidas técnicas de execução; que, para simplificar e acelerar o processo, a adopção dessas medidas deve ser confiada à Comissão;\n\nConsiderando que é desejável que, em todos os casos em que o Conselho confere certas competências à Comissão para aplicar disposições relativas aos aromas utilizados nos géneros alimentícios, se preveja um procedimento que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio do Comité Permanente dos Géneros Alimentícios criado pela Decisão 69/414/CEE (1);\n\nConsiderando que, sem prejuízo da aplicação das disposições nacionais que, na ausência de directivas específicas sobre os aromas, se aplicam a determinados grupos de aromas, deve ser aplicada a regulamentação prevista na presente directiva, de modo a permitir, dois anos pós a adopção da presente directiva, a comercialização e a utilização de aromas que estejam em conformidade com o disposto na presente directiva, e a proibição, três anos após a referida adopção, da comercialização e da utilização dos aromas que não estão em conformidade com as referidas disposções,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "411a99c566133703": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva diz respeito aos aromas utilizados ou destinados a serem utilizados no interior ou à superfície dos géneros alimentícios, para lhes conferir um determinado cheiro e/ou gosto, bem como aos materiais de base utilizados na produção dos aromas.\n\n2. Para efeitos da presente directiva, entende-se por:\n\na) « Aroma », as substâncias aromatizantes, os preparados aromatizantes, os aromas de transformação, os aromas de fumeiro ou as suas misturas;\n\nb) « Substância aromatizante », uma substância química definida que apresente propiedades aromatizantes, e:\n\ni) Obtida por processos físicos adequados (incluindo a destilação e a extracção por solventes), ou por processos enzimáticos ou microbiológicos a partir de uma substância de origem vegetal ou animal não tranformada ou transformada para o consumo humano por meio de processos tradicionais de preparação de géneros alimentícios (incluindo a secagem, a torrefacção e a fermentação);\n\nii) Obtida por síntese química ou isolada por processos químicos e quimicamente idêntica a substâncias presentes naturalmente em substâncias de origem vegetal ou animal tal como descritas em i);\n\niii) Obtida por síntese química, mas não quimicamente idêntica a substâncias presentes naturalmente em substâncias de origem animal ou vegetal, tal como descritas em i);\n\nc) « Preparado aromatizante », qualquer produto não incluído nas substâncias definidas na subalínea i) da alínea b), concentrado ou não, que apresente propriedades aromatizantes e seja obtido por processos físicos adequados (incluindo a destilação e a extracção por solventes), ou por processos enzimáticos ou microbiológicos a partir de substâncias de origem vegetal ou animal não transformadas ou transformadas para o consumo humano por meio de processos tradicionais de preparação de géneros alimentícios (incluindo a secagem, a torrefacção e a fermentação);\n\nd) « Aroma de transformação », qualquer produto obtido, no respeito pelas boas práticas de fabrico, por aquecimento a uma temperatura não superior a 180 °C, durante um período que não exceda 15 minutos, a partir de uma mistura de ingredientes que não possuam necessariamente por si próprios propriedades aromatizantes e dos quais pelo menos um contenha azoto (amino) e outro seja um acúçar redutor;\n\ne) « Aroma de fumeiro », qualquer extracto de fumos utilizado nos processos tradicionais de obtenção de géneros alimentícios por fumeiro.\n\n3. Os aromas podem conter géneros alimentícios, bem como outras substâncias descritas no nº 1 do artigo 6º"
+  },
+  "a15da104b6f4368a": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nA presente directiva não se aplica:\n\n- às substâncias e produtos comestíveis destinados a serem consumidos sem transformação, com ou sem reconstituição,\n\n- às substâncias que apresentem exclusivamente um gosto doce, ácido ou salgado,\n\n- às substâncias de origem vegetal ou animal com propriedades aromatizantes intrínsecas quando não sejam utilizadas como fonte de aromas."
+  },
+  "27cc574f628057c8": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros adoptarão as disposições necessárias para que os aromas não possam ser comercializados nem utilizados se não respeitarem as regras previstas na presente directiva."
+  },
+  "a460629ab29e9da6": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros adoptarão todas as disposições necessárias para garantir que:\n\na) - os aromas não contenham qualquer quantidade toxicologicamente perigosa de nenhum elemento ou substância,\n\n- sob reserva de derrogações eventualmente previstas por critérios específicos de pureza referidos no nº 2, terceiro travessão, do artigo 6º, os aromas não contenham quantidades superiores a 3 mg/kg de arsénico, 10 mg/kg de chumbo, 1 mg/kg de cádmio e 1 mg/kg de mercúrio;\n\nb) A utilização dos aromas não dê origem à presença, nos géneros alimentícios prontos a consumir, de substâncias indesejáveis constantes do Anexo I em quantidades superiores às fixadas nesse anexo;\n\nc) A utilização dos aromas e outros ingredientes alimentares com propriedades aromatizantes não dê origem à presença das substâncias constantes do Anexo II em quantidades superiores às fixadas nesse anexo."
+  },
+  "786e57c24c97bba8": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nO Conselho, deliberando nos termos do procedimento previsto no artigo 100ºA do Tratado, adoptará:\n\n1. As disposições adequadas relativas:\n\n- às fontes de aromas compostas por géneros alimentícios, bem como por ervas e especiarias normalmente consideradas alimentos,\n\n- às fontes de aromas compostas por matérias-primas vegetais ou animais normalmente não consideradas alimentos,\n\n- às substâncias aromatizantes obtidas por processos físicos adequados ou por processos enzimáticos ou microbiológicos a partir de matérias-primas vegetais ou animais,\n\n- às substâncias aromatizantes de síntese química ou quimicamente isoladas e quimicamente idênticas a substâncias aromatizantes presentes naturalmente nos géneros alimentícios, bem como nas ervas e especiarias normalmente consideradas alimentos,\n\n- às substâncias aromatizantes de síntese química ou quimicamente isoladas e quimicamente idênticas a substâncias aromatizantes presentes naturalmente nas matérias-primas vegetais ou animais normalmente não consideradas alimentos;\n\n- às substâncias aromatizantes de síntese química ou quimicamente isoladas não contempladas nos quarto e quinto travessões,\n\n- aos materiais de base utilizados para a produção de aromas de fumeiro ou de aromas de transformação, bem como às condições de reacção utilizadas na sua preparação.\n\n2. Todas as disposções específicas que possam ser necessárias por motivos de protecção da saúde pública ou das trocas comerciais, relativas:\n\n- à utilização e aos métodos de produção de aromas, incluindo os processos físicos, enzimáticos ou microbiológicos de produção dos preparados aromatizantes ou das substâncias aromatizantes referidas na subalínea i) da alínea b) e na alínea c) do nº 2 do artigo 1º,\n\n- às condições de utilização das substâncias e das matérias referidas no nº 1 do artigo 6º\n\n3. As alterações relativas aos teores máximos previstos nos anexos."
+  },
+  "521b3846e776f6fa": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nSerão adoptadas segundo o processo previsto no artigo 10º:\n\n1. A lista das substâncias ou matérias autorizadas na Comunidade como:\n\n- aditivos necessários à armazenagem e à utilização de aromas,\n\n- produtos utilizados na dissolução e diluição de aromas,\n\n- aditivos necessários à produção de aromas (auxiliares tecnológicos) na medida em que não sejam objecto de outras disposições comunitárias.\n\n2. Se necessário:\n\n- os métodos de análise necessários ao controlo do respeito pelos teores referidos no artigo 4º,\n\n- as regras relativas à colheita de amostras e aos métodos de identificação e, se necessário, do doseamento dos aromas presentes nos géneros alimentícios, no interior ou à superfície,\n\n- os critéricos específicos de pureza de determinados aromas.\n\n3. - os critérios microbiológicos aplicáveis aos aromas,\n\n- os critérios de definição em conexão com as denominações mais específicas referidas no nº 1, alínea b), do artigo 9º\n\n4. As medidas adequadas a adoptar antes de 1 de Julho de 1990, para completar a presente directiva com regras de rotulagem dos aromas destinados à venda ao consumidor final."
+  },
+  "07023f2807eaa824": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nAs disposições que possam produzir efeitos sobre a saúde pública só serão adoptadas após consulta ao Comité Científico da Alimentação Humana."
+  },
+  "a2ed8005cf8a9d50": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Se, com base na fundamentação circunstanciada e em virtude de novos dados ou de uma nova avaliação dos dados existentes feita após a adopção da presente directiva ou de uma das directivas referidas no artigo 5º, um Estado-membro verificar:\n\n- que a presença de uma das substâncias referidas nos anexos ou os teores máximos previstos, embora em conformidade com a presente directiva, ou\n\n- que a utilização de um aroma, embora em conformidade com a presente directiva, ou\n\n- que a presença de uma substância similar às referidas nos anexos,\n\nrepresenta um perigo para a saúde humana, esse Estado-membro pode provisoriamente suspender ou restringir a aplicação das disposições em causa na seu território. Desse facto informará imediatamente os outros Estados-membros e a Comissão, especificando os motivos que justificarem a sua decisão. 2. A Comissão analisará com a maior brevidade os motivos invocados pelo Estado-membro em causa e consultará o Comité Permanente dos Géneros Alimentícios, emitirá imediatamente o seu parecer e adoptará as medidas adequadas, podendo substituir as medidas referidas no nº 1.\n\n3. Se considerar que é necessário alterar a presente directiva ou uma das directivas referidas no artigo 5º para obviar às dificuldades invocadas no nº 1 e garantir oa protecção da saúde humana, a Comissão iniciará o processo previsto no artigo 10º, de modo a adoptar essas alterações; nesse caso, o Estado-membro que tiver adoptado medidas de salvaguarda pode mantê-las até à entrada em vigor das referidas alterações."
+  },
+  "817f85f5a2883e7b": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Os aromas não destinados à venda ao consumidor final só podem ser comercializados se as respectivas embalagens ou recipientes incluirem as seguintes indicações, que devem ser facilmente visíveis, claramente legíveis e indeléveis:\n\na) O nome ou firma e o endereço do fabricante ou do acondicionador ou de um vendedor estabelecido na Comunidade;\n\nb) A designação comercial: o termo « aroma » ou uma designação mais específica ou a descrição do aroma.\n\nOs Estados-membros podem manter, num período de três anos a contar da adopção da presente directiva, denominações mais específicas para designar aromas constituídos por misturas de preparados aromatizantes e substâncias aromatizantes.\n\nAntes do termo desse período decidir-se-á, nos termos do processo previsto no artigo 10º, da eventual inclusão dessas denominações na presente directiva;\n\nc) A referência « para géneros alimentícios » ou uma referência mais específica ao género alimentício a que o aroma se destina;\n\nd) A enumeração, por ordem descrescente de peso, das categorias de substâncias aromatizantes e de preparados aromatizantes presentes, segundo a classificação seguinte:\n\n- substâncias aromatizantes naturais, para as substâncias aromatizantes definidas no nº 2, alínea b), subalínea i), do artigo 1º,\n\n- substâncias aromatizantes idênticas às naturais, para as substâncias aromatizantes definidas no nº 2, alínea b), subalínea ii), do artigo 1º,\n\n- substâncias aromatizantes artificiais, para as substâncias aromatizantes definidas no nº 2, alínea b), subalínea iii), do artigo 1º,\n\n- preparados aromatizantes, para os preparados definidos no nº 2, alínea c), do artigo 1º,\n\n- aromas de transformação, para os aromas definidos no nº 2, alínea d), do artigo 1º,\n\n- aroma de fumeiro, para os aromas definidos no nº 2, alínea e), do artigo 1º;\n\ne) Na caso de uma mistura de aromas com outras substâncias ou matérias referidas no nº 1, primeiro e segundo travessões, do artigo 6º, a enumeração, por ordem descrescente de peso, na mistura:\n\n- das categorias de aromas, segundo a classificação referida na alínea d) do presente número,\n\n- do nome de cada uma das outras substâncias ou matérias ou, se for o caso, do seu número « CEE »;\n\nf) A indicação da quantidade máxima de cada componente ou grupo de componentes sujeitos a uma limitação quantitiva num género alimentício ou uma informação adequada que permita ao comprador dar cumprimento às disposições comunitárias ou, na sua falta, às disposições nacionais aplicáveis a esse género alimentício;\n\ng) Uma referência que permita a identificação do lote;\n\nh) A quantidade nominal expressa em unidas de massa ou de volume.\n\n2. Sem prejuízo da alínea d) do nº 1, a palavra « natural » ou qualquer outra expressão com um significado sensivelmente equivalente apenas pode ser utilizada para os aromas cuja parte aromatizante contenha exclusivamente preparados aromatizantes tal como definidos no nº 2, alínea c), do artigo 1º\n\nSe a designação comercial do aroma contiver uma referência a um género alimentício ou a uma fonte de aromas, a palavra « natural » ou qualquer outra expressão com um significado sensivelmente equivalente apenas pode ser utilizada se a parte aromatizante tiver sido isolada por processos físicos adequados, por processos enzimáticos ou microbiológicos ou por processos tradicionais de preparação de géneros alimentícios exclusivamente ou quase exclusivamente a partir do género alimentício ou da fonte de aromas em questão.\n\n3. Em derrogação do nº 1, as referências indicadas do nº 1, alíneas d), e) e f), podem figurar apenas nos documentos comerciais relativos ao lote, que devem ser fornecidos ao mesmo tempo ou antes da entrega, desde que a referência « destinado ao fabrico de géneros alimentícios e não à venda a retalho » tenha sido aposta na embalagem ou no recipiente do produto em questão em local perfeitamente visível.\n\n4. No que se refere às regras segundo as quais devem ser indicadas as referências estipuladas, os Estados-membros abster-se-ão de fixar condições mais pormenorizadas do que as estabelecidas no presente artigo.\n\nAs referências previstas no presente artigo devem ser formuladas em termos facilmente inteligíveis pelos compradores, excepto se a informação destes últimos for assegurada por outras medidas. A presente disposição não impede que essas referências sejam indicadas em várias línguas."
+  },
+  "2c4c6751268375f7": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Quando seja feita referência ao processo definido no presente artigo, o Comité Permanente dos Géneros Alimentícios será convocado pelo seu presidente, quer por sua própria iniciativa quer a pedido do representante de um Estado-membro. 2. O representante da Comissão apresentará ao Comité um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre esse projecto, num prazo a fixar pelo presidente em função da urgência da questão. O Comité pronuncia-se pela maioria qualificada prevista no nº 2 do artigo 148º do Tratado. O presidente não participa na votação.\n\n3. a) A Comissão adoptará as medidas previstas desde que estejam em conformidade com o parecer do Comité.\n\nb) Quando as medidas previstas não estejam em conformidade com o parecer do Comité, ou na falta de parecer, a Comissão apresentará sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, decorrido um prazo de três meses a contar da data em que o assunto lhe foi apresentado, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas."
+  },
+  "f4adf68ff61917e0": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. A presente directiva aplica-se igualmente aos aromas detinados a serem utilizados nos géneros alimentícios e aos géneros alimentícios importados na Comunidade.\n\n2. A presente directiva não se aplica aos aromas nem aos géneros alimentícios destinados a serem exportados para fora da Comunidade."
+  },
+  "74bed0a8f96e8e8d": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros não podem invocar a composição, a rotulagem dos aromas ou o seu comportamento nos géneros alimentícios para proibir, restringir ou pôr entraves à comercialização e à utilização dos aromas em conformidade com a presente directiva e com as directivas específicas referidas no arigo 5º\n\n2. O nº 1 não prejudica as disposções nacionais aplicáveis na ausência das directivas previstas no artigo 5º"
+  },
+  "916bf73bee7614c3": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os Estados-membros tomarão as medidas necessárias para dar cuprimento à presente directiva num prazo de dezoito meses a contar da sua adopção. Do facto informarão imediatamente a Comissão. As medidas tomadas devem:\n\n- admitir, dois anos após a adopção da presente directiva, a comercialização e a utilização dos aromas em conformidade com a presente directiva,\n\n- proibir, três anos após a adopção da presente directiva, a comercialização e a utilização dos aromas que não estejam em conformidade com a presente directiva.\n\n2. O nº 1 não prejudica as disposções nacionais que, na falta de directivas referidas no artigo 5º, regulamentam certos grupos de aromas ou determinam os géneros alimentícios em que podem ser utilizados, no interior ou à superfície, os aromas em conformidade com a presente directiva."
+  },
+  "128eb8ed194fab76": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 22 de Junho de 1988.\n\nPelo Conselho\n\nO Presidente\n\nM. BANGEMANN\n\n(1) JO nº C 144 de 13. 6. 1980, p. 9 e JO nº C 103 de 24. 4. 1982, p. 7.\n\n(2) JO nº C 66 de 15. 3. 1982, p. 117 e decisão de 9 de Março de 1988 (ainda não publicada no Jornal Oficial).\n\n(3) JO nº C 138 de 9. 6. 1981, p. 42.\n\n(4) Ver página 67 do presente Jornal Oficial.\n\n(1) JO nº L 291 de 19. 11. 1969, p. 9."
+  },
+  "679b525b282ead08": {
+   "fragment_id": "ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não transformados e devidas à utilização de aromas",
+   "type": "divisao",
+   "heading": "ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não transformados e devidas à utilização de aromas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não transformados e devidas à utilização de aromas\n\nSubstância // Généros alimentícios // Bebidas // // // // 3,4 benzopireno // 0,03 µg/kg // 0,03 µg/kg"
+  },
+  "9f5c4c12608abac4": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nTeores máximos em certas substâncias provenientes de aromas e de outros ingredientes alimentares com propriedades aromatizantes presentes nos géneros alimentícios prontos a consumir e nos quais foram utilizados aromas\n\nSubstâncias // Géneros alimentícios em mg/kg // Bebidas mg/kg // Excepções e/ou restrições especiais // // // // // // // // // Ácido agárico (1) // 20 // 20 // 100 mg/kg nas bebidas alcoólicas e nos géneros alimentícios que contenham fungos // Aloina (1) // 0,1 // 0,1 // 50 mg/kg nas bebidas alcoólicas // Beta azarona (1) // 0,1 // 0,1 // 1 mg/kg nas bebidas alcoólicas e nos condimentos destinados às snack foods // Berberina (1) // 0,1 // 0,1 // 10 mg/kg nas bebidas alcoólicas // Cumarina (1) // 2 // 2 // 10 mg/kg para certos tipos de confeitaria à base de caramelo // // // // 50 mg/kg nas gomas de mascar // // // // 10 mg/kg nas bebidas alcoólicas // Ácido cianídrico (1) // 1 // 1 // 50 mg/kg no nougat, massapão e seus sucedâneos ou produtos similares // // // // 1 mg/% em volume de álcool nas bebidas alcoólicas // // // // 5 mg/kg nas conservas de frutas de caroço // Hipericina (1) // 0,1 // 0,1 // 10 mg/kg nas bebidas alcoólicas // // // // 1 mg/kg na confeitaria // Pulegona (1) // 25 // 100 // 250 mg/kg nas bebidas aromatizadas com hortelã-pimenta ou hortelã // // // // 350 mg/kg nos confeitos à base de hortelã // Quassine (1) // 5 // 5 // 10 mg/kg nos produtos de confeitaria sob a forma de pastilhas // // // // 50 mg/kg nas bebidas alcoólicas // Safrol e Isosafrol (1) // 1 // 1 // 2 mg/kg nas bebidas alcoólicas de título alcoométrico, em volume, inferior a 25 % // // // // 5 mg/kg nas bebidas alcoólicas de título alcoométrico em volume, superior a 25 % // // // // 15 mg/kg nos géneros alimentícios que contenham macis e noz moscada // Santonine (1) // 0,1 // 0,1 // 1 mg/kg nas bebidas alcoólicas de título alcoométrico, em volume, superior a 25 % // Tuiona (1) alfa e beta // 0,5 // 0,5 // 5 mg/kg nas bebidas alcoólicas de título alcoométrico, em volume, inferior a 25 % // // // // 10 mg/kg nas bebidas alcoólicas de título alcoométrico, em volume, superior a 25 % // // // // 25 mg/kg nos géneros alimentícios que contenham preparados à base de salva // // // // 35 mg/kg nos amargos // // // //\n\n(1) Não pode ser adicionada como tal aos géneros alimentícios ou aos aromas. Pode estar presente no género alimentício quer naturalmente quer na sequência de uma adição de aromas preparados a partir de matérias de base naturais."
+  },
+  "34ca058ef62911d3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1988L0388 — PT — 20.11.2003 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0388:PT:NOT) [DIRECTIVA DO CONSELHO de 22 de Junho de 1988 relativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção (88/388/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0388:PT:NOT) (JO L 184, 15.7.1988, p.61)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0071:PT:NOT) | [Directiva da Comissão 91/71/CEE de 16 de Janeiro de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0071:PT:NOT) | L 42 | 25 | 15.2.1991 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | [Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | L 284 | 1 | 31.10.2003 |\n\nRectificado por:\n\n[►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0388R(01):PT:NOT) [Rectificação, JO L 345, 14.12.1988, p. 29 (88/388)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0388R(01):PT:NOT)\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0388:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 22 de Junho de 1988\n\nrelativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção\n\n(88/388/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.oA,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0003)),\n\nConsiderando que as diferenças existentes entre as legislações nacionais relativas aos aromas entravam a livre circulação dos géneros alimentícios e podem criar situações de desigualdade de concorrência, afectando por esse facto directamente a realização ou o funcionamento do mercado comum;\n\nConsiderando que é necessária a aproximação dessas legislações para a realização da livre circulação dos géneros alimentícios;\n\nConsiderando que a legislação relativa aos aromas utilizados nos géneros alimentícios deve ter em conta, em primeiro lugar, as exigências de protecção da saúde humana, mas também, dentro dos limites impostos pela protecção sanitária, as exigências económicas e técnicas;\n\nConsiderando que o primeiro passo deve consistir em definir numa directiva-quadro critérios gerais de pureza, definições, normas de rotulagem e princípios gerais que permitirão, posteriormente, eliminar as diferenças nas legislações;\n\nConsiderando que, com base no inventário das substâncias e materiais de base utilizados na preparação dos aromas, elaborado pela Comissão por força da Decisão 88/389/CEE do Conselho ([4](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0004)), o Conselho adoptará numa fase posterior, e de acordo com o processo previsto no artigo 100.oA do Tratado, as disposições adequadas quanto a certas categorias de aromas e certos materiais de base e as medidas necessárias relativas à sua utilização e aos seus métodos de produção;\n\nConsiderando que, segundo os mais recentes pareceres científicos e técnicos, dever ser limitada a utilização, nos géneros alimentícios, de determinados componentes das matérias-primas vegetais ou animais utilizadas na preparação de aromas;\n\nConsiderando que devem ser estabelecidos critérios específicos de pureza para determinados aromas, critérios microbiológicos para os aromas, métodos de análise e de amostragem dos aromas e das substâncias enumeradas nos anexos e utilizados no interior ou à superfície dos géneros alimentícios;\n\nConsiderando que, no caso de se verificar que a utilização num aroma de uma substância ou matéria autorizada com base na presente directiva ou nas disposições adoptadas posteriormente, ou que a presença de uma das substâncias referidas no Anexo II podem constituir um risco para a saúde, os Estados-membros devem ser autorizados a suspender ou limitar a sua utilização, ou a reduzir os teores máximos previstos, enquanto não for tomada uma decisão a nível comunitário;\n\nConsiderando que a elaboração da lista das substâncias ou matériais autorizadas como aditivos necessários à armazenagem e à utilização dos aromas, como solventes e diluentes dos aromas e como auxiliares tecnológicos, e a fixação de critérios específicos de pureza para os aromas, a fixação das regras de colheita de amostragem e dos métodos de análise dos aromas utilizados no interior ou à superfície dos géneros alimentícios e o controlo dos teores máximos previstos nos anexos constituem medidas técnicas de execução; que, para simplificar e acelerar o processo, a adopção dessas medidas deve ser confiada à Comissão;\n\nConsiderando que é desejável que, em todos os casos em que o Conselho confere certas competências à Comissão para aplicar disposições relativas aos aromas utilizados nos géneros alimentícios, se preveja um procedimento que estabeleça uma estreita cooperação entre os Estados-membros e a Comissão no seio do Comité Permanente dos Géneros Alimentícios criado pela Decisão 69/414/CEE ([5](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0005));\n\nConsiderando que, sem prejuízo da aplicação das disposições nacionais que, na ausência de directivas específicas sobre os aromas, se aplicam a determinados grupos de aromas, deve ser aplicada a regulamentação prevista na presente directiva, de modo a permitir, dois anos pós a adopção da presente directiva, a comercialização e a utilização de aromas que estejam em conformidade com o disposto na presente directiva, e a proibição, três anos após a referida adopção, da comercialização e da utilização dos aromas que não estão em conformidade com as referidas disposções,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "213de8fb72115798": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva diz respeito aos aromas utilizados ou destinados a serem utilizados no interior ou à superfície dos géneros alimentícios, para lhes conferir um determinado cheiro e/ou gosto, bem como aos materiais de base utilizados na produção dos aromas.\n\n2. Para efeitos da presente directiva, entende-se por:\n\na) «Aroma», as substâncias aromatizantes, os preparados aromatizantes, os aromas de transformação, os aromas de fumeiro ou as suas misturas;\n\nb) «Substância aromatizante», uma substância química definida que apresente propriedades aromatizantes, e:\n\ni) Obtida por processos físicos adequados (incluindo a destilação e a extracção por solventes), ou por processos enzimáticos ou microbiológicos a partir de uma substância de origem vegetal ou animal não transformada ou transformada para o consumo humano por meio de processos tradicionais de preparação de géneros alimentícios (incluindo a secagem, a torrefacção e a fermentação);\n\nii) Obtida por síntese química ou isolada por processos químicos e quimicamente idêntica a substâncias presentes naturalmente em substâncias de origem vegetal ou animal tal como descritas em i);\n\niii) Obtida por síntese química, mas não quimicamente idêntica a substâncias presentes naturalmente em substâncias de origem animal ou vegetal, tal como descritas em i);\n\nc) «Preparado aromatizante», qualquer produto não incluído nas substâncias definidas na subalínea i) da alínea b), concentrado ou não, que apresente propriedades aromatizantes e seja obtido por processos físicos adequados (incluindo a destilação e a extracção por solventes), ou por processos enzimáticos ou microbiológicos a partir de substâncias de origem vegetal ou animal não transformadas ou transformadas para o consumo humano por meio de processos tradicionais de preparação de géneros alimentícios (incluindo a secagem, a torrefacção e a fermentação);\n\nd) «Aroma de transformação», qualquer produto obtido, no respeito pelas boas práticas de fabrico, por aquecimento a uma temperatura não superior a 180 °C, durante um período que não exceda 15 minutos, a partir de uma mistura de ingredientes que não possuam necessariamente por si próprios propriedades aromatizantes e dos quais pelo menos um contenha azoto (amino) e outro seja um açúcar redutor;\n\ne) «Aroma de fumeiro», qualquer extracto de fumos utilizado nos processos tradicionais de obtenção de géneros alimentícios por fumeiro.\n\n3. Os aromas podem conter géneros alimentícios bem como outras substâncias descritas no n.o 1 do artigo 6.o."
+  },
+  "8510f9f9e363a82c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente directiva não se aplica:\n\n— às substâncias e produtos comestíveis destinados a ser consumidos sem transformação, com ou sem reconstituição,\n\n— às substâncias que apresentem exclusivamente um gosto doce, ácido ou salgado,\n\n— às substâncias de origem vegetal ou animal com propriedades aromatizantes intrínsecas quando não sejam utilizadas como fonte de aromas."
+  },
+  "d888c228cf662df8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros adoptarão as disposições necessárias para que os aromas não possam ser comercializados nem utilizados se não respeitarem as regras previstas na presente directiva."
+  },
+  "067eb9bde1e14a8b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-membros adoptarão todas as disposições necessárias para garantir que:\n\n— os aromas não contenham qualquer quantidade toxicologicamente perigosa de nenhum elemento ou substância,\n\n— sob reserva de derrogações eventualmente previstas por critérios específicos de pureza referidos no n.o 2, terceiro travessão, do artigo 6.o, os aromas não contenham quantidades superiores a 3 mg/kg de arsénico, 10 mg/kg de chumbo, 1 mg/kg de cádmio e 1 mg/kg de mercúrio;\n\nb) A utilização dos aromas não dê origem à presença, nos géneros alimentícios prontos a consumir, de substâncias indesejáveis constantes do anexo I em quantidades superiores às fixadas nesse anexo;\n\nc) A utilização dos aromas e outros ingredientes alimentares com propriedades aromatizantes não dê origem à presença das substâncias constantes do anexo II em quantidades superiores às fixadas nesse anexo."
+  },
+  "599c3ebb11d17a02": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Conselho, deliberando nos termos do procedimento previsto no artigo 100.oA do Tratado, adoptará:\n\n1. As disposições adequadas relativas:\n\n— às fontes de aromas compostas por géneros alimentícios, bem como por ervas e especiarias normalmente consideradas alimentos,\n\n— às fontes de aromas compostas por matérias-primas vegetais ou animais normalmente não consideradas alimentos,\n\n— às substâncias aromatizantes obtidas por processos físicos adequados ou por processos enzimáticos ou microbiológicos a partir de matérias-primas vegetais ou animais,\n\n— às substâncias aromatizantes de síntese química ou quimicamente isoladas e quimicamente idênticas a substâncias aromatizantes presentes naturalmente nos géneros alimentícios, bem como nas ervas e especiarias normalmente consideradas alimentos,\n\n— às substâncias aromatizantes de síntese química ou quimicamente isoladas e quimicamente idênticas a substâncias aromatizantes presentes naturalmente nas matérias-primas vegetais ou animais normalmente não consideradas alimentos,\n\n— às substâncias aromatizantes de síntese química ou quimicamente isoladas não contempladas nos quarto e quinto travessões,\n\n— aos materiais de base utilizados para a produção de aromas de fumeiro ou de aromas de transformação, bem como às condições de reacção utilizadas na sua preparação.\n\n2. Todas as disposições específicas que possam ser necessárias por motivos de protecção da saúde pública ou das trocas comerciais relativas:\n\n— à utilização e aos métodos de produção de aromas, incluindo os processos físicos, enzimáticos ou microbiológicos de produção dos preparados aromatizantes ou das substâncias aromatizantes referidas na subalínea i) da alínea b) e na alínea c) do n.o 2 do artigo 1.o,\n\n— às condições de utilização das substâncias e das matérias referidas no n.o 1 do artigo 6.o.\n\n3. As alterações relativas aos teores máximos previstos nos anexos."
+  },
+  "b76aaeb5e2f16407": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSerão adoptados segundo o processo previsto no artigo 10.o:\n\n1. A lista das substâncias ou matérias autorizadas na Comunidade como:\n\n— aditivos necessários à armazenagem e à utilização de aromas,\n\n— produtos utilizados na dissolução e diluição de aromas,\n\n— aditivos necessários à produção de aromas (auxiliares tecnológicos) na medida em que não sejam objecto de outras disposições comunitárias.\n\n2. Se necessário:\n\n— os métodos de análise necessários ao controlo do respeito pelos teores referidos no artigo 4.o,\n\n— as regras relativas à colheita de amostras e aos métodos de identificação e, se necessário, do doseamento dos aromas presentes nos géneros alimentícios, no interior ou à superfície,\n\n— os critérios específicos de pureza de determinados aromas.\n\n— os critérios microbiológicos aplicáveis aos aromas,\n\n— os critérios de definição em conexão com as denominações mais específicas referidas no n.o 1, alínea b), do artigo 9.o.\n\n4. As medidas adequadas a adoptar antes de 1 de Julho de 1990, para completar a presente directiva com regras de rotulagem dos aromas destinados à venda ao consumidor final."
+  },
+  "1a3c2a1f4b36f369": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs disposições que possam produzir efeitos sobre a saúde pública só serão adoptadas após consulta ao Comité Científico da Alimentação Humana."
+  },
+  "94726766a5bdc90d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Se, com base na fundamentação circunstanciada e em virtude de novos dados ou de uma nova avaliação dos dados existentes feita após a adopção da presente directiva ou de uma das directivas referidas no artigo 5.o, um Estado-membro verificar:\n\n— que a presença de uma das substâncias referidas nos anexos ou os teores máximos previstos, embora em conformidade com a presente directiva, ou\n\n— que a utilização de um aroma, embora em conformidade com a presente directiva, ou\n\n— que a presença de uma substância similar às referidas nos anexos,\n\n1. representa um perigo para a saúde humana, esse Estado-membro pode provisoriamente suspender ou restringir a aplicação das disposições em causa no seu território. Desse facto informará imediatamente os outros Estados-membros e a Comissão, especificando os motivos que justificarem a sua decisão.\n\n2. A Comissão analisará com a maior brevidade os motivos invocados pelo Estado-membro em causa e consultará o Comité Permanente do Géneros Alimentícios, emitirá imediatamente o seu parecer e adoptará as medidas adequadas, podendo substituir as medidas referidas no n.o 1.\n\n3. Se considerar que é necessário alterar a presente directiva ou uma das directivas referidas no artigo 5.o para obviar às dificuldades invocadas no n.o 1 e garantir a protecção da saúde humana, a Comissão iniciará o processo previsto no artigo 10.o, de modo a adoptar essas alterações; nesse caso, o Estado-membro que tiver adoptado medidas de salvaguarda pode mantê-las até à entrada em vigor das referidas alterações."
+  },
+  "b98727210e5ad123": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os aromas não destinados à venda ao consumidor final só podem ser comercializados se as respectivas embalagens ou recipientes incluirem as seguintes indicações, que devem ser facilmente visíveis, claramente legíveis e indeléveis:\n\na) o nome ou firma e o endereço do fabricante ou do acondicionador ou de um vendedor estabelecido na Comunidade;\n\nb) A designação comercial: o termo «aroma» ou uma designação mais específica ou a descrição do aroma.\n\nOs Estados-membros podem manter, num período de três anos a contar da adopção da presente directiva, denominações mais específicas para designar aromas constituídos por misturas de preparados aromatizantes e substâncias aromatizantes.\n\nAntes do termo desse período decidir-se-á, nos termos do processo previsto no artigo 10.o, da eventual inclusão dessas denominações na presente directiva;\n\nc) A referência «para géneros alimentícios» ou uma referência mais específica ao género alimentício a que o aroma se destina;\n\nd) A enumeração, por ordem descrescente de peso, das categorias de substâncias aromatizantes e de preparados aromatizantes presentes, segundo a classificação seguinte:\n\n— substâncias aromatizantes naturais, para as substâncias aromatizantes definidas no n.o 2, alínea b), subalínea i), do artigo 1.o,\n\n— substâncias aromatizantes idênticas às naturais, para as substâncias aromatizantes definidas no n.o 2, alínea b), subalínea ii), do artigo 1.o,\n\n— substâncias aromatizantes artificiais, para as substâncias aromatizantes definidas no n.o 2, alínea b), subalínea iii), do artigo 1.o,\n\n— preparados aromatizantes, para os preparados definidos no n.o 2, alínea c), do artigo 1.o,\n\n— aromas de transformação, para os aromas definidos no n.o 2, alínea d), do artigo 1.o,\n\n— aroma de fumeiro, para os aromas definidos no n.o 2, alínea e), do artigo 1.o;\n\ne) No caso de uma mistura de aromas com outras substâncias ou matérias referidas no n.o 1, primeiro e segundo travessões, do artigo 6.o, a enumeração, por ordem descrescente de peso, na mistura:\n\n— das categorias de aromas, segundo a classificação referida na alínea d) do presente número,\n\n— do nome de cada uma das outras substâncias ou matérias ou, se for o caso, do seu número «CEE»;\n\nf) A indicação da quantidade máxima de cada componente ou grupo de componentes sujeitos a uma limitação quantitativa num género alimentício ou uma informação adequada que permita ao comprador dar cumprimento às disposições comunitárias ou, na sua falta, às disposições nacionais aplicáveis a esse género alimentício;\n\ng) Uma referência que permita a identificação do lote;\n\nh) A quantidade nominal expressa em unidades de massa ou de volume.\n\n2. Sem prejuízo da alínea d) do n.o 1, a palavra «natural» ou qualquer outra expressão com um significado sensivelmente equivalente apenas pode ser utilizada para os aromas cuja parte aromatizante contenha exclusivamente [►C1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0388R(01):PT:NOT) substâncias aromatizantes definidas no n.o 2, alínea b) subalínea i), do artigo 1.o e/ou preparados aromatizantes tal como definidos no n.o 2, alínea c), do artigo 1.o. ◄\n\nSe a designação comercial do aroma contiver uma referência a um género alimentício ou a uma fonte de aromas, a palavra «natural» ou qualquer outra expressão com um significado sensivelmente equivalente apenas pode ser utilizada se a parte aromatizante tiver sido isolada por processos físicos adequados, por processos enzimáticos ou microbiológicos ou por processos tradicionais de preparação de géneros alimentícios exclusivamente ou quase exclusivamente a partir do género alimentício ou da fonte de aromas em questão.\n\n3. Em derrogação do n.o 1, as referências indicadas no n.o 1, alíneas d), e) e f), podem figurar apenas nos documentos comerciais relativos ao lote, que devem ser fornecidos ao mesmo tempo ou antes da entrega, desde que a referência «destinado ao fabrico de géneros alimentícios e não à venda a retalho» tenha sido aposta na embalagem ou no recipiente do produto em questão em local perfeitamente visível.\n\n4. No que se refere às regras segundo as quais devem ser indicadas as referências estipuladas, os Estados-membros abster-se-ão de fixar condições mais pormenorizadas do que as estabelecidas no presente artigo.\n\nAs referências previstas no presente artigo devem ser formuladas em termos facilmente inteligíveis pelos compradores, excepto se a informação destes últimos for assegurada por outras medidas. A presente disposição não impede que essas referências sejam indicadas em várias línguas.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0071:PT:NOT)"
+  },
+  "743605e285c8cfaa": {
+   "fragment_id": "Artigo 9.oA",
+   "type": "artigo",
+   "heading": "Artigo 9.oA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.oA\n\n1. 0s aromatizantes destinados à venda ao consumidor final só podem ser comercializados se as respectivas rotulagens incluírem as seguintes indicações obrigatórias, que devem ser facilmente visíveis, claramente legíveis e indeléveis:\n\na) Quer o termo «aromatizante» quer uma denominação mais específica ou uma descrição do aromatizante;\n\nb) Quer a menção «para géneros alimentícios» quer uma referência mais específica ao género alimentício a que o aromatizante se destina;\n\nc) A data de durabilidade mínima em conformidade com as disposições do n.o 1, ponto 4, do artigo 3.o e do artigo 9.o da Directiva 79/112/CEE do Conselho ([6](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0006));\n\nd) As condições específicas de conservação e utilização;\n\ne) Um modo de utilização, no caso de a sua omissão não permitir utilizar o aromatizante de modo adequado;\n\nf) A quantidade líquida expressa em unidades de massa ou de volume;\n\ng) O nome ou a firma e o endereço do fabricante ou do acondicionador ou de um vendedor estabelecido na Comunidade;\n\nh) Uma indicação ou marca que permita identificar o lote, em conformidade com a Directiva 89/396/CEE do Conselho ([7](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0007));\n\ni) Se se tratar de uma mistura de aromatizante(s) com outras substâncias, a enumeração, por ordem ponderal decrescente na mistura\n\n— do aromatizante ou dos aromatizantes em questão, em conformidade com a alínea a),\n\n— do nome de cada uma das restantes substâncias ou matérias, se for caso disso, do respectivo número CEE.\n\n2. O termo «natural» ou qualquer outra expressão com um significado sensivelmente equivalente apenas pode ser utilizado para os aromatizantes cuja parte activa contenha exclusivamente substâncias aromatizantes tais como as definidas na alínea b) ponto i) do artigo 1.o e/ou preparações aromatizantes tais como as definidas no n.o 2, alínea c), do artigo 1.o.\n\nSe a designação comercial do aromatizante contiver uma referência a um género alimentício ou uma fonte de aromatizantes, o termo «natural» ou de qualquer expressão com um significado sensivelmente equivalente apenas pode ser utilizado se a parte activa tiver sido isolada por processos físicos adequados, processos enzimáticos ou microbiológicos ou processos tradicionais de preparação de géneros alimentícios unicamente ou quase unicamente a partir do género alimentícios ou da fonte de aromatizantes em questão.\n\n3. As menções previstas no presente artigo devem ser formuladas numa língua facilmente compreensível pelos compradores, a não ser que a informação deste últimos seja assegurada por outras medidas. A presente disposição não impede que essas menções sejam indicadas em várias línguas.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT)"
+  },
+  "db2153088f3e739a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.o do regulamento (CE) n.o 178/2002 ([8](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0008)), a seguir designado por «Comité».\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE ([9](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0009)), tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo referido no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31988L0388:PT:NOT)"
+  },
+  "95c349f156da5958": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A presente directiva aplica-se igualmente aos aromas destinados a ser utilizados nos géneros alimentícios e aos géneros alimentícios importados na Comunidade.\n\n2. A presente directiva não se aplica aos aromas nem aos géneros alimentícios destinados a ser exportados para fora da Comunidade."
+  },
+  "2d07934fd752404f": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os Estados-membros não podem invocar a composição, a rotulagem dos aromas ou o seu comportamento nos géneros alimentícios para proibir, restringir ou pôr entraves à comercialização e à utilização dos aromas em conformidade com a presente directiva e com as directivas específicas referidas no artigo 5.o.\n\n2. O n.o 1 não prejudica as disposições nacionais aplicáveis na ausência das directivas previstas no artigo 5.o."
+  },
+  "f70b967a6a4684e7": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros tomarão as medidas necessárias para dar cumprimento à presente directiva num prazo de dezoito meses a contar da sua adopção. Do facto informarão imediatamente a Comissão. As medidas tomadas devem:\n\n— admitir, dois anos após a adopção da presente directiva, a comercialização e a utilização dos aromas em conformidade com a presente directiva,\n\n— proibir, três anos após a adopção da presente directiva, a comercialização e a utilização dos aromas que não estejam em conformidade com a presente directiva.\n\n2. O n.o 1 não prejudica as disposições nacionais que, na falta de directivas referidas no artigo 5.o, regulamentam certos grupos de aromas ou determinam os géneros alimentícios em que podem ser utilizados, no interior ou à superfície, os aromas em conformidade com a presente directiva."
+  },
+  "93f7be9cb1d3e0bd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "8b8adbf1682363f9": {
+   "fragment_id": "ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não transformados e devidas à utilização de aromas",
+   "type": "divisao",
+   "heading": "ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não transformados e devidas à utilização de aromas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Teores máximos de certas substâncias indesejáveis presentes nos géneros alimentícios consumidos não transformados e devidas à utilização de aromas\n\n| Substância | Géneros alimentícios | Bebidas |\n| --- | --- | --- |\n| 3,4 benzopireno | 0,03 μg/kg | 0,03 μg/kg |"
+  },
+  "d885e43a184cfdc8": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nTeores máximos em certas substâncias provenientes de aromas e de outros ingredientes alimentares com propriedades aromatizantes presentes nos géneros alimentícios prontos a consumir e nos quais foram utilizados aromas\n\n| Substâncias | Géneros alimentícios em mg/kg | Bebidas mg/kg | Excepções e/ou restrições especiais |\n| --- | --- | --- | --- |\n| Ácido agárico [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 20 | 20 | 100 mg/kg nas bebidas alcoólicas e nos géneros alimentícios que contenham fungos |\n| Aloína [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 0,1 | 0,1 | 50 mg/kg nas bebidas alcoólicas |\n| Beta azarona [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 0,1 | 0,1 | 1 mg/kg nas bebidas alcoólicas e nos condimentos destinados às snacks foods |\n| Berberina [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 0,1 | 0,1 | 10 mg/kg nas bebidas alcoólicas |\n| Cumarina [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 2 | 2 | 10 mg/kg para certos tipos de confeitaria à base de caramelo 50 mg/kg nas gomas de mascar 10 mg/kg nas bebidas alcoólicas |\n| Ácido cianídrico [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 1 | 1 | 50 mg/kg no nougat, massapão e seus sucedâneos ou produtos similares 1 mg/% em volume de álcool nas bebidas alcoólicas 5 mg/kg nas conservas de frutas de caroço |\n| Hipericina [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 0,1 | 0,1 | 10 mg/kg nas bebidas alcoólicas 1 mg/kg na confeitaria |\n| Pulegona [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 25 | 100 | 250 mg/kg nas bebidas aromatizadas com hortelã-pimenta ou hortelã 350 mg/kg nos confeitos à base de hortelã |\n| Quassine [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 5 | 5 | 10 mg/kg nos produtos de confeitaria sob a forma de pastilhas 50 mg/kg nas bebidas alcoólicas |\n| Safrol e Isafrol [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 1 | 1 | 2 mg/kg nas bebidas alcoólicas de título alcoométrico, em volume, superior a 25 % 5 mg/kg nas bebidas alcoólicas de título alcoométrico em volume, superior a 25 % 15 mg/kg nos géneros alimentícios que contenham macis e noz moscada |\n| Santonine [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) | 0,1 | 0,1 | 1 mg/kg nas bebidas alcoólicas de título alcoométrico, em volume, superior a 25 % |\n| Tuiona [(1)](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#E0010) alfa e beta | 0,5 | 0,5 | 5 mg/kg nas bebidas alcoólicas de título alcoométrico, em volume, inferior a 25 % 10 mg/kg nas bebidas alcoólicas de título alcoométrico, em volume, superior a 25 % 25 mg/kg nos géneros alimentícios que contenham preparados à base de salva 35 mg/kg nos amargos |\n| (1) Não pode ser adicionada como tal aos géneros alimentícios ou aos aromas. Pode estar presente no género alimentício quer naturalmente quer na sequência de uma adição de aromas preparados a partir de matérias de base naturais. |  |  |  |\n\n([1](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0001)) JO n.o C 144 de 13. 6. 1980, p. 9 e JO n.o C 103 de 24. 4. 1982, p. 7.\n\n([2](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0002)) JO n.o C 66 de 15. 3. 1982, p. 117e decisão de 9 de Março de 1988 (ainda não publicada no Jornal Oficial).\n\n([3](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0003)) JO n.o C 138 de 9. 6. 1981, p. 42.\n\n([4](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0004)) JO n.o L 184 de 15. 7. 1988, p. 67.\n\n([5](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0005)) JO n.o L 291 de 19. 11. 1969, p. 9.\n\n([6](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0006)) JO n.o L 33 de 8. 2. 1979, p. 1.\n\n([7](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0007)) JO n.o L 186 de 30. 6. 1989, p. 21.\n\n([8](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0008)) JO L 31 de 1.2.2003, p. 1.\n\n([9](http://publications.europa.eu/resource/cellar/3701e732-0b1c-457f-aa1a-407bfc4ec1f1.0018.02/DOC_1#src.E0009)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "75bddab84ce26582": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1988L0388 — PT — 20.01.2011 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31988L0388) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31988L0388) [de 22 de Junho de 1988](http://publications.europa.eu/resource/celex/31988L0388) [relativa à aproximação das legislações dos Estados-membros no domínio dos aromas destinados a serem utilizados nos géneros alimentícios e dos materiais de base para a respectiva produção](http://publications.europa.eu/resource/celex/31988L0388) [(88/388/CEE)](http://publications.europa.eu/resource/celex/31988L0388) (JO L 184, 15.7.1988, p.61)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1334/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1334) — L 354 — 34 — 31.12.2008"
+  }
+ }
+}

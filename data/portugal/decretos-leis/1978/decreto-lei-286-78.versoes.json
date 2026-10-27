@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:329648:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1978-180360160",
+ "dre_path": "/dr/detalhe/decreto-lei/286-1978-329648",
+ "source_lastmod": "2025-06-26",
+ "versions": [
+  {
+   "date": "1978-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922700448",
+    "180360253",
+    "180360254"
+   ]
+  },
+  {
+   "date": "1978-10-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:328614:por",
+     "title": "Declaração",
+     "published": "1978-10-09",
+     "dre_path": "/dr/detalhe/declaracao/1978-328614"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º"
+   ],
+   "fragments": [
+    "180360252",
+    "922700375",
+    "180360254",
+    "180360255"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "922700448",
+    "922700449",
+    "922700450",
+    "922700451"
+   ]
+  }
+ ],
+ "fragments": {
+  "922700448": {
+   "fragment_id": "180360161",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 286/78\n\nde 13 de Setembro\n\nVerificando-se a impossibilidade de, por parte do Banco de Portugal, ser passado o documento referido no n.º 1 do artigo 4.º da Lei n.º 42/77, de 18 de Junho, e tornando-se necessária a adopção de medidas que permitam aos contribuintes usufruir o benefício previsto na alínea a) do artigo 1.º dessa lei, relativamente às exportações efectuadas no período decorrido de 19 daquele mês até 31 de Dezembro de 1977:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "180360253": {
+   "fragment_id": "180360162",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A dedução referida na alínea a) do artigo 1.º da Lei n.º 42/77, de 18 de Junho, relativa às exportações efectuadas no período decorrido desde o dia imediato ao da publicação dessa lei até 31 de Dezembro de 1977, será feita na matéria colectável apurada para efeitos da liquidação correctiva de que trata o § único do artigo 85.º do Código da Contribuição Industrial, mediante requerimento do contribuinte, a apresentar, no prazo de trinta dias, a contar da entrada em vigor do presente diploma, na repartição de finanças competente para aquela liquidação.\n\n2 - Do requerimento deverá constar o valor das exportações, líquidas de devoluções e abatimentos, efectuadas no período referido no número anterior, constante da contabilidade regularmente organizada do contribuinte ou de livros a que se refere o artigo 133.º do Código da Contribuição Industrial, com indicação, separada, do valor das mercadorias e do valor dos serviços."
+  },
+  "180360254": {
+   "fragment_id": "180360163",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÀs inexactidões praticadas no requerimento referido no artigo anterior serão aplicáveis as multas estabelecidas no artigo 142.º do Código da Contribuição Industrial, conforme o grupo da mesma contribuição a que o infractor pertencer, observando-se na sua aplicação as regras estabelecidas para as multas cominadas no mesmo Código.\n\nMário Soares - Vítor Manuel Ribeiro Constâncio."
+  },
+  "180360252": {
+   "fragment_id": "180360161",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 286/78\n\nde 13 de Setembro\n\nVerificando-se a impossibilidade de, por parte do Banco de Portugal, ser passado o documento referido no n.º 1 do artigo 4.º da Lei n.º 42/77, de 18 de Junho, e tornando-se necessária a adopção de medidas que permitam aos contribuintes usufruir o benefício previsto na alínea a) do artigo 1.º dessa lei, relativamente às exportações efectuadas no período decorrido de 19 daquele mês até 31 de Dezembro de 1977:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "922700375": {
+   "fragment_id": "180360162",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1978-10-09",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 232/1978, Série I de 1978-10-09](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-328614), em vigor a partir de 1978-10-09"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A dedução referida na alínea a) do artigo 1.º da Lei n.º 42/77, de 18 de Junho, relativa às exportações efectuadas no período decorrido desde o dia imediato ao da publicação dessa lei até 31 de Dezembro de 1977, será feita na matéria colectável apurada para efeitos da liquidação correctiva de que trata o § único do artigo 85.º do Código da Contribuição Industrial, mediante requerimento do contribuinte, a apresentar, no prazo de trinta dias, a contar da entrada em vigor do presente diploma, na repartição de finanças competente para aquela liquidação.\n\n2 - Do requerimento deverá constar o valor das exportações, líquidas de devoluções e abatimentos, efectuadas no período referido no número anterior, constante da contabilidade regularmente organizada do contribuinte ou dos livros a que se refere o artigo 133.º do Código da Contribuição Industrial, com indicação, separada, do valor das mercadorias e do valor dos serviços.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 232/1978, Série I de 1978-10-09](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-328614), em vigor a partir de 1978-10-09"
+  },
+  "180360255": {
+   "fragment_id": "180360164",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Promulgado em 16 de Agosto de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "922700449": {
+   "fragment_id": "180360162",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Retificado pelo/a [Declaração - Diário da República n.º 232/1978, Série I de 1978-10-09](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-328614), em vigor a partir de 1978-10-09"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A dedução referida na alínea a) do artigo 1.º da Lei n.º 42/77, de 18 de Junho, relativa às exportações efectuadas no período decorrido desde o dia imediato ao da publicação dessa lei até 31 de Dezembro de 1977, será feita na matéria colectável apurada para efeitos da liquidação correctiva de que trata o § único do artigo 85.º do Código da Contribuição Industrial, mediante requerimento do contribuinte, a apresentar, no prazo de trinta dias, a contar da entrada em vigor do presente diploma, na repartição de finanças competente para aquela liquidação.\n\n2 - Do requerimento deverá constar o valor das exportações, líquidas de devoluções e abatimentos, efectuadas no período referido no número anterior, constante da contabilidade regularmente organizada do contribuinte ou dos livros a que se refere o artigo 133.º do Código da Contribuição Industrial, com indicação, separada, do valor das mercadorias e do valor dos serviços.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Retificado pelo/a [Declaração - Diário da República n.º 232/1978, Série I de 1978-10-09](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-328614), em vigor a partir de 1978-10-09"
+  },
+  "922700450": {
+   "fragment_id": "180360163",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 2.º\n\nÀs inexactidões praticadas no requerimento referido no artigo anterior serão aplicáveis as multas estabelecidas no artigo 142.º do Código da Contribuição Industrial, conforme o grupo da mesma contribuição a que o infractor pertencer, observando-se na sua aplicação as regras estabelecidas para as multas cominadas no mesmo Código.\n\nMário Soares - Vítor Manuel Ribeiro Constâncio.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "922700451": {
+   "fragment_id": "180360164",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Promulgado em 16 de Agosto de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

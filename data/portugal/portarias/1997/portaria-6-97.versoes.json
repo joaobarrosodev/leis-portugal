@@ -1,0 +1,57 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:300845:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1997-173163461",
+ "dre_path": "/dr/detalhe/portaria/6-1997-300845",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-01-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "173164197"
+   ]
+  },
+  {
+   "date": "2021-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173109832:por",
+     "title": "Portaria n.º 214-A/2021",
+     "published": "2021-10-20",
+     "dre_path": "/dr/detalhe/portaria/214-a-2021-173109832"
+    }
+   ],
+   "changes": [
+    "Altera Assinatura"
+   ],
+   "fragments": [
+    "173164197",
+    "173164199"
+   ]
+  }
+ ],
+ "fragments": {
+  "173164197": {
+   "fragment_id": "173163462",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 6/97\n\nde 2 de Janeiro\n\nO Decreto-Lei n.º 274/95, de 23 de Outubro, relativo às prescrições mínimas de segurança e de saúde no trabalho que garantam a todos uma assistência adequada a bordo dos navios, prevê, no n.º 3 do artigo 4.º, que a lista da dotação médica que deve integrar as farmácias de bordo e os modelos de registo da referida dotação sejam estabelecidos por portaria conjunta.\n\nCumpre, assim, dar execução àquele preceito legal e completar a transposição para o direito interno da Directiva n.º <a href=\"eurlex.asp?ano=1992&id=392L0029\" title=\"Link para Directiva da Comunidade Europeia\">92/29/CEE</a>, do Conselho, de 31 de Março de 1992, sobre as prescrições mínimas de segurança e de saúde com vista a promover uma melhor assistência médica a bordo dos navios.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 274/95, de 23 de Outubro, manda o Governo, pelos Ministros do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e para a Qualificação e o Emprego, o seguinte:\n\n1.º A lista da dotação médica que deve integrar as farmácias de bordo, tendo em conta a classificação dos navios, consta do anexo I da presente portaria, que dela faz parte integrante.\n\n2.º Os modelos das fichas de registo da dotação médica existente a bordo são os constantes do anexo II da presente portaria, que dela faz parte integrante.\n\n3.º A presente portaria entra imediatamente em vigor.\n\nMinistérios do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e das Pescas, da Saúde e para a Qualificação e o Emprego."
+  },
+  "173164199": {
+   "fragment_id": "173163463",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214-A/2021 - Diário da República n.º 204/2021, 1º Suplemento, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/214-a-2021-173109832), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "Assinada em 4 de Dezembro de 1996.\n\nO Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo de Sousa Vasconcelos, Secretário de Estado das Pescas. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina. - Pela Ministra para a Qualificação e o Emprego, António de Lemos Monteiro Fernandes, Secretário de Estado do Trabalho.\n\nANEXO I\n\nDotação médica (lista não exaustiva)\n\nI - Medicamentos\n\n(ver documento original)\n\nII - Material médico\n\n(ver documento original)\n\nIII - Antídotos\n\n1 - Medicamentos:\n\nGerais;\n\nCardiovasculares;\n\nSistema gastrointestinal;\n\nSistema nervoso;\n\nAparelho respiratório;\n\nAnti-infecciosos;\n\nPara uso externo.\n\n2 - Material médico:\n\nMaterial para oxigenoterapia (incluindo o material para a sua manutenção).\n\nANEXO II\n\nQuadro geral destinado ao controlo das dotações médicas dos navios\n\nSECÇÃO A\n\nNavios da categoria A\n\nI - Identificação do navio:\n\nNome: ...\n\nPavilhão: ...\n\nPorto de origem: ...\n\nII - Dotações médicas:\n\n(ver documento original)\n\nLocal e data: ...\n\nAssinatura do comandante: ...\n\nVisto da pessoa ou autoridade competente: ...\n\nSECÇÃO B\n\nNavios da categoria B\n\nI - Identificação do navio:\n\nNome: ...\n\nPavilhão: ...\n\nPorto de origem: ...\n\nII - Dotações médicas:\n\n(ver documento original)\n\nLocal e data: ...\n\nAssinatura do comandante: ...\n\nVisto da pessoa ou autoridade competente: ...\n\nSECÇÃO C\n\nNavios da categoria C\n\nI - Identificação do navio:\n\nNome: ...\n\nPavilhão: ...\n\nPorto de origem: ...\n\nII - Dotações médicas:\n\n(ver documento original)\n\nLocal e data: ...\n\nAssinatura do comandante: ...\n\nVisto da pessoa ou autoridade competente: ...\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214-A/2021 - Diário da República n.º 204/2021, 1º Suplemento, Série I de 2021-10-20](https://diariodarepublica.pt/dr/detalhe/portaria/214-a-2021-173109832), em vigor a partir de 2021-11-19"
+  }
+ }
+}

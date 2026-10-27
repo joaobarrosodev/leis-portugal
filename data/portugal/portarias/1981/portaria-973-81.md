@@ -1,0 +1,199 @@
+---
+schema_version: '1.0'
+id: pt:dre:568339:por
+title: Portaria n.º 973/81
+short_title: null
+summary: Organiza pelo sistema de unidades de crédito o curso de licenciatura em Ciências do Meio Aquático, do Instituto Ciências
+  Biomédicas de Abel Salazar, da Universidade do Porto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e das Universidades
+proposing_entity: null
+official_number: 973/81
+official_date: null
+publication_date: '1981-11-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 263/1981, Série I de 1981-11-14
+  number: '263'
+  series: I
+  supplement: null
+  pages: 3017 - 3018
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26300/30173018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '568339'
+  dre_path: /dr/detalhe/portaria/973-1981-568339
+  internal: pt:dre:568339:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/973-1981-568339
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/973-1981-568339
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:59:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b0f96097ba3c392d5beebacda3eea9139530fef9fc30672ca463b7014fa15543
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Licenciatura
+- Plano de Estudos
+- Universidade do Porto
+relationships:
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562425:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:59:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 973/81
+
+de 14 de Novembro
+
+Ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e do disposto no artigo 2.º do [Decreto n.º 131/81](https://diariodarepublica.pt/dr/detalhe/decreto/131-1981-562425), de 24 de Outubro;
+
+Sob proposta da Comissão Instaladora do Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e das Universidades, o seguinte:
+
+1.º
+
+(Organização)
+
+O curso de licenciatura em Ciências do Meio Aquático, do Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto, criado pelo artigo único do [Decreto n.º 131/81](https://diariodarepublica.pt/dr/detalhe/decreto/131-1981-562425), de 24 de Outubro, e adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.
+
+2.º
+
+(Área científica do curso)
+
+A área científica do curso é a de Ciências do Meio Aquático.
+
+3.º
+
+(Áreas científicas)
+
+1 - São áreas científicas:
+
+a) Biologia Aplicada;
+
+b) Zootecnia;
+
+c) Ciências Exactas;
+
+d) Bioquímica;
+
+e) Biologia Quantitativa.
+
+2 - São áreas científicas opcionais:
+
+a) Economia;
+
+b) Sociologia.
+
+4.º
+
+(Duração normal do curso)
+
+A duração normal do curso é de 4 anos.
+
+5.º
+
+(Unidades de crédito)
+
+As unidades de crédito necessárias à obtenção do curso são as seguintes:
+
+a) Áreas científicas obrigatórias:
+
+I) Biologia Aplicada ... 44,5
+
+II) Zootecnia ... 33
+
+III) Ciências Exactas ... 19
+
+IV) Bioquímica ... 13,5
+
+V) Biologia Quantitativa ... 14
+
+b) Áreas científicas opcionais:
+
+I) Economia ou
+
+II) Sociologia ... 6
+
+Total ... 130
+
+6.º
+
+(Precedências)
+
+A tabela e o regime de precedências serão fixados pelo conselho científico.
+
+7.º
+
+(Protocolos)
+
+1 - A leccionação de cadeiras do plano de estudos aprovado pela presente portaria poderá ser feita no âmbito de protocolos a estabelecer com outros estabelecimentos de ensino superior ou de investigação.
+
+2 - Os protocolos a que se refere o número anterior são homologados pelo reitor da Universidade do Porto, caso se refiram a estabelecimentos da Universidade do Porto, ou pelo Ministro da Educação e das Universidades, em caso contrário.
+
+8.º
+
+(Classificação final)
+
+1 - A classificação final da licenciatura em Ciências do Meio Aquático do Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto, é a média aritmética ponderada arredondada (considerando como unidade a fracção não inferior a 5 décimas) das classificações das disciplinas que constituem o plano de estudos da referida licenciatura.
+
+2 - Os coeficientes de ponderação serão fixados nos moldes do n.º 1 do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.
+
+9.º
+
+(Início de funcionamento)
+
+O curso entrará em funcionamento no ano lectivo de 1981-1982.
+
+Ministério da Educação e das Universidades, 2 de Novembro de 1981. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo.

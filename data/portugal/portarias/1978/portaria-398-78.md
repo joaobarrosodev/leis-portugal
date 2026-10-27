@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:297578:por
+title: Portaria n.º 398/78
+short_title: null
+summary: Veda a afectação aos aumentos de remunerações mínimas da tabela constante do contrato colectivo de trabalho para
+  a actividade seguradora de montante global superior a 20% do total das remunerações
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e do Trabalho - Secretarias de Estado do Tesouro e do Trabalho
+proposing_entity: null
+official_number: 398/78
+official_date: null
+publication_date: '1978-07-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/1978, Série I de 1978-07-21
+  number: '166'
+  series: I
+  supplement: null
+  pages: 1392 - 1392
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16600/13921392.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '297578'
+  dre_path: /dr/detalhe/portaria/398-1978-297578
+  internal: pt:dre:297578:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/398-1978-297578
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/398-1978-297578
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5805929953042b845b3daab29ab7388df9544d73aab02d88a1bd6bf8d098b9a6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:40:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contratação Colectiva
+- Contrato Coletivo de Trabalho
+- Convenção Coletiva de Trabalho
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:294717:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:40:16Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 398/78
+
+de 21 de Julho
+
+Considerando o disposto no [Decreto-Lei n.º 121/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1978-294717), de 2 de Junho, que permite a revisão de instrumentos de regulamentação colectiva, na parte que fixa remunerações mínimas e outras prestações com expressão pecuniária, após o decurso de um período mínimo de vigência de doze meses;
+
+Considerando o previsto no artigo 4.º do citado decreto-lei, em que se determina que o limite máximo dos aumentos permitidos para as remunerações mínimas aplicáveis às empresas públicas será fixado por portaria conjunta dos Ministros das Finanças e do Plano, do Trabalho e da Tutela:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesouro e do Trabalho, o seguinte:
+
+É vedado afectar aos aumentos de remunerações mínimas da tabela constante do contrato colectivo de trabalho para a actividade seguradora montante global superior a 20% do total das remunerações resultantes da aplicação da tabela publicada em 1977.
+
+Ministérios das Finanças e do Plano e do Trabalho, 26 de Junho de 1978. - O Secretário de Estado do Tesouro, Herlânder dos Santos Estrela. - O Secretário de Estado do Trabalho, Custódio de Almeida Simões.

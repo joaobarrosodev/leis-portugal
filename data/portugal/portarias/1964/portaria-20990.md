@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:535207:por
+title: Portaria n.º 20990
+short_title: null
+summary: Fixa as lotações completa e normal provisória para a corveta Comandante Almeida Carvalho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: '20990'
+official_date: null
+publication_date: '1964-12-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 297/1964, Série I de 1964-12-21
+  number: '297'
+  series: I
+  supplement: null
+  pages: 1811 - 1811
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/12/29700/18111811.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '535207'
+  dre_path: /dr/detalhe/portaria/20990-1964-535207
+  internal: pt:dre:535207:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20990-1964-535207
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20990-1964-535207
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:53:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9b1459c7408cfaefd6203cb9beb8dd69137a98e6b885a1b0d11624b10942e7af
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:423467:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:53:46Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20990
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, fixar, com observância das normas estabelecidas na [Portaria n.º 17172](https://diariodarepublica.pt/dr/detalhe/portaria/17172-1959-423467), de 16 de Maio de 1959, para a corveta Comandante Almeida Carvalho as seguintes lotações completa e normal provisórias:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29700/18111811.pdf)
+
+Ministério da Marinha, 21 de Dezembro de 1964. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

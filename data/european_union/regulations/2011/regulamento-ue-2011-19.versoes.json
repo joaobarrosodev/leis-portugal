@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32011R0019:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02011R0019-20220706",
+ "dre_path": null,
+ "source_lastmod": "2022-07-06",
+ "versions": [
+  {
+   "date": "2011-01-12",
+   "future": false,
+   "celex": "32011R0019",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9e3bef678c87f19a",
+    "5d5a84df9051158e",
+    "1ee414208ee779ec",
+    "00255440b78e9807",
+    "5590b3f70e1e3d8f",
+    "97fc335d0193dd79",
+    "8b5c35db35b331d0"
+   ]
+  },
+  {
+   "date": "2022-07-06",
+   "future": false,
+   "celex": "02011R0019-20220706",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Disposições para a homologação CE de um modelo de veículo no que se refere à chapa regulamentar do fabricante e ao número de identificação do veículo",
+    "Suprime Artigo 4.º — Validade e extensão de homologações CE concedidas nos termos da Directiva 76/114/CEE",
+    "Suprime Artigo 5.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e97afea7f49e7a9c"
+   ]
+  }
+ ],
+ "fragments": {
+  "9e3bef678c87f19a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Janeiro de 2011\n\nrelativo às prescrições para homologação das chapas regulamentares do fabricante e do número de identificação do veículo de veículos a motor e seus reboques e que aplica o Regulamento (CE) n.º 661/2009 do Parlamento Europeu e do Conselho relativo às prescrições para homologação no que se refere à segurança geral dos veículos a motor, seus reboques e sistemas, componentes e unidades técnicas a eles destinados\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 661/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, relativo às prescrições para homologação no que se refere à segurança geral dos veículos a motor, seus reboques e sistemas, componentes e unidades técnicas a eles destinados [([^1])](http://publications.europa.eu/resource/cellar/d9d73ecb-54db-4af9-b718-3d6b6cf2d648.0019.03/DOC_1#ntr1-L_2011008PT.01000101-E0001), e, nomeadamente, o seu artigo 14.º, n.º 1, alínea a),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 661/2009 é um regulamento específico para efeitos do procedimento de homologação previsto na Directiva 2007/46/CE do Parlamento Europeu e do Conselho, de 5 de Setembro de 2007, que estabelece um quadro para a homologação dos veículos a motor e seus reboques, e dos sistemas, componentes e unidades técnicas destinados a serem utilizados nesses veículos (Directiva-Quadro) [([^2])](http://publications.europa.eu/resource/cellar/d9d73ecb-54db-4af9-b718-3d6b6cf2d648.0019.03/DOC_1#ntr2-L_2011008PT.01000101-E0002).\n\n(2) O Regulamento (CE) n.º 661/2009 revoga a Directiva 76/114/CEE do Conselho, de 18 de Dezembro de 1975, relativa à aproximação das legislações dos Estados-Membros respeitantes às chapas e inscrições regulamentares, bem como à sua localização e modo de fixação no que respeita aos veículos a motor e seus reboques [([^3])](http://publications.europa.eu/resource/cellar/d9d73ecb-54db-4af9-b718-3d6b6cf2d648.0019.03/DOC_1#ntr3-L_2011008PT.01000101-E0003). Os requisitos previstos na referida directiva devem ser transpostos para o presente regulamento e, se necessário, alterados, a fim de serem adaptados ao progresso do conhecimento científico.\n\n(3) O Regulamento (CE) n.º 661/2009, institui as disposições fundamentais em matéria de requisitos para a homologação de veículos no que se refere aos métodos de identificação de veículos. Por conseguinte, torna-se igualmente necessário estabelecer os procedimentos, ensaios e requisitos específicos a esta homologação.\n\n(4) Na ausência de legislação harmonizada sobre a massa máxima em carga admissível ou massas máximas admissíveis para eixos ou grupos de eixo dos veículos pesados, a Directiva 97/27/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 1997, relativa às massas e dimensões de determinadas categorias de veículos a motor e seus reboques e que altera a Directiva 70/156/CEE [([^4])](http://publications.europa.eu/resource/cellar/d9d73ecb-54db-4af9-b718-3d6b6cf2d648.0019.03/DOC_1#ntr4-L_2011008PT.01000101-E0004), estabelece a determinação das massas máximas admissíveis de matrícula/em circulação para efeitos de matrícula, da entrada em serviço ou da utilização dos veículos pesados no território de um Estado-Membro. É, por conseguinte, adequado incluir as massas máximas admissíveis de matrícula/em circulação no modelo da chapa regulamentar do fabricante. Por razões de segurança rodoviária, é igualmente adequado incluir a massa máxima admissível num grupo de eixos.\n\n(5) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Técnico - Veículos a Motor,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5d5a84df9051158e": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento é aplicável a veículos completos e incompletos das categorias M, N e O."
+  },
+  "1ee414208ee779ec": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «chapa regulamentar do fabricante», uma placa ou rótulo, afixado pelo fabricante num veículo que apresenta as características técnicas principais necessárias para a identificação do veículo e fornece às autoridades competentes a informação pertinente referente às massas máximas em carga admissíveis;\n\n2. «número de identificação do veículo» (VIN), o código alfanumérico atribuído pelo fabricante a um veículo a fim de assegurar a identificação adequada de cada veículo;\n\n3. «modelo de veículo», um grupo de veículos tal como definido no anexo II, parte B, da Directiva 2007/46/CE."
+  },
+  "00255440b78e9807": {
+   "fragment_id": "Artigo 3.º — Disposições para a homologação CE de um modelo de veículo no que se refere à chapa regulamentar do fabricante e ao número de identificação do veículo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Disposições para a homologação CE de um modelo de veículo no que se refere à chapa regulamentar do fabricante e ao número de identificação do veículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições para a homologação CE de um modelo de veículo no que se refere à chapa regulamentar do fabricante e ao número de identificação do veículo\n\n1. O fabricante ou o seu representante apresentam à entidade homologadora o pedido para a homologação CE de um modelo de veículo no que diz respeito à configuração e localização da chapa regulamentar do fabricante e da composição e localização do número de identificação do veículo.\n\n2. O pedido deve ser elaborado em conformidade com o modelo de ficha de informações que consta da parte A do anexo III.\n\n3. Se considerado necessário pela entidade homologadora ou pelo serviço técnico, o fabricante deve disponibilizar um veículo representativo do modelo a homologar para efeitos de inspecção.\n\n4. Se forem cumpridos os requisitos pertinentes dos anexos I e II do presente regulamento, a entidade homologadora concede a homologação ao modelo em conformidade com o sistema de numeração estabelecido no anexo VII da Directiva 2007/46/CE.\n\nUm Estado-Membro não pode atribuir o mesmo número a outro modelo de veículo.\n\n5. Para efeitos do n.º 4, a entidade homologadora emite um certificado de homologação CE em conformidade com o modelo constante do anexo III, parte B."
+  },
+  "5590b3f70e1e3d8f": {
+   "fragment_id": "Artigo 4.º — Validade e extensão de homologações CE concedidas nos termos da Directiva 76/114/CEE",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Validade e extensão de homologações CE concedidas nos termos da Directiva 76/114/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Validade e extensão de homologações CE concedidas nos termos da Directiva 76/114/CEE\n\nAs autoridades nacionais devem permitir a venda e a entrada em circulação de modelos de veículos homologados antes da data referida no artigo 13.º, n.º 2, do Regulamento (CE) n.º 661/2009 e continuar a conceder a extensão a homologações concedidas nos termos da Directiva 76/114/CEE."
+  },
+  "97fc335d0193dd79": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 1 de Fevereiro de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 11 de Janeiro de 2011.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "8b5c35db35b331d0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d9d73ecb-54db-4af9-b718-3d6b6cf2d648.0019.03/DOC_1#ntc1-L_2011008PT.01000101-E0001) [JO L 200 de 31.7.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_200_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d9d73ecb-54db-4af9-b718-3d6b6cf2d648.0019.03/DOC_1#ntc2-L_2011008PT.01000101-E0002) [JO L 263 de 9.10.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_263_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d9d73ecb-54db-4af9-b718-3d6b6cf2d648.0019.03/DOC_1#ntc3-L_2011008PT.01000101-E0003) [JO L 24 de 30.1.1976, p. 1](http://publications.europa.eu/resource/oj/JOL_1976_024_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/d9d73ecb-54db-4af9-b718-3d6b6cf2d648.0019.03/DOC_1#ntc4-L_2011008PT.01000101-E0004) [JO L 233 de 25.8.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_233_R_TOC)."
+  },
+  "e97afea7f49e7a9c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02011R0019 — PT — 06.07.2022 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32011R0019) [REGULAMENTO (UE) N.º 19/2011 DA COMISSÃO](http://publications.europa.eu/resource/celex/32011R0019) [de 11 de Janeiro de 2011](http://publications.europa.eu/resource/celex/32011R0019) [relativo às prescrições para homologação das chapas regulamentares do fabricante e do número de identificação do veículo de veículos a motor e seus reboques e que aplica o Regulamento (CE) n.º 661/2009 do Parlamento Europeu e do Conselho relativo às prescrições para homologação no que se refere à segurança geral dos veículos a motor, seus reboques e sistemas, componentes e unidades técnicas a eles destinados](http://publications.europa.eu/resource/celex/32011R0019) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32011R0019) (JO L 008, 12.1.2011, p.1)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/2144 do Parlamento Europeu e do Conselho de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2144) — L 325 — 1 — 16.12.2019"
+  }
+ }
+}

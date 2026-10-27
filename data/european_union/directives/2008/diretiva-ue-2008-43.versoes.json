@@ -1,0 +1,263 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008L0043:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0043-20120314",
+ "dre_path": null,
+ "source_lastmod": "2012-03-14",
+ "versions": [
+  {
+   "date": "2008-04-05",
+   "future": false,
+   "celex": "32008L0043",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7d0393dd8a2764ba",
+    "f6c2eb219fe1b284",
+    "e17a2adcfbbdd4cc",
+    "8753a13055d794ad",
+    "bfd6779e10360161",
+    "8a6992ea3c104fd1",
+    "b9d6a2b81ebaf84c",
+    "890079d00b59bc4e",
+    "313b34b2762ec587",
+    "7e585b28620baa5c",
+    "1677666e4ba15163",
+    "026df19c18f28a46",
+    "19ef6c126c28cbe6",
+    "e777a76a32b7ad7b",
+    "8a414b4e30069e44",
+    "9e9b4b147f2b10d6",
+    "365823d8caaa1ac8",
+    "a3b195c08c38f795",
+    "642f847daea9c712",
+    "f9a86af7523c1ef0",
+    "d7a787c79da13e53",
+    "6cc3b57c1b453c93",
+    "dde9cf53e9ae6c9a",
+    "e946a58c4ab11579",
+    "f21ca1eabe539112",
+    "5033e6e526f3d1d6",
+    "00fe9c574c77e8fe"
+   ]
+  }
+ ],
+ "fragments": {
+  "7d0393dd8a2764ba": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Abril de 2008\n\nque cria, nos termos da Directiva 93/15/CEE do Conselho, um sistema para a identificação e rastreabilidade dos explosivos para utilização civil\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 93/15/CEE do Conselho, de 5 de Abril de 1993, relativa à harmonização das disposições respeitantes à colocação no mercado e ao controlo dos explosivos para utilização civil [([^1])](http://publications.europa.eu/resource/cellar/09e1d1d5-5d96-44ab-8c15-40417ac43dba.0018.03/DOC_1#ntr1-L_2008094PT.01000801-E0001), nomeadamente a segunda frase do segundo parágrafo do artigo 14.º,\n\nConsiderando o seguinte:\n\n(1) A Directiva 93/15/CEE define regras destinadas a garantir a circulação de explosivos no mercado comunitário em segurança.\n\n(2) Tal como previsto na directiva, é necessário assegurar que as empresas do sector dos explosivos disponham de um registo de posse dos explosivos que permita, a qualquer momento, a identificação do seu detentor.\n\n(3) A identificação única dos explosivos é essencial para a manutenção de registos exactos e completos dos mesmos em todas as fases da cadeia de abastecimento e deve permitir a identificação e a rastreabilidade de um explosivo desde o local de produção e da sua primeira introdução no mercado até ao utilizador e à utilização finais, a fim de impedir o uso indevido e o roubo e de ajudar as autoridades responsáveis pela aplicação da lei a detectar a origem dos explosivos perdidos, furtados ou roubados.\n\n(4) As medidas previstas na presente directiva estão em conformidade com o parecer do comité de gestão instituído nos termos do n.º 1 do artigo 13.º da Directiva 93/15/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "8753a13055d794ad": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva cria um sistema harmonizado para a identificação única e a rastreabilidade dos explosivos para utilização civil."
+  },
+  "bfd6779e10360161": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA presente directiva não se aplica ao seguinte:\n\na) Explosivos transportados e entregues não embalados ou em autotanques para descarga directa no furo;\n\nb) Explosivos fabricados no local de emprego e carregados imediatamente após terem sido produzidos (produção *in situ*);\n\nc) Munições."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "b9d6a2b81ebaf84c": {
+   "fragment_id": "IDENTIFICAÇÃO DO PRODUTO",
+   "type": "divisao",
+   "heading": "IDENTIFICAÇÃO DO PRODUTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IDENTIFICAÇÃO DO PRODUTO"
+  },
+  "890079d00b59bc4e": {
+   "fragment_id": "Artigo 3.º — Identificação única",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Identificação única",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Identificação única\n\n1. Os Estados-Membros asseguram-se de que as empresas do sector dos explosivos que fabricam ou importam explosivos ou que montam detonadores procedem à marcação destes e de cada uma das unidades de acondicionamento mais pequenas com uma identificação única.\n\nQuando um explosivo for sujeito a processos de fabrico subsequentes, os fabricantes não são obrigados a marcar o explosivo com uma identificação única nova, a menos que a identificação única original já não esteja marcada em conformidade com o artigo 4.º\n\n2. O n.º 1 não é aplicável nos casos em que o explosivo seja fabricado para exportação e esteja marcado com uma identificação conforme com os requisitos do país de importação, que permita a rastreabilidade do explosivo.\n\n3. A identificação única inclui os componentes descritos no anexo.\n\n4. Um código de três dígitos é atribuído a cada instalação de fabrico pela autoridade nacional do Estado-Membro em que a mesma está estabelecida.\n\n5. Quando a instalação de fabrico se situar fora da Comunidade, o fabricante estabelecido na Comunidade contacta a autoridade nacional do Estado-Membro de importação, a fim de requerer a atribuição de um código à instalação de fabrico.\n\nQuando a instalação de fabrico se situar fora da Comunidade e o fabricante não estiver estabelecido na Comunidade, o importador dos explosivos em causa contacta a autoridade nacional do Estado-Membro de importação, a fim de requerer a atribuição de um código à instalação de fabrico.\n\n6. Os Estados-Membros garantem que os distribuidores que reacondicionam explosivos se certificam de que a identificação única é aposta ao explosivo e à unidade de acondicionamento mais pequena."
+  },
+  "313b34b2762ec587": {
+   "fragment_id": "Artigo 4.º — Marcação e aposição",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Marcação e aposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Marcação e aposição\n\nA identificação única é marcada ou firmemente aposta ao artigo em causa de forma duradoura e claramente legível."
+  },
+  "7e585b28620baa5c": {
+   "fragment_id": "Artigo 5.º — Explosivos encartuchados e explosivos em sacos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Explosivos encartuchados e explosivos em sacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Explosivos encartuchados e explosivos em sacos\n\nNo caso dos explosivos encartuchados e dos explosivos em sacos, a identificação única consiste numa etiqueta adesiva ou numa marca directamente impressa em cada cartucho ou saco. Uma etiqueta associada é colocada em cada embalagem de cartuchos.\n\nAlém disso, as empresas podem colocar em cada cartucho ou saco uma etiqueta electrónica inerte e passiva e, do mesmo modo, uma etiqueta electrónica associada em cada embalagem de cartuchos."
+  },
+  "1677666e4ba15163": {
+   "fragment_id": "Artigo 6.º — Explosivos bicomponentes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Explosivos bicomponentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Explosivos bicomponentes\n\nNo caso dos explosivos bicomponentes, a identificação única consiste numa etiqueta adesiva ou numa marca directamente impressa em cada uma das unidades de acondicionamento mais pequenas contendo os dois componentes."
+  },
+  "026df19c18f28a46": {
+   "fragment_id": "Artigo 7.º — Detonadores pirotécnicos e mechas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Detonadores pirotécnicos e mechas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Detonadores pirotécnicos e mechas\n\nNo caso dos detonadores pirotécnicos e das mechas, a identificação única consiste numa etiqueta adesiva, numa marca directamente impressa ou num carimbo directamente aposto na cápsula do detonador. Uma etiqueta associada é colocada em cada embalagem de detonadores ou de mechas.\n\nAlém disso, as empresas podem colocar em cada detonador ou mecha uma etiqueta electrónica inerte e passiva, e uma etiqueta associada em cada embalagem de detonadores ou de mechas."
+  },
+  "19ef6c126c28cbe6": {
+   "fragment_id": "Artigo 8.º — Detonadores eléctricos, não eléctricos e electrónicos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Detonadores eléctricos, não eléctricos e electrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Detonadores eléctricos, não eléctricos e electrónicos\n\nNo caso dos detonadores eléctricos, não eléctricos e electrónicos, a identificação única consiste quer numa etiqueta adesiva afixada aos cabos ou ao tubo, quer numa etiqueta adesiva, numa marca directamente impressa ou num carimbo directamente aposto na cápsula do detonador. Uma etiqueta associada é colocada em cada embalagem de detonadores.\n\nAlém disso, as empresas podem colocar em cada detonador uma etiqueta electrónica inerte e passiva, e uma etiqueta associada em cada embalagem de detonadores."
+  },
+  "e777a76a32b7ad7b": {
+   "fragment_id": "Artigo 9.º — Escorvas e reforçadores",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Escorvas e reforçadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Escorvas e reforçadores\n\nNo caso das escorvas e dos reforçadores, a identificação única consiste numa etiqueta adesiva ou numa marca directamente impressa na escorva ou no reforçador. Uma etiqueta associada é colocada em cada embalagem de escorvas ou reforçadores.\n\nAlém disso, as empresas podem colocar em cada escorva ou reforçador uma etiqueta electrónica inerte e passiva, e uma etiqueta associada em cada embalagem de escorvas ou reforçadores."
+  },
+  "8a414b4e30069e44": {
+   "fragment_id": "Artigo 10.º — Cordões detonantes e mechas de segurança",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Cordões detonantes e mechas de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cordões detonantes e mechas de segurança\n\nNo caso dos cordões detonantes e das mechas de segurança, a identificação única consiste numa etiqueta adesiva ou numa marca directamente impressa na bobina. A identificação única é aposta a intervalos de cinco metros, quer no revestimento externo do cordão ou da mecha, quer no revestimento interno, de plástico extrudido, situado imediatamente por baixo da fibra exterior do cordão ou da mecha. Uma etiqueta associada é colocada em cada embalagem de cordões detonantes ou de mechas de segurança.\n\nAlém disso, as empresas podem inserir no cordão uma etiqueta electrónica inerte e passiva, e colocar uma etiqueta associada em cada embalagem de cordões ou de mechas."
+  },
+  "9e9b4b147f2b10d6": {
+   "fragment_id": "Artigo 11.º — Tambores e outros recipientes contendo explosivos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Tambores e outros recipientes contendo explosivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tambores e outros recipientes contendo explosivos\n\nNo caso dos tambores e outros recipientes que contenham explosivos, a identificação única consiste numa etiqueta adesiva ou numa marca directamente impressa no tambor ou recipiente que contém os explosivos.\n\nAlém disso, as empresas podem colocar uma etiqueta electrónica inerte e passiva em cada tambor ou recipiente."
+  },
+  "365823d8caaa1ac8": {
+   "fragment_id": "Artigo 12.º — Cópias da etiqueta original",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Cópias da etiqueta original",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cópias da etiqueta original\n\nAs empresas podem colocar nos explosivos cópias adesivas destacáveis da etiqueta original, para efeitos de utilização pelos seus clientes. Essas cópias são marcadas de forma visível como cópias do original, para impedir o uso inadequado."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "642f847daea9c712": {
+   "fragment_id": "RECOLHA E REGISTO DE DADOS",
+   "type": "divisao",
+   "heading": "RECOLHA E REGISTO DE DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECOLHA E REGISTO DE DADOS"
+  },
+  "f9a86af7523c1ef0": {
+   "fragment_id": "Artigo 13.º — Recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Recolha de dados\n\n1. Os Estados-Membros asseguram-se de que as empresas do sector dos explosivos põem em vigor um sistema de recolha de dados relacionados com explosivos, incluindo a respectiva identificação única, em toda a cadeia de abastecimento e ciclo de vida.\n\n2. O sistema de recolha de dados permite às empresas dispor de um registo de posse dos explosivos que possibilita, a qualquer momento, a identificação do respectivo detentor.\n\n3. Os Estados-Membros asseguram-se de que os dados recolhidos, incluindo as identificações únicas, são mantidos e conservados por um período de dez anos após a entrega ou, sempre que seja conhecido, após o final do ciclo de vida do explosivo, mesmo nos casos em que as empresas tenham cessado a sua actividade."
+  },
+  "d7a787c79da13e53": {
+   "fragment_id": "Artigo 14.º — Obrigações das empresas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Obrigações das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações das empresas\n\nOs Estados-Membros asseguram-se de que as empresas do sector dos explosivos cumprem as seguintes obrigações:\n\na) Mantêm um registo de todas as identificações de explosivos e de toda a informação pertinente, incluindo o tipo de explosivo e a empresa ou pessoa a quem foi dada a custódia do mesmo;\n\nb) Registam a localização de cada explosivo enquanto este está na sua posse ou custódia até que o mesmo seja transferido para outra empresa ou seja utilizado;\n\nc) Testam, a intervalos regulares, o respectivo sistema de recolha de dados, a fim de garantir a sua eficácia e a qualidade dos dados registados;\n\nd) Mantêm e conservam os dados recolhidos, incluindo as identificações únicas, durante o período previsto no n.º 3 do artigo 13.º;\n\ne) Protegem os dados recolhidos para que não sejam danificados ou destruídos de forma acidental ou dolosa;\n\nf) Fornecem às autoridades competentes, mediante pedido, a informação referente à origem e à localização de cada explosivo durante o seu ciclo de vida e em toda a cadeia de abastecimento;\n\ng) Fornecem às autoridades responsáveis do Estado-Membro o nome e os dados de contacto de uma pessoa capacitada para fornecer a informação descrita na alínea f) fora do horário normal de expediente.\n\nPara efeitos da alínea d), no caso dos explosivos fabricados ou importados antes da data especificada no segundo parágrafo do n.º 1 do artigo 15.º, a empresa mantém registos, em conformidade com as disposições nacionais em vigor."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "e946a58c4ab11579": {
+   "fragment_id": "Artigo 15.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transposição\n\n1. Os Estados-Membros adoptam e publicam as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 5 de Abril de 2009. Os Estados-Membros comunicam imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 5 de Abril de 2012.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito nacional que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "f21ca1eabe539112": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente directiva entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "5033e6e526f3d1d6": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 4 de Abril de 2008.\n\n***Pela Comissão***\n\n**Günter VERHEUGEN**\n\n***Vice-Presidente***\n\n---"
+  },
+  "00fe9c574c77e8fe": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/09e1d1d5-5d96-44ab-8c15-40417ac43dba.0018.03/DOC_1#ntc1-L_2008094PT.01000801-E0001) [JO L 121 de 15.5.1993, p. 20](http://publications.europa.eu/resource/oj/JOL_1993_121_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC))."
+  }
+ }
+}

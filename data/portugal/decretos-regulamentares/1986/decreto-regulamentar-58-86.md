@@ -1,0 +1,652 @@
+---
+schema_version: '1.0'
+id: pt:dre:222468:por
+title: Decreto Regulamentar n.º 58/86
+short_title: null
+summary: Aprova a lei Orgânica da Direcção Regional de Agricultura do Alentejo (DRAAL)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 58/86
+official_date: null
+publication_date: '1986-10-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/1986, Série I de 1986-10-08
+  number: '232'
+  series: I
+  supplement: null
+  pages: 2982 - 2991
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '222468'
+  dre_path: /dr/detalhe/decreto-regulamentar/58-1986-222468
+  internal: pt:dre:222468:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1986-222468
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1986-222468
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:13:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b82b06331062b26b978f3f68f2ab0cdc22cb80fc80dc3a59ccb5fd71043fab4d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Regional de Agricultura do Alentejo
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:518853:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:663500:por
+  label: "Alterado o quadro de pessoal constante do Mapa I anexo ao presente diploma, pela PORT.32/87.1987.01.16.MF DR.IS\
+    \ [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-1987-663500
+  date: '1987-01-16'
+- type: amended_by
+  target: pt:dre:421066:por
+  label: "Alterado o quadro de pessoal constante do Mapa I Anexo ao presente diploma, pela PORT.393/87.1987.05.08.MF DR.IS\
+    \ [105], na redacção da Port 32/87, de 16-Jan\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-1987-421066
+  date: '1987-05-08'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Alterado, no referente ao pessoal técnico-profissional, o quadro de pessoal da Direcção Regional de Agricultura\
+    \ do Alentejo pelo DR.43/90.19.12.1990.MAPA, DR.IS [291] de 19.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:158633:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras de biblioteca e documentação, pela PORT.118/92.24.02.1992.MF,\
+    \ DR.IS-B [46] de 24.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/118-1992-158633
+  date: '1992-02-24'
+- type: amended_by
+  target: pt:dre:192595:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo I ao presente diploma, pela PORT.293/92.03.04.1992.MF, DR.IS-B\
+    \ [79] de 03.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1992-192595
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:226197:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.186/92.09.10.1992.MF, DR.IS-B\
+    \ [233] de 09.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/186-1992-226197
+  date: '1992-10-09'
+- type: amended_by
+  target: pt:dre:637910:por
+  label: "Alterado o quadro de pessoal, pela PORT.330/93.20.03.1993.MF, DR.IS-B [67] de 20.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/330-1993-637910
+  date: '1993-03-20'
+- type: amended_by
+  target: pt:dre:664773:por
+  label: "Alterado o quadro de pessoal aprovado no presente diploma, pelo DN.58/93.28.04.1993.MF, DR.IS-B [99] de 28.04.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/58-1993-664773
+  date: '1993-04-28'
+- type: amended_by
+  target: pt:dre:300050:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.61/93.30.04.1993.MF, DR.IS-B\
+    \ [101] de 30.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/61-1993-300050
+  date: '1993-04-30'
+- type: amended_by
+  target: pt:dre:300059:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo I ao presente diploma, pelo DN.62/93.30.04.1993.MF, DR.IS-B\
+    \ [101] de 30.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/62-1993-300059
+  date: '1993-04-30'
+- type: amended_by
+  target: pt:dre:283549:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.84/93.29.05.1993.MF, DR.IS-B\
+    \ [125] de 29.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/84-1993-283549
+  date: '1993-05-29'
+- type: amended_by
+  target: pt:dre:260911:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.97/93.09.06.1993.MF, DR.IS-B\
+    \ [134] de 09.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/97-1993-260911
+  date: '1993-06-09'
+- type: amended_by
+  target: pt:dre:374850:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.122/93.29.06.1993.MF, DR.IS-B\
+    \ [150] de 29.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/122-1993-374850
+  date: '1993-06-29'
+- type: amended_by
+  target: pt:dre:670712:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.320/93.12.10.1993.MF, DR.IS-B\
+    \ [239] de 12.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/320-1993-670712
+  date: '1993-10-12'
+- type: amended_by
+  target: pt:dre:670719:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.321/93.12.10.1993.MF, DR.IS-B\
+    \ [239] de 12.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/321-1993-670719
+  date: '1993-10-12'
+- type: amended_by
+  target: pt:dre:690178:por
+  label: "Alterado o quadro de pessoal aprovado pelo mapa anexo I ao presente diploma, pelo DN.358/93.12.11.1993.MF, DR.IS-B\
+    \ [265] de 12.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/358-1993-690178
+  date: '1993-11-12'
+- type: amended_by
+  target: pt:dre:498504:por
+  label: "Alterado o ex-quadro de pessoal constante do mapa I do anexo ao presente diploma, pelo DN.48/94.28.01.1994.MF, DR.IS-B\
+    \ [23] de 28.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/48-1994-498504
+  date: '1994-01-28'
+- type: amended_by
+  target: pt:dre:498520:por
+  label: "Alterado o ex-quadro de pessoal constante do mapa I do anexo ao presente diploma, pelo DN.46/94.28.01.1994.MF, DR.IS-B\
+    \ [23] de 28.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/46-1994-498520
+  date: '1994-01-28'
+- type: amended_by
+  target: pt:dre:498524:por
+  label: "Alterado o ex-quadro de pessoal constante do mapa I do anexo ao presente diploma, pelo DN.43/94.28.01.1994.MF, DR.IS-B\
+    \ [23] de 28.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-1994-498524
+  date: '1994-01-28'
+- type: amended_by
+  target: pt:dre:518391:por
+  label: "Alterado o ex-quadro de pessoal constante do mapa I do anexo ao presente diploma, pelo DN.116/94.01.03.1994.MF,\
+    \ DR.IS-B [50] de 01.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/116-1994-518391
+  date: '1994-03-01'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determinado que a Direcção Regional de Agricultura e Pescas do Alentejo suceda nas atribuições da Direcção Regional\
+    \ de Agricultura do Alentejo, cuja orgânica foi aprovada pelo presente diploma, pelo DR.12/2007.27.02.2007.MADRP, DR.IS\
+    \ [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+article_structure:
+  article_count: 23
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:13:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 58/86
+
+de 8 de Outubro
+
+Tendo em vista dar execução aos princípios estabelecidos no [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e face às características e estado de desenvolvimento e dimensão da Região Agrária do Alentejo, importa reforçar a sua capacidade de intervenção, no sentido de apoiar eficazmente os agentes económicos do sector agrário que actuam na Região.
+
+Através do presente diploma consubstancia-se o aumento da capacidade de decisão a nível regional e o desenvolvimento das actividades de carácter técnico, nomeadamente a experimentação e a vulgarização, e de apoio às estruturas e formação profissional, como forma de conseguir o apetrechamento necessário ao apoio na resolução dos problemas regionais em tempo oportuno, o qual se traduz na institucionalização daqueles domínios em direcções de serviços.
+
+De igual modo, a importância da estruturação fundiária e a gestão das propriedades do Estado conduziram à criação de um gabinete de gestão e estruturação fundiária, a nível de direcção de serviços operativos.
+
+Apesar do aumento e complexidade dos problemas a enfrentar e do reforço das actividades já referidas, o número global de unidades orgânicas e o correspondente número de lugares, a nível de dirigentes e de chefia, mantêm-se inferiores ao estipulado no [Decreto Regulamentar n.º 6-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-1979-241043), de 24 de Março, o que só é possível através da institucionalização de formas de gestão mais flexíveis e consentâneas com a problemática com que o sector agrário se defronta.
+
+Atendendo ao disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — (Natureza)
+
+A Direcção Regional de Agricultura do Alentejo, abreviadamente designada por DRAAL, é um serviço na dependência directa do Ministro da Agricultura, Pescas e Alimentação e dotado de autonomia administrativa, cuja acção se desenvolve na Região Agrária do Alentejo, definida no mapa I anexo ao [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, que se ocupa do apoio directo ao sector agrário, a nível regional e local, com vista à sua dinamização e modernização, numa perspectiva integrada e de acordo com a política e os objectivos definidos para o sector agrário nacional.
+
+###### Artigo 2.º — (Atribuições)
+
+À DRAAL incumbem as atribuições constantes do artigo 2.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+### CAPÍTULO II — Órgãos e serviços e suas competências
+
+###### Artigo 3.º — (Órgãos e serviços)
+
+A DRAAL compreende os seguintes órgãos e serviços:
+
+1) Órgãos:
+
+a) Director regional;
+
+b) Conselho regional agrário;
+
+c) Conselho técnico regional;
+
+d) Conselho administrativo;
+
+2) Serviços de apoio técnico e administrativo:
+
+a) Gabinete de Planeamento e Financiamento Agrário Regional;
+
+b) Direcção de Serviços de Administração;
+
+c) Divisão de Informação de Contabilidades Agrícolas;
+
+d) Divisão de Informação de Mercados Agrícolas;
+
+e) Núcleo de Organização e Informática;
+
+3) Serviços operativos de âmbito regional:
+
+a) Direcção de Serviços de Extensão;
+
+b) Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária;
+
+c) Direcção de Serviços de Protecção à Produção Animal;
+
+d) Direcção de Serviços de Apoio às Estruturas;
+
+e) Gabinete de Gestão e Estruturação Fundiária;
+
+f) Divisão de Protecção à Produção Vegetal;
+
+4) Serviços operativos de âmbito local:
+
+Divisão da Zona Agrária.
+
+###### Artigo 4.º — (Órgãos)
+
+1 - O director regional tem as competências referidas no artigo 5.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+2 - O conselho regional agrário, o conselho técnico regional e o conselho administrativo têm a natureza, constituição e competências, respectivamente, referidas nos artigos 6.º, 7.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+###### Artigo 5.º — (Gabinete de Planeamento Agrário Regional)
+
+1 - O Gabinete de Planeamento Agrário Regional, dirigido por um director de serviços, integra as competências referidas no artigo 12.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+2 - O Gabinete de Planeamento Agrário Regional, abreviadamente designado por GAPAR, para o desenvolvimento das suas actividades, deverá articular-se com os órgãos e restantes serviços da DRAAL e ainda com os gabinetes de planeamento dos serviços centrais e regionais do Ministério.
+
+3 - O GAPAR compreende as seguintes divisões:
+
+a) Planeamento, Programação e Controle;
+
+b) Estatística;
+
+c) Documentação e Informação;
+
+d) Análise e Projectos.
+
+4 - As competências das Divisões de Planeamento, Programação e Controle, Estatística, Documentação e Informação e Análise e Projectos são, respectivamente, as referidas nos n.os 1, 2, 3 e 4 do artigo 12.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+###### Artigo 6.º — (Direcção de Serviços de Administração)
+
+1 - A Direcção de Serviços de Administração, abreviadamente designada por DSA, integra as competências referidas no artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+2 - A DSA, para o desenvolvimento das suas actividades, deverá articular-se com os órgãos e restantes serviços da DRAAL e com a Direcção-Geral dos Serviços Centrais e manter contactos com as correspondentes unidades orgânicas dos restantes serviços centrais e regionais.
+
+3 - A DSA compreende as seguintes repartições:
+
+a) Pessoal e Expediente;
+
+b) Financeira e Patrimonial.
+
+4 - A Repartição de Pessoal e Expediente compreende as seguintes secções:
+
+a) Pessoal;
+
+b) Expediente e Arquivo.
+
+5 - As competências das Secções de Pessoal e de Expediente e Arquivo são as constantes, respectivamente, das alíneas a) a c) e d) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+6 - A Repartição Financeira e Patrimonial compreende as seguintes secções:
+
+a) Orçamento e Conta;
+
+b) Contabilidade;
+
+c) Património e Aprovisionamento.
+
+7 - As competências das Secções de Orçamento e Conta, Contabilidade e Património e Aprovisionamento são as constantes, respectivamente, das alíneas a) a c), d) a f) e g) a j) do n.º 2 do artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+8 - Adstrita à Repartição Financeira e Patrimonial, na dependência do respectivo chefe, funciona a tesouraria, sob a responsabilidade de um tesoureiro, com as competências referidas na alínea e) do n.º 2 do artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+###### Artigo 7.º — (Divisão de Informação de Contabilidades Agrícolas)
+
+A Divisão de Informação de Contabilidades Agrícolas tem as competências referidas no n.º 2 do artigo 8.º do [Decreto-Lei n.º 90/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1985-325108), de 1 de Abril.
+
+###### Artigo 8.º — (Divisão de Informação de Mercados Agrícolas)
+
+A Divisão de Informação de Mercados Agrícolas tem as competências referidas no n.º 2 do artigo 11.º do [Decreto-Lei n.º 91/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1985-325109), de 1 de Abril.
+
+###### Artigo 9.º — (Núcleo de Organização e Informática)
+
+O Núcleo de Organização e Informática tem as competências referidas no artigo 14.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e é coordenado por um funcionário da carreira técnica superior ou por analista de sistemas ou programador de aplicações.
+
+###### Artigo 10.º — (Direcção de Serviços de Extensão)
+
+1 - A Direcção de Serviços de Extensão tem as competências referidas nas alíneas d) e e) do n.º 1 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e compreende as seguintes divisões:
+
+a) Formação Profissional;
+
+b) Associativismo e Gestão da Empresa Agrícola.
+
+2 - À Divisão de Formação Profissional compete:
+
+a) Promover a elaboração e execução do plano de formação técnico-profissional dos agricultores e trabalhadores rurais;
+
+b) Assegurar a gestão dos centros de formação técnico-profissional da DRAAL;
+
+c) Apoiar e dinamizar a realização de acções destinadas à valorização técnico-profissional das populações rurais.
+
+3 - À Divisão de Associativismo e Gestão da Empresa Agrícola compete:
+
+a) Apoiar e incentivar o processo de rejuvenescimento da população activa agrícola, nomeadamente através da dinamização de projectos e acções relativos à instalação de jovens agricultores;
+
+b) Apoiar e dinamizar as cooperativas agrícolas e outras formas associativas da comunidade agrária;
+
+c) Apoiar a modernização da gestão das explorações agrícolas, dinamizando a implementação e desenvolvimento de adequados sistemas de exploração e incentivando acções que visem a organização e montagem de centros de gestão e contabilidade de apoio às explorações agrícolas.
+
+###### Artigo 11.º — (Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária)
+
+1 - A Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária tem as competências referidas nas alíneas a), b), c) e f) a o) do n.º 1 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e ainda colaborar com a Circunscrição Florestal de Évora no desenvolvimento do regime silvo-pastoril, apícola, aquícola e cinegético da Região e compreende as seguintes divisões:
+
+a) Experimentação e Fomento da Produção Vegetal;
+
+b) Experimentação e Fomento da Produção Animal.
+
+2 - À Divisão de Experimentação e Fomento da Produção Vegetal compete:
+
+a) Assegurar as acções de experimentação necessárias ao desenvolvimento da produção vegetal da Região, de acordo com as suas características;
+
+b) Assegurar, no âmbito da produção vegetal, a gestão das unidades experimentais da DRAAL e efectivação no campo prático do plano de formação dos técnicos regionais, mediante a participação nas equipas de experimentação;
+
+c) Assegurar, no âmbito da produção vegetal, o ensaio, desenvolvimento e aplicação de novas variedades, técnicas e práticas culturais e promover a sua divulgação;
+
+d) Acompanhar a evolução tecnológica dos materiais, equipamentos e formas de exploração no âmbito da produção vegetal adequados à modernização e racionalização das unidades produtivas da Região.
+
+3 - À Divisão de Experimentação e Fomento da Produção Animal compete:
+
+a) Assegurar as acções de experimentação necessárias ao desenvolvimento da produção animal da Região, de acordo com as suas características;
+
+b) Assegurar, no âmbito da produção animal, a gestão das unidades experimentais da DRAAL e efectivação no campo prático do plano de formação dos técnicos regionais, mediante a participação nas equipas de experimentação;
+
+c) Assegurar a definição, a nível regional, das zonas agro-ecológicas mais adequadas às diferentes espécies animais e raças, bem como dos sistemas de exploração agro-pecuária mais aconselháveis;
+
+d) Promover a divulgação de conhecimentos, normas e práticas aconselháveis na gestão, maneio e preservação das diferentes espécies animais;
+
+e) Promover a divulgação junto dos produtores dos conhecimentos adquiridos através da actividade técnica da DRAAL em matéria de produção animal, com base nos sistemas de exploração mais adequados às características regionais;
+
+f) Promover a execução das acções necessárias à identificação dos animais, características genéticas dos reprodutores e sua avaliação e colaborar na elaboração dos registos genealógicos e zootécnicos;
+
+g) Assegurar o funcionamento dos serviços de inseminação artificial e promover a sua transferência para as associações dos agricultores;
+
+h) Colaborar com a Circunscrição Florestal de Évora nas acções de fomento do regime silvo-pastoril, apícola, aquícola e cinegético.
+
+###### Artigo 12.º — (Divisão de Protecção à Produção Vegetal)
+
+A Divisão de Protecção à Produção Vegetal tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+###### Artigo 13.º — (Direcção de Serviços de Protecção à Produção Animal)
+
+1 - A Direcção de Serviços de Protecção à Produção Animal tem as competências definidas no n.º 3 e nas alíneas b) e c) do n.º 4 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e compreende as seguintes divisões:
+
+a) Sanidade Animal;
+
+b) Higiene Pública Veterinária e Qualidade Alimentar.
+
+2 - À Divisão de Sanidade Animal compete:
+
+a) Assegurar a execução das acções de carácter preventivo e curativo contra as doenças infecto-contagiosas, parasitárias e outras dos animais, segundo as directrizes de ordem nacional e internacional veiculadas pela Direcção-Geral da Pecuária;
+
+b) Promover a execução de inquéritos sanitários, epizootológicos e registos noso-necrológicos, bem como a recolha de informação estatística referente às acções profiláctica e de saneamento, assegurando o seu envio aos serviços centrais;
+
+c) Promover o cumprimento das normas e requisitos sanitários das diferentes espécies animais, bem como a execução das acções de vigilância sanitária, com vista à defesa e preservação do património animal, saúde pública e aumento da produção;
+
+d) Coordenar a actividade dos veterinários municipais e de outras entidades no âmbito da sanidade animal e cooperar em acções de educação sanitária;
+
+e) Colaborar na implementação de acções de esclarecimento e sensibilização no âmbito da educação sanitária e da defesa da saúde pública contra as enfermidades veiculadas através dos produtos alimentares.
+
+3 - À Divisão de Higiene Pública Veterinária e Qualidade Alimentar compete:
+
+a) Assegurar a execução das medidas destinadas a garantir a qualidade de matérias-primas e produtos agro-alimentares destinados ao consumo público, nas suas várias fases de produção, armazenagem, transporte, distribuição e venda;
+
+b) Promover as acções necessárias ao licenciamento sanitário dos estabelecimentos de produtos agro-alimentares;
+
+c) Colaborar na implementação de acções de esclarecimento e sensibilização no âmbito da educação sanitária e da defesa da saúde pública contra as enfermidades veiculadas através dos produtos alimentares.
+
+###### Artigo 14.º — (Direcção de Serviços de Apoio às Estruturas)
+
+1 - A Direcção de Serviços de Apoio às Estruturas, com as competências referidas na alínea a) do n.º 4 e no n.º 5 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, compreende as seguintes divisões:
+
+a) Solos e Engenharia Agrícola;
+
+b) Apoio à Transformação e Comercialização dos Produtos Agro-Industriais;
+
+c) Laboratórios de Apoio Regional.
+
+2 - À Divisão de Solos e Engenharia Agrícola compete:
+
+a) Promover a elaboração de estudos e projectos de aproveitamentos hidroagrícolas, nos termos do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho;
+
+b) Promover a elaboração de estudos e projectos e acompanhar a sua execução no domínio das infra-estruturas, construções rurais e obras de defesa e conservação do solo, de acordo com as necessidades e prioridades da Região Agrária;
+
+c) Assegurar o cumprimento das normas referentes à defesa da reserva agrícola;
+
+d) Colaborar com os serviços centrais competentes no estudo, definição e divulgação dos modelos e normas técnicas mais adequados à mecanização agrícola e garantir a satisfação dos pedidos de apoio formulados pelas entidades da Região Agrária nesta matéria;
+
+e) Promover a aplicação e divulgação das normas técnicas e práticas mais aconselháveis em matéria de regadio e apoiar a gestão dos perímetros de rega.
+
+3 - À Divisão de Apoio à Transformação e Comercialização dos Produtos Agro-Industriais compete:
+
+a) Assegurar o apoio e dinamização das actividades de transformação e comercialização dos produtos agro-alimentares;
+
+b) Colaborar no estudo e formulação de medidas de política no âmbito dos preços, mercados e estruturas de transformação;
+
+c) Coordenar o reconhecimento e inventariação das estruturas comerciais, agro-industriais e de armazenamento da Região Agrária.
+
+4 - À Divisão de Laboratórios de Apoio Regional compete:
+
+a) Assegurar o desenvolvimento de actividades de âmbito laboratorial sob orientação científica e técnica dos correspondentes serviços centrais;
+
+b) Promover a realização de exames e análises laboratoriais necessários ao desenvolvimento das actividades da DRAAL;
+
+c) Assegurar a gestão dos laboratórios, à excepção do referido na alínea h) do n.º 3 do artigo 11.º do presente diploma.
+
+###### Artigo 15.º — (Gabinete de Gestão e Estruturação Fudiária)
+
+Ao Gabinete de Gestão e Estruturação Fundiária, dirigido por um director de serviços, compete, designadamente:
+
+a) Assegurar a elaboração de propostas de medidas legislativas mais adequadas no âmbito da estruturação fundiária;
+
+b) Assegurar o apoio jurídico e acompanhamento do processo de regularização das terras expropriadas e nacionalizadas, garantindo a salvaguarda e gestão dos interesses do Estado, bem como o cumprimento das suas responsabilidades financeiras;
+
+c) Assegurar a execução das medidas definidas no âmbito do arrendamento rural, níveis de aproveitamento de solos e outras modalidades de exploração.
+
+###### Artigo 16.º — (Serviços operativos de âmbito local)
+
+1 - Os serviços operativos de âmbito local, agrupados em divisões de zonas agrárias, de acordo com o mapa I anexo ao [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, têm as competências referidas nos n.os 1 e 2 do artigo 17.º do referido diploma e compreendem:
+
+a) Equipas de extensão e produção agrária;
+
+b) Núcleos de apoio à protecção e controle da produção agrícola;
+
+c) Núcleos de apoio à protecção e controle da produção animal.
+
+2 - Às equipas de extensão e produção agrária compete:
+
+a) Executar as acções de apoio directo aos agentes económicos actuando na zona agrária, nos vários aspectos de desenvolvimento das suas actividades agrárias, designadamente no âmbito da formação técnico-profissional, rejuvenescimento da população activa agrícola, dinamização do associativismo e modernização da gestão das explorações agrícolas;
+
+b) Promover, através da transferência de tecnologia, a divulgação e incremento da utilização de espécies vegetais e animais e de sistemas de exploração agro-pecuária mais adequados às características da zona agrária.
+
+3 - Aos núcleos de apoio à protecção e controle da produção agrícola compete apoiar directamente os agentes económicos da zona agrária no cumprimento de normas, formalidades e directrizes de carácter sanitário necessárias ao exercício e desenvolvimento das suas actividades no âmbito da produção agrícola.
+
+4 - Aos núcleos de apoio à protecção e controle da produção animal compete apoiar directamente os agentes económicos da zona agrária no cumprimento de normas, formalidades e directrizes de carácter sanitário necessárias ao exercício e desenvolvimento das suas actividades no âmbito da produção animal.
+
+###### Artigo 17.º — (Núcleos de apoio administrativo)
+
+1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, na dependência do respectivo chefe de zona, coadjuvado por um oficial administrativo, tendo como atribuições assegurar as tarefas de natureza administrativa, financeira e patrimonial necessárias ao desenvolvimento das actividades da zona agrária.
+
+2 - Atendendo à dispersão geográfica e complexidade das actividades desenvolvidas, os núcleos administrativos assumir-se-ão como secções administrativas nas zonas agrárias de Odemira, Beja, Portalegre, Elvas, Estremoz e Évora.
+
+###### Artigo 18.º — (Unidades experimentais e centros de formação técnico-profissional)
+
+1 - A DRAAL dispõe, para o exercício das suas actividades no âmbito da experimentação, sem prejuízo de lhes vir a ser dado outro destino, das seguintes unidades, além da referida no artigo anterior:
+
+a) Posto Experimental de Évora, em Évora;
+
+b) Posto Experimental de Viana do Alentejo, em Viana do Alentejo;
+
+c) Posto Experimental de Vale Formoso, em Mértola;
+
+d) Herdade dos Lameirões, em Moura;
+
+e) Quinta da Saúde, em Beja;
+
+f) Quinta da Broeira, em Aljustrel;
+
+g) Herdade da Comenda, em Elvas;
+
+h) Herdade do Passinho, em Elvas;
+
+i) Herdade da Alfarófia, em Elvas.
+
+2 - Com vista ao desenvolvimento das actividades de formação técnico-profissional, a DRAAL dispõe dos seguintes centros:
+
+a) Centro de Formação Técnico-Profissional Agrária de Benavila, em Avis;
+
+b) Centro de Formação Técnico-Profissional Agrária de Évora;
+
+c) Centro de Formação Técnico-Profissional Agrária de Beja.
+
+3 - Mediante proposta fundamentada do director regional, ouvidos os conselhos técnicos regional e administrativo, poderá o Ministro da Agricultura, Pescas e Alimentação alterar, por despacho, o número e designação das unidades experimentais ou centros de formação técnico-profissional, sempre que tal se torne necessário ao cumprimento dos objectivos da DRAAL.
+
+4 - As unidades experimentais e os centros de formação técnico-profissional são coordenados por um funcionário da carreira técnica superior de grau 1, ou da carreira técnica, designado pelo director regional.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 19.º — (Quadro e regime de pessoal)
+
+1 - A DRAAL dispõe do quadro próprio de pessoal constante dos mapas anexos I e II ao presente diploma.
+
+2 - O regime de pessoal é o constante do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, e demais legislação aplicável, com observância das alterações resultantes do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+
+3 - O conteúdo funcional da carreira de técnico auxiliar corresponde a actividades de apoio inseridas no âmbito do fomento e controle da produção agrária, prospecção dos mercados agrícolas, inquéritos e apoio a cursos de formação.
+
+4 - Aos excedentes de pessoal aplicar-se-á o regime previsto nos Decretos-Leis n.os [43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro, e [87/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1985-325119), de 1 de Abril.
+
+### CAPÍTULO IV — Disposições transitórias e finais
+
+###### Artigo 20.º — (Princípios de gestão)
+
+1 - A DRAAL orientará o desenvolvimento das suas actividades de acordo com os princípios consignados nos artigos 23.º, 24.º e 25.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+2 - A gestão financeira da DRAAL será orientada pelos critérios e instrumentos definidos nos artigos 25.º e 26.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
+
+###### Artigo 21.º — (Transição para o quadro de pessoal da DRAAL)
+
+Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e no n.º 4 do artigo 19.º do presente diploma sobre excedentes, o pessoal que à data da entrada em vigor deste diploma se encontre a prestar serviço na DRAAL transitará para os lugares do quadro referido no n.º 1 do artigo 19.º, nos termos das regras pertinentes do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, e demais legislação geral aplicável, processando-se a integração de harmonia com o estabelecido no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+
+###### Artigo 22.º — (Concursos para acesso às novas categorias)
+
+Os concursos para acesso às novas categorias criadas pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, só poderão ser abertos após a entrada em vigor de todas as portarias de execução do referido diploma, elaboradas no âmbito do Ministério.
+
+###### Artigo 23.º — (Revogação de legislação anterior)
+
+Ficam revogadas as disposições do [Decreto Regulamentar n.º 6-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-1979-241043), de 24 de Março, no que à DRAAL dizem respeito.
+
+Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
+
+Promulgado em 5 de Setembro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 9 de Setembro de 1986.
+
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
+
+Mapa anexo I a que se refere o n.º 1 do artigo 19.º do Decreto Regulamentar n.º 58/86
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf)
+
+Mapa anexo II a que se refere o n.º 1 do artigo 19.º do Decreto Regulamentar n.º 58/86
+
+Carreiras e categorias a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29822991.pdf)

@@ -1,0 +1,479 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32020R0740:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R0740-20200605",
+ "dre_path": null,
+ "source_lastmod": "2020-06-05",
+ "versions": [
+  {
+   "date": "2020-06-05",
+   "future": false,
+   "celex": "02020R0740-20200605",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5c5bed9ded6b21e6",
+    "a8b10759b2d82634",
+    "fcf391bbbd390196",
+    "1511df90d894bf1d",
+    "01270dcbbc72a886",
+    "2b1080eac94a23bb",
+    "163d965ef9c85ee9",
+    "20c1430ec1636cd0",
+    "8e3cffff9dd4bfe5",
+    "9d42531551a867c4",
+    "04aa96b7add30df3",
+    "8247d5a350ae655d",
+    "2f41ff235854cf61",
+    "df0a9de49c572f60",
+    "6b6ac6b9a8427fd0",
+    "4d7a36f5c1c4c34a",
+    "e2fb2f9d722e9101",
+    "0ac571e1289c18cb",
+    "cf241838e923e780",
+    "d664376e2a8dcecd",
+    "011bf50e643fc1ff",
+    "0a1f067871d71e5e",
+    "99e3b38c5191cb4a",
+    "553617c202e7a4ef",
+    "791d9e4ebdc03bc5",
+    "5876d23eb517275f",
+    "852174729551523b",
+    "1845f1ebe8425c53",
+    "720af75c92791b10",
+    "37a1652430c62ff8",
+    "e03a0eb4d5b2eef3",
+    "8f31a42de44ae54f",
+    "64610ae29a6cb67c",
+    "cec52699136be8f4",
+    "9342e878d5bf91a0",
+    "383d27d415236caa",
+    "3e90debd205ac80d",
+    "deaad76d1607ccc3",
+    "c0268ddf81b0094c",
+    "96f71d9f6e778382",
+    "e919f4986bed5cb2",
+    "07e60c14b1fe3a46",
+    "5acfc6d336c39f45",
+    "84e8386acc9c9d90",
+    "90c7d2baf4d44ee2",
+    "e6c08cb6f4756bc8",
+    "d46ca50274582635",
+    "8d52a01470e24c5f",
+    "1b41b51ec3248d43",
+    "7658f1b12255727b",
+    "c3be53a772315ecb"
+   ]
+  }
+ ],
+ "fragments": {
+  "5c5bed9ded6b21e6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de maio de 2020\n\nrelativo à rotulagem dos pneus no que respeita à eficiência energética e a outros parâmetros, que altera o Regulamento (UE) 2017/1369 e revoga o Regulamento (CE) n.º 1222/2009"
+  },
+  "a8b10759b2d82634": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece um regime relativo à prestação de informações harmonizadas sobre parâmetros dos pneus por meio de rotulagem, a fim de permitir que os utilizadores finais façam escolhas informadas na aquisição de pneus, com o objetivo de aumentar a segurança, a proteção da saúde e a eficiência económica e ambiental do transporte rodoviário, através da promoção de pneus eficientes em termos energéticos, duradouros, seguros e pouco ruidosos."
+  },
+  "fcf391bbbd390196": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica‐se aos pneus C1, aos pneus C2 e aos pneus C3 colocados no mercado.\n\nOs requisitos relativos aos pneus recauchutados são aplicáveis assim que estiver disponível um método de ensaio adequado para medir o desempenho desses pneus, nos termos do artigo 13.º.\n\n2.\n\nO presente regulamento não se aplica a:\n\na) Pneus todo‐o‐terreno profissionais;\n\nb) Pneus concebidos exclusivamente para serem instalados em veículos matriculados pela primeira vez antes de 1 de outubro de 1990;\n\nc) Pneus sobresselentes de utilização temporária do tipo T;\n\nd) Pneus cuja categoria de velocidade seja inferior a 80 km/h;\n\ne) Pneus cujo diâmetro de jante nominal não exceda 254 mm ou seja igual ou superior a 635 mm;\n\nf) Pneus equipados com dispositivos suplementares destinados a melhorar as suas propriedades de tração, como os pneus com pregos;\n\ng) Pneus concebidos apenas para serem instalados em veículos destinados exclusivamente a corridas;\n\nh) Pneus usados, exceto se forem pneus importados de um país terceiro."
+  },
+  "1511df90d894bf1d": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende‐se por:\n\n1) «Pneus C1», «pneus C2» e «pneus C3», os pneus constantes das respetivas classes previstas no artigo 8.º, n.º 1, do Regulamento (CE) n.º 661/2009;\n\n2) «Pneu recauchutado», um pneu usado que é restaurado por substituição do piso do pneu gasto por um piso novo;\n\n3) «Pneu sobresselente de utilização temporária do tipo T», um pneu sobresselente de utilização temporária previsto para ser utilizado a uma pressão de enchimento superior à prescrita para pneus convencionais e pneus reforçados;\n\n4) «Pneu todo‐o‐terreno profissional», pneu para utilização especial, usado essencialmente fora de estrada em condições extremas;\n\n5) «Rótulo do pneu», um diagrama gráfico, impresso ou em formato eletrónico, inclusive na forma de autocolante, provido de símbolos destinados a informar os utilizadores finais sobre o desempenho de um pneu ou lote de pneus relativamente aos parâmetros especificados no anexo I;\n\n6) «Ponto de venda», um local onde pneus estão expostos ou armazenados e estão à venda, incluindo os salões de exposição de automóveis, onde os pneus que não estão instalados em veículos estão à venda aos utilizadores finais;\n\n7) «Material técnico promocional», documentação, impressa ou em formato eletrónico, que compreende as informações indicadas no anexo IV, produzida por um fornecedor em complemento do material publicitário;\n\n8) «Ficha de informação do produto», um documento normalizado, impresso ou em formato eletrónico, que compreende as informações especificadas no anexo III;\n\n9) «Documentação técnica», documentação que permita que as autoridades de fiscalização do mercado avaliem a exatidão do rótulo do pneu e da ficha de informação do produto, incluindo as informações especificadas no anexo VII, ponto 2;\n\n10) «Base de dados sobre produtos», a base de dados criada ao abrigo do artigo 12.º do Regulamento (UE) 2017/1369;\n\n11) «Venda à distância», a oferta para venda, locação ou locação com opção de compra por correspondência, por catálogo, pela Internet, por via telefónica ou por qualquer outro método em que não seja previsível o potencial utilizador final ver o pneu exposto;\n\n12) «Fabricante», um fabricante na aceção do artigo 3.º, ponto 8, do Regulamento (UE) 2019/1020;\n\n13) «Importador», um importador na aceção do artigo 3.º, ponto 9, do Regulamento (UE) 2019/1020;\n\n14) «Mandatário», a pessoa singular ou coletiva estabelecida na União, a quem foi conferido um mandato por escrito pelo fabricante para praticar determinados atos em seu nome em cumprimento de obrigações que lhe são impostas pelo presente regulamento;\n\n15) «Fornecedor», um fabricante estabelecido na União, mandatário de um fabricante não estabelecido na União, ou importador, que coloca um produto no mercado da União;\n\n16) «Distribuidor», uma pessoa singular ou coletiva da cadeia de abastecimento, com exceção do fornecedor, que disponibiliza produtos no mercado;\n\n17) «Disponibilização no mercado», a disponibilização no mercado na aceção do artigo 3.º, ponto 1, do Regulamento (UE) 2019/1020;\n\n18) «Colocação no mercado», a colocação no mercado na aceção do artigo 3.º, ponto 2, do Regulamento (UE) 2019/1020;\n\n19) «Utilizador final», um consumidor, um gestor de frota ou uma empresa de transporte rodoviário, que compra pneus ou que se preveja que compre pneus;\n\n20) «Parâmetro», uma das características do pneu cujo impacto é significativo no ambiente, na segurança rodoviária ou na saúde durante a utilização do pneu, como a abrasão, a quilometragem, a resistência ao rolamento, a aderência em pavimento molhado, o ruído exterior de rolamento, a aderência na neve e a aderência no gelo do pneu;\n\n21) «Tipo de pneu», uma versão de pneu cujas características técnicas indicadas no rótulo do pneu, na ficha de informação do produto e no identificador do tipo de pneu são as mesmas para todas as unidades dessa versão;\n\n22) «Tolerância de verificação», desvio máximo admissível dos resultados de medição e cálculo dos testes de verificação realizados pelas autoridades de fiscalização do mercado, ou em seu nome, em comparação com os valores dos parâmetros declarados ou publicados, que refletem desvios resultantes de variações interlaboratoriais;\n\n23) «Identificador do tipo de pneu», um código, geralmente alfanumérico, que estabelece a distinção entre um tipo específico de pneu e outros tipos de pneus com a mesma designação ou marca comercial do fornecedor;\n\n24) «Tipo de pneu equivalente», um tipo de pneu que é colocado no mercado pelo mesmo fornecedor como um outro tipo de pneu com um identificador do tipo de pneu diferente e que tem as mesmas características técnicas pertinentes para efeitos de rotulagem e a mesma ficha de informação do produto."
+  },
+  "01270dcbbc72a886": {
+   "fragment_id": "Artigo 4.º — Obrigações dos fornecedores de pneus",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigações dos fornecedores de pneus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações dos fornecedores de pneus\n\n1.\n\nOs fornecedores asseguram que os pneus C1, os pneus C2 e os pneus C3 colocados no mercado são acompanhados, a título gratuito:\n\na) No tocante a cada pneu, de um rótulo autocolante conforme com os requisitos previstos no anexo II, do qual constem as informações e a classe correspondentes a cada parâmetro estabelecido no anexo I, bem como de uma ficha de informação do produto; ou\n\nb) No tocante a cada lote de um ou mais pneus idênticos, de um rótulo do pneu impresso conforme com os requisitos previstos no anexo II, do qual constem as informações e a classe correspondentes a cada parâmetro estabelecido no anexo I, bem como de uma ficha de informação do produto.\n\n2. No que respeita aos pneus vendidos ou disponibilizados para venda à distância, os fornecedores asseguram que o rótulo do pneu é exibido junto à indicação do preço e que a ficha de informação do produto está acessível, inclusivamente, a pedido do utilizador final, em versão papel. O tamanho do rótulo do pneu deve permitir que este seja claramente visível e legível e deve ser proporcional às dimensões especificadas no anexo II, ponto 2.1.\n\nNo que diz respeito aos pneus vendidos ou disponibilizados para venda na Internet, os fornecedores podem apresentar o rótulo do pneu para um tipo específico de pneu numa visualização em ninho.\n\n3. Os fornecedores asseguram que a publicidade visual a determinado tipo de pneu mostra o rótulo correspondente. Se a publicidade visual indicar o preço daquele tipo de pneu, o rótulo do pneu deve ser exibido junto à indicação do preço.\n\nPara a publicidade visual na Internet, os fornecedores podem apresentar o rótulo do pneu numa visualização em ninho.\n\n4. Os fornecedores devem garantir que o material técnico promocional relativo a determinado tipo de pneu exibe o rótulo do pneu desse tipo de pneu e que inclui a informação prevista no anexo IV.\n\n5. Os fornecedores fornecem à autoridade nacional competente, na aceção do artigo 3.º, ponto 37, do Regulamento (UE) 2018/858, os valores utilizados para determinar as classes correspondentes e qualquer outra informação relativa ao desempenho que o fornecedor declarar no rótulo dos tipos de pneus, nos termos do anexo I do presente regulamento, bem como o rótulo do pneu que cumpre os requisitos previstos no anexo II do presente regulamento. Essas informações são apresentadas à autoridade nacional competente nos termos do artigo 5.º, n.^os^ 1 e 2, do presente regulamento antes da colocação no mercado dos tipos de pneus em causa, para que a referida autoridade possa verificar a exatidão do rótulo do pneu.\n\n6. Os fornecedores asseguram a exatidão dos seus rótulos dos pneus e das fichas de informação do produto.\n\n7. Os fornecedores podem disponibilizar a documentação técnica às autoridades dos Estados‐Membros que não as referidas no n.º 5, ou aos organismos nacionais acreditados competentes que a solicitem.\n\n8. Por iniciativa própria ou se isso lhes for solicitado pelas autoridades de fiscalização do mercado, os fornecedores cooperam com estas e tomam de imediato medidas para pôr termo aos casos de incumprimento dos requisitos do presente regulamento que relevem da sua responsabilidade.\n\n9. Os fornecedores não podem fornecer nem exibir outros rótulos, marcas, símbolos ou inscrições, que não cumpram o disposto no presente regulamento e que sejam suscetíveis de induzir em erro ou confundir os utilizadores finais relativamente aos parâmetros indicados no anexo I.\n\n10. Os fornecedores não podem fornecer nem exibir rótulos que imitem o rótulo previsto no presente regulamento."
+  },
+  "2b1080eac94a23bb": {
+   "fragment_id": "Artigo 5.º — Obrigações dos fornecedores de pneus em relação à base de dados sobre produtos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos fornecedores de pneus em relação à base de dados sobre produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos fornecedores de pneus em relação à base de dados sobre produtos\n\n1. A partir de 1 de maio de 2021, antes de colocarem no mercado um pneu produzido após essa data, os fornecedores inserem na base de dados sobre produtos as informações previstas no anexo VII.\n\n2. Até 30 de novembro de 2021, relativamente aos pneus produzidos entre 25 de junho de 2020 e 30 de abril de 2021, os fornecedores inserem na base de dados sobre produtos as informações previstas no anexo VII.\n\n3. Relativamente aos pneus colocados no mercado antes de 25 de junho de 2020, os fornecedores inserem na base de dados sobre produtos as informações previstas no anexo VII.\n\n4. Até que as informações referidas nos n.^os^ 1 e 2 sejam inseridas na base de dados sobre produtos, os fornecedores disponibilizam para inspeção uma versão eletrónica da documentação técnica, no prazo máximo de 10 dias úteis a contar da receção do correspondente pedido das autoridades de fiscalização do mercado.\n\n5. Caso as entidades homologadoras ou as autoridades de fiscalização do mercado necessitem de outras informações que não as previstas no anexo VII para o exercício das suas funções ao abrigo do presente regulamento, os fornecedores disponibilizam-nas, mediante pedido.\n\n6. Se sofrer alterações com incidência no rótulo do pneu ou na ficha de informação do produto, o pneu passará a ser considerado de um novo tipo. Quando o fornecedor deixar de colocar no mercado unidades de um determinado tipo de pneu, deve indicá‐lo na base de dados sobre produtos.\n\n7. Após a última unidade de determinado tipo de pneu ter sido colocada no mercado, o fornecedor conserva as informações relativas a esse tipo de pneu durante cinco anos na parte relativa à conformidade da base de dados sobre produtos."
+  },
+  "163d965ef9c85ee9": {
+   "fragment_id": "Artigo 6.º — Obrigações dos distribuidores de pneus",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações dos distribuidores de pneus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos distribuidores de pneus\n\n1.\n\nOs distribuidores asseguram que:\n\na) No ponto de venda, os pneus ostentam, um rótulo autocolante conforme com os requisitos previstos no anexo II, disponibilizado pelo fornecedor nos termos do artigo 4.º, n.º 1, alínea a), de uma forma bem visível e legível na sua totalidade, e que a ficha de informação do produto está disponível, inclusivamente, mediante pedido, em versão papel; ou\n\nb) Antes da venda de pneus que fazem parte de lotes constituídos por um ou mais pneus idênticos, o rótulo do pneu impresso, conforme com os requisitos previstos no anexo II, é exibido ao utilizador final e está claramente à vista, junto ao pneu em causa no ponto de venda, e que a ficha de informação do produto está disponível.\n\n2. Os distribuidores asseguram que a publicidade visual a determinado tipo de pneu mostra o rótulo correspondente. Se a publicidade visual indicar o preço daquele tipo de pneu, o rótulo do pneu deve ser exibido junto à indicação do preço.\n\nNo caso de publicidade visual na Internet a um tipo específico de pneu, os distribuidores podem disponibilizar o rótulo apresentando‐o numa visualização em ninho.\n\n3. Os distribuidores asseguram que qualquer material técnico promocional relativo a determinado tipo de pneu exibe o rótulo do pneu e inclui a informação prevista no anexo IV.\n\n4. Se os pneus para venda não estiverem à vista do utilizador final no momento da venda, os distribuidores devem facultar‐lhe uma cópia do rótulo do pneu antes da venda.\n\n5. Os distribuidores asseguram que, nas vendas à distância que envolvam documentação em papel, o rótulo do pneu é exibido e o utilizador final tem acesso à ficha de informação do produto num sítio Internet de acesso livre, e pode solicitar um exemplar em versão papel da ficha de informação do produto.\n\n6. Os distribuidores que pratiquem a venda à distância por *telemarketing* devem informar o utilizador final de cada uma das classes dos parâmetros do rótulo do pneu e de que o utilizador final tem acesso ao rótulo e à ficha de informação do produto num sítio Internet de acesso livre e que pode solicitar um exemplar em versão papel dos mesmos.\n\n7. No que respeita aos pneus vendidos ou disponibilizados para venda diretamente pela Internet, os distribuidores asseguram que o rótulo do pneu é exibido junto à indicação do preço e que a ficha de informação do produto está acessível. O tamanho do rótulo do pneu deve permitir que este seja claramente visível e legível e deve ser proporcional às dimensões especificadas no anexo II, ponto 2.1.\n\nOs distribuidores podem disponibilizar o rótulo do pneu para um determinado tipo de pneus, apresentando‐o numa visualização em ninho."
+  },
+  "20c1430ec1636cd0": {
+   "fragment_id": "Artigo 7.º — Obrigações dos fornecedores de veículos e dos distribuidores de veículos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Obrigações dos fornecedores de veículos e dos distribuidores de veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações dos fornecedores de veículos e dos distribuidores de veículos\n\nCaso um utilizador final pretenda adquirir um veículo novo, o fornecedor ou distribuidor do veículo faculta‐lhe, antes da venda, o rótulo dos pneus que são disponibilizados ou que são instalados no veículo, bem como o material técnico promocional correspondente, e assegura que a ficha de informação do produto está disponível."
+  },
+  "8e3cffff9dd4bfe5": {
+   "fragment_id": "Artigo 8.º — Obrigações dos prestadores de serviços de armazenamento de informações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Obrigações dos prestadores de serviços de armazenamento de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações dos prestadores de serviços de armazenamento de informações\n\nUm prestador de serviços, a que se refere o artigo 14.º da Diretiva 2000/31/CE, que permita a venda de pneus através do seu sítio Internet, assegura que o rótulo do pneu e a ficha de informação do produto fornecidos pelo fornecedor são exibidos junto à indicação do preço e informa o distribuidor da obrigação de exibir o rótulo dos pneus e a ficha de informação do produto."
+  },
+  "9d42531551a867c4": {
+   "fragment_id": "Artigo 9.º — Métodos de ensaio e de medição",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Métodos de ensaio e de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Métodos de ensaio e de medição\n\nAs informações a fornecer nos termos dos artigos 4.º, 6.º e 7.º relativamente aos parâmetros indicados no rótulo do pneu devem ser obtidas de acordo com os métodos de ensaio referidos no anexo I e o procedimento de aferição de laboratórios referido no anexo V."
+  },
+  "04aa96b7add30df3": {
+   "fragment_id": "Artigo 10.º — Procedimento de verificação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Procedimento de verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de verificação\n\nOs Estados‐Membros avaliam a conformidade das classes declaradas com o presente regulamento para cada parâmetro indicado no anexo I, segundo o procedimento de verificação que consta do anexo VI."
+  },
+  "8247d5a350ae655d": {
+   "fragment_id": "Artigo 11.º — Obrigações dos Estados‐Membros",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Obrigações dos Estados‐Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos Estados‐Membros\n\n1. Os Estados‐Membros não podem impedir a colocação no mercado nem a entrada em serviço, no território respetivo, de pneus conformes com o presente regulamento.\n\n2. Caso prevejam a concessão de incentivos, os Estados‐Membros apenas os podem conceder para pneus das classes A e B no que respeita à resistência ao rolamento ou à aderência em pavimento molhado, na aceção do anexo I, partes A e B, respetivamente. Para efeitos do presente regulamento, as medidas tributárias e fiscais não constituem incentivos.\n\n3. Sem prejuízo do disposto no Regulamento (UE) 2019/1020, se a autoridade nacional competente, na aceção do artigo 3.º, ponto 37, do Regulamento (UE) 2018/858, tiver motivos suficientes para crer que um fornecedor não assegurou a exatidão do rótulo do pneu nos termos do artigo 4.º, n.º 6, do presente regulamento, essa autoridade nacional verifica que as classes e as informações adicionais de desempenho declaradas no rótulo do pneu correspondem aos valores e à documentação apresentados pelo fornecedor, nos termos no artigo 4.º, n.º 5 do presente regulamento.\n\n4. Nos termos do Regulamento (UE) 2019/1020, os Estados‐Membros asseguram que as autoridades nacionais de fiscalização do mercado criam um sistema de inspeções regulares e pontuais dos pontos de venda, a fim de garantir o cumprimento do presente regulamento.\n\n5. Os Estados‐Membros estabelecem normas relativas às sanções e aos mecanismos de execução aplicáveis em caso de violação do disposto no presente regulamento e nos atos delegados adotados por força do mesmo e tomam as medidas necessárias para garantir a aplicação das mesmas. As sanções previstas devem ser efetivas, proporcionadas e dissuasivas. Os Estados‐Membros devem comunicar à Comissão, até 1 de maio de 2021, as referidas normas e medidas que não lhe tenham sido anteriormente comunicadas e devem comunicar sem demora qualquer alteração ulterior dessas normas e medidas."
+  },
+  "2f41ff235854cf61": {
+   "fragment_id": "Artigo 12.º — Fiscalização do mercado da União e controlo dos produtos que entram no mercado da União",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Fiscalização do mercado da União e controlo dos produtos que entram no mercado da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização do mercado da União e controlo dos produtos que entram no mercado da União\n\n1. O Regulamento (UE) 2019/1020 é aplicável aos pneus abrangidos pelo presente regulamento e pelos atos delegados adotados por força do mesmo.\n\n2. A Comissão incentiva e apoia a cooperação e o intercâmbio de informações sobre a fiscalização do mercado relacionadas com a rotulagem de pneus, entre as autoridades dos Estados‐Membros responsáveis pela fiscalização do mercado ou encarregadas do controlo dos pneus que entram no mercado da União e entre essas autoridades e a Comissão, em especial através de um maior envolvimento do grupo para a cooperação administrativa no domínio da rotulagem de pneus.\n\n3. As estratégias nacionais de fiscalização do mercado estabelecidas pelos Estados‐Membros por força do artigo 13.º do Regulamento (UE) 2019/1020 devem incluir medidas destinadas a assegurar a execução efetiva do presente regulamento.\n\n4. As autoridades de fiscalização do mercado podem cobrar aos fornecedores os custos da inspeção documental e dos ensaios físicos dos produtos, em caso de incumprimento por parte do fornecedor do presente regulamento ou dos atos delegados aplicáveis adotados por força do mesmo."
+  },
+  "df0a9de49c572f60": {
+   "fragment_id": "Artigo 13.º — Atos delegados",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Atos delegados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Atos delegados\n\n1.\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 14.º a fim de alterar:\n\na) O anexo II no que diz respeito ao desenho e ao formato dos rótulos dos pneus;\n\nb) O anexo I, partes D e E, e os anexos II, III, IV, V, VI e VII, mediante a adaptação dos valores, métodos de cálculo e requisitos previstos nos referidos anexos ao progresso tecnológico.\n\n2. Até 26 de junho de 2022, a Comissão adota atos delegados, nos termos do artigo 14.º, a fim de completar o presente regulamento com a introdução de novos requisitos de informação nos anexos para os pneus recauchutados, desde que esteja disponível um método de ensaio adequado.\n\n3.\n\nA Comissão fica igualmente habilitada a adotar atos delegados nos termos do artigo 14.º, a fim de incluir parâmetros ou requisitos de informação no que respeita à abrasão e à quilometragem dos pneus, assim que os métodos de ensaio e de medição da abrasão e da quilometragem dos pneus sejam fiáveis, precisos e reprodutíveis, e estejam disponíveis para serem utilizados pelos organismos de normalização europeus ou internacionais e desde que sejam cumpridas as seguintes condições:\n\na) A Comissão tenha realizado uma avaliação de impacto exaustiva; e\n\nb) A Comissão tenha realizado uma consulta adequada das partes interessadas.\n\n4. Se for caso disso, aquando da elaboração de atos delegados, a Comissão testa o desenho e o formato dos rótulos de pneus com grupos representativos de clientes da União, a fim de se certificar de que os rótulos dos pneus são claramente compreensíveis, e publica os resultados."
+  },
+  "6b6ac6b9a8427fd0": {
+   "fragment_id": "Artigo 14.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 13.º é conferido à Comissão por um prazo de cinco anos a contar de 25 de junho de 2020. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem até três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 13.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado‐Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica‐o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 13.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "4d7a36f5c1c4c34a": {
+   "fragment_id": "Artigo 15.º — Avaliação e relatórios",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Avaliação e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avaliação e relatórios\n\nAté 1 de junho de 2025, a Comissão procede a uma avaliação do presente regulamento e apresenta um relatório ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu.\n\nNesse relatório, a Comissão avalia até que ponto o presente regulamento e os atos delegados adotados por força do mesmo levaram à escolha de pneus com melhor desempenho por parte dos utilizadores finais, tendo em conta o impacto do presente regulamento e dos atos delegados adotados por força do mesmo nas empresas, no consumo de combustível, na segurança, nas emissões de gases com efeito de estufa, na sensibilização dos consumidores e nas atividades de fiscalização do mercado. A Comissão avaliará igualmente nesse relatório os custos e benefícios da obrigatoriedade de uma verificação independente, por terceiros, das informações fornecidas nos rótulos dos pneus, tendo em conta a experiência adquirida no quadro mais geral do Regulamento (CE) n.º 661/2009."
+  },
+  "e2fb2f9d722e9101": {
+   "fragment_id": "Artigo 16.º — Alteração ao Regulamento (UE) 2017/1369",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Alteração ao Regulamento (UE) 2017/1369",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração ao Regulamento (UE) 2017/1369\n\nNo Regulamento (UE) 2017/1369, artigo 12.º, n.º 2, a alínea a) passa a ter a seguinte redação:\n\n«a) Apoiar as autoridades de fiscalização do mercado no desempenho das suas tarefas ao abrigo do presente regulamento e dos atos delegados aplicáveis, incluindo a sua aplicação, e ao abrigo do Regulamento (UE) 2020/740 do Parlamento Europeu e do Conselho ([^*1^](http://publications.europa.eu/resource/cellar/d5de478b-dbd6-11ea-adf7-01aa75ed71a1.0004.02/DOC_3#E0001))."
+  },
+  "0ac571e1289c18cb": {
+   "fragment_id": "Artigo 17.º — Revogação do Regulamento (CE) n.º 1222/2009",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Revogação do Regulamento (CE) n.º 1222/2009",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação do Regulamento (CE) n.º 1222/2009\n\nO Regulamento (CE) n.º 1222/2009 é revogado com efeitos a partir de 1 de maio de 2021.\n\nAs remissões para o regulamento revogado devem entender‐se como remissões para o presente regulamento e ser lidas de acordo com a tabela de correspondência constante do anexo VIII do presente regulamento."
+  },
+  "cf241838e923e780": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de maio de 2021.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados‐Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "011bf50e643fc1ff": {
+   "fragment_id": "PARÂMETROS DOS PNEUS — ENSAIOS, CLASSIFICAÇÕES E MEDIÇÕES",
+   "type": "divisao",
+   "heading": "PARÂMETROS DOS PNEUS — ENSAIOS, CLASSIFICAÇÕES E MEDIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARÂMETROS DOS PNEUS — ENSAIOS, CLASSIFICAÇÕES E MEDIÇÕES"
+  },
+  "0a1f067871d71e5e": {
+   "fragment_id": "Parte A: Classes de eficiência energética e coeficiente de resistência ao rolamento",
+   "type": "divisao",
+   "heading": "Parte A: Classes de eficiência energética e coeficiente de resistência ao rolamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Classes de eficiência energética e coeficiente de resistência ao rolamento\n\nA classe de eficiência energética, de acordo com a escala de A a E a seguir especificada, é determinada e ilustrada no rótulo do pneu com base no coeficiente de resistência ao rolamento (*CRR* em N/kN) medido de acordo com o anexo 6 do Regulamento n.º 117 da Comissão Económica para a Europa das Nações Unidas (UNECE), e aferido pelo procedimento de laboratório previsto no anexo V.\n\nSe determinado tipo de pneu pertencer a mais do que uma classe de pneus (por exemplo, C1 e C2), a escala de classificação utilizada para determinar a classe de eficiência energética desse tipo de pneu é a aplicável à classe mais elevada de pneus (por exemplo, C2 e não C1).\n\n|  | Pneus C1 | Pneus C2 | Pneus C3 |\n| --- | --- | --- | --- |\n| Classe de eficiência energética | *CRR* em N/kN | *CRR* em N/kN | C*RR* em N/kN |\n| A | *CRR ≤ 6,5* | *CRR ≤ 5,5* | *CRR ≤ 4,0* |\n| B | *6,6 ≤ CRR ≤ 7,7* | *5,6 ≤ CRR ≤ 6,7* | *4,1 ≤ CRR ≤ 5,0* |\n| C | *7,8 ≤ CRR ≤ 9,0* | *6,8 ≤ CRR ≤ 8,0* | *5,1 ≤ CRR ≤ 6,0* |\n| D | *9,1 ≤ CRR ≤ 10,5* | *8,1 ≤ CRR ≤ 9,0* | *6,1 ≤ CRR ≤ 7,0* |\n| E | *CRR ≥ 10,6* | *CRR ≥ 9,1* | *CRR ≥ 7,1* |"
+  },
+  "99e3b38c5191cb4a": {
+   "fragment_id": "Parte B: Classes de aderência em pavimento molhado",
+   "type": "divisao",
+   "heading": "Parte B: Classes de aderência em pavimento molhado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Classes de aderência em pavimento molhado\n\n1. A classe de aderência em pavimento molhado, de acordo com a escala de A a E a seguir especificada, é determinada e ilustrada no rótulo do pneu com base no índice de aderência em pavimento molhado *(G)* calculado de acordo com o ponto 2, no seguimento de medições efetuadas de acordo com o anexo 5 do Regulamento n.º 117 da UNECE.\n\n2. Cálculo do índice de aderência em pavimento molhado *(G)*\n\n|  | Pneus C1 | Pneus C2 | Pneus C3 |\n| --- | --- | --- | --- |\n| Classe de aderência em pavimento molhado | *G* | *G* | *G* |\n| A | *1,55 ≤ G* | *1,40 ≤ G* | *1,25 ≤ G* |\n| B | *1,40 ≤ G ≤ 1,54* | *1,25 ≤ G ≤ 1,39* | *1,10 ≤ G ≤ 1,24* |\n| C | *1,25 ≤ G ≤ 1,39* | *1,10 ≤ G ≤ 1,24* | *0,95 ≤ G ≤ 1,09* |\n| D | *1,10 ≤ G ≤ 1,24* | *0,95 ≤ G ≤ 1,09* | *0,80 ≤ G ≤ 0,94* |\n| E | *G ≤ 1,09* | *G ≤ 0,94* | *G ≤ 0,79* |"
+  },
+  "553617c202e7a4ef": {
+   "fragment_id": "Parte C: Classes e valor medido de ruído exterior de rolamento",
+   "type": "divisao",
+   "heading": "Parte C: Classes e valor medido de ruído exterior de rolamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte C: Classes e valor medido de ruído exterior de rolamento\n\nO valor medido do ruído exterior de rolamento (*N*, em dB(A)) é declarado em decibéis e calculado de acordo com o anexo 3 do Regulamento n.º 117 da UNECE.\n\nA classe de ruído exterior de rolamento é determinada e ilustrada no rótulo do pneu com base nos valores‐limite *(VL)* estabelecidos no anexo II, parte C, do Regulamento (CE) n.º 661/2009, do seguinte modo:\n\n| *N ≤ VL – 3* | *VL – 3 < N ≤ VL* | *N > VL* |\n| --- | --- | --- |"
+  },
+  "791d9e4ebdc03bc5": {
+   "fragment_id": "Parte D: Aderência na neve",
+   "type": "divisao",
+   "heading": "Parte D: Aderência na neve",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte D: Aderência na neve\n\nEnsaia‐se o desempenho de aderência na neve de acordo com o anexo 7 do Regulamento n.º 117 da UNECE.\n\nSão classificados como pneus para utilização em condições de neve extremas os pneus cujo índice de aderência na neve satisfaça os valores mínimos estabelecidos no Regulamento n.º 117 da UNECE e é incluído no rótulo do pneu o pictograma seguinte."
+  },
+  "5876d23eb517275f": {
+   "fragment_id": "Parte E: Aderência no gelo",
+   "type": "divisao",
+   "heading": "Parte E: Aderência no gelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte E: Aderência no gelo\n\nEnsaia‐se o desempenho de aderência no gelo de acordo com métodos fiáveis, exatos e reprodutíveis, incluindo, se for caso disso, normas internacionais que tenham em conta os métodos geralmente reconhecidos como os mais avançados.\n\nO rótulo de um pneu que satisfaça o valor mínimo do índice de aderência no gelo inclui o pictograma seguinte."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "1845f1ebe8425c53": {
+   "fragment_id": "DESENHOS E FORMATOS DOS RÓTULOS DE PNEUS",
+   "type": "divisao",
+   "heading": "DESENHOS E FORMATOS DOS RÓTULOS DE PNEUS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DESENHOS E FORMATOS DOS RÓTULOS DE PNEUS\n\n1. Desenhos dos Rótulos de pneus\n\n1.1. Informações a incluir na parte superior do rótulo do pneu:\n\nI. Código QR;\n\nII. Designação ou marca comercial do fornecedor;\n\nIII. Identificador do tipo de pneu;\n\nIV. Designação das dimensões, índice de capacidade de carga e símbolo da categoria de velocidade do pneu, como indicado no Regulamento n.º 30 da Comissão Económica das Nações Unidas para a Europa (UNECE ([^1^](http://publications.europa.eu/resource/cellar/d5de478b-dbd6-11ea-adf7-01aa75ed71a1.0004.02/DOC_3#E0002))), na sua versão mais atualizada aplicável à União (Regulamento n.º 30 da UNECE), e Regulamento n.º 54 da Comissão Económica das Nações Unidas para a Europa (UNECE), na sua versão mais atualizada aplicável à União (Regulamento n.º 54 da UNECE) ([^2^](http://publications.europa.eu/resource/cellar/d5de478b-dbd6-11ea-adf7-01aa75ed71a1.0004.02/DOC_3#E0003)), para pneus C1, pneus C2 e pneus C3;\n\nV. Classe de pneus: C1, C2 ou C3;\n\nVI. Pictograma, escala e classe de eficiência energética;\n\nVII. Pictograma, escala e classe de aderência em pavimento molhado.\n\n1.2. Informações a incluir na parte inferior do rótulo para todos os pneus, com exceção dos pneus que satisfaçam os valores mínimos do índice de aderência na neve fixado no Regulamento n.º 117 da UNECE, ou os valores mínimos pertinentes do índice de aderência no gelo, ou ambos:\n\nI. Pictograma, valor (expresso em dB(A) e arredondado ao número inteiro mais próximo) e classe do ruído exterior de rolamento;\n\nII. O número de série do presente regulamento, «2020/740».\n\n1.3. Informações a incluir na parte inferior do rótulo para os pneus que satisfaçam os valores mínimos do índice de aderência na neve fixado no Regulamento n.º 117 da UNECE:\n\nI. Pictograma, valor (expresso em dB(A) e arredondado ao número inteiro mais próximo) e classe do ruído exterior de rolamento;\n\nII. Pictograma de aderência na neve;\n\nIII. O número de série do presente regulamento, «2020/740».\n\n1.4. Informações a incluir na parte inferior do rótulo para os pneus que satisfaçam os valores mínimos pertinentes do índice de aderência no gelo:\n\nI. Pictograma, valor (expresso em dB(A) e arredondado ao número inteiro mais próximo) e classe do ruído exterior de rolamento;\n\nII. Pictograma da aderência no gelo;\n\nIII. O número de série do presente regulamento, «2020/740».\n\n1.5. Informações a incluir na parte inferior do rótulo para os pneus que satisfaçam tanto os valores mínimos pertinentes do índice de aderência na neve fixado no Regulamento n.º 117 da UNECE como os valores mínimos do índice de aderência no gelo:\n\nI. Pictograma, valor (expresso em dB(A) e arredondado ao número inteiro mais próximo) e classe do ruído exterior de rolamento;\n\nII. Pictograma da aderência na neve;\n\nIII. Pictograma da aderência no de gelo;\n\nIV. O número do presente regulamento, «2020/740».\n\n2. Formato do rótulo do pneu\n\n2.1. Formato da parte superior do rótulo do pneu:\n\n2.1.1. Formato da parte inferior do rótulo de pneu para todos os pneus, com exceção dos pneus que satisfaçam os valores mínimos do índice de aderência na neve fixado no Regulamento n.º 117 da UNECE, ou os valores mínimos pertinentes do índice de aderência no gelo, ou ambos:\n\n2.1.2. Formato da parte inferior do rótulo para os pneus que satisfaçam os valores mínimos do índice de aderência na neve fixado no Regulamento n.º 117 da UNECE:\n\n2.1.3. Formato do rótulo para a parte inferior dos rótulos de pneu que satisfaçam os valores mínimos do índice de aderência no gelo:\n\n2.1.4. Formato da parte inferior do rótulo para os pneus que satisfaçam tanto os valores mínimos pertinentes do índice de aderência na neve fixado no Regulamento n.º 117 da UNECE como os valores mínimos do índice de aderência no gelo:\n\n2.2. Para efeitos do ponto 2.1:\n\na) Dimensões mínimas do rótulo do pneu: 75 mm de largura e 110 mm de altura. Se o rótulo do pneu for impresso em formato maior, o conteúdo do rótulo deve permanecer proporcional a estas especificações;\n\nb) Fundo do rótulo do pneu: 100% branco;\n\nc) Carateres tipográficos: Verdana e Calibri;\n\nd) Dimensões e especificações dos elementos que compõem o rótulo: conforme especificado acima;\n\ne) Os códigos de cor, utilizando o modelo de cor CMYK – ciano, magenta, amarelo e preto, devem cumprir todos os seguintes requisitos:\n\n— Cores do logótipo da UE como se segue:\n\n— fundo: 100,80,0,0;\n\n— estrelas: 0,0,100,0;\n\n— cor do rótulo energético: 100,80,0,0;\n\n— Código QR: 100% preto;\n\n— Designação ou marca comercial do fornecedor: 100% preto [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) em Verdana negrito de 8 pt;**◄**\n\n— Identificador de tipo de pneu: 100% preto [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) em Verdana normal de 8 pt;**◄**\n\n— Designação das dimensões, índice de capacidade de carga e símbolo da categoria de velocidade do pneu: 100% preto em Verdana normal de 10 pt;\n\n— Classe de pneus: 100% preto [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) em Verdana normal de 8 pt**◄**, alinhado à direita;\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Letras da escala de eficiência energética e da escala de aderência em pavimento molhado: 100% branco em Calibri negrito de 15 pt; com um contorno a preto de 0,15 pt; as letras devem estar centradas num eixo situado a 3 mm da extremidade esquerda das setas;**◄**\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Códigos de cor CMYK das setas para a escala de eficiência energética A a E, com um contorno a preto de 0,15 pt, como se segue:**◄**\n\n— Classe A: 100,0,100,0;\n\n— Classe B: 45,0,100,0;\n\n— Classe C: 0,0,100,0;\n\n— Classe D: 0,30,100,0;\n\n— Classe E: 0 100100,0;\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Códigos de cor CMYK das setas para a escala de aderência em pavimento molhado A a E, com um contorno a preto de 0,15 pt, como se segue:**◄**\n\n— A: 100,60,0,0;\n\n— B: 90,40,0,0;\n\n— C: 65,20,0,0;\n\n— D: 50,10,0,0;\n\n— E: 30,0,0,0;\n\n— Separadores internos: peso 0,5 pt, cor 100% preto;\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Letra da classe de eficiência energética e da classe de aderência em pavimento molhado: 100% branco em Calibri negrito de 20 pt.**◄** As setas da classe de eficiência energética e da classe de aderência em pavimento molhado e as setas correspondentes na escala de A a E devem ser posicionadas de modo a que as suas pontas estejam alinhadas. A letra na seta da classe de eficiência energética e na seta da classe de aderência em pavimento molhado deve estar situada no centro da parte retangular da seta que deve ser 100% preta;\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Pictograma da eficiência energética: 16 mm de largura, 13 mm de altura; peso 0,8 pt, cor 100% preto;**◄**\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Pictograma da aderência em pavimento molhado: 20 mm de largura, 13 mm de altura; peso 0,8 pt, cor 100% preto;**◄**\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Pictograma do ruído exterior de rolamento: 24 mm de largura, 18 mm de altura; peso 0,8 pt, cor 100% preto. Número de decibéis do altifalante em Verdana negrito de 10 pt; unidade “dB” em Verdana normal de 8 pt; gama de classes de ruído exterior de rolamento (A a C) centrada por baixo do pictograma, com a letra da classe de ruído exterior de rolamento aplicável em Verdana negrito de 12 pt e as outras letras das classes de ruído exterior de rolamento em Verdana normal de 8 pt;**◄**\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Pictograma de aderência na neve: 15 mm de largura, 13 mm de altura; peso 0,8 pt, cor 100% preto;**◄**\n\n— [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) Pictograma de aderência no gelo: 15 mm de largura, 13 mm de altura; peso 0,8 pt, peso das linhas oblíquas 0,2 pt, cor 100% preto;**◄**\n\n— O número do regulamento deve ser 100% preto [**►C3**](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) em Verdana normal de 5 pt.**◄**"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "37a1652430c62ff8": {
+   "fragment_id": "FICHA DE INFORMAÇÃO DO PRODUTO",
+   "type": "divisao",
+   "heading": "FICHA DE INFORMAÇÃO DO PRODUTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FICHA DE INFORMAÇÃO DO PRODUTO\n\nAs informações constantes da ficha de informação do produto do pneu são incluídas na brochura do pneu, ou outra documentação que o acompanhe, e compreendem os seguintes elementos:\n\na) A designação ou marca comercial do fornecedor, ou do fabricante, se este for diferente do do fornecedor;\n\nb) O identificador do tipo de pneu;\n\nc) A designação das dimensões, índice de capacidade de carga e símbolo da categoria de velocidade do pneu, tal como indicado no Regulamento n.º 30 da UNECE ou no Regulamento n.º 54 da UNECE para pneus C1, pneus C2 e pneus C3, conforme aplicável;\n\nd) A classe de eficiência energética do pneu de acordo com o anexo I;\n\ne) A classe de aderência em pavimento molhado do pneu de acordo com o anexo I;\n\nf) A classe de ruído exterior de rolamento e o respetivo valor em decibéis de acordo com o anexo I;\n\ng) Indicar se é um pneu para utilização em condições de neve extremas;\n\nh) Indicar se é um pneu de aderência no gelo;\n\ni) A data de início da produção do tipo de pneu (dois algarismos para a semana e dois algarismos para o ano);\n\nj) A data de fim da produção do tipo de pneu, assim que esta for conhecida (dois algarismos para a semana e dois algarismos para o ano)."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "8f31a42de44ae54f": {
+   "fragment_id": "INFORMAÇÕES FORNECIDAS NO MATERIAL TÉCNICO PROMOCIONAL",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES FORNECIDAS NO MATERIAL TÉCNICO PROMOCIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES FORNECIDAS NO MATERIAL TÉCNICO PROMOCIONAL\n\n1. As informações sobre os pneus incluídas no material técnico promocional devem ser fornecidas pela seguinte ordem:\n\na) Classe de eficiência energética (letra «A» a «E»);\n\nb) Classe de aderência em pavimento molhado (letra «A» a «E»);\n\nc) Classe e valor medido do ruído exterior de rolamento em dB;\n\nd) Indicação se é um pneu para utilização em condições de neve extrema;\n\ne) Indicação se é um pneu de aderência no gelo.\n\n2. As informações a que se refere o ponto 1 devem satisfazer os seguintes requisitos:\n\na) Ser fáceis de ler;\n\nb) Ser fáceis de compreender;\n\nc) Se, numa família de pneus, forem atribuídas classificações diferentes ao tipo de pneu em função da dimensão ou de outras características, indicar o intervalo entre o pior e o melhor desempenho de tipo de pneu.\n\n3. Os fornecedores disponibilizam no seu sítio internet:\n\na) Uma hiperligação para a página da Comissão na Internet dedicada ao presente regulamento;\n\nb) Uma explicação dos pictogramas impressos no rótulo do pneu;\n\nc) Uma declaração sublinhando o facto de as economias reais de combustível e a segurança rodoviária dependerem muito do comportamento dos condutores, nomeadamente dos seguintes factos:\n\n— uma condução ecológica pode reduzir significativamente o consumo de combustível,\n\n— para otimizar a eficiência energética e a aderência em pavimento molhado, deve verificar‐se com regularidade a pressão dos pneus,\n\n— as distâncias de paragem devem ser sempre respeitadas.\n\n4. Os fornecedores e distribuidores disponibilizam, se for caso disso, no seu sítio Internet, uma declaração que sublinhe o facto de os pneus de aderência no gelo serem especificamente concebidos para superfícies de estrada cobertas com gelo e neve compacta, e que só devem ser utilizados em condições climáticas extremas (por exemplo, temperaturas baixas) e que a utilização de pneus de aderência no gelo em condições climáticas não tão extremas (por exemplo, condições húmidas ou temperaturas mais elevadas) pode comprometer o desempenho, em especial no que diz respeito à aderência em pavimento molhado, ao controlo do veículo e ao desgaste."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "cec52699136be8f4": {
+   "fragment_id": "PROCEDIMENTO DE AFERIÇÃO LABORATORIAL NAS MEDIÇÕES DA RESISTÊNCIA AO ROLAMENTO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTO DE AFERIÇÃO LABORATORIAL NAS MEDIÇÕES DA RESISTÊNCIA AO ROLAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTO DE AFERIÇÃO LABORATORIAL NAS MEDIÇÕES DA RESISTÊNCIA AO ROLAMENTO"
+  },
+  "9342e878d5bf91a0": {
+   "fragment_id": "1. Definições",
+   "type": "divisao",
+   "heading": "1. Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Definições\n\nPara efeitos do procedimento de aferição laboratorial para efeitos das medições da resistência ao rolamento, entende‐se por:\n\n1) «Laboratório de referência»: um laboratório integrado numa rede de laboratórios, cujos nomes foram publicados no *Jornal Oficial da União Europeia*, para efeitos do procedimento de aferição laboratorial, e no qual os resultados dos ensaios obtidos com a sua máquina de referência têm a exatidão estabelecida no ponto 3;\n\n2) «Laboratório candidato»: um laboratório participante no procedimento de aferição laboratorial que não é um laboratório de referência;\n\n3) «Pneu de aferição»: um pneu ensaiado no âmbito do procedimento de aferição laboratorial;\n\n4) «Jogo de pneus de aferição»: um jogo de cinco ou mais pneus de aferição destinado à aferição de uma única máquina;\n\n5) «Valor atribuído»: um valor teórico do coeficiente de resistência ao rolamento (CRR) correspondente a um pneu de aferição, medido por um laboratório hipotético, representativo da rede de laboratórios de referência, que é utilizado no procedimento de aferição laboratorial;\n\n6) «Máquina»: cada eixo giratório de ensaio de pneus num determinado método de medição. Por exemplo, dois destes eixos que atuem no mesmo tambor não são considerados uma só máquina."
+  },
+  "383d27d415236caa": {
+   "fragment_id": "2. Disposições gerais",
+   "type": "divisao",
+   "heading": "2. Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Disposições gerais"
+  },
+  "3e90debd205ac80d": {
+   "fragment_id": "2.1. Princípio",
+   "type": "divisao",
+   "heading": "2.1. Princípio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.1. Princípio\n\nO coeficiente de resistência ao rolamento medido (*m*) num laboratório de referência (*l*), (*CRRm,l*), é aferido pelos valores atribuídos da rede de laboratórios de referência.\n\nO coeficiente de resistência ao rolamento medido *(m)* obtido por uma máquina num laboratório candidato *(c), (CRRm,c)*, é aferido com um laboratório de referência escolhido da rede."
+  },
+  "deaad76d1607ccc3": {
+   "fragment_id": "2.2. Seleção dos pneus",
+   "type": "divisao",
+   "heading": "2.2. Seleção dos pneus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.2. Seleção dos pneus\n\nSelecionam‐se jogos de pneus de aferição para o procedimento de aferição pelo laboratório de acordo com os critérios a seguir indicados. Seleciona‐se um jogo de pneus de aferição para os pneus C1 e os pneus C2 em conjunto e um jogo de pneus para os pneus C3:\n\na) Seleciona‐se o jogo de pneus de aferição de modo a cobrir a gama de coeficientes de resistência ao rolamento dos pneus C1 e C2 em conjunto ou dos pneus C3. A diferença entre o valor máximo e o valor mínimo de *CRRm* do jogo de pneus de aferição antes e depois da aferição é, no mínimo, a seguinte:\n\ni) 3 N/kN para pneus C1 e pneus C2, e\n\nii) 2 N/kN para pneus C3;\n\nb) O coeficiente de resistência ao rolamento medido nos laboratórios candidatos ou de referência (*CRRm,c* ou *CRRm,l*), com base nos valores declarados de CRR de cada pneu de aferição do jogo, tem uma distribuição uniforme;\n\nc) Os valores do índice de carga cobrem adequadamente a gama de pneus a ensaiar, de modo a garantir que os valores da resistência ao rolamento também cobrem essa gama.\n\nAntes de ser utilizado, cada pneu de aferição é verificado, sendo substituído caso:\n\na) O pneu de aferição se encontre num estado que o torne inutilizável para os ensaios; ou\n\nb) Existam desvios de *CRRm,c* ou de *CRRm,l* superiores a 1,5% em relação a medições anteriores, após correção do eventual desvio da máquina."
+  },
+  "c0268ddf81b0094c": {
+   "fragment_id": "2.3. Método de medição",
+   "type": "divisao",
+   "heading": "2.3. Método de medição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.3. Método de medição\n\nO laboratório de referência efetua as medições de cada pneu de aferição quatro vezes e considera os três últimos resultados para análise, de acordo com o anexo 6, ponto 4, do Regulamento n.º 117 da UNECE, nas condições estabelecidas no anexo 6, ponto 3, do mesmo regulamento.\n\nO laboratório candidato efetua as medições de cada pneu de aferição (*n* + 1) vezes (sendo «n» especificado no ponto 5 do presente anexo) e considera os *n* últimos resultados para análise, de acordo com o anexo 6, ponto 4, do Regulamento n.º 117 da UNECE, aplicando as condições estabelecidas no anexo 6, ponto 3, do mesmo regulamento.\n\nCada vez que se efetuam medições a um pneu de aferição, retira‐se o conjunto pneu/roda da máquina e repete‐se, desde o início, o procedimento de ensaio a que se refere o anexo 6, ponto 4, do Regulamento n.º 117 da UNECE.\n\nO laboratório candidato ou de referência calcula:\n\na) O valor de cada medição correspondente a cada pneu de aferição, conforme especificado no anexo 6, pontos 6.2 e 6.3, do Regulamento n.º 117 da UNECE (isto é, corrigido para uma temperatura de 25 °C e um diâmetro de tambor de 2 m);\n\nb) O valor médio dos três últimos valores medidos de cada pneu de aferição (no caso dos laboratórios de referência) ou o valor médio dos últimos valores *n* medidos de cada pneu de aferição (no caso dos laboratórios candidatos); e\n\nc) O desvio‐padrão (σm), do seguinte modo:\n\n«*i*» é o número, 1 a *p*, de pneus de aferição;\n\n«*j*» é o número, 2 a *n* + 1, das *n* últimas repetições de cada medição com um dado pneu de aferição;\n\n«*n + 1*» é o número de repetições de medições a pneus (*n* + 1 = 4 no caso dos laboratórios de referência e *n* + 1 ≥ 4 no caso dos laboratórios candidatos);\n\n«*p*» é o número de pneus de aferição (*p* ≥ 5)."
+  },
+  "96f71d9f6e778382": {
+   "fragment_id": "2.4. Formato dos dados dos cálculos e dos resultados",
+   "type": "divisao",
+   "heading": "2.4. Formato dos dados dos cálculos e dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2.4. Formato dos dados dos cálculos e dos resultados\n\nOs valores medidos de CRR, corrigidos do efeito da temperatura e do diâmetro do tambor, são arredondados à segunda casa decimal.\n\nEfetuam‐se a seguir os cálculos com todos os algarismos, sem nenhum outro arredondamento, exceto nas equações finais de aferição.\n\nOs valores de desvio‐padrão são apresentados com três casas decimais.\n\nOs valores de CRR são apresentados com duas casas decimais.\n\nOs coeficientes das equações de aferição (A11, B11, A2c e B2c) são arredondados à quarta casa decimal."
+  },
+  "e919f4986bed5cb2": {
+   "fragment_id": "3. Requisitos aplicáveis aos laboratórios de referência e determinação dos valores atribuídos",
+   "type": "divisao",
+   "heading": "3. Requisitos aplicáveis aos laboratórios de referência e determinação dos valores atribuídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Requisitos aplicáveis aos laboratórios de referência e determinação dos valores atribuídos\n\nOs valores atribuídos de cada pneu de aferição são determinados por uma rede de laboratórios de referência. Decorridos dois anos, a rede reavalia a estabilidade e validade desses valores.\n\nCada laboratório de referência participante na rede satisfaz o especificado no anexo 6 do Regulamento n.º 117 da UNECE, com o seguinte desvio‐padrão (σm):\n\na) Não superior a 0,05 N/kN para pneus C1 e pneus C2; e\n\nb) Não superior a 0,05 N/kN para pneus C3.\n\nCada laboratório de referência da rede efetua, em conformidade com o ponto 2.3, as medições aos jogos de pneus de aferição selecionados de acordo como ponto 2.2.\n\nO valor atribuído a cada pneu de aferição é a média dos valores medidos indicados pelos laboratórios de referência da rede para o pneu de aferição em causa."
+  },
+  "07e60c14b1fe3a46": {
+   "fragment_id": "4. Procedimento de aferição de um laboratório de referência pelos valores atribuídos",
+   "type": "divisao",
+   "heading": "4. Procedimento de aferição de um laboratório de referência pelos valores atribuídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Procedimento de aferição de um laboratório de referência pelos valores atribuídos\n\nOs laboratórios de referência (*l*) aferem‐se por cada novo conjunto de valores atribuídos e sempre que se verifique qualquer alteração significativa de máquinas ou algum desvio nos dados de monitorização do pneu de controlo de uma máquina.\n\nProcede‐se à aferição aplicando uma técnica de regressão linear a todos os dados individuais. Calculam‐se do seguinte modo os coeficientes de regressão, A1*l* e B1l:\n\n*RRC =* A1*l* × *RRCm,l* + B1*l*\n\nem que:\n\n| *CRR* | l | é o valor atribuído do coeficiente de resistência ao rolamento; |\n| --- | --- | --- |\n\n| *CRRm,l* | l | é o valor do coeficiente de resistência ao rolamento medido pelo laboratório de referência «l», incluindo as correções do efeito da temperatura e do diâmetro do tambor. |\n| --- | --- | --- |"
+  },
+  "5acfc6d336c39f45": {
+   "fragment_id": "5. Requisitos aplicáveis aos laboratórios candidatos",
+   "type": "divisao",
+   "heading": "5. Requisitos aplicáveis aos laboratórios candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Requisitos aplicáveis aos laboratórios candidatos\n\nOs laboratórios candidatos repetem o procedimento de aferição, pelo menos, de dois em dois anos, para cada máquina, e sempre que se verifique qualquer alteração significativa de máquinas ou algum desvio nos dados de monitorização do pneu de controlo de uma máquina.\n\nO laboratório candidato, primeiro, e um laboratório de referência, depois, efetuam as medições de acordo com o ponto 2.3 a um jogo comum de cinco pneus diferentes, selecionados em conformidade com o ponto 2.2. Se o laboratório candidato o solicitar, podem ser ensaiados mais de cinco pneus de aferição.\n\nO laboratório candidato fornece o jogo de pneus de aferição ao laboratório de referência selecionado.\n\nO laboratório candidato (*c*) satisfaz o especificado no anexo 6 do Regulamento n.º 117 da UNECE, com os seguintes desvios‐padrão (σ*m)* preferenciais:\n\na) Não superior a 0 075 N/kN para pneus C1 e pneus C2; e\n\nb) Não superior a 0,06 N/kN para pneus C3.\n\nSe, após quatro medições, utilizando nos cálculos as três últimas, o desvio padrão (σm) do laboratório candidato exceder esses valores, aumenta‐se do seguinte modo o número *n* + 1 de repetições das medições para a totalidade do lote:\n\nem que:"
+  },
+  "84e8386acc9c9d90": {
+   "fragment_id": "6. Procedimento de aferição de um laboratório candidato",
+   "type": "divisao",
+   "heading": "6. Procedimento de aferição de um laboratório candidato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Procedimento de aferição de um laboratório candidato\n\nUm laboratório de referência (*l*) da rede calcula os parâmetros de regressão linear dos dados individuais do laboratório candidato (*c*). Calculam‐se do seguinte modo os coeficientes de regressão, A2c e B2c:\n\n*RRCm,l =* A2*c × RRCm,c* + B2*c*\n\nem que:\n\n*CRRm,l* é o valor do coeficiente de resistência ao rolamento medido pelo laboratório de referência (*l*), incluindo as correções do efeito da temperatura e do diâmetro do tambor;\n\n*CRRm,c* é o valor do coeficiente de resistência ao rolamento medido pelo laboratório candidato (*c*), incluindo as correções do efeito da temperatura e do diâmetro do tambor.\n\nSe o coeficiente de determinação *R^2^* for inferior a 0,97, o laboratório candidato não é aferido.\n\nCalcula‐se do seguinte modo o *CRR* aferido dos pneus ensaiados pelo laboratório candidato:\n\n*RRC = (*A1*l ×* A2*c*) × *RRCm,c* + (A1*l* × B2*c* + B1*l*)"
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "e6c08cb6f4756bc8": {
+   "fragment_id": "PROCEDIMENTO DE VERIFICAÇÃO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTO DE VERIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTO DE VERIFICAÇÃO\n\nPara cada tipo de pneu ou grupo de pneus determinado pelo fornecedor, avalia‐se a conformidade com o presente regulamento das classes de eficiência energética, de aderência em pavimento molhado e de ruído exterior de rolamento, assim como dos valores declarados e de qualquer outra informação de desempenho indicada no rótulo, de acordo com um dos seguintes procedimentos:\n\n1. Começa‐se por ensaiar um pneu ou um jogo de pneus. Se os valores medidos corresponderem às classes declaradas ou ao valor de ruído exterior de rolamento declarados, com as tolerâncias de verificação a que se refere o quadro abaixo, o ensaio considera‐se que o rótulo do pneu cumpre o presente regulamento.\n\n2. Se as classes ou valores constantes do rótulo do pneu derivarem dos resultados de ensaios de homologação obtidos de acordo com o Regulamento (CE) n.º 661/2009 ou o Regulamento n.º 117 da UNECE, os Estados‐Membros podem utilizar dados de medições obtidos em ensaios de conformidade da produção dos pneus, efetuados nos termos do procedimento de homologação estabelecido pelo Regulamento (UE) 2018/858.\n\nNas avaliações de dados de medições obtidos em ensaios de conformidade da produção ter‐se‐ão em conta as tolerâncias de verificação a que se refere o quadro seguinte.\n\nParâmetro medido Tolerâncias aplicáveis na verificação\n\nCCR (eficiência energética) O valor medido aferido não excede em mais de 0,3 N/kN o limite superior (valor máximo do CRR) da classe declarada.\n\nRuído exterior de rolamento O valor medido não excede em mais de 1 dB(A) o valor declarado de N.\n\nAderência em pavimento molhado O valor medido G(T) não é inferior ao limite inferior (valor mínimo de G) da classe declarada.\n\nAderência na neve O valor medido não é inferior ao índice mínimo de aderência na neve.\n\nAderência no gelo O valor medido não é inferior ao índice mínimo de aderência no gelo."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "8d52a01470e24c5f": {
+   "fragment_id": "INFORMAÇÕES A INTRODUZIR PELO FORNECEDOR NA BASE DE DADOS SOBRE PRODUTOS",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A INTRODUZIR PELO FORNECEDOR NA BASE DE DADOS SOBRE PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A INTRODUZIR PELO FORNECEDOR NA BASE DE DADOS SOBRE PRODUTOS\n\n1. Informações a introduzir na parte da base de dados sobre produtos acessível ao público:\n\na) A designação ou marca comercial, endereço, dados de contacto e outra identificação legal do fornecedor;\n\nb) O identificador do tipo de pneu;\n\nc) O rótulo do pneu em formato eletrónico;\n\nd) A(s) classe(s) e outros parâmetros que figuram no rótulo do pneu; e\n\ne) Os parâmetros da ficha de informação do produto em formato eletrónico.\n\n2. Informações a introduzir na parte relativa à conformidade da base de dados sobre produtos:\n\na) O identificador de tipo de pneu de todos os tipos de pneu equivalentes já colocados no mercado;\n\nb) Uma descrição geral do tipo de pneu, nomeadamente as dimensões, o índice de carga e a categoria de velocidade, suficiente para a sua identificação inequívoca e fácil;\n\nc) Os protocolos dos ensaios, as classificações e as medições dos parâmetros dos pneus estabelecidos no anexo I;\n\nd) As precauções específicas**,** caso existam, que devem ser tomadas durante a montagem, a instalação, a manutenção ou o ensaio do tipo de pneu;\n\ne) Os parâmetros técnicos medidos do tipo de pneu, consoante adequado; e\n\nf) Os cálculos efetuados com os parâmetros técnicos medidos."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "7658f1b12255727b": {
+   "fragment_id": "TABELA DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "TABELA DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TABELA DE CORRESPONDÊNCIA\n\nRegulamento (CE) n.º 1222/2009 Presente regulamento\n\nArtigo 1.º, n.º 1 —\n\nArtigo 1.º, n.º 2 Artigo 1.º\n\nArtigo 2.º, n.º 1 Artigo 2.º, n.º 1\n\nArtigo 2.º, n.º 2 Artigo 2.º, n.º 2\n\nArtigo 3.º, ponto 1 Artigo 3.º, ponto 1\n\n— Artigo 3.º, ponto 2\n\nArtigo 3.º, ponto 2 Artigo 3.º, ponto 3\n\n— Artigo 3.º, ponto 4\n\n— Artigo 3.º, ponto 5\n\nArtigo 3.º, ponto 3 Artigo 3.º, ponto 6\n\nArtigo 3.º, ponto 4 Artigo 3.º, ponto 7\n\n— Artigo 3.º, ponto 8\n\nArtigo 3.º, ponto 5 Artigo 3.º, ponto 9\n\n— Artigo 3.º, ponto 10\n\n— Artigo 3.º, ponto 11\n\nArtigo 3.º, ponto 6 Artigo 3.º, ponto 12\n\nArtigo 3.º, ponto 7 Artigo 3.º, ponto 13\n\nArtigo 3.º, ponto 8 Artigo 3.º, ponto 14\n\nArtigo 3.º, ponto 9 Artigo 3.º, ponto 15\n\nArtigo 3.º, ponto 10 Artigo 3.º, ponto 16\n\nArtigo 3.º, ponto 11 Artigo 3.º, ponto 17\n\n— Artigo 3.º, ponto 18\n\nArtigo 3.º, ponto 12 Artigo 3.º, ponto 19\n\nArtigo 3.º, ponto 13 Artigo 3.º, ponto 20\n\n— Artigo 3.º, ponto 21\n\n— Artigo 3.º, ponto 22\n\n— Artigo 3.º, ponto 23\n\n— Artigo 3.º, ponto 24\n\nArtigo 4.º Artigo 4.º\n\nArtigo 4.º, n.º 1 Artigo 4.º, n.º 1\n\nArtigo 4.º, n.º 1, alínea a) Artigo 4.º, n.º 1, alínea a)\n\nArtigo 4.º, n.º 1, alínea b) Artigo 4.º, n.º 1, alínea b)\n\nArtigo 4.º, n.º 2 —\n\n— Artigo 4.º, n.º 2\n\n— Artigo 4.º, n.º 3\n\nArtigo 4.º, n.º 3 Artigo 4.º, n.º 4\n\nArtigo 4.º, n.º 4 Artigo 4.º, n.º 5\n\n— Artigo 4.º, n.º 6\n\n— Artigo 4.º, n.º 7\n\n— Artigo 4.º, n.º 8\n\n— Artigo 4.º, n.º 9\n\n— Artigo 4.º, n.º 10\n\n— Artigo 5.º\n\nArtigo 5 Artigo 6\n\nArtigo 5.º, n.º 1 Artigo 6.º, n.º 1\n\nArtigo 5.º, n.º 1, alínea a) Artigo 6.º, n.º 1, alínea a)\n\nArtigo 5.º, n.º 1, alínea b) Artigo 6.º, n.º 1, alínea b)\n\n— Artigo 6.º, n.º 2\n\n— Artigo 6.º, n.º 3\n\nArtigo 5.º, n.º 2 Artigo 6.º, n.º 4\n\nArtigo 5.º, n.º 3 -\n\n— Artigo 6.º, n.º 5\n\n— Artigo 6.º, n.º 6\n\n— Artigo 6.º, n.º 7\n\nArtigo 6.º Artigo 7.º\n\n— Artigo 8.º\n\nArtigo 7.º Artigo 9.º\n\nArtigo 8.º Artigo 10.º\n\nArtigo 9.º, n.º 1 Artigo 11.º, n.º 1\n\nArtigo 9.º, n.º 2 Artigo 11.º, n.º 1\n\nArtigo 9.º, n.º 2, segunda frase Artigo 4.º, n.º 5\n\nArtigo 10.º Artigo 11.º, n.º 2\n\n— Artigo 11.º, n.º 3\n\nArtigo 11.º, alínea a) —\n\nArtigo 11.º, alínea b) —\n\nArtigo 11.º, alínea c) Artigo 13.º, n.º 1, alínea b)\n\nArtigo 12.º Artigo 11.º, n.º 4\n\n— Artigo 11.º, n.º 5\n\n— Artigo 12.º\n\n— Artigo 13.º\n\n— Artigo 13.º, n.º 1\n\n— Artigo 13.º, n.º 2\n\n— Artigo 13.º, n.º 3\n\n— Artigo 13.º, n.º 4\n\n— Artigo 14.º\n\nArtigo 13.º —\n\nArtigo 14.º —\n\n— Artigo 15.º\n\nArtigo 15.º —\n\n— Artigo 16.º\n\n— Artigo 17.º\n\nArtigo 16.º Artigo 18.º\n\nAnexo I Anexo I\n\nAnexo II Anexo II\n\n— Anexo III\n\nAnexo III Anexo IV\n\nAnexo IV Anexo VI\n\nAnexo IVa Anexo V\n\nAnexo V —\n\n— Anexo VII\n\n— Anexo VIII\n\n---"
+  },
+  "c3be53a772315ecb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/d5de478b-dbd6-11ea-adf7-01aa75ed71a1.0004.02/DOC_3#src.E0001)) Regulamento (UE) 2020/740 do Parlamento Europeu e do Conselho, de 25 de maio de 2020, relativo à rotulagem dos pneus no que respeita à eficiência energética e a outros parâmetros, que altera o Regulamento (UE) 2017/1369 e revoga o Regulamento (CE) n.º 1222/2009 (JO L 177, de 5.6.2020, p. 1).».\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d5de478b-dbd6-11ea-adf7-01aa75ed71a1.0004.02/DOC_3#src.E0002)) Regulamento n.º 30 da Comissão Económica das Nações Unidas para a Europa (UNECE) — Disposições uniformes relativas à homologação dos pneus para veículos a motor e seus reboques (JO L 201 de 30.7.2008, p. 70).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d5de478b-dbd6-11ea-adf7-01aa75ed71a1.0004.02/DOC_3#src.E0003)) Regulamento n.º 54 da Comissão Económica das Nações Unidas para a Europa (UNECE) — Disposições uniformes relativas à homologação dos pneus para veículos comerciais e seus reboques (JO L 183 de 11.7.2008, p. 41)."
+  }
+ }
+}

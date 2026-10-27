@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:165797126:por
+title: Resolução do Conselho de Ministros n.º 79/2021
+short_title: null
+summary: Prorroga o mandato da Estrutura de Missão para a Monitorização do Programa Orçamental da Saúde
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 79/2021
+official_date: null
+publication_date: '2021-06-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/2021, Série I de 2021-06-25
+  number: '122'
+  series: I
+  supplement: null
+  pages: 16 - 16
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12200/0001600016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/79/2021/06/25/p/dre/pt/html
+  oj: null
+  dre: '165797126'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/79-2021-165797126
+  internal: pt:dre:165797126:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2021-165797126
+  metadata_url: https://data.dre.pt/eli/resolconsmin/79/2021/06/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/79-2021-165797126
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:22:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4e411c1f1f0709b2debc87bdaa2e68a5bd313ae4ca599998cd84c47d421e6b25
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:22:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Estatuto Remuneratório
+- Estrutura de Missão para a Sustentabilidade do Programa Orçamental da Saúde
+- Financiamento
+- Gestão dos Recursos
+- Gestão Financeira
+- Gestão Orçamental
+- Ministério da Saúde
+- Prorrogação de Prazo
+- Serviço Nacional de Saúde
+relationships:
+- type: cites
+  target: pt:dre:114866943:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/37/2018/03/15/p/dre
+- type: cites
+  target: pt:dre:128865460:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2020/02/05/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:22:17Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 79/2021
+
+A [Resolução do Conselho de Ministros n.º 37/2018](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114866943/details/normal?l=1), de 15 de março, criou, na dependência dos membros do Governo responsáveis pelas áreas das finanças e da saúde, uma Estrutura de Missão para a Sustentabilidade do Programa Orçamental da Saúde (EM-SPOS), com o objetivo de reforçar o modelo de acompanhamento do desempenho financeiro global das entidades do Serviço Nacional de Saúde (SNS) e do Ministério da Saúde e de apresentar medidas que contribuíssem para a sustentabilidade do SNS.
+
+Com a cessação de funções do XXI Governo Constitucional, a EM-SPOS terminou o seu mandato, tendo apresentado, no seu decurso, diversas recomendações no sentido de melhorar o desempenho organizacional do setor empresarial da saúde, especialmente em áreas como o modelo de acompanhamento e de governação ou os sistemas de informação. Adicionalmente, do trabalho realizado pela EM-SPOS resultou a criação da Estrutura de Acompanhamento e Avaliação de Desempenho, a discussão e assinatura dos primeiros Planos de Atividades e Orçamento, assim como a identificação de medidas promotoras do equilíbrio orçamental setorial.
+
+Uma vez que a estabilidade da situação financeira do Programa Orçamental da Saúde continuava a revestir-se de importância essencial, tendo em vista garantir as respostas indispensáveis em matéria de saúde, bem como o adequado funcionamento do SNS, através da [Resolução do Conselho de Ministros n.º 3/2020](https://diariodarepublica.pt/web/guest/pesquisa/-/search/128865460/details/normal?l=1), de 5 de fevereiro, o Conselho de Ministros resolveu prorrogar, até 30 de junho de 2020, o mandato da Estrutura de Missão.
+
+Sem prejuízo dos resultados alcançados, o surto de doença por COVID-19 representa uma grave emergência de saúde pública a que é necessário dar resposta no plano sanitário, reforçando de forma substancial os recursos humanos e financeiros afetos ao SNS, motivo pelo qual, agora mais do que nunca, se demonstra imprescindível melhorar a eficiência na sua utilização, num quadro de maior autonomia e responsabilidade dos órgãos dirigentes, com incentivos à gestão e adequada monitorização do desempenho.
+
+Neste contexto, entende-se adequado assegurar a continuidade dos trabalhos em curso coordenados pela EM-SPOS, nomeadamente no que respeita à formulação de medidas de revisão da despesa na área da saúde, ao acompanhamento da celebração de planos de atividades e orçamento e dos contratos de gestão do setor empresarial do Estado na área da saúde, culminando na apresentação de propostas para a melhoria da qualidade do modelo de governação do SNS no final do primeiro semestre de 2021.
+
+Assim:
+
+Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Prorrogar, até 30 de setembro de 2021, o mandato da Estrutura de Missão para a Sustentabilidade do Programa Orçamental da Saúde, continuando o respetivo funcionamento a reger-se pelo disposto na [Resolução do Conselho de Ministros n.º 37/2018](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114866943/details/normal?l=1), de 15 de março, na sua redação atual.
+
+2 - Determinar que a presente resolução produz efeitos desde o dia 1 de julho de 2020.
+
+Presidência do Conselho de Ministros, 9 de junho de 2021. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra de Estado e da Presidência.
+
+114345395

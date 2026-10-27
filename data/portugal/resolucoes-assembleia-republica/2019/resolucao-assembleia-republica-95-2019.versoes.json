@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:123077667:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2019-901468231",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/95-2019-123077667",
+ "source_lastmod": "2024-12-27",
+ "versions": [
+  {
+   "date": "2019-07-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901455207"
+   ]
+  }
+ ],
+ "fragments": {
+  "901455207": {
+   "fragment_id": "901468232",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 95/2019\n\nConta Geral do Estado de 2017\n\nA Assembleia da República resolve, nos termos do disposto no n.º 5 do artigo 166.º da Constituição, aprovar a Conta Geral do Estado de 2017."
+  }
+ }
+}

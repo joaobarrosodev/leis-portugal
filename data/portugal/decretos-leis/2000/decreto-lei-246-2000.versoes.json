@@ -1,0 +1,864 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553876:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-167592082",
+ "dre_path": "/dr/detalhe/decreto-lei/246-2000-553876",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-09-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167574040",
+    "167574041",
+    "167574042",
+    "167574043",
+    "167574044",
+    "167574045",
+    "167574046",
+    "167574047",
+    "167574048",
+    "167574049",
+    "167574050",
+    "167574051",
+    "167574052",
+    "167574053",
+    "167574054",
+    "167574055",
+    "167574056",
+    "167574057",
+    "167574058",
+    "167574059",
+    "167574060",
+    "167574061",
+    "167574062",
+    "167574063",
+    "167574064",
+    "167574065",
+    "167574066",
+    "167574067"
+   ]
+  },
+  {
+   "date": "2005-07-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:235911:por",
+     "title": "Decreto-Lei n.º 112/2005",
+     "published": "2005-07-08",
+     "dre_path": "/dr/detalhe/decreto-lei/112-2005-235911"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "167574040",
+    "167574041",
+    "167574042",
+    "167574074",
+    "167574044",
+    "167574045",
+    "167601475",
+    "167574047",
+    "167574048",
+    "167574049",
+    "167601476",
+    "167574051",
+    "167574052",
+    "167574053",
+    "167574054",
+    "167601481",
+    "167574055",
+    "167601477",
+    "167601482",
+    "167601483",
+    "167601484",
+    "167601485",
+    "167601486",
+    "167601487",
+    "167601488",
+    "167574063",
+    "167601480",
+    "167574065",
+    "167574066",
+    "167574067",
+    "167574068"
+   ]
+  },
+  {
+   "date": "2007-03-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518464:por",
+     "title": "Decreto-Lei n.º 56/2007",
+     "published": "2007-03-13",
+     "dre_path": "/dr/detalhe/decreto-lei/56-2007-518464"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º-A",
+    "Altera Artigo 13.º",
+    "Altera Artigo 13.º-A",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "167574040",
+    "167574041",
+    "167574042",
+    "167574074",
+    "167574044",
+    "167574045",
+    "167601475",
+    "167574047",
+    "167574048",
+    "167574049",
+    "167601476",
+    "167574051",
+    "167702277",
+    "167702278",
+    "167574054",
+    "167702279",
+    "167574055",
+    "167702280",
+    "167702281",
+    "167702282",
+    "167601484",
+    "167601485",
+    "167601486",
+    "167601487",
+    "167601488",
+    "167574063",
+    "167601480",
+    "167574065",
+    "167574066",
+    "167574067",
+    "167574068"
+   ]
+  },
+  {
+   "date": "2013-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498751:por",
+     "title": "Decreto-Lei n.º 101/2013",
+     "published": "2013-07-25",
+     "dre_path": "/dr/detalhe/decreto-lei/101-2013-498751"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 12.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 12.º-A",
+    "Altera Artigo 13.º",
+    "Altera Artigo 13.º-A",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "167574040",
+    "167574041",
+    "167702325",
+    "167702338",
+    "167702339",
+    "167702345",
+    "167702352",
+    "167702347",
+    "167702353",
+    "167702354",
+    "167702350",
+    "167574049",
+    "167702355",
+    "167702329",
+    "167702330",
+    "167702331",
+    "167702332",
+    "167702333",
+    "167702351",
+    "167574055",
+    "167702334",
+    "167702335",
+    "167702336",
+    "167702337",
+    "167601485",
+    "167601486",
+    "167601487",
+    "167601488",
+    "167574063",
+    "167601480",
+    "167574065",
+    "167574066",
+    "167574067",
+    "167574068"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:235911:por",
+     "title": "Decreto-Lei n.º 112/2005",
+     "published": "2005-07-08",
+     "dre_path": "/dr/detalhe/decreto-lei/112-2005-235911",
+     "date": "2055-07-09"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "167574040": {
+   "fragment_id": "167592083",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 246/2000\n\nde 29 de Setembro\n\nDurante muito tempo, a abundância dos recursos piscatórios e o relativo pequeno esforço desenvolvido para se obterem bons rendimentos levaram a que a pesca marítima exercida com fins meramente lúdicos fosse considerada num plano distante relativamente à exploração comercial dos recursos vivos marinhos.\n\nO elevado nível de depauperização em que se encontram muitos pesqueiros tradicionais e a condição degradada de um número elevado de espécies, com relevo para as demersais, tem vindo a suscitar, na última década, uma crescente preocupação quanto ao futuro da pesca comercial.\n\nMais do que isso, certos casos se verificam já, e outros mais tenderão a surgir no futuro, que obrigam à tomada de medidas fortemente restritivas, com impacte significativo na actividade desenvolvida com fins comerciais.\n\nCasos haverá mesmo, ainda que de momento muito limitados no que a Portugal se refere, em que a pesca com fins lúdicos, e em especial a desportiva, contribuirá para uma maior limitação da actividade profissional, não tanto por razões de concorrência, mas pelo simples facto de poderem restringir ainda mais as oportunidades de pesca, resultantes de quotas já de si reduzidas.\n\nIndependentemente destes aspectos, outras razões existem que justificam se olhe para as actividades lúdicas com maior atenção.\n\nA primeira dessas razões prende-se com a necessidade de tornar sustentável a pesca lúdica de espécimes marinhos, designadamente em áreas sensíveis do ponto de vista ecológico, de modo a assegurar a conservação dos recursos mais degradados e da generalidade do património biológico marinho, prevenindo a sua sobre-exploração e depauperização.\n\nO segundo elemento justificativo, e, aliás, um dos mais importantes, resulta do facto de, a coberto de uma actividade lúdica, se desenvolver toda uma pesca ilegal, a que urge pôr cobro.\n\nNeste contexto, o presente diploma tem por objectivo prioritário combater as situações abusivas, ao mesmo tempo que contribuindo para que o exercício das actividades efectivamente lúdicas se faça dentro da normalidade que sempre as caracterizou, tendo em conta as medidas de conservação e gestão destinadas a preservar a riqueza dos nossos mares e a assegurar melhores condições para a sustentabilidade do sector pesqueiro nacional.\n\nReforça-se deste modo o âmbito de aplicação do Acordo n.º 34-A/98, de 13 de Maio, estabelecido entre os sectores das pescas e do ambiente, designadamente o disposto no seu ponto 8, que prevê que a regulação das actividades humanas que visam a exploração dos recursos aquáticos, quer do ponto de vista lúdico quer comercial, nos espaços abrangidos por áreas classificadas e nas áreas adjacentes, e tendo presentes os objectivos de conservação da Natureza, aconselha a articulação de esforços, nomeadamente através da harmonização dos dispositivos legais.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "167574041": {
+   "fragment_id": "167592084",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "167574042": {
+   "fragment_id": "167592085",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma define o quadro legal da pesca dirigida a espécies marinhas, vegetais e animais, com fins lúdicos, em águas oceânicas, em águas interiores marítimas ou em águas interiores não marítimas sob jurisdição da autoridade marítima, definidas nos termos do artigo 2.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção que lhe foi dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio."
+  },
+  "167574043": {
+   "fragment_id": "167592086",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito e modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito e modalidades\n\n1 - Para efeitos do presente diploma, entende-se por pesca lúdica a captura de espécies marinhas, vegetais ou animais, sem fins comerciais, designando-se por apanha lúdica quando a recolha é manual.\n\n2 - A pesca lúdica pode revestir as seguintes modalidades:\n\na) De lazer;\n\nb) Desportiva.\n\n3 - Quando praticada em embarcações no âmbito das actividades marítimo-turísticas, a pesca de lazer designa-se por pesca turística.\n\n4 - Para além do disposto no presente diploma, a pesca submarina, por ser uma actividade que pode revestir todas as modalidades de pesca lúdica enunciadas no número anterior, será regulamentada por legislação específica."
+  },
+  "167574044": {
+   "fragment_id": "167592087",
+   "type": 11,
+   "heading": "Artigo 3.º — Pesca de lazer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pesca de lazer\n\nConsidera-se pesca de lazer aquela cujo fim é a mera recreação."
+  },
+  "167574045": {
+   "fragment_id": "167592088",
+   "type": 11,
+   "heading": "Artigo 4.º — Pesca Desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pesca Desportiva\n\n1 - Considera-se pesca desportiva aquela que visa a competição organizada e a obtenção de marcas desportivas.\n\n2 - Os concursos de pesca desportiva designados como campeonatos nacionais, ou de que resulte atribuição de títulos de campeão nacional, bem como a constituição ou a utilização da designação de selecções nacionais apenas podem ser organizados por federações com estatuto de utilidade pública desportiva.\n\n3 - A realização de qualquer concurso de pesca desportiva depende de autorização prévia da capitania com jurisdição na área em que o concurso terá lugar, ou tratando-se de competição a realizar em águas fora da jurisdição da autoridade marítima, da entidade com jurisdição na área respectiva, e do Instituto da Conservação da Natureza (ICN), sempre que o concurso se realize numa área protegida.\n\n4 - As autorizações referidas no número anterior só são concedidas quando se verifiquem condições de segurança e salubridade."
+  },
+  "167574046": {
+   "fragment_id": "167592089",
+   "type": 11,
+   "heading": "Artigo 5.º — Pesca turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pesca turística\n\nA pesca turística é a pesca de lazer praticada por turistas no âmbito das actividades marítimo-turísticas, nos termos previstos no Decreto-Lei n.º 564/80, de 6 de Dezembro, na redacção dada pelo Decreto-Lei n.º 200/88, de 31 de Maio, e na Portaria n.º 59/88, de 28 de Janeiro, com o auxílio de pessoal especializado, fornecido por empresas de animação turística, devidamente licenciadas para o efeito."
+  },
+  "167574047": {
+   "fragment_id": "167592090",
+   "type": 11,
+   "heading": "Artigo 6.º — Pesca submarina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pesca submarina\n\nA pesca submarina só pode ser exercida por praticante em apneia, podendo ser usado instrumento de mão ou de arremesso, desde que a respectiva força propulsora não seja devida a poder detonante resultante de substância química ou a gás artificialmente comprimido."
+  },
+  "167574048": {
+   "fragment_id": "167592091",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Proibição de venda\n\nÉ proibido expor para venda, colocar à venda ou vender espécimes marinhos ou suas partes capturados na pesca lúdica, os quais apenas se podem destinar ao consumo do praticante, do seu agregado familiar ou a doação a instituições de beneficência, científicas ou museológicas."
+  },
+  "167574049": {
+   "fragment_id": "167592092",
+   "type": 1,
+   "heading": "Capítulo II — Exercício da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício da pesca"
+  },
+  "167574050": {
+   "fragment_id": "167592093",
+   "type": 11,
+   "heading": "Artigo 8.º — Formas de exercício da pesca lúdica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formas de exercício da pesca lúdica\n\nA pesca lúdica pode ser exercida:\n\na) De terra - a que se exerce de terra firme;\n\nb) De embarcação - a que se exerce a bordo de uma embarcação registada no recreio ou na actividade marítimo-turística.\n\nc) Submarina - a que se exerce em flutuação ou em submersão na água em apneia."
+  },
+  "167574051": {
+   "fragment_id": "167592094",
+   "type": 11,
+   "heading": "Artigo 9.º — Artes permitidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Artes permitidas\n\n1 - A pesca lúdica só pode ser exercida com linhas, as quais não podem ter mais que três anzóis, não podendo cada praticante utilizar mais que três linhas ou com instrumentos de mão ou de arremesso, tal como definido no artigo 6.º\n\n2 - Para efeitos do número anterior, as canas de pesca e as toneiras são linhas de mão.\n\n3 - Não é considerada lúdica a pesca exercida com outras artes que não as referidas no n.º 1."
+  },
+  "167574052": {
+   "fragment_id": "167592095",
+   "type": 11,
+   "heading": "Artigo 10.º — Condicionamentos ao exercício da pesca lúdica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condicionamentos ao exercício da pesca lúdica\n\n1 - Tendo por objectivo a conservação e gestão racional dos recursos, os Ministros da Defesa Nacional, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas, do Ambiente e do Ordenamento do Território e o membro do Governo responsável pela área do desporto estabelecerão por portaria o regime do exercício da pesca lúdica, definindo os condicionamentos a que o mesmo fica sujeito, nomeadamente no que se refere a:\n\na) Características das artes, utensílios, equipamentos e embarcações autorizados, bem como as condições da sua utilização;\n\nb) Definição das áreas e condições específicas para o exercício da pesca lúdica;\n\nc) Interdição ou restrição do exercício da pesca lúdica, dirigida a certas espécies, em certas áreas e durante certos períodos;\n\nd) Definição das espécies não passíveis de captura, por razões que se prendam com a sua raridade ou importância ecológica ou cuja captura esteja condicionada por quotas muito limitadas ou pelo simples estado dos recursos;\n\ne) Fixação do tamanho ou peso mínimo dos espécimes capturados, sem prejuízo dos estabelecidos no âmbito das medidas técnicas de conservação e gestão dos recursos marinhos;\n\nf) Limitação da captura por espécie, por praticante ou empresa turística e por embarcação;\n\ng) Limitação do número máximo de licenças a conceder, por área de pesca e por espécie;\n\nh) Sujeição do exercício da pesca a registos de actividade para fins de informação e controlo;\n\ni) Processo de licenciamento;\n\nj) Regime específico para a pesca lúdica nas áreas protegidas."
+  },
+  "167574053": {
+   "fragment_id": "167592096",
+   "type": 11,
+   "heading": "Artigo 11.º — Restrições ao exercício da pesca lúdica por outros motivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Restrições ao exercício da pesca lúdica por outros motivos\n\n1 - Podem ser estabelecidas, a título permanente ou temporário, interdições ou restrições ao exercício da pesca lúdica por motivos de saúde pública de segurança, de normal circulação da navegação ou por outros motivos de interesse público.\n\n2 - As interdições ou restrições previstas no número anterior serão estabelecidas por despacho conjunto do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e dos demais membros do Governo competentes."
+  },
+  "167574054": {
+   "fragment_id": "167592097",
+   "type": 11,
+   "heading": "Artigo 12.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Licenciamento\n\n1 - O exercício da pesca lúdica está sujeito a licenciamento, nos termos do presente diploma e seus regulamentos, excepto quando se trate da apanha lúdica referida no n.º 1 do artigo 2.º\n\n2 - As licenças são emitidas pela Direcção-Geral das Pescas e Aquicultura."
+  },
+  "167574055": {
+   "fragment_id": "167592098",
+   "type": 1,
+   "heading": "Capítulo III — Fiscalização e regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fiscalização e regime contra-ordenacional"
+  },
+  "167574056": {
+   "fragment_id": "167592099",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\n1 - A coordenação da vigilância, fiscalização e controlo das actividades previstas no presente diploma e respectiva legislação complementar compete à Inspecção-Geral das Pescas, enquanto autoridade nacional de pesca, competindo a sua execução aos órgãos e serviços dos Ministérios da Defesa Nacional, da Administração Interna, das Finanças, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, no âmbito das competências que lhes estejam legalmente conferidas relativamente à vigilância, fiscalização e controlo.\n\n2 - Os órgãos e serviços referidos no número anterior levantarão o respectivo auto de notícia, tomando de acordo com a lei geral as necessárias medidas cautelares quando, no exercício das suas funções, verificarem ou comprovarem pessoal e directamente, ainda que por forma não imediata, a prática de qualquer contra-ordenação, prevista neste diploma, remetendo-o às entidades competentes para investigação e instrução dos processos, no caso de tal competência não lhe estar atribuída."
+  },
+  "167574057": {
+   "fragment_id": "167592100",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de 100000$00 a 750000$00:\n\na) Exercer a pesca sem para tal ser titular de licença;\n\nb) A utilização de embarcação sem dispor do adequado registo e certificação técnica, equipamentos de navegação, segurança e comunicações, lotação de segurança ou sem dispor da autorização respectiva;\n\nc) O exercício da pesca turística por empresas não licenciadas como empresas de animação turística;\n\nd) Exercer a pesca submarina no período nocturno, entre o pôr e o nascer do Sol;\n\ne) Exercer a pesca contra proibição expressa;\n\nf) Exercer a pesca em períodos ou áreas em que a mesma seja proibida, por razões de conservação de recursos;\n\ng) Expor para venda, colocar à venda ou vender espécimes capturados ou suas partes;\n\nh) Deter, transportar, manter a bordo ou exercer a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou por outros processos não previstos no presente diploma;\n\ni) Lançar ao mar objectos ou substâncias susceptíveis de prejudicar o meio marinho ou avariar as artes de pesca ou as embarcações.\n\nj) Efectuar competições de pesca desportiva sem a respectiva autorização ou sem cumprir o regulamento aprovado;\n\nk) Ter a bordo ou instalar nas embarcações equipamentos destinados às manobras de pesca com artes de pesca não autorizadas na pesca lúdica.\n\n2 - Constitui contra-ordenação punível com coima de 50000$00 a 500000$00:\n\na) Deter, transportar, manter a bordo, transbordar ou desembarcar espécimes cuja pesca seja proibida ou que não tenham o tamanho ou peso mínimos exigidos;\n\nb) Utilizar fontes luminosas como dispositivo, excepto para o uso da toneira;\n\nc) Deter, transportar, manter a bordo, transbordar ou desembarcar capturas cujos quantitativos excedam os legalmente estabelecidos;\n\nd) Exercer a pesca sem ser portador das respectivas licenças, quer da licença de pesca, quer da licença da embarcação;\n\ne) Exercer a pesca a distâncias inferiores às legalmente estabelecidas em relação à orla das praias frequentadas por banhistas;\n\nf) Exercer a pesca em locais legalmente proibidos por motivos específicos que não se relacionem com a conservação dos recursos, nomeadamente por serem considerados insalubres ou por razões de segurança e de tráfego marítimo;\n\ng) Carregar, transportar carregadas ou em condições de disparo imediato armas de pesca submarina fora de água.\n\n3 - Tratando-se de pessoas colectivas, os limites máximos das coimas constantes dos n.os 1 e 2 elevam-se, respectivamente, para 5000000$00 e 3000000$00.\n\n4 - As artes, os instrumentos de pesca e os equipamentos ilegais são sempre cautelarmente apreendidos.\n\n5 - Os bens apreendidos nos termos do número anterior são considerados perdidos a favor do Estado, quando não seja possível identificar o seu proprietário.\n\n6 - A negligência e a tentativa são sempre puníveis."
+  },
+  "167574058": {
+   "fragment_id": "167592101",
+   "type": 11,
+   "heading": "Artigo 15.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanções acessórias\n\n1 - Em simultâneo com a coima, poderão ser aplicadas uma ou mais das sanções acessórias a seguir enumeradas, em função da gravidade da infracção e da culpa do agente:\n\na) Perda das artes ou outros instrumentos ou equipamentos pertencentes ao agente;\n\nb) Suspensão da licença de pesca, bem como da licença de utilização da embarcação;\n\nc) Privação do direito de obter licença de pesca, e de licença de utilização da embarcação;\n\nd) Perda dos produtos provenientes da pesca lúdica, resultantes da actividade contra-ordenacional.\n\n2 - As sanções referidas nas alíneas b) e c) têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "167574059": {
+   "fragment_id": "167592102",
+   "type": 11,
+   "heading": "Artigo 16.º — Investigação e instrução dos processos contra-ordenacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Investigação e instrução dos processos contra-ordenacionais\n\n1 - Compete às entidades referidas no n.º 2 do artigo 13.º, cujos agentes detectaram o facto ilícito, levantar o auto de notícia, investigar e instruir os respectivos processos por contra-ordenações previstas no presente diploma.\n\n2 - A investigação e instrução dos processos por infracção autuada por unidades navais de fiscalização marítima, compete à capitania do porto de registo ou à capitania do porto em cuja área de jurisdição o facto ilícito se verificou, ou à capitania do primeiro porto em que a embarcação der entrada."
+  },
+  "167574060": {
+   "fragment_id": "167592103",
+   "type": 11,
+   "heading": "Artigo 17.º — Entidades competentes para aplicação das coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entidades competentes para aplicação das coimas e sanções acessórias\n\n1 - A aplicação das coimas e das sanções acessórias previstas neste diploma que digam respeito a infracções cometidas em águas sob soberania e jurisdição nacionais compete ao capitão do porto da capitania em cuja área ocorreu o facto ilícito, ou ao capitão do porto de registo da embarcação, ou do primeiro porto em que esta entrar, consoante o que tiver procedido à instrução do respectivo processo de contra-ordenação.\n\n2 - Nos restantes casos, compete ao inspector-geral das Pescas a aplicação das coimas e sanções acessórias previstas neste diploma."
+  },
+  "167574061": {
+   "fragment_id": "167592104",
+   "type": 11,
+   "heading": "Artigo 18.º — Destino das receitas das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destino das receitas das coimas\n\nO produto das coimas aplicadas pelas contra-ordenações previstas neste diploma e respectiva legislação complementar revertem:\n\na) 20% para entidade que levantar o auto e instruir o processo;\n\nb) 20% para a entidade que aplicar a coima;\n\nc) 60% para os cofres do Estado."
+  },
+  "167574062": {
+   "fragment_id": "167592105",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime subsidiário\n\nEm tudo quanto não se encontrar especialmente regulado no presente diploma é aplicável o regime geral das contra-ordenações."
+  },
+  "167574063": {
+   "fragment_id": "167592106",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "167574064": {
+   "fragment_id": "167592107",
+   "type": 11,
+   "heading": "Artigo 20.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regiões Autónomas\n\n1 - A regulamentação dos artigos 9.º, 10.º e 11.º compete nas Regiões Autónomas aos órgãos de governo próprio.\n\n2 - Nas Regiões Autónomas, as entidades competentes para o efeito do disposto nos artigos 12.º, 16.º e 17.º, no que respeita às atribuições da Inspecção-Geral das Pescas, serão designadas por acto normativo dos respectivos órgãos de governo próprio."
+  },
+  "167574065": {
+   "fragment_id": "167592108",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\nEnquanto não for publicada a regulamentação a que se refere o presente diploma, são mantidas, em relação às respectivas matérias, as disposições legais em vigor, desde que não contrariem expressamente as do presente diploma."
+  },
+  "167574066": {
+   "fragment_id": "167592109",
+   "type": 11,
+   "heading": "Artigo 22.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Legislação revogada\n\nSão revogadas as disposições do Decreto n.º 45116, de 6 de Julho de 1963, que contrariem o disposto no presente diploma, e bem assim a alínea a) do n.º 1 do artigo 4.º do Decreto-Lei n.º 304/87, de 4 de Agosto."
+  },
+  "167574067": {
+   "fragment_id": "167592110",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a sua publicação."
+  },
+  "167574074": {
+   "fragment_id": "167592086",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito e modalidades",
+   "in_force_from": "2005-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 2.º — Conceito e modalidades\n\n1 - Para efeitos do presente diploma, entende-se por pesca lúdica a captura de espécies marinhas, vegetais ou animais, sem fins comerciais, designando-se por apanha lúdica quando a recolha é manual.\n\n2 - A pesca lúdica pode revestir as seguintes modalidades:\n\na) De lazer;\n\nb) Desportiva.\n\n3 - Quando praticada em embarcações no âmbito das actividades marítimo-turísticas, a pesca de lazer designa-se por pesca turística.\n\n4 - A pesca submarina, enquanto actividade que pode revestir as modalidades de pesca lúdica a que se refere o n.º 2, rege-se pelas disposições do presente diploma e sua regulamentação, sem prejuízo de legislação especial que a venha a regular.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167601475": {
+   "fragment_id": "167592089",
+   "type": 11,
+   "heading": "Artigo 5.º — Pesca turística",
+   "in_force_from": "2005-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 5.º — Pesca turística\n\nA pesca turística é a pesca de lazer destinada a turistas, realizada no âmbito das actividades marítimo-turísticas, nos termos previstos no Regulamento da Actividade Marítimo-Turística e promovida por entidades licenciadas para o efeito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167601476": {
+   "fragment_id": "167592093",
+   "type": 11,
+   "heading": "Artigo 8.º — Formas de exercício da pesca lúdica",
+   "in_force_from": "2005-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 8.º — Formas de exercício da pesca lúdica\n\n1 - A pesca lúdica pode ser exercida:\n\na) De terra - a que se exerce de terra firme;\n\nb) De embarcação - a que se exerce a bordo de uma embarcação registada no recreio ou na actividade marítimo-turística.\n\nc) Submarina - a que se exerce em flutuação ou em submersão na água em apneia.\n\n2 - No exercício da pesca lúdica, na modalidade desportiva, podem ser utilizadas embarcações registadas na pesca, nas condições a definir na regulamentação a que se refere o artigo 10.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167601481": {
+   "fragment_id": "167592121",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Taxas",
+   "in_force_from": "2055-07-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+   ],
+   "markdown": "###### Artigo 12.º-A — Taxas\n\n1 - A emissão das licenças está sujeita ao pagamento de uma taxa, cujos montante e destino são fixados por portaria dos Ministros de Estado e da Administração Interna, de Estado e das Finanças, da Defesa Nacional e da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo do disposto no número seguinte.\n\n2 - A portaria a que se refere o n.º 1 estabelece a percentagem do produto das taxas que se destina a financiar os custos inerentes à implementação e administração do licenciamento e à vigilância, fiscalização e controlo da actividade da pesca lúdica, de acordo com os objectivos e os meios definidos e previstos no plano anual de fiscalização.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+  },
+  "167601477": {
+   "fragment_id": "167592099",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": "2005-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\n1 - A coordenação da vigilância, fiscalização e controlo das actividades previstas no presente diploma e respectiva legislação complementar compete à Direcção-Geral das Pescas e Aquicultura, enquanto autoridade nacional de pesca na área da inspecção.\n\n2 - A execução das acções de vigilância, fiscalização e controlo das actividades previstas no presente diploma e legislação complementar compete aos serviços competentes dos Ministérios da Administração Interna, da Defesa Nacional, do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, no âmbito das competências que lhes estejam legalmente conferidas.\n\n3 - Os órgãos e serviços referidos no número anterior levantarão o respectivo auto de notícia, tomando de acordo com a lei geral as necessárias medidas cautelares quando, no exercício das suas funções, verificarem ou comprovarem pessoal e directamente, ainda que por forma não imediata, a prática de qualquer contra-ordenação, prevista neste diploma, remetendo-o às entidades competentes para investigação e instrução dos processos, no caso de tal competência não lhe estar atribuída.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167601482": {
+   "fragment_id": "167592122",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Plano anual de fiscalização",
+   "in_force_from": "2055-07-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+   ],
+   "markdown": "###### Artigo 13.º-A — Plano anual de fiscalização\n\n1 - A Direcção-Geral das Pescas e Aquicultura, enquanto entidade coordenadora, elabora, em articulação com as demais entidades competentes dos Ministérios da Administração Interna, das Finanças, da Defesa Nacional, do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, um plano anual de vigilância, fiscalização e controlo da actividade da pesca lúdica, que define os objectivos a atingir e os correspondentes meios humanos e materiais afectos às acções a empreender no respectivo período.\n\n2 - O plano referido no número anterior pode ser reajustado sempre que se justifique.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+  },
+  "167601483": {
+   "fragment_id": "167592100",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": "2005-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 500 e nos montantes máximos de (euro) 3740 ou (euro) 24939, consoante o agente seja pessoa singular ou colectiva:\n\na) Exercer a pesca sem para tal ser titular de licença;\n\nb) A utilização de embarcação sem dispor do adequado registo e certificação técnica, equipamentos de navegação, segurança e comunicações, lotação de segurança ou sem dispor da autorização respectiva;\n\nc) O exercício da pesca turística por empresas não licenciadas como empresas de animação turística;\n\nd) Exercer a pesca submarina no período nocturno, entre o pôr e o nascer do Sol;\n\ne) Exercer a pesca contra proibição expressa;\n\nf) Exercer a pesca em períodos ou áreas em que a mesma seja proibida, por razões de conservação de recursos;\n\ng) Expor para venda, colocar à venda ou vender espécimes capturados ou suas partes;\n\nh) Deter, transportar, manter a bordo ou exercer a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos ou utensílios similares não previstos no presente diploma, devendo o auto ser comunicado à autoridade competente, com vista à aplicação da legislação respeitante à detenção e uso de armas ou de outros instrumentos e substâncias cuja posse ou utilização seja proibida ou sujeita a licenciamento;\n\ni) Lançar ao mar objectos ou substâncias susceptíveis de prejudicar o meio marinho ou avariar as artes de pesca ou as embarcações.\n\nj) Efectuar competições de pesca desportiva sem a respectiva autorização ou sem cumprir o regulamento aprovado;\n\nl) Ter a bordo ou instalar nas embarcações equipamentos destinados às manobras de pesca com artes de pesca não autorizadas na pesca lúdica;\n\nm) Deter, transportar, manter a bordo, transbordar ou desembarcar espécimes cuja pesca seja proibida;\n\nn) Deter, transportar, manter a bordo, transbordar ou desembarcar capturas cujos quantitativos excedam os legalmente estabelecidos;\n\no) Utilizar como isco ou engodo ovas de peixe ou substâncias passíveis de causar danos ambientais.\n\n2 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 250 e nos montantes máximos de (euro) 2493 ou (euro) 14963, consoante o agente seja pessoa singular ou colectiva:\n\na) Deter, transportar, manter a bordo, transbordar ou desembarcar espécimes que não tenham o tamanho ou o peso mínimo exigidos;\n\nb) Utilizar fontes luminosas como dispositivo, excepto para o uso da toneira;\n\nc) Exercer a pesca sem ser portador da respectiva licença;\n\nd) Exercer a pesca a distâncias inferiores às legalmente estabelecidas em relação às orlas das praias concessionadas durante a época balnear;\n\ne) Exercer a pesca em locais legalmente proibidos por motivos específicos que não se relacionem com a conservação dos recursos, nomeadamente por serem considerados insalubres ou por razões de segurança e de tráfego marítimo;\n\nf) Carregar, transportar carregadas ou em condições de disparo imediato armas de pesca submarina fora de água.\n\ng) Exercer qualquer actividade de pesca com fins lucrativos, bem como ter a bordo ou utilizar qualquer tipo de arte de pesca com características diferentes das previstas no presente diploma ou sua regulamentação, durante os períodos em que a embarcação de pesca esteja autorizada para o exercício da pesca lúdica na modalidade desportiva;\n\nh) Exercer a pesca lúdica sem respeitar as distâncias mínimas entre praticantes, nos termos definidos na regulamentação do presente diploma.\n\n3 - Tratando-se de pessoas colectivas, os limites máximos das coimas constantes dos n.os 1 e 2 elevam-se, respectivamente, para 5000000$00 e 3000000$00.\n\n4 - As artes, os instrumentos de pesca e os equipamentos ilegais são sempre cautelarmente apreendidos.\n\n5 - Os bens apreendidos nos termos do número anterior são considerados perdidos a favor do Estado, quando não seja possível identificar o seu proprietário.\n\n6 - A negligência e a tentativa são sempre puníveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167601484": {
+   "fragment_id": "167592101",
+   "type": 11,
+   "heading": "Artigo 15.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanções acessórias\n\n1 - Em simultâneo com a coima, poderão ser aplicadas uma ou mais das sanções acessórias a seguir enumeradas, em função da gravidade da infracção e da culpa do agente:\n\na) Perda das artes ou outros instrumentos ou equipamentos pertencentes ao agente;\n\nb) Suspensão da licença de pesca, bem como da licença de utilização da embarcação;\n\nc) Privação do direito de obter licença de pesca, e de licença de utilização da embarcação;\n\nd) Perda dos produtos provenientes da pesca lúdica, resultantes da actividade contra-ordenacional.\n\n2 - As sanções referidas nas alíneas b) e c) têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "167601485": {
+   "fragment_id": "167592102",
+   "type": 11,
+   "heading": "Artigo 16.º — Investigação e instrução dos processos contra-ordenacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Investigação e instrução dos processos contra-ordenacionais\n\n1 - Compete às entidades referidas no n.º 2 do artigo 13.º, cujos agentes detectaram o facto ilícito, levantar o auto de notícia, investigar e instruir os respectivos processos por contra-ordenações previstas no presente diploma.\n\n2 - A investigação e instrução dos processos por infracção autuada por unidades navais de fiscalização marítima, compete à capitania do porto de registo ou à capitania do porto em cuja área de jurisdição o facto ilícito se verificou, ou à capitania do primeiro porto em que a embarcação der entrada."
+  },
+  "167601486": {
+   "fragment_id": "167592103",
+   "type": 11,
+   "heading": "Artigo 17.º — Entidades competentes para aplicação das coimas e sanções acessórias",
+   "in_force_from": "2005-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 17.º — Entidades competentes para aplicação das coimas e sanções acessórias\n\n1 - A aplicação das coimas e das sanções acessórias previstas neste diploma que digam respeito a infracções cometidas em águas sob soberania e jurisdição nacionais compete ao capitão do porto da capitania em cuja área ocorreu o facto ilícito, ou ao capitão do porto de registo da embarcação, ou do primeiro porto em que esta entrar, consoante o que tiver procedido à instrução do respectivo processo de contra-ordenação.\n\n2 - Nos restantes casos, compete ao subdirector-geral das pescas com competências na área da inspecção a aplicação das coimas e sanções acessórias previstas no presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167601487": {
+   "fragment_id": "167592104",
+   "type": 11,
+   "heading": "Artigo 18.º — Destino das receitas das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destino das receitas das coimas\n\nO produto das coimas aplicadas pelas contra-ordenações previstas neste diploma e respectiva legislação complementar revertem:\n\na) 20% para entidade que levantar o auto e instruir o processo;\n\nb) 20% para a entidade que aplicar a coima;\n\nc) 60% para os cofres do Estado."
+  },
+  "167601488": {
+   "fragment_id": "167592105",
+   "type": 11,
+   "heading": "Artigo 19.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime subsidiário\n\nEm tudo quanto não se encontrar especialmente regulado no presente diploma é aplicável o regime geral das contra-ordenações."
+  },
+  "167601480": {
+   "fragment_id": "167592107",
+   "type": 11,
+   "heading": "Artigo 20.º — Regiões Autónomas",
+   "in_force_from": "2005-07-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 20.º — Regiões Autónomas\n\n1 - A regulamentação dos artigos 9.º, 10.º, 11.º, 12.º e do regime das taxas previstas no artigo 12.º-A compete, nas Regiões Autónomas, aos órgãos de governo próprio.\n\n2 - Nas Regiões Autónomas as entidades competentes para o efeito do disposto nos artigos 12.º, 13.º, 13.º-A, 16.º e 17.º são designadas por acto normativo dos respectivos órgãos de governo próprio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167574068": {
+   "fragment_id": "167592111",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Julho de 2000. - Jaime José Matos da Gama - Luís Manuel Ferreira Parreirão Gonçalves - José Manuel Silva Mourato - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 14 de Setembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Setembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "167702277": {
+   "fragment_id": "167592095",
+   "type": 11,
+   "heading": "Artigo 10.º — Condicionamentos ao exercício da pesca lúdica",
+   "in_force_from": "2007-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14"
+   ],
+   "markdown": "###### Artigo 10.º — Condicionamentos ao exercício da pesca lúdica\n\nTendo por objectivo a conservação e gestão racional dos recursos, os membros do Governo responsáveis pelas áreas da defesa, da economia, das pescas, do ambiente e do desporto estabelecem por portaria o regime do exercício da pesca lúdica, definindo os condicionamentos a que o mesmo fica sujeito, nomeadamente no que se refere a:\n\na) Características das artes, utensílios, equipamentos e embarcações autorizados, bem como as condições da sua utilização;\n\nb) Definição das áreas e condições específicas para o exercício da pesca lúdica;\n\nc) Interdição ou restrição do exercício da pesca lúdica, dirigida a certas espécies, em certas áreas e durante certos períodos;\n\nd) Definição das espécies não passíveis de captura, por razões que se prendam com a sua raridade ou importância ecológica ou cuja captura esteja condicionada por quotas muito limitadas ou pelo simples estado dos recursos;\n\ne) Fixação do tamanho ou peso mínimo dos espécimes capturados, sem prejuízo dos estabelecidos no âmbito das medidas técnicas de conservação e gestão dos recursos marinhos;\n\nf) Limitação da captura por espécie, por praticante ou empresa turística e por embarcação;\n\ng) Limitação do número máximo de licenças a conceder, por área de pesca e por espécie;\n\nh) Sujeição do exercício da pesca a registos de actividade para fins de informação e controlo;\n\ni) Processo de licenciamento;\n\nj) Regime específico para a pesca lúdica nas áreas protegidas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14"
+  },
+  "167702278": {
+   "fragment_id": "167592096",
+   "type": 11,
+   "heading": "Artigo 11.º — Restrições ao exercício da pesca lúdica por outros motivos",
+   "in_force_from": "2007-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14"
+   ],
+   "markdown": "###### Artigo 11.º — Restrições ao exercício da pesca lúdica por outros motivos\n\n1 - Podem ser estabelecidas, a título permanente ou temporário, interdições ou restrições ao exercício da pesca lúdica por motivos de saúde pública de segurança, de normal circulação da navegação ou por outros motivos de interesse público.\n\n2 - As interdições ou restrições previstas no número anterior são estabelecidas por despacho conjunto do membro do Governo responsável pela área das pescas e dos demais membros do Governo competentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14"
+  },
+  "167702279": {
+   "fragment_id": "167592121",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Taxas",
+   "in_force_from": "2007-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+   ],
+   "markdown": "###### Artigo 12.º-A — Taxas\n\n1 - A emissão das licenças está sujeita ao pagamento de uma taxa, cujos montante e destino são fixados por portaria dos membros do Governo responsáveis pelas áreas da administração interna, das finanças, da defesa, do ambiente e das pescas, sem prejuízo do disposto no número seguinte.\n\n2 - A portaria a que se refere o n.º 1 estabelece a percentagem do produto das taxas que se destina a financiar os custos inerentes à implementação e administração do licenciamento e à vigilância, fiscalização e controlo da actividade da pesca lúdica, de acordo com os objectivos e os meios definidos e previstos no plano anual de fiscalização.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+  },
+  "167702280": {
+   "fragment_id": "167592099",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": "2007-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\n1 - A coordenação da vigilância, fiscalização e controlo das actividades previstas no presente diploma e respectiva legislação complementar compete à Direcção-Geral das Pescas e Aquicultura, enquanto autoridade nacional de pesca na área da inspecção.\n\n2 - A execução das acções de vigilância, fiscalização e controlo das actividades previstas no presente diploma e legislação complementar compete aos serviços competentes dos ministérios das áreas da administração interna, da defesa, do ambiente, da economia e das pescas, no âmbito das competências que lhes estejam legalmente conferidas.\n\n3 - Os órgãos e serviços referidos no número anterior levantarão o respectivo auto de notícia, tomando de acordo com a lei geral as necessárias medidas cautelares quando, no exercício das suas funções, verificarem ou comprovarem pessoal e directamente, ainda que por forma não imediata, a prática de qualquer contra-ordenação, prevista neste diploma, remetendo-o às entidades competentes para investigação e instrução dos processos, no caso de tal competência não lhe estar atribuída.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167702281": {
+   "fragment_id": "167592122",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Plano anual de fiscalização",
+   "in_force_from": "2007-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+   ],
+   "markdown": "###### Artigo 13.º-A — Plano anual de fiscalização\n\n1 - A Direcção-Geral de Pescas e Aquicultura, enquanto entidade coordenadora, elabora, em articulação com as demais entidades competentes dos ministérios das áreas da administração interna, das finanças, da defesa, do ambiente, da economia e das pescas, um plano anual de vigilância, fiscalização e controlo da actividade da pesca lúdica, que define os objectivos a atingir e os correspondentes meios humanos e materiais afectos às acções a empreender no respectivo período.\n\n2 - O plano referido no número anterior pode ser reajustado sempre que se justifique.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+  },
+  "167702282": {
+   "fragment_id": "167592100",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": "2007-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 500 e nos montantes máximos de (euro) 3740 ou (euro) 24939, consoante o agente seja pessoa singular ou colectiva:\n\na) Exercer a pesca sem para tal ser titular de licença;\n\nb) A utilização de embarcação sem dispor do adequado registo e certificação técnica, equipamentos de navegação, segurança e comunicações, lotação de segurança ou sem dispor da autorização respectiva;\n\nc) O exercício da pesca turística por empresas não licenciadas como empresas de animação turística;\n\nd) Exercer a pesca submarina no período nocturno, entre o pôr e o nascer do Sol;\n\ne) Exercer a pesca contra proibição expressa;\n\nf) Exercer a pesca em períodos ou áreas em que a mesma seja proibida, por razões de conservação de recursos;\n\ng) Expor para venda, colocar à venda ou vender espécimes capturados ou suas partes;\n\nh) Deter, transportar, manter a bordo ou exercer a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos ou utensílios similares não previstos no presente diploma, devendo o auto ser comunicado à autoridade competente, com vista à aplicação da legislação respeitante à detenção e uso de armas ou de outros instrumentos e substâncias cuja posse ou utilização seja proibida ou sujeita a licenciamento;\n\ni) Lançar ao mar objectos ou substâncias susceptíveis de prejudicar o meio marinho ou avariar as artes de pesca ou as embarcações.\n\nj) Efectuar competições de pesca desportiva sem a respectiva autorização ou sem cumprir o regulamento aprovado;\n\nl) Ter a bordo ou instalar nas embarcações equipamentos destinados às manobras de pesca com artes de pesca não autorizadas na pesca lúdica;\n\nm) Deter, transportar, manter a bordo, transbordar ou desembarcar espécimes cuja pesca seja proibida;\n\nn) Deter, transportar, manter a bordo, transbordar ou desembarcar capturas cujos quantitativos excedam os legalmente estabelecidos;\n\no) Utilizar como isco ou engodo ovas de peixe ou substâncias passíveis de causar danos ambientais.\n\n2 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 250 e nos montantes máximos de (euro) 2493 ou (euro) 14963, consoante o agente seja pessoa singular ou colectiva:\n\na) Deter, transportar, manter a bordo, transbordar ou desembarcar espécimes que não tenham o tamanho ou o peso mínimo exigidos;\n\nb) Utilizar fontes luminosas como dispositivo, excepto para o uso da toneira;\n\nc) Exercer a pesca sem ser portador da respectiva licença;\n\nd) Exercer a pesca a distâncias inferiores às legalmente estabelecidas em relação às orlas das praias concessionadas durante a época balnear;\n\ne) Exercer a pesca em locais legalmente proibidos por motivos específicos que não se relacionem com a conservação dos recursos, nomeadamente por serem considerados insalubres ou por razões de segurança e de tráfego marítimo;\n\nf) Carregar, transportar carregadas ou em condições de disparo imediato armas de pesca submarina fora de água.\n\ng) Exercer qualquer actividade de pesca com fins lucrativos, bem como ter a bordo ou utilizar qualquer tipo de arte de pesca com características diferentes das previstas no presente diploma ou sua regulamentação, durante os períodos em que a embarcação de pesca esteja autorizada para o exercício da pesca lúdica na modalidade desportiva;\n\nh) Exercer a pesca lúdica sem respeitar as distâncias mínimas entre praticantes, nos termos definidos na regulamentação do presente diploma.\n\n3 - As artes, os instrumentos de pesca e os equipamentos ilegais são sempre cautelarmente apreendidos.\n\n4 - Os bens apreendidos nos termos do número anterior são considerados perdidos a favor do Estado quando não seja possível identificar o seu proprietário.\n\n5 - A negligência e a tentativa são puníveis, sendo os montantes mínimos e máximos das coimas reduzidos para metade.\n\n6 - A negligência e a tentativa são sempre puníveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167702325": {
+   "fragment_id": "167592085",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o quadro legal aplicável à pesca lúdica, quando praticada em águas oceânicas, em águas interiores marítimas ou em águas interiores não marítimas sob jurisdição da autoridade marítima, definidas nos termos do artigo 2.º do Decreto Regulamentar n.º 43/87, de 17 de julho, na redação que lhe foi dada pelo Decreto Regulamentar n.º 7/2000, de 30 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702338": {
+   "fragment_id": "167610872",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Princípios orientadores",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 1.º-A — Princípios orientadores\n\nPara além dos princípios da promoção do desenvolvimento sustentável da pesca constantes na legislação geral e específica aplicável, a prática da pesca lúdica deve observar os seguintes princípios:\n\na) Princípio do equilíbrio, visando a gestão sustentável dos recursos naturais, de modo a obter a melhor utilização possível em proveito da comunidade, respeitando a solidariedade intergeracional;\n\nb) Princípio do acesso equitativo aos recursos naturais, considerando o ambiente como bem de uso comum;\n\nc) Princípio da participação, salvaguardando a intervenção do público, das instituições e dos agentes locais e reforçando a consciência cívica dos cidadãos, nomeadamente através do acesso à informação;\n\nd) Princípio da responsabilização, visando o reforço dos conhecimentos dos praticantes da pesca lúdica sobre o ambiente marinho onde se insere a atividade, os impactos ambientais da mesma e os cuidados acrescidos a observar em áreas de maior sensibilidade ecológica.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702339": {
+   "fragment_id": "167592086",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 2.º — Conceito\n\nPara efeitos do presente decreto-lei entende-se por pesca lúdica a captura de espécies marinhas, vegetais ou animais, sem fins comerciais ou científicos, através de uma das seguintes formas de exercício:\n\na) Pesca de lazer, cuja prática visa a mera recreação;\n\nb) Pesca desportiva, cuja prática visa a obtenção de marcas desportivas em competição organizada;\n\nc) Pesca turística, exercida nos termos do Regulamento da Atividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 21/2002, de 31 de janeiro, alterado pelos Decretos-Leis n.os 178/2002, de 31 de julho, 269/2003, de 28 de outubro, 289/2007, 17 de agosto, e 108/2009, de 15 de maio, bem como do regime jurídico da atividade das empresas de animação turística e dos operadores marítimo-turísticos, aprovado pelo Decreto-Lei n.º 108/2009, de 15 de maio, alterado pelo Decreto-Lei n.º 95/2013, de 19 de julho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167702345": {
+   "fragment_id": "167610873",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Modalidades de pesca lúdica",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 2.º-A — Modalidades de pesca lúdica\n\n1 - A pesca lúdica pode revestir as seguintes modalidades:\n\na) Apanha lúdica, que se pratica manualmente e sem recurso a utensílios de captura;\n\nb) Pesca apeada, que se pratica de terra firme ou de formações rochosas ilhadas;\n\nc) Pesca embarcada, que se pratica a bordo de uma embarcação de recreio registada ou que exerça a atividade marítimo-turística;\n\nd) Pesca submarina, que se exerce em flutuação ou em submersão na água em apneia, nela se incluindo a apanha feita manualmente e com recurso a utensílios de captura, a definir em portaria.\n\n2 - A apanha feita com utilização de utensílios de captura, que são definidos em portaria, enquadra-se na modalidade correspondente ao meio em que é praticada.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702352": {
+   "fragment_id": "167592087",
+   "type": 11,
+   "heading": "Artigo 3.º — Pesca de lazer",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 3.º — Pesca de lazer\n\nConsidera-se pesca de lazer aquela cujo fim é a mera recreação.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702347": {
+   "fragment_id": "167592088",
+   "type": 11,
+   "heading": "Artigo 4.º — Pesca Desportiva",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 4.º — Pesca Desportiva\n\n1 - As competições de pesca desportiva designadas como campeonatos ou de que resulte atribuição de títulos de campeão nacional, regional ou outros, bem como a constituição ou a utilização da designação de seleções nacionais, apenas podem ser organizadas por federações desportivas com estatuto de utilidade pública desportiva.\n\n2 - A realização de qualquer competição de pesca desportiva depende de autorização prévia da capitania com jurisdição na área em que a mesma tem lugar ou, tratando-se de competição a realizar em águas fora da jurisdição da autoridade marítima, da entidade com jurisdição na área respetiva, bem como do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), sempre que a competição se realize numa área classificada.\n\n3 - As autorizações referidas no número anterior só são concedidas quando se verifiquem condições de segurança e de salubridade.\n\n4 - Em caso de conflito de data e local de competições de pesca desportiva, as autorizações para as competições previstas no n.º 1 prevalecem sobre quaisquer outras.\n\n5 - No exercício da pesca desportiva podem ser utilizadas embarcações registadas na pesca nas condições a definir na portaria a que se refere o artigo 10.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702353": {
+   "fragment_id": "167592089",
+   "type": 11,
+   "heading": "Artigo 5.º — Pesca turística",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 5.º — Pesca turística\n\nA pesca turística é a pesca de lazer destinada a turistas, realizada no âmbito das actividades marítimo-turísticas, nos termos previstos no Regulamento da Actividade Marítimo-Turística e promovida por entidades licenciadas para o efeito.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167702354": {
+   "fragment_id": "167592090",
+   "type": 11,
+   "heading": "Artigo 6.º — Pesca submarina",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 6.º — Pesca submarina\n\nA pesca submarina só pode ser exercida por praticante em apneia, podendo ser usado instrumento de mão ou de arremesso, desde que a respectiva força propulsora não seja devida a poder detonante resultante de substância química ou a gás artificialmente comprimido.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702350": {
+   "fragment_id": "167592091",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de venda",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 7.º — Proibição de venda\n\nÉ proibido expor para venda, colocar à venda ou vender espécimes marinhos, animais ou vegetais, ou suas partes capturados na pesca lúdica.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702355": {
+   "fragment_id": "167592093",
+   "type": 11,
+   "heading": "Artigo 8.º — Formas de exercício da pesca lúdica",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 8.º — Formas de exercício da pesca lúdica\n\n1 - A pesca lúdica pode ser exercida:\n\na) De terra - a que se exerce de terra firme;\n\nb) De embarcação - a que se exerce a bordo de uma embarcação registada no recreio ou na actividade marítimo-turística.\n\nc) Submarina - a que se exerce em flutuação ou em submersão na água em apneia.\n\n2 - No exercício da pesca lúdica, na modalidade desportiva, podem ser utilizadas embarcações registadas na pesca, nas condições a definir na regulamentação a que se refere o artigo 10.º\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167702329": {
+   "fragment_id": "167592094",
+   "type": 11,
+   "heading": "Artigo 9.º — Artes permitidas",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 9.º — Artes permitidas\n\n1 - Sem prejuízo da legislação específica mais restritiva aplicável, a pesca lúdica apeada e a pesca lúdica embarcada só podem ser exercidas com linhas, não podendo cada praticante operar com mais de três linhas e mais de nove anzóis, e com os utensílios e artes de pesca apeada que forem identificados na portaria a que se refere o artigo 10.º\n\n2 - Para efeitos do número anterior, as canas de pesca e as toneiras são linhas de mão.\n\n3 - Sem prejuízo da legislação específica mais restritiva aplicável, a pesca submarina só pode ser exercida por praticante em apneia, podendo ser usado utensílio de captura de mão ou de arremesso desde que a respetiva força propulsora não seja devida a poder detonante resultante de substância química ou a gás artificialmente comprimido.\n\n4 - Excetuam-se do disposto nos n.os 1 e 3, os limites permitidos nos regulamentos das federações desportivas para as competições de pesca desportiva previstas no n.º 1 do artigo 4.º\n\n5 - Não é considerada lúdica a pesca exercida com outras artes que não as referidas nos n.os 1 e 3.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702330": {
+   "fragment_id": "167592095",
+   "type": 11,
+   "heading": "Artigo 10.º — Condicionamentos ao exercício da pesca lúdica",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14"
+   ],
+   "markdown": "###### Artigo 10.º — Condicionamentos ao exercício da pesca lúdica\n\nTendo por objetivo a conservação e gestão racional dos recursos, os membros do Governo responsáveis pelas áreas da defesa, do desporto, da economia, das pescas, do mar e do ambiente estabelecem por portaria o regime do exercício da pesca lúdica, definindo os condicionamentos a que o mesmo fica sujeito, no que se refere a:\n\na) Características das artes, utensílios, equipamentos e embarcações autorizados, bem como as condições da sua utilização;\n\nb) Definição das áreas e condições específicas para o exercício da pesca lúdica;\n\nc) Interdição ou restrição do exercício da pesca lúdica, dirigida a certas espécies, em certas áreas e durante certos períodos;\n\nd) Definição das espécies não passíveis de captura, por razões que se prendam com a sua raridade ou importância ecológica ou cuja captura esteja condicionada por quotas muito limitadas ou pelo simples estado dos recursos;\n\ne) Fixação do tamanho ou peso mínimo dos espécimes capturados, sem prejuízo dos estabelecidos no âmbito das medidas técnicas de conservação e gestão dos recursos marinhos;\n\nf) Limitação da captura por espécie, por praticante ou empresa turística e por embarcação;\n\ng) Limitação do número máximo de licenças a conceder, por área de pesca e por espécie;\n\nh) Sujeição do exercício da pesca a registos de actividade para fins de informação e controlo;\n\ni) Processo de licenciamento;\n\nj) Medidas específicas relativas ao exercício da pesca lúdica em áreas protegidas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14"
+  },
+  "167702331": {
+   "fragment_id": "167592096",
+   "type": 11,
+   "heading": "Artigo 11.º — Restrições ao exercício da pesca lúdica por outros motivos",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14"
+   ],
+   "markdown": "###### Artigo 11.º — Restrições ao exercício da pesca lúdica por outros motivos\n\n1 - Podem ser estabelecidas, a título permanente ou temporário, interdições ou restrições ao exercício da pesca lúdica por motivos de saúde pública de segurança, de normal circulação da navegação ou por outros motivos de interesse público.\n\n2 - As interdições ou restrições previstas no número anterior são estabelecidas por despacho do membro do Governo responsável pela área das pescas e dos demais membros do Governo competentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14"
+  },
+  "167702332": {
+   "fragment_id": "167592097",
+   "type": 11,
+   "heading": "Artigo 12.º — Licenciamento",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 12.º — Licenciamento\n\n1 - O exercício da pesca lúdica está sujeito a licenciamento, nos termos do presente diploma e seus regulamentos.\n\n2 - Excetuam-se do disposto no número anterior as seguintes situações:\n\na) A prática da modalidade da apanha lúdica referida na alínea a) do artigo 2.º-A;\n\nb) A prática da pesca lúdica por menores de 16 anos, quando acompanhados por titulares de licença;\n\nc) A prática da pesca lúdica por indivíduos não residentes em Portugal, que participem em campeonatos internacionais de pesca desportiva, desde que apresentem o comprovativo da inscrição nos mesmos.\n\n3 - A licença para o exercício da pesca lúdica é individual e intransmissível e é emitida com validade diária, mensal ou anual, sendo de um dos seguintes tipos:\n\na) Pesca lúdica apeada, exclusivamente para a prática da modalidade da pesca apeada;\n\nb) Pesca lúdica embarcada, para a prática da modalidade de pesca embarcada, e que abrange a licença prevista na alínea anterior;\n\nc) Pesca lúdica submarina, exclusivamente para a prática da modalidade da pesca submarina;\n\nd) Pesca lúdica geral, que abrange todas a licenças previstas nas alíneas anteriores.\n\n4 - A licença habilita à prática da pesca lúdica em todo o território do continente.\n\n5 - As licenças são emitidas pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702333": {
+   "fragment_id": "167592121",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Taxas",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+   ],
+   "markdown": "###### Artigo 12.º-A — Taxas\n\n1 - A emissão das licenças está sujeita ao pagamento de uma taxa, cujo montante é fixado pela portaria a que se refere o artigo 10.º\n\n2 - O remanescente do produto da taxa, após aplicação do disposto na alínea d) do n.º 2 do artigo 12.º do Decreto-Lei n.º 311/99, de 10 de agosto, alterado pelo Decreto-Lei n.º 255/2001, de 22 de setembro, pela Lei n.º 54/2004, de 3 de dezembro, e pelo Decreto-Lei n.º 46/2010, de 7 de maio, é distribuído nos seguintes termos:\n\na) 55 % para a DGRM, destinado a suportar os custos administrativos do licenciamento, acompanhamento e gestão da atividade da pesca lúdica, bem como os custos inerentes à inspeção, fiscalização e acompanhamento descentralizado da atividade de pesca lúdica, por si, mediante protocolos a estabelecer com outras entidades competentes ou através da aquisição de serviços externos;\n\nb) 35 % para os organismos competentes da Autoridade Marítima Nacional e da Guarda Nacional Republicana, na proporção de 50 % para cada uma das entidades, destinado a suportar os custos inerentes às ações de inspeção, vigilância e fiscalização por si empreendidas;\n\nc) 10 % para o Fundo para a Conservação da Natureza e da Biodiversidade, destinado à promoção da sustentabilidade da atividade da pesca lúdica, nomeadamente à aquisição de informação e atividades de formação e desenvolvimento de boas práticas.\n\n3 - A DGRM procede trimestralmente à transferência para os organismos envolvidos dos montantes referidos no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+  },
+  "167702351": {
+   "fragment_id": "167610874",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Disponibilização de dados",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 12.º-B — Disponibilização de dados\n\n1 - Com a finalidade de caracterizar e monitorizar a atividade da pesca lúdica deve ser disponibilizada à DGRM, de acordo com os procedimentos a definir por esta, a seguinte informação:\n\na) Registos de esforço de pesca e capturas, incluindo o peso e comprimento dos exemplares capturados em competições desportivas, a fornecer pelas federações de pesca desportivas;\n\nb) Registos de esforço de pesca e capturas, incluindo o peso e comprimento dos exemplares, a fornecer pelos operadores marítimo-turísticos.\n\n2 - Os pescadores lúdicos e as suas associações colaboram na recolha e facultam informação que contribua para os objetivos definidos no número anterior.\n\n3 - Os pescadores lúdicos e as suas associações prestam, ainda, as informações solicitadas no âmbito dos inquéritos promovidos pela DGRM para acompanhamento da atividade.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  },
+  "167702334": {
+   "fragment_id": "167592099",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\n1 - A coordenação da vigilância, fiscalização e controlo das atividades previstas no presente diploma e respetiva legislação complementar compete à DGRM, enquanto autoridade nacional de pesca na área da inspeção.\n\n2 - A execução das ações de vigilância, fiscalização e controlo das atividades previstas no presente diploma e respetiva legislação complementar compete aos órgãos e serviços dos ministérios das áreas da defesa nacional, da administração interna, do desporto, da economia, das pescas, do mar, e do ambiente, no âmbito das competências que lhes estejam legalmente conferidas.\n\n3 - Os órgãos e serviços referidos no número anterior levantarão o respectivo auto de notícia, tomando de acordo com a lei geral as necessárias medidas cautelares quando, no exercício das suas funções, verificarem ou comprovarem pessoal e directamente, ainda que por forma não imediata, a prática de qualquer contra-ordenação, prevista neste diploma, remetendo-o às entidades competentes para investigação e instrução dos processos, no caso de tal competência não lhe estar atribuída.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167702335": {
+   "fragment_id": "167592122",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Plano anual de fiscalização",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+   ],
+   "markdown": "###### Artigo 13.º-A — Plano anual de fiscalização\n\n1 - A DGRM, enquanto entidade coordenadora, elabora, em articulação com as demais entidades competentes dos ministérios das áreas da defesa nacional, da administração interna, do desporto, da economia, das pescas, do mar, e do ambiente, um plano anual de vigilância, fiscalização e controlo da atividade da pesca lúdica, que define os objetivos a atingir e os correspondentes meios humanos e materiais afetos às ações a empreender no respetivo período.\n\n2 - O plano referido no número anterior pode ser reajustado sempre que se justifique.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2055-07-09"
+  },
+  "167702336": {
+   "fragment_id": "167592100",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contraordenação punível com coima no montante mínimo de 200,00 EUR e no montante máximo de 2 000,00 EUR ou mínimo de 500,00 EUR e máximo de 20 000,00 EUR, consoante o agente seja pessoa singular ou coletiva, a prática das seguintes infrações:\n\na) Exercer a pesca sem para tal ser titular de licença;\n\nb) A utilização de embarcação sem dispor do adequado registo e certificação técnica, equipamentos de navegação, segurança e comunicações, lotação de segurança ou sem dispor da autorização respectiva;\n\nc) (Revogada.)\n\nd) Exercer a pesca submarina no período nocturno, entre o pôr e o nascer do Sol;\n\ne) Exercer a pesca contra proibição expressa;\n\nf) Exercer a pesca em períodos ou áreas em que a mesma seja proibida, por razões de conservação de recursos;\n\ng) Expor para venda, colocar à venda ou vender espécimes capturados ou suas partes;\n\nh) Deter, transportar, manter a bordo ou exercer a pesca com armas de fogo, substâncias explosivas, venenosas ou tóxicas, corrente eléctrica ou outros processos ou utensílios similares não previstos no presente diploma, devendo o auto ser comunicado à autoridade competente, com vista à aplicação da legislação respeitante à detenção e uso de armas ou de outros instrumentos e substâncias cuja posse ou utilização seja proibida ou sujeita a licenciamento;\n\ni) Lançar ao mar objectos ou substâncias susceptíveis de prejudicar o meio marinho ou avariar as artes de pesca ou as embarcações.\n\nj) Efectuar competições de pesca desportiva sem a respectiva autorização ou sem cumprir o regulamento aprovado;\n\nk) Ter a bordo ou instalar nas embarcações, equipamentos destinados às manobras de pesca com artes de pesca não autorizadas na pesca lúdica;\n\nl) Deter, transportar, manter a bordo, transbordar ou desembarcar espécimes cuja pesca seja proibida;\n\nm) Deter, transportar, manter a bordo, transbordar ou desembarcar capturas cujos quantitativos excedam os legalmente estabelecidos;\n\nn) Utilizar como isco ou engodo ovas de peixe ou substâncias passíveis de causar danos ambientais;\n\no) Exercer a pesca submarina sem a boia de sinalização ou com uso de equipamentos de respiração artificial;\n\np) Exercer a pesca lúdica realizada a bordo de embarcações em águas oceânicas e interiores marítimas sem envergar auxiliares individuais de flutuação;\n\nq) Exercer a pesca lúdica sem uso de meios de segurança individual na pesca lúdica apeada, nos termos a definir em portaria.\n\n2 - Constitui contraordenação punível com coima no montante mínimo de 100,00 EUR e no montante máximo de 1 000,00 EUR ou mínimo de 250,00 EUR e máximo de 10 000,00 EUR, consoante o agente seja pessoa singular ou coletiva, a prática das seguintes infrações:\n\na) Deter, transportar, manter a bordo, transbordar ou desembarcar espécimes que não tenham o tamanho ou o peso mínimo exigidos;\n\nb) Utilizar fontes luminosas como dispositivo de chamariz, exceto para o uso da toneira;\n\nc) (Revogada.)\n\nd) Exercer a pesca a distâncias inferiores às legalmente estabelecidas em relação às orlas das praias concessionadas durante a época balnear;\n\ne) Exercer a pesca em locais legalmente proibidos por motivos específicos que não se relacionem com a conservação dos recursos, nomeadamente por serem considerados insalubres ou por razões de segurança e de tráfego marítimo;\n\nf) Carregar, transportar carregadas ou em condições de disparo imediato armas de pesca submarina fora de água.\n\ng) Exercer qualquer actividade de pesca com fins lucrativos, bem como ter a bordo ou utilizar qualquer tipo de arte de pesca com características diferentes das previstas no presente diploma ou sua regulamentação, durante os períodos em que a embarcação de pesca esteja autorizada para o exercício da pesca lúdica na modalidade desportiva;\n\nh) Exercer a pesca lúdica sem respeitar as distâncias mínimas entre praticantes, nos termos definidos na regulamentação do presente diploma.\n\ni) Utilizar embarcações de pesca profissional, nas competições, sem autorização prévia da capitania do porto competente;\n\nj) Descarregar ou transportar espécimes sem o corte do lóbulo superior da barbatana caudal, exceto se tiverem sido capturados em pesca submarina;\n\nk) Não disponibilizar a informação de registo de esforço de pesca e capturas prevista nos n.os 1 e 3 do artigo 12.º-B.\n\n3 - As artes, os instrumentos de pesca e os equipamentos ilegais são sempre cautelarmente apreendidos.\n\n4 - Os bens apreendidos nos termos do número anterior são considerados perdidos a favor do Estado quando não seja possível identificar o seu proprietário.\n\n5 - A negligência e a tentativa são puníveis, sendo os montantes mínimos e máximos das coimas reduzidos para metade.\n\n6 - A negligência e a tentativa são sempre puníveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2007 - Diário da República n.º 51/2007, Série I de 2007-03-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464), em vigor a partir de 2007-03-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 112/2005 - Diário da República n.º 130/2005, Série I-A de 2005-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911), em vigor a partir de 2005-07-09"
+  },
+  "167702337": {
+   "fragment_id": "167592101",
+   "type": 11,
+   "heading": "Artigo 15.º — Sanções acessórias",
+   "in_force_from": "2013-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+   ],
+   "markdown": "###### Artigo 15.º — Sanções acessórias\n\n1 - Em simultâneo com a coima, poderão ser aplicadas uma ou mais das sanções acessórias a seguir enumeradas, em função da gravidade da infracção e da culpa do agente:\n\na) Perda das artes ou outros instrumentos ou equipamentos pertencentes ao agente;\n\nb) Suspensão da licença para o exercício da pesca lúdica, bem como da licença de utilização da embarcação quando aplicável;\n\nc) Privação do direito de obter licença para o exercício da pesca lúdica, bem como da licença de utilização da embarcação quando aplicável;\n\nd) Perda dos produtos provenientes da pesca lúdica, resultantes da actividade contra-ordenacional.\n\n2 - As sanções referidas nas alíneas b) e c) do número anterior têm a duração mínima de dois meses e máxima de dois anos, contados a partir da decisão condenatória definitiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751), em vigor a partir de 2013-08-24"
+  }
+ }
+}

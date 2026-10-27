@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:480707:por
+title: Decreto-Lei n.º 201/2004
+short_title: null
+summary: Altera o Decreto-Lei n.º 316/98, de 20 de Outubro, que institui o procedimento extrajudicial de conciliação para
+  viabilização de empresas em situação de insolvência ou em situação económica difícil
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 201/2004
+official_date: null
+publication_date: '2004-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/2004, Série I-A de 2004-08-18
+  number: '194'
+  series: I
+  supplement: null
+  pages: 5316 - 5318
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/08/194a00/53165318.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/201/2004/08/18/p/dre/pt/html
+  oj: null
+  dre: '480707'
+  dre_path: /dr/detalhe/decreto-lei/201-2004-480707
+  internal: pt:dre:480707:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2004-480707
+  metadata_url: https://data.dre.pt/eli/dec-lei/201/2004/08/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2004-480707
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 45d27657c25bb68d16cbb9e151f0b551628e12aedd522c1558efd7257f4be3d2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa
+- Falência
+- IAPMEI
+- Insolvência
+- Recuperação de Empresas
+- Viabilidade Económica
+relationships:
+- type: amended_by
+  target: pt:dre:179028:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:239981:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/316/1998/10/20/p/dre
+- type: repealed_by
+  target: pt:dre:179028:por
+  label: "Revogado, a partir de 01.09.2012, o Dec Lei 316/98, de 20-out, na redação do presente diploma, pelo DEC LEI.178/2012.03.08.2012.MEE,\
+    \ DR.IS [150] de 03.08.2012, sem prejuízo do disposto no nº 1 do seu art. 21º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2012-179028
+  date: '2012-08-03'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:45:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 201/2004
+
+de 18 de Agosto
+
+A reforma do direito falimentar português, introduzida pelo Código da Insolvência e da Recuperação de Empresas, constitui um passo decisivo no incentivo aos empresários ao recurso aos meios formais de encerramento ou viabilização de empresas em situação de insolvência ou na iminência de tal situação.
+
+Contudo, não se pode deixar de notar que o recurso a um processo de natureza judicial pode revelar-se demasiado oneroso.
+
+Atendendo a tal preocupação, tornava-se necessária a adaptação do procedimento extrajudicial de conciliação à nova nomenclatura e conceitos do processo de insolvência, aproveitando simultaneamente para procurar corrigir alguns dos entraves detectados ao bom funcionamento deste procedimento.
+
+Assim, e em primeiro lugar, estabelece-se expressamente que o requerimento de procedimento extrajudicial de conciliação suspende o prazo de que o devedor dispõe para apresentação à insolvência, como incentivo ao recurso a este procedimento.
+
+Por outro lado, prevê-se agora a possibilidade de as empresas que obtenham a aprovação, em sede de procedimento de conciliação, de uma proposta de acordo de viabilização por, pelo menos, dois terços dos credores envolvidos obterem suprimento judicial da aprovação dos restantes credores de forma relativamente expedita.
+
+Assim se procura ultrapassar um dos principais obstáculos ao sucesso dos acordos de viabilização promovidos no âmbito do IAPMEI, qual seja a necessidade de unanimidade entre todos os credores envolvidos.
+
+Naturalmente, a dispensa dessa unanimidade, com a consequente imposição a determinados credores do acordo alcançado, não pode deixar de implicar a intervenção judicial, como forma de tutela dos direitos desses mesmos credores.
+
+Alarga-se o âmbito de aplicação do diploma a outras entidades para além das empresas, uma vez que a natureza das situações em causa assim o determina.
+
+Consagra-se expressamente a obrigatoriedade de participação no procedimento especial de conciliação dos credores que assegurem a representatividade do mínimo de 50% do montante das dívidas da empresa, assegurando-se deste modo, inequivocamente, a viabilidade da empresa e adequação do acordo.
+
+Introduz-se um prazo máximo de seis meses para a conclusão do procedimento de conciliação, conferindo uma maior celeridade e credibilidade ao processo, podendo ser prorrogado pelo prazo de três meses mediante pedido fundamentado da empresa ou de um dos credores, e sujeito a autorização do IAPMEI.
+
+Inclui-se ainda uma disposição que estabelece a obrigatoriedade de participação dos credores públicos no procedimento de conciliação quando a regularização das dívidas contribua, de forma decisiva, para o saneamento do passivo da devedora e sua consequente viabilização.
+
+Por último, regula-se em termos mais claros a relação entre o procedimento de conciliação e o processo judicial de insolvência, esclarecendo-se que a suspensão só pode ser decretada caso a insolvência ainda não haja sido judicialmente declarada, que a dita suspensão não pode durar mais de dois meses e que a suspensão não impede a adopção de medidas cautelares destinadas a acautelar os direitos dos credores.
+
+Introduz-se a obrigatoriedade do pagamento de uma taxa ao IAPMEI, cujo montante é definido por portaria do Ministro da Economia, tendo em vista a cobertura dos custos com o presente procedimento.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alterações ao [Decreto-Lei n.º 316/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1998-239981), de 20 de Outubro
+
+Os artigos 1.º a 4.º, 10.º e 11.º do [Decreto-Lei n.º 316/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1998-239981), de 20 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+1 - Qualquer empresa em condições de requerer judicialmente a sua insolvência, nos termos do Código da Insolvência e da Recuperação de Empresas (CIRE), pode requerer ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) o procedimento de conciliação regulado no presente diploma.
+
+2 - Para os efeitos do presente diploma, entende-se como empresa toda a pessoa colectiva dotada de personalidade jurídica e com património autónomo.
+
+3 - O procedimento de conciliação a que se refere o n.º 1 do presente artigo pode ainda ser requerido por qualquer credor que, nos termos do CIRE, tenha legitimidade para requerer a declaração de insolvência de uma empresa.
+
+4 - A apresentação de requerimento de procedimento de conciliação pela empresa suspende, durante a pendência do procedimento, o prazo para apresentação à insolvência fixado no artigo 18.º do CIRE.
+
+5 - A suspensão prevista no número anterior cessa logo que o procedimento se extinga ou decorram 60 dias sobre a data em que haja sido proferido o despacho referido no n.º 1 do artigo 4.º
+
+Artigo 2.º
+
+[...]
+
+1 - O procedimento de conciliação destina-se a obter a celebração de acordo, entre a empresa e todos ou alguns dos seus credores, que viabilize a recuperação da empresa em situação de insolvência, ainda que meramente iminente, nos termos do artigo 3.º do CIRE.
+
+2 - ...
+
+3 - A participação dos credores públicos no procedimento de conciliação é obrigatória desde que a regularização das respectivas dívidas contribua, de forma decisiva, para a recuperação da empresa.
+
+4 - As propostas tendentes ao acordo a que se referem os números anteriores podem servir de base a propostas de planos de insolvência ou de planos de pagamentos a apresentar no âmbito de processo de insolvência.
+
+5 - Caso o conteúdo da proposta de acordo corresponda ao disposto no n.º 2 do artigo 252.º do CIRE e haja sido, no âmbito do procedimento de conciliação, objecto de aprovação escrita por mais de dois terços do valor total dos créditos relacionados pelo devedor no procedimento de conciliação, pode a mesma ser submetida ao juiz do tribunal que seria competente para o processo de insolvência para suprimento dos restantes credores e consequente homologação, com os mesmos efeitos previstos no CIRE para o plano de pagamentos.
+
+6 - Para os efeitos do número anterior, é dispensada a notificação dos credores cuja aprovação escrita conste do requerimento apresentado, sendo apenas notificados, nos termos do artigo 256.º do CIRE, os credores cuja aprovação se requer seja suprida pelo Tribunal.
+
+Artigo 3.º
+
+Pedido de conciliação
+
+1 - ...
+
+2 - O requerimento é acompanhado dos documentos que devessem ser apresentados com a petição em processo judicial de insolvência.
+
+3 - O requerimento a apresentar deve integrar credores que representem mais de 50% das dívidas da empresa.
+
+4 - Com a entrega do requerimento, a empresa deve simultaneamente proceder ao pagamento de uma taxa ao IAPMEI, cujo montante é fixado por portaria do Ministro da Economia, para cobertura dos custos do procedimento.
+
+5 - Deve ser ainda apresentado, no prazo de 15 dias após a entrega do requerimento, um plano de negócios que demonstre a adequabilidade do acordo e da viabilidade da empresa.
+
+Artigo 4.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) A empresa não se encontra em situação de insolvência, ainda que meramente iminente;
+
+e) Já se encontra ultrapassado o prazo para apresentação à insolvência, tal como fixado no n.º 1 do artigo 18.º do CIRE.
+
+2 - ...
+
+Artigo 10.º
+
+[...]
+
+1 - A pendência de processo judicial de insolvência não obsta ao procedimento de conciliação.
+
+2 - No caso previsto no número anterior, se ainda não tiver sido declarada a insolvência, a instância judicial pode ser suspensa, a requerimento da empresa ou de qualquer interessado, instruído com declaração emitida pelo IAPMEI.
+
+3 - O juiz, ouvidas as partes, decide conforme julgar mais conveniente, não podendo a suspensão da instância prolongar-se por mais de dois meses.
+
+4 - A suspensão prevista nos números anteriores não prejudica a adopção das medidas cautelares previstas no artigo 31.º do CIRE.
+
+Artigo 11.º
+
+Prazo de conclusão do procedimento de conciliação
+
+1 - O prazo de conclusão do procedimento de conciliação, quando não exista processo de insolvência pendente, não deverá exceder seis meses.
+
+2 - O prazo referido no número anterior poderá ser prorrogado por mais três meses, por uma única vez, sempre que, de forma devidamente fundamentada, a empresa ou um dos credores o requeira e o IAPMEI dê o seu parecer favorável.»
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente diploma entra em vigor na data de início de vigência do diploma que aprova o Código da Insolvência e da Recuperação de Empresas.
+
+Visto e aprovado em Conselho de Ministros de 1 de Julho de 2004. - José Manuel Durão Barroso - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva.
+
+Promulgado em 2 de Agosto de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 5 de Agosto de 2004.
+
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:336695:por
+title: Decreto-Lei n.º 391/75
+short_title: null
+summary: Atribui à Junta Central das Casas do Povo competência para a prática de actos da competência do extinto Instituto
+  Nacional do Trabalho e Previdência
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Assuntos Sociais
+proposing_entity: null
+official_number: 391/75
+official_date: null
+publication_date: '1975-07-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 167/1975, Série I de 1975-07-22
+  number: '167'
+  series: I
+  supplement: null
+  pages: 1019 - 1019
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16700/10191019.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '336695'
+  dre_path: /dr/detalhe/decreto-lei/391-1975-336695
+  internal: pt:dre:336695:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1975-336695
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1975-336695
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: dce7e752800083f308305981cea1143bc3c7fa993bd154d2ef11687ef69fa1aa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CASA do POVO
+- Instituto Nacional do Trabalho e Previdência
+- Junta Central das Casas do Povo
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:413840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:43:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 391/75
+
+de 22 de Julho
+
+O extinto Instituto Nacional do Trabalho e Previdência detinha competência para determinados actos relativos às Casas do Povo, fundamentalmente contida no [Decreto n.º 445/70](https://diariodarepublica.pt/dr/detalhe/decreto/445-1970-666342), de 23 de Setembro, e na [Portaria n.º 587/73](https://diariodarepublica.pt/dr/detalhe/portaria/587-1973-413840), de 28 de Agosto, que aprovou o estatuto dos respectivos empregados.
+
+Tendo em conta que ainda não foi revisto o regime legal das Casas do Povo nem definida a competência específica dos serviços destinados ao apoio e coordenação das mesmas;
+
+Sendo a Junta Central das Casas do Povo, quer pela natureza das suas atribuições, quer pela descentralização que lhe é assegurada pelos seus serviços distritais, a entidade que mais adequadamente poderá assegurar todas as tarefas atrás referidas;
+
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Cabe à Junta Central das Casas do Povo praticar todos os actos relacionados com as Casas do Povo, para a execução dos quais a anterior legislação atribuía competência ao Instituto Nacional do Trabalho e Previdência.
+
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Alberto Nobre Lopes Soares - Jorge de Carvalho Sá Borges.
+
+Promulgado em 14 de Julho de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

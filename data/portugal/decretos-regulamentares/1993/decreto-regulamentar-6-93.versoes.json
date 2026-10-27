@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:634321:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1993-944759243",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/6-1993-634321",
+ "source_lastmod": "2025-11-06",
+ "versions": [
+  {
+   "date": "1993-03-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944872096",
+    "944872097",
+    "944872098",
+    "944872099",
+    "944872100",
+    "944872101",
+    "944872102",
+    "944872103"
+   ]
+  },
+  {
+   "date": "1993-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225409:por",
+     "title": "Declaração de Rectificação n.º 126/93",
+     "published": "1993-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/126-1993-225409"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 7.º"
+   ],
+   "fragments": [
+    "944872096",
+    "944872097",
+    "944872098",
+    "944872108",
+    "944872100",
+    "944872101",
+    "944872102",
+    "944872109",
+    "944872104",
+    "944872105"
+   ]
+  }
+ ],
+ "fragments": {
+  "944872096": {
+   "fragment_id": "944759244",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 6/93\n\nde 16 de Março\n\nAtendendo a que o queijo de Nisa, pela sua qualidade e características específicas, assume uma importância significativa no vasto e rico património gastronómico e cultural do Alentejo e face ao objectivo da política agrícola de valorização qualitativa dos produtos alimentares tradicionais, impõe-se que se adoptem medidas tendentes à protecção deste tipo de queijo, fixando-se parâmetros que garantam a sua genuinidade e tipicidade, delimitando-se a respectiva região demarcada e definindo-se as orientações que permitam estabelecer o processo de constituição da entidade certificadora.\n\nAssim:\n\nAo abrigo do disposto no artigo 1.º do Decreto-Lei n.º 146/84, de 9 de Maio, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "944872097": {
+   "fragment_id": "944759245",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É criada a Região Demarcada do Queijo de Nisa, que abrange os municípios de Nisa, Crato, Castelo de Vide, Marvão, Portalegre, Monforte, Arronches e Alter do Chão.\n\n2 - O queijo de Nisa só pode ser fabricado com leite de ovelha produzido na Região Demarcada referida no número anterior."
+  },
+  "944872098": {
+   "fragment_id": "944759246",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA denominação de origem ou a marca Queijo de Nisa são exclusivamente aplicáveis ao queijo fabricado na Região Demarcada que satisfaça as condições constantes do anexo do presente diploma e seja devidamente certificado."
+  },
+  "944872099": {
+   "fragment_id": "944759247",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As entidades que considerem reunir condições para obter o estatuto de entidade certificadora devem apresentar a respectiva candidatura no Instituto de Protecção de Produção Agro-Alimentar (IPPA), no prazo de 180 dias a contar da data da publicação do presente diploma, fazendo-a acompanhar dos seguintes documentos:\n\na) Regulamento técnico elaborado segundo um plano tipo estabelecido oficialmente, do qual conste a indicação das modalidades de controlo a praticar e o modelo de etiqueta da marca de origem, bem como as sanções previstas para o não cumprimento das regras estabelecidas;\n\nb) Estatutos, lista dos membros dos corpos administrativos e fotocópia do cartão de identificação de pessoa colectiva.\n\n2 - O Ministro da Agricultura, sob proposta do IPPA, aprovará, por despacho, as entidades que poderão beneficiar do referido no número anterior."
+  },
+  "944872100": {
+   "fragment_id": "944759248",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs produtos de queijo de Nisa, para usarem a marca ou denominação de origem, carecem de autorização da entidade certificadora referida no artigo anterior, ficando sujeitos às respectivas acções de controlo e ao disposto no seu regulamento técnico."
+  },
+  "944872101": {
+   "fragment_id": "944759249",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O Ministério da Agricultura, através da Direcção Regional de Agricultura do Alentejo (DRAA), promoverá acções que visem o melhoramento das raças ovinas vocacionadas para a produção de leite utilizado no fabrico de queijo de Nisa.\n\n2 - As acções referidas no número anterior devem integrar-se num programa de desenvolvimento da ovinicultura da Região Demarcada que contemple, designadamente, os seguintes aspectos:\n\na) Controlo sanitário;\n\nb) Registo genealógico;\n\nc) Sistema de alimentação, nomeadamente no que se refere à instalação de pastagens, parqueamento e melhoramento de infra-estruturas dos estabelecimentos agrícolas vocacionados para este tipo de produção."
+  },
+  "944872102": {
+   "fragment_id": "944759250",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA DRAA promoverá acções que visem a melhoria quantitativa e qualitativa dos produtos certificáveis."
+  },
+  "944872103": {
+   "fragment_id": "944759251",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs acções de controlo e disciplina da actividade da entidade certificadora do queijo de Nisa são da competência do IPPA, que as poderá delegar na DRAA."
+  },
+  "944872108": {
+   "fragment_id": "944759247",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1993-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 126/93 - Diário da República n.º 151/1993, 5º Suplemento, Série I-B de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/126-1993-225409), em vigor a partir de 1993-06-30"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As entidades que considerem reunir condições para obter o estatuto de entidade certificadora devem apresentar a respectiva candidatura no Instituto de Qualidade Alimentar (IQA), no prazo de 180 dias a contar da data da publicação do presente diploma, fazendo-a acompanhar dos seguintes documentos:\n\na) Regulamento técnico elaborado segundo um plano tipo estabelecido oficialmente, do qual conste a indicação das modalidades de controlo a praticar e o modelo de etiqueta da marca de origem, bem como as sanções previstas para o não cumprimento das regras estabelecidas;\n\nb) Estatutos, lista dos membros dos corpos administrativos e fotocópia do cartão de identificação de pessoa colectiva.\n\n2 - O Ministro da Agricultura, sob proposta do IQA, aprovará, por despacho, as entidades que poderão beneficiar do referido no número anterior.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 126/93 - Diário da República n.º 151/1993, 5º Suplemento, Série I-B de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/126-1993-225409), em vigor a partir de 1993-06-30"
+  },
+  "944872109": {
+   "fragment_id": "944759251",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1993-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 126/93 - Diário da República n.º 151/1993, 5º Suplemento, Série I-B de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/126-1993-225409), em vigor a partir de 1993-06-30"
+   ],
+   "markdown": "###### Artigo 7.º\n\nAs acções de controlo e disciplina da actividade da entidade certificadora do queijo de Nisa são da competência do IQA, que as poderá delegar na DRAA.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 126/93 - Diário da República n.º 151/1993, 5º Suplemento, Série I-B de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/126-1993-225409), em vigor a partir de 1993-06-30"
+  },
+  "944872104": {
+   "fragment_id": "944759252",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 11 de Janeiro de 1993.\n\nAníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 22 de Fevereiro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 24 de Fevereiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "944872105": {
+   "fragment_id": "944759253",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\nCondições a que terá de satisfazer o queijo de Nisa\n\n1 - Queijo de Nisa - queijo curado, de pasta semidura, de tonalidade branco-amarela, fechada, com alguns olhos pequenos, obtido por esgotamento lento da coalhada, após coagulação do leite cru de ovelha, estreme, por acção de uma infusão de cardo (Cynara cardunculus, L.) e proveniente da Região Demarcada.\n\n2 - Características - queijo curado, de pasta semidura, com um teor de humidade de 54% a 65%, referido ao queijo isento de matéria gorda e com um teor de gordura de 45% a menos de 60% referido ao resíduo seco (NP-2105).\n\n2.1 - Forma - cilindro baixo (prato), regular, com ligeiro abaulamento lateral e bordos definidos.\n\n2.2 - Dimensões e pesos:\n\n2.2.1 - Merendeiras:\n\nDiâmetro - 10 cm a 12 cm;\n\nAltura - 3 cm a 5 cm;\n\nPeso - compreendido entre 200 g a 400 g.\n\n2.2.2 - Normais:\n\nDiâmetro - 13 cm a 16 cm;\n\nAltura - 5 cm a 8 cm;\n\nPeso - compreendido entre 800 g a 1300 g.\n\n2.3 - Crosta:\n\n2.3.1 - Consistência - maleável de início, passando a dura.\n\n2.3.2 - Aspecto - inteira, bem formada, lisa ou ligeiramente rugosa e fina.\n\n2.3.3 - Cor - amarelo-palha e amarelo-torrado, uniforme.\n\n2.4 - Pasta:\n\n2.4.1 - Textura - fechada, provocando à percussão um som maciço ou ligeiramente timpânico.\n\n2.4.2 - Aspecto - untuoso, com alguns olhos pequenos.\n\n2.4.3 - Cor - branco-amarelada, uniforme.\n\n2.4 - Aroma e sabor - sui generis de cheiro pronunciado e de sabor ligeiramente acidulado.\n\n3 - Maturação:\n\n3.1 - Condições ambientais:\n\nTemperatura - entre 8ºC a 14ºC;\n\nHumidade relativa - entre 80% e 90%.\n\n3.2 - Tempo mínimo - 45 dias."
+  }
+ }
+}

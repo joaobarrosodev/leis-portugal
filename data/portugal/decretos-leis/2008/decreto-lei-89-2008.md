@@ -1,0 +1,1113 @@
+---
+schema_version: '1.0'
+id: pt:dre:448966:por
+title: Decreto-Lei n.º 89/2008
+short_title: null
+summary: Estabelece as normas referentes às especificações técnicas aplicáveis ao propano, butano, GPL auto, gasolinas, petróleos,
+  gasóleos rodoviários, gasóleo colorido e marcado, gasóleo de aquecimento e fuelóleos, definindo as regras para o controlo
+  de qualidade dos carburantes rodoviários e as condições para a comercialização de misturas de biocombustíveis com gasolina
+  e gasóleo em percentagens superiores a 5 %. Procede à primeira alteração ao Decreto-Lei n.º 62/2006, de 21 de Março, e revoga
+  os Decretos-Leis n.os 235/2004, de 16 de Dezembro, e 186/99, de 31 de Maio
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 89/2008
+official_date: null
+publication_date: '2008-05-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2008, Série I de 2008-05-30
+  number: '104'
+  series: I
+  supplement: null
+  pages: 3072 - 3080
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/05/10400/0307203080.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-10-01'
+version_history:
+  file: decreto-lei-89-2008.versoes.json
+  count: 5
+  source_lastmod: '2026-09-22'
+  versions:
+  - date: '2008-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: pt:dre:306625:por
+    amending_title: Decreto-Lei n.º 142/2010
+    changes:
+    - Adita Artigo 10.º-A
+    - Adita Artigo 14.º-A
+    - Adita Anexo VIII
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+    - Altera Anexo VI
+    - Altera Anexo VII
+    - Revoga Artigo 17.º
+  - date: '2015-10-01'
+    amending: pt:dre:70409927:por
+    amending_title: Decreto-Lei n.º 214-E/2015
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Anexo I
+    - Altera Anexo III
+    - Altera Anexo V
+  - date: '2018-01-01'
+    amending: pt:dre:114337041:por
+    amending_title: Decreto-Lei n.º 152-C/2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º-A
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Anexo I
+    - Altera Anexo III
+    - Altera Anexo V
+    - Altera Anexo VIII
+  - date: '2026-10-01'
+    amending: pt:dre:1172217155:por
+    amending_title: Decreto-Lei n.º 188/2026
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+    - Altera Anexo VI
+    - Altera Anexo VIII
+    - Revoga Artigo 10.º
+    - Revoga Artigo 14.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/89/2008/p/cons/20171211/pt/html
+  oj: null
+  dre: '448966'
+  dre_path: /dr/detalhe/decreto-lei/89-2008-448966
+  internal: pt:dre:448966:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2008-448966
+  metadata_url: https://data.dre.pt/eli/dec-lei/89/2008/p/cons/20171211/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-114340417
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-114340417
+  retrieved_at: '2026-10-22T13:56:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-22T00:00:00Z'
+integrity:
+  source_sha256: d460791230c9aa23b75e1a1d4b7138784b2b5edffa0cbcd035e2005595c518b8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:56:46Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-89-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Aplicação de Coimas em Matéria Económica
+- Contra-ordenação
+- Definição de Competências
+- Direcção Regional de Economia
+- Poluição Atmosférica
+- Petróleo
+- Especificação Técnica
+- Combustível
+- Fiscalização
+- Direção Geral de Energia e Geologia
+- Comissão CE
+- Gás Propano
+- Gasóleo
+- Gasolina
+- ASAE
+- Veículo
+- Proteção do Ambiente
+- Madeira.região Autónoma
+- Açores
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:456869:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-a-2008-456869
+  date: '2008-06-27'
+- type: amended_by
+  target: pt:dre:306625:por
+  label: Adita Artigo 10.º-A; Adita Artigo 14.º-A; Adita Anexo VIII; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º;
+    Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Artigo 18.º; Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo
+    V; Altera Anexo VI
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:70409927:por
+  label: Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Anexo I; Altera Anexo III; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927
+  date: '2015-09-30'
+- type: amended_by
+  target: pt:dre:114337041:por
+  label: Altera Artigo 2.º; Altera Artigo 10.º-A; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 14.º-A; Altera Artigo
+    15.º; Altera Artigo 16.º; Altera Anexo I; Altera Anexo III; Altera Anexo V; Altera Anexo VIII
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041
+  date: '2017-12-11'
+- type: amended_by
+  target: pt:dre:1172217155:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Anexo I; Altera Anexo II; Altera
+    Anexo III; Altera Anexo IV; Altera Anexo V; Altera Anexo VI; Altera Anexo VIII; Revoga Artigo 10.º; Revoga Artigo 14.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155
+  date: '2026-09-21'
+- type: cites
+  target: celex:31970L0220
+  label: null
+  source: http://data.europa.eu/eli/dir/1970/220/oj
+- type: cites
+  target: celex:31987R2687
+  label: null
+  source: http://data.europa.eu/eli/reg/1987/2687/oj
+- type: cites
+  target: celex:31997L0068
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/68/oj
+- type: cites
+  target: celex:31998L0070
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/70/oj
+- type: cites
+  target: celex:32000L0025
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/25/oj
+- type: cites
+  target: celex:32003L0017
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/17/oj
+- type: cites
+  target: celex:32005L0033
+  label: null
+  source: http://data.europa.eu/eli/dir/2005/33/oj
+- type: cites
+  target: celex:32006R1549
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1549/oj
+- type: cites
+  target: celex:32007R0715
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R0595
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R0948
+  label: null
+  source: null
+- type: cites
+  target: celex:32013L0053
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R0167
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R0952
+  label: null
+  source: null
+- type: cites
+  target: celex:32016R1628
+  label: null
+  source: null
+- type: cites
+  target: celex:32024R2522
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2005/27/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2005/27/oj
+- type: cites
+  target: pt:dre:218332:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/235/2004/12/16/p/dre
+- type: cites
+  target: pt:dre:316563:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/186/1999/05/31/p/dre
+- type: cites
+  target: pt:dre:667875:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/62/2006/03/21/p/dre
+- type: transposes
+  target: celex:32009L0030
+  label: null
+  source: null
+article_structure:
+  article_count: 22
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:56:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 89/2008
+
+Decreto-Lei n.º 89/2008
+
+de 30 de Maio
+
+As especificações técnicas dos combustíveis encontram-se dispersas por diversos diplomas, o que dificulta e torna morosa a sua pesquisa, além de gerar incertezas quanto às alterações a que, com alguma frequência, são sujeitas, designadamente para cumprimento de objectivos ambientais.
+
+A reunião dessas especificações num único diploma legal foi, por essa razão, proposta como uma das medidas do Simplex 2007, visando facilitar a consulta pelos agentes económicos.
+
+Para além deste objectivo importava, igualmente, proceder à actualização de alguns métodos analíticos das especificações das gasolinas e gasóleos, adequando-os à última publicação das normas EN 590 e EN 228, importando contudo referir que, à excepção do gasóleo de aquecimento, as especificações dos combustíveis objecto do Decreto-Lei n.º 281/2000, de 10 de Novembro, não são incluídas no presente decreto-lei, dado que as mesmas devem ser alteradas, em breve, para transposição da Directiva n.º <a href="eurlex.asp?ano=2005&id=305L0033" title="Link para Directiva da Comunidade Europeia">2005/33/CE</a> , de 6 de Julho.
+
+Passa agora a contemplar-se, neste âmbito de especificações, a nova realidade dos biocombustíveis e suas misturas com a gasolina e gasóleo, visando a sua promoção no mercado interno, clarificando-se também os termos para o seguimento da sua utilização, matéria tratada no Decreto-Lei n.º 62/2006, de 21 de Março, relativo à promoção dos biocombustíveis. Nesta perspectiva, é também prevista a obrigatoriedade da sua incorporação em determinados produtos, estabelecendo-se contudo limites máximos.
+
+Foi promovida audição do Conselho Nacional do Consumo
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei transpõe a Diretiva 2009/30/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, no que se refere às especificações da gasolina e do gasóleo rodoviário e não rodoviário.
+
+2 - O presente decreto-lei tem ainda como objecto:
+
+a) Estabelecer as normas referentes às especificações técnicas aplicáveis ao propano, butano, GPL auto, gasolinas, petróleos, gasóleos rodoviários, gasóleo colorido e marcado, gasóleo de aquecimento e fuelóleos;
+
+b) Definir as regras para o controlo de qualidade dos carburantes rodoviários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) (Revogada.)
+
+b) ‘Biocombustíveis’, combustíveis líquidos para transportes, produzidos a partir de biomassa;
+
+c) «Biodiesel (FAME)» o éster metílico de ácidos gordos produzido a partir de óleos vegetais ou animais, com qualidade de combustível para motores diesel, para utilização como biocombustível, cuja composição e propriedades obedecem à EN 14214;
+
+d) [Revogada]
+
+e) [Revogada]
+
+f) 'Bioetanol' o etanol produzido a partir da biomassa e ou da fracção biodegradável de resíduos para utilização como biocombustível;
+
+g) ‘Combustível para motores de ignição por compressão’, os gasóleos abrangidos pelos códigos NC 2710 19 44 e NC 2710 20 11 da Nomenclatura Combinada, tal como figuram no anexo i do Regulamento (CEE) n.º 2687/87, do Conselho, de 23 de julho, relativo à nomenclatura pautal e estatística e à pauta aduaneira comum, na redação que lhe foi dada pelo Regulamento de Execução (UE) 2024/2522, da Comissão, de 23 de setembro de 2024, utilizados para a propulsão dos veículos a que se referem o Regulamento (CE) n.º 715/2007, do Parlamento Europeu e do Conselho, de 20 de junho, e o Regulamento (CE) n.º 595/2009, do Parlamento Europeu e do Conselho, de 18 de junho;
+
+h) ‘Gasóleos para máquinas móveis não rodoviárias, incluindo as embarcações de navegação interior, tratores agrícolas e florestais e embarcações de recreio’, os combustíveis líquidos derivados do petróleo, destinados aos motores de ignição por compressão referidos na Diretiva 2013/53/UE, do Parlamento Europeu e do Conselho, de 20 de novembro de 2013, no Regulamento (UE) 2016/1628, do Parlamento Europeu e do Conselho, de 14 de setembro de 2016, e no Regulamento (UE) n.º 167/2013, do Parlamento Europeu e do Conselho, de 5 de fevereiro, abrangidos pelos códigos NC 2710 19 44 e NC 2710 20 11 da Nomenclatura Combinada, tal como figuram no anexo i do Regulamento (CEE) n.º 2687/87, do Conselho, de 23 de julho, na redação que lhe foi dada pelo Regulamento de Execução (UE) 2024/2522, da Comissão, de 23 de setembro de 2024;
+
+i) ‘Gasolina’, qualquer óleo mineral volátil destinado ao funcionamento de motores de combustão interna de ignição comandada, para propulsão de veículos, e abrangidos pelos códigos NC 2710 12 45 e 2710 12 49 da Nomenclatura Combinada, tal como figuram no anexo i do Regulamento (CEE) n.º 2687/87, do Conselho, de 23 de julho, relativo à nomenclatura pautal e estatística e à pauta aduaneira comum, na redação que lhe foi dada pelo Regulamento de Execução (UE) 2024/2522, da Comissão, de 23 de setembro de 2024;
+
+j) «Regiões ultraperiféricas» as Regiões Autónomas dos Açores e da Madeira.
+
+l) ‘Fornecedor de combustíveis’ ou ‘fornecedor’, a entidade responsável pela introdução no consumo de combustíveis líquidos ou gasosos para utilização no setor dos transportes e pela declaração de introdução no consumo (e-DIC), nos termos do Código dos Impostos Especiais de Consumo (CIEC), ou, no ato de importação, pela respetiva declaração aduaneira, nos termos do Regulamento (UE) n.º 952/2013, do Parlamento Europeu e do Conselho, de 9 de outubro, que estabelece o Código Aduaneiro da União;
+
+m) 'Emissões de gases com efeito de estufa ao longo do ciclo de vida' todas as emissões líquidas de CO(índice 2), CH(índice 4) e N(índice 2)O atribuíveis ao combustível, incluindo qualquer componente da mistura, ou à energia por ele fornecida, estando abrangidas todas as fases relevantes, desde a extracção ou cultivo, incluindo a reafectação do solo, o transporte e a distribuição, o processamento e a combustão, independentemente do local onde ocorram as emissões;
+
+n) 'Emissões de gases com efeito de estufa por unidade de energia' a massa total em equivalente de CO(índice 2) das emissões de gases com efeito de estufa associadas ao combustível ou à energia fornecida, dividida pelo conteúdo energético total do combustível ou da energia fornecida, para o combustível, expressa sob a forma do seu poder calorífico inferior.
+
+o) «Combustíveis líquidos e gasosos renováveis de origem não biológica para os transportes», combustíveis líquidos ou gasosos, com exceção dos biocombustíveis, cujo teor energético provém de fontes de energia renováveis distintas da biomassa e que são usados nos transportes;
+
+p) «Culturas ricas em amido», culturas constituídas principalmente por cereais (independentemente de se utilizarem apenas os grãos ou, como no caso do milho verde, toda a planta), tubérculos e raízes (como as batatas, tupinambos, batatas doces, mandiocas e inhames) e cormos (como o taro e colocásia-comestível);
+
+q) «Biocombustíveis com baixo risco de alteração indireta do uso do solo», biocombustíveis cujas matérias-primas foram produzidas no âmbito de regimes que reduzem a deslocação da produção para outros fins distintos da produção de biocombustíveis e que foram produzidos respeitando os critérios de sustentabilidade para biocombustíveis previstos no artigo 7.º-B da Diretiva 98/70/CE, transposto para a ordem jurídica interna pelo Decreto-Lei n.º 117/2010, de 25 de outubro, na sua redação atual;
+
+r) «Resíduo da transformação», uma substância que não é o produto ou produtos finais que se procura obter diretamente com um processo de produção; não é o objetivo primário do processo de produção e este não foi deliberadamente modificado para o produzir;
+
+s) «Resíduos da agricultura, aquicultura, pescas e silvicultura», resíduos diretamente gerados pela atividade agrícola, aquícola, piscícola e silvícola; não incluem os resíduos provenientes das indústrias conexas e da transformação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 3.º — Livre circulação de combustíveis
+
+É livre a circulação de combustíveis que preencham os requisitos estabelecidos pelo presente decreto-lei, não podendo ser proibida, restringida ou impedida a sua colocação no mercado, assim como a sua utilização.
+
+### Capítulo II — Especificações
+
+###### Artigo 4.º — Especificações do propano, butano e GPL carburante
+
+1 - As especificações do propano e butano, designados como gases de petróleo liquefeitos, ou GPL, destinados ao mercado interno nacional para uso como combustível, são as constantes do anexo i do presente decreto-lei, que dele faz parte integrante.
+
+2 - As especificações do GPL carburante, destinado ao mercado interno nacional, são as constantes do anexo ii ao presente decreto-lei, que dele faz parte integrante.
+
+3 - A rotulagem do GPL carburante deve cumprir o estabelecido na norma NP EN 16942 e no seu Anexo Nacional, devendo os fornecedores conformar a rotulagem com as alterações que venham a ser introduzidas à referida norma, ou ao seu Anexo Nacional, no prazo de 30 dias a contar da publicação dessas alterações.
+
+4 - O controlo analítico dos combustíveis mencionados nos números anteriores é feito com base nos métodos referidos nos anexos i e ii ao presente decreto-lei, que dele fazem parte integrante, respetivamente, podendo a Direção-Geral de Energia e Geologia (DGEG) autorizar a utilização de outros métodos analíticos adequados, desde que estes comprovadamente ofereçam, no mínimo, a mesma exatidão e o mesmo nível de precisão que os métodos analíticos substituídos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 5.º — Especificações das gasolinas
+
+1 - As especificações das gasolinas destinadas ao mercado interno nacional são as constantes no anexo iii do presente decreto-lei, que dele faz parte integrante.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - A rotulagem da gasolina deve cumprir o estabelecido na norma NP EN 16942 e no seu Anexo Nacional, devendo os fornecedores conformar a rotulagem com as alterações que venham a ser introduzidas à referida norma, ou ao seu Anexo Nacional, no prazo de 30 dias a contar da publicação dessas alterações.
+
+6 - Para a gasolina que contenha etanol, pode ser autorizada, por despacho do diretor-geral da DGEG, uma derrogação à tensão de vapor máxima de 60 kPa, para o período de 1 de maio a 30 de setembro, de acordo com o anexo viii ao presente decreto-lei, que dele faz parte integrante, caso o etanol utilizado seja um biocombustível.
+
+7 - A derrogação prevista no número anterior é precedida de autorização da Comissão Europeia, à qual é fornecida, pela DGEG, toda a informação relevante para a avaliação da pertinência e duração da derrogação, nos termos da Diretiva 98/70/CE, do Parlamento Europeu e do Conselho, de 13 de outubro de 1998.
+
+8 - Os fornecedores devem garantir a disponibilização de informação sobre o teor de biocombustíveis da gasolina e, em particular, sobre a sua adequada utilização nos veículos, sendo afixado nos postos de abastecimento um aviso da disponibilidade dessa informação para consulta do cliente.
+
+9 - A informação prevista no número anterior deve constar do sítio da Internet das entidades que introduzem o combustível no consumo.
+
+10 - Nos postos de abastecimento de combustíveis pode ser disponibilizado aditivo substituto do chumbo em embalagem, uma vez que a comercialização de gasolina com chumbo é proibida desde 1 de Julho de 1999, sendo a sua adição à gasolina sem chumbo no depósito das viaturas da responsabilidade do utente.
+
+11 - O aditivo mencionado no número anterior tem como base o potássio, devendo as embalagens especificar a quantidade de produto a adicionar à gasolina sem chumbo, de modo a garantir que nela exista uma concentração de aditivo que possa variar entre 8 mg/kg e 20 mg/kg, segundo o método de ensaio ASTM D 3605.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 6.º — Especificações dos petróleos
+
+As especificações dos petróleos destinados ao mercado interno nacional são as constantes do anexo iv ao presente decreto-lei, que dele faz parte integrante.
+
+###### Artigo 7.º — Especificações do combustível para motores de ignição por compressão
+
+1 - As especificações do combustível para motores de ignição por compressão destinados ao mercado interno nacional, com a designação comum de gasóleo rodoviário, são as constantes do anexo v do presente decreto-lei, que dele faz parte integrante.
+
+2 - (Revogado.)
+
+3 - As especificações do gasóleo para máquinas móveis não rodoviárias, incluindo as embarcações de navegação interior, tratores agrícolas e florestais e embarcações de recreio, destinado ao mercado interno nacional e do gasóleo colorido e marcado em conformidade com disposto na Portaria n.º 293/2023, de 2 de outubro, para as utilizações previstas no n.º 3 do artigo 93.º do Código dos Impostos Especiais de Consumo, aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, são as referidas no n.º 1.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - Os fornecedores devem garantir:
+
+a) A disponibilização de informação sobre o teor de biocombustíveis do gasóleo, em particular o teor de FAME do gasóleo rodoviário, sendo afixado nos postos de abastecimento um aviso da disponibilidade dessa informação para consulta do cliente;
+
+b) O cumprimento da rotulagem prevista na norma NP EN 16942 e no seu Anexo Nacional, devendo conformar a rotulagem com as alterações que venham a ser introduzidas à referida norma, ou ao seu Anexo Nacional, no prazo de 30 dias a contar da publicação dessas alterações.
+
+7 - A informação prevista na alínea a) do número anterior deve constar do sítio da Internet das entidades que introduzem o combustível no consumo.
+
+8 - Sem prejuízo do disposto no n.º 1, os fornecedores devem garantir a colocação no mercado de gasóleo rodoviário com um teor máximo de 7 % de FAME.
+
+9 - Os combustíveis líquidos que não sejam gasóleo só podem ser utilizados em embarcações de navegação interior ou em embarcações de recreio se o seu teor de enxofre não exceder o limite definido no anexo v do presente decreto-lei, que dele faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 35-A/2008 - Diário da República n.º 123/2008, 3º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-a-2008-456869), em vigor a partir de 2008-05-31
+
+###### Artigo 8.º — Especificações do gasóleo de aquecimento
+
+1 - As especificações do gasóleo de aquecimento, destinado ao mercado interno nacional, são as constantes do anexo vi do presente decreto-lei, que dele faz parte integrante.
+
+2 - O gasóleo de aquecimento só pode ser utilizado como combustível de aquecimento industrial, comercial ou doméstico, não podendo ser utilizado como carburante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+###### Artigo 9.º — Especificações dos fuelóleos
+
+As especificações dos fuelóleos destinados ao mercado interno nacional são as constantes do anexo vii ao presente decreto-lei, que dele faz parte integrante.
+
+###### Artigo 10.º — Especificações das misturas de biocombustíveis com gasolina e gasóleo rodoviário
+
+1 - As especificações das misturas de biocombustíveis com gasolina e gasóleo para veículos, destinadas ao mercado interno nacional, com concentrações de biocombustíveis superiores a 10 % em volume de bioetanol e superiores a 7 % em volume de FAME são as constantes dos anexos iii e v do presente decreto-lei, que dele fazem parte integrante, à excepção dos valores fixados para os teores máximos desses biocombustíveis.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Para as misturas referidas no n.º 1 é obrigatória uma inscrição relativa ao teor de bioetanol ou biodiesel (FAME) no respectivo equipamento de abastecimento, de acordo com o disposto no despacho n.º 22 061/2008, de 26 de Agosto.
+
+5 - Incumbe ao comercializador de combustíveis previstos no n.º 1 assegurar que:
+
+a) O produto é formulado e mantido em condições e por prazo que garantam, nomeadamente, a estabilidade físico-química e um teor de água admissível;
+
+b) Os materiais e equipamentos de manipulação, armazenagem e fornecimento sejam compatíveis com os biocombustíveis com que contactam.
+
+c) A informação adequada sobre a utilização apropriada das diferentes misturas de combustíveis rodoviários que comercializa é disponibilizada ao consumidor.
+
+6 - Incumbe ao consumidor assegurar-se da compatibilidade da sua viatura com o combustível, para o que deve informar-se junto do fabricante ou do seu representante, o qual deve prestar esta informação sempre que disponível, em língua portuguesa e, preferencialmente, em sítio da Internet.
+
+7 - (Revogado.)
+
+8 - A referência, em legislação anterior a este decreto-lei, a misturas de biocombustíveis com derivados de petróleo com concentrações de biocombustíveis superiores a 5 % em volume deve entender-se como dizendo respeito a concentrações de biocombustíveis superiores a 10 % em volume de bioetanol ou superiores a 7 % em volume de FAME.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 10.º-A — Aditivos metálicos
+
+1 - A utilização do aditivo metálico tricarbonilo metilciclopentadienilo de manganês (MMT) nos combustíveis está limitada a 2 mg de manganês por litro desde 1 de janeiro de 2014.
+
+2 - [Revogado].
+
+3 - Nos locais em que sejam colocados à disposição dos consumidores combustíveis com aditivos metálicos, é obrigatória uma inscrição que indique o teor dos aditivos metálicos presentes nos combustíveis.
+
+4 - A inscrição referida no número anterior deve integrar a indicação 'Contém aditivos metálicos'.
+
+5 - A inscrição deve ser colocada de forma visível no local em que se encontrem afixadas as informações relativas ao tipo de combustível.
+
+6 - A dimensão da inscrição e o formato dos caracteres devem ser de molde a tornar a informação bem visível e de fácil leitura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+### Capítulo III — Disposições especiais
+
+###### Artigo 11.º — Situações de crise de abastecimento
+
+1 - Em situações de crise de abastecimento de combustíveis decorrentes da ocorrência de facto excepcional que provoque uma alteração súbita do mercado que dificulte o abastecimento de petróleo bruto ou de produtos petrolíferos, as especificações estabelecidas neste decreto-lei não têm aplicação, aplicando-se o disposto no número seguinte, desde que se verifiquem as seguintes circunstâncias:
+
+a) A alteração súbita do mercado seja de molde a dificultar seriamente o respeito das especificações aplicáveis pelas refinarias;
+
+b) A impossibilidade do cumprimento das especificações seja devidamente demonstrada pelos interessados junto do membro do Governo responsável pela área da energia.
+
+2 - Nas situações de crise de abastecimento, os membros do Governo responsáveis pelas áreas do ambiente e da energia podem, na sequência de decisão favorável da Comissão Europeia, estabelecer por portaria conjunta, por um período que não pode exceder seis meses, especificações para as gasolinas ou gasóleos menos rigorosas que as fixadas neste decreto-lei.
+
+###### Artigo 12.º — Adopção excepcional de especificações mais rigorosas
+
+1 - Quando se verifique que a poluição atmosférica ou das águas subterrâneas constitui ou é susceptível de constituir um problema sério e recorrente para a saúde da população residente numa determinada aglomeração ou para o ambiente de uma zona ecológica ou ambientalmente sensível, pode ser determinada, a título excepcional e em zonas específicas do território nacional, a obrigação de apenas comercializar combustíveis que satisfaçam características ambientais mais rigorosas que as previstas nos anexos iii e v para a totalidade ou parte do parque automóvel.
+
+2 - O previsto no número anterior é precedido de autorização da Comissão Europeia, à qual são fornecidos os dados ambientais relevantes relativos à aglomeração ou zona em causa, bem como a previsão dos efeitos das medidas propostas no ambiente.
+
+3 - As características mais rigorosas a que devem obedecer a gasolina ou o combustível para motores de ignição por compressão, bem como a definição das zonas específicas a que se refere o n.º 1, são estabelecidas, com respeito pelo n.º 2, por portaria dos membros do Governo responsáveis pelas áreas da saúde, do ambiente e da energia, tendo em conta a legislação aplicável, designadamente o Decreto-Lei n.º 102/2010, de 23 de setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+### Capítulo IV — Sistema de controlo da qualidade relativo às especificações dos anexos iii e v
+
+###### Artigo 13.º — Sistema de controlo da qualidade
+
+1 - As regras do sistema de controlo da qualidade dos combustíveis definidos nas alíneas g) e i) do artigo 2.º são estabelecidas em conformidade com a norma europeia EN 14 274.
+
+2 - O controlo analítico dos combustíveis mencionados no número anterior é feito com base nos métodos referidos nos anexos III e V ao presente decreto-lei, respetivamente, podendo a DGEG autorizar a utilização de outros métodos analíticos adequados, desde que estes possam comprovadamente conferir, pelo menos, a mesma exatidão e o mesmo nível de precisão que os métodos analíticos substituídos.
+
+3 - Compete à entidade fiscalizadora especializada para o setor energético, a execução do programa de controlo da qualidade de combustíveis, definido nos termos do número anterior, bem como a divulgação dos resultados dos controlos efetuados sobre a qualidade dos combustíveis.
+
+4 - A entidade fiscalizadora especializada para o setor energético, envia à DGEG as informações resultantes dos controlos efetuados durante cada trimestre, até ao final do trimestre seguinte.
+
+5 - (Revogado.)
+
+6 - A entidade fiscalizadora especializada para o setor energético informa a DGEG da conclusão dos processos de contraordenação abertos na sequência de infrações detetadas relativas às especificações constantes do presente decreto-lei, bem como das sanções e coimas aplicadas.
+
+7 - Os agentes económicos que introduzam no mercado, ou comercializem, gasolina ou combustível para motores de ignição por compressão informam a DGEG, sempre que solicitados, sobre os programas e métodos de controlo utilizados para cumprimento das especificações aplicáveis.
+
+8 - As entidades exploradoras das instalações sujeitas a controlo de qualidade nos termos do presente decreto-lei ficam obrigadas a autorizar o acesso às suas instalações dos trabalhadores da entidade fiscalizadora especializada para o setor energético, devidamente identificados, bem como a apoiar e permitir a recolha de amostras dos combustíveis nas quantidades tecnicamente exigidas, sem prejuízo das competências próprias de outras entidades com competências de fiscalização.
+
+9 - O disposto no número anterior aplica-se igualmente aos trabalhadores, devidamente identificados, das entidades que tenham sido contratadas pela entidade fiscalizadora especializada para o setor energético, para efetuar as recolhas de amostras mencionadas no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214-E/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927), em vigor a partir de 2015-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 14.º — Coordenação do sistema de controlo da qualidade
+
+Cabe à DGEG coordenar a aplicação do sistema de controlo da qualidade dos produtos mencionados no artigo anterior, competindo-lhe, nomeadamente:
+
+a) Recolher e tratar a informação sobre o controlo do cumprimento das especificações de combustíveis e disposições relativas à sua comercialização;
+
+b) Preparar os relatórios sobre os dados nacionais relativos à qualidade dos combustíveis em cada ano civil, de forma a permitir o seu envio à Comissão Europeia, até 31 de agosto do ano seguinte, de acordo com norma europeia aplicável, a que se refere o n.º 1 do artigo 13.º;
+
+c) Preparar anualmente, para envio à Comissão Europeia, um relatório dos volumes totais de gasolina e de combustível para motores de ignição por compressão comercializados no território no ano civil anterior;
+
+d) Coordenar o sistema de controlo da qualidade dos combustíveis líquidos, executado pela entidade fiscalizadora especializada para o setor energético;
+
+e) Dar conhecimento à Agência Portuguesa do Ambiente (APA) dos relatórios mencionados na alínea b).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214-E/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927), em vigor a partir de 2015-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 14.º-A — Redução das emissões de gases com efeito de estufa
+
+1 - O disposto no presente artigo aplica-se:
+
+a) Aos combustíveis referidos nos artigos 5.º e 7.º;
+
+b) Aos biocombustíveis que cumpram os critérios de sustentabilidade estabelecidos no Decreto-Lei n.º 117/2010, de 25 de Outubro;
+
+c) A outros combustíveis rodoviários; e
+
+d) À energia elétrica fornecida para utilização em veículos rodoviários, se os respetivos fornecedores optarem por contribuir para a obrigação de redução estabelecida no n.º 3, e desde que demonstrem que estão habilitados a medir e a monitorizar adequadamente a eletricidade fornecida para utilização naqueles veículos;
+
+e) Aos biocombustíveis destinados a ser utilizados na aviação, se os respetivos fornecedores optarem por se tornar contribuintes para a obrigação de redução prevista no n.º 3 do presente artigo, desde que esses biocombustíveis cumpram os critérios de sustentabilidade definidos no artigo 7.º-B da Diretiva 98/70/CE, transposto para a ordem jurídica interna pelo Decreto-Lei n.º 117/2010, de 25 de outubro, na sua redação atual;
+
+2 - Os fornecedores devem apresentar anualmente à aprovação da DGEG um relatório nos termos do artigo 4.º do Decreto-Lei n.º 91/2017, de 28 de julho, relativo ao ano anterior, previamente verificado por verificadores independentes qualificados para o efeito, sobre a intensidade dos gases com efeito de estufa dos combustíveis e da energia elétrica fornecidos em território nacional, ao longo do seu ciclo de vida, prestando, no mínimo, informação sobre os seguintes elementos:
+
+a) O volume total de cada tipo de combustível ou de energia fornecidos, com indicação do local de aquisição e da origem desses produtos; e
+
+b) As emissões de gases com efeito de estufa ao longo do ciclo de vida, por unidade de energia.
+
+3 - Até 31 de Dezembro de 2020, os fornecedores devem reduzir, de uma forma gradual, até 10 % as emissões de gases com efeito de estufa ao longo do ciclo de vida, por unidade de energia de combustível e de energia eléctrica fornecida, em comparação com as correspondentes emissões médias europeias, verificadas em 2010, provenientes dos combustíveis fósseis.
+
+4 - Para atingir a redução referida no número anterior, até 31 de Dezembro de 2020, a redução deve corresponder a 6 %, com as metas intermédias indicativas de redução de 2 % até 31 de Dezembro de 2014 e de 4 % até 31 de Dezembro de 2017.
+
+5 - Para além do referido no número anterior, poderá ser atingida até 31 de dezembro de 2020 uma redução adicional, com caráter indicativo, de 2 %, mediante recurso a um ou aos dois métodos seguintes:
+
+a) Fornecimento de energia eléctrica ao sector dos transportes, para utilização em qualquer tipo de veículo rodoviário, máquina móvel não rodoviária, incluindo embarcações de navegação interior, tractores agrícolas ou florestais ou embarcações de recreio;
+
+b) Utilização de qualquer tecnologia, incluindo a captura e o armazenamento de carbono, capaz de reduzir as emissões de gases de efeito de estufa ao longo do ciclo de vida, por unidade de energia do combustível ou da energia eléctrica fornecida.
+
+6 - Até 31 de dezembro de 2020, poderá ainda ser atingida uma redução adicional, também indicativa, de 2 %, nos termos da alínea i) do n.º 1 do artigo 9.º da Diretiva n.º 2009/30/CE, mediante a utilização de créditos adquiridos através do Mecanismo de Desenvolvimento Limpo do Protocolo de Quioto, nas condições definidas no Decreto-Lei n.º 38/2013, de 15 de março, na sua redação atual, relativo à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa, para redução das emissões no setor do abastecimento de combustíveis.
+
+7 - As emissões de gases com efeito de estufa ao longo do ciclo de vida dos biocombustíveis são calculadas de acordo com o disposto no Decreto-Lei n.º 117/2010, de 25 de Outubro.
+
+8 - Para efeitos do cumprimento do objetivo referido no n.º 3, a contribuição máxima dos biocombustíveis produzidos a partir de cereais e de outras culturas ricas em amido, de culturas açucareiras e oleaginosas e de culturas feitas como culturas principais essencialmente para fins energéticos em terrenos agrícolas, não pode ser superior a 7 % do consumo final de energia nos transportes em 2020.
+
+9 - Os termos a que deve obedecer um grupo de fornecedores para cumprimento conjunto da redução das emissões fixadas no n.º 3, os quais são considerados, para este efeito, como um único fornecedor, são estabelecidos pela Comissão Europeia através de atos delegados de execução.
+
+10 - A Comissão Europeia, através de atos delegados, pode estabelecer até 31 de dezembro de 2017, valores por defeito das emissões de gases com efeito de estufa, caso esses valores não tenham já sido estabelecidos antes de 5 de outubro de 2015, no que diz respeito:
+
+a) Aos combustíveis líquidos e gasosos renováveis de origem não biológica para os transportes;
+
+b) À captura e utilização de carbono para fins de transporte.
+
+11 - Para efeitos do relatório referido no n.º 2, os fornecedores de biocombustíveis comunicam anualmente à Entidade Coordenadora do Cumprimento dos Critérios de Sustentabilidade (ECS) os modos de produção de biocombustíveis, os volumes de biocombustíveis provenientes de matérias-primas de acordo com a classificação apresentada no Decreto-Lei n.º 117/2010, de 25 de outubro, na sua redação atual, e as emissões de gases com efeito de estufa ao longo do ciclo de vida, por unidade de energia, incluindo os valores médios provisórios das emissões estimadas decorrentes da alteração indireta do uso do solo imputáveis aos biocombustíveis.
+
+12 - A ECS envia posteriormente esta informação à DGEG que comunica esses dados à Comissão Europeia.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+### Capítulo V — Contra-ordenações
+
+###### Artigo 15.º — Contra-ordenações
+
+1 - Constitui contra-ordenação punível com coima de (euro) 1000 a (euro) 3700, no caso de pessoas singulares, e de (euro) 2000 a (euro) 44 500, no caso de pessoas colectivas:
+
+a) A introdução no consumo ou a comercialização de combustíveis que não cumpram as especificações estabelecidas nos artigos 4.º, 5.º, 6.º, 7.º, 8.º e 9.º;
+
+b) A falta ou incorreta rotulagem prevista no n.º 3 do artigo 4.º, no n.º 5 do artigo 5.º e na alínea b) do n.º 6 do artigo 7.º;
+
+c) A falta de informação e de disponibilização de informação prevista nos n.os 8 e 9 do artigo 5.º e na alínea a) do n.º 6 e no n.º 7 do artigo 7.º;
+
+d) O incumprimento do disposto no n.º 2 do artigo 8.º;
+
+e) (Revogada.)
+
+f) O incumprimento dos limites e obrigações previstos no artigo 10.º-A;
+
+g) A recusa ou atraso na prestação de informações solicitadas ao abrigo do n.º 7 do artigo 13.º;
+
+h) A violação da obrigação prevista nos n.os 8 e 9 do artigo 13.º;
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+k) (Revogada.)
+
+l) O incumprimento da obrigação de garantir a colocação no mercado de gasóleo rodoviário com um teor máximo de 7 % de FAME, prevista no n.º 8 do artigo 7.º
+
+2 - A tentativa e a negligência são puníveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 16.º — Fiscalização, instrução do processo e aplicação das coimas e das sanções acessórias
+
+1 - Sem prejuízo das competências atribuídas à DGEG nos n.os 1, 2, 3, 4, 6, 7, 8 e 9 do artigo 13.º e no artigo 14.º, bem como das competências próprias de outras entidades, a fiscalização do presente decreto-lei compete à entidade fiscalizadora especializada para o setor energético.
+
+2 - A instrução dos processos de contraordenação e a aplicação das coimas e sanções acessórias previstos no presente decreto-lei competem à entidade fiscalizadora especializada para o setor energético.
+
+3 - O produto resultante da aplicação das coimas tem a seguinte distribuição:
+
+a) 60 % para o Estado;
+
+b) 25 % para a entidade instrutora;
+
+c) 5 % para a entidade fiscalizadora especializada para o setor energético;
+
+d) 10 % para a DGEG, entidade responsável pela coordenação do sistema de controlo de qualidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214-E/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927), em vigor a partir de 2015-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+### Capítulo VI — Disposições complementares e finais
+
+###### Artigo 17.º — Alteração ao Decreto-Lei n.º 62/2006, de 21 de Março
+
+O artigo 10.º do Decreto-Lei n.º 62/2006, de 21 de Março, passa a ter a seguinte redacção:
+
+«Artigo 10.º
+
+[...]
+
+1 - É da competência dos membros do Governo responsáveis pelas áreas do ambiente, da energia e dos transportes a definição dos mecanismos para o seguimento dos efeitos da utilização de biocombustíveis misturados com gasóleo em percentagens superiores a 5 % em veículos não adaptados e, se necessário, a definição de medidas para garantir o cumprimento da legislação comunitária pertinente em matérias de normas de emissão.
+
+2 - A definição das medidas previstas no número anterior deve ter em conta o balanço climático e ambiental global dos diversos tipos de biocombustíveis, de modo a favorecer os combustíveis globalmente mais favoráveis.
+
+3 - Os mecanismos referidos no número anterior são estabelecidos por portaria conjunta.»
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 18.º — Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, regiões ultraperiféricas, sem prejuízo das competências exercidas pelos serviços e organismos das respectivas administrações regionais.
+
+2 - A introdução no consumo de gasolina e gasóleo rodoviário e não rodoviário, com um teor máximo de enxofre de 10 mg/kg nas Regiões Autónomas dos Açores e da Madeira, regiões ultraperiféricas, pode ser objecto de disposições específicas, que devem ser comunicadas à Comissão Europeia.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+###### Artigo 19.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 235/2004, de 16 de Dezembro;
+
+b) O Decreto-Lei n.º 186/99, de 31 de Maio;
+
+c) A Portaria n.º 17/2003, de 9 de Janeiro;
+
+d) A Portaria n.º 1298/2002, de 27 de Setembro;
+
+e) A Portaria n.º 348/96, de 8 de Agosto;
+
+f) A Portaria n.º 441/96, de 6 de Setembro;
+
+g) A Portaria n.º 462/99, de 25 de Junho;
+
+h) O despacho n.º 7043/2005 (2.ª série), de 6 de Abril;
+
+i) O despacho n.º 8197/97 (2.ª série), de 26 de Setembro.
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Humberto Delgado Ubach Chaves Rosa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - Francisco Ventura Ramos.
+
+Promulgado em 21 de Maio de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 23 de Maio de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Especificações dos gases de petróleo liquefeitos
+
+| Características | Unidades | Gases de petróleo liquefeito | Método de ensaio |  |
+| --- | --- | --- | --- | --- |
+| Propano | Butano |  |  |  |
+| Massa volúmica a 15˚C | kg/m3 | A relatar | A relatar | EN ISO 3993; EN ISO 8973 |
+| Composição: |  |  |  |  |
+| C2 |  | 5 máx. | – |  |
+| C3 |  | 90 min | 20 máx. |  |
+| C4 | % (molar) | 10 máx. | 80 min | EN 27941; ISO 7941 |
+| C5 |  | 0,1 máx. | 3 máx. |  |
+| Insaturados totais |  | 25 máx | 25 máx. |  |
+| Dienos totais (incluindo 1,3-butadieno) |  | 0,5 máx. | 0,5 máx. |  |
+| Resíduo de evaporação | % (v/v) | 0,05 máx. | 0,05 máx. | ASTM D 2158 |
+| Tensão de vapor relativa a 40˚C (1) | kPa | 1550 máx. | 520 máx. | EN ISO 4256; EN ISO 8973 e anexo C da EN 589 |
+| Poder calorífico inferior | Kcal/kg | A relatar | A relatar | ASTM D 3588 |
+| Poder calorífico superior | Kcal/kg | A relatar | A relatar | ASTM D 3588 |
+| Sulfureto de hidrogénio (2) | – | Negativo | Negativo | EN ISO 8819 |
+|  | mg/m3 | 0,75 máx. | 0,75 máx. | Tubos de absorção |
+|  | mg/m3 | 0,75 máx. | 0,75 máx. | ASTM D 6228 |
+| Enxofre de mercaptanos ou Etilmercaptano | mg/kg ppmv | 6 mín.<br>12 mín. | 6 mín.<br>12 mín. | NP 4188; IP 272<br>ASTM D 5305 |
+| Teor de enxofre total (após odorização) (3) | mg/kg ppmv | 50 máx. | 50 máx. | ASTM D 6667;<br>ASTM D 3246 |
+| Corrosão da lâmina de cobre (1h a 40˚C) | Classificação | Classe 1 | Classe 1 | EN ISO 6251 |
+| Amoníaco | ppmv | 1 máx. | 1 máx. | Tubos de absorção |
+| Água separada ou em suspensão | – | Isento | Isento | Inspeção visual |
+| Água dissolvida | – | Passa no ensaio | Não aplicável | ASTM D 2713 |
+
+(1) Em caso de litígio relativamente à tensão de vapor deve ser utilizada a EN ISO 4256.
+
+(2) Os métodos de ensaio indicados são alternativos. O produto é considerado conforme desde que respeite um limite por um dos métodos de ensaio.
+
+(3) Em caso de litígio relativamente ao teor de enxofre total, deve ser usado o ASTM D 6667.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 214-E/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927), em vigor a partir de 2015-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+## Anexo II — Especificações do GPL carburante
+
+| Característica | Unidades | Limites | Métodos de ensaio (1) |
+| --- | --- | --- | --- |
+| Índice de octano ‘Motor’ (MON) | – | 89,0 mín. | EN 589, anexo B |
+| Insaturados totais | % (molar) | 25 máx. | EN 27941; ISO 7941 |
+| Dienos totais (incluindo 1,3-butadieno) |  | 0,5 máx. |  |
+| Resíduo de evaporação | mg/kg | 60 máx. | EN 15470; EN 15471 |
+| Tensão de vapor relativa a 40˚C (2) | kPa | 1550 máx. | EN ISO 4256; EN ISO 8973 e anexo C da EN 589 |
+| Tensão de vapor relativa a 10˚C, de 1 de dezembro a 31 de março | kPa | 150 min. | EN ISO 8973 e anexo C da EN 589 |
+| Sulfureto de hidrogénio (3) | – | Negativo | EN ISO 8819 |
+| mg/m3 | 0,75 máx. | Tubos de absorção |  |
+| mg/m3 | 0,75 máx. | ASTM D 6228 |  |
+| Enxofre de mercaptanos<br>ou<br>Etilmercaptano | mg/kg | 6 min. | NP 4188; IP 272 |
+|  |  |  |  |
+| ppmv | 12 min. | ASTM D 5305 |  |
+| Teor de enxofre total (após odorização) (4) | mg/kg | 50 máx. | EN 24260; ASTM D 6667;<br>ASTM D 3246 |
+| Corrosão da lâmina de cobre (1h a 40˚C) | Classificação | Classe 1 | EN ISO 6251 |
+| Amoníaco | ppmv | 1 máx. | Tubos de absorção |
+| Água separada ou em suspensão | – | Isento | Inspeção visual |
+| Água dissolvida | – | Passa no ensaio | ASTM D 2713 |
+
+(1) Todos os métodos de ensaio indicados incluem a sua fidelidade. Em caso de litígio os procedimentos aplicados à sua resolução e interpretação dos resultados com base na fidelidade dos métodos de ensaio devem ser os descritos na EN ISO 4259.
+
+(2) Em caso de litígio relativamente à tensão de vapor deve ser utilizada a EN ISO 4256.
+
+(3) Os métodos de ensaio indicados são alternativos. O produto é considerado conforme desde que respeite um limite por um dos métodos de ensaio.
+
+(4) Em caso de litígio relativamente ao teor de enxofre total, deve ser usado o ASTM D 6667.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+## Anexo III — Especificações das gasolinas
+
+| Característica | Unidade | Limites (1) | Métodos de ensaio (2) |  |
+| --- | --- | --- | --- | --- |
+| Mínimo | Máximo |  |  |  |
+| Aspeto (3) |  | Límpido e brilhante |  | Inspeção visual |
+| Massa volúmica a 15˚C (4) | kg/m3 | 720,0 | 775,0 | EN ISO 3675<br>EN ISO 12185 |
+| RON, mín. |  | 95 | ¾ | EN ISO 5164 (5) |
+| MON, mín. |  | 85 | ¾ | EN ISO 5163 (5) |
+| Tensão de vapor |  |  |  | EN 13016-1 (DVPE) (6) |
+| - De 1 de maio a 30 de setembro | kPa | 45,0 | 60,0 (7) |  |
+| - Meses de outubro e abril | kPa | 45,0 (8) | 90,0 (8) |  |
+| - De 1 de novembro a 31 de março | kPa | 50,0 | 90,0 |  |
+| Destilação: |  |  |  | EN ISO 3405 |
+| - Evaporado a 70˚C |  |  |  |  |
+| - De 1 de maio a 30 de setembro | % v/v | 20,0 | 50,0 |  |
+| - Meses de outubro e abril | % v/v | 20,0 | 52,0 |  |
+| - De 1 de novembro a 31 de março | % v/v | 22,0 | 52,0 |  |
+| - Evaporado a 100˚C | % v/v | 46,0 | 72,0 |  |
+| - Evaporado a 150˚C | % v/v | 75,0 | ¾ |  |
+| - Ponto final | oC | ¾ | 210 |  |
+| - Resíduo | % v/v | ¾ | 2 |  |
+| Análise de hidrocarbonetos: (9) |  |  |  | EN ISO 22854<br>EN 15553 |
+| - Olefinas | % v/v | ¾ | 18,0 |  |
+| - Aromáticos | % v/v | ¾ | 35,0 |  |
+| - Benzeno (10) | % v/v | ¾ | 1,0 | EN 12177<br>EN 238<br>EN ISO 22854 |
+| Teor de oxigénio (11) (12) | % m/m | ¾ | 3,7 | EN 1601<br>EN 13132<br>EN ISO 22854 |
+| Compostos oxigenados: (13) |  |  |  | EN 1601<br>EN 13132<br>EN ISO 22854 |
+| - Metanol, devem ser adicionados agentes estabilizadores (14) | % v/v | ¾ | 3,0 |  |
+| - Etanol, podem ser necessários agentes estabilizadores (15) | % v/v | ¾ | 10,0 |  |
+| - Álcool isopropílico | % v/v | ¾ | 12,0 |  |
+| - Álcool terbutílico | % v/v | ¾ | 15,0 |  |
+| - Álcool isobutílico | % v/v | ¾ | 15,0 |  |
+| - Éteres com 5 ou mais átomos de Carbono por molécula | % v/v | ¾ | 22,0 |  |
+| Outros compostos oxigenados (16) | % v/v | ¾ | 15,0 |  |
+| Teor de enxofre (17) | mg/kg | ¾ | 10,0 | EN ISO 13032<br>EN ISO 20846<br>EN ISO 20884 |
+| Teor de chumbo | g/l | ¾ | 0,005 | EN 237 |
+| Estabilidade à oxidação | min | 360 | ¾ | EN ISO 7536 |
+| Gomas existentes<br>(lavadas com solvente) | mg/100ml | ¾ | 5 | EN ISO 6246 |
+| Corrosão da lâmina de cobre<br>(3 h a 50°C) | Classificação | Classe 1 |  | EN ISO 2160 |
+| Aditivos |  | (18) (19) |  |  |
+
+(1) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima do zero (R = reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.
+
+(2) Os métodos de ensaio são os especificados na norma EN 228:2025. A Direção-Geral de Energia e Geologia (DGEG) pode autorizar a utilização de outros métodos analíticos adequados, desde que estes garantam pelo menos a mesma exatidão e o mesmo nível de precisão que o método analítico substituído.
+
+(3) O aspeto visual deve ser determinado à temperatura ambiente.
+
+(4) Em caso de litígio referente à massa volúmica a 15˚ C, deve ser utilizado o método descrito na EN ISO 12185.
+
+(5) Para o cálculo do resultado final do RON e do MON, deve ser subtraído ao resultado medido um fator de correção de 0,2, conforme os requisitos da Diretiva 98/70/CE, do Parlamento Europeu e do Conselho, de 13 de outubro de 1998. Ver pontos 6.6 e 6.7.2 da EN 228:2025 para recomendações sobre a apresentação de resultados.
+
+(6) Deve ser reportada a Tensão de Vapor Seco Equivalente (DVPE).
+
+(7) Caso seja autorizada uma derrogação ao abrigo do n.º 6 do artigo 5.º, relativa à gasolina com etanol, a tensão máxima de vapor é de 60 kPa, à qual se acrescenta a derrogação à tensão de vapor especificada no anexo viii, caso o etanol utilizado seja um biocombustível.
+
+(8) Com a condição de a soma de 10 vezes a tensão de vapor (expressa em kPa) e 7 vezes o evaporado a 70oC (expresso em % v/v) não exceder 1164 para gasolina com um teor máximo de oxigénio de 3,7 % m/m.
+
+(9) Em caso de litígio referente ao teor de hidrocarbonetos, deve ser utilizada a EN ISO 22854.
+
+(10) Em caso de litígio referente ao teor de benzeno, a EN 238 não é adequada como método de referência.
+
+(11) Em caso de litígio referente ao teor de oxigénio, a EN 13132 não pode ser utilizada como método de referência.
+
+(12) Os métodos de ensaio citados não têm uma fidelidade estabelecida para um teor de oxigénio superior a 3 % m/m. Com base em dados de ensaio interlaboratoriais dos últimos seis anos, para teores de oxigénio superiores a 3 %, o CEN/TC 19 aceita para reprodutibilidade média um valor de R = 0.37 para todos os métodos de ensaio.
+
+(13) Em caso de litígio referente ao teor de oxigenados, deve ser utilizada a EN ISO 22854.
+
+(14) Em caso de litígio referente ao teor de metanol, deve ser utilizada a EN 1601. A EN 1601 é aplicável a amostras que contenham um teor de éteres superior a 15 % v/v, desde que seja efetuado um passo de diluição que reduza o teor de éteres para um valor inferior a 15 % v/v.
+
+(15) Quando usado como componente da mistura, deve cumprir com a especificação da EN 15376. Ver ponto 6.1 da EN 228:2025.
+
+(16) Outros mono-álcoois e éteres com um ponto final de destilação não superior a 210˚C.
+
+(17) Em caso de litígio referente ao teor de enxofre, deve ser utilizada a EN ISO 20846 ou a EN ISO 20884.
+
+(18) Não é permitido o uso de aditivos contendo fósforo.
+
+(19) A utilização do aditivo metálico tricarbonilo metilciclopentadienilo de manganês (MMT) é limitada, desde 1 de janeiro de 2014, a 2 mg de manganês por litro. Métodos de ensaio para a determinação do MMT: EN 16135 e EN 16136.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 214-E/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927), em vigor a partir de 2015-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+## Anexo IV — Especificações dos petróleos
+
+| Característica | Unidades | Petróleos | Métodos de ensaio |  |
+| --- | --- | --- | --- | --- |
+| Iluminação | Carburante |  |  |  |
+| Aspeto | – | Límpido, isento de água separada e de matérias em suspensão. | Visual |  |
+| Massa volúmica a 15˚C | kg/m3 | A relatar | A relatar | EN ISO 3675; ASTM D 4052; EN ISO 12185 |
+| Ponto de inflamação, mín. | °C | 40 | 30 | ASTM D 3828;<br>EN ISO 13736; IP 170 |
+| Corrosão da lâmina de cobre (3h a 50°C), máx. | Classificação | Classe 11 | Classe 11 | EN ISO 2160; ASTM D 130 |
+| Teor de enxofre, máx. | % (m/m) | 0,15 | 0,15 | EN ISO 8754; ASTM D 2622 |
+| Destilação: |  |  |  |  |
+| Evaporado a 150°C, máx. | % (v/v) | 10 | 10 |  |
+| Evaporado a 250°C, mín | % (v/v) | – | 90 | EN ISO 3405; ASTM D 86 |
+| Evaporado a 280°C, mín. | % (v/v) | 90 | – |  |
+| Ponto final, máx. | °C | 300 | 300 |  |
+| Ponto de fumo, mín. | – | 25 | – | ISO 3014; ASTM D 1322 |
+| Índice de octano (MM), mín | – | – | 50 | EN ISO 5163 |
+| [Revogado.] | [Revogado.] |  |  |  |
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+## Anexo V — Especificações dos gasóleos
+
+| Característica | Unidade | Limites (1) | Métodos de ensaio (2) (3) |  |
+| --- | --- | --- | --- | --- |
+| Mínimo | Máximo |  |  |  |
+| Índice de cetano (4) |  | 51,0 | – | EN ISO 5165<br>EN 15195<br>EN 16715<br>EN 16906 (5)<br>EN 17155 |
+| Índice de cetano calculado (6) |  | 46,0 | – | EN ISO 4264 |
+| Massa volúmica a 15°C (7) | kg/m3 | 820,0 | 845,0 | EN ISO 3675<br>EN ISO 12185 |
+| - De 1 de dezembro a 28/29 de fevereiro |  | 815,0 | 845.0 |  |
+| Viscosidade a 40°C (8) | mm2/s | 2,000 | 4,500 | EN ISO 3104<br>EN ISO 23581 |
+| Destilação: (9) (10) (11) (12) |  |  |  | EN ISO 3405 (12)<br>EN ISO 3924<br>EN 17306 (5) |
+| Recuperado a 250 °C | % v/v | – | < 65 |  |
+| Recuperado a 350 °C | % v/v | 85 | – |  |
+| 95 % de Recuperado | °C | – | 360,0 |  |
+| Hidrocarbonetos aromáticos policíclicos (13) | % m/m | – | 8,0 | EN 12916 |
+| Teor de enxofre (14) | mg/kg | – | 10,0 | EN ISO 20846<br>EN ISO 20884<br>EN ISO 13032 |
+| Temperatura limite de filtrabilidade (15) |  |  |  | EN 116<br>EN 16329 (5) |
+| De 1 de abril a 14 de outubro | °C | – | 0 |  |
+| De 1 de março a 31 de março e de 15 de outubro a 30 de novembro | °C | – | -5 |  |
+| De 1 de dezembro a 28/29 de fevereiro | °C | – | -10 |  |
+| Ponto de inflamação | °C | > 55 | – | EN ISO 2719 |
+| Resíduo carbonoso<br>(no resíduo 10 % da destilação) (16) | % m/m | – | 0,30 | EN ISO 10370 |
+| Teor de cinzas | % m/m | – | 0,01 | EN ISO 6245 |
+| Teor de água | % (m/m) | – | 0,02 | EN ISO 12937 |
+| Contaminação total | mg/kg | – | 24 | EN 12662-1:2024 |
+| Corrosão da lâmina de cobre (3 h a 50°C) | Classificação | Classe 1 |  | EN ISO 2160 |
+| Estabilidade à oxidação (17) | g/m3 | – | 25 | EN ISO 12205 |
+| Estabilidade à oxidação (para gasóleos com teor de FAME > 2,0 % v/v (17) (18) | h | 20,0 | – | EN 15751 |
+| ou | ou |  | ou |  |
+|  | min | 60,0 | – | EN 16091 |
+| Lubrificidade-diâmetro da marca de desgaste (dmd 1,4) a 60 °C | µm | – | 460 | EN ISO 12156-1 (19) |
+| FAME (20) | % v/v | – | 7,0 (21) | EN 14078 |
+|  |  | – | 10,0 (22) |  |
+| Teor de manganês | mg/l | – | 2,0 (23) | EN 16576 |
+
+(1) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima de zero (R= reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.
+
+(2) Os métodos de ensaio são os especificados na norma EN 590:2025, para o gasóleo com um limite máximo de FAME de 7 %, e na norma EN 16734:2022, para o gasóleo com um limite máximo de FAME de 10 %. A Direção-Geral de Energia e Geologia pode autorizar a utilização de outros métodos analíticos adequados, desde que estes garantam pelo menos a mesma exatidão e o mesmo nível de precisão que o método analítico substituído.
+
+(3) Todos os métodos de ensaio indicados incluem uma referência quanto à sua precisão. Em caso de litígio, os procedimentos a seguir para a sua resolução e para interpretação dos resultados baseados na precisão do método de ensaio devem seguir o estipulado na EN ISO 4259-2.
+
+(4) Em caso de litígio envolvendo o Índice de Cetano, deve ser utilizado o método descrito na EN ISO 5165:2020.
+
+(5) Nos casos em que o método de ensaio inclui uma correção de bias do método de litígio, o resultado corrigido de bias será utilizado para determinar a conformidade com o limite.
+
+(6) As misturas de FAME com gasóleo estão fora do escopo da norma EN ISO 4264, pois não foram incluídas no conjunto de dados original usado para estabelecer a correlação do índice de cetano com o número de cetano. No entanto, a avaliação do efeito das características de FAME no cálculo do índice de cetano indica que, em misturas até 10 % v/v de FAME, os efeitos são relativamente pequenos em comparação com a precisão do teste de número de cetano EN ISO 5165:2020.
+
+(7) Em caso de litígio envolvendo a massa volúmica, deve ser usado o método descrito na EN ISO 12185.
+
+(8) Em caso de litígio envolvendo a viscosidade, deve ser utilizado o método descrito na EN ISO 3104.
+
+(9) Para a determinação do Índice de Cetano calculado também são necessários os pontos 10 % v/v, 50 % v/v e 90 % v/v de recuperado.
+
+(10) Os limites de destilação a 250 ºC e 350 ºC são incluídos para o gasóleo de acordo com a ‘EU Common Customs Tariff’.
+
+(11) Em caso de litígio envolvendo a destilação, deve ser usado o método descrito na EN ISO 3405:2019.
+
+(12) A EN ISO 3924:2019 dá instruções para converter em dados equivalentes aos da EN ISO 3405.
+
+(13) Os hidrocarbonetos aromáticos policíclicos são definidos como o teor total de hidrocarbonetos aromáticos menos o teor de hidrocarbonetos mono-aromáticos, ambos determinados pelo método EN 12 916:2024.
+
+(14) Em caso de litígio envolvendo o teor de enxofre, deve ser utilizado qualquer um dos métodos descritos na EN ISO 20846 ou na EN ISO 20884. Todas as partes devem concordar em utilizar o mesmo método de ensaio para a resolução do litígio.
+
+(15) Em caso de litígio envolvendo a temperatura limite de filtrabilidade (CFPP), deve ser usado o método descrito na EN 116.
+
+(16) O valor-limite do resíduo carbonoso refere-se a um produto isento de aditivo melhorador do índice de cetano. Se o gasóleo comercializado tiver um valor superior a esse limite, deve comprovar-se pelo método EN ISO 13759 a presença de nitrato. Se se provar, deste modo, a presença de um aditivo melhorador do índice de cetano, o valor-limite do resíduo carbonoso do produto ensaiado não pode ser tido em conta. O uso de aditivos não isenta o fabricante de se submeter a um valor máximo de 0,30 % (m/m) de resíduo carbonoso, antes da aditivação.
+
+(17) A característica da estabilidade à oxidação, utilizando a EN ISO 12205, aplica-se a todos os gasóleos independentemente do teor de FAME. Para gasóleo contendo FAME acima de 2,0 % v/v, existe um requisito adicional para ensaiar a estabilidade à oxidação utilizando a EN 15751 ou a EN 16091.
+
+(18) Em caso de litígio envolvendo a estabilidade à oxidação para combustíveis contendo FAME acima de 2,0 % v/v, deve ser utilizado o método descrito na EN 15751.
+
+(19) A lubricidade de um gasóleo, independentemente do teor de FAME, deve cumprir o limite de HFRR máximo de 460 μm. O gasóleo com um teor de FAME superior a 4,0 % v/v tem geralmente uma boa lubrificidade, com HFRR inferior a 460 μm, e não requer necessariamente um ensaio HFRR, desde que não se conheça experiência adversa.
+
+(20) O FAME deve cumprir as especificações da EN 14214:2014+A2:2019. Em Portugal os anexos nacionais constam da NP EN 14214.
+
+(21) Para gasóleos com limite máximo de 7 % de teor de FAME, deverá ser consultada a norma EN 590:2025.
+
+(22) Para gasóleos com limite máximo de 10 % de teor de FAME, deverá ser consultada a norma EN 16734:2022.
+
+(23) A utilização do aditivo metálico tricarbonilo metilciclopentadienilo de manganês (MMT) é limitada desde 1 de janeiro de 2014, a 2 mg de manganês por litro. Quando o tricarbonilo metilciclopentadienilo de manganês (MMT) é utilizado, é necessária uma rotulagem específica.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 214-E/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927), em vigor a partir de 2015-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 35-A/2008 - Diário da República n.º 123/2008, 3º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/35-a-2008-456869), em vigor a partir de 2008-05-31
+
+## Anexo VI — Especificações do gasóleo de aquecimento
+
+| Característica | Unidades | Limites | Métodos de ensaio |  |
+| --- | --- | --- | --- | --- |
+| Mínimo | Máximo |  |  |  |
+| Massa volúmica a 15°C | kg/m3 | – | 900 | ASTM D 4052; EN ISO 3675; EN ISO 12185 |
+| Viscosidade a 40°C | mm2/s | – | 7 | ASTM D 445; EN ISO 3104 |
+| Destilação: | °C |  |  | ASTM D 86; EN ISO 3405 |
+| 65 % em volume |  | 250 | – |  |
+| 85 % em volume |  | – | 390 |  |
+| 95 % em volume |  | A relatar |  |  |
+| Teor de enxofre | % (m/m) | – | 0,10 | IP 336; ASTM D 2622<br>EN ISO 8754 |
+| Temperatura limite de filtrabilidade | °C | – | -6 | IP 309; EN 116 |
+| Ponto de inflamação | °C | 60 | – | ASTM D 93; EN ISO 2719 |
+| Ponto de turvação | °C | - | 4 | ASTM D 2500; ISO 3015; ASTM D 5772; ASTM D 5773 |
+| Resíduo carbonoso [no resíduo 10 % da destilação] | % m/m | – | 0,35 | ASTM D 4530; EN ISO 10370 |
+| Água e sedimentos | % (v/v) | – | 0,1 | ASTM D 2709 |
+| Corrosão da lâmina de cobre (3h a 50°C) | Classificação | Classe 2 | ASTM D 130; EN ISO 2160 |  |
+| [Revogado.] | [Revogado.] |  |  |  |
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+## Anexo VII — Especificações dos fuelóleos
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+## Anexo VIII — Valores autorizados por derrogação para a tensão de vapor da gasolina que contém bioetanol
+
+| Teor de bioetanol (% v/v) | Valores autorizados por derrogação para a tensão de vapor (kPa) (1) (2) |
+| --- | --- |
+| 0 | 0 |
+| 1 | 3,7 |
+| 2 | 6,0 |
+| 3 | 7,2 |
+| 4 | 7,8 |
+| 5 | 8,0 |
+| 6 | 8,0 |
+| 7 | 7,9 |
+| 8 | 7,9 |
+| 9 | 7,8 |
+| 10 | 7,8 |
+
+(1) A determinação do valor autorizado por derrogação para um teor de bioetanol intermédio situado entre dois dos valores indicados é feita por interpolação linear direta entre o teor de bioetanol imediatamente superior e o teor de bioetanol imediatamente inferior ao valor intermédio.
+
+(2) Os valores indicados na especificação são os ‘valores reais’. Para fixar os seus valores-limite, aplicam-se os termos da norma EN ISO 4259-1:2026 ‘Petroleum and related products - Precision of measurement methods and results - Part 1 - Determination of precision data in relation to methods of test’ e, para fixar um valor mínimo, tomou-se em consideração uma diferença mínima de 2R acima do zero (R = reprodutibilidade). Os resultados das medições individuais são interpretados com base nos critérios constantes da norma EN ISO 4259-2:2026.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 188/2026 - Diário da República n.º 183/2026, Série I de 2026-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2026-1172217155), em vigor a partir de 2026-10-01.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01

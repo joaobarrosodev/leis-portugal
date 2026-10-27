@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173956472:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-174051337",
+ "dre_path": "/dr/detalhe/decreto-lei/94-2021-173956472",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174410832",
+    "173993113",
+    "173993114",
+    "173993115",
+    "173993116"
+   ]
+  },
+  {
+   "date": "2022-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174357142:por",
+     "title": "Declaração de Retificação n.º 39/2021",
+     "published": "2021-11-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/39-2021-174357142"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "174410832",
+    "173993113",
+    "173993114",
+    "173993115",
+    "173993116",
+    "173993117"
+   ]
+  }
+ ],
+ "fragments": {
+  "174410832": {
+   "fragment_id": "174051338",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-02-07",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 94/2021\n\nde 9 de novembro\n\nSumário: Alarga o período de novidade do livro para efeitos de venda ao público de 18 para 24 meses sobre a data de edição ou importação.\n\nO Decreto-Lei n.º 176/96, de 21 de setembro, veio instituir o regime do preço fixo do livro, de modo a corrigir um conjunto de anomalias do mercado do livro e a garantir aos seus agentes económicos condições de atuação mais equitativas e proveitosas para o interesse geral. Este decreto-lei foi posteriormente alterado, tendo sido revisto pela última vez em 2015, através do Decreto-Lei n.º 196/2015, de 16 de setembro.\n\nNão obstante as alterações introduzidas em 2000 e em 2015, a experiência de aplicação, seis anos volvidos desde a última revisão, bem como o impacto da crise sanitária da pandemia da doença COVID-19 no mercado livreiro, determinam a necessidade de introduzir algumas alterações tendentes a melhorar o comércio do livro.\n\nNesta medida, e por forma a garantir aos agentes livreiros condições de atuação mais equitativas e proveitosas para o interesse geral e seguindo a tendência de outros países europeus que convergem em igual sentido, alarga-se o período de novidade do livro para efeitos de venda ao público de 18 para 24 meses sobre a data de edição ou importação, criando-se desta forma uma mais ampla proteção dos agentes livreiros que se dedicam exclusivamente a esta atividade nos diferentes concelhos do país e que, para além da comercialização do livro, cuidam dos respetivos acervos e prestam outros serviços culturais, promovendo assim a diversidade cultural.\n\nPor outro lado, e por forma a promover uma concorrência mais sã entre os retalhistas da rede livreira, assegurando maior diversidade cultural e acesso à cultura e ao livro, quando o editor atue simultaneamente na qualidade de retalhista, o editor pode praticar os mesmos preços dos retalhistas.\n\nForam ouvidas a Associação Portuguesa de Editores e Livreiros e a RELI - Rede de Livrarias Independentes e a Autoridade da Concorrência.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "173993113": {
+   "fragment_id": "174051339",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à terceira alteração ao Decreto-Lei n.º 176/96, de 21 de setembro, alterado pelos Decretos-Leis n.os 216/2000, de 2 de setembro, e 196/2015, de 16 de setembro, que institui o regime do preço fixo do livro."
+  },
+  "173993114": {
+   "fragment_id": "174051340",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 176/96, de 21 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 176/96, de 21 de setembro\n\nOs artigos 1.º, 4.º, 4.º-A, 14.º e 18.º do Decreto-Lei n.º 176/96, de 21 de setembro, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) 'Livro de bibliófilo', o livro de edição limitada, cujos exemplares são numerados, de elevada qualidade material e formal, desde que tenham decorrido 24 meses sobre a data de edição ou importação;\n\ni) 'Livro esgotado e descatalogado', o livro que não se encontra disponível na rede de venda e não consta do último catálogo divulgado pelo editor ou importador exclusivo à rede de vendas ou cuja descatalogação foi comunicada por escrito à referida rede, desde que tenham decorrido 24 meses sobre a data de edição ou importação;\n\nj) [...];\n\nk) [...];\n\nl) 'Livro usado', todo o livro já manuseado, desde que tenham decorridos 24 meses sobre a data de edição ou importação;\n\nm) [...];\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) [...].\n\nArtigo 4.º\n\n[...]\n\n1 - [...].\n\n2 - Os retalhistas podem estabelecer preços de venda inferiores ao referido no número anterior sobre livros que tenham sido editados pela primeira vez ou importados há mais de 24 meses.\n\n3 - [...].\n\n4 - Para efeitos do n.º 2, quando o editor atue também na qualidade de retalhista e uma vez decorrido o prazo de 24 meses desde que o livro tenha sido editado pela primeira vez ou importado, o editor pode praticar os mesmos preços dos retalhistas.\n\nArtigo 4.º-A\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...]:\n\ni) Livro comercializado em conjuntos promocionais com um ou mais livros não editados ou importados há mais de 24 meses com um preço de comercialização global e único inferior a 90 % da soma dos preços fixados pelo editor ou importador para cada um dos livros do conjunto;\n\nii) 'Pague um e leve dois' ou 'pague dois e leve três' ou quaisquer outras combinações das quais resulte uma oferta igual ou superior às referidas, sempre que exista a possibilidade de a oferta recair sobre livros não editados ou importados há mais de 24 meses;\n\niii) Desconto em todos os livros adquiridos de valor determinado ou determinável, designadamente de valor equivalente ao preço fixado pelo editor ou importador para o livro de mais baixo preço, sempre que exista a possibilidade de aquisição de livro não editado ou importado há mais de 24 meses por preço inferior a 90 % do preço fixado pelo editor ou importador;\n\niv) Descontos progressivos em função da quantidade de livros adquiridos, sempre que exista a possibilidade de aquisição de livro não editado ou importado há mais de 24 meses por preço inferior a 90 % do preço fixado pelo editor ou importador;\n\nc) [...].\n\n2 - É ainda vedada a oferta de bens de outra natureza, prémios ou outras vantagens não pecuniárias, na compra de livro editado ou importado há menos de 24 meses, salvo nas seguintes situações:\n\na) [...];\n\nb) [...].\n\n3 - [...].\n\n4 - [...]:\n\na) Oferta de um livro editado ou importado há mais de 24 meses, na compra de livro editado ou importado há menos de 24 meses e cumular essa oferta com um desconto no livro comprado, imediato ou diferido, igual ou inferior a 10 % do preço fixado pelo editor ou importador;\n\nb) Oferta do serviço de transporte na venda à distância ou na venda em estabelecimento comercial, com entrega em local convencionado, de livro editado ou importado há menos de 24 meses e cumulação dessa oferta com um desconto imediato ou diferido igual ou inferior a 10 % do preço fixado pelo editor ou importador.\n\nArtigo 14.º\n\n[...]\n\n1 - É permitida a comercialização de livros editados ou importados há menos de 24 meses, com um preço de venda ao público compreendido entre 80 % e 100 % do preço fixado pelo editor ou importador exclusivo, no decurso de feiras do livro ou de festas do livro e de mercados do livro, desde que tais iniciativas decorram em períodos de tempo previamente determinados e respeitem as regras definidas no número seguinte.\n\n2 - [...].\n\n3 - [...].\n\n4 - O preço de venda ao público de livros editados ou importados há menos de 24 meses deve, porém, situar-se entre 90 % e 100 % do preço fixado pelo editor ou importador, se forem comercializados por uma entidade de comércio a retalho não sedentário ou ocasional, nomeadamente:\n\na) [...];\n\nb) [...];\n\nc) [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\nArtigo 18.º\n\n[...]\n\n1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado pelo Decreto-Lei n.º 9/2021, de 29 de janeiro, a violação do disposto nos artigos 2.º, 4.º e 4.º-A, no n.º 2 do artigo 5.º, nos n.os 1 e 2 do artigo 8.º, no artigo 11.º, no n.º 2 do artigo 13.º, nos n.os 1 a 4 e 6 do artigo 14.º e no n.º 2 do artigo 15.º\n\n2 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação do disposto nos n.os 1 a 3 do artigo 10.º\n\n3 - Constitui contraordenação económica leve, punível nos termos do RJCE até ao limite legal aplicável, a violação do disposto nos artigos 3.º e 6.º, no n.º 2 do artigo 7.º, no artigo 9.º e no n.º 1 do artigo 13.º\n\n4 - A negligência é punível nos termos do RJCE.\n\n5 - Sem prejuízo do disposto nos números anteriores, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade que aplica a coima determinar a aplicação das sanções acessórias previstas no RJCE.\n\n6 - [...].»"
+  },
+  "173993115": {
+   "fragment_id": "174051341",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação no tempo\n\nO presente decreto-lei aplica-se ao comércio de todos os livros do catálogo dos editores ou importadores, independentemente da data da sua edição original, reedição ou importação."
+  },
+  "173993116": {
+   "fragment_id": "174051342",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a data da sua publicação."
+  },
+  "173993117": {
+   "fragment_id": "174051343",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de outubro de 2021. - Augusto Ernesto Santos Silva - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Graça Maria da Fonseca Caetano Gonçalves.\n\nPromulgado em 2 de novembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 5 de novembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114711944"
+  }
+ }
+}

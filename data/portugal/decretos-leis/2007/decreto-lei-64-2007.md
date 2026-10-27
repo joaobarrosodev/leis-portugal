@@ -1,0 +1,1304 @@
+---
+schema_version: '1.0'
+id: pt:dre:518425:por
+title: Decreto-Lei n.º 64/2007
+short_title: null
+summary: Define o regime jurídico de instalação, funcionamento e fiscalização dos estabelecimentos de apoio social geridos
+  por entidades privadas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 64/2007
+official_date: null
+publication_date: '2007-03-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/2007, Série I de 2007-03-14
+  number: '52'
+  series: I
+  supplement: null
+  pages: 1606 - 1613
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05200/16061613.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-12-30'
+version_history:
+  file: decreto-lei-64-2007.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-10-03'
+    amending: pt:dre:671204:por
+    amending_title: Decreto-Lei n.º 99/2011
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 29.º
+    - Altera Artigo 33.º
+    - Altera Artigo 41.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+  - date: '2014-05-13'
+    amending: pt:dre:572157:por
+    amending_title: Decreto-Lei n.º 33/2014
+    changes:
+    - Adita Capítulo IX
+    - Adita Artigo 39.º-A
+    - Adita Artigo 39.º-B
+    - Adita Artigo 39.º-C
+    - Adita Artigo 39.º-D
+    - Adita Artigo 39.º-E
+    - Adita Artigo 39.º-F
+    - Adita Artigo 39.º-G
+    - Adita Artigo 39.º-H
+    - Adita Artigo 39.º-I
+    - Adita Artigo 39.º-J
+    - Adita Artigo 39.º-K
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 38.º
+    - Altera Capítulo VIII
+  - date: '2022-01-10'
+    amending: pt:dre:176907514:por
+    amending_title: Decreto-Lei n.º 126-A/2021
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 8.º-A
+    - Adita Artigo 10.º-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Adita Artigo 17.º-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 19.º-A
+    - Adita Artigo 41.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Capítulo III
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º-B
+    - Altera Artigo 39.º-C
+    - Altera Artigo 39.º-D
+    - Altera Artigo 39.º-H
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+  - date: '2023-12-30'
+    amending: pt:dre:835864044:por
+    amending_title: Decreto-Lei n.º 136/2023
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 18.º-A
+    - Altera Artigo 19.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/64/2007/p/cons/20231229/pt/html
+  oj: null
+  dre: '518425'
+  dre_path: /dr/detalhe/decreto-lei/64-2007-518425
+  internal: pt:dre:518425:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425
+  metadata_url: https://data.dre.pt/eli/dec-lei/64/2007/p/cons/20231229/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-115002318
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-115002318
+  retrieved_at: '2026-10-22T12:18:18Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3421529153783835de7e2b6f551a078fe484a9968abaeffe5a86a10c30353143
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:18:18Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-64-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Segurança Social
+- Lares
+- Centro de Actividades de Tempos Livres
+- Centro de DIA
+- Centro Social
+- Obras Particulares
+- Definição de Competências
+- Equipamento Social
+- Fiscalização
+- Jardim de Infância
+- Centro de Acolhimento
+- Licenciamento
+- Centro de Actividades Ocupacionais
+- Normas de Segurança
+- Regime Jurídico
+- Vistoria
+- Centro de Apoio Social
+relationships:
+- type: amended_by
+  target: pt:dre:671204:por
+  label: Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º;
+    Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 29.º; Altera Artigo 33.º; Altera Artigo 41.º;
+    Altera Artigo 44.º; Altera Artigo 46.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204
+  date: '2011-09-28'
+- type: amended_by
+  target: pt:dre:572157:por
+  label: Adita Capítulo IX; Adita Artigo 39.º-A; Adita Artigo 39.º-B; Adita Artigo 39.º-C; Adita Artigo 39.º-D; Adita Artigo
+    39.º-E; Adita Artigo 39.º-F; Adita Artigo 39.º-G; Adita Artigo 39.º-H; Adita Artigo 39.º-I; Adita Artigo 39.º-J; Adita
+    Artigo 39.º-K; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo
+    7.º; Altera Artigo 8.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157
+  date: '2014-03-04'
+- type: amended_by
+  target: pt:dre:176907514:por
+  label: Adita Artigo 5.º-A; Adita Artigo 8.º-A; Adita Artigo 10.º-A; Adita Artigo 15.º-A; Adita Artigo 15.º-B; Adita Artigo
+    17.º-A; Adita Artigo 18.º-A; Adita Artigo 19.º-A; Adita Artigo 41.º-A; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo
+    7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Capítulo III; Altera Artigo 11.º; Altera Artigo
+    12.º; Altera Artigo 14.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514
+  date: '2021-12-31'
+- type: amended_by
+  target: pt:dre:835864044:por
+  label: Altera Artigo 11.º; Altera Artigo 18.º-A; Altera Artigo 19.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2023-835864044
+  date: '2023-12-29'
+- type: cites
+  target: celex:32014R0910
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133-a/1997/05/30/p/dre
+- type: cites
+  target: pt:dre:186279:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/409/1998/12/23/p/dre
+- type: cites
+  target: pt:dre:285560:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/414/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:358169:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/268/1999/07/15/p/dre
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+article_structure:
+  article_count: 68
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:18:18Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 64/2007
+
+Decreto-Lei n.º 64/2007
+
+de 14 de Março
+
+No âmbito de uma cada vez maior preocupação com a qualidade dos equipamentos sociais no que respeita à segurança e ao bem-estar dos cidadãos, por um lado, e à simplificação dos procedimentos de licenciamento e funcionamento dos equipamentos, por outro, o XVII Governo Constitucional assumiu como prioridade avaliar e reformular as regras de implementação no terreno das respostas fundamentais para o desenvolvimento social das crianças, a promoção da autonomia e de cuidados com as pessoas idosas e pessoas com deficiência e a conciliação da vida pessoal, familiar e profissional das famílias portuguesas.
+
+Neste contexto e integrando o espírito do pacto de cooperação para a solidariedade social e da lei de bases da segurança social, são afirmados os princípios da cooperação entre o Estado e o sector solidário, no que diz respeito ao licenciamento do funcionamento dos serviços e estabelecimentos sociais mas também à premente necessidade de um planeamento eficaz da rede de equipamentos sociais, independentemente das regras de financiamento que se venham a adoptar.
+
+O regime de licenciamento encontrava-se já definido no Decreto-Lei n.º 133-A/97, de 30 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 268/99, de 15 de Julho. A experiência da sua aplicação veio, entretanto, permitir a avaliação de dificuldades, de lacunas, de procedimentos complexos e burocratizados, impondo-se, assim, a alteração substancial do regime em vigor. Considerando, desde logo, a vertente da simplificação de procedimentos e o Programa de Simplificação Administrativa SIMPLEX, define-se neste diploma um interlocutor único para o licenciamento dos estabelecimentos de apoio social geridos por entidades privadas, a realização de vistorias conjuntas das entidades competentes, a eliminação da exigência da apresentação de vários documentos, a redução dos prazos actualmente previstos e a divulgação no sítio da Internet da segurança social dos actos actualmente sujeitos a publicação no Diário da República.
+
+Esta vertente de simplificação e modernização, já contemplada no presente decreto-lei, não prejudica, no entanto, o rigor na definição e verificação das condições de instalação e de funcionamento dos serviços prestados, que respeitam nomeadamente à segurança e qualidade de vida dos respectivos utentes. A responsabilidade do Estado na garantia dessas condições é uma responsabilidade acrescida, quando, em regra, estão em causa serviços prestados aos grupos mais vulneráveis, como sejam crianças, jovens, pessoas com deficiência ou em situação de dependência e idosos.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 32/2002, de 20 de Dezembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei define o regime de instalação, funcionamento e fiscalização dos estabelecimentos de apoio social, adiante designados por estabelecimentos, em que sejam exercidas atividades e serviços do âmbito da segurança social relativos a crianças, jovens, pessoas idosas ou pessoas com deficiência, bem como os destinados à prevenção e reparação das situações de carência, de disfunção e de marginalização social, estabelecendo ainda o respetivo regime sancionatório.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente decreto-lei aplica-se aos estabelecimentos prestadores de serviços de apoio social estabelecidos em território nacional das seguintes entidades:
+
+a) Sociedades ou empresários em nome individual;
+
+b) Instituições particulares de solidariedade social ou instituições legalmente equiparadas;
+
+c) Entidades privadas que desenvolvam atividades de apoio social.
+
+2 - O presente decreto-lei aplica-se ainda aos prestadores de serviços de apoio social legalmente estabelecidos noutro Estado Membro da União Europeia ou do Espaço Económico Europeu que desenvolvam as atividades previstas no artigo 4.º, no cumprimento do estabelecido no artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+3 - O presente decreto-lei não se aplica aos organismos da Administração Pública, central, regional e local, e aos estabelecimentos da Santa Casa da Misericórdia de Lisboa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 3.º — Estabelecimentos de apoio social
+
+Consideram-se de apoio social os estabelecimentos em que sejam prestados serviços de apoio às pessoas e às famílias, independentemente de estes serem prestados em equipamentos ou a partir de estruturas prestadoras de serviços que prossigam os objetivos do sistema de ação social definidos na Lei n.º 4/2007, de 16 de janeiro, que aprova as bases gerais do sistema de segurança social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 4.º — Respostas sociais
+
+1 - Os serviços de apoio às pessoas e famílias referidos no artigo anterior são desenvolvidos, nomeadamente, pelas seguintes respostas sociais:
+
+a) No âmbito do apoio às crianças e jovens: creche, centro de atividades de tempos livres, centro de apoio familiar e aconselhamento parental, lar de infância e juventude e apartamento de autonomização, casa de acolhimento temporário;
+
+b) No âmbito do apoio a pessoas idosas: centro de convívio, centro de dia, centro de noite, estruturas residenciais para pessoas idosas;
+
+c) No âmbito do apoio a pessoas com deficiência: centro de atividades e capacitação para a inclusão, lar residencial, residência autónoma, centro de atendimento, acompanhamento e animação de pessoas com deficiência;
+
+d) No âmbito do apoio a pessoas com doença do foro mental ou psiquiátrico: fórum sócio-ocupacional, unidades de vida protegida, autónoma e apoiada;
+
+e) No âmbito do apoio a outros grupos: apartamento de reinserção social, residência para pessoas com VIH/sida, centro de alojamento temporário e comunidade de inserção;
+
+f) No âmbito do apoio à família e comunidade: centro comunitário, casa de abrigo e serviço de apoio domiciliário.
+
+2 - Consideram-se ainda de apoio social os estabelecimentos em que sejam desenvolvidas actividades similares às referidas no número anterior ainda que sob designação diferente.
+
+3 - Podem ainda ser desenvolvidas respostas sociais inovadoras nos termos do artigo 5.º-A, nomeadamente, respostas de habitação com serviços partilhados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 5.º — Regulamentação específica
+
+As condições técnicas de instalação e funcionamento dos estabelecimentos são as regulamentadas em diplomas específicos e em instrumentos regulamentares aprovados pelo membro do Governo responsável pela área da segurança social, os quais são também publicitados no sítio oficial www.seg-social.pt.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 5.º-A — Respostas sociais atípicas ou inovadoras
+
+1 - Podem ser criadas respostas de caráter atípico ou inovador, que não correspondam às respostas sociais previstas nos n.os 1 e 2 do artigo 4.º, através da regulamentação específica a que se refere o artigo 5.º
+
+2 - As entidades promotoras apresentam na área de licenciamento no portal da segurança social o projeto de resposta a desenvolver, bem como as respetivas condições de organização e funcionamento, instruído o pedido em conformidade com a regulamentação especifica, para enquadramento e emissão de parecer prévio pelo ISS, I. P.
+
+3 - O parecer a que se refere o número anterior é emitido no prazo de 30 dias a contar da data de receção do pedido, podendo esse prazo ser prorrogado, uma vez, por igual período, devendo ser dado conhecimento à entidade promotora.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+### Capítulo II — Licenciamento da construção e autorização de utilização
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157)
+
+###### Artigo 6.º — Condições de instalação dos estabelecimentos
+
+Consideram-se condições de instalação de um estabelecimento as que respeitam à construção, reconstrução, ampliação ou alteração de um edifício adequado ao desenvolvimento dos serviços de apoio social, nos termos da legislação em vigor.
+
+###### Artigo 7.º — Requerimento e instrução
+
+1 - O licenciamento de construção é requerido à câmara municipal e está sujeito, com as especificidades previstas no presente decreto-lei e nos diplomas específicos e instrumentos regulamentares respeitantes às condições de instalação dos estabelecimentos, ao regime jurídico da urbanização e edificação (RJUE), estabelecido pelo Decreto-Lei n.º 555/99, de 16 de dezembro.
+
+2 - A aprovação do projeto sujeito a licenciamento pela câmara municipal carece dos pareceres favoráveis das entidades competentes, nomeadamente, do Instituto da Segurança Social, I. P. (ISS, I. P.), e da Autoridade Nacional de Emergência e Proteção Civil (ANEPC), quando aplicável.
+
+3 - A consulta às entidades referidas no número anterior é promovida pelo gestor do procedimento e efectuada através do sistema informático previsto no artigo 8.º-A do RJUE.
+
+4 - O interessado pode solicitar previamente os pareceres das entidades competentes ao abrigo do artigo 13.º-B do RJUE.
+
+5 - Ficam dispensadas do parecer do ISS, I. P., previsto no n.º 2 as respostas sociais compatíveis com licença ou autorização de utilização do edificado como habitação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 8.º — Pareceres obrigatórios
+
+1 - O parecer do Instituto da Segurança Social, I. P., incide sobre:
+
+a) (Revogada.)
+
+b) O cumprimento das normas estabelecidas no presente decreto-lei e nos diplomas específicos e instrumentos regulamentares respeitantes às condições de instalação dos estabelecimentos;
+
+c) A adequação, do ponto de vista funcional e formal, das instalações projetadas ao uso pretendido e tipologia de resposta, com base nos instrumentos regulamentares previstos no artigo 5.º e no presente decreto-lei;
+
+d) A capacidade do estabelecimento..
+
+2 - O parecer da ANEPC ou, quando respeitante à 1.ª categoria de risco, dos órgãos municipais, incide sobre a verificação do cumprimento das regras de segurança contra riscos de incêndio das instalações ou do edifício.
+
+3 - (Revogado.)
+
+4 - Quando desfavoráveis, os pareceres das entidades referidas nos números anteriores são vinculativos.
+
+5 - Os pareceres são emitidos no prazo de 30 dias, a contar da data de receção do pedido da câmara municipal, ou do requerimento do interessado, quando solicitado diretamente ao ISS, I. P.
+
+6 - O prazo previsto no número anterior pode ser prorrogado, uma só vez, por igual período, em condições excecionais e devidamente fundamentadas, devendo ser dado conhecimento da prorrogação à entidade promotora.
+
+7 - Considera-se haver concordância das entidades consultadas se os respectivos pareceres não forem recebidos dentro do prazo fixado nos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 8.º-A — Dispensa de requisitos
+
+1 - A dispensa dos requisitos legalmente exigidos para a instalação e funcionamento das respostas sociais pode ser concedida pelo ISS, I. P., ou pela câmara municipal, no âmbito das respetivas competências, oficiosamente ou a requerimento do interessado.
+
+2 - Os requisitos podem ser dispensados quando a sua estrita observância for suscetível de enquadramento numa das seguintes situações:
+
+a) Afetar as características arquitetónicas ou estruturais de edifícios;
+
+b) Prejudicar ou impedir projetos essenciais, inovadores ou que contribuam para a valorização da oferta de respostas sociais, desde que salvaguardada a segurança de pessoas e bens;
+
+c) Manifesta desproporcionalidade custo-benefício resultante dos meios a afetar ao cumprimento do mesmo, desde que salvaguardada a segurança de utentes, as condições de prestação dos serviços e a qualidade da resposta social;
+
+d) No caso de a resposta social funcionar acoplada a outras respostas que possuam áreas funcionais idênticas às estabelecidas em legislação específica para a resposta em causa que possam ser partilhadas, desde que salvaguardada a segurança de utentes, as condições de prestação dos serviços e a qualidade da resposta social.
+
+3 - A dispensa de requisitos referida nos números anteriores é requerida ao ISS, I. P., ou à câmara municipal, e é concedida tacitamente sempre que não seja proferida uma decisão expressa sobre a mesma no prazo de 30 dias.
+
+4 - A dispensa de requisitos a que alude os números anteriores não pode comprometer o cumprimento da legislação de segurança contra incêndios.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 9.º — Vistoria conjunta
+
+1 - Concluídas as obras e equipado o estabelecimento em condições de iniciar o seu funcionamento, pode a câmara municipal, nos termos do disposto nos artigos 64.º e seguintes do RJUE, promover a realização de uma vistoria conjunta às instalações, no prazo de 30 dias após a comunicação da conclusão da obra pelos interessados e, sempre que possível, em data a acordar entre as partes.
+
+2 - A vistoria é realizada por uma comissão composta por:
+
+a) Um técnico a designar pela câmara municipal, com formação e habilitação legal para assinar projectos correspondentes à obra objecto da vistoria;
+
+b) Um técnico do ISS, I. P.;
+
+c) (Revogada.)
+
+d) Um representante da ANEPC ou, quando respeitante à 1.ª categoria de risco, do respetivo município.
+
+3 - O requerente da licença ou da autorização de utilização, os autores dos projectos e o técnico responsável pela direcção técnica da obra participam na vistoria sem direito a voto.
+
+4 - (Revogado.)
+
+5 - Desde que as entidades referidas no n.º 2 sejam regularmente convocadas, a sua não comparência não é impeditiva nem constitui justificação da não realização da vistoria, nem da concessão da licença ou da autorização de utilização.
+
+6 - A comissão referida no n.º 2, depois de proceder à vistoria, elabora o respectivo auto, devendo entregar uma cópia ao requerente.
+
+7 - Quando o auto de vistoria conclua em sentido desfavorável ou quando seja desfavorável o voto, fundamentado, de um dos elementos referidos no n.º 2, não pode ser concedida a licença ou a autorização de utilização.
+
+8 - O ISS, I. P., pode requerer a realização de vistoria junto da câmara municipal nos termos do RJUE, sempre que considere importante face à dimensão ou complexidade do projeto executado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 10.º — Licença ou autorização de utilização
+
+1- Quando tenha sido efectuada a vistoria prevista no artigo anterior e verificando-se que as instalações se encontram de harmonia com o projecto aprovado, é emitida pela câmara municipal, no prazo de 30 dias, a correspondente licença ou autorização de utilização.
+
+2 - Quando não tenha havido lugar à vistoria, por facto não imputável ao requerente, aplica-se o disposto no n.º 6 do artigo 65.º do RJUE.
+
+3 - A câmara municipal territorialmente competente deve dar conhecimento ao ISS, I. P., preferencialmente através do sistema informático previsto no artigo 8.º-A do RJUE, do requerimento apresentado pelo interessado para concessão da licença ou autorização de utilização, acompanhado dos respetivos elementos instrutórios.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 10.º-A — Obras com isenção de controlo prévio
+
+1 - As obras realizadas em edifícios que, nos termos do RJUE, não estejam sujeitas a controlo prévio, são comunicadas ao ISS, I. P., nos termos do artigo 15.º-B, no prazo de 30 dias após a respetiva conclusão, desde que:
+
+a) Tenham por efeito a instalação ou alteração de resposta social compatível com a licença ou autorização de utilização emitida pela câmara municipal respetiva;
+
+b) Não sejam suscetíveis de prejudicar os requisitos mínimos exigidos para a resposta social, nos termos do presente decreto-lei e da respetiva regulamentação;
+
+c) Não impliquem uma alteração da resposta social ou da respetiva capacidade máxima.
+
+2 - Consideram-se compatíveis com licença ou autorização de utilização do edificado como habitação as respostas sociais que se instalem em apartamentos e moradias nomeadamente, os apartamentos de autonomização e/ou de reinserção social, as casas abrigo; os centros de alojamento temporário e os centros de apoio à vida, as estruturas residenciais para pessoas idosas e para pessoas com deficiência, os apartamentos partilhados e apartamentos destinados a housing first, entre outras, com capacidade até 20 utentes, nos termos da regulamentação específica de cada uma destas respostas.
+
+3 - Na situação prevista no n.º 1, para além dos elementos instrutórios previstos no artigo 16.º, deve ser apresentado um termo de responsabilidade subscrito pelo diretor da obra ou diretor da fiscalização, a assegurar o seguinte:
+
+a) A conformidade da edificação com os fins a que se destina;
+
+b) O respeito pelas normas legais e regulamentares aplicáveis tendo em conta o uso e a resposta social pretendida;
+
+c) Que as obras executadas se encontram isentas de controlo prévio, nos termos das alíneas a), b) ou c) do n.º 1 do artigo 6.º do RJUE, juntando a memória descritiva e plantas das instalações.
+
+4 - Caso se venha a verificar grave ou significativa desconformidade da resposta social em funcionamento com as normas legais e regulamentares aplicáveis, o subscritor do termo de responsabilidade responde solidariamente com a entidade promotora da resposta social pelos danos causados por força da desconformidade em causa, sem prejuízo das demais sanções legais aplicáveis.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+### Capítulo III — Autorização do funcionamento
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157)
+
+###### Artigo 11.º — Início da atividade
+
+1 - A abertura e funcionamento de um estabelecimento depende do cumprimento das condições de funcionamento específicas aplicáveis a cada resposta social, estabelecidas na legislação em vigor.
+
+2 - Os estabelecimentos abrangidos pelo presente decreto-lei só podem iniciar a atividade após realização da comunicação prévia, sem prejuízo do disposto nos artigos 37.º e 38.º
+
+3 - Compete ao ISS, I. P., acompanhar o início e o funcionamento dos estabelecimentos de apoio social.
+
+4 - Os equipamentos sociais financiados no âmbito dos PRR e PARES podem entrar em funcionamento com a emissão da autorização de utilização e consideram-se concluídos designadamente para celebração de acordos de cooperação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2023-835864044), em vigor a partir de 2023-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157)
+
+###### Artigo 12.º — Condições para início de atividade
+
+O início de atividade de cada resposta social depende da verificação das seguintes condições:
+
+a) Da conformidade das instalações e do equipamento com a legislação específica aplicável ao desenvolvimento da resposta social pretendida;
+
+b) [...];
+
+c) Da existência de quadro de recursos humanos adequado às atividades a desenvolver na resposta social, de acordo com a legislação específica e os instrumentos regulamentares aplicáveis a cada resposta social;
+
+d) Da regularidade da situação contributiva das entidades, quer perante a segurança social, quer perante a administração fiscal, a verificar pelo ISS, I. P., diretamente, mediante autorização do respetivo representante legal;
+
+e) Da idoneidade do requerente e dos recursos humanos ao serviço da resposta social, considerando o disposto no artigo seguinte;
+
+f) Da existência na resposta social, das medidas de segurança contra incêndio adequadas, em conformidade com a legislação em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 13.º — Impedimentos
+
+1 - Não podem exercer funções, a qualquer título, nos estabelecimentos, as pessoas que:
+
+a) Tenham sido interditadas do exercício das atividades em qualquer estabelecimento abrangido pelo presente decreto-lei;
+
+b) Tenham sido condenadas, por sentença transitada em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição de profissão relacionada com a atividade de estabelecimentos de idêntica natureza.
+
+2 - Tratando-se de pessoa coletiva, os impedimentos referidos no número anterior dizem respeito às pessoas dos administradores, sócios gerentes, gerentes ou membros dos órgãos sociais das instituições.
+
+3 - Sem prejuízo do disposto nos números anteriores, no caso dos estabelecimentos para crianças e jovens, é obrigatório o cumprimento do disposto no n.º 1 do artigo 2.º da Lei n.º 113/2009, de 17 de setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 14.º — Legitimidade para requerer a autorização
+
+Podem requerer a autorização de funcionamento para uma resposta social as pessoas singulares e coletivas que pretendam desenvolver as respostas sociais referidas no artigo 4.º, independentemente do título de utilização das instalações a elas afetas, desde que seja observado o disposto no artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 15.º — Requerimento
+
+1 - O pedido de licenciamento do funcionamento de uma resposta social é dirigido ao Instituto da Segurança Social, I.P., através de requerimento, em modelo próprio, do qual constam:
+
+a) A identificação do requerente;
+
+b) A denominação do estabelecimento;
+
+c) A localização do estabelecimento;
+
+d) A identificação da direção técnica;
+
+e) O tipo de serviços que se propõe prestar;
+
+f) A capacidade proposta.
+
+2 - [Revogado].
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 15.º-A — Forma do procedimento
+
+A autorização de funcionamento pode ser obtida junto do ISS, I. P., através de:
+
+a) Mera comunicação prévia, no caso da generalidade das respostas sociais;
+
+b) Comunicação prévia com prazo, no caso das respostas de natureza residencial, designadamente estruturas residenciais para pessoas idosas e lares residências para pessoas com deficiência.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 15.º-B — Comunicação prévia
+
+1 - A comunicação prévia é realizada através da submissão de formulário disponível na área de licenciamento no portal da segurança social, acompanhado dos documentos previstos no artigo seguinte, no qual, o declarante ou o seu representante legal, se responsabiliza pelo cumprimento integral dos requisitos de funcionamento exigíveis para a resposta social que se propõe desenvolver.
+
+2 - Do formulário previsto no número anterior constam:
+
+a) A identificação do requerente;
+
+b) A denominação e morada do estabelecimento;
+
+c) A identificação da direção técnica;
+
+d) A resposta social em causa e a respetiva capacidade.
+
+3 - Quando validamente submetido e desde que acompanhado do comprovativo de pagamento da taxa devida, o recibo da submissão do formulário constitui documento bastante para a resposta social entrar em funcionamento, sem prejuízo do disposto nos artigos 18.º e 18.º-A.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 16.º — Documentos anexos ao requerimento
+
+1 - O formulário de comunicação prévia é instruído com os seguintes documentos:
+
+a) Cópia do cartão de identificação de pessoa coletiva, do cartão de cidadão ou bilhete de identidade do requerente, ou código de acesso à certidão permanente, quando aplicável;
+
+b) Documento comprovante do número de identificação fiscal;
+
+c) Extrato em forma simples do teor das inscrições em vigor no registo comercial ou código de acesso à respetiva certidão permanente e cópia dos estatutos, quando aplicável;
+
+d) Certidão do registo criminal do requerente ou dos representantes legais referidos no n.º 2 do artigo 13.º;
+
+e) Declaração da situação contributiva perante a administração fiscal ou autorização para consulta dessa informação por parte dos serviços competentes da segurança social;
+
+f) Documento comprovativo do título da posse ou utilização das instalações;
+
+g) Licença ou autorização de utilização das instalações, sem prejuízo do disposto na alínea c) do artigo 111.º do RJUE;
+
+h) No caso de operações urbanísticas isentas de controlo prévio, termo de responsabilidade do diretor de obra, memória descritiva e plantas das instalações, nos termos do n.º 2 do artigo 10.º-A;
+
+i) Documento comprovativo da dispensa de requisitos de instalação e funcionamento, nos termos do artigo 8.º-A, quando aplicável;
+
+j) Documento comprovativo da submissão do pedido ao ANEPC ou, quando respeitante à 1.ª categoria de risco, dos órgãos municipais para aprovação das medidas de autoproteção, quando aplicável;
+
+k) Mapa de pessoal, com indicação das respectivas categorias, habilitações literárias e conteúdo funcional;
+
+l) Projecto de regulamento interno;
+
+m) Minuta de contrato a celebrar com os utentes ou seus representantes, quando exigível nos termos do artigo 25.º
+
+2 - O requerente pode ser dispensado da apresentação de alguns dos documentos previstos no número anterior, caso esteja salvaguardado o acesso à informação em causa por parte do Instituto da Segurança Social, I. P., designadamente por efeito de processos de interconexão de dados com outros organismos da Administração Pública.
+
+3 - Os serviços do Instituto da Segurança Social, I. P., devem comprovar que a situação contributiva da segurança social relativa ao requerente se encontra regularizada.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 17.º — Decisão sobre o pedido de licenciamento
+
+1 - O Instituto da Segurança Social, I.P., profere decisão, devidamente fundamentada, sobre o pedido de licenciamento no prazo de 30 dias a contar da data de receção do requerimento.
+
+2 - Decorrido o prazo referido no número anterior sem que o Instituto da Segurança Social, I. P., tenha proferido decisão sobre o pedido de licenciamento, a pretensão considera-se tacitamente deferida, valendo como licença para todos os efeitos legais o documento comprovativo da regular submissão do respectivo pedido, acompanhado do comprovativo de pagamento das taxas eventualmente devidas.
+
+3 - O requerimento é indeferido quando não forem cumpridas as condições e requisitos previstos no presente decreto-lei.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 17.º-A — Conferência de conformidade documental
+
+1 - A documentação a que se refere o artigo 16.º é objeto de conferência quanto à respetiva conformidade, no prazo de 5 dias.
+
+2 - Caso se verifique que não estão cumpridas as condições e requisitos previstos no presente decreto-lei através da documentação entregue aquando da submissão do formulário, os serviços do ISS, I. P., notificam o requerente, com referência expressa à cominação prevista no número seguinte, para apresentação de elementos adicionais no prazo de 10 dias.
+
+3 - A não regularização das desconformidades referidas no número anterior implica a cessação dos efeitos da comunicação prévia e a fixação de um prazo para a interrupção da atividade.
+
+4 - A situação descrita no número anterior é comunicada aos serviços de fiscalização do ISS, I. P., à câmara municipal competente e à ANEPC, quando aplicável.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 18.º — Licença de funcionamento
+
+1 - Quando tenha sido proferida decisão favorável é emitida, para cada resposta social, a licença de funcionamento, em impresso de modelo próprio aprovado por portaria do membro do Governo responsável pela área da segurança social, do qual consta:
+
+a) A denominação do estabelecimento;
+
+b) A localização;
+
+c) A identificação da pessoa ou entidade gestora do estabelecimento;
+
+d) A resposta social a desenvolver no estabelecimento;
+
+e) A capacidade máxima;
+
+f) A data de emissão.
+
+2 - [Revogado].
+
+3 - A inexistência do título previsto no número anterior não prejudica a continuação da exploração da resposta social, habilitada com o documento referido no n.º 3 do artigo 15.º-B.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 18.º-A — Comunicação prévia com prazo
+
+1 - No procedimento de autorização prévia com prazo, ao abrigo da alínea b) do artigo 15.º-A, a resposta social apenas pode entrar em funcionamento uma vez decorrido o prazo de 30 dias para eventual oposição do ISS, I. P.
+
+2 - O prazo previsto no número anterior destina-se a permitir a realização de visita pelo ISS, I. P., prévia ao início de atividade, previamente articulada com a entidade.
+
+3 - A visita incide sobre matéria de organização e funcionamento da resposta social.
+
+4 - Quando sejam verificadas irregularidades na resposta social, o ISS, I. P., pode deduzir oposição à respetiva entrada em funcionamento, devendo a mesma ser devidamente fundamentada com base no relatório da visita realizada e indicação expressa das normas em incumprimento.
+
+5 - A oposição do ISS, I. P., à comunicação prévia com prazo obsta à entrada em funcionamento da resposta social e é comunicada ao requerente.
+
+6 - Inexistindo oposição do ISS, I. P., no prazo concedido para o efeito, a resposta social pode entrar em funcionamento, devendo ser emitido o título previsto no artigo 18.º, no prazo referido no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2023-835864044), em vigor a partir de 2023-12-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 19.º — Autorização provisória de funcionamento
+
+1 - Nos casos em que não se encontrem reunidas as condições exigidas para a concessão de licença de funcionamento, mas seja previsível que as mesmas possam ser satisfeitas, pode ser concedida uma autorização provisória de funcionamento, salvo se as condições de funcionamento forem suscetíveis de comprometer a saúde, segurança, bem-estar dos utentes e a qualidade dos serviços a prestar.
+
+2 - A autorização referida no número anterior é concedida, por um prazo máximo de 180 dias, prorrogável por igual período, por uma só vez, mediante requerimento devidamente fundamentado.
+
+3 - Se não forem satisfeitas as condições especificadas na autorização provisória dentro do prazo referido no número anterior, é indeferido o pedido de licenciamento.
+
+4 - No período de vigência da autorização provisória de funcionamento os estabelecimentos são considerados de utilidade social.
+
+5 - Às instituições particulares de solidariedade social ou equiparadas, ou outras instituições sem fins lucrativos com quem o Instituto da Segurança Social, I.P., pretenda celebrar acordo de cooperação, que reúnam as condições exigidas para a concessão da licença, é concedida uma autorização provisória de funcionamento por um prazo de 180 dias, renovável até à celebração de acordo.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 19.º-A — Alterações
+
+1 - Os proprietários ou titulares dos estabelecimentos devem comunicar ao ISS, I. P., as alterações relativas aos elementos da autorização previstos nas alíneas a), c) e e) do n.º 1 do artigo 18.º no prazo máximo de 30 dias.
+
+2 - As alterações relativas aos elementos da autorização previstos nas alíneas b) e d) do n.º 1 do artigo 18.º obedecem ao regime estabelecido no capítulo ii do presente decreto-lei.
+
+3 - As alterações a que se refere o número anterior são comunicadas ao ISS, I. P., através de comunicação prévia, aplicando-se, neste caso, o disposto nos artigos 15.º-B a 18.º, com as necessárias adaptações.
+
+4 - As alterações aos projetos aprovados dos equipamentos sociais financiados no âmbito dos PRR e PARES não carecem de apreciação do ISS, I. P., quanto a projetos de arquitetura ou de execução.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2023-835864044), em vigor a partir de 2023-12-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 20.º — Suspensão da autorização
+
+1 - A interrupção do funcionamento do estabelecimento por um período superior a um ano determina a suspensão da respetiva autorização de funcionamento.
+
+2 - A proposta de decisão da suspensão é notificada ao interessado pelo ISS, I. P., que dispõe de um prazo de 10 dias para contestar os fundamentos invocados para a decisão de suspensão.
+
+3 - Se não for apresentada resposta no prazo fixado, ou a contestação não proceder, é proferida a decisão de suspensão.
+
+4 - Logo que se alterem as circunstâncias que determinaram a suspensão da autorização, pode o interessado requerer o termo da suspensão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 21.º — Caducidade da autorização
+
+1 - A interrupção do funcionamento do estabelecimento por um período superior a cinco anos, ou a cessação definitiva, determina a caducidade da autorização de funcionamento.
+
+2 - O ISS, I. P., notifica a entidade gestora da caducidade da autorização de funcionamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 22.º — Substituição da licença
+
+1 - Quando se verifique a alteração de qualquer dos elementos previstos no n.º 2 do artigo 18.º, deve ser requerida, no prazo de 30 dias, a substituição da licença.
+
+2 - Com o requerimento de substituição devem ser apresentados os documentos comprovativos da alteração.
+
+3 - O pedido de substituição é indeferido se as alterações não respeitarem as condições referidas no artigo 12.º
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 23.º — Utilidade social
+
+Os estabelecimentos que se encontrem licenciados ou autorizados nos termos do presente capítulo são considerados de utilidade social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+### Capítulo IV — Das obrigações das entidades gestoras
+
+###### Artigo 24.º — Denominação dos estabelecimentos
+
+Cada estabelecimento deve adotar uma denominação própria que permita a sua individualização e impeça a duplicação de denominações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 25.º — Contratos de prestação de serviços
+
+Os diplomas específicos e os instrumentos regulamentares de cada resposta social podem estabelecer a obrigatoriedade de celebração por escrito de contratos de prestação de serviços com os utentes ou seus representantes, devendo os mesmos integrar cláusulas sobre os principais direitos e deveres das partes contratantes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 26.º — Regulamento interno
+
+1 - Cada estabelecimento dispõe de um regulamento interno de funcionamento, do qual constam, designadamente:
+
+a) As condições e critérios de admissão dos utentes;
+
+b) Os cuidados e serviços a prestar;
+
+c) Os direitos e deveres dos utentes, bem como os deveres da entidade relativos à prestação de cuidados aos utentes e de informação à família;
+
+d) O horário de funcionamento e períodos de encerramento, quando aplicável;
+
+e) Os critérios de determinação das comparticipações familiares, quando aplicável.
+
+2 - Qualquer alteração ao regulamento interno é comunicada ao Instituto da Segurança Social, I.P., nos termos da alínea b) do n.º 2 do artigo 30.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 27.º — Afixação de documentos
+
+1 - São afixados nos estabelecimentos abrangidos pelo presente decreto-lei, em local visível ao público, os seguintes documentos:
+
+a) Cópia da autorização de funcionamento ou da comunicação prévia, quando aplicável;
+
+b) O horário e período de funcionamento do estabelecimento;
+
+c) A identificação do diretor técnico;
+
+d) O mapa semanal das ementas, quando aplicável;
+
+e) O regulamento interno;
+
+f) A indicação da existência de livro de reclamações.
+
+g) Documento comprovativo da aprovação das medidas de autoproteção e de realização de inspeções regulares, quando aplicável;
+
+h) O preçário.
+
+2 - São disponibilizados pelos estabelecimentos abrangidos pelo presente decreto-lei, quando solicitados e no respeito pelos princípios e regras previstas na legislação aplicável em matéria de proteção de dados, os seguintes documentos:
+
+a) A minuta do contrato de prestação de serviços, quando aplicável;
+
+b) Os critérios de determinação da comparticipação familiar e o montante máximo da mesma, no caso dos estabelecimentos da rede solidária, quando aplicável;
+
+c) O valor da comparticipação financeira da segurança social nas despesas de funcionamento, quando aplicável;
+
+d) Declaração de conformidade do sistema de gestão da segurança alimentar (HACCP), quando aplicável.
+
+3 - O disposto nos números anteriores não isenta o estabelecimento do cumprimento de obrigações de informação e de afixação de documentos resultantes de legislação específica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 28.º — Livro de reclamações
+
+1 - Nos estabelecimentos deve existir um livro de reclamações de harmonia com o disposto na legislação em vigor.
+
+2 - A fiscalização, a instrução dos processos e a aplicação das coimas e sanções acessórias compete aos serviços do Instituto da Segurança Social, I.P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 29.º — Taxas
+
+1 - São devidas taxas, a fixar por portaria do membro do Governo responsável pela área da segurança social, pela comunicação prévia e emissão do título de autorização de funcionamento.
+
+2 - As taxas são pagas junto do ISS, I. P., ou por meios eletrónicos através da Plataforma de Pagamentos da Administração Pública, quando disponível.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 30.º — Obrigações específicas das entidades gestoras
+
+1 - Os proprietários ou titulares dos estabelecimentos são obrigados a facultar aos serviços competentes de fiscalização e inspeção o acesso ao estabelecimento e a todas as suas dependências, bem como as informações indispensáveis à avaliação e fiscalização do seu funcionamento.
+
+2 - Os proprietários ou titulares dos estabelecimentos são ainda obrigados a remeter ao Instituto da Segurança Social, I. P.:
+
+a) Anualmente, o preçário em vigor, os mapas dos recursos humanos existentes no estabelecimento, acompanhados de declaração em como não se verifica qualquer dos impedimentos referidos no artigo 13.º;
+
+b) Até 30 dias antes da sua entrada em vigor, as alterações ao regulamento interno do estabelecimento;
+
+c) No prazo de 30 dias, informação de qualquer alteração dos elementos referidos no artigo 18.º e, bem assim, da interrupção ou cessação do funcionamento por iniciativa dos proprietários.
+
+d) Outra documentação prevista em legislação específica aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+### Capítulo V — Avaliação e fiscalização
+
+###### Artigo 31.º — Avaliação e vistorias técnicas
+
+1 - Compete aos serviços de proximidade do ISS, I. P., avaliar o funcionamento do estabelecimento, com base nas disposições legais aplicáveis, designadamente:
+
+a) Verificar a conformidade das atividades prosseguidas com as previstas na autorização de funcionamento;
+
+b) Avaliar a qualidade e verificar e regularidade dos serviços e cuidados prestados aos utentes, nomeadamente, no que se refere a condições de instalação e alojamento, adequação do equipamento, rácios de recursos humanos, alimentação e condições de higiene e segurança.
+
+2 - As ações de acompanhamento e apoio técnico referidas no número anterior, devem ser acompanhadas pelo diretor técnico do estabelecimento e concretizam-se, através da realização de, pelo menos, uma vistoria de dois em dois anos e sempre que se justifique.
+
+3 - [Revogado].
+
+4 - Os serviços de proximidade do ISS, I. P., concedem um prazo adequado, não inferior a 10 dias, para serem corrigidas eventuais desconformidades detetadas nas visitas realizadas, desde que salvaguardada a segurança de pessoas e bens, quando aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 32.º — Acções de fiscalização dos estabelecimentos
+
+Compete ao serviço de fiscalização do ISS, I. P., sem prejuízo da ação inspetiva dos organismos competentes, desenvolver ações de fiscalização dos estabelecimentos e desencadear os procedimentos respeitantes às atuações ilegais detetadas, bem como promover e acompanhar a execução das medidas propostas e a consequente aplicação de coimas e sanções acessórias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 33.º — Colaboração de outras entidades
+
+1 - Para efeitos das ações de avaliação e fiscalização previstas nos artigos anteriores, o ISS, I. P., pode solicitar a colaboração de peritos e entidades especializadas do Ministério do Trabalho, Solidariedade e Segurança Social, da autoridade de saúde e de outros serviços competentes, tendo designadamente em consideração as condições de salubridade e segurança, acondicionamento dos géneros alimentícios e condições higiossanitárias.
+
+2 - Sem prejuízo do disposto no número anterior, após a entrada em funcionamento de uma resposta social com internamento, nomeadamente estruturas residenciais para pessoas idosas e lares residenciais, é obrigatória a realização de visita conjunta do ISS, I. P., e da autoridade de saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 34.º — Comunicação às entidades interessadas
+
+O resultado das acções de avaliação e de fiscalização referidas nos artigos 31.º e 32.º deve ser comunicado à entidade gestora do estabelecimento no prazo de 30 dias após a conclusão das acções.
+
+### Capítulo VI — Encerramento administrativo dos estabelecimentos
+
+###### Artigo 35.º — Condições e consequências do encerramento administrativo
+
+1 - Pode ser determinado o encerramento imediato do estabelecimento nos casos em que apresente deficiências graves nas condições de instalação, segurança, funcionamento, salubridade, higiene e conforto, que ponham em causa os direitos dos utentes ou a sua qualidade de vida.
+
+2 - A medida de encerramento implica, automaticamente, a caducidade da autorização de funcionamento, bem como a cessação dos benefícios e subsídios previstos na lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 36.º — Competência e procedimentos
+
+1 - O encerramento do estabelecimento compete ao conselho directivo do Instituto da Segurança Social, I. P., mediante deliberação fundamentada.
+
+2 - Para a efectivação do encerramento do estabelecimento, a entidade referida no número anterior pode solicitar a intervenção das autoridades administrativas e policiais competentes.
+
+3 - O encerramento do estabelecimento não prejudica a aplicação das coimas relativas às contra-ordenações previstas no regime sancionatório aplicável.
+
+### Capítulo VII — Disposições especiais para os estabelecimentos desenvolvidos no âmbito da cooperação
+
+###### Artigo 37.º — Pareceres prévios
+
+1 - A fim de fomentar uma utilização eficiente dos recursos e equipamentos sociais, as instituições particulares de solidariedade social ou equiparadas devem solicitar, aos serviços competentes da segurança social, parecer prévio da necessidade social do equipamento, juntando para o efeito parecer do conselho local de acção social, cuja fundamentação deve ser sustentada em instrumentos de planeamento da rede de equipamentos sociais.
+
+2 - O parecer prévio previsto no número anterior deve anteceder o procedimento de licenciamento de construção junto da câmara municipal, ou o procedimento de autorização de utilização por comunicação prévia, junto do ISS, I. P., dependendo do caso.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 38.º — Regime aplicável
+
+Os estabelecimentos das instituições particulares de solidariedade social e de outras instituições sem fins lucrativos abrangidos por acordos de cooperação celebrados com o ISS, I. P., estão sujeitos às condições de funcionamento, às obrigações e regime sancionatório estabelecidos no presente decreto-lei, bem como nos respetivos diplomas específicos, não lhes sendo, porém, aplicáveis, enquanto os acordos vigorarem, as disposições relativas à autorização de funcionamento constantes do capítulo iii.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º — Condições da celebração de acordos de cooperação
+
+1 - A celebração de acordos de cooperação com as instituições referidas no artigo anterior depende da verificação das condições de funcionamento dos estabelecimentos objecto dos acordos, nomeadamente das referidas no artigo 12.º, independentemente dos demais requisitos estabelecidos nos diplomas especialmente aplicáveis aos acordos de cooperação.
+
+2 - Para efeitos do disposto no número anterior é elaborado relatório pelos serviços competentes do Instituto da Segurança Social, I. P., que confirme a existência de condições legais de funcionamento.
+
+### Capítulo VIII — Regime sancionatório
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-A — Contraordenações
+
+As infrações ao disposto no presente decreto-lei constituem contraordenações, nos termos dos artigos seguintes.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-B — Infrações muito graves
+
+Constituem infrações muito graves:
+
+a) A abertura ou o funcionamento de estabelecimento que não se encontre licenciado ou não disponha de autorização de funcionamento válida;
+
+b) A inadequação das instalações, bem como as deficientes condições de higiene e segurança, face aos requisitos estabelecidos;
+
+c) O excesso da capacidade em relação à autorizada para o estabelecimento;
+
+d) O impedimento das ações de fiscalização, designadamente por falta de disponibilização, aos serviços competentes do Ministério que tutela a área da segurança social do acesso a todas as dependências do estabelecimento e das informações indispensáveis à avaliação e fiscalização do seu funcionamento;
+
+e) A inexistência de diretor técnico quando obrigatória, nos termos da regulamentação específica;
+
+f) A inexistência de recursos humanos com categoria profissional e afetação adequadas às atividades e serviços desenvolvidos em cada estabelecimento e indicado no respetivo mapa, nos termos da regulamentação específica;
+
+g) A inexistência de regulamento interno;
+
+h) A não celebração, por escrito, quando exigida, de contratos de alojamento e de prestação de serviços, com os utentes ou seus familiares, dos quais constem os principais direitos e obrigações de ambas as partes;
+
+i) A inadequação ou falta dos cuidados e serviços à satisfação das necessidades dos utentes, designadamente higiene pessoal, alimentação, administração de fármacos de acordo com a devida prescrição médica e o acesso a cuidados de saúde;
+
+j) Inexistência de processo individual do utente;
+
+k) A inexistência de plano de intervenção individual, quando aplicável, nos termos da regulamentação específica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-C — Coimas graves
+
+Constituem infrações graves:
+
+a) A não apresentação, no prazo de 30 dias contados da sua ocorrência, de requerimento de substituição da comunicação prévia ou da autorização de funcionamento, na sequência de alteração da denominação do estabelecimento ou da identificação da entidade gestora;
+
+b) A ausência de comunicação na sequência de alterações de localização da atividade prosseguida pela resposta social ou da capacidade autorizada;
+
+c) A falta de comunicação, aos serviços competentes do ISS, I. P., da interrupção ou cessação da atividade do estabelecimento por iniciativa do proprietário, no prazo de 30 dias;
+
+d) A falta de comunicação prévia, aos serviços competentes do ISS, I. P., das alterações ao regulamento interno do estabelecimento, até 30 dias antes da sua entrada em vigor;
+
+e) A falta da remessa anual, aos serviços competentes do ISS, I. P., dos mapas estatísticos dos utentes e da relação do pessoal existente no estabelecimento, bem como do preçário em vigor;
+
+f) A inexistência de comunicação mensal de dados ou a comunicação de dados errados relativos à frequência de utentes, no caso das respostas com acordo de cooperação;
+
+g) A prestação de falsas informações na comunicação prévia, sem prejuízo das demais sanções aplicáveis;
+
+h) A falta de apresentação de registo criminal dos titulares dos órgãos de direção ou administração e de recursos humanos, nos termos da regulamentação específica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-D — Infrações leves
+
+Constitui infração leve:
+
+a) A não observância do disposto no artigo 27.º;
+
+b) O desrespeito pelas normas da regulamentação específica aplicável a cada tipologia de resposta social, nos termos do artigo 5.º, quando não se enquadrem nos artigos 39.º-B e 39.º-C;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-E — Coimas
+
+Às infrações previstas nos artigos 39.º-B a 39.º-D são aplicáveis as seguintes coimas:
+
+a) Entre 20 000,00 EUR e 40 000,00 EUR, para a infração muito grave referida na alínea a) do artigo 39.º-B;
+
+b) Entre 5 000,00 EUR e 10 000,00 EUR, para as infrações muito graves referidas nas alíneas b) a k) do artigo 39.º-B;
+
+c) Entre 2 500,00 EUR e 5 000,00 EUR, para as infrações graves referidas no artigo 39.º-C;
+
+d) Entre 500,00 EUR e 1 000,00 EUR, para as infrações leves referidas no artigo 39.º-D.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-F — Negligência e tentativa
+
+1 - Os ilícitos de mera ordenação social previstos no presente capítulo são punidos a título de dolo ou de negligência.
+
+2 - A tentativa é punida nos ilícitos de mera ordenação social referidos nos artigos 39.º-B e 39.º-C.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-G — Limites máximos e mínimos das coimas
+
+1 - Os limites máximos e mínimos das coimas previstas no presente decreto-lei aplicam-se quer às pessoas singulares quer às pessoas coletivas, sendo reduzidos a metade quando aplicáveis a entidades que não tenham finalidade lucrativa.
+
+2 - Em caso de reincidência, os limites mínimo e máximo da coima são elevados em um terço do respetivo valor.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-H — Sanções acessórias
+
+1 - Cumulativamente com as coimas previstas pela prática de infrações muito graves e graves, podem ser aplicadas ao infrator as seguintes sanções acessórias:
+
+a) Interdição temporária do exercício, direto ou indireto, de atividades de apoio social em quaisquer estabelecimentos de apoio social;
+
+b) Inibição temporária do exercício da profissão ou da atividade a que a contraordenação respeita;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos, nacionais ou comunitários, no âmbito do exercício da atividade de prestação de serviços e dos estabelecimentos de apoio social;
+
+d) Encerramento do estabelecimento e suspensão da comunicação prévia ou da autorização de funcionamento;
+
+e) Publicação, a expensas do infrator, em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico, da condenação aplicada pela prática da contraordenação.
+
+2 - No caso de ser aplicada a sanção prevista na alínea c) do número anterior, deve a autoridade administrativa comunicá-la, de imediato, à entidade que atribuiu o benefício ou subsídio com vista à suspensão das restantes parcelas dos mesmos.
+
+3 - As sanções referidas nas alíneas a) e b) do n.º 1 têm a duração máxima de três anos a contar da data da decisão condenatória definitiva.
+
+4 - A publicidade da condenação referida na alínea e) do n.º 1 consiste na publicação de um extrato, do qual consta a caracterização da infração, a norma violada, a identificação do infrator e a sanção aplicada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-I — Determinação da medida da coima
+
+1 - A determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa, da situação económica do agente e do benefício económico que este retirou da prática da contraordenação.
+
+2 - Se o agente retirou da infração um benefício económico calculável superior ao limite máximo da coima, e não existirem outros meios de o eliminar, pode este elevar-se até ao montante do benefício, não devendo todavia a elevação exceder um terço do limite máximo legalmente estabelecido.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-J — Destino das coimas
+
+O produto das coimas reverte para a autoridade administrativa que as aplique, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 39.º-K — Regime processual
+
+1 - Às contraordenações previstas no presente decreto-lei é aplicável, com as devidas adaptações, o regime processual aprovado pela Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto.
+
+2 - Para efeitos do número anterior, considera-se autoridade administrativa o Instituto da Segurança Social, I.P.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+### Capítulo IX — Disposições finais e transitórias
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 40.º — Publicidade dos actos
+
+1 - Compete ao ISS, I. P., promover a divulgação dos seguintes atos:
+
+a) Entrada em funcionamento por comunicação prévia;
+
+b) Emissão da autorização, substituição, suspensão, cessação ou respetiva caducidade;
+
+c) Decisões condenatórias definidas no regime especialmente aplicável às contra-ordenações ou que determinem o encerramento do estabelecimento.
+
+2 - As divulgações referidas no número anterior devem ser feitas em sítio da segurança social na Internet, de acesso público, no qual a informação objeto de publicidade possa ser acedida.
+
+3 - No caso de encerramento do estabelecimento, os serviços competentes do Instituto da Segurança Social, I. P., devem promover a afixação de aviso na porta principal de acesso ao estabelecimento, que se mantém pelo prazo de 30 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 41.º — Tramitação desmaterializada
+
+1 - Por portaria do membro do Governo responsável pela área da solidariedade social são definidos os documentos que obedecem a formulários aprovados pelo mesmo diploma, tendo em vista a uniformização e simplificação de procedimentos.
+
+2 - Os formulários dos documentos a preencher pelas entidades requerentes devem ser acessíveis via Internet.
+
+3 - Todos os pedidos, comunicações e notificações, ou em geral quaisquer declarações entre os interessados e as autoridades competentes nos procedimentos previstos no presente decreto-lei e respetiva legislação regulamentar devem ser efetuados através do sistema informático próprio da segurança social, disponível no seu sítio na Internet e através do portal ePortugal, enquanto balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+4 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer meio legalmente admissível.
+
+5 - Excetua-se do disposto no n.º 3 a tramitação dos procedimentos regidos pelo RJUE, que fazem uso do sistema informático previsto no artigo 8.º-A do mesmo regime.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 41.º-A — Portal do licenciamento
+
+1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada informaticamente, com recurso a um sistema informático próprio da segurança social, disponível no seu sítio na Internet e através do portal ePortugal, enquanto balcão único eletrónico.
+
+2 - Para acesso ao sistema devem ser utilizados mecanismos de autenticação segura, incluindo os do cartão de cidadão e chave móvel digital, com recurso ao sistema de certificação de atributos profissionais (SCAP), bem como os meios de identificação eletrónica emitidos noutros Estados-Membros reconhecidos para o efeito nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014, do Parlamento Europeu e do Conselho, de 23 de julho de 2014.
+
+3 - A apresentação de pedidos e de outros elementos e a realização de comunicações por via eletrónica devem ser instruídos com recurso a assinaturas eletrónicas qualificadas, incluindo cartão de cidadão e chave móvel digital e recurso ao SCAP, ou outras que constem da lista europeia de serviços de confiança, sem prejuízo do disposto no artigo 4.º da Lei n.º 37/2014, de 26 de junho, na redação em vigor.
+
+4 - Os requerentes são dispensados da apresentação de documentos em posse de qualquer serviço ou organismo da Administração Pública quando derem o seu consentimento para a entidade responsável proceder à sua obtenção, nos termos previstos no artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual, através da plataforma de interoperabilidade da Administração Pública ou recorrendo ao mecanismo de portabilidade de dados, previsto no n.º 2 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual.
+
+5 - As notificações aos interessados no âmbito do procedimento de licenciamento de funcionamento são realizadas através do serviço público de notificações eletrónicas sempre que o notificando a ele tenha aderido, nos termos do Decreto-Lei n.º 93/2017, de 1 de agosto.
+
+6 - Através do sistema informático referido no n.º 1, é também disponibilizada informação atualizada sobre a firma ou denominação social das entidades e o nome das respostas licenciadas, os respetivos endereços, e a data de abertura.
+
+7 - Sempre que, por motivos de indisponibilidade do sistema informático, não for possível o cumprimento do disposto no n.º 1, a transmissão da informação é efetuada por correio eletrónico para endereço criado especificamente para o efeito ou por entrega presencial no ISS, I. P.
+
+8 - A indisponibilidade e a impossibilidade previstas no número anterior, devem ser adequadamente demonstradas pelas entidades e não dispensa a necessidade de cumprimento das regras relativas à assinatura, previstas no n.º 2.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 42.º — Estabelecimentos em funcionamento
+
+Os estabelecimentos em funcionamento à data da entrada em vigor do presente decreto-lei, que não se encontrem licenciados, devem adequar-se às regras estabelecidas no presente decreto-lei e diplomas regulamentares referidos no artigo 5.º, com as adaptações necessárias a cada tipo de estabelecimento, nas condições e dentro dos prazos nos mesmos fixados.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+###### Artigo 43.º — Processos em curso
+
+Os procedimentos relativos ao licenciamento cujos processos se encontram em fase de instrução à data da publicação do presente decreto-lei continuam a reger-se pelo disposto no Decreto-Lei n.º 133-A/97, de 30 de Maio, e demais legislação aplicável.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 44.º — Condições de segurança contra incêndios
+
+1 - Às condições de segurança contra incêndios em edifícios referidas no presente decreto-lei é aplicável, com as necessárias adaptações, o disposto no Decreto-Lei n.º 220/2008, de 12 de novembro, na redação atual e demais legislação em vigor na matéria.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514), em vigor a partir de 2022-01-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 45.º — Regime sancionatório
+
+1 - Aplica-se ao licenciamento da actividade o regime sancionatório constante do capítulo IV do Decreto-Lei n.º 133-A/97, de 30 de Maio.
+
+2 - Compete ao Instituto da Segurança Social, I. P., a instrução e decisão dos processos de contra-ordenação referidos no número anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-13
+
+###### Artigo 46.º — Aplicação às Regiões Autónomas
+
+O presente decreto-lei é aplicável às Regiões Autónomas dos Açores e da Madeira, nos termos do disposto no artigo 108.º da Lei n.º 4/2007, de 16 de Janeiro, com as necessárias adaptações, decorrentes nomeadamente da especificidade dos serviços competentes nesta matéria.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2011 - Diário da República n.º 187/2011, Série I de 2011-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2011-671204), em vigor a partir de 2011-10-03
+
+###### Artigo 47.º — Norma revogatória
+
+Fica revogado o Decreto-Lei n.º 133-A/97, de 30 de Maio, sem prejuízo do disposto no artigo 45.º
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+###### Artigo 48.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no prazo de 60 dias após a sua publicação.
+
+> Alterado pelo/a [Decreto-Lei n.º 126-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2021-176907514)
+
+Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Emanuel Augusto dos Santos - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.
+
+Promulgado em 26 de Fevereiro de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 28 de Fevereiro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

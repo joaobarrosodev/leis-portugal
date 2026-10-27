@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:624780:por
+title: Resolução do Conselho de Ministros n.º 14/2005
+short_title: null
+summary: Ratifica a suspensão parcial do Regulamento do Plano Director Municipal de Montemor-o-Velho, bem como o estabelecimento
+  de medidas preventivas, para salvaguarda do Plano de Pormenor do Parque Logístico e Industrial de Arazede
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 14/2005
+official_date: null
+publication_date: '2005-01-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2005, Série I-B de 2005-01-19
+  number: '13'
+  series: I
+  supplement: null
+  pages: 436 - 436
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/01/013b00/04360436.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/14/2005/01/19/p/dre/pt/html
+  oj: null
+  dre: '624780'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/14-2005-624780
+  internal: pt:dre:624780:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-2005-624780
+  metadata_url: https://data.dre.pt/eli/resolconsmin/14/2005/01/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/14-2005-624780
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:51:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b9c9e4e508d60992a88e4dc9403dbff1b1ccf629ace91c51cd760802789359af
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:51:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Medidas Preventivas
+- Montemor-o-Velho
+- Ordenamento do Território
+- Plano de Pormenor
+- Plano Director Municipal
+- Política de Solos
+relationships:
+- type: amended_by
+  target: pt:dre:2279804:por
+  label: Determinada, a partir de 18.12.2007, a cessação da vigência das medidas preventivas ratificadas pela presente Resolução,
+    pelo Aviso n.º 24894/2007 - Diário da República n.º 242/2007, Série II de 2007-12-17, nos termos do art. 36.º do Regulamento
+    aprovado por este último Aviso
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/24894-2007-2279804
+  date: '2007-12-17'
+- type: amended_by
+  target: pt:dre:70237761:por
+  label: Tornada pública a aprovação da 1.ª Revisão do Plano Diretor Municipal de Montemor-o-Velho ratificado pela Res 118/98
+    de 09-out da PCM, na redação da presente Resolução, pelo(a) Aviso n.º 10379/2015 - Diário da República n.º 178/2015, Série
+    II de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10379-2015-70237761
+  date: '2015-09-11'
+- type: cites
+  target: pt:dre:235361:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/118/1998/10/09/p/dre
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:51:04Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 14/2005
+
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Montemor-o-Velho aprovou, em 29 de Abril de 2004, a suspensão dos artigos 43.º e 45.º a 49.º do Regulamento do Plano Director Municipal de Montemor-o-Velho na área correspondente ao Plano de Pormenor do Parque Logístico e Industrial de Arazede, actualmente em elaboração, pelo prazo de dois anos, bem como o estabelecimento de medidas preventivas para a mesma área, pelo mesmo prazo.
+
+O município de Montemor-o-Velho dispõe de Plano Director Municipal, ratificado pela [Resolução do Conselho de Ministros n.º 118/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/118-1998-235361), de 9 de Outubro, e alterado por deliberação da Assembleia Municipal de Montemor-o-Velho de 10 de Dezembro de 2003, publicada no Diário da República, 2.ª série, n.º 114, de 15 de Maio de 2004.
+
+O município de Montemor-o-Velho fundamenta a suspensão na verificação de circunstâncias excepcionais resultantes de alteração significativa das perspectivas de desenvolvimento económico e social local, designadamente as perspectivas de captação de investimentos empresariais decorrentes das novas acessibilidades criadas pela A 14 (Coimbra-Figueira da Foz).
+
+Por seu turno, o estabelecimento de medidas preventivas para a mesma área destina-se a evitar a alteração das circunstâncias e das condições de facto existentes que possa limitar a liberdade de planeamento ou comprometer ou tornar mais onerosa a execução do Plano de Pormenor do Parque Logístico e Industrial de Arazede, actualmente em elaboração.
+
+Verifica-se a conformidade das presentes medidas preventivas com as disposições legais e regulamentares em vigor, com excepção, relativamente à alínea b) do artigo 3.º do texto das medidas preventivas, das obras de construção civil, ampliação, alteração ou reconstrução de edifícios que estejam sujeitas apenas a um procedimento de comunicação prévia à Câmara Municipal, de acordo com o disposto na alínea b) do n.º 4 do artigo 107.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção conferida pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro.
+
+Refira-se que a suspensão parcial do Plano Director Municipal de Montemor-o-Velho incide sobre uma área classificada como Reserva Agrícola Nacional, Reserva Ecológica Nacional, espaço agro-silvícola e espaço agrícola I.
+
+Nas áreas abrangidas pela suspensão que integram a Reserva Ecológica Nacional e a Reserva Agrícola Nacional aplicam-se os correspondentes regimes jurídicos, respectivamente o [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, e suas alterações, e o [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, e suas alterações.
+
+A suspensão parcial foi objecto de parecer favorável da Comissão de Coordenação e Desenvolvimento Regional do Centro.
+
+Nos últimos quatro anos não foram estabelecidas medidas preventivas para a área.
+
+Considerando o disposto na alínea b) do n.º 2 do artigo 100.º e no n.º 3 do artigo 109.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção conferida pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro:
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Ratificar a suspensão dos artigos 43.º e 45.º a 49.º do Regulamento do Plano Director Municipal de Montemor-o-Velho pelo prazo de dois anos na área a abranger pelo pólo empresarial de Arazede/Meco, delimitada na planta anexa à presente resolução e que dela faz parte integrante.
+
+2 - Ratificar parcialmente o estabelecimento de medidas preventivas para a mesma área e por igual prazo, cujo texto também se publica em anexo à presente resolução, dela fazendo parte integrante.
+
+3 - Excluir de ratificação a proibição, prevista na alínea b) do artigo 3.º do texto das medidas preventivas, das obras de construção civil, ampliação, alteração ou reconstrução de edifícios que estejam sujeitas apenas a um procedimento de comunicação prévia à Câmara Municipal.
+
+Presidência do Conselho de Ministros, 2 de Dezembro de 2004. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
+
+## ANEXO
+
+###### Artigo 1.º
+
+Âmbito territorial
+
+As medidas preventivas incidem sobre a área territorial assinalada na planta anexa, coincidente com a área objecto de suspensão parcial do Plano Director Municipal e com a área definida para a elaboração do Plano de Pormenor do Parque Logístico e Industrial de Arazede (PLIA).
+
+###### Artigo 2.º — Âmbito temporal
+
+As medidas preventivas vigoram pelo prazo de dois anos a partir da data da sua publicação, salvo se ocorrer qualquer das situações previstas na lei.
+
+###### Artigo 3.º — Âmbito material
+
+As medidas preventivas consistem na proibição das seguintes acções:
+
+a) Operações de loteamento e obras de urbanização;
+
+b) Obras de construção civil, ampliação, alteração ou reconstrução de edificações;
+
+c) Trabalhos de remodelação de terrenos.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/01/013b00/04360436.pdf)

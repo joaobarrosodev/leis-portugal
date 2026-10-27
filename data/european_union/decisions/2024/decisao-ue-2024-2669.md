@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: eu:celex:32024D2669:por
+title: Decisão (UE) 2024/2669 do Conselho, de 26 de setembro de 2024
+short_title: null
+summary: Decisão (UE) 2024/2669 do Conselho, de 26 de setembro de 2024, relativa à apresentação, em nome da União Europeia,
+  de uma proposta de alteração dos anexos II e III da Convenção relativa à Conservação da Vida Selvagem e dos Habitats Naturais
+  da Europa, e à posição a tomar em nome da União, na 44.a reunião da Comissão Permanente dessa convenção
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2024/2669
+official_date: null
+publication_date: '2024-10-10'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2024/2669, 10.10.2024
+  number: '2669'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/cf8bf91f-86a4-11ef-a67d-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2024-09-26'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32024D2669
+  eli: http://data.europa.eu/eli/dec/2024/2669/oj
+  oj: oj:L_202402669
+  dre: null
+  dre_path: null
+  internal: eu:celex:32024D2669:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32024D2669
+  metadata_url: http://publications.europa.eu/resource/cellar/cf8bf91f-86a4-11ef-a67d-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/cf8bf91f-86a4-11ef-a67d-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T14:55:03Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-10T03:43:19.286+02:00'
+integrity:
+  source_sha256: f3d811996ad4ed04b94701e6ffbce7b951b9a9e3e97927af836f6d16fc01bcac
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T14:55:03Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- biótopo
+- comité permanente (UE)
+- convenção europeia
+- cooperação ambiental
+- espécie protegida
+- lobo
+- proteção da fauna
+- proteção da flora
+- revisão de um acordo
+- zona protegida
+relationships:
+- type: based_on
+  target: celex:12016E192
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cdbccbd7-06ae-4c9b-9076-57fc645256c2
+  date: '2016-06-09'
+- type: based_on
+  target: celex:12016E218
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7f071a2a-f5d1-4aed-b36a-34aeb32d6e41
+  date: '2016-06-09'
+- type: cites
+  target: celex:21979A0919(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/48cb13f3-76c0-4197-99b1-64d23b3b6d2e
+- type: cites
+  target: celex:31982D0072
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1d38d61e-5f8f-4aaf-bcca-9f8184d0956e
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T14:55:03Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO (UE) 2024/2669 DO CONSELHO
+
+de 26 de setembro de 2024
+
+relativa à apresentação, em nome da União Europeia, de uma proposta de alteração dos anexos II e III da Convenção relativa à Conservação da Vida Selvagem e dos Habitats Naturais da Europa, e à posição a tomar em nome da União, na 44.ª reunião da Comissão Permanente dessa convenção
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 192.º, n.º 1, em conjugação com o artigo 218.º, n.º 9,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) A Convenção relativa à Conservação da Vida Selvagem e dos Habitats Naturais da Europa [([^1])](http://publications.europa.eu/resource/cellar/cf8bf91f-86a4-11ef-a67d-01aa75ed71a1.0019.03/DOC_1#ntr1-L_202402669PT.000101-E0001) (a «Convenção de Berna»), foi celebrada pela União por intermédio da Decisão 82/72/CEE do Conselho [([^2])](http://publications.europa.eu/resource/cellar/cf8bf91f-86a4-11ef-a67d-01aa75ed71a1.0019.03/DOC_1#ntr2-L_202402669PT.000101-E0002) e entrou em vigor a 1 de setembro de 1982.
+
+(2) Nos termos do artigo 17.º da Convenção de Berna, a Comissão Permanente da Convenção de Berna (a «Comissão Permanente») pode adotar alterações aos respetivos anexos.
+
+(3) Nos termos do artigo 17.º da Convenção de Berna, propostas de alteração devem ser apresentadas, pelo menos, dois meses antes da reunião da Comissão Permanente. A União, enquanto Parte Contratante na Convenção de Berna, pode propor alterações aos anexos dessa convenção.
+
+(4) Tendo em conta a Recomendação n.º 56 (1997) da Comissão Permanente relativa às orientações a ter em conta aquando da apresentação de propostas de alteração dos anexos I e II da convenção e da adoção de alterações, as considerações pertinentes para a inclusão de espécies nos anexos da Convenção de Berna incluem fatores ecológicos e científicos, tais como o estado de conservação e as tendências e ameaças das populações.
+
+(5) O artigo 2.º da Convenção de Berna estabelece o objetivo de atingir um nível de população da flora e da fauna selvagens que corresponda, especificadamente, às exigências ecológicas, científicas e culturais, considerando simultaneamente as exigências económicas e recreativas e define o contexto mais amplo das medidas tomadas pelas Partes Contratantes. Esse objetivo pode ser tido em conta ao propor uma alteração dos anexos da Convenção de Berna.
+
+(6) O estado de conservação do lobo (*Canis lupus*) tem revelado uma tendência positiva nas últimas décadas. A espécie recuperou com êxito em todo o continente europeu, com uma expansão significativa da sua área de distribuição. A sua população atingiu níveis consideráveis, tendo os níveis de população estimados para a União quase duplicado em 10 anos, de 11 193, em 2012, para 20 300 em 2023. Os relatórios indicam um aumento contínuo das populações em todo o continente. Apesar das ameaças que subsistem para o lobo, a recuperação bem-sucedida das suas populações e o aumento da área de distribuição em todo o continente nas últimas décadas comprovam a forte adaptabilidade e resiliência da espécie.
+
+(7) Ao mesmo tempo, a expansão contínua da área de distribuição do lobo na Europa e a recolonização de novos territórios por esta espécie impuseram desafios socioeconómicos crescentes em termos de coexistência com as atividades humanas. Tal deve-se, nomeadamente, aos prejuízos causados na criação de gado, que atingiram níveis significativos, afetando cada vez mais regiões e Estados-Membros e não só.
+
+(8) Os dados mais recentes sobre a dimensão da população resultantes da avaliação do estado do lobo realizada em 2022 por iniciativa da *Large Carnivore Initiative for Europe* para a Convenção de Berna e da análise aprofundada do estatuto do lobo na União de 2023 constituem prova bastante para apoiar a adaptação do estatuto de proteção do lobo ao abrigo da Convenção de Berna.
+
+(9) Por conseguinte, justifica-se adaptar o nível de proteção do lobo. A espécie, atualmente enumerada do anexo II da Convenção de Berna, deverá ser objeto da proteção resultante da inclusão na lista que consta do anexo III da Convenção de Berna, em conjugação com o artigo 7.º dessa convenção.
+
+(10) A adaptação do nível de proteção do lobo aumentaria a flexibilidade para fazer face aos desafios socioeconómicos crescentes relacionados com o lobo associados à expansão contínua da área de distribuição do lobo na Europa e à sua recolonização de novos territórios.
+
+(11) Tal como previsto na Recomendação n.º 163 (2012) da Comissão Permanente da Convenção de Berna, adotada a 30 de novembro de 2012, relativa à gestão da expansão das populações de grandes carnívoros na Europa, as partes contratantes na Convenção de Berna são incentivadas a colaborar, conforme adequado, com outros Estados que partilham as mesmas populações, com o objetivo de as manter saudáveis e num estado de conservação favorável. Essa cooperação, que envolve medidas de coexistência e de proteção, continua a ser necessária e pertinente se o lobo for incluído na lista que consta do anexo III da Convenção de Berna.
+
+(12) Por conseguinte, tendo em vista a preparação da 44.ª reunião da Comissão Permanente, que terá lugar em 2024, a União deverá apresentar uma proposta de alteração dos anexos II e III da Convenção de Berna, para retirar o lobo (*Canis lupus*) do anexo II e aditá-lo à lista que consta do anexo III. A Comissão deverá comunicar essa proposta ao Secretariado da Convenção de Berna.
+
+(13) É também conveniente estabelecer a posição a tomar, em nome da União, na 44.ª reunião da Comissão Permanente, dado que quaisquer decisões de alteração dos anexos da Convenção de Berna serão vinculativas para a União.
+
+(14) A União deverá apoiar a alteração proposta no sentido de retirar o lobo (*Canis lupus*) do anexo II da Convenção de Berna e aditá-lo à lista que consta do anexo III dessa convenção,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+1. Tendo em vista a 44.ª reunião da Comissão Permanente da Convenção de Berna (a «Comissão Permanente»), a União apresenta uma proposta no sentido de retirar o lobo (*Canis lupus*) do anexo II («espécies da fauna estritamente protegidas») da Convenção de Berna e de aditá-lo ao anexo III («espécies protegidas da fauna») dessa convenção.
+
+2. A Comissão, em nome da União, comunica a proposta referida no n.º 1 ao Secretariado da Convenção de Berna.
+
+###### Artigo 2.º
+
+A posição a tomar, em nome da União, na 44.ª reunião da Comissão Permanente é a de apoiar a retirada do lobo (*Canis lupus*) do anexo II da Convenção de Berna e a sua inclusão no anexo III dessa convenção.
+
+###### Artigo 3.º
+
+Em função da evolução dos trabalhos da 44.ª reunião da Comissão Permanente, os representantes da União podem, em consulta com os Estados-Membros e no quadro de reuniões de coordenação realizadas no local, acordar em ajustar a posição a que se refere o artigo 2.º, sem necessidade de nova decisão do Conselho.
+
+###### Artigo 4.º
+
+A presente decisão entra em vigor na data da sua adoção.
+
+Feito em Bruxelas, em 26 de setembro de 2024.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**LÓGA M.**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/cf8bf91f-86a4-11ef-a67d-01aa75ed71a1.0019.03/DOC_1#ntc1-L_202402669PT.000101-E0001) [JO L 38 de 10.2.1982, p. 3](http://publications.europa.eu/resource/oj/JOL_1982_038_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/cf8bf91f-86a4-11ef-a67d-01aa75ed71a1.0019.03/DOC_1#ntc2-L_202402669PT.000101-E0002) Decisão 82/72/CEE do Conselho, de 3 de dezembro de 1981, respeitante à conclusão da Convenção relativa à Conservação da Vida Selvagem e dos Habitats Naturais da Europa ([JO L 38 de 10.2.1982, p. 1](http://publications.europa.eu/resource/oj/JOL_1982_038_R_TOC)).

@@ -1,0 +1,1129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:226235:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-106389902",
+ "dre_path": "/dr/detalhe/decreto-lei/99-2005-226235",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108283057",
+    "106389809",
+    "106389810",
+    "106389811",
+    "106389812",
+    "106389813",
+    "106389814",
+    "106389816",
+    "106389817",
+    "106389818",
+    "106389819",
+    "106389820",
+    "106389821",
+    "106389822",
+    "106389823",
+    "106389824",
+    "106389825",
+    "106389826",
+    "106389827",
+    "106389828",
+    "106389829",
+    "106389830",
+    "106389831",
+    "106389832",
+    "106389833",
+    "106389834",
+    "106389835",
+    "106389836",
+    "106389837"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:540039:por",
+     "title": "Declaração de Rectificação n.º 60/2006",
+     "published": "2006-09-08",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/60-2006-540039",
+     "date": "2005-06-26"
+    }
+   ]
+  },
+  {
+   "date": "2006-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:537251:por",
+     "title": "Decreto-Lei n.º 131/2006",
+     "published": "2006-07-11",
+     "dre_path": "/dr/detalhe/decreto-lei/131-2006-537251"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "106389808",
+    "106389809",
+    "106389810",
+    "106389811",
+    "106389812",
+    "106389813",
+    "106389814",
+    "106389815",
+    "106389816",
+    "106389817",
+    "106389818",
+    "106389819",
+    "106389820",
+    "106389821",
+    "106389822",
+    "106389823",
+    "106389824",
+    "106389825",
+    "106389826",
+    "106389827",
+    "106389828",
+    "108283033",
+    "108283034",
+    "108283035",
+    "106389831",
+    "106389832",
+    "106389833",
+    "106389834",
+    "106389835",
+    "106389836",
+    "106389837"
+   ]
+  },
+  {
+   "date": "2007-05-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:638513:por",
+     "title": "Decreto-Lei n.º 203/2007",
+     "published": "2007-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/203-2007-638513"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-B",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º-A",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "106389808",
+    "106389809",
+    "106389810",
+    "106389811",
+    "106389812",
+    "106389813",
+    "106389814",
+    "106389815",
+    "106389816",
+    "106389817",
+    "106389818",
+    "108283037",
+    "106389820",
+    "108283038",
+    "108283039",
+    "106389823",
+    "106389824",
+    "106389825",
+    "106389826",
+    "106389827",
+    "106389828",
+    "108283040",
+    "108283043",
+    "108283044",
+    "108283045",
+    "106389831",
+    "108283041",
+    "106389833",
+    "108283042",
+    "106389835",
+    "106389836",
+    "106389837"
+   ]
+  },
+  {
+   "date": "2010-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306463:por",
+     "title": "Decreto-Lei n.º 133/2010",
+     "published": "2010-12-22",
+     "dre_path": "/dr/detalhe/decreto-lei/133-2010-306463"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º-A",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "106389808",
+    "106389809",
+    "106389810",
+    "106389811",
+    "106389812",
+    "106389813",
+    "106389814",
+    "106389815",
+    "106389816",
+    "106389817",
+    "106389818",
+    "108283037",
+    "106389820",
+    "108283046",
+    "108283039",
+    "106389823",
+    "106389824",
+    "106389825",
+    "106389826",
+    "106389827",
+    "106389828",
+    "108283047",
+    "108283043",
+    "108283048",
+    "108283045",
+    "106389831",
+    "108283049",
+    "106389833",
+    "108283042",
+    "106389835",
+    "106389836",
+    "106389837"
+   ]
+  },
+  {
+   "date": "2014-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56474691:por",
+     "title": "Decreto-Lei n.º 133/2014",
+     "published": "2014-09-05",
+     "dre_path": "/dr/detalhe/decreto-lei/133-2014-56474691"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-C",
+    "Altera Artigo 8.º-A",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "106389808",
+    "106389809",
+    "106389810",
+    "106389811",
+    "106389812",
+    "106389813",
+    "106389814",
+    "106389815",
+    "106389816",
+    "106389817",
+    "106389818",
+    "108283037",
+    "106389820",
+    "108283055",
+    "108283039",
+    "106389823",
+    "106389824",
+    "106389825",
+    "106389826",
+    "106389827",
+    "106389828",
+    "108283050",
+    "108283043",
+    "108283052",
+    "108283053",
+    "108283054",
+    "106389831",
+    "108283056",
+    "106389833",
+    "108283042",
+    "106389835",
+    "106389836",
+    "106389837"
+   ]
+  },
+  {
+   "date": "2017-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108284890:por",
+     "title": "Decreto-Lei n.º 132/2017",
+     "published": "2017-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/132-2017-108284890"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "108283057",
+    "108283058",
+    "108283059",
+    "108283060",
+    "108283061",
+    "108283062",
+    "108283063",
+    "108283064",
+    "108283065",
+    "108283066",
+    "108283067",
+    "108283068",
+    "108283069",
+    "108283070",
+    "108283071",
+    "108283072",
+    "108283073",
+    "108283074",
+    "108290575",
+    "108290576",
+    "108290577",
+    "108290578",
+    "108290579",
+    "108290580",
+    "108290581",
+    "108290582",
+    "108290583",
+    "108290584",
+    "108290585",
+    "108290586",
+    "108290587",
+    "108290588",
+    "108290589"
+   ]
+  }
+ ],
+ "fragments": {
+  "108283057": {
+   "fragment_id": "106389903",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-10-12",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 99/2005\n\nde 21 de Junho\n\nA Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0053\" title=\"Link para Directiva da Comunidade Europeia\">96/53/CE</a> fixou, no âmbito da política comum dos transportes, dimensões máximas harmonizadas dos veículos rodoviários de transporte de mercadorias, sendo agora necessário harmonizar as dimensões máximas autorizadas para os veículos rodoviários de transporte de passageiros, porquanto as diferenças entre as normas em vigor nos Estados membros, no que respeita às dimensões destes veículos, podem ter efeitos desfavoráveis nas condições de concorrência e constituir um obstáculo à circulação entre os mesmos.\n\nO presente diploma transpõe para o direito interno a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0007\" title=\"Link para Directiva da Comunidade Europeia\">2002/7/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Fevereiro, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0053\" title=\"Link para Directiva da Comunidade Europeia\">96/53/CE</a>, do Conselho, de 25 de Julho, e aprova um novo regulamento que fixa os pesos e as dimensões máximos autorizados para os veículos em circulação.\n\nPelo presente diploma procede-se, ainda, à regulamentação do n.º 1 do artigo 57.º e do n.º 3 do artigo 114.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com a última redacção que lhe foi conferida pelo Decreto-Lei n.º 44/2005, de 23 de Fevereiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "106389809": {
+   "fragment_id": "106389904",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É aprovado o Regulamento Que Fixa os Pesos e as Dimensões Máximos Autorizados para os Veículos em Circulação, cujo texto constitui o anexo I ao presente diploma e dele faz parte integrante, transpondo-se para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0007\" title=\"Link para Directiva da Comunidade Europeia\">2002/7/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Fevereiro.\n\n2 - O anexo ao Regulamento ora aprovado faz dele parte integrante."
+  },
+  "106389810": {
+   "fragment_id": "106389905",
+   "type": 11,
+   "heading": "Artigo 2.º — Pesos e dimensões de veículos utilizados no transporte nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pesos e dimensões de veículos utilizados no transporte nacional\n\n1 - Os pesos brutos e as dimensões máximos dos veículos, para efeitos de circulação em território nacional, são os definidos no Regulamento anexo a que se refere o artigo 1.º, adiante designado por Regulamento.\n\n2 - A título excepcional pode ser autorizada a matrícula e a circulação de veículos com pesos ou dimensões superiores aos estabelecidos no Regulamento, nas condições estabelecidas na homologação do modelo ou na atribuição de matrícula nacional.\n\n3 - Os veículos ou conjuntos de veículos que excedam as dimensões máximas autorizadas, por transportarem ou se destinarem ao transporte de objectos indivisíveis, só podem circular mediante autorização especial ou regime não discriminatórios, nas condições estabelecidas no artigo 58.º do Código da Estrada.\n\n4 - Pode ainda ser autorizada a circulação de veículos ou de conjuntos de veículos com dimensões superiores às estabelecidas no Regulamento que efectuem operações de transporte nacional que não afectem significativamente a concorrência internacional no sector dos transportes.\n\n5 - Considera-se que as operações de transporte não afectam significativamente a concorrência internacional no sector dos transportes quando sejam efectuadas por veículos ou conjuntos de veículos especializados, em circunstâncias em que não são habitualmente efectuadas por veículos provenientes de outros Estados membros, nomeadamente as operações ligadas à exploração das florestas e à indústria florestal.\n\n6 - A Direcção-Geral de Viação pode autorizar os veículos e conjuntos de veículos que utilizem novas tecnologias ou novos conceitos que não permitam satisfazer uma ou várias das exigências constantes do Regulamento a circular em operações de transporte local durante um período de ensaio."
+  },
+  "106389811": {
+   "fragment_id": "106389906",
+   "type": 11,
+   "heading": "Artigo 3.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exclusão\n\nO Regulamento não se aplica aos veículos referidos no artigo 120.º do Código da Estrada."
+  },
+  "106389812": {
+   "fragment_id": "106389907",
+   "type": 11,
+   "heading": "Artigo 4.º — Circulação de veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Circulação de veículos\n\nOs veículos matriculados ou postos em circulação noutro Estado membro podem circular em Portugal desde que não excedam, em trânsito, os valores limite especificados nas secções II e IV do Regulamento, ainda que:\n\na) Não respeitem outras características de peso e dimensões não referidas naquelas secções;\n\nb) A autoridade competente do Estado membro no qual foram matriculados ou postos em circulação tenha autorizado limites que excedam os fixados nas mesmas secções."
+  },
+  "106389813": {
+   "fragment_id": "106389908",
+   "type": 11,
+   "heading": "Artigo 5.º — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Outras disposições\n\n1 - Os veículos referidos no artigo 1.º do Regulamento não pertencentes às categorias M(índice 1) e N(índice 1) devem possuir um dos seguintes elementos comprovativos de conformidade:\n\na) Uma combinação da placa do construtor e da placa relativa às dimensões, elaboradas e fixadas nos termos da Directiva n.º <a href=\"eurlex.asp?ano=1976&id=376L0114\" title=\"Link para Directiva da Comunidade Europeia\">76/114/CEE</a>, transposta pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção que lhe foi conferida pela Portaria n.º 1080/97, de 29 de Outubro;\n\nb) Uma placa única elaborada e fixada nos termos da citada directiva, contendo as informações das duas placas referidas na alínea anterior;\n\nc) Um documento único emitido pela autoridade competente do Estado membro onde o veículo foi registado ou posto em circulação, devendo este documento conter as mesmas rubricas e as mesmas informações que figuram nas placas referidas na alínea a), sendo guardado em lugar facilmente acessível ao controlo e suficientemente protegido.\n\n2 - Quando as características do veículo deixem de corresponder às indicadas na prova de conformidade referida no número anterior, a mesma deve ser convenientemente alterada.\n\n3 - Por despacho do director-geral de Viação são estabelecidos os procedimentos para a alteração referida no número anterior.\n\n4 - As placas e documentos referidos no n.º 1 são reconhecidos para efeitos de circulação como prova de conformidade dos veículos com a regulamentação de pesos e dimensões.\n\n5 - Os veículos que disponham de prova de conformidade podem ser sujeitos:\n\na) No que respeita aos pesos, a controlos por amostragem;\n\nb) No que respeita às dimensões, apenas a controlos em caso de suspeita de não conformidade com o Regulamento.\n\n6 - A placa de dimensões referida no n.º 1 deve obedecer às características estabelecidas no anexo II do presente diploma, que dele faz parte integrante.\n\n7 - A coluna central da prova de conformidade relativa ao peso deve indicar, se for caso disso, os valores comunitários dos pesos aplicáveis ao veículo em questão.\n\n8 - Os pesos máximos autorizados pela legislação nacional são indicados na prova de conformidade a que se refere o n.º 1 na coluna da esquerda e os pesos tecnicamente admissíveis na coluna da direita."
+  },
+  "106389814": {
+   "fragment_id": "106389909",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nSão revogadas as Portarias n.os 1092/97, 960/2000 e 1507/2001, de 3 de Novembro, de 9 de Outubro e de 13 de Setembro, respectivamente."
+  },
+  "106389816": {
+   "fragment_id": "106389911",
+   "type": 14,
+   "heading": "Anexo I — REGULAMENTO QUE FIXA OS PESOS E AS DIMENSÕES MÁXIMOS AUTORIZADOS PARA OS VEÍCULOS EM CIRCULAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — REGULAMENTO QUE FIXA OS PESOS E AS DIMENSÕES MÁXIMOS AUTORIZADOS PARA OS VEÍCULOS EM CIRCULAÇÃO"
+  },
+  "106389817": {
+   "fragment_id": "106389912",
+   "type": 8,
+   "heading": "Secção I — Âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Âmbito de aplicação e definições"
+  },
+  "106389818": {
+   "fragment_id": "106389913",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento fixa, para efeitos de circulação, os pesos e as dimensões máximos dos veículos a motor e seus reboques.\n\n2 - As disposições constantes do presente Regulamento relativas a reboques são também aplicáveis aos semi-reboques."
+  },
+  "106389819": {
+   "fragment_id": "106389914",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do disposto no presente Regulamento, entende-se por:\n\na) «Veículo a motor» qualquer veículo provido de um motor de propulsão que circule na via pública pelos seus próprios meios;\n\nb) «Veículo de transporte condicionado» qualquer veículo cujas superstruturas, fixas ou móveis, estejam especialmente equipadas para o transporte de mercadorias a uma temperatura controlada e cujas paredes laterais, incluindo o isolamento, tenham, pelo menos, 45 mm de espessura;\n\nc) «Automóvel pesado de passageiros articulado» qualquer automóvel pesado de passageiros constituído por dois segmentos rígidos permanentemente ligados por uma secção articulada, que permite a comunicação entre ambos e a livre circulação de passageiros, sendo que a junção e a disjunção das duas partes apenas podem ser realizadas numa oficina;\n\nd) «Dimensões máximas autorizadas» as dimensões máximas para a utilização de um veículo previstas na secção seguinte;\n\ne) «Tara» o peso do veículo em ordem de marcha, sem passageiros nem carga, com o líquido de arrefecimento, lubrificantes, 90% do total de combustível, 100% dos outros fluidos, excepto águas residuais, ferramentas e roda de reserva, quando esta seja obrigatória, e o condutor (75 kg), devendo ainda ser considerado, no caso dos veículos pesados de passageiros, o peso do guia (75 kg), se estiver previsto um lugar específico para o mesmo;\n\nf) «Peso bruto» o conjunto da tara e da carga que o veículo pode transportar;\n\ng) «Peso bruto por eixo» o peso resultante da distribuição do peso bruto por um eixo ou grupo de eixos;\n\nh) «Peso bruto rebocável» a capacidade máxima de carga rebocável dos veículos automóveis e tractores agrícolas;\n\ni) «Dimensões» as medidas de comprimento, largura e altura do contorno envolvente de um veículo, compreendendo todos os acessórios para os quais não esteja prevista uma excepção;\n\nj) «Lotação» o número de passageiros que o veículo pode transportar, incluindo o condutor.\n\n2 - As definições de reboque, semi-reboque, conjunto de veículos, automóvel pesado de passageiros, comboio turístico e objecto indivisível são as que constam do Código da Estrada."
+  },
+  "106389820": {
+   "fragment_id": "106389915",
+   "type": 8,
+   "heading": "Secção II — Dimensões máximas dos veículos para efeitos de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dimensões máximas dos veículos para efeitos de circulação"
+  },
+  "106389821": {
+   "fragment_id": "106389916",
+   "type": 11,
+   "heading": "Artigo 3.º — Dimensões máximas dos veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dimensões máximas dos veículos\n\n1 - As dimensões máximas dos veículos, quando em circulação, são as referidas nos números seguintes.\n\n2 - Comprimento máximo:\n\na) Veículos a motor de dois ou mais eixos (com excepção dos automóveis pesados de passageiros): 12 m;\n\nb) Reboques de um ou mais eixos: 12 m;\n\nc) Automóveis pesados de passageiros com dois eixos: 13,5 m;\n\nd) Automóveis pesados de passageiros com três ou mais eixos: 15 m;\n\ne) Automóveis pesados de passageiros articulados: 18,75 m;\n\nf) Conjunto veículo tractor-semi-reboque de três ou mais eixos: 16,5 m;\n\ng) Conjunto veículo a motor-reboque: 18,75 m;\n\nh) Comboios turísticos: 18,75 m.\n\n3 - Largura máxima dos veículos:\n\na) Qualquer veículo: 2,55 m;\n\nb) Veículos de transporte condicionado: 2,6 m.\n\n4 - A altura máxima para qualquer veículo é de 4 m.\n\n5 - Nas dimensões fixadas estão compreendidas as superstruturas amovíveis e os dispositivos de carga normalizados, como contentores.\n\n6 - Para além de outros limites legais, os semi-reboques devem respeitar ainda o seguinte:\n\na) A distância máxima entre o eixo da cavilha de engate e a retaguarda do semi-reboque é de 12 m;\n\nb) A distância medida horizontalmente entre o eixo da cavilha de engate e qualquer ponto da dianteira do semi-reboque não deve ser superior a 2,04 m.\n\n7 - Nos conjuntos de veículos formados por um automóvel de mercadorias e um reboque deve respeitar-se o seguinte:\n\na) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto, diminuída da distância entre a retaguarda do veículo a motor e a parte dianteira do reboque, é de 15,65 m;\n\nb) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto é de 16,4 m.\n\n8 - Se um automóvel pesado de passageiros tiver instalados quaisquer acessórios amovíveis, o comprimento do veículo, incluindo aqueles acessórios, não deve exceder o comprimento máximo fixado no n.º 2."
+  },
+  "106389822": {
+   "fragment_id": "106389917",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de manobrabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de manobrabilidade\n\n1 - Qualquer veículo a motor ou conjunto de veículos em movimento deve poder girar dentro de uma coroa circular com um raio exterior de 12,5 m e um raio interior de 5,3 m sem que qualquer ponto extremo do veículo ou conjunto de veículos saia da referida coroa, com excepção das partes salientes em relação à largura previstas no artigo 6.º\n\n2 - Com o veículo estacionado, define-se um plano vertical tangencial ao lado do veículo que se encontra voltado para o exterior do círculo, traçando uma linha no solo, sendo, no caso de veículo articulado, as duas secções rígidas alinhadas pelo plano.\n\n3 - Quando, a partir de uma aproximação em linha recta, o veículo referido no número anterior entra na área circular descrita no n.º 1, nenhum dos seus elementos pode ultrapassar o plano vertical em mais de 0,6 m."
+  },
+  "106389823": {
+   "fragment_id": "106389918",
+   "type": 8,
+   "heading": "Secção III — Dispositivos não tomados em consideração na medição das dimensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Dispositivos não tomados em consideração na medição das dimensões"
+  },
+  "106389824": {
+   "fragment_id": "106389919",
+   "type": 11,
+   "heading": "Artigo 5.º — Dispositivos não tomados em consideração na medição do comprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dispositivos não tomados em consideração na medição do comprimento\n\nNa medição do comprimento dos veículos não são tomados em consideração os seguintes dispositivos:\n\na) Limpa-pára-brisas e dispositivos de lavagem do pára-brisas;\n\nb) Chapas de matrícula à frente e à retaguarda;\n\nc) Dispositivos de selagem aduaneira e sua protecção;\n\nd) Dispositivos de fixação dos oleados das coberturas das caixas e sua protecção;\n\ne) Luzes;\n\nf) Espelhos retrovisores ou outros dispositivos auxiliares de visão para a retaguarda;\n\ng) Tubos de admissão de ar;\n\nh) Batentes para caixas amovíveis;\n\ni) Degraus e estribos de acesso;\n\nj) Borrachas;\n\nl) Plataformas elevatórias, rampas de acesso e outros equipamentos semelhantes, em ordem de marcha, desde que não constituam saliência superior a 200 mm;\n\nm) Dispositivos de engate do veículo a motor."
+  },
+  "106389825": {
+   "fragment_id": "106389920",
+   "type": 11,
+   "heading": "Artigo 6.º — Dispositivos não tomados em consideração na medição da largura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dispositivos não tomados em consideração na medição da largura\n\nNa medição da largura dos veículos não são tomados em consideração os seguintes dispositivos:\n\na) Luzes;\n\nb) Dispositivos de selagem aduaneira e sua protecção;\n\nc) Dispositivos de fixação de oleados e sua protecção;\n\nd) Dispositivos de controlo da pressão dos pneus;\n\ne) Elementos flexíveis dos sistemas antiprojecção;\n\nf) Espelhos retrovisores;\n\ng) Degraus e estribos retrácteis;\n\nh) Partes deflectidas das paredes laterais dos pneus imediatamente acima do ponto de contacto com o solo;\n\ni) Nos veículos das categorias europeias M(índice 2) e M(índice 3), rampas de acesso em ordem de marcha, plataformas de elevação e outro equipamento semelhante que não ultrapasse 10 mm em relação à face lateral do veículo, desde que os cantos posteriores e anteriores das rampas se apresentem arredondados com um raio não inferior a 5 mm e as arestas sejam boleadas com um raio não inferior a 2,5 mm."
+  },
+  "106389826": {
+   "fragment_id": "106389921",
+   "type": 11,
+   "heading": "Artigo 7.º — Dispositivos não tomados em consideração na medição da altura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dispositivos não tomados em consideração na medição da altura\n\nNa medição da altura dos veículos não são tomados em consideração as antenas de comunicação e os pantógrafos na sua posição mais elevada."
+  },
+  "106389827": {
+   "fragment_id": "106389922",
+   "type": 8,
+   "heading": "Secção IV — Pesos brutos máximos dos veículos para efeitos de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Pesos brutos máximos dos veículos para efeitos de circulação"
+  },
+  "106389828": {
+   "fragment_id": "106389923",
+   "type": 11,
+   "heading": "Artigo 8.º — Peso bruto máximo dos veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Peso bruto máximo dos veículos\n\n1 - Os pesos brutos máximos dos veículos fixados, quando em circulação, são os referidos nos números seguintes.\n\n2 - Peso bruto máximo para veículos de:\n\na) Dois eixos: 19 t;\n\nb) Três eixos: 26 t;\n\nc) Quatro ou mais eixos: 32 t.\n\n3 - Peso bruto máximo para conjunto veículo tractor-semi-reboque de:\n\na) Três eixos: 29 t;\n\nb) Quatro eixos: 38 t;\n\nc) Cinco ou mais eixos: 40 t;\n\nd) Cinco ou mais eixos transportando dois contentores ISO de 20', ou um contentor ISO de 40': 44 t.\n\n4 - Peso bruto máximo para automóvel pesado de passageiros articulado de:\n\na) Três eixos: 28 t;\n\nb) Quatro ou mais eixos: 32 t.\n\n5 - Peso bruto máximo para conjunto veículo a motor-reboque de:\n\na) Três eixos: 29 t;\n\nb) Quatro eixos: 37 t;\n\nc) Cinco ou mais eixos: 40 t;\n\nd) Cinco ou mais eixos transportando dois contentores ISO de 20': 44 t.\n\n6 - Peso bruto máximo para reboques de:\n\na) Um eixo: 10 t;\n\nb) Dois eixos: 18 t;\n\nc) Três ou mais eixos: 24 t.\n\n7 - Com excepção dos reboques agrícolas, o peso bruto do reboque não pode ser superior a uma vez e meia o peso bruto do veículo tractor."
+  },
+  "106389829": {
+   "fragment_id": "106389924",
+   "type": 11,
+   "heading": "Artigo 9.º — Peso bruto máximo por eixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Peso bruto máximo por eixo\n\n1 - Os pesos brutos máximos por eixo dos veículos, quando em circulação, são os referidos nos números seguintes.\n\n2 - Pesos brutos máximos de um eixo simples:\n\na) Frente (automóveis): 7,5 t;\n\nb) Não motor: 10 t;\n\nc) Motor: 12 t.\n\n3 - No eixo duplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre eixos (d) da seguinte forma:\n\na) Se d for inferior a 1 m: 12 t;\n\nb) Se d for de 1 m a 1,29 m: 17 t;\n\nc) Se d for de 1,3 m a 1,79 m: 19 t;\n\nd) Se d for igual ou superior a 1,8 m: 20 t.\n\n4 - No eixo triplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre os dois eixos extremos (D) da seguinte forma:\n\na) Se D for inferior a 2,6 m: 21 t;\n\nb) Se D for igual ou superior a 2,6 m: 24 t."
+  },
+  "106389830": {
+   "fragment_id": "106389925",
+   "type": 11,
+   "heading": "Artigo 10.º — Peso bruto rebocável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Peso bruto rebocável\n\n1 - O peso bruto rebocável dos automóveis, quando em circulação, deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) Metade da tara do automóvel, não podendo exceder 750 kg nos veículos destinados a atrelar reboques sem travão de serviço;\n\nc) O valor do peso bruto do automóvel, nos veículos com peso bruto inferior ou igual a 3500 kg destinados a atrelar reboques equipados com travões de serviço;\n\nd) Uma vez e meia o peso bruto do automóvel, não podendo exceder 3500 kg, nos veículos «fora de estrada»;\n\ne) 3500 kg nos veículos com peso bruto superior a 3500 kg destinados a atrelar reboques equipados com travões de serviço de inércia;\n\nf) Uma vez e meia o peso bruto do automóvel, nos veículos com um peso bruto superior a 3500 kg destinados a atrelar reboques com sistema de travagem contínua.\n\n2 - O peso bruto rebocável dos tractores agrícolas deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) 750 kg, nos veículos destinados a atrelar apenas reboques sem travão de serviço;\n\nc) Três vezes o peso bruto do tractor, não podendo exceder 3500 kg, nos veículos destinados a atrelar apenas reboques equipados com travões de serviço de inércia;\n\nd) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem mecânico destinados a atrelar reboques equipados com travões de serviço de travagem contínua;\n\ne) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem mecânica;\n\nf) Seis vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem hidráulica ou pneumática.\n\n3 - Nos conjuntos formados por um veículo a motor e um reboque ou semi-reboque, o peso bruto máximo do reboque ou do semi-reboque pode ser um dos seguintes valores:\n\na) O constante no documento de identificação do reboque, se esse valor for menor ou igual ao peso bruto rebocável constante no documento de identificação do veículo tractor;\n\nb) O valor do peso bruto rebocável do veículo tractor, se o peso bruto constante no documento de identificação do reboque exceder aquele valor."
+  },
+  "106389831": {
+   "fragment_id": "106389926",
+   "type": 8,
+   "heading": "Secção V — Outras características relativas a dimensões e pesos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Outras características relativas a dimensões e pesos"
+  },
+  "106389832": {
+   "fragment_id": "106389927",
+   "type": 11,
+   "heading": "Artigo 11.º — Outras características relativas a dimensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Outras características relativas a dimensões\n\n1 - Nos conjuntos veículo a motor-reboque, com excepção dos formados por veículos a motor das categorias europeias M(índice 1) ou N(índice 1) ou tractores agrícolas, ou que incluam reboques das categorias europeias O(índice 1) ou O(índice 2), a distância entre o eixo da retaguarda do veículo a motor e o eixo da frente do reboque não deve ser inferior a 3 m.\n\n2 - As caixas dos veículos a motor e seus reboques não podem prejudicar as suas condições de equilíbrio e estabilidade e:\n\na) Nos automóveis pesados, a linha vertical que passa pelo centro de gravidade resultante da caixa, carga e passageiros deve estar situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5% da distância entre eixos;\n\nb) Nos automóveis ligeiros, basta que a linha referida na alínea anterior não fique situada atrás do eixo da retaguarda.\n\n3 - As caixas dos automóveis de mercadorias e dos pesados de passageiros só podem prolongar-se além do eixo da retaguarda até uma distância igual a dois terços da distância entre eixos, podendo, nos automóveis equipados com caixas especiais e mediante autorização da Direcção-Geral de Viação, o mesmo limite ser excedido, sem prejuízo do disposto no número anterior.\n\n4 - Nos automóveis equipados com caixas especiais, nenhuma parte do veículo pode passar além de um plano vertical paralelo à face lateral do mesmo e distando desta 1200 mm quando o veículo descreve uma curva com o ângulo de viragem máximo das rodas directrizes.\n\n5 - Por despacho do director-geral de Viação são fixados os valores máximos que as caixas podem exceder relativamente à largura dos rodados mais largos.\n\n6 - Todos os acessórios móveis devem ser fixados de forma a evitar que, em caso de oscilação, passem além do contorno envolvente dos veículos.\n\n7 - Os cubos das rodas e as lanternas dos veículos de tracção animal podem sobressair até ao limite de 200 mm sobre cada uma das faces laterais."
+  },
+  "106389833": {
+   "fragment_id": "106389928",
+   "type": 11,
+   "heading": "Artigo 12.º — Outras características relativas a pesos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Outras características relativas a pesos\n\n1 - O peso bruto no eixo ou eixos motores de um veículo ou conjunto de veículos não pode ser inferior a 25% do peso bruto do veículo ou conjunto de veículos.\n\n2 - O peso bruto que incide sobre o eixo da frente não pode ser inferior a 20% ou 15% do peso bruto total, conforme se trate, respectivamente, de veículos de um ou mais eixos à retaguarda.\n\n3 - O valor do peso bruto máximo, em toneladas, de um veículo a motor de quatro eixos não pode exceder cinco vezes o valor da distância, em metros, entre os eixos extremos do veículo, excepto no caso dos veículos com caixa aberta ou betoneira.\n\n4 - Nos veículos ligeiros de mercadorias com quadro-cabina separados, após carroçamento, a carga útil não pode ser inferior a 10% do peso bruto."
+  },
+  "106389834": {
+   "fragment_id": "106389929",
+   "type": 11,
+   "heading": "Artigo 13.º — Lotação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Lotação\n\n1 - A lotação dos automóveis ligeiros de passageiros e dos automóveis de mercadorias é fixada de modo a garantir para cada passageiro uma largura mínima de banco de 400 mm.\n\n2 - Sem prejuízo do disposto no número anterior, nos bancos da frente só são permitidos dois lugares ao lado do condutor se o plano que passa pelo eixo do volante de direcção, paralelamente ao plano horizontal do veículo, distar, pelo menos, 1000 mm da porta mais afastada, medidos a meia altura das costas do banco.\n\n3 - Os lugares dos passageiros devem distribuir-se no interior dos veículos de forma a assegurar a maior estabilidade e de modo que a resultante das forças representadas pelo peso dos passageiros fique situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5% da distância entre eixos.\n\n4 - Sem prejuízo das disposições específicas aplicáveis a veículos pesados de passageiros, é atribuído a cada lugar o peso de 75 kg."
+  },
+  "106389835": {
+   "fragment_id": "106389930",
+   "type": 11,
+   "heading": "Artigo 14.º — Equivalência entre suspensões não pneumáticas e pneumáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Equivalência entre suspensões não pneumáticas e pneumáticas\n\nAs condições relativas à equivalência entre certas suspensões não pneumáticas e as suspensões pneumáticas do eixo motor ou dos eixos motores do veículo constam do anexo ao presente Regulamento."
+  },
+  "106389836": {
+   "fragment_id": "106389931",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nCondições relativas à equivalência entre certas suspensões não pneumáticas e as suspensões pneumáticas do eixo motor ou dos eixos motores do veículo.\n\n1 - Definição de suspensão pneumática. - Considera-se pneumático um sistema de suspensão em que, pelo menos, 75% do efeito de mola seja causado por um dispositivo pneumático.\n\n2 - Equivalência. - Para ser reconhecida como suspensão equivalente à suspensão pneumática, uma suspensão deve satisfazer os seguintes requisitos:\n\n2.1 - Durante a oscilação vertical transitória livre de baixa frequência da massa suspensa por cima do eixo motor ou do bogie, a frequência e o amortecimento medidos com a suspensão suportando o seu peso máximo devem situar-se dentro dos limites definidos nos n.os 2.2 a 2.5 infra;\n\n2.2 - Cada eixo deve estar equipado com amortecedores hidráulicos. Nos eixos duplos, os amortecedores hidráulicos devem ser colocados de modo a reduzir ao mínimo a oscilação do bogie;\n\n2.3 - Numa suspensão equipada com amortecedores hidráulicos e em condições de funcionamento normais, a razão média de amortecimento D deve ser superior a 20% do amortecimento crítico;\n\n2.4 - A razão máxima de amortecimento da suspensão com todos os amortecedores hidráulicos removidos ou com funcionamento bloqueado não deve ser superior a 50% da razão média de amortecimento D;\n\n2.5 - A frequência máxima da massa suspensa por cima do eixo motor ou do bogie em oscilação vertical transitória livre não deve exceder 2 Hz;\n\n2.6 - A frequência e o amortecimento da suspensão estão definidos no n.º 3 e os procedimentos de ensaio para medir a frequência e o amortecimento estão descritos no n.º 4.\n\n3 - Definição da frequência e do amortecimento. - Na presente definição, considera-se uma massa suspensa M (kg) por cima do eixo motor ou do bogie; o eixo ou o bogie têm uma rigidez vertical total entre a superfície da estrada e a massa suspensa de K Newtons por metro (N/m) e um coeficiente de amortecimento total de C Newtons por metro por segundo (N/ms), sendo Z igual ao deslocamento vertical da massa suspensa. A equação do movimento da oscilação livre da massa suspensa é:\n\nM (d(elevado a 2)Z/dt(elevado a 2)) + C (dZ/dt) + kZ = 0\n\nA frequência da oscilação da massa suspensa F (rad/sec) é:\n\n(ver fórmula no documento original)\n\nO amortecimento é crítico se C = C(índice o), sendo:\n\n(ver fórmula no documento original)\n\nA razão de amortecimento como fracção do amortecimento crítico é C/C(índice 0).\n\nDurante a oscilação transitória livre da massa suspensa o movimento vertical segue uma trajectória sinusoidal amortecida (figura n.º 2). Pode calcular-se a frequência através da medição do tempo nos ciclos de oscilação observáveis. Pode calcular-se o amortecimento através da medição da altura dos picos sucessivos da oscilação na mesma direcção. Sendo A(índice 1) e A(índice 2) as amplitudes de pico do primeiro e segundo ciclos, a razão de amortecimento D é:\n\nD = (C/C(índice 0) = 1/2(pi)).ln (A(índice 1)/A(índice 2))\n\nsendo ln o logaritmo natural do coeficiente da amplitude.\n\n4 - Procedimento de ensaio. - Para medir, nos ensaios, a razão de amortecimento D, a razão de amortecimento com os amortecedores hidráulicos removidos e a frequência F da suspensão, o veículo em carga deve ser:\n\na) Conduzido a baixa velocidade (5 km/h (mais ou menos) 1 km/h) num degrau de 80 mm com o perfil indicado na figura n.º 1. A oscilação transitória a analisar em termos de frequência e amortecimento ocorre depois de as rodas do eixo motor terem passado pelo degrau; ou\n\nb) Abaixado pelo quadro de forma que a carga do eixo motor seja 1,5 vezes o seu valor estático máximo. Depois de ter sido mantido abaixado, o veículo é libertado bruscamente, sendo analisada a oscilação subsequente; ou\n\nc) Levantado pelo quadro de modo que a massa suspensa se encontre a 80 mm acima do eixo motor. O veículo levantado é deixado cair bruscamente, sendo analisada a oscilação subsequente; ou\n\nd) Submetido a outros procedimentos na medida em que a sua equivalência tenha sido demonstrada pelo construtor a contento do serviço técnico.\n\nDeve ser instalado no veículo um transdutor de deslocamento vertical entre o eixo motor e o quadro, directamente acima do eixo motor. No traçado pode ser medido, por um lado, o intervalo de tempo entre o primeiro e o segundo pico de compressão de modo a obter a frequência F e, por outro, a razão de amplitude para obter o amortecimento. Para os eixos motores duplos, devem ser instalados transdutores entre cada eixo motor e o quadro que se encontra imediatamente por cima.\n\n(ver figura no documento original)\n\nFig. 1 - Degrau para os ensaios de suspensão\n\n(ver figura no documento original)\n\nFig. 2 - Resposta transitória amortecida"
+  },
+  "106389837": {
+   "fragment_id": "106389932",
+   "type": 14,
+   "heading": "Anexo II — Placa de dimensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Placa de dimensões\n\nI - Na placa de dimensões, fixada, se possível, ao lado da placa referida na Directiva n.º <a href=\"eurlex.asp?ano=1976&id=376L0114\" title=\"Link para Directiva da Comunidade Europeia\">76/114/CEE</a>, devem figurar as seguintes indicações:\n\n1) Nome do construtor (ver nota 1);\n\n2) Número de identificação do veículo (ver nota 1);\n\n(nota 1) Estas indicações não devem ser repetidas quando o veículo possuir uma placa única com os dados referentes aos pesos e às dimensões.\n\n3) Comprimento (L) do veículo a motor, do reboque ou do semi-reboque;\n\n4) Largura (W) do veículo a motor, do reboque ou do semi-reboque;\n\n5) Dados para a medição do comprimento dos conjuntos de veículos:\n\nA distância (a) entre a dianteira do veículo a motor e o centro do seu dispositivo de engate (gancho ou prato de engate); tratando-se de um prato de engate com vários pontos de engate, é necessário indicar os valores mínimo e máximo (a(índice min) e a(índice max));\n\nA distância (b) entre o centro do dispositivo de engate do reboque (olhal) ou do semi-reboque (cabeçote de engate) e a traseira do reboque ou do semi-reboque; tratando-se de um dispositivo com vários pontos de engate, é necessário indicar os valores mínimo e máximo (b(índice min) e b(índice max)).\n\nO comprimento de um conjunto de veículos é o comprimento medido com o veículo a motor e o reboque ou semi-reboque alinhados um atrás do outro.\n\nII - Os valores inscritos na prova de conformidade devem corresponder exactamente às medições efectuadas directamente no veículo."
+  },
+  "106389808": {
+   "fragment_id": "106389903",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 99/2005\n\nde 21 de Junho\n\nA Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0053\" title=\"Link para Directiva da Comunidade Europeia\">96/53/CE</a> fixou, no âmbito da política comum dos transportes, dimensões máximas harmonizadas dos veículos rodoviários de transporte de mercadorias, sendo agora necessário harmonizar as dimensões máximas autorizadas para os veículos rodoviários de transporte de passageiros, porquanto as diferenças entre as normas em vigor nos Estados membros, no que respeita às dimensões destes veículos, podem ter efeitos desfavoráveis nas condições de concorrência e constituir um obstáculo à circulação entre os mesmos.\n\nO presente diploma transpõe para o direito interno a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0007\" title=\"Link para Directiva da Comunidade Europeia\">2002/7/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Fevereiro, que altera a Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0053\" title=\"Link para Directiva da Comunidade Europeia\">96/53/CE</a>, do Conselho, de 25 de Julho, e aprova um novo regulamento que fixa os pesos e as dimensões máximos autorizados para os veículos em circulação.\n\nPelo presente diploma procede-se, ainda, à regulamentação do n.º 1 do artigo 57.º e do n.º 3 do artigo 114.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com a última redacção que lhe foi conferida pelo Decreto-Lei n.º 44/2005, de 23 de Fevereiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "106389815": {
+   "fragment_id": "106389910",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Alberto Bernardes Costa.\n\nPromulgado em 30 de Maio de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Junho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "108283033": {
+   "fragment_id": "108287916",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Transporte de material lenhoso",
+   "in_force_from": "2006-07-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 8.º-A — Transporte de material lenhoso\n\n1 - Os veículos a motor-reboque com cinco ou mais eixos que efectuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira e similares, podem circular com um peso bruto máximo de 60 t desde que estejam tecnicamente preparados para o efeito, devendo no respectivo livrete estar fixado este valor.\n\n2 - Os proprietários dos veículos que estejam tecnicamente preparados para o transporte referido no número anterior mas não conste do respectivo livrete este valor de peso bruto devem requerer a sua alteração.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108283034": {
+   "fragment_id": "106389924",
+   "type": 11,
+   "heading": "Artigo 9.º — Peso bruto máximo por eixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Peso bruto máximo por eixo\n\n1 - Os pesos brutos máximos por eixo dos veículos, quando em circulação, são os referidos nos números seguintes.\n\n2 - Pesos brutos máximos de um eixo simples:\n\na) Frente (automóveis): 7,5 t;\n\nb) Não motor: 10 t;\n\nc) Motor: 12 t.\n\n3 - No eixo duplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre eixos (d) da seguinte forma:\n\na) Se d for inferior a 1 m: 12 t;\n\nb) Se d for de 1 m a 1,29 m: 17 t;\n\nc) Se d for de 1,3 m a 1,79 m: 19 t;\n\nd) Se d for igual ou superior a 1,8 m: 20 t.\n\n4 - No eixo triplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre os dois eixos extremos (D) da seguinte forma:\n\na) Se D for inferior a 2,6 m: 21 t;\n\nb) Se D for igual ou superior a 2,6 m: 24 t."
+  },
+  "108283035": {
+   "fragment_id": "106389925",
+   "type": 11,
+   "heading": "Artigo 10.º — Peso bruto rebocável",
+   "in_force_from": "2006-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 10.º — Peso bruto rebocável\n\n1 - O peso bruto rebocável dos automóveis, quando em circulação, deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) Metade da tara do automóvel, não podendo exceder 750 kg nos veículos destinados a atrelar reboques sem travão de serviço;\n\nc) O valor do peso bruto do automóvel, nos veículos com peso bruto inferior ou igual a 35 kg destinados a puxar reboques equipados com travões de serviço, e uma vez e meia o peso bruto do automóvel, não podendo exceder 3500 kg, no caso dos veículos 'fora de estrada';\n\nd) 3500 kg nos veículos com peso bruto superior a 3500 kg destinados a atrelar reboques equipados com travões de serviço de inércia;\n\ne) Uma vez e meia o peso bruto do automóvel, nos veículos com um peso bruto superior a 3500 kg destinados a atrelar reboques com sistema de travagem contínua.\n\n2 - O peso bruto rebocável dos tractores agrícolas deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) 750 kg, nos veículos destinados a atrelar apenas reboques sem travão de serviço;\n\nc) Três vezes o peso bruto do tractor, não podendo exceder 3500 kg, nos veículos destinados a atrelar apenas reboques equipados com travões de serviço de inércia;\n\nd) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem mecânico destinados a atrelar reboques equipados com travões de serviço de travagem contínua;\n\ne) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem mecânica;\n\nf) Seis vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem hidráulica ou pneumática.\n\n3 - Nos conjuntos formados por um veículo a motor e um reboque ou semi-reboque, o peso bruto máximo do reboque ou do semi-reboque pode ser um dos seguintes valores:\n\na) O constante no documento de identificação do reboque, se esse valor for menor ou igual ao peso bruto rebocável constante no documento de identificação do veículo tractor;\n\nb) O valor do peso bruto rebocável do veículo tractor, se o peso bruto constante no documento de identificação do reboque exceder aquele valor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108283037": {
+   "fragment_id": "106389914",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2007-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do disposto no presente Regulamento, entende-se por:\n\na) «Veículo a motor» qualquer veículo provido de um motor de propulsão que circule na via pública pelos seus próprios meios;\n\nb) 'Veículo de transporte condicionado' qualquer veículo cujas superstruturas, fixas ou móveis, estejam especialmente equipadas para o transporte de mercadorias a uma temperatura controlada e cujas paredes laterais, incluindo o isolamento, tenham, pelo menos, 45 mm de espessura;\n\nc) «Automóvel pesado de passageiros articulado» qualquer automóvel pesado de passageiros constituído por dois segmentos rígidos permanentemente ligados por uma secção articulada, que permite a comunicação entre ambos e a livre circulação de passageiros, sendo que a junção e a disjunção das duas partes apenas podem ser realizadas numa oficina;\n\nd) «Dimensões máximas autorizadas» as dimensões máximas para a utilização de um veículo previstas na secção seguinte;\n\ne) 'Tara' o peso do veículo em ordem de marcha, sem passageiros nem carga, com o líquido de arrefecimento, lubrificantes, 90% do total de combustível, 100% dos outros fluidos, excepto águas residuais, ferramentas e roda de reserva, quando esta seja obrigatória e, com excepção dos ciclomotores, motociclos, triciclos e quadriciclos, o condutor (75 kg), devendo ainda ser considerado, no caso dos veículos pesados de passageiros, o peso do guia (75 kg), se estiver previsto um lugar específico para o mesmo;\n\nf) «Peso bruto» o conjunto da tara e da carga que o veículo pode transportar;\n\ng) «Peso bruto por eixo» o peso resultante da distribuição do peso bruto por um eixo ou grupo de eixos;\n\nh) 'Peso bruto rebocável' a capacidade máxima de carga rebocável dos veículos a motor e tractores agrícolas;\n\ni) «Dimensões» as medidas de comprimento, largura e altura do contorno envolvente de um veículo, compreendendo todos os acessórios para os quais não esteja prevista uma excepção;\n\nj) «Lotação» o número de passageiros que o veículo pode transportar, incluindo o condutor.\n\nl) 'Dolly' dispositivo equipado com um sistema mecânico de engate destinado a converter um semi-reboque num reboque.\n\n2 - As definições de reboque, semi-reboque, conjunto de veículos, automóvel pesado de passageiros, comboio turístico e objecto indivisível são as que constam do Código da Estrada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283038": {
+   "fragment_id": "106389916",
+   "type": 11,
+   "heading": "Artigo 3.º — Dimensões máximas dos veículos",
+   "in_force_from": "2007-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 3.º — Dimensões máximas dos veículos\n\n1 - As dimensões máximas dos veículos, quando em circulação, são as referidas nos números seguintes.\n\n2 - Comprimento máximo:\n\na) Veículos a motor de dois ou mais eixos (com excepção dos automóveis pesados de passageiros): 12 m;\n\nb) Reboques de um ou mais eixos: 12 m;\n\nc) Automóveis pesados de passageiros com dois eixos: 13,5 m;\n\nd) Automóveis pesados de passageiros com três ou mais eixos: 15 m;\n\ne) Automóveis pesados de passageiros articulados: 18,75 m;\n\nf) Conjunto veículo tractor-semi-reboque de três ou mais eixos: 16,5 m;\n\ng) Conjunto veículo a motor-reboque: 18,75 m;\n\nh) Comboios turísticos: 18,75 m.\n\ni) Máquinas com motor de propulsão ou rebocáveis - 20 m.\n\n3 - Largura máxima dos veículos:\n\na) Qualquer veículo: 2,55 m;\n\nb) Veículos de transporte condicionado: 2,6 m.\n\nc) Máquinas com motor de propulsão ou rebocáveis - 3 m.\n\n4 - Altura máxima dos veículos:\n\na) Veículos a motor e seus reboques - 4 m;\n\nb) Máquinas com motor ou rebocáveis - 4,5 m.\n\n5 - Nas dimensões fixadas estão compreendidas as superstruturas amovíveis e os dispositivos de carga normalizados, como contentores.\n\n6 - Para além de outros limites legais, os semi-reboques devem respeitar ainda o seguinte:\n\na) A distância máxima entre o eixo da cavilha de engate e a retaguarda do semi-reboque é de 12 m;\n\nb) A distância medida horizontalmente entre o eixo da cavilha de engate e qualquer ponto da dianteira do semi-reboque não deve ser superior a 2,04 m.\n\n7 - Nos conjuntos de veículos formados por um automóvel de mercadorias e um reboque deve respeitar-se o seguinte:\n\na) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto, diminuída da distância entre a retaguarda do veículo a motor e a parte dianteira do reboque, é de 15,65 m;\n\nb) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto é de 16,4 m.\n\n8 - Se um automóvel pesado de passageiros tiver instalados quaisquer acessórios amovíveis, o comprimento do veículo, incluindo aqueles acessórios, não deve exceder o comprimento máximo fixado no n.º 2.\n\n9 - É admitida a circulação de conjuntos formados por um automóvel de mercadorias e um semi-reboque, adaptado por construção ao transporte de material lenhoso, ligados através de um elemento rebocado (dolly), devendo respeitar-se o seguinte:\n\na) Comprimento máximo do conjunto - 25,25 m;\n\nb) As dimensões máximas do veículo a motor e do semi-reboque considerados individualmente não podem exceder o fixado no presente artigo.\n\n10 - Os conjuntos a que se refere o número anterior devem obrigatoriamente dispor de sistemas de travagem ABS, conforme o disposto no Regulamento da Homologação do Sistema de Travagem dos Automóveis e Seus Reboques, aprovado pelo Decreto-Lei n.º 195/2000, de 22 de Agosto, com a alteração conferida pelo Decreto-Lei n.º 72-E/2003, de 14 de Abril.\n\n11 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e dos transportes pode ser restringida a circulação dos conjuntos a que se refere o número anterior nas vias em que devido ao seu traçado a circulação destes conjuntos não se mostre adequada, bem como nos períodos de maior intensidade de trânsito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283039": {
+   "fragment_id": "106389917",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de manobrabilidade",
+   "in_force_from": "2007-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de manobrabilidade\n\n1 - Qualquer veículo a motor ou conjunto de veículos em movimento deve poder girar dentro de uma coroa circular com um raio exterior de 12,5 m e um raio interior de 5,3 m sem que qualquer ponto extremo do veículo ou conjunto de veículos saia da referida coroa, com excepção das partes salientes em relação à largura previstas no artigo 6.º\n\n2 - Com o veículo estacionado, define-se um plano vertical tangencial ao lado do veículo que se encontra voltado para o exterior do círculo, traçando uma linha no solo, sendo, no caso de veículo articulado, as duas secções rígidas alinhadas pelo plano.\n\n3 - Quando, a partir de uma aproximação em linha recta, o veículo referido no número anterior entra na área circular descrita no n.º 1, nenhum dos seus elementos pode ultrapassar o plano vertical em mais de 0,6 m.\n\n4 - O raio interior previsto no n.º 1 deve ser de 2 m no caso dos conjuntos a que se refere o n.º 9 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283040": {
+   "fragment_id": "108287916",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Transporte de material lenhoso",
+   "in_force_from": "2007-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 8.º-A — Transporte de material lenhoso\n\n1 - Os veículos a motor-reboque com cinco ou mais eixos que efectuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira e similares, podem circular com um peso bruto máximo de 60 t desde que estejam tecnicamente preparados para o efeito, devendo no respectivo certificado de matrícula estar fixado este valor.\n\n2 - Os proprietários dos veículos que estejam tecnicamente preparados para o transporte referido no número anterior mas não conste do respectivo certificado de matrícula este valor de peso bruto devem requerer a sua alteração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108283043": {
+   "fragment_id": "108287918",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Peso bruto máximo das máquinas",
+   "in_force_from": "2007-05-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 8.º-B — Peso bruto máximo das máquinas\n\n1 - O peso bruto máximo das máquinas com motor ou rebocáveis ou seus conjuntos, quando em circulação, é de 60 t.\n\n2 - Os pesos máximos por eixo das máquinas são os estabelecidos no artigo seguinte.\n\n3 - O peso bruto de uma máquina rebocada não pode ser superior a uma vez e meia o peso bruto do veículo tractor.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283044": {
+   "fragment_id": "106389924",
+   "type": 11,
+   "heading": "Artigo 9.º — Peso bruto máximo por eixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Peso bruto máximo por eixo\n\n1 - Os pesos brutos máximos por eixo dos veículos, quando em circulação, são os referidos nos números seguintes.\n\n2 - Pesos brutos máximos de um eixo simples:\n\na) Frente (automóveis): 7,5 t;\n\nb) Não motor: 10 t;\n\nc) Motor: 12 t.\n\n3 - No eixo duplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre eixos (d) da seguinte forma:\n\na) Se d for inferior a 1 m: 12 t;\n\nb) Se d for de 1 m a 1,29 m: 17 t;\n\nc) Se d for de 1,3 m a 1,79 m: 19 t;\n\nd) Se d for igual ou superior a 1,8 m: 20 t.\n\n4 - No eixo triplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre os dois eixos extremos (D) da seguinte forma:\n\na) Se D for inferior a 2,6 m: 21 t;\n\nb) Se D for igual ou superior a 2,6 m: 24 t."
+  },
+  "108283045": {
+   "fragment_id": "106389925",
+   "type": 11,
+   "heading": "Artigo 10.º — Peso bruto rebocável",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 60/2006 - Diário da República n.º 174/2006, Série I de 2006-09-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2006-540039), em vigor a partir de 2005-06-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 10.º — Peso bruto rebocável\n\n1 - O peso bruto rebocável dos automóveis, quando em circulação, deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) Metade da tara do automóvel, não podendo exceder 750 kg nos veículos destinados a atrelar reboques sem travão de serviço;\n\nc) O valor do peso bruto do automóvel, nos veículos com peso bruto inferior ou igual a 3500 kg destinados a puxar reboques equipados com travões de serviço, e uma vez e meia o peso bruto do automóvel, não podendo exceder 3500 kg, no caso dos veículos 'fora de estrada';\n\nd) 3500 kg nos veículos com peso bruto superior a 3500 kg destinados a atrelar reboques equipados com travões de serviço de inércia;\n\ne) Uma vez e meia o peso bruto do automóvel, nos veículos com um peso bruto superior a 3500 kg destinados a atrelar reboques com sistema de travagem contínua.\n\n2 - O peso bruto rebocável dos tractores agrícolas deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) 750 kg, nos veículos destinados a atrelar apenas reboques sem travão de serviço;\n\nc) Três vezes o peso bruto do tractor, não podendo exceder 3500 kg, nos veículos destinados a atrelar apenas reboques equipados com travões de serviço de inércia;\n\nd) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem mecânico destinados a atrelar reboques equipados com travões de serviço de travagem contínua;\n\ne) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem mecânica;\n\nf) Seis vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem hidráulica ou pneumática.\n\n3 - Nos conjuntos formados por um veículo a motor e um reboque ou semi-reboque, o peso bruto máximo do reboque ou do semi-reboque pode ser um dos seguintes valores:\n\na) O constante no documento de identificação do reboque, se esse valor for menor ou igual ao peso bruto rebocável constante no documento de identificação do veículo tractor;\n\nb) O valor do peso bruto rebocável do veículo tractor, se o peso bruto constante no documento de identificação do reboque exceder aquele valor.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 60/2006 - Diário da República n.º 174/2006, Série I de 2006-09-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2006-540039), em vigor a partir de 2005-06-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108283041": {
+   "fragment_id": "106389927",
+   "type": 11,
+   "heading": "Artigo 11.º — Outras características relativas a dimensões",
+   "in_force_from": "2007-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 11.º — Outras características relativas a dimensões\n\n1 - Nos conjuntos veículo a motor-reboque, com excepção dos formados por veículos a motor das categorias europeias M(índice 1) ou N(índice 1) ou tractores agrícolas, ou que incluam reboques das categorias europeias O(índice 1) ou O(índice 2), a distância entre o eixo da retaguarda do veículo a motor e o eixo da frente do reboque não deve ser inferior a 3 m.\n\n2 - As caixas dos veículos a motor e seus reboques não podem prejudicar as suas condições de equilíbrio e estabilidade e:\n\na) Nos automóveis pesados, a linha vertical que passa pelo centro de gravidade resultante da caixa, carga e passageiros deve estar situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5% da distância entre eixos;\n\nb) Nos automóveis ligeiros, basta que a linha referida na alínea anterior não fique situada atrás do eixo da retaguarda.\n\n3 - As caixas dos automóveis de mercadorias e dos pesados de passageiros só podem prolongar-se além do eixo da retaguarda até uma distância igual a dois terços da distância entre eixos, podendo, nos automóveis equipados com caixas especiais e mediante autorização da Direcção-Geral de Viação, o mesmo limite ser excedido, sem prejuízo do disposto no número anterior.\n\n4 - Nos automóveis equipados com caixas especiais, nenhuma parte do veículo pode passar além de um plano vertical paralelo à face lateral do mesmo e distando desta 1200 mm quando o veículo descreve uma curva com o ângulo de viragem máximo das rodas directrizes.\n\n5 - Nos veículos de mercadorias com caixa aberta, no caso de existirem taipais, os mesmos não podem ter altura inferior a 200 mm, devendo ficar perpendiculares ao solo quando abertos.\n\n6 - Por despacho do director-geral de Viação são fixados os valores máximos que as caixas podem exceder relativamente à largura dos rodados mais largos.\n\n7 - Todos os acessórios móveis devem ser fixados de forma a evitar que, em caso de oscilação, passem além do contorno envolvente dos veículos.\n\n8 - Os cubos das rodas e as lanternas dos veículos de tracção animal podem sobressair até ao limite de 200 mm sobre cada uma das faces laterais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283042": {
+   "fragment_id": "106389929",
+   "type": 11,
+   "heading": "Artigo 13.º — Lotação",
+   "in_force_from": "2007-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 13.º — Lotação\n\n1 - A lotação dos automóveis ligeiros de passageiros e dos automóveis de mercadorias é fixada de modo a garantir para cada passageiro uma largura mínima de banco de 400 mm.\n\n2 - Sem prejuízo do disposto no número anterior, nos bancos da frente só são permitidos dois lugares ao lado do condutor se o plano que passa pelo eixo do volante de direcção, paralelamente ao plano horizontal do veículo, distar, pelo menos, 1000 mm da porta mais afastada, medidos a meia altura das costas do banco.\n\n3 - Os lugares dos passageiros devem distribuir-se no interior dos veículos de forma a assegurar a maior estabilidade e de modo que a resultante das forças representadas pelo peso dos passageiros fique situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5% da distância entre eixos.\n\n4 - Sem prejuízo das disposições específicas aplicáveis a veículos pesados de passageiros, é atribuído a cada lugar o peso de 75 kg no caso do condutor e de 68 kg no caso dos passageiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283046": {
+   "fragment_id": "106389916",
+   "type": 11,
+   "heading": "Artigo 3.º — Dimensões máximas dos veículos",
+   "in_force_from": "2010-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 3.º — Dimensões máximas dos veículos\n\n1 - As dimensões máximas dos veículos, quando em circulação, são as referidas nos números seguintes.\n\n2 - Comprimento máximo:\n\na) Veículos a motor de dois ou mais eixos (com excepção dos automóveis pesados de passageiros): 12 m;\n\nb) Reboques de um ou mais eixos: 12 m;\n\nc) Automóveis pesados de passageiros com dois eixos: 13,5 m;\n\nd) Automóveis pesados de passageiros com três ou mais eixos: 15 m;\n\ne) Automóveis pesados de passageiros articulados: 18,75 m;\n\nf) Conjunto veículo tractor-semi-reboque de três ou mais eixos: 16,5 m;\n\ng) Conjunto veículo a motor-reboque: 18,75 m;\n\nh) Comboios turísticos: 18,75 m.\n\ni) Máquinas com motor de propulsão ou rebocáveis - 20 m.\n\n3 - Largura máxima dos veículos:\n\na) Qualquer veículo: 2,55 m;\n\nb) Veículos de transporte condicionado: 2,6 m.\n\nc) Máquinas com motor de propulsão ou rebocáveis - 3 m.\n\n4 - Estabelece-se como altura máxima dos veículos:\n\na) Veículos a motor e seus reboques - 4 m;\n\nb) Automóveis pesados de passageiros da classe i - 4,15 m;\n\nc) Máquinas com motor ou rebocáveis - 4,5 m.\n\n5 - Nas dimensões fixadas estão compreendidas as superstruturas amovíveis e os dispositivos de carga normalizados, como contentores.\n\n6 - Para além de outros limites legais, os semi-reboques devem respeitar ainda o seguinte:\n\na) A distância máxima entre o eixo da cavilha de engate e a retaguarda do semi-reboque é de 12 m;\n\nb) A distância medida horizontalmente entre o eixo da cavilha de engate e qualquer ponto da dianteira do semi-reboque não deve ser superior a 2,04 m.\n\n7 - Nos conjuntos de veículos formados por um automóvel de mercadorias e um reboque deve respeitar-se o seguinte:\n\na) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto, diminuída da distância entre a retaguarda do veículo a motor e a parte dianteira do reboque, é de 15,65 m;\n\nb) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto é de 16,4 m.\n\n8 - Se um automóvel pesado de passageiros tiver instalados quaisquer acessórios amovíveis, o comprimento do veículo, incluindo aqueles acessórios, não deve exceder o comprimento máximo fixado no n.º 2.\n\n9 - É admitida a circulação de conjuntos formados por um automóvel de mercadorias e um semi-reboque, adaptado por construção ao transporte de material lenhoso, ligados através de um elemento rebocado (dolly), devendo respeitar-se o seguinte:\n\na) Comprimento máximo do conjunto - 25,25 m;\n\nb) As dimensões máximas do veículo a motor e do semi-reboque considerados individualmente não podem exceder o fixado no presente artigo.\n\n10 - Os conjuntos a que se refere o número anterior devem obrigatoriamente dispor de sistemas de travagem ABS, conforme o disposto no Regulamento da Homologação do Sistema de Travagem dos Automóveis e Seus Reboques, aprovado pelo Decreto-Lei n.º 195/2000, de 22 de Agosto, com a alteração conferida pelo Decreto-Lei n.º 72-E/2003, de 14 de Abril.\n\n11 - Por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e dos transportes pode ser restringida a circulação dos conjuntos a que se refere o número anterior nas vias em que devido ao seu traçado a circulação destes conjuntos não se mostre adequada, bem como nos períodos de maior intensidade de trânsito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283047": {
+   "fragment_id": "108287916",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Transporte de material lenhoso, papel, pasta de papel e produtos cerâmicos",
+   "in_force_from": "2010-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 8.º-A — Transporte de material lenhoso, papel, pasta de papel e produtos cerâmicos\n\n1 - Os veículos a motor-reboque com cinco ou mais eixos que efectuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira e similares, podem circular com um peso bruto máximo de 60 t desde que estejam tecnicamente preparados para o efeito, devendo no respectivo certificado de matrícula estar fixado este valor.\n\n2 - Os proprietários dos veículos que estejam tecnicamente preparados para o transporte referido no número anterior mas não conste do respectivo certificado de matrícula este valor de peso bruto devem requerer a sua alteração.\n\n3 - Os veículos a motor-reboque com cinco ou mais eixos que efectuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira, aparas de madeira e similares, papel, pasta de papel e produtos cerâmicos, em carga não contentorizada, ou contentorizada em dois contentores ISO de 20' ou um contentor ISO de 40', podem circular com um peso bruto máximo de 60 t, desde que tenham origem ou destino num porto nacional.\n\n4 - Os pesos máximos por eixo dos veículos referidos no número anterior são os estabelecidos no n.º 5 do artigo 9.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108283048": {
+   "fragment_id": "106389924",
+   "type": 11,
+   "heading": "Artigo 9.º — Peso bruto máximo por eixo",
+   "in_force_from": "2010-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Peso bruto máximo por eixo\n\n1 - Os pesos brutos máximos por eixo dos veículos, quando em circulação, são os referidos nos números seguintes.\n\n2 - Pesos brutos máximos de um eixo simples:\n\na) Frente (automóveis): 7,5 t;\n\nb) Não motor: 10 t;\n\nc) Motor: 12 t.\n\n3 - No eixo duplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre eixos (d) da seguinte forma:\n\na) Se d for inferior a 1 m: 12 t;\n\nb) Se d for de 1 m a 1,29 m: 17 t;\n\nc) Se d for de 1,3 m a 1,79 m: 19 t;\n\nd) Se d for igual ou superior a 1,8 m: 20 t.\n\n4 - No eixo triplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre os dois eixos extremos (D) da seguinte forma:\n\na) Se D for inferior a 2,6 m: 21 t;\n\nb) Se D for igual ou superior a 2,6 m: 24 t.\n\n5 - O peso bruto máximo por eixo dos veículos a motor e dos reboques dos veículos a motor que efectuem o transporte de material lenhoso, papel, pasta de papel e produtos cerâmicos, nos termos do n.º 4 do artigo 8.º-A, é de 12 t, com excepção do eixo da frente que não deverá ultrapassar as 7,5 t.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23"
+  },
+  "108283049": {
+   "fragment_id": "106389927",
+   "type": 11,
+   "heading": "Artigo 11.º — Outras características relativas a dimensões",
+   "in_force_from": "2010-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 11.º — Outras características relativas a dimensões\n\n1 - Nos conjuntos veículo a motor-reboque, com excepção dos formados por veículos a motor das categorias europeias M(índice 1) ou N(índice 1) ou tractores agrícolas, ou que incluam reboques das categorias europeias O(índice 1) ou O(índice 2), a distância entre o eixo da retaguarda do veículo a motor e o eixo da frente do reboque não deve ser inferior a 3 m.\n\n2 - As caixas dos veículos a motor e seus reboques não podem prejudicar as suas condições de equilíbrio e estabilidade e:\n\na) Nos automóveis pesados, a linha vertical que passa pelo centro de gravidade resultante da caixa, carga e passageiros deve estar situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5% da distância entre eixos;\n\nb) Nos automóveis ligeiros, basta que a linha referida na alínea anterior não fique situada atrás do eixo da retaguarda.\n\n3 - As caixas dos automóveis de mercadorias e dos pesados de passageiros só podem prolongar-se além do eixo da retaguarda até uma distância igual a dois terços da distância entre eixos, podendo, nos automóveis equipados com caixas especiais e mediante autorização do Instituto da Mobilidade e dos Transportes Terrestres (IMTT, I. P.), o mesmo limite ser excedido, sem prejuízo do disposto no número anterior.\n\n4 - Nos automóveis equipados com caixas especiais, nenhuma parte do veículo pode passar além de um plano vertical paralelo à face lateral do mesmo e distando desta 1200 mm quando o veículo descreve uma curva com o ângulo de viragem máximo das rodas directrizes.\n\n5 - Nos veículos de mercadorias com caixa aberta, no caso de existirem taipais, os mesmos não podem ter altura inferior a 200 mm, devendo ficar perpendiculares ao solo quando abertos.\n\n6 - Por deliberação do conselho directivo do IMTT, I. P., são fixados os valores máximos que as caixas podem exceder relativamente à largura dos rodados mais largos.\n\n7 - Todos os acessórios móveis devem ser fixados de forma a evitar que, em caso de oscilação, passem além do contorno envolvente dos veículos.\n\n8 - Os cubos das rodas e as lanternas dos veículos de tracção animal podem sobressair até ao limite de 200 mm sobre cada uma das faces laterais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283055": {
+   "fragment_id": "106389916",
+   "type": 11,
+   "heading": "Artigo 3.º — Dimensões máximas dos veículos",
+   "in_force_from": "2014-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 3.º — Dimensões máximas dos veículos\n\n1 - As dimensões máximas dos veículos, quando em circulação, são as referidas nos números seguintes.\n\n2 - Comprimento máximo:\n\na) Veículos a motor de dois ou mais eixos (com excepção dos automóveis pesados de passageiros): 12 m;\n\nb) Reboques de um ou mais eixos: 12 m;\n\nc) Automóveis pesados de passageiros com dois eixos: 13,5 m;\n\nd) Automóveis pesados de passageiros com três ou mais eixos: 15 m;\n\ne) Automóveis pesados de passageiros articulados: 18,75 m;\n\nf) Conjunto veículo tractor-semi-reboque de três ou mais eixos: 16,5 m;\n\ng) Conjunto veículo a motor-reboque: 18,75 m;\n\nh) Comboios turísticos: 18,75 m.\n\ni) Máquinas com motor de propulsão ou rebocáveis - 20 m.\n\n3 - Largura máxima dos veículos:\n\na) Qualquer veículo: 2,55 m;\n\nb) Veículos de transporte condicionado: 2,6 m.\n\nc) Máquinas com motor de propulsão ou rebocáveis - 3 m.\n\n4 - Estabelece-se como altura máxima dos veículos:\n\na) Veículos a motor e seus reboques - 4 m;\n\nb) Automóveis pesados de passageiros da classe i - 4,15 m;\n\nc) Máquinas com motor ou rebocáveis - 4,5 m.\n\n5 - Nas dimensões fixadas estão compreendidas as superstruturas amovíveis e os dispositivos de carga normalizados, como contentores.\n\n6 - Para além de outros limites legais, os semi-reboques devem respeitar ainda o seguinte:\n\na) A distância máxima entre o eixo da cavilha de engate e a retaguarda do semi-reboque é de 12 m;\n\nb) A distância medida horizontalmente entre o eixo da cavilha de engate e qualquer ponto da dianteira do semi-reboque não deve ser superior a 2,04 m.\n\n7 - Nos conjuntos de veículos formados por um automóvel de mercadorias e um reboque deve respeitar-se o seguinte:\n\na) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto, diminuída da distância entre a retaguarda do veículo a motor e a parte dianteira do reboque, é de 15,65 m;\n\nb) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto é de 16,4 m.\n\n8 - Se um automóvel pesado de passageiros tiver instalados quaisquer acessórios amovíveis, o comprimento do veículo, incluindo aqueles acessórios, não deve exceder o comprimento máximo fixado no n.º 2.\n\n9 - É admitida a circulação de conjuntos formados por um automóvel de mercadorias e um semi-reboque, adaptado por construção ao transporte de material lenhoso, ligados através de um elemento rebocado (dolly), devendo respeitar-se o seguinte:\n\na) Comprimento máximo do conjunto - 25,25 m;\n\nb) As dimensões máximas do veículo a motor e do semi-reboque considerados individualmente não podem exceder o fixado no presente artigo.\n\n10 - Os conjuntos a que se refere o número anterior devem obrigatoriamente dispor de sistemas de travagem ABS, conforme o disposto no Regulamento da Homologação do Sistema de Travagem dos Automóveis e Seus Reboques, aprovado pelo Decreto-Lei n.º 195/2000, de 22 de Agosto, com a alteração conferida pelo Decreto-Lei n.º 72-E/2003, de 14 de Abril.\n\n11 - Por portaria dos membros do Governo responsáveis pelas áreas da administração interna e dos transportes pode ser restringida a circulação dos conjuntos a que se refere o número anterior nas vias em que devido ao seu traçado a circulação destes conjuntos não se mostre adequada, bem como nos períodos de maior intensidade de trânsito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283050": {
+   "fragment_id": "108287916",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, ácido tereftálico, produtos siderúrgicos, produtos minérios, produtos vitivinícolas, frutas e produtos hortícolas e pecuários, incluindo os transformados",
+   "in_force_from": "2014-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 8.º-A — Transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, ácido tereftálico, produtos siderúrgicos, produtos minérios, produtos vitivinícolas, frutas e produtos hortícolas e pecuários, incluindo os transformados\n\n1 - Os veículos a motor-reboque com cinco ou mais eixos que efectuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira e similares, podem circular com um peso bruto máximo de 60 t desde que estejam tecnicamente preparados para o efeito, devendo no respectivo certificado de matrícula estar fixado este valor.\n\n2 - Os proprietários dos veículos que estejam tecnicamente preparados para o transporte referido no número anterior mas não conste do respectivo certificado de matrícula este valor de peso bruto devem requerer a sua alteração.\n\n3 - Os veículos a motor-reboque com cinco ou mais eixos que efetuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira, aparas de madeira e similares, papel, pasta de papel, produtos cerâmicos, produtos siderúrgicos, minérios, produtos vitivinícolas, frutas e produtos hortícolas e pecuários, incluindo os transformados, em carga não contentorizada, ou contentorizada em dois contentores ISO de 20' ou um contentor ISO de 40', podem circular com um peso bruto máximo de 60 t, desde que tenham origem ou destino num porto nacional.\n\n4 - Os veículos a motor-reboque com cinco ou mais eixos que efetuem exclusivamente transporte de produtos químicos, nomeadamente ácido tereftálico purificado, em carga contentorizada num contentor ISO de 20', podem igualmente circular com um peso bruto máximo de 60 t.\n\n5 - Os pesos máximos por eixo dos veículos referidos no número anterior são os estabelecidos no n.º 5 do artigo 9.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108283052": {
+   "fragment_id": "108287919",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais",
+   "in_force_from": "2014-09-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06"
+   ],
+   "markdown": "###### Artigo 8.º-C — Transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais\n\n1 - Os veículos a motor-reboque com cinco ou mais eixos que efetuem exclusivamente transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais provenientes da produção podem circular com o peso bruto máximo de 60 t, desde que estejam tecnicamente preparados para esse efeito, devendo no respetivo certificado de matrícula estar fixado esse valor e se necessária requerida a sua alteração.\n\n2 - Os veículos a motor-reboque com cinco ou mais eixos que efetuem exclusivamente transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais em carga não contentorizada, ou contentorizada em dois contentores ISO de 20' ou um contentor ISO de 40', podem circular com um peso bruto máximo de 60 t, desde que o destino seja as unidades de concentração ou transformação e esse transporte se realize exclusivamente durante as campanhas agrícolas, excecionando nesta última situação a pecuária.\n\n3 - Os pesos máximos por eixo dos veículos referidos no número anterior são os estabelecidos no n.º 5 do artigo 9.º\n\n4 - Durante as campanhas agrícolas é excecionalmente permitido aos proprietários dos veículos de transporte de carga não contentorizada e cujos veículos não estejam tecnicamente preparados para o transporte até ao limite de um peso bruto máximo de 60 t, que o transporte desses produtos seja efetuado até ao limite máximo de 44 t.\n\n5 - O transporte efetuado nos termos dos números anteriores deve observar o disposto em legislação específica aplicável e salvaguardar a qualidade dos produtos transportados.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06"
+  },
+  "108283053": {
+   "fragment_id": "106389924",
+   "type": 11,
+   "heading": "Artigo 9.º — Peso bruto máximo por eixo",
+   "in_force_from": "2014-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Peso bruto máximo por eixo\n\n1 - Os pesos brutos máximos por eixo dos veículos, quando em circulação, são os referidos nos números seguintes.\n\n2 - Pesos brutos máximos de um eixo simples:\n\na) Frente (automóveis): 7,5 t;\n\nb) Não motor: 10 t;\n\nc) Motor: 12 t.\n\n3 - No eixo duplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre eixos (d) da seguinte forma:\n\na) Se d for inferior a 1 m: 12 t;\n\nb) Se d for de 1 m a 1,29 m: 17 t;\n\nc) Se d for de 1,3 m a 1,79 m: 19 t;\n\nd) Se d for igual ou superior a 1,8 m: 20 t.\n\n4 - No eixo triplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre os dois eixos extremos (D) da seguinte forma:\n\na) Se D for inferior a 2,6 m: 21 t;\n\nb) Se D for igual ou superior a 2,6 m: 24 t.\n\n5 - O peso bruto máximo por eixo dos veículos a motor e dos reboques dos veículos a motor que efetuem o transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, produtos siderúrgicos, produtos vitivinícolas, frutas e produtos hortícolas transformados ou não, pecuários e cereais, nos termos do n.º 5 do artigo 8.º-A e do n.º 3 do artigo 8.º-C, é de 12 t, com exceção do eixo da frente que não deve ultrapassar as 7,5 t\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23"
+  },
+  "108283054": {
+   "fragment_id": "106389925",
+   "type": 11,
+   "heading": "Artigo 10.º — Peso bruto rebocável",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 60/2006 - Diário da República n.º 174/2006, Série I de 2006-09-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2006-540039), em vigor a partir de 2005-06-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 10.º — Peso bruto rebocável\n\n1 - O peso bruto rebocável dos automóveis, quando em circulação, deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) Metade da tara do automóvel, não podendo exceder 750 kg nos veículos destinados a atrelar reboques sem travão de serviço;\n\nc) O valor do peso bruto do automóvel, nos veículos com peso bruto inferior ou igual a 3500 kg destinados a puxar reboques equipados com travões de serviço, e uma vez e meia o peso bruto do automóvel, não podendo exceder 3500 kg, no caso dos veículos 'fora de estrada';\n\nd) 3500 kg nos veículos com peso bruto superior a 3500 kg destinados a atrelar reboques equipados com travões de serviço de inércia;\n\ne) Uma vez e meia o peso bruto do automóvel, nos veículos com um peso bruto superior a 3500 kg destinados a atrelar reboques com sistema de travagem contínua.\n\n2 - O peso bruto rebocável dos tractores agrícolas deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) 750 kg, nos veículos destinados a atrelar apenas reboques sem travão de serviço;\n\nc) Três vezes o peso bruto do tractor, não podendo exceder 3500 kg, nos veículos destinados a atrelar apenas reboques equipados com travões de serviço de inércia;\n\nd) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem mecânico destinados a atrelar reboques equipados com travões de serviço de travagem contínua;\n\ne) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem mecânica;\n\nf) Seis vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem hidráulica ou pneumática.\n\n3 - Nos conjuntos formados por um veículo a motor e um reboque ou semi-reboque, o peso bruto máximo do reboque ou do semi-reboque pode ser um dos seguintes valores:\n\na) O constante no documento de identificação do reboque, se esse valor for menor ou igual ao peso bruto rebocável constante no documento de identificação do veículo tractor;\n\nb) O valor do peso bruto rebocável do veículo tractor, se o peso bruto constante no documento de identificação do reboque exceder aquele valor.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 60/2006 - Diário da República n.º 174/2006, Série I de 2006-09-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2006-540039), em vigor a partir de 2005-06-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108283056": {
+   "fragment_id": "106389927",
+   "type": 11,
+   "heading": "Artigo 11.º — Outras características relativas a dimensões",
+   "in_force_from": "2014-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 11.º — Outras características relativas a dimensões\n\n1 - Nos conjuntos veículo a motor-reboque, com excepção dos formados por veículos a motor das categorias europeias M(índice 1) ou N(índice 1) ou tractores agrícolas, ou que incluam reboques das categorias europeias O(índice 1) ou O(índice 2), a distância entre o eixo da retaguarda do veículo a motor e o eixo da frente do reboque não deve ser inferior a 3 m.\n\n2 - As caixas dos veículos a motor e seus reboques não podem prejudicar as suas condições de equilíbrio e estabilidade e:\n\na) Nos automóveis pesados, a linha vertical que passa pelo centro de gravidade resultante da caixa, carga e passageiros deve estar situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5% da distância entre eixos;\n\nb) Nos automóveis ligeiros, basta que a linha referida na alínea anterior não fique situada atrás do eixo da retaguarda.\n\n3 - As caixas dos automóveis de mercadorias e dos pesados de passageiros só podem prolongar-se além do eixo da retaguarda até uma distância igual a dois terços da distância entre eixos, podendo, nos automóveis equipados com caixas especiais e mediante autorização do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), o mesmo limite ser excedido, sem prejuízo do disposto no número anterior.\n\n4 - Nos automóveis equipados com caixas especiais, nenhuma parte do veículo pode passar além de um plano vertical paralelo à face lateral do mesmo e distando desta 1200 mm quando o veículo descreve uma curva com o ângulo de viragem máximo das rodas directrizes.\n\n5 - Nos veículos de mercadorias com caixa aberta, no caso de existirem taipais, os mesmos não podem ter altura inferior a 200 mm, devendo ficar perpendiculares ao solo quando abertos.\n\n6 - Por deliberação do conselho directivo do IMT, I. P., são fixados os valores máximos que as caixas podem exceder relativamente à largura dos rodados mais largos.\n\n7 - Todos os acessórios móveis devem ser fixados de forma a evitar que, em caso de oscilação, passem além do contorno envolvente dos veículos.\n\n8 - Os cubos das rodas e as lanternas dos veículos de tracção animal podem sobressair até ao limite de 200 mm sobre cada uma das faces laterais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283058": {
+   "fragment_id": "106389904",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É aprovado o Regulamento Que Fixa os Pesos e as Dimensões Máximos Autorizados para os Veículos em Circulação, cujo texto constitui o anexo I ao presente diploma e dele faz parte integrante, transpondo-se para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0007\" title=\"Link para Directiva da Comunidade Europeia\">2002/7/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Fevereiro.\n\n2 - O anexo ao Regulamento ora aprovado faz dele parte integrante.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283059": {
+   "fragment_id": "106389905",
+   "type": 11,
+   "heading": "Artigo 2.º — Pesos e dimensões de veículos utilizados no transporte nacional",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 2.º — Pesos e dimensões de veículos utilizados no transporte nacional\n\n1 - Os pesos brutos e as dimensões máximos dos veículos, para efeitos de circulação em território nacional, são os definidos no Regulamento anexo a que se refere o artigo 1.º, adiante designado por Regulamento.\n\n2 - A título excepcional pode ser autorizada a matrícula e a circulação de veículos com pesos ou dimensões superiores aos estabelecidos no Regulamento, nas condições estabelecidas na homologação do modelo ou na atribuição de matrícula nacional.\n\n3 - Os veículos ou conjuntos de veículos que excedam as dimensões máximas autorizadas, por transportarem ou se destinarem ao transporte de objectos indivisíveis, só podem circular mediante autorização especial ou regime não discriminatórios, nas condições estabelecidas no artigo 58.º do Código da Estrada.\n\n4 - Pode ainda ser autorizada a circulação de veículos ou de conjuntos de veículos com dimensões superiores às estabelecidas no Regulamento que efectuem operações de transporte nacional que não afectem significativamente a concorrência internacional no sector dos transportes.\n\n5 - Considera-se que as operações de transporte não afectam significativamente a concorrência internacional no sector dos transportes quando sejam efectuadas por veículos ou conjuntos de veículos especializados, em circunstâncias em que não são habitualmente efectuadas por veículos provenientes de outros Estados membros, nomeadamente as operações ligadas à exploração das florestas e à indústria florestal.\n\n6 - A Direcção-Geral de Viação pode autorizar os veículos e conjuntos de veículos que utilizem novas tecnologias ou novos conceitos que não permitam satisfazer uma ou várias das exigências constantes do Regulamento a circular em operações de transporte local durante um período de ensaio.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283060": {
+   "fragment_id": "106389906",
+   "type": 11,
+   "heading": "Artigo 3.º — Exclusão",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 3.º — Exclusão\n\nO Regulamento não se aplica aos veículos referidos no artigo 120.º do Código da Estrada.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283061": {
+   "fragment_id": "106389907",
+   "type": 11,
+   "heading": "Artigo 4.º — Circulação de veículos",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 4.º — Circulação de veículos\n\nOs veículos matriculados ou postos em circulação noutro Estado membro podem circular em Portugal desde que não excedam, em trânsito, os valores limite especificados nas secções II e IV do Regulamento, ainda que:\n\na) Não respeitem outras características de peso e dimensões não referidas naquelas secções;\n\nb) A autoridade competente do Estado membro no qual foram matriculados ou postos em circulação tenha autorizado limites que excedam os fixados nas mesmas secções.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283062": {
+   "fragment_id": "106389908",
+   "type": 11,
+   "heading": "Artigo 5.º — Outras disposições",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 5.º — Outras disposições\n\n1 - Os veículos referidos no artigo 1.º do Regulamento não pertencentes às categorias M(índice 1) e N(índice 1) devem possuir um dos seguintes elementos comprovativos de conformidade:\n\na) Uma combinação da placa do construtor e da placa relativa às dimensões, elaboradas e fixadas nos termos da Directiva n.º <a href=\"eurlex.asp?ano=1976&id=376L0114\" title=\"Link para Directiva da Comunidade Europeia\">76/114/CEE</a>, transposta pela Portaria n.º 517-A/96, de 27 de Setembro, com a última redacção que lhe foi conferida pela Portaria n.º 1080/97, de 29 de Outubro;\n\nb) Uma placa única elaborada e fixada nos termos da citada directiva, contendo as informações das duas placas referidas na alínea anterior;\n\nc) Um documento único emitido pela autoridade competente do Estado membro onde o veículo foi registado ou posto em circulação, devendo este documento conter as mesmas rubricas e as mesmas informações que figuram nas placas referidas na alínea a), sendo guardado em lugar facilmente acessível ao controlo e suficientemente protegido.\n\n2 - Quando as características do veículo deixem de corresponder às indicadas na prova de conformidade referida no número anterior, a mesma deve ser convenientemente alterada.\n\n3 - Por despacho do director-geral de Viação são estabelecidos os procedimentos para a alteração referida no número anterior.\n\n4 - As placas e documentos referidos no n.º 1 são reconhecidos para efeitos de circulação como prova de conformidade dos veículos com a regulamentação de pesos e dimensões.\n\n5 - Os veículos que disponham de prova de conformidade podem ser sujeitos:\n\na) No que respeita aos pesos, a controlos por amostragem;\n\nb) No que respeita às dimensões, apenas a controlos em caso de suspeita de não conformidade com o Regulamento.\n\n6 - A placa de dimensões referida no n.º 1 deve obedecer às características estabelecidas no anexo II do presente diploma, que dele faz parte integrante.\n\n7 - A coluna central da prova de conformidade relativa ao peso deve indicar, se for caso disso, os valores comunitários dos pesos aplicáveis ao veículo em questão.\n\n8 - Os pesos máximos autorizados pela legislação nacional são indicados na prova de conformidade a que se refere o n.º 1 na coluna da esquerda e os pesos tecnicamente admissíveis na coluna da direita.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283063": {
+   "fragment_id": "106389909",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nSão revogadas as Portarias n.os 1092/97, 960/2000 e 1507/2001, de 3 de Novembro, de 9 de Outubro e de 13 de Setembro, respectivamente.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283064": {
+   "fragment_id": "106389910",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Alberto Bernardes Costa.\n\nPromulgado em 30 de Maio de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Junho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283065": {
+   "fragment_id": "106389911",
+   "type": 14,
+   "heading": "Anexo I — REGULAMENTO QUE FIXA OS PESOS E AS DIMENSÕES MÁXIMOS AUTORIZADOS PARA OS VEÍCULOS EM CIRCULAÇÃO",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "## Anexo I — REGULAMENTO QUE FIXA OS PESOS E AS DIMENSÕES MÁXIMOS AUTORIZADOS PARA OS VEÍCULOS EM CIRCULAÇÃO\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283066": {
+   "fragment_id": "106389912",
+   "type": 8,
+   "heading": "Secção I — Âmbito de aplicação e definições",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "#### Secção I — Âmbito de aplicação e definições\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283067": {
+   "fragment_id": "106389913",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento fixa, para efeitos de circulação, os pesos e as dimensões máximos dos veículos a motor e seus reboques.\n\n2 - As disposições constantes do presente Regulamento relativas a reboques são também aplicáveis aos semi-reboques.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283068": {
+   "fragment_id": "106389914",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do disposto no presente Regulamento, entende-se por:\n\na) «Veículo a motor» qualquer veículo provido de um motor de propulsão que circule na via pública pelos seus próprios meios;\n\nb) 'Veículo de transporte condicionado' qualquer veículo cujas superstruturas, fixas ou móveis, estejam especialmente equipadas para o transporte de mercadorias a uma temperatura controlada e cujas paredes laterais, incluindo o isolamento, tenham, pelo menos, 45 mm de espessura;\n\nc) «Automóvel pesado de passageiros articulado» qualquer automóvel pesado de passageiros constituído por dois segmentos rígidos permanentemente ligados por uma secção articulada, que permite a comunicação entre ambos e a livre circulação de passageiros, sendo que a junção e a disjunção das duas partes apenas podem ser realizadas numa oficina;\n\nd) «Dimensões máximas autorizadas» as dimensões máximas para a utilização de um veículo previstas na secção seguinte;\n\ne) 'Tara' o peso do veículo em ordem de marcha, sem passageiros nem carga, com o líquido de arrefecimento, lubrificantes, 90% do total de combustível, 100% dos outros fluidos, excepto águas residuais, ferramentas e roda de reserva, quando esta seja obrigatória e, com excepção dos ciclomotores, motociclos, triciclos e quadriciclos, o condutor (75 kg), devendo ainda ser considerado, no caso dos veículos pesados de passageiros, o peso do guia (75 kg), se estiver previsto um lugar específico para o mesmo;\n\nf) «Peso bruto» o conjunto da tara e da carga que o veículo pode transportar;\n\ng) «Peso bruto por eixo» o peso resultante da distribuição do peso bruto por um eixo ou grupo de eixos;\n\nh) 'Peso bruto rebocável' a capacidade máxima de carga rebocável dos veículos a motor e tractores agrícolas;\n\ni) «Dimensões» as medidas de comprimento, largura e altura do contorno envolvente de um veículo, compreendendo todos os acessórios para os quais não esteja prevista uma excepção;\n\nj) «Lotação» o número de passageiros que o veículo pode transportar, incluindo o condutor.\n\nl) 'Dolly' dispositivo equipado com um sistema mecânico de engate destinado a converter um semi-reboque num reboque.\n\n2 - As definições de reboque, semi-reboque, conjunto de veículos, automóvel pesado de passageiros, comboio turístico e objecto indivisível são as que constam do Código da Estrada.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283069": {
+   "fragment_id": "106389915",
+   "type": 8,
+   "heading": "Secção II — Dimensões máximas dos veículos para efeitos de circulação",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "#### Secção II — Dimensões máximas dos veículos para efeitos de circulação\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283070": {
+   "fragment_id": "106389916",
+   "type": 11,
+   "heading": "Artigo 3.º — Dimensões máximas dos veículos",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 3.º — Dimensões máximas dos veículos\n\n1 - As dimensões máximas dos veículos, quando em circulação, são as referidas nos números seguintes.\n\n2 - Comprimento máximo:\n\na) Veículos a motor de dois ou mais eixos (com excepção dos automóveis pesados de passageiros): 12 m;\n\nb) Reboques de um ou mais eixos: 12 m;\n\nc) Automóveis pesados de passageiros com dois eixos: 13,5 m;\n\nd) Automóveis pesados de passageiros com três ou mais eixos: 15 m;\n\ne) Automóveis pesados de passageiros articulados: 18,75 m;\n\nf) Conjunto veículo tractor-semi-reboque de três ou mais eixos: 16,5 m;\n\ng) Conjunto veículo a motor-reboque: 18,75 m;\n\nh) Comboios turísticos: 18,75 m.\n\ni) Máquinas com motor de propulsão ou rebocáveis - 20 m.\n\n3 - Largura máxima dos veículos:\n\na) Qualquer veículo: 2,55 m;\n\nb) Veículos de transporte condicionado: 2,6 m.\n\nc) Máquinas com motor de propulsão ou rebocáveis - 3 m.\n\n4 - Estabelece-se como altura máxima dos veículos:\n\na) Veículos a motor e seus reboques - 4 m;\n\nb) Automóveis pesados de passageiros da classe i - 4,15 m;\n\nc) Máquinas com motor ou rebocáveis - 4,5 m.\n\n5 - Nas dimensões fixadas estão compreendidas as superstruturas amovíveis e os dispositivos de carga normalizados, como contentores.\n\n6 - Para além de outros limites legais, os semi-reboques devem respeitar ainda o seguinte:\n\na) A distância máxima entre o eixo da cavilha de engate e a retaguarda do semi-reboque é de 12 m;\n\nb) A distância medida horizontalmente entre o eixo da cavilha de engate e qualquer ponto da dianteira do semi-reboque não deve ser superior a 2,04 m.\n\n7 - Nos conjuntos de veículos formados por um automóvel de mercadorias e um reboque deve respeitar-se o seguinte:\n\na) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto, diminuída da distância entre a retaguarda do veículo a motor e a parte dianteira do reboque, é de 15,65 m;\n\nb) A distância máxima medida paralelamente ao eixo longitudinal do conjunto veículo-reboque entre os pontos exteriores mais avançados da área de carga atrás da cabina e o ponto mais recuado do reboque do conjunto é de 16,4 m.\n\n8 - Se um automóvel pesado de passageiros tiver instalados quaisquer acessórios amovíveis, o comprimento do veículo, incluindo aqueles acessórios, não deve exceder o comprimento máximo fixado no n.º 2.\n\n9 - É admitida a circulação de conjuntos formados por um automóvel de mercadorias e um semi-reboque, adaptado por construção ao transporte de material lenhoso, ligados através de um elemento rebocado (dolly), devendo respeitar-se o seguinte:\n\na) Comprimento máximo do conjunto - 25,25 m;\n\nb) As dimensões máximas do veículo a motor e do semi-reboque considerados individualmente não podem exceder o fixado no presente artigo.\n\n10 - Os conjuntos a que se refere o número anterior devem obrigatoriamente dispor de sistemas de travagem ABS, conforme o disposto no Regulamento da Homologação do Sistema de Travagem dos Automóveis e Seus Reboques, aprovado pelo Decreto-Lei n.º 195/2000, de 22 de Agosto, com a alteração conferida pelo Decreto-Lei n.º 72-E/2003, de 14 de Abril.\n\n11 - Por portaria dos membros do Governo responsáveis pelas áreas da administração interna e dos transportes pode ser restringida a circulação dos conjuntos a que se refere o número anterior nas vias em que devido ao seu traçado a circulação destes conjuntos não se mostre adequada, bem como nos períodos de maior intensidade de trânsito.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283071": {
+   "fragment_id": "106389917",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de manobrabilidade",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de manobrabilidade\n\n1 - Qualquer veículo a motor ou conjunto de veículos em movimento deve poder girar dentro de uma coroa circular com um raio exterior de 12,5 m e um raio interior de 5,3 m sem que qualquer ponto extremo do veículo ou conjunto de veículos saia da referida coroa, com excepção das partes salientes em relação à largura previstas no artigo 6.º\n\n2 - Com o veículo estacionado, define-se um plano vertical tangencial ao lado do veículo que se encontra voltado para o exterior do círculo, traçando uma linha no solo, sendo, no caso de veículo articulado, as duas secções rígidas alinhadas pelo plano.\n\n3 - Quando, a partir de uma aproximação em linha recta, o veículo referido no número anterior entra na área circular descrita no n.º 1, nenhum dos seus elementos pode ultrapassar o plano vertical em mais de 0,6 m.\n\n4 - O raio interior previsto no n.º 1 deve ser de 2 m no caso dos conjuntos a que se refere o n.º 9 do artigo anterior.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108283072": {
+   "fragment_id": "106389918",
+   "type": 8,
+   "heading": "Secção III — Dispositivos não tomados em consideração na medição das dimensões",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "#### Secção III — Dispositivos não tomados em consideração na medição das dimensões\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283073": {
+   "fragment_id": "106389919",
+   "type": 11,
+   "heading": "Artigo 5.º — Dispositivos não tomados em consideração na medição do comprimento",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 5.º — Dispositivos não tomados em consideração na medição do comprimento\n\nNa medição do comprimento dos veículos não são tomados em consideração os seguintes dispositivos:\n\na) Limpa-pára-brisas e dispositivos de lavagem do pára-brisas;\n\nb) Chapas de matrícula à frente e à retaguarda;\n\nc) Dispositivos de selagem aduaneira e sua protecção;\n\nd) Dispositivos de fixação dos oleados das coberturas das caixas e sua protecção;\n\ne) Luzes;\n\nf) Espelhos retrovisores ou outros dispositivos auxiliares de visão para a retaguarda;\n\ng) Tubos de admissão de ar;\n\nh) Batentes para caixas amovíveis;\n\ni) Degraus e estribos de acesso;\n\nj) Borrachas;\n\nl) Plataformas elevatórias, rampas de acesso e outros equipamentos semelhantes, em ordem de marcha, desde que não constituam saliência superior a 200 mm;\n\nm) Dispositivos de engate do veículo a motor.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108283074": {
+   "fragment_id": "106389920",
+   "type": 11,
+   "heading": "Artigo 6.º — Dispositivos não tomados em consideração na medição da largura",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 6.º — Dispositivos não tomados em consideração na medição da largura\n\nNa medição da largura dos veículos não são tomados em consideração os seguintes dispositivos:\n\na) Luzes;\n\nb) Dispositivos de selagem aduaneira e sua protecção;\n\nc) Dispositivos de fixação de oleados e sua protecção;\n\nd) Dispositivos de controlo da pressão dos pneus;\n\ne) Elementos flexíveis dos sistemas antiprojecção;\n\nf) Espelhos retrovisores;\n\ng) Degraus e estribos retrácteis;\n\nh) Partes deflectidas das paredes laterais dos pneus imediatamente acima do ponto de contacto com o solo;\n\ni) Nos veículos das categorias europeias M(índice 2) e M(índice 3), rampas de acesso em ordem de marcha, plataformas de elevação e outro equipamento semelhante que não ultrapasse 10 mm em relação à face lateral do veículo, desde que os cantos posteriores e anteriores das rampas se apresentem arredondados com um raio não inferior a 5 mm e as arestas sejam boleadas com um raio não inferior a 2,5 mm.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108290575": {
+   "fragment_id": "106389921",
+   "type": 11,
+   "heading": "Artigo 7.º — Dispositivos não tomados em consideração na medição da altura",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 7.º — Dispositivos não tomados em consideração na medição da altura\n\nNa medição da altura dos veículos não são tomados em consideração as antenas de comunicação e os pantógrafos na sua posição mais elevada.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108290576": {
+   "fragment_id": "106389922",
+   "type": 8,
+   "heading": "Secção IV — Pesos brutos máximos dos veículos para efeitos de circulação",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "#### Secção IV — Pesos brutos máximos dos veículos para efeitos de circulação\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108290577": {
+   "fragment_id": "106389923",
+   "type": 11,
+   "heading": "Artigo 8.º — Peso bruto máximo dos veículos",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 8.º — Peso bruto máximo dos veículos\n\n1 - Os pesos brutos máximos dos veículos fixados, quando em circulação, são os referidos nos números seguintes.\n\n2 - Peso bruto máximo para veículos de:\n\na) Dois eixos: 19 t;\n\nb) Três eixos: 26 t;\n\nc) Quatro ou mais eixos: 32 t.\n\n3 - Peso bruto máximo para conjunto veículo tractor-semi-reboque de:\n\na) Três eixos: 29 t;\n\nb) Quatro eixos: 38 t;\n\nc) Cinco ou mais eixos: 40 t;\n\nd) Cinco ou mais eixos transportando dois contentores ISO de 20', ou um contentor ISO de 40': 44 t.\n\n4 - Peso bruto máximo para automóvel pesado de passageiros articulado de:\n\na) Três eixos: 28 t;\n\nb) Quatro ou mais eixos: 32 t.\n\n5 - Peso bruto máximo para conjunto veículo a motor-reboque de:\n\na) Três eixos: 29 t;\n\nb) Quatro eixos: 37 t;\n\nc) Cinco ou mais eixos: 40 t;\n\nd) Cinco ou mais eixos transportando dois contentores ISO de 20': 44 t.\n\n6 - Peso bruto máximo para reboques de:\n\na) Um eixo: 10 t;\n\nb) Dois eixos: 18 t;\n\nc) Três ou mais eixos: 24 t.\n\n7 - Com excepção dos reboques agrícolas, o peso bruto do reboque não pode ser superior a uma vez e meia o peso bruto do veículo tractor.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108290578": {
+   "fragment_id": "108287916",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, ácido tereftálico, produtos siderúrgicos, produtos minérios, produtos vitivinícolas, frutas e produtos hortícolas e pecuários, incluindo os transformados",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 8.º-A — Transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, ácido tereftálico, produtos siderúrgicos, produtos minérios, produtos vitivinícolas, frutas e produtos hortícolas e pecuários, incluindo os transformados\n\n1 - Os veículos a motor-reboque com cinco ou mais eixos que efectuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira e similares, podem circular com um peso bruto máximo de 60 t desde que estejam tecnicamente preparados para o efeito, devendo no respectivo certificado de matrícula estar fixado este valor.\n\n2 - Os proprietários dos veículos que estejam tecnicamente preparados para o transporte referido no número anterior mas não conste do respectivo certificado de matrícula este valor de peso bruto devem requerer a sua alteração.\n\n3 - Os veículos a motor-reboque com cinco ou mais eixos que efetuem exclusivamente transporte de material lenhoso, nomeadamente toros de madeira, aparas de madeira e similares, papel, pasta de papel, produtos cerâmicos, produtos siderúrgicos, minérios, produtos vitivinícolas, frutas e produtos hortícolas e pecuários, incluindo os transformados, em carga não contentorizada, ou contentorizada em dois contentores ISO de 20' ou um contentor ISO de 40', podem circular com um peso bruto máximo de 60 t, desde que tenham origem ou destino num porto nacional.\n\n4 - Os veículos a motor-reboque com cinco ou mais eixos que efetuem exclusivamente transporte de produtos químicos, nomeadamente ácido tereftálico purificado, em carga contentorizada num contentor ISO de 20', podem igualmente circular com um peso bruto máximo de 60 t.\n\n5 - Os pesos máximos por eixo dos veículos referidos no número anterior são os estabelecidos no n.º 5 do artigo 9.º\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108290579": {
+   "fragment_id": "108287918",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Peso bruto máximo das máquinas",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 8.º-B — Peso bruto máximo das máquinas\n\n1 - O peso bruto máximo das máquinas com motor ou rebocáveis ou seus conjuntos, quando em circulação, é de 60 t.\n\n2 - Os pesos máximos por eixo das máquinas são os estabelecidos no artigo seguinte.\n\n3 - O peso bruto de uma máquina rebocada não pode ser superior a uma vez e meia o peso bruto do veículo tractor.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108290580": {
+   "fragment_id": "108287919",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06"
+   ],
+   "markdown": "###### Artigo 8.º-C — Transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais\n\n1 - Os veículos a motor-reboque com cinco ou mais eixos que efetuem exclusivamente transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais provenientes da produção podem circular com o peso bruto máximo de 60 t, desde que estejam tecnicamente preparados para esse efeito, devendo no respetivo certificado de matrícula estar fixado esse valor e se necessária requerida a sua alteração.\n\n2 - Os veículos a motor-reboque com cinco ou mais eixos que efetuem exclusivamente transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais em carga não contentorizada, ou contentorizada em dois contentores ISO de 20' ou um contentor ISO de 40', podem circular com um peso bruto máximo de 60 t, desde que o destino seja as unidades de concentração ou transformação e esse transporte se realize exclusivamente durante as campanhas agrícolas, excecionando nesta última situação a pecuária.\n\n3 - Os pesos máximos por eixo dos veículos referidos no número anterior são os estabelecidos no n.º 5 do artigo 9.º\n\n4 - Durante as campanhas agrícolas é excecionalmente permitido aos proprietários dos veículos de transporte de carga não contentorizada e cujos veículos não estejam tecnicamente preparados para o transporte até ao limite de um peso bruto máximo de 60 t, que o transporte desses produtos seja efetuado até ao limite máximo de 44 t.\n\n5 - O transporte efetuado nos termos dos números anteriores deve observar o disposto em legislação específica aplicável e salvaguardar a qualidade dos produtos transportados.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06"
+  },
+  "108290581": {
+   "fragment_id": "106389924",
+   "type": 11,
+   "heading": "Artigo 9.º — Peso bruto máximo por eixo",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23"
+   ],
+   "markdown": "###### Artigo 9.º — Peso bruto máximo por eixo\n\n1 - Os pesos brutos máximos por eixo dos veículos, quando em circulação, são os referidos nos números seguintes.\n\n2 - Pesos brutos máximos de um eixo simples:\n\na) Frente (automóveis): 7,5 t;\n\nb) Não motor: 10 t;\n\nc) Motor: 12 t.\n\n3 - No eixo duplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre eixos (d) da seguinte forma:\n\na) Se d for inferior a 1 m: 12 t;\n\nb) Se d for de 1 m a 1,29 m: 17 t;\n\nc) Se d for de 1,3 m a 1,79 m: 19 t;\n\nd) Se d for igual ou superior a 1,8 m: 20 t.\n\n4 - No eixo triplo motor e não motor, os pesos brutos máximos relacionam-se com a correspondente distância entre os dois eixos extremos (D) da seguinte forma:\n\na) Se D for inferior a 2,6 m: 21 t;\n\nb) Se D for igual ou superior a 2,6 m: 24 t.\n\n5 - O peso bruto máximo por eixo dos veículos a motor e dos reboques dos veículos a motor que efetuem o transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, produtos siderúrgicos, produtos vitivinícolas, frutas e produtos hortícolas transformados ou não, pecuários e cereais, nos termos do n.º 5 do artigo 8.º-A e do n.º 3 do artigo 8.º-C, é de 12 t, com exceção do eixo da frente que não deve ultrapassar as 7,5 t\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691), em vigor a partir de 2014-09-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23"
+  },
+  "108290582": {
+   "fragment_id": "106389925",
+   "type": 11,
+   "heading": "Artigo 10.º — Peso bruto rebocável",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Retificado pelo/a [Declaração de Rectificação n.º 60/2006 - Diário da República n.º 174/2006, Série I de 2006-09-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2006-540039), em vigor a partir de 2005-06-26",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+   ],
+   "markdown": "###### Artigo 10.º — Peso bruto rebocável\n\n1 - O peso bruto rebocável dos automóveis, quando em circulação, deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) Metade da tara do automóvel, não podendo exceder 750 kg nos veículos destinados a atrelar reboques sem travão de serviço;\n\nc) O valor do peso bruto do automóvel, nos veículos com peso bruto inferior ou igual a 3500 kg destinados a puxar reboques equipados com travões de serviço, e uma vez e meia o peso bruto do automóvel, não podendo exceder 3500 kg, no caso dos veículos 'fora de estrada';\n\nd) 3500 kg nos veículos com peso bruto superior a 3500 kg destinados a atrelar reboques equipados com travões de serviço de inércia;\n\ne) Uma vez e meia o peso bruto do automóvel, nos veículos com um peso bruto superior a 3500 kg destinados a atrelar reboques com sistema de travagem contínua.\n\n2 - O peso bruto rebocável dos tractores agrícolas deve ser o menor dos seguintes valores:\n\na) O do peso bruto rebocável máximo tecnicamente admissível, estabelecido com base na construção e no desempenho do veículo e ou na resistência do dispositivo mecânico de engate;\n\nb) 750 kg, nos veículos destinados a atrelar apenas reboques sem travão de serviço;\n\nc) Três vezes o peso bruto do tractor, não podendo exceder 3500 kg, nos veículos destinados a atrelar apenas reboques equipados com travões de serviço de inércia;\n\nd) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem mecânico destinados a atrelar reboques equipados com travões de serviço de travagem contínua;\n\ne) Quatro vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem mecânica;\n\nf) Seis vezes o peso bruto do tractor, nos veículos com sistema de travagem hidráulico ou pneumático destinados a atrelar reboques equipados com travões de serviço de travagem hidráulica ou pneumática.\n\n3 - Nos conjuntos formados por um veículo a motor e um reboque ou semi-reboque, o peso bruto máximo do reboque ou do semi-reboque pode ser um dos seguintes valores:\n\na) O constante no documento de identificação do reboque, se esse valor for menor ou igual ao peso bruto rebocável constante no documento de identificação do veículo tractor;\n\nb) O valor do peso bruto rebocável do veículo tractor, se o peso bruto constante no documento de identificação do reboque exceder aquele valor.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Retificado pelo/a [Declaração de Rectificação n.º 60/2006 - Diário da República n.º 174/2006, Série I de 2006-09-08](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2006-540039), em vigor a partir de 2005-06-26\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), em vigor a partir de 2006-07-12"
+  },
+  "108290583": {
+   "fragment_id": "106389926",
+   "type": 8,
+   "heading": "Secção V — Outras características relativas a dimensões e pesos",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "#### Secção V — Outras características relativas a dimensões e pesos\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108290584": {
+   "fragment_id": "106389927",
+   "type": 11,
+   "heading": "Artigo 11.º — Outras características relativas a dimensões",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 11.º — Outras características relativas a dimensões\n\n1 - Nos conjuntos veículo a motor-reboque, com excepção dos formados por veículos a motor das categorias europeias M(índice 1) ou N(índice 1) ou tractores agrícolas, ou que incluam reboques das categorias europeias O(índice 1) ou O(índice 2), a distância entre o eixo da retaguarda do veículo a motor e o eixo da frente do reboque não deve ser inferior a 3 m.\n\n2 - As caixas dos veículos a motor e seus reboques não podem prejudicar as suas condições de equilíbrio e estabilidade e:\n\na) Nos automóveis pesados, a linha vertical que passa pelo centro de gravidade resultante da caixa, carga e passageiros deve estar situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5% da distância entre eixos;\n\nb) Nos automóveis ligeiros, basta que a linha referida na alínea anterior não fique situada atrás do eixo da retaguarda.\n\n3 - As caixas dos automóveis de mercadorias e dos pesados de passageiros só podem prolongar-se além do eixo da retaguarda até uma distância igual a dois terços da distância entre eixos, podendo, nos automóveis equipados com caixas especiais e mediante autorização do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), o mesmo limite ser excedido, sem prejuízo do disposto no número anterior.\n\n4 - Nos automóveis equipados com caixas especiais, nenhuma parte do veículo pode passar além de um plano vertical paralelo à face lateral do mesmo e distando desta 1200 mm quando o veículo descreve uma curva com o ângulo de viragem máximo das rodas directrizes.\n\n5 - Nos veículos de mercadorias com caixa aberta, no caso de existirem taipais, os mesmos não podem ter altura inferior a 200 mm, devendo ficar perpendiculares ao solo quando abertos.\n\n6 - Por deliberação do conselho directivo do IMT, I. P., são fixados os valores máximos que as caixas podem exceder relativamente à largura dos rodados mais largos.\n\n7 - Todos os acessórios móveis devem ser fixados de forma a evitar que, em caso de oscilação, passem além do contorno envolvente dos veículos.\n\n8 - Os cubos das rodas e as lanternas dos veículos de tracção animal podem sobressair até ao limite de 200 mm sobre cada uma das faces laterais.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2010 - Diário da República n.º 246/2010, Série I de 2010-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2010-306463), em vigor a partir de 2010-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108290585": {
+   "fragment_id": "106389928",
+   "type": 11,
+   "heading": "Artigo 12.º — Outras características relativas a pesos",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 12.º — Outras características relativas a pesos\n\n1 - O peso bruto no eixo ou eixos motores de um veículo ou conjunto de veículos não pode ser inferior a 25% do peso bruto do veículo ou conjunto de veículos.\n\n2 - O peso bruto que incide sobre o eixo da frente não pode ser inferior a 20% ou 15% do peso bruto total, conforme se trate, respectivamente, de veículos de um ou mais eixos à retaguarda.\n\n3 - O valor do peso bruto máximo, em toneladas, de um veículo a motor de quatro eixos não pode exceder cinco vezes o valor da distância, em metros, entre os eixos extremos do veículo, excepto no caso dos veículos com caixa aberta ou betoneira.\n\n4 - Nos veículos ligeiros de mercadorias com quadro-cabina separados, após carroçamento, a carga útil não pode ser inferior a 10% do peso bruto.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108290586": {
+   "fragment_id": "106389929",
+   "type": 11,
+   "heading": "Artigo 13.º — Lotação",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+   ],
+   "markdown": "###### Artigo 13.º — Lotação\n\n1 - A lotação dos automóveis ligeiros de passageiros e dos automóveis de mercadorias é fixada de modo a garantir para cada passageiro uma largura mínima de banco de 400 mm.\n\n2 - Sem prejuízo do disposto no número anterior, nos bancos da frente só são permitidos dois lugares ao lado do condutor se o plano que passa pelo eixo do volante de direcção, paralelamente ao plano horizontal do veículo, distar, pelo menos, 1000 mm da porta mais afastada, medidos a meia altura das costas do banco.\n\n3 - Os lugares dos passageiros devem distribuir-se no interior dos veículos de forma a assegurar a maior estabilidade e de modo que a resultante das forças representadas pelo peso dos passageiros fique situada à frente do eixo da retaguarda e a uma distância deste não inferior a 5% da distância entre eixos.\n\n4 - Sem prejuízo das disposições específicas aplicáveis a veículos pesados de passageiros, é atribuído a cada lugar o peso de 75 kg no caso do condutor e de 68 kg no caso dos passageiros.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), em vigor a partir de 2007-05-29"
+  },
+  "108290587": {
+   "fragment_id": "106389930",
+   "type": 11,
+   "heading": "Artigo 14.º — Equivalência entre suspensões não pneumáticas e pneumáticas",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "###### Artigo 14.º — Equivalência entre suspensões não pneumáticas e pneumáticas\n\nAs condições relativas à equivalência entre certas suspensões não pneumáticas e as suspensões pneumáticas do eixo motor ou dos eixos motores do veículo constam do anexo ao presente Regulamento.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108290588": {
+   "fragment_id": "106389931",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "## Anexo\n\nCondições relativas à equivalência entre certas suspensões não pneumáticas e as suspensões pneumáticas do eixo motor ou dos eixos motores do veículo.\n\n1 - Definição de suspensão pneumática. - Considera-se pneumático um sistema de suspensão em que, pelo menos, 75% do efeito de mola seja causado por um dispositivo pneumático.\n\n2 - Equivalência. - Para ser reconhecida como suspensão equivalente à suspensão pneumática, uma suspensão deve satisfazer os seguintes requisitos:\n\n2.1 - Durante a oscilação vertical transitória livre de baixa frequência da massa suspensa por cima do eixo motor ou do bogie, a frequência e o amortecimento medidos com a suspensão suportando o seu peso máximo devem situar-se dentro dos limites definidos nos n.os 2.2 a 2.5 infra;\n\n2.2 - Cada eixo deve estar equipado com amortecedores hidráulicos. Nos eixos duplos, os amortecedores hidráulicos devem ser colocados de modo a reduzir ao mínimo a oscilação do bogie;\n\n2.3 - Numa suspensão equipada com amortecedores hidráulicos e em condições de funcionamento normais, a razão média de amortecimento D deve ser superior a 20% do amortecimento crítico;\n\n2.4 - A razão máxima de amortecimento da suspensão com todos os amortecedores hidráulicos removidos ou com funcionamento bloqueado não deve ser superior a 50% da razão média de amortecimento D;\n\n2.5 - A frequência máxima da massa suspensa por cima do eixo motor ou do bogie em oscilação vertical transitória livre não deve exceder 2 Hz;\n\n2.6 - A frequência e o amortecimento da suspensão estão definidos no n.º 3 e os procedimentos de ensaio para medir a frequência e o amortecimento estão descritos no n.º 4.\n\n3 - Definição da frequência e do amortecimento. - Na presente definição, considera-se uma massa suspensa M (kg) por cima do eixo motor ou do bogie; o eixo ou o bogie têm uma rigidez vertical total entre a superfície da estrada e a massa suspensa de K Newtons por metro (N/m) e um coeficiente de amortecimento total de C Newtons por metro por segundo (N/ms), sendo Z igual ao deslocamento vertical da massa suspensa. A equação do movimento da oscilação livre da massa suspensa é:\n\nM (d(elevado a 2)Z/dt(elevado a 2)) + C (dZ/dt) + kZ = 0\n\nA frequência da oscilação da massa suspensa F (rad/sec) é:\n\n(ver fórmula no documento original)\n\nO amortecimento é crítico se C = C(índice o), sendo:\n\n(ver fórmula no documento original)\n\nA razão de amortecimento como fracção do amortecimento crítico é C/C(índice 0).\n\nDurante a oscilação transitória livre da massa suspensa o movimento vertical segue uma trajectória sinusoidal amortecida (figura n.º 2). Pode calcular-se a frequência através da medição do tempo nos ciclos de oscilação observáveis. Pode calcular-se o amortecimento através da medição da altura dos picos sucessivos da oscilação na mesma direcção. Sendo A(índice 1) e A(índice 2) as amplitudes de pico do primeiro e segundo ciclos, a razão de amortecimento D é:\n\nD = (C/C(índice 0) = 1/2(pi)).ln (A(índice 1)/A(índice 2))\n\nsendo ln o logaritmo natural do coeficiente da amplitude.\n\n4 - Procedimento de ensaio. - Para medir, nos ensaios, a razão de amortecimento D, a razão de amortecimento com os amortecedores hidráulicos removidos e a frequência F da suspensão, o veículo em carga deve ser:\n\na) Conduzido a baixa velocidade (5 km/h (mais ou menos) 1 km/h) num degrau de 80 mm com o perfil indicado na figura n.º 1. A oscilação transitória a analisar em termos de frequência e amortecimento ocorre depois de as rodas do eixo motor terem passado pelo degrau; ou\n\nb) Abaixado pelo quadro de forma que a carga do eixo motor seja 1,5 vezes o seu valor estático máximo. Depois de ter sido mantido abaixado, o veículo é libertado bruscamente, sendo analisada a oscilação subsequente; ou\n\nc) Levantado pelo quadro de modo que a massa suspensa se encontre a 80 mm acima do eixo motor. O veículo levantado é deixado cair bruscamente, sendo analisada a oscilação subsequente; ou\n\nd) Submetido a outros procedimentos na medida em que a sua equivalência tenha sido demonstrada pelo construtor a contento do serviço técnico.\n\nDeve ser instalado no veículo um transdutor de deslocamento vertical entre o eixo motor e o quadro, directamente acima do eixo motor. No traçado pode ser medido, por um lado, o intervalo de tempo entre o primeiro e o segundo pico de compressão de modo a obter a frequência F e, por outro, a razão de amplitude para obter o amortecimento. Para os eixos motores duplos, devem ser instalados transdutores entre cada eixo motor e o quadro que se encontra imediatamente por cima.\n\n(ver figura no documento original)\n\nFig. 1 - Degrau para os ensaios de suspensão\n\n(ver figura no documento original)\n\nFig. 2 - Resposta transitória amortecida\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  },
+  "108290589": {
+   "fragment_id": "106389932",
+   "type": 14,
+   "heading": "Anexo II — Placa de dimensões",
+   "in_force_from": "2017-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+   ],
+   "markdown": "## Anexo II — Placa de dimensões\n\nI - Na placa de dimensões, fixada, se possível, ao lado da placa referida na Directiva n.º <a href=\"eurlex.asp?ano=1976&id=376L0114\" title=\"Link para Directiva da Comunidade Europeia\">76/114/CEE</a>, devem figurar as seguintes indicações:\n\n1) Nome do construtor (ver nota 1);\n\n2) Número de identificação do veículo (ver nota 1);\n\n(nota 1) Estas indicações não devem ser repetidas quando o veículo possuir uma placa única com os dados referentes aos pesos e às dimensões.\n\n3) Comprimento (L) do veículo a motor, do reboque ou do semi-reboque;\n\n4) Largura (W) do veículo a motor, do reboque ou do semi-reboque;\n\n5) Dados para a medição do comprimento dos conjuntos de veículos:\n\nA distância (a) entre a dianteira do veículo a motor e o centro do seu dispositivo de engate (gancho ou prato de engate); tratando-se de um prato de engate com vários pontos de engate, é necessário indicar os valores mínimo e máximo (a(índice min) e a(índice max));\n\nA distância (b) entre o centro do dispositivo de engate do reboque (olhal) ou do semi-reboque (cabeçote de engate) e a traseira do reboque ou do semi-reboque; tratando-se de um dispositivo com vários pontos de engate, é necessário indicar os valores mínimo e máximo (b(índice min) e b(índice max)).\n\nO comprimento de um conjunto de veículos é o comprimento medido com o veículo a motor e o reboque ou semi-reboque alinhados um atrás do outro.\n\nII - Os valores inscritos na prova de conformidade devem corresponder exactamente às medições efectuadas directamente no veículo.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de 2017-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2017-108284890), em vigor a partir de 2017-10-12"
+  }
+ }
+}

@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:178860:por
+title: Decreto-Lei n.º 44140
+short_title: null
+summary: Estabelece, para efeitos da aplicação do artigo 19.º do Decreto-Lei n.º 43101, as condições legais de promoção dos
+  oficiais abrangidos pela amnistia às infracções ao Decreto-Lei n.º 31107, alterado pelo Decreto-Lei n.º 38778
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Exército - Direcção do Serviço de Justiça e Disciplina - Repartição de Justiça e Disciplina
+proposing_entity: null
+official_number: '44140'
+official_date: null
+publication_date: '1961-12-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 301/1961, Série I de 1961-12-30
+  number: '301'
+  series: I
+  supplement: null
+  pages: 1986 - 1986
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/12/30100/19861986.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '178860'
+  dre_path: /dr/detalhe/decreto-lei/44140-1961-178860
+  internal: pt:dre:178860:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44140-1961-178860
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44140-1961-178860
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 67767661ddfdf30cba17b918385c08f489eaa71eedfa1ef778e9c2a1862ee274
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Amnistia
+- Carreira Militar
+- Crime
+- Formação Profissional
+- Militar
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671444:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:39:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44140
+
+Considerando que o [Decreto-Lei n.º 43101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43101-1960-501251), de 2 de Agosto de 1960, constituindo um acto de clemência do Governo, amnistiou as infracções ao [Decreto-Lei n.º 31107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31107-1941-414853), de 18 de Janeiro de 1941, alterado pelo [Decreto-Lei n.º 38778](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38778-1952-566428), de 11 de Junho de 1952, facultando aos oficiais abrangidos pela mencionada amnistia a reintegração nas situações de actividade ou de reserva;
+
+Atendendo, porém, a que o artigo 19.º do referido [Decreto-Lei n.º 43101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43101-1960-501251) estabelece que aqueles oficiais, caso lhes tivesse entretanto competido a promoção, iriam reocupar o seu lugar na escala depois de terem satisfeito as condições legais para tal exigidas;
+
+Verificando-se que a exigência da satisfação de todas as condições de promoção vem limitar consideràvelmente o âmbito e extensão da amnistia, o que de modo algum era intenção do Governo ao publicar tal diploma;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. Para efeitos da aplicação do artigo 19.º do [Decreto-Lei n.º 43101](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43101-1960-501251), de 2 de Agosto de 1960, consideram-se como tendo satisfeito as condições legais de promoção os oficiais que obtiveram, ou venham a obter, classificação favorável nos cursos que constituem condições especiais de promoção, ou que reúnam, se for caso disso, todas as condições estabelecidas pelo artigo 87.º do [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 38916](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38916-1952-671444), de 18 de Setembro de 1952, e que não estejam abrangidos pelo artigo 58.º do mesmo [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461).
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 30 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.

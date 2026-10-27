@@ -1,0 +1,364 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0130:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0130-20190418",
+ "dre_path": null,
+ "source_lastmod": "2019-04-18",
+ "versions": [
+  {
+   "date": "1989-02-21",
+   "future": false,
+   "celex": "31989L0130",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dc4986132896d3e8",
+    "3eeed25e23e8d516",
+    "715a4c0c0cb07493",
+    "ac79a68d8eb12d62",
+    "d3b0304c75800639",
+    "b52b98d84f08a701",
+    "2a17554180e127dc",
+    "f90a701085bb7341",
+    "c9a8e0bf747ad5b3",
+    "987912f6164097cb",
+    "807318a4dc90941c",
+    "5bb9842f300d637d",
+    "c248aeffbb9ac580",
+    "bb87ad801f5410d1",
+    "03f1157319c0b5a8",
+    "b8478e4444a9f1e5"
+   ]
+  },
+  {
+   "date": "2003-11-20",
+   "future": false,
+   "celex": "01989L0130-20031120",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera TÍTULO III — Disposições relativas à verificação do cálculo do PNBpm",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita TÍTULO IV — Disposições financeiras",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º"
+   ],
+   "fragments": [
+    "cf0050394a5e61de",
+    "3eeed25e23e8d516",
+    "1b14b3394b473205",
+    "83916cce94a9f6ee",
+    "d3b0304c75800639",
+    "1a4932f722692503",
+    "ebd5ff906e496b98",
+    "8cfec00a6eeacf00",
+    "850b33f9f5f2c7d2",
+    "a052609a3c64e45c",
+    "5f333416f357793e",
+    "67cfe29b4b8b72d3",
+    "4c2a71b3609556cc",
+    "c248aeffbb9ac580",
+    "81105478c8e905b2",
+    "7fc53c6a69c3d076",
+    "5865b9242257a7d7"
+   ]
+  },
+  {
+   "date": "2019-04-18",
+   "future": false,
+   "celex": "01989L0130-20190418",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I — Definição de Produto Nacional Bruto a preços de mercado",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime TÍTULO II — Disposições relativas ao método de cálculo e à transmissão dos dados do PNBpm",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime TÍTULO III — Disposições relativas à verificação do cálculo do PNBpm",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime TÍTULO IV — Disposições financeiras",
+    "Suprime Artigo 8.º",
+    "Suprime TÍTULO V — Disposições finais",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º"
+   ],
+   "fragments": [
+    "d2f16008fd311089"
+   ]
+  }
+ ],
+ "fragments": {
+  "dc4986132896d3e8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/130/CEE, Euratom do Conselho de 13 de Fevereiro de 1989 relativa à harmonização da determinação do produto nacional bruto a preços de mercado** *Jornal Oficial nº L 049 de 21/02/1989 p. 0026 - 0028 Edição especial finlandesa: Capítulo 1 Fascículo 2 p. 0103 Edição especial sueca: Capítulo 1 Fascículo 2 p. 0103*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 13 de Fevereiro de 1989\n\nrelativa à harmonização da determinação do Produto Nacional Bruto a preços de mercado\n\n(89/130/CEE, Euratom)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Tratado que institui a Comunidade Europeia da Energia Atómica,\n\nTendo em conta a Decisão 88/376/CEE, Euratom do Conselho, de 24 de Junho de 1988, relativa ao sistema de recursos próprios das Comunidades (1), e, nomeadamente, o nº 2 do seu artigo 8º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nConsiderando que a criação de um recurso próprio complementar das Comunidades baseado no Produto Nacional Bruto a preços de mercado, adiante designado PNBpm, dos Estados-membros torna necessário um reforço da comparabilidade e da fiabilidade desse agregado;\n\nConsiderando que a plena realização do mercado interno aumentará a necessidade de dispor de dados comparáveis no plano internacional sobre o agregado PNBpm e suas componentes; que esses dados constituem, além disso, importantes elementos de análise para a coordenação das políticas económicas;\n\nConsiderando que os dados do PNBpm devem ser comparáveis do ponto de vista conceptual e prático e representativos da economia dos Estados-membros;\n\nConsiderando que a comparabilidade conceptual do PNBpm é garantida pelo respeito das definições e das regras de contabilização pertinentes do Sistema Europeu de Contas Económicas Integradas (SEC);\n\nConsiderando que a comparabilidade prática do PNBpm depende dos processos de avaliação aplicados e dos dados de bases disponíveis; que a melhoria do grau de cobertura do PNBpm pressupõe o desenvolvimento das bases estatísticas e dos processos de avaliação;\n\nConsiderando que é necessário instituir um procedimento de verificação e de apreciação da comparabilidade e da representatividade do PNBpm; que, nesse sentido, há que criar um comité no seio do qual seja assegurada uma estreita colaboração entre os Estados-membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3eeed25e23e8d516": {
+   "fragment_id": "TÍTULO I — Definição de Produto Nacional Bruto a preços de mercado",
+   "type": "divisao",
+   "heading": "TÍTULO I — Definição de Produto Nacional Bruto a preços de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Definição de Produto Nacional Bruto a preços de mercado"
+  },
+  "715a4c0c0cb07493": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO PNBpm é definido nos termos do Sistema Europeu de Contas Económicas Integradas (SEC) em vigor.\n\nO PNBpm é calculado somando ao Produto Interno Bruto a preços de mercado (PIBpm, código SEC: N1) a remuneração dos assalariados (R10) e os rendimentos da propriedade e das empresas (R40) recebidos do resto do mundo e subtraindo os fluxos correspondentes pagos ao resto do mundo."
+  },
+  "ac79a68d8eb12d62": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO PIBpm representa o resultado final da actividade de produção das unidades produtivas residentes. O PIBpm pode ser apresentado em relação ao SEC segundo três ópticas:\n\n1. Óptica de produção\n\nO PIBpm (N1) é o saldo entre a produção de bens e serviços (P10) e o consumo intermédio (P20) acrescido do IVA que incide sobre os produtos (R21) e os impostos líquidos ligados às importações, com exclusão do imposto sobre o valor acrescentado (IVA) (R29).\n\n2. Óptica das despesas\n\nO PIBpm (N1) é a soma do consumo final (P30), no território económico das famílias, das administrações privadas sem fins lucrativos, das administrações públicas, da formação bruta de capital fixo (P41), da variação de existências (P42) e da diferença entre as exportações (P50) e as importações (P60).\n\n3. Óptica dos rendimentos\n\nO PIBpm (N1) é a soma da remuneração dos assalariados (R10), do excedente bruto de exploração da economia (N2) e dos impostos ligados à produção e à importação (R20), deduzidos os subsídios à exploração (R30)."
+  },
+  "d3b0304c75800639": {
+   "fragment_id": "TÍTULO II — Disposições relativas ao método de cálculo e à transmissão dos dados do PNBpm",
+   "type": "divisao",
+   "heading": "TÍTULO II — Disposições relativas ao método de cálculo e à transmissão dos dados do PNBpm",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Disposições relativas ao método de cálculo e à transmissão dos dados do PNBpm"
+  },
+  "b52b98d84f08a701": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros determinam o PNBpm nos termos do artigo 1º no âmbito da contabilidade nacional.\n\n2. Antes de 1 de Outubro de cada ano, os Estados-membros apresentarão à Comissão (Serviço de Estatística das Comunidades Europeias, SECE), no âmbito da contabilidade nacional, os dados para o agregado PNBpm e suas componentes, de acordo com as definições do SEC referidas nos artigos 1º e 2º Além disso, os Estados-membros fornecerão as informações necessárias para mostrar como foi estabelecido o agregado. Os dados apresentados dizem respeito ao ano anterior e às eventuais alterações introduzidas nos dados dos exercícios anteriores."
+  },
+  "2a17554180e127dc": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nProgressivamente e no prazo máximo de 18 meses a contar da data da notificação da presente directiva, os Estados-membros fornecerão à Comissão (SECE), de acordo com as regras por esta fixadas em consulta com o comité referido no artigo 6º, um inventário dos processos e das bases utilizadas para o cálculo do PNBpm e das suas componentes."
+  },
+  "f90a701085bb7341": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nAo comunicarem os dados previstos no artigo 3º, os Estados-membros transmitirão à Comissão (SECE) as eventuais modificações dos processos e das bases estatísticas utilizados."
+  },
+  "c9a8e0bf747ad5b3": {
+   "fragment_id": "TÍTULO III — Disposições relativas à verificação do cálculo do PNBpm",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições relativas à verificação do cálculo do PNBpm",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições relativas à verificação do cálculo do PNBpm"
+  },
+  "987912f6164097cb": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. A Comissão é assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado que institui a Comunidade Económica Europeia, para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros serão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\n3. A Comissão adopta medidas que são imediatamente aplicáveis. Todavia, se tais medidas não forem conformes ao parecer emitido pelo comité, elas serão imediatamente comunicadas pela Comissão ao Conselho. Neste caso:\n\n- a Comissão difere a aplicação das medidas que aprovou por um prazo que será fixado em cada acto a adoptar pelo Conselho, mas que não poderá em nenhum caso ultrapassar três meses a partir da data da comunicação,\n\n- o Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo previsto no travessão anterior."
+  },
+  "807318a4dc90941c": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nO comité referido no artigo 6º analisa as questões apresentadas pelo seu presidente, por iniciativa deste ou a pedido do representante de um Estado-membro, relativas à aplicação da presente directiva, nomeadamente no que se refere:\n\na) À observância anual das definições referidas nos artigos 1º e 2º;\n\nb) Ao exame anual dos dados transmitidos no âmbito do artigo 3º e das informações transmitidas no âmbito dos artigos 4º e 5º relativas às fontes estatísticas e aos processos de cálculo do PNBpm e das suas componentes.\n\nO comité ocupa-se igualmente das questões de revisão dos dados do PNBpm e do problema do carácter exaustivo do PNBpm.\n\nSe necessário, o comité sugerirá à Comissão medidas destinadas a aumentar a comparabilidade e a representatividade dos PNBpm. TÍTULO IV\n\nDisposições financeiras"
+  },
+  "5bb9842f300d637d": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nOs Estados-membros beneficiarão, durante os primeiros anos de realização da presente directiva, de uma contribuição financeira da Comunidade para a execução dos trabalhos de melhoramento da comparabilidade e da representatividade dos dados do PNBpm. O montante considerado necessário para esta contribuição eleva-se a 6 milhões de ecus."
+  },
+  "c248aeffbb9ac580": {
+   "fragment_id": "TÍTULO V — Disposições finais",
+   "type": "divisao",
+   "heading": "TÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Disposições finais"
+  },
+  "bb87ad801f5410d1": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros porão em vigor as medidas necessárias para dar cumprimento à presente directiva o mais tardar no prazo de doze meses subsequente à notificação da mesma (1)."
+  },
+  "03f1157319c0b5a8": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nA Comissão apresentará um relatório sobre a aplicação da presente directiva, antes do final de 1991, por ocasião da nova análise da Decisão 88/376/CEE, Euratom."
+  },
+  "b8478e4444a9f1e5": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 13 de Fevereiro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nC. SOLCHAGA CATALAN\n\n(1) JO nº L 185 de 15. 7. 1988, p. 24.\n\n(2) JO nº C 187 de 18. 7. 1988, p. 142.\n\n(1) A presente directiva foi notificada aos Estados-membros em 16 de Fevereiro de 1989."
+  },
+  "cf0050394a5e61de": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1989L0130 — PT — 20.11.2003 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0130:PT:NOT) [DIRECTIVA DO CONSELHO de 13 de Fevereiro de 1989 relativa à harmonização da determinação do Produto Nacional Bruto a preços de mercado (89/130/CEE, Euratom)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0130:PT:NOT) (JO L 049, 21.2.1989, p.26)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | [Regulamento (CE) n.o 1882/2003 do Parlamento Europeu e do Conselho de 29 de Setembro de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT) | L 284 | 1 | 31.10.2003 |\n\n| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |\n| --- |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0130:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 13 de Fevereiro de 1989\n\nrelativa à harmonização da determinação do Produto Nacional Bruto a preços de mercado\n\n(89/130/CEE, Euratom)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Tratado que institui a Comunidade Europeia da Energia Atómica,\n\nTendo em conta a Decisão 88/376/CEE, Euratom do Conselho, de 24 de Junho de 1988, relativa ao sistema de recursos próprios das Comunidades ([1](http://publications.europa.eu/resource/cellar/35c13a7f-f45e-4e12-a869-c4875763fbd1.0018.02/DOC_1#E0001)), e, nomeadamente, o n.o 2 do seu artigo 8.o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/35c13a7f-f45e-4e12-a869-c4875763fbd1.0018.02/DOC_1#E0002)),\n\nConsiderando que a criação de um recurso próprio complementar das Comunidades baseado no Produto Nacional Bruto a preços de mercado, adiante designado PNBpm, dos Estados-membros torna necessário um reforço da comparabilidade e da fiabilidade desse agregado;\n\nConsiderando que a plena realização do mercado interno aumentará a necessidade de dispor de dados comparáveis no plano internacional sobre o agregado PNBpm e suas componentes; que esses dados constituem, além disso, importantes elementos de análise para a coordenação das políticas económicas;\n\nConsiderando que os dados do PNBpm devem ser comparáveis do ponto de vista conceptual e prático e representativos da economia dos Estados-membros;\n\nConsiderando que a comparabilidade conceptual do PNBpm é garantida pelo respeito das definições e das regras de contabilização pertinentes do Sistema Europeu de Contas Económicas Integradas (SEC);\n\nConsiderando que a comparabilidade prática do PNBpm depende dos processos de avaliação aplicados e dos dados de bases disponíveis; que a melhoria do grau de cobertura do PNBpm pressupõe o desenvolvimento das bases estatísticas e dos processos de avaliação;\n\nConsiderando que é necessário instituir um procedimento de verificação e de apreciação da comparabilidade e da representatividade do PNBpm; que, nesse sentido, há que criar um comité no seio do qual seja assegurada uma estreita colaboração entre os Estados-membros e a Comissão,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1b14b3394b473205": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO PNBpm é definido nos termos do Sistema Europeu de Contas Económicas Integradas (SEC) em vigor.\n\nO PNBpm é calculado somando ao Produto Interno Bruto a preços de mercado (PIBpm, código SEC: N1) a remuneração dos assalariados (R10) e os rendimentos da propriedade e das empresas (R40) recebidos do resto do mundo e subtraindo os fluxos correspondentes pagos ao resto do mundo."
+  },
+  "83916cce94a9f6ee": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO PIBpm representa o resultado final da actividade de produção das unidades produtivas residentes. O PIBpm pode ser apresentado em relação ao SEC segundo três ópticas:\n\n1. Óptica de produção\n\nO PIBpm (N1) é o saldo entre a produção de bens e serviços (P10) e o consumo intermédio (P20) acrescido do IVA que incide sobre os produtos (R21) e os impostos líquidos ligados às importações, com exclusão do imposto sobre o valor acrescentado (IVA) (R29).\n\n2. Óptica das despesas\n\nO PIBpm (N1) é a soma do consumo final (P30), no território económico das famílias, das administrações privadas sem fins lucrativos, das administrações públicas, da formação bruta de capital fixo (P41), da variação de existências (P42) e da diferença entre as exportações (P50) e as importações (P60).\n\n3. Óptica dos rendimentos\n\nO PIBpm (N1) é a soma da remuneração dos assalariados (R10), do excedente bruto de exploração da economia (N2) e dos impostos ligados à produção e à importação (R20), deduzidos os subsídios à exploração (R30)."
+  },
+  "1a4932f722692503": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros determinam o PNBpm nos termos do artigo 1.o no âmbito da contabilidade nacional.\n\n2. Antes de 1 de Outubro de cada ano, os Estados-membros apresentarão à Comissão (Serviço de Estatística das Comunidades Europeias, SECE), no âmbito da contabilidade nacional, os dados para o agregado PNBpm e suas componentes, de acordo com as definições do SEC referidas nos artigos 1.o e 2.o Além disso, os Estados-membros fornecerão as informações necessárias para mostrar como foi estabelecido o agregado. Os dados apresentados dizem respeito ao ano anterior e às eventuais alterações introduzidas nos dados dos exercícios anteriores."
+  },
+  "ebd5ff906e496b98": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nProgressivamente e no prazo máximo de 18 meses a contar da data da notificação da presente directiva, os Estados-membros fornecerão à Comissão (SECE), de acordo com as regras por esta fixadas em consulta com o comité referido no artigo 6.o, um inventário dos processos e das bases utilizadas para o cálculo do PNBpm e das suas componentes."
+  },
+  "8cfec00a6eeacf00": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAo comunicarem os dados previstos no artigo 3.o, os Estados-membros transmitirão à Comissão (SECE) as eventuais modificações dos processos e das bases estatísticas utilizados."
+  },
+  "850b33f9f5f2c7d2": {
+   "fragment_id": "TÍTULO III — Disposições relativas à verificação do cálculo do PNBpm",
+   "type": "divisao",
+   "heading": "TÍTULO III — Disposições relativas à verificação do cálculo do PNBpm",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições relativas à verificação do cálculo do PNBpm\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003R1882:PT:NOT)"
+  },
+  "a052609a3c64e45c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.o e 7.o da Decisão 1999/468/CE ([3](http://publications.europa.eu/resource/cellar/35c13a7f-f45e-4e12-a869-c4875763fbd1.0018.02/DOC_1#E0003)), tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 3 do artigo 4.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31989L0130:PT:NOT)"
+  },
+  "5f333416f357793e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO comité referido no artigo 6.o analisa as questões apresentadas pelo seu presidente, por iniciativa deste ou a pedido do representante de um Estado-membro, relativas à aplicação da presente directiva, nomeadamente no que se refere:\n\na) À observância anual das definições referidas nos artigos 1.o e 2.o;\n\nb) Ao exame anual dos dados transmitidos no âmbito do artigo 3.o e das informações transmitidas no âmbito dos artigos 4.o e 5.o relativas às fontes estatísticas e aos processos de cálculo do PNBpm e das suas componentes.\n\nO comité ocupa-se igualmente das questões de revisão dos dados do PNBpm e do problema do carácter exaustivo do PNBpm.\n\nSe necessário, o comité sugerirá à Comissão medidas destinadas a aumentar a comparabilidade e a representatividade dos PNBpm."
+  },
+  "67cfe29b4b8b72d3": {
+   "fragment_id": "TÍTULO IV — Disposições financeiras",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Disposições financeiras"
+  },
+  "4c2a71b3609556cc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros beneficiarão, durante os primeiros anos de realização da presente directiva, de uma contribuição financeira da Comunidade para a execução dos trabalhos de melhoramento da comparabilidade e da representatividade dos dados do PNBpm. O montante considerado necessário para esta contribuição eleva-se a 6 milhões de ecus."
+  },
+  "81105478c8e905b2": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros porão em vigor as medidas necessárias para dar cumprimento à presente directiva o mais tardar no prazo de doze meses subsequente à notificação da mesma ([4](http://publications.europa.eu/resource/cellar/35c13a7f-f45e-4e12-a869-c4875763fbd1.0018.02/DOC_1#E0004))."
+  },
+  "7fc53c6a69c3d076": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Comissão apresentará um relatório sobre a aplicação da presente directiva, antes do final de 1991, por ocasião da nova análise da Decisão 88/376/CEE, Euratom."
+  },
+  "5865b9242257a7d7": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/35c13a7f-f45e-4e12-a869-c4875763fbd1.0018.02/DOC_1#src.E0001)) JO n.o L 185 de 15. 7. 1988, p. 24.\n\n([2](http://publications.europa.eu/resource/cellar/35c13a7f-f45e-4e12-a869-c4875763fbd1.0018.02/DOC_1#src.E0002)) JO n.o C 187 de 18. 7. 1988, p. 142.\n\n([3](http://publications.europa.eu/resource/cellar/35c13a7f-f45e-4e12-a869-c4875763fbd1.0018.02/DOC_1#src.E0003)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45).\n\n([4](http://publications.europa.eu/resource/cellar/35c13a7f-f45e-4e12-a869-c4875763fbd1.0018.02/DOC_1#src.E0004)) A presente directiva foi notificada aos Estados-membros em 16 de Fevereiro de 1989."
+  },
+  "d2f16008fd311089": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01989L0130 — PT — 18.04.2019 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31989L0130) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0130) [de 13 de Fevereiro de 1989](http://publications.europa.eu/resource/celex/31989L0130) [relativa à harmonização da determinação do Produto Nacional Bruto a preços de mercado](http://publications.europa.eu/resource/celex/31989L0130) [(89/130/CEE, Euratom)](http://publications.europa.eu/resource/celex/31989L0130) (JO L 049, 21.2.1989, p.26)\n\n**Revogada por:**\n\n- [Regulamento (UE) 2019/516 do Parlamento Europeu e do Conselho de 19 de março de 2019](http://publications.europa.eu/resource/celex/32019R0516) — L 91 — 19 — 29.3.2019"
+  }
+ }
+}

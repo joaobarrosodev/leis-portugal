@@ -1,0 +1,647 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:197360:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-108025359",
+ "dre_path": "/dr/detalhe/decreto-lei/174-2002-197360",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180033718",
+    "108025522",
+    "108025523",
+    "108025524",
+    "108025525",
+    "108025526",
+    "108025527",
+    "108025528",
+    "108025529",
+    "108025530",
+    "108025531",
+    "108025532",
+    "108025533",
+    "108025534",
+    "108025535",
+    "108025536",
+    "108025537",
+    "108025538",
+    "108025539",
+    "108025540",
+    "108025541",
+    "108025542",
+    "108025544",
+    "108025545",
+    "108025546"
+   ]
+  },
+  {
+   "date": "2017-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108021179:por",
+     "title": "Lei n.º 84/2017",
+     "published": "2017-08-18",
+     "dre_path": "/dr/detalhe/lei/84-2017-108021179"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "108025521",
+    "108025522",
+    "108025523",
+    "108025524",
+    "108025525",
+    "108025526",
+    "108025527",
+    "108025528",
+    "108025529",
+    "108025530",
+    "108025531",
+    "108025532",
+    "108025564",
+    "108025561",
+    "108025562",
+    "108025563",
+    "108025536",
+    "108025537",
+    "108025538",
+    "108025539",
+    "108025540",
+    "108025541",
+    "108025542",
+    "108025543",
+    "108025544",
+    "108025545",
+    "108025546"
+   ]
+  },
+  {
+   "date": "2019-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117202785:por",
+     "title": "Decreto-Lei n.º 108/2018",
+     "published": "2018-12-03",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2018-117202785"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180033718",
+    "180033719",
+    "180033720",
+    "180033721",
+    "180033722",
+    "180033723",
+    "180033724",
+    "180033725",
+    "180033726",
+    "180033727",
+    "180033728",
+    "180033729",
+    "180033730",
+    "180033731",
+    "180033732",
+    "180033733",
+    "180033734",
+    "180033735",
+    "180033736",
+    "180033737",
+    "180033738",
+    "180033739",
+    "180033740",
+    "180033741",
+    "180033742",
+    "180033743",
+    "180033744"
+   ]
+  }
+ ],
+ "fragments": {
+  "180033718": {
+   "fragment_id": "108025360",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-04-02",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 174/2002\n\nde 25 de Julho\n\nNas aplicações pacíficas da energia nuclear, reactores e outras instalações do ciclo do combustível nuclear, como nas utilizações de substâncias radioactivas e equipamentos produtores de radiações ionizantes em actividades económicas, médicas, de ensino e de investigação, podem ocorrer situações anormais que requeiram acções de intervenção para protecção das pessoas, das propriedades e do ambiente.\n\nAs intervenções no caso de acidentes nucleares e emergências radiológicas ou nos casos de exposição prolongada após uma situação de emergência ou resultante de uma prática ou actividade laboral anterior ou antiga são, em primeiro lugar, uma responsabilidade do titular da instalação ou prática. Nos casos de maior gravidade são chamados também a intervir os serviços públicos de socorros e as autoridades locais e nacionais, e naqueles casos em que possa vir a ter consequências potenciais para populações numerosas ou vastas áreas territoriais poderá apelar-se ao sistema internacional, de que Portugal faz parte, o qual integra organizações com responsabilidades e funções específicas.\n\nNo domínio da cooperação internacional destaca-se o Acordo Luso-Espanhol sobre Cooperação em Matéria de Segurança das Instalações Nucleares de Fronteira, Decreto n.º 36/80, de 30 de Maio, a Convenção sobre a Notificação Rápida de Um Acidente Nuclear, Decreto do Presidente da República n.º 15/92, de 3 de Julho, a Convenção sobre Assistência em Caso de Acidente Nuclear ou Emergência Radiológica, assinada em 26 de Setembro de 1986 e ainda não ratificada, e os compromissos assumidos pelo Estado Português decorrentes do <a href=\"eurlex/euratom.asp\">tratado EURATOM</a>.\n\nA legislação nacional confere competências a diversas entidades e serviços da Administração Pública, como sejam, de entre outros, o Serviço Nacional de Protecção Civil, o Instituto do Ambiente, a Direcção-Geral da Saúde, o Instituto Nacional de Emergência Médica, o Instituto Tecnológico e Nuclear, o Instituto de Meteorologia, a Comissão de Planeamento da Agricultura, Pescas e Alimentação de Emergência e as entidades referidas no Decreto-Lei n.º 36/95, de 14 de Fevereiro, relativo à informação da população sobre as medidas de protecção sanitária aplicáveis e sobre o comportamento a adoptar em caso de emergência radiológica.\n\nAtendendo a que o presente diploma apenas contempla situações de emergência radiológica resultantes das aplicações pacíficas da energia nuclear, a intervenção em caso de conflito armado ou de terrorismo com ameaça ou perigo nuclear será objecto de regulamentação legal autónoma com a criação de um sistema nacional de resposta a ameaças, ataques e ou acções criminosas ou terroristas em território nacional envolvendo elementos nucleares, biológicos e químicos (NBQ).\n\nO presente diploma visa definir os princípios de acção e clarificar os domínios e complementaridade de actuação daquelas entidades nas situações de emergência radiológica. O diploma corresponde a uma necessidade legislativa nacional e transpõe o título IX, «Intervenção», da Directiva n.º 96/29/EURATOM, de 13 de Maio, que fixa as normas de segurança relativas à protecção da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108025522": {
+   "fragment_id": "108025361",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "108025523": {
+   "fragment_id": "108025362",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto\n\nO presente diploma é aplicável à intervenção em caso de emergência radiológica ou de exposição prolongada na sequência de uma emergência radiológica ou de exercício de uma prática ou actividade laboral anterior ou antiga resultantes das aplicações pacíficas da energia nuclear e transpõe para o ordenamento jurídico interno o título IX, «Intervenção», da Directiva n.º 96/29/EURATOM, de 13 de Maio, que fixa as normas de segurança relativas à protecção da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes."
+  },
+  "108025524": {
+   "fragment_id": "108025363",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do presente diploma, entende-se por:\n\na) Autoridade competente - autoridade designada nos termos do presente diploma;\n\nb) Autoridade técnica de intervenção (ATI) - autoridade responsável pela coordenação das acções envolvendo os aspectos radiológicos em situação de emergência radiológica, desde a notificação inicial até ao final de uma emergência radiológica em que todos os intervenientes terminaram a acção de resposta;\n\nc) Contaminação radioactiva - contaminação de qualquer matéria, superfície ou ambiente ou de um indivíduo por substâncias radioactivas. No caso específico do corpo humano, esta contaminação radioactiva inclui a contaminação externa cutânea e a contaminação interna, independentemente da via de incorporação;\n\nd) Emergência radiológica - situação que requer uma acção urgente a fim de proteger os trabalhadores, membros do público ou uma parte ou a totalidade da população;\n\ne) Exposição - processo de ser exposto a radiações ionizantes;\n\nf) Exposição acidental - exposição de indivíduos em consequência de um acidente, com exclusão de exposição de emergência;\n\ng) Exposição de emergência - exposição de indivíduos que executem uma acção rápida necessária para prestar assistência a indivíduos em perigo, evitar a exposição de um grande número de pessoas ou salvar uma instalação ou bens de valor, que implique que um dos limites de dose individual igual ao fixado para os trabalhadores expostos possa ser excedido. A exposição de emergência só se aplica a voluntários;\n\nh) Exposição potencial - exposição de cuja ocorrência não pode haver a certeza, mas cuja probabilidade pode ser previamente estimada;\n\ni) Fonte - aparelho, substância radioactiva ou instalação capaz de emitir radiações ionizantes ou substâncias radioactivas;\n\nj) Fontes artificiais - fontes de radiação diferentes das fontes de radiação natural;\n\nk) Fontes de radiação naturais - fontes de radiação ionizante de origem natural, terrestre ou cósmica;\n\nl) Grupo de referência da população - grupo que inclua indivíduos cuja exposição a uma fonte seja razoavelmente homogénea e representativa dos indivíduos que, de entre a população, sejam os mais expostos à referida fonte;\n\nm) Incorporação - as actividades dos radionuclidos que entram no organismo provenientes do meio exterior;\n\nn) Intervenção - actividade humana destinada a impedir ou diminuir a exposição dos indivíduos a radiações provenientes de fontes que não façam parte de uma determinada prática ou sobre as quais se tenha perdido o controlo, através de uma acção sobre tais fontes, sobre as vias de transmissão e sobre os próprios indivíduos;\n\no) Membros do público - elementos da população, com excepção dos trabalhadores expostos, dos aprendizes e dos estudantes durante as suas horas de trabalho, de indivíduos durante exposições para efeitos de diagnóstico ou tratamento médico, de indivíduos que, com conhecimento de causa e de livre vontade, participem no apoio e no reconforto a pessoas submetidas a diagnóstico ou tratamento médico e de voluntários que participem em programas de investigação médica e biomédica;\n\np) Nível de intervenção - valor indicativo de dose equivalente evitável, de dose efectiva evitável ou valor derivado a partir do qual deve ser considerada a adopção de medidas de intervenção. O valor de dose evitável ou o valor derivado é unicamente aquele que se refere à via de exposição sobre a qual a medida de intervenção vai ser aplicada;\n\nq) Ponto de contacto - entidade de ligação entre Portugal e a Comissão da União Europeia e a Agência Internacional de Energia Atómica em situações de emergência radiológica, como pessoal permanente vinte e quatro horas por dia, e que está autorizada a receber ou enviar mensagens de alerta ou pedidos de assistência mútua;\n\nr) Prática - actividade humana de que pode resultar um aumento de exposição dos indivíduos às radiações provenientes de uma fonte artificial ou de uma fonte de radiação natural, no caso de os radionuclidos naturais serem processados em função das suas propriedades radioactivas, cindíveis ou férteis, excepto em situações de exposição de emergência;\n\ns) Radiação ionizante - transferência de energia sob a forma de partículas ou ondas electromagnéticas com um comprimento de onda igual ou inferior a 100 nm ou uma frequência igual ou superior a 3 x 10(elevado a 15) Hertz e capazes de produzir iões directa ou indirectamente;\n\nt) Substância radioactiva - qualquer substância que contenha um ou mais radionuclidos cuja actividade ou concentração não possa ser menosprezada do ponto de vista da protecção contra as radiações;\n\nu) Titular - pessoa singular ou colectiva juridicamente responsável pela instalação."
+  },
+  "108025525": {
+   "fragment_id": "108025364",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais de intervenção\n\nA execução e a envergadura de qualquer intervenção são decididas de acordo com os seguintes princípios:\n\na) A intervenção só deve efectuar-se quando a redução dos efeitos nocivos devidos a radiações for suficiente para justificar os inconvenientes e os custos, incluindo os custos sociais, decorrentes dessa intervenção;\n\nb) A forma, a escala e a duração da intervenção devem ser optimizadas de modo a maximizar o benefício correspondente à redução dos prejuízos para a saúde, deduzidos os inconvenientes associados à intervenção;\n\nc) Os limites de dose, estabelecidos na respectiva legislação em vigor, não se aplicam em caso de intervenção, sem prejuízo do disposto na alínea f);\n\nd) Os níveis de intervenção, definidos nos termos do n.º 1 do artigo  15.º, têm um valor indicativo para as situações em que se justifica uma intervenção;\n\ne) A exposição dos indivíduos que realizem uma intervenção está sujeita a controlo para salvaguardar que os níveis de dose de intervenção não sejam ultrapassados, embora se admita que excepcionalmente aqueles possam ser excedidos para salvar vidas humanas, mas unicamente em voluntários que estejam informados dos riscos que a sua intervenção comporta;\n\nf) Nos casos de exposição prolongada na sequência de uma emergência radiológica ou do exercício de uma prática anterior ou antiga, os limites de dose, estabelecidos na respectiva legislação em vigor para os trabalhadores expostos, devem, em princípio, ser apropriados para os trabalhadores envolvidos na intervenção;\n\ng) A estimativa e a medida de doses devem ser efectuadas segundo procedimentos de boa prática, a aprovar nos planos de emergência."
+  },
+  "108025526": {
+   "fragment_id": "108025365",
+   "type": 1,
+   "heading": "Capítulo II — Preparação da intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Preparação da intervenção"
+  },
+  "108025527": {
+   "fragment_id": "108025366",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade técnica de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade técnica de intervenção\n\n1 - A Direcção-Geral da Saúde é competente em todas as situações de emergência radiológica em instalações, excepto as relativas a actividades mineiras e outras instalações do ciclo de combustível nuclear e o disposto no n.º 4.\n\n2 - O Instituto do Ambiente é competente e em todas as situações de emergência radiológica de que resulte ou possa resultar risco para a população e o ambiente, incluindo a situação decorrente do exercício de práticas mineiras antigas ou anteriores relativas a minério radioactivo.\n\n3 - O Instituto Tecnológico e Nuclear é competente em situações de emergência radiológica ocorrida num transporte de substâncias radioactivas ou em situações de emergência provocada pela perda de fontes radioactivas seladas.\n\n4 - Nos casos não previstos nos números anteriores, a ATI é definida pelo Ministro da Administração Interna.\n\n5 - No caso de uma autoridade diferente da ATI receber uma notificação de ocorrência de emergência radiológica, deve notificar imediatamente a ATI."
+  },
+  "108025528": {
+   "fragment_id": "108025367",
+   "type": 11,
+   "heading": "Artigo 5.º — Funções da autoridade técnica de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funções da autoridade técnica de intervenção\n\n1 - No âmbito das suas competências, cada ATI é responsável pela coordenação das acções, desde a notificação inicial até ao final de uma emergência radiológica em que todos os intervenientes terminaram a acção de resposta.\n\n2 - Após a recepção de uma notificação de ocorrência de uma situação de emergência radiológica, a ATI deve:\n\na) Propor as acções adequadas, atentos os aspectos radiológicos em presença;\n\nb) Notificar outros organismos da ocorrência, informar sobre as acções já tomadas e fornecer uma avaliação geral da situação;\n\nc) Notificar o Ministério dos Negócios Estrangeiros no caso de a situação de emergência envolver uma libertação, real ou potencial, com implicações transfronteiriças.\n\n3 - Na resposta à situação de emergência, a ATI deve:\n\na) Enviar pessoal para a zona onde se verificou a situação de emergência, se considerado apropriado, e coordenar, no terreno, as acções relativas aos aspectos radiológicos;\n\nb) Manter o Conselho Nacional do Planeamento Civil de Emergência e outros organismos, conforme necessário, informados sobre o evoluir da situação, sobre o potencial ou real impacto radiológico e sobre as possíveis medidas de intervenção.\n\n4 - Nas recomendações relativas às medidas de intervenção, a ATI deve:\n\na) Dar resposta às solicitações das autoridades locais, distritais, regionais e nacionais sobre informação técnica e assistência técnica;\n\nb) Disponibilizar técnicos de ligação com as autoridades locais, distritais, regionais e nacionais para avaliação de aspectos técnicos e das consequências potenciais ou reais;\n\nc) Reexaminar todas as recomendações técnicas emitidas por outros organismos antes de serem postas em prática, de modo a garantir a consistência das recomendações radiológicas, integrando o parecer da Comissão Nacional para Emergências Radiológicas;\n\nd) Aprovar o envio às autoridades locais, distritais, regionais e nacionais dos dados de monitorização e das avaliações feitas;\n\ne) Preparar uma posição oficial coordenada sobre as recomendações de medidas de intervenção, caso haja tempo para o fazer, e apresentá-la às autoridades locais, distritais, regionais e nacionais;\n\nf) Prestar assistência às autoridades locais, distritais, regionais e nacionais na implementação das medidas de intervenção.\n\n5 - No controlo e na coordenação da informação, a ATI deve:\n\na) Fornecer às autoridades e à Comissão Nacional para Emergências Radiológicas informações sobre as condições radiológicas na zona em que ocorreu a situação de emergência e os seus efeitos potenciais ou reais, bem como sobre as condições em que se encontra a instalação ou as fontes radioactivas responsáveis pela emergência;\n\nb) Rever e cooperar na divulgação da informação oficial relacionada com a situação;\n\nc) Aprovar a divulgação de avaliações oficiais das condições na zona em que ocorreu a situação de emergência radiológica;\n\nd) Fornecer informações e dar resposta a solicitações dos membros do Governo sobre a situação radiológica."
+  },
+  "108025529": {
+   "fragment_id": "108025368",
+   "type": 11,
+   "heading": "Artigo 6.º — Pontos de contacto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pontos de contacto\n\n1 - O Serviço Nacional de Protecção Civil é o ponto de contacto nacional para o envio de notificações e informações de situações de emergência radiológica ocorridas em território nacional, incluindo uma situação de pré-emergência, quer ao nível comunitário quer ao nível internacional, de acordo com a legislação aplicável.\n\n2 - O Instituto do Ambiente é o ponto de contacto nacional para receber notificações e informações de situações de emergência radiológica ocorridas fora do território nacional, incluindo uma situação de pré-emergência, quer ao nível comunitário quer ao nível internacional, de acordo com a legislação aplicável."
+  },
+  "108025530": {
+   "fragment_id": "108025369",
+   "type": 11,
+   "heading": "Artigo 7.º — Assistência mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Assistência mútua\n\nCompete ao Serviço Nacional de Protecção Civil receber ou emitir solicitações de meios adicionais considerados necessários para a gestão de uma emergência que possa afectar outros Estados-Membros, Estados terceiros ou o território nacional, de acordo com a legislação aplicável."
+  },
+  "108025531": {
+   "fragment_id": "108025370",
+   "type": 11,
+   "heading": "Artigo 8.º — Rede de vigilância e alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Rede de vigilância e alerta\n\n1 - Compete ao Instituto do Ambiente a exploração de uma rede de medida em contínuo da radioactividade no ambiente.\n\n2 - Compete ao Departamento de Protecção Radiológica e Segurança Nuclear, do Instituto Tecnológico e Nuclear, realizar a monitorização das substâncias radioactivas no ambiente - ar, solo, águas, vegetação e produtos alimentares - através de uma rede de locais de amostragem.\n\n3 - Em caso de emergência, a coordenação das acções de monitorização compete à ATI respectiva."
+  },
+  "108025532": {
+   "fragment_id": "108025371",
+   "type": 11,
+   "heading": "Artigo 9.º — Plano de emergência interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Plano de emergência interno\n\n1 - A aprovação do plano de emergência interno de uma instalação é condição prévia para autorização da prática, nos termos da legislação em vigor.\n\n2 - O plano de emergência interno deve conter:\n\na) A identificação e a caracterização dos riscos;\n\nb) A avaliação das exposições potenciais correspondentes;\n\nc) As acções previstas e a atribuição de responsabilidades para fazer face a situações de emergência radiológica, para mitigar as suas consequências, para proteger o pessoal da instalação e para notificar prontamente a ocorrência às entidades competentes.\n\n3 - O titular deve assegurar a informação e a consulta dos trabalhadores e dos seus representantes na elaboração do plano de emergência interno.\n\n4 - O plano de emergência interno deve ser periodicamente ensaiado nas condições estabelecidas na licença, devendo o titular avisar antecipadamente a autoridade competente de fiscalização.\n\n5 - Sempre que haja risco de exposição ou contaminação radioactiva susceptível de exceder o perímetro da instalação, deve ser solicitado parecer ao Instituto do Ambiente."
+  },
+  "108025533": {
+   "fragment_id": "108025372",
+   "type": 11,
+   "heading": "Artigo 10.º — Planos de emergência externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Planos de emergência externos\n\n1 - Quando a prática implicar a necessidade de um plano de emergência externo, o titular da instalação deve enviar ao Serviço Nacional de Protecção Civil as informações necessárias para a elaboração do mesmo.\n\n2 - O plano de emergência externo deve definir os processos a utilizar para a informação da população, nos termos do Decreto-Lei n.º 36/95, de 14 de Fevereiro.\n\n3 - Compete ao Serviço Nacional de Protecção Civil a coordenação da elaboração e do ensaio periódico de planos de emergência externos para as potenciais emergências radiológicas.\n\n4 - No caso de planos municipais ou distritais, cabe à entidade com competência na área de protecção civil, definida de acordo com a legislação em vigor:\n\na) A elaboração e o ensaio periódico dos planos de emergência externos;\n\nb) A coordenação da intervenção e a avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção;\n\nc) O seu envio ao Serviço Nacional de Protecção Civil.\n\n5 - No caso de planos nacionais, compete ao Serviço Nacional de Protecção Civil a elaboração e o ensaio periódico dos planos de emergência externos, bem como a coordenação da intervenção e a avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção.\n\n6 - Os planos de emergência externos são aprovados nos termos da legislação específica em vigor."
+  },
+  "108025534": {
+   "fragment_id": "108025373",
+   "type": 11,
+   "heading": "Artigo 11.º — Equipas especiais de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Equipas especiais de intervenção\n\n1 - Os planos de emergência previstos nos artigos 9.º e 10.º devem indicar as equipas especiais de intervenção técnica, médica e sanitária.\n\n2 - A formação mínima a exigir a estas equipas de intervenção consta do anexo I.\n\n3 - O pessoal que integrar estas equipas deve ser aprovado em exames médicos específicos, satisfazendo critérios que tenham em consideração o tipo de tarefas que poderão vir a desempenhar, assim como a natureza dos riscos.\n\n4 - É obrigatória a monitorização radiológica e a vigilância médica das equipas especiais de intervenção de emergência.\n\n5 - Mulheres em idade fértil não poderão integrar as equipas de intervenção."
+  },
+  "108025535": {
+   "fragment_id": "108025374",
+   "type": 11,
+   "heading": "Artigo 12.º — Informação da população",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação da população\n\n1 - Sem prejuízo do disposto no Decreto-Lei n.º 36/95, de 14 de Fevereiro, sobre a matéria, as relações com a comunicação social e a elaboração e a difusão de comunicados devem ser asseguradas pelas seguintes entidades:\n\na) Serviço Nacional de Protecção Civil, no caso de situações de emergência de âmbito nacional;\n\nb) Entidade com competência na área da protecção civil, no caso de situações de emergência de âmbito distrital ou municipal.\n\n2 - As autoridades referidas no número anterior devem ser coadjuvadas pela respectiva ATI e pela Comissão Nacional para Emergências Radiológicas."
+  },
+  "108025536": {
+   "fragment_id": "108025575",
+   "type": 1,
+   "heading": "Capítulo III — Execução das intervenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Execução das intervenções"
+  },
+  "108025537": {
+   "fragment_id": "108025576",
+   "type": 11,
+   "heading": "Artigo 13.º — Notificação e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Notificação e avaliação\n\n1 - Sempre que ocorra uma emergência radiológica numa instalação, o titular deve:\n\na) Notificar imediatamente a respectiva ATI;\n\nb) Proceder a uma primeira avaliação das circunstâncias e consequências da situação e contribuir para a intervenção da emergência;\n\nc) Notificar a entidade com competência na área da protecção civil, no caso de possíveis consequências para a população.\n\n2 - A ATI deve centralizar toda a informação relativa à ocorrência da emergência."
+  },
+  "108025538": {
+   "fragment_id": "108025577",
+   "type": 11,
+   "heading": "Artigo 14.º — Execução geral da intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Execução geral da intervenção\n\n1 - Se a situação o exigir, devem ser tomadas providências para a realização de intervenções relacionadas com:\n\na) A fonte, a fim de reduzir ou deter a emissão de radiações e a dispersão de radionuclidos;\n\nb) O ambiente, a fim de reduzir a transferência de substâncias radioactivas para os indivíduos;\n\nc) Os indivíduos, a fim de reduzir a exposição e organizar o tratamento das pessoas vitimadas.\n\n2 - No caso de uma situação conducente a uma exposição prolongada na sequência de uma emergência radiológica ou do exercício de uma prática anterior, o Serviço Nacional de Protecção Cicil, consultando a Comissão Nacional para Emergências Radiológicas, se necessário, e atendendo à importância do risco da exposição, deve definir:\n\na) A delimitação da área afectada;\n\nb) A criação de um dispositivo de monitorização da exposição;\n\nc) A execução das intervenções adequadas, tendo em conta as características reais da exposição;\n\nd) A regulamentação do acesso ou da utilização dos terrenos ou edifícios situados na área delimitada;\n\ne) A avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção."
+  },
+  "108025539": {
+   "fragment_id": "108025578",
+   "type": 11,
+   "heading": "Artigo 15.º — Níveis de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Níveis de intervenção\n\n1 - Os níveis de intervenção, definidos no anexo II, devem ser considerados como valores indicativos para adopção de medidas de intervenção urgentes e para medidas de intervenção em caso de exposição prolongada na sequência de uma emergência radiológica ou do exercício de uma prática anterior ou antiga.\n\n2 - A ATI, ouvida a Comissão Nacional para Emergências Radiológicas, caso haja tempo para o fazer, poderá propor, caso a caso, níveis de intervenção específicos, tendo em conta as condições reais verificadas numa situação de emergência."
+  },
+  "108025540": {
+   "fragment_id": "108025579",
+   "type": 11,
+   "heading": "Artigo 16.º — Níveis de exposição profissional de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Níveis de exposição profissional de emergência\n\n1 - Os trabalhadores ou o pessoal de intervenção podem estar sujeitos a exposição de emergência que exceda os limites da dose fixados para os trabalhadores expostos, tendo em conta as necessidades técnicas e os riscos para a saúde.\n\n2 - Os níveis de exposição de emergência, indicados no anexo III, constituem valores indicativos operacionais, podendo ser excedidos, a título excepcional, para salvar vidas humanas, mas unicamente em voluntários que estejam informados dos riscos que a sua intervenção comporta."
+  },
+  "108025541": {
+   "fragment_id": "108025580",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "108025542": {
+   "fragment_id": "108025581",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108025544": {
+   "fragment_id": "108025583",
+   "type": 14,
+   "heading": "Anexo I — Formação do pessoal das equipas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Formação do pessoal das equipas de intervenção\n\nMatérias a desenvolver, nos termos do n.º 2 do artigo 11.º\n\nI - Introdução:\n\n1 - Objectivos da formação:\n\nTipos e origens de emergências;\n\nMedidas de protecção apropriadas.\n\n2 - Nomenclatura científica:\n\nUtilização de símbolos, prefixos e expressão logarítmica de unidades;\n\nUtilização de tabelas e gráficos;\n\nDescrição de riscos.\n\nII - Natureza da radiação:\n\n1 - Estrutura do átomo.\n\n2 - Isótopos estáveis e instáveis.\n\n3 - Radioactividade:\n\nRadioactividade natural;\n\nRadioactividade artificial.\n\n4 - Declínio radioactivo.\n\n5 - Unidades de radioactividade.\n\nIII - Efeitos da radiação:\n\n1 - Interacção da radiação X, y, partículas carregadas e neutrões, com a matéria.\n\n2 - Grandezas e unidades utilizadas em radioprotecção:\n\n2.1 - Actividade;\n\n2.2 - Dose absorvida;\n\n2.3 - Equivalente de dose.\n\n3 - Acção biológica das radiações sobre os organismos vivos:\n\n3.1 - Efeitos somáticos;\n\n3.2 - Efeitos hereditários;\n\n3.3 - Efeitos estocásticos e efeitos não estocásticos;\n\n3.4 - Relação dose-efeito.\n\nIV - Práticas de protecção radiológica:\n\n1 - Princípios de redução de dose.\n\n2 - Métodos de protecção pessoal.\n\n3 - Métodos práticos para a redução de dose.\n\n4 - Monitorização das radiações ionizantes:\n\n4.1 - Princípio de funcionamento dos equipamentos;\n\n4.2 - Critérios de escolha;\n\n4.3 - Dosimetria individual e dosimetria de área.\n\nV - Directrizes de vigilância em caso de incidente ou emergência radiológica:\n\n1 - Detectar a emissão da radiação.\n\n2 - Analisar a natureza da emissão.\n\n3 - Efectuar as medidas em que as medidas de protecção se baseiam.\n\nVI - Controlo da exposição à irradiação externa:\n\n1 - Forma da fonte:\n\nFonte pontual;\n\nFonte linear;\n\nFonte superficial.\n\n2 - Factores de protecção:\n\nTempo de exposição;\n\nTempo de permanência;\n\nDistância;\n\nBlindagem;\n\nFissuras nas blindagens.\n\nVII - Controlo de fontes não seladas:\n\n1 - Contaminação radioactiva:\n\nInalação;\n\nIngestão;\n\nContaminação cutânea;\n\nExposição directa.\n\n2 - Controlo da contaminação:\n\nVigilância da contaminação;\n\nContaminação superficial;\n\nContaminação atmosférica;\n\nZonas contaminadas.\n\n3 - Descontaminação e eliminação de resíduos.\n\nVIII - Gestão de emergências radiológicas:\n\n1 - Planificação da emergência.\n\n2 - Gestão da emergência.\n\n3 - Controlo da exposição do pessoal da instalação.\n\n4 - Exercícios e práticas:\n\nVisitas de familiarização;\n\nExercícios standard.\n\n5 - Recuperação após o acidente."
+  },
+  "108025545": {
+   "fragment_id": "108025584",
+   "type": 14,
+   "heading": "Anexo II — QUADRO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — QUADRO I\n\nNíveis de intervenção para medidas de intervenção urgentes\n\n(ver quadro no documento original)\n\nQUADRO II\n\nNíveis de intervenção para realojamento temporário e permanente\n\n(ver quadro no documento original)"
+  },
+  "108025546": {
+   "fragment_id": "108025585",
+   "type": 14,
+   "heading": "Anexo III — Níveis de dose para pessoal envolvido em intervenções de emergência radiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Níveis de dose para pessoal envolvido em intervenções de emergência radiológica\n\nTodo o pessoal que intervenha em situações de emergência radiológica - trabalhadores internos de uma instalação e pessoal externo de serviços de emergência - deve ser classificado em três categorias, consoante os tipos de trabalhos a executar:\n\nCategoria 1 - pessoal que realize acções urgentes no local do acidente ou no local onde ocorre a intervenção, com o objectivo de salvar vidas, prevenir a ocorrência de lesões e ferimentos graves ou prevenir a ocorrência de situações com efeitos catastróficos de que possam resultar doses significativas para os membros do público;\n\nCategoria 2 - pessoal envolvido em acções de suporte ao pessoal da categoria 1 ou que contribuam para minimizar ou evitar a exposição do público. É o caso de agentes das forças de segurança, pessoal médico, condutores e tripulantes de máquinas e veículos;\n\nCategoria 3 - pessoal que execute operações de recuperação após controlo das causas da situação de emergência. Estas operações podem ter longa duração, incluir reparações de instalações, descontaminação das áreas afectadas e remoção de resíduos.\n\n(ver quadro no documento original)"
+  },
+  "108025521": {
+   "fragment_id": "108025360",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 174/2002\n\nde 25 de Julho\n\nNas aplicações pacíficas da energia nuclear, reactores e outras instalações do ciclo do combustível nuclear, como nas utilizações de substâncias radioactivas e equipamentos produtores de radiações ionizantes em actividades económicas, médicas, de ensino e de investigação, podem ocorrer situações anormais que requeiram acções de intervenção para protecção das pessoas, das propriedades e do ambiente.\n\nAs intervenções no caso de acidentes nucleares e emergências radiológicas ou nos casos de exposição prolongada após uma situação de emergência ou resultante de uma prática ou actividade laboral anterior ou antiga são, em primeiro lugar, uma responsabilidade do titular da instalação ou prática. Nos casos de maior gravidade são chamados também a intervir os serviços públicos de socorros e as autoridades locais e nacionais, e naqueles casos em que possa vir a ter consequências potenciais para populações numerosas ou vastas áreas territoriais poderá apelar-se ao sistema internacional, de que Portugal faz parte, o qual integra organizações com responsabilidades e funções específicas.\n\nNo domínio da cooperação internacional destaca-se o Acordo Luso-Espanhol sobre Cooperação em Matéria de Segurança das Instalações Nucleares de Fronteira, Decreto n.º 36/80, de 30 de Maio, a Convenção sobre a Notificação Rápida de Um Acidente Nuclear, Decreto do Presidente da República n.º 15/92, de 3 de Julho, a Convenção sobre Assistência em Caso de Acidente Nuclear ou Emergência Radiológica, assinada em 26 de Setembro de 1986 e ainda não ratificada, e os compromissos assumidos pelo Estado Português decorrentes do <a href=\"eurlex/euratom.asp\">tratado EURATOM</a>.\n\nA legislação nacional confere competências a diversas entidades e serviços da Administração Pública, como sejam, de entre outros, o Serviço Nacional de Protecção Civil, o Instituto do Ambiente, a Direcção-Geral da Saúde, o Instituto Nacional de Emergência Médica, o Instituto Tecnológico e Nuclear, o Instituto de Meteorologia, a Comissão de Planeamento da Agricultura, Pescas e Alimentação de Emergência e as entidades referidas no Decreto-Lei n.º 36/95, de 14 de Fevereiro, relativo à informação da população sobre as medidas de protecção sanitária aplicáveis e sobre o comportamento a adoptar em caso de emergência radiológica.\n\nAtendendo a que o presente diploma apenas contempla situações de emergência radiológica resultantes das aplicações pacíficas da energia nuclear, a intervenção em caso de conflito armado ou de terrorismo com ameaça ou perigo nuclear será objecto de regulamentação legal autónoma com a criação de um sistema nacional de resposta a ameaças, ataques e ou acções criminosas ou terroristas em território nacional envolvendo elementos nucleares, biológicos e químicos (NBQ).\n\nO presente diploma visa definir os princípios de acção e clarificar os domínios e complementaridade de actuação daquelas entidades nas situações de emergência radiológica. O diploma corresponde a uma necessidade legislativa nacional e transpõe o título IX, «Intervenção», da Directiva n.º 96/29/EURATOM, de 13 de Maio, que fixa as normas de segurança relativas à protecção da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108025564": {
+   "fragment_id": "108025372",
+   "type": 11,
+   "heading": "Artigo 10.º — Planos de emergência externos",
+   "in_force_from": "2017-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 10.º — Planos de emergência externos\n\n1 - Quando a prática implicar a necessidade de um plano de emergência externo, o titular da instalação deve enviar ao Serviço Nacional de Protecção Civil as informações necessárias para a elaboração do mesmo.\n\n2 - O plano de emergência externo deve definir os processos a utilizar para a informação da população, nos termos do Decreto-Lei n.º 36/95, de 14 de fevereiro, bem como as medidas mitigadoras a adotar.\n\n3 - Compete ao Serviço Nacional de Protecção Civil a coordenação da elaboração e do ensaio periódico de planos de emergência externos para as potenciais emergências radiológicas.\n\n4 - No caso de planos municipais ou distritais, cabe à entidade com competência na área de protecção civil, definida de acordo com a legislação em vigor:\n\na) A elaboração e o ensaio periódico dos planos de emergência externos;\n\nb) O envolvimento da população em ensaios dos planos de emergência externos;\n\nc) A coordenação da intervenção e a avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção;\n\nd) O seu envio ao Serviço Nacional de Protecção Civil.\n\n5 - No caso de planos nacionais, compete ao Serviço Nacional de Protecção Civil a elaboração e o ensaio periódico dos planos de emergência externos, bem como a coordenação da intervenção e a avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção.\n\n6 - Os planos de emergência externos são aprovados nos termos da legislação específica em vigor.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "108025561": {
+   "fragment_id": "108025586",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Planos de emergência nacionais, distritais e municipais",
+   "in_force_from": "2017-08-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 10.º-A — Planos de emergência nacionais, distritais e municipais\n\n1 - O plano nacional de emergência de proteção civil, assim como os planos de emergência de âmbito distrital e municipal, que abranjam a área de municípios suscetíveis de ser afetados em caso de emergência radiológica ou de acidente nuclear, devem conter a previsão específica desse risco.\n\n2 - Os planos referidos no número anterior incluem operações de prevenção, de informação, de minimização de riscos, de socorro e de apoio, assim como a respetiva coordenação, tendo em conta o sistema integrado de operações de proteção e socorro.\n\n3 - O disposto no número anterior não prejudica a existência de outros planos de emergência especiais de proteção civil, vocacionados para a emergência radiológica, designadamente os previstos nos artigos anteriores.\n\n> Aditado pelo/a Artigo 5.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "108025562": {
+   "fragment_id": "108025373",
+   "type": 11,
+   "heading": "Artigo 11.º — Equipas especiais de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Equipas especiais de intervenção\n\n1 - Os planos de emergência previstos nos artigos 9.º e 10.º devem indicar as equipas especiais de intervenção técnica, médica e sanitária.\n\n2 - A formação mínima a exigir a estas equipas de intervenção consta do anexo I.\n\n3 - O pessoal que integrar estas equipas deve ser aprovado em exames médicos específicos, satisfazendo critérios que tenham em consideração o tipo de tarefas que poderão vir a desempenhar, assim como a natureza dos riscos.\n\n4 - É obrigatória a monitorização radiológica e a vigilância médica das equipas especiais de intervenção de emergência.\n\n5 - Mulheres em idade fértil não poderão integrar as equipas de intervenção."
+  },
+  "108025563": {
+   "fragment_id": "108025374",
+   "type": 11,
+   "heading": "Artigo 12.º — Informação da população",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação da população\n\n1 - Sem prejuízo do disposto no Decreto-Lei n.º 36/95, de 14 de Fevereiro, sobre a matéria, as relações com a comunicação social e a elaboração e a difusão de comunicados devem ser asseguradas pelas seguintes entidades:\n\na) Serviço Nacional de Protecção Civil, no caso de situações de emergência de âmbito nacional;\n\nb) Entidade com competência na área da protecção civil, no caso de situações de emergência de âmbito distrital ou municipal.\n\n2 - As autoridades referidas no número anterior devem ser coadjuvadas pela respectiva ATI e pela Comissão Nacional para Emergências Radiológicas."
+  },
+  "108025543": {
+   "fragment_id": "108025582",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Maio de 2002. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix - Isaltino Afonso de Morais.\n\nPromulgado em 26 de Junho de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Julho de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "180033719": {
+   "fragment_id": "108025361",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033720": {
+   "fragment_id": "108025362",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto\n\nO presente diploma é aplicável à intervenção em caso de emergência radiológica ou de exposição prolongada na sequência de uma emergência radiológica ou de exercício de uma prática ou actividade laboral anterior ou antiga resultantes das aplicações pacíficas da energia nuclear e transpõe para o ordenamento jurídico interno o título IX, «Intervenção», da Directiva n.º 96/29/EURATOM, de 13 de Maio, que fixa as normas de segurança relativas à protecção da população e dos trabalhadores contra os perigos resultantes das radiações ionizantes.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033721": {
+   "fragment_id": "108025363",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do presente diploma, entende-se por:\n\na) Autoridade competente - autoridade designada nos termos do presente diploma;\n\nb) Autoridade técnica de intervenção (ATI) - autoridade responsável pela coordenação das acções envolvendo os aspectos radiológicos em situação de emergência radiológica, desde a notificação inicial até ao final de uma emergência radiológica em que todos os intervenientes terminaram a acção de resposta;\n\nc) Contaminação radioactiva - contaminação de qualquer matéria, superfície ou ambiente ou de um indivíduo por substâncias radioactivas. No caso específico do corpo humano, esta contaminação radioactiva inclui a contaminação externa cutânea e a contaminação interna, independentemente da via de incorporação;\n\nd) Emergência radiológica - situação que requer uma acção urgente a fim de proteger os trabalhadores, membros do público ou uma parte ou a totalidade da população;\n\ne) Exposição - processo de ser exposto a radiações ionizantes;\n\nf) Exposição acidental - exposição de indivíduos em consequência de um acidente, com exclusão de exposição de emergência;\n\ng) Exposição de emergência - exposição de indivíduos que executem uma acção rápida necessária para prestar assistência a indivíduos em perigo, evitar a exposição de um grande número de pessoas ou salvar uma instalação ou bens de valor, que implique que um dos limites de dose individual igual ao fixado para os trabalhadores expostos possa ser excedido. A exposição de emergência só se aplica a voluntários;\n\nh) Exposição potencial - exposição de cuja ocorrência não pode haver a certeza, mas cuja probabilidade pode ser previamente estimada;\n\ni) Fonte - aparelho, substância radioactiva ou instalação capaz de emitir radiações ionizantes ou substâncias radioactivas;\n\nj) Fontes artificiais - fontes de radiação diferentes das fontes de radiação natural;\n\nk) Fontes de radiação naturais - fontes de radiação ionizante de origem natural, terrestre ou cósmica;\n\nl) Grupo de referência da população - grupo que inclua indivíduos cuja exposição a uma fonte seja razoavelmente homogénea e representativa dos indivíduos que, de entre a população, sejam os mais expostos à referida fonte;\n\nm) Incorporação - as actividades dos radionuclidos que entram no organismo provenientes do meio exterior;\n\nn) Intervenção - actividade humana destinada a impedir ou diminuir a exposição dos indivíduos a radiações provenientes de fontes que não façam parte de uma determinada prática ou sobre as quais se tenha perdido o controlo, através de uma acção sobre tais fontes, sobre as vias de transmissão e sobre os próprios indivíduos;\n\no) Membros do público - elementos da população, com excepção dos trabalhadores expostos, dos aprendizes e dos estudantes durante as suas horas de trabalho, de indivíduos durante exposições para efeitos de diagnóstico ou tratamento médico, de indivíduos que, com conhecimento de causa e de livre vontade, participem no apoio e no reconforto a pessoas submetidas a diagnóstico ou tratamento médico e de voluntários que participem em programas de investigação médica e biomédica;\n\np) Nível de intervenção - valor indicativo de dose equivalente evitável, de dose efectiva evitável ou valor derivado a partir do qual deve ser considerada a adopção de medidas de intervenção. O valor de dose evitável ou o valor derivado é unicamente aquele que se refere à via de exposição sobre a qual a medida de intervenção vai ser aplicada;\n\nq) Ponto de contacto - entidade de ligação entre Portugal e a Comissão da União Europeia e a Agência Internacional de Energia Atómica em situações de emergência radiológica, como pessoal permanente vinte e quatro horas por dia, e que está autorizada a receber ou enviar mensagens de alerta ou pedidos de assistência mútua;\n\nr) Prática - actividade humana de que pode resultar um aumento de exposição dos indivíduos às radiações provenientes de uma fonte artificial ou de uma fonte de radiação natural, no caso de os radionuclidos naturais serem processados em função das suas propriedades radioactivas, cindíveis ou férteis, excepto em situações de exposição de emergência;\n\ns) Radiação ionizante - transferência de energia sob a forma de partículas ou ondas electromagnéticas com um comprimento de onda igual ou inferior a 100 nm ou uma frequência igual ou superior a 3 x 10(elevado a 15) Hertz e capazes de produzir iões directa ou indirectamente;\n\nt) Substância radioactiva - qualquer substância que contenha um ou mais radionuclidos cuja actividade ou concentração não possa ser menosprezada do ponto de vista da protecção contra as radiações;\n\nu) Titular - pessoa singular ou colectiva juridicamente responsável pela instalação.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033722": {
+   "fragment_id": "108025364",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais de intervenção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 3.º — Princípios gerais de intervenção\n\nA execução e a envergadura de qualquer intervenção são decididas de acordo com os seguintes princípios:\n\na) A intervenção só deve efectuar-se quando a redução dos efeitos nocivos devidos a radiações for suficiente para justificar os inconvenientes e os custos, incluindo os custos sociais, decorrentes dessa intervenção;\n\nb) A forma, a escala e a duração da intervenção devem ser optimizadas de modo a maximizar o benefício correspondente à redução dos prejuízos para a saúde, deduzidos os inconvenientes associados à intervenção;\n\nc) Os limites de dose, estabelecidos na respectiva legislação em vigor, não se aplicam em caso de intervenção, sem prejuízo do disposto na alínea f);\n\nd) Os níveis de intervenção, definidos nos termos do n.º 1 do artigo  15.º, têm um valor indicativo para as situações em que se justifica uma intervenção;\n\ne) A exposição dos indivíduos que realizem uma intervenção está sujeita a controlo para salvaguardar que os níveis de dose de intervenção não sejam ultrapassados, embora se admita que excepcionalmente aqueles possam ser excedidos para salvar vidas humanas, mas unicamente em voluntários que estejam informados dos riscos que a sua intervenção comporta;\n\nf) Nos casos de exposição prolongada na sequência de uma emergência radiológica ou do exercício de uma prática anterior ou antiga, os limites de dose, estabelecidos na respectiva legislação em vigor para os trabalhadores expostos, devem, em princípio, ser apropriados para os trabalhadores envolvidos na intervenção;\n\ng) A estimativa e a medida de doses devem ser efectuadas segundo procedimentos de boa prática, a aprovar nos planos de emergência.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033723": {
+   "fragment_id": "108025365",
+   "type": 1,
+   "heading": "Capítulo II — Preparação da intervenção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "### Capítulo II — Preparação da intervenção\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033724": {
+   "fragment_id": "108025366",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade técnica de intervenção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 4.º — Autoridade técnica de intervenção\n\n1 - A Direcção-Geral da Saúde é competente em todas as situações de emergência radiológica em instalações, excepto as relativas a actividades mineiras e outras instalações do ciclo de combustível nuclear e o disposto no n.º 4.\n\n2 - O Instituto do Ambiente é competente e em todas as situações de emergência radiológica de que resulte ou possa resultar risco para a população e o ambiente, incluindo a situação decorrente do exercício de práticas mineiras antigas ou anteriores relativas a minério radioactivo.\n\n3 - O Instituto Tecnológico e Nuclear é competente em situações de emergência radiológica ocorrida num transporte de substâncias radioactivas ou em situações de emergência provocada pela perda de fontes radioactivas seladas.\n\n4 - Nos casos não previstos nos números anteriores, a ATI é definida pelo Ministro da Administração Interna.\n\n5 - No caso de uma autoridade diferente da ATI receber uma notificação de ocorrência de emergência radiológica, deve notificar imediatamente a ATI.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033725": {
+   "fragment_id": "108025367",
+   "type": 11,
+   "heading": "Artigo 5.º — Funções da autoridade técnica de intervenção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 5.º — Funções da autoridade técnica de intervenção\n\n1 - No âmbito das suas competências, cada ATI é responsável pela coordenação das acções, desde a notificação inicial até ao final de uma emergência radiológica em que todos os intervenientes terminaram a acção de resposta.\n\n2 - Após a recepção de uma notificação de ocorrência de uma situação de emergência radiológica, a ATI deve:\n\na) Propor as acções adequadas, atentos os aspectos radiológicos em presença;\n\nb) Notificar outros organismos da ocorrência, informar sobre as acções já tomadas e fornecer uma avaliação geral da situação;\n\nc) Notificar o Ministério dos Negócios Estrangeiros no caso de a situação de emergência envolver uma libertação, real ou potencial, com implicações transfronteiriças.\n\n3 - Na resposta à situação de emergência, a ATI deve:\n\na) Enviar pessoal para a zona onde se verificou a situação de emergência, se considerado apropriado, e coordenar, no terreno, as acções relativas aos aspectos radiológicos;\n\nb) Manter o Conselho Nacional do Planeamento Civil de Emergência e outros organismos, conforme necessário, informados sobre o evoluir da situação, sobre o potencial ou real impacto radiológico e sobre as possíveis medidas de intervenção.\n\n4 - Nas recomendações relativas às medidas de intervenção, a ATI deve:\n\na) Dar resposta às solicitações das autoridades locais, distritais, regionais e nacionais sobre informação técnica e assistência técnica;\n\nb) Disponibilizar técnicos de ligação com as autoridades locais, distritais, regionais e nacionais para avaliação de aspectos técnicos e das consequências potenciais ou reais;\n\nc) Reexaminar todas as recomendações técnicas emitidas por outros organismos antes de serem postas em prática, de modo a garantir a consistência das recomendações radiológicas, integrando o parecer da Comissão Nacional para Emergências Radiológicas;\n\nd) Aprovar o envio às autoridades locais, distritais, regionais e nacionais dos dados de monitorização e das avaliações feitas;\n\ne) Preparar uma posição oficial coordenada sobre as recomendações de medidas de intervenção, caso haja tempo para o fazer, e apresentá-la às autoridades locais, distritais, regionais e nacionais;\n\nf) Prestar assistência às autoridades locais, distritais, regionais e nacionais na implementação das medidas de intervenção.\n\n5 - No controlo e na coordenação da informação, a ATI deve:\n\na) Fornecer às autoridades e à Comissão Nacional para Emergências Radiológicas informações sobre as condições radiológicas na zona em que ocorreu a situação de emergência e os seus efeitos potenciais ou reais, bem como sobre as condições em que se encontra a instalação ou as fontes radioactivas responsáveis pela emergência;\n\nb) Rever e cooperar na divulgação da informação oficial relacionada com a situação;\n\nc) Aprovar a divulgação de avaliações oficiais das condições na zona em que ocorreu a situação de emergência radiológica;\n\nd) Fornecer informações e dar resposta a solicitações dos membros do Governo sobre a situação radiológica.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033726": {
+   "fragment_id": "108025368",
+   "type": 11,
+   "heading": "Artigo 6.º — Pontos de contacto",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 6.º — Pontos de contacto\n\n1 - O Serviço Nacional de Protecção Civil é o ponto de contacto nacional para o envio de notificações e informações de situações de emergência radiológica ocorridas em território nacional, incluindo uma situação de pré-emergência, quer ao nível comunitário quer ao nível internacional, de acordo com a legislação aplicável.\n\n2 - O Instituto do Ambiente é o ponto de contacto nacional para receber notificações e informações de situações de emergência radiológica ocorridas fora do território nacional, incluindo uma situação de pré-emergência, quer ao nível comunitário quer ao nível internacional, de acordo com a legislação aplicável.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033727": {
+   "fragment_id": "108025369",
+   "type": 11,
+   "heading": "Artigo 7.º — Assistência mútua",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 7.º — Assistência mútua\n\nCompete ao Serviço Nacional de Protecção Civil receber ou emitir solicitações de meios adicionais considerados necessários para a gestão de uma emergência que possa afectar outros Estados-Membros, Estados terceiros ou o território nacional, de acordo com a legislação aplicável.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033728": {
+   "fragment_id": "108025370",
+   "type": 11,
+   "heading": "Artigo 8.º — Rede de vigilância e alerta",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 8.º — Rede de vigilância e alerta\n\n1 - Compete ao Instituto do Ambiente a exploração de uma rede de medida em contínuo da radioactividade no ambiente.\n\n2 - Compete ao Departamento de Protecção Radiológica e Segurança Nuclear, do Instituto Tecnológico e Nuclear, realizar a monitorização das substâncias radioactivas no ambiente - ar, solo, águas, vegetação e produtos alimentares - através de uma rede de locais de amostragem.\n\n3 - Em caso de emergência, a coordenação das acções de monitorização compete à ATI respectiva.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033729": {
+   "fragment_id": "108025371",
+   "type": 11,
+   "heading": "Artigo 9.º — Plano de emergência interno",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 9.º — Plano de emergência interno\n\n1 - A aprovação do plano de emergência interno de uma instalação é condição prévia para autorização da prática, nos termos da legislação em vigor.\n\n2 - O plano de emergência interno deve conter:\n\na) A identificação e a caracterização dos riscos;\n\nb) A avaliação das exposições potenciais correspondentes;\n\nc) As acções previstas e a atribuição de responsabilidades para fazer face a situações de emergência radiológica, para mitigar as suas consequências, para proteger o pessoal da instalação e para notificar prontamente a ocorrência às entidades competentes.\n\n3 - O titular deve assegurar a informação e a consulta dos trabalhadores e dos seus representantes na elaboração do plano de emergência interno.\n\n4 - O plano de emergência interno deve ser periodicamente ensaiado nas condições estabelecidas na licença, devendo o titular avisar antecipadamente a autoridade competente de fiscalização.\n\n5 - Sempre que haja risco de exposição ou contaminação radioactiva susceptível de exceder o perímetro da instalação, deve ser solicitado parecer ao Instituto do Ambiente.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033730": {
+   "fragment_id": "108025372",
+   "type": 11,
+   "heading": "Artigo 10.º — Planos de emergência externos",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 10.º — Planos de emergência externos\n\n1 - Quando a prática implicar a necessidade de um plano de emergência externo, o titular da instalação deve enviar ao Serviço Nacional de Protecção Civil as informações necessárias para a elaboração do mesmo.\n\n2 - O plano de emergência externo deve definir os processos a utilizar para a informação da população, nos termos do Decreto-Lei n.º 36/95, de 14 de fevereiro, bem como as medidas mitigadoras a adotar.\n\n3 - Compete ao Serviço Nacional de Protecção Civil a coordenação da elaboração e do ensaio periódico de planos de emergência externos para as potenciais emergências radiológicas.\n\n4 - No caso de planos municipais ou distritais, cabe à entidade com competência na área de protecção civil, definida de acordo com a legislação em vigor:\n\na) A elaboração e o ensaio periódico dos planos de emergência externos;\n\nb) O envolvimento da população em ensaios dos planos de emergência externos;\n\nc) A coordenação da intervenção e a avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção;\n\nd) O seu envio ao Serviço Nacional de Protecção Civil.\n\n5 - No caso de planos nacionais, compete ao Serviço Nacional de Protecção Civil a elaboração e o ensaio periódico dos planos de emergência externos, bem como a coordenação da intervenção e a avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção.\n\n6 - Os planos de emergência externos são aprovados nos termos da legislação específica em vigor.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "180033731": {
+   "fragment_id": "108025586",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Planos de emergência nacionais, distritais e municipais",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02",
+    "Aditado pelo/a Artigo 5.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 10.º-A — Planos de emergência nacionais, distritais e municipais\n\n1 - O plano nacional de emergência de proteção civil, assim como os planos de emergência de âmbito distrital e municipal, que abranjam a área de municípios suscetíveis de ser afetados em caso de emergência radiológica ou de acidente nuclear, devem conter a previsão específica desse risco.\n\n2 - Os planos referidos no número anterior incluem operações de prevenção, de informação, de minimização de riscos, de socorro e de apoio, assim como a respetiva coordenação, tendo em conta o sistema integrado de operações de proteção e socorro.\n\n3 - O disposto no número anterior não prejudica a existência de outros planos de emergência especiais de proteção civil, vocacionados para a emergência radiológica, designadamente os previstos nos artigos anteriores.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02\n\n> Aditado pelo/a Artigo 5.º do/a [Lei n.º 84/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/84-2017-108021179), em vigor a partir de 2017-08-19"
+  },
+  "180033732": {
+   "fragment_id": "108025373",
+   "type": 11,
+   "heading": "Artigo 11.º — Equipas especiais de intervenção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 11.º — Equipas especiais de intervenção\n\n1 - Os planos de emergência previstos nos artigos 9.º e 10.º devem indicar as equipas especiais de intervenção técnica, médica e sanitária.\n\n2 - A formação mínima a exigir a estas equipas de intervenção consta do anexo I.\n\n3 - O pessoal que integrar estas equipas deve ser aprovado em exames médicos específicos, satisfazendo critérios que tenham em consideração o tipo de tarefas que poderão vir a desempenhar, assim como a natureza dos riscos.\n\n4 - É obrigatória a monitorização radiológica e a vigilância médica das equipas especiais de intervenção de emergência.\n\n5 - Mulheres em idade fértil não poderão integrar as equipas de intervenção.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033733": {
+   "fragment_id": "108025374",
+   "type": 11,
+   "heading": "Artigo 12.º — Informação da população",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 12.º — Informação da população\n\n1 - Sem prejuízo do disposto no Decreto-Lei n.º 36/95, de 14 de Fevereiro, sobre a matéria, as relações com a comunicação social e a elaboração e a difusão de comunicados devem ser asseguradas pelas seguintes entidades:\n\na) Serviço Nacional de Protecção Civil, no caso de situações de emergência de âmbito nacional;\n\nb) Entidade com competência na área da protecção civil, no caso de situações de emergência de âmbito distrital ou municipal.\n\n2 - As autoridades referidas no número anterior devem ser coadjuvadas pela respectiva ATI e pela Comissão Nacional para Emergências Radiológicas.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033734": {
+   "fragment_id": "108025575",
+   "type": 1,
+   "heading": "Capítulo III — Execução das intervenções",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "### Capítulo III — Execução das intervenções\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033735": {
+   "fragment_id": "108025576",
+   "type": 11,
+   "heading": "Artigo 13.º — Notificação e avaliação",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 13.º — Notificação e avaliação\n\n1 - Sempre que ocorra uma emergência radiológica numa instalação, o titular deve:\n\na) Notificar imediatamente a respectiva ATI;\n\nb) Proceder a uma primeira avaliação das circunstâncias e consequências da situação e contribuir para a intervenção da emergência;\n\nc) Notificar a entidade com competência na área da protecção civil, no caso de possíveis consequências para a população.\n\n2 - A ATI deve centralizar toda a informação relativa à ocorrência da emergência.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033736": {
+   "fragment_id": "108025577",
+   "type": 11,
+   "heading": "Artigo 14.º — Execução geral da intervenção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 14.º — Execução geral da intervenção\n\n1 - Se a situação o exigir, devem ser tomadas providências para a realização de intervenções relacionadas com:\n\na) A fonte, a fim de reduzir ou deter a emissão de radiações e a dispersão de radionuclidos;\n\nb) O ambiente, a fim de reduzir a transferência de substâncias radioactivas para os indivíduos;\n\nc) Os indivíduos, a fim de reduzir a exposição e organizar o tratamento das pessoas vitimadas.\n\n2 - No caso de uma situação conducente a uma exposição prolongada na sequência de uma emergência radiológica ou do exercício de uma prática anterior, o Serviço Nacional de Protecção Cicil, consultando a Comissão Nacional para Emergências Radiológicas, se necessário, e atendendo à importância do risco da exposição, deve definir:\n\na) A delimitação da área afectada;\n\nb) A criação de um dispositivo de monitorização da exposição;\n\nc) A execução das intervenções adequadas, tendo em conta as características reais da exposição;\n\nd) A regulamentação do acesso ou da utilização dos terrenos ou edifícios situados na área delimitada;\n\ne) A avaliação e o registo das consequências da emergência radiológica e da eficácia da intervenção.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033737": {
+   "fragment_id": "108025578",
+   "type": 11,
+   "heading": "Artigo 15.º — Níveis de intervenção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 15.º — Níveis de intervenção\n\n1 - Os níveis de intervenção, definidos no anexo II, devem ser considerados como valores indicativos para adopção de medidas de intervenção urgentes e para medidas de intervenção em caso de exposição prolongada na sequência de uma emergência radiológica ou do exercício de uma prática anterior ou antiga.\n\n2 - A ATI, ouvida a Comissão Nacional para Emergências Radiológicas, caso haja tempo para o fazer, poderá propor, caso a caso, níveis de intervenção específicos, tendo em conta as condições reais verificadas numa situação de emergência.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033738": {
+   "fragment_id": "108025579",
+   "type": 11,
+   "heading": "Artigo 16.º — Níveis de exposição profissional de emergência",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 16.º — Níveis de exposição profissional de emergência\n\n1 - Os trabalhadores ou o pessoal de intervenção podem estar sujeitos a exposição de emergência que exceda os limites da dose fixados para os trabalhadores expostos, tendo em conta as necessidades técnicas e os riscos para a saúde.\n\n2 - Os níveis de exposição de emergência, indicados no anexo III, constituem valores indicativos operacionais, podendo ser excedidos, a título excepcional, para salvar vidas humanas, mas unicamente em voluntários que estejam informados dos riscos que a sua intervenção comporta.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033739": {
+   "fragment_id": "108025580",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033740": {
+   "fragment_id": "108025581",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033741": {
+   "fragment_id": "108025582",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Maio de 2002. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix - Isaltino Afonso de Morais.\n\nPromulgado em 26 de Junho de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Julho de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033742": {
+   "fragment_id": "108025583",
+   "type": 14,
+   "heading": "Anexo I — Formação do pessoal das equipas de intervenção",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "## Anexo I — Formação do pessoal das equipas de intervenção\n\nMatérias a desenvolver, nos termos do n.º 2 do artigo 11.º\n\nI - Introdução:\n\n1 - Objectivos da formação:\n\nTipos e origens de emergências;\n\nMedidas de protecção apropriadas.\n\n2 - Nomenclatura científica:\n\nUtilização de símbolos, prefixos e expressão logarítmica de unidades;\n\nUtilização de tabelas e gráficos;\n\nDescrição de riscos.\n\nII - Natureza da radiação:\n\n1 - Estrutura do átomo.\n\n2 - Isótopos estáveis e instáveis.\n\n3 - Radioactividade:\n\nRadioactividade natural;\n\nRadioactividade artificial.\n\n4 - Declínio radioactivo.\n\n5 - Unidades de radioactividade.\n\nIII - Efeitos da radiação:\n\n1 - Interacção da radiação X, y, partículas carregadas e neutrões, com a matéria.\n\n2 - Grandezas e unidades utilizadas em radioprotecção:\n\n2.1 - Actividade;\n\n2.2 - Dose absorvida;\n\n2.3 - Equivalente de dose.\n\n3 - Acção biológica das radiações sobre os organismos vivos:\n\n3.1 - Efeitos somáticos;\n\n3.2 - Efeitos hereditários;\n\n3.3 - Efeitos estocásticos e efeitos não estocásticos;\n\n3.4 - Relação dose-efeito.\n\nIV - Práticas de protecção radiológica:\n\n1 - Princípios de redução de dose.\n\n2 - Métodos de protecção pessoal.\n\n3 - Métodos práticos para a redução de dose.\n\n4 - Monitorização das radiações ionizantes:\n\n4.1 - Princípio de funcionamento dos equipamentos;\n\n4.2 - Critérios de escolha;\n\n4.3 - Dosimetria individual e dosimetria de área.\n\nV - Directrizes de vigilância em caso de incidente ou emergência radiológica:\n\n1 - Detectar a emissão da radiação.\n\n2 - Analisar a natureza da emissão.\n\n3 - Efectuar as medidas em que as medidas de protecção se baseiam.\n\nVI - Controlo da exposição à irradiação externa:\n\n1 - Forma da fonte:\n\nFonte pontual;\n\nFonte linear;\n\nFonte superficial.\n\n2 - Factores de protecção:\n\nTempo de exposição;\n\nTempo de permanência;\n\nDistância;\n\nBlindagem;\n\nFissuras nas blindagens.\n\nVII - Controlo de fontes não seladas:\n\n1 - Contaminação radioactiva:\n\nInalação;\n\nIngestão;\n\nContaminação cutânea;\n\nExposição directa.\n\n2 - Controlo da contaminação:\n\nVigilância da contaminação;\n\nContaminação superficial;\n\nContaminação atmosférica;\n\nZonas contaminadas.\n\n3 - Descontaminação e eliminação de resíduos.\n\nVIII - Gestão de emergências radiológicas:\n\n1 - Planificação da emergência.\n\n2 - Gestão da emergência.\n\n3 - Controlo da exposição do pessoal da instalação.\n\n4 - Exercícios e práticas:\n\nVisitas de familiarização;\n\nExercícios standard.\n\n5 - Recuperação após o acidente.\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033743": {
+   "fragment_id": "108025584",
+   "type": 14,
+   "heading": "Anexo II — QUADRO I",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "## Anexo II — QUADRO I\n\nNíveis de intervenção para medidas de intervenção urgentes\n\n(ver quadro no documento original)\n\nQUADRO II\n\nNíveis de intervenção para realojamento temporário e permanente\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  },
+  "180033744": {
+   "fragment_id": "108025585",
+   "type": 14,
+   "heading": "Anexo III — Níveis de dose para pessoal envolvido em intervenções de emergência radiológica",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+   ],
+   "markdown": "## Anexo III — Níveis de dose para pessoal envolvido em intervenções de emergência radiológica\n\nTodo o pessoal que intervenha em situações de emergência radiológica - trabalhadores internos de uma instalação e pessoal externo de serviços de emergência - deve ser classificado em três categorias, consoante os tipos de trabalhos a executar:\n\nCategoria 1 - pessoal que realize acções urgentes no local do acidente ou no local onde ocorre a intervenção, com o objectivo de salvar vidas, prevenir a ocorrência de lesões e ferimentos graves ou prevenir a ocorrência de situações com efeitos catastróficos de que possam resultar doses significativas para os membros do público;\n\nCategoria 2 - pessoal envolvido em acções de suporte ao pessoal da categoria 1 ou que contribuam para minimizar ou evitar a exposição do público. É o caso de agentes das forças de segurança, pessoal médico, condutores e tripulantes de máquinas e veículos;\n\nCategoria 3 - pessoal que execute operações de recuperação após controlo das causas da situação de emergência. Estas operações podem ter longa duração, incluir reparações de instalações, descontaminação das áreas afectadas e remoção de resíduos.\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 206.º do/a [Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2018-117202785), em vigor a partir de 2019-04-02"
+  }
+ }
+}

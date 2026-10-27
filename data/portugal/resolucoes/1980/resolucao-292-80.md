@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:471134:por
+title: Resolução n.º 292/80
+short_title: null
+summary: Declara, com força obrigatória geral, a inconstitucionalidade do n.º 1 do artigo 25.º do Regulamento da Inspecção
+  do Trabalho, constante do Decreto-Lei n.º 48/78, de 21 de Março, na parte em que admite a verificação das infracções «por
+  qualquer forma» e, portanto, independentemente da presencialidade da comprovação
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 292/80
+official_date: null
+publication_date: '1980-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/1980, Série I de 1980-08-20
+  number: '191'
+  series: I
+  supplement: null
+  pages: 2266 - 2267
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19100/22662267.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471134'
+  dre_path: /dr/detalhe/resolucao/292-1980-471134
+  internal: pt:dre:471134:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/292-1980-471134
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/292-1980-471134
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:31:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ddc04046bef7c373dc2d1a407fe786dd5cde9e25fcb853d98b1a20548dbe953b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:31:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inconstitucionalidade
+- Inspecção do Trabalho
+- Ministério do Trabalho
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:31:44Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 292/80
+
+Nos termos da alínea c) do artigo 146.º e do n.º 2 do artigo 281.º da Constituição, o Conselho da Revolução, vistos os acórdãos da Comissão Constitucional n.os 219, 228 e 229, proferidos, respectivamente, nos processos de recurso n.os 24/79, em 3 de Junho de 1980, 52/80, em 24 de Junho, e 44/80, em 1 de Julho, declara, com força obrigatória geral, a inconstitucionalidade, por violação do n.º 2 do artigo 32.º da Constituição e do princípio da presunção de inocência nele consignado, do n.º 1 do artigo 25.º do Regulamento da Inspecção do Trabalho, constante do [Decreto-Lei n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1978-621348), de 21 de Março, na parte em que admite a verificação das infracções «por qualquer forma» e, portanto, independentemente da presencialidade da comprovação.
+
+Aprovada em Conselho da Revolução em 6 de Agosto de 1980.
+
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.

@@ -1,0 +1,318 @@
+---
+schema_version: '1.0'
+id: pt:dre:105371771:por
+title: Decreto-Lei n.º 83/2016
+short_title: null
+summary: Aprova o serviço público de acesso universal e gratuito ao Diário da República
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência e da Modernização Administrativa
+proposing_entity: null
+official_number: 83/2016
+official_date: null
+publication_date: '2016-12-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 240/2016, Série I de 2016-12-16
+  number: '240'
+  series: I
+  supplement: null
+  pages: 4728 - 4730
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24000/0472804730.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-02-09'
+version_history:
+  file: decreto-lei-83-2016.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-29'
+    amending: pt:dre:122747583:por
+    amending_title: Decreto-Lei n.º 84/2019
+    changes:
+    - Altera Artigo 4.º
+  - date: '2023-02-09'
+    amending: pt:dre:207177836:por
+    amending_title: Decreto-Lei n.º 10/2023
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/83/2016/p/cons/20230208/pt/html
+  oj: null
+  dre: '105371771'
+  dre_path: /dr/detalhe/decreto-lei/83-2016-105371771
+  internal: pt:dre:105371771:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2016-105371771
+  metadata_url: https://data.dre.pt/eli/dec-lei/83/2016/p/cons/20230208/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-122826417
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-122826417
+  retrieved_at: '2026-10-22T12:26:59Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8f635f53f0d37826622a974f827ed79473a69e95221ed6601a7bf140fd66caf4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:26:59Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-83-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Acesso ao Direito
+- Arquivo
+- Interconexão de Dados
+- Modernização Administrativa
+- Certificação Electrónica
+- Certificação Profissional
+- Pessoal Dirigente
+- Definição de Competências
+- Diário da República
+- Digesto
+- Administração Pública
+- Imprensa Nacional-Casa da Moeda
+- Formulário Eletrónico
+- Pagamento
+- Informação Jurídica
+- Base de Dados
+- TIC
+- Jornal Oficial
+- Publicitação
+- Documento Eletrónico
+- Programa Simplex
+- Página na Internet
+- Preço
+- Serviço Público
+- Qualificação Profissional
+- Publicação Electrónica
+- Diploma Legal
+- Agência para a Modernização Administrativa
+- Serviços de Valor Acrescentado
+- Funcionário Público
+- Sistema Nacional de Certificação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:207177836:por
+  label: Altera Artigo 3.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836
+  date: '2023-02-08'
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:25345900:por
+  label: null
+  source: http://data.dre.pt/eli/lei/43/2014/07/11/p/dre
+- type: cites
+  target: pt:dre:504127:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/158/2013/11/15/p/dre
+- type: cites
+  target: pt:dre:548241:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/116-c/2006/06/16/p/dre
+- type: cites
+  target: pt:dre:70686126:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/235/2015/10/14/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:26:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 83/2016
+
+Decreto-Lei n.º 83/2016
+
+de 16 de dezembro
+
+O Decreto-Lei n.º 116-C/2006, de 16 de junho, alterado pelo Decreto-Lei n.º 158/2013, de 15 de novembro, veio estabelecer como serviço público o acesso tendencialmente universal e gratuito à edição eletrónica do Diário da República, com o objetivo de aproximar os cidadãos da legislação e do direito, incrementando o exercício de uma cidadania ativa e, consequentemente, aprofundando o Estado de direito democrático.
+
+Traduzindo, embora, um importante marco de simplificação e de transparência, o serviço público criado pelo Decreto-Lei n.º 116-C/2006, de 16 de junho, alterado pelo Decreto-Lei n.º 158/2013, de 15 de novembro, manteve, contudo, a reserva do acesso a determinadas funcionalidades, sistemas avançados de pesquisa, bases de dados e outros serviços considerados de valor acrescentado, exclusivamente para os utilizadores assinantes do Diário da República, mediante pagamento.
+
+Ora, uma conceção moderna e otimizada da garantia de acesso ao Direito pressupõe, inevitavelmente, não só o mero conhecimento do texto da lei vigente, mas igualmente a apreensão integral e efetiva do seu conteúdo, significado, extensão e antecedentes históricos. Só através de informação detalhada e rigorosa sobre tais elementos é que os respetivos destinatários estarão em condições de conhecer, de modo efetivo, as regras de conduta a que se encontram sujeitos; assim, percecionando o conteúdo efetivo dos direitos e dos deveres pelos quais se devem nortear.
+
+Decorridos mais de 10 anos desde a instituição daquele novo paradigma de acesso eletrónico ao Direito e beneficiando das inovações tecnológicas entretanto conhecidas, justifica-se, cada vez mais, alargar a disponibilização integral do acesso a todos os conteúdos do jornal oficial, incluindo os que, até hoje, constituíam serviços de valor acrescentado, apenas ao alcance de quem os podia pagar. Essa corresponde, aliás, à tendência registada ao nível de vários outros jornais oficiais congéneres do Diário da República, os quais têm evoluído no sentido do acesso integral a todos de todas as valências das suas edições eletrónicas.
+
+Nestes termos, e em cumprimento, quer do disposto no Programa do XXI Governo, quer no Programa Simplex+ 2016, o presente decreto-lei vem proceder ao alargamento do acesso gratuito e universal a todos os conteúdos e funcionalidades da edição eletrónica do Diário da República. Isso inclui as valências atualmente reservadas ao acesso mediante assinatura, tais como as bases de dados de legislação, as ferramentas de pesquisa avançada, a legislação consolidada, o tradutor jurídico, o dicionário jurídico e a legislação e regulamentação conexa com o ato. Mas inclui, também, entre outras, uma nova ferramenta de pesquisa de legislação que facilite o acesso pelos utilizadores, uma nova ferramenta de acesso à legislação consolidada, bem como a disponibilização desses conteúdos em formatos passíveis de reutilização (dados abertos) de forma livre e integral, a todos os cidadãos.
+
+O presente decreto-lei permite ainda uma interconexão estreita entre o Diário da República e o Sistema de Certificação de Atributos Profissionais, de modo a disponibilizar a informação pública necessária à certificação eletrónica da qualidade de cargo ou função exercidas pelos dirigentes e trabalhadores em funções públicas.
+
+Com mais este passo no sentido da inovação tecnológica, procede-se, finalmente, à tão desejada eliminação definitiva da edição impressa do Diário da República, que passará a ser exclusivamente editado em formato eletrónico. Essa medida não só permitirá uma redução de encargos e uma libertação de recursos da Imprensa Nacional-Casa da Moeda, S. A., que os poderá mobilizar para outras atividades produtivas, como vincará a progressiva equiparação dos formatos eletrónicos aos formatos em suporte papel, contribuindo para a modernização da administração pública portuguesa.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece como serviço público o acesso universal e gratuito ao Diário da República, nele incluídos todo o seu conteúdo e funcionalidades, fixando as condições da sua utilização, e procede à extinção do respetivo serviço de assinaturas.
+
+2 - O serviço público referido no número anterior é assegurado pela Imprensa Nacional-Casa da Moeda, S. A. (INCM), nos termos previstos no Decreto-Lei n.º 235/2015, de 14 de outubro, e nas condições estabelecidas pelo presente decreto-lei.
+
+###### Artigo 2.º — Edição
+
+1 - O Diário da República é exclusivamente editado por via eletrónica.
+
+2 - O Diário da República é disponibilizado no sítio na Internet gerido pela INCM, que compreende, obrigatoriamente:
+
+a) O texto legal dos atos que careçam de publicação no Diário da República, nos termos da Constituição e da lei, designadamente da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho.
+
+b) Uma ferramenta de consulta atualizada do texto consolidado, sem valor legal, da legislação relevante do ordenamento jurídico;
+
+c) Uma ferramenta de consulta de um tradutor jurídico de termos;
+
+d) Uma ferramenta de pesquisa, através de descritores de termos, de atos que careçam de publicação no Diário da República;
+
+e) Informação jurídica devidamente tratada e sistematizada;
+
+f) Interligação com bases setoriais de informação jurídica complementar, designadamente jurisprudência, direito comunitário, orientações administrativas e doutrina;
+
+g) O envio gratuito para o correio eletrónico dos respetivos subscritores desse serviço dos índices da 1.ª e 2.ª série do Diário da República;
+
+h) Funcionalidades de acesso para cidadãos com necessidades especiais;
+
+i) A identificação de todos os sítios na Internet destinados à publicitação oficial setorial ou especializada de determinadas categorias de atos sujeitos a divulgação obrigatória.
+
+3 - O disposto no número anterior não prejudica a possibilidade de inclusão de outros conteúdos que venham a ser determinados por despacho normativo do membro do Governo responsável pela edição do Diário da República.
+
+###### Artigo 3.º — Acesso universal e gratuito
+
+1 - A edição do Diário da República é de acesso universal e gratuito.
+
+2 - O acesso universal e gratuito compreende a possibilidade de impressão, arquivo, pesquisa e livre acesso ao conteúdo dos atos publicados nas 1.ª e 2.ª séries do Diário da República, em formatos eletrónicos de acesso aberto.
+
+3 - O disposto nos números anteriores não prejudica a possibilidade de a INCM desenvolver plataformas eletrónicas com base nos atos publicados no Diário da República, bem como celebrar acordos, com ou sem contrapartidas financeiras, para acesso automatizado aos mesmos.
+
+> Alterado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01
+
+###### Artigo 4.º — Arquivo público
+
+1 - A INCM assegura, de forma permanente, o arquivo e a preservação eletrónicas do Diário da República editado nos termos do n.º 1 do artigo 2.º
+
+2 - A INCM garante o envio, em formato eletrónico, das duas séries do Diário da República, para efeitos de arquivo público digital, junto da Biblioteca Nacional, da Torre do Tombo e das demais entidades que a este dever de arquivo estejam vinculadas.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 5.º — Séries
+
+1 - O Diário da República compreende a 1.ª e a 2.ª séries.
+
+2 - São objeto de publicação na 1.ª série do Diário da República os atos previstos no n.º 2 do artigo 3.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho.
+
+3 - São objeto de publicação na 2.ª série do Diário da República os atos previstos no n.º 3 do artigo 3.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho, e os demais atos de publicação obrigatória.
+
+###### Artigo 6.º — Ordenação
+
+1 - Os atos objeto de publicação na 1.ª série do Diário da República são ordenados segundo o disposto na Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho.
+
+2 - Os atos publicados na 2.ª série do Diário da República são ordenados segundo a sequência constitucional de órgãos e, no caso dos atos do Governo, de acordo com a ordenação resultante da lei orgânica do Governo ao nível do primeiro emissor do ato.
+
+###### Artigo 7.º — Transmissão de atos para publicação
+
+Os atos sujeitos a publicação no Diário da República devem ser transmitidos pelas entidades legalmente incumbidas ou interessadas na sua publicação por via eletrónica, e obedecer:
+
+a) Às exigências de fiabilidade e segurança da assinatura eletrónica qualificada, aplicáveis no âmbito do Sistema de Certificação Eletrónica do Estado - Infraestrutura de Chaves Públicas;
+
+b) Aos requisitos técnicos de preenchimento de formulários eletrónicos expressamente concebidos para disciplinar o envio de atos.
+
+###### Artigo 8.º — Pagamento dos atos publicados na 2.ª série do Diário da República
+
+1 - Os atos publicados na 2.ª série do Diário da República são sujeitos a pagamento pela entidade que os remeta para publicação, podendo ser indicada entidade terceira para suportar o pagamento quando o ato a publicar resulte de solicitação desta.
+
+2 - A INCM recusa a publicação de atos de publicação não obrigatória ou de mera conveniência que não se revistam de manifesto interesse público.
+
+3 - Os preços dos atos publicados na 2.ª série do Diário da República são fixados nos termos da tabela aprovada pelo conselho de administração da INCM e submetida a homologação pelo membro do Governo responsável pela edição do Diário da República.
+
+> Alterado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01
+
+###### Artigo 9.º — Regulamentação
+
+1 - O membro do Governo responsável pela edição do Diário da República regulamenta o presente decreto-lei, por despacho normativo, até 31 de dezembro de 2016.
+
+2 - O despacho normativo aprova o Regulamento de Publicação de Atos no Diário da República, fixando, designadamente, as regras relativas às condições de acesso, à transmissão eletrónica e ao envio de atos, à periodicidade, às condições de ordenação, organização e envio dos atos sujeitos a publicação não previstas no artigo 6.º, à numeração dos atos, às retificações, aos suplementos e à fixação dos preços dos atos publicados na 2.ª série do Diário da República.
+
+###### Artigo 10.º — Articulação com o Sistema de Certificação de Atributos Profissionais
+
+A INCM mantém e gere a informação relativa ao conteúdo dos atos publicados no Diário da República e comunica à Agência para a Modernização Administrativa, I. P., na qualidade de entidade responsável pelo Sistema de Certificação de Atributos Profissionais, a informação necessária à certificação eletrónica do atributo profissional ou cargo invocados.
+
+###### Artigo 11.º — Norma transitória
+
+1 - Os contratos relativos a assinatura eletrónica do Diário da República e a serviços de impressão da 1.ª série do Diário da República celebrados com assinantes que os tenham subscrito, mediante pagamento de contrapartida, continuam em vigor até 31 de dezembro de 2016, sem prejuízo da produção imediata de efeitos do novo serviço universal e gratuito, exclusivamente assegurado em formato eletrónico.
+
+2 - Os contratos cujo termo ocorra após 31 de dezembro de 2016 cessam automaticamente a 1 de janeiro de 2017, cabendo à INCM proceder à devolução da quantia que corresponda ao período de tempo ainda remanescente, no prazo de 60 dias contados da cessação.
+
+3 - Até 30 de junho de 2017, a INCM garante ainda a título excecional e transitório, o depósito de um exemplar de uma versão em formato impresso, junto da Presidência da República, da Assembleia de República, da Presidência do Conselho de Ministros, dos supremos tribunais, do Tribunal Constitucional e da Procuradoria-Geral da República.
+
+###### Artigo 12.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 116-C/2006, de 16 de junho, alterado pelo Decreto-Lei n.º 158/2013, de 15 de novembro;
+
+b) O Despacho n.º 18 727-A/2006, publicado no Diário da República, 2.ª série, n.º 178, de 14 de setembro;
+
+c) O Despacho n.º 18 727-B/2006, publicado no Diário da República, 2.ª série, n.º 178, de 14 de setembro.
+
+###### Artigo 13.º — Produção de efeitos
+
+O disposto no artigo 8.º do presente decreto-lei produz efeitos no dia seguinte à publicação do despacho normativo do membro do Governo responsável pela edição do Diário da República, que aprove as necessárias alterações ao Regulamento de Publicação de Atos no Diário da República.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de novembro de 2016. - António Luís Santos da Costa - Maria Manuel de Lemos Leitão Marques - Fernando António Portela Rocha de Andrade.
+
+Promulgado em 6 de dezembro de 2016.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 15 de dezembro de 2016.
+
+Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.

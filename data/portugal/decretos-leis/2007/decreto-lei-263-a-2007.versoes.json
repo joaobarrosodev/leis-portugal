@@ -1,0 +1,699 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:499204:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34519875",
+ "dre_path": "/dr/detalhe/decreto-lei/263-a-2007-499204",
+ "source_lastmod": "2024-09-04",
+ "versions": [
+  {
+   "date": "2007-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48226775",
+    "48226875",
+    "48226975",
+    "48227075",
+    "48227175",
+    "48227275",
+    "48227375",
+    "48227475",
+    "48227575",
+    "48227675",
+    "48227775",
+    "48227875",
+    "48227975",
+    "48228075",
+    "48228175",
+    "48228275",
+    "48228375",
+    "48228475",
+    "48228575",
+    "48228675",
+    "48228775",
+    "48228875",
+    "48228975",
+    "48229075",
+    "48229175",
+    "48229275",
+    "48229375",
+    "48229475",
+    "48229575",
+    "48229675",
+    "48229775",
+    "48229875",
+    "48229975",
+    "48230075",
+    "48230175",
+    "48230275",
+    "48230375"
+   ]
+  },
+  {
+   "date": "2009-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608757:por",
+     "title": "Decreto-Lei n.º 122/2009",
+     "published": "2009-05-21",
+     "dre_path": "/dr/detalhe/decreto-lei/122-2009-608757"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "48226775",
+    "48226875",
+    "48226975",
+    "886820404",
+    "886820405",
+    "48227275",
+    "886820406",
+    "48227475",
+    "48227575",
+    "886820407",
+    "886820408",
+    "48227875",
+    "48227975",
+    "48228075",
+    "48228175",
+    "48228275",
+    "886820409",
+    "48228475",
+    "48228575",
+    "48228675",
+    "886820410",
+    "48228875",
+    "48228975",
+    "48229075",
+    "48229175",
+    "48229275",
+    "48229375",
+    "48229475",
+    "48229575",
+    "48229675",
+    "48229775",
+    "48229875",
+    "886820411",
+    "48230075",
+    "48230175",
+    "48230275",
+    "48230375",
+    "48231575"
+   ]
+  },
+  {
+   "date": "2010-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344272:por",
+     "title": "Decreto-Lei n.º 99/2010",
+     "published": "2010-09-02",
+     "dre_path": "/dr/detalhe/decreto-lei/99-2010-344272"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "48226775",
+    "48226875",
+    "48226975",
+    "886820404",
+    "886820405",
+    "48227275",
+    "886820406",
+    "48227475",
+    "48227575",
+    "886820407",
+    "886820408",
+    "48227875",
+    "48227975",
+    "48228075",
+    "48228175",
+    "48228275",
+    "886820409",
+    "48228475",
+    "48228575",
+    "48228675",
+    "886820412",
+    "48228875",
+    "48228975",
+    "48229075",
+    "48229175",
+    "48229275",
+    "48229375",
+    "48229475",
+    "48229575",
+    "48229675",
+    "48229775",
+    "48229875",
+    "886820411",
+    "48230075",
+    "48230175",
+    "48230275",
+    "48230375",
+    "48231575"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176071:por",
+     "title": "Decreto-Lei n.º 209/2012",
+     "published": "2012-09-19",
+     "dre_path": "/dr/detalhe/decreto-lei/209-2012-176071"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "48226775",
+    "48226875",
+    "48226975",
+    "886820404",
+    "886820405",
+    "48227275",
+    "886820406",
+    "48227475",
+    "48227575",
+    "886820407",
+    "886820408",
+    "48227875",
+    "48227975",
+    "886820413",
+    "48228175",
+    "48228275",
+    "886820409",
+    "48228475",
+    "48228575",
+    "48228675",
+    "886820412",
+    "48228875",
+    "48228975",
+    "48229075",
+    "48229175",
+    "48229275",
+    "48229375",
+    "48229475",
+    "48229575",
+    "48229675",
+    "48229775",
+    "48229875",
+    "886820411",
+    "48230075",
+    "48230175",
+    "48230275",
+    "48230375",
+    "48231575"
+   ]
+  },
+  {
+   "date": "2013-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499550:por",
+     "title": "Decreto-Lei n.º 125/2013",
+     "published": "2013-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2013-499550"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "48226775",
+    "48226875",
+    "48226975",
+    "886820404",
+    "886820405",
+    "48227275",
+    "886820406",
+    "48227475",
+    "48227575",
+    "887301913",
+    "886820408",
+    "48227875",
+    "48227975",
+    "886820413",
+    "48228175",
+    "48228275",
+    "886820409",
+    "48228475",
+    "48228575",
+    "48228675",
+    "886820412",
+    "48228875",
+    "48228975",
+    "48229075",
+    "48229175",
+    "48229275",
+    "48229375",
+    "48229475",
+    "48229575",
+    "48229675",
+    "48229775",
+    "48229875",
+    "886820411",
+    "48230075",
+    "48230175",
+    "48230275",
+    "48230375",
+    "48231575"
+   ]
+  }
+ ],
+ "fragments": {
+  "48226775": {
+   "fragment_id": "35139675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O presente decreto-lei visa contribuir para a concretização do Programa do XVII Governo Constitucional na área da justiça, colocando este sector ao serviço dos cidadãos e das empresas, do desenvolvimento económico e da promoção do investimento em Portugal.\n\nCom efeito, o Programa do XVII Governo Constitucional dispõe que «os cidadãos e as empresas não podem ser onerados com imposições burocráticas que nada acrescentem à qualidade do serviço», e que «no interesse conjunto dos cidadãos e das empresas, serão simplificados os controlos de natureza administrativa, eliminando-se actos e práticas registrais e notariais que não importem um valor acrescentado e dificultem a vida do cidadão e da empresa».\n\nCom este decreto-lei é criado um procedimento especial de transmissão, oneração e registo de imóveis, que tem dois objectivos principais: a eliminação de formalidades dispensáveis nos processos de transmissão e oneração de imóveis e a possibilidade de realizar todas as operações e actos necessários num único balcão, perante um único atendimento.\n\nAssim, por um lado, eliminam-se formalidades no processo de compra de casa e noutros negócios jurídicos relacionados com a transmissão e oneração do imóvel. Com a utilização intensiva de meios de comunicação electrónica e da Internet torna-se desnecessário o envio separado de informação a diversas pessoas colectivas públicas e empresas públicas para efeito de exercício do direito de preferência, deixa de se exigir a obtenção de certidões de registo civil e comercial junto de outras conservatórias, elimina-se a necessidade de obtenção de certidões relativas às licenças e actos camarários e permite-se que o contrato seja celebrado na conservatória de registo, dispensando-se a escritura pública e a inerente deslocação ao cartório notarial.\n\nPor outro lado, cria-se um «balcão único» onde, em atendimento presencial único, nas conservatórias de registo e suas extensões, os interessados possam praticar todos os actos que um processo de compra de casa e outros negócios jurídicos conexos impliquem. Consequentemente, num único posto de atendimento passará a ser possível efectuar a generalidade das operações e actos necessários à compra de casa, evitando-se deslocações e custos associados a essas deslocações.\n\nCom o procedimento especial de transmissão, oneração e registo de imóveis que agora se aprova os cidadãos ou empresas interessadas passam a poder realizar um vasto conjunto de actos em atendimento presencial único, que antes implicavam várias deslocações a diferentes entidades. Passa a ser possível, num único atendimento, por exemplo, a celebração do contrato de alienação ou oneração do imóvel perante um oficial público, o pagamento dos impostos devidos, como o imposto municipal sobre as transmissões onerosas de imóveis (IMT), a obtenção da realização imediata de todos os registos, a solicitação da alteração da morada fiscal e da isenção do imposto municipal sobre imóveis (IMI).\n\nAlém de permitir uma forte redução dos custos associados a deslocações e tempo despendido por cidadãos e empresas nos processos relativos a transacções e onerações de imóveis, o procedimento previsto no presente decreto-lei prevê ainda uma redução das taxas cobradas, face aos montantes previstos para quem utilize o procedimento tradicional para a transmissão e oneração de imóveis.\n\nFinalmente, com a criação deste procedimento especial de transmissão, oneração e registo de imóveis, o Ministério da Justiça contribui para o cumprimento do programa SIMPLEX 2007, com uma medida que resultou da coordenação de diversos ministérios, com a colaboração da Unidade de Coordenação para a Modernização Administrativa, da Direcção-Geral dos Impostos, da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros e do Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P.\n\nForam promovidas as diligências necessárias à audição da Ordem dos Advogados, da Câmara dos Solicitadores e da Comissão Nacional de Protecção de Dados.\n\nForam ouvidos o Conselho Superior da Magistratura, o Conselho Superior do Ministério Público, o Conselho Superior dos Tribunais Administrativos e Fiscais, o Banco de Portugal, a Ordem dos Notários, a Associação Portuguesa de Bancos, a Associação Portuguesa de Seguradores, a Associação Nacional dos Municípios Portugueses, a Associação Portuguesa para a Defesa do Consumidor, a Associação Empresarial de Portugal, a Associação Sindical dos Juízes Portugueses, a Associação Sindical dos Conservadores dos Registos e a Associação Sindical dos Oficiais dos Registos e Notariado.\n\nForam igualmente ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nForam ouvidas, a título facultativo, a Associação Portuguesa de Bancos, a Associação Portuguesa de Seguradores, a Associação Portuguesa para a Defesa do Consumidor e Associação Empresarial de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "48226875": {
+   "fragment_id": "35726575",
+   "type": 1,
+   "heading": "Capítulo I — Procedimento especial de transmissão, oneração e registo de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Procedimento especial de transmissão, oneração e registo de imóveis"
+  },
+  "48226975": {
+   "fragment_id": "37221075",
+   "type": 8,
+   "heading": "Secção I — Procedimento especial de transmissão, oneração e registo imediato de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento especial de transmissão, oneração e registo imediato de imóveis"
+  },
+  "48227075": {
+   "fragment_id": "38794075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado o procedimento especial de transmissão, oneração e registo imediato de prédio urbano em atendimento presencial único."
+  },
+  "48227175": {
+   "fragment_id": "38794175",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O regime previsto no presente decreto-lei aplica-se aos seguintes negócios jurídicos:\n\na) Compra e venda;\n\nb) Mútuo e demais contratos de crédito e de financiamento celebrados por instituições de crédito, com hipoteca, com ou sem fiança;\n\nc) Hipoteca;\n\nd) Sub-rogação nos direitos e garantias do credor hipotecário, nos termos do artigo 591.º do Código Civil;\n\ne) Outros negócios jurídicos, a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - O regime previsto no presente decreto-lei não é aplicável à aquisição e oneração de:\n\na) Prédio misto;\n\nb) Prédio urbano formado, no próprio acto, a partir de outros, por fraccionamento ou emparcelamento;\n\nc) Prédio descrito em várias conservatórias."
+  },
+  "48227275": {
+   "fragment_id": "38794275",
+   "type": 11,
+   "heading": "Artigo 3.º — Pressupostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pressupostos\n\n1 - São pressupostos de aplicação do regime previsto no artigo 1.º:\n\na) A descrição do prédio no registo;\n\nb) A inexistência de dúvidas sobre a identidade do prédio;\n\nc) O registo definitivo a favor do alienante ou onerante;\n\nd) A inexistência de dúvidas quanto à titularidade do prédio;\n\ne) No caso de se tratar de compra e venda, a aquisição do direito de propriedade, no todo ou em parte, por uma ou mais pessoas, em simultâneo, tendo em vista a aquisição da totalidade do prédio;\n\nf) A opção por contratos de modelo aprovado por despacho do presidente do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)\n\n2 - Não existem dúvidas quanto à identidade do prédio quando se verifique harmonização dos elementos de identificação deste, entre a matriz e o registo, nos termos gerais, sem prejuízo do disposto nos números seguintes.\n\n3 - Não obsta à realização do negócio jurídico a existência de divergência entre o registo e a matriz quando tal divergência apenas respeite ao artigo matricial, à denominação das vias públicas ou à numeração policial, desde que possa ser suprida por acesso directo à informação constante das bases de dados das entidades ou serviços da Administração Pública ou por documento.\n\n4 - No caso de se verificar divergência entre a declaração dos interessados, os documentos apresentados e o registo, quanto aos elementos de identificação do alienante ou onerante, que não seja suprida por documento idóneo e da qual não resulte incerteza quanto à titularidade do prédio, deve a mesma ser resolvida por acesso directo à informação constante das bases de dados registrais e de identificação civil.\n\n5 - O disposto no número anterior é aplicável às divergências respeitantes à identificação do adquirente ou do beneficiário da oneração.\n\n6 - Para os efeitos previstos nos números anteriores, os serviços de registo competentes devem, oficiosamente, consultar e aceder à informação constante das bases de dados disponíveis quando tal seja necessário para suprir qualquer deficiência do procedimento."
+  },
+  "48227375": {
+   "fragment_id": "38794375",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - O procedimento previsto no presente decreto-lei é da competência do serviço de registo predial da área da situação do prédio.\n\n2 - Por portaria do membro do Governo responsável pela área da justiça, a competência territorial referida no número anterior pode ser atribuída a outros serviços de registo."
+  },
+  "48227475": {
+   "fragment_id": "38794475",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazo de tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazo de tramitação\n\n1 - O serviço de registo competente deve iniciar e concluir a tramitação do procedimento no mesmo dia, em atendimento presencial único.\n\n2 - O procedimento previsto no presente decreto-lei tem natureza urgente."
+  },
+  "48227575": {
+   "fragment_id": "38794575",
+   "type": 11,
+   "heading": "Artigo 6.º — Início do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Início do procedimento\n\nOs interessados formulam o seu pedido junto do serviço de registo competente, manifestando a sua opção por um dos modelos de contrato."
+  },
+  "48227675": {
+   "fragment_id": "38794675",
+   "type": 11,
+   "heading": "Artigo 7.º — Formalidades prévias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formalidades prévias\n\n1 - O prosseguimento do procedimento depende da verificação da identidade, da capacidade e dos poderes de representação dos interessados para os actos.\n\n2 - A capacidade e os poderes de representação devem, sempre que possível, ser comprovados por acesso à informação constante das respectivas bases de dados.\n\n3 - Devem ainda ser comprovadas preferencialmente pela forma prevista no número anterior, ou mediante a apresentação dos respectivos documentos, pelos interessados:\n\na) A situação matricial do prédio;\n\nb) A existência ou dispensa de licença de utilização ou de licença de construção, nos termos legais;\n\nc) A existência de ficha técnica do prédio, quando exigível;\n\nd) A inexistência de manifestação da intenção de exercer o direito de preferência legal por parte do Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas.\n\n4 - A mera referência à existência de licença de utilização ou a facto de que resulte a respectiva dispensa efectuada em caderneta predial, em base de dados de serviço da Administração Pública ou em documento autêntico, constitui prova bastante para os efeitos do disposto na alínea b) do número anterior.\n\n5 - Sem prejuízo do disposto no número seguinte, os documentos que instruam o procedimento ficam arquivados pela ordem da sua apresentação.\n\n6 - Quando as condições técnicas o permitirem, o arquivo referido no número anterior deve ser electrónico, em termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n7 - São restituídos aos interessados os documentos cujo original deva normalmente permanecer em arquivo público nacional e que não contenham parte narrativa."
+  },
+  "48227775": {
+   "fragment_id": "38794775",
+   "type": 11,
+   "heading": "Artigo 8.º — Tramitação do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tramitação do procedimento\n\n1 - Efectuada a verificação dos pressupostos e formalidades prévias, referidas nos artigos anteriores, o serviço de registo procede aos seguintes actos pela ordem indicada:\n\na) Anotação no Diário dos factos sujeitos a registo;\n\nb) Elaboração dos documentos que titulam os negócios jurídicos, de acordo com o modelo previamente escolhido pelos interessados, seguido da leitura e explicação do respectivo conteúdo;\n\nc) Promoção da liquidação do IMT, nos termos declarados pelo contribuinte, e de outros impostos que se mostrem devidos, tendo em conta os negócios jurídicos a celebrar, assegurando o seu pagamento prévio à celebração do negócio jurídico;\n\nd) Cobrança dos emolumentos e de outros encargos que se mostrem devidos;\n\ne) Recolha das assinaturas nos documentos que titulam os negócios jurídicos;\n\nf) Verificação da entrega da ficha técnica ao comprador;\n\ng) Realização obrigatória, oficiosa e imediata dos registos apresentados;\n\nh) Anotação à descrição da existência de licença de utilização, com menção do número e respectiva data de emissão.\n\n2 - A pedido do interessado e de acordo com as suas declarações, o serviço competente pratica ainda os seguintes actos:\n\na) Pede a alteração da morada fiscal do adquirente;\n\nb) Pede a isenção do IMI relativo a habitação própria e permanente;\n\nc) Pede a inscrição ou a actualização de prédio urbano na matriz.\n\n3 - Os negócios jurídicos celebrados nos termos deste decreto-lei estão dispensados de formalização por escritura pública quando esta seja obrigatória nos termos gerais.\n\n4 - A leitura dos documentos que titulam os negócios jurídicos pode ser dispensada, a pedido dos interessados.\n\n5 - A realização dos actos previstos no n.º 1 é da competência do conservador, sem prejuízo da possibilidade de delegação em oficial de registo.\n\n6 - Os pedidos a que se refere o n.º 2 são efectuados por via electrónica.\n\n7 - No caso de o interessado solicitar o serviço previsto na alínea c) do n.º 2 fica dispensado de anexar as plantas de arquitectura das construções correspondentes às telas finais aprovadas pela câmara municipal.\n\n8 - Para efeito do disposto no número anterior, o IRN, I. P., deve contactar a competente câmara municipal para que esta lhe disponibilize as respectivas plantas, preferencialmente por via electrónica.\n\n9 - O IRN, I. P., disponibiliza à administração fiscal as plantas referidas nos números anteriores, em termos a protocolar entre as entidades envolvidas.\n\n10 - No caso de as plantas não estarem depositadas na câmara municipal ou de as plantas não serem disponibilizadas à administração fiscal no prazo de 60 dias, a administração tributária deve contactar o interessado para que este as apresente, nos termos gerais."
+  },
+  "48227875": {
+   "fragment_id": "38794875",
+   "type": 11,
+   "heading": "Artigo 9.º — Indeferimento e desistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Indeferimento e desistência\n\n1 - O procedimento é indeferido quando ocorra alguma das seguintes circunstâncias:\n\na) Não verificação de algum dos pressupostos ou formalidades prévias previstos nos artigos 3.º e 7.º;\n\nb) Violação de disposições legais imperativas;\n\nc) Verificação de factos que possam afectar a formação e a exteriorização da vontade dos intervenientes nos actos;\n\nd) Verificação de omissões, vícios ou deficiências nos documentos que obstem à celebração dos actos;\n\ne) Verificação da existência de motivo de recusa dos registos;\n\nf) Falta de liquidação dos impostos e de cobrança dos encargos que se mostrem devidos.\n\n2 - A anulabilidade ou a ineficácia dos actos não obsta ao prosseguimento do procedimento, ainda que dê origem a um registo provisório, desde que os interessados manifestem, expressamente, vontade nesse sentido.\n\n3 - Os serviços de registo são competentes para a elaboração dos documentos indispensáveis ao suprimento dos vícios referidos no número anterior.\n\n4 - Em caso de indeferimento ou de não conclusão do procedimento por motivo não imputável aos serviços, os interessados podem optar pela marcação prévia do procedimento, nos termos da secção seguinte.\n\n5 - Sem prejuízo do disposto na parte final do número anterior, a não conclusão do procedimento por motivo não imputável aos serviços equivale à sua desistência."
+  },
+  "48227975": {
+   "fragment_id": "38794975",
+   "type": 11,
+   "heading": "Artigo 10.º — Impugnação em caso de indeferimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impugnação em caso de indeferimento\n\n1 - Deve ser entregue aos interessados uma cópia do despacho de indeferimento, considerando-se estes notificados para efeitos de impugnação hierárquica ou contenciosa, nos termos previstos nos artigos 140.º a 149.º do Código do Registo Predial, reduzidos os prazos nestes previstos a metade.\n\n2 - A opção referida no n.º 4 do artigo anterior equivale à renúncia ao direito de impugnação."
+  },
+  "48228075": {
+   "fragment_id": "38795075",
+   "type": 11,
+   "heading": "Artigo 11.º — Documentos a entregar aos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Documentos a entregar aos interessados\n\nConcluído o procedimento, o serviço de registo competente entrega aos interessados que o solicitem, de imediato e gratuitamente, uma certidão dos títulos elaborados e dos registos em vigor sobre o prédio, bem como os documentos comprovativos do pagamento dos encargos devidos."
+  },
+  "48228175": {
+   "fragment_id": "38795175",
+   "type": 11,
+   "heading": "Artigo 12.º — Diligências subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Diligências subsequentes\n\nApós a realização do registo, o serviço competente promove imediata e preferencialmente por via electrónica os seguintes actos:\n\na) As comunicações obrigatórias à administração tributária;\n\nb) As participações para fins estatísticos;\n\nc) As demais comunicações impostas por lei e as diligências que venham a ser fixadas por via regulamentar ou protocolar."
+  },
+  "48228275": {
+   "fragment_id": "37221175",
+   "type": 8,
+   "heading": "Secção II — Procedimento especial de transmissão, oneração e registo de imóveis com marcação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento especial de transmissão, oneração e registo de imóveis com marcação prévia"
+  },
+  "48228375": {
+   "fragment_id": "38795275",
+   "type": 11,
+   "heading": "Artigo 13.º — Marcação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Marcação prévia\n\n1 - Sem prejuízo do disposto no número seguinte, o regime previsto na secção anterior é aplicável, com as necessárias adaptações, à transmissão, oneração e registo de prédios urbanos com agendamento da data de realização do negócio jurídico.\n\n2 - Não são aplicáveis ao regime da marcação prévia os pressupostos referidos nas alíneas e) e f) do n.º 1 do artigo 3.º\n\n3 - Os pressupostos previstos nas alíneas a) a d) do n.º 1 do artigo 3.º apenas têm de estar preenchidos no momento da celebração do negócio jurídico.\n\n4 - A marcação prévia é promovida em termos a regulamentar por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "48228475": {
+   "fragment_id": "38795375",
+   "type": 11,
+   "heading": "Artigo 14.º — Aproveitamento dos actos praticados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aproveitamento dos actos praticados\n\nA opção pelo regime da marcação prévia, nos termos do n.º 4 do artigo 9.º, permite aproveitar os actos já praticados e, a pedido dos interessados, efectuar, sempre que possível e imediatamente, os correspondentes registos provisórios."
+  },
+  "48228575": {
+   "fragment_id": "38795475",
+   "type": 11,
+   "heading": "Artigo 15.º — Actos urgentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Actos urgentes\n\nOs actos da competência da conservatória que sejam essenciais ao preenchimento dos pressupostos referidos nas alíneas a) a d) do n.º 1 do artigo 3.º são realizados com urgência."
+  },
+  "48228675": {
+   "fragment_id": "38795575",
+   "type": 11,
+   "heading": "Artigo 16.º — Prova da existência de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prova da existência de licenças\n\n1 - Não sendo possível proceder à verificação da existência ou dispensa de licença de utilização ou de construção, nos termos previstos nos n.os 3 e 4 do artigo 7.º, a conservatória deve desenvolver todas as diligências necessárias a essa comprovação.\n\n2 - Para efeitos do disposto no número anterior, podem ser celebrados protocolos entre o IRN, I. P., e os municípios que estabeleçam mecanismos céleres de comunicação com as conservatórias."
+  },
+  "48228775": {
+   "fragment_id": "38795675",
+   "type": 11,
+   "heading": "Artigo 17.º — Prova do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prova do registo\n\nA prova do registo pode ser efectuada através da disponibilização da informação constante da certidão de registo predial em sítio na Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "48228875": {
+   "fragment_id": "35726675",
+   "type": 1,
+   "heading": "Capítulo II — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direito de preferência"
+  },
+  "48228975": {
+   "fragment_id": "37221275",
+   "type": 11,
+   "heading": "Artigo 18.º — Envio electrónico da informação necessária ao exercício do direito legal de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Envio electrónico da informação necessária ao exercício do direito legal de preferência\n\n1 - O alienante pode remeter os elementos essenciais ao exercício do direito legal de preferência pelo Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas por uma via electrónica única, mediante a inscrição dos elementos essenciais da alienação em sítio na Internet de acesso público, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - O envio da informação nos termos previstos no número anterior substitui a notificação para preferência, nos termos gerais.\n\n3 - O disposto nos números anteriores não é aplicável aos casos referidos no n.º 5 do artigo seguinte."
+  },
+  "48229075": {
+   "fragment_id": "37221375",
+   "type": 11,
+   "heading": "Artigo 19.º — Exercício do direito legal de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Exercício do direito legal de preferência\n\n1 - O exercício do direito legal de preferência pelo Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas está dependente de manifestação prévia da intenção de exercer este direito em sítio na Internet, em termos a definir na portaria referida no n.º 1 do artigo anterior, se o alienante tiver usado da faculdade aí prevista.\n\n2 - Independentemente do prazo legal para o exercício do direito de preferência, o acto previsto no número anterior deve ser praticado no prazo de 10 dias a contar da data de inscrição dos elementos essenciais da alienação, nos termos previstos no artigo anterior.\n\n3 - Se o prazo legal do exercício do direito de preferência for inferior a 10 dias, o prazo de manifestação prévia da intenção de exercer aquele direito é reduzido para igual período.\n\n4 - Se a manifestação prévia da intenção de exercer o direito de preferência não for efectuada dentro do prazo, caduca o direito de preferência.\n\n5 - O regime previsto neste artigo não se aplica às alienações de imóveis abrangidas pelo regime previsto no Decreto-Lei n.º 135/2004, de 3 de Junho."
+  },
+  "48229175": {
+   "fragment_id": "35726775",
+   "type": 1,
+   "heading": "Capítulo III — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações legislativas"
+  },
+  "48229275": {
+   "fragment_id": "37221475",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao Código Civil\n\nOs artigos 714.º, 731.º, 875.º e 1143.º do Código Civil passam a ter a seguinte redacção:\n\n«Artigo 714.º\n\n[...]\n\nO acto de constituição ou modificação da hipoteca voluntária, quando recaia sobre bens imóveis, deve constar de escritura pública ou de testamento, salvo disposição legal em contrário.\n\nArtigo 731.º\n\n[...]\n\n1 - A renúncia à hipoteca deve ser expressa e escrita em documento que contenha a assinatura do renunciante reconhecida presencialmente, salvo se esta for feita na presença de funcionário da conservatória competente para o registo, não carecendo de aceitação do devedor ou do autor da hipoteca para produzir os seus efeitos.\n\n2 - ...\n\nArtigo 875.º\n\n[...]\n\nO contrato de compra e venda de bens imóveis só é válido se for celebrado por escritura, salvo disposição legal em contrário.\n\nArtigo 1143.º\n\n[...]\n\nO contrato de mútuo de valor superior a (euro) 20 000 só é válido se for celebrado por escritura pública, salvo disposição legal em contrário, e o de valor superior a (euro) 2000 se o for por documento assinado pelo mutuário.»"
+  },
+  "48229375": {
+   "fragment_id": "37221575",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração ao Código do Registo Predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração ao Código do Registo Predial\n\nOs artigos 56.º e 73.º do Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de Julho, e alterado pelos Decretos-Leis n.os  355/85, de 2 de Setembro, 60/90, de 14 de Fevereiro, 80/92, de 7 de Maio, 30/93, de 12 de Fevereiro, 255/93, de 15 de Julho, 227/94, de 8 de Setembro, 267/94, de 25 de Outubro, 67/96, de 31 de Maio, 375-A/99, de 20 de Setembro, 533/99, de 11 de Dezembro, 273/2001, de 13 de Outubro, 323/2001, de 17 de Dezembro, e 38/2003, de 8 de Março, e pela Lei n.º 6/2006, de 27 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 56.º\n\n[...]\n\n1 - O cancelamento do registo de hipoteca é feito com base em documento de que conste o consentimento do credor.\n\n2 - O documento referido no número anterior deve conter a assinatura reconhecida presencialmente, salvo se esta for feita na presença de funcionário da conservatória competente para o registo.\n\nArtigo 73.º\n\nSuprimento de deficiências\n\n1 - Sempre que possível, as deficiências do procedimento de registo devem ser supridas oficiosamente com base nos documentos apresentados ou já existentes no serviço de registo competente ou por acesso directo à informação constante de bases de dados das entidades ou serviços da Administração Pública.\n\n2 - Não sendo possível o suprimento das deficiências nos termos previstos no número anterior, o serviço de registo competente comunica este facto ao interessado, por qualquer meio idóneo, para que este, no prazo de cinco dias, proceda a tal suprimento, sob pena de o registo ser lavrado como provisório por dúvidas.\n\n3 - O registo não é lavrado por dúvidas se as deficiências em causa respeitarem à omissão de documentos a emitir pelas entidades referidas no n.º 1 e a informação deles constante não puder ser obtida nos termos aí previstos, caso em que o serviço de registo competente deve solicitar esses documentos directamente às entidades ou serviços da Administração Pública.\n\n4 - O serviço de registo competente é reembolsado pelo interessado das despesas resultantes dos pagamentos devidos às entidades referidas no número anterior.\n\n5 - (Anterior n.º 3.)»"
+  },
+  "48229475": {
+   "fragment_id": "37221675",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração ao Decreto-Lei n.º 27/2001, de 3 de Fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração ao Decreto-Lei n.º 27/2001, de 3 de Fevereiro\n\nO artigo 11.º do Decreto-Lei n.º 27/2001, de 3 de Fevereiro, alterado pelas Leis n.os 107-B/2003, de 31 de Dezembro, e 55-B/2004, de 30 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 11.º\n\n[...]\n\nDesde que o saldo da conta poupança-habitação seja mobilizado para os fins previstos no n.º 1 do artigo 5.º, às contas poupança-habitação aplicam-se os seguintes benefícios:\n\na) ...\n\nb) Os encargos dos actos notariais e do registo predial respeitantes à aquisição de habitação própria permanente são reduzidos em:\n\ni) Um meio, beneficiando a prática de tais actos de um regime de prioridade ou urgência gratuita, quando não seja utilizado o procedimento especial de transmissão, oneração e registo de imóveis;\n\nii) (euro) 200, quando seja utilizado o procedimento especial de transmissão, oneração e registo de imóveis, incluindo todos os registos, com excepção daqueles de que dependa a verificação dos pressupostos do procedimento;\n\niii) (euro) 120, quando seja utilizado o procedimento especial de transmissão, oneração e registo de imóveis, se apenas for registado um facto, com excepção daqueles de que dependa a verificação dos pressupostos do procedimento.»"
+  },
+  "48229575": {
+   "fragment_id": "37221775",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado\n\nO artigo 21.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, e pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, 199/2004, de 18 de Agosto, 111/2005, de 8 de Julho, 178-A/2005, de 28 de Outubro, 76-A/2006, de 29 de Março, 85/2006, de 23 de Maio, 125/2006, de 29 de Junho, 237-A/2006, de 14 de Dezembro, e 8/2007, de 17 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 21.º\n\n[...]\n\n1 - ...\n\n2 - ....\n\n3 - ....\n\n4 - ....\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ....\n\n9 - ...\n\n10 - Pelo suprimento de deficiências previsto no artigo 73.º do Código do Registo Predial - (euro) 35.»"
+  },
+  "48229675": {
+   "fragment_id": "37221875",
+   "type": 11,
+   "heading": "Artigo 24.º — Aditamento ao Regulamento Emolumentar dos Registos e Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aditamento ao Regulamento Emolumentar dos Registos e Notariado\n\nÉ aditado o artigo 27.º-A ao Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 315/2002, de 27 de Dezembro, pela Lei n.º 32-B/2002, de 30 de Dezembro, e pelos Decretos-Leis n.os 194/2003, de 23 de Agosto, 53/2004, de 18 de Março, 199/2004, de 18 de Agosto, 111/2005, de 8 de Julho, 178-A/2005, de 28 de Outubro, 76-A/2006, de 29 de Março, 85/2006, de 23 de Maio, 125/2006, de 29 de Junho, 237-A/2006, de 14 de Dezembro, e 8/2007, de 17 de Janeiro, com a seguinte redacção:\n\n«Artigo 27.º-A\n\nProcedimento especial de transmissão, oneração e registo de imóveis\n\n1 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, com ou sem marcação prévia, incluindo todos os registos, com excepção daqueles de que dependa a verificação dos pressupostos do procedimento - (euro) 650.\n\n2 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, com ou sem marcação prévia, se apenas for registado um facto, com excepção daqueles de que dependa a verificação dos pressupostos - (euro) 350.\n\n3 - Pela desistência ou indeferimento do procedimento - (euro) 50.\n\n4 - Os emolumentos previstos neste artigo têm um valor único, incluindo os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.\n\n5 - Aos montantes referidos nos n.os 1 a 3 é descontado o valor eventualmente adiantado pelo envio electrónico da informação necessária ao exercício do direito legal de preferência, previsto na portaria que o regulamenta.\n\n6 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)\n\n7 - Por cada procedimento constitui receita do IRN, I. P., o montante de (euro) 100, a deduzir aos emolumentos previstos neste artigo, excepto nos casos da desistência ou do indeferimento em que o emolumento reverte integralmente para o IRN, I. P.»"
+  },
+  "48229775": {
+   "fragment_id": "35726875",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "48229875": {
+   "fragment_id": "37221975",
+   "type": 11,
+   "heading": "Artigo 25.º — Postos de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Postos de atendimento\n\n1 - Por despacho do presidente do IRN, I. P., podem ser criados postos de atendimento dos serviços com competência para a prática de actos de registo, que constituem extensões dos mesmos.\n\n2 - Os postos de atendimento referidos no número anterior podem funcionar junto de outras entidades públicas ou privadas, nos termos estabelecidos por protocolo entre o IRN, I. P., e as referidas entidades."
+  },
+  "48229975": {
+   "fragment_id": "37222075",
+   "type": 11,
+   "heading": "Artigo 26.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Período experimental\n\n1 - Os procedimentos previstos no presente decreto-lei estão disponíveis, a título experimental, nas conservatórias e durante o período fixado por portaria do membro do Governo responsável pela área da justiça.\n\n2 - A disponibilização dos procedimentos previstos no presente decreto-lei noutras conservatórias depende de despacho do presidente do IRN, I. P.\n\n3 - O disposto nos números anteriores é aplicável ao regime previsto no capítulo ii."
+  },
+  "48230075": {
+   "fragment_id": "37222175",
+   "type": 11,
+   "heading": "Artigo 27.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Protocolos\n\nPodem ser celebrados protocolos entre o IRN, I. P., e os diversos organismos da Administração Pública envolvidos nos procedimentos estabelecidos no presente decreto-lei com vista à definição dos procedimentos administrativos de comunicação de informação e à regulamentação do acesso às respectivas bases de dados."
+  },
+  "48230175": {
+   "fragment_id": "37222275",
+   "type": 11,
+   "heading": "Artigo 28.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Norma transitória\n\n1 - Até 31 de Dezembro de 2007, a informação prevista no n.º 2 do artigo 8.º pode ser remetida em formato de papel, devendo os correspondentes documentos ser remetidos, no prazo de dois dias úteis, ao serviço de finanças competente.\n\n2 - Os documentos enviados nos termos do número anterior consideram-se apresentados na data da sua entrega ao serviço que assegura o procedimento previsto neste decreto-lei.\n\n3 - Até 31 de Dezembro de 2007, a promoção da liquidação do IMT, nos termos da alínea c) do n.º 1 do artigo 8.º, apenas pode ser efectuada relativamente aos factos tributários que sejam passíveis de liquidação integralmente electrónica, sendo o seu elenco estabelecido por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça."
+  },
+  "48230275": {
+   "fragment_id": "37222375",
+   "type": 11,
+   "heading": "Artigo 29.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Aplicação subsidiária\n\n1 - São aplicáveis aos actos praticados no âmbito do presente decreto-lei, em tudo o que neste não esteja especialmente regulado e que não contrarie a natureza dos procedimentos especiais nele previstos, os requisitos legais a que estão sujeitos os negócios jurídicos sobre imóveis, competindo ao conservador ou oficial de registo que os pratique a respectiva verificação.\n\n2 - Aos procedimentos estabelecidos neste diploma são também aplicáveis, subsidiariamente, as disposições do Código do Registo Predial e da lei notarial."
+  },
+  "48230375": {
+   "fragment_id": "37222475",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "886820404": {
+   "fragment_id": "38794075",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado o procedimento especial de transmissão, oneração e registo imediato de prédios em atendimento presencial único.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "886820405": {
+   "fragment_id": "38794175",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2009-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O regime previsto no presente decreto-lei aplica-se aos seguintes negócios jurídicos:\n\na) Compra e venda;\n\nb) Mútuo e demais contratos de crédito e de financiamento celebrados por instituições de crédito, com hipoteca, com ou sem fiança;\n\nc) Hipoteca;\n\nd) Sub-rogação nos direitos e garantias do credor hipotecário, nos termos do artigo 591.º do Código Civil;\n\ne) Outros negócios jurídicos, a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - O presente procedimento especial de transmissão, oneração e registo imediato de prédios aplica-se a prédios urbanos e é, nos termos a definir por portaria do membro do Governo responsável pela área da Justiça, ainda aplicável aos seguintes tipos de prédios:\n\na) Prédios mistos;\n\nb) Prédios rústicos;\n\nc) Prédios urbanos formados, no próprio acto, a partir de outros, por fraccionamento ou emparcelamento .\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "886820406": {
+   "fragment_id": "38794375",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2009-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - O procedimento previsto no presente decreto-lei cabe aos serviços com competência para a prática de actos de registo predial, independentemente da área da situação do prédio.\n\n2 - A competência atribuída aos serviços de registo nos termos do número anterior é aplicável à transmissão, oneração e registo de prédios com agendamento da data de realização do negócio jurídico.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "886820407": {
+   "fragment_id": "38794675",
+   "type": 11,
+   "heading": "Artigo 7.º — Formalidades prévias",
+   "in_force_from": "2009-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 7.º — Formalidades prévias\n\n1 - O prosseguimento do procedimento depende da verificação da identidade, da capacidade e dos poderes de representação dos interessados para os actos.\n\n2 - A capacidade e os poderes de representação devem, sempre que possível, ser comprovados por acesso à informação constante das respectivas bases de dados.\n\n3 - Devem ainda ser comprovadas preferencialmente pela forma prevista no número anterior, ou mediante a apresentação dos respectivos documentos, pelos interessados:\n\na) A situação matricial do prédio;\n\nb) A existência ou dispensa de licença de utilização ou de licença de construção, nos termos legais;\n\nc) A existência de ficha técnica do prédio, quando exigível;\n\nd) A inexistência de manifestação da intenção de exercer o direito de preferência legal por parte do Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas.\n\n4 - A mera referência à existência de licença de utilização ou a facto de que resulte a respectiva dispensa efectuada em caderneta predial, em base de dados de serviço da Administração Pública ou em documento autêntico, constitui prova bastante para os efeitos do disposto na alínea b) do número anterior.\n\n5 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.\n\n6 - Os documentos arquivados nos serviços da Administração Pública podem ser utilizados para a realização do procedimento especial de transmissão, oneração e registo imediato, aplicando-se o disposto no 6 do artigo 43.º do Código do Registo Predial.\n\n7 - Sem prejuízo do disposto no número seguinte, os documentos que instruam o procedimento ficam arquivados pela ordem da sua apresentação.\n\n8 - O arquivo referido no número anterior é efectuado em suporte electrónico, nos termos de despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\n9 - Os documentos arquivados em suporte electrónico nos termos do número anterior têm a força probatória dos originais.\n\n10 - São restituídos aos interessados os documentos cujo original deva normalmente permanecer em arquivo público nacional e que não contenham parte narrativa.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "886820408": {
+   "fragment_id": "38794775",
+   "type": 11,
+   "heading": "Artigo 8.º — Tramitação do procedimento",
+   "in_force_from": "2009-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 8.º — Tramitação do procedimento\n\n1 - Efectuada a verificação dos pressupostos e formalidades prévias, referidas nos artigos anteriores, o serviço de registo procede aos seguintes actos pela ordem indicada:\n\na) Anotação no Diário dos factos sujeitos a registo;\n\nb) Elaboração dos documentos que titulam os negócios jurídicos, de acordo com o modelo previamente escolhido pelos interessados, seguido da leitura e explicação do respectivo conteúdo;\n\nc) Promoção da liquidação do IMT, nos termos declarados pelo contribuinte, e de outros impostos que se mostrem devidos, tendo em conta os negócios jurídicos a celebrar, assegurando o seu pagamento prévio à celebração do negócio jurídico;\n\nd) Cobrança dos emolumentos e de outros encargos que se mostrem devidos;\n\ne) Recolha das assinaturas nos documentos que titulam os negócios jurídicos;\n\nf) Verificação da entrega da ficha técnica ao comprador;\n\ng) Realização obrigatória, oficiosa e imediata dos registos apresentados;\n\nh) Anotação à descrição da existência de licença de utilização, com menção do número e respectiva data de emissão.\n\n2 - A pedido do interessado e de acordo com as suas declarações, o serviço competente pratica ainda os seguintes actos:\n\na) Pede a alteração da morada fiscal do adquirente;\n\nb) Pede a isenção do IMI relativo a habitação própria e permanente;\n\nc) Pede a inscrição ou a actualização de prédio urbano na matriz.\n\n3 - Os negócios jurídicos celebrados nos termos deste decreto-lei estão dispensados de formalização por escritura pública quando esta seja obrigatória nos termos gerais.\n\n4 - A leitura dos documentos que titulam os negócios jurídicos pode ser dispensada, a pedido dos interessados.\n\n5 - A realização dos actos previstos no n.º 1 é da competência do conservador e dos oficiais de registo.\n\n6 - Os pedidos a que se refere o n.º 2 são efectuados por via electrónica.\n\n7 - No caso de o interessado solicitar o serviço previsto na alínea c) do n.º 2 fica dispensado de anexar as plantas de arquitectura das construções correspondentes às telas finais aprovadas pela câmara municipal.\n\n8 - Para efeito do disposto no número anterior, o IRN, I. P., deve contactar a competente câmara municipal para que esta lhe disponibilize as respectivas plantas, preferencialmente por via electrónica.\n\n9 - O IRN, I. P., disponibiliza à administração fiscal as plantas referidas nos números anteriores, em termos a protocolar entre as entidades envolvidas.\n\n10 - No caso de as plantas não estarem depositadas na câmara municipal ou de as plantas não serem disponibilizadas à administração fiscal no prazo de 60 dias, a administração tributária deve contactar o interessado para que este as apresente, nos termos gerais.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "886820409": {
+   "fragment_id": "38795275",
+   "type": 11,
+   "heading": "Artigo 13.º — Marcação prévia",
+   "in_force_from": "2009-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 13.º — Marcação prévia\n\n1 - Sem prejuízo do disposto no número seguinte, o registo previsto na secção anterior é aplicável, com as necessárias adaptações, à transmissão, oneração e registo de prédios com agendamento da data da realização do negócio jurídico.\n\n2 - Não são aplicáveis ao regime da marcação prévia os pressupostos referidos nas alíneas e) e f) do n.º 1 do artigo 3.º\n\n3 - Os pressupostos previstos nas alíneas a) a d) do n.º 1 do artigo 3.º apenas têm de estar preenchidos no momento da celebração do negócio jurídico.\n\n4 - A marcação prévia é promovida em termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "886820410": {
+   "fragment_id": "38795675",
+   "type": 11,
+   "heading": "Artigo 17.º — Prova do registo",
+   "in_force_from": "2009-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 17.º — Prova do registo\n\n1 - A prova do registo pode ser efectuada através da disponibilização da informação constante da certidão de registo predial em sítio na Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - Por cada pedido de subscrição ou de renovação do acesso à certidão permanente de registo predial efectuado é devido o montante de (euro) 6.\n\n3 - O montante de (euro) 6 entregue pelos interessados nos termos do número anterior para disponibilização de um acesso à certidão permanente de registo predial faz parte integrante do emolumento do procedimento de transmissão, oneração e registo de prédio, pelo que é descontado nesse emolumento, quando, relativamente a esse prédio, seja realizado um procedimento dentro do prazo de validade da certidão permanente disponibilizada.\n\n4 - A redução prevista no número anterior é válida por uma única vez e não pode exceder o valor devido pelo respectivo procedimento.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "886820411": {
+   "fragment_id": "37222075",
+   "type": 11,
+   "heading": "Artigo 26.º — Disponibilização dos procedimentos",
+   "in_force_from": "2009-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 26.º — Disponibilização dos procedimentos\n\n1 - (Revogado.)\n\n2 - A disponibilização dos procedimentos previstos no presente decreto-lei nos serviços com competência para a prática de actos de registo predial depende de despacho do presidente do IRN, I. P.\n\n3 - Os procedimentos previstos no presente decreto-lei podem ser realizados junto de entidades públicas ou privadas, nos termos estabelecidos por protocolo entre o IRN, I. P., e as referidas entidades.\n\n4 - O disposto nos números anteriores é aplicável ao regime previsto no capítulo ii.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "48231575": {
+   "fragment_id": "35726975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues.\n\nPromulgado em 10 de Julho de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de Julho de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "886820412": {
+   "fragment_id": "38795675",
+   "type": 11,
+   "heading": "Artigo 17.º — Prova do registo",
+   "in_force_from": "2010-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272), em vigor a partir de 2010-10-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 17.º — Prova do registo\n\n1 - A prova do registo pode ser efectuada através da disponibilização da informação constante da certidão de registo predial em sítio na Internet, em termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n2 - (Revogado)\n\n3 - (Revogado)\n\n4 - (Revogado)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 99/2010 - Diário da República n.º 171/2010, Série I de 2010-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272), em vigor a partir de 2010-10-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  },
+  "886820413": {
+   "fragment_id": "38795075",
+   "type": 11,
+   "heading": "Artigo 11.º — Documentos a entregar aos interessados",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Documentos a entregar aos interessados\n\nConcluído o procedimento, o serviço de registo procede à entrega imediata e gratuita dos seguintes documentos:\n\na) Certidão dos títulos elaborados, a quem for cobrado recibo da conta;\n\nb) Certidão permanente dos registos em vigor sobre o prédio, a que se refere o n.º 6 do artigo 110.º do Código do Registo Predial, podendo o interessado fazer a opção nele prevista;\n\nc) Comprovativos do pagamento dos encargos devidos.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 209/2012 - Diário da República n.º 182/2012, Série I de 2012-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2012-176071), em vigor a partir de 2012-10-01"
+  },
+  "887301913": {
+   "fragment_id": "38794675",
+   "type": 11,
+   "heading": "Artigo 7.º — Formalidades prévias",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2013-499550), em vigor a partir de 2013-09-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+   ],
+   "markdown": "###### Artigo 7.º — Formalidades prévias\n\n1 - O prosseguimento do procedimento depende da verificação da identidade, da capacidade e dos poderes de representação dos interessados para os actos.\n\n2 - A capacidade e os poderes de representação devem, sempre que possível, ser comprovados por acesso à informação constante das respectivas bases de dados.\n\n3 - Devem ainda ser comprovadas preferencialmente pela forma prevista no número anterior, ou mediante a apresentação dos respectivos documentos, pelos interessados:\n\na) A situação matricial do prédio;\n\nb) A existência ou dispensa de licença de utilização ou de licença de construção, nos termos legais;\n\nc) A existência de ficha técnica do prédio, quando exigível;\n\nd) A inexistência de manifestação da intenção de exercer o direito de preferência legal por parte do Estado, Regiões Autónomas, municípios, outras pessoas colectivas públicas ou empresas públicas.\n\n4 - A mera referência à existência de licença de utilização ou a facto de que resulte a respectiva dispensa efectuada em caderneta predial, em base de dados de serviço da Administração Pública ou em documento autêntico, constitui prova bastante para os efeitos do disposto na alínea b) do número anterior.\n\n5 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.\n\n6 - Os documentos arquivados em serviço de registo podem ser utilizados para a realização do procedimento especial de transmissão, oneração e registo imediato, aplicando-se o disposto no n.º 2 do artigo 43.º do Código do Registo Predial.\n\n7 - Sem prejuízo do disposto no número seguinte, os documentos que instruam o procedimento ficam arquivados pela ordem da sua apresentação.\n\n8 - O arquivo referido no número anterior é efectuado em suporte electrónico, nos termos de despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\n9 - Os documentos arquivados em suporte electrónico nos termos do número anterior têm a força probatória dos originais.\n\n10 - São restituídos aos interessados os documentos cujo original deva normalmente permanecer em arquivo público nacional e que não contenham parte narrativa.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 125/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2013-499550), em vigor a partir de 2013-09-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 122/2009 - Diário da República n.º 98/2009, Série I de 2009-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), em vigor a partir de 2009-05-22"
+  }
+ }
+}

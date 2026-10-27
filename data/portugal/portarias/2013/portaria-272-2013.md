@@ -1,0 +1,352 @@
+---
+schema_version: '1.0'
+id: pt:dre:499241:por
+title: Portaria n.º 272/2013
+short_title: null
+summary: Define os requisitos e o procedimento de registos, na Direção Nacional da Polícia de Segurança Pública (PSP), das
+  entidades que procedam ao estudo e conceção, instalação, manutenção ou assistência técnica de material e equipamento de
+  segurança ou de centrais de alarme
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 272/2013
+official_date: null
+publication_date: '2013-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/2013, Série I de 2013-08-20
+  number: '159'
+  series: I
+  supplement: null
+  pages: 4954 - 4956
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/08/15900/0495404956.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-04-14'
+version_history:
+  file: portaria-272-2013.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-04-14'
+    amending: pt:dre:66970719:por
+    amending_title: Portaria n.º 105/2015
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/272/2013/p/cons/20150413/pt/html
+  oj: null
+  dre: '499241'
+  dre_path: /dr/detalhe/portaria/272-2013-499241
+  internal: pt:dre:499241:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-2013-499241
+  metadata_url: https://data.dre.pt/eli/port/272/2013/p/cons/20150413/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-70907850
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-70907850
+  retrieved_at: '2026-10-22T12:04:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 57cc554991cfa1a4d31206e265c3a48aefb047794e8217fcaee061d229358122
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:04:00Z'
+  notes: 2 versão(ões); histórico completo em portaria-272-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- PSP
+- Certificação Electrónica
+- Definição de Competências
+- Direção Nacional
+- Serviços de Segurança
+- Dispositivo de Alarme
+- EEE
+- Empresa de Segurança
+- União Europeia
+- Certificado de Qualidade
+- Documento Eletrónico
+- Pessoal Técnico
+- Registo Obrigatório
+- Pessoal de Vigilância
+- Segurança dos Edifícios
+- Segurança Privada
+relationships:
+- type: amended_by
+  target: pt:dre:66970719:por
+  label: Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/105-2015-66970719
+  date: '2015-04-13'
+- type: cites
+  target: pt:dre:174571:por
+  label: null
+  source: http://data.dre.pt/eli/lei/41/2012/08/28/p/dre
+- type: cites
+  target: pt:dre:241183:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2004/01/09/p/dre
+- type: cites
+  target: pt:dre:261089:por
+  label: null
+  source: http://data.dre.pt/eli/lei/34/2013/05/16/p/dre
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/2008/11/12/p/dre
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:04:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 272/2013
+
+Portaria n.º 272/2013
+
+de 20 de agosto
+
+O regime de exercício da atividade de segurança privada, aprovado pela Lei n.º 34/2013, de 16 de maio, determina que as entidades que procedam ao estudo e conceção, instalação, manutenção ou assistência técnica de material e equipamento de segurança ou de centrais de alarme sejam obrigadas a registo prévio na Direção Nacional da Polícia de Segurança Pública.
+
+Não obstante os serviços prestados por estas entidades não se enquadrarem no conceito de serviços de segurança privada, constata-se que estes estão em permanente interação com os meios tecnológicos de segurança usados no âmbito alargado da segurança de pessoas e bens e da prevenção da prática de crimes.
+
+Nos termos do n.º 4 do artigo 12.º da Lei n.º 34/2013, de 16 de maio, os requisitos e o procedimento de registo são definidos por portaria do membro do Governo responsável pela área da administração interna.
+
+Nestes termos, a presente portaria define os diversos requisitos necessários ao registo nacional das referidas entidades.
+
+No que respeita aos técnicos responsáveis o regime previsto segue os trâmites previstos na Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, prevendo-se ainda um período transitório de reconhecimento de qualificações.
+
+O registo permite ainda a identificação das entidades detentoras de certificação de qualidade relativa aos serviços técnicos prestados.
+
+De referir também, que no sentido da simplificação do procedimento, todo o processo de registo pode ser efetuado por via eletrónica.
+
+Foi ouvido o Conselho de Segurança Privada e as entidades nele representadas, bem como a APSEI - Associação Portuguesa de Segurança.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Administração Interna, ao abrigo do disposto no n.º 4 do artigo 12.º da Lei n.º 34/2013, de 16 de maio, o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - A presente portaria define os requisitos e o procedimento de registo, na Direção Nacional da Polícia de Segurança Pública (PSP), das entidades que procedam ao estudo e conceção, instalação, manutenção ou assistência técnica de material e equipamento de segurança ou de centrais de alarme, nos termos previstos no n.º 2 do artigo 12.º da Lei n.º 34/2013, de 16 de maio, adiante designadas por entidades.
+
+2 - Estão excluídas do âmbito da presente portaria as entidades que desenvolvam as atividades de projeto, comércio, instalação, manutenção ou assistência técnica de sistemas de segurança contra incêndio e que estejam abrangidas pelo regime jurídico de segurança contra incêndios em edifícios, aprovado pelo Decreto-Lei n.º 220/2008, de 12 de novembro.
+
+###### Artigo 2.º — Material e equipamento de segurança
+
+1 - Para efeitos do disposto na presente portaria a definição de material e equipamento de segurança prevista na alínea g) do artigo 2.º da Lei n.º 34/2013, de 16 de maio, compreende quaisquer dispositivos elétricos e ou eletrónicos destinados a:
+
+a) Detetar e sinalizar a presença, entrada ou tentativa de entrada de um intruso em edifícios ou instalações protegidas;
+
+b) Prevenir a entrada de armas, substâncias e artigos de uso e porte proibidos ou suscetíveis de provocar atos de violência no interior de edifícios ou locais de acesso vedado ou condicionado ao público;
+
+c) Controlar o acesso de pessoas não autorizadas em edifícios ou instalações protegidas;
+
+d) Capturar, registar e visualizar imagens de espaço protegido;
+
+e) Receber, enviar ou tratar sinais de alarme (centrais de alarme), incluindo de alarmes pessoais ou portáteis.
+
+2 - É ainda considerado material e equipamento de segurança qualquer dispositivo de segurança eletrónica de pessoas e bens com as finalidades previstas no número anterior.
+
+3 - Para efeitos da alínea b) do n.º 1 são consideradas substâncias e artigos de uso e porte proibido as que sejam previstas, nomeadamente, no regime jurídico relativo a espetáculos desportivos, a espetáculos e divertimentos públicos ou segurança aeroportuária e proteção portuária.
+
+###### Artigo 3.º — Registo
+
+1 - O registo das entidades é criado e mantido pela Direção Nacional da PSP, no âmbito do sistema de informação previsto no artigo 56.º da Lei n.º 34/2013, de 16 de maio.
+
+2 - O certificado de registo prévio é emitido pela Direção Nacional da PSP e publicitado na sua página oficial.
+
+3 - A publicação do registo prévio contém a seguinte informação:
+
+a) Designação social e sede da entidade;
+
+b) Número de identificação de pessoa coletiva (NIPC);
+
+c) Âmbito dos serviços prestados;
+
+d) Identificação do material e equipamento de segurança conforme definido no n.º 1 do artigo 2.º;
+
+e) Certificação de qualidade voluntária prevista no artigo 7.º;
+
+f) Número de registo prévio, data de emissão e validade.
+
+4 - O registo é válido por cinco anos, a contar da sua emissão, podendo ser renovado por iguais períodos.
+
+5 - O tratamento de dados pessoais no procedimento de registo está sujeito às regras previstas na Lei de Proteção de Dados Pessoais.
+
+###### Artigo 4.º — Requisitos
+
+1 - Para efeitos de registo prévio ou da sua renovação, a entidade deve cumprir os requisitos previstos na presente portaria.
+
+2 - O disposto no número anterior não é aplicável a entidade acreditada noutro Estado membro da União Europeia ou de um Estado parte do Acordo sobre o Espaço Económico Europeu em que seja aplicável regime idêntico ao previsto no n.º 3 do artigo 12.º da Lei n.º 34/2013, de 16 de maio, de acordo com as autorizações, elementos, justificações ou garantias já exigidos no Estado membro de origem.
+
+###### Artigo 5.º — Requisitos e capacidade técnica
+
+1 - A entidade sujeita a registo é uma pessoa singular ou coletiva legalmente constituída de acordo com a legislação de um Estado membro da União Europeia ou de um Estado parte do Acordo sobre o Espaço Económico Europeu.
+
+2 - A entidade deve ainda reunir os seguintes requisitos:
+
+a) Possuir instalações técnicas;
+
+b) Possuir os meios e equipamentos necessários ao desenvolvimento das atividades;
+
+c) Possuir técnico responsável;
+
+d) Não possuir dívidas ao Estado e à Segurança Social, ou fazer prova de que o seu pagamento se encontra assegurado;
+
+e) Possuir seguro de responsabilidade civil obrigatório, quando aplicável;
+
+f) Estar habilitada, quando aplicável, com título para o exercício da atividade de construção, nos termos do respetivo regime jurídico aprovado pelo Decreto-Lei n.º 12/2004, de 9 de janeiro;
+
+g) Não estar inibida, por decisão definitiva ou transitada em julgado, do exercício da atividade.
+
+###### Artigo 6.º — Técnico responsável
+
+1 - Ao técnico responsável da entidade compete o exercício de funções de planeamento, organização, coordenação dos operadores e dos subempreiteiros, assistência técnica e controlo de qualidade dos fornecimentos, instalação e execução dos trabalhos relativos a material e equipamentos de segurança previstos no artigo 2.º, mediante a subscrição de termo de responsabilidade.
+
+2 - A acreditação do técnico responsável é efetuada mediante verificação da respetiva qualificação profissional, atendendo, designadamente, à formação base ou profissional e à experiência profissional.
+
+3 - São considerados detentores de qualificação profissional adequada:
+
+a) Os engenheiros e os engenheiros técnicos inscritos em associações públicas de natureza profissional que, nos termos da lei que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, se considerem habilitados para o efeito;
+
+b) Os engenheiros e os engenheiros técnicos inscritos nas respetivas associações públicas de natureza profissional no seguimento de procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, por reconhecimento de qualificações equivalentes às referidas na alínea anterior;
+
+c) Os cidadãos de Estado membro da União Europeia ou do Espaço Económico Europeu com qualificações, obtidas fora de Portugal, equivalentes às referidas na alínea a), que aqui pretendam exercer a atividade profissional em regime de livre prestação de serviços e que, para tanto, mediante declaração prévia, informem a Ordem dos Engenheiros ou a Ordem dos Engenheiros Técnicos, conforme aplicável, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;
+
+d) As pessoas singulares detentoras de dupla certificação, obtida por via das modalidades de educação e formação do Sistema Nacional de Qualificações, que respeitem os conteúdos definidos no Catálogo Nacional de Qualificações, na área de eletricidade ou eletrónica, ou qualificação equiparada reconhecida nos termos de procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto;
+
+e) Os técnicos de áreas de formação de eletricidade e energia e de eletrónica e automação, que tenham frequentado com aproveitamento unidades de curta duração integradas no Catálogo Nacional de Qualificações, ou qualificação equiparada reconhecida nos termos de procedimento constante do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 105/2015 - Diário da República n.º 71/2015, Série I de 2015-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/105-2015-66970719), em vigor a partir de 2015-04-14
+
+###### Artigo 7.º — Certificação de qualidade
+
+1 - As entidades que requeiram o registo prévio podem averbar certificação de qualidade ao abrigo de um referencial de qualidade específico para a atividade no âmbito da instalação, manutenção ou assistência técnica, auditado periodicamente por uma entidade terceira e independente.
+
+2 - Para efeito do averbamento previsto no número anterior as entidades devem ser detentoras de um dos seguintes certificados:
+
+a) Certificado de sistema de gestão da qualidade pela NP EN ISO 9001, emitido por entidade acreditada reconhecida ou autorizada pelas entidades ou organismos nacionais de acreditação de um Estado membro da União Europeia;
+
+b) Certificado de serviço no âmbito da prestação de serviços de estudo e conceção, instalação e manutenção ou assistência técnica do material e equipamento de segurança previsto no artigo 2.º, com base em referencial aprovado pelo organismo de normalização sectorial competente.
+
+###### Artigo 8.º — Pedido de registo e de renovação
+
+1 - A apresentação do pedido de registo das entidades ou da sua renovação é efetuada preferencialmente por via eletrónica, através do Sistema Integrado de Gestão de Segurança Privada (SIGESP), mediante submissão de requerimento de modelo próprio, dirigido ao Diretor Nacional da PSP, devidamente instruído com os elementos comprovativos dos requisitos aplicáveis previstos na presente portaria.
+
+2 - Com a apresentação do pedido é devido o pagamento da taxa correspondente.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 105/2015 - Diário da República n.º 71/2015, Série I de 2015-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/105-2015-66970719), em vigor a partir de 2015-04-14
+
+###### Artigo 9.º — Elementos comprovativos
+
+1 - O pedido é instruído com os seguintes documentos:
+
+a) Certidão de teor da descrição e de todas as inscrições em vigor, emitida pela Conservatória do Registo Comercial;
+
+b) Cópia da certidão dos documentos que titulem a posse, o arrendamento, a locação ou usufruto do imóvel onde se situem as instalações técnicas;
+
+c) (Revogada);
+
+d) Cópia da certidão do registo predial quando as instalações não sejam propriedade da entidade;
+
+e) Certidão comprovativa da inexistência de dívidas ao Estado e à segurança social, ou de que o seu pagamento se encontra assegurado, e do cumprimento das obrigações fiscais relativas ao ano em que o pedido é apresentado;
+
+f) Apólice de seguro de responsabilidade civil, se aplicável;
+
+g) Título de habilitação, se aplicável o requisito previsto na alínea f) do n.º 2 do artigo 5.º;
+
+h) Comprovativo do pagamento da taxa.
+
+2 - O pedido é ainda instruído com os documentos relativos ao técnico responsável:
+
+a) Documento de identificação ou equivalente;
+
+b) Título de residência ou equivalente, quando aplicável;
+
+c) Certificado de registo criminal;
+
+d) Documento comprovativo da qualificação profissional emitido pela Ordem dos Engenheiros ou pela Ordem dos Engenheiros Técnicos, ou da formação profissional adequada, correspondente, pelo menos, a 50 horas, em entidade formadora certificada pela Direção-Geral do Emprego e das Relações de Trabalho;
+
+e) Cópia do contrato de trabalho.
+
+3 - No caso de renovação do registo, o técnico responsável deve fazer prova da frequência de ação de formação de atualização científica e técnica, de duração não inferior a 50 horas, frequentada nos últimos três anos, em entidade formadora certificada pela Direção-Geral do Emprego e das Relações de Trabalho.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 105/2015 - Diário da República n.º 71/2015, Série I de 2015-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/105-2015-66970719), em vigor a partir de 2015-04-14
+
+###### Artigo 10.º — Rejeição liminar
+
+1 - O pedido a que se refere o n.º 1 do artigo 8.º é liminarmente rejeitado se não estiver acompanhado de todos os elementos instrutórios cuja junção é obrigatória nos termos da presente portaria.
+
+2 - Sem prejuízo do disposto do número anterior, o interessado é convidado a suprir as deficiências iniciais do pedido.
+
+###### Artigo 11.º — Instrução do pedido
+
+1 - Efetuado o pagamento da taxa de serviço, a Direção Nacional da PSP procede à instrução do pedido.
+
+2 - Concluída a instrução com despacho de deferimento é emitido o certificado de registo prévio.
+
+###### Artigo 12.º — Obrigações das entidades registadas
+
+As entidades registadas estão obrigadas a notificar a Direção Nacional da PSP de todas as alterações aos dados que lhes respeitam, no prazo de 10 dias úteis após a data da sua ocorrência.
+
+###### Artigo 13.º — Suspensão e cancelamento do registo
+
+1 - O registo da entidade é suspenso quando se verifique a falta de técnico responsável e enquanto esta se mantiver.
+
+2 - O registo da entidade é cancelado quando se verifique a cessação da atividade.
+
+###### Artigo 14.º — Norma transitória
+
+1 - Durante um período transitório de três anos a contar da data de publicação da presente portaria, podem ser acreditados como técnico responsável, as pessoas singulares detentores da escolaridade mínima obrigatória e que comprovem ter três anos ou mais de experiência profissional nas atividades previstas no n.º 1 artigo 6.º
+
+2 - O pedido de acreditação é requerido na Direção Nacional da PSP.
+
+3 - É aplicável o disposto no artigo 26.º da Lei n.º 34/2013, de 16 de maio, com as devidas adaptações.
+
+###### Artigo 15.º — Entrada em vigor
+
+A presente portaria entra em vigor 30 dias após a data da sua publicação.
+
+O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 13 de agosto de 2013.

@@ -1,0 +1,1906 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0132:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0132-20210701",
+ "dre_path": null,
+ "source_lastmod": "2021-07-01",
+ "versions": [
+  {
+   "date": "2009-11-10",
+   "future": false,
+   "celex": "32009L0132",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9c6089fa46c39aee",
+    "ffc348f463b781ad",
+    "5ab355e9e3267ddf",
+    "b337bf3be48c214b",
+    "bc21f39db509f848",
+    "4c8bdeab3d91ec7d",
+    "db9981deea3ae215",
+    "f6c2eb219fe1b284",
+    "aa2b0a92e90913be",
+    "7ac5218f541617e9",
+    "287d452d6c15a101",
+    "f879b52e78a63c78",
+    "b1e460c7ed3ac26f",
+    "a29a539caeb8b254",
+    "a7c0f66c4f7bc388",
+    "d37d5ce974389d4c",
+    "8d1eacd6476839a4",
+    "9d87d8d9cd65ade8",
+    "8a6992ea3c104fd1",
+    "cbaa5fa6ba0d31b0",
+    "e0ccca82d625cf51",
+    "f32e4730ce3511e4",
+    "5e6715679874bedb",
+    "b21aaf30bf91b173",
+    "106823d600ea713e",
+    "a3b195c08c38f795",
+    "9d811ce883ecddfa",
+    "b2be4193f1ca59cb",
+    "432e481ff31d4023",
+    "fb1b2e0021d3f840",
+    "e237b08ac06851ab",
+    "9db704600627e53c",
+    "187b721b324b9172",
+    "ab463e3828b0d201",
+    "deff4e5bd9d75e2b",
+    "662cf62f00c33127",
+    "2fe8bc1b9230244a",
+    "d4fb564c91b9ae7d",
+    "f72bf642c79407e5",
+    "4f8efffddfe96470",
+    "129262eadf5d5a3f",
+    "532f2055187a71b5",
+    "0e88cadee6b56747",
+    "5df1da9da9aa6fc5",
+    "38bfee688a8d4215",
+    "9ee3ee10c0212399",
+    "fd1f6efdb97a73cb",
+    "00c37f26ea0bc094",
+    "f6c2eb219fe1b284",
+    "269c586b636af276",
+    "e6ac577ffe278ddd",
+    "13780d35e7951882",
+    "0f9e33408a42905c",
+    "474db9b9cbab00c3",
+    "8a6992ea3c104fd1",
+    "aa1c9d990468dee4",
+    "668ae64aed407443",
+    "c3d12e085f76a7c5",
+    "b10288b67f8e014f",
+    "637b9db7dda31fb2",
+    "f6c2eb219fe1b284",
+    "6266ce09041d7bba",
+    "0b94d67b6f536c87",
+    "8a6992ea3c104fd1",
+    "9cf4129db5a49e07",
+    "14c8b325ef0ce434",
+    "75b27f16127c3e8e",
+    "35695f07e5b7533f",
+    "a3b195c08c38f795",
+    "79035ad14eff93b6",
+    "28802dd4c89d0208",
+    "6cc3b57c1b453c93",
+    "f2693c951843cc3a",
+    "42d8e1acfbfd992e",
+    "e1c7c926ca3c4072",
+    "ee3f90a159fc1f7c",
+    "f6c2eb219fe1b284",
+    "bd63550a14610a04",
+    "c40ac8c5f44c89c4",
+    "8a6992ea3c104fd1",
+    "3264b17f9c2ee8b5",
+    "ac78ac3c7fe6b5df",
+    "38380b070aa13009",
+    "c376d4d49dc7e1dc",
+    "24119ac37d034bc8",
+    "44e2b63c77e75e32",
+    "a3b195c08c38f795",
+    "6517aec0b3d2f9ca",
+    "ca815b3b1bd95a44",
+    "092b1d518bedd16f",
+    "606c752601e852bc",
+    "6cc3b57c1b453c93",
+    "54cb3e735c26760f",
+    "7bbabfe38ac7410a",
+    "842442c2581be81a",
+    "a087211e9a7e2c23",
+    "bcae577274cd4ae6",
+    "dfd623339771b390",
+    "45205545e6720c36",
+    "f849230b8ca10a0a",
+    "54f57143a0397c91",
+    "4d113a2596611ba6",
+    "f6c2eb219fe1b284",
+    "b57a416970a290fb",
+    "143a08ee35822564",
+    "8a6992ea3c104fd1",
+    "957f1debe55cb7f0",
+    "2276516a3708a68c",
+    "a9912fb77e42c0af",
+    "7233cb3200eb9896",
+    "a3b195c08c38f795",
+    "cbb5b267ec15dfaa",
+    "8723bc88139246b9",
+    "d56623e392b11200",
+    "a012d9972e9b1de6",
+    "f6c2eb219fe1b284",
+    "8849119d2993d044",
+    "38d4aed893c50457",
+    "8a6992ea3c104fd1",
+    "1ce62cf42dd98ae9",
+    "8976f11a8f40200d",
+    "5f0dedf7b48e18ca",
+    "76332ca0c40c4cd3",
+    "a3b195c08c38f795",
+    "30d610bf73dd9150",
+    "d66e62cfa631cdab",
+    "208271f5e00af59e",
+    "a387112430039010",
+    "0d8dfe51f1c57f1c",
+    "e58bceaf23ef2941",
+    "9e3582086a409621",
+    "aa6031bf8e2f8cca",
+    "fca30f4078ae0392",
+    "4fd9fdd21acf9c56",
+    "f59739ab7306146c",
+    "67c8588b7de6bfc4",
+    "84c3155e5b82c7d8",
+    "4d2e7fdbe751355b",
+    "146147b337a5e555",
+    "5c36ffad1f883f01",
+    "2e33eb37783c690a",
+    "226c39ffd0a88dad",
+    "a4cb288ebd1d87c3",
+    "bc2ca96b347be9ac",
+    "8a6992ea3c104fd1",
+    "ac40ac146ad13e51",
+    "0839377f7d5ab310",
+    "a3b195c08c38f795",
+    "80deb6c8af16a5ef",
+    "27c2a1866e50bbd8",
+    "6cc3b57c1b453c93",
+    "ed2f7621f7a82b15",
+    "12b0fb940f16e3d7",
+    "ba538fa7b6eb44e8",
+    "f33024b0147def0b",
+    "33c3a6922310f147",
+    "47858455157b62ca",
+    "bfa8587bd3fe420c",
+    "5bc7a77f2ba47648",
+    "e1f2e270d4dc5383",
+    "8c48f0f12ff38eb9",
+    "f79f1f0664baf8cf",
+    "7cd662fc88f76bce",
+    "3c86a15ddc0878af",
+    "9a270f7150a42d60",
+    "98f70f47c1be9579",
+    "906b320adabe224c",
+    "643bb31a758355e5",
+    "7175f41cf5af1218",
+    "97fb71ebc647c112",
+    "966d3b11fd5a17ca",
+    "2c63dbb7b8945fd1",
+    "31a352f71e30afc3",
+    "fe0568417736a601",
+    "c7b64b04ee948148",
+    "e9f22abb4e153fb9",
+    "fe5d22930c5ce856",
+    "1acef92081e82ffc",
+    "296281b68f6d86ca",
+    "41863b0569ea511a"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "celex": "02009L0132-20210701",
+   "acts": [
+    {
+     "id": "eu:celex:32017L2455:por",
+     "title": "DIRETIVA (UE) 2017/2455 DO CONSELHO de 5 de dezembro de 2017",
+     "published": null,
+     "celex": "32017L2455"
+    },
+    {
+     "id": "eu:celex:32020D1109:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32020D1109"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 36.º",
+    "Altera Artigo 84.º",
+    "Altera Artigo 98.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO III",
+    "Suprime TÍTULO IV",
+    "Suprime IMPORTAÇÕES DE VALOR INSIGNIFICANTE",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º"
+   ],
+   "fragments": [
+    "4a617c1dfe168fd1",
+    "ffc348f463b781ad",
+    "5ab355e9e3267ddf",
+    "b337bf3be48c214b",
+    "f9acab15b7d48bc3",
+    "4c8bdeab3d91ec7d",
+    "db9981deea3ae215",
+    "f6c2eb219fe1b284",
+    "aa2b0a92e90913be",
+    "7ac5218f541617e9",
+    "287d452d6c15a101",
+    "f879b52e78a63c78",
+    "b1e460c7ed3ac26f",
+    "a29a539caeb8b254",
+    "a7c0f66c4f7bc388",
+    "d37d5ce974389d4c",
+    "e71376fd45e7c0e5",
+    "9d87d8d9cd65ade8",
+    "8a6992ea3c104fd1",
+    "cbaa5fa6ba0d31b0",
+    "e0ccca82d625cf51",
+    "f32e4730ce3511e4",
+    "5e6715679874bedb",
+    "b1d7f3fca7c976a4",
+    "106823d600ea713e",
+    "a3b195c08c38f795",
+    "9d811ce883ecddfa",
+    "b2be4193f1ca59cb",
+    "432e481ff31d4023",
+    "fb1b2e0021d3f840",
+    "e237b08ac06851ab",
+    "9db704600627e53c",
+    "187b721b324b9172",
+    "790f1941909fdf8b",
+    "deff4e5bd9d75e2b",
+    "4f8efffddfe96470",
+    "129262eadf5d5a3f",
+    "f8de0c6836aa1b18",
+    "985674434270a6fd",
+    "5df1da9da9aa6fc5",
+    "38bfee688a8d4215",
+    "9ee3ee10c0212399",
+    "fd1f6efdb97a73cb",
+    "00c37f26ea0bc094",
+    "f6c2eb219fe1b284",
+    "269c586b636af276",
+    "e6ac577ffe278ddd",
+    "13780d35e7951882",
+    "0f9e33408a42905c",
+    "474db9b9cbab00c3",
+    "8a6992ea3c104fd1",
+    "aa1c9d990468dee4",
+    "668ae64aed407443",
+    "c3d12e085f76a7c5",
+    "b10288b67f8e014f",
+    "637b9db7dda31fb2",
+    "f6c2eb219fe1b284",
+    "6266ce09041d7bba",
+    "1961d91093ef650d",
+    "8a6992ea3c104fd1",
+    "9cf4129db5a49e07",
+    "44a1e6267e623b47",
+    "75b27f16127c3e8e",
+    "35695f07e5b7533f",
+    "a3b195c08c38f795",
+    "79035ad14eff93b6",
+    "28802dd4c89d0208",
+    "6cc3b57c1b453c93",
+    "f2693c951843cc3a",
+    "42d8e1acfbfd992e",
+    "e1c7c926ca3c4072",
+    "ee3f90a159fc1f7c",
+    "f6c2eb219fe1b284",
+    "bd63550a14610a04",
+    "c40ac8c5f44c89c4",
+    "8a6992ea3c104fd1",
+    "3264b17f9c2ee8b5",
+    "54c28769b76c1e1c",
+    "38380b070aa13009",
+    "c376d4d49dc7e1dc",
+    "24119ac37d034bc8",
+    "44e2b63c77e75e32",
+    "a3b195c08c38f795",
+    "6517aec0b3d2f9ca",
+    "64dd4cc34c64180b",
+    "092b1d518bedd16f",
+    "606c752601e852bc",
+    "6cc3b57c1b453c93",
+    "54cb3e735c26760f",
+    "7bbabfe38ac7410a",
+    "842442c2581be81a",
+    "a087211e9a7e2c23",
+    "bcae577274cd4ae6",
+    "dfd623339771b390",
+    "45205545e6720c36",
+    "f849230b8ca10a0a",
+    "54f57143a0397c91",
+    "4d113a2596611ba6",
+    "f6c2eb219fe1b284",
+    "b57a416970a290fb",
+    "143a08ee35822564",
+    "8a6992ea3c104fd1",
+    "957f1debe55cb7f0",
+    "2276516a3708a68c",
+    "a9912fb77e42c0af",
+    "7233cb3200eb9896",
+    "a3b195c08c38f795",
+    "cbb5b267ec15dfaa",
+    "dcf748194f6028df",
+    "d56623e392b11200",
+    "a012d9972e9b1de6",
+    "f6c2eb219fe1b284",
+    "8849119d2993d044",
+    "38d4aed893c50457",
+    "8a6992ea3c104fd1",
+    "1ce62cf42dd98ae9",
+    "8976f11a8f40200d",
+    "7df2916a2a469fbc",
+    "76332ca0c40c4cd3",
+    "a3b195c08c38f795",
+    "30d610bf73dd9150",
+    "790a82e95c2dcb61",
+    "208271f5e00af59e",
+    "a387112430039010",
+    "0d8dfe51f1c57f1c",
+    "e58bceaf23ef2941",
+    "9e3582086a409621",
+    "aa6031bf8e2f8cca",
+    "fca30f4078ae0392",
+    "4fd9fdd21acf9c56",
+    "f59739ab7306146c",
+    "67c8588b7de6bfc4",
+    "2c75ea7a0a2a7c4f",
+    "4d2e7fdbe751355b",
+    "146147b337a5e555",
+    "5c36ffad1f883f01",
+    "2e33eb37783c690a",
+    "226c39ffd0a88dad",
+    "a4cb288ebd1d87c3",
+    "bc2ca96b347be9ac",
+    "8a6992ea3c104fd1",
+    "ac40ac146ad13e51",
+    "0839377f7d5ab310",
+    "a3b195c08c38f795",
+    "80deb6c8af16a5ef",
+    "71ad34778b0ea30a",
+    "6cc3b57c1b453c93",
+    "ed2f7621f7a82b15",
+    "12b0fb940f16e3d7",
+    "ba538fa7b6eb44e8",
+    "f33024b0147def0b",
+    "33c3a6922310f147",
+    "47858455157b62ca",
+    "bfa8587bd3fe420c",
+    "fb16dba6824d4ad6",
+    "e1f2e270d4dc5383",
+    "8c48f0f12ff38eb9",
+    "f79f1f0664baf8cf",
+    "7cd662fc88f76bce",
+    "3c86a15ddc0878af",
+    "9a270f7150a42d60",
+    "98f70f47c1be9579",
+    "906b320adabe224c",
+    "643bb31a758355e5",
+    "7175f41cf5af1218",
+    "97fb71ebc647c112",
+    "966d3b11fd5a17ca",
+    "2c63dbb7b8945fd1",
+    "31a352f71e30afc3",
+    "fe0568417736a601",
+    "c7b64b04ee948148",
+    "e9f22abb4e153fb9",
+    "fe5d22930c5ce856",
+    "1acef92081e82ffc",
+    "d81f7d2334bf37b7",
+    "b7b95a603e66aac9",
+    "852174729551523b",
+    "114268fb4ab8c79b",
+    "f082f25874c49f6b",
+    "bc90e72db7b254fd",
+    "eea6ac693ce0b45b"
+   ]
+  }
+ ],
+ "fragments": {
+  "9c6089fa46c39aee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 2009\n\nque determina o âmbito de aplicação das alíneas b) e c) do artigo 143.º da Directiva 2006/112/CE, no que diz respeito à isenção do imposto sobre o valor acrescentado de certas importações definitivas de bens\n\n(versão codificada)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente os artigos 93.º e 94.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntr1-L_2009292PT.01000501-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntr2-L_2009292PT.01000501-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 83/181/CEE do Conselho, de 28 de Março de 1983, que determina o âmbito de aplicação do n.º 1, alínea d), do artigo 14.º da Directiva 77/388/CEE, no que diz respeito à isenção do imposto sobre o valor acrescentado de certas importações definitivas de bens [([^3])](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntr3-L_2009292PT.01000501-E0003), foi por várias vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntr4-L_2009292PT.01000501-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) Por força do artigo 131.º e das alíneas b) e c) do artigo 143.º da Directiva 2006/112/CE do Conselho, de 28 de Novembro de 2006, relativa ao sistema comum do imposto sobre o valor acrescentado [([^5])](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntr5-L_2009292PT.01000501-E0005), os Estados-Membros isentam, sem prejuízo de outras disposições comunitárias e nas condições por eles fixadas tendo em vista, designadamente, prevenir quaisquer fraudes, evasões e abusos eventuais, as importações definitivas de bens que beneficiem de isenção aduaneira que não seja a prevista na pauta aduaneira comum.\n\n(3) Por força do artigo 145.º da Directiva 2006/112/CE, a Comissão deve apresentar ao Conselho propostas relativas à adopção de normas fiscais comunitárias que delimitem o âmbito de aplicação das isenções previstas nos artigos 143.º e 144.º da referida Directiva e as regras pormenorizadas da sua execução.\n\n(4) Se é desejável conseguir uma uniformização tão estreita quanto possível entre o regime aduaneiro e o regime aplicável em matéria de imposto sobre o valor acrescentado, há, todavia, que ter em conta, no que se refere à aplicação deste último, as diferenças de objectivo e de estrutura existentes entre os direitos aduaneiros e o imposto sobre o valor acrescentado.\n\n(5) É conveniente estabelecer um sistema de imposto sobre o valor acrescentado diferente no que respeita às importações na medida necessária para satisfazer os objectivos de harmonização fiscal. As isenções na importação só podem ser concedidas desde que tal concessão não seja susceptível de afectar as condições de concorrência no mercado interno.\n\n(6) Certas isenções em vigor nos Estados-Membros resultam de convenções entre Estados-Membros e países terceiros, que, tendo em conta o seu objecto, apenas dizem respeito ao Estado-Membro signatário. Não é vantajoso definir, a nível comunitário, as condições relativas à concessão de tais isenções. Bastará permitir aos Estados-Membros interessados mantê-las.\n\n(7) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas, indicados na parte B do anexo II,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "5ab355e9e3267ddf": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "b337bf3be48c214b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO âmbito de aplicação das isenções do imposto sobre o valor acrescentado (a seguir designado «IVA») referidas nas alíneas b) e c) do artigo 143.º da Directiva 2006/112/CE, bem como as regras pormenorizadas da sua execução referidas no artigo 145.º da referida directiva são definidos de acordo com a presente directiva.\n\nNos termos do artigo 131.º e das alíneas b) e c) do artigo 143.º da Directiva 2006/112/CE, os Estados-Membros aplicam as isenções previstas na presente directiva nas condições por eles fixadas no sentido de garantir a sua aplicação correcta e simples e de prevenir qualquer possível fraude, evasão e abuso."
+  },
+  "bc21f39db509f848": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do disposto na presente directiva, entende-se por:\n\na) «Importações», as importações definidas no artigo 30.º da Directiva 2006/112/CE, bem como a colocação para consumo depois de terem estado sujeitas a um dos regimes previstos na alínea a) do n.º 1 do artigo 157.º da referida directiva ou a um regime de admissão temporária ou de trânsito;\n\nb) «Bens pessoais», os bens destinados ao uso pessoal dos interessados ou às necessidades domésticas, nomeadamente, os objectos de uso doméstico e bens móveis, os velocípedes e motociclos, veículos automóveis destinados a uso privado e respectivos reboques, caravanas de campismo, barcos de recreio e aviões de turismo, bem como as provisões domésticas que correspondam a um aprovisionamento familiar normal e os animais domésticos e de sela;\n\nc) «Objectos de uso doméstico e bens móveis», os objectos pessoais, a roupa de casa e os artigos de mobiliário ou de equipamento destinados a uso pessoal dos interessados ou às necessidades domésticas;\n\nd) «Produtos alcoólicos», os produtos (cervejas, vinhos, aperitivos à base de vinho ou de álcool, aguardentes, licores e bebidas espirituosas, etc.) dos códigos NC 2203 a 2208 da pauta aduaneira comum;\n\ne) «Comunidade», os territórios dos Estados-Membros a que se aplica a Directiva 2006/112/CE.\n\n2. Os bens pessoais não devem reflectir, quer pela sua natureza, quer pela sua quantidade, uma preocupação de ordem comercial, nem destinar-se a uma actividade económica na acepção do n.º 1 do artigo 9.º da Directiva 2006/112/CE. Todavia, constituem igualmente bens pessoais os instrumentos portáteis utilizados nas artes mecânicas ou nas profissões liberais necessários ao exercício da profissão do interessado."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "db9981deea3ae215": {
+   "fragment_id": "IMPORTAÇÕES DE BENS PESSOAIS PERTENCENTES A PARTICULARES E PROVENIENTES DE PAÍSES TERCEIROS OU DE TERRITÓRIOS TERCEIROS",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES DE BENS PESSOAIS PERTENCENTES A PARTICULARES E PROVENIENTES DE PAÍSES TERCEIROS OU DE TERRITÓRIOS TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES DE BENS PESSOAIS PERTENCENTES A PARTICULARES E PROVENIENTES DE PAÍSES TERCEIROS OU DE TERRITÓRIOS TERCEIROS"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "aa2b0a92e90913be": {
+   "fragment_id": "Bens pessoais pertencentes a pessoas singulares que transfiram a sua residência normal para a Comunidade",
+   "type": "divisao",
+   "heading": "Bens pessoais pertencentes a pessoas singulares que transfiram a sua residência normal para a Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens pessoais pertencentes a pessoas singulares que transfiram a sua residência normal para a Comunidade"
+  },
+  "7ac5218f541617e9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs bens pessoais importados por pessoas singulares que transfiram a sua residência normal situada fora da Comunidade para um Estado-Membro ficam isentos de IVA na importação, sem prejuízo dos artigos 4.º a 11.º"
+  },
+  "287d452d6c15a101": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA isenção é limitada aos bens pessoais que:\n\na) Salvo casos especiais justificados pelas circunstâncias, tiverem estado na posse do interessado e, quando se trate de bens não consumíveis, tiverem sido por ele utilizados no lugar da sua antiga residência normal durante, pelo menos, seis meses antes da data em que tiver deixado de ter a sua residência normal fora da Comunidade;\n\nb) Se destinem a ser utilizados para os mesmos fins no lugar da nova residência normal.\n\nOs Estados-Membros podem subordinar a isenção à condição de o interessado ter suportado, no país ou território de origem, ou no país ou território de proveniência, os encargos aduaneiros ou fiscais a que tais bens pessoais estiverem normalmente sujeitos."
+  },
+  "f879b52e78a63c78": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSó podem beneficiar da isenção as pessoas que tiverem tido a sua residência normal fora da Comunidade há, pelo menos, doze meses consecutivos.\n\nTodavia, as autoridades competentes podem admitir excepções ao disposto no primeiro parágrafo, desde que o interessado tivesse claramente a intenção de permanecer fora da Comunidade durante um período mínimo de doze meses."
+  },
+  "b1e460c7ed3ac26f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nFicam excluídos da isenção:\n\na) Os produtos alcoólicos;\n\nb) Os tabacos e os produtos do tabaco;\n\nc) Os meios de transporte de carácter utilitário;\n\nd) Os materiais para uso profissional que não sejam os instrumentos portáteis utilizados nas artes mecânicas ou nas profissões liberais.\n\nPodem igualmente ficar excluídos da isenção os veículos de utilização mista, usados para fins comerciais ou profissionais."
+  },
+  "a29a539caeb8b254": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Salvo casos especiais, a isenção só é concedida em relação aos bens pessoais declarados para importação definitiva antes de decorrido o prazo de doze meses a contar da data em que o interessado tiver fixado a sua residência normal na Comunidade.\n\n2. A importação dos bens pessoais pode efectuar-se por diversas vezes dentro do prazo fixado no n.º 1."
+  },
+  "a7c0f66c4f7bc388": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Até ao termo do prazo de doze meses a contar da data da declaração para importação definitiva, os bens pessoais não podem ser objecto de empréstimo, penhor, locação ou cessão a título oneroso ou gratuito sem que as autoridades competentes tenham disso sido previamente informadas.\n\n2. O empréstimo, o penhor, o locação ou a cessão realizados antes de decorrido o prazo fixado no n.º 1 implicam a aplicação do IVA relativo aos bens em causa, de acordo com a taxa em vigor à data do empréstimo, da constituição do penhor, da locação ou da cessão, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "d37d5ce974389d4c": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Em derrogação do n.º 1 do artigo 7.º, a isenção pode ser concedida relativamente aos bens pessoais definitivamente importados antes de o interessado ter fixado a sua residência normal na Comunidade, mediante compromisso assumido pelo interessado no sentido de aí fixar efectivamente a sua residência no prazo de seis meses. Tal compromisso é acompanhado de uma garantia, cuja forma e montante são determinados pelas autoridades competentes.\n\n2. Em caso de aplicação do n.º 1, o prazo previsto na alínea a) do primeiro parágrafo do artigo 4.º é calculado a partir da data de importação na Comunidade."
+  },
+  "8d1eacd6476839a4": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Quando, por força das suas obrigações profissionais, o interessado deixar o país terceiro ou território terceiro onde tinha a sua residência normal sem simultaneamente a fixar no território de um Estado-Membro mas com a intenção de aí a fixar posteriormente, as autoridades competentes podem autorizar a isenção dos bens pessoais importados para o efeito no referido território.\n\n2. A isenção dos bens pessoais referidos no n.º 1 é concedida nos termos previstos nos artigos 3.º a 8.º, entendendo-se que:\n\na) Os prazos fixados na alínea a) do primeiro parágrafo do artigo 4.º e no n.º 1 do artigo 7.º são calculados a contar da data da importação;\n\nb) O prazo referido no n.º 1 do artigo 8.º é calculado a contar da data em que o interessado fixar efectivamente a sua residência normal no território da Comunidade.\n\n3. A isenção fica ainda sujeita ao compromisso assumido pelo interessado de fixar efectivamente a sua residência normal no território da Comunidade, no prazo estabelecido pelas autoridades competentes em função das circunstâncias. Tal compromisso pode ser acompanhado de uma garantia, cuja forma e montante são determinados pelas autoridades competentes."
+  },
+  "9d87d8d9cd65ade8": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs autoridades competentes podem derrogar as alíneas a) e b) do primeiro parágrafo do artigo 4.º, as alíneas c) e d) do primeiro parágrafo do artigo 6.º e o artigo 8.º quando, por força de circunstâncias políticas excepcionais, uma pessoa seja levada a transferir a sua residência normal para o território de um Estado-Membro."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "cbaa5fa6ba0d31b0": {
+   "fragment_id": "Bens importados por ocasião do casamento",
+   "type": "divisao",
+   "heading": "Bens importados por ocasião do casamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens importados por ocasião do casamento"
+  },
+  "e0ccca82d625cf51": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Sem prejuízo dos artigos 13.º a 16.º, ficam isentos o enxoval e objectos mobiliários, ainda que novos, pertencentes a uma pessoa que transfira a sua residência normal para o território da Comunidade por ocasião do seu casamento.\n\nFicam igualmente isentos os presentes habitualmente oferecidos por ocasião de um casamento, recebidos por uma pessoa que estiver nas condições previstas no primeiro parágrafo, da parte de pessoas que tiverem a sua residência habitual fora da Comunidade. A isenção aplica-se aos presentes cujo valor unitário não exceder 200 EUR Os Estados-Membros podem, no entanto, conceder uma isenção que exceda 200 EUR desde que o valor de cada presente admitido com isenção não exceda 1 000 EUR.\n\n2. Os Estados-Membros podem subordinar a concessão da isenção dos bens referidos no primeiro parágrafo do n.º 1, à condição de os interessados terem suportado, no país ou território de origem, ou no país ou território de proveniência, os encargos aduaneiros ou fiscais a que estiverem normalmente sujeitos."
+  },
+  "f32e4730ce3511e4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSó podem beneficiar da isenção as pessoas que:\n\na) Tiverem tido a sua residência normal fora da Comunidade desde há, pelo menos, doze meses consecutivos;\n\nb) Apresentem prova do seu casamento.\n\nTodavia, podem ser admitidas excepções ao disposto na alínea a) do primeiro parágrafo, desde que o interessado tivesse claramente a intenção de permanecer fora da Comunidade durante um período mínimo de doze meses."
+  },
+  "5e6715679874bedb": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nFicam excluídos da isenção os produtos alcoólicos, os tabacos e os produtos do tabaco."
+  },
+  "b21aaf30bf91b173": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Salvo circunstâncias excepcionais, a isenção só é concedida em relação aos bens importados com carácter definitivo:\n\na) No mínimo, dois meses antes da data prevista para o casamento; e\n\nb) No máximo, quatro meses após a data do casamento.\n\nNo caso referido na alínea a), a isenção pode ficar dependente da prestação de uma garantia adequada, cuja forma e montante são determinados pelas autoridades competentes.\n\n2. A importação dos bens objecto de isenção pode efectuar-se por diversas vezes, dentro do prazo fixado no n.º 1 do presente artigo."
+  },
+  "106823d600ea713e": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Até ao termo do prazo de doze meses a contar da data da declaração para importação definitiva, os bens pessoais importados com isenção não podem ser objecto de empréstimo, penhor, locação ou cessão a título oneroso ou gratuito sem que as autoridades competentes tenham disso sido previamente informadas.\n\n2. O empréstimo, o penhor, a locação ou a cessão realizados antes de decorrido o prazo fixado no n.º 1 implicam a aplicação do IVA relativo aos bens em causa, de acordo com a taxa em vigor à data do empréstimo, da constituição do penhor, da locação ou da cessão, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "9d811ce883ecddfa": {
+   "fragment_id": "Bens pessoais adquiridos por sucessão",
+   "type": "divisao",
+   "heading": "Bens pessoais adquiridos por sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens pessoais adquiridos por sucessão"
+  },
+  "b2be4193f1ca59cb": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nSem prejuízo dos artigos 18.º, 19.º e 20.º, ficam isentos os bens pessoais adquiridos quer por sucessão legal, quer por sucessão testamentária, por uma pessoa singular que tenha a sua residência normal na Comunidade."
+  },
+  "432e481ff31d4023": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nFicam excluídos da isenção:\n\na) Os produtos alcoólicos;\n\nb) Os tabacos e os produtos do tabaco;\n\nc) Os meios de transporte de carácter utilitário;\n\nd) Os materiais para uso profissional que não sejam os instrumentos portáteis utilizados nas artes mecânicas ou nas profissões liberais necessários ao exercício da profissão do defunto;\n\ne) As existências de matérias-primas e de produtos acabados ou semiacabados;\n\nf) O gado vivo e as existências de produtos agrícolas que excederem as quantidades correspondentes a um aprovisionamento familiar normal."
+  },
+  "fb1b2e0021d3f840": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. A isenção só é concedida em relação aos bens pessoais importados com carácter definitivo, o mais tardar no termo do prazo de dois anos a contar da data em que o interessado tiver adquirido a posse dos bens (encerramento da sucessão).\n\nTodavia, o prazo referido pode ser prorrogado pelas autoridades competentes com fundamento em circunstâncias particulares.\n\n2. A importação dos bens pode ser efectuada por diversas vezes dentro do prazo referido no n.º 1."
+  },
+  "e237b08ac06851ab": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs artigos 17.º, 18.º e 19.º são aplicáveis, *mutatis mutandis*, aos bens pessoais adquiridos por sucessão testamentária por pessoas colectivas que exerçam uma actividade sem fim lucrativo, estabelecidas no território da Comunidade."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "187b721b324b9172": {
+   "fragment_id": "IMPORTAÇÕES DE ENXOVAL, MATERIAL ESCOLAR E OUTROS OBJECTOS MÓVEIS DE ALUNOS OU DE ESTUDANTES",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES DE ENXOVAL, MATERIAL ESCOLAR E OUTROS OBJECTOS MÓVEIS DE ALUNOS OU DE ESTUDANTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES DE ENXOVAL, MATERIAL ESCOLAR E OUTROS OBJECTOS MÓVEIS DE ALUNOS OU DE ESTUDANTES"
+  },
+  "ab463e3828b0d201": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Ficam isentos o enxoval, o material escolar e os objectos móveis usados, que constituam o mobiliário normal de um quarto de estudante, pertencentes a alunos ou a estudantes que permaneçam na Comunidade a fim de aí efectuarem os seus estudos e destinados a seu uso pessoal durante o período em que decorram os referidos estudos.\n\n2. Para efeitos do disposto no presente artigo, entende-se por:\n\na) «Aluno ou estudante», toda e qualquer pessoa regularmente inscrita num estabelecimento de ensino a fim de acompanhar a tempo inteiro os cursos aí ministrados;\n\nb) «Enxoval», a roupa de uso pessoal ou de casa e bem assim o vestuário, ainda que novos;\n\nc) «Material escolar», os objectos e instrumentos (incluindo máquinas de calcular e de escrever) normalmente usados pelos alunos e estudantes nos seus estudos."
+  },
+  "deff4e5bd9d75e2b": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA isenção é concedida pelo menos uma vez em cada ano escolar."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "2fe8bc1b9230244a": {
+   "fragment_id": "IMPORTAÇÕES DE VALOR INSIGNIFICANTE",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES DE VALOR INSIGNIFICANTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES DE VALOR INSIGNIFICANTE"
+  },
+  "d4fb564c91b9ae7d": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nFicam isentas as importações de bens cujo valor global não exceder 10 EUR. Os Estados-Membros podem conceder a isenção às importações de bens cujo valor global for superior a 10 EUR e não exceder 22 EUR.\n\nTodavia, os Estados-Membros podem excluir do benefício da isenção previsto no primeiro período do primeiro parágrafo os bens importados no âmbito de uma venda por correspondência."
+  },
+  "f72bf642c79407e5": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nFicam excluídos da isenção:\n\na) Os produtos alcoólicos;\n\nb) Os perfumes e as águas-de-colónia;\n\nc) Os tabacos e os produtos do tabaco."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "129262eadf5d5a3f": {
+   "fragment_id": "BENS DE INVESTIMENTO E OUTROS BENS DE EQUIPAMENTO IMPORTADOS POR OCASIÃO DA TRANSFERÊNCIA DE ACTIVIDADES",
+   "type": "divisao",
+   "heading": "BENS DE INVESTIMENTO E OUTROS BENS DE EQUIPAMENTO IMPORTADOS POR OCASIÃO DA TRANSFERÊNCIA DE ACTIVIDADES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BENS DE INVESTIMENTO E OUTROS BENS DE EQUIPAMENTO IMPORTADOS POR OCASIÃO DA TRANSFERÊNCIA DE ACTIVIDADES"
+  },
+  "532f2055187a71b5": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Sem prejuízo das medidas em vigor nos Estados-Membros em matéria de política industrial e comercial, os Estados-Membros podem, sem prejuízo dos artigos 26.º a 29.º, isentar as importações de bens de investimento e de outros bens de equipamento pertencentes a empresas que cessem definitivamente a sua actividade no país terceiro ou território terceiro de proveniência a fim de exercerem uma actividade similar na Comunidade e que tenham declarado, previamente, o início de tal actividade às autoridades competentes do Estado-Membro, nos termos do n.º 1 do artigo 213.º da Directiva 2006/112/CE.\n\nQuando a empresa transferida constitua uma exploração agrícola, o gado beneficia igualmente da isenção.\n\n2. Para efeitos do disposto no n.º 1, entende-se por:\n\na) «Actividade», uma actividade económica referida no n.º 1 do artigo 9.º da Directiva 2006/112/CE;\n\nb) «Empresa», uma unidade económica autónoma de produção ou de prestação de serviços."
+  },
+  "0e88cadee6b56747": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. A isenção limita-se aos bens de investimento e outros bens de equipamento que:\n\na) Salvo casos particulares justificados pelas circunstâncias, tiverem sido efectivamente utilizados na empresa durante, pelo menos, doze meses antes da data da cessação da actividade da empresa no país terceiro ou no território terceiro de que tiver sido transferida;\n\nb) Se destinem a utilização idêntica após a transferência;\n\nc) Se destinem ao exercício de uma actividade não isenta por força dos artigos 132.º, 133.º, 135.º e 136.º da Directiva 2006/112/CE;\n\nd) Correspondam à natureza e à importância da empresa em causa.\n\n2. Até à entrada em vigor das disposições comuns referidas no primeiro parágrafo do artigo 176.º da Directiva 2006/112/CE, os Estados-Membros podem excluir, total ou parcialmente, da isenção os bens de investimento relativamente aos quais tiverem feito uso do segundo parágrafo do artigo 176.º da referida directiva."
+  },
+  "5df1da9da9aa6fc5": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nFicam excluídas da isenção as empresas estabelecidas fora da Comunidade, cuja transferência para o território da Comunidade tiver como causa ou como objecto a fusão com uma empresa estabelecida na Comunidade — ou a absorção por uma tal empresa —, sem que seja criada uma nova actividade."
+  },
+  "38bfee688a8d4215": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nFicam excluídos da isenção:\n\na) Os meios de transporte que não revistam a natureza de instrumentos de produção ou de prestação de serviços;\n\nb) As provisões de qualquer natureza destinadas ao consumo humano ou à alimentação de animais;\n\nc) Os combustíveis e as existências de matérias-primas ou de produtos acabados ou semiacabados;\n\nd) O gado na posse de comerciantes de gado."
+  },
+  "9ee3ee10c0212399": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nSalvo casos particulares justificados pelas circunstâncias, a isenção só é concedida em relação aos bens de investimento e outros bens de equipamento importados antes do termo do prazo de doze meses a contar da data da cessação da actividade da empresa no país terceiro ou território terceiro de proveniência."
+  },
+  "fd1f6efdb97a73cb": {
+   "fragment_id": "TÍTULO VI",
+   "type": "divisao",
+   "heading": "TÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI"
+  },
+  "00c37f26ea0bc094": {
+   "fragment_id": "IMPORTAÇÕES DE DETERMINADOS PRODUTOS AGRÍCOLAS OU DESTINADOS À AGRICULTURA",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES DE DETERMINADOS PRODUTOS AGRÍCOLAS OU DESTINADOS À AGRICULTURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES DE DETERMINADOS PRODUTOS AGRÍCOLAS OU DESTINADOS À AGRICULTURA"
+  },
+  "269c586b636af276": {
+   "fragment_id": "Produtos obtidos por agricultores comunitários em propriedades situadas num país terceiro ou num território terceiro",
+   "type": "divisao",
+   "heading": "Produtos obtidos por agricultores comunitários em propriedades situadas num país terceiro ou num território terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Produtos obtidos por agricultores comunitários em propriedades situadas num país terceiro ou num território terceiro"
+  },
+  "e6ac577ffe278ddd": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. Sem prejuízo dos artigos 31.º e 32.º, ficam isentos os produtos da agricultura, da pecuária, da apicultura, da horticultura ou da silvicultura provenientes de propriedades situadas num país terceiro ou num território terceiro na proximidade imediata do território da Comunidade e exploradas por produtores agrícolas cuja sede de exploração se situe na Comunidade na proximidade imediata do país ou do território considerado.\n\nTambém ficam isentos os cavalos de raça pura de idade não superior a seis meses, nascidos num país terceiro ou num território terceiro de um animal coberto na Comunidade e em seguida exportado temporariamente para parir.\n\n2. Para que possam beneficiar da isenção a que se refere o primeiro parágrafo do n.º 1, os produtos da pecuária devem proceder de animais que tenham sido criados, adquiridos ou importados de acordo com as normas gerais de tributação do Estado-Membro de importação."
+  },
+  "13780d35e7951882": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nA isenção é limitada aos produtos que não tiverem sido submetidos a outro tratamento além daquele a que se procede habitualmente após a colheita ou a produção."
+  },
+  "0f9e33408a42905c": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA isenção só é concedida em relação aos produtos importados pelo produtor agrícola ou por sua conta."
+  },
+  "474db9b9cbab00c3": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nO presente capítulo é aplicável, *mutatis mutandis*, aos produtos da pesca ou da piscicultura efectuadas nos lagos e cursos de água limítrofes do território da Comunidade por pescadores estabelecidos na Comunidade e aos produtos da caça efectuada por caçadores estabelecidos na Comunidade, em tais lagos e cursos de água."
+  },
+  "aa1c9d990468dee4": {
+   "fragment_id": "Sementes, adubos e produtos destinados ao tratamento do solo e das culturas",
+   "type": "divisao",
+   "heading": "Sementes, adubos e produtos destinados ao tratamento do solo e das culturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sementes, adubos e produtos destinados ao tratamento do solo e das culturas"
+  },
+  "668ae64aed407443": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nSem prejuízo do artigo 35.º, ficam isentos as sementes, os adubos e os produtos para tratamento do solo e das culturas, destinados à utilização em propriedades situadas na Comunidade, na proximidade imediata de um país terceiro ou de um território terceiro e exploradas por produtores agrícolas cuja sede de exploração se encontre no referido país ou território, na proximidade imediata da Comunidade."
+  },
+  "c3d12e085f76a7c5": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. A isenção é limitada às quantidades de sementes, de adubos e de outros produtos necessários à exploração das propriedades.\n\nA isenção só é concedida em relação às sementes, adubos ou outros produtos directamente introduzidos na Comunidade pelo produtor agrícola ou por sua conta.\n\n2. O Estado-Membro de importação pode subordinar a isenção à condição de reciprocidade."
+  },
+  "b10288b67f8e014f": {
+   "fragment_id": "TÍTULO VII",
+   "type": "divisao",
+   "heading": "TÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII"
+  },
+  "637b9db7dda31fb2": {
+   "fragment_id": "IMPORTAÇÕES DE SUBSTÂNCIAS TERAPÊUTICAS, MEDICAMENTOS, ANIMAIS DE LABORATÓRIO E DE SUBSTÂNCIAS BIOLÓGICAS OU QUÍMICAS",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES DE SUBSTÂNCIAS TERAPÊUTICAS, MEDICAMENTOS, ANIMAIS DE LABORATÓRIO E DE SUBSTÂNCIAS BIOLÓGICAS OU QUÍMICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES DE SUBSTÂNCIAS TERAPÊUTICAS, MEDICAMENTOS, ANIMAIS DE LABORATÓRIO E DE SUBSTÂNCIAS BIOLÓGICAS OU QUÍMICAS"
+  },
+  "6266ce09041d7bba": {
+   "fragment_id": "Animais de laboratório e substâncias biológicas ou químicas destinadas à investigação",
+   "type": "divisao",
+   "heading": "Animais de laboratório e substâncias biológicas ou químicas destinadas à investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Animais de laboratório e substâncias biológicas ou químicas destinadas à investigação"
+  },
+  "0b94d67b6f536c87": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. Ficam isentos:\n\na) Os animais especialmente preparados e remetidos a título gratuito para serem utilizados em laboratório;\n\nb) As substâncias biológicas ou químicas importadas de acordo com os limites e as condições fixados no artigo 60.º do Regulamento (CEE) n.º 918/83 do Conselho, de 28 de Março de 1983, relativo ao estabelecimento do regime comunitário das franquias aduaneiras [([^6])](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntr6-L_2009292PT.01000501-E0006).\n\n2. A isenção referida no n.º 1 é limitada aos animais e às substâncias biológicas ou químicas que se destinem:\n\na) Quer aos estabelecimentos públicos ou de utilidade pública que tiverem como actividade principal o ensino ou a investigação científica bem como aos serviços dependentes de um estabelecimento público ou de utilidade pública que tiverem como actividade principal o ensino ou a investigação científica;\n\nb) Quer aos estabelecimentos de carácter privado que tiverem como actividade principal o ensino ou a investigação científica, e que tiverem sido autorizados pelas autoridades competentes dos Estados-Membros a receber os referidos objectos com isenção."
+  },
+  "9cf4129db5a49e07": {
+   "fragment_id": "Substâncias terapêuticas de origem humana e reagentes para a determinação dos grupos sanguíneos e tissulares",
+   "type": "divisao",
+   "heading": "Substâncias terapêuticas de origem humana e reagentes para a determinação dos grupos sanguíneos e tissulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Substâncias terapêuticas de origem humana e reagentes para a determinação dos grupos sanguíneos e tissulares"
+  },
+  "14c8b325ef0ce434": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. Sem prejuízo da isenção prevista na alínea a) do artigo 143.º da Directiva 2006/112/CE, e sem prejuízo do artigo 38.º da presente directiva, ficam isentas:\n\na) As substâncias terapêuticas de origem humana;\n\nb) Os reagentes para a determinação dos grupos sanguíneos;\n\nc) Os reagentes para a determinação dos grupos tissulares.\n\n2. Para efeitos do disposto no n.º 1, entende-se por:\n\na) **«Substâncias terapêuticas de origem humana»**: o sangue humano e seus derivados (sangue humano total, plasma humano liofilizado, albumina humana e soluções estáveis de proteínas plasmáticas humanas, imunoglobulina humana, fibrinogénio humano);\n\nb) **«Reagentes para a determinação dos grupos sanguíneos»**: todo e qualquer reagente de origem humana, animal, vegetal ou outra, para a determinação dos grupos sanguíneos e para a detecção das incompatibilidades sanguíneas;\n\nc) **«Reagentes para a determinação dos grupos tissulares»**: todo e qualquer reagente de origem humana, animal, vegetal ou outra, para a determinação dos grupos tissulares humanos."
+  },
+  "75b27f16127c3e8e": {
+   "fragment_id": "Artigo 38.º",
+   "type": "artigo",
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nA isenção é limitada aos produtos que:\n\na) Se destinem a instituições ou a laboratórios autorizados pelas autoridades competentes, para utilização exclusiva para fins médicos ou científicos, com excepção de toda e qualquer operação comercial;\n\nb) Sejam acompanhados de um certificado de conformidade emitido pela autoridade competente para o efeito no país ou território de proveniência;\n\nc) Estejam em recipientes munidos de uma etiqueta especial de identificação."
+  },
+  "35695f07e5b7533f": {
+   "fragment_id": "Artigo 39.º",
+   "type": "artigo",
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nA isenção abrange as embalagens especiais indispensáveis ao transporte de substâncias terapêuticas de origem humana ou de reagentes para a determinação dos grupos sanguíneos ou tissulares, bem como os solventes e acessórios necessários à sua utilização eventualmente incluídos nas respectivas remessas."
+  },
+  "79035ad14eff93b6": {
+   "fragment_id": "Substâncias de referência para controlo da qualidade dos medicamentos",
+   "type": "divisao",
+   "heading": "Substâncias de referência para controlo da qualidade dos medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Substâncias de referência para controlo da qualidade dos medicamentos"
+  },
+  "28802dd4c89d0208": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nSão isentas na importação as remessas que contiverem amostras de substâncias químicas de referência autorizadas pela Organização Mundial de Saúde destinadas ao controlo de qualidade das matérias utilizadas no fabrico de medicamentos e que forem enviadas a destinatários pelas autoridades competentes dos Estados-Membros habilitadas a receber tais remessas com isenção de direitos de importação."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "f2693c951843cc3a": {
+   "fragment_id": "Produtos farmacêuticos utilizados por ocasião de manifestações desportivas internacionais",
+   "type": "divisao",
+   "heading": "Produtos farmacêuticos utilizados por ocasião de manifestações desportivas internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Produtos farmacêuticos utilizados por ocasião de manifestações desportivas internacionais"
+  },
+  "42d8e1acfbfd992e": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nFicam isentos os produtos farmacêuticos para fins de medicina humana ou veterinária, destinados a pessoas ou animais participantes em manifestações desportivas internacionais, dentro dos limites necessários para satisfazer as suas necessidades durante a permanência na Comunidade."
+  },
+  "e1c7c926ca3c4072": {
+   "fragment_id": "TÍTULO VIII",
+   "type": "divisao",
+   "heading": "TÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VIII"
+  },
+  "ee3f90a159fc1f7c": {
+   "fragment_id": "BENS REMETIDOS A ORGANIZAÇÕES DE NATUREZA CARITATIVA OU FILANTRÓPICA",
+   "type": "divisao",
+   "heading": "BENS REMETIDOS A ORGANIZAÇÕES DE NATUREZA CARITATIVA OU FILANTRÓPICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BENS REMETIDOS A ORGANIZAÇÕES DE NATUREZA CARITATIVA OU FILANTRÓPICA"
+  },
+  "bd63550a14610a04": {
+   "fragment_id": "Disposição geral",
+   "type": "divisao",
+   "heading": "Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposição geral"
+  },
+  "c40ac8c5f44c89c4": {
+   "fragment_id": "Artigo 42.º",
+   "type": "artigo",
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nOs Estados-Membros podem limitar as quantidades ou o valor dos bens objecto de isenção nos termos dos capítulos 2, 3 e 4 a fim de prevenir eventuais abusos e de fazer face a distorções de concorrência relevantes."
+  },
+  "3264b17f9c2ee8b5": {
+   "fragment_id": "Bens importados para a realização de objectivos de carácter geral",
+   "type": "divisao",
+   "heading": "Bens importados para a realização de objectivos de carácter geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens importados para a realização de objectivos de carácter geral"
+  },
+  "ac78ac3c7fe6b5df": {
+   "fragment_id": "Artigo 43.º",
+   "type": "artigo",
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1. Sem prejuízo dos artigos 44.º, 45.º e 46.º, ficam isentos:\n\na) Os bens de primeira necessidade, adquiridos a título gratuito e importados por organismos do Estado ou por organizações de natureza caritativa ou filantrópica, aprovadas pelas autoridades competentes, para serem distribuídos gratuitamente a pessoas deles necessitadas;\n\nb) Os bens, qualquer que seja a sua natureza, enviados a título gratuito por uma pessoa ou entidade estabelecida fora da Comunidade, e sem qualquer fim de ordem comercial por parte do fornecedor, a organismos do Estado ou a organizações de natureza caritativa ou filantrópica aprovadas pelas autoridades competentes, para a recolha de fundos durante manifestações ocasionais de beneficência a favor de pessoas necessitadas;\n\nc) Os materiais de equipamento e de escritório remetidos a título gratuito por pessoa ou entidade estabelecida fora da Comunidade, e sem qualquer fim de ordem comercial por parte do fornecedor, a organizações de natureza caritativa ou filantrópica aprovadas pelas autoridades competentes, para serem afectados exclusivamente às respectivas necessidades de funcionamento e à realização dos objectivos caritativos ou filantrópicos por elas prosseguidos.\n\n2. Para efeitos da alínea a) do n.º 1, entende-se por «bens de primeira necessidade» os bens indispensáveis à satisfação das necessidades imediatas das pessoas, tais como géneros alimentícios, medicamentos, vestuário e cobertores."
+  },
+  "38380b070aa13009": {
+   "fragment_id": "Artigo 44.º",
+   "type": "artigo",
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nFicam excluídos da isenção:\n\na) Os produtos alcoólicos;\n\nb) Os tabacos e os produtos do tabaco;\n\nc) O café e o chá;\n\nd) Os veículos a motor com excepção das ambulâncias."
+  },
+  "c376d4d49dc7e1dc": {
+   "fragment_id": "Artigo 45.º",
+   "type": "artigo",
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nA isenção só é concedida às organizações cuja escrita permita a fiscalização das operações pelas autoridades competentes e que ofereçam todas as garantias consideradas necessárias."
+  },
+  "24119ac37d034bc8": {
+   "fragment_id": "Artigo 46.º",
+   "type": "artigo",
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. Os bens referidos no artigo 43.º não podem ser objecto, por parte da organização beneficiária da isenção, de empréstimo, locação ou cessão a título oneroso ou gratuito para fins que não sejam os previstos nas alíneas a) e b) do n.º 1 do referido artigo sem que as autoridades competentes tenham disso sido previamente informadas.\n\n2. No caso de empréstimo, locação ou cessão a uma entidade que tenha direito a beneficiar da isenção por força dos artigos 43.º e 45.º, a isenção continua a ser concedida, desde que tal entidade utilize os bens em questão para fins que conferem direito a essa isenção.\n\nNos restantes casos, a realização do empréstimo, da locação ou da cessão fica sujeita ao pagamento prévio do IVA na importação, de acordo com a taxa em vigor à data do empréstimo, da locação ou da cessão, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "44e2b63c77e75e32": {
+   "fragment_id": "Artigo 47.º",
+   "type": "artigo",
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1. As entidades referidas no artigo 43.º, que deixem de preencher as condições exigidas para beneficiarem da isenção ou que pretendam utilizar os bens importados com isenção para fins que não sejam os previstos no referido artigo, devem comunicar o facto às autoridades competentes.\n\n2. Os bens que permaneçam na posse das entidades que deixem de preencher as condições exigidas para beneficiarem da isenção ficam sujeitos à aplicação do IVA na importação que lhes corresponda, de acordo com a taxa em vigor à data em que as referidas condições deixem de estar preenchidas, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes.\n\n3. Os bens utilizados pela entidade beneficiária da isenção para fins que não sejam os previstos no artigo 43.º ficam sujeitos à aplicação do IVA na importação que lhes corresponda, de acordo com a taxa em vigor à data em que tais bens sejam afectados a outro uso, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "6517aec0b3d2f9ca": {
+   "fragment_id": "Bens importados em benefício de pessoas deficientes",
+   "type": "divisao",
+   "heading": "Bens importados em benefício de pessoas deficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens importados em benefício de pessoas deficientes"
+  },
+  "ca815b3b1bd95a44": {
+   "fragment_id": "Artigo 48.º",
+   "type": "artigo",
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1. Ficam isentos os bens especificamente concebidos para fins de educação, emprego ou promoção social de invisuais e de outras pessoas física ou mentalmente deficientes, quando:\n\na) Importados por instituições ou organizações que tenham como actividade principal a educação ou a assistência a pessoas deficientes, e que tenham sido aprovadas pelas autoridades competentes dos Estados-Membros para receber os referidos objectos com isenção; e\n\nb) Remetidos a título gratuito e sem qualquer fim de ordem comercial por parte do doador a uma instituição ou organização deste tipo.\n\n2. A isenção é aplicável às peças sobressalentes, elementos ou acessórios específicos que se adaptem aos objectos considerados e bem assim às ferramentas a utilizar para fins de manutenção, verificação, calibragem ou reparação dos referidos objectos, na medida em que essas peças sobressalentes, elementos, acessórios ou ferramentas sejam importados simultaneamente com os objectos mencionados ou, quando importados posteriormente, forem reconhecidos como destinados a objectos importados anteriormente com isenção ou que pudessem beneficiar da isenção no momento do respectivo pedido em relação às referidas peças sobressalentes, elementos, acessórios específicos ou ferramentas.\n\n3. Os bens importados com isenção só podem ser utilizados para fins de educação, emprego ou promoção social de invisuais e de outras pessoas deficientes."
+  },
+  "092b1d518bedd16f": {
+   "fragment_id": "Artigo 49.º",
+   "type": "artigo",
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1. Os bens importados com isenção podem ser emprestados, dados em locação ou cedidos, sem fins lucrativos, pelas instituições ou organizações beneficiárias às pessoas referidas no artigo 48.º, de que as mesmas se ocupem, sem que tal implique o pagamento do IVA na importação.\n\n2. Não pode ser celebrado empréstimo, locação ou cessão em condições diferentes das previstas no n.º 1 sem que as autoridades competentes tenham sido previamente informadas.\n\nSempre que seja celebrado empréstimo, locação ou cessão nos termos referidos, em benefício de uma instituição ou organização que possa beneficiar dessa isenção, a isenção continua a ser concedida, desde que tais entidades utilizem o bem em causa para fins que confiram direito a essa isenção.\n\nNos restantes casos, a celebração do empréstimo, da locação ou da cessão fica sujeita ao pagamento prévio do IVA, de acordo com a taxa em vigor à data do empréstimo, da locação ou da cessão, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "606c752601e852bc": {
+   "fragment_id": "Artigo 50.º",
+   "type": "artigo",
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1. As instituições ou organizações referidas no artigo 48.º que deixem de preencher as condições exigidas para beneficiarem da isenção ou que pretendam utilizar um bem importado com isenção para fins que não sejam os previstos no referido artigo, devem comunicar o facto às autoridades competentes.\n\n2. Os objectos que permaneçam na posse das instituições ou das organizações que deixem de preencher as condições exigidas para beneficiarem da isenção ficam sujeitos à aplicação do IVA na importação que lhes corresponda, de acordo com a taxa em vigor à data em que as referidas condições deixem de estar preenchidas, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes.\n\n3. Os objectos utilizados pela instituição ou organização beneficiária da isenção para fins que não sejam os previstos no artigo 48.º ficam sujeitos à aplicação do IVA na importação que lhes corresponda, de acordo com a taxa em vigor à data em que tais bens sejam afectados a outro uso, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "54cb3e735c26760f": {
+   "fragment_id": "Bens importados em benefício de vítimas de catástrofes",
+   "type": "divisao",
+   "heading": "Bens importados em benefício de vítimas de catástrofes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens importados em benefício de vítimas de catástrofes"
+  },
+  "7bbabfe38ac7410a": {
+   "fragment_id": "Artigo 51.º",
+   "type": "artigo",
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nSem prejuízo dos artigos 52.º a 57.º, ficam isentos os bens importados por organismos estatais ou por organizações de natureza caritativa ou filantrópica aprovadas pelas autoridades competentes, para serem:\n\na) Distribuídos gratuitamente a vítimas de catástrofes que afectem o território de um ou mais Estados-Membros;\n\nb) Gratuitamente postos à disposição de vítimas de tais catástrofes, continuando a constituir propriedade das entidades consideradas.\n\nOs bens importados pelas unidades de socorro a fim de satisfazerem as suas necessidades enquanto durar a respectiva intervenção beneficiam igualmente da isenção."
+  },
+  "842442c2581be81a": {
+   "fragment_id": "Artigo 52.º",
+   "type": "artigo",
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nFicam excluídos da isenção os materiais destinados à reconstrução das zonas sinistradas."
+  },
+  "a087211e9a7e2c23": {
+   "fragment_id": "Artigo 53.º",
+   "type": "artigo",
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nA concessão da isenção fica sujeita a decisão da Comissão, a qual delibera, a pedido do ou dos Estados-Membros interessados, segundo um procedimento de urgência que inclui a consulta dos restantes Estados-Membros. Se necessário, tal decisão determina o âmbito e as condições de aplicação da isenção.\n\nEnquanto aguardam a notificação da decisão da Comissão, os Estados-Membros atingidos por uma catástrofe podem autorizar a importação dos bens destinados aos fins previstos no artigo 51.º, suspendendo o respectivo IVA, mediante o compromisso assumido pela entidade importadora no sentido de proceder ao respectivo pagamento no caso de a isenção não ser concedida."
+  },
+  "bcae577274cd4ae6": {
+   "fragment_id": "Artigo 54.º",
+   "type": "artigo",
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nA isenção só é concedida às entidades cuja escrita permita às autoridades competentes a fiscalização das suas operações e que ofereçam todas as garantias consideradas necessárias."
+  },
+  "dfd623339771b390": {
+   "fragment_id": "Artigo 55.º",
+   "type": "artigo",
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n1. Os bens referidos no primeiro parágrafo do artigo 51.º não podem ser objecto, no que diz respeito às entidades beneficiárias da isenção, de empréstimo, locação ou cessão a título oneroso ou gratuito, em condições diferentes das previstas no referido artigo sem que as autoridades competentes tenham disso sido previamente informadas.\n\n2. No caso de empréstimo, locação ou cessão a uma entidade que possa beneficiar da isenção por força do artigo 51.º, a isenção continua a ser concedida, desde que tal entidade utilize as mercadorias em questão para fins que confiram direito a essa isenção.\n\nNos restantes casos, a celebração do empréstimo, da locação ou da cessão fica sujeita ao pagamento prévio do IVA, de acordo com a taxa em vigor à data do empréstimo, da locação ou da cessão, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "45205545e6720c36": {
+   "fragment_id": "Artigo 56.º",
+   "type": "artigo",
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1. Os bens referidos na alínea b) do primeiro parágrafo do artigo 51.º, depois de ter cessado a sua utilização pelas vítimas de catástrofes, não podem ser objecto de empréstimo, locação ou cessão a título oneroso ou gratuito sem que as autoridades competentes tenham disso sido previamente informadas.\n\n2. No caso de empréstimo, locação ou cessão a uma entidade que possa beneficiar da isenção por força do disposto no artigo 51.º ou, eventualmente, a uma entidade que possa beneficiar da isenção por força da alínea a) do n.º 1 do artigo 43.º, a isenção continua a ser concedida, desde que tais entidades utilizem os bens em causa para fins que confiram direito a essa isenção.\n\nNos restantes casos, a realização do empréstimo, da locação ou da cessão fica sujeita ao pagamento prévio do IVA, de acordo com a taxa em vigor à data do empréstimo, da locação ou da cessão, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "f849230b8ca10a0a": {
+   "fragment_id": "Artigo 57.º",
+   "type": "artigo",
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n1. As entidades referidas no artigo 51.º que deixem de preencher as condições exigidas para beneficiarem da isenção ou que pretendam utilizar os bens importados com isenção para fins que não sejam os previstos no referido artigo devem comunicar o facto às autoridades competentes.\n\n2. Relativamente aos bens que continuem na posse das entidades que deixem de preencher as condições exigidas para beneficiarem da isenção, desde que cedidos a uma entidade que possa beneficiar da isenção por força do disposto no presente capítulo ou, eventualmente, a uma entidade que possa beneficiar da isenção por força do disposto no artigo 43.º, a isenção continua a ser concedida, se tal entidade utilizar os bens em causa para fins que confiram o direito a essas isenções. Nos restantes casos, os referidos bens ficam sujeitos à aplicação do IVA na importação que lhes corresponda, de acordo com a taxa em vigor à data em que as referidas condições deixem de estar preenchidas, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes.\n\n3. Os bens utilizados pela entidade beneficiária da isenção para fins que não sejam os previstos no presente capítulo ficam sujeitos à aplicação do IVA na importação que lhes corresponda, de acordo com a taxa em vigor à data em que sejam afectados a outro uso, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "54f57143a0397c91": {
+   "fragment_id": "TÍTULO IX",
+   "type": "divisao",
+   "heading": "TÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IX"
+  },
+  "4d113a2596611ba6": {
+   "fragment_id": "IMPORTAÇÕES NO ÂMBITO DE DETERMINADAS RELAÇÕES INTERNACIONAIS",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES NO ÂMBITO DE DETERMINADAS RELAÇÕES INTERNACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES NO ÂMBITO DE DETERMINADAS RELAÇÕES INTERNACIONAIS"
+  },
+  "b57a416970a290fb": {
+   "fragment_id": "Condecorações e recompensas concedidas a título honorífico",
+   "type": "divisao",
+   "heading": "Condecorações e recompensas concedidas a título honorífico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condecorações e recompensas concedidas a título honorífico"
+  },
+  "143a08ee35822564": {
+   "fragment_id": "Artigo 58.º",
+   "type": "artigo",
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nFicam isentas, mediante justificação prestada pelos interessados às autoridades competentes, e desde que se trate de operações sem carácter comercial:\n\na) As condecorações concedidas pelo Governo de um país terceiro a pessoas que tenham a sua residência normal na Comunidade;\n\nb) As taças, medalhas e objectos similares de carácter essencialmente simbólico, que, atribuídos num país terceiro ou num território terceiro a pessoas que tenham a sua residência normal na Comunidade, a título de homenagem pela actividade desenvolvida em domínios como o das artes, ciências, desporto, serviços públicos, ou em reconhecimento dos seus méritos por ocasião de determinado acontecimento, sejam importados por essas mesmas pessoas;\n\nc) As taças, medalhas e objectos similares de carácter essencialmente simbólico, oferecidos gratuitamente por autoridades ou pessoas estabelecidas num país terceiro ou num território terceiro, a fim de serem atribuídos, para fins idênticos aos referidos na alínea b), no território da Comunidade;\n\nd) As recompensas, troféus e lembranças de carácter simbólico e de pequeno valor, destinados a ser distribuídos gratuitamente a pessoas que tenham a sua residência habitual num país terceiro ou num território terceiro, por ocasião de congressos de negócios ou de manifestações semelhantes de carácter internacional, e que não apresentem, pela sua natureza, valor unitário ou outras características, qualquer intenção de ordem comercial."
+  },
+  "957f1debe55cb7f0": {
+   "fragment_id": "Presentes recebidos no âmbito das relações internacionais",
+   "type": "divisao",
+   "heading": "Presentes recebidos no âmbito das relações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Presentes recebidos no âmbito das relações internacionais"
+  },
+  "2276516a3708a68c": {
+   "fragment_id": "Artigo 59.º",
+   "type": "artigo",
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nSem prejuízo, se for o caso, das disposições aplicáveis no tráfego internacional de viajantes, e sem prejuízo do disposto nos artigos 60.º e 61.º, ficam isentos os bens:\n\na) Importados por pessoas que tenham efectuado uma visita oficial a um país terceiro ou território terceiro e que, nessa ocasião, tenham recebido tais bens, a título de presente, das autoridades do país de acolhimento;\n\nb) Importados por pessoas que realizem uma visita oficial à Comunidade e que, nessa ocasião, tencionem oferecê-los às autoridades do país de acolhimento;\n\nc) Remetidos a título de presente, como testemunho de amizade ou de cordialidade, por uma autoridade oficial, pessoa colectiva pública ou grupo, que exerça actividades de interesse público, situados num país terceiro ou território terceiro, a uma autoridade oficial, pessoa colectiva pública ou grupo, que exerça actividades de interesse público, situado no Estado-Membro de importação e autorizado a receber esses bens com isenção."
+  },
+  "a9912fb77e42c0af": {
+   "fragment_id": "Artigo 60.º",
+   "type": "artigo",
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nFicam excluídos da isenção os produtos alcoólicos, os tabacos e os produtos do tabaco."
+  },
+  "7233cb3200eb9896": {
+   "fragment_id": "Artigo 61.º",
+   "type": "artigo",
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nA isenção só é concedida se os objectos:\n\na) Forem oferecidos a título ocasional;\n\nb) Não reflectirem, pela sua natureza, valor ou quantidade, qualquer preocupação de ordem comercial;\n\nc) Não forem utilizados para fins comerciais."
+  },
+  "cbb5b267ec15dfaa": {
+   "fragment_id": "Bens destinados a uso pessoal de soberanos e de chefes de Estado",
+   "type": "divisao",
+   "heading": "Bens destinados a uso pessoal de soberanos e de chefes de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens destinados a uso pessoal de soberanos e de chefes de Estado"
+  },
+  "8723bc88139246b9": {
+   "fragment_id": "Artigo 62.º",
+   "type": "artigo",
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\n1. Ficam isentos, dentro dos limites e nas condições estabelecidas pelas autoridades competentes:\n\na) Os presentes oferecidos aos soberanos reinantes e chefes de Estado;\n\nb) Os bens destinados a serem utilizados ou consumidos durante a sua permanência oficial na Comunidade, pelos soberanos reinantes e pelos chefes de Estado de países terceiros, e bem assim pelas personalidades que os representem oficialmente.\n\n2. A isenção referida na alínea b) do n.º 1 pode ficar subordinada pelo Estado-Membro de importação à condição de reciprocidade.\n\n3. A isenção referida no n.º 1 é igualmente aplicável às pessoas que usufruam, no plano internacional, de prerrogativas análogas às de um soberano reinante ou chefe de Estado."
+  },
+  "d56623e392b11200": {
+   "fragment_id": "TÍTULO X",
+   "type": "divisao",
+   "heading": "TÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO X"
+  },
+  "a012d9972e9b1de6": {
+   "fragment_id": "IMPORTAÇÕES DE BENS PARA FINS DE PROSPECÇÃO COMERCIAL",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES DE BENS PARA FINS DE PROSPECÇÃO COMERCIAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES DE BENS PARA FINS DE PROSPECÇÃO COMERCIAL"
+  },
+  "8849119d2993d044": {
+   "fragment_id": "Amostras de valor insignificante",
+   "type": "divisao",
+   "heading": "Amostras de valor insignificante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Amostras de valor insignificante"
+  },
+  "38d4aed893c50457": {
+   "fragment_id": "Artigo 63.º",
+   "type": "artigo",
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\n1. Sem prejuízo da alínea a) do n.º 1 do artigo 67.º, ficam isentas as amostras de mercadorias de valor insignificante e que se destinem exclusivamente à prospecção de encomendas relacionadas com as mercadorias do tipo que representem.\n\n2. As autoridades competentes podem exigir que, para serem importados com isenção, certos artigos sejam inutilizados através de laceração, perfuração, aposição de marca indelével e visível ou por qualquer outro processo, desde que tal operação não os prive da sua qualidade de amostra.\n\n3. Para efeitos do n.º 1, entende-se por «amostra de mercadorias» os artigos representantivos de uma categoria de mercadorias, cuja forma de apresentação e quantidade respeitante a uma mesma espécie ou qualidade de mercadorias os torne inutilizáveis para outros fins que não sejam os de prospecção."
+  },
+  "1ce62cf42dd98ae9": {
+   "fragment_id": "Impressos e objectos de carácter publicitário",
+   "type": "divisao",
+   "heading": "Impressos e objectos de carácter publicitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Impressos e objectos de carácter publicitário"
+  },
+  "8976f11a8f40200d": {
+   "fragment_id": "Artigo 64.º",
+   "type": "artigo",
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nSem prejuízo do artigo 65.º, ficam isentos os impressos de carácter publicitário, tais como catálogos, listas de preços, instruções de uso ou prospectos comerciais relativos a:\n\na) Mercadorias apresentadas para venda ou locação por uma pessoa estabelecida fora da Comunidade; ou\n\nb) Prestações de serviços em matéria de transportes, seguro comercial ou banca, fornecidos por uma pessoa estabelecida fora da Comunidade."
+  },
+  "5f0dedf7b48e18ca": {
+   "fragment_id": "Artigo 65.º",
+   "type": "artigo",
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\n1. A isenção é limitada aos impressos de carácter publicitário que satisfaçam os seguintes requisitos:\n\na) Os impressos devem apresentar de forma visível o nome da empresa que produz, vende ou dá em locação as mercadorias, ou que fornece as prestações de serviços a que respeitem;\n\nb) Cada remessa deve incluir apenas um documento, ou um exemplar de cada documento, se for constituída por diversos documentos;\n\nc) Os impressos não podem ser objecto de remessas conjuntas de um mesmo expedidor para um mesmo destinatário.\n\n2. Em derrogação da alínea b) do n.º 1, as remessas que incluam diversos exemplares de um mesmo documento podem beneficiar da isenção se o respectivo peso bruto total não exceder um quilograma."
+  },
+  "76332ca0c40c4cd3": {
+   "fragment_id": "Artigo 66.º",
+   "type": "artigo",
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\nFicam isentos os objectos de carácter publicitário sem valor comercial próprio, remetidos gratuitamente pelos fornecedores aos respectivos clientes e que, para além da sua função publicitária, não sejam utilizáveis para qualquer outro fim."
+  },
+  "30d610bf73dd9150": {
+   "fragment_id": "Bens utilizados ou consumidos por ocasião de exposição ou manifestação similar",
+   "type": "divisao",
+   "heading": "Bens utilizados ou consumidos por ocasião de exposição ou manifestação similar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens utilizados ou consumidos por ocasião de exposição ou manifestação similar"
+  },
+  "d66e62cfa631cdab": {
+   "fragment_id": "Artigo 67.º",
+   "type": "artigo",
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\n1. Sem prejuízo dos artigos 68.º, 69.º, 70.º e 71.º, ficam isentos:\n\na) Pequenas amostras representativas de mercadorias destinadas a exposição ou manifestação similar;\n\nb) Bens importados unicamente para a sua demonstração ou para a demonstração de máquinas e de aparelhos apresentados em exposição ou manifestação similar;\n\nc) Materiais diversos de valor reduzido, tais como tintas, vernizes, papéis decorativos que se destinem a ser utilizados na construção, arranjo e decoração de pavilhões provisórios em exposição ou manifestação similar, e que sejam destruídos em consequência da sua utilização;\n\nd) Impressos, catálogos, prospectos, listas de preços correntes, cartazes publicitários, calendários ilustrados ou não, fotografias não encaixilhadas e demais artigos fornecidos gratuitamente a fim de serem utilizados a título de publicidade relativamente aos bens apresentados em exposição ou manifestação similar.\n\n2. Para efeitos do n.º 1, entende-se por «exposição ou manifestação similar»:\n\na) As exposições, feiras, salões e manifestações similares relacionadas com o comércio, a indústria, a agricultura e o artesanato;\n\nb) As exposições ou manifestações organizadas principalmente com fim filantrópico;\n\nc) As exposições ou manifestações organizadas principalmente com fim cientifico, técnico, artesanal, artístico, educativo ou cultural, desportivo, religioso ou de culto, sindical ou turístico, ou ainda no sentido de promover o entendimento entre os povos;\n\nd) As reuniões de representantes de organizações ou de colectividades internacionais;\n\ne) As cerimónias e manifestações de carácter oficial ou comemorativo.\n\nNão são abrangidas pela definição as exposições organizadas, a título particular, em armazéns ou instalações comerciais, para a venda de mercadorias."
+  },
+  "208271f5e00af59e": {
+   "fragment_id": "Artigo 68.º",
+   "type": "artigo",
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\nA isenção prevista na alínea a) do n.º 1 do artigo 67.º é limitada às amostras que:\n\na) Sejam importadas gratuitamente nessa qualidade ou obtidas na manifestação a partir de mercadorias importadas a granel;\n\nb) Sirvam exclusivamente para fins de distribuição gratuita ao público por ocasião da manifestação, destinando-se a ser utilizadas ou consumidas pelas pessoas a quem tenham sido distribuídas;\n\nc) Sejam identificáveis como amostras de carácter publicitário de reduzido valor unitário;\n\nd) Não sejam susceptíveis de comercialização e, se for caso disso, sejam apresentadas em embalagens que contenham uma quantidade de mercadoria inferior à quantidade mínima da mesma mercadoria efectivamente vendida no mercado;\n\ne) No que diz respeito aos produtos alimentares e bebidas não acondicionados a que se refere a alínea d), sejam consumidos no próprio local por ocasião da manifestação;\n\nf) Sejam, tanto pelo seu valor global como pela quantidade, adequados à natureza da manifestação, ao número de visitantes e à importância da participação do expositor."
+  },
+  "a387112430039010": {
+   "fragment_id": "Artigo 69.º",
+   "type": "artigo",
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\nA isenção prevista na alínea b) do n.º 1 do artigo 67.º é limitada às mercadorias que:\n\na) Sejam consumidas ou destruídas no decurso da manifestação; e\n\nb) Sejam, tanto pelo seu valor global como pela quantidade, adequados à natureza da manifestação, ao número de visitantes e à importância da participação do expositor."
+  },
+  "0d8dfe51f1c57f1c": {
+   "fragment_id": "Artigo 70.º",
+   "type": "artigo",
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\nA isenção prevista na alínea d) do n.º 1 do artigo 67.º é limitada aos impressos e objectos de carácter publicitário que:\n\na) Se destinem exclusivamente a ser distribuídos gratuitamente ao público no local da manifestação; e\n\nb) Sejam, tanto pelo seu valor global como pela quantidade, adequados à natureza da manifestação, ao número de visitantes e à importância da participação do expositor."
+  },
+  "e58bceaf23ef2941": {
+   "fragment_id": "Artigo 71.º",
+   "type": "artigo",
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\nFicam excluídos da isenção prevista nas alíneas a) e b) do n.º 1 do artigo 67.º:\n\na) Os produtos alcoólicos;\n\nb) Os tabacos e os produtos do tabaco;\n\nc) Os combustíveis e os carburantes."
+  },
+  "9e3582086a409621": {
+   "fragment_id": "TÍTULO XI",
+   "type": "divisao",
+   "heading": "TÍTULO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XI"
+  },
+  "aa6031bf8e2f8cca": {
+   "fragment_id": "BENS IMPORTADOS PARA EXAMES, ANÁLISES OU ENSAIOS",
+   "type": "divisao",
+   "heading": "BENS IMPORTADOS PARA EXAMES, ANÁLISES OU ENSAIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BENS IMPORTADOS PARA EXAMES, ANÁLISES OU ENSAIOS"
+  },
+  "fca30f4078ae0392": {
+   "fragment_id": "Artigo 72.º",
+   "type": "artigo",
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\nSem prejuízo dos artigos 73.º a 78.º, ficam isentos os bens que se destinem a ser objecto de exame, análise ou ensaio tendo em vista a determinação da sua composição, qualidade e demais características técnicas, quer para fins de informação quer para fins de investigação de carácter industrial ou comercial."
+  },
+  "4fd9fdd21acf9c56": {
+   "fragment_id": "Artigo 73.º",
+   "type": "artigo",
+   "heading": "Artigo 73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º\n\nSem prejuízo do artigo 76.º, a concessão da isenção fica sujeita à condição de os bens submetidos aos exames, análises ou ensaios serem totalmente consumidos ou destruídos durante os referidos exames, análises ou ensaios."
+  },
+  "f59739ab7306146c": {
+   "fragment_id": "Artigo 74.º",
+   "type": "artigo",
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\nFicam excluídos da isenção os bens utilizados nos exames, análises ou ensaios, que constituam por si próprios operações de promoção comercial."
+  },
+  "67c8588b7de6bfc4": {
+   "fragment_id": "Artigo 75.º",
+   "type": "artigo",
+   "heading": "Artigo 75.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º\n\nA isenção só é concedida relativamente às quantidades de bens estritamente necessárias à realização do objectivo para que tenham sido importados. Essas quantidades são fixadas, caso a caso, pelas autoridades competentes, tendo em atenção o referido objectivo."
+  },
+  "84c3155e5b82c7d8": {
+   "fragment_id": "Artigo 76.º",
+   "type": "artigo",
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\n1. A isenção abrange os bens que não sejam totalmente consumidos ou destruídos durante os exames, análises ou ensaios, desde que os produtos remanescentes, mediante o acordo e sob o controlo das autoridades competentes, sejam:\n\na) Totalmente destruídos ou inutilizados comercialmente após a conclusão dos exames, análises ou ensaios; ou\n\nb) Abandonados sem quaisquer encargos ao Tesouro Público, quando a legislação nacional preveja essa possibilidade; ou\n\nc) Em circunstâncias devidamente justificadas, exportados para fora da Comunidade.\n\n2. Para efeitos do n.º 1, entende-se por «produtos remanescentes» os produtos resultantes de exames, análises ou ensaios ou as mercadorias efectivamente não utilizadas."
+  },
+  "4d2e7fdbe751355b": {
+   "fragment_id": "Artigo 77.º",
+   "type": "artigo",
+   "heading": "Artigo 77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º\n\nSalvo quando seja aplicável o n.º 1 do artigo 76.º, os produtos remanescentes após os exames, análises ou ensaios previstos no artigo 72.º ficam sujeitos ao IVA na importação que lhes corresponda, de acordo com a taxa em vigor à data em que os referidos exames, análises ou ensaios sejam concluídos, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes.\n\nNão obstante, o interessado, mediante o acordo e sob o controlo das autoridades competentes, pode converter os produtos remanescentes em resíduos ou desperdícios. Neste caso, o imposto que incide na importação é o correspondente aos referidos resíduos ou desperdícios à data da respectiva obtenção."
+  },
+  "146147b337a5e555": {
+   "fragment_id": "Artigo 78.º",
+   "type": "artigo",
+   "heading": "Artigo 78.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º\n\nAs autoridades competentes fixam o prazo durante o qual os exames, análises ou ensaios devem ser efectuados e as formalidades administrativas a cumprir para garantir a utilização das mercadorias para os fins previstos."
+  },
+  "5c36ffad1f883f01": {
+   "fragment_id": "TÍTULO XII",
+   "type": "divisao",
+   "heading": "TÍTULO XII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XII"
+  },
+  "2e33eb37783c690a": {
+   "fragment_id": "IMPORTAÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "IMPORTAÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IMPORTAÇÕES DIVERSAS"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "a4cb288ebd1d87c3": {
+   "fragment_id": "Remessas destinadas aos organismos competentes em matéria de protecção dos direitos de autor ou da propriedade industrial ou comercial",
+   "type": "divisao",
+   "heading": "Remessas destinadas aos organismos competentes em matéria de protecção dos direitos de autor ou da propriedade industrial ou comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Remessas destinadas aos organismos competentes em matéria de protecção dos direitos de autor ou da propriedade industrial ou comercial"
+  },
+  "bc2ca96b347be9ac": {
+   "fragment_id": "Artigo 79.º",
+   "type": "artigo",
+   "heading": "Artigo 79.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º\n\nFicam isentos as marcas, modelos ou desenhos e a documentação que lhes diga respeito, bem como os pedidos de patentes de inventos ou similares, destinados aos organismos competentes, em matéria de protecção dos direitos de autor ou de protecção da propriedade industrial e comercial."
+  },
+  "ac40ac146ad13e51": {
+   "fragment_id": "Documentação de carácter turístico",
+   "type": "divisao",
+   "heading": "Documentação de carácter turístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentação de carácter turístico"
+  },
+  "0839377f7d5ab310": {
+   "fragment_id": "Artigo 80.º",
+   "type": "artigo",
+   "heading": "Artigo 80.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º\n\nFicam isentos:\n\na) Os documentos (prospectos, brochuras, livros, revistas, guias, cartazes encaixilhados ou não, fotografias e ampliações fotográficas não emolduradas, mapas geográficos ilustrados ou não, transparências, calendários ilustrados) que se destinem a ser distribuídos gratuitamente e que tenham como objectivo principal promover junto do público a visita a países estrangeiros, designadamente para aí participar em reuniões ou manifestações de carácter cultural, turístico, desportivo, religioso ou profissional, desde que tais documentos não contenham mais de 25 % de publicidade comercial privada e que seja manifesto o seu carácter geral de promoção;\n\nb) As listas e anuários de hotéis estrangeiros publicados pelos organismos oficiais de turismo ou sob o seu auspício, bem como guias de horários respeitantes a serviços de transporte explorados no estrangeiro, desde que tais documentos se destinem a distribuição gratuita e não contenham mais de 25 % de publicidade comercial privada;\n\nc) O material técnico enviado aos representantes acreditados ou aos correspondentes designados por organismos oficiais nacionais de turismo, que não se destine a distribuição, isto é, os anuários, listas de assinantes de telefones e de telex, listas de hotéis, catálogos de feiras, amostras de produtos de artesanato de valor reduzido, documentação relativa a museus, universidades, estâncias termais e outras instituições análogas."
+  },
+  "80deb6c8af16a5ef": {
+   "fragment_id": "Documentos e artigos diversos",
+   "type": "divisao",
+   "heading": "Documentos e artigos diversos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentos e artigos diversos"
+  },
+  "27c2a1866e50bbd8": {
+   "fragment_id": "Artigo 81.º",
+   "type": "artigo",
+   "heading": "Artigo 81.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º\n\n1. Ficam isentos:\n\na) Os documentos remetidos gratuitamente aos serviços públicos dos Estados-Membros;\n\nb) As publicações de governos estrangeiros e as publicações de organizações internacionais oficiais destinadas a distribuição gratuita;\n\nc) Os boletins de voto destinados a eleições realizadas por organizações estabelecidas fora da Comunidade;\n\nd) Os objectos que se destinem a servir como documentos justificativos ou para fins similares perante os tribunais ou demais entidades oficiais dos Estados-Membros;\n\ne) Os espécimes de assinaturas e as circulares impressas relativas a assinaturas, expedidos no âmbito de trocas normais de informações entre serviços públicos ou estabelecimentos bancários;\n\nf) Os impressos de carácter oficial remetidos aos bancos centrais dos Estados-Membros;\n\ng) Os relatórios, resumos de actividades, notas informativas, prospectos, boletins de subscrição e outros documentos emitidos por sociedades que não tenham a sede respectiva na Comunidade e que se destinem aos portadores ou subscritores de títulos emitidos por essas sociedades;\n\nh) Os suportes de registo (cartões perfurados, registos sonoros, microfilmes, etc.) utilizados para transmissão de informações remetidas gratuitamente ao respectivo destinatário, desde que a isenção não implique abusos ou distorções de concorrência relevantes;\n\ni) Os processos, arquivos, formulários e demais documentos que se destinem a ser utilizados por ocasião de reuniões, conferências ou congressos internacionais, e bem assim as actas respeitantes a essas manifestações;\n\nj) Os projectos, desenhos técnicos, decalques, descrições e outros documentos similares importados com vista à obtenção ou execução de encomendas fora da Comunidade ou com vista a participar num concurso organizado na Comunidade;\n\nk) Os documentos que se destinem a ser utilizados durante exames organizados na Comunidade por instituições estabelecidas fora da Comunidade;\n\nl) Os formulários que se destinem a ser utilizados como documentos oficiais no que se refere ao tráfego internacional de veículos ou de mercadorias, no âmbito de convenções internacionais;\n\nm) Os formulários, etiquetas, títulos de transporte e documentos similares expedidos por empresas transportadoras ou por empresas hoteleiras situadas fora da Comunidade para agências de viagens estabelecidas na Comunidade;\n\nn) Os formulários e títulos de transporte, conhecimentos de embarque ou de carga, guias de remessa e demais documentos comerciais ou de escritório que tenham sido utilizados;\n\no) Os impressos oficiais emanados de autoridades nacionais ou internacionais, e os impressos conformes aos modelos internacionais, remetidos por associações estabelecidas fora da Comunidade às associações correspondentes situadas na Comunidade, tendo em vista a sua distribuição;\n\np) As fotografias, diapositivos e chapas de estereotipia para fotografias, ainda que incluindo legendas, enviados a agências de imprensa ou a editores de jornais e de periódicos;\n\nq) Os artigos constantes do anexo I, qualquer que seja o uso a que se destinem, produzidos pela Organização das Nações Unidas ou por uma das suas organizações especializadas;\n\nr) Os objectos de colecção e obras de arte de carácter educativo, científico ou cultural, que não se destinem a venda, importados por museus, galerias e outros estabelecimentos autorizados pelas autoridades competentes dos Estados-Membros a importar os referidos objectos com isenção;\n\ns) As importações de publicações oficiais que constituam um meio de expressão da autoridade pública do país ou território de exportação ou de organismos internacionais, de pessoas colectivas públicas e organismos de direito público estabelecidos no país ou território de exportação, bem como os impressos distribuídos por ocasião das eleições para o Parlamento Europeu ou por ocasião de eleições nacionais organizadas a partir do país de origem pelas organizações políticas estrangeiras oficialmente reconhecidas como tais nos Estados-Membros, desde que estas publicações e impressos tenham sido tributados no país ou território de exportação e que a respectiva tributação não tenha sido levantada na exportação.\n\n2. A isenção referida na alínea r) do n.º 1 só se verifica se os objectos tiverem sido importados a título gratuito ou se, sendo importados a título oneroso não tiverem sido fornecidos por um sujeito passivo."
+  },
+  "ed2f7621f7a82b15": {
+   "fragment_id": "Materiais acessórios destinados ao acondicionamento e protecção das mercadorias durante o transporte",
+   "type": "divisao",
+   "heading": "Materiais acessórios destinados ao acondicionamento e protecção das mercadorias durante o transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Materiais acessórios destinados ao acondicionamento e protecção das mercadorias durante o transporte"
+  },
+  "12b0fb940f16e3d7": {
+   "fragment_id": "Artigo 82.º",
+   "type": "artigo",
+   "heading": "Artigo 82.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º\n\nFicam isentos os diversos materiais, tais como cordas, palha, tecidos, papéis e papelões, madeira, matérias plásticas, utilizados no acondicionamento e protecção — incluindo a protecção térmica — das mercadorias durante o respectivo transporte no território da Comunidade, desde que:\n\na) Não sejam normalmente susceptíveis de reutilização; e\n\nb) A respectiva contrapartida esteja incluída no valor tributável, tal como é definido no capítulo 4 do título VII da Directiva 2006/112/CE."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "f33024b0147def0b": {
+   "fragment_id": "Camas de palha ou feno, forragens e rações para animais durante o transporte respectivo",
+   "type": "divisao",
+   "heading": "Camas de palha ou feno, forragens e rações para animais durante o transporte respectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Camas de palha ou feno, forragens e rações para animais durante o transporte respectivo"
+  },
+  "33c3a6922310f147": {
+   "fragment_id": "Artigo 83.º",
+   "type": "artigo",
+   "heading": "Artigo 83.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º\n\nFicam isentos as camas de palha ou feno, as forragens e alimentos, qualquer que seja a sua natureza, colocados a bordo dos meios de transporte utilizados no transporte de animais no território da Comunidade para lhes serem distribuídos durante o percurso a efectuar."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "bfa8587bd3fe420c": {
+   "fragment_id": "Carburantes e lubrificantes a bordo de veículos a motor terrestres e em recipientes destinados a fins especiais",
+   "type": "divisao",
+   "heading": "Carburantes e lubrificantes a bordo de veículos a motor terrestres e em recipientes destinados a fins especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Carburantes e lubrificantes a bordo de veículos a motor terrestres e em recipientes destinados a fins especiais"
+  },
+  "5bc7a77f2ba47648": {
+   "fragment_id": "Artigo 84.º",
+   "type": "artigo",
+   "heading": "Artigo 84.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º\n\n1. Sem prejuízo dos artigos 85.º, 86.º e 87.º, ficam isentos:\n\na) O combustível contido nos reservatórios normais de: i) veículos automóveis de turismo, veículos automóveis utilitários e motociclos, ii) recipientes destinados a usos especiais;\n\ni) veículos automóveis de turismo, veículos automóveis utilitários e motociclos,\n\nii) recipientes destinados a usos especiais;\n\nb) O combustível contido nos reservatórios portáteis que se encontrem a bordo dos veículos automóveis de turismo e dos motociclos, até ao limite de 10 litros por veículo e sem prejuízo das disposições nacionais em matéria de detenção e de transporte de combustíveis.\n\n2. Para efeitos do n.º 1, entende-se por:\n\na) «Veículo automóvel utilitário», todo e qualquer veículo rodoviário a motor (incluindo os tractores com ou sem reboque) que, segundo o tipo de construção e o seu equipamento, esteja apto e se destine ao transporte, remunerado ou não de mais de nove pessoas, incluindo o condutor, ou de mercadorias, e bem assim todo e qualquer veículo rodoviário, afecto a uma utilização específica diferente do transporte propriamente dito;\n\nb) «Veículo automóvel de turismo», todo e qualquer veículo automóvel que não satisfaça os requisitos definidos na alínea a);\n\nc) «Reservatórios normais»: i) os reservatórios fixados com carácter permanente pelo construtor em todos os veículos automóveis do mesmo tipo que o veículo em causa e cuja instalação permanente permita a utilização directa do combustível, tanto para a tracção dos veículos, como, se for caso disso, para o funcionamento durante o transporte dos sistemas de refrigeração e de outros sistemas, ii) os reservatórios fixados com carácter permanente pelo construtor em todos os recipientes do mesmo tipo do recipiente em causa e cuja instalação permanente permita a utilização directa do combustível para o funcionamento dos sistemas de refrigeração e de outros sistemas, durante o transporte, com que são equipados os recipientes destinados a usos especiais;\n\ni) os reservatórios fixados com carácter permanente pelo construtor em todos os veículos automóveis do mesmo tipo que o veículo em causa e cuja instalação permanente permita a utilização directa do combustível, tanto para a tracção dos veículos, como, se for caso disso, para o funcionamento durante o transporte dos sistemas de refrigeração e de outros sistemas,\n\nii) os reservatórios fixados com carácter permanente pelo construtor em todos os recipientes do mesmo tipo do recipiente em causa e cuja instalação permanente permita a utilização directa do combustível para o funcionamento dos sistemas de refrigeração e de outros sistemas, durante o transporte, com que são equipados os recipientes destinados a usos especiais;\n\nd) «Recipientes destinados a usos especiais»: qualquer recipiente equipado com dispositivos especialmente adaptados aos sistemas de refrigeração, oxigenação, isolamento térmico, ou outros sistemas.\n\nPara além dos reservatórios referidos na subalínea i) da alínea c) do primeiro parágrafo, consideram-se igualmente reservatórios normais os reservatórios de gás adaptados a veículos a motor que permitam a utilização directa do gás como combustível, bem como os reservatórios adaptados aos sistemas auxiliares com que o veículo pode estar equipado."
+  },
+  "e1f2e270d4dc5383": {
+   "fragment_id": "Artigo 85.º",
+   "type": "artigo",
+   "heading": "Artigo 85.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º\n\nNo que diz respeito ao combustível contido nos reservatórios normais dos veículos automóveis utilitários e dos recipientes destinados a usos especiais, os Estados-Membros podem limitar a aplicação da isenção:\n\na) Quando o veículo provém de um país terceiro ou de um território terceiro, a 200 litros por veículo e por viagem;\n\nb) A 200 litros por recipiente destinado a usos especiais e por viagem."
+  },
+  "8c48f0f12ff38eb9": {
+   "fragment_id": "Artigo 86.º",
+   "type": "artigo",
+   "heading": "Artigo 86.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º\n\nOs Estados-Membros podem limitar a quantidade de combustível importado com isenção:\n\na) Para os veículos automóveis utilitários que efectuem transportes internacionais provenientes de países terceiros ou territórios terceiros e com destino à respectiva zona fronteiriça até uma distância máxima de 25 quilómetros em linha recta, desde que tais transportes sejam efectuados por pessoas residentes nessa zona;\n\nb) Para os veículos automóveis de turismo pertencentes a pessoas residentes na zona fronteiriça, a uma distância máxima de 15 quilómetros em linha recta, contígua a um país terceiro ou a um território terceiro."
+  },
+  "f79f1f0664baf8cf": {
+   "fragment_id": "Artigo 87.º",
+   "type": "artigo",
+   "heading": "Artigo 87.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º\n\n1. Os combustíveis importados com isenção não podem ser utilizados num veículo que não seja aquele em que foram importados, nem ser retirados desse veículo, ou ser objecto de armazenagem, salvo no caso de reparação necessária do referido veículo ou de cessão a título oneroso ou a título gratuito pelo beneficiário da isenção.\n\n2. O não cumprimento do n.º 1 implica a aplicação do IVA na importação, relativamente aos produtos em causa, de acordo com a taxa em vigor à data em que o mesmo ocorra, segundo o tipo de bens e com base no valor verificado ou aceite nessa data pelas autoridades competentes."
+  },
+  "7cd662fc88f76bce": {
+   "fragment_id": "Artigo 88.º",
+   "type": "artigo",
+   "heading": "Artigo 88.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º\n\nA isenção é igualmente aplicável aos lubrificantes existentes a bordo dos veículos automóveis, que correspondam às necessidades normais de funcionamento durante o transporte em curso."
+  },
+  "3c86a15ddc0878af": {
+   "fragment_id": "CAPÍTULO 7",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 7"
+  },
+  "9a270f7150a42d60": {
+   "fragment_id": "Bens destinados à construção, conservação ou decoração de monumentos comemorativos ou de cemitérios de vítimas de guerra",
+   "type": "divisao",
+   "heading": "Bens destinados à construção, conservação ou decoração de monumentos comemorativos ou de cemitérios de vítimas de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Bens destinados à construção, conservação ou decoração de monumentos comemorativos ou de cemitérios de vítimas de guerra"
+  },
+  "98f70f47c1be9579": {
+   "fragment_id": "Artigo 89.º",
+   "type": "artigo",
+   "heading": "Artigo 89.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º\n\nFicam isentos os bens, qualquer que seja a sua natureza, importados por organizações autorizadas para esse efeito pelas autoridades competentes, que se destinem a ser utilizados na construção, conservação ou decoração de cemitérios, sepulturas e monumentos comemorativos das vítimas de guerra de um país terceiro sepultadas na Comunidade."
+  },
+  "906b320adabe224c": {
+   "fragment_id": "CAPÍTULO 8",
+   "type": "divisao",
+   "heading": "CAPÍTULO 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 8"
+  },
+  "643bb31a758355e5": {
+   "fragment_id": "Caixões, urnas funerárias e objectos de ornamentação fúnebre",
+   "type": "divisao",
+   "heading": "Caixões, urnas funerárias e objectos de ornamentação fúnebre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Caixões, urnas funerárias e objectos de ornamentação fúnebre"
+  },
+  "7175f41cf5af1218": {
+   "fragment_id": "Artigo 90.º",
+   "type": "artigo",
+   "heading": "Artigo 90.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º\n\nFicam isentos:\n\na) Os caixões que contenham as corpos e as urnas que contenham as cinzas de defuntos, bem como flores, coroas e outros objectos de ornamentação que normalmente os acompanhem;\n\nb) As flores, coroas e outros objectos de ornamentação trazidos por pessoas residentes fora da Comunidade, que participem nas cerimónias fúnebres ou que venham decorar túmulos situados no território da Comunidade, desde que as referidas importações, quer pela sua natureza quer pela sua quantidade, não tenham qualquer fim de ordem comercial."
+  },
+  "97fb71ebc647c112": {
+   "fragment_id": "TÍTULO XIII",
+   "type": "divisao",
+   "heading": "TÍTULO XIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO XIII"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "2c63dbb7b8945fd1": {
+   "fragment_id": "Artigo 91.º",
+   "type": "artigo",
+   "heading": "Artigo 91.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º\n\nNos casos em que a presente directiva estabeleça que a concessão da isenção fica subordinada ao cumprimento de determinadas condições, o interessado deve fazer prova junto das autoridades competentes de que tais condições se encontram preenchidas."
+  },
+  "31a352f71e30afc3": {
+   "fragment_id": "Artigo 92.º",
+   "type": "artigo",
+   "heading": "Artigo 92.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º\n\n1. O contravalor em moeda nacional do euro a tomar em consideração para a aplicação da presente directiva, é fixado uma vez por ano. As taxas aplicáveis são as do primeiro dia útil do mês de Outubro e produzem efeitos em 1 de Janeiro do ano seguinte.\n\n2. Os Estados-Membros podem proceder ao arredondamento dos montantes expressos em moeda nacional que resultem da conversão dos montantes expressos em euros.\n\n3. Os Estados-Membros podem continuar a aplicar o montante das isenções em vigor à data do ajustamento anual previsto no n.º 1, se a conversão dos montantes das isenções expressos em euros corresponder, antes do arredondamento previsto no n.º 2, a uma alteração inferior a 5 % da isenção expressa em moeda nacional ou a uma redução dessa isenção."
+  },
+  "fe0568417736a601": {
+   "fragment_id": "Artigo 93.º",
+   "type": "artigo",
+   "heading": "Artigo 93.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º\n\nA presente directiva não impede os Estados-Membros de manter:\n\na) Os privilégios e imunidades por eles concedidos no âmbito de acordos de cooperação cultural, científica ou técnica que tenham celebrado entre Estados-Membros e países terceiros;\n\nb) As isenções especiais justificáveis pela natureza do tráfego fronteiriço, por eles concedidas no âmbito de acordos fronteiriços que tenham celebrado entre Estados-Membros e países terceiros;\n\nc) As isenções concedidas no âmbito de acordos concluídos com base na reciprocidade com países terceiros que sejam Parte na Convenção relativa à Aviação Civil Internacional assinada em Chicago, em 7 de Dezembro de 1944, para fins da execução das Práticas Recomendadas 4.42 e 4.44 do anexo 9 dessa Convenção."
+  },
+  "c7b64b04ee948148": {
+   "fragment_id": "Artigo 94.º",
+   "type": "artigo",
+   "heading": "Artigo 94.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º\n\nAté à adopção das disposições comunitárias no sector considerado, a presente directiva não impede os Estados-Membros de manterem as isenções na importação concedidas:\n\na) Aos marítimos da marinha mercante;\n\nb) Aos trabalhadores que regressem ao respectivo país de origem depois de terem permanecido fora da Comunidade durante, pelo menos, seis meses em consequência da sua actividade profissional."
+  },
+  "e9f22abb4e153fb9": {
+   "fragment_id": "Artigo 95.º",
+   "type": "artigo",
+   "heading": "Artigo 95.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º\n\nOs Estados-Membros informam a Comissão das disposições que adoptarem para aplicação da presente directiva, indicando, se for caso disso, as que adoptarem mediante simples referência às disposições idênticas do Regulamento (CEE) n.º 918/83."
+  },
+  "fe5d22930c5ce856": {
+   "fragment_id": "Artigo 96.º",
+   "type": "artigo",
+   "heading": "Artigo 96.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º\n\nÉ revogada a Directiva 83/181/CEE, com a redacção que lhe foi dada pelos actos referidos na parte A do anexo II, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional, indicados na parte B do anexo II.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ler-se nos termos da tabela de correspondência que consta do anexo III."
+  },
+  "1acef92081e82ffc": {
+   "fragment_id": "Artigo 97.º",
+   "type": "artigo",
+   "heading": "Artigo 97.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "296281b68f6d86ca": {
+   "fragment_id": "Artigo 98.º",
+   "type": "artigo",
+   "heading": "Artigo 98.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 19 de Outubro de 2009.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**E. ERLANDSSON**\n\n---"
+  },
+  "41863b0569ea511a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntc1-L_2009292PT.01000501-E0001) Parecer de 11 de Março de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntc2-L_2009292PT.01000501-E0002) [JO C 175 de 28.7.2009, p. 123](http://publications.europa.eu/resource/oj/JOC_2009_175_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntc3-L_2009292PT.01000501-E0003) [JO L 105 de 23.4.1983, p. 38](http://publications.europa.eu/resource/oj/JOL_1983_105_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntc4-L_2009292PT.01000501-E0004) Ver parte A do anexo II.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntc5-L_2009292PT.01000501-E0005) [JO L 347 de 11.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_347_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018.02/DOC_1#ntc6-L_2009292PT.01000501-E0006) [JO L 105 de 23.4.1983, p. 1](http://publications.europa.eu/resource/oj/JOL_1983_105_R_TOC)."
+  },
+  "4a617c1dfe168fd1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 2009\n\nque determina o âmbito de aplicação das alíneas b) e c) do artigo 143.º da Directiva 2006/112/CE, no que diz respeito à isenção do imposto sobre o valor acrescentado de certas importações definitivas de bens\n\n(versão codificada)"
+  },
+  "f9acab15b7d48bc3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1.\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\na) «Importações», as importações definidas no artigo 30.º da Directiva 2006/112/CE, bem como a colocação para consumo depois de terem estado sujeitas a um dos regimes previstos na alínea a) do n.º 1 do artigo 157.º da referida directiva ou a um regime de admissão temporária ou de trânsito;\n\nb) «Bens pessoais», os bens destinados ao uso pessoal dos interessados ou às necessidades domésticas, nomeadamente, os objectos de uso doméstico e bens móveis, os velocípedes e motociclos, veículos automóveis destinados a uso privado e respectivos reboques, caravanas de campismo, barcos de recreio e aviões de turismo, bem como as provisões domésticas que correspondam a um aprovisionamento familiar normal e os animais domésticos e de sela;\n\nc) «Objectos de uso doméstico e bens móveis», os objectos pessoais, a roupa de casa e os artigos de mobiliário ou de equipamento destinados a uso pessoal dos interessados ou às necessidades domésticas;\n\nd) «Produtos alcoólicos», os produtos (cervejas, vinhos, aperitivos à base de vinho ou de álcool, aguardentes, licores e bebidas espirituosas, etc.) dos códigos NC 2203 a 2208 da pauta aduaneira comum;\n\ne) «Comunidade», os territórios dos Estados-Membros a que se aplica a Directiva 2006/112/CE.\n\n2. Os bens pessoais não devem reflectir, quer pela sua natureza, quer pela sua quantidade, uma preocupação de ordem comercial, nem destinar-se a uma actividade económica na acepção do n.º 1 do artigo 9.º da Directiva 2006/112/CE. Todavia, constituem igualmente bens pessoais os instrumentos portáteis utilizados nas artes mecânicas ou nas profissões liberais necessários ao exercício da profissão do interessado."
+  },
+  "e71376fd45e7c0e5": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Quando, por força das suas obrigações profissionais, o interessado deixar o país terceiro ou território terceiro onde tinha a sua residência normal sem simultaneamente a fixar no território de um Estado-Membro mas com a intenção de aí a fixar posteriormente, as autoridades competentes podem autorizar a isenção dos bens pessoais importados para o efeito no referido território.\n\n2.\n\nA isenção dos bens pessoais referidos no n.º 1 é concedida nos termos previstos nos artigos 3.º a 8.º, entendendo-se que:\n\na) Os prazos fixados na alínea a) do primeiro parágrafo do artigo 4.º e no n.º 1 do artigo 7.º são calculados a contar da data da importação;\n\nb) O prazo referido no n.º 1 do artigo 8.º é calculado a contar da data em que o interessado fixar efectivamente a sua residência normal no território da Comunidade.\n\n3. A isenção fica ainda sujeita ao compromisso assumido pelo interessado de fixar efectivamente a sua residência normal no território da Comunidade, no prazo estabelecido pelas autoridades competentes em função das circunstâncias. Tal compromisso pode ser acompanhado de uma garantia, cuja forma e montante são determinados pelas autoridades competentes."
+  },
+  "b1d7f3fca7c976a4": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1.\n\nSalvo circunstâncias excepcionais, a isenção só é concedida em relação aos bens importados com carácter definitivo:\n\na) No mínimo, dois meses antes da data prevista para o casamento; e\n\nb) No máximo, quatro meses após a data do casamento.\n\nNo caso referido na alínea a), a isenção pode ficar dependente da prestação de uma garantia adequada, cuja forma e montante são determinados pelas autoridades competentes.\n\n2. A importação dos bens objecto de isenção pode efectuar-se por diversas vezes, dentro do prazo fixado no n.º 1 do presente artigo."
+  },
+  "790f1941909fdf8b": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Ficam isentos o enxoval, o material escolar e os objectos móveis usados, que constituam o mobiliário normal de um quarto de estudante, pertencentes a alunos ou a estudantes que permaneçam na Comunidade a fim de aí efectuarem os seus estudos e destinados a seu uso pessoal durante o período em que decorram os referidos estudos.\n\n2.\n\nPara efeitos do disposto no presente artigo, entende-se por:\n\na) «Aluno ou estudante», toda e qualquer pessoa regularmente inscrita num estabelecimento de ensino a fim de acompanhar a tempo inteiro os cursos aí ministrados;\n\nb) «Enxoval», a roupa de uso pessoal ou de casa e bem assim o vestuário, ainda que novos;\n\nc) «Material escolar», os objectos e instrumentos (incluindo máquinas de calcular e de escrever) normalmente usados pelos alunos e estudantes nos seus estudos."
+  },
+  "f8de0c6836aa1b18": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Sem prejuízo das medidas em vigor nos Estados-Membros em matéria de política industrial e comercial, os Estados-Membros podem, sem prejuízo dos artigos 26.º a 29.º, isentar as importações de bens de investimento e de outros bens de equipamento pertencentes a empresas que cessem definitivamente a sua actividade no país terceiro ou território terceiro de proveniência a fim de exercerem uma actividade similar na Comunidade e que tenham declarado, previamente, o início de tal actividade às autoridades competentes do Estado-Membro, nos termos do n.º 1 do artigo 213.º da Directiva 2006/112/CE.\n\nQuando a empresa transferida constitua uma exploração agrícola, o gado beneficia igualmente da isenção.\n\n2.\n\nPara efeitos do disposto no n.º 1, entende-se por:\n\na) «Actividade», uma actividade económica referida no n.º 1 do artigo 9.º da Directiva 2006/112/CE;\n\nb) «Empresa», uma unidade económica autónoma de produção ou de prestação de serviços."
+  },
+  "985674434270a6fd": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1.\n\nA isenção limita-se aos bens de investimento e outros bens de equipamento que:\n\na) Salvo casos particulares justificados pelas circunstâncias, tiverem sido efectivamente utilizados na empresa durante, pelo menos, doze meses antes da data da cessação da actividade da empresa no país terceiro ou no território terceiro de que tiver sido transferida;\n\nb) Se destinem a utilização idêntica após a transferência;\n\nc) Se destinem ao exercício de uma actividade não isenta por força dos artigos 132.º, 133.º, 135.º e 136.º da Directiva 2006/112/CE;\n\nd) Correspondam à natureza e à importância da empresa em causa.\n\n2. Até à entrada em vigor das disposições comuns referidas no primeiro parágrafo do artigo 176.º da Directiva 2006/112/CE, os Estados-Membros podem excluir, total ou parcialmente, da isenção os bens de investimento relativamente aos quais tiverem feito uso do segundo parágrafo do artigo 176.º da referida directiva."
+  },
+  "1961d91093ef650d": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1.\n\nFicam isentos:\n\na) Os animais especialmente preparados e remetidos a título gratuito para serem utilizados em laboratório;\n\nb) As substâncias biológicas ou químicas importadas de acordo com os limites e as condições fixados no artigo 60.º do Regulamento (CEE) n.º 918/83 do Conselho, de 28 de Março de 1983, relativo ao estabelecimento do regime comunitário das franquias aduaneiras ([^1^](http://publications.europa.eu/resource/cellar/e107262a-f45d-11eb-aeb9-01aa75ed71a1.0019.02/DOC_1#E0001)).\n\n2.\n\nA isenção referida no n.º 1 é limitada aos animais e às substâncias biológicas ou químicas que se destinem:\n\na) Quer aos estabelecimentos públicos ou de utilidade pública que tiverem como actividade principal o ensino ou a investigação científica bem como aos serviços dependentes de um estabelecimento público ou de utilidade pública que tiverem como actividade principal o ensino ou a investigação científica;\n\nb) Quer aos estabelecimentos de carácter privado que tiverem como actividade principal o ensino ou a investigação científica, e que tiverem sido autorizados pelas autoridades competentes dos Estados-Membros a receber os referidos objectos com isenção."
+  },
+  "44a1e6267e623b47": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1.\n\nSem prejuízo da isenção prevista na alínea a) do artigo 143.º da Directiva 2006/112/CE, e sem prejuízo do artigo 38.º da presente directiva, ficam isentas:\n\na) As substâncias terapêuticas de origem humana;\n\nb) Os reagentes para a determinação dos grupos sanguíneos;\n\nc) Os reagentes para a determinação dos grupos tissulares.\n\n2.\n\nPara efeitos do disposto no n.º 1, entende-se por:\n\na) «Substâncias terapêuticas de origem humana»: o sangue humano e seus derivados (sangue humano total, plasma humano liofilizado, albumina humana e soluções estáveis de proteínas plasmáticas humanas, imunoglobulina humana, fibrinogénio humano);\n\nb) «Reagentes para a determinação dos grupos sanguíneos»: todo e qualquer reagente de origem humana, animal, vegetal ou outra, para a determinação dos grupos sanguíneos e para a detecção das incompatibilidades sanguíneas;\n\nc) «Reagentes para a determinação dos grupos tissulares»: todo e qualquer reagente de origem humana, animal, vegetal ou outra, para a determinação dos grupos tissulares humanos."
+  },
+  "54c28769b76c1e1c": {
+   "fragment_id": "Artigo 43.º",
+   "type": "artigo",
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1.\n\nSem prejuízo dos artigos 44.º, 45.º e 46.º, ficam isentos:\n\na) Os bens de primeira necessidade, adquiridos a título gratuito e importados por organismos do Estado ou por organizações de natureza caritativa ou filantrópica, aprovadas pelas autoridades competentes, para serem distribuídos gratuitamente a pessoas deles necessitadas;\n\nb) Os bens, qualquer que seja a sua natureza, enviados a título gratuito por uma pessoa ou entidade estabelecida fora da Comunidade, e sem qualquer fim de ordem comercial por parte do fornecedor, a organismos do Estado ou a organizações de natureza caritativa ou filantrópica aprovadas pelas autoridades competentes, para a recolha de fundos durante manifestações ocasionais de beneficência a favor de pessoas necessitadas;\n\nc) Os materiais de equipamento e de escritório remetidos a título gratuito por pessoa ou entidade estabelecida fora da Comunidade, e sem qualquer fim de ordem comercial por parte do fornecedor, a organizações de natureza caritativa ou filantrópica aprovadas pelas autoridades competentes, para serem afectados exclusivamente às respectivas necessidades de funcionamento e à realização dos objectivos caritativos ou filantrópicos por elas prosseguidos.\n\n2. Para efeitos da alínea a) do n.º 1, entende-se por «bens de primeira necessidade» os bens indispensáveis à satisfação das necessidades imediatas das pessoas, tais como géneros alimentícios, medicamentos, vestuário e cobertores."
+  },
+  "64dd4cc34c64180b": {
+   "fragment_id": "Artigo 48.º",
+   "type": "artigo",
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1.\n\nFicam isentos os bens especificamente concebidos para fins de educação, emprego ou promoção social de invisuais e de outras pessoas física ou mentalmente deficientes, quando:\n\na) Importados por instituições ou organizações que tenham como actividade principal a educação ou a assistência a pessoas deficientes, e que tenham sido aprovadas pelas autoridades competentes dos Estados-Membros para receber os referidos objectos com isenção; e\n\nb) Remetidos a título gratuito e sem qualquer fim de ordem comercial por parte do doador a uma instituição ou organização deste tipo.\n\n2. A isenção é aplicável às peças sobressalentes, elementos ou acessórios específicos que se adaptem aos objectos considerados e bem assim às ferramentas a utilizar para fins de manutenção, verificação, calibragem ou reparação dos referidos objectos, na medida em que essas peças sobressalentes, elementos, acessórios ou ferramentas sejam importados simultaneamente com os objectos mencionados ou, quando importados posteriormente, forem reconhecidos como destinados a objectos importados anteriormente com isenção ou que pudessem beneficiar da isenção no momento do respectivo pedido em relação às referidas peças sobressalentes, elementos, acessórios específicos ou ferramentas.\n\n3. Os bens importados com isenção só podem ser utilizados para fins de educação, emprego ou promoção social de invisuais e de outras pessoas deficientes."
+  },
+  "dcf748194f6028df": {
+   "fragment_id": "Artigo 62.º",
+   "type": "artigo",
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\n1.\n\nFicam isentos, dentro dos limites e nas condições estabelecidas pelas autoridades competentes:\n\na) Os presentes oferecidos aos soberanos reinantes e chefes de Estado;\n\nb) Os bens destinados a serem utilizados ou consumidos durante a sua permanência oficial na Comunidade, pelos soberanos reinantes e pelos chefes de Estado de países terceiros, e bem assim pelas personalidades que os representem oficialmente.\n\n2. A isenção referida na alínea b) do n.º 1 pode ficar subordinada pelo Estado-Membro de importação à condição de reciprocidade.\n\n3. A isenção referida no n.º 1 é igualmente aplicável às pessoas que usufruam, no plano internacional, de prerrogativas análogas às de um soberano reinante ou chefe de Estado."
+  },
+  "7df2916a2a469fbc": {
+   "fragment_id": "Artigo 65.º",
+   "type": "artigo",
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\n1.\n\nA isenção é limitada aos impressos de carácter publicitário que satisfaçam os seguintes requisitos:\n\na) Os impressos devem apresentar de forma visível o nome da empresa que produz, vende ou dá em locação as mercadorias, ou que fornece as prestações de serviços a que respeitem;\n\nb) Cada remessa deve incluir apenas um documento, ou um exemplar de cada documento, se for constituída por diversos documentos;\n\nc) Os impressos não podem ser objecto de remessas conjuntas de um mesmo expedidor para um mesmo destinatário.\n\n2. Em derrogação da alínea b) do n.º 1, as remessas que incluam diversos exemplares de um mesmo documento podem beneficiar da isenção se o respectivo peso bruto total não exceder um quilograma."
+  },
+  "790a82e95c2dcb61": {
+   "fragment_id": "Artigo 67.º",
+   "type": "artigo",
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\n1.\n\nSem prejuízo dos artigos 68.º, 69.º, 70.º e 71.º, ficam isentos:\n\na) Pequenas amostras representativas de mercadorias destinadas a exposição ou manifestação similar;\n\nb) Bens importados unicamente para a sua demonstração ou para a demonstração de máquinas e de aparelhos apresentados em exposição ou manifestação similar;\n\nc) Materiais diversos de valor reduzido, tais como tintas, vernizes, papéis decorativos que se destinem a ser utilizados na construção, arranjo e decoração de pavilhões provisórios em exposição ou manifestação similar, e que sejam destruídos em consequência da sua utilização;\n\nd) Impressos, catálogos, prospectos, listas de preços correntes, cartazes publicitários, calendários ilustrados ou não, fotografias não encaixilhadas e demais artigos fornecidos gratuitamente a fim de serem utilizados a título de publicidade relativamente aos bens apresentados em exposição ou manifestação similar.\n\n2.\n\nPara efeitos do n.º 1, entende-se por «exposição ou manifestação similar»:\n\na) As exposições, feiras, salões e manifestações similares relacionadas com o comércio, a indústria, a agricultura e o artesanato;\n\nb) As exposições ou manifestações organizadas principalmente com fim filantrópico;\n\nc) As exposições ou manifestações organizadas principalmente com fim cientifico, técnico, artesanal, artístico, educativo ou cultural, desportivo, religioso ou de culto, sindical ou turístico, ou ainda no sentido de promover o entendimento entre os povos;\n\nd) As reuniões de representantes de organizações ou de colectividades internacionais;\n\ne) As cerimónias e manifestações de carácter oficial ou comemorativo.\n\nNão são abrangidas pela definição as exposições organizadas, a título particular, em armazéns ou instalações comerciais, para a venda de mercadorias."
+  },
+  "2c75ea7a0a2a7c4f": {
+   "fragment_id": "Artigo 76.º",
+   "type": "artigo",
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\n1.\n\nA isenção abrange os bens que não sejam totalmente consumidos ou destruídos durante os exames, análises ou ensaios, desde que os produtos remanescentes, mediante o acordo e sob o controlo das autoridades competentes, sejam:\n\na) Totalmente destruídos ou inutilizados comercialmente após a conclusão dos exames, análises ou ensaios; ou\n\nb) Abandonados sem quaisquer encargos ao Tesouro Público, quando a legislação nacional preveja essa possibilidade; ou\n\nc) Em circunstâncias devidamente justificadas, exportados para fora da Comunidade.\n\n2. Para efeitos do n.º 1, entende-se por «produtos remanescentes» os produtos resultantes de exames, análises ou ensaios ou as mercadorias efectivamente não utilizadas."
+  },
+  "71ad34778b0ea30a": {
+   "fragment_id": "Artigo 81.º",
+   "type": "artigo",
+   "heading": "Artigo 81.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º\n\n1.\n\nFicam isentos:\n\na) Os documentos remetidos gratuitamente aos serviços públicos dos Estados-Membros;\n\nb) As publicações de governos estrangeiros e as publicações de organizações internacionais oficiais destinadas a distribuição gratuita;\n\nc) Os boletins de voto destinados a eleições realizadas por organizações estabelecidas fora da Comunidade;\n\nd) Os objectos que se destinem a servir como documentos justificativos ou para fins similares perante os tribunais ou demais entidades oficiais dos Estados-Membros;\n\ne) Os espécimes de assinaturas e as circulares impressas relativas a assinaturas, expedidos no âmbito de trocas normais de informações entre serviços públicos ou estabelecimentos bancários;\n\nf) Os impressos de carácter oficial remetidos aos bancos centrais dos Estados-Membros;\n\ng) Os relatórios, resumos de actividades, notas informativas, prospectos, boletins de subscrição e outros documentos emitidos por sociedades que não tenham a sede respectiva na Comunidade e que se destinem aos portadores ou subscritores de títulos emitidos por essas sociedades;\n\nh) Os suportes de registo (cartões perfurados, registos sonoros, microfilmes, etc.) utilizados para transmissão de informações remetidas gratuitamente ao respectivo destinatário, desde que a isenção não implique abusos ou distorções de concorrência relevantes;\n\ni) Os processos, arquivos, formulários e demais documentos que se destinem a ser utilizados por ocasião de reuniões, conferências ou congressos internacionais, e bem assim as actas respeitantes a essas manifestações;\n\nj) Os projectos, desenhos técnicos, decalques, descrições e outros documentos similares importados com vista à obtenção ou execução de encomendas fora da Comunidade ou com vista a participar num concurso organizado na Comunidade;\n\nk) Os documentos que se destinem a ser utilizados durante exames organizados na Comunidade por instituições estabelecidas fora da Comunidade;\n\nl) Os formulários que se destinem a ser utilizados como documentos oficiais no que se refere ao tráfego internacional de veículos ou de mercadorias, no âmbito de convenções internacionais;\n\nm) Os formulários, etiquetas, títulos de transporte e documentos similares expedidos por empresas transportadoras ou por empresas hoteleiras situadas fora da Comunidade para agências de viagens estabelecidas na Comunidade;\n\nn) Os formulários e títulos de transporte, conhecimentos de embarque ou de carga, guias de remessa e demais documentos comerciais ou de escritório que tenham sido utilizados;\n\no) Os impressos oficiais emanados de autoridades nacionais ou internacionais, e os impressos conformes aos modelos internacionais, remetidos por associações estabelecidas fora da Comunidade às associações correspondentes situadas na Comunidade, tendo em vista a sua distribuição;\n\np) As fotografias, diapositivos e chapas de estereotipia para fotografias, ainda que incluindo legendas, enviados a agências de imprensa ou a editores de jornais e de periódicos;\n\nq) Os artigos constantes do anexo I, qualquer que seja o uso a que se destinem, produzidos pela Organização das Nações Unidas ou por uma das suas organizações especializadas;\n\nr) Os objectos de colecção e obras de arte de carácter educativo, científico ou cultural, que não se destinem a venda, importados por museus, galerias e outros estabelecimentos autorizados pelas autoridades competentes dos Estados-Membros a importar os referidos objectos com isenção;\n\ns) As importações de publicações oficiais que constituam um meio de expressão da autoridade pública do país ou território de exportação ou de organismos internacionais, de pessoas colectivas públicas e organismos de direito público estabelecidos no país ou território de exportação, bem como os impressos distribuídos por ocasião das eleições para o Parlamento Europeu ou por ocasião de eleições nacionais organizadas a partir do país de origem pelas organizações políticas estrangeiras oficialmente reconhecidas como tais nos Estados-Membros, desde que estas publicações e impressos tenham sido tributados no país ou território de exportação e que a respectiva tributação não tenha sido levantada na exportação.\n\n2. A isenção referida na alínea r) do n.º 1 só se verifica se os objectos tiverem sido importados a título gratuito ou se, sendo importados a título oneroso não tiverem sido fornecidos por um sujeito passivo."
+  },
+  "fb16dba6824d4ad6": {
+   "fragment_id": "Artigo 84.º",
+   "type": "artigo",
+   "heading": "Artigo 84.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º\n\n1.\n\nSem prejuízo dos artigos 85.º, 86.º e 87.º, ficam isentos:\n\na) O combustível contido nos reservatórios normais de:\n\ni) veículos automóveis de turismo, veículos automóveis utilitários e motociclos,\n\nii) recipientes destinados a usos especiais;\n\nb) O combustível contido nos reservatórios portáteis que se encontrem a bordo dos veículos automóveis de turismo e dos motociclos, até ao limite de 10 litros por veículo e sem prejuízo das disposições nacionais em matéria de detenção e de transporte de combustíveis.\n\n2.\n\nPara efeitos do n.º 1, entende-se por:\n\na) «Veículo automóvel utilitário», todo e qualquer veículo rodoviário a motor (incluindo os tractores com ou sem reboque) que, segundo o tipo de construção e o seu equipamento, esteja apto e se destine ao transporte, remunerado ou não de mais de nove pessoas, incluindo o condutor, ou de mercadorias, e bem assim todo e qualquer veículo rodoviário, afecto a uma utilização específica diferente do transporte propriamente dito;\n\nb) «Veículo automóvel de turismo», todo e qualquer veículo automóvel que não satisfaça os requisitos definidos na alínea a);\n\nc) «Reservatórios normais»:\n\ni) os reservatórios fixados com carácter permanente pelo construtor em todos os veículos automóveis do mesmo tipo que o veículo em causa e cuja instalação permanente permita a utilização directa do combustível, tanto para a tracção dos veículos, como, se for caso disso, para o funcionamento durante o transporte dos sistemas de refrigeração e de outros sistemas,\n\nii) os reservatórios fixados com carácter permanente pelo construtor em todos os recipientes do mesmo tipo do recipiente em causa e cuja instalação permanente permita a utilização directa do combustível para o funcionamento dos sistemas de refrigeração e de outros sistemas, durante o transporte, com que são equipados os recipientes destinados a usos especiais;\n\nd) «Recipientes destinados a usos especiais»: qualquer recipiente equipado com dispositivos especialmente adaptados aos sistemas de refrigeração, oxigenação, isolamento térmico, ou outros sistemas.\n\nPara além dos reservatórios referidos na subalínea i) da alínea c) do primeiro parágrafo, consideram-se igualmente reservatórios normais os reservatórios de gás adaptados a veículos a motor que permitam a utilização directa do gás como combustível, bem como os reservatórios adaptados aos sistemas auxiliares com que o veículo pode estar equipado."
+  },
+  "d81f7d2334bf37b7": {
+   "fragment_id": "Artigo 98.º",
+   "type": "artigo",
+   "heading": "Artigo 98.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "b7b95a603e66aac9": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nCódigo NC Designação das mercadorias\n\n3704 00 Chapas, filmes, papéis, cartões e têxteis, fotográficos, impressionados mas não revelados:\n\nex 3704 00 10 – Chapas e filmes: — Filmes cinematográficos, positivos, de carácter educativo, científico ou cultural\n\nex 37 05 Chapas e filmes, fotográficos, impressionados e revelados, excepto filmes cinematográficos: — De carácter educativo, científico ou cultural\n\n3706 Filmes cinematográficos impressionados e revelados, contendo ou não gravação de som ou contendo apenas gravação de som:\n\n3706 10 – De largura igual ou superior a 35 mm: – – Outros:\n\nex 3706 10 99 – – – Outros positivos: — Filmes de actualidades (com ou sem som) representando acontecimentos com carácter de actualidade na época da importação e importados, para reprodução até duas cópias por assunto — Filmes de arquivo (com ou sem som), destinados a acompanhar filmes de actualidade — Filmes recreativos destinados particularmente a crianças e a jovens — Não especificados, de carácter educativo, científico ou cultural\n\n3706 90 – Outros: – – Outros: – – – Outros positivos:\n\nex 3706 90 51 — Filmes de actualidades (com ou sem som) representando acontecimentos com carácter de actualidade na época da importação e importados, para reprodução, até duas cópias por assunto\n\nex 3706 90 91 — Filmes de arquivo (com ou sem som), destinados a acompanhar filmes de actualidade\n\nex 3706 90 99 — Filmes recreativos destinados particularmente a crianças e a jovens — Não especificados, de carácter educativo, científico ou cultural\n\n4911 Outros impressos, incluídas as estampas, gravuras e fotografias: – Outros:\n\n4911 99 – – Outros:\n\nex 4911 99 00 – – – Outros: — Microcartões ou outros suportes utilizados pelos serviços de informação e de documentação por computador, de carácter educativo, científico ou cultural — Quadros murais destinados exclusivamente à demonstração e ao ensino\n\nex 85 23 Discos, fitas e outros suportes para gravação de som ou para gravações semelhantes, gravados, incluídos os moldes e matrizes galvânicos para fabricação de discos, com exclusão dos produtos do capítulo 37: — De carácter educativo, científico ou cultural\n\nex 9023 00 Instrumentos, aparelhos e modelos, concebidos para demonstração (por exemplo: no ensino e nas exposições), não susceptíveis de outros usos: — Modelos, maquetas e quadros murais, de carácter educativo, científico ou cultural, destinados exclusivamente à demonstração e ao ensino — Maquetas ou modelos visuais reduzidos de concepções abstractas tais como estruturas moleculares ou fórmulas matemáticas\n\nDiversos Hologramas para projecção por *laser* Jogos multimédia Material de ensino programado, mesmo sob a forma de expositores acompanhado de material impresso correspondente"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "114268fb4ab8c79b": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva 83/181/CEE do Conselho (JO L 105 de 23.4.1983, p. 38)\n\nDirectiva 85/346/CEE do Conselho (JO L 183 de 16.7.1985, p. 21)\n\nDirectiva 88/331/CEE do Conselho (JO L 151 de 17.6.1988, p. 79)\n\nDirectiva 89/219/CEE da Comissão (JO L 92 de 5.4.1989, p. 13)\n\nDirectiva 91/680/CEE do Conselho (JO L 376 de 31.12.1991, p. 1) Apenas o artigo 2.º, n.º 1, primeiro travessão\n\nActo de Adesão de 1994, anexo I, ponto XIII, B. 4 (JO C 241 de 29.8.1994, p. 276)"
+  },
+  "f082f25874c49f6b": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nDirectiva Prazo de transposição\n\n83/181/CEE 30 de Junho de 1984\n\n85/346/CEE 1 de Outubro de 1985\n\n88/331/CEE 1 de Janeiro de 1989\n\n89/219/CEE 1 de Julho de 1989\n\n91/680/CEE 31 de Dezembro de 1992"
+  },
+  "bc90e72db7b254fd": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 83/181/CEE Presente directiva\n\n— Título I\n\nArtigo 1.º, n.º 1 Artigo 1.º, primeiro e segundo parágrafos\n\nArtigo 1.º, n.º 2, frase introdutória Artigo 2.º, n.º 1, frase introdutória\n\nArtigo 1.º, n.º 2, alínea a) Artigo 2.º, n.º 1, alínea a)\n\nArtigo 1.º, n.º 2, alínea b), primeiro parágrafo Artigo 2.º, n.º 1, alínea b)\n\nArtigo 1.º, n.º 2, alínea b), segundo parágrafo, primeiro e segundo travessões Artigo 2.º, n.º 1, alínea b)\n\nArtigo 1.º, n.º 2, alínea b), terceiro parágrafo Artigo 2.º, n.º 1, alínea b)\n\nArtigo 1.º, n.º 2, alínea b), quarto parágrafo Artigo 2.º, n.º 2\n\nArtigo 1.º, n.º 2, alíneas c), d) e e) Artigo 2.º, n.º 1, alíneas c), d) e e)\n\nPrimeiro título Título II\n\nPrimeiro capítulo Capítulo 1\n\nArtigos 2.º a 5.º Artigos 3.º a 6.º\n\nArtigo 6.º, primeiro e segundo parágrafos Artigo 7.º, n.^os^ 1 e 2\n\nArtigos 7.º a 10.º Artigos 8.º a 11.º\n\nCapítulo II Capítulo 2\n\nArtigo 11.º, n.^os^ 1 e 2 Artigo 12.º, n.º 1, primeiro e segundo parágrafos\n\nArtigo 11.º, n.º 3 Artigo 12.º, n.º 2\n\nArtigo 12.º, frase introdutória Artigo 13.º, primeiro parágrafo, frase introdutória\n\nArtigo 12.º, alínea a), primeira frase Artigo 13.º, primeiro parágrafo, alínea a)\n\nArtigo 12.º, alínea a), segunda frase Artigo 13.º, segundo parágrafo\n\nArtigo 12.º, alínea b) Artigo 13.º, primeiro parágrafo, alínea b)\n\nArtigo 13.º Artigo 14.º\n\nArtigo 14.º, n.º 1, frase introdutória Artigo 15.º, n.º 1, primeiro parágrafo, frase introdutória\n\nArtigo 14.º, n.º 1, primeiro travessão, primeira frase Artigo 15.º, n.º 1, primeiro parágrafo, alínea a)\n\nArtigo 14.º, n.º 1, primeiro travessão, segunda frase Artigo 15.º, n.º 1, segundo parágrafo\n\nArtigo 14.º, n.º 1, segundo travessão Artigo 15.º, n.º 1, primeiro parágrafo, alínea b)\n\nArtigo 14.º, n.º 2 Artigo 15.º, n.º 2\n\nArtigo 15.º Artigo 16.º\n\nCapítulo III Capítulo 3\n\nArtigos 16.º a 19.º Artigos 17.º a 20.º\n\nTítulo II Título III\n\nArtigos 20.º e 21.º Artigos 21.º e 22.º\n\nTítulo III Título IV\n\nArtigos 22.º e 23.º Artigos 23.º e 24.º\n\nTítulo IV Título V\n\nArtigo 24.º, n.º 1 Artigo 25.º, n.º 1\n\nArtigo 24.º, n.º 2, frase introdutória Artigo 25.º, n.º 2, frase introdutória\n\nArtigo 24.º, n.º 2, primeiro e segundo travessões Artigo 25.º, n.º 2, alíneas a) e b)\n\nArtigo 25.º, n.º 1 Artigo 26.º, n.º 1\n\nArtigo 25.º, n.º 2 —\n\nArtigo 25.º, n.º 3 Artigo 26.º, n.º 2\n\nArtigos 26.º, 27.º e 28.º Artigos 27.º, 28.º e 29.º\n\nTítulo V Título VI\n\nPrimeiro capítulo Capítulo I\n\nArtigo 29.º, n.º 1 Artigo 30.º, n.º 1, primeiro parágrafo\n\nArtigo 29.º, n.º 2 Artigo 30.º, n.º 2\n\nArtigo 29.º, n.º 3 Artigo 30.º, n.º 1, segundo parágrafo\n\nArtigos 30.º, 31.º e 32.º Artigos 31.º, 32.º e 33.º\n\nCapítulo II Capítulo 2\n\nArtigo 33.º Artigo 34.º\n\nArtigo 34.º, n.^os^ 1 e 2 Artigo 35.º, n.º 1, primeiro e segundo parágrafos\n\nArtigo 34.º, n.º 3 Artigo 35.º, n.º 2\n\nTítulo VI Título VII\n\nPrimeiro capítulo Capítulo 1\n\nArtigo 35.º, n.º 1, frase introdutória Artigo 36.º, n.º 1, frase introdutória\n\nArtigo 35.º, n.º 1, alínea a) Artigo 36.º, n.º 1, alínea a)\n\nArtigo 35.º, n.º 1, alínea b) frase introdutória Artigo 36.º, n.º 1, alínea b)\n\nArtigo 35.º, n.º 1, alínea b), primeiro travessão —\n\nArtigo 35.º, n.º 1, alínea b), segundo travessão Artigo 36.º, n.º 1, alínea b)\n\nArtigo 35.º, n.º 2, frase introdutória Artigo 36.º, n.º 2, frase introdutória\n\nArtigo 35.º, n.º 2, primeiro e segundo travessões Artigo 36.º, n.º 2, alíneas a) e b)\n\nCapítulo II Capítulo 2\n\nArtigo 36.º, n.º 1 Artigo 37.º, n.º 1\n\nArtigo 36.º, n.º 2, frase introdutória Artigo 37.º, n.º 2, frase introdutória\n\nArtigo 36.º, n.º 2, primeiro, segundo e terceiro travessões Artigo 37.º, n.º 2, alíneas a), b) e c)\n\nArtigos 37.º e 38.º Artigos 38.º e 39.º\n\nCapítulo II-A Capítulo 3\n\nArtigo 38.º-A Artigo 40.º\n\nCapítulo III Capítulo 4\n\nArtigo 39.º Artigo 41.º\n\nTítulo VII Título VIII\n\n— Capítulo 1\n\nArtigo 40.º Artigo 42.º\n\nPrimeiro capítulo Capítulo 2\n\nArtigos 41.º a 45.º Artigos 43.º a 47.º\n\nCapítulo II Capítulo 3\n\nArtigos 46.º, 47.º e 48.º Artigos 48.º, 49.º e 50.º\n\nCapítulo III Capítulo 4\n\nArtigo 49.º, n.^os^ 1 e 2 Artigo 51.º, primeiro e segundo parágrafos\n\nArtigos 50.º a 55.º Artigos 52.º a 57.º\n\nTítulo VIII Título IX\n\nPrimeiro capítulo Capítulo 1\n\nArtigo 56.º Artigo 58.º\n\nCapítulo II Capítulo 2\n\nArtigos 57.º e 58.º Artigos 59.º e 60.º\n\nArtigo 59.º, frase introdutória Artigo 61.º, frase introdutória\n\nArtigo 59.º, primeiro, segundo e terceiro travessões Artigo 61.º, alíneas a), b) e c)\n\nCapítulo III Capítulo 3\n\nArtigo 60.º, primeiro parágrafo, frase introdutória Artigo 62.º, n.º 1, frase introdutória\n\nArtigo 60.º, primeiro parágrafo, alínea a) Artigo 62.º, n.º 1, alínea a)\n\nArtigo 60.º, primeiro parágrafo, alínea b), primeira frase Artigo 62.º, n.º 1, alínea b)\n\nArtigo 60.º, primeiro parágrafo, alínea b), segunda frase Artigo 62.º, n.º 2\n\nArtigo 60.º, segundo parágrafo Artigo 62.º, n.º 3\n\nTítulo IX Título X\n\nPrimeiro capítulo Capítulo 1\n\nArtigo 61.º Artigo 63.º\n\nCapítulo II Capítulo 2\n\nArtigo 62.º, frase introdutória Artigo 64.º, frase introdutória\n\nArtigo 62.º, alínea a) Artigo 64.º, alínea a)\n\nArtigo 62.º, alínea b) —\n\nArtigo 62.º, alínea c) Artigo 64.º, alínea b)\n\nArtigo 63.º, primeiro parágrafo, frase introdutória Artigo 65.º, n.º 1, frase introdutória\n\nArtigo 63.º, primeiro parágrafo, alínea a) Artigo 65.º, n.º 1, alínea a)\n\nArtigo 63.º, primeiro parágrafo, alínea b), primeira frase Artigo 65.º, n.º 1, alínea b)\n\nArtigo 63.º, primeiro parágrafo, alínea b), segunda frase Artigo 65.º, n.º 2\n\nArtigo 63.º, primeiro parágrafo, alínea c) Artigo 65.º, n.º 1, alínea c)\n\nArtigo 63.º, segundo parágrafo —\n\nArtigo 64.º Artigo 66.º\n\nCapítulo III Capítulo 3\n\nArtigo 65.º, n.º 1 Artigo 67.º, n.º 1\n\nArtigo 65.º, n.º 2, frase introdutória Artigo 67.º, n.º 2, primeiro parágrafo, frase introdutória\n\nArtigo 65.º, n.º 2, alíneas a) a e) Artigo 67.º, n.º 2, primeiro parágrafo, alíneas a) a e)\n\nArtigo 66.º, n.º 2, frase final Artigo 67.º, n.º 2, segundo parágrafo\n\nArtigos 66.º a 69.º Artigos 68.º a 71.º\n\nTítulo X Título XI\n\nArtigos 70.º a 73.º Artigos 72.º a 75.º\n\nArtigo 74.º, n.º 1, frase introdutória Artigo 76.º, n.º 1, frase introdutória\n\nArtigo 74.º, n.º 1, primeiro, segundo e terceiro travessões Artigo 76.º, n.º 1, alíneas a), b) e c)\n\nArtigo 74.º, n.º 2 Artigo 76.º, n.º 2\n\nArtigos 75.º e 76.º Artigos 77.º e 78.º\n\nTítulo XI Título XII\n\nPrimeiro capítulo Capítulo 1\n\nArtigo 77.º Artigo 79.º\n\nCapítulo II Capítulo 2\n\nArtigo 78.º Artigo 80.º\n\nCapítulo III Capítulo 3\n\nArtigo 79.º, alíneas a) a q) Artigo 81.º, n.º 1, alíneas a) a q)\n\nArtigo 79.º, alínea r), primeira frase Artigo 81.º, n.º 1, alínea r)\n\nArtigo 79.º, alínea r), segunda frase Artigo 81.º, n.º 2\n\nArtigo 79.º, alínea s) Artigo 81.º, n.º 1, alínea s)\n\nCapítulo IV Capítulo 4\n\nArtigo 80.º Artigo 82.º\n\nCapítulo V Capítulo 5\n\nArtigo 81.º Artigo 83.º\n\nCapítulo VI Capítulo 6\n\nArtigo 82.º, n.º 1, frase introdutória Artigo 84.º, n.º 1, frase introdutória\n\nArtigo 82.º, n.º 1, alínea a), primeiro e segundo travessões Artigo 84.º, n.º 1, alíneas a) i) e a) ii)\n\nArtigo 82.º, n.º 1, alínea b) Artigo 84.º, n.º 1, alínea b)\n\nArtigo 82.º, n.º 2, frase introdutória Artigo 84.º, n.º 2, primeiro parágrafo, frase introdutória\n\nArtigo 82.º, n.º 2, alínea a), primeiro parágrafo, primeiro e segundo travessões, e segundo parágrafo Artigo 84.º, n.º 2, primeiro parágrafo, alínea a)\n\nArtigo 82.º, n.º 2, alínea b) Artigo 84.º, n.º 2, primeiro parágrafo, alínea b)\n\nArtigo 82.º, n.º 2, alínea c), frase introdutória Artigo 84.º, n.º 2, primeiro parágrafo, alínea c), frase introdutória\n\nArtigo 82.º, n.º 2, alínea c), primeiro travessão, primeiro parágrafo Artigo 84.º, n.º 2, primeiro parágrafo, alínea c) i)\n\nArtigo 82.º, n.º 2, alínea c), primeiro travessão, segundo parágrafo Artigo 84.º, n.º 2, segundo parágrafo\n\nArtigo 82.º, n.º 2, alínea c), segundo travessão Artigo 84.º, n.º 2, primeiro parágrafo, alínea c) ii)\n\nArtigo 82.º, n.º 2, alínea d) Artigo 84.º, n.º 2, primeiro parágrafo, alínea d)\n\nArtigo 83.º, primeiro parágrafo, frase introdutória Artigo 85.º, frase introdutória\n\nArtigo 83.º, alínea a) Artigo 85.º, alínea a)\n\nArtigo 83.º, alínea b) —\n\nArtigo 83.º, alínea c) Artigo 85.º, alínea b)\n\nArtigo 83.º, segundo parágrafo —\n\nArtigo 84.º Artigo 86.º\n\nArtigo 85.º, primeiro e segundo parágrafos Artigo 87.º, n.^os^ 1 e 2\n\nArtigo 86.º Artigo 88.º\n\nCapítulo VII Capítulo 7\n\nArtigo 87.º Artigo 89.º\n\nCapítulo VIII Capítulo 8\n\nArtigo 88.º Artigo 90.º\n\nTítulo XII Título XIII\n\nArtigos 89.º, 90.º e 91.º Artigos 91.º, 92.º e 93.º\n\nArtigo 92.º Artigo 94.º\n\nArtigo 93.º, n.º 1 —\n\nArtigo 93.º, n.º 2 Artigo 95.º\n\n— Artigo 96.º\n\n— Artigo 97.º\n\nArtigo 94.º Artigo 98.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "eea6ac693ce0b45b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e107262a-f45d-11eb-aeb9-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 105 de 23.4.1983, p. 1."
+  }
+ }
+}

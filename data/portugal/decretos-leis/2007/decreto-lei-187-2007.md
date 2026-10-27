@@ -1,0 +1,1708 @@
+---
+schema_version: '1.0'
+id: pt:dre:520669:por
+title: Decreto-Lei n.º 187/2007
+short_title: null
+summary: No desenvolvimento da Lei n.º 4/2007, de 16 de Janeiro, aprova o regime de protecção nas eventualidades invalidez
+  e velhice dos beneficiários do regime geral de segurança social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 187/2007
+official_date: null
+publication_date: '2007-05-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 90/2007, Série I de 2007-05-10
+  number: '90'
+  series: I
+  supplement: null
+  pages: 3100 - 3116
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09000/31003116.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-31'
+version_history:
+  file: decreto-lei-187-2007.versoes.json
+  count: 13
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-05-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-01'
+    amending: pt:dre:243747:por
+    amending_title: Lei n.º 64-A/2008
+    changes:
+    - Altera Artigo 33.º
+  - date: '2014-01-01'
+    amending: pt:dre:164427:por
+    amending_title: Decreto-Lei n.º 167-E/2013
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 44.º
+    - Altera Artigo 52.º
+    - Altera Artigo 92.º
+    - Altera Artigo 100.º
+  - date: '2015-01-19'
+    amending: pt:dre:66147743:por
+    amending_title: Decreto-Lei n.º 8/2015
+    changes:
+    - Altera Artigo 36.º
+  - date: '2016-03-09'
+    amending: pt:dre:73803671:por
+    amending_title: Decreto-Lei n.º 10/2016
+    changes:
+    - Altera Artigo 21.º
+  - date: '2017-10-07'
+    amending: pt:dre:108269606:por
+    amending_title: Decreto-Lei n.º 126-B/2017
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 49.º
+    - Altera Artigo 52.º
+    - Revoga Artigo 100.º
+  - date: '2018-05-16'
+    amending: pt:dre:115312061:por
+    amending_title: Decreto-Lei n.º 33/2018
+    changes:
+    - Altera Artigo 48.º
+  - date: '2018-09-22'
+    amending: pt:dre:116417932:por
+    amending_title: Decreto-Lei n.º 73/2018
+    changes:
+    - Altera Artigo 35.º
+  - date: '2019-01-01'
+    amending: pt:dre:117503935:por
+    amending_title: Decreto-Lei n.º 119/2018
+    changes:
+    - Adita Artigo 21.º-A
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 44.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 60.º
+    - Altera Artigo 62.º
+    - Altera Artigo 79.º
+    - Revoga Artigo 38.º
+  - date: '2019-06-15'
+    amending: pt:dre:122572388:por
+    amending_title: Decreto-Lei n.º 79/2019
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 21.º-A
+    - Altera Artigo 36.º
+    - Altera Artigo 44.º
+    - Altera Artigo 62.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 71.º
+    - Altera Artigo 72.º
+    - Altera Artigo 73.º
+    - Altera Artigo 79.º
+    - Altera Anexo II
+  - date: '2021-02-26'
+    amending: pt:dre:158316443:por
+    amending_title: Decreto-Lei n.º 16-A/2021
+    changes:
+    - Adita Artigo 49.º-A
+    - Altera Artigo 21.º
+    - Altera Artigo 21.º-A
+    - Altera Artigo 27.º
+    - Altera Artigo 61.º
+    - Altera Artigo 68.º
+    - Altera Artigo 70.º
+    - Altera Artigo 75.º
+    - Altera Artigo 88.º
+    - Altera Artigo 89.º
+    - Altera Artigo 90.º
+  - date: '2023-03-04'
+    amending: pt:dre:208124553:por
+    amending_title: Decreto-Lei n.º 18/2023
+    changes:
+    - Altera Artigo 11.º
+  - date: '2025-03-31'
+    amending: pt:dre:912444912:por
+    amending_title: Decreto-Lei n.º 40/2025
+    changes:
+    - Adita Artigo 91.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/187/2007/p/cons/20250326/pt/html
+  oj: null
+  dre: '520669'
+  dre_path: /dr/detalhe/decreto-lei/187-2007-520669
+  internal: pt:dre:520669:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669
+  metadata_url: https://data.dre.pt/eli/dec-lei/187/2007/p/cons/20250326/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34524275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-34524275
+  retrieved_at: '2026-10-22T11:48:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bbe176ce88850e8f2fb6b8022c333c9472da42ab19aadb08b3f77642e29c44cf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:48:57Z'
+  notes: 13 versão(ões); histórico completo em decreto-lei-187-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Trabalho
+- Actualização de Pensões
+- Acumulação de Pensões
+- Acumulação de Pensões e Remunerações
+- Tempo de Serviço
+- Aposentação
+- Aposentação Bonificada
+- Beneficiário
+- Cálculo de Pensões
+- Centro Nacional de Pensões
+- Complemento Social de Pensão
+- Contra-ordenação
+- Serviço Militar
+- Invalidez
+- Reforma Antecipada
+- Pensão de Invalidez
+- Pensão de Velhice
+- Doença Profissional
+- Pessoa a Cargo
+- Proteção na Velhice
+- Prazo de Garantia
+- Prestações da Segurança Social
+- Prestações Pecuniárias
+- Desemprego
+- Incapacidade Física
+- Reembolso
+- Reforma
+- Regime Jurídico
+- Remuneração
+- Responsabilidade Civil
+- Segurança Social
+- Incapacidade Permanente
+relationships:
+- type: amended_by
+  target: pt:dre:635845:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-2007-635845
+  date: '2007-06-26'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: Altera Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:164427:por
+  label: Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo
+    25.º; Altera Artigo 27.º; Altera Artigo 35.º; Altera Artigo 36.º; Altera Artigo 37.º; Altera Artigo 38.º; Altera Artigo
+    44.º; Altera Artigo 52.º; Altera Artigo 92.º; Altera Artigo 100.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66147743:por
+  label: Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2015-66147743
+  date: '2015-01-14'
+- type: amended_by
+  target: pt:dre:73803671:por
+  label: Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2016-73803671
+  date: '2016-03-08'
+- type: amended_by
+  target: pt:dre:108269606:por
+  label: Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 35.º; Altera Artigo 36.º; Altera Artigo 49.º; Altera Artigo
+    52.º; Revoga Artigo 100.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606
+  date: '2017-10-06'
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Altera Artigo 48.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
+- type: amended_by
+  target: pt:dre:116417932:por
+  label: Altera Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2018-116417932
+  date: '2018-09-17'
+- type: amended_by
+  target: pt:dre:117503935:por
+  label: Adita Artigo 21.º-A; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo
+    24.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 35.º; Altera Artigo 36.º; Altera Artigo 37.º; Altera Artigo
+    44.º; Altera Artigo 48.º; Altera Artigo 49.º; Altera Artigo 60.º; Altera Artigo 62.º; Altera Artigo 79.º; Revoga Artigo
+    38.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935
+  date: '2018-12-27'
+- type: amended_by
+  target: pt:dre:122572388:por
+  label: Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 21.º-A; Altera Artigo 36.º; Altera Artigo 44.º; Altera Artigo
+    62.º; Altera Artigo 68.º; Altera Artigo 69.º; Altera Artigo 71.º; Altera Artigo 72.º; Altera Artigo 73.º; Altera Artigo
+    79.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388
+  date: '2019-06-14'
+- type: amended_by
+  target: pt:dre:158316443:por
+  label: Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 21.º-A; Altera Artigo 36.º; Altera Artigo 44.º; Altera Artigo
+    62.º; Altera Artigo 68.º; Altera Artigo 69.º; Altera Artigo 71.º; Altera Artigo 72.º; Altera Artigo 73.º; Altera Artigo
+    79.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443
+  date: '2021-02-25'
+- type: amended_by
+  target: pt:dre:208124553:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2023-208124553
+  date: '2023-03-03'
+- type: amended_by
+  target: pt:dre:912444912:por
+  label: Adita Artigo 91.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2025-912444912
+  date: '2025-03-26'
+- type: cites
+  target: pt:dre:223590:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/87/2004/04/17/p/dre
+- type: cites
+  target: pt:dre:240378:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/125/2005/08/03/p/dre
+- type: cites
+  target: pt:dre:278032:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/35/2002/02/19/p/dre
+- type: cites
+  target: pt:dre:512396:por
+  label: null
+  source: http://data.dre.pt/eli/port/56/1994/01/21/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/2006/11/03/p/dre
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/141/1991/04/10/p/dre
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+- type: cites
+  target: pt:dre:667887:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
+article_structure:
+  article_count: 118
+  section_count: 38
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:48:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 187/2007
+
+O sistema de segurança social português conheceu nos últimos anos a influência crescente e determinante de novos factores - de raiz demográfica, económica e social - que, sendo comuns à generalidade dos países mais desenvolvidos, reclamam aqui, pelas suas acrescidas vulnerabilidades, uma atenção especial. Com efeito, tal como aqueles países, Portugal enfrenta os desafios colocados pelo envelhecimento demográfico e pela evolução das taxas de actividade da população. Se à sociedade é exigido o aprofundamento de mecanismos, institucionalizados ou informais, de solidariedade intergeracional, ao Estado impõe-se o desenvolvimento de novas respostas estruturais e integradas nos sectores particularmente sensíveis àqueles problemas, ou seja, não apenas o sistema de protecção social mas também a saúde, os sistemas de emprego e de educação. Acresce o facto de a segurança social portuguesa, por razões que se prendem com a maturação tardia do sistema, mas também com as fragilidades estruturais da nossa economia, ter de enfrentar uma exigência acrescida, nomeadamente quando confrontada com a realidade europeia: a necessidade de ver aprofundados os seus níveis e instrumentos de protecção social, que lhe permitam, antes de mais, combater, com eficácia, a pobreza e a desigualdade social, de dimensão ainda hoje expressiva e preocupante.
+
+Atendendo a que o envelhecimento da população tem expressão a médio mas sobretudo a longo prazo, os governos e cada vez mais instituições avaliam hoje a dimensão do seu impacte na economia e nas finanças públicas. No plano orçamental, são já hoje notórias as mudanças, afirmando-se nas diferentes legislações, por exemplo, o princípio da sustentabilidade social, económica e financeira da segurança social, que encontra por sua vez respaldo técnico adequado em novos instrumentos de previsão e avaliação: cenários e projecções de longo prazo, de evolução de receitas e despesas e planeamento, de médio prazo, das despesas.
+
+Tendo presentes todas estas vicissitudes e exigências, o XVII Governo Constitucional assumiu, desde logo, no seu Programa, o objectivo da promoção da sustentabilidade de longo prazo do sistema de segurança social português. Paralelamente e como forma de garantir o reforço da justiça no sistema de protecção social e a defesa do emprego e da produtividade, mormente dos trabalhadores mais velhos, muitas vezes afastados precoce e involuntariamente do mercado de trabalho, reforçou-se a consagração do princípio do envelhecimento activo, cuja concretização passa justamente por alterações de fundo de regras de incentivos à permanência no mercado de trabalho. Estes princípios foram recentemente consolidados num importante acordo sobre a reforma da segurança social, subscrito pelo Governo e pela generalidade dos parceiros sociais, com assento na Comissão Permanente de Concertação Social.
+
+A aprovação do presente decreto-lei procura assim concretizar as medidas mais adequadas para enfrentar os riscos do envelhecimento demográfico, designadamente através da alteração das regras de cálculo das pensões por velhice e invalidez. Desde logo, na pensão por velhice, prevê-se a aplicação, na determinação do montante das pensões, de um factor de sustentabilidade, relacionado com a evolução da esperança média de vida e que é elemento fundamental de adequação do sistema de pensões às modificações de origem demográfica ou económica. Dispõe-se concretamente que o factor de sustentabilidade resulta da relação entre a esperança média de vida em 2006 e aquela que vier a verificar-se no ano anterior ao do requerimento da pensão. Ainda assim, salvaguarda-se que este mecanismo só venha a entrar em vigor a partir de 2008, facultando a todos um melhor conhecimento e antecipação dos respectivos efeitos e até a possibilidade de poderem neutralizar esses efeitos no cálculo das pensões, através de um conjunto de opções estratégicas, garantidas não apenas no quadro da aplicação do presente decreto-lei mas também de outros que com ele necessariamente se articularão. Assim, por exemplo, querendo compensar o impacte da aplicação do factor de sustentabilidade, poderão os beneficiários optar: i) ou por trabalhar, mais algum tempo, após a idade de reforma, regulando-se no presente decreto-lei, justamente, a bonificação na formação da pensão por cada mês de trabalho efectivo para além do momento de acesso à pensão completa ii) ou por descontar voluntariamente para o novo regime complementar público de contas individuais, a regular em diploma próprio, de que advirão ganhos adicionais no montante da pensão a atribuir.
+
+Ainda no domínio do cálculo das pensões de reforma, prevê-se a aceleração do período de passagem à nova fórmula de cálculo das pensões, introduzida com o Decreto-Lei n.º 35/2002, de 19 de Fevereiro, afirmando-se, de forma inequívoca e por razões de justiça, o princípio da contributividade no cálculo das pensões.
+
+Depois, e para dar concretização ao princípio do envelhecimento activo, alteram-se, de forma significativa, as regras em matéria de flexibilidade da idade de reforma. Na verdade, tendo-se apurado que o factor de penalização de 4,5% por cada ano de antecipação, previsto no regime anterior de flexibilidade da idade de reforma, não garantia a neutralidade actuarial e financeira do regime, antes comportando custos elevados para o sistema (o que justificou, aliás, a sua suspensão, em 2005), procede-se agora, conforme previsto no mencionado Acordo de Reforma da Segurança Social, à fixação de um factor de redução actuarialmente neutro e justo, de 0,5% por cada mês de redução relativamente à idade de 65 anos.
+
+No entanto, procurando definir com clareza as balizas temporais de aplicação dos factores de redução referidos, o presente decreto-lei clarifica que, para as situações de acesso à pensão antecipada por velhice na sequência de desemprego de longa duração, seja mantida a aplicação do anterior factor de penalização de 4,5% ao ano a todos os beneficiários que tenham requerido prestações de desemprego até à data de entrada em vigor do Decreto-Lei n.º 125/2005, de 3 de Agosto, mantendo, portanto, os seus direitos independentemente de a sua reforma vir a ocorrer em momento posterior à entrada em vigor do presente decreto-lei.
+
+No sentido ainda de moralizar a opção pelo regime e atendendo às suas consequências quer no sistema de pensões quer no mercado de trabalho, estabelece-se agora a proibição de acumulação da pensão antecipada com a continuação imediata de prestação de trabalho na mesma empresa ou grupo empresarial onde o pensionista desenvolvia a sua actividade profissional antes da reforma.
+
+Ainda no quadro do regime da flexibilidade da idade legal de reforma reforçam-se os incentivos ao envelhecimento activo, revendo o regime do prolongamento da idade de reforma, através de uma nova forma de concessão de bonificação, que passa a ser atribuída por cada mês efectivo de trabalho adicional e diferenciada em função da carreira contributiva. Para além disto introduzem-se mecanismos de bonificação da permanência no mercado de trabalho para os pensionistas que, podendo antecipar a idade de reforma sem qualquer penalização, optem por continuar a trabalhar.
+
+Ainda tendo por objectivo a promoção do envelhecimento activo, o presente decreto-lei atribui agora um tratamento diferenciado às carreiras contributivas muito longas, o que é feito em diferentes momentos. Por um lado, concedendo-se aos beneficiários com carreiras acima de 46 anos e que se reformem durante o período de passagem das regras antigas às novas regras de cálculo das pensões, a possibilidade de optar, caso lhes seja mais favorável, pela pensão que resultar de acordo com a aplicação exclusiva da nova fórmula de cálculo, por outro, salvaguardando-se que, no cálculo das pensões, sejam considerados, para efeitos de ponderação dos períodos contributivos, todos os anos da carreira, ainda que superiores a 40 anos, considerando, contudo, para o cálculo da remuneração de referência apenas os melhores 40 anos.
+
+O presente decreto-lei traz ainda uma outra importante novidade ao nosso ordenamento jurídico. Vem introduzir uma distinção, no regime da protecção social na invalidez, entre a invalidez relativa, até aqui objecto de regulamentação anterior, e a invalidez absoluta, situação a merecer pela primeira vez atenção e tratamento especiais. Na verdade, considera-se que estas situações - que traduzem casos de incapacidade permanente e definitiva para a obtenção de quaisquer meios de subsistência resultantes do exercício de qualquer profissão ou trabalho - devem merecer um cuidado especial, pois, ao contrário do que sucede com a invalidez relativa, não subsistem capacidades remanescentes para o trabalho e são, por isso, situações de gravidade social extrema. Assim sendo, a tutela acrescida que o legislador vem agora, em termos inovadores, conceder traduz-se nos seguintes aspectos: em primeiro lugar, a fixação de um prazo de garantia mais baixo que aquele que se exige para a invalidez relativa (três anos naquela contra os cinco desta); em segundo lugar, a não aplicação do factor de sustentabilidade, no momento da convolação da pensão por invalidez em velhice, sempre que o beneficiário tenha estado numa situação de incapacidade absoluta por um período considerado suficientemente longo que impeça a compensação dos efeitos daquele factor, finalmente, a fixação de uma nova regra em matéria de mínimos sociais, garantindo-se, de forma gradual, a atribuição aos beneficiários de pensões de invalidez absoluta de um valor mínimo de pensão igual ao valor mínimo da pensão de velhice correspondente a uma carreira contributiva completa.
+
+Prevê-se ainda a definição de medidas de activação dos pensionistas de invalidez, a aprovar por legislação própria, que visem a reinserção profissional destes beneficiários no mercado de trabalho, valorizando e incentivando as suas capacidades remanescentes.
+
+O legislador vem agora, também na sequência do Acordo de Reforma da Segurança Social, consagrar um princípio de limitação das pensões de montante elevado com vista a uma maior moralização do sistema. Prevê-se assim a limitação superior das pensões com valor superior a 12 vezes o indexante dos apoios sociais, ainda que garantindo o respeito integral pelo princípio da contributividade, designadamente através das salvaguardas que contempla.
+
+O presente decreto-lei reflecte os contributos decorrentes da reflexão e da discussão técnicas que tiveram lugar em diversos sectores e concretiza especificamente os pontos acordados entre o Governo e os parceiros sociais no Acordo de Reforma da Segurança Social. O presente decreto-lei foi submetido, a título facultativo, a apreciação pública através de publicação na separata n.º 8 do Boletim do Trabalho e Emprego, de 20 de Novembro de 2006.
+
+Foi promovida a consulta à Comissão Nacional de Protecção de Dados.
+
+Foram ainda ouvidos os órgãos de governo próprios das Regiões Autónomas.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 4/2007, de 16 de Janeiro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Princípios fundamentais
+
+#### Secção I — Objecto, natureza, âmbito e titularidade das prestações
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei define e regulamenta o regime jurídico de protecção nas eventualidades invalidez e velhice do regime geral de segurança social, adiante designado por regime geral.
+
+2 - A protecção prevista no presente decreto-lei tem por objectivo compensar a perda de remunerações de trabalho motivada pela ocorrência das eventualidades referidas no número anterior.
+
+###### Artigo 2.º — Caracterização das eventualidades
+
+1 - Integra a eventualidade invalidez toda a situação incapacitante de causa não profissional determinante de incapacidade física, sensorial ou mental permanente para o trabalho.
+
+2 - Integra a eventualidade velhice a situação em que o beneficiário tenha atingido a idade mínima legalmente presumida como adequada para a cessação do exercício da actividade profissional.
+
+3 - Para efeitos do disposto no n.º 1, considera-se situação incapacitante de causa profissional a que resulta de acidente de trabalho ou de doença profissional.
+
+###### Artigo 3.º — Âmbito pessoal
+
+Integram o âmbito pessoal do presente decreto-lei os beneficiários com enquadramento obrigatório no regime geral, para efeitos de protecção nas eventualidades invalidez e velhice.
+
+###### Artigo 4.º — Âmbito material
+
+A protecção nas eventualidades invalidez e velhice é assegurada através da atribuição de prestações pecuniárias mensais, denominadas pensão de invalidez e pensão de velhice.
+
+###### Artigo 5.º — Titularidade das prestações
+
+São titulares do direito às prestações os beneficiários que integrem o âmbito pessoal do presente decreto-lei e satisfaçam as respectivas condições de atribuição.
+
+#### Secção II — Regime da responsabilidade civil de terceiro na protecção na invalidez
+
+###### Artigo 6.º — Responsabilidade civil de terceiro
+
+1 - Existindo responsabilidade civil de terceiro pelo facto determinante da incapacidade que fundamenta a atribuição da pensão de invalidez, não há lugar ao pagamento das respectivas prestações até que o somatório das pensões a que o beneficiário teria direito, se não houvesse tal responsabilidade, atinja o valor da indemnização por perda de capacidade de ganho.
+
+2 - Quando não seja discriminado o valor da indemnização por perda da capacidade de ganho, presume-se que a mesma corresponde a dois terços do valor total da indemnização atribuída.
+
+###### Artigo 7.º — Direito ao reembolso das pensões pagas
+
+Sem prejuízo do disposto no artigo anterior, se tiver havido pagamento de pensões, a instituição gestora tem o direito de exigir o respectivo reembolso.
+
+###### Artigo 8.º — Não pagamento da indemnização por falta de bens penhoráveis
+
+Nos casos em que, por falta de bens penhoráveis, o beneficiário não possa obter do responsável o valor da indemnização devida, não há lugar à aplicação do disposto no artigo 6.º
+
+###### Artigo 9.º — Celebração de acordos
+
+1 - Nos casos em que o pedido de reembolso do valor das pensões não tiver sido judicialmente formulado pela instituição gestora, nenhuma transacção pode ser celebrada com o beneficiário titular do direito à indemnização nem pode ser-lhe efectuado qualquer pagamento com a mesma finalidade sem que se encontre certificado, pela mesma instituição, o pagamento de pensões e o respectivo montante.
+
+2 - Havendo acordo, o responsável pela indemnização deve:
+
+a) Comunicar à instituição gestora o valor total da indemnização devida;
+
+b) Reter e pagar directamente à instituição gestora o valor correspondente ao das pensões pagas, até ao limite do montante da indemnização.
+
+3 - Em caso de incumprimento do disposto nos números anteriores, o terceiro responsável pela indemnização responde solidariamente com o beneficiário pelo reembolso do valor das pensões pagas a este.
+
+### Capítulo II — Condições de atribuição das prestações
+
+#### Secção I — Condições comuns
+
+###### Artigo 10.º — Condições comuns
+
+1 - O reconhecimento do direito às pensões de invalidez e de velhice depende do preenchimento do prazo de garantia e de apresentação de requerimento, sem prejuízo do disposto no número seguinte.
+
+2 - O reconhecimento do direito à pensão provisória de invalidez e à pensão de invalidez, na sequência de verificação de incapacidade permanente promovida oficiosamente, não depende de manifestação de vontade do beneficiário.
+
+3 - Não é reconhecido o direito a pensão de invalidez aos beneficiários que reúnam as condições de atribuição da pensão de velhice nem aos que já sejam titulares da mesma.
+
+###### Artigo 11.º — Totalização de períodos contributivos
+
+1 - Os períodos contributivos cumpridos no âmbito de outros regimes de proteção social, na parte em que não se sobreponham aos períodos contributivos cumpridos no regime geral de segurança social, relevam para os seguintes efeitos:
+
+a) Cumprimento dos prazos de garantia;
+
+b) Condições de acesso à pensão de velhice antecipada no âmbito do regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas;
+
+c) Condições de acesso à pensão de velhice antecipada ou bonificada no âmbito do regime de flexibilização;
+
+d) Condições de acesso à pensão de velhice no âmbito do regime de antecipação nas situações de desemprego involuntário de longa duração;
+
+e) Condições de acesso à pensão de velhice no âmbito do regime de antecipação da idade de pensão de velhice por deficiência;
+
+f) Determinação do fator de redução ou de bonificação correspondente a aplicar no cálculo da pensão;
+
+g) Cômputo dos anos civis com registo de remunerações relevantes para a determinação da taxa anual de formação da pensão nos termos previstos nos artigos 29.º a 31.º
+
+2 - Para efeitos do disposto no número anterior, consideram-se outros regimes de proteção social os regimes especiais de segurança social, o regime de proteção social convergente, os regimes das caixas de reforma ou previdência ainda subsistentes, o regime de segurança social substitutivo constante de instrumento de regulamentação coletiva de trabalho vigente no setor bancário e os regimes dos sistemas de segurança social estrangeiros, de acordo com o disposto em instrumentos internacionais, desde que confiram proteção nas eventualidades de invalidez e velhice.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 18/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2023-208124553), em vigor a partir de 2023-03-04, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-16
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+###### Artigo 12.º — Densidade contributiva
+
+1 - Para efeitos da totalização de períodos contributivos prevista no artigo anterior, são considerados os anos civis em que o total de dias com registo de remunerações seja igual ou superior a 120, sem prejuízo do disposto no n.º 2 do artigo 96.º
+
+2 - Quando, em alguns dos anos civis com remunerações registadas, não se verificar a densidade contributiva, os dias com registo de remunerações neles verificados são tomados em conta no apuramento da densidade contributiva, dando-se como cumprido um ano civil por cada grupo de 120 dias.
+
+3 - Se o número de dias registados num ano civil, contado individualmente ou em conglobação com outros, for superior a 120, não são considerados os dias excedentes para a contagem de outro ano civil.
+
+4 - Sempre que para o apuramento da densidade contributiva haja necessidade de considerar mais de um ano, a sua contagem é feita sequencialmente, sem prejuízo da irrelevância para o efeito dos anos civis que apresentam o mínimo de 120 dias.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+#### Secção II — Condições específicas
+
+##### Subsecção I — Condições específicas da invalidez
+
+###### Artigo 13.º — Tipos de invalidez
+
+Para efeitos da protecção prevista no presente decreto-lei, a invalidez pode ser relativa ou absoluta, nos termos dos artigos seguintes.
+
+###### Artigo 14.º — Invalidez relativa
+
+1 - Considera-se em situação de invalidez relativa o beneficiário que, em consequência de incapacidade permanente, não possa auferir na sua profissão mais de um terço da remuneração correspondente ao seu exercício normal.
+
+2 - A incapacidade para o trabalho é permanente quando seja de presumir que o beneficiário não recupera, dentro dos três anos subsequentes, a capacidade de auferir no desempenho da sua profissão mais de 50% da retribuição correspondente.
+
+3 - A incapacidade referida no número anterior reporta-se ao exercício da última profissão desempenhada pelo beneficiário no âmbito do regime geral.
+
+4 - Se, à data do requerimento da pensão, o beneficiário exercer, simultaneamente, mais de uma profissão abrangida pelo regime geral, a invalidez só lhe é reconhecida se a redução de capacidade de ganho prevista se reportar à profissão com remuneração mais elevada.
+
+###### Artigo 15.º — Invalidez absoluta
+
+1 - Considera-se em situação de invalidez absoluta o beneficiário que se encontre numa situação de incapacidade permanente e definitiva para toda e qualquer profissão ou trabalho.
+
+2 - A situação de incapacidade considera-se permanente e definitiva quando o beneficiário não apresenta capacidades de ganho remanescentes nem seja de presumir que o beneficiário venha a recuperar, até à idade legal de acesso à pensão de velhice, a capacidade de auferir quaisquer meios de subsistência.
+
+###### Artigo 16.º — Prazo de garantia
+
+1 - O prazo de garantia para atribuição da pensão de invalidez relativa é de cinco anos civis, seguidos ou interpolados, com registo de remunerações, nos termos do disposto no artigo 12.º
+
+2 - O prazo de garantia para atribuição da pensão de invalidez absoluta é de três anos civis, seguidos ou interpolados, com registo de remunerações, nos termos do disposto no artigo 12.º
+
+3 - Não é exigível o cumprimento do prazo de garantia nos casos em que o beneficiário esgote o período de 1095 dias de registo de remunerações por equivalência à entrada de contribuições por motivo de doença e lhe seja certificada situação de incapacidade permanente para o trabalho.
+
+4 - Nas situações em que por força da revisão da incapacidade, prevista no presente decreto-lei, passe a ser atribuída pensão de invalidez relativa, o pensionista mantém o direito a esta pensão mesmo que não preencha o respectivo prazo de garantia.
+
+###### Artigo 17.º — Certificação da invalidez
+
+1 - O reconhecimento do direito à pensão de invalidez depende ainda da certificação da situação de invalidez.
+
+2 - A situação de invalidez é certificada pelo sistema de verificação de incapacidades em função da incapacidade permanente para o trabalho apresentada pelo beneficiário, nos termos definidos por lei.
+
+3 - O reconhecimento do direito a pensão de invalidez nas situações de existência de incapacidade anterior à data de inscrição do beneficiário no sistema de segurança social depende da verificação de um agravamento posterior determinante de incapacidade permanente para o exercício da profissão.
+
+###### Artigo 18.º — Vinculação sucessiva a outros regimes
+
+Se, à data em que for requerida a pensão, tiver cessado o registo de remunerações, no âmbito do regime geral, por período ininterrupto superior a 12 meses, e o beneficiário estiver a exercer actividade abrangida por diferente regime, ainda que de outro sistema de protecção social, nacional ou estrangeiro, a concessão da pensão fica dependente do reconhecimento, pelo sistema de verificação de incapacidades, da situação de invalidez em relação a essa actividade.
+
+##### Subsecção II — Condições específicas da velhice
+
+###### Artigo 19.º — Prazo de garantia
+
+O prazo de garantia para atribuição da pensão de velhice é de 15 anos civis, seguidos ou interpolados, com registo de remunerações, nos termos do disposto no artigo 12.º
+
+###### Artigo 20.º — Idade normal de acesso à pensão de velhice
+
+1 - O reconhecimento do direito à pensão de velhice depende ainda de o beneficiário ter idade igual ou superior à idade normal de acesso à pensão de velhice definida nos termos dos números seguintes, sem prejuízo dos seguintes regimes e medidas especiais de antecipação:
+
+a) Regime de flexibilização da idade de pensão de velhice;
+
+b) Regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas;
+
+c) Regimes de antecipação da idade de pensão de velhice, por motivo da natureza especialmente penosa ou desgastante da actividade profissional exercida, expressamente reconhecida por lei;
+
+d) Medidas temporárias de protecção específica a actividades ou empresas por razões conjunturais;
+
+e) Regime de antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração.
+
+2 - A idade normal de acesso à pensão de velhice em 2014 e 2015 é igual a 65 anos mais o número de meses necessários à compensação do efeito redutor no cálculo das pensões resultante da aplicação do fator de sustentabilidade correspondente a 2013, calculado nos termos do n.º 3 do artigo 35.º, tendo por referência a taxa mensal de bonificação de 1%.
+
+3 - Após 2014 a idade normal de acesso à pensão de velhice varia em função da evolução da esperança média de vida aos 65 anos de idade, e corresponde à idade normal de acesso à pensão de velhice em 2014 acrescida do número de meses apurados pela aplicação da seguinte fórmula:
+
+(ver documento original)
+
+4 - Para efeitos da aplicação da fórmula referida no número anterior, entende-se por:
+
+«m» o número de meses a acrescer à idade normal de acesso à pensão relativa a 2014;
+
+«n» o ano de início da pensão;
+
+«EMV» a esperança média de vida aos 65 anos.
+
+5 - O número de meses obtido por aplicação da fórmula prevista no n.º 3 é aproximado, por excesso ou por defeito, à unidade mais próxima.
+
+6 - A idade normal de acesso à pensão de velhice mantém-se em 65 anos relativamente aos beneficiários que se encontrem impedidos legalmente de continuar a prestar o trabalho ou atividade para além daquela idade e que os tenham efetivamente prestado, pelo menos, nos cinco anos civis imediatamente anteriores ao ano de início da pensão.
+
+7 - Para efeitos do número anterior, os beneficiários devem apresentar declaração que comprove a prestação de trabalho ou da atividade, emitida pelo empregador, pelo prestador do serviço, ou pela entidade beneficiária da atividade prestada, consoante os casos.
+
+8 - A idade pessoal de acesso à pensão de velhice é a que resulta da redução, por relação à idade normal de acesso à pensão em vigor, de 4 meses por cada ano civil que exceda os 40 anos de carreira contributiva com registo de remunerações relevantes para cálculo da pensão, que o beneficiário possua à data da apresentação do requerimento da pensão ou na data indicada por este no requerimento com efeitos diferidos, não podendo a redução resultar no acesso à pensão de velhice antes dos 60 anos de idade.
+
+9 - A idade normal de acesso à pensão, determinada nos termos dos números anteriores, consta de portaria do membro do Governo responsável pela área da solidariedade e da segurança social, a publicar no segundo ano civil imediatamente anterior.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935) O regime de flexibilização da idade de pensão de velhice, previsto na alínea a) do n.º 1 do artigo 20.º produz efeitos nos seguintes termos: a) A partir de 1 de janeiro de 2019, aplica-se aos beneficiários com idade igual ou superior a 63 anos e cujas pensões tenham início a partir daquela data; b) A partir de 1 de outubro de 2019, aplicam-se aos beneficiários cujas pensões tenham início a partir daquela data. 3 - Até à produção de efeitos prevista na alínea b) do número anterior, os beneficiários com idade inferior a 63 anos mantêm a possibilidade de acesso à pensão de velhice através do regime de flexibilização da idade de pensão de velhice em vigor em 31 de dezembro de 2018, sendo a pensão calculada nos termos desse regime.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 21.º — Flexibilização da idade de pensão de velhice
+
+1 - A flexibilização da idade de acesso à pensão de velhice, prevista na alínea a) do n.º 1 do artigo anterior, consiste no direito de requerer a pensão em idade inferior ou superior à idade pessoal ou à idade normal de acesso à pensão de velhice vigente no ano de início da pensão de velhice antecipada ou bonificada.
+
+2 - Tem direito à antecipação da idade de pensão de velhice, no âmbito do número anterior, o beneficiário que, tendo cumprido o prazo de garantia, tenha, pelo menos, 60 anos de idade e que, enquanto tiver essa idade, tenha 40 ou mais anos de registo de remunerações relevantes para cálculo da pensão.
+
+3 - A flexibilização da idade de pensão de velhice pode verificar-se no âmbito do regime da pensão unificada.
+
+4 - (Revogado).
+
+5  -( Revogado).
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 85-A/2012 - Diário da República n.º 69/2012, 1º Suplemento, Série I de 2012-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2012-204462) Determinada a suspensão, nos termos do artigo 1.º do Decreto-Lei 85-A/2012, de 05 de abril, da vigência da norma constante do n.º 2 do presente artigo.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 10/2016 - Diário da República n.º 47/2016, Série I de 2016-03-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2016-73803671), em vigor a partir de 2016-03-09
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 21.º-A — Antecipação da idade de pensão de velhice por carreiras contributivas muito longas
+
+1 - A antecipação da idade de acesso à pensão de velhice, prevista na alínea b) do n.º 1 do artigo 20.º, consiste no direito de acesso à pensão de velhice dos beneficiários que à data de início da pensão cumpram os seguintes requisitos:
+
+a) Idade igual ou superior a 60 anos e, pelo menos, 48 anos civis com registo de remunerações relevantes para cálculo da pensão;
+
+b) Idade igual ou superior a 60 anos e, pelo menos, 46 anos civis com registo de remunerações relevantes para cálculo da pensão, com início de carreira contributiva no regime geral de segurança social ou no regime de proteção social convergente em idade inferior a 17 anos.
+
+2 - Para efeitos do disposto no número anterior, não releva o tempo de carreira contributiva que corresponda a tempo bonificado contado ao abrigo do disposto no artigo 49.º
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+###### Artigo 22.º — Antecipação da idade de pensão de velhice por motivo da natureza da actividade exercida
+
+A antecipação da idade de pensão de velhice, prevista na alínea c) do n.º 1 do artigo 20.º, é estabelecida por lei que defina as respetivas condições de atribuição, designadamente a natureza especialmente penosa ou desgastante da atividade profissional exercida pelo beneficiário e as particularidades específicas relevantes no seu exercício.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 23.º — Antecipação da idade de pensão de velhice por razões conjunturais
+
+A antecipação da idade de pensão de velhice, no âmbito das medidas temporárias de proteção específica previstas na alínea d) do n.º 1 do artigo 20.º, é estabelecida por lei e tem como limite os 55 anos de idade do beneficiário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 24.º — Antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração
+
+A antecipação da idade de pensão de velhice nas situações de desemprego involuntário de longa duração previstas na alínea e) do n.º 1 do artigo 20.º é estabelecida por lei e tem como limite os 57 anos de idade do beneficiário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 25.º — Suporte financeiro da antecipação da idade de pensão de velhice
+
+1 - A antecipação da idade de pensão de velhice pressupõe a existência de adequado suporte financeiro para o efeito.
+
+2 - No regime de flexibilização da idade de pensão, previsto na alínea a) do n.º 1 do artigo 20.º, o suporte financeiro da antecipação da pensão é garantido pela aplicação de adequado fator de redução da pensão de velhice.
+
+3 - Nos restantes regimes e medidas de antecipação da idade de pensão de velhice, previstos nas alíneas c), d) e e) do n.º 1 do artigo 20.º, o suporte financeiro da antecipação da pensão de velhice é previsto em lei especial que estabeleça o respetivo financiamento.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 85-A/2012 - Diário da República n.º 69/2012, 1º Suplemento, Série I de 2012-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2012-204462) Determinada a suspensão, nos termos do artigo 1.º do Decreto-Lei 85-A/2012, de 05 de abril, da vigência da norma constante do n.º 2 do presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+### Capítulo III — Determinação do montante das pensões de invalidez e de velhice
+
+#### Secção I — Pensão estatutária
+
+##### Subsecção I — Elementos de cálculo
+
+###### Artigo 26.º — Montante
+
+1 - A pensão estatutária é a que resulta da aplicação das regras de cálculo da pensão.
+
+2 - O montante mensal da pensão estatutária é igual ao produto da remuneração de referência pela taxa global de formação da pensão e pelo fator de sustentabilidade, quando aplicável, nos termos previstos na presente secção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+###### Artigo 27.º — Revalorização
+
+1 - Os valores das remunerações registadas a considerar para a determinação da remuneração de referência são actualizados por aplicação do índice geral de preços no consumidor (IPC), sem habitação, sem prejuízo do disposto nos números seguintes.
+
+2 - Os valores das remunerações registadas a partir de 1 de janeiro de 2002, para efeitos do cálculo da pensão com base em toda a carreira contributiva, previstos nos artigos 32.º e 33.º, são atualizados por aplicação de um índice resultante da ponderação de 75% do IPC, sem habitação, e de 25% da evolução média dos ganhos subjacentes às contribuições declaradas à segurança social, sempre que esta evolução seja superior ao IPC, sem habitação, e com observância do limite fixado no número seguinte.
+
+3 - O índice de actualização anual resultante da aplicação do disposto no número anterior não pode ser superior ao IPC, sem habitação, acrescido de 0,5 pontos percentuais.
+
+4 - [Revogado].
+
+5 - A revalorização obtém-se por aplicação às remunerações anuais consideradas para o cálculo da remuneração de referência do coeficiente correspondente a cada um dos anos.
+
+6 - Sempre que da aplicação do disposto nos números anteriores resulte uma atualização negativa dos coeficientes de revalorização das remunerações consideradas para a determinação da remuneração de referência, é suspensa a atualização anual e mantêm-se em vigor os coeficientes de revalorização aplicáveis no ano anterior.
+
+7 - A revalorização das remunerações nos anos seguintes àqueles em que se verifique o disposto no número anterior é deduzida dos efeitos da desvalorização ocorrida, até que esta seja compensada.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 323/2009 - Diário da República n.º 248/2009, Série I de 2009-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2009-481915) Suspenso o regime de actualização das remunerações registadas a considerar para a determinação da remuneração de referência que serve de base de cálculo às pensões, previsto nos n.os 1 e 2 do presente artigo, pelo Decreto-Lei 323/2009, de 24 de dezembro, que estabelece a forma de actualização para vigorar durante o ano de 2010.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 28.º — Remuneração de referência
+
+1 - A remuneração de referência para efeitos do cálculo das pensões é definida pela fórmula TR/(n x 14), em que TR representa o total das remunerações anuais revalorizadas, nos termos do artigo anterior, de toda a carreira contributiva e n o número de anos civis com registo de remunerações, até ao limite de 40.
+
+2 - Quando o número de anos civis com registo de remunerações for superior a 40, considera-se, para apuramento da remuneração de referência, a soma das 40 remunerações anuais, revalorizadas, mais elevadas.
+
+3 - Sem prejuízo do disposto nos números anteriores, a remuneração de referência, para efeitos de determinação de P1, a que se refere o artigo 33.º, é definida pela fórmula R/140, em que R representa o total das remunerações dos 10 anos civis a que correspondam as remunerações mais elevadas, compreendidos nos últimos 15 anos da carreira contributiva até ao mês de início da pensão, com registo de remunerações.
+
+4 - Nos casos em que o número de anos civis com registo de remunerações seja inferior a 10, a remuneração de referência a que alude o número anterior obtém-se dividindo o total das remunerações registadas pelo produto de 14 vezes o número de anos civis a que as mesmas correspondam.
+
+5 - Quando, pela natureza e antiguidade dos registos de remunerações existentes nas instituições de segurança social, se não mostrar tecnicamente possível a aplicação dos critérios estabelecidos nos n.os 1 e 3, são considerados os valores convencionais de remunerações fixados na Portaria n.º 56/94, de 21 de Janeiro, nos termos nesta estabelecidos e sem prejuízo da possibilidade aí prevista de os beneficiários comprovarem, relativamente a todos os anos a que a mesma se aplique, os valores das remunerações efectivamente auferidas e que sejam base de incidência contributiva para a segurança social.
+
+###### Artigo 29.º — Taxa de formação da pensão
+
+1 - A taxa anual de formação da pensão varia entre 2,3% e 2%, em função do número de anos civis com registo de remunerações e do montante da remuneração de referência, de acordo com o estabelecido no presente decreto-lei.
+
+2 - A taxa global de formação da pensão é igual ao produto da taxa anual pelo número de anos civis relevantes, no máximo de 40.
+
+3 - São relevantes para a taxa de formação da pensão os anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações.
+
+4 - Quando, em alguns dos anos com remunerações registadas, não se verificar a densidade contributiva estabelecida no número anterior, aplica-se o disposto nos n.os 2, 3 e 4 do artigo 12.º
+
+###### Artigo 30.º — Taxa de formação da pensão dos beneficiários com 20 ou menos anos de registo de remunerações
+
+1 - A taxa anual de formação da pensão dos beneficiários com 20 ou menos anos civis de registo de remunerações é de 2% por cada ano civil relevante.
+
+2 - A taxa global de formação da pensão dos beneficiários referidos no número anterior é igual ao produto de 2% pelo número de anos civis relevantes, com o limite mínimo de 30%.
+
+###### Artigo 31.º — Taxa de formação da pensão dos beneficiários com 21 ou mais anos de registo de remunerações
+
+1 - A taxa anual de formação da pensão dos beneficiários com 21 ou mais anos civis com registo de remunerações é regressiva por referência ao valor da respectiva remuneração de referência, nos termos da tabela constante do anexo I do presente decreto-lei, que deste faz parte integrante.
+
+2 - A taxa global de formação da pensão dos beneficiários referidos no número anterior é, em cada uma das parcelas que compõem a remuneração de referência, igual ao produto da taxa anual pelo número de anos civis relevantes, com o limite de 40.
+
+##### Subsecção II — Cálculo das pensões
+
+###### Artigo 32.º — Regras aplicáveis aos beneficiários inscritos a partir de 1 de Janeiro de 2002
+
+1 - A pensão estatutária dos beneficiários com 20 ou menos anos civis com registo de remunerações é apurada pela aplicação da seguinte fórmula:
+
+P = RR x 2% x N
+
+2 - A pensão estatutária dos beneficiários com 21 ou mais anos civis de registo de remunerações é obtida pela aplicação das seguintes regras de cálculo:
+
+a) Se a remuneração de referência for igual ou inferior a 1,1 IAS:
+
+P = RR x 2,3% x N
+
+b) Se a remuneração de referência for superior a 1,1 IAS e igual ou inferior a 2 IAS:
+
+P = (1,1 IAS x 2,3% x N) + [(RR - 1,1 IAS) x 2,25% x N]
+
+c) Se a remuneração de referência for superior a 2 IAS e igual ou inferior a 4 IAS:
+
+P = (1,1IAS x 2,3% x N) + (0,9IAS x 2,25% x N) + [(RR - 2IAS) x 2,2% x N]
+
+d) Se a remuneração de referência for superior a 4 IAS e igual ou inferior a 8 IAS:
+
+P = (1,1 IAS x 2,3% x N) + (0,9 IAS x 2,25% x N) + (2 IAS x 2,2% x N) + [(RR - 4 IAS) x 2,1% x N]
+
+e) Se a remuneração de referência for superior a 8 IAS:
+
+P = (1,1 IAS x 2,3% x N) + (0,9 IAS x 2,25% x N) + (2 IAS x 2,2% x N) + (4 IAS x 2,1% x N) + [(RR - 8 IAS) x 2% x N]
+
+3 - Para efeitos da aplicação das fórmulas referidas nos números anteriores, entende-se por:
+
+«P» o montante mensal da pensão estatutária;
+
+«RR» a remuneração de referência;
+
+«N» o número de anos civis com registo de remunerações relevantes para os efeitos da taxa de formação da pensão, com o limite de 40;
+
+«IAS» o indexante dos apoios sociais, tal como definido na lei.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 59/2007 - Diário da República n.º 121/2007, Série I de 2007-06-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-2007-635845), em vigor a partir de 2007-06-01
+
+###### Artigo 33.º — Regras aplicáveis aos beneficiários inscritos até 31 de Dezembro de 2001
+
+1 - A pensão estatutária dos beneficiários inscritos até 31 de Dezembro de 2001 e que iniciem pensão até 31 de Dezembro de 2016 resulta da aplicação da fórmula seguinte:
+
+P = (P1 x C1 + P2 x C2)/C
+
+2 - A pensão estatutária dos beneficiários inscritos até 31 de Dezembro de 2001 e que iniciem pensão após 1 de Janeiro de 2017 resulta da aplicação da fórmula seguinte:
+
+P = (P1 x C3 + P2 x C4)/C
+
+3 - Para efeitos da aplicação das fórmulas referidas nos números anteriores, entende-de por:
+
+«P» o montante mensal da pensão estatutária;
+
+«P1» a pensão calculada por aplicação da regra de cálculo prevista no artigo seguinte;
+
+«P2» a pensão calculada por aplicação das regras de cálculo previstas no artigo anterior;
+
+«C» o número de anos civis da carreira contributiva com registo de remunerações relevantes para os efeitos da taxa de formação de pensão;
+
+«C1» o número de anos civis da carreira contributiva com registo de remunerações relevantes para os efeitos da taxa de formação de pensão completados até 31 de Dezembro de 2006;
+
+«C2» o número de anos civis da carreira contributiva com registo de remunerações relevantes para os efeitos da taxa de formação de pensão completados a partir de 1 de Janeiro de 2007;
+
+«C3» o número de anos civis da carreira contributiva com registo de remunerações relevantes para os efeitos da taxa de formação de pensão completados até 31 de Dezembro de 2001;
+
+«C4» o número de anos civis da carreira contributiva com registo de remunerações relevantes para os efeitos da taxa de formação de pensão completados a partir de 1 de Janeiro de 2002.
+
+4 - Para efeitos de determinação de C1, C2, C3 e C4, previstos nas fórmulas dos números anteriores, considera-se a totalidade dos anos de carreira contributiva, ainda que superior a 40 anos.
+
+5 - Aos beneficiários previstos nos n.os 1 e 2 é garantido o valor de pensão resultante das regras de cálculo constantes no artigo anterior caso este lhes seja mais favorável e superior ao valor mínimo da pensão estabelecido nos artigos 44.º, 45.º e 55.º
+
+> Alterado pelo/a Artigo 63.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01, produz efeitos a partir de 2009-01-01
+
+###### Artigo 34.º — Regras de cálculo para determinação de P1
+
+1 - P1 é igual ao produto da taxa global de formação da pensão pelo valor da remuneração de referência, determinada nos termos dos n.os 3 e seguintes do artigo 28.º
+
+2 - A taxa anual de formação da pensão é de 2% por cada ano civil com registo de remunerações.
+
+3 - A taxa global de formação da pensão é o produto da taxa anual pelo número de anos civis com registo de remunerações, tendo por limites mínimo e máximo, respectivamente, 30% e 80%.
+
+###### Artigo 35.º — Factor de sustentabilidade
+
+1 - No momento do cálculo da pensão de velhice, ao montante da pensão estatutária é aplicável o fator de sustentabilidade correspondente ao ano de início da pensão, sem prejuízo do disposto no n.º 5.
+
+2 - [Revogado].
+
+3 - O fator de sustentabilidade é definido pela seguinte fórmula:
+
+(ver documento original)
+
+4 - Para efeitos da aplicação da fórmula referida no número anterior, entende-se por:
+
+«FS» o fator de sustentabilidade;
+
+«EMV(índice 2000)» a esperança média de vida aos 65 anos verificada em 2000;
+
+«EMV(índice anoi-1)» a esperança média de vida aos 65 anos verificada no ano anterior ao de início da pensão.
+
+5 - Fica salvaguardado da aplicação do fator de sustentabilidade o cálculo das seguintes pensões estatutárias:
+
+a) Pensões de invalidez;
+
+b) Pensões de velhice resultantes da convolação das pensões de invalidez;
+
+c) Pensões de velhice dos beneficiários que passem à situação de pensionistas na idade normal ou na idade pessoal de acesso à pensão, ou em idade superior;
+
+d) Pensões de velhice do regime de flexibilização da idade;
+
+e) Pensões de velhice do regime de antecipação por carreiras contributivas muito longas.
+
+6 - [Revogado].
+
+7 - O indicador da esperança média de vida aos 65 anos relativa a cada ano é objecto de publicação pelo Instituto Nacional de Estatística.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2018 - Diário da República n.º 179/2018, Série I de 2018-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2018-116417932), em vigor a partir de 2018-09-22, produz efeitos a partir de 2018-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+#### Secção II — Pensão antecipada
+
+###### Artigo 36.º — Montante da pensão antecipada
+
+1 - O montante da pensão antecipada de velhice atribuída no âmbito do disposto na alínea a) do n.º 1 do artigo 20.º é calculado pela aplicação de um fator de redução ao valor da pensão estatutária, calculada nos termos gerais.
+
+2 - O factor de redução é determinado pela fórmula 1 - x, em que x é igual à taxa global de redução.
+
+3 - A taxa global de redução é o produto da taxa mensal de 0,5% pelo número de meses de antecipação considerados para o efeito.
+
+4 - O número de meses de antecipação é apurado entre a data da apresentação do requerimento da pensão antecipada ou, quando aplicável, entre a data indicada pelo beneficiário no requerimento apresentado com efeitos diferidos, e a idade pessoal de acesso à pensão de velhice do beneficiário, ou a idade normal de acesso à pensão de velhice em vigor.
+
+5 - [Revogado].
+
+6 - Os beneficiários com pensão antecipada, reduzida nos termos dos números anteriores, que tenham cessado o exercício de actividade podem continuar a contribuir para efeito de acréscimo do montante da pensão, nos termos da lei.
+
+7 - O montante da pensão antecipada atribuída ao abrigo do regime previsto no artigo 21.º-A é calculado nos termos gerais, sem aplicação do disposto nos números anteriores ou do artigo 37.º
+
+8 - O montante da pensão antecipada atribuída ao abrigo dos regimes especiais previstos nas alíneas c), d) e e) do n.º 1 do artigo 20.º é calculado nos termos gerais, com as particularidades previstas na lei especial que se lhes aplique.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 85-A/2012 - Diário da República n.º 69/2012, 1º Suplemento, Série I de 2012-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2012-204462) Determinada a suspensão, nos termos do artigo 1.º do Decreto-Lei 85-A/2012, de 05 de abril, da vigência das normas constantes dos n.ºs 1,2,3,4 e 5 do presente artigo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2015 - Diário da República n.º 9/2015, Série I de 2015-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2015-66147743), em vigor a partir de 2015-01-19, produz efeitos a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+#### Secção III — Pensão bonificada
+
+###### Artigo 37.º — Montante da pensão bonificada
+
+1 - O montante da pensão estatutária de velhice atribuída a beneficiário com idade superior à idade pessoal ou à idade normal de acesso à pensão em vigor e, pelo menos, 15 anos com registo de remunerações relevantes para efeitos da taxa de formação da pensão é calculado nos termos gerais e bonificado pela aplicação do fator definido no número seguinte.
+
+2 - O factor de bonificação é determinado pela fórmula 1 + y, em que y é igual à taxa global de bonificação.
+
+3 - A taxa global de bonificação é o produto da taxa mensal pelo número de meses a bonificar compreendidos entre o mês em que o beneficiário atinja a idade pessoal ou a idade normal de acesso à pensão de velhice em vigor e o mês de início da pensão, com o limite de 70 anos.
+
+4 - A taxa mensal de bonificação varia em função do número de anos civis com registo de remunerações que o beneficiário tenha cumprido à data do início da pensão, nos termos da tabela constante do anexo II do presente decreto-lei, que deste faz parte integrante.
+
+5 - Para efeitos de apuramento da taxa global de bonificação referida no n.º 3 relevam os meses com registo de remunerações por trabalho efectivo.
+
+6 - O montante da pensão bonificada não pode ser superior a 92% da melhor das remunerações de referência que tenham servido de base ao cálculo da pensão estatutária.
+
+7 - Quando o beneficiário activo falecer sem ter requerido a pensão, ainda que reunindo as condições de bonificação previstas nos números anteriores, o montante da pensão bonificada deve ser considerado para efeito de cálculo da pensão de sobrevivência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 38.º — Bonificação de períodos contributivos cumpridos antes da idade normal de acesso à pensão
+
+1 - Sem prejuízo do disposto no artigo anterior, o montante da pensão estatutária de velhice dos beneficiários que, pela observância da regra prevista no n.º 5 do artigo 36.º, possam requerer pensão de velhice antecipada sem redução e não o façam é, ainda, bonificado pela aplicação do factor definido no número seguinte.
+
+2 - O factor de bonificação é determinado pela fórmula 1 + z, em que z é igual à taxa global de bonificação.
+
+3 - A taxa global de bonificação é o produto da taxa mensal de 0,65% pelo número de meses compreendidos entre o mês em que se verificaram as condições de acesso à pensão antecipada sem redução e a idade normal de acesso à pensão de velhice em vigor, ou a data de início da pensão, se esta tiver lugar em idade inferior.
+
+4 - No apuramento da taxa global de bonificação referida no número anterior observam-se as disposições previstas nos n.os 5 e 6 do artigo anterior.
+
+5 - O disposto no n.º 7 do artigo anterior é aplicável às situações abrangidas no presente artigo.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+#### Secção IV — Pensão proporcional
+
+###### Artigo 39.º — Montante da pensão proporcional
+
+1 - As pensões com prazo de garantia preenchido por recurso à totalização de períodos contributivos verificados noutros regimes de protecção social, nos termos do artigo 11.º, são calculadas nos termos gerais, mas o seu montante é reduzido à fracção correspondente à relação entre o período contributivo cumprido no regime geral e o prazo de garantia legalmente exigido.
+
+2 - Se, para efeito de totalização, forem tomados em consideração períodos contributivos de regime de segurança social estrangeiro, o cálculo da pensão é efectuado nos termos do instrumento internacional aplicável.
+
+#### Secção V — Pensão regulamentar
+
+###### Artigo 40.º — Montante da pensão regulamentar
+
+O quantitativo mensal da pensão regulamentar é igual ao montante da pensão estatutária, acrescido dos valores respeitantes:
+
+a) Às actualizações das pensões;
+
+b) Aos acréscimos decorrentes de actividade exercida em acumulação, se for caso disso.
+
+###### Artigo 41.º — Montantes adicionais das pensões
+
+Nos meses de Julho e Dezembro de cada ano, os pensionistas têm direito a receber, além da pensão mensal que lhes corresponda, um montante adicional de igual quantitativo.
+
+> Nota: [Artigo 11.º, Portaria n.º 432-A/2012 - Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/432-a-2012-632426) Determinada a suspensão ou redução, nos termos do art. 77º da Lei 66-B/2012, de 31 de dezembro, dos montantes adicionais das pensões previstos no presente artigo, pela Portaria 432-A/2012, de 31 de dezembro.
+
+###### Artigo 42.º — Actualização das pensões
+
+Os valores das pensões são actualizados anualmente segundo as regras legalmente definidas.
+
+###### Artigo 43.º — Acréscimos por exercício de actividade
+
+1 - Nas situações de exercício de actividade em acumulação com pensões de invalidez relativa e de velhice, o montante mensal da pensão regulamentar é acrescido de 1/14 de 2% do total das remunerações registadas.
+
+2 - O acréscimo referido no número anterior produz efeitos no dia 1 de Janeiro de cada ano, com referência às remunerações registadas no ano anterior.
+
+#### Secção VI — Valores mínimos de pensão
+
+###### Artigo 44.º — Valores mínimos de pensão de invalidez relativa e de pensão de velhice
+
+1 - Aos pensionistas de invalidez relativa e de velhice é garantido um valor mínimo de pensão variável em função do número de anos civis com registo de remunerações relevantes para efeitos da taxa de formação da pensão, cujos montantes constam de legislação própria.
+
+2 - Quando esteja em causa a atribuição de pensão proporcional prevista no artigo 39.º, é garantida, como valor mínimo, uma percentagem da pensão mínima aplicável correspondente à fracção do período contributivo cumprido no âmbito do regime geral.
+
+3 - O valor mínimo de pensão previsto no n.º 1 é aplicável nas pensões antecipadas atribuídas ao abrigo dos regimes previstos nas alíneas b), c), d) e e) do n.º 1 do artigo 20.º
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 45.º — Valor mínimo de pensão de invalidez absoluta
+
+1 - Aos pensionistas de invalidez absoluta é garantido um valor mínimo de pensão igual ao valor mínimo de pensão de invalidez relativa e de velhice correspondente a uma carreira contributiva de 40 anos, em termos graduais, definidos no presente decreto-lei.
+
+2 - Quando esteja em causa a atribuição de pensão proporcional prevista no artigo 39.º, é garantida, como valor mínimo, uma percentagem da pensão mínima referida no número anterior, e nos termos por este previstos, correspondente à fracção do período contributivo cumprido no âmbito do regime geral.
+
+3 - O disposto nos números anteriores é ainda aplicável às pensões de invalidez absoluta convoladas em pensão de velhice.
+
+###### Artigo 46.º — Atribuição de complemento social
+
+Quando o valor das pensões, calculadas nos termos gerais, for de montante inferior aos valores garantidos nos artigos 44.º e 45.º, acresce ao respectivo montante uma prestação, designada por complemento social, cujo valor corresponde à diferença entre o valor mínimo garantido e o valor da pensão estatutária ou regulamentar.
+
+###### Artigo 47.º — Natureza do complemento social
+
+O complemento social previsto no artigo anterior é uma prestação do subsistema de solidariedade, cuja atribuição não depende de condição de recursos nem de residência.
+
+#### Secção VII — Contagens especiais de tempo de carreira contributiva
+
+###### Artigo 48.º — Contagem de tempo de serviço militar obrigatório
+
+1 - O tempo de serviço militar obrigatório é contado, a requerimento dos interessados, aos beneficiários activos ou pensionistas que:
+
+a) À data da prestação desse serviço não estivessem abrangidos por regimes de segurança social, em termos de conferirem direito ao registo de remunerações por equivalência à entrada de contribuições;
+
+b) Não tenham usufruído da contagem do referido tempo para efeito de qualquer outro regime, ainda que de outro sistema de protecção social.
+
+2 - A contagem de tempo, a que se refere o número anterior, faz-se nos termos gerais e releva para os seguintes efeitos:
+
+a) Cumprimento dos prazos de garantia e de outras condições especiais de tempo de carreira contributiva para acesso às pensões de invalidez e velhice;
+
+b) Condições de acesso à pensão de velhice do regime de flexibilização, do regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas e do regime de antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração;
+
+c) Determinação do fator de redução ou de bonificação a aplicar no cálculo da pensão;
+
+d) Determinação da taxa global de formação da pensão.
+
+3 - Os efeitos a que se refere o número anterior reportam-se à data do início da pensão, se o requerimento for anterior, ou ao mês seguinte ao da entrada do requerimento, se for posterior àquela data.
+
+> Nota: [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061) A alteração ao Decreto-Lei n.º 187/2007, de 10 de maio, aplica-se aos beneficiários do sistema previdencial que tenham requerido a contagem do tempo de serviço militar obrigatório a partir do dia 1 de janeiro de 2018, ou que, já a tendo requerido, ainda não tenham sido notificados da respetiva decisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 158.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+###### Artigo 49.º — Contagens especiais de períodos de actividade
+
+1 - As contagens especiais de períodos de actividade para cálculo das pensões previstas em normas de segurança social inseridas em diplomas que definem os estatutos profissionais de certas actividades só podem ter lugar desde que tenham sido pagas para o efeito as correspondentes contribuições adicionais.
+
+2 - As contagens especiais de períodos de atividade referidas no número anterior não relevam para efeitos do cômputo dos anos civis com registo de remunerações para efeitos do regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas, previsto no artigo 21.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+###### Artigo 49.º-A — Alteração da carreira contributiva após o reconhecimento do direito à pensão
+
+1 - Após o decurso do prazo de 10 anos a contar da data do deferimento das pensões de invalidez ou de velhice, os anos civis relevantes para prazo de garantia e outras condições de acesso à pensão, bem como as remunerações anuais consideradas para cálculo da pensão, são considerados consolidados e definitivos, não podendo ser objeto de alteração, salvo nas situações decorrentes do cumprimento de sentença judicial ou do pagamento retroativo de contribuições prescritas.
+
+2 - O disposto no número anterior é igualmente aplicável no cálculo da pensão de velhice para efeitos de atribuição de pensão de sobrevivência por morte de beneficiário ativo, sendo o prazo contado a partir da data do deferimento da pensão de sobrevivência.
+
+3 - Sem prejuízo do disposto no número anterior, as pensões, ou o respetivo valor, cuja atribuição resulte de falsas declarações ou da adoção de procedimentos, por ação ou omissão, determinantes da sua obtenção indevida, são revistas a qualquer tempo, com efeitos para o futuro.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+### Capítulo IV — Início e duração das pensões
+
+###### Artigo 50.º — Início da pensão de invalidez
+
+1 - A pensão de invalidez é devida a partir da data da deliberação da comissão de verificação ou de recurso ou daquela a que a comissão reporte a incapacidade, sem prejuízo do disposto no número seguinte.
+
+2 - A pensão de invalidez não pode ter início em data anterior à do requerimento ou à da promoção oficiosa da verificação da incapacidade.
+
+###### Artigo 51.º — Início da pensão de velhice
+
+A pensão de velhice é devida a partir da data da apresentação do respectivo requerimento ou daquela que o beneficiário indique para o início da pensão, no caso previsto neste decreto-lei relativamente à apresentação antecipada do requerimento.
+
+###### Artigo 52.º — Convolação em pensão de velhice
+
+As pensões de invalidez adquirem a natureza de pensão de velhice a partir do mês seguinte àquele em que o pensionista atinge a idade normal de acesso à pensão de velhice em vigor.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2018-10-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 53.º — Cessação das pensões
+
+1 - As pensões cessam no fim do mês em que se verifique a extinção do respectivo direito.
+
+2 - O direito extingue-se pela morte do titular da pensão e pelo desaparecimento das respectivas condições de atribuição.
+
+3 - A cessação das pensões de invalidez, decorrente da revisão da incapacidade, produz efeitos a partir do mês seguinte ao da comunicação do facto ao pensionista pela instituição gestora.
+
+### Capítulo V — Acumulação e coordenação das pensões
+
+#### Secção I — Acumulação de pensões com pensões
+
+###### Artigo 54.º — Acumulação com pensões de regimes de enquadramento obrigatório
+
+É permitida a acumulação das pensões estatutárias ou regulamentares de invalidez e de velhice do regime geral com pensões de outros regimes de protecção social de enquadramento obrigatório, sem prejuízo do disposto no artigo seguinte.
+
+###### Artigo 55.º — Garantia de mínimos na acumulação com outras pensões
+
+1 - No caso de acumulação de pensões do regime geral com pensões de outros regimes de protecção social de enquadramento obrigatório, os valores mínimos a que se referem os n.os 1 dos artigos 44.º e 45.º são garantidos na soma das pensões que sejam objecto de acumulação.
+
+2 - Em caso de acumulação de pensão proporcional com pensões de outros regimes de protecção social de enquadramento obrigatório, os valores mínimos a que se referem os n.os 2 dos artigos 44.º e 45.º são garantidos na soma das pensões que sejam objecto de acumulação.
+
+3 - Quando a soma das pensões não atinja os valores mínimos previstos nos n.os 1 e 2 dos artigos 44.º e 45.º, ao valor da pensão do regime geral acresce o montante de complemento social necessário para atingir este mínimo.
+
+4 - Para efeito de garantia dos valores mínimos previstos nos números anteriores, a actualização das pensões atribuídas por outros regimes de protecção social obedece às mesmas regras de actualização aplicáveis às pensões do regime geral.
+
+5 - Exceptuam-se do disposto no número anterior as situações em que o beneficiário possa, de forma comprovada e regular, informar o Centro Nacional de Pensões sobre o valor actualizado da pensão atribuída por outro regime de protecção social.
+
+6 - Os procedimentos para concretização do disposto no número anterior constam de despacho da instituição gestora.
+
+###### Artigo 56.º — Outros regimes de protecção social de enquadramento obrigatório
+
+Para efeitos de aplicação do disposto no artigo anterior, consideram-se outros regimes de protecção social de enquadramento obrigatório os seguintes regimes:
+
+a) Os regimes especiais do sistema de segurança social;
+
+b) Os regimes da função pública;
+
+c) O regime dos antigos funcionários ultramarinos;
+
+d) O regime dos advogados e solicitadores;
+
+e) O regime dos trabalhadores da Companhia Portuguesa Rádio Marconi;
+
+f) O regime de protecção social estabelecido na regulamentação colectiva de trabalho dos empregados bancários;
+
+g) Os regimes de protecção nos riscos de acidente de trabalho e doença profissional;
+
+h) Os regimes dos sistemas de segurança social estrangeiros.
+
+###### Artigo 57.º — Acumulação com pensões de regimes facultativos
+
+1 - As pensões de invalidez e de velhice do regime geral são livremente acumuláveis com pensões atribuídas por regimes facultativos de protecção social.
+
+2 - Os períodos de registo de remunerações sucessivos para o regime geral e para o regime do seguro social voluntário determinam a atribuição de uma única pensão, não dando, consequentemente, origem à acumulação prevista no número anterior.
+
+#### Secção II — Acumulação de pensões com rendimentos de trabalho
+
+###### Artigo 58.º — Acumulação da pensão de invalidez relativa com rendimentos de trabalho
+
+É permitida a acumulação da pensão de invalidez relativa com rendimentos de trabalho, auferidos no País ou no estrangeiro, atentas as capacidades remanescentes do pensionista e tendo em vista a sua reabilitação e reintegração profissional.
+
+###### Artigo 59.º — Regras aplicáveis na acumulação
+
+1 - Quando a acumulação tenha lugar com rendimentos provenientes da profissão que o beneficiário vinha exercendo à data da invalidez, a acumulação a que se reporta o artigo anterior tem por limite o valor de 100% da remuneração de referência tomada em consideração no cálculo da pensão.
+
+2 - Quando a acumulação se faça com rendimentos provenientes de profissões ou actividades diferentes daquela que o beneficiário vinha exercendo à data da invalidez, a acumulação tem por limite os valores indexados à remuneração de referência tomada em consideração no cálculo da pensão, nos termos do anexo III do presente decreto-lei, que deste faz parte integrante.
+
+3 - Para efeitos de determinação dos limites de acumulação referidos nos números anteriores, não se consideram incluídos no valor da pensão mensal os respectivos montantes adicionais, o complemento social ou quaisquer outros complementos de pensão.
+
+4 - A remuneração de referência a que se referem os n.os 1 e 2 é actualizada pela aplicação das regras previstas no artigo 27.º
+
+###### Artigo 60.º — Redução da pensão de invalidez relativa por efeito da acumulação
+
+1 - Se o quantitativo mensal recebido pelo pensionista como soma da pensão de invalidez relativa com rendimentos de trabalho for superior aos limites estabelecidos nos n.os 1 e 2 do artigo anterior, os montantes concedidos ao pensionista são reduzidos na parte em que o referido quantitativo mensal exceda esses limites.
+
+2 - O quantitativo mensal dos rendimentos do trabalho, a considerar para efeitos do número anterior, corresponde aos valores seguintes, conforme o caso:
+
+a) No início da acumulação, ao valor da remuneração declarada pelo pensionista ou oficiosamente apurada pela entidade gestora das pensões;
+
+b) Posteriormente, a 1/14 das remunerações auferidas no ano anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+###### Artigo 61.º — Proibição de acumulação da pensão de invalidez absoluta com rendimentos de trabalho
+
+1 - A pensão de invalidez absoluta não é acumulável com rendimentos de trabalho.
+
+2 - O exercício de atividade em violação do disposto no número anterior determina:
+
+a) A perda do direito à pensão durante o correspondente período, sem prejuízo da aplicação dos regimes legais de restituição das prestações indevidamente pagas e sancionatório;
+
+b) A avaliação da incapacidade pelo serviço de verificação de incapacidades permanente competente, no prazo máximo de 30 dias a contar da data em que a entidade gestora das pensões tomou conhecimento da situação de acumulação.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+###### Artigo 62.º — Acumulação da pensão de velhice com rendimentos de trabalho ou actividade
+
+1 - A acumulação da pensão de velhice com rendimentos de trabalho é livre, sem prejuízo do disposto nos números seguintes.
+
+2 - As pensões de velhice resultantes da convolação das pensões de invalidez absoluta não são acumuláveis com rendimentos de trabalho.
+
+3 - Sem prejuízo do disposto no n.º 1 do artigo 79.º, é proibida a acumulação de pensão antecipada de velhice, atribuída no âmbito do regime de flexibilização e no regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas, com rendimentos provenientes de exercício de trabalho ou atividade, a qualquer título, na mesma empresa ou grupo empresarial, por um período de três anos a contar da data de acesso à pensão antecipada.
+
+4 - O exercício de actividade em violação do disposto nos n.os 2 e 3 determina a perda do direito à pensão durante o correspondente período, sem prejuízo da aplicação dos regimes legais de restituição das prestações indevidamente pagas e sancionatório.
+
+5 - Em caso de violação do disposto no n.º 3, a entidade empregadora ou a entidade a quem seja prestado o serviço é solidariamente responsável pela devolução das prestações recebidas indevidamente pelo beneficiário desde que a situação seja do seu conhecimento.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+#### Secção III — Coordenação das pensões do regime geral e da função pública
+
+###### Artigo 63.º — Pensão unificada
+
+1 - As pensões de invalidez e de velhice do regime geral e as pensões de aposentação ou de reforma da Caixa Geral de Aposentações, a receber por quem tenha sido abrangido pelos dois regimes de protecção social, podem ser atribuídas de forma unificada.
+
+2 - A atribuição da pensão unificada é regulada por lei.
+
+### Capítulo VI — Verificação das incapacidades permanentes
+
+###### Artigo 64.º — Verificação das incapacidades
+
+1 - A verificação da incapacidade para atribuição das pensões de invalidez é realizada pelos centros distritais de segurança social no âmbito do sistema de verificação de incapacidades.
+
+2 - Constituem órgãos especializados do sistema de verificação de incapacidades as comissões de verificação, as comissões de recurso e os médicos relatores.
+
+3 - A lei define a estrutura, as competências e o regime de funcionamento do sistema de verificação de incapacidades.
+
+###### Artigo 65.º — Avaliação da incapacidade
+
+A incapacidade permanente para o trabalho é avaliada em função das funcionalidades físicas, sensoriais e mentais, do estado geral, da idade, das aptidões profissionais e da capacidade de trabalho remanescente dos beneficiários, sem prejuízo do disposto no n.º 2 do artigo 15.º
+
+###### Artigo 66.º — Revisão da incapacidade
+
+1 - O pensionista de invalidez pode ser sujeito a exame de revisão da incapacidade por decisão da instituição gestora ou a seu pedido, nos termos da lei.
+
+2 - Ressalvada a situação de agravamento da incapacidade, a revisão da incapacidade só pode ser requerida após três anos a contar da data da atribuição da pensão.
+
+### Capítulo VII — Atribuição de pensões provisórias
+
+#### Secção I — Condições de atribuição das pensões provisórias
+
+###### Artigo 67.º — Pensões provisórias
+
+Podem ser atribuídas pensões provisórias de invalidez ou de velhice tendo em vista impedir situações temporárias de desprotecção.
+
+###### Artigo 68.º — Atribuição da pensão provisória de invalidez
+
+1 - A atribuição de pensões provisórias de invalidez depende de o beneficiário, à data do requerimento, satisfazer as condições de atribuição da pensão, sem prejuízo do disposto no número seguinte.
+
+2 - É ainda atribuída pensão provisória de invalidez quando se tenha esgotado o período máximo de 1095 dias de registo de remunerações por incapacidade temporária e se mantenha a incapacidade para o trabalho.
+
+3 - Na situação prevista no número anterior, os beneficiários a quem tenha sido atribuída pensão provisória de invalidez são sujeitos oficiosamente a avaliação pela comissão de verificação de incapacidade permanente, no prazo de 30 dias.
+
+4 - A pensão provisória de invalidez pode ser atribuída de forma automática com base nos elementos que constam do sistema de informação da segurança social.
+
+3 - Os beneficiários a quem tenha sido atribuída pensão provisória de invalidez são sujeitos oficiosamente a exame pelas comissões de verificação de incapacidades, no prazo de 30 dias.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+###### Artigo 69.º — Não atribuição de pensão provisória de invalidez
+
+1 - Nas situações previstas no n.º 2 do artigo anterior, não há lugar à atribuição de pensão provisória de invalidez nos casos em que o período máximo de 1095 dias de registo de remunerações por incapacidade temporária for atingido sem que tenha decorrido um ano sobre a data da deliberação anterior da comissão de verificação ou de recurso que não tenha considerado o beneficiário em situação de incapacidade permanente.
+
+2 - O princípio estabelecido no número anterior não é aplicável aos casos de nova verificação de incapacidade permanente por agravamento do estado de saúde do beneficiário, nos termos legalmente previstos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+###### Artigo 70.º — Atribuição da pensão provisória de velhice
+
+1 - A atribuição da pensão provisória de velhice depende de os beneficiários satisfazerem, à data do requerimento, as condições de atribuição da pensão de velhice.
+
+2 - A pensão provisória de velhice pode ser atribuída de forma automática com base nos elementos que constam do sistema de informação da segurança social.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+###### Artigo 71.º — Montante das pensões provisórias
+
+1 - O montante da pensão provisória de invalidez prevista no n.º 2 do artigo 68.º corresponde ao valor da pensão social do regime não contributivo.
+
+2 - O montante da pensão provisória de invalidez prevista no n.º 1 do artigo 68.º, e de velhice prevista no artigo 70.º, é o que resulta do cálculo efetuado nos termos gerais, de acordo com os elementos disponíveis, sem prejuízo da garantia do valor mínimo nos termos dos artigos 44.º e 45.º
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+#### Secção II — Duração das pensões provisórias
+
+###### Artigo 72.º — Início das pensões provisórias de invalidez
+
+As pensões provisórias de invalidez, previstas no n.º 2 do artigo 68.º, são devidas a partir do dia seguinte àquele em que se esgotou o período máximo de 1095 dias de registo de remunerações por incapacidade temporária.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+###### Artigo 73.º — Cessação das pensões provisórias
+
+1 - As pensões provisórias cessam pela sua conversão em pensões definitivas.
+
+2 - As pensões provisórias de invalidez cessam:
+
+a) Se não for verificada a incapacidade permanente determinante de atribuição de pensão de invalidez;
+
+b) Se o beneficiário não comparecer, sem motivo justificado, ao exame para que tenha sido convocado nos termos do n.º 3 do artigo 68.º
+
+3 - Na situação prevista na alínea b) do número anterior há lugar à restituição dos valores das pensões provisórias de invalidez que tenham sido pagas.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+###### Artigo 74.º — Acerto de valores
+
+Determinado o montante da pensão definitiva, a instituição gestora procede de imediato ao acerto do respectivo valor com o montante da pensão provisória que vinha sendo atribuída.
+
+### Capítulo VIII — Processamento e administração
+
+#### Secção I — Gestão das pensões
+
+###### Artigo 75.º — Instituição gestora
+
+1 - A gestão das pensões previstas neste decreto-lei e a aplicação da respectiva legislação compete ao Instituto de Segurança Social, I. P., através do Centro Nacional de Pensões e dos centros distritais, sem prejuízo das competências exercidas pelos serviços e organismos competentes das administrações regionais.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+#### Secção II — Organização dos processos
+
+###### Artigo 76.º — Requerimento
+
+1 - A atribuição das pensões depende de requerimento dos interessados, sem prejuízo do disposto no n.º 2 do artigo 10.º
+
+2 - Os requerimentos, de modelo próprio, podem ser apresentados no centro distrital de segurança social da área de residência do beneficiário, no Centro Nacional de Pensões ou no sítio da Internet da segurança social.
+
+3 - No caso de os beneficiários residirem no estrangeiro, o requerimento pode ser apresentado nas instituições previstas para o efeito nos instrumentos internacionais aplicáveis e, na sua falta, no Centro Nacional de Pensões ou no sítio da Internet da segurança social.
+
+4 - O requerimento de pensão de velhice pode ser apresentado com a antecedência máxima de três meses em relação à data a que o beneficiário deseje reportar o início da pensão.
+
+###### Artigo 77.º — Declaração de exercício de actividade profissional dos requerentes de pensão de invalidez
+
+1 - Os beneficiários devem declarar, no acto do requerimento da pensão de invalidez, a última profissão desempenhada no âmbito do regime geral e, no caso de exercício simultâneo de mais de uma, ainda que de diferente sistema de protecção social, nacional ou estrangeiro, aquela a que corresponda maior remuneração.
+
+2 - Nas situações de cessação de registo de remunerações por período ininterrupto superior a 12 meses, à data do requerimento, o requerente da pensão deve declarar se exerce actividade profissional abrangida por outro regime, ainda que de diferente sistema de protecção social, nacional ou estrangeiro.
+
+3 - Os requerentes de pensão de invalidez devem ainda declarar se exercem actividade profissional abrangida por regime de diferente sistema de protecção social, nacional ou estrangeiro, bem como a respectiva remuneração.
+
+###### Artigo 78.º — Declaração de exercício de actividade profissional dos pensionistas de invalidez relativa
+
+Os pensionistas de invalidez relativa que exerçam actividade profissional devem comunicar ao Centro Nacional de Pensões:
+
+a) O início do exercício da actividade e o valor da respectiva remuneração mensal;
+
+b) O termo do exercício da actividade;
+
+c) Periodicamente, o valor médio mensal das remunerações auferidas.
+
+###### Artigo 79.º — Exercício de atividade profissional dos pensionistas de velhice antecipada
+
+1 - Para os efeitos previstos no n.º 3 do artigo 62.º, os pensionistas que acedam à pensão de velhice, no âmbito do regime de flexibilização da idade de pensão de velhice e do regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas são obrigados a cessar a atividade profissional na mesma empresa ou grupo empresarial em que exerciam à data do requerimento de pensão, caso ainda não o tenham feito, no prazo de 60 dias após a data de produção de efeitos do deferimento da pensão de velhice antecipada.
+
+2 - Os pensionistas referidos no número anterior devem comunicar ao Centro Nacional de Pensões o reinício de atividade na mesma empresa ou grupo empresarial, nos três anos seguintes a contar da data de acesso à pensão antecipada, bem como a identificação da entidade empregadora respetiva.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01
+
+###### Artigo 80.º — Declaração de titularidade de pensão dos requerentes de pensão de invalidez e de velhice
+
+Os beneficiários devem declarar, no acto do requerimento, se são titulares de outra pensão e, em caso afirmativo, indicar o respectivo valor e a entidade pagadora.
+
+###### Artigo 81.º — Declaração de titularidade de pensão dos pensionistas de invalidez e de velhice
+
+Os pensionistas de invalidez e de velhice que passem a acumular a pensão com outra concedida por outro regime, ainda que de diferente sistema de protecção social, devem declarar ao Centro Nacional de Pensões:
+
+a) O início e o valor da pensão acumulada;
+
+b) O termo da pensão acumulada;
+
+c) Periodicamente, o valor da pensão acumulada.
+
+###### Artigo 82.º — Declaração em caso de incapacidade decorrente do acto de terceiro
+
+No acto de requerimento da pensão de invalidez devem os beneficiários:
+
+a) Declarar se a incapacidade foi provocada por intervenção de terceiro;
+
+b) Identificar os eventuais responsáveis pela incapacidade permanente;
+
+c) Declarar se houve lugar a indemnização e qual o respectivo montante.
+
+###### Artigo 83.º — Actuação do Centro Nacional de Pensões nas declarações periódicas
+
+1 - As declarações periódicas referidas na alínea c) do artigo 78.º e na alínea c) do artigo 81.º são realizadas nos prazos e nos termos estabelecidos pelo Centro Nacional de Pensões.
+
+2 - O Centro Nacional de Pensões dá conhecimento directo aos pensionistas dos prazos e dos termos estabelecidos para as declarações periódicas a que se refere o número anterior de modo que seja assegurada a informação necessária para o cumprimento da respectiva obrigação.
+
+###### Artigo 84.º — Prazo geral das declarações
+
+O prazo para a apresentação das declarações não referidas no artigo anterior é de 30 dias após a ocorrência do respectivo evento.
+
+###### Artigo 85.º — Meios de prova para a atribuição das pensões de invalidez e de velhice
+
+1 - O processo de atribuição das pensões de invalidez e de velhice deve ser instruído, para além do requerimento, com os seguintes elementos:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Certificação da incapacidade permanente, nos termos definidos no presente decreto-lei, tratando-se de pensão de invalidez;
+
+c) Certificação dos períodos contributivos cumpridos.
+
+2 - Dos processos devem ainda constar as declarações exigidas neste decreto-lei, designadamente as referidas nos artigos 77.º, 80.º e 82.º, bem como outros elementos necessários, pertinentes e adequados à aplicação do presente decreto-lei.
+
+###### Artigo 86.º — Efeitos da inobservância das obrigações legais
+
+1 - Determinam a suspensão do pagamento das prestações em curso:
+
+a) A falta de apresentação das declarações a que se referem a alínea c) do artigo 78.º e a alínea c) do artigo 81.º;
+
+b) A adopção pelos pensionistas de procedimentos que impeçam ou retardem a avaliação da subsistência da incapacidade, designadamente a ausência injustificada ao exame médico e a não actuação para a obtenção de elementos clínicos.
+
+2 - Apresentadas as declarações referidas no número anterior e adoptados os procedimentos que permitam a avaliação da subsistência da incapacidade, o pensionista readquire o direito ao pagamento das prestações suspensas desde o início daquela, verificados os requisitos legais.
+
+#### Secção III — Atribuição e pagamento das pensões
+
+###### Artigo 87.º — Forma expressa
+
+A atribuição das pensões exige decisão expressa da instituição gestora.
+
+###### Artigo 88.º — Comunicação de atribuição das pensões
+
+1 - O Centro Nacional de Pensões notifica o beneficiário e a entidade empregadora, se for caso disso, da atribuição das pensões e da data a que o início das mesmas se reporta.
+
+2 - Da comunicação deve constar a discriminação dos elementos necessários à correcta compreensão do montante da pensão, designadamente:
+
+a) As remunerações consideradas para o cálculo;
+
+b) O número de anos civis com registo de remunerações relevantes para o cálculo da pensão;
+
+c) O valor da pensão estatutária;
+
+d) O montante do complemento social da pensão, sempre que haja lugar à sua atribuição.
+
+3 - No caso de atribuição de pensão provisória, o Centro Nacional de Pensões notifica o beneficiário do valor provisório da pensão e da data de início do seu pagamento.
+
+4 - A notificação a que se refere o número anterior pode ser efetuada através do sistema de notificações eletrónicas da segurança social sempre que o requerimento tenha sido entregue através da segurança social direta.
+
+5 - O beneficiário pode desistir do pedido de pensão no prazo de 15 dias a contar da notificação prevista no n.º 3.
+
+6 - Na situação prevista no número anterior, caso já tenham sido recebidos montantes a título de pensão, a desistência só produz efeitos após a sua restituição, o que deve ocorrer no prazo máximo de 30 dias a contar da data da notificação prevista no n.º 3.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+###### Artigo 89.º — Comunicação de não atribuição das pensões
+
+1 - Se na apreciação do processo se verificar que não se encontram reunidas as condições de atribuição da pensão requerida, a instituição gestora promove a audiência do interessado nos termos gerais.
+
+2 - Da notificação ao interessado devem constar informações sobre:
+
+a) As condições em falta que inviabilizam a atribuição da pensão requerida;
+
+b) O prazo, não inferior a 10 dias, para o requerente se pronunciar e fazer prova da existência das referidas condições de atribuição;
+
+c) A consequência de indeferimento do pedido, caso o requerente não proceda à comprovação em falta até ao termo do prazo fixado.
+
+3 - Quando os elementos remetidos pelo beneficiário não permitam a verificação das condições de atribuição das pensões, há lugar ao indeferimento do pedido devidamente fundamentado.
+
+4 - A notificação a que se refere o n.º 2 pode ser efetuada através do sistema de notificações eletrónicas da segurança social sempre que o requerimento tenha sido entregue através da segurança social direta.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+###### Artigo 90.º — Pagamento das pensões
+
+1 - As pensões previstas no presente decreto-lei são pagas mensalmente, salvo quando o seu valor for inferior a 1% do IAS, caso em que o pagamento é semestral.
+
+2 - A instituição gestora efetua o pagamento das pensões mediante crédito em conta bancária dos respetivos beneficiários sempre que as necessidades de simplificação e modernização dos serviços o justifiquem, em condições a estabelecer por despacho do membro do Governo responsável pela área da segurança social.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16-A/2021 - Diário da República n.º 39/2021, 1º Suplemento, Série I de 2021-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-a-2021-158316443), em vigor a partir de 2021-02-26
+
+###### Artigo 91.º — Prazo de prescrição
+
+1 - O direito às pensões vencidas prescreve a favor da instituição gestora no prazo de cinco anos contado a partir da data em que as mesmas são postas a pagamento, com conhecimento dos pensionistas.
+
+2 - São equiparadas a prestações postas a pagamento as que se encontrem legalmente suspensas por incumprimento de obrigações imputável ao beneficiário.
+
+###### Artigo 91.º-A — Prova de vida
+
+1 - Os pensionistas de invalidez e de velhice do regime geral de segurança social residentes no estrangeiro devem fazer prova de vida.
+
+2 - A falta de prova de vida determina a suspensão do pagamento da pensão, até que a mesma seja realizada.
+
+3 - A prova de vida é regulamentada por portaria do membro do Governo da área da segurança social.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 40/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2025-912444912), em vigor a partir de 2025-03-31
+
+### Capítulo IX — Disposições complementares, transitórias e finais
+
+#### Secção I — Disposições complementares
+
+###### Artigo 92.º — Contra-ordenações
+
+1 - Constituem contra-ordenação punível, ao abrigo do regime de contra-ordenações no âmbito dos regimes de segurança social, com coima de (euro) 50 a (euro) 350:
+
+a) Falsas declarações previstas no n.º 7 do artigo 20.º, sobre o trabalho ou atividade efetivamente prestados nos últimos cinco anos civis imediatamente anteriores ao ano de início da pensão;
+
+b) A acumulação da pensão de invalidez absoluta com rendimentos de trabalho em violação do disposto no artigo 61.º;
+
+c) A acumulação da pensão de velhice com rendimentos de trabalho em violação do disposto nos n.os 2 e 3 do artigo 62.º;
+
+d) As falsas declarações previstas no artigo 77.º sobre a última profissão exercida;
+
+e) A omissão ou falsas declarações sobre o início do exercício da actividade e respectiva remuneração dos pensionistas de invalidez, prevista na alínea a) do artigo 78.º, quando devida;
+
+f) A omissão ou falsas declarações sobre a cessação ou reinício da actividade prevista no artigo 79.º;
+
+g) A omissão ou falsas declarações sobre o recebimento de outra pensão pelos requerentes ou pensionistas de invalidez e velhice, prevista no artigo 80.º e na alínea a) do artigo 81.º;
+
+h) As falsas declarações previstas na alínea b) do artigo 78.º e na alínea b) do artigo 81.º;
+
+i) A omissão ou falsas declarações previstas no artigo 82.º
+
+2 - O montante da coima prevista no número anterior é elevada para o dobro quando do incumprimento dos deveres previstos nas respectivas alíneas resulte o efectivo pagamento indevido de prestações.
+
+3 - A apresentação das declarações previstas na alínea b) do artigo 78.º e na alínea b) do artigo 81.º findo o prazo estabelecido no artigo 84.º não constitui contra-ordenação, mas, decorrendo desse facto alteração do montante das prestações, os novos valores apenas são devidos a partir da data de apresentação das respectivas declarações.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 93.º — Requerimentos de pensões com efeitos diferidos
+
+Nas situações em que tenha sido requerida pensão de velhice com efeitos diferidos, nos termos do n.º 4 do artigo 76.º, ou em que os requisitos legais para a atribuição das pensões só se verifiquem na vigência deste decreto-lei, o regime aplicável é o que se encontra em vigor à data do início da atribuição das pensões.
+
+###### Artigo 94.º — Conversão das pensões de invalidez
+
+As pensões de invalidez que se encontrem em curso à data da entrada em vigor do presente decreto-lei são convertidas em pensões de invalidez relativa, sem prejuízo de posterior pedido de revisão da incapacidade a que se refere o artigo 66.º
+
+###### Artigo 95.º — Alteração ao Decreto-Lei n.º 261/91, de 25 de Julho
+
+O artigo 12.º do Decreto-Lei n.º 261/91, de 25 de Julho, repristinado pelo Decreto-Lei n.º 87/2004, de 17 de Abril, passa a ter a seguinte redacção:
+
+«Artigo 12.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) Relativamente aos trabalhadores que tenham completado 62 anos e possuam 40 anos civis com registo de renumerações relevantes para a taxa de formação da pensão, a possibilidade de requererem pensão antecipada nas condições legais aplicáveis.
+
+3 - ...
+
+4 - ...»
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 59/2007 - Diário da República n.º 121/2007, Série I de 2007-06-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/59-2007-635845), em vigor a partir de 2007-06-01
+
+#### Secção II — Disposições transitórias
+
+###### Artigo 96.º — Prazos de garantia adquiridos ao abrigo de normas anteriores
+
+1 - Relevam para efeitos de atribuição das pensões de invalidez e de velhice os prazos de garantia cumpridos ao abrigo e durante a vigência das normas que os determinaram.
+
+2 - Para cumprimento dos prazos de garantia em formação à data da entrada em vigor do presente decreto-lei não é exigida a densidade contributiva relativamente aos anos anteriores a 1994.
+
+3 - Sempre que o beneficiário não tenha adquirido o prazo de garantia ao abrigo de norma anterior, cada período de 12 meses com registo de remunerações anterior a 1994 corresponde a um ano civil para o efeito deste decreto-lei.
+
+###### Artigo 97.º — Prazo de garantia nas situações de pagamento retroactivo de contribuições
+
+O disposto no artigo 12.º do Decreto Regulamentar n.º 37/90, de 27 de Novembro, quanto à lei reguladora dos prazos de garantia, apenas é aplicável relativamente aos pedidos de pagamento retroactivo de contribuições apresentados até 31 de Dezembro de 1993.
+
+###### Artigo 98.º — Densidade contributiva para efeito de taxa de formação da pensão
+
+Para efeitos de taxa de formação prevista nos artigos 29.º e 34.º, a exigência de densidade contributiva prevista só tem lugar a partir de 1 de Janeiro de 1994.
+
+###### Artigo 99.º — Revalorização das remunerações nas situações de pagamento retroactivo de contribuições
+
+As remunerações decorrentes do pagamento retroactivo de contribuições efectuado ao abrigo do disposto no Decreto-Lei n.º 380/89, de 27 de Outubro, são revalorizadas nos termos previstos no artigo 27.º, por aplicação do coeficiente correspondente ao ano de apresentação do respectivo requerimento.
+
+###### Artigo 100.º — Aplicação do factor de sustentabilidade aos beneficiários já inscritos na segurança social
+
+O fator de sustentabilidade previsto no artigo 35.º não é aplicável aos beneficiários que à data da entrada em vigor do presente decreto-lei estejam inscritos na segurança social e que venham a ser titulares de pensão de invalidez absoluta por um período superior a metade do tempo que decorre entre a data da entrada em vigor do presente decreto-lei e a data em que completarem a idade normal de acesso à pensão de velhice.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126-B/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01
+
+###### Artigo 101.º — Limite superior das pensões
+
+1 - Nas pensões calculadas nos termos do artigo 34.º, P1 fica limitada a 12 vezes o IAS, sem prejuízo do disposto nos números seguintes.
+
+2 - Sempre que P2 seja superior a P1, não é aplicado qualquer limite a esta parcela.
+
+3 - A limitação referida no n.º 1 também não é aplicável se o valor de P1 e de P2 for superior a 12 vezes o valor do IAS e o P1 for superior a P2, situação em que a pensão é calculada nos termos do artigo 32.º
+
+###### Artigo 102.º — Excepção ao princípio da limitação das actualizações de pensões de valor elevado
+
+1 - O princípio da limitação das actualizações das pensões de valor superior a 12 vezes o valor do IAS, estabelecido por lei, não é aplicável quando se verifique o previsto nos n.os 2 e 3 do artigo anterior.
+
+2 - As excepções previstas no número anterior abrangem ainda as pensões calculadas e atribuídas ao abrigo de legislação anterior desde que preencham as condições ali previstas, tendo em conta para o efeito o montante de P2, que seria calculado com a aplicação do artigo 32.º deste decreto-lei.
+
+###### Artigo 103.º — Complemento por cônjuge a cargo
+
+Mantém-se o direito à prestação designada por complemento por cônjuge a cargo, atribuída ou a atribuir em função de pensões concedidas no âmbito da legislação anteriormente vigente e nos seus precisos termos.
+
+###### Artigo 104.º — Salvaguarda de direitos
+
+1 - Às pensões em curso à data da entrada em vigor do presente decreto-lei continua a aplicar-se o regime de valores mínimos previsto na lei anterior, salvo se, por efeito da revisão da incapacidade a que se refere o artigo 66.º, resultar a possibilidade de aplicação de regime de mínimos sociais mais favorável, constante do artigo 45.º, tendo em conta a transição prevista no artigo seguinte.
+
+2 - Para as pensões acumuladas com pensões de outros regimes de protecção social anteriormente ao início de vigência do presente decreto-lei mantêm-se em vigor as normas que lhes eram aplicáveis e nos seus precisos termos.
+
+3 - Para as pensões de invalidez e pensões de velhice antecipadas ao abrigo do regime da flexibilização, acumuladas com rendimentos de trabalho anteriormente ao início de vigência do presente decreto-lei, mantêm-se em vigor as normas que lhes eram aplicáveis e nos seus precisos termos.
+
+4 - As pensões antecipadas de velhice atribuídas após situação de desemprego de longa duração, tendo em conta a salvaguarda de direitos adquiridos prevista no n.º 3 do artigo 82.º do Decreto-Lei n.º 220/2006, de 3 de Novembro, são calculadas nos seguintes termos:
+
+a) Aos beneficiários cujas prestações de desemprego tenham sido requeridas até à data da entrada em vigor do Decreto-Lei n.º 125/2005, de 3 de Agosto, é aplicável, no cálculo da respectiva pensão, o factor de redução previsto no artigo 38.º-A do Decreto-Lei n.º 329/93, de 25 de Setembro, e suas alterações;
+
+b) Aos beneficiários que tenham requerido as suas prestações de desemprego depois da data da entrada em vigor do Decreto-Lei n.º 125/2005, de 3 de Agosto, é aplicável, no cálculo da respectiva pensão, o factor de redução previsto no artigo 36.º do presente decreto-lei.
+
+###### Artigo 105.º — Transição para os valores mínimos das pensões por invalidez absoluta
+
+O valor mínimo das pensões de invalidez absoluta converge para o valor referido no artigo 45.º, nos seguintes termos:
+
+a) Em 2008 e 2009, garante-se o valor mínimo de pensão correspondente a uma carreira contributiva de 15 a 20 anos;
+
+b) Em 2010 e 2011, garante-se o valor mínimo de pensão correspondente a uma carreira contributiva de 21 a 30 anos;
+
+c) De 2012 em diante, garante-se o valor mínimo de pensão correspondente a uma carreira contributiva de 40 anos.
+
+###### Artigo 106.º — Âmbito das alterações ao regime da pré-reforma
+
+A alteração resultante do disposto no artigo 95.º ao Decreto-Lei n.º 261/91, de 25 de Julho, não é aplicável aos trabalhadores que à data de entrada em vigor do presente decreto-lei estejam em situação de pré-reforma.
+
+#### Secção III — Disposições finais
+
+###### Artigo 107.º — Avaliação dos regimes e medidas especiais de flexibilização
+
+1 - Os regimes e medidas especiais de flexibilização da idade de pensão de velhice, previstos no presente decreto-lei, ficam sujeitos a avaliação periódica para aferir da adequação do suporte financeiro e da regulamentação aos condicionalismos económicos e sociais que os fundamentam.
+
+2 - Sem prejuízo do disposto no número anterior, quaisquer novos regimes ou medidas especiais de flexibilização a criar devem ter duração limitada, fixando o diploma que os institua o respectivo período de vigência.
+
+3 - A avaliação e a concretização dos regimes e das medidas previstas no número anterior são precedidas de parecer, não vinculativo, da comissão executiva do Conselho Nacional de Segurança Social.
+
+###### Artigo 108.º — Regulamentação
+
+As medidas de reabilitação e de reconversão profissional e de activação dos pensionistas de invalidez constam de legislação própria.
+
+###### Artigo 109.º — Execução
+
+Os procedimentos necessários à execução do presente decreto-lei são aprovados por portaria do Ministro do Trabalho e da Solidariedade Social.
+
+###### Artigo 110.º — Referências legais
+
+As referências legais para preceitos de diplomas revogados entendem-se feitas para as correspondentes disposições deste decreto-lei.
+
+###### Artigo 111.º — Regimes especiais de protecção social na invalidez
+
+1 - Mantêm-se em vigor os regimes especiais de protecção social na invalidez aprovados por lei.
+
+2 - O disposto no número anterior não prejudica a possibilidade de revisão da incapacidade para o efeito de aplicação do regime da invalidez absoluta, se mais favorável.
+
+###### Artigo 112.º — Âmbito pessoal de aplicação do capítulo II do Decreto-Lei n.º 141/91, de 10 de Abril
+
+O capítulo II do Decreto-Lei n.º 141/91, de 10 de Abril, não se aplica aos beneficiários do regime geral.
+
+###### Artigo 113.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 329/93, de 25 de Setembro, na redacção dada pelos Decretos-Leis n.os 9/99, de 8 de Janeiro, e 437/99, de 29 de Outubro, sem prejuízo do previsto no n.º 4 do artigo 104.º;
+
+b) O Decreto Regulamentar n.º 7/94, de 11 de Março;
+
+c) O Decreto-Lei n.º 35/2002, de 19 de Fevereiro;
+
+d) Os artigos 1.º e 2.º do Decreto-Lei n.º 125/2005, de 3 de Agosto.
+
+###### Artigo 114.º — Produção de efeitos
+
+1 - O regime estabelecido no presente decreto-lei aplica-se:
+
+a) Às prestações requeridas ou promovidas oficiosamente após a sua entrada em vigor;
+
+b) Às relações jurídicas prestacionais, constituídas ao abrigo de legislação anterior e que se mantenham na vigência da presente lei, salvo nos casos em que a aplicação da lei anterior esteja prevista neste decreto-lei.
+
+2 - O factor de sustentabilidade não se aplica às pensões cuja data a que se reporta o respectivo início não seja posterior a 31 de Dezembro de 2007.
+
+3 - O factor de sustentabilidade não se aplica ainda à convolação das pensões de invalidez em pensão de velhice se iniciadas até 31 de Dezembro de 2007.
+
+###### Artigo 115.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
+
+Promulgado em 26 de Abril de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 30 de Abril de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Taxa anual de formação da pensão dos beneficiários com registo de remunerações igual ou superior a 21 anos
+
+(a que se refere o n.º 1 do artigo 31.º)
+
+(ver documento original)
+
+## Anexo II — Taxa mensal de bonificação
+
+(a que se refere o n.º 4 do artigo 37.º)
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15
+
+## Anexo III — Limites da acumulação da pensão de invalidez relativa com rendimentos de trabalho
+
+(a que se refere o n.º 2 do artigo 59.º)
+
+(ver documento original)

@@ -1,0 +1,275 @@
+---
+schema_version: '1.0'
+id: pt:dre:205627:por
+title: Resolução da Assembleia da República n.º 9/95
+short_title: null
+summary: Aprova, para ratificação, o Protocolo de Adesão da República Helénica à União da Europa Ocidental
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 9/95
+official_date: null
+publication_date: '1995-02-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1995, Série I-A de 1995-02-17
+  number: '41'
+  series: I
+  supplement: null
+  pages: 996 - 998
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/02/041a00/09960998.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/9/1995/02/17/p/dre/pt/html
+  oj: null
+  dre: '205627'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/9-1995-205627
+  internal: pt:dre:205627:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-1995-205627
+  metadata_url: https://data.dre.pt/eli/resolassrep/9/1995/02/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/9-1995-205627
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:00:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b7c791570eaa9c15954933a40ba0f1c13b2ead908dd8e1f6d1ab837c9c7b5bf9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:00:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bruxelas
+- Convenção
+- Grécia
+- Portugal
+- Roma
+- UEO
+relationships: []
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:00:39Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 9/95
+
+Aprova, para ratificação, o Protocolo de Adesão da República Helénica à União da Europa Ocidental
+
+A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar, para ratificação, o Protocolo de Adesão da República Helénica à União da Europa Ocidental, concluído em Roma em 20 de Novembro de 1992, cuja versão autêntica em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo à presente resolução.
+
+Aprovada em 27 de Outubro de 1994.
+
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
+
+PROTOCOL OF ACCESSION OF THE HELLENIC REPUBLIC TO WESTERN EUROPEAN UNION TOGETHER WITH AN ANNEX.
+
+The High Contracting Parties to the Treaty of Economic, Social and Cultural Collaboration and Collective Self Defence, signed at Brussels on 17th March 1948, as modified and completed by the Protocol signed at Paris on 23 October 1954 and the other Protocols and Annexes which form an integral part thereof, hereinafter referred to as «the Treaty», on the one hand, and the Hellenic Republic on the other:
+
+Reaffirming the common destiny which binds their countries and in accordance with the undertaking to complete an European Union made at Maastricht on 7 February 1992 in the Treaty on European Union;
+
+Convinced that the construction of an integrated Europe will remain incomplete as long as it does not include the development of a European security and defence identity;
+
+Determined to strengthen the role of WEU, in the longer term perspective of a common defence policy within the European Union which might in time lead to a commom defence, compatible with that of the Atlantic Alliance;
+
+Noting that the Hellenic Republic, which is fully committed to the process of European construction and is a member of the Atlantic Alliance, has formally stated that it is prepared to accede to the Treaty;
+
+Noting that the Hellenic Republic accepts the agreements, decisions and rules adopted in conformity with the Treaty and the Declarations starting with the Rome Declaration of 27 October 1984;
+
+Noting that the Hellenic Republic undertakes to develop WEU as the defence component of the European Union and as the means to strengthen the European pillar of the Atlantic Alliance, in keeping with the obligation entered into on 10 December 1991 in the Declaration on the role of WEU and its relations with the European Union and with the Atlantic Alliance attached to the Treaty on European Union, and accepts in full the Petersberg Declaration, in particular its Part III, issued on 19 June 1992;
+
+Recalling the invitation issued on 30 June 1992 by the German Minister of Foreign Affairs and Chairman-in-Office of the Council of Western European Union to the Hellenic Republic to open discussions with a view to its possible accession to the Treaty;
+
+Noting the satisfactory conclusion of the discussions which followed this invitation;
+
+Noting the invitation to accede to the Treaty issued to the Hellenic Republic on 20 November 1992;
+
+Considering that the enlargement of Western European Union to include the Hellenic Republic represents a significant step in the development of the European security and defence identity;
+
+have agreed as follows:
+
+Article I
+
+By the present Protocol, the Hellenic Republic accedes to the Treaty.
+
+Article II
+
+By its accession to the Treaty, the Hellenic Republic becomes party to the Agreements concluded between the member States, as listed in an annex to the present Protocol.
+
+Article III
+
+Each of the signatory States shall notify the Belgian Government of the acceptance, approval or ratification of the present Protocol, which shall enter into force on the day of the receipt of the last of these notifications. The Belgian Government shall inform the signatory States of each such notification and of the entry into force of the Protocol.
+
+In witness whereof the undersigned, being duly authorised thereto, have signed the present Protocol.
+
+Done at Rome, this twentieth day of November 1992 in the English and French languages both textes being equally authoritative, in a single original, which shall remain deposited in the archives of the Government of the Kingdom of Belgium, which shall transmit a certified copy to the Governments of the other signatory States.
+
+For the Government of the Kingdom of Belgium:
+
+Willy Claes.
+
+For the Government of the French Republic:
+
+Roland Dumas.
+
+For the Government of the Federal Republic of Germany:
+
+Klaus Kinkel.
+
+For the Government of the Hellenic Republic:
+
+Mickael Papaconstatinou.
+
+For the Government of the Italian Republic:
+
+Emilio Colombo.
+
+For the Government of the Grand Duchy of Luxembourg:
+
+Jacques F. Poos.
+
+For the Government of the Kingdom of the Netherlands:
+
+Hans Van Den Broek.
+
+For the Government of the Portuguese Republic:
+
+José Manuel Durão Barroso.
+
+For the Government of the Kingdom of Spain:
+
+Javier Solana.
+
+For the Government of the United Kingdom of Great Britain and Northern Ireland:
+
+Douglas Hurd.
+
+ANNEX
+
+Agreements concluded between the Member States in fulfilment of the Treaty
+
+1 - Agreement on the Status of Western European Union, National Representatives and International Staff, signed at Paris on 11 May 1955.
+
+2 - Agreement drawn up in Implementation of Article V of Protocol n.º II to the Treaty, signed at Paris on 14 December 1957.
+
+PROTOCOLO DE ADESÃO DA REPÚBLICA HELÉNICA À UNIÃO DA EUROPA OCIDENTAL ACOMPANHADO DE UM ANEXO.
+
+As Altas Partes Contratantes no Tratado de Colaboração em Matéria Económica, Social e Cultural e de Legítima Defesa Colectiva, assinado em Bruxelas a 17 de Março de 1948, modificado e completado pelo Protocolo assinado em Paris a 23 de Outubro de 1954 e pelos outros Protocolos e anexos que dele fazem parte integrante, a partir daqui designado «o Tratado», por um lado, e a República Helénica, por outro:
+
+Reafirmando o destino comum que liga os seus países e em conformidade com o compromisso de formar uma União Europeia assumido em Maastricht a 7 de Fevereiro de 1992, no Tratado da União Europeia;
+
+Convictas de que a construção de uma Europa integrada ficará incompleta na medida em que não inclua o desenvolvimento de uma identidade europeia de segurança e de defesa;
+
+Determinadas a reforçar o papel da UEO na perspectiva a prazo de uma política de defesa comum no seio da União Europeia, que possa conduzir, no devido momento, a uma defesa comum compatível com a da Aliança Atlântica;
+
+Verificando que a República Helénica, plenamente empenhada na construção europeia e membro da Aliança Atlântica, declarou oficialmente que estava pronta a aderir ao Tratado;
+
+Constatando que a República Helénica aceita os acordos, decisões e regulamentos adoptados em conformidade com as disposições do Tratado e das declarações adoptadas a partir da Declaração de Roma de 27 de Outubro de 1984;
+
+Constatando que a República Helénica se compromete a desenvolver a UEO enquanto componente de defesa da União Europeia e como meio de reforço do pilar europeu da Aliança Atlântica, em conformidade com o compromisso assumido a 10 de Dezembro de 1991 na Declaração sobre o papel da UEO e sobre as suas relações com a União Europeia e com a Aliança Atlântica, anexa ao Tratado da União Europeia, e aceita integralmente a Declaração de Petersberg, nomeadamente a sua parte III, publicada a 19 de Junho de 1992;
+
+Relembrando o convite endereçado a 30 de Junho de 1992 pelo Ministro dos Negócios Estrangeiros da República Federal da Alemanha, Presidente em exercício do Conselho da União da Europa Ocidental, à República Helénica para iniciar discussões com vista à sua eventual adesão ao Tratado;
+
+Tendo em conta a conclusão satisfatória das discussões que se seguiram a esse convite;
+
+Tendo em conta o convite para aderir ao Tratado endereçado à República Helénica a 20 de Novembro de 1992;
+
+Considerando que o alargamento da União da Europa Ocidental à República Helénica constitui uma etapa significativa no desenvolvimento da identidade europeia de segurança e de defesa;
+
+acordaram no seguinte:
+
+###### Artigo I
+
+Pelo presente Protocolo, a República Helénica adere ao Tratado.
+
+###### Artigo II
+
+Por força da sua adesão ao Tratado, a República Helénica torna-se parte nos Acordos concluídos entre os Estados membros, cujos textos se encontram enumerados em anexo ao presente Protocolo.
+
+###### Artigo III
+
+Cada um dos Estados signatários notificará o Governo Belga da aceitação, aprovação ou ratificação do presente Protocolo, o qual entrará em vigor no dia da recepção da última dessas notificações. O Governo Belga informará os Estados signatários dessas notificações e da entrada em vigor do presente Protocolo.
+
+Em fé do que os abaixo assinados, devidamente autorizados para o efeito, assinaram o presente Protocolo.
+
+Feito em Roma, a 20 de Novembro de 1992, nas línguas francesa e inglesa, fazendo os dois textos igualmente fé, num único exemplar, que ficará depositado nos arquivos do Governo do Reino da Bélgica, o qual enviará uma cópia autenticada aos Governos dos outros Estados signatários.
+
+Pelo Governo do Reino da Bélgica:
+
+Willy Claes.
+
+Pelo Governo da República Francesa:
+
+Roland Dumas.
+
+Pelo Governo da República Federal da Alemanha:
+
+Klaus Kinkel.
+
+Pelo Governo da República Helénica:
+
+Mickael Papaconstantinou.
+
+Pelo Governo da República Italiana:
+
+Emilio Colombo.
+
+Pelo Governo do Grão-Ducado do Luxemburgo:
+
+Jacques F. Poos.
+
+Pelo Governo do Reino da Holanda:
+
+Hans Van Den Broek.
+
+Pelo Governo da República Portuguesa:
+
+José Manuel Durão Barroso.
+
+Pelo Governo do Reino da Espanha:
+
+Javier Solana.
+
+Pelo Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte:
+
+Douglas Hurd.
+
+## ANEXO — Acordos concluídos entre os Estados membros em aplicação do Tratado
+
+1 - Convenção Relativa ao Estatuto da União da Europa Ocidental, dos Representantes Nacionais e do Pessoal Internacional, assinada em Paris a 11 de Maio de 1955.
+
+2 - Acordo Concluído em Execução do Artigo V do Protocolo II ao Tratado, assinado em Paris a 14 de Dezembro de 1957.

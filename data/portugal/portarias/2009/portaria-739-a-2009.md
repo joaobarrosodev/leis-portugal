@@ -1,0 +1,435 @@
+---
+schema_version: '1.0'
+id: pt:dre:249854:por
+title: Portaria n.º 739-A/2009
+short_title: null
+summary: Altera o Regulamento de Aplicação da Acção n.º 1.3.1, «Melhoria Produtiva dos Povoamentos», da medida n.º 1.3, «Promoção
+  da competitividade florestal», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento
+  Rural do Continente, aprovado pela Portaria n.º 828/2008, de 8 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 739-A/2009
+official_date: null
+publication_date: '2009-07-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/2009, 1º Suplemento, Série I de 2009-07-09
+  number: '131'
+  series: I
+  supplement: null
+  pages: 4356-(2) a 4356-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13101/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/739-a/2009/07/09/p/dre/pt/html
+  oj: null
+  dre: '249854'
+  dre_path: /dr/detalhe/portaria/739-a-2009-249854
+  internal: pt:dre:249854:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/739-a-2009-249854
+  metadata_url: https://data.dre.pt/eli/port/739-a/2009/07/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/739-a-2009-249854
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:42:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9dfc3fc6b72b30bddb04ce59180707bc14f4b8bf01143e5b1e17b96ee9b96a27
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:42:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio ao Investimento
+- Autoridade Florestal Nacional
+- Contrato de Investimento
+- Direcção Regional de Agricultura e Pescas
+- Exploração Florestal
+- Feader
+- Financiamento
+- Formulário Eletrónico
+- Homologação
+- IFAP
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Página na Internet
+- Plano de Gestão Florestal
+- Plano Regional de Ordenamento do Território
+- Política Florestal
+- Proder
+- Projeto de Investimento
+- Regulamento
+- Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
+- ZONA de Intervenção Florestal
+relationships:
+- type: amended_by
+  target: pt:dre:498497:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 9º, 16º, 17º, 21º, 22º e 24º e o anexo II do Regulamento, aprovado pela Port 828/2008, de 08-Ago,\
+    \ na redacção do presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 9.º, 22.º e 24.º e o anexo ii do Regulamento de Aplicação da Acção n.º 1.3.1, «Melhoria Produtiva\
+    \ dos Povoamentos», aprovado pela Portaria n.º 828/2008, de 08-Ago, na redacção do presente diploma, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: cites
+  target: celex:32005R1698
+  label: null
+  source: http://data.europa.eu/eli/reg/2005/1698/oj
+- type: cites
+  target: pt:dre:455150:por
+  label: null
+  source: http://data.dre.pt/eli/port/828/2008/08/08/p/dre
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 2.5 do ponto «despesas não elegíveis», do anexo II do Regulamento de Aplicação\
+    \ da Ação n.º 1.3.1, «Melhoria produtiva dos povoamentos» aprovado pela Port 828/2008 de 08-ago, alterado pelo presente\
+    \ diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do disposto no seu art. 20º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:42:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 739-A/2009
+
+de 9 de Julho
+
+As recentes alterações ao Decreto-Lei n.º 2/2008, de 4 de Janeiro, e ao Decreto-Lei n.º 37-A/2008, de 5 de Março, promovidas pelo Decreto-Lei n.º 66/2009, de 20 de Março, introduziram ajustamentos ao modelo de governação dos instrumentos de programação do desenvolvimento rural, tendo em vista a garantia de uma gestão mais eficiente e eficaz dos programas, designadamente através da adaptação da distribuição das funções cometidas às respectivas autoridades de gestão e ao organismo pagador.
+
+Por seu turno, a Resolução do Conselho de Ministros n.º 30/2009, de 2 de Abril, alterou a Resolução do Conselho de Ministros n.º 2/2008, de 4 de Janeiro, introduzindo alterações às competências e organização interna da autoridade de gestão do PRODER.
+
+Em conformidade, importa introduzir ajustamentos às portarias que concretizam as regras gerais de aplicação destes diplomas, em que se inclui a Portaria n.º 828/2008, de 8 de Agosto, que estabelece o regime de aplicação da acção n.º 1.3.1, «Melhoria produtiva dos povoamentos», da medida n.º 1.3, «Promoção da competitividade florestal», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:
+
+###### Artigo 1.º — Alteração ao regulamento aprovado pela Portaria n.º 828/2008, de 8 de Agosto
+
+As alíneas c), e), f), j), l) e t) do artigo 4.º, a alínea d) do artigo 9.º, a alínea e) do artigo 12.º, o n.º 1 do artigo 16.º, os n.os 1, 2, 4, 5 e 6 do artigo 17.º, o n.º 2 do artigo 20.º, os n.os 1, 3, 4 e 6 do artigo 21.º, a epígrafe e os n.os 2, 3 e 5 do artigo 22.º, o artigo 24.º e a alínea a) do n.º 1 e o n.º 2 do artigo 26.º do Regulamento anexo à Portaria n.º 828/2008, de 8 de Agosto, passam a ter a seguinte redacção:
+
+«Artigo 4.º
+
+[...]
+
+...
+
+a) ...
+
+b) ...
+
+c) 'Entidade gestora de áreas agrupadas' a pessoa colectiva a quem compete, pelo período mínimo de 10 anos, a gestão comum de uma área agrupada;
+
+d) ...
+
+e) 'Espécies folhosas produtoras de madeira de elevada qualidade' as espécies Acer pseudoplatanus, Castanea sativa, Fraxinus spp., Juglans nigra, Juglans regia, Quercus coccinea, Quercus robur, Quercus rubra, Prunus avium;
+
+f) 'Exploração florestal' o prédio ou conjunto de prédios ocupados total ou parcialmente por espaços florestais, pertencentes a um ou mais proprietários e que estão submetidos a uma gestão única;
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) 'Plano regional de ordenamento florestal (PROF)' o instrumento de política sectorial à escala da região que estabelece as normas específicas de utilização e exploração florestal dos seus espaços, de acordo com os objectivos previstos na Estratégia Nacional para as Florestas, com a finalidade de garantir a produção sustentada do conjunto de bens e serviços a eles associados, regulado nos termos da legislação especial aplicável;
+
+l) 'Plano de gestão florestal (PGF)' o instrumento de administração de espaços florestais que, de acordo com as orientações definidas nos PROF, determina, no espaço e no tempo, as intervenções de natureza cultural e de exploração dos recursos, visando a produção sustentada dos bens e serviços por eles proporcionado e tendo em conta as actividades e usos dos espaços envolventes, regulado nos termos da legislação especial aplicável;
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) ...
+
+q) ...
+
+r) ...
+
+s) ...
+
+t) 'Zonas de intervenção florestal (ZIF)' a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e gerida por uma única entidade, reguladas nos termos da legislação especial aplicável.
+
+Artigo 9.º
+
+[...]
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Incidam em espaços florestais dotados de planos de gestão florestal (PGF), quando se trate de beneficiação de povoamentos florestais, respeitando estes planos a uma área mínima de:
+
+i) 5 ha, no caso dos investimentos que visem espécies folhosas produtoras de madeira de elevada qualidade ou de alfarrobeira sempre que estas espécies representem pelo menos 75 % da área total de intervenção;
+
+ii) 25 ha, nos restantes casos;
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+Artigo 12.º
+
+[...]
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Não locar, alienar ou por qualquer forma onerar os equipamentos, os povoamentos florestais ou as instalações co-financiadas, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização do gestor do PRODER;
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+Artigo 16.º
+
+[...]
+
+1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+2 - ...
+
+Artigo 17.º
+
+[...]
+
+1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no n.º 1 do artigo 14.º e o apuramento do montante do custo total elegível, e procedem à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.
+
+2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário do pedido ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
+
+3 - ...
+
+4 - Os pareceres referidos nos n.os 1 e 3 são emitidos no prazo máximo de 60 dias úteis a contar do termo do prazo de apresentação dos pedidos de apoio e remetido com a correspondente hierarquização à autoridade de gestão.
+
+5 - O secretariado técnico avalia a uniformidade de aplicação dos critérios de selecção e, em função do princípio da coesão territorial e da dotação orçamental referida no respectivo aviso de abertura, submete à decisão do gestor a aprovação dos pedidos de apoio.
+
+6 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 4.
+
+Artigo 20.º
+
+[...]
+
+1 - ...
+
+2 - Em casos excepcionais e devidamente justificados o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
+
+Artigo 21.º
+
+[...]
+
+1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
+
+2 - ...
+
+3 - Apenas são aceites os pedidos de pagamento relativos a despesas efectuadas por transferência bancária, débito em conta ou cheque, comprovados por extracto bancário, nos termos previstos nas cláusulas contratuais e nos números seguintes.
+
+4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.
+
+5 - ...
+
+6 - O pagamento é proporcional à realização da operação, nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.
+
+7 - ...
+
+8 - (Revogado.)
+
+9 - ...
+
+Artigo 22.º
+
+Análise dos pedidos de pagamento
+
+1 - ...
+
+2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
+
+3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
+
+4 - ...
+
+5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
+
+Artigo 24.º
+
+[...]
+
+1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
+
+2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.
+
+3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
+
+Artigo 26.º
+
+[...]
+
+1 - ...
+
+a) Os candidatos apresentem os pedidos de apoio no âmbito dos dois primeiros concursos publicados em que se enquadrem;
+
+b) ...
+
+2 - Às despesas referidas no n.º 1 não é aplicável o disposto na alínea i) do artigo 12.º, desde que esses pagamentos tenham sido efectuados anteriormente à publicação do presente Regulamento.»
+
+###### Artigo 2.º — Alteração ao anexo II do Regulamento aprovado pela Portaria n.º 828/2008, de 8 de Agosto
+
+A alínea e) do n.º 1.5, a alínea a) e a subalínea i) da alínea b) do n.º 1.6 e a alínea a) do n.º 2.2 do anexo ii do Regulamento de Aplicação da Acção n.º 1.3.1, «Melhoria Produtiva dos Povoamentos», aprovado pela Portaria n.º 828/2008, de 8 de Agosto, passam a ter a seguinte redacção:
+
+«ANEXO II
+
+1 - ...
+
+1.1 - ...
+
+1.2 - ...
+
+1.3 - ...
+
+1.4 - ...
+
+1.5 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Equipamentos de corte relacionados com a gestão dos povoamentos, designadamente motosserras, motorroçadouras, corta-matos e estilhaçadores ou trituradores, devendo os dois últimos corresponder a equipamento móvel acoplado à tomada de força de tractor com potência máxima de 70 cv;
+
+f) ...
+
+1.6 - ...
+
+a) A elaboração e acompanhamento da execução do projecto de investimento, incluindo a elaboração da cartografia digital, até um limite a definir em orientações específicas da autoridade de gestão, em função da dimensão do projecto, nunca ultrapassando o montante máximo de (euro) 6000, sem IVA;
+
+b) ...
+
+i) Regime de isenção, o IVA é totalmente elegível, quando resulte da aplicação do artigo 9.º do CIVA;
+
+ii) ...
+
+I) ...
+
+II) ...
+
+1.7 - ...
+
+2 - ...
+
+2.1 - ...
+
+2.2 - ...
+
+a) Regime de isenção ao abrigo dos artigos 2.º e 53.º do CIVA;»
+
+###### Artigo 3.º — Aditamento ao Regulamento aprovado pela Portaria n.º 828/2008, de 8 de Agosto
+
+Ao artigo 6.º do Regulamento de Aplicação da Acção n.º 1.3.1, «Melhoria Produtiva dos Povoamentos», aprovado pela Portaria n.º 828/2008, de 8 de Agosto, é aditada a alínea f) com a seguinte redacção:
+
+«Artigo 6.º
+
+[...]
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Qualquer investimento a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares.»
+
+###### Artigo 4.º — Norma revogatória
+
+É revogado o n.º 8 do artigo 21.º do Regulamento aprovado pela Portaria n.º 828/2008, de 8 de Agosto.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2009.

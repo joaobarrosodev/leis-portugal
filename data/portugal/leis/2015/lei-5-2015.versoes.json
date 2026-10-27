@@ -1,0 +1,518 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66195398:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-155873872",
+ "dre_path": "/dr/detalhe/lei/5-2015-66195398",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "155874265",
+    "155874266",
+    "155874267",
+    "155874268",
+    "155874269",
+    "155874270",
+    "155874271",
+    "155874272",
+    "155874273",
+    "155874274",
+    "155882575",
+    "155882576",
+    "155882577",
+    "155882578",
+    "155882579",
+    "155882580",
+    "155882581",
+    "155882582",
+    "155882583",
+    "155882584",
+    "155882585",
+    "155882586",
+    "155882587",
+    "155882588",
+    "155882589",
+    "155882590",
+    "155882591",
+    "155882592",
+    "155882593",
+    "155882594",
+    "155882595",
+    "155882596",
+    "155882597",
+    "155882598",
+    "155882599",
+    "155882600",
+    "155882601",
+    "155882602",
+    "155882603",
+    "155882604",
+    "155882605",
+    "155882606",
+    "155882607"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "155874265",
+    "155874266",
+    "155874267",
+    "155874268",
+    "155874269",
+    "155874270",
+    "155874271",
+    "155874272",
+    "155874273",
+    "155874274",
+    "155882575",
+    "155882576",
+    "155882577",
+    "155882578",
+    "155882579",
+    "155882580",
+    "155882581",
+    "155882582",
+    "155882583",
+    "155882584",
+    "155882585",
+    "155882586",
+    "155882587",
+    "155882588",
+    "155882589",
+    "155882590",
+    "155882591",
+    "155882592",
+    "155882593",
+    "155882594",
+    "155882609",
+    "155882596",
+    "155882610",
+    "155882598",
+    "155882611",
+    "155882600",
+    "155882612",
+    "155882602",
+    "155882603",
+    "155882604",
+    "155882605",
+    "155882606",
+    "155882607",
+    "155882608"
+   ]
+  }
+ ],
+ "fragments": {
+  "155874265": {
+   "fragment_id": "155873873",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 5/2015\n\nde 15 de janeiro\n\nAssegura a execução ao Regulamento (CE) n.º 2368/2002, do Conselho, de 20 de dezembro, relativo à aplicação do Sistema de Certificação do Processo de Kimberley para o comércio internacional de diamantes em bruto.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "155874266": {
+   "fragment_id": "155873874",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "155874267": {
+   "fragment_id": "155882475",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei assegura a execução, na ordem jurídica interna, do Regulamento (CE) n.º 2368/2002, do Conselho, de 20 de dezembro, adiante designado Regulamento, nos seguintes termos:\n\na) Aplica o Sistema de Certificação do Processo de Kimberley para o comércio internacional de diamantes em bruto e designa, nesse âmbito, a autoridade da União em Portugal e as autoridades nacionais competentes;\n\nb) Regulamenta o acesso e o exercício das atividades de importação e exportação de diamantes em bruto;\n\nc) Estabelece o regime de acesso e de exercício da atividade de perito-classificador-avaliador de diamantes em bruto e de emissão do respetivo título profissional;\n\nd) Estabelece o regime sancionatório aplicável à violação do Sistema de Certificação do Processo de Kimberley."
+  },
+  "155874268": {
+   "fragment_id": "155882476",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Certificado», o documento devidamente emitido e validado por autoridade competente de um participante, que comprova que uma remessa de diamantes em bruto satisfaz os requisitos do Sistema de Certificação do Processo de Kimberley;\n\nb) «Classificação», a atribuição dos códigos de mercadorias mencionados na alínea seguinte;\n\nc) «Diamantes em bruto», os diamantes não trabalhados ou simplesmente serrados, clivados ou desbastados, descritos no Sistema Harmonizado de Designação e de Codificação de Mercadorias com os códigos 7102 10 00, 7102 21 00 e 7102 31 00, designado «código SH», na aceção do Regulamento;\n\nd) «Operadores económicos», as pessoas singulares ou coletivas que procedam à importação ou exportação de diamantes em bruto;\n\ne) «Perito-classificador-avaliador», a pessoa singular detentora de título profissional validamente emitido, a quem compete avaliar diamantes em bruto, quanto ao respetivo valor, qualificação e peso;\n\nf) «Sistema de Certificação do Processo de Kimberley», o sistema internacional de certificação negociado no quadro do Processo de Kimberley, para o comércio internacional de diamantes em bruto (adiante designado SCPK)."
+  },
+  "155874269": {
+   "fragment_id": "155882477",
+   "type": 11,
+   "heading": "Artigo 3.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridades competentes\n\n1 - A Autoridade Tributária e Aduaneira (AT) é a autoridade da União competente para a emissão, validação e verificação dos certificados de importação e exportação dos diamantes em bruto e para o controlo dessas importações e exportações, no âmbito do SCPK.\n\n2 - A Direção-Geral das Atividades Económicas (DGAE) é a autoridade competente para o licenciamento e registo dos operadores económicos que exercem as atividades de importação e exportação de diamantes em bruto.\n\n3 - A Imprensa Nacional-Casa da Moeda, S. A. (INCM), é a entidade competente para o procedimento de habilitação e emissão do título de perito-classificador-avaliador e para a impressão dos certificados de importação e exportação dos diamantes em bruto."
+  },
+  "155874270": {
+   "fragment_id": "155882478",
+   "type": 1,
+   "heading": "Capítulo II — Importação e exportação de diamantes em bruto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Importação e exportação de diamantes em bruto"
+  },
+  "155874271": {
+   "fragment_id": "155882479",
+   "type": 8,
+   "heading": "Secção I — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Licenciamento"
+  },
+  "155874272": {
+   "fragment_id": "155882480",
+   "type": 11,
+   "heading": "Artigo 4.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Licença\n\nAs atividades de importação e exportação de diamantes em bruto só podem ser exercidas por operadores económicos devidamente licenciados e que reúnam condições de idoneidade."
+  },
+  "155874273": {
+   "fragment_id": "155882481",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de licenciamento\n\nO pedido de licenciamento de atividades de importação e exportação é apresentado, por meios eletrónicos, junto da DGAE, através de formulário próprio, que contém os seguintes elementos:\n\na) Identificação do requerente com menção do nome ou firma e da nacionalidade ou estatuto de residência;\n\nb) Endereço da sede ou do domicílio fiscal, consoante se trate de pessoa coletiva ou de empresário em nome individual;\n\nc) Código da certidão permanente ou declaração de início de atividade, consoante se trate de pessoa coletiva ou de empresário em nome individual;\n\nd) Certificado de registo criminal do requerente ou, tratando-se de pessoa coletiva, dos respetivos administradores, diretores ou gerentes;\n\ne) Declaração escrita, sob compromisso de honra, atestando que em relação ao requerente ou, tratando-se de pessoa coletiva, aos respetivos administradores, diretores ou gerentes não se verifica qualquer uma das circunstâncias que determinam a inidoneidade do operador económico."
+  },
+  "155874274": {
+   "fragment_id": "155882482",
+   "type": 11,
+   "heading": "Artigo 6.º — Emissão da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Emissão da licença\n\n1 - A licença é emitida no prazo de cinco dias úteis a contar da receção do pedido de licenciamento, submetido nos termos do artigo anterior.\n\n2 - Os operadores económicos que sejam titulares de licença de atividade devem comunicar à DGAE, no prazo de 30 dias após a respetiva verificação, qualquer uma das seguintes situações:\n\na) Alteração dos administradores, diretores ou gerentes;\n\nb) Alterações da denominação comercial, da natureza jurídica e da sede ou do domicílio fiscal;\n\nc) Cessação da atividade.\n\n3 - No caso previsto na alínea a) do número anterior, a comunicação é acompanhada dos respetivos certificados de registo criminal."
+  },
+  "155882575": {
+   "fragment_id": "155882483",
+   "type": 11,
+   "heading": "Artigo 7.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Idoneidade\n\n1 - A atividade de importação e exportação de diamantes em bruto só pode ser exercida por operadores económicos considerados idóneos.\n\n2 - Para efeitos do disposto no número anterior, entende-se que determina a inidoneidade do operador económico a verificação de alguma das seguintes circunstâncias:\n\na) Ter sido declarado insolvente por decisão judicial nos últimos cinco anos, encontrar-se em fase de liquidação, dissolução ou cessação de atividade, sujeito a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, ou que tenha o respetivo processo pendente, salvo quando se encontrar abrangido por um plano especial de recuperação de empresas ao abrigo da legislação em vigor;\n\nb) Ter sido condenado, em Portugal ou no estrangeiro, com trânsito em julgado, pela prática de um dos seguintes crimes, desde que puníveis com pena de prisão superior a seis meses:\n\ni) Crimes contra o património;\n\nii) Crime de tráfico de estupefacientes;\n\niii) Crime de branqueamento de capitais;\n\niv) Crime de corrupção;\n\nv) Crimes de falsificação;\n\nvi) Crime de tráfico de influência;\n\nvii) Crimes tributários ou aduaneiros previstos no Regime Geral das Infrações Tributárias (RGIT), aprovado pela Lei n.º 15/2001, de 5 de junho.\n\n3 - Determina ainda a inidoneidade do operador económico a verificação de alguma das circunstâncias previstas no número anterior relativamente aos seus administradores, diretores ou gerentes.\n\n4 - As condenações a que se refere a alínea b) do n.º 2 deixam de ser relevantes a partir da data do cancelamento definitivo da sua inscrição no registo criminal.\n\n5 - A falta superveniente do requisito de idoneidade implica a caducidade da licença reportada à data da verificação da circunstância que determina a inidoneidade do operador económico."
+  },
+  "155882576": {
+   "fragment_id": "155882484",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo dos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo dos operadores económicos\n\n1 - A DGAE organiza e mantém atualizado o registo dos operadores económicos estabelecidos em território nacional, com base nas licenças atribuídas para o exercício da atividade.\n\n2 - O registo tem como objetivo identificar e caracterizar o universo dos operadores económicos que exercem a atividade económica de importação e exportação de diamantes em bruto."
+  },
+  "155882577": {
+   "fragment_id": "155882485",
+   "type": 8,
+   "heading": "Secção II — Condições e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições e obrigações"
+  },
+  "155882578": {
+   "fragment_id": "155882486",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições gerais de importação e exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições gerais de importação e exportação\n\n1 - As operações de importação e exportação de diamantes em bruto só podem ser efetuadas pelos operadores económicos quando satisfaçam as condições definidas, respetivamente, nos artigos 3.º e 11.º do Regulamento.\n\n2 - Para efeitos do disposto no número anterior, os operadores económicos devem notificar previamente a autoridade competente das operações que pretendem realizar, nos termos e condições a definir por despacho do diretor-geral da AT.\n\n3 - Os particulares que transportem consigo diamantes em bruto provenientes ou destinados a países terceiros, ou que os recebam ou enviem como encomenda postal, devem apresentá-los à alfândega conjuntamente com o respetivo certificado, no momento da entrada ou da saída do território nacional, para proceder à sua legalização, através do cumprimento de todas as formalidades legais e regulamentares necessárias, quer na importação, quer na exportação.\n\n4 - As formalidades de importação e exportação devem ser cumpridas na alfândega com competência específica para o controlo destes movimentos, devidamente identificada no Portal das Finanças, à qual é atribuída, para este efeito, jurisdição nacional."
+  },
+  "155882579": {
+   "fragment_id": "155882487",
+   "type": 11,
+   "heading": "Artigo 10.º — Condições específicas para a importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condições específicas para a importação\n\n1 - O importador de diamantes em bruto apresenta a remessa na alfândega competente acompanhada do respetivo certificado, emitido por um país participante do SCPK, para cumprimento das formalidades de importação e para efeitos de verificação da observância das condições previstas no artigo 3.º e na alínea a) do n.º 1 do artigo 5.º do Regulamento.\n\n2 - Quando uma remessa for composta por mais do que um contentor é necessário proceder à verificação física de cada contentor.\n\n3 - A importação depende da intervenção de um perito-classificador-avaliador, o qual procede à peritagem no momento da verificação aduaneira de cada remessa e elabora o respetivo relatório.\n\n4 - Em caso de incumprimento das condições referidas nos números anteriores, a AT apreende a remessa."
+  },
+  "155882580": {
+   "fragment_id": "155882488",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições específicas para a exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Condições específicas para a exportação\n\n1 - Previamente ao cumprimento das formalidades de exportação, o exportador de diamantes em bruto requer à AT a emissão e validação do certificado previsto no n.º 3 do artigo 9.º, fazendo prova de que se encontram preenchidas as condições previstas no artigo 12.º do Regulamento.\n\n2 - Se for titular de um certificado válido, emitido por uma autoridade da União, o exportador deve apresentá-lo juntamente com a remessa na alfândega competente.\n\n3 - A emissão e validação do certificado, bem como a verificação da remessa e a selagem do contentor estão sujeitas às condições previstas nos artigos 11.º e 12.º do Regulamento.\n\n4 - Quando uma remessa for composta por mais do que um contentor é necessário proceder à verificação física de cada contentor.\n\n5 - A exportação depende da intervenção de um perito-classificador-avaliador, o qual procede à peritagem no momento da verificação aduaneira de cada remessa e elabora o respetivo relatório.\n\n6 - Em caso de incumprimento das condições referidas nos números anteriores, a AT apreende a remessa."
+  },
+  "155882581": {
+   "fragment_id": "155882489",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações dos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações dos operadores económicos\n\n1 - Os operadores económicos que exerçam a atividade de importação e exportação de diamantes em bruto devem manter, por um período de cinco anos, registos permanentemente atualizados de todas as operações de compra, venda, importação ou exportação que contenham os nomes dos clientes e fornecedores, os números das respetivas declarações aduaneiras e os números dos certificados correspondentes, bem como conservar cópia do certificado previsto no n.º 3 do artigo 9.º\n\n2 - A responsabilidade pelo pagamento dos custos inerentes à intervenção do perito-classificador-avaliador e devidos pela peritagem do certificado apresentado é imputada ao importador ou exportador, consoante o caso.\n\n3 - As obrigações referidas nos números anteriores são também aplicáveis aos particulares que transportem consigo diamantes em bruto provenientes de países terceiros."
+  },
+  "155882582": {
+   "fragment_id": "155882490",
+   "type": 1,
+   "heading": "Capítulo III — Perito-classificador-avaliador de diamantes em bruto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Perito-classificador-avaliador de diamantes em bruto"
+  },
+  "155882583": {
+   "fragment_id": "155882491",
+   "type": 11,
+   "heading": "Artigo 13.º — Título profissional de perito-classificador-avaliador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Título profissional de perito-classificador-avaliador\n\nA atividade de perito-classificador-avaliador de diamantes em bruto em território nacional só pode ser exercida por quem for detentor de título profissional válido e reúna condições de idoneidade."
+  },
+  "155882584": {
+   "fragment_id": "155882492",
+   "type": 11,
+   "heading": "Artigo 14.º — Atividade de perito-classificador-avaliador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Atividade de perito-classificador-avaliador\n\n1 - A atividade de perito-classificador-avaliador de diamantes em bruto, habilitado com o respetivo título profissional, consiste, designadamente, no exercício das seguintes funções:\n\na) Inspeção física dos diamantes importados e exportados;\n\nb) Comparação dos dados dos diamantes inspecionados com os dados indicados no certificado que os acompanhe;\n\nc) Abertura das embalagens e lotes de diamantes em bruto, sempre que necessário, para efeitos de inspeção;\n\nd) Verificação de que todos os documentos referentes aos diamantes em bruto se encontram suficientemente detalhados e correspondem aos diamantes importados ou exportados que sejam inspecionados.\n\n2 - Nas inspeções físicas, os peritos-classificadores-avaliadores devem observar as seguintes orientações:\n\na) Não pode haver qualquer diferença entre o valor declarado do diamante e o valor que resulte da avaliação;\n\nb) O peso do diamante deve ser preciso;\n\nc) Cada diamante avaliado deve ser devidamente identificado de acordo com os códigos descritos no Sistema Harmonizado de Designação e de Codificação de Mercadorias.\n\n3 - Os peritos-classificadores-avaliadores elaboram um relatório detalhado de cada inspeção efetuada.\n\n4 - No exercício da sua atividade, os peritos-classificadores-avaliadores encontram-se obrigados ao sigilo profissional."
+  },
+  "155882585": {
+   "fragment_id": "155882493",
+   "type": 11,
+   "heading": "Artigo 15.º — Habilitação a exame dos peritos-classificadores-avaliadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Habilitação a exame dos peritos-classificadores-avaliadores\n\n1 - A pessoa singular que pretenda obter o título profissional de perito-classificador-avaliador submete-se a exame a realizar na INCM, devendo, para o efeito, apresentar, por meios eletrónicos, junto desta, através de formulário próprio, um requerimento instruído com os seguintes elementos:\n\na) Certificado do registo criminal atualizado;\n\nb) Declaração em como não se encontra numa das situações que determina inidoneidade;\n\nc) Declaração de um médico oftalmologista que confirme a capacidade visual do candidato;\n\nd) Documentação original, emitida por entidades competentes, que ateste que o candidato detém, pelo menos, cinco anos de experiência profissional na avaliação de diamantes em bruto, comprovando a aptidão para o exercício da atividade;\n\ne) Documentação comprovativa da frequência e aprovação nos cursos técnicos e científicos e das habilitações que o candidato possui na área da avaliação de diamantes em bruto.\n\n2 - Verificada a correta instrução do requerimento e o preenchimento dos demais requisitos legais, a INCM determina a constituição da comissão que realiza o exame, a qual é composta por cinco membros:\n\na) Um presidente, gemólogo, titular de um diploma universitário reconhecido na matéria, a designar pela INCM;\n\nb) Dois membros efetivos e dois membros suplentes, com reconhecidos conhecimentos profissionais em diamantes, a designar pela INCM;\n\nc) Dois membros efetivos e dois membros suplentes, a designar pela AT."
+  },
+  "155882586": {
+   "fragment_id": "155882494",
+   "type": 11,
+   "heading": "Artigo 16.º — Exame, avaliação e classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Exame, avaliação e classificação\n\n1 - A estrutura do exame é composta por uma parte teórica, relativa à gemologia e à economia de uma empresa específica do setor de diamantes, e por uma parte prática, que consiste na inspeção física de lotes de diamantes e na elaboração do respetivo relatório.\n\n2 - A comissão classifica os candidatos de acordo com os resultados obtidos nos exames, submetendo essa classificação ao Conselho de Administração da INCM para ratificação.\n\n3 - Os peritos-classificadores-avaliadores são nomeados por cinco anos, findos os quais os seus conhecimentos são objeto de reavaliação por uma comissão de reavaliação, nomeada em termos idênticos à comissão de exame, sujeitando-se a uma prova de reavaliação."
+  },
+  "155882587": {
+   "fragment_id": "155882495",
+   "type": 11,
+   "heading": "Artigo 17.º — Divulgação da composição da comissão, do exame e da classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Divulgação da composição da comissão, do exame e da classificação\n\n1 - A composição da comissão, a data e o local de realização do exame, bem como a estrutura do exame, são divulgados em anúncio publicado pela INCM em dois jornais de divulgação nacional e no Jornal Oficial da União Europeia, bem como no Portal da INCM e no Portal do Cidadão.\n\n2 - A classificação dos candidatos, após ratificação do Conselho de Administração da INCM, é divulgada em anúncio publicado no Portal da INCM e no Portal do Cidadão e enviada à AT."
+  },
+  "155882588": {
+   "fragment_id": "155882496",
+   "type": 11,
+   "heading": "Artigo 18.º — Peritos-classificadores-avaliadores provenientes de outros Estados membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Peritos-classificadores-avaliadores provenientes de outros Estados membros\n\n1 - Os cidadãos nacionais de Estados membros da União Europeia ou do Espaço Económico Europeu, cujas qualificações tenham sido obtidas noutro Estado membro, acedem à atividade de perito-classificador-avaliador pelo reconhecimento das suas qualificações nos termos do disposto na Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.º 41/2012, de 28 de agosto, e 25/2014, de 2 de maio.\n\n2 - O reconhecimento das qualificações referidas no número anterior compete à INCM."
+  },
+  "155882589": {
+   "fragment_id": "155882497",
+   "type": 11,
+   "heading": "Artigo 19.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Idoneidade\n\n1 - A atividade de perito-classificador-avaliador só pode ser exercida por pessoas singulares consideradas idóneas nos termos do artigo 7.º\n\n2 - A falta superveniente do requisito de idoneidade implica a caducidade do título profissional reportada à data da verificação da circunstância que determina a inidoneidade."
+  },
+  "155882590": {
+   "fragment_id": "155882498",
+   "type": 11,
+   "heading": "Artigo 20.º — Lista dos peritos-classificadores-avaliadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Lista dos peritos-classificadores-avaliadores\n\n1 - No Portal das Finanças é divulgada a lista dos peritos-classificadores-avaliadores habilitados a exercer a respetiva atividade.\n\n2 - Os operadores económicos podem escolher qualquer um dos peritos-classificadores-avaliadores que façam parte da lista, ficando responsáveis pelo pagamento dos respetivos honorários."
+  },
+  "155882591": {
+   "fragment_id": "155882499",
+   "type": 11,
+   "heading": "Artigo 21.º — Suspensão do título profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Suspensão do título profissional\n\n1 - A INCM suspende o título profissional do perito-classificador-avaliador:\n\na) Quando este não atualize periodicamente os seus conhecimentos, nos termos do n.º 3 do artigo 16.º;\n\nb) Quando se verifique qualquer uma das situações de falta de idoneidade previstas no artigo 7.º\n\n2 - A suspensão do título profissional prevista na alínea a) do número anterior cessa logo que o perito-classificador-avaliador realize e comprove a atualização periódica dos seus conhecimentos.\n\n3 - Em caso de suspensão do título profissional, o perito-classificador-avaliador é notificado para proceder, voluntariamente, à entrega do título à INCM, sob pena de ser determinada a sua apreensão.\n\n4 - Ao procedimento de suspensão do título profissional é aplicável o Código de Procedimento Administrativo."
+  },
+  "155882592": {
+   "fragment_id": "155882500",
+   "type": 11,
+   "heading": "Artigo 22.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Seguro de responsabilidade civil\n\n1 - O perito-classificador-avaliador deve dispor de seguro de responsabilidade civil, garantia financeira ou instrumento equivalente para cobrir eventuais danos resultantes do exercício da atividade.\n\n2 - O capital seguro, a garantia financeira ou o instrumento equivalente referidos no número anterior devem ser de valor mínimo obrigatório de 200 000 euros, sendo este valor atualizado em cada ano civil pelo Índice de Preços do Consumidor, quando positivo, referente ao ano civil anterior, publicado pelo Instituto Nacional de Estatística.\n\n3 - Os seguros, as garantias financeiras ou os instrumentos equivalentes celebrados noutro Estado membro da União Europeia ou do Espaço Económico Europeu são reconhecidos nos termos do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n4 - Os documentos comprovativos do seguro, da garantia financeira ou do instrumento equivalente devem ser exibidos às autoridades policiais ou à Autoridade de Segurança Alimentar e Económica (ASAE) sempre que sejam solicitados por estas."
+  },
+  "155882593": {
+   "fragment_id": "155882501",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "155882594": {
+   "fragment_id": "155882502",
+   "type": 11,
+   "heading": "Artigo 23.º — Entidades competentes para a fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entidades competentes para a fiscalização\n\n1 - Compete à ASAE e à AT a fiscalização do cumprimento do disposto na presente lei.\n\n2 - Sempre que existam indícios da prática de infração, as autoridades fiscalizadoras ou policiais podem submeter o certificado referido no n.º 3 do artigo 9.º a peritagem na INCM."
+  },
+  "155882595": {
+   "fragment_id": "155882503",
+   "type": 11,
+   "heading": "Artigo 24.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Medidas cautelares\n\n1 - Sempre que sejam encontrados no mercado diamantes em bruto não acompanhados de um certificado válido emitido pela autoridade competente do SCPK, as entidades referidas no artigo anterior podem determinar:\n\na) A suspensão imediata do exercício da atividade dos operadores económicos;\n\nb) O encerramento provisório dos estabelecimento, na sua totalidade ou em parte;\n\nc) A apreensão dos diamantes que se encontrem nessas condições.\n\n2 - As medidas cautelares referidas no número anterior vigoram até à decisão final no respetivo processo-crime ou processo contraordenacional, sem prejuízo da possibilidade, a todo o tempo, da sua alteração, substituição ou revogação nos termos gerais.\n\n3 - Da decisão de aplicação da medida cautelar cabe recurso para o tribunal judicial competente, nos termos legais."
+  },
+  "155882596": {
+   "fragment_id": "155882504",
+   "type": 11,
+   "heading": "Artigo 25.º — Contrabando de diamantes em bruto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contrabando de diamantes em bruto\n\n1 - A importação ou exportação de diamantes em bruto, sem que os mesmos se apresentem acompanhados de um certificado válido emitido pela autoridade competente do SCPK, constitui crime aduaneiro de contrabando, sendo punido com pena de prisão de 3 a 8 anos.\n\n2 - Na mesma pena incorre quem oferecer, puser à venda, vender, ceder ou por qualquer título receber, comprar, transportar, fizer transitar ou ilicitamente detiver diamantes em bruto, sem que os mesmos se apresentem acompanhados do certificado válido emitido pela autoridade competente do SCPK.\n\n3 - A tentativa é punível.\n\n4 - A prática dos crimes previstos nos n.os 1 e 2 determina sempre a perda dos diamantes em bruto a favor do Estado."
+  },
+  "155882597": {
+   "fragment_id": "155882505",
+   "type": 11,
+   "heading": "Artigo 26.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Contraordenações\n\n1 - Constituem contraordenações:\n\na) A falta da licença prevista no artigo 4.º, punível com coima de 5000 euros a 25 000 euros ou de 10 000 euros a 100 000 euros, consoante o operador económico seja pessoa singular ou coletiva;\n\nb) A não comunicação das circunstâncias previstas no n.º 2 do artigo 7.º, punível com 2500 euros a 12 500 euros ou de 7500 euros a 75 000 euros, consoante o agente seja pessoa singular ou coletiva;\n\nc) A infração ao disposto n.º 1 do artigo 12.º, punível com coima 2500 euros a 12 500 euros ou de 7500 euros a 75 000 euros, consoante o agente seja pessoa singular ou coletiva;\n\nd) Exercício da atividade de perito-classificador-avaliador por quem não se encontre habilitado com o respetivo título profissional, em violação do disposto no artigo 13.º, punível com coima de 15 000 euros a 30 000 euros;\n\ne) Exercício da atividade de perito-classificador-avaliador em violação do disposto em qualquer uma das disposições dos n.os 1 a 4 do artigo 14.º, punível com coima de 5500 euros a 12 500 euros;\n\nf) Exercício da atividade de perito-classificador-avaliador em violação do disposto no artigo 19.º, punível com coima de 20 000 euros a 25 000 euros;\n\ng) Exercício da atividade de perito-classificador-avaliador, cujo título profissional tenha sido suspenso ou interditado, nos termos do artigo 21.º ou do n.º 3 do presente artigo, punível com coima de 20 000 euros a 50 000 euros;\n\nh) Exercício da atividade de perito-classificador-avaliador em violação do disposto no artigo 22.º, punível com coima de 20 000 euros a 50 000 euros;\n\ni) As condutas previstas no n.os 1 e 2 do artigo 25.º, puníveis com coima de 15 000 euros a 75 000 euros, se o valor da prestação tributária em falta for igual ou inferior a 15 000 euros ou, não havendo lugar a prestação tributária, a mercadoria objeto da infração for de valor aduaneiro igual ou inferior a 50 000 euros, se pena mais grave lhe não couber por força de outra disposição legal.\n\n2 - A contraordenação prevista na alínea i) do número anterior é punível quando cometida a título de negligência e determina sempre a perda dos diamantes em bruto a favor do Estado.\n\n3 - Em função da gravidade das infrações e da culpa do agente pode ser determinada a revogação da licença do operador económico, do título profissional de perito-classificador-avaliador e a interdição do exercício da atividade por um período até dois anos, assim como a perda dos diamantes em bruto a favor do Estado."
+  },
+  "155882598": {
+   "fragment_id": "155882506",
+   "type": 11,
+   "heading": "Artigo 27.º — Instrução dos processos e aplicação das coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instrução dos processos e aplicação das coimas e sanções acessórias\n\n1 - Cabe à ASAE instaurar e instruir os processos relativos às contraordenações previstas nas alíneas a) a h) do n.º 1 do artigo anterior, competindo ao inspetor-geral a aplicação das respetivas coimas e sanções acessórias.\n\n2 - Compete à AT instaurar e instruir os processos e aplicar as coimas e sanções acessórias relativamente às contraordenações previstas na alínea i) do n.º 1 do artigo anterior."
+  },
+  "155882599": {
+   "fragment_id": "155882507",
+   "type": 11,
+   "heading": "Artigo 28.º — Destino do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Destino do produto das coimas\n\n1 - O produto das coimas referidas nas alíneas a) a c) do no n.º 1 do artigo 26.º reverte em:\n\na) 60 % para o Estado;\n\nb) 30 % para a ASAE;\n\nc) 10 % para a DGAE.\n\n2 - O produto das coimas referidas nas alíneas d) a h) do n.º 1 do artigo 26.º reverte em:\n\na) 60 % para o Estado;\n\nb) 25 % para a ASAE;\n\nc) 15 % para a INCM.\n\n3 - O produto das coimas referidas na alínea i) do n.º 1 do artigo 26.º reverte a favor da AT."
+  },
+  "155882600": {
+   "fragment_id": "155882508",
+   "type": 11,
+   "heading": "Artigo 29.º — Depósito e venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Depósito e venda\n\n1 - Os diamantes em bruto que tenham constituído objeto de contraordenação e que tenham sido apreendidos são depositados na Caixa Geral de Depósitos, S. A., devendo esta promover a sua venda em colaboração com a AT e com observância de todos os condicionalismos legais.\n\n2 - Os diamantes em bruto referidos no número anterior que tenham sido declarados perdidos a favor do Estado são depositados na Caixa Geral de Depósitos, S. A., devendo a Direção-Geral do Tesouro e Finanças promover a sua venda com observância de todos os condicionalismos legais.\n\n3 - O produto líquido da venda dos diamantes em bruto perdidos a favor do Estado é distribuído da seguinte forma:\n\na) 85 % para o Estado;\n\nb) 15 % para a entidade que tenha procedido à sua apreensão."
+  },
+  "155882601": {
+   "fragment_id": "155882509",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime aplicável e direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regime aplicável e direito subsidiário\n\n1 - Aos crimes previstos no artigo 25.º são aplicáveis, subsidiariamente, as disposições do RGIT.\n\n2 - Às contraordenações previstas nas alíneas a) a h) do n.º 1 do artigo 26.º, incluindo o que respeita a sanções acessórias, aplica-se o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n3 - Às contraordenações previstas na alínea i) do n.º 1 do artigo 26.º, incluindo o que respeita a sanções acessórias, aplica-se o RGIT."
+  },
+  "155882602": {
+   "fragment_id": "155882510",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares e finais"
+  },
+  "155882603": {
+   "fragment_id": "155882511",
+   "type": 11,
+   "heading": "Artigo 31.º — Balcão único eletrónico e desmaterialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Balcão único eletrónico e desmaterialização\n\n1 - Sem prejuízo do disposto nos artigos 9.º a 12.º, todas as comunicações, notificações e pedidos, bem como o envio de documentos, de requerimentos ou de informações no âmbito da presente lei, são realizados por via eletrónica, através do balcão único eletrónico dos serviços a que se referem os artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - Quando, por motivos de indisponibilidade do balcão único e ou das demais plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efetuada através de correio eletrónico, para um endereço específico criado pela entidade competente, ou, quando este esteja indisponível, por outros meios legalmente admissíveis.\n\n3 - O requerente pode solicitar a dispensa da apresentação dos documentos em posse de qualquer autoridade administrativa pública nacional, nos termos da alínea d) do artigo 5.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.\n\n4 - O balcão único eletrónico deve disponibilizar informação e dados em formatos abertos, que permitam a leitura por máquina, nos termos da Lei n.º 36/2011, de 21 de junho.\n\n5 - Para os efeitos previstos no artigo 8.º, o número da licença e da identificação fiscal, o nome ou firma do operador económico e, tratando-se de pessoa coletiva, o endereço da sede são disponibilizados no sítio na Internet da DGAE, bem como através do sistema de pesquisa online de informação pública, previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio, em formatos abertos, que permitam a leitura por máquina, nos termos da Lei n.º 36/2011, de 21 de junho.\n\n6 - A lista dos peritos-classificadores-avaliadores referida no artigo 20.º é disponibilizada através do sistema de pesquisa online de informação pública, nos termos previstos no número anterior."
+  },
+  "155882604": {
+   "fragment_id": "155882512",
+   "type": 11,
+   "heading": "Artigo 32.º — Certificado de importação ou exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Certificado de importação ou exportação\n\n1 - O modelo e as especificações do certificado referido no n.º 3 do artigo 9.º constam dos anexos i e iv ao Regulamento.\n\n2 - A INCM tem competência exclusiva no território nacional para a impressão e a venda do certificado."
+  },
+  "155882605": {
+   "fragment_id": "155882513",
+   "type": 11,
+   "heading": "Artigo 33.º — Taxas e regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Taxas e regulamentação\n\n1 - Pela emissão do certificado referido no n.º 3 do artigo 9.º é devida uma taxa a fixar por portaria do membro do Governo responsável pela área das finanças.\n\n2 - A AT assegura a cobrança das taxas a que haja lugar no momento da emissão do certificado, constituindo o montante cobrado receita própria da AT e da INCM, na proporção de 20 % e 80 %, respetivamente.\n\n3 - Os custos de emissão e validação do certificado ficam a cargo do importador ou exportador, nos termos e condições a fixar por portaria do membro do Governo responsável pela área das finanças.\n\n4 - Pela emissão do título profissional de perito-classificador-avaliador referido no artigo 13.º é devida uma taxa a fixar por portaria do membro do Governo responsável pela área das finanças, que constitui receita própria da INCM.\n\n5 - A realização do exame e da prova de reavaliação referidos nos artigos 15.º e 16.º estão sujeitas ao pagamento prévio de uma taxa a fixar por portaria do membro do Governo responsável pela área das finanças, que constitui receita própria da INCM.\n\n6 - As condições mínimas do seguro de responsabilidade civil referido no artigo 22.º são fixadas por portaria do membro do Governo responsável pela área das finanças.\n\n7 - Pela sujeição a peritagem do certificado de importação ou exportação nos termos do n.º 2 do artigo 23.º fica o respetivo operador económico sujeito ao pagamento de uma taxa a fixar por portaria do membro do Governo responsável pela área das finanças, que constitui receita própria da INCM.\n\n8 - As condições técnicas, o prazo de duração, os custos, bem como outros requisitos específicos de movimentação do depósito referido no n.º 1 do artigo 29.º, são fixados por portaria do membro do Governo responsável pela área das finanças."
+  },
+  "155882606": {
+   "fragment_id": "155882514",
+   "type": 11,
+   "heading": "Artigo 34.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Norma revogatória\n\nFicam revogados o Decreto-Lei n.º 139/91, de 10 de abril, e o Decreto Regulamentar n.º 4/97, de 21 de fevereiro, em tudo o que disponham em sentido contrário à presente lei."
+  },
+  "155882607": {
+   "fragment_id": "155882515",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor e produção de efeitos\n\nA presente lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação, produzindo efeitos com a publicação, no Jornal Oficial da União Europeia, da alteração ao anexo iii do Regulamento, que aprova a designação da autoridade da União em Portugal."
+  },
+  "155882609": {
+   "fragment_id": "155882503",
+   "type": 11,
+   "heading": "Artigo 24.º — Medidas cautelares",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 24.º — Medidas cautelares\n\n1 - Sempre que sejam encontrados no mercado diamantes em bruto não acompanhados de um certificado válido emitido pela autoridade competente do SCPK, as entidades referidas no artigo anterior podem determinar:\n\na) A suspensão imediata do exercício da atividade dos operadores económicos;\n\nb) O encerramento provisório dos estabelecimento, na sua totalidade ou em parte;\n\nc) A apreensão dos diamantes que se encontrem nessas condições.\n\n2 - As medidas cautelares referidas no número anterior vigoram até à decisão final no respetivo processo-crime ou processo contraordenacional, sem prejuízo da possibilidade, a todo o tempo, da sua alteração, substituição ou revogação nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n3 - Da decisão de aplicação da medida cautelar cabe recurso para o tribunal judicial competente, nos termos legais.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155882610": {
+   "fragment_id": "155882505",
+   "type": 11,
+   "heading": "Artigo 26.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 26.º — Contraordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:\n\na) A falta da licença prevista no artigo 4.º;\n\nb) O exercício da atividade de perito-classificador-avaliador, cujo título profissional tenha sido suspenso ou interditado, nos termos do artigo 21.º ou do n.º 4 do presente artigo;\n\nc) O exercício da atividade de perito-classificador-avaliador em violação do disposto no artigo 22.º;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) A não comunicação das circunstâncias previstas no n.º 2 do artigo 7.º;\n\nb) A infração ao disposto no n.º 1 do artigo 12.º;\n\nc) O exercício da atividade de perito-classificador-avaliador por quem não se encontre habilitado com o respetivo título profissional, em violação do disposto no artigo 13.º;\n\nd) O exercício da atividade de perito-classificador-avaliador em violação do disposto em qualquer uma das disposições dos n.os 1 a 4 do artigo 14.º;\n\ne) O exercício da atividade de perito-classificador-avaliador em violação do disposto no artigo 19.º\n\n3 - As condutas previstas nos n.os 1 e 2 do artigo 25.º, são puníveis com coima de 15 000 euros a 75 000 euros, se o valor da prestação tributária em falta for igual ou inferior a 15 000 euros ou, não havendo lugar a prestação tributária, a mercadoria objeto da infração for de valor aduaneiro igual ou inferior a 50 000 euros, se pena mais grave lhe não couber por força de outra disposição legal, cuja contraordenação, quando cometida a título de negligência, determina sempre a perda dos diamantes em bruto a favor do Estado.\n\n4 - Em função da gravidade das infrações e da culpa do agente pode ser determinada a revogação da licença do operador económico, do título profissional de perito-classificador-avaliador e a interdição do exercício da atividade por um período até dois anos, assim como a perda dos diamantes em bruto a favor do Estado.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155882611": {
+   "fragment_id": "155882507",
+   "type": 11,
+   "heading": "Artigo 28.º — Destino do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 28.º — Destino do produto das coimas\n\n1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas na presente lei é repartido nos termos do RJCE.\n\n2 - (Revogado.)\n\n3 - O produto das coimas pela prática da contraordenação previstas no n.º 3 do artigo 26.º reverte a favor da AT.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155882612": {
+   "fragment_id": "155882509",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime aplicável e direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 30.º — Regime aplicável e direito subsidiário\n\n1 - Aos crimes previstos no artigo 25.º são aplicáveis, subsidiariamente, as disposições do RGIT.\n\n2 - Às contraordenações económicas, incluindo o que respeita a sanções acessórias, aplica-se o RJCE.\n\n3 - À contraordenação prevista no n.º 3 do artigo 26.º, incluindo o que respeita a sanções acessórias, aplica-se o RGIT.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155882608": {
+   "fragment_id": "155882516",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de dezembro de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 5 de janeiro de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 7 de janeiro de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

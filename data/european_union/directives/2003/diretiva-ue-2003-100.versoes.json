@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0100:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0100-20031121",
+ "dre_path": null,
+ "source_lastmod": "2003-11-21",
+ "versions": [
+  {
+   "date": "2003-11-01",
+   "future": false,
+   "celex": "32003L0100",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5d89d6eb88c1a00f",
+    "3eb670b11dfc905c",
+    "d0a51cbd8acc8045",
+    "03c8638f6d672cde",
+    "7f5d90cbc7246098",
+    "211e98fb12b63a35"
+   ]
+  }
+ ],
+ "fragments": {
+  "5d89d6eb88c1a00f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/100/CE da Comissão, de 31 de Outubro de 2003, que altera o anexo I da Directiva 2002/32/CE do Parlamento Europeu e do Conselho relativa às substâncias indesejáveis nos alimentos para animais (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 285 de 01/11/2003 p. 0033 - 0037*\n\nDirectiva 2003/100/CE da Comissão\n\nde 31 de Outubro de 2003\n\nque altera o anexo I da Directiva 2002/32/CE do Parlamento Europeu e do Conselho relativa às substâncias indesejáveis nos alimentos para animais\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2002/32/CE do Parlamento Europeu e do Conselho, de 7 de Maio de 2002, relativa às substâncias indesejáveis nos alimentos para animais(1), com a última redacção que lhe foi dada pela Directiva 2003/57/CE(2), e, nomeadamente, o n.o 1 do seu artigo 8.o,\n\nConsiderando o seguinte:\n\n(1) A Directiva 2002/32/CE estabelece a proibição da utilização de produtos destinados à alimentação animal com uma concentração de substâncias indesejáveis que exceda os limites máximos previstos no respectivo anexo I.\n\n(2) Quando a Directiva 2002/32/CE foi adoptada, declarou-se que se procederia a uma revisão das disposições previstas no anexo I com base em avaliações científicas de risco actualizadas e tendo em conta a proibição de qualquer diluição de produtos contaminados não conformes destinados à alimentação animal.\n\n(3) Por conseguinte, foi solicitado ao Comité Científico da Alimentação Animal (CCAA) que fornecesse, sem demora, avaliações científicas de risco actualizadas. O CCAA adoptou um parecer sobre substâncias indesejáveis em alimentos para animais em 20 de Fevereiro de 2003, que foi actualizado em 25 de Abril de 2003. O referido parecer fornece um panorama exaustivo dos possíveis riscos para a saúde animal e pública causados pela presença de diferentes substâncias indesejáveis nos alimentos para animais.\n\n(4) Contudo, o CCAA reconheceu que são necessárias avaliações de risco pormenorizadas adicionais para que se possa proceder à revisão integral do anexo I da Directiva 2002/32/CE. A partir de Maio de 2003, a Autoridade Europeia para a Segurança dos Alimentos (AESA) assumiu a responsabilidade, anteriormente detida pela Comissão Europeia, pela avaliação científica das questões relativas à segurança dos alimentos para animais e dos alimentos; Foi solicitado à AESA que realizasse as referidas avaliações de risco pormenorizadas.\n\n(5) Entretanto, foi assinalado que o abastecimento de algumas matérias-primas para a alimentação animal essenciais e valiosas poderia estar comprometido, uma vez que o teor de uma substância indesejável em algumas matérias-primas para a alimentação animal, decorrente da contaminação de base normal, se aproxima ou excede o teor máximo estabelecido no anexo I da Directiva 2002/32/CE. Foram igualmente detectadas algumas inconsistências nas disposições do anexo.\n\n(6) Por conseguinte, é conveniente alterar sem demora algumas disposições no anexo, a título provisório, na pendência de avaliações científicas de risco pormenorizadas, mantendo simultaneamente um elevado nível de protecção da saúde pública e animal, e do ambiente.\n\n(7) A fim de manter o referido elevado nível de protecção da saúde pública e animal, e do ambiente, reconhece-se que, se as matérias-primas para alimentação animal forem directamente fornecidas aos animais ou se se utilizarem alimentos complementares, a respectiva utilização numa ração diária não deve ocasionar um nível de exposição mais elevado do animal a uma substância indesejável do que os níveis de exposição máximos correspondentes quando se utiliza exclusivamente alimentos completos numa ração diária.\n\n(8) O CCAA confirma que o arsénio nas suas formas orgânicas possui uma toxicidade limitada. Por conseguinte, a determinação do arsénio total nos alimentos para animais poderá nem sempre reflectir com exactidão o risco colocado pelas formas inorgânicas. Contudo, as formas orgânica e inorgânica do arsénio só podem ser distinguidas através de um método analítico complexo, que não é passível de aplicação imediata no âmbito dos controlos oficiais. Assim, é conveniente que os níveis máximos se refiram ao arsénio total, salvaguardando-se a eventual possibilidade de exigir análises mais pormenorizadas, particularmente no caso da presença de Hizikia fusiforme. Na ausência de um método analítico comunitário de determinação do arsénio total, é necessário provar a execução correcta do procedimento de tratamento da amostra e do método analítico utilizados, através do recurso a materiais de referência certificados que contenham uma parte significativa de arsénio na sua forma orgânica.\n\n(9) É igualmente necessário ter em consideração o facto de mais de 95 % do arsénio presente nas matérias-primas para alimentação animal de origem marinha se encontrar nas formas orgânicas menos tóxicas, bem como os desenvolvimentos recentes na formulação de alimentos para peixes, incorporando percentagens mais elevadas de óleo e farinha de peixe.\n\n(10) Os teores máximos actuais de arsénio, chumbo e flúor em algumas matérias-primas minerais para alimentação animal não reflectem os níveis actuais de contaminação de base normal. Considerando a baixa biodisponibilidade destas substâncias indesejáveis nos alimentos minerais, é conveniente garantir o abastecimento destas matérias-primas para a alimentação animal essenciais e valiosas sem colocar em perigo a saúde pública e animal, e o ambiente.\n\n(11) A aflatoxina B1 é uma substância cancerígena genotóxica, detectada no leite sob a forma do seu metabolito aflatoxina M1. É conveniente manter os teores máximos de aflatoxina tão baixos quanto razoavelmente possível para proteger a saúde pública. Práticas correctas de manipulação e secagem podem manter baixos os teores de aflatoxina nas diferentes matérias-primas para a alimentação animal, existindo processos de descontaminação eficazes destinados a reduzir os teores de aflatoxina B1. É conveniente que o mesmo teor máximo de aflatoxina B1 seja aplicável a todas as matérias-primas para a alimentação animal.\n\n(12) As sementes de algodão integrais contêm teores elevados de gossipol livre como componente natural. Por conseguinte, é conveniente estabelecer teores máximos específicos para o gossipol livre nas sementes de algodão integrais.\n\n(13) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3eb670b11dfc905c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 2002/32/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "d0a51cbd8acc8045": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar, doze meses após a entrada em vigor. Transmitirão de imediato à Comissão o texto das referidas disposições e um quadro de correspondência entre essas disposições e as da presente directiva.\n\nSempre que os Estados-Membros adoptem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros determinarão as modalidades dessa referência.\n\n2. Os Estados-Membros comunicarão à Comissão os textos das disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "03c8638f6d672cde": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "7f5d90cbc7246098": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 31 de Outubro de 2003.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 140 de 30.5.2002, p. 10.\n\n(2) JO L 151 de 19.6.2003, p. 38."
+  },
+  "211e98fb12b63a35": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nO anexo I da Directiva 2002/32/CE é alterado da seguinte forma:\n\n1. Os pontos 1, 2 e 3 são substituídos pelo seguinte:\n\n\">POSIÇÃO NUMA TABELA>\"\n\n2. O ponto 7 é substituído pelo seguinte:\n\n\">POSIÇÃO NUMA TABELA>\"\n\n3. O ponto 9 é substituído pelo seguinte:\n\n\">POSIÇÃO NUMA TABELA>\"\n\n4. O ponto 22 é substituído pelo seguinte:\n\n\">POSIÇÃO NUMA TABELA>\""
+  }
+ }
+}

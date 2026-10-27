@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0619:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0619-20021219",
+ "dre_path": null,
+ "source_lastmod": "2002-12-19",
+ "versions": [
+  {
+   "date": "1990-11-29",
+   "future": false,
+   "celex": "31990L0619",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3376775d282eb9ba",
+    "e8a86deac4f386a0",
+    "e8d085b601ad82b6",
+    "fc8852e435bcba82",
+    "7b2c099319b62692",
+    "f4c77e25e3b037f9",
+    "4c30b5ee4bda5ade",
+    "c79da2daac078741",
+    "65576ee9a2ee909f",
+    "9ef115d3c6f669ec",
+    "91504b420c0a2c0a",
+    "14ed9434f0738dbd",
+    "b484db4c17ee0f2b",
+    "7c9d7cd40b44bdf6",
+    "c3a85b17fd5e4df0",
+    "a2b8dbdb4d9c9797",
+    "a56c4ada7a7d35f7",
+    "ff6a6c38df05334a",
+    "43220496ce1772a6",
+    "331adbd7d86bbaa4",
+    "ed5939a7308038a2",
+    "35c9cdc6c7d63865",
+    "5406585bb0087d1d",
+    "0d66a65b09d81b14",
+    "a33421ffad38940b",
+    "b4ff897f11d53606",
+    "59e475147d5906cf",
+    "0340a0f950507587",
+    "32764b681d5fd6ba",
+    "1c9dff3444009763",
+    "9a2ea0207d565665",
+    "2e364d58c06453c1",
+    "41a251c9dbea0f78",
+    "45fab664f411fbc4",
+    "41b4f9c0f00ae9a4",
+    "764cc54bcbb0ca74"
+   ]
+  },
+  {
+   "date": "2002-12-19",
+   "future": false,
+   "celex": "01990L0619-20021219",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I Disposições gerais — Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime TÍTULO II Disposições complementares da Primeira Directiva — Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime TÍTULO IIIA",
+    "Suprime TÍTULO IIIB",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 32oB",
+    "Suprime TÍTULO III Disposições específicas para a livre prestação de serviços — Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o",
+    "Suprime Artigo 25o",
+    "Suprime TÍTULO IV Disposições transitórias — Artigo 26o",
+    "Suprime Artigo 27o",
+    "Suprime TÍTULO V Disposições finais — Artigo 28o",
+    "Suprime Artigo 29o",
+    "Suprime Artigo 30o",
+    "Suprime Artigo 31o",
+    "Suprime Artigo 32o"
+   ],
+   "fragments": [
+    "6a6853d10fef17c4"
+   ]
+  }
+ ],
+ "fragments": {
+  "3376775d282eb9ba": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Segunda Directiva 90/619/CEE do Conselho, de 8 de Novembro de 1990, relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo de vida, que fixa as disposições destinadas a facilitar o exercício efectivo da livre prestação de serviços e altera a Directiva 79/267/CEE** *Jornal Oficial nº L 330 de 29/11/1990 p. 0050 - 0061 Edição especial finlandesa: Capítulo 6 Fascículo 3 p. 0067 Edição especial sueca: Capítulo 6 Fascículo 3 p. 0067*\n\nSEGUNDA DIRECTIVA DO CONSELHO de 8 de Novembro de 1990 relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo de vida, que fixa as disposições destinadas a facilitar o exercício efectivo da livre prestação de serviços e altera a Directiva 79/267/CEE (90/619/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o no 2 do seu artigo 57o e o seu artigo 66o,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é necessário desenvolver o mercado interno do seguro de vida e das operações abrangidas pela Primeira Directiva 79/267/CEE do Conselho, de 5 de Março de 1979, relativa à coordenação das disposições legislativas, regulamentares e administrativas, respeitantes ao acesso à actividade de seguro directo de vida e ao seu exercício (4), a seguir denominada « Primeira Directiva », com a última redacção que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal; que, para atingir esse objectivo, convém facilitar às empresas de seguros que tenham a sua sede social na Comunidade a prestação de serviços nos Estados-membros e, por essa forma, permitir aos segurados o recurso não apenas a seguradoras estabelecidas nos seus países mas também a empresas com sede social na Comunidade e estabelecidas noutros Estados-membros;\n\nConsiderando que, nos termos do Tratado, é proibida, a partir do fim do período transitório, qualquer discriminação em matéria de prestação de serviços baseada no facto de uma empresa não estar estabelecida no Estado-membro onde a prestação é executada; que tal proibição se aplica às prestações de serviços efectuadas a partir de qualquer estabelecimento na Comunidade, quer se trate da sede social de uma empresa quer de uma agência ou sucursal;\n\nConsiderando que, por razões práticas, convém definir a prestação de serviços tendo em conta, por um lado, a localização do estabelecimento do segurador e, por outro, o local do compromisso; que convém, portanto, adoptar também uma definição de compromisso; que convém, além disso, demarcar a actividade exercida através de um estabelecimento da actividade exercida em regime de livre prestação de serviços;\n\nConsiderando que convém completar a Primeira Directiva, em particular para especificar com clareza os poderes e meios de fiscalização das autoridades de controlo; que convém, além disso, prever disposições específicas em matéria de acesso, de exercício e de controlo da actividade desenvolvida em regime de livre prestação de serviços;\n\nConsiderando que convém conceder aos segurandos que, por sua iniciativa, subscrevam um compromisso noutro país, ficando assim sob a protecção do sistema jurídico desse país e não necessitando de qualquer protecção especial no Estado do compromisso, total liberdade para recorrer a um mercado de seguros de vida e de operações abrangidas pela Primeira Directiva que seja o mais amplo possível; que convém, por outro lado, garantir um nível adequado de protecção aos outros segurandos;\n\nConsiderando que, no respeitante a certas operações relativas a fundos colectivos de reforma, a multiplicidade e a complexidade dos diferentes sistemas e as estreitas relações com os regimes de segurança social requerem um estudo cuidado; que convém, portanto, excluí-los do âmbito de aplicação das disposições especiais sobre livre prestação de serviços da presente directiva; que esses seguros serão objecto de outra directiva;\n\nConsiderando que persistem divergências entre as disposições em vigor nos Estados-membros no que respeita ao direito do contrato relativo às actividades abrangidas pela Primeira Directiva; que, em certos casos, pode ser concedida, segundo regras que tomem em consideração circunstâncias específicas, a liberdade de escolher como lei aplicável ao contrato uma lei diferente da do Estado do compromisso;\n\nConsiderando que convém reforçar as disposições da Primeira Directiva relativas à transferência de carteiras e completá-las por meio de disposições que visem especificamente o caso em que a carteira de contratos celebrados em regime de prestação de serviços seja transferida para outra empresa;\n\nConsiderando que, no estado actual de coordenação, convém conceder aos Estados-membros a possibilidade de, a fim de protegerem os segurandos, limitarem o exercício simultâneo da actividade em regime de livre prestação de serviços e da actividade através de um estabelecimento; que semelhante limitação não pode ser prevista quanto aos compromissos em relação aos quais os segurandos não necessitem de tal protecção;\n\nConsiderando que convém sujeitar o acesso ao exercício da livre prestação de serviços a procedimentos que garantam a observância, por parte do segurador, das disposições relativas quer às garantias financeiras quer às condições de seguro e às tarifas; que tais procedimentos podem ser simplificados desde que a actividade em regime de prestação de serviços se destine a segurandos que, dadas as características do compromisso que se propõem assumir, não necessitem de protecção especial no Estado do compromisso;\n\nConsiderando que, quanto aos contratos de seguro de vida celebrados em regime de livre prestação de serviços, é conveniente conceder ao segurando a possibilidade de denunciar o contrato no prazo de 14 a 30 dias;\n\nConsiderando que a Primeira Directiva adoptou o princípio da proibição de acumulação das actividades abrangidas pela Directiva 73/239/CEE (5) (chamada primeira directiva de coordenação dos seguros « danos »), com a última redacção que lhe foi dada pela Directiva 88/357/CEE (6), com as da Primeira Directiva; que, embora tenha autorizado a manutenção das empresas multi-ramos já existentes, precisou que estas não podem criar agências ou sucursais para o seguro de vida; que, contudo, o carácter específico dos compromissos assumidos em matéria de seguro em regime de prestação de serviços justifica, pelo menos a título transitório a partir da notificação da presente directiva aos Estados-membros, a introdução de uma certa maleabilidade na aplicação do princípio acima referido;\n\nConsiderando que nenhuma disposição da presente directiva impede uma empresa multi-ramos de se cindir em duas empresas, praticando uma o seguro de vida e a outra o seguro não vida, e que para realizar esta cisão nas melhores condições possíveis é desejável permitir que os Estados-membros prevejam, na observância das disposições de direito comunitário em matéria de concorrência, um regime fiscal apropriado, respeitante nomeadamente às mais-valias que essa separação possa fazer surgir;\n\nConsiderando que importa prever uma colaboração especial no domínio da livre prestação de serviços entre as autoridades de controlo competentes dos Estados-membros e entre estas autoridades e a Comissão; que convém igualmente prever um regime de sanções, aplicáveis sempre que a empresa prestadora de serviços não respeite as disposições do Estado-membro da prestação;\n\nConsiderando que convém submeter as provisões técnicas, incluindo as provisões matemáticas, às normas e ao controlo do Estado-membro da prestação, sempre que a actividade de prestação de serviços diga respeita a compromissos para os quais o Estado destinatário da prestação queira oferecer uma protecção especial aos segurandos; que, em contrapartida, as provisões técnicas, incluindo as provisões matemáticas, ficam submetidas às normas e ao controlo do Estado-membro onde o segurador está estabelecido, sempre que esta preocupação de protecção do segurando não tenha fundamento;\n\nConsiderando que vários Estados-membros não sujeitam os contratos de seguro de vida e as outras operações abrangidas pela Primeira Directiva a qualquer tipo de imposto indirecto, enquanto outros aplicam taxas específicas; que, nos Estados-membros em que essas taxas são cobradas, a sua estrutura e valor percentual divergem sensivelmente; que é conveniente evitar que as diferenças existentes se traduzam em distorções de concorrência para as empresas entre os Estados-membros; que, sob reserva duma posterior harmonização, a aplicação do regime fiscal previsto pelo Estado-membro em que o compromisso é assumido pode obstar a tal inconveniente e que compete aos Estados-membros estabelecer as regras destinadas a garantir a cobrança dessas taxas;\n\nConsiderando que a Primeira Directiva prevê expressamente regras específicas em matéria de autorização de agências e sucursais de empresas cuja sede social esteja situada fora da Comunidade;\n\nConsiderando que se torna necessário prever um procedimento flexível que permita avaliar a reciprocidade com países terceiros numa base comunitária; que o objectivo deste procedimento não é fechar os mercados financeiros da Comunidade, mas, como a Comunidade se propõe manter os seus mercados financeiros abertos ao resto do mundo, assegurar a liberalização dos mercados financeiros globais noutros países terceiros; que, para o efeito, a presente directiva prevê procedimentos de negociação com países terceiros ou, em último caso, a possibilidade de tomar medidas, que consistirão em suspender novos pedidos de autorização ou em limitar novas autorizações;\n\nConsiderando que, nos termos do artigo 8oC do Tratado, convém ter em conta a amplitude do esforço que deve ser feito por algumas economias que apresentem diferenças de desenvolvimento; que convém, portanto, conceder a certos Estados-membros um regime transitório que permita uma aplicação gradual das disposições da presente directiva específicas para a livre prestação de serviços;\n\nConsiderando que, tendo em conta as diferenças existentes nas legislações nacionais, convirá igualmente conceder aos Estados-membros que o desejem um regime transitório que lhes permita adaptar a sua legislação antes de aplicar, no seu conjunto, no que respeita aos contratos de seguro de grupo relacionados com um contrato de trabalho ou à intervenção dos corretores, as disposições da presente directiva relativas aos casos em que o segurando tome a iniciativa de contratar em regime de prestação de serviços;\n\nConsiderando que é particularmente importante proporcionar aos Estados-membros que o desejem um prazo suficiente para poderem adoptar disposições apropriadas que lhes permitam assegurar-se da qualificação profissional e da independência dos corretores de seguros; que, tendo em conta o papel crescente que estes corretores assumirão ao aconselhar os segurandos face a uma maior oferta de produtos para realização da livre prestação de serviços, a sua qualificação profissional e independência tornar-se-ao um elemento essencial de defesa do consumidor,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e8a86deac4f386a0": {
+   "fragment_id": "TÍTULO I Disposições gerais — Artigo 1o",
+   "type": "divisao",
+   "heading": "TÍTULO I Disposições gerais — Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I Disposições gerais — Artigo 1o\n\nA presente directiva tem por objecto:\n\na) Completar a Directiva 79/267/CEE;\n\nb) Fixar as disposições especiais relativas à livre prestação de serviços para as actividades contempladas pela referida directiva e especificadas no título III da presente directiva."
+  },
+  "e8d085b601ad82b6": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos da presente directiva, entende-se por:\n\na) Primeira Directiva: a Directiva 79/267/CEE;\n\nb) Empresa:\n\n- para efeitos de aplicação dos títulos I e II, qualquer empresa que tenha recebido uma autorização administrativa nos termos do artigo 6o ou do artigo 27o da Primeira Directiva,\n\n- para efeitos de aplicação dos títulos III e IV, qualquer empresa que tenha recebido uma autorização administrativa nos termos do artigo 6o da mesma directiva;\n\nc) Estabelecimento: a sede social, uma agência ou uma sucursal de uma empresa, tendo em conta o disposto no artigo 3o;\n\nd) Compromisso: um compromisso que se concretize numa das formas de seguros ou de operações referidas no artigo 1o da Primeira Directiva;\n\ne) Estado-membro do compromisso: o Estado-membro onde o segurando reside habitualmente ou, caso se trate de pessoa colectiva, o Estado-membro onde está situado o estabelecimento da pessoa colectiva a que o contrato diz respeito;\n\nf) Estado-membro do estabelecimento: o Estado-membro em que se situa o estabelecimento que assume o compromisso;\n\ng) Estado-membro da prestação de serviços: o Estado-membro do compromisso sempre que este for assumido por um estabelecimento situado noutro Estado-membro;\n\nh) Empresa-mae: uma empresa-mae na acepção dos artigos 1o e 2o da Directiva 83/349/CEE (7);\n\ni) Filial: uma empresa filial na acepção dos artigos 1o e 2o da Directiva 83/349/CEE; qualquer empresa filial de uma empresa filial é igualmente considerada como filial da empresa-mae que se encontra à cabeça de tais empresas."
+  },
+  "fc8852e435bcba82": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nPara efeitos de aplicação da Primeira Directiva e da presente directiva, é equiparada a agência ou sucursal qualquer presença permanente de uma empresa no território de um Estado-membro, mesmo que essa presença não tenha assumido a forma de sucursal ou de agência e se exerça através de um simples escritório gerido por pessoal da própria empresa, ou de uma pessoa independente, mas mandatada para agir permanentemente em nome da empresa, como o faria uma agência."
+  },
+  "7b2c099319b62692": {
+   "fragment_id": "TÍTULO II Disposições complementares da Primeira Directiva — Artigo 4o",
+   "type": "divisao",
+   "heading": "TÍTULO II Disposições complementares da Primeira Directiva — Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II Disposições complementares da Primeira Directiva — Artigo 4o\n\n1. Aos contratos relativos às actividades referidas na Primeira Directiva aplica-se a lei do Estado-membro do compromisso. Todavia, sempre que a legislação desse Estado o permita, as partes podem optar pela lei de outro país.\n\n2. Sempre que o segurando for uma pessoa singular e residir habitualmente num Estado-membro diferente do Estado da sua nacionalidade, as partes podem optar pela lei do Estado-membro da nacionalidade do segurando.\n\n3. Quando um Estado compreender várias unidades territoriais com normas jurídicas próprias em matéria de obrigações contratuais, cada unidade será considerada como um país para efeitos de identificação da lei aplicável por força da presente directiva.\n\nUm Estado-membro em que diferentes unidades territoriais tenham normas jurídicas próprias em matéria de obrigações contratuais não é obrigado a aplicar a presente directiva aos conflitos que surjam entre as legislações dessas unidades.\n\n4. O presente artigo não pode prejudicar a aplicação das normas jurídicas do país do tribunal que regula imperativamente a situação, independentemente da lei aplicável ao contrato.\n\nSe a legislação de um Estado-membro o previr, pode ser dada execução às disposições imperativas da lei do Estado-membro do compromisso se, e na medida em que, de acordo com a legislação desse Estado, essas disposições forem aplicáveis independentemente da lei que rege o contrato.\n\n5. Sem prejuízo do disposto nos números anteriores, os Estados-membros aplicarão aos contratos de seguro que são objecto da presente directiva as correspondentes normas gerais de direito internacional privado em matéria de obrigações contratuais."
+  },
+  "f4c77e25e3b037f9": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO artigo 23o da Primeira Directiva é completado com o seguinte número:\n\n« 3. Cada um dos Estados-membros tomará todas as disposições necessárias para que as autoridades de controlo das empresas de seguros disponham dos poderes e meios necessários à fiscalização das actividades das empresas de seguros estabelecidas no seu território, incluindo as actividades exercidas fora desse território, nos termos das directivas do Conselho relativas a essas actividades e tendo em vista a sua aplicação.\n\nTais poderes e meios devem, nomeadamente, dar às autoridades de controlo a possibilidade de:\n\n- se informarem pormenorizadamente da situação da empresa e do conjunto das suas actividades, nomeadamente:\n\n- recolhendo informações ou exigindo a apresentação de documentos relativos à actividade seguradora,\n\n- procedendo a verificações no local, nas instalações da empresa,\n\n- tomarem, em relação à empresa, todas as medidas adequadas e necessárias para garantir que as suas actividades permaneçam conformes às disposições legislativas, regulamentares e administrativas que a empresa deve observar nos diversos Estados-membros e, nomeadamente, ao programa de actividades, desde que este permaneça obrigatório, bem como para evitar qualquer irregularidade lesiva dos interesses dos segurados,\n\n- garantirem a aplicação das medidas impostas pelas autoridades de controlo, se necessário através de uma execução forçada, eventualmente com recurso às instâncias judiciais.\n\nOs Estados-membros podem igualmente prever a possibilidade de as autoridades de controlo obterem quaisquer informações relativas aos contratos na posse de intermediários. »."
+  },
+  "4c30b5ee4bda5ade": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. É suprimido o artigo 25o da Primeira Directiva.\n\n2. Nas condições previstas pela respectiva legislação nacional, cada um dos Estados-membros autorizará as empresas estabelecidas no seu território a transferirem a totalidade ou parte dos contratos das respectivas carteiras em relação aos quais esse Estado seja o Estado do compromisso para um cessionário estabelecido nesse mesmo Estado-membro, desde que as autoridades de controlo do Estado-membro da sede social do cessionário atestem que, tendo em conta essa transferência, este último possui a margem de solvabilidade necessária.\n\n3. Nas condições previstas pela respectiva legislação nacional, cada um dos Estados-membros autorizará as empresas estabelecidas no seu território a transferirem a totalidade ou parte dos contratos das respectivas carteiras celebrados nas circunstâncias referidas no no 1 do artigo 10o para um cessionário estabelecido no Estado-membro da prestação de serviços, desde que as autoridades de controlo do Estado-membro da sede social do cessionário atestem que, tendo em conta essa transferência, este último possui a margem de solvabilidade necessária.\n\n4. Nas condições previstas pela respectiva legislação nacional, cada um dos Estados-membros autorizará as empresas estabelecidas no seu território a transferirem a totalidade ou parte dos contratos das respectivas carteiras celebrados nas circunstâncias referidas no no 1 do artigo 10o para um cessionário estabelecido nesse mesmo Estado-membro, desde que as autoridades de controlo do Estado-membro da sede social atestem que, tendo em conta essa transferência, aquele possui a margem de solvabilidade necessária, e desde que ele preencha, no Estado-membro da prestação de serviços, os requisitos referidos nos artigos 11o, 12o, 14o e 16o\n\n5. Nos casos referidos nos nos 3 e 4, as autoridades de controlo do Estado-membro onde a empresa cedente se encontra estabelecida autorizarão a transferência depois de terem recebido o acordo das autoridades de controlo do Estado-membro da prestação de serviços.\n\n6. Se um Estado-membro permitir, nas condições previstas pela sua legislação interna, que as empresas estabelecidas no seu território transfiram a totalidade ou parte das respectivas carteiras de contratos para um cessionário estabelecido noutro Estado-membro que não seja o Estado-membro da prestação de serviços, aquele Estado-membro certificar-se-á de que estão preenchidos os seguintes requisitos:\n\n- as autoridades de controlo do Estado-membro da sede social do cessionário atestam que este possui, tendo em conta a mesma transferência, a margem de solvabilidade necessária,\n\n- o Estado-membro onde o cessionário se encontra estabelecido está de acordo,\n\n- o cessionário preenche, no Estado-membro da prestação de serviços, os requisitos referidos nos artigos 11o, 12o, 14o e 16o, a legislação desse Estado-membro prevê a possibilidade de uma tal transferência e esse Estado está de acordo com a transferência.\n\n7. A transferência autorizada nos termos do presente artigo será objecto, no Estado-membro do compromisso, de publicidade nas condições previstas pela respectiva legislação nacional. Esta transferência é oponível de pleno direito aos segurandos, aos segurados e a qualquer outra pessoa que seja titular de direitos e obrigações decorrentes dos contratos transferidos.\n\nEsta disposição não afecta o direito de os Estados-membros preverem a possibilidade de os segurandos rescindirem o contrato, num prazo determinado a partir da transferência."
+  },
+  "c79da2daac078741": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO no 2 do artigo 22o da Primeira Directiva passa a ter a seguinte redacção:\n\n« 2. A República Italiana adoptará as disposições necessárias para que a obrigatoriedade de as empresas estabelecidas no seu território cederem uma parte das suas subscrições ao « Istituto nazionale di assicurazioni » cesse o mais tardar em 20 de Novembro de 1994 »."
+  },
+  "65576ee9a2ee909f": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O título III da Primeira Directiva passa a ter a seguinte redacção:\n\n«"
+  },
+  "9ef115d3c6f669ec": {
+   "fragment_id": "TÍTULO IIIA",
+   "type": "divisao",
+   "heading": "TÍTULO IIIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IIIA\n\nRegras aplicáveis às agências ou sucursais, estabelecidas no interior da Comunidade, de empresas cuja sede social esteja situada fora da Comunidade ».\n\n2. A seguir ao artigo 32o da Primeira Directiva é inserido o título seguinte:\n\n«"
+  },
+  "91504b420c0a2c0a": {
+   "fragment_id": "TÍTULO IIIB",
+   "type": "divisao",
+   "heading": "TÍTULO IIIB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IIIB\n\nRegras aplicáveis às filiais ou à aquisição de uma participação numa empresa-mae sujeita à ordem jurídica de um país terceiro »."
+  },
+  "14ed9434f0738dbd": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nNo título III B da Primeira Directiva são aditados os artigos seguintes:\n\n« Artigo 32oA\n\nAs autoridades competentes dos Estados-membros informarão a Comissão:\n\na) De qualquer autorização de filial directa ou indirecta, cuja ou cujas empresas-mae estejam sujeitas à ordem jurídica de um país terceiro. A Comissão informará desse facto o comité referido no no 6 do artigo 32oB;\n\nb) De qualquer tomada de participação de uma empresa-mae numa empresa de seguros da Comunidade que tenha por efeito transformar esta última em sua filial. A Comissão informará desse facto o comité referido no no 6 do artigo 32o B.\n\nSempre que for concedida uma autorização a uma filial directa ou indirecta de uma ou mais empresas-mae sujeitas à ordem jurídica de um país terceiro, a estrutura do grupo deve ser especificada na notificação que as autoridades competentes enviarão à Comissão."
+  },
+  "b484db4c17ee0f2b": {
+   "fragment_id": "Artigo 32oB",
+   "type": "artigo",
+   "heading": "Artigo 32oB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32oB\n\n1. Os Estados-membros informarão a Comissão sobre quaisquer dificuldades de ordem geral com que as empresas de seguros deparem para se estabelecerem ou exercerem as suas actividades num país terceiro.\n\n2. A Comissão elaborará, pela primeira vez, seis meses, o mais tardar, antes da data referida no segundo parágrafo do artigo 30o da Directiva 90/619/CEE (1), e, depois, periodicamente, um relatório com a análise do tratamento dado nos países terceiros às empresas de seguros da Comunidade, na acepção dos nos 3 e 4, no que se refere ao estabelecimento e ao exercício das suas actividades de seguros, bem como às tomadas de participação em empresas de seguros de países terceiros. A Comissão transmitirá estes relatórios ao Conselho, acompanhando-os eventualmente de propostas adequadas.\n\n3. Sempre que a Comissão verificar, com base quer nos relatórios referidos no número anterior quer noutras informações, que um país terceiro não concede às empresas de seguros comunitárias um acesso efectivo ao mercado, comparável ao concedido pela Comunidade às empresas de seguros desse país terceiro, pode apresentar propostas ao Conselho no sentido de obter um mandato de negociação adequado para obter oportunidades de concorrência comparáveis para as empresas de seguros da Comunidade. O Conselho deliberará por maioria qualificada.\n\n4. Sempre que a Comissão verificar, com base quer nos relatórios refridos no no 2 quer noutras informações, que as empresas de seguros comunitárias não beneficiam num país terceiro de tratamento nacional que proporcione oportunidades de concorrência idênticas às das empresas de seguros nacionais e que as condições de acesso efectivo ao mercado não se encontram preenchidas, pode encetar negociações destinadas a obviar a essa situação.\n\nNas circunstâncias referidas no primeiro parágrafo do presente número, pode igualmente ser decidido, em qualquer altura e cumulativamente com a iniciativa das negociações, nos termos do procedimento previsto no no 6 do artigo 32oB, que as autoridades competentes dos Estados-membros devam limitar ou suspender as suas decisões:\n\n- sobre os pedidos de autorização já depositados no momento da decisão ou posteriormente, e\n\n- sobre as tomadas de participação por parte de empresas-mae directas ou indirectas, sujeitas à ordem jurídica do país terceiro em causa.\n\nA duração das medidas referidas não pode ultrapassar três meses.\n\nAntes do termo do referido prazo de três meses, e à luz dos resultados da negociação, o Conselho pode decidir, por maioria qualificada e sob proposta da Comissão, se essas medidas continuam a ser aplicadas.\n\nNão pode ser aplicada tal limitação ou suspensão à criação de filiais por empresas de seguros ou suas filiais devidamente autorizadas na Comunidade, nem à tomada de participações, por parte de tais empresas ou filiais, numa empresa de seguros da Comunidade.\n\n5. Sempre que a Comissão proceder a uma das verificações referidas nos nos 3 e 4, os Estados-membros informá-la-ao, a pedido desta:\n\na) De qualquer pedido de autorização de uma filial directa ou indirecta efectuado por uma ou mais empresas-mae sujeitas à legislação do país terceiro em questão;\n\nb) De qualquer projecto de tomada de participação por uma empresa desse tipo numa empresa de seguros comunitária que tenha por efeito transformar esta última em filial da primeira.\n\nEsta obrigação de informação cessa a partir do momento em que tenha sido celebrado um acordo com um dos países terceiros mencionados nos nos 3 e 4 ou quando as medidas referidas nos segundo e terceiro parágrafos do no 4 deixarem de ser aplicáveis.\n\n6. A Comissão é assistida por um comité composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\nO representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre este projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adopta as medidas previstas desde que sejam conformes com o parecer do comité.\n\nSe as medidas previstas não forem conformes com o parecer do Comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo de um prazo que será fixado em cada acto a adoptar pelo Conselho por força do presente número, mas que não poderá em caso algum ultrapassar três meses a contar da data em que o assunto tiver sido submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas.\n\n7. As medidas adoptadas ao abrigo do presente artigo devem ser conformes às obrigações da Comunidade, baseadas em acordos internacionais, bilaterais ou multilaterais, que rejam o acesso à actividade das empresas de seguros e o seu exercício.\n\n(1) JO no L 330 de 29. 11. 1990, p. 50. »."
+  },
+  "7c9d7cd40b44bdf6": {
+   "fragment_id": "TÍTULO III Disposições específicas para a livre prestação de serviços — Artigo 10o",
+   "type": "divisao",
+   "heading": "TÍTULO III Disposições específicas para a livre prestação de serviços — Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III Disposições específicas para a livre prestação de serviços — Artigo 10o\n\n1. O disposto no presente título aplica-se quando uma empresa assume, a partir de um estabelecimento situado num Estado-membro, um compromisso noutro Estado-membro.\n\n2. O disposto no presente título aplica-se:\n\n- aos seguros referidos no no 1 do artigo 1o da Primeira Directiva,\n\n- às operações referidas no no 2, alíneas a) e b), do artigo 1o da Primeira Directiva.\n\n3. O presente título não se aplica às operações nem aos organismos referidos no no 2, alíneas c), d) e e) do artigo 1o, no no 3 de artigo 1o e nos artigos 2o, 3o e 4o da Primeira Directiva.\n\n4. Uma empresa só pode assumir um compromisso noutro Estado-membro se estiver autorizada a assumir esse compromisso no seu Estado-membro do estabelecimento, de acordo com o artigo 6o da Primeira Directiva."
+  },
+  "c3a85b17fd5e4df0": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nQualquer empresa que pretenda efectuar prestações de serviços deve informar previamente as autoridades competentes do Estado-membro da sede social e, se necessário, do Estado-membro do estabelecimento em causa, indicando o Estado-membro em cujo território pretende efectuar prestações de serviços e a natureza dos compromissos que se propõe assumir."
+  },
+  "a2b8dbdb4d9c9797": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Sem prejuízo do disposto no artigo 13o, qualquer Estado-membro em cujo território uma empresa assumir, em regime de prestação de serviços, compromissos contemplados pelo artigo 10o, pode fazer depender o acesso a essa actividade de uma autorização administrativa, desde que esses compromissos não sejam assumidos segundo as modalidades referidas no artigo 13o; para o efeito, pode exigir que a empresa:\n\na) Apresente um certificado, emitido pelas autoridades competentes do Estado-membro da sede social, comprovativo de que, em relação ao conjunto das suas actividades, dispõe do mínimo de margem de solvabilidade de acordo com o artigo 19o da Primeira Directiva e que, nos termos do no 1 do artigo 6o da referida directiva, a autorização permite que a empresa opere fora do Estado-membro do estabelecimento;\n\nb) Apresente um certificado emitido pelas autoridades competentes do Estado-membro do estabelecimento, indicando os ramos em que a empresa interessada está autorizada a operar e atestando que essas autoridades não levantam objecções a que a empresa realize uma actividade em regime de prestação de serviços;\n\nc) Apresente um programa de actividades que contenha informações respeitantes:\n\n- à natureza dos compromissos que a empresa se propõe assumir no Estado-membro da prestação de serviços,\n\n- às condições gerais e especiais das apólices de seguro que a empresa se propõe utilizar nesse Estado-membro,\n\n- às tarifas que a empresa tenciona aplicar a cada tipo de operações e às bases técnicas que tenciona utilizar para cada categoria de operações,\n\n- aos formulários e outros impressos que a empresa tem a intenção de utilizar nas suas relações com os segurandos, desde que tais documentos sejam igualmente exigidos às empresas já estabelecidas.\n\n2. As autoridades competentes do Estado-membro da prestação de serviços podem exigir que as informações referidas na alínea c) do no 1 lhes sejam prestadas na língua oficial desse Estado.\n\n3. As autoridades competentes do Estado-membro da prestação de serviços dispõem de um prazo de seis meses, a contar da recepção dos documentos mencionados no no 1, para conceder ou recusar a autorização com base na conformidade ou não-conformidade dos elementos do programa de actividades apresentado pela empresa com as disposições legislativas, administrativas ou regulamentares aplicáveis nesse Estado.\n\nEssa autorização não pode ser recusada com base no facto de certas operações do programa de actividades que, no Estado-membro em que a empresa se encontra estabelecida, estão sujeitas ao controlo das autoridades responsáveis pela fiscalização das empresas de seguros, não o estarem no Estado-membro em que se verifica a prestação.\n\n4. Se as autoridades competentes do Estado-membro da prestação de serviços não se pronunciarem até ao termo do prazo referido no no 3, considera-se recusada a autorização.\n\n5. Qualquer decisão de recusa de autorização ou de recusa de emissão do certificado referido nas alíneas a) e b) do no 1 deve ser fundamentada de maneira precisa e notificada à empresa interessada.\n\n6. Os Estados-membros devem prever o recurso judicial de qualquer decisão de recusa de autorização ou de recusa de emissão do certificado referido nas alíneas a) e b) do no 1."
+  },
+  "a56c4ada7a7d35f7": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Os compromissos assumidos em regime de prestação de serviços ficam sujeitos ao disposto no artigo 14o quando o segurando tomar a iniciativa de solicitar o compromisso junto da empresa.\n\nConsidera-se que o segurando tomou a iniciativa:\n\n- quando, por um lado, o contrato for subscrito por ambas as partes no Estado-membro em que a empresa estiver estabelecida, ou por cada uma das partes, respectivamente no seu Estado de estabelecimento ou de residência habitual, e, por outro lado, o segurando não tiver sido contratado pela empresa no seu Estado de residência habitual, nem através de um intermediário de seguros ou de uma pessoa por ela mandatada, nem através de uma promoção comercial que lhe tenha sido dirigida pessoalmente,\n\n- quando o segurando se dirigir a um intermediário, estabelecido no Estado-membro em que esse segurando tiver a sua residência habitual e que exerça a actividade profissional definida no no 1, alínea a), do artigo 2o da Directiva 77/92/CEE (8), com a última redacção que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal, a fim de colher informações sobre contratos de seguros oferecidos por empresas estabelecidas em Estados-membros que não o da sua residência habitual ou com o objectivo de, por seu intermédio, subscrever um compromisso junto de uma dessas empresas. Nesse caso, o segurando assinará uma declaração explicitando esse pedido, cujo texto consta do anexo, ponto A, da presente directiva.\n\n2. Antes de subscrever um compromisso nos casos previstos no primeiro e segundo travessões do no 1, o segurando assina uma declaração segundo a qual toma conhecimento de que esse compromisso está sujeito às regras de controlo do Estado-membro do estabelecimento que assume o compromisso. O texto desta declaração consta do anexo, ponto B, da presente directiva."
+  },
+  "ff6a6c38df05334a": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Cada um dos Estados-membros em cujo território uma empresa pretenda assumir compromissos em regime de prestação de serviços nos termos do disposto no artigo 13o exigirá que a empresa em causa se sujeite ao seguinte processo:\n\na) Apresentação de um certificado, emitido pelas autoridades competentes do Estado-membro da sede social, declarando que, em relação ao conjunto das suas actividades, a empresa dispõe do mínimo de margem de solvabilidade, de acordo com o artigo 19o da Primeira Directiva e que, nos termos do no 1 do artigo 6o da mesma directiva, a autorização permite que a empresa opere fora do Estado-membro do estabelecimento;\n\nb) Apresentação de um certificado, emitido pelas autoridades competentes do Estado-membro do estabelecimento, indicando os ramos em que a empresa interessada está autorizada a operar e atestando que essas autoridades não levantam objecções a que a empresa efectue uma actividade em regime de prestação de serviços;\n\nc) Indicação da natureza dos compromissos que a empresa se propõe assumir no Estado-membro da prestação de serviços.\n\nO procedimento acima descrito não é aplicável no caso de actividades abrangidas pela presente directiva que, no Estado-membro em que foi assumido o compromisso, não estejam subordinadas ao controlo das autoridades administrativas encarregadas da fiscalização dos seguros privados.\n\n2. Os Estados-membros devem prever o recurso judicial de qualquer decisão de recusa de emissão do certificado referido nas alíneas a) ou b) do no 1.\n\n3. A empresa poderá iniciar a sua actividade a partir da data comprovada em que as autoridades do Estado-membro da prestação de serviços estejam na posse dos documentos referidos no no 1.\n\n4. O presente artigo é igualmente aplicável no caso de o Estado-membro em cujo território uma empresa pretende assumir compromissos em regime de prestação de serviços, segundo modalidades não estabelecidas no artigo 13o da presente directiva, não subordinar o acesso a essa actividade a uma autorização administrativa.\n\n5. Os Estados-membros não podem impedir o segurando de subscrever um compromisso autorizado pela regulamentação do Estado-membro do estabelecimento, excepto se esse compromisso for contrário às disposições de ordem pública do Estado-membro da prestação."
+  },
+  "43220496ce1772a6": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Cada um dos Estados-membros deverá determinar que o segurando de um contrato individual de seguro de vida subscrito num dos casos referidos no título III disponha de um prazo de 14 a 30 dias, a contar da data em que lhe tenha sido confirmada a celebração do mesmo, para renunciar aos efeitos de tal contrato.\n\nA notificação da renúncia ao contrato por parte do segurando tem por efeito libertá-lo, em relação ao futuro, de qualquer obrigação decorrente desse contrato.\n\nOs restantes efeitos jurídicos e as condições da renúncia são regidos pela legislação aplicável ao contrato, tal como definida no artigo 4o, nomeadamente no que diz respeito às modalidades segundo as quais o segurando é informado da celebração do contrato.\n\n2. Os Estados-membros podem não aplicar o disposto no no 1 aos contratos de duração igual ou inferior a seis meses."
+  },
+  "331adbd7d86bbaa4": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nA legislação dos Estados-membros determinará que qualquer empresa estabelecida num Estado-membro pode assumir neste Estado-membro, e a partir de um estabelecimento de outro Estado-membro, em regime de prestação de serviços:\n\n- os compromissos referidos no artigo 10o, sempre que sejam assumidos segundo as regras do artigo 13o,\n\n- os compromissos referidos no artigo 10o assumidos segundo modalidades diferentes das previstas no artigo 13o, caso sejam relativos a ramos para os quais a empresa estabelecida no primeiro Estado-membro não se encontre autorizada de acordo com o artigo 6o da Primeira Directiva.\n\nEm contrapartida, se, neste último caso, a empresa possuir a referida autorização, o primeiro Estado-membro pode proibir essa prestação de serviços."
+  },
+  "ed5939a7308038a2": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. No caso de a empresa referida no artigo 11o pretender fazer alterações às informações previstas no no 1, alínea c), do artigo 12o ou no no 1, alínea c), do artigo 14o, comunicará essas alterações às autoridades competentes do Estado-membro da prestação de serviços. Essas alterações ficarão sujeitas, consoante o caso, ao disposto no no 3 do artigo 12o ou no no 3 do artigo 14o\n\n2. No caso de pretender alargar a sua actividade a compromissos abrangidos pelo artigo 10o segundo modalidades diferentes das previstas no artigo 13o ou no no 4 do artigo 14o, a empresa ficará sujeita ao procedimento previsto nos artigos 11o e 12o\n\n3. Caso pretenda alargar a sua actividade a compromissos de acordo com as modalidades previstas ou no artigo 13o ou no no 4 do artigo 14o, a empresa ficará sujeita ao procedimento previsto nos artigos 11o e 14o"
+  },
+  "35c9cdc6c7d63865": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. As empresas que, por força do no 3 do artigo 13o da Primeira Directiva, pratiquem a acumulação das actividades referidas no anexo da Directiva 73/239/CEE com o exercício das actividades enumeradas no artigo 1o da Primeira Directiva, podem assumir compromissos em relação a um dos ramos abrangidos pela Primeira Directiva no regime de prestação de serviços referido no artigo 13o da presente directiva. Podem também assumir compromissos no regime de prestação de serviços referido no artigo 12o, se a legislação do Estado-membro da prestação o permitir à data da notificação da presente directiva, ou o vier a permitir subsequentemente, e, até 31 de Dezembro de 1995, nos outros Estados-membros.\n\n2. O presente artigo será reanalisado à luz do relatório elaborado pela Comissão nos termos do no 2 do artigo 39o da Primeira Directiva."
+  },
+  "5406585bb0087d1d": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. Os Estados-membros da prestação de serviços poderão manter ou introduzir disposições legislativas, regulamentares ou administrativas justificadas pela preocupação de proteger o segurando, nomeadamente no que respeita à aprovação das condições gerais e especiais das apólices de seguros, dos formulários e outros impressos destinados a ser utilizados nas relações com os segurandos, das tarifas e de quaisquer outros documentos necessários ao exercício normal do controlo, na condição, porém, de as normas do Estado-membro do estabelecimento não serem suficientes para alcançar o nível de protecção necessário e de as exigências do Estado-membro da prestação de serviços não ultrapassarem o nível necessário para esse efeito.\n\n2. Todavia, relativamente aos compromissos subscritos segundo as modalidades referidas no artigo 13o, os Estados-membros da prestação de serviços não preverão disposições que exijam a aprovação ou a comunicação das condições gerais e especiais das apólices de seguros, nas tarifas e dos formulários e outros impressos que a empresa tenha intenção de utilizar nas suas relações com os segurandos.\n\n3. No intuito de controlar a observância das disposições legislativas, regulamentares e administrativas respeitantes a esses compromissos, os referidos Estados-membros apenas podem exigir a comunicação não sistemática desses requisitos e desses outros documentos, sem que essa exigência possa constituir condição prévia ao exercício da actividade pela empresa."
+  },
+  "0d66a65b09d81b14": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. Qualquer empresa que efectue prestações de serviços deve apresentar às autoridades competentes do Estado-membro da prestação de serviços todos os documentos que lhe forem solicitados em aplicação do presente artigo, desde que tal obrigação se aplique igualmente às empresas estabelecidas nesse Estado.\n\n2. Se as autoridades competentes de um Estado-membro verificarem que uma empresa que actua em regime de prestação de serviços no território desse Estado-membro não respeita as disposições legais em vigor nesse Estado-membro que lhe sejam aplicáveis, essas autoridades convidarão a empresa em causa a pôr fim a essa situação irregular.\n\n3. Se a empresa em questão não tomar disposições no sentido de regularizar a situação referida no no 2, as autoridades competentes do Estado-membro da prestação de serviços comunicarão esse facto às autoridades competentes do Estado-membro do estabelecimento. Estas últimas autoridades tomarão todas as medidas adequadas para que a empresa em causa ponha fim a essa situação irregular. A natureza de tais medidas será comunicada às autoridades do Estado-membro da prestação de serviços.\n\nAs autoridades competentes do Estado-membro da prestação de serviços podem igualmente dirigir-se às autoridades competentes da sede social da empresa seguradora sempre que as prestações de serviços forem efectuadas por uma sucursal ou agência.\n\n4. Se, apesar das medidas tomadas para o efeito pelo Estado-membro do estabelecimento, ou porque tais medidas se revelem insuficientes ou não existam ainda no Estado em causa, a empresa persistir em violar as normas legais em vigor no Estado-membro da prestação de serviços, este último pode, após ter informado as autoridades de controlo do Estado-membro do estabelecimento, tomar as medidas adequadas para evitar novas irregularidades e, se for absolutamente necessário, impedir a empresa de continuar a assumir compromissos em regime de prestação de serviços no seu território. No caso de compromissos assumidos em regime de prestação de serviços segundo modalidades diferentes das previstas no artigo 13o, tais medidas incluirão a revogação da autorização referida no artigo 12o Os Estados-membros assegurar-se-ao de que é possível efectuar no seu território as notificações necessárias para tais medidas.\n\n5. As disposições anteriores não afectam o poder de um Estado-membro punir as irregularidades cometidas no seu território.\n\n6. Se a empresa que cometeu a infracção possuir um estabelecimento ou possuir bens no Estado-membro da prestação de serviços, as autoridades de controlo desse Estado podem, ao abrigo da legislação nacional, aplicar contra esse estabelecimento ou esses bens as sanções administrativas previstas para essa infracção.\n\n7. Qualquer medida tomada ao abrigo dos nos 2 a 6 que inclua sanções ou restrições ao exercício da prestação de serviços deve ser devidamente fundamentada e notificada à empresa interessada. Tais medidas podem ser objecto de recurso judicial no Estado-membro em que forem tomadas.\n\n8. Quando tais medidas tiverem sido adoptadas ao abrigo do artigo 24o da Primeira Directiva, as autoridades competentes do Estado-membro da prestação de serviços serão informadas do facto pelas autoridades que as adoptarem e tomarão, no caso de medidas adoptadas ao abrigo dos nos 1 e 3 do referido artigo, as medidas necessárias para proteger os interesses dos segurados.\n\nNo caso de uma autorização ser revogada com base no artigo 26o da Primeira Directiva, as autoridades competentes do Estado-membro da prestação de serviços serão informadas do facto e tomarão as medidas adequadas para evitar que o estabelecimento em causa continue a celebrar contratos de seguro em regime de prestação de serviços no território desse Estado-membro.\n\n9. A Comissão apresentará ao Conselho, de dois em dois anos, um relatório indicando resumidamente o número e o tipo de casos em relação aos quais foram notificadas, em cada Estado-membro, decisões de recusa de autorização de acordo com o artigo 12o ou foram tomadas medidas por força do disposto no no 4. Os Estados-membros cooperarão com a Comissão, fornecendo-lhe todas as informações necessárias para a elaboração desse relatório."
+  },
+  "a33421ffad38940b": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nEm caso de liquidação de uma empresa de seguros, os compromissos resultantes de um contrato celebrado em regime de prestação de serviços serão executados do mesmo modo que os compromissos resultantes de outros contratos de seguro da mesma empresa, sem distinção de nacionalidade dos segurados e dos beneficiários."
+  },
+  "b4ff897f11d53606": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\n1. Quando uma operação for apresentada em regime de prestação de serviços, o segurando deve, antes de assumir qualquer compromisso, ser informado do nome do Estado-membro onde se encontra a sede social, a agência ou a sucursal com a qual o contrato será celebrado.\n\nSe forem fornecidos documentos ao segurando ou aos segurados, a informação referida no parágrafo anterior deve constar desses documentos.\n\n2. O contrato ou qualquer outro documento que concede a cobertura, bem como a proposta de seguro, caso esta vincule o segurando, devem indicar o endereço do estabelecimento que concede a cobertura e o endereço da sede social."
+  },
+  "59e475147d5906cf": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nCada estabelecimento deve comunicar à respectiva autoridade de controlo, no que respeita às operações efectuadas em regime de prestação de serviços, o montante dos prémios, sem dedução de resseguro, emitidos por Estado-membro e por cada um dos ramos I a VI, tal como se encontram definidos no anexo à Primeira Directiva.\n\nEstas informações devem ser fornecidas separadamente para os compromissos assumidos segundo as modalidades constantes do artigo 12o e para os compromissos assumidos em conformidade com as modalidades referidas no artigo 14o\n\nA autoridade de controlo de cada Estado-membro comunicará essas informações às autoridades de controlo dos Estados-membros de prestação de serviços que as solicitarem."
+  },
+  "0340a0f950507587": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\n1. Sempre que a prestação de serviços estiver sujeita à concessão de uma autorização pelo Estado-membro da prestação de serviços, o montante das provisões técnicas, incluindo as reservas matemáticas, e as regras relativas à participação nos lucros e nos valores de resgate e de redução relativos aos contratos em causa serão determinados sob o controlo desse Estado-membro e segundo as regras por ele fixadas ou, na falta destas, segundo as práticas estabelecidas nesse Estado. A representação dessas provisões por activos equivalentes e congruentes, a localização desses activos e a aplicação das regras relativas à participação nos lucros e aos valores de resgate e de redução efectuar-se-ao sob o controlo desse Estado-membro e segundo as suas regras ou práticas.\n\n2. Em todos os outros casos, estas diversas operações serão efectuadas sob o controlo do Estado-membro do estabelecimento, de acordo com as suas regras ou práticas.\n\n3. O Estado-membro do estabelecimento assegurar-se-á de que as provisões relativas à totalidade dos contratos que a empresa celebrar através do estabelecimento em questão são suficientes e de que estão representadas por activos equivalentes e congruentes.\n\n4. No caso referido no no 1, o Estado-membro do estabelecimento e o Estado-membro da prestação de serviços trocarão entre si todas as informações necessárias ao exercício das suas funções nos termos dos nos 1 e 3."
+  },
+  "32764b681d5fd6ba": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\nSem prejuízo de uma harmonização posterior, qualquer contrato de seguro celebrado em regime de prestação de serviços ficará exclusivamente sujeito aos impostos indirectos e às taxas parafiscais que oneram os prémios de seguro no Estado-membro em que o compromisso é assumido, na acepção da alínea e) do artigo 2o, bem como, no que se refere à Espanha, às sobrecargas legalmente fixadas a favor do organismo espanhol « Consorcio de Compensación de Seguros », para prover às necessidades das suas funções em matéria de compensação das perdas resultantes de acontecimentos extrãordinários ocorridos naquele Estado-membro.\n\nA lei aplicável ao contrato por força do artigo 4o não tem incidência no regime fiscal aplicável.\n\nSem prejuízo de harmonização posterior, os Estados-membros aplicarão às empresas que prestem serviços no seu território as disposições nacionais relativas às medidas destinadas a garantir a cobrança dos impostos indirectos e das taxas parafiscais devidas por força do primeiro parágrafo."
+  },
+  "1c9dff3444009763": {
+   "fragment_id": "TÍTULO IV Disposições transitórias — Artigo 26o",
+   "type": "divisao",
+   "heading": "TÍTULO IV Disposições transitórias — Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV Disposições transitórias — Artigo 26o\n\nA Espanha, até 31 de Dezembro de 1995, a Grécia e Portugal, até 31 de Dezembro de 1998, beneficiarão do seguinte regime transitório:\n\n- podem limitar os compromissos em relação aos quais são o Estado-membro de prestação aos subscritos de acordo com as modalidades referidas no artigo 13o,\n\n- podem, no que diz respeito às provisões técnicas, incluindo as provisões matemáticas, exigir que o cálculo, a representação e a localização destas provisões sejam feitos de acordo com a sua legislação nacional."
+  },
+  "9a2ea0207d565665": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\n1. No que se refere aos contratos de seguro subscritos por força do contrato de trabalho ou da actividade profissional do segurado, os Estados-membros podem limitar, até 31 de Dezembro de 1994, os compromissos em relação aos quais são eles os Estados-membros da prestação de serviços aos compromissos assumidos segundo as modalidades previstas no artigo 12o\n\n2. Os Estados-membro podem, num prazo máximo de três anos após a data de aplicação prevista no segundo parágrafo do artigo 30o, considerar que o segurando tomou a iniciativa apenas no caso previsto no no 1, primeiro travessão, do artigo 13o"
+  },
+  "2e364d58c06453c1": {
+   "fragment_id": "TÍTULO V Disposições finais — Artigo 28o",
+   "type": "divisao",
+   "heading": "TÍTULO V Disposições finais — Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V Disposições finais — Artigo 28o\n\nA Comissão e as autoridades competentes dos Estados-membros colaborarão estreitamente no sentido de facilitar o controlo, no interior da Comunidade, dos seguros e das operações contempladas pela Primeira Directiva.\n\nOs Estados-membros informarão a Comissão das principais dificuldades que resultarem da aplicação da presente directiva, nomeadamente das dificuldades que surgirem se um Estado-membro verificar uma transferência anormal das actividades abrangidas pela Primeira Directiva em detrimento das empresas estabelecidas no seu território e em benefício de agências e sucursais situadas na periferia deste.\n\nA Comissão e as autoridades competentes dos Estados-membros analisarão tais dificuldades o mais rapidamente possível, a fim de encontrar uma solução adequada.\n\nSe necessário, a Comissão apresentará ao Conselho propostas adequadas."
+  },
+  "41a251c9dbea0f78": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\nA Comissão enviará ao Parlamento Europeu e ao Conselho, periodicamente e pela primeira vez em 20 de Novembro de 1995, um relatório sobre a evolução do mercado dos seguros e das operações efectuadas em regime de livre prestação de serviços."
+  },
+  "45fab664f411fbc4": {
+   "fragment_id": "Artigo 30o",
+   "type": "artigo",
+   "heading": "Artigo 30o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o\n\nOs Estados-membros alterarão as respectivas disposições nacionais de acordo com o disposto na presente directiva no prazo do 24 meses a contar da sua notificação (9) e desse facto informarão imediatamente a Comissão.\n\nAs disposições alteradas nos termos do primeiro parágrafo devem ser aplicadas no prazo de 30 meses a contar da notificação da presente directiva."
+  },
+  "41b4f9c0f00ae9a4": {
+   "fragment_id": "Artigo 31o",
+   "type": "artigo",
+   "heading": "Artigo 31o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o\n\nA partir da notificação da presente directiva, os Estados-membros comunicarão à Comissão o texto das principais disposições legislativas, regulamentares ou administrativas que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "764cc54bcbb0ca74": {
+   "fragment_id": "Artigo 32o",
+   "type": "artigo",
+   "heading": "Artigo 32o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 8 de Novembro de 1990. Pelo Conselho\n\nO Presidente\n\nP. ROMITA\n\n(1) JO no C 38 de 15. 2. 1989, p. 7, e JO no C 72 de 22. 3. 1990, p. 5. (2) JO no C 175 de 16. 7. 1990, p. 107, e decisão de 24 de Outubro de 1990 (ainda não publicada no Jornal Oficial). (3) JO no C 298 de 27. 11. 1989, p. 2. (4) JO no L 63 de 13. 3. 1979, p. 1. (5) JO no L 228 de 16. 8. 1973, p. 3. (6) JO no L 172 de 4. 7. 1988, p. 1. (7) JO no L 193 de 18. 7. 1983, p. 1. (8) JO no L 26 de 31. 1. 1977, p. 14. (9) A presente directiva foi notificada aos Estados-membros em 20 de Novembro de 1990.\n\nANEXO A. Declaração a assinar pelo segurando por força do no 1, segundo travessão, do artigo 13o\n\n« Declaro pretender que (nome do intermediário) me forneça informações sobre contratos de seguros oferecidos por empresas estabelecidas em Estados-membros que não sejam (Estado-membro da residência habitual do segurando). Tendo conhecimento de que essas empresas estão sujeitas ao regime de controlo do Estado em que estão estabelecidas e não ao regime de controlo do (Estado-membro da residência habitual do segurando). »\n\nB. Declaração a assinar pelo segurando por força do no 2 do artigo 13o\n\n« Tomo conhecimento de que (nome do segurador) está estabelecido em (Estado-membro do estabelecimento do segurador) e estou ciente de que a fiscalização desse segurador é da responsabilidade das autoridades de controlo do (Estado-membro do estabelecimento do segurador) e não da responsabilidade das autoridades do (Estado-membro da residência habitual do segurando). »"
+  },
+  "6a6853d10fef17c4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1990L0619 — PT — 19.12.2002 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31990L0619) [SEGUNDA DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0619) [de 8 de Novembro de 1990](http://publications.europa.eu/resource/celex/31990L0619) [relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao seguro directo de vida, que fixa as disposições destinadas a facilitar o exercício efectivo da livre prestação de serviços e altera a Directiva 79/267/CEE](http://publications.europa.eu/resource/celex/31990L0619) [(90/619/CEE)](http://publications.europa.eu/resource/celex/31990L0619) (JO L 330, 29.11.1990, p.50)\n\n**revogado por:**\n\n- [Directiva 2002/83/CE do Parlamento Europeu e do Conselho de 5 de Novembro de 2002](http://publications.europa.eu/resource/celex/32002L0083) — L 345 — 1 — 19.12.2002"
+  }
+ }
+}

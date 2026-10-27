@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:449398:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-75033775",
+ "dre_path": "/dr/detalhe/decreto-lei/93-2008-449398",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-06-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75033215",
+    "75033216",
+    "75033217",
+    "75033218"
+   ]
+  }
+ ],
+ "fragments": {
+  "75033215": {
+   "fragment_id": "75033776",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 93/2008\n\nde 4 de Junho\n\nO Decreto-Lei n.º 226-A/2007, de 31 de Maio, com a primeira alteração introduzida pelo Decreto-Lei n.º 391-A/2007, de 21 de Dezembro, regula a Lei n.º 58/2005, de 29 de Dezembro (Lei da Água), estabelecendo o regime da utilização dos recursos hídricos. Mais precisamente, o seu artigo 10.º define os pressupostos, termos e condições de que depende a emissão dos títulos de utilização dos recursos hídricos e o seu artigo 21.º fixa a tramitação a que se sujeita a atribuição do título por procedimento concursal iniciado a pedido de um particular.\n\nTendo surgido dúvidas sobre se esses procedimentos de iniciativa dos particulares devem necessariamente ser abertos sempre que seja apresentado um pedido de atribuição de um título, importa realizar uma interpretação autêntica, consubstanciada em nova redacção dada às disposições legais em causa, que elimine qualquer dissensão acerca da aplicabilidade dos seguintes princípios resultantes da Lei da Água, da Lei n.º 54/2005, de 15 de Novembro (Lei da Titularidade dos Recursos Hídricos), e do próprio Decreto-Lei n.º 226-A/2007, de 31 de Maio:\n\na) Os particulares não têm um direito à utilização privativa dos bens do domínio público hídrico, dado que esses bens são da titularidade do Estado nos termos da Constituição e não são susceptíveis de sobre eles recaírem ónus ou encargos;\n\nb) Ao Estado compete administrar livremente os seus bens, de modo a assegurar a prossecução do interesse público;\n\nc) Não devem ser encetados procedimentos em que se sabe, à partida, não estarem reunidas as condições para a prolação do acto pretendido, nomeadamente os pressupostos, termos e condições de que depende a emissão do título;\n\nd) O procedimento concursal de iniciativa dos particulares não se inicia forçosa e automaticamente com a apresentação do pedido pelo particular, mas sim apenas quando a administração entenda que o mesmo se justifica ou que não existem razões que obstam à sua abertura, determinando a publicitação do pedido apresentado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "75033216": {
+   "fragment_id": "75033777",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Decreto-Lei n.º 226-A/2007, de 31 de Maio\n\nO artigo 21.º do Decreto-Lei n.º 226-A/2007, de 31 de Maio, passa a ter a seguinte redacção:\n\n«Artigo 21.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\na) ...\n\nb) A autoridade competente aprecia o pedido apresentado, verificando se existem causas que obstem desde logo à abertura do procedimento, nomeadamente o incumprimento de alguma das condições referidas no artigo 10.º de que depende a emissão do título, a sua inoportunidade ou inconveniência para o interesse público ou, ainda, o facto de se pretender atribuir essa utilização por via de iniciativa pública;\n\nc) Não existindo causas que obstem desde logo à abertura do procedimento, a autoridade competente procede à publicitação do pedido apresentado, através da afixação de editais e da publicação nos locais de estilo durante o prazo de 30 dias, abrindo a faculdade de outros interessados poderem requerer para si a emissão do título com o objecto e finalidade para a utilização publicitada ou apresentar objecções à atribuição do mesmo;\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]»"
+  },
+  "75033217": {
+   "fragment_id": "75033778",
+   "type": 11,
+   "heading": "Artigo 2.º — Carácter interpretativo da alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Carácter interpretativo da alteração\n\nAs alterações ao n.º 4 do artigo 21.º do Decreto-Lei n.º 226-A/2007, de 31 de Maio, introduzidas pelo artigo anterior revestem-se de carácter interpretativo."
+  },
+  "75033218": {
+   "fragment_id": "75033779",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:388474:por
+title: Portaria n.º 233/81
+short_title: null
+summary: Eleva à categoria de esquadra o actual posto policial da Costa da Caparica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 233/81
+official_date: null
+publication_date: '1981-03-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/1981, Série I de 1981-03-05
+  number: '53'
+  series: I
+  supplement: null
+  pages: 581 - 581
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05300/05810581.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '388474'
+  dre_path: /dr/detalhe/portaria/233-1981-388474
+  internal: pt:dre:388474:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-1981-388474
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-1981-388474
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:40:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a32ab158511949a8cc6035f8d8ebff5e57c6310eebb6df2ee74cea8c6bf1d909
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:40:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Almada
+- Esquadra Policial
+- Posto Policial
+- PSP
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:40:58Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 233/81
+
+de 5 de Março
+
+Considerando o actual desenvolvimento populacional e turístico da freguesia da Costa da Caparica, do concelho de Almada;
+
+Considerando que desde há muito tempo se tem tornado necessário, no período da época balnear, reforçar, progressivamente, o actual posto da PSP ali existente (2 subchefes e 12 guardas) com efectivos de outras unidades;
+
+Considerando de prioridade dotar a referida localidade com um efectivo policial compatível com as necessidades da população residente e flutuante:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, elevar à categoria de esquadra, desde já, o actual posto policial da Costa da Caparica, à custa dos actuais efectivos do Comando Distrital de Setúbal, a qual ficará com a constituição seguinte:
+
+1 chefe de esquadra.
+
+1 subchefe-ajudante.
+
+5 subchefes.
+
+40 guardas.
+
+Ministério da Administração Interna, 10 de Fevereiro de 1981. - O Ministro da Administração Interna, Fernando Monteiro do Amaral.

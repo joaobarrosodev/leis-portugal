@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: eu:celex:32022R1228:por
+title: Regulamento de Execução (UE) 2022/1228 da Comissão de 14 de julho de 2022
+short_title: null
+summary: Regulamento de Execução (UE) 2022/1228 da Comissão de 14 de julho de 2022 que derroga o Regulamento de Execução (UE)
+  2017/892 para 2022, no que diz respeito aos pedidos de ajuda, bem como aos pedidos de adiantamentos e de pagamentos parciais,
+  devido à crise causada pela invasão da Ucrânia pela Rússia
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- AGRI
+- Comissão Europeia
+proposing_entity: null
+official_number: 2022/1228
+official_date: null
+publication_date: '2022-07-18'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 189 de 18.7.2022
+  number: '189'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/0df61d46-0665-11ed-acce-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2022-01-01'
+- '2022-07-19'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32022R1228
+  eli: http://data.europa.eu/eli/reg_impl/2022/1228/oj
+  oj: oj:JOL_2022_189_R_0004
+  dre: null
+  dre_path: null
+  internal: eu:celex:32022R1228:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022R1228
+  metadata_url: http://publications.europa.eu/resource/cellar/0df61d46-0665-11ed-acce-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/0df61d46-0665-11ed-acce-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T03:20:12Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-16T16:41:29.132+02:00'
+integrity:
+  source_sha256: 46bb7457749ac75091e23ea23989618b0310829e9eaed42ca5524c3328502195
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:20:12Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Rússia
+- Ucrânia
+- ajuda da UE
+- ajuda à agricultura
+- alimento transformado
+- contencioso territorial
+- derrogação ao direito da UE
+- fruto
+- legume
+- programa operacional
+relationships:
+- type: based_on
+  target: celex:32013R1308
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ce1fdb47-6c04-11e3-9afb-01aa75ed71a1
+  date: '2013-12-23'
+- type: cited_by
+  target: pt:dre:187004276:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:20:12Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DE EXECUÇÃO (UE) 2022/1228 DA COMISSÃO
+
+de 14 de julho de 2022
+
+que derroga o Regulamento de Execução (UE) 2017/892 para 2022, no que diz respeito aos pedidos de ajuda, bem como aos pedidos de adiantamentos e de pagamentos parciais, devido à crise causada pela invasão da Ucrânia pela Rússia
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/0df61d46-0665-11ed-acce-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2022189PT.01001801-E0001), nomeadamente o artigo 38.º, alíneas c), e) e l),
+
+Considerando o seguinte:
+
+(1) Devido à atual crise causada pela invasão da Ucrânia pela Rússia em 24 de fevereiro de 2022, que teve início pouco depois da crise da COVID-19, os agricultores de todos os Estados-Membros enfrentam dificuldades excecionais. Os problemas logísticos tornaram os agricultores da UE vulneráveis às perturbações económicas causadas por esta crise, pelo que enfrentam atualmente dificuldades financeiras e problemas de tesouraria. Atendendo às atuais perturbações do mercado e à combinação sem precedentes de circunstâncias, os agricultores de todos os Estados-Membros depararam-se com dificuldades excecionais no planeamento, na implementação e na execução dos regimes de ajuda estabelecidos no Regulamento (UE) n.º 1308/2013. É, por conseguinte, necessário atenuar as dificuldades enfrentadas pelos agricultores, derrogando determinadas disposições do Regulamento de Execução (UE) 2017/892 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/0df61d46-0665-11ed-acce-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2022189PT.01001801-E0002).
+
+(2) Nos termos do artigo 9.º, n.º 1, do Regulamento de Execução (UE) 2017/892, as organizações de produtores devem apresentar os pedidos de ajuda, ou o respetivo saldo, à autoridade competente do Estado-Membro, relativamente a cada programa operacional a título do qual é pedida a ajuda, até 15 de fevereiro do ano seguinte àquele para o qual a ajuda é pedida. Nos termos do artigo 9.º, n.º 3, primeiro parágrafo, do referido regulamento de execução, os pedidos de ajuda podem abranger despesas programadas mas não efetuadas, se forem comprovados determinados elementos. Entre esses elementos figuram os factos de as ações em causa não terem podido ser efetuadas até 31 de dezembro do ano de execução do programa operacional por motivos que não dependem da organização de produtores em causa, bem como de não poderem ser efetuadas até 30 de abril do ano seguinte àquele para o qual a ajuda é pedida. Devido à invasão da Ucrânia pela Rússia, é adequado derrogar o artigo 9.º, n.º 3, primeiro parágrafo, alínea b), do referido regulamento de execução e estabelecer que os pedidos de ajuda a apresentar até 15 de fevereiro de 2023 podem abranger despesas relativas a ações programadas para 2022, mas não realizadas até 31 de dezembro de 2022, se essas ações puderem ser realizadas até 15 de agosto de 2023.
+
+(3) Nos termos do artigo 11.º, n.º 1, primeiro parágrafo, do Regulamento de Execução (UE) 2017/892, os pedidos de adiantamentos podem ser apresentados, conforme decisão do Estado-Membro, quer de três em três meses (em janeiro, abril, julho e outubro), quer de quatro em quatro meses (em janeiro, maio e setembro). Nos termos do artigo 12.º, n.º 2, do referido regulamento de execução, os pedidos de pagamentos parciais podem ser apresentados em qualquer momento, mas não mais de três vezes por ano. A fim de proporcionar flexibilidade na gestão dos programas operacionais pelas organizações de produtores reconhecidas – nomeadamente no que respeita ao seu financiamento –, é conveniente derrogar essas disposições, prevendo que os pedidos de adiantamentos possam ser apresentados em qualquer momento do ano de 2022 e que os pedidos de pagamentos parciais possam ser apresentados mais de três vezes em 2022.
+
+(4) Atendendo à necessidade de tomar medidas imediatas, o presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*. Dado que os programas operacionais são executados numa base anual, as derrogações relativas aos pedidos de adiantamentos e pagamentos parciais previstos no presente regulamento devem aplicar-se retroativamente a partir de 1 de janeiro de 2022.
+
+(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Organização Comum dos Mercados Agrícolas,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Derrogações do Regulamento de Execução (UE) 2017/892
+
+1. Em derrogação do artigo 9.º, n.º 3, primeiro parágrafo, alínea b), do Regulamento de Execução (UE) 2017/892, os pedidos de ajuda a apresentar até 15 de fevereiro de 2023 podem abranger despesas relativas a ações programadas para 2022 mas não realizadas até 31 de dezembro de 2022, se essas ações puderem ser realizadas até 15 de agosto de 2023.
+
+2. Em derrogação do artigo 11.º, n.º 1, primeiro parágrafo, do Regulamento de Execução (UE) 2017/892, os pedidos de adiantamentos podem ser apresentados em qualquer momento do ano de 2022.
+
+3. Em derrogação do artigo 12.º, n.º 2, do Regulamento de Execução (UE) 2017/892, os pedidos de pagamentos parciais podem ser apresentados mais de três vezes em 2022.
+
+###### Artigo 2.º — Entrada em vigor e aplicação
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+Os n.^os^ 2 e 3 do artigo 1.º são aplicáveis a partir de 1 de janeiro de 2022.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 14 de julho de 2022
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/0df61d46-0665-11ed-acce-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2022189PT.01001801-E0001) [JO L 347 de 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/0df61d46-0665-11ed-acce-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2022189PT.01001801-E0002) Regulamento de Execução (UE) 2017/892 da Comissão, de 13 de março de 2017, que estabelece regras de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no respeitante aos setores das frutas e produtos hortícolas e das frutas e produtos hortícolas transformados ([JO L 138 de 25.5.2017, p. 57](http://publications.europa.eu/resource/oj/JOL_2017_138_R_TOC)).

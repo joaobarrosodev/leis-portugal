@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:193576:por
+title: Portaria n.º 65/86
+short_title: null
+summary: Dá nova redacção ao artigo 3.º, n.º 2, do Regulamento da Pesca de Arrasto Costeira, aprovado pela Portaria n.º 49/73,
+  de 24 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 65/86
+official_date: null
+publication_date: '1986-03-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 55/1986, Série I de 1986-03-07
+  number: '55'
+  series: I
+  supplement: null
+  pages: 561 - 562
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05500/05610562.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '193576'
+  dre_path: /dr/detalhe/portaria/65-1986-193576
+  internal: pt:dre:193576:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-1986-193576
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-1986-193576
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6f918d7dd861553862108eb46661a982a361bb74753cb1356b0f9de8e4fc64e7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:55:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pesca por ARTE de Arrasto
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:170354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683272:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:55:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 65/86
+
+de 7 de Março
+
+O [Decreto-Lei n.º 495/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354), de 29 de Novembro, redefiniu as linhas de fecho e de base normal para a medição da largura do mar territorial.
+
+A publicação daquele importante diploma não visava introduzir alterações na regulamentação aplicável às pescas portuguesas, em particular no artigo 3.º, n.º 2, do Regulamento da Pesca de Arrasto Costeira, nos termos do qual os arrastões costeiros não podem pescar a menos de 6 milhas de distância à costa, medidas a partir das linhas de base estabelecidas para a medição da largura do mar territorial.
+
+Toda a regulamentação das pescas portuguesas vai ser, com efeito, sujeita a profundas modificações, seja introduzidas pela adopção do regime comunitário de conservação e gestão dos recursos, seja em consequência da revisão a que a Secretaria de Estado das Pescas está a proceder no sentido de a compatibilizar com as normas comunitárias e de ajustá-la às necessidades de racionalização das pescas nacionais.
+
+Enquanto não estiver concluído esse trabalho de revisão global da regulamentação, julga-se conveniente manter as condições de actuação do arrasto costeiro que vigoravam antes da publicação do referido [Decreto-Lei n.º 495/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1985-170354).
+
+Nestes termos, com base na alínea g) do artigo 202.º da Constituição:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+O artigo 3.º, n.º 2, do Regulamento da Pesca de Arrasto Costeira, aprovado pela [Portaria n.º 49/73](https://diariodarepublica.pt/dr/detalhe/portaria/49-1973-683272), de 24 de Janeiro, passa a ter a seguinte redacção:
+
+Art. 3.º - 1 - ...
+
+2 - Em frente da costa continental portuguesa os arrastões costeiros não podem pescar a menos de 6 milhas de distância à costa, medidas a partir da linha de base normal para medição da largura do mar territorial, estabelecida na base I da [Lei n.º 2130](https://diariodarepublica.pt/dr/detalhe/lei/2130-1966-469455), suplementada pelas linhas de fecho e de base rectas definidas pelos pontos cujas coordenadas geográficas constam do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/05500/05610562.pdf)
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+Assinada em 6 de Janeiro de 1986.
+
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

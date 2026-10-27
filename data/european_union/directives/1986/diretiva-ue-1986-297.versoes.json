@@ -1,0 +1,487 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31986L0297:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986L0297-20121029",
+ "dre_path": null,
+ "source_lastmod": "2012-10-29",
+ "versions": [
+  {
+   "date": "1986-07-08",
+   "future": false,
+   "celex": "31986L0297",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0655ac97b5a60e2a",
+    "e7cd8023cb14a341",
+    "8253b366083bbf9e",
+    "6ffbbf8f48ab4df8",
+    "d3ae640c8acdeaec",
+    "42d1752d67083db2",
+    "e4cfe6bb1695c576",
+    "aaaa7389630d5208",
+    "2e4814c409da759b"
+   ]
+  },
+  {
+   "date": "2010-09-29",
+   "future": false,
+   "celex": "01986L0297-20100929",
+   "acts": [
+    {
+     "id": "eu:celex:31997L0054:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31997L0054"
+    },
+    {
+     "id": "eu:celex:32010L0062:por",
+     "title": "DIRECTIVA 2010/62/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de Setembro de 2010",
+     "published": null,
+     "celex": "32010L0062"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO I",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Disposições gerais e requisitos aplicáveis às tomada de força",
+    "Adita 1. Definição e âmbito de aplicação",
+    "Adita 2. Pedido de homologação CE",
+    "Adita 3. Certificado de homologação CE",
+    "Adita 4. Disposições gerais",
+    "Adita 4.1 Disposições aplicáveis a tomadas de força à retaguarda",
+    "Adita 4.2. Disposições aplicáveis a tomadas de força dianteiras",
+    "Adita ANEXO II",
+    "Adita Parte I",
+    "Adita FICHA DE INFORMAÇÕES N.º […]",
+    "Adita nos termos do anexo I da Directiva 2003/37/CE relativa à homologação CE de um tractor no que diz respeito à tomada de força dos tractores",
+    "Adita 0. GENERALIDADES",
+    "Adita Parte II",
+    "Adita DOCUMENTAÇÃO DE HOMOLOGAÇÃO",
+    "Adita MODELO",
+    "Adita [Formato máximo: A4 (210 × 297 mm)]",
+    "Adita Notas",
+    "Suprime Artigo 1g.",
+    "Suprime Artigo 2g.",
+    "Suprime Artigo 3g.",
+    "Suprime Artigo 4g.",
+    "Suprime Artigo 5g.",
+    "Suprime Artigo 6g. — Os Estados-membros são destinatários da presente direc-",
+    "Suprime ANEXO II — MODELO"
+   ],
+   "fragments": [
+    "44e7c8c9e78a8906",
+    "0668bd550d53100e",
+    "ac1d7010ce21d06e",
+    "148a345217717b3e",
+    "7849bee3946c4738",
+    "4982e6276265c90e",
+    "eaf22075ed2adc67",
+    "d664376e2a8dcecd",
+    "e61d51bba8562c9f",
+    "644b807a807feff2",
+    "fa3117681b91935d",
+    "b1370e437406c8c6",
+    "8705b54d6e604a9d",
+    "8be4e891c6049271",
+    "f376d4e807750f21",
+    "852174729551523b",
+    "6006d1690cb29ff0",
+    "1d49b9a9203bda7a",
+    "ba2d5b70be8d38e4",
+    "4528b38372da16f2",
+    "69f8cfe79cf73d53",
+    "8d320d022f81dbd8",
+    "382100a9f996ad24",
+    "888420c68228b316",
+    "40c8a424ac6e4f7c"
+   ]
+  },
+  {
+   "date": "2012-10-29",
+   "future": false,
+   "celex": "01986L0297-20121029",
+   "acts": [
+    {
+     "id": "eu:celex:32012L0024:por",
+     "title": "DIRETIVA 2012/24/UE DA COMISSÃO Texto relevante para efeitos do EEE de 8 de outubro de 2012",
+     "published": null,
+     "celex": "32012L0024"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera 4.1 Disposições aplicáveis a tomadas de força à retaguarda",
+    "Altera 0. GENERALIDADES",
+    "Altera [Formato máximo: A4 (210 × 297 mm)]",
+    "Altera Notas",
+    "Adita 4.2 Disposições relativas às tomadas de força dianteiras",
+    "Suprime 4.2. Disposições aplicáveis a tomadas de força dianteiras"
+   ],
+   "fragments": [
+    "528d4920a1101ce2",
+    "b490c2c58ce6a5b2",
+    "ac1d7010ce21d06e",
+    "148a345217717b3e",
+    "7849bee3946c4738",
+    "4982e6276265c90e",
+    "eaf22075ed2adc67",
+    "d664376e2a8dcecd",
+    "e61d51bba8562c9f",
+    "644b807a807feff2",
+    "fa3117681b91935d",
+    "b1370e437406c8c6",
+    "8705b54d6e604a9d",
+    "2db131c4c809bc63",
+    "f729309b3a5fb94b",
+    "852174729551523b",
+    "6006d1690cb29ff0",
+    "1d49b9a9203bda7a",
+    "ba2d5b70be8d38e4",
+    "6ef2f230c5ea2b22",
+    "69f8cfe79cf73d53",
+    "8d320d022f81dbd8",
+    "382100a9f996ad24",
+    "da6af353418a6c50",
+    "0cb2b76a2f6b7edd"
+   ]
+  }
+ ],
+ "fragments": {
+  "0655ac97b5a60e2a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 86/297/CEE do Conselho de 26 de Maio de 1986 relativa à aproximação das legislações dos Estados- membros sobre tomadas de força e respectiva protecção nos tractores agrícolas e florestais com rodas** *Jornal Oficial nº L 186 de 08/07/1986 p. 0019 - 0025 Edição especial finlandesa: Capítulo 13 Fascículo 15 p. 0180 Edição especial sueca: Capítulo 13 Fascículo 15 p. 0180*\n\nDIRECTIVA DO CONSELHOde 26 de Maio de 1986relativa à aproximação das legislações dos Estados-membros sobre tomadas de força e\n\nrespectiva protecção nos tractores agrícolas e florestais com rodas(86/297/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,Tendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100g.,Tendo em conta a proposta da Comissão (1),Tendo em conta o parecer do Parlamento Europeu (2),Tendo em conta o parecer do Comité Económico e Social (3),Considerando que as normas técnicas, a que devem obedecer os tractores agrícolas ou florestais com rodas por força das legislações nacionais, abrangem, entre outros, a tomada de força e respectiva protecção;Considerando que estas normas diferem de um Estado-membro para outro; que daí resulta a necessidade de as mesmas normas serem adoptadas por todos os Estados-membros, quer em complemento, quer em lugar das suas regulamentações actuais, no sentido, nomeadamente, de permitir a aplicação, para cada tipo de tractor, do processo de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, referente à aproximação das legislações dos Estados-membros relativas à recepção de tractores agrícolas ou florestais com rodas (4), com a última redacção que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal;Considerando que a Resolução do Conselho, de 29 de Junho de 1978, relativa a um programa de acção das Comunidades Europeias em matéria de segurança e saúde nos locais de trabalho (5), prevê a aplicação dos princípios de prevenção de acidentes na concepção e realização dos meios de trabalho, incluindo os do sector agrícola; que as normas relativas às tomadas de força e à respectiva protecção são factores de segurança;Considerando que a aproximação das legislações nacionais sobre tractores agrícolas ou florestais com rodas implica o reconhecimento pelos Estados-membros dos controlos efectuados por cada um deles com base nas normas comuns,ADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "e7cd8023cb14a341": {
+   "fragment_id": "Artigo 1g.",
+   "type": "artigo",
+   "heading": "Artigo 1g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1g.\n\n1. Entende-se por tractor agrícola ou florestal qualquer veículo motorizado, com rodas ou lagartas, que tenha pelo\n\nmenos dois eixos, cuja função resida essencialmente no seu poder de tracção, e que seja especialmente concebido para puxar, empurrar, carregar ou accionar certas alfaias, máquinas ou reboques destinados a ser utilizados na exploração agrícola ou florestal. Pode ser preparado para transportar carga ou sistemas de movimentação contínua.2. A presente directiva só se aplica aos tractores referidos no n° 1 montados sobre pneumáticos, com pelo menos dois eixos, e com uma velocidade máxima por modelo compreendida entre 6 e 30 quilómetros por hora."
+  },
+  "8253b366083bbf9e": {
+   "fragment_id": "Artigo 2g.",
+   "type": "artigo",
+   "heading": "Artigo 2g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2g.\n\nOs Estados-membros não podem recusar a recepção CEE ou a recepção de alcance nacional de um tractor, nem recusar ou proibir a venda, a matrícula, a colocação em circulação ou a utilização de um tractor por motivos relacionados com a sua tomada de força e a respectiva protecção, se estas corresponderem às normas que constam do Anexo I."
+  },
+  "6ffbbf8f48ab4df8": {
+   "fragment_id": "Artigo 3g.",
+   "type": "artigo",
+   "heading": "Artigo 3g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3g.\n\nA presente directiva não afecta a faculdade dos Estados-membros de prescreverem, respeitando o Tratado, os requisitos que considerarem necessários para assegurar a protecção dos tractores em causa, desde que isso não implique modificações das tomadas de força e respectiva protecção em relação ao especificado na presente direc-\n\ntiva."
+  },
+  "d3ae640c8acdeaec": {
+   "fragment_id": "Artigo 4g.",
+   "type": "artigo",
+   "heading": "Artigo 4g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4g.\n\nAs alterações que forem necessárias para adaptar ao progresso técnico as normas do Anexo I e o modelo de anexo à ficha de recepção CEE transcrito no Anexo II serão adoptadas nos termos do procedimento previsto no artigo 13g. da Directiva 74/150/CEE."
+  },
+  "42d1752d67083db2": {
+   "fragment_id": "Artigo 5g.",
+   "type": "artigo",
+   "heading": "Artigo 5g.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5g.\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva num prazo de dezoito meses a contar da sua notificação e informar do facto imediatamente a Comissão. Todavia, as normas do ponto 5.2. do Anexo I só são aplicáveis a partir de 1 de Outubro de 1995.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptaram no domínio regido pela presente directiva."
+  },
+  "e4cfe6bb1695c576": {
+   "fragment_id": "Artigo 6g. — Os Estados-membros são destinatários da presente direc-",
+   "type": "artigo",
+   "heading": "Artigo 6g. — Os Estados-membros são destinatários da presente direc-",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6g. — Os Estados-membros são destinatários da presente direc-\n\ntiva.\n\nFeito em Bruxelas, em 26 de Maio de 1986.Pelo Conselho\n\nO Presidente\n\nG. BRAKS\n\n(1) JO n° C 164 de 23. 6. 1983, p. 5.\n\n(2) JO n° C 307 de 14. 11. 1983, p. 104.\n\n(3) JO N° C 341 de 19. 12. 1983, p. 2.\n\n(4) JO n° L 84 de 28. 3. 1974, p. 10.\n\n(5) JO n° C 165 de 11. 7. 1978, p. 3."
+  },
+  "aaaa7389630d5208": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nDEFINIÇÃO E CAMPO DE APLICAÇÃO, PEDIDOS DE RECEPÇÃO CEE, RECEPÇÃO CEE, TIPOS DE TOMADA DE FORÇA E NORMAS DE CONSTRUÇÃO E COLOCAÇÃO DAS MESMAS E DOS RESPECTIVOS RESGUARDOS\n\n1.DEFINIÇÃO E CAMPO DE APLICAÇÃO1.1.Por «tomada de força» (tf) entende-se a parte terminal do veio de transmissão do tractor destinada a transmitir o movimento a uma máquina.1.2.As disposições da presente directiva só se aplicam às tomadas de forças definidas no ponto 1.1. e situadas na retaguarda do tractor. Todavia, o ponto 5.2. seguinte só se aplica aos tractores com uma via mínima fixa ou regulável de um dos eixos motores de, pelo menos, 1 150 mm.2.PEDIDO DE RECEPÇÃO CEE2.1.O pedido de recepção de um tipo de tractor no que diz respeito à sua tomada de força e à respectiva protecção, deve ser apresentado pelo construtor do tractor ou por um seu representante.2.2.Esse pedido deve ser acompanhado de desenhos, em triplicado, a uma escala apropriada e suficientemente pormenorizada, das partes do tractor a que se refere o disposto na presente directiva.2.3.É necessário apresentar ao serviço técnico encarregado da recepção um tractor representativo do tipo a recepcionar ou a(s) parte(s) do tractor considerada(s) essencial (essenciais) para a execução dos controlos prescritos na presente directiva.3.RECEPÇÃO CEE3.1.Será anexada uma ficha correspondente ao modelo que consta do Anexo II à ficha de recepção CEE para cada recepção concedida ou recusada.4.TIPOS DE TOMADAS DE FORÇA4.1.As tomadas de força devem ter características correspondentes a um dos tipos descritos no quadro 1 seguinte (¹):>POSIÇÃO NUMA TABELA>\n\n4.2.A velocidade de rotação da tomada de força deve poder ser mantida por meios apropriados.4.3.N° caso de estar prevista mais de uma relação entre o regime do motor e a velocidade de rotação da tomada de força, qualquer alteração da relação deve ser perceptível. Além disso, devem ser tomadas medidas concretas na construção para garantir a impossibilidade de uma alteração não intencional da relação, em particular para passar a uma velocidade de rotação superior. Este sistema de segurança deve actuar sempre que se faça uma mudança de velocidade.4.4.Em todos os momentos, a velocidade nominal de rotação escolhida para a tomada de força deve estar sempre claramente indicada.5.NORMAS DE CONSTRUÇÃO E DE COLOCAÇÃO5.1.Sentido de rotação da tf da retaguardaO sentido de rotação é o dos ponteiros do relógio, olhando no sentido de avanço do tractor.5.2.Zona livre em torno da tomada de forçaA zona livre em torno da tf deve corresponder aos esquemas da figura 1 e às dimensões indicadas no quadro 2.\n\n>INÍCIO DE GRÁFICO>\n\nCorte A A\n\n<?aeIC><?aeIL19,4><?aeFN2,2>a<?aeFA3,6>b\n\n<?aeFN34,8>Vista de cima\n\n<?aeIC> <?aeFN5,6><?aeBT><?aeTX3Y0><?aa8N><?aeUV15><?aeBB9><?aeIL3,>Figura 1<?aa6A><?aeIL3,>Zona livre em torno da tf>FIM DE GRÁFICO>\n\n>POSIÇÃO NUMA TABELA>\n\n5.3.Protecção das tomadas de força5.3.1.Protecção5.3.1.1.A tomada de força deve ser protegida por um resguardo fixo ao tractor que cubra pelo menos a parte de cima e os dois lados da tomada de força, como se indica na figura 2 a seguir, ou por um outro sistema que assegure uma protecção semelhante, por exemplo, quando a tomada de força estiver alojada numa caixa prevista no próprio tractor ou for realizada por um elemento suplementar (suportes de ganchos, forquilha para atrelado, etc.).5.3.1.2.As dimensões do resguardo para os vários tipos de tomadas de força estão fixadas no quadro 3 a seguir.5.3.1.3.Além disso o tractor deve ser fornecido equipado com um protector suplementar não rotativo que cubra completamente a tomada de força por forma a protegê-la quando não estiver a ser utilizada.5.3.2.Características dos resguardos5.3.2.1.O resguardo deve ser concebido de forma a que a utilização e a manutenção do tractor não seja por ele prejudicada (ou seja fácil).A manutenção deverá poder fazer-se sem retirar o resguardo.\n\n5.3.2.2.Os materiais utilizados devem ser resistentes às intempéries, não perder a sua qualidade mecânica com o frio, e ser suficientemente sólidos.5.3.2.3.O resguardo não deve apresentar pontas ou arestas cortantes; não deve apresentar orifícios com mais de 8 mm de diâmetro ou de lado além do que é necessário para a fixação da corrente do resguardo do veio de transmissão por cardans, e deve poder suportar um peso de 120 daN, excepto no caso de ser concebido para não ser utilizado como degrau.>INÍCIO DE GRÁFICO>\n\nFormas facultativas\n\n75 mm min\n\nOrifício <?Ì>oe 16 mm\n\nÂngulo facultativo\n\n16,5 mm\n\n<?aeFN26,><?aeIL3,>Figura 2<?aa6A><?aeIL3,>Resguardo para tf dos tipos 1, 2 e 3>FIM DE GRÁFICO>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "2e4814c409da759b": {
+   "fragment_id": "ANEXO II — MODELO",
+   "type": "divisao",
+   "heading": "ANEXO II — MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — MODELO\n\nIndicação da Administração\n\nANEXO À FICHA DE RECEPÇÃO CEE DE UM TIPO DE TRACTOR QUANTO À SUA TOMADA DE FORÇA E À RESPECTIVA PROTECÇÃO(N°. 2 do artigo 4°. e artigo 10°. da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, referente à aproximação das legislações dos Estados-membros relativas à recepção de tractores agrícolas ou florestais com rodas)Número de recepção CEE: 1Marca de fábrica ou comercial do tractor: 2Tipo de tractor: 3Nome e endereço do construtor: 4Eventualmente, nome e endereço do representante do construtor: 5Descrição sumária do tipo de tomada de força e da respectiva protecção: 6Tractor apresentado para recepção em: 7Serviço técnico encarregado dos ensaios de recepção: 8Data da acta emitida por este serviço: 9Número da acta emitida por este serviço: 10A recepção da tomada de força e da respectiva protecção foi concedida/recusada (;).11Anexos à presente comunicação encontram-se os seguintes desenhos com o número de recepção acima indicado:Uma colecção de desenhos das partes do tractor consideradas de interesse para efeitos da Directiva 86/297/CEE do Conselho, de 26 de Maio de 1986, relativa à aproximação das legislações dos Estados-membros relativas às tomadas de força e à respectiva protecção.Estes desenhos serão fornecidos às autoridades competentes dos outros Estados-membros, a seu pedido expresso.12Observações eventuais: 13Local: 14Data: 15Assinatura: (;) Riscar o que não interessa."
+  },
+  "44e7c8c9e78a8906": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Maio de 1986\n\nrelativa à aproximação das legislações dos Estados-Membros aplicáveis às tomadas de força e respectiva protecção\n\n(86/297/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0003)),\n\nConsiderando que as normas técnicas, a que devem obedecer os tractores agrícolas ou florestais com rodas por força das legislações nacionais, abrangem, entre outros, a tomada de força e respectiva protecção;\n\nConsiderando que estas normas diferem de um Estado-membro para outro; que daí resulta a necessidade de as mesmas normas serem adoptadas por todos os Estados-membros, quer em complemento, quer em lugar das suas regulamentações actuais, no sentido, nomeadamente, de permitir a aplicação, para cada tipo de tractor, do processo de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, referente à aproximação das legislações dos Estados-membros relativas à recepção de tractores agrícolas ou florestais com rodas ([^4^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal;\n\nConsiderando que a Resolução do Conselho, de 29 de Junho de 1978, relativa a um programa de acção das Comunidades Europeias em matéria de segurança e saúde nos locais de trabalho ([^5^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0005)), prevê a aplicação dos princípios de prevenção de acidentes na concepção e realização dos meios de trabalho, incluindo os do sector agrícola; que as normas relativas às tomadas de força e à respectiva protecção são factores de segurança;\n\nConsiderando que a aproximação das legislações nacionais sobre tractores agrícolas ou florestais com rodas implica o reconhecimento pelos Estados-membros dos controlos efectuados por cada um deles com base nas normas comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "0668bd550d53100e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da presente directiva, por «tractor» entende-se um tractor tal como definido no artigo 2.º, alínea j), da Directiva 2003/37/CE do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0006)).\n\n2. Para efeitos da presente directiva, aplicam-se as categorias de tractores definidas no anexo II da Directiva 2003/37/CE."
+  },
+  "ac1d7010ce21d06e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-membros não podem recusar a recepção CEE ou a recepção de alcance nacional de um tractor, nem recusar ou proibir a venda, a matrícula, a colocação em circulação ou a utilização de um tractor por motivos relacionados com a sua tomada de força e a respectiva protecção, se estas corresponderem às normas que constam do Anexo I."
+  },
+  "148a345217717b3e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva não afecta a faculdade dos Estados-membros de prescreverem, respeitando o Tratado, os requisitos que considerarem necessários para assegurar a protecção dos tractores em causa, desde que isso não implique modificações das tomadas de força e respectiva protecção em relação ao especificado na presente directiva."
+  },
+  "7849bee3946c4738": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs alterações que forem necessárias para adaptar ao progresso técnico as normas do Anexo I e o modelo de anexo à ficha de recepção CEE transcrito no Anexo II serão adoptadas nos termos do procedimento previsto no artigo 13.º da Directiva 74/150/CEE."
+  },
+  "4982e6276265c90e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva num prazo de dezoito meses a contar da sua notificação e informar do facto imediatamente a Comissão. Todavia, as normas do ponto 5.2. do Anexo I só são aplicáveis a partir de 1 de Outubro de 1995.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno que adoptaram no domínio regido pela presente directiva."
+  },
+  "eaf22075ed2adc67": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "e61d51bba8562c9f": {
+   "fragment_id": "Disposições gerais e requisitos aplicáveis às tomada de força",
+   "type": "divisao",
+   "heading": "Disposições gerais e requisitos aplicáveis às tomada de força",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais e requisitos aplicáveis às tomada de força"
+  },
+  "644b807a807feff2": {
+   "fragment_id": "1. Definição e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "1. Definição e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Definição e âmbito de aplicação\n\n1.1. Por «tomada de força» (tf), entende-se a parte externa do veio de transmissão do tractor destinada a transmitir força de rotação aos equipamentos.\n\n1.2. As disposições da presente directiva só se aplicam às tomadas de forças definidas no ponto 1.1. e situadas na retaguarda ou na dianteira do tractor."
+  },
+  "fa3117681b91935d": {
+   "fragment_id": "2. Pedido de homologação CE",
+   "type": "divisao",
+   "heading": "2. Pedido de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Pedido de homologação CE\n\n2.1. O pedido de homologação de um modelo de tractor no que diz respeito à sua tomada de força e à respectiva protecção deve ser apresentado pelo fabricante do tractor ou por um seu mandatário devidamente autorizado, utilizando o documento de informação cujo modelo consta do anexo II, parte 1.\n\n2.2. Esse pedido deve ser acompanhado de desenhos, em triplicado, a uma escala apropriada e suficientemente pormenorizada, das partes do tractor a que se refere o disposto na presente directiva.\n\n2.3. É necessário apresentar ao serviço técnico responsável pela realização dos ensaios um tractor representativo do modelo a homologar ou as partes do tractor consideradas essenciais para a realização dos ensaios previstos na presente directiva."
+  },
+  "b1370e437406c8c6": {
+   "fragment_id": "3. Certificado de homologação CE",
+   "type": "divisao",
+   "heading": "3. Certificado de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Certificado de homologação CE\n\nPara cada homologação concedida ou recusada, deve ser preenchido um certificado conforme ao modelo que consta do anexo II, parte 2."
+  },
+  "8705b54d6e604a9d": {
+   "fragment_id": "4. Disposições gerais",
+   "type": "divisao",
+   "heading": "4. Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Disposições gerais\n\nQuando os tractores estiverem equipados com tomadas de força, estas devem cumprir os requisitos desta secção.\n\nPara efeitos da presente directiva, aplicam-se os pontos 4.1 e 4.2."
+  },
+  "8be4e891c6049271": {
+   "fragment_id": "4.1 Disposições aplicáveis a tomadas de força à retaguarda",
+   "type": "divisao",
+   "heading": "4.1 Disposições aplicáveis a tomadas de força à retaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1 Disposições aplicáveis a tomadas de força à retaguarda\n\nAs especificações contidas nas normas ISO 500-1:2004, em conjunto com a rectificação técnica de 1:2005, e ISO 500-2:2004 são aplicáveis aos tractores com tomadas de força à retaguarda, em conformidade com o quadro 1.\n\n| Norma aplicável | T1 C1 | T2 C2 | T3 C3 | T4.1 C4.1 | T4.2 C4.2 | T4.3 C4.3 | T5 C5 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| ISO 500-1:2004 [(^1^)](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0007) [(^3^)](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0009) | X | -- | X1) | X1) | X1) | X | X1) |\n| ISO 500-2:2004 [(^2^)](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0008) | -- | X | X2) | X2) | X2) | -- | X2) |\n| (^1^)Na norma ISO 500-1:2004, não é aplicável a última frase do ponto 6.2. (^2^)Para efeitos da presente directiva, esta norma é igualmente aplicável a tractores com uma tomada de força cuja potência é superior a 20 kW, medidos em conformidade com a norma ISO 7891:1990. (^3^)Para as tomadas de força do tipo 3, e quando for possível reduzir a dimensão da abertura do resguardo, a fim de se adaptar aos equipamentos de engate a utilizar, o manual de utilizador deve conter as seguintes informações:— Aviso relativo às consequências e aos riscos resultantes da reduzida dimensão do resguardo; — Instruções e avisos específicos relativos ao acoplamento e desacoplamento às tomadas de força; — Instruções e avisos específicos relativos à utilização de ferramentas ou máquinas acopladas à tomada de força da retaguarda. X Norma aplicável. -- Norma não aplicável. X1) Norma aplicável a tractores em que a via mínima do eixo é superior a 1 150 mm. X2) Norma aplicável a tractores em que a via mínima do eixo é igual, ou inferior, a 1 150 mm. |  |  |  |  |  |  |  |"
+  },
+  "f376d4e807750f21": {
+   "fragment_id": "4.2. Disposições aplicáveis a tomadas de força dianteiras",
+   "type": "divisao",
+   "heading": "4.2. Disposições aplicáveis a tomadas de força dianteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Disposições aplicáveis a tomadas de força dianteiras\n\nAs especificações da norma ISO 87591:1998 são aplicáveis aos tractores com tomadas de força dianteiras, em conformidade com o quadro 2.\n\n| Norma aplicável | T1 C1 | T2 C2 | T3 C3 | T4.1 C4.1 | T4.2 C4.2 | T4.3 C4.3 | T5 C5 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| ISO 8759-1:1998 | X | X | X3) | X4) | X | X4) | X |\n| X Norma aplicável. X3) Norma aplicável quando o tractor é equipado com as tomadas de força especificadas na referida norma. X4) Norma aplicável, excepto ponto 4.2. |  |  |  |  |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "6006d1690cb29ff0": {
+   "fragment_id": "Parte I",
+   "type": "divisao",
+   "heading": "Parte I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte I"
+  },
+  "1d49b9a9203bda7a": {
+   "fragment_id": "FICHA DE INFORMAÇÕES N.º […]",
+   "type": "divisao",
+   "heading": "FICHA DE INFORMAÇÕES N.º […]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FICHA DE INFORMAÇÕES N.º […]"
+  },
+  "ba2d5b70be8d38e4": {
+   "fragment_id": "nos termos do anexo I da Directiva 2003/37/CE relativa à homologação CE de um tractor no que diz respeito à tomada de força dos tractores",
+   "type": "divisao",
+   "heading": "nos termos do anexo I da Directiva 2003/37/CE relativa à homologação CE de um tractor no que diz respeito à tomada de força dos tractores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### nos termos do anexo I da Directiva 2003/37/CE relativa à homologação CE de um tractor no que diz respeito à tomada de força dos tractores\n\nAs seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice.\n\nSe houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente."
+  },
+  "4528b38372da16f2": {
+   "fragment_id": "0. GENERALIDADES",
+   "type": "divisao",
+   "heading": "0. GENERALIDADES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 0. GENERALIDADES\n\n0.1. Marca(s) (marca registada do fabricante):\n\n0.2. Modelo (especificar eventuais variantes e versões):\n\n0.3. Meios de identificação do modelo/tipo, se marcados no veículo:\n\n0.3.1. Chapa do fabricante (localização e modo de fixação)\n\n0.4. Categoria do veículo ([^7^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0010)):\n\n0.5. Nome e endereço do fabricante:\n\n0.8. Nome(s) e endereço(s) da(s) instalação(ões) de montagem:\n\n4.12. Tomada(s) de força (velocidade de rotação e relação com a do motor) (número, tipo e localização):\n\n4.12.1. tomada(s) de força principal(ais):\n\n4.12.2. outra(s):\n\n4.12.3. Protecção da(s) tomada(s) de força (descrição, dimensões, desenhos, fotografias):"
+  },
+  "69f8cfe79cf73d53": {
+   "fragment_id": "Parte II",
+   "type": "divisao",
+   "heading": "Parte II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte II"
+  },
+  "8d320d022f81dbd8": {
+   "fragment_id": "DOCUMENTAÇÃO DE HOMOLOGAÇÃO",
+   "type": "divisao",
+   "heading": "DOCUMENTAÇÃO DE HOMOLOGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOCUMENTAÇÃO DE HOMOLOGAÇÃO"
+  },
+  "382100a9f996ad24": {
+   "fragment_id": "MODELO",
+   "type": "divisao",
+   "heading": "MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### MODELO"
+  },
+  "888420c68228b316": {
+   "fragment_id": "[Formato máximo: A4 (210 × 297 mm)]",
+   "type": "divisao",
+   "heading": "[Formato máximo: A4 (210 × 297 mm)]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### [Formato máximo: A4 (210 × 297 mm)]\n\nComunicação relativa a\n\n— homologação ([^8^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0011))\n\n— extensão da homologação [(8)](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0011)\n\n— recusa da homologação [(8)](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0011)\n\n— revogação da homologação [(8)](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0011)\n\nde um modelo de tractor nos termos da Directiva 86/297/CEE,\n\nNúmero de homologação: …\n\nRazão da extensão: …\n\n0.1. Marca (firma do fabricante):\n\n0.2. Modelo do tractor:\n\n0.3. Meios de identificação do modelo, se indicado no tractor ([^9^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0012)):\n\n0.3.1. Localização dessa marcação:\n\n0.4. Categoria do veículo ([^10^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#E0013)):\n\n0.5. Nome e endereço do fabricante:\n\n0.8. Nome(s) e endereço(s) da(s) instalação(ões) de montagem:\n\n1. Informações complementares (se aplicável): ver adenda.\n\n2. Serviço técnico responsável pela realização dos ensaios:\n\n3. Data do relatório de ensaio:\n\n4. Número do relatório de ensaio:\n\n5. Observações (se aplicável): ver adenda.\n\n6. Local:\n\n7. Data:\n\n8. Assinatura:\n\n9. Em anexo, figura o índice do processo de homologação apresentado às entidades homologadoras e que pode ser obtido a pedido.\n\n---"
+  },
+  "40c8a424ac6e4f7c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0001)) JO n.º C 164 de 23. 6. 1983, p. 5.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0002)) JO n.º C 307 de 14. 11. 1983, p. 104.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0003)) JO n.º C 341 de 19. 12. 1983, p. 2.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0004)) JO n.º L 84 de 28. 3. 1974, p. 10.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0005)) JO n.º C 165 de 11. 7. 1978, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0006)) JO L 171 de 9.7.2003, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0010)) Conforme definido no anexo II da Directiva 2003/37/CE.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0011)) Riscar o que não interessa.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0012)) Se os meios de identificação do modelo contiverem caracteres não relevantes para a descrição dos modelos de tractor abrangidos por este certificado de homologação, esses caracteres devem ser representados na documentação pelo símbolo «?» (exemplo: ABC??123??)\n\n> ([^10^](http://publications.europa.eu/resource/cellar/9616580d-ca67-4cdc-b21b-adcd72e9d1bb.0018.03/DOC_1#src.E0013)) Conforme definido no anexo II da Directiva 2003/37/CE."
+  },
+  "528d4920a1101ce2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Maio de 1986\n\nrelativa à aproximação das legislações dos Estados-Membros aplicáveis às tomadas de força e respectiva protecção\n\n(86/297/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0003)),\n\nConsiderando que as normas técnicas, a que devem obedecer os tractores agrícolas ou florestais com rodas por força das legislações nacionais, abrangem, entre outros, a tomada de força e respectiva protecção;\n\nConsiderando que estas normas diferem de um Estado-membro para outro; que daí resulta a necessidade de as mesmas normas serem adoptadas por todos os Estados-membros, quer em complemento, quer em lugar das suas regulamentações actuais, no sentido, nomeadamente, de permitir a aplicação, para cada tipo de tractor, do processo de recepção CEE que é objecto da Directiva 74/150/CEE do Conselho, de 4 de Março de 1974, referente à aproximação das legislações dos Estados-membros relativas à recepção de tractores agrícolas ou florestais com rodas ([^4^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0004)), com a última redacção que lhe foi dada pelo Acto de Adesão de Espanha e de Portugal;\n\nConsiderando que a Resolução do Conselho, de 29 de Junho de 1978, relativa a um programa de acção das Comunidades Europeias em matéria de segurança e saúde nos locais de trabalho ([^5^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0005)), prevê a aplicação dos princípios de prevenção de acidentes na concepção e realização dos meios de trabalho, incluindo os do sector agrícola; que as normas relativas às tomadas de força e à respectiva protecção são factores de segurança;\n\nConsiderando que a aproximação das legislações nacionais sobre tractores agrícolas ou florestais com rodas implica o reconhecimento pelos Estados-membros dos controlos efectuados por cada um deles com base nas normas comuns,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b490c2c58ce6a5b2": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da presente directiva, por «tractor» entende-se um tractor tal como definido no artigo 2.º, alínea j), da Directiva 2003/37/CE do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0006)).\n\n2. Para efeitos da presente directiva, aplicam-se as categorias de tractores definidas no anexo II da Directiva 2003/37/CE."
+  },
+  "2db131c4c809bc63": {
+   "fragment_id": "4.1 Disposições aplicáveis a tomadas de força à retaguarda",
+   "type": "divisao",
+   "heading": "4.1 Disposições aplicáveis a tomadas de força à retaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1 Disposições aplicáveis a tomadas de força à retaguarda\n\nAs especificações contidas nas normas ISO 500-1:2004, em conjunto com a rectificação técnica de 1:2005, e ISO 500-2:2004 são aplicáveis aos tractores com tomadas de força à retaguarda, em conformidade com o quadro 1.\n\n| Norma aplicável | T1 C1 | T2 C2 | T3 C3 | T4.1 C4.1 | T4.2 C4.2 | T4.3 C4.3 | T5 C5 |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| ISO 500-1:2004 [(^1^)](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0007) [(^3^)](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0009) | X | -- | X1) | X1) | X1) | X | X1) |\n| ISO 500-2:2004 [(^2^)](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0008) | -- | X | X2) | X2) | X2) | -- | X2) |\n| (^1^)Na norma ISO 500-1:2004, não é aplicável a última frase do ponto 6.2. (^2^)Para efeitos da presente directiva, esta norma é igualmente aplicável a tractores com uma tomada de força cuja potência é superior a 20 kW, medidos em conformidade com a norma ISO 7891:1990. (^3^)Para as tomadas de força do tipo 3, e quando for possível reduzir a dimensão da abertura do resguardo, a fim de se adaptar aos equipamentos de engate a utilizar, o manual de utilizador deve conter as seguintes informações:— Aviso relativo às consequências e aos riscos resultantes da reduzida dimensão do resguardo; — Instruções e avisos específicos relativos ao acoplamento e desacoplamento às tomadas de força; — Instruções e avisos específicos relativos à utilização de ferramentas ou máquinas acopladas à tomada de força da retaguarda. X Norma aplicável. -- Norma não aplicável. X1) Norma aplicável a tractores em que a via mínima do eixo é superior a 1 150 mm. X2) Norma aplicável a tractores em que a via mínima do eixo é igual, ou inferior, a 1 150 mm. |  |  |  |  |  |  |  |"
+  },
+  "f729309b3a5fb94b": {
+   "fragment_id": "4.2 Disposições relativas às tomadas de força dianteiras",
+   "type": "divisao",
+   "heading": "4.2 Disposições relativas às tomadas de força dianteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2 Disposições relativas às tomadas de força dianteiras\n\nAs especificações da norma ISO 87591:1998, com exceção do ponto 4.2, são aplicáveis aos tratores de todas as categorias T e C equipados com tomadas de força dianteiras, tal como especificado nessa norma."
+  },
+  "6ef2f230c5ea2b22": {
+   "fragment_id": "0. GENERALIDADES",
+   "type": "divisao",
+   "heading": "0. GENERALIDADES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 0. GENERALIDADES\n\n0.1. Marca(s) (marca registada do fabricante):\n\n0.2. Modelo (especificar eventuais variantes e versões):\n\n0.3. Meios de identificação do modelo/tipo, se marcados no veículo:\n\n0.3.1. Chapa do fabricante (localização e modo de fixação)\n\n0.4. Categoria do veículo ([^7^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0010)):\n\n0.5. Nome e endereço do fabricante:\n\n0.8. Nome(s) e endereço(s) da(s) instalação(ões) de montagem:\n\n4.12. Tomada(s) de força (velocidade de rotação e relação com a do motor) (número, tipo e localização):\n\n4.12.1. tomada(s) de força principal(ais):\n\n4.12.2. outra(s):\n\n4.12.3. Protecção da(s) tomada(s) de força (descrição, dimensões, desenhos, fotografias):"
+  },
+  "da6af353418a6c50": {
+   "fragment_id": "[Formato máximo: A4 (210 × 297 mm)]",
+   "type": "divisao",
+   "heading": "[Formato máximo: A4 (210 × 297 mm)]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### [Formato máximo: A4 (210 × 297 mm)]\n\nComunicação relativa a\n\n— homologação ([^8^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0011))\n\n— extensão da homologação [(8)](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0011)\n\n— recusa da homologação [(8)](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0011)\n\n— revogação da homologação [(8)](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0011)\n\nde um modelo de tractor nos termos da Directiva 86/297/CEE,\n\nNúmero de homologação: …\n\nRazão da extensão: …\n\n0.1. Marca (firma do fabricante):\n\n0.2. Modelo do tractor:\n\n0.3. Meios de identificação do modelo, se indicado no tractor ([^9^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0012)):\n\n0.3.1. Localização dessa marcação:\n\n0.4. Categoria do veículo ([^10^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#E0013)):\n\n0.5. Nome e endereço do fabricante:\n\n0.8. Nome(s) e endereço(s) da(s) instalação(ões) de montagem:\n\n1. Informações complementares (se aplicável): ver adenda.\n\n2. Serviço técnico responsável pela realização dos ensaios:\n\n3. Data do relatório de ensaio:\n\n4. Número do relatório de ensaio:\n\n5. Observações (se aplicável): ver adenda.\n\n6. Local:\n\n7. Data:\n\n8. Assinatura:\n\n9. Em anexo, figura o índice do processo de homologação apresentado às entidades homologadoras e que pode ser obtido a pedido.\n\n---"
+  },
+  "0cb2b76a2f6b7edd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0001)) JO n.º C 164 de 23. 6. 1983, p. 5.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0002)) JO n.º C 307 de 14. 11. 1983, p. 104.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0003)) JO n.º C 341 de 19. 12. 1983, p. 2.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0004)) JO n.º L 84 de 28. 3. 1974, p. 10.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0005)) JO n.º C 165 de 11. 7. 1978, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0006)) JO L 171 de 9.7.2003, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0010)) Conforme definido no anexo II da Directiva 2003/37/CE.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0011)) Riscar o que não interessa.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0012)) Se os meios de identificação do modelo contiverem caracteres não relevantes para a descrição dos modelos de tractor abrangidos por este certificado de homologação, esses caracteres devem ser representados na documentação pelo símbolo «?» (exemplo: ABC??123??)\n\n> ([^10^](http://publications.europa.eu/resource/cellar/cd2afe98-2163-45cb-93e6-962746785141.0018.03/DOC_1#src.E0013)) Conforme definido no anexo II da Directiva 2003/37/CE."
+  }
+ }
+}

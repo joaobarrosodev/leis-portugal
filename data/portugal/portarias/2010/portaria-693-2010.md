@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:343171:por
+title: Portaria n.º 693/2010
+short_title: null
+summary: Determina a extensão das alterações dos contratos colectivos entre a APOMEPA - Associação Portuguesa dos Médicos
+  Patologistas e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e entre a mesma associação de empregadores
+  e a FEPCES - Federação Portuguesa dos Sindicatos do Comércio, Escritórios e Serviços e outro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 693/2010
+official_date: null
+publication_date: '2010-08-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/2010, Série I de 2010-08-13
+  number: '157'
+  series: I
+  supplement: null
+  pages: 3526 - 3527
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15700/0352603527.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/693/2010/08/13/p/dre/pt/html
+  oj: null
+  dre: '343171'
+  dre_path: /dr/detalhe/portaria/693-2010-343171
+  internal: pt:dre:343171:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/693-2010-343171
+  metadata_url: https://data.dre.pt/eli/port/693/2010/08/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/693-2010-343171
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 299a4587dccbf639a40af906c8926374af297743f4dc8d65d4d2abecf78a8911
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Contrato Coletivo de Trabalho
+- Médico
+- Regulamento de Extensão
+- Remuneração
+- Tabela Salarial
+- Trabalhador por Conta de Outrem
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:48:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 693/2010
+
+de 13 de Agosto
+
+As alterações dos contratos colectivos entre a APOMEPA - Associação Portuguesa dos Médicos Patologistas e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e entre a mesma associação de empregadores e a FEPCES - Federação Portuguesa dos Sindicatos do Comércio, Escritórios e Serviços e outro, publicadas no Boletim do Trabalho e Emprego, n.os 13 e 14, de 8 e 15 de Abril de 2010, abrangem as relações de trabalho entre empregadores que exerçam a actividade de patologia clínica, anatomopatologia e outras consideradas adequadas ao exercício das competências no âmbito da patologia clínica e trabalhadores ao seu serviço, uns e outros representados pelas associações outorgantes.
+
+As associações subscritoras das convenções requereram a extensão das alterações a todos os trabalhadores e a todos os empregadores que no território nacional se dediquem à mesma actividade.
+
+As convenções actualizam as tabelas salariais. O estudo de avaliação do impacto da extensão das tabelas salariais teve por base as retribuições efectivas praticadas no sector abrangido pelas convenções, apuradas pelos quadros de pessoal de 2008 e actualizadas de acordo com o aumento percentual médio ponderado registado pelas tabelas salariais das convenções nos anos intermédios. Os trabalhadores a tempo completo do sector abrangido pelas convenções, com exclusão dos aprendizes, praticantes e de um grupo residual são 11 560, dos quais 4210 (36,4 %) auferem retribuições inferiores às convencionais, sendo que 2052 (17,8 %) auferem retribuições inferiores às das convenções em mais de 7,8 %. São as empresas do escalão até 9 trabalhadores que empregam o maior número de trabalhadores com retribuições inferiores às das convenções.
+
+As convenções actualizam, ainda, outras prestações de conteúdo pecuniário como os subsídios por deslocações, entre 3,7 % e 6,7 %, o abono para falhas, em 5,9 %, o subsídio por funções de orientação e coordenação, em 4,8 %, o subsídio por especialização, em 5,3 %, o subsídio por situação de disponibilidade, em 5,9 % e em 6 %, as diuturnidades, em 6,4 %, e o subsídio de alimentação, em 6,7 %. Considerando a finalidade da extensão e que as mesmas prestações foram objecto de extensões anteriores, justifica-se incluí-las na extensão.
+
+Com vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre empresas do sector de actividade abrangido, a extensão assegura para as tabelas salariais e para as cláusulas de natureza pecuniária, retroactividade idêntica à da convenção. No entanto, o n.º 8 da cláusula 24.ª, «Deslocações», não é objecto de retroactividade uma vez que se destina a compensar despesas já feitas para assegurar a prestação do trabalho.
+
+Tendo em consideração que não é viável proceder à verificação objectiva da representatividade das associações outorgantes e, ainda, que os regimes das referidas convenções são substancialmente idênticos, procede-se conjuntamente à respectiva extensão.
+
+A extensão das convenções tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.
+
+Embora as convenções tenham área nacional, a extensão de convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a presente apenas é aplicável no território do continente.
+
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 24, de 29 de Junho de 2010, ao qual não foi deduzida oposição por parte dos interessados.
+
+Assim:
+
+Manda o Governo, pela Ministra do Trabalho e da Solidariedade Social, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho, o seguinte:
+
+###### Artigo 1.º
+
+As condições de trabalho constantes das alterações dos contratos colectivos entre a APOMEPA - Associação Portuguesa dos Médicos Patologistas e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e entre a mesma associação de empregadores e a FEPCES - Federação Portuguesa dos Sindicatos do Comércio, Escritórios e Serviços e outro, publicadas no Boletim do Trabalho e Emprego, n.os 13 e 14, de 8 e 15 de Abril de 2010, são estendidas no território do continente:
+
+a) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que exerçam a actividade de patologia clínica, anatomopatologia e outras consideradas adequadas ao exercício das competências no âmbito da patologia clínica e trabalhadores ao seu serviço, das profissões e categorias profissionais nelas previstas;
+
+b) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que exerçam a actividade económica referida na alínea anterior e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas nas convenções, não filiados nas associações sindicais outorgantes.
+
+###### Artigo 2.º
+
+1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+
+2 - As tabelas salariais e as cláusulas de natureza pecuniária, com excepção do n.º 8 da cláusula 24.ª, produzem efeitos desde 1 de Janeiro de 2010.
+
+3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de quatro.
+
+A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 30 de Julho de 2010.

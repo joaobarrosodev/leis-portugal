@@ -1,0 +1,310 @@
+---
+schema_version: '1.0'
+id: pt:dre:551230:por
+title: Decreto-Lei n.º 441/89
+short_title: null
+summary: Aprova o Regulamento da Comercialização e Utilização de Produtos Proteicos Obtidos a Partir de Microrganismos, de
+  Compostos Azotados não Proteicos, de Ácidos Aminados e Seus Sais e de Análogos Hidroxilados dos Ácidos Aminados em Alimentação
+  Animal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 441/89
+official_date: null
+publication_date: '1989-12-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 296/1989, Série I de 1989-12-27
+  number: '296'
+  series: I
+  supplement: null
+  pages: 5573 - 5576
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29600/55735576.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '551230'
+  dre_path: /dr/detalhe/decreto-lei/441-1989-551230
+  internal: pt:dre:551230:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1989-551230
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1989-551230
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:56:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 70464ec9a4895c03589ec6d6f7e1fc89b28973e374cca794b2784b82e8edd43a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aditivo Alimentar
+- Alimento para Animais
+- Comércio
+- Produto Proteico
+- Regulamento
+- Saúde Animal
+relationships:
+- type: amended_by
+  target: pt:dre:262159:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:262159:por
+  label: "Revogado a partir de 12.01.2007 pelo DEC LEI.6/2007.11.01.2007.MADRP, DR.IS [8] de 11.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2007-262159
+  date: '2007-01-11'
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:56:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 441/89
+
+de 27 de Dezembro
+
+Considerando que a adesão de Portugal às Comunidades Europeias obriga a uma completa harmonização da legislação portuguesa com a directiva comunitária n.º [82/471/CEE](http://data.europa.eu/eli/dir/1982/471/oj?locale=pt), incluindo todas as alterações que lhe foram introduzidas e, designadamente, a última redacção que lhe foi dada pela Directiva n.º [88/485/CEE](http://data.europa.eu/eli/dir/1988/485/oj?locale=pt);
+
+Considerando a importância da produção animal no contexto do sector agrário nacional e a relação existente entre as performances produtivas obtidas e a qualidade dos alimentos fornecidos aos animais;
+
+Considerando que uma adequada regulamentação no domínio dos alimentos para animais é fundamental para se obter o desejado aumento de produtividade nas produções animais;
+
+Considerando o aumento significativo do consumo de proteaginosas nos países da Comunidade, nuns casos motivado pelo aumento dos efectivos pecuários e noutros pelo aumento de produtividade dos efectivos existentes;
+
+Considerando que no decurso dos últimos anos o aumento da procura de proteínas de origem vegetal foi acompanhado por uma baixa sensível da oferta no mercado mundial de determinados tipos de alimentos proteicos;
+
+Considerando que esta situação de carência originou que a indústria de alimentação animal pesquisasse produtos de substituição que garantissem a estabilidade dos seus aprovisionamentos;
+
+Considerando que as modernas técnicas de fabrico dos produtos de substituição exigem uma adequada regulamentação da sua comercialização como alimentos ou como componentes dos alimentos para animais, de molde a estabelecer quais os produtos autorizados, assim como as suas condições de utilização;
+
+Considerando que a aprovação de um novo produto ou de uma nova utilização carece de estudos aprofundados que assegurem que o mesmo possui elementos nutritivos adequados e que a sua correcta utilização em alimentação animal não exercerá qualquer influência desfavorável na saúde pública, na saúde animal ou no meio ambiente, bem como não prejudicará o consumidor pela alteração das características dos produtos de origem animal;
+
+Considerando que, em consequência do seu contributo indirecto em proteínas, os compostos azotados não proteicos devem ser submetidos às disposições constantes do presente Regulamento;
+
+Considerando que o valor nutritivo dos produtos em causa, assim como a sua inocuidade, dependem em larga medida das características da sua composição, das condições de utilização ou dos processos de fabrico dos produtos, o que justifica, em certos casos, uma rotulagem específica para este tipo de produtos, por forma que o utilizador seja protegido contra possíveis fraudes e tal lhe permita utilizar o melhor possível os produtos postos à sua disposição;
+
+Considerando, por último, que o Conselho Consultivo de Alimentação Animal foi ouvido sobre a matéria constante do presente diploma, tendo sobre a mesma emitido parecer favorável, nos termos do artigo 4.º do Decreto-Lei n.º 372/87, de 5 de Dezembro;
+
+Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º É aprovado o Regulamento da Comercialização e Utilização de Produtos Proteicos Obtidos a Partir de Microrganismos, de Compostos Azotados não Proteicos, de Ácidos Aminados e Seus Sais e de Análogos Hidroxilados dos Ácidos Aminados em Alimentação Animal, anexo ao presente diploma e que dele faz parte integrante.
+
+Art. 2.º A lista de produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados dos ácidos aminados autorizados em alimentação animal e respectivas condições de utilização é aprovada por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+Art. 3.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 17 de Novembro de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 27 de Novembro de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Regulamento da Comercialização e Utilização de Produtos Proteicos Obtidos a Partir de Microrganismos, de Compostos Azotados não Proteicos, de Ácidos Aminados e Seus Sais e de Análogos Hidroxilados dos Ácidos Aminados em Alimentação Animal.
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O presente Regulamento diz respeito a produtos proteicos obtidos a partir de microrganismos, a compostos azotados não proteicos, a ácidos aminados e seus sais e a análogos hidroxilados dos ácidos aminados, fabricados segundo determinados processos técnicos, destinados a enriquecer directa ou indirectamente a dieta dos animais e a ser comercializados como alimentos para animais ou incorporados nestes.
+
+2 - O presente Regulamento aplica-se sem prejuízo das disposições legais relativas a:
+
+a) Comercialização e utilização de aditivos nos alimentos para animais;
+
+b) Comercialização de alimentos simples para animais;
+
+c) Comercialização de alimentos compostos para animais;
+
+d) Fixação de teores máximos de substâncias e produtos indesejáveis nos alimentos para animais;
+
+e) Fixação de teores máximos para os resíduos de pesticidas à superfície e no interior dos produtos destinados à alimentação humana ou animal;
+
+f) Microrganismos patogénicos nos alimentos para animais.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente Regulamento, entende-se por:
+
+a) Alimentos para animais - os produtos de origem vegetal ou animal no estado natural, frescos ou conservados, e os derivados da sua transformação industrial, bem como as substâncias orgânicas ou inorgânicas, simples ou em misturas, contendo ou não aditivos destinados à alimentação animal por via oral;
+
+b) Alimentos simples para animais - os diferentes produtos de origem vegetal ou animal, no estado natural, frescos ou conservados, e os derivados da sua transformação industrial, bem como as substâncias orgânicas ou inorgânicas, contendo ou não aditivos que se destinem tal-qual à alimentação animal por via oral;
+
+c) Matérias-primas (ingredientes) - os produtos de origem vegetal ou animal no seu estado natural, frescos ou conservados, e os derivados da sua transformação industrial, bem como as substâncias orgânicas ou inorgânicas, contendo ou não aditivos, destinados a ser postos em circulação como alimentos simples ou para a preparação de alimentos compostos, ou ainda como suporte de pré-misturas;
+
+d) Alimentos compostos para animais - as misturas de produtos de origem vegetal ou animal no estado natural, frescos ou conservados, ou os derivados da sua transformação industrial, ou de substâncias orgânicas ou inorgânicas, contendo ou não aditivos, destinadas à alimentação animal por via oral, sob a forma de alimentos completos ou complementares;
+
+e) Alimentos completos para animais - as misturas de alimentos que, pela sua composição, são suficientes para assegurar a ração diária;
+
+f) Alimentos complementares para animais - as misturas de alimentos contendo teores elevados de certas substâncias e que, pela sua composição, não asseguram a ração diária senão quando associadas a outros alimentos para animais;
+
+g) Ração diária - a quantidade total de alimentos, referida a um teor de humidade de 12%, necessária em média por dia a um animal de uma espécie, idade, função e rendimento zootécnico bem definidos, para satisfazer o conjunto das suas necessidades;
+
+h) Animais - os animais pertencentes a espécies normalmente alimentadas e detidas ou consumidas pelo homem;
+
+i) Animais de companhia - os animais pertencentes a espécies normalmente alimentadas e detidas mas não consumidas pelo homem, à excepção dos animais produtores de peles.
+
+###### Artigo 3.º — Disposições gerais
+
+1 - Os produtos incluídos nos grupos enumerados no anexo à Portaria n.º 1105/89, de 27 de Dezembro, só podem ser comercializados como alimentos para animais ou incorporados nestes desde que satisfaçam as exigências aí fixadas.
+
+2 - O director-geral da Pecuária pode, com fins exclusivamente de investigação, análise ou ensaio e sob controlo oficial, conceder autorização a produtos não abrangidos pelo n.º 1, em condições específicas a exigir caso a caso.
+
+###### Artigo 4.º — Disposição especial
+
+Não são autorizados para utilização em alimentação animal os produtos proteicos obtidos a partir de leveduras do tipo Candida cultivadas sobre n-alcanos.
+
+###### Artigo 5.º — Autorização de novos produtos
+
+1 - Um produto só pode ser incluído no anexo da Portaria n.º 1105/89 desde que respeite, cumulativamente, os seguintes requisitos:
+
+a) Possua valor nutritivo para os animais, em consequência do seu contributo azotado ou proteico;
+
+b) Quando usado racionalmente não tenha influência desfavorável na saúde pública, na saúde animal ou no meio ambiente e não cause prejuízo ao consumidor, alterando as características dos produtos de origem animal;
+
+c) Seja controlável nos alimentos.
+
+2 - O produto que deixar de preencher algum dos requisitos referidos no número anterior será eliminado do referido anexo.
+
+3 - Em virtude da evolução dos conhecimentos científicos e técnicos, podem ser introduzidas alterações ao anexo da Portaria n.º 1105/89.
+
+###### Artigo 6.º — Apresentação e tramitação dos processos
+
+1 - Com vista à aprovação de novos produtos as entidades interessadas devem apresentar à Direcção-Geral da Pecuária um processo devidamente elaborado.
+
+2 - Sempre que o produto em causa se inclua nos grupos 1.1 ou 1.2 do anexo à Portaria n.º 1105/89, o processo deve ser elaborado segundo directrizes específicas, a definir por portaria do Ministro da Agricultura, Pescas e Alimentação, sob proposta do director-geral da Pecuária.
+
+3 - Compete à Direcção-Geral da Pecuária apreciar os processos referidos no número anterior e efectuar ou solicitar os estudos necessários à comprovação dos dados constantes dos mesmos.
+
+4 - Compete à Direcção-Geral da Pecuária decidir sobre o interesse do produto em alimentação animal, verificando, para o efeito, se os produtos apresentados satisfazem as condições referidas no n.º 1 do artigo anterior, e solicitar a sua aprovação comunitária, enviando, para o efeito, os processos à Comissão das Comunidades Europeias, bem como a todos os Estados membros.
+
+###### Artigo 7.º — Confidencialidade
+
+1 - Mediante pedido justificado das entidades referidas no n.º 1 do artigo anterior, são consideradas confidenciais as informações cuja difusão pode atentar contra os direitos da propriedade industrial ou comercial.
+
+2 - Não podem ser incluídos no segredo industrial ou comercial os seguintes aspectos:
+
+a) As denominações e a composição do produto e, eventualmente, a indicação do substrato e do microrganismo;
+
+b) As propriedades físico-químicas e biológicas do produto;
+
+c) A interpretação dos dados farmacológicos, toxicológicos e ecotoxicológicos;
+
+d) Os métodos de análise para o controlo do produto nos alimentos.
+
+###### Artigo 8.º — Suspensão de comercialização
+
+O director-geral da Pecuária pode, por despacho, suspender ou restringir, provisoriamente, a comercialização ou a utilização de um produto enumerado no anexo à Portaria n.º 1105/89, sempre que, em virtude de novos dados ou de uma nova avaliação dos dados existentes, surgidos depois da adopção das disposições em causa, constate que a sua utilização nas condições fixadas representa perigo para a saúde pública ou animal, devendo, nesse caso, os serviços competentes do Ministério da Agricultura, Pescas e Alimentação informar os restantes Estados membros e a Comissão das Comunidades Europeias, justificando a sua decisão.
+
+###### Artigo 9.º — Condições gerais de rotulagem
+
+1 - Sem prejuízo das disposições de rotulagem aplicáveis aos alimentos simples e compostos, os produtos enumerados no anexo à Portaria n.º 1105/89, só podem ser comercializados na qualidade de alimentos para animais ou incorporados nestes se as condições eventualmente aí previstas constarem, em língua portuguesa, na embalagem, recipiente ou rótulo do produto.
+
+2 - No caso dos produtos comercializados a granel, as condições referidas no número anterior devem constar na guia de remessa.
+
+###### Artigo 10.º — Fiscalização - Controlo oficial
+
+1 - A Direcção-Geral de Inspecção Económica, o Instituto de Qualidade Alimentar e a Direcção-Geral da Pecuária, nos termos da legislação em vigor e dentro da área das respectivas competências, devem adoptar as disposições necessárias para que, no decurso da comercialização, seja efectuado, pelo menos por amostragem, o controlo oficial dos produtos objecto do presente regulamento e dos alimentos para animais contendo estes produtos, bem como a fiscalização das disposições previstas no presente Regulamento.
+
+2 - A colheita de amostras para verificar se os produtos ou alimentos em causa estão conforme a composição declarada pode ser feita em qualquer fase do respectivo circuito comercial.
+
+3 - Para cumprimento do disposto no número anterior, são utilizados os métodos oficiais aprovados por portaria do Ministro da Agricultura, Pescas e Alimentação relativos a:
+
+a) Colheita de amostras para análise;
+
+b) Preparação de amostras.
+
+4 - Para análise dos produtos objecto do presente Regulamento, bem como dos alimentos para animais contendo estes produtos, são utilizados os métodos oficiais de análise, a aprovar por portaria do Ministro da Agricultura, Pescas e Alimentação.
+
+5 - Na ausência dos métodos referidos no número anterior, deve o Instituto de Qualidade Alimentar, sob proposta da comissão técnica de normalização respectiva, estabelecer quais os métodos de análise a utilizar.
+
+6 - O disposto no número anterior tem sempre carácter transitório, até à publicação do método oficial.
+
+###### Artigo 11.º — Regime sancionatório aplicável
+
+1 - As infracções ao disposto nos artigos 3.º, 4.º e 9.º constituem contra-ordenações, punidas nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, sem prejuízo de outras sanções mais graves previstas na lei, designadamente no Decreto-Lei n.º 28/84, de 20 de Janeiro.
+
+2 - Sem prejuízo das competências atribuídas às autoridades policiais e administrativas, cabe à Direcção-Geral de Inspecção Económica a investigação e instrução dos processos por contra-ordenação previstos no presente diploma.
+
+3 - Concluída a instrução dos processos referidos no número anterior, a Direcção-Geral de Inspecção Económica deve remetê-los para as entidades indicadas no artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.
+
+4 - Todas as decisões que aplicarem coimas e sanções acessórias por infracção às disposições deste diploma devem ser comunicadas ao director-geral da Pecuária no prazo máximo de 30 dias.
+
+###### Artigo 12.º — Entidades competentes para aplicação das coimas e sanções acessórias
+
+1 - A competência para aplicação das coimas e sanções acessórias a que houver lugar por motivo das contra-ordenações referidas neste diploma cabe às entidades referidas no artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, observando-se, com as adaptações necessárias, os princípios estabelecidos nos seus n.os 1, 2 e 3.
+
+2 - O produto das coimas constitui receita dos seguintes organismos ou entidades:
+
+a) 25% para a Direcção-Geral de Inspecção Económica;
+
+b) 25% para o Instituto de Qualidade Alimentar;
+
+c) 20% para a entidade que levantou o auto;
+
+d) 30% para os cofres do Estado.
+
+###### Artigo 13.º — Tentativa e negligência
+
+Nas contra-ordenações referidas no n.º 1 do artigo 11.º a tentativa e a negligência são sempre puníveis.
+
+###### Artigo 14.º — Fiscalização, controlo e penalidades nas região autónomas
+
+Nas regiões autónomas as competências cometidas à Direcção-Geral de Inspecção Económica, à Direcção-Geral da Pecuária e ao Instituto de Qualidade Alimentar pelos artigos 10.º, 11.º e 12.º são exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas funções e competências, constituindo receita das regiões autónomas o produto das coimas aí cobradas.
+
+###### Artigo 15.º — Exportação para países terceiros
+
+As disposições legais previstas no presente Regulamento não se aplicam aos produtos constantes do anexo à Portaria n.º 1105/89, bem como aos alimentos para animais que contenham esses produtos destinados à exportação para países terceiros, caso em que deverá ser apresentada prova documental.
+
+###### Artigo 16.º — Competências da Administração Pública decorrentes da integração europeia
+
+1 - Compete ao Ministro da Agricultura, Pescas e Alimentação, através da Direcção-Geral da Pecuária, assegurar a coordenação e a representação da delegação portuguesa no Comité de Peritos «Aditivos, Bioproteínas e Substâncias Indesejáveis nos Alimentos para Animais» e seus comités ad hoc e no Comité Permamente de Alimentos para Animais, no âmbito da Comissão da Comunidade Económica Europeia.
+
+2 - Compete ao Ministro da Agricultura, Pescas e Alimentação, através da Direcção-Geral da Pecuária, assegurar a apreciação dos processos apresentados para aprovação comunitária no âmbito deste Regulamento e efectuar ou solicitar os estudos necessários à comprovação dos dados constantes dos mesmos.
+
+3 - Compete ao Ministro da Agricultura, Pescas e Alimentação, através da Direcção-Geral da Pecuária, assegurar em tempo útil a harmonização das disposições legislativas nacionais com as correspondentes disposições comunitárias, no âmbito deste Regulamento.
+
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

@@ -1,0 +1,607 @@
+---
+schema_version: '1.0'
+id: pt:dre:549405:por
+title: Decreto-Lei n.º 374/89
+short_title: null
+summary: Aprova o regime do serviço público de importação de gás natural liquefeito e gás natural, da recepção, armazenagem
+  e tratamento do gás natural liquefeito, da produção de gás natural e dos seus gases de substituição e do seu transporte
+  e distribuição
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 374/89
+official_date: null
+publication_date: '1989-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 246/1989, Série I de 1989-10-25
+  number: '246'
+  series: I
+  supplement: null
+  pages: 4719 - 4722
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/10/24600/47194722.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2000-02-13'
+version_history:
+  file: decreto-lei-374-89.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1989-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-07-21'
+    amending: pt:dre:575770:por
+    amending_title: Decreto-Lei n.º 232/90
+    changes:
+    - Altera Artigo 10.º
+  - date: '1993-08-05'
+    amending: pt:dre:217371:por
+    amending_title: Decreto-Lei n.º 274-A/93
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 18.º
+  - date: '2000-02-13'
+    amending: pt:dre:402091:por
+    amending_title: Decreto-Lei n.º 8/2000
+    changes:
+    - Adita Artigo 10.º-A
+    - Adita Artigo 11.º-A
+    - Adita Artigo 11.º-B
+    - Adita Artigo 11.º-C
+    - Adita Artigo 11.º-D
+    - Adita Artigo 11.º-E
+    - Adita Artigo 11.º-F
+    - Adita Artigo 11.º-G
+    - Adita Artigo 11.º-H
+    - Adita Artigo 11.º-I
+    - Adita Artigo 11.º-J
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Capítulo IV
+    - Altera Artigo 18.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/374/1989/p/cons/20060215/pt/html
+  oj: null
+  dre: '549405'
+  dre_path: /dr/detalhe/decreto-lei/374-1989-549405
+  internal: pt:dre:549405:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1989-549405
+  metadata_url: https://data.dre.pt/eli/dec-lei/374/1989/p/cons/20060215/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-839789362
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-839789362
+  retrieved_at: '2026-10-22T13:02:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7765f82e1009b218806b1cf1819b50e6512c211ad7b892a13b9c54984f7ca467
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:02:40Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-374-89.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Importação
+- Serviço Público
+relationships:
+- type: amended_by
+  target: pt:dre:575770:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1990-575770
+  date: '1990-07-16'
+- type: amended_by
+  target: pt:dre:217371:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1993-217371
+  date: '1993-08-04'
+- type: amended_by
+  target: pt:dre:402091:por
+  label: Adita Artigo 10.º-A; Adita Artigo 11.º-A; Adita Artigo 11.º-B; Adita Artigo 11.º-C; Adita Artigo 11.º-D; Adita Artigo
+    11.º-E; Adita Artigo 11.º-F; Adita Artigo 11.º-G; Adita Artigo 11.º-H; Adita Artigo 11.º-I; Adita Artigo 11.º-J; Altera
+    Artigo 1.º; Altera Artigo 2.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Capítulo IV; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091
+  date: '2000-02-08'
+article_structure:
+  article_count: 29
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:02:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 374/89
+
+Decreto-Lei n.º 374/89
+
+de 25 de Outubro
+
+A construção de uma rede de transporte e distribuição de gás canalizado constitui um valioso meio de diversificação energética e um factor importante de desenvolvimento e progresso das regiões que serve.
+
+É incontroverso que a introdução do gás natural se reveste da maior importância, dadas as qualidades endógenas desta forma de energia e as suas inegáveis potencialidades para o desenvolvimento da indústria nacional.
+
+Caracterizando-se por ser uma forma de energia não poluente, o seu uso tornará não só mais fácil a preservação do meio ambiente, como ajudará a recuperar as zonas ambientais já poluídas.
+
+Evidenciando a situação energética portuguesa uma forte dependência do exterior, com particular incidência no que respeita ao petróleo, o que coloca a economia nacional em manifesta vulnerabilidade relativamente às variações de mercado daquele produto, a introdução do gás natural possibilitará a diversificação do sistema energético português e, consequentemente, diminui a nossa dependência em relação ao petróleo.
+
+As qualidades confirmadas do gás natural levaram o Governo a aprofundar os estudos de viabilidade técnico-económica da sua introdução em Portugal, certo de que a sua utilização virá a desempenhar um papel importante no panorama energético nacional.
+
+Está, no entanto, bem consciente de que a introdução do gás natural no nosso país exige um enorme esforço, que determina a criação de infra-estruturas que envolvem recursos financeiros muito elevados. Contudo, considera o Governo que se trata de um esforço que importa e urge fazer no sentido da inversão do actual panorama energético, na convicção de que será mais um passo importante para a modernização da economia e, por conseguinte, do desenvolvimento do País.
+
+O reconhecimento pelo Governo da importância que reveste a introdução do gás natural leva-o a considerar o exercício da actividade ligada à sua utilização como serviço público que deverá ser desenvolvido com eficácia e dinamismo.
+
+Considera o Governo que o regime mais dinâmico e profícuo para o exercício deste serviço público será o da atribuição de concessões a empresas legalmente constituídas, as quais suportarão os custos inerentes à construção das instalações, gasodutos e redes de distribuição do gás.
+
+A inovação desta forma energética imporá, por último, a regulamentação do exercício das actividades ligadas ao gás, bem como a actualização das normas de segurança relativas ao armazenamento, tratamento, transporte e distribuição de gás.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 73.º, Decreto-Lei n.º 30/2006 - Diário da República n.º 33/2006, Série I-A de 2006-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2006-683858) O Decreto-Lei n.º 30/2006, de 15 de fevereiro revogou o presente Decreto-lei, mantendo, contudo, a sua vigência nas matérias que não forem incompatíveis com aquele decreto-lei até à entrada em vigor da legislação complementar.
+
+### Capítulo I — Âmbito de aplicação, definição e forma de exercício
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente diploma define o regime do exercício das actividades de transporte e importação de gás natural, no estado gasoso ou liquefeito, e de distribuição de gás natural e dos seus gases de substituição.
+
+2 - O exercício das actividades de importação e transporte e de gás natural compreende:
+
+a) O seu aprovisionamento e colocação no território nacional;
+
+b) A sua recepção, armazenagem, tratamento e regaseificação;
+
+c) O seu transporte através da rede de alta pressão ou de outra modalidade de transporte, nomeadamente marítima ou terrestre;
+
+d) O fornecimento de gás natural, no estado gasoso ou liquefeito, às entidades distribuidoras, concessionárias ou licenciadas, bem como a consumidores directos.
+
+3 - O exercício da actividade de distribuição de gás natural compreende:
+
+a) A sua recepção, armazenagem, tratamento e regaseificação;
+
+b) O fornecimento de gás natural em baixa pressão, através:
+
+i) Das redes regionais de distribuição ligadas às redes de alta pressão;
+
+ii) De redes locais autónomas abastecidas a partir de instalações autónomas de GNL;
+
+iii) De postos de enchimento.
+
+4 - As redes de gás natural são constituídas por todas as infra-estruturas e equipamentos necessários ao exercício das actividades referidas nos números anteriores, podendo incluir, no caso de redes locais autónomas, as instalações autónomas de regaseificação.
+
+5 - Para efeitos do presente diploma, entende-se por:
+
+a) Alta pressão - a pressão de serviço superior a 20 bar;
+
+b) Média pressão - a pressão de serviço igual ou inferior a 20 bar e superior a 4 bar;
+
+c) Baixa pressão - a pressão de serviço igual ou inferior a 4 bar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274-A/93 - Diário da República n.º 181/1993, 2º Suplemento, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1993-217371), em vigor a partir de 1993-08-05
+
+###### Artigo 2.º — Definição e formas de exercício
+
+1 - As actividades a que se refere o artigo anterior são exercidas, mediante concessão ou licença, por empresas legalmente constituídas e para o efeito vocacionadas.
+
+2 - As actividades objecto de concessão são exercidas em regime de serviço público e em exclusivo.
+
+3 - As actividades que não sejam objecto de concessão ou do seu alargamento, nos termos deste diploma e do Decreto-Lei n.º 203/97, de 8 de Agosto, são exercidas mediante licença.
+
+4 - As actividades objecto de licença podem ser exercidas em regime de serviço público ou privativo, podendo às licenças em regime de serviço público ser atribuído o exclusivo da distribuição e fornecimento de gás natural na zona licenciada.
+
+5 - As empresas concessionárias ou licenciadas podem, temporária e supletivamente, distribuir e fornecer quaisquer gases combustíveis canalizados, designadamente gases de substituição do gás natural, em conformidade com o que for determinado nos respectivos contratos de concessão ou nas respectivas licenças.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274-A/93 - Diário da República n.º 181/1993, 2º Suplemento, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1993-217371), em vigor a partir de 1993-08-05
+
+### Capítulo II — Regime da concessão
+
+###### Artigo 3.º — Aprovação das concessões
+
+É da competência do Conselho de Ministros a aprovação das concessões a atribuir nos termos do artigo seguinte, estabelecendo a natureza e âmbito das mesmas.
+
+###### Artigo 4.º — Atribuição das concessões
+
+É da competência do Conselho de Ministros a atribuição das concessões aprovadas para a exploração dos serviços de:
+
+a) Importação de gás natural e seu transporte e fornecimento através da rede de alta pressão;
+
+b) Distribuição e fornecimento de gás natural através das redes regionais de baixa pressão.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274-A/93 - Diário da República n.º 181/1993, 2º Suplemento, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1993-217371), em vigor a partir de 1993-08-05
+
+###### Artigo 5.º — Construção, manutenção e reparação das instalações, gasodutos e redes de distribuição
+
+1 - A construção, manutenção e reparação das instalações, gasodutos e redes de distribuição do gás que integrem os projectos das concessionárias serão efectuadas por estas, que suportarão os respectivos custos.
+
+2 - As concessionárias celebrarão obrigatoriamente um seguro de responsabilidade civil, em ordem a assegurar a cobertura de eventuais danos materiais e corporais sofridos por terceiros e resultantes do exercício das respectivas actividades.
+
+3 - A garantia do seguro mencionado no número anterior terá um valor mínimo obrigatório, estabelecido até 31 de Janeiro de cada ano civil através de portaria do Ministro da Indústria e Energia.
+
+###### Artigo 6.º — Concurso público e ajuste directo
+
+1 - A adjudicação das concessões a que se refere o presente diploma é precedida de ajuste directo ou de concurso público.
+
+2 - A adjudicação da concessão da exploração do serviço público a que se refere a alínea a) do artigo 4.º é feita mediante ajuste directo.
+
+3 - A adjudicação das concessões da exploração do serviço público a que se refere a alínea b) do artigo 4.º é feita mediante concurso público.
+
+4 - O ajuste directo e o concurso público a que se referem os números anteriores são realizados por determinação do Ministro da Indústria e Energia.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274-A/93 - Diário da República n.º 181/1993, 2º Suplemento, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1993-217371), em vigor a partir de 1993-08-05
+
+###### Artigo 7.º — Duração da concessão
+
+1 - A duração da concessão será estabelecida de acordo com a sua natureza, não podendo exceder 40 anos, contados a partir da publicação do acto que a outorgar.
+
+2 - Se uma mesma entidade possuir simultaneamente duas ou mais concessões, de alguma forma interdependentes, os respectivos prazos de duração poderão ser harmonizados, de modo a que o conjunto das obras possa reverter para o Estado na mesma época.
+
+3 - A concessão poderá ser renovada se o interesse público assim o justificar e a concessionária estiver a cumprir as obrigações emergentes do contrato de concessão.
+
+###### Artigo 8.º — Reversão dos bens no termo da concessão
+
+1 - No termo da concessão os bens integrantes da mesma revertem a favor do Estado.
+
+2 - À concessionária será, então, devido o pagamento de indemnização.
+
+###### Artigo 9.º — Cedência, oneração da concessão e venda de bens dela integrantes
+
+1 - É interdito à concessionária fazer a cessão da concessão, aliená-la ou de qualquer modo onerá-la, no todo ou em qualquer das suas partes, sem prévia autorização do Governo.
+
+2 - Os actos de cessão da concessão, alienação e oneração praticados pela concessionária sem autorização do Governo são considerados inexistentes.
+
+### Capítulo III — Servidões e indemnizações
+
+###### Artigo 10.º — Definição de servidões
+
+1 - Entende-se que as servidões devidas à passagem do gás combustível compreendem a ocupação do solo e subsolo, devendo os gasodutos subterrâneos ser instalados à profundidade determinada pelos regulamentos e respectivas normas técnicas de segurança.
+
+2 - As referidas servidões compreendem, também, o direito de passagem e ocupação temporária de terrenos ou outros bens, devido às necessidades de construção, vigilância, conservação e reparação de todo o equipamento necessário ao transporte do gás.
+
+3 - Na aplicação das disposições do presente artigo, a implantação do gasoduto deve ter em conta os planos de ocupação do solo já aprovados aquando do estabelecimento do traçado daquele.
+
+4 - A servidão de passagem de gás relativamente a gasodutos e redes de distribuição implica as seguintes restrições para a área sobre que é aplicada:
+
+a) No caso de gasodutos do 1.º escalão ou de alta pressão:
+
+I) O terreno não será arado, nem cavado, a uma profundidade superior a 50 cm, numa faixa de 2 m para cada lado do eixo longitudinal da tubagem;
+
+II) É proibida a plantação de árvores ou arbustos numa faixa de 5 m para cada lado do eixo longitudinal da tubagem;
+
+III) É proibida a construção de qualquer tipo, mesmo provisória, numa faixa de 10 m para cada lado do eixo longitudinal da tubagem;
+
+IV) É permitido o livre acesso do pessoal e equipamento necessário à instalação, vigilância, manutenção, reparação e renovação do equipamento instalado e respectiva vigilância;
+
+V) O eixo da tubagem dos gasodutos deve ser assinalado no terreno pelas formas estabelecidas no regulamento de segurança;
+
+b) No caso de gasodutos do 2.º escalão ou de média pressão:
+
+I) As faixas em que incidam as restrições estabelecidas nos n.os I) e II) da alínea anterior são reduzidas a metade;
+
+II) As distâncias em que é proibida a construção nos termos do n.º III) da alínea anterior são reduzidas em conformidade com o regulamento de segurança aplicável;
+
+III) O eixo da tubagem dos gasodutos deve ser assinalado no terreno pelas formas estabelecidas no regulamento de segurança;
+
+c) No caso de redes de distribuição de baixa pressão, as restrições estabelecidas nos n.os I), II) e III) da alínea a) são reduzidas a 1 m para cada lado do eixo longitudinal da tubagem.
+
+5 - A ocupação temporária de terrenos para depósitos de materiais e equipamento necessários à colocação dos gasodutos, sua reparação ou renovação não poderá exceder 36 m de largura numa faixa sobre as tubagens.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 232/90 - Diário da República n.º 162/1990, Série I de 1990-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1990-575770), em vigor a partir de 1990-07-21
+
+###### Artigo 10.º-A — Direitos e deveres aplicáveis à armazenagem subterrânea
+
+1 - Para além dos direitos de expropriação previstos no artigo anterior e na legislação específica aplicável, são reconhecidos à concessionária do serviço público de importação, transporte e fornecimento de gás natural, adiante designada por concessionária, com vista à construção e operações das instalações de armazenagem subterrânea de gás natural, os seguintes direitos:
+
+a) Usar, observando os condicionalismos legais, as águas e outros bens do domínio público;
+
+b) Obter a constituição a seu favor das servidões administrativas, sobre o solo ou o subsolo, necessárias à implantação das condutas de água ou de escoamento da salmoura, no caso de armazenagem subterrânea em formações salíferas;
+
+c) Ocupar temporariamente quaisquer terrenos que sejam necessários para a execução dos trabalhos de construção, mediante prévia notificação dos respectivos proprietários.
+
+2 - As servidões a que se refere a alínea b) do número anterior têm conteúdo idêntico às servidões legais de aqueduto e de escoamento previstas nos artigos 1561.º e 1563.º do Código Civil.
+
+3 - A indemnização devida aos proprietários dos imóveis ou titulares de direitos onerados pelas servidões a que se refere a alínea b) do n.º 1 pode, mediante acordo, assumir a forma de renda anual correspondente à efectiva redução do respectivo rendimento, sem prejuízo de a indemnização por quaisquer outros prejuízos derivados da ocupação dos prédios para efeitos dos trabalhos a realizar com a construção, manutenção e eventual remoção das condutas dever ser paga de uma só vez.
+
+4 - A indemnização devida pela ocupação temporária prevista na alínea c) do n.º 1 é fixada nos termos da legislação aplicável às servidões do gás natural, podendo revestir, mediante acordo, a forma de renda mensal, correspondente à efectiva redução do respectivo rendimento.
+
+5 - As rendas de indemnização a que se referem os n.os 3 e 4 são devidas enquanto a servidão ou a ocupação perdurar e a concessionária não desocupar os terrenos e não os repuser, na medida do possível, no estado em que se encontravam anteriormente à constituição da servidão ou ocupação.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º — Indemnização e sinalização das servidões
+
+1 - O pagamento das indemnizações resultantes da constituição de servidões ou da expropriação de direitos fica, por inteiro, a cargo da entidade concessionária ou licenciada.
+
+2 - As servidões a que se refere o número anterior são oponíveis a terceiros como servidões aparentes, desde que a sua existência esteja devidamente sinalizada nos termos estabelecidos nos regulamentos de segurança.
+
+3 - Os sinalizadores a que se refere o número anterior são considerados para todos os efeitos legais como marcos delimitadores das servidões.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+### Capítulo IV — Regime das licenças
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-A — Atribuição de licenças
+
+1 - Compete ao Ministro da Economia atribuir licenças para a distribuição e fornecimento de gás natural em regime de serviço público em zonas de território nacional não abrangidas pelas concessões de distribuição regional.
+
+2 - As condições para a atribuição das licenças, nomeadamente os requisitos técnicos e financeiros que devem ser respeitados pelas entidades licenciadas, são regulamentadas por portaria do Ministro da Economia.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-B — Classificação das licenças
+
+As licenças para distribuição e fornecimento de gás natural classificam-se em:
+
+a) Licenças para exploração de redes locais autónomas;
+
+b) Licenças para exploração de postos de enchimento;
+
+c) Licenças para exploração de distribuição privativa.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-C — Natureza das licenças para exploração de redes locais autónomas
+
+1 - As licenças para exploração de redes locais autónomas compreendem a distribuição e o fornecimento de gás natural, ou dos seus gases de substituição, a pólos de consumo.
+
+2 - Para efeitos do presente diploma, consideram-se pólos de consumo as zonas do território nacional não abrangidas pelas concessões de distribuição regional, reconhecidas como tal pelo Ministro da Economia.
+
+3 - As instalações a que se refere o n.º 1 são abastecidas através da entidade concessionária do serviço público de importação e transporte de gás natural, recorrendo a meio de transporte terrestre adequado para o efeito, directamente ou através de contratação de serviços de terceiros.
+
+4 - A licença definirá o âmbito geográfico do pólo de consumo, bem como a calendarização da construção e expansão das instalações e sua exploração.
+
+5 - As actividades que integram as licenças definidas por este artigo são exercidas em regime de serviço público, gozando de direitos e obrigações em tudo idênticos aos que a lei confere às exercidas sob concessão.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-D — Condições para a atribuição de licenças de redes locais autónomas
+
+1 - As licenças para exploração de redes locais autónomas devem ser atribuídas a sociedades que comprovem experiência e capacidade técnico-financeira e de gestão e ainda, tendo em conta a área a desenvolver, demonstrem real adaptação e interesse na prossecução do serviço público a licenciar.
+
+2 - Podem candidatar-se às licenças para exploração de redes locais autónomas as seguintes sociedades:
+
+a) Sociedades participadas pela concessionária de importação e transporte de gás natural;
+
+b) Sociedades participadas por uma sociedade concessionária de gás natural ou por uma sociedade gestora de participações sociais que seja detentora de, pelo menos, 50% do capital social destas sociedades concessionárias;
+
+c) Outras sociedades que demonstrem possuir capacidade técnica, financeira e de gestão adequada à natureza do serviço.
+
+3 - Presume-se que as sociedades referidas nas alíneas a) e b) do número anterior têm experiência e capacidade técnica, financeira e de gestão para o exercício da actividade objecto da licença sempre que a participação social das concessionárias ou das sociedades gestoras seja maioritária.
+
+4 - Sempre que o interesse público assim o exigir, o Ministro da Economia pode determinar que as empresas concessionárias de importação e transporte de gás natural assegurem, em condições a estabelecer caso a caso, a exploração de redes locais autónomas.
+
+5 - A exploração a que se refere o número anterior tem carácter transitório e pode ser feita pela concessionária directamente ou, se tal for requerido fundamentadamente, sob a sua responsabilidade.
+
+6 - A exploração pela entidade diferente da concessionária, embora sob a sua responsabilidade, necessita de autorização prévia do Ministro da Economia.
+
+7 - A portaria a que se refere o n.º 2 do artigo 11.º-A estabelecerá, nos casos previstos n.º 4 do presente artigo, as condições de transição para a empresa a quem venha a ser atribuída licença prevista no presente diploma.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-E — Duração das licenças de exploração de redes locais autónomas
+
+A duração da licença é estabelecida por um prazo máximo de 20 anos, tendo em conta, designadamente, o plano de expansão do sistema de gás natural e a amortização dos custos de construção, instalação e desenvolvimento da respectiva rede.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-F — Transmissão da licença
+
+1 - As licenças de redes locais autónomas podem ser transmitidas mediante autorização do Ministro da Economia, em condições a definir na portaria a que se refere o n.º 2 do artigo 11.º-A.
+
+2 - A transmissão das licenças fica sujeita à verificação e manutenção dos pressupostos que determinaram a sua atribuição.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-G — Extinção das licenças
+
+1 - A licença extingue-se por caducidade ou por revogação.
+
+2 - A caducidade da licença ocorre:
+
+a) Pelo decurso do prazo por que foi atribuída;
+
+b) Pela integração do pólo de consumo objecto de licença no sistema nacional de gás natural.
+
+3 - A revogação da licença dá-se sempre que o seu titular falte, culposamente, ao cumprimento das condições estabelecidas, nomeadamente no que se refere à regularidade, à qualidade e à segurança da prestação do serviço.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-H — Reversão dos bens
+
+1 - Com a extinção da licença para a exploração de uma rede local autónoma, os bens integrantes da respectiva rede e instalação, incluindo as instalações de GNL, podem reverter a favor do Estado ou da concessionária de distribuição regional em cuja área vier a integrar-se a rede licenciada.
+
+2 - A reversão de bens prevista no número anterior confere à entidade licenciada o direito ao recebimento de uma justa indemnização, salvo no caso de revogação da licença.
+
+3 - A indemnização a que se refere o número anterior deverá cobrir outros danos directamente resultantes da caducidade operada por força do previsto na alínea b) do n.º 2 do artigo anterior.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-I — Licenças para a exploração de postos de enchimento
+
+1 - As licenças para exploração de postos de enchimento podem ser requeridas por quaisquer entidades que demonstrem possuir a necessária capacidade técnica e financeira.
+
+2 - As licenças previstas no número anterior são exercidas em regime de serviço público ou de regime privativo, consoante visem o abastecimento do público em geral ou de veículos da empresa detentora da licença.
+
+3 - Os candidatos a uma licença em regime de serviço público devem apresentar o título que lhes confere a propriedade ou lhes legitima a utilização do terreno em que pretendem exercer a actividade, bem como a autorização da autarquia competente e, sendo caso disso, a autorização de outras autoridades administrativas com jurisdição nas áreas de acesso aos terrenos de implantação dos postos de enchimento.
+
+4 - A atribuição das licenças é da competência do director regional de economia territorialmente competente e fica condicionada ao estrito cumprimento do respectivo regulamento técnico.
+
+5 - O prazo inicial de duração das licenças previstas neste artigo é de 10 anos, podendo ser prorrogado por sucessivos períodos de 5 anos.
+
+6 - É aplicável às licenças de postos de enchimento, com as devidas adaptações, o disposto nos artigos 11.º-F e 11.º-G e nos n.os 4 e 5 do artigo seguinte.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 11.º-J — Licenças para exploração de distribuição privativa
+
+1 - As licenças para exploração de distribuição privativa podem ser requeridas por quaisquer entidades que justifiquem o respectivo interesse, para abastecimento próprio ou para cedência ou fornecimento a terceiros, devidamente identificados, desde que se verifiquem as seguintes condições:
+
+a) Ser exercida fora das áreas concessionadas ou dos pólos de consumo abrangidos pela atribuição de licenças de serviço público;
+
+b) Que a entidade requerente se submeta ao cumprimento das condições impostas para a atribuição da licença, bem como aos regulamentos estabelecidos para o exercício da actividade.
+
+2 - A atribuição das licenças de distribuição privativa é da competência do director regional de economia territorialmente competente.
+
+3 - À transmissão e à extinção das licenças privativas aplica-se, com as devidas adaptações, o estabelecido nos artigos 11.º-F e 11.º-G.
+
+4 - Sem prejuízo do disposto no número seguinte, os bens integrantes das instalações licenciadas ao abrigo do presente artigo não revertem para o Estado com a extinção da licença, qualquer que seja a sua causa.
+
+5 - O titular da licença fica obrigado, a expensas suas, a proceder, no prazo máximo de seis meses a contar da data da extinção da licença, ao levantamento das instalações implantadas no domínio público, repondo, se for caso disso, a situação anterior.
+
+6 - A obrigação a que se refere o número anterior não se verifica se houver lugar à transmissão das instalações para uma concessionária ou para uma entidade titular de uma licença para exploração de uma rede local autónoma.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+###### Artigo 12.º — Apresentação dos projectos
+
+1 - A construção de instalações, gasodutos e redes de distribuição deverá obedecer a projectos elaborados nos termos dos regulamentos aplicáveis.
+
+2 - Os projectos a que se refere o número anterior serão submetidos, pela concessionária, a aprovação do Ministro da Indústria e Energia.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091) De acordo com o disposto no Decreto-Lei n.º 8/2000, de 8 de fevereiro, fica revogado este artigo com a entrada em vigor do diploma que procede à revisão do Decreto-Lei n.º 232/90, de 16 de Julho.
+
+###### Artigo 13.º — Aprovação do projecto do traçado dos gasodutos e concessão de licenças
+
+1 - Antes de conceder a sua aprovação ao projecto de traçado dos gasodutos, o Ministro da Indústria e Energia pedirá o parecer dos Ministérios do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações, bem como dos municípios abrangidos pelas obras a executar, com vista à harmonização das construções que integram o projecto com planos daqueles Ministérios e municípios.
+
+2 - A aprovação do projecto de traçado dos gasodutos implica a declaração de utilidade pública da expropriação dos bens imóveis, e direitos a eles relativos, abrangidos pelo projecto e necessários à sua execução.
+
+3 - A aprovação do projecto de traçado dos gasodutos confere, ainda, à concessionária:
+
+a) O direito de constituir servidões e expropriar, por utilidade pública e urgente, nos termos do Código das Expropriações, bens imóveis, ou direitos a eles relativos, abrangidos pelo respectivo projecto de traçado;
+
+b) A licença necessária para a execução das obras integrantes do projecto, substituindo, desta forma, as licenças que, nos termos das disposições legais vigentes, seriam indispensáveis fora do objecto de aplicação deste diploma.
+
+4 - A publicação das plantas dos imóveis abrangidos por uma declaração de utilidade pública será efectuada pela Direcção-Geral de Energia, sendo os seus custos suportados pela concessionária.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091) De acordo com o disposto no Decreto-Lei n.º 8/2000, de 8 de fevereiro, fica revogado este artigo com a entrada em vigor do diploma que procede à revisão do Decreto-Lei n.º 232/90, de 16 de Julho.
+
+###### Artigo 14.º — Normas de construção e de segurança das instalações, gasodutos e redes de distribuição
+
+1 - As normas de construção e de segurança das instalações, gasodutos e redes de distribuição constarão de regulamento.
+
+2 - No caso de levantamento de terrenos ou de pavimentos, a empresa transportadora ou distribuidora de gás obriga-se a proceder à reposição dos mesmos, bem como à reparação de todos os prejuízos que resultarem das obras executadas, quer nos pavimentos, quer nas propriedades particulares ou públicas, de acordo com os regulamentos aplicáveis.
+
+3 - Verificando-se a situação prevista na primeira parte do número anterior e concorrendo, para o mesmo local, trabalhos ou obras, da responsabilidade de outras entidades, que, pela sua natureza, impliquem uma operação final de reposição de terrenos ou pavimentos, deverá a forma da concretização da mesma ser acordada entre a empresa transportadora ou distribuidora do gás e aquelas entidades, de modo à realização dessa tarefa por uma única operação.
+
+4 - Os casos urgentes de reparações, nomeadamente roturas eventuais, não estão sujeitos à concessão prévia de licenças de obras.
+
+5 - Nos casos previstos no número anterior, a empresa transportadora ou distribuidora de gás deverá, todavia, proceder com urgência às reparações necessárias e comunicá-las à entidade competente, no prazo máximo de três dias úteis, para regularização da respectiva licença da obra.
+
+6 - Ao proceder ao tipo de reparações de emergência referidas no n.º 4, o pessoal técnico da empresa transportadora ou distribuidora de gás poderá ordenar as medidas que entender necessárias em matéria de segurança da zona afectada, nomeadamente no que respeita ao trânsito, à permanência de pessoas, ao corte de energia eléctrica ou outras medidas de emergência eventualmente necessárias.
+
+7 - As medidas referidas no número anterior devem ser prontamente comunicadas às entidades oficiais competentes, as quais prestarão, de imediato, todo o apoio e acompanhamento requeridos, em ordem à manutenção da segurança das pessoas e bens.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091) De acordo com o disposto no Decreto-Lei n.º 8/2000, de 8 de fevereiro, fica revogado este artigo com a entrada em vigor do diploma que procede à revisão do Decreto-Lei n.º 232/90, de 16 de Julho.
+
+### Capítulo V — Direitos e deveres da concessionária
+
+###### Artigo 15.º — Direitos da concessionária
+
+São direitos da concessionária:
+
+a) Explorar a concessão nos termos do respectivo contrato;
+
+b) Constituir servidões e expropriar, por utilidade pública e urgente, bens imóveis, ou direitos a eles relativos, nos termos previstos nos n.os 2 e 3 do artigo 13.º;
+
+c) Utilizar, nos termos que venham a ser fixados, as ruas, praças, estradas, caminhos e cursos de água, bem como terrenos ao longo dos caminhos de ferrro e de quaisquer vias de comunicação, para o estabelecimento ou passagem das diferentes partes da instalação objecto da concessão;
+
+d) Todos os que lhe forem conferidos por lei, relativos às condições de exploração da concessão.
+
+###### Artigo 16.º — Deveres da concessionária
+
+São deveres da concessionária:
+
+a) Cumprir as normas regulamentares em vigor respeitantes à actividade da indústria do gás;
+
+b) Permitir e facilitar a fiscalização pelo Estado, facultando-lhe todas as informações pedidas;
+
+c) Celebrar o seguro a que se referem os n.os 2 e 3 do artigo 5.º;
+
+d) Pagar as indemnizações devidas pela constituição de servidões e expropriação de direitos;
+
+e) Cumprir as obrigações emergentes da outorga da concessão;
+
+f) Não ceder, alienar ou onerar a concessão sem autorização do Governo.
+
+###### Artigo 17.º — Rescisão da concessão
+
+1 - A violação culposa e grave dos deveres da concessionária poderá determinar a rescisão do contrato de concessão.
+
+2 - A declaração da rescisão do contrato de concessão é da competência do Ministro da Indústria e Energia.
+
+3 - Em caso de rescisão, os bens integrantes da concessão revertem a favor do Estado, sem direito a qualquer indemnização.
+
+### Capítulo VI — Disposição final
+
+###### Artigo 18.º — Regulamentação
+
+São objecto de regulamentação autónoma:
+
+a) Os regimes do ajuste directo e do concurso público para atribuição das concessões;
+
+b) As condições para a atribuição de licenças, nomeadamente no que se refere aos requisitos técnicos e financeiros;
+
+c) As condições para o reconhecimento de entidades montadoras e instaladoras das redes de gás;
+
+d) As condições para a atribuição de licenças a profissionais da indústria de gás.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 8/2000 - Diário da República n.º 32/2000, Série I-A de 2000-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091), em vigor a partir de 2000-02-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274-A/93 - Diário da República n.º 181/1993, 2º Suplemento, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1993-217371), em vigor a partir de 1993-08-05
+
+Visto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - José Manuel Nunes Liberato - José Manuel Branquinho de Oliveira Lobo - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral.
+
+Promulgado em 13 de Outubro de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 17 de Outubro de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -1,0 +1,269 @@
+---
+schema_version: '1.0'
+id: pt:dre:624624:por
+title: Decreto-Lei n.º 268/94
+short_title: null
+summary: Estabelece normas regulamentares do regime da propriedade horizontal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 268/94
+official_date: null
+publication_date: '1994-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/1994, Série I-A de 1994-10-25
+  number: '247'
+  series: I
+  supplement: null
+  pages: 6433 - 6434
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/10/247a00/64336434.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-04-10'
+version_history:
+  file: decreto-lei-268-94.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1994-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-11-02'
+    amending: pt:dre:144454578:por
+    amending_title: Decreto-Lei n.º 81/2020
+    changes:
+    - Adita Artigo 10.º-A
+    - Altera Artigo 11.º
+  - date: '2022-04-10'
+    amending: pt:dre:177350573:por
+    amending_title: Lei n.º 8/2022
+    changes:
+    - Adita Artigo 1.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/268/1994/p/cons/20201002/pt/html
+  oj: null
+  dre: '624624'
+  dre_path: /dr/detalhe/decreto-lei/268-1994-624624
+  internal: pt:dre:624624:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1994-624624
+  metadata_url: https://data.dre.pt/eli/dec-lei/268/1994/p/cons/20201002/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-144575382
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-144575382
+  retrieved_at: '2026-10-22T12:35:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9e6830253700644595c419facbe43cd5ae0996f5f883efc71a00b69ace4d7f52
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:35:02Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-268-94.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Propriedade Horizontal
+- Regime Jurídico
+- Propriedade de BENS
+- Segurança dos Edifícios
+- Prédio Urbano
+relationships:
+- type: amended_by
+  target: pt:dre:144454578:por
+  label: Adita Artigo 10.º-A; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578
+  date: '2020-10-02'
+- type: amended_by
+  target: pt:dre:177350573:por
+  label: Adita Artigo 1.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/8-2022-177350573
+  date: '2022-01-10'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:35:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 268/94
+
+Decreto-Lei n.º 268/94
+
+de 25 de Outubro
+
+A necessidade de desenvolver alguns aspectos do regime da propriedade horizontal, aliada à opção de preservar a integração da disciplina daquele instituto no Código Civil, explica a aprovação do presente diploma.
+
+Na verdade, as regras aqui consagradas estatuem ou sobre matérias estranhas à natureza de um diploma como o Código Civil ou com carácter regulamentar, e têm o objectivo de procurar soluções que tornem mais eficaz o regime da propriedade horizontal, facilitando simultaneamente o decorrer das relações entre os condóminos e terceiros.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Deliberações da assembleia de condóminos
+
+1 - São obrigatoriamente lavradas atas das assembleias de condóminos, redigidas e assinadas por quem nelas tenha intervindo como presidente e subscritas por todos os condóminos nelas presentes.
+
+2 - A ata contém um resumo do que de essencial se tiver passado na assembleia de condóminos, indicando, designadamente, a data e o local da reunião, os condóminos presentes e ausentes, os assuntos apreciados, as decisões e as deliberações tomadas com o resultado de cada votação e o facto de a ata ter sido lida e aprovada.
+
+3 - A eficácia das deliberações depende da aprovação da respetiva ata, independentemente da mesma se encontrar assinada pelos condóminos.
+
+4 - As deliberações devidamente consignadas em acta são vinculativas tanto para os condóminos como para os terceiros titulares de direitos relativos às fracções.
+
+5 - Incumbe ao administrador, ainda que provisório, guardar as actas e facultar a respectiva consulta, quer aos condóminos, quer aos terceiros a que se refere o número anterior.
+
+6 - A assinatura e a subscrição da ata podem ser efetuadas por assinatura eletrónica qualificada ou por assinatura manuscrita, aposta sobre o documento original ou sobre documento digitalizado que contenha outras assinaturas.
+
+7 - Para efeitos do disposto no presente artigo, vale como subscrição a declaração do condómino, enviada por correio eletrónico, para o endereço da administração do condomínio, em como concorda com o conteúdo da ata que lhe tenha sido remetida pela mesma via, declaração esta que deve ser junta, como anexo, ao original da ata.
+
+8 - Compete à administração do condomínio a escolha por um ou por vários dos meios previstos nos números anteriores, bem como a definição da ordem de recolha das assinaturas ou de recolha das declarações por via eletrónica, a fim de assegurar a aposição das assinaturas num único documento.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/lei/8-2022-177350573), em vigor a partir de 2022-04-10
+
+###### Artigo 1.º-A — Assembleia de condóminos por meios de comunicação à distância
+
+1 - Sempre que a administração do condomínio assim o determine ou a maioria dos condóminos o requeira, a assembleia de condóminos tem lugar por meios de comunicação à distância, preferencialmente por videoconferência.
+
+2 - Caso algum dos condóminos não tenha, fundamentadamente, condições para participar na assembleia de condóminos por meios de comunicação à distância e tenha transmitido essa impossibilidade à administração do condomínio, compete a esta assegurar-lhe os meios necessários, sob pena de a assembleia não poder ter lugar através daqueles meios.
+
+> Aditado pelo/a Artigo 5.º do/a [Lei n.º 8/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/lei/8-2022-177350573), em vigor a partir de 2022-04-10
+
+###### Artigo 2.º — Documentos e notificações relativos ao condomínio
+
+1 - Deverão ficar depositadas, à guarda do administrador, as cópias autenticadas dos documentos utilizados para instruir o processo de constituição da propriedade horizontal, designadamente do projecto aprovado pela entidade pública competente.
+
+2 - O administrador tem o dever de guardar e dar a conhecer aos condóminos todas as notificações dirigidas ao condomínio, designadamente as provenientes das autoridades administrativas.
+
+###### Artigo 3.º — Informação
+
+1 - Na entrada do prédio ou conjunto de prédios ou em local de passagem comum aos condóminos deverá ser afixada a identificação do administrador em exercício ou de quem, a título provisório, desempenhe as funções deste.
+
+2 - Os condóminos devem informar o administrador do condomínio do seu número de contribuinte, morada, contactos telefónicos e endereço de correio eletrónico e atualizar tais informações sempre que as mesmas sejam objeto de alteração.
+
+3 - A alienação das frações deve ser objeto de comunicação ao administrador do condomínio pelo condómino alienante, por correio registado expedido no prazo máximo de 15 dias a contar da mesma, devendo esta informação conter o nome completo e o número de identificação fiscal do novo proprietário.
+
+4 - A falta de comunicação indicada no número anterior responsabiliza o condómino alienante pelo valor das despesas inerentes à identificação do novo proprietário e pelos encargos suportados com a mora no pagamento dos encargos que se vencerem após a alienação.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/lei/8-2022-177350573), em vigor a partir de 2022-04-10
+
+###### Artigo 4.º — Fundo comum de reserva
+
+1 - É obrigatória a constituição, em cada condomínio, de um fundo comum de reserva para custear as despesas de conservação do edifício ou conjunto de edifícios.
+
+2 - Cada condómino contribui para esse fundo com uma quantia correspondente a, pelo menos, 10% da sua quota-parte nas restantes despesas do condomínio.
+
+3 - No caso de, por deliberação da assembleia, o fundo comum de reserva ser utilizado para fim diverso do indicado no n.º 1, os condóminos devem assegurar o pagamento, no prazo máximo de 12 meses a contar da deliberação, da quotização extraordinária necessária à reposição do montante utilizado, aplicando-se o disposto no artigo 6.º no caso de não cumprimento dessa obrigação.
+
+4 - O fundo comum de reserva deve ser depositado em instituição bancária, competindo à assembleia de condóminos a respectiva administração.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/lei/8-2022-177350573), em vigor a partir de 2022-04-10
+
+###### Artigo 5.º — Actualização do seguro
+
+1 - É obrigatória a actualização anual do seguro contra o risco de incêndio.
+
+2 - Compete à assembleia de condóminos deliberar o montante de cada actualização.
+
+3 - Se a assembleia não aprovar o montante da actualização, deve o administrador actualizar o seguro de acordo com o índice publicado trimestralmente pelo Instituto de Seguros de Portugal.
+
+###### Artigo 6.º — Dívidas por encargos de condomínio
+
+1 - A ata da reunião da assembleia de condóminos que tiver deliberado o montante das contribuições a pagar ao condomínio menciona o montante anual a pagar por cada condómino e a data de vencimento das respetivas obrigações.
+
+2 - A ata da reunião da assembleia de condóminos que reúna os requisitos indicados no n.º 1 constitui título executivo contra o proprietário que deixar de pagar, no prazo estabelecido, a sua quota-parte.
+
+3 - Consideram-se abrangidos pelo título executivo os juros de mora, à taxa legal, da obrigação dele constante, bem como as sanções pecuniárias, desde que aprovadas em assembleia de condóminos ou previstas no regulamento do condomínio.
+
+4 - O administrador deve instaurar ação judicial destinada a cobrar as quantias referidas nos n.os 1 e 3.
+
+5 - A ação judicial referida no número anterior deve ser instaurada no prazo de 90 dias a contar da data do primeiro incumprimento do condómino, salvo deliberação em contrário da assembleia de condóminos e desde que o valor em dívida seja igual ou superior ao valor do indexante dos apoios sociais do respetivo ano civil.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/lei/8-2022-177350573), em vigor a partir de 2022-04-10
+
+###### Artigo 7.º — Falta ou impedimento do administrador
+
+O regulamento deve prever e regular o exercício das funções de administração na falta ou impedimento do administrador ou de quem a título provisório desempenhe as funções deste.
+
+###### Artigo 8.º — Publicitação das regras de segurança
+
+O administrador deve assegurar a publicitação das regras respeitantes à segurança do edifício ou conjunto de edifícios, designadamente à dos equipamentos de uso comum.
+
+###### Artigo 9.º — Dever de informação a terceiros
+
+O administrador, ou quem a título provisório desempenhe as funções deste, deve facultar cópia do regulamento aos terceiros titulares de direitos relativos às fracções.
+
+###### Artigo 10.º — Obrigação de constituição da propriedade horizontal e de obtenção da licença de utilização
+
+Celebrado contrato-promessa de compra e venda de fracção autónoma a constituir, e salvo estipulação expressa em contrário, fica o promitente-vendedor obrigado a exercer as diligências necessárias à constituição da propriedade horizontal e à obtenção da correspondente licença de utilização.
+
+###### Artigo 10.º-A — Administração provisória
+
+1 - Sempre que, por ato ou omissão dos condóminos, a assembleia de condóminos não reúna ou não sejam tomadas as decisões necessárias ao cumprimento das obrigações legais de elaboração do regulamento do condomínio, de contratação do seguro obrigatório ou de constituição do fundo de reserva, e se não existir administrador, qualquer condómino pode assegurar o cumprimento das mesmas como administrador provisório, devendo, nesse caso, dar cumprimento ao disposto no artigo 3.º
+
+2 - Uma vez cumpridas as obrigações previstas no número anterior, o administrador provisório deve convocar a assembleia de condóminos para eleição do administrador e para prestar informação e contas sobre a sua administração.
+
+3 - Se, apesar de regularmente convocada, a assembleia de condóminos não reunir ou não eleger administrador, o condómino que exerceu provisoriamente as funções de administração, nos termos dos números anteriores, pode comunicar aos outros condóminos o propósito de continuar a exercer o cargo de administrador provisório, nos termos do artigo 1435.º-A do Código Civil, ou requerer ao tribunal a nomeação de um administrador, sem prejuízo do disposto no número seguinte.
+
+4 - Quando o condómino que exerce as funções de administração provisória, nos termos do artigo 1435.º-A do Código Civil, for uma entidade pública com atribuições na área da gestão habitacional e for necessário promover a realização de obras nas partes comuns do edifício, esta pode recorrer à execução coerciva das mesmas, nos termos do artigo seguinte, sempre que não seja possível uma decisão da assembleia de condóminos para o efeito.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 11.º — Obras
+
+1 - Para efeito de aplicação do disposto nos artigos 89.º a 91.º do Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, relativamente a obras necessárias nas partes comuns do edifício, é suficiente a notificação ao administrador do condomínio.
+
+2 - No caso do número anterior, se houver lugar à execução coerciva das obras, cada condómino é responsável pelos encargos com a realização das mesmas na proporção da sua quota, sendo o respetivo pagamento assegurado nos termos dos artigos 108.º e 108.º-B do RJUE.
+
+3 - No caso de edifício em que um dos condóminos é uma entidade pública com atribuições na área da gestão habitacional, as obras necessárias nas partes comuns podem ser determinadas e promovidas por essa entidade nos termos do regime a que se referem os números anteriores, caso em que a notificação e, se necessário, os elementos referidos no n.º 4 do artigo 89.º são por esta remetidos ao município competente, estando a correspondente operação urbanística sujeita a parecer prévio da câmara municipal nos termos do n.º 2 do artigo 7.º do RJUE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2020 - Diário da República n.º 193/2020, Série I de 2020-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2020-144454578), em vigor a partir de 2020-11-02
+
+###### Artigo 12.º — Direito transitório
+
+Nos prédios já sujeitos ao regime de propriedade horizontal à data da entrada em vigor do presente diploma deve, no prazo de 90 dias, ser dado cumprimento ao disposto no artigo 3.º
+
+Visto e aprovado em Conselho de Ministros de 28 de Julho de 1994. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Luís Filipe Alves Monteiro - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
+
+Promulgado em 7 de Outubro de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Outubro de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

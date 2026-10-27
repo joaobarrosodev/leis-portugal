@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:838326048:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2024-940515912",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/15-2024-838326048",
+ "source_lastmod": "2026-10-21",
+ "versions": [
+  {
+   "date": "2024-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1182167975",
+    "940604975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1182167975": {
+   "fragment_id": "940604675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Museus e Monumentos de Portugal, E. P. E., foi criada pelo Decreto-Lei n.º 79/2023, de 4 de setembro, no âmbito do processo de reorganização da Direção-Geral do Património Cultural, sucedendo-lhe na missão, nas atribuições, no património e nos recursos humanos nos domínios da conservação, restauro, proteção, valorização e divulgação das coleções nacionais e do património cultural móvel, bem como da gestão dos museus, monumentos e palácios nacionais e da execução da política museológica nacional.\n\nA opção por este novo modelo de gestão traduz a vontade de promover a requalificação dos museus, monumentos e palácios, a produção de conhecimento, a conservação e valorização das coleções nacionais, bem como de inovar e promover a qualificação da oferta de programação cultural e das experiências de fruição do património cultural, com um maior envolvimento dos públicos e da sociedade em geral.\n\nPara a instalação da sede da Museus e Monumentos de Portugal, E. P. E., o Palácio Burnay, em Lisboa, antes afeto à área governativa das finanças, passa agora a estar afeto a esta entidade da área governativa da cultura, o que vem permitir a reabilitação deste imóvel - classificado como imóvel de interesse público pelo Decreto n.º 28/82, de 26 de fevereiro, e com zona especial de proteção estabelecida pela Portaria n.º 39/96, de 13 de fevereiro - e a sua valorização enquanto espaço de fruição cultural.\n\nPor conseguinte, verificando-se a necessidade urgente de investir na limpeza, restauro, recuperação e adaptação para garantir a solidez, segurança e salubridade do imóvel do Palácio Burnay para instalação da sede da Museus e Monumentos de Portugal, E. P. E., bem como na recuperação dos seus jardins e anexos, procede-se à correspondente autorização prévia para assunção de encargos plurianuais.\n\nAssim:\n\nNos termos da alínea e) do n.º 1 do artigo 17.º e do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar a Museus e Monumentos de Portugal, E. P. E., a assumir os encargos plurianuais relativos ao projeto de investimento para reabilitação do Palácio Burnay e respetivos jardins, até ao montante máximo de 15 763 900 EUR.\n\n2 - Estabelecer que os encargos financeiros previstos na presente resolução não podem exceder, em cada ano económico, os seguintes montantes:\n\na) [Revogada.]\n\nb) [Revogada.]\n\nc) 2026: 2 870 000 €;\n\nd) 2027: 6 311 200 €;\n\ne) 2028: 3 197 500 €;\n\nf) 2029: 2 538 900 €;\n\ng) 2030: 846 300 €.\n\n3 - Determinar que os montantes fixados para cada ano económico no número anterior podem ser acrescidos do saldo apurado no ano que lhe antecede.\n\n4 - Determinar que os encargos orçamentais decorrentes da presente resolução são suportados com origem em verba prevista no programa orçamental das finanças.\n\n5 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação."
+  },
+  "940604975": {
+   "fragment_id": "940604875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 4 de janeiro de 2024. - O Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

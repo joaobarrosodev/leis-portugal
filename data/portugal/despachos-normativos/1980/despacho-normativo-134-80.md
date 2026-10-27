@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:681635:por
+title: Despacho Normativo n.º 134/80
+short_title: null
+summary: Estabelece normas sobre o provimento na carreira de investigadores do Ministério da Agricultura e Pescas
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura e Pescas - Gabinete do Ministro
+proposing_entity: null
+official_number: 134/80
+official_date: null
+publication_date: '1980-04-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 91/1980, Série I de 1980-04-18
+  number: '91'
+  series: I
+  supplement: null
+  pages: 777 - 779
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/04/09100/07770779.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '681635'
+  dre_path: /dr/detalhe/despacho-normativo/134-1980-681635
+  internal: pt:dre:681635:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:59:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 55b3f0b216b4766b0d3106a532498bd96a8c211000d75585343bc974bc6bc84d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Formas de Provimento
+- Instituto Nacional de Investigação Agrária
+- Instituto Nacional de Investigação das Pescas
+- Instituto Nacional de Veterinária
+- Integração de Trabalhadores
+- Investigação Científica e Tecnológica
+- Investigador
+- Ministério da Agricultura e Pescas
+relationships:
+- type: amended_by
+  target: pt:dre:384976:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:384976:por
+  label: Prorrogado por 60 dias o prazo fixado no n.º 13 pelo(a) Despacho Normativo n.º 94/84 - Diário da República n.º 102/1984,
+    Série I de 1984-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/94-1984-384976
+  date: '1984-05-03'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383790:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:59:28Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 134/80
+
+As normas de primeiro provimento dos lugares da carreira de investigadores do MAP, integrada no grupo 3 do mapa anexo ao [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, foram fixadas pelo [Despacho Normativo n.º 260/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/260-1978-329017), de 30 de Setembro, e, posteriormente, pelo [Despacho Normativo n.º 52/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1979-383790), de 10 de Março, que revogou e substituiu o primeiro.
+
+Porque a aplicação do [Despacho Normativo n.º 52/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1979-383790), de 10 de Março, se tem processado com acentuadas dificuldades que a tornaram morosa e pouco prática e porque o resultado actual dessa aplicação evidencia a existência de fortes assimetrias no perfil do quadro da carreira e a manutenção de situações de flagrante injustiça originadas na subvalorização de numerosos cientistas, aos quais, institucionalmente, nunca foi facilitada ou mesmo facultada a possibilidade de prestarem provas onde, pelo menos, os seus currículos profissionais fossem apreciados por júris qualificados, julgou-se necessário publicar um novo despacho normativo.
+
+Com esta medida, corrigindo-se distorções evidenciadas no perfil da carreira de investigadores do MAP definido pelo estado actual da aplicação do [Despacho Normativo n.º 52/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1979-383790) e criando-se o estímulo necessário a todos os elementos da carreira, pretende-se estabelecer normas mais simplificadas e rápidas no que respeita à sua execução prática, sem deixarem de salvaguardar princípios fundamentais e exigência de rigor indispensáveis.
+
+É o que se procura alcançar com o presente diploma, cujo sentido global aponta para a correcção das injustiças existentes, através da realização de provas documentais de apreciação curricular, abertas a todos os licenciados com mais de cinco anos em actividades de I-D e escalonadas segundo módulos de tempo idênticos aos estabelecidos nas condições de tempo mínimas exigidas para a progressão normal na carreira, definidas no [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266).
+
+Nestes termos, determino que na elaboração das listas nominativas a que se refere o artigo 52.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, seja observado, para o pessoal de investigação, o seguinte:
+
+1 - As presentes normas só se aplicam aos licenciados exercendo actividades de investigação e desenvolvimento experimental (I-D) no Instituto Nacional de Investigação Agrária (INIA), no Instituto Nacional de Investigação das Pescas (INIP) e no Instituto Nacional de Veterinária (INV).
+
+2 - Transitam, mediante requerimento, para lugares da categoria de investigador coordenador, e desde que obtenham parecer favorável em prova de apreciação curricular, os licenciados com, pelo menos, dezanove anos em actividades de I-D com aprovação em concurso de provas públicas para investigador ou professor universitário e cujo currículo profissional comprove elevado mérito e aptidão para o desempenho de funções de concepção e coordenação de programas diversificados de I-D e de orientação de grupos de trabalho inter ou pluridisciplinares.
+
+3 - Transitam, mediante requerimento, para lugares da categoria de investigador principal, e desde que obtenham parecer favorável em prova de apreciação curricular, os licenciados com, pelo menos, catorze anos em actividades de I-D e cujo currículo profissional e científico comprove aptidão para o desempenho de funções de concepção, orientação e realização de actividades de I-D integradas em domínios inter ou pluridisciplinares e para a orientação dos trabalhos dos assistentes e estagiários ou de acções de formação de pessoal especializado.
+
+4 - Transitam, mediante requerimento, para lugares da categoria de investigador, e desde que obtenham parecer favorável em prova de avaliação curricular, os licenciados com, pelo menos, nove anos em actividades de I-D e cujo currículo profissional e científico comprove terem os candidatos executado regular e predominantemente actividades de I-D, incluindo concepção e realização de trabalhos individualizados de I-D.
+
+5 - Transitam, mediante requerimento, para lugares da categoria de especialista, e desde que obtenham parecer favorável em prova de avaliação curricular, os licenciados com, pelo menos, cinco anos em actividades de I-D e cujo currículo profissional e científico comprove possuírem os candidatos domínio da utilização da metodologia científica, com responsabilidade pela execução de trabalhos de I-D sem tutela e em cuja concepção tenham participado.
+
+6 - As provas de avaliação curricular a que se referem os n.os 2 a 5, apreciadas do ponto de vista de I-D, serão de natureza documental, dirão respeito apenas ao mérito absoluto dos concorrentes e deverão processar-se e concluir-se no prazo de setenta e cinco dias, contados a partir da data de publicação deste despacho, de acordo com as normas dele constantes, excepto no que se refere ao INIP, cujo prazo poderá ser alargado por despacho do Ministro da Agricultura e Pescas quando a aplicação do n.º 9.2 o exigir.
+
+7 - Nas apreciações curriculares referidas nos n.os 2 a 5, o júri de apreciação deve obrigatoriamente tomar em conta, além das publicações científicas e técnicas produzidas, outros elementos, tais como diferenciação profissional adquirida, acções em organização, coordenação e gestão científicas, divulgação de conhecimento através de palestras e colóquios e participação activa em congressos e reuniões científicas e técnicas, formação de pessoal (exercício de ensino formal e informal), criação, montagem e/ou orientação de estruturas ou serviços científicos e técnicos com a consequente formação de equipas especializadas de trabalho e, ainda, missões especiais de carácter profissional ou social.
+
+8 - Os júris das apreciações curriculares referidas nos n.os 2 a 5 terão a constituição que a seguir se define:
+
+a) Júri para os candidatos do INIA com formação profissional no domínio de ciências biológicas:
+
+Director do INIA, que preside;
+
+Dois investigadores coordenadores do INIA;
+
+b) Júri para os candidatos do INIA com formação profissional no domínio de ciências físicas, matemáticas e sociais:
+
+Director do INIA, que preside;
+
+Dois investigadores coordenadores do INIA;
+
+c) Júri para os candidatos do INIA com formação profissional no domínio do sector agrícola:
+
+Director do INIA, que preside;
+
+Dois investigadores coordenadores do INIA;
+
+d) Júri para os candidatos do INIA com formação profissional no domínio do sector da pecuária:
+
+Director do INIA, que preside;
+
+Dois investigadores coordenadores do INIA;
+
+e) Júri para os candidatos do INIA com formação profissional no domínio do sector florestal:
+
+Director do INIA, que preside;
+
+Dois investigadores coordenadores do INIA;
+
+f) Júri para os candidatos do INIP:
+
+Director do INIP, que preside;
+
+Quatro professores universitários ou doutorados de reconhecida competência nos domínios da biologia, físico-química, oceanografia e matemática;
+
+g) Júri para os candidatos do INV:
+
+Director do INV, que preside;
+
+Dois investigadores coordenadores do INV.
+
+9.1 - Os júris referidos nas alíneas a) a e) e g) do número anterior são nomeados por despacho do Ministro da Agricultura e Pescas, sob proposta dos respectivos directores do INIA e do INV e depois de ouvidos, para cada uma das duas instituições, respectivamente, o conselho científico do INIA e o conselho técnico do INV.
+
+9.2 - O júri referido na alínea f) do número anterior é nomeado por despacho conjunto do Ministro da Agricultura e Pescas e do respectivo Ministro da tutela referente aos organismos a que pertencerem os quatro professores universitários ou doutorados, sob proposta do director do INIP e depois de ouvido o conselho científico e técnico do INIP.
+
+10 - A distribuição dos candidatos à apreciação curricular pelos domínios de formação profissional referidos no n.º 8 é estabelecida de acordo com a especialização evidenciada pelos curriculum vitae, por despacho dos respectivos directores do INIA, do INIP e do INV.
+
+11 - Os presidentes dos júris, sempre que o entendam necessário, poderão agregar a cada júri individualidades de reconhecida competência nas áreas especializadas dos candidatos à apreciação curricular, com direito a voto.
+
+12.1 - Os candidatos às apreciações curriculares referidas nos n.os 2 a 5 deverão requerer a sua candidatura ao Ministro da Agricultura e Pescas, no prazo de trinta dias após a data da publicação do presente despacho normativo, juntando ao requerimento seis exemplares do curriculum vitae.
+
+12.2 - Os requerentes às apreciações curriculares referidas nos n.os 2 a 5, caso não sejam aprovados para a categoria que requererem, serão considerados nas avaliações curriculares para a categoria ou categorias situadas entre a requerida e a que actualmente possuem.
+
+12.3 - Os requerentes às apreciações curriculares deverão providenciar para que os trabalhos constantes do seu curriculum vitae se encontrem depositados na biblioteca do serviço a que pertençam, sem o que poderão os citados trabalhos não ser considerados.
+
+13 - Uma cópia do curriculum vitae de cada um dos candidatos será enviada a cada um dos membros dos júris, que, no prazo de trinta dias, após a publicação da sua constituição, farão a apreciação curricular e reunirão para decidir, por maioria simples de voto, do mérito absoluto dos candidatos para cada uma das quatro categorias, publicando-se no Diário da República as relações, por ordem alfabética, apenas dos candidatos aprovados, bem como o relatório da decisão.
+
+14 - No caso de se verificar empate na votação de um júri constituído na base do disposto no n.º 11 do presente diploma, o presidente terá voto de qualidade.
+
+15 - As reuniões dos júris serão convocadas pelos respectivos presidentes e os processos da apreciação curricular serão organizados pela direcção dos serviços de administração do INIA, pela direcção dos serviços de administração do INIP e pela repartição administrativa do INV, relativamente aos candidatos de cada instituição.
+
+16 - Das deliberações dos júris das provas a que se referem os n.os 2 a 5 do presente diploma não haverá recurso, excepto se fundamentado em infracção formal ao fixado na lei.
+
+17 - Quando da aplicação dos n.os 2 a 5 do presente diploma resultarem excedentes de pessoal relativamente ao número de lugares em cada uma das categorias que constam do mapa anexo ao [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, será feito recurso ao previsto nos n.os 4 e 5 do artigo 52.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+
+18 - Ficam revogados pelo presente diploma os n.os 10 a 18 do [Despacho Normativo n.º 52/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1979-383790), de 10 de Março.
+
+19 - As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+
+Ministério da Agricultura e Pescas, 26 de Março de 1980. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

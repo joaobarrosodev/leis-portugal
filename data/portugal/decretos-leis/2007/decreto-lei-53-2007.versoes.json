@@ -1,0 +1,551 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:519221:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-164866425",
+ "dre_path": "/dr/detalhe/decreto-lei/53-2007-519221",
+ "source_lastmod": "2025-02-27",
+ "versions": [
+  {
+   "date": "2007-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164867877",
+    "164867878",
+    "164867879",
+    "164867880",
+    "164867881",
+    "164867882",
+    "164867883",
+    "164867884",
+    "164867885",
+    "164867886",
+    "164867887",
+    "164867888",
+    "164867889",
+    "164867890",
+    "164867891",
+    "164867892",
+    "164867893"
+   ]
+  },
+  {
+   "date": "2011-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485633:por",
+     "title": "Decreto-Lei n.º 7/2011",
+     "published": "2011-01-10",
+     "dre_path": "/dr/detalhe/decreto-lei/7-2011-485633"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "164867877",
+    "164867878",
+    "164867879",
+    "909307291",
+    "909307285",
+    "164867882",
+    "909307286",
+    "164867884",
+    "164867885",
+    "164867886",
+    "164867887",
+    "909307287",
+    "909307288",
+    "909307289",
+    "909307290",
+    "164867892",
+    "164867893",
+    "164867894"
+   ]
+  },
+  {
+   "date": "2012-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179071:por",
+     "title": "Decreto-Lei n.º 172/2012",
+     "published": "2012-08-01",
+     "dre_path": "/dr/detalhe/decreto-lei/172-2012-179071"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "164867877",
+    "164867878",
+    "909307312",
+    "909307291",
+    "909307285",
+    "164867882",
+    "909307313",
+    "164867884",
+    "164867885",
+    "909307315",
+    "164867887",
+    "909307314",
+    "909307288",
+    "909307289",
+    "909307290",
+    "164867892",
+    "164867893",
+    "164867894"
+   ]
+  },
+  {
+   "date": "2025-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:989282074:por",
+     "title": "Decreto-Lei n.º 128/2025",
+     "published": "2025-12-17",
+     "dre_path": "/dr/detalhe/decreto-lei/128-2025-989282074"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "164867877",
+    "164867878",
+    "989163350",
+    "909307291",
+    "909307285",
+    "164867882",
+    "989163351",
+    "989163352",
+    "989163359",
+    "909307315",
+    "989163353",
+    "989163361",
+    "989163362",
+    "989163363",
+    "989163364",
+    "989163365",
+    "989163366",
+    "989163367",
+    "989163368"
+   ]
+  }
+ ],
+ "fragments": {
+  "164867877": {
+   "fragment_id": "164866426",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 53/2007\n\nde 8 de Março\n\nO presente decreto-lei regula o horário de funcionamento das farmácias de oficina e define o respectivo período mínimo de funcionamento.\n\nActualmente, e de acordo com o regime geral aplicável aos estabelecimentos de venda ao público e de prestação de serviços, as farmácias podem estar abertas entre as 6 e as 24 horas, todos os dias da semana.\n\nO Governo entende, de acordo com a política de acessibilidade ao medicamento, que deve fomentar um alargado período de funcionamento das farmácias.\n\nA fixação de um horário mínimo de funcionamento corporiza este objectivo, mas não limita a livre decisão de fixação de um horário dentro dos parâmetros legais.\n\nO interesse público na garantia da dispensa de medicamentos impõe, no entanto, que a acessibilidade seja assegurada 24 horas por dia. Assim, e mesmo considerando o alargado período de funcionamento das farmácias, mantém-se a necessidade de fixar, consensualmente, escalas de turnos para garantir o permanente e efectivo acesso dos cidadãos ao medicamento em situações de urgência.\n\nNão obstante a obrigação de o horário mínimo entrar em vigor apenas 60 dias após a publicação, as farmácias podem, desde já, praticar um horário semanal de 55 horas, desde que respeitem o previsto para os estabelecimentos de venda ao público e de prestação de serviços.\n\nEsta medida tem efeitos autónomos que justificam a sua rápida aplicação e insere-se no conjunto de alterações legislativas, no sector da farmácia, centradas no cidadão.\n\nParalelamente, visando clarificar dúvidas quanto à possibilidade de cobrança de um valor acrescido pela dispensa de medicamentos pelas farmácias de turno, este decreto-lei proíbe, de forma expressa, clara e inequívoca, qualquer acréscimo de pagamento nos medicamentos dispensados por uma farmácia de turno se os mesmos forem prescritos em receita médica datada do próprio dia ou do dia anterior.\n\nFoi promovida a audição da Associação Nacional de Municípios Portugueses, da Ordem dos Farmacêuticos, da Associação Nacional das Farmácias, do Sindicato Nacional dos Farmacêuticos, da Associação das Farmácias de Portugal e da Associação Portuguesa de Licenciados em Farmácia.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164867878": {
+   "fragment_id": "164866427",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula o horário de funcionamento das farmácias de oficina."
+  },
+  "164867879": {
+   "fragment_id": "164866428",
+   "type": 11,
+   "heading": "Artigo 2.º — Horário de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Horário de funcionamento\n\n1 - O horário de funcionamento das farmácias de oficina abrange os períodos de funcionamento, diário e semanal, e os turnos de serviço permanente, de regime de reforço e de regime de disponibilidade.\n\n2 - O proprietário da farmácia deve assegurar o cumprimento do horário de funcionamento."
+  },
+  "164867880": {
+   "fragment_id": "164866429",
+   "type": 11,
+   "heading": "Artigo 3.º — Período de funcionamento diário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Período de funcionamento diário\n\nO período de funcionamento diário das farmácias de oficina tem o limite máximo previsto para os estabelecimentos de venda ao público e de prestação de serviços."
+  },
+  "164867881": {
+   "fragment_id": "164866430",
+   "type": 11,
+   "heading": "Artigo 4.º — Período de funcionamento semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Período de funcionamento semanal\n\nO período de funcionamento semanal das farmácias de oficina tem o limite mínimo de 55 horas."
+  },
+  "164867882": {
+   "fragment_id": "164866431",
+   "type": 11,
+   "heading": "Artigo 5.º — Fixação dos períodos de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fixação dos períodos de funcionamento\n\nO proprietário da farmácia fixa livremente os períodos de funcionamento diário e semanal, sem prejuízo do disposto nos números anteriores."
+  },
+  "164867883": {
+   "fragment_id": "164866432",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicação\n\n1 - O proprietário da farmácia comunica os períodos de funcionamento, diário e semanal, da farmácia, fixados nos termos do artigo anterior, à câmara municipal e à administração regional de saúde (ARS) territorialmente competentes e ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED).\n\n2 - Os períodos de funcionamento devem manter-se inalterados, no mínimo durante seis meses, salvo motivos de força maior, devidamente justificados.\n\n3 - Sem prejuízo do disposto no número anterior, o proprietário da farmácia comunica à câmara municipal e à ARS territorialmente competentes e ao INFARMED qualquer alteração dos períodos de funcionamento, com a antecedência mínima de 60 dias.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633) O disposto no presente artigo relativamente aos períodos de funcionamento das farmácias de oficina para cada semestre de cada ano civil produz efeitos a partir do 2.º semestre de 2011."
+  },
+  "164867884": {
+   "fragment_id": "164866433",
+   "type": 11,
+   "heading": "Artigo 7.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Divulgação\n\n1 - O horário de funcionamento é afixado na farmácia, de forma visível.\n\n2 - O INFARMED e a ARS divulgam, nas suas páginas electrónicas, o horário de funcionamento das farmácias de oficina."
+  },
+  "164867885": {
+   "fragment_id": "164866434",
+   "type": 11,
+   "heading": "Artigo 8.º — Turno de serviço permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Turno de serviço permanente\n\nA farmácia de turno de serviço permanente mantém-se em funcionamento, ininterruptamente, desde a hora de abertura até à hora de encerramento do dia seguinte."
+  },
+  "164867886": {
+   "fragment_id": "164866435",
+   "type": 11,
+   "heading": "Artigo 9.º — Turno de regime de reforço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Turno de regime de reforço\n\nA farmácia de turno de regime de reforço mantém-se em funcionamento até às 22 horas, sem prejuízo de encerramento à hora de almoço quando o período de funcionamento definido o preveja."
+  },
+  "164867887": {
+   "fragment_id": "164866436",
+   "type": 11,
+   "heading": "Artigo 10.º — Turno de regime de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Turno de regime de disponibilidade\n\nA farmácia de turno de regime de disponibilidade tem de assegurar que um farmacêutico ou um auxiliar legalmente habilitado está disponível para atender o público que o solicite, em caso de urgência."
+  },
+  "164867888": {
+   "fragment_id": "164866437",
+   "type": 11,
+   "heading": "Artigo 11.º — Farmácias de turno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Farmácias de turno\n\n1 - Nos municípios com menos de 20000 habitantes tem de existir sempre uma farmácia de turno de regime de disponibilidade entre a hora de encerramento normal e a hora de abertura normal do dia seguinte.\n\n2 - Nas situações previstas no número anterior, caso exista apenas uma farmácia no município e exista outra farmácia a menos de 3 km, podem ser organizadas escalas de turnos de regime de disponibilidade entre ambas.\n\n3 - Nos municípios com mais de 20000 habitantes e menos de 50000 habitantes, ou que tenham entre quatro e nove farmácias, tem de existir sempre uma farmácia de turno de serviço permanente pelo menos até às 22 horas, passando a turno de regime de disponibilidade até à hora de abertura normal do dia seguinte.\n\n4 - Nos municípios com mais de 50000 habitantes, ou que tenham mais de 10 farmácias, tem de existir sempre 1 farmácia de turno de serviço permanente por cada 50000 a 80000 habitantes.\n\n5 - Nos municípios com mais de 80000 habitantes tem de existir sempre uma farmácia de turno de regime de reforço por cada 50000 a 80000 habitantes.\n\n6 - Nos municípios onde está instalada uma farmácia de dispensa de medicamentos ao público num hospital do Serviço Nacional de Saúde tem de existir apenas uma farmácia de turno de serviço permanente por cada 100000 habitantes.\n\n7 - A determinação do número de habitantes é feita em função dos dados disponibilizados pelo Instituto Nacional de Estatística, I. P."
+  },
+  "164867889": {
+   "fragment_id": "164866438",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime de dispensa\n\n1 - Quando a farmácia funcione por turnos, pode ser recusada a dispensa de medicamentos não prescritos em receita médica.\n\n2 - O funcionamento da farmácia por turnos é insusceptível de originar qualquer acréscimo de pagamento nos medicamentos prescritos em receita médica datada do próprio dia ou do dia anterior.\n\n3 - Nas situações não compreendidas no número anterior, o funcionamento da farmácia por turnos pode originar um acréscimo no pagamento cujo valor máximo é fixado por portaria do Ministro da Saúde."
+  },
+  "164867890": {
+   "fragment_id": "164866439",
+   "type": 11,
+   "heading": "Artigo 13.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima de (euro) 1000 a (euro) 3740,98:\n\na) A violação do n.º 2 do artigo 2.º;\n\nb) O funcionamento da farmácia em período que não cumpra o estabelecido no artigo 4.º;\n\nc) A não observância da comunicação referida no artigo 6.º;\n\nd) A não afixação do horário de funcionamento nos termos do n.º 1 do artigo 7.º;\n\ne) A violação do n.º 2 do artigo 12.º\n\n2 - Podem ser aplicadas, em simultâneo com as coimas previstas no número anterior, as sanções acessórias de encerramento do estabelecimento e de suspensão do alvará.\n\n3 - O processamento das contra-ordenações e a aplicação das coimas competem ao INFARMED."
+  },
+  "164867891": {
+   "fragment_id": "164866440",
+   "type": 11,
+   "heading": "Artigo 14.º — Escalas de turnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Escalas de turnos\n\nAs escalas de turnos são aprovadas pela ARS territorialmente competente, sob proposta das associações representativas das farmácias."
+  },
+  "164867892": {
+   "fragment_id": "164866441",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\nO procedimento de aprovação, duração, execução, divulgação e fiscalização das escalas de turnos é objecto de portaria do Ministro da Saúde."
+  },
+  "164867893": {
+   "fragment_id": "164866442",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições transitórias\n\nO artigo 4.º entra em vigor 60 dias após a publicação do presente decreto-lei."
+  },
+  "909307291": {
+   "fragment_id": "164866429",
+   "type": 11,
+   "heading": "Artigo 3.º — Período de funcionamento diário",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 3.º — Período de funcionamento diário\n\nO período de funcionamento diário das farmácias de oficina tem o limite máximo previsto para os estabelecimentos de venda ao público e de prestação de serviços.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "909307285": {
+   "fragment_id": "164866430",
+   "type": 11,
+   "heading": "Artigo 4.º — Período de Funcionamento",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 4.º — Período de Funcionamento\n\n1 - O período de funcionamento semanal das farmácias de oficina está sujeito a um limite mínimo de funcionamento e a um horário padrão, a definir por portaria do membro do governo responsável pela área da saúde.\n\n2 - As farmácias de oficina podem fixar um período de funcionamento diário que lhes permita estar abertas vinte e quatro horas por dia, todos os dias de semana.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "909307286": {
+   "fragment_id": "164866432",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação dos períodos de funcionamento",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 6.º — Comunicação dos períodos de funcionamento\n\n1 - O proprietário da farmácia comunica os períodos de funcionamento, diário e semanal, da farmácia, fixados nos termos dos artigos 4.º e 5.º, ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED), nos seguintes termos:\n\na) Até ao dia 31 de Março de cada ano, para o 2.º semestre do ano civil;\n\nb) Até ao dia 30 de Setembro de cada ano, para o 1.º semestre do ano civil.\n\n2 - Caso o proprietário da farmácia não comunique os períodos de funcionamento, diário e semanal, da farmácia, nos termos do número anterior, considera-se, para todos os efeitos, que se mantém, no semestre seguinte, o período de funcionamento, diário e semanal, da farmácia, em vigor.\n\n3 - A comunicação prevista no n.º 1 é feita através do sítio do INFARMED na Internet, que disponibiliza essa informação, através de meios electrónicos, à câmara municipal e à administração regional de saúde (ARS) territorialmente competentes.\n\n4 - Nos casos em que a organização do tempo de trabalho do pessoal da farmácia de oficina esteja sujeita a turnos, a comunicação referida nos números anteriores deve ser acompanhada do mapa de horário de trabalho do pessoal e respectiva habilitação profissional.\n\n5 - Os períodos de funcionamento, diário e semanal, de todas as farmácias de oficina vigoram por um ou mais períodos coincidentes com cada um dos semestres de cada ano civil e, durante cada semestre, só podem ser modificados por motivos devidamente justificados.\n\n6 - Sempre que se justifique, as comunicações dos períodos de funcionamento diário e semanal da farmácia devem prever as variações impostas por motivos de sazonalidade.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633) O disposto no presente artigo relativamente aos períodos de funcionamento das farmácias de oficina para cada semestre de cada ano civil produz efeitos a partir do 2.º semestre de 2011.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "909307287": {
+   "fragment_id": "164866437",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento das farmácias de turno",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 11.º — Funcionamento das farmácias de turno\n\n1 - A existência de farmácias de turno de serviço permanente e de turnos de regime de disponibilidade deve respeitar os seguintes critérios:\n\na) Nos municípios com urgências hospitalares ou serviços de urgência básicos do Serviço Nacional de Saúde deve existir sempre uma farmácia de turno de serviço permanente por cada 50 000 a 80 000 habitantes;\n\nb) Nos municípios com urgências hospitalares ou serviços de urgência básicos do Serviço Nacional de Saúde onde esteja instalada uma farmácia de dispensa de medicamentos ao público num hospital do Serviço Nacional de Saúde ou onde funcione farmácia de oficina com período de funcionamento entre as 22 horas de um dia e as 8 horas do dia seguinte deve existir uma farmácia de turno de serviço permanente por cada 100 000 habitantes;\n\nc) Nos municípios com urgências hospitalares ou serviços de urgência básicos do Serviço Nacional de Saúde onde coexistam uma farmácia de dispensa de medicamentos ao público num hospital do Serviço Nacional de Saúde e uma farmácia de oficina com período de funcionamento entre as 22 horas de um dia e as 8 horas do dia seguinte deve existir uma farmácia de turno de serviço permanente por cada 120 000 habitantes, acrescendo 20 000 habitantes por cada farmácia a mais no município que pratique aquele período de funcionamento;\n\nd) Nos municípios com farmácias situadas a menos de 2 km, contados em linha recta, do limite exterior da farmácia de dispensa de medicamentos ao público que exista num hospital do Serviço Nacional de Saúde ou do limite exterior de uma farmácia de oficina com horário entre as 22 horas de um dia e as 8 horas do dia seguinte, ainda que situadas noutro município, aplica-se o disposto nas alíneas b) e c);\n\ne) Nos municípios sem urgências hospitalares ou serviços de urgência básicos do Serviço Nacional de Saúde deve existir uma farmácia de turno de regime de disponibilidade entre a hora de encerramento normal e a hora de abertura normal do dia seguinte;\n\nf) Na situação prevista na alínea anterior, caso exista apenas uma farmácia no município e exista outra farmácia a menos de 3 km noutro município, podem ser organizadas escalas de turnos de regime de disponibilidade entre ambas;\n\ng) Nos municípios sem urgências hospitalares ou serviços de urgência básicos do Serviço Nacional de Saúde onde esteja em funcionamento farmácia de oficina com horário entre as 22 horas de um dia e as 8 horas do dia seguinte não se aplica o regime de turno de disponibilidade;\n\nh) Nos municípios onde esteja em funcionamento farmácia de oficina com horário até às 21 horas não se aplica o regime de turno de reforço.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - A determinação do número de habitantes é feita em função dos dados disponibilizados pelo Instituto Nacional de Estatística, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "909307288": {
+   "fragment_id": "164866438",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de dispensa",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 12.º — Regime de dispensa\n\n1 - Quando a farmácia funcione por turnos, pode ser recusada a dispensa de medicamentos não prescritos em receita médica.\n\n2 - O funcionamento da farmácia por turnos é insusceptível de originar qualquer acréscimo de pagamento nos medicamentos prescritos em receita médica datada do próprio dia ou do dia anterior.\n\n3 - Nas situações não compreendidas no número anterior, o funcionamento da farmácia por turnos pode originar um acréscimo no pagamento cujo valor máximo é fixado por portaria do Ministro da Saúde.\n\n4 - O funcionamento das farmácias nos termos previstos no n.º 2 do artigo 4.º não origina qualquer acréscimo de pagamento na dispensa dos medicamentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "909307289": {
+   "fragment_id": "164866439",
+   "type": 11,
+   "heading": "Artigo 13.º — Contra-ordenações",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 13.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima de (euro) 1000 a (euro) 3740,98:\n\na) A violação do n.º 2 do artigo 2.º;\n\nb) O funcionamento da farmácia em período que não cumpra o estabelecido na portaria prevista no n.º 1 do artigo 4.º;\n\nc) A não observância da comunicação referida no artigo 6.º;\n\nd) A não afixação do horário de funcionamento nos termos do n.º 1 do artigo 7.º;\n\ne) A violação do n.º 2, ou do n.º 4, do artigo 12.º\n\n2 - Podem ser aplicadas, em simultâneo com as coimas previstas no número anterior, as sanções acessórias de encerramento do estabelecimento e de suspensão do alvará.\n\n3 - O processamento das contra-ordenações e a aplicação das coimas competem ao INFARMED.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "909307290": {
+   "fragment_id": "164866440",
+   "type": 11,
+   "heading": "Artigo 14.º — Escalas de turnos",
+   "in_force_from": "2011-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 14.º — Escalas de turnos\n\nAs escalas de turnos são aprovadas pelas ARS territorialmente competentes, sob proposta das associações representativas das farmácias, desde que observem o disposto no presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "164867894": {
+   "fragment_id": "164866443",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Fernando Correia de Campos.\n\nPromulgado em 22 de Fevereiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 23 de Fevereiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "909307312": {
+   "fragment_id": "164866428",
+   "type": 11,
+   "heading": "Artigo 2.º — Horário de funcionamento",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Horário de funcionamento\n\n1 - O horário de funcionamento das farmácias de oficina abrange os períodos de funcionamento, diário e semanal, e os turnos de serviço permanente e de regime de disponibilidade.\n\n2 - O proprietário da farmácia deve assegurar o cumprimento do horário de funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01"
+  },
+  "909307313": {
+   "fragment_id": "164866432",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação dos períodos de funcionamento",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 6.º — Comunicação dos períodos de funcionamento\n\n1 - O proprietário da farmácia comunica os períodos de funcionamento, diário e semanal, da farmácia, fixados nos termos dos artigos 4.º e 5.º, ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED), nos seguintes termos:\n\na) Até ao dia 15 de março de cada ano, para o 2.º semestre do ano civil;\n\nb) Até ao dia 15 de setembro de cada ano, para o 1.º semestre do ano civil seguinte.\n\n2 - Caso o proprietário da farmácia não comunique os períodos de funcionamento, diário e semanal, da farmácia, nos termos do número anterior, considera-se, para todos os efeitos, que se mantém, no semestre seguinte, o período de funcionamento, diário e semanal, da farmácia, em vigor.\n\n3 - A comunicação prevista no n.º 1 é feita através do sítio do INFARMED na Internet, que disponibiliza essa informação, através de meios eletrónicos, à câmara municipal e à administração regional de saúde (ARS) territorialmente competentes e às associações representativas das farmácias.\n\n4 - Nos casos em que a organização do tempo de trabalho do pessoal da farmácia de oficina esteja sujeita a turnos, a comunicação referida nos números anteriores deve ser acompanhada do mapa de horário de trabalho do pessoal e respetiva habilitação profissional.\n\n5 - Os períodos de funcionamento, diário e semanal, de todas as farmácias de oficina vigoram por um ou mais períodos coincidentes com cada um dos semestres de cada ano civil e, durante cada semestre, só podem ser modificados por motivos devidamente justificados.\n\n6 - Sempre que se justifique, as comunicações dos períodos de funcionamento diário e semanal da farmácia devem prever as variações impostas por motivos de sazonalidade.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633) O disposto no presente artigo relativamente aos períodos de funcionamento das farmácias de oficina para cada semestre de cada ano civil produz efeitos a partir do 2.º semestre de 2011.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "909307315": {
+   "fragment_id": "164866435",
+   "type": 11,
+   "heading": "Artigo 9.º — Turno de regime de reforço",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 9.º — Turno de regime de reforço\n\nA farmácia de turno de regime de reforço mantém-se em funcionamento até às 22 horas, sem prejuízo de encerramento à hora de almoço quando o período de funcionamento definido o preveja.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01"
+  },
+  "909307314": {
+   "fragment_id": "164866437",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento das farmácias de turno",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 11.º — Funcionamento das farmácias de turno\n\n1 - A existência de farmácias de turno de serviço permanente e de turnos de regime de disponibilidade deve respeitar os seguintes critérios:\n\na) Nos municípios com serviços de urgência do Serviço Nacional de Saúde (SNS), deve existir sempre uma farmácia de turno de serviço permanente, acrescendo uma farmácia de turno de serviço permanente por cada 60 000 a 100 000 habitantes;\n\nb) Nos municípios com serviços de urgência do SNS onde esteja instalada uma farmácia de dispensa de medicamentos ao público num hospital do SNS ou onde funcione farmácia de oficina com período de funcionamento entre as 19 horas de um dia e as 8 horas do dia seguinte, deve existir uma farmácia de turno de serviço permanente por cada 100 000 habitantes, acrescendo 40 000 habitantes por cada farmácia a mais no município que pratique aquele período de funcionamento;\n\nc) Nos municípios com farmácias situadas a menos de 2 km, contados em linha reta do limite exterior da farmácia de dispensa de medicamentos ao público que exista num hospital do SNS ou do limite exterior de uma farmácia de oficina com horário entre as 19 horas de um dia e as 8 horas do dia seguinte, ainda que situadas noutro município, aplica-se o disposto na alínea anterior;\n\nd) Nos municípios sem serviços de urgência do SNS, deve existir uma farmácia de turno de regime de disponibilidade entre a hora de encerramento normal e a hora de abertura normal do dia seguinte;\n\ne) Na situação prevista na alínea anterior, caso exista apenas uma farmácia no município e exista outra farmácia a menos de 3 km noutro município, podem ser organizadas escalas de turnos de regime de disponibilidade entre ambas;\n\nf) Nos municípios sem serviços de urgência do SNS onde esteja em funcionamento farmácia de oficina com horário entre as 19 horas de um dia e as 8 horas do dia seguinte, não se aplica o regime de turno de disponibilidade;\n\ng) (Revogada.)\n\nh) (Revogada.)\n\n2 - A determinação do número de habitantes é feita em função dos dados disponibilizados pelo Instituto Nacional de Estatística, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "989163350": {
+   "fragment_id": "164866428",
+   "type": 11,
+   "heading": "Artigo 2.º — Horário de funcionamento",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Horário de funcionamento\n\n1 - O horário de funcionamento das farmácias de oficina abrange os períodos de funcionamento, diário e semanal, bem como o funcionamento da farmácia em assistência farmacêutica fora deste período, nos termos previstos no presente decreto-lei.\n\n2 - O proprietário da farmácia deve assegurar o cumprimento do horário de funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01"
+  },
+  "989163351": {
+   "fragment_id": "164866432",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação dos períodos de funcionamento",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 6.º — Comunicação dos períodos de funcionamento\n\n1 - O proprietário da farmácia comunica os períodos de funcionamento, diário e semanal, da farmácia, fixados nos termos dos artigos 4.º e 5.º, ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), nos seguintes termos:\n\na) Até ao dia 15 de dezembro de cada ano, para o 1.º trimestre do ano civil seguinte;\n\nb) Até ao dia 15 de março de cada ano, para o 2.º trimestre do ano civil;\n\nc) Até ao dia 15 de junho de cada ano, para o 3.º trimestre do ano civil;\n\nd) Até ao dia 15 de setembro de cada ano, para o 4.º trimestre do ano civil.\n\n2 - Caso o proprietário da farmácia não comunique os períodos de funcionamento, diário e semanal, da farmácia, nos termos do número anterior, considera-se, para todos os efeitos, que se mantém, no trimestre seguinte, o período de funcionamento, diário e semanal, da farmácia, em vigor.\n\n3 - A comunicação prevista no n.º 1 é feita através do sítio do INFARMED, I. P., na Internet, que disponibiliza essa informação, através de meios eletrónicos, à Unidade Local de Saúde (ULS), à câmara municipal territorialmente competente e às associações representativas das farmácias.\n\n4 - (Revogado.)\n\n5 - Os períodos de funcionamento, diário e semanal, de todas as farmácias de oficina vigoram por um ou mais períodos coincidentes com cada um dos trimestres de cada ano civil e, durante cada trimestre, só podem ser modificados por motivos devidamente justificados.\n\n6 - Sempre que se justifique, as comunicações dos períodos de funcionamento diário e semanal da farmácia devem prever as variações impostas por motivos de sazonalidade.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633) O disposto no presente artigo relativamente aos períodos de funcionamento das farmácias de oficina para cada semestre de cada ano civil produz efeitos a partir do 2.º semestre de 2011.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "989163352": {
+   "fragment_id": "164866433",
+   "type": 11,
+   "heading": "Artigo 7.º — Divulgação",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+   ],
+   "markdown": "###### Artigo 7.º — Divulgação\n\n1 - As farmácias devem ter sempre afixado, em local visível, o horário de funcionamento, a linha de assistência farmacêutica e as escalas de assistência farmacêutica.\n\n2 - (Revogado.)\n\n3 - Sem prejuízo da obrigação prevista no n.º 1, as farmácias que se encontrem em assistência farmacêutica podem divulgar outros meios, para contacto pelos utentes, fora do respetivo período de funcionamento diário.\n\n4 - O Portal SNS e o INFARMED, I. P., divulgam, na sua página eletrónica, o horário de funcionamento das farmácias e as escalas de assistência farmacêutica.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+  },
+  "989163359": {
+   "fragment_id": "164866434",
+   "type": 11,
+   "heading": "Artigo 8.º — Turno de serviço permanente",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+   ],
+   "markdown": "###### Artigo 8.º — Turno de serviço permanente\n\nA farmácia de turno de serviço permanente mantém-se em funcionamento, ininterruptamente, desde a hora de abertura até à hora de encerramento do dia seguinte.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+  },
+  "989163353": {
+   "fragment_id": "164866436",
+   "type": 11,
+   "heading": "Artigo 10.º — Assistência farmacêutica",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+   ],
+   "markdown": "###### Artigo 10.º — Assistência farmacêutica\n\n1 - As farmácias estão obrigadas a participar nas escalas de assistência farmacêutica, com exceção das seguintes situações:\n\na) Se outra farmácia do mesmo município assegurar a realização das escalas de assistência farmacêutica;\n\nb) Se as escalas de assistência farmacêutica incluírem uma farmácia do mesmo município com um período de funcionamento diário que lhe permita estar aberta 24 horas por dia, todos os dias da semana;\n\nc) Se a farmácia estiver situada a uma distância igual ou inferior a dois quilómetros, contados em linha reta, de uma farmácia de município limítrofe com um período de funcionamento diário que lhe permita estar aberta 24 horas por dia, todos os dias da semana.\n\n2 - Nas situações previstas no número anterior, as farmácias que constam das escalas de assistência farmacêutica são, consoante o caso, a farmácia de substituição ou a farmácia aberta 24 horas por dia, todos os dias da semana.\n\n3 - A farmácia em assistência farmacêutica tem de assegurar o atendimento ao público que o solicite, em caso de urgência, através dos meios previstos no presente decreto-lei.\n\n4 - A farmácia em assistência farmacêutica permanente tem de assegurar o atendimento ao público nas suas instalações de forma presencial e ininterrupta.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+  },
+  "989163361": {
+   "fragment_id": "989382405",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Linha de assistência",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+   ],
+   "markdown": "###### Artigo 10.º-A — Linha de assistência\n\nPara efeitos do disposto na alínea a) do n.º 1 do artigo 11.º, as associações representativas de farmácias asseguram, através da disponibilização de uma linha telefónica gratuita, a informação aos utentes sobre quais as farmácias mais próximas para prestar assistência farmacêutica.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+  },
+  "989163362": {
+   "fragment_id": "164866437",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios mínimos",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 11.º — Critérios mínimos\n\n1 - A assistência farmacêutica deve respeitar os seguintes critérios mínimos:\n\na) Nos municípios sem serviços de urgência do Serviço Nacional de Saúde (SNS), de unidades privadas ou do setor social, onde existam quatro ou menos farmácias e que apresentem uma capitação inferior a 2500 habitantes por farmácia, deve existir uma farmácia em assistência farmacêutica após a sua hora normal de encerramento e duas horas após o horário de encerramento da unidade de saúde localizada no município e, entre o termo daquele período e as 9 horas do dia seguinte, através da farmácia mais próxima que presta assistência farmacêutica, indicada nos termos previstos no artigo 10.º-A;\n\nb) Nos municípios sem serviços de urgência do SNS, de unidades privadas ou do setor social, onde existam mais de quatro farmácias ou que apresentem uma capitação igual ou superior a 2500 habitantes por farmácia, deve existir uma farmácia em assistência farmacêutica, entre a hora de encerramento dessas farmácias e as 9 horas do dia seguinte;\n\nc) Nos municípios, com serviços de urgência básica do SNS, bem como com serviços de urgência médico-cirúrgica ou serviços de urgência polivalente, também do SNS, e ainda nos municípios com serviços de urgência ou atendimento permanente de unidades privadas e do setor social, deve existir uma farmácia em assistência farmacêutica permanente, exceto se o número de habitantes no município for superior a 100 000, caso em que devem existir duas farmácias em assistência farmacêutica permanente, acrescendo uma farmácia para cada mais 100 000 habitantes;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\n2 - Para efeitos de preenchimento dos critérios mínimos previstos no número anterior, são consideradas em assistência farmacêutica as farmácias que tenham um período de funcionamento diário que lhes permita estar abertas 24 horas por dia, todos os dias da semana, devendo por isso constar das escalas de assistência farmacêutica.\n\n3 - Sem prejuízo do cumprimento dos critérios mínimos previstos no n.º 1, a assistência farmacêutica fora do período de funcionamento pode ser alargada por razões associadas a sazonalidade ou outros eventos, devendo este alargamento estar previsto no âmbito da elaboração das escalas.\n\n4 - A determinação do número de habitantes é feita em função dos dados disponibilizados pelo Instituto Nacional de Estatística, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172/2012 - Diário da República n.º 148/2012, Série I de 2012-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2012-179071), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "989163363": {
+   "fragment_id": "164866438",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de dispensa",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 12.º — Regime de dispensa\n\n1 - A farmácia em assistência farmacêutica não pode recusar a dispensa de medicamentos, nem a dispensa de produtos prescritos em receita médica, salvo nos casos expressamente previstos na lei.\n\n2 - A farmácia em assistência farmacêutica não pode exigir qualquer acréscimo de pagamento quando dispense medicamentos e outros produtos prescritos em receita médica datada do próprio dia ou do dia anterior.\n\n3 - Nas situações não compreendidas no número anterior, o funcionamento da farmácia em assistência farmacêutica pode originar um acréscimo no pagamento cujo valor máximo é fixado por portaria do membro do Governo responsável pela área da saúde.\n\n4 - A farmácia em assistência farmacêutica deve, nas situações compreendidas no número anterior, informar previamente o utente sobre a existência do acréscimo no pagamento e os fundamentos que o justificam, antes da conclusão da compra do medicamento ou produto.\n\n5 - O funcionamento das farmácias nos termos previstos no n.º 2 do artigo 4.º não origina qualquer acréscimo de pagamento na dispensa dos medicamentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "989163364": {
+   "fragment_id": "164866439",
+   "type": 11,
+   "heading": "Artigo 13.º — Contra-ordenações",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 13.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima de (euro) 1000 a (euro) 3740,98:\n\na) A violação do n.º 2 do artigo 2.º;\n\nb) O funcionamento da farmácia em período que não cumpra o estabelecido na portaria prevista no n.º 1 do artigo 4.º;\n\nc) A não observância da comunicação referida no artigo 6.º;\n\nd) A não afixação do horário de funcionamento nos termos do n.º 1 do artigo 7.º;\n\ne) A violação dos n.os 1, 2 e 4 do artigo 12.º\n\n2 - Podem ser aplicadas, em simultâneo com as coimas previstas no número anterior, as sanções acessórias de encerramento do estabelecimento e de suspensão do alvará.\n\n3 - O processamento das contra-ordenações e a aplicação das coimas competem ao INFARMED.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "989163365": {
+   "fragment_id": "164866440",
+   "type": 11,
+   "heading": "Artigo 14.º — Escalas de assistência farmacêutica",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+   ],
+   "markdown": "###### Artigo 14.º — Escalas de assistência farmacêutica\n\n1 - As escalas de assistência farmacêutica são elaboradas pelas associações representativas das farmácias de acordo com os critérios mínimos previstos no artigo 11.º, e pareceres emitidos pelas ULS territorialmente competentes, ouvidos os municípios relevantes, nos termos a definir pela portaria mencionada no artigo seguinte.\n\n2 - Na elaboração das escalas de assistência farmacêutica, as associações representativas das farmácias devem ter em consideração todas as farmácias existentes, independentemente de serem ou não suas associadas.\n\n3 - Quando não exista acordo entre as associações representativas das farmácias quanto à organização das escalas de assistência farmacêutica, incumbe ao INFARMED, I. P., elaborar e aprovar a escala aplicável.\n\n4 - Excecionalmente, sempre que se verifique que as escalas elaboradas nos termos previstos no n.º 1 não asseguram a adequada cobertura farmacêutica das populações e têm impacto na saúde pública ou por razões associadas a sazonalidade ou outros eventos que possam justificar o aumento da assistência farmacêutica, o INFARMED, I. P., pode determinar a sua alteração através do alargamento da cobertura, ainda que tal alargamento se verifique apenas em alguns períodos diários e em alguns dias, semanas ou meses.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2011 - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2011-485633), em vigor a partir de 2011-01-15"
+  },
+  "989163366": {
+   "fragment_id": "164866441",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": "2025-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+   ],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\nO procedimento de elaboração, duração, execução, divulgação e fiscalização das escalas de assistência farmacêutica é objeto de regulamentação por portaria do membro do Governo responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2025 - Diário da República n.º 242/2025, Série I de 2025-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2025-989282074), em vigor a partir de 2025-12-22"
+  },
+  "989163367": {
+   "fragment_id": "164866442",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições transitórias\n\nO artigo 4.º entra em vigor 60 dias após a publicação do presente decreto-lei."
+  },
+  "989163368": {
+   "fragment_id": "164866443",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Fernando Correia de Campos.\n\nPromulgado em 22 de Fevereiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 23 de Fevereiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

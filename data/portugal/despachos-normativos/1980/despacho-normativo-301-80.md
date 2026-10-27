@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:460978:por
+title: Despacho Normativo n.º 301/80
+short_title: null
+summary: Autoriza o LNETI a celebrar os contratos necessários para a concretização dos projectos de construção do laboratório
+  no Lumiar
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Indústria e Energia - Gabinete do Ministro
+proposing_entity: null
+official_number: 301/80
+official_date: null
+publication_date: '1980-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 213/1980, Série I de 1980-09-15
+  number: '213'
+  series: I
+  supplement: null
+  pages: 2654 - 2655
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21300/26542655.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '460978'
+  dre_path: /dr/detalhe/despacho-normativo/301-1980-460978
+  internal: pt:dre:460978:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/301-1980-460978
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/301-1980-460978
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:03:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5f63eb56d07ceff1f36192521ebc8b6a805f7693ca24514fd485cd7c70391312
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:03:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:03:30Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 301/80
+
+Tendo em conta o acordo celebrado entre os Governos de Portugal e Noruega, a 10.ª Reunião da Comissão Mista Económica Luso-Norueguesa, realizada em Alesund, deliberou promover diversos esquemas de cooperação económica entre os dois países, para os quais se encontram já previstos financiamentos através de adequadas linhas de crédito e donativos do Governo Norueguês.
+
+Entre os esquemas em curso, no âmbito do Ministério da Indústria e Energia, tem relevante importância o plano de construção de um laboratório de engenharia e investigação industrial, o equipamento de um centro de dados e um esquema de formação de pessoal técnico português.
+
+Torna-se agora necessário autorizar o Laboratório Nacional de Engenharia e Tecnologia Industrial (LNETI) a celebrar os contratos necessários à concretização dos projectos, com vista a não atrasar a obtenção de resultados de estudos e trabalhos preparatórios já feitos, tendo muito embora em conta que a aprovação e publicação de um orçamento de programas para o projecto ou os orçamentos privativos do LNETI, acompanhados dos despachos ou resoluções necessários, definirão o enquadramento técnico-legal completo para a sua adequada e global implementação.
+
+Nestes termos, e até ao limite da minha competência, autorizo e determino que:
+
+a) O LNETI celebre com o Det Norske Veritas contratos para a construção do laboratório no Lumiar para assistência na definição de programas e funções do referido laboratório e para treino e preparação do pessoal do LNETI na Noruega e para organização de seminários relacionados com o desenvolvimento tecnológico e industrial com a participação de entidades portuguesas e norueguesas, contratos cujo texto merece a minha aprovação;
+
+b) O LNETI celebre com o Norske Data A. S., Oslo, um contrato para manutenção e instalação de um «Nord System Computer», cujo texto merece a minha aprovação;
+
+c) O LNETI celebre com a firma A. S. Computas, de Oslo, um acordo de assistência no desenvolvimento de um centro de informática, cujo texto merece a minha aprovação;
+
+d) Nos termos do artigo 7.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, seja dispensada a realização de concurso público ou limitado para qualquer dos contratos enunciados nas alíneas anteriores;
+
+e) Em representação do LNETI, na outorga do contrato, intervenha o Prof. José Veiga Simão, como presidente do LNETI, e como oficial público o director dos Serviços Administrativos do LNETI, Dr. Carlos Costa Guerra de Oliveira.
+
+Ministérios da Indústria e Energia, 22 de Julho de 1980. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.

@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:377970:por
+title: Decreto-Lei n.º 268/88
+short_title: null
+summary: Ajusta as taxas de bonificações de juros nas linhas de crédito aos municípios
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 268/88
+official_date: null
+publication_date: '1988-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/1988, Série I de 1988-08-01
+  number: '176'
+  series: I
+  supplement: null
+  pages: 3164 - 3164
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/08/17600/31643164.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '377970'
+  dre_path: /dr/detalhe/decreto-lei/268-1988-377970
+  internal: pt:dre:377970:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1988-377970
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1988-377970
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2cc3190e134d67747d298e9e6ebb7354c457784678bb2cfae972eb8585842dc1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- JURO Bonificado
+- TAXA de JURO
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:375631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630632:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:41:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 268/88
+
+de 1 de Agosto
+
+Perante as graves carências na satisfação de necessidades básicas das populações e uma vez constatada a incapacidade de os municípios poderem supri-las pelo simples recurso aos meios financeiros de que actualmente dispõem, mesmo tendo em conta as transferências de verbas realizadas ao abrigo da Lei das Finanças Locais, os sucessivos governos foram criando diversas linhas de crédito para a realização de infra-estruturas municipais.
+
+Como regra, os empréstimos integrados em tais linhas de crédito beneficiam de uma bonificação de 4% ao ano atribuída pelo Estado através de decreto-lei, e bem assim de uma bonificação da Caixa Geral de Depósitos, prevista e regulada nos respectivos protocolos de execução.
+
+Os protocolos de execução admitem a eventual revisão das bonificações, designadamente no caso de a sua soma vir a ser superior à taxa líquida a cargo dos municípios.
+
+Tendo em conta que tal situação já se verifica neste momento, no âmbito da linha de crédito criada pelo [Decreto-Lei n.º 463/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1983-630632), de 31 de Dezembro, torna-se necessário adoptar as medidas adequadas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º As bonificações a favor de municípios, previstas nos Decretos-Leis n.os [242/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1980-472358), de 21 de Julho, [369/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1982-375631), de 10 de Setembro, [463/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1983-630632), de 31 de Dezembro, [153/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1984-384058), de 16 de Maio, e [138/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1984-385042), de 7 de Maio, passam a ser reguladas da seguinte forma:
+
+a) O Estado concede uma bonificação à taxa de juro contratual dos empréstimos integrados nas linhas de crédito previstas nestes diplomas, até ao limite máximo de 4%;
+
+b) A Caixa Geral de Depósitos concede igualmente uma bonificação à taxa de juro desses empréstimos, a fixar de acordo com as regras constantes dos protocolos das linhas de crédito e suas alterações.
+
+Art. 2.º A taxa de juro líquida a cargo dos municípios não pode ser inferior à soma as bonificações.
+
+Art. 3.º A variação das taxas de bonificação abaixo dos limites fixados no artigo 1.º será regulada através de protocolo a celebrar entre as entidades bonificadoras, o qual deve ser homologado mediante despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território.
+
+Art. 4.º O disposto no presente decreto-lei produz efeitos nos períodos de contagem de juros iniciados a partir de 16 de Outubro de 1987, inclusive.
+
+Visto e aprovado em Conselho de Ministros de 23 de Junho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
+
+Promulgado em 18 de Julho de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 18 de Julho de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

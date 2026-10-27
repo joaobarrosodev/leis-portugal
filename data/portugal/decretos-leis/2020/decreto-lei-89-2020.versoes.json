@@ -1,0 +1,187 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145589081:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-153025659",
+ "dre_path": "/dr/detalhe/decreto-lei/89-2020-145589081",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-10-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202233922",
+    "153136705",
+    "153136706",
+    "153136707",
+    "153136708"
+   ]
+  },
+  {
+   "date": "2020-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639821:por",
+     "title": "Decreto-Lei n.º 106-A/2020",
+     "published": "2020-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/106-a-2020-152639821"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "153136704",
+    "153136705",
+    "153136710",
+    "153136707",
+    "153136708",
+    "153136709"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202233922",
+    "202233923",
+    "202233924",
+    "202233925",
+    "202233926",
+    "202233927"
+   ]
+  }
+ ],
+ "fragments": {
+  "202233922": {
+   "fragment_id": "153025660",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 89/2020\n\nde 16 de outubro\n\nSumário: Estabelece um regime excecional de constituição de relações jurídicas de emprego na área da saúde.\n\nA epidemia de SARS-CoV-2 e as medidas adequadas a assegurar a prevenção, contenção, mitigação e tratamento da COVID-19 vieram aumentar a necessidade de resposta do Serviço Nacional de Saúde (SNS), e, consequentemente, exigir o reforço de profissionais de saúde.\n\nNesse sentido, o Governo adotou um conjunto de medidas excecionais e temporárias de resposta a esta pandemia, através do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, designadamente em matéria de recursos humanos, e, entre elas, a possibilidade de contratação de trabalhadores para os órgãos, organismos, serviços e demais entidades, incluindo o setor público empresarial do Ministério da Saúde, mediante a constituição de vínculos de emprego a termo.\n\nO objetivo de reforço dos profissionais de saúde e melhoria de resposta no SNS havia já sido assumido pelo Governo, através da Resolução do Conselho de Ministros n.º 198/2019, de 27 de dezembro, que aprovou o quadro de referência para novos recrutamentos, fixando o número de até 8400 profissionais de saúde, em 2020 e 2021, distribuídos por todos os grupos profissionais.\n\nPor sua vez, através da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, que aprovou o Programa de Estabilização Económica e Social, previu-se a constituição de 2995 relações jurídicas de emprego no contexto de pandemia, sem prejuízo de contratações de profissionais de saúde ao abrigo de procedimentos concursais específicos, destinados a colmatar as necessidades de prestação direta de cuidados e de prestação de serviços de suporte, sempre que possível, conferindo estabilidade no emprego.\n\nRealça-se que o Programa do XXII Governo Constitucional assume o compromisso de adoção de medidas tendentes a garantir a qualidade e estabilidade laborais e a promover a melhoria das condições de trabalho no SNS, pelo que o presente decreto-lei estabelece um regime excecional de contratação aplicável às relações jurídicas de emprego constituídas ao abrigo do regime previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, e cujo limite legal de renovações seja atingido até ao final do mês de dezembro de 2020.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "153136705": {
+   "fragment_id": "153025661",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime excecional de constituição de relações jurídicas de emprego sem termo ou por tempo indeterminado nos órgãos, organismos, serviços e demais entidades, incluindo o setor público empresarial do Ministério da Saúde, para a prestação direta de cuidados de saúde e para a prestação de serviços de suporte."
+  },
+  "153136706": {
+   "fragment_id": "153025662",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se às relações jurídicas de emprego constituídas ao abrigo do regime previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, que perfaçam a duração de oito meses até ao final do mês de dezembro de 2020, até ao limite do número total de trabalhadores previsto no quadro do ponto 3.1.2 da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, sem prejuízo do disposto no n.º 2 do artigo seguinte."
+  },
+  "153136707": {
+   "fragment_id": "153025663",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime excecional\n\n1 - A conversão em contratos de trabalho sem termo dos contratos que tenham sido celebrados ao abrigo do regime previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, por entidades do setor público empresarial, é autorizada por despacho do membro do Governo responsável pela área da saúde, sob proposta devidamente fundamentada do órgão máximo de gestão, de onde resulte:\n\na) A correspondência das funções exercidas pelos trabalhadores a necessidades permanentes das respetivas entidades;\n\nb) A existência de lugares disponíveis no mapa de pessoal da entidade; e,\n\nc) A verificação do número máximo de renovações contratuais legalmente permitidas.\n\n2 - A celebração dos contratos de trabalho em funções públicas por tempo indeterminado com trabalhadores que, à data de entrada em vigor do presente decreto-lei se encontrem em exercício de funções nos órgãos, organismos, serviços e demais entidades do Ministério da Saúde, ao abrigo do regime excecional de contratação previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, é precedida de procedimento concursal, a que podem também ser opositores outros trabalhadores com e sem vínculo de emprego público previamente constituído, sem prejuízo do recurso a reservas de recrutamento constituídas em anteriores procedimentos concursais e desde que observados os requisitos legalmente previstos.\n\n3 - A abertura dos procedimentos concursais a que se refere o número anterior é autorizada pelo membro do Governo responsável pela área da saúde, no prazo máximo de 30 dias a contar do levantamento das necessidades permanentes das entidades, órgãos e serviços a que se refere o n.º 7, após verificação pelo dirigente máximo da entidade:\n\na) Da correspondência das funções exercidas pelos trabalhadores a necessidades permanentes das respetivas entidades;\n\nb) Da existência de lugares disponíveis no mapa de pessoal da entidade.\n\n4 - Os procedimentos concursais referidos nos n.os 2 e 3 são abertos no prazo máximo de 10 dias a contar da respetiva autorização.\n\n5 - Os contratos a celebrar nos termos dos números anteriores são efetivados na primeira posição remuneratória aplicável à carreira e até ao limite do número total de trabalhadores previsto no quadro do ponto 3.1.2 da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho.\n\n6 - Sem prejuízo do disposto no número anterior, no caso da carreira de técnico superior do regime geral, o recrutamento de licenciados faz-se para a segunda posição remuneratória da respetiva tabela.\n\n7 - Para efeitos dos números anteriores é desenvolvido, no prazo de 30 dias a contar da entrada em vigor do presente decreto-lei, pela Administração Central do Sistema de Saúde, I. P., em articulação com as Administrações Regionais de Saúde, I. P., um levantamento das necessidades permanentes das entidades, órgãos e serviços.\n\n8 - A tramitação dos procedimentos concursais referidos no n.º 2 é regulamentada por portaria do membro do Governo responsável pela área da saúde.\n\n9 - Sem prejuízo do disposto no n.º 2, os contratos de trabalho em funções públicas a termo resolutivo certo em execução à data de entrada em vigor do presente decreto-lei, consideram-se automaticamente renovados até ao termo dos referidos procedimentos concursais, sem sujeição a limite máximo de renovações."
+  },
+  "153136708": {
+   "fragment_id": "153025664",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "153136704": {
+   "fragment_id": "153025660",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 89/2020\n\nde 16 de outubro\n\nSumário: Estabelece um regime excecional de constituição de relações jurídicas de emprego na área da saúde.\n\nA epidemia de SARS-CoV-2 e as medidas adequadas a assegurar a prevenção, contenção, mitigação e tratamento da COVID-19 vieram aumentar a necessidade de resposta do Serviço Nacional de Saúde (SNS), e, consequentemente, exigir o reforço de profissionais de saúde.\n\nNesse sentido, o Governo adotou um conjunto de medidas excecionais e temporárias de resposta a esta pandemia, através do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, designadamente em matéria de recursos humanos, e, entre elas, a possibilidade de contratação de trabalhadores para os órgãos, organismos, serviços e demais entidades, incluindo o setor público empresarial do Ministério da Saúde, mediante a constituição de vínculos de emprego a termo.\n\nO objetivo de reforço dos profissionais de saúde e melhoria de resposta no SNS havia já sido assumido pelo Governo, através da Resolução do Conselho de Ministros n.º 198/2019, de 27 de dezembro, que aprovou o quadro de referência para novos recrutamentos, fixando o número de até 8400 profissionais de saúde, em 2020 e 2021, distribuídos por todos os grupos profissionais.\n\nPor sua vez, através da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, que aprovou o Programa de Estabilização Económica e Social, previu-se a constituição de 2995 relações jurídicas de emprego no contexto de pandemia, sem prejuízo de contratações de profissionais de saúde ao abrigo de procedimentos concursais específicos, destinados a colmatar as necessidades de prestação direta de cuidados e de prestação de serviços de suporte, sempre que possível, conferindo estabilidade no emprego.\n\nRealça-se que o Programa do XXII Governo Constitucional assume o compromisso de adoção de medidas tendentes a garantir a qualidade e estabilidade laborais e a promover a melhoria das condições de trabalho no SNS, pelo que o presente decreto-lei estabelece um regime excecional de contratação aplicável às relações jurídicas de emprego constituídas ao abrigo do regime previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, e cujo limite legal de renovações seja atingido até ao final do mês de dezembro de 2020.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "153136710": {
+   "fragment_id": "153025662",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2020-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se às relações jurídicas de emprego constituídas ao abrigo do regime previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, que perfaçam a duração de oito meses até ao final do mês de março de 2021, até ao limite do número total de trabalhadores previsto no quadro do ponto 3.1.2 da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, sem prejuízo do disposto no n.º 2 do artigo seguinte.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+  },
+  "153136709": {
+   "fragment_id": "153025665",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de outubro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Miguel Jorge de Campos Cruz. - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 7 de outubro de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 9 de outubro de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113629922"
+  },
+  "202233923": {
+   "fragment_id": "153025661",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um regime excecional de constituição de relações jurídicas de emprego sem termo ou por tempo indeterminado nos órgãos, organismos, serviços e demais entidades, incluindo o setor público empresarial do Ministério da Saúde, para a prestação direta de cuidados de saúde e para a prestação de serviços de suporte.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202233924": {
+   "fragment_id": "153025662",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se às relações jurídicas de emprego constituídas ao abrigo do regime previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, que perfaçam a duração de oito meses até ao final do mês de março de 2021, até ao limite do número total de trabalhadores previsto no quadro do ponto 3.1.2 da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, sem prejuízo do disposto no n.º 2 do artigo seguinte.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31"
+  },
+  "202233925": {
+   "fragment_id": "153025663",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime excecional",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Regime excecional\n\n1 - A conversão em contratos de trabalho sem termo dos contratos que tenham sido celebrados ao abrigo do regime previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, por entidades do setor público empresarial, é autorizada por despacho do membro do Governo responsável pela área da saúde, sob proposta devidamente fundamentada do órgão máximo de gestão, de onde resulte:\n\na) A correspondência das funções exercidas pelos trabalhadores a necessidades permanentes das respetivas entidades;\n\nb) A existência de lugares disponíveis no mapa de pessoal da entidade; e,\n\nc) A verificação do número máximo de renovações contratuais legalmente permitidas.\n\n2 - A celebração dos contratos de trabalho em funções públicas por tempo indeterminado com trabalhadores que, à data de entrada em vigor do presente decreto-lei se encontrem em exercício de funções nos órgãos, organismos, serviços e demais entidades do Ministério da Saúde, ao abrigo do regime excecional de contratação previsto no n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, é precedida de procedimento concursal, a que podem também ser opositores outros trabalhadores com e sem vínculo de emprego público previamente constituído, sem prejuízo do recurso a reservas de recrutamento constituídas em anteriores procedimentos concursais e desde que observados os requisitos legalmente previstos.\n\n3 - A abertura dos procedimentos concursais a que se refere o número anterior é autorizada pelo membro do Governo responsável pela área da saúde, no prazo máximo de 30 dias a contar do levantamento das necessidades permanentes das entidades, órgãos e serviços a que se refere o n.º 7, após verificação pelo dirigente máximo da entidade:\n\na) Da correspondência das funções exercidas pelos trabalhadores a necessidades permanentes das respetivas entidades;\n\nb) Da existência de lugares disponíveis no mapa de pessoal da entidade.\n\n4 - Os procedimentos concursais referidos nos n.os 2 e 3 são abertos no prazo máximo de 10 dias a contar da respetiva autorização.\n\n5 - Os contratos a celebrar nos termos dos números anteriores são efetivados na primeira posição remuneratória aplicável à carreira e até ao limite do número total de trabalhadores previsto no quadro do ponto 3.1.2 da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho.\n\n6 - Sem prejuízo do disposto no número anterior, no caso da carreira de técnico superior do regime geral, o recrutamento de licenciados faz-se para a segunda posição remuneratória da respetiva tabela.\n\n7 - Para efeitos dos números anteriores é desenvolvido, no prazo de 30 dias a contar da entrada em vigor do presente decreto-lei, pela Administração Central do Sistema de Saúde, I. P., em articulação com as Administrações Regionais de Saúde, I. P., um levantamento das necessidades permanentes das entidades, órgãos e serviços.\n\n8 - A tramitação dos procedimentos concursais referidos no n.º 2 é regulamentada por portaria do membro do Governo responsável pela área da saúde.\n\n9 - Sem prejuízo do disposto no n.º 2, os contratos de trabalho em funções públicas a termo resolutivo certo em execução à data de entrada em vigor do presente decreto-lei, consideram-se automaticamente renovados até ao termo dos referidos procedimentos concursais, sem sujeição a limite máximo de renovações.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202233926": {
+   "fragment_id": "153025664",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202233927": {
+   "fragment_id": "153025665",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de outubro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Miguel Jorge de Campos Cruz. - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 7 de outubro de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 9 de outubro de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113629922\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

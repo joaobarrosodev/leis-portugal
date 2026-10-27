@@ -1,0 +1,350 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:498539:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-207001802",
+ "dre_path": "/dr/detalhe/portaria/242-2013-498539",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-08-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206896641",
+    "206896642",
+    "206896643",
+    "206896644",
+    "206896645",
+    "206896646",
+    "206896647",
+    "206896648",
+    "206896649",
+    "206896650",
+    "206896651",
+    "206896652",
+    "206896653",
+    "206896654",
+    "206896655",
+    "206896656",
+    "206896657",
+    "206896658",
+    "206896659",
+    "206896660",
+    "206896661",
+    "206896662",
+    "206896663"
+   ]
+  },
+  {
+   "date": "2023-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207062782:por",
+     "title": "Portaria n.º 39/2023",
+     "published": "2023-02-06",
+     "dre_path": "/dr/detalhe/portaria/39-2023-207062782"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "206896641",
+    "206896642",
+    "206896643",
+    "206896644",
+    "206896645",
+    "206896646",
+    "206896665",
+    "206896666",
+    "206896667",
+    "206896668",
+    "206896669",
+    "206896670",
+    "206896647",
+    "206896648",
+    "206896649",
+    "206896650",
+    "206896651",
+    "206896652",
+    "206896653",
+    "206896654",
+    "206896655",
+    "206896656",
+    "206896657",
+    "206896658",
+    "206896659",
+    "206896660",
+    "206896661",
+    "207110276",
+    "207110277",
+    "206896664"
+   ]
+  }
+ ],
+ "fragments": {
+  "206896641": {
+   "fragment_id": "207001803",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 242/2013\n\nde 2 de agosto\n\nA atividade de voluntariado constitui um instrumento eficaz de desenvolvimento pessoal, social e formativo dos jovens, traduzindo a sua livre vontade de agir de forma desinteressada, comprometida e altruísta em benefício de uma comunidade.\n\nÉ hoje pacífica a tomada de consciência de que as atividades nas áreas ambiental, da saúde, cultural, desportiva e social, entre outras, representam espaços importantes da cidadania e do quotidiano dos indivíduos, sendo simultaneamente relevantes na aquisição de saberes junto dos públicos juvenis.\n\nEnquanto espaços de aquisição de saberes, as atividades de voluntariado devem ser reconhecidas e certificadas para que esta aquisição de saberes possa ser legitimada pela sociedade como uma mais-valia para o enriquecimento pessoal e curricular.\n\nTem o Instituto Português do Desporto e Juventude, I.P., comprovado a significativa adesão de jovens a projetos de voluntariado, adesão que tem procurado enquadrar e orientar, no exercício da sua missão estatutária.\n\nPorém, importa que este enquadramento e esta orientação sejam sustentados por um quadro normativo especificamente regulador do voluntariado jovem, inspirado, naturalmente, nas referências inscritas na Lei n.º 71/98, de 3 de novembro, e no Decreto-Lei n.º 389/99, de 30 de setembro, no qual os direitos e os deveres de todos os intervenientes sejam devidamente enunciados.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado do Desporto e Juventude, ao abrigo do artigo 3.º e das alíneas a) e e) do n.º 3 do artigo 4.º do Decreto-Lei n.º 98/2011, de 21 de setembro, o seguinte:"
+  },
+  "206896642": {
+   "fragment_id": "207001804",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ criado o Programa Agora Nós, com os objetivos de promover e estimular a prática de voluntariado, como meio de aquisição de competências."
+  },
+  "206896643": {
+   "fragment_id": "207001805",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo de entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo de entidades promotoras\n\nÉ criado o registo de entidades promotoras de atividades de voluntariado jovem, instrumento que integra o Programa Agora Nós."
+  },
+  "206896644": {
+   "fragment_id": "207001806",
+   "type": 11,
+   "heading": "Artigo 3.º — Aprovação do Regulamento do Programa Agora Nós",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aprovação do Regulamento do Programa Agora Nós\n\nÉ aprovado em anexo à presente portaria, da qual faz parte integrante, o regulamento do Programa Agora Nós."
+  },
+  "206896645": {
+   "fragment_id": "207001807",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão do Programa Agora Nós",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão do Programa Agora Nós\n\nA gestão do Programa Agora Nós é feita pelo Instituto Português do Desporto e Juventude, I.P."
+  },
+  "206896646": {
+   "fragment_id": "207001808",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação."
+  },
+  "206896647": {
+   "fragment_id": "207001809",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo de entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo de entidades promotoras\n\nAs entidades promotoras do Programa constam de um registo nacional de entidades aptas para a coordenação de atividades de voluntariado jovem, organizado pelo IPDJ, I.P."
+  },
+  "206896648": {
+   "fragment_id": "207001810",
+   "type": 11,
+   "heading": "Artigo 7.º — Plataforma informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Plataforma informática\n\n1 - No âmbito do Programa, compete ao IPDJ, I.P., a constituição, a gestão e a disponibilização de uma plataforma informática que constitua um espaço de acesso e partilha de informações, através da Internet, entre entidades promotoras e jovens voluntários.\n\n2 - São disponibilizadas na plataforma informática, entre outras, as seguintes informações:\n\na) Registo identificativo das entidades promotoras de voluntariado jovem;\n\nb) Registo de ações;\n\nc) Validação de entidades promotoras e ações;\n\nd) Registo identificativo de jovens voluntários - Banco de Voluntariado Jovem IPDJ, I.P.;\n\ne) Candidatura dos jovens voluntários às ações;\n\nf) Relatório de avaliação;\n\ng) Plano de oferta formativa para os jovens voluntários;\n\nh) Módulos estatísticos.\n\n3 - A plataforma informática disponibiliza a informação referida no número anterior nos idiomas de português e inglês."
+  },
+  "206896649": {
+   "fragment_id": "207001811",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação\n\n1 - No âmbito do Programa, o IPDJ, I.P., assegura, por despacho do Conselho Diretivo, a definição e realização anual de um Plano de Formação Geral na área do voluntariado e a realização de um Plano de Formação Complementar, nas áreas de intervenção mencionadas no artigo 2.º, destinado a jovens que tenham cumprido um mínimo de 200 horas de voluntariado, até aos limites orçamentais definidos.\n\n2 - Os Planos de Formação anuais são devidamente publicitados pelo IPDJ, I.P., na plataforma informática referido no artigo anterior e no Portal da Juventude."
+  },
+  "206896650": {
+   "fragment_id": "207001812",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo de ações\n\n1 - O registo de ações no âmbito do Programa é formalizado na plataforma informática referida no artigo 7.º, com a antecedência mínima sobre o início previsto, de:\n\na) 30 dias, para ações de curta duração que envolvam até 100 voluntários, inclusive;\n\nb) 40 dias, para ações de curta duração que envolvam mais de 100 voluntários;\n\nc) 40 dias, para ações de longa duração que envolvam até 100 voluntários, inclusive;\n\nd) 50 dias, para ações de longa duração que envolvam mais de 100 voluntários.\n\n2 - O formulário de registo de ações integra ou é acompanhado dos seguintes elementos:\n\na) Comprovativo da natureza jurídica da entidade promotora;\n\nb) Designação e descrição da ação;\n\nc) Definição dos objetivos da ação;\n\nd) Local, data e horário de execução da ação;\n\ne) Dados da entidade promotora que comprovem as condições previstas no n.º 2 do artigo 5.º;\n\nf) Identificação completa da pessoa ou pessoas responsáveis pela execução da ação;\n\ng) Número de jovens voluntários a envolver;\n\nh) Requisitos específicos necessários à natureza das tarefas;\n\ni) Descrição das tarefas a desenvolver pelos jovens voluntários;\n\nj) Número previsto de voluntários coordenadores, de acordo com o previsto no artigo 16.º, com indicação do respetivo rácio por tarefa a desenvolver e por número de voluntários."
+  },
+  "206896651": {
+   "fragment_id": "207001813",
+   "type": 11,
+   "heading": "Artigo 10.º — Validação do registo de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Validação do registo de ações\n\nAs entidades promotoras são notificadas pelo IPDJ, I.P., da validação do registo de ações no prazo máximo de 5 dias úteis a contar da data de entrada das candidaturas nos serviços do IPDJ, I.P."
+  },
+  "206896652": {
+   "fragment_id": "207001814",
+   "type": 11,
+   "heading": "Artigo 11.º — Inscrição dos jovens voluntários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inscrição dos jovens voluntários\n\n1 - A inscrição dos jovens voluntários no âmbito do Programa é realizada na plataforma informática referida no artigo 7.º, em formulário próprio do qual constam, pelo menos, as informações sobre dados pessoais, disponibilidade, experiência em projetos de voluntariado e formação na área do voluntariado.\n\n2 - Os jovens que se candidatam à função de voluntário coordenador devem anexar ao formulário o respetivo Curriculum Vitae."
+  },
+  "206896653": {
+   "fragment_id": "207001815",
+   "type": 11,
+   "heading": "Artigo 12.º — Seleção dos jovens voluntários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Seleção dos jovens voluntários\n\n1 - Os jovens voluntários são selecionados tendo em conta os requisitos específicos das ações.\n\n2 - No processo de seleção serão utilizados como critérios de desempate:\n\na) Maior número de horas de formação na área do voluntariado;\n\nb) Data de entrada da candidatura na plataforma informática.\n\n3 - Para a participação em ações de longa duração, os jovens voluntários devem ter realizado formação geral na área do voluntariado com uma duração mínima de 5 horas."
+  },
+  "206896654": {
+   "fragment_id": "207001816",
+   "type": 11,
+   "heading": "Artigo 13.º — Colocação dos jovens voluntários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Colocação dos jovens voluntários\n\n1 - O IPDJ, I.P., comunica aos jovens voluntários a sua afetação a determinada ação bem como toda a informação necessária à respetiva participação.\n\n2 - Os jovens voluntários devem confirmar ao IPDJ, I.P., a sua aceitação, com a antecedência mínima de cinco dias úteis relativamente ao início das ações para que foram selecionados."
+  },
+  "206896655": {
+   "fragment_id": "207001817",
+   "type": 11,
+   "heading": "Artigo 14.º — Direitos dos jovens voluntários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direitos dos jovens voluntários\n\nOs jovens voluntários têm direito, durante o período de prestação da sua atividade de voluntariado:\n\na) A um seguro que cubra acidentes pessoais e responsabilidade civil decorrente da atividade de voluntariado, nos termos das alíneas d) e e) do n.º 1 do artigo 18.º;\n\nb) A formação, de acordo com o previsto no artigo 8.º e na alínea i) do n.º 1 do artigo 18.º;\n\nc) Ao reembolso das despesas, inadiáveis e devidamente justificadas, nomeadamente, as inerentes à alimentação e transporte, em moldes e de acordo com montantes máximos a fixar pelas entidades promotoras;\n\nd) Aos demais direitos enunciados no artigo 7.º da Lei n.º 71/98, de 3 de novembro."
+  },
+  "206896656": {
+   "fragment_id": "207001818",
+   "type": 11,
+   "heading": "Artigo 15.º — Deveres dos jovens voluntários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Deveres dos jovens voluntários\n\nOs jovens voluntários devem, durante o período de prestação da sua atividade de voluntariado:\n\na) Atuar de forma responsável, diligente, isenta e solidária;\n\nb) Participar nas ações e programas de formação destinados ao correto desempenho da sua atividade de voluntário;\n\nc) Ter, para com as entidades promotoras e para com o público em geral, uma conduta que se caracterize pela urbanidade e simpatia, tendente a dignificar a imagem do voluntariado;\n\nd) Respeitar os demais deveres enunciados no artigo 8.º da Lei n.º 71/98, de 3 de novembro."
+  },
+  "206896657": {
+   "fragment_id": "207001819",
+   "type": 11,
+   "heading": "Artigo 16.º — Jovens Voluntários Coordenadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Jovens Voluntários Coordenadores\n\n1 - Para os efeitos da presente portaria, consideram-se jovens voluntários coordenadores, os jovens voluntários que, pelas suas características de liderança, capacidade de iniciativa, empatia e experiência na área, bem como pela sua disponibilidade, organizam, monitorizam e avaliam o trabalho dos voluntários.\n\n2 - Aplica-se à seleção dos jovens voluntários coordenadores o procedimento previsto no artigo 12.º do presente regulamento, complementado com avaliação curricular, e, se conveniente, com entrevista pessoal.\n\n3 - Os jovens voluntários coordenadores beneficiam dos direitos atribuídos por Lei e pelo presente regulamento aos jovens voluntários.\n\n4 - Os jovens voluntários coordenadores devem, durante o período de prestação da sua atividade:\n\na) Assegurar a ligação entre os jovens voluntários e as entidades promotoras;\n\nb) Manter a motivação das equipas de jovens voluntários;\n\nc) Dar conhecimento às entidades promotoras de quaisquer situações anómalas que constatem durante o período de realização das atividades de voluntariado."
+  },
+  "206896658": {
+   "fragment_id": "207001820",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos das entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direitos das entidades promotoras\n\nAs entidades promotoras têm direito a:\n\na) Beneficiar da atividade de jovens voluntários em ações de voluntariado validadas;\n\nb) Suspender ou excluir das suas ações de voluntariado, jovens voluntários que violem de forma grave e reiterada, disposições legais ou regulamentares reguladoras da atividade de voluntariado, ou cuja falta de assiduidade seja notória."
+  },
+  "206896659": {
+   "fragment_id": "207001821",
+   "type": 11,
+   "heading": "Artigo 18.º — Deveres das entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Deveres das entidades promotoras\n\n1 - As entidades promotoras devem:\n\na) Executar as ações de voluntariado, no âmbito do Programa, em conformidade com os projetos apresentados em fase de candidatura;\n\nb) Dar conhecimento ao IPDJ, I.P., das alterações ao plano de execução das ações;\n\nc) Facultar aos jovens voluntários os meios necessários à execução das ações;\n\nd) Contratar o seguro obrigatório a que se refere o artigo 16.º do Decreto-Lei n.º 389/99, de 30 de setembro;\n\ne) Contratar um seguro de responsabilidade civil, de cobertura da atividade dos jovens voluntários com um montante mínimo individual de cobertura adequado e proporcional ao tipo de atividade dos jovens voluntários;\n\nf) Enquadrar os jovens voluntários no seguro social voluntário, no caso de aqueles não se encontrarem abrangidos por um regime obrigatório de segurança social;\n\ng) Garantir o reembolso aos jovens voluntários das despesas, inadiáveis e devidamente justificadas, nomeadamente as inerentes a alimentação e transporte, em moldes e de acordo com os montantes fixados;\n\nh) Garantir que, no decurso das ações, no âmbito do Programa, os jovens voluntários estejam devidamente identificados, nos termos legais, devendo integrar essa identificação os logótipos do IPDJ, I.P., bem como do Programa;\n\ni) Garantir aos jovens voluntários formação específica para o desempenho das tarefas;\n\nj) Divulgar o Programa, de acordo com orientações fornecidas pelo IPDJ, I.P.;\n\nk) Emitir, a favor dos jovens voluntários, um certificado de participação que identifique o voluntário, a ação que desenvolveu, a duração em horas da mesma bem como as tarefas executadas e objetivos;\n\nl) Facultar ao IPDJ, I.P., os meios necessários ao acompanhamento das ações, disponibilizando o acesso aos locais de realização das mesmas e facilitando o contacto com os jovens voluntários;\n\nm) Comunicar ao IPDJ, I.P., a suspensão ou a exclusão previstas na alínea b) do artigo anterior, de forma escrita e devidamente fundamentada;\n\nn) Entregar ao IPDJ, I.P., no prazo máximo de 20 dias úteis após a conclusão das ações, o relatório de avaliação previsto na alínea f) do n.º 2 do artigo 7.º;\n\n2 - Caso o IPDJ, I.P., exerça diretamente a atividade de entidade promotora, nos termos do n.º 4 do artigo 5.º, é-lhe aplicável, com as devidas adaptações, o disposto no número anterior."
+  },
+  "206896660": {
+   "fragment_id": "207001822",
+   "type": 11,
+   "heading": "Artigo 19.º — Direitos do Instituto Português do Desporto e Juventude, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direitos do Instituto Português do Desporto e Juventude, I.P.\n\n1 - O IPDJ, I.P., enquanto entidade gestora do Programa, tem direito a:\n\na) Acompanhar a execução das ações no âmbito do presente Programa, podendo, para tal, aceder aos locais de realização das ações, contactar com os jovens voluntários e realizar quaisquer outras diligências que considere necessárias a tal acompanhamento;\n\nb) Solicitar à entidade promotora todas as informações escritas que considere necessárias para o acompanhamento da execução das ações no âmbito do presente Programa;\n\nc) Validar ou rejeitar o registo de ações pela entidade promotora dos termos do presente regulamento;\n\nd) Cancelar ações em curso, desde que se verifique grave e reiterado incumprimento, pela entidade promotora, das normas legais ou regulamentares reguladoras da atividade de voluntariado, e, em especial, dos direitos dos jovens voluntários.\n\n2 - O cancelamento de ações em curso, nos termos da alínea d) do número anterior, tem lugar na sequência de processo de averiguações sumário, instaurado e instruído pelo IPDJ, I.P., por forma escrita e com respeito do princípio do contraditório.\n\n3 - O processo de averiguações sumário a que se refere o número anterior deve estar concluído no prazo máximo de dez dias úteis posteriores à respetiva instauração.\n\n4 - O cancelamento de ações em curso, nos termos da alínea d) do n.º 1, determina a impossibilidade da entidade promotora registar qualquer ação na plataforma eletrónica referida no artigo 7.º pelo período de dois anos a contar da data da decisão, bem como o cancelamento de quaisquer ações já registadas."
+  },
+  "206896661": {
+   "fragment_id": "207001823",
+   "type": 11,
+   "heading": "Artigo 20.º — Deveres do Instituto Português do Desporto e Juventude, I.P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Deveres do Instituto Português do Desporto e Juventude, I.P.\n\nO IPDJ, I.P., enquanto entidade gestora do Programa, deve:\n\na) Divulgar pelas formas que entender convenientes o Programa, bem como as ações nele incluídas, com identificação das entidades promotoras;\n\nb) Prestar todas as informações relativas ao Programa que lhe sejam solicitadas;\n\nc) Disponibilizar os impressos, formulários e modelos de certificado de participação previstos no presente regulamento;\n\nd) Selecionar os jovens voluntários, de acordo com o disposto no presente regulamento;\n\ne) Selecionar os Voluntários Coordenadores, de acordo com o disposto no presente regulamento;\n\nf) Ministrar formação aos jovens voluntários, nos termos do artigo 8.º do presente regulamento;\n\ng) Disponibilizar às entidades promotoras, com a antecedência mínima de três dias úteis sobre o início das ações, a listagem de jovens voluntários, integrando todos os elementos identificativos individuais necessários à realização do contrato de seguro, os contactos dos jovens voluntários, bem como as suas tarefas e horários individuais;\n\nh) Realizar as substituições necessárias de jovens voluntários e jovens voluntários coordenadores, na medida do número de candidaturas de jovens disponíveis para a ação na plataforma informática;\n\ni) Acompanhar a execução das ações no âmbito do presente Programa;\n\nj) Garantir o respeito, pelas entidades promotoras, das normas legais ou regulamentares reguladoras da atividade de voluntariado, e, em especial, dos direitos dos jovens voluntários;\n\nk) Criar e manter atualizado um registo das entidades aptas para a promoção de ações de voluntariado jovem;\n\nl) Decidir quanto a eventuais lacunas e omissões do presente regulamento que não possam ser resolvidas por aplicação analógica ou extensiva do regime jurídico do voluntariado, em especial do disposto na Lei n.º 71/98, de 3 de setembro, bem como das normas aplicáveis do Código do Procedimento Administrativo."
+  },
+  "206896662": {
+   "fragment_id": "207001824",
+   "type": 11,
+   "heading": "Artigo 21.º — Parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Parcerias\n\nO IPDJ, I.P., pode, para a execução do Programa, estabelecer acordos, protocolos ou parcerias com entidades interessadas no apoio ou patrocínio de ações de voluntariado jovem executados por entidades promotoras."
+  },
+  "206896663": {
+   "fragment_id": "207001825",
+   "type": 11,
+   "heading": "Artigo 22.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Financiamento\n\nOs encargos financeiros resultantes do lançamento, divulgação, apoio formativo, acompanhamento e avaliação do Programa são da responsabilidade do IPDJ, I.P."
+  },
+  "206896665": {
+   "fragment_id": "207001827",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\nREGULAMENTO DO PROGRAMA AGORA NÓS"
+  },
+  "206896666": {
+   "fragment_id": "207001828",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - Constitui objeto do Programa Agora Nós, adiante designado como Programa:\n\na) Estimular e apoiar as práticas de voluntariado jovem em áreas tidas como relevantes quer para a sociedade em geral, quer para a população jovem;\n\nb) Desenvolver processos formativos com os voluntários;\n\nc) Divulgar o voluntariado jovem realizado em território nacional;\n\nd) Criar um registo de entidades promotoras de atividades de voluntariado jovem;\n\ne) Constituir uma plataforma informática que inclua um espaço de acesso e partilha de informações através da Internet entre entidades promotoras e jovens voluntários.\n\n2 - Para os efeitos previstos no presente regulamento, entende-se por voluntariado jovem a atividade executada por jovens com idades compreendidas entre os 14 e os 30 anos, que se realize de acordo com os regimes constantes da Lei n.º 71/98, de 3 de novembro, e do Decreto-Lei n.º 389/99, de 30 de setembro."
+  },
+  "206896667": {
+   "fragment_id": "207001829",
+   "type": 11,
+   "heading": "Artigo 2.º — Áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Áreas de intervenção\n\n1 - O programa tem as seguintes áreas de intervenção:\n\na) Ambiente;\n\nb) Saúde;\n\nc) Cultura;\n\nd) Desporto;\n\ne) Atividades de solidariedade social.\n\n2 - Por despacho do Conselho Diretivo do Instituto Português do Desporto e Juventude, I.P. (IPDJ, I.P.), podem ser definidas outras áreas de intervenção relevantes."
+  },
+  "206896668": {
+   "fragment_id": "207001830",
+   "type": 11,
+   "heading": "Artigo 3.º — Atividades de voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atividades de voluntariado\n\n1 - As atividades de voluntariado ao abrigo do Programa podem ter âmbito local, regional ou nacional.\n\n2 - As atividades de voluntariado dividem-se em ações de curta duração e ações de longa duração, tendo as primeiras duração igual ou inferior a quinze dias seguidos e as segundas duração superior a quinze dias seguidos.\n\n3 - As atividades de voluntariado a apresentar nas áreas de intervenção referidas no artigo 2.º devem desenvolver-se, nomeadamente, nos domínios da educação, prevenção e formação, da sensibilização e informação, assim como na promoção da participação da cidadania.\n\n4 - Nas atividades de voluntariado, os destinatários do Programa devem desenvolver a sua atividade no estrito respeito dos seguintes princípios enquadrantes do voluntariado:\n\na) Princípio da solidariedade;\n\nb) Princípio da complementaridade;\n\nc) Princípio da gratuitidade;\n\nd) Princípio da responsabilidade;\n\ne) Princípio da convergência."
+  },
+  "206896669": {
+   "fragment_id": "207001831",
+   "type": 11,
+   "heading": "Artigo 4.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Destinatários\n\n1 - São destinatários do Programa:\n\na) As entidades promotoras, tal como descritas no artigo seguinte;\n\nb) Os jovens voluntários com idades compreendidas entre os 14 e os 30 anos.\n\n2 - A atividade dos destinatários referidos na alínea b) do número anterior não pode decorrer de relação de trabalho, subordinado ou autónomo, com as entidades referidas na alínea a) do número anterior."
+  },
+  "206896670": {
+   "fragment_id": "207001832",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades Promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades Promotoras\n\n1 - Consideram-se entidades promotoras do Programa as pessoas coletivas identificadas no artigo 4.º da Lei n.º 71/98, de 3 de novembro, e no artigo 2.º do Decreto-Lei n.º 389/99, de 30 de setembro.\n\n2 - As entidades promotoras do Programa devem cumprir os seguintes requisitos específicos:\n\na) Dispor de recursos humanos disponíveis para a coordenação das ações, preferencialmente com formação na área psicossocial ou noutras áreas que permitam a gestão de equipas;\n\nb) Dispor dos recursos e materiais necessários ao desempenho das tarefas pelos voluntários.\n\n3 - As entidades promotoras do Programa devem comprovar perante o IPDJ, I.P., o cumprimento dos requisitos específicos enunciados no número anterior, mediante declaração expressa, acompanhada dos currículos dos responsáveis pela coordenação das ações.\n\n4 - Por despacho do respetivo Conselho Diretivo, o IPDJ, I.P., pode, no âmbito do presente Programa, exercer diretamente a atividade de entidade promotora."
+  },
+  "207110276": {
+   "fragment_id": "207001824",
+   "type": 11,
+   "heading": "Artigo 21.º — Parcerias",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 39/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/39-2023-207062782), em vigor a partir de 2023-02-07"
+   ],
+   "markdown": "###### Artigo 21.º — Parcerias\n\n1 - O IPDJ, I. P., pode, para a execução do Programa, estabelecer acordos, protocolos ou parcerias com entidades interessadas no apoio ou patrocínio de ações de voluntariado jovem executados por entidades promotoras.\n\n2 - Sempre que o IPDJ, I. P., assuma a qualidade de entidade promotora, nos termos previstos no n.º 5 do artigo 4.º, pode celebrar protocolos e parcerias com outras entidades, que não só as previstas no n.º 1 do mesmo artigo, desde que tal se mostre necessário e imprescindível à execução das ações a promover.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 39/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/39-2023-207062782), em vigor a partir de 2023-02-07"
+  },
+  "207110277": {
+   "fragment_id": "207001825",
+   "type": 11,
+   "heading": "Artigo 22.º — Financiamento",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 39/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/39-2023-207062782), em vigor a partir de 2023-02-07"
+   ],
+   "markdown": "###### Artigo 22.º — Financiamento\n\n1 - Os encargos financeiros resultantes do lançamento, divulgação, apoio formativo, acompanhamento e avaliação do Programa são da responsabilidade do IPDJ, I. P.\n\n2 - Para efeitos do disposto no n.º 2 do artigo anterior o conselho diretivo do IPDJ, I. P., delibera anualmente um valor a distribuir pela execução das respetivas ações.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 39/2023 - Diário da República n.º 26/2023, Série I de 2023-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/39-2023-207062782), em vigor a partir de 2023-02-07"
+  },
+  "206896664": {
+   "fragment_id": "207001826",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro, em 23 de julho de 2013."
+  }
+ }
+}

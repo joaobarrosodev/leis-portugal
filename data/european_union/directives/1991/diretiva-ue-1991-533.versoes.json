@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0533:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0533-20220801",
+ "dre_path": null,
+ "source_lastmod": "2022-08-01",
+ "versions": [
+  {
+   "date": "1991-10-18",
+   "future": false,
+   "celex": "01991L0533-19911018",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "293a7967a9ccbca1",
+    "f0c7fc9073fb3e25",
+    "338584ccf26cf7d1",
+    "c53a5a3bd9fe01e0",
+    "fa8f7ab3bafa6ad6",
+    "4a2c827f8087adc5",
+    "335a958529832a27",
+    "dd5190a4dc7224e0",
+    "c44068a815530a67",
+    "5180d6bf017a17c4",
+    "620fd45403b63d9a",
+    "40794b7675083949"
+   ]
+  },
+  {
+   "date": "2022-08-01",
+   "future": false,
+   "celex": "01991L0533-20220801",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime Artigo 2.º — Obrigação de informação",
+    "Suprime Artigo 3.º — Meios de informação",
+    "Suprime Artigo 4.º — Trabalhador expatriado",
+    "Suprime Artigo 5.º — Alteração de elementos do contrato ou da relação de trabalho",
+    "Suprime Artigo 6.º — Disposições em matéria de forma e de regime de prova do contrato ou da relação de trabalho e em matéria de regras processuais",
+    "Suprime Artigo 7.º — Disposições mais favoráveis",
+    "Suprime Artigo 8.º — Defesa dos direitos",
+    "Suprime Artigo 9.º — Disposições finais",
+    "Suprime Artigo 10.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "555f2a31ee19fc90"
+   ]
+  }
+ ],
+ "fragments": {
+  "293a7967a9ccbca1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Outubro de 1991\n\nrelativa à obrigação de a entidade patronal informar o trabalhador sobre as condições aplicáveis ao contrato ou à relação de trabalho\n\n(91/533/CEE)"
+  },
+  "f0c7fc9073fb3e25": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. A presente directiva aplica-se a qualquer trabalhador assalariado que tenha um contrato ou uma relação de trabalho definido na legislação em vigor num Estado-membro e/ou sujeito à legislação em vigor num Estado-membro.\n\n2. Os Estados-membros podem prever que a presente directiva não se aplique aos trabalhadores que tenham um contrato ou uma relação de trabalho:\n\n— Cuja duração total não exceda um mês e/ou\n\n— Cuja duração de trabalho semanal não exceda 8 horas;\n\nb) Com um carácter ocasional e/ou especial, desde que, nesses casos, razões objectivas justifiquem a não aplicação."
+  },
+  "338584ccf26cf7d1": {
+   "fragment_id": "Artigo 2.º — Obrigação de informação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Obrigação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigação de informação\n\n1. A entidade patronal é obrigada a levar ao conhecimento do trabalhador assalariado a que se aplica a presente directiva, adiante designado «trabalhador», os elementos essenciais do contrato ou da relação de trabalho.\n\n2. A informação a que se refere o n.º 1 deve incidir, pelo menos, sobre os seguintes elementos:\n\na) A identidade das partes;\n\nb) O local de trabalho; na ausência de local de trabalho fixo ou predominate, o princípio de que o trabalhador desenvolve a sua actividade em vários locais, bem como a sede ou, eventualmente, ó domicílio da entidade patronal;\n\ni) o título, grau, qualidade ou categoria do posto de trabalho que o trabalhador ocupa,\n\nii) a caracterização ou descrição sumárias do trabalho;\n\nd) A data de início do contrato ou da relação de trabalho;\n\ne) Caso se trate de um contrato ou de uma relação de trabalho temporários, a duração previsível do contrato ou da relação de trabalho;\n\nf) O período de duração das férias remuneradas a que o trabalhador tem direito ou, caso não seja possível dispor dessa indicação no momento da prestação da informação, as regras de atribuição e de determinação dessas férias;\n\ng) O período de duração dos prazos de pré-aviso a observar pela entidade patronal e pelo trabalhador em caso de cessação do contrato ou da relação de trabalho ou, caso não seja possível dispor dessa indicação no momento da prestação da informação, as regras de determinação desses prazos de pré-aviso;\n\nh) O montante de base inicial, ou outros elementos constitutivos, bem como periodicidade do pagamento da remuneração a que o trabalhador tem direito;\n\ni) O período de duração do trabalho diário ou semanal normal do trabalhador;\n\nj) Se for caso disso:\n\ni) a menção das convenções colectivas e/ou acordos colectivos que regem as condições de trabalho do trabalhador,\n\nii) caso se trate de convenções colectivas celebradas fora da empresa por órgãos ou instituições paritários particulares, a menção do órgão competente ou da instituição paritária competente no seio do qual/da qual foram celebradas.\n\n3. A informação sobre os elementos a que se referem as alíneas f), g), h) e i) do n.º 2 pode, se for caso disso, decorrer de uma referência às disposições legislativas, regulamentares, administrativas ou estatutárias ou às convenções colectivas que regem as matérias aí referidas."
+  },
+  "c53a5a3bd9fe01e0": {
+   "fragment_id": "Artigo 3.º — Meios de informação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Meios de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Meios de informação\n\n1. A informação sobre os elementos a que se refere o n.º 2 do artigo 2.º pode resultar da entrega ao trabalhador, o mais tardar dois meses após a sua entrada ao serviço:\n\na) De um contrato de trabalho celebrado por escrito, e/ou\n\nb) De uma promessa de contrato, e/ou\n\nc) De um ou vários documentos escritos, desde que um desses documentos inclua, pelo menos, o conjunto dos elementos a que se refere o n.º 2, alíneas a), b), c), d), h) e i), do artigo 2.º\n\n2. Quando nenhum dos documentos referidos no n.º 1 tenha sido entregue ao trabalhador nos prazos aí previstos, a entidade patronal deve entregar-lhe, o mais tardar dois meses após a sua entrada ao serviço, uma declaração por escrito assinada por aquela entidade, que contenha pelo menos os elementos a que se refere o n.º 2 do artigo 2.º\n\nCaso o ou os documentos a que se refere o n.º 1 só contenham uma parte dos elementos requeridos, a declaração por escrito prevista no primeiro parágrafo do presente número incidirá sobre os elementos restantes.\n\n3. No caso de o contrato ou a relação de trabalho expirarem antes do termo do prazo de dois meses a contar da sua entrada ao serviço, a informação prevista no artigo 2.º e no presente artigo deve ser prestada ao trabalhador o mais tardar no termo desse prazo."
+  },
+  "fa8f7ab3bafa6ad6": {
+   "fragment_id": "Artigo 4.º — Trabalhador expatriado",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Trabalhador expatriado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Trabalhador expatriado\n\n1. Se o trabalhador dever exercer o seu trabalho num ou em vários países diferentes do Estado-membro a cuja legislação e/ou prática o contrato ou a relação de trabalho está sujeita, o ou os documentos a que se refere o artigo 3.º devem estar na posse do trabalhador antes da sua partida e devem incluir, pelo menos, as seguintes informações suplementares:\n\na) O período de duração do trabalho exercido no estrangeiro;\n\nb) A moeda em que será paga a remuneração;\n\nc) Se for caso disso, as prestações em dinheiro e em espécie ligadas à expatriação;\n\nd) Se for caso disso, as condições de repatriação do trabalhador.\n\n2. A informação sobre os elementos constantes das alíneas b) e c) do n.º 1 pode, eventualmente, resultar de uma referência às disposições legislativas, regulamentares, administrativas ou estatutárias, ou às convenções colectivas que regem as matérias aí referidas.\n\n3. Os n.^os^ 1 e 2 não se aplicam se a duração do trabalho fora do país a cuja legislação e/ou prática o contrato ou a relação de trabalho estiver sujeita não exceder um mês."
+  },
+  "4a2c827f8087adc5": {
+   "fragment_id": "Artigo 5.º — Alteração de elementos do contrato ou da relação de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Alteração de elementos do contrato ou da relação de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração de elementos do contrato ou da relação de trabalho\n\n1. Qualquer alteração dos elementos a que se refere o n.º 2 do artigo 2.º e o n.º 1 do artigo 4.º deve ser objecto de um documento escrito a enviar pela entidade patronal ao trabalhador no mais curto prazo e, o mais tardar, um mês após a data em que a referida alteração produz efeitos.\n\n2. O documento escrito referido no n.º 1 não é obrigatório em caso de alteração das disposições legislativas, regulamentares, administrativas ou estatutárias ou das convenções colectivas a que se referem os documentos mencionados no n.º 3, eventualmente completados nos termos do n.º 1 do artigo 4.º"
+  },
+  "335a958529832a27": {
+   "fragment_id": "Artigo 6.º — Disposições em matéria de forma e de regime de prova do contrato ou da relação de trabalho e em matéria de regras processuais",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Disposições em matéria de forma e de regime de prova do contrato ou da relação de trabalho e em matéria de regras processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposições em matéria de forma e de regime de prova do contrato ou da relação de trabalho e em matéria de regras processuais\n\nA presente directiva não prejudica as legislações e/ou práticas nacionais em matéria de:\n\n— forma do contrato ou da relação de trabalho,\n\n— regime de prova da existência e do conteúdo do contrato ou da relação de trabalho,\n\n— regras processuais aplicáveis na matéria."
+  },
+  "dd5190a4dc7224e0": {
+   "fragment_id": "Artigo 7.º — Disposições mais favoráveis",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições mais favoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições mais favoráveis\n\nA presente directiva não prejudica a faculdade de os Estados-membros aplicarem ou introduzirem disposições legislativas, regulamentares ou administrativas mais favoráveis aos trabalhadores ou favorecerem ou permitirem a aplicação de disposições convencionais mais favoráveis aos trabalhadores."
+  },
+  "c44068a815530a67": {
+   "fragment_id": "Artigo 8.º — Defesa dos direitos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Defesa dos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Defesa dos direitos\n\n1. Os Estados-membros introduzirão na sua ordem jurídica interna as medidas necessárias para permitir que qualquer trabalhador que se considere lesado pela não observância das obrigações decorrentes da presente directiva exerça os seus direitos por via judicial, eventualmente após recurso a outras instâncias competentes.\n\n2. Os Estados-membros podem prever que o acesso às vias de recurso a que se refere o n.º 1 seja subordinado à interpelação prévia do empregador pelo trabalhador e à falta de cumprimento por parte do empregador num prazo de 15 dias contados a partir daquela interpelação.\n\nContudo, a formalidade de interpelação prévia não pode, em nenhum caso, ser imposta nos casos a que se refere o artigo 4.º, nem pelos trabalhadores que tenham um contrato ou uma relação de trabalho temporários nem pelos trabalhadores não abrangidos por uma ou mais convenções colectivas respeitantes à relação de trabalho."
+  },
+  "5180d6bf017a17c4": {
+   "fragment_id": "Artigo 9.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições finais\n\n1. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar até 30 de Junho de 1993, ou garantirão que, o mais tardar nessa data, os parceiros sociais instituam, por via de acordo, as disposições necessárias, devendo os Estados-membros tomar todas as disposições necessárias para disporem, em qualquer momento, da possibilidade de garantir os resultados impostos pela presente directiva.\n\nDo facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros tomarão as medidas necessárias para assegurar que, para um contrato de trabalho existente no momento da entrada em vigor da disposições que adoptarem, a entidade patronal entregue ao trabalhador que o solicite, no prazo de dois meses a contar da recepção do pedido, o ou os documentos referidos no artigo 3.º, completados, se for caso disso, nos termos do n.º 1 do artigo 4.º\n\n3. Quando os Estados-membros adoptarem as disposições referidas no n.º 1, estas conterão uma referência à presente directiva ou serão acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão definidas pelos Estados-membros.\n\n4. Os Estados-membros informarão imediatamente a Comissão das medidas tomadas em execução da presente directiva."
+  },
+  "620fd45403b63d9a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "40794b7675083949": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/09beca97-41c8-40b4-8bc1-8d7c3f301cae.0003.02/DOC_1#src.E0001)) JO n.º C 24 de 31.1.1991, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/09beca97-41c8-40b4-8bc1-8d7c3f301cae.0003.02/DOC_1#src.E0002)) JO n.º C 240 de 16.9.1991, p. 21.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/09beca97-41c8-40b4-8bc1-8d7c3f301cae.0003.02/DOC_1#src.E0003)) JO n.º C 159 de 17.6.1991, p. 32."
+  },
+  "555f2a31ee19fc90": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01991L0533 — PT — 01.08.2022 — 001.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31991L0533) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0533) [de 14 de Outubro de 1991](http://publications.europa.eu/resource/celex/31991L0533) [relativa à obrigação de a entidade patronal informar o trabalhador sobre as condições aplicáveis ao contrato ou à relação de trabalho](http://publications.europa.eu/resource/celex/31991L0533) [(91/533/CEE)](http://publications.europa.eu/resource/celex/31991L0533) (JO L 288, 18.10.1991, p.32)\n\n**Revogada por:**\n\n- [Diretiva (UE) 2019/1152 do Parlamento Europeu e do Conselho de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1152) — L 186 — 105 — 11.7.2019"
+  }
+ }
+}

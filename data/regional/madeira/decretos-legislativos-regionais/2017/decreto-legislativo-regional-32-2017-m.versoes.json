@@ -1,0 +1,590 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108155300:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2017-186865390",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/32-2017-108155300",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "186812333",
+    "186812334",
+    "186812335",
+    "186812336",
+    "186812337",
+    "186812338",
+    "186812339",
+    "186812340",
+    "186812341",
+    "186812342",
+    "186812343",
+    "186812344",
+    "186812345",
+    "186812346",
+    "186812347",
+    "186812348",
+    "186812349",
+    "186812350",
+    "186812351",
+    "186812352",
+    "186812353",
+    "186812354",
+    "186812355",
+    "186812356",
+    "186812357",
+    "186812358",
+    "186812359",
+    "186812360",
+    "186812361",
+    "186812362",
+    "186812363",
+    "186812364",
+    "186812365",
+    "186812366",
+    "186812367",
+    "186812368",
+    "186812369",
+    "186812370",
+    "186812371",
+    "186812372",
+    "186812373",
+    "186812374",
+    "186868775",
+    "186868776",
+    "186868777",
+    "186868778",
+    "186868779",
+    "186868780",
+    "186868781",
+    "186868782"
+   ]
+  },
+  {
+   "date": "2022-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:186831381:por",
+     "title": "Decreto Legislativo Regional n.º 16/2022/M",
+     "published": "2022-07-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2022-186831381"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "186812333",
+    "186812334",
+    "186812335",
+    "186812336",
+    "186812337",
+    "186812338",
+    "186812339",
+    "186812340",
+    "186812341",
+    "186868843",
+    "186812343",
+    "186812344",
+    "186868845",
+    "186812345",
+    "186868844",
+    "186812347",
+    "186812348",
+    "186812349",
+    "186868846",
+    "186812350",
+    "186812351",
+    "186812352",
+    "186812353",
+    "186812354",
+    "186812355",
+    "186812356",
+    "186812357",
+    "186812358",
+    "186812359",
+    "186812360",
+    "186812361",
+    "186812362",
+    "186812363",
+    "186812364",
+    "186812365",
+    "186812366",
+    "186812367",
+    "186812368",
+    "186812369",
+    "186812370",
+    "186812371",
+    "186812372",
+    "186812373",
+    "186812374",
+    "186868775",
+    "186868776",
+    "186868777",
+    "186868778",
+    "186868779",
+    "186868780",
+    "186868781",
+    "186868782",
+    "186868783"
+   ]
+  }
+ ],
+ "fragments": {
+  "186812333": {
+   "fragment_id": "186865391",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 32/2017/M\n\nEstatuto das Vias de Comunicação Terrestre da Região Autónoma da Madeira\n\nA rede de vias de comunicação da Região Autónoma da Madeira teve um desenvolvimento exponencial ao longo das últimas décadas e constitui um conjunto infraestrutural fundamental para a circulação célere e em segurança dos madeirenses. Para além da rede viária regional, também a rede viária municipal abrange, hoje, todo um rol de vias de grande proximidade à população.\n\nA juntar-se a estas, duas outras redes de grande importância económica e local mantiveram e expandiram a sua presença secular: a rede agrícola e a rede florestal.\n\nO Decreto Legislativo Regional n.º 15/2005/M, de 9 de agosto, foi o diploma que procedeu à classificação das estradas da rede viária regional, alterado pelos Decretos Legislativos Regionais n.os 1/2013/M, de 2 de janeiro, e 15/2016/M, de 14 de março.\n\nEm resultado da necessidade de positivar, num só documento, todos estes conjuntos de vias de comunicação, o presente diploma apresenta um regime jurídico que determina os seus princípios de organização, caracterização, gestão e condições de segurança. Assim, substituindo a legislação vigente, este diploma congrega em si as redes compostas pelas vias de comunicação terrestre regional, municipal, florestal e agrícola da Região Autónoma da Madeira.\n\nRefira-se que se mantêm em vigor determinados artigos e os anexos do referido Decreto Legislativo Regional n.º 15/2005/M, de 9 de agosto, alterado pelos Decretos Legislativos Regionais n.os 1/2013/M, de 2 de janeiro e 15/2016/M, de 14 de março, até à publicação da regulamentação que os substitua.\n\nAtravés do presente diploma reconhece-se a importância e as competências dos municípios na classificação das vias da rede viária municipal, estabelecendo-se que os municípios, dentro da sua área administrativa, possam fixar a rede de estradas e caminhos municipais e a rede de caminhos agrícolas, bem como a respetiva regulamentação.\n\nA rede agrícola constitui, de facto, um elemento importante para a rentabilização do potencial agrícola existente em cada concelho e para o desenvolvimento rural em geral, ao permitir melhores acessos e ao facilitar a valorização do património cultural e a implementação de projetos inovadores no seu seio. Neste sentido, a completa identificação e organização destas vias enquanto rede, que este diploma promove, é determinante para a valorização da agricultura, da pecuária e das zonas rurais.\n\nO diploma vem, igualmente, positivar as vias da rede florestal, num intuito de maior conhecimento e melhor administração do espaço florestal, cuja gestão eficaz tem efeitos multiplicadores no aproveitamento das potencialidades da nossa floresta. Registe-se o impacto direto que esta rede representa não só para o setor primário e para a indústria, mas igualmente para as atividades desportivas, turísticas e de lazer, salientando-se ainda o contributo valioso desta rede para a prevenção e combate a fogos florestais.\n\nO diploma apresentado configura, em suma, um regime jurídico basilar e congregador das grandes redes de vias de comunicação terrestre da Região Autónoma da Madeira, que estipula uma repartição clara das competências sobre as referidas redes, com ganhos muito significativos na organização e mobilidade de todo o território regional.\n\nFoi auscultada a Associação de Municípios da Região Autónoma da Madeira.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, na redação dada pela Lei n.º 130/99, de 21 de agosto, e com a alteração introduzida pela Lei n.º 12/2000, de 21 de junho, o seguinte:"
+  },
+  "186812334": {
+   "fragment_id": "186865392",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "186812335": {
+   "fragment_id": "186865393",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma define o estatuto e regime jurídico das vias públicas de comunicação terrestre da Região Autónoma da Madeira."
+  },
+  "186812336": {
+   "fragment_id": "186865394",
+   "type": 11,
+   "heading": "Artigo 2.º — Redes viárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Redes viárias\n\n1 - As vias públicas de comunicação terrestre da Região Autónoma da Madeira integram-se nas seguintes redes:\n\na) Rede regional;\n\nb) Rede municipal;\n\nc) Rede florestal;\n\nd) Rede agrícola.\n\n2 - A rede regional é constituída pelas vias que desempenham funções de interesse regional, ligando os principais polos urbanos e económicos e todos os concelhos entre si.\n\n3 - A rede municipal é constituída pelas vias que permitem a circulação nas áreas da respetiva circunscrição territorial, nomeadamente entre a sede do concelho e os aglomerados populacionais, entre os aglomerados populacionais e dentro dos mesmos.\n\n4 - A rede florestal é constituída pelas vias que permitem o acesso e a circulação dentro dos perímetros florestais e áreas florestais sob gestão pública e outras explorações florestais.\n\n5 - A rede agrícola é constituída pelas vias que permitem o acesso a áreas agrícolas e pecuárias, bem como a circulação entre e dentro das mesmas.\n\n6 - Para efeitos do disposto no presente diploma, entende-se por perímetros florestais o conjunto das áreas baldias sujeitas aos regimes florestais parcial e total."
+  },
+  "186812337": {
+   "fragment_id": "186865395",
+   "type": 11,
+   "heading": "Artigo 3.º — Formas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formas de intervenção\n\n1 - Constituem formas de intervenção nas vias constantes no presente diploma a sua construção, beneficiação, reabilitação, manutenção e gestão, a cargo das entidades competentes.\n\n2 - A construção, beneficiação, reabilitação, manutenção e gestão, bem como a exploração, de vias das redes viárias podem ser objeto de concessão."
+  },
+  "186812338": {
+   "fragment_id": "186865396",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - A intervenção nas formas previstas no n.º 1 do artigo 3.º é da competência, do Governo Regional, no que respeita às redes regional e florestal, e dos municípios, no que respeita às redes municipal e agrícola.\n\n2 - Sem prejuízo do disposto nos números anteriores, as formas de intervenção previstas no presente diploma podem ser objeto de cooperação técnica e financeira entre a administração regional e administração local."
+  },
+  "186812339": {
+   "fragment_id": "186865397",
+   "type": 11,
+   "heading": "Artigo 5.º — Características das vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Características das vias\n\n1 - As características mínimas de natureza técnica estabelecidas no presente diploma para as diferentes categorias de vias não inviabilizam a classificação de vias já existentes de acordo com a respetiva finalidade, sem prejuízo de, posteriormente, se promover a sua aproximação àqueles mínimos, designadamente aquando da realização de obras nas mesmas.\n\n2 - O Governo Regional, através de despacho do membro do governo regional competente em matéria da rede viária, e os municípios, através de deliberação do executivo municipal, podem em casos excecionais e devidamente justificados, adotar características diversas das indicadas no diploma e em regulamentação própria."
+  },
+  "186812340": {
+   "fragment_id": "186865398",
+   "type": 1,
+   "heading": "Capítulo II — Classificação e características das vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Classificação e características das vias"
+  },
+  "186812341": {
+   "fragment_id": "186865399",
+   "type": 8,
+   "heading": "Secção I — Rede regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Rede regional"
+  },
+  "186812342": {
+   "fragment_id": "186865400",
+   "type": 11,
+   "heading": "Artigo 6.º — Categorias das vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Categorias das vias\n\nA rede regional compreende as seguintes categorias de vias:\n\na) Estradas regionais principais;\n\nb) Estradas regionais complementares."
+  },
+  "186812343": {
+   "fragment_id": "186865401",
+   "type": 11,
+   "heading": "Artigo 7.º — Estradas regionais principais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estradas regionais principais\n\n1 - As estradas regionais principais são as vias de comunicação rodoviária de maior interesse regional, que asseguram as ligações entre as sedes de concelho ou destas com os principais centros de atividade económica, formando uma rede viária estruturante em ambas as ilhas.\n\n2 - As estradas regionais principais constituem a rede regional principal, com numeração iniciada em 101.\n\n3 - As estradas regionais principais são objeto de uma classificação funcional estabelecida através de decreto regulamentar regional.\n\n4 - Os trechos da rede regional principal, que constituam alternativas por via da existência de uma nova estrada adequada à sua classificação funcional, são desclassificados ou passam a integrar a rede regional complementar."
+  },
+  "186812344": {
+   "fragment_id": "186865402",
+   "type": 11,
+   "heading": "Artigo 8.º — Estradas regionais complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estradas regionais complementares\n\n1 - As estradas regionais complementares são as que estabelecem as ligações entre as estradas regionais principais e os núcleos populacionais mais importantes e complementam a estrutura principal da rede regional principal.\n\n2 - As estradas regionais complementares constituem a rede regional complementar, com numeração iniciada em 201.\n\n3 - As estradas regionais complementares não são globalmente objeto de uma classificação funcional, podendo alguns trechos desta rede ter, atendendo às suas características, a classificação funcional prevista em decreto regulamentar regional.\n\n4 - Os trechos definidos no n.º 4 do artigo 7.º, integrados na rede complementar, com extensão inferior a 3 km, têm a designação que tinham na rede principal seguida de um algarismo (101-1) e os que têm extensão superior a 3 km têm a designação referida no n.º 2 do presente artigo."
+  },
+  "186812345": {
+   "fragment_id": "186865403",
+   "type": 8,
+   "heading": "Secção II — Rede municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Rede municipal"
+  },
+  "186812346": {
+   "fragment_id": "186865404",
+   "type": 11,
+   "heading": "Artigo 9.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Categorias\n\n1 - A rede municipal integra as seguintes categorias de vias:\n\na) Estradas municipais principais;\n\nb) Estradas municipais secundárias;\n\nc) Caminhos municipais.\n\n2 - Por regulamento, os municípios podem introduzir subcategorias em cada uma das categorias constantes do número anterior."
+  },
+  "186812347": {
+   "fragment_id": "186865405",
+   "type": 11,
+   "heading": "Artigo 10.º — Estradas municipais principais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estradas municipais principais\n\nAs estradas municipais principais são as vias que se revestem de interesse geral para um município, ligando a respetiva sede às diferentes freguesias ou a outras vias da rede regional ou municipal."
+  },
+  "186812348": {
+   "fragment_id": "186865406",
+   "type": 11,
+   "heading": "Artigo 11.º — Estradas municipais secundárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estradas municipais secundárias\n\nAs estradas municipais secundárias são as vias que se revestem de interesse geral para um município, ligando aglomerados populacionais entre si ou, isoladamente, cada aglomerado à sede do município ou a outras vias da rede municipal ou regional."
+  },
+  "186812349": {
+   "fragment_id": "186865407",
+   "type": 11,
+   "heading": "Artigo 12.º — Caminhos municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caminhos municipais\n\nOs caminhos municipais são as vias que, não se revestindo de interesse geral para um município, ligam alguns aglomerados populacionais entre si ou, isoladamente, cada aglomerado à sede do município ou a outras vias da rede municipal, ou permitem o acesso ao espaço rural e a explorações agrícolas."
+  },
+  "186812350": {
+   "fragment_id": "186865408",
+   "type": 8,
+   "heading": "Secção III — Rede florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Rede florestal"
+  },
+  "186812351": {
+   "fragment_id": "186865409",
+   "type": 11,
+   "heading": "Artigo 13.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Categorias\n\n1 - A rede florestal integra as seguintes categorias de vias:\n\na) Caminhos florestais principais;\n\nb) Caminhos florestais secundários;\n\nc) Estradões florestais.\n\n2 - Por decreto regulamentar regional, podem ser introduzidas subcategorias em cada uma das categorias constantes do número anterior."
+  },
+  "186812352": {
+   "fragment_id": "186865410",
+   "type": 11,
+   "heading": "Artigo 14.º — Caminhos florestais principais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caminhos florestais principais\n\nOs caminhos florestais principais são as vias que estabelecem o acesso, a partir dos aglomerados populacionais ou de vias integradas noutras redes, aos perímetros florestais submetidos ao regime florestal, áreas florestais sob gestão pública e explorações florestais, que ligam estes entre si ou que se desenvolvem no seu interior, com a função de permitirem a exploração e proteção dos recursos florestais e o aproveitamento de outros recursos naturais associados à floresta."
+  },
+  "186812353": {
+   "fragment_id": "186865411",
+   "type": 11,
+   "heading": "Artigo 15.º — Caminhos florestais secundários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Caminhos florestais secundários\n\nOs caminhos florestais secundários são as vias que, com observação dos pressupostos referidos no artigo anterior, estabelecem acesso a partir dos caminhos florestais principais ou ligam os perímetros, áreas sob gestão pública e explorações florestais entre si."
+  },
+  "186812354": {
+   "fragment_id": "186865412",
+   "type": 11,
+   "heading": "Artigo 16.º — Estradões florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Estradões florestais\n\nOs estradões florestais são as vias que se desenvolvem dentro das áreas florestais submetidas ao regime florestal, áreas florestais sob gestão pública e explorações florestais a partir dos caminhos florestais principais ou secundários, assegurando o acesso a zonas de plantação, de exploração, de pastagens baldias ou de prevenção contra incêndios."
+  },
+  "186812355": {
+   "fragment_id": "186865413",
+   "type": 8,
+   "heading": "Secção IV — Rede agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Rede agrícola"
+  },
+  "186812356": {
+   "fragment_id": "186865414",
+   "type": 11,
+   "heading": "Artigo 17.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Categorias\n\n1 - A rede agrícola integra as seguintes categorias de vias:\n\na) Caminhos agrícolas principais;\n\nb) Caminhos agrícolas secundários.\n\n2 - Por regulamento, os municípios podem introduzir subcategorias em cada uma das categorias constantes do número anterior."
+  },
+  "186812357": {
+   "fragment_id": "186865415",
+   "type": 11,
+   "heading": "Artigo 18.º — Caminhos agrícolas principais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Caminhos agrícolas principais\n\nOs caminhos agrícolas principais são as vias destinadas a estabelecer o acesso a explorações agrícolas, a partir de vias das redes regional, municipal ou florestal, tendo como função principal a entrada dos fatores de produção e o escoamento dos produtos."
+  },
+  "186812358": {
+   "fragment_id": "186865416",
+   "type": 11,
+   "heading": "Artigo 19.º — Caminhos agrícolas secundários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Caminhos agrícolas secundários\n\nOs caminhos agrícolas secundários são as vias destinadas a estabelecer o acesso a explorações agrícolas, a partir de vias integradas na mesma rede."
+  },
+  "186812359": {
+   "fragment_id": "186865417",
+   "type": 8,
+   "heading": "Secção V — Características técnicas das vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Características técnicas das vias"
+  },
+  "186812360": {
+   "fragment_id": "186865418",
+   "type": 11,
+   "heading": "Artigo 20.º — Níveis de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Níveis de serviços\n\n1 - Os níveis de serviços das vias da rede regional previstos no diploma são os normalmente usados a nível internacional, definidos tendo como referência o disposto no «Highway Capacity Manual», do «Transportation Reserch Board», da National Academy of Science dos Estados Unidos da América.\n\n2 - Caso o Governo Regional assim entenda, podem ser usadas referências diferentes do disposto no número anterior."
+  },
+  "186812361": {
+   "fragment_id": "186865419",
+   "type": 11,
+   "heading": "Artigo 21.º — Nível de serviço das estradas regionais principais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Nível de serviço das estradas regionais principais\n\n1 - As estradas regionais principais devem assegurar condições de circulação relativamente estáveis, embora com restrita liberdade quanto a velocidade e a ultrapassagens (nível de serviço C).\n\n2 - O nível de serviço estabelecido no número anterior deve ser mantido em todas as componentes de cada ligação, inclusivamente nas zonas de entre cruzamento, nos ramos dos nós de ligação e nos cruzamentos de nível.\n\n3 - O disposto no número anterior não impede que determinados trechos das estradas regionais principais situados em zonas particularmente difíceis, por motivos de ordem topográfica ou urbanística, tenham sido ou possam ser projetados de modo que ao volume horário respetivo corresponda um nível de serviço inferior ao referido no n.º 1."
+  },
+  "186812362": {
+   "fragment_id": "186865420",
+   "type": 11,
+   "heading": "Artigo 22.º — Nível de serviço das estradas regionais complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Nível de serviço das estradas regionais complementares\n\n1 - As estradas regionais complementares devem assegurar condições de circulação relativamente estáveis, embora com restrita liberdade quanto a velocidade e a ultrapassagem (nível de serviço D).\n\n2 - O nível de serviço estabelecido no número anterior deve ser mantido em todas as componentes de cada ligação, inclusivamente nas zonas de entre cruzamento, nos ramos dos nós de ligação e nos cruzamentos de nível.\n\n3 - O disposto no número anterior não impede que determinados trechos das estradas regionais complementares situados em zonas particularmente difíceis, por motivos de ordem topográfica ou urbanística, tenham sido ou possam ser projetados de modo que ao volume horário respetivo corresponda nível de serviço inferior ao referido no n.º 1."
+  },
+  "186812363": {
+   "fragment_id": "186865421",
+   "type": 11,
+   "heading": "Artigo 23.º — Vias da rede regional e florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Vias da rede regional e florestal\n\nAs características mínimas do perfil das vias da rede regional e florestal são definidas por decreto regulamentar regional."
+  },
+  "186812364": {
+   "fragment_id": "186865422",
+   "type": 11,
+   "heading": "Artigo 24.º — Vias da rede municipal e agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Vias da rede municipal e agrícola\n\nAs características mínimas do perfil das vias da rede municipal e agrícola são definidas por regulamento do respetivo município."
+  },
+  "186812365": {
+   "fragment_id": "186865423",
+   "type": 8,
+   "heading": "Secção VI — Classificação e transferência das vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Classificação e transferência das vias"
+  },
+  "186812366": {
+   "fragment_id": "186865424",
+   "type": 11,
+   "heading": "Artigo 25.º — Classificação das vias das redes regional e florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Classificação das vias das redes regional e florestal\n\nA classificação, numeração, designação e identificação dos pontos extremos e intermédios das vias das redes regional e florestal são da competência do Governo Regional e estabelecidas, para cada rede, por decreto regulamentar regional."
+  },
+  "186812367": {
+   "fragment_id": "186865425",
+   "type": 11,
+   "heading": "Artigo 26.º — Classificação das vias da rede municipal e agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Classificação das vias da rede municipal e agrícola\n\n1 - A classificação, numeração, designação e identificação das vias da rede municipal e agrícola são da competência dos municípios e estabelecidas por deliberação da respetiva Câmara Municipal.\n\n2 - Nenhuma via pode ser classificada como municipal ou agrícola, estando já classificada na rede regional ou na rede florestal, sob pena de invocação de nulidade do ato praticado."
+  },
+  "186812368": {
+   "fragment_id": "186865426",
+   "type": 11,
+   "heading": "Artigo 27.º — Transferência de vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transferência de vias\n\n1 - É permitida a transferência de vias entre as diferentes redes, nomeadamente através da celebração de protocolo entre as entidades competentes em relação às mesmas ou por deliberação do Governo Regional para fins de utilidade pública regional, nos termos dos números seguintes.\n\n2 - Quando uma via da rede municipal ou agrícola se revelar apta a desempenhar um fim de utilidade pública regional, justificando a sua integração no domínio público regional, o Governo Regional pode afetar essa via à rede regional ou florestal, por decreto regulamentar regional.\n\n3 - Quando uma via regional ou florestal deixar de desempenhar um fim de utilidade pública regional, justificando a sua desintegração da rede regional ou florestal, o Governo Regional pode, por decreto regulamentar regional, desafetar essa via, que passa a integrar a rede municipal ou agrícola.\n\n4 - Nos casos previstos no número anterior, a entidade para a qual a via é transferida pode solicitar a execução prévia de intervenções com vista a repor em bom estado de utilização a via ou outras compensações ou contrapartidas.\n\n5 - As vias transferidas são objeto de nova classificação e numeração, não sendo obrigatória a alteração da sua designação.\n\n6 - O disposto nos números anteriores não prejudica a validade e a produção de efeitos dos acordos ou protocolos respeitantes a transferência de vias já celebrados entre o Governo Regional e os municípios."
+  },
+  "186812369": {
+   "fragment_id": "186865427",
+   "type": 1,
+   "heading": "Capítulo III — Tratamento e gestão das vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Tratamento e gestão das vias"
+  },
+  "186812370": {
+   "fragment_id": "186865428",
+   "type": 8,
+   "heading": "Secção I — Áreas de jurisdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Áreas de jurisdição"
+  },
+  "186812371": {
+   "fragment_id": "186865429",
+   "type": 11,
+   "heading": "Artigo 28.º — Delimitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Delimitação\n\nA área de jurisdição da entidade competente em relação a cada rede constante do presente diploma abrange as seguintes zonas:\n\na) Zona da via;\n\nb) Zona de proteção da via, constituída pelas faixas com servidão administrativa e pelas faixas de segurança."
+  },
+  "186812372": {
+   "fragment_id": "186865430",
+   "type": 11,
+   "heading": "Artigo 29.º — Zona da via",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Zona da via\n\n1 - Constitui zona da via:\n\na) O terreno por ela ocupado, abrangendo a faixa de rodagem, as bermas e, quando existam, as valetas, a faixa de estacionamento, os passeios, as banquetas e os taludes;\n\nb) As pontes e viadutos nela incorporados, bem como os terrenos para alargamento da plataforma da via ou para equipamentos acessórios, tais como passeios, parques de estacionamento e miradouros.\n\n2 - A plataforma da via abrange a faixa de rodagem, bermas, passeios e valetas.\n\n3 - A plataforma da via pode ter uma ou mais faixas de rodagem.\n\n4 - A faixa de rodagem é constituída por uma ou mais vias."
+  },
+  "186812373": {
+   "fragment_id": "186865431",
+   "type": 11,
+   "heading": "Artigo 30.º — Defesa e proteção da via",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Defesa e proteção da via\n\nA zona de proteção da via é regulada no caso das redes regional e florestal por diploma próprio e, no caso das redes municipal e agrícola, por regulamento municipal."
+  },
+  "186812374": {
+   "fragment_id": "186865432",
+   "type": 8,
+   "heading": "Secção II — Integração paisagística das vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Integração paisagística das vias"
+  },
+  "186868775": {
+   "fragment_id": "186865433",
+   "type": 11,
+   "heading": "Artigo 31.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Princípio geral\n\n1 - Na integração paisagística das vias devem ser consideradas todas as funções que a mesma pode desempenhar, designadamente de ordem estética e ornamental, de salubridade, de conservação dos pavimentos, de segurança rodoviária e de interesse económico.\n\n2 - As espécies a adotar na arborização e revestimento vegetal das margens e taludes das vias devem corresponder às características de cada uma delas, bem como às condições climáticas e agrológicas locais, sem prejuízo do cumprimento da demais legislação aplicável.\n\n3 - Nos terrenos marginais onde existirem plantações de árvores ou arbustos podem ser criadas áreas de proteção para evitar a descaracterização do enquadramento paisagístico e ambiental da rede viária."
+  },
+  "186868776": {
+   "fragment_id": "186865434",
+   "type": 11,
+   "heading": "Artigo 32.º — Extensão e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Extensão e competência\n\nA entidade competente na gestão de cada tipo de rede viária deve promover a arborização, o revestimento vegetal das vias sob a sua tutela e o cuidado pelos seus tratamentos e conservação."
+  },
+  "186868777": {
+   "fragment_id": "186865435",
+   "type": 8,
+   "heading": "Secção III — Cadastro das vias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Cadastro das vias"
+  },
+  "186868778": {
+   "fragment_id": "186865436",
+   "type": 11,
+   "heading": "Artigo 33.º — Inventário e cartografia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Inventário e cartografia\n\n1 - As diferentes entidades responsáveis pela gestão das vias terrestres devem manter o inventário e a cartografia das suas vias atualizado, em escalas apropriadas.\n\n2 - Da informação cartográfica das vias devem constar os pontos principais dos percursos, tais como povoações, intersecções com outras vias e limites dos municípios, devidamente referenciados por perfis quilométricos."
+  },
+  "186868779": {
+   "fragment_id": "186865437",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "186868780": {
+   "fragment_id": "186865438",
+   "type": 11,
+   "heading": "Artigo 34.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime transitório\n\nOs artigos 4.º a 7.º, assim como os anexos do Decreto Legislativo Regional n.º 15/2005/M, de 9 de agosto, alterado pelo Decreto Legislativo Regional n.º 15/2016/M, de 14 de março, mantêm-se em vigor até publicação e entrada em vigor da regulamentação que os substitua."
+  },
+  "186868781": {
+   "fragment_id": "186865439",
+   "type": 11,
+   "heading": "Artigo 35.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 15/2005/M, de 9 de agosto, alterado pelos Decretos Legislativos Regionais n.os 1/2013/M, de 2 de janeiro, e 15/2016/M, de 14 de março, sem prejuízo do disposto no artigo anterior."
+  },
+  "186868782": {
+   "fragment_id": "186865440",
+   "type": 11,
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "186868843": {
+   "fragment_id": "186865400",
+   "type": 11,
+   "heading": "Artigo 6.º — Categorias das vias",
+   "in_force_from": "2022-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2022/M - Diário da República n.º 146/2022, Série I de 2022-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381), em vigor a partir de 2022-07-30, produz efeitos a partir de 2017-09-16"
+   ],
+   "markdown": "###### Artigo 6.º — Categorias das vias\n\nA rede regional compreende as seguintes categorias de vias:\n\na) Estradas regionais principais;\n\nb) Estradas regionais complementares.\n\nc) Estradas regionais agrícolas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2022/M - Diário da República n.º 146/2022, Série I de 2022-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381), em vigor a partir de 2022-07-30, produz efeitos a partir de 2017-09-16"
+  },
+  "186868845": {
+   "fragment_id": "186869002",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Estradas regionais agrícolas",
+   "in_force_from": "2022-07-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 16/2022/M - Diário da República n.º 146/2022, Série I de 2022-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381), em vigor a partir de 2022-07-30, produz efeitos a partir de 2017-09-16"
+   ],
+   "markdown": "###### Artigo 8.º-A — Estradas regionais agrícolas\n\nAs estradas regionais agrícolas são as vias, de interesse regional, destinadas a estabelecer o acesso a explorações agrícolas, a partir de vias das redes regional, municipal ou florestal, tendo como função principal a entrada dos fatores de produção e o escoamento dos produtos.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 16/2022/M - Diário da República n.º 146/2022, Série I de 2022-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381), em vigor a partir de 2022-07-30, produz efeitos a partir de 2017-09-16"
+  },
+  "186868844": {
+   "fragment_id": "186865404",
+   "type": 11,
+   "heading": "Artigo 9.º — Categorias",
+   "in_force_from": "2022-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2022/M - Diário da República n.º 146/2022, Série I de 2022-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381), em vigor a partir de 2022-07-30, produz efeitos a partir de 2017-09-16"
+   ],
+   "markdown": "###### Artigo 9.º — Categorias\n\n1 - A rede municipal integra as seguintes categorias de vias:\n\na) Estradas municipais principais;\n\nb) Estradas municipais secundárias;\n\nc) Caminhos municipais.\n\nd) Estradas municipais florestais.\n\n2 - Por regulamento, os municípios podem introduzir subcategorias em cada uma das categorias constantes do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2022/M - Diário da República n.º 146/2022, Série I de 2022-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381), em vigor a partir de 2022-07-30, produz efeitos a partir de 2017-09-16"
+  },
+  "186868846": {
+   "fragment_id": "186869003",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Estradas municipais florestais",
+   "in_force_from": "2022-07-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 16/2022/M - Diário da República n.º 146/2022, Série I de 2022-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381), em vigor a partir de 2022-07-30, produz efeitos a partir de 2017-09-16"
+   ],
+   "markdown": "###### Artigo 12.º-A — Estradas municipais florestais\n\n1 - As estradas municipais florestais são as vias que, revestindo-se de interesse geral para um município, estabelecem o acesso, a partir dos aglomerados populacionais ou de vias integradas noutras redes, aos perímetros florestais submetidos ao regime florestal, áreas florestais sob gestão pública e explorações florestais, que ligam estes entre si ou que se desenvolvem no seu interior, com a função de permitirem a exploração e proteção dos recursos florestais e o aproveitamento de outros recursos naturais associados à floresta.\n\n2 - A classificação prevista no n.º 1 do artigo 26.º e a intervenção nas formas previstas no n.º 1 do artigo 3.º quanto às estradas municipais florestais, dependem de parecer prévio vinculativo do Governo Regional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 16/2022/M - Diário da República n.º 146/2022, Série I de 2022-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2022-186831381), em vigor a partir de 2022-07-30, produz efeitos a partir de 2017-09-16"
+  },
+  "186868783": {
+   "fragment_id": "186865441",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2017.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 31 de julho de 2017.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

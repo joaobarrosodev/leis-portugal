@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:570117:por
+title: Portaria n.º 791/2000
+short_title: null
+summary: Cria, no Centro de Estudos e Formação Autárquica (CEFA), o curso de formação profissional para ingresso na carreira
+  de fiscal municipal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Reforma do Estado e da Administração Pública
+proposing_entity: null
+official_number: 791/2000
+official_date: null
+publication_date: '2000-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 218/2000, Série I-B de 2000-09-20
+  number: '218'
+  series: I
+  supplement: null
+  pages: 4974 - 4975
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/09/218b00/49744975.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/791/2000/09/20/p/dre/pt/html
+  oj: null
+  dre: '570117'
+  dre_path: /dr/detalhe/portaria/791-2000-570117
+  internal: pt:dre:570117:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/791-2000-570117
+  metadata_url: https://data.dre.pt/eli/port/791/2000/09/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/791-2000-570117
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:25:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c511e96d114e6fc4fca0daac76168d9cbc8a16efb239bbc8e8c5e3efdf49acc9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira de Fiscal Municipal
+- Centro de Estudos e Formação Autárquica
+- Curso de Formação
+- Formação Profissional
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:214240:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/412-a/1998/12/30/p/dre
+- type: repealed_by
+  target: pt:dre:144880101:por
+  label: Revogada, a partir de 09.10.2020, pelo(a) Portaria n.º 236/2020 - Diário da República n.º 196/2020, Série I de 2020-10-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2020-144880101
+  date: '2020-10-08'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:25:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 791/2000
+
+de 20 de Setembro
+
+Cria e regulamenta o curso de formação profissional para ingresso na carreira de fiscal municipal
+
+O [Decreto-Lei n.º 412-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1998-214240), de 30 de Dezembro, prevê, no seu artigo 4.º, que o ingresso na carreira de fiscal municipal seja condicionado à frequência de um curso de formação profissional, a ministrar pelo Centro de Estudos e Formação Autárquica (CEFA), tornado, entretanto, indispensável, uma vez expirado o período de transição fixado no mesmo diploma.
+
+Este curso de formação profissional constitui assim um requisito obrigatório do provimento na carreira de fiscal municipal, e, para as autarquias, uma formalidade essencial e objectiva a observar no processo de recrutamento dos funcionários dos serviços de fiscalização municipal.
+
+Importa, por conseguinte, cumprir a previsão do legislador, assegurando a concretização de uma garantia de natureza subjectiva e, simultaneamente, de um requisito de índole processual exigido na admissão dos recursos humanos das autarquias.
+
+Por estas razões, tendo em conta as necessidades de formação relacionadas com as funções a exercer pelos futuros fiscais municipais, a quem é necessário ministrar um conjunto de conhecimentos orientados para a iniciação às bases da administração autárquica, e, ainda, para a aquisição de capacidades técnicas concretamente vocacionadas para o seu desempenho profissional;
+
+Em cumprimento do n.º 2 do artigo 4.º do [Decreto-Lei n.º 412-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1998-214240), de 30 de Dezembro:
+
+Manda o Governo, pelos Ministros Adjunto e da Reforma do Estado e da Administração Pública, o seguinte:
+
+1.º
+
+Criação
+
+É criado, no Centro de Estudos e Formação Autárquica (CEFA), o curso de formação profissional para ingresso na carreira de fiscal municipal.
+
+2.º
+
+Objectivos
+
+O curso visa constituir um instrumento de formação inicial dos candidatos a fiscal municipal, orientada para a aquisição de conhecimentos básicos sobre administração autárquica, com especial enfoque nas atribuições relacionadas com a fiscalização municipal e para o desenvolvimento das aptidões requeridas no exercício das competências profissionais deste grupo de pessoal.
+
+3.º
+
+Destinatários
+
+Podem candidatar-se ao curso indivíduos habilitados com o 12.º ano de escolaridade, referidos na alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 412-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1998-214240), de 30 de Dezembro.
+
+4.º
+
+Duração e plano de estudos
+
+1 - O curso tem a duração de quinhentas e dezasseis horas, organizadas em dois ciclos de formação, sendo o respectivo plano de estudos o constante do anexo à presente portaria, que dela faz parte integrante.
+
+2 - Para além das disciplinas mencionadas no anexo referido no número anterior, o curso pode compreender seminários, conferências e colóquios sobre temas de especial actualidade relacionados com a área de especialização principal.
+
+3 - O CEFA poderá atribuir equivalências a disciplinas constantes do plano de estudos referido no n.º 1 deste artigo, em relação a disciplinas de outros cursos regulados por lei e por si próprio ministrados e avaliados.
+
+5.º
+
+Admissão ao curso
+
+1 - São admitidos ao curso de formação profissional para a carreira de fiscal municipal os candidatos aprovados num concurso de admissão realizado pelo CEFA, o qual compreende as seguintes provas:
+
+a) Prova escrita de português;
+
+b) Prova escrita de cultura geral.
+
+2 - A prova de português consta da interpretação de um texto literário e da elaboração de uma composição sobre um tema relacionado com o conteúdo do texto.
+
+3 - A prova de cultura geral compreende perguntas sobre assuntos variados e uma exposição sobre um tema cuja bibliografia elementar seja anunciada com a antecedência de, pelo menos, 30 dias.
+
+4 - A admissão depende da aprovação nas provas de português e de cultura geral, avaliadas na escala de 0 a 20 valores, devendo o aluno obter 10 valores, pelo menos, de média e não ter em qualquer delas menos de 8 valores.
+
+5 - A admissão ao curso poderá ser sujeita a limitações quantitativas, fixadas, anualmente, pelo conselho directivo do CEFA, atendendo às capacidades de formação e aos recursos disponíveis da instituição.
+
+6 - O conselho directivo do CEFA aprovará um regulamento destinado a estabelecer as regras de organização e funcionamento do curso.
+
+6.º
+
+Articulação com as autarquias locais
+
+O CEFA solicitará às autarquias locais a indicação do número de fiscais municipais que pretendem recrutar em cada ano, com vista à adequação do número de candidatos a admitir à frequência do curso aos postos de trabalho efectivamente disponíveis nos serviços municipais.
+
+7.º
+
+Avaliação de conhecimentos e atribuição de diplomas
+
+1 - A avaliação de conhecimentos é feita por disciplina, podendo prever-se, ainda, uma classificação global no final de cada ciclo de formação.
+
+2 - Consideram-se aprovados os formandos que na avaliação referida no número anterior obtenham uma classificação igual ou superior a 10 valores.
+
+3 - Os formandos não aprovados podem vir a sujeitar-se a nova avaliação em época especial de recurso, nos termos a definir no regulamento a que se refere o n.º 6 do n.º 5.º da presente portaria.
+
+4 - Os formandos que não obtenham aproveitamento na avaliação referida nos números anteriores não poderão ingressar na carreira de fiscal municipal.
+
+5 - Aos formandos aprovados na totalidade das disciplinas constantes do plano de estudos referido no anexo a esta portaria será atribuído o correspondente diploma de titularidade do curso.
+
+6 - A frequência às aulas é obrigatória, determinando as faltas em número superior a 20% das aulas dadas em qualquer disciplina durante o semestre a perda automática do aproveitamento desta.
+
+8.º
+
+Custos de inscrição
+
+A inscrição no curso ficará condicionada ao pagamento de custos de inscrição, cujo montante será fixado, anualmente, pelo conselho directivo do CEFA.
+
+9.º
+
+Dúvidas e lacunas
+
+As dúvidas e lacunas suscitadas na aplicação da presente portaria serão preenchidas por despacho conjunto dos membros do Governo que têm a seu cargo a administração local e a Administração Pública.
+
+Em 10 de Agosto de 2000.
+
+O Ministro Adjunto, Fernando Manuel dos Santos Gomes. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.
+
+## ANEXO — Plano de estudos
+
+Ciclo de iniciação ... Horas
+
+1 - Noções gerais de direito ... 44
+
+2 - Organização do Estado e da Administração ... 33
+
+3 - Deontologia profissional e Estatuto dos Funcionários Autárquicos ... 44
+
+4 - Técnicas de comunicação escrita e oral ... 51
+
+5 - Informática ... 44
+
+6 - Âmbito, sentido e limites da fiscalização municipal ... 36
+
+Total ... 252
+
+Ciclo de especialização ... Horas
+
+1 - Procedimento administrativo e defesa dos administrados ... 36
+
+2 - Noções de direito e processo penal ... 24
+
+3 - Relações com o público e resolução de conflitos ... 36
+
+4 - Protecção civil ... 24
+
+5 - Protecção do património cultural, natural e ambiental ... 36
+
+6 - Ordenamento territorial e regulação urbanística ... 36
+
+7 - Contra-ordenações ... 36
+
+8 - Noções básicas de construção civil ... 18
+
+9 - Abastecimento público, mercados e defesa do consumidor ... 18
+
+Total ... 264

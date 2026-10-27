@@ -1,0 +1,518 @@
+---
+schema_version: '1.0'
+id: pt:dre:581667:por
+title: Decreto Regulamentar Regional n.º 24/2000/A
+short_title: null
+summary: Regulamenta o sistema de apoios à recuperação, conservação e valorização do património baleeiro da Região Autónoma
+  dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Secretaria Regional da Educação e Assuntos Sociais
+proposing_entity: null
+official_number: 24/2000/A
+official_date: null
+publication_date: '2000-09-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/2000, Série I-B de 2000-09-07
+  number: '207'
+  series: I
+  supplement: null
+  pages: 4766 - 4769
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/09/207b00/47664769.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-01-29'
+version_history:
+  file: decreto-regulamentar-regional-24-2000-a.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2000-09-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-29'
+    amending: pt:dre:66357210:por
+    amending_title: Decreto Regulamentar Regional n.º 2/2015/A
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Artigo 8.º-B
+    - Adita Artigo 8.º-C
+    - Adita Secção IV
+    - Adita Artigo 19.º-A
+    - Adita Artigo 19.º-B
+    - Adita Artigo 19.º-C
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 24.º
+    - Revoga Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/24/2000/a/cons/20150128/pt/html
+  oj: null
+  dre: '581667'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/24-2000-581667
+  internal: pt:dre:581667:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2000-581667
+  metadata_url: https://data.dre.pt/eli/decregulreg/24/2000/a/cons/20150128/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2000-66476864
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2000-66476864
+  retrieved_at: '2026-10-22T11:57:59Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8b845b17cbe6745cad8d66a479f792f832f8e8ab5dec7771ea5bbb2f83c0e43e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:57:59Z'
+  notes: 2 versão(ões); histórico completo em decreto-regulamentar-regional-24-2000-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação
+- Financiamento
+- Cooperação Financeira
+- Cooperação Técnica
+- Direcção Regional da Cultura
+- Património Baleeiro Regional
+- Património Histórico
+- Protecção do Património
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:66357210:por
+  label: Adita Artigo 8.º-A; Adita Artigo 8.º-B; Adita Artigo 8.º-C; Adita Secção IV; Adita Artigo 19.º-A; Adita Artigo 19.º-B;
+    Adita Artigo 19.º-C; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera
+    Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 24.º; Revoga
+    Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210
+  date: '2015-01-28'
+- type: cites
+  target: pt:dre:292945:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/16/2000/05/30/a/dre
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/13/1998/08/04/a/dre
+article_structure:
+  article_count: 32
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:57:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 24/2000/A
+
+Decreto Regulamentar Regional n.º 24/2000/A
+
+Considerando que o Decreto Legislativo Regional n.º 13/98/A, de 4 de Agosto, define e caracteriza o património baleeiro regional e estabelece medidas e apoios destinados à respectiva inventariação, recuperação, preservação e utilização;
+
+Considerando a necessidade de aprovar a regulamentação das normas e sistemas de apoio à recuperação e conservação de botes e lanchas baleeiras, à sua dotação com meios de salvamento e à recuperação e conservação de imóveis e infra-estruturas associados à baleação e à indústria baleeira:
+
+Assim, tendo em conta o disposto no Decreto Legislativo Regional n.º 13/98/A, de 4 de Agosto, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma regulamenta o sistema de apoios à recuperação, conservação e valorização do património baleeiro da Região Autónoma dos Açores, classificado, nos termos da lei, face ao seu interesse histórico, cultural e turístico.
+
+###### Artigo 2.º — Âmbito
+
+1 - Os apoios são concedidos através da celebração de contratos de cooperação técnica e financeira, contratos de financiamento, subsídios e bolsas e abrangem:
+
+a) As embarcações baleeiras, respectiva palamenta e demais equipamentos, incluindo meios de salvamento exigidos por lei;
+
+b) Os imóveis e infra-estruturas associados à baleação e à indústria baleeira inventariados na Região Autónoma dos Açores;
+
+c) Os estudos sobre a história, antropologia e arqueologia industrial da baleação açoriana, e salvaguarda do respetivo património documental e do espólio material ligado à atividade baleeira;
+
+d) O fomento de atividades educacionais e formativas, desportivas, de turismo e lazer relacionadas com o património baleeiro;
+
+e) O licenciamento dos botes baleeiros, quando necessário, com vista à utilização dos mesmos como embarcações marítimo-turísticas;
+
+f) A construção ou aquisição de imóveis para proteção das embarcações baleeiras.
+
+2 - Podem candidatar-se aos apoios previstos no presente diploma os proprietários de bens classificados de património baleeiro, os indivíduos ou entidades que desenvolvam actividades enquadráveis no n.º 1 e ainda as entidades com as quais existam protocolos para utilização de património baleeiro pertencente à Região.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 3.º — Contratos
+
+1 - Os contratos de cooperação técnica e financeira e os contratos de financiamento são reduzidos a escrito e subscritos pelo secretário regional da tutela e pelos particulares promotores das actividades que constituírem o seu objecto.
+
+2 - O secretário regional da tutela pode delegar no director regional da Cultura, com possibilidade de subdelegação, a competência referida no número anterior.
+
+3 - Os participantes que sejam pessoas colectivas são representados pelo titular do órgão que constar dos respectivos estatutos.
+
+4 - Os contratos têm a duração correspondente ao projecto ou programa a desenvolver, podendo abranger mais de um ano civil, em função da natureza da actividade ou das disponibilidades orçamentais.
+
+5 - Os contratos de cooperação técnica e financeira e os contratos de financiamento contêm obrigatoriamente a identificação das partes, referência ao Decreto Legislativo Regional n.º 13/98/A, de 4 de Agosto, e ao presente regulamento e as seguintes cláusulas:
+
+a) Descrição pormenorizada dos projectos ou actividades a desenvolver;
+
+b) Instalações, equipamentos e meios humanos, técnicos e financeiros a disponibilizar pelas partes ou por terceiros;
+
+c) Datas de início e termo dos projectos ou actividades.
+
+6 - Poderão ser introduzidas outras cláusulas, quando se mostre aconselhável salvaguardar interesses específicos relacionados com o objecto concreto dos contratos, com a qualidade do particular ou com a participação de terceiros.
+
+###### Artigo 4.º — Processo
+
+1 - O processo inicia-se com o envio ou entrega do projeto na direção regional com competência em matéria de cultura ou num dos museus da Rede Regional de Museus dos Açores.
+
+2 - O projecto deverá conter todos os elementos que possam contribuir para a sua clarificação, nomeadamente os seguintes:
+
+a) Identificação completa do candidato;
+
+b) Resumo do currículo do proponente, tratando-se de pessoa singular, ou das actividades já desenvolvidas, se for pessoa colectiva, e dos formadores ou animadores, quando se justificar;
+
+c) Documento descritivo do projeto ou da atividade que, para além de integrar o plano de atividades a desenvolver, com todos os pormenores relevantes para a avaliação do seu mérito e interesse para a Região, deverá conter o relatório de atividades realizadas e respetiva execução financeira, relativa ao apoio anteriormente concedido, com discriminação dos materiais e tempos de duração da execução dos trabalhos;
+
+d) Meios necessários;
+
+e) Meios disponibilizados pelo interessado ou por terceiros;
+
+f) Orçamento discriminado;
+
+g) Datas de início e termo do projecto ou actividade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 5.º — Prazos
+
+1 - Por despacho do membro do Governo Regional com competência em matéria de cultura, publicado até ao dia 31 de janeiro, será definido o prazo para entrega das candidaturas, abrangendo as atividades a desenvolver no ano seguinte.
+
+2 - A não entrega da totalidade dos documentos referidos no n.º 2 do artigo 4.º, até ao prazo estipulado no despacho mencionado no ponto anterior, implica a não aceitação da candidatura.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 6.º — Concessão
+
+A concessão de apoios depende de despacho do secretário regional da tutela, sob proposta da Direcção Regional da Cultura, após parecer da comissão consultiva.
+
+### Capítulo II — Apoios
+
+#### Secção I — Reparação e manutenção de embarcações baleeiras, respectiva palamenta e demais equipamentos
+
+###### Artigo 7.º — Recuperação
+
+1 - Os apoios para recuperação de botes e lanchas baleeiras abrangem todas as embarcações classificadas existentes na Região e destinam-se a:
+
+a) Recuperar os cascos, incluindo substituição dos seus elementos, cavername, cabina, mastros, remos e outros elementos construtivos;
+
+b) Executar as velas;
+
+c) Grande recuperação e aquisição de motores e respectiva montagem.
+
+2 - Os apoios a atribuir para a recuperação de botes e lanchas são até ao valor de 75 % do custo dos respetivos trabalhos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 8.º — Conservação
+
+1 - Os apoios a atribuir para os trabalhos de conservação de botes e lanchas baleeiras abrangem todas as embarcações classificadas existentes na Região e destinam-se a:
+
+a) Pintura das embarcações e calafetagem dos cascos das lanchas;
+
+b) Substituição de cabos;
+
+c) Reparação dos panos das velas;
+
+d) Revisão de motores, no caso específico das lanchas.
+
+2 - Os apoios a atribuir para a conservação de cada bote e cada lancha são, respetivamente, até ao valor de 75 % e até 80 % do custo dos respetivos trabalhos.
+
+3 - Os apoios a botes baleeiros serão atribuídos, exclusivamente, em função do número de regatas em que o bote alvo de apoio participa, a saber:
+
+a) 1 a 2 regatas - até 30 %;
+
+b) 3 a 5 regatas - até 40 %;
+
+c) 6 a 8 regatas - até 50 %;
+
+d) Mais de 8 regatas - até 75%;
+
+4 - As regatas que obriguem à deslocação de botes entre os grupos de ilhas (ocidental, central e oriental) serão, para efeitos do número anterior, contabilizadas a duplicar.
+
+5 - Os apoios a lanchas serão atribuídos, exclusivamente, em função do número de regatas em que a lancha alvo de apoio participa, a saber:
+
+a) 1 a 2 regatas - até 30 %;
+
+b) 3 a 5 regatas - até 50 %;
+
+c) 6 a 8 regatas - até 70 %;
+
+d) Mais de 8 regatas - até 80 %.
+
+6 - As regatas que obriguem a deslocação de lanchas entre as ilhas do 'Triângulo' (S. Jorge, Pico e Faial) e as ilhas da Graciosa ou Terceira serão, para efeitos do número anterior, contabilizadas a duplicar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 8.º-A — Licenciamento para efeitos de utilização por empresas marítimo-turísticas
+
+1 - São apoiados integralmente os gastos no âmbito do licenciamento das embarcações para fins de divulgação turística.
+
+2 - Os apoios a atribuir para o licenciamento dos botes baleeiros para sua utilização por empresas marítimo-turísticas abrangem todas as embarcações classificadas existentes na Região e destinam-se a:
+
+a) Certificação da lotação;
+
+b) Emissão de licença;
+
+c) Prestação inicial anual do seguro.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29
+
+###### Artigo 8.º-B — Formação
+
+1 - Os apoios a atribuir para os programas de formação nas artes de velejar e remar em botes baleeiros destinam-se a apoiar a aplicação dos programas específicos e deverão abranger os seguintes domínios:
+
+a) Conhecimento de todas as componentes da embarcação;
+
+b) Tripulação e segurança;
+
+c) Iniciação à vela e remo, e respetivas técnicas de velejar e remar em botes baleeiros;
+
+d) Prática desportiva e competição.
+
+2 - Os apoios à formação serão atribuídos em função do número de formandos e cursos de formação realizados, tendo como unidade a tripulação de um bote baleeiro e destinam-se a cursos de formação com o mínimo de duração de vinte e quatro horas, divididas por doze horas teóricas e doze horas práticas.
+
+3 - Os apoios a atribuir para a formação são até 80 % dos custos com o formador e com o combustível da embarcação de apoio.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29
+
+###### Artigo 8.º-C — Critérios de Apreciação
+
+1 - A apreciação do interesse para a Região dos projetos apresentados resulta da ponderação dos seguintes fatores:
+
+a) Mérito intrínseco do projeto, tendo em conta a sua qualidade pedagógica e formativa;
+
+b) Capacidade de realização, a deduzir do currículo ou atividades já desenvolvidas pelo candidato ou por terceiros envolvidos;
+
+c) Outros expressamente indicados pela comissão consultiva.
+
+2 - Compete à comissão consultiva fixar o peso relativo com que cada um dos fatores contribui para a apreciação geral.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29
+
+###### Artigo 9.º — Processamento dos apoios
+
+1 - O processamento dos apoios para a recuperação de botes e lanchas baleeiras é escalonado da seguinte forma:
+
+a) 50% do valor global do orçamento, quando da adjudicação do trabalho ao estaleiro naval dele encarregue;
+
+b) 30% do valor do orçamento quando estiverem executados 50% do trabalho;
+
+c) 20% do valor do orçamento quando da conclusão do trabalho.
+
+2 - O processamento dos apoios para a conservação de botes e lanchas baleeiras será realizado numa única prestação.
+
+3 - O processamento dos apoios para o licenciamento, para efeitos de utilização por empresas marítimo-turísticas, será realizado numa única prestação.
+
+4 - O processamento dos apoios para a formação nas artes de velejar e remar em botes baleeiros será igualmente realizado numa única prestação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 10.º — Critérios
+
+Nos trabalhos de recuperação e conservação de botes e lanchas baleeiras apenas será permitida a aplicação de técnicas e materiais tradicionais de modo a evitar a sua descaracterização a nível de construção e recuperação naval.
+
+###### Artigo 11.º — Dotação das embarcações com os meios de salvamento
+
+Os botes e lanchas baleeiras classificados em condições de navegabilidade beneficiam de uma comparticipação até 75 % das despesas de dotação das embarcações com meios de salvação, aparelhos, instrumentos e meios de segurança, meios de radiocomunicações, instrumentos náuticos e primeiros socorros.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 12.º — Apresentação da candidatura
+
+Para além dos elementos referidos no n.º 2 do artigo 4.º, os pedidos de apoio devem ser acompanhados do respectivo orçamento, com discriminação dos materiais e tempos de duração da execução dos trabalhos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29
+
+#### Secção II
+
+Comparticipação na reparação e manutenção de imóveis, infra-estruturas e equipamentos ligados à indústria baleeira
+
+###### Artigo 13.º — Recuperação e conservação de imóveis
+
+1 - Os apoios para a recuperação e conservação de imóveis e infra-estruturas associadas à baleação e à indústria baleeira abrangem todos os imóveis classificados existentes na Região.
+
+2 - Os apoios são regulados nos termos do regime de apoios à recuperação e conservação do património cultural imóvel.
+
+3 - Os projectos, para além da aprovação pela Direcção Regional da Cultura, carecem de licenciamento camarário nos casos previstos na lei.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 14.º — Apresentação da candidatura
+
+1 - Para além dos elementos referidos no n.º 2 do artigo 4.º, os pedidos de apoios para os trabalhos de recuperação e conservação devem ser acompanhados de projecto, medições e orçamento discriminativo.
+
+2 - Os projetos devem ser instruídos nos termos previstos no regime de apoios à recuperação e conservação do património cultural imóvel.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 15.º — Processamento de apoios para imóveis
+
+O processamento de apoios para imóveis, infraestruturas e equipamentos ligados à indústria baleeira será escalonado conforme previsto no regime de apoios à recuperação e conservação do património cultural imóvel.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+#### Secção III — Outros apoios
+
+###### Artigo 16.º — Estudos e actividades relacionadas com o património baleeiro
+
+Os apoios a estudos ou actividades relacionadas com o património baleeiro podem revestir a forma de bolsas de estudo ou subsídios, cujo montante será proposto pela comissão consultiva em função dos factores de avaliação dos projectos previstos no presente regulamento.
+
+###### Artigo 17.º — Apresentação da candidatura
+
+Os projectos deverão conter todos os elementos que possam contribuir para a sua clarificação, nomeadamente os elementos referidos no n.º 2 do artigo 4.º
+
+###### Artigo 18.º — Critérios de apreciação
+
+1 - A apreciação do interesse para a Região dos projectos apresentados resulta da ponderação dos seguintes factores:
+
+a) Mérito intrínseco do projecto apresentado, tendo em conta o seu valor histórico-cultural, a qualidade e a imaginação nos processos de intervenção, a inovação, a diversidade dos objectivos e a preocupação com a dimensão cultural da sociedade;
+
+b) Capacidade de realização, a deduzir do currículo ou actividades já desenvolvidas pelo candidato ou por terceiros envolvidos;
+
+c) Interesse do público;
+
+d) Outros expressamente indicados pela comissão consultiva.
+
+2 - Compete à comissão consultiva fixar o peso relativo com que cada um dos factores contribui para a apreciação geral.
+
+###### Artigo 19.º — Actividades educacionais, desportivas, de turismo e lazer relacionadas com o património baleeiro
+
+Os projectos relacionados com a educação, desporto e turismo são objecto de parecer das direcções regionais competentes, em razão das actividades a promover.
+
+#### Secção IV — Comparticipação na aquisição ou construção de imóveis para recolha de botes baleeiros
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29
+
+###### Artigo 19.º-A — Construção ou aquisição de imóveis
+
+1 - Os apoios para a construção e aquisição de imóveis destinados à recolha de botes baleeiros classificados, abrangem todos os edifícios a construir ou a adquirir, exclusivamente, para essa função.
+
+2 - Os projetos de construção ou os imóveis construídos carecem dos licenciamentos previstos na lei e deverão acompanhar a instrução do processo.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29
+
+###### Artigo 19.º-B — Critérios de apreciação
+
+1 - A apreciação do interesse para a Região dos projetos apresentados resulta da ponderação dos seguintes fatores:
+
+a) Mérito intrínseco do projeto apresentado, tendo em conta a sua qualidade formal e construtiva, bem como a sua integração no território;
+
+b) Custo da operação e sua justificação técnica;
+
+c) Adequação do local e interesse público;
+
+d) Outros expressamente indicados pela comissão consultiva.
+
+2 - Compete à comissão consultiva fixar o peso relativo com que cada um dos fatores contribui para a apreciação geral.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29
+
+###### Artigo 19.º-C — Apoios
+
+1 - São apoiados os gastos no âmbito da construção e aquisição de imóveis destinados à recolha de botes baleeiros classificados.
+
+2 - Os apoios a atribuir para a construção dos imóveis, destinados à recolha de botes baleeiros classificados, são processados da seguinte forma:
+
+a) 30 % do valor global, após o início da intervenção;
+
+b) 30 % do valor global, após estarem executados 50 % dos trabalhos comparticipados;
+
+c) Os restantes 40 %, após a entrega do relatório final de conclusão.
+
+3 - Os apoios a atribuir para a aquisição dos imóveis destinados à recolha de botes baleeiros classificados, são processados da seguinte forma:
+
+a) 10 % com a celebração do contrato-promessa de compra e venda;
+
+b) 90 % com a celebração da escritura
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29
+
+### Capítulo III — Disposições finais
+
+###### Artigo 20.º — Fiscalização
+
+A fiscalização dos apoios atribuídos ao abrigo do presente diploma é da competência da Direcção Regional da Cultura.
+
+###### Artigo 21.º — Caducidade dos apoios
+
+Os apoios caducam no caso de:
+
+a) Os projectos não se terem iniciado, sem justificação, nos prazos previstos;
+
+b) Os projectos serem interrompidos injustificadamente.
+
+###### Artigo 22.º — Reembolso dos apoios
+
+A utilização indevida das verbas atribuídas ou o incumprimento dos projectos aprovados obriga os beneficiários a reembolsar a Região Autónoma dos Açores dos montantes já processados, acrescidos dos juros legais.
+
+###### Artigo 23.º — Reembolso de investimento
+
+As verbas próprias investidas por entidades utilizadoras de botes e lanchas da Região, no que respeita a recuperação de cascos, mastros, remos, velas e motores, serão integralmente devolvidas à entidade utilizadora, no caso de a embarcação ser retirada a essa mesma entidade nos cinco anos subsequentes ao investimento.
+
+###### Artigo 24.º — Verba
+
+As verbas necessárias à concessão dos apoios previstos neste diploma são inscritas em ações próprias do Plano da Região, no Programa de Defesa e Valorização do Património Arquitetónico e Cultural
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210), em vigor a partir de 2015-01-29.
+
+###### Artigo 25.º — Venda e alienação a terceiros
+
+Para além do disposto no artigo 16.º do Decreto Legislativo Regional n.º 13/98/A, de 4 de Agosto, os bens que tenham sido objecto dos apoios previstos no presente diploma só podem ser transaccionados ou alienados após parecer favorável do secretário regional da tutela.
+
+###### Artigo 26.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Julho de 2000.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 22 de Agosto de 2000.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

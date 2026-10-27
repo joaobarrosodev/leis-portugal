@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:537452:por
+title: Decreto-Lei n.º 45915
+short_title: null
+summary: Substitui a alínea a) do artigo 33.º do Decreto-Lei n.º 28401, alterado pelo Decreto-Lei n.º 32692 (reorganização
+  dos quadros e efectivos do Exército)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete do Ministro
+proposing_entity: null
+official_number: '45915'
+official_date: null
+publication_date: '1964-09-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 216/1964, Série I de 1964-09-14
+  number: '216'
+  series: I
+  supplement: null
+  pages: 1178 - 1178
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/09/21600/11781178.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '537452'
+  dre_path: /dr/detalhe/decreto-lei/45915-1964-537452
+  internal: pt:dre:537452:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45915-1964-537452
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45915-1964-537452
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3779ca72e93b71d1bc6ff381c2a0f6e73a020b35c658f9dc43d83f6af4191f59
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:50:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Especialidade Militar
+- Exército
+- Forças Armadas
+- Militar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:301397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668687:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:50:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45915
+
+Considerando que a organização geral do Ministério do Exército, promulgada pelo [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, cria lugares para coronéis do activo do serviço de administração militar que não podem ser preenchidos por virtude da insuficiência do seu quadro orgânico, instituído pelo [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, alterado pelo [Decreto-Lei n.º 32692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32692-1943-301397), de 20 de Fevereiro de 1943;
+
+Convindo proceder, sem aumento de encargos para o Tesouro, ao reajustamento do referido quadro orgânico às exigências prementes das actividades administrativo-logísticas impostas pela actual conjuntura ultramarina, nos seus sectores de direcção e coordenação, actividades estas actualmente prejudicadas pelo desequilíbrio do quadro nos postos de tenentes-coronéis e coronéis;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. A alínea a) do artigo 33.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, alterado pelo [Decreto-Lei n.º 32692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32692-1943-301397), de 20 de Fevereiro de 1943, é substituída pela seguinte:
+
+a) Oficiais:
+
+6 coronéis;
+
+8 tenente-coronéis;
+
+14 majores;
+
+60 capitães;
+
+83 subalternos.
+
+Publique-se e compra-se como nele se contém.
+
+Paços do Governo da República, 14 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

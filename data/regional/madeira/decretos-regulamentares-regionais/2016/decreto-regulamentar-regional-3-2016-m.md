@@ -1,0 +1,699 @@
+---
+schema_version: '1.0'
+id: pt:dre:73230228:por
+title: Decreto Regulamentar Regional n.º 3/2016/M
+short_title: null
+summary: Primeira alteração ao Decreto Regulamentar Regional n.º 6/2015/M, de 10 de julho, que aprova a orgânica da Secretaria
+  Regional dos Assuntos Parlamentares e Europeus
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 3/2016/M
+official_date: null
+publication_date: '2016-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 14/2016, Série I de 2016-01-21
+  number: '14'
+  series: I
+  supplement: null
+  pages: 201 - 206
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/01/01400/0020100206.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/3/2016/01/21/m/dre/pt/html
+  oj: null
+  dre: '73230228'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/3-2016-73230228
+  internal: pt:dre:73230228:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2016-73230228
+  metadata_url: https://data.dre.pt/eli/decregulreg/3/2016/01/21/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2016-73230228
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 75c7ff6329eea85f9e39ab8430e3bf335e1eaf081ca047fa2d9c76f4c0c46da5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Administração Regional
+- Criação de Serviços
+- Definição de Competências
+- Direção Regional de Planeamento Recursos e Gestão de Obras Públicas
+- Direcção Regional da Administração da Justiça
+- Direcção Regional de Estradas
+- Direcção Regional de Infra-estruturas e Equipamentos
+- Direcção Regional dos Assuntos Europeus e da Cooperação Externa
+- Direcção Regional dos Edifícios Públicos
+- Extinção de Serviços
+- Gestão de Recursos Humanos
+- Governo Regional
+- Integração de Serviços
+- Laboratório Regional de Engenharia Civil
+- Madeira.região Autónoma
+- Orgânica
+- Organismo do Estado
+- Pessoal Dirigente
+- Reestruturação de Serviços
+- Representação Permanente da RAM
+- Secretaria Regional
+- Secretaria Regional dos Assuntos Parlamentares e Europeus
+- Transferência de Pessoal
+- Viamadeira
+- Vice-presidência do Governo Regional
+relationships:
+- type: amended_by
+  target: pt:dre:114561727:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:174546:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/22/2012/08/24/m/dre
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: pt:dre:174831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191101:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/34/2012/11/16/m/dre
+- type: cites
+  target: pt:dre:242032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69782196:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/6/2015/07/10/m/dre
+- type: repealed_by
+  target: pt:dre:114561727:por
+  label: Revogado,o DRR 6/2015/M de 10-jul, na redação do presente diploma, à exceção da parte referente aos diversos órgãos
+    e serviços não regulamentados no presente diploma, cujas atribuições e competências transitaram para outros departamentos
+    governamentais, que se mantém em vigor até à data da entrada em vigor dos diplomas que aprovarão as respetivas orgânicas
+    pelo(a) Decreto Regulamentar Regional n.º 2/2018/M - Diário da República n.º 17/2018, Série I de 2018-01-24, nos termos
+    do seu art. 19.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2018-114561727
+  date: '2018-01-24'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:48:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 3/2016/M
+
+Primeira Alteração do [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho, que aprova a orgânica da Secretaria Regional dos Assuntos Parlamentares e Europeus
+
+Terminado um ciclo caracterizado pelo forte investimento público na infraestruturação do território regional que foi realizado para superar as principais carências nesse domínio, importa agora continuar a redimensionar a administração pública regional no sentido de simplificar as estruturas organizacionais, melhorar a eficiência e eficácia dos serviços e reduzir a despesa pública.
+
+Com esse propósito, através do presente diploma, procede-se à extinção da Representação Permanente da Região Autónoma da Madeira em Lisboa, da Direção Regional de Edifícios Públicos e da Direção Regional de Infraestruturas e Equipamentos e à criação da Direção Regional de Equipamento Social e Conservação, transferindo-se as atribuições e competências das duas direções regionais extintas para o serviço ora criado.
+
+Pretende-se com esta alteração garantir e assegurar uma maior eficiência na gestão dos recursos financeiros, humanos, logísticos e materiais, aumentando a eficácia da intervenção da administração pública regional, nomeadamente no que se refere a infraestruturas e equipamentos.
+
+Assim, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado e republicado pelo [Decreto Legislativo Regional n.º 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à primeira alteração da Orgânica da Secretaria Regional dos Assuntos Parlamentares e Europeus, aprovada pelo [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho.
+
+###### Artigo 2.º — Alteração do [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho
+
+1 - Os artigos 5.º, 10.º e 14.º da Orgânica da Secretaria Regional dos Assuntos Parlamentares e Europeus, aprovada pelo [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho, passam a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) Direção Regional de Equipamento Social e Conservação.
+
+2 - (Revogado.)
+
+3 - ...
+
+4 - Os serviços referidos nas alíneas b), c), e f) a i) do n.º 1 são serviços executivos que garantem a prossecução das políticas referidas no artigo 1.º do presente diploma e são dirigidos por um diretor regional, cargo de direção superior de 1.º grau.
+
+5 - ...
+
+6 - ...
+
+Artigo 10.º
+
+[...]
+
+A Direção Regional dos Assuntos Europeus e da Cooperação Externa tem por missão prosseguir a definição, a coordenação e a execução da ação externa do Governo Regional no domínio dos assuntos europeus e da cooperação externa junto das instâncias próprias nacionais e das instituições e dos órgãos da União Europeia, bem como das organizações inter-regionais europeias e internacionais, em concertação com os departamentos do Governo Regional competente.
+
+Artigo 14.º
+
+[...]
+
+A Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas tem por missão assegurar as funções de apoio técnico e logístico à Direção Regional de Equipamento Social e Conservação nos domínios da gestão dos recursos humanos, do apoio técnico-jurídico e contencioso, da documentação de informação, da contratação pública, da programação e planeamento estratégico e do controlo e gestão orçamental.»
+
+2 - O Anexo I da Orgânica da Secretaria Regional dos Assuntos Parlamentares e Europeus, aprovado pelo [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho, passa a ter a seguinte redação:
+
+«ANEXO I
+
+Cargos de direção superior da administração direta
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/01400/0020100206.pdf)
+
+Artigo 3.º
+
+Aditamento de artigos ao [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho
+
+No capítulo III, secção II do [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho, é aditado o artigo 15.º-A, com a seguinte redação:
+
+«Artigo 15.º-A
+
+Direção Regional de Equipamento Social e Conservação
+
+A Direção Regional de Equipamento Social e Conservação tem por missão assegurar a manutenção, a conservação e a reabilitação de edifícios, equipamentos e infraestruturas públicas, bem como a concretização de obras públicas, por forma a garantir a execução de políticas do Governo Regional para o sector.»
+
+Artigo 4.º
+
+Extinção e criação de serviços
+
+1 - É criada a Direção Regional de Equipamento Social e Conservação.
+
+2 - São extintos, sendo objeto de fusão, os seguintes serviços:
+
+a) Direção Regional de Edifícios Públicos, sendo as suas atribuições integradas na Direção Regional de Equipamento Social e Conservação;
+
+b) Direção Regional de Infraestruturas e Equipamentos, sendo as suas atribuições integradas na Direção Regional de Equipamento Social e Conservação.
+
+3 - É ainda extinta, a Representação Permanente da Região Autónoma da Madeira em Lisboa.
+
+Artigo 5.º
+
+Produção de efeitos
+
+1 - A criação e fusão previstas no artigo anterior apenas produzem efeitos com a entrada em vigor do diploma que proceder à aprovação da orgânica da Direção Regional de Equipamento Social e Conservação.
+
+2 - A extinção da Representação Permanente da Região Autónoma da Madeira em Lisboa produz efeitos com a entrada em vigor do presente diploma.
+
+3 - A nomeação do titular do cargo de direção superior do serviço criado pelo presente diploma, tem lugar após a entrada em vigor do diploma que proceder à aprovação da orgânica da Direção Regional de Equipamento Social e Conservação.
+
+4 - Ao processo de fusão aplica-se as regras previstas no [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro.
+
+Artigo 6.º
+
+Orgânicas dos serviços
+
+1 - O diploma orgânico da Direção Regional de Equipamento Social e Conservação é aprovado no prazo de 45 dias a contar da entrada em vigor do presente diploma.
+
+2 - Até à aprovação do diploma referido no número anterior, mantêm-se os diplomas orgânicos, nomeadamente missão, atribuições, competências dos Diretores Regionais e respetiva organização interna dos serviços extintos.
+
+Artigo 7.º
+
+Norma revogatória
+
+1 - São revogados:
+
+a) O [Decreto Regulamentar Regional n.º 22/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2012-174546), de 24 de agosto;
+
+b) O [Decreto Regulamentar Regional n.º 34/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2012-191101), de 16 de novembro.
+
+2 - São revogadas as alíneas h) do n.º 1 do artigo 2.º, as d) e e) do n.º 1 e o n.º 2 do artigo 5.º, os artigos 11.º, 12.º e 16.º do [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho.
+
+3 - É eliminada a Secção III do Capítulo III do [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho.
+
+4 - Sem prejuízo do estabelecido no artigo seguinte, as revogações previstas nos n.os 1 e 2 do presente artigo produzem efeitos à data da entrada em vigor do diploma que proceder à aprovação da orgânica da Direção Regional de Equipamento Social e Conservação.
+
+5 - As revogações da alínea h) do n.º 1 do artigo 2.º, do n.º 2 do artigo 5.º e do artigo 16.º do [Decreto Regulamentar Regional 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho, produzem efeitos à data da entrada em vigor do presente diploma.
+
+Artigo 8.º
+
+Republicação
+
+É republicada em anexo ao presente diploma, do qual faz parte integrante, a orgânica da Secretaria Regional dos Assuntos Parlamentares e Europeus, publicada em anexo ao [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196), de 10 de julho, com as alterações introduzidas pelo presente diploma.
+
+Artigo 9.º
+
+Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 17 de dezembro de 2015.
+
+O Presidente do Governo Regional, em exercício, Mário Sérgio Quaresma Gonçalves Marques.
+
+Assinado em 4 de janeiro de 2016.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+ANEXO
+
+(a que se refere o artigo 8.º)
+
+Orgânica da Secretaria Regional dos Assuntos Parlamentares e Europeus
+
+CAPÍTULO I
+
+Natureza, atribuições e competências
+
+Artigo 1.º
+
+Natureza e missão
+
+A Secretaria Regional dos Assuntos Parlamentares e Europeus, designada abreviadamente por SRAPE, é o departamento do Governo Regional da Madeira a que se refere a alínea b) do artigo 1.º do [Decreto Regulamentar Regional n.º 2/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-67191204), de 12 de maio, que tem por missão definir, coordenar e executar a política regional nos sectores da administração da justiça, assuntos europeus, assuntos parlamentares, comunidades madeirenses e imigração, comunicação social, edifícios e equipamentos públicos, estradas, obras públicas e exerce a tutela sobre empresas participadas ou a elas equiparadas.
+
+Artigo 2.º
+
+Atribuições
+
+1 - Na prossecução da sua missão são atribuições da SRAPE:
+
+a) Elaborar, no quadro do Plano de Desenvolvimento Regional, os planos sectoriais relativos aos seus domínios de atuação;
+
+b) Assegurar o desenvolvimento integrado das ações conducentes à satisfação das necessidades coletivas nos setores do seu âmbito;
+
+c) Superintender e realizar a gestão dos meios humanos e materiais para a efetivação das atribuições enunciadas na alínea anterior;
+
+d) Assegurar a observância das disposições reguladoras das tarefas que lhe são cometidas, sem prejuízo das atribuições e competências conferidas por lei a outras entidades;
+
+e) Promover formas de cooperação com entidades regionais, nacionais e internacionais, no âmbito das suas áreas de atuação;
+
+f) Promover e assegurar a articulação entre o Governo Regional e a Assembleia Legislativa;
+
+g) Assegurar a representação do Governo Regional nas comissões interministeriais e noutros organismos nacionais, quando as respetivas atribuições abranjam questões relativas à situação dos emigrantes madeirenses;
+
+h) (Revogado.)
+
+2 - São ainda cometidas à SRAPE as atribuições referentes à manutenção, gestão e apoio às casas da Madeira de Lisboa, Porto e Coimbra em território continental e na Região Autónoma dos Açores.
+
+Artigo 3.º
+
+Competências
+
+1 - A SRAPE é superiormente representada e dirigida pelo Secretário Regional dos Assuntos Parlamentares e Europeus, designado abreviadamente no presente diploma por Secretário Regional, ao qual são genericamente cometidas as seguintes competências:
+
+a) Estudar, definir e orientar a política da Região Autónoma da Madeira nos sectores de atividade referidos no artigo 1.º, elaborando os respetivos planos de desenvolvimento, a serem integrados no plano geral de desenvolvimento regional;
+
+b) Promover, controlar e coordenar as ações tendentes à execução e cumprimento dos planos estabelecidos para os mencionados sectores de atividade;
+
+c) Superintender e coordenar a ação dos vários órgãos e serviços da Secretaria Regional dos Assuntos Parlamentares e Europeus;
+
+d) Elaborar os projetos de decretos legislativos e regulamentares regionais que se revelarem necessários à prossecução e desenvolvimento dos sectores de atividade que na Região estão afetos à Secretaria Regional dos Assuntos Parlamentares e Europeus;
+
+e) Aprovar ou submeter à aprovação do Conselho de Governo, conforme a lei vigente, os projetos de obras respeitantes aos sectores que lhe estão afetos;
+
+f) Autorizar ou submeter à autorização do Conselho do Governo a adjudicação e a celebração de quaisquer contratos no âmbito do regime jurídico vigente para a contratação pública;
+
+g) Instaurar e decidir nos processos de contraordenação do sector ou sectores afetos à Secretaria Regional dos Assuntos Parlamentares e Europeus;
+
+h) Elaborar e assinar portarias, despachos, circulares e instruções em matéria da sua competência;
+
+i) Praticar todos os atos concernentes ao provimento, movimento e disciplina dos trabalhadores e demais agentes da Secretaria Regional dos Assuntos Parlamentares e Europeus;
+
+j) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe sejam delegadas pelo Presidente ou pelo Conselho do Governo Regional.
+
+2 - Compete, ainda, ao Secretário Regional exercer a tutela das empresas participadas ou a elas equiparadas no âmbito das competências que lhe foram atribuídas pelo [Decreto Regulamentar Regional n.º 2/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-67191204), de 12 de maio.
+
+3 - O Secretário Regional poderá delegar, com faculdade de subdelegação, nos termos da lei, no chefe do gabinete, no pessoal afeto ao seu gabinete ou nos responsáveis pelos diversos departamentos, as competências que julgar convenientes.
+
+CAPÍTULO II
+
+Estrutura Orgânica
+
+Artigo 4.º
+
+Estrutura geral
+
+A Secretaria Regional dos Assuntos Parlamentares e Europeus prossegue as suas atribuições através de serviços integrados na administração direta e de entidades integradas no sector empresarial da Região Autónoma da Madeira.
+
+Artigo 5.º
+
+Serviços da administração direta
+
+1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SRAPE, as seguintes estruturas ou serviços centrais:
+
+a) Gabinete do Secretário Regional;
+
+b) Direção Regional da Administração da Justiça;
+
+c) Direção Regional dos Assuntos Europeus e da Cooperação Externa;
+
+d) (Revogado.)
+
+e) (Revogado.)
+
+f) Direção Regional de Estradas;
+
+g) Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas;
+
+h) Laboratório Regional de Engenharia Civil;
+
+i) Direção Regional de Equipamento Social e Conservação.
+
+2 - (Revogado.)
+
+3 - A estrutura referida na alínea a) do n.º 1 assegura o apoio técnico e administrativo necessário ao exercício das competências do Secretário Regional.
+
+4 - Os serviços referidos nas alíneas b), c), e f) a i) do n.º 1 são serviços executivos que garantem a prossecução das políticas referidas no artigo 1.º do presente diploma e são dirigidos por um diretor regional, cargo de direção superior de 1.º grau.
+
+5 - As atribuições, a orgânica, o funcionamento e o pessoal de cada um dos órgãos e serviços executivos referidos no número anterior constarão de diplomas próprios, que deverão ser aprovados no prazo de 45 dias a contar da data da entrada em vigor do presente diploma.
+
+6 - Até à entrada em vigor dos diplomas referidos no número anterior, mantém-se os diplomas orgânicos dos serviços executivos.
+
+Artigo 6.º
+
+Sector Empresarial da Região Autónoma da Madeira
+
+A Secretaria Regional dos Assuntos Parlamentares e Europeus exerce a tutela sobre as seguintes empresas pertencentes ao sector empresarial da Região Autónoma da Madeira:
+
+a) Empresa do Jornal da Madeira, Lda.;
+
+b) VIAMADEIRA - Concessão Viária da Madeira, S. A.
+
+CAPÍTULO III
+
+Dos serviços da administração direta
+
+Secção I
+
+Missão, atribuições e organização do Gabinete do Secretário Regional
+
+Artigo 7.º
+
+Gabinete do Secretário Regional
+
+1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão coadjuvar o membro do Governo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico necessários ao exercício das suas competências.
+
+2 - O Gabinete é composto por um Chefe do Gabinete, dois adjuntos e dois secretários pessoais, de acordo com o disposto no n.º 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 2/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-67191204), de 12 de maio, a designar por despacho do Secretário Regional, compreendendo ainda as unidades orgânicas que funcionam sob a sua direta dependência.
+
+3 - São atribuições do Gabinete:
+
+a) Prestar apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico ao Secretário Regional;
+
+b) Garantir o funcionamento harmonioso e concertado dos órgãos e serviços que integram a SRAPE;
+
+c) Assegurar o expediente do Gabinete, nomeadamente a interligação desta Secretaria Regional com os demais departamentos do Governo Regional;
+
+d) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;
+
+e) Promover boas práticas de gestão de documentação nos serviços e organismos da SRAPE e proceder à recolha, tratamento e conservação dos arquivos;
+
+f) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade no âmbito do Gabinete e assegurar a articulação com os serviços da SRAPE com competências nestas áreas;
+
+g) Assegurar o desenvolvimento das atribuições conferidas às Unidades de Gestão, a que se refere o n.º 3 do artigo 12.º do [Decreto Regulamentar Regional n.º 2/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-67191204), de 12 de maio;
+
+h) Exercer as demais funções que lhe sejam cometidas e ou delegadas pelo Secretário Regional.
+
+4 - O gabinete é coordenado e dirigido pelo Chefe do Gabinete que representa o Secretário Regional, exceto nos atos de caráter oficial, e que exerce, ainda, as competências delegadas por despacho do Secretário Regional.
+
+5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído por um Adjunto ou por outro membro do Gabinete designado, para o efeito, pelo Secretário Regional.
+
+Artigo 8.º
+
+Organização interna do Gabinete do Secretário Regional
+
+1 - A organização interna do Gabinete compreende unidades nucleares e flexíveis que funcionam sob a sua direta dependência e obedece ao modelo de estrutura hierarquizada.
+
+2 - A organização interna a que se refere o número anterior é aprovada nos termos do disposto no artigo 21.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, e [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro.
+
+3 - Até à entrada em vigor dos diplomas que aprovam a organização interna dos serviços do Gabinete, mantém-se em vigor a [Portaria n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/portaria/7-2013-588808), de 7 de fevereiro.
+
+Secção II
+
+Missão dos serviços executivos
+
+Artigo 9.º
+
+Direção Regional da Administração da Justiça
+
+A Direção Regional da Administração da Justiça tem por missão a direção, orientação e coordenação dos serviços dos registos civil, predial, comercial e de automóveis, do departamento do Jornal Oficial e do Notariado da Região Autónoma da Madeira.
+
+Artigo 10.º
+
+Direção Regional dos Assuntos Europeus e da Cooperação Externa
+
+A Direção Regional dos Assuntos Europeus e da Cooperação Externa tem por missão prosseguir a definição, a coordenação e a execução da ação externa do Governo Regional no domínio dos assuntos europeus e da cooperação externa junto das instâncias próprias nacionais e das instituições e dos órgãos da União Europeia, bem como das organizações inter-regionais europeias e internacionais, em concertação com os departamentos do Governo Regional competentes.
+
+Artigo 11.º
+
+Direção Regional de Edifícios Públicos
+
+(Revogado.)
+
+Artigo 12.º
+
+Direção Regional de Infraestruturas e Equipamentos
+
+(Revogado.)
+
+Artigo 13.º
+
+Direção Regional de Estradas
+
+A Direção Regional de Estradas tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da responsabilidade do Governo Regional da Madeira, nos termos do [Decreto Legislativo Regional n.º 15/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2005-242032), de 9 de agosto, alterado pelo [Decreto Legislativo Regional n.º 1/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2013-588855), de 2 de janeiro, que procede à classificação das estradas regionais, e que não estejam afetas às concessões rodoviárias.
+
+Artigo 14.º
+
+Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas
+
+A Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas tem por missão assegurar as funções de apoio técnico e logístico à Direção Regional de Equipamento Social e Conservação, nos domínios da gestão dos recursos humanos, do apoio técnico-jurídico e contencioso, da documentação de informação, da contratação pública, da programação e planeamento estratégico e do controlo e gestão orçamental.
+
+Artigo 15.º
+
+Laboratório Regional de Engenharia Civil
+
+O Laboratório Regional de Engenharia Civil tem por missão realizar, coordenar e promover a investigação científica e o desenvolvimento tecnológico, bem como outras atividades científicas e técnicas necessárias ao progresso e à boa prática da engenharia civil, exercendo a sua ação, fundamentalmente, nos domínios da construção e obras públicas, da habitação e urbanismo, do ambiente, da indústria dos materiais, componentes e outros produtos para a construção e em áreas afins, visando a sua atividade, no essencial, a qualidade e a segurança das obras, a proteção e a reabilitação do património natural e construído, bem como a modernização e inovação tecnológicas do setor da construção.
+
+Artigo 15.º-A
+
+Direção Regional de Equipamento Social e Conservação
+
+A Direção Regional de Equipamento Social e Conservação tem por missão assegurar a manutenção, a conservação e a reabilitação de edifícios, equipamentos e infraestruturas públicas, bem como a concretização de obras públicas, por forma a garantir a execução de políticas do Governo Regional para o sector.
+
+Secção III
+
+Missão e atribuições da Representação Permanente da Região Autónoma da Madeira em Lisboa
+
+(Eliminada.)
+
+Artigo 16.º
+
+Representação Permanente da Região Autónoma da Madeira em Lisboa
+
+(Revogado.)
+
+CAPÍTULO IV
+
+Pessoal
+
+Artigo 17.º
+
+Sistema de gestão de pessoal
+
+1 - A gestão de pessoal dos serviços da administração direta da SRAPE, com exceção da Direção Regional da Administração da Justiça, rege-se pelo sistema centralizado de gestão, estabelecido no artigo 5.º-A do [Decreto Legislativo Regional n.º 1/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2009-397327), de 12 de janeiro, introduzido pelo [Decreto Legislativo Regional n.º 9/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756), de 4 de junho, e alterado pelo [Decreto Legislativo Regional n.º 26/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), de 3 de setembro.
+
+2 - O sistema centralizado de gestão de recursos humanos referido no número anterior consiste na concentração na Secretaria Regional dos trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado, integrados nas carreiras gerais e nas carreiras e categorias subsistentes, e posterior afetação aos órgãos e serviços da sua administração direta, de acordo com as necessidades verificadas, por despacho do Secretário Regional.
+
+3 - Os trabalhadores referidos no número anterior são integrados no sistema centralizado da SRAPE, através de lista nominativa aprovada por despacho do Secretário Regional publicada na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
+
+4 - O sistema centralizado de gestão obedece, designadamente, aos seguintes princípios:
+
+a) A afetação determina a competência do dirigente máximo do respetivo serviço para praticar todos os atos no âmbito da gestão dos recursos humanos, nomeadamente avaliação de desempenho, marcação de férias e de faltas e registo de assiduidade;
+
+b) Por despacho do Secretário Regional e sem prejuízo dos direitos e garantias dos trabalhadores, pode ser revista a afetação, sempre que se verifique a alteração de circunstâncias ou quando o plano de atividades dos serviços o justificar;
+
+c) O recrutamento de trabalhadores para postos de trabalho que se encontrem abrangidos pelo sistema centralizado de gestão é feito para a SRAPE, sem prejuízo de ser determinado no aviso de abertura do procedimento concursal ou no pedido de utilização de reservas de recrutamento o órgão ou serviço ao qual o trabalhador ficará afeto, através de referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto;
+
+d) A lista nominativa referida no n.º 3 será atualizada de acordo com o disposto no n.º 12 do artigo 5.º-A do [Decreto Legislativo Regional n.º 1/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2009-397327), de 12 de janeiro, alterado pelos [Decretos Legislativos Regionais n.os 9/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756), de 4 de junho, e [26/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), de 3 de setembro, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SRAPE, procedendo-se, neste caso, à sua eliminação da referida lista.
+
+5 - Os trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado dos serviços da administração direta integrados nas carreiras especiais, com funções cuja especialização é exigida apenas no âmbito das atribuições do respetivo serviço, estão excluídos do sistema centralizado de gestão referido nos números anteriores.
+
+Artigo 18.º
+
+Dotação de cargos de direção
+
+1 - A dotação de cargos de direção superior da administração direta da SRAPE consta do anexo I ao presente diploma, do qual faz parte integrante.
+
+2 - A dotação de lugares de direção intermédia de 1.º grau e de chefes de departamento das unidades orgânicas que funcionam sob a direta dependência do Gabinete do Secretário Regional consta do anexo II ao presente diploma, do qual faz parte integrante.
+
+Artigo 19.º
+
+Carreiras subsistentes
+
+1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador da SRAPE e de Chefe de Departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), publicada no Diário da República n.º 299/99, Série I-A, 2.º Suplemento, de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas [Leis n.os 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), ambas de 31 de dezembro.
+
+2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da [Lei n.º 75/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-2014-56747377), de 12 de setembro.
+
+CAPÍTULO V
+
+Disposições finais e transitórias
+
+Artigo 20.º
+
+Transição de pessoal
+
+Sem prejuízo do estabelecido no artigo 15.º do [Decreto Regulamentar Regional n.º 2/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-67191204), de 12 de maio, a transição do pessoal far-se-á para igual carreira e categoria, através de lista nominativa a aprovar por despacho do Secretário Regional.
+
+Artigo 21.º
+
+Referências legais
+
+Todas as referências legais ou regulamentares feitas à Vice-Presidência do Governo Regional, no âmbito das atribuições referidas no artigo 2.º, devem ter-se por feitas à Secretaria Regional dos Assuntos Parlamentares e Europeus.
+
+ANEXO I
+
+Cargos de direção superior da administração direta
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/01400/0020100206.pdf)
+
+ANEXO II
+
+Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/01400/0020100206.pdf)

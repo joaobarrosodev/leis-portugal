@@ -1,0 +1,1009 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:492378:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao-rectificacao/2009-67356360",
+ "dre_path": "/dr/detalhe/declaracao-rectificacao/52-2009-492378",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-07-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67355246",
+    "67355247",
+    "67355248",
+    "67355249",
+    "67355250",
+    "67355251",
+    "67355252",
+    "67355253",
+    "67355254",
+    "67355255",
+    "67355256",
+    "67355257",
+    "67355258",
+    "67355259",
+    "67355260",
+    "67355261",
+    "67355262",
+    "67355263",
+    "67355264",
+    "67355265",
+    "67355266",
+    "67355267",
+    "67355268",
+    "67355269",
+    "67355270",
+    "67355271",
+    "67355272",
+    "67355273",
+    "67355274",
+    "67377575",
+    "67377576",
+    "67377577",
+    "67377578",
+    "67377579",
+    "67377580",
+    "67377581",
+    "67377582",
+    "67377583",
+    "67377584",
+    "67377585",
+    "67377586",
+    "67377587",
+    "67377588",
+    "67377589",
+    "67377590",
+    "67377591",
+    "67377592",
+    "67377593",
+    "67377594",
+    "67377595",
+    "67377596",
+    "67377597",
+    "67377598",
+    "67377599",
+    "67377600",
+    "67377601",
+    "67377602",
+    "67377603",
+    "67377604"
+   ]
+  },
+  {
+   "date": "2014-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56384876:por",
+     "title": "Lei Orgânica n.º 5/2014",
+     "published": "2014-08-29",
+     "dre_path": "/dr/detalhe/lei-organica/5-2014-56384876"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 47.º"
+   ],
+   "fragments": [
+    "67355246",
+    "67355247",
+    "67355248",
+    "67355249",
+    "67355250",
+    "67355251",
+    "67355252",
+    "67355253",
+    "67355254",
+    "67377671",
+    "67355256",
+    "67377672",
+    "67377673",
+    "67377674",
+    "67380275",
+    "67380276",
+    "67380277",
+    "67380278",
+    "67380279",
+    "67355265",
+    "67380280",
+    "67355267",
+    "67380281",
+    "67355269",
+    "67380282",
+    "67355271",
+    "67355272",
+    "67355273",
+    "67380283",
+    "67377575",
+    "67380284",
+    "67380299",
+    "67380300",
+    "67380301",
+    "67380303",
+    "67380304",
+    "67380305",
+    "67380306",
+    "67380285",
+    "67380286",
+    "67377586",
+    "67377587",
+    "67377588",
+    "67377589",
+    "67377590",
+    "67377591",
+    "67377592",
+    "67377593",
+    "67377594",
+    "67380287",
+    "67377596",
+    "67377597",
+    "67377598",
+    "67377599",
+    "67377600",
+    "67380288",
+    "67377602",
+    "67377603",
+    "67377604"
+   ]
+  },
+  {
+   "date": "2021-08-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:169256654:por",
+     "title": "Lei Orgânica n.º 3/2021",
+     "published": "2021-08-09",
+     "dre_path": "/dr/detalhe/lei-organica/3-2021-169256654"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 46.º"
+   ],
+   "fragments": [
+    "67355246",
+    "67355247",
+    "67355248",
+    "67355249",
+    "67355250",
+    "67355251",
+    "67355252",
+    "67355253",
+    "67355254",
+    "67377671",
+    "67355256",
+    "67377672",
+    "67377673",
+    "67377674",
+    "67380275",
+    "67380276",
+    "67380277",
+    "169354323",
+    "67380279",
+    "67355265",
+    "67380280",
+    "67355267",
+    "67380281",
+    "67355269",
+    "67380282",
+    "67355271",
+    "67355272",
+    "67355273",
+    "169354324",
+    "67377575",
+    "67380284",
+    "67380299",
+    "67380300",
+    "67380301",
+    "67380303",
+    "67380304",
+    "67380305",
+    "67380306",
+    "67380285",
+    "67380286",
+    "67377586",
+    "67377587",
+    "67377588",
+    "67377589",
+    "67377590",
+    "67377591",
+    "67377592",
+    "67377593",
+    "67377594",
+    "67380287",
+    "67377596",
+    "67377597",
+    "67377598",
+    "67377599",
+    "169354325",
+    "67380288",
+    "67377602",
+    "67377603",
+    "67377604"
+   ]
+  }
+ ],
+ "fragments": {
+  "67355246": {
+   "fragment_id": "67356361",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Declaração de Rectificação n.º 52/2009\n\nPara os devidos efeitos se declara que a Lei n.º 31-A/2009, de 7 de Julho, que aprova a Lei de Defesa Nacional, publicada no Diário da República, 1.ª série, n.º 129 (suplemento), de 7 de Julho de 2009, foi por lapso publicada como lei e não como lei orgânica, não respeitando o disposto no n.º 1 do artigo 8.º da Lei n.º 74/98, de 11 de Novembro, alterada pelas Leis n.os 2/2005, de 24 de Janeiro, 26/2006, de 30 de Junho, e 42/2007, de 24 de Agosto, sobre a publicação, a identificação e o formulário dos diplomas, pelo que se corrige o lapso, atribuindo-lhe a designação de lei orgânica, com numeração própria e procedendo-se à sua republicação integral, com a seguinte rectificação:\n\nOnde se lê «Lei n.º 31-A/2009, de 7 de Julho - Aprova a Lei de Defesa Nacional» deve ler-se «Lei Orgânica n.º 1-B/2009, de 7 de Julho - Aprova a Lei de Defesa Nacional».\n\nAssembleia da República, 15 de Julho de 2009. - Pela Secretária-Geral, a Adjunta, Maria do Rosário Boléo.\n\nLei Orgânica n.º 1-B/2009\n\nde 7 de Julho\n\nAprova a Lei de Defesa Nacional\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:"
+  },
+  "67355247": {
+   "fragment_id": "67356362",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "67355248": {
+   "fragment_id": "67356363",
+   "type": 11,
+   "heading": "Artigo 1.º — Defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Defesa nacional\n\n1 - A defesa nacional tem por objectivos garantir a soberania do Estado, a independência nacional e a integridade territorial de Portugal, bem como assegurar a liberdade e a segurança das populações e a protecção dos valores fundamentais da ordem constitucional contra qualquer agressão ou ameaça externas.\n\n2 - A defesa nacional assegura ainda o cumprimento dos compromissos internacionais do Estado no domínio militar, de acordo com o interesse nacional."
+  },
+  "67355249": {
+   "fragment_id": "67356364",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios gerais\n\n1 - Portugal defende os princípios da independência nacional e da igualdade dos Estados, o respeito pelos direitos humanos e pelo direito internacional e a resolução pacífica dos conflitos internacionais e contribui para a segurança, a estabilidade e a paz internacionais.\n\n2 - A República Portuguesa defende os interesses nacionais por todos os meios legítimos, dentro e fora do seu território, das zonas marítimas sob soberania ou jurisdição nacional e do espaço aéreo sob sua responsabilidade.\n\n3 - A salvaguarda da vida e dos interesses dos Portugueses constitui também interesse nacional que o Estado defende num quadro autónomo ou multinacional.\n\n4 - No exercício do direito de legítima defesa, Portugal reserva o recurso à guerra para os casos de agressão efectiva ou iminente.\n\n5 - É direito e dever de cada português a passagem à resistência, activa e passiva, nas áreas do território nacional ocupadas por forças estrangeiras."
+  },
+  "67355250": {
+   "fragment_id": "67356365",
+   "type": 11,
+   "heading": "Artigo 3.º — Defesa nacional e compromissos internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Defesa nacional e compromissos internacionais\n\nA defesa nacional é igualmente assegurada e exercida no quadro dos compromissos internacionais assumidos pelo Estado Português na prossecução do interesse nacional."
+  },
+  "67355251": {
+   "fragment_id": "67356366",
+   "type": 1,
+   "heading": "Capítulo II — Política de defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Política de defesa nacional"
+  },
+  "67355252": {
+   "fragment_id": "67356367",
+   "type": 11,
+   "heading": "Artigo 4.º — Componentes da política de defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Componentes da política de defesa nacional\n\n1 - A política de defesa nacional integra os princípios, objectivos, orientações e prioridades definidos na Constituição, na presente lei, no programa do Governo e no conceito estratégico de defesa nacional.\n\n2 - Para além da sua componente militar, a política de defesa nacional compreende as políticas sectoriais do Estado cujo contributo é necessário para a realização do interesse estratégico de Portugal e cumprimento dos objectivos da defesa nacional."
+  },
+  "67355253": {
+   "fragment_id": "67356368",
+   "type": 11,
+   "heading": "Artigo 5.º — Objectivos permanentes da política de defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objectivos permanentes da política de defesa nacional\n\nA política de defesa nacional visa assegurar, permanentemente e com carácter nacional:\n\na) A soberania do Estado, a independência nacional, a integridade do território e os valores fundamentais da ordem constitucional;\n\nb) A liberdade e a segurança das populações, bem como os seus bens e a protecção do património nacional;\n\nc) A liberdade de acção dos órgãos de soberania, o regular funcionamento das instituições democráticas e a possibilidade de realização das funções e tarefas essenciais do Estado;\n\nd) Assegurar a manutenção ou o restabelecimento da paz em condições que correspondam aos interesses nacionais;\n\ne) Contribuir para o desenvolvimento das capacidades morais e materiais da comunidade nacional, de modo a que possa prevenir ou reagir pelos meios adequados a qualquer agressão ou ameaça externas."
+  },
+  "67355254": {
+   "fragment_id": "67356369",
+   "type": 11,
+   "heading": "Artigo 6.º — Orientações fundamentais da política de defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Orientações fundamentais da política de defesa nacional\n\nAs orientações fundamentais da política de defesa nacional são definidas no programa do Governo, em obediência aos princípios fundamentais e aos objectivos permanentes definidos na Constituição e na presente lei."
+  },
+  "67355255": {
+   "fragment_id": "67356370",
+   "type": 11,
+   "heading": "Artigo 7.º — Conceito estratégico de defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conceito estratégico de defesa nacional\n\n1 - O conceito estratégico de defesa nacional define as prioridades do Estado em matéria de defesa, de acordo com o interesse nacional, e é parte integrante da política de defesa nacional.\n\n2 - O conceito estratégico de defesa nacional é aprovado por resolução do Conselho de Ministros, sob proposta conjunta do Primeiro-Ministro e do Ministro da Defesa Nacional, ouvido o Conselho Superior de Defesa Nacional e o Conselho de Chefes de Estado-Maior.\n\n3 - As grandes opções do conceito estratégico de defesa nacional são objecto de debate na Assembleia da República, por iniciativa do Governo ou de um grupo parlamentar, previamente à sua adopção."
+  },
+  "67355256": {
+   "fragment_id": "67356371",
+   "type": 1,
+   "heading": "Capítulo III — Responsabilidades dos órgãos do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Responsabilidades dos órgãos do Estado"
+  },
+  "67355257": {
+   "fragment_id": "67356372",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos responsáveis em matéria de defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos responsáveis em matéria de defesa nacional\n\n1 - São directamente responsáveis pela defesa nacional:\n\na) O Presidente da República;\n\nb) A Assembleia da República;\n\nc) O Governo;\n\nd) O Conselho Superior de Defesa Nacional;\n\ne) O Conselho Superior Militar.\n\n2 - Além dos órgãos referidos no número anterior, são directamente responsáveis pelas Forças Armadas e pela componente militar da defesa nacional:\n\na) O Conselho de Chefes de Estado-Maior;\n\nb) O Chefe do Estado-Maior-General das Forças Armadas;\n\nc) Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea."
+  },
+  "67355258": {
+   "fragment_id": "67356373",
+   "type": 11,
+   "heading": "Artigo 9.º — Presidente da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Presidente da República\n\n1 - O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, o Comandante Supremo das Forças Armadas.\n\n2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Presidente da República, em matéria de defesa nacional:\n\na) Exercer as funções de Comandante Supremo das Forças Armadas;\n\nb) Declarar a guerra, em caso de agressão efectiva ou iminente, e fazer a paz, sob proposta do Governo, ouvido o Conselho de Estado e mediante autorização da Assembleia da República, ou, quando esta não estiver reunida, nem for possível a sua reunião imediata, da sua Comissão Permanente;\n\nc) Assumir a direcção superior da guerra, em conjunto com o Governo, e contribuir para a manutenção do espírito de defesa;\n\nd) Declarar o estado de sítio e o estado de emergência, ouvido o Governo e mediante autorização da Assembleia da República, ou, quando esta não estiver reunida, nem for possível a sua reunião imediata, da sua Comissão Permanente;\n\ne) Ratificar os tratados internacionais em que o Estado assume responsabilidades internacionais no domínio da defesa, nomeadamente os tratados de participação de Portugal em organizações internacionais de segurança e defesa, bem como os tratados de paz, de defesa, de rectificação de fronteiras e os respeitantes a assuntos militares;\n\nf) Presidir ao Conselho Superior de Defesa Nacional;\n\ng) Nomear e exonerar, sob proposta do Governo, o Chefe do Estado-Maior-General das Forças Armadas, bem como, ouvido o Chefe do Estado-Maior-General das Forças Armadas, os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea."
+  },
+  "67355259": {
+   "fragment_id": "67356374",
+   "type": 11,
+   "heading": "Artigo 10.º — Comandante Supremo das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comandante Supremo das Forças Armadas\n\n1 - As funções de Comandante Supremo das Forças Armadas atribuídas constitucionalmente por inerência ao Presidente da República compreendem os direitos e deveres seguintes:\n\na) Dever de contribuir, no âmbito das suas competências constitucionais, para assegurar a fidelidade das Forças Armadas à Constituição e às instituições democráticas;\n\nb) Direito de ser informado pelo Governo acerca da situação das Forças Armadas;\n\nc) Direito de ser previamente informado pelo Governo, através de comunicação fundamentada, sobre o emprego das Forças Armadas em missões que envolvam a colaboração com as forças e os serviços de segurança contra agressões ou ameaças transnacionais;\n\nd) Dever de aconselhar em privado o Governo acerca da condução da política de defesa nacional;\n\ne) Consultar o Chefe do Estado-Maior-General das Forças Armadas e os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea em matérias de defesa nacional;\n\nf) Conferir, por iniciativa própria, condecorações militares;\n\ng) Direito de ocupar o primeiro lugar na hierarquia das Forças Armadas.\n\n2 - O emprego das Forças Armadas em operações militares no exterior do território nacional é sempre precedido de comunicação fundamentada do Primeiro-Ministro, a qual deverá, designadamente, incluir:\n\na) Os pedidos que solicitem esse envolvimento, acompanhados da respectiva fundamentação;\n\nb) Os projectos de decisão ou de proposta desse envolvimento;\n\nc) Os meios militares envolvidos ou a envolver, o tipo e grau dos riscos estimados e a previsível duração da missão;\n\nd) Os elementos, informações e publicações oficiais considerados úteis e necessários."
+  },
+  "67355260": {
+   "fragment_id": "67377475",
+   "type": 11,
+   "heading": "Artigo 11.º — Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Assembleia da República\n\nSem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete à Assembleia da República, em matéria de defesa nacional:\n\na) Autorizar o Presidente da República a declarar a guerra e fazer a paz;\n\nb) Autorizar o Presidente da República a declarar o estado de sítio e de emergência;\n\nc) Aprovar os tratados internacionais em que o Estado assume responsabilidades internacionais no domínio da defesa, nomeadamente os tratados de participação de Portugal em organizações internacionais de segurança e defesa, bem como os tratados de paz, de defesa, de rectificação de fronteiras e os respeitantes a assuntos militares;\n\nd) Apreciar as orientações fundamentais da política de defesa nacional constantes do programa do Governo e debater as grandes opções do conceito estratégico de defesa nacional;\n\ne) Legislar sobre a organização da defesa nacional e a definição dos deveres dela decorrentes;\n\nf) Legislar sobre as bases gerais da organização, do funcionamento, do reequipamento e da disciplina das Forças Armadas;\n\ng) Legislar sobre restrições ao exercício de direitos por militares e agentes militarizados em exercício efectivo;\n\nh) Legislar sobre os limites das águas territoriais, da zona económica exclusiva e dos direitos de Portugal sobre os fundos marinhos contíguos;\n\ni) Legislar sobre a definição de crimes de natureza estritamente militar e respectivas penas;\n\nj) Legislar sobre o estatuto da condição militar, nomeadamente no que respeita aos direitos e deveres dos militares;\n\nl) Legislar sobre os princípios orientadores das carreiras militares;\n\nm) Legislar sobre o regime de mobilização e de requisição;\n\nn) Legislar sobre servidões militares e outras restrições ao direito de propriedade por motivos relacionados com a defesa nacional;\n\no) Legislar sobre a organização, o funcionamento, a competência e o processo dos tribunais militares a funcionar em tempo de guerra, bem como sobre o estatuto dos respectivos juízes;\n\np) Fiscalizar a acção do Governo no exercício das suas competências em matéria de defesa nacional e das Forças Armadas;\n\nq) Acompanhar a participação de destacamentos das Forças Armadas em operações militares no exterior do território nacional;\n\nr) Eleger, por maioria de dois terços dos Deputados presentes desde que superior à maioria absoluta dos Deputados em efectividade de funções, dois Deputados para membros do Conselho Superior de Defesa Nacional."
+  },
+  "67355261": {
+   "fragment_id": "67377476",
+   "type": 11,
+   "heading": "Artigo 12.º — Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Governo\n\n1 - O Governo é o órgão de condução da política de defesa nacional e das Forças Armadas e o órgão superior de administração da defesa nacional e das Forças Armadas.\n\n2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Conselho de Ministros, em matéria de defesa nacional, no âmbito político e legislativo:\n\na) Propor ao Presidente da República a declaração da guerra e a feitura da paz;\n\nb) Ser ouvido previamente à declaração do estado de sítio e do estado de emergência;\n\nc) Negociar e ajustar os tratados internacionais em que o Estado assume responsabilidades internacionais no domínio da defesa, nomeadamente os tratados de participação de Portugal em organizações internacionais de segurança e defesa, bem como os tratados de paz, de defesa, de rectificação de fronteiras e os respeitantes a assuntos militares;\n\nd) Legislar em matérias de desenvolvimento das bases gerais do regime de mobilização e de requisição;\n\ne) Legislar em matérias não reservadas à Assembleia da República ou, sob autorização desta, sobre matérias integradas na respectiva reserva relativa, nomeadamente as referidas nas alíneas i), l), m) e o) do artigo 11.º;\n\nf) Apresentar propostas de lei à Assembleia da República;\n\ng) Aprovar as orientações fundamentais da política de defesa nacional, a incluir no seu programa, e assegurar todas as condições indispensáveis para a sua execução, no quadro do Orçamento do Estado e das leis de programação militar;\n\nh) Aprovar o conceito estratégico de defesa nacional;\n\ni) Determinar a mobilização dos cidadãos para a defesa nacional.\n\n3 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Governo, em matéria de defesa nacional, no âmbito administrativo:\n\na) Assegurar o cumprimento da Constituição e das leis relativas à defesa nacional e às Forças Armadas, nomeadamente fazendo os regulamentos necessários à sua boa execução;\n\nb) Sem prejuízo da competência da Assembleia da República, orientar e fiscalizar a execução da lei de programação militar e do orçamento das Forças Armadas, bem como a respectiva gestão patrimonial, supervisionando o exercício das competências próprias e delegadas dos chefes de estado-maior em matéria de administração financeira;\n\nc) Assegurar que a defesa nacional é exercida beneficiando das actividades de informações dos órgãos competentes do Sistema de Informações da República Portuguesa (SIRP) e das Forças Armadas, nos termos da lei;\n\nd) Garantir a capacidade, os meios e a prontidão das Forças Armadas para o cumprimento das suas missões;\n\ne) Propor ao Presidente da República a nomeação e a exoneração do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\nf) Dirigir os órgãos e serviços da administração directa e exercer tutela e superintendência sobre os da administração indirecta da defesa nacional;\n\ng) Requisitar os bens móveis e imóveis, materiais e imateriais, indispensáveis para a defesa nacional;\n\nh) Aprovar os mecanismos que assegurem a cooperação entre as Forças Armadas e as forças e os serviços de segurança, tendo em vista o cumprimento conjugado das suas missões no âmbito do combate a agressões ou ameaças transnacionais."
+  },
+  "67355262": {
+   "fragment_id": "67377477",
+   "type": 11,
+   "heading": "Artigo 13.º — Primeiro-Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Primeiro-Ministro\n\n1 - O Primeiro-Ministro dirige a política de defesa nacional e das Forças Armadas, bem como o funcionamento do Governo nessa matéria.\n\n2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Primeiro-Ministro, em matéria de defesa nacional:\n\na) Dirigir a actividade interministerial de execução da política de defesa nacional e das Forças Armadas;\n\nb) Participar no Conselho Superior de Defesa Nacional;\n\nc) Informar o Presidente da República sobre a política e as decisões nas matérias da defesa nacional e das Forças Armadas;\n\nd) Sem prejuízo do disposto na alínea anterior, o emprego de Forças Armadas em operações militares no exterior do território nacional é sempre precedido de comunicação fundamentada do Primeiro-Ministro ao Presidente da República;\n\ne) Informar o Presidente da República, através de comunicação fundamentada, sobre o emprego das Forças Armadas em missões que envolvam a colaboração com as forças e os serviços de segurança contra agressões ou ameaças transnacionais;\n\nf) Propor ao Conselho de Ministros, conjuntamente com o Ministro da Defesa Nacional, a nomeação e a exoneração do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\ng) Propor ao Conselho de Ministros, em conjunto com o Ministro da Defesa Nacional, a aprovação do conceito estratégico de defesa nacional.\n\n3 - O Primeiro-Ministro pode delegar, no todo ou em parte, a competência referida na alínea a) do número anterior no Ministro da Defesa Nacional."
+  },
+  "67355263": {
+   "fragment_id": "67377478",
+   "type": 11,
+   "heading": "Artigo 14.º — Ministro da Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ministro da Defesa Nacional\n\n1 - O Ministro da Defesa Nacional assegura a elaboração e a execução da política de defesa nacional e das Forças Armadas e é politicamente responsável pela componente militar da defesa nacional, pelo emprego das Forças Armadas e pelas suas capacidades, meios e prontidão.\n\n2 - O Ministro da Defesa Nacional dirige, assegura e fiscaliza a administração das Forças Armadas e dos demais serviços e organismos integrados no Ministério da Defesa Nacional.\n\n3 - Compete, em especial, ao Ministro da Defesa Nacional:\n\na) Apresentar ao Conselho de Ministros todas as propostas relativas a matéria da competência deste órgão nos domínios da defesa nacional e das Forças Armadas, incluindo a sua componente militar;\n\nb) Participar no Conselho Superior de Defesa Nacional;\n\nc) Presidir ao Conselho Superior Militar;\n\nd) Dirigir a actividade interministerial de execução da política de defesa nacional e das Forças Armadas, por delegação do Primeiro-Ministro;\n\ne) Aprovar o conceito estratégico militar elaborado pelo Conselho de Chefes de Estado-Maior, de acordo com o conceito estratégico de defesa nacional referido no artigo 7.º;\n\nf) Coordenar e orientar as acções necessárias para garantir o cumprimento de compromissos militares resultantes de acordos internacionais, nomeadamente a participação de destacamentos das Forças Armadas em operações militares no exterior do território nacional;\n\ng) Coordenar e orientar as relações com ministérios congéneres e instituições militares estrangeiros e com as organizações internacionais que prossigam atribuições em matéria militar, sem prejuízo da competência do Ministro dos Negócios Estrangeiros;\n\nh) Orientar a elaboração do orçamento da defesa nacional e das Forças Armadas, bem como das leis de programação militar, e orientar e fiscalizar as respectivas execução e gestão patrimonial;\n\ni) Propor ao Conselho de Ministros, conjuntamente com o Primeiro-Ministro, a nomeação e a exoneração do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\nj) Propor ao Conselho de Ministros, em conjunto com o Primeiro-Ministro, a aprovação do conceito estratégico de defesa nacional e assegurar a respectiva execução;\n\nl) Propor ao Conselho Superior de Defesa Nacional a confirmação do conceito estratégico militar e a aprovação, sob projecto do Conselho de Chefes de Estado-Maior, das missões específicas das Forças Armadas e os sistemas de forças necessários ao seu cumprimento;\n\nm) Aprovar o dispositivo dos sistemas de forças definido pelo Conselho de Chefes de Estado-Maior;\n\nn) Aprovar e fazer publicar as normas indispensáveis à execução das leis da defesa nacional e das Forças Armadas que não sejam da competência do Conselho de Ministros;\n\no) Elaborar e dirigir a política nacional de armamentos e de equipamentos da defesa nacional;\n\np) Elaborar e dirigir as políticas de saúde a desenvolver no âmbito militar e de articulação com outros organismos congéneres do Estado;\n\nq) Elaborar e dirigir as políticas relacionadas com o ensino superior militar;\n\nr) Exercer os poderes do Governo relativos à direcção dos órgãos e serviços da administração directa e à tutela e superintendência sobre os órgãos e serviços da administração indirecta da defesa nacional;\n\ns) Autorizar a realização de manobras e exercícios militares;\n\nt) Licenciar obras em áreas sujeitas a servidão militar, ouvido o chefe de estado-maior do ramo das Forças Armadas competente;\n\nu) Apresentar ao Conselho Superior de Defesa Nacional, bem como ao Conselho de Ministros, propostas relativas à mobilização e à requisição, necessárias à prossecução dos objectivos permanentes da política de defesa nacional;\n\nv) Nomear e exonerar os titulares dos órgãos submetidos ao seu poder de direcção ou superintendência;\n\nx) Aprovar as promoções a oficial general, bem com as promoções dos oficiais generais, após deliberação do Conselho de Chefes de Estado-Maior;\n\nz) Coordenar e orientar as acções necessárias para garantir a colaboração das Forças Armadas com as forças e serviços de segurança."
+  },
+  "67355264": {
+   "fragment_id": "67377479",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências dos outros ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências dos outros ministros\n\n1 - Em conjunção com o Ministro da Defesa Nacional, todos os outros ministros asseguram a execução de componentes não militares da política de defesa nacional que se insiram no âmbito das atribuições dos respectivos ministérios.\n\n2 - Compete, em especial, a cada ministro:\n\na) Preparar a adaptação dos seus serviços para o estado de guerra, o estado de sítio e o estado de emergência;\n\nb) Dirigir a acção dos seus serviços na mobilização e requisição, no planeamento civil de emergência e na protecção civil."
+  },
+  "67355265": {
+   "fragment_id": "67377480",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho Superior de Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho Superior de Defesa Nacional\n\n1 - O Conselho Superior de Defesa Nacional é o órgão específico de consulta para os assuntos relativos à defesa nacional e à organização, funcionamento e disciplina das Forças Armadas.\n\n2 - O Conselho Superior de Defesa Nacional é presidido pelo Presidente da República, que tem voto de qualidade.\n\n3 - O Conselho Superior de Defesa Nacional tem a seguinte composição:\n\na) Primeiro-Ministro;\n\nb) Vice-Primeiro-Ministro e Ministros de Estado, se os houver;\n\nc) Ministro da Defesa Nacional, Ministro dos Negócios Estrangeiros, Ministro da Administração Interna e Ministro das Finanças;\n\nd) Ministros responsáveis pelas áreas da indústria, energia, transportes e comunicações;\n\ne) Chefe do Estado-Maior-General das Forças Armadas;\n\nf) Representantes da República para as Regiões Autónomas;\n\ng) Presidentes dos governos das Regiões Autónomas dos Açores e da Madeira;\n\nh) Presidente da Comissão de Defesa Nacional da Assembleia da República;\n\ni) Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\nj) Dois Deputados à Assembleia da República, eleitos nos termos da alínea r) do artigo 11.º\n\n4 - No exercício das competências previstas no n.º 2 do artigo 17.º, o Conselho Superior de Defesa Nacional é composto exclusivamente pelos membros referidos nas alíneas a) a e) e i) do número anterior.\n\n5 - O Presidente da República pode, por sua iniciativa ou a pedido do Primeiro-Ministro, convidar outras pessoas para participar, sem direito a voto, em reuniões do Conselho Superior de Defesa Nacional.\n\n6 - O Conselho Superior de Defesa Nacional reúne ordinariamente a cada três meses e extraordinariamente sempre que for convocado pelo Presidente da República, por sua iniciativa ou a pedido do Primeiro-Ministro.\n\n7 - O Conselho Superior de Defesa Nacional é secretariado por um oficial general ou outra personalidade de reconhecido mérito, nomeado e exonerado pelo Presidente da República, ouvido o Governo.\n\n8 - O cargo do Secretário do Conselho Superior de Defesa Nacional é equiparado, para todos os efeitos, a cargo de direcção superior do primeiro grau.\n\n9 - O apoio ao Conselho Superior de Defesa Nacional é assegurado pela Secretaria-Geral da Presidência da República, em cujo orçamento são inscritas as verbas necessárias à sua execução."
+  },
+  "67355266": {
+   "fragment_id": "67377481",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência do Conselho Superior de Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência do Conselho Superior de Defesa Nacional\n\n1 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Conselho Superior de Defesa Nacional, no âmbito consultivo, emitir parecer sobre:\n\na) A declaração de guerra e feitura da paz;\n\nb) A política de defesa nacional;\n\nc) A aprovação de tratados internacionais em que o Estado assume responsabilidades internacionais no domínio da defesa, nomeadamente os tratados de participação de Portugal em organizações internacionais de segurança e defesa, bem como os tratados de paz, de defesa, de rectificação de fronteiras e os respeitantes a assuntos militares;\n\nd) Os projectos e as propostas de actos legislativos relativos à política de defesa nacional e das Forças Armadas, à organização, funcionamento e disciplina das Forças Armadas e às condições de emprego das Forças Armadas no estado de sítio e no estado de emergência;\n\ne) Os projectos e as propostas de leis de programação militar;\n\nf) O projecto de conceito estratégico de defesa nacional;\n\ng) A participação de destacamentos das Forças Armadas em operações militares no exterior do território nacional;\n\nh) A organização da protecção civil, da assistência às populações e da salvaguarda dos bens públicos e particulares, em caso de guerra;\n\ni) As infra-estruturas fundamentais de defesa;\n\nj) As propostas relativas à mobilização e à requisição, necessárias à prossecução dos objectivos permanentes da política de defesa nacional;\n\nl) Outros assuntos relativos à defesa nacional e às Forças Armadas que lhe sejam submetidos pelo Presidente da República, por iniciativa própria ou a pedido do Primeiro-Ministro.\n\n2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Conselho Superior de Defesa Nacional, no âmbito administrativo:\n\na) Confirmar o conceito estratégico militar e aprovar as missões específicas das Forças Armadas e os sistemas de forças necessários ao seu cumprimento, após proposta do Ministro da Defesa Nacional;\n\nb) Exercer, em tempo de guerra, as competências previstas no artigo 43.º;\n\nc) Aprovar as propostas de nomeação e exoneração do Presidente do Supremo Tribunal Militar, a funcionar em tempo de guerra, dos comandantes-chefes, dos comandantes ou representantes militares junto da organização de qualquer aliança de que Portugal seja membro, bem como os oficiais generais, comandantes de força naval, terrestre ou aérea destinadas ao cumprimento de missões internacionais naquele quadro.\n\n3 - Os pareceres do Conselho Superior de Defesa Nacional só são publicados quando aquele assim o deliberar."
+  },
+  "67355267": {
+   "fragment_id": "67377482",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho Superior Militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho Superior Militar\n\n1 - O Conselho Superior Militar é o principal órgão de consulta do Ministro da Defesa Nacional.\n\n2 - O Conselho Superior Militar é presidido pelo Ministro da Defesa Nacional.\n\n3 - O Conselho Superior Militar tem a seguinte composição:\n\na) Ministro da Defesa Nacional;\n\nb) Chefe do Estado-Maior-General das Forças Armadas;\n\nc) Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.\n\n4 - Integram ainda o Conselho Superior Militar os Secretários de Estado que coadjuvem o Ministro da Defesa Nacional, salvo decisão em contrário deste.\n\n5 - O Ministro da Defesa Nacional, por sua iniciativa ou a pedido de qualquer dos membros do Conselho, pode convocar outros titulares de órgãos públicos ou convidar outras pessoas para participar em reuniões do Conselho Superior Militar.\n\n6 - O Conselho Superior Militar reúne ordinariamente a cada três meses e extraordinariamente sempre que for convocado pelo Ministro da Defesa Nacional."
+  },
+  "67355268": {
+   "fragment_id": "67377483",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência do Conselho Superior Militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência do Conselho Superior Militar\n\nCompete ao Conselho Superior Militar:\n\na) Emitir pareceres sobre matérias relativas à defesa nacional e às Forças Armadas que sejam da competência do Governo, do Conselho Superior de Defesa Nacional ou do Ministro da Defesa Nacional;\n\nb) Elaborar os projectos de proposta das leis de programação militar e do orçamento das Forças Armadas, de acordo com a orientação do Governo."
+  },
+  "67355269": {
+   "fragment_id": "67377484",
+   "type": 1,
+   "heading": "Capítulo IV — Ministério da Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Ministério da Defesa Nacional"
+  },
+  "67355270": {
+   "fragment_id": "67377485",
+   "type": 11,
+   "heading": "Artigo 20.º — Atribuições do Ministério da Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atribuições do Ministério da Defesa Nacional\n\n1 - O Ministério da Defesa Nacional é o departamento governamental que tem por missão preparar e executar a política de defesa nacional e das Forças Armadas, bem como assegurar e fiscalizar a administração das Forças Armadas e dos demais serviços e organismos nele integrados.\n\n2 - O Ministério da Defesa Nacional presta o apoio necessário ao exercício das funções próprias do Primeiro-Ministro no âmbito da defesa nacional e das Forças Armadas."
+  },
+  "67355271": {
+   "fragment_id": "67377486",
+   "type": 11,
+   "heading": "Artigo 21.º — Estrutura orgânica do Ministério da Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estrutura orgânica do Ministério da Defesa Nacional\n\nA estrutura orgânica do Ministério da Defesa Nacional consta de decreto-lei, que identifica os órgãos e serviços que o integram, bem como as pessoas colectivas sujeitas à superintendência e à tutela do Ministro da Defesa Nacional."
+  },
+  "67355272": {
+   "fragment_id": "67377487",
+   "type": 1,
+   "heading": "Capítulo V — Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Forças Armadas"
+  },
+  "67355273": {
+   "fragment_id": "67377488",
+   "type": 11,
+   "heading": "Artigo 22.º — Defesa nacional e Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Defesa nacional e Forças Armadas\n\n1 - As Forças Armadas são a instituição nacional incumbida de assegurar a defesa militar da República.\n\n2 - As Forças Armadas obedecem aos órgãos de soberania competentes, nos termos definidos na Constituição e na lei.\n\n3 - As Forças Armadas estão ao serviço dos Portugueses e são rigorosamente apartidárias.\n\n4 - As Forças Armadas compõem-se exclusivamente de cidadãos portugueses e a sua organização é única para todo o território nacional.\n\n5 - A execução da componente militar da defesa nacional incumbe em exclusivo às Forças Armadas, sendo proibida a constituição de associações ou agrupamentos armados, de tipo militar, militarizado ou paramilitar."
+  },
+  "67355274": {
+   "fragment_id": "67377489",
+   "type": 11,
+   "heading": "Artigo 23.º — Integração das Forças Armadas na administração do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Integração das Forças Armadas na administração do Estado\n\n1 - As Forças Armadas integram-se na administração directa do Estado através do Ministério da Defesa Nacional.\n\n2 - Dependem do Ministro da Defesa Nacional, nos termos das competências previstas na lei:\n\na) O Chefe do Estado-Maior-General das Forças Armadas;\n\nb) Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea."
+  },
+  "67377575": {
+   "fragment_id": "67377490",
+   "type": 11,
+   "heading": "Artigo 24.º — Missões das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Missões das Forças Armadas\n\n1 - Nos termos da Constituição e da lei, incumbe às Forças Armadas:\n\na) Desempenhar todas as missões militares necessárias para garantir a soberania, a independência nacional e a integridade territorial do Estado;\n\nb) Participar nas missões militares internacionais necessárias para assegurar os compromissos internacionais do Estado no âmbito militar, incluindo missões humanitárias e de paz assumidas pelas organizações internacionais de que Portugal faça parte;\n\nc) Executar missões no exterior do território nacional, num quadro autónomo ou multinacional, destinadas a garantir a salvaguarda da vida e dos interesses dos portugueses;\n\nd) Executar as acções de cooperação técnico-militar, no quadro das políticas nacionais de cooperação;\n\ne) Cooperar com as forças e serviços de segurança tendo em vista o cumprimento conjugado das respectivas missões no combate a agressões ou ameaças transnacionais;\n\nf) Colaborar em missões de protecção civil e em tarefas relacionadas com a satisfação das necessidades básicas e a melhoria da qualidade de vida das populações.\n\n2 - As Forças Armadas podem ser empregues, nos termos da Constituição e da lei, quando se verifique o estado de sítio ou de emergência."
+  },
+  "67377576": {
+   "fragment_id": "67377491",
+   "type": 11,
+   "heading": "Artigo 25.º — Condição militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Condição militar\n\nOs membros das Forças Armadas servem, exclusivamente, a República e a comunidade nacional e assumem voluntariamente os direitos e deveres que integram a condição militar, nos termos da lei."
+  },
+  "67377577": {
+   "fragment_id": "67377492",
+   "type": 11,
+   "heading": "Artigo 26.º — Direitos fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direitos fundamentais\n\nOs militares em efectividade de serviço, dos quadros permanentes e em regime de voluntariado e de contrato, gozam dos direitos, liberdades e garantias constitucionalmente previstos, com as restrições ao exercício dos direitos de expressão, reunião, manifestação, associação e petição colectiva e a capacidade eleitoral passiva constantes da presente lei, nos termos da Constituição."
+  },
+  "67377578": {
+   "fragment_id": "67377493",
+   "type": 11,
+   "heading": "Artigo 27.º — Regras gerais sobre o exercício de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regras gerais sobre o exercício de direitos\n\n1 - No exercício dos seus direitos, os militares em efectividade de serviço estão sujeitos aos deveres decorrentes do estatuto da condição militar, devendo observar uma conduta conforme com a ética militar e respeitar a coesão e a disciplina das Forças Armadas.\n\n2 - Os militares em efectividade de serviço são rigorosamente apartidários e não podem usar a sua arma, o seu posto ou a sua função para qualquer intervenção política, partidária ou sindical, nisto consistindo o seu dever de isenção.\n\n3 - Aos militares em efectividade de serviço não são aplicáveis as normas constitucionais relativas aos direitos dos trabalhadores cujo exercício pressuponha os direitos fundamentais a que se referem os artigos seguintes, na medida em que por eles sejam restringidos, nomeadamente a liberdade sindical, o direito à criação e integração de comissões de trabalhadores e o direito à greve."
+  },
+  "67377579": {
+   "fragment_id": "67377494",
+   "type": 11,
+   "heading": "Artigo 28.º — Liberdade de expressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Liberdade de expressão\n\n1 - Os militares em efectividade de serviço têm o direito de proferir declarações públicas sobre qualquer assunto, com a reserva própria do estatuto da condição militar, desde que aquelas não ponham em risco a coesão e a disciplina das Forças Armadas, nem o dever de isenção política, partidária e sindical dos seus membros.\n\n2 - Os militares em efectividade de serviço estão sujeitos a dever de sigilo relativamente às matérias cobertas pelo segredo de justiça ou pelo segredo de Estado e por outros sistemas de classificação, aos factos referentes ao dispositivo, à capacidade militar, ao equipamento e à acção operacional das Forças Armadas de que tenham conhecimento em virtude do exercício das suas funções, bem como aos elementos constantes de centros de dados e registos de pessoal que não possam ser divulgados."
+  },
+  "67377580": {
+   "fragment_id": "67377495",
+   "type": 11,
+   "heading": "Artigo 29.º — Direito de reunião",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direito de reunião\n\n1 - Os militares em efectividade de serviço podem, desde que trajem civilmente e não ostentem qualquer símbolo nacional ou das Forças Armadas, convocar ou participar em reuniões legalmente convocadas sem natureza político-partidária ou sindical.\n\n2 - Os militares em efectividade de serviço podem assistir a reuniões político-partidárias e sindicais legalmente convocadas se não usarem da palavra nem exercerem qualquer função na sua preparação, organização ou condução ou na execução das deliberações tomadas.\n\n3 - O direito de reunião não pode ser exercido dentro das unidades e estabelecimentos militares nem de modo que prejudique o serviço normalmente atribuído ao militar ou a permanente disponibilidade deste para o seu cumprimento."
+  },
+  "67377581": {
+   "fragment_id": "67377496",
+   "type": 11,
+   "heading": "Artigo 30.º — Direito de manifestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Direito de manifestação\n\nOs militares em efectividade de serviço podem participar em manifestações legalmente convocadas sem natureza político-partidária ou sindical, desde que estejam desarmados, trajem civilmente e não ostentem qualquer símbolo nacional ou das Forças Armadas e desde que a sua participação não ponha em risco a coesão e a disciplina das Forças Armadas."
+  },
+  "67377582": {
+   "fragment_id": "67377497",
+   "type": 11,
+   "heading": "Artigo 31.º — Liberdade de associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Liberdade de associação\n\n1 - Os militares em efectividade de serviço têm o direito de constituir ou integrar associações sem natureza política, partidária ou sindical, nomeadamente associações profissionais.\n\n2 - O exercício do direito de associação profissional dos militares é regulado por lei própria."
+  },
+  "67377583": {
+   "fragment_id": "67377498",
+   "type": 11,
+   "heading": "Artigo 32.º — Direito de petição colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Direito de petição colectiva\n\nOs militares em efectividade de serviço têm o direito de promover ou apresentar petições colectivas dirigidas aos órgãos de soberania ou a outras autoridades, desde que as mesmas não ponham em risco a coesão e a disciplina das Forças Armadas, nem o dever de isenção política, partidária e sindical dos seus membros."
+  },
+  "67377584": {
+   "fragment_id": "67377499",
+   "type": 11,
+   "heading": "Artigo 33.º — Capacidade eleitoral passiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Capacidade eleitoral passiva\n\n1 - Em tempo de guerra, os militares em efectividade de serviço não podem concorrer a eleições para os órgãos de soberania, de governo próprio das Regiões Autónomas e do poder local, ou para o Parlamento Europeu.\n\n2 - Em tempo de paz, os militares em efectividade de serviço podem candidatar-se aos órgãos referidos no número anterior mediante licença especial a conceder pelo Chefe do Estado-Maior do ramo a que pertençam.\n\n3 - O requerimento para emissão da licença especial deve mencionar a vontade do requerente em ser candidato não inscrito em qualquer partido político e indicar a eleição a que pretende concorrer.\n\n4 - A licença especial é necessariamente concedida no prazo de 10 ou 25 dias úteis, consoante o requerente prestar serviço em território nacional ou no estrangeiro, e produz efeitos a partir da publicação da data do acto eleitoral em causa.\n\n5 - O tempo de exercício dos mandatos para que o militar seja eleito nos termos dos números anteriores conta como tempo de permanência no posto e como tempo de serviço efectivo para efeitos de antiguidade.\n\n6 - A licença especial caduca, determinando o regresso do militar à efectividade de serviço, quando:\n\na) Do apuramento definitivo dos resultados eleitorais resultar que o candidato não foi eleito;\n\nb) Quando, tendo sido o candidato eleito, o seu mandato se extinga por qualquer forma ou esteja suspenso por período superior a 90 dias;\n\nc) Com a declaração de guerra, do estado de sítio e do estado de emergência.\n\n7 - Os militares na situação de reserva fora da efectividade de serviço que sejam titulares de um dos órgãos referidos no n.º 1, excepto dos órgãos de soberania ou do Parlamento Europeu, só podem ser chamados à efectividade de serviço em caso de declaração de guerra, do estado de sítio ou do estado de emergência, que determinam a suspensão do respectivo mandato.\n\n8 - Nas situações em que o militar eleito exerça o mandato em regime de permanência e a tempo inteiro, pode requerer, no prazo de 30 dias, a transição voluntária para a situação de reserva, a qual é obrigatoriamente deferida com efeitos a partir da data do início daquelas funções.\n\n9 - No caso de exercício da opção referida no número anterior, e não estando preenchidas as condições de passagem à reserva, o militar fica obrigado a indemnizar o Estado, nos termos do Estatuto dos Militares das Forças Armadas.\n\n10 - Determina a transição para a situação de reserva a eleição de um militar para um segundo mandato, com efeitos a partir da data de início do respectivo exercício."
+  },
+  "67377585": {
+   "fragment_id": "67377500",
+   "type": 11,
+   "heading": "Artigo 34.º — Provedor de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Provedor de Justiça\n\n1 - Os militares na efectividade de serviço podem, depois de esgotados os recursos administrativos legalmente previstos, apresentar queixas ao Provedor de Justiça por acções ou omissões dos poderes públicos responsáveis pelas Forças Armadas de que resulte violação dos seus direitos, liberdades e garantias, excepto em matéria operacional ou classificada.\n\n2 - O exercício do direito referido no número anterior e os termos da correspondente actuação do Provedor de Justiça são regulados por lei."
+  },
+  "67377586": {
+   "fragment_id": "67377501",
+   "type": 11,
+   "heading": "Artigo 35.º — Justiça e disciplina militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Justiça e disciplina militares\n\nAs exigências específicas relativas às Forças Armadas em matéria de justiça e de disciplina são reguladas por leis especiais."
+  },
+  "67377587": {
+   "fragment_id": "67377502",
+   "type": 1,
+   "heading": "Capítulo VI — Defesa da Pátria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Defesa da Pátria"
+  },
+  "67377588": {
+   "fragment_id": "67377503",
+   "type": 11,
+   "heading": "Artigo 36.º — Defesa da Pátria e serviço militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Defesa da Pátria e serviço militar\n\n1 - A defesa da Pátria é direito e dever fundamental de todos os Portugueses.\n\n2 - O dever cívico de prestação de serviço militar é regulado por lei, que fixa as respectivas forma, natureza, duração e conteúdo.\n\n3 - O serviço militar baseia-se, em tempo de paz, no voluntariado.\n\n4 - Os cidadãos sujeitos por lei à prestação do serviço militar podem, excepcionalmente, ser convocados para as Forças Armadas em tempo de paz, nos termos previstos na lei que regula o serviço militar.\n\n5 - A lei referida do número anterior prevê as situações em que os cidadãos excepcionalmente convocados para as Forças Armadas podem ser dispensados da prestação do serviço militar."
+  },
+  "67377589": {
+   "fragment_id": "67377504",
+   "type": 11,
+   "heading": "Artigo 37.º — Mobilização e requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Mobilização e requisição\n\n1 - O Estado pode determinar a utilização dos recursos materiais e humanos indispensáveis à defesa nacional mediante mobilização e requisição.\n\n2 - Todas as pessoas mobilizadas ou abrangidas pelas obrigações decorrentes de mobilização ou requisição podem ser sujeitas aos regimes jurídicos da disciplina e justiça militares, nas condições fixadas na lei."
+  },
+  "67377590": {
+   "fragment_id": "67377505",
+   "type": 11,
+   "heading": "Artigo 38.º — Mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Mobilização\n\n1 - O Estado pode mobilizar os cidadãos para a defesa nacional.\n\n2 - A mobilização pode abranger a totalidade ou uma parte da população e pode ser imposta por períodos de tempo, por áreas territoriais e por sectores de actividade.\n\n3 - A mobilização pode determinar a subordinação dos cidadãos por ela abrangidos às Forças Armadas ou a autoridades civis do Estado."
+  },
+  "67377591": {
+   "fragment_id": "67377506",
+   "type": 11,
+   "heading": "Artigo 39.º — Requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Requisição\n\n1 - O Estado pode requisitar os bens móveis e imóveis, materiais e imateriais, indispensáveis para a defesa nacional que não seja possível ou conveniente obter de outro modo.\n\n2 - A requisição pode ainda incidir sobre empresas, serviços, estabelecimentos industriais, comerciais ou científicos e bens que sejam objecto de propriedade intelectual e industrial.\n\n3 - A requisição cessa quando os bens requisitados deixem de ser necessários à defesa nacional.\n\n4 - A requisição confere o direito a justa indemnização."
+  },
+  "67377592": {
+   "fragment_id": "67377507",
+   "type": 1,
+   "heading": "Capítulo VII — Estado de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Estado de guerra"
+  },
+  "67377593": {
+   "fragment_id": "67377508",
+   "type": 11,
+   "heading": "Artigo 40.º — Duração do estado de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Duração do estado de guerra\n\nO estado de guerra existe desde a declaração de guerra até à feitura da paz."
+  },
+  "67377594": {
+   "fragment_id": "67377509",
+   "type": 11,
+   "heading": "Artigo 41.º — Actuação dos órgãos públicos em estado de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Actuação dos órgãos públicos em estado de guerra\n\n1 - A actuação dos órgãos públicos em estado de guerra obedece aos seguintes princípios:\n\na) Empenhamento total na prossecução das finalidades da guerra;\n\nb) Ajustamento da economia nacional ao esforço de guerra;\n\nc) Mobilização e requisição dos recursos necessários ao esforço de guerra;\n\nd) Urgência na satisfação das necessidades da componente militar da defesa nacional.\n\n2 - Em estado de guerra, os órgãos competentes adoptam, de acordo com a Constituição e as leis, todas as medidas necessárias e adequadas para a condução da guerra, nomeadamente através da disponibilização de todos os recursos necessários à defesa nacional e às Forças Armadas para preparar e executar as acções militares, bem como para o restabelecimento da paz."
+  },
+  "67377595": {
+   "fragment_id": "67377510",
+   "type": 11,
+   "heading": "Artigo 42.º — Direcção e condução da guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Direcção e condução da guerra\n\n1 - A direcção superior da guerra compete conjuntamente ao Presidente da República e ao Governo, dentro dos respectivos limites constitucionais.\n\n2 - A condução militar da guerra compete ao Chefe do Estado-Maior-General das Forças Armadas, assistido pelos Chefes do Estado-Maior dos ramos das Forças Armadas, e aos comandantes-chefes, de acordo com as orientações e directivas dos órgãos de soberania competentes."
+  },
+  "67377596": {
+   "fragment_id": "67377511",
+   "type": 11,
+   "heading": "Artigo 43.º — Conselho Superior de Defesa Nacional durante o estado de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Conselho Superior de Defesa Nacional durante o estado de guerra\n\n1 - Em estado de guerra, o Conselho Superior de Defesa Nacional funciona em sessão permanente para assistir o Presidente da República, o Primeiro-Ministro e o Ministro da Defesa Nacional na direcção da guerra.\n\n2 - Compete ao Conselho Superior de Defesa Nacional, durante o estado de guerra:\n\na) Definir e activar os teatros e zonas de operações;\n\nb) Aprovar as cartas de comando destinadas aos comandantes-chefes;\n\nc) Aprovar a orientação geral das operações militares e os planos de guerra;\n\nd) Estudar, adoptar ou propor as medidas indispensáveis para assegurar as necessidades da vida colectiva e das Forças Armadas.\n\n3 - O Ministro de Defesa Nacional mantém o Conselho Superior de Defesa Nacional permanentemente informado sobre a situação político-estratégica.\n\n4 - As cartas de comando definem a missão, a dependência, o grau de autoridade e a área onde esta se exerce, as entidades abrangidas, os meios atribuídos e outros aspectos relevantes.\n\n5 - As cartas de comando são assinadas pelo Presidente da República, pelo Primeiro-Ministro, pelo Ministro da Defesa Nacional e pelo Chefe do Estado-Maior-General das Forças Armadas.\n\n6 - Em estado de guerra e com vista à execução de operações militares, pode o Conselho de Ministros delegar em autoridades militares competências e meios normalmente atribuídos aos departamentos ministeriais, mediante proposta do Conselho Superior de Defesa Nacional."
+  },
+  "67377597": {
+   "fragment_id": "67377512",
+   "type": 11,
+   "heading": "Artigo 44.º — Forças Armadas durante o estado de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Forças Armadas durante o estado de guerra\n\n1 - Em estado de guerra, o Chefe do Estado-Maior-General das Forças Armadas assume o comando completo das Forças Armadas, respondendo perante o Presidente da República e o Governo pela preparação e pela condução das operações militares.\n\n2 - No exercício do comando referido no número anterior, o Chefe do Estado-Maior-General das Forças Armadas tem como comandantes-adjuntos os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea, que perante ele respondem pela execução das directivas superiores e pela actuação das respectivas forças.\n\n3 - O Conselho de Chefes de Estado-Maior assiste, em permanência, o Chefe do Estado-Maior-General das Forças Armadas na condução das operações militares e na elaboração das propostas de nomeação dos comandantes dos teatros e das zonas de operações.\n\n4 - Compete ao Chefe do Estado-Maior-General das Forças Armadas apresentar ao Ministro da Defesa Nacional, para decisão do Conselho Superior de Defesa Nacional, os projectos de definição dos teatros e zonas de operações, bem como as propostas de nomeação e de exoneração dos respectivos comandantes e as suas cartas de comando."
+  },
+  "67377598": {
+   "fragment_id": "67377513",
+   "type": 11,
+   "heading": "Artigo 45.º — Prejuízos e indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Prejuízos e indemnizações\n\n1 - Os prejuízos da guerra são da responsabilidade do agressor e a indemnização por eles devida é reclamada no tratado de paz ou na convenção de armistício.\n\n2 - O Estado não responde civilmente pelos prejuízos directa ou indirectamente causados por acções militares praticadas durante o estado de guerra."
+  },
+  "67377599": {
+   "fragment_id": "67377514",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "67377600": {
+   "fragment_id": "67377515",
+   "type": 11,
+   "heading": "Artigo 46.º — Programação militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Programação militar\n\n1 - A previsão das despesas militares a efectuar pelo Estado no reequipamento das Forças Armadas e nas infra-estruturas de defesa deve ser objecto de planeamento a médio prazo, constante de leis de programação militar.\n\n2 - A proposta de orçamento do Ministério da Defesa Nacional, na parte relativa ao reequipamento das Forças Armadas e às infra-estruturas de defesa, inclui obrigatoriamente o estabelecido para o ano em causa na lei de programação militar em vigor."
+  },
+  "67377601": {
+   "fragment_id": "67377516",
+   "type": 11,
+   "heading": "Artigo 47.º — Restrições de direitos fundamentais no âmbito da Guarda Nacional Republicana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Restrições de direitos fundamentais no âmbito da Guarda Nacional Republicana\n\nO disposto nos artigos 26.º a 35.º é aplicável aos militares e agentes militarizados dos quadros permanentes e dos contratados em serviço efectivo na Guarda Nacional Republicana."
+  },
+  "67377602": {
+   "fragment_id": "67377517",
+   "type": 11,
+   "heading": "Artigo 48.º — Forças de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Forças de segurança\n\n1 - As forças de segurança colaboram em matéria de defesa nacional nos termos da Constituição e da lei.\n\n2 - Compete ao Chefe do Estado-Maior-General das Forças Armadas e ao Secretário-Geral do Sistema de Segurança Interna assegurar entre si a articulação operacional, para os efeitos previstos na alínea e) do n.º 1 do artigo 24.º"
+  },
+  "67377603": {
+   "fragment_id": "67377518",
+   "type": 11,
+   "heading": "Artigo 49.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Norma revogatória\n\nÉ revogada a Lei n.º 29/82, de 11 de Dezembro, alterada pelas Leis n.os 41/83, de 21 de Dezembro, 111/91, de 29 de Agosto, 113/91, de 29 de Agosto, 18/95, de 13 de Julho, e pelas Leis Orgânicas n.os 3/99, de 18 de Setembro, 4/2001, de 30 de Agosto, e 2/2007, de 16 de Abril."
+  },
+  "67377604": {
+   "fragment_id": "67377519",
+   "type": 11,
+   "heading": "Artigo 50.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\nAprovada em 29 de Maio de 2009.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 3 de Julho de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 6 de Julho de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "67377671": {
+   "fragment_id": "67356370",
+   "type": 11,
+   "heading": "Artigo 7.º — Conceito estratégico de defesa nacional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), produz efeitos a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 7.º — Conceito estratégico de defesa nacional\n\n1 - O conceito estratégico de defesa nacional define as prioridades do Estado em matéria de defesa, de acordo com o interesse nacional, e é parte integrante da política de defesa nacional.\n\n2 - As grandes opções do conceito estratégico de defesa nacional são objeto de debate e aprovação na Assembleia da República, por iniciativa do Governo.\n\n3 - O conceito estratégico de defesa nacional é aprovado por resolução do Conselho de Ministros, sob proposta conjunta do Primeiro-Ministro e do Ministro da Defesa Nacional, ouvidos o Conselho Superior de Defesa Nacional e o Conselho de Chefes de Estado-Maior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), produz efeitos a partir de 2014-08-30"
+  },
+  "67377672": {
+   "fragment_id": "67356372",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos responsáveis em matéria de defesa nacional",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 8.º — Órgãos responsáveis em matéria de defesa nacional\n\n1 - São directamente responsáveis pela defesa nacional:\n\na) O Presidente da República;\n\nb) A Assembleia da República;\n\nc) O Governo;\n\nd) O Conselho Superior de Defesa Nacional;\n\ne) (Revogada.)\n\n2 - Além dos órgãos referidos no número anterior, são directamente responsáveis pelas Forças Armadas e pela componente militar da defesa nacional:\n\na) (Revogada.)\n\nb) O Chefe do Estado-Maior-General das Forças Armadas;\n\nc) Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.\n\n3 - São órgãos de consulta em matéria de defesa nacional:\n\na) O Conselho Superior Militar;\n\nb) O Conselho de Chefes de Estado-Maior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67377673": {
+   "fragment_id": "67356373",
+   "type": 11,
+   "heading": "Artigo 9.º — Presidente da República",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 9.º — Presidente da República\n\n1 - O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, o Comandante Supremo das Forças Armadas.\n\n2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Presidente da República, em matéria de defesa nacional:\n\na) Exercer as funções de Comandante Supremo das Forças Armadas;\n\nb) Declarar a guerra, em caso de agressão efectiva ou iminente, e fazer a paz, sob proposta do Governo, ouvido o Conselho de Estado e mediante autorização da Assembleia da República, ou, quando esta não estiver reunida, nem for possível a sua reunião imediata, da sua Comissão Permanente;\n\nc) Assumir a direcção superior da guerra, em conjunto com o Governo, e contribuir para a manutenção do espírito de defesa;\n\nd) Declarar o estado de sítio e o estado de emergência, ouvido o Governo e mediante autorização da Assembleia da República, ou, quando esta não estiver reunida, nem for possível a sua reunião imediata, da sua Comissão Permanente;\n\ne) Ratificar os tratados internacionais em que o Estado assume responsabilidades internacionais no domínio da defesa, nomeadamente os tratados de participação de Portugal em organizações internacionais de segurança e defesa, bem como os tratados de paz, de defesa, de rectificação de fronteiras e os respeitantes a assuntos militares;\n\nf) Presidir ao Conselho Superior de Defesa Nacional;\n\ng) Nomear e exonerar, sob proposta do Governo, o Chefe do Estado-Maior-General das Forças Armadas, bem como, ouvido o Chefe do Estado-Maior-General das Forças Armadas, os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.\n\nh) Nomear e exonerar, sob proposta do Governo, os comandantes ou representantes militares junto das organizações internacionais de que Portugal faça parte, bem como os oficiais generais, comandantes de força naval, terrestre ou aérea, designados para o cumprimento de missões internacionais naquele quadro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67377674": {
+   "fragment_id": "67356374",
+   "type": 11,
+   "heading": "Artigo 10.º — Comandante Supremo das Forças Armadas",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 10.º — Comandante Supremo das Forças Armadas\n\n1 - As funções de Comandante Supremo das Forças Armadas, atribuídas constitucionalmente por inerência ao Presidente da República, compreendem os seguintes direitos e deveres:\n\na) Dever de contribuir, no âmbito das suas competências constitucionais, para assegurar a fidelidade das Forças Armadas à Constituição e às instituições democráticas;\n\nb) Direito de ser informado pelo Governo acerca da situação das Forças Armadas;\n\nc) Direito de ser previamente informado pelo Governo, através de comunicação fundamentada, sobre o emprego das Forças Armadas em missões que envolvam a colaboração com as forças e os serviços de segurança contra agressões ou ameaças transnacionais;\n\nd) Dever de aconselhar em privado o Governo acerca da condução da política de defesa nacional;\n\ne) Direito de ocupar o primeiro lugar na hierarquia das Forças Armadas.\n\nf) Consultar o Chefe do Estado-Maior-General das Forças Armadas e os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea, em matérias de defesa nacional;\n\ng) Conferir, por iniciativa própria, condecorações militares.\n\n2 - O emprego das Forças Armadas, e de outras forças quando integradas numa força militar, em operações militares no exterior do território nacional é sempre precedido de comunicação fundamentada do Primeiro-Ministro, a qual deve, designadamente, incluir:\n\nb) Os projectos de decisão ou de proposta desse envolvimento;\n\nc) Os meios militares envolvidos ou a envolver, o tipo e grau dos riscos estimados e a previsível duração da missão;\n\nd) Os elementos, informações e publicações oficiais considerados úteis e necessários.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380275": {
+   "fragment_id": "67377475",
+   "type": 11,
+   "heading": "Artigo 11.º — Assembleia da República",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 11.º — Assembleia da República\n\nSem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete à Assembleia da República, em matéria de defesa nacional:\n\na) Autorizar o Presidente da República a declarar a guerra e fazer a paz;\n\nb) Autorizar o Presidente da República a declarar o estado de sítio e de emergência;\n\nc) Aprovar os tratados internacionais em que o Estado assume responsabilidades internacionais no domínio da defesa, nomeadamente os tratados de participação de Portugal em organizações internacionais de segurança e defesa, bem como os tratados de paz, de defesa, de rectificação de fronteiras e os respeitantes a assuntos militares;\n\nd) Apreciar as orientações fundamentais da política de defesa nacional constantes do programa do Governo e debater e aprovar as grandes opções do conceito estratégico de defesa nacional;\n\ne) Legislar sobre a organização da defesa nacional e a definição dos deveres dela decorrentes;\n\nf) Legislar sobre as bases gerais da organização, do funcionamento, do reequipamento e da disciplina das Forças Armadas;\n\ng) Legislar sobre restrições ao exercício de direitos por militares e agentes militarizados em exercício efectivo;\n\nh) Legislar sobre os limites das águas territoriais, da zona económica exclusiva e dos direitos de Portugal sobre os fundos marinhos contíguos;\n\ni) Legislar sobre a definição de crimes de natureza estritamente militar e respectivas penas;\n\nj) Legislar sobre o estatuto da condição militar, nomeadamente no que respeita aos direitos e deveres dos militares;\n\nl) Legislar sobre os princípios orientadores das carreiras militares;\n\nm) Legislar sobre o regime de mobilização e de requisição;\n\nn) Legislar sobre servidões militares e outras restrições ao direito de propriedade por motivos relacionados com a defesa nacional;\n\no) Legislar sobre a organização, o funcionamento, a competência e o processo dos tribunais militares a funcionar em tempo de guerra, bem como sobre o estatuto dos respectivos juízes;\n\np) Fiscalizar a acção do Governo no exercício das suas competências em matéria de defesa nacional e das Forças Armadas;\n\nq) Apreciar a decisão do Governo de envolver contingentes ou forças militares em operações militares no estrangeiro, que lhe é comunicada previamente, e acompanhar a participação desses contingentes ou forças nas missões, nos termos fixados em lei própria;\n\nr) Eleger, por maioria de dois terços dos Deputados presentes desde que superior à maioria absoluta dos Deputados em efectividade de funções, dois Deputados para membros do Conselho Superior de Defesa Nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380276": {
+   "fragment_id": "67377476",
+   "type": 11,
+   "heading": "Artigo 12.º — Governo",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 12.º — Governo\n\n1 - O Governo é o órgão de condução da política de defesa nacional e das Forças Armadas e o órgão superior de administração da defesa nacional e das Forças Armadas.\n\n2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Conselho de Ministros, em matéria de defesa nacional, no âmbito político e legislativo:\n\na) Propor ao Presidente da República a declaração da guerra e a feitura da paz;\n\nb) Ser ouvido previamente à declaração do estado de sítio e do estado de emergência;\n\nc) Negociar e ajustar os tratados internacionais em que o Estado assume responsabilidades internacionais no domínio da defesa, nomeadamente os tratados de participação de Portugal em organizações internacionais de segurança e defesa, bem como os tratados de paz, de defesa, de rectificação de fronteiras e os respeitantes a assuntos militares;\n\nd) Legislar em matérias de desenvolvimento das bases gerais do regime de mobilização e de requisição;\n\ne) Legislar em matérias não reservadas à Assembleia da República ou, sob autorização desta, sobre matérias integradas na respectiva reserva relativa, nomeadamente as referidas nas alíneas i), l), m) e o) do artigo 11.º;\n\nf) Apresentar propostas de lei à Assembleia da República;\n\ng) Aprovar as orientações fundamentais da política de defesa nacional, a incluir no seu programa, e assegurar todas as condições indispensáveis para a sua execução, no quadro do Orçamento do Estado e das leis de programação militar;\n\nh) Aprovar o conceito estratégico de defesa nacional;\n\ni) Assegurar a organização e funcionamento do Sistema Nacional de Mobilização e Requisição e determinar a mobilização dos cidadãos para a defesa nacional, nos termos da lei.\n\n3 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Governo, em matéria de defesa nacional, no âmbito administrativo:\n\na) Assegurar o cumprimento da Constituição e das leis relativas à defesa nacional e às Forças Armadas, nomeadamente fazendo os regulamentos necessários à sua boa execução;\n\nb) Sem prejuízo da competência da Assembleia da República, orientar e fiscalizar a execução da lei de programação militar e do orçamento da defesa nacional, bem como a respetiva gestão patrimonial, supervisionando o exercício das competências próprias e delegadas dos Chefes de Estado-Maior em matéria de administração financeira;\n\nc) Assegurar que a defesa nacional é exercida beneficiando das actividades de informações dos órgãos competentes do Sistema de Informações da República Portuguesa (SIRP) e das Forças Armadas, nos termos da lei;\n\nd) Garantir a capacidade, os meios e a prontidão das Forças Armadas para o cumprimento das suas missões;\n\ne) Propor ao Presidente da República a nomeação e a exoneração do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\nf) Dirigir os órgãos e serviços da administração directa e exercer tutela e superintendência sobre os da administração indirecta da defesa nacional;\n\ng) Requisitar os bens móveis e imóveis, materiais e imateriais, indispensáveis para a defesa nacional;\n\nh) Aprovar os mecanismos que assegurem a cooperação entre as Forças Armadas e as forças e os serviços de segurança, tendo em vista o cumprimento conjugado das suas missões no âmbito do combate a agressões ou ameaças transnacionais.\n\ni) Comunicar à Assembleia da República, nos termos da lei, a decisão do Governo de envolver contingentes ou forças militares em operações militares no estrangeiro, e apresentar relatórios circunstanciados sobre esse envolvimento, sem prejuízo de outras informações pontuais ou urgentes que lhe sejam solicitadas;\n\nj) Propor ao Presidente da República a nomeação e a exoneração dos comandantes ou representantes militares junto das organizações internacionais de que Portugal faça parte, bem como dos oficiais generais, comandantes de força naval, terrestre ou aérea, designados para o cumprimento de missões internacionais naquele quadro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380277": {
+   "fragment_id": "67377477",
+   "type": 11,
+   "heading": "Artigo 13.º — Primeiro-Ministro",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 13.º — Primeiro-Ministro\n\n1 - O Primeiro-Ministro dirige a política de defesa nacional e das Forças Armadas, bem como o funcionamento do Governo nessa matéria.\n\n2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Primeiro-Ministro, em matéria de defesa nacional:\n\na) Dirigir a atividade interministerial de execução da política de defesa nacional e das Forças Armadas, incluindo a definição da política nacional de planeamento civil de emergência;\n\nb) Participar no Conselho Superior de Defesa Nacional;\n\nc) Informar o Presidente da República sobre a política e as decisões nas matérias da defesa nacional e das Forças Armadas;\n\nd) Sem prejuízo do disposto na alínea anterior, o emprego das Forças Armadas, e de outras forças quando integradas numa força militar, em operações militares no exterior do território nacional é sempre precedido de comunicação fundamentada do Primeiro-Ministro ao Presidente da República;\n\ne) Informar o Presidente da República, através de comunicação fundamentada, sobre o emprego das Forças Armadas em missões que envolvam a colaboração com as forças e os serviços de segurança contra agressões ou ameaças transnacionais;\n\nf) Propor ao Conselho de Ministros, conjuntamente com o Ministro da Defesa Nacional, a nomeação e a exoneração do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\ng) Propor ao Conselho de Ministros, em conjunto com o Ministro da Defesa Nacional, a aprovação do conceito estratégico de defesa nacional.\n\n3 - O Primeiro-Ministro pode delegar, no todo ou em parte, a competência referida na alínea a) do número anterior no Ministro da Defesa Nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380278": {
+   "fragment_id": "67377478",
+   "type": 11,
+   "heading": "Artigo 14.º — Ministro da Defesa Nacional",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 14.º — Ministro da Defesa Nacional\n\n1 - O Ministro da Defesa Nacional assegura a elaboração e a execução da política de defesa nacional e das Forças Armadas e é politicamente responsável pela componente militar da defesa nacional, pelo emprego das Forças Armadas e pelas suas capacidades, meios e prontidão.\n\n2 - O Ministro da Defesa Nacional dirige, assegura e fiscaliza a administração das Forças Armadas e dos serviços e organismos integrados no Ministério da Defesa Nacional.\n\n3 - Compete, em especial, ao Ministro da Defesa Nacional:\n\na) Apresentar ao Conselho de Ministros todas as propostas relativas a matéria da competência deste órgão nos domínios da defesa nacional e das Forças Armadas, incluindo a sua componente militar;\n\nb) Participar no Conselho Superior de Defesa Nacional;\n\nc) Presidir ao Conselho Superior Militar;\n\nd) Dirigir a actividade interministerial de execução da política de defesa nacional e das Forças Armadas, por delegação do Primeiro-Ministro;\n\ne) Aprovar o conceito estratégico militar elaborado pelo Conselho de Chefes de Estado-Maior, de acordo com o conceito estratégico de defesa nacional referido no artigo 7.º;\n\nf) Coordenar e orientar as acções necessárias para garantir o cumprimento de compromissos militares resultantes de acordos internacionais, nomeadamente a participação de destacamentos das Forças Armadas em operações militares no exterior do território nacional;\n\ng) Coordenar e orientar as relações com ministérios congéneres e instituições militares estrangeiros e com as organizações internacionais que prossigam atribuições em matéria militar, sem prejuízo da competência do Ministro dos Negócios Estrangeiros;\n\nh) Orientar a elaboração do orçamento da defesa nacional, bem como das leis de programação militar, e orientar e fiscalizar as respetivas execução e gestão patrimonial;\n\ni) Propor ao Conselho de Ministros, conjuntamente com o Primeiro-Ministro, a nomeação e a exoneração do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\nj) Propor ao Conselho de Ministros, em conjunto com o Primeiro-Ministro, a aprovação do conceito estratégico de defesa nacional e assegurar a respectiva execução;\n\nl) Propor ao Conselho Superior de Defesa Nacional a confirmação do conceito estratégico militar e a aprovação, sob projeto do Conselho de Chefes de Estado-Maior, das missões específicas das Forças Armadas e do sistema de forças necessário ao seu cumprimento;\n\nm) Aprovar o dispositivo do sistema de forças proposto pelo Conselho de Chefes de Estado-Maior;\n\nn) Aprovar e fazer publicar as normas indispensáveis à execução das leis da defesa nacional e das Forças Armadas que não sejam da competência do Conselho de Ministros;\n\no) Elaborar e dirigir a política nacional de armamento e de equipamentos da defesa nacional;\n\np) Elaborar e dirigir as políticas de saúde a desenvolver no âmbito militar e de articulação com outros organismos congéneres do Estado;\n\nq) Elaborar e dirigir as políticas relacionadas com o ensino superior militar;\n\nr) Exercer os poderes do Governo relativos à direcção dos órgãos e serviços da administração directa e à tutela e superintendência sobre os órgãos e serviços da administração indirecta da defesa nacional;\n\ns) Autorizar a realização de manobras e exercícios militares fora do território nacional;\n\nt) Licenciar obras em áreas sujeitas a servidão militar, ouvido o Chefe do Estado-Maior do ramo das Forças Armadas competente;\n\nu) Apresentar ao Conselho Superior de Defesa Nacional, bem como ao Conselho de Ministros, propostas relativas à mobilização e à requisição, necessárias à prossecução dos objectivos permanentes da política de defesa nacional;\n\nv) Nomear e exonerar os titulares dos órgãos submetidos ao seu poder de direcção ou superintendência;\n\nx) Aprovar as promoções a oficial general, bem com as promoções dos oficiais generais, após deliberação do Conselho de Chefes de Estado-Maior;\n\nz) Coordenar e orientar as acções necessárias para garantir a colaboração das Forças Armadas com as forças e serviços de segurança.\n\n4 - O Ministro da Defesa Nacional coordena o Conselho Nacional de Planeamento Civil de Emergência.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380279": {
+   "fragment_id": "67377479",
+   "type": 11,
+   "heading": "Artigo 15.º — Competências dos outros ministros",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 15.º — Competências dos outros ministros\n\n1 - Em coordenação com o Ministro da Defesa Nacional, todos os outros ministros asseguram a execução de componentes não militares da política de defesa nacional que se insiram no âmbito das atribuições dos respetivos ministérios.\n\n2 - Compete, em especial, a cada ministro:\n\na) Preparar a adaptação dos seus serviços para o estado de guerra, o estado de sítio e o estado de emergência;\n\nb) Dirigir a acção dos seus serviços na mobilização e requisição, no planeamento civil de emergência e na protecção civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380280": {
+   "fragment_id": "67377481",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência do Conselho Superior de Defesa Nacional",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 17.º — Competência do Conselho Superior de Defesa Nacional\n\n1 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Conselho Superior de Defesa Nacional, no âmbito consultivo, emitir parecer sobre:\n\na) A declaração de guerra e feitura da paz;\n\nb) A política de defesa nacional;\n\nc) A aprovação de tratados internacionais em que o Estado assume responsabilidades internacionais no domínio da defesa, nomeadamente os tratados de participação de Portugal em organizações internacionais de segurança e defesa, bem como os tratados de paz, de defesa, de rectificação de fronteiras e os respeitantes a assuntos militares;\n\nd) Os projectos e as propostas de actos legislativos relativos à política de defesa nacional e das Forças Armadas, à organização, funcionamento e disciplina das Forças Armadas e às condições de emprego das Forças Armadas no estado de sítio e no estado de emergência;\n\ne) Os projectos e as propostas de leis de programação militar;\n\nf) O projecto de conceito estratégico de defesa nacional;\n\ng) A participação de destacamentos das Forças Armadas, e de outras forças quando integradas numa força militar, em operações militares no exterior do território nacional;\n\nh) A organização da protecção civil, da assistência às populações e da salvaguarda dos bens públicos e particulares, em caso de guerra;\n\ni) As infra-estruturas fundamentais de defesa;\n\nj) As propostas relativas à mobilização e à requisição, necessárias à prossecução dos objectivos permanentes da política de defesa nacional;\n\nl) Outros assuntos relativos à defesa nacional e às Forças Armadas que lhe sejam submetidos pelo Presidente da República, por iniciativa própria ou a pedido do Primeiro-Ministro.\n\n2 - Sem prejuízo de outras competências que lhe sejam atribuídas pela Constituição ou pela lei, compete ao Conselho Superior de Defesa Nacional, no âmbito administrativo:\n\na) Confirmar o conceito estratégico militar e aprovar as missões específicas das Forças Armadas e o sistema de forças necessário ao seu cumprimento, após proposta do Ministro da Defesa Nacional;\n\nb) Exercer, em tempo de guerra, as competências previstas no artigo 43.º;\n\nc) Aprovar as propostas de nomeação e exoneração dos comandantes-chefes.\n\n3 - Os pareceres do Conselho Superior de Defesa Nacional só são publicados quando aquele assim o deliberar.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380281": {
+   "fragment_id": "67377483",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência do Conselho Superior Militar",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 19.º — Competência do Conselho Superior Militar\n\nCompete ao Conselho Superior Militar:\n\na) Emitir pareceres sobre matérias relativas à defesa nacional e às Forças Armadas que sejam da competência do Governo, do Conselho Superior de Defesa Nacional ou do Ministro da Defesa Nacional;\n\nb) Elaborar os projetos de proposta das leis de programação militar e de programação das infraestruturas militares, de acordo com a orientação do Governo, sem prejuízo das demais competências previstas na lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380282": {
+   "fragment_id": "67377485",
+   "type": 11,
+   "heading": "Artigo 20.º — Atribuições do Ministério da Defesa Nacional",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 20.º — Atribuições do Ministério da Defesa Nacional\n\n1 - O Ministério da Defesa Nacional é o departamento governamental que tem por missão preparar e executar a política de defesa nacional e das Forças Armadas, bem como assegurar e fiscalizar a administração das Forças Armadas e dos serviços e organismos nele integrados.\n\n2 - O Ministério da Defesa Nacional presta o apoio necessário ao exercício das funções próprias do Primeiro-Ministro no âmbito da defesa nacional e das Forças Armadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380283": {
+   "fragment_id": "67377489",
+   "type": 11,
+   "heading": "Artigo 23.º — Integração das Forças Armadas na administração do Estado",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 23.º — Integração das Forças Armadas na administração do Estado\n\n1 - As Forças Armadas integram-se na administração directa do Estado através do Ministério da Defesa Nacional.\n\n2 - O Chefe do Estado-Maior-General das Forças Armadas depende diretamente do Ministro da Defesa Nacional, nos termos das competências previstas na lei.\n\n3 - Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea dependem hierarquicamente do Chefe do Estado-Maior-General das Forças Armadas nas matérias relativas à capacidade de resposta das Forças Armadas, designadamente na prontidão, emprego e sustentação da componente operacional do sistema de forças.\n\n4 - Sem prejuízo do disposto no número anterior, os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea dependem do Ministro da Defesa Nacional nas demais matérias previstas na lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380284": {
+   "fragment_id": "67377491",
+   "type": 11,
+   "heading": "Artigo 25.º — Condição militar",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 25.º — Condição militar\n\nOs militares das Forças Armadas servem, exclusivamente, a República e a comunidade nacional e assumem voluntariamente os direitos e deveres que integram a condição militar, nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380299": {
+   "fragment_id": "67377492",
+   "type": 11,
+   "heading": "Artigo 26.º — Direitos fundamentais",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 26.º — Direitos fundamentais\n\nOs militares na efetividade de serviço, dos quadros permanentes e em regime de voluntariado e de contrato, gozam dos direitos, liberdades e garantias constitucionalmente previstos, com as restrições ao exercício dos direitos de expressão, reunião, manifestação, associação e petição colectiva e a capacidade eleitoral passiva constantes da presente lei, nos termos da Constituição.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380300": {
+   "fragment_id": "67377493",
+   "type": 11,
+   "heading": "Artigo 27.º — Regras gerais sobre o exercício de direitos",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 27.º — Regras gerais sobre o exercício de direitos\n\n1 - No exercício dos seus direitos, os militares na efetividade de serviço estão sujeitos aos deveres decorrentes do estatuto da condição militar, devendo observar uma conduta conforme com a ética militar e respeitar a coesão e a disciplina das Forças Armadas.\n\n2 - Os militares na efetividade de serviço são rigorosamente apartidários e não podem usar a sua arma, o seu posto ou a sua função para qualquer intervenção política, partidária ou sindical, nisto consistindo o seu dever de isenção.\n\n3 - Aos militares na efetividade de serviço não são aplicáveis as normas constitucionais relativas aos direitos dos trabalhadores cujo exercício pressuponha os direitos fundamentais a que se referem os artigos seguintes, na medida em que por eles sejam restringidos, nomeadamente a liberdade sindical, o direito à criação e integração de comissões de trabalhadores e o direito à greve.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380301": {
+   "fragment_id": "67377494",
+   "type": 11,
+   "heading": "Artigo 28.º — Liberdade de expressão",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 28.º — Liberdade de expressão\n\n1 - Os militares na efetividade de serviço têm o direito de proferir declarações públicas sobre qualquer assunto, com a reserva própria do estatuto da condição militar, desde que aquelas não ponham em risco a coesão e a disciplina das Forças Armadas, nem o dever de isenção política, partidária e sindical dos seus membros.\n\n2 - Os militares na efetividade de serviço estão sujeitos a dever de sigilo relativamente às matérias cobertas pelo segredo de justiça ou pelo segredo de Estado e por outros sistemas de classificação, aos factos referentes ao dispositivo, à capacidade militar, ao equipamento e à acção operacional das Forças Armadas de que tenham conhecimento em virtude do exercício das suas funções, bem como aos elementos constantes de centros de dados e registos de pessoal que não possam ser divulgados.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380303": {
+   "fragment_id": "67377495",
+   "type": 11,
+   "heading": "Artigo 29.º — Direito de reunião",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 29.º — Direito de reunião\n\n1 - Os militares na efetividade de serviço podem, desde que trajem civilmente e não ostentem qualquer símbolo nacional ou das Forças Armadas, convocar ou participar em reuniões legalmente convocadas sem natureza político-partidária ou sindical.\n\n2 - Os militares na efetividade de serviço podem assistir a reuniões político-partidárias e sindicais legalmente convocadas se não usarem da palavra nem exercerem qualquer função na sua preparação, organização ou condução ou na execução das deliberações tomadas.\n\n3 - O direito de reunião não pode ser exercido dentro das unidades e estabelecimentos militares nem de modo que prejudique o serviço normalmente atribuído ao militar ou a permanente disponibilidade deste para o seu cumprimento.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380304": {
+   "fragment_id": "67377496",
+   "type": 11,
+   "heading": "Artigo 30.º — Direito de manifestação",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 30.º — Direito de manifestação\n\nOs militares na efetividade  de serviço podem participar em manifestações legalmente convocadas sem natureza político-partidária ou sindical, desde que estejam desarmados, trajem civilmente e não ostentem qualquer símbolo nacional ou das Forças Armadas e desde que a sua participação não ponha em risco a coesão e a disciplina das Forças Armadas.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380305": {
+   "fragment_id": "67377497",
+   "type": 11,
+   "heading": "Artigo 31.º — Liberdade de associação",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 31.º — Liberdade de associação\n\n1 - Os militares na efetividade de serviço têm o direito de constituir ou integrar associações sem natureza política, partidária ou sindical, nomeadamente associações profissionais.\n\n2 - O exercício do direito de associação profissional dos militares é regulado por lei própria.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380306": {
+   "fragment_id": "67377498",
+   "type": 11,
+   "heading": "Artigo 32.º — Direito de petição colectiva",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 32.º — Direito de petição colectiva\n\nOs militares na efetividade de serviço têm o direito de promover ou apresentar petições colectivas dirigidas aos órgãos de soberania ou a outras autoridades, desde que as mesmas não ponham em risco a coesão e a disciplina das Forças Armadas, nem o dever de isenção política, partidária e sindical dos seus membros.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380285": {
+   "fragment_id": "67377499",
+   "type": 11,
+   "heading": "Artigo 33.º — Capacidade eleitoral passiva",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 33.º — Capacidade eleitoral passiva\n\n1 - Em tempo de guerra, os militares na efetividade de serviço não podem concorrer a eleições para os órgãos de soberania, de governo próprio das Regiões Autónomas e do poder local, ou para o Parlamento Europeu.\n\n2 - Em tempo de paz, os militares na efetividade de serviço podem candidatar-se aos órgãos referidos no número anterior mediante licença especial a conceder pelo Chefe do Estado-Maior do ramo a que pertençam.\n\n3 - O requerimento para emissão da licença especial deve mencionar a vontade do requerente em ser candidato não inscrito em qualquer partido político e indicar a eleição a que pretende concorrer.\n\n4 - A licença especial é necessariamente concedida no prazo de 10 ou 25 dias úteis, consoante o requerente prestar serviço em território nacional ou no estrangeiro, e produz efeitos a partir da publicação da data do acto eleitoral em causa.\n\n5 - O tempo de exercício dos mandatos para que o militar seja eleito nos termos dos números anteriores conta como tempo de permanência no posto e como tempo de serviço efectivo para efeitos de antiguidade.\n\n6 - A licença especial caduca, determinando o regresso do militar à situação anterior:\n\na) Quando do apuramento definitivo dos resultados eleitorais resultar que o candidato não foi eleito;\n\nb) Quando, tendo sido o candidato eleito, o seu mandato se extinga por qualquer forma ou esteja suspenso por período superior a 90 dias;\n\nc) Com a declaração de guerra, do estado de sítio e do estado de emergência.\n\n7 - Os militares na situação de reserva fora da efectividade de serviço que sejam titulares de um dos órgãos referidos no n.º 1, excepto dos órgãos de soberania ou do Parlamento Europeu, só podem ser chamados à efectividade de serviço em caso de declaração de guerra, do estado de sítio ou do estado de emergência, que determinam a suspensão do respectivo mandato.\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380286": {
+   "fragment_id": "67377500",
+   "type": 11,
+   "heading": "Artigo 34.º — Provedor de Justiça",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 34.º — Provedor de Justiça\n\n1 - Os militares na efetividade de serviço podem, depois de esgotados os recursos administrativos legalmente previstos, apresentar queixas ao Provedor de Justiça por ações ou omissões dos poderes públicos responsáveis pelas Forças Armadas, exceto em matéria operacional ou classificada, nos termos da lei.\n\n2 - O exercício do direito referido no número anterior e os termos da correspondente actuação do Provedor de Justiça são regulados por lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380287": {
+   "fragment_id": "67377510",
+   "type": 11,
+   "heading": "Artigo 42.º — Direcção e condução da guerra",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 42.º — Direcção e condução da guerra\n\n1 - A direcção superior da guerra compete conjuntamente ao Presidente da República e ao Governo, dentro dos respectivos limites constitucionais.\n\n2 - A condução militar da guerra compete ao Chefe do Estado-Maior-General das Forças Armadas, assistido pelos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea, e aos comandantes-chefes, de acordo com as orientações e diretivas dos órgãos de soberania competentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "67380288": {
+   "fragment_id": "67377516",
+   "type": 11,
+   "heading": "Artigo 47.º — Restrições de direitos fundamentais no âmbito da Guarda Nacional Republicana",
+   "in_force_from": "2014-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 47.º — Restrições de direitos fundamentais no âmbito da Guarda Nacional Republicana\n\nO disposto nos artigos 26.º a 35.º é aplicável aos militares dos quadros permanentes e dos contratados em serviço efetivo na Guarda Nacional Republicana.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "169354323": {
+   "fragment_id": "67377478",
+   "type": 11,
+   "heading": "Artigo 14.º — Ministro da Defesa Nacional",
+   "in_force_from": "2021-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2021-169256654), em vigor a partir de 2021-08-10",
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 14.º — Ministro da Defesa Nacional\n\n1 - O Ministro da Defesa Nacional assegura a elaboração e a execução da política de defesa nacional e das Forças Armadas e é politicamente responsável pela componente militar da defesa nacional, pelo emprego das Forças Armadas e pelas suas capacidades, meios e prontidão.\n\n2 - O Ministro da Defesa Nacional dirige, assegura e fiscaliza a administração das Forças Armadas e dos serviços e organismos integrados no Ministério da Defesa Nacional.\n\n3 - Compete, em especial, ao Ministro da Defesa Nacional:\n\na) Apresentar ao Conselho de Ministros todas as propostas relativas a matéria da competência deste órgão nos domínios da defesa nacional e das Forças Armadas, incluindo a sua componente militar;\n\nb) Participar no Conselho Superior de Defesa Nacional;\n\nc) Presidir ao Conselho Superior Militar;\n\nd) Dirigir a actividade interministerial de execução da política de defesa nacional e das Forças Armadas, por delegação do Primeiro-Ministro;\n\ne) Aprovar o conceito estratégico militar elaborado pelo Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior, de acordo com o conceito estratégico de defesa nacional referido no artigo 7.º;\n\nf) Coordenar e orientar as acções necessárias para garantir o cumprimento de compromissos militares resultantes de acordos internacionais, nomeadamente a participação de destacamentos das Forças Armadas em operações militares no exterior do território nacional;\n\ng) Coordenar e orientar as relações com ministérios congéneres e instituições militares estrangeiros e com as organizações internacionais que prossigam atribuições em matéria militar, sem prejuízo da competência do Ministro dos Negócios Estrangeiros;\n\nh) Orientar a elaboração do orçamento da defesa nacional, bem como das leis de programação militar, e orientar e fiscalizar as respetivas execução e gestão patrimonial;\n\ni) Propor ao Conselho de Ministros, conjuntamente com o Primeiro-Ministro, a nomeação e a exoneração do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\nj) Propor ao Conselho de Ministros, em conjunto com o Primeiro-Ministro, a aprovação do conceito estratégico de defesa nacional e assegurar a respectiva execução;\n\nl) Propor ao Conselho Superior de Defesa Nacional a confirmação do conceito estratégico militar e a aprovação, sob projeto do Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior, das missões específicas das Forças Armadas e do sistema de forças necessário ao seu cumprimento;\n\nm) Aprovar o dispositivo do sistema de forças proposto pelo Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior;\n\nn) Aprovar e fazer publicar as normas indispensáveis à execução das leis da defesa nacional e das Forças Armadas que não sejam da competência do Conselho de Ministros;\n\no) Elaborar e dirigir a política nacional de armamento e de equipamentos da defesa nacional;\n\np) Elaborar e dirigir as políticas de saúde a desenvolver no âmbito militar e de articulação com outros organismos congéneres do Estado;\n\nq) Elaborar e dirigir as políticas relacionadas com o ensino superior militar;\n\nr) Exercer os poderes do Governo relativos à direcção dos órgãos e serviços da administração directa e à tutela e superintendência sobre os órgãos e serviços da administração indirecta da defesa nacional;\n\ns) Autorizar a realização de manobras e exercícios militares fora do território nacional;\n\nt) Licenciar obras em áreas sujeitas a servidão militar, ouvido o Chefe do Estado-Maior do ramo das Forças Armadas competente;\n\nu) Apresentar ao Conselho Superior de Defesa Nacional, bem como ao Conselho de Ministros, propostas relativas à mobilização e à requisição, necessárias à prossecução dos objectivos permanentes da política de defesa nacional;\n\nv) Nomear e exonerar os titulares dos órgãos submetidos ao seu poder de direcção ou superintendência;\n\nx) Aprovar as promoções a oficial general, bem com as promoções dos oficiais generais, após deliberação do Conselho de Chefes de Estado-Maior;\n\nz) Coordenar e orientar as acções necessárias para garantir a colaboração das Forças Armadas com as forças e serviços de segurança.\n\naa) Orientar a ação dos adidos de defesa.\n\n4 - O Ministro da Defesa Nacional coordena o Conselho Nacional de Planeamento Civil de Emergência.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2021-169256654), em vigor a partir de 2021-08-10\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "169354324": {
+   "fragment_id": "67377489",
+   "type": 11,
+   "heading": "Artigo 23.º — Integração das Forças Armadas na administração do Estado",
+   "in_force_from": "2021-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2021-169256654), em vigor a partir de 2021-08-10",
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+   ],
+   "markdown": "###### Artigo 23.º — Integração das Forças Armadas na administração do Estado\n\n1 - As Forças Armadas integram-se na administração directa do Estado através do Ministério da Defesa Nacional.\n\n2 - O Chefe do Estado-Maior-General das Forças Armadas depende diretamente do Ministro da Defesa Nacional, nos termos das competências previstas na lei.\n\n3 - Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea dependem hierarquicamente do Chefe do Estado-Maior-General das Forças Armadas para todos os assuntos militares.\n\n4 - Sem prejuízo do disposto no número anterior, os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea dependem do Ministro da Defesa Nacional para assuntos relacionados com o funcionamento dos órgãos regulados por legislação própria e dos serviços de busca e salvamento marítimo e aéreo, permanentemente atribuídos à Marinha e à Força Aérea, respetivamente, bem como para a execução de projetos no âmbito da lei de programação militar e da lei de infraestruturas militares, e nas demais matérias administrativas e de execução orçamental que resultem da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2021-169256654), em vigor a partir de 2021-08-10\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), em vigor a partir de 2014-08-30"
+  },
+  "169354325": {
+   "fragment_id": "67377515",
+   "type": 11,
+   "heading": "Artigo 46.º — Programação militar",
+   "in_force_from": "2021-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2021-169256654), em vigor a partir de 2021-08-10"
+   ],
+   "markdown": "###### Artigo 46.º — Programação militar\n\n1 - A previsão das despesas militares a efetuar pelo Estado no reequipamento das Forças Armadas e nas infraestruturas de defesa deve ser objeto de planeamento a médio prazo, constante, respetivamente, da lei de programação militar e da lei das infraestruturas militares.\n\n2 - A proposta de orçamento do Ministério da Defesa Nacional, na parte relativa ao reequipamento das Forças Armadas e às infraestruturas de defesa, inclui obrigatoriamente o estabelecido para o ano em causa na lei de programação militar e na lei das infraestruturas militares.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2021-169256654), em vigor a partir de 2021-08-10"
+  }
+ }
+}

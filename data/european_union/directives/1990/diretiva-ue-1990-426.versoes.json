@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31990L0426:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01990L0426-20100812",
+ "dre_path": null,
+ "source_lastmod": "2010-08-12",
+ "versions": [
+  {
+   "date": "2010-08-12",
+   "future": false,
+   "celex": "01990L0426-20100812",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "16548bbdbf391d73"
+   ]
+  }
+ ],
+ "fragments": {
+  "16548bbdbf391d73": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01990L0426 — PT — 12.08.2010 — 013.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31990L0426) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31990L0426) [de 26 de Junho de 1990](http://publications.europa.eu/resource/celex/31990L0426) [relativa às condições de polícia sanitária que regem a circulação de equídeos e as importações de equídeos provenientes de países terceiros](http://publications.europa.eu/resource/celex/31990L0426) [(90/426/CEE)](http://publications.europa.eu/resource/celex/31990L0426) (JO L 224, 18.8.1990, p.42)\n\n**Revogada por:**\n\n- [Directiva 2009/156/CE do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009L0156) — L 192 — 1 — 23.7.2010"
+  }
+ }
+}

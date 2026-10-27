@@ -1,0 +1,376 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:614341:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-69740467",
+ "dre_path": "/dr/detalhe/portaria/251-2010-614341",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69740374",
+    "69749475",
+    "69749476",
+    "69749477",
+    "69749478",
+    "69749479",
+    "69749480",
+    "69749481",
+    "69749482",
+    "69749483"
+   ]
+  },
+  {
+   "date": "2011-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146267:por",
+     "title": "Portaria n.º 294/2011",
+     "published": "2011-11-14",
+     "dre_path": "/dr/detalhe/portaria/294-2011-146267"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "69740374",
+    "69749475",
+    "69749490",
+    "69749491",
+    "69749492",
+    "69749479",
+    "69749480",
+    "69749481",
+    "69749482",
+    "69749483",
+    "69749484"
+   ]
+  },
+  {
+   "date": "2015-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67444555:por",
+     "title": "Portaria n.º 173-A/2015",
+     "published": "2015-06-08",
+     "dre_path": "/dr/detalhe/portaria/173-a-2015-67444555"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "69740374",
+    "69749475",
+    "69749490",
+    "69749534",
+    "69749526",
+    "69749527",
+    "69749535",
+    "69749529",
+    "69749530",
+    "69749531",
+    "69749532",
+    "69749533"
+   ]
+  },
+  {
+   "date": "2016-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73752569:por",
+     "title": "Portaria n.º 34-A/2016",
+     "published": "2016-02-29",
+     "dre_path": "/dr/detalhe/portaria/34-a-2016-73752569"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 3.º-A"
+   ],
+   "fragments": [
+    "69740374",
+    "69749475",
+    "69749490",
+    "73723443",
+    "73723447",
+    "69749527",
+    "73723444",
+    "73723445",
+    "73723446",
+    "69749531",
+    "69749532",
+    "69749533"
+   ]
+  }
+ ],
+ "fragments": {
+  "69740374": {
+   "fragment_id": "69740468",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 251/2010\n\nde 4 de Maio\n\nA pesca com a arte de cerco dirige-se essencialmente à captura de sardinha e detém uma especial relevância no contexto da pesca portuguesa dado que este recurso é a principal espécie capturada em águas nacionais.\n\nNo final da década de 90, com base na informação disponível sobre o recurso sardinha, foram estabelecidas medidas específicas de gestão do esforço de pesca, nomeadamente limitações da actividade e do volume de desembarques atribuído por cada organização de produtores.\n\nA mais recente avaliação científica deste recurso efectuada pelo Conselho Internacional para a Exploração do Mar (CIEM) indicia falhas nos recrutamentos desde 2005 e aconselha a manutenção do nível de exploração (mortalidade por pesca), o que se traduz em recomendações para diminuição da captura, a partir de 2008. Todavia, a mortalidade por pesca aumentou substancialmente em 2008, levando a capturas 10 % superiores ao recomendado e havendo fortes probabilidades de idêntica situação ter também ocorrido em 2009.\n\nTorna-se, assim, necessário proceder ao estabelecimento de restrições à captura desta espécie bem como à actividade desenvolvida pela frota do cerco, na linha das medidas já anteriormente adoptadas, tendo igualmente em conta a necessidade de serem evitadas flutuações bruscas das respectivas capturas.\n\nSendo as organizações de produtores uma componente fundamental da organização do mercado dos produtos da pesca que, nos últimos anos, têm participado, de forma expressiva, na gestão dos recursos, nomeadamente através da utilização de novos mecanismos de intervenção decorrentes da reforma da OCM de 2000, considera-se adequado que o acompanhamento das medidas agora adoptadas possa contar com a sua colaboração activa, num regime de parceria com a Administração, tirando partido da sua proximidade ao sector e da experiência já detida no acompanhamento de medidas dirigidas à sardinha como é o caso das resultantes da aplicação da Portaria n.º 543-B/2001, de 30 de Maio.\n\nPor outro lado, considerando a necessidade de estabelecer um plano de gestão de longo prazo para a pescaria de cerco, condição necessária para que a pescaria seja gerida de modo sustentável, é criada uma comissão de acompanhamento para o efeito.\n\nAssim:\n\nAo abrigo do disposto nas alíneas d) e g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e do artigo 49.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  },
+  "69749475": {
+   "fragment_id": "69740469",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece restrições à pesca de sardinha (Sardina pilchardus) com a arte de cerco na costa continental portuguesa."
+  },
+  "69749476": {
+   "fragment_id": "69740470",
+   "type": 11,
+   "heading": "Artigo 2.º — Interdições de captura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Interdições de captura\n\n1 - Sem prejuízo do disposto no n.º 3, é interdita a captura de sardinha nos locais e períodos a seguir indicados:\n\na) A norte do paralelo 39º55'4''N., das 0 horas de sábado até às 0 horas de segunda-feira;\n\nb) Entre os paralelos 39º55'4''N. e 37º26'5''N., das 12 horas de sábado até às 12 horas de segunda-feira;\n\nc) A sul do paralelo 37º26'5''N., das 18 horas de sábado até às 18 horas de segunda-feira.\n\n2 - A proibição a que se refere o número anterior aplica-se, também, à manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou primeira venda.\n\n3 - A captura de sardinha é permitida nos locais e períodos referidos no n.º 1, como captura acessória, até ao limite de 10 % de todas as espécies desembarcadas."
+  },
+  "69749477": {
+   "fragment_id": "69740471",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitação de desembarques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limitação de desembarques\n\n1 - O máximo de desembarque anual autorizado da espécie sardinha e, bem assim, a respectiva repartição, nos termos dos números seguintes, são estabelecidos por despacho do membro do Governo responsável pela área das pescas, depois de ouvida a comissão de acompanhamento, e publicitados no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas.\n\n2 - A limitação anual a que se refere o número anterior tem por base a avaliação da situação do recurso por parte do Instituto Nacional de Recursos Biológicos, I. P. - IPIMAR e do Conselho Internacional para a Exploração do Mar (CIEM), bem assim como os objectivos de gestão que vierem a ser estabelecidos para o recurso, e poderá ser revisto no 2.º semestre de cada ano, em função dos dados relativos ao recrutamento do ano precedente.\n\n3 - O máximo de desembarque anual é repartido pelos seguintes grupos de embarcações que capturam sardinha com arte de cerco:\n\na) 95 % para o grupo constituído pelas embarcações cujos armadores ou proprietários sejam membros das organizações de produtores (OP) reconhecidas para a espécie sardinha;\n\nb) 5 % para o grupo constituído pelas demais embarcações.\n\n4 - Para as embarcações cujos armadores ou proprietários não sejam membros de uma OP, são fixados os seguintes limites máximos de desembarques de sardinha por dia:\n\na) 3 t para embarcações com comprimento de fora a fora superior a 12 m;\n\nb) 1,5 t para embarcações com comprimento de fora a fora inferior ou igual a 12 m.\n\n5 - Mediante proposta de uma organização de produtores, ouvida a comissão de acompanhamento, podem ser estabelecidos, por despacho do membro do Governo responsável pela área das pescas, publicitado no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), www.dgpa.min-agricultura.pt, limites diários de desembarques para todas as embarcações que desembarquem num determinado porto.\n\n6 - As competências referidas nos n.os 1 e 5 podem ser delegadas, nos termos gerais, no director-geral das Pescas e Aquicultura.\n\n7 - Para o ano de 2010, o máximo de desembarques é fixado em 55 000 t."
+  },
+  "69749478": {
+   "fragment_id": "69740472",
+   "type": 11,
+   "heading": "Artigo 4.º — Proibição de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Proibição de pesca\n\nPor despacho do director-geral das Pescas e Aquicultura, a publicitar através do sítio www.dgpa.min-agricultura.pt e através de comunicado a ser divulgado pela entidade que explora as lotas, é determinada a proibição de captura, manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda de sardinha capturada com arte de cerco sempre que ocorra uma das seguintes situações:\n\na) Relativamente às embarcações cujos armadores ou proprietários são membros de uma OP, quando tenha sido atingido o máximo anual de desembarques fixado para tal conjunto de embarcações;\n\nb) Relativamente às embarcações cujos armadores ou proprietários não são membros de uma OP, quando tenha sido atingido o máximo anual de desembarques fixado para tal conjunto de embarcações;\n\nc) Relativamente a todas as embarcações que fazem pesca de sardinha com arte de cerco, quando tenha sido atingido o máximo de desembarques autorizado para o ano em causa."
+  },
+  "69749479": {
+   "fragment_id": "69740473",
+   "type": 11,
+   "heading": "Artigo 5.º — Limitação de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limitação de actividade\n\n1 - O número máximo de dias de actividade para as embarcações que efectuam pesca de sardinha com arte de cerco é fixado anualmente por despacho do membro do Governo responsável pela área das pescas, cuja competência pode ser delegada no director-geral das Pescas e Aquicultura, e publicitado no sítio da DGPA, sendo proibida a pesca com a referida arte, uma vez atingido aquele número.\n\n2 - Para efeitos do disposto no número anterior, entende-se por «dias de actividade» o número de dias de calendário com vendas em lota.\n\n3 - Em 2010, o número máximo de dias de actividade por embarcação é fixado em 180."
+  },
+  "69749480": {
+   "fragment_id": "69740474",
+   "type": 11,
+   "heading": "Artigo 6.º — Estabelecimento de outras medidas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estabelecimento de outras medidas de gestão\n\n1 - Por despacho do membro do Governo responsável pela área das pescas, publicitado no sítio da DGPA, depois de ouvida a comissão de acompanhamento a que se refere o artigo 8.º, podem ser:\n\na) Fixadas percentagens máximas de desembarque de sardinha de categoria comercial T4, com o objectivo de proteger a sardinha juvenil;\n\nb) Períodos ou áreas de interdição à pesca;\n\nc) Outras medidas de gestão da pescaria directamente relacionadas com a regulação dos desembarques.\n\n2 - A competência referida no número anterior pode ser delegada, nos termos gerais, no director-geral das Pescas e Aquicultura."
+  },
+  "69749481": {
+   "fragment_id": "69749575",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão de acompanhamento\n\n1 - É criada uma comissão de acompanhamento coordenada pela Direcção-Geral das Pescas e Aquicultura, integrando até dois elementos de cada uma das seguintes entidades, a designar pelas mesmas, no prazo de 10 dias após a entrada em vigor da presente portaria:\n\na) Direcção-Geral das Pescas e Aquicultura;\n\nb) Instituto Nacional de Recursos Biológicos, I. P. - IPIMAR;\n\nc) Docapesca, Portos e Lotas, S. A.;\n\nd) ANOPCERCO, Associação Nacional das Organizações de Produtores da Pesca de Cerco; e\n\ne) Associação Nacional de Industriais de Conservas de Pescado (ANICP).\n\n2 - A comissão de acompanhamento tem por objectivo:\n\na) Contribuir para o desenvolvimento e implementação de um plano de gestão de médio e longo prazos para a pescaria do cerco, incluindo a recomendação de proposta para definição dos objectivos económicos, ecológicos e sociais de gestão da pescaria e regras de exploração do recurso;\n\nb) Avaliar, anualmente, a adequação das medidas e propor medidas de gestão e acompanhamento da pescaria.\n\n3 - A comissão reúne pelo menos uma vez por semestre, ou sempre que considerado adequado, por convocatória da Direcção-Geral das Pescas e Aquicultura, podendo ser convidadas outras entidades, em função das matérias a tratar."
+  },
+  "69749482": {
+   "fragment_id": "69749576",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 543-B/2001, de 30 de Maio, na redacção dada pela Portaria n.º 1423-A/2003, de 31 de Dezembro, excepto o seu artigo 9.º, que se mantém em vigor."
+  },
+  "69749483": {
+   "fragment_id": "69749577",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "69749490": {
+   "fragment_id": "69740470",
+   "type": 11,
+   "heading": "Artigo 2.º — Interdições de captura",
+   "in_force_from": "2011-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+   ],
+   "markdown": "###### Artigo 2.º — Interdições de captura\n\n1 - Sem prejuízo do disposto nos n.os 3 e 4, é interdita a captura de sardinha nos locais e períodos a seguir indicados:\n\na) A norte do paralelo 39º55'4''N., das 0 horas de sábado até às 0 horas de segunda-feira;\n\nb) Entre os paralelos 39º55'4''N. e 37º26'5''N., das 12 horas de sábado até às 12 horas de segunda-feira;\n\nc) A sul do paralelo 37º26'5''N., das 18 horas de sábado até às 18 horas de segunda-feira.\n\n2 - A proibição a que se refere o número anterior aplica-se, também, à manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou primeira venda.\n\n3 - A captura de sardinha é permitida nos locais e períodos referidos no n.º 1, como captura acessória, até ao limite de 10 % de todas as espécies desembarcadas.\n\n4 - O período referido no n.º 1 pode ser alterado mediante comunicação da ANOPCERCO desde que seja assegurado, para a totalidade das águas do continente, por capitania ou conjunto de capitanias, uma interdição de captura durante 48 horas consecutivas, entre as 0 horas de sábado e as 24 horas de segunda-feira, em cada semana.\n\n5 - O período de interdição de captura referido no número anterior é fixado com uma antecedência mínima de sete dias relativamente ao início do respectivo período de aplicação e publicitado no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+  },
+  "69749491": {
+   "fragment_id": "69740471",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitação de desembarque",
+   "in_force_from": "2011-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+   ],
+   "markdown": "###### Artigo 3.º — Limitação de desembarque\n\n1 - O máximo de desembarque anual autorizado da espécie sardinha para a frota portuguesa bem assim como a respectiva repartição, nos termos dos números seguintes, são estabelecidos por despacho do membro do Governo responsável pela área das pescas, depois de ouvida a comissão de acompanhamento a que se refere o artigo 7.º, e publicitados no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), em www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas.\n\n2 - A limitação anual a que se refere o número anterior tem por base a avaliação da situação do recurso por parte do Instituto Nacional de Recursos Biológicos, I. P. - IPIMAR e do Conselho Internacional para a Exploração do Mar (CIEM), bem assim como os objectivos de gestão que vierem a ser estabelecidos para o recurso, e poderá ser revisto no 2.º semestre de cada ano, em função dos dados relativos ao recrutamento do ano precedente.\n\n3 - O máximo de desembarque anual fixado para a frota portuguesa é repartido pelos seguintes grupos de embarcações que capturam sardinha com arte de cerco:\n\na) 97 % para o grupo constituído pelas embarcações cujos armadores ou proprietários sejam membros das organizações de produtores (OP) reconhecidas para a espécie sardinha;\n\nb) 3 % para o grupo constituído pelas demais embarcações.\n\n4 - Para as embarcações cujos armadores ou proprietários não sejam membros de uma OP, são fixados os seguintes limites máximos de desembarques de sardinha por dia:\n\na) 3 t para embarcações com comprimento de fora a fora superior a 12 m;\n\nb) 1,5 t para embarcações com comprimento de fora a fora inferior ou igual a 12 m.\n\n5 - Mediante proposta de uma organização de produtores, ouvida a comissão de acompanhamento, podem ser estabelecidos, por despacho do membro do Governo responsável pela área das pescas, publicitado no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), www.dgpa.min-agricultura.pt, limites diários de desembarques para todas as embarcações que desembarquem num determinado porto.\n\n6 - As competências referidas nos n.os 1 e 5 podem ser delegadas, nos termos gerais, no director-geral das Pescas e Aquicultura.\n\n7 - Para o ano de 2011, o máximo de desembarque é fixado em 55 000 t.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+  },
+  "69749492": {
+   "fragment_id": "69740472",
+   "type": 11,
+   "heading": "Artigo 4.º — Proibição de pesca",
+   "in_force_from": "2011-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+   ],
+   "markdown": "###### Artigo 4.º — Proibição de pesca\n\n1 - Por despacho do director-geral das Pescas e Aquicultura, a publicitar através do sítio da DGPA, em www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas, é determinada a proibição de captura, manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda de sardinha capturada com arte de cerco sempre que ocorra uma das seguintes situações:\n\na) Relativamente às embarcações cujos armadores ou proprietários são membros de uma OP, quando tenha sido atingido o máximo anual de desembarques fixado para tal conjunto de embarcações;\n\nb) Relativamente às embarcações cujos armadores ou proprietários não são membros de uma OP, quando tenha sido atingido o máximo anual de desembarques fixado para tal conjunto de embarcações;\n\nc) Relativamente a todas as embarcações que fazem pesca de sardinha com arte de cerco, quando tenha sido atingido o máximo de desembarques autorizado para o ano em causa.\n\n2 - O despacho referido no número anterior é precedido de parecer da comissão de acompanhamento que pondere a situação da pescaria no que diz respeito à sustentabilidade da exploração face a eventuais novos dados científicos bem como as perspectivas de abastecimento para a normal laboração da indústria transformadora.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+  },
+  "69749484": {
+   "fragment_id": "69749578",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 20 de Abril de 2010."
+  },
+  "69749534": {
+   "fragment_id": "69740471",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitação de desembarque",
+   "in_force_from": "2015-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+   ],
+   "markdown": "###### Artigo 3.º — Limitação de desembarque\n\n1 - O máximo de desembarque anual autorizado da espécie sardinha para a frota portuguesa bem assim como a respectiva repartição, nos termos dos números seguintes, são estabelecidos por despacho do membro do Governo responsável pela área das pescas, depois de ouvida a comissão de acompanhamento a que se refere o artigo 7.º, e publicitados no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), em www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas.\n\n2 - A limitação anual a que se refere o número anterior tem por base a avaliação da situação do recurso por parte do Instituto Nacional de Recursos Biológicos, I. P. - IPIMAR e do Conselho Internacional para a Exploração do Mar (CIEM), bem assim como os objectivos de gestão que vierem a ser estabelecidos para o recurso, e poderá ser revisto no 2.º semestre de cada ano, em função dos dados relativos ao recrutamento do ano precedente.\n\n3 - O máximo de desembarque anual fixado para a frota portuguesa é repartido pelos grupos de embarcações que capturam sardinha com arte de cerco, nos seguintes termos:\n\na) 97 % para o grupo constituído pelas embarcações cujos armadores ou proprietários sejam membros das organizações de produtores (OP) reconhecidas para a espécie sardinha;\n\nb) 1,5 % para o grupo constituído pelas embarcações cujos armadores ou proprietários não sejam membros das OP reconhecidas para a espécie sardinha.\n\nc) 1,5 % para constituição de uma reserva nacional.\n\n4 - Para as embarcações cujos armadores ou proprietários não sejam membros de uma OP, são fixados os seguintes limites máximos de desembarques de sardinha por dia:\n\na) 3 t para embarcações com comprimento de fora a fora superior a 12 m;\n\nb) 1,5 t para embarcações com comprimento de fora a fora inferior ou igual a 12 m.\n\n5 - Mediante proposta de uma organização de produtores, ouvida a comissão de acompanhamento, podem ser estabelecidos, por despacho do membro do Governo responsável pela área das pescas, publicitado no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), www.dgpa.min-agricultura.pt, limites diários de desembarques para todas as embarcações que desembarquem num determinado porto.\n\n6 - As competências referidas nos n.os 1 e 5 podem ser delegadas, nos termos gerais, no director-geral das Pescas e Aquicultura.\n\n7 - [revogado]..\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+  },
+  "69749526": {
+   "fragment_id": "69752853",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Reserva Nacional",
+   "in_force_from": "2015-06-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Reserva Nacional\n\n1 - A percentagem do máximo de desembarque anual referida na alínea c) do n.º 3 do artigo anterior constitui uma reserva nacional de sardinha, atribuível anualmente a embarcações que tenham sido objeto ou participado em projetos de especial relevância para o sector do cerco, no mesmo ano ou no anterior, especialmente quando tenham sido financiados em exclusivo por capitais próprios.\n\n2 - Os projetos referidos no número anterior podem tomar a forma de, entre outros, projetos piloto destinados a melhorar a seletividade da arte, projetos de colaboração com o Instituto Português do Mar e da Atmosfera, I. P. na recolha de dados sobre as espécies capturadas com arte de cerco, projetos que reduzam a idade média da frota, projetos destinados a concentrar a oferta ou valorizar as espécies capturadas com arte de cerco, e outros projetos que visem o desenvolvimento tecnológico e a inovação no sector do cerco.\n\n3 - A reserva nacional é atribuída, no total ou em parcelas, por despacho do diretor-geral dos Recurso Naturais, Segurança e Serviços Marítimos.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01"
+  },
+  "69749527": {
+   "fragment_id": "69740472",
+   "type": 11,
+   "heading": "Artigo 4.º — Proibição de pesca",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+   ],
+   "markdown": "###### Artigo 4.º — Proibição de pesca\n\n1 - Por despacho do director-geral das Pescas e Aquicultura, a publicitar através do sítio da DGPA, em www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas, é determinada a proibição de captura, manutenção a bordo, transbordo, desembarque, transporte, armazenagem, exposição ou venda de sardinha capturada com arte de cerco sempre que ocorra uma das seguintes situações:\n\na) Relativamente às embarcações cujos armadores ou proprietários são membros de uma OP, quando tenha sido atingido o máximo anual de desembarques fixado para tal conjunto de embarcações;\n\nb) Relativamente às embarcações cujos armadores ou proprietários não são membros de uma OP, quando tenha sido atingido o máximo anual de desembarques fixado para tal conjunto de embarcações;\n\nc) Relativamente a todas as embarcações que fazem pesca de sardinha com arte de cerco, quando tenha sido atingido o máximo de desembarques autorizado para o ano em causa.\n\n2 - O despacho referido no número anterior é precedido de parecer da comissão de acompanhamento que pondere a situação da pescaria no que diz respeito à sustentabilidade da exploração face a eventuais novos dados científicos bem como as perspectivas de abastecimento para a normal laboração da indústria transformadora.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+  },
+  "69749535": {
+   "fragment_id": "69740473",
+   "type": 11,
+   "heading": "Artigo 5.º — Limitação de actividade",
+   "in_force_from": "2015-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Limitação de actividade\n\n1 - O número máximo de dias de actividade para as embarcações que efectuam pesca de sardinha com arte de cerco é fixado anualmente por despacho do membro do Governo responsável pela área das pescas, cuja competência pode ser delegada no director-geral das Pescas e Aquicultura, e publicitado no sítio da DGPA, sendo proibida a pesca com a referida arte, uma vez atingido aquele número.\n\n2 - Para efeitos do disposto no número anterior, entende-se por «dias de actividade» o número de dias de calendário com vendas em lota.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01"
+  },
+  "69749529": {
+   "fragment_id": "69740474",
+   "type": 11,
+   "heading": "Artigo 6.º — Estabelecimento de outras medidas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estabelecimento de outras medidas de gestão\n\n1 - Por despacho do membro do Governo responsável pela área das pescas, publicitado no sítio da DGPA, depois de ouvida a comissão de acompanhamento a que se refere o artigo 8.º, podem ser:\n\na) Fixadas percentagens máximas de desembarque de sardinha de categoria comercial T4, com o objectivo de proteger a sardinha juvenil;\n\nb) Períodos ou áreas de interdição à pesca;\n\nc) Outras medidas de gestão da pescaria directamente relacionadas com a regulação dos desembarques.\n\n2 - A competência referida no número anterior pode ser delegada, nos termos gerais, no director-geral das Pescas e Aquicultura."
+  },
+  "69749530": {
+   "fragment_id": "69749575",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão de acompanhamento\n\n1 - É criada uma comissão de acompanhamento coordenada pela Direcção-Geral das Pescas e Aquicultura, integrando até dois elementos de cada uma das seguintes entidades, a designar pelas mesmas, no prazo de 10 dias após a entrada em vigor da presente portaria:\n\na) Direcção-Geral das Pescas e Aquicultura;\n\nb) Instituto Nacional de Recursos Biológicos, I. P. - IPIMAR;\n\nc) Docapesca, Portos e Lotas, S. A.;\n\nd) ANOPCERCO, Associação Nacional das Organizações de Produtores da Pesca de Cerco; e\n\ne) Associação Nacional de Industriais de Conservas de Pescado (ANICP).\n\n2 - A comissão de acompanhamento tem por objectivo:\n\na) Contribuir para o desenvolvimento e implementação de um plano de gestão de médio e longo prazos para a pescaria do cerco, incluindo a recomendação de proposta para definição dos objectivos económicos, ecológicos e sociais de gestão da pescaria e regras de exploração do recurso;\n\nb) Avaliar, anualmente, a adequação das medidas e propor medidas de gestão e acompanhamento da pescaria.\n\n3 - A comissão reúne pelo menos uma vez por semestre, ou sempre que considerado adequado, por convocatória da Direcção-Geral das Pescas e Aquicultura, podendo ser convidadas outras entidades, em função das matérias a tratar."
+  },
+  "69749531": {
+   "fragment_id": "69749576",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 543-B/2001, de 30 de Maio, na redacção dada pela Portaria n.º 1423-A/2003, de 31 de Dezembro, excepto o seu artigo 9.º, que se mantém em vigor."
+  },
+  "69749532": {
+   "fragment_id": "69749577",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "69749533": {
+   "fragment_id": "69749578",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 20 de Abril de 2010."
+  },
+  "73723443": {
+   "fragment_id": "69740471",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitação de desembarque",
+   "in_force_from": "2016-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+   ],
+   "markdown": "###### Artigo 3.º — Limitação de desembarque\n\n1 - O máximo de desembarque anual autorizado da espécie sardinha para a frota portuguesa bem assim como a respectiva repartição, nos termos dos números seguintes, são estabelecidos por despacho do membro do Governo responsável pela área das pescas, depois de ouvida a comissão de acompanhamento a que se refere o artigo 7.º, e publicitados no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), em www.dgpa.min-agricultura.pt, e através de comunicado a ser divulgado pela entidade que explora as lotas.\n\n2 - A limitação anual a que se refere o número anterior tem por base a avaliação da situação do recurso por parte do Instituto Nacional de Recursos Biológicos, I. P. - IPIMAR e do Conselho Internacional para a Exploração do Mar (CIEM), bem assim como os objectivos de gestão que vierem a ser estabelecidos para o recurso, e poderá ser revisto no 2.º semestre de cada ano, em função dos dados relativos ao recrutamento do ano precedente.\n\n3 - O máximo de desembarque anual fixado para a frota portuguesa é repartido pelos grupos de embarcações que capturam sardinha com arte de cerco, nos seguintes termos:\n\na) 98,5 %, para o grupo constituído pelas embarcações cujos armadores ou proprietários sejam membros das organizações de produtores (OP) reconhecidas para a espécie sardinha;\n\nb) 1,5 %, para o grupo constituído pelas embarcações cujos armadores ou proprietários não sejam membros das OP reconhecidas para a espécie sardinha.\n\nc) (Revogada.)\n\n4 - Para as embarcações cujos armadores ou proprietários não sejam membros de uma OP, são fixados os seguintes limites máximos de desembarques de sardinha por dia:\n\na) 3 t para embarcações com comprimento de fora a fora superior a 12 m;\n\nb) 1,5 t para embarcações com comprimento de fora a fora inferior ou igual a 12 m.\n\n5 - Mediante proposta de uma organização de produtores, ouvida a comissão de acompanhamento, podem ser estabelecidos, por despacho do membro do Governo responsável pela área das pescas, publicitado no sítio da Direcção-Geral das Pescas e Aquicultura (DGPA), www.dgpa.min-agricultura.pt, limites diários de desembarques para todas as embarcações que desembarquem num determinado porto.\n\n6 - As competências referidas nos n.os 1 e 5 podem ser delegadas, nos termos gerais, no director-geral das Pescas e Aquicultura.\n\n7 - [revogado]..\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2011 - Diário da República n.º 218/2011, Série I de 2011-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/294-2011-146267), em vigor a partir de 2011-11-15"
+  },
+  "73723447": {
+   "fragment_id": "69752853",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Reserva Nacional",
+   "in_force_from": "2016-03-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Reserva Nacional\n\n1 - A percentagem do máximo de desembarque anual referida na alínea c) do n.º 3 do artigo anterior constitui uma reserva nacional de sardinha, atribuível anualmente a embarcações que tenham sido objeto ou participado em projetos de especial relevância para o sector do cerco, no mesmo ano ou no anterior, especialmente quando tenham sido financiados em exclusivo por capitais próprios.\n\n2 - Os projetos referidos no número anterior podem tomar a forma de, entre outros, projetos piloto destinados a melhorar a seletividade da arte, projetos de colaboração com o Instituto Português do Mar e da Atmosfera, I. P. na recolha de dados sobre as espécies capturadas com arte de cerco, projetos que reduzam a idade média da frota, projetos destinados a concentrar a oferta ou valorizar as espécies capturadas com arte de cerco, e outros projetos que visem o desenvolvimento tecnológico e a inovação no sector do cerco.\n\n3 - A reserva nacional é atribuída, no total ou em parcelas, por despacho do diretor-geral dos Recurso Naturais, Segurança e Serviços Marítimos.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01"
+  },
+  "73723444": {
+   "fragment_id": "69740473",
+   "type": 11,
+   "heading": "Artigo 5.º — Limitação de actividade",
+   "in_force_from": "2016-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Limitação de actividade\n\n1 - O número máximo de dias de actividade para as embarcações que efectuam pesca de sardinha com arte de cerco é fixado anualmente por despacho do membro do Governo responsável pela área das pescas, cuja competência pode ser delegada no director-geral das Pescas e Aquicultura, e publicitado no sítio da DGPA, sendo proibida a pesca com a referida arte, uma vez atingido aquele número.\n\n2 - Para efeitos do disposto no número anterior, entende-se por «dias de actividade» o número de dias de calendário com vendas em lota.\n\n3 - Na ausência do despacho a que se refere o n.º 1, o número máximo de dias de atividade por embarcação é fixado em 180.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 173-A/2015 - Diário da República n.º 110/2015, 2º Suplemento, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/173-a-2015-67444555), em vigor a partir de 2015-06-09, produz efeitos a partir de 2015-06-01"
+  },
+  "73723445": {
+   "fragment_id": "69740474",
+   "type": 11,
+   "heading": "Artigo 6.º — Estabelecimento de outras medidas de gestão",
+   "in_force_from": "2016-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02"
+   ],
+   "markdown": "###### Artigo 6.º — Estabelecimento de outras medidas de gestão\n\n1 - Por despacho do membro do Governo responsável pela área do mar, depois de ouvida a comissão de acompanhamento a que se refere o artigo 7.º, podem ser fixadas:\n\na) Percentagens máximas de desembarque de sardinha de categoria comercial T4, com o objetivo de proteger a sardinha juvenil;\n\nb) Períodos ou áreas de interdição à pesca;\n\nc) Outras medidas de gestão da pescaria diretamente relacionadas com a regulação dos desembarques, designadamente quanto aos limites a que se refere o n.º 4 do artigo 3.º;\n\nd) A interdição da pesca dirigida e o estabelecimento de um limite para as capturas acessórias de sardinha, em determinadas áreas ou períodos.\n\n2 - A competência referida no número anterior pode ser delegada, nos termos gerais, no director-geral das Pescas e Aquicultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02"
+  },
+  "73723446": {
+   "fragment_id": "69749575",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão de acompanhamento",
+   "in_force_from": "2016-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02"
+   ],
+   "markdown": "###### Artigo 7.º — Comissão de acompanhamento\n\n1 - É criada uma comissão de acompanhamento coordenada pela Direcção-Geral das Pescas e Aquicultura, integrando até dois elementos de cada uma das seguintes entidades, a designar pelas mesmas, no prazo de 10 dias após a entrada em vigor da presente portaria:\n\na) Direcção-Geral das Pescas e Aquicultura;\n\nb) Instituto Nacional de Recursos Biológicos, I. P. - IPIMAR;\n\nc) Docapesca, Portos e Lotas, S. A.;\n\nd) ANOPCERCO, Associação Nacional das Organizações de Produtores da Pesca de Cerco; e\n\ne) Associação Nacional de Industriais de Conservas de Pescado (ANICP).\n\nf) ACOPE - Associação dos Comerciantes de Pescado.\n\n2 - Integram ainda a comissão de acompanhamento um elemento, a designar nos termos do número anterior:\n\na) Por cada OP reconhecida para a espécie sardinha, não associada na entidade a que se refere a alínea d) do número anterior;\n\nb) Pelo conjunto das associações que integram associados da pesca do cerco;\n\nc) Pela Federação dos Sindicatos do Sector da Pesca/CGTP e pela estrutura representativa filiada na UGT;\n\nd) Pela PONG-Pesca, Plataforma de Organizações Não Governamentais Portuguesas sobre a Pesca, em representação das organizações não-governamentais portuguesas na área do ambiente e das pescas.\n\n3 - A comissão de acompanhamento tem por objectivo:\n\na) Contribuir para o desenvolvimento e implementação de um plano de gestão de médio e longo prazos para a pescaria do cerco, incluindo a recomendação de proposta para definição dos objectivos económicos, ecológicos e sociais de gestão da pescaria e regras de exploração do recurso;\n\nb) Avaliar, anualmente, a adequação das medidas e propor medidas de gestão e acompanhamento da pescaria.\n\n4 - A comissão reúne pelo menos uma vez por semestre, ou sempre que considerado adequado, por convocatória da Direcção-Geral das Pescas e Aquicultura, podendo ser convidadas outras entidades, em função das matérias a tratar.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34-A/2016 - Diário da República n.º 41/2016, 1º Suplemento, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2016-73752569), em vigor a partir de 2016-03-02"
+  }
+ }
+}

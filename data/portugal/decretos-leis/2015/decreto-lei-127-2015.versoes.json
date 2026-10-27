@@ -1,0 +1,485 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:69736208:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-223267525",
+ "dre_path": "/dr/detalhe/decreto-lei/127-2015-69736208",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "223281540",
+    "223281541",
+    "223281542",
+    "223281543",
+    "223281544",
+    "223281545",
+    "223281546",
+    "223281547",
+    "223281548",
+    "223281549",
+    "223281550",
+    "223281551",
+    "223281552",
+    "223281553",
+    "223281554",
+    "223281555",
+    "223281556",
+    "223281557",
+    "223281558",
+    "223281559",
+    "223281560",
+    "223281561",
+    "223281562",
+    "223281563",
+    "223281564",
+    "223281565",
+    "223281566",
+    "223281567",
+    "223281568",
+    "223281569",
+    "223281570",
+    "223281571",
+    "223281572",
+    "223281573",
+    "223281574",
+    "223281575",
+    "223281576",
+    "223281577",
+    "223281578",
+    "223281579",
+    "223281580",
+    "223281581",
+    "223281582"
+   ]
+  },
+  {
+   "date": "2023-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223154119:por",
+     "title": "Decreto-Lei n.º 99/2023",
+     "published": "2023-10-23",
+     "dre_path": "/dr/detalhe/decreto-lei/99-2023-223154119"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "223281540",
+    "223281541",
+    "223281542",
+    "223281543",
+    "223281544",
+    "223281545",
+    "223281546",
+    "223281547",
+    "223281548",
+    "223281549",
+    "223281550",
+    "223281551",
+    "223281552",
+    "223281553",
+    "223281554",
+    "223281555",
+    "223281556",
+    "223281557",
+    "223281558",
+    "223281559",
+    "223281560",
+    "223281561",
+    "223281584",
+    "223281563",
+    "223281564",
+    "223281565",
+    "223281566",
+    "223281567",
+    "223281568",
+    "223281569",
+    "223281570",
+    "223281571",
+    "223281572",
+    "223281573",
+    "223281574",
+    "223281575",
+    "223281576",
+    "223281577",
+    "223281578",
+    "223281579",
+    "223281580",
+    "223281581",
+    "223281582",
+    "223281583"
+   ]
+  }
+ ],
+ "fragments": {
+  "223281540": {
+   "fragment_id": "223267526",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 127/2015\n\nde 7 de julho\n\nA atribuição de novas competências e condições aos Centros de Formação de Associação de Escolas (CFAE) confere-lhes maior capacidade de resposta às prioridades formativas das escolas e dos profissionais de ensino, reforçando a formação centrada no aperfeiçoamento da capacidade docente, nomeadamente nos domínios científico, curricular e pedagógico e a focalização na escola como local privilegiado de formação.\n\nEm conformidade com o estabelecido no regime jurídico da formação contínua de docentes, aprovado pelo Decreto-Lei n.º 22/2014, de 11 de fevereiro, importa redefinir o papel dos CFAE e introduzir desenvolvimentos e mudanças significativas na sua organização e funcionamento, visando melhorar a sua capacidade em proporcionar um serviço de formação contínua orientado para o desenvolvimento profissional, a atualização científica e pedagógica ao longo da vida, a melhoria do ensino e uma maior eficácia nos processos de liderança, gestão e organização das escolas.\n\nAtravés do presente decreto-lei, o Governo procede, por isso, à definição das regras a que obedece a constituição e o funcionamento dos CFAE, regulando, pela primeira vez em diploma próprio, o seu estatuto, as suas competências, a sua constituição e o seu funcionamento.\n\nCom efeito, o presente decreto-lei define os princípios e objetivos que enquadram a atividade dos CFAE, revitalizando e clarificando a natureza da sua ação no âmbito do sistema de formação contínua.\n\nPor outro lado, o presente decreto-lei regula a constituição, as competências e o funcionamento dos órgãos de direção e gestão dos CFAE - o diretor e a comissão pedagógica -, criando duas secções com funções diferenciadas no interior da comissão pedagógica de modo a assegurar maior adequação, eficácia e qualidade no seu funcionamento: o conselho de diretores e a secção de formação e monitorização. Pretende-se, deste modo, tornar mais efetivo e interveniente o papel da comissão pedagógica no funcionamento dos CFAE, enquanto estrutura de apoio à direção, tendo em vista uma maior adequação do trabalho às necessidades e prioridades de formação contínua das escolas e dos seus profissionais, através de uma separação entre a direção estratégica e o trabalho de coordenação, supervisão e monitorização das dinâmicas internas dos agrupamentos de escolas ou escolas não agrupadas.\n\nAdicionalmente, o presente decreto-lei procede ao reajustamento e clarificação do processo de seleção do diretor dos CFAE, conferindo-lhe maior legitimidade através do reforço dos requisitos para o exercício da função e da explicitação dos critérios de avaliação das candidaturas ao exercício do cargo.\n\nO presente decreto-lei define e regula ainda os dispositivos de direção e gestão dos CFAE, designadamente, o regulamento interno, o plano de formação, a bolsa interna de formadores, a formação reconhecida e certificada e o apoio técnico e pedagógico.\n\nNo quadro da autonomia pedagógica e administrativa conferida aos CFAE, o plano de formação assume um caráter anual ou preferencialmente plurianual, estrutura-se em torno de prioridades de formação nas escolas e nas suas necessidades e tendo na sua conceção, supervisão e acompanhamento a secção de formação e monitorização constituída por um docente de cada escola associada.\n\nA bolsa de formadores internos constitui outra das inovações estruturantes das dinâmicas a desenvolver no sentido do aproveitamento e mobilização dos recursos humanos existentes nas escolas. Deste modo, pretende-se garantir maior qualidade, eficácia e eficiência à formação proporcionada e aos seus impactes na melhoria do ensino, através de um trabalho continuado com recurso a um conjunto de formadores prioritariamente em exercício de funções nas escolas associadas.\n\nReconhecida que foi pelo Decreto-Lei n.º 22/2014, de 11 de fevereiro, a oferta formativa de curta duração (conferências, seminários e outas atividades formativas de natureza científica, pedagógica ou didática), compete ao conselho de diretores da comissão pedagógica assegurar a sua qualidade e adequação e proceder à sua certificação.\n\nPor último, o presente decreto-lei define as modalidades de representação e coordenação da ação dos CFAE através da identificação das suas redes de organização regional e das respetivas competências.\n\nAtribui-se, deste modo, uma centralidade particular aos CFAE no quadro das entidades formadoras prestadoras do serviço de formação contínua dos profissionais de ensino.\n\nFoi tomada em consideração a recomendação n.º 4/2013, de 17 de maio, do Conselho Nacional de Educação sobre a Formação Contínua de Educadores de Infância e Professores dos Ensinos Básico e Secundário.\n\nForam ouvidas as organizações sindicais do pessoal docente, o Conselho das Escolas e os Centros de Formação de Associação de Escolas.\n\nAssim:\n\nAo abrigo do disposto no artigo 11.º do Decreto-Lei n.º 22/2014, de 11 de fevereiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "223281541": {
+   "fragment_id": "223267527",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "223281542": {
+   "fragment_id": "223267528",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei aprova as regras a que obedece a constituição e o funcionamento dos Centros de Formação de Associação de Escolas, doravante designados por CFAE."
+  },
+  "223281543": {
+   "fragment_id": "223267529",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se aos CFAE enquanto entidades formadoras e gestoras da formação contínua do pessoal docente prevista no artigo 38.º da Lei de Bases do Sistema Educativo (LBSE), aprovada pela Lei n.º 46/86, de 14 de outubro, alterada pelas Leis n.os 115/97, de 19 de setembro, 49/2005, de 30 de agosto, e 85/2009, de 27 de agosto, e no artigo 15.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril.\n\n2 - O presente decreto-lei aplica-se, ainda, ao pessoal não docente nos termos previstos na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pela Lei n.º 82-B/2014, de 31 de dezembro."
+  },
+  "223281544": {
+   "fragment_id": "223267530",
+   "type": 11,
+   "heading": "Artigo 3.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definição\n\nPara efeitos do presente decreto-lei, consideram-se «escolas» os agrupamentos de escolas e escolas não agrupadas públicas, particulares e cooperativas da respetiva área geográfica."
+  },
+  "223281545": {
+   "fragment_id": "223267531",
+   "type": 1,
+   "heading": "Capítulo II — Constituição dos Centros de Formação de Associação de Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Constituição dos Centros de Formação de Associação de Escolas"
+  },
+  "223281546": {
+   "fragment_id": "223267532",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza\n\nOs CFAE são entidades formadoras que integram escolas."
+  },
+  "223281547": {
+   "fragment_id": "223267533",
+   "type": 11,
+   "heading": "Artigo 5.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Constituição\n\n1 - O processo de constituição de um CFAE, a alteração da sua constituição ou a alteração da rede de CFAE processa-se por iniciativa das escolas ou por iniciativa do serviço competente do Ministério da Educação e Ciência, nos termos do presente decreto-lei.\n\n2 - Os atos previstos no número anterior estão sujeitos a homologação do membro do Governo responsável pela área da educação.\n\n3 - A integração de uma escola do ensino particular e cooperativo num CFAE é solicitada pela escola e requer a definição prévia da contribuição desta em recursos humanos e ou financeiros, bem como o parecer positivo do conselho de diretores do CFAE."
+  },
+  "223281548": {
+   "fragment_id": "223267534",
+   "type": 11,
+   "heading": "Artigo 6.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Princípios orientadores\n\nOs CFAE regem-se pelos seguintes princípios orientadores:\n\na) Melhoria do ensino em geral e da lecionação em particular, promovendo condições de concretização dos projetos educativos de cada escola e aprofundando a sua autonomia;\n\nb) Reconhecimento da relevância da formação contínua no desenvolvimento profissional dos docentes e não docentes e na melhoria do sistema educativo;\n\nc) Valorização profissional do corpo docente, fomentando a sua atualização e aperfeiçoamento nos domínios das áreas de conhecimento que constituem matérias curriculares;\n\nd) Melhoria da eficácia dos recursos humanos e materiais das escolas associadas;\n\ne) Planificação plurianual baseada em prioridades pedagógicas e organizacionais orientadas para a melhoria do ensino;\n\nf) Construção e aprofundamento de redes qualificantes de formação, como forma de potenciar os recursos humanos;\n\ng) Diversidade nas modalidades e metodologias de formação, no reconhecimento de modalidades de curta duração e do uso de metodologias de formação a distância com recurso às tecnologias da informação e da comunicação;\n\nh) Melhoria da qualificação das estruturas de direção e gestão;\n\ni) Desenvolvimento de centros de recursos educativos de apoio à melhoria do ensino e das escolas;\n\nj) Adoção de uma cultura de avaliação e melhoria do impacte da formação."
+  },
+  "223281549": {
+   "fragment_id": "223267535",
+   "type": 11,
+   "heading": "Artigo 7.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objetivos\n\nConstituem objetivos dos CFAE:\n\na) Garantir a execução de planos de formação visando o melhor desempenho das escolas enquanto organizações empenhadas na procura da excelência, designadamente através da valorização da diversidade dos seus recursos humanos;\n\nb) Coligir a identificação das prioridades de formação de curto e médio prazo do pessoal docente e não docente indicadas pelas escolas associadas;\n\nc) Promover o desenvolvimento da formação contínua do pessoal docente e não docente das escolas associadas, através da elaboração e implementação de planos de formação adequados às prioridades definidas;\n\nd) Assegurar o apoio às escolas associadas na implementação dos curricula e na concretização de projetos específicos;\n\ne) Construir redes de parceria com instituições de ensino superior, tendo em vista a adequação e a qualidade da oferta formativa;\n\nf) Privilegiar as relações com as comunidades locais e regionais;\n\ng) Fomentar a divulgação e disseminação das boas práticas, da partilha de experiências pedagógicas e de recursos educativos adequados às necessidades organizacionais, científicas e pedagógicas das escolas e dos profissionais de ensino;\n\nh) Garantir a qualidade da formação, através de mecanismos de monitorização e de avaliação da formação e do seu impacte e reformular os planos de formação em conformidade com os resultados obtidos;\n\ni) Colaborar com a administração educativa em programas relevantes para o sistema educativo."
+  },
+  "223281550": {
+   "fragment_id": "223267536",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências\n\nCompete aos CFAE:\n\na) Coordenar a identificação das necessidades de formação em cooperação com os órgãos próprios das escolas associadas e definir as respetivas prioridades a considerar na elaboração do plano de formação do CFAE;\n\nb) Elaborar e implementar planos anuais e plurianuais de formação, tendo em consideração as prioridades estabelecidas;\n\nc) Constituir e gerir uma bolsa de formadores internos, certificados como formadores pelas entidades competentes, entre os profissionais das escolas associadas;\n\nd) Certificar ações de formação de curta duração previstas no regime jurídico da formação contínua, aprovado pelo Decreto-Lei n.º 22/2014, de 11 de fevereiro, para os efeitos previstos no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril;\n\ne) Promover e divulgar iniciativas de interesse formativo para as escolas, docentes, não docentes e comunidade educativa, designadamente a partir de dispositivos de formação à distância e de informação, favorecendo o estabelecimento de redes através da utilização de plataformas eletrónicas;\n\nf) Criar, gerir e divulgar recursos educativos de apoio às escolas e às práticas profissionais;\n\ng) Apoiar e acompanhar projetos pedagógicos nas escolas associadas;\n\nh) Contratualizar com as escolas associadas os recursos necessários à concretização dos objetivos definidos;\n\ni) Estabelecer protocolos com as instituições de ensino superior no âmbito da identificação de necessidades de formação, da concretização dos planos de ação, da inovação e da avaliação da formação e dos seus impactos;\n\nj) Promover o estabelecimento de redes de colaboração com outros CFAE e outras entidades formadoras, com vista à melhoria da qualidade e da eficácia da oferta formativa e da gestão dos recursos humanos e materiais;\n\nk) Participar em programas de formação de âmbito nacional;\n\nl) Colaborar com os serviços do Ministério da Educação e Ciência nos programas e atividades previstos na lei."
+  },
+  "223281551": {
+   "fragment_id": "223267537",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto\n\n1 - Sem prejuízo da autonomia pedagógica de que gozam, os CFAE atendem às orientações do Ministério da Educação e Ciência e à regulamentação do Conselho Científico-Pedagógico de Formação Contínua, doravante designado por CCPFC, nos domínios respeitantes à formação contínua de docentes, bem como às orientações das entidades que tutelam a formação contínua dos demais profissionais da administração pública.\n\n2 - Os CFAE contratualizam com as escolas associadas os recursos humanos e materiais necessários à concretização dos seus objetivos."
+  },
+  "223281552": {
+   "fragment_id": "223267538",
+   "type": 11,
+   "heading": "Artigo 10.º — Sede e designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sede e designação\n\n1 - Os CFAE têm sede numa das escolas associadas.\n\n2 - Os CFAE podem ter designação própria, à qual pode acrescer o nome de um patrono."
+  },
+  "223281553": {
+   "fragment_id": "223267539",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento dos Centros de Formação de Associação de Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento dos Centros de Formação de Associação de Escolas"
+  },
+  "223281554": {
+   "fragment_id": "223267540",
+   "type": 8,
+   "heading": "Secção I — Direção e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direção e gestão"
+  },
+  "223281555": {
+   "fragment_id": "223267541",
+   "type": 11,
+   "heading": "Artigo 11.º — Estruturas de direção e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estruturas de direção e gestão\n\nCada CFAE tem como órgãos de direção e gestão:\n\na) A comissão pedagógica;\n\nb) O diretor."
+  },
+  "223281556": {
+   "fragment_id": "223267542",
+   "type": 11,
+   "heading": "Artigo 12.º — Constituição e funcionamento da comissão pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Constituição e funcionamento da comissão pedagógica\n\n1 - A comissão pedagógica é o órgão científico-pedagógico de direção estratégica, coordenação, supervisão e acompanhamento do plano de formação e do plano de atividade do CFAE.\n\n2 - A comissão pedagógica é constituída pelos seguintes elementos:\n\na) O diretor do CFAE;\n\nb) O conselho de diretores;\n\nc) A secção de formação e monitorização.\n\n3 - Cabe ao diretor do CFAE a presidência da comissão pedagógica.\n\n4 - Nas ausências e impedimentos, o presidente é substituído pelo vice-presidente, eleito por maioria simples de entre os membros do conselho de diretores.\n\n5 - A comissão pedagógica pode integrar pontual ou permanentemente, em regime pro bono, elementos de reconhecido mérito na área da educação e da formação, nos termos definidos no regulamento interno do CFAE.\n\n6 - A comissão pedagógica pode reunir em plenário ou por secções, nos temos definidos no regulamento interno do CFAE."
+  },
+  "223281557": {
+   "fragment_id": "223267543",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho de diretores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho de diretores\n\n1 - O conselho de diretores é uma secção da comissão pedagógica, constituída pelos diretores das escolas associadas do CFAE e pelo diretor do CFAE que preside.\n\n2 - O conselho de diretores é convocado pelo seu presidente e reúne ordinariamente uma vez por trimestre e extraordinariamente, mediante convocatória do presidente ou a requerimento da maioria dos seus elementos."
+  },
+  "223281558": {
+   "fragment_id": "223267544",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do conselho de diretores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do conselho de diretores\n\nO conselho de diretores é responsável pela direção estratégica do CFAE, competindo-lhe:\n\na) Definir e divulgar o regulamento do processo de seleção do diretor do CFAE;\n\nb) Selecionar o diretor do CFAE a partir de um procedimento concursal ou proceder à sua recondução nos termos do n.º 4 do artigo 18.º;\n\nc) Aprovar o regulamento interno do CFAE sob proposta da secção de formação e monitorização;\n\nd) Aprovar o plano de formação do CFAE, ouvida a secção de formação e monitorização;\n\ne) Aprovar o plano anual de atividades do CFAE, ouvida a secção de formação e monitorização;\n\nf) Aprovar os princípios e critérios de constituição e funcionamento da bolsa de formadores internos, ouvida a secção de formação e monitorização;\n\ng) Aprovar a constituição da bolsa de formadores internos para cada ano escolar;\n\nh) Aprovar e reconheceras ações de formação de curta duração previstas no Decreto-Lei n.º 22/2014, de 11 de fevereiro;\n\ni) Aprovar os protocolos de colaboração entre o CFAE e outras entidades;\n\nj) Aprovar o projeto de orçamento do CFAE;\n\nk) Acompanhar e garantir a aplicação de critérios de rigor, justiça e coerência nos processos de avaliação decorrentes das atividades do CFAE;\n\nl) Aprovar o relatório anual de formação e atividades do CFAE;\n\nm) Monitorizar o impacte da formação realizada nas escolas associadas, nos docentes e não docentes, assim como propor as reformulações tidas por convenientes;\n\nn) Participar na avaliação do desempenho docente do diretor do CFAE nos termos da lei."
+  },
+  "223281559": {
+   "fragment_id": "223267545",
+   "type": 11,
+   "heading": "Artigo 15.º — Secção de formação e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Secção de formação e monitorização\n\n1 - A secção de formação e monitorização é uma secção da comissão pedagógica constituída pelo diretor do CFAE, que coordena, e pelo responsável do plano de formação de cada uma das escolas associadas.\n\n2 - A secção de formação e monitorização tem funções de coordenação, supervisão pedagógica e acompanhamento do plano de formação e de atividades do CFAE.\n\n3 - A atividade a realizar pelo responsável do plano de formação de cada uma das escolas associadas é integrada na componente não letiva de estabelecimento, podendo integrar ainda as horas de redução da componente letiva, previstas no artigo 79.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril.\n\n4 - As regras de funcionamento da secção de formação e monitorização são definidas no regulamento interno do CFAE."
+  },
+  "223281560": {
+   "fragment_id": "223267546",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências da secção de formação e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências da secção de formação e monitorização\n\nSão competências da secção de formação e monitorização:\n\na) Elaborar a proposta de regulamento interno do CFAE;\n\nb) Facilitar e promover a comunicação e a articulação entre as escolas associadas do CFAE;\n\nc) Participar na definição das linhas orientadoras e das prioridades para a elaboração dos planos de formação e de atividades do CFAE;\n\nd) Colaborar na identificação das necessidades de formação do pessoal docente e não docente das escolas associadas;\n\ne) Propor a organização de ações de formação de curta duração;\n\nf) Estabelecer a articulação entre os projetos de formação das escolas e o CFAE;\n\ng) Apresentar orientações para o recrutamento e seleção dos formadores da bolsa interna, bem como de outros formadores cuja colaboração com o CFAE se considere relevante;\n\nh) Acompanhar a execução dos planos de formação e de atividades do CFAE e de cada escola associada;\n\ni) Propor o recurso a serviços de consultadoria para apoio ao desenvolvimento das atividades do CFAE;\n\nj) Avaliar o impacte da formação na melhoria da aprendizagem nas escolas associadas;\n\nk) Elaborar o relatório anual de avaliação da formação e atividades do CFAE."
+  },
+  "223281561": {
+   "fragment_id": "223267547",
+   "type": 11,
+   "heading": "Artigo 17.º — Diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Diretor\n\nO diretor é o órgão de gestão unipessoal do CFAE, sendo substituído nas suas ausências e impedimentos pelo vice-presidente da comissão pedagógica."
+  },
+  "223281562": {
+   "fragment_id": "223267548",
+   "type": 11,
+   "heading": "Artigo 18.º — Mandato do diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Mandato do diretor\n\n1 - O diretor do CFAE exerce as suas funções em regime de exclusividade, estando dispensado da prestação de serviço letivo, sem prejuízo de o poder fazer, por sua iniciativa, na disciplina ou área disciplinar para a qual possua qualificação profissional.\n\n2 - O mandato do diretor do CFAE tem a duração de quatro anos.\n\n3 - Até 60 dias antes do termo do mandato do diretor, o conselho de diretores da comissão pedagógica delibera sobre a recondução do diretor ou a abertura de procedimento concursal, tendo em vista a seleção de um novo diretor.\n\n4 - A decisão de recondução do diretor, até um máximo de duas reconduções consecutivas, é tomada por maioria simples dos membros do conselho de diretores da comissão pedagógica.\n\n5 - O diretor do CFAE pode cumprir até três mandatos consecutivos.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119) As alterações introduzidas pelo Decreto-Lei n.º 99/2023, de 23 de outubro, aplicam-se aos mandatos em curso à data da sua entrada em vigor (2023-10-24)."
+  },
+  "223281563": {
+   "fragment_id": "223267549",
+   "type": 11,
+   "heading": "Artigo 19.º — Seleção do diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Seleção do diretor\n\n1 - O diretor do CFAE é selecionado por procedimento concursal.\n\n2 - O procedimento concursal é aberto por aviso publicado, em simultâneo, nos seguintes locais:\n\na) Em local apropriado nas instalações de todas as escolas associadas;\n\nb) Na página eletrónica do CFAE e na de todas as escolas associadas;\n\nc) Por aviso publicado na 2.ª série do Diário da República e divulgado em órgão de imprensa de expansão nacional, através de anúncio que contenha referência ao Diário da República em que o referido aviso se encontra publicado.\n\n3 - Podem ser opositores ao procedimento concursal os docentes integrados na carreira que reúnam, cumulativamente, os seguintes requisitos:\n\na) Se encontrem posicionados no 4.º escalão ou superior da carreira docente;\n\nb) Experiência de coordenação ou supervisão pedagógica num mínimo de quatro anos;\n\nc) Experiência na formação de docentes.\n\n4 - É fator preferencial ser detentor do grau de doutor, mestre ou deter formação especializada numa das seguintes áreas: gestão da formação, supervisão pedagógica, formação de formadores, administração escolar e gestão.\n\n5 - Para efeitos da análise e avaliação das candidaturas são considerados os seguintes critérios:\n\na) A adequação do projeto de ação para o mandato a cumprir - 30 %;\n\nb) A adequação do curriculum vitae do candidato no domínio da educação e da formação de professores - 40 %;\n\nc) A realização de uma entrevista de avaliação da adequação do perfil do candidato às funções a desempenhar - 30 %.\n\n6 - Compete ao conselho de diretores da comissão pedagógica do CFAE definir e divulgar o regulamento eleitoral, o qual contém obrigatoriamente os requisitos de admissão, os procedimentos e prazos de apresentação das candidaturas, os critérios de análise e avaliação das candidaturas.\n\n7 - O diretor do CFAE em exercício não participa na elaboração do regulamento eleitoral.\n\n8 - Na situação de procedimento concursal em que não existam candidaturas ou se verifique a sua nulidade, procede-se à abertura de novo procedimento concursal, no prazo máximo de 10 dias úteis, nos termos definidos no n.º 2.\n\n9 - O diretor do CFAE exerce as funções em regime de comissão de serviço."
+  },
+  "223281564": {
+   "fragment_id": "223267550",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências do diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências do diretor\n\nCompete ao diretor do CFAE:\n\na) Gerir a atividade pedagógica e organizativa do CFAE;\n\nb) Representar o CFAE nas tarefas e funções que o exigirem;\n\nc) Presidir à comissão pedagógica e às suas secções;\n\nd) Coordenar a identificação das prioridades de formação das escolas e dos profissionais de ensino;\n\ne) Conceber, coordenar e gerir o plano de formação e de atividades do CFAE;\n\nf) Coordenar a bolsa de formadores internos;\n\ng) Zelar pela aplicação de critérios de rigor e adequação da aplicação dos critérios de avaliação dos formandos pelos diferentes formadores internos e externos;\n\nh) Assegurar a articulação com outras entidades e parceiros, tendo em vista a melhoria do serviço de formação prestado e a satisfação eficaz das necessidades formativas;\n\ni) Organizar e acompanhar a realização das ações de formação previstas nos planos de formação e de atividade do CFAE;\n\nj) Promover iniciativas de formação de formadores, através do estabelecimento de redes com outros CFAE;\n\nk) Assegurar, no quadro da secção de formação e monitorização, a organização de processos sistemáticos de monitorização da qualidade da formação realizada e a avaliação periódica da atividade do CFAE em termos de processos, produto e impacto;\n\nl) Cumprir com outras obrigações legalmente estabelecidas;\n\nm) Elaborar o projeto de orçamento do CFAE;\n\nn) Elaborar o relatório anual de formação e de atividades do CFAE."
+  },
+  "223281565": {
+   "fragment_id": "223267551",
+   "type": 11,
+   "heading": "Artigo 21.º — Direitos do diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direitos do diretor\n\n1 - Independentemente do seu vínculo de origem, o diretor do CFAE goza dos direitos gerais reconhecidos aos docentes da escola em que exerce funções.\n\n2 - O diretor do CFAE conserva o direito ao lugar de origem, não podendo ser prejudicado na sua carreira profissional em virtude do exercício das suas funções.\n\n3 - O tempo de serviço prestado no desempenho do cargo de diretor do CFAE é equiparado a serviço letivo para todos os efeitos legais.\n\n4 - No exercício do cargo de diretor dos CFAE continua a ser pago o suplemento remuneratório previsto nos n.os 4 e 5 do artigo 1.º do Decreto Regulamentar n.º 5/2010, de 24 de dezembro."
+  },
+  "223281566": {
+   "fragment_id": "223267552",
+   "type": 8,
+   "heading": "Secção II — Dispositivos de direção e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dispositivos de direção e gestão"
+  },
+  "223281567": {
+   "fragment_id": "223267553",
+   "type": 11,
+   "heading": "Artigo 22.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regulamento interno\n\n1 - A elaboração do regulamento interno do CFAE compete à comissão pedagógica nos termos previstos na alínea a) do artigo 16.º e a sua aprovação ao conselho de diretores nos termos do disposto na alínea c) do artigo 14.º\n\n2 - Sem prejuízo de outras disposições legais aplicáveis, o regulamento interno do CFAE define:\n\na) O regime de funcionamento do CFAE e de cada um dos seus órgãos de administração e gestão;\n\nb) A estrutura e as componentes dos planos de formação e de atividades do CFAE;\n\nc) Os direitos e os deveres dos seus elementos, colaboradores e utentes;\n\nd) Os critérios de certificação das ações de curta duração;\n\ne) A estrutura dos recursos humanos e materiais."
+  },
+  "223281568": {
+   "fragment_id": "223267554",
+   "type": 11,
+   "heading": "Artigo 23.º — Plano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Plano de formação\n\n1 - O plano de formação é o instrumento de planificação das ações de formação a desenvolver pelo CFAE, podendo ter uma vigência anual ou plurianual até ao máximo de três anos.\n\n2 - O plano de formação assenta num levantamento de necessidades e prioridades de formação das escolas associadas e dos seus profissionais.\n\n3 - O plano de formação apresenta obrigatoriamente a explicitação calendarizada das prioridades de formação a realizar para o seu período de vigência, bem como a identificação clara dos destinatários da formação.\n\n4 - A aprovação do plano de formação é feita, até ao dia 30 de julho do ano escolar imediatamente anterior ao início da sua vigência, podendo ser integradas no plano de formação, fora daquele prazo, as ações de formação de curta duração consideradas pertinentes.\n\n5 - A título excecional e quando a situação o exija, o plano de formação pode ser alterado por decisão do conselho de diretores da comissão pedagógica, devidamente fundamentada e exarada em ata.\n\n6 - O plano de formação ou as ações de formação nele inscritas podem ser apoiados por programas de financiamento provenientes de fundos europeus nos termos da regulamentação em vigor.\n\n7 - Para os efeitos previstos no número anterior, a entidade beneficiária é o agrupamento de escolas ou escola não agrupada, sede do CFAE.\n\n8 - O CFAE pode estabelecer protocolos de colaboração de caráter pontual ou duradoiro com entidades públicas, particulares ou cooperativas, tendo em vista a viabilização de ofertas formativas em domínios de formação considerados prioritários."
+  },
+  "223281569": {
+   "fragment_id": "223267555",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação e divulgação do plano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comunicação e divulgação do plano de formação\n\n1 - A divulgação do plano de formação de cada CFAE deve efetuar-se no início do ano escolar e até ao dia 15 de setembro, de modo a garantir a sua divulgação junto dos docentes das respetivas escolas associadas.\n\n2 - A divulgação das ações de formação contínua deve apresentar as condições de duração, acreditação, frequência, avaliação dos formandos, local e calendário de realização e a identificação do formador.\n\n3 - A divulgação das ações de formação contínua a nível nacional é igualmente feita pela Direção-Geral da Administração Escolar, devendo as entidades formadoras disponibilizar a informação em tempo oportuno."
+  },
+  "223281570": {
+   "fragment_id": "223267556",
+   "type": 11,
+   "heading": "Artigo 25.º — Bolsa de formadores internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Bolsa de formadores internos\n\n1 - Em cada CFAE constitui-se uma bolsa de formadores internos pelos docentes certificados pelo CCPFC, pertencentes aos quadros das escolas associadas nos termos previstos no Decreto-Lei n.º 22/2014, de 11 de fevereiro, e por outros técnicos das escolas associadas, devidamente certificados como formadores no quadro da formação contínua.\n\n2 - Nos termos do n.º 2 do artigo 15.º do Decreto-Lei n.º 22/2014, de 11 de fevereiro, os docentes que beneficiam do estatuto de equiparação a bolseiro, previsto no artigo 110.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, integram, findo o período da atribuição da bolsa, a bolsa de formadores por um período mínimo de três anos escolares, competindo ao diretor do CFAE desenvolver com os docentes os procedimentos necessários para a sua acreditação junto do CCPFC.\n\n3 - Os procedimentos administrativos relativos à constituição, à atualização, ao funcionamento e à coordenação da bolsa de formadores internos são definidos no regulamento interno do CFAE.\n\n4 - Os formadores internos a mobilizar para efeitos da prestação de serviço de formação, são selecionados, em cada ano escolar, de acordo com os termos definidos no regulamento interno do CFAE, tendo por base:\n\na) O número de escolas associadas;\n\nb) O número total de docentes e não docentes abrangidos pelo CFAE e a respetiva distribuição por nível de ensino e grupo de recrutamento, assim como o número de não docentes;\n\nc) As necessidades de formação tidas como prioritárias;\n\nd) A avaliação do plano de atividades do CFAE.\n\n5 - A atividade dos formadores internos é integrada na componente não letiva de estabelecimento do horário dos docentes, de acordo com as prioridades expressas e calendarizadas no plano de formação a que se refere o artigo 23.º\n\n6 - Ao formador interno que oriente uma ação de formação é atribuído um número de horas de componente não letiva de estabelecimento destinado à preparação da formação que, de acordo com as diferentes modalidades de formação, e nos termos a definir no regulamento interno do CFAE, tenha como limite máximo o número de horas presenciais da ação de formação em causa.\n\n7 - O funcionamento da bolsa de formadores baseia-se na:\n\na) Realização de ações de formação constantes do plano de formação;\n\nb) Articulação entre os formadores, designadamente através de dispositivos a distância;\n\nc) Prestação de apoio presencial ou a distância aos formandos por solicitação das escolas associadas;\n\nd) Produção e divulgação de recursos educativos em plataforma eletrónica criada para o efeito no CFAE.\n\n8 - Não sendo possível integrar o serviço a realizar pelo formador interno na componente não letiva do seu horário, pode, excecionalmente, recorrer-se às soluções previstas nos n.os 4 e 5 do artigo 16.º do Decreto-Lei n.º 22/2014, de 11 de fevereiro."
+  },
+  "223281571": {
+   "fragment_id": "223267557",
+   "type": 11,
+   "heading": "Artigo 26.º — Formadores externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Formadores externos\n\n1 - Consideram-se formadores externos os formadores acreditados pelo CCPFC ou pelas entidades competentes no âmbito da educação ou da Administração Pública, não integrados nos quadros das escolas associadas do CFAE.\n\n2 - O CFAE pode recorrer ao serviço de formadores externos quando:\n\na) Não existam formadores com perfil considerado adequado às necessidades de formação na bolsa de formadores internos das escolas associadas;\n\nb) Os programas de formação são da iniciativa dos serviços centrais do Ministério da Educação e Ciência;\n\nc) As atividades de formação decorram de candidaturas aprovadas no âmbito de programas com financiamento provenientes de fundos europeus;\n\nd) As atividades de formação decorram dos protocolos a que se refere o n.º 8 do artigo 23.º"
+  },
+  "223281572": {
+   "fragment_id": "223267558",
+   "type": 11,
+   "heading": "Artigo 27.º — Formação certificada pela comissão pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Formação certificada pela comissão pedagógica\n\n1 - A certificação das ações de curta duração processa-se nos termos previstos no n.º 2 do artigo 19.º do Decreto-Lei n.º 22/2014, de 11 de fevereiro e, tem por base:\n\na) O disposto no regulamento interno do CFAE;\n\nb) A duração efetiva do respetivo programa da ação.\n\n2 - Para os efeitos previstos no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, a formação certificada pela comissão pedagógica é contabilizada até um máximo de um quinto das horas de formação obrigatórias no respetivo escalão da carreira, não podendo transitar para outro escalão."
+  },
+  "223281573": {
+   "fragment_id": "223267559",
+   "type": 11,
+   "heading": "Artigo 28.º — Apoio técnico e pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Apoio técnico e pedagógico\n\n1 - O funcionamento do CFAE é apoiado por um secretariado constituído por um assistente técnico proveniente do quadro de pessoal afeto à escola-sede do CFAE e por assessorias técnicas e pedagógicas estabelecidas no quadro dos recursos humanos existentes nas escolas associadas.\n\n2 - As assessorias técnicas e pedagógicas previstas no número anterior são asseguradas por docentes de carreira das escolas associadas designados pela comissão pedagógica, sob proposta do presidente, de acordo com os recursos humanos disponíveis, entre os docentes integrados em grupos de recrutamento com ausência de componente letiva, redução da componente letiva ao abrigo do artigo 79.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, ou com horário incompleto.\n\n3 - O apoio técnico e pedagógico a que se refere o número anterior é definido no regulamento interno."
+  },
+  "223281574": {
+   "fragment_id": "223267560",
+   "type": 11,
+   "heading": "Artigo 29.º — Consultor de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Consultor de formação\n\n1 - Por decisão da comissão pedagógica, o CFAE pode designar um consultor de formação cujas funções devem ser desempenhadas por docentes de reconhecido mérito, detentores do grau de mestre ou de doutor na área da educação e qualificados por deliberação do CCPFC.\n\n2 - Ao consultor de formação compete:\n\na) Contribuir para a elaboração dos planos de formação e de atividade do CFAE;\n\nb) Dar parecer sobre aspetos relacionados com o funcionamento científico-pedagógico do CFAE;\n\nc) Colaborar na monitorização e avaliação da atividade desenvolvida pelo CFAE;\n\nd) Exercer as demais funções de âmbito científico-pedagógico que lhe forem cometidas pelos órgãos de direção e gestão do CFAE.\n\n3 - As atribuições do consultor de formação e o modo de exercício das suas funções são definidas no regulamento interno do CFAE.\n\n4 - No quadro dos fundos disponíveis afetos ao CFAE, as funções do consultor de formação podem ser remuneradas, não podendo exceder anualmente seis vezes o valor do Indexante dos Apoios Sociais (IAS).\n\n5 - Os encargos financeiros resultantes dos serviços do consultor de formação, sempre que existam, devem constar do orçamento do CFAE."
+  },
+  "223281575": {
+   "fragment_id": "223267561",
+   "type": 11,
+   "heading": "Artigo 30.º — Orçamento do Centro de Formação de Associação de Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Orçamento do Centro de Formação de Associação de Escola\n\n1 - O orçamento do CFAE é integrado no orçamento da respetiva escola-sede, tendo por referência o definido no n.º 2 do artigo 9.º, sendo elaborado pelo diretor e aprovado pelo conselho de diretores, como previsto na alínea m) do artigo 20.º e alínea j) do artigo 14.º, respetivamente.\n\n2 - O CFAE pode beneficiar de receitas resultantes da cobrança de serviços prestados, doações e outras liberalidades que lhe sejam destinadas, as quais integram o orçamento da escola-sede como receitas consignadas.\n\n3 - A movimentação das receitas previstas no número anterior compete ao órgão de gestão da escola-sede, sob proposta do diretor do CFAE.\n\n4 - No caso de mudança da escola-sede do CFAE, as receitas consignadas a este transitam para o orçamento da nova escola-sede, mantendo-se a sua natureza de consignação.\n\n5 - Nos termos definidos no regulamento interno do CFAE, o conselho de diretores da comissão pedagógica é a entidade responsável pelo controlo orçamental da atividade do CFAE."
+  },
+  "223281576": {
+   "fragment_id": "223267562",
+   "type": 8,
+   "heading": "Secção III — Representação e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Representação e coordenação"
+  },
+  "223281577": {
+   "fragment_id": "223267563",
+   "type": 11,
+   "heading": "Artigo 31.º — Redes de Centros de Formação de Associação de Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Redes de Centros de Formação de Associação de Escola\n\n1 - Os CFAE organizam-se em cinco redes regionais.\n\n2 - Cada uma das redes regionais corresponde à delimitação geográfica das Direções de Serviços Regionais de Educação: Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve.\n\n3 - As redes regionais são representadas por um diretor de CFAE eleito por maioria simples em reunião geral dos diretores de CFAE que integram a respetiva rede, expressamente convocada para o efeito.\n\n4 - Compete ao representante regional:\n\na) Representar os CFAE da rede;\n\nb) Promover a cooperação entre todos os centros de formação que constituem a rede;\n\nc) Articular o trabalho com os representantes das diferentes redes regionais;\n\nd) Colaborar com os serviços centrais do Ministério da Educação e Ciência na resolução de problemas relacionados com a formação contínua dos profissionais de educação ou noutras matérias de interesse comum."
+  },
+  "223281578": {
+   "fragment_id": "223267564",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares, transitórias e finais"
+  },
+  "223281579": {
+   "fragment_id": "223267565",
+   "type": 11,
+   "heading": "Artigo 32.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regulamentação\n\nNo prazo máximo de 90 dias a contar da entrada em vigor do presente decreto-lei, são aprovados os novos regulamentos internos dos CFAE."
+  },
+  "223281580": {
+   "fragment_id": "223267566",
+   "type": 11,
+   "heading": "Artigo 33.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Disposição transitória\n\n1 - Até à aprovação dos novos regulamentos internos dos CFAE mantêm-se em vigor os regulamentos internos atualmente existentes.\n\n2 - Os planos de formação dos CFAE mantêm-se em vigor até final do ano escolar em curso."
+  },
+  "223281581": {
+   "fragment_id": "223267567",
+   "type": 11,
+   "heading": "Artigo 34.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Produção de efeitos\n\n1 - A entrada em vigor do presente decreto-lei não implica a cessação dos mandatos em curso dos diretores dos CFAE, os quais se mantêm em funções até ao final dos respetivos mandatos, sem prejuízo do disposto nos números seguintes.\n\n2 - Nos casos em que o diretor do CFAE se tenha mantido em funções em consequência da aplicação do Despacho n.º 7310/2014, de 4 de junho, publicado no Diário da República, 2.ª série, n.º 10, de 4 de junho de 2014, a comissão pedagógica dos CFAE deve deliberar a recondução do diretor ou a abertura de procedimento concursal, tendo em vista a seleção de um novo diretor.\n\n3 - Para efeitos do disposto no n.º 5 do artigo 18.º, considera-se como primeiro mandato do diretor do CFAE o mandato existente à data da entrada em vigor do presente decreto-lei."
+  },
+  "223281582": {
+   "fragment_id": "223267568",
+   "type": 11,
+   "heading": "Artigo 35.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Norma revogatória\n\nSão revogados:\n\na) O Despacho n.º 18038/2008, de 20 de junho, publicado no Diário da República, 2.ª série, n.º 128, de 4 de julho de 2008;\n\nb) O Despacho n.º 2609/2009, de 12 de janeiro, publicado no Diário da República, 2.ª série, n.º 13, de 20 de janeiro de 2009;\n\nc) O Despacho n.º 7310/2014, de 04 de junho, publicado no Diário da República, 2.ª série, n.º 10, de 4 de junho de 2014."
+  },
+  "223281584": {
+   "fragment_id": "223267548",
+   "type": 11,
+   "heading": "Artigo 18.º — Mandato do diretor",
+   "in_force_from": "2023-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24"
+   ],
+   "markdown": "###### Artigo 18.º — Mandato do diretor\n\n1 - O diretor do CFAE exerce as suas funções em regime de exclusividade, estando dispensado da prestação de serviço letivo, sem prejuízo de o poder fazer, por sua iniciativa, na disciplina ou área disciplinar para a qual possua qualificação profissional.\n\n2 - O mandato do diretor do CFAE tem a duração de quatro anos.\n\n3 - Até 60 dias antes do termo do mandato do diretor, o conselho de diretores da comissão pedagógica delibera sobre a recondução do diretor ou a abertura de procedimento concursal, tendo em vista a seleção de um novo diretor.\n\n4 - A decisão de recondução do diretor do CFAE, até um máximo de três reconduções consecutivas, é tomada por maioria simples dos membros do conselho de diretores da comissão pedagógica.\n\n5 - O diretor do CFAE pode cumprir até quatro mandatos consecutivos.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119) As alterações introduzidas pelo Decreto-Lei n.º 99/2023, de 23 de outubro, aplicam-se aos mandatos em curso à data da sua entrada em vigor (2023-10-24).\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24"
+  },
+  "223281583": {
+   "fragment_id": "223267569",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 26 de junho de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 1 de julho de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

@@ -1,0 +1,1331 @@
+---
+schema_version: '1.0'
+id: pt:dre:417402:por
+title: Decreto-Lei n.º 360/97
+short_title: null
+summary: Procede à definição do sistema de verificação de incapacidades (SVI), no âmbito da segurança social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 360/97
+official_date: null
+publication_date: '1997-12-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 290/1997, Série I-A de 1997-12-17
+  number: '290'
+  series: I
+  supplement: null
+  pages: 6670 - 6684
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/12/290a00/66706684.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-04-01'
+version_history:
+  file: decreto-lei-360-97.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1997-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-18'
+    amending: pt:dre:321720:por
+    amending_title: Decreto-Lei n.º 165/99
+    changes:
+    - Adita Artigo 10.º-A
+  - date: '2017-10-07'
+    amending: pt:dre:108269605:por
+    amending_title: Decreto-Lei n.º 126-A/2017
+    changes:
+    - Altera Artigo 1.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Altera Artigo 1.º
+  - date: '2024-04-01'
+    amending: pt:dre:836117870:por
+    amending_title: Decreto-Lei n.º 8/2024
+    changes:
+    - Adita Artigo 10.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 10.º-A
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/360/1997/p/cons/20240105/pt/html
+  oj: null
+  dre: '417402'
+  dre_path: /dr/detalhe/decreto-lei/360-1997-417402
+  internal: pt:dre:417402:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1997-417402
+  metadata_url: https://data.dre.pt/eli/dec-lei/360/1997/p/cons/20240105/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34491875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34491875
+  retrieved_at: '2026-10-22T11:45:31Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 54e9a101dcfa5b9d44cf5375d1df2c3464b9f0ae28d84265cedd0c72d128d9fe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:45:31Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-360-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Recurso
+- Acumulação de Funções
+- Centro Regional de Segurança Social
+- Multa
+- Ministro da Saúde
+- Sistema de Verificação de Incapacidades
+- Contra-ordenação
+- Contrato de Prestação de Serviços
+- Pensão por Incapacidade Permanente para o Trabalho
+- Ministro da Solidariedade e Segurança Social
+- Ilícito de MERA Ordenação Social
+- Incompatibilidades
+- Faltas
+- Exame Médico
+- Caixa de Previdência
+- Ministro para a Qualificação e o Emprego
+- Pensão de Invalidez
+- Prestações de Desemprego
+- Incapacidade Física
+- Protecção na Doença
+- Regimes de Segurança Social
+- Incapacidade Temporária
+- Segredo Profissional
+- Segurança Social
+- Sistema de Verificação das Incapacidades Permanentes
+- Sistema de Verificação das Incapacidades Temporárias
+- Conselho Médico Nacional
+- Subsídio de Doença
+- Subsídio por Assistência de Terceira Pessoa
+- Incapacidade Permanente
+relationships:
+- type: amended_by
+  target: pt:dre:321720:por
+  label: Adita Artigo 10.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1999-321720
+  date: '1999-05-13'
+- type: amended_by
+  target: pt:dre:108269605:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605
+  date: '2017-10-06'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:836117870:por
+  label: Adita Artigo 10.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 10.º-A; Altera Artigo 11.º;
+    Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870
+  date: '2024-01-05'
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
+- type: cites
+  target: pt:dre:220561:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/236/1992/10/27/p/dre
+- type: cites
+  target: pt:dre:475749:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/8/1991/03/14/p/dre
+article_structure:
+  article_count: 87
+  section_count: 35
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:45:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 360/97
+
+O sistema de verificação de incapacidades, no âmbito da segurança social, encontrava-se regulado em diplomas autónomos.
+
+Reconhecidos os inconvenientes decorrentes deste quadro normativo e tendo em conta a garantia da unidade do sistema, integrou-se num único diploma toda a intervenção relativa à certificação da incapacidade.
+
+A experiência adquirida durante o período de vigência dos diplomas ora revogados determinou a introdução de aperfeiçoamentos considerados adequados aos objectivos visados pelo sistema.
+
+Assim, numa linha de compatibilização com o regime de protecção na doença e visando garantir eficácia na cobertura da eventualidade, foram estabelecidos indicadores de intervenção do sistema de verificação de incapacidades mais compatíveis com a realidade social.
+
+Procurou-se ainda garantir a tutela de situações em que se considerou relevante uma participação mais activa do próprio beneficiário, no sentido da sua co-responsabilização.
+
+Procedeu-se igualmente à harmonização das normas internas com as comunitárias relativamente ao processo de intervenção de incapacidades permanentes quanto a beneficiários residentes no estrangeiro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Objecto e conteúdo da verificação de incapacidades
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma define, no âmbito da segurança social, o sistema de verificação de incapacidades, o qual tem por objecto:
+
+a) A confirmação da subsistência das condições de incapacidade temporária determinante do direito ao subsídio de doença ou da indemnização por incapacidade temporária;
+
+b) A verificação e revisão de situações de incapacidade permanente determinantes do direito às respetivas prestações sociais;
+
+c) A verificação das situações de dependência determinantes do direito às respetivas prestações sociais;
+
+d) (Revogado);
+
+e) A verificação da aptidão para o trabalho exigida para o enquadramento no regime de seguro social voluntário;
+
+f) A confirmação das situações de incapacidade temporária dos beneficiários a receber prestações de desemprego, nos termos previstos na lei.
+
+2 - Podem constituir objecto do sistema regulado neste diploma a verificação de outras situações de incapacidade ou deficiência de pessoas abrangidas pelos regimes de segurança social, quando tal for especialmente previsto em diploma próprio.
+
+3 - O disposto no n.º 1 não prejudica a competência atribuída, em termos gerais, aos serviços de saúde, pelo regime jurídico de protecção na doença, para a comprovação da situação de incapacidade temporária para o trabalho dos beneficiários do regime geral de segurança social, nem a atribuída aos serviços e entidades competentes para a verificação das situações causadas por riscos profissionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 414.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01
+
+###### Artigo 2.º — Conteúdo da verificação
+
+1 - A verificação das situações de incapacidade temporária consubstancia-se na avaliação da subsistência da incapacidade.
+
+2 - A verificação das situações de incapacidade permanente, deficiência ou dependência, consubstancia-se na análise dos dados relativos às condições físicas, motoras, orgânicas, sensoriais e intelectuais dos beneficiários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+#### Secção II — Natureza e constituição do sistema de verificação de incapacidades
+
+###### Artigo 3.º — Natureza
+
+1 - O sistema de verificação de incapacidades é um instrumento especializado de peritagem, constituído por meios técnicos de verificação de incapacidades e meios técnicos de assessoria à respectiva coordenação.
+
+2 - Como conjunto de meios humanos e materiais afetos à verificação de incapacidades, integra-se nos serviços competentes da segurança social, sem constituir uma estrutura orgânica autónoma.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 4.º — Meios técnicos de verificação
+
+1 - A verificação técnica da subsistência de incapacidade temporária é assegurada pelas comissões de verificação e de reavaliação, cujo conjunto é designado, no presente diploma, por sistema de verificação de incapacidade temporária.
+
+2 - A verificação técnica das condições de incapacidade permanente e de dependência é assegurada pelo médico relator e pelas comissões de verificação e de recurso, cujo conjunto é designado, no presente diploma, por sistema de verificação de incapacidade permanente.
+
+3 - A verificação técnica das condições de deficiência por equipas multidisciplinares, ou por entidade certificadora, é assegurada por peritos médicos e técnicos da segurança social ou de outros organismos, nos termos e para os efeitos previstos em diplomas próprios.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 5.º — Meios técnicos de assessoria à coordenação
+
+Asseguram a assessoria técnica à coordenação, os assessores técnicos de coordenação e o conselho médico nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 6.º — Recrutamento
+
+Os médicos relatores e os membros das comissões de verificação, de reavaliação e de recurso, bem como os assessores técnicos de coordenação, são recrutados pelos serviços competentes da segurança social de entre médicos de reputada experiência e idoneidade no âmbito da peritagem médico-social e ainda especialistas, nos casos em que se mostre conveniente a participação de médicos de determinada especialidade, incindindo, preferencialmente, sobre médicos cuja competência em peritagem médica se encontre reconhecida pela Ordem dos Médicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 7.º — Independência técnica
+
+1 - Os médicos relatores, os peritos que integram as comissões de verificação, de reavaliação e de recurso, bem como os assessores técnicos de coordenação, actuam com a independência técnica exigida pela sua própria função, sem prejuízo do dever de cumprimento das disposições estabelecidas no presente diploma e demais normas em vigor.
+
+2 - São definidos pelos serviços da segurança social os critérios de afetação dos processos dos beneficiários, tendo em vista a independência técnica e a garantia da equidade na avaliação das situações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+#### Secção III — Âmbito da verificação de incapacidades
+
+###### Artigo 8.º — Âmbito pessoal
+
+1 - O campo de aplicação pessoal do serviço de verificação de incapacidades é definido, prioritariamente, em função da residência dos beneficiários, sem prejuízo de, por motivos devidamente justificados, poder abranger beneficiários fora do âmbito da sua residência.
+
+2 - (Revogado.)
+
+3 - Quando o beneficiário residir fora do território nacional, compete aos serviços da segurança social indicar o serviço competente para a verificação, exceto nas situações em que o mesmo seja indicado pelo beneficiário.
+
+4 - Para efeitos do presente decreto-lei, designam-se por beneficiários as pessoas que se insiram no âmbito pessoal do serviço de verificação de incapacidades.
+
+5 - Os médicos relatores, as comissões de verificação, de reavaliação e de recurso e os assessores técnicos de coordenação exercem a sua ação no âmbito territorial dos serviços da segurança social onde se integram, sem prejuízo do número seguinte.
+
+6 - Os serviços da segurança social podem decidir que a verificação da incapacidade, deficiência e dependência dos beneficiários seja apreciada por médico relator ou comissão de verificação, de recurso ou de reavaliação que não sejam os do serviço que abrange os beneficiários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 9.º — Âmbito territorial
+
+1 - Os médicos relatores, as comissões de verificação, de reavaliação e de recurso e os assessores técnicos de coordenação exercem a sua acção no âmbito territorial do serviço sub-regional em que se integram, sem prejuízo do disposto no número seguinte.
+
+2 - Em casos devidamente justificados, podem os serviços competentes acordar que a verificação da incapacidade ou dependência dos beneficiários seja apreciada por médico relator ou comissão de verificação, de recurso ou de reavaliação que não sejam os do serviço sub-regional ou da instituição de residência do beneficiário.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 10.º — Local de funcionamento
+
+1 - Os médicos relatores e as comissões de verificação, de reavaliação e de recurso exercem a sua atividade nas instalações dos serviços da segurança social, salvo em situações especialmente previstas no presente decreto-lei.
+
+2 - Podem ser utilizadas instalações e equipamentos dos serviços de saúde e do emprego sempre que tal se torne necessário ao exercício das suas atribuições, mediante protocolo a estabelecer entre os centros regionais e as competentes entidades gestoras daqueles serviços.
+
+3 - Os protocolos são celebrados de acordo com regras aprovadas por despacho conjunto dos ministros competentes.
+
+4 - As comissões de verificação, de reavaliação e recurso podem ser realizadas por videochamada, nas situações a definir pelos serviços da segurança social.
+
+5 - Quando se revele adequado, o exame clínico pode ser realizado por avaliação meramente documental, desde que a mesma seja bastante e apta à realização do referido exame.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 10.º-A — Exame médico domiciliário
+
+1 - Sem prejuízo do disposto no artigo anterior, os serviços da segurança social podem determinar a realização de exames médicos domiciliários.
+
+2 - É realizado exame domiciliário para verificação de incapacidade permanente sempre que o beneficiário esteja acamado, internado, institucionalizado, ou seja evidente a dificuldade ou penosidade da deslocação aos serviços da segurança social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 165/99 - Diário da República n.º 111/1999, Série I-A de 1999-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1999-321720), em vigor a partir de 1999-05-18
+
+###### Artigo 10.º-B — Exame médico por videochamada
+
+1 - Sem prejuízo do disposto nos artigos anteriores, o beneficiário pode requerer a realização de exame médico por videochamada.
+
+2 - Para efeitos do disposto no n.º 4 do artigo 10.º, é realizado exame médico por videochamada, para verificação de incapacidade temporária ou permanente, sempre que se afigure adequado à avaliação a realizar, desde que complementada com informação clínica disponível ou a disponibilizar para o efeito.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+### Capítulo II — Meios técnicos de verificação e de assessoria à coordenação e apoio administrativo
+
+#### Secção I — Sistema de verificação de incapacidade temporária
+
+##### Subsecção I — Comissões de verificação
+
+###### Artigo 11.º — Composição e designação
+
+1 - As comissões de verificação de incapacidade temporária são constituídas por dois peritos médicos.
+
+2 - Os peritos médicos das comissões de verificação são designados pelos serviços da segurança social.
+
+3 - Os serviços da segurança social designam, de entre os dois peritos médicos, o que preside à comissão, o qual tem voto de qualidade, em caso de empate.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 12.º — Competências
+
+Compete às comissões de verificação de incapacidade temporária, face à situação clínica do beneficiário:
+
+a) Deliberar sobre a subsistência da incapacidade temporária;
+
+b) Emitir os pareceres médicos que lhes forem solicitados pelos serviços da segurança social;
+
+c) Alterar a classificação da situação de incapacidade temporária para efeitos de determinação da prestação a atribuir e de outros efeitos no âmbito das competências dos serviços da segurança social;
+
+d) Elaborar relatórios de verificação de incapacidade temporária decorrentes da aplicação de instrumentos internacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção II — Comissões de reavaliação
+
+###### Artigo 13.º — Composição e designação
+
+1 - As comissões de reavaliação de incapacidade temporária são constituídas por dois peritos médicos, podendo integrar um terceiro médico indicado pelo beneficiário.
+
+2 - Os dois peritos médicos designados, um dos quais preside à comissão de reavaliação, não podem ter integrado a comissão de verificação que observou o beneficiário, com exceção das situações previstas na legislação laboral.
+
+3 - No caso de o beneficiário não indicar médico no requerimento de reavaliação, ou, indicando-o, o mesmo falte, a comissão de reavaliação delibera com a presença dos dois médicos referidos no número anterior, tendo o presidente voto de qualidade, em caso de empate.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 14.º — Competências
+
+Compete às comissões de reavaliação de incapacidade temporária pronunciar-se sobre a subsistência de incapacidade temporária dos beneficiários, quando se verifique uma das seguintes situações:
+
+a) Revogada;
+
+b) Manutenção pelos serviços de saúde da situação de incapacidade temporária, após deliberação da comissão de verificação que considerou a não subsistência de incapacidade para o trabalho.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+#### Secção II — Sistema de verificação de incapacidade permanente
+
+##### Subsecção I — Competências genéricas
+
+###### Artigo 15.º — Disposição geral
+
+Compete, em geral, aos médicos relatores e às comissões de verificação:
+
+a) Verificar os danos físicos, orgânicos, anátomo-funcionais, psíquicos e psicológicos dos requerentes ou titulares de prestações pecuniárias dos regimes de segurança social, determinando, com base em todos os elementos de diagnóstico que estejam disponíveis, a origem, a natureza e a extensão da redução física motora, orgânica, sensorial ou intelectual provocada pela incapacidade;
+
+b) Determinar, com base nas capacidades remanescentes, a redução da capacidade profissional do beneficiário;
+
+c) Estudar e propor os métodos mais adequados a uma eficaz, objectiva e justa avaliação da incapacidade com base na ponderação das necessidades específicas decorrentes das limitações funcionais detectadas, bem como proceder à definição dos meios necessários à recuperação, com vista ao aproveitamento das capacidades remanescentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção II — Médico relator
+
+###### Artigo 16.º — Designação e competência do médico relator
+
+O médico relator é designado pelos serviços da segurança social, incumbindo-lhe preparar os processos de verificação de incapacidade permanente, de deficiência ou de dependência e elaborar os relatórios médicos periciais que sirvam de base à deliberação das comissões de verificação e à aplicação de instrumentos internacionais de segurança social, bem como, em caso de doença profissional, promover a apreciação do beneficiário pelos serviços clínicos competentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 17.º — Funções
+
+1 - São funções do médico relator, designadamente:
+
+a) (Revogada.)
+
+b) Realizar o exame clínico dos requerentes das prestações, bem como dos beneficiários sujeitos aos processos de verificação oficiosa de eventual incapacidade permanente ou de revisão da situação de incapacidade que abriram direito a prestações;
+
+c) (Revogada.)
+
+d) Consultar diretamente, quando disponível e para efeitos da elaboração do relatório, a informação constante do processo do beneficiário no Serviço Nacional de Saúde;
+
+e) Participar aos serviços competentes as situações passíveis de serem consideradas como doenças profissionais;
+
+f) Elaborar um relatório circunstanciado do exame feito com base nos elementos reunidos, organizar o processo clínico do requerente e submetê-lo à comissão de verificação de incapacidade permanente;
+
+g) Propor que da comissão de verificação de incapacidade permanente faça parte perito de determinada especialidade, sempre que tal se mostre indispensável;
+
+h) Analisar e dar parecer sobre o fundamento invocado pelo beneficiário nos requerimentos por agravamento do estado de saúde.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção III — Comissões de verificação
+
+###### Artigo 18.º — Composição
+
+1 - As comissões de verificação de incapacidade permanente são constituídas por dois peritos médicos, um dos quais preside.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 19.º — Designação dos membros das comissões
+
+1 - Os peritos médicos das comissões de verificação de incapacidade permanente são designados pelos serviços da segurança social.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 20.º — Competências
+
+Compete às comissões de verificação:
+
+a) Apreciar os processos clínicos dos requerentes das prestações ou dos beneficiários sujeitos a processo oficioso de verificação de incapacidade com base nos dados coligidos pelo médico relator e nos demais elementos de diagnóstico constantes do respectivo processo;
+
+b) Verificar a origem, a natureza, a extensão e a presumível duração de incapacidade detectada, não susceptível de superação através de acções de recuperação funcional ou de adequados e viáveis meios de compensação;
+
+c) Determinar, com base nas capacidades remanescentes, a redução da capacidade profissional do beneficiário;
+
+d) Concluir sobre o enquadramento das situações verificadas nos critérios legais de atribuição das prestações em causa, especificando as datas a que se reporta a verificação de incapacidade ou de dependência;
+
+e) Proceder à revisão das situações de incapacidade permanente que abriram direito às prestações, tendo em vista pronunciar-se sobre a evolução das mesmas.
+
+f) Emitir os pareceres médicos que lhes forem solicitados pelos serviços da segurança social dentro do seu âmbito de intervenção;
+
+g) Elaborar relatórios médicos periciais que sustentem a competente deliberação no âmbito da aplicação de instrumentos internacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção IV — Comissões de recurso
+
+###### Artigo 21.º — Composição e designação
+
+1 - As comissões de recurso são constituídas por dois peritos médicos, podendo integrar um terceiro médico indicado pelo beneficiário.
+
+2 - Os membros da comissão de verificação que tenham deliberado sobre a situação do requerente ou beneficiário não podem fazer parte da comissão de recurso.
+
+3 - No caso da existência de uma única comissão de verificação, é designado perito médico proveniente de outro serviço da segurança social.
+
+4 - (Revogado.)
+
+5 - Os dois peritos médicos designados, um dos quais preside à comissão de recurso, não podem ter integrado a comissão de verificação que observou o beneficiário, com exceção das situações previstas na legislação laboral.
+
+6 - No caso de o beneficiário não indicar médico, no requerimento de recurso, ou, indicando-o, o mesmo falte, a comissão de recurso delibera com a presença dos dois médicos referidos no n.º 1, tendo o presidente voto de qualidade, em caso de empate.
+
+7 - Compete ainda às comissões de recurso a elaboração de relatório que sustentem a deliberação no âmbito da aplicação de instrumentos internacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 22.º — Competências
+
+1 - Compete às comissões de recurso apreciar as deliberações das comissões de verificação e decidir sobre a situação de incapacidade do beneficiário.
+
+2 - Compete ainda às comissões de recurso a elaboração de relatório que sustente a competente deliberação no âmbito da aplicação de instrumentos internacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 23.º — Insuficiência económica do requerente
+
+1 - Sempre que os requerentes de comissões de recurso invoquem e provem insuficiência económica impeditiva da indicação de médico que os represente nas mesmas, a deliberação é tomada por dois peritos médicos designados pelo Instituto da Segurança Social, I. P., sem prejuízo do disposto no n.º 6.
+
+2 - Para efeitos do disposto no número anterior, consideram-se em situação de insuficiência económica os requerentes cujo agregado familiar detenha rendimentos ilíquidos mensais inferiores ao dobro da remuneração mínima garantida à generalidade dos trabalhadores, ou a esta remuneração, tratando-se de requerentes isolados.
+
+3 - O agregado familiar é constituído, para além do requerente e do cônjuge, pelos descendentes ou equiparados que, compartilhando com o mesmo uma vida em comum, aufiram rendimentos inferiores ao valor mensal da pensão social, ou ao dobro desta, se forem casados.
+
+4 - Integram o conceito de equiparados a descendentes dos beneficiários requerentes os enteados, os tutelados ou adoptados restritamente pelo próprio ou pelo cônjuge e os menores que lhes estejam confiados, por decisão dos tribunais ou dos serviços tutelares de menores, em vias de adopção, desde que o respectivo processo legal tenha sido iniciado.
+
+5 - Para a consideração da insuficiência económica, constituem meios de prova:
+
+a) Declaração do beneficiário da composição do agregado familiar;
+
+b) Documento comprovativo dos rendimentos próprios e do agregado familiar, designadamente, e com prioridade, os documentos fiscais, ou, no caso de impossibilidade de prova, declaração do beneficiário.
+
+6 - Sempre que os requerentes residentes fora do território nacional invoquem e provem insuficiência económica nos termos dos números anteriores, as despesas com o médico encarregue da sua representação oficiosa, a que se refere o n.º 4 do artigo 21.º, ficam a cargo da segurança social.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+#### Secção III — Assessoria técnica à coordenação
+
+##### Subsecção I — Assessores técnicos de coordenação
+
+###### Artigo 24.º — Competências
+
+1 - Compete, em geral, aos assessores técnicos de coordenação garantir assessoria tendo em vista o bom funcionamento do sistema de verificação de incapacidades, propondo as medidas consideradas mais adequadas a uma eficaz, justa e objetiva avaliação da incapacidade para o trabalho e das situações de dependência ou de deficiência.
+
+2 - Compete, em especial, aos assessores de coordenação técnica:
+
+a) Contribuir para a definição de indicadores e para o estabelecimento de critérios determinantes da selecção das situações que devam ser objecto da intervenção do sistema de verificação de incapacidades;
+
+b) Nas situações de suspeição de falsificação dos elementos apresentados, dar parecer quanto aos pedidos de meios auxiliares de diagnóstico, exames e pareceres de médicos de especialidade, para a realização de contraprova por parte dos serviços da segurança social, nas situações de falsificação ou suspeição dos elementos apresentados;
+
+c) Apreciar os pedidos de prorrogação de prazos para conclusão de relatórios pelos médicos relatores ou das comissões de verificação e o arquivamento do processo clínico;
+
+d) Apoiar tecnicamente os médicos relatores, bem como os peritos médicos das comissões técnicas, na resolução dos problemas que se suscitem no exercício das suas funções;
+
+e) (Revogada.)
+
+f) Analisar e dar parecer sobre reclamações e exposições ou outras questões relacionadas com a peritagem médica, por solicitação dos serviços da segurança social;
+
+g) Dar parecer sobre a justificação da falta do beneficiário a exame médico, quando a mesma estiver ligada ao foro médico;
+
+h) Promover a realização de reuniões periódicas, tendo em vista a troca de experiências de caracter técnico-científico e a avaliação do trabalho desenvolvido no âmbito do sistema de verificação de incapacidades;
+
+i) Dar parecer prévio, devidamente fundamentado, no âmbito da decisão de revisão da incapacidade prevista no regime de proteção nas eventualidades invalidez e velhice;
+
+j) Dar parecer quanto à conveniência de realização de exames domiciliários, por videochamada, ou da dispensa da presença do beneficiário em exame clínico, atenta designadamente a informação do médico assistente e demais informação clínica apresentada pelo beneficiário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 25.º — Organização da assessoria técnica à coordenação
+
+1 - Os serviços da segurança social devem estabelecer, em regulamento interno, as normas de organização da assessoria técnica à coordenação que considerem convenientes, atentas as condições concretas do funcionamento do sistema de verificação de incapacidade.
+
+2 - Os regulamentos a que se refere o número anterior são aprovados pelos competentes organismos respetivos da segurança social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção II — Conselho médico nacional
+
+###### Artigo 26.º — Composição
+
+1 - O conselho médico nacional é o órgão de consulta, apoio e participação para as questões de natureza médico-funcional, no âmbito do sistema de verificação de incapacidades que funciona junto do Instituto da Segurança Social, I. P. (ISS, I. P.).
+
+2 - O conselho médico nacional reúne pelo menos uma vez no ano, sendo os trabalhos coordenados pelo respetivo presidente, e funciona nos termos do regulamento interno a aprovar pelo conselho diretivo do ISS, I. P.
+
+3 - Sempre que se mostre conveniente para a análise das questões tratadas nas reuniões, podem ser convidadas a participar outras instituições ou entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 27.º — Competências
+
+Compete ao conselho médico nacional o estudo e avaliação das questões de natureza médico-funcional suscitadas pela aplicação da legislação reguladora do sistema de verificação de incapacidades, nomeadamente:
+
+a) O estudo e a avaliação das questões de natureza médico-pericial que forem submetidas à sua análise no âmbito do funcionamento do sistema de verificação de incapacidades;
+
+b) O acompanhamento técnico da acção médico-pericial dos meios técnicos do sistema de verificação de incapacidades através da elaboração de pareceres e de recomendações sobre as questões que forem objecto de análise;
+
+c) A recomendação aos serviços da segurança social da adoção das medidas consideradas convenientes à garantia de uma melhor eficiência do sistema de verificação de incapacidades;
+
+d) A promoção ou a colaboração na realização de reuniões a nível nacional, de natureza especializada ou interdisciplinar, em que sejam debatidas questões de natureza técnica e se proceda ao balanço das actividades desenvolvidas no âmbito do sistema de verificação de incapacidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+#### Secção IV — Apoio administrativo
+
+###### Artigo 28.º — Funções
+
+Para a realização das tarefas administrativas inerentes ao sistema de verificação das incapacidades, são funções do apoio administrativo:
+
+a) Receber, registar e verificar o correcto preenchimento dos requerimentos e dar-lhes o devido andamento;
+
+b) Organizar e manter em ordem os processos e expediente referentes ao sistema de verificação das incapacidades;
+
+c) Organizar e manter actualizados os ficheiros e registos que se mostrem necessários ao controlo da movimentação dos processos;
+
+d) Assegurar a convocação dos peritos médicos e dos requerentes das prestações ou dos beneficiários sujeitos a processo de verificação oficiosa de incapacidade permanente.
+
+e) Promover e realizar uma correcta articulação com as instituições e serviços intervenientes nos processos de verificação de incapacidade e na atribuição das prestações, incluindo as referentes a doença profissional;
+
+f) Proceder ao registo de dados estatísticos de acordo com as normas estabelecidas;
+
+g) Dar conhecimento aos centros de saúde e, quando for caso disso, aos centros de emprego das deliberações definitivas tomadas na sequência do sistema de verificação de incapacidades;
+
+h) Assegurar o apoio administrativo aos peritos médicos de verificação e aos assessores técnicos de coordenação.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 29.º — Garantia de sigilo
+
+Os funcionários que, a qualquer título ou por qualquer forma, intervenham nas actividades de apoio administrativo ficam vinculados, para todos os efeitos, ao sigilo profissional em relação aos processos de verificação de incapacidade.
+
+### Capítulo III — Processo de verificação de incapacidades
+
+#### Secção I — Verificação da incapacidade temporária
+
+##### Subsecção I — Disposições comuns
+
+###### Artigo 30.º — Âmbito material
+
+1 - A verificação da subsistência de incapacidades temporárias tem lugar a todo o tempo, nas situações legalmente previstas ou naquelas em que se presuma a não existência ou cessação de incapacidades, designadamente:
+
+a) Situações susceptíveis de contribuir para a formação de prazos de garantia de acesso a pensões ou a outras prestações;
+
+b) Situações em que o início de incapacidade temporária coincide com a cessação do contrato de trabalho;
+
+c) Situações de prorrogação pelos serviços de saúde dos períodos de incapacidade temporária que ultrapassem o período máximo previsto pela comissão de reavaliação;
+
+d) Situações reiteradas de incapacidades por doença;
+
+e) Situações identificadas e devidamente fundamentadas em informações dos serviços inspectivos e de fiscalização, das entidades empregadoras ou de outras entidades idóneas;
+
+f) Situações correspondentes a actividades ou zonas geográficas com maior incidência de incapacidades por doença;
+
+g) Situações de incapacidade por doença determinantes da recusa de emprego conveniente, trabalho necessário ou formação profissional durante o período de concessão das prestações de desemprego.
+
+h) Situações de incapacidade temporária para o trabalho superiores a três dias;
+
+i) Situações de nova incapacidade temporária após deliberação que considerou a não subsistência de incapacidade temporária;
+
+j) Situações de apresentação de novos elementos clínicos, após uma deliberação de não subsistência de incapacidade temporária, desde que se mantenha a sua certificação por parte dos serviços da área da saúde.
+
+2 - Nas situações previstas na alínea e) do número anterior, revestem natureza prioritária as identificadas pelas entidades empregadoras ou pela Inspecção-Geral do Trabalho.
+
+3 - Nas situações previstas na alínea j) do n.º 1, o beneficiário pode solicitar, no prazo de 10 dias após a deliberação de não subsistência, nova verificação com a apresentação de novos elementos clínicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 31.º — Princípios de actuação
+
+1 - A seleção das situações de incapacidade temporária objeto de intervenção do sistema de verificação de incapacidades é da competência dos serviços da segurança social que abrangem os beneficiários.
+
+2 - A informação médica do beneficiário constante do seu processo clínico é acedida pelos peritos médicos do serviço de verificação de incapacidades temporárias, através de plataforma gerida pelo Serviço Nacional de Saúde, mediante consentimento do respetivo titular junto do mesmo.
+
+3 - Na impossibilidade de acesso nos termos do número anterior, ou caso não seja prestado consentimento pelo titular, o beneficiário deve apresentar informação médica aquando da realização do exame médico pericial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 32.º — Convocatória para o exame médico
+
+1 - O beneficiário é convocado para exame médico através do sistema de notificações eletrónicas da segurança social, por sms para o número de telemóvel registado na segurança social, por mensagem por correio eletrónico registado na segurança social, presencialmente ou por qualquer outro meio previsto na lei.
+
+2 - No ato da convocação, o beneficiário deve ser informado dos efeitos decorrentes da sua não comparência e de que deve apresentar ou autorizar a consulta da informação médica e dos elementos auxiliares de diagnóstico comprovativos da sua incapacidade.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção II — Comissões de verificação
+
+###### Artigo 33.º — Efeitos das deliberações de não subsistência de incapacidade
+
+1 - As deliberações das comissões de verificação que se pronunciem pela não subsistência da situação de incapacidade temporária para o trabalho determinam os efeitos previstos no regime jurídico de protecção na doença.
+
+2 - As deliberações das comissões de verificação são emitidas com base no exame médico realizado, na informação médica e nos meios auxiliares de diagnóstico disponíveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 34.º — Comunicação das deliberações sobre a incapacidade
+
+1 - O beneficiário é informado do teor da deliberação da comissão de verificação e, no caso de não subsistência da incapacidade temporária, da possibilidade de requerer a reavaliação e se fazer acompanhar, querendo, por um médico por si indicado.
+
+2 - (Revogado.)
+
+3 - A deliberação da comissão de verificação é comunicada ao serviço de saúde que certificou a incapacidade temporária, através de mecanismos eletrónicos de interoperabilidade de dados.
+
+4 - A notificação referida no n.º 1, é realizada através do sistema de notificações eletrónicas da segurança social, por sms para o número de telemóvel registado na segurança social, por mensagem por correio eletrónico registado na segurança social, presencialmente ou por qualquer outro meio previsto na lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 35.º — Articulação entre as instituições
+
+1 - Quando a instituição que abrange o beneficiário não for a da área da sua residência, compete a esta o desenvolvimento de todo o processo de verificação da incapacidade temporária, uma vez recebido o respectivo pedido da instituição que abrange o beneficiário.
+
+2 - O pedido de verificação da incapacidade temporária à instituição da área de residência do beneficiário deve ser sempre acompanhado de cópia do boletim dos serviços de saúde certificativo da incapacidade temporária.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 36.º — Articulação com entidades empregadoras centralizadoras
+
+Sempre que a deliberação da comissão de verificação considerar a não subsistência da incapacidade para o trabalho e a respectiva entidade empregadora for centralizadora do pagamento do subsídio de doença, devem as instituições de segurança social comunicar a esta, de imediato, a cessação do subsídio.
+
+##### Subsecção III — Comissões de reavaliação
+
+###### Artigo 37.º — Intervenção das comissões de reavaliação
+
+1 - (Revogado.)
+
+2 - Nas situações previstas na alínea b) do artigo 14.º, a intervenção das comissões de reavaliação tem lugar quando requerida pelo beneficiário no prazo de 10 dias a contar da data da manutenção da certificação da incapacidade pelos serviços de saúde.
+
+3 - (Revogado.)
+
+4 - A comissão de reavaliação delibera, no prazo de 10 dias após a entrada do requerimento do beneficiário, com base nos elementos analisados pela comissão de verificação e em novo exame médico pericial por si realizado.
+
+5 - Não é permitida a junção de novos elementos para a apreciação da comissão de reavaliação, exceto nos casos em que ocorreu a alteração da classificação de incapacidade e apenas para oposição a esta.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 38.º — Efeitos da intervenção das comissões de reavaliação
+
+1 - (Revogado.)
+
+2 - Nos casos previstos na alínea b) do artigo 14.º, a manutenção do direito ao subsídio de doença fica dependente da deliberação da comissão de reavaliação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 39.º — Accionamento da intervenção das comissões de reavaliação e sua comunicação ao beneficiário
+
+Quando haja lugar à intervenção das comissões de reavaliação, devem os centros regionais accionar os meios necessários para essa intervenção, designadamente a comunicação ao beneficiário do regime previsto no artigo 38.º, da possibilidade de indicar um médico para integrar a comissão de reavaliação, do prazo em que o deve fazer e dos efeitos que decorrem da sua não indicação.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 40.º — Intervenção das comissões de reavaliação
+
+A intervenção das comissões de reavaliação deve ocorrer no prazo de 30 dias após a entrada no centro regional da certificação da nova incapacidade ou do requerimento do beneficiário, consoante a intervenção tenha lugar a coberto, respectivamente, da alínea a) ou da alínea b) do artigo 14.º
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 41.º — Efeitos e comunicação das deliberações das comissões de reavaliação
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - À comunicação das deliberações aplica-se, com as necessárias adaptações, o disposto no artigo 34.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+#### Secção II — Verificação de incapacidade permanente
+
+##### Subsecção I — Disposições comuns
+
+###### Artigo 42.º — Iniciativa da verificação
+
+1 - A verificação e a revisão das situações de incapacidade permanente e de dependência têm lugar a requerimento dos interessados ou oficiosamente.
+
+2 - A verificação da eventual situação de incapacidade permanente pode ainda ter lugar nas situações de incapacidade temporária que atinjam 365 dias ou antes, sob proposta das comissões de verificação de incapacidade temporária ou do assessor técnico de coordenação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 43.º — Instrução dos requerimentos para atribuição das prestações
+
+1 - Os requerimentos para atribuição das prestações são acompanhados de informação médica, sempre que não disponível no Serviço Nacional de Saúde, a qual deve estar devidamente fundamentada e instruída.
+
+2 - Tratando-se de pensão por incapacidade permanente para o trabalho, o requerimento deve ainda ser acompanhado de declaração da entidade empregadora, preferencialmente emitida pelo médico de medicina do trabalho, ou do próprio, se aquela não existir, relativamente ao trabalho desempenhado nos últimos três anos no exercício da profissão a considerar para efeito da declaração de incapacidade.
+
+3 - A informação médica é transmitida em suporte definido pelos organismos competentes da segurança social.
+
+4 - Sem prejuízo do número anterior, os peritos médicos devem consultar diretamente, quando disponível, a informação constante do processo do beneficiário no Serviço Nacional de Saúde.
+
+5 - O requerimento contém ainda informação sobre a impossibilidade física de deslocação do beneficiário, ou seu enquadramento numa das situações previstas nos artigos 10.º-A ou 10.º-B.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 44.º — Informação médica no caso de residência no estrangeiro
+
+1 - No caso de requerentes de prestações residentes no estrangeiro que tenham contribuições para a segurança social portuguesa, os requerimentos devem ser acompanhados de relatório médico e dos dados clínicos e outros elementos auxiliares de diagnóstico reunidos pelos serviços de saúde do país da sua residência ou, quando tal não for possível, por médico da escolha do interessado, caso em que a qualidade profissional desse médico deve ser certificada pelos serviços oficiais de saúde ou segurança social desse país ou pelos serviços consulares portugueses ou dos que representem os interesses de Portugal nesse mesmo país, sem prejuízo do disposto em instrumento internacional a que Portugal se encontre vinculado.
+
+2 - A instituição competente deve solicitar a verificação de incapacidade permanente e remeter o requerimento, acompanhado do relatório e dos outros elementos previstos no número anterior, aos serviços da segurança social, nos termos dos diplomas legais aplicáveis.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 45.º — Informação médica
+
+1 - O beneficiário da segurança social tem direito à informação médica, prestada nos termos regulados no presente diploma, por parte dos médicos dos serviços de saúde que lhe prestem assistência.
+
+2 - A informação médica prestada nos termos do número anterior deve ser elaborada em formato eletrónico e disponibilizada à segurança social através de mecanismos de interoperabilidade com a saúde, sem prejuízo dos números seguintes.
+
+3 - A informação médica pode, contudo, ser elaborada por qualquer médico escolhido pelo beneficiário.
+
+4 - Quando não estiver disponível a informação constante do processo do beneficiário no Serviço Nacional de Saúde, deve o beneficiário apresentar a informação médica e os exames auxiliares de diagnóstico aquando da realização do exame pericial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 46.º — Requisitos da informação médica
+
+1 - A informação médica deve identificar, de forma legível, o médico que a elaborou e estar atualizada e devidamente instruída com os relatórios de especialistas e meios elementos auxiliares de diagnóstico que fundamentam o respetivo parecer, efetuados há menos de dois anos relativamente à data do pedido.
+
+2 - Os peritos médicos devem consultar diretamente, quando disponível, a informação constante do processo do beneficiário no Serviço Nacional de Saúde.
+
+3 - A necessidade de realização de exame domiciliário ou por videochamada, por o beneficiário se encontrar numa das situações previstas nos artigos 10.º-A ou 10.º-B, deve ser referida na informação médica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 47.º — Informação médica em verificação oficiosa
+
+1 - Nas situações de verificação de incapacidade promovida oficiosamente, o beneficiário é informado de que deve comparecer acompanhado da necessária informação médica, bem como dos elementos auxiliares de diagnóstico ou relatórios de especialistas que a fundamentem, efetuados há menos de dois anos, aquando da convocatória para o exame médico a realizar pelo médico relator.
+
+2 - Se os beneficiários não apresentarem informação médica ou meios auxiliares de diagnóstico o processo é analisado com os elementos apresentados ou disponibilizados no sistema de informação da saúde.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 48.º — Requisição de meios de prova da situação clínica
+
+1 - Os peritos médicos devem consultar diretamente, quando disponível, a informação constante do processo do beneficiário no Serviço Nacional de Saúde.
+
+2 - (Revogado.)
+
+3 - Os pareceres dos médicos especialistas devem mencionar com precisão a identidade do requerente e a sua situação clínica, concluindo com clareza sobre a incapacidade, no âmbito da respetiva especialidade médica.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 49.º — Distribuição do processo
+
+1 - O pessoal encarregado do apoio administrativo deve, no âmbito do processo do sistema de verificação de incapacidade permanente e no prazo de 10 dias úteis a contar da data da entrada dos requerimentos ou do conhecimento do despacho para proceder à verificação oficiosa da incapacidade:
+
+a) Verificar se o requerente da prestação cumpriu o prazo de garantia, ou promover a verificação deste, no caso de não ter possibilidade directa de o fazer;
+
+b) Promover a verificação de outras condições administrativas determinantes da atribuição da prestação;
+
+c) Distribuir os processos pelos médicos relatores de acordo com as regras estabelecidas para o efeito;
+
+d) Verificar ou promover a verificação, de acordo com a organização dos serviços do centro regional, da insuficiência económica do requerente, para os efeitos previstos no artigo 23.º
+
+2 - As instituições às quais tenha sido solicitada informação nos termos do n.º 1 procedem de imediato à verificação e confirmação das condições administrativas de atribuição das prestações requeridas e à sua comunicação à instituição competente.
+
+3 - Compete ainda ao apoio administrativo remeter aos serviços competentes do centro regional de segurança social ou do Centro Nacional de Pensões os requerimentos das prestações a atribuir pelos mesmos, acompanhados da deliberação do sistema de verificação de incapacidade permanente ou, se for o caso, de informação relativa à falta de requisito de atribuição que lhe caiba averiguar.
+
+4 - A inexistência de algumas das condições de atribuição das prestações determina que seja sustado o processo de peritagem.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 50.º — Funcionamento das comissões
+
+1 - As deliberações das comissões são tomadas por maioria dos votos dos médicos que as compõem, devendo ser devidamente fundamentadas e identificando de forma clara os seus autores.
+
+2 - A deliberação é registada no sistema de informação da segurança social, nela se mencionando expressamente a natureza da incapacidade, deficiência ou dependência em que o beneficiário se encontra e a data a partir da qual a situação de incapacidade é reconhecida.
+
+3 - Nas situações em que se verifique empate na votação da comissão de recurso, o desempate é efetuado por recurso ao sentido do relatório médico pericial do médico relator.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 51.º — Morte do requerente
+
+1 - A morte do requerente no decurso do processo de verificação de incapacidade permanente determina o respectivo arquivamento, se não existirem ou não for possível recolher os elementos clínicos considerados necessários à deliberação.
+
+2 - Os familiares do requerente podem juntar ao processo os elementos clínicos julgados convenientes para a deliberação.
+
+3 - A deliberação sobre o processo pode dar lugar ao pagamento aos herdeiros habilitados dos quantitativos devidos e não pagos.
+
+4 - Da deliberação da comissão de verificação podem os herdeiros habilitados requerer comissão de recurso.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção II — Exame do médico relator
+
+###### Artigo 52.º — Análise da informação médica
+
+1 - Quando a informação médica se revelar insuficiente, designadamente quanto à caracterização objectiva das patologias referenciadas como causa de incapacidade ou não juntar os meios auxiliares de diagnóstico realizados, o médico relator deve solicitar junto do médico que a elaborou o seu aperfeiçoamento.
+
+2 - No caso de não ser satisfeita a solicitação do médico relator nem o requerente juntar os elementos considerados necessários, o processo clínico pode continuar, se o beneficiário se manifestar nesse sentido, sendo apenas considerados os dados constantes do processo.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 53.º — Convocatória para o exame médico
+
+1 - (Revogado.)
+
+2 - O beneficiário é convocado, com antecedência mínima de dois dias úteis, para exame médico através do sistema de notificações eletrónicas da segurança social, por sms para o número de telemóvel registado na segurança social, por mensagem por correio eletrónico registado na segurança social, presencialmente ou por qualquer outro meio previsto na lei.
+
+3 - (Revogado.)
+
+4 - A marcação da data e do local do exame é feita tendo em conta, tanto quanto possível, a residência do interessado e os meios de transporte disponíveis para se deslocar às instalações onde decorrerá o exame.
+
+5 - Se o requerente residir fora do território nacional, apenas há lugar à sua convocação para o exame médico, a levar a efeito pelo médico relator, se aquele o solicitar expressamente aquando da apresentação do requerimento da prestação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 54.º — Relatório
+
+O relatório médico pericial, elaborado no sistema de informação da segurança social:
+
+a) Identifica de forma clara o seu autor;
+
+b) Expressa o estudo exaustivo da situação clínica do beneficiário em face dos seus antecedentes clínicos, designadamente a informação do médico assistente, a documentação subsidiária e os pareceres de médicos especialistas entregues pelo beneficiário ou constante do sistema de informação da saúde;
+
+c) Conclui, de forma inequívoca, quanto à origem e natureza da situação verificada, referindo, com o maior desenvolvimento possível, a sintomatologia e a observação do aparelho ou órgãos afetados que deram origem à incapacidade, deficiência ou dependência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 55.º — Prazo para apresentação do relatório
+
+1 - O médico relator deve concluir o relatório no prazo de 5 dias úteis contado a partir da data do exame do interessado ou da data do parecer do assessor técnico de coordenação que dispensou a presença do beneficiário a exame clínico do médico relator.
+
+2 - (Revogado.)
+
+3 - Nas situações em que a comissão de verificação constate que a conclusão do relatório se não encontra fundamentada, devolve-o de imediato e com a fundamentação do facto ao médico relator, que, no prazo de 5 dias úteis, deve proceder ao seu aperfeiçoamento.
+
+4 - Quando o relatório não puder ser concluído nos prazos previstos nos n.os 1 e 3, o médico relator justifica o impedimento, solicitando a prorrogação por igual período.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 56.º — Junção de novos elementos ao processo
+
+1 - O médico relator deve juntar ao processo clínico quaisquer elementos de diagnóstico ou pareceres de especialistas, desde que os interessados os apresentem até à remessa do relatório à comissão de verificação.
+
+2 - Tais elementos não têm força conclusiva prevalecente sobre os demais elementos coligidos directamente pelo médico relator ou pelos peritos médicos da comissão de verificação ou de recurso.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção III — Comissões de verificação
+
+###### Artigo 57.º — Actuação das comissões de verificação
+
+1 - As comissões de verificação procedem à análise e ao estudo do relatório elaborado pelo médico relator ou pelos serviços de saúde do país estrangeiro onde o requerente resida e demais documentação clínica, tendo em vista a correcta qualificação legal da situação.
+
+2 - As comissões podem promover o exame médico direto dos requerentes sempre que tal exame ou aqueles elementos se revelem necessários ao completo esclarecimento da situação clínica.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - Tratando-se de requerentes residentes no estrangeiro, aplica-se ao exame médico do requerente o disposto no n.º 5 do artigo 53.º
+
+6 - A deliberação da comissão é tomada por maioria dos votos dos médicos que a compõem, devendo ser devidamente fundamentada e identificando de forma clara os seus autores.
+
+7 - A deliberação é registada no sistema de informação da segurança social, nela se mencionando expressamente a natureza da incapacidade, deficiência ou dependência em que o beneficiário se encontra e a data a partir da qual a mesma é reconhecida.
+
+8 - Nas situações em que se verifique empate na votação da comissão, por a mesma ser constituída apenas por dois elementos, o desempate é efetuado por recurso ao sentido do relatório médico pericial do médico relator, uma vez esgotados os meios previstos no n.º 3 do artigo 55.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 58.º — Prazo do parecer das comissões
+
+1 - As comissões de verificação proferem deliberação no prazo de 5 dias úteis a contar da data de:
+
+a) Disponibilização do relatório clínico; ou,
+
+b) Realização do exame direto, quando tiver lugar.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 59.º — Comunicação das deliberações das comissões de verificação
+
+1 - A deliberação da comissão de verificação fica disponível nos sistemas de informação da segurança social para a tomada de decisão da atribuição da prestação pelo serviço de segurança social competente.
+
+2 - O serviço da segurança social dá conhecimento do facto ao requerente esclarecendo-o sobre o direito que lhe assiste de solicitar a sua apresentação à comissão de recurso.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+##### Subsecção IV — Comissões de recurso
+
+###### Artigo 60.º — Apresentação de recurso
+
+1 - Na sequência da comunicação prevista ao beneficiário, prevista no artigo anterior, não concordando com o teor da deliberação da comissão de verificação pode o beneficiário requerer, no prazo de 10 dias úteis, a realização de comissão de recurso.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 61.º — Designação do médico do requerente
+
+1 - O requerente pode indicar no seu pedido de realização de comissão de recurso um médico para o representar, devendo indicar o seu nome, número de cédula e domicílio profissional.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 62.º — Funcionamento das comissões de recurso
+
+1 - A comissão reúne no prazo de 10 dias úteis após a interposição de recurso, com a realização do exame do requerente, podendo ser feita nos termos dos artigos 10.º-A ou 10.º-B.
+
+2 - Apenas é permitido um adiamento, pelo prazo máximo de cinco dias úteis, com o fundamento na falta ou impossibilidade de comparência justificada por parte do médico representante do interessado, quando aplicável, podendo este designar médico substituto.
+
+3 - A comissão delibera no próprio dia do exame, com base nos elementos constantes do processo analisado pela comissão de verificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 63.º — Comunicação das deliberações das comissões de recurso
+
+À comunicação das deliberações das comissões de recurso aplica-se o disposto no n.º 1 do artigo 59.º
+
+##### Subsecção V — Renovação de requerimentos
+
+###### Artigo 64.º — Prazos de apresentação
+
+1 - Sempre que o serviço de segurança social competente, com base nas deliberações emitidas pelas respetivas comissões, decida que o beneficiário não reúne as condições de incapacidade determinantes da atribuição da prestação requerida, este só pode apresentar novo requerimento para o efeito decorridos seis meses após a data da respetiva deliberação.
+
+2 - O disposto no número anterior aplica-se também às situações de não comparência do interessado e do médico que o representa, quando aplicável, circunstâncias que determinam o arquivamento do processo clínico nos termos previstos no presente decreto-lei, devendo o respetivo prazo iniciar-se na data da falta ao exame.
+
+3 - O prazo referido no n.º 1 não é aplicável aos casos em que se tenha verificado especial agravamento do estado de saúde do beneficiário e tal facto, devidamente fundamentado, seja objeto da informação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 65.º — Verificação do agravamento
+
+1 - O requerimento apresentado nos termos do n.º 3 do artigo anterior obedece aos requisitos estabelecidos neste diploma, devendo ser acompanhado dos formulários devidamente preenchidos e da informação médica correspondente.
+
+2 - Se o médico relator verificar que a informação médica não comprova a existência de agravamento do estado de saúde do beneficiário, deve, no prazo de 10 dias, pronunciar-se sobre o fundamento invocado para agravamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+### Capítulo IV — Faltas do interessado e arquivamento do processo
+
+#### Secção I — Faltas do interessado
+
+###### Artigo 66.º — Justificação de faltas
+
+1 - Se o interessado, devidamente convocado, não se apresentar ao exame médico pericial no dia, hora e local indicados nem justificar, no prazo de cinco dias úteis subsequentes, o motivo da não comparência, ou, justificando-o, não for atendível, é considerada falta injustificada.
+
+2 - Considera-se justificada a falta de comparência nos seguintes casos:
+
+a) Incapacidade física de se deslocar;
+
+b) Internamento em estabelecimento hospitalar ou detenção em estabelecimento prisional com efectiva impossibilidade física ou legal de se deslocar ao exterior;
+
+c) Qualquer outro justo impedimento devidamente comprovado por documento idóneo para o efeito.
+
+3 - As situações previstas na alínea a) do número anterior devem ser comprovadas por declaração médica autenticada, onde se refira concretamente o motivo que impediu a deslocação e a data previsível da cessação dessa impossibilidade.
+
+4 - As situações previstas na alínea b) do n.º 2 devem ser certificadas por declaração autenticada dos estabelecimentos respectivos.
+
+5 - Comprovado o impedimento, o exame médico pericial pode ser efetuado na residência do interessado ou, no caso de verificação de incapacidade permanente, no estabelecimento onde o mesmo se encontre internado, devendo, nesta situação, os estabelecimentos de saúde proporcionar os meios necessários à realização do referido exame, nos termos do disposto no artigo 10.º-A.
+
+6 - O interessado deve avisar o serviço da segurança social que o tenha convocado da impossibilidade da sua comparência logo que, estando impedido nas circunstâncias referidas no n.º 2, haja sido convocado para o exame.
+
+7 - Apenas é permitido aos beneficiários um único adiamento justificado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 67.º — Avaliação da justificação da falta de comparência
+
+1 - A avaliação da justificação da falta do beneficiário ao exame médico pericial é da competência do serviço de segurança social que o tenha convocado, precedendo parecer do assessor técnico de coordenação, quando a justificação apresentada estiver ligada ao foro médico.
+
+2 - Na avaliação das causas determinantes da falta do beneficiário, a prevalência da convocatória só pode ser posta em causa a título excecional, designadamente quando as mesmas se apresentarem de forma imperativa ou suscitarem adiamentos de intervenções médicas ou paramédicas, geradores de agravamento do estado de saúde ou de inequívoco atraso da respetiva melhoria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+#### Secção II — Arquivamento do processo
+
+###### Artigo 68.º — Arquivamento do processo de verificação
+
+O processo pericial de verificação é arquivado, com os efeitos previstos nos regimes jurídicos das correspondentes prestações:
+
+a) Em caso de falta injustificada do beneficiário aos exames médicos;
+
+b) Na sequência da segunda falta, ainda que justificada;
+
+c) (Revogada.)
+
+d) Quando for diagnosticada doença de causa profissional como fundamento exclusivo da incapacidade;
+
+e) Na sequência do disposto no n.º 7 do artigo 66.º, quando não haja lugar à realização do exame;
+
+f) Após deliberação definitiva dos meios técnicos de verificação;
+
+g) Quando o médico relator seja de parecer que não existe fundamento para considerar agravamento do estado de saúde.
+
+h) Em caso de regresso antecipado ao trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 69.º — Comunicação do arquivamento do processo de verificação
+
+1 - Tendo em vista a conclusão do processo, o arquivamento do processo de verificação e respetiva fundamentação é comunicado ao serviço responsável pela atribuição da prestação.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 70.º — Desmaterialização e devolução dos elementos auxiliares de diagnóstico
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - Os processos de verificação de incapacidade, deficiência e dependência são desmaterializados.
+
+4 - A informação médica, os meios auxiliares de diagnóstico e relatórios de médicos especialistas apresentados pelo beneficiário, sempre que não se encontrem em suporte eletrónico, são digitalizados e constam em anexo ao processo desmaterializado, quando justificativos da fundamentação dos atos médicos.
+
+5 - Os documentos referidos nos números anteriores, que fundamentam as deliberações das comissões e que não sejam passíveis de desmaterialização, são objeto de conservação pelo serviço de segurança social, pelo período legalmente previsto.
+
+6 - Sem prejuízo do referido nos n.os 3 e 4, o beneficiário deve manter na sua posse os documentos apresentados durante o prazo de cinco anos, a contar da data da deliberação da respetiva comissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+### Capítulo V — Regime financeiro
+
+###### Artigo 71.º — Encargos dos serviços de segurança social
+
+1 - Compete aos serviços de segurança social no âmbito de atuação do SVI, suportar os encargos resultantes de:
+
+a) Funcionamento das comissões;
+
+b) Actuação dos médicos relatores;
+
+c) Actuação dos assessores técnicos de coordenação;
+
+d) Funcionamento do conselho médico nacional;
+
+e) Exames médicos especializados e outros meios auxiliares de diagnóstico que não constituam encargos dos serviços de saúde para efeitos de realização de contraprova nas situações de suspeita de falsificação ou suspeição face à idoneidade dos elementos apresentados;
+
+f) (Revogada.)
+
+g) Transporte em ambulância no âmbito da verificação de incapacidades, de acordo com os valores previstos para deslocações no Serviço Nacional de Saúde, desde que os peritos médicos reconheçam expressamente a necessidade do recurso a este meio de transporte;
+
+h) Despesas com honorários do médico que representa o beneficiário nas comissões de reavaliação ou de recurso, quando a deliberação lhe seja favorável, nos termos da tabela legalmente estabelecida.
+
+2 - Os encargos previstos nas alíneas a) e b) do n.º 1 compreendem as despesas com o transporte dos peritos médicos, nas situações previstas no n.º 5 do artigo 66.º, desde que não imputáveis ao beneficiário nos termos legalmente previstos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+###### Artigo 72.º — Encargos dos serviços de saúde
+
+Compete aos serviços de saúde, designadamente aos serviços de cuidados primários, suportar os encargos relativos à informação médica referida no n.º 1 do artigo 45.º, incluindo os respeitantes aos meios auxiliares de diagnóstico que os fundamentem.
+
+###### Artigo 73.º — Encargos do beneficiário
+
+1 - Compete ao beneficiário suportar:
+
+a) As despesas com as comissões de reavaliação ou de recurso por si requeridas cuja deliberação lhe for desfavorável;
+
+b) Os honorários e eventuais despesas de transporte do médico por si designado para as comissões de reavaliação ou de recurso, caso não seja confirmada a incapacidade;
+
+c) As despesas resultantes de faltas injustificadas do próprio beneficiário ou do médico que o representa, desde que devidamente convocados;
+
+d) As despesas de informação médica referidas no n.º 3 do artigo 45.º
+
+2 - As despesas com os transportes não abrangidas pela alínea g) do n.º 1 do artigo 71.º constituem encargo do beneficiário.
+
+3 - Se o beneficiário não satisfizer o pagamento previsto no n.º 1, o serviço de segurança social toma as medidas adequadas com vista a cobrança coerciva da dívida.
+
+4 - Se o beneficiário se encontrar abrangido por instituição de segurança social diferente daquela que promover a verificação das incapacidades, deve a mesma dar conhecimento da dívida à instituição que o abrange, que actuará de harmonia com o disposto no número anterior.
+
+5 - Não são exigíveis aos beneficiários as despesas previstas nos números anteriores quando integradas em processos de revisão da incapacidade permanente promovidos pelo serviço de segurança social.
+
+6 - Os valores relacionados com as despesas a que se refere o n.º 1 são fixados por despacho do membro do Governo que tutela a área da segurança social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+### Capítulo VI — Regime de trabalho
+
+###### Artigo 74.º — Peritos médicos
+
+1 - A contratação dos peritos médicos é feita pelo serviço de segurança social, em regime de prestação de serviços na modalidade de contrato de avença.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 377/2007 - Diário da República n.º 216/2007, Série I de 2007-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383)
+
+###### Artigo 75.º — Condições de trabalho
+
+1 - As condições inerentes ao exercício das funções dos membros das comissões de verificação, de reavaliação e de recurso dos médicos relatores e dos assessores técnicos de coordenação bem como os respectivos critérios de contratação, são objecto de despacho ministerial.
+
+2 - Os contratos de avença regem-se pelo disposto no artigo 17.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, na redacção que lhe foi dada pelo Decreto-Lei n.º 299/85, de 29 de Julho, conjugada com o Decreto-Lei n.º 55/95, de 29 de Março, e são obrigatoriamente reduzidos a escrito.
+
+3 - As remunerações dos membros das comissões de verificação, de reavaliação e de recurso, bem como dos médicos relatores e dos assessores técnicos de coordenação, são fixadas em tabela aprovada por despacho ministerial e determinadas em função, respectivamente, do número de apreciações finais de verificação de incapacidade realizadas e dos relatórios concluídos e, no caso dos assessores técnicos de coordenação, da percentagem média de ocupação de horas de trabalho semanal.
+
+###### Artigo 76.º — Acumulação e incompatibilidades
+
+1 - O exercício da actividade pericial no âmbito do sistema de verificação de incapacidades em acumulação com o exercício de funções em estabelecimentos ou serviços de saúde obedece ao regime geral em vigor sobre incompatibilidades e acumulações, sem prejuízo do disposto nos números seguintes.
+
+2 - As funções exercidas pelos médicos do sistema de verificação de incapacidades não são compatíveis com o exercício de funções em estabelecimentos ou serviços de saúde integrados no Serviço Nacional de Saúde.
+
+3 - A acumulação das funções referidas no número anterior é, contudo, permitida desde que, cumulativamente, se verifiquem as seguintes condições:
+
+a) O médico não esteja sujeito ao regime de dedicação exclusiva;
+
+b) O respectivo regime de duração semanal de trabalho não exceda o período de trinta e cinco horas;
+
+c) Os horários a praticar não sejam total ou parcialmente coincidentes.
+
+###### Artigo 77.º — Impedimentos
+
+1 - Os peritos médicos vinculados ao sistema de verificação de incapacidades previsto neste diploma não podem intervir nos processos de verificação de beneficiários de que sejam médicos assistentes ou naqueles para os quais tenham contribuído com elementos de avaliação fora do âmbito das inerentes funções periciais.
+
+2 - Nos casos referidos no número anterior, os peritos médicos devem declarar o respectivo impedimento logo que recebida a comunicação da instituição para integrarem as comissões técnicas, acompanhada de listagem dos beneficiários convocados.
+
+###### Artigo 78.º — Faltas de comparência do perito médico
+
+1 - Nas suas faltas e impedimentos, os médicos do sistema de verificação de incapacidades são obrigados a fazer-se substituir, correndo por sua conta as correspondentes despesas.
+
+2 - Sempre que a natureza ou a duração do impedimento o justifique, nomeadamente quando este seja prolongado, pode a instituição outorgante suprir a falta do médico impedido através dos mecanismos previstos na lei para a prestação de trabalho não subordinado.
+
+### Capítulo VII — Sanções
+
+###### Artigo 79.º — Contra-ordenação
+
+Sem prejuízo da responsabilidade criminal que couber, as falsas declarações dos beneficiários relativas ao estado de insuficiência económica referido no artigo 23.º ou às causas que determinaram a iniciativa da verificação prevista no artigo 42.º constituem contra-ordenações, puníveis com coima de 50000$00 a 100000$00.
+
+### Capítulo VIII — Disposições finais
+
+###### Artigo 80.º — Articulação entre a saúde e a segurança social
+
+O acompanhamento da intervenção dos sectores da saúde e da segurança social é desenvolvido por uma comissão conjunta integrando elementos das áreas intervenientes, a designar por despacho conjunto dos respectivos ministros no prazo de três meses a contar da publicação do presente diploma.
+
+###### Artigo 81.º — Residentes em Macau
+
+As referências feitas no presente diploma a residentes no estrangeiro devem considerar-se como abrangendo também o território de Macau.
+
+###### Artigo 82.º — Normas de execução
+
+Os procedimentos administrativos, bem como os suportes de informação previstos nos artigos 10.º, 21.º, 25.º, 26.º, 43.º, 54.º, 74.º, 75.º e 80.º, considerados necessários à aplicação deste diploma, são aprovados pelo Ministro da Solidariedade e Segurança Social, salvo se tiverem matéria da tutela dos Ministros da Saúde ou para a Qualificação e o Emprego, caso em que a aprovação será conjunta.
+
+###### Artigo 83.º — Remissões
+
+As remissões feitas na legislação vigente para os diplomas revogados devem considerar-se feitas para o presente diploma.
+
+###### Artigo 84.º — Revogação
+
+1 - O presente diploma revoga a seguinte legislação:
+
+Decreto-Lei n.º 144/82, de 27 de Abril;
+
+Decreto-Lei n.º 236/92, de 27 de Outubro;
+
+Decreto Regulamentar n.º 8/91, de 14 de Março;
+
+Despacho n.º 133/SESS/89, de 24 de Janeiro de 1990;
+
+Despacho n.º 57/SESS/91, de 1 de Julho;
+
+Despacho n.º 106/SESS/92, de 21 de Novembro;
+
+Despacho n.º 108/SESS/92, de 23 de Novembro;
+
+Despacho n.º 3/SESS/93, de 20 de Janeiro;
+
+Despacho n.º 34/SESS/93, de 13 de Maio;
+
+Despacho n.º 43/SESS/93, de 14 de Junho;
+
+Despacho n.º 59/SESS/93, de 9 de Agosto;
+
+Despacho n.º 62/SESS/96, de 23 de Dezembro.
+
+2 - Mantêm-se em vigor, até à respectiva revisão, os formulários de informação médica previstos no presente diploma, aprovados por despacho conjunto dos ministros competentes.
+
+###### Artigo 85.º — Inicio de vigência
+
+O presente diploma entra em vigor no 1.º dia do 3.º mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de Outubro de 1997. - António Manuel de Oliveira Guterres - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues.
+
+Promulgado em 21 de Novembro de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 28 de Novembro de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -1,0 +1,404 @@
+---
+schema_version: '1.0'
+id: pt:dre:612417:por
+title: Decreto-Lei n.º 53/89
+short_title: null
+summary: Estabelece regras sobre as características, acondicionamento e rotulagem dos cafés e sucedâneos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 53/89
+official_date: null
+publication_date: '1989-02-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/1989, Série I de 1989-02-22
+  number: '44'
+  series: I
+  supplement: null
+  pages: 749 - 753
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04400/07490753.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '612417'
+  dre_path: /dr/detalhe/decreto-lei/53-1989-612417
+  internal: pt:dre:612417:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1989-612417
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1989-612417
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: aa2f587c321617c8b18a98ef20b43d0ab5c4b0ff64286fa15ccdd2c6608bc7b4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Café
+- Comércio
+- Contra-ordenação
+- Controlo de Qualidade
+- Definição de Competências
+- Embalagem
+- Especificação Técnica
+- Etiquetagem
+- Instituto Português da Qualidade
+relationships:
+- type: amended_by
+  target: pt:dre:496707:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:381294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674809:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348498:por
+  label: Rectificado [no referente aos arts. 4º, 5º e 7º] pela DECL.DD1261.1989.03.22.PCM, DR.IS [75]Supl de 31.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348498
+  date: '1989-03-23'
+- type: repealed_by
+  target: pt:dre:164208:por
+  label: "Revogada a al b) do art. 2º, as als f), g), h), l), m) e n) do art. 4º e os arts. 3º, 7º e 8º, no que respeita aos\
+    \ extractos de café e extractos de chicória, pelo DEC LEI.124/2001.2001.04.17.MADRP,DR.IS-A [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2001-164208
+  date: '2001-04-17'
+- type: repealed_by
+  target: pt:dre:496707:por
+  label: "Revogado pelo DEC LEI.78/2013.11.06.2013.MAMAOT, DR.IS [111] de 11.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2013-496707
+  date: '2013-06-11'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:56:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 53/89
+
+de 22 de Fevereiro
+
+Muito embora a legislação existente sobre cafés tenha já tomado em consideração algumas das regras comunitárias relativas a este tipo de produtos, as alterações entretanto surgidas e a necessidade de se alargar o âmbito da legislação à caracterização de certos produtos e matérias-primas até agora não regulados exigem a sua revisão e adequação à conjuntura actual.
+
+Com efeito, se é certo que, por um lado, a entrada de Portugal na CEE implica a transposição para o direito interno das directivas publicadas, não é menos verdade, por outro lado, que a mudança de posição de país exportador para país importador de café exige a adopção de medidas tendentes a defender os interesses nacionais e a assegurar os direitos dos consumidores.
+
+Com o presente diploma, que fixa os parâmetros fundamentais para a caracterização dos diferentes tipos de café, seus sucedâneos e respectivas matérias-primas, estabelece regras para o seu acondicionamento e rotulagem e sintetiza a legislação dispersa existente, pretende-se atingir esses objectivos, promovendo-se simultaneamente condições que garantam maior transparência do mercado e evitem situações de concorrência desleal entre os próprios agentes económicos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O presente diploma estabelece as características, formas de acondicionamento e regras de rotulagem a que devem obedecer o café e seus extractos, os sucedâneos de café e seus extractos, bem como as misturas destes produtos.
+
+###### Artigo 2.º — Definições
+
+Para efeitos deste diploma, entende-se por:
+
+a) «Café» - a semente ou grão de plantas cultivadas do género Coffea, bem como os produtos derivados, em diferentes estados de transformação, utilizados como género alimentício;
+
+b) «Extracto de café» - o produto, mais ou menos concentrado, contendo os princípios solúveis e aromáticos do café e obtido a partir deste, torrado e moído, por processos físicos, utilizando apenas a água como meio de extracção, com exclusão de qualquer processo de hidrólise por adição de ácido ou de base, podendo conter também óleos insolúveis que provenham do café, bem como vestígios de outros componentes insolúveis não provenientes da água de extracção e, eventualmente, vestígios de antiaglomerantes no caso previsto no artigo 5.º;
+
+c) «Sucedâneo de café» - o produto vegetal torrado que, depois de moído, serve para preparar infusão inócua destinada a substituir o café como bebida;
+
+d) «Extracto de sucedâneo de café» - o produto, mais ou menos concentrado, obtido de sucedâneo de café por extracção com água, excluindo os processos de hidrólise por adição de ácido ou de base.
+
+###### Artigo 3.º — Matérias-primas
+
+1 - No fabrico dos produtos de café a que se refere o presente diploma apenas é permitido utilizar como matéria-prima o café verde proveniente de frutos sãos e maduros, correctamente preparado, descascado e desprovido do tegumento exterior, em bom estado de conservação e de sanidade, com cor própria e cheiro normal, cuja infusão apresente sabor e aroma próprios do tipo de café e ainda as seguintes características:
+
+a) Teor de corpos estranhos - máx. 1%;
+
+b) Teor de defeitos provenientes do fruto do cafeeiro, com exclusão dos grãos partidos - máx. 10%;
+
+c) Perda de massa por secagem - máx. 12,5%.
+
+2 - Os sucedâneos de café apenas podem ser obtidos a partir de:
+
+a) Raiz das variedades cultivadas de chicória;
+
+b) Semente de cevada;
+
+c) Semente de centeio;
+
+d) Grão preto.
+
+3 - Os produtos antes mencionados devem apresentar-se devidamente limpos, secos, em bom estado de conservação e com características próprias para o consumo humano.
+
+4 - As sementes de cevada e centeio devem ainda apresentar-se isentas de glumas e glumelas e com um máximo de 3% de casca solta.
+
+###### Artigo 4.º — Denominações e características dos produtos
+
+1 - Os produtos obtidos das matérias-primas referidas no artigo anterior só podem ser comercializadas nas seguintes formas de apresentação e sob as seguintes denominações:
+
+a) «Café torrado» - o produto obtido por torra de café verde, com a cor e o aroma próprios e ainda as seguintes características:
+
+I) Teor de corpos estranhos ao café em relação à matéria seca - máx. 0,5%;
+
+II) Teor de grãos defeituosos, incluindo os partidos e os cabornizados - máx. 8%;
+
+III) Perda e massa por secagem - máx. 5%;
+
+IV) Teor de cinza em relação à matéria seca - máx. 5%;
+
+V) Teor de cloretos na cinza, expresso em cloro - máx. 1%;
+
+VI) Extracto aquoso em relação à matéria seca:
+
+Máx. 20% nas arábicas;
+
+Máx. 30% nas robustas;
+
+VII) Teor de cafeína em relação à matéria seca:
+
+Mín. 1,2% nas arábicas;
+
+Mín. 2% nas robustas;
+
+b) «Café torrado moído» - o produto obtido por moenda do café torrado, mantendo as características deste, excepto quanto à perda de massa por secagem, cujo limite máximo é de 6%;
+
+c) «Café torrefacto» - o café torrado em grão, adicionado de açúcares, melaço de cana ou extrato concentrado de alfarroba, durante o processo de torrefacção, numa proporção que não ultrapasse 15% (m/m) do café verde e com as características do café torrado, excepto quanto às seguintes:
+
+I) Extracto aquoso em relação à matéria seca:
+
+Máx. 25% nas arábicas;
+
+Máx. 35% nas robustas;
+
+II) Teor de cafeína em relação à matéria seca:
+
+Mín. 1% nas arábicas;
+
+Mín. 1,7% nas robustas;
+
+d) «Café torrefacto moído» - o produto obtido por moenda do café torrefacto, mantendo as características deste, excepto quanto à perda de massa por secagem, cujo limite máximo é de 6%;
+
+e) «Mistura de café torrado com café torrefacto» - a mistura de café torrado e café torrefacto, em percentagem variável, mantendo cada um deles as suas características específicas;
+
+f) «Extracto seco de café», «café solúvel» ou «café instantâneo» - o extracto seco de café, em pó, grânulos, palhetas, barras ou qualquer outra forma sólida, com um teor mínimo de 95% (m/m) de matéria seca proveniente do café, contendo apenas substâncias resultantes da respectiva extracção;
+
+g) «Extracto de café em pasta» - o extracto do café, no estado pastoso, com um teor de 70% a 85% (m/m) de matéria seca proveniente do café, contendo somente substâncias resultantes da respectiva extracção;
+
+h) «Extracto líquido de café» - o extracto de café, no estado líquido, com um teor de 15% a 55% (m/m) de matéria seca proveniente do café, podendo apenas conter, além das substâncias resultantes da respectiva extracção, açúcares, torrados ou não, numa proporção que não ultrapasse os 12% (m/m);
+
+i) «Café-bebida» - a bebida obtida a partir da água e do café torrado moído, numa proporção deste não inferior a 6 g por chávena ou 12 g/dl de bebida;
+
+j) «Chicória torrada» - o produto obtido das raízes das variedades cultivadas da Cichorium intybus L. torradas - moídas ou granuladas -, eventualmente adicionado de óleos ou gorduras alimentares e ou açúcares ou melaços durante o processo de torrefacção, em teor não superior a 3%, e apresentando ainda as seguintes características:
+
+I) Perda de massa por secagem - máx. 9%;
+
+II) Teor de cinza em relação à matéria seca - máx. 10%;
+
+III) Extracto aquoso em relação à matéria seca - mín. 60%;
+
+l) «Chicória solúvel» ou «chicória instantânea» - o extracto de chicória, em pó, grânulos, palhetas, barras ou qualquer outra forma sólida, com um teor mínimo de 95% (m/m) de matéria seca proveniente da chicória, contendo apenas substâncias resultantes da respectiva extracção e, eventualmente, substâncias estranhas à chicória, num teor máximo de 1%;
+
+m) «Extracto de chicória em pasta» - o extracto de chicória, no estado pastoso, com um teor de 70% a 85% (m/m) de matéria seca proveniente da chicória, contendo apenas substâncias resultantes da respectiva extracção e, eventualmente, substâncias que não resultem da chicória, num teor máximo de 1%;
+
+n) «Extracto líquido de chicória» - o extracto de chicória, no estado líquido, com um teor de 25% a 55% (m/m) de matéria seca solúvel proveniente da chicória, contendo apenas substâncias resultantes da respectiva extracção e, eventualmente, adicionados de açúcares, torrados ou não, numa proporção que não ultrapasse os 35% (m/m);
+
+o) «Cevada torrada» - o produto obtido por torra das sementes das variedades cultivadas da Hordeum distichum L., moído ou não, com as seguintes características:
+
+1) Perda de massa por secagem - máx 7%;
+
+2) Teor de cinza em relação à matéria seca - máx. 3%;
+
+3) Extracto aquoso em relação à matéria seca - mín. 60%;
+
+p) «Cevada solúvel» ou «cevada instantânea» - o extracto de cevada, em pó, em grânulos ou qualquer outra forma sólida, com um teor mínimo de 95% (m/m) de matéria seca proveniente da cevada, contendo apenas elementos provenientes da respectiva extracção e, eventualmente, substâncias estranhas à cevada, num teor máximo de 1%;
+
+q) «Mistura com ...% de café», seguida ou acompanhada da designação «torrada moída» - a mistura de café com um ou mais dos seus sucedâneos, torrados e moídos, contendo de 20% a 60% de café, de modo a garantir na mistura final um teor de cafeína correspondente à percentagem de café indicada no rótulo, considerando-se sempre que o teor de cafeína do café utilizado é de, pelo menos, 2%;
+
+r) «Mistura de ... com ...», seguida ou acompanhada da designação «torrada moída» - a mistura de dois ou mais sucedâneos de café, torrados e moídos, indicados pela ordem decrescente da proporção ponderal;
+
+s) «Mistura solúvel com ...% de café» - o extracto obtido a partir de uma mistura de 20% a 60% de café, com um ou mais dos seus sucedâneos, em pó ou noutra forma sólida, com um teor mínimo de 95% (m/m) de matéria seca proveniente daqueles produtos, contendo apenas substâncias resultantes da respectiva extracção e de modo a garantir no produto final um teor de cafeína correspondente à percentagem de café indicada no rótulo, considerando-se sempre que o teor de cafeína do extracto de café utilizado é de, pelo menos, 4,6%;
+
+t) «Mistura solúvel de ... com ...» - o extracto obtido a partir de uma mistura de dois ou mais sucedâneos de café, em pó, ou outra forma sólida, com um teor mínimo de 95% (m/m) de matéria seca proveniente daqueles produtos, contendo apenas substâncias resultantes da respectiva extracção.
+
+2 - Os géneros alimentícios definidos nas alíneas a) a h) do número anterior devem qualificar-se de «descafeinados» sempre que apresentem um teor de cafeína, expresso em cafeína anidra, não superior a 0,10% (m/m) nos cafés torrados e a 0,30% (m/m) da respectiva matéria seca proveniente do café nos extractos de café.
+
+###### Artigo 5.º — Aditivos e auxiliares tecnológicos
+
+1 - No fabrico do café solúvel e de extractos (em pó) de sucedâneos de café, destinados a serem utilizados em distribuidores automáticos e expressamente rotulados como tal, é permitido o uso dos antiaglomerantes a seguir mencionados, estremes ou em mistura, num teor total que não ultrapasse 0,5%:
+
+551 - Sílica (óxido de silício ou anidrido silícico);
+
+552 - Estearato de magnésio;
+
+Alumínio-silicato de cálcio e sódio;
+
+Alumínio-silicato de sódio.
+
+2 - Como solvente de extracção da cafeína para obtenção dos produtos descafeinados, apenas é permitido o uso do diclorometano, admitindo-se como resíduo máximo um teor de 5 mg/kg no produto final.
+
+###### Artigo 6.º — Métodos de análise
+
+Para efeitos de verificação das características dos produtos referidos no artigo 4.º serão utilizados os métodos de colheita, de preparação da amostra e de análise definidos nas respectivas normas portuguesas ou, na sua falta, os estabelecidos pelo Instituto de Qualidade Alimentar.
+
+###### Artigo 7.º — Acondicionamento
+
+1 - Os géneros alimentícios abrangidos pelo presente diploma, quando pré-embalados e destinados ao consumidor final, devem ser acondicionados em embalagens adequadamente vedadas, de material inerte e impermeável em relação ao conteúdo, inócuo e que garanta a conservação das suas características organolépticas.
+
+2 - O café, os sucedâneos de café e suas misturas apenas podem ser vendidos a retalho, não pré-embalados, em estabelecimentos dotados de boas condições higiénicas e que disponham de sistemas de acondicionamento e de exposição adequados à natureza dos produtos a comercializar.
+
+3 - A venda a retalho de café moído, não pré-embalado, só e permitida a pedido do comprador e desde que a moagem seja efectuada em moinho colocado à vista do público.
+
+4 - A venda a retalho de misturas de café sucedâneos, moídas, não pré-embaladas, apenas é permitida em estabelecimentos que disponham de acomodações à vista do consumidor, onde essas misturas se encontrem devidamente identificadas, com indicação das percentagens dos respectivos ingredientes.
+
+5 - Quando comercializados a retalho, em embalagens entre 25 g e 10 kg, o café solúvel, o extracto de café em pasta, a chicória solúvel, o extracto de chicória em pasta, a cevada solúvel e suas misturas só poderão ser vendidas nas quantidades líquidas de 50 g, 100 g, 250 g, este último somente para os extractos e respectivas misturas destinadas aos aparelhos de distribuição automática, 300 g, apenas para os extractos de café, 500 g, 750 g, 1 kg, 1,5 kg, 2 kg, 2,5 kg, 3 kg e outros múltiplos do quilograma.
+
+6 - Os produtos não referidos no número anterior deverão ser comercializados a retalho em embalagens com as quantidades líquidas de 125 g, excepto para misturas, 250 g, 500 g, 1 kg, 1,5 kg, 2 kg, 2,5 kg, 3 kg, 4 kg, 5 kg e 10 kg.
+
+7 - Para o café torrado moído e o café solúvel, descafeinados ou não, são ainda permitidas embalagens com a quantidade líquida mínima de, respectivamente, 6 g e 2 g, designadas por «dose individual».
+
+8 - Nos hotéis, restaurantes e estabelecimentos similares o café solúvel só pode ser servido ao consumidor em embalagens designadas por «dose individual».
+
+###### Artigo 8.º — Rotulagem
+
+1 - Aos produtos abrangidos pelo presente diploma e destinados ao consumidor final é aplicável a legislação geral sobre rotulagem, devendo ainda observar-se o seguinte:
+
+a) A denominação de venda é a que lhe corresponde, segundo o estabelecido no artigo 4.º, seguida ou acompanhada das seguintes menções:
+
+1) «Descafeinado», nos produtos a que se refere o n.º 2 do artigo 4.º;
+
+2) «Concentrado», no extracto líquido de café com um teor de matéria seca proveniente do café superior a 25% (m/m) e no extracto líquido de chicória com um teor de matéria seca proveniente da chicória superior a 45% (m/m);
+
+3) «Torrado com açúcar», no extracto líquido de café e no extracto líquido de chicória, obtidos a partir de matéria-prima torrada com açúcar, devendo ser indicada a respectiva designação específica se forem utilizados outros açúcares que não a sacarose;
+
+4) «Açucarado», ou «conservado com açúcar», ou ainda «com açúcar adicionado», no extracto líquido de café e no extracto líquido de chicória, quando o açúcar for adicionado à matéria-prima após a torrefacção, devendo ser indicada a respectiva designação específica se forem utilizados outros açucares que não a sacarose;
+
+b) Para efeitos de indicação da data de durabilidade mínima, os produtos a que se refere o presente diploma devem ser considerados com período de duração inferior a dezoito meses, exceptuando os extractos solúveis.
+
+2 - Para além do disposto no número anterior, a rotulagem terá de incluir ainda as seguintes indicações:
+
+a) A percentagem de café, na mistura com ...% de café e na mistura solúvel com ...% de café;
+
+b) As percentagens de café torrado e de café torrefacto, no produto denominado «Mistura de café torrado com café torrefacto»;
+
+c) O teor mínimo de matéria seca proveniente do café, expresso em percentagem (m/m) em relação ao produto final, no extracto de café em pasta e no extracto líquido de café;
+
+d) O teor mínimo de matéria seca proveniente da chicória, expresso em percentagem (m/m) em relação ao produto final, no extracto de chicória em pasta e no extracto líquido de chicória;
+
+e) A menção «Destinado aos distribuidores automáticos», no café solúvel e na chicória solúvel, quando adicionados de antiaglomerantes.
+
+3 - Na rotulagem dos produtos abrangidos por este diploma não podem figurar menções qualificativas, tais como «extra», «especial», «superior», «super» ou outra semelhante.
+
+4 - As menções referidas no número anterior podem, no entanto, continuar a figurar na rotulagem, desde que já estejam incluídas em marcas registadas à data da entrada em vigor do presente diploma.
+
+###### Artigo 9.º — Produtos não pré-embalados
+
+Na rotulagem dos produtos caracterizados no artigo 4.º, mas não destinados a ser entregues ao consumidor final, apenas são obrigatórias as seguintes menções, apostas sobre a embalagem ou rótulo ou constantes de um documento de acompanhamento:
+
+a) Denominação de venda;
+
+b) Quantidade líquida, expressa em unidades de massa ou volume, excepto no caso de produtos apresentados a granel;
+
+c) Uma menção que permita identificar o lote;
+
+d) Nome, firma ou denominação social e morada ou sede do fabricante ou importador.
+
+###### Artigo 10.º — Regime sancionatório aplicável
+
+São aplicáveis as disposições do artigo 30.º do [Decreto-Lei n.º 303/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1983-452567), de 28 de Junho, e dos artigos 24.º, 40.º, 58.º e 64.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+
+###### Artigo 11.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) Portaria de 18 de Setembro de 1903, publicada em 24 do mesmo mês, na parte respeitante ao café;
+
+b) [Portaria n.º 14617](https://diariodarepublica.pt/dr/detalhe/portaria/14617-1953-649521), de 14 de Novembro de 1953;
+
+c) [Portaria n.º 17330](https://diariodarepublica.pt/dr/detalhe/portaria/17330-1959-431989), de 31 de Agosto de 1959;
+
+d) [Portaria n.º 210/73](https://diariodarepublica.pt/dr/detalhe/portaria/210-1973-674809), de 26 de Março;
+
+e) [Decreto-Lei n.º 245/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1979-381294), de 25 de Julho;
+
+f) [Portaria n.º 268/80](https://diariodarepublica.pt/dr/detalhe/portaria/268-1980-474129), de 20 de Maio;
+
+g) [Portaria n.º 617/80](https://diariodarepublica.pt/dr/detalhe/portaria/617-1980-460980), de 15 de Setembro.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente diploma entra em vigor seis meses após a data da sua publicação, com excepção do n.º 4 do artigo 8.º, que entra imediatamente em vigor, e dos artigos 8.º, n.os 1, 2 e 3, e 9.º, cuja vigência terá início um ano após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 9 de Fevereiro de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 9 de Fevereiro de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

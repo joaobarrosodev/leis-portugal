@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31997R2064:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R2064-20010310",
+ "dre_path": null,
+ "source_lastmod": "2001-03-10",
+ "versions": [
+  {
+   "date": "1997-10-23",
+   "future": false,
+   "celex": "31997R2064",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "63f8073b86ca710f",
+    "6c4f35049ec72f1a",
+    "00c11f412d2b3f79",
+    "72d16f6c122d0d14",
+    "43b09ec2a9eed7a4",
+    "ceba7e5a231fab83",
+    "4d17abd3c3cfc37d",
+    "cd1514c348215953",
+    "1584f8797308be54",
+    "81d8b41781e52595",
+    "085a4045c64b4c8e",
+    "d28f04301a0301f0",
+    "8313ad7b949bacab",
+    "5b6f0c26b1275e95",
+    "a072510fa1e68e01",
+    "b51f18b91f5e4d1d",
+    "9de3d6ae785cb0c4",
+    "e154a22502fe46c9",
+    "78ed442d0bafe17a",
+    "57926ea87976e5bb"
+   ]
+  },
+  {
+   "date": "2001-03-10",
+   "future": false,
+   "celex": "01997R2064-20010310",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO (nº 3 do artigo 2º)",
+    "Suprime ANEXO II — >INÍCIO DE GRÁFICO>"
+   ],
+   "fragments": [
+    "b2364b357392bfd1"
+   ]
+  }
+ ],
+ "fragments": {
+  "63f8073b86ca710f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 2064/97 da Comissão de 15 de Outubro de 1997 que estabelece normas de execução do Regulamento (CEE) nº 4253/88 do Conselho, no que respeita ao controlo financeiro, pelos Estados-membros, das operações co-financiadas pelos Fundos estruturais** *Jornal Oficial nº L 290 de 23/10/1997 p. 0001 - 0007*\n\nREGULAMENTO (CE) Nº 2064/97 DA COMISSÃO de 15 de Outubro de 1997 que estabelece normas de execução do Regulamento (CEE) nº 4253/88 do Conselho, no que respeita ao controlo financeiro, pelos Estados-membros, das operações co-financiadas pelos Fundos estruturais\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) nº 4253/88 do Conselho, de 19 de Dezembro de 1988, que estabelece as disposições de aplicação do Regulamento (CEE) nº 2052/88 no que respeita à coordenação entre as intervenções dos diferentes Fundos estruturais, por um lado, e entre estas e as do Banco Europeu de Investimento e dos outros instrumentos financeiros existentes, por outro (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 3193/94 (2), e, nomeadamente, o nº 1, quarto parágrafo, do seu artigo 23º,\n\nConsiderando que foram consultados o Comité Consultivo para o Desenvolvimento e a Conversão das Regiões e o Comité criado nos termos do artigo 124º do Tratado;\n\nConsiderando que o nº 1 do artigo 23º do Regulamento (CEE) nº 4253/88 estatui os princípios que presidem ao controlo financeiro a que os Estados-membros devem submeter as operações co-financiadas pelos Fundos estruturais;\n\nConsiderando que é necessário definir pormenorizadamente determinadas exigências mínimas que o controlo financeiro deve satisfazer para atingir um nível aceitável em toda a Comunidade;\n\nConsiderando que o presente regulamento, atendendo às especificidades constitucionais e administrativas dos Estados-membros, deve ser completado por disposições administrativas adequadas a estabelecer entre a Comissão e cada Estado-membro;\n\nConsiderando que o presente regulamento deve aplicar-se às formas de intervenção previstas no nº 2 do artigo 5º do Regulamento (CEE) nº 2052/88, de 24 de Junho de 1988, relativo às missões dos fundos com finalidade estrutural, à sua eficácia e à coordenação das suas intervenções, entre si, com as intervenções do Banco Europeu de Investimento e com as dos outros instrumentos financeiros existentes (3), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 3193/94, desde que as formas de intervenção sejam administradas pelos Estados-membros;\n\nConsiderando que a gestão e os sistemas de controlo dos Estados-membros devem assegurar uma execução eficaz e adequada das operações financiadas pelos Fundos estruturais;\n\nConsiderando que devem ser estabelecidas regras destinadas à condução dos controlos pelos Estados-membros, bem como disposições com vista a consultas periódicas entre os Estados-membros e a Comissão destinadas a maximizar os efeitos positivos dos recursos globais consagrados ao controlo, quer ao nível nacional quer comunitário;\n\nConsiderando que os Estados-membros devem assegurar a investigação e um tratamento satisfatório das irregularidades detectadas e comunicadas pelos serviços de controlo nacionais e comunitários;\n\nConsiderando que os Estados-membros devem, no contexto do encerramento das formas de intervenção, apresentar à Comissão um relatório com carácter independente que forneça uma conclusão global relativamente à validade do pedido de pagamento final e que permita a identificação a um tratamento satisfatório de quaisquer deficiências ou irregularidades;\n\nConsiderando que os Estados-membros devem apresentar anualmente à Comissão um relatório sobre a aplicação do presente regulamento;\n\nConsiderando que, por força do disposto no nº 1, segundo parágrafo, do artigo 23º do Regulamento (CEE) nº 4253/88, os Estados-membros devem comunicar à Comissão a descrição dos seus sistemas de controlo e de gestão; que tal descrição deve ser, quando necessário, completada e actualizada;\n\nConsiderando que, no caso de formas de intervenção que envolvam mais de um Estado-membro, deve ser prevista uma cooperação administrativa entre os Estados-membros em causa e a Comissão;\n\nConsiderando que os Estados-membros devem poder aplicar livremente regras de controlo nacionais mais rigorosas do que as estabelecidas no presente regulamento;\n\nConsiderando que o presente regulamento não deve afectar as disposições do Regulamento (Euratom, CE) nº 2185/96 do Conselho, de 11 de Novembro de 1996, relativo às inspecções e verificações no local efectuadas pela Comissão para proteger os interesses financeiros da Comunidade Europeia contra a fraude e outras irregularidades (4), nem o disposto no Regulamento (CE) nº 1681/94 da Comissão, de 11 de Julho de 1994, relativo às irregularidades e à recuperação dos montantes pagos indevidamente no âmbito do financiamento das políticas estruturais, assim como à organização de um sistema de informação nesse domínio (5);\n\nConsiderando que, de acordo com o artigo 214º do Tratado CE, é necessário proibir a divulgação, a pessoas não autorizadas, das informações abrangidas pelo segredo profissional obtidas durante os controlos previstos pelo presente regulamento;\n\nConsiderando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Estruturas Agrícolas e do Desenvolvimento Rural e com o parecer do Comité de Gestão Permanente das Estruturas da Pesca,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6c4f35049ec72f1a": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nO presente regulamento aplica-se às formas de intervenção previstas no nº 2 do artigo 5º do Regulamento (CEE) nº 2052/88 e administradas pelos Estados-membros."
+  },
+  "00c11f412d2b3f79": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os sistemas de gestão e de controlo dos Estados-membros devem:\n\na) Assegurar uma execução correcta das formas de intervenção, de acordo com os objectivos de boa gestão financeira;\n\nb) Permitir comprovar de maneira satisfatória a validade dos pedidos de pagamentos adiantados e de pagamento dos saldos com base nas despesas efectivamente realizadas;\n\nc) Prever uma pista de controlo suficiente;\n\nd) Especificar a repartição das responsabilidades e, em especial, os controlos efectuados aos vários níveis para garantir o valor da certificação;\n\ne) Facilitar a identificação de eventuais deficiências ou riscos na execução das acções e dos projectos;\n\nf) Permitir a definição de medidas a tomar para corrigir as deficiências, riscos e irregularidades verificados durante a execução dos projectos, em especial, no que se refere à gestão financeira.\n\n2. Para efeitos do presente regulamento, uma pista de controlo suficiente deve permitir:\n\na) Confrontar os montantes globais certificados à Comissão com os registos de despesa individuais e documentos comprovativos aos vários níveis administrativos e do beneficiário final;\n\nb) Verificar a contribuição e as transferências das verbas disponibilizadas, nacionais e comunitárias.\n\n3. No anexo I é feita uma descrição indicativa das informações necessárias para a obtenção de uma pista de controlo suficiente."
+  },
+  "72d16f6c122d0d14": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros organizarão, com base em amostragem apropriada, controlos a projectos ou acções (a seguir designados «controlos»), com vista a, em especial:\n\na) Avaliar a eficiência dos sistemas de gestão e de controlo instalados;\n\nb) Examinar um determinado número de declarações de despesas, seleccionadas após uma análise de risco, efectuadas aos vários níveis em causa.\n\n2. Os controlos efectuados antes do encerramento de cada forma de intervenção incidirão sobre pelo menos 5 % da despesa total elegível e sobre uma amostra representativa dos projectos ou acções aprovados, tendo em conta o disposto no nº 3.\n\nEm relação às formas de intervenção aprovadas antes da entrada em vigor do presente regulamento, a percentagem pode ser reduzida proporcionalmente.\n\nOs Estados-membros procurarão realizar os controlos de forma a distribuí-los regularmente pelo período em causa.\n\n3. A amostra dos projectos ou das acções a controlar deve:\n\na) Considerar a necessidade de efectuar controlos a projectos a acções de natureza e dimensão suficientemente variados;\n\nb) Ter em conta todos os factores de risco identificados pelos controlos nacionais ou comunitários;\n\nc) Ter em conta a concentração dos projectos sob determinadas autoridades responsáveis pela sua execução ou determinados beneficiários finais, de forma a que as principais autoridades responsáveis pela execução e os principais beneficiários finais sejam sujeitos a pelo menos um controlo antes do encerramento de cada forma de intervenção."
+  },
+  "43b09ec2a9eed7a4": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nAtravés dos controlos referidos, os Estados-membros devem procurar verificar:\n\na) A aplicação prática e a eficácia dos sistemas de gestão e de controlo;\n\nb) Para um número adequado de registos contabilísticos, a sua correspondência com os respectivos documentos comprovativos, junto dos beneficiários finais e das autoridades intermediárias;\n\nc) A existência de uma pista de controlo suficiente;\n\nd) No que respeita a um número adequado de elementos de despesas, que a natureza e o calendário da despesa relevante (autorizações e pagamentos) correspondem às regras comunitárias, às características físicas do projecto aprovadas e aos trabalhos efectivamente executados;\n\ne) Que o destino efectivo ou previsto do projecto corresponde ao destino enunciado no pedido de co-financiamento comunitário;\n\nf) Que as contribuições financeiras da Comunidade não excedem os limites fixados no artigo 13º do Regulamento (CEE) nº 2052/88 ou outras disposições comunitárias aplicáveis e que foram efectivamente pagas aos beneficiários finais sem reduções ou atrasos injustificados;\n\ng) Que o co-financiamento nacional foi efectivamente disponibilizado;\n\nh) Que as acções co-financiadas foram executadas de acordo com o disposto no nº 1 do artigo 7º do Regulamento (CEE) nº 2052/88."
+  },
+  "ceba7e5a231fab83": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs controlos devem determinar se os problemas eventualmente detectados são de natureza sistemática e se, nesse caso, correm o risco de ocorrer igualmente noutros projectos promovidos pelo mesmo beneficiário final ou geridos pela mesma autoridade de execução; devem, também, identificar as causas desses problemas e a natureza das eventuais análises complementares a efectuar e das medidas preventivas ou correctivas a tomar."
+  },
+  "4d17abd3c3cfc37d": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nCada Estados-membros e a Comissão consultar-se-ão pelo menos uma vez por ano com vista a coordenarem os seus programas de controlos, de forma a maximizarem os efeitos positivos dos recursos globais afectados a esses controlos ao nível nacional e comunitário. Examinarão, nessa ocasião, as técnicas de análise de risco a utilizar e terão em conta os controlos, relatórios elaborados e comunicações efectuados recentemente pelas autoridades nacionais de controlo, a Comissão e o Tribunal de Contas Europeu."
+  },
+  "cd1514c348215953": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os Estados-membros devem investigar e dar solução adequada a irregularidades relatadas após controlos nacionais ou comunitários.\n\n2. Se a qualquer irregularidade não tiver sido dado tratamento adequado no prazo de seis meses após a sua comunicação à autoridade de execução competente, o Estado-membro informará a Comissão dessa situação, a não ser que já o tenha feito de acordo com o Regulamento (CE) nº 1681/94.\n\n3. Para efeitos dos nºs 1 e 2, considera-se tratamento adequado a apresentação, pelo beneficiário final ou pela autoridade responsável pela execução, à pessoa ou organização competente, responsável pelo controlo no Estado-membro, de prova suficiente de que a irregularidade verificada não existe ou que foi corrigida. No caso de irregularidades de natureza sistemática, é também necessário, para que o tratamento seja adequado, que tenham sido adoptadas as medidas necessárias para corrigir todos os casos que não tenham sido identificados individualmente pelos controlos, a fim de prevenir riscos de repetição.\n\n4. É possível verificar se o tratamento foi satisfatório mediante exame das cópias dos registos contabilísticos e documentos comprovativos correspondentes ou, se for caso disso, de quaisquer outros que possam mostrar-se necessários."
+  },
+  "1584f8797308be54": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. O mais tardar no momento do pedido de pagamento do saldo final e da declaração final de despesas relativa a cada forma de intervenção, os Estados-membros apresentarão à Comissão um relatório, de que é dado um modelo indicativo no anexo II, elaborado por uma pessoa ou organização funcionalmente independente do serviço responsável pela execução, que resuma as conclusões dos controlos efectuados nos anos anteriores e estabeleça a validade do pedido de pagamento do saldo final e a legalidade e regularidade das operações em que se baseia a declaração final de despesa.\n\n2. Do relatório referido no nº 1 devem constar as deficiências importantes verificadas ao nível da gestão ou do controlo e a frequência das irregularidades apuradas. Se essas deficiências e irregularidades impedirem o estabelecimento da validade do pedido de pagamento do saldo final da ajuda e da declaração final das despesas, o relatório deve igualmente referir uma estimativa da dimensão do problema e uma avaliação do seu impacto financeiro.\n\nNos casos referidos no presente número, a Comissão fará efectuar um controlo suplementar, a fim de identificar as irregularidades e obter a sua correcção num prazo que fixará."
+  },
+  "81d8b41781e52595": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros informarão a Comissão todos os anos, antes de 30 de Junho, e pela primeira vez até 30 de Junho de 1998, sobre a forma como aplicaram o presente regulamento durante o ano civil anterior, fazendo referência especial às obrigações que lhes são impostas pelo artigo 2º e actualizando, se for caso disso, a descrição dos seus sistemas de gestão e de controlo referida no nº 1, segundo parágrafo, do artigo 23º do Regulamento (CEE) nº 4253/88."
+  },
+  "085a4045c64b4c8e": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nA Comissão e os Estados-membros agirão em conjunto para que os objectivos do presente regulamento possam ser alcançados no âmbito do protocolo administrativo celebrado com cada Estado-membro."
+  },
+  "d28f04301a0301f0": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nEm relação às formas de intervenção em que participem mais de um Estado-membro ou cujos beneficiários se encontrem estabelecidos em mais de um Estado-membro, os Estados-membros em causa e a Comissão prestarão a assistência administrativa mútua necessária para assegurar a qualidade adequada dos controlos."
+  },
+  "8313ad7b949bacab": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. As pessoas ou organizações responsáveis pela execução das operações co-financiadas pela Comunidade tomarão medidas para que todos os registos contabilísticos ou outros documentos necessários aos controlos sejam apresentados aos funcionários responsáveis pelos controlos ou às pessoas mandatadas para o efeito.\n\n2. Os funcionários responsáveis pelos controlos ou as pessoas mandatadas para o efeito podem exigir a apresentação de extractos ou de cópias dos registos contabilísticos, ou outros referidos no nº 1 do presente artigo."
+  },
+  "5b6f0c26b1275e95": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nAs informações obtidas durante os controlos são abrangidas pelo segredo profissional, em conformidade com as disposições legais nacionais ou comunitárias aplicáveis. Não podem ser divulgadas a não ser às pessoas que devam delas ter conhecimento para poderem exercer as funções que lhes estão cometidas nos Estados-membros ou nas instituições da Comunidade."
+  },
+  "a072510fa1e68e01": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs agentes da Comissão terão acesso, em conformidade com as leis aplicáveis nos Estados-membros, a todos os documentos elaborados para efeito dos controlos realizados nos termos do disposto no presente regulamento ou na sequência de tais controlos, e a todos os dados reunidos, nomeadamente em suporte informático."
+  },
+  "b51f18b91f5e4d1d": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nAs disposições do presente regulamento não impedem os Estados-membros de aplicarem regras de controlo nacionais mais estritas do que as do presente regulamento."
+  },
+  "9de3d6ae785cb0c4": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\nNa medida em que digam respeito ao Fundo Europeu de Orientação e Garantia Agrícola (FEOGA), secção «Orientação», os controlos efectuados em conformidade com os Regulamentos (CEE) nº 3508/92 do Conselho (6) e (CEE) nº 3887/92 da Comissão (7) podem também ser considerados realizados em conformidade com o presente regulamento."
+  },
+  "e154a22502fe46c9": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO artigo 8º é aplicável a partir de 1 de Janeiro de 1998.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 15 de Outubro de 1997.\n\nPela Comissão\n\nAnita GRADIN\n\nMembro da Comissão\n\n(1) JO L 374 de 31. 12. 1988, p. 1.\n\n(2) JO L 337 de 24. 12. 1994, p. 11.\n\n(3) JO L 185 de 15. 7. 1988, p. 9.\n\n(4) JO L 292 de 15. 11. 1996, p. 2.\n\n(5) JO L 178 de 12. 7. 1994, p. 43.\n\n(6) JO L 355 de 5. 12. 1992, p. 1.\n\n(7) JO L 391 de 31. 12. 1992, p. 36."
+  },
+  "78ed442d0bafe17a": {
+   "fragment_id": "ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO (nº 3 do artigo 2º)",
+   "type": "divisao",
+   "heading": "ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO (nº 3 do artigo 2º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — DESCRIÇÃO INDICATIVA DAS INFORMAÇÕES NECESSÁRIAS PARA UMA PISTA DE CONTROLO (nº 3 do artigo 2º)\n\nExiste uma pista de controlo suficiente, conforme referida no nº 3 do artigo 2º, quando, para uma dada forma de intervenção:\n\n1. Os registos contabilísticos, mantidos ao nível administrativo adequado, fornecem informações pormenorizadas sobre as despesas, efectivamente suportadas pelos beneficiários finais, para cada projecto co-financiado, mencionando, nomeadamente, a data do registo contabilístico, o montante de cada rubrica de despesa, a identificação do documento comprovativo e a data e modo de pagamento; os registos devem apoiar-se nos documentos de prova necessários (exemplo: facturas).\n\n2. No caso dos elementos de despesa que apenas se referem parcialmente às operações co-financiadas pela Comunidade, quando forem apresentados comprovativos suficientes quanto à exactidão da repartição dos montantes respeitantes ao co-financiamento comunitário e às outras operações. Devem também ser apresentados comprovativos semelhantes para os tipos de despesas reconhecidas como elegíveis dentro de determinados limites ou proporcionalmente a outros custos.\n\n3. Os planos técnicos e financeiros do projecto, os relatórios de situação, os documentos relativos à aprovação da ajuda, os procedimentos de concurso e de contratação, etc. estiverem disponíveis ao nível administrativo adequado.\n\n4. Ao transmitirem as despesas efectivamente suportadas a uma autoridade intermédia, as informações mencionadas no nº 1 estiverem agregadas numa declaração pormenorizada de despesas que indique, para cada projecto co-financiado pela Comunidade, todos os elementos de despesa individualmente, com vista a permitir um cálculo global do montante total certificado. Essas declarações de despesa pormenorizadas constituem os documentos de apoio dos registos contabilísticos das autoridades intermédias.\n\n5. As autoridades intermédias mantiverem registos contabilísticos para cada projecto e em relação aos montantes de despesa globais certificados de cada vez pelos beneficiários finais. Ao apresentar o relatório à autoridade designada referida no nº 5 do artigo 21º do Regulamento (CEE) nº 4253/88, a autoridade intermédia apresenta uma lista dos projectos aprovados ao abrigo de cada forma de intervenção, juntamente com informações sobre cada projecto, incluindo, pelo menos, uma identificação completa e o beneficiário final, a data de aprovação da ajuda, os montantes autorizados e pagos, o período de despesa abrangido e as importâncias das despesas por medida e por subprograma. Estas informações constituem a documentação de apoio dos registos contabilísticos da autoridade designada e a base para a preparação das declarações de despesa a apresentar à Comissão.\n\n6. No caso de os beneficiários finais apresentarem directamente o relatório à autoridade designada, as declarações pormenorizadas de despesa referidas no nº 4 constituírem a documentação de apoio dos registos contabilísticos da autoridade designada, responsável pela elaboração da lista de projectos referida no nº 5.\n\n7. No caso de serem várias as autoridades intermédias a intervir entre o beneficiário final e a autoridade designada, cada autoridade intermédia de uma área de responsabilidade exigir que as declarações pormenorizadas dos montantes de despesa processados ao nível inferior sejam utilizadas como documentação de apoio aos seus registos contabilísticos, a partir dos quais apresentará, superiormente, pelo menos uma síntese dos montantes despendidos com cada projecto.\n\n7. No caso de outros modelos de organização da gestão e dos processos de informação, nomeadamente através da transferência de dados computorizados, quando todas as autoridades em causa obtiverem informações suficientes a partir do nível inferior que comprovem os seus registos contabilísticos e as importâncias comunicadas para os níveis superiores, de forma a assegurar uma pista de controlo satisfatória, desde os montantes sintéticos certificados à Comissão até às rubricas de despesa individuais e aos documentos de apoio e comprovativos ao nível do beneficiário final."
+  },
+  "57926ea87976e5bb": {
+   "fragment_id": "ANEXO II — >INÍCIO DE GRÁFICO>",
+   "type": "divisao",
+   "heading": "ANEXO II — >INÍCIO DE GRÁFICO>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >INÍCIO DE GRÁFICO>\n\nMODELO INDICATIVO DE DECLARAÇÃO NO ENCERRAMENTO DAS FORMAS DE INTERVENÇÃO\n\n(artigo 8º)\n\nÀ Comissão Europeia, Direcção-Geral:\n\nINTRODUÇÃO\n\n1.................... (nome do Estado, título e serviço), declara ter examinado a declaração final de despesa relativa................... (indicar a forma de intervenção, o fundo estrutural em causa e o período abrangido) e o pedido dirigido à Comissão para pagamento do saldo da ajuda comunitária.\n\nÂMBITO DOS CONTROLOS\n\n2. Os exames de controlo foram por nós efectuados de acordo com o disposto no Regulamento (CE) nº 2064/97. Os trabalhos foram planeados e realizados com o objectivo de se obterem garantias razoáveis quanto à inexistência de erros materiais na declaração final de despesa e no pedido de pagamento de saldo final da ajuda comunitária...................... (fazer uma breve descrição das tarefas efectuadas na execução do controlo).\n\nOBSERVAÇÕES\n\n3. O âmbito do exame de controlo foi limitdo pelo seguinte:\n\na)\n\nb)\n\nc),etc.\n\n(Indicar todas as limitações ao exame de controlo, como por exemplo problemas sistemáticos, deficiências de gestão, falta de uma pista de controlo, inexistência de documentos de apoio, casos pendentes de processos jurídicos, etc.; estimar os montantes da despesa afectados por essas limitações, assim como a ajuda comunitária correspondente.)\n\n4. O exame de controlo, juntamente com as conclusões de todos os outros controlos nacionais ou comunitários a que tivemos acesso, revelaram uma frequência baixa/elevada (indicar o termo apropriado; se elevada, explicar) de erros/irregularidades. Todos os erros/irregularidades foram tratados de modo satisfatório pelas autoridades responsáveis pela gestão e não se afigura terem afectado o montante da ajuda comunitária pagável, excepto nos seguintes casos:\n\na)\n\nb)\n\nc),etc.\n\n(Indicar os erros/irregularidades que não foram tratados de modo satisfatório e, para cada caso, a eventual natureza sistemática e extensão do problema, bem como os montantes da ajuda comunitária que se afigura terem sido afectados.)\n\nCONCLUSÃO\n\nOu\n\nSe não houve limitações ao exame de controlo, a frequência de erros detectada é baixa, tendo todos os problemas sido tratados de modo satisfatório:\n\n5 a) De acordo com o exame de controlo e as conclusões de todos os controlos nacionais ou comunitários a que tivemos acesso, a declaração final de despesa apresenta-se, na nossa opinião, correcta em todos os aspectos materiais e as despesas efectuadas de acordo com as disposições regulamentares e programáticas, afigurando-se válido o pedido à Comissão de pagamento do saldo da ajuda comunitária.\n\nOu\n\nNo caso de terem ocorrido algumas limitações ao exame de controlo e de a frequência de erros não ser elevada, ou se existirem problemas que não foram tratados de modo satisfatório:\n\n5 b) Com excepção das questões referidas no ponto 3 e/ou dos erros/irregularidades que se afigura não terem sido tratados satisfatoriamente conforme referido no ponto 4, na nossa opinião, baseada no exame de controlo e nas conclusões de todos os outros controlos, nacionais ou comunitários, a que tivemos acesso, a declaração final de despesa apresenta-se correcta, em todos os aspectos materiais, e a despesa efectuada em conformidade com as disposições regulamentares e programáticas, afigurando-se válido o pedido à Comissão de pagamento do saldo da ajuda comunitária.\n\nOu\n\nNo caso de limitações importantes ao exame de controlo ou de a frequência dos erros detectados ser elevada, mesmo que os erros/irregularidades comunicados tenham sido tratados satisfatoriamente:\n\n5 c) Atendendo às questões referidas no ponto 3 e/ou dada a frequência elevada de erros relevada no ponto 4, não estamos habilitados a emitir qualquer opinião sobre a declaração final de despesa e sobre o pedido à Comissão de pagamento do saldo da ajuda comunitária.\n\nData e assinatura\n\n>FIM DE GRÁFICO>"
+  },
+  "b2364b357392bfd1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1997R2064 — PT — 10.03.2001 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31997R2064) [REGULAMENTO (CE) N.º 2064/97 DA COMISSÃO](http://publications.europa.eu/resource/celex/31997R2064) [de 15 de Outubro de 1997](http://publications.europa.eu/resource/celex/31997R2064) [que estabelece normas de execução do Regulamento (CEE) n.º 4253/88 do Conselho, no que respeita ao controlo financeiro, pelos Estados-membros, das operações co-financiadas pelos Fundos estruturais](http://publications.europa.eu/resource/celex/31997R2064) (JO L 290, 23.10.1997, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 438/2001 da Comissão de 2 de Março de 2001](http://publications.europa.eu/resource/celex/32001R0438) — L 63 — 21 — 3.3.2001"
+  }
+ }
+}

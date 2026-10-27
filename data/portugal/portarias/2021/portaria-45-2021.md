@@ -1,0 +1,502 @@
+---
+schema_version: '1.0'
+id: pt:dre:158238387:por
+title: Portaria n.º 45/2021
+short_title: null
+summary: Estabelece o regime de definição de preços e de responsabilidade na repartição e assunção dos encargos pelas diferentes
+  entidades envolvidas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças, Trabalho, Solidariedade e Segurança Social e Saúde
+proposing_entity: null
+official_number: 45/2021
+official_date: null
+publication_date: '2021-02-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 38/2021, Série I de 2021-02-24
+  number: '38'
+  series: I
+  supplement: null
+  pages: 16 - 22
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03800/0001600022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-05-23'
+version_history:
+  file: portaria-45-2021.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-02-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-09'
+    amending: pt:dre:166658186:por
+    amending_title: Portaria n.º 140/2021
+    changes:
+    - Altera Artigo 11.º
+    - Altera Anexo I
+  - date: '2022-11-11'
+    amending: pt:dre:203283190:por
+    amending_title: Portaria n.º 272/2022
+    changes:
+    - Altera Artigo 10.º
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2024-02-10'
+    amending: pt:dre:840849894:por
+    amending_title: Portaria n.º 47/2024
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2024-03-01'
+    amending: pt:dre:853918464:por
+    amending_title: Portaria n.º 74/2024
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2024-12-12'
+    amending: pt:dre:899757461:por
+    amending_title: Portaria n.º 322-C/2024/1
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Anexo I
+  - date: '2025-04-10'
+    amending: pt:dre:914375907:por
+    amending_title: Portaria n.º 162/2025/1
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Capítulo II
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Artigo 14.º
+  - date: '2025-05-23'
+    amending: pt:dre:918999082:por
+    amending_title: Portaria n.º 229/2025/1
+    changes:
+    - Altera Anexo I
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/45/2021/p/cons/20250522/pt/html
+  oj: null
+  dre: '158238387'
+  dre_path: /dr/detalhe/portaria/45-2021-158238387
+  internal: pt:dre:158238387:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-2021-158238387
+  metadata_url: https://data.dre.pt/eli/port/45/2021/p/cons/20250522/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-158238428
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-158238428
+  retrieved_at: '2026-10-22T12:40:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bff53a362f05f38c7f8fe0e4b3f075f7c437b8f21c74a8ba9dabb3ddd5aee23d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:40:00Z'
+  notes: 8 versão(ões); histórico completo em portaria-45-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Rede
+- Assistência Médica
+- Assistência Medicamentosa
+- Unidade de Cuidados Continuados Integrados de Saúde Mental
+- Serviço Nacional de Saúde
+- Fixação de Preços
+- Medicamento
+- Meios Complementares de Diagnóstico
+- Preço
+- Prestação de Serviços
+- Prestações da Segurança Social
+- Cuidados Médicos
+- Setor Privado
+- Setor Público
+- Segurança Social
+- Sistema Nacional de Cuidados Continuados Integrados
+- Subsistemas de Saúde
+- Tabela de Cuidados de Saúde
+- Unidade de Internamento
+relationships:
+- type: amended_by
+  target: pt:dre:166658186:por
+  label: Altera Artigo 11.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/140-2021-166658186
+  date: '2021-07-08'
+- type: amended_by
+  target: pt:dre:203283190:por
+  label: Altera Artigo 10.º; Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/272-2022-203283190
+  date: '2022-11-10'
+- type: amended_by
+  target: pt:dre:840849894:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/47-2024-840849894
+  date: '2024-02-09'
+- type: amended_by
+  target: pt:dre:853918464:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/74-2024-853918464
+  date: '2024-02-29'
+- type: amended_by
+  target: pt:dre:899757461:por
+  label: Altera Artigo 4.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/322-c-2024-899757461
+  date: '2024-12-10'
+- type: amended_by
+  target: pt:dre:914375907:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Capítulo II; Altera Artigo 10.º;
+    Altera Artigo 12.º; Altera Artigo 13.º; Altera Anexo I; Altera Anexo II; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907
+  date: '2025-04-09'
+- type: amended_by
+  target: pt:dre:918999082:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/229-2025-918999082
+  date: '2025-05-22'
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/68/2017/02/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/68/2017/02/16/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:276830:por
+  label: null
+  source: http://data.dre.pt/eli/port/149/2011/04/08/p/dre
+- type: cites
+  target: pt:dre:280268:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/22/2011/02/10/p/dre
+- type: cites
+  target: pt:dre:287113:por
+  label: null
+  source: http://data.dre.pt/eli/port/183/2011/05/05/p/dre
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
+- type: cites
+  target: pt:dre:616776:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/2010/01/28/p/dre
+- type: cites
+  target: pt:dre:69879425:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/2015/07/28/p/dre
+article_structure:
+  article_count: 16
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:40:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 45/2021
+
+Portaria n.º 45/2021
+
+de 24 de fevereiro
+
+Sumário: Estabelece o regime de definição de preços e de responsabilidade na repartição e assunção dos encargos pelas diferentes entidades envolvidas.
+
+A Rede Nacional de Cuidados Continuados Integrados (RNCCI), criada pelo Decreto-Lei n.º 101/2006, de 6 de junho, tem vindo a constituir uma resposta essencial, no atual contexto epidemiológico e pandémico provocado pelo novo coronavírus e pela doença COVID-19.
+
+A aposta no reforço e alargamento das unidades e equipas da RNCCI, em articulação com o setor cooperativo e social, foi expressamente inscrita no programa do atual Governo, assim como nos Orçamentos do Estado para 2020 e 2021, tendo também sido abrangida pelo Programa de Estabilização Económica e Social, aprovado pela Resolução do Conselho de Ministros n.º 41/2020, e prevista como um dos eixos de um plano de investimento para reforçar o Serviço Nacional de Saúde, integrado no Plano de Recuperação e Resiliência (PRR) - Recuperar Portugal 2021-2026, já entregue à União Europeia.
+
+Neste sentido, uma das componentes da RNCCI consiste nas unidades e equipas de cuidados continuados integrados de saúde mental, criadas pelo Decreto-Lei n.º 8/2010, de 28 de janeiro, regulamentadas pela Portaria n.º 149/2011, de 8 de abril, e integradas na Rede, em 2015, através do Decreto-Lei n.º 136/2015, de 28 de julho, mas só iniciadas em 2017, na forma de experiências piloto, após a publicação da Portaria n.º 68/2017, de 16 de fevereiro, e do Despacho n.º 1269/2017, de 26 de janeiro, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2017.
+
+Tais experiências piloto têm vindo a funcionar mediante sucessivas prorrogações de contratos-programa e integração de novas respostas por celebração de novos contratos-programa, cujo termo ocorreu, em simultâneo, no passado dia 31 de dezembro de 2020, conforme consta do Despacho n.º 5142/2020, de 23 de abril, publicado no Diário da República, 2.ª série, n.º 86, de 4 de maio de 2020.
+
+Atento o fim das referidas experiências piloto e a sua subsequente conversão em efetivas unidades e equipas de cuidados continuados integrados de saúde mental, cabe proceder à definição do regime de preços e de responsabilidade na repartição e assunção dos encargos pelas diferentes entidades envolvidas, assim como fixar os respetivos preços, revogando a Portaria n.º 183/2011, de 5 de maio, atualmente em vigor.
+
+Refira-se que, neste âmbito, a tabela de preços estabelecida em 2011 não foi, desde então, objeto de atualização ou revisão, pelo que se impõe dotar agora as entidades que prestam cuidados continuados integrados de saúde mental de sustentabilidade económica e financeira adequada, através da previsão de uma atualização extraordinária de 3,3 % dos respetivos preços, calculada com base no índice de preços no consumidor (IPC) acumulado desde 2016.
+
+Por sua vez, quanto às demais unidades da RNCCI, cabe referir que se encontra já em curso o relançamento das unidades de ambulatório, mediante contratualização de unidades de dia e promoção de autonomia em regime de experiências piloto, em 2021, pelo que a fixação dos respetivos preços aplicáveis será efetuada por diploma próprio, deixando de estar previstos na presente portaria.
+
+Relativamente às unidades de internamento da RNCCI e às unidades de cuidados paliativos, em funcionamento na mesma Rede, mantém-se, nos seus aspetos essenciais, o regime de definição de preços e de responsabilidade na repartição e assunção dos encargos já existentes, nos seus aspetos essenciais.
+
+Ainda assim, entendeu-se adequado reunir num único e novo diploma regulamentar o já aludido regime de definição de preços e de responsabilidade na repartição e assunção dos encargos pelas diferentes entidades envolvidas, assim como a fixação dos preços dos cuidados de saúde, de saúde mental e de apoio social prestados nas mencionadas unidades e equipas da RNCCI, uniformizando esta matéria, na medida atualmente possível, e empreendendo um esforço de simplificação regulamentar, mediante revogação de todas as portarias ainda vigentes.
+
+Assim:
+
+Ao abrigo dos artigos 46.º e 47.º do Decreto-Lei n.º 101/2006, de 6 de junho, alterado pelo Decreto-Lei n.º 136/2015, de 28 de julho, e pela Lei n.º 114/2017, de 29 de dezembro, dos artigos 29.º e 30.º do Decreto-Lei n.º 8/2010, de 28 de janeiro, alterado pelo Decreto-Lei n.º 22/2011, de 10 de fevereiro, e pelo Decreto-Lei n.º 136/2015, de 28 de julho, e do artigo 23.º e n.º 1 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro, na sua redação atual, manda o Governo, pelo Ministro de Estado e das Finanças, pela Ministra do Trabalho, Solidariedade e Segurança Social e pela Ministra da Saúde, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria tem por objeto estabelecer o regime de definição de preços e de responsabilidade na repartição e assunção dos encargos pelas diferentes entidades envolvidas, assim como fixar os respetivos preços dos cuidados de saúde, de saúde mental e de apoio social prestados nas seguintes unidades e equipas da Rede Nacional de Cuidados Continuados Integrados (RNCCI), adiante designada de Rede:
+
+a) Unidades de internamento e unidades de ambulatório, previstas no artigo 12.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual, e unidades de cuidados paliativos, em funcionamento, criadas ao abrigo do mesmo diploma e adiante designadas por UCP-RNCCI, previstas na Portaria n.º 340/2015, de 8 de outubro;
+
+b) Unidades e equipas de cuidados continuados integrados de saúde mental, previstas no artigo 8.º do Decreto-Lei n.º 8/2010, de 28 de janeiro, alterado pelo Decreto-Lei n.º 22/2011, de 10 de fevereiro, e pelo Decreto-Lei n.º 136/2015, de 28 de julho.
+
+2 - A presente portaria estabelece, ainda, as condições gerais para a contratação no âmbito da Rede.
+
+> Nota: [Artigo 3.º, Portaria n.º 74/2024 - Diário da República n.º 43/2024, Série I de 2024-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/74-2024-853918464) Os preços, para o ano de 2023, são os fixados nas tabelas constantes do anexo iii da Portaria n.º 74/2024, de 29 de fevereiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O disposto na presente portaria aplica-se às unidades e equipas da Rede com contratos-programa já celebrados ou a celebrar pelas entidades competentes, nos termos do Decreto-Lei n.º 101/2006, de 6 de junho, e do Decreto-Lei n.º 8/2010, de 28 de janeiro, ambos nas suas redações atuais.
+
+###### Artigo 3.º — Regimes
+
+1 - Às unidades previstas na alínea a) do n.º 1 do artigo 1.º aplicam-se as disposições gerais constantes do presente capítulo e as disposições especiais constantes do capítulo ii da presente portaria.
+
+2 - Às unidades e equipas previstas na alínea b) do n.º 1 do artigo 1.º aplicam-se as disposições gerais constantes do presente capítulo e as disposições especiais constantes do capítulo iii da presente portaria.
+
+###### Artigo 4.º — Tabelas de preços
+
+1 - Os preços dos cuidados continuados integrados de saúde e de apoio social prestados nas unidades previstas na alínea a) do n.º 1 do artigo 1.º, são os fixados na tabela constante de anexo i à presente portaria, que dela faz parte integrante.
+
+2 - Os preços referidos no número anterior são fixados:
+
+a) Por dia de internamento e por utente, para cada uma das tipologias de unidades de internamento da RNCCI e da UCP-RNCCI, compreendendo todos os cuidados e serviços contratualizados, incluindo os encargos globais com medicamentos, com a realização de exames auxiliares de diagnóstico e com apósitos e material de penso para tratamento de úlceras de pressão nas unidades de internamento, cujos encargos estão incluídos no preço compreensivo, nos termos do artigo 10.º;
+
+b) Por dia e por utente, para as unidades de ambulatório da RNCCI, compreendendo todos os cuidados e serviços prestados, em conformidade com o disposto no artigo 6.º da Portaria n.º 174/2014, de 10 de setembro, na sua redação atual, nos dias contratualizados.
+
+3 - Os preços dos cuidados continuados integrados de saúde mental e de apoio social prestados nas unidades e pelas equipas de cuidados continuados integrados de saúde mental da RNCCI, previstas na alínea b) do n.º 1 do artigo 1.º, são os fixados na tabela constante de anexo ii à presente portaria, que dela também faz parte integrante.
+
+4 - Os preços referidos no número anterior, fixados por dia de internamento e por utente para cada uma das tipologias de unidades e equipas, compreendem todos os cuidados e serviços contratualizados, incluindo os encargos com medicamentos nos termos previstos no artigo 13.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 322-C/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-c-2024-899757461), em vigor a partir de 2024-12-12
+
+###### Artigo 5.º — Reserva de lugares
+
+Os contratos a celebrar com as unidades de internamento, com as UCP-RNCCI e com as unidades de cuidados continuados integrados de saúde mental referidas no n.º 1 do artigo 1.º podem prever reserva de lugares, quando a taxa de ocupação seja igual ou superior a 85 %, mediante o pagamento das correspondentes diárias, com exceção dos encargos referidos nos artigos 10.º, 12.º e 13.º
+
+###### Artigo 6.º — Encargos
+
+Sem prejuízo do disposto no artigo seguinte, os encargos decorrentes da prestação de cuidados continuados integrados de saúde são da responsabilidade do Ministério da Saúde, suportando o utente, mediante a comparticipação da segurança social a que houver lugar, os encargos decorrentes da prestação dos cuidados de apoio social.
+
+###### Artigo 7.º — Comparticipação da segurança social
+
+A comparticipação da segurança social referida no artigo anterior é determinada em função do valor a suportar pelo utente, nos termos a definir por despacho do membro do Governo responsável pela área da segurança social.
+
+###### Artigo 8.º — Responsabilidade
+
+1 - No âmbito das unidades previstas no n.º 1 do artigo 1.º, o valor total (utente/dia), referido no anexo i, a diária global (utente/dia) ou os encargos globais (utente/visita) referidos no anexo ii, consoante o caso, é cobrado diretamente aos respetivos responsáveis, no caso dos não beneficiários do Serviço Nacional de Saúde (SNS).
+
+2 - O disposto no número anterior aplica-se, também, a beneficiários do SNS, nas situações em que exista um terceiro responsável legal ou contratual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+###### Artigo 9.º — Atualização e revisão de preços
+
+1 - Os preços fixados nas tabelas constantes de anexos i e ii à presente portaria são atualizados no início de cada ano civil a que se reporta a atualização, mediante a aplicação de um coeficiente resultante da variação média do índice de preços no consumidor, correspondente aos últimos 12 meses para os quais existam valores disponíveis.
+
+2 - Os preços referidos no número anterior são revistos sempre que necessário, fundamentadamente.
+
+> Nota: [Artigo 3.º, Portaria n.º 272/2022 - Diário da República n.º 217/2022, Série I de 2022-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/272-2022-203283190) Durante o ano de 2023 não é aplicável o disposto no presente artigo, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+### Capítulo II — Unidades de internamento e ambulatório da RNCCI e UCP-RNCCI
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+###### Artigo 10.º — Encargos globais com medicamentos, com realização de exames auxiliares de diagnóstico e com apósitos e material de penso para tratamento de úlceras de pressão e/ou feridas cirúrgicas
+
+1 - Os encargos globais com medicamentos, com a realização de meios complementares de diagnóstico e terapêutica e com apósitos e material de penso para tratamento de úlceras de pressão nas unidades de internamento da RNCCI e nas UCP-RNCCI estão incluídos na parcela de custos ‘Encargos com cuidados de saúde’ que figura nas tabelas de preços constantes do anexo i à presente portaria, sem prejuízo do disposto nos números seguintes.
+
+2 - O valor global a pagar, por dia de internamento e por utente, em unidades de longa duração e manutenção, constante do anexo i, é acrescido do montante de 25 €, nas situações de referenciação de doentes que apresentem úlceras de pressão dos hospitais e dos cuidados de saúde primários para aquela tipologia de unidades.
+
+3 - O disposto no número anterior aplica-se apenas nas situações em que a úlcera de pressão se tiver desenvolvido antes da transferência do utente para a respetiva unidade de cuidados continuados integrados e durante um período máximo de seis meses após a transferência, ficando o pagamento dependente de avaliação mensal.
+
+4 - O pagamento de feridas cirúrgicas e/ou úlceras de pressão fica dependente da validação prévia pela equipa coordenadora regional territorialmente competente, nos termos da alínea e) do artigo 10.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua redação atual, com base na avaliação mensal e em registos clínicos devidamente comprovados.
+
+5 - No caso dos estabelecimentos aderentes ao regime previsto na portaria que estabelece o Regime PP-SNS para UCCI e UCP-RNCCI, os encargos com medicamentos e produtos de apoio prescritos e com MCDT requisitados nas unidades de internamento da RNCCI e nas UCP-RNCCI são ainda suportados, de forma partilhada, entre o Serviço Nacional de Saúde e a unidade de internamento, por comparticipação ou taxa moderadora aplicada nos termos gerais.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 322-C/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-c-2024-899757461), em vigor a partir de 2024-12-12
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 272/2022 - Diário da República n.º 217/2022, Série I de 2022-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/272-2022-203283190), em vigor a partir de 2022-11-11, produz efeitos a partir de 2022-01-01
+
+###### Artigo 11.º — Subsistemas de saúde
+
+Para efeitos do disposto no artigo anterior, os subsistemas de saúde, quando legal ou contratualmente responsáveis, devem acordar com as entidades promotoras ou gestoras da RNCCI, nomeadamente com as entidades do setor cooperativo e social e do setor privado, os procedimentos a observar no âmbito da identificação dos beneficiários e da elaboração, processamento e pagamento da faturação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 140/2021 - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2021-166658186), em vigor a partir de 2021-07-09
+
+###### Artigo 12.º — Encargos com fraldas
+
+1 - Os encargos decorrentes da utilização de fraldas nas unidades de internamento são pagos por dia de internamento e por utente nas situações previstas no anexo i.
+
+2 - Para efeitos do disposto no número anterior, apenas se consideram os dias de internamento efetivo na respetiva ULDM.
+
+3 - Sem prejuízo do disposto nos artigos 6.º e 7.º, os encargos referidos no n.º 1 são objeto de comparticipação da segurança social.
+
+4 - Ao utente não pode ser exigida pela ULDM qualquer quantia pelos encargos decorrentes da utilização de fraldas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 322-C/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-c-2024-899757461), em vigor a partir de 2024-12-12
+
+### Capítulo III — Unidades e equipas de cuidados continuados integrados de saúde mental da RNCCI
+
+###### Artigo 13.º — Encargos com medicamentos
+
+Os encargos com medicamentos nas unidades de cuidados continuados integrados de saúde mental são pagos por dia de internamento e por utente, de acordo com o previsto na tabela que consta do anexo ii à presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+###### Artigo 14.º — Encargos com rendas
+
+1 - Os encargos com rendas relativas a instalações onde funcionem unidades residenciais ou sócio-ocupacionais são objeto de comparticipação, nos termos dos números seguintes.
+
+2 - A comparticipação a que se refere o número anterior corresponde a 50 % da renda paga pela respetiva entidade promotora ou gestora, até ao limite de (euro) 1000 mensais, e é suportada, em partes iguais, pelo Ministério do Trabalho, Solidariedade e Segurança Social e pelo Ministério da Saúde, desde que não tenha sido possível o estabelecimento de parcerias para a cedência de instalações.
+
+3 - Não há lugar à comparticipação dos encargos com rendas quando as instalações tiverem sido objeto de financiamento público.
+
+4 - A comparticipação prevista no presente artigo aplica-se, exclusivamente, às unidades que, tendo sido autorizadas na forma de experiências piloto, se mantenham ao abrigo de contrato-programa celebrado para o triénio de 2021-2023 e apenas durante a execução deste mesmo contrato-programa.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+### Capítulo IV — Disposições finais
+
+###### Artigo 15.º — Norma revogatória
+
+1 - São revogadas:
+
+a) A Portaria n.º 1087-A/2007, de 5 de setembro, alterada pelas Portaria n.º 189/2008, de 19 de fevereiro, Portaria n.º 326/2010, de 16 de junho, Portaria n.º 220/2011, de 1 de junho, Portaria n.º 41/2013, de 1 de fevereiro, Portaria n.º 360/2013, de 16 de dezembro, Portaria n.º 184/2015, de 23 de junho, Portaria n.º 262/2015, de 28 de agosto, Portaria n.º 289-A/2015, de 17 de setembro, Portaria n.º 353/2017, de 16 de novembro, Portaria n.º 10/2019, de 14 de janeiro, Portaria n.º 17/2019, de 15 de janeiro, e Portaria n.º 17/2020, de 24 de janeiro;
+
+b) A Portaria n.º 189/2008, de 19 de fevereiro;
+
+c) A Portaria n.º 183/2011, de 5 de maio;
+
+d) A Portaria n.º 289-A/2015, de 17 de setembro;
+
+e) A Portaria n.º 72-A/2019, de 1 de março;
+
+f) A Portaria n.º 17/2020, de 24 de janeiro.
+
+2 - Para efeitos do disposto no artigo 7.º e no n.º 3 do artigo 12.º, mantêm-se em vigor os seguintes despachos, exarados e publicados ao abrigo dos diplomas revogados pelo número anterior:
+
+a) Despacho Normativo n.º 34/2007, de 7 de setembro, publicado no Diário da República, 2.ª série, n.º 181, de 19 de setembro de 2007, alterado pelo Despacho n.º 23613/2009, de 19 de outubro, publicado no Diário da República, 2.ª série, n.º 209, de 28 de outubro de 2009;
+
+b) Despacho Normativo n.º 14-A/2015, de 23 de julho, publicado no Diário da República, 2.ª série, n.º 146, 3.º suplemento, de 29 de julho de 2015.
+
+3 - Todas as referências aos diplomas ora revogados entendem-se feitas para as correspondentes normas da presente portaria.
+
+###### Artigo 16.º — Produção de efeitos
+
+A presente portaria produz efeitos desde 1 de janeiro de 2021.
+
+O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão, em 22 de fevereiro de 2021. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 22 de fevereiro de 2021. - A Ministra da Saúde, Marta Alexandra Fartura Braga Temido de Almeida Simões, em 19 de fevereiro de 2021.
+
+## Anexo I — (a que se referem o n.º 1 do artigo 4.º, o n.º 1 do artigo 8.º, o n.º 1 do artigo 9.º, os n.ºs 1 e 2 do artigo 10.º e o n.º 1 do artigo 12.º)
+
+Tabela de preços aplicáveis às unidades de internamento e de ambulatório da RNCCI e às UCP-RNCCI
+
+Unidades
+
+Aplicável nas situações de adesão e não adesão ao Regime PP-SNS para UCCI e UCP-RNCCI (Portaria n.º 322-C/2024/1, de 10 de dezembro)
+
+| Tipologia | Encargos com cuidados de saúde (utente/dia) | Encargos com cuidados de apoio social (utente/dia) | Encargos com utilização de fraldas (utente/dia) | Total(utente/dia) |
+| --- | --- | --- | --- | --- |
+| I - Unidades de internamento: |  |  |  |  |
+| I.1 - Unidade de convalescença | 120,87 € | - | - | 120,87 € |
+| I.2 - Unidade de média duração e reabilitação | 81,26 € | 23,95 € | - | 105,21 € |
+| I.3 - Unidade de longa duração e manutenção | 40,30 € | 45,81 € | 1,51 € | 87,62 € |
+| II - Unidade de dia e de promoção da autonomia | 19,11 € | 16,18 € | - | 35,29 € |
+| III - Unidade de cuidados paliativos | 120,87 € | - | - | 120,87 € |
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 229/2025/1 - Diário da República n.º 98/2025, Série I de 2025-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2025-918999082), em vigor a partir de 2025-05-23, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Anexo II do/a [Portaria n.º 322-C/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-c-2024-899757461), em vigor a partir de 2024-12-12
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 74/2024 - Diário da República n.º 43/2024, Série I de 2024-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/74-2024-853918464), em vigor a partir de 2024-03-01, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 47/2024 - Diário da República n.º 29/2024, Série I de 2024-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/47-2024-840849894), em vigor a partir de 2024-02-10, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 272/2022 - Diário da República n.º 217/2022, Série I de 2022-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/272-2022-203283190), em vigor a partir de 2022-11-11, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 140/2021 - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/portaria/140-2021-166658186), em vigor a partir de 2021-07-09, produz efeitos a partir de 2021-07-01
+
+## Anexo II — (a que se referem o n.º 3 do artigo 4.º e o artigo 13.º)
+
+Tabela de preços aplicáveis às unidades e equipas de cuidados continuados integrados de saúde mental da RNCCI
+
+Unidades
+
+| Tipologia | Encargos com cuidados de saúde (utente/dia) | Encargos com medicamentos (utente/dia) | Encargos com cuidados de apoio social (utente/dia) | Diária global (utente/dia) |
+| --- | --- | --- | --- | --- |
+| I - Adultos: |  |  |  |  |
+| I.1 - Unidades residenciais: |  |  |  |  |
+| a) Residência de treino de autonomia | 31,77 € | 1,15 € | 22,65 € | 55,57 € |
+| b) Residência autónoma de saúde mental | 9,37 € | – | 10,33 € | 19,70 € |
+| c) Residência de apoio moderado | 21,49 € | – | 23,62 € | 45,11 € |
+| d) Residência de apoio máximo | 32,42 € | 5,78 € | 22,27 € | 60,47 € |
+| I.2 - Unidade socio-ocupacional | 15,61 € | – | 15,61 € | 31,22 € |
+| II - Infância e adolescência: |  |  |  |  |
+| II.1 - Unidades residenciais: |  |  |  |  |
+| a) Residência de treino de autonomia tipo A | 73,84 € | 1,11 € | 35,10 € | 110,05 € |
+| b) Residência de treino de autonomia tipo B | 77,68 € | 1,11 € | 38,95 € | 117,74 € |
+| c) Residência de apoio máximo | 76,73 € | 5,53 € | 45,77 € | 128,03 € |
+| II.2 - Unidade Socio-ocupacional | 22,54 € | – | 22,54 € | 45,08 € |
+
+Equipas de apoio domiciliário
+
+| Tipologia | Encargos com cuidados de saúde (utente/visita) | Encargos com cuidados de apoio social (utente/visita) | Encargos globais (utente/visita) |  |
+| --- | --- | --- | --- | --- |
+| I - Adultos | 27,35 € | 13,09 € | 40,44 € |  |
+| II - Infância e adolescência | 25,58 € | 11,90 € | 37,48 € |  |
+
+> Alterado pelo/a Anexo II do/a [Portaria n.º 162/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/162-2025-914375907), em vigor a partir de 2025-04-10, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Anexo II do/a [Portaria n.º 74/2024 - Diário da República n.º 43/2024, Série I de 2024-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/74-2024-853918464), em vigor a partir de 2024-03-01, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Anexo II do/a [Portaria n.º 47/2024 - Diário da República n.º 29/2024, Série I de 2024-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/47-2024-840849894), em vigor a partir de 2024-02-10, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 272/2022 - Diário da República n.º 217/2022, Série I de 2022-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/272-2022-203283190), em vigor a partir de 2022-11-11, produz efeitos a partir de 2022-01-01

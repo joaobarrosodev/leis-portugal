@@ -1,0 +1,272 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174828:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-115886166",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2012-174828",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115914928",
+    "115914929",
+    "115914930",
+    "115914931",
+    "115914932",
+    "115914933",
+    "115914934",
+    "115914935",
+    "115914936",
+    "115914937",
+    "115914938",
+    "115914939",
+    "115914940",
+    "115914941"
+   ]
+  },
+  {
+   "date": "2018-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115886134:por",
+     "title": "Decreto Legislativo Regional n.º 11/2018/M",
+     "published": "2018-08-03",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2018-115886134"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "115914928",
+    "115914929",
+    "115917049",
+    "115917050",
+    "115914932",
+    "115917054",
+    "115917055",
+    "115917056",
+    "115914936",
+    "115917051",
+    "115917052",
+    "115917053",
+    "115914940",
+    "115914941",
+    "115914942"
+   ]
+  }
+ ],
+ "fragments": {
+  "115914928": {
+   "fragment_id": "115886167",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 27/2012/M\n\nAplica à administração regional autónoma da Madeira o regime de mobilidade especial entre serviços dos trabalhadores da Administração Pública visando o seu aproveitamento racional, estabelecido pela Lei n.º 53/2006, de 7 de dezembro, e o regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos, estabelecido pelo Decreto-Lei n.º 200/2006, de 25 de outubro.\n\nA Lei n.º 53/2006, de 7 de dezembro, que estabeleceu o regime comum de mobilidade entre serviços dos então designados funcionários e agentes da Administração Pública, foi adaptada à administração regional autónoma e à administração local sedeada na Região pelo Decreto Legislativo Regional n.º 9/2008/M, de 27 de março, no que concerne ao regime de mobilidade geral entre serviços. Com efeito, no ano de 2008, foi também publicada a Lei n.º 12-A/2008, de 27 de fevereiro, que estabeleceu os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, razão pela qual se apresenta como necessária a conformação com o disposto na referida lei, procedendo-se, para tanto, à revogação do Decreto Legislativo Regional n.º 9/2008/M, de 27 de março.\n\nVolvidos mais de quatro anos, o cenário no qual são desenvolvidas as diversas atividades da Administração Pública apresenta-se radicalmente diferente, tendo em conta, designadamente, as graves restrições de caráter orçamental que são impostas aos serviços e organismos.\n\nAssim, porque uma gestão eficaz e eficiente dos recursos humanos se impõe cada vez mais, importa acolher no ordenamento jurídico regional o regime de mobilidade especial, previsto pela mencionada Lei n.º 53/2006, de 7 de dezembro, bem como o regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos, estabelecido pelo Decreto-Lei n.º 200/2006, de 25 de outubro, no sentido de dotar os serviços e organismos da administração regional autónoma da Madeira de instrumentos que lhes permitam fazer face a situações de extinção, fusão, reestruturação ou racionalização de efetivos.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de maio.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º, ambos da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º e alínea nn) do artigo 40.º e n.º 1 do artigo 41.º, ambos do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e do n.º 3 do artigo 2.º da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, o seguinte:"
+  },
+  "115914929": {
+   "fragment_id": "115886168",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito de aplicação"
+  },
+  "115914930": {
+   "fragment_id": "115886169",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A mobilidade especial e as disposições finais e transitórias, constantes dos capítulos iii e iv, respetivamente, da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, aplicam-se à administração regional autónoma da Madeira, com as especificidades vertidas no presente diploma.\n\n2 - O regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos do Decreto-Lei n.º 200/2006, de 25 de outubro, aplica-se à administração regional autónoma da Madeira, com as adaptações constantes do presente diploma."
+  },
+  "115914931": {
+   "fragment_id": "115886170",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A mobilidade especial e as disposições finais e transitórias, constantes dos capítulos iii e iv, respetivamente, da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, aplicam-se a todos os serviços e organismos da administração regional direta e indireta da Região Autónoma da Madeira, com exceção das entidades públicas empresariais.\n\n2 - O regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos, estabelecido pelo Decreto-Lei n.º 200/2006, de 25 de outubro, aplica-se a todos os serviços e organismos da administração regional direta e indireta da Região Autónoma da Madeira, com exceção das entidades públicas empresariais."
+  },
+  "115914932": {
+   "fragment_id": "115886171",
+   "type": 1,
+   "heading": "Capítulo II — Gestão do pessoal em situação de mobilidade especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gestão do pessoal em situação de mobilidade especial"
+  },
+  "115914933": {
+   "fragment_id": "115886172",
+   "type": 11,
+   "heading": "Artigo 3.º — Afetação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Afetação\n\nO pessoal em situação de mobilidade especial é afeto ao Quadro Interdepartamental Regional."
+  },
+  "115914934": {
+   "fragment_id": "115886173",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade regional gestora da mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidade regional gestora da mobilidade\n\n1 - A entidade regional gestora da mobilidade é definida, de entre os serviços já existentes na administração regional autónoma da Madeira, mediante decreto regulamentar regional que estabeleça as respetivas atribuições e competências nesta área de atividade, bem como os deveres de colaboração que incumbem aos demais serviços.\n\n2 - As competências atribuídas às secretarias-gerais ou departamento governamental de recursos humanos na Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, são exercidas pelo departamento regional de origem do pessoal colocado em situação de mobilidade especial, sem prejuízo das atribuições ou competências definidas para a entidade gestora da mobilidade.\n\n3 - O âmbito de aplicação dos procedimentos previstos nos artigos 29.º, 33.º a 40.º e 47.º-A da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, é o da Região Autónoma da Madeira.\n\n4 - O procedimento concursal próprio previsto no artigo 33.º da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, opera, em primeiro lugar, para o pessoal colocado em mobilidade especial no âmbito da Região Autónoma da Madeira."
+  },
+  "115914935": {
+   "fragment_id": "115886174",
+   "type": 11,
+   "heading": "Artigo 5.º — Transmissão de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão de informação\n\n1 - Sem prejuízo do que venha a ser previsto em sede da regulamentação a que se refere o artigo anterior, os dados relativos ao pessoal em situação de mobilidade especial são inseridos, pelo departamento regional de origem do pessoal colocado em situação de mobilidade especial, no Sistema de Informação e Base de Dados dos Trabalhadores das Entidades Públicas Regionais, abreviadamente designado por SITEPR, que funciona através do serviço do Governo Regional com competência em matéria de informática da Administração Pública, sempre que ocorra carregamento ou atualização de dados, e na bolsa de emprego público da Madeira a que se refere o artigo 7.º do presente diploma.\n\n2 - Sem prejuízo do que venha a ser previsto em sede da regulamentação a que se refere o artigo anterior, o departamento regional de origem do pessoal colocado em situação de mobilidade especial informa os respetivos trabalhadores acerca do carregamento ou atualização mencionados no número anterior.\n\n3 - O serviço regional competente em matéria de informática da Administração Pública assegura os suportes tecnológicos necessários à gestão daquele pessoal."
+  },
+  "115914936": {
+   "fragment_id": "115919275",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "115914937": {
+   "fragment_id": "115919276",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências\n\n1 - As competências atribuídas aos membros do Governo da República pela Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, reportam-se aos correspondentes membros do Governo Regional.\n\n2 - As referências feitas no Decreto-Lei n.º 200/2006, de 25 de outubro, ao membro do Governo da República, consideram-se feitas aos competentes membros do Governo Regional."
+  },
+  "115914938": {
+   "fragment_id": "115919277",
+   "type": 11,
+   "heading": "Artigo 7.º — Bolsa de emprego público da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Bolsa de emprego público da Madeira\n\n1 - Reportam-se à bolsa de emprego público da Madeira (BEP-RAM) todas as menções a publicações a efetuar na bolsa de emprego público (BEP), constantes do capítulo iii da Lei n.º 53/2006, de 7 de dezembro, alterada pelos diplomas referidos no artigo 1.º\n\n2 - As condições de funcionamento e demais regulamentação da BEP-RAM constarão de decreto regulamentar regional, sem prejuízo da aplicabilidade do regime referido no número anterior até à sua entrada em vigor."
+  },
+  "115914939": {
+   "fragment_id": "115919278",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicações\n\n1 - Todas as referências a publicações a efetuar no Diário da República constantes dos capítulos iii e iv da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64- -B/2011, de 30 de dezembro, reportam-se ao Jornal Oficial da Região Autónoma da Madeira.\n\n2 - Todas as referências a publicações a efetuar no Diário da República constantes do Decreto-Lei n.º 200/2006, de 25 de outubro, reportam-se ao Jornal Oficial da Região Autónoma da Madeira."
+  },
+  "115914940": {
+   "fragment_id": "115919279",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 9/2008/M, de 27 de março."
+  },
+  "115914941": {
+   "fragment_id": "115919280",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115917049": {
+   "fragment_id": "115886169",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - (Revogado)\n\n2 - O regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos do Decreto-Lei n.º 200/2006, de 25 de outubro, aplica-se à administração regional autónoma da Madeira, com as adaptações constantes do presente diploma.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+  },
+  "115917050": {
+   "fragment_id": "115886170",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - (Revogado)\n\n2 - O regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos, estabelecido pelo Decreto-Lei n.º 200/2006, de 25 de outubro, aplica-se a todos os serviços e organismos da administração regional direta e indireta da Região Autónoma da Madeira, com exceção das entidades públicas empresariais.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+  },
+  "115917054": {
+   "fragment_id": "115886172",
+   "type": 11,
+   "heading": "Artigo 3.º — Afetação",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Afetação\n\nO pessoal em situação de mobilidade especial é afeto ao Quadro Interdepartamental Regional.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+  },
+  "115917055": {
+   "fragment_id": "115886173",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade regional gestora da mobilidade",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entidade regional gestora da mobilidade\n\n1 - A entidade regional gestora da mobilidade é definida, de entre os serviços já existentes na administração regional autónoma da Madeira, mediante decreto regulamentar regional que estabeleça as respetivas atribuições e competências nesta área de atividade, bem como os deveres de colaboração que incumbem aos demais serviços.\n\n2 - As competências atribuídas às secretarias-gerais ou departamento governamental de recursos humanos na Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, são exercidas pelo departamento regional de origem do pessoal colocado em situação de mobilidade especial, sem prejuízo das atribuições ou competências definidas para a entidade gestora da mobilidade.\n\n3 - O âmbito de aplicação dos procedimentos previstos nos artigos 29.º, 33.º a 40.º e 47.º-A da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, é o da Região Autónoma da Madeira.\n\n4 - O procedimento concursal próprio previsto no artigo 33.º da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, opera, em primeiro lugar, para o pessoal colocado em mobilidade especial no âmbito da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+  },
+  "115917056": {
+   "fragment_id": "115886174",
+   "type": 11,
+   "heading": "Artigo 5.º — Transmissão de informação",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Transmissão de informação\n\n1 - Sem prejuízo do que venha a ser previsto em sede da regulamentação a que se refere o artigo anterior, os dados relativos ao pessoal em situação de mobilidade especial são inseridos, pelo departamento regional de origem do pessoal colocado em situação de mobilidade especial, no Sistema de Informação e Base de Dados dos Trabalhadores das Entidades Públicas Regionais, abreviadamente designado por SITEPR, que funciona através do serviço do Governo Regional com competência em matéria de informática da Administração Pública, sempre que ocorra carregamento ou atualização de dados, e na bolsa de emprego público da Madeira a que se refere o artigo 7.º do presente diploma.\n\n2 - Sem prejuízo do que venha a ser previsto em sede da regulamentação a que se refere o artigo anterior, o departamento regional de origem do pessoal colocado em situação de mobilidade especial informa os respetivos trabalhadores acerca do carregamento ou atualização mencionados no número anterior.\n\n3 - O serviço regional competente em matéria de informática da Administração Pública assegura os suportes tecnológicos necessários à gestão daquele pessoal.\n\n> Revogado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+  },
+  "115917051": {
+   "fragment_id": "115919276",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 6.º — Competências\n\n1 -  (Revogado)\n\n2 - As referências feitas no Decreto-Lei n.º 200/2006, de 25 de outubro, ao membro do Governo da República, consideram-se feitas aos competentes membros do Governo Regional.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+  },
+  "115917052": {
+   "fragment_id": "115919277",
+   "type": 11,
+   "heading": "Artigo 7.º — Bolsa de emprego público da Madeira",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 7.º — Bolsa de emprego público da Madeira\n\n1 - (Revogado)\n\n2 - As condições de funcionamento e demais regulamentação da BEP-RAM constarão de decreto regulamentar regional, sem prejuízo da aplicabilidade do regime referido no número anterior até à sua entrada em vigor.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+  },
+  "115917053": {
+   "fragment_id": "115919278",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicações",
+   "in_force_from": "2018-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+   ],
+   "markdown": "###### Artigo 8.º — Publicações\n\n1 -  (Revogado)\n\n2 - Todas as referências a publicações a efetuar no Diário da República constantes do Decreto-Lei n.º 200/2006, de 25 de outubro, reportam-se ao Jornal Oficial da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01"
+  },
+  "115914942": {
+   "fragment_id": "115919281",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 31 de julho de 2012.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.\n\nAssinado em 8 de agosto de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

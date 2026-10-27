@@ -1,0 +1,220 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25344773:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-151555184",
+ "dre_path": "/dr/detalhe/portaria/102-2014-25344773",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-05-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "151644075",
+    "151644076",
+    "151644077",
+    "151644078",
+    "151644079",
+    "151644080",
+    "151644081",
+    "151644082",
+    "151644083"
+   ]
+  },
+  {
+   "date": "2021-01-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151557425:por",
+     "title": "Portaria n.º 293/2020",
+     "published": "2020-12-18",
+     "dre_path": "/dr/detalhe/portaria/293-2020-151557425"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "151644075",
+    "151644094",
+    "151644095",
+    "151644096",
+    "151644097",
+    "151644080",
+    "151644098",
+    "151644099",
+    "151644091",
+    "151644092",
+    "151644093"
+   ]
+  }
+ ],
+ "fragments": {
+  "151644075": {
+   "fragment_id": "151555185",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 102/2014\n\nde 15 de maio\n\nRealização de espetáculos e divertimentos em recintos autorizados\n\nO regime do exercício da atividade de segurança privada, aprovado pela Lei n.º 34/2013, de 16 de maio, determina que a realização de espetáculos e divertimentos em recintos autorizados depende do cumprimento da obrigação de disporem de um sistema de segurança que inclua assistentes de recintos de espetáculos e demais medidas de segurança previstas na lei, nos termos e condições a fixar em portaria dos membros do Governo responsáveis pelas áreas da administração interna e da cultura.\n\nForam excluídos deste âmbito os recintos fixos de espetáculos de natureza artística de canto, dança e música realizada em recinto dotado de lugares permanentes e reservados aos espetadores, e os espetáculos de natureza não artística. Atendeu-se, contudo, à organização adaptativa dos modernos recintos fixos e consagrou-se um regime específico sempre que estes funcionem sem lugares marcados ou em regime misto.\n\nExistindo regulamentação especial aplicável aos diferentes domínios de segurança de espetáculos e divertimentos públicos, a área de intervenção do sistema de segurança previsto na presente portaria abrange apenas medidas de prevenção da prática de crimes e de proteção de pessoas.\n\nNestes termos, a presente portaria define os termos e condições da sua obrigatoriedade.\n\nAssim:\n\nManda o Governo, pelo Ministro da Administração Interna e pelo Secretário de Estado da Cultura, ao abrigo do disposto no n.º 3 do artigo 9.º da Lei n.º 34/2013, de 16 de maio, o seguinte:"
+  },
+  "151644076": {
+   "fragment_id": "151555186",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria estabelece o sistema de segurança obrigatório aplicável aos espetáculos e divertimentos em recintos autorizados, nos termos previstos no n.º 3 do artigo 9.º da Lei n.º 34/2013, de 16 de maio, de forma a promover a realização dos mesmos em segurança.\n\n2 - O disposto na presente portaria é aplicável a espetáculos de representação artística de canto, dança e música em recintos não dotados de lugares permanentes e reservados aos espetadores ou em espaço delimitado licenciado para o efeito pela autoridade competente, em que o número de espetadores previstos seja igual ou superior a 3000."
+  },
+  "151644077": {
+   "fragment_id": "151555187",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente portaria, entende-se por:\n\na) «Anel ou perímetro de segurança» a delimitação física do espaço exterior do recinto, ou local delimitado pela organização para a realização do evento, cuja montagem ou instalação compete ao promotor do espetáculo, após parecer favorável da força de segurança territorialmente competente;\n\nb) «Área do espetáculo» a superfície onde se desenrola o espetáculo destinada ao público, incluindo as zonas de proteção;\n\nc) «Espetáculo» o evento, ou conjunto de eventos limitados no tempo e no espaço, de representação artística de canto, dança ou música realizado em recinto ou local autorizado;\n\nd) «Ponto de contacto para a segurança» o representante do promotor do espetáculo, permanentemente responsável por todas as matérias de segurança do evento, nomeadamente, pela verificação da execução dos planos e regulamentos de prevenção e segurança, ligação e coordenação com as forças de segurança, os serviços de emergência médica, os serviços de proteção civil e bombeiros, bem como pela definição das orientações do serviço de segurança privada;\n\ne) «Promotor» do evento a pessoa, singular ou coletiva, pública ou privada, que o promove e que é responsável pelo pedido de licenciamento e funcionamento do recinto.\n\nf) «Recinto» o conjunto de terrenos, construções e instalações, ainda que provisórias, destinadas ao espetáculo, compreendendo os espaços reservados ao público e ao parqueamento de viaturas, confinado ou delimitado por muros, paredes ou vedações, em regra com acesso controlado e condicionado;"
+  },
+  "151644078": {
+   "fragment_id": "151555188",
+   "type": 11,
+   "heading": "Artigo 3.º — Sistema de segurança obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sistema de segurança obrigatório\n\n1 - O sistema de segurança obrigatório para efeitos do n.º 3 do artigo 9.º da Lei n.º 34/2013, de 16 de maio, compreende:\n\na) A elaboração de um plano de prevenção e segurança do espetáculo;\n\nb) A utilização de assistentes de recinto de espetáculos para as funções previstas no n.º 6 do artigo 18.º da Lei n.º 34/2013, de 16 de maio.\n\n2 - A realização de eventos em recintos fixos de espetáculo sujeitos ao licenciamento da Inspeção-Geral das Atividades Culturais, quando impliquem a remoção total ou parcial dos lugares fixos, fica apenas sujeita à obrigação prevista na alínea b) do número anterior.\n\n3 - Nos casos referidos no número anterior, o promotor deverá apresentar o plano de prevenção e segurança do recinto, o qual deverá contemplar o emprego dos meios de segurança, juntamente com prova de licenciamento válido por parte da Inspeção-Geral das Atividades Culturais."
+  },
+  "151644079": {
+   "fragment_id": "151555189",
+   "type": 11,
+   "heading": "Artigo 4.º — Plano de prevenção e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Plano de prevenção e segurança\n\n1 - Sem prejuízo dos regulamentos internos em matéria de segurança e de utilização dos espaços de acesso público exigíveis nos termos dos regimes jurídicos que lhes sejam aplicáveis, o promotor do espetáculo deve submeter à entidade licenciadora, até 30 dias úteis antes da realização do evento, o plano de prevenção e segurança do espetáculo de natureza artística, que deverá incluir parecer obrigatório e vinculativo das forças de segurança, dos serviços de emergência médica e dos serviços de proteção civil e bombeiros territorialmente competentes.\n\n2 - O plano de prevenção e segurança dos espetáculos de natureza artística e divertimentos deve conter, entre outras, as seguintes medidas:\n\na) Controlo de venda ou qualquer outra forma de oferta de títulos de ingresso;\n\nb) A definição de lotação do recinto ou, quando ocorram vários eventos no mesmo recinto, simultaneamente ou não, das zonas que o compõem disponibilizadas para assistência a esses eventos;\n\nc) Vigilância e controlo destinados a impedirem o excesso de lotação em qualquer zona do recinto, bem como a assegurar o desimpedimento das vias de acesso, dos caminhos de evacuação e a operacionalidade das saídas de emergência;\n\nd) Instalação ou montagem de anéis de segurança e a adoção de sistemas de controlo de acesso, que podem incluir as revistas, nos termos e com observância dos requisitos previstos no n.º 2 do artigo 19.º da Lei n.º 34/2013, de 16 de maio, de modo a impedir a introdução de objetos ou substâncias proibidas ou suscetíveis de gerar atos de violência;\n\ne) Determinação de zonas de paragem e estacionamento de viaturas das forças de segurança e de emergência, bem como dos circuitos de entrada, de circulação e de saída, numa lógica de segurança e facilitação;\n\nf) Elaboração de um plano de emergência interno, prevendo e definindo, designadamente, a atuação dos assistentes de recintos de espetáculos."
+  },
+  "151644080": {
+   "fragment_id": "151555190",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres do promotor\n\nSem prejuízo dos deveres que lhe sejam cometidos na legislação e regulamentação aplicáveis, são deveres do promotor do espetáculo:\n\na) Apresentar, até 30 dias úteis antes do início do espetáculo, o plano de prevenção e segurança do espetáculo;\n\nb) Informar, até 24 horas antes do início do espetáculo, a força de segurança territorialmente competente, do número de títulos de ingresso distribuídos e/ou da estimativa de número de espetadores;\n\nc) Assumir a responsabilidade pela segurança do recinto e anéis de segurança, sem prejuízo das competências legais das forças e serviços de segurança;\n\nd) Designar o ponto de contacto para a segurança;\n\ne) Garantir que são cumpridas todas as regras e condições de acesso e permanência de espetadores no recinto."
+  },
+  "151644081": {
+   "fragment_id": "151555191",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres das entidades de segurança privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres das entidades de segurança privada\n\nSem prejuízo das funções e demais deveres previstos no regime de exercício da atividade de segurança privada, constituem deveres especiais das entidades de segurança privada:\n\na) Garantir o enquadramento e supervisão dos assistentes de recinto de espetáculo durante a realização do evento, nomeando um elemento de entre o pessoal de vigilância com funções de coordenador, a quem caberá a direção e supervisão dos assistentes de recinto de espetáculo empenhados em cada evento;\n\nb) Assegurar a designação de assistentes de recinto de espetáculos e comunicar, até 6 horas antes do início do espetáculo, a listagem dos assistentes de recinto de espetáculo identificados pelos respetivos números de cartão profissional;\n\nc) Cumprir e fazer cumprir os planos de segurança relativos ao local onde presta serviço;\n\nd) Cumprir as diretivas recebidas da estrutura de segurança."
+  },
+  "151644082": {
+   "fragment_id": "151555192",
+   "type": 11,
+   "heading": "Artigo 7.º — Número de efetivos de segurança privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Número de efetivos de segurança privada\n\n1 - Para efeitos do cálculo do número mínimo de assistentes de recinto de espetáculo devem ser utilizados os seguintes critérios:\n\na) Em espetáculos até 5 000 espetadores, 12 assistentes de recinto de espetáculos;\n\nb) Em espetáculos com mais de 5 000 e até 10 000 espetadores, 20 assistentes de recinto de espetáculos;\n\nc) Em espetáculos com mais de 10 000 e até 15 000 espetadores, 30 assistentes de recinto de espetáculos;\n\nd) Em espetáculos com mais de 15 000 espetadores, para além dos definidos na alínea anterior, mais 2 assistentes de recinto de espetáculos por cada 1 000 espetadores que excedam o limite superior da alínea c).\n\n2 - Os números acima definidos, sendo critérios mínimos, não desoneram o promotor do dever de garantir a contratação de assistentes de recinto de espetáculo em número suficiente para assegurar que o evento decorre em condições de segurança."
+  },
+  "151644083": {
+   "fragment_id": "151555193",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor 15 dias após a data da sua publicação."
+  },
+  "151644094": {
+   "fragment_id": "151555186",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": "2021-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - A presente portaria estabelece o sistema de segurança obrigatório aplicável aos espetáculos e aos divertimentos em recintos autorizados, nos termos previstos no n.º 3 do artigo 9.º da Lei n.º 34/2013, de 16 de maio, de forma a promover a realização dos mesmos em segurança.\n\n2 - O recurso a pessoal de segurança privada é obrigatório nos espetáculos e divertimentos realizados nas seguintes condições:\n\na) Em recintos fixos de espetáculo de natureza artística, não dotados de lugares permanentes e reservados aos espetadores, autorizados para o efeito pela autoridade competente, em que o número de espetadores previsto seja igual ou superior a 3000; ou\n\nb) Em recintos improvisados, autorizados para o efeito pela autoridade competente, em que o número de espetadores previsto seja igual ou superior a 1000.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+  },
+  "151644095": {
+   "fragment_id": "151555187",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2021-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto na presente portaria, entende-se por:\n\na) «Anel ou perímetro de segurança» a delimitação física do espaço exterior do recinto, ou local delimitado pela organização para a realização do evento, cuja montagem ou instalação compete ao promotor do espetáculo, após parecer favorável da força de segurança territorialmente competente;\n\nb) «Área do espetáculo» a superfície onde se desenrola o espetáculo destinada ao público, incluindo as zonas de proteção;\n\nc) «Espetáculo» o evento, ou conjunto de eventos limitados no tempo e no espaço, de representação artística de canto, dança ou música realizado em recinto ou local autorizado;\n\nd) «Ponto de contacto para a segurança» o representante do promotor do espetáculo, permanentemente responsável por todas as matérias de segurança do evento, nomeadamente, pela verificação da execução dos planos e regulamentos de prevenção e segurança, ligação e coordenação com as forças de segurança, os serviços de emergência médica, os serviços de proteção civil e bombeiros, bem como pela definição das orientações do serviço de segurança privada;\n\ne) «Promotor», a pessoa, singular ou coletiva, pública ou privada, que tem por atividade a promoção ou organização de espetáculos ou eventos ou que, quando aplicável, é responsável pelo pedido de licenciamento e funcionamento do recinto improvisado, onde aqueles se realizem;\n\nf) «Recinto» o conjunto de terrenos, construções e instalações, ainda que provisórias, destinadas ao espetáculo, compreendendo os espaços reservados ao público e ao parqueamento de viaturas, confinado ou delimitado por muros, paredes ou vedações, em regra com acesso controlado e condicionado;\n\ng) «Recintos fixos de espetáculo de natureza artística», os espaços delimitados, resultantes de construção de caráter permanente, cobertos ou descobertos, que, independentemente da respetiva designação, tenham como finalidade principal a realização de espetáculos de natureza artística;\n\nh) «Recintos improvisados», os espaços delimitados cobertos ou descobertos, com características construtivas ou adaptações precárias, montados temporariamente para um espetáculo ou divertimento específico, em lugares públicos ou privados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+  },
+  "151644096": {
+   "fragment_id": "151555188",
+   "type": 11,
+   "heading": "Artigo 3.º — Sistema de segurança obrigatório",
+   "in_force_from": "2021-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+   ],
+   "markdown": "###### Artigo 3.º — Sistema de segurança obrigatório\n\n1 - O sistema de segurança obrigatório para efeitos do n.º 3 do artigo 9.º da Lei n.º 34/2013, de 16 de maio, compreende:\n\na) A elaboração de um plano de prevenção e segurança do espetáculo;\n\nb) A utilização de coordenador de segurança para as funções previstas no n.º 3 do artigo 20.º-A da Lei n.º 34/2013, de 16 de maio;\n\nc) A utilização de assistentes de recinto de espetáculos para as funções previstas no n.º 6 do artigo 18.º da Lei n.º 34/2013, de 16 de maio.\n\nd) A adoção de sistema de videovigilância nas condições previstas no artigo 31.º da Lei n.º 34/2013, de 16 de maio, quando o número de espetadores previsto seja igual ou superior a 15 000.\n\n2 - A realização de eventos em recintos fixos de espetáculo de natureza artística autorizados quando impliquem a remoção total ou parcial dos lugares fixos, fica apenas sujeita às obrigatoriedades prevista nas alíneas b) a d) do número anterior.\n\n3 - Nos casos referidos no número anterior, o promotor deverá apresentar o plano de prevenção e segurança do recinto, o qual deverá contemplar o emprego dos meios de segurança, juntamente com prova de autorização por parte da Inspeção-Geral das Atividades Culturais.\n\n4 - As funções previstas no n.º 6 do artigo 18.º da Lei n.º 34/2013, de 16 de maio, quando exercidas em espetáculos e divertimentos não abrangidos pela presente portaria, apenas podem ser exercidas por pessoal de vigilância com a especialidade de assistente de recinto de espetáculos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+  },
+  "151644097": {
+   "fragment_id": "151555189",
+   "type": 11,
+   "heading": "Artigo 4.º — Plano de prevenção e segurança",
+   "in_force_from": "2021-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+   ],
+   "markdown": "###### Artigo 4.º — Plano de prevenção e segurança\n\n1 - Sem prejuízo dos regulamentos internos em matéria de segurança e de utilização dos espaços de acesso público exigíveis nos termos dos regimes jurídicos que lhes sejam aplicáveis, o promotor do espetáculo deve submeter à entidade licenciadora, até 30 dias úteis antes da realização do evento, o plano de prevenção e segurança, previsto na alínea a) do n.º 1 do artigo 3.º, que deverá incluir parecer obrigatório e vinculativo das forças de segurança, dos serviços de emergência médica, dos serviços de proteção civil e bombeiros territorialmente competentes.\n\n2 - O plano de prevenção e segurança deve conter, entre outras, as seguintes medidas:\n\na) Controlo de venda ou qualquer outra forma de oferta de títulos de ingresso;\n\nb) A definição de lotação do recinto ou, quando ocorram vários eventos no mesmo recinto, simultaneamente ou não, das zonas que o compõem disponibilizadas para assistência a esses eventos;\n\nc) Vigilância e controlo destinados a impedirem o excesso de lotação em qualquer zona do recinto, bem como a assegurar o desimpedimento das vias de acesso, dos caminhos de evacuação e a operacionalidade das saídas de emergência;\n\nd) Instalação ou montagem de anéis de segurança e a adoção de sistemas de controlo de acesso, que podem incluir as revistas, nos termos e com observância dos requisitos previstos nos n.os 2 e 4 do artigo 19.º da Lei n.º 34/2013, de 16 de maio, de modo a impedir a introdução de objetos ou substâncias proibidas ou suscetíveis de gerar atos de violência;\n\ne) Determinação de zonas de paragem e estacionamento de viaturas das forças de segurança e de emergência, bem como dos circuitos de entrada, de circulação e de saída, numa lógica de segurança e facilitação;\n\nf) Elaboração de um plano de emergência interno, prevendo e definindo, designadamente, a atuação dos assistentes de recintos de espetáculos.\n\ng) Plano de evacuação e a localização dos pontos de encontro exteriores, com previsão da respetiva capacidade;\n\nh) Nos espetáculos cuja lotação seja igual ou superior a 15 000 espetadores, definição do centro de operações para coordenação do evento, com a identificação dos representantes acreditados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+  },
+  "151644098": {
+   "fragment_id": "151555191",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres das entidades de segurança privada",
+   "in_force_from": "2021-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+   ],
+   "markdown": "###### Artigo 6.º — Deveres das entidades de segurança privada\n\nSem prejuízo das funções e demais deveres previstos no regime de exercício da atividade de segurança privada, constituem deveres especiais das entidades de segurança privada:\n\na) Assegurar a designação do coordenador de segurança e dos assistentes de recinto de espetáculos, através de comunicação dos respetivos números de cartão profissional à força de segurança territorialmente competente, até seis horas antes do início do espetáculo;\n\nb) Garantir o enquadramento e supervisão dos assistentes de recinto de espetáculo durante a realização do evento, por intermédio de coordenador de segurança, a quem caberá a direção e supervisão dos assistentes de recinto de espetáculo empenhados no evento;\n\nc) Cumprir e fazer cumprir os planos de segurança relativos ao local onde presta serviço;\n\nd) Cumprir as diretivas recebidas da estrutura de segurança.\n\ne) Qualquer alteração aos elementos abrangidos pela alínea a) deve ser comunicada antes do início de funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+  },
+  "151644099": {
+   "fragment_id": "151555192",
+   "type": 11,
+   "heading": "Artigo 7.º — Número de efetivos de segurança privada",
+   "in_force_from": "2021-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+   ],
+   "markdown": "###### Artigo 7.º — Número de efetivos de segurança privada\n\n1 - Para efeitos do cálculo do número mínimo de assistentes de recinto de espetáculo devem ser utilizados os seguintes critérios:\n\na) Em espetáculos com mais de 1000 e até 3000 espetadores, 6 assistentes de recinto de espetáculos;\n\nb) Em espetáculos com mais de 3000 e até 5000 espetadores, 12 assistentes de recinto de espetáculos;\n\nc) Em espetáculos com mais de 5 000 e até 10 000 espetadores, 20 assistentes de recinto de espetáculos;\n\nd) Em espetáculos com mais de 10 000 e até 15 000 espetadores, 30 assistentes de recinto de espetáculos;\n\ne) Em espetáculos cujo número de espetadores previsto seja igual ou superior a 15 000, para além dos definidos na alínea anterior, mais 2 assistentes de recinto de espetáculos por cada 1000 espetadores que excedam o limite superior da alínea d).\n\n2 - Os números atrás referidos, sendo critérios mínimos, não desoneram o promotor do dever de garantir a contratação de coordenadores de segurança e de assistentes de recinto de espetáculos em número suficiente para assegurar que o evento decorre em condições de segurança.\n\n3 - Fora das condições previstas no n.º 1, o promotor, em articulação com a força de segurança territorialmente competente, deve avaliar a necessidade de utilização de coordenador de segurança e de assistentes de recinto de espetáculo, no sentido de garantir a segurança do espetáculo ou evento e o cumprimento de todas as regras e condições de acesso e de permanência no espetáculo, nomeadamente as funções que devam, nos termos da lei, ser efetuadas por estes, sendo nestes casos aplicável o disposto nas alíneas b), c) e e) do artigo 5.º\n\n4 - Para efeitos do disposto no número anterior, o número mínimo de assistentes de recinto de espetáculos não pode ser inferior a dois\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+  },
+  "151644091": {
+   "fragment_id": "151555202",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Sistema de videovigilância",
+   "in_force_from": "2021-01-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+   ],
+   "markdown": "###### Artigo 7.º-A — Sistema de videovigilância\n\nOs espetáculos e divertimentos referidos no artigo 3.º, n.º 1, alínea d), devem dispor de sistema de videovigilância nas condições constantes do plano de segurança, e que abranja, no mínimo, os locais destinados a:\n\na) Acessos;\n\nb) Venda de ingressos;\n\nc) Instalação de equipamentos dispensadores automáticos de dinheiro;\n\nd) Outros onde legislação específica assim o exija.»\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 293/2020 - Diário da República n.º 245/2020, Série I de 2020-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2020-151557425), em vigor a partir de 2021-01-17"
+  },
+  "151644092": {
+   "fragment_id": "151555193",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor 15 dias após a data da sua publicação."
+  },
+  "151644093": {
+   "fragment_id": "151555194",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Miguel Bento Martins Costa Macedo e Silva, em 17 de abril de 2014. - O Secretário de Estado da Cultura, Jorge Barreto Xavier, em 28 de abril de 2014."
+  }
+ }
+}

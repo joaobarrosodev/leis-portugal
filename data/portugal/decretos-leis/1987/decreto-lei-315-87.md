@@ -1,0 +1,272 @@
+---
+schema_version: '1.0'
+id: pt:dre:418191:por
+title: Decreto-Lei n.º 315/87
+short_title: null
+summary: Cria o Gabinete do Nó Ferroviário de Lisboa, sob a tutela do Ministro das Obras Públicas, Transportes e Comunicações,
+  gozando de personalidade jurídica e autonomia administrativa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 315/87
+official_date: null
+publication_date: '1987-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/1987, Série I de 1987-08-20
+  number: '190'
+  series: I
+  supplement: null
+  pages: 3264 - 3266
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/08/19000/32643266.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '418191'
+  dre_path: /dr/detalhe/decreto-lei/315-1987-418191
+  internal: pt:dre:418191:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1987-418191
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1987-418191
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:21:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5b028e8dd61cfd863e53872423b5702526b0c79388702b6de62543b0a74b5f7d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:21:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gabinete do Nó Ferroviário de Lisboa
+- Orgânica
+- Personalidade Jurídica
+- Transporte Ferroviário
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:372653:por
+  label: "Alterado o art. 8º pelo DEC LEI.252/88.18.07.1988.MOPTC, DR.IS [164] de 18.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-1988-372653
+  date: '1988-07-18'
+- type: amended_by
+  target: pt:dre:616450:por
+  label: "Alterados os arts. 5.º, 6.º e 10.º pelo DEC LEI.275/92.12.12.1992.MOPTC, DR.IS-A [286] de 12.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1992-616450
+  date: '1992-12-12'
+- type: amended_by
+  target: pt:dre:476739:por
+  label: "Extinto o Gabinete do Nó Ferroviário de Lisboa, pelo Dec Lei 104/97.1997.04.29.MEPAT, DR.IS-A [99] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1997-476739
+  date: '1997-04-29'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:21:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 315/87
+
+de 20 de Agosto
+
+A crescente participação dos transportes no desenvolvimento e no equilíbrio económico-sociais exige o ordenamento racional das suas infra-estruturas, em particular das que se apresentam com efeitos marcadamente estruturantes em áreas regionais de feição metropolitana, sem o que se correrá o risco de elevados custos e injustificadas assimetrias - fonte de bloqueios e rupturas em tecidos sócio-económicos - por inadequação dos transportes às novas exigências culturais, sociais, económicas, energéticas e até ecológicas de uma sociedade em expansão.
+
+A região de Lisboa é, no País, uma das que mais carece de intervenção no sentido referido e o caminho de ferro, entre os modos de transporte que nela operam, o que requer maior e mais urgente atenção.
+
+Nesta perspectiva, alguns dos empreendimentos a promover assumem, à partida, especial relevância, sendo de citar:
+
+Reformulação da linha de cintura, incluindo o ramal de Alcântara;
+
+Beneficiação da linha de Sintra;
+
+Extensão da linha do Oeste, como suburbana, a Torres Vedras;
+
+Melhoria da linha de Cascais;
+
+Reestruturação da linha do Norte até Azambuja, como suburbana, e construção da nova estação terminal de Lisboa;
+
+Inscrição do atravessamento ferroviário do Tejo na Ponte de 25 de Abril;
+
+Promoção, a mais longo prazo, do segundo atravessamento ferroviário do rio Tejo.
+
+Daqui decorre a convicção da necessidade da criação imediata de um órgão capaz de promover, coordenar, desenvolver e controlar as acções e os meios necessários à permanente adequação, quantitativa e qualificativa, do transporte ferroviário à expansão sócio-económica da área metropolitana de Lisboa.
+
+Tratando-se, porém, de um conjunto de acções de extraordinária dimensão nos aspectos social, económico, financeiro e de construção e sendo as infra-estruturas da directa responsabilidade do Estado, justifica-se a criação de um órgão que dele dependa directamente, com personalidade jurídica própria e autonomia administrativa, a operar em estreita colaboração com a CP - Caminhos de Ferro Portugueses, E. P.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - É criado o Gabinete do Nó Ferroviário de Lisboa, organismo com carácter eventual, sob a tutela do Ministro das Obras Públicas, Transportes e Comunicações, gozando de personalidade jurídica e autonomia administrativa.
+
+2 - O Gabinete do Nó Ferroviário de Lisboa, adiante designado por Gabinete, tem a sua sede em Lisboa.
+
+Art. 2.º O pessoal técnico, administrativo e auxiliar necessário ao funcionamento do Gabinete será assegurado pelo Ministério das Obras Públicas, Transportes e Comunicações.
+
+Art. 3.º - 1 - O Gabinete tem por atribuições a promoção, a coordenação, o desenvolvimento e o controle de todas as actividades relacionadas com o nó ferroviário de Lisboa, sendo da sua competência, nomeadamente:
+
+a) Promover a elaboração de todos os estudos que se tornem necessários à realização dessas actividades ou com ela relacionados;
+
+b) Proceder à abertura de concursos para estudos prévios, anteprojectos e projectos ligados aos empreendimentos ferroviários de carácter regional;
+
+c) Proceder à abertura e análise das propostas para a adjudicação da execução de obras incluídas nos empreendimentos;
+
+d) Preparar a elaboração de contratos para a execução das acções a realizar no âmbito da sua actividade e fiscalizar o seu cumprimento;
+
+e) Representar o Governo em todos os actos relacionados com os estudos e a realização dos empreendimentos;
+
+f) Assegurar a cooperação dos serviços e entidades que intervenham nos estudos e na execução das obras;
+
+g) Proceder às expropriações e aquisições ou arrendamentos de prédios ou terrenos necessários para a execução das obras, incluindo estaleiros e respectivos acessos;
+
+h) Dirigir e fiscalizar os trabalhos;
+
+i) Promover o pagamento das despesas.
+
+2 - A inclusão de empreendimentos no âmbito do nó ferroviário de Lisboa faz-se sob proposta do Gabinete que tenha a concordância da CP e mereça a aprovação do Ministro das Obras Públicas, Transportes e Comunicações.
+
+3 - Todos os contratos de fornecimento, prestação de serviços e empreitadas necessários para a concretização dos empreendimentos do nó ferroviário de Lisboa são celebrados pelo Gabinete em nome próprio ou do Estado, devendo as obras que lhes correspondem ser transferidas para a CP nos termos que vierem a ser convencionados no protocolo referido no artigo 4.º, as quais ficam integradas no património da CP ou no domínio público afecto a esta empresa pública.
+
+4 - O produto dos financiamentos que vierem a ser concedidos ao Estado para execução dos empreendimentos do nó ferroviário de Lisboa é colocado à disposição do Gabinete sob a forma de empréstimo, sem prejuízo da manutenção da responsabilidade financeira do Estado perante os seus credores.
+
+5 - Com a transferência das obras prevista no n.º 3, a CP assume perante o Estado a responsabilidade do Gabinete como mutuário dos financiamentos concedidos, com a correspondente conversão em dotação de capital da CP dos créditos do Estado destinados a investimentos com infra-estruturas de longa duração ou deles decorrentes e ainda os investimentos de carácter social.
+
+Art. 4.º - 1 - A CP e o Gabinete acordarão, em protocolo, o modo de articulação das duas entidades nas acções e decisões que devem ser tomadas relativamente à execução e desenvolvimento de cada um dos projectos e sua futura integração na exploração da CP, sem prejuízo da representação desta empresa pública no órgão de direcção do Gabinete.
+
+2 - As divergências entre a CP e o Gabinete relativas ao conteúdo e execução do protocolo que não puderem ser dirimidas por acordo serão decididas por despacho do Ministro das Obras Públicas, Transportes e Comunicações.
+
+Art. 5.º - 1 - O Gabinete é dirigido por um conselho directivo, constituído por um presidente e quatro vogais.
+
+2 - O presidente do conselho directivo será um dos membros do conselho de gerência da CP especialmente designado pelo Governo para esse efeito.
+
+3 - Os quatro vogais são nomeados por despacho do Ministro das Obras Públicas, Transportes e Comunicações pelo prazo de três anos e serão indicados:
+
+a) Um pelo Ministro das Finanças;
+
+b) Um pelo Ministro do Plano e da Administração do Território;
+
+c) Um pelo Ministro das Obras Públicas, Transportes e Comunicações;
+
+d) Um pela CP.
+
+4 - Nas faltas e impedimentos do presidente, este é substituído pelo vogal indicado pelo próprio conselho directivo do Gabinete.
+
+Art. 6.º - 1 - Ao presidente cabe, sem prejuízo do disposto no n.º 4 do artigo anterior, representar o Gabinete perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões do conselho directivo e assegurar a execução das suas deliberações.
+
+2 - Ao vogal indicado pelo Ministro das Finanças compete superintender nos serviços administrativos e de expediente do Gabinete e coordenar as acções de carácter financeiro.
+
+3 - As funções específicas dos demais vogais serão definidas pelo próprio conselho directivo.
+
+4 - O Gabinete vincula-se juridicamente pela assinatura de dois membros do seu conselho directivo ou por mandatários constituídos por deliberação desse conselho.
+
+Art. 7.º - 1 - O conselho directivo delibera por maioria dos membros no exercício de funções.
+
+2 - O presidente do conselho directivo tem voto de qualidade.
+
+Art. 8.º - 1 - O Gabinete é assistido por um conselho técnico consultivo, com a seguinte composição:
+
+a) Um representante do Ministério das Obras Públicas, Transportes e Comunicações, que presidirá;
+
+b) Um representante do Ministério da Defesa Nacional;
+
+c) Um representante do Ministério da Administração Interna;
+
+d) Um representante do Ministério das Finanças;
+
+e) Um representante do Ministério do Plano e da Administração do Território;
+
+f) Um representante do Ministério da Educação e Cultura;
+
+g) Um representante da Administração-Geral do Porto de Lisboa;
+
+h) Um representante da Direcção-Geral dos Transportes Terrestres;
+
+i) Um representante da CP - Caminhos de Ferro Portugueses, E. P.;
+
+j) Um representante do Laboratório Nacional de Engenharia Civil.
+
+2 - Os membros do conselho técnico consultivo referidos no número anterior são nomeados pelo Ministro das Obras Públicas, Transportes e Comunicações, sob proposta dos ministros que tutelam os respectivos organismos.
+
+Art. 9.º - 1 - O conselho técnico consultivo reúne em sessões plenárias por determinação do Ministro das Obras Públicas, Transportes e Comunicações ou a solicitação do presidente do conselho directivo.
+
+2 - Os membros do conselho técnico consultivo prestarão individualmente a assistência técnica que lhes for solicitada pelo presidente do conselho directivo, dentro das respectivas especialidades.
+
+Art. 10.º Os vencimentos e gratificações dos membros do conselho directivo, do pessoal a ele afecto e dos membros do conselho técnico consultivo são fixados por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+Art. 11.º - 1 - As despesas de funcionamento do Gabinete são suportadas por verbas a inscrever no orçamento do Gabinete do Ministro das Obras Públicas, Transportes e Comunicações.
+
+2 - O Gabinete requisitará à 12.ª Delegação da Direcção-Geral da Contabilidade Pública, por conta das verbas destinadas aos empreendimentos do nó ferroviário de Lisboa, as importâncias de que necessita para o pagamento das suas despesas.
+
+3 - As importâncias referidas no número anterior são depositadas à ordem do Gabinete do Nó Ferroviário de Lisboa na Caixa Geral de Depósitos, devendo a respectiva conta ser movimentada por meio de cheque, que terá obrigatoriamente as assinaturas do presidente do conselho directivo, ou, no caso de impedimento, do seu substituto, e de um vogal.
+
+4 - O Gabinete submete anualmente à aprovação do Ministro das Obras Públicas, Transportes e Comunicações, juntamente com os elementos necessários à preparação do PIDDAC e dentro do mesmo prazo, o orçamento de investimento, que incluirá obrigatoriamente os seguintes valores e documentos:
+
+a) Custo estimado do investimento total dos empreendimentos e plano actualizado da sua cobertura financeira;
+
+b) Balanço do imobilizado nos empreendimentos até 31 de Dezembro do ano anterior, incluindo juros vencidos dos empréstimos contraídos para financiar os empreendimentos;
+
+c) Balanço previsional do imobilizado no ano em curso;
+
+d) Despesas de investimento a realizar no ano seguinte, com indicação da respectiva cobertura financeira e especificação das despesas que correspondem à mera execução dos compromissos assumidos.
+
+5 - O conselho directivo não aprova nem propõe a aprovação de decisões ou contratos que determinem um excesso para além dos valores aprovados referidos na alínea d) do número anterior sem previamente colher a autorização para revisão desses valores.
+
+Art. 12.º O Gabinete presta anualmente contas de gerência ao Tribunal de Contas.
+
+Art. 13.º A CP submeterá à apreciação do Gabinete quaisquer sugestões ou propostas que entenda dever transmitir sobre o teor e modo de execução dos contratos com vista ao mais perfeito ajustamento dos projectos à sua economia de exploração, dentro dos limites definidos para o custo das obras.
+
+Visto e aprovado em Conselho de Ministros de 30 de Abril de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins - Fernando Nunes Ferreira Real.
+
+Promulgado em 3 de Agosto de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 7 de Agosto de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534775:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-920510247",
+ "dre_path": "/dr/detalhe/aviso/203-2005-534775",
+ "source_lastmod": "2025-06-04",
+ "versions": [
+  {
+   "date": "2005-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920504262"
+   ]
+  }
+ ],
+ "fragments": {
+  "920504262": {
+   "fragment_id": "920510248",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 203/2005\n\nPor ordem superior se torna público que o Secretário-Geral das Nações Unidas fez a seguinte declaração ao Regulamento n.º 109 do Acordo Relativo à Adopção de Condições Uniformes da Homologação e de Reconhecimento Recíproco de Homologação dos Equipamentos e Peças de Veículos a Motor, assinado em Genebra em 20 de Março de 1958.\n\nDeclaração\n\nNenhuma das Partes Contratantes que aplicam o Regulamento n.º 109 notificou o seu desacordo ao projecto de emendas no prazo de seis meses após a notificação depositária C.N.467.2004.TREATIES-1, de 13 de Maio de 2004. Consequentemente, em virtude do n.º 2 do artigo 12.º do Acordo, as Emendas são tidas como adoptadas e são obrigatórias para todas as Partes Contratantes, aplicando-se o Regulamento n.º 109 desde 13 de Novembro de 2004.\n\nPortugal é Parte do mesmo Regulamento, aprovado pelo Decreto n.º 10/2002, publicado no Diário da República, 1.ª série-A, n.º 79, de 4 de Abril de 2002."
+  }
+ }
+}

@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:501994:por
+title: Portaria n.º 17841
+short_title: null
+summary: Aprova as instruções para a concessão da livre prática pela T. S. F. dos serviços de fiscalização da sanidade marítima
+  aos navios mistos (transportando passageiros e carga) e aos navios de carga que pretendam entrar nos portos portugueses
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde e Assistência
+proposing_entity: null
+official_number: '17841'
+official_date: null
+publication_date: '1960-07-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 167/1960, Série I de 1960-07-20
+  number: '167'
+  series: I
+  supplement: null
+  pages: 1761 - 1762
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/07/16700/17611762.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '501994'
+  dre_path: /dr/detalhe/portaria/17841-1960-501994
+  internal: pt:dre:501994:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17841-1960-501994
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17841-1960-501994
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:46:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0e7bccdcfca6954278d5d87a0c797f210ba6ced3eefd57756fb943bd8b9dcc65
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:388645:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:436185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481560:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388645:por
+  label: "Revogada pelo DEC LEI.48009.27.10.1967.MSA, DG.IS [251] de 27.10.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48009-1967-388645
+  date: '1967-10-27'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:46:13Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17841
+
+A [Portaria n.º 7956](https://diariodarepublica.pt/dr/detalhe/portaria/7956-1934-436185), de 28 de Dezembro de 1934, ao aprovar as instruções para os serviços de fiscalização da sanidade marítima da Direcção-Geral de Saúde, dispôs no artigo 24.º que «o Governo reserva-se o direito de suspender as dispensas das visitas de saúde se circunstâncias de ordem sanitária assim o indicarem e enquanto elas se derem».
+
+Publicado o [Decreto n.º 37948](https://diariodarepublica.pt/dr/detalhe/decreto/37948-1950-481560) em 7 de Setembro de 1950, nele se estabeleceu, efectivamente, que as derrogações da visita de saúde por declarações transmitidas pela T. S. F. passavam a ser consentidas nos navios principalmente utilizados no transporte de passageiros.
+
+A experiência tem, porém, mostrado que há vantagem em tornar extensiva à navegação comercial a concessão de livre prática pela T. S. F., em termos análogos aos estabelecidos para os navios utilizados no transporte de passageiros. É este o fim principal da presente portaria, elaborada pelo Ministério da Saúde em estreita colaboração com os demais departamentos interessados.
+
+É, evidentemente, desejável ir mais longe na concessão de facilidades à navegação. E isso mesmo se espera fazer em breve, pois está em adiantada revisão o sistema estabelecido pelo [Decreto n.º 37948](https://diariodarepublica.pt/dr/detalhe/decreto/37948-1950-481560). Trata-se, porém, de um trabalho delicado e ainda relativamente demorado, e julga-se vantajoso desde já, e sem prejuízo da revisão em curso, ir tão longe quanto o permita a legislação vigente na concessão dessas facilidades.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, aprovar as seguintes instruções:
+
+1.º Os navios mistos (transportando passageiros e carga) e os navios de carga que pretenderem entrar nos portos portugueses poderão transmitir pela T. S. F. mensagens internacionais de quarentena solicitando que lhes seja concedida livre prática. Esta poderá igualmente ser-lhes concedida pela rádio.
+
+§ 1.º No caso de a livre prática ser concedida, os pilotos deverão conduzir as embarcações para o ancoradouro ou cais que lhe for designado pelas entidades competentes.
+
+§ 2.º Encontram-se desde já em condições de receber mensagens desta natureza os portos de Lisboa, Porto (Leixões), Funchal e Ponta Delgada. A inclusão de qualquer outro porto na presente lista será determinada por portaria do Ministro da Saúde e Assistência, ouvidas sobre o assunto as outras entidades competentes.
+
+2.º A derrogação da visita de saúde, nos termos do número anterior, só é consentida aos navios que, pelo menos 30 dias antes da chegada, não hajam escalado portos contaminados ou situados em regiões contaminadas por doenças quarentenárias e não tenham tido, durante a viagem, casos de doença ou óbito que não fossem resultantes de acidente.
+
+3.º As mensagens internacionais de quarentena podem ser transmitidas em português, francês ou inglês, ou empregando os símbolos do Código Internacional de Sinais (mensagens ordinárias e suplementares de quarentena), ou ainda em parte numa das línguas indicadas e em parte em código. Serão assinadas pelo capitão do navio e pelo médico, se o houver.
+
+4.º As mensagens internacionais de quarentena relativas a esses navios devem conter as mesmas indicações que o [Decreto n.º 37948](https://diariodarepublica.pt/dr/detalhe/decreto/37948-1950-481560) estabelece para os navios de passageiros.
+
+5.º O prazo de expedição das mensagens internacionais de quarentena e o seu endereço são regulados pelas alíneas b), c), d) e e) do n.º 6.º das instruções aprovadas pelo [Decreto n.º 37948](https://diariodarepublica.pt/dr/detalhe/decreto/37948-1950-481560), de 7 de Setembro de 1950.
+
+§ único. Na concessão da livre prática pela rádio serão igualmente observadas as disposições contidas nos n.os 7.º, na parte aplicável, e 8.º, 9.º, 13.º e 18.º das instruções aprovadas pelo [Decreto n.º 37948](https://diariodarepublica.pt/dr/detalhe/decreto/37948-1950-481560).
+
+6.º A concessão da livre prática será transmitida para bordo por intermédio dos armadores, dos agentes de navegação ou dos pilotos da barra. O capitão fica, porém, obrigado a apresentar ao piloto, que a rubricará, o texto de declaração marítima de saúde, que apresentará às autoridades sanitárias no acto de regularização da livre prática.
+
+§ único. Quando a livre prática pela rádio for negada, o piloto fará içar a tope do mastro o sinal de quarentena do Código Internacional de Sinais que corresponder ao estado sanitário de bordo, e o navio não poderá comunicar com terra, nem com quaisquer embarcações, enquanto lhe não for concedida autorização, devendo, antes da visita de saúde, pairar ou fundear ao largo.
+
+7.º As embarcações entradas e às quais foi concedida livre prática pela rádio deverão trazer visíveis os sinais estabelecidos internacionalmente para estes casos, salvo se outros forem determinados pelo Ministério da Marinha.
+
+8.º À chegada, desde que as embarcações hajam solicitado livre prática pelo menos seis horas antes de atracar ou fundear, as estações de saúde enviarão a bordo um dos seus funcionários, a fim de regularizar a livre prática.
+
+§ 1.º Esta regularização da livre prática à chegada precede qualquer outra formalidade oficial, é obrigatória e deve ser feita pelo guarda-mor de serviço ou pelo médico que legalmente o substitua sempre que haja a bordo doença transmissível que não seja quarentenária e que, por não constituir perigo grave para a saúde pública, não haja impedido a concessão da livre prática pela rádio.
+
+§ 2.º Quando haja sido requerido serviço nocturno à favor de um navio a que não possa conceder-se dispensa de visita de saúde, esta visita poderá fazer-se nas condições habituais.
+
+9.º No momento de regularizar a livre prática, o capitão ou o médico de bordo, se o houver, devem entregar a declaração marítima de saúde e as listas dos passageiros e tripulantes e apresentarão ainda, para consulta da autoridade sanitária, o certificado de desratação ou de isenção de desratação do navio e o manifesto de carga, bem como o livro de bordo e qualquer outra documentação que a autoridade sanitária considere necessária.
+
+10.º Os serviços marítimos deverão concertar com os serviços competentes da administração dos portos a forma de serem avisados, com a antecedência necessária, dos locais onde devem atracar ou fundear os navios aos quais seja necessário regularizar a livre prática concedida.
+
+11.º Os agentes ou armadores devem comunicar aos serviços das alfândegas e da polícia o nome e a hora presumível da chegada dos navios a que respeita a livre prática concedida e os pilotos não devem permitir que os navios que fundeiam ou se dirijam directamente aos cais estabeleçam comunicação com a terra ou com outras embarcações antes de estar cumprido o disposto no n.º 8.º, de se efectuar a visita da polícia e de entrarem a bordo os agentes da fiscalização aduaneira.
+
+12.º As falsas declarações em mensagens de quarentena ou nas informações complementares necessárias são punidas nos termos do n.º 17.º das instruções aprovadas pelo [Decreto n.º 37948](https://diariodarepublica.pt/dr/detalhe/decreto/37948-1950-481560), de 7 de Setembro de 1950.
+
+13.º Da aplicação das multas cabe recurso para o Ministro da Saúde e Assistência, que ouvirá obrigatòriamente o Conselho Superior de Higiene e Assistência Social.
+
+Ministério da Saúde e Assistência, 20 de Julho de 1960. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.

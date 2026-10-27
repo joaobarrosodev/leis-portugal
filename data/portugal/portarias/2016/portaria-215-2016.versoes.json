@@ -1,0 +1,386 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75099115:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-160900560",
+ "dre_path": "/dr/detalhe/portaria/215-2016-75099115",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160984988",
+    "160984989",
+    "160984990",
+    "160984991",
+    "160984992",
+    "160984993",
+    "160984994",
+    "160984995",
+    "160984996",
+    "160984997",
+    "160984998",
+    "160984999",
+    "160985000",
+    "160985001",
+    "160985002",
+    "160985003",
+    "160985004",
+    "160985005",
+    "160985006",
+    "160985007"
+   ]
+  },
+  {
+   "date": "2021-04-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160893671:por",
+     "title": "Portaria n.º 78/2021",
+     "published": "2021-04-06",
+     "dre_path": "/dr/detalhe/portaria/78-2021-160893671"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "160984988",
+    "184958897",
+    "184958898",
+    "160984991",
+    "184958899",
+    "184958900",
+    "160984994",
+    "160984995",
+    "184958901",
+    "160984997",
+    "160984998",
+    "160985008",
+    "160985009",
+    "160985018",
+    "160985019",
+    "160985020",
+    "160985021",
+    "160985022",
+    "160985023",
+    "160985024",
+    "160985025",
+    "160985026"
+   ]
+  }
+ ],
+ "fragments": {
+  "160984988": {
+   "fragment_id": "160900561",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 215/2016\n\nde 4 de agosto\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), determinou que a estruturação operacional deste fundo é composta por um programa operacional (PO) de âmbito nacional, designado Mar 2020.\n\nO Mar 2020, aprovado formalmente pela Comissão Europeia através da Decisão de Execução C (2015) 8642, de 30 de novembro de 2015, contempla uma visão estratégica centrada na melhoria da organização do mercado dos produtos da pesca e da aquicultura, enquadrada na Prioridade da União a que alude a alínea a) do n.º 5 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014.\n\nA materialização daquela Prioridade conta com a possibilidade de cofinanciamento, no âmbito do artigo 67.º do citado regulamento, de operações no domínio da armazenagem dos produtos da pesca enumerados no Anexo II do Regulamento n.º 1379/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, que estabelece a Organização Comum dos Mercados dos produtos da pesca e da aquicultura, permitindo aos Estados-Membros a adoção de um regime de apoio mediante a aprovação da competente regulamentação específica.\n\nA atribuição das compensações previstas no referido artigo 67.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, bem como o respetivo montante, dependem da fixação e publicitação de preços de desencadeamento e dos custos técnicos e financeiros das ações necessárias para a estabilização e armazenagem dos produtos em causa.\n\nEm 14 de julho de 2016, a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, publicitou no respetivo sítio da Internet as «Regras e critérios necessários à implementação do regime de apoio à armazenagem no quadro do Fundo Europeu dos Assuntos Marítimos e das Pescas», onde se incluem os referidos preços de desencadeamento e custos técnicos e financeiros, o que abre caminho à operacionalização da medida de apoio em questão.\n\nO Decreto-Lei n.º 159/2014, de 27 de outubro, que estabelece as regras gerais de aplicação dos programas operacionais financiados pelos FEEI, veio prever sob a alínea d) do n.º 1 do artigo 4.º, e da alínea b) do n.º 2 do artigo 5.º, respetivamente, que o regime jurídico dos FEEI é também integrado pela regulamentação específica dos programas operacionais e que, no caso do FEAMP, a mesma é aprovada por portaria do membro do Governo responsável pela área do mar.\n\nAssim:\n\nManda o Governo, pela Ministra do Mar, ao abrigo do disposto na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, o seguinte:"
+  },
+  "160984989": {
+   "fragment_id": "160900562",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova o Regulamento do Regime de Apoio à Armazenagem dos Produtos da Pesca enumerados no Anexo II do Regulamento n.º 1379/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, ao abrigo da Prioridade da União estabelecida na alínea a) do n.º 5 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e com enquadramento na medida prevista no artigo 67.º do mesmo regulamento, em anexo à presente portaria, da qual faz parte integrante."
+  },
+  "160984990": {
+   "fragment_id": "160900563",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nA Ministra do Mar, Ana Paula Mendes Vitorino, em 29 de julho de 2016."
+  },
+  "160984991": {
+   "fragment_id": "160900564",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente regime, para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, relevam as previstas no artigo 5.º do Regulamento da Organização Comum dos Mercados."
+  },
+  "160984992": {
+   "fragment_id": "160900565",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia de operações\n\nSão suscetíveis de apoio as operações relativas aos custos de armazenagem dos produtos da pesca enumerados no Anexo II do Regulamento da Organização Comum dos Mercados."
+  },
+  "160984993": {
+   "fragment_id": "160900566",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elegibilidade das operações\n\nPodem beneficiar de apoios ao abrigo do presente regime as operações:\n\na) Que não estejam materialmente concluídas ou totalmente executadas à data de apresentação da candidatura respetiva, independentemente de todos os pagamentos correspondentes terem sido efetuados pelo beneficiário;\n\nb) Que se refiram a produtos que:\n\ni) Cumpram as normas de comercialização aplicáveis e sejam de qualidade própria para o consumo humano;\n\nii) Tenham sido colocados no mercado sem que tenha sido encontrado um comprador ao preço de desencadeamento do mecanismo de armazenagem, previamente definido antes do início de cada ano;\n\niii) Tenham sido estabilizados ou transformados por meio de congelação, salga, secagem, marinagem, ou cozedura e pasteurização, quer essas operações tenham sido acompanhadas ou não de filetagem ou corte e, se tiver sido o caso, descabeçamento;\n\niv) Tenham sido armazenados durante, pelo menos, 5 dias e posteriormente reintroduzidos no mercado para consumo humano."
+  },
+  "160984994": {
+   "fragment_id": "160900567",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipologia de beneficiários\n\nPodem apresentar candidaturas ao presente regime de apoio as organizações de produtores e as associações de organizações de produtores, reconhecidas, em conformidade com os artigos 14.º e 16.º do Regulamento da Organização Comum dos Mercados."
+  },
+  "160984995": {
+   "fragment_id": "160900568",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade dos beneficiários\n\nConstituem critérios de elegibilidade dos beneficiários os previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, quando aplicáveis."
+  },
+  "160984996": {
+   "fragment_id": "160900569",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\nSem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as despesas inerentes à estabilização, transformação e armazenagem dos produtos da pesca enumerados no Anexo II do Regulamento da Organização Comum dos Mercados, realizadas entre 1 de janeiro de 2014 e 31 de dezembro de 2018."
+  },
+  "160984997": {
+   "fragment_id": "160900570",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxas de apoio\n\nA taxa de apoio público para as operações apresentadas ao abrigo do presente regulamento é de 100 % das despesas elegíveis."
+  },
+  "160984998": {
+   "fragment_id": "160900571",
+   "type": 11,
+   "heading": "Artigo 10.º — Natureza e montante dos apoios públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Natureza e montante dos apoios públicos\n\n1 - O apoio público previsto no presente regime reveste a forma de subvenção não reembolsável.\n\n2 - O montante do apoio aprovado é fixado pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM):\n\na) Com referência aos anos de 2014 e ou 2015, com base nos comprovativos das quantidades de pescado sujeitas ao mecanismo de armazenagem apresentados pelo beneficiário em sede de candidatura;\n\nb) Com referência aos anos de 2016 a 2018, com base nos comprovativos das quantidades de pescado sujeitas ao mecanismo de armazenagem que lhe sejam apresentados pelo beneficiário até ao dia 30 de abril do ano seguinte àquele a que respeitam.\n\n3 - O apoio público não pode exceder o montante dos custos técnicos e financeiros das ações necessárias para a estabilização e armazenagem dos produtos objeto da operação, calculados e definidos numa base anual pela DGRM e publicitados no respetivo sítio da Internet.\n\n4 - As quantidades elegíveis para a ajuda à armazenagem não podem exceder 15 % das quantidades anuais de cada um dos produtos em causa, colocados à venda, em leilão, pela organização de produtores.\n\n5 - O apoio público anual não pode exceder 2 % do valor anual médio da produção colocada no mercado, em leilão, pelos membros da organização de produtores no período 2009-2011.\n\n6 - Para efeitos do número anterior, se um membro da organização de produtores não tiver colocado nenhuma produção no mercado no período de 2009-2011, é tomado em consideração o valor anual médio da produção colocada no mercado nos primeiros três anos de produção desse membro."
+  },
+  "160984999": {
+   "fragment_id": "160900572",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas em contínuo termos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n2 - Cada beneficiário pode apresentar uma única candidatura no período de 2014 a 2018, com referência à totalidade ou a parte desse período.\n\n3 - Caso a candidatura englobe os anos de 2014 e 2015, deve indicar, para cada um desses anos, as quantidades de pescado sujeitas ao mecanismo de armazenagem e incluir os documentos exigidos no formulário de candidatura, comprovativos do cumprimento dos requisitos previstos nas alíneas b) a e) do artigo 5.º\n\n4 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou no portal do Mar 2020, em www.mar2020.pt, e estão sujeitos a confirmação eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n5 - O regime-regra previsto no número anterior não prejudica a possibilidade de a autoridade de gestão admitir forma diversa de apresentação de candidaturas quando tal se justifique."
+  },
+  "160985000": {
+   "fragment_id": "160900573",
+   "type": 11,
+   "heading": "Artigo 12.º — Seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Seleção das candidaturas\n\n1 - As candidaturas obtêm uma pontuação final (PF) de 100 pontos quando preencham as condições de elegibilidade previstas no artigo 5.º, sendo pontuadas com 0 pontos quando não cumpram algum desses requisitos.\n\n2 - São excluídas as candidaturas que não obtenham uma pontuação final de 100 pontos."
+  },
+  "160985001": {
+   "fragment_id": "160900574",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise e decisão das candidaturas\n\n1 - A DGRM, no âmbito das suas competências enquanto organismo intermédio do Mar 2020 e no quadro das suas responsabilidades pela aplicação da Organização Comum dos Mercados dos Produtos da Pesca e da Aquicultura, analisa e emite parecer sobre a candidatura e, quando a mesma englobe os anos de 2014 e ou 2015, emite documento em que fixa a despesa elegível e apoio correspondente para suporte do pedido de pagamento.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta no prazo fixado para o efeito fundamento para o seu indeferimento.\n\n3 - O parecer referido no n.º 1 do presente artigo é remetido à autoridade de gestão no prazo máximo de 40 dias úteis a contar da data da apresentação da candidatura.\n\n4 - O secretariado técnico aprecia o parecer emitido sobre a candidatura com vista a assegurar que a mesma é selecionada em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete proposta de decisão final ao gestor.\n\n5 - A Comissão de Gestão emite parecer sobre as propostas de decisão relativas às candidaturas a financiamento.\n\n6 - Antes de ser emitida a decisão final, o secretariado técnico procede à audiência de interessados, nos termos do Código do Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n7 - Sem prejuízo do disposto no n.º 4 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as candidaturas são objeto de decisão no prazo de 60 dias úteis contados a partir da data da respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.\n\n8 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "160985002": {
+   "fragment_id": "160987875",
+   "type": 11,
+   "heading": "Artigo 14.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Termo de aceitação\n\n1 - A aceitação do apoio pelo beneficiário nos termos e condições definidos na decisão da sua atribuição é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "160985003": {
+   "fragment_id": "160987876",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento dos apoios\n\n1 - O pagamento dos apoios é feito pelo IFAP, I. P., anualmente, após apresentação pelo beneficiário do pedido e de documento de suporte emitido pela DGRM nos termos do n.º 2 do artigo 10.º, da forma e nos termos previstos nos números seguintes.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - Os pedidos de pagamento reportam-se aos apoios aprovados, no montante anual fixado pela DGRM nos termos do n.º 2 do artigo 10.º\n\n4 - Os beneficiários devem apresentar um único pedido de pagamento com referência aos anos de 2014 e ou 2015 e um pedido de pagamento com referência a cada um dos anos subsequentes, consoante o período abrangido pela operação aprovada.\n\n5 - O pagamento dos apoios fica limitado às disponibilidades financeiras do Mar 2020."
+  },
+  "160985004": {
+   "fragment_id": "160987877",
+   "type": 11,
+   "heading": "Artigo 16.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Obrigações dos beneficiários\n\nSem prejuízo do disposto no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, constituem obrigações dos beneficiários:\n\na) Apresentar anualmente, até ao dia 30 de abril de cada ano, junto da DGRM, os comprovativos das quantidades de pescado sujeitas ao mecanismo de armazenagem, de acordo com as normas técnicas aprovadas por aquela Direção-Geral e publicitadas no respetivo sítio da Internet;\n\nb) Manter uma contabilidade de existências para cada categoria de produtos entrados em armazém e, mais tarde, reintroduzidos no mercado para fins de consumo humano;\n\nc) Manter os pressupostos que estiveram na atribuição dos apoios e cumprir as demais condições fixadas no respetivo termo de aceitação."
+  },
+  "160985005": {
+   "fragment_id": "160987878",
+   "type": 11,
+   "heading": "Artigo 17.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios públicos previstos no presente regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P."
+  },
+  "160985006": {
+   "fragment_id": "160987879",
+   "type": 11,
+   "heading": "Artigo 18.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reduções e exclusões\n\n1 - Os apoios previstos no presente regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:\n\na) Incumprimento pelo beneficiário das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente regulamento ou da legislação nacional e europeia aplicável;\n\nb) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação da operação ou falsificando documentos fornecidos no âmbito da mesma.\n\n2 - As reduções e exclusões dos apoios, são efetuadas nos termos e condições a definir em portaria do membro do Governo responsável pela área do mar.\n\n3 - À recuperação dos montantes indevidamente recebidos, aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "160985007": {
+   "fragment_id": "160987880",
+   "type": 11,
+   "heading": "Artigo 19.º — Extinção da operação por iniciativa do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Extinção da operação por iniciativa do beneficiário\n\nO beneficiário pode, por sua iniciativa, requerer ao gestor a extinção da operação, desde que proceda à restituição das importâncias recebidas."
+  },
+  "184958897": {
+   "fragment_id": "160900562",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece o Regime de Apoio à Armazenagem dos Produtos da Pesca enumerados no anexo ii do Regulamento n.º 1379/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013 (Regulamento da Organização Comum dos Mercados) ou produtos abrangidos pelo código NC 0302 enumerados no anexo i, alínea a), desse regulamento, no âmbito do Programa Operacional (PO) Mar 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+  },
+  "184958898": {
+   "fragment_id": "160900563",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": "2021-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+   ],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nOs apoios previstos no presente regulamento têm como finalidade compensar, no período de 2014-2018 e no período entre 18 de março e 31 de dezembro de 2020, as organizações de produtores e as associações de organizações de produtores pelos custos com a estabilização e armazenagem dos produtos da pesca, promovendo por essa via a estabilização dos mercados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+  },
+  "184958899": {
+   "fragment_id": "160900565",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de operações",
+   "in_force_from": "2021-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+   ],
+   "markdown": "###### Artigo 4.º — Tipologia de operações\n\nSão suscetíveis de apoio as operações relativas aos custos de armazenagem dos produtos da pesca enumerados no anexo ii do Regulamento da Organização Comum dos Mercados ou produtos abrangidos pelo código NC 0302 enumerados no anexo i, alínea a), desse regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+  },
+  "184958900": {
+   "fragment_id": "160900566",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade das operações",
+   "in_force_from": "2021-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+   ],
+   "markdown": "###### Artigo 5.º — Elegibilidade das operações\n\n1 - Podem beneficiar de apoios ao abrigo do presente regime as operações:\n\na) Que não estejam materialmente concluídas ou totalmente executadas à data de apresentação da candidatura respetiva, independentemente de todos os pagamentos correspondentes terem sido efetuados pelo beneficiário;\n\nb) Que se refiram a produtos que:\n\ni) Cumpram as normas de comercialização aplicáveis e sejam de qualidade própria para o consumo humano;\n\nii) Tenham sido colocados no mercado sem que tenha sido encontrado um comprador ao preço de desencadeamento do mecanismo de armazenagem, previamente definido antes do início de cada ano;\n\niii) Tenham sido estabilizados ou transformados por meio de congelação, salga, secagem, marinagem, ou cozedura e pasteurização, quer essas operações tenham sido acompanhadas ou não de filetagem ou corte e, se tiver sido o caso, descabeçamento;\n\niv) Tenham sido armazenados durante, pelo menos, 5 dias e posteriormente reintroduzidos no mercado para consumo humano.\n\n2 - Excetuam-se da alínea a) do número anterior as operações que se refiram a armazenagem dos produtos da pesca no período entre 18 de março e 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+  },
+  "184958901": {
+   "fragment_id": "160900569",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": "2021-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\nSem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as despesas inerentes à estabilização, transformação e armazenagem dos produtos da pesca enumerados no anexo ii do Regulamento da Organização Comum dos Mercados ou produtos abrangidos pelo código NC 0302 enumerados no anexo i, alínea a), desse regulamento, realizadas entre:\n\na) 1 de janeiro de 2014 e 31 de dezembro de 2018; e\n\nb) 18 de março e 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+  },
+  "160985008": {
+   "fragment_id": "160987882",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Natureza e montante do apoio público em operações referentes ao período de 18 de março a 31 de dezembro de 2020",
+   "in_force_from": "2021-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+   ],
+   "markdown": "###### Artigo 10.º-A — Natureza e montante do apoio público em operações referentes ao período de 18 de março a 31 de dezembro de 2020\n\n1 - O apoio público reveste a forma de subvenção não reembolsável.\n\n2 - O montante do apoio aprovado é fixado pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) com base nos comprovativos das quantidades de pescado sujeitas ao mecanismo de armazenagem apresentados pelo beneficiário em sede de candidatura.\n\n3 - O apoio público não pode exceder o montante dos custos técnicos e financeiros das ações necessárias para a estabilização e armazenagem dos produtos objeto da operação, calculados e definidos pela DGRM e publicitados no respetivo sítio da Internet.\n\n4 - As quantidades elegíveis para a ajuda à armazenagem não podem exceder 25% das quantidades anuais de cada um dos produtos em causa, colocados à venda, em leilão, pela organização de produtores.\n\n5 - O apoio público anual não pode exceder 20% do valor anual médio da produção colocada no mercado, em leilão, pelos membros da organização de produtores no período de 2017-2019.\n\n6 - Para efeitos do número anterior, se um membro da organização de produtores não tiver colocado nenhuma produção no mercado no período de 2017-2019, é tomado em consideração o valor anual médio da produção colocada no mercado nos primeiros três anos de produção desse membro.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+  },
+  "160985009": {
+   "fragment_id": "160900572",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas em contínuo termos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n2 - Cada beneficiário pode apresentar uma única candidatura no período de 2014 a 2018, com referência à totalidade ou a parte desse período.\n\n3 - Caso a candidatura englobe os anos de 2014 e 2015, deve indicar, para cada um desses anos, as quantidades de pescado sujeitas ao mecanismo de armazenagem e incluir os documentos exigidos no formulário de candidatura, comprovativos do cumprimento dos requisitos previstos nas alíneas b) a e) do artigo 5.º\n\n4 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou no portal do Mar 2020, em www.mar2020.pt, e estão sujeitos a confirmação eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n5 - O regime-regra previsto no número anterior não prejudica a possibilidade de a autoridade de gestão admitir forma diversa de apresentação de candidaturas quando tal se justifique."
+  },
+  "160985018": {
+   "fragment_id": "160987883",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Apresentação das candidaturas referentes ao período de 18 de março a 31 de dezembro de 2020",
+   "in_force_from": "2021-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+   ],
+   "markdown": "###### Artigo 11.º-A — Apresentação das candidaturas referentes ao período de 18 de março a 31 de dezembro de 2020\n\n1 - As candidaturas são apresentadas online através do Balcão 2020, acessível em www.balcao.portugal2020.pt, nos termos e condições previstos em anúncio divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do Mar 2020.\n\n2 - O anúncio de abertura de candidaturas é aprovado pelo gestor do programa Mar 2020 e pode prever, nomeadamente:\n\na) As condições e prazo de submissão de candidaturas;\n\nb) A dotação orçamental a atribuir.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 78/2021 - Diário da República n.º 66/2021, Série I de 2021-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/78-2021-160893671), em vigor a partir de 2021-04-07"
+  },
+  "160985019": {
+   "fragment_id": "160900573",
+   "type": 11,
+   "heading": "Artigo 12.º — Seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Seleção das candidaturas\n\n1 - As candidaturas obtêm uma pontuação final (PF) de 100 pontos quando preencham as condições de elegibilidade previstas no artigo 5.º, sendo pontuadas com 0 pontos quando não cumpram algum desses requisitos.\n\n2 - São excluídas as candidaturas que não obtenham uma pontuação final de 100 pontos."
+  },
+  "160985020": {
+   "fragment_id": "160900574",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise e decisão das candidaturas\n\n1 - A DGRM, no âmbito das suas competências enquanto organismo intermédio do Mar 2020 e no quadro das suas responsabilidades pela aplicação da Organização Comum dos Mercados dos Produtos da Pesca e da Aquicultura, analisa e emite parecer sobre a candidatura e, quando a mesma englobe os anos de 2014 e ou 2015, emite documento em que fixa a despesa elegível e apoio correspondente para suporte do pedido de pagamento.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta no prazo fixado para o efeito fundamento para o seu indeferimento.\n\n3 - O parecer referido no n.º 1 do presente artigo é remetido à autoridade de gestão no prazo máximo de 40 dias úteis a contar da data da apresentação da candidatura.\n\n4 - O secretariado técnico aprecia o parecer emitido sobre a candidatura com vista a assegurar que a mesma é selecionada em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete proposta de decisão final ao gestor.\n\n5 - A Comissão de Gestão emite parecer sobre as propostas de decisão relativas às candidaturas a financiamento.\n\n6 - Antes de ser emitida a decisão final, o secretariado técnico procede à audiência de interessados, nos termos do Código do Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n7 - Sem prejuízo do disposto no n.º 4 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as candidaturas são objeto de decisão no prazo de 60 dias úteis contados a partir da data da respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.\n\n8 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "160985021": {
+   "fragment_id": "160987875",
+   "type": 11,
+   "heading": "Artigo 14.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Termo de aceitação\n\n1 - A aceitação do apoio pelo beneficiário nos termos e condições definidos na decisão da sua atribuição é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "160985022": {
+   "fragment_id": "160987876",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento dos apoios\n\n1 - O pagamento dos apoios é feito pelo IFAP, I. P., anualmente, após apresentação pelo beneficiário do pedido e de documento de suporte emitido pela DGRM nos termos do n.º 2 do artigo 10.º, da forma e nos termos previstos nos números seguintes.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - Os pedidos de pagamento reportam-se aos apoios aprovados, no montante anual fixado pela DGRM nos termos do n.º 2 do artigo 10.º\n\n4 - Os beneficiários devem apresentar um único pedido de pagamento com referência aos anos de 2014 e ou 2015 e um pedido de pagamento com referência a cada um dos anos subsequentes, consoante o período abrangido pela operação aprovada.\n\n5 - O pagamento dos apoios fica limitado às disponibilidades financeiras do Mar 2020."
+  },
+  "160985023": {
+   "fragment_id": "160987877",
+   "type": 11,
+   "heading": "Artigo 16.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Obrigações dos beneficiários\n\nSem prejuízo do disposto no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, constituem obrigações dos beneficiários:\n\na) Apresentar anualmente, até ao dia 30 de abril de cada ano, junto da DGRM, os comprovativos das quantidades de pescado sujeitas ao mecanismo de armazenagem, de acordo com as normas técnicas aprovadas por aquela Direção-Geral e publicitadas no respetivo sítio da Internet;\n\nb) Manter uma contabilidade de existências para cada categoria de produtos entrados em armazém e, mais tarde, reintroduzidos no mercado para fins de consumo humano;\n\nc) Manter os pressupostos que estiveram na atribuição dos apoios e cumprir as demais condições fixadas no respetivo termo de aceitação."
+  },
+  "160985024": {
+   "fragment_id": "160987878",
+   "type": 11,
+   "heading": "Artigo 17.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios públicos previstos no presente regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P."
+  },
+  "160985025": {
+   "fragment_id": "160987879",
+   "type": 11,
+   "heading": "Artigo 18.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reduções e exclusões\n\n1 - Os apoios previstos no presente regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:\n\na) Incumprimento pelo beneficiário das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente regulamento ou da legislação nacional e europeia aplicável;\n\nb) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação da operação ou falsificando documentos fornecidos no âmbito da mesma.\n\n2 - As reduções e exclusões dos apoios, são efetuadas nos termos e condições a definir em portaria do membro do Governo responsável pela área do mar.\n\n3 - À recuperação dos montantes indevidamente recebidos, aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "160985026": {
+   "fragment_id": "160987880",
+   "type": 11,
+   "heading": "Artigo 19.º — Extinção da operação por iniciativa do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Extinção da operação por iniciativa do beneficiário\n\nO beneficiário pode, por sua iniciativa, requerer ao gestor a extinção da operação, desde que proceda à restituição das importâncias recebidas."
+  }
+ }
+}

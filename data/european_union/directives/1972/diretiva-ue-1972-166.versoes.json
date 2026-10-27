@@ -1,0 +1,288 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31972L0166:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01972L0166-20091027",
+ "dre_path": null,
+ "source_lastmod": "2009-10-27",
+ "versions": [
+  {
+   "date": "1972-05-02",
+   "future": false,
+   "celex": "31972L0166",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5c8e1de81e6e0be",
+    "c395324d694e80cd",
+    "045b0c17040e60ff",
+    "ccd11e72ab28782b",
+    "e38a5b8fe05d7236",
+    "c2774007061085f8",
+    "1d950e44b2d2258e",
+    "1632d131ba753043",
+    "8c6102563b33ba35",
+    "89cd6b600f45fc81"
+   ]
+  },
+  {
+   "date": "2005-06-11",
+   "future": false,
+   "celex": "01972L0166-20050611",
+   "acts": [
+    {
+     "id": "eu:celex:31972L0430:por",
+     "title": "DIRECTIVA DO CONSELHO 72/430/CEE de 19 de Dezembro de 1972",
+     "published": null,
+     "celex": "31972L0430"
+    },
+    {
+     "id": "eu:celex:31984L0005:por",
+     "title": "M2",
+     "published": null,
+     "celex": "31984L0005"
+    },
+    {
+     "id": "eu:celex:32005L0014:por",
+     "title": "DIRECTIVA 2005/14/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 11 de Maio de 2005",
+     "published": null,
+     "celex": "32005L0014"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o"
+   ],
+   "fragments": [
+    "6985e034f663a4e1",
+    "6c5e8defb5b13c5c",
+    "76e4c4a7030fa87b",
+    "e715b0ec4967664e",
+    "c4d7fd1d31709493",
+    "7e0e6353468ec5ba",
+    "2dab2a50eadd1e2f",
+    "aa66641f45953046",
+    "94039f28be07fa47",
+    "4045616d41792800",
+    "8137295c08cf64b5"
+   ]
+  },
+  {
+   "date": "2009-10-27",
+   "future": false,
+   "celex": "01972L0166-20091027",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "677258a286f8b9fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5c8e1de81e6e0be": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 72/166/CEE do Conselho, de 24 de Abril de 1972, relativa à aproximação das legislações dos Estados-Membros respeitantes ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis e à fiscalização do cumprimento da obrigação de segurar esta responsabilidade** *Jornal Oficial nº L 103 de 02/05/1972 p. 0001 - 0004 Edição especial finlandesa: Capítulo 6 Fascículo 1 p. 0111 Edição especial dinamarquesa: Série I Capítulo 1972(II) p. 0345 Edição especial sueca: Capítulo 6 Fascículo 1 p. 0111 Edição especial inglesa: Série I Capítulo 1972(II) p. 0360 Edição especial grega: Capítulo 06 Fascículo 1 p. 0136 Edição especial espanhola: Capítulo 13 Fascículo 2 p. 0113 Edição especial portuguesa: Capítulo 13 Fascículo 2 p. 0113*\n\nDIRECTIVA DO CONSELHO de 24 de Abril de 1972 relativa à aproximação das legislações dos Estados-membros respeitantes ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis e à fiscalização do cumprimento da obrigação de segurar esta responsabilidade\n\n(72/166/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, ao seu artigo 100o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que o Tratado tem como objectivo a criação de um mercado comum com características análogas às de um mercado interno e que uma das condições para alcançar tal objectivo é a realização da livre circulação de mercadorias e de pessoas;\n\nConsiderando que qualquer fiscalização nas fronteiras, do cumprimento da obrigação de segurar a responsabilidade civil que resulta da circulação de veículos automóveis, tem por objectivo a protecção dos interesses das pessoas que podem ser vítimas de um sinistro causado por esses veículos; que essa fiscalização é uma consequência da existência, nesta matéria de disparidades entre as várias disposições nacionais;\n\nConsiderando que estas disparidades podem dificultar a livre circulação de veículos automóveis e de pessoas na Comunidade; que por isso, têm uma incidência directa no estabelecimento e no funcionamento no mercado comum;\n\nConsiderando que a Recomendação da Comissão, de 21 de junho de 1968, relativa às condições de excercício da fiscalização alfandegária dos viajantes nas fronteiras intracomunitárias, convida os Estados-membros a proceder, à fiscalização dos automóveis de turismo e dos viajantes apenas em circunstâncias excepcionais e a eliminar, fisicamente, as barreiras colocadas junto dos serviços alfandegários;\n\nConsiderando que é desejável que a população dos Estados-membros tome consciência da realidade que é o mercado comum, e que, para esse efeito, é desejável que sejam tomadas medidas a fim liberalizar o sistema de circulação de pessoas e de veículos automóveis no tráfego de viajantes entre os Estados-membros; que a necessidade de tais medidas foi várisas vezes sublinhada pelos membros do Parlamento Europeu;\n\nConsiderando que este tipo de facilidades para circulação de viajantes, constitui um novo passo no sentido da abertura recíproca dos mercados dos Estados-membros e da criação de condições semelhantes às de um mercado interno;\n\nConsiderando que a abolição da fiscalização da Carta Verde, em relação aos veículos que tenham o seu estacionamento habitual num Estado-membro e que entrem no território de um outro Estado-membro, pode ser realizada com base num acordo entre os seis Serviços Nacionais de Seguros, nos termos do qual cada Serviço Nacional garantiria a liquidação, de harmonia com a respectiva legislação nacional, da indemnização dos prejuízos causados no seu território por esses veículos, estivessem ou não seguros;\n\nConsiderando que esse acordo de garantia assenta no pressuposto de que qualquer veículo automóvel comunitário que circule no território da Comunidade se encontra coberto por um seguro; que é conveniente, portanto, prever, no âmbito da legislação nacional de cada Estado-membro, a obrigação de segurar a responsabilidade civil que resulte da circulação destes veículos, através de uma apólice que cubra o conjunto de território da Comunidade; que as legislações nacionais, podem, todavia, prever derrogações relativamente a certas pessoas e a certos tipos de veículos;\n\nConsiderando que o regime previsto na presente directiva poder ser extensivo aos veículos que tenham o seu estacionamento habitual no território de um país terceiro, com o qual os Serviços Nacionais dos seis Estados-membros tivessem concluído um acordo idêntico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c395324d694e80cd": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nPara efeitos do disposto na presente directiva entende-se por:\n\n1. Veículo: qualquer veículo automóvel destinado a circular sobre o solo, que possa ser accionado por uma força mecânica, sem estar ligado a uma via férrea, bem como os reboques, ainda que não atrelados;\n\n2. Pessoa lesada: qualquer pessoa que tenha direito a uma indemnização por danos causados por veículos;\n\n3. Serviço Nacional de Seguros: organização profissional, criada em conformidade com a Recomendação no 5 adoptada em 25 de Janeiro de 1949, pelo subcomité de Transportes Rodoviários do Comité de Transportes Internos da Comissão Económica para a Europa da Organização das Nações Unidas e que agrupo as empresas de seguros autorizadas num Estado a explorar o ramo «Responsabilidade Civil - Veículos Terrestres Automóveis»;\n\n4. Território onde o veículo tem o seu estacionamento habitual:\n\n- território do Estado onde o veículo se encontra matriculado, ou,\n\n- no caso de não existir matrícula para um determinado tipo de veículo que, no entanto, possua uma chapa de seguro ou um sinal distintivo idêntico a da chapa de matrícula, o território onde essa chapa ou sinal distintivo foi emitido,\n\n- no caso de não existir matrícula nem chapa de seguro ou sinal distintivo para certos tipos de veículos, o território de Estado do domicílio do possuidor;\n\n5. Carta Verde: certificado internacional de seguro emitido em nome de um Serviço Nacional, nos termos da Recomendação no 5 adoptada em 25 de Janeiro de 1949, pelo Subcomité Transportes Rodoviários do Comité de Transportes Internos da Comissão Económica para a Europa da Organização das Nações Unidas."
+  },
+  "045b0c17040e60ff": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Cada Estado-membro abster-se-à de fiscalizar o seguro de responsabilidade civil que resulta da circulação de veículos que tenham o seu estacionamento habitual no território de outro Estado-membro.\n\nCada Estado-membro deve igualmente abster-se de fiscalizar o referido seguro relativamente aos veículos com estacionamento habitual no território de um país terceiro que entrem no seu território, desde que provenientes de um outro Estado-membro. Pode, todavia, efectuar uma fiscalização por sondagem.\n\n2. No que respeita aos veículos que tenham o seu estacionamento habitual no território de um dos Estados-membros, as disposições da presente directiva, com excepção do previsto nos artigos 3o e 4o, produzem os seus efeitos:\n\n- a partir do momento em que tenha sido concluído um acordo entre os seus Serviços Nacionais de Seguros, nos termos do qual cada Serviço nacional se responsabiliza pela regularização, nas condições fixadas pela respectiva legislação nacional do seguro obrigatório, dos sinistros ocorridos no seu território e provocados pela circulação de veículos que tenham o seu estacionamento habitual no território de um outro Estado-membro, estejam ou não seguros,\n\n- a partir da data fixada pela Comissão, após esta ter verificado, em estreita colaboração com os Estados-membros a existência do referido acordo,\n\n- pelo período de duração do mesmo acordo."
+  },
+  "ccd11e72ab28782b": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Cada Estado-membro, sem prejuízo da aplicação do artigo 4o, adopta todas as medidas adequadas para que a responsabilidade civil que resulta da circulação de veículos com estacionamento habitual no seu território esteja coberta por um seguro. Essas medidas devem determinar o âmbito da cobertura e as modalidades de seguro.\n\n2. Cada Estado-membro adopta todas as medidas adequadas para que o contrato de seguro abranja igualmente:\n\n- os prejuízos causados no território de um outro Estado-membro, de acordo com a respectiva legislação nacional em vigor,\n\n- os prejuízos de que podem ser vítimas os nacionais dos Estados-membros, durante o trajecto que ligue directamente dois territórios onde o Tratado que institui a Comunidade Económica Europeia é aplicável, quando não exista, no território percorrido, Serviço Nacional de Seguros; neste caso os prejuízos são ressarcidos de acordo com a legislação nacional do seguro obrigatório em vigor no Estado-membro, no território do qual o veículo tem o seu estacionamento habitual."
+  },
+  "e38a5b8fe05d7236": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nCada Estado-membro pode não aplicar as disposições do artigo 3o, em relação a:\n\na) Certas pessoas, singulares ou colectivas, de direito público ou privado, numa lista elaborada por este Estado e notificada aos outros Estados-membros e à Comissão.\n\nNeste caso, o Estado-membro que prevê esta derrogação, toma todas as medidas adequadas para assegurar o ressarcimento dos prejuízos causados no território de qualquer outro Estado-membro pelos veículos pertencentes a essas pessoas. O Estado-membro deve, nomeadamente, indicar a autoridade ou organismo que, no país do sinistro, é responsável pelo pagamento da indemnização à pessoas lesadas, nas condições fixadas pela legilação deste Estado, no caso de não ser aplicável o procedimento previsto no no 2, primeiro travessão, do artigo 2o. Notificará as medidas adoptadas aos restantes Estados-membros e à Comissão;\n\nb) Certos tipos de veículos ou a certos veículos que tenham uma chapa especial, incluídas numa lista elaborada por esse Estado e notificada aos outros Estados-membros e à Comissão.\n\nNeste caso, os outros Estados-membros conservam o direito de exigir, no momento da entrada de um desses veículos no seu território, que o seu possuidor tenha uma Carta Verde válida, ou que celebre um contrato de seguro de fronteira, nas condições fixadas por cada Estado-membro."
+  },
+  "c2774007061085f8": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nCada Estado-membro, sem prejuízo do acordo previsto no no 2, primeiro travessão, do artigo 2o, assegura que o Serviço Nacional de Seguros, em caso de acidente provocado no seu território por um veículo que tenha o seu estacionamento habitual num outro Estado-membro, se informa:\n\n- de qual o território em que o veículo tem o seu estacionamento habitual e o qual o respectivo número de matrícula, se existir,\n\n- dos elementos relativos do seguro ao veículo, que nomeadamente constam da Carta Verde e que estejam na posse do possuidor do veículo, desde que esses elementos sejam normalmente solicitados pelo Estado-membro no território do qual o veículo tem o seu estacionamento habitual;\n\nO Estado-membro assegura igualmente que o respectivo Serviço comunique essas informações ao Serviço Nacional de Seguros do Estado no território do qual o veículo tem o seu estacionamento habitual."
+  },
+  "1d950e44b2d2258e": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nCada Estado-membro tomará as medidas adequadas para que qualquer veículo que, tendo o seu estacionamento habitual num país terceiro ou no território não europeu de um Estado-membro, entre no território onde o Tratado que institui a Comunidade Económica Europeia é aplicável, só possa circular no seu território se os riscos que resultam da circulação do referido veículo se encontrarem cobertos, em relação à totalidade do território onde o Tratado que institui a Comunidade Económica Europeia é aplicável, por um contrato de seguro, efectuado de acordo com as condições fixadas por cada legislação nacional para o seguro obrigatório de responsabilidade civil que resultam da circulação de veículos."
+  },
+  "1632d131ba753043": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. Os veículos com estacionamento habitual no território de um país terceiro ou no territorio não europeu de um Estado-membro devem, antes de entrarem no território onde o Tratado que institui a Comunidade Económica Europeia é aplicável, possuir uma Carta Verde válida ou um certificado de seguro de fronteira, que prove a existência de um seguro em conformidade com o disposto no artigo 6o.\n\n2. Os veículos com estacionamento habitual no território de um país terceiro são, todavia, considerados como tendo o seu estacionamento habitual no interior da Comunidade, desde que os Serviços de todos os Estados-membros se responsabilizem individualmente - de acordo com as condições fixadas nas respectivas legislações nacionais relativas ao seguro obrigatório - pela regularização dos sinistros ocorridos no seu território e provocados pela circulação destes veículos.\n\n3. A Comissão, após ter verificado, em estreita colaboração com os Estados-membros, a existência das declarações de responsabilização previstas no no 2, fixa a data a partir da qual, bem como os tipos de veículos relativamente aos quais, os Estados-membros deixam de exigir a apresentação dos documentos referidos no no 1."
+  },
+  "8c6102563b33ba35": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros porão em vigor as medidas adequadas para, darem cumprimento a presente directiva o mais tardar até 31 de Dezembro de 1973 e desse facto informarão imediatamente à Comissão."
+  },
+  "89cd6b600f45fc81": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 24 de Abril de 1972.\n\nPelo Conselho\n\nO Presidente\n\nG. THORN"
+  },
+  "6985e034f663a4e1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Abril de 1972\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis e à fiscalização do cumprimento da obrigação de segurar esta responsabilidade\n\n(72/166/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, ao seu artigo 100.º,\n\nTendo em conta a proposta da Commissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nTendo em conta o parecer do Comité Económico e Social,\n\nConsiderando que o Tratado tem como objectivo a criação de um mercado comum com caractéristicas análogas às de um mercado interno e que uma das condições para alcançar tal objectivo é a realização da livre circulação de mercadorias e de pessoas;\n\nConsiderando que qualquer fiscalização nas fronteiras, do cumprimento da obrigação de segurar a responsabilidade civil que resulta da circulação de veículos automóveis, tem por objectivo a protecção dos interesses das pessoas que podem ser vítimas de um sinistro causado por esses veículos; que essa fiscalização é uma consequência da existência, nesta matéria de disparidades entre as várias disposições nacionais;\n\nConsiderando que estas disparidades podem dificultar a livre circulação de veículos automóveis e de pessoas na Comunidade; que por isso, têm uma incidência directa no establecimento e no funcionamento no mercado comum;\n\nConsiderando que a Recomendação da Comissão, de 21 de junho de 1968, relativa às condições de excercício da fiscalização alfandegária dos viajantes nas fronteiras intracomunitárias, convida os Estados-membros a proceder, à fiscalização dos automóveis de turismo e dos viajantes apenas em circunstâncias excepcionais e a eliminar, fisicamente, as barreiras colocadas junto dos serviços alfandegários;\n\nConsiderando que é desejável que a população dos Estados-membros tome consciência da realidade que é o mercado comum, e que, para esse efeito, é desejável que sejam tomadas medidas a fim liberalizar o sistema de circulação de pessoas e de veículos automóveis no tráfego de viajantes entre os Estados-membros; que a necessidade de tais medidas foi várisas vezes sublinhada pelos membros do Parlamento Europeu;\n\nConsiderando que este tipo de facilidades para circulação de viajantes, constitui um novo passo no sentido da abertura recíproca dos mercados dos Estados-membros e da criação de condições semelhantes ás de um mercado interno;\n\nConsiderando que a abolição da fiscalização da Carta Verde, em relação aos veículos que tenham o seu estacionamento habitual num Estado-membro e que entrem no território de um outro Estado-membro, pode ser realizada com base num acordo entre os seis Serviços Nacionais de Seguros, nos termos do qual cada Serviço Nacional garantiria a liquidação, de harmonia com a respectiva legislação nacional, da indemnização dos prejuízos causados no seu território por esses veículos, estivessem ou não seguros;\n\nConsiderando que esse acordo de garantia assenta no pressuposto de que qualquer veículo automóvel comunitário que circule no território da Comunidade se encontra coberto por um seguro; que é conveniente, portanto, prever, no âmbito da legislação nacional de cada Estado-membro, a obrigação de segurar a responsabilidade civil que resulte da circulação destes veículos, através de uma apólice que cubra o conjunto do território da Comunidade; que as legislações nacionais, podem, todavia, prever derrogações relativamente a certas pessoas e a certos tipos de veículos;\n\nConsiderando que o regime previsto na presente directiva poder ser extensivo aos veículos que tenham o seu estacionamento habitual no território de um país terceiro, com o qual os Serviços Nacionais dos seis Estados-membros tivessem concluído um acordo idêntico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "6c5e8defb5b13c5c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos do disposto na presente directiva entende-se por:\n\n1. Veículo: qualquer veículo automóvel destinado a circular sobre o solo, que possa ser accionado por uma força mecânica, sem estar ligado a uma via férrea, bem como os reboques, ainda que não atrelados;\n\n2. Pessoa lesada: qualquer pessoa que tenha direito a uma indemnização por danos causados por veículos;\n\n3. Serviço Nacional de Seguros: organização profissional, criada em conformidade com a Recomendação n.º 5 adoptada em 25 de Janeiro de 1949, pelo subcomité de Transportes Rodoviários do Comité de Transportes Internos da Comissão Económica para a Europa da Organização das Nações Unidas e que agrupo as empresas de seguros autorizadas num Estado a explorar o ramo «Responsabilidade Civil — Veículos Terrestres Automóveis»;\n\n4. Território onde o veículo tem o seu estacionamento habitual:\n\n— território do Estado da chapa de matrícula do veículo, independentemente de esta ser definitiva ou temporária,\n\n— no caso de não existir matrícula para um determinado tipo de veículo que, no entanto, possua uma chapa de seguro ou um sinal distintivo idêntico à da chapa de matrícula, o território onde essa chapa ou sinal distintivo foi emitido,\n\n— no caso de não existir matrícula nem chapa de seguro ou sinal distintivo para certos tipos de veículos, o território de Estado do domicílio do possuidor,\n\n— no caso de veículos sem chapa de matrícula ou com uma chapa de matrícula que não corresponde ou deixou de corresponder ao veículo e que tenham estado envolvidos em acidentes, o território do Estado-Membro em que o acidente ocorreu, para efeitos da regularização do sinistro, nos termos do primeiro travessão do n.º 2 do artigo 2.º da presente directiva ou do n.º 4 do artigo 1.º da segunda Directiva 84/5/CEE do Conselho, de 30 de Dezembro de 1983, relativa à aproximação das legislações dos Estados-Membros respeitantes ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis ([^1^](http://publications.europa.eu/resource/cellar/e3d25307-1ff1-4628-85cb-48aa9e5bbf7f.0018.03/DOC_1#E0001));\n\n5. Carta Verde: certificado internacional de seguro emitido em nome de um Serviço Nacional, nos termos da Recomendação n.º 5 adoptada em 25 de Janeiro de 1949, pelo Subcomité Transportes Rodoviários do Comité de Transportes Internos da Comissão Económica para a Europa da Organização das Nações Unidas."
+  },
+  "76e4c4a7030fa87b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros abster-se-ão de proceder à fiscalização do seguro de responsabilidade civil de veículos que tenham o seu estacionamento habitual no território de outro Estado-Membro e de veículos que tenham o seu estacionamento habitual no território de países terceiros e entrem no seu território a partir do território de outro Estado-Membro. Todavia, os Estados-Membros podem realizar uma fiscalização não sistemática do seguro, de forma não discriminatória, no âmbito de um controlo que não tenha por objectivo exclusivo a verificação do seguro.\n\n2. No que respeita aos veículos que tenham o seu estacionamento habitual no território de um dos Estados-membros, as disposições da presente directiva, com excepção do previsto nos artigos 3.º e 4.º, produzem os seus efeitos:\n\n— [**►M1**](http://publications.europa.eu/resource/celex/31972L0430) a partir do momento em que tenha sido concluído um acordo entre os Serviços Nacionais de Seguros, nos termos do qual cada Serviço Nacional se responsabiliza pela regularização, nas condições fixadas pela respectiva legislação nacional do seguro obrigatório, dos sinistros ocorridos no seu território e provocados pela circulação de veículos que tenham o seu estacionamento habitual no território de um outro Estado-membro, estejam ou não seguros,**◄**\n\n— a partir da data fixada pela Comissão, após esta ter verificado, em estreita colaboração com os Estados-membros a existência do referido acordo,\n\n— pelo período de duração do mesmo acordo."
+  },
+  "e715b0ec4967664e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Cada Estado-membro, sem prejuízo da aplicação do artigo 4.º, adopta todas as medidas adequadas para que a responsabilidade civil que resulta da circulação de veículos com estacionamento habitual no seu território esteja coberta por um seguro. Essas medidas devem determinar o âmbito da cobertura e as modalidades de seguro.\n\n2. Cada Estado-membro adopta todas as medidas adequadas para que o contrato de seguro abranja igualmente:\n\n— os prejuízos causados no território de um outro Estado-membro, de acordo com a respectiva legislação nacional em vigor,\n\n— os prejuízos de que podem ser vítimas os nacionais dos Estados-membros, durante o trajecto que ligue directamente dois territórios onde o Tratado que institui a Comunidade Económica Europeia é aplicável, quando não exista, no território percorrido, Serviço Nacional de Seguros; neste caso os prejuízos são ressarcidos de acordo com a legislação nacional do seguro obrigatório em vigor no Estado-membro, no território do qual o veículo tem o seu estacionamento habitual."
+  },
+  "c4d7fd1d31709493": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCada Estado-membro pode não aplicar as disposições do artigo 3.º, em relação a:\n\na) Certas pessoas, singulares ou colectivas, de direito público ou privado, numa lista elaborada por este Estado e notificada aos outros Estados-membros e à Comissão.\n\nb) Certos tipos de veículos ou a certos veículos que tenham uma chapa especial, incluídas numa lista elaborada por esse Estado e notificada aos outros Estados-membros e à Comissão."
+  },
+  "7e0e6353468ec5ba": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nCada Estado-membro, sem prejuízo do acordo previsto no n.º 2, primeiro travessão, do artigo 2.º, assegura que o Serviço Nacional de Seguros, em caso de acidente provocado no seu território por um veículo que tenha o seu estacionamento habitual num outro Estado-membro, se informa:\n\n— de qual o território em que o veículo tem o seu estacionamento habitual e o qual o respectivo número de matrícula, se existir,\n\n— dos elementos relativos do seguro ao veículo, que nomeadamente constam da Carta Verde e que estejam na posse do possuidor do veículo, desde que esses elementos sejam normalmente solicitados pelo Estado-membro no território do qual o veículo tem o seu estacionamento habitual;\n\nO Estado-membro assegura igualmente que o respectivo Serviço comunique essas informações ao Serviço Nacional de Seguros do Estado no território do qual o veículo tem o seu estacionamento habitual."
+  },
+  "2dab2a50eadd1e2f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nCada Estado-membro tomará as medidas adequadas para que qualquer veículo que, tendo o seu estacionamento habitual num país terceiro[**►M3**](http://publications.europa.eu/resource/celex/32005L0014) —————**◄**, entre no território onde o Tratado que institui a Comunidade Económica Europeia é aplicável, só possa circular no seu território se os riscos que resultam da circulação do referido veículo se encontrarem cobertos, em relação à totalidade do território onde o Tratado que institui a Comunidade Económica Europeia é aplicável, por um contrato de seguro, efectuado de acordo com as condições fixadas por cada legislação nacional para o seguro obrigatório de responsabilidade civil que resultam da circulação de veículos."
+  },
+  "aa66641f45953046": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os veículos com estacionamento habitual no território de um país terceiro[**►M3**](http://publications.europa.eu/resource/celex/32005L0014) —————**◄** devem, antes de entrarem no território onde o Tratado que institui a Comunidade Económica Europeia é aplicável, possuir uma Carta Verde válida ou um certificado de seguro de fronteira, que prove a existência de um seguro em conformidade com o disposto no artigo 6.º.\n\n2. Os veículos com estacionamento habitual no território de um país terceiro são, todavia, considerados como tendo o seu estacionamento habitual no interior da Comunidade, desde que os Serviços de todos os Estados-membros se responsabilizem individualmente — de acordo com as condições fixadas nas respectivas legislações nacionais relativas ao seguro obrigatório — pela regularização dos sinistros ocorridos no seu território e provocados pela circulação destes veículos.\n\n3. A Comissão, após ter verificado, em estreita colaboração com os Estados-membros, a existência das declarações de responsabilização previstas no n.º 2, fixa a data a partir da qual, bem como os tipos de veículos relativamente aos quais, os Estados-membros deixam de exigir a apresentação dos documentos referidos no n.º 1."
+  },
+  "94039f28be07fa47": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros porão em vigor as medidas adequadas para, darem cumprimento a presente directiva o mais tardar até 31 de Dezembro de 1973 e desse facto informarão imediatamente à Comissão."
+  },
+  "4045616d41792800": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "8137295c08cf64b5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e3d25307-1ff1-4628-85cb-48aa9e5bbf7f.0018.03/DOC_1#src.E0001)) JO L 8 de 11.1.1984, p. 17.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e3d25307-1ff1-4628-85cb-48aa9e5bbf7f.0018.03/DOC_1#src.E0002)) JO L 149 de 11.6.2005, p. 14."
+  },
+  "677258a286f8b9fd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1972L0166 — PT — 27.10.2009 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31972L0166) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31972L0166) [de 24 de Abril de 1972](http://publications.europa.eu/resource/celex/31972L0166) [relativa à aproximação das legislações dos Estados-membros respeitantes ao seguro de responsabilidade civil que resulta da circulação de veículos automóveis e à fiscalização do cumprimento da obrigação de segurar esta responsabilidade](http://publications.europa.eu/resource/celex/31972L0166) [(72/166/CEE)](http://publications.europa.eu/resource/celex/31972L0166) (JO L 103, 2.5.1972, p.1)\n\n**revogado por:**\n\n- [Directiva 2009/103/CE do Parlamento Europeu e do Conselho de 16 de Setembro de 2009](http://publications.europa.eu/resource/celex/32009L0103) — L 263 — 11 — 7.10.2009"
+  }
+ }
+}

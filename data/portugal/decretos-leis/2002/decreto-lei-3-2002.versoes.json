@@ -1,0 +1,794 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:584861:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-167808702",
+ "dre_path": "/dr/detalhe/decreto-lei/3-2002-584861",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-01-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "167808794",
+    "167808795",
+    "167808796",
+    "167808797",
+    "167808799",
+    "167808800",
+    "167808801",
+    "167808802",
+    "167808803",
+    "167808804",
+    "167808805",
+    "167808806",
+    "167808807",
+    "167808808",
+    "167808809",
+    "167808810",
+    "167808811",
+    "167808812",
+    "167808813",
+    "167808814",
+    "167808815",
+    "167808816",
+    "167808817",
+    "167808818",
+    "167808819",
+    "167808820",
+    "167808821",
+    "167808822",
+    "167808823",
+    "167808824",
+    "167808825",
+    "167808826",
+    "167808827",
+    "167808828",
+    "167808829",
+    "167808830",
+    "167808831",
+    "167808832",
+    "167808833",
+    "167808834",
+    "167808835",
+    "167808836",
+    "167808837",
+    "167808838",
+    "167808839",
+    "167808840",
+    "167808841",
+    "167808842",
+    "167808843",
+    "167808844",
+    "167808845",
+    "167808846",
+    "167808847",
+    "167808848"
+   ]
+  },
+  {
+   "date": "2006-05-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:285511:por",
+     "title": "Decreto-Lei n.º 89/2006",
+     "published": "2006-05-24",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2006-285511"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "167808794",
+    "167808795",
+    "167808796",
+    "167808797",
+    "167808798",
+    "167808799",
+    "167808800",
+    "167808801",
+    "167808802",
+    "167808803",
+    "167808804",
+    "167808805",
+    "167808806",
+    "167808807",
+    "167808808",
+    "167808809",
+    "167808810",
+    "167808811",
+    "167808812",
+    "167863462",
+    "167808814",
+    "167808815",
+    "167808816",
+    "167808817",
+    "167808818",
+    "167808819",
+    "167808820",
+    "167808821",
+    "167808822",
+    "167808823",
+    "167808824",
+    "167808825",
+    "167808826",
+    "167808827",
+    "167808828",
+    "167863463",
+    "167808830",
+    "167808831",
+    "167808832",
+    "167808833",
+    "167808834",
+    "167808835",
+    "167808836",
+    "167808837",
+    "167808838",
+    "167808839",
+    "167808840",
+    "167808841",
+    "167808842",
+    "167808843",
+    "167808844",
+    "167808845",
+    "167808846",
+    "167808847",
+    "167808848"
+   ]
+  },
+  {
+   "date": "2011-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670028:por",
+     "title": "Decreto-Lei n.º 81/2011",
+     "published": "2011-06-20",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2011-670028"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "167808794",
+    "167808795",
+    "167808796",
+    "167808797",
+    "167808798",
+    "167808799",
+    "167808800",
+    "167808801",
+    "167808802",
+    "167808803",
+    "167808804",
+    "167808805",
+    "167808806",
+    "167808807",
+    "167808808",
+    "167808809",
+    "167808810",
+    "167808811",
+    "167808812",
+    "167904727",
+    "167808814",
+    "167808815",
+    "167808816",
+    "167808817",
+    "167808818",
+    "167808819",
+    "167808820",
+    "167808821",
+    "167808822",
+    "167808823",
+    "167808824",
+    "167808825",
+    "167808826",
+    "167808827",
+    "167808828",
+    "167904728",
+    "167808830",
+    "167808831",
+    "167808832",
+    "167808833",
+    "167808834",
+    "167808835",
+    "167808836",
+    "167808837",
+    "167808838",
+    "167808839",
+    "167808840",
+    "167808841",
+    "167808842",
+    "167808843",
+    "167808844",
+    "167808845",
+    "167808846",
+    "167808847",
+    "167808848"
+   ]
+  },
+  {
+   "date": "2013-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:502980:por",
+     "title": "Decreto-Lei n.º 148/2013",
+     "published": "2013-10-24",
+     "dre_path": "/dr/detalhe/decreto-lei/148-2013-502980"
+    }
+   ],
+   "changes": [
+    "Altera Anexo III",
+    "Altera Anexo VIII"
+   ],
+   "fragments": [
+    "167808794",
+    "167808795",
+    "167808796",
+    "167808797",
+    "167808798",
+    "167808799",
+    "167808800",
+    "167808801",
+    "167808802",
+    "167808803",
+    "167808804",
+    "167808805",
+    "167808806",
+    "167808807",
+    "167808808",
+    "167808809",
+    "167808810",
+    "167808811",
+    "167808812",
+    "167904727",
+    "167808814",
+    "167808815",
+    "167808816",
+    "167808817",
+    "167808818",
+    "167808819",
+    "167808820",
+    "167808821",
+    "167808822",
+    "167808823",
+    "167808824",
+    "167808825",
+    "167808826",
+    "167808827",
+    "167808828",
+    "167904728",
+    "167808830",
+    "167808831",
+    "167808832",
+    "167808833",
+    "167808834",
+    "167808835",
+    "167808836",
+    "167808837",
+    "167808838",
+    "167808839",
+    "167808840",
+    "167904975",
+    "167808842",
+    "167808843",
+    "167808844",
+    "167808845",
+    "167904976",
+    "167808847",
+    "167808848"
+   ]
+  }
+ ],
+ "fragments": {
+  "167808794": {
+   "fragment_id": "167808703",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 3/2002\n\nde 4 de Janeiro\n\nCom a publicação do presente diploma pretende transpor-se para o direito interno a Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0086\" title=\"Link para Directiva da Comunidade Europeia\">1999/86/CE</a>, do Conselho, de 11 de Novembro, que veio actualizar as medidas a tomar relativamente à concepção dos bancos de passageiros, e as Directivas n.os <a href=\"eurlex.asp?ano=2000&id=300L0019\" title=\"Link para Directiva da Comunidade Europeia\">2000/19/CE</a>, da Comissão, de 13 de Abril, e <a href=\"eurlex.asp?ano=2000&id=300L0022\" title=\"Link para Directiva da Comunidade Europeia\">2000/22/CE</a>, de 28 de Abril, relativas aos dispositivos de protecção montados na retaguarda e à frente, em caso de capotagem, dos tractores agrícolas ou florestais de rodas de via estreita.\n\nPretende-se com o presente diploma adoptar medidas para melhorar a protecção dos passageiros, evitando que o condutor seja perturbado na condução.\n\nPara aumentar a segurança, é necessário especificar as modalidades dos ensaios dos dispositivos de protecção, em caso de capotagem, montados à frente e na retaguarda dos tractores agrícolas ou florestais de rodas de via estreita, tendo em conta a multiplicidade dos equipamentos.\n\nTorna-se ainda necessário harmonizar as modalidades dos ensaios dos referidos dispositivos de protecção com as modalidades definidas nos Códigos 6 e 7 da Organização para a Cooperação e o Desenvolvimento Económicos (OCDE) relativas aos ensaios oficiais das estruturas de protecção dos tractores agrícolas.\n\nPelo presente regulamento procede-se à regulamentação do n.º 3 do artigo 114.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 2/98, de 3 de Janeiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "167808795": {
+   "fragment_id": "167808704",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\n1 - O presente diploma transpõe para a ordem jurídica interna as Directivas n.º <a href=\"eurlex.asp?ano=1999&id=399L0086\" title=\"Link para Directiva da Comunidade Europeia\">1999/86/CE</a>, do Conselho, de 11 de Novembro, <a href=\"eurlex.asp?ano=2000&id=300L0019\" title=\"Link para Directiva da Comunidade Europeia\">2000/19/CE</a>, da Comissão, de 13 de Abril, e <a href=\"eurlex.asp?ano=2000&id=300L0022\" title=\"Link para Directiva da Comunidade Europeia\">2000/22/CE</a>, da Comissão, de 28 de Abril, aprovando o Regulamento Respeitante aos Bancos dos Passageiros e à Homologação dos Dispositivos de Protecção, em Caso de Capotagem, Montados na Frente e na Retaguarda dos Tractores Agrícolas ou Florestais de Rodas de Via Estreita, cujo texto se publica em anexo ao presente diploma e dele faz parte integrante.\n\n2 - Os anexos ao Regulamento aprovado nos termos do número anterior fazem dele parte integrante."
+  },
+  "167808796": {
+   "fragment_id": "167808705",
+   "type": 11,
+   "heading": "Artigo 2.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revogação\n\nÉ revogado o anexo V da Portaria n.º 517-A/96, de 27 de Setembro, com a redacção que lhe foi dada pela Portaria n.º 489/97, de 15 de Julho, no que se refere ao banco dos passageiros e ao quadro e cabinas de segurança (dispositivos de protecção montados na retaguarda e na frente) dos tractores agrícolas ou florestais de rodas de via estreita."
+  },
+  "167808797": {
+   "fragment_id": "167808706",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e produção de efeitos\n\n1 - O Regulamento ora aprovado entra em vigor no dia seguinte ao da sua publicação.\n\n2 - A partir da entrada em vigor do Regulamento referido no número anterior, se os tractores satisfizerem os requisitos nele prescritos para bancos de passageiros, a Direcção-Geral de Viação não pode:\n\na) Recusar a homologação CE ou a emissão do documento previsto na alínea b) do n.º 2 do artigo 3.º do Decreto-Lei n.º 291/2000, de 14 de Novembro, ou a homologação de âmbito nacional a um modelo de tractor;\n\nb) Proibir a primeira entrada em circulação de tractores.\n\n3 - A partir de 1 de Outubro de 2001, se os tractores não satisfizerem os requisitos constantes do referido Regulamento no que respeita aos bancos de passageiros, a Direcção-Geral de Viação:\n\na) Não pode emitir o documento previsto naquele Regulamento;\n\nb) Deve recusar a homologação de âmbito nacional.\n\n4 - A partir da data de entrada em vigor do Regulamento indicado no n.º 1, se os tractores satisfizerem as prescrições constantes do mesmo Regulamento no que respeita aos dispositivos de protecção montados na retaguarda, a Direcção-Geral de Viação não pode:\n\na) Recusar, para um dado modelo de tractor, a homologação CE ou a emissão do documento previsto na alínea b) do n.º 2 do artigo 3.º do Decreto-Lei n.º 291/2000, de 14 de Novembro, ou a homologação de âmbito nacional;\n\nb) Proibir a primeira entrada em circulação dos tractores.\n\n5 - A partir de 1 de Janeiro de 2002, se um dado modelo de tractores não satisfizer as prescrições constantes do citado Regulamento no que respeita aos dispositivos de protecção montados na retaguarda, a Direcção-Geral de Viação:\n\na) Não pode emitir o documento previsto na alínea b) n.º 2 do artigo 3.º do Decreto-Lei n.º 291/2000, de 14 de Novembro;\n\nb) Deve recusar a homologação de âmbito nacional.\n\n6 - A partir da data de entrada em vigor do Regulamento indicado no n.º 1, se os tractores satisfizerem as prescrições constantes do referido Regulamento no que respeita aos dispositivos de protecção montados na frente, a Direcção-Geral de Viação não pode:\n\na) Recusar, para um dado modelo de tractor, a homologação CE ou a emissão do documento previsto no número anterior ou a homologação de âmbito nacional;\n\nb) Proibir a primeira entrada em circulação dos tractores.\n\n7 - A partir de 1 de Janeiro de 2002, se um dado modelo de tractores não satisfizer as prescrições constantes do mesmo Regulamento no que respeita aos dispositivos de protecção montados na frente, a Direcção-Geral de Viação:\n\na) Não pode emitir o documento previsto na alínea b) do n.º 2 do artigo 3.º do Decreto-Lei n.º 291/2000, de 14 de Novembro;\n\nb) Deve recusar a homologação de âmbito nacional.\n\n8 - Para efeito de concessão de homologação nacional, em alternativa às exigências técnicas estabelecidas nos n.os 4, 5, 6 ou 7, é aceite o cumprimento dos Códigos OCDE 7 e 6 respectivamente."
+  },
+  "167808799": {
+   "fragment_id": "167808708",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "167808800": {
+   "fragment_id": "167808709",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I\n\nCondições gerais e especiais de construção e de instalação dos bancos de passageiros dos tractores agrícolas ou florestais de rodas."
+  },
+  "167808801": {
+   "fragment_id": "167808710",
+   "type": 8,
+   "heading": "Secção I — Do âmbito de aplicação e da definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do âmbito de aplicação e da definição"
+  },
+  "167808802": {
+   "fragment_id": "167808711",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente capítulo aplica-se exclusivamente aos bancos de passageiros dos tractores definidos no artigo seguinte, montados sobre pneumáticos com, pelo menos, dois eixos e uma velocidade máxima por construção compreendida entre 6 km/h e 40 km/h e cuja via atinja, pelo menos, 1250 mm."
+  },
+  "167808803": {
+   "fragment_id": "167808712",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição de tractor agrícola ou florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição de tractor agrícola ou florestal\n\nEntende-se por tractor agrícola ou florestal qualquer veículo a motor com rodas ou lagartas tendo, pelo menos, dois eixos, cuja função principal resida na sua potência de tracção e especialmente concebido para atrelar, empurrar, transportar ou accionar certas ferramentas, máquinas ou reboques destinados a uma utilização agrícola ou florestal, podendo estar equipado para transportar carga e passageiros."
+  },
+  "167808804": {
+   "fragment_id": "167808713",
+   "type": 8,
+   "heading": "Secção II — Das prescrições gerais e especiais de construção e de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das prescrições gerais e especiais de construção e de instalação"
+  },
+  "167808805": {
+   "fragment_id": "167808714",
+   "type": 11,
+   "heading": "Artigo 3.º — Prescrições gerais de construção e de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prescrições gerais de construção e de instalação\n\n1 - O banco de passageiros referido no artigo 1.º deve:\n\na) Ser colocado de modo que o passageiro não esteja em perigo e não impeça a condução do tractor;\n\nb) Estar solidamente fixado e, segundo o modelo do tractor, ligado de modo conveniente a um elemento da estrutura, nomeadamente ao quadro, ao dispositivo de protecção contra a capotagem ou à plataforma.\n\n2 - O elemento da estrutura referido no número anterior deve ser suficientemente resistente para poder suportar o banco de passageiro em carga."
+  },
+  "167808806": {
+   "fragment_id": "167808715",
+   "type": 11,
+   "heading": "Artigo 4.º — Prescrições especiais de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prescrições especiais de construção\n\n1 - A largura do banco deve ser de, pelo menos, 400 mm e a sua profundidade de, pelo menos, 300 mm.\n\n2 - Cada banco deve comportar um elemento de apoio lateral para o posicionamento e estar provido de um encosto com uma altura mínima de 200 mm, não se aplicando esta dimensão, se a cabina ou o quadro da estrutura anticapotagem constituir o encosto do banco.\n\n3 - O assento do banco deve ser estofado ou flexível.\n\n4 - Deve prever-se adequados apoios para os pés do passageiro e pegas que facilitem o acesso ao banco pelo passageiro e que o ajudem a agarrar-se.\n\n5 - A altura livre acima da superfície do banco do passageiro deve ser de, pelo menos, 920 mm e, quando um tractor, correspondendo às exigências respeitantes ao banco do condutor e sua protecção, tiver uma forma de construção que não permita respeitar essa altura para o passageiro, esta pode ser reduzida até 800 mm, na condição de se prever um estofo adequado ao nível do tecto, imediatamente acima do banco do passageiro.\n\n6 - A parte superior do espaço livre oferecido ao passageiro só pode estar limitada à retaguarda e lateralmente, por um raio não superior a 300 mm, tal como consta do desenho constante do anexo I ao presente Regulamento, sendo a altura livre a cota vertical livre compreendida entre o bordo da frente do banco e o tecto do tractor.\n\n7 - O banco do passageiro não deve aumentar a largura total do tractor."
+  },
+  "167808807": {
+   "fragment_id": "167808716",
+   "type": 1,
+   "heading": "Capítulo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II\n\nDisposições relativas à homologação CE dos dispositivos de protecção montados na retaguarda, em caso de capotagem, de tractores agrícolas e florestais de rodas de via estreita."
+  },
+  "167808808": {
+   "fragment_id": "167808717",
+   "type": 8,
+   "heading": "Secção I — Do âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do âmbito de aplicação"
+  },
+  "167808809": {
+   "fragment_id": "167808718",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito de aplicação\n\nO presente capítulo aplica-se aos tractores definidos no n.º 1 do artigo 2.º do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas, aprovado pelo Decreto-Lei n.º 291/2000, de 14 de Novembro, que tenham as seguintes características:\n\na) Distância ao solo não superior a 600 mm, medida no ponto mais baixo, situado sob os eixos dianteiro ou traseiro;\n\nb) Via mínima fixa ou regulável do eixo equipado com os pneus de maiores dimensões inferior a 1150 mm; quando o eixo equipado com os pneus de maiores dimensões estiver regulado para uma via de 1150 mm no máximo, a via do outro eixo deve poder ser regulada de modo que os bordos externos dos pneus mais estreitos não saiam do alinhamento dos bordos externos dos pneus do outro eixo; sempre que os dois eixos estiverem equipados com jantes e pneus com as mesmas dimensões, a via fixa ou regulável dos dois eixos deve ser inferior a 1150 mm;\n\nc) Massa superior a 600 kg, correspondente ao peso do tractor sem carga referido no n.º 2.4 do anexo I do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas, incluindo o dispositivo de protecção em caso de capotagem, montado em conformidade com o presente capítulo, e os pneus com a dimensão máxima recomendada pelo construtor."
+  },
+  "167808810": {
+   "fragment_id": "167808719",
+   "type": 8,
+   "heading": "Secção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II\n\nDas condições de homologação CE dos dispositivos de protecção montados na retaguarda e da sua fixação ao tractor"
+  },
+  "167808811": {
+   "fragment_id": "167808720",
+   "type": 3,
+   "heading": "Subsecção I — Das disposições específicas e das especificações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Das disposições específicas e das especificações gerais"
+  },
+  "167808812": {
+   "fragment_id": "167808721",
+   "type": 11,
+   "heading": "Artigo 6.º — Definição de dispositivo de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Definição de dispositivo de protecção\n\n1 - Por dispositivo de protecção do condutor em caso de capotagem, adiante designado por dispositivo de protecção, entendem-se as estruturas montadas sobre um tractor com a finalidade principal de evitar ou limitar os riscos a que o condutor está sujeito em caso de capotagem do tractor durante a sua utilização normal.\n\n2 - As estruturas referidas no número anterior caracterizam-se pelo facto de, no decorrer dos ensaios descritos no anexo II ao presente Regulamento, conservarem um espaço livre suficientemente grande para proteger o condutor."
+  },
+  "167808813": {
+   "fragment_id": "167808722",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposições específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições específicas\n\nDevem ser aplicadas as disposições do n.º 1 do Código 7 da OCDE segundo a Decisão C (87) 53, final, de 24 de Novembro, com a última redacção que lhe foi dada em 3 de Março de 1999, com excepção do n.º 1.1."
+  },
+  "167808814": {
+   "fragment_id": "167808723",
+   "type": 11,
+   "heading": "Artigo 8.º — Especificações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Especificações gerais\n\n1 - Todos os dispositivos de protecção, bem como a sua fixação ao tractor, devem ser concebidos e fabricados de modo a corresponderem à finalidade principal indicada no n.º 1 do artigo 6.º do presente Regulamento.\n\n2 - A condição referida no número anterior considera-se satisfeita sempre que forem respeitados os requisitos constantes do anexo II ao presente Regulamento."
+  },
+  "167808815": {
+   "fragment_id": "167808724",
+   "type": 3,
+   "heading": "Subsecção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II\n\nPedido de homologação CE respeitante à resistência dos dispositivos de protecção e da sua fixação ao tractor"
+  },
+  "167808816": {
+   "fragment_id": "167808725",
+   "type": 11,
+   "heading": "Artigo 9.º — O pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — O pedido\n\n1 - O pedido de homologação CE respeitante à resistência dos dispositivos de protecção e da sua fixação ao tractor deve ser apresentado pelo construtor do tractor, pelo fabricante do dispositivo de protecção ou pelos respectivos mandatários.\n\n2 - O pedido deve ser acompanhado dos documentos abaixo mencionados, em triplicado, e contendo as seguintes indicações:\n\na) Desenho à escala ou com indicação das principais dimensões do conjunto do dispositivo de protecção devendo reproduzir, nomeadamente, os pormenores das peças de fixação;\n\nb) Fotografias do lado e da retaguarda mostrando os pormenores de fixação;\n\nc) Descrição sucinta do dispositivo de protecção, incluindo o tipo de construção, pormenores de fixação ao tractor e, se necessário, pormenores do revestimento, os meios de acesso e as possibilidades de libertação, indicações sobre os estofos interiores, particularidades susceptíveis de impedir voltas sucessivas do tractor e pormenores sobre o sistema de aquecimento e ventilação;\n\nd) Dados relativos aos materiais utilizados nas estruturas e nos elementos de fixação do dispositivo de protecção.\n\n3 - Apresentação ao serviço técnico encarregado dos ensaios de homologação de um tractor, equipado com o respectivo dispositivo de protecção, representativo do modelo de tractor a que se destina o dispositivo de protecção a ser homologado."
+  },
+  "167808817": {
+   "fragment_id": "167808726",
+   "type": 11,
+   "heading": "Artigo 10.º — Alargamento do pedido de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alargamento do pedido de homologação CE\n\n1 - O detentor da homologação CE pode pedir que esta seja alargada a outros modelos de tractores.\n\n2 - Compete às autoridades que tiverem concedido a homologação CE inicial a concessão do alargamento pedido, se o dispositivo de protecção e o modelo ou os modelos de tractor para os quais é pedido o alargamento da homologação CE inicial satisfaçam as seguintes condições:\n\na) A massa do tractor sem lastro não exceda em mais de 5% a massa de referência utilizada para os ensaios;\n\nb) A distância entre eixos ou o momento de inércia relativo ao eixo traseiro não seja superior à distância entre eixos ou ao momento de inércia de referência;\n\nc) A forma de fixação e os pontos de fixação ao tractor sejam idênticos;\n\nd) Os componentes que podem servir de suporte ao dispositivo de protecção, nomeadamente os guarda-lamas e a capota do motor, tenham a mesma resistência e estejam situados no mesmo local em relação ao dispositivo de protecção;\n\ne) As dimensões críticas e a posição do banco e do volante em relação ao dispositivo de protecção, bem como a posição, em relação ao mesmo dispositivo, dos pontos considerados rígidos e tomados em consideração para verificar se a zona livre está protegida, sejam tais que esta continue a estar protegida pelo dispositivo após a deformação deste, resultante dos diversos ensaios realizados."
+  },
+  "167808818": {
+   "fragment_id": "167808727",
+   "type": 3,
+   "heading": "Subsecção III — Das inscrições nos dispositivos de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Das inscrições nos dispositivos de protecção"
+  },
+  "167808819": {
+   "fragment_id": "167808728",
+   "type": 11,
+   "heading": "Artigo 11.º — Inscrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inscrições\n\n1 - Os dispositivos de protecção, conformes com o tipo homologado, devem conter as seguintes inscrições:\n\na) Marca comercial ou de fabrico;\n\nb) Marca de homologação de acordo com o modelo que figura no anexo III ao presente Regulamento;\n\nc) Número de série do dispositivo de protecção;\n\nd) Marca e modelo ou modelos de tractores a que se destina o dispositivo de protecção.\n\n2 - As indicações referidas no número anterior devem figurar numa pequena placa, devendo ser visíveis, legíveis e indeléveis."
+  },
+  "167808820": {
+   "fragment_id": "167808729",
+   "type": 8,
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III\n\nDas condições de homologação CE de um modelo de tractor no que respeita à resistência do dispositivo de protecção montado na retaguarda e da sua fixação ao tractor."
+  },
+  "167808821": {
+   "fragment_id": "167808730",
+   "type": 11,
+   "heading": "Artigo 12.º — O pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — O pedido\n\n1 - O pedido de homologação CE de um modelo de tractor no que respeita à resistência do dispositivo de protecção e da sua fixação ao tractor deve ser apresentado pelo fabricante ou pelo seu mandatário.\n\n2 - Deve ser apresentado ao serviço técnico encarregado dos ensaios de homologação um tractor representativo do modelo a homologar, no qual esteja montado um dispositivo de protecção e a sua fixação, devidamente homologadas.\n\n3 - O serviço técnico encarregado dos ensaios de homologação deve verificar se o tipo do dispositivo de protecção homologado se destina a ser montado no modelo de tractor para o qual a homologação é pedida, devendo verificar, nomeadamente, se a fixação do dispositivo de protecção corresponde ao que foi ensaiado por ocasião da homologação CE.\n\n4 - O detentor da homologação CE pode pedir que esta seja tornada extensiva a outros tipos de dispositivos de protecção."
+  },
+  "167808822": {
+   "fragment_id": "167808731",
+   "type": 11,
+   "heading": "Artigo 13.º — Concessão da extensão da homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Concessão da extensão da homologação CE\n\n1 - A Direcção-Geral de Viação concede a extensão da homologação CE referida no n.º 4 do artigo anterior, desde que:\n\na) O novo tipo de dispositivo de protecção e a sua fixação ao tractor tenham sido objecto de uma homologação CE;\n\nb) O novo tipo de dispositivo seja concebido para ser montado no modelo de tractor para o qual foi pedida a extensão da homologação CE;\n\nc) A fixação ao tractor do dispositivo de protecção corresponda à que foi ensaiada por ocasião da homologação CE.\n\n2 - Uma ficha, cujo modelo figura no anexo V ao presente Regulamento, deve ser anexada à ficha de homologação CE para cada homologação ou extensão de homologação concedida ou recusada.\n\n3 - Sempre que o pedido de homologação CE de um modelo de tractor seja apresentado ao mesmo tempo que o pedido de homologação CE de um modelo de dispositivo de protecção destinado a ser montado naquele modelo, não devem ser efectuadas as verificações previstas nos n.os 2 e 3 do artigo anterior."
+  },
+  "167808823": {
+   "fragment_id": "167808732",
+   "type": 1,
+   "heading": "Capítulo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III\n\nDisposições relativas à homologação CE dos dispositivos de protecção montados à frente em caso de capotagem dos tractores agrícolas ou florestais de rodas de via estreita."
+  },
+  "167808824": {
+   "fragment_id": "167808733",
+   "type": 8,
+   "heading": "Secção I — Do âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do âmbito de aplicação"
+  },
+  "167808825": {
+   "fragment_id": "167808734",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Âmbito de aplicação\n\nO presente capítulo é aplicável aos tractores definidos no n.º 1 do artigo 2.º do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas, aprovado pelo Decreto-Lei n.º 291/2000, de 14 de Novembro, que possuam as seguintes características:\n\na) Distância ao solo dos eixos dianteiro e traseiro não superior a 600 mm, tendo em conta o diferencial;\n\nb) Via mínima fixa ou regulável do eixo, equipado com pneus de maiores dimensões, inferior a 1150 mm; quando o eixo equipado com pneus mais largos se encontra regulado para uma via de, no máximo, 1150 mm, a via do outro eixo deve poder regular-se de modo que os bordos exteriores dos pneus mais estreitos não ultrapassem os bordos exteriores dos pneus do outro eixo; sempre que os dois eixos se encontrem equipados de jantes e pneus das mesmas dimensões, a via fixa ou regulável dos dois eixos deve ser inferior a 1150 mm;\n\nc) Massa compreendida entre 600 kg e 3000 kg, correspondente ao peso do tractor sem carga referido no n.º 2.4 do anexo I do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas, incluindo o dispositivo de protecção em caso de capotagem, montado em conformidade com o presente capítulo e os pneus com a dimensão máxima recomendada pelo construtor."
+  },
+  "167808826": {
+   "fragment_id": "167808735",
+   "type": 8,
+   "heading": "Secção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II\n\nDas condições de homologação CE dos dispositivos de protecção montados na frente e da sua fixação ao tractor"
+  },
+  "167808827": {
+   "fragment_id": "167808736",
+   "type": 3,
+   "heading": "Subsecção I — Das disposições específicas e das especificações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Das disposições específicas e das especificações gerais"
+  },
+  "167808828": {
+   "fragment_id": "167808737",
+   "type": 11,
+   "heading": "Artigo 15.º — Definição de dispositivo de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Definição de dispositivo de protecção\n\n1 - Por dispositivo de protecção em caso de capotagem, a seguir denominado dispositivo de protecção, entende-se a estrutura montada num tractor com a finalidade principal de evitar ou limitar os riscos a que o condutor está sujeito em caso de capotagem, durante a utilização normal do tractor.\n\n2 - As estruturas mencionadas no número anterior devem apresentar as características seguintes:\n\na) Serem todas as estruturas principais montadas à frente do centro do volante;\n\nb) As estruturas devem apresentar um espaço livre."
+  },
+  "167808829": {
+   "fragment_id": "167808738",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposições específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições específicas\n\nDevem ser aplicadas as disposições do n.º 1 do Código 6 da OCDE segundo a Decisão C (87) 53, final, de 24 de Novembro, com a última redacção que lhe foi dada em 3 de Março de 1999, com excepção do n.º 1.1."
+  },
+  "167808830": {
+   "fragment_id": "167808739",
+   "type": 11,
+   "heading": "Artigo 17.º — Especificações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Especificações gerais\n\n1 - Todos os dispositivos de protecção, bem como a sua fixação ao tractor, devem ser concebidos e fabricados de modo que correspondam à finalidade principal indicada no n.º 1 do artigo 15.º do presente Regulamento.\n\n2 - A condição referida no número anterior considera-se satisfeita sempre que forem respeitados os requisitos constantes do anexo VI ao presente Regulamento."
+  },
+  "167808831": {
+   "fragment_id": "167808740",
+   "type": 3,
+   "heading": "Subsecção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II\n\nDo pedido de homologação CE no que diz respeito à resistência dos dispositivos de protecção e da sua fixação ao tractor"
+  },
+  "167808832": {
+   "fragment_id": "167808741",
+   "type": 11,
+   "heading": "Artigo 18.º — O pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — O pedido\n\n1 - O pedido de homologação CE, no que diz respeito à resistência dos dispositivos de protecção e da sua fixação ao tractor, deve ser apresentado pelo construtor do tractor, pelo fabricante do dispositivo de protecção ou pelos respectivos mandatários.\n\n2 - O pedido deve ser acompanhado dos documentos abaixo mencionados, em triplicado, contendo as seguintes indicações:\n\na) Desenho à escala ou com indicação das principais dimensões do conjunto do dispositivo de protecção, devendo reproduzir, nomeadamente, os pormenores das peças de fixação;\n\nb) Fotografias do lado e da frente, mostrando os pormenores de fixação;\n\nc) Descrição sucinta do dispositivo de protecção, incluindo o tipo de construção, o sistema de fixação ao tractor e, se necessário, os pormenores do revestimento e especificações dos estofos interiores;\n\nd) Dados relativos aos materiais utilizados nas estruturas e nos elementos de fixação do dispositivo de protecção em caso de capotamento.\n\n3 - Apresentação ao serviço técnico encarregado dos ensaios de homologação de um tractor, equipado com o respectivo dispositivo de protecção, representativo do modelo de tractor a que se destina o dispositivo de protecção a ser homologado.\n\n4 - O construtor deve indicar as dimensões dos pneus que equipam ou podem equipar os eixos à frente e à retaguarda."
+  },
+  "167808833": {
+   "fragment_id": "167808742",
+   "type": 11,
+   "heading": "Artigo 19.º — Alargamento do pedido de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alargamento do pedido de homologação CE\n\n1 - O detentor da homologação CE pode pedir que esta seja alargada a outros modelos de tractores.\n\n2 - Compete às autoridades que tiverem concedido homologação CE inicial a concessão do alargamento pedido, se o dispositivo de protecção e o modelo ou os modelos de tractor para os quais é pedido o alargamento da homologação CE inicial satisfizer as seguintes condições:\n\na) A massa do tractor sem lastro não exceda em mais de 5% a massa de referência utilizada para o ensaio;\n\nb) A forma de fixação e os pontos de fixação ao tractor sejam idênticos;\n\nc) Os componentes que podem servir de suporte ao dispositivo de protecção, nomeadamente os guarda-lamas e a capota do motor, tenham a mesma resistência e estejam situados no mesmo local em relação ao dispositivo de protecção;\n\nd) As dimensões críticas e a posição do banco e do volante em relação ao dispositivo de protecção, bem como a posição, em relação ao dispositivo de protecção, dos pontos considerados rígidos e tomados em consideração para verificar se a zona livre está protegida, sejam tais que esta zona continue a estar protegida pelo dispositivo após a deformação deste, resultante dos diversos ensaios realizados."
+  },
+  "167808834": {
+   "fragment_id": "167808743",
+   "type": 3,
+   "heading": "Subsecção III — Das inscrições no dispositivo de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Das inscrições no dispositivo de protecção"
+  },
+  "167808835": {
+   "fragment_id": "167808744",
+   "type": 11,
+   "heading": "Artigo 20.º — Inscrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Inscrições\n\n1 - Os dispositivos de protecção, conformes com o tipo homologado, devem conter as seguintes inscrições:\n\na) Marca comercial ou de fabrico;\n\nb) Marca de homologação de acordo com o modelo que consta do anexo VIII ao presente Regulamento;\n\nc) Número de série do dispositivo de protecção;\n\nd) Marca e modelo ou modelos de tractores a que se destina o dispositivo de protecção.\n\n2 - As indicações referidas no número anterior devem figurar numa pequena placa, devendo ser visíveis, legíveis e indeléveis."
+  },
+  "167808836": {
+   "fragment_id": "167808745",
+   "type": 8,
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III\n\nDas condições de homologação CE de um modelo de tractor no que respeita à resistência do dispositivo de protecção montado na frente e da sua fixação ao tractor."
+  },
+  "167808837": {
+   "fragment_id": "167808746",
+   "type": 11,
+   "heading": "Artigo 21.º — O pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — O pedido\n\n1 - O pedido de homologação CE de um modelo de tractor, no que diz respeito à resistência do dispositivo de protecção e da sua fixação no tractor, deve ser apresentado pelo fabricante ou pelo seu mandatário.\n\n2 - Deve ser apresentado ao serviço técnico encarregado dos ensaios de homologação um tractor representativo do modelo a homologar com um dispositivo de protecção montado e respectiva fixação devidamente homologados.\n\n3 - O serviço técnico encarregado dos ensaios de homologação deve verificar se o tipo de dispositivo de protecção homologado se destina a ser montado no modelo do tractor para o qual é pedida a homologação, devendo verificar se a fixação do dispositivo de protecção corresponde à que foi ensaiada por ocasião da homologação CE.\n\n4 - O detentor da homologação CE pode pedir o seu alargamento a outros tipos de dispositivos de protecção."
+  },
+  "167808838": {
+   "fragment_id": "167808747",
+   "type": 11,
+   "heading": "Artigo 22.º — Concessão da extensão da homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Concessão da extensão da homologação CE\n\n1 - A Direcção-Geral de Viação concede a extensão da homologação CE referida no n.º 4 do artigo anterior, desde que:\n\na) O novo tipo de dispositivo de protecção e respectiva fixação ao tractor tenham sido objecto de uma homologação CE;\n\nb) O dispositivo tenha sido concebido para ser montado no tipo de tractor para o qual é pedido o alargamento da homologação CE;\n\nc) A fixação ao tractor do dispositivo de protecção corresponda à que foi testada por ocasião da homologação CE.\n\n2 - Uma ficha, cujo modelo figura no anexo X ao presente Regulamento, deve ser anexada à ficha de homologação CE para cada homologação ou alargamento de homologação concedida ou recusada.\n\n3 - Sempre que o pedido da homologação CE de um modelo de tractor seja apresentado ao mesmo tempo que o pedido de homologação CE de um modelo de dispositivo de protecção destinado a ser montado naquele modelo, não devem ser efectuadas as verificações previstas nos n.os 2 e 3 do artigo anterior."
+  },
+  "167808839": {
+   "fragment_id": "167808748",
+   "type": 14,
+   "heading": "Anexo I — (referente ao n.º 6 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (referente ao n.º 6 do artigo 4.º)\n\n(ver figuras no documento original)"
+  },
+  "167808840": {
+   "fragment_id": "167808749",
+   "type": 14,
+   "heading": "Anexo II — (referente ao capítulo II)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (referente ao capítulo II)\n\nExigências técnicas\n\nAs exigências técnicas necessárias para a homologação CE de um dispositivo de protecção montado à retaguarda, em caso de capotagem, dos tractores agrícolas ou florestais de rodas de via estreita são as descritas no n.º 3 do código 7 da OCDE [Decisão C (87) 53, final, com a última redacção que lhe foi dada em 3 de Março de 19991]. Os capítulos do n.º 3 relativos ao boletim de ensaio, às modificações de pequena importância e à identificação não são abrangidos pelas exigências técnicas."
+  },
+  "167808841": {
+   "fragment_id": "167808750",
+   "type": 14,
+   "heading": "Anexo III — (referente ao capítulo II)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (referente ao capítulo II)\n\nMarcação\n\nA marca de homologação CE é composta:\n\nPor um rectângulo no interior do qual está colocada a letra «e» minúscula seguida do número distintivo do Estado-Membro que emitiu a homologação:\n\n1 para a Alemanha;\n\n2 para a França;\n\n3 para a Itália;\n\n4 para os Países Baixos;\n\n5 para a Suécia;\n\n6 para a Bélgica;\n\n9 para a Espanha;\n\n11 para o Reino Unido;\n\n12 para a Áustria;\n\n13 para o Luxemburgo;\n\n17 para a Finlândia;\n\n18 para a Dinamarca;\n\n21 para Portugal;\n\n23 para a Grécia;\n\n24 para a Irlanda;\n\nPor um número de homologação CE correspondente ao número da ficha de homologação CE estabelecida para o tipo de dispositivo de protecção, no que diz respeito à sua resistência e à resistência da sua fixação ao tractor, colocado em qualquer posição por baixo e na proximidade do rectângulo;\n\nPelas letras «V» ou «SV», conforme o ensaio efectuado tenha sido dinâmico (V) ou estático (SV), seguidas do algarismo «1», significando que se trata de um dispositivo de protecção na acepção do presente Regulamento.\n\nExemplo de marca de homologação CE\n\n(ver figura no documento original)"
+  },
+  "167808842": {
+   "fragment_id": "167808751",
+   "type": 14,
+   "heading": "Anexo IV — (referente ao capítulo II)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (referente ao capítulo II)\n\nModelo de ficha de homologação CE\n\n[Determinação da autoridade administrativa: ...]\n\nComunicação relativa à homologação CE, à recusa, à revogação da homologação CE ou à extensão de homologação CE de um tipo de estrutura de protecção (arco montado à retaguarda, quadro ou cabina) no que respeita à sua resistência e à resistência da sua fixação ao tractor.\n\nNúmero de homologação CE: ..., extensão (ver nota 1).\n\n1 - Marca de fabrico ou comercial da estrutura de protecção: ...\n\n2 - Nome e morada do fabricante da estrutura de protecção: ...\n\n3 - Nome e morada do eventual mandatário do fabricante da estrutura de protecção: ...\n\n4 - Marca de fabrico ou comercial, modelo e denominação comercial do tractor ao qual se destina a estrutura de protecção: ...\n\n5 - Extensão da homologação CE ao(s) modelo(s) de tractor(es) seguinte(s): ...\n\n5.1 - A massa do tractor sem lastro ultrapassa/não ultrapassa (ver nota 2) em mais de 5% a massa de referência utilizada para o ensaio.\n\n5.2 - O método de fixação e os pontos de montagens são/não são (ver nota 2) idênticos.\n\n5.3 - Todos os componentes susceptíveis de servir de suporte à estrutura de protecção são/não são (ver nota 2) idênticos.\n\n6 - Apresentado à homologação CE em: ...\n\n7 - Laboratório de ensaio: ...\n\n8 - Data e número do relatório do laboratório: ...\n\n9 - Data da homologação/da recusa/da revogação da homologação CE (ver nota 2): ...\n\n10 - Data da extensão da homologação/da recusa/da revogação da extensão da homologação CE (ver nota 2): ...\n\n11 - Local: ...\n\n12 - Data: ...\n\n13 - Estão anexados os seguintes documentos, que ostentam o número de homologação CE indicado acima (por exemplo, relatório de ensaio): ...\n\n14 - Observações eventuais: ...\n\n15 - Assinatura: ...\n\n(nota 1) Indicar, se for caso disso, se se trata de uma primeira, segunda, etc., extensão relativamente à homologação CE inicial.\n\n(nota 2) Riscar o que não interessa."
+  },
+  "167808843": {
+   "fragment_id": "167808752",
+   "type": 14,
+   "heading": "Anexo V — (referente ao capítulo II)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (referente ao capítulo II)\n\nModelo\n\n[Denominação da autoridade administrativa: ...]\n\nAnexo à ficha de homologação CE de um modelo de tractor no que respeita à resistência das estruturas de protecção (arco montado à retaguarda, quadro ou cabina) e da sua fixação ao tractor (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º <a href=\"eurlex.asp?ano=1974&id=374L0150\" title=\"Link para Directiva da Comunidade Europeia\">74/150/CEE</a>, do Conselho, de 4 de Março, relativa à uniformização da legislação dos Estados-Membros respeitantes à homologação dos tractores agrícolas ou florestais de rodas).\n\nNúmero de homologação CE: ..., extensão (ver nota 1).\n\n1 - Marca de fabrico ou comercial do tractor: ...\n\n2 - Modelo do tractor: ...\n\n3 - Nome e morada do fabricante do tractor: ...\n\n4 - Se for caso disso, nome e morada do mandatário: ...\n\n5 - Marca de fabrico ou comercial da estrutura de protecção: ...\n\n6 - Extensão da homologação CE aos seguintes tipos de estruturas de protecção: ...\n\n7 - Tractor apresentado à homologação CE em: ...\n\n8 - Serviço técnico encarregado do controlo de conformidade para a homologação CE: ...\n\n9 - Data do relatório emitido por este serviço: ...\n\n10 - Número do relatório emitido por este serviço: ...\n\n11 - A homologação CE no que respeita à resistência das estruturas de protecção e da sua fixação ao tractor é concedida/recusada (ver nota 2).\n\n12 - A extensão da homologação CE no que respeita à resistência das estruturas de protecção e da sua fixação ao tractor é concedida/recusada (ver nota 2).\n\n13 - Local: ...\n\n14 - Data: ...\n\n15 - Assinatura: ...\n\n(nota 1) Indicar, se for caso disso, se se trata de uma primeira, segunda, etc., extensão relativamente à homologação CE inicial.\n\n(nota 2) Riscar o que não interessa."
+  },
+  "167808844": {
+   "fragment_id": "167808753",
+   "type": 14,
+   "heading": "Anexo VI — (referente ao capítulo III)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (referente ao capítulo III)\n\nExigências técnicas\n\nAs exigências técnicas necessárias para a homologação CE de um dispositivo de protecção montado à frente, em caso de capotagem, dos tractores agrícolas ou florestais de rodas de via estreita são as descritas no n.º 3 do código 6 da OCDE [Decisão C (87) 53, final, com a última redacção que lhe foi dada em 3 de Março de 1999]. Os capítulos do n.º 3 relativos ao boletim de ensaio, às modificações de pequena importância e à identificação não são abrangidos pelas exigências técnicas."
+  },
+  "167808845": {
+   "fragment_id": "167808754",
+   "type": 14,
+   "heading": "Anexo VII — (referente ao capítulo III)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — (referente ao capítulo III)\n\nModelo\n\nRelatório relativo aos ensaios de homologação CE de um dispositivo de protecção (arco montado na frente) no que se refere à sua resistência e à resistência da sua fixação ao tractor.\n\n(ver quadros no documento original)\n\nNúmero de homologação CE: ...\n\n1 - Marca de fabrico ou comercial do dispositivo de protecção: ...\n\n2 - Nome e morada do fabricante do tractor ou do fabricante do dispositivo de protecção: ...\n\n3 - Nome e morada do eventual mandatário do fabricante do tractor ou do fabricante do dispositivo de protecção: ...\n\n4 - Especificações do tractor em que os ensaios são efectuados:\n\n4.1 - Marca de fabrico ou comercial: ...\n\n4.2 - Modelo: ...\n\n4.3 - Número de série: ...\n\n4.4 - Distância entre eixos/momento de inércia (ver nota 2): ... mm/kgm2 (ver nota 2).\n\n4.5 - Dimensões dos pneumáticos:\n\nÀ frente: ...\n\nAtrás: ...\n\n5 - Alargamento da homologação CE a outros modelos de tractores:\n\n5.1 - Marca de fabrico ou comercial: ...\n\n5.2 - Modelo: ...\n\n5.3 - Massa do tractor não lastrado, com dispositivo de protecção sem condutor: ... kg.\n\n5.4 - Dimensões dos pneumáticos:\n\nÀ frente: ...\n\nAtrás: ...\n\n6 - Especificações do dispositivo de protecção:\n\n6.1 - Desenho da disposição do conjunto da estrutura do dispositivo de protecção e da sua fixação ao tractor;\n\n6.2 - Fotografias que mostrem os pormenores de fixação;\n\n6.3 - Descrição sucinta do dispositivo de protecção, compreendendo o tipo de fabrico, os sistemas de fixação ao tractor, os pormenores de revestimento, os meios de acesso e as possibilidades de libertação, pormenores sobre os estofos interiores, particularidades susceptíveis de impedir as voltas sucessivas do tractor: ...\n\n6.4 - Dimensões:\n\n6.4.1 - Altura dos elementos estruturais do tecto por cima do assento em carga/do ponto de referência do banco (ver nota 1): ... mm.\n\n6.4.2 - Altura dos elementos estruturais do tecto acima da plataforma do tractor: ... mm.\n\n6.4.3 - Distância mínima do bordo do volante ao dispositivo de protecção: ... mm.\n\n6.4.4 - Altura total do tractor munido do dispositivo de protecção: ... mm.\n\n6.4.5 - Largura total do dispositivo de protecção: ... mm.\n\n6.5 - Características e qualidades dos materiais e normas utilizadas: ...\n\nQuadro principal: ... (material e dimensões);\n\nFixações: ... (material e dimensões);\n\nTecto: ... (material e dimensões);\n\nEstofos interiores: ... (material e dimensões);\n\nParafusos de montagem e de fixação: ... (qualidade e dimensões).\n\n7 - Resultados dos ensaios:\n\n7.1 - Ensaios de choque/carga (ver nota 1) e de esmagamento - os ensaios de choque/carga foram efectuados atrás à direita/esquerda (ver nota 2), à frente e à direita/esquerda (ver nota 2) e sobre o lado direito/esquerdo (ver nota 2). A massa de referência utilizada para calcular a força de impacto e a força de esmagamento foi de ... kg.\n\nForam respeitadas/não foram respeitadas (ver nota 2) as prescrições de ensaio relativas às fracturas e fissuras, à deformação instantânea máxima e à zona livre.\n\n7.2 - Deformações medidas após os ensaios:\n\nDeformação permanente:\n\nNa retaguarda, para a esquerda: ... mm;\n\nNa retaguarda, para a direita: ... mm;\n\nÀ frente, para a esquerda: ... mm;\n\nÀ frente, para a direita: ... mm;\n\nLateral:\n\nÀ frente: ... mm;\n\nAtrás: ... mm;\n\nDa parte superior para baixo:\n\nÀ frente: ... mm;\n\nAtrás: ... mm;\n\nDiferença entre a deformação instantânea máxima e a deformação residual no decurso do choque lateral: ... mm.\n\n7.3 - Indicação e resultados do eventual ensaio dinâmico adicional.\n\n8 - Número do relatório: ...\n\n9 - Data do relatório: ...\n\n10 - Assinatura: ...\n\n(nota 1) Riscar o que não interessa de acordo com o método de ensaio utilizado.\n\n(nota 2) Riscar o que não interessa."
+  },
+  "167808846": {
+   "fragment_id": "167808755",
+   "type": 14,
+   "heading": "Anexo VIII — (referente ao capítulo III)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — (referente ao capítulo III)\n\nMarcação\n\nA marca de homologação CE é composta:\n\nPor um rectângulo no interior do qual está colocada a letra «e» minúscula seguida do número distintivo do Estado-Membro que emitiu a homologação:\n\n1 para a Alemanha;\n\n2 para a França;\n\n3 para Itália;\n\n4 para os Países Baixos;\n\n5 para a Suécia;\n\n6 para a Bélgica;\n\n9 para a Espanha;\n\n11 para o Reino Unido;\n\n12 para a Áustria;\n\n13 para o Luxemburgo;\n\n17 para a Finlândia;\n\n18 para a Dinamarca;\n\n21 para Portugal;\n\n23 para a Grécia;\n\n24 para a Irlanda;\n\nPor um número de homologação CE correspondente ao número de ficha de homologação CE estabelecida para o tipo de dispositivo de protecção no que diz respeito à sua resistência e à resistência da sua fixação ao tractor, colocado em qualquer posição por baixo e na proximidade do rectângulo;\n\nPelas letras «V» ou «Va», conforme o ensaio efectuado tenha sido dinâmico (V) ou estático (SV), seguidas do algarismo «2», significando que se trata de um dispositivo de protecção na acepção do presente Regulamento.\n\nExemplo de marca de homologação CE\n\n(ver figura no documento original)"
+  },
+  "167808847": {
+   "fragment_id": "167808756",
+   "type": 14,
+   "heading": "Anexo IX — (referente ao capítulo III)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — (referente ao capítulo III)\n\nModelo de ficha de homologação CE\n\n[Indicação da administração:...]\n\nComunicação relativa à homologação CE, à recusa, à revogação da homologação CE ou alargamento da homologação CE de um modelo de dispositivo de protecção (arco montado à frente) no que se refere à sua resistência e à resistência da sua fixação ao tractor.\n\nNúmero de homologação CE: ..., alargamento (ver nota 1).\n\n1 - Marca de fabrico ou comercial do dispositivo de protecção: ...\n\n2 - Nome e morada do fabricante do dispositivo de protecção: ...\n\n3 - Nome e morada do eventual mandatário do fabricante do dispositivo de protecção: ...\n\n4 - Marca de fabrico ou comercial e modelo do tractor a que o dispositivo de protecção se destina: ...\n\n5 - Alargamento da homologação CE para o(s) modelo(s) de tractor(es) seguinte(s): ...\n\n5.1 - A massa do tractor não lastrado ultrapassa/não ultrapassa (ver nota 2) em mais de 5% a massa de referência utilizada para o ensaio.\n\n5.2 - O método de fixação e os pontos de montagem são/não são (ver nota 2) idênticos.\n\n5.3 - Todos os componentes susceptíveis de servir de suporte ao dispositivo de protecção são/não são (ver nota 2) idênticos.\n\n6 - Apresentada para homologação CE em: ...\n\n7 - Laboratório de ensaio: ...\n\n8 - Data e número do relatório do laboratório: ...\n\n9 - Data da homologação/da recusa/da revogação da homologação (ver nota 2): ...\n\n10 - Data do alargamento da homologação/da recusa/da revogação do alargamento da homologação CE (ver nota 2): ...\n\n11 - Local: ...\n\n12 - Data: ...\n\n13 - Juntam-se os seguintes documentos, que ostentam o número de homologação CE acima indicados, (por exemplo, relatório de ensaio): ...\n\n14 - Observações eventuais: ...\n\n15 - Assinatura: ...\n\n(nota 1) Indicar se se trata de um primeiro, segundo, etc., alargamento em relação à homologação CE inicial.\n\n(nota 2) Riscar o que não interessa."
+  },
+  "167808848": {
+   "fragment_id": "167808757",
+   "type": 14,
+   "heading": "Anexo X — (referente ao capítulo III)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — (referente ao capítulo III)\n\nModelo\n\n[Indicação da administração:...]\n\nAnexo à ficha de homologação CE de um modelo de tractor no que respeita à resistência dos dispositivos de protecção (arco montado à frente) e da sua fixação ao tractor (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º <a href=\"eurlex.asp?ano=1974&id=374L0150\" title=\"Link para Directiva da Comunidade Europeia\">74/150/CEE</a>, do Conselho, de 4 de Março, relativa à aproximação da legislação dos Estados-Membros respeitantes à homologação dos tractores agrícolas ou florestais de rodas).\n\nNúmero de homologação CE: ..., alargamento (ver nota 1).\n\n1 - Marca de fabrico ou comercial do tractor: ...\n\n2 - Modelo do tractor: ...\n\n3 - Nome e morada do fabricante do tractor: ...\n\n4 - Nome e morada do mandatário, se existir: ...\n\n5 - Marca de fabrico ou comercial do dispositivo de protecção: ...\n\n6 - Alargamento da homologação CE ao(s) modelo(s) de dispositivo(s) de protecção seguinte(s): ...\n\n7 - Tractor apresentado à homologação CE em: ...\n\n8 - Serviço técnico encarregado do controlo de conformidade para a homologação CE: ...\n\n9 - Data do relatório emitido por esse serviço: ...\n\n10 - Número do relatório emitido por esse serviço: ...\n\n11 - A homologação CE no que se refere à resistência dos dispositivos de protecção e da sua fixação no tractor é concedida/recusada (ver nota 2).\n\n12 - O alargamento da homologação CE no que respeita à resistência dos dispositivos de protecção e da sua fixação no tractor é concedida/recusada (ver nota 2).\n\n13 - Local: ...\n\n14 - Data: ...\n\n15 - Assinatura: ...\n\n(nota 1) Indicar se se trata de um primeiro, segundo, etc., alargamento em relação à homologação CE inicial.\n\n(nota 2) Riscar o que não interessa."
+  },
+  "167808798": {
+   "fragment_id": "167808707",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Outubro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 17 de Dezembro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Dezembro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nANEXO\n\nREGULAMENTO RESPEITANTE AOS BANCOS DOS PASSAGEIROS E À HOMOLOGAÇÃO DOS DISPOSITIVOS DE PROTECÇÃO, EM CASO DE CAPOTAGEM, MONTADOS NA FRENTE E NA RETAGUARDA DOS TRACTORES AGRÍCOLAS OU FLORESTAIS DE RODAS DE VIA ESTREITA."
+  },
+  "167863462": {
+   "fragment_id": "167808722",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposições específicas",
+   "in_force_from": "2006-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 89/2006 - Diário da República n.º 100/2006, Série I-A de 2006-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2006-285511), em vigor a partir de 2006-05-29"
+   ],
+   "markdown": "###### Artigo 7.º — Disposições específicas\n\nDevem ser aplicadas as definições e os requisitos do n.º 1 do código 7 da Decisão C (2005) 1, da OCDE, de 29 de Março, com excepção do n.º 1.1.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 89/2006 - Diário da República n.º 100/2006, Série I-A de 2006-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2006-285511), em vigor a partir de 2006-05-29"
+  },
+  "167863463": {
+   "fragment_id": "167808738",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposições específicas",
+   "in_force_from": "2006-05-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 89/2006 - Diário da República n.º 100/2006, Série I-A de 2006-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2006-285511), em vigor a partir de 2006-05-29"
+   ],
+   "markdown": "###### Artigo 16.º — Disposições específicas\n\n1 - Devem ser aplicadas as disposições do n.º 1 do Código 6 da OCDE segundo a Decisão C (87) 53, final, de 24 de Novembro, com a última redacção que lhe foi dada em 3 de Março de 1999, com excepção do n.º 1.1.\n\n2 - São alterados os anexos II e VI do Regulamento Respeitante aos Bancos dos Passageiros e à Homologação dos Dispositivos de Protecção, em Caso de Capotagem, Montados na Frente e na Retaguarda dos Tractores Agrícolas ou Florestais de Rodas de Via Estreita, aprovado pelo Decreto-Lei n.º 3/2002, de 4 de Janeiro, que passam a ter a seguinte redacção:\n\nANEXO II\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 89/2006 - Diário da República n.º 100/2006, Série I-A de 2006-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2006-285511), em vigor a partir de 2006-05-29"
+  },
+  "167904727": {
+   "fragment_id": "167808722",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposições específicas",
+   "in_force_from": "2011-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 81/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028), em vigor a partir de 2011-06-25",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 89/2006 - Diário da República n.º 100/2006, Série I-A de 2006-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2006-285511), em vigor a partir de 2006-05-29"
+   ],
+   "markdown": "###### Artigo 7.º — Disposições específicas\n\nDevem ser aplicadas as definições e os requisitos disposições do n.º 1 do Código 7 da Decisão C (2008) 128 da OCDE, 16 de Outubro de 2008, à excepção do n.º 1.1, conforme o disposto no anexo xi do presente Regulamento.\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 81/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028), em vigor a partir de 2011-06-25\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 89/2006 - Diário da República n.º 100/2006, Série I-A de 2006-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2006-285511), em vigor a partir de 2006-05-29"
+  },
+  "167904728": {
+   "fragment_id": "167808738",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposições específicas",
+   "in_force_from": "2011-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 81/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028), em vigor a partir de 2011-06-25",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 89/2006 - Diário da República n.º 100/2006, Série I-A de 2006-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2006-285511), em vigor a partir de 2006-05-29"
+   ],
+   "markdown": "###### Artigo 16.º — Disposições específicas\n\nDevem ser aplicadas as definições e os requisitos do n.º 1 do Código 6 da Decisão C (2008) 128 da OCDE, 16 de Outubro de 2008, à excepção do n.º 1.1, conforme o disposto no anexo xii do presente Regulamento.\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 81/2011 - Diário da República n.º 117/2011, Série I de 2011-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028), em vigor a partir de 2011-06-25\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 89/2006 - Diário da República n.º 100/2006, Série I-A de 2006-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2006-285511), em vigor a partir de 2006-05-29"
+  },
+  "167904975": {
+   "fragment_id": "167808750",
+   "type": 14,
+   "heading": "Anexo III — (referente ao capítulo II)",
+   "in_force_from": "2013-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 148/2013 - Diário da República n.º 206/2013, Série I de 2013-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), em vigor a partir de 2013-10-29"
+   ],
+   "markdown": "## Anexo III — (referente ao capítulo II)\n\nMarcação\n\nA marca de homologação CE é composta:\n\nPor um rectângulo no interior do qual está colocada a letra «e» minúscula seguida do número distintivo do Estado-Membro que emitiu a homologação:\n\n1 para a Alemanha;\n\n2 para a França;\n\n3 para a Itália;\n\n4 para os Países Baixos;\n\n5 para a Suécia;\n\n6 para a Bélgica;\n\n9 para a Espanha;\n\n11 para o Reino Unido;\n\n12 para a Áustria;\n\n13 para o Luxemburgo;\n\n17 para a Finlândia;\n\n18 para a Dinamarca;\n\n21 para Portugal;\n\n23 para a Grécia;\n\n24 para a Irlanda;\n\nPor um número de homologação CE correspondente ao número da ficha de homologação CE estabelecida para o tipo de dispositivo de protecção, no que diz respeito à sua resistência e à resistência da sua fixação ao tractor, colocado em qualquer posição por baixo e na proximidade do rectângulo;\n\nPelas letras «V» ou «SV», conforme o ensaio efectuado tenha sido dinâmico (V) ou estático (SV), seguidas do algarismo «1», significando que se trata de um dispositivo de protecção na acepção do presente Regulamento.\n\nExemplo de marca de homologação CE\n\n(ver figura no documento original)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 148/2013 - Diário da República n.º 206/2013, Série I de 2013-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), em vigor a partir de 2013-10-29"
+  },
+  "167904976": {
+   "fragment_id": "167808755",
+   "type": 14,
+   "heading": "Anexo VIII — (referente ao capítulo III)",
+   "in_force_from": "2013-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 148/2013 - Diário da República n.º 206/2013, Série I de 2013-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), em vigor a partir de 2013-10-29"
+   ],
+   "markdown": "## Anexo VIII — (referente ao capítulo III)\n\nMarcação\n\nA marca de homologação CE é composta:\n\nPor um rectângulo no interior do qual está colocada a letra «e» minúscula seguida do número distintivo do Estado-Membro que emitiu a homologação:\n\n1 para a Alemanha;\n\n2 para a França;\n\n3 para Itália;\n\n4 para os Países Baixos;\n\n5 para a Suécia;\n\n6 para a Bélgica;\n\n9 para a Espanha;\n\n11 para o Reino Unido;\n\n12 para a Áustria;\n\n13 para o Luxemburgo;\n\n17 para a Finlândia;\n\n18 para a Dinamarca;\n\n21 para Portugal;\n\n23 para a Grécia;\n\n24 para a Irlanda;\n\nPor um número de homologação CE correspondente ao número de ficha de homologação CE estabelecida para o tipo de dispositivo de protecção no que diz respeito à sua resistência e à resistência da sua fixação ao tractor, colocado em qualquer posição por baixo e na proximidade do rectângulo;\n\nPelas letras «V» ou «Va», conforme o ensaio efectuado tenha sido dinâmico (V) ou estático (SV), seguidas do algarismo «2», significando que se trata de um dispositivo de protecção na acepção do presente Regulamento.\n\nExemplo de marca de homologação CE\n\n(ver figura no documento original)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 148/2013 - Diário da República n.º 206/2013, Série I de 2013-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), em vigor a partir de 2013-10-29"
+  }
+ }
+}

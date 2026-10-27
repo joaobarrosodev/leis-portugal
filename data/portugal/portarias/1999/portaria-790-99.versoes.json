@@ -1,0 +1,87 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:581048:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-223338652",
+ "dre_path": "/dr/detalhe/portaria/790-1999-581048",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-09-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "223386083"
+   ]
+  },
+  {
+   "date": "2000-12-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584458:por",
+     "title": "Portaria n.º 1157/2000",
+     "published": "2000-12-07",
+     "dre_path": "/dr/detalhe/portaria/1157-2000-584458"
+    }
+   ],
+   "changes": [
+    "Altera Anexo A",
+    "Altera Anexo B"
+   ],
+   "fragments": [
+    "223386083",
+    "223386077",
+    "223386078",
+    "223394412",
+    "223394413"
+   ]
+  }
+ ],
+ "fragments": {
+  "223386083": {
+   "fragment_id": "223338653",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 790/99\n\nde 7 de Setembro\n\nO Decreto-Lei n.º 291/99, de 3 de Agosto, alterou o regime relativo às tabelas de inaptidão e incapacidade para as Forças Armadas, em virtude da necessidade de actualização e uniformização que as tabelas dos ramos apresentavam, tendo assim previsto a existência de um único instrumento para aquele fim.\n\nA presente portaria aprova as tabelas gerais de inaptidão e de incapacidade para a prestação de serviço por militares e militarizados nas Forças Armadas e para a prestação de serviço na Polícia Marítima, bem como o quadro das condições sensoriais gerais a observar para as respectivas admissões.\n\nEstas tabelas seguem a Classificação Estatística Internacional de Doenças e Problemas de Saúde e Afins (ICD 10) da Organização Mundial de Saúde.\n\nOptou-se por seguir aquela classificação de forma rígida, introduzindo, por via disso, alterações na forma convencional de arrumar as entidades nosológicas por aparelhos e sistemas. A título exemplificativo, refira-se que os tumores deixaram de estar distribuídos por aparelhos, que as doenças cerebrovasculares e as varizes esofágicas estão incluídas nas doenças do sistema circulatório, e não nas do sistema nervoso ou do aparelho gastrintestinal, respectivamente.\n\nAssim:\n\nManda o Governo, pelo Ministro da Defesa Nacional, ao abrigo do artigo 1.º do Decreto-Lei n.º 291/99, de 3 de Agosto, o seguinte:\n\n1.º São aprovadas as tabelas gerais de inaptidão e de incapacidade para a prestação de serviço por militares e militarizados nas Forças Armadas e para a prestação de serviço na Polícia Marítima, constantes do anexo A, bem como o quadro das condições sensoriais gerais a exigir para as respectivas admissões, constante do anexo B a este diploma, do qual fazem parte integrante.\n\n2.º As tabelas referidas no n.º 1.º compreendem:\n\na) Tabela geral A - causas de inaptidão física e psíquica nas seguintes admissões:\n\n1) Marinha:\n\na) Oficiais das classes de marinha e fuzileiros;\n\nb) Praças de todas as classes, excepto músicos;\n\nc) Pessoal do QPMM (polícia dos estabelecimentos da Marinha, troço do mar, práticos da costa do Algarve e faroleiros);\n\nd) Polícia Marítima;\n\n2) Exército:\n\na) Candidatos à Academia Militar;\n\nb) Candidatos à Escola de Sargentos do Exército;\n\nc) Candidatos a cursos de tropas especiais (especialidades: comando, aerotransportado e operações especiais);\n\n3) Força Aérea:\n\na) Oficiais das seguintes especialidades: pilotos aviadores, pilotos, navegadores, técnicos de operação de circulação aérea e radar de tráfego, técnicos de operação de detecção e conduta de intercepção;\n\nb) Sargentos das seguintes especialidades: operadores de circulação aérea e radaristas de tráfego, operadores radaristas de detecção;\n\nb) Tabela geral B - causas de inaptidão física e psíquica nas seguintes admissões:\n\n1) Marinha:\n\na) Oficiais de todas as classes excepto marinha e fuzileiros;\n\nb) Sargentos das classes de electrotécnicos, maquinistas navais, enfermeiros e técnicos de diagnóstico e terapêutica e músicos;\n\nc) Praças da classe de músicos;\n\nd) Regime de voluntariado e de contrato em todas as categorias e qualquer classe;\n\ne) Serviço efectivo normal e mediante convocação ou mobilização para ingresso em qualquer classe;\n\n2) Exército:\n\na) Candidatos ao quadro permanente, através de concurso após licenciatura;\n\nb) Militares em serviço efectivo normal e mediante convocação ou mobilização e em regime de voluntariado e de contrato;\n\n3) Força Aérea:\n\na) Os seguintes oficiais: engenheiros das diversas especialidades, oficiais técnicos das diversas especialidades, à excepção dos incluídos na tabela A, médicos, administração aeronáutica, juristas, Polícia Aérea e chefes de banda de música;\n\nb) Sargentos de qualquer especialidade, à excepção dos incluídos na tabela A;\n\nc) Praças;\n\nc) Tabela geral C - causas de inaptidão física e psíquica para:\n\n1) Promoção;\n\n2) Frequência de cursos, ao abrigo das condições que forem estabelecidas para o efeito;\n\n3) Desempenho de funções que exijam plena validez aos militares do quadro permanente;\n\n4) Desempenho de funções que exijam plena validez ao pessoal militarizado da Marinha e do Exército e ao pessoal da Polícia Marítima;\n\nd) Tabela geral D - causas de incapacidade física e psíquica para prestação de serviço na efectividade.\n\n> Nota: [Artigo 6.º, Portaria n.º 318/2023 - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2023-223203767) A revogação da presente portaria produz efeitos a partir da data da entrada em vigor do despacho referido no artigo 2.º do Decreto-Lei n.º 291/99, de 3 de agosto."
+  },
+  "223386077": {
+   "fragment_id": "223338654",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Defesa Nacional, Jaime José Matos da Gama, em 24 de Agosto de 1999."
+  },
+  "223386078": {
+   "fragment_id": "223338655",
+   "type": 14,
+   "heading": "Nota explicativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Nota explicativa\n\nOs símbolos utilizados nas tabelas A, B, C e D têm o seguinte significado:\n\nIN - inaptidão;\n\nAJ/AC - aptidão dependente do grau de lesão e do critério da junta/a aguardar classificação no caso de provas de selecção para efeitos de prestação de serviço efectivo normal, mediante convocação ou mobilização e em regime de voluntariado ou de contrato;\n\nIJ - inaptidão parcial dependente do grau de lesão e do critério da junta;\n\nIC - incapacidade;\n\nID - incapacidade dependente do grau de lesão e do critério da junta, podendo ser interpretado, no seu sentido mais lato, como incapacidade total."
+  },
+  "223394412": {
+   "fragment_id": "223338656",
+   "type": 14,
+   "heading": "Anexo A — Tabelas gerais de inaptidão e de incapacidade para o serviço nas Forças Armadas",
+   "in_force_from": "2000-12-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1157/2000 - Diário da República n.º 282/2000, Série I-B de 2000-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/1157-2000-584458), em vigor a partir de 2000-12-12"
+   ],
+   "markdown": "## Anexo A — Tabelas gerais de inaptidão e de incapacidade para o serviço nas Forças Armadas\n\n(para uso nas juntas médicas e centros de selecção)\n\n(ver tabela no documento original)\n\n> Nota: [Declaração de Rectificação n.º 15-L/99 - Diário da República n.º 229/1999, 3º Suplemento, Série I-B de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-l-1999-241419) No anexo A, no capítulo IV, número da tabela 019, onde se lê «Outras doenças do sangue [...] doenças do baço)» deve ler-se «Outras doenças do sangue [...] doenças do baço ...)». No capítulo V, número da tabela 023, onde se lê «Outras disfunções endócrinas [...] hiperinsulinismo)» deve ler-se «Outras disfunções endócrinas [...] hiperinsulinismo ...)». No mesmo capítulo, número da tabela 024, onde se lê «Qualquer doença [...] porfírias)» deve ler-se «Qualquer doença [...] porfírias ...)». No capítulo VI, número da tabela 025, onde se lê «Alterações mentais orgânicas [...] lesão cerebral)» deve ler-se «Alterações mentais orgânicas [...] lesão cerebral ...)». No capítulo VII, número da tabela 033, onde se lê «Idem, causando perturbações que diminuam a capacidade para o serviço» deve ler-se «Idem, causando perturbações que diminuam a capacidade para o serviço [...] IJ-ID». No capítulo VIII, número da tabela 051, onde se lê «Outras alterações do olho e anexos [...] da miopia)» deve ler-se «Outras alterações do olho e anexos [...] da miopia ...)».\n\n> Alterado pelo/a [Portaria n.º 1157/2000 - Diário da República n.º 282/2000, Série I-B de 2000-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/1157-2000-584458), em vigor a partir de 2000-12-12"
+  },
+  "223394413": {
+   "fragment_id": "223338657",
+   "type": 14,
+   "heading": "Anexo B — Quadro das condições sensoriais gerais",
+   "in_force_from": "2000-12-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1157/2000 - Diário da República n.º 282/2000, Série I-B de 2000-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/1157-2000-584458), em vigor a partir de 2000-12-12"
+   ],
+   "markdown": "## Anexo B — Quadro das condições sensoriais gerais\n\nOtorrinolaringologia\n\nMarinha, Exército e Força Aérea\n\n(ver tabela no documento original)\n\nOftalmologia\n\nMarinha\n\n(ver tabela no documento original)\n\nExército e Força Aérea\n\n(ver tabela no documento original)\n\n> Nota: [Declaração de Rectificação n.º 15-L/99 - Diário da República n.º 229/1999, 3º Suplemento, Série I-B de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-l-1999-241419) No anexo B, «Oftalmologia», «Exército e Força Aérea», coluna «Acuidade visual», onde se lê «Correcção máxima: -2,00 dioptrias esféricas e -0,75 cilíndricas; [...]» deve ler-se «Correcção máxima: -2,00 dioptrias esféricas e = 0,75 cilíndricas; [...]»\n\n> Alterado pelo/a [Portaria n.º 1157/2000 - Diário da República n.º 282/2000, Série I-B de 2000-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/1157-2000-584458), em vigor a partir de 2000-12-12"
+  }
+ }
+}

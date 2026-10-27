@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:2493800:por
+title: Portaria n.º 1808/2002 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Marinha - Gabinete do Chefe do Estado-Maior da Armada
+proposing_entity: null
+official_number: 1808/2002 (2.ª série)
+official_date: null
+publication_date: '2002-12-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 282/2002, Série II de 2002-12-06
+  number: '282'
+  series: II
+  supplement: null
+  pages: 20072 - 20072
+  pdf_url: https://files.diariodarepublica.pt/2s/2002/12/282000000/2007220072.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2493800'
+  dre_path: /dr/detalhe/portaria/1808-2002-2493800
+  internal: pt:dre:2493800:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1808-2002-2493800
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1808-2002-2493800
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2c50bb40a0afcce0bf24602f7410e4309db5bd5868c0370bb419e384f0c239c0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:30:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:327993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:30:19Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1808/2002 (2.ª série)
+
+Portaria n.º 1808/2002 (2.ª série). - Manda o Chefe do Estado-Maior da Armada que os seguintes candidatos licenciados em Medicina sejam aumentados ao efectivo da Marinha e graduados no posto de subtenente a contar desde 8 de Novembro de 2002, de harmonia com o disposto no n.º 4 do artigo 242.º do EMFAR posto em vigor pelo [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, e no n.º 23 da [Portaria n.º 632/78](https://diariodarepublica.pt/dr/detalhe/portaria/632-1978-327993), de 21 de Outubro, data a partir da qual lhes é devido o respectivo vencimento, de acordo com o n.º 2 do artigo 68.º do EMFAR, ficando colocados no 1.º escalão do respectivo posto de graduação:
+
+7100502, Tiago de Sousa Pimentel e Silva Nunes.
+
+7100602, José da Assunção Gonçalves.
+
+7100402, Alexandre Miguel Semedo Roque Ambrósio.
+
+7100102, David Joffe de Figueiredo Pereira Botelho.
+
+7100302, João Miguel dos Santos Araújo Fernandes Barbosa.
+
+7100902, Catarina Alexandra Pires Coelho.
+
+7100802, José Alexandre Dias Ramalho Croca.
+
+7100702, Andreia Mamede Dias Martins.
+
+7100202, Inês Maria Tanganho do Nascimento.
+
+26 de Novembro de 2002. - O Chefe do Estado-Maior da Armada, Francisco António Torres Vidal Abreu, almirante.

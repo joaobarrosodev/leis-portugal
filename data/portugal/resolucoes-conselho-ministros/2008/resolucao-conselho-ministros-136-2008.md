@@ -1,0 +1,253 @@
+---
+schema_version: '1.0'
+id: pt:dre:454017:por
+title: Resolução do Conselho de Ministros n.º 136/2008
+short_title: null
+summary: Determina a elaboração do Plano Nacional de Acção para a Inclusão 2008-2010
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 136/2008
+official_date: null
+publication_date: '2008-09-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/2008, Série I de 2008-09-09
+  number: '174'
+  series: I
+  supplement: null
+  pages: 6276 - 6277
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/09/17400/0627606277.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/136/2008/09/09/p/dre/pt/html
+  oj: null
+  dre: '454017'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/136-2008-454017
+  internal: pt:dre:454017:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/136-2008-454017
+  metadata_url: https://data.dre.pt/eli/resolconsmin/136/2008/09/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/136-2008-454017
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 23b58ab7edcd491c7873bf730555cfb8980aaccbe19a7ce932aa8b6d395175fb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:56:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Coordenador
+- Estratégia Nacional de Desenvolvimento Sustentável
+- Luta contra a Pobreza
+- Plano Nacional contra a Violência Doméstica
+- Plano Nacional contra o Tráfico de Seres Humanos
+- Plano Nacional de Saúde
+- Plano Nacional de Saúde Mental
+- Plano Nacional para a Igualdade-cidadania e Género
+- Plano para a Integração dos Imigrantes
+- PNAI
+- Programa Nacional da Política de Ordenamento do Território
+- Proteção Social
+relationships:
+- type: cites
+  target: pt:dre:661279:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/40/2006/04/26/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:56:48Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 136/2008
+
+A promoção da inclusão social assume-se como uma das prioridades estratégicas da União Europeia e de cada um dos Estados membros.
+
+O Conselho Europeu de Lisboa, realizado em Março de 2000, tornou-se um marco decisivo dessa prioridade ao definir para a Europa um novo objectivo estratégico enunciado na fórmula do «Triângulo de Lisboa» de crescimento económico, mais e melhor emprego e maior coesão social. O principal vector político deste novo objectivo estratégico assenta no Método Aberto de Coordenação, que conjuga objectivos comuns, planos nacionais de acção e um programa comunitário com vista a promover a cooperação neste domínio.
+
+O Conselho Europeu da Primavera de 2006, no desenvolvimento da «Estratégia de Lisboa» apresentou um conjunto de novos objectivos comuns em matéria de protecção e inclusão social que incluem três vertentes do Método Aberto de Coordenação - inclusão social, pensões, cuidados de saúde e cuidados continuados - e que constituem a base do Relatório Nacional de Estratégia para a Protecção Social e a Inclusão Social, do qual o Plano Nacional de Acção para a Inclusão (PNAI) faz parte integrante.
+
+No âmbito dos novos objectivos comuns, o PNAI configura-se como uma estratégia global para a inclusão social, identificando os principais eixos de intervenção e as políticas, medidas e instrumentos em curso e a implementar.
+
+Neste contexto, em Portugal, o PNAI constitui um instrumento de coordenação estratégica e operacional das políticas de inclusão social e assenta na capacidade colectiva da sociedade portuguesa, criando uma oportunidade para o desenvolvimento de um referencial comum.
+
+O entendimento de que a pobreza e a exclusão social assumem hoje formas multidimensionais e complexas, orienta o PNAI para a conjugação de uma pluridisciplinaridade de acções, em vários domínios e a diferentes níveis, recorrendo para isso a um amplo leque de medidas.
+
+Este Plano toma como fundamental uma articulação estreita com diversas áreas de intervenção, quer através duma relação próxima com os ministérios que tutelam as áreas, quer com os coordenadores de planos sectoriais nacionais de planeamento estratégico, que concorrem também para uma estratégia nacional de combate à pobreza e à exclusão social.
+
+Foram ouvidos os órgãos de Governo próprio das Regiões Autónomas, a Associação Nacional de Municípios e a Associação Nacional de Freguesias.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar a elaboração do Plano Nacional de Acção para a Inclusão 2008-2010 até Setembro de 2008, mandatando para o efeito o coordenador do Plano Nacional de Acção para a Inclusão (PNAI).
+
+2 - Atribuir ao cargo de coordenador(a) do PNAI, a designar por despacho do Ministro do Trabalho e da Solidariedade Social, as seguintes competências:
+
+a) Coordenar o trabalho de implementação, monitorização e avaliação do PNAI;
+
+b) Convocar as reuniões e dinamizar os trabalhos da plataforma de acompanhamento dos planos sectoriais nacionais que concorrem para o PNAI;
+
+c) Articular, dinamizar o trabalho e convocar reuniões sempre que necessário com os pontos focais sectoriais, individualmente ou em grupo;
+
+d) Coordenar os trabalhos da equipa técnica de apoio à coordenação;
+
+e) Participar em reuniões de acompanhamento e avaliação do PNAI de âmbito europeu;
+
+f) Garantir a articulação do PNAI com o planeamento estratégico de dimensão local no âmbito do programa Rede Social, nomeadamente através das plataformas supra-concelhias.
+
+3 - Dinamizar uma plataforma dos Planos Sectoriais Nacionais de Planeamento Estratégico, adiante designada por Plataforma, que concorrem para os objectivos e concretização do PNAI, tendo em vista a avaliação integrada e a disponibilização de informações pelas estruturas respectivas, atribuindo à Plataforma a seguinte composição:
+
+a) Coordenador(a) do Plano Nacional para a Igualdade, Cidadania e Género;
+
+b) Coordenador(a) do Plano Nacional Contra a Violência Doméstica;
+
+c) Coordenador(a) do Plano Nacional Contra o Tráfico de Seres Humanos;
+
+d) Coordenador(a) do Plano para a Integração dos Imigrantes;
+
+e) Coordenador(a) do Plano Nacional para a Juventude;
+
+f) Coordenador(a) do Programa Nacional da Política de Ordenamento do Território;
+
+g) Coordenador(a) do Plano Estratégico para a Habitação;
+
+h) Coordenador(a) do Plano de Acção para a Integração das Pessoas com Deficiência e Incapacidades;
+
+i) Coordenador(a) da Iniciativa Nacional para a Infância e Adolescência;
+
+j) Coordenador(a) do Plano Nacional de Saúde;
+
+l) Coordenador(a) do Plano Nacional de Saúde Mental;
+
+m) Coordenador(a) do Plano Nacional para a Droga e a Toxicodependência;
+
+n) Coordenador(a) do Plano Nacional da Luta Contra a Sida;
+
+o) Coordenador(a) do Plano de Desenvolvimento Cultural;
+
+p) Coordenador(a) da Estratégia Nacional de Desenvolvimento Sustentável.
+
+4 - Deve ainda ser chamado a participar nesta Plataforma o Plano Nacional de Emprego, enquanto estratégia europeia e pilar fundamental da Estratégia de Lisboa e do Modelo Social Europeu.
+
+5 - Criar mecanismos de trabalho com pontos focais sectoriais de acompanhamento do PNAI, e determinar como seus objectivos acompanhar a execução do PNAI e desenvolver todas as diligências e procedimentos necessários ao acompanhamento do processo europeu de inclusão social de acordo com as orientações emanadas das instâncias europeias, nomeadamente no que se refere à preparação, elaboração e monitorização do PNAI.
+
+6 - Os pontos focais sectoriais de acompanhamento do PNAI são os seguintes:
+
+a) Representante da área dos negócios estrangeiros;
+
+b) Representante da área da administração interna;
+
+c) Representante da área das finanças;
+
+d) Representante da área da igualdade de género;
+
+e) Representante da área da imigração e minorias étnicas;
+
+f) Representante da área da juventude;
+
+g) Representante da área da justiça;
+
+h) Representante da área da habitação e reabilitação urbana;
+
+i) Representante da área da economia;
+
+j) Representante da área dos transportes e comunicações;
+
+l) Representante da área da segurança social;
+
+m) Representante da área do emprego e formação profissional;
+
+n) Representante da área da reabilitação;
+
+o) Representante da área da saúde;
+
+p) Representante da área da educação;
+
+q) Representante da área da ciência, tecnologia;
+
+r) Representante da área da cultura;
+
+s) Representante do Governo Regional dos Açores;
+
+t) Representante do Governo Regional da Madeira;
+
+u) Representante da Associação Nacional de Municípios Portugueses;
+
+v) Representante da Associação Nacional de Freguesias.
+
+7 - Atribuir aos pontos focais sectoriais de acompanhamento do PNAI, para a prossecução dos objectivos referidos no número anterior, as seguintes competências:
+
+a) Definir as orientações, a metodologia e os instrumentos de suporte à concepção, elaboração, acompanhamento e avaliação do PNAI;
+
+b) Decidir sobre os indicadores de acompanhamento e implementação e de avaliação do PNAI;
+
+c) Promover a participação e a intervenção dos organismos públicos e das organizações representativas da sociedade civil, a nível central e local;
+
+d) Acompanhar a elaboração dos relatórios e outros documentos necessários ao pleno desenvolvimento do PNAI, em função das recomendações europeias, das orientações definidas e dos contributos recebidos;
+
+e) Apreciar o PNAI antecedendo a sua submissão ao Conselho de Ministros.
+
+8 - Determinar que, para a concretização das suas atribuições, os pontos focais sectoriais de acompanhamento reúnam, sempre que se afigure conveniente.
+
+9 - Determinar a participação nas reuniões com os pontos focais sectoriais de acompanhamento do PNAI, com estatuto de observador, de um representante do Fórum Não Governamental para a Inclusão Social, adiante designado por Fórum, com as seguintes competências:
+
+a) Veicular informação entre o Fórum e os pontos focais;
+
+b) Solicitar e receber contributos das ONG;
+
+c) Participar nas acções de disseminação e sensibilização no âmbito do combate à pobreza e à exclusão social, bem como na qualificação dos agentes de intervenção nesta área.
+
+10 - Determinar que, sempre que se verifiquem novas necessidades de participação, o coordenador do PNAI solicite a colaboração de outras entidades, em articulação com o representante ministerial da área envolvida.
+
+11 - Determinar que todos os pontos focais sectoriais de acompanhamento do PNAI sejam indicados pelos ministérios e Governos Regionais, associações de municípios e de freguesias, no prazo máximo de cinco dias após a publicação da presente resolução, devendo o(s) representante(s) designado(s) responder(em) pelas áreas de intervenção do respectivo ministério.
+
+12 - Determinar que todos os pontos focais sectoriais de acompanhamento do PNAI sejam co-responsáveis pelas diversas fases do processo e pela prossecução dos objectivos referidos no n.º 5, através da participação assídua nas reuniões e na prestação atempada da informação sectorial indispensável ao acompanhamento da implementação do PNAI e à sua reformulação, designadamente no que se refere à introdução de novas medidas.
+
+13 - Determinar que, para a concretização do estipulado no número anterior, os pontos focais designados sejam responsáveis, com carácter sistemático, pela produção de documentos e pela participação nas acções decididas no âmbito da coordenação do PNAI, nomeadamente pela elaboração de diagnósticos, apresentação de propostas, de medidas de política e respectiva orçamentação e produção de indicadores de acompanhamento e de resultados, definidos no âmbito do Sistema de Informação do PNAI.
+
+14 - Determinar que a equipa técnica de apoio à coordenação do PNAI, composta no máximo por cinco elementos, é designada por despacho do Ministro do Trabalho e da Solidariedade Social.
+
+15 - Determinar que o apoio logístico a todas as estruturas do PNAI é assegurado pelo Instituto de Segurança Social, I. P.
+
+16 - É revogada a [Resolução do Conselho de Ministros n.º 40/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2006-661279), de 26 de Abril.
+
+Presidência do Conselho de Ministros, 4 de Setembro de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,312 @@
+---
+schema_version: '1.0'
+id: pt:dre:278974:por
+title: Portaria n.º 169-A/94
+short_title: null
+summary: Aprova o Sistema de Incentivos do Estado aos Órgãos de Comunicação Social Regional, a prestar através do Gabinete
+  de Apoio à Imprensa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 169-A/94
+official_date: null
+publication_date: '1994-03-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 70/1994, 1º Suplemento, Série I-B de 1994-03-24
+  number: '70'
+  series: I
+  supplement: null
+  pages: 1474-(2) a 1474-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/03/070b01/00020005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/169-a/1994/03/24/p/dre/pt/html
+  oj: null
+  dre: '278974'
+  dre_path: /dr/detalhe/portaria/169-a-1994-278974
+  internal: pt:dre:278974:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-a-1994-278974
+  metadata_url: https://data.dre.pt/eli/port/169-a/1994/03/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-a-1994-278974
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 99d2758052ea3f1cb6d2fd3623a828b057f8d0391e3f1e9b3f8a62cd853e6302
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:21:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Equipamento
+- Comunicação Social
+- Financiamento
+- Formação Profissional
+- GAI
+- Imprensa
+- Imprensa Regional
+- Jornalista
+- Porte PAGO
+- Presidência do Conselho de Ministros
+- Subsídio de Transporte
+relationships:
+- type: amended_by
+  target: pt:dre:261339:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:553433:por
+  label: "Alterado o nº 10, pela PORT.45-B/95.1995.01.19.PCM, DR.IS-B [16]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-b-1995-553433
+  date: '1995-01-19'
+- type: cites
+  target: pt:dre:524646:por
+  label: null
+  source: http://data.dre.pt/eli/port/411/1992/05/18/p/dre
+- type: corrected_by
+  target: pt:dre:176521:por
+  label: "Rectificada pela DECL-RECT.53/94.1994.04.11.PCM, DR.IS-B [100]3ºSupl de 30/Abr/1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/53-1994-176521
+  date: '1994-04-11'
+- type: repealed_by
+  target: pt:dre:261339:por
+  label: "Revogada pelo Dec Lei 37-A/97.1997.01.31.PCM, DR.IS-A [26]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-a-1997-261339
+  date: '1997-01-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:21:05Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 169-A/94
+
+de 24 de Março
+
+No âmbito da comunicação social, em geral, os órgãos de comunicação social regional desempenham um papel fundamental no quadro da manutenção, aprofundamento e divulgação das características intrínsecas de cada região, da preservação dos valores da língua e da cultura portuguesas e do seu desenvolvimento sustentado, coerente e progressivo.
+
+Paradoxalmente, a comunicação social regional defronta-se ainda com um conjunto de dificuldades complexo, desde a falta de formação profissional até à escassez de recursos financeiros, passando por equipamentos frequentemente rudimentares.
+
+A situação revela-se tanto mais injusta quando comparada com outros sectores da comunicação social e tal desigualdade deve progressivamente ser suprimida.
+
+Deste modo, pela presente portaria, aprova-se o novo Sistema de Incentivos do Estado aos Órgãos de Comunicação Social Regional, privilegiando-se, à semelhança do que tem vindo a ser feito, o apoio à imprensa, com especial ênfase na respectiva reconversão tecnológica e na formação profissional dos seus quadros.
+
+Assim, nos termos da alínea c) do artigo 202.º da Constituição:
+
+Manda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e Adjunto, o seguinte:
+
+Âmbito e objectivos
+
+1.º Pela presente portaria é aprovado o Sistema de Incentivos do Estado aos Órgãos de Comunicação Social Regional, a prestar através do Gabinete de Apoio à Imprensa, adiante designado GAI, que funciona junto da Presidência do Conselho de Ministros.
+
+2.º Para efeitos do disposto na presente portaria, considera-se imprensa regional toda a publicação periódica de expansão regional e carácter informativo que verse regularmente temas sobre a região ou localidade em que se insere.
+
+3.º Os incentivos regulados pela presente portaria podem assumir as seguintes modalidades:
+
+a) Financiamentos a fundo perdido, atribuídos à reconversão e modernização tecnológica, à formação e reciclagem profissional e outros apoios específicos;
+
+b) Bonificação das tarifas de porte de correio, adiante designada por porte pago.
+
+Condições gerais de acesso
+
+4.º Podem beneficiar do Sistema de Incentivos previsto na presente portaria, e nos termos por ela fixados, as seguintes entidades:
+
+a) Pessoas colectivas sem fins lucrativos, empresas jornalísticas sob forma comercial e pessoas singulares, desde que, em todos os casos, editem ou sejam proprietárias de publicações periódicas informativas em língua portuguesa, como tal reconhecidas pelo membro do Governo responsável pela área da comunicação social, sob parecer do GAI;
+
+b) Associações ou entidades sem fins lucrativos que prossigam actividades ligadas à comunicação social;
+
+c) Empresas de radiodifusão em situação regular, de acordo com o previsto na lei da rádio;
+
+d) Associações de empresas jornalísticas.
+
+5.º As entidades referidas na alínea a) do n.º 4.º da presente portaria têm ainda de apresentar uma tiragem média mínima, no ano anterior, a definir, anualmente, por despacho do membro do Governo responsável pela área da comunicação social.
+
+6.º Estão excluídas do Sistema de Incentivos previsto na presente portaria as publicações:
+
+a) Cuja propriedade ou edição seja de partidos, associações políticas ou associações sindicais, patronais ou profissionais, directamente ou por interposta pessoa;
+
+b) Cuja propriedade ou edição seja da administração central, regional ou local, bem como de quaisquer serviços ou departamentos daquelas dependentes ou de serviços municipalizados;
+
+c) Gratuitas;
+
+d) De informação predominantemente humorística;
+
+e) Que não estejam registadas de acordo com a Lei de Imprensa;
+
+f) De conteúdo erótico, pornográfico ou que incitem à violência;
+
+g) Cujas vendas não sejam maioritariamente efectuadas no território nacional, excepto se destinadas a difusão junto das comunidades portuguesas espalhadas pelo mundo;
+
+h) Cujo conteúdo publicitário ocupe em média, por edição, uma superfície superior a 50% do espaço disponível, calculada com base em seis edições a seleccionar pelo GAI;
+
+i) Que sejam boletins de empresas.
+
+Condições específicas de acesso
+
+Incentivo à reconversão e modernização tecnológica
+
+7.º O incentivo à reconversão e modernização tecnológica traduz-se na comparticipação directa, parcial, nos custos de aquisição de:
+
+a) Equipamentos gráficos, nas áreas de impressão, acabamento e expedição;
+
+b) Equipamentos de informatização das redacções;
+
+c) Equipamentos de telecomunicações.
+
+8.º Podem candidatar-se ao incentivo à reconversão e modernização tecnológica previsto no número anterior as pessoas colectivas sem fins lucrativos, empresas jornalísticas sob forma comercial e pessoas singulares, desde que, em todos os casos, sejam proprietárias ou editem publicações periódicas informativas de imprensa regional, como tal reconhecidas pelo membro do Governo responsável pela área da comunicação social, sob parecer do GAI, e que reúnam, cumulativamente, os seguintes requisitos:
+
+a) Tenham periodicidade não superior à mensal;
+
+b) Apresentem uma tiragem mínima, a fixar nos termos do disposto no n.º 5.º da presente portaria;
+
+c) Perfaçam, no mínimo, cinco anos de edição no primeiro dia do prazo de candidatura previsto no n.º 10.º da presente portaria.
+
+9.º Sem prejuízo do disposto no número anterior, podem ainda candidatar-se ao incentivo à reconversão e modernização tecnológica as associações a que se refere a alínea d) do n.º 4.º da presente portaria, desde que integradas por entidades que sejam proprietárias ou editem publicações de imprensa regional e que obedeçam aos seguintes requisitos:
+
+a) Os projectos objecto das candidaturas sirvam mais de uma empresa jornalística;
+
+b) Os respectivos associados apresentem uma declaração escrita comprometendo-se expressamente a não apresentar qualquer candidatura ao incentivo à reconversão e modernização tecnológica nos cinco anos subsequentes.
+
+10.º O incentivo à reconversão e modernização tecnológica é solicitado em requerimento dirigido ao membro do Governo responsável pela área da comunicação social, durante o mês de Abril de cada ano, só podendo contemplar equipamentos a adquirir em data posterior ao deferimento do pedido, salvo em casos excepcionais, devidamente fundamentados, e como tal reconhecidos.
+
+11.º Na selecção e graduação das candidaturas ao incentivo à reconversão e à modernização tecnológica, para além da consideração da adequação do equipamento a subsidiar às necessidades estimáveis das entidades candidatas, é observada a seguinte ordem de prioridades:
+
+a) Publicações não contempladas em anos anteriores;
+
+b) Publicações de maior periodicidade no último semestre à data da apresentação da candidatura;
+
+c) Maior número de publicações beneficiadas simultaneamente pelo equipamento a subsidiar;
+
+d) Publicações com maior antiguidade de edição regular, devidamente comprovada.
+
+12.º Por despacho do membro do Governo responsável pela área da comunicação social, são anualmente fixadas as comparticipações máximas a atribuir por candidatura, as quais não podem ultrapassar 75% do custo do equipamento.
+
+13.º O incentivo à reconversão e modernização tecnológica é pago mediante recibo a fornecer pela entidade pagadora, carimbado e assinado por quem obrigue a entidade beneficiada.
+
+14.º Até 31 de Dezembro de cada ano, as entidades que receberem o incentivo referido no número anterior têm de apresentar comprovativos documentais da efectiva aplicação, nas condições estabelecidas, das verbas que lhes forem pagas.
+
+15.º As entidades beneficiadas com equipamentos que foram financiados através da concessão de incentivos à reconversão e modernização tecnológica não os podem ceder, locar ou vender durante cinco anos, contados a partir da data da sua atribuição, salvo com autorização do membro do Governo responsável pela área da comunicação social, precedida de parecer do GAI, que deve verificar a existência de eventuais razões que fundamentem o pedido.
+
+Incentivo à formação e reciclagem profissional
+
+16.º Podem beneficiar do incentivo à formação e reciclagem profissional:
+
+a) As entidades referidas na alínea a) do n.º 4.º da presente portaria, desde que, no dia da entrega da candidatura, as publicações candidatas perfaçam, como limite mínimo, seis meses de edição regular;
+
+b) As entidades previstas na alínea c) do n.º 4.º da presente portaria, desde que de âmbito local e cujo alvará tenha sido concedido, pelo menos, há seis meses contados da mesma data.
+
+17.º As acções de formação e reciclagem profissional são, em regra, organizadas pelo CENJOR - Centro de Formação de Jornalistas.
+
+18.º Em casos excepcionais, devidamente fundamentados, podem ser autorizadas acções organizadas por outras entidades, devendo o CENJOR emitir parecer prévio sobre o programa das mesmas e sobre os curricula dos monitores.
+
+19.º As publicações periódicas de imprensa regional podem beneficiar, na expedição postal de publicações em regime de avença para assinantes em qualquer parte do território nacional ou no estrangeiro, do porte pago até um peso não superior a 200 g, desde que reúnam, cumulativamente, os seguintes requisitos:
+
+a) Se editem, pelo menos, uma vez por mês;
+
+b) Pratiquem os mesmos preços de assinatura em qualquer parte do território nacional ou no estrangeiro;
+
+c) Perfaçam, no mínimo, seis meses de edição regular na data em que apresentem requerimento de candidatura;
+
+d) Sejam de informação geral.
+
+20.º Em relação ao envio para território nacional e em relação ao envio para o estrangeiro, o porte pago corresponde a 100% do montante total da respectiva despesa de expedição postal, no limite de peso previsto no número anterior.
+
+21.º A concessão do porte pago é solicitada em requerimento dirigido ao membro do Governo responsável pela área da comunicação social.
+
+22.º A comprovação da titularidade do direito ao porte pago junto das respectivas instituições será feita por cartão emitido pelo GAI.
+
+Incentivos específicos
+
+23.º O membro do Governo responsável pela área da comunicação social pode ainda aprovar outros incentivos específicos a conceder às entidades referidas no n.º 4.º da presente portaria.
+
+24.º No âmbito dos incentivos específicos referidos no número anterior, os jornalistas que, enquanto tal, exerçam a sua actividade exclusivamente nas publicações periódicas de imprensa regional podem, em casos considerados excepcionais, beneficiar de um apoio para deslocações no País e no estrangeiro, desde que se verifiquem, cumulativamente, os seguintes requisitos:
+
+a) Possuírem os interessados carteira profissional ou cartão de jornalista da imprensa regional, nos termos da legislação aplicável;
+
+b) Constituir objectivo da deslocação a participação em cursos, congressos, seminários ou outras manifestações de carácter semelhante, de reconhecido mérito para a valorização dos profissionais candidatos e dos respectivos órgãos de comunicação social.
+
+Documentação a apresentar
+
+25.º Os processos de candidatura são instruídos com o respectivo requerimento, acompanhado dos seguintes elementos:
+
+a) Pacto social actualizado, no caso das entidades que revistam a forma de pessoa colectiva;
+
+b) Cópia autenticada da última declaração periódica de rendimentos para efeitos de IRS ou IRC, na qual se contenha o carimbo de «Recibo», ou, para entidades que não estejam sujeitas a essa obrigação declarativa, certidão dessa inexistência passada pelos competentes serviços da administração fiscal;
+
+c) Documento comprovativo de se encontrar regularizada a sua situação contributiva para com a segurança social portuguesa, passado pelo Instituto de Gestão Financeira da Segurança Social;
+
+d) Cópia autenticada do contrato de associação, no caso das empresas jornalísticas a que se refere a alínea d) do n.º 4.º da presente portaria;
+
+e) Declaração do valor da publicidade institucional que lhe tenha sido atribuída pelo GAI;
+
+f) Declaração de publicações ou empresas de radiodifusão em que os sócios da requerente detenham capital social;
+
+g) Estudo de viabilidade económica para projectos de investimento superiores a 30000 contos.
+
+Decisão e fiscalização
+
+26.º A suspensão da publicação ou da actividade das entidades beneficiárias, nos termos da Lei de Imprensa, implica a imediata suspensão do direito ao Sistema de Incentivos previsto nesta portaria.
+
+27.º As entidades beneficiadas que não cumpram o disposto nos n.os 14.º e 15.º da presente portaria, bem como as que apliquem as verbas recebidas para fins diferentes daqueles ao abrigo dos quais foram concedidos, nos termos da presente portaria, e ainda as que prestem informações falsas ou forneçam dados viciados na apresentação de candidaturas ou que induzam em erro acerca da sua qualidade de beneficiária, incluindo do porte pago, ou do montante do apoio a conceder, são responsabilizados civil e criminalmente, nos termos da lei geral.
+
+28.º As entidades referidas no número anterior perdem ainda o direito aos incentivos constantes desta portaria, por um período de cinco anos, salvo motivo atendível superiormente reconhecido como justificativo da situação.
+
+29.º A perda de direitos prevista no número anterior não prejudica a reposição das importâncias ou benefícios indevidamente recebidos, num prazo de 30 dias, a contar da data da respectiva notificação, acrescidos de juros à taxa de comissão de FIP que estiver a correr nesse momento.
+
+30.º Sem prejuízo das acções de fiscalização que, em qualquer momento, o membro do Governo responsável pela área da comunicação social entenda levar a cabo, todas as entidades beneficiárias de incentivos previstos nesta portaria podem ser objecto de um sorteio a efectuar pelo GAI.
+
+31.º As entidades sorteadas ao abrigo do previsto no número anterior são objecto de acções de fiscalização por parte do GAI, quer directamente quer através de empresas de auditoria, com vista à certificação das informações prestadas relevantes para a atribuição dos benefícios, incluindo o porte pago, e da aplicação das verbas recebidas, bem como do disposto nos n.os 14.º e 15.º da presente portaria.
+
+32.º Das verbas inscritas, anualmente, no orçamento da Secretaria-Geral da Presidência do Conselho de Ministros, para o Sistema de Incentivos aprovados pela presente portaria, são consignados 10% à cobertura dos encargos com a fiscalização do cumprimento das leis da comunicação social, incluindo estudos e pareceres que sejam elaborados em tal âmbito.
+
+Disposições finais
+
+33.º Os encargos decorrentes da execução desta portaria são os inscritos anualmente no orçamento do GAI, que funciona junto da Secretaria-Geral da Presidência do Conselho de Ministros.
+
+34.º Os cheques distribuídos aos jornalistas ao abrigo do disposto no n.º 34.º da [Portaria n.º 411/92](https://diariodarepublica.pt/dr/detalhe/portaria/411-1992-524646), de 18 de Maio, mantêm-se válidos pelo prazo de 60 dias, contados da data da entrada em vigor da presente portaria.
+
+35.º A forma de facturação das despesas relativas ao porte pago é definida por despacho conjunto do membro do Governo responsável pela área da comunicação social e dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+36.º É revogada a [Portaria n.º 411/92](https://diariodarepublica.pt/dr/detalhe/portaria/411-1992-524646), de 18 de Maio.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+Assinada em 23 de Março de 1994.
+
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Carlos Alberto Pereira da Silva Costa, Secretário de Estado da Habitação. - Pelo Ministro Adjunto, Amândio Santa Cruz Domingues Basto Oliveira, Subsecretário de Estado Adjunto do Ministro Adjunto.

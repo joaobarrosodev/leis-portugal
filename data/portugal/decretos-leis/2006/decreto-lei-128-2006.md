@@ -1,0 +1,633 @@
+---
+schema_version: '1.0'
+id: pt:dre:537984:por
+title: Decreto-Lei n.º 128/2006
+short_title: null
+summary: Aprova o Regulamento de Atribuição de Matrícula a Automóveis, Seus Reboques e Motociclos, Ciclomotores, Triciclos
+  e Quadriciclos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 128/2006
+official_date: null
+publication_date: '2006-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 128/2006, Série I de 2006-07-05
+  number: '128'
+  series: I
+  supplement: null
+  pages: 4765 - 4770
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/07/12800/47654770.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-01-11'
+version_history:
+  file: decreto-lei-128-2006.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-01-11'
+    amending: pt:dre:114337012:por
+    amending_title: Decreto-Lei n.º 152-A/2017
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Adita Artigo 31.º-A
+    - Adita Artigo 31.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Revoga Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/128/2006/p/cons/20171211/pt/html
+  oj: null
+  dre: '537984'
+  dre_path: /dr/detalhe/decreto-lei/128-2006-537984
+  internal: pt:dre:537984:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2006-537984
+  metadata_url: https://data.dre.pt/eli/dec-lei/128/2006/p/cons/20171211/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-114352522
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-114352522
+  retrieved_at: '2026-10-22T12:16:03Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 37731dd3bb717786d52b6c604d877436469fe358fa561f7159f5cb410f78937a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:16:03Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-128-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Livrete de Veículo Automóvel
+- Direcção Geral de Viação
+- Registo Automóvel
+- Homologação
+- Base de Dados
+- Veículo
+- Regulamento
+- Regulamento de Atribuição de Matrícula a Automóveis Seus Reboques e Motociclos Ciclomotores Triciclos e Quadriciclos
+relationships:
+- type: amended_by
+  target: pt:dre:540796:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/55-2006-540796
+  date: '2006-08-28'
+- type: amended_by
+  target: pt:dre:114337012:por
+  label: Adita Artigo 7.º-A; Adita Artigo 26.º-A; Adita Artigo 26.º-B; Adita Artigo 31.º-A; Adita Artigo 31.º-B; Altera Artigo
+    1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 13.º;
+    Altera Artigo 16.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 28.º;
+    Altera Artigo 29.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012
+  date: '2017-12-11'
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:512391:por
+  label: null
+  source: http://data.dre.pt/eli/port/52/1994/01/21/p/dre
+- type: cites
+  target: pt:dre:569892:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/369/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
+article_structure:
+  article_count: 40
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:16:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 128/2006
+
+Decreto-Lei n.º 128/2006
+
+de 5 de Julho
+
+O n.º 1 do artigo 117.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, na última redacção que lhe foi conferida pelo Decreto-Lei n.º 44/2005, de 23 de Fevereiro, estabelece que os veículos a motor e os seus reboques só são admitidos em circulação desde que matriculados.
+
+A junção num único diploma da matéria relativa à atribuição de matrícula aos automóveis, seus reboques e motociclos, ciclomotores, triciclos e quadriciclos vem, assim, ao encontro da importância e especificidade da matéria e da necessidade da sua adaptação ao progresso técnico.
+
+Importa, ainda, clarificar o processo de atribuição de matrícula a veículos anteriormente matriculados noutro Estado membro da Comunidade Europeia, indo ao encontro do estabelecido na comunicação interpretativa da Comissão Europeia n.º 96/C143/2004.
+
+Acresce a necessidade de proceder à regulamentação das condições de atribuição de matrícula aos automóveis, seus reboques e motociclos, ciclomotores, triciclos e quadriciclos, nos termos do artigo 117.º do Código da Estrada.
+
+Finalmente, considerando o disposto no n.º 7 do referido artigo 117.º do Código da Estrada, torna-se necessário proceder à regulamentação do registo nacional de matrículas.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+Ao abrigo do disposto no n.º 7 do artigo 117.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, na última redacção que lhe foi conferida pelo Decreto-Lei n.º 44/2005, de 23 de Fevereiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei aprova o Regulamento de Atribuição de Matrícula a Automóveis, Seus Reboques, Motociclos, Ciclomotores, Triciclos e Quadriciclos e Tratores Agrícolas ou Florestais e Seus Reboques, bem como, a suspensão da autorização de circulação na via pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 2.º — Definições
+
+Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) 'Cancelamento da matrícula', o cancelamento da autorização de circulação rodoviária de um veículo por um Estado-Membro;
+
+b) 'Certificado de matrícula', o documento que certifica que o veículo se encontra matriculado num Estado-Membro;
+
+c) «Fabricante» a pessoa ou entidade responsável perante a autoridade competente para homologar, por todo o processo de homologação e pela conformidade de produção, não sendo necessário que esteja directamente envolvido em todas as fases de fabrico do veículo, do sistema, componente ou unidade técnica, objecto do processo de homologação;
+
+d) «Matricular» o acto administrativo de registo de um veículo destinado ou autorizado a circular na via pública, efectuado pela entidade competente, que identifique o veículo e estabeleça as suas condições de circulação;
+
+e) «Número de matrícula» o conjunto de números e letras atribuído ao veículo correspondente à sua matrícula;
+
+f) 'Veículo matriculado', o veículo portador de matrícula definitiva, temporária, provisória, de trânsito ou de alfândega;
+
+g) «Veículo novo» o veículo que não tenha sido matriculado.
+
+h) 'Suspensão', um período limitado durante o qual a circulação rodoviária de um veículo não é autorizada por um Estado-Membro e após o qual, desde que os motivos da suspensão tenham deixado de se verificar, o veículo pode ser autorizado a circular novamente sem necessidade de novo processo de matrícula;
+
+i) 'Titular do certificado de matrícula', a pessoa em nome da qual o veículo se encontra matriculado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 3.º — Princípios gerais
+
+1 - Só pode ser atribuída matrícula aos veículos que estejam em conformidade com as normas nacionais ou europeias aplicáveis que garantam a sua circulação em condições de segurança e preservação do ambiente.
+
+2 - Um veículo novo só pode ser matriculado se corresponder a um modelo com homologação nacional ou comunitária.
+
+3 - Por despacho do director-geral de Viação, em face das características particulares de um modelo de veículo, no acto da aprovação de modelo ou da matrícula podem ser estabelecidas condições especiais para a sua circulação.
+
+###### Artigo 4.º — Requerimento de matrícula
+
+1 - A matrícula dos automóveis e seus reboques, motociclos, ciclomotores, triciclos e quadriciclos e tratores agrícolas ou florestais e seus reboques é requerida nos serviços regionais do IMT, I. P., preferencialmente por via eletrónica.
+
+2 - Os procedimentos para requerimento de matrícula por via eletrónica são definidos por deliberação do conselho diretivo do IMT, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 5.º — Número de matrícula
+
+1 - Nenhum veículo pode ser matriculado sem que se mostrem pagos ou garantidos os impostos a que haja lugar ou sem que seja comprovada a isenção desse pagamento.
+
+2 - Sem prejuízo do disposto no número anterior, a Direcção-Geral de Viação pode, no entanto, indicar o número de matrícula a atribuir a um veículo, desde que seja comprovada a liquidação do respectivo imposto.
+
+3 - O número de matrícula referido no número anterior constitui um elemento de registo que não confere aos veículos o direito de circular na via pública.
+
+4 - A matrícula de um veículo só se considera efectuada após a emissão do respectivo documento de identificação.
+
+5 - Para efeitos do número anterior, considera-se que a emissão do documento de identificação de um veículo se concretiza com a sua entrega ao requerente.
+
+6 - O número da matrícula pode ser indicado pela Direcção-Geral de Viação, mediante validação efectuada pelo serviço competente para a cobrança e controlo do imposto devido, com dispensa de documento comprovativo da sua liquidação, quando seja utilizada a via informática.
+
+7 - Os fabricantes de veículos novos estão dispensados de apresentar o requerimento de matrícula dos veículos sujeitos a imposto cuja liquidação prévia constitua condição para atribuição de matrícula, considerando-se apresentado aquele requerimento através de pedido de liquidação do imposto, presente à entidade competente.
+
+8 - O requerente da liquidação referida no número anterior é responsável pela garantia da conformidade do veículo, para o qual requer matrícula, com o modelo homologado indicado.
+
+###### Artigo 6.º — Comprovação da propriedade
+
+1 - O pedido de atribuição de matrícula deve ser instruído com documento comprovativo da propriedade do veículo.
+
+2 - Para a atribuição de matrícula a veículos novos a pedido do respectivo fabricante é dispensada a apresentação do documento referido no número anterior.
+
+3 - Nos casos referidos no n.º 6 do artigo anterior é dispensado o documento referido no n.º 1, considerando os serviços da Direcção-Geral de Viação proprietário do veículo a entidade indicada pelo serviço competente para a liquidação do imposto automóvel.
+
+###### Artigo 7.º — Matrícula de veículos isentos ao abrigo do Decreto-Lei n.º 103-A/90, de 23 de Março
+
+1 - Para efeitos do disposto no n.º 2 do artigo 8.º do Decreto-Lei n.º 103-A/90, de 23 de Março, é criado um sistema autónomo de matrícula para os veículos importados com isenção de imposto automóvel, o qual corresponderá à série de matrículas definida por despacho anual do director-geral de Viação.
+
+2 - Sempre que o proprietário do veículo, decorrido o período do ónus ou após pagamento do imposto automóvel a que houver lugar, pretenda transmitir a propriedade do veículo deve proceder à troca da matrícula por uma da série geral.
+
+3 - A troca referida no número anterior não carece do pagamento de qualquer taxa.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 7.º-A — Matrícula na hora
+
+1 - É criado o serviço 'matrícula na hora', que compreende a atribuição imediata de matrícula e emissão do respetivo Certificado de Matrícula, entregue no momento ao respetivo titular, aplicável apenas aos veículos correspondentes a um modelo com homologação europeia.
+
+2 - A atribuição de um número de matrícula é efetuada desde que se mostre regularizada a situação do imposto sobre veículos, quando aplicável.
+
+3 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e dos transportes são definidos os procedimentos do ato de atribuição de matrícula na hora.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+### Capítulo II — Matrícula de veículos
+
+#### Secção I — Matrícula requerida pelo fabricante para veículos novos com homologação geral
+
+###### Artigo 8.º — Veículos com homologação europeia
+
+1 - A atribuição de matrícula para veículos correspondentes a modelo com homologação europeia, a requerimento dos fabricantes, fica condicionada à posse do certificado de conformidade válido.
+
+2 - É da responsabilidade do requerente da matrícula garantir que cada veículo a matricular possui certificado de conformidade válido.
+
+3 - (Revogado.)
+
+4 - A entrega do certificado de conformidade só é efetuada desde que solicitada pelo proprietário do veículo, devendo a atribuição de matrícula ser anotada no original deste certificado.
+
+5 - O proprietário do veículo ou o respectivo fabricante devem conservar o certificado de conformidade em bom estado e em condições de ser apresentado na Direcção-Geral de Viação, sempre que tal seja solicitado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 9.º — Veículos com homologação nacional
+
+A atribuição de matrícula para veículos correspondentes a modelo com homologação nacional, a requerimento dos fabricantes, fica condicionada à apresentação de declaração de conformidade do veículo com o modelo homologado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 10.º — Pedido de atribuição de matrícula
+
+1 - O pedido de atribuição de matrícula pode ser efectuado em impresso próprio ou por meio informático para o efeito aprovado pelo director-geral de Viação, sendo neste caso acompanhado de listagem identificativa dos veículos, através do respectivo número do quadro e do número do registo informático da homologação do modelo do veículo.
+
+2 - Os pedidos de atribuição de matrícula devem conter os seguintes elementos:
+
+a) Identificação da entidade requerente;
+
+b) Número de homologação ou de registo nacional da homologação, número do quadro, número do motor e cor.
+
+3 - A Direcção-Geral de Viação pode solicitar outros elementos relativos aos veículos quando tal se mostre necessário.
+
+###### Artigo 11.º — Conformidade
+
+1 - O fabricante é responsável pela conformidade com o modelo homologado dos veículos para os quais solicita matrícula.
+
+2 - Os veículos a que se refere a presente secção, para os quais seja requerida matrícula, podem ser submetidos a acções de verificação da sua conformidade com o modelo homologado.
+
+3 - As verificações previstas no número anterior são efectuadas pela Direcção-Geral de Viação, nos termos da regulamentação do processo de concessão da homologação.
+
+#### Secção II — Matrícula de veículos novos importados ou admitidos individualmente
+
+###### Artigo 12.º — Veículos com homologação europeia
+
+1 - O pedido de matrícula para os veículos com homologação CE de modelo deve ser acompanhado dos seguintes elementos:
+
+a) Original do certificado de conformidade do veículo;
+
+b) Comprovativo do pagamento, garantia ou isenção do imposto sobre veículos, se aplicável.
+
+2 - Após a matrícula do veículo e emissão do respectivo documento de identificação no original do certificado de conformidade, é anotada a atribuição de matrícula, nos termos a definir por despacho do director-geral de Viação, sendo o certificado de conformidade entregue ao requerente.
+
+3 - O certificado de conformidade deve ser conservado nos termos e para os efeitos consagrados no n.º 5 do artigo 8.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 13.º — Veículos sem homologação europeia
+
+1 - Os pedidos de matrícula devem ser acompanhados dos seguintes elementos:
+
+a) Declaração do fabricante indicando qual a homologação nacional correspondente ao veículo completo ou se o mesmo não corresponde a qualquer homologação;
+
+b) Comprovativo do pagamento, garantia ou isenção do imposto sobre veículos, se aplicável.
+
+2 - No caso dos veículos em que só o quadro corresponde a uma homologação geral nacional, a declaração indicada na alínea a) do número anterior deve certificar tal facto, devendo os requerentes apresentar ainda documentação técnica de origem relativa às características da carroçaria.
+
+3 - Nos casos em que os veículos completos ou o seu quadro não correspondem a uma homologação geral nacional, deve ser requerida homologação individual nos termos previstos no presente decreto-lei.
+
+4 - Para efeitos do previsto no número anterior, o requerente deve apresentar certificado de características do veículo emitido pelo seu fabricante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 14.º — Verificação de conformidade
+
+1 - Os veículos a que se refere a presente secção, para os quais seja requerida matrícula, podem ser submetidos a inspecção para verificação da sua conformidade com o modelo homologado, nos termos a definir no regulamento de inspecções.
+
+2 - No caso dos veículos cujo modelo corresponda a uma homologação CE, as inspecções a que se refere o número anterior são efectuadas directamente pela Direcção-Geral de Viação, enquadrando-se no âmbito das disposições específicas aplicáveis.
+
+#### Secção III — Veículos para experiência ou utilização experimental
+
+###### Artigo 15.º — Matrícula de período limitado
+
+1 - A Direcção-Geral de Viação pode atribuir matrícula válida por um período limitado de tempo a veículos destinados a ser utilizados para efeitos de experiência ou utilização temporária.
+
+2 - A matrícula referida no número anterior só pode ser concedida a pedido dos fabricantes dos veículos.
+
+3 - Quando o interesse público o justifique e a título excepcional, podem ser concedidas matrículas nos termos do n.º 1 a requerimento de outras entidades.
+
+4 - A matrícula prevista na presente secção só pode ser concedida desde que os veículos não constituam risco para a segurança rodoviária ou para o meio ambiente e se mostrem cumpridas as obrigações aduaneiras e fiscais a que haja lugar.
+
+5 - É da responsabilidade dos requerentes assegurar que os veículos autorizados a circular nos termos do presente artigo reúnem as condições previstas no número anterior.
+
+###### Artigo 16.º — Requerimento
+
+Para efeitos da atribuição da matrícula referida no artigo anterior, os requerimentos devem ser acompanhados dos seguintes elementos:
+
+a) Justificação técnica do motivo do pedido;
+
+b) Características técnicas do veículo;
+
+c) Certificados de aprovação de que o veículo disponha;
+
+d) Comprovativo da regularização da situação do veículo no que se refere aos impostos devidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 17.º — Matrícula
+
+1 - A atribuição de matrícula, nos termos previstos na presente secção, não carece de homologação de modelo.
+
+2 - Esta matrícula é válida por um período máximo de 180 dias, podendo em casos devidamente fundamentados a sua validade ser prorrogada por igual período.
+
+3 - Em caso algum a validade máxima desta matrícula pode exceder o estabelecido pelas entidades competentes para a cobrança e controlo dos impostos devidos.
+
+###### Artigo 18.º — Verificação de características e condições de segurança
+
+1 - Os veículos objecto da presente secção podem ser inspeccionados para efeitos de confirmação das suas características.
+
+2 - Sempre que se levantem dúvidas quanto à segurança ou impacte ambiental dos veículos, pode a Direcção-Geral de Viação determinar a realização das inspecções e ensaios que considere necessários, para além do previsto pelo número anterior.
+
+#### Secção IV — Matrícula de veículos anteriormente matriculados
+
+###### Artigo 19.º — Princípios gerais
+
+1 - A atribuição de matrícula nacional a um veículo com matrícula válida não carece de homologação prévia do modelo, podendo a Direcção-Geral de Viação efectuar o registo das características técnicas do modelo, para efeitos de emissão do respectivo documento de identificação.
+
+2 - Só pode ser atribuída matrícula aos veículos que estejam conformes com a legislação comunitária ou nacional.
+
+3 - A título excepcional e desde que não estejam em causa aspectos relativos à segurança na circulação, ao ambiente ou à concorrência nos transportes, o director-geral de Viação pode autorizar a matrícula de veículo possuidor de matrícula válida que não se adeqúe integralmente às exigências nacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 20.º — Veículos com homologação europeia
+
+1 - Para efeitos de atribuição de matrícula nacional a veículos matriculados noutro Estado-Membro da União Europeia, com homologação CE, devem ser apresentados os seguintes elementos:
+
+a) Documento de identificação do veículo ou documento que legalmente o substitua, emitido pelo país de origem, ou ainda cópia de qualquer um daqueles documentos autenticada pelo serviço competente para a cobrança e controlo dos impostos devidos em território nacional;
+
+b) Documento comprovativo da propriedade do veículo, caso não conste do documento referido na alínea anterior, nem seja indicado o proprietário pelo serviço competente para a cobrança e controlo dos impostos devidos;
+
+c) Comprovativo do pagamento, garantia ou isenção do imposto sobre veículos, se aplicável;
+
+d) Original ou cópia simples do certificado de conformidade do veículo, de acordo com a legislação específica aplicável;
+
+e) Certificação de inspeção do veículo para efeitos de matrícula, efetuada nos termos do regime jurídico das inspeções técnicas de veículos, ou relatório de ensaio emitido pela Direção-Geral de Agricultura e Desenvolvimento Rural no caso dos tratores agrícolas ou florestais.
+
+2 - Para os veículos com homologação CE provenientes de países terceiros, o certificado de conformidade pode ser substituído por certificação emitida pelo fabricante que indique o número de homologação europeia do veículo, a respectiva variante e versão.
+
+3 - É dispensada a apresentação dos elementos referidos na alínea d) do n.º 1, sempre que do certificado de matrícula do veículo constar o respetivo número de homologação e extensão europeia, a variante e versão, bem como o valor das emissões de CO(índice 2).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 21.º — Veículos de modelo correspondente a uma homologação nacional
+
+Quando a matrícula for requerida para um veículo cujo modelo não corresponde a uma homologação CE, mas que corresponde a uma homologação nacional, devem ser apresentados os seguintes elementos:
+
+a) Documentos referidos nas alíneas a) e c) do n.º 1 do artigo anterior;
+
+b) Certificação efetuada pelo fabricante ou associação que o represente, com a indicação do número de homologação nacional;
+
+c) Certificação de inspeção do veículo para efeitos de matrícula, efetuada nos termos do regime jurídico das inspeções técnicas de veículos, ou relatório de ensaio emitido pela Direção-Geral de Agricultura e Desenvolvimento Rural, no caso dos tratores agrícolas ou florestais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 22.º — Veículo de modelo que não corresponde a uma homologação nacional
+
+Quando a matrícula for requerida para um veículo cujo modelo não corresponde a uma homologação nacional, devem ser apresentados os seguintes elementos:
+
+a) Documentos referidos nas alíneas a) e c) do n.º 1 do artigo 20.º;
+
+b) Certificação efetuada pelo fabricante ou associação que o represente com a indicação de que o modelo do veículo não possui homologação nacional;
+
+c) Documento com as características técnicas do veículo emitido pela administração do país de matrícula ou entidade pela mesma reconhecida para o efeito ou, em alternativa, documento emitido pelo fabricante com a indicação das características técnicas do veículo e dos normativos que o mesmo cumpre e respectivos números de homologação;
+
+d) Certificação de inspeção do veículo para efeitos de matrícula, efetuada nos termos do regime jurídico das inspeções técnicas de veículos, ou relatório de ensaio emitido pela Direção-Geral de Agricultura e Desenvolvimento Rural no caso dos tratores agrícolas ou florestais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 23.º — Correspondência de homologações
+
+1 - Para efeitos dos artigos 21.º e 22.º, um veículo pode ser considerado como correspondendo a uma homologação nacional se apresentar diferenças de pormenor em relação à mesma, desde que não se levantem problemas de segurança.
+
+2 - Por despacho do director-geral de Viação, são fixadas as diferenças admissíveis nos veículos em relação a uma homologação de modelo já existente.
+
+###### Artigo 24.º — Veículos pesados de passageiros
+
+1 - Os pedidos de atribuição de matrícula para veículos pesados de passageiros, além de outros elementos exigidos nos termos da presente secção, devem ainda ser instruídos com certificado de inspecção de carroçaria, emitido por organismo de controlo e inspecção acreditado pelo Instituto Português da Qualidade, segundo as normas da série EN/NP 45 000, nos termos do regime jurídico das inspecções.
+
+2 - Por despacho do director-geral de Viação, pode ser estabelecida a obrigatoriedade de apresentação de desenhos, memória descritiva ou outros elementos técnicos que se considerem relevantes para caracterizar os veículos.
+
+###### Artigo 25.º — Motociclos, ciclomotores, triciclos e quadriciclos
+
+1 - Os pedidos de atribuição de matrícula para motociclos, ciclomotores, triciclos e quadriciclos que não correspondam a um modelo com homologação europeia, além de outros elementos exigidos nos termos da presente secção, devem ainda ser instruídos com relatório de ensaio do teste de ruído, emitido por laboratório de ensaios acreditado para o efeito.
+
+2 - Por despacho do director-geral de Viação, são estabelecidas as condições a que deve obedecer o referido ensaio.
+
+###### Artigo 26.º — Prazo para o pedido de matrícula
+
+Sempre que a atribuição de matrícula nacional dependa de validação prévia por parte da entidade competente para a cobrança e controlo dos impostos devidos, o documento de identificação do veículo deve ser requerido no prazo de 30 dias a contar da data da validação efectuada por aquele serviço.
+
+###### Artigo 26.º-A — Suspensão
+
+1 - No caso do IMT, I. P., receber uma notificação de que a inspeção técnica periódica de um veículo revelou que a autorização de circulação rodoviária desse veículo foi suspensa no cumprimento do regime legal das inspeções técnicas de veículos, a suspensão deve ser registada eletronicamente, e o veículo deve ser submetido a nova inspeção.
+
+2 - A suspensão a que se refere o número anterior produz efeitos até que o veículo seja aprovado em nova inspeção técnica.
+
+3 - Na sequência da aprovação a que se refere o número anterior, o IMT, I. P., deve autorizar a reposição do veículo em circulação, sem que seja necessário novo processo de matrícula.
+
+4 - As disposições previstas no Código da Estrada aplicáveis à circulação de veículos com a matrícula cancelada aplicam-se com as devidas adaptações, à circulação de veículos objeto de suspensão.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 26.º-B — Reconhecimento da validade do certificado de inspeção técnica
+
+Sem prejuízo das disposições específicas do regime legal das inspeções periódicas, o IMT, I. P., reconhece a validade do certificado de inspeção técnica no caso de mudança da propriedade de um veículo que disponha de um comprovativo válido de inspeção técnica periódica.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+### Capítulo III — Certificação
+
+###### Artigo 27.º — Certificação documental
+
+1 - Os fabricantes devem emitir a certificação referida na alínea b) do artigo 21.º e na alínea b) do artigo 22.º e não podem:
+
+a) Fazer depender de verificação técnica dos veículos a emissão da certificação, excepto se existirem dúvidas quanto à sua identificação;
+
+b) Exceder um prazo de três semanas para a emissão da certificação;
+
+c) Exigir mais de (euro) 100 pela emissão de certificação;
+
+d) Exigir factura ou comprovativo de pagamento de IVA relativo ao veículo.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 55/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/55-2006-540796), em vigor a partir de 2006-07-10
+
+###### Artigo 28.º — Certificação técnica
+
+1 - A verificação das características técnicas dos veículos a que se refere o n.º 1 do artigo 18.º, a alínea d) do n.º 1 do artigo 20.º, a alínea c) do artigo 21.º e a alínea d) do artigo 22.º efetua-se nos termos do estabelecido no regime jurídico das inspeções técnicas de veículos, exceto para o ensaio dos tratores agrícolas e florestais.
+
+2 - O ensaio dos tratores agrícolas e florestais relativamente à sua aptidão funcional e condições de segurança para a circulação rodoviária é efetuada pela Direção-Geral de Agricultura e Desenvolvimento Rural, previamente à apresentação do pedido de atribuição de matrícula pelo IMT, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+### Capítulo IV — Registo nacional de matrículas
+
+###### Artigo 29.º — Elementos do registo
+
+1 - Para efeitos do disposto no n.º 7 do artigo 117.º do Código da Estrada, o IMT, I. P., mantém um registo nacional de matrículas, designado por Sistema de Informação de Veículos e Homologações (SIVH), onde constam as características e dados necessários à emissão do documento de identificação do veículo.
+
+2 - A referida base de dados pode ser acedida a partir do número de matrícula ou do número do quadro de cada veículo, sendo assegurado que o mesmo número de matrícula não possa ser atribuído a mais de um veículo.
+
+3 - As características técnicas dos modelos de veículos constam num módulo de registos de homologação do SIVH.
+
+4 - Os fabricantes de veículos podem ser autorizados a enviar por via eletrónica a informação relativa aos registos de homologações, para efeitos de registo no módulo do SIVH referido no número anterior.
+
+5 - O registo referido no n.º 1 deve conter ainda um histórico dos elementos relativos à matrícula, nomeadamente alterações, apreensões e cancelamento da matrícula, bem como suspensão de autorização de circulação e alterações de características do veículo e inspeções técnicas efetuadas, o seu resultado e validade, quando aplicável.
+
+6 - Os dados respeitantes a todos os veículos matriculados devem compreender, com exceção dos dados pessoais, os dados constantes dos pontos 2.4 e 2.5 do anexo ao Decreto-Lei n.º 178-A/2005, de 28 de outubro, alterado pelos Decretos-Leis n.os 85/2006, de 23 de maio, 20/2008, de 31 de janeiro, e 201/2015, de 17 de setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 30.º — Responsável pelo Sistema de Informação de Veículos e Homologações
+
+1 - É responsável pela base de dados referida no artigo anterior, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de outubro, o IMT, I. P.
+
+2 - Cabe, em especial, ao director-geral de Viação assegurar o direito de informação e de acesso aos dados, bem como zelar para que a consulta ou a comunicação da informação respeite as condições previstas na lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 31.º — Acesso aos dados
+
+1 - Os serviços centrais e os serviços desconcentrados da Direcção-Geral de Viação, as entidades fiscalizadoras e, nas Regiões Autónomas, os serviços competentes acedem aos dados pessoais contidos na base de dados a que se refere o artigo 29.º através de uma linha de transmissão.
+
+2 - Para efeitos de investigação criminal ou de instrução de processos judiciais, podem as entidades judiciais ou entidades policiais legalmente competentes solicitar o acesso à base de dados prevista no artigo 29.º
+
+3 - Os dados técnicos dos veículos matriculados, bem como o histórico das inspeções técnicas realizadas, são disponibilizados aos centros de inspeção técnica de veículos, para efeitos da realização das inspeções técnicas.
+
+4 - Os dados conhecidos nos termos do número anterior não podem ser transmitidos a terceiros, salvo se tal for autorizado pelo responsável da base de dados e nos termos do artigo 30.º
+
+5 - Por despacho do director-geral de Viação, podem as entidades que demonstrem reconhecido interesse ser autorizadas a obter a informação contida na base de dados ou a aceder àquela base, desde que tais dados sejam indispensáveis ao destinatário para cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da Direcção-Geral de Viação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 31.º-A — Fiscalização
+
+A fiscalização do cumprimento das disposições do presente decreto-lei é efetuada pelo IMT, I. P., e pelas entidades referidas no artigo 5.º do Decreto-Lei n.º 44/2005, de 23 de fevereiro, alterado pelo Decreto-Lei n.º 74-A/2005, de 24 de março, pela Lei n.º 72/2013, de 3 de setembro, e pelo Decreto-Lei n.º 146/2014, de 9 de outubro, no âmbito das suas competências.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 31.º-B — Produto das coimas
+
+O produto das coimas é distribuído da seguinte forma:
+
+a) 60 % para o Estado;
+
+b) 20 % para o IMT, I. P.;
+
+c) 20 % para a entidade fiscalizadora.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+### Capítulo V — Regime sancionatório
+
+###### Artigo 32.º — Contra-ordenação
+
+1 - Constitui contraordenação o incumprimento do prazo para o pedido de matrícula a que se refere o artigo 26.º, o qual é punível com coima de (euro) 50 a (euro) 250.
+
+2 - A aplicação da coima é da competência do conselho diretivo do IMT, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 33.º — Substituição de livretes atribuídos pelas câmaras municipais
+
+1 - Os veículos que ainda possuam matrícula atribuída pelas câmaras municipais só podem circular na via pública desde que as respetivas matrículas sejam canceladas e substituídas pelas previstas no presente decreto-lei.
+
+2 - As matrículas atribuídas pelo IMT, I. P., no âmbito do estabelecido no número anterior são da série geral em uso naquele Instituto, procedendo-se à sua atribuição em simultâneo com o cancelamento da matrícula atribuída pela câmara municipal.
+
+3 - Após o cancelamento da matrícula referido no número anterior, deve ser dado conhecimento à respectiva câmara municipal, com indicação do novo número de matrícula atribuído ao veículo.
+
+4 - Por cada veículo matriculado é emitido um documento de identificação do veículo, devendo ser averbado no mesmo o número da matrícula anterior.
+
+5 - Para efeitos do referido nos n.os 1 e 2, o requerimento a solicitar a emissão de novo documento de identificação do veículo deve ser acompanhado do original do livrete do veículo ou de documento equivalente emitido pela respectiva Câmara Municipal.
+
+6 - (Revogado.)
+
+7 - Para o cancelamento e a substituição de matrículas previstos no n.º 1, é devida a taxa respetiva.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 152-A/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-a-2017-114337012), em vigor a partir de 2018-01-11
+
+###### Artigo 34.º — Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas à Direcção-Geral de Viação são exercidas pelos organismos e serviços das respectivas administrações regionais.
+
+###### Artigo 35.º — Norma revogatória
+
+SSão revogados os n.os 1 e 3 do artigo 34.º do Regulamento do Código da Estrada, aprovado pelo Decreto n.º 39987, de 22 de Dezembro de 1954, na redacção conferida pelo Decreto n.º 47165, de 25 de Agosto de 1966, e a Portaria n.º 52/94, de 21 de Junho.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 55/2006 - Diário da República n.º 165/2006, Série I de 2006-08-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/55-2006-540796), em vigor a partir de 2006-07-10
+
+Visto e aprovado em Conselho de Ministros de 20 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia.
+
+Promulgado em 21 de Junho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 23 de Junho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

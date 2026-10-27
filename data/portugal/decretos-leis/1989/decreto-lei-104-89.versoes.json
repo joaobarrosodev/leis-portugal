@@ -1,0 +1,1024 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:615193:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-868791101",
+ "dre_path": "/dr/detalhe/decreto-lei/104-1989-615193",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868847105",
+    "868786938",
+    "868786939",
+    "868786940",
+    "868786941",
+    "868786942",
+    "868786943",
+    "868786944",
+    "868786945",
+    "868786946",
+    "868786947",
+    "868786948",
+    "868786949",
+    "868786950",
+    "868786951",
+    "868786952",
+    "868786953",
+    "868786954",
+    "868786955",
+    "868786956",
+    "868786957",
+    "868786958",
+    "868786959",
+    "868786960",
+    "868786961",
+    "868786962",
+    "868786963",
+    "868786964",
+    "868786965",
+    "868786966",
+    "868786967",
+    "868786968",
+    "868786969",
+    "868786970",
+    "868786971",
+    "868786972",
+    "868786973",
+    "868786974",
+    "868811875",
+    "868811876",
+    "868811877"
+   ]
+  },
+  {
+   "date": "1994-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:509199:por",
+     "title": "Decreto-Lei n.º 12/94",
+     "published": "1994-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/12-1994-509199"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "868786937",
+    "868786938",
+    "868786939",
+    "868786940",
+    "868786941",
+    "868786942",
+    "868786943",
+    "868786944",
+    "868786945",
+    "868786946",
+    "868786947",
+    "868786948",
+    "868786949",
+    "868786950",
+    "868786951",
+    "868786952",
+    "868786953",
+    "868786954",
+    "868786955",
+    "868786956",
+    "868786957",
+    "868786958",
+    "868786959",
+    "868786960",
+    "868786961",
+    "868786962",
+    "868847103",
+    "868786964",
+    "868811902",
+    "868786966",
+    "868786967",
+    "868786968",
+    "868786969",
+    "868786970",
+    "868786971",
+    "868786972",
+    "868786973",
+    "868786974",
+    "868811875",
+    "868811876",
+    "868811877",
+    "868811878"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345122:por",
+     "title": "Lei n.º 114/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/114-1999-345122"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "868786937",
+    "868786938",
+    "868786939",
+    "868786940",
+    "868786941",
+    "868786942",
+    "868786943",
+    "868786944",
+    "868786945",
+    "868786946",
+    "868786947",
+    "868786948",
+    "868786949",
+    "868786950",
+    "868786951",
+    "868786952",
+    "868786953",
+    "868786954",
+    "868786955",
+    "868786956",
+    "868786957",
+    "868786958",
+    "868786959",
+    "868786960",
+    "868786961",
+    "868786962",
+    "868847103",
+    "868786964",
+    "868811902",
+    "868786966",
+    "868786967",
+    "868847104",
+    "868786969",
+    "868786970",
+    "868786971",
+    "868786972",
+    "868786973",
+    "868786974",
+    "868811875",
+    "868811876",
+    "868811877",
+    "868811878"
+   ]
+  },
+  {
+   "date": "2001-11-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584020:por",
+     "title": "Decreto-Lei n.º 280/2001",
+     "published": "2001-10-23",
+     "dre_path": "/dr/detalhe/decreto-lei/280-2001-584020"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "868847105",
+    "868847106",
+    "868847107",
+    "868847108",
+    "868847109",
+    "868847110",
+    "868847111",
+    "868847112",
+    "868847113",
+    "868847114",
+    "868847115",
+    "868847116",
+    "868847117",
+    "868847118",
+    "868847119",
+    "868847120",
+    "868847121",
+    "868847122",
+    "868847123",
+    "868847124",
+    "868847125",
+    "868847126",
+    "868847127",
+    "868847128",
+    "868847129",
+    "868847130",
+    "868847131",
+    "868847132",
+    "868847133",
+    "868847134",
+    "868847135",
+    "868847136",
+    "868847137",
+    "868847138",
+    "868847139",
+    "868847140",
+    "868847141",
+    "868847142",
+    "868847143",
+    "868847144",
+    "868847145",
+    "868847146"
+   ]
+  }
+ ],
+ "fragments": {
+  "868847105": {
+   "fragment_id": "868791102",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2001-11-22",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 104/89\n\nde 6 de Abril\n\nO Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo Decreto-Lei n.º 45968, de 15 de Outubro de 1964, está desactualizado nalguns pontos, nomeadamente por motivos das profundas transformações da vida económica entretanto registadas.\n\nNestes termos, depois de ter sido já publicado o diploma sobre as lotações das embarcações, procede-se agora à regulamentação da inscrição marítima em diploma que, embora conjunto para as marinhas do comércio e da pesca, não deixa, por isso, de atender às espeficidades de uma e outra, tendo em conta, especialmente, a diferente tipologia das embarcações e a diferente exigência de qualificação profissional dos respectivos tripulantes e operadores.\n\nDeste modo, o presente diploma abrange a reestruturação das profissões relativas à tripulação e operação dos navios de comércio e da pesca, dando-se a devida importância à capacidade profissional, que surge como condição básica de acesso entre categorias profissionais.\n\nForam ouvidos os órgãos de governo próprio das regiões autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "868786938": {
+   "fragment_id": "868791103",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e definições"
+  },
+  "868786939": {
+   "fragment_id": "868791104",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma tem por objecto estabelecer para o pessoal do mar disposições relativas à inscrição marítima, cédulas marítimas, classificação, categorias, cursos, exames, tirocínios e certificação dos marítimos."
+  },
+  "868786940": {
+   "fragment_id": "868791105",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição de inscrição marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição de inscrição marítima\n\nA inscrição marítima é o acto exigível aos indivíduos que pretendam exercer como tripulantes de embarcações ou em actividades afins, indicadas neste diploma, a profissão de marítimo."
+  },
+  "868786941": {
+   "fragment_id": "868791106",
+   "type": 11,
+   "heading": "Artigo 3.º — Inscritos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Inscritos marítimos\n\nOs indivíduos sujeitos a inscrição marítima tomam a designação de «inscritos marítimos», sendo abreviadamente designados por «marítimos» no presente diploma."
+  },
+  "868786942": {
+   "fragment_id": "868791107",
+   "type": 1,
+   "heading": "Capítulo II — Inscrição marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Inscrição marítima"
+  },
+  "868786943": {
+   "fragment_id": "868791108",
+   "type": 11,
+   "heading": "Artigo 4.º — Pedido de inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pedido de inscrição\n\n1 - A inscrição marítima só pode ser requerida por indivíduos maiores de 16 anos, de nacionalidade portuguesa, com salvaguarda das obrigações resultantes da adesão de Portugal às Comunidades Europeias e de convenções internacionais celebradas entre Portugal e outros Estados.\n\n2 - A inscrição deve ser requerida pelo interessado na capitania do porto onde pretende que a mesma seja efectuada, através de requerimento dirigido ao capitão do porto."
+  },
+  "868786944": {
+   "fragment_id": "868791109",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo da inscrição\n\nA inscrição marítima é registada em instrumento próprio, denominado «registo da inscrição marítima» e designado abreviadamente no presente diploma por «registo», o qual existirá em todas as capitanias de porto."
+  },
+  "868786945": {
+   "fragment_id": "868791110",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos processuais da inscrição marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentos processuais da inscrição marítima\n\nOs documentos que devem acompanhar o pedido de inscrição marítima, bem como os elementos a integrar no registo, constarão de regulamento a aprovar por portaria conjunta dos Ministros da Defesa Nacional, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações."
+  },
+  "868786946": {
+   "fragment_id": "868791111",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição em mais de uma capitania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrição em mais de uma capitania\n\nNão é permitida a inscrição em mais de uma capitania de porto, sob pena de o marítimo incorrer nas sanções estabelecidas no presente diploma, sendo-lhe canceladas as inscrições efectuadas para além da primeira."
+  },
+  "868786947": {
+   "fragment_id": "868791112",
+   "type": 11,
+   "heading": "Artigo 8.º — Transferência da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transferência da inscrição\n\n1 - A transferência da inscrição para capitania diferente daquela onde o marítimo se encontre inscrito será solicitada por este na capitania do porto para onde pretenda a transferência.\n\n2 - A capitania do porto para onde foi autorizada a transferência solicitará o processo do marítimo à capitania de origem e, efectuada a nova inscrição, a mesma será comunicada a esta capitania para efeitos de cancelamento da inscrição anterior."
+  },
+  "868786948": {
+   "fragment_id": "868791113",
+   "type": 11,
+   "heading": "Artigo 9.º — Suspensão e cancelamento da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Suspensão e cancelamento da inscrição\n\n1 - A suspensão da inscrição marítima tem lugar nos seguintes casos:\n\na) Por não apresentação da cédula marítima para verificação em dois anos consecutivos, suspensão que cessará com a respectiva apresentação;\n\nb) Quando, sendo exigido aos marítimos certificado de competência nos termos da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviços de Quartos para os Marítimos, aprovada pelo Deceto do Governo n.º 28/85, de 8 de Agosto, adiante designada abreviadamente por STCW, aqueles não façam prova de ter embarcado durante pelo menos o total de doze meses nos últimos cinco anos, suspensão que cessará com a apresentação do comprovativo de terem efectuado a reciclagem aprovada para o efeito;\n\nc) Quando haja sido aplicada a pena de inibição temporária do exercício da profissão.\n\n2 - O cancelamento da inscrição marítima tem lugar, para além das situações previstas no presente diploma e na legislação penal e disciplinar, nos seguintes casos:\n\na) A requerimento do interessado;\n\nb) Por não apresentação da cédula marítima para verificação durante cinco anos consecutivos, nas categorias para as quais não é exigido certificado de competência nos termos da Convenção STCW;\n\nc) Por não renovação do certificado anual especial de operador radiotelegrafista no prazo de um ano após o seu termo;\n\nd) Por impossibilidade superveniente e definitiva da prestação de trabalho.\n\n3 - É competente para a suspensão e cancelamento da inscrição marítima o capitão do porto onde o marítimo estiver inscrito.\n\n4 - O cancelamento da inscrição determina a caducidade de certificados e outros documentos afins, com excepção das cartas e diplomas de habilitação específica exigidos para a inscrição ou para o ingresso em nova categoria."
+  },
+  "868786949": {
+   "fragment_id": "868791114",
+   "type": 11,
+   "heading": "Artigo 10.º — Movimento de inscrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Movimento de inscrições\n\n1 - O movimento de inscrições marítimas é comunicado mensalmente pelas capitanias de porto às seguintes entidades:\n\na) Direcção-Geral do Pessoal do Mar e Estudos Náuticos (DGPMEN), para as categorias específicas da marinha do comércio;\n\nb) Direcção-Geral das Pescas (DGP), para as categorias específicas da marinha da pesca, e também às Direcções Regionais das Pescas dos Açores e da Madeira, relativamente às inscrições efectuadas nas capitanias das respectivas Regiões Autónomas;\n\nc) DGPMEN e DGP, para as categorias comuns às marinhas do comércio e da pesca.\n\n2 - O movimento de inscrições, para efeitos do número anterior, compreende a inscrição, o ingresso em nova categoria, a transferência, a suspensão e o cancelamento da inscrição."
+  },
+  "868786950": {
+   "fragment_id": "868791115",
+   "type": 1,
+   "heading": "Capítulo III — Cédulas marítimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Cédulas marítimas"
+  },
+  "868786951": {
+   "fragment_id": "868791116",
+   "type": 11,
+   "heading": "Artigo 11.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Definição\n\n1 - A cédula de inscrição marítima ou cédula marítima, abreviadamente designada por «cédula», é o documento de identificação profissional do marítimo, indispensável para o exercício das actividades para as quais é exigida.\n\n2 - A cédula conterá o resumo do registo do marítimo."
+  },
+  "868786952": {
+   "fragment_id": "868791117",
+   "type": 11,
+   "heading": "Artigo 12.º — Emissão das cédulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Emissão das cédulas\n\nAs cédulas são emitidas pelas capitanias de porto e assinadas pelo capitão de porto."
+  },
+  "868786953": {
+   "fragment_id": "868791118",
+   "type": 11,
+   "heading": "Artigo 13.º — Verificação das cédulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Verificação das cédulas\n\n1 - A verificação das cédulas destina-se a:\n\na) Apurar do exercício efectivo da actividade dos seus detentores;\n\nb) Averiguar do estado de actualização e conservação das mesmas.\n\n2 - As cédulas são verificadas uma vez em cada ano civil em qualquer capitania de porto ou consulado português, salvo quando circunstâncias de força maior, devidamente justificadas, o não permitam.\n\n3 - A verificação da cédula será datada e rubricada pelo escrivão da capitania ou pelo agente consular.\n\n4 - Quando a verificação da cédula tenha lugar em consulado, ou em capitania de porto diferente da de inscrição do marítimo, será esse facto comunicado a esta última capitania."
+  },
+  "868786954": {
+   "fragment_id": "868791119",
+   "type": 11,
+   "heading": "Artigo 14.º — Retenção das cédulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Retenção das cédulas\n\n1 - A retenção das cédulas só pode ter lugar nos seguintes casos:\n\na) Em consequência da aplicação de pena de interdição do exercício de profissão;\n\nb) Quando ordenada por autoridade judicial, nos termos da legislação penal, processual penal e disciplinar aplicável.\n\n2 - A retenção das cédulas é da competência dos capitães de porto mediante notificação da autoridade competente para o efeito."
+  },
+  "868786955": {
+   "fragment_id": "868791120",
+   "type": 11,
+   "heading": "Artigo 15.º — Processo de emissão e alteração das cédulas marítimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Processo de emissão e alteração das cédulas marítimas\n\nOs regulamentos relativos à emissão das cédulas, à introdução nas mesmas de averbamentos, alterações e rectificações, à sua renovação e respectivo modelo serão aprovados por portaria conjunta dos Ministros da Defesa Nacional, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações."
+  },
+  "868786956": {
+   "fragment_id": "868791121",
+   "type": 1,
+   "heading": "Capítulo IV — Marítimos e sua classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Marítimos e sua classificação"
+  },
+  "868786957": {
+   "fragment_id": "868791122",
+   "type": 11,
+   "heading": "Artigo 16.º — Classificação dos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Classificação dos marítimos\n\n1 - Os marítimos, para efeitos do presente diploma, classificam-se em grupos, escalões e categorias.\n\n2 - As categorias tomam as designações indicadas nos artigos 19.º, 20.º, 21.º e 22.º, independentemente do sexo dos marítimos."
+  },
+  "868786958": {
+   "fragment_id": "868791123",
+   "type": 11,
+   "heading": "Artigo 17.º — Grupos de marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Grupos de marítimos\n\n1 - Os marítimos dividem-se em dois grupos:\n\na) Tripulação;\n\nb) Auxiliar.\n\n2 - O grupo tripulação é constituído pelos marítimos destinados a tripulantes de embarcações de comércio, pesca, rebocadores e embarcações auxiliares.\n\n3 - O grupo auxiliar é constituído pelos marítimos que se empreguem em actividades ligadas à vida do mar mas não se destinem a tripulantes das embarcações referidas no número anterior."
+  },
+  "868786959": {
+   "fragment_id": "868791124",
+   "type": 11,
+   "heading": "Artigo 18.º — Escalões do grupo tripulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Escalões do grupo tripulação\n\nO grupo tripulação compreende os seguintes escalões:\n\na) oficiais;\n\nb) Mestrança;\n\nc) Marinhagem."
+  },
+  "868786960": {
+   "fragment_id": "868791125",
+   "type": 11,
+   "heading": "Artigo 19.º — Categorias do escalão dos oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Categorias do escalão dos oficiais\n\nO escalão dos oficiais compreende as seguintes categorias:\n\na) Capitão da marinha mercante;\n\nb) Piloto-chefe;\n\nc) Piloto de 1.ª classe;\n\nd) Piloto de 2.ª classe;\n\ne) Piloto de 3.ª classe;\n\nf) Praticante de piloto;\n\ng) Capitão pescador;\n\nh) Piloto pescador;\n\ni) Maquinista-chefe;\n\nj) Maquinista de 1.ª classe;\n\nk) Maquinista de 2.ª classe;\n\nl) Maquinista de 3.ª classe;\n\nm) Praticante de maquinista;\n\nn) Médico;\n\no) Comissário-chefe;\n\np) Comissário de 1.ª classe;\n\nq) Comissário de 2.ª classe;\n\nr) Comissário de 3.ª classe;\n\ns) Praticante de comissário;\n\nt) Radiotécnico-chefe;\n\nu) Radiotécnico de 1.ª classe;\n\nv) Radiotécnico de 2.ª classe;\n\nx) Radiotécnico de 3.ª classe;\n\nz) Praticante de radiotécnico."
+  },
+  "868786961": {
+   "fragment_id": "868791126",
+   "type": 11,
+   "heading": "Artigo 20.º — Categorias do escalão da mestrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Categorias do escalão da mestrança\n\n1 - O escalão da mestrança compreende as seguintes categorias:\n\na) Mestre costeiro;\n\nb) Contramestre;\n\nc) Bombeiro;\n\nd) Escriturário conferente;\n\ne) Carpinteiro;\n\nf) Mestre do largo pescador;\n\ng) Mestre costeiro pescador;\n\nh) Contramestre pescador;\n\ni) Arrais de pesca;\n\nj) Mestre do tráfego local;\n\nk) Operador de gruas flutuantes;\n\nl) Maquinista prático de 1.ª classe;\n\nm) Maquinista prático de 2.ª classe;\n\nn) Motorista prático de 1.ª classe;\n\no) Motorista prático de 2.ª classe;\n\np) Motorista prático de 3.ª classe;\n\nq) Electricista;\n\nr) Electricista de 2.ª classe;\n\ns) Mecânico de bordo;\n\nt) Artífice;\n\nu) Enfermeiro;\n\nv) Despenseiro;\n\nx) Radiotelegrafista prático da classe A;\n\nz) Radiotelegrafista prático da classe B.\n\n2 - As categorias referidas nas alíneas d), e), x) e z) do número anterior serão extintas quando se verificar o cancelamento da inscrição, ou quando se verificar o ingresso noutra categoria, de todos os marítimos que, à data da entrada em vigor do presente diploma, possuam essas categorias.\n\n3 - As categorias referidas nas alíneas l), m), r) e t) do n.º 1 serão extintas quando todos os marítimos que as possuam, à data da entrada em vigor do presente diploma, tenham a sua inscrição cancelada ou tenham ingressado noutra categoria.\n\n4 - Os inscritos marítimos que, à data da entrada em vigor do presente diploma, possuam as categorias de músico, tipógrafo e cozinheiro de 1.ª classe manter-se-ão nestas categorias até se verificar o cancelamento da sua inscrição, nos termos das alíneas a), b) e d) do n.º 2 do artigo 9.º, ou optem por embarcar ao abrigo do regime previsto no artigo 30.º do presente diploma.\n\n5 - As categorias, acesso e funções dos marítimos do escalão da mestrança que exerçam a sua actividade na pesca de cetáceos são os estabelecidos em regulamento próprio."
+  },
+  "868786962": {
+   "fragment_id": "868791127",
+   "type": 11,
+   "heading": "Artigo 21.º — Categorias do escalão da marinhagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Categorias do escalão da marinhagem\n\n1 - O escalão da marinhagem compreende as seguintes categorias:\n\na) Marinheiro de 1.ª classe;\n\nb) Marinheiro de 2.ª classe;\n\nc) Marinheiro pescador;\n\nd) Pescador;\n\ne) Moliceiro;\n\nf) Marinheiro do tráfego local;\n\ng) Marinheiro motorista;\n\nh) Ajudante de motorista;\n\ni) Fogueiro;\n\nj) Ajudante de electricista;\n\nk) Empregado de câmaras;\n\nl) Cozinheiro;\n\nm) Ajudante de cozinheiro.\n\n2 - As categorias referidas nas alíneas i) e j) do número anterior serão extintas quando todos os marítimos que as possuam à data da entrada em vigor do presente diploma ingressem noutra categoria ou tenham a sua inscrição cancelada.\n\n3 - Os inscritos marítimos que, à data da entrada em vigor do presente diploma, possuam as categorias de pasteleiro, padeiro, telefonista, manicure, barbeiro e lavadeiro manter-se-ão nestas categorias até se verificar o cancelamento da sua inscrição nos termos das alíneas a), b) e d) do n.º 2 do artigo 9.º ou optem por embarcar ao abrigo do regime previsto no artigo 30.º do presente diploma.\n\n4 - As categorias, acesso e funções dos marítimos do escalão da marinhagem que exerçam a sua actividade na pesca de cetáceos são os estabelecidos em regulamento próprio."
+  },
+  "868786963": {
+   "fragment_id": "868791128",
+   "type": 11,
+   "heading": "Artigo 22.º — Categorias do grupo auxiliar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Categorias do grupo auxiliar\n\n1 - O grupo auxiliar inclui as seguintes categorias:\n\na) Superintendente da marinha mercante;\n\nb) Mestre encarregado do tráfego local;\n\nc) Vigia da marinha mercante;\n\nd) Mergulhador de 1.ª classe;\n\ne) Mergulhador de 2.ª classe;\n\nf) Mergulhador de 3.ª classe;\n\ng) Apanhador de algas;\n\nh) Banheiro;\n\ni) Ajudante de banheiro;\n\nj) Auxiliar de artes de pesca fixas e móveis.\n\n2 - As categorias referidas nas alíneas h), i) e j) do número anterior serão extintas quando todos os marítimos que as possuam, à data da entrada em vigor do presente diploma, tenham a sua inscrição cancelada ou tenham ingressado noutra categoria."
+  },
+  "868786964": {
+   "fragment_id": "868791129",
+   "type": 11,
+   "heading": "Artigo 23.º — Funções e acessos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Funções e acessos\n\nAs funções e os requisitos de acesso às diversas categorias profissionais previstas no presente diploma constarão de regulamento a aprovar por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações."
+  },
+  "868786965": {
+   "fragment_id": "868791130",
+   "type": 11,
+   "heading": "Artigo 24.º — Cursos, exames, tirocínios, certificados e cartas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cursos, exames, tirocínios, certificados e cartas\n\n1 - Os cursos, exames e tirocínios exigidos aos marítimos para acesso às categorias profissionais previstas neste diploma constarão de regulamento a aprovar por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.\n\n2 - No mesmo diploma serão definidos os diversos tipos de certificados, bem como o regime da sua emissão e das cartas a passar aos marítimos."
+  },
+  "868786966": {
+   "fragment_id": "868791131",
+   "type": 1,
+   "heading": "Capítulo V — Responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Responsabilidade contra-ordenacional"
+  },
+  "868786967": {
+   "fragment_id": "868791132",
+   "type": 11,
+   "heading": "Artigo 25.º — Princípios gerais de responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Princípios gerais de responsabilidade contra-ordenacional\n\n1 - Constituem contra-ordenações os comportamentos, como tal tipificados no presente diploma, que infrinjam as suas disposições.\n\n2 - A negligência é sempre punível.\n\n3 - A tentativa é sempre punível, sendo os limites mínimo e máximo previstos no correspondente tipo legal de contra-ordenações reduzidos a metade.\n\n4 - Às contra-ordenações referidas no presente diploma é aplicável, subsidiariamente, o regime geral das contra-ordenações constante do Decreto-Lei n.º 433/82, de 27 de Outubro."
+  },
+  "868786968": {
+   "fragment_id": "868791133",
+   "type": 11,
+   "heading": "Artigo 26.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de 20000$00 a 200000$00:\n\na) O exercício da profissão de marítimo por quem não seja inscrito marítimo;\n\nb) O exercício por inscritos marítimos de funções para as quais não estejam habilitados ou devidamente autorizados.\n\n2 - Constitui contra-ordenação punível com coima de 10000$00 a 100000$00:\n\na) Estar inscrito simultaneamente em mais de uma capitania de porto;\n\nb) Exercício de actividade por inscrito marítimo sem estar munido dos certificados legalmente exigíveis ou de cédula devidamente actualizada.\n\n3 - Quando ocorram as contra-ordenações previstas no n.º 1 e na alínea b) do número anterior, para além do respectivo autor material, será também punido o armador da embarcação e o marítimo que detenha o seu comando, salvo se a contra-ordenação tiver ocorrido contra instruções por eles expressamente dadas."
+  },
+  "868786969": {
+   "fragment_id": "868791134",
+   "type": 11,
+   "heading": "Artigo 27.º — Destino do montante das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Destino do montante das coimas\n\nO montante das coimas aplicadas pelas contra-ordenações previstas neste diploma reverte integralmente para o Estado."
+  },
+  "868786970": {
+   "fragment_id": "868791135",
+   "type": 11,
+   "heading": "Artigo 28.º — Entidades competentes para a fiscalização, instrução dos processos de contra-ordenações e aplicação das respectivas coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entidades competentes para a fiscalização, instrução dos processos de contra-ordenações e aplicação das respectivas coimas\n\n1 - Compete à autoridade marítima a fiscalização do cumprimento do disposto no presente diploma.\n\n2 - A instrução dos processos pela prática das contra-ordenações previstas no presente diploma compete ao capitão do porto da capitania em cuja área ocorreu o facto ilícito, ou ao do porto de registo de embarcação onde se verificou a prática da contra-ordenação, ou ao do primeiro em que essa embarcação entrar.\n\n3 - A aplicação das coimas relativas aos processos de contra-ordenação referidos no número anterior é da competência da entidade que tiver procedido à instrução do respectivo processo."
+  },
+  "868786971": {
+   "fragment_id": "868791136",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições diversas"
+  },
+  "868786972": {
+   "fragment_id": "868791137",
+   "type": 11,
+   "heading": "Artigo 29.º — Designações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Designações\n\n1 - O marítimo investido em funções de comando toma a designação genérica:\n\na) De comandante, quando pertencer ao escalão de oficiais;\n\nb) De mestre ou arrais, quando pertencer ao escalão da mestrança;\n\nc) Da respectiva categoria, quando pertencer ao escalão da marinhagem.\n\n2 - O oficial de pilotagem que a bordo for o principal auxiliar do comandante e nessa qualidade o substitui toma a designação genérica de imediato."
+  },
+  "868786973": {
+   "fragment_id": "868791138",
+   "type": 11,
+   "heading": "Artigo 30.º — Recrutamento de profissionais não marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Recrutamento de profissionais não marítimos\n\n1 - Os indivíduos que sejam contratados por um armador ou seu representante legal e cuja especialidade, comprovada por carteira profissional, quando exista, interesse à operacionalidade dos navios para o exercício de funções que não se integrem no conteúdo funcional das categorias constantes dos artigos 20.º e 21.º não carecem de ser inscritos marítimos e embarcarão mediante licença especial de embarque.\n\n2 - A licença referida no número anterior será concedida:\n\na) No âmbito da marinha da pesca, pelo director-geral das Pescas ou, nas regiões autónomas, pela entidade definida pelos respectivos órgãos de governo próprio;\n\nb) No âmbito da marinha do comércio, pelo director-geral do Pessoal do Mar e Estudos Náuticos.\n\n3 - No âmbito do transporte fluvial colectivo de passageiros, a licença especial de embarque poderá ser concedida, sem indicação dos titulares, quando se trate de funções de natureza permanente e com mutação frequente de quem as exerça."
+  },
+  "868786974": {
+   "fragment_id": "868791139",
+   "type": 11,
+   "heading": "Artigo 31.º — Exercício de funções diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Exercício de funções diversas\n\n1 - Nas embarcações costeiras e nas de tráfego local poderá o inscrito marítimo exercer a respectiva actividade, ainda que a sua categoria corresponda a tipo de navegação diferente.\n\n2 - O exercício da actividade prevista no número anterior carece de autorização, a conceder mediante licença especial para o efeito, pelo capitão do porto de armamento da embarcação."
+  },
+  "868811875": {
+   "fragment_id": "868791140",
+   "type": 11,
+   "heading": "Artigo 32.º — Validade de documentos emitidos ao abrigo de legislação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Validade de documentos emitidos ao abrigo de legislação anterior\n\nOs documentos emitidos ao abrigo de legislação anterior, nomeadamente diplomas de curso e de exame, certificados e cartas de oficial, mantêm a sua validade, sendo indispensável o seu averbamento no registo e na cédula para que produzam os efeitos a que se destinam."
+  },
+  "868811876": {
+   "fragment_id": "868791141",
+   "type": 11,
+   "heading": "Artigo 33.º — Formação, matrícula e recrutamento dos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Formação, matrícula e recrutamento dos marítimos\n\nOs regulamentos relativos à formação, à matrícula e ao recrutamento para embarque dos marítimos serão aprovados:\n\na) Para os marítimos da marinha do comércio, serviços do Estado e serviços das empresas concessionárias do serviço público de transporte fluvial colectivo de passageiros, por portaria do Ministro das Obras Públicas, Transportes e Comunicações;\n\nb) Para os marítimos da pesca, por portaria do Ministro da Agricultura, Pescas e Alimentação."
+  },
+  "868811877": {
+   "fragment_id": "868791142",
+   "type": 11,
+   "heading": "Artigo 34.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Legislação revogada\n\n1 - Pelo presente diploma ficam revogadas as correspondentes disposições do Decreto-Lei n.º 45968, de 15 de Outubro de 1964, e as disposições dos títulos I a VII do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo Decreto n.º 45969, de 15 de Outubro de 1964, e as secções II e III do capítulo I do Decreto-Lei n.º 74/73, de 1 de Março.\n\n2 - Enquanto não entrarem em vigor os regulamentos previstos por este diploma, são mantidas, em relação às respectivas matérias, as disposições legais vigentes que não contrariem as ora estabelecidas."
+  },
+  "868786937": {
+   "fragment_id": "868791102",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 104/89\n\nde 6 de Abril\n\nO Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo Decreto-Lei n.º 45968, de 15 de Outubro de 1964, está desactualizado nalguns pontos, nomeadamente por motivos das profundas transformações da vida económica entretanto registadas.\n\nNestes termos, depois de ter sido já publicado o diploma sobre as lotações das embarcações, procede-se agora à regulamentação da inscrição marítima em diploma que, embora conjunto para as marinhas do comércio e da pesca, não deixa, por isso, de atender às espeficidades de uma e outra, tendo em conta, especialmente, a diferente tipologia das embarcações e a diferente exigência de qualificação profissional dos respectivos tripulantes e operadores.\n\nDeste modo, o presente diploma abrange a reestruturação das profissões relativas à tripulação e operação dos navios de comércio e da pesca, dando-se a devida importância à capacidade profissional, que surge como condição básica de acesso entre categorias profissionais.\n\nForam ouvidos os órgãos de governo próprio das regiões autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "868847103": {
+   "fragment_id": "868791128",
+   "type": 11,
+   "heading": "Artigo 22.º — Categorias do grupo auxiliar",
+   "in_force_from": "1994-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/94 - Diário da República n.º 12/1994, Série I-A de 1994-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1994-509199), em vigor a partir de 1994-07-14"
+   ],
+   "markdown": "###### Artigo 22.º — Categorias do grupo auxiliar\n\n1 - O grupo auxiliar inclui as seguintes categorias:\n\na) Superintendente da marinha mercante;\n\nb) Mestre encarregado do tráfego local;\n\nc) Vigia da marinha mercante;\n\nd) (Revogado.)\n\ne) (Revogado.)\n\nf) (Revogado.)\n\ng) Apanhador de algas;\n\nh) Banheiro;\n\ni) Ajudante de banheiro;\n\nj) Auxiliar de artes de pesca fixas e móveis.\n\n2 - As categorias referidas nas alíneas h), i) e j) do número anterior serão extintas quando todos os marítimos que as possuam, à data da entrada em vigor do presente diploma, tenham a sua inscrição cancelada ou tenham ingressado noutra categoria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/94 - Diário da República n.º 12/1994, Série I-A de 1994-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1994-509199), em vigor a partir de 1994-07-14"
+  },
+  "868811902": {
+   "fragment_id": "868791130",
+   "type": 11,
+   "heading": "Artigo 24.º — Cursos, exames, tirocínios, certificados e cartas",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-321970), produz efeitos a partir de 1989-04-11"
+   ],
+   "markdown": "###### Artigo 24.º — Cursos, exames, tirocínios, certificados e cartas\n\n1 - Os cursos, exames e tirocínios exigidos aos marítimos para acesso às categorias profissionais previstas neste diploma constarão de regulamento a aprovar por portaria conjunta dos Ministros da Defesa Nacional, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.\n\n2 - No mesmo diploma serão definidos os diversos tipos de certificados, bem como o regime da sua emissão e das cartas a passar aos marítimos.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-321970), produz efeitos a partir de 1989-04-11"
+  },
+  "868811878": {
+   "fragment_id": "868791143",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bassaia Barreto - José Bernardo Veloso Falcão e Cunha.\n\nPromulgado em 11 de Março de 1989.\n\nPublique-se.\n\nO Prsidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Março de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "868847104": {
+   "fragment_id": "868791133",
+   "type": 11,
+   "heading": "Artigo 26.º — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 26.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a ocupação de menores com idade inferior a 16 anos no exercício de funções próprias da profissão de marítimo.\n\n2 - Constitui contra-ordenação grave:\n\na) Sem prejuízo do disposto no n.º 1, o exercício da profissão de marítimo por quem não seja inscrito marítimo;\n\nb) Exercício de actividade por inscrito marítimo sem estar munido dos certificados legalmente exigíveis ou de cédula devidamente actualizada.\n\n3 - Constitui contra-ordenação leve:\n\na) A inscrição simultânea em mais de uma capitania de porto;\n\nb) O exercício de actividade por inscrito marítimo sem estar munido dos certificados legalmente exigíveis ou de cédula actualizada.\n\n4 - Quando ocorram as contra-ordenações previstas no n.º 2 e na alínea b) do número anterior, para além do respectivo autor material, serão punidos o armador da embarcação e o marítimo que detenha o seu comando, salvo se a conduta tiver sido praticada contra instruções expressas destes.\n\n5 - As coimas aplicáveis ao autor material e ao marítimo que comanda a embarcação, nos termos do número anterior, são as correspondentes às infracções aos regimes jurídicos do serviço doméstico e do contrato individual de trabalho a bordo das embarcações de pesca.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+  },
+  "868847106": {
+   "fragment_id": "868791103",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e definições",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "### Capítulo I — Objecto e definições\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847107": {
+   "fragment_id": "868791104",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma tem por objecto estabelecer para o pessoal do mar disposições relativas à inscrição marítima, cédulas marítimas, classificação, categorias, cursos, exames, tirocínios e certificação dos marítimos.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847108": {
+   "fragment_id": "868791105",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição de inscrição marítima",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 2.º — Definição de inscrição marítima\n\nA inscrição marítima é o acto exigível aos indivíduos que pretendam exercer como tripulantes de embarcações ou em actividades afins, indicadas neste diploma, a profissão de marítimo.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847109": {
+   "fragment_id": "868791106",
+   "type": 11,
+   "heading": "Artigo 3.º — Inscritos marítimos",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 3.º — Inscritos marítimos\n\nOs indivíduos sujeitos a inscrição marítima tomam a designação de «inscritos marítimos», sendo abreviadamente designados por «marítimos» no presente diploma.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847110": {
+   "fragment_id": "868791107",
+   "type": 1,
+   "heading": "Capítulo II — Inscrição marítima",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "### Capítulo II — Inscrição marítima\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847111": {
+   "fragment_id": "868791108",
+   "type": 11,
+   "heading": "Artigo 4.º — Pedido de inscrição",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 4.º — Pedido de inscrição\n\n1 - A inscrição marítima só pode ser requerida por indivíduos maiores de 16 anos, de nacionalidade portuguesa, com salvaguarda das obrigações resultantes da adesão de Portugal às Comunidades Europeias e de convenções internacionais celebradas entre Portugal e outros Estados.\n\n2 - A inscrição deve ser requerida pelo interessado na capitania do porto onde pretende que a mesma seja efectuada, através de requerimento dirigido ao capitão do porto.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847112": {
+   "fragment_id": "868791109",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo da inscrição",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 5.º — Registo da inscrição\n\nA inscrição marítima é registada em instrumento próprio, denominado «registo da inscrição marítima» e designado abreviadamente no presente diploma por «registo», o qual existirá em todas as capitanias de porto.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847113": {
+   "fragment_id": "868791110",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos processuais da inscrição marítima",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 6.º — Documentos processuais da inscrição marítima\n\nOs documentos que devem acompanhar o pedido de inscrição marítima, bem como os elementos a integrar no registo, constarão de regulamento a aprovar por portaria conjunta dos Ministros da Defesa Nacional, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847114": {
+   "fragment_id": "868791111",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição em mais de uma capitania",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição em mais de uma capitania\n\nNão é permitida a inscrição em mais de uma capitania de porto, sob pena de o marítimo incorrer nas sanções estabelecidas no presente diploma, sendo-lhe canceladas as inscrições efectuadas para além da primeira.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847115": {
+   "fragment_id": "868791112",
+   "type": 11,
+   "heading": "Artigo 8.º — Transferência da inscrição",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 8.º — Transferência da inscrição\n\n1 - A transferência da inscrição para capitania diferente daquela onde o marítimo se encontre inscrito será solicitada por este na capitania do porto para onde pretenda a transferência.\n\n2 - A capitania do porto para onde foi autorizada a transferência solicitará o processo do marítimo à capitania de origem e, efectuada a nova inscrição, a mesma será comunicada a esta capitania para efeitos de cancelamento da inscrição anterior.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847116": {
+   "fragment_id": "868791113",
+   "type": 11,
+   "heading": "Artigo 9.º — Suspensão e cancelamento da inscrição",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 9.º — Suspensão e cancelamento da inscrição\n\n1 - A suspensão da inscrição marítima tem lugar nos seguintes casos:\n\na) Por não apresentação da cédula marítima para verificação em dois anos consecutivos, suspensão que cessará com a respectiva apresentação;\n\nb) Quando, sendo exigido aos marítimos certificado de competência nos termos da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviços de Quartos para os Marítimos, aprovada pelo Deceto do Governo n.º 28/85, de 8 de Agosto, adiante designada abreviadamente por STCW, aqueles não façam prova de ter embarcado durante pelo menos o total de doze meses nos últimos cinco anos, suspensão que cessará com a apresentação do comprovativo de terem efectuado a reciclagem aprovada para o efeito;\n\nc) Quando haja sido aplicada a pena de inibição temporária do exercício da profissão.\n\n2 - O cancelamento da inscrição marítima tem lugar, para além das situações previstas no presente diploma e na legislação penal e disciplinar, nos seguintes casos:\n\na) A requerimento do interessado;\n\nb) Por não apresentação da cédula marítima para verificação durante cinco anos consecutivos, nas categorias para as quais não é exigido certificado de competência nos termos da Convenção STCW;\n\nc) Por não renovação do certificado anual especial de operador radiotelegrafista no prazo de um ano após o seu termo;\n\nd) Por impossibilidade superveniente e definitiva da prestação de trabalho.\n\n3 - É competente para a suspensão e cancelamento da inscrição marítima o capitão do porto onde o marítimo estiver inscrito.\n\n4 - O cancelamento da inscrição determina a caducidade de certificados e outros documentos afins, com excepção das cartas e diplomas de habilitação específica exigidos para a inscrição ou para o ingresso em nova categoria.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847117": {
+   "fragment_id": "868791114",
+   "type": 11,
+   "heading": "Artigo 10.º — Movimento de inscrições",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 10.º — Movimento de inscrições\n\n1 - O movimento de inscrições marítimas é comunicado mensalmente pelas capitanias de porto às seguintes entidades:\n\na) Direcção-Geral do Pessoal do Mar e Estudos Náuticos (DGPMEN), para as categorias específicas da marinha do comércio;\n\nb) Direcção-Geral das Pescas (DGP), para as categorias específicas da marinha da pesca, e também às Direcções Regionais das Pescas dos Açores e da Madeira, relativamente às inscrições efectuadas nas capitanias das respectivas Regiões Autónomas;\n\nc) DGPMEN e DGP, para as categorias comuns às marinhas do comércio e da pesca.\n\n2 - O movimento de inscrições, para efeitos do número anterior, compreende a inscrição, o ingresso em nova categoria, a transferência, a suspensão e o cancelamento da inscrição.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847118": {
+   "fragment_id": "868791115",
+   "type": 1,
+   "heading": "Capítulo III — Cédulas marítimas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "### Capítulo III — Cédulas marítimas\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847119": {
+   "fragment_id": "868791116",
+   "type": 11,
+   "heading": "Artigo 11.º — Definição",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 11.º — Definição\n\n1 - A cédula de inscrição marítima ou cédula marítima, abreviadamente designada por «cédula», é o documento de identificação profissional do marítimo, indispensável para o exercício das actividades para as quais é exigida.\n\n2 - A cédula conterá o resumo do registo do marítimo.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847120": {
+   "fragment_id": "868791117",
+   "type": 11,
+   "heading": "Artigo 12.º — Emissão das cédulas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 12.º — Emissão das cédulas\n\nAs cédulas são emitidas pelas capitanias de porto e assinadas pelo capitão de porto.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847121": {
+   "fragment_id": "868791118",
+   "type": 11,
+   "heading": "Artigo 13.º — Verificação das cédulas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 13.º — Verificação das cédulas\n\n1 - A verificação das cédulas destina-se a:\n\na) Apurar do exercício efectivo da actividade dos seus detentores;\n\nb) Averiguar do estado de actualização e conservação das mesmas.\n\n2 - As cédulas são verificadas uma vez em cada ano civil em qualquer capitania de porto ou consulado português, salvo quando circunstâncias de força maior, devidamente justificadas, o não permitam.\n\n3 - A verificação da cédula será datada e rubricada pelo escrivão da capitania ou pelo agente consular.\n\n4 - Quando a verificação da cédula tenha lugar em consulado, ou em capitania de porto diferente da de inscrição do marítimo, será esse facto comunicado a esta última capitania.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847122": {
+   "fragment_id": "868791119",
+   "type": 11,
+   "heading": "Artigo 14.º — Retenção das cédulas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 14.º — Retenção das cédulas\n\n1 - A retenção das cédulas só pode ter lugar nos seguintes casos:\n\na) Em consequência da aplicação de pena de interdição do exercício de profissão;\n\nb) Quando ordenada por autoridade judicial, nos termos da legislação penal, processual penal e disciplinar aplicável.\n\n2 - A retenção das cédulas é da competência dos capitães de porto mediante notificação da autoridade competente para o efeito.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847123": {
+   "fragment_id": "868791120",
+   "type": 11,
+   "heading": "Artigo 15.º — Processo de emissão e alteração das cédulas marítimas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 15.º — Processo de emissão e alteração das cédulas marítimas\n\nOs regulamentos relativos à emissão das cédulas, à introdução nas mesmas de averbamentos, alterações e rectificações, à sua renovação e respectivo modelo serão aprovados por portaria conjunta dos Ministros da Defesa Nacional, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847124": {
+   "fragment_id": "868791121",
+   "type": 1,
+   "heading": "Capítulo IV — Marítimos e sua classificação",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "### Capítulo IV — Marítimos e sua classificação\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847125": {
+   "fragment_id": "868791122",
+   "type": 11,
+   "heading": "Artigo 16.º — Classificação dos marítimos",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 16.º — Classificação dos marítimos\n\n1 - Os marítimos, para efeitos do presente diploma, classificam-se em grupos, escalões e categorias.\n\n2 - As categorias tomam as designações indicadas nos artigos 19.º, 20.º, 21.º e 22.º, independentemente do sexo dos marítimos.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847126": {
+   "fragment_id": "868791123",
+   "type": 11,
+   "heading": "Artigo 17.º — Grupos de marítimos",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 17.º — Grupos de marítimos\n\n1 - Os marítimos dividem-se em dois grupos:\n\na) Tripulação;\n\nb) Auxiliar.\n\n2 - O grupo tripulação é constituído pelos marítimos destinados a tripulantes de embarcações de comércio, pesca, rebocadores e embarcações auxiliares.\n\n3 - O grupo auxiliar é constituído pelos marítimos que se empreguem em actividades ligadas à vida do mar mas não se destinem a tripulantes das embarcações referidas no número anterior.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847127": {
+   "fragment_id": "868791124",
+   "type": 11,
+   "heading": "Artigo 18.º — Escalões do grupo tripulação",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 18.º — Escalões do grupo tripulação\n\nO grupo tripulação compreende os seguintes escalões:\n\na) oficiais;\n\nb) Mestrança;\n\nc) Marinhagem.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847128": {
+   "fragment_id": "868791125",
+   "type": 11,
+   "heading": "Artigo 19.º — Categorias do escalão dos oficiais",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 19.º — Categorias do escalão dos oficiais\n\nO escalão dos oficiais compreende as seguintes categorias:\n\na) Capitão da marinha mercante;\n\nb) Piloto-chefe;\n\nc) Piloto de 1.ª classe;\n\nd) Piloto de 2.ª classe;\n\ne) Piloto de 3.ª classe;\n\nf) Praticante de piloto;\n\ng) Capitão pescador;\n\nh) Piloto pescador;\n\ni) Maquinista-chefe;\n\nj) Maquinista de 1.ª classe;\n\nk) Maquinista de 2.ª classe;\n\nl) Maquinista de 3.ª classe;\n\nm) Praticante de maquinista;\n\nn) Médico;\n\no) Comissário-chefe;\n\np) Comissário de 1.ª classe;\n\nq) Comissário de 2.ª classe;\n\nr) Comissário de 3.ª classe;\n\ns) Praticante de comissário;\n\nt) Radiotécnico-chefe;\n\nu) Radiotécnico de 1.ª classe;\n\nv) Radiotécnico de 2.ª classe;\n\nx) Radiotécnico de 3.ª classe;\n\nz) Praticante de radiotécnico.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847129": {
+   "fragment_id": "868791126",
+   "type": 11,
+   "heading": "Artigo 20.º — Categorias do escalão da mestrança",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 20.º — Categorias do escalão da mestrança\n\n1 - O escalão da mestrança compreende as seguintes categorias:\n\na) Mestre costeiro;\n\nb) Contramestre;\n\nc) Bombeiro;\n\nd) Escriturário conferente;\n\ne) Carpinteiro;\n\nf) Mestre do largo pescador;\n\ng) Mestre costeiro pescador;\n\nh) Contramestre pescador;\n\ni) Arrais de pesca;\n\nj) Mestre do tráfego local;\n\nk) Operador de gruas flutuantes;\n\nl) Maquinista prático de 1.ª classe;\n\nm) Maquinista prático de 2.ª classe;\n\nn) Motorista prático de 1.ª classe;\n\no) Motorista prático de 2.ª classe;\n\np) Motorista prático de 3.ª classe;\n\nq) Electricista;\n\nr) Electricista de 2.ª classe;\n\ns) Mecânico de bordo;\n\nt) Artífice;\n\nu) Enfermeiro;\n\nv) Despenseiro;\n\nx) Radiotelegrafista prático da classe A;\n\nz) Radiotelegrafista prático da classe B.\n\n2 - As categorias referidas nas alíneas d), e), x) e z) do número anterior serão extintas quando se verificar o cancelamento da inscrição, ou quando se verificar o ingresso noutra categoria, de todos os marítimos que, à data da entrada em vigor do presente diploma, possuam essas categorias.\n\n3 - As categorias referidas nas alíneas l), m), r) e t) do n.º 1 serão extintas quando todos os marítimos que as possuam, à data da entrada em vigor do presente diploma, tenham a sua inscrição cancelada ou tenham ingressado noutra categoria.\n\n4 - Os inscritos marítimos que, à data da entrada em vigor do presente diploma, possuam as categorias de músico, tipógrafo e cozinheiro de 1.ª classe manter-se-ão nestas categorias até se verificar o cancelamento da sua inscrição, nos termos das alíneas a), b) e d) do n.º 2 do artigo 9.º, ou optem por embarcar ao abrigo do regime previsto no artigo 30.º do presente diploma.\n\n5 - As categorias, acesso e funções dos marítimos do escalão da mestrança que exerçam a sua actividade na pesca de cetáceos são os estabelecidos em regulamento próprio.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847130": {
+   "fragment_id": "868791127",
+   "type": 11,
+   "heading": "Artigo 21.º — Categorias do escalão da marinhagem",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 21.º — Categorias do escalão da marinhagem\n\n1 - O escalão da marinhagem compreende as seguintes categorias:\n\na) Marinheiro de 1.ª classe;\n\nb) Marinheiro de 2.ª classe;\n\nc) Marinheiro pescador;\n\nd) Pescador;\n\ne) Moliceiro;\n\nf) Marinheiro do tráfego local;\n\ng) Marinheiro motorista;\n\nh) Ajudante de motorista;\n\ni) Fogueiro;\n\nj) Ajudante de electricista;\n\nk) Empregado de câmaras;\n\nl) Cozinheiro;\n\nm) Ajudante de cozinheiro.\n\n2 - As categorias referidas nas alíneas i) e j) do número anterior serão extintas quando todos os marítimos que as possuam à data da entrada em vigor do presente diploma ingressem noutra categoria ou tenham a sua inscrição cancelada.\n\n3 - Os inscritos marítimos que, à data da entrada em vigor do presente diploma, possuam as categorias de pasteleiro, padeiro, telefonista, manicure, barbeiro e lavadeiro manter-se-ão nestas categorias até se verificar o cancelamento da sua inscrição nos termos das alíneas a), b) e d) do n.º 2 do artigo 9.º ou optem por embarcar ao abrigo do regime previsto no artigo 30.º do presente diploma.\n\n4 - As categorias, acesso e funções dos marítimos do escalão da marinhagem que exerçam a sua actividade na pesca de cetáceos são os estabelecidos em regulamento próprio.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847131": {
+   "fragment_id": "868791128",
+   "type": 11,
+   "heading": "Artigo 22.º — Categorias do grupo auxiliar",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/94 - Diário da República n.º 12/1994, Série I-A de 1994-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1994-509199), em vigor a partir de 1994-07-14"
+   ],
+   "markdown": "###### Artigo 22.º — Categorias do grupo auxiliar\n\n1 - O grupo auxiliar inclui as seguintes categorias:\n\na) Superintendente da marinha mercante;\n\nb) Mestre encarregado do tráfego local;\n\nc) Vigia da marinha mercante;\n\nd) (Revogado.)\n\ne) (Revogado.)\n\nf) (Revogado.)\n\ng) Apanhador de algas;\n\nh) Banheiro;\n\ni) Ajudante de banheiro;\n\nj) Auxiliar de artes de pesca fixas e móveis.\n\n2 - As categorias referidas nas alíneas h), i) e j) do número anterior serão extintas quando todos os marítimos que as possuam, à data da entrada em vigor do presente diploma, tenham a sua inscrição cancelada ou tenham ingressado noutra categoria.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/94 - Diário da República n.º 12/1994, Série I-A de 1994-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1994-509199), em vigor a partir de 1994-07-14"
+  },
+  "868847132": {
+   "fragment_id": "868791129",
+   "type": 11,
+   "heading": "Artigo 23.º — Funções e acessos",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 23.º — Funções e acessos\n\nAs funções e os requisitos de acesso às diversas categorias profissionais previstas no presente diploma constarão de regulamento a aprovar por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847133": {
+   "fragment_id": "868791130",
+   "type": 11,
+   "heading": "Artigo 24.º — Cursos, exames, tirocínios, certificados e cartas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22",
+    "Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-321970), produz efeitos a partir de 1989-04-11"
+   ],
+   "markdown": "###### Artigo 24.º — Cursos, exames, tirocínios, certificados e cartas\n\n1 - Os cursos, exames e tirocínios exigidos aos marítimos para acesso às categorias profissionais previstas neste diploma constarão de regulamento a aprovar por portaria conjunta dos Ministros da Defesa Nacional, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.\n\n2 - No mesmo diploma serão definidos os diversos tipos de certificados, bem como o regime da sua emissão e das cartas a passar aos marítimos.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22\n\n> Retificado pelo/a [Declaração - Diário da República n.º 148/1989, 1º Suplemento, Série I de 1989-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-321970), produz efeitos a partir de 1989-04-11"
+  },
+  "868847134": {
+   "fragment_id": "868791131",
+   "type": 1,
+   "heading": "Capítulo V — Responsabilidade contra-ordenacional",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "### Capítulo V — Responsabilidade contra-ordenacional\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847135": {
+   "fragment_id": "868791132",
+   "type": 11,
+   "heading": "Artigo 25.º — Princípios gerais de responsabilidade contra-ordenacional",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 25.º — Princípios gerais de responsabilidade contra-ordenacional\n\n1 - Constituem contra-ordenações os comportamentos, como tal tipificados no presente diploma, que infrinjam as suas disposições.\n\n2 - A negligência é sempre punível.\n\n3 - A tentativa é sempre punível, sendo os limites mínimo e máximo previstos no correspondente tipo legal de contra-ordenações reduzidos a metade.\n\n4 - Às contra-ordenações referidas no presente diploma é aplicável, subsidiariamente, o regime geral das contra-ordenações constante do Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847136": {
+   "fragment_id": "868791133",
+   "type": 11,
+   "heading": "Artigo 26.º — Contra-ordenações",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 26.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a ocupação de menores com idade inferior a 16 anos no exercício de funções próprias da profissão de marítimo.\n\n2 - Constitui contra-ordenação grave:\n\na) Sem prejuízo do disposto no n.º 1, o exercício da profissão de marítimo por quem não seja inscrito marítimo;\n\nb) Exercício de actividade por inscrito marítimo sem estar munido dos certificados legalmente exigíveis ou de cédula devidamente actualizada.\n\n3 - Constitui contra-ordenação leve:\n\na) A inscrição simultânea em mais de uma capitania de porto;\n\nb) O exercício de actividade por inscrito marítimo sem estar munido dos certificados legalmente exigíveis ou de cédula actualizada.\n\n4 - Quando ocorram as contra-ordenações previstas no n.º 2 e na alínea b) do número anterior, para além do respectivo autor material, serão punidos o armador da embarcação e o marítimo que detenha o seu comando, salvo se a conduta tiver sido praticada contra instruções expressas destes.\n\n5 - As coimas aplicáveis ao autor material e ao marítimo que comanda a embarcação, nos termos do número anterior, são as correspondentes às infracções aos regimes jurídicos do serviço doméstico e do contrato individual de trabalho a bordo das embarcações de pesca.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+  },
+  "868847137": {
+   "fragment_id": "868791134",
+   "type": 11,
+   "heading": "Artigo 27.º — Destino do montante das coimas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 27.º — Destino do montante das coimas\n\nO montante das coimas aplicadas pelas contra-ordenações previstas neste diploma reverte integralmente para o Estado.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847138": {
+   "fragment_id": "868791135",
+   "type": 11,
+   "heading": "Artigo 28.º — Entidades competentes para a fiscalização, instrução dos processos de contra-ordenações e aplicação das respectivas coimas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 28.º — Entidades competentes para a fiscalização, instrução dos processos de contra-ordenações e aplicação das respectivas coimas\n\n1 - Compete à autoridade marítima a fiscalização do cumprimento do disposto no presente diploma.\n\n2 - A instrução dos processos pela prática das contra-ordenações previstas no presente diploma compete ao capitão do porto da capitania em cuja área ocorreu o facto ilícito, ou ao do porto de registo de embarcação onde se verificou a prática da contra-ordenação, ou ao do primeiro em que essa embarcação entrar.\n\n3 - A aplicação das coimas relativas aos processos de contra-ordenação referidos no número anterior é da competência da entidade que tiver procedido à instrução do respectivo processo.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847139": {
+   "fragment_id": "868791136",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições diversas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "### Capítulo VI — Disposições diversas\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847140": {
+   "fragment_id": "868791137",
+   "type": 11,
+   "heading": "Artigo 29.º — Designações",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 29.º — Designações\n\n1 - O marítimo investido em funções de comando toma a designação genérica:\n\na) De comandante, quando pertencer ao escalão de oficiais;\n\nb) De mestre ou arrais, quando pertencer ao escalão da mestrança;\n\nc) Da respectiva categoria, quando pertencer ao escalão da marinhagem.\n\n2 - O oficial de pilotagem que a bordo for o principal auxiliar do comandante e nessa qualidade o substitui toma a designação genérica de imediato.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847141": {
+   "fragment_id": "868791138",
+   "type": 11,
+   "heading": "Artigo 30.º — Recrutamento de profissionais não marítimos",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 30.º — Recrutamento de profissionais não marítimos\n\n1 - Os indivíduos que sejam contratados por um armador ou seu representante legal e cuja especialidade, comprovada por carteira profissional, quando exista, interesse à operacionalidade dos navios para o exercício de funções que não se integrem no conteúdo funcional das categorias constantes dos artigos 20.º e 21.º não carecem de ser inscritos marítimos e embarcarão mediante licença especial de embarque.\n\n2 - A licença referida no número anterior será concedida:\n\na) No âmbito da marinha da pesca, pelo director-geral das Pescas ou, nas regiões autónomas, pela entidade definida pelos respectivos órgãos de governo próprio;\n\nb) No âmbito da marinha do comércio, pelo director-geral do Pessoal do Mar e Estudos Náuticos.\n\n3 - No âmbito do transporte fluvial colectivo de passageiros, a licença especial de embarque poderá ser concedida, sem indicação dos titulares, quando se trate de funções de natureza permanente e com mutação frequente de quem as exerça.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847142": {
+   "fragment_id": "868791139",
+   "type": 11,
+   "heading": "Artigo 31.º — Exercício de funções diversas",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 31.º — Exercício de funções diversas\n\n1 - Nas embarcações costeiras e nas de tráfego local poderá o inscrito marítimo exercer a respectiva actividade, ainda que a sua categoria corresponda a tipo de navegação diferente.\n\n2 - O exercício da actividade prevista no número anterior carece de autorização, a conceder mediante licença especial para o efeito, pelo capitão do porto de armamento da embarcação.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847143": {
+   "fragment_id": "868791140",
+   "type": 11,
+   "heading": "Artigo 32.º — Validade de documentos emitidos ao abrigo de legislação anterior",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 32.º — Validade de documentos emitidos ao abrigo de legislação anterior\n\nOs documentos emitidos ao abrigo de legislação anterior, nomeadamente diplomas de curso e de exame, certificados e cartas de oficial, mantêm a sua validade, sendo indispensável o seu averbamento no registo e na cédula para que produzam os efeitos a que se destinam.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847144": {
+   "fragment_id": "868791141",
+   "type": 11,
+   "heading": "Artigo 33.º — Formação, matrícula e recrutamento dos marítimos",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 33.º — Formação, matrícula e recrutamento dos marítimos\n\nOs regulamentos relativos à formação, à matrícula e ao recrutamento para embarque dos marítimos serão aprovados:\n\na) Para os marítimos da marinha do comércio, serviços do Estado e serviços das empresas concessionárias do serviço público de transporte fluvial colectivo de passageiros, por portaria do Ministro das Obras Públicas, Transportes e Comunicações;\n\nb) Para os marítimos da pesca, por portaria do Ministro da Agricultura, Pescas e Alimentação.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847145": {
+   "fragment_id": "868791142",
+   "type": 11,
+   "heading": "Artigo 34.º — Legislação revogada",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "###### Artigo 34.º — Legislação revogada\n\n1 - Pelo presente diploma ficam revogadas as correspondentes disposições do Decreto-Lei n.º 45968, de 15 de Outubro de 1964, e as disposições dos títulos I a VII do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo Decreto n.º 45969, de 15 de Outubro de 1964, e as secções II e III do capítulo I do Decreto-Lei n.º 74/73, de 1 de Março.\n\n2 - Enquanto não entrarem em vigor os regulamentos previstos por este diploma, são mantidas, em relação às respectivas matérias, as disposições legais vigentes que não contrariem as ora estabelecidas.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  },
+  "868847146": {
+   "fragment_id": "868791143",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2001-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bassaia Barreto - José Bernardo Veloso Falcão e Cunha.\n\nPromulgado em 11 de Março de 1989.\n\nPublique-se.\n\nO Prsidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Março de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 280/2001 - Diário da República n.º 246/2001, Série I-A de 2001-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2001-584020), em vigor a partir de 2001-11-22"
+  }
+ }
+}

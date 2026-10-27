@@ -1,0 +1,329 @@
+---
+schema_version: '1.0'
+id: pt:dre:543899:por
+title: Decreto Regulamentar n.º 17/2012
+short_title: null
+summary: Aprova a orgânica da Direcção-Geral de Política do Mar
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 17/2012
+official_date: null
+publication_date: '2012-01-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2012, Série I de 2012-01-31
+  number: '22'
+  series: I
+  supplement: null
+  pages: 541 - 543
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/01/02200/0054100543.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-08-23'
+version_history:
+  file: decreto-regulamentar-17-2012.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-01'
+    amending: pt:dre:184108564:por
+    amending_title: Decreto-Lei n.º 38/2022
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Anexo
+  - date: '2023-08-23'
+    amending: pt:dre:220172308:por
+    amending_title: Decreto-Lei n.º 71/2023
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/17/2012/p/cons/20230822/pt/html
+  oj: null
+  dre: '543899'
+  dre_path: /dr/detalhe/decreto-regulamentar/17-2012-543899
+  internal: pt:dre:543899:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2012-543899
+  metadata_url: https://data.dre.pt/eli/decregul/17/2012/p/cons/20230822/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-184243878
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-184243878
+  retrieved_at: '2026-10-22T12:50:50Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c84926f3d3e0433784dcc9a03bffc9210534d1c3bd65a9ed2c7c9425738b1712
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:50:50Z'
+  notes: 3 versão(ões); histórico completo em decreto-regulamentar-17-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Internacional de LUTA contra a Poluição do Atlântico Nordeste
+- Pessoal Dirigente
+- Instituto Portuário e dos Transportes Marítimos
+- Definição de Competências
+- Direcção Geral das Pescas e Aquicultura
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Diretor Geral
+- Protecção do Litoral
+- Estrutura de Missão para os Assuntos do MAR
+- Formas de Provimento
+- Comissão Interministerial para os Assuntos do MAR
+- Estratégia Nacional para o MAR
+- Direção Geral de Política do Mar
+- Oceano Atlântico
+- Orgânica
+- Plano Nacional Marítimo-portuário
+- Quadro de Pessoal
+- Receita
+- Subdirector Geral
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:184108564:por
+  label: Altera Artigo 2.º; Altera Artigo 5.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564
+  date: '2022-05-30'
+- type: amended_by
+  target: pt:dre:220172308:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308
+  date: '2023-08-22'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/3/2011/01/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2011/01/12/p/dre
+- type: cites
+  target: pt:dre:520990:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/146/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/7/2012/01/17/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 12
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:50:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 17/2012
+
+Decreto Regulamentar n.º 17/2012
+
+de 31 de janeiro
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Assim, e em cumprimento do PREMAC, o Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (MAMAOT) iniciou o processo de reorganização dos serviços e organismos por si tutelados, de modo a conferir maior eficiência à sua gestão, bem como a introduzir maior racionalidade no número de cargos de direcção superior e de direcção intermédia.
+
+Neste esforço de reorganização foram tidos em consideração alguns vectores fundamentais, tais como a necessidade de definir as linhas de orientação estratégicas de actuação do MAMAOT no domínio do mar, designadamente no que diz respeito à Estratégia Nacional para o Mar, à política das pescas, da náutica de recreio, dos transportes marítimos, da navegabilidade, da segurança marítima e portuária, no quadro do Sistema de Autoridade Marítima, e da Política Marítima Integrada da União Europeia. Consequentemente, foi criada a Direcção-Geral de Política do Mar (DGPM), que resulta da fusão de competências de três organismos e estruturas distintos. A nova Direcção-Geral assume, assim, a missão e os objectivos inerentes à implementação e actualização da Estratégia Nacional para o Mar da Estrutura de Missão para os Assuntos do Mar (EMAM), bem como as competências da Direcção-Geral das Pescas e Aquicultura e do Instituto Portuário e dos Transportes Marítimos, I. P., no que respeita à definição das linhas de orientação estratégicas nos respectivos sectores, reforçando-se, deste modo, o papel de coordenador da política nacional para os assuntos do mar e de promoção de uma estratégia para o desenvolvimento sustentável do mar.
+
+O novo serviço, atentas as suas atribuições em matéria de política internacional e europeia para o mar, assume ainda o acompanhamento dos trabalhos decorrentes do Acordo de Cooperação para a Protecção das Costas e das Águas do Atlântico Nordeste, nomeadamente os necessários à edificação do Centro de Luta Contra a Poluição no Atlântico Nordeste (CILPAN), extinguindo-se a actual estrutura.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Direcção-Geral de Política do Mar, abreviadamente designada por DGPM, é um serviço central da administração directa do Estado dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGPM tem por missão desenvolver, avaliar e atualizar a Estratégia Nacional para o Mar (ENM), elaborar e propor a política nacional do mar nas suas diversas vertentes, nomeadamente transversais, participar na elaboração de políticas europeias, implementar, gerir, acompanhar e executar os instrumentos de financiamento específicos para o setor do mar, planear e ordenar o espaço marítimo nos seus diferentes usos e atividades, acompanhar e participar no desenvolvimento da Política Marítima Integrada da União Europeia e promover a cooperação nacional e internacional no âmbito do mar, sem prejuízo das competências legalmente atribuídas a outras entidades.
+
+2 - A DGPM prossegue as seguintes atribuições:
+
+a) Desempenhar as funções executivas de apoio à Comissão Interministerial para os Assuntos do Mar (CIAM) necessárias à coordenação, ao acompanhamento, à actualização e à avaliação da implementação da ENM e das medidas e políticas transversais relacionadas com os assuntos do mar aprovadas pelo Governo;
+
+b) Propor à CIAM projectos e medidas específicas que consubstanciem as acções previstas na ENM, bem como coordenar a sua preparação, elaboração e lançamento;
+
+c) Submeter à CIAM parecer sobre as iniciativas legislativas referentes aos assuntos do mar, no âmbito das acções e medidas contempladas na ENM;
+
+d) Coordenar o grupo de pontos focais de alto nível da CIAM e respectivas equipas executivas especializadas;
+
+e) Propor os programas e projectos de acção adequados à implementação e actualização da ENM;
+
+f) Conceber e coordenar acções de comunicação, sensibilização e mobilização da sociedade para a importância do mar;
+
+g) Participar no desenvolvimento da política para a navegabilidade e segurança marítima e portuária;
+
+h) Colaborar na elaboração e revisão do Plano Nacional Marítimo-Portuário e acompanhar a elaboração e dar parecer sobre os instrumentos de planeamento do sector, assegurando a sua articulação com os demais instrumentos de gestão territorial;
+
+i) Dar apoio no desenvolvimento e coordenar a execução da política de ensino e formação no âmbito do sector das pescas, da náutica, dos portos e do transporte marítimo e do conhecimento, investigação e desenvolvimento do mar;
+
+j) Participar no desenvolvimento das políticas para a exploração e utilização dos recursos naturais marinhos;
+
+k) Coordenar a concepção, o desenvolvimento, a implementação e integração dos serviços de controlo de tráfego marítimo e de monitorização do ambiente marinho e da biodiversidade;
+
+l) Desenvolver e coordenar as acções necessárias a um adequado planeamento e ordenamento do espaço marítimo;
+
+m) Acompanhar a execução da Política Marítima Integrada da União Europeia, contribuindo para o seu desenvolvimento, em articulação com o Ministério dos Negócios Estrangeiros;
+
+n) Promover acções de cooperação bilateral e multilateral relacionadas com o mar;
+
+o) Coordenar a representação nacional nos fora internacionais relacionados com o mar que não constitua competência própria de outros órgãos, designadamente no quadro da Organização das Nações Unidas, da União Europeia, e da Comunidade dos Países da Língua Portuguesa, em articulação com o Ministério dos Negócios Estrangeiros;
+
+p) Acompanhar os trabalhos decorrentes do Acordo de Cooperação para a Protecção das Costas e das Águas do Atlântico Nordeste, nomeadamente os necessários à edificação do Centro de Luta Contra a Poluição no Atlântico Nordeste (CILPAN).
+
+q) Apoiar na definição dos instrumentos financeiros e de apoio ao investimento na área do mar, bem como assegurar a sua implementação, gestão, acompanhamento, execução e monitorização, sem prejuízo das competências legalmente atribuídas a outras entidades;
+
+r) Prestar informação e apoio sobre os instrumentos de financiamento disponíveis na área do mar a entidades públicas e privadas;
+
+s) Acompanhar a execução dos instrumentos de financiamento disponíveis na área do mar, em apoio à monitorização e avaliação da ENM.
+
+3 - Cabe, ainda, à DGPM exercer as demais atribuições que lhe sejam legalmente atribuídas.
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 3.º — Órgãos
+
+A DGPM é dirigida por um director-geral, coadjuvado por um subdirector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
+
+###### Artigo 4.º — Director-geral
+
+1 - O director-geral exerce as competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+2 - O subdirector-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, competindo-lhe substituir este último nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+1 - A organização interna da DGPM obedece ao seguinte modelo estrutural misto:
+
+a) Nas áreas de atividade que prosseguem as atribuições previstas no artigo 2.º, o modelo de estrutura hierarquizada;
+
+b) Nas áreas de atividade relativas à gestão de instrumentos financeiros que lhe vierem a ser atribuídos e à gestão e acompanhamento da execução financeira e material de programas e ou projetos, o modelo de estrutura matricial.
+
+2 - Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 71/2023 - Diário da República n.º 162/2023, Série I de 2023-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308), em vigor a partir de 2023-08-23
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 6.º — Receitas
+
+1 - A DGPM dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A DGPM dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;
+
+b) O produto de venda de publicações e de trabalhos por si editados;
+
+c) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;
+
+d) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As quantias cobradas pela DGPM são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas do mar e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da DGPM as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Mapa de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º grau e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 9.º — Sucessão
+
+A DGPM sucede:
+
+a) Na missão e objectivos da Estrutura de Missão para os Assuntos do Mar (EMAM), no domínio da implementação e actualização da ENM;
+
+b) Nas atribuições do Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), no domínio da definição de orientações estratégicas para as vertentes dos transportes marítimos, navegabilidade, segurança marítima e portuária, náutica de recreio e de ensino e formação no sector marítimo-portuário e pescas;
+
+c) Na missão e objectivos da estrutura de projecto para o acompanhamento e monitorização dos trabalhos decorrentes do Acordo de Cooperação para a Protecção das Costas e das Águas do Atlântico Nordeste (CILPAN);
+
+d) Nas atribuições da Direcção-Geral das Pescas e Aquicultura (DGPA), no domínio da definição das linhas de orientação estratégicas para o sector das pescas e aquicultura.
+
+###### Artigo 10.º — Critérios de selecção de pessoal
+
+São fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições da DGPM:
+
+a) O desempenho de funções na EMAM, directamente relacionadas com a implementação e actualização da ENM;
+
+b) O desempenho de funções no IPTM, I. P., directamente relacionadas com a definição de orientações estratégicas para as vertentes dos transportes marítimos, navegabilidade, segurança marítima e portuária, náutica de recreio e de ensino e formação no sector marítimo-portuário e pescas, bem como as respectivas áreas de suporte transferidas para a DGPM;
+
+c) O desempenho de funções na DGPA, directamente relacionadas com a definição das linhas de orientação estratégicas para o sector das pescas e aquicultura.
+
+###### Artigo 11.º — Efeitos revogatórios
+
+Nos termos do artigo 39.º do Decreto-Lei n.º 7/2012, de 17 de Janeiro, consideram-se revogados, na data de entrada em vigor do presente decreto regulamentar:
+
+a) O Decreto-Lei n.º 146/2007, de 27 de Abril, na parte relativa às atribuições que transitam para a DGPM, referidas na alínea b) do artigo 9.º;
+
+b) A Resolução do Conselho de Ministros n.º 3/2011, de 12 de Janeiro, na parte relativa à missão e objectivos correspondentes inerentes à implementação e actualização da ENM;
+
+c) O Despacho Conjunto n.º 1146-A/2000, de 6 de Dezembro, publicado no Diário da República, 2.ª série, n.º 285, de 12 de Dezembro;
+
+d) O Despacho Conjunto n.º 235/2005, de 29 de Dezembro de 2004, publicado no Diário da República, 2.ª série, n.º 51, de 14 de Março de 2005.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 18 de Janeiro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 27 de Janeiro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — (a que se refere o artigo 8.º)
+
+Mapa de pessoal dirigente
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01

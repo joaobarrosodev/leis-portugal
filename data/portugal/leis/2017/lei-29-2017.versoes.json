@@ -1,0 +1,489 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107094724:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2017-150546996",
+ "dre_path": "/dr/detalhe/lei/29-2017-107094724",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "150465754",
+    "150465755",
+    "150465756",
+    "150465757",
+    "150465758",
+    "150465759",
+    "150465760",
+    "150465761",
+    "150465762",
+    "150465763",
+    "150465764",
+    "150465765",
+    "150465766",
+    "150465767",
+    "150465768",
+    "150465769",
+    "150465770",
+    "150465771",
+    "150465772",
+    "150465773",
+    "150465774",
+    "150666575",
+    "150666576",
+    "150666577",
+    "150666578",
+    "150666579",
+    "150666580",
+    "150666581",
+    "150666582",
+    "150666583",
+    "150666584"
+   ]
+  },
+  {
+   "date": "2020-12-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150570705:por",
+     "title": "Decreto-Lei n.º 101-E/2020",
+     "published": "2020-12-07",
+     "dre_path": "/dr/detalhe/decreto-lei/101-e-2020-150570705"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 3.º-B",
+    "Adita Artigo 3.º-C",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "150465754",
+    "150465755",
+    "150465756",
+    "150465757",
+    "150465758",
+    "150666629",
+    "150666632",
+    "150666635",
+    "150666638",
+    "150666639",
+    "150465761",
+    "150666640",
+    "150666641",
+    "150666642",
+    "150465765",
+    "150666643",
+    "150465767",
+    "150465768",
+    "150666644",
+    "150666645",
+    "150465771",
+    "150465772",
+    "150465773",
+    "150465774",
+    "150666575",
+    "150666646",
+    "150666577",
+    "150666578",
+    "150666579",
+    "150666580",
+    "150666581",
+    "150666582",
+    "150666583",
+    "150666584",
+    "150666585"
+   ]
+  }
+ ],
+ "fragments": {
+  "150465754": {
+   "fragment_id": "150546997",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 29/2017\n\nde 30 de maio\n\nTranspõe a Diretiva 2014/67/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa ao destacamento de trabalhadores no âmbito de uma prestação de serviços\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "150465755": {
+   "fragment_id": "150546998",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "150465756": {
+   "fragment_id": "150546999",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei transpõe para a ordem jurídica interna a Diretiva 2014/67/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, respeitante à execução da Diretiva 96/71/CE, do Parlamento Europeu e do Conselho, de 16 de dezembro de 1996, relativa ao destacamento de trabalhadores no âmbito de uma prestação de serviços, e que altera o Regulamento (UE) n.º 1024/2012, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo à cooperação administrativa através do Sistema de Informação do Mercado Interno."
+  },
+  "150465757": {
+   "fragment_id": "150547000",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente lei é aplicável:\n\na) Às situações de destacamento de trabalhadores em território português;\n\nb) Às situações de destacamento de trabalhadores para outro Estado membro, por prestadores de serviços estabelecidos em Portugal, abrangidas pelos artigos 6.º a 8.º do Código do Trabalho."
+  },
+  "150465758": {
+   "fragment_id": "150547001",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para os efeitos da presente lei, considera-se:\n\na) «Autoridade competente», a entidade ou organismo com competência na área da inspeção laboral;\n\nb) «Autoridade requerente», a autoridade competente de um Estado membro que apresenta um pedido de assistência, informação, notificação ou cobrança de uma sanção pecuniária de caráter administrativo ou coima, nos termos da presente lei;\n\nc) «Autoridade requerida», a autoridade competente de um Estado membro à qual é apresentado um pedido de informação, notificação ou cobrança de uma sanção pecuniária de caráter administrativo ou coima, nos termos da presente lei.\n\n2 - Para efeitos da presente lei, a autoridade competente nacional é a Autoridade para as Condições do Trabalho (ACT), que intervém como:\n\na) Autoridade requerente de pedidos de notificação ou de pedidos de cobrança de uma sanção pecuniária de caráter administrativo ou coima, resultantes do não cumprimento das normas aplicáveis relativas ao destacamento de trabalhadores, no caso de destacamento de trabalhadores em território português por um prestador de serviços estabelecido em outro Estado membro;\n\nb) Autoridade requerida de pedidos de notificação ou de pedidos de cobrança de uma sanção pecuniária de caráter administrativo ou coima, resultantes do não cumprimento das normas aplicáveis relativas ao destacamento de trabalhadores, no caso de destacamento de trabalhadores noutro Estado membro por um prestador de serviços estabelecido em Portugal."
+  },
+  "150465759": {
+   "fragment_id": "150547002",
+   "type": 11,
+   "heading": "Artigo 4.º — Verificação de situações de destacamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Verificação de situações de destacamento\n\n1 - Para verificar a situação de trabalhador temporariamente destacado em território português, a prestar a sua atividade nas condições previstas nos n.os 1 e 2 do artigo 6.º do Código do Trabalho, a autoridade competente considera, nomeadamente, os seguintes elementos que caracterizam o trabalho e a situação do trabalhador:\n\na) O trabalho é realizado por um período limitado;\n\nb) O trabalho é realizado a partir da data em que tem início o destacamento;\n\nc) O trabalhador não desempenha habitualmente as suas funções em território português;\n\nd) O trabalhador destacado regressa, ou deve retomar a sua atividade no Estado membro de que foi destacado, após a conclusão do trabalho ou da prestação de serviços na origem do destacamento;\n\ne) As despesas de viagem, alimentação ou alojamento são asseguradas ou reembolsadas pelo empregador que destaca o trabalhador e, se aplicável, o modo como essas despesas são asseguradas ou o método de reembolso;\n\nf) A natureza da atividade do trabalhador;\n\ng) Os anteriores destacamentos daquele trabalhador ou outro para o mesmo posto de trabalho.\n\n2 - Para verificar se uma empresa exerce atividades que ultrapassam o âmbito da gestão interna ou administrativa no Estado membro em que está estabelecida, a autoridade competente considera, nomeadamente, os seguintes elementos que caracterizam essa atividade:\n\na) O local onde estão situadas a sede social e a administração da empresa, onde esta tem escritórios, paga impostos e contribuições para a segurança social e, se for aplicável, onde está autorizada a exercer a sua atividade;\n\nb) O local de recrutamento dos trabalhadores destacados e a partir do qual os mesmos são destacados;\n\nc) A legislação aplicável aos contratos celebrados pela empresa com os seus trabalhadores;\n\nd) O local onde a empresa exerce o essencial da sua atividade comercial e onde emprega pessoal administrativo;\n\ne) O número de contratos executados, o montante do volume de negócios realizado no Estado membro de estabelecimento, a dimensão da empresa e a sua data de início de laboração;\n\nf) A natureza da atividade da empresa e das atividades realizadas pelo trabalhador.\n\n3 - A ausência de um ou mais elementos previstos nos números anteriores não impede que uma situação seja caracterizada como destacamento."
+  },
+  "150465760": {
+   "fragment_id": "150547003",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acesso à informação\n\n1 - As informações relativas às condições de trabalho a que o trabalhador destacado em território português tem direito, previstas no artigo 7.º do Código do Trabalho, são divulgadas em sítio oficial na Internet a nível nacional, segundo formatos e normas que assegurem o acesso a pessoas com deficiência.\n\n2 - A divulgação de informação referida no número anterior deve ser feita de forma clara e exaustiva.\n\n3 - A autoridade competente promove ainda:\n\na) O acesso às informações referidas no n.º 1, que devem ser respeitadas pelos prestadores de serviços de outros Estados membros, através do sítio oficial na Internet e por outros meios adequados;\n\nb) A difusão, no sítio oficial na Internet e por outros meios adequados, das informações sobre os organismos e as entidades aos quais os trabalhadores se podem dirigir para obter informações sobre a legislação e as práticas nacionais que lhes são aplicáveis quanto aos seus direitos e obrigações, incluindo sobre as convenções coletivas aplicáveis;\n\nc) A divulgação, no sítio oficial na Internet e por outros meios adequados, das ligações a sítios na Internet relevantes e a outros pontos de contacto, em especial dos parceiros sociais pertinentes;\n\nd) A disponibilização gratuita, em português e nas línguas mais pertinentes em função da procura no mercado de trabalho, de informações sobre direitos e deveres laborais aos trabalhadores destacados e prestadores de serviços;\n\ne) O acesso, de forma gratuita, a informações mais pormenorizadas sobre condições laborais e sociais aplicáveis aos trabalhadores destacados, incluindo em matéria de segurança e saúde no local de trabalho;\n\nf) A indicação no sítio oficial na Internet do contacto do serviço e da pessoa, ou pessoas, responsáveis pela prestação de informações, no âmbito da autoridade competente;\n\ng) A atualização da informação prestada nas fichas sobre cada país.\n\n4 - Sem prejuízo do disposto nos números anteriores, quando as condições de trabalho resultem de contratação coletiva, as informações a prestar ao trabalhador são articuladas com os respetivos parceiros sociais e dizem respeito:\n\na) Às diferentes remunerações salariais mínimas e seus elementos constitutivos;\n\nb) Ao método de cálculo das remunerações; e\n\nc) Aos critérios de classificação nas diferentes categorias salariais, quando pertinente.\n\n5 - As informações previstas na alínea d) do n.º 3 podem ser disponibilizadas em formato de folheto, no qual sejam resumidas as principais condições de trabalho aplicáveis, incluindo a descrição dos procedimentos para apresentação de queixas e, se solicitado, em formatos acessíveis às pessoas com deficiência."
+  },
+  "150465761": {
+   "fragment_id": "150547004",
+   "type": 1,
+   "heading": "Capítulo II — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Cooperação administrativa"
+  },
+  "150465762": {
+   "fragment_id": "150547005",
+   "type": 11,
+   "heading": "Artigo 6.º — Cooperação administrativa e assistência mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cooperação administrativa e assistência mútua\n\n1 - A cooperação administrativa e assistência mútua entre Portugal e os outros Estados membros concretiza-se pela autoridade competente, nomeadamente, através:\n\na) Da resposta a pedidos de informação justificados das autoridades competentes de outros Estados membros;\n\nb) Da realização de inspeções, de verificações e investigações delas decorrentes, em relação às situações de destacamento em território português, designadamente em caso de não cumprimento ou abuso das regras aplicáveis aos trabalhadores destacados;\n\nc) Do envio e notificação de documentos.\n\n2 - Os pedidos referidos na alínea a) do número anterior incluem a informação respeitante a uma eventual cobrança de uma sanção pecuniária de caráter administrativo ou coima, ou a notificação de uma decisão que a imponha.\n\n3 - Quando existirem dificuldades em satisfazer um pedido referido na alínea a) do n.º 1 ou em realizar as inspeções, ou as verificações e investigações delas decorrentes, a ACT informa imediatamente o Estado membro requerente dos obstáculos encontrados.\n\n4 - Caso persistam problemas na troca de informações ou havendo recusa permanente em fornecer os dados solicitados, a autoridade competente informa a Comissão Europeia.\n\n5 - Sem prejuízo dos pedidos referidos na alínea a) do n.º 1, a autoridade competente toma as medidas adequadas no sentido de investigar e prevenir violações do disposto na presente lei.\n\n6 - A cooperação administrativa e assistência mútua são prestadas gratuitamente."
+  },
+  "150465763": {
+   "fragment_id": "150547006",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedidos de informação\n\n1 - A autoridade competente faculta as informações solicitadas por outros Estados membros ou pela Comissão Europeia, por via eletrónica, nos seguintes prazos:\n\na) Até dois dias úteis a contar da data de receção do pedido, nos casos urgentes, devidamente fundamentados, que requerem a consulta de registos;\n\nb) Até 25 dias úteis a contar da data de receção do pedido, em relação a todos os outros pedidos de informação, exceto quando seja mutuamente acordado um prazo mais curto.\n\n2 - Os registos em que os prestadores estão inscritos no território nacional, incluídos no Sistema de Informação do Mercado Interno (IMI), estabelecido pelo Regulamento (UE) n.º 1024/2012, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, e aos quais as autoridades nacionais têm acesso, podem também ser consultados, nas mesmas condições, pelas autoridades competentes equivalentes do Estado membro requerente.\n\n3 - As informações trocadas, para efeitos da aplicação da presente lei, entre a autoridade competente e as autoridades competentes equivalentes de outros Estados membros, devem ser exclusivamente utilizadas para o fim, ou fins, para que foram solicitadas."
+  },
+  "150465764": {
+   "fragment_id": "150547007",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências específicas da autoridade competente no âmbito da cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências específicas da autoridade competente no âmbito da cooperação administrativa\n\n1 - No âmbito da cooperação administrativa e assistência mútua, a que se referem os artigos 6.º e 7.º, cabe à autoridade competente disponibilizar as informações sobre os prestadores de serviços ou os serviços prestados, respeitantes:\n\na) À legalidade do estabelecimento;\n\nb) À ausência de infrações do prestador de serviços às regras aplicáveis;\n\nc) Ao cumprimento dos deveres de comunicação previstos no Código do Trabalho.\n\n2 - A verificação de factos e o controlo em relação às situações de destacamento de trabalhadores em território português são efetuados pela autoridade competente, por iniciativa própria, ou a pedido das autoridades competentes do Estado membro de estabelecimento, de acordo com o disposto no artigo 10.º e em conformidade com as competências de fiscalização legalmente previstas."
+  },
+  "150465765": {
+   "fragment_id": "150547008",
+   "type": 1,
+   "heading": "Capítulo III — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Controlo e fiscalização"
+  },
+  "150465766": {
+   "fragment_id": "150547009",
+   "type": 11,
+   "heading": "Artigo 9.º — Medidas de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas de controlo\n\n1 - Para garantir o controlo do cumprimento das obrigações estabelecidas na presente lei, relativas ao destacamento de trabalhadores em território português, o prestador de serviços está obrigado a:\n\na) Apresentar uma declaração, até ao início da prestação de serviços, a qual deve conter:\n\ni) A identidade do prestador de serviços;\n\nii) O número e a identificação dos trabalhadores a destacar;\n\niii) A identificação da pessoa a que se refere a alínea d);\n\niv) A duração prevista e as datas previstas para o início e o fim do destacamento;\n\nv) O endereço do local, ou locais, de trabalho;\n\nvi) A natureza dos serviços que justificam o destacamento;\n\nb) Conservar cópias, em papel ou em formato eletrónico:\n\ni) Do contrato de trabalho, ou documento escrito com informação sobre os aspetos relevantes do contrato de trabalho previsto no Código do Trabalho;\n\nii) Dos recibos de retribuição;\n\niii) Dos registos de tempos de trabalho com indicação do início, do fim e da duração do tempo de trabalho diário;\n\niv) Dos comprovativos do pagamento da retribuição;\n\nc) Apresentar, até ao limite de um ano após a cessação do destacamento, os documentos referidos na alínea anterior quando notificado pela autoridade competente;\n\nd) Designar uma pessoa para estabelecer a ligação com a autoridade competente e para enviar e receber documentos e informações, bem como, se for o caso, para articular com os parceiros sociais em matéria de negociação coletiva.\n\n2 - A declaração referida na alínea a) do número anterior deve observar o formulário disponibilizado no sítio oficial na Internet, referido no n.º 1 do artigo 5.º, e ser remetida por via eletrónica à autoridade competente, a quem compete efetuar os controlos factuais no local de trabalho indicado.\n\n3 - A declaração referida na alínea a) do n.º 1 e os documentos previstos na alínea b) do mesmo número, quando solicitados para os efeitos do artigo seguinte, são apresentados em português ou acompanhados de uma tradução certificada nos termos legais.\n\n4 - Os documentos referidos na alínea b) do n.º 1 devem ser conservados durante todo o período de destacamento e estar disponíveis num local acessível e claramente identificado no território português, nomeadamente:\n\na) No local de trabalho indicado na declaração;\n\nb) No estaleiro de construção;\n\nc) Na base de operações ou o veículo com o qual o serviço é fornecido.\n\n5 - O disposto neste artigo aplica-se, com as devidas adaptações, ao destacamento de trabalhadores em território português por prestador de serviços estabelecido num Estado que não seja Estado membro.\n\n6 - Constitui contraordenação grave a violação do disposto nos n.os 1, 3 e 4 e contraordenação leve a comunicação da declaração em violação do disposto no n.º 2."
+  },
+  "150465767": {
+   "fragment_id": "150547010",
+   "type": 11,
+   "heading": "Artigo 10.º — Inspeções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Inspeções\n\n1 - A autoridade competente realiza as inspeções necessárias, a fim de assegurar a aplicação da presente lei aos destacamentos de trabalhadores no âmbito de uma prestação de serviços realizada em território português.\n\n2 - Sem prejuízo da realização de verificações aleatórias, as inspeções referidas no número anterior baseiam-se numa avaliação de risco, em que são identificados os setores de atividade nos quais se concentra, no território português, o emprego de trabalhadores destacados para a prestação de serviços.\n\n3 - Para efeitos da avaliação de risco referida no número anterior, podem igualmente ser tidos em conta, designadamente:\n\na) A realização de grandes projetos de infraestrutura;\n\nb) A existência de longas cadeias de subcontratação;\n\nc) A proximidade geográfica;\n\nd) Os problemas e necessidades de setores específicos;\n\ne) O historial de infrações;\n\nf) A vulnerabilidade de certos grupos de trabalhadores.\n\n4 - Nas situações de destacamento de trabalhadores por um prestador de serviços estabelecido em Portugal, a autoridade competente continua a assegurar, nos termos legalmente previstos, o acompanhamento, o controlo e a adoção de medidas de supervisão e execução que sejam necessárias, em cooperação com o Estado membro de acolhimento, para garantir a conformidade com as condições de trabalho aplicáveis.\n\n5 - Nas situações de destacamento referidas nos números anteriores e quando existam factos que indiciem eventuais irregularidades, a autoridade competente comunica, por iniciativa própria, sem demora injustificada, ao Estado membro em causa quaisquer informações relevantes."
+  },
+  "150465768": {
+   "fragment_id": "150547011",
+   "type": 1,
+   "heading": "Capítulo IV — Proteção dos direitos dos trabalhadores destacados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Proteção dos direitos dos trabalhadores destacados"
+  },
+  "150465769": {
+   "fragment_id": "150547012",
+   "type": 11,
+   "heading": "Artigo 11.º — Defesa dos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Defesa dos direitos\n\n1 - Em caso de incumprimento das condições de trabalho previstas no artigo 7.º do Código do Trabalho, o trabalhador destacado em território português tem direito:\n\na) A apresentar queixa contra o empregador, junto da autoridade competente; e\n\nb) A instaurar ação judicial em tribunal competente por eventuais danos resultantes desse incumprimento, mesmo após a cessação da respetiva relação laboral, nos termos da lei.\n\n2 - As organizações sindicais e outros terceiros, tais como associações e outras organizações jurídicas que tenham um interesse legítimo, de acordo com os seus estatutos, em garantir o cumprimento do disposto na presente lei, bem como das normas previstas no Código do Trabalho relativas a destacamento de trabalhadores, têm legitimidade processual para intervir em nome ou em apoio do trabalhador destacado ou do seu empregador, desde que exista autorização expressa da pessoa representada.\n\n3 - O trabalhador destacado que exerça os direitos referidos no n.º 1, diretamente ou através das organizações referidas no número anterior, é protegido, nos termos do previsto nos artigos 24.º e 25.º do Código do Trabalho, contra qualquer tratamento discriminatório por parte do empregador por causa desse exercício.\n\n4 - O empregador do trabalhador destacado, ainda que este tenha regressado ao Estado membro de estabelecimento, é responsável por quaisquer obrigações devidas nos termos da lei, que resultem da respetiva relação laboral, em especial:\n\na) Por quaisquer retribuições líquidas em atraso;\n\nb) Por quaisquer pagamentos em atraso ou reembolsos de impostos ou contribuições para a segurança social indevidamente retidas da retribuição do trabalhador;\n\nc) Pelo reembolso de quaisquer montantes em relação à retribuição líquida ou do alojamento, retidos ou deduzidos da retribuição para pagamento do alojamento fornecido pelo empregador;\n\nd) Pelas quotizações do empregador devidas a fundos comuns ou a organizações de parceiros sociais, se for caso disso, indevidamente retidas das retribuições do trabalhador."
+  },
+  "150465770": {
+   "fragment_id": "150547013",
+   "type": 11,
+   "heading": "Artigo 12.º — Responsabilidade na subcontratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Responsabilidade na subcontratação\n\n1 - Nas situações de destacamento abrangidas pelo artigo 6.º do Código do Trabalho e para efeitos das condições de trabalho previstas no artigo 7.º do mesmo Código, o contratante a quem o serviço é prestado é solidariamente responsável por qualquer retribuição líquida em atraso correspondente à retribuição mínima legal, convencional ou garantida por contrato de trabalho, devida ao trabalhador destacado pelo prestador de serviços, enquanto subcontratante direto.\n\n2 - A responsabilidade referida no número anterior é limitada aos direitos do trabalhador adquiridos no âmbito da relação contratual entre o contratante e o prestador de serviços, enquanto subcontratante direto."
+  },
+  "150465771": {
+   "fragment_id": "150547014",
+   "type": 1,
+   "heading": "Capítulo V — Execução transfronteiriça de sanções pecuniárias de caráter administrativo ou coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Execução transfronteiriça de sanções pecuniárias de caráter administrativo ou coimas"
+  },
+  "150465772": {
+   "fragment_id": "150547015",
+   "type": 11,
+   "heading": "Artigo 13.º — Âmbito das medidas e procedimentos de execução transfronteiriça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Âmbito das medidas e procedimentos de execução transfronteiriça\n\n1 - Os princípios de assistência mútua, as medidas e os procedimentos previstos no presente capítulo aplicam-se:\n\na) Ao pedido de notificação da decisão das autoridades administrativas ou judiciais de outros Estados membros que impõe uma sanção pecuniária de caráter administrativo ou coima;\n\nb) Ao pedido de execução de decisões das autoridades administrativas ou judiciais portuguesas que aplicam coimas, relativas ao destacamento de trabalhadores em território português por um prestador de serviços estabelecido noutro Estado membro;\n\nc) Ao reconhecimento e execução, em território português, das decisões das autoridades administrativas ou judiciais de outros Estados membros que aplicam sanções pecuniárias de caráter administrativo ou coimas, relativas ao destacamento de trabalhadores noutro Estado membro por um prestador de serviços estabelecido em Portugal.\n\n2 - O presente capítulo é aplicável às sanções pecuniárias de caráter administrativo ou coimas, incluindo taxas e sobretaxas, impostas pelas autoridades competentes, ou confirmadas por órgãos administrativos ou judiciais, relacionadas com o não cumprimento das normas relativas ao destacamento de trabalhadores."
+  },
+  "150465773": {
+   "fragment_id": "150547016",
+   "type": 11,
+   "heading": "Artigo 14.º — Pedidos de cobrança e de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pedidos de cobrança e de notificação\n\n1 - A autoridade requerente de um pedido de cobrança de uma sanção pecuniária de caráter administrativo ou coima, ou de um pedido de notificação da decisão que a impõe, efetua os pedidos tempestivamente, através de instrumento uniforme.\n\n2 - O instrumento uniforme referido no número anterior, transmitido nos termos do artigo 20.º, indica, designadamente:\n\na) O nome, o endereço conhecido do destinatário e outras informações ou dados relevantes para a sua identificação;\n\nb) Um resumo dos factos e das circunstâncias da infração, a natureza do delito e as regras pertinentes aplicáveis;\n\nc) O instrumento que permite a execução em território nacional e todas as outras informações ou documentos importantes, incluindo os de natureza judicial, relativos à queixa correspondente, à sanção pecuniária de caráter administrativo ou à coima;\n\nd) O nome, o endereço e outros elementos de contacto da autoridade competente responsável pela apreciação da sanção pecuniária de caráter administrativo ou coima e, se for diferente, do organismo competente para facultar mais informações sobre a sanção administrativa ou coima;\n\ne) A possibilidade de contestação da obrigação de pagamento ou da decisão que a impõe.\n\n3 - Para além do disposto no número anterior, o pedido indica:\n\na) No caso da notificação de uma decisão, a finalidade da notificação e o prazo em que deve ser efetuada;\n\nb) No caso de cobrança:\n\ni) A data em que a sentença ou a decisão transitou em julgado ou se tornou definitiva;\n\nii) Uma descrição da natureza e do montante da sanção pecuniária de caráter administrativo ou coima;\n\niii) As datas relevantes para o processo de execução, incluindo se, e de que modo, a sentença ou a decisão foi notificada ao requerido ou requeridos, ou proferida à revelia;\n\niv) A confirmação da autoridade requerente de que a sanção administrativa ou coima não é passível de recurso;\n\nv) A queixa que originou o processo e os elementos que a compõem.\n\n4 - A autoridade competente, enquanto autoridade requerida, toma todas as medidas necessárias, em conformidade com o regime processual aplicável às contraordenações laborais, para, no prazo máximo de um mês a contar da receção do pedido:\n\na) Notificar o prestador de serviços da decisão que impõe uma sanção pecuniária de caráter administrativo ou coima e dos documentos pertinentes do pedido;\n\nb) Proceder ao envio do pedido de cobrança de uma sanção pecuniária de caráter administrativo ou coima para os tribunais portugueses, bem como de outros documentos pertinentes.\n\n5 - A autoridade competente, enquanto autoridade requerida, informa, logo que possível, a autoridade requerente:\n\na) Do seguimento dado ao pedido de cobrança e notificação e, especificamente, da data em que o destinatário foi notificado;\n\nb) Dos motivos de recusa da execução de pedido de cobrança de uma sanção pecuniária de caráter administrativo ou coima ou da notificação de decisão que imponha uma sanção administrativa ou coima, nos termos previstos no presente capítulo."
+  },
+  "150465774": {
+   "fragment_id": "150547017",
+   "type": 11,
+   "heading": "Artigo 15.º — Assistência mútua em pedidos de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Assistência mútua em pedidos de notificação\n\n1 - Em situação de destacamento de trabalhadores em território português por um prestador de serviços estabelecido noutro Estado membro, e na impossibilidade de notificação de uma decisão que impõe uma coima aplicada de acordo com a legislação portuguesa, a autoridade competente requer à autoridade competente do Estado membro de estabelecimento a realização dessa notificação.\n\n2 - Em situação de destacamento de trabalhadores para outro Estado membro por uma empresa estabelecida em Portugal, a autoridade competente, enquanto autoridade requerida do pedido de notificação de decisão que impõe uma sanção pecuniária de caráter administrativo ou coima aplicada pelo Estado membro de acolhimento, procede à notificação sem mais formalidades, sem prejuízo do disposto no n.º 1 do artigo 17.º\n\n3 - Na situação referida no número anterior, a autoridade competente, enquanto autoridade requerida, age em conformidade com a legislação portuguesa aplicável às mesmas infrações ou decisões ou, não havendo, a infrações ou decisões semelhantes, sem prejuízo de se considerarem produzidos os mesmos efeitos como se a notificação tivesse sido efetuada pelo Estado membro requerente."
+  },
+  "150666575": {
+   "fragment_id": "150547018",
+   "type": 11,
+   "heading": "Artigo 16.º — Assistência mútua e reconhecimento de pedidos de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Assistência mútua e reconhecimento de pedidos de cobrança\n\n1 - Em situação de destacamento de trabalhadores em território português por um prestador de serviços estabelecido noutro Estado membro a quem não tenha sido possível cobrar uma coima a que foi condenado, quando a decisão se tenha tornado definitiva ou transitado em julgado, a ACT requer à autoridade competente do Estado membro de estabelecimento a realização dessa cobrança.\n\n2 - Na situação referida no número anterior, a ACT, enquanto autoridade requerente do pedido de cobrança, dá conhecimento de qualquer documento pertinente relativo à cobrança da coima, incluindo a sentença ou a decisão definitiva sob a forma de uma cópia autenticada, que constitua nos termos da legislação nacional o título definitivo do pedido de cobrança.\n\n3 - Em situação de destacamento de trabalhadores para outro Estado membro por uma empresa estabelecida em Portugal, a ACT, enquanto autoridade requerida de um pedido de cobrança de uma sanção pecuniária de caráter administrativo ou coima, reconhece essa decisão sem mais formalidades quando acompanhada do instrumento uniforme e confirmada pela autoridade requerente de que não é passível de recurso, transmitida nos termos do artigo 20.º, e toma imediatamente todas as medidas necessárias para a sua execução, sem prejuízo dos motivos de recusa previstos no presente capítulo.\n\n4 - Na situação referida no número anterior, a ACT desencadeia o processo de cobrança junto dos tribunais competentes para o efeito, em conformidade com o disposto na Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto, considerando-se produzidos os mesmos efeitos como se a cobrança tivesse sido efetuada pelo Estado membro requerente."
+  },
+  "150666576": {
+   "fragment_id": "150547019",
+   "type": 11,
+   "heading": "Artigo 17.º — Motivos de recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Motivos de recusa\n\n1 - A ACT, enquanto autoridade requerida, não é obrigada a executar um pedido de cobrança ou a proceder à notificação de uma decisão se o pedido não contiver a informação referida nos n.os 1 a 3 do artigo 14.º, for incompleto ou manifestamente não corresponder à decisão a que se refere.\n\n2 - Sem prejuízo do disposto no número anterior, a ACT, enquanto autoridade requerida, pode recusar-se a executar um pedido de cobrança quando:\n\na) Na sequência de inquéritos realizados pela autoridade competente requerida, é manifesto que os custos ou recursos previstos necessários para a cobrança da sanção pecuniária de caráter administrativo ou coima são desproporcionados em relação ao montante a cobrar ou dariam origem a grandes dificuldades;\n\nb) A sanção pecuniária de caráter administrativo ou coima total é inferior a (euro) 350 ou ao equivalente deste montante;\n\nc) Não são respeitados direitos e liberdades fundamentais de defesa, bem como princípios jurídicos que se lhe aplicam nos termos consagrados na Constituição."
+  },
+  "150666577": {
+   "fragment_id": "150547020",
+   "type": 11,
+   "heading": "Artigo 18.º — Suspensão do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Suspensão do procedimento\n\n1 - O procedimento de execução transfronteiriça da sanção administrativa ou coima aplicada é suspenso na pendência da decisão da instância ou da autoridade competente na matéria do Estado membro requerente se, no decurso do procedimento de cobrança ou notificação, o prestador de serviços em causa, ou uma parte interessada, impugnar a sanção pecuniária de caráter administrativo ou coima ou a queixa correspondente, ou recorrer das mesmas, nos termos previstos na lei.\n\n2 - Qualquer impugnação deve ser feita, ou o recurso deve ser interposto, junto da instância ou autoridade competente do Estado membro requerente.\n\n3 - A autoridade requerente deve notificar imediatamente a autoridade requerida da referida contestação.\n\n4 - Os litígios relativos às medidas de execução ordenadas no Estado membro requerido ou à validade de uma notificação efetuada por uma autoridade requerida são dirimidos pela instância competente ou autoridade judicial desse Estado membro, nos termos da legislação aplicável."
+  },
+  "150666578": {
+   "fragment_id": "150547021",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Despesas\n\n1 - Os montantes cobrados, respeitantes às sanções pecuniárias de caráter administrativo ou coimas impostas por outro Estado membro em relação a situações de destacamento de trabalhadores por um prestador de serviços estabelecido em Portugal, revertem a favor da autoridade competente, enquanto autoridade requerida, nos termos da Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto.\n\n2 - Os montantes cobrados nos termos do número anterior são devidos em euros, de acordo com a legislação aplicável a pedidos semelhantes em Portugal.\n\n3 - A autoridade requerida, se necessário, converte o montante da sanção pecuniária de caráter administrativo ou coima à taxa de câmbio em vigor no momento em que foi imposta a sanção administrativa ou coima, nos termos legalmente previstos.\n\n4 - O Estado Português renuncia, em condições de reciprocidade, a reclamar qualquer restituição de despesas resultantes da assistência e cooperação que tenha prestado ao abrigo da presente lei."
+  },
+  "150666579": {
+   "fragment_id": "150547022",
+   "type": 11,
+   "heading": "Artigo 20.º — Sistema de Informação do Mercado Interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sistema de Informação do Mercado Interno\n\nA cooperação administrativa e a assistência mútua entre as autoridades competentes dos Estados membros previstas na presente lei são estabelecidas através do Sistema de Informação do Mercado Interno (IMI), previsto no Regulamento (UE) n.º 1024/2012, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012."
+  },
+  "150666580": {
+   "fragment_id": "150547023",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "150666581": {
+   "fragment_id": "150547024",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime das contraordenações\n\n1 - O regime de responsabilidade contraordenacional previsto nos artigos 548.º a 566.º do Código do Trabalho aplica-se às infrações por violação da presente lei.\n\n2 - As contraordenações e os procedimentos de notificação e cobrança de sanção pecuniária de caráter administrativo ou coima, previstos na presente lei, seguem o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto, bem como o disposto no artigo seguinte."
+  },
+  "150666582": {
+   "fragment_id": "150547025",
+   "type": 11,
+   "heading": "Artigo 22.º — Procedimentos de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Procedimentos de cobrança\n\n1 - Nos casos de execução da sanção pecuniária de caráter administrativo ou coima, quando o prestador de serviços não pagar voluntariamente uma coima aplicada na sequência de um processo de contraordenações e tenha cessado o destacamento, a ACT pode declarar a impossibilidade de cobrança e iniciar o procedimento previsto no artigo 16.º da presente lei, não sendo necessário recorrer ao regime geral das contraordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n2 - Quando o processo contraordenacional se encontre no tribunal competente para proceder à execução da sanção pecuniária de caráter administrativo ou coima, na sequência do seu envio pela ACT para impugnação judicial ou para execução, este apenas procede à execução quando sejam conhecidos bens penhoráveis do prestador de serviços que se afigurem suficientes face ao valor da execução, abstendo-se de executar quando o montante seja inferior aos custos e despesas prováveis da execução.\n\n3 - Quando o tribunal competente não procede à execução nos termos do número anterior, devolve o respetivo processo à ACT, para que esta o reenvie à autoridade competente requerente no prazo de 10 dias, para os efeitos previstos no artigo 16.º, equivalendo este reenvio como declaração de impossibilidade de cobrança."
+  },
+  "150666583": {
+   "fragment_id": "150547026",
+   "type": 11,
+   "heading": "Artigo 23.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regiões autónomas\n\nSem prejuízo das competências legais próprias, as competências atribuídas pela presente lei às autoridades e serviços administrativos são, nas regiões autónomas, exercidas pelos órgãos e serviços das respetivas administrações regionais."
+  },
+  "150666584": {
+   "fragment_id": "150547027",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "150666629": {
+   "fragment_id": "150547073",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Condições de trabalho de trabalhador destacado",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 3.º-A — Condições de trabalho de trabalhador destacado\n\n1 - Sem prejuízo de regime mais favorável constante de lei ou contrato de trabalho e do estabelecido no artigo 7.º do Código do Trabalho, o trabalhador destacado tem direito, com base na igualdade de tratamento, às condições de trabalho previstas na lei e em instrumentos de regulamentação coletiva de eficácia geral aplicável que respeitem a:\n\na) Condições de alojamento, quando disponibilizado pelo empregador;\n\nb) Subsídios, abonos ou reembolsos destinados a cobrir exclusivamente as despesas de viagem, de alimentação e de alojamento efetuadas por trabalhadores destacados que tenham de se deslocar de e para o seu local de trabalho habitual do destacamento ou que sejam enviados temporariamente para outro local de trabalho.\n\n2 - O trabalhador contratado por uma empresa estabelecida em Portugal, que preste atividade no território de outro Estado, tem direito às condições de trabalho previstas no presente artigo, sem prejuízo de regime mais favorável constante da lei aplicável ou do contrato.\n\n3 - Constitui contraordenação grave a violação do disposto nos números anteriores.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666632": {
+   "fragment_id": "150547074",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Trabalho temporário",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 3.º-B — Trabalho temporário\n\n1 - Sem prejuízo de regime mais favorável constante de lei ou contrato de trabalho e do estabelecido no artigo 7.º do Código do Trabalho e no artigo anterior, os trabalhadores destacados por empresas de trabalho temporário têm direito a todas as condições de trabalho aplicáveis aos trabalhadores temporários cedidos por empresas de trabalho temporário estabelecidas em Portugal.\n\n2 - A empresa utilizadora informa as empresas de trabalho temporário das condições de trabalho que aplica, incluindo a retribuição.\n\n3 - O trabalhador contratado por uma empresa de trabalho temporário estabelecida em Portugal, que preste atividade no território de outro Estado, tem direito às condições de trabalho referidas no n.º 1, sem prejuízo de regime mais favorável constante da lei aplicável ou do contrato.\n\n4 - Nas situações em que um trabalhador temporário tenha sido cedido a uma empresa utilizadora e deva executar um trabalho no âmbito da prestação transnacional de serviços, num Estado diferente do destacamento, a empresa utilizadora deve informar a empresa de trabalho temporário desse facto antes do início do trabalho.\n\n5 - Nos casos de cedência ilícita do trabalhador temporário, em incumprimento do número anterior, considera-se que este se encontra destacado, no território do Estado onde se encontra a executar o trabalho, pela empresa de trabalho temporário com a qual tem uma relação de trabalho.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666635": {
+   "fragment_id": "150666675",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Destacamento de longa duração",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 3.º-C — Destacamento de longa duração\n\n1 - Quando a duração efetiva do destacamento seja superior a 12 meses, independentemente da lei aplicável à relação de trabalho, para além das condições referidas no n.º 1 do artigo 3.º-A, os trabalhadores destacados têm direito a todas as condições de trabalho previstas na lei e em instrumento de regulamentação coletiva de eficácia geral aplicável.\n\n2 - O disposto no número anterior não é aplicável quanto a procedimentos, formalidades e condições de celebração e de cessação do contrato de trabalho, incluindo cláusulas de não concorrência, bem como no que se refere a regimes profissionais complementares de pensões.\n\n3 - Mediante comunicação fundamentada à ACT, da qual conste a indicação das razões que justificam o prolongamento do destacamento, as condições referidas no n.º 1 são aplicáveis após 18 meses de duração efetiva.\n\n4 - Nos casos em que a duração previsível inicial do destacamento seja inferior a 12 meses, a comunicação prevista no número anterior deve ser efetuada com a antecedência mínima de 30 dias relativamente ao termo desse período.\n\n5 - Nas situações em que se verifique a substituição de um trabalhador destacado, por outro trabalhador destacado, a duração do destacamento corresponde à duração acumulada dos períodos de destacamento de todos esses trabalhadores, desde que tenham sido destacados para efetuar a mesma tarefa, no mesmo local, tendo em conta a natureza do serviço a prestar, o trabalho a executar e o local de trabalho.\n\n6 - O trabalhador contratado por uma empresa estabelecida em Portugal, que preste atividade no território de outro Estado, tem direito às condições de trabalho referidas no n.º 1, sem prejuízo de regime mais favorável constante da lei aplicável ou do contrato.\n\n7 - Constitui contraordenação grave a violação do disposto nos n.os 1 e 6.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705) O disposto no artigo 3.º-C aplica-se aos destacamentos iniciados antes da entrada em vigor do presente decreto-lei, mas só produz os efeitos nele previstos, quanto às condições de trabalho aplicáveis, a partir do momento em que atinjam uma duração efetiva superior a 12 meses.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666638": {
+   "fragment_id": "150547002",
+   "type": 11,
+   "heading": "Artigo 4.º — Verificação de situações de destacamento",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 4.º — Verificação de situações de destacamento\n\n1 - Para verificar a situação de trabalhador temporariamente destacado em território português, a prestar a sua atividade nas condições previstas nos n.os 1 e 2 do artigo 6.º do Código do Trabalho, a autoridade competente considera, nomeadamente, os seguintes elementos que caracterizam o trabalho e a situação do trabalhador:\n\na) O trabalho é realizado por um período limitado;\n\nb) O trabalho é realizado a partir da data em que tem início o destacamento;\n\nc) O trabalhador não desempenha habitualmente as suas funções em território português;\n\nd) O trabalhador destacado regressa, ou deve retomar a sua atividade no Estado membro de que foi destacado, após a conclusão do trabalho ou da prestação de serviços na origem do destacamento;\n\ne) As despesas de viagem, alimentação ou alojamento são asseguradas ou reembolsadas pelo empregador que destaca o trabalhador e, se aplicável, o modo como essas despesas são asseguradas ou o método de reembolso;\n\nf) A natureza da atividade do trabalhador;\n\ng) Os anteriores destacamentos daquele trabalhador ou outro para o mesmo posto de trabalho;\n\nh) A existência e condições de alojamento, quando disponibilizadas pelo empregador;\n\ni) A retribuição, os subsídios e abonos inerentes ao destacamento, presumindo-se que estes são pagos a título de reembolso de despesas de viagem, de alimentação e de alojamento, quando não se determinem quais os elementos que são pagos a título de retribuição.\n\n2 - Para verificar se uma empresa exerce atividades que ultrapassam o âmbito da gestão interna ou administrativa no Estado membro em que está estabelecida, a autoridade competente considera, nomeadamente, os seguintes elementos que caracterizam essa atividade:\n\na) O local onde estão situadas a sede social e a administração da empresa, onde esta tem escritórios, paga impostos e contribuições para a segurança social e, se for aplicável, onde está autorizada a exercer a sua atividade;\n\nb) O local de recrutamento dos trabalhadores destacados e a partir do qual os mesmos são destacados;\n\nc) A legislação aplicável aos contratos celebrados pela empresa com os seus trabalhadores;\n\nd) O local onde a empresa exerce o essencial da sua atividade comercial e onde emprega pessoal administrativo;\n\ne) O número de contratos executados, o montante do volume de negócios realizado no Estado membro de estabelecimento, a dimensão da empresa e a sua data de início de laboração;\n\nf) A natureza da atividade da empresa e das atividades realizadas pelo trabalhador.\n\n3 - A ausência de um ou mais elementos previstos nos números anteriores não impede que uma situação seja caracterizada como destacamento.\n\n4 - Se a autoridade competente apurar que uma empresa, de forma abusiva ou fraudulenta, criou a impressão de que o enquadramento de um trabalhador é suscetível de ser considerado como destacamento, deve assegurar que esse trabalhador não pode, em caso algum, ficar sujeito a condições de trabalho menos favoráveis do que as aplicáveis aos trabalhadores destacados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666639": {
+   "fragment_id": "150547003",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso à informação",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 5.º — Acesso à informação\n\n1 - As informações relativas às condições de trabalho a que o trabalhador destacado em território português tem direito, previstas no artigo 7.º do Código do Trabalho e nos artigos 3.º-A, 3.º-B e 3.º-C da presente lei, são divulgadas em sítio oficial na Internet a nível nacional, segundo formatos e normas que assegurem o acesso a pessoas com deficiência.\n\n2 - A divulgação de informação referida no número anterior deve ser feita de forma clara e exaustiva.\n\n3 - A autoridade competente promove ainda:\n\na) O acesso às informações referidas no n.º 1, que devem ser respeitadas pelos prestadores de serviços de outros Estados membros, através do sítio oficial na Internet e por outros meios adequados;\n\nb) A difusão, no sítio oficial na Internet e por outros meios adequados, das informações sobre os organismos e as entidades aos quais os trabalhadores se podem dirigir para obter informações sobre a legislação e as práticas nacionais que lhes são aplicáveis quanto aos seus direitos e obrigações, incluindo sobre as convenções coletivas aplicáveis;\n\nc) A divulgação, no sítio oficial na Internet e por outros meios adequados, das ligações a sítios na Internet relevantes e a outros pontos de contacto, em especial dos parceiros sociais pertinentes;\n\nd) A disponibilização gratuita, em português e nas línguas mais pertinentes em função da procura no mercado de trabalho, de informações sobre direitos e deveres laborais aos trabalhadores destacados e prestadores de serviços;\n\ne) O acesso, de forma gratuita, a informações mais pormenorizadas sobre condições laborais e sociais aplicáveis aos trabalhadores destacados, nomeadamente em matéria de:\n\ni) Segurança e saúde no local trabalho;\n\nii) Retribuição, incluindo os seus elementos constitutivos, nos termos da lei ou de regulamentação coletiva de trabalho de eficácia geral aplicável;\n\niii) Condições de trabalho aplicáveis no âmbito de destacamentos de duração efetiva superior a 12 meses, ou a 18 meses, quando aplicável, nos termos do artigo 3.º-C;\n\niv) Condições de trabalho que respeitem a cedência de trabalhadores por parte de empresa de trabalho temporário;\n\nf) A indicação no sítio oficial na Internet do contacto do serviço e da pessoa, ou pessoas, responsáveis pela prestação de informações, no âmbito da autoridade competente;\n\ng) A atualização da informação prestada nas fichas sobre cada país.\n\n4 - Sem prejuízo do disposto nos números anteriores, quando as condições de trabalho resultem de contratação coletiva, as informações a prestar ao trabalhador são articuladas com os respetivos parceiros sociais e dizem respeito:\n\na) Às diferentes remunerações salariais mínimas e seus elementos constitutivos;\n\nb) Ao método de cálculo das remunerações; e\n\nc) Aos critérios de classificação nas diferentes categorias salariais, quando pertinente.\n\n5 - As informações previstas na alínea d) do n.º 3 podem ser disponibilizadas em formato de folheto, no qual sejam resumidas as principais condições de trabalho aplicáveis, incluindo a descrição dos procedimentos para apresentação de queixas e, se solicitado, em formatos acessíveis às pessoas com deficiência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666640": {
+   "fragment_id": "150547005",
+   "type": 11,
+   "heading": "Artigo 6.º — Cooperação administrativa e assistência mútua",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 6.º — Cooperação administrativa e assistência mútua\n\n1 - A cooperação administrativa e assistência mútua entre Portugal e os outros Estados membros concretiza-se pela autoridade competente, nomeadamente, através:\n\na) Da resposta a pedidos de informação justificados das autoridades competentes de outros Estados membros;\n\nb) Da realização de inspeções, de verificações e investigações delas decorrentes, em relação às situações de destacamento em território português, designadamente em caso de não cumprimento ou abuso das regras aplicáveis aos trabalhadores destacados;\n\nc) Do envio e notificação de documentos.\n\n2 - Os pedidos referidos na alínea a) do número anterior incluem a informação respeitante a uma eventual cobrança de uma sanção pecuniária de caráter administrativo ou coima, ou a notificação de uma decisão que a imponha.\n\n3 - Quando existirem atrasos persistentes e dificuldades em satisfazer um pedido referido na alínea a) do n.º 1, nomeadamente por não possuir as informações solicitadas pelo Estado-Membro em cujo território o trabalhador está destacado ou em realizar as inspeções, ou as verificações e investigações delas decorrentes, a ACT solicita tais informações a outras autoridades e entidades que sejam competentes em razão de matéria e informa imediatamente o Estado-Membro requerente dos obstáculos encontrados.\n\n4 - Caso persistam problemas na troca de informações ou havendo recusa permanente em fornecer os dados solicitados, a autoridade competente informa a Comissão Europeia.\n\n5 - Sem prejuízo dos pedidos referidos na alínea a) do n.º 1, a autoridade competente toma as medidas adequadas no sentido de investigar e prevenir violações do disposto na presente lei.\n\n6 - A cooperação administrativa e assistência mútua são prestadas gratuitamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666641": {
+   "fragment_id": "150547006",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos de informação",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 7.º — Pedidos de informação\n\n1 - A autoridade competente faculta as informações solicitadas por outros Estados membros ou pela Comissão Europeia, por via eletrónica, nos seguintes prazos:\n\na) Até dois dias úteis a contar da data de receção do pedido, nos casos urgentes, devidamente fundamentados, que requerem a consulta de registos;\n\nb) Até 25 dias úteis a contar da data de receção do pedido, em relação a todos os outros pedidos de informação, exceto quando seja mutuamente acordado um prazo mais curto.\n\n2 - Em caso de verificação de atrasos persistentes na resposta aos pedidos de informação solicitados pela autoridade competente do Estado-Membro em cujo território o trabalhador está destacado, a ACT deve observar o disposto nos n.os 3 e 4 do artigo anterior.\n\n3 - Os registos em que os prestadores estão inscritos no território nacional, incluídos no Sistema de Informação do Mercado Interno (IMI), estabelecido pelo Regulamento (UE) n.º 1024/2012, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, e aos quais as autoridades nacionais têm acesso, podem também ser consultados, nas mesmas condições, pelas autoridades competentes equivalentes do Estado membro requerente.\n\n4 - As informações trocadas, para efeitos da aplicação da presente lei, entre a autoridade competente e as autoridades competentes equivalentes de outros Estados membros, devem ser exclusivamente utilizadas para o fim, ou fins, para que foram solicitadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666642": {
+   "fragment_id": "150547007",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências específicas da autoridade competente no âmbito da cooperação administrativa",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 8.º — Competências específicas da autoridade competente no âmbito da cooperação administrativa\n\n1 - No âmbito da cooperação administrativa e assistência mútua, a que se referem os artigos 6.º e 7.º, cabe à autoridade competente disponibilizar as informações sobre os prestadores de serviços ou os serviços prestados, respeitantes:\n\na) À legalidade do estabelecimento;\n\nb) À ausência de infrações do prestador de serviços às regras aplicáveis;\n\nc) Ao cumprimento dos deveres de comunicação previstos no Código do Trabalho;\n\nd) À cedência transnacional de trabalhadores e ao combate a atividades ilícitas, nomeadamente o trabalho não declarado ou o falso trabalho independente, relacionados com o destacamento.\n\n2 - A verificação de factos e o controlo em relação às situações de destacamento de trabalhadores em território português são efetuados pela autoridade competente, por iniciativa própria, ou a pedido das autoridades competentes do Estado membro de estabelecimento, de acordo com o disposto no artigo 10.º e em conformidade com as competências de fiscalização legalmente previstas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666643": {
+   "fragment_id": "150547009",
+   "type": 11,
+   "heading": "Artigo 9.º — Medidas de controlo",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 9.º — Medidas de controlo\n\n1 - Para garantir o controlo do cumprimento das obrigações estabelecidas na presente lei, relativas ao destacamento de trabalhadores em território português, o prestador de serviços está obrigado a:\n\na) Apresentar uma declaração, até ao início da prestação de serviços, a qual deve conter:\n\ni) A identidade do prestador de serviços;\n\nii) O número e a identificação dos trabalhadores a destacar;\n\niii) A identificação da pessoa a que se refere a alínea d);\n\niv) A duração prevista e as datas previstas para o início e o fim do destacamento;\n\nv) O endereço do local, ou locais, de trabalho;\n\nvi) A natureza dos serviços que justificam o destacamento;\n\nb) Conservar cópias, em papel ou em formato eletrónico:\n\ni) Do contrato de trabalho, ou documento escrito com informação sobre os aspetos relevantes do contrato de trabalho previsto no Código do Trabalho;\n\nii) Dos recibos de retribuição, contendo a discriminação dos seus elementos constitutivos, incluindo os subsídios, abonos e reembolsos de despesas inerentes ao destacamento;\n\niii) Dos registos de tempos de trabalho com indicação do início, do fim e da duração do tempo de trabalho diário;\n\niv) Dos comprovativos do pagamento da retribuição;\n\nc) Apresentar, até ao limite de um ano após a cessação do destacamento, os documentos referidos na alínea anterior quando notificado pela autoridade competente;\n\nd) Designar uma pessoa para estabelecer a ligação com a autoridade competente e para enviar e receber documentos e informações, bem como, se for o caso, para articular com os parceiros sociais em matéria de negociação coletiva.\n\n2 - A declaração referida na alínea a) do número anterior deve observar o formulário disponibilizado no sítio oficial na Internet, referido no n.º 1 do artigo 5.º, e ser remetida por via eletrónica à autoridade competente, a quem compete efetuar os controlos factuais no local de trabalho indicado.\n\n3 - A declaração referida na alínea a) do n.º 1 e os documentos previstos na alínea b) do mesmo número, quando solicitados para os efeitos do artigo seguinte, são apresentados em português ou acompanhados de uma tradução certificada nos termos legais.\n\n4 - Os documentos referidos na alínea b) do n.º 1 devem ser conservados durante todo o período de destacamento e estar disponíveis num local acessível e claramente identificado no território português, nomeadamente:\n\na) No local de trabalho indicado na declaração;\n\nb) No estaleiro de construção;\n\nc) Na base de operações ou o veículo com o qual o serviço é fornecido.\n\n5 - O disposto neste artigo aplica-se, com as devidas adaptações, ao destacamento de trabalhadores em território português por prestador de serviços estabelecido num Estado que não seja Estado membro.\n\n6 - Constitui contraordenação grave a violação do disposto nos n.os 1, 3 e 4 e contraordenação leve a comunicação da declaração em violação do disposto no n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666644": {
+   "fragment_id": "150547012",
+   "type": 11,
+   "heading": "Artigo 11.º — Defesa dos direitos",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 11.º — Defesa dos direitos\n\n1 - Em caso de incumprimento das condições de trabalho previstas no artigo 7.º do Código do Trabalho e no artigo 3.º-A da presente lei, o trabalhador destacado em território português tem direito:\n\na) A apresentar queixa contra o empregador, junto da autoridade competente; e\n\nb) A instaurar ação judicial em tribunal competente por eventuais danos resultantes desse incumprimento, mesmo após a cessação da respetiva relação laboral, nos termos da lei.\n\n2 - As organizações sindicais e outros terceiros, tais como associações e outras organizações jurídicas que tenham um interesse legítimo, de acordo com os seus estatutos, em garantir o cumprimento do disposto na presente lei, bem como das normas previstas no Código do Trabalho relativas a destacamento de trabalhadores, têm legitimidade processual para intervir em nome ou em apoio do trabalhador destacado ou do seu empregador, desde que exista autorização expressa da pessoa representada.\n\n3 - O trabalhador destacado que exerça os direitos referidos no n.º 1, diretamente ou através das organizações referidas no número anterior, é protegido, nos termos do previsto nos artigos 24.º e 25.º do Código do Trabalho, contra qualquer tratamento discriminatório por parte do empregador por causa desse exercício.\n\n4 - O empregador do trabalhador destacado, ainda que este tenha regressado ao Estado membro de estabelecimento, é responsável por quaisquer obrigações devidas nos termos da lei, que resultem da respetiva relação laboral, em especial:\n\na) Por quaisquer retribuições líquidas em atraso;\n\nb) Por quaisquer pagamentos em atraso ou reembolsos de impostos ou contribuições para a segurança social indevidamente retidas da retribuição do trabalhador;\n\nc) Pelo reembolso de quaisquer montantes em relação à retribuição líquida ou do alojamento, retidos ou deduzidos da retribuição para pagamento do alojamento fornecido pelo empregador;\n\nd) Pelas quotizações do empregador devidas a fundos comuns ou a organizações de parceiros sociais, se for caso disso, indevidamente retidas das retribuições do trabalhador.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666645": {
+   "fragment_id": "150547013",
+   "type": 11,
+   "heading": "Artigo 12.º — Responsabilidade na subcontratação",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 12.º — Responsabilidade na subcontratação\n\n1 - Nas situações de destacamento abrangidas pelos artigos 6.º e 8.º do Código do Trabalho e para efeitos das condições de trabalho previstas no artigo 7.º do mesmo Código e no artigo 3.º-A da presente lei, o contratante a quem o serviço é prestado é solidariamente responsável nos termos do n.º 4 do artigo 551.º do referido Código, bem como por qualquer retribuição líquida em atraso correspondente à retribuição mínima legal, convencional ou garantida por contrato de trabalho, devida ao trabalhador destacado pelo prestador de serviços, enquanto subcontratante direto.\n\n2 - A responsabilidade referida no número anterior é limitada aos direitos do trabalhador adquiridos no âmbito da relação contratual entre o contratante e o prestador de serviços, enquanto subcontratante direto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666646": {
+   "fragment_id": "150547019",
+   "type": 11,
+   "heading": "Artigo 17.º — Motivos de recusa",
+   "in_force_from": "2020-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+   ],
+   "markdown": "###### Artigo 17.º — Motivos de recusa\n\n1 - A ACT, enquanto autoridade requerida, não é obrigada a aceitar ou desencadear um pedido de cobrança ou a proceder à notificação de uma decisão se o pedido não contiver a informação referida nos n.os 1 a 3 do artigo 14.º, for incompleto ou manifestamente não corresponder à decisão a que se refere.\n\n2 - Sem prejuízo do disposto no número anterior, a ACT, enquanto autoridade requerida, pode recusar-se a desencadear o processo de cobrança quando:\n\na) Na sequência de inquéritos realizados pela autoridade competente requerida, é manifesto que os custos ou recursos previstos necessários para a cobrança da sanção pecuniária de caráter administrativo ou coima são desproporcionados em relação ao montante a cobrar ou dariam origem a grandes dificuldades;\n\nb) A sanção pecuniária de caráter administrativo ou coima total é inferior a (euro) 350 ou ao equivalente deste montante;\n\nc) Não são respeitados direitos e liberdades fundamentais de defesa, bem como princípios jurídicos que se lhe aplicam nos termos consagrados na Constituição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-E/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705), em vigor a partir de 2020-12-09"
+  },
+  "150666585": {
+   "fragment_id": "150547028",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 7 de abril de 2017.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 22 de maio de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 24 de maio de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

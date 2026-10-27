@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:927679776:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-927729705",
+ "dre_path": "/dr/detalhe/portaria/276-2025-927679776",
+ "source_lastmod": "2026-01-05",
+ "versions": [
+  {
+   "date": "2025-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "927642049",
+    "927642050",
+    "927642051",
+    "927642052",
+    "927642053",
+    "927642055"
+   ]
+  },
+  {
+   "date": "2025-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:992879819:por",
+     "title": "Portaria n.º 480/2025/1",
+     "published": "2025-12-29",
+     "dre_path": "/dr/detalhe/portaria/480-2025-992879819"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "927642049",
+    "927642050",
+    "927642051",
+    "993031351",
+    "927642053",
+    "927642054",
+    "927642055"
+   ]
+  }
+ ],
+ "fragments": {
+  "927642049": {
+   "fragment_id": "927729706",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 276/2025/1\n\nde 4 de agosto\n\nO Decreto-Lei n.º 47/2022, de 12 de julho, procedeu à sétima alteração ao Decreto-Lei n.º 42/2017, de 6 de abril, que regula o regime geral do Catálogo Nacional de Variedades de Espécies Agrícolas e de Espécies Hortícolas, bem como a produção, o controlo, a certificação e a comercialização de sementes de espécies agrícolas e de espécies hortícolas, com exceção das utilizadas para fins ornamentais.\n\nO artigo 3.º do Decreto-Lei n.º 47/2022, de 12 de julho, veio estabelecer que os protocolos de distinção, homogeneidade e estabilidade (DHE), as condições mínimas para os exames de variedades vegetais e os regulamentos técnicos a que se refere o Decreto-Lei n.º 42/2017, de 6 de abril, são aprovados por portaria do membro do Governo responsável pela área da agricultura, tendo para o efeito sido publicada a Portaria n.º 247/2022, de 27 de setembro.\n\nA Portaria n.º 247/2022, de 27 de setembro, integrou a transposição para o ordenamento jurídico nacional da Diretiva de Execução (UE) 2022/905, da Comissão, que altera as Diretivas 2003/90/CE e 2003/91/CE, ambas da Comissão, no que diz respeito aos protocolos de exame de determinadas variedades de espécies de plantas agrícolas e de espécies de plantas hortícolas.\n\nA Portaria n.º 247/2022, de 27 de setembro, foi pela primeira vez alterada pela Portaria n.º 67/2023, de 6 de março, integrando a transposição para o direito nacional da Diretiva de Execução (UE) 2022/1647, da Comissão, que altera a Diretiva 2003/90/CE no que diz respeito a uma derrogação aplicável às variedades biológicas de espécies de plantas agrícolas adequadas à produção biológica, e da Diretiva de Execução (UE) 2022/1648, da Comissão, que altera a Diretiva 2003/91/CE no que diz respeito a uma derrogação aplicável às variedades biológicas de espécies de plantas hortícolas adequadas à produção biológica.\n\nA Portaria n.º 385/2023, de 22 de novembro, procedeu à segunda alteração da Portaria n.º 247/2022, de 27 de setembro, transpondo para a ordem jurídica nacional a Diretiva de Execução (UE) 2023/1438, da Comissão, de 10 de julho de 2023, que alterou as Diretivas 2003/90/CE e 2003/91/CE.\n\nRecentemente, foi aprovada a Diretiva de Execução (UE) 2024/2963, da Comissão, que altera as Diretivas 2003/90/CE e 2003/91/CE relativamente aos protocolos de exame de determinadas variedades de espécies de plantas agrícolas e de espécies hortícolas, e que importa agora transpor.\n\nEsta diretiva veio atualizar os protocolos vigentes, nomeadamente, no que respeita a batata, cártamo, couve-flor, couve-brócolo, couves-de-bruxelas, couve-rábano, couve-lombarda, couve-repolho, couve-roxa, melancia, alface, rabanete, alface-de-cordeiro e portaenxertos de tomate.\n\nFoi, igualmente, aprovada a Diretiva de Execução (UE) 2024/3010, da Comissão, que altera as Diretivas 2002/55/CE, 2002/57/CE, do Conselho, e a Diretiva 93/61/CEE, da Comissão, no que concerne a listagem de pragas dos vegetais em sementes e outro material de reprodução vegetal, impondo-se a sua transposição.\n\nEsta diretiva veio aditar requisitos relativos ao Tobacco ringspot vírus no que diz respeito a Glycine max (L.) Merr. (sementes de soja), estabelecendo um limiar de tolerância de 0 % para esta praga em todas as categorias de semente desta espécie. Esta diretiva altera também a Diretiva 2002/55/CE, prevendo requisitos relativos a presença de ToBRFV em sementes de Capsicum annuum L., pimento, com exceção de sementes pertencentes a uma variedade reconhecidamente resistente ao ToBRFV, e a presença dessa praga em sementes de Solanum lycopersicum L. (tomate) e seus híbridos. Esta alteração vem também estabelecer um limiar de tolerância de 0 % para a presença da praga em sementes dessas espécies.\n\nPor fim, aproveitou-se a oportunidade para conferir um maior rigor às disposições constantes dos anexos I e II da Portaria n.º 247/2022, de 27 de setembro. De igual modo, procedeu-se à atualização dos anexos VI e VII, em conformidade com o estabelecido na Diretiva de Execução (UE) 2020/177, da Comissão, no que diz respeito a listagem de pragas dos vegetais em sementes e outro material de reprodução vegetal.\n\nAssim:\n\nNos termos do disposto no artigo 3.º do Decreto-Lei n.º 47/2022, de 12 de julho, manda o Governo, pelo Ministro da Agricultura e Mar, no uso das competências previstas no artigo 27.º do Decreto-Lei n.º 87-A/2025, de 25 de julho, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, o seguinte:"
+  },
+  "927642050": {
+   "fragment_id": "927729707",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria procede à terceira alteração à Portaria n.º 247/2022, de 27 de setembro, alterada pelas Portarias n.<sup>os</sup> 67/2023, de 6 de março, e 385/2023, de 22 de novembro, que aprova os protocolos de distinção, homogeneidade e estabilidade (DHE), as condições mínimas para os exames de variedades vegetais e os regulamentos técnicos a que se refere o Decreto-Lei n.º 42/2017, de 6 de abril, na sua redação atual.\n\n2 - A presente portaria altera os anexos I, II, VI e VII da Portaria n.º 247/2022, de 27 de setembro, na sua redação atual, transpondo para o direito nacional:\n\na) A Diretiva de Execução (UE) 2024/2963, da Comissão, que altera as Diretivas 2003/90/CE e 2003/91/CE, no que diz respeito aos protocolos de exame de determinadas variedades de espécies de plantas agrícolas e de espécies hortícolas;\n\nb) A Diretiva de Execução (UE) 2024/3010, da Comissão, que altera as Diretivas 2002/55/CE e 2002/57/CE, do Conselho, no que diz respeito à listagem de pragas dos vegetais em sementes e outro material de reprodução vegetal."
+  },
+  "927642051": {
+   "fragment_id": "927729708",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração aos anexos I, II, VI e VII da Portaria n.º 247/2022, de 27 de setembro, na sua redação atual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração aos anexos I, II, VI e VII da Portaria n.º 247/2022, de 27 de setembro, na sua redação atual\n\nOs anexos I, II, VI e VII da Portaria n.º 247/2022, de 27 de setembro, na sua redação atual, são alterados conforme o disposto no anexo à presente portaria, da qual faz parte integrante."
+  },
+  "927642052": {
+   "fragment_id": "927729709",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\nAos exames oficiais de variedades referidas nos anexos I e II da Portaria n.º 247/2022, de 27 de setembro, na sua redação atual, iniciados antes de 1 de junho de 2025 que ainda não se encontrem concluídos, aplicam-se as Diretivas 2003/90/CE e 2003/91/CE, na versão anterior à conferida pela Diretiva de Execução (UE) 2024/2963, da Comissão."
+  },
+  "927642053": {
+   "fragment_id": "927729710",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "927642055": {
+   "fragment_id": "927729712",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\n«ANEXO I\n\nPARTE A\n\n[…]\n\n| Nome científico | Designação comum | Protocolos ICVV (*) |\n| --- | --- | --- |\n| […] | […] | […] |\n| Avena sativa L. (inclui A. Byzantina K. Koch) | Aveia | TP 20/03, de 6 de março de 2020. |\n| […] | […] | […] |\n| Brassica napus L. var. napobrassica (L.) Rchb. | Swede | TP 89/1, de 1 de março de 2015. |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| Medicago sativa L. | Luzerna | TP 6/1 corr. de 22 de dezembro de 2021. |\n| Medicago x varia T. Martyn | Luzerna-híbrida | TP 6/1 corr. de 22 de dezembro de 2021. |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| Pisum sativum L. (partim) | Ervilha-forrageira | TP 7/2 rev. 3 corr. de 6 de março de 2020. |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| Sinapis alba L. | Mostarda-branca | TP 179/1, de 15 de março de 2017. |\n| Solanum tuberosum L. | Batata | TP 23/4, de 28 de novembro de 2023. |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| Triticum aestivum L. subsp. estivum | Trigo | TP 3/5, de 19 de março de 2019. |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n\n[…]\n\nPARTE B\n\n[…]\n\n| Nome científico | Designação comum | Princípios diretores UPOV (*) |\n| --- | --- | --- |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| Arachis hypogaea L. | Amendoim | TG/93/4, de 9 de abril de 2014. |\n| […] | […] | […] |\n| […] | […] | […] |\n| Brassica rapa L. var. silvestris (Lam.)Briggs | Nabita | TG/185/3, de 17 de abril de 2002. |\n| […] | […] | […] |\n| […] | […] | […] |\n| Carthamus tinctorius L. | Cártamo | TG/134/4, de 24 de outubro de 2023. |\n| […] | […] | […] |\n| […] | […] | […] |\n| Lupinus angustifolius L. | Tremoceiro-de-folhas-estreitas | TG/66/4, de 31 de março de 2004. |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| Medicago littoralis Rohde ex Loisel | Luzerna-do-litoral | TG/228/1, de 5 de abril de 2006. |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n| […] | […] | […] |\n\n[…]\n[…]\n\nPARTE C\n\n[…]\n\n1 - […]\n\n2 - […]\n\n3 - […]\n\n4 - […]\n\n5 - […]\n\nANEXO II\n\n[…]\n[…]\n\nPARTE A\n\n[…]\n\nNome científico\n\nDesignação comum\n\nProtocolos ICVV (*)\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\nBrassica oleracea L.\n\nCouve-flor\n\nTP 45/2 rev. 3 de 11 de abril de 2024.\n\nBrassica oleracea L.\n\nCouve-brócolo\n\nTP 151/2 rev. 3 corr. de 11 de abril de 2024.\n\nBrassica oleracea L.\n\nCouves-de-bruxelas\n\nTP 54/2 rev. 2 de 11 de abril de 2024.\n\nBrassica oleracea L.\n\nCouve-rábano\n\nTP 65/2 rev. de 11 de abril de 2024.\n\nBrassica oleracea L.\n\nCouve-lombarda, couve-repolho e couve-roxa\n\nTP 48/3 rev. 3 de 11 de abril de 2024.\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\nCichorium intybus L.\n\nChicória-industrial\n\nTP 172/2 de 1 de dezembro de 2005.\n\nCichorium intybus L.\n\nChicória-de-folhas\n\nTP 154/2 rev. de 31 de março de 2023.\n\n[…]\n\n[…]\n\n[…]\n\nCitrullus lanatus (Thunb.) Matsum. et Nakai\n\nMelancia\n\nTP 142/2 rev. 3 de 29 de fevereiro de 2024.\n\nCucumis melo L.\n\nMelão\n\nTP 104/2 rev. 2 corr. de 25 de março de 2021.\n\nCucumis sativus L.\n\nPepino e pepininho\n\nTP 61/2 rev. 2 de 19 de março de 2019.\n\n[…]\n\n[…]\n\n[…]\n\nCucurbita maxima Duchesne x Cucurbita moschata Duchesne\n\nHíbridos interespecíficos de Cucurbita maxima Duchesne x Cucurbita moschata Duchesne para utilização como portaenxertos\n\nTP 311/1, de 15 de março de 2017\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\nLactuca sativa L.\n\nAlface\n\nTP 13/6 rev. 4 de 29 de fevereiro de 2024.\n\n[…]\n\n[…]\n\n[…]\n\nPhaseolus coccineus L.\n\nFeijoca\n\nTP 9/1, de 21 de março de 2007.\n\nPhaseolus vulgaris L.\n\nFeijão-anão e feijão-de-trepar\n\nTP 12/4, de 27 de fevereiro de 2013.\n\n[…]\n\n[…]\n\n[…]\n\nRaphanus sativus L.\n\nRabanete, rábano\n\nTP 64/2 rev. 2 de 29 de fevereiro de 2024.\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\nSolanum habrochaites S. Knapp & D. M. Spooner; Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D. M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum pimpinellifolium L. x Solanum habrochaites S. Knapp & D. M. Spooner\n\nPortaenxertos de tomate\n\nTP 294/1 rev. 6 de 29 de fevereiro de 2024.\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\nValerianella locusta (L.) Laterr.\n\nAlface-de-cordeiro\n\nTP 75/2 rev. de 29 de fevereiro de 2024.\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\n[…]\n\nPARTE B\n\n[…]\n\nNome científico\n\nDesignação comum\n\nPrincípios diretores UPOV (*)\n\nBrassica rapa L.\n\nNabo\n\nTG/37/11, de 23 de setembro de 2022.\n\nANEXO VI\n\n[…]\n\n1 - […]\n\n2 - […]\n\n3 - […]\n\nQUADRO I\n\n| RNQP ou sintomas causados por RNQP | Género ou espécie de sementes de produtos hortícolas | Limiar para a presença de RNQP nas sementes de produtos hortícolas |\n| --- | --- | --- |\n| Bactérias |  |  |\n| Clavibacter michiganensis ssp. michiganensis (Smith) Davis et al. [CORBMI] | Solanum lycopersicum L. | 0 % |\n| Xanthomonas axonopodis pv. phaseoli (Smith) Vauterin et al. [XANTPH] | Phaseolus vulgaris L. | 0 % |\n| Xanthomonas euvesicatoria Jones et al. [XANTEU] | Capsicum annuum L., Solanum lycopersicum L. | 0 % |\n| Xanthomonas fuscans subsp. fuscans Schaad et al. [XANTFF] | Phaseolus vulgaris L. | 0 % |\n| Xanthomonas gardneri (ex Šutič 1957) Jones et al. [XANTGA] | Capsicum annuum L., Solanum lycopersicum L. | 0 % |\n| Xanthomonas perforans Jones et al. [XANTPF] | Capsicum annuum L., Solanum lycopersicum L. | 0 % |\n| Xanthomonas vesicatoria (ex Doidge) Vauterin et al. [XANTVE] | Capsicum annuum L., Solanum lycopersicum L. | 0 % |\n| Insetos e ácaros |  |  |\n| Acanthoscelides obtectus (Say) [ACANOB] | Phaseolus coccineus L., Phaseolus vulgaris L. | 0 % |\n| Bruchus pisorum (Linnaeus) [BRCHPI] | Pisum sativum L. | 0 % |\n| Bruchus rufimanus Boheman [BRCHRU] | Vicia faba L. | 0 % |\n| Nemátodes |  |  |\n| Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI] | Allium cepa L., Allium porrum L. | 0 % |\n| Vírus, viroides, doenças similares a vírus e fitoplasmas |  |  |\n| Pepino mosaic virus [PEPMV0] | Solanum lycopersicum L. | 0 % |\n| Potato spindle tuber viroid [PSTVD0] | Capsicum annuum L., Solanum lycopersicum L. | 0 % |\n| Vírus do fruto rugoso castanho do tomateiro [ToBRFV] | Capsicum annuum L., com exceção de sementes pertencentes a uma variedade reconhecidamente resistente ao ToBRFV. Solanum lycopersicum L. e seus híbridos. | 0 % |\n\n4 - […]\n\n5 - […]\n\n6 - […]\n\nQUADRO I-A\n\n[…]\n\n7 - […]\n\nQUADRO II\n\n[…]\n\n7.1 - […]\n\n7.1 - […]\n\nPARTE D\n\n[…]\n\nANEXO VII\n\n[…]\n\nPARTE A\n\n[…]\n\n[…]\n\nPARTE B\n\n[…]\n\n[…]\n\nPARTE C\n\n[…]\n\n1 - […]\n\nQUADRO I\n\n[…]\n\n2 - […]\n\nQUADRO II\n\n[…]\n\n3 - […]\n\n4 - […]\n\n5 - […]\n\nQUADRO III\nFungos e oomicetas\n\n| RNQP ou sintomas causados por RNQP | Vegetais para plantação (género ou espécie) | Limiares para sementes de pré-base | Limiares para sementes de base | Limiares para sementes certificadas |\n| --- | --- | --- | --- | --- |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n| […] | […] | […] | […] | […] |\n\nVírus, viroides, doenças similares a vírus e fitoplasmas\n\n| RNQP ou sintomas causados por RNQP | Vegetais para plantação (género e espécie) | Limiares para a produção de semente pré-base | Limiares para a produção de semente base | Limiares para a produçãode semente certificada |\n| --- | --- | --- | --- | --- |\n| Tobacco ringspot vírus [TRSV00] | Glycine max (L.) Merr. | 0 % | 0 % | 0 % |\n\n6 - […]\n\n6.1 - […]\n\n6.2 - […]\n\n6.3 - […]\n\n7 - […]\n\nQUADRO IV\n\n[…]»\n\n119383839"
+  },
+  "993031351": {
+   "fragment_id": "927729709",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": "2025-12-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 480/2025/1 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/480-2025-992879819), em vigor a partir de 2025-12-30"
+   ],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\nAos exames oficiais de variedades referidas nos anexos I e II da Portaria n.º 247/2022, de 27 de setembro, na sua redação atual, iniciados antes de 1 de junho de 2025 que ainda não se encontrem concluídos, aplicam-se as Diretivas 2003/90/CE e 2003/91/CE, na versão anterior à conferida pela Diretiva de Execução (UE) 2024/2963, da Comissão.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 480/2025/1 - Diário da República n.º 249/2025, Série I de 2025-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/480-2025-992879819), em vigor a partir de 2025-12-30"
+  },
+  "927642054": {
+   "fragment_id": "927729711",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura e Mar, José Manuel Fernandes, em 31 de julho de 2025."
+  }
+ }
+}

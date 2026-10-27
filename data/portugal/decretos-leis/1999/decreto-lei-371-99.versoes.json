@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:569877:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-865084069",
+ "dre_path": "/dr/detalhe/decreto-lei/371-1999-569877",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "865170504",
+    "865170497",
+    "865170498"
+   ]
+  }
+ ],
+ "fragments": {
+  "865170504": {
+   "fragment_id": "865084070",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 371/99\n\nde 18 de Setembro\n\nConsiderando que a pesca desportiva de competição é hoje uma importante realidade sócio-económica e cultural;\n\nAtendendo a que esta modalidade desportiva é actualmente praticada com a preocupação de preservar as populações piscícolas através de uma utilização sustentada daqueles recursos, consubstanciada, nomeadamente, na devolução ao meio aquático dos espécimes capturados em boas condições de sobrevivência;\n\nConsiderando ainda que, nestas situações, as medidas protectoras dos recursos piscícolas constantes do Decreto n.º 44623, de 10 de Outubro de 1962, se tornam desajustadas:\n\nEntende-se necessário adoptar medidas adequadas à realidade actual dos concursos ou provas de pesca desportiva.\n\nAssim:\n\nAo abrigo do disposto na base XXXIII da Lei n.º 2097, de 6 de Junho de 1959, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição da República, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "865170497": {
+   "fragment_id": "865084071",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs concursos ou provas de pesca desportiva integrados em campeonatos nacionais ou internacionais organizados por federação de pesca desportiva com utilidade pública desportiva podem decorrer em períodos contínuos, até ao máximo de setenta e duas horas, desde que tal duração conste do respectivo regulamento e seja aprovado pela direcção regional de agricultura competente em razão do território."
+  },
+  "865170498": {
+   "fragment_id": "865084072",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A respectiva direcção regional de agricultura pode autorizar a realização de concursos ou provas de pesca desportiva em número superior ao previsto no § 35.º do artigo 11.º do Decreto n.º 44623, de 10 de Outubro de 1962, desde que não fique comprometida a utilização sustentável dos recursos piscícolas.\n\n2 - A autorização referida no número anterior, bem como a aprovação prevista no artigo 1.º, deverão ser emitidas pela direcção regional de agricultura, mediante parecer prévio dos serviços competentes do Ministério do Ambiente, sempre que os concursos ou provas de pesca desportiva se realizem em áreas protegidas ou em albufeiras de águas públicas."
+  }
+ }
+}

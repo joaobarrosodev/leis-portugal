@@ -1,0 +1,199 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0092:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0092-20050115",
+ "dre_path": null,
+ "source_lastmod": "2005-01-15",
+ "versions": [
+  {
+   "date": "1977-01-31",
+   "future": false,
+   "celex": "31977L0092",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "30d18fa846636eb9",
+    "a48a8eaa585a0066",
+    "71381426b5f265ac",
+    "038e4ad7465aa458",
+    "7014ac52b9b8159d",
+    "98c6018560ebbb9f",
+    "1cb8eabe317faff0",
+    "cb79aa014b531a6f",
+    "3247250b12578877",
+    "02f2372d7dc141dc",
+    "485431922e215d4f",
+    "e9f34ee52112dfa4",
+    "e03ad5eb3b602c28",
+    "c2215c9140d21a95",
+    "d5aab679d521866b",
+    "09dc45ad8fd990e7"
+   ]
+  },
+  {
+   "date": "2005-01-15",
+   "future": false,
+   "celex": "01977L0092-20050115",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o"
+   ],
+   "fragments": [
+    "3138516582bc81bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "30d18fa846636eb9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 77/92/CEE do Conselho, de 13 de Dezembro de 1976, relativa às medidas destinadas a facilitar o exercício efectivo da liberdade de estabelecimento da livre prestação de serviços nas actividades de agente e de corretor de seguros (ex grupo 630 CITI), e contendo, nomeadamente, medidas transitórias para estas actividades** *Jornal Oficial nº L 026 de 31/01/1977 p. 0014 - 0019 Edição especial finlandesa: Capítulo 6 Fascículo 1 p. 0191 Edição especial grega: Capítulo 06 Fascículo 1 p. 0243 Edição especial sueca: Capítulo 6 Fascículo 1 p. 0191 Edição especial espanhola: Capítulo 06 Fascículo 1 p. 0219 Edição especial portuguesa: Capítulo 06 Fascículo 1 p. 0219*\n\nDIRECTIVA DO CONSELHO de 13 de Dezembro de 1976 relativa às medidas destinadas a facilitar o exercício efectivo da liberdade de estabelecimento da livre prestação de serviços nas actividades de agente e de corretor de seguros (ex grupo 630 CITI), e contendo, nomeadamente, medidas transitórias para estas actividades\n\n(77/92/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 49o, 57o, 66o e 235o,\n\nTendo em conta as propostas da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, em aplicação do Tratado, é proibido desde o termo do período de transição qualquer tratamento discriminatório em razão da nacionalidade, em matéria de estabelecimento e de prestação de serviços; que o princípio do tratamento nacional, assim entendido, se aplica, nomeadamente, ao direito de filiação em organizações profissionais, na medida em que as actividades profissionais do interessado impliquem necessariamente o exercício desse direito;\n\nConsiderando que nem todos os Estados-membros impõem condições para o acesso e exercício das actividades de agente e de corretor de seguros; que existem nuns a plena liberdade de acesso e de exercício e noutros disposições taxativas prevendo a posse de um título para o acesso à profissão;\n\nConsiderando que, em função das diferenças existentes entre os Estados-membros, no que respeita à delimitação das actividades de agente e de corretor de seguros, há interesse em determinar, com a maior precisão possível, as actividades às quais se aplica a presente directiva;\n\nConsiderando, por outro lado, que o artigo 57o do Tratado prevê que, para facilitar o acesso às actividades não assalariadas e o seu exercício, sejam adoptadas directivas com vista ao mútuo reconhecimento de diplomas, certificados e de outros títulos, e à coordenação das disposições legislativas, regulamentares e administrativas dos Estados-membros;\n\nConsiderando, todavia, que na falta de um reconhecimento mútuo de diplomas ou de uma coordenação imediata, se afigurar desejável facilitar o exercício efectivo da liberdade de estabelecimento e da livre prestação de serviços para as actividades em questão, nomeadamente, mediante a adopção de medidas transitórias, tais como as previstas nos programas gerais (3), a fim de evitar um constrangimento anormal dos nacionais dos Estados-membros em que o acesso a estas actividades não está sujeito a qualquer condição;\n\nConsiderando que para evitar eventuais dificuldades, as medidas transitórias devem consistir em admitir, como condição suficiente para o acesso às actividades em causa, nos Estados-membros de acolhimento que têm uma regulamentação destas actividades, o exercício efectivo destas actividades no Estado-membro de proveniência durante um período razoável e suficientemente recente, nos casos em que não seja exigida uma formação prévia, a fim de garantir que o beneficiário possui os conhecimentos profissionais equivalentes àqueles que são exigidos aos nacionais;\n\nConsiderando que, atendendo à situação existente nos Países Baixos, onde os corretores são agrupados em função dos seus conhecimentos profissionais, em várias categorias, é conveniente prever um sistema equivalente para os nacionais dos outros Estados-membros que pretendam ter acesso a qualquer uma das categorias em questão; que o critério mais adequado e mais objectivo para este efeito é o que assenta no número de empregados que o beneficiário tem ou teve sob as suas ordens;\n\nConsiderando, igualmente, que, sempre que a actividade do agente implique a existência de uma procuração permanente, por parte de uma ou de várias empresas de seguros, concedendo ao beneficiário o poder de em seu nome, as obrigar relativamente à totalidade ou a parte dos actos praticados no exercício normal da sua actividade, o interessado deve poder aceder à actividade de corretor no Estado-membro de acolhimento;\n\nConsiderando que, a presente directiva deixará de ter fundamento logo que a coordenação das condições de acesso às actividades em questão e do seu exercício, bem como o reconhecimento mútuo de diplomas, certificados e outros títulos, forem realizados;\n\nConsiderando que, na medida em que os Estados-membros também façam depender o acesso ou o exercício dos assalariados às actividades enumeradas na directiva da posse de conhecimentos e aptidões profissionais, a presente directiva deve aplicar-se igualmente a esta categoria de pessoas a fim de suprimir um obstáculo aí livre circulação dos trabalhadores e de assim complementar as medidas tomadas no âmbito do Regulamento (CEE) no 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação de trabalhadores na Comunidade (4) alterado pelo Regulamento (CEE) no 312/76 (5);\n\nConsiderando que é conveniente, pela mesma razão, aplicar igualmente aos assalariados as disposições previstas em matéria de prova de honorabilidade e de não existência de falência,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a48a8eaa585a0066": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os Estados-membros tomarão as medidas definidas na presente directiva, relativamente ao estabelecimento e à prestação de serviços no seu território das pessoas singulares e das sociedades mencionadas no Título I dos programas gerais, a seguir denominadas« beneficiários», no sector de actividades não assalariadas referidas no artigo 2o.\n\n2. A presente directiva é igualmente aplicável aos nacionais dos Estados-membros que, nos termos do Regulamento (CEE) no 1612/68, pretendam exercer, como assalariados, as actividades referidas no artigo 2o."
+  },
+  "71381426b5f265ac": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A presente directiva aplica-se às actividades seguintes, na medida em que se insiram no ex grupo 630 CITI do Anexo III do Programa Geral para a Supressão das Restrições à Liberdade de Estabelecimento:\n\na) A actividade profissional das pessoas que, estabelecendo a ligação entre os tomadores de seguro e as empresas de seguros ou de resseguro, e podendo escolher livremente essas empresas, com vista à cobertura de riscos a segurar ou a ressegurar, preparam a celebração de contratos de seguro e colaboram, eventualmente, na sua gestão e na sua execução, nomeadamente em caso de sinistro;\n\nb) A actividade profissional das pessoas encarregadas, por força de um ou mais contratos ou de procurações, de apresentar, propor e preparar ou celebrar contratos de seguros, ou de colaborar na sua gestão e na sua execução, nomeadamente, em caso de sinistro, em nome e por conta, ou unicamente por conta, de uma ou mais empresas de seguros;\n\nc) As actividades de pessoas não abrangidas pelas alíneas a) e b), mas que actuando por conta delas executam, nomeadamente, trabalhos de preparação, apresentam contratos de seguro ou cobram prémios, sem que estas operações possam representar qualquer compromisso perante o público ou da parte do público.\n\n2. A presente directiva aplica-se, nomeadamente, às actividades exercidas sob as denominações a seguir mencionadas, habitualmente utilizadas nos Estados-membros:\n\na) No que respeita às actividades referidas na alínea a) do no 1:\n\n- na Bélgica:\n\n- Courtier d'assurance,\n\nVerzekeringsmakelaar,\n\n- Courtier de réassurance,\n\nHerverzekeringsmakelaar;\n\n- na Dinamarca:\n\n- Juridiske og fysiske personer, som driver selvstaending virksomhed som formidler ved afsaetning af forsikringskontrakter;\n\n- na República Federal da Alemanha:\n\n- Versicherungsmakler,\n\n- Rueckversicherungsmakler;\n\n- em França:\n\n- Courtier d'assurance,\n\n- Courtier d'assurance maritime,\n\n- Courtier de réassurance;\n\n- na Irlanda:\n\n- Insurance Broker,\n\n- Reinsurance Broker;\n\n- em Itália:\n\n- Mediatore di assicurazioni,\n\n- Mediatore di riassicurazioni;\n\n- nos Países Baixos:\n\n- Makelaar,\n\n- Assurantiebezorger,\n\n- Erkend assurantiegent,\n\n- Verzekeringsagent;\n\n- no Reino Unido:\n\n- Insurance Broker;\n\nb) No que respeita às actividades referidas na alínea b) do no 1:\n\n- na Bélgica:\n\n- Agent d'assurance,\n\nVerzekeringsagent;\n\n- na Dinamarca:\n\n- Forsikringsagent;\n\n- na República Federal da Alemanha:\n\n- Versicherungsvertreter;\n\n- em França:\n\n- Agent général d'assurance;\n\n- na Irlanda:\n\n- Agent;\n\n- em Itália:\n\n- Agente di assicurazioni;\n\n- no Luxemburgo:\n\n- Agent principal d'assurance,\n\n- Agent d'assurance;\n\n- nos Países Baixos:\n\n- Gevolmachtigd agent,\n\n- Verzekeringsagent;\n\n- no Reino Unido:\n\n- Agent;\n\nc) No que respeita às actividades referidas na alínea c) do no 1:\n\n- na Bélgica:\n\n- Sous-agent,\n\nSub-agent;\n\n- na Dinamarca:\n\n- Underagent;\n\n- na República Federal da Alemanha:\n\n- Gelegenheitsvermittler,\n\n- Inkassant;\n\n- em França:\n\n- Mandataire,\n\n- Intermédiaire,\n\n- Sous-agent;\n\n- na Irlanda:\n\n- Sub-agent;\n\n- em Itália:\n\n- Subagente;\n\n- no Luxemburgo:\n\n- Sous-agent;\n\n- nos Países Baixos:\n\n- Sub-agent;\n\n- no Reino-Unido:\n\n- Sub-agent."
+  },
+  "038e4ad7465aa458": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros, nos quais o acesso e o exercício de uma das actividades referidas no artigo 2o estão subordinados ao preenchimento de determinados requisitos de qualificação velarão por que o beneficiário, que assim o solicita, seja informado, antes de se estabelecer ou antes de começar a exercer uma actividade temporária, da regulamentação a que está sujeita a profissão que pretende exercer."
+  },
+  "7014ac52b9b8159d": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nQuando, num Estado-membro, o acesso a uma das actividades mencionadas no no 1, alíneas a) e b), do artigo 2o, ou o seu exercício estiverem subordinados à posse de conhecimento e aptidões gerais, comerciais ou profissionais, este Estado-membro reconhecerá, como prova suficiente de tais conhecimentos e aptidões, o exercício efectivo, num outro Estado-membro, de uma das actividades em causa, nos seguintes termos:\n\na) Quer, durante quatro anos consecutivos, como independente ou na qualidade de dirigente de empresa;\n\nb) Quer, durante dois anos consecutivos, como independente ou na qualidade de dirigente de empresa, desde que o beneficiário possa provar que exerceu, durante um período de, pelo menos, três anos, funções ao serviço de um ou de vários agentes ou corretores de seguros ou de uma ou várias empresas de seguros;\n\nc) Quer, durante um ano, como independente ou na qualidade de dirigente de empresa desde que o beneficiário possa provar que, recebeu, para exercer a actividade em causa, uma formação prévia, devidamente conformada por um certificado reconhecido pelo Estado ou considerada plenamente válida por um organismo profissional competente."
+  },
+  "98c6018560ebbb9f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Se um Estado-membro subordinar o acesso a uma das actividades referidas no no 1, alínea a), do artigo 2o, ou o seu exercício, a condições mais rigorosas do que aquelas que exige relativamente à actividade mencionada no no 1, alínea b), do artigo 2o, pode exigir, para o acesso àquela actividade ou para o seu exercício, que a mesma tenha sido exercida, noutro Estado-membro, no sector profissional mencionado no no 1, alínea a), do artigo 2o, nos seguintes termos:\n\na) Quer, durante quatro anos consecutivos como independente ou na qualidade de dirigente de empresa;\n\nb) Quer, durante dois anos consecutivos como independente ou na qualidade de dirigente de empresa, desde que o beneficiário possa provar que exerceu, durante um período de, pelo menos, três anos, funções ao serviço de um ou vários agentes ou corretores de seguros ou de uma ou várias empresas de seguros;\n\nc) Quer, durante um ano como independente ou na qualidade de dirigente de empresa, desde que o beneficiário possa provar que recebeu, para exercer a actividade em causa, uma formação prévia confirmada por um certificado reconhecido pelo Estado ou considerada plenamente válida por um organismo profissional competente.\n\nÉ equiparada à actividade referida no no 1, alínea a), do artigo 2o, uma actividade exercida pelo beneficiário, em conformidade com o previsto no no 1, alínea b), do artigo 2o, mediante procuração permanente outorgada por uma ou várias empresas de seguros, concedendo-lhe poderes para as obrigar, em seu nome, relativamente à totalidade ou a parte dos actos praticados no exercício normal da sua actividade.\n\n2. Nos Países Baixos, todavia, o acesso à actividade referida no no 1, alínea a), do artigo 2o, ou o seu exercício, ficarão, além disso, subordinados à condição de que a actividade em causa tenha sido exercida:\n\n- numa empresa em que o beneficiário tenha dirigido, pelo menos, dez empregados, no caso de pretender ter acesso à actividade de« makelaar»;\n\n- numa empresa em que o beneficiário tenha dirigido, pelo menos cinco empregados no caso de pretender ter acesso à actividade de« assurantiebezorger»;\n\n- numa empresa em que o beneficiário tenha dirigido, pelo menos dois empregados, no caso de pretender ter acesso à actividade de« erkend assurantieagent»."
+  },
+  "1cb8eabe317faff0": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Quando, num Estado-membro, o acesso à actividade referida no no 1, alínea c), do artigo 2o, ou o seu exercício, estiverem subordinados à posse de conhecimentos e aptidões gerais, comerciais ou profissionais, este Estado-membro reconhecerá, como prova suficiente destes conhecimentos de aptidões, o exercício efectivo, noutro Estado-membro, da actividade em causa:\n\na) Quer, durante dois anos como independente ou ao serviço de um ou vários agentes ou corretores de seguros ou de uma ou várias companhias de seguros;\n\nb) Quer, durante um ano, nas condições descritas na alínea anterior, desde que o beneficiário possa provar que recebeu, para exercer a actividade em causa, uma formação prévia confirmada por um certificado reconhecido pelo Estado ou considerada plenamente válida por um organismo profissional competente.\n\n2. O exercício efectivo durante, pelo menos, um ano de uma actividade referida no no 1, alínea a) e b), do artigo 2o, e a formação recebida para uma destas actividades, serão considerados como equivalentes às condições previstas no no 1."
+  },
+  "cb79aa014b531a6f": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nNos casos referidos nos artigos 4o, 5o e 6o, o exercício das actividades em causa não deve ter cessado há mais de dez anos, à data da apresentação do pedido previsto no no 1 do artigo 9o. No entanto, sempre que num Estado-membro for fixado um prazo mais curto para os nacionais, este mesmo prazo deve ser igualmente aplicado aos beneficiários."
+  },
+  "3247250b12578877": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Considera-se que exerce uma actividade de dirigente de empresa, na acepção do artigo 4o e do no 1 do artigo 5o, qualquer pessoa que tenha exercido, na respectiva actividade:\n\na) Quer a função de chefe de empresa, ou de chefe de uma sucursal;\n\nb) Quer a função de adjunto de chefe de empresa, ou de mandatário com representação, se esta função implicar uma responsabilidade correspondente à do chefe de empresa representado.\n\n2. Considera-se, igualmente, que exerce uma actividade de dirigente de empresa na acepção do artigo 4o, qualquer pessoa que tenha exercido, numa empresa de seguros, uma actividade que englobe funções de direcção e supervisão do trabalho dos agentes.\n\n3. As funções mencionadas na alínea b), do artigo 4o e no no 1, alínea b) do artigo 5o, devem incluir responsabilidades em matéria de prospecção, gestão e execução de contratos de seguros."
+  },
+  "02f2372d7dc141dc": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. A prova de que as condições enunciadas nos artigos 4o, 5o, 6o e 7o estão satisfeitas deve ser produzida mediante atestado emitido pela autoridade ou organismo competente do Estado de origem ou de proveniência, com o qual o interessado deverá instruir o seu pedido de autorização para exercer no Estado-membro de acolhimento uma das actividades em causa.\n\n2. Os Estados-membros designarão, no prazo previsto no artigo 13o, as autoridades e organismos competentes para a emissão do atestado previsto no no 1, e desse facto informar imediatamente os outros Estados-membros e a Comissão.\n\n3. No prazo previsto no artigo 13o, cada Estado-membro informará igualmente os demais Estados-membros e a Comissão perante que autoridades e organismos devem ser apresentados os pedidos de autorização para o exercício, no Estado-membro de acolhimento, das actividades referidas no artigo 2o, bem como os respectivos documentos."
+  },
+  "485431922e215d4f": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Sempre que um Estado-membro de acolhimento exigir dos seus nacionais, para o acesso a uma das actividades referidas no artigo 2o, uma prova de honorabilidade e a prova de que não foram, anteriormente declarados em falência, ou apenas uma destas provas, aceitará como prova suficiente, relativamente aos nacionais dos outros Estados-membros, a apresentação de um certificado do registo criminal ou na falta deste, de um documento equivalente, emitido por uma autoridade judicial ou administrativa competente do Estado-membro de origem ou de proveniência, do qual se possa concluir que estes requisitos estão preenchidos.\n\n2. Se o documento referido no no 1 não for emitido pelo Estado-membro de origem ou de proveniência, tal documento poderá ser substituído por uma declaração sob juramento ou, nos Estados onde não exista tal juramento, por uma declaração solene, feita pelo interessado perante uma autoridade judicial ou administrativa competente, ou, se for caso disso, perante um notário do Estado-membro de origem ou de proveniência que emitirá um atestado fazendo fé desse juramento ou dessa declaração solene. A declaração de não existência de falência poderá igualmente ser feita perante um organismo profissional competente deste mesmo Estado.\n\n3. Os documentos emitidos nos termos dos nos 1 e 2, não devem, aquando da sua apresentação, ter mais de três meses de data.\n\n4. Os Estados-membros designarão, no prazo previsto no artigo 13o, as autoridades e organismos competentes para a emissão dos documentos referidos nos nos 1 e 2 e desse facto informarão imediatamente os demais Estados-membros e a Comissão.\n\nNo prazo previsto no artigo 13o, cada Estado-membro informará igualmente os demais Estados-membros e a Comissão perante que autoridades e organismos devem ser apresentados os documentos referidos no presente artigo, que servem de suporte ao pedido de autorização para o exercício, no Estado-membro de acolhimento, das actividades mencionadas no artigo 2o.\n\n5. Sempre que no Estado-membro de acolhimento deva ser comprovada a capacidade financeira, este Estado aceitará os atestados emitidos pelos bancos do Estado-membro de origem ou de proveniência como equivalentes aos atestados emitidos no seu próprio território."
+  },
+  "e9f34ee52112dfa4": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nQuando um Estado-membro de acolhimento exigir dos seus nacionais uma prestação de juramento ou uma declaração solene para o acesso a uma das actividades mencionadas no artigo 2o, ou para o seu exercício, e no caso de a fórmula deste juramento ou desta declaração não poder ser utilizada pelos nacionais dos outros Estados-membros, aquele Estado providenciará para que seja posta à disposição dos interessados uma fórmula adequada e equivalente."
+  },
+  "e03ad5eb3b602c28": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nA presente directiva permanecerá aplicável até à entrada em vigor das disposições relativas à coordenação das regulamentações nacionais respeitantes ao acesso às actividades em questão e ao seu exercício."
+  },
+  "c2215c9140d21a95": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nOs Estados-membros põem em vigor as medidas necessárias para darem cumprimento à presente directiva, no prazo de 18 meses a contar da sua notificação e desse facto informarão imediatamente a Comissão."
+  },
+  "d5aab679d521866b": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "09dc45ad8fd990e7": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 13 de Dezembro de 1976.\n\nPelo Conselho\n\nO Presidente\n\nM. van der STOEL\n\n(1) JO no C 78 de 2. 8. 1971, p. 13.(2) JO no C 113 de 9. 11. 1971, p. 6.(3) JO no 2 de 15. 1. 1962, pp. 32/62 e 36/62.(4) JO no L 257 de 19. 10. 1968, p. 2.(5) JO no L 39 de 14. 2. 1976, p. 2."
+  },
+  "3138516582bc81bd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1977L0092 — PT — 15.01.2005 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31977L0092) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31977L0092) [de 13 de Dezembro de 1976](http://publications.europa.eu/resource/celex/31977L0092) [relativa às medidas destinadas a facilitar o exercício efectivo da liberdade de estabelecimento da livre prestação de serviços nas actividades de agente e de corretor de seguros (ex grupo 630 CITI), e contendo, nomeadamente, medidas transitórias para estas actividades](http://publications.europa.eu/resource/celex/31977L0092) [(77/92/CEE)](http://publications.europa.eu/resource/celex/31977L0092) (JO L 026, 31.1.1977, p.14)\n\n**revogado por:**\n\n- [Directiva 2002/92/CE do Parlamento Europeu e do Conselho de 9 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32002L0092%2801%29) — L 9 — 3 — 15.1.2003"
+  }
+ }
+}

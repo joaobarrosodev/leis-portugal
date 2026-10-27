@@ -1,0 +1,323 @@
+---
+schema_version: '1.0'
+id: pt:dre:178086:por
+title: Decreto-Lei n.º 438/85
+short_title: null
+summary: Altera alguns artigos, adita outros e introduz alterações do quadro de pessoal do Decreto-Lei n.º 252-A/82, de 28
+  de Junho, que estrutura a Direcção-Geral das Alfândegas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 438/85
+official_date: null
+publication_date: '1985-10-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/1985, Série I de 1985-10-24
+  number: '245'
+  series: I
+  supplement: null
+  pages: 3516 - 3519
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24500/35163519.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '178086'
+  dre_path: /dr/detalhe/decreto-lei/438-1985-178086
+  internal: pt:dre:178086:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1985-178086
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fff51fa40f9ac4bd24c1dd0669aa3f932e638e3573f7dd011c43f2d3fbdfa363
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:08:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral das Alfândegas
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:283118:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:221529:por
+  label: "Alterado o artigo 66.º do Decreto-Lei n.º 252-A/82, de 28 de Junho, alterado pelo presente diploma, pelo DEC LEI.400/86.29.11.1986.MF,\
+    \ DR.IS [276] de 29.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1986-221529
+  date: '1986-11-29'
+- type: amended_by
+  target: pt:dre:283118:por
+  label: "Alterados os artigos 6.º e 28.º do Decreto-Lei n.º 252-A/82, de 28 de Junho, na redacção do presente diploma, pelo\
+    \ DEC LEI.49/88.17.02.1988.MF, DR.IS [39] de 17.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1988-283118
+  date: '1988-02-17'
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138119:por
+  label: Rectificado pela DECL.DD5128.12.11.1985.PCM, DR.IS [276]Supl de 30.11.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-138119
+  date: '1985-11-12'
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:08:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 438/85
+
+de 24 de Outubro
+
+Considerando que as atribuições do Gabinete para as Relações Aduaneiras Internacionais, da Direcção-Geral das Alfândegas, previstas no [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, se têm tornado muito mais diversificadas e complexas;
+
+Considerando, para além disso, que o referido Gabinete é confrontado com pesadíssimas tarefas impostas pela adesão de Portugal à Comunidade Económica Europeia;
+
+Considerando que, pelas razões expostas, se torna imperiosa e urgente a sua remodelação:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 6.º, 28.º, 30.º, 31.º, 32.º, 33.º, 34.º, 66.º e 122.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, passam a ter a seguinte redacção:
+
+###### Artigo 6.º — (Estrutura orgânica)
+
+1 - ...
+
+...
+
+D) Técnico-normativos:
+
+a) Direcção de Serviços de Cooperação Aduaneira Internacional, Regimes Aduaneiros e Procedimentos Administrativos;
+
+b) Direcção de Serviços de Nomenclatura, Política Pautal, Origens e Relações Externas;
+
+c) Direcção de Serviços de Circulação de Mercadorias e de Polícia Agrícola;
+
+d) Direcção de Serviços de Prevenção e Repressão da Fraude;
+
+e) Direcção de Serviços de Tráfego, Armazenagem e Benefícios Fiscais.
+
+2 - ...
+
+###### Artigo 28.º — (Secretarias e núcleos de apoio administrativo)
+
+1 - Junto das Direcções de Serviços de Cooperação Aduaneira Internacional, Regimes Aduaneiros e Procedimentos Administrativos, de Nomenclatura, Política Pautal, Origens e Relações Externas, de Circulação de Mercadorias e de Política Agrícola, de Prevenção e Repressão da Fraude e de Tráfego, Armazenagem e Benefícios Fiscais são desde já criadas secretarias próprias, incumbidas:
+
+a) ...
+
+b) ...
+
+c) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 30.º
+
+(Direcção de Serviços de Cooperação Aduaneira Internacional, Regimes Aduaneiros e Procedimentos Administrativos - Estrutura).
+
+A Direcção de Serviços de Cooperação Aduaneira Internacional a elaboração de estudos, fornecimentos Administrativos compreende:
+
+a) A Divisão de Cooperação Aduaneira Internacional:
+
+b) A Divisão dos Regimes Aduaneiros e Procedimentos Administrativos.
+
+###### Artigo 31.º — (Divisão de Cooperação Aduaneira Internacional - Atribuições)
+
+São atribuições da Divisão de Cooperação Aduaneira Internacional a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
+
+a) Estudo de questões relativas à cooperação aduaneira no plano internacional e propostas de medidas destinadas a criar ou a intensificar essa cooperação com as administrações de outros países;
+
+b) Estudo de tratados, convenções e acordos bilaterais ou multilaterais com incidência aduaneira cuja apreciação não seja da competência específica de outros serviços;
+
+c) Estudos comparados da legislação aduaneira de diversos países, com vista à actualização e aperfeiçoamento da legislação nacional;
+
+d) Elaboração, no domínio da sua competência, e difusão de instruções para os serviços relativamente à aplicação de tratados, convenções ou acordos de que o País seja parte contratante;
+
+e) Participação nos trabalhos dos comités comunitários.
+
+###### Artigo 32.º — (Divisão dos Regimes Aduaneiros e Procedimentos Administrativos - Atribuições)
+
+São atribuições da Divisão dos Regimes Aduaneiros e Procedimentos Administrativos a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
+
+1) Aplicação da legislação comunitária em matéria de:
+
+a) Regimes aduaneiros: zonas francas, entrepostos, depósitos provisórios, tráficos de aperfeiçoamento activo e passivo, transformação de mercadorias sob controle aduaneiro, importação temporária, regime de retorno, franquias, etc.;
+
+b) Procedimentos administrativos: dívida aduaneira, procedimentos de exportação, draubaque, etc.;
+
+2) Elaboração e difusão de instruções para os serviços;
+
+3) Participação nos trabalhos dos comités comunitários.
+
+###### Artigo 33.º — (Direcção de Serviços de Nomenclatura, Política Pautal, Origens e Relações Externas - Estrutura)
+
+A Direcção de Serviços de Nomenclatura, Política Pautal, Origens e Relações Externas compreende:
+
+a) A Divisão da Nomenclatura e Política Pautal;
+
+b) A Divisão das Origens e das Relações Externas.
+
+###### Artigo 34.º — (Divisão da Nomenclatura e Política Pautal - Atribuições)
+
+São atribuições da Divisão da Nomenclatura e Política Pautal a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
+
+a) Manter actualizada a Pauta dos Direitos de Importação em função da Pauta Exterior Comum da CEE;
+
+b) Colaborar na elaboração da nomenclatura estatística das mercadorias do comércio externo (NEMCE), tendo em atenção a Pauta Exterior Comum e a Nomenclatura para as Estatísticas do Comércio Externo da Comunidade e do Comércio, entre os Estados Membros (NIMEXE);
+
+c) Elaborar e actualizar a Pauta de Serviço com os elementos preparados nos próprios serviços ou fornecidos por outros sectores;
+
+d) Estudar, compilar e difundir os pareceres sobre classificação pautal adoptados pelo Conselho de Cooperação Aduaneira no âmbito do Comité da Nomenclatura, do Comité do Sistema Harmonizado ou de outros comités especializados e ainda do Comité da Nomenclatura da CEE;
+
+e) Elaboração e difusão de instruções para os serviços;
+
+f) Participação nos trabalhos dos comités comunitários,
+
+###### Artigo 66.º
+
+Consideram-se equiparados para todos os efeitos:
+
+1) Ao cargo de director de serviços, os cargos de inspector-chefe e de director das Alfândegas de Lisboa e do Porto;
+
+2) ...
+
+###### Artigo 122.º — (Do pessoal dirigente dos serviços centrais)
+
+A substituição do pessoal dirigente dos serviços centrais processar-se-á nos seguintes termos:
+
+1) ...
+
+2) ...
+
+3) ...
+
+4) Os directores de serviços onde existam divisões, por cada um dos chefes de divisão, atendendo à especificidade técnica inerente;
+
+5) Os directores de serviços onde não existam divisões, por cada um dos chefes de repartição;
+
+6) Os chefes de divisão, pelo técnico superior de categoria mais elevada, a designar mediante proposta do respectivo director de serviços e autorização do director-geral.
+
+Art. 2.º São introduzidos no [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, os artigos 34.º-A, 34.º-B, 31.º-C e 34.º-D:
+
+###### Artigo 34.º-A — (Divisão das Origens e das Relações Externas - Atribuições)
+
+São atribuições da Divisão das Origens e das Relações Externas a elaboração de estudos, formulação de propostas e definição de normas e técnicas de actuação no âmbito dos seus objectivos, designadamente:
+
+a) Aplicação no plano técnico-aduaneiro das regras de origem de âmbitos geral e preferencial;
+
+b) Análise e aplicação dos acordos preferenciais e do sistema de preferências generalizadas;
+
+c) Estudo das implicações aduaneiras resultantes das restrições quantitativas, nomeadamente dos contingentes e plafonds;
+
+d) Elaboração e difusão de instruções para os serviços;
+
+e) Participação nos trabalhos dos comités comunitários.
+
+###### Artigo 34.º-B — (Direcção de Serviços de Circulação de Mercadorias e de Política Agrícola - Estrutura)
+
+A Direcção de Serviços de Circulação de Mercadorias e de Política Agrícola compreende:
+
+a) A Divisão de Circulação de Mercadorias;
+
+b) A Divisão de Política Agrícola.
+
+###### Artigo 34.º-C — (Divisão de Circulação de Mercadorias - Atribuições)
+
+São atribuições da Divisão de Circulação de Mercadorias a elaboração de estudos, formulação de propostas e definição de normas técnicas de actuação no âmbito da sua competência, designadamente:
+
+a) Aplicação do regime de trânsito comunitário;
+
+b) Aplicação do regime intercomunitário aplicável aos produtos pescados por navios dos Estados membros;
+
+c) Aplicação do regime de circulação intercomunitária de mercadorias expedidas, prevendo a sua utilização temporária em um ou vários outros Estados membros;
+
+d) Aplicação das medidas de simplificação de formalidades nas trocas intercomuinitárias;
+
+e) Apresentação das mercadorias às alfândegas e livre prática;
+
+f) Elaboração e difusão de instruções para os serviços;
+
+g) Participação nos trabalhos dos comités comunitários.
+
+###### Artigo 34.º-D — (Divisão de Política Agrícola - Atribuições)
+
+São atribuições da Divisão de Política Agrícola a elaboração de estudos, formulação de propostas e definição de normas técnicas de actuação no âmbito da sua competência, designadamente:
+
+1) Aplicação das normas de política agrícola, comunitárias e nacionais, nomeadamente:
+
+a) Cálculo dos direitos niveladores e imposições assimiladas e dos montantes compensatórios (monetários e de adesão);
+
+b) Organização dos processos relativos ao pagamento de restituições à exportação e outras compensações monetárias:
+
+c) Regime de certificados de importação e exportação;
+
+2) Aplicação dos acordos internacionais relativos à organização dos mercados de determinados produtos agrícolas (café, cacau, etc.) e respectivos regimes de importação e exportação,
+
+3) Elaboração e difusão de instruções para os serviços;
+
+4) Participação nos trabalhos dos comités comunitários.
+
+Art. 3.º Ao quadro de pessoal anexo ao Decreto-Lei n.º 252-A/85, de 28 de Junho, são introduzidas as alterações constantes do quadro anexo ao presente diploma e que dele faz parte integrante.
+
+Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
+
+Promulgado em 8 de Outubro de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 10 de Outubro de 1985.
+
+O Primeiro-Ministro, Mário Soares.
+
+Quadro de pessoal a que se refere o artigo 3.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24500/35163519.pdf)

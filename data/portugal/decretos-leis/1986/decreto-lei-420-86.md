@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:210586:por
+title: Decreto-Lei n.º 420/86
+short_title: null
+summary: Introduz alterações ao Código da Contribuição Industrial
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 420/86
+official_date: null
+publication_date: '1986-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 294/1986, Série I de 1986-12-23
+  number: '294'
+  series: I
+  supplement: null
+  pages: 3796 - 3797
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29400/37963797.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '210586'
+  dre_path: /dr/detalhe/decreto-lei/420-1986-210586
+  internal: pt:dre:210586:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1986-210586
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1986-210586
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f791424098ceb03bc0c0333e9ac65b624b0c1da5072df659db474bf753a0b208
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da Contribuição Industrial
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:16:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 420/86
+
+de 23 de Dezembro
+
+Reconhecendo-se não se justificar já a liquidação provisória a que vêm sendo submetidos os contribuintes do grupo B da contribuição industrial, pois a antecipação de receita, aliás exígua, a que tal liquidação dá origem não compensa os dispêndios em meios humanos e informáticos a que dão lugar as operações para o seu lançamento, põe-se, pelo presente diploma, termo a esse regime, passando esses contribuintes a ficar sujeitos somente a uma única liquidação, que será a definitiva.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 85.º, 86.º, 100.º, 101.º, 101.º-A e 117.º do Código da Contribuição Industrial passam a ter a seguinte redacção:
+
+Art. 85.º A contribuição relativa ao grupo A será objecto de liquidação provisória nos termos seguintes:
+
+1.º Quando a liquidação deva ser feita pelo contribuinte nos termos da primeira parte da alínea a) do artigo anterior, será efectuada na declaração modelo n.º 2 e terá por base os elementos que dela constem, excepto tratando-se de sociedades de seguros tributada pelo processo especial previsto no § 1.º do artigo 27.º, hipótese em que a liquidação incidirá sobre 50% da matéria colectável do ano mais próximo que se encontre determinada;
+
+2.º Na falta de apresentação da declaração até ao termo do último dos prazos referidos na alínea a) do artigo 84.º, a liquidação será efectuada até ao dia 5 de Agosto do ano seguinte àquele a que respeita e terá por base a totalidade da matéria colectável do ano mais próximo que se encontre determinada.
+
+§ único ...
+
+Art. 86.º Não tendo havido liquidação provisória ou tratando-se de contribuição industrial, grupo B, a contribuição será totalmente liquidada no prazo referido no § único do artigo anterior.
+
+Art. 100.º Os conhecimentos de cobrança serão entregues anualmente nas tesourarias da Fazenda Pública, nos prazos seguintes:
+
+a) Até 5 de Agosto, os que respeitarem à liquidação provisória da contribuição industrial, grupo A, prevista no n.º 2.º do artigo 85.º;
+
+b) Até 15 de Setembro, os respeitantes à correcção da referida liquidação provisória ou à liquidação prevista no artigo 86.º;
+
+c) Até 20 de Julho, os relativos à contribuição industrial, grupo C.
+
+§ 1.º ...
+
+§ 2.º ...
+
+Art. 101.º A contribuição industrial será paga:
+
+a) No caso da liquidação provisória a que se refere o n.º 1.º do artigo 85.º, no dia da apresentação da declaração, mediante conhecimento de cobrança modelo n.º 10, processado em triplicado pelos contribuintes, que beneficiarão do desconto correspondente a 2/12 ou a 1/12 do somatório da taxa básica de desconto do Banco de Portugal com 3%, conforme o pagamento seja efectuado, respectivamente, em Abril ou em Maio;
+
+b) Tratando-se da liquidação provisória a que se refere o n.º 2.º do artigo 85.º, durante a 2.ª quinzena do mês de Agosto;
+
+c) No caso de contribuição relativa à correcção da liquidação provisória ou à liquidação prevista no artigo 86.º, por uma só vez, em Outubro;
+
+d) No caso de contribuição industrial, grupo C, de montante igual ou superior a 4000$00, em duas prestações iguais, com vencimento em Agosto e Novembro.
+
+§ 1.º A contribuição industrial, grupo C, de montante inferior a 4000$00 será paga por uma só vez, no mês de Agosto.
+
+§ 2.º ...
+
+§ 3.º ...
+
+§ 4.º ...
+
+§ 5.º ...
+
+Art. 101.º-A. A anulação referida no § único do artigo 85.º será efectuada por dedução na colecta que se encontre por cobrar em 15 de Setembro, processando-se título de anulação pelo que exceda a importância em dívida.
+
+§ único. Para efeito do disposto neste artigo, as repartições de finanças averbarão até 15 de Setembro nos conhecimentos das colectas provisórias por pagar as anulações a que haja lugar, creditando o tesoureiro através da relação modelo n.º 27, anexa ao Regulamento Geral da Administração Pública, documentada com os conhecimentos anulados na totalidade e com um certificado das anulações parciais devidamente discriminadas, indicando o número do conhecimento, o nome do contribuinte e a importância que se anulou.
+
+Art. 117.º A prova do pagamento a que se refere o artigo anterior será feita:
+
+a) Quanto aos contribuintes dos grupos A e B, pela apresentação do conhecimento relativo à liquidação efectuada nos termos do § único do artigo 85.º ou do artigo 86.º, ou, tendo havido apenas liquidação provisória, pela apresentação do conhecimento comprovativo do respectivo pagamento e de documento isento de imposto do selo, passado pela repartição de finanças competente, certificando não ter havido lugar à liquidação complementar;
+
+b) ...
+
+Art. 2.º As alterações a que se refere o artigo 1.º aplicam-se às liquidações a efectuar relativamente ao lucro tributável dos exercícios de 1986 e seguintes.
+
+Visto e aprovado em Conselho de Ministros de 20 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+Promulgado em 4 de Dezembro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Dezembro de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

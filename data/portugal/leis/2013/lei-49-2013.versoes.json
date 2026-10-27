@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:497799:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-131330707",
+ "dre_path": "/dr/detalhe/lei/49-2013-497799",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131330668",
+    "131330669",
+    "131330670",
+    "131330671",
+    "131330672",
+    "131330673",
+    "131330674",
+    "131331475",
+    "131331476",
+    "131331477"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "131330668",
+    "131330669",
+    "131330670",
+    "131331479",
+    "131330672",
+    "131330673",
+    "131330674",
+    "131331475",
+    "131331476",
+    "131331477",
+    "131331478"
+   ]
+  }
+ ],
+ "fragments": {
+  "131330668": {
+   "fragment_id": "131330708",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 49/2013\n\nde 16 de julho\n\nAprova o crédito fiscal extraordinário ao investimento\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "131330669": {
+   "fragment_id": "131330709",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece um Crédito Fiscal Extraordinário ao Investimento (CFEI)."
+  },
+  "131330670": {
+   "fragment_id": "131330710",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação subjetivo\n\nPodem beneficiar do CFEI os sujeitos passivos de IRC que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola e preencham, cumulativamente, as seguintes condições:\n\na) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo sector de atividade;\n\nb) O seu lucro tributável não seja determinado por métodos indiretos;\n\nc) Tenham a situação fiscal e contributiva regularizada."
+  },
+  "131330671": {
+   "fragment_id": "131330711",
+   "type": 11,
+   "heading": "Artigo 3.º — Incentivo fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Incentivo fiscal\n\n1 - O benefício fiscal a conceder aos sujeitos passivos referidos no artigo anterior corresponde a uma dedução à coleta de IRC no montante de 20 % das despesas de investimento em ativos afetos à exploração, que sejam efetuadas entre 1 de junho de 2013 e 31 de dezembro de 2013.\n\n2 - Para efeitos da dedução prevista no número anterior, o montante máximo das despesas de investimento elegíveis é de 5 000 000,00 EUR, por sujeito passivo.\n\n3 - A dedução prevista nos números anteriores é efetuada na liquidação de IRC respeitante ao período de tributação que se inicie em 2013, até à concorrência de 70 % da coleta deste imposto.\n\n4 - No caso de sujeitos passivos que adotem um período de tributação não coincidente com o ano civil e com início após 1 de junho de 2013, as despesas relevantes para efeitos da dedução prevista nos números anteriores são as efetuadas em ativos elegíveis desde o início do referido período até ao final do sétimo mês seguinte.\n\n5 - Aplicando-se o regime especial de tributação de grupos de sociedades, a dedução prevista no n.º 1:\n\na) Efetua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, com base na matéria coletável do grupo;\n\nb) É feita até 70 % do montante mencionado na alínea anterior e não pode ultrapassar, em relação a cada sociedade e por cada exercício, o limite de 70 % da coleta que seria apurada pela sociedade que realizou as despesas elegíveis, caso não se aplicasse o regime especial de tributação de grupos de sociedades.\n\n6 - A importância que não possa ser deduzida nos termos dos números anteriores pode sê-lo, nas mesmas condições, nos cinco períodos de tributação subsequentes.\n\n7 - Aos sujeitos passivos que se reorganizem, em resultado de quaisquer operações previstas no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais."
+  },
+  "131330672": {
+   "fragment_id": "131330712",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas de investimento elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Despesas de investimento elegíveis\n\n1 - Para efeitos do presente regime, consideram-se despesas de investimento em ativos afetos à exploração as relativas a ativos fixos tangíveis e ativos biológicos que não sejam consumíveis, adquiridos em estado de novo e que entrem em funcionamento ou utilização até ao final do período de tributação que se inicie em ou após 1 de janeiro de 2014.\n\n2 - São ainda elegíveis as despesas de investimento em ativos intangíveis sujeitos a deperecimento efetuadas nos períodos referidos nos n.os 1 e 4 do artigo 3.º, designadamente:\n\na) As despesas com projetos de desenvolvimento;\n\nb) As despesas com elementos da propriedade industrial, tais como patentes, marcas, alvarás, processos de produção, modelos ou outros direitos assimilados, adquiridos a título oneroso e cuja utilização exclusiva seja reconhecida por um período limitado de tempo.\n\n3 - Consideram-se despesas de investimento elegíveis as correspondentes às adições de ativos verificadas nos períodos referidos nos n.os 1 e 4 do artigo 3.º e, bem assim, as que, não dizendo respeito a adiantamentos, se traduzam em adições aos investimentos em curso iniciados naqueles períodos.\n\n4 - Para efeitos do número anterior, não se consideram as adições de ativos que resultem de transferências de investimentos em curso.\n\n5 - Para efeitos do n.º 1, são excluídas as despesas de investimento em ativos suscetíveis de utilização na esfera pessoal, considerando-se como tais:\n\na) As viaturas ligeiras de passageiros ou mistas, barcos de recreio e aeronaves de turismo, exceto quando tais bens estejam afetos à exploração do serviço público de transporte ou se destinem ao aluguer ou à cedência do respetivo uso ou fruição no exercício da atividade normal do sujeito passivo;\n\nb) Mobiliário e artigos de conforto ou decoração, salvo quando afetos à atividade produtiva ou administrativa;\n\nc) As incorridas com a construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo quando afetos a atividades produtivas ou administrativas.\n\n6 - São igualmente excluídas do presente regime as despesas efetuadas em ativos afetos a atividades no âmbito de acordos de concessão ou de parceria público-privada celebrados com entidades do sector público.\n\n7 - Considera-se que os terrenos não são ativos adquiridos em estado de novo, para efeitos do n.º 1.\n\n8 - Adicionalmente, não se consideram despesas elegíveis as relativas a ativos intangíveis, sempre que sejam adquiridos em resultado de atos ou negócios jurídicos do sujeito passivo beneficiário com entidades com as quais se encontre numa situação de relações especiais, nos termos definidos no n.º 4 do artigo 63.º do Código do IRC.\n\n9 - Os ativos subjacentes às despesas elegíveis devem ser detidos e contabilizados de acordo com as regras que determinaram a sua elegibilidade por um período mínimo de cinco anos ou, quando inferior, durante o respetivo período mínimo de vida útil, determinado nos termos do Decreto Regulamentar n.º 25/2009, de 14 de setembro, alterado pela Lei n.º 64-B/2011, de 30 de dezembro, ou até ao período em que se verifique o respetivo abate físico, desmantelamento, abandono ou inutilização, observadas as regras previstas no artigo 38.º do Código do IRC."
+  },
+  "131330673": {
+   "fragment_id": "131330713",
+   "type": 11,
+   "heading": "Artigo 5.º — Não cumulação com outros regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Não cumulação com outros regimes\n\nO CFEI não é cumulável, relativamente às mesmas despesas de investimento elegíveis, com quaisquer outros benefícios fiscais da mesma natureza, previstos noutros diplomas legais."
+  },
+  "131330674": {
+   "fragment_id": "131330714",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações acessórias\n\n1 - A dedução prevista no artigo 3.º é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC que identifique discriminadamente as despesas de investimento relevantes, o respetivo montante e outros elementos considerados relevantes.\n\n2 - A contabilidade dos sujeitos passivos de IRC beneficiários do CFEI deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 3.º, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efetua a dedução."
+  },
+  "131331475": {
+   "fragment_id": "131330715",
+   "type": 11,
+   "heading": "Artigo 7.º — Resultado da liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Resultado da liquidação\n\nO CFEI encontra-se excluído do âmbito de aplicação do n.º 1 do artigo 92.º do Código do IRC."
+  },
+  "131331476": {
+   "fragment_id": "131330716",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma sancionatória\n\nSem prejuízo do disposto no Regime Geral das Infrações Tributárias, o incumprimento das regras de elegibilidade das despesas de investimento previstas no artigo 4.º, bem como no artigo 5.º e no n.º 1 do artigo 6.º implica a devolução do montante de imposto que deixou de ser liquidado em virtude da aplicação do presente regime, acrescido dos correspondentes juros compensatórios majorados em 15 pontos percentuais."
+  },
+  "131331477": {
+   "fragment_id": "131330717",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "131331479": {
+   "fragment_id": "131330711",
+   "type": 11,
+   "heading": "Artigo 3.º — Incentivo fiscal",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 386.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 3.º — Incentivo fiscal\n\n1 - O benefício fiscal a conceder aos sujeitos passivos referidos no artigo anterior corresponde a uma dedução à coleta de IRC no montante de 20 % das despesas de investimento em ativos afetos à exploração, que sejam efetuadas entre 1 de junho de 2013 e 31 de dezembro de 2013.\n\n2 - Para efeitos da dedução prevista no número anterior, o montante máximo das despesas de investimento elegíveis é de 5 000 000,00 EUR, por sujeito passivo.\n\n3 - A dedução prevista nos números anteriores é efetuada na liquidação de IRC respeitante ao período de tributação que se inicie em 2013, até à concorrência de 70 % da coleta deste imposto.\n\n4 - No caso de sujeitos passivos que adotem um período de tributação não coincidente com o ano civil e com início após 1 de junho de 2013, as despesas relevantes para efeitos da dedução prevista nos números anteriores são as efetuadas em ativos elegíveis desde o início do referido período até ao final do sétimo mês seguinte.\n\n5 - Aplicando-se o regime especial de tributação de grupos de sociedades, a dedução prevista no n.º 1:\n\na) Efetua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 90.º do Código do IRC, com base na matéria coletável do grupo;\n\nb) É feita até 70 % do montante mencionado na alínea anterior e não pode ultrapassar, em relação a cada sociedade e por cada exercício, o limite de 70 % da coleta que seria apurada pela sociedade que realizou as despesas elegíveis, caso não se aplicasse o regime especial de tributação de grupos de sociedades.\n\n6 - A importância que não possa ser deduzida nos termos dos números anteriores pode sê-lo, nas mesmas condições, nos cinco períodos de tributação subsequentes.\n\n7 - Aos sujeitos passivos que se reorganizem, em resultado de quaisquer operações previstas no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais.\n\n> Revogado pelo/a Artigo 386.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "131331478": {
+   "fragment_id": "131330718",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de junho de 2013.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 7 de julho de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 9 de julho de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

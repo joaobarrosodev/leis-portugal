@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:454555:por
+title: Portaria n.º 680/2008
+short_title: null
+summary: Renova, por um período de oito anos, a concessão da zona de caça associativa de Corte Zorrinho, abrangendo vários
+  prédios rústicos sitos nas freguesias de Santa Clara-a-Nova, Gomes Aires e Almodôvar, município de Almodôvar, e anexa à
+  presente zona de caça vários prédios rústicos sitos nas freguesias de Santa Clara-a-Nova e Almodôvar, município de Almodôvar
+  (processo n.º 2448-DGRF)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 680/2008
+official_date: null
+publication_date: '2008-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/2008, Série I de 2008-07-25
+  number: '143'
+  series: I
+  supplement: null
+  pages: 4740 - 4740
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14300/0474004740.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/680/2008/07/25/p/dre/pt/html
+  oj: null
+  dre: '454555'
+  dre_path: /dr/detalhe/portaria/680-2008-454555
+  internal: pt:dre:454555:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-2008-454555
+  metadata_url: https://data.dre.pt/eli/port/680/2008/07/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-2008-454555
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:33:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c90ffaa688e2f5930c1a5a2484a79fa038e049d5e0f96159087d3212a8508e86
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:47Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Almodôvar
+- CAÇA
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+- type: cites
+  target: pt:dre:483910:por
+  label: null
+  source: http://data.dre.pt/eli/port/1128/2003/10/01/p/dre
+- type: cites
+  target: pt:dre:540594:por
+  label: null
+  source: http://data.dre.pt/eli/port/849/2006/08/22/p/dre
+- type: cites
+  target: pt:dre:572080:por
+  label: null
+  source: http://data.dre.pt/eli/port/747/2000/09/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:33:47Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 680/2008
+
+de 25 de Julho
+
+Pela [Portaria n.º 747/2000](https://diariodarepublica.pt/dr/detalhe/portaria/747-2000-572080), de 12 de Setembro, foi concessionada à Associação de Caçadores de Corte Zorrinho a zona de caça associativa de Corte Zorrinho (processo n.º 2448-DGRF), situada no município de Almodôvar, válida até 12 de Setembro de 2008.
+
+Na [Portaria n.º 1128/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1128-2003-483910), de 1 de Outubro, é referido que são anexados à zona de caça em causa vários prédios rústicos com a área de 147,50 ha, quando efectivamente deveria referir a área de 465,5890 ha.
+
+Pela [Portaria n.º 849/2006](https://diariodarepublica.pt/dr/detalhe/portaria/849-2006-540594), de 22 de Agosto, foram anexados outros prédios rústicos, tendo a zona de caça, face ao erro anteriormente detectado, ficado com a área de 2133 ha e não 1815 ha como é referido.
+
+Veio agora a entidade concessionária requerer a renovação e simultaneamente a anexação de outros prédios rústicos.
+
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, ouvido o Conselho Cinegético Municipal:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º É renovada, por um período de oito anos, renovável automaticamente por um único e igual período e com efeitos a partir do dia 13 de Setembro de 2008, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos nas freguesias de Santa Clara-a-Nova, Gomes Aires e Almodôvar, município de Almodôvar, com a área de 2030 ha.
+
+2.º São anexados à presente zona de caça vários prédios rústicos sitos nas freguesias de Santa Clara-a-Nova e Almodôvar, município de Almodôvar, com a área de 16 ha.
+
+3.º Esta zona de caça após a sua renovação e anexação dos terrenos acima referidos ficará com a área total de 2046 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+4.º Esta anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 17 de Julho de 2008.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14300/0474004740.pdf)

@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:105658703:por
+title: Resolução do Conselho de Ministros n.º 84-C/2016
+short_title: null
+summary: Autoriza o Ministro das Finanças, em nome da República Portuguesa, a desenvolver as operações relativas à participação
+  no capital do Banco Asiático de Investimento em Infraestrutura
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 84-C/2016
+official_date: null
+publication_date: '2016-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/2016, 3º Suplemento, Série I de 2016-12-29
+  number: '249'
+  series: I
+  supplement: null
+  pages: 5142-(32) a 5142-(33)
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24903/0003200033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/84-c/2016/12/29/p/dre/pt/html
+  oj: null
+  dre: '105658703'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/84-c-2016-105658703
+  internal: pt:dre:105658703:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-c-2016-105658703
+  metadata_url: https://data.dre.pt/eli/resolconsmin/84-c/2016/12/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-c-2016-105658703
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:50:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1f9a8e264b12449bb0883687b761eac270f9337b2de801266b32dec04b42ed43
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:50:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- China
+- Convenção
+- Delegação de Competências
+- Despesas Públicas
+- Investimento
+- Ministro das Finanças
+- Pequim
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:50:37Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 84-C/2016
+
+O Banco Asiático de Investimento em Infraestrutura (BAII) é uma nova instituição multilateral de financiamento, proposta, em finais de 2013, pela República Popular da China, tendo por objetivo a promoção do desenvolvimento económico e a integração regional da Ásia e do Pacífico, contribuindo, assim, para satisfazer parte das necessidades de financiamento de projetos de infraestruturas na região.
+
+Esta instituição apresenta um total de capital subscrito de USD 100 mil milhões, 20 % dos quais em capital realizável, com base nas contribuições dos cinquenta e sete países membros que declararam formalmente a sua intenção de aderirem ao BAII enquanto Potenciais Países Membros. O Acordo Constitutivo do Banco Asiático de Investimento em Infraestrutura foi assinado em 29 de junho de 2015, em Pequim, por cinquenta Potenciais Países Membros e entrou em vigor em 25 de dezembro de 2015, após ter sido cumprido o requisito do depósito do instrumento de subscrição por pelo menos dez países que representassem 50 % do capital da instituição.
+
+Portugal formalizou, em 31 de março de 2015, a sua intenção de aderir ao BAII, sob a forma de Potencial País Membro, tendo sido um dos cinquenta países que assinaram o Acordo Constitutivo do Banco Asiático de Investimento em Infraestrutura em 29 de junho de 2015.
+
+Subsequentemente, este Acordo foi aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 198/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75481289/details/normal?l=1), de 20 de julho, publicada no Diário da República, 1.ª série, n.º 193, de 7 de outubro de 2016, e ratificado pelo [Decreto do Presidente da República n.º 82/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75481286/details/normal?l=1), de 27 de setembro, publicado no mesmo Diário da República.
+
+É agora, e considerando todos estes elementos, indispensável dispor de um instrumento legal que regule o cumprimento dos requisitos inerentes à adesão e à participação financeira portuguesa na referida instituição.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar o Ministro das Finanças, em nome da República Portuguesa, a subscrever 650 ações do capital do Banco Asiático de Investimento em Infraestrutura (BAII), no valor de USD 65 milhões, sendo que esta subscrição corresponde a 520 ações em capital exigível e a 130 ações em capital realizável, no valor de USD 52 milhões e USD 13 milhões, respetivamente.
+
+2 - Determinar que cabe ao Ministro das Finanças, com a faculdade de delegação, representar o Governo perante o BAII.
+
+3 - Determinar, ainda, que, para efeitos do previsto no artigo 22.º do Acordo Constitutivo, o governador por Portugal no BAII é o Ministro das Finanças, que designa o governador suplente.
+
+4 - Indicar que compete ao Ministério dos Negócios Estrangeiros o depósito do instrumento de ratificação junto do BAII, onde ficará depositada cópia do mesmo.
+
+5 - Designar, para efeitos do disposto no n.º 1 do artigo 33.º do Acordo Constitutivo do BAII, o Ministério das Finanças como entidade oficial para assegurar a ligação com o mesmo, através do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais.
+
+6 - Estabelecer, para efeitos do n.º 2 do artigo 33.º do Acordo Constitutivo do BAII, ser a Direção-Geral do Tesouro e Finanças o depositário em Portugal dos ativos em euros, bem como de outros ativos do BAII.
+
+7 - Determinar que o pagamento das ações realizáveis é efetuado em cinco prestações no valor de USD 2,6 milhões, a vencer entre 2016 e 2019.
+
+8 - Estabelecer, com referência ao número anterior, que a primeira prestação deve ser paga antes, ou no dia do depósito do instrumento de ratificação, e até 31 de dezembro de 2016, e que as seguintes prestações devem ser feitas até à data de cada aniversário da entrada em vigor do Acordo Constitutivo, ou seja, até 25 de dezembro de 2016, até 25 de dezembro de 2017, até 25 de dezembro de 2018 e até 25 de dezembro de 2019.
+
+9 - Estabelecer que o pagamento das ações realizáveis é efetuado em dinheiro.
+
+10 - Autorizar o Ministro das Finanças, em representação do Governo, a:
+
+a) Inscrever no Orçamento do Estado as verbas necessárias para os encargos da participação no capital do BAII;
+
+b) Praticar todos os demais atos financeiros necessários à concretização da adesão de Portugal ao BAII.
+
+11 - Determinar que cabe ao Ministro das Finanças, com a capacidade de delegação, praticar todos os atos necessários à realização do previsto nos números anteriores.
+
+Presidência do Conselho de Ministros, 22 de dezembro de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.

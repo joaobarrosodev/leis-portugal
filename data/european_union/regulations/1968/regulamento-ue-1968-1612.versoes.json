@@ -1,0 +1,1493 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31968R1612:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968R1612-20110616",
+ "dre_path": null,
+ "source_lastmod": "2011-06-16",
+ "versions": [
+  {
+   "date": "1968-10-19",
+   "future": false,
+   "celex": "31968R1612",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ffb77b62c79713e0",
+    "5cc25ef53f615845",
+    "a7440bba2065a15a",
+    "da9c002a75cdcfed",
+    "d64e1144c83c70ce",
+    "2e69e0baa131c742",
+    "577c0080358b91ca",
+    "b1f064cb12ea6020",
+    "685bb300385c101a",
+    "818a006c6325852b",
+    "0f8a06d23fa8f0bb",
+    "966c9bb44101021e",
+    "311cdebf71c274c0",
+    "7a05e9fbf97d1fe5",
+    "61c0553a3fbbadfc",
+    "12e17fa2ff5ddfe2",
+    "246845abb447503d",
+    "c5aa934c19a82a4b",
+    "f8f3cea9579a9761",
+    "55f1f2d21150218b",
+    "b9961a988033dc81",
+    "4bfe690e159d6d78",
+    "d98cd70e8c65b015",
+    "0f9530205c1b2903",
+    "dc1eb7870d24fa77",
+    "e516850f1c27fa15",
+    "abe33b4feeaa69aa",
+    "3884fc792f95d618",
+    "09ab9703152b5651",
+    "4350ec62a587cfb6",
+    "25a2dc0392756b22",
+    "77ed01f0fcc26d92",
+    "2a31f8f435e9fba2",
+    "e98b3dc58906bf3c",
+    "ace42a84f1807363",
+    "46b246952dda3233",
+    "832283ce4d020e9c",
+    "9a18eb419353ed1c",
+    "dde19321dadb4fc8",
+    "92c065bdfb454068",
+    "0e04829076266100",
+    "e152af4c94c4937b",
+    "b9412ceb6f6a12b9",
+    "ab1a4e9156205aad",
+    "e50c65ec18994a3b",
+    "260416367b2a9cc2",
+    "22fcf9ca7fb3494b",
+    "49af7caf4159b140",
+    "4b5aecad1306112a",
+    "16194914fbb98449",
+    "79a759b027660196",
+    "98a30dd3e3be3ff8",
+    "8ea56ca8c5c57534",
+    "c689efbf3ea14059",
+    "07efb707e719fe60",
+    "1bbe4e91840e2eca",
+    "fa68b1a5983bfbeb",
+    "446b741f822efd2c",
+    "6a33b638e9c50cd6",
+    "40a4e793cc12a78e",
+    "08d3a5196ff413ee",
+    "52d9327f1f4accb6",
+    "9d37e42de17aa2ca",
+    "935e2dd3366cb7e4",
+    "af0e9ad4176c8393"
+   ]
+  },
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "01968R1612-20040430",
+   "acts": [
+    {
+     "id": "eu:celex:31976R0312:por",
+     "title": "REGULAMENTO (CEE) N. o 312/76 DO CONSELHO de 9 de Fevereiro de 1976",
+     "published": null,
+     "celex": "31976R0312"
+    },
+    {
+     "id": "eu:celex:31992R2434:por",
+     "title": "REGULAMENTO (CEE) N. o 2434/92 DO CONSELHO de 27 de Julho de 1992",
+     "published": null,
+     "celex": "31992R2434"
+    },
+    {
+     "id": "eu:celex:32004L0038:por",
+     "title": "DIRECTIVA 2004/38/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Abril de 2004",
+     "published": null,
+     "celex": "32004L0038"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera PARTE III",
+    "Adita PARTE I",
+    "Adita DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES",
+    "Adita TÍTULO I",
+    "Adita Do acesso ao emprego",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita TÍTULO II",
+    "Adita Do exercício do emprego e da igualdade de tratamento",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita TÍTULO III",
+    "Adita Da família dos trabalhadores",
+    "Adita Artigo 12.º",
+    "Adita PARTE II",
+    "Adita DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO",
+    "Adita Da colaboração entre os Estados-membros e com a Comissão",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Do mecanismo de compensação",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Das medidas reguladoras do equilíbrio no mercado de trabalho",
+    "Adita Artigo 19.º",
+    "Adita TÍTULO IV",
+    "Adita Do Gabinete Europeu de Coordenação",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita DOS ORGANISMOS ENCARREGADOS DE ASSEGURAR UMA ESTREITA COLABORAÇÃO ENTRE OS ESTADOS-MEMBROS EM MATÉRIA DE LIVRE CIRCULAÇÃO E DE EMPREGO DOS TRABALHADORES",
+    "Adita Do Comité Consultivo",
+    "Adita Artigo 24.º",
+    "Adita Artigo 25.º",
+    "Adita Artigo 26.º",
+    "Adita Artigo 27.º",
+    "Adita Artigo 28.º",
+    "Adita Artigo 29.º",
+    "Adita Artigo 30.º",
+    "Adita Artigo 31.º",
+    "Adita Do Comité Técnico",
+    "Adita Artigo 32.º",
+    "Adita Artigo 33.º",
+    "Adita Artigo 34.º",
+    "Adita Artigo 35.º",
+    "Adita Artigo 36.º",
+    "Adita Artigo 37.º",
+    "Adita PARTE IV",
+    "Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Adita Disposições transitórias",
+    "Adita Artigo 38.º",
+    "Adita Artigo 39.º",
+    "Adita Artigo 40.º",
+    "Adita Artigo 41.º",
+    "Adita Disposições finais",
+    "Adita Artigo 42.º",
+    "Adita Artigo 43.º",
+    "Adita Artigo 44.º",
+    "Adita Artigo 45.º",
+    "Adita Artigo 46.º",
+    "Adita Artigo 47.º",
+    "Adita Artigo 48.º",
+    "Adita Notas",
+    "Suprime PARTE I — DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES",
+    "Suprime TÍTULO I — Do acesso ao emprego",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime TÍTULO II — Do exercício do emprego e da igualdade de tratamento",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime TÍTULO III — Da família dos trabalhadores",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime PARTE II — DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO",
+    "Suprime TÍTULO I — Da colaboração entre os Estados-membros e com a Comissão",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime TÍTULO II — Do mecanismo de compensação",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime TÍTULO III — Das medidas reguladoras do equilíbrio no mercado de trabalho",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime TÍTULO IV — Do Gabinete Europeu de Coordenação",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime TÍTULO I — Do Comité Consultivo",
+    "Suprime Artigo 24o",
+    "Suprime Artigo 25o — Ao Comité Consultivo cabe nomeadamente,",
+    "Suprime Artigo 26o",
+    "Suprime Artigo 27o",
+    "Suprime Artigo 28o",
+    "Suprime Artigo 29o",
+    "Suprime Artigo 30o",
+    "Suprime Artigo 31o",
+    "Suprime TÍTULO II — Do Comité Técnico",
+    "Suprime Artigo 32o",
+    "Suprime Artigo 33o",
+    "Suprime Artigo 34o",
+    "Suprime Artigo 35o",
+    "Suprime Artigo 36o",
+    "Suprime Artigo 37o",
+    "Suprime PARTE IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Suprime TÍTULO I — Disposições transitórias",
+    "Suprime Artigo 38o",
+    "Suprime Artigo 39o",
+    "Suprime Artigo 40o",
+    "Suprime Artigo 41o",
+    "Suprime TÍTULO II — Disposições finais",
+    "Suprime Artigo 42o",
+    "Suprime Artigo 43o",
+    "Suprime Artigo 44o",
+    "Suprime Artigo 45o",
+    "Suprime Artigo 46o",
+    "Suprime Artigo 47o",
+    "Suprime Artigo 48o",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "b85e2084c60f8e2a",
+    "28b3eaf5d9031d4f",
+    "641f9d6162a65aa2",
+    "ffc348f463b781ad",
+    "5eec45f5268eeddb",
+    "4c1d591a16aee66f",
+    "daebf632c7bf024e",
+    "a8bc612be4abdc11",
+    "60c23643fefb0422",
+    "1b26ef7b7216aa43",
+    "0ecc055fa9c34238",
+    "4c8bdeab3d91ec7d",
+    "381d5fc303367eb8",
+    "725112c84da60550",
+    "c5ff5e0a18a097f9",
+    "cacec4611b504152",
+    "9db704600627e53c",
+    "1f39a80db327e0e9",
+    "a97a00001294c282",
+    "a152f9cee9821cd4",
+    "686e3b417b0ff632",
+    "ffc348f463b781ad",
+    "082752ff9c1f112a",
+    "f179614190bb8603",
+    "4ade8e130d732caf",
+    "4c8bdeab3d91ec7d",
+    "326d97bb0146490e",
+    "4d6309aae4079de1",
+    "077543fd25e346bf",
+    "203f803e0b2bd833",
+    "1395ddf4077aad0a",
+    "9db704600627e53c",
+    "c217d1a533a6eddf",
+    "3f64c88f431dc016",
+    "662cf62f00c33127",
+    "eb17743a1cbcadd3",
+    "4740a98f2af045c0",
+    "b875310edfe3b5df",
+    "e4180e45c19e0027",
+    "3e5bcb13ac5aa89f",
+    "317eaac88c51a7c9",
+    "ffc348f463b781ad",
+    "2e76da470ab310e5",
+    "fc20172f5272e829",
+    "e7310f54491b0357",
+    "dbb3fac7d6be118f",
+    "036953f694da6337",
+    "9bed374e9d6c31e3",
+    "c407e928d5f4643e",
+    "476e6ee3aef5494b",
+    "4a8ac55df0f1ae46",
+    "4c8bdeab3d91ec7d",
+    "33f1f53bc739b5aa",
+    "4ee4b86948ef1816",
+    "84c928117953173b",
+    "c984f560f8ff9d02",
+    "2de688c8fe27df73",
+    "d42ae36e694aa936",
+    "81ae3c1a17ca12b6",
+    "757fb080a57ebd28",
+    "fee7c0f6661bbf52",
+    "ffc348f463b781ad",
+    "32e2879abaf5530e",
+    "697e9670158f1e40",
+    "d49473e660c50587",
+    "74c1f5b83787993a",
+    "fe9e3260f28d4127",
+    "4c8bdeab3d91ec7d",
+    "bbdde795c58f027f",
+    "d3953b54564ca938",
+    "36a9298e6cf76014",
+    "3d740e204e483d76",
+    "e1f6ee5d9d8804e8",
+    "a9205673be9375be",
+    "db8c33cf4b7391c3",
+    "6a8861cef45adc79",
+    "c226e27c01b030ac"
+   ]
+  },
+  {
+   "date": "2011-06-16",
+   "future": false,
+   "celex": "01968R1612-20110616",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime PARTE I",
+    "Suprime DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES",
+    "Suprime TÍTULO I",
+    "Suprime Do acesso ao emprego",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime TÍTULO II",
+    "Suprime Do exercício do emprego e da igualdade de tratamento",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime TÍTULO III",
+    "Suprime Da família dos trabalhadores",
+    "Suprime Artigo 12.º",
+    "Suprime PARTE II",
+    "Suprime DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO",
+    "Suprime Da colaboração entre os Estados-membros e com a Comissão",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Do mecanismo de compensação",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Das medidas reguladoras do equilíbrio no mercado de trabalho",
+    "Suprime Artigo 19.º",
+    "Suprime TÍTULO IV",
+    "Suprime Do Gabinete Europeu de Coordenação",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime PARTE III",
+    "Suprime DOS ORGANISMOS ENCARREGADOS DE ASSEGURAR UMA ESTREITA COLABORAÇÃO ENTRE OS ESTADOS-MEMBROS EM MATÉRIA DE LIVRE CIRCULAÇÃO E DE EMPREGO DOS TRABALHADORES",
+    "Suprime Do Comité Consultivo",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime Do Comité Técnico",
+    "Suprime Artigo 32.º",
+    "Suprime Artigo 33.º",
+    "Suprime Artigo 34.º",
+    "Suprime Artigo 35.º",
+    "Suprime Artigo 36.º",
+    "Suprime Artigo 37.º",
+    "Suprime PARTE IV",
+    "Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Suprime Disposições transitórias",
+    "Suprime Artigo 38.º",
+    "Suprime Artigo 39.º",
+    "Suprime Artigo 40.º",
+    "Suprime Artigo 41.º",
+    "Suprime Disposições finais",
+    "Suprime Artigo 42.º",
+    "Suprime Artigo 43.º",
+    "Suprime Artigo 44.º",
+    "Suprime Artigo 45.º",
+    "Suprime Artigo 46.º",
+    "Suprime Artigo 47.º",
+    "Suprime Artigo 48.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "6a407d8a02972e7e"
+   ]
+  }
+ ],
+ "fragments": {
+  "ffb77b62c79713e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1612/68 do Conselho, de 15 de Outubro de 1968, relativo à livre circulação dos trabalhadores na Comunidade** *Jornal Oficial nº L 257 de 19/10/1968 p. 0002 - 0012 Edição especial finlandesa: Capítulo 5 Fascículo 1 p. 0033 Edição especial dinamarquesa: Série I Capítulo 1968(II) p. 0467 Edição especial sueca: Capítulo 5 Fascículo 1 p. 0033 Edição especial inglesa: Série I Capítulo 1968(II) p. 0475 Edição especial grega: Capítulo 05 Fascículo 1 p. 0033 Edição especial espanhola: Capítulo 05 Fascículo 1 p. 0077 Edição especial portuguesa: Capítulo 05 Fascículo 1 p. 0077*\n\nREGULAMENTO (CEE) No 1612/68 DO CONSELHO de 15 de Outubro de 1968 relativo à livre circulação dos trabalhadores na Comunidade\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 49o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que a livre circulação dos trabalhadores deve ficar assegurada, na Comunidade, o mais tardar no termo do período de transição; que a realização deste objectivo implica a abolição entre os trabalhadores dos Estados-membros de toda e qualquer discriminação em razão da nacionalidade, no que diz respeito ao emprego, à remuneração e demais condições de trabalho, bem como o direito daqueles trabalhadores se deslocarem livremente na Comunidade para exercerem uma actividade assalariada, sem prejuízo das limitações justificadas por razões de ordem pública, segurança pública e saúde pública;\n\nConsiderando que, em consequência nomeadamente da aceleração ocorrida no estabelecimento da união aduaneira, e a fim de se garantir a realização simultânea dos fundamentos essenciais da Comunidade, á conveniente adoptar as disposições que permitam atingir os objectivos fixados nos artigos 48o e 49o do Tratado no domínio da livre circulação e aperfeiçoar as medidas tomadas sucessivamente no âmbito do Regulamento no 15 relativo às primeiras medidas para a realização da livre circulação dos trabalhadores na Comunidade (3) e do Regulamento no 38/64/CEE do Conselho, de 25 de Março de 1964, relativo à livre circulação dos trabalhadores na Comunidade (4);\n\nConsiderando que a livre circulação constitui para os trabalhadores e para as suas famílias um direito fundamental; que a mobilidade da mão-de-obra na Comunidade deve ser para o trabalhador um dos meios de garantir a possibilidade de melhorar as suas condições de vida e de trabalho e de facilitar a sua promoção social, contribuindo simultaneamente para a satisfação das necessidades decorrentes da economia dos Estados-membros; que á conveniente afirmar o direito de todos os trabalhadores dos Estados-membros de exercerem a actividade de sua escolha na Comunidade;\n\nConsiderando que este direito deve ser reconhecido indiferentemente aos trabalhadores «permanentes», sazonais, fronteiriços ou àqueles que exerçam a sua actividade aquando de uma prestação de serviços;\n\nConsiderando que o direito de livre circulação exige, a fim de que possa exercer-se em condições objectivas de liberdade e de dignidade, que seja assegurada, de facto e de direito, a igualdade de tratamento em tudo o que se relacione com o próprio exercício de uma actividade assalariada e com o acesso ao alojamento e também que sejam eliminados os obstáculos que se opõem à mobilidade dos trabalhadores, nomeadamente no que se refere ao direito ao reagrupamento familiar e às condições de integração da família no país de acolhimento;\n\nConsiderando que o princípio da não discriminação entre os trabalhadores da Comunidade implica o reconhecimento a todos os nacionais dos Estados-membros da mesma prioridade no acesso ao emprego de que beneficiam os trabalhadores nacionais;\n\nConsiderando que é necessário reforçar os mecanismos de contacto e compensação, nomeadamente através do desenvolvimento da colaboração directa entre os serviços centrais de emprego e também entre os serviços regionais, bem como através da intensificação e coordenação da acção de informação, a fim de se assegurar, de uma maneira geral, uma melhor visão do mercado de trabalho; que os trabalhadores que pretendam deslocar-se devem igualmente ser informados regularmente acerca das condições de vida e de trabalho; que, por outro lado, é necessário prever medidas a aplicar no caso de um Estado-membro sofrer ou prever perturbações no seu mercado de trabalho que possam originar riscos graves para o nível de vida e de emprego numa região ou numa indústria; que, para o efeito, a acção de informação que vise desencorajar a partida dos trabalhadores para essa região ou indústria constitui o meio a aplicar em primeiro lugar, mas que, se for caso disso, os resultados desta acção devem poder ser reforçados por uma suspensão temporária dos mecanismos acima referidos, cuja decisão deve ser tomada ao nível da Comunidade;\n\nConsiderando que existem laços estreitos entre a livre circulação dos trabalhadores, o emprego e a formação profissional na medida em que esta tende a colocar os trabalhadores em condições de responder a ofertas de emprego concretas, feitas noutras regiões da Comunidade; que estes laços obrigam a estudar os problemas relacionados com esta matéria já não isoladamente, mas nas suas relações de interdependência, tendo também em conta os problemas de emprego a nível regional e que se torna, portanto, necessário orientar os esforços dos Estados-membros para o estabelecimento de uma coordenação comunitária da sua política de emprego;\n\nConsiderando que o Conselho, por Decisão de 15 de Outubro de 1968 (5), tornou aplicáveis aos departamentos franceses ultramarinos os artigos 48o e 49o do Tratado, bem como as disposições adoptadas em sua execução,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5cc25ef53f615845": {
+   "fragment_id": "PARTE I — DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES",
+   "type": "divisao",
+   "heading": "PARTE I — DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE I — DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES"
+  },
+  "a7440bba2065a15a": {
+   "fragment_id": "TÍTULO I — Do acesso ao emprego",
+   "type": "divisao",
+   "heading": "TÍTULO I — Do acesso ao emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Do acesso ao emprego"
+  },
+  "da9c002a75cdcfed": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os nacionais de um Estado-membro, independentemente do local da sua residência, têm o direito de aceder a uma actividade assalariada e de a exercer no território de outro Estado-membro, em conformidade com as disposições legislativas, regulamentares e administrativas que regem o emprego dos trabalhadores nacionais deste Estado.\n\n2. Beneficiarão, nomeadamente, no território de outro Estado-membro, da mesma prioridade que os nacionais deste Estado no acesso aos empregos disponíveis."
+  },
+  "d64e1144c83c70ce": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs nacionais de um Estado-membro e as entidades patronais que exerçam uma actividade no território de um Estado-membro podem trocar os seus pedidos e ofertas de emprego, celebrar e executar contratos de trabalho em conformidade com as disposições legislativas, regulamentares e administrativas em vigor, sem que disso possa resultar qualquer discriminação."
+  },
+  "2e69e0baa131c742": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. No âmbito do presente regulamento, não são aplicáveis as disposições legislativas, regulamentares ou administrativas nem as práticas administrativas de um Estado-membro:\n\n- que limitem ou subordinem a condições não previstas para os nacionais, os pedidos e ofertas de emprego, o acesso ao emprego e o seu exercício por parte de estrangeiros; ou\n\n- que, embora aplicáveis sem distinção de nacionalidade, tenham por objectivo ou efeito exclusivo ou principal afastar os nacionais dos outros Estados-membros do emprego oferecido.\n\nEsta disposição não tem em vista as condições relativas aos conhecimentos linguísticos exigidos pela natureza do emprego a preencher.\n\n2. Entre as disposições ou práticas referidas no primeiro parágrafo do no 1, incluem-se, nomeadamente, aquelas que, num Estado-membro:\n\na) Exijam o recurso a processos especiais de recrutamento de mão-de-obra para estrangeiros;\n\nb) Limitem ou subordinem a oferta de emprego por meio da imprensa ou por qualquer outro meio a condições diferentes das que se aplicam às entidades patronais que exercem as suas actividades no território deste Estado;\n\nc) Subordinem o acesso ao emprego a condições de inscrição nos serviços de emprego ou constituam obstáculo ao recrutamento nominativo de trabalhadores, quando se trate de pessoas que não residam no território desse Estado."
+  },
+  "577c0080358b91ca": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. As disposições legislativas, regulamentares e administrativas dos Estados-membros que limitem o emprego de estrangeiros em número ou em percentagem, por empresa, por ramo de actividade, por região ou à escala nacional, não são aplicáveis aos nacionais dos outros Estados-membros.\n\n2. Quando num Estado-membro a concessão de quaisquer benefícios às empresas estiver subordinada ao emprego de uma percentagem mínima de trabalhadores nacionais, os nacionais dos outros Estados-membros são contados como trabalhadores nacionais, sem prejuízo das disposições da Directiva do Conselho de 15 de Outubro de 1963 (6)."
+  },
+  "b1f064cb12ea6020": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs nacionais de um Estado-membro que procurem emprego no território de outro Estado-membro devem aí receber o mesmo apoio que os serviços de emprego deste Estado concedem aos seus nacionais que procuram emprego."
+  },
+  "685bb300385c101a": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A admissão e o recrutamento de um nacional de um Estado-membro para um emprego noutro Estado-membro não podem depender de critérios médicos, profissionais, ou outros, que sejam discriminatórios, em razão da nacionalidade, relativamente aos que são aplicados aos nacionais do outro Estado-membro que desejam exercer a mesma actividade.\n\n2. Todavia, o nacional titular de uma oferta nominativa proveniente de uma entidade patronal de um Estado-membro que não seja aquele de que ele é nacional, pode ser submetido a um exame profissional se aquela entidade expressamente o exigir aquando da oferta de emprego."
+  },
+  "818a006c6325852b": {
+   "fragment_id": "TÍTULO II — Do exercício do emprego e da igualdade de tratamento",
+   "type": "divisao",
+   "heading": "TÍTULO II — Do exercício do emprego e da igualdade de tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Do exercício do emprego e da igualdade de tratamento"
+  },
+  "0f8a06d23fa8f0bb": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. O trabalhador nacional de um Estado-membro não pode, no território de outros Estados-membros, sofrer, em razão da sua nacionalidade, tratamento diferente daquele que é concedido aos trabalhadores nacionais no que respeita a todas as condições de emprego e de trabalho, nomeadamente em matéria de remuneração, de despedimento e de reintegração profissional ou de reemprego, se ficar desempregado.\n\n2. Aquele trabalhador beneficia das mesmas vantagens sociais e fiscais que os trabalhadores nacionais.\n\n3. Beneficia igualmente, com o mesmo fundamento e nas mesmas condições que os trabalhadores nacionais, de acesso ao ensino nas escolas profissionais e nos centros de readaptação ou de reconversão.\n\n4. São nulas todas e quaisquer cláusulas de convenção colectiva ou individual ou de qualquer outra regulamentação colectiva respeitantes ao acesso ao emprego, ao emprego, à remuneração e às outras condições de trabalho e de despedimento, na medida em que prevejam ou autorizem condições discriminatórias relativamente aos trabalhadores nacionais de outros Estados-membros."
+  },
+  "966c9bb44101021e": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O trabalhador nacional de um Estado-membro empregado no território de outro Estado-membro beneficia da igualdade de tratamento em matéria de filiação em organizações sindicais e de exercício dos direitos sindicais, incluindo o direito de voto; pode ser excluído da participação na gestão de organismos de direito público e do exercício de uma função de direito público. Beneficia, além disso, do direito de eligibilidade para os orgãos de representação dos trabalhadores na empresa.\n\nEstas disposições não prejudicam as disposições legislativas ou a regulamentação que, nalguns Estados-membros, concedem direitos mais amplos aos trabalhadores provenientes de outros Estados-membros.\n\n2. O presente artigo será objecto de um novo exame pelo Conselho, com base numa proposta da Comissão que será apresentada no prazo máximo de dois anos."
+  },
+  "311cdebf71c274c0": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. O trabalhador nacional de um Estado-membro, empregado no território de outro Estado-membro, beneficia de todos os direitos e vantagens concedidos aos trabalhadores nacionais em matéria de alojamento, incluindo o acesso à propriedade da habitação de que necessita.\n\n2. Este trabalhador pode, com o mesmo fundamento que os nacionais, inscrever-se, na região onde estiver empregado, nas listas de candidatos a alojamento, nos locais onde essas listas existam, usufruindo das vantagens e prioridades daí decorrentes.\n\nA família do trabalhador que ainda permaneça no país de origem é considerada, para este efeito, como residindo na região em causa, na medida em que os trabalhadores nacionais beneficiem de presunção análoga."
+  },
+  "7a05e9fbf97d1fe5": {
+   "fragment_id": "TÍTULO III — Da família dos trabalhadores",
+   "type": "divisao",
+   "heading": "TÍTULO III — Da família dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Da família dos trabalhadores"
+  },
+  "61c0553a3fbbadfc": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. Têm o direito de se instalar com o trabalhador nacional de um Estado-membro empregado no território de outro Estado-membro, seja qual for a sua nacionalidade:\n\na) O cônjuge e descendentes menores de vinte e um anos ou a cargo;\n\nb) Os ascendentes do trabalhador e os do seu cônjuge que se encontrem a seu cargo.\n\n2. Os Estados-membros favorecerão a admissão de todos os familiares que não beneficiem do disposto no no 1, desde que estes se encontrem a cargo ou vivam, no país de origem, sob o mesmo tecto que o referido trabalhador.\n\n3. Para efeitos do disposto nos nos 1 e 2, o trabalhador deve ter um alojamento para a sua família, considerado normal para os trabalhadores nacionais na região onde está empregado, sem que esta disposição possa originar discriminação entre os trabalhadores nacionais e os trabalhadores provenientes de outros Estados-membros."
+  },
+  "12e17fa2ff5ddfe2": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nO cônjuge e os filhos menores de 21 anos ou a cargo de um nacional de um Estado-membro que exerça no território de um Estado-membro uma actividade, assalariada ou não, têm o direito de aceder a qualquer actividade assalariada em todo o território desse mesmo Estado, ainda que não tenham a nacionalidade de um Estado-membro."
+  },
+  "246845abb447503d": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nOs filhos de um nacional de um Estado-membro que esteja ou tenha estado empregado no território de outro Estado-membro, são admitidos nos cursos de ensino geral, de aprendizagem e de formação profissional nas mesmas condições que os nacionais deste Estado, desde que residam no seu território.\n\nOs Estados-membros encorajarão as iniciativas que permitam a esses filhos seguir os cursos acima referidos nas melhores condições."
+  },
+  "c5aa934c19a82a4b": {
+   "fragment_id": "PARTE II — DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO",
+   "type": "divisao",
+   "heading": "PARTE II — DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE II — DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO"
+  },
+  "f8f3cea9579a9761": {
+   "fragment_id": "TÍTULO I — Da colaboração entre os Estados-membros e com a Comissão",
+   "type": "divisao",
+   "heading": "TÍTULO I — Da colaboração entre os Estados-membros e com a Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Da colaboração entre os Estados-membros e com a Comissão"
+  },
+  "55f1f2d21150218b": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Os Estados-membros ou a Comissão promoverão ou empreenderão, conjuntamente, quaisquer estudos nos domínios do emprego e do desemprego que considerem necessários no âmbito da realização da livre circulação dos trabalhadores na Comunidade.\n\nOs serviços centrais de emprego dos Estados-membros cooperarão estreitamente entre si e com a Comissão tendo em vista uma actuação comum no domínio da compensação das ofertas e pedidos de emprego na Comunidade e no da colocação dos trabalhadores que daí resulte.\n\n2. Para o efeito, os Estados-membros designarão serviços especializados aos quais caberá organizar os trabalhos nos domínios acima referidos e colaborar entre si e com os serviços da Comissão.\n\nOs Estados-membros comunicarão à Comissão todas as modificações que ocorram na designação destes serviços e a Comissão publicá-las-á a título informativo no Jornal Oficial das Comunidades Europeias."
+  },
+  "b9961a988033dc81": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Os Estados-membros comunicarão à Comissão as informações sobre os problemas e dados relacionados com a livre circulação e o emprego dos trabalhadores, bem como as informações relativas à situação e à evolução do emprego por regiões e ramos de actividade.\n\n2. A Comissão fixará, em colaboração com o Comité Técnico, a forma como são elaboradas as informações referidas no no 1, bem como a periodicidade da sua comunicação. Para apreciação da situação do seu mercado de trabalho, os Estados-membros utilizarão critérios uniformes estabelecidos pela Comissão em conformidade com os resultados dos trabalhos efectuados pelo Comité Técnico nos termos da alínea d) do artigo 33o e após parecer do Comité Consultivo.\n\n3. Em conformidade com as modalidades estabelecidas pela Comissão de acordo com o Comité Técnico, o serviço especializado de cada Estado-membro comunica aos serviços especializados dos outros Estados-membros e ao Gabinete Europeu de Coordenação, as informações respeitantes às condições de vida e de trabalho e à situação no mercado de emprego que sejam adequadas a fornecer uma orientação aos trabalhadores dos outros Estados-membros. Estas informações serão actualizadas regularmente.\n\nOs serviços especializados dos outros Estados-membros assegurarão uma vasta publicidade destas informações, nomeadamente através da sua difusão junto dos serviços de emprego adequados, bem como através de todos os meios de comunicação que se prestem à informação dos trabalhadores interessados."
+  },
+  "4bfe690e159d6d78": {
+   "fragment_id": "TÍTULO II — Do mecanismo de compensação",
+   "type": "divisao",
+   "heading": "TÍTULO II — Do mecanismo de compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Do mecanismo de compensação"
+  },
+  "d98cd70e8c65b015": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. O serviço especializado de cada Estado-membro comunicará, pelo menos uma vez por mês, aos serviços especializados dos outros Estados-membros, bem como ao Gabinete Europeu de Coordenação uma relação, por profissões e por regiões:\n\na) Das ofertas de emprego não satisfeitas ou não susceptíveis de serem satisfeitas pela mão-de-obra pertencente ao mercado de trabalho nacional;\n\nb) Dos candidatos a emprego que tenham declarado estar efectivamente dispostos a ocupar um emprego noutro país.\n\nO serviço especializado de cada Estado-membro transmitirá estas informações aos serviços e organismos de emprego competentes.\n\n2. As relações referidas no no 1 serão difundidas segundo um sistema uniformizado, estabelecido pelo Gabinete Europeu de Coordenação em colaboração com o Comité Técnico, no prazo de dezoito meses a contar da data da entrada em vigor do presente regulamento."
+  },
+  "0f9530205c1b2903": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Todas as ofertas de emprego dirigidas aos serviços de emprego de um Estado-membro que não possam ser satisfeitas no mercado de emprego nacional e possam ser objecto de uma compensação comunitária efectuada com base nas relações referidas no artigo 15o serão comunicadas aos serviços de emprego competentes do Estado-membro que tenha comunicado disponibilidades de mão-de-obra na mesma profissão.\n\n2. Estes serviços comunicarão as candidaturas específicas e adequadas aos serviços do primeiro Estado-membro. Durante o prazo de 18 dias a contar da data da recepção da oferta pelos serviços do segundo Estado-membro, estas candidaturas serão apresentadas às entidades patronais com prioridade igual à que é concedida aos trabalhadores nacionais, relativamente a nacionais de Estados não membros.\n\nDurante o prazo acima referido, as ofertas de emprego só serão comunicadas aos Estados não membros, se as disponibilidades de trabalhadores nacionais dos Estados-membros nas profissões correspondentes àquelas ofertas forem consideradas insuficientes pelo Estado-membro de que essas ofertas procedem.\n\n3. O disposto no no 1 não se aplica às ofertas de emprego feitas a trabalhadores nacionais de Estados não membros:\n\na) Quando estas ofertas forem nominativas e tiverem natureza especial baseada:\n\ni) Em razões de ordem profissional respeitantes à especialização, ao carácter de confiança inerente ao emprego oferecido ou a laços profissionais anteriores;\n\nii) Na existência de laços familiares, quer entre o empregador e o trabalhador pretendido, quer entre este e um trabalhador empregado regularmente na empresa, há pelo menos um ano.\n\nA aplicação das subalíneas i) e ii) efectua-se segundo as disposições constantes do anexo;\n\nb) Quando estas ofertas respeitarem ao recrutamento de equipas homogéneas de trabalhadores sazonais das quais pelo menos um membro tenha recebido uma oferta nominativa;\n\nc) Quando estas ofertas provierem de entidades patronais e respeitarem a trabalhadores residentes respectivamente em regiões limítrofes situadas de um lado e de outro da fronteira comum a um Estado-membro e a um Estado não membro;\n\nd) Quando as ofertas feitas expressamente a trabalhadores provenientes de Estados não membros forem mantidas pela entidade patronal por razões inerentes ao bom funcionamento da empresa, após ter havido uma intervenção dos serviços de emprego no sentido de assegurar o emprego de mão-de-obra nacional ou originária de outros Estados-membros da Comunidade e se estes serviços considerarem justificados os motivos expostos pela entidade patronal."
+  },
+  "dc1eb7870d24fa77": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. As operações definidas no artigo 16o serão executadas pelos serviços especializados. Todavia, na medida em que sejam autorizados pelos serviços centrais e na medida em que a organização dos serviços de emprego de um Estado-membro e as técnicas de colocação utilizadas o permitam,\n\na) Os serviços regionais de emprego dos Estados-membros:\n\ni) Com base nas relações referidas no artigo 15o, a que se seguirão as operações adequadas, procederão directamente às operações de contacto e compensação das ofertas e pedidos de emprego;\n\nii) Estabelecerão relações directas de compensação:\n\n- no caso de ofertas nominativas,\n\n- no caso de pedidos de emprego individuais dirigidos, quer a um serviço de emprego determinado, quer a uma entidade patronal que exerça a sua actividade no âmbito da competência desse serviço,\n\n- quando as operações de compensação digam respeito à mão-de-obra sazonal que deva ser recrutada no mais curto prazo;\n\nb) Os serviços territorialmente responsáveis pelas regiões limítrofes de dois ou vários Estados-membros permutarão regularmente os dados relativos às ofertas e pedidos de emprego não satisfeitos a nível da sua área de actuação e procederão directamente entre si e de acordo com as modalidades das suas relações com os outros serviços de emprego do seu país, às operações de contacto e compensação das ofertas e pedidos de emprego;\n\nc) Os serviços oficiais de colocação, especializados em certas profissões e em categorias determinadas de pessoas, estabelecerão entre si uma cooperação directa.\n\n2. Os Estados-membros em causa comunicarão à Comissão a lista dos serviços referidos no no 1 que será elaborada de comum acordo. A Comissão publicá-la-á a título informativo no Jornal Oficial das Comunidades Europeias, bem como todas as alterações que nela sejam introduzidas."
+  },
+  "e516850f1c27fa15": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nNão é obrigatório o recurso aos processos de recrutamento aplicados pelos organismos executivos previstos nos acordos concluídos entre dois ou mais Estados-membros."
+  },
+  "abe33b4feeaa69aa": {
+   "fragment_id": "TÍTULO III — Das medidas reguladoras do equilíbrio no mercado de trabalho",
+   "type": "divisao",
+   "heading": "TÍTULO III — Das medidas reguladoras do equilíbrio no mercado de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Das medidas reguladoras do equilíbrio no mercado de trabalho"
+  },
+  "3884fc792f95d618": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. Duas vezes por ano, com base num relatório da Comissão elaborado a partir das informações prestadas pelos Estados-membros, estes e a Comissão analisarão em comum:\n\n- os resultados das actividades de contacto e compensação comunitária das ofertas e pedidos de emprego;\n\n- o número de colocações de nacionais de Estados não membros;\n\n- a evolução previsível da situação do mercado de trabalho, bem como, na medida do possível, os movimentos intracomunitários de mão-de-obra.\n\n2. Tendo em vista realizar o equilíbrio entre as ofertas e os pedidos de emprego na Comunidade, os Estados-membros examinarão com a Comissão todas as possibilidades tendentes ao preenchimento prioritário dos empregos disponíveis por nacionais de Estados-membros. Tomarão, para o efeito, todas as medidas necessárias."
+  },
+  "09ab9703152b5651": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\n1. Quando um Estado-membro sofrer ou prever perturbações no seu mercado de trabalho que possam originar riscos graves para o nível de vida e de emprego numa região ou profissão, informará desse facto a Comissão e os outros Estados-membros, fornecendo-lhes todas as indicações adequadas.\n\n2. Os Estados-membros e a Comissão tomarão todas as medidas úteis em matéria de informação a fim de que os trabalhadores da Comunidade não se orientem para empregos na região ou profissão em causa.\n\n3. Sem prejuízo da aplicação das disposições do Tratado e dos protocolos a ele anexos, o Estado-membro referido no no 1 pode solicitar à Comissão que declare ter verificado que os mecanismos de compensação previstos nos artigos 15o, 16o e 17o devem ser parcial ou totalmente suspensos, a fim de assegurar o restabelecimento da situação na referida região ou profissão.\n\nA Comissão decidirá da suspensão enquanto tal e da respectiva duração, o mais tardar duas semanas após ter recebido o pedido. No prazo preclusivo de duas semanas qualquer Estado-membro pode pedir a extinção ou a alteração desta decisão pelo Conselho. O Conselho, no prazo de duas semanas, deliberará sobre o pedido.\n\n4. No caso de ser decidida a suspensão, os serviços de emprego dos outros Estados-membros que tenham comunicado disponibilidades não darão seguimento às ofertas de emprego que lhes sejam dirigidas directamente pelas entidades patronais do Estado-membro referido no no 1."
+  },
+  "4350ec62a587cfb6": {
+   "fragment_id": "TÍTULO IV — Do Gabinete Europeu de Coordenação",
+   "type": "divisao",
+   "heading": "TÍTULO IV — Do Gabinete Europeu de Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Do Gabinete Europeu de Coordenação"
+  },
+  "25a2dc0392756b22": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nAo Gabinete Europeu de Coordenação da Compensação das Ofertas e Pedidos de Emprego, instituído no seio da Comissão e denominado no presente regulamento Gabinete Europeu de Coordenação, compete, em geral, favorecer, ao nível da Comunidade, o contacto e a compensação das ofertas e pedidos de emprego. Competem-lhe, em especial, todas as tarefas de natureza técnica que, neste domínio, incumbem à Comissão nos termos do presente regulamento, cabendo-lhe nomeadamente prestar apoio aos serviços nacionais de emprego.\n\nEstabelecerá a síntese das informações referidas nos artigos 14o e 15o, bem como dos dados resultantes dos estudos e pesquisas efectuadas, nos termos do artigo 13o, por forma a dar a conhecer informações úteis sobre a evolução previsível do mercado de emprego na Comunidade; estas informações serão comunicadas aos serviços especializados dos Estados-membros e aos Comités Consultivo e Técnico."
+  },
+  "77ed01f0fcc26d92": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\n1. Ao Gabinete Europeu de Coordenação caberá nomeadamente:\n\na) Coordenar as operações práticas, que são necessárias ao nível da Comunidade para o contacto e compensação das ofertas e pedidos de emprego, e para analisar os movimentos de trabalhadores daí resultantes;\n\nb) Contribuir, em colaboração com o Comité Técnico, para levar a cabo nos planos administrativo e técnico os meios de acção comum, tendo em vista a prossecução daqueles fins;\n\nc) Efectuar, de acordo com os serviços especializados e em caso de necessidade especial, o contacto das ofertas e pedidos de emprego cuja compensação virá a ser realizada por estes serviços.\n\n2. O Gabinete Europeu de Coordenação transmitirá aos serviços especializados as ofertas e pedidos de emprego directamente dirigidos à Comissão e será informado do seguimento que lhes tenha sido dado."
+  },
+  "2a31f8f435e9fba2": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nDe acordo com a autoridade competente de cada Estado-membro e segundo as condições e modalidades por ela fixadas, a Comissão, após parecer do Comité Técnico, pode organizar visitas e missões de funcionários dos outros Estados-membros, bem como programas de aperfeiçoamento de pessoal especializado."
+  },
+  "e98b3dc58906bf3c": {
+   "fragment_id": "PARTE III",
+   "type": "divisao",
+   "heading": "PARTE III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE III\n\nDOS ORGANISMOS ENCARREGADOS DE ASSEGURAR UMA ESTREITA COLABORAÇÃO ENTRE OS ESTADOS-MEMBROS EM MATÉRIA DE LIVRE CIRCULAÇÃO E DE EMPREGO DOS TRABALHADORES"
+  },
+  "ace42a84f1807363": {
+   "fragment_id": "TÍTULO I — Do Comité Consultivo",
+   "type": "divisao",
+   "heading": "TÍTULO I — Do Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Do Comité Consultivo"
+  },
+  "46b246952dda3233": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\nCabe ao Comité Consultivo assistir a Comissão no exame das questões suscitadas pela execução do Tratado e das medidas tomadas para sua aplicação, em matéria de livre circulação e de emprego dos trabalhadores."
+  },
+  "832283ce4d020e9c": {
+   "fragment_id": "Artigo 25o — Ao Comité Consultivo cabe nomeadamente,",
+   "type": "artigo",
+   "heading": "Artigo 25o — Ao Comité Consultivo cabe nomeadamente,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o — Ao Comité Consultivo cabe nomeadamente,\n\na) Examinar os problemas da livre circulação e do emprego no âmbito das políticas nacionais de emprego, tendo em vista a coordenação comunitária da política de emprego dos Estados-membros, que deve contribuir para o desenvolvimento das economias, bem como para um melhor equilíbrio do mercado de emprego;\n\nb) Estudar, de um modo geral, os efeitos da aplicação do presente regulamento e de eventuais disposições complementares;\n\nc) Apresentar, eventualmente, à Comissão propostas fundamentadas de revisão do presente regulamento;\n\nd) Formular, a pedido da Comissão ou por iniciativa própria, pareceres fundamentados sobre questões gerais ou de princípio, em especial sobre as trocas de informação relativas à evolução do mercado de emprego, sobre os movimentos de trabalhadores entre os Estados-membros, sobre os programas ou medidas adequadas ao desenvolvimento da orientação e formação profissionais e tendentes a aumentar as possibilidades de livre circulação e de emprego, assim como sobre todas as formas de assistência em benefício dos trabalhadores e das suas famílias, incluindo a assistência social e o alojamento dos trabalhadores."
+  },
+  "9a18eb419353ed1c": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\n1. O Comité Consultivo é composto por seis membros efectivos por cada Estado-membro, dos quais dois representam o Governo, dois as organizações sindicais e dois as organizações patronais.\n\n2. Para cada uma das categorias referidas no no 1, é nomeado um membro suplente, por cada Estado-membro.\n\n3. A nomeação dos membros efectivos e dos membros suplentes é feita por um período de dois anos, renovável.\n\nNo termo do período de exercio das suas funções os membros efectivos e os membros suplentes permanecem no cargo até serem substituídos ou reconduzidos."
+  },
+  "dde19321dadb4fc8": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\nOs membros efectivos e os membros suplentes do Comité Consultivo são nomeados pelo Conselho que, no que respeita aos representantes das organizações sindicais e das organizações patronais, procurará alcançar, na composição do Comité, uma representação equitativa dos diferentes sectores económicos interessados.\n\nA lista dos membros efectivos e dos membros suplentes será publicada pelo Conselho, a título informativo, no Jornal Oficial das Comunidades Europeias."
+  },
+  "92c065bdfb454068": {
+   "fragment_id": "Artigo 28o",
+   "type": "artigo",
+   "heading": "Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o\n\nO Comité Consultivo é presidido por um membro da Comissão ou por um seu representante. O presidente não tem direito a voto. O Comité reúne-se pelo menos duas vezes por ano, sendo convocado pelo presidente, quer por iniciativa deste, quer a pedido de pelo menos um terço dos membros.\n\nO secretariado será assegurado pelos serviços da Comissão."
+  },
+  "0e04829076266100": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\nO presidente pode convidar a participar nas reuniões, a título de observadores ou de peritos, individualidades ou representantes de organismos que possuam uma vasta experiência no domínio do emprego e dos movimentos de trabalhadores. O presidente pode ser assistido por consultores técnicos."
+  },
+  "e152af4c94c4937b": {
+   "fragment_id": "Artigo 30o",
+   "type": "artigo",
+   "heading": "Artigo 30o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o\n\n1. O Comité Consultivo pronuncia-se validamente quando estiverem presentes dois terços dos membros.\n\n2. Os pareceres devem ser fundamentados; são formulados por maioria absoluta dos votos validamente expressos e são acompanhados por uma nota com as opiniões emitidas pela minoria quando esta o solicitar."
+  },
+  "b9412ceb6f6a12b9": {
+   "fragment_id": "Artigo 31o",
+   "type": "artigo",
+   "heading": "Artigo 31o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o\n\nO Comité Consultivo estabelecerá os seus métodos de trabalho através de regulamento interno que entrará em vigor após aprovação pelo Conselho, sob parecer da Comissão. A entrada em vigor de eventuais alterações que o Comité decida introduzir-lhe fica sujeita ao mesmo procedimento."
+  },
+  "ab1a4e9156205aad": {
+   "fragment_id": "TÍTULO II — Do Comité Técnico",
+   "type": "divisao",
+   "heading": "TÍTULO II — Do Comité Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Do Comité Técnico"
+  },
+  "e50c65ec18994a3b": {
+   "fragment_id": "Artigo 32o",
+   "type": "artigo",
+   "heading": "Artigo 32o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o\n\nCabe ao Comité Técnico assistir a Comissão na preparação, promoção e acompanhamento dos resultados de todos os trabalhos e medidas técnicas para aplicação do presente regulamento e de eventuais disposições complementares."
+  },
+  "260416367b2a9cc2": {
+   "fragment_id": "Artigo 33o",
+   "type": "artigo",
+   "heading": "Artigo 33o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33o\n\nAo Comité Técnico cabe nomeadamente:\n\na) Promover e aperfeiçoar a colaboração entre as administrações em causa dos Estados-membros em todas as questões técnicas relativas à livre circulação e ao emprego dos trabalhadores;\n\nb) Elaborar os processos relativos à organização das actividades comuns das administrações em causa;\n\nc) Facilitar a recolha de informações úteis à Comissão e a realização dos estudos e pesquisas previstos no presente regulamento, assim como favorecer a troca de informações e de experiências entre as administrações em causa;\n\nd) Estudar, no plano técnico, a harmonização dos critérios segundo os quais os Estados-membros apreciam a situação do seu mercado de emprego."
+  },
+  "22fcf9ca7fb3494b": {
+   "fragment_id": "Artigo 34o",
+   "type": "artigo",
+   "heading": "Artigo 34o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34o\n\n1. O Comité Técnico é composto por representantes dos governos dos Estados-membros. Cada Governo nomeará como membro efectivo do Comité Técnico um dos membros efectivos que o representam no Comité Consultivo.\n\n2. Cada Governo nomeará um suplente de entre os seus outros representantes, membros efectivos ou suplentes, no Comité Consultivo."
+  },
+  "49af7caf4159b140": {
+   "fragment_id": "Artigo 35o",
+   "type": "artigo",
+   "heading": "Artigo 35o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35o\n\nO Comité Técnico é presidido por um membro da Comissão ou por um dos seus representantes. O presidente não tem direito a voto. O presidente, bem como os membros do Comité, podem ser assistidos por consultores técnicos.\n\nO secretariado será assegurado pelos serviços da Comissão."
+  },
+  "4b5aecad1306112a": {
+   "fragment_id": "Artigo 36o",
+   "type": "artigo",
+   "heading": "Artigo 36o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36o\n\nAs propostas e os pareceres formulados pelo Comité Técnico são apresentados à Comissão e levados ao conhecimento do Comité Consultivo. Estas propostas e pareceres são acompanhados por uma nota com as opiniões emitidas pelos diferentes membros do Comité Técnico, quando estes o solicitarem."
+  },
+  "16194914fbb98449": {
+   "fragment_id": "Artigo 37o",
+   "type": "artigo",
+   "heading": "Artigo 37o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37o\n\nO Comité Técnico estabelecerá os seus métodos de trabalho através de regulamento interno que entrará em vigor após aprovação pelo Conselho, sob parecer da Comissão. A entrada em vigor de eventuais alterações que o Comité decida introduzir-lhe fica sujeita ao mesmo procedimento."
+  },
+  "79a759b027660196": {
+   "fragment_id": "PARTE IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "PARTE IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "98a30dd3e3be3ff8": {
+   "fragment_id": "TÍTULO I — Disposições transitórias",
+   "type": "divisao",
+   "heading": "TÍTULO I — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições transitórias"
+  },
+  "8ea56ca8c5c57534": {
+   "fragment_id": "Artigo 38o",
+   "type": "artigo",
+   "heading": "Artigo 38o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38o\n\nAté à adopção, pela Comissão, do sistema uniformizado previsto no no 2 do artigo 15o, o Gabinete Europeu de Coordenação proporá todas as medidas úteis ao estabelecimento e difusão das relações previstas no no 1 do artigo 15o."
+  },
+  "c689efbf3ea14059": {
+   "fragment_id": "Artigo 39o",
+   "type": "artigo",
+   "heading": "Artigo 39o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39o\n\nContinuam a ser aplicáveis os regulamentos internos dos Comités Consultivo e Técnico que estiverem a ser aplicados no momento da entrada em vigor do presente regulamento."
+  },
+  "07efb707e719fe60": {
+   "fragment_id": "Artigo 40o",
+   "type": "artigo",
+   "heading": "Artigo 40o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40o\n\nAté à entrada em vigor das medidas a tomar pelos Estados-membros em aplicação da Directiva do Conselho de 15 de Outubro de 1968 (7), e na medida em que for necessário, nos termos das disposições adoptadas pelos Estados-membros em aplicação da Directiva do Conselho de 25 de Março de 1964 (8), será necessária a autorização de trabalho prevista no artigo 22o do Regulamento no 38/64/CEE para a determinação da duração de validade e para o prolongamento da autorização de residência, podendo a mesma ser substituída por uma declaração de compromisso feita pela entidade patronal ou por um certificado de trabalho especificando a duração do emprego. As declarações da entidade patronal ou os certificados de trabalho que indiquem que a admissão do trabalhador é por período indeterminado terão os mesmos efeitos que uma licença de trabalho permanente."
+  },
+  "1bbe4e91840e2eca": {
+   "fragment_id": "Artigo 41o",
+   "type": "artigo",
+   "heading": "Artigo 41o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41o\n\nSe, em consequência da supressão da autorização de trabalho, um Estado-membro não puder continuar a elaborar certas estatísticas sobre o emprego de trabalhadores estrangeiros, pode esse Estado-membro manter, para fins estatísticos, a autorização de trabalho relativamente aos nacionais de outros Estados-membros até à introdução de novos métodos estatísticos e, o mais tardar, até 31 de Dezembro de 1969. A autorização de trabalho deve ser concedido automaticamente e ser válida até à supressão efectiva das autorizações de trabalho naquele Estado-membro."
+  },
+  "fa68b1a5983bfbeb": {
+   "fragment_id": "TÍTULO II — Disposições finais",
+   "type": "divisao",
+   "heading": "TÍTULO II — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Disposições finais"
+  },
+  "446b741f822efd2c": {
+   "fragment_id": "Artigo 42o",
+   "type": "artigo",
+   "heading": "Artigo 42o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42o\n\n1. O presente regulamento não prejudica as disposições do Tratado que institui a Comunidade Europeia do Carvão e do Aço relativas aos trabalhadores com qualificação comprovada nas profissões do carvão e do aço, nem as do Tratado que institui a Comunidade Europeia da Energia Atómica relativas ao acesso aos empregos qualificados no domínio nuclear, nem prejudica as medidas tomadas em execução destes tratados.\n\nTodavia o presente regulamento é aplicável às categorias de trabalhadores acima referidas no primeiro parágrafo, bem como aos membros da sua família, na medida em que a sua situação jurídica não for regulada nos tratados ou disposições citados.\n\n2. O presente regulamento não prejudica as disposições adoptadas nos termos do artigo 51o do Tratado.\n\n3. O presente regulamento não prejudica as obrigações dos Estados-membros:\n\n- decorrentes de relações particulares ou de futuros acordos com certos países ou territórios não europeus, fundados em laços institucionais existentes à data da entrada em vigor do presente regulamento;\n\n- decorrentes de acordos existentes à data da entrada em vigor do presente regulamento com certos países ou territórios não europeus e fundados em laços institucionais que tenham existido entre eles.\n\nOs trabalhadores destes países ou territórios que, de acordo com esta disposição, exerçam uma actividade assalariada no território de um desses Estados-membros, não podem invocar o benefício das disposições do presente regulamento no território dos outros Estados-membros."
+  },
+  "6a33b638e9c50cd6": {
+   "fragment_id": "Artigo 43o",
+   "type": "artigo",
+   "heading": "Artigo 43o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43o\n\nOs Estados-membros comunicarão à Comissão, a título informativo, o texto dos acordos, convenções ou convénios concluídos entre eles no domínio da mão-de-obra, entre a data da sua assinatura e a da sua entrada em vigor."
+  },
+  "40a4e793cc12a78e": {
+   "fragment_id": "Artigo 44o",
+   "type": "artigo",
+   "heading": "Artigo 44o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44o\n\nA Comissão tomará as medidas de execução necessárias à aplicação do presente regulamento. Para o efeito, actuará em estreito contacto com as administrações centrais dos Estados-membros."
+  },
+  "08d3a5196ff413ee": {
+   "fragment_id": "Artigo 45o",
+   "type": "artigo",
+   "heading": "Artigo 45o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45o\n\nA Comissão submeterá ao Conselho propostas que visem suprimir, nas condições previstas no Tratado, as restrições ao acesso ao emprego de trabalhadores nacionais dos Estados-membros, na medida em que a falta do reconhecimento mútuo dos diplomas, certificados ou outros títulos nacionais possa constituir obstáculo à liberalização dos movimentos de trabalhadores."
+  },
+  "52d9327f1f4accb6": {
+   "fragment_id": "Artigo 46o",
+   "type": "artigo",
+   "heading": "Artigo 46o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46o\n\nAs despesas de funcionamento dos Comités referidos na Parte III serão inscritas no orçamento das Comunidades Europeias na secção relativa à Comissão."
+  },
+  "9d37e42de17aa2ca": {
+   "fragment_id": "Artigo 47o",
+   "type": "artigo",
+   "heading": "Artigo 47o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47o\n\nO presente regulamento é aplicável nos territórios dos Estados-membros e beneficia os seus nacionais, sem prejuízo do disposto nos artigos 2o, 3o, 10o e 11o."
+  },
+  "935e2dd3366cb7e4": {
+   "fragment_id": "Artigo 48o",
+   "type": "artigo",
+   "heading": "Artigo 48o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48o\n\nAs disposições do Regulamento no 38/64/CEE deixam de ser aplicáveis à data da entrada em vigor do presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo, em 15 de Outubro de 1968.\n\nPelo Conselho\n\nO Presidente\n\nG. SEDATI\n\n(1) JO no 268 de 6. 11. 1967, p. 9.(2) JO no 298 de 7. 12. 1967, p. 10.(3) JO no 57 de 26. 8. 1961, p. 1073/61.(4) JO no 62 de 17. 4. 1964, p. 965/64.(5) JO no L 257 de 19. 10. 1968, p. 1.(6) JO no 159 de 2. 11. 1963, p. 2661/63.(7) JO no L 257 de 19. 10. 68, p. 13.(8) JO no 62 de 17. 4. 1964, p. 981/64."
+  },
+  "af0e9ad4176c8393": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara efeitos do disposto no no 3, alínea a) do artigo 16o:\n\n1. O termo «especialização» designa uma qualificação elevada ou uma qualificação pouco comum relativa a um trabalho ou a uma profissão que necessite de conhecimentos técnicos específicos; refere-se, nomeadamente, aos chefes de equipa, no caso de trabalhadores sazonais recrutados por contingentes.\n\n2. A expressão «carácter de confiança inerente ao emprego» qualifica os empregos cujo exercício exija relações específicas de confiança entre a entidade patronal e o trabalhador segundo os usos do país de acolhimento.\n\n3. Existem «laços profissionais anteriores» quando a entidade patronal pretende a contratação, no território de um Estado-membro, de um trabalhador que já havia empregado nesse mesmo território durante pelo menos doze meses no decurso dos últimos quatro anos.\n\n4. Por «taços familiares» entende-se os laços de parentesco e de afinidade até ao segundo grau entre um empregador e um trabalhador e os laços de parentesco do primeiro grau entre dois trabalhadores."
+  },
+  "b85e2084c60f8e2a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Outubro de 1968\n\nrelativo à livre circulação dos trabalhadores na Comunidade\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 49.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#E0002)),\n\nConsiderando que a livre circulação dos trabalhadores deve ficar assegurada, na Comunidade, o mais tardar no termo do período de transição; que a realização deste objectivo implica a abolição entre os trabalhadores dos Estados-membros de toda e qualquer discriminação em razão da nacionalidade, no que diz respeito ao emprego, à remuneração e demais condições de trabalho, bem como o direito daqueles trabalhadores se deslocarem livremente na Comunidade para exercerem uma actividade assalariada, sem prejuízo das limitações justificadas por razões de ordem pública, segurança pública e saúde pública;\n\nConsiderando que, em consequência nomeadamente da aceleração ocorrida no estabelecimento da união aduaneira, e a fim de se garantir a realização simultânea dos fundamentos essenciais da Comunidade, á conveniente adoptar as disposições que permitam atingir os objectivos fixados nos artigos 48.º e 49.º do Tratado no domínio da livre circulação e aperfeiçoar as medidas tomadas sucessivamente no âmbito do Regulamento n.º 15 relativo às primeiras medidas para a realização da livre circulação dos trabalhadores na Comunidade ([^3^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#E0003)) e do Regulamento n.º 38/64/CEE do Conselho, de 25 de Março de 1964, relativo à livre circulação dos trabalhadores na Comunidade ([^4^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#E0004));\n\nConsiderando que a livre circulação constitui para os trabalhadores e para as suas famílias um direito fundamental; que a mobilidade da mão-de-obra na Comunidade deve ser para o trabalhador um dos meios de garantir a possibilidade de melhorar as suas condições de vida e de trabalho e de facilitar a sua promoção social, contribuindo simultaneamente para a satisfação das necessidades decorrentes da economia dos Estados-membros; que á conveniente afirmar o direito de todos os trabalhadores dos Estados-membros de exercerem a actividade de sua escolha na Comunidade;\n\nConsiderando que este direito deve ser reconhecido indiferentemente aos trabalhadores «permanentes», sazonais, fronteiriços ou àqueles que exerçam a sua actividade aquando de uma prestação de serviços;\n\nConsiderando que o direito de livre circulação exige, a fim de que possa exercer-se em condições objectivas de liberdade e de dignidade, que seja assegurada, de facto e de direito, a igualdade de tratamento em tudo o que se relacione com o próprio exercício de uma actividade assalariada e com o acesso ao alojamento e também que sejam eliminados os obstáculos que se opõem à mobilidade dos trabalhadores, nomeadamente no que se refere ao direito ao reagrupamento familiar e às condições de integração da família no país de acolhimento;\n\nConsiderando que o princípio da não discriminação entre os trabalhadores da Comunidade implica o reconhecimento a todos os nacionais dos Estados-membros da mesma prioridade no acesso ao emprego de que beneficiam os trabalhadores nacionais;\n\nConsiderando que é necessário reforçar os mecanismos de contacto e compensação, nomeadamente através do desenvolvimento da colaboração directa entre os serviços centrais de emprego e também entre os serviços regionais, bem como através da intensificação e coordenação da acção de informação, a fim de se assegurar, de uma maneira geral, uma melhor visão do mercado de trabalho; que os trabalhadores que pretendam deslocar-se devem igualmente ser informados regularmente acerca das condições de vida e de trabalho; que, por outro lado, é necessário prever medidas a aplicar no caso de um Estado-membro sofrer ou prever perturbações no seu mercado de trabalho que possam originar riscos graves para o nível de vida e de emprego numa região ou numa indústria; que, para o efeito, a acção de informação que vise desencorajar a partida dos trabalhadores para essa região ou indústria constitui o meio a aplicar em primeiro lugar, mas que, se for caso disso, os resultados desta acção devem poder ser reforçados por uma suspensão temporária dos mecanismos acima referidos, cuja decisão deve ser tomada ao nível da Comunidade;\n\nConsiderando que existem laços estreitos entre a livre circulação dos trabalhadores, o emprego e a formação profissional na medida em que esta tende a colocar os trabalhadores em condições de responder a ofertas de emprego concretas, feitas noutras regiões da Comunidade; que estes laços obrigam a estudar os problemas relacionados com esta matéria já não isoladamente, mas nas suas relações de interdependência, tendo também em conta os problemas de emprego a nível regional e que se torna, portanto, necessário orientar os esforços dos Estados-membros para o estabelecimento de uma coordenação comunitária da sua política de emprego;\n\nConsiderando que o Conselho, por Decisão de 15 de Outubro de 1968 ([^5^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#E0005)), tornou aplicáveis aos departamentos franceses ultramarinos os artigos 48.º e 49.º do Tratado, bem como as disposições adoptadas em sua execução,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "28b3eaf5d9031d4f": {
+   "fragment_id": "PARTE I",
+   "type": "divisao",
+   "heading": "PARTE I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE I"
+  },
+  "641f9d6162a65aa2": {
+   "fragment_id": "DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES",
+   "type": "divisao",
+   "heading": "DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DO EMPREGO E DA FAMÍLIA DOS TRABALHADORES"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "5eec45f5268eeddb": {
+   "fragment_id": "Do acesso ao emprego",
+   "type": "divisao",
+   "heading": "Do acesso ao emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Do acesso ao emprego"
+  },
+  "4c1d591a16aee66f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os nacionais de um Estado-membro, independentemente do local da sua residência, têm o direito de aceder a uma actividade assalariada e de a exercer no território de outro Estado-membro, em conformidade com as disposições legislativas, regulamentares e administrativas que regem o emprego dos trabalhadores nacionais deste Estado.\n\n2. Beneficiarão, nomeadamente, no território de outro Estado-membro, da mesma prioridade que os nacionais deste Estado no acesso aos empregos disponíveis."
+  },
+  "daebf632c7bf024e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs nacionais de um Estado-membro e as entidades patronais que exerçam uma actividade no território de um Estado-membro podem trocar os seus pedidos e ofertas de emprego, celebrar e executar contratos de trabalho em conformidade com as disposições legislativas, regulamentares e administrativas em vigor, sem que disso possa resultar qualquer discriminação."
+  },
+  "a8bc612be4abdc11": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No âmbito do presente regulamento, não são aplicáveis as disposições legislativas, regulamentares ou administrativas nem as práticas administrativas de um Estado-membro:\n\n— que limitem ou subordinem a condições não previstas para os nacionais, os pedidos e ofertas de emprego, o acesso ao emprego e o seu exercício por parte de estrangeiros; ou\n\n— que, embora aplicáveis sem distinção de nacionalidade, tenham por objectivo ou efeito exclusivo ou principal afastar os nacionais dos outros Estados-membros do emprego oferecido.\n\nEsta disposição não tem em vista as condições relativas aos conhecimentos linguísticos exigidos pela natureza do emprego a preencher.\n\n2. Entre as disposições ou práticas referidas no primeiro parágrafo do n.º 1, incluem-se, nomeadamente, aquelas que, num Estado-membro:\n\na) Exijam o recurso a processos especiais de recrutamento de mão-de-obra para estrangeiros;\n\nb) Limitem ou subordinem a oferta de emprego por meio da imprensa ou por qualquer outro meio a condições diferentes das que se aplicam às entidades patronais que exercem as suas actividades no território deste Estado;\n\nc) Subordinem o acesso ao emprego a condições de inscrição nos serviços de emprego ou constituam obstáculo ao recrutamento nominativo de trabalhadores, quando se trate de pessoas que não residam no território desse Estado."
+  },
+  "60c23643fefb0422": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As disposições legislativas, regulamentares e administrativas dos Estados-membros que limitem o emprego de estrangeiros em número ou em percentagem, por empresa, por ramo de actividade, por região ou à escala nacional, não são aplicáveis aos nacionais dos outros Estados-membros.\n\n2. Quando num Estado-membro a concessão de quaisquer benefícios às empresas estiver subordinada ao emprego de uma percentagem mínima de trabalhadores nacionais, os nacionais dos outros Estados-membros são contados como trabalhadores nacionais, sem prejuízo das disposições da Directiva do Conselho de 15 de Outubro de 1963 ([^6^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#E0006))."
+  },
+  "1b26ef7b7216aa43": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs nacionais de um Estado-membro que procurem emprego no território de outro Estado-membro devem aí receber o mesmo apoio que os serviços de emprego deste Estado concedem aos seus nacionais que procuram emprego."
+  },
+  "0ecc055fa9c34238": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A admissão e o recrutamento de um nacional de um Estado-membro para um emprego noutro Estado-membro não podem depender de critérios médicos, profissionais, ou outros, que sejam discriminatórios, em razão da nacionalidade, relativamente aos que são aplicados aos nacionais do outro Estado-membro que desejam exercer a mesma actividade.\n\n2. Todavia, o nacional titular de uma oferta nominativa proveniente de uma entidade patronal de um Estado-membro que não seja aquele de que ele é nacional, pode ser submetido a um exame profissional se aquela entidade expressamente o exigir aquando da oferta de emprego."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "381d5fc303367eb8": {
+   "fragment_id": "Do exercício do emprego e da igualdade de tratamento",
+   "type": "divisao",
+   "heading": "Do exercício do emprego e da igualdade de tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Do exercício do emprego e da igualdade de tratamento"
+  },
+  "725112c84da60550": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O trabalhador nacional de um Estado-membro não pode, no território de outros Estados-membros, sofrer, em razão da sua nacionalidade, tratamento diferente daquele que é concedido aos trabalhadores nacionais no que respeita a todas as condições de emprego e de trabalho, nomeadamente em matéria de remuneração, de despedimento e de reintegração profissional ou de reemprego, se ficar desempregado.\n\n2. Aquele trabalhador beneficia das mesmas vantagens sociais e fiscais que os trabalhadores nacionais.\n\n3. Beneficia igualmente, com o mesmo fundamento e nas mesmas condições que os trabalhadores nacionais, de acesso ao ensino nas escolas profissionais e nos centros de readaptação ou de reconversão.\n\n4. São nulas todas e quaisquer cláusulas de convenção colectiva ou individual ou de qualquer outra regulamentação colectiva respeitantes ao acesso ao emprego, ao emprego, à remuneração e às outras condições de trabalho e de despedimento, na medida em que prevejam ou autorizem condições discriminatórias relativamente aos trabalhadores nacionais de outros Estados-membros."
+  },
+  "c5ff5e0a18a097f9": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O trabalhador nacional de um Estado-membro empregado no território de outro Estado-membro beneficia da igualdade de tratamento em matéria de filiação em organizações sindicais e de exercício dos direitos sindicais, incluindo o direito de voto [**►M1**](http://publications.europa.eu/resource/celex/31976R0312) e o acesso aos lugares de administração ou de direcção de uma organização sindical**◄** pode ser excluído da participação na gestão de organismos de direito público e do exercício de uma função de direito público. Beneficia, além disso, do direito de eligibilidade para os orgãos de representação dos trabalhadores na empresa.\n\nEstas disposições não prejudicam as disposições legislativas ou a regulamentação que, nalguns Estados-membros, concedem direitos mais amplos aos trabalhadores provenientes de outros Estados-membros."
+  },
+  "cacec4611b504152": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O trabalhador nacional de um Estado-membro, empregado no território de outro Estado-membro, beneficia de todos os direitos e vantagens concedidos aos trabalhadores nacionais em matéria de alojamento, incluíndo o acesso à propriedade da habitação de que necessita.\n\n2. Este trabalhador pode, com o mesmo fundamento que os nacionais, inscrever-se, na região onde estiver empregado, nas listas de candidatos a alojamento, nos locais onde essas listas existam, usufruindo das vantagens e prioridades daí decorrentes.\n\nA família do trabalhador que ainda permaneça no país de origem é considerada, para este efeito, como residindo na região em causa, na medida em que os trabalhadores nacionais beneficiem de presunção análoga."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "1f39a80db327e0e9": {
+   "fragment_id": "Da família dos trabalhadores",
+   "type": "divisao",
+   "heading": "Da família dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Da família dos trabalhadores"
+  },
+  "a97a00001294c282": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs filhos de um nacional de um Estado-membro que esteja ou tenha estado empregado no território de outro Estado-membro, são admitidos nos cursos de ensino geral, de aprendizagem e de formação profissional nas mesmas condições que os nacionais deste Estado, desde que residam no seu território.\n\nOs Estados-membros encorajarão as iniciativas que permitam a esses filhos seguir os cursos acima referidos nas melhores condições."
+  },
+  "a152f9cee9821cd4": {
+   "fragment_id": "PARTE II",
+   "type": "divisao",
+   "heading": "PARTE II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE II"
+  },
+  "686e3b417b0ff632": {
+   "fragment_id": "DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO",
+   "type": "divisao",
+   "heading": "DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DO CONTACTO E COMPENSAÇÃO DAS OFERTAS E PEDIDOS DE EMPREGO"
+  },
+  "082752ff9c1f112a": {
+   "fragment_id": "Da colaboração entre os Estados-membros e com a Comissão",
+   "type": "divisao",
+   "heading": "Da colaboração entre os Estados-membros e com a Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Da colaboração entre os Estados-membros e com a Comissão"
+  },
+  "f179614190bb8603": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros ou a Comissão promoverão ou empreenderão, conjuntamente, quaisquer estudos nos domínios do emprego e do desemprego que considerem necessários no âmbito da realização da livre circulação dos trabalhadores na Comunidade.\n\nOs serviços centrais de emprego dos Estados-membros cooperarão estreitamente entre si e com a Comissão tendo em vista uma actuação comum no domínio da compensação das ofertas e pedidos de emprego na Comunidade e no da colocação dos trabalhadores que daí resulte.\n\n2. Para o efeito, os Estados-membros designarão serviços especializados aos quais caberá organizar os trabalhos nos domínios acima referidos e colaborar entre si e com os serviços da Comissão.\n\nOs Estados-membros comunicarão à Comissão todas as modificações que ocorram na designação destes serviços e a Comissão publicá-las-á a título informativo no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "4ade8e130d732caf": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-membros comunicarão à Comissão as informações sobre os problemas e dados relacionados com a livre circulação e o emprego dos trabalhadores, bem como as informações relativas à situação e à evolução do emprego[**►M2**](http://publications.europa.eu/resource/celex/31992R2434) **◄**.\n\n2. A Comissão definirá, tendo em máxima consideração o parecer do Comité Técnico, a forma como serão elaboradas as informações referidas no n.º 1.\n\n3. Em conformidade com as modalidades estabelecidas pela Comissão [**►M2**](http://publications.europa.eu/resource/celex/31992R2434) tendo em máxima consideração o parecer do Comité Técnico**◄**, o serviço especializado de cada Estado-membro comunica aos serviços especializados dos outros Estados-membros e ao Gabinete Europeu de Coordenação, as informações respeitantes às condições de vida e de trabalho e à situação no mercado de emprego que sejam adequadas a fornecer uma orientação aos trabalhadores dos outros Estados-membros. Estas informações serão actualizadas regularmente.\n\nOs serviços especializados dos outros Estados-membros assegurarão uma vasta publicidade destas informações, nomeadamente através da sua difusão junto dos serviços de emprego adequados, bem como através de todos os meios de comunicação que se prestem à informação dos trabalhadores interessados."
+  },
+  "326d97bb0146490e": {
+   "fragment_id": "Do mecanismo de compensação",
+   "type": "divisao",
+   "heading": "Do mecanismo de compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Do mecanismo de compensação"
+  },
+  "4d6309aae4079de1": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. O serviço especializado de cada Estado-membro comunicará regularmente aos serviços especializados dos outros Estados-membros e ao Gabinete Europeu de Coordenação:\n\na) As ofertas de emprego susceptíveis de ser preenchidas por nacionais de outros Estados-membros;\n\nb) As ofertas de emprego dirigidas aos Estados não membros;\n\nc) Os pedidos de emprego apresentados por pessoas que tenham formalmente declarado que desejam trabalhar noutro Estado-membro;\n\nd) Informações, por regiões e ramos de actividade, relativas aos candidatos a emprego que tenham declarado estar efectivamente dispostos a ocupar um posto de trabalho noutro país.\n\nO serviço especializado de cada Estado-membro transmitirá, o mais cedo possível, estas informações aos serviços e organismos de emprego competentes.\n\n2. As ofertas e os pedidos de emprego a que se refere o n.º 1 serão difundidos segundo um sistema uniformizado estabelecido pelo Gabinete Europeu de Coordenação em colaboração com o Comité Técnico.\n\nO Gabinete Europeu de Coordenação poderá, se necessário, adaptar este sistema em colaboração com o Comité Técnico."
+  },
+  "077543fd25e346bf": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Todas as ofertas de emprego dirigidas aos serviços de emprego de um Estado-membro nos termos das disposições do artigo 15.º serão comunicadas e tratadas pelos serviços de emprego competentes dos outros Estados-membros em causa.\n\nEstes serviços comunicarão as candidaturas específicas e adequadas aos serviços do primeiro Estado-membro.\n\n2. Os pedidos de emprego a que se refere o n.º 1, alínea c), do artigo 15.º serão objecto de resposta por parte dos serviços competentes dos Estados-membros [**►C1**](http://publications.europa.eu/resource/celex/31992R2434R%2801%29) num prazo não superior a um mês**◄**.\n\n3. Os serviços de emprego darão aos nacionais dos Estados-membros a mesma prioridade que aquela que as disposições pertinentes concedem aos trabalhadores nacionais em relação aos nacionais de Estados não membros."
+  },
+  "203f803e0b2bd833": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. As operações definidas no artigo 16.º serão executadas pelos serviços especializados. Todavia, na medida em que sejam autorizados pelos serviços centrais e na medida em que a organização dos serviços de emprego de um Estado-membro e as técnicas de colocação utilizadas o permitam,\n\na) Os serviços regionais de emprego dos Estados-membros:\n\ni) Com base nas [**►M2**](http://publications.europa.eu/resource/celex/31992R2434) mensagens**◄** referidas no artigo 15.º, a que se seguirão as operações adequadas, procederão directamente às operações de contacto e compensação das ofertas e pedidos de emprego;\n\nii) Estabelecerão relações directas de compensação:\n\n— no caso de ofertas nominativas,\n\n— no caso de pedidos de emprego individuais dirigidos, quer a um serviço de emprego determinado, quer a uma entidade patronal que exerça a sua actividade no âmbito da competência desse serviço,\n\n— quando as operações de compensação digam respeito à mão-de-obra sazonal que deva ser recrutada no mais curto prazo;\n\nb) Os serviços territorialmente responsáveis pelas regiões limítrofes de dois ou mais Estados-membros permutarão regularmente os dados relativos às ofertas e pedidos de emprego ao nível da sua área de actuação e procederão directamente entre si e, de acordo com as modalidades das suas relações, com os outros serviços de emprego do seu país, às operações de contacto e compensação das ofertas e pedidos de emprego.\n\n— aos utentes a maior quantidade possível de informações práticas sobre os diferentes aspectos da mobilidade, e\n\n— aos parceiros sociais e económicos, aos serviços sociais (nomeadamente organismos públicos, privados e de utilidade pública) e a todas as instituições interessadas, um quadro de medidas coordenadas em matéria de mobilidade;\n\nc) Os serviços oficiais de colocação, especializados em certas profissões e em categorias determinadas de pessoas, estabelecerão entre si uma cooperação directa.\n\n2. Os Estados-membros em causa comunicarão à Comissão a lista dos serviços referidos no n.º 1 que será elaborada de comum acordo. A Comissão publicá-la-á a título informativo no *Jornal Oficial das Comunidades Europeias*, bem como todas as alterações que nela sejam introduzidas."
+  },
+  "1395ddf4077aad0a": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nNão é obrigatório o recurso aos processos de recrutamento aplicados pelos organismos executivos previstos nos acordos concluídos entre dois ou mais Estados-membros."
+  },
+  "c217d1a533a6eddf": {
+   "fragment_id": "Das medidas reguladoras do equilíbrio no mercado de trabalho",
+   "type": "divisao",
+   "heading": "Das medidas reguladoras do equilíbrio no mercado de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Das medidas reguladoras do equilíbrio no mercado de trabalho"
+  },
+  "3f64c88f431dc016": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Com base num relatório da Comissão, elaborado a partir das informações prestadas pelos Estados-membros, estes e a Comissão analisarão conjuntamente, pelo menos uma vez por ano, os resultados das disposições comunitárias relativas às ofertas e pedidos de emprego.\n\n2. Tendo em vista realizar o equilíbrio entre as ofertas e os pedidos de emprego na Comunidade, os Estados-membros examinarão com a Comissão todas as possibilidades tendentes ao preenchimento prioritário dos empregos disponíveis por nacionais de Estados-membros. Tomarão, para o efeito, todas as medidas necessárias.\n\n3. De dois em dois anos, a Comissão enviará ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da segunda parte do presente regulamento com o resumo das informações obtidas e dos dados provenientes dos estudos e pesquisas efectuados, e referenciará qualquer elemento útil relativo à evolução do mercado de trabalho na Comunidade."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "eb17743a1cbcadd3": {
+   "fragment_id": "Do Gabinete Europeu de Coordenação",
+   "type": "divisao",
+   "heading": "Do Gabinete Europeu de Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Do Gabinete Europeu de Coordenação"
+  },
+  "4740a98f2af045c0": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAo Gabinete Europeu de Coordenação da Compensação das Ofertas e Pedidos de Emprego, instituído no seio da Comissão e denominado no presente regulamento Gabinete Europeu de Coordenação, compete, em geral, favorecer, ao nível da Comunidade, o contacto e a compensação das ofertas e pedidos de emprego. Competem-lhe, em especial, todas as tarefas de natureza técnica que, neste domínio, incumbem à Comissão nos termos do presente regulamento, cabendo-lhe nomeadamente prestar apoio aos serviços nacionais de emprego.\n\nEstabelecerá a síntese das informações referidas nos artigos 14.º e 15.º, bem como dos dados resultantes dos estudos e pesquisas efectuadas, nos termos do artigo 13.º por forma a dar a conhecer informações úteis sobre a evolução previsível do mercado de emprego na Comunidade; estas informações serão comunicadas aos serviços especializados dos Estados-membros e aos Comités Consultivo e Técnico."
+  },
+  "b875310edfe3b5df": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Ao Gabinete Europeu de Coordenação caberá nomeadamente:\n\na) Coordenar as operações práticas, que são necessárias ao nível da Comunidade para o contacto e compensação das ofertas e pedidos de emprego, e para analisar os movimentos de trabalhadores daí resultantes;\n\nb) Contribuir, em colaboração com o Comité Técnico, para levar a cabo nos planos administrativo e técnico os meios de acção comum, tendo em vista a prossecução daqueles fins;\n\nc) Efectuar, de acordo com os serviços especializados e em caso de necessidade especial, o contacto das ofertas e pedidos de emprego cuja compensação virá a ser realizada por estes serviços.\n\n2. O Gabinete Europeu de Coordenação transmitirá aos serviços especializados as ofertas e pedidos de emprego directamente dirigidos à Comissão e será informado do seguimento que lhes tenha sido dado."
+  },
+  "e4180e45c19e0027": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nDe acordo com a autoridade competente de cada Estado-membro e segundo as condições e modalidades por ela fixadas, a Comissão, após parecer do Comité Técnico, pode organizar visitas e missões de funcionários dos outros Estados-membros, bem como programas de aperfeiçoamento de pessoal especializado."
+  },
+  "3e5bcb13ac5aa89f": {
+   "fragment_id": "PARTE III",
+   "type": "divisao",
+   "heading": "PARTE III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE III"
+  },
+  "317eaac88c51a7c9": {
+   "fragment_id": "DOS ORGANISMOS ENCARREGADOS DE ASSEGURAR UMA ESTREITA COLABORAÇÃO ENTRE OS ESTADOS-MEMBROS EM MATÉRIA DE LIVRE CIRCULAÇÃO E DE EMPREGO DOS TRABALHADORES",
+   "type": "divisao",
+   "heading": "DOS ORGANISMOS ENCARREGADOS DE ASSEGURAR UMA ESTREITA COLABORAÇÃO ENTRE OS ESTADOS-MEMBROS EM MATÉRIA DE LIVRE CIRCULAÇÃO E DE EMPREGO DOS TRABALHADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOS ORGANISMOS ENCARREGADOS DE ASSEGURAR UMA ESTREITA COLABORAÇÃO ENTRE OS ESTADOS-MEMBROS EM MATÉRIA DE LIVRE CIRCULAÇÃO E DE EMPREGO DOS TRABALHADORES"
+  },
+  "2e76da470ab310e5": {
+   "fragment_id": "Do Comité Consultivo",
+   "type": "divisao",
+   "heading": "Do Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Do Comité Consultivo"
+  },
+  "fc20172f5272e829": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nCabe ao Comité Consultivo assistir a Comissão no exame das questões suscitadas pela execução do Tratado e das medidas tomadas para sua aplicação, em matéria de livre circulação e de emprego dos trabalhadores."
+  },
+  "e7310f54491b0357": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nAo Comité Consultivo cabe nomeadamente,\n\na) Examinar os problemas da livre circulação e do emprego no âmbito das políticas nacionais de emprego, tendo em vista a coordenação comunitária da política de emprego dos Estados-membros, que deve contribuir para o desenvolvimento das economias, bem como para um melhor equilíbrio do mercado de emprego;\n\nb) Estudar, de um modo geral, os efeitos da aplicação do presente regulamento e de eventuais disposições complementares;\n\nc) Apresentar, eventualmente, à Comissão propostas fundamentadas de revisão do presente regulamento;\n\nd) Formular, a pedido da Comissão ou por iniciativa própria, pareceres fundamentados sobre questões gerais ou de princípio, em especial sobre as trocas de informação relativas à evolução do mercado de emprego, sobre os movimentos de trabalhadores entre os Estados-membros, sobre os programas ou medidas adequadas ao desenvolvimento da orientação e formação profissionais e tendentes a aumentar as possibilidades de livre circulação e de emprego, assim como sobre todas as formas de assistência em benefício dos trabalhadores e das suas famílias, incluindo a assistência social e o alojamento dos trabalhadores."
+  },
+  "dbb3fac7d6be118f": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. O Comité Consultivo é composto por seis membros efectivos por cada Estado-membro, dos quais dois representam o Governo, dois as organizações sindicais e dois as organizações patronais.\n\n2. Para cada uma das categorias referidas no n.º 1, é nomeado um membro suplente, por cada Estado-membro.\n\n3. A nomeação dos membros efectivos e dos membros suplentes é feita por um período de dois anos, renovável.\n\nNo termo do período de exercio das suas funções os membros efectivos e os membros suplentes permanecem no cargo até serem substituídos ou reconduzidos."
+  },
+  "036953f694da6337": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nOs membros efectivos e os membros suplentes do Comité Consultivo são nomeados pelo Conselho que, no que respeita aos representantes das organizações sindicais e das organizações patronais, procurará alcançar, na composição do Comité, uma representação equitativa dos diferentes sectores económicos interessados.\n\nA lista dos membros efectivos e dos membros suplentes será publicada pelo Conselho, a título informativo, no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "9bed374e9d6c31e3": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO Comité Consultivo é presidido por um membro da Comissão ou por um seu representante. O presidente não tem direito a voto. O Comité reúne-se pelo menos duas vezes por ano, sendo convocado pelo presidente, quer por iniciativa deste, quer a pedido de pelo menos um terço dos membros.\n\nO secretariado será assegurado pelos serviços da Comissão."
+  },
+  "c407e928d5f4643e": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO presidente pode convidar a participar nas reuniões, a título de observadores ou de peritos, individualidades ou representantes de organismos que possuam uma vasta experiência no domínio do emprego e dos movimentos de trabalhadores. O presidente pode ser assistido por consultores técnicos."
+  },
+  "476e6ee3aef5494b": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. O Comité Consultivo pronuncia-se validamente quando estiverem presentes dois terços dos membros.\n\n2. Os pareceres devem ser fundamentados; são formulados por maioria absoluta dos votos validamente expressos e são acompanhados por uma nota com as opiniões emitidas pela minoria quando esta o solicitar."
+  },
+  "4a8ac55df0f1ae46": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nO Comité Consultivo estabelecerá os seus métodos de trabalho através de regulamento interno que entrará em vigor após aprovação pelo Conselho, sob parecer da Comissão. A entrada em vigor de eventuais alterações que o Comité decida introduzir-lhe fica sujeita ao mesmo procedimento."
+  },
+  "33f1f53bc739b5aa": {
+   "fragment_id": "Do Comité Técnico",
+   "type": "divisao",
+   "heading": "Do Comité Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Do Comité Técnico"
+  },
+  "4ee4b86948ef1816": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nCabe ao Comité Técnico assistir a Comissão na preparação, promoção e acompanhamento dos resultados de todos os trabalhos e medidas técnicas para aplicação do presente regulamento e de eventuais disposições complementares."
+  },
+  "84c928117953173b": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nAo Comité Técnico cabe nomeadamente:\n\na) Promover e aperfeiçoar a colaboração entre as administrações em causa dos Estados-membros em todas as questões técnicas relativas à livre circulação e ao emprego dos trabalhadores;\n\nb) Elaborar os processos relativos à organização das actividades comuns das administrações em causa;\n\nc) Facilitar a recolha de informações úteis à Comissão e a realização dos estudos e pesquisas previstos no presente regulamento, assim como favorecer a troca de informações e de experiências entre as administrações em causa;\n\nd) Estudar, no plano técnico, a harmonização dos critérios segundo os quais os Estados-membros apreciam a situação do seu mercado de emprego."
+  },
+  "c984f560f8ff9d02": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. O Comité Técnico é composto por representantes dos governos dos Estados-membros. Cada Governo nomeará como membro efectivo do Comité Técnico um dos membros efectivos que o representam no Comité Consultivo.\n\n2. Cada Governo nomeará um suplente de entre os seus outros representantes, membros efectivos ou suplentes, no Comité Consultivo."
+  },
+  "2de688c8fe27df73": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nO Comité Técnico é presidido por um membro da Comissão ou por um dos seus representantes. O presidente não tem direito a voto. O presidente, bem como os membros do Comité, podem ser assistidos por consultores técnicos.\n\nO secretariado será assegurado pelos serviços da Comissão."
+  },
+  "d42ae36e694aa936": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nAs propostas e os pareceres formulados pelo Comité Técnico são apresentados à Comissão e levados ao conhecimento do Comité Consultivo. Estas propostas e pareceres são acompanhados por uma nota com as opiniões emitidas pelos diferentes membros do Comité Técnico, quando estes o solicitarem."
+  },
+  "81ae3c1a17ca12b6": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nO Comité Técnico estabelecerá os seus métodos de trabalho através de regulamento interno que entrará em vigor após aprovação pelo Conselho, sob parecer da Comissão. A entrada em vigor de eventuais alterações que o Comité decida introduzir-lhe fica sujeita ao mesmo procedimento."
+  },
+  "757fb080a57ebd28": {
+   "fragment_id": "PARTE IV",
+   "type": "divisao",
+   "heading": "PARTE IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE IV"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "32e2879abaf5530e": {
+   "fragment_id": "Disposições transitórias",
+   "type": "divisao",
+   "heading": "Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições transitórias"
+  },
+  "697e9670158f1e40": {
+   "fragment_id": "Artigo 38.º",
+   "type": "artigo",
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nAté à adopção, pela Comissão, do sistema uniformizado previsto no n.º 2 do artigo 15.º, o Gabinete Europeu de Coordenação proporá todas as medidas úteis ao estabelecimento e difusão das relações previstas no n.º 1 do artigo 15.º."
+  },
+  "d49473e660c50587": {
+   "fragment_id": "Artigo 39.º",
+   "type": "artigo",
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nContinuam a ser aplicáveis os regulamentos internos dos Comités Consultivo e Técnico que estiverem a ser aplicados no momento da entrada em vigor do presente regulamento."
+  },
+  "74c1f5b83787993a": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nAté à entrada em vigor das medidas a tomar pelos Estados-membros em aplicação da Directiva do Conselho de 15 de Outubro de 1968 ([^7^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#E0007)), e na medida em que for necessário, nos termos das disposições adoptadas pelos Estados-membros em aplicação da Directiva do Conselho de 25 de Março de 1964 ([^8^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#E0008)), será necessária a autorização de trabalho prevista no artigo 22.º do Regulamento n.º 38/64/CEE para a determinação da duração de validade e para o prolongamento da autorização de residência, podendo a mesma ser substituída por uma declaração de compromisso feita pela entidade patronal ou por um certificado de trabalho especificando a duração do emprego. As declarações da entidade patronal ou os certificados de trabalho que indiquem que a admissão do trabalhador é por período indeterminado terão os mesmos efeitos que uma licença de trabalho permanente."
+  },
+  "fe9e3260f28d4127": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nSe, em consequência da supressão da autorização de trabalho, um Estado-membro não puder continuar a elaborar certas estatísticas sobre o emprego de trabalhadores estrangeiros, pode esse Estado-membro manter, para fins estatísticos, a autorização de trabalho relativamente aos nacionais de outros Estados-membros até à introdução de novos métodos estatísticos e, o mais tardar, até 31 de Dezembro de 1969. A autorização de trabalho deve ser concedida automaticamente e ser válida até à supressão efectiva das autorizações de trabalho naquele Estado-membro."
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "d3953b54564ca938": {
+   "fragment_id": "Artigo 42.º",
+   "type": "artigo",
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. O presente regulamento não prejudica as disposições do Tratado que institui a Comunidade Europeia do Carvão e do Aço relativas aos trabalhadores com qualificação comprovada nas profissões do carvão e do aço, nem as do Tratado que institui a Comunidade Europeia da Energia Atómica relativas ao acesso aos empregos qualificados no domínio nuclear, nem prejudica as medidas tomadas em execução destes tratados.\n\nTodavia, o presente regulamento é aplicável às categorias de trabalhadores acima referidas no primeiro parágrafo, bem como aos membros da sua família, na medida em que a sua situação jurídica não for regulada nos tratados ou disposições citados.\n\n2. O presente regulamento não prejudica as disposições adoptadas nos termos do artigo 51.º do Tratado.\n\n3. O presente regulamento não prejudica as obrigações dos Estados-membros:\n\n— decorrentes de relações particulares ou de futuros acordos com certos países ou territórios não europeus, fundados em laços institucionais existentes à data da entrada em vigor do presente regulamento;\n\n— decorrentes de acordos existentes à data da entrada em vigor do presente regulamento com certos países ou territórios não europeus e fundados em laços institucionais que tenham existido entre eles.\n\nOs trabalhadores destes países ou territórios que, de acordo com esta disposição, exerçam uma actividade assalariada no território de um desses Estados-membros, não podem invocar o benefício das disposições do presente regulamento no território dos outros Estados-membros."
+  },
+  "36a9298e6cf76014": {
+   "fragment_id": "Artigo 43.º",
+   "type": "artigo",
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs Estados-membros comunicarão à Comissão, a título informativo, o texto dos acordos, convenções ou convénios concluídos entre eles no domínio da mão-de-obra, entre a data da sua assinatura e a da sua entrada em vigor."
+  },
+  "3d740e204e483d76": {
+   "fragment_id": "Artigo 44.º",
+   "type": "artigo",
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nA Comissão tomará as medidas de execução necessárias à aplicação do presente regulamento. Para o efeito, actuará em estreito contacto com as administrações centrais dos Estados-membros."
+  },
+  "e1f6ee5d9d8804e8": {
+   "fragment_id": "Artigo 45.º",
+   "type": "artigo",
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nA Comissão submeterá ao Conselho propostas que visem suprimir, nas condições previstas no Tratado, as restrições ao acesso ao emprego de trabalhadores nacionais dos Estados-membros, na medida em que a falta de reconhecimento mútuo dos diplomas, certificados ou outros títulos nacionais possa constituir obstáculo à liberalização dos movimentos de trabalhadores."
+  },
+  "a9205673be9375be": {
+   "fragment_id": "Artigo 46.º",
+   "type": "artigo",
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nAs despesas de funcionamento dos Comités referidos na Parte III serão inscritas no orçamento das Comunidades Europeias na secção relativa à Comissão."
+  },
+  "db8c33cf4b7391c3": {
+   "fragment_id": "Artigo 47.º",
+   "type": "artigo",
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nO presente regulamento é aplicável nos territórios dos Estados-membros e beneficia os seus nacionais, sem prejuízo do disposto nos artigos 2.º, 3.º, 10.º e 11.º."
+  },
+  "6a8861cef45adc79": {
+   "fragment_id": "Artigo 48.º",
+   "type": "artigo",
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nAs disposições do Regulamento n.º 38/64/CEE deixam de ser aplicáveis à data da entrada em vigor do presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "c226e27c01b030ac": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#src.E0001)) JO n.º 268 de 6. 11. 1967, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#src.E0002)) JO n.º 298 de 7. 12. 1967, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#src.E0003)) JO n.º 57 de 26. 8. 1961, p. 1073/61.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#src.E0004)) JO n.º 62 de 17. 4. 1964, p. 965/64.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#src.E0005)) JO n.º L 257 de 19. 10. 1968, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#src.E0006)) JO n.º 159 de 2. 11. 1963, p. 2661/63.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#src.E0007)) JO n.º L 257 de 19. 10. 1968, p. 13.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f0a68ebf-7e90-4168-a1c0-85ca7d44d980.0018.03/DOC_1#src.E0008)) JO n.º 62 de 17. 4. 1964, p. 981/64."
+  },
+  "6a407d8a02972e7e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1968R1612 — PT — 16.06.2011 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31968R1612) [REGULAMENTO (CEE) N.º 1612/68 DO CONSELHO](http://publications.europa.eu/resource/celex/31968R1612) [de 15 de Outubro de 1968](http://publications.europa.eu/resource/celex/31968R1612) [relativo à livre circulação dos trabalhadores na Comunidade](http://publications.europa.eu/resource/celex/31968R1612) (JO L 257, 19.10.1968, p.2)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 492/2011 do Parlamento Europeu e do Conselho de 5 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0492) — L 141 — 1 — 27.5.2011"
+  }
+ }
+}

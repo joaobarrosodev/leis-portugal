@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:482169:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-1131568575",
+ "dre_path": "/dr/detalhe/aviso/423-2005-482169",
+ "source_lastmod": "2026-06-18",
+ "versions": [
+  {
+   "date": "2005-11-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1133978675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1133978675": {
+   "fragment_id": "1131568675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, em 22 de Abril de 2005, a República de Singapura depositou o seu instrumento de denúncia à Convenção Internacional sobre Limite de Responsabilidade dos Proprietários de Navios de Alto Mar, concluída em Bruxelas no dia 10 de Outubro de 1957.\n\nPortugal é Parte da mesma Convenção, aprovada pelo Decreto-Lei n.º 48036, de 14 de Novembro de 1967, publicado no Diário do Governo, 1.ª série, n.º 265, tendo sido ratificada em 8 de Abril de 1968, conforme o aviso publicado no Diário do Governo, n.º 126, de 27 de Maio de 1968, e tendo a Convenção entrado em vigor no dia 8 de Outubro de 1968.\n\nDe acordo com o artigo 13.º, a denúncia referida entrará em vigor, para a República de Singapura, em 22 de Abril de 2006."
+  }
+ }
+}

@@ -1,0 +1,232 @@
+---
+schema_version: '1.0'
+id: pt:dre:409288:por
+title: Decreto-Lei n.º 790/76
+short_title: null
+summary: Cria o Gabinete Coordenador do Combate à Droga, GCCD, que funcionará na dependência da Presidência do Conselho de
+  Ministros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 790/76
+official_date: null
+publication_date: '1976-11-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 259/1976, Série I de 1976-11-05
+  number: '259'
+  series: I
+  supplement: null
+  pages: 2506 - 2507
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/11/25900/25062507.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '409288'
+  dre_path: /dr/detalhe/decreto-lei/790-1976-409288
+  internal: pt:dre:409288:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/790-1976-409288
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/790-1976-409288
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 31829c70ad25585e5ce015f2811598cf6b19893f103b02d9eb1178087e100792
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Crime
+- Definição de Competências
+- Droga
+- Formas de Provimento
+- Gabinete Coordenador do Combate à Droga
+- Gestão de Recursos Humanos
+- Orgânica
+- Presidência do Conselho de Ministros
+- Primeiro-ministro
+- Quadro de Pessoal
+- Toxicodependente
+relationships:
+- type: amended_by
+  target: pt:dre:374399:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:363895:por
+  label: "Alterado o nº 1 do art. 14º pelo DEC LEI.436/79.1979.11.06.PCM, DR.IS [256] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/436-1979-363895
+  date: '1979-11-06'
+- type: amended_by
+  target: pt:dre:469776:por
+  label: "Substituido o quadro de pessoal do Gabinete Coordenador do Combate á Droga aprovado pelo presente diploma, pelo\
+    \ quadro VI anexo à PORT.547/80.1980.08.28.PCM DR.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/547-1980-469776
+  date: '1980-08-28'
+- type: amended_by
+  target: pt:dre:458175:por
+  label: "Aumentado lugares ao quadro de pessoal do gabinete Coordenador do Combate à Droga, aprovado pelo presente diploma,\
+    \ pela PORT.1004/80.21.10.1980.PCM, DR.IS [272/80] de 24.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1004-1980-458175
+  date: '1980-10-21'
+- type: cites
+  target: pt:dre:355158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374399:por
+  label: "Revogado pelo DEC LEI.365/82.1982.09.08.MJ DR.IS [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1982-374399
+  date: '1982-09-08'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:59:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 790/76
+
+de 5 de Novembro
+
+Estruturados o Centro de Estudos da Profilaxia da Droga e o Centro de Investigação e Controle da Droga em termos de autonomia recíproca, impunha-se criar um instrumento que, sem prejuízo dessa autonomia, antes com reforço dela, assegurasse a coordenação e integração das acções de um e outro.
+
+Esse instrumento é o Gabinete Coordenador do Combate à Droga que pelo presente diploma se cria. Destinado pois a coordenar a actividade daqueles dois centros, o Gabinete coordenará também a contribuição dos departamentos policiais, parapoliciais, escolares e sanitários para a prevenção e o desestímulo do consumo da droga e a investigação do seu tráfico ilícito. É ao nível da sua acção que se há-de situar a visão de conjunto de todas as acções e medidas que, desde a vigilância individual à actuação dos departamentos mais especificamente qualificados, integrarão a campanha contra o tráfico e o consumo da droga que agora se lança em termos de ousada planificação.
+
+Num domínio em que outros países mais dotados de meios rotundamente fracassaram, há que, simultaneamente, avançar com decisão e cautela. De cada passo se há-de colher a mais segura experiência para o passo seguinte.
+
+Uma coisa é certa: os que até hoje, traficando ou consumindo drogas, têm contado com a quase complacente passividade dos poderes públicos não podem mais contar com ela. Sem que a afirmação represente menosprezo pela relevante acção das actuais estruturas policiais, que têm feito o possível com os escassos meios ao seu dispor, a Verdade é que ainda se não encarara o flagelo social da difusão e consumo da droga em termos minimamente planificados e científicos.
+
+É o que vai tentar-se agora, a partir da convicção de que, do ângulo do consumidor, o problema se ataca a montante, ou seja ao nível da população em alto risco. Implica isso a decisiva contribuição das estruturas familiares, educativas e laborais, às quais insistentemente se fará apelo.
+
+No que concerne ao traficante há antes de mais que defini-lo e encará-lo como um dos principais inimigos da sociedade moderna e que puni-lo até à sua eficaz neutralização. Não podemos continuar a deixar destruir os nossos filhos para que um punhado de malfeitores continue a lucrar com a sua fraqueza, a sua doença ou a sua morte.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o seguinte:
+
+Artigo 1.º - 1. É criado o Gabinete Coordenador do Combate à Droga, GCCD, que funcionará na dependência da Presidência do Conselho de Ministros.
+
+2. O Gabinete é dirigido pelo coordenador referido nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 745/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/745-1975-355158), de 31 de Dezembro, e destina-se a assegurar a coordenação da actividade dos centros criados pelo citado diploma.
+
+Art. 2.º Para a realização do objectivo mencionado no n.º 2 do artigo anterior, incumbe designadamente ao GCCD:
+
+a) Definir, em colaboração com os centros, os objectivos globais a atingir e respectivos prazos;
+
+b) Coordenar o planeamento e a execução dos programas de acção dos centros;
+
+c) Promover e assegurar a cooperação com entidades estrangeiras no âmbito da assistência e cooperação técnica aos centros;
+
+d) Promover a cooperação com os departamentos oficiais ou entidades privadas com possibilidades de actuação no âmbito do combate à droga, coordenando as respectivas acções com os programas em execução nos centros;
+
+e) Propor e coordenar a abertura de núcleos regionais dos centros;
+
+f) Propor medidas legislativas e emitir pareceres sobre assuntos de natureza jurídica que, no âmbito das suas funções, lhe sejam submetidos;
+
+g) Preparar e estudar dados estatísticos de âmbito nacional relacionados com o tráfico e consumo da droga;
+
+h) Solicitar directamente a quaisquer entidades ou organismos públicos ou privados informações de que careça para o desempenho das suas atribuições;
+
+i) Propor a adopção de medidas ou a utilização de meios adequados ao combate à droga.
+
+Art. 3.º O GCCD disporá dos seguintes serviços:
+
+a) Serviço de coordenação de estudos;
+
+b) Serviço de informação e divulgação;
+
+c) Secretaria.
+
+Art. 4.º Ao serviço de coordenação de estudos compete a coordenação e a elaboração de estudos, pareceres, propostas e informações sobre problemas ligados ao tráfico e ao consumo da droga e em especial à centralização de elementos necessários ao seu tratamento estatístico.
+
+Art. 5.º Ao serviço de informação e divulgação compete a coordenação do estudo e execução da informação e divulgação no âmbito do combate à droga.
+
+Art. 6.º À secretaria compete a execução das tarefas respeitantes ao expediente, arquivo geral e de documentação.
+
+Art. 7.º Com vista a assegurar o funcionamento dos serviços, o GCCD disporá do pessoal constante do mapa anexo ao presente diploma.
+
+Art. 8.º - 1. Sem prejuízo do disposto no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, o coordenador poderá propor a admissão de pessoal em regime de tarefa, bem como o convite a entidades nacionais e estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual no domínio do tráfico e consumo da droga.
+
+2. A duração, termos e remuneração dos contratos de tarefa, bem como dos estudos, inquéritos e trabalhos de carácter eventual referidos no número anterior, serão estabelecidos por despacho do Primeiro-Ministro, ouvida, quanto às remunerações, a Secretaria de Estado da Administração Pública.
+
+3. Quando se mostre indispensável, o Primeiro-Ministro poderá, sob proposta do coordenador, requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no GCCD ou nos centros por ele coordenados, que será remunerado pela dotação global inscrita no orçamento do Gabinete.
+
+4. Poderá ainda, para os efeitos referidos no número anterior, e por despacho conjunto do Primeiro-Ministro e do Ministro interessado, ser destacado para prestar serviço no gabinete pessoal para o efeito qualificado.
+
+Art. 9.º - 1. O coordenador-adjunto será provido, em regime de comissão de serviço por tempo indeterminado, por escolha do Primeiro-Ministro.
+
+2. O coordenador e o coordenador-adjunto estabelecerão entre si os pelouros da sua respectiva competência, sem prejuízo de incumbir ao coordenador-adjunto a orientação directa dos serviços internos do Gabinete e a substituição do coordenador nas suas faltas e impedimentos.
+
+Art. 10.º O provimento do pessoal do quadro será feito por nomeação, salvo nos casos de provimento por contrato ou assalariamento nos termos da lei, com observância do disposto no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033).
+
+Art. 11.º - 1. Os lugares de técnico de 2.ª classe serão providos por despacho do Primeiro-Ministro, sob proposta do coordenador, de entre diplomados com curso superior adequado ao exercício das respectivas funções.
+
+2. Os lugares de técnico auxiliar serão providos de entre indivíduos que possuam o curso geral dos liceus ou habilitação equivalente.
+
+3. Os lugares de tradutor-correspondente-intérprete serão providos de entre indivíduos que possuam o curso geral dos liceus ou habilitação equivalente, com perfeito domínio falado e escrito das línguas inglesa e francesa, constituindo motivo de preferência o conhecimento de outras línguas e habilitação académica de mais elevado nível.
+
+Art. 12.º - 1. Os encargos decorrentes do presente diploma serão cobertos por dotações inscritas para esse fim na Verba de Encargos Gerais da Nação.
+
+2. Para o corrente ano fica desde já autorizado o Ministério das Finanças a assegurar a satisfação dos encargos decorrentes do funcionamento dos serviços do GCCD.
+
+Art. 13.º As dúvidas que se suscitem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Primeiro-Ministro, conjuntamente com o Ministro da Administração Interna ou o Ministro das Finanças, conforme os casos.
+
+Art. 14.º - 1. O Primeiro-Ministro poderá delegar a competência que por este diploma lhe é atribuída.
+
+2. A delegação dos poderes que ao Primeiro-Ministro foram conferidos pelo [Decreto-Lei n.º 745/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/745-1975-355158), de 31 de Dezembro, abrange automaticamente a delegação dos poderes constantes do presente diploma.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares.
+
+Promulgado em 25 de Outubro de 1976.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Quadro do pessoal a que se refere o artigo 7.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/11/25900/25062507.pdf)
+
+O Primeiro-Ministro, Mário Soares.

@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:2090090:por
+title: Portaria n.º 558/2009
+short_title: null
+summary: Homologação de contratos públicos de aprovisionamento - aditamento às Portarias n.os 144/2009, de 27 de Janeiro,
+  e 145/2009, de 27 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde - Gabinete do Secretário de Estado Adjunto e da Saúde
+proposing_entity: null
+official_number: 558/2009
+official_date: null
+publication_date: '2009-05-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/2009, Série II de 2009-05-22
+  number: '99'
+  series: II
+  supplement: null
+  pages: 20672 - 20673
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/05/099000000/2067220673.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2090090'
+  dre_path: /dr/detalhe/portaria/558-2009-2090090
+  internal: pt:dre:2090090:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/558-2009-2090090
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/558-2009-2090090
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:20:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e82ff9592a6133e9bcd9d9e6640df294436fb5984182ac5b19faddc10f5d578b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:20:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Comércio
+- Concurso Público
+- Contrato
+- Doença Endócrina
+- Homologação
+- Medicamento
+- Oncologia
+- Serviço Nacional de Saúde
+relationships:
+- type: amended_by
+  target: pt:dre:2090091:por
+  label: "Homologados contratos públicos de aprovisionamento e incluídos no anexo à Port 145/2009, de 27-Jan, alterada pelo\
+    \ presente diploma, pela PORT.559/2009.22.05.2009.SEADS-MS, DR.IIS [99] de 22.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/559-2009-2090091
+  date: '2009-05-22'
+- type: cites
+  target: pt:dre:347964:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:20:53Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 558/2009
+
+Através das portarias n.os 144/2009 e 145/2009, de 27 de Janeiro, foram homologados os contratos públicos de aprovisionamento (CPA) com vista ao fornecimento de, respectivamente, hormonas e outros medicamentos usados no tratamento das doenças endócrinas e medicamentos do foro oncológico.
+
+Por despacho do Secretário de Estado Adjunto e da Saúde de 30 de Maio e de 10 de Julho de 2008, respectivamente, foi autorizada a abertura dos concursos públicos n.os 2008/7 e 2008/6 e foram aprovados os programas de concurso e os cadernos de encargos respectivos, os quais prevêem, no n.º 2 do artigo 2.º das cláusulas técnicas especiais, que para os medicamentos que à data de apresentação das propostas ainda não tenham obtido a concessão de AIM pelo INFARMED, os CPA só serão celebrados após a obtenção de AIM em Portugal.
+
+Estão nestas condições os medicamentos anexos à presente portaria, cujas AIM foram emitidas em Dezembro passado, e, em consequência, torna-se necessário homologar os contratos públicos de aprovisionamento.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Saúde, ao abrigo do disposto no artigo 14.º dos Estatutos da Administração Central do Sistema de Saúde, I. P., aprovados pela Portaria n.º 646/2007, de 30 de Maio, conjugado com o n.º 1 da [Portaria n.º 1176-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1176-a-2000-347964), de 14 de Dezembro, o seguinte:
+
+1.º São homologados os contratos públicos de aprovisionamento que constam do anexos I e II à presente portaria.
+
+2.º Os contratos públicos de aprovisionamento a que se refere o anexo I à presente portaria são aditados ao anexo à Portaria n.º 144/2009, de 27 de Janeiro
+
+3.º Os contratos públicos de aprovisionamento a que se refere o anexo II são aditados ao anexo à Portaria n.º 145/2009, de 27 de Janeiro.
+
+4.º A presente portaria produz efeitos a partir da data da sua assinatura.
+
+12 de Maio de 2009. - O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos.
+
+Concurso:2008/7 - Hormonas e outros medicamentos usados no tratamento das doenças endócrinas
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/05/099000000/2067220673.pdf)
+
+Concurso:2008/6 - Medicamentos do Foro Oncológico
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/05/099000000/2067220673.pdf)
+
+201786337

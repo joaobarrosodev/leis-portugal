@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:397356:por
+title: Portaria n.º 73/82
+short_title: null
+summary: Autoriza a constituição da sociedade de financiamento Euro-Financeira - Sociedade de Investimento, S. A. R. L.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 73/82
+official_date: null
+publication_date: '1982-07-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/1982, Série I de 1982-07-28
+  number: '172'
+  series: I
+  supplement: null
+  pages: 2247 - 2247
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/07/17200/22472247.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '397356'
+  dre_path: /dr/detalhe/portaria/73-1982-397356
+  internal: pt:dre:397356:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-1982-397356
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-1982-397356
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d08f80c09af21ef6a1fe0654482dd1707b4cbf28e8b30670951e222dc5fd1e7d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:23:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sociedade de Investimento
+- Sociedade Parabancária
+relationships:
+- type: cites
+  target: pt:dre:463994:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375179:por
+  label: Rectificada pela DECL.DD6069.02.09.1982.PCM, DR.IS [222] de 24.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375179
+  date: '1982-09-02'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:23:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 73/82
+
+Portaria n.º 731/82
+
+de 28 de Julho
+
+Nos termos do n.º 3 do artigo 2.º do [Decreto-Lei n.º 342/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1980-463994), de 2 de Setembro, a constituição de sociedades de investimento depende de autorização do Ministro das Finanças e do Plano, a conceder por portaria.
+
+Considerando que, nos termos e para os efeitos da legislação em vigor, foi solicitada a constituição de uma sociedade de investimento, com a designação de Euro-Financeira - Sociedade de Investimento, S. A. R. L.;
+
+Verificando-se que na sua constituição foram observados os pressupostos exigidos pela lei;
+
+Considerando a oportunidade e a conveniência da criação de sociedades de investimento na medida em que contribuem para a orientação e dinamização dos investimentos;
+
+Considerando que a instrução do pedido de autorização revelou que a requerente oferece condições técnicas e financeiras para a realização dos objectivos indicados;
+
+Ouvidos o Banco de Portugal e o Instituto do Investimento Estrangeiro:
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, ao abrigo do estabelecido no artigo 2.º do [Decreto-Lei n.º 342/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1980-463994), de 2 de Setembro, autorizar a constituição da sociedade de financiamento Euro-Financeira - Sociedade de Investimento, S. A. R. L., que se regerá pelos estatutos apresentados e que ficam arquivados no Banco de Portugal.
+
+Ministério das Finanças e do Plano, 13 de Julho de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.

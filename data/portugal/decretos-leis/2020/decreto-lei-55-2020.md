@@ -1,0 +1,548 @@
+---
+schema_version: '1.0'
+id: pt:dre:140087205:por
+title: Decreto-Lei n.º 55/2020
+short_title: null
+summary: Concretiza a transferência de competências para os órgãos municipais e para as entidades intermunicipais no domínio
+  da ação social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Modernização do Estado e da Administração Pública
+official_number: 55/2020
+official_date: null
+publication_date: '2020-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/2020, Série I de 2020-08-12
+  number: '156'
+  series: I
+  supplement: null
+  pages: 8 - 17
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15600/0000800017.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-08-14'
+version_history:
+  file: decreto-lei-55-2020.versoes.json
+  count: 4
+  source_lastmod: '2026-08-21'
+  versions:
+  - date: '2020-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-02-15'
+    amending: pt:dre:179008335:por
+    amending_title: Decreto-Lei n.º 23/2022
+    changes:
+    - Altera Artigo 24.º
+  - date: '2022-12-30'
+    amending: pt:dre:205493467:por
+    amending_title: Decreto-Lei n.º 87-B/2022
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 24.º
+  - date: '2026-08-14'
+    amending: pt:dre:1156670556:por
+    amending_title: Decreto-Lei n.º 166/2026
+    changes:
+    - Altera Artigo 3.º
+    - Revoga Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/55/2020/p/cons/20260813/pt/html
+  oj: null
+  dre: '140087205'
+  dre_path: /dr/detalhe/decreto-lei/55-2020-140087205
+  internal: pt:dre:140087205:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2020-140087205
+  metadata_url: https://data.dre.pt/eli/dec-lei/55/2020/p/cons/20260813/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-140188613
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-140188613
+  retrieved_at: '2026-10-22T13:49:58Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-21T00:00:00Z'
+integrity:
+  source_sha256: 1d03eff1a0b39cb6199782d0457d397d56199156ca4f044866490df8bee248f1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:49:58Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-55-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Central
+- Função Pública
+- ADSE
+- Protecção à Família
+- Assembleia de Freguesia
+- Assembleia Municipal
+- Associação Nacional de Municípios Portugueses
+- Autonomia Administrativa
+- Autonomia Financeira
+- Autonomia Patrimonial
+- Financiamento
+- Comissão de Acompanhamento
+- Delegação de Competências
+- Descentralização
+- Saúde Pública
+- Administração Pública
+- Ação Social
+- Finanças Públicas
+- Apoio ao Investimento
+- Gestão Pública
+- Proteção ao Deficiente
+- Proteção na Velhice
+- Proteção Social
+- Administração Local
+- Câmara Municipal
+- Segurança Social
+- Funcionário Público
+- Gestão de Recursos Humanos
+- Autarquia Local
+- Carta Social Municipal
+- Carta Social Supramunicipal
+relationships:
+- type: amended_by
+  target: pt:dre:179008335:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2022-179008335
+  date: '2022-02-14'
+- type: amended_by
+  target: pt:dre:205493467:por
+  label: Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-b-2022-205493467
+  date: '2022-12-29'
+- type: amended_by
+  target: pt:dre:1156670556:por
+  label: Altera Artigo 3.º; Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556
+  date: '2026-08-13'
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:118748848:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/21/2019/01/30/p/dre
+- type: cites
+  target: pt:dre:344943:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/115/2006/06/14/p/dre
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:66487456:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/30/2015/02/12/p/dre
+- type: cites
+  target: pt:dre:66888645:por
+  label: null
+  source: http://data.dre.pt/eli/port/97-a/2015/03/30/p/dre
+- type: cites
+  target: pt:dre:67641479:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
+article_structure:
+  article_count: 24
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:49:58Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 55/2020
+
+Decreto-Lei n.º 55/2020
+
+de 12 de agosto
+
+Sumário: Concretiza a transferência de competências para os órgãos municipais e para as entidades intermunicipais no domínio da ação social.
+
+As autarquias locais são a estrutura fundamental para a gestão de serviços públicos numa dimensão de proximidade.
+
+O reforço da autonomia local prevê não só a descentralização de competências da administração direta e indireta do Estado para as autarquias locais e para as entidades intermunicipais, mas também a possibilidade de se proceder à redistribuição de competências entre a administração autárquica, fortalecendo o papel das autarquias locais e possibilitando uma maior adequação dos serviços prestados à população, o que se traduz num melhor atendimento e numa resposta mais eficaz aos cidadãos, em especial aos mais vulneráveis socialmente.
+
+Neste sentido, a Lei n.º 50/2018, de 16 de agosto, que estabelece o quadro da transferência de competências para as autarquias locais e para as entidades intermunicipais em matéria de ação social, estabelece que cabe aos órgãos dos municípios a competência para a elaboração e divulgação das cartas sociais municipais, para a emissão de parecer sobre a criação de serviços e equipamentos sociais com apoios públicos, para a coordenação da execução dos programas dos contratos locais de desenvolvimento social, para o desenvolvimento de programas de promoção de conforto habitacional para pessoas idosas, para assegurar o serviço de atendimento e de acompanhamento social, para a elaboração dos relatórios de diagnóstico técnico e acompanhamento e a atribuição de prestações pecuniárias de caráter eventual em situações de carência económica e de risco social, para a celebração e acompanhamento dos contratos de inserção dos beneficiários do rendimento social de inserção, bem como para a implementação da componente de apoio à família para crianças que frequentam o ensino pré-escolar da rede pública.
+
+A referida Lei consagra também a transferência de várias competências para as entidades intermunicipais, as quais constituem um instrumento de reforço da cooperação intermunicipal, que passa pela participação na organização dos recursos e no planeamento das respostas e equipamentos sociais ao nível supraconcelhio, pelo exercício das competências das plataformas supraconcelhias e pela elaboração de cartas sociais supramunicipais para a identificação de prioridade e respostas sociais a nível intermunicipal.
+
+Por forma a permitir o exercício sustentado das competências por parte dos municípios e das entidades intermunicipais, o presente decreto-lei prevê que a transferência das competências deve ser acompanhada dos recursos adequados, considerando os atualmente aplicados nos serviços e competências descentralizados.
+
+Considera o Governo que a opção político-legislativa consagrada no presente decreto-lei concretiza adequadamente mais uma etapa do processo de transferência de competências do Estado para as autarquias locais previsto no Programa do XXII Governo Constitucional, salvaguardando, de forma mais eficiente, os interesses legítimos dos cidadãos e das comunidades, potenciando uma prossecução do interesse público.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei concretiza a transferência de competências para os órgãos municipais e para as entidades intermunicipais no domínio da ação social, ao abrigo dos artigos 12.º e 32.º da Lei n.º 50/2018, de 16 de agosto.
+
+2 - O presente decreto-lei procede ainda à primeira alteração ao Decreto-Lei n.º 115/2006, de 14 de junho, que regulamenta a rede social.
+
+###### Artigo 2.º — Princípios gerais
+
+1 - O disposto no presente decreto-lei subordina-se aos princípios em que assentam as bases gerais do sistema de segurança social e no âmbito do subsistema de ação social, previsto nos artigos 29.º e seguintes da Lei n.º 4/2007, de 16 de janeiro, na sua redação atual, bem como aos princípios previstos no artigo 2.º da Lei n.º 50/2018, de 16 de agosto.
+
+2 - A transferência de competências efetua-se sem prejuízo da devida articulação com a intervenção complementar dos serviços e organismos da Administração direta e indireta do Estado com competências na matéria.
+
+### Capítulo II — Transferência de competências
+
+#### Secção I — Disposições gerais
+
+###### Artigo 3.º — Transferência de competências
+
+1 - É da competência dos órgãos municipais:
+
+a) Assegurar o serviço de atendimento e de acompanhamento social;
+
+b) Elaborar as cartas sociais municipais, incluindo o mapeamento de respostas existentes ao nível dos equipamentos sociais;
+
+c) Assegurar a articulação entre as cartas sociais municipais e as prioridades definidas a nível nacional e regional;
+
+d) Implementar atividades de animação e apoio à família para as crianças que frequentam o ensino pré-escolar que correspondam à componente de apoio à família nos termos do artigo 12.º;
+
+e) Elaborar os relatórios de diagnóstico técnico e acompanhamento e de atribuição de prestações pecuniárias de caráter eventual em situações de carência económica e de risco social;
+
+f) No âmbito da prestação social única (PSU), verificar o cumprimento das obrigações aplicáveis aos titulares e aos membros do agregado familiar deste, que não se enquadrem no âmbito de competência da instituição gestora competente e do Instituto de Emprego e Formação Profissional, I. P.;
+
+g) Desenvolver programas nas áreas de conforto habitacional para pessoas idosas, designadamente em articulação com entidades públicas, instituições particulares de solidariedade social ou com as estruturas de gestão dos programas temáticos;
+
+h) Coordenar a execução do programa de contratos locais de desenvolvimento social (CLDS), em articulação com os conselhos locais de ação social;
+
+i) Emitir parecer, vinculativo quando desfavorável, sobre a criação de serviços e equipamentos sociais com apoios públicos.
+
+2 - É da competência dos órgãos das entidades intermunicipais:
+
+a) Participar na organização dos recursos e no planeamento das respostas e equipamentos sociais ao nível supraconcelhio, exercendo as competências das plataformas supraconcelhias e assegurando a representação das entidades que as integram;
+
+b) Elaborar as cartas sociais supramunicipais, para identificação de prioridades e respostas sociais a nível intermunicipal.
+
+> Alterado pelo/a Artigo 55.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+#### Secção II — Instrumentos estratégicos e de planeamento
+
+###### Artigo 4.º — Carta social municipal
+
+1 - A carta social municipal é o instrumento estratégico de planeamento da rede de serviços e equipamentos sociais, incluindo o mapeamento das respostas existentes ao nível dos equipamentos sociais, que prevê a rede de respostas sociais adequada às necessidades e apoia a decisão, devendo estar articulada com as prioridades definidas a nível nacional e regional.
+
+2 - Compete à câmara municipal elaborar, manter atualizada e divulgar a carta social municipal.
+
+3 - Compete à assembleia municipal aprovar a carta social municipal, e as suas revisões, após discussão e parecer dos Conselhos Locais de Ação Social (CLAS).
+
+4 - Após a aprovação pela assembleia municipal, deve a carta social municipal ser remetida aos membros do Governo responsáveis pelas áreas das autarquias locais e da segurança social.
+
+5 - A inclusão, na carta social municipal, de novos equipamentos sociais não determina a obrigatoriedade de celebração de acordos de cooperação por parte da segurança social, estando os mesmos sujeitos à disponibilidade orçamental e aos critérios de acesso e de priorização, nos termos definidos pelo membro do Governo responsável pela área da segurança social.
+
+###### Artigo 5.º — Carta social supramunicipal
+
+1 - A carta social supramunicipal é o instrumento estratégico para identificação de prioridades de respostas sociais a nível intermunicipal.
+
+2 - Compete ao conselho intermunicipal ou ao conselho metropolitano das entidades intermunicipais elaborar, manter atualizada e divulgar a carta social supramunicipal.
+
+3 - Compete à assembleia intermunicipal aprovar a carta social supramunicipal e as respetivas revisões.
+
+4 - Os órgãos das entidades intermunicipais competentes devem assegurar a articulação entre a carta social supramunicipal e as prioridades definidas a nível nacional e regional.
+
+5 - A inclusão, na carta social supramunicipal, de novos equipamentos sociais não determina a obrigatoriedade de celebração de acordos de cooperação por parte da segurança social, estando os mesmos sujeitos à disponibilidade orçamental e aos critérios de acesso e de priorização, nos termos definidos pelo membro do Governo responsável pela área da segurança social.
+
+###### Artigo 6.º — Conteúdo, atualização e divulgação da carta social municipal e supramunicipal
+
+A caracterização dos conteúdos, bem como as regras de atualização e de divulgação das cartas sociais municipais e supramunicipais, são reguladas por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais e da segurança social.
+
+###### Artigo 7.º — Serviços e equipamentos
+
+1 - Compete à câmara municipal emitir parecer sobre a criação de serviços e equipamentos sociais financiados através de programas de investimento com apoios públicos, após aprovação da carta social municipal pela assembleia municipal.
+
+2 - O parecer referido no número anterior deve estar em conformidade com a carta social municipal e em articulação com as prioridades definidas a nível nacional e regional, e assume caráter vinculativo quando desfavorável.
+
+#### Secção III — Programas
+
+###### Artigo 8.º — Programa de contratos locais de desenvolvimento social
+
+1 - Compete à câmara municipal, em articulação com os conselhos locais de ação social, coordenar a execução do programa de CLDS.
+
+2 - A câmara municipal pode selecionar instituições de solidariedade social para desenvolver a execução das ações previstas nos planos de ação que integrem os CLDS.
+
+3 - A seleção referida no número anterior é sujeita a parecer do CLAS.
+
+4 - O programa CLDS é passível de financiamento da União Europeia, mas, quando este não exista, a transferência do financiamento nacional para os municípios opera-se de acordo com o previsto no artigo 80.º-B do regime financeiro das autarquias locais e das entidades intermunicipais, aprovado pela Lei n.º 73/2013, de 3 de setembro, na sua redação atual.
+
+5 - A competência prevista no n.º 1 é exercida nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da segurança social.
+
+###### Artigo 9.º — Programas de conforto habitacional para pessoas idosas
+
+Compete à câmara municipal o desenvolvimento de programas de promoção de conforto habitacional para pessoas idosas, designadamente em articulação com entidades públicas, instituições de solidariedade social ou com as estruturas de gestão dos programas temáticos.
+
+#### Secção IV — Serviços de atendimento, acompanhamento e apoios sociais
+
+###### Artigo 10.º — Serviço de atendimento e de acompanhamento social
+
+1 - Compete à câmara municipal assegurar o serviço de atendimento e de acompanhamento social de pessoas e famílias em situação de vulnerabilidade e exclusão social.
+
+2 - A competência prevista no número anterior é exercida nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da segurança social.
+
+3 - Compete à câmara municipal a elaboração dos relatórios de diagnóstico técnico e acompanhamento e a atribuição de prestações pecuniárias de caráter eventual em situações de carência económica e de risco social.
+
+4 - O exercício da competência prevista no n.º 1 pode ser contratualizado com instituições particulares de solidariedade social ou equiparadas.
+
+5 - O desenvolvimento do serviço de atendimento e de acompanhamento social é efetuado com recurso a sistema de informação específico, nos termos a regular pela portaria referida no n.º 2.
+
+###### Artigo 11.º — Acordos de inserção
+
+1 - Compete à câmara municipal celebrar e acompanhar os contratos de inserção dos beneficiários do rendimento social de inserção.
+
+2 - A competência prevista no número anterior é exercida nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da segurança social.
+
+3 - O exercício da competência prevista no n.º 1 pode ser contratualizado com instituições particulares de solidariedade social ou equiparadas.
+
+4 - A celebração e acompanhamento dos contratos de inserção dos beneficiários do rendimento social de inserção é efetuada com recurso a sistema de informação específico, nos termos a regular pela portaria referida no n.º 2.
+
+> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.
+
+###### Artigo 12.º — Componente de apoio à família
+
+1 - Compete à câmara municipal assegurar o fornecimento de refeições e o apoio ao prolongamento de horário da componente de apoio à família, para as crianças que frequentam o ensino pré-escolar da rede pública, nos termos definidos no Decreto-Lei n.º 21/2019, de 30 de janeiro, na sua redação atual.
+
+2 - No âmbito da componente de apoio à família, o Estado transfere, anualmente, para os municípios o correspondente montante financeiro, desde que aquele montante não seja igualmente transferido pelo Fundo Social Municipal.
+
+3 - O montante referido no número anterior é definido, anualmente, por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da segurança social após consulta à Associação Nacional de Municípios Portugueses.
+
+### Capítulo III — Alteração legislativa
+
+###### Artigo 13.º — Alteração ao Decreto-Lei n.º 115/2006, de 14 de junho
+
+O artigo 32.º do Decreto-Lei n.º 115/2006, de 14 de junho, passa a ter a seguinte redação:
+
+«Artigo 32.º
+
+[...]
+
+1 - ...
+
+2 - Compete ao presidente do conselho metropolitano ou ao presidente do conselho intermunicipal a coordenação da plataforma supraconcelhia, com as seguintes competências:
+
+a) ...
+
+b) ...
+
+3 - ...»
+
+### Capítulo IV — Disposições complementares, transitórias e finais
+
+###### Artigo 14.º — Transferência de recursos
+
+1 - A transferência das competências concretizada pelo presente decreto-lei envolve a transferência, para os municípios, das dotações inscritas no Fundo de Financiamento da Descentralização, correspondentes aos recursos necessários para o exercício das competências transferidas, nos termos a definir pelas portarias referidas nos artigos 8.º, 10.º e 11.º
+
+2 - Para efeitos do exercício das competências previstas no presente decreto-lei, são transferidos para os municípios os montantes equivalentes às remunerações devidas aos trabalhadores afetos ao exercício das mencionadas competências, transferidos ou que venham a ser contratados em sequência da não transição dos trabalhadores identificados pelos serviços do Instituto da Segurança Social, I. P. (ISS, I. P.), e, bem assim, os respetivos encargos a cargo da entidade empregadora.
+
+3 - Os encargos referidos no número anterior incluem despesas com o seguro de acidente de trabalho, de higiene, segurança e medicina no trabalho.
+
+4 - O montante das transferências de recursos referidas no número anterior é atualizado, anualmente, nos termos equivalentes à variação prevista para as remunerações dos trabalhadores em funções públicas.
+
+5 - As portarias referidas no n.º 1, a emitir pelos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da segurança social, definem os termos da transição de todos os recursos e meios necessários, tendo em consideração, designadamente, os rácios e os indicativos técnicos atualmente existentes para o funcionamento dos serviços de apoio social.
+
+6 - Para efeitos do exercício das competências previstas no presente decreto-lei, os trabalhadores com vínculo de emprego público do mapa de pessoal do ISS, I. P., mediante acordo entre o trabalhador, aquele Instituto e a câmara municipal da respetiva localização geográfica, transitam para os mapas de pessoal dos municípios, nos termos do previsto nos números seguintes e sem prejuízo do disposto no número anterior.
+
+7 - Sem prejuízo do disposto na alínea f) do artigo 2.º da Lei n.º 50/2018, de 16 de agosto, para cada município transita, pelo menos, um trabalhador da carreira e com a categoria de técnico superior ou a dotação correspondente às respetivas remunerações e demais encargos salariais anuais.
+
+8 - A transição referida no número anterior implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.
+
+9 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição dos trabalhadores para os mapas de pessoal das câmaras municipais, mantêm-se inalteradas até ao respetivo termo.
+
+10 - A transição dos trabalhadores para os mapas de pessoal das câmaras municipais produz efeitos com a publicitação de lista dos referidos trabalhadores, organizada por município, na 2.ª série do Diário da República, homologada pelo membro do Governo responsável pelo serviço de origem.
+
+11 - A lista referida no número anterior contém, obrigatoriamente, a caracterização do posto de trabalho nos serviços de origem, bem como a carreira, categoria e posição remuneratória de cada trabalhador.
+
+12 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da câmara municipal para onde transitam os trabalhadores referidos no n.º 5.
+
+13 - Os processos individuais dos trabalhadores são entregues pelo serviço de origem nos serviços da câmara municipal do município de destino no prazo de 90 dias, após a publicitação referida no n.º 9.
+
+14 - Os trabalhadores a que se refere o presente artigo continuam a beneficiar do regime do Instituto de Proteção e Assistência na Doença, I. P., e de reembolso das despesas com o Serviço Nacional de Saúde vigente nos respetivos lugares de origem.
+
+15 - A transferência financeira relativa à transição dos trabalhadores da Administração central, prevista no n.º 5, para o mapa de pessoal da câmara municipal inclui os eventuais abonos que os trabalhadores aufiram.
+
+16 - O presidente da câmara municipal exerce as competências de direção e gestão de recursos humanos relativas aos trabalhadores que transitam para o mapa de pessoal da câmara municipal, nos mesmos termos em que as exerce relativamente aos restantes trabalhadores sob a sua dependência hierárquico-funcional.
+
+17 - O regime da ADSE - Instituto de Proteção e Assistência na Doença, I. P., e do Serviço Nacional de Saúde dos trabalhadores da administração central é aplicável:
+
+a) Aos trabalhadores que transitam da administração central para os municípios no âmbito do processo de descentralização de competências;
+
+b) Aos trabalhadores que sejam contratados para substituir os trabalhadores referidos na alínea anterior que tenham cessado funções, temporária ou definitivamente, por alguma das causas previstas no artigo 289.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual;
+
+c) Aos novos recrutamentos dentro dos rácios definidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87-B/2022 - Diário da República n.º 250/2022, 1º Suplemento, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-b-2022-205493467), em vigor a partir de 2022-12-30
+
+###### Artigo 15.º — Acordos e protocolos
+
+1 - (Revogado.)
+
+2 - No prazo em que decidam assumir as competências, os municípios podem optar por:
+
+a) Exercer diretamente as competências anteriormente objeto de acordo ou protocolo;
+
+b) Manter os acordos e protocolos em vigor, através da cessão da posição contratual do ISS, I. P.;
+
+c) Celebrar novos acordos ou protocolos.
+
+3 - (Revogado.)
+
+4 - Aos acordos ou protocolos referidos no n.º 2 não é aplicável o disposto no Decreto-Lei n.º 120/2015, de 30 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87-B/2022 - Diário da República n.º 250/2022, 1º Suplemento, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-b-2022-205493467), em vigor a partir de 2022-12-30
+
+###### Artigo 16.º — Recursos financeiros para os anos de 2020 a 2022
+
+1 - No prazo de 30 dias corridos após a entrada em vigor do presente decreto-lei, e no que reporta às competências previstas nos artigos 10.º e 11.º, os membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da segurança social remetem a cada uma das câmaras municipais projeto de mapa contendo os elementos financeiros, os recursos humanos em causa e respetivos ratios, os acordos e protocolos vigentes, bem como o número de processos familiares em acompanhamento e outros dados considerados relevantes.
+
+2 - As câmaras municipais dispõem de um prazo de 30 dias corridos contados da receção do projeto referido no número anterior, para se pronunciarem sobre o seu teor, presumindo-se, na falta de pronúncia, que manifestam a sua concordância com o teor do projeto.
+
+3 - Para efeitos da deliberação a que se refere o n.º 2 do artigo 24.º, no prazo de 90 dias corridos após a entrada em vigor do presente decreto-lei, é publicado, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da segurança social, o mapa com os montantes do Fundo de Financiamento da Descentralização que são transferidos para os municípios no ano de 2021, no âmbito das competências referidas nos artigos 10.º e 11.º
+
+4 - Até 30 de maio de 2021 é publicado, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da segurança social, o mapa com os montantes do Fundo de Financiamento da Descentralização que, no âmbito dos artigos 10.º e 11.º, são transferidos para os municípios no ano de 2022.
+
+5 - Caso se revele necessário, nos anos de 2021 e 2022, rever os montantes referidos no número anterior, designadamente tendo em consideração o número de processos familiares em acompanhamento no âmbito do rendimento social de inserção, os membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da segurança social remetem a fundamentação de revisão aos municípios, sendo a variação do montante considerada autonomamente, em sede de Orçamento do Estado, na respetiva dotação do Fundo de Financiamento da Descentralização a transferir.
+
+###### Artigo 17.º — Outras fontes de financiamento
+
+1 - No âmbito das competências transferidas ao abrigo do presente decreto-lei, os municípios podem apresentar candidaturas a programas, projetos e medidas de apoio financiados por fundos comunitários, designadamente fundos europeus estruturais e de investimento, em articulação com as comissões de coordenação e desenvolvimento regional.
+
+2 - Os municípios com candidaturas aprovadas a que se referem o número anterior devem comunicar ao serviço competentes da segurança social, no prazo de 15 dias após aprovação da candidatura, o montante de financiamento total e o montante de financiamento comunitário, bem como as despesas abrangidas.
+
+###### Artigo 18.º — Alterações orgânicas
+
+No prazo máximo de 180 dias a contar da entrada em vigor do presente decreto-lei, nos termos do artigo 24.º, devem ser adaptados, em conformidade, os regimes orgânicos das entidades integradas na Administração direta e indireta do Estado, que detenham competências concorrentes com as agora transferidas para os municípios e para as entidades intermunicipais.
+
+###### Artigo 19.º — Salvaguarda de regime
+
+O disposto no presente decreto-lei não prejudica as atribuições e competências atualmente exercidas no concelho de Lisboa pela Santa Casa da Misericórdia de Lisboa.
+
+###### Artigo 20.º — Acordo prévio dos municípios
+
+1 - A transferência das competências para as entidades intermunicipais depende de prévio acordo de todos os municípios que as integrem.
+
+2 - O acordo referido no número anterior é da competência da assembleia municipal de cada um dos municípios que integram a entidade intermunicipal.
+
+###### Artigo 21.º — Comissão de acompanhamento
+
+1 - É criada uma comissão de acompanhamento da implementação e desenvolvimento do quadro de competências regulado no presente decreto-lei, com competências específicas para:
+
+a) Acompanhar, numa lógica de proximidade, o desenvolvimento e a evolução das competências transferidas;
+
+b) Propor a adoção das medidas que se mostrem necessárias ao pleno exercício das competências transferidas, a submeter a aprovação dos membros do Governo responsáveis pelas áreas a que se reporta o artigo 3.º
+
+2 - A comissão de acompanhamento integra:
+
+a) Um representante da Associação Nacional de Municípios Portugueses, que preside;
+
+b) Um representante do membro do Governo responsável pela área das finanças;
+
+c) Um representante do membro do Governo responsável pela área das autarquias locais;
+
+d) Um representante do membro do Governo responsável pela área da solidariedade e segurança social;
+
+e) Um representante da Direção-Geral do Orçamento;
+
+f) Um representante do Instituto da Segurança Social, I. P.;
+
+g) Um representante do Instituto do Emprego e da Formação Profissional, I. P.
+
+3 - Podem participar nos trabalhos, quando a natureza das matérias a tratar o justifique, representantes das entidades municipais, intermunicipais ou representantes de outras entidades e organismos da Administração Pública, designadamente das áreas da cidadania e igualdade e da integração e migrações, da administração interna, da saúde, da educação e da habitação.
+
+4 - A comissão de acompanhamento e monitorização reúne, pelo menos, bimestralmente.
+
+5 - A comissão de acompanhamento e monitorização efetua um balanço anual do desenvolvimento e da evolução das competências transferidas ao abrigo do presente decreto-lei, através da publicação de um relatório.
+
+6 - A comissão de acompanhamento e monitorização aprova o respetivo regulamento interno.
+
+###### Artigo 22.º — Referências legais
+
+Consideram-se feitas aos municípios ou às entidades intermunicipais as referências constantes de outros diplomas legais relativas às competências objeto do presente decreto-lei.
+
+###### Artigo 23.º — Disposições transitórias
+
+1 - Nos termos dos n.os 2 e 3 dos artigos 40.º e 41.º da Lei n.º 50/2018, de 16 de agosto, mantêm-se os contratos interadministrativos de delegação de competências celebrados ao abrigo do Decreto-Lei n.º 30/2015, de 12 de fevereiro, bem como os acordos de execução celebrados ao abrigo da Lei n.º 75/2013, de 12 de setembro, até à data em que as autarquias locais ou as entidades intermunicipais assumam, no âmbito do presente decreto-lei, as competências previstas naqueles contratos ou acordos, consoante o caso.
+
+2 - Os contratos interadministrativos de delegação de competências e os acordos de execução previstos no número anterior caducam na data em que os respetivos municípios ou entidades intermunicipais assumam as novas competências, no âmbito do presente decreto-lei.
+
+###### Artigo 24.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - Relativamente ao ano de 2021, os municípios e entidades intermunicipais que não pretendam assumir as competências previstas no presente decreto-lei podem fazê-lo mediante comunicação desse facto à Direção-Geral das Autarquias Locais (DGAL), após prévia deliberação dos seus órgãos deliberativos, até 60 dias após a publicação, no Diário da República, do despacho previsto no n.º 3 do artigo 16.º e das portarias referidas nos artigos 10.º e 11.º
+
+3 - A DGAL informa o serviço competente da segurança social, no prazo de 30 dias corridos a contar do termo das datas de comunicação a que se refere o artigo anterior:
+
+a) De quais os municípios e entidades intermunicipais que não pretendem concretizar a transferência de competências em 2021;
+
+b) Sem prejuízo do disposto na alínea anterior, de quais os municípios e entidades intermunicipais que não tenham procedido à comunicação a que se refere o artigo anterior.
+
+4 - Sem prejuízo do disposto no número seguinte todas as competências previstas no presente decreto-lei consideram-se transferidas para as autarquias locais e entidades intermunicipais até 31 de março de 2022.
+
+5 - O prazo previsto no número anterior pode ser prorrogado até 3 de abril de 2023, pelos municípios que entendam não reunir as condições necessárias para o exercício das competências previstas no presente decreto-lei no prazo previsto no número anterior, após prévia deliberação dos seus órgãos deliberativos e mediante comunicação à DGAL da intenção de prorrogar tal prazo.
+
+6 - A comunicação a que se refere o número anterior é efetuada até final de fevereiro de 2023, devendo a DGAL informar o ISS, I. P., no prazo de 5 dias após a sua receção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87-B/2022 - Diário da República n.º 250/2022, 1º Suplemento, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-b-2022-205493467), em vigor a partir de 2022-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2022 - Diário da República n.º 31/2022, Série I de 2022-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2022-179008335), em vigor a partir de 2022-02-15
+
+Visto e aprovado em Conselho de Ministros de 23 de março de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Mariana Guimarães Vieira da Silva - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - Alexandra Ludomila Ribeiro Fernandes Leitão - Tiago Brandão Rodrigues - Gabriel Gameiro Rodrigues Bastos - Marta Alexandra Fartura Braga Temido de Almeida Simões - Pedro Nuno de Oliveira Santos.
+
+Promulgado em 3 de agosto de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 4 de agosto de 2020.
+
+Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113472588

@@ -1,0 +1,482 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608055:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-107573630",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2009-608055",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107562438",
+    "107562439",
+    "107562440",
+    "107562441",
+    "107562442",
+    "107562443",
+    "107562444",
+    "107562445",
+    "107562446",
+    "107562447",
+    "107562448",
+    "107562449",
+    "107562450",
+    "107562451",
+    "107562452",
+    "107562453",
+    "107562454",
+    "107562455",
+    "107562456",
+    "107562457",
+    "107562458",
+    "107562459",
+    "107562460",
+    "107562461"
+   ]
+  },
+  {
+   "date": "2017-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107573233:por",
+     "title": "Decreto Legislativo Regional n.º 19/2017/M",
+     "published": "2017-06-27",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/19-2017-107573233"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "107562438",
+    "107562463",
+    "107562464",
+    "107562465",
+    "107562466",
+    "107562467",
+    "107562468",
+    "107579580",
+    "107562469",
+    "107562470",
+    "107562471",
+    "107562472",
+    "107562473",
+    "107562451",
+    "107562474",
+    "107562453",
+    "107579575",
+    "107579576",
+    "107579577",
+    "107579578",
+    "107579579",
+    "107562459",
+    "107562460",
+    "107562461",
+    "107562462"
+   ]
+  }
+ ],
+ "fragments": {
+  "107562438": {
+   "fragment_id": "107573631",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 12/2009/M\n\nAdapta à Região Autónoma da Madeira o Decreto-Lei n.º 39/2008, de 7 de Março, que estabelece o regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos.\n\nO Decreto-Lei n.º 39/2008, de 7 de Março, estabeleceu o regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos, alterando de forma substancial o quadro legal que regia os empreendimentos turísticos.\n\nO novo regime jurídico, que assenta nos princípios da simplificação, da responsabilização e da qualificação da oferta, veio introduzir mecanismos de agilização do procedimento de licenciamento, uma maior responsabilização dos promotores e novos requisitos a observar pelos empreendimentos turísticos, em ordem à qualificação da oferta, bem como à consagração de uma fiscalização mais eficaz por parte das entidades públicas.\n\nPara o desenvolvimento turístico que se tem verificado na Região Autónoma da Madeira tem contribuído, entre outros factores, a aposta que tradicionalmente tem sido efectuada na qualificação e competitividade da oferta turística, em especial na qualidade e na excelência dos empreendimentos turísticos.\n\nA adaptação à Região Autónoma da Madeira do Decreto-Lei n.º 39/2008, de 7 de Março, tem como preocupação essencial salvaguardar as especificidades e as necessidades de desenvolvimento turístico desta Região Autónoma, especialmente no que tange aos empreendimentos turísticos.\n\nPretende-se garantir, por um lado, os níveis de qualidade já alcançados e, por outro, reforçar as condições de qualificação e de competitividade da oferta hoteleira de modo a projectar ainda mais dinâmica e modernização empresarial neste sector de actividade.\n\nA excelência urbanística e ambiental dos empreendimentos turísticos e a prestação de um serviço de referência constituem, igualmente, objectivos fundamentais que se pretende implementar com a presente iniciativa legislativa.\n\nNeste contexto, procede-se à adaptação do referido diploma às competências da administração regional autónoma, clarificando as atribuições e competências do departamento governamental responsável pela área do turismo no âmbito dos procedimentos de instalação, exploração e funcionamento dos empreendimentos turísticos, sem prejuízo de se acautelarem, no âmbito das especificidades regionais, as competências que neste domínio são atribuídas aos órgãos do poder local. Reforça-se o papel dos respectivos serviços em áreas de actuação que são fundamentais para garantir a qualidade das infra-estruturas e dos serviços, nomeadamente quanto à fixação da capacidade máxima e à classificação de todos os empreendimentos turísticos, bem como no que respeita à fiscalização das normas estabelecidas.\n\nA intervenção da Direcção Regional do Turismo em relação a todos os empreendimentos turísticos, no âmbito das suas atribuições, é fundamental e indispensável para garantir a efectiva aplicação e cumprimento do Plano de Ordenamento Turístico da Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 17/2002/M, de 29 de Agosto, alterado pelo Decreto Legislativo Regional n.º 12/2007/M, de 16 de Abril. De outro modo, correr-se-ia o risco de subverter a aplicação da disciplina jurídica vertida naquele importante instrumento de gestão territorial, nomeadamente no que respeita ao controlo dos limites máximos de alojamento turístico para a Região Autónoma da Madeira de acordo com os n.os 3 e 4 do artigo 16.º, conjugado com o artigo 1.º do anexo i do referido diploma.\n\nO presente diploma vem, também, criar uma nova tipologia de empreendimento turístico, específico desta Região Autónoma, já prevista no Plano de Ordenamento Turístico, ora designada por «Quintas da Madeira». Este tipo de empreendimento turístico, pelas suas características tradicionais, deve contribuir para a preservação do património regional e para a transmissão da história e cultura da Região. Associadas a um serviço personalizado e de qualidade, as Quintas da Madeira, pelo requinte, elegância, prestígio e tradição, devem constituir um elemento distintivo e enriquecedor do nosso destino turístico.\n\nEspera-se, com a presente iniciativa, incrementar a qualidade da oferta turística e promover, de uma forma geral, o desenvolvimento sustentado do sector turístico da Região Autónoma da Madeira.\n\nForam ouvidas a Associação de Municípios da Região Autónoma da Madeira e a Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, e da alínea c) do n.º 1 do artigo 37.º, da alínea t) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, o seguinte:"
+  },
+  "107562439": {
+   "fragment_id": "107573632",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma procede à adaptação à Região Autónoma da Madeira do Decreto-Lei n.º 39/2008, de 7 de Março, que estabelece o regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos.\n\n2 - O Decreto-Lei n.º 39/2008, de 7 de Março, com as adaptações introduzidas pelo presente diploma, aplica-se a todos os empreendimentos turísticos e estabelecimentos de alojamento local que se localizem e exerçam a sua actividade na Região Autónoma da Madeira.\n\n3 - A regulamentação do Decreto-Lei n.º 39/2008, de 7 de Março, é igualmente aplicável à Região Autónoma da Madeira, sem prejuízo de o Governo Regional da Madeira, de acordo com as competências previstas no presente diploma, proceder à respectiva adaptação ou à aprovação de regulamentação própria."
+  },
+  "107562440": {
+   "fragment_id": "107573633",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - As competências cometidas pelo regime em adaptação ao Turismo de Portugal, I. P., e ao seu presidente e à Autoridade de Segurança Alimentar e Económica são exercidas, na Região Autónoma da Madeira, respectivamente, pela Direcção Regional do Turismo e pelo director regional do turismo em relação a todos os empreendimentos turísticos.\n\n2 - A fixação da capacidade máxima dos empreendimentos de turismo de habitação e dos empreendimentos de turismo no espaço rural referidos nas alíneas a) e b) do n.º 3 do artigo 18.º do diploma em adaptação compete igualmente à Direcção Regional do Turismo, após prévia audição dos órgãos municipais competentes.\n\n3 - As competências atribuídas ao Instituto de Conservação da Natureza e da Biodiversidade, I. P., são exercidas, na Região Autónoma da Madeira, pelo departamento governamental responsável pela área do ambiente.\n\n4 - As competências atribuídas pelo diploma em adaptação, nomeadamente para efeitos de eventual regulamentação, aos membros do Governo responsáveis pelas áreas do turismo, do ambiente, das finanças e do ordenamento do território são exercidas, na Região Autónoma da Madeira, pelos membros do Governo Regional responsáveis pelas respectivas áreas.\n\n5 - A declaração de interesse para o turismo, a que se refere o artigo 65.º, compete ao membro do Governo Regional responsável pela área do turismo."
+  },
+  "107562441": {
+   "fragment_id": "107573634",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologias de empreendimentos turísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipologias de empreendimentos turísticos\n\n1 - Na Região Autónoma da Madeira os empreendimentos turísticos podem ser integrados num dos seguintes tipos:\n\na) Estabelecimentos hoteleiros;\n\nb) Quintas da Madeira;\n\nc) Aldeamentos turísticos;\n\nd) Apartamentos turísticos;\n\ne) Conjuntos turísticos (resorts);\n\nf) Empreendimentos de turismo de habitação;\n\ng) Empreendimentos de turismo no espaço rural;\n\nh) Empreendimentos de turismo da natureza;\n\ni) Moradias turísticas.\n\n2 - Os requisitos específicos da instalação, classificação e funcionamento de cada tipo de empreendimento turístico referido no número anterior podem ser definidos por portaria do membro do Governo Regional responsável pela área do turismo."
+  },
+  "107562442": {
+   "fragment_id": "107573635",
+   "type": 11,
+   "heading": "Artigo 4.º — Quintas da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Quintas da Madeira\n\n1 - As Quintas da Madeira devem ser constituídas por casas senhoriais antigas, renovadas e ou ampliadas, que pelas suas características arquitectónicas, baseadas no traçado original, contribuam para a preservação do património regional e transmitam a história e cultura da Região.\n\n2 - As Quintas da Madeira devem dispor de zona verde ou logradouro natural envolvente, com características de pequenos jardins botânicos, podendo compreender ainda árvores de grande porte.\n\n3 - As Quintas da Madeira devem proporcionar alojamento temporário e outros serviços acessórios de apoio com refeições e vocacionados para uma locação diária.\n\n4 - As Quintas da Madeira devem prestar um serviço personalizado e de qualidade, associado a atributos de requinte, elegância, prestígio e tradição.\n\n5 - As Quintas da Madeira classificam-se, atendendo à qualidade das suas características específicas e gerais e aos serviços que ofereçam, nas categorias de quatro ou cinco estrelas, sendo-lhes aplicável, com as devidas adaptações, os requisitos de instalação, classificação e funcionamento dos estabelecimentos hoteleiros."
+  },
+  "107562443": {
+   "fragment_id": "107573636",
+   "type": 11,
+   "heading": "Artigo 5.º — Empreendimentos de turismo da natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Empreendimentos de turismo da natureza\n\nOs empreendimentos de turismo da natureza só podem adoptar as tipologias definidas nas alíneas f), g) e i) do n.º 1 do artigo 3.º, devendo obedecer aos requisitos de instalação, classificação e funcionamento previstos para a tipologia adoptada."
+  },
+  "107562444": {
+   "fragment_id": "107573637",
+   "type": 11,
+   "heading": "Artigo 6.º — Moradias turísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Moradias turísticas\n\nSão moradias turísticas os estabelecimentos constituídos por um edifício autónomo, de carácter unifamiliar, mobilado e equipado, que se destinem habitualmente a proporcionar, mediante remuneração, alojamento e outros serviços complementares e de apoio a turistas."
+  },
+  "107562445": {
+   "fragment_id": "107573638",
+   "type": 11,
+   "heading": "Artigo 7.º — Alojamento local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alojamento local\n\n1 - Consideram-se estabelecimentos de alojamento local as moradias, apartamentos, estabelecimentos de hospedagem e os parques de campismo e de caravanismo que, dispondo de autorização de utilização, prestem serviços de alojamento temporário, mediante remuneração, mas não reúnam os requisitos para serem considerados empreendimentos turísticos.\n\n2 - Por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas do turismo e dos assuntos sociais podem ser definidos os requisitos mínimos de segurança e higiene dos estabelecimentos de alojamento local.\n\n3 - Por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas do turismo, da administração local e da agricultura são definidos os requisitos de instalação e funcionamento dos parques de campismo e de caravanismo.\n\n4 - Os estabelecimentos de alojamento local que reúnam os requisitos mínimos previstos no presente artigo são obrigatoriamente registados na câmara municipal da respectiva área.\n\n5 - Apenas os estabelecimentos de alojamento local registados nas câmaras municipais da respectiva área podem ser comercializados quer pelos seus proprietários, quer por agências de viagens e turismo.\n\n6 - As câmaras municipais devem facultar à Direcção Regional do Turismo o acesso ao registo do alojamento local.\n\n7 - Os estabelecimentos referidos no presente artigo devem identificar-se como alojamento local não podendo, em caso algum, utilizar a qualificação turismo e ou turístico, nem qualquer sistema de classificação."
+  },
+  "107562446": {
+   "fragment_id": "107573639",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de informação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedido de informação prévia\n\n1 - Qualquer interessado pode requerer à câmara municipal informação prévia sobre a possibilidade de instalar um empreendimento turístico e quais as respectivas condicionantes urbanísticas.\n\n2 - O pedido de informação prévia relativo à possibilidade de instalação de um conjunto turístico (resort) abrange a totalidade dos empreendimentos, estabelecimentos e equipamentos que o integram.\n\n3 - O deferimento pela câmara municipal do pedido de informação prévia, referente a todos os empreendimentos turísticos, carece sempre de parecer da Direcção Regional do Turismo.\n\n4 - O parecer referido no número anterior destina-se a verificar a conformidade da pretensão constante do pedido com o Plano de Ordenamento Turístico da Região Autónoma da Madeira.\n\n5 - Quando desfavorável, o parecer da Direcção Regional do Turismo é vinculativo."
+  },
+  "107562447": {
+   "fragment_id": "107573640",
+   "type": 11,
+   "heading": "Artigo 9.º — Licenciamento ou comunicação prévia de operações urbanísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Licenciamento ou comunicação prévia de operações urbanísticas\n\n1 - O deferimento pela câmara municipal do pedido de licenciamento e a admissão da comunicação prévia ou a aprovação de informação prévia para a realização de operações urbanísticas referentes a todos os empreendimentos turísticos carece sempre de parecer da Direcção Regional do Turismo.\n\n2 - O parecer referido no número anterior destina-se a verificar o cumprimento das normas estabelecidas na legislação aplicável e respectiva regulamentação, bem como no Plano de Ordenamento Turístico da Região Autónoma da Madeira, designadamente a adequação do empreendimento turístico projectado ao uso e tipologia pretendidos e implica a apreciação do projecto de arquitectura do empreendimento turístico.\n\n3 - O parecer da Direcção Regional do Turismo é vinculativo quando desfavorável, devendo ser devidamente fundamentado.\n\n4 - Ao parecer referido no n.º 1 aplica-se o disposto no artigo 13.º do regime jurídico da urbanização e da edificação, com as necessárias adaptações.\n\n5 - Juntamente com o parecer, a Direcção Regional do Turismo fixa a capacidade máxima do empreendimento e a respectiva classificação de acordo com o projecto apresentado."
+  },
+  "107562448": {
+   "fragment_id": "107573641",
+   "type": 11,
+   "heading": "Artigo 10.º — Autorização de utilização para fins turísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autorização de utilização para fins turísticos\n\n1 - Concluída a obra, o interessado requer a concessão da autorização de utilização para fins turísticos, nos termos dos artigos 62.º e seguintes do regime jurídico da urbanização e da edificação.\n\n2 - O pedido de concessão da autorização de utilização para fins turísticos deve ser instruído nos termos do n.º 2 do artigo 30.º do Decreto-Lei n.º 39/2008, de 7 de Março.\n\n3 - Sem prejuízo do disposto no artigo 74.º do Decreto-Lei n.º 39/2008, de 7 de Março, a câmara municipal deve dar conhecimento à Direcção Regional do Turismo da deliberação de concessão de autorização de utilização para fins turísticos e da emissão do respectivo alvará, no prazo de 15 dias a contar da emissão do mesmo."
+  },
+  "107562449": {
+   "fragment_id": "107573642",
+   "type": 11,
+   "heading": "Artigo 11.º — Classificação de empreendimentos turísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Classificação de empreendimentos turísticos\n\n1 - Na Região Autónoma da Madeira, a atribuição de classificação de todos os empreendimentos turísticos é da competência da Direcção Regional do Turismo.\n\n2 - A atribuição de classificação pela Direcção Regional do Turismo aos empreendimentos de turismo de habitação e aos empreendimentos de turismo no espaço rural referidos nas alíneas a) e b) do n.º 3 do artigo 18.º do diploma em adaptação, depende de prévia audição dos órgãos municipais competentes.\n\n3 - A Direcção Regional do Turismo, no prazo de dois meses a contar da emissão do alvará de autorização de utilização para fins turísticos ou da abertura do empreendimento, nos termos do n.º 1 do artigo 31.º e da alínea c) do artigo 32.º do Decreto-Lei n.º 39/2008, de 7 de Março, determina a realização de uma auditoria de classificação.\n\n4 - A auditoria de classificação é efectuada por uma comissão composta por um representante da Direcção Regional do Turismo e por um representante da associação comercial da área ou outra a indicar pelo requerente.\n\n5 - Compete ao director regional do turismo convocar a comissão prevista no número anterior, com a antecedência mínima de três dias, sendo que a ausência do representante da associação comercial da área ou outra a indicar pelo requerente, desde que regularmente convocado, não é impeditiva nem constitui justificação da não realização da auditoria.\n\n6 - Após a realização da auditoria, a Direcção Regional do Turismo fixa a classificação do empreendimento turístico e atribui a correspondente placa identificativa.\n\n7 - Em todos os empreendimentos turísticos é obrigatória a afixação no exterior, junto à entrada principal, da placa identificativa da respectiva classificação, cujo modelo pode ser aprovado por portaria do membro do Governo Regional responsável pela área do turismo.\n\n8 - A auditoria de classificação poderá vir a ser realizada por entidade acreditada para o efeito, nos termos a definir por portaria do membro do Governo Regional responsável pela área do turismo."
+  },
+  "107562450": {
+   "fragment_id": "107573643",
+   "type": 11,
+   "heading": "Artigo 12.º — Obras isentas de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obras isentas de licenciamento\n\nPara efeitos do controlo dos limites da capacidade de alojamento estabelecidos no Plano de Ordenamento Turístico da Região Autónoma da Madeira, as obras não sujeitas a licenciamento municipal realizadas em todos os empreendimentos turísticos, nas condições previstas no artigo 29.º do diploma em adaptação, carecem de prévia declaração de conformidade, a emitir pela Direcção Regional do Turismo."
+  },
+  "107562451": {
+   "fragment_id": "107573644",
+   "type": 11,
+   "heading": "Artigo 13.º — Nomes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Nomes\n\n1 - Os nomes dos empreendimentos turísticos não podem sugerir uma tipologia, classificação ou características que não possuam.\n\n2 - Os empreendimentos turísticos não podem funcionar com nome diferente do aprovado pela Direcção Regional do Turismo."
+  },
+  "107562452": {
+   "fragment_id": "107573645",
+   "type": 11,
+   "heading": "Artigo 14.º — Período de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Período de funcionamento\n\n1 - Os empreendimentos turísticos podem estabelecer os seus períodos de funcionamento, devendo comunicar antecipadamente à Direcção Regional do Turismo.\n\n2 - Os empreendimentos turísticos em propriedade plural apenas podem encerrar nos termos do número anterior, desde que haja acordo de todos os proprietários.\n\n3 - O período de funcionamento dos empreendimentos turísticos deve ser devidamente publicitado e afixado em local visível ao público do exterior do empreendimento."
+  },
+  "107562453": {
+   "fragment_id": "107573646",
+   "type": 11,
+   "heading": "Artigo 15.º — Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Qualidade\n\n1 - O departamento governamental responsável pela área do turismo promove a qualidade dos empreendimentos turísticos, através da atribuição de menções distintivas aos empreendimentos turísticos que tenham atingido determinados patamares de qualidade, nomeadamente em termos ambientais.\n\n2 - Por portaria do membro do Governo Regional responsável pela área do turismo são definidas as condições de atribuição das menções distintivas de qualidade."
+  },
+  "107562454": {
+   "fragment_id": "107573647",
+   "type": 11,
+   "heading": "Artigo 16.º — Livro de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Livro de reclamações\n\n1 - Os empreendimentos devem possuir um livro de reclamações destinado aos clientes nos termos e nas condições previstas no Decreto-Lei n.º 156/2005, de 15 de Setembro, alterado pelo Decreto-Lei n.º 371/2007, de 6 de Novembro.\n\n2 - A aplicação do diploma previsto no número anterior é efectuada de acordo com as seguintes adaptações:\n\na) O original da folha de reclamação deve ser enviado à Direcção Regional do Turismo;\n\nb) À Direcção Regional do Turismo compete o exercício da actividade reguladora e fiscalizadora bem como a instrução dos processos de contra-ordenação;\n\nc) Ao director regional do turismo compete instaurar os processos de contra-ordenação e aplicar as coimas e sanções acessórias;\n\nd) O produto das coimas constitui receita da Região Autónoma da Madeira."
+  },
+  "107562455": {
+   "fragment_id": "107573648",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência de fiscalização, instauração e instrução de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência de fiscalização, instauração e instrução de processos\n\n1 - Compete à Direcção Regional do Turismo fiscalizar o cumprimento do disposto no Decreto-Lei n.º 39/2008, de 7 de Março, e no presente diploma, sem prejuízo das competências das câmaras municipais.\n\n2 - Compete ao director regional do turismo instaurar os processos de contra-ordenação e aos respectivos serviços proceder à instrução dos mesmos.\n\n3 - Para efeito do disposto nos números anteriores, as demais autoridades públicas devem cooperar com a Direcção Regional do Turismo, prestando toda a informação e colaboração necessárias à instrução dos respectivos processos."
+  },
+  "107562456": {
+   "fragment_id": "107573649",
+   "type": 11,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - Sem prejuízo das contra-ordenações previstas no artigo 67.º do Decreto-Lei n.º 39/2008, de 7 de Março, para efeitos do disposto no presente diploma constituem contra-ordenações:\n\na) O não cumprimento pelo estabelecimento de alojamento local dos requisitos mínimos previstos nos n.os 2 e 3 do artigo 7.º, a sua comercialização com inobservância do disposto no n.º 5 e a violação das regras de identificação previstas no n.º 7 do mesmo artigo;\n\nb) A não afixação no exterior da placa identificativa da classificação do empreendimento turístico, tal como previsto no n.º 7 do artigo 11.º;\n\nc) A realização de obras, com inobservância do disposto no artigo 12.º;\n\nd) A violação do disposto no artigo 13.º, em matéria de identificação dos empreendimentos turísticos;\n\ne) A não comunicação do período de funcionamento à Direcção Regional do Turismo, tal como previsto no n.º 1 do artigo 14.º;\n\nf) O encerramento de um empreendimento turístico em propriedade plural, sem o consentimento de todos os proprietários, em violação do disposto no n.º 2 do artigo 14.º;\n\ng) A falta de publicitação do período de funcionamento dos empreendimentos turísticos, tal como previsto no n.º 3 do artigo 14.º\n\n2 - As contra-ordenações previstas nas alíneas b), e) e g) são punidas com coima de (euro) 100 a (euro) 500, no caso de se tratar de pessoa singular, e de (euro) 1000 a (euro) 5000, no caso de se tratar de pessoa colectiva.\n\n3 - As contra-ordenações previstas nas alíneas d) e f) são punidas com coima de (euro) 500 a (euro) 2500, no caso de se tratar de pessoa singular, e de (euro) 5000 a (euro) 25 000, no caso de se tratar de pessoa colectiva.\n\n4 - As contra-ordenações previstas nas alíneas a) e c) são punidas com coima de (euro) 2500 a (euro) 3740 no caso de se tratar de pessoa singular, e de (euro) 25 000 a (euro) 44 891, no caso de se tratar de pessoa colectiva."
+  },
+  "107562457": {
+   "fragment_id": "107573650",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência sancionatória\n\nA aplicação das coimas e das sanções acessórias, previstas no Decreto-Lei n.º 39/2008, de 7 de Março, e no presente diploma competem ao director regional do turismo, sem prejuízo das competências das câmaras municipais relativamente ao alojamento local."
+  },
+  "107562458": {
+   "fragment_id": "107573651",
+   "type": 11,
+   "heading": "Artigo 20.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Receitas\n\nO produto das coimas aplicadas pela Direcção Regional do Turismo por infracção ao disposto no presente diploma e no Decreto-Lei n.º 39/2008, de 7 de Março, bem como o produto das taxas aplicadas no âmbito do procedimento de classificação dos empreendimentos turísticos constituem receita da Região Autónoma da Madeira."
+  },
+  "107562459": {
+   "fragment_id": "107573652",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições transitórias\n\n1 - O presente decreto legislativo regional aplica-se aos empreendimentos existentes à data da sua entrada em vigor, sem prejuízo do disposto no artigo 75.º do Decreto-Lei n.º 39/2008, de 7 de Março, com as adaptações decorrentes do presente diploma.\n\n2 - O prazo de reconversão, a que se refere o n.º 2 do artigo 75.º é contado a partir da data da entrada em vigor do presente diploma."
+  },
+  "107562460": {
+   "fragment_id": "107573653",
+   "type": 11,
+   "heading": "Artigo 22.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Processos pendentes\n\nOs processos pendentes regem-se de acordo com o disposto no artigo 76.º do Decreto-Lei n.º 39/2008, de 7 de Março, com as adaptações introduzidas pelo presente diploma."
+  },
+  "107562461": {
+   "fragment_id": "107573654",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107562463": {
+   "fragment_id": "107573632",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma adapta à Região Autónoma da Madeira o Decreto-Lei n.º 39/2008, de 7 de março, com as alterações introduzidas pelos Decretos-Leis n.os 228/2009, de 14 de setembro, 15/2014, de 23 de janeiro, e 186/2015, de 3 de setembro, que estabelece o regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos.\n\n2 - O Decreto-Lei n.º 39/2008, de 7 de março, na sua atual redação, com as adaptações constantes do presente diploma, aplica-se a todos os empreendimentos turísticos, que se localizem e exerçam a sua atividade na Região Autónoma da Madeira.\n\n3 - A regulamentação do Decreto-Lei n.º 39/2008, de 7 de março, na sua atual redação é aplicável à Região Autónoma da Madeira, salvo se o Governo Regional da Madeira, de acordo com as competências previstas no presente diploma, proceder à respetiva adaptação ou à aprovação de regulamentação própria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562464": {
+   "fragment_id": "107573633",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - As competências cometidas pelo regime em adaptação ao Turismo de Portugal, I. P., e ao seu presidente e à Autoridade de Segurança Alimentar e Económica são exercidas, na Região Autónoma da Madeira, respectivamente, pela Direcção Regional do Turismo e pelo director regional do turismo em relação a todos os empreendimentos turísticos.\n\n2 - A fixação da capacidade máxima dos empreendimentos de turismo de habitação e dos empreendimentos de turismo no espaço rural, compete à Direção Regional do Turismo, após prévia audição dos órgãos municipais competentes.\n\n3 - As competências atribuídas ao Instituto de Conservação da Natureza e da Biodiversidade, I. P., são exercidas, na Região Autónoma da Madeira, pelo Instituto das Florestas e Conservação da Natureza, I. P., RAM.\n\n4 - As competências atribuídas pelo diploma em adaptação, nomeadamente para efeitos de eventual regulamentação, aos membros do Governo responsáveis pelas áreas do turismo, do ambiente, das finanças e do ordenamento do território são exercidas, na Região Autónoma da Madeira, pelos membros do Governo Regional responsáveis pelas respetivas áreas.\n\n5 -  [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562465": {
+   "fragment_id": "107573634",
+   "type": 11,
+   "heading": "Artigo 3.º — Noção, exploração e tipologias de empreendimentos turísticos",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 3.º — Noção, exploração e tipologias de empreendimentos turísticos\n\n1 - Consideram-se empreendimentos turísticos os estabelecimentos que se destinam a prestar serviços de alojamento, mediante remuneração, dispondo, para o seu funcionamento, de um adequado conjunto de estruturas, equipamentos e serviços complementares.\n\n2 - Presume-se existir exploração de empreendimento turístico quando:\n\na) Seja publicitado, disponibilizado ou objeto de intermediação, por qualquer forma, entidade ou meio, nomeadamente em agências de viagens e turismo ou sítios da Internet; ou\n\nb) Estando mobilado e equipado, neste sejam oferecidos ao público em geral, além de dormida, serviços complementares ao alojamento, nomeadamente limpeza ou receção, por períodos inferiores a 30 dias.\n\n3 - A presunção referida no número anterior pode ser ilidida nos termos gerais de direito, designadamente mediante apresentação de contrato de arrendamento urbano devidamente registado nos serviços de finanças ou registo de estabelecimento de alojamento local.\n\n4 - Na Região Autónoma da Madeira, os empreendimentos turísticos podem ser integrados num dos seguintes tipos:\n\na) Estabelecimentos hoteleiros;\n\nb) Quintas da Madeira;\n\nc) Aldeamentos turísticos;\n\nd) Apartamentos turísticos;\n\ne) Conjuntos turísticos (resorts);\n\nf) Empreendimentos de turismo de habitação;\n\ng) Empreendimentos de turismo no espaço rural;\n\nh) Parques de campismo e caravanismo.\n\n5 - Podem ser definidos por portaria do membro do Governo Regional responsável pela área do turismo requisitos específicos da instalação, classificação e funcionamento de cada tipo de empreendimento turístico referido no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562466": {
+   "fragment_id": "107573635",
+   "type": 11,
+   "heading": "Artigo 4.º — Quintas da Madeira",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 4.º — Quintas da Madeira\n\n1 - Os empreendimentos turísticos cujo edificado assente num ou mais prédios preexistentes, com características e valor, seja cultural, patrimonial, arquitetónico ou artístico, que espelhem uma identidade de época na história da Madeira, podem ser classificados como Quintas da Madeira.\n\n2 - Essa classificação depende da existência na área edificada, de um edifício principal, a casa-mãe, ao que deve acrescer, as casinhas-de-prazer e outras construções tradicionais, conjugando-as com espaços verdes na área de logradouro envolvente, de preferência preservando as áreas ajardinadas, passeios e caminhos, miradouros, árvores e/ou áreas de cultivo existentes, destinados a serem usufruídos pelos seus hóspedes.\n\n3 - As edificações existentes devem preservar as suas características arquitetónicas, construtivas e decorativas originais, adaptando a nova função àquilo que são as valências históricas e patrimoniais dos edifícios.\n\n4 - A casa-mãe deve funcionar como espaço privilegiado para promover experiências e vivências diretamente relacionadas com a memória do edificado original, oferecendo aos hóspedes um serviço de exceção e qualidade proporcional à relevância histórica e patrimonial do lugar.\n\n5 - As novas edificações, devem cumprir os seguintes condicionamentos:\n\na) Valorizar a paisagem, otimizando a relação da quinta com o território e dos edifícios com os espaços envolventes;\n\nb) Privilegiar o diálogo entre a arquitetura contemporânea e o património edificado com características históricas de relevo e seus valores de identidade e autenticidade.\n\n6 - As Quintas da Madeira classificam-se nas categorias de quatro ou cinco estrelas, atendendo à qualidade das suas características específicas e gerais e aos serviços que ofereçam, sendo-lhes aplicável os requisitos de instalação, classificação e funcionamento dos hotéis, com as mesmas categorias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562467": {
+   "fragment_id": "107573636",
+   "type": 11,
+   "heading": "Artigo 5.º — Agroturismo",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 5.º — Agroturismo\n\n1 - Na Região Autónoma da Madeira, são empreendimentos de agroturismo os imóveis que através da reconstrução, reabilitação ou ampliação de construções existentes, assegurem a sua integração na envolvente e possuam explorações de agricultura biológica que permitam aos hóspedes o acompanhamento e conhecimento da atividade agrícola, ou a participação nos trabalhos aí desenvolvidos, de acordo com as regras estabelecidas pelo seu responsável.\n\n2 - Podem ser instaladas unidades de alojamento fora da edificação principal, em edifícios existentes ou novos, construídos de raiz, incluindo não contíguos, que com ele se harmonizem do ponto de vista arquitetónico, e que assegurem um enquadramento paisagístico na zona onde se inserem.\n\n3 - Em termos de ocupação do solo as unidades de agroturismo devem cumprir com um rácio mínimo de 80 % de solo afeto à exploração agrícola, calculado com base na área total do empreendimento, excetuando a área de implantação da edificação principal preexistente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562468": {
+   "fragment_id": "107573637",
+   "type": 11,
+   "heading": "Artigo 6.º — Equipamentos e Serviços Complementares",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 6.º — Equipamentos e Serviços Complementares\n\n1 - Quando empreendimentos turísticos localizados em contiguidade territorial e explorados pela mesma entidade ofereçam instalações, equipamentos e serviços, com capacidade de oferta suficiente e passíveis de utilização comum, podem ser dispensados dos correspondentes requisitos obrigatórios exigidos para a atribuição de classificação individual a cada um dos empreendimentos.\n\n2 - O disposto no número anterior poderá ser aplicável a empreendimentos turísticos com categorias diferentes, desde que os espaços de utilização comum reúnam as características de instalações e equipamentos e prestem os serviços em vigor para o empreendimento de categoria superior existente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107579580": {
+   "fragment_id": "107573638",
+   "type": 11,
+   "heading": "Artigo 7.º — Alojamento local",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 7.º — Alojamento local\n\n1 - Consideram-se estabelecimentos de alojamento local as moradias, apartamentos, estabelecimentos de hospedagem e os parques de campismo e de caravanismo que, dispondo de autorização de utilização, prestem serviços de alojamento temporário, mediante remuneração, mas não reúnam os requisitos para serem considerados empreendimentos turísticos.\n\n2 - Por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas do turismo e dos assuntos sociais podem ser definidos os requisitos mínimos de segurança e higiene dos estabelecimentos de alojamento local.\n\n3 - Por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas do turismo, da administração local e da agricultura são definidos os requisitos de instalação e funcionamento dos parques de campismo e de caravanismo.\n\n4 - Os estabelecimentos de alojamento local que reúnam os requisitos mínimos previstos no presente artigo são obrigatoriamente registados na câmara municipal da respectiva área.\n\n5 - Apenas os estabelecimentos de alojamento local registados nas câmaras municipais da respectiva área podem ser comercializados quer pelos seus proprietários, quer por agências de viagens e turismo.\n\n6 - As câmaras municipais devem facultar à Direcção Regional do Turismo o acesso ao registo do alojamento local.\n\n7 - Os estabelecimentos referidos no presente artigo devem identificar-se como alojamento local não podendo, em caso algum, utilizar a qualificação turismo e ou turístico, nem qualquer sistema de classificação.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562469": {
+   "fragment_id": "107573639",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de informação prévia",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 8.º — Pedido de informação prévia\n\n1 - Sem prejuízo do disposto no artigo 25.º do Decreto-Lei n.º 39/2008, de 7 de março, na sua atual redação, qualquer pedido de informação prévia apresentado na câmara municipal referente a empreendimentos turísticos, exceto para parques de campismo e caravanismo, carece de parecer da Direção Regional do Turismo para verificação da conformidade da pretensão constante do pedido com o Programa de Ordenamento Turístico da Região Autónoma da Madeira.\n\n2 - O parecer da Direção Regional do Turismo é sempre fundamentado, e quando desfavorável é vinculativo.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562470": {
+   "fragment_id": "107573640",
+   "type": 11,
+   "heading": "Artigo 9.º — Licenciamento ou comunicação prévia de operações urbanísticas",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 9.º — Licenciamento ou comunicação prévia de operações urbanísticas\n\n1 - O deferimento pela câmara municipal do pedido de licenciamento e a admissão da comunicação prévia ou a aprovação de informação prévia para a realização de operações urbanísticas referentes a todos os empreendimentos turísticos carece sempre de parecer da Direcção Regional do Turismo.\n\n2 - O parecer referido no número anterior destina-se a verificar o cumprimento das normas estabelecidas na legislação aplicável e respetiva regulamentação, bem como no Programa de Ordenamento Turístico da Região Autónoma da Madeira, designadamente a adequação do empreendimento turístico projetado ao uso e tipologia pretendidos e implica a apreciação do projeto de arquitetura do empreendimento turístico.\n\n3 - O parecer da Direcção Regional do Turismo é vinculativo quando desfavorável, devendo ser devidamente fundamentado.\n\n4 - Ao parecer referido no n.º 1 aplica-se o disposto no artigo 13.º e 13.º-B do regime jurídico da urbanização e da edificação, com as necessárias adaptações.\n\n5 - Juntamente com o parecer, a Direcção Regional do Turismo fixa a capacidade máxima do empreendimento e a respectiva classificação de acordo com o projecto apresentado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562471": {
+   "fragment_id": "107573641",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicação da autorização de utilização para fins turísticos",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 10.º — Comunicação da autorização de utilização para fins turísticos\n\n1 - Sem prejuízo do disposto no artigo 30.º do Decreto-Lei n.º 39/2008, de 7 de março, na sua atual redação, a câmara municipal deve dar conhecimento à Direção Regional do Turismo da atribuição de autorização de utilização para fins turísticos e da emissão do respetivo alvará, no prazo de quinze dias a contar da emissão do mesmo.\n\n2 - Caducada a autorização de utilização para fins turísticos, o respetivo título válido de abertura é cassado e apreendido pela câmara municipal, a pedido da Direção Regional do Turismo, com exceção dos parques de campismo e de caravanismo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562472": {
+   "fragment_id": "107573642",
+   "type": 11,
+   "heading": "Artigo 11.º — Classificação de empreendimentos turísticos",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 11.º — Classificação de empreendimentos turísticos\n\n1 - Na Região Autónoma da Madeira, a atribuição, confirmação, ou alteração de classificação dos empreendimentos turísticos previstos no artigo 3.º, exceto os parques de campismo e caravanismo, é da competência da Direção Regional do Turismo.\n\n2 - Depende de prévia audição dos órgãos municipais competentes, a atribuição de classificação pela Direção Regional do Turismo aos empreendimentos de turismo de habitação e aos empreendimentos de turismo no espaço rural.\n\n3 - A Direção Regional do Turismo pode a todo o tempo determinar a realização de auditorias de classificação notificando o destinatário com a antecedência mínima de 3 dias.\n\n4 - A auditoria de classificação é efetuada por elementos da Direção Regional do Turismo e acompanhada por um representante do empreendimento sendo que a ausência deste, desde que regularmente convocado, não é impeditiva nem constitui justificação da não realização da auditoria.\n\n5 - Após a realização da auditoria, a Direção Regional do Turismo fixa a classificação do empreendimento turístico e atribui a correspondente placa identificativa.\n\n6 - Em todos os empreendimentos turísticos é obrigatória a afixação no exterior, junto à entrada principal, da placa identificativa da respetiva classificação, cujo modelo é aprovado por portaria do membro do Governo Regional responsável pela área do turismo.\n\n7 - A auditoria de classificação poderá vir a ser realizada por entidade acreditada para o efeito, nos termos a definir por portaria do membro do Governo Regional responsável pela área do turismo.\n\n8 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562473": {
+   "fragment_id": "107573643",
+   "type": 11,
+   "heading": "Artigo 12.º — Obras",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 12.º — Obras\n\nTodas as obras e remodelações, incluindo as isentas de licenciamento municipal, que impliquem um aumento da capacidade de alojamento dos empreendimentos turísticos, nos termos previstos no artigo 29.º do diploma em adaptação, carecem de prévia declaração de conformidade, a emitir pela Direção Regional do Turismo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562474": {
+   "fragment_id": "107573645",
+   "type": 11,
+   "heading": "Artigo 14.º — Período de funcionamento",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 14.º — Período de funcionamento\n\n1 - Sem prejuízo de disposição legal ou contratual, nomeadamente no tocante à atribuição de utilidade turística ou de financiamentos públicos, os empreendimentos turísticos podem estabelecer livremente os seus períodos de funcionamento, devendo, com uma antecedência mínima de três dias à sua implementação, comunicar à Direção Regional do Turismo a sua fixação inicial ou posteriores alterações.\n\n2 - Os empreendimentos turísticos em propriedade plural apenas podem encerrar, nos termos do número anterior, por decisão da maioria dos proprietários das frações afetas ao turismo que represente mais de metade da permilagem do prédio e em conformidade com a proposta da entidade exploradora.\n\n3 - O período de funcionamento dos empreendimentos turísticos deve ser devidamente publicitado e afixado em local visível ao público no exterior do empreendimento, exceto quando o empreendimento esteja aberto todos os dias do ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107579575": {
+   "fragment_id": "107573647",
+   "type": 11,
+   "heading": "Artigo 16.º — Livro de reclamações",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 16.º — Livro de reclamações\n\n1 - Os empreendimentos devem possuir um livro de reclamações destinado aos clientes nos termos e nas condições fixadas no regime jurídico que estabelece a obrigatoriedade de disponibilização do livro de reclamações a todos os fornecedores de bens e prestadores de serviços que tenham contacto com o público em geral.\n\n2 - A aplicação do Decreto-Lei n.º 156/2005, de 15 de setembro, na sua atual redação, que estabelece o regime jurídico indicado no número anterior é efetuada de acordo com as seguintes adaptações:\n\na) O original da folha de reclamação deve ser enviado à Direcção Regional do Turismo;\n\nb) À Direcção Regional do Turismo compete o exercício da actividade reguladora e fiscalizadora bem como a instrução dos processos de contra-ordenação;\n\nc) Ao director regional do turismo compete instaurar os processos de contra-ordenação e aplicar as coimas e sanções acessórias;\n\nd) O produto das coimas constitui receita da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107579576": {
+   "fragment_id": "107573648",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência de fiscalização, instauração e instrução de processos",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 17.º — Competência de fiscalização, instauração e instrução de processos\n\n1 - Compete à Direção Regional do Turismo fiscalizar o cumprimento do disposto no Decreto-Lei n.º 39/2008, de 7 de março, na sua atual redação, e no presente diploma, sem prejuízo das competências das câmaras municipais.\n\n2 - Compete ao director regional do turismo instaurar os processos de contra-ordenação e aos respectivos serviços proceder à instrução dos mesmos.\n\n3 - Para efeito do disposto nos números anteriores, as demais autoridades públicas devem cooperar com a Direcção Regional do Turismo, prestando toda a informação e colaboração necessárias à instrução dos respectivos processos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107579577": {
+   "fragment_id": "107573649",
+   "type": 11,
+   "heading": "Artigo 18.º — Contraordenações",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 18.º — Contraordenações\n\n1 - Sem prejuízo das contraordenações previstas no Decreto-Lei n.º 39/2008, de 7 de março, na sua atual redação, para efeitos do disposto no presente diploma constituem contraordenações:\n\na) [Revogada];\n\nb) A não afixação no exterior da placa identificativa da classificação do empreendimento turístico, após realização da auditoria;\n\nc) A realização de obras ou remodelações, com inobservância do disposto no artigo 12.º,\n\nd) A violação do disposto no artigo 13.º, em matéria de identificação dos empreendimentos turísticos;\n\ne) A não comunicação do período de funcionamento à Direcção Regional do Turismo, tal como previsto no n.º 1 do artigo 14.º;\n\nf) [Revogada];\n\ng) [revogada].\n\n2 - As contraordenações previstas nas alíneas b) e e) do n.º 1 são punidas com coima de (euro) 100 a (euro) 500, no caso de se tratar de pessoa singular, e de (euro) 1000 a (euro) 5000, no caso de se tratar de pessoa coletiva.\n\n3 - As contraordenações previstas nas alíneas c) e d) do n.º 1 são punidas com coima de (euro) 500 a (euro) 2500, no caso de se tratar de pessoa singular, e de (euro) 5000 a (euro) 22000, no caso de se tratar de pessoa coletiva.\n\n4 - Nas contraordenações previstas no presente artigo a negligência é sempre punível.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107579578": {
+   "fragment_id": "107573650",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência sancionatória",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 19.º — Competência sancionatória\n\nA aplicação das coimas e das sanções acessórias, previstas no Decreto-Lei n.º 39/2008, de 7 de março, na sua atual redação, e no presente diploma competem ao diretor regional do turismo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107579579": {
+   "fragment_id": "107573651",
+   "type": 11,
+   "heading": "Artigo 20.º — Receitas",
+   "in_force_from": "2017-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+   ],
+   "markdown": "###### Artigo 20.º — Receitas\n\nO produto das coimas aplicadas pela Direção Regional do Turismo por infração ao disposto no presente diploma e no Decreto-Lei n.º 39/2008, de 7 de março, na sua atual redação, bem como o produto de eventuais taxas em vigor neste setor constituem receita da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2017/M - Diário da República n.º 122/2017, Série I de 2017-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2017-107573233), em vigor a partir de 2017-06-28"
+  },
+  "107562462": {
+   "fragment_id": "107573655",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de Abril de 2009.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 27 de Abril de 2009.\n\nPublique -se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  }
+ }
+}

@@ -1,0 +1,91 @@
+---
+schema_version: '1.0'
+id: pt:dre:789407:por
+title: Declaração de Rectificação n.º 49/2009
+short_title: null
+summary: Rectifica a publicação da empresa SOTREPE no Diário da República, 2.ª série, n.º 227, de 21 de Novembro de 2008
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Economia e da Inovação - Instituto Português da Qualidade, I. P.
+proposing_entity: null
+official_number: 49/2009
+official_date: null
+publication_date: '2009-01-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/2009, Série II de 2009-01-12
+  number: '7'
+  series: II
+  supplement: null
+  pages: 985 - 985
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/01/007000000/0098500985.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '789407'
+  dre_path: /dr/detalhe/declaracao-rectificacao/49-2009-789407
+  internal: pt:dre:789407:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2009-789407
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2009-789407
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:12:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 44fd8ef054c7bd23af84a4350538fe6d5fd4aaf9b5dbe5dd87e378329589237c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:12:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:12:01Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 49/2009
+
+Declaração de rectificação n.º 49/2009
+
+No Diário da República, 2.ª série, n.º 227, de 21 de Novembro de 2008, foi publicado com inexactidão o acto n.º 300985782 relativo ao despacho de aprovação de modelo n.º 101.12.08.3.07, da empresa SOTREPE onde faltou mencionar o título do despacho "Despacho de Aprovação de Modelo n.º 101.12.08.3.07".
+
+4 de Dezembro de 2008. - O Presidente do Conselho Directivo, J. Marques dos Santos.
+
+301187796

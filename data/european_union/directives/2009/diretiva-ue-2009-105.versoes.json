@@ -1,0 +1,371 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0105:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0105-20130101",
+ "dre_path": null,
+ "source_lastmod": "2013-01-01",
+ "versions": [
+  {
+   "date": "2009-10-08",
+   "future": false,
+   "celex": "32009L0105",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d01d409531becbf1",
+    "226c39ffd0a88dad",
+    "15cb5f282d30224c",
+    "06de1de9a8abbee0",
+    "3b35e6ed52e5df30",
+    "cd6fd5e4986dd0ab",
+    "0c7f407962ad8648",
+    "8d9678e88f139d8e",
+    "a4349bdde422e7c9",
+    "7b1560b6416a5de0",
+    "f0f8c960bfdbce9b",
+    "52334cb6ab304712",
+    "9b406af514eb9164",
+    "917d9ca0b63bc29b",
+    "9f5831b86a900ded",
+    "40c4c7d41692d583",
+    "c42c0c2b3cabd519",
+    "1390719630f00afa",
+    "5cc4826cabf8e106",
+    "ac8387eef8dd0a6f",
+    "f840ccdc242d39a9",
+    "e01f56fcf252632e",
+    "2a6934845bb7c573",
+    "eba09e39b13d8d39",
+    "24313cd49eda705b",
+    "4413a7f253f6026b",
+    "7f2d1da9fd86c62f",
+    "1e7a0903d2eed348",
+    "652f56c60b149e2c",
+    "282107ab6c1c0e3d",
+    "fc23c8e23818becf",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "dd73a5f4aa361563",
+    "402f160532ee522e",
+    "fb903e6c7bed8caf",
+    "b407412d11d8321c",
+    "09d7d5c8d74e4339",
+    "525d0a4e984dda59"
+   ]
+  }
+ ],
+ "fragments": {
+  "d01d409531becbf1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Setembro de 2009\n\nrelativa aos recipientes sob pressão simples\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr1-L_2009264PT.01001201-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr2-L_2009264PT.01001201-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 87/404/CEE do Conselho, de 25 de Junho de 1987, relativa à aproximação das legislações dos Estados-Membros respeitantes aos recipientes sob pressão simples [([^3])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr3-L_2009264PT.01001201-E0003), foi por diversas vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr4-L_2009264PT.01001201-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) Incumbe aos Estados-Membros garantir, no seu território, a segurança das pessoas, dos animais domésticos e dos bens contra os riscos de fugas ou de explosão que podem advir dos recipientes sob pressão simples.\n\n(3) Disposições imperativas nos Estados-Membros determinam, em especial, o nível de segurança a respeitar pelos recipientes sob pressão simples por meio da especificação das características de construção e de funcionamento, das condições de instalação e de utilização, bem como dos procedimentos de controlo antes e depois da comercialização. Essas disposições imperativas não conduzem necessariamente a níveis de segurança diferentes entre os Estados-Membros mas, pela sua disparidade, entravam o comércio no interior da Comunidade.\n\n(4) Por consequência, a presente directiva apenas deverá conter as exigências imperativas e essenciais. A fim de facilitar a prova da conformidade com as exigências essenciais, é indispensável dispor de normas harmonizadas a nível comunitário, referentes, nomeadamente, à construção, funcionamento e instalação dos recipientes sob pressão simples, cujo respeito garanta aos produtos uma presunção de conformidade com as exigências essenciais. Estas normas harmonizadas a nível comunitário são elaboradas por organismos privados e deverão conservar o seu estatuto de textos não obrigatórios. Para este fim, o Comité Europeu de Normalização (CEN), o Comité Europeu de Normalização Electrotécnica (CENELEC) e o Instituto Europeu de Normalização das Telecomunicações (ETSI) são os organismos reconhecidos competentes para adoptar as normas harmonizadas, em conformidade com as orientações gerais [([^5])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr5-L_2009264PT.01001201-E0005) para a cooperação entre a Comissão, a Associação Europeia de Comércio Livre (EFTA) e estes três organismos, assinadas em 28 de Março de 2003.\n\n(5) O Conselho aprovou várias directivas destinadas a eliminar os entraves técnicos ao comércio com base nos princípios estabelecidos na sua Resolução de 7 de Maio de 1985, relativa a uma nova abordagem em matéria de harmonização técnica e de normalização [([^6])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr6-L_2009264PT.01001201-E0006); cada uma dessas directivas prevê a aposição da marcação «CE». A Comissão, na sua Comunicação de 15 de Junho de 1989, relativa a uma abordagem global em matéria de certificação e ensaios [([^7])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr7-L_2009264PT.01001201-E0007), propôs a criação de uma regulamentação comum relativa a uma marcação «CE» com um grafismo único. O Conselho, na sua Resolução de 21 de Dezembro de 1989, relativa a uma abordagem global em matéria de avaliação da conformidade [([^8])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr8-L_2009264PT.01001201-E0008), aprovou como princípio director a adopção dessa abordagem coerente no que diz respeito à utilização da marcação «CE». Os dois elementos fundamentais da nova abordagem que deverá ser aplicada são os requisitos essenciais e os procedimentos de avaliação da conformidade.\n\n(6) É necessário um controlo do respeito por essas prescrições técnicas para proteger eficazmente os utentes e os terceiros. Os processos de controlo existentes diferem de um Estado-Membro para outro. Para evitar controlos múltiplos, que constituem outros tantos entraves à livre circulação dos recipientes, é conveniente prever um reconhecimento mútuo dos controlos pelos Estados-Membros. Para facilitar este reconhecimento mútuo dos controlos, é conveniente, nomeadamente, prever procedimentos comunitários e critérios a tomar em consideração para designar os organismos encarregados das funções de exame, vigilância e verificação.\n\n(7) A presença da marcação «CE» num recipiente sob pressão simples deverá levar a presumir que este se encontra em conformidade com a presente directiva e deverá tornar, por conseguinte, inútil, aquando da importação e utilização, a repetição dos controlos já efectuados. Todavia, pode acontecer que recipientes sob pressão simples comprometam a segurança. Deverá, portanto, prever-se um procedimento destinado a atenuar este perigo.\n\n(8) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo IV,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "15cb5f282d30224c": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, COMERCIALIZAÇÃO E LIVRE CIRCULAÇÃO",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, COMERCIALIZAÇÃO E LIVRE CIRCULAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO, DEFINIÇÕES, COMERCIALIZAÇÃO E LIVRE CIRCULAÇÃO"
+  },
+  "06de1de9a8abbee0": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva aplica-se a recipientes simples sob pressão fabricados em série.\n\n2. Os seguintes recipientes estão excluídos do âmbito da presente directiva:\n\na) Recipientes concebidos especificamente para utilização nuclear, e cuja avaria possa causar emissão de radioactividade;\n\nb) Recipientes destinados especificamente para utilização nuclear, e cuja avaria possa causar emissão de radioactividade;\n\nc) Extintores de incêndio.\n\n3. Para efeitos da presente directiva entende-se por:\n\na) «Recipiente simples sob pressão» ou «recipiente»: qualquer recipiente soldado submetido a uma pressão interior superior a 0,5 bar, destinado a conter ar ou nitrogénio e não destinado a ser submetido a uma chama; As partes e juntas que participam na resistência do recipiente sob pressão são fabricadas quer em aço de qualidade não ligado quer em alumínio não ligado ou em liga de alumínio não autotemperante. O recipiente deve ser constituído por uma das seguintes opções: i) uma parte cilíndrica de secção transversal circular, fechada por fundos copados com a face côncava voltada para o interior ou por fundos planos com o mesmo eixo de revolução que a parte cilíndrica, ii) dois fundos copados com o mesmo eixo de revolução. A pressão máxima de serviço do recipiente não deve exceder 30 bar e o produto desta pressão pela capacidade do recipiente (PS × V) não deve exceder 10 000 bar.1. A temperatura mínima de serviço não deve ser inferior a – 50 °C e a temperatura máxima de serviço não deve exceder 300 °C para os recipientes de aço ou 100 °C para os recipientes de alumínio ou de liga de alumínio;\n\ni) uma parte cilíndrica de secção transversal circular, fechada por fundos copados com a face côncava voltada para o interior ou por fundos planos com o mesmo eixo de revolução que a parte cilíndrica,\n\nii) dois fundos copados com o mesmo eixo de revolução.\n\nb) «Norma harmonizada»: uma especificação técnica (norma europeia ou documento de harmonização) adoptada pelo Comité Europeu de Normalização (CEN), pelo Comité Europeu de Normalização Electrotécnica (CENELEC) ou pelo Instituto Europeu de Normalização das Telecomunicações (ETSI) ou por dois ou três destes organismos, com mandato da Comissão nos termos da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^9])](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntr9-L_2009264PT.01001201-E0009), e das orientações gerais para a cooperação entre a Comissão, a Associação Europeia de Comércio Livre (EFTA) e aqueles três organismos, firmadas em 28 de Março de 2003."
+  },
+  "3b35e6ed52e5df30": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptam todas as disposições necessárias para que os recipientes só possam ser colocados no mercado e em serviço se não comprometerem a segurança das pessoas, dos animais domésticos ou dos bens, quando instalados, objecto de uma manutenção conveniente e utilizados em conformidade com o fim a que se destinam.\n\n2. As disposições da presente directiva não afectam o direito dos Estados-Membros de especificarem — na devida observância do Tratado — as condições que consideram necessárias para assegurar a protecção dos trabalhadores durante a utilização dos recipientes, desde que tal não implique a alteração dos referidos recipientes em moldes não especificados na presente directiva."
+  },
+  "cd6fd5e4986dd0ab": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os recipientes cujo produto de PS × V exceda 50 bar.1 devem respeitar as exigências essenciais de segurança constantes do anexo I.\n\n2. Os recipientes cujo produto de PS × V não exceda 50 bar.1 devem ser fabricados segundo as regras da arte na matéria utilizadas num dos Estados-Membros e ostentar as inscrições previstas no ponto 1 do anexo II, com excepção da marcação «CE» referida no artigo 16.º"
+  },
+  "0c7f407962ad8648": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros não levantam obstáculos à colocação no mercado e à entrada em serviço no seu território de recipientes que respeitem as disposições da presente directiva."
+  },
+  "8d9678e88f139d8e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros presumem que os recipientes munidos da marcação «CE» são conformes com o conjunto das disposições da presente directiva.\n\nA conformidade dos recipientes com as normas nacionais de transposição das normas harmonizadas cujas referências tenham sido publicadas no *Jornal Oficial da União Europeia* permite estabelecer a presunção de conformidade com os requisitos essenciais de segurança previstos no anexo I.\n\nOs Estados-Membros publicam as referências dessas normas nacionais.\n\n2. Os Estados-Membros devem presumir que os recipientes para os quais não existam normas referidas no segundo parágrafo do n.º 1, ou a que o fabricante apenas tenha aplicado em parte, ou não tenha aplicado, aquelas normas, estão em conformidade com as exigências essenciais de segurança previstos no anexo I, quando, após terem recebido um certificado «CE» de tipo, a sua conformidade com o modelo aprovado seja certificada pela aposição da marcação «CE».\n\n3. Quando os recipientes forem objecto de outras directivas relativas a outros aspectos e que prevejam a aposição da marcação «CE», esta deve indicar que se presume igualmente que esses recipientes são conformes com as disposições dessas outras directivas.\n\nTodavia, no caso de uma ou mais dessas directivas deixarem ao fabricante, durante um período transitório, a escolha do regime a aplicar, a marcação «CE» indica apenas a conformidade com as disposições das directivas aplicadas pelo fabricante. Nesse caso, as referências dessas directivas, tais como publicadas no *Jornal Oficial da União Europeia*, são inscritas nos documentos, manuais ou instruções exigidos por essas directivas e que acompanham esses recipientes."
+  },
+  "a4349bdde422e7c9": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSempre que um Estado-Membro ou a Comissão considerar que as normas harmonizadas, referidas no n.º 1 do artigo 5.º, não respeitem inteiramente as exigências essenciais de segurança previstas no anexo I, a Comissão ou o Estado-Membro submetem o assunto, com uma exposição dos motivos, à apreciação do Comité Permanente instituído pelo artigo 5.º da Directiva 98/34/CE, a seguir denominado «Comité».\n\nO Comité emite um parecer urgente.\n\nTendo em conta o parecer do Comité, a Comissão notifica aos Estados-Membros se as normas em causa devem ou não ser retiradas das publicações referidas no n.º 1 do artigo 5.º"
+  },
+  "7b1560b6416a5de0": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Sempre que um Estado-Membro verifique que recipientes providos da marcação «CE» e utilizados em conformidade com o fim a que se destinam correm o risco de comprometer a segurança das pessoas, dos animais domésticos ou dos bens, toma todas as medidas necessárias para retirar os produtos do mercado, proibir ou restringir a sua comercialização.\n\nO Estado-Membro informa imediatamente a Comissão dessa medida e indica as razões da sua decisão e, em especial, se a não conformidade resulta:\n\na) Da não observância das exigências essenciais de segurança previstas no anexo I, quando o recipiente não é conforme às normas harmonizadas referidas no n.º 1 do artigo 5.º;\n\nb) De uma má aplicação das normas harmonizadas referidas no n.º 1 do artigo 5.º;\n\nc) De uma lacuna das próprias normas harmonizadas referidas no n.º 1 do artigo 5.º\n\n2. A Comissão consulta as partes interessadas tão rapidamente quanto possível. Se, após essas consultas, a Comissão verificar que se justifica a actuação referida no n.º 1, dá-o a conhecer imediatamente ao Estado-Membro que tomou a iniciativa bem como aos outros Estados-Membros.\n\nQuando a decisão referida no n.º 1 for motivada por uma lacuna das normas, a Comissão, após consulta das partes interessadas, apresenta o assunto ao Comité num prazo de dois meses, se o Estado-Membro que tiver tomado as medidas pretender mantê-las, e aplica o procedimento referido no artigo 6.º\n\n3. Sempre que o recipiente não conforme estiver provido da marcação «CE», o Estado-Membro competente toma as medidas adequadas contra quem tiver aposto a marcação «CE» e informa do facto a Comissão e os outros Estados-Membros.\n\n4. A Comissão assegura que os Estados-Membros sejam mantidos ao corrente do desenvolvimento e dos resultados do procedimento referido nos n.^os^ 1, 2 e 3."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "52334cb6ab304712": {
+   "fragment_id": "CERTIFICAÇÃO",
+   "type": "divisao",
+   "heading": "CERTIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CERTIFICAÇÃO"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "917d9ca0b63bc29b": {
+   "fragment_id": "Certificação",
+   "type": "divisao",
+   "heading": "Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Certificação"
+  },
+  "9f5831b86a900ded": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Antes da construção dos recipientes, cujo produto de PS × V seja superior a 50 bar.1, fabricados em conformidade com as normas harmonizadas referidas no n.º 1 do artigo 5.º, o fabricante, ou o seu mandatário estabelecido na Comunidade, deve, à sua escolha, optar por:\n\na) Informar desse fabrico um organismo de controlo aprovado, referido no artigo 9.º, que estabelece, com base na documentação técnica referida no ponto 3 do anexo II, um certificado de conformidade dessa documentação;\n\nb) Apresentar um modelo do recipiente ao exame «CE» de tipo referido no artigo 10.º\n\n2. Antes da construção dos recipientes, cujo produto de PS × V seja superior a 50 bar.1, fabricados sem respeitar as normas harmonizadas referidas no n.º 1 do artigo 5.º, ou respeitando-as apenas em parte, o fabricante, ou o seu mandatário estabelecido na Comunidade, apresentam um modelo do recipiente ao exame «CE» de tipo referido no artigo 10.º\n\n3. Os recipientes fabricados em conformidade com as normas harmonizadas referidas no n.º 1 do artigo 5.º ou com o modelo aprovado são submetidos, antes da sua colocação no mercado:\n\na) Quando o produto de PS × V for superior a 3 000 bar.1, à verificação CE referida no artigo 11.º;\n\nb) Quando o produto de PS × V for inferior ou igual a 3 000 bar.1 e superior a 50 bar.1, à escolha do fabricante: i) à declaração de conformidade «CE» referida no artigo 12.º, ii) à verificação «CE» referida no artigo 11.º\n\ni) à declaração de conformidade «CE» referida no artigo 12.º,\n\nii) à verificação «CE» referida no artigo 11.º\n\n4. A documentação e a correspondência relativas aos procedimentos de certificação referidos nos n.^os^ 1, 2 e 3 são redigidas numa língua oficial do Estado-Membro em que o organismo de controlo aprovado estiver estabelecido, ou numa língua por ele aceite."
+  },
+  "40c4c7d41692d583": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros devem notificar a Comissão e os outros Estados-Membros dos organismos de controlo aprovados que tiverem designado para executar os procedimentos previstos nos n.^os^ 1, 2 e 3 do artigo 8.º bem como das tarefas específicas para as quais esses organismos tiverem sido designados e dos números de identificação que lhes tiverem sido previamente atribuídos pela Comissão.\n\nA Comissão publica no *Jornal Oficial da União Europeia* uma lista dos organismos notificados, a qual inclui igualmente os respectivos números de identificação e as tarefas para as quais os organismos tiverem sido notificados. A Comissão assegura a actualização dessa lista.\n\n2. Os Estados-Membros respeitam para a aprovação dos organismos referidos no n.º 1 os critérios mínimos previstos no anexo III.\n\n3. Um Estado-Membro que tenha aprovado um organismo de controlo retira essa aprovação se verificar que o organismo já não satisfaz os critérios mínimos previstos no anexo III.\n\nDesse facto informa imediatamente a Comissão e os outros Estados-Membros."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "1390719630f00afa": {
+   "fragment_id": "Exame «CE» de tipo",
+   "type": "divisao",
+   "heading": "Exame «CE» de tipo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Exame «CE» de tipo"
+  },
+  "5cc4826cabf8e106": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O exame «CE» de tipo é o procedimento pelo qual um organismo de controlo aprovado verifica e certifica que o modelo de um recipiente satisfaz as disposições da presente directiva que se lhe referem.\n\n2. O pedido de exame «CE» de tipo é apresentado pelo fabricante ou pelo seu mandatário a um único organismo de controlo aprovado, para um modelo de recipiente ou para um modelo representativo de uma família de recipientes. O mandatário deve estar estabelecido na Comunidade.\n\nO pedido inclui:\n\na) O nome e o endereço do fabricante ou do seu mandatário, bem como o local de fabrico dos recipientes;\n\nb) A documentação técnica de fabrico prevista no ponto 3 do anexo II.\n\nO pedido é acompanhado de um recipiente representativo da produção prevista.\n\n3. O organismo de controlo aprovado procede ao exame «CE» de tipo segundo as regras indicadas nos segundo e terceiro parágrafos.\n\nO organismo efectua a análise da documentação técnica de fabrico para verificar a sua conformidade, e examina o recipiente apresentado.\n\nAquando do exame do recipiente, o organismo:\n\na) Verifica se o recipiente foi fabricado em conformidade com a documentação técnica de fabrico e se pode ser utilizado com toda a segurança nas condições de serviço previstas;\n\nb) Efectua os exames e ensaios adequados para verificar a conformidade dos recipientes com as exigências essenciais que lhes dizem respeito.\n\n4. Se o modelo corresponder às disposições que lhe dizem respeito, o organismo de controlo aprovado emite um certificado «CE» de tipo, que é notificado ao requerente. Esse certificado reproduz as conclusões do exame, indica as condições que eventualmente o acompanhem e compreende as descrições e desenhos necessários para identificar o modelo aprovado.\n\nA Comissão, os outros organismos de controlo aprovados e os outros Estados-Membros podem obter cópias do certificado e, a pedido fundamentado, cópias da documentação técnica de fabrico e dos relatórios dos exames e ensaios efectuados.\n\n5. O organismo de controlo aprovado que recusar emitir um certificado «CE» de tipo informa desse facto os outros organismos de controlo aprovados.\n\nO organismo de controlo aprovado que retirar um certificado «CE» de tipo informa desse facto o Estado-Membro que o tiver aprovado. Este Estado-Membro informa desse facto os outros Estados-Membros e a Comissão, expondo os motivos dessa decisão."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "f840ccdc242d39a9": {
+   "fragment_id": "Verificação « CE»",
+   "type": "divisao",
+   "heading": "Verificação « CE»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação « CE»"
+  },
+  "e01f56fcf252632e": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A verificação «CE» é o procedimento através do qual o fabricante, ou o seu mandatário estabelecido na Comunidade, assegura e declara que os recipientes que foram submetidos às disposições do n.º 3 são conformes com o tipo descrito no certificado «CE» de tipo ou na documentação técnica de fabrico referida no ponto 3 do anexo II, que tenha sido objecto de um certificado de conformidade.\n\n2. O fabricante deve tomar todas as medidas necessárias para que o processo de fabrico assegure a conformidade dos recipientes com o tipo descrito no certificado «CE» de tipo ou na documentação técnica de fabrico referida no ponto 3 do anexo II. O fabricante, ou o seu mandatário estabelecido na Comunidade, deve apor a marcação «CE» em cada recipiente e redigir uma declaração de conformidade.\n\n3. A fim de verificar a conformidade do recipiente com as exigências da presente directiva, o organismo de controlo aprovado deve efectuar os exames e ensaios adequados por controlo e ensaio de acordo com o disposto nos segundo a décimo parágrafos.\n\nO fabricante deve apresentar os seus recipientes sob forma de lotes homogéneos e tomar todas as medidas necessárias para que o processo de fabrico assegure a homogeneidade de cada lote produzido.\n\nEsses lotes devem ser acompanhados pelo certificado «CE» de tipo referido no artigo 10.º ou, quando os recipientes não tiverem sido fabricados de acordo com um modelo aprovado, pela documentação técnica de fabrico referida no ponto 3 do anexo II. Neste último caso, o organismo de controlo aprovado deve analisar a documentação, antes da verificação «CE», a fim de certificar a respectiva conformidade.\n\nAo examinar um lote de recipientes, o organismo de controlo aprovado deve assegurar-se que estes foram fabricados e controlados de acordo com a documentação técnica de fabrico e deve efectuar com cada recipiente do lote um ensaio hidráulico ou um ensaio pneumático de eficácia equivalente, a uma pressão Ph igual a 1,5 vezes a pressão de cálculo, a fim de verificar a sua integridade. A realização do ensaio pneumático fica subordinada à aceitação dos procedimentos de segurança de ensaio por parte do Estado-Membro em que o ensaio for efectuado.\n\nAlém disso, o organismo de controlo aprovado deve efectuar ensaios com provetes retirados, à escolha do fabricante, de um talão-testemunho de referência de produção ou de um recipiente, a fim de controlar a qualidade das soldaduras. Os ensaios devem ser efectuados nas soldaduras longitudinais. Todavia, quando for utilizado um método de soldadura diferente para as soldaduras longitudinais e para as circulares, esses ensaios devem ser repetidos nas soldaduras circulares.\n\nPara os recipientes referidos no ponto 2.1.2 do anexo I, os ensaios com provetes devem ser substituídos por um ensaio hidráulico efectuado em cinco recipientes tirados ao acaso de cada lote, a fim de verificar a sua conformidade com as exigências essenciais de segurança previstas no ponto 2.1.2 do anexo I.\n\nNo que se refere aos lotes aceites, o organismo de controlo aprovado deve apor ou mandar apor o seu número de identificação em cada recipiente e redigir um certificado de conformidade relativo aos ensaios efectuados. Todos os recipientes do lote podem ser colocados no mercado, com excepção daqueles que não resistiram à prova hidráulica ou ao ensaio pneumático.\n\nSe um lote for recusado, o organismo de controlo aprovado deve adoptar as medidas adequadas para evitar a colocação desse lote no mercado. Na eventualidade de recusa frequente de lotes, o organismo de controlo aprovado pode suspender a verificação estatística.\n\nO fabricante pode apor, sob a responsabilidade do organismo de controlo aprovado, o número de identificação deste último, durante o processo de fabrico;\n\nO fabricante ou o seu mandatário devem estar em condições de apresentar, a pedido, os certificados de conformidade do organismo de controlo aprovado a que se refere o sétimo parágrafo."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "eba09e39b13d8d39": {
+   "fragment_id": "Declaração de conformidade «CE»",
+   "type": "divisao",
+   "heading": "Declaração de conformidade «CE»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração de conformidade «CE»"
+  },
+  "24313cd49eda705b": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O fabricante que satisfizer as obrigações decorrentes do artigo 13.º deve apor a marcação «CE» referida no artigo 16.º nos recipientes que declarar conformes:\n\na) Com a documentação técnica de fabrico referida no n.º 3 do anexo II, que tenha sido objecto de um certificado de conformidade; ou\n\nb) Com um modelo aprovado.\n\n2. Pelo processo de declaração de conformidade «CE», o fabricante fica sujeito à vigilância «CE», sempre que o produto de PS × V for superior a 200 bar.1.\n\nA vigilância «CE» tem por finalidade, de acordo com o segundo parágrafo do artigo 14.º, velar pela correcta aplicação, por parte do fabricante, das obrigações decorrentes do n.º 2 do artigo 13.º É assegurada pelo organismo de controlo aprovado que tiver emitido o certificado «CE» de tipo referido no primeiro parágrafo do n.º 4 do artigo 10.º, no caso de os recipientes serem fabricados em conformidade com um modelo aprovado ou, no caso contrário, pelo organismo a que tenha sido enviada a documentação técnica de fabrico, em conformidade com a alínea a) do n.º 1 do artigo 8.º"
+  },
+  "4413a7f253f6026b": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Quando o fabricante recorrer ao procedimento referido no artigo 12.ºenvia, antes do início do fabrico, ao organismo de controlo aprovado que tiver emitido o certificado «CE» de tipo ou o certificado de conformidade, um documento que defina os processos de fabrico bem como o conjunto das disposições pré-estabelecidas e sistemáticas que são aplicadas para assegurar a conformidade dos recipientes com as normas referidas no n.º 1 do artigo 5.º ou com o modelo aprovado.\n\n2. O documento mencionado no n.º 1 compreende, nomeadamente:\n\na) Uma descrição dos meios de fabrico e de verificação adequados para o fabrico dos recipientes;\n\nb) Um registo de controlo que descreva os exames e ensaios adequados com as respectivas regras e frequências de execução, a efectuar no decurso do fabrico;\n\nc) O compromisso de levar a cabo os exames e ensaios em conformidade com o registo de controlo referido na alínea b) e de fazer um ensaio hidráulico ou, mediante o acordo do Estado-Membro, um ensaio pneumático, a uma pressão de ensaio igual a 1,5 vezes a pressão de cálculo sobre cada recipiente fabricado. Esses exames e ensaios são efectuados sob a responsabilidade de pessoal qualificado e suficientemente independente em relação aos serviços encarregados da produção, e são objecto de um relatório;\n\nd) O endereço dos locais de fabrico e de entreposto, bem como a data de início do fabrico.\n\n3. Além disso, quando o produto de PS× V for superior a 200 bar.1, o fabricante autoriza o acesso do organismo encarregado da vigilância «CE» aos referidos locais de fabrico e entreposto, a fim de proceder aos controlos, permite-lhe retirar recipientes e fornece-lhe todas as informações necessárias, nomeadamente:\n\na) A documentação técnica de fabrico;\n\nb) A documentação do controlo;\n\nc) O certificado «CE» de tipo ou o certificado de conformidade, se for caso disso;\n\nd) Um relatório sobre os exames e ensaios efectuados."
+  },
+  "7f2d1da9fd86c62f": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO organismo de controlo aprovado que tiver emitido o certificado «CE» de tipo ou o certificado de conformidade examina, antes da data de início do fabrico, o documento referido no n.º 1 do artigo 13.º, bem como a documentação técnica de fabrico referida no ponto 3 do anexo II, a fim de verificar se são adequados, quando os recipientes não forem fabricados em conformidade com um modelo aprovado.\n\nAlém disso, quando o produto de PS× V for superior a 200 bar.1, o organismo de controlo aprovado, no decurso do fabrico:\n\na) Certifica-se de que o fabricante verifica efectivamente os recipientes fabricados em série, em conformidade com a alínea c) do n.º 2 do artigo 13.º;\n\nb) Procede inopinadamente à recolha de recipientes nos locais de fabrico ou de entreposto, para efeitos de controlo.\n\nO organismo de controlo aprovado fornece ao Estado-Membro que o tiver aprovado e, a pedido, aos outros organismos de controlo aprovados, aos outros Estados-Membros e à Comissão, uma cópia do relatório dos controlos."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "652f56c60b149e2c": {
+   "fragment_id": "MARCAÇÃO «CE» E INSCRIÇÕES",
+   "type": "divisao",
+   "heading": "MARCAÇÃO «CE» E INSCRIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MARCAÇÃO «CE» E INSCRIÇÕES"
+  },
+  "282107ab6c1c0e3d": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nSem prejuízo do artigo 7.º:\n\na) A verificação por um Estado-Membro de que a aposição da marcação «CE» foi indevida implica a obrigação, por parte do fabricante ou do seu mandatário estabelecido na Comunidade, de repor o produto em conformidade com as disposições relativas à marcação «CE» e de fazer cessar a infracção nas condições fixadas por esse Estado-Membro;\n\nb) No caso de a não conformidade persistir, o Estado-Membro deve tomar todas as medidas adequadas para restringir ou proibir a colocação no mercado do produto em questão, ou assegurar a sua retirada do mercado, nos termos do procedimento previsto no artigo 7.º"
+  },
+  "fc23c8e23818becf": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A marcação «CE», bem como as inscrições previstas no ponto 1 do anexo II são apostas de modo visível, legível e indelével no recipiente ou numa placa sinalética fixada de modo inamovível sobre o recipiente.\n\nA marcação «CE» é constituída pelas iniciais «CE» de acordo com o grafismo cujo modelo figura no ponto 1.1 do anexo II. A marcação «CE» é seguida pelo número de identificação, a que se refere o n.º 1 do artigo 9.º, do organismo de controlo aprovado encarregado da verificação «CE» ou da fiscalização «CE».\n\n2. É proibido apor nos recipientes marcações susceptíveis de induzir terceiros em erro quanto ao significado e ao grafismo da marcação «CE». Pode ser aposta nos recipientes ou na chapa sinalética qualquer outra marcação, desde que não reduza a visibilidade e a legibilidade da marcação «CE»."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "dd73a5f4aa361563": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nQualquer decisão tomada em aplicação da presente directiva que restrinja a comercialização ou a colocação em serviço de um recipiente deve ser fundamentada com precisão. Essa decisão é comunicada ao interessado o mais rapidamente possível, com a indicação das vias de recurso previstas na legislação em vigor no Estado-Membro em causa e dos prazos dentro dos quais devem ser interpostos os recursos."
+  },
+  "402f160532ee522e": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-Membros comunicam à Comissão o texto das disposições essenciais de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "fb903e6c7bed8caf": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nÉ revogada a Directiva 87/404/CEE, com a redacção que lhe foi dada pelas directivas referidas na parte A do anexo IV, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo IV.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ler-se nos termos da tabela de correspondência que consta do anexo V."
+  },
+  "b407412d11d8321c": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "09d7d5c8d74e4339": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 16 de Setembro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**C. MALMSTRÖM**\n\n---"
+  },
+  "525d0a4e984dda59": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc1-L_2009264PT.01001201-E0001) [JO C 27 de 3.2.2009, p. 41](http://publications.europa.eu/resource/oj/JOC_2009_027_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc2-L_2009264PT.01001201-E0002) Parecer do Parlamento Europeu de 21 de Outubro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 13 de Julho de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc3-L_2009264PT.01001201-E0003) [JO L 220 de 8.8.1987, p. 48](http://publications.europa.eu/resource/oj/JOL_1987_220_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc4-L_2009264PT.01001201-E0004) Ver parte A do anexo IV.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc5-L_2009264PT.01001201-E0005) [JO C 91 de 16.4.2003, p. 7](http://publications.europa.eu/resource/oj/JOC_2003_091_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc6-L_2009264PT.01001201-E0006) [JO C 136 de 4.6.1985, p. 1](http://publications.europa.eu/resource/oj/JOC_1985_136_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc7-L_2009264PT.01001201-E0007) [JO C 267 de 19.10.1989, p. 3](http://publications.europa.eu/resource/oj/JOC_1989_267_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc8-L_2009264PT.01001201-E0008) [JO C 10 de 16.1.1990, p. 1](http://publications.europa.eu/resource/oj/JOC_1990_010_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2.0018.03/DOC_1#ntc9-L_2009264PT.01001201-E0009) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC)."
+  }
+ }
+}

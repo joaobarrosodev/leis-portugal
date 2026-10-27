@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:531813:por
+title: Portaria n.º 13/84
+short_title: null
+summary: Altera o § 7.º do capítulo II do Regulamento Geral de Abastecimentos de Água
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Indústria e Energia e do Equipamento Social
+proposing_entity: null
+official_number: 13/84
+official_date: null
+publication_date: '1984-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/1984, Série I de 1984-01-07
+  number: '6'
+  series: I
+  supplement: null
+  pages: 34 - 34
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00600/00340034.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '531813'
+  dre_path: /dr/detalhe/portaria/13-1984-531813
+  internal: pt:dre:531813:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/13-1984-531813
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/13-1984-531813
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 59ed94e058e7ab44c9622e44f28b0e3012ace52541678b5afdcae9d3761e755a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:57:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abastecimento de Água
+- Regulamento Geral de Abastecimento de ÁGUA
+relationships:
+- type: cites
+  target: pt:dre:596516:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:57:02Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 13/84
+
+de 7 de Janeiro
+
+Da utilização de tubos de série ligeira nas canalizações têm resultado grandes problemas nas roscagens, para além da sua menor resistência e tempo de duração, com todos os seus inconvenientes.
+
+Tal utilização é já proibida na Comunidade Económica Europeia, onde Portugal se irá integrar.
+
+Também se encontra vedada a utilização deste material em canalizações nos concelhos de Lisboa e Porto.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Indústria e Energia e do Equipamento Social, o seguinte:
+
+1.º O § 7.º do capítulo II - Da natureza e qualidades dos materiais - do Regulamento Geral de Abastecimentos de Água, aprovado pela [Portaria n.º 10367](https://diariodarepublica.pt/dr/detalhe/portaria/10367-1943-596516), de 14 de Abril de 1943, passará a ter a seguinte redacção:
+
+§ 7.º As canalizações e peças acessórias aplicadas nos sistemas de distribuição de água poderão ser de ferro fundido, ferro, aço, excepto os tubos de série ligeira, chumbo, cobre, latão, bronze, betão, betão armado, fibrocimento e outros materiais adequados cuja aplicação tenha sido autorizada superiormente.
+
+2.º Esta portaria entra em vigor 6 meses após a sua publicação.
+
+Ministérios da Indústria e Energia e do Equipamento Social.
+
+Assinada em 28 de Dezembro de 1983.
+
+O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro do Equipamento Social, João Rosado Correia.

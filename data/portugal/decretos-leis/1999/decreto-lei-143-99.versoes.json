@@ -1,0 +1,2005 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:332440:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-221827597",
+ "dre_path": "/dr/detalhe/decreto-lei/143-1999-332440",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221827760",
+    "221741065",
+    "221741066",
+    "221741067",
+    "221741068",
+    "221741069",
+    "221741070",
+    "221741071",
+    "221741072",
+    "221741073",
+    "221741074",
+    "221827675",
+    "221827676",
+    "221827677",
+    "221827678",
+    "221827679",
+    "221827680",
+    "221827681",
+    "221827682",
+    "221827683",
+    "221827684",
+    "221827685",
+    "221827686",
+    "221827687",
+    "221827688",
+    "221827689",
+    "221827690",
+    "221827691",
+    "221827692",
+    "221827693",
+    "221827694",
+    "221827695",
+    "221827696",
+    "221827697",
+    "221827698",
+    "221827699",
+    "221827700",
+    "221827701",
+    "221827702",
+    "221827703",
+    "221827704",
+    "221827705",
+    "221827706",
+    "221827707",
+    "221827708",
+    "221827709",
+    "221827710",
+    "221827711",
+    "221827712",
+    "221827713",
+    "221827714",
+    "221827715",
+    "221827716",
+    "221827717",
+    "221827718",
+    "221827719",
+    "221827720",
+    "221827721",
+    "221827722",
+    "221827723",
+    "221827724",
+    "221827725",
+    "221827726",
+    "221827727",
+    "221827728",
+    "221827729",
+    "221827730",
+    "221827731",
+    "221827732",
+    "221827733",
+    "221827734",
+    "221827735",
+    "221827736",
+    "221827737",
+    "221827738",
+    "221827739",
+    "221827740",
+    "221827741",
+    "221827742",
+    "221827743",
+    "221827744",
+    "221827745",
+    "221827746",
+    "221827747",
+    "221827748",
+    "221827749",
+    "221827750",
+    "221827751",
+    "221827752",
+    "221827753",
+    "221827754"
+   ]
+  },
+  {
+   "date": "1999-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:310612:por",
+     "title": "Decreto-Lei n.º 382-A/99",
+     "published": "1999-09-22",
+     "dre_path": "/dr/detalhe/decreto-lei/382-a-1999-310612"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 71.º",
+    "Altera Artigo 74.º"
+   ],
+   "fragments": [
+    "221741064",
+    "221741065",
+    "221741066",
+    "221741067",
+    "221741068",
+    "221741069",
+    "221741070",
+    "221741071",
+    "221741072",
+    "221741073",
+    "221741074",
+    "221827675",
+    "221827676",
+    "221827677",
+    "221827678",
+    "221827679",
+    "221827680",
+    "221827681",
+    "221827682",
+    "221827683",
+    "221827684",
+    "221827685",
+    "221827686",
+    "221827687",
+    "221827688",
+    "221827689",
+    "221827690",
+    "221827691",
+    "221827692",
+    "221827693",
+    "221827694",
+    "221827695",
+    "221827696",
+    "221827697",
+    "221827698",
+    "221827699",
+    "221827700",
+    "221827701",
+    "221827702",
+    "221827703",
+    "221827704",
+    "221827705",
+    "221827706",
+    "221827707",
+    "221827708",
+    "221827709",
+    "221827710",
+    "221827711",
+    "221827712",
+    "221827713",
+    "221827714",
+    "221827715",
+    "221827716",
+    "221827717",
+    "221827718",
+    "221827719",
+    "221827720",
+    "221827721",
+    "221827722",
+    "221827723",
+    "221827724",
+    "221827725",
+    "221827726",
+    "221827727",
+    "221827728",
+    "221827729",
+    "221827730",
+    "221827731",
+    "221827732",
+    "221827733",
+    "221827734",
+    "221827735",
+    "221827736",
+    "221827737",
+    "221827738",
+    "221827739",
+    "221827740",
+    "221827741",
+    "221827742",
+    "221827743",
+    "221827744",
+    "221827745",
+    "221827746",
+    "221827747",
+    "221827748",
+    "221827749",
+    "221827750",
+    "221827757",
+    "221827752",
+    "221827753",
+    "221827756",
+    "221827755"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:489505:por",
+     "title": "Lei n.º 98/2009",
+     "published": "2009-09-04",
+     "dre_path": "/dr/detalhe/lei/98-2009-489505"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "221827760",
+    "221827761",
+    "221827762",
+    "221827763",
+    "221827764",
+    "221827765",
+    "221827766",
+    "221827767",
+    "221827768",
+    "221827769",
+    "221827770",
+    "221827771",
+    "221827772",
+    "221827773",
+    "221827774",
+    "221828575",
+    "221828576",
+    "221828577",
+    "221828578",
+    "221828579",
+    "221828580",
+    "221828581",
+    "221828582",
+    "221828583",
+    "221828584",
+    "221828585",
+    "221828586",
+    "221828587",
+    "221828588",
+    "221828589",
+    "221828590",
+    "221828591",
+    "221828592",
+    "221828593",
+    "221828594",
+    "221828595",
+    "221828596",
+    "221828597",
+    "221828598",
+    "221828599",
+    "221828600",
+    "221828601",
+    "221828602",
+    "221828603",
+    "221828604",
+    "221828605",
+    "221828606",
+    "221828607",
+    "221828608",
+    "221828609",
+    "221828610",
+    "221828611",
+    "221828612",
+    "221828613",
+    "221828614",
+    "221828615",
+    "221828616",
+    "221828617",
+    "221828618",
+    "221828619",
+    "221828620",
+    "221828621",
+    "221828622",
+    "221828623",
+    "221828624",
+    "221828625",
+    "221828626",
+    "221828627",
+    "221828628",
+    "221828629",
+    "221828630",
+    "221828631",
+    "221828632",
+    "221828633",
+    "221828634",
+    "221828635",
+    "221828636",
+    "221828637",
+    "221828638",
+    "221828639",
+    "221828640",
+    "221828641",
+    "221828642",
+    "221828643",
+    "221828644",
+    "221828645",
+    "221828646",
+    "221828647",
+    "221828648",
+    "221828649",
+    "221828650",
+    "221828651"
+   ]
+  }
+ ],
+ "fragments": {
+  "221827760": {
+   "fragment_id": "221827598",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2010-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 143/99\n\nde 30 de Abril\n\nDurante um período superior a 30 anos a Lei n.º 2127, de 3 de Agosto de 1965, constituiu a base jurídica da reparação dos acidentes de trabalho e doenças profissionais a que se encontram sujeitos os trabalhadores por conta de outrem.\n\nA revisão desta lei, motivada pelo objectivo de assegurar aos sinistrados condições adequadas de reparação dos danos decorrentes dos acidentes de trabalho e doenças profissionais e pela necessidade de adaptação do regime jurídico à evolução da realidade sócio-laboral e ao desenvolvimento de legislação complementar no âmbito das relações de trabalho, da jurisprudência e das convenções internacionais sobre a matéria, foi concretizada com a publicação da Lei n.º 100/97, de 13 de Setembro.\n\nProsseguindo os mesmos objectivos, o presente decreto-lei visa regulamentar a referida lei, em matéria de reparação aos trabalhadores e seus familiares dos danos emergentes de acidentes de trabalho, sendo objecto de regulamentação autónoma os preceitos relativos a doenças profissionais, trabalhadores independentes, serviços de segurança, higiene e saúde no trabalho, garantia e actualização de pensões e reabilitação.\n\nNo fundamental, prossegue-se, na regulamentação desta lei, a filosofia que lhe esteve subjacente de melhoria do sistema de protecção e de prestações conferidas aos sinistrados em acidentes de trabalho, procurando simultaneamente garantir o equilíbrio e estabilidade do sector segurador para o qual as entidades empregadoras são obrigadas a transferir a responsabilidade pela reparação destes danos.\n\nNo sentido de melhorar o nível das prestações garantidas aos sinistrados, a presente regulamentação desenvolve importantes alterações relativamente ao regime anterior, designadamente:\n\nA revisão da base de cálculo das indemnizações e pensões, que deixam de ser calculadas com base no conceito de retribuição base, passando a ser calculadas com base na retribuição efectivamente auferida pelo sinistrado;\n\nO alargamento do conceito de acidente de trabalho, nomeadamente a cobertura generalizada do risco in itinere, que passa a incluir expressamente as deslocações entre o local de trabalho e o de refeição, assim como os acidentes ocorridos quando o trajecto normal de deslocação do trabalhador relevante para a qualificação do acidente como de trabalho tenha sofrido desvios determinados por necessidades atendíveis do trabalhador;\n\nO alargamento do conceito de familiar a cargo para efeitos de acréscimo do valor da pensão anual e vitalícia paga por incapacidade permanente absoluta para todo e qualquer trabalho;\n\nA remição de pensões de valor reduzido, sem prejuízo de fixação de um regime transitório que permitirá a progressiva adaptação das empresas de seguros, que assim não se confrontarão com um pedido generalizado de remição, com a inerente instabilidade que lhe estaria associada.\n\nA consideração da prestação da assistência psíquica, quando reconhecida como necessária pelo médico assistente, como direito a reparação, e a cobertura pela entidade responsável pelo acidente que determinou a sua utilização das despesas de reparação ou substituição de aparelhos de prótese, ortótese e ortopedia usados por força de acidente de trabalho e deteriorados em consequência do uso ou desgastes normais revelam, também, o nível superior das prestações previstas neste diploma.\n\nPor outro lado, para maior protecção do trabalhador, os recibos de retribuição passam a identificar a empresa de seguros para a qual o risco se encontra transferido à data da sua emissão.\n\nPor último, justificável por razões de celeridade do processo por acidente de trabalho, sempre que durante a fase conciliatória do processo judicial a tentativa de conciliação for adiada por motivo imputável à empresa de seguros ou a outra entidade responsável, estas terão de se fazer representar nas tentativas de conciliação seguintes por mandatário judicial.\n\nForam ouvidos o Instituto de Seguros de Portugal, a Associação Portuguesa de Seguradores, a Associação Nacional dos Deficientes Sinistrados no Trabalho, a Confederação Geral dos Trabalhadores Portugueses, a União Geral de Trabalhadores, o Sindicato dos Trabalhadores de Seguros do Norte, o Sindicato dos Trabalhadores de Seguros do Sul e Regiões Autónomas, a Confederação da Indústria Portuguesa, a Confederação do Comércio e Serviços de Portugal e a Confederação de Agricultores de Portugal.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 100/97, de 13 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:\n\n> Nota: [Artigo 21.º, Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906) determina a revogação do presente diploma, com a entrada em vigor das normas regulamentares."
+  },
+  "221741065": {
+   "fragment_id": "221827599",
+   "type": 1,
+   "heading": "Capítulo I — Dos acidentes de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Dos acidentes de trabalho"
+  },
+  "221741066": {
+   "fragment_id": "221827600",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "221741067": {
+   "fragment_id": "221827601",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei regulamenta a Lei n.º 100/97, de 13 de Setembro, no que respeita à reparação dos danos emergentes dos acidentes de trabalho.\n\n2 - São objecto de regulamentação autónoma os preceitos da mesma lei referentes a:\n\na) Doenças profissionais (artigo 1.º, n.º 2);\n\nb) Trabalhadores independentes (artigo 3.º);\n\nc) Serviços de segurança, higiene e saúde no trabalho (artigo 12.º);\n\nd) Garantia e actualização de pensões (artigo 39.º);\n\ne) Reabilitação (artigo 40.º)."
+  },
+  "221741068": {
+   "fragment_id": "221827602",
+   "type": 11,
+   "heading": "Artigo 2.º — Terminologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Terminologia\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) «Lei»: Lei n.º 100/97, de 13 de Setembro;\n\nb) «Lesão»: lesão, perturbação funcional ou doença, consequente a acidente de trabalho;\n\nc) «Sinistrado»: trabalhador que sofreu um acidente de trabalho;\n\nd) «Responsável» ou «entidade responsável»: entidade à qual é imputável a responsabilidade pelo acidente ou pela sua reparação;\n\ne) «Hospital» ou «estabelecimento hospitalar»: hospital, casa de saúde, casa de repouso ou de convalescença;\n\nf) «Cura clínica»: situação em que as lesões desapareceram totalmente ou se apresentam como insusceptíveis de modificação com terapêutica adequada;\n\ng) «Tribunal competente»: tribunal do trabalho territorialmente competente;\n\nh) «Pessoa colectiva»: pessoa colectiva, sociedade ou mera associação de facto;\n\ni) «ISP»: o Instituto de Seguros de Portugal."
+  },
+  "221741069": {
+   "fragment_id": "221827603",
+   "type": 11,
+   "heading": "Artigo 3.º — Nulidade dos actos contrários à lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Nulidade dos actos contrários à lei\n\nPara efeitos do disposto do n.º 1 do artigo 34.º da lei, presumem-se realizados com o fim de impedir a satisfação dos créditos provenientes do direito à reparação prevista na lei todos os actos do devedor, praticados após a data do acidente ou do diagnóstico inequívoco da doença resultante de acidente de trabalho, que envolvam diminuição da garantia patrimonial desses créditos."
+  },
+  "221741070": {
+   "fragment_id": "221827604",
+   "type": 11,
+   "heading": "Artigo 4.º — Exploração lucrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exploração lucrativa\n\nNão se consideram lucrativas, para efeito do disposto na lei e neste regulamento, as actividades cuja produção se destine exclusivamente ao consumo ou utilização do agregado familiar da entidade empregadora."
+  },
+  "221741071": {
+   "fragment_id": "221827605",
+   "type": 11,
+   "heading": "Artigo 5.º — Contagem de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contagem de prazos\n\nOs prazos fixados no presente diploma contam-se nos termos previstos no Código de Processo Civil."
+  },
+  "221741072": {
+   "fragment_id": "221827606",
+   "type": 8,
+   "heading": "Secção II — Conceito e reparação do acidente de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conceito e reparação do acidente de trabalho"
+  },
+  "221741073": {
+   "fragment_id": "221827607",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceito de acidente de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conceito de acidente de trabalho\n\n1 - É acidente de trabalho aquele que se verifique no local e no tempo de trabalho, produzindo, directa ou indirectamente, lesão corporal, perturbação funcional ou doença de que resulte redução na capacidade de trabalho ou de ganho ou a morte.\n\n2 - Na alínea a) do n.º 2 do artigo 6.º da lei estão compreendidos os acidentes que se verifiquem no trajecto normalmente utilizado e durante o período de tempo ininterrupto habitualmente gasto pelo trabalhador:\n\na) Entre a sua residência habitual ou ocasional, desde a porta de acesso para as áreas comuns do edifício ou para a via pública, até às instalações que constituem o seu local de trabalho;\n\nb) Entre qualquer dos locais referidos na alínea precedente e os mencionados nas alíneas a) e b) do n.º 4;\n\nc) Entre o local de trabalho e o local da refeição;\n\nd) Entre o local onde por determinação da entidade empregadora presta qualquer serviço relacionado com o seu trabalho e as instalações que constituem o seu local de trabalho habitual.\n\n3 - Não deixa de se considerar acidente de trabalho o que ocorrer quando o trajecto normal tenha sofrido interrupções ou desvios determinados pela satisfação de necessidades atendíveis do trabalhador, bem como por motivo de força maior ou por caso fortuito.\n\n4 - Estão compreendidos no artigo 6.º da lei os acidentes que se verifiquem nas seguintes circunstâncias:\n\na) No local do pagamento da retribuição, enquanto o trabalhador aí permanecer para tal efeito;\n\nb) No local onde ao trabalhador deva ser prestada qualquer forma de assistência ou tratamento por virtude de anterior acidente e enquanto aí permanecer para esses fins."
+  },
+  "221741074": {
+   "fragment_id": "221827608",
+   "type": 11,
+   "heading": "Artigo 7.º — Prova da origem da lesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prova da origem da lesão\n\n1 - A lesão constatada no local e no tempo de trabalho ou nas circunstâncias previstas no n.º 2 do artigo 6.º da lei presume-se, até prova em contrário, consequência de acidente de trabalho.\n\n2 - Se a lesão não tiver manifestação imediatamente a seguir ao acidente, compete ao sinistrado ou aos beneficiários legais provar que foi consequência dele."
+  },
+  "221827675": {
+   "fragment_id": "221827609",
+   "type": 11,
+   "heading": "Artigo 8.º — Descaracterização do acidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Descaracterização do acidente\n\n1 - Para efeitos do disposto no artigo 7.º da lei, considera-se existir causa justificativa da violação das condições de segurança se o acidente de trabalho resultar de incumprimento de norma legal ou estabelecida pela entidade empregadora da qual o trabalhador, face ao seu grau de instrução ou de acesso à informação, dificilmente teria conhecimento ou, tendo-o, lhe fosse manifestamente difícil entendê-la.\n\n2 - Entende-se por negligência grosseira o comportamento temerário em alto e relevante grau, que não se consubstancie em acto ou omissão resultante da habitualidade ao perigo do trabalho executado, da confiança na experiência profissional ou dos usos e costumes da profissão."
+  },
+  "221827676": {
+   "fragment_id": "221827610",
+   "type": 11,
+   "heading": "Artigo 9.º — Natureza da incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza da incapacidade\n\n1 - Os acidentes de trabalho podem determinar incapacidades temporárias ou permanentes para o trabalho.\n\n2 - As incapacidades temporárias podem ser parciais ou absolutas.\n\n3 - As incapacidades permanentes podem ser parciais, absolutas para o trabalho habitual e absolutas para todo e qualquer trabalho."
+  },
+  "221827677": {
+   "fragment_id": "221827611",
+   "type": 11,
+   "heading": "Artigo 10.º — Determinação das incapacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Determinação das incapacidades\n\nA determinação das incapacidades é efectuada de acordo com a Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais, elaborada e actualizada por uma comissão permanente, cuja composição, competência e modo de funcionamento são fixados em diploma próprio."
+  },
+  "221827678": {
+   "fragment_id": "221827612",
+   "type": 11,
+   "heading": "Artigo 11.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Responsabilidade\n\nSão responsáveis pela reparação e demais encargos previstos na lei as pessoas singulares ou colectivas de direito privado e de direito público não abrangidas por legislação especial, relativamente aos trabalhadores ao seu serviço referidos no artigo 2.º da lei."
+  },
+  "221827679": {
+   "fragment_id": "221827613",
+   "type": 8,
+   "heading": "Secção III — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Âmbito pessoal"
+  },
+  "221827680": {
+   "fragment_id": "221827614",
+   "type": 11,
+   "heading": "Artigo 12.º — Trabalhadores abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Trabalhadores abrangidos\n\n1 - O regime previsto no presente diploma abrange os trabalhadores por conta de outrem de qualquer actividade, seja ou não explorada com fins lucrativos.\n\n2 - Para efeitos do n.º 2 do artigo 2.º da lei, para além da situação dos praticantes, aprendizes e estagiários, consideram-se situações de formação prática as que tenham por finalidade a preparação ou promoção profissional do trabalhador, necessária para o desempenho de funções inerentes à actividade da entidade empregadora.\n\n3 - Quando a lei ou esta regulamentação não impuserem entendimento diferente, presumir-se-á que os trabalhadores estão na dependência económica da pessoa em proveito da qual prestam serviços."
+  },
+  "221827681": {
+   "fragment_id": "221827615",
+   "type": 11,
+   "heading": "Artigo 13.º — Trabalhadores no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Trabalhadores no estrangeiro\n\nNa ausência de opção expressa do trabalhador sinistrado em acidente de trabalho no estrangeiro ao serviço de empresa portuguesa, aplica-se a lei portuguesa, salvo se a do local onde ocorreu o acidente for concretamente mais favorável."
+  },
+  "221827682": {
+   "fragment_id": "221827616",
+   "type": 1,
+   "heading": "Capítulo II — Participação do acidente de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Participação do acidente de trabalho"
+  },
+  "221827683": {
+   "fragment_id": "221827617",
+   "type": 11,
+   "heading": "Artigo 14.º — Sinistrados e beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sinistrados e beneficiários\n\n1 - Ocorrido um acidente, o sinistrado ou os beneficiários legais de pensões devem participá-lo verbalmente ou por escrito, nas quarenta e oito horas seguintes, à entidade empregadora ou à pessoa que a represente na direcção do trabalho, salvo se estas o presenciaram ou dele vieram a ter conhecimento no mesmo período.\n\n2 - Se o estado do sinistrado ou outra circunstância, devidamente comprovada, não permitir o cumprimento do disposto no número anterior, o prazo ali fixado contar-se-á a partir da cessação do impedimento.\n\n3 - Se a lesão se revelar ou for reconhecida em data posterior à do acidente, o prazo contar-se-á a partir da data da revelação ou do reconhecimento.\n\n4 - Quando o sinistrado não participar o acidente tempestivamente e por tal motivo tiver sido impossível à entidade empregadora ou a quem a represente na direcção do trabalho prestar-lhe a assistência necessária, as incapacidades judicialmente reconhecidas como consequência daquela falta não conferem direito às prestações estabelecidas na lei, na medida em que dela tenham resultado."
+  },
+  "221827684": {
+   "fragment_id": "221827618",
+   "type": 11,
+   "heading": "Artigo 15.º — Entidades empregadoras com a responsabilidade transferida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entidades empregadoras com a responsabilidade transferida\n\nAs entidades empregadoras que tenham transferido a sua responsabilidade devem participar à empresa de seguros a ocorrência do acidente, nos termos estabelecidos na apólice."
+  },
+  "221827685": {
+   "fragment_id": "221827619",
+   "type": 11,
+   "heading": "Artigo 16.º — Entidades empregadoras sem responsabilidade transferida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entidades empregadoras sem responsabilidade transferida\n\n1 - As entidades empregadoras cuja responsabilidade não esteja garantida na forma legal devem participar o acidente ao tribunal competente, por escrito, independentemente de qualquer apreciação das condições legais da reparação.\n\n2 - O prazo para a participação é de oito dias contados a partir da data do acidente ou do seu conhecimento.\n\n3 - Nos casos de morte, o acidente deverá ser participado de imediato ao tribunal competente, por telecópia ou outra via com o mesmo efeito de registo escrito de mensagens, sem prejuízo do disposto nos números anteriores.\n\n4 - Sempre que as entidades empregadoras estejam impossibilitadas de dar cumprimento às obrigações impostas nos números anteriores, cumpri-las-ão os responsáveis pela direcção do trabalho."
+  },
+  "221827686": {
+   "fragment_id": "221827620",
+   "type": 11,
+   "heading": "Artigo 17.º — Trabalho a bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Trabalho a bordo\n\n1 - Sem prejuízo de outras notificações previstas em legislação especial, sendo o sinistrado inscrito marítimo, a participação deve ser feita ao órgão local do sistema de autoridade marítima do porto do território nacional onde o acidente ocorreu.\n\n2 - Se, porém, o acidente sucedeu a bordo de navio português, no alto mar ou no estrangeiro, a participação será feita ao órgão local do sistema de autoridade marítima do primeiro porto nacional escalado após o acidente.\n\n3 - As participações previstas nos números anteriores serão efectuadas no prazo de dois dias a contar da data do acidente ou da chegada do navio e remetidas imediatamente ao tribunal competente pelo órgão local do sistema de autoridade marítima, se a responsabilidade não estiver transferida para empresa de seguros ou se do acidente tiver resultado a morte, e à empresa de seguros nos restantes casos."
+  },
+  "221827687": {
+   "fragment_id": "221827621",
+   "type": 11,
+   "heading": "Artigo 18.º — Empresas de seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Empresas de seguros\n\n1 - As empresas de seguros participam ao tribunal competente, por escrito, no prazo de oito dias a contar da cura clínica, os acidentes de que tenha resultado incapacidade permanente e, imediatamente e por telecópia ou outra via com o mesmo efeito de registo escrito de mensagens, aqueles de que tenha resultado a morte.\n\n2 - A participação por telecópia ou outra via com o mesmo efeito de registo de mensagens não dispensa a participação formal, que deve ser feita no prazo de oito dias contados do falecimento.\n\n3 - As empresas de seguros participam ainda ao tribunal competente, por escrito, no prazo de oito dias a contar da sua verificação, todos os casos de incapacidades temporárias que ultrapassem 12 meses."
+  },
+  "221827688": {
+   "fragment_id": "221827622",
+   "type": 11,
+   "heading": "Artigo 19.º — Faculdade de participação a tribunal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Faculdade de participação a tribunal\n\nA participação do acidente ao tribunal competente pode ser feita:\n\na) Pelo sinistrado, directamente ou por interposta pessoa;\n\nb) Pelos familiares do sinistrado;\n\nc) Por qualquer entidade com direito a receber o valor de prestações;\n\nd) Pela autoridade que tenha tomado conhecimento do acidente, sendo o sinistrado um incapaz;\n\ne) Pelo director do estabelecimento hospitalar, assistencial ou prisional onde o sinistrado esteja internado, tendo o acidente ocorrido ao serviço de outra entidade."
+  },
+  "221827689": {
+   "fragment_id": "221827623",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação obrigatória em caso de morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comunicação obrigatória em caso de morte\n\n1 - Os directores de estabelecimentos hospitalares, assistenciais ou prisionais devem comunicar de imediato ao tribunal competente, por telecópia ou outra via com o mesmo efeito de registo de mensagens, o falecimento, em consequência de acidente, de algum trabalhador ali internado.\n\n2 - Igual obrigação tem qualquer outra pessoa ou entidade a cujo cuidado o sinistrado estiver."
+  },
+  "221827690": {
+   "fragment_id": "221827624",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições comuns\n\nAs participações dos acidentes aos tribunais são feitas em duplicado e acompanhadas dos boletins dos exames médicos a que o sinistrado foi submetido."
+  },
+  "221827691": {
+   "fragment_id": "221827625",
+   "type": 11,
+   "heading": "Artigo 22.º — Estatísticas de acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estatísticas de acidentes\n\nSem prejuízo do regime do Decreto-Lei n.º 362/93, de 15 de Outubro, o ISP pode estabelecer estatísticas específicas destinadas ao controlo e supervisão dos riscos profissionais."
+  },
+  "221827692": {
+   "fragment_id": "221827626",
+   "type": 1,
+   "heading": "Capítulo III — Reparação do acidente de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Reparação do acidente de trabalho"
+  },
+  "221827693": {
+   "fragment_id": "221827627",
+   "type": 8,
+   "heading": "Secção I — Prestações em espécie",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Prestações em espécie"
+  },
+  "221827694": {
+   "fragment_id": "221827628",
+   "type": 11,
+   "heading": "Artigo 23.º — Modalidades das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Modalidades das prestações\n\n1 - As prestações em espécie previstas na alínea a) do artigo 10.º da lei têm por modalidades:\n\na) Assistência médica e cirúrgica, geral ou especializada, incluindo todos os necessários elementos de diagnóstico e de tratamento;\n\nb) Assistência farmacêutica;\n\nc) Enfermagem;\n\nd) Hospitalização e tratamentos termais;\n\ne) Hospedagem;\n\nf) Transportes para observação, tratamento ou comparência a actos judiciais;\n\ng) Fornecimento de aparelhos de prótese, ortótese e ortopedia, sua renovação e reparação;\n\nh) Reabilitação funcional.\n\n2 - A assistência a que se refere a alínea a) do número anterior inclui a assistência psíquica, quando reconhecida como necessária pelo médico assistente."
+  },
+  "221827695": {
+   "fragment_id": "221827629",
+   "type": 11,
+   "heading": "Artigo 24.º — Primeiros socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Primeiros socorros\n\n1 - As entidades empregadoras ou quem as represente na direcção ou fiscalização do trabalho devem, logo que tenham conhecimento do acidente, assegurar os imediatos e indispensáveis socorros médicos e farmacêuticos ao sinistrado, bem como o transporte mais adequado para tais efeitos.\n\n2 - O transporte e socorros referidos no número anterior são prestados independentemente de qualquer apreciação das condições legais da reparação."
+  },
+  "221827696": {
+   "fragment_id": "221827630",
+   "type": 11,
+   "heading": "Artigo 25.º — Lugar de prestação da assistência clínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Lugar de prestação da assistência clínica\n\n1 - A assistência clínica deve ser prestada na localidade onde o sinistrado residir ou na sua própria habitação, se tal for indispensável.\n\n2 - Essa assistência pode, no entanto, ser prestada em qualquer outro local por determinação do médico assistente ou mediante acordo entre o sinistrado e a entidade responsável."
+  },
+  "221827697": {
+   "fragment_id": "221827631",
+   "type": 11,
+   "heading": "Artigo 26.º — Médico assistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Médico assistente\n\n1 - A entidade responsável tem o direito de designar o médico assistente do sinistrado.\n\n2 - O sinistrado poderá, no entanto, recorrer a qualquer médico nos seguintes casos:\n\na) Se a entidade empregadora ou quem a represente não se encontrar no local do acidente e houver urgência nos socorros;\n\nb) Se a entidade responsável não nomear médico assistente ou enquanto o não fizer;\n\nc) Se a entidade responsável renunciar ao direito de escolher o médico assistente;\n\nd) Se lhe for dada alta sem estar curado, devendo, neste caso, requerer exame pelo perito do tribunal.\n\n3 - Enquanto não houver médico assistente designado, será como tal considerado, para todos os efeitos legais, o médico que tratar o sinistrado."
+  },
+  "221827698": {
+   "fragment_id": "221827632",
+   "type": 11,
+   "heading": "Artigo 27.º — Dever de assistência clínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Dever de assistência clínica\n\nNenhum médico pode negar-se a prestar assistência clínica a sinistrados do trabalho, quando solicitada pelas entidades responsáveis ou pelos próprios sinistrados, nos casos em que lhes é permitida a escolha do médico assistente."
+  },
+  "221827699": {
+   "fragment_id": "221827633",
+   "type": 11,
+   "heading": "Artigo 28.º — Substituição legal do médico assistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Substituição legal do médico assistente\n\n1 - Durante o internamento em hospital, o médico assistente será substituído nas suas funções pelos médicos do mesmo hospital, embora com o direito de acompanhar o tratamento do sinistrado, conforme os respectivos regulamentos internos ou, na falta ou insuficiência destes, segundo as determinações do director clínico.\n\n2 - Para efeitos do disposto no número anterior, o «direito de acompanhar o tratamento do sinistrado» contempla, nomeadamente, a faculdade de o médico assistente ter acesso a toda a documentação clínica respeitante ao sinistrado em poder do estabelecimento hospitalar."
+  },
+  "221827700": {
+   "fragment_id": "221827634",
+   "type": 11,
+   "heading": "Artigo 29.º — Escolha do médico operador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Escolha do médico operador\n\nO sinistrado pode escolher o médico que o deva operar nos casos de cirurgia de alto risco e naqueles em que, como consequência da operação, possa correr perigo a sua vida."
+  },
+  "221827701": {
+   "fragment_id": "221827635",
+   "type": 11,
+   "heading": "Artigo 30.º — Contestação das resoluções do médico assistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Contestação das resoluções do médico assistente\n\nO sinistrado ou a entidade responsável têm o direito de não se conformar com as resoluções do médico assistente ou de quem legalmente o substituir."
+  },
+  "221827702": {
+   "fragment_id": "221827636",
+   "type": 11,
+   "heading": "Artigo 31.º — Solução de divergências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Solução de divergências\n\n1 - Quaisquer divergências sobre as matérias reguladas nos artigos 28.º, 29.º e 30.º do presente diploma podem ser resolvidas por simples conferência de médicos, da iniciativa do sinistrado, da entidade responsável ou do médico assistente, bem como do substituto legal deste.\n\n2 - Se as divergências não forem resolvidas nos termos do número anterior, sê-lo-ão:\n\na) Havendo internamento hospitalar, pelo respectivo director clínico ou pelo médico que o deva substituir, se ele for o médico assistente;\n\nb) Não havendo internamento hospitalar, pelo perito médico do tribunal do trabalho da área onde o sinistrado se encontrar, por determinação do Ministério Público, a solicitação de qualquer dos interessados.\n\n3 - As resoluções dos médicos referidos nas alíneas do número anterior devem ficar a constar de documento escrito e delas podem os interessados reclamar, mediante requerimento fundamentado, para o juiz do mencionado tribunal do trabalho, que decidirá definitivamente.\n\n4 - Nos casos previstos na alínea b) do n.º 2 e no n.º 3, se vier a ter lugar processo emergente de acidente de trabalho, é o processado apenso a este."
+  },
+  "221827703": {
+   "fragment_id": "221827637",
+   "type": 11,
+   "heading": "Artigo 32.º — Boletins de exame e alta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Boletins de exame e alta\n\n1 - No começo do tratamento do sinistrado o médico assistente emite um boletim de exame, em que descreverá as doenças ou lesões que lhe encontrar e a sintomatologia apresentada com descrição pormenorizada das lesões referidas pelo mesmo como resultantes do acidente.\n\n2 - Quando terminar o tratamento do sinistrado, quer por este se encontrar curado ou em condições de trabalhar, quer por qualquer outro motivo, o médico assistente emitirá um boletim de alta, em que declare a causa da cessação do tratamento e o grau de incapacidade permanente ou temporária, bem como as razões justificativas das suas conclusões.\n\n3 - Os boletins a que se referem os números anteriores são emitidos em triplicado o de exame e em duplicado o da alta.\n\n4 - No prazo de 30 dias após a realização dos actos é entregue um exemplar do boletim ao sinistrado e remetido ao tribunal, se for caso disso, bem como enviado o terceiro exemplar do boletim de exame à entidade responsável.\n\n5 - Tratando-se, porém, de sinistrados a cargo de empresas de seguros ou de alguma das entidades mencionadas no artigo 59.º, a remessa do boletim a juízo apenas será efectuada quando haja de se proceder a exame médico, quando o tribunal o requisite ou tenha de acompanhar a participação do acidente."
+  },
+  "221827704": {
+   "fragment_id": "221827638",
+   "type": 11,
+   "heading": "Artigo 33.º — Requisição pelo tribunal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Requisição pelo tribunal\n\nAs entidades responsáveis, os estabelecimentos hospitalares, os serviços competentes da segurança social e os médicos são obrigados a fornecer aos tribunais do trabalho todos os esclarecimentos e documentos que lhes sejam requisitados relativos a observações e tratamentos feitos a sinistrados ou por qualquer outro modo relacionados com o acidente."
+  },
+  "221827705": {
+   "fragment_id": "221827639",
+   "type": 11,
+   "heading": "Artigo 34.º — Hospitalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Hospitalização\n\n1 - As entidades responsáveis devem assinar termo de responsabilidade para garantia do pagamento das despesas com o internamento e os tratamentos previstos na alínea a) do artigo 10.º da lei.\n\n2 - Se aquelas entidades se recusarem a assinar o termo de responsabilidade, não poderão, com esse fundamento, ser negados o tratamento ou o internamento dos sinistrados, sempre que a gravidade do seu estado os imponha imediatamente.\n\n3 - Nos casos previstos no número anterior os estabelecimentos hospitalares devem juntar ao respectivo processo a nota das despesas efectuadas para efeito de pagamento.\n\n4 - O estabelecimento hospitalar que, injustificadamente, deixar de cumprir as obrigações do tratamento ou do internamento urgentes referidos no n.º 2 será responsável pelo agravamento das lesões do sinistrado, reconhecido judicialmente como consequência de tais factos."
+  },
+  "221827706": {
+   "fragment_id": "221827640",
+   "type": 11,
+   "heading": "Artigo 35.º — Transportes e estada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transportes e estada\n\n1 - Os transportes que os sinistrados por direito devem utilizar são os colectivos, salvo não os havendo ou se outros forem mais indicados pela urgência do tratamento, por determinação do médico assistente ou por outras razões ponderosas atendíveis.\n\n2 - As categorias e classes da estada devem ajustar-se às prescrições dos médicos assistentes ou dos clínicos que em tribunal derem parecer.\n\n3 - Sem prejuízo do disposto no número anterior, as entidades responsáveis só são obrigadas a despender o menor custo das prestações ali indicadas que obedeçam às condições de comodidade impostas pela natureza da lesão.\n\n4 - Para os efeitos do disposto no artigo 15.º da lei, devem as entidades responsáveis assumir previamente, perante os fornecedores de transporte e estada, a responsabilidade pelo pagamento das despesas ou adiantar a sua importância."
+  },
+  "221827707": {
+   "fragment_id": "221827641",
+   "type": 11,
+   "heading": "Artigo 36.º — Aparelhos de prótese, ortótese e ortopedia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Aparelhos de prótese, ortótese e ortopedia\n\n1 - Os aparelhos de prótese, ortótese e ortopedia devem ser, em cada caso, os considerados adequados ao fim a que se destinam pelo médico assistente.\n\n2 - O direito aos aparelhos de prótese, ortótese e ortopedia abrange os destinados à correcção ou compensação visual, auditiva ou outra, bem como a prótese dentária.\n\n3 - Quando houver divergências sobre a natureza, qualidade ou adequação de aparelhos de prótese, ortótese e ortopedia ou sobre a obrigatoriedade ou necessidade da sua renovação ou reparação, deve solicitar-se o parecer de serviços competentes em matérias de reabilitação profissional."
+  },
+  "221827708": {
+   "fragment_id": "221827642",
+   "type": 11,
+   "heading": "Artigo 37.º — Opção do sinistrado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Opção do sinistrado\n\n1 - Os sinistrados podem optar pela importância correspondente ao valor dos aparelhos de prótese, ortótese e ortopedia indicados pelo médico assistente ou pelo tribunal, quando pretendam adquirir aparelhos de custo superior.\n\n2 - No caso previsto no número anterior a entidade responsável depositará a referida importância à ordem do juiz, no prazo que este fixar, para ser paga à entidade fornecedora depois de verificada a aplicação do aparelho."
+  },
+  "221827709": {
+   "fragment_id": "221827643",
+   "type": 11,
+   "heading": "Artigo 38.º — Renovação de aparelhagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Renovação de aparelhagem\n\n1 - Sempre que um acidente de trabalho inutilize ou danifique o aparelho de prótese, ortótese ou ortopedia de que o sinistrado já era portador:\n\na) Ficam a cargo da entidade responsável por aquele acidente as despesas necessárias à renovação ou reparação do mencionado aparelho;\n\nb) Há lugar, se for caso disso, a pagamento de indemnização correspondente à incapacidade daí resultante.\n\n2 - Tratando-se de renovação, o respectivo encargo não será superior ao custo de novo aparelho igual ao inutilizado, salvo se existir outro aparelho mais adequado.\n\n3 - As despesas de reparação ou substituição de aparelhos de prótese, ortótese e ortopedia usados por força de acidente de trabalho e deteriorados em consequência de uso ou desgaste normais ficam a cargo da entidade responsável pelo acidente que determinou a respectiva utilização."
+  },
+  "221827710": {
+   "fragment_id": "221827644",
+   "type": 11,
+   "heading": "Artigo 39.º — Notificação judicial e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Notificação judicial e execução\n\n1 - Se a entidade responsável, injustificadamente, recusar ou protelar o fornecimento, renovação ou reparação dos aparelhos de prótese, ortótese e ortopedia ou não efectuar o depósito referido no n.º 2 do artigo 37.º, o juiz mandará notificar aquela entidade para, no prazo de 10 dias, depositar à sua ordem a importância que for devida.\n\n2 - Caso o responsável não cumpra o disposto no número anterior, será executado para o pagamento do valor de depósito, seguindo-se os termos da execução baseada em sentença de condenação em quantia certa.\n\n3 - Pelo produto da execução pagará o tribunal as despesas da prótese, ortótese ou ortopedia à entidade que forneceu ou reparou os respectivos aparelhos, depois de verificada a sua correcta aplicação."
+  },
+  "221827711": {
+   "fragment_id": "221827645",
+   "type": 11,
+   "heading": "Artigo 40.º — Perda do direito a renovação ou reparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Perda do direito a renovação ou reparação\n\nOs sinistrados perdem o direito à renovação ou reparação dos aparelhos de prótese, ortótese e ortopedia que se deteriorem ou inutilizem devido a negligência grosseira da sua parte."
+  },
+  "221827712": {
+   "fragment_id": "221827646",
+   "type": 8,
+   "heading": "Secção II — Prestações em dinheiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Prestações em dinheiro"
+  },
+  "221827713": {
+   "fragment_id": "221827647",
+   "type": 11,
+   "heading": "Artigo 41.º — Avaliação da incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Avaliação da incapacidade\n\n1 - O grau de incapacidade resultante do acidente é expresso em coeficientes determinados em função do disposto na tabela nacional de incapacidades em vigor à data do acidente.\n\n2 - Sempre que haja lugar à aplicação do disposto na alínea b) do n.º 1 do artigo 17.º e no n.º 1 do artigo 19.º da lei, o juiz pode requisitar o parecer prévio de peritos especializados, designadamente do Ministério do Trabalho e da Solidariedade."
+  },
+  "221827714": {
+   "fragment_id": "221827648",
+   "type": 11,
+   "heading": "Artigo 42.º — Conversão da incapacidade temporária em permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Conversão da incapacidade temporária em permanente\n\n1 - A incapacidade temporária converte-se em permanente decorridos 18 meses consecutivos, devendo o perito médico do tribunal reavaliar o respectivo grau de incapacidade.\n\n2 - Verificando-se que ao sinistrado está a ser prestado o tratamento clínico necessário, pode o Ministério Público prorrogar até ao máximo de 30 meses, a requerimento da entidade responsável, o prazo fixado no número anterior."
+  },
+  "221827715": {
+   "fragment_id": "221827649",
+   "type": 11,
+   "heading": "Artigo 43.º — Modo de fixação das pensões por incapacidade e indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Modo de fixação das pensões por incapacidade e indemnizações\n\n1 - As pensões respeitantes a incapacidade permanente são fixadas em montante anual.\n\n2 - As indemnizações por incapacidades temporárias são pagas em relação a todos os dias, incluindo os de descanso e feriados.\n\n3 - Nas incapacidades temporárias superiores a 15 dias é paga a parte proporcional correspondente aos subsídios de férias e de Natal, determinada em função da percentagem da prestação prevista nas alíneas e) e f) do n.º 1 do artigo 17.º da lei."
+  },
+  "221827716": {
+   "fragment_id": "221827650",
+   "type": 11,
+   "heading": "Artigo 44.º — Trabalho a tempo parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Trabalho a tempo parcial\n\nO cálculo das prestações para trabalhadores a tempo parcial tem como base a retribuição que aufeririam se trabalhassem a tempo inteiro."
+  },
+  "221827717": {
+   "fragment_id": "221827651",
+   "type": 11,
+   "heading": "Artigo 45.º — Familiar a cargo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Familiar a cargo\n\n1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 17.º da lei, considera-se familiar a cargo do sinistrado, desde que com ele viva em comunhão de mesa e habitação:\n\na) Os descendentes solteiros;\n\nb) Os descendentes casados, bem como os separados de pessoas e bens, divorciados e viúvos, com rendimentos mensais inferiores ao dobro da pensão social ou ao valor desta, respectivamente;\n\nc) Os ascendentes com rendimentos mensais inferiores ao valor da pensão social ou ao dobro deste valor, tratando-se de casal.\n\n2 - São equiparados a descendentes do sinistrado, para efeitos do disposto no número anterior:\n\na) Os enteados;\n\nb) Os tutelados;\n\nc) Os adoptados restritamente;\n\nd) Os menores que, mediante confiança judicial ou administrativa, se encontrem a seu cargo com vista a futura adopção;\n\ne) Os menores que lhe estejam confiados por decisão dos tribunais ou de entidades ou serviços legalmente competentes para o efeito.\n\n3 - São equiparados a ascendentes do sinistrado, para efeitos do disposto no n.º 1:\n\na) Os padrastos e madrastas;\n\nb) Os adoptantes restritivamente;\n\nc) Os afins compreendidos na linha recta ascendente.\n\n4 - A pedido da entidade responsável, os beneficiários deverão fazer prova anual da manutenção dos requisitos que lhes conferem o direito à pensão, sob pena de o respectivo pagamento ser suspenso 60 dias após a data do pedido, sendo admitidos os tipos de prova que vierem a ser regulamentados por norma do ISP, cujos custos, caso existam, serão suportados pela entidade responsável."
+  },
+  "221827718": {
+   "fragment_id": "221827652",
+   "type": 11,
+   "heading": "Artigo 46.º — Suspensão ou redução das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Suspensão ou redução das pensões\n\nAs pensões por incapacidade permanente não podem ser suspensas ou reduzidas, mesmo que o sinistrado venha a auferir retribuição superior à que tinha antes do acidente, salvo em consequência da revisão prevista no artigo 25.º da lei, e são cumulativas com quaisquer outras."
+  },
+  "221827719": {
+   "fragment_id": "221827653",
+   "type": 11,
+   "heading": "Artigo 47.º — Modo de fixação da pensão provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Modo de fixação da pensão provisória\n\n1 - Sem prejuízo do disposto no Código de Processo do Trabalho, a pensão provisória a que se refere o n.º 5 do artigo 17.º da lei, por incapacidade permanente igual ou superior a 30%, é atribuída pela entidade responsável e calculada nos termos do n.º 1 do artigo 17.º da lei, com base na desvalorização definida pelo médico assistente e na retribuição garantida.\n\n2 - A pensão provisória a que se refere o n.º 5 do artigo 17.º da lei, por incapacidade permanente inferior a 30%, é atribuída pela entidade responsável e calculada nos termos da alínea f) do n.º 1 do mesmo artigo, com base na desvalorização definida pelo médico assistente e na retribuição garantida.\n\n3 - Os montantes pagos nos termos dos números anteriores serão considerados aquando da fixação final dos respectivos direitos."
+  },
+  "221827720": {
+   "fragment_id": "221827654",
+   "type": 11,
+   "heading": "Artigo 48.º — Prestação suplementar à pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Prestação suplementar à pensão\n\n1 - Sempre que a prestação suplementar prevista no artigo 19.º da lei se suspender nas condições previstas no n.º 2 do mesmo artigo, a entidade responsável deverá suportar os encargos inerentes à eventual resolução do contrato de trabalho estabelecido com a pessoa que presta assistência.\n\n2 - Sempre que o médico assistente entender que o sinistrado não pode dispensar a assistência de uma terceira pessoa, ser-lhe-á atribuída, a partir do dia seguinte ao da alta, uma prestação suplementar provisória equivalente ao montante da remuneração mínima garantida para os trabalhadores do serviço doméstico.\n\n3 - Os montantes pagos nos termos do número anterior serão considerados aquando da fixação final dos respectivos direitos."
+  },
+  "221827721": {
+   "fragment_id": "221827655",
+   "type": 11,
+   "heading": "Artigo 49.º — Pensões por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Pensões por morte\n\n1 - As pensões por morte são fixadas em montante anual.\n\n2 - Para efeitos do disposto no artigo 20.º da lei, são consideradas uniões de facto as que preencham os requisitos do artigo 2020.º do Código Civil.\n\n3 - A pedido da entidade responsável, o beneficiário referido no número anterior deverá fazer prova anual da manutenção dos requisitos que lhe conferem o direito à pensão, nos termos e com os efeitos previstos no n.º 4 do artigo 45.º\n\n4 - Consideram-se sensivelmente afectados na sua capacidade de trabalho, para os fins previstos no artigo 20.º da lei, os beneficiários legais do sinistrado que sofram de doença física ou mental que lhes reduza definitivamente a sua capacidade geral de ganho em mais de 75%.\n\n5 - Tem-se por definitiva a incapacidade de ganho mencionada no número anterior quando seja de presumir que a doença não terá evolução favorável nos três anos subsequentes à data do seu reconhecimento.\n\n6 - Surgindo dúvidas sobre a incapacidade referida nos números antecedentes, será esta fixada pelo tribunal.\n\n7 - As pensões por morte começam a vencer-se no dia seguinte ao do falecimento do sinistrado, inclusive as referentes aos nascituros, e são cumulativas com quaisquer outras."
+  },
+  "221827722": {
+   "fragment_id": "221827656",
+   "type": 11,
+   "heading": "Artigo 50.º — Reparação por despesas de funeral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Reparação por despesas de funeral\n\n1 - As despesas de funeral são pagas a quem provar tê-las suportado.\n\n2 - O prazo para requerer o subsídio por despesas de funeral é de um ano a partir da realização da respectiva despesa."
+  },
+  "221827723": {
+   "fragment_id": "221827657",
+   "type": 11,
+   "heading": "Artigo 51.º — Pagamento das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Pagamento das prestações\n\n1 - As pensões anuais são pagas, adiantada e mensalmente, até ao 3.º dia de cada mês, correspondendo cada prestação a 1/14 da pensão anual.\n\n2 - Os subsídios de férias e de Natal, no valor de 1/14 cada da pensão anual, são, respectivamente, pagos nos meses de Maio e de Novembro.\n\n3 - As indemnizações por incapacidades temporárias são pagas quinzenalmente.\n\n4 - Os interessados podem, por acordo, estipular que o pagamento seja efectuado de forma diferente da indicada nos números anteriores."
+  },
+  "221827724": {
+   "fragment_id": "221827658",
+   "type": 11,
+   "heading": "Artigo 52.º — Dedução do acréscimo de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Dedução do acréscimo de despesas\n\nQuando a pedido do sinistrado ou dos beneficiários legais tiver sido acordado, para o pagamento das prestações, lugar diferente do da residência daqueles, a entidade responsável poderá deduzir no montante das mesmas prestações o acréscimo das despesas daí resultantes."
+  },
+  "221827725": {
+   "fragment_id": "221827659",
+   "type": 11,
+   "heading": "Artigo 53.º — Requisito formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Requisito formal\n\nO acordo sobre a escolha do lugar ou forma do pagamento só é válido se revestir a forma escrita."
+  },
+  "221827726": {
+   "fragment_id": "221827660",
+   "type": 1,
+   "heading": "Capítulo IV — Ocupação de trabalhadores sinistrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Ocupação de trabalhadores sinistrados"
+  },
+  "221827727": {
+   "fragment_id": "221827661",
+   "type": 11,
+   "heading": "Artigo 54.º — Ocupação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Ocupação obrigatória\n\n1 - As entidades empregadoras que empreguem pelo menos 10 trabalhadores são obrigadas a ocupar, em funções e condições de trabalho compatíveis com o respectivo estado, os sinistrados de acidentes ao seu serviço, ainda que a título de contrato a termo e mesmo para além desse termo, quando afectados de incapacidade temporária de coeficiente não superior a 50%.\n\n2 - Cessa a obrigação prevista no número anterior quando o sinistrado não se apresentar à entidade empregadora dentro de 10 dias após a fixação da incapacidade, no caso de a ausência não ser devidamente justificada.\n\n3 - A entidade empregadora que não cumprir o disposto no n.º 1, e sem prejuízo de outras prestações que por lei forem devidas, pagará ao sinistrado a retribuição que lhe competiria nos termos da segunda parte do n.º 1 do artigo 30.º da lei, salvo se o contrato tiver sido rescindido."
+  },
+  "221827728": {
+   "fragment_id": "221827662",
+   "type": 11,
+   "heading": "Artigo 55.º — Parecer técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Parecer técnico\n\nQuando houver necessidade de esclarecer quaisquer dúvidas sobre as incapacidades referidas no artigo 54.º deste diploma ou sobre o emprego dos incapacitados em funções compatíveis com o seu estado, poderá ser solicitado o parecer de peritos especializados, designadamente do Ministério do Trabalho e da Solidariedade."
+  },
+  "221827729": {
+   "fragment_id": "221827663",
+   "type": 1,
+   "heading": "Capítulo V — Remição de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Remição de pensões"
+  },
+  "221827730": {
+   "fragment_id": "221827664",
+   "type": 11,
+   "heading": "Artigo 56.º — Condições de remição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Condições de remição\n\n1 - São obrigatoriamente remidas as pensões anuais:\n\na) Devidas a sinistrados e a beneficiários legais de pensões vitalícias que não sejam superiores a seis vezes a remuneração mínima mensal garantida mais elevada à data da fixação da pensão;\n\nb) Devidas a sinistrados, independentemente do valor da pensão anual, por incapacidade permanente e parcial inferior a 30%.\n\n2 - Podem ser parcialmente remidas, a requerimento dos pensionistas ou das entidades responsáveis e com autorização do tribunal competente, as pensões anuais vitalícias correspondentes a incapacidade igual ou superior a 30% ou as pensões anuais vitalícias de beneficiários em caso de morte, desde que cumulativamente respeitem os seguintes limites:\n\na) A pensão sobrante não pode ser inferior a seis vezes a remuneração mínima mensal garantida mais elevada;\n\nb) O capital de remição não pode ser superior ao que resultaria de uma pensão calculada com base numa incapacidade de 30%."
+  },
+  "221827731": {
+   "fragment_id": "221827665",
+   "type": 11,
+   "heading": "Artigo 57.º — Cálculo do capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Cálculo do capital\n\nSerão fixadas por portaria do Ministro das Finanças as bases técnicas aplicáveis ao cálculo do capital de remição das pensões, bem como as tabelas práticas de cálculo dos capitais de remição."
+  },
+  "221827732": {
+   "fragment_id": "221827666",
+   "type": 11,
+   "heading": "Artigo 58.º — Direitos não afectados pela remição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Direitos não afectados pela remição\n\nA remição não prejudica:\n\na) O direito às prestações em espécie;\n\nb) O direito de o sinistrado requerer a revisão da sua pensão;\n\nc) Os direitos atribuídos aos beneficiários legais do sinistrado, se este vier a falecer em consequência do acidente;\n\nd) A actualização da pensão remanescente no caso de remição parcial ou resultante de revisão de pensão, nos termos da lei."
+  },
+  "221827733": {
+   "fragment_id": "221827667",
+   "type": 1,
+   "heading": "Capítulo VI — Cobertura dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Cobertura dos riscos"
+  },
+  "221827734": {
+   "fragment_id": "221827668",
+   "type": 8,
+   "heading": "Secção I — Transferência de responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Transferência de responsabilidades"
+  },
+  "221827735": {
+   "fragment_id": "221827669",
+   "type": 11,
+   "heading": "Artigo 59.º — Dispensa de transferência de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Dispensa de transferência de responsabilidade\n\nAs obrigações impostas pelo artigo 37.º da lei não abrangem a administração central, local e as demais entidades na medida em que os respectivos funcionários sejam abrangidos pelo regime de acidentes em serviço ou outro regime legal com o mesmo âmbito."
+  },
+  "221827736": {
+   "fragment_id": "221827670",
+   "type": 11,
+   "heading": "Artigo 60.º — Riscos recusados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Riscos recusados\n\n1 - O ISP estabelecerá por norma regulamentar as disposições relativas à colocação dos riscos recusados pelas empresas de seguros.\n\n2 - O fundo a que se refere o artigo 39.º da lei pode ressegurar e retroceder os riscos recusados.\n\n3 - Relativamente aos riscos recusados, o ISP pode requerer das entidades competentes certificados de conformidade com as regras de segurança em vigor."
+  },
+  "221827737": {
+   "fragment_id": "221827671",
+   "type": 8,
+   "heading": "Secção II — Caucionamento de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Caucionamento de pensões"
+  },
+  "221827738": {
+   "fragment_id": "221827672",
+   "type": 11,
+   "heading": "Artigo 61.º — Obrigação do caucionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Obrigação do caucionamento\n\n1 - As entidades empregadoras são obrigadas a caucionar o pagamento das pensões de acidentes de trabalho em que tenham sido condenadas, ou a que se tenham obrigado por acordo homologado, quando não haja ou seja insuficiente o seguro, salvo se celebrarem junto de uma empresa de seguros um contrato específico de seguro de pensões.\n\n2 - A caução pode ser feita por depósito de numerário, títulos da dívida pública, por afectação ou hipoteca de imóveis ou garantia bancária.\n\n3 - Os caucionamentos são feitos à ordem do juiz do tribunal do trabalho respectivo, ou a seu favor, nos prazos que ele designar.\n\n4 - Os títulos da dívida pública são avaliados, para efeitos de caucionamento, pela última cotação na bolsa e os imóveis e empréstimos hipotecários pelo valor matricial corrigido dos respectivos prédios, competindo ao Ministério Público apreciar e dar parecer sobre a idoneidade dos caucionamentos.\n\n5 - Serão obrigatoriamente seguros contra incêndio os imóveis sujeitos a este risco.\n\n6 - Sempre que se verifique que os caucionamentos são insuficientes, deverão eles ser reforçados, observando-se analogamente as disposições anteriores."
+  },
+  "221827739": {
+   "fragment_id": "221827673",
+   "type": 11,
+   "heading": "Artigo 62.º — Intervenção do ISP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Intervenção do ISP\n\n1 - Compete ao ISP determinar o valor dos caucionamentos das pensões, quando não exista ou seja insuficiente o seguro das responsabilidades das entidades empregadoras.\n\n2 - Compete igualmente ao ISP dar parecer sobre a transferência de responsabilidade das pensões de acidentes de trabalho para as empresas de seguros.\n\n3 - Os valores de caucionamento das pensões são calculados de acordo com as tabelas práticas a que se refere o artigo 57.º, acrescidas de 10%."
+  },
+  "221827740": {
+   "fragment_id": "221827674",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições complementares"
+  },
+  "221827741": {
+   "fragment_id": "221827775",
+   "type": 11,
+   "heading": "Artigo 63.º — Formulários obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Formulários obrigatórios\n\n1 - As participações, os boletins de exame e alta e os outros formulários referidos neste diploma, que poderão ser impressos por meios informáticos, obedecem aos modelos aprovados oficialmente, devendo ser rigorosa e integralmente preenchidos e assinados, de forma indelével e facilmente legível.\n\n2 - O não cumprimento do disposto no número anterior equivale à falta de tais documentos, podendo ainda o tribunal ordenar a sua substituição."
+  },
+  "221827742": {
+   "fragment_id": "221827776",
+   "type": 11,
+   "heading": "Artigo 64.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Isenções\n\n1 - Estão isentos de emolumentos, custas e taxas todos os documentos necessários ao cumprimento da lei e seus regulamentos, independentemente da respectiva natureza e da repartição por onde forem passados ou hajam de transitar para sua legalização.\n\n2 - As isenções compreendidas no número anterior não abrangem a constituição de mandatário judicial."
+  },
+  "221827743": {
+   "fragment_id": "221827777",
+   "type": 11,
+   "heading": "Artigo 65.º — Representantes das responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Representantes das responsáveis\n\n1 - As empresas de seguros são obrigadas a manter, nas localidades das sedes dos tribunais do trabalho, um representante que possa receber as citações, notificações, avisos e correspondência dos mesmos tribunais.\n\n2 - Para os efeitos referidos no número anterior, não podem exercer a representação os cônjuges ou quem se encontre em situação de união de facto com os magistrados ou funcionários daqueles tribunais, nem os seus parentes ou afins, em qualquer grau da linha recta ou até ao 2.º grau da linha colateral.\n\n3 - Sempre que, durante a fase conciliatória do processo, a tentativa de conciliação for adiada por motivo imputável à empresa de seguros ou a outra entidade responsável, estas terão de se fazer representar, nas tentativas de conciliação seguintes, por mandatário judicial."
+  },
+  "221827744": {
+   "fragment_id": "221827778",
+   "type": 11,
+   "heading": "Artigo 66.º — Afixação e informação obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Afixação e informação obrigatórias\n\n1 - Todas as empresas que tenham normalmente ao seu serviço mais de cinco trabalhadores devem afixar, nos respectivos estabelecimentos e em lugar bem visível, as disposições da lei e dos seus regulamentos referentes às obrigações dos sinistrados e dos responsáveis.\n\n2 - Os recibos de retribuição devem, obrigatoriamente, identificar a empresa de seguros para a qual o risco se encontra transferido à data da sua emissão."
+  },
+  "221827745": {
+   "fragment_id": "221827779",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições contra-ordenacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições contra-ordenacionais"
+  },
+  "221827746": {
+   "fragment_id": "221827780",
+   "type": 11,
+   "heading": "Artigo 67.º — Contra-ordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Contra-ordenações e coimas\n\n1 - Constitui contra-ordenação, punível com coima de 100000$00 a 750000$00 ou 5000000$00, consoante se trate de pessoa singular ou colectiva, a prática dos seguintes actos:\n\na) Incumprimento da obrigação fixada nos artigos 24.º deste diploma e 7.º, n.º 3, da lei;\n\nb) Violação do disposto nos artigos 36.º e 37.º, n.º 1, da lei, incluindo as omissões ou insuficiências nas declarações quanto ao pessoal e às retribuições para não cumprir, com exactidão, o disposto nesta última disposição;\n\nc) Fazer tratar ou internar um sinistrado sem declarar esta situação, para efeitos de se eximir ao pagamento das respectivas despesas;\n\nd) A prática dos actos referidos no artigo 3.º deste diploma.\n\n2 - Constitui contra-ordenação, punível com coima de 50000$00 a 300000$00 ou 1200000$00, consoante se trate de pessoa singular ou colectiva, a infracção ao disposto nos artigos 13.º, 15.º e 30.º da lei, bem como nos artigos 16.º a 18.º, 19.º, alíneas d) e e), 20.º, 27.º, 33.º, 34.º, n.os 1 e 2, 35.º, n.º 4, 54.º, 65.º e 66.º deste diploma."
+  },
+  "221827747": {
+   "fragment_id": "221827781",
+   "type": 11,
+   "heading": "Artigo 68.º — Cumulação de responsabilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Cumulação de responsabilidades\n\nA responsabilidade contra-ordenacional não prejudica eventual responsabilidade civil ou criminal."
+  },
+  "221827748": {
+   "fragment_id": "221827782",
+   "type": 11,
+   "heading": "Artigo 69.º — Processamento e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Processamento e aplicação das coimas\n\nO processamento das contra-ordenações previstas neste diploma bem como a aplicação das correspondentes coimas competem ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, salvo se o agente da infracção for uma entidade sujeita à supervisão do ISP, caso em que aquelas competências lhe são cometidas."
+  },
+  "221827749": {
+   "fragment_id": "221827783",
+   "type": 11,
+   "heading": "Artigo 70.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Produto das coimas\n\nO produto das coimas reverte em 60% para os cofres do Estado e em 40% para o fundo a que se refere o artigo 39.º da lei."
+  },
+  "221827750": {
+   "fragment_id": "221827784",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições transitórias e finais"
+  },
+  "221827751": {
+   "fragment_id": "221827785",
+   "type": 11,
+   "heading": "Artigo 71.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no 1.º dia do 6.º mês seguinte à data da sua publicação.\n\n2 - Dentro do prazo de 60 dias após a publicação do presente diploma no Diário da República o ISP procederá à publicação das apólices uniformes previstas na lei e nesta regulamentação."
+  },
+  "221827752": {
+   "fragment_id": "221827786",
+   "type": 11,
+   "heading": "Artigo 72.º — Disposições subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Disposições subsistentes\n\nA entrada em vigor deste decreto-lei não toma inoperantes:\n\na) As disposições legais actualmente aplicáveis às matérias contidas nos preceitos citados no n.º 2 do artigo 1.º deste diploma, enquanto não for efectuada a sua prevista regulamentação autónoma;\n\nb) Os modelos de declarações, participações e mapas em vigor."
+  },
+  "221827753": {
+   "fragment_id": "221827787",
+   "type": 11,
+   "heading": "Artigo 73.º — Remissão legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Remissão legislativa\n\nSempre que as disposições legais remetam para preceitos revogados pelo novo regime jurídico de reparação dos danos emergentes de acidentes de trabalho, entende-se que a remissão é feita para as correspondentes disposições deste novo regime."
+  },
+  "221827754": {
+   "fragment_id": "221827788",
+   "type": 11,
+   "heading": "Artigo 74.º — Regime transitório de remição das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Regime transitório de remição das pensões\n\nAs remições das pensões, previstas na alínea d) do n.º 1 do artigo 17.º e no artigo 33.º da lei, serão concretizadas gradualmente, nos termos do quadro seguinte:\n\n(ver tabela no documento original)\n\n> Nota: [Acórdão n.º 34/2006 - Diário da República n.º 28/2006, Série I-A de 2006-02-08](https://diariodarepublica.pt/dr/detalhe/acordao/34-2006-554127) Declarada a inconstitucionalidade, com força obrigatória geral, da presente norma, na redacção dada pelo Decreto-Lei n.º 382-A/99, de 22 de Setembro, interpretado no sentido de impor a remição obrigatória total de pensões vitalícias atribuídas por incapacidades parciais permanentes do trabalhador/sinistrado, nos casos em que estas incapacidades excedam 30%, por violação do artigo 59.º, n.º 1, alínea f), da Constituição da República Portuguesa; A declaração da inconstitucionalidade produz efeitos apenas a partir de 08-02-2006, exceptuando nos casos em que a remição da pensão se encontre pendente de impugnação judicial ou seja ainda susceptível dessa impugnação."
+  },
+  "221741064": {
+   "fragment_id": "221827598",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 143/99\n\nde 30 de Abril\n\nDurante um período superior a 30 anos a Lei n.º 2127, de 3 de Agosto de 1965, constituiu a base jurídica da reparação dos acidentes de trabalho e doenças profissionais a que se encontram sujeitos os trabalhadores por conta de outrem.\n\nA revisão desta lei, motivada pelo objectivo de assegurar aos sinistrados condições adequadas de reparação dos danos decorrentes dos acidentes de trabalho e doenças profissionais e pela necessidade de adaptação do regime jurídico à evolução da realidade sócio-laboral e ao desenvolvimento de legislação complementar no âmbito das relações de trabalho, da jurisprudência e das convenções internacionais sobre a matéria, foi concretizada com a publicação da Lei n.º 100/97, de 13 de Setembro.\n\nProsseguindo os mesmos objectivos, o presente decreto-lei visa regulamentar a referida lei, em matéria de reparação aos trabalhadores e seus familiares dos danos emergentes de acidentes de trabalho, sendo objecto de regulamentação autónoma os preceitos relativos a doenças profissionais, trabalhadores independentes, serviços de segurança, higiene e saúde no trabalho, garantia e actualização de pensões e reabilitação.\n\nNo fundamental, prossegue-se, na regulamentação desta lei, a filosofia que lhe esteve subjacente de melhoria do sistema de protecção e de prestações conferidas aos sinistrados em acidentes de trabalho, procurando simultaneamente garantir o equilíbrio e estabilidade do sector segurador para o qual as entidades empregadoras são obrigadas a transferir a responsabilidade pela reparação destes danos.\n\nNo sentido de melhorar o nível das prestações garantidas aos sinistrados, a presente regulamentação desenvolve importantes alterações relativamente ao regime anterior, designadamente:\n\nA revisão da base de cálculo das indemnizações e pensões, que deixam de ser calculadas com base no conceito de retribuição base, passando a ser calculadas com base na retribuição efectivamente auferida pelo sinistrado;\n\nO alargamento do conceito de acidente de trabalho, nomeadamente a cobertura generalizada do risco in itinere, que passa a incluir expressamente as deslocações entre o local de trabalho e o de refeição, assim como os acidentes ocorridos quando o trajecto normal de deslocação do trabalhador relevante para a qualificação do acidente como de trabalho tenha sofrido desvios determinados por necessidades atendíveis do trabalhador;\n\nO alargamento do conceito de familiar a cargo para efeitos de acréscimo do valor da pensão anual e vitalícia paga por incapacidade permanente absoluta para todo e qualquer trabalho;\n\nA remição de pensões de valor reduzido, sem prejuízo de fixação de um regime transitório que permitirá a progressiva adaptação das empresas de seguros, que assim não se confrontarão com um pedido generalizado de remição, com a inerente instabilidade que lhe estaria associada.\n\nA consideração da prestação da assistência psíquica, quando reconhecida como necessária pelo médico assistente, como direito a reparação, e a cobertura pela entidade responsável pelo acidente que determinou a sua utilização das despesas de reparação ou substituição de aparelhos de prótese, ortótese e ortopedia usados por força de acidente de trabalho e deteriorados em consequência do uso ou desgastes normais revelam, também, o nível superior das prestações previstas neste diploma.\n\nPor outro lado, para maior protecção do trabalhador, os recibos de retribuição passam a identificar a empresa de seguros para a qual o risco se encontra transferido à data da sua emissão.\n\nPor último, justificável por razões de celeridade do processo por acidente de trabalho, sempre que durante a fase conciliatória do processo judicial a tentativa de conciliação for adiada por motivo imputável à empresa de seguros ou a outra entidade responsável, estas terão de se fazer representar nas tentativas de conciliação seguintes por mandatário judicial.\n\nForam ouvidos o Instituto de Seguros de Portugal, a Associação Portuguesa de Seguradores, a Associação Nacional dos Deficientes Sinistrados no Trabalho, a Confederação Geral dos Trabalhadores Portugueses, a União Geral de Trabalhadores, o Sindicato dos Trabalhadores de Seguros do Norte, o Sindicato dos Trabalhadores de Seguros do Sul e Regiões Autónomas, a Confederação da Indústria Portuguesa, a Confederação do Comércio e Serviços de Portugal e a Confederação de Agricultores de Portugal.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 100/97, de 13 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "221827757": {
+   "fragment_id": "221827785",
+   "type": 11,
+   "heading": "Artigo 71.º — Entrada em vigor",
+   "in_force_from": "1999-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+   ],
+   "markdown": "###### Artigo 71.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no dia 1 de Janeiro de 2000.\n\n2 - Dentro do prazo de 60 dias após a publicação do presente diploma no Diário da República o ISP procederá à publicação das apólices uniformes previstas na lei e nesta regulamentação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+  },
+  "221827756": {
+   "fragment_id": "221827788",
+   "type": 11,
+   "heading": "Artigo 74.º — Regime transitório de remição das pensões",
+   "in_force_from": "1999-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+   ],
+   "markdown": "###### Artigo 74.º — Regime transitório de remição das pensões\n\nAs remições das pensões, previstas na alínea d) do n.º 1 do artigo 17.º e no artigo 33.º da lei, serão concretizadas gradualmente, nos termos do quadro seguinte:\n\n(ver tabela no documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+  },
+  "221827755": {
+   "fragment_id": "221827789",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - José Eduardo Vera Cruz Jardim - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 15 de Abril de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "221827761": {
+   "fragment_id": "221827599",
+   "type": 1,
+   "heading": "Capítulo I — Dos acidentes de trabalho",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo I — Dos acidentes de trabalho\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827762": {
+   "fragment_id": "221827600",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827763": {
+   "fragment_id": "221827601",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei regulamenta a Lei n.º 100/97, de 13 de Setembro, no que respeita à reparação dos danos emergentes dos acidentes de trabalho.\n\n2 - São objecto de regulamentação autónoma os preceitos da mesma lei referentes a:\n\na) Doenças profissionais (artigo 1.º, n.º 2);\n\nb) Trabalhadores independentes (artigo 3.º);\n\nc) Serviços de segurança, higiene e saúde no trabalho (artigo 12.º);\n\nd) Garantia e actualização de pensões (artigo 39.º);\n\ne) Reabilitação (artigo 40.º).\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827764": {
+   "fragment_id": "221827602",
+   "type": 11,
+   "heading": "Artigo 2.º — Terminologia",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Terminologia\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\na) «Lei»: Lei n.º 100/97, de 13 de Setembro;\n\nb) «Lesão»: lesão, perturbação funcional ou doença, consequente a acidente de trabalho;\n\nc) «Sinistrado»: trabalhador que sofreu um acidente de trabalho;\n\nd) «Responsável» ou «entidade responsável»: entidade à qual é imputável a responsabilidade pelo acidente ou pela sua reparação;\n\ne) «Hospital» ou «estabelecimento hospitalar»: hospital, casa de saúde, casa de repouso ou de convalescença;\n\nf) «Cura clínica»: situação em que as lesões desapareceram totalmente ou se apresentam como insusceptíveis de modificação com terapêutica adequada;\n\ng) «Tribunal competente»: tribunal do trabalho territorialmente competente;\n\nh) «Pessoa colectiva»: pessoa colectiva, sociedade ou mera associação de facto;\n\ni) «ISP»: o Instituto de Seguros de Portugal.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827765": {
+   "fragment_id": "221827603",
+   "type": 11,
+   "heading": "Artigo 3.º — Nulidade dos actos contrários à lei",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Nulidade dos actos contrários à lei\n\nPara efeitos do disposto do n.º 1 do artigo 34.º da lei, presumem-se realizados com o fim de impedir a satisfação dos créditos provenientes do direito à reparação prevista na lei todos os actos do devedor, praticados após a data do acidente ou do diagnóstico inequívoco da doença resultante de acidente de trabalho, que envolvam diminuição da garantia patrimonial desses créditos.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827766": {
+   "fragment_id": "221827604",
+   "type": 11,
+   "heading": "Artigo 4.º — Exploração lucrativa",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Exploração lucrativa\n\nNão se consideram lucrativas, para efeito do disposto na lei e neste regulamento, as actividades cuja produção se destine exclusivamente ao consumo ou utilização do agregado familiar da entidade empregadora.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827767": {
+   "fragment_id": "221827605",
+   "type": 11,
+   "heading": "Artigo 5.º — Contagem de prazos",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Contagem de prazos\n\nOs prazos fixados no presente diploma contam-se nos termos previstos no Código de Processo Civil.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827768": {
+   "fragment_id": "221827606",
+   "type": 8,
+   "heading": "Secção II — Conceito e reparação do acidente de trabalho",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "#### Secção II — Conceito e reparação do acidente de trabalho\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827769": {
+   "fragment_id": "221827607",
+   "type": 11,
+   "heading": "Artigo 6.º — Conceito de acidente de trabalho",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Conceito de acidente de trabalho\n\n1 - É acidente de trabalho aquele que se verifique no local e no tempo de trabalho, produzindo, directa ou indirectamente, lesão corporal, perturbação funcional ou doença de que resulte redução na capacidade de trabalho ou de ganho ou a morte.\n\n2 - Na alínea a) do n.º 2 do artigo 6.º da lei estão compreendidos os acidentes que se verifiquem no trajecto normalmente utilizado e durante o período de tempo ininterrupto habitualmente gasto pelo trabalhador:\n\na) Entre a sua residência habitual ou ocasional, desde a porta de acesso para as áreas comuns do edifício ou para a via pública, até às instalações que constituem o seu local de trabalho;\n\nb) Entre qualquer dos locais referidos na alínea precedente e os mencionados nas alíneas a) e b) do n.º 4;\n\nc) Entre o local de trabalho e o local da refeição;\n\nd) Entre o local onde por determinação da entidade empregadora presta qualquer serviço relacionado com o seu trabalho e as instalações que constituem o seu local de trabalho habitual.\n\n3 - Não deixa de se considerar acidente de trabalho o que ocorrer quando o trajecto normal tenha sofrido interrupções ou desvios determinados pela satisfação de necessidades atendíveis do trabalhador, bem como por motivo de força maior ou por caso fortuito.\n\n4 - Estão compreendidos no artigo 6.º da lei os acidentes que se verifiquem nas seguintes circunstâncias:\n\na) No local do pagamento da retribuição, enquanto o trabalhador aí permanecer para tal efeito;\n\nb) No local onde ao trabalhador deva ser prestada qualquer forma de assistência ou tratamento por virtude de anterior acidente e enquanto aí permanecer para esses fins.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827770": {
+   "fragment_id": "221827608",
+   "type": 11,
+   "heading": "Artigo 7.º — Prova da origem da lesão",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Prova da origem da lesão\n\n1 - A lesão constatada no local e no tempo de trabalho ou nas circunstâncias previstas no n.º 2 do artigo 6.º da lei presume-se, até prova em contrário, consequência de acidente de trabalho.\n\n2 - Se a lesão não tiver manifestação imediatamente a seguir ao acidente, compete ao sinistrado ou aos beneficiários legais provar que foi consequência dele.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827771": {
+   "fragment_id": "221827609",
+   "type": 11,
+   "heading": "Artigo 8.º — Descaracterização do acidente",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Descaracterização do acidente\n\n1 - Para efeitos do disposto no artigo 7.º da lei, considera-se existir causa justificativa da violação das condições de segurança se o acidente de trabalho resultar de incumprimento de norma legal ou estabelecida pela entidade empregadora da qual o trabalhador, face ao seu grau de instrução ou de acesso à informação, dificilmente teria conhecimento ou, tendo-o, lhe fosse manifestamente difícil entendê-la.\n\n2 - Entende-se por negligência grosseira o comportamento temerário em alto e relevante grau, que não se consubstancie em acto ou omissão resultante da habitualidade ao perigo do trabalho executado, da confiança na experiência profissional ou dos usos e costumes da profissão.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827772": {
+   "fragment_id": "221827610",
+   "type": 11,
+   "heading": "Artigo 9.º — Natureza da incapacidade",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Natureza da incapacidade\n\n1 - Os acidentes de trabalho podem determinar incapacidades temporárias ou permanentes para o trabalho.\n\n2 - As incapacidades temporárias podem ser parciais ou absolutas.\n\n3 - As incapacidades permanentes podem ser parciais, absolutas para o trabalho habitual e absolutas para todo e qualquer trabalho.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827773": {
+   "fragment_id": "221827611",
+   "type": 11,
+   "heading": "Artigo 10.º — Determinação das incapacidades",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Determinação das incapacidades\n\nA determinação das incapacidades é efectuada de acordo com a Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais, elaborada e actualizada por uma comissão permanente, cuja composição, competência e modo de funcionamento são fixados em diploma próprio.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221827774": {
+   "fragment_id": "221827612",
+   "type": 11,
+   "heading": "Artigo 11.º — Responsabilidade",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Responsabilidade\n\nSão responsáveis pela reparação e demais encargos previstos na lei as pessoas singulares ou colectivas de direito privado e de direito público não abrangidas por legislação especial, relativamente aos trabalhadores ao seu serviço referidos no artigo 2.º da lei.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828575": {
+   "fragment_id": "221827613",
+   "type": 8,
+   "heading": "Secção III — Âmbito pessoal",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "#### Secção III — Âmbito pessoal\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828576": {
+   "fragment_id": "221827614",
+   "type": 11,
+   "heading": "Artigo 12.º — Trabalhadores abrangidos",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Trabalhadores abrangidos\n\n1 - O regime previsto no presente diploma abrange os trabalhadores por conta de outrem de qualquer actividade, seja ou não explorada com fins lucrativos.\n\n2 - Para efeitos do n.º 2 do artigo 2.º da lei, para além da situação dos praticantes, aprendizes e estagiários, consideram-se situações de formação prática as que tenham por finalidade a preparação ou promoção profissional do trabalhador, necessária para o desempenho de funções inerentes à actividade da entidade empregadora.\n\n3 - Quando a lei ou esta regulamentação não impuserem entendimento diferente, presumir-se-á que os trabalhadores estão na dependência económica da pessoa em proveito da qual prestam serviços.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828577": {
+   "fragment_id": "221827615",
+   "type": 11,
+   "heading": "Artigo 13.º — Trabalhadores no estrangeiro",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Trabalhadores no estrangeiro\n\nNa ausência de opção expressa do trabalhador sinistrado em acidente de trabalho no estrangeiro ao serviço de empresa portuguesa, aplica-se a lei portuguesa, salvo se a do local onde ocorreu o acidente for concretamente mais favorável.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828578": {
+   "fragment_id": "221827616",
+   "type": 1,
+   "heading": "Capítulo II — Participação do acidente de trabalho",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo II — Participação do acidente de trabalho\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828579": {
+   "fragment_id": "221827617",
+   "type": 11,
+   "heading": "Artigo 14.º — Sinistrados e beneficiários",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Sinistrados e beneficiários\n\n1 - Ocorrido um acidente, o sinistrado ou os beneficiários legais de pensões devem participá-lo verbalmente ou por escrito, nas quarenta e oito horas seguintes, à entidade empregadora ou à pessoa que a represente na direcção do trabalho, salvo se estas o presenciaram ou dele vieram a ter conhecimento no mesmo período.\n\n2 - Se o estado do sinistrado ou outra circunstância, devidamente comprovada, não permitir o cumprimento do disposto no número anterior, o prazo ali fixado contar-se-á a partir da cessação do impedimento.\n\n3 - Se a lesão se revelar ou for reconhecida em data posterior à do acidente, o prazo contar-se-á a partir da data da revelação ou do reconhecimento.\n\n4 - Quando o sinistrado não participar o acidente tempestivamente e por tal motivo tiver sido impossível à entidade empregadora ou a quem a represente na direcção do trabalho prestar-lhe a assistência necessária, as incapacidades judicialmente reconhecidas como consequência daquela falta não conferem direito às prestações estabelecidas na lei, na medida em que dela tenham resultado.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828580": {
+   "fragment_id": "221827618",
+   "type": 11,
+   "heading": "Artigo 15.º — Entidades empregadoras com a responsabilidade transferida",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Entidades empregadoras com a responsabilidade transferida\n\nAs entidades empregadoras que tenham transferido a sua responsabilidade devem participar à empresa de seguros a ocorrência do acidente, nos termos estabelecidos na apólice.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828581": {
+   "fragment_id": "221827619",
+   "type": 11,
+   "heading": "Artigo 16.º — Entidades empregadoras sem responsabilidade transferida",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Entidades empregadoras sem responsabilidade transferida\n\n1 - As entidades empregadoras cuja responsabilidade não esteja garantida na forma legal devem participar o acidente ao tribunal competente, por escrito, independentemente de qualquer apreciação das condições legais da reparação.\n\n2 - O prazo para a participação é de oito dias contados a partir da data do acidente ou do seu conhecimento.\n\n3 - Nos casos de morte, o acidente deverá ser participado de imediato ao tribunal competente, por telecópia ou outra via com o mesmo efeito de registo escrito de mensagens, sem prejuízo do disposto nos números anteriores.\n\n4 - Sempre que as entidades empregadoras estejam impossibilitadas de dar cumprimento às obrigações impostas nos números anteriores, cumpri-las-ão os responsáveis pela direcção do trabalho.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828582": {
+   "fragment_id": "221827620",
+   "type": 11,
+   "heading": "Artigo 17.º — Trabalho a bordo",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Trabalho a bordo\n\n1 - Sem prejuízo de outras notificações previstas em legislação especial, sendo o sinistrado inscrito marítimo, a participação deve ser feita ao órgão local do sistema de autoridade marítima do porto do território nacional onde o acidente ocorreu.\n\n2 - Se, porém, o acidente sucedeu a bordo de navio português, no alto mar ou no estrangeiro, a participação será feita ao órgão local do sistema de autoridade marítima do primeiro porto nacional escalado após o acidente.\n\n3 - As participações previstas nos números anteriores serão efectuadas no prazo de dois dias a contar da data do acidente ou da chegada do navio e remetidas imediatamente ao tribunal competente pelo órgão local do sistema de autoridade marítima, se a responsabilidade não estiver transferida para empresa de seguros ou se do acidente tiver resultado a morte, e à empresa de seguros nos restantes casos.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828583": {
+   "fragment_id": "221827621",
+   "type": 11,
+   "heading": "Artigo 18.º — Empresas de seguros",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Empresas de seguros\n\n1 - As empresas de seguros participam ao tribunal competente, por escrito, no prazo de oito dias a contar da cura clínica, os acidentes de que tenha resultado incapacidade permanente e, imediatamente e por telecópia ou outra via com o mesmo efeito de registo escrito de mensagens, aqueles de que tenha resultado a morte.\n\n2 - A participação por telecópia ou outra via com o mesmo efeito de registo de mensagens não dispensa a participação formal, que deve ser feita no prazo de oito dias contados do falecimento.\n\n3 - As empresas de seguros participam ainda ao tribunal competente, por escrito, no prazo de oito dias a contar da sua verificação, todos os casos de incapacidades temporárias que ultrapassem 12 meses.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828584": {
+   "fragment_id": "221827622",
+   "type": 11,
+   "heading": "Artigo 19.º — Faculdade de participação a tribunal",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Faculdade de participação a tribunal\n\nA participação do acidente ao tribunal competente pode ser feita:\n\na) Pelo sinistrado, directamente ou por interposta pessoa;\n\nb) Pelos familiares do sinistrado;\n\nc) Por qualquer entidade com direito a receber o valor de prestações;\n\nd) Pela autoridade que tenha tomado conhecimento do acidente, sendo o sinistrado um incapaz;\n\ne) Pelo director do estabelecimento hospitalar, assistencial ou prisional onde o sinistrado esteja internado, tendo o acidente ocorrido ao serviço de outra entidade.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828585": {
+   "fragment_id": "221827623",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação obrigatória em caso de morte",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Comunicação obrigatória em caso de morte\n\n1 - Os directores de estabelecimentos hospitalares, assistenciais ou prisionais devem comunicar de imediato ao tribunal competente, por telecópia ou outra via com o mesmo efeito de registo de mensagens, o falecimento, em consequência de acidente, de algum trabalhador ali internado.\n\n2 - Igual obrigação tem qualquer outra pessoa ou entidade a cujo cuidado o sinistrado estiver.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828586": {
+   "fragment_id": "221827624",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposições comuns",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Disposições comuns\n\nAs participações dos acidentes aos tribunais são feitas em duplicado e acompanhadas dos boletins dos exames médicos a que o sinistrado foi submetido.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828587": {
+   "fragment_id": "221827625",
+   "type": 11,
+   "heading": "Artigo 22.º — Estatísticas de acidentes",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Estatísticas de acidentes\n\nSem prejuízo do regime do Decreto-Lei n.º 362/93, de 15 de Outubro, o ISP pode estabelecer estatísticas específicas destinadas ao controlo e supervisão dos riscos profissionais.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828588": {
+   "fragment_id": "221827626",
+   "type": 1,
+   "heading": "Capítulo III — Reparação do acidente de trabalho",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo III — Reparação do acidente de trabalho\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828589": {
+   "fragment_id": "221827627",
+   "type": 8,
+   "heading": "Secção I — Prestações em espécie",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "#### Secção I — Prestações em espécie\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828590": {
+   "fragment_id": "221827628",
+   "type": 11,
+   "heading": "Artigo 23.º — Modalidades das prestações",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Modalidades das prestações\n\n1 - As prestações em espécie previstas na alínea a) do artigo 10.º da lei têm por modalidades:\n\na) Assistência médica e cirúrgica, geral ou especializada, incluindo todos os necessários elementos de diagnóstico e de tratamento;\n\nb) Assistência farmacêutica;\n\nc) Enfermagem;\n\nd) Hospitalização e tratamentos termais;\n\ne) Hospedagem;\n\nf) Transportes para observação, tratamento ou comparência a actos judiciais;\n\ng) Fornecimento de aparelhos de prótese, ortótese e ortopedia, sua renovação e reparação;\n\nh) Reabilitação funcional.\n\n2 - A assistência a que se refere a alínea a) do número anterior inclui a assistência psíquica, quando reconhecida como necessária pelo médico assistente.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828591": {
+   "fragment_id": "221827629",
+   "type": 11,
+   "heading": "Artigo 24.º — Primeiros socorros",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Primeiros socorros\n\n1 - As entidades empregadoras ou quem as represente na direcção ou fiscalização do trabalho devem, logo que tenham conhecimento do acidente, assegurar os imediatos e indispensáveis socorros médicos e farmacêuticos ao sinistrado, bem como o transporte mais adequado para tais efeitos.\n\n2 - O transporte e socorros referidos no número anterior são prestados independentemente de qualquer apreciação das condições legais da reparação.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828592": {
+   "fragment_id": "221827630",
+   "type": 11,
+   "heading": "Artigo 25.º — Lugar de prestação da assistência clínica",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — Lugar de prestação da assistência clínica\n\n1 - A assistência clínica deve ser prestada na localidade onde o sinistrado residir ou na sua própria habitação, se tal for indispensável.\n\n2 - Essa assistência pode, no entanto, ser prestada em qualquer outro local por determinação do médico assistente ou mediante acordo entre o sinistrado e a entidade responsável.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828593": {
+   "fragment_id": "221827631",
+   "type": 11,
+   "heading": "Artigo 26.º — Médico assistente",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Médico assistente\n\n1 - A entidade responsável tem o direito de designar o médico assistente do sinistrado.\n\n2 - O sinistrado poderá, no entanto, recorrer a qualquer médico nos seguintes casos:\n\na) Se a entidade empregadora ou quem a represente não se encontrar no local do acidente e houver urgência nos socorros;\n\nb) Se a entidade responsável não nomear médico assistente ou enquanto o não fizer;\n\nc) Se a entidade responsável renunciar ao direito de escolher o médico assistente;\n\nd) Se lhe for dada alta sem estar curado, devendo, neste caso, requerer exame pelo perito do tribunal.\n\n3 - Enquanto não houver médico assistente designado, será como tal considerado, para todos os efeitos legais, o médico que tratar o sinistrado.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828594": {
+   "fragment_id": "221827632",
+   "type": 11,
+   "heading": "Artigo 27.º — Dever de assistência clínica",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Dever de assistência clínica\n\nNenhum médico pode negar-se a prestar assistência clínica a sinistrados do trabalho, quando solicitada pelas entidades responsáveis ou pelos próprios sinistrados, nos casos em que lhes é permitida a escolha do médico assistente.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828595": {
+   "fragment_id": "221827633",
+   "type": 11,
+   "heading": "Artigo 28.º — Substituição legal do médico assistente",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — Substituição legal do médico assistente\n\n1 - Durante o internamento em hospital, o médico assistente será substituído nas suas funções pelos médicos do mesmo hospital, embora com o direito de acompanhar o tratamento do sinistrado, conforme os respectivos regulamentos internos ou, na falta ou insuficiência destes, segundo as determinações do director clínico.\n\n2 - Para efeitos do disposto no número anterior, o «direito de acompanhar o tratamento do sinistrado» contempla, nomeadamente, a faculdade de o médico assistente ter acesso a toda a documentação clínica respeitante ao sinistrado em poder do estabelecimento hospitalar.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828596": {
+   "fragment_id": "221827634",
+   "type": 11,
+   "heading": "Artigo 29.º — Escolha do médico operador",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Escolha do médico operador\n\nO sinistrado pode escolher o médico que o deva operar nos casos de cirurgia de alto risco e naqueles em que, como consequência da operação, possa correr perigo a sua vida.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828597": {
+   "fragment_id": "221827635",
+   "type": 11,
+   "heading": "Artigo 30.º — Contestação das resoluções do médico assistente",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Contestação das resoluções do médico assistente\n\nO sinistrado ou a entidade responsável têm o direito de não se conformar com as resoluções do médico assistente ou de quem legalmente o substituir.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828598": {
+   "fragment_id": "221827636",
+   "type": 11,
+   "heading": "Artigo 31.º — Solução de divergências",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Solução de divergências\n\n1 - Quaisquer divergências sobre as matérias reguladas nos artigos 28.º, 29.º e 30.º do presente diploma podem ser resolvidas por simples conferência de médicos, da iniciativa do sinistrado, da entidade responsável ou do médico assistente, bem como do substituto legal deste.\n\n2 - Se as divergências não forem resolvidas nos termos do número anterior, sê-lo-ão:\n\na) Havendo internamento hospitalar, pelo respectivo director clínico ou pelo médico que o deva substituir, se ele for o médico assistente;\n\nb) Não havendo internamento hospitalar, pelo perito médico do tribunal do trabalho da área onde o sinistrado se encontrar, por determinação do Ministério Público, a solicitação de qualquer dos interessados.\n\n3 - As resoluções dos médicos referidos nas alíneas do número anterior devem ficar a constar de documento escrito e delas podem os interessados reclamar, mediante requerimento fundamentado, para o juiz do mencionado tribunal do trabalho, que decidirá definitivamente.\n\n4 - Nos casos previstos na alínea b) do n.º 2 e no n.º 3, se vier a ter lugar processo emergente de acidente de trabalho, é o processado apenso a este.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828599": {
+   "fragment_id": "221827637",
+   "type": 11,
+   "heading": "Artigo 32.º — Boletins de exame e alta",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Boletins de exame e alta\n\n1 - No começo do tratamento do sinistrado o médico assistente emite um boletim de exame, em que descreverá as doenças ou lesões que lhe encontrar e a sintomatologia apresentada com descrição pormenorizada das lesões referidas pelo mesmo como resultantes do acidente.\n\n2 - Quando terminar o tratamento do sinistrado, quer por este se encontrar curado ou em condições de trabalhar, quer por qualquer outro motivo, o médico assistente emitirá um boletim de alta, em que declare a causa da cessação do tratamento e o grau de incapacidade permanente ou temporária, bem como as razões justificativas das suas conclusões.\n\n3 - Os boletins a que se referem os números anteriores são emitidos em triplicado o de exame e em duplicado o da alta.\n\n4 - No prazo de 30 dias após a realização dos actos é entregue um exemplar do boletim ao sinistrado e remetido ao tribunal, se for caso disso, bem como enviado o terceiro exemplar do boletim de exame à entidade responsável.\n\n5 - Tratando-se, porém, de sinistrados a cargo de empresas de seguros ou de alguma das entidades mencionadas no artigo 59.º, a remessa do boletim a juízo apenas será efectuada quando haja de se proceder a exame médico, quando o tribunal o requisite ou tenha de acompanhar a participação do acidente.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828600": {
+   "fragment_id": "221827638",
+   "type": 11,
+   "heading": "Artigo 33.º — Requisição pelo tribunal",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Requisição pelo tribunal\n\nAs entidades responsáveis, os estabelecimentos hospitalares, os serviços competentes da segurança social e os médicos são obrigados a fornecer aos tribunais do trabalho todos os esclarecimentos e documentos que lhes sejam requisitados relativos a observações e tratamentos feitos a sinistrados ou por qualquer outro modo relacionados com o acidente.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828601": {
+   "fragment_id": "221827639",
+   "type": 11,
+   "heading": "Artigo 34.º — Hospitalização",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Hospitalização\n\n1 - As entidades responsáveis devem assinar termo de responsabilidade para garantia do pagamento das despesas com o internamento e os tratamentos previstos na alínea a) do artigo 10.º da lei.\n\n2 - Se aquelas entidades se recusarem a assinar o termo de responsabilidade, não poderão, com esse fundamento, ser negados o tratamento ou o internamento dos sinistrados, sempre que a gravidade do seu estado os imponha imediatamente.\n\n3 - Nos casos previstos no número anterior os estabelecimentos hospitalares devem juntar ao respectivo processo a nota das despesas efectuadas para efeito de pagamento.\n\n4 - O estabelecimento hospitalar que, injustificadamente, deixar de cumprir as obrigações do tratamento ou do internamento urgentes referidos no n.º 2 será responsável pelo agravamento das lesões do sinistrado, reconhecido judicialmente como consequência de tais factos.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828602": {
+   "fragment_id": "221827640",
+   "type": 11,
+   "heading": "Artigo 35.º — Transportes e estada",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — Transportes e estada\n\n1 - Os transportes que os sinistrados por direito devem utilizar são os colectivos, salvo não os havendo ou se outros forem mais indicados pela urgência do tratamento, por determinação do médico assistente ou por outras razões ponderosas atendíveis.\n\n2 - As categorias e classes da estada devem ajustar-se às prescrições dos médicos assistentes ou dos clínicos que em tribunal derem parecer.\n\n3 - Sem prejuízo do disposto no número anterior, as entidades responsáveis só são obrigadas a despender o menor custo das prestações ali indicadas que obedeçam às condições de comodidade impostas pela natureza da lesão.\n\n4 - Para os efeitos do disposto no artigo 15.º da lei, devem as entidades responsáveis assumir previamente, perante os fornecedores de transporte e estada, a responsabilidade pelo pagamento das despesas ou adiantar a sua importância.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828603": {
+   "fragment_id": "221827641",
+   "type": 11,
+   "heading": "Artigo 36.º — Aparelhos de prótese, ortótese e ortopedia",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Aparelhos de prótese, ortótese e ortopedia\n\n1 - Os aparelhos de prótese, ortótese e ortopedia devem ser, em cada caso, os considerados adequados ao fim a que se destinam pelo médico assistente.\n\n2 - O direito aos aparelhos de prótese, ortótese e ortopedia abrange os destinados à correcção ou compensação visual, auditiva ou outra, bem como a prótese dentária.\n\n3 - Quando houver divergências sobre a natureza, qualidade ou adequação de aparelhos de prótese, ortótese e ortopedia ou sobre a obrigatoriedade ou necessidade da sua renovação ou reparação, deve solicitar-se o parecer de serviços competentes em matérias de reabilitação profissional.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828604": {
+   "fragment_id": "221827642",
+   "type": 11,
+   "heading": "Artigo 37.º — Opção do sinistrado",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — Opção do sinistrado\n\n1 - Os sinistrados podem optar pela importância correspondente ao valor dos aparelhos de prótese, ortótese e ortopedia indicados pelo médico assistente ou pelo tribunal, quando pretendam adquirir aparelhos de custo superior.\n\n2 - No caso previsto no número anterior a entidade responsável depositará a referida importância à ordem do juiz, no prazo que este fixar, para ser paga à entidade fornecedora depois de verificada a aplicação do aparelho.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828605": {
+   "fragment_id": "221827643",
+   "type": 11,
+   "heading": "Artigo 38.º — Renovação de aparelhagem",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 38.º — Renovação de aparelhagem\n\n1 - Sempre que um acidente de trabalho inutilize ou danifique o aparelho de prótese, ortótese ou ortopedia de que o sinistrado já era portador:\n\na) Ficam a cargo da entidade responsável por aquele acidente as despesas necessárias à renovação ou reparação do mencionado aparelho;\n\nb) Há lugar, se for caso disso, a pagamento de indemnização correspondente à incapacidade daí resultante.\n\n2 - Tratando-se de renovação, o respectivo encargo não será superior ao custo de novo aparelho igual ao inutilizado, salvo se existir outro aparelho mais adequado.\n\n3 - As despesas de reparação ou substituição de aparelhos de prótese, ortótese e ortopedia usados por força de acidente de trabalho e deteriorados em consequência de uso ou desgaste normais ficam a cargo da entidade responsável pelo acidente que determinou a respectiva utilização.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828606": {
+   "fragment_id": "221827644",
+   "type": 11,
+   "heading": "Artigo 39.º — Notificação judicial e execução",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 39.º — Notificação judicial e execução\n\n1 - Se a entidade responsável, injustificadamente, recusar ou protelar o fornecimento, renovação ou reparação dos aparelhos de prótese, ortótese e ortopedia ou não efectuar o depósito referido no n.º 2 do artigo 37.º, o juiz mandará notificar aquela entidade para, no prazo de 10 dias, depositar à sua ordem a importância que for devida.\n\n2 - Caso o responsável não cumpra o disposto no número anterior, será executado para o pagamento do valor de depósito, seguindo-se os termos da execução baseada em sentença de condenação em quantia certa.\n\n3 - Pelo produto da execução pagará o tribunal as despesas da prótese, ortótese ou ortopedia à entidade que forneceu ou reparou os respectivos aparelhos, depois de verificada a sua correcta aplicação.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828607": {
+   "fragment_id": "221827645",
+   "type": 11,
+   "heading": "Artigo 40.º — Perda do direito a renovação ou reparação",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Perda do direito a renovação ou reparação\n\nOs sinistrados perdem o direito à renovação ou reparação dos aparelhos de prótese, ortótese e ortopedia que se deteriorem ou inutilizem devido a negligência grosseira da sua parte.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828608": {
+   "fragment_id": "221827646",
+   "type": 8,
+   "heading": "Secção II — Prestações em dinheiro",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "#### Secção II — Prestações em dinheiro\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828609": {
+   "fragment_id": "221827647",
+   "type": 11,
+   "heading": "Artigo 41.º — Avaliação da incapacidade",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 41.º — Avaliação da incapacidade\n\n1 - O grau de incapacidade resultante do acidente é expresso em coeficientes determinados em função do disposto na tabela nacional de incapacidades em vigor à data do acidente.\n\n2 - Sempre que haja lugar à aplicação do disposto na alínea b) do n.º 1 do artigo 17.º e no n.º 1 do artigo 19.º da lei, o juiz pode requisitar o parecer prévio de peritos especializados, designadamente do Ministério do Trabalho e da Solidariedade.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828610": {
+   "fragment_id": "221827648",
+   "type": 11,
+   "heading": "Artigo 42.º — Conversão da incapacidade temporária em permanente",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 42.º — Conversão da incapacidade temporária em permanente\n\n1 - A incapacidade temporária converte-se em permanente decorridos 18 meses consecutivos, devendo o perito médico do tribunal reavaliar o respectivo grau de incapacidade.\n\n2 - Verificando-se que ao sinistrado está a ser prestado o tratamento clínico necessário, pode o Ministério Público prorrogar até ao máximo de 30 meses, a requerimento da entidade responsável, o prazo fixado no número anterior.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828611": {
+   "fragment_id": "221827649",
+   "type": 11,
+   "heading": "Artigo 43.º — Modo de fixação das pensões por incapacidade e indemnizações",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 43.º — Modo de fixação das pensões por incapacidade e indemnizações\n\n1 - As pensões respeitantes a incapacidade permanente são fixadas em montante anual.\n\n2 - As indemnizações por incapacidades temporárias são pagas em relação a todos os dias, incluindo os de descanso e feriados.\n\n3 - Nas incapacidades temporárias superiores a 15 dias é paga a parte proporcional correspondente aos subsídios de férias e de Natal, determinada em função da percentagem da prestação prevista nas alíneas e) e f) do n.º 1 do artigo 17.º da lei.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828612": {
+   "fragment_id": "221827650",
+   "type": 11,
+   "heading": "Artigo 44.º — Trabalho a tempo parcial",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 44.º — Trabalho a tempo parcial\n\nO cálculo das prestações para trabalhadores a tempo parcial tem como base a retribuição que aufeririam se trabalhassem a tempo inteiro.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828613": {
+   "fragment_id": "221827651",
+   "type": 11,
+   "heading": "Artigo 45.º — Familiar a cargo",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 45.º — Familiar a cargo\n\n1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 17.º da lei, considera-se familiar a cargo do sinistrado, desde que com ele viva em comunhão de mesa e habitação:\n\na) Os descendentes solteiros;\n\nb) Os descendentes casados, bem como os separados de pessoas e bens, divorciados e viúvos, com rendimentos mensais inferiores ao dobro da pensão social ou ao valor desta, respectivamente;\n\nc) Os ascendentes com rendimentos mensais inferiores ao valor da pensão social ou ao dobro deste valor, tratando-se de casal.\n\n2 - São equiparados a descendentes do sinistrado, para efeitos do disposto no número anterior:\n\na) Os enteados;\n\nb) Os tutelados;\n\nc) Os adoptados restritamente;\n\nd) Os menores que, mediante confiança judicial ou administrativa, se encontrem a seu cargo com vista a futura adopção;\n\ne) Os menores que lhe estejam confiados por decisão dos tribunais ou de entidades ou serviços legalmente competentes para o efeito.\n\n3 - São equiparados a ascendentes do sinistrado, para efeitos do disposto no n.º 1:\n\na) Os padrastos e madrastas;\n\nb) Os adoptantes restritivamente;\n\nc) Os afins compreendidos na linha recta ascendente.\n\n4 - A pedido da entidade responsável, os beneficiários deverão fazer prova anual da manutenção dos requisitos que lhes conferem o direito à pensão, sob pena de o respectivo pagamento ser suspenso 60 dias após a data do pedido, sendo admitidos os tipos de prova que vierem a ser regulamentados por norma do ISP, cujos custos, caso existam, serão suportados pela entidade responsável.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828614": {
+   "fragment_id": "221827652",
+   "type": 11,
+   "heading": "Artigo 46.º — Suspensão ou redução das pensões",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 46.º — Suspensão ou redução das pensões\n\nAs pensões por incapacidade permanente não podem ser suspensas ou reduzidas, mesmo que o sinistrado venha a auferir retribuição superior à que tinha antes do acidente, salvo em consequência da revisão prevista no artigo 25.º da lei, e são cumulativas com quaisquer outras.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828615": {
+   "fragment_id": "221827653",
+   "type": 11,
+   "heading": "Artigo 47.º — Modo de fixação da pensão provisória",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 47.º — Modo de fixação da pensão provisória\n\n1 - Sem prejuízo do disposto no Código de Processo do Trabalho, a pensão provisória a que se refere o n.º 5 do artigo 17.º da lei, por incapacidade permanente igual ou superior a 30%, é atribuída pela entidade responsável e calculada nos termos do n.º 1 do artigo 17.º da lei, com base na desvalorização definida pelo médico assistente e na retribuição garantida.\n\n2 - A pensão provisória a que se refere o n.º 5 do artigo 17.º da lei, por incapacidade permanente inferior a 30%, é atribuída pela entidade responsável e calculada nos termos da alínea f) do n.º 1 do mesmo artigo, com base na desvalorização definida pelo médico assistente e na retribuição garantida.\n\n3 - Os montantes pagos nos termos dos números anteriores serão considerados aquando da fixação final dos respectivos direitos.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828616": {
+   "fragment_id": "221827654",
+   "type": 11,
+   "heading": "Artigo 48.º — Prestação suplementar à pensão",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 48.º — Prestação suplementar à pensão\n\n1 - Sempre que a prestação suplementar prevista no artigo 19.º da lei se suspender nas condições previstas no n.º 2 do mesmo artigo, a entidade responsável deverá suportar os encargos inerentes à eventual resolução do contrato de trabalho estabelecido com a pessoa que presta assistência.\n\n2 - Sempre que o médico assistente entender que o sinistrado não pode dispensar a assistência de uma terceira pessoa, ser-lhe-á atribuída, a partir do dia seguinte ao da alta, uma prestação suplementar provisória equivalente ao montante da remuneração mínima garantida para os trabalhadores do serviço doméstico.\n\n3 - Os montantes pagos nos termos do número anterior serão considerados aquando da fixação final dos respectivos direitos.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828617": {
+   "fragment_id": "221827655",
+   "type": 11,
+   "heading": "Artigo 49.º — Pensões por morte",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 49.º — Pensões por morte\n\n1 - As pensões por morte são fixadas em montante anual.\n\n2 - Para efeitos do disposto no artigo 20.º da lei, são consideradas uniões de facto as que preencham os requisitos do artigo 2020.º do Código Civil.\n\n3 - A pedido da entidade responsável, o beneficiário referido no número anterior deverá fazer prova anual da manutenção dos requisitos que lhe conferem o direito à pensão, nos termos e com os efeitos previstos no n.º 4 do artigo 45.º\n\n4 - Consideram-se sensivelmente afectados na sua capacidade de trabalho, para os fins previstos no artigo 20.º da lei, os beneficiários legais do sinistrado que sofram de doença física ou mental que lhes reduza definitivamente a sua capacidade geral de ganho em mais de 75%.\n\n5 - Tem-se por definitiva a incapacidade de ganho mencionada no número anterior quando seja de presumir que a doença não terá evolução favorável nos três anos subsequentes à data do seu reconhecimento.\n\n6 - Surgindo dúvidas sobre a incapacidade referida nos números antecedentes, será esta fixada pelo tribunal.\n\n7 - As pensões por morte começam a vencer-se no dia seguinte ao do falecimento do sinistrado, inclusive as referentes aos nascituros, e são cumulativas com quaisquer outras.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828618": {
+   "fragment_id": "221827656",
+   "type": 11,
+   "heading": "Artigo 50.º — Reparação por despesas de funeral",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 50.º — Reparação por despesas de funeral\n\n1 - As despesas de funeral são pagas a quem provar tê-las suportado.\n\n2 - O prazo para requerer o subsídio por despesas de funeral é de um ano a partir da realização da respectiva despesa.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828619": {
+   "fragment_id": "221827657",
+   "type": 11,
+   "heading": "Artigo 51.º — Pagamento das prestações",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 51.º — Pagamento das prestações\n\n1 - As pensões anuais são pagas, adiantada e mensalmente, até ao 3.º dia de cada mês, correspondendo cada prestação a 1/14 da pensão anual.\n\n2 - Os subsídios de férias e de Natal, no valor de 1/14 cada da pensão anual, são, respectivamente, pagos nos meses de Maio e de Novembro.\n\n3 - As indemnizações por incapacidades temporárias são pagas quinzenalmente.\n\n4 - Os interessados podem, por acordo, estipular que o pagamento seja efectuado de forma diferente da indicada nos números anteriores.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828620": {
+   "fragment_id": "221827658",
+   "type": 11,
+   "heading": "Artigo 52.º — Dedução do acréscimo de despesas",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 52.º — Dedução do acréscimo de despesas\n\nQuando a pedido do sinistrado ou dos beneficiários legais tiver sido acordado, para o pagamento das prestações, lugar diferente do da residência daqueles, a entidade responsável poderá deduzir no montante das mesmas prestações o acréscimo das despesas daí resultantes.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828621": {
+   "fragment_id": "221827659",
+   "type": 11,
+   "heading": "Artigo 53.º — Requisito formal",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 53.º — Requisito formal\n\nO acordo sobre a escolha do lugar ou forma do pagamento só é válido se revestir a forma escrita.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828622": {
+   "fragment_id": "221827660",
+   "type": 1,
+   "heading": "Capítulo IV — Ocupação de trabalhadores sinistrados",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo IV — Ocupação de trabalhadores sinistrados\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828623": {
+   "fragment_id": "221827661",
+   "type": 11,
+   "heading": "Artigo 54.º — Ocupação obrigatória",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 54.º — Ocupação obrigatória\n\n1 - As entidades empregadoras que empreguem pelo menos 10 trabalhadores são obrigadas a ocupar, em funções e condições de trabalho compatíveis com o respectivo estado, os sinistrados de acidentes ao seu serviço, ainda que a título de contrato a termo e mesmo para além desse termo, quando afectados de incapacidade temporária de coeficiente não superior a 50%.\n\n2 - Cessa a obrigação prevista no número anterior quando o sinistrado não se apresentar à entidade empregadora dentro de 10 dias após a fixação da incapacidade, no caso de a ausência não ser devidamente justificada.\n\n3 - A entidade empregadora que não cumprir o disposto no n.º 1, e sem prejuízo de outras prestações que por lei forem devidas, pagará ao sinistrado a retribuição que lhe competiria nos termos da segunda parte do n.º 1 do artigo 30.º da lei, salvo se o contrato tiver sido rescindido.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828624": {
+   "fragment_id": "221827662",
+   "type": 11,
+   "heading": "Artigo 55.º — Parecer técnico",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 55.º — Parecer técnico\n\nQuando houver necessidade de esclarecer quaisquer dúvidas sobre as incapacidades referidas no artigo 54.º deste diploma ou sobre o emprego dos incapacitados em funções compatíveis com o seu estado, poderá ser solicitado o parecer de peritos especializados, designadamente do Ministério do Trabalho e da Solidariedade.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828625": {
+   "fragment_id": "221827663",
+   "type": 1,
+   "heading": "Capítulo V — Remição de pensões",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo V — Remição de pensões\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828626": {
+   "fragment_id": "221827664",
+   "type": 11,
+   "heading": "Artigo 56.º — Condições de remição",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 56.º — Condições de remição\n\n1 - São obrigatoriamente remidas as pensões anuais:\n\na) Devidas a sinistrados e a beneficiários legais de pensões vitalícias que não sejam superiores a seis vezes a remuneração mínima mensal garantida mais elevada à data da fixação da pensão;\n\nb) Devidas a sinistrados, independentemente do valor da pensão anual, por incapacidade permanente e parcial inferior a 30%.\n\n2 - Podem ser parcialmente remidas, a requerimento dos pensionistas ou das entidades responsáveis e com autorização do tribunal competente, as pensões anuais vitalícias correspondentes a incapacidade igual ou superior a 30% ou as pensões anuais vitalícias de beneficiários em caso de morte, desde que cumulativamente respeitem os seguintes limites:\n\na) A pensão sobrante não pode ser inferior a seis vezes a remuneração mínima mensal garantida mais elevada;\n\nb) O capital de remição não pode ser superior ao que resultaria de uma pensão calculada com base numa incapacidade de 30%.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828627": {
+   "fragment_id": "221827665",
+   "type": 11,
+   "heading": "Artigo 57.º — Cálculo do capital",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 57.º — Cálculo do capital\n\nSerão fixadas por portaria do Ministro das Finanças as bases técnicas aplicáveis ao cálculo do capital de remição das pensões, bem como as tabelas práticas de cálculo dos capitais de remição.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828628": {
+   "fragment_id": "221827666",
+   "type": 11,
+   "heading": "Artigo 58.º — Direitos não afectados pela remição",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 58.º — Direitos não afectados pela remição\n\nA remição não prejudica:\n\na) O direito às prestações em espécie;\n\nb) O direito de o sinistrado requerer a revisão da sua pensão;\n\nc) Os direitos atribuídos aos beneficiários legais do sinistrado, se este vier a falecer em consequência do acidente;\n\nd) A actualização da pensão remanescente no caso de remição parcial ou resultante de revisão de pensão, nos termos da lei.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828629": {
+   "fragment_id": "221827667",
+   "type": 1,
+   "heading": "Capítulo VI — Cobertura dos riscos",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo VI — Cobertura dos riscos\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828630": {
+   "fragment_id": "221827668",
+   "type": 8,
+   "heading": "Secção I — Transferência de responsabilidades",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "#### Secção I — Transferência de responsabilidades\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828631": {
+   "fragment_id": "221827669",
+   "type": 11,
+   "heading": "Artigo 59.º — Dispensa de transferência de responsabilidade",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 59.º — Dispensa de transferência de responsabilidade\n\nAs obrigações impostas pelo artigo 37.º da lei não abrangem a administração central, local e as demais entidades na medida em que os respectivos funcionários sejam abrangidos pelo regime de acidentes em serviço ou outro regime legal com o mesmo âmbito.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828632": {
+   "fragment_id": "221827670",
+   "type": 11,
+   "heading": "Artigo 60.º — Riscos recusados",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 60.º — Riscos recusados\n\n1 - O ISP estabelecerá por norma regulamentar as disposições relativas à colocação dos riscos recusados pelas empresas de seguros.\n\n2 - O fundo a que se refere o artigo 39.º da lei pode ressegurar e retroceder os riscos recusados.\n\n3 - Relativamente aos riscos recusados, o ISP pode requerer das entidades competentes certificados de conformidade com as regras de segurança em vigor.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828633": {
+   "fragment_id": "221827671",
+   "type": 8,
+   "heading": "Secção II — Caucionamento de pensões",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "#### Secção II — Caucionamento de pensões\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828634": {
+   "fragment_id": "221827672",
+   "type": 11,
+   "heading": "Artigo 61.º — Obrigação do caucionamento",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 61.º — Obrigação do caucionamento\n\n1 - As entidades empregadoras são obrigadas a caucionar o pagamento das pensões de acidentes de trabalho em que tenham sido condenadas, ou a que se tenham obrigado por acordo homologado, quando não haja ou seja insuficiente o seguro, salvo se celebrarem junto de uma empresa de seguros um contrato específico de seguro de pensões.\n\n2 - A caução pode ser feita por depósito de numerário, títulos da dívida pública, por afectação ou hipoteca de imóveis ou garantia bancária.\n\n3 - Os caucionamentos são feitos à ordem do juiz do tribunal do trabalho respectivo, ou a seu favor, nos prazos que ele designar.\n\n4 - Os títulos da dívida pública são avaliados, para efeitos de caucionamento, pela última cotação na bolsa e os imóveis e empréstimos hipotecários pelo valor matricial corrigido dos respectivos prédios, competindo ao Ministério Público apreciar e dar parecer sobre a idoneidade dos caucionamentos.\n\n5 - Serão obrigatoriamente seguros contra incêndio os imóveis sujeitos a este risco.\n\n6 - Sempre que se verifique que os caucionamentos são insuficientes, deverão eles ser reforçados, observando-se analogamente as disposições anteriores.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828635": {
+   "fragment_id": "221827673",
+   "type": 11,
+   "heading": "Artigo 62.º — Intervenção do ISP",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 62.º — Intervenção do ISP\n\n1 - Compete ao ISP determinar o valor dos caucionamentos das pensões, quando não exista ou seja insuficiente o seguro das responsabilidades das entidades empregadoras.\n\n2 - Compete igualmente ao ISP dar parecer sobre a transferência de responsabilidade das pensões de acidentes de trabalho para as empresas de seguros.\n\n3 - Os valores de caucionamento das pensões são calculados de acordo com as tabelas práticas a que se refere o artigo 57.º, acrescidas de 10%.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828636": {
+   "fragment_id": "221827674",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições complementares",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo VII — Disposições complementares\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828637": {
+   "fragment_id": "221827775",
+   "type": 11,
+   "heading": "Artigo 63.º — Formulários obrigatórios",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 63.º — Formulários obrigatórios\n\n1 - As participações, os boletins de exame e alta e os outros formulários referidos neste diploma, que poderão ser impressos por meios informáticos, obedecem aos modelos aprovados oficialmente, devendo ser rigorosa e integralmente preenchidos e assinados, de forma indelével e facilmente legível.\n\n2 - O não cumprimento do disposto no número anterior equivale à falta de tais documentos, podendo ainda o tribunal ordenar a sua substituição.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828638": {
+   "fragment_id": "221827776",
+   "type": 11,
+   "heading": "Artigo 64.º — Isenções",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 64.º — Isenções\n\n1 - Estão isentos de emolumentos, custas e taxas todos os documentos necessários ao cumprimento da lei e seus regulamentos, independentemente da respectiva natureza e da repartição por onde forem passados ou hajam de transitar para sua legalização.\n\n2 - As isenções compreendidas no número anterior não abrangem a constituição de mandatário judicial.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828639": {
+   "fragment_id": "221827777",
+   "type": 11,
+   "heading": "Artigo 65.º — Representantes das responsáveis",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 65.º — Representantes das responsáveis\n\n1 - As empresas de seguros são obrigadas a manter, nas localidades das sedes dos tribunais do trabalho, um representante que possa receber as citações, notificações, avisos e correspondência dos mesmos tribunais.\n\n2 - Para os efeitos referidos no número anterior, não podem exercer a representação os cônjuges ou quem se encontre em situação de união de facto com os magistrados ou funcionários daqueles tribunais, nem os seus parentes ou afins, em qualquer grau da linha recta ou até ao 2.º grau da linha colateral.\n\n3 - Sempre que, durante a fase conciliatória do processo, a tentativa de conciliação for adiada por motivo imputável à empresa de seguros ou a outra entidade responsável, estas terão de se fazer representar, nas tentativas de conciliação seguintes, por mandatário judicial.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828640": {
+   "fragment_id": "221827778",
+   "type": 11,
+   "heading": "Artigo 66.º — Afixação e informação obrigatórias",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 66.º — Afixação e informação obrigatórias\n\n1 - Todas as empresas que tenham normalmente ao seu serviço mais de cinco trabalhadores devem afixar, nos respectivos estabelecimentos e em lugar bem visível, as disposições da lei e dos seus regulamentos referentes às obrigações dos sinistrados e dos responsáveis.\n\n2 - Os recibos de retribuição devem, obrigatoriamente, identificar a empresa de seguros para a qual o risco se encontra transferido à data da sua emissão.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828641": {
+   "fragment_id": "221827779",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições contra-ordenacionais",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo VIII — Disposições contra-ordenacionais\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828642": {
+   "fragment_id": "221827780",
+   "type": 11,
+   "heading": "Artigo 67.º — Contra-ordenações e coimas",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 67.º — Contra-ordenações e coimas\n\n1 - Constitui contra-ordenação, punível com coima de 100000$00 a 750000$00 ou 5000000$00, consoante se trate de pessoa singular ou colectiva, a prática dos seguintes actos:\n\na) Incumprimento da obrigação fixada nos artigos 24.º deste diploma e 7.º, n.º 3, da lei;\n\nb) Violação do disposto nos artigos 36.º e 37.º, n.º 1, da lei, incluindo as omissões ou insuficiências nas declarações quanto ao pessoal e às retribuições para não cumprir, com exactidão, o disposto nesta última disposição;\n\nc) Fazer tratar ou internar um sinistrado sem declarar esta situação, para efeitos de se eximir ao pagamento das respectivas despesas;\n\nd) A prática dos actos referidos no artigo 3.º deste diploma.\n\n2 - Constitui contra-ordenação, punível com coima de 50000$00 a 300000$00 ou 1200000$00, consoante se trate de pessoa singular ou colectiva, a infracção ao disposto nos artigos 13.º, 15.º e 30.º da lei, bem como nos artigos 16.º a 18.º, 19.º, alíneas d) e e), 20.º, 27.º, 33.º, 34.º, n.os 1 e 2, 35.º, n.º 4, 54.º, 65.º e 66.º deste diploma.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828643": {
+   "fragment_id": "221827781",
+   "type": 11,
+   "heading": "Artigo 68.º — Cumulação de responsabilidades",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 68.º — Cumulação de responsabilidades\n\nA responsabilidade contra-ordenacional não prejudica eventual responsabilidade civil ou criminal.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828644": {
+   "fragment_id": "221827782",
+   "type": 11,
+   "heading": "Artigo 69.º — Processamento e aplicação das coimas",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 69.º — Processamento e aplicação das coimas\n\nO processamento das contra-ordenações previstas neste diploma bem como a aplicação das correspondentes coimas competem ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, salvo se o agente da infracção for uma entidade sujeita à supervisão do ISP, caso em que aquelas competências lhe são cometidas.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828645": {
+   "fragment_id": "221827783",
+   "type": 11,
+   "heading": "Artigo 70.º — Produto das coimas",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 70.º — Produto das coimas\n\nO produto das coimas reverte em 60% para os cofres do Estado e em 40% para o fundo a que se refere o artigo 39.º da lei.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828646": {
+   "fragment_id": "221827784",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições transitórias e finais",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "### Capítulo IX — Disposições transitórias e finais\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828647": {
+   "fragment_id": "221827785",
+   "type": 11,
+   "heading": "Artigo 71.º — Entrada em vigor",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+   ],
+   "markdown": "###### Artigo 71.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no dia 1 de Janeiro de 2000.\n\n2 - Dentro do prazo de 60 dias após a publicação do presente diploma no Diário da República o ISP procederá à publicação das apólices uniformes previstas na lei e nesta regulamentação.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+  },
+  "221828648": {
+   "fragment_id": "221827786",
+   "type": 11,
+   "heading": "Artigo 72.º — Disposições subsistentes",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 72.º — Disposições subsistentes\n\nA entrada em vigor deste decreto-lei não toma inoperantes:\n\na) As disposições legais actualmente aplicáveis às matérias contidas nos preceitos citados no n.º 2 do artigo 1.º deste diploma, enquanto não for efectuada a sua prevista regulamentação autónoma;\n\nb) Os modelos de declarações, participações e mapas em vigor.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828649": {
+   "fragment_id": "221827787",
+   "type": 11,
+   "heading": "Artigo 73.º — Remissão legislativa",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 73.º — Remissão legislativa\n\nSempre que as disposições legais remetam para preceitos revogados pelo novo regime jurídico de reparação dos danos emergentes de acidentes de trabalho, entende-se que a remissão é feita para as correspondentes disposições deste novo regime.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  },
+  "221828650": {
+   "fragment_id": "221827788",
+   "type": 11,
+   "heading": "Artigo 74.º — Regime transitório de remição das pensões",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+   ],
+   "markdown": "###### Artigo 74.º — Regime transitório de remição das pensões\n\nAs remições das pensões, previstas na alínea d) do n.º 1 do artigo 17.º e no artigo 33.º da lei, serão concretizadas gradualmente, nos termos do quadro seguinte:\n\n(ver tabela no documento original)\n\n> Nota: [Acórdão n.º 34/2006 - Diário da República n.º 28/2006, Série I-A de 2006-02-08](https://diariodarepublica.pt/dr/detalhe/acordao/34-2006-554127) Declarada a inconstitucionalidade, com força obrigatória geral, da presente norma, na redacção dada pelo Decreto-Lei n.º 382-A/99, de 22 de Setembro, interpretado no sentido de impor a remição obrigatória total de pensões vitalícias atribuídas por incapacidades parciais permanentes do trabalhador/sinistrado, nos casos em que estas incapacidades excedam 30%, por violação do artigo 59.º, n.º 1, alínea f), da Constituição da República Portuguesa; A declaração da inconstitucionalidade produz efeitos apenas a partir de 08-02-2006, exceptuando nos casos em que a remição da pensão se encontre pendente de impugnação judicial ou seja ainda susceptível dessa impugnação.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27"
+  },
+  "221828651": {
+   "fragment_id": "221827789",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - José Eduardo Vera Cruz Jardim - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 15 de Abril de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 186.º do/a [Lei n.º 98/2009 - Diário da República n.º 172/2009, Série I de 2009-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2009-489505), em vigor a partir de 2010-01-01"
+  }
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74032152:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-108301511",
+ "dre_path": "/dr/detalhe/portaria/71-2016-74032152",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108311175",
+    "108311176",
+    "108311177",
+    "108311178",
+    "108311179",
+    "108311180",
+    "108311181",
+    "108311183"
+   ]
+  },
+  {
+   "date": "2017-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108301509:por",
+     "title": "Portaria n.º 304/2017",
+     "published": "2017-10-16",
+     "dre_path": "/dr/detalhe/portaria/304-2017-108301509"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A"
+   ],
+   "fragments": [
+    "108311175",
+    "108311176",
+    "108311177",
+    "108311178",
+    "108311179",
+    "108311189",
+    "108311190",
+    "108311191",
+    "108311192",
+    "108311193"
+   ]
+  }
+ ],
+ "fragments": {
+  "108311175": {
+   "fragment_id": "108301512",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 71/2016\n\nde 5 de abril\n\nFace aos prejuízos provocados pelas intempéries registadas na região norte do país, ocorridas entre 12 e 15 de fevereiro de 2016, e a título excecional, devem ser acionados mecanismos de apoio visando minimizar os danos causados nas explorações vitivinícolas.\n\nNeste contexto, e no que respeita especificamente às parcelas de vinha danificadas, adota-se, com essa finalidade, um conjunto de normas especiais, de caráter mais benéfico, para a campanha de 2016-2017, aplicáveis às candidaturas aos apoios constantes do regime da reestruturação e reconversão da vinha, previsto na Portaria n.º 357/2013, de 10 de dezembro, alterada pelas Portarias n.os 67/2014, de 12 de março, e 219/2015, de 23 de julho, que tenham por objeto parcelas de vinha afetadas pelas referidas intempéries.\n\nPretende-se, com este conjunto de normas especiais, que os apoios constantes da Portaria n.º 357/2013, de 10 de dezembro, contribuam para a recuperação do património vitícola danificado e para a reposição das parcelas de vinha destruídas em consequência dos fenómenos climatéricos observados naquela região.\n\nIncluiu-se, igualmente, na presente portaria, disposições relativas ao aviso de abertura a que alude o n.º 2 do artigo 10.º da Portaria n.º 357/2013, de 10 de dezembro.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo do disposto no artigo 27.º do Decreto-Lei n.º 251-A/2015, de 17 de dezembro, e do artigo 46.º do Regulamento n.º 1308/2013, de 17 de dezembro, o seguinte:"
+  },
+  "108311176": {
+   "fragment_id": "108301513",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece, para a campanha de 2016-2017, um período excecional de candidaturas ao regime da reestruturação e reconversão das vinhas, constante da Portaria n.º 357/2013, de 10 de dezembro, alterada pelas Portarias n.os 67/2014, de 12 de março, e 219/2015, de 23 de julho, que tenham por objeto parcelas afetadas pelas intempéries ocorridas na região norte, entre 12 e 15 de fevereiro de 2016, nas freguesias constantes do Anexo da presente portaria, da qual faz parte integrante."
+  },
+  "108311177": {
+   "fragment_id": "108301514",
+   "type": 11,
+   "heading": "Artigo 2.º — Parcelas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Parcelas elegíveis\n\n1 - Podem beneficiar do presente apoio as pessoas singulares ou coletivas que explorem parcelas de vinha situadas nas freguesias identificadas no artigo 1.º, registadas no Sistema de Identificação da Vinha e do Vinho (SIVV) relativamente às quais foram declarados prejuízos, até 2 de março de 2016, na Direção Regional de Agricultura e Pescas do Norte (DRAPN), confirmados em relatório de levantamento dos prejuízos das intempéries a elaborar pela referida entidade.\n\n2 - São, ainda, elegíveis as parcelas afetadas pelas intempéries que tenham sido objeto de qualquer ajuda no âmbito do regime da reestruturação e reconversão da vinha, nos termos do disposto na alínea f) do n.º 3 do artigo 3.º da Portaria n.º 357/2013, de 10 de dezembro.\n\n3 - O presente apoio não é aplicável às seguintes situações:\n\na) À superfície plantada abandonada, entendendo-se esta, nos termos da alínea c) do artigo 2.º do Regulamento (CE) n.º 436/2009, de 26 de maio de 2009, como o conjunto da superfície plantada com vinha, mas que deixou de estar submetida regularmente a operações de cultivo para obtenção de um produto comercializável;\n\nb) À compensação pela perda de receita inerente à reestruturação e reconversão, nos termos previstos na alínea b) do n.º 1 do artigo 7.º da Portaria n.º 357/2013, de 10 de dezembro.\n\n4 - As despesas são elegíveis após a verificação e validação pela Direção Regional de Agricultura e Pescas do Norte, dos prejuízos declarados pelos beneficiários.\n\n5 - Os beneficiários podem, porém, iniciar os investimentos antes da verificação e validação referida no número anterior, desde que comuniquem o início dos trabalhos à Direção Regional de Agricultura e Pescas do Norte, com uma antecedência mínima de 48 horas."
+  },
+  "108311178": {
+   "fragment_id": "108301515",
+   "type": 11,
+   "heading": "Artigo 3.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Candidaturas\n\nÉ condição indispensável para a submissão de candidaturas que os beneficiários:\n\na) Providenciem a atualização do Registo Central Vitícola, o pedido de emissão de autorizações de plantação e a georreferenciação das parcelas;\n\nb) Procedam à sua inscrição como beneficiários do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) para obtenção do Número de Identificação do IFAP, I. P. (NIFAP), ou atualização dos dados, nomeadamente do IBAN e endereço eletrónico;\n\nc) Procedam à sua inscrição ou atualização dos dados da exploração no Sistema de Identificação Parcelar (iSIP) do IFAP, I. P., para identificação dos novos locais de investimento e comprovação da posse de terra."
+  },
+  "108311179": {
+   "fragment_id": "108301516",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos\n\n1 - No prazo de 15 dias úteis após a entrada em vigor da presente portaria, a DRAPN e o IFAP, I. P., publicitam, nos respetivos sítios na Internet, a lista de potenciais beneficiários e respetivas áreas de vinha afetadas pelas intempéries que constam do relatório a que se refere o n.º 1 do artigo 2.º\n\n2 - Nos termos do n.º 2 do artigo 10.º da Portaria n.º 357/2013, de 10 de dezembro:\n\na) A apresentação das candidaturas ao regime de apoio constante da presente portaria decorre entre 15 e 30 de abril de 2016;\n\nb) As candidaturas são submetidas online na página eletrónica do IFAP, I. P., e serão decididas até 30 de junho de 2016;\n\nc) A decisão de aprovação ou de indeferimento da candidatura será comunicada aos candidatos através dos respetivos endereços eletrónicos inscritos no sistema de informação do IFAP, I. P., ou através do seu sítio da internet, na respetiva área reservada."
+  },
+  "108311180": {
+   "fragment_id": "108301517",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições Especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições Especiais\n\n1 - As parcelas de vinha objeto das candidaturas a que se aplique a presente portaria não estão sujeitas à área mínima elegível constante do n.º 1.2 do anexo I da Portaria n.º 357/2013, de 10 de dezembro.\n\n2 - Às candidaturas agrupadas que beneficiem do regime constante da presente portaria não são aplicáveis os limites mínimos da área total a reestruturar previsto na subalínea iii) da alínea b) do n.º 1 do artigo 6.º da Portaria n.º 357/2013, de 10 de dezembro, devendo, no entanto, a área a reestruturar nestas candidaturas ser igual ou superior a 3 ha."
+  },
+  "108311181": {
+   "fragment_id": "108301518",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108311183": {
+   "fragment_id": "108301520",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)\n\nLista de freguesias onde se encontram localizadas as parcelas afetadas pelas intempéries ocorridas no inverno de 2015-2016\n\n1 - Município de Alijó\n\nFreguesias\n\nAlijó\n\nFavaios\n\nPegarinhos\n\nPinhão\n\nSão Mamede de Ribatua\n\nSanfins do Douro\n\nSanta Eugénia\n\nUnião das freguesias de Carlão e Amieiro\n\nUnião das freguesias de Castedo e Cotas\n\nUnião das freguesias de Vale de Mendiz, Casal de Loivos e Vilarinho de Cotas\n\nVila Chã\n\nVilar de Maçada\n\n2 - Município de Amarante\n\nFreguesias\n\nSalvador do Monte\n\nTelões\n\nTravanca\n\n3 - Município de Arcos de Valdevez\n\nFreguesias\n\nPadroso\n\nUnião das freguesias de Eiras e Mei\n\n4 - Município de Armamar\n\nFreguesias\n\nArmamar\n\nFolgosa\n\nFontelo\n\nQueimada\n\nSão Cosmado\n\nSão Martinho das Chãs\n\nUnião das freguesias de São Romão e Santiago\n\nUnião das freguesias de Vila Seca e Santo Adrião\n\nVacalar\n\n5 - Município de Baião\n\nFreguesias\n\nFrende\n\nGestaçô\n\nGove\n\nGrilo\n\nSanta Marinha do Zêzere\n\nUnião das freguesias de Ancede e Ribadouro\n\nUnião das freguesias de Baião (Santa Leocádia) e Mesquinhata\n\nUnião das freguesias de Campelo e Ovil\n\nUnião das freguesias de Loivos da Ribeira e Tresouras\n\nUnião das freguesias de Santa Cruz do Douro e São Tomé de Covelas\n\nUnião das freguesias de Teixeira e Teixeiró\n\n6 - Município de Carrazeda de Ansiães\n\nFreguesias\n\nFonte Longa\n\nLinhares\n\nMarzagão\n\nParambos\n\nPereiros\n\nPinhal do Norte\n\nPombal\n\nSeixo de Ansiães\n\nUnião das freguesias de Amedo e Zedes\n\nUnião das freguesias de Belver e Mogo de Malta\n\nUnião das freguesias de Castanheiro do Norte e Ribalonga\n\nUnião das freguesias de Lavandeira, Beira Grande e Selores\n\nVilarinho da Castanheira\n\n7 - Município de Figueira de Castelo Rodrigo\n\nFreguesias\n\nEscalhão\n\nUnião das Freguesias de Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia\n\nUnião das Freguesias do Colmeal e Vilar Torpim\n\n8 - Município de Lamego\n\nFreguesias\n\nAvões\n\nBritiande\n\nCambres\n\nFerreiros de Avões\n\nFigueira\n\nLalim\n\nLamego (Almacave e Sé)\n\nLazarim\n\nPenajóia\n\nPenude\n\nSamodães\n\nSande\n\nUnião das freguesias de Bigorne, Magueija e Pretarouca\n\nUnião das freguesias de Cepões, Meijinhos e Melcões\n\nUnião das freguesias de Parada do Bispo e Valdigem\n\n9 - Município de Marco de Canaveses\n\nFreguesias\n\nAlpendorada, Várzea e Torrão\n\nMarco\n\nParedes de Viadores e Manhuncelos\n\nPenhalonga e Paços de Gaiolo\n\nSande e São Lourenço\n\nSobretâmega\n\nTabuado\n\nVárzea, Aliviada e Folhada\n\nVila Boa de Quires e Maureles\n\nVila Boa do Bispo\n\n10 - Município de Meda\n\nFreguesias\n\nLongroiva\n\nPoço do Canto\n\nRanhados\n\nUnião das Freguesias de Meda, Outeiro de Gatos e Fonte Longa\n\nUnião das Freguesias de Vale Flor, Carvalhal e Pai Penela\n\n11 - Município de Melgaço\n\nFreguesias\n\nPenso\n\nUnião das freguesias de Vila e Roussas\n\nAlvaredo\n\nCousso\n\nCristóval\n\nFiães\n\nGave\n\nPaderne\n\nSão Paio\n\nUnião das freguesias de Castro Laboreiro e Lamas de Mouro\n\nUnião das freguesias de Chaviães e Paços\n\nUnião das freguesias de Prado e Remoães\n\n12 - Município de Mesão Frio\n\nFreguesias\n\nBarqueiros\n\nCidadelhe\n\nMesão Frio (Santo André) [União das freguesias de Mesão Frio (Santa Cristina), Mesão Frio (S. Nicolau) e Vila Jusã]\n\nOliveira\n\nVila Marim\n\n13 - Município de Murça\n\nFreguesias\n\nCandedo\n\nJou\n\nMurça\n\nUnião das freguesias de Noura e Palheiros\n\nValongo de Milhais\n\n14 - Município de Paredes\n\nFreguesia\n\nParedes (Besteiros, Castelões de Cepeda, Gondalães, Madalena, Mouriz, Vila Cova de Carros)\n\n15 - Município de Peso da Régua\n\nFreguesias\n\nFontelas\n\nLoureiro\n\nSedielos\n\nUnião das freguesias de Galafura e Covelinhas\n\nUnião das freguesias de Moura Morta e Vinhós\n\nUnião das freguesias de Peso da Régua e Godim\n\nUnião das freguesias de Poiares e Canelas\n\nVilarinho dos Freires\n\n16 - Município de Póvoa de Lanhoso\n\nFreguesias\n\nUnião das freguesias de Campos e Louredo\n\nUnião das freguesias de Fonte Arcada e Oliveira\n\n17 - Município de Resende\n\nFreguesias\n\nBarrô\n\nCárquere\n\nPaus\n\nResende\n\nSão Cipriano\n\nSão João de Fontoura\n\nSão Martinho de Mouros\n\nUnião das freguesias de Anreade e São Romão de Aregos\n\nUnião das freguesias de Felgueiras e Feirão\n\nUnião das freguesias de Freigil e Miomães\n\nUnião das freguesias de Ovadas e Panchorra\n\n18 - Município de Sabrosa\n\nFreguesias\n\nCeleirós\n\nCovas do Douro\n\nGouvinhas\n\nPaços\n\nParada de Pinhão\n\nSabrosa\n\nSouto Maior\n\nTorre do Pinhão\n\nUnião das freguesias de Provesende, Gouvães do Douro e São Cristóvão do Douro\n\nUnião das freguesias de São Martinho de Antas e Paradela de Guiães\n\nVilarinho de São Romão\n\n19 - Município de Santa Marta de Penaguião\n\nFreguesias\n\nAlvações do Corgo\n\nCumieira\n\nFontes\n\nMedrões\n\nSever\n\nUnião das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane\n\nUnião das freguesias de Louredo e Fornelos\n\n20 - Município de São João da Pesqueira\n\nFreguesias\n\nCastanheiro do Sul\n\nErvedosa do Douro\n\nNagozelo do Douro\n\nParedes da Beira\n\nSoutelo do Douro\n\nUnião das freguesias de São João da Pesqueira e Várzea de Trevões\n\nUnião das freguesias de Trevões e Espinhosa\n\nUnião das freguesias de Vilarouco e Pereiros\n\nVale de Figueira\n\nValongo dos Azeites\n\n21 - Município de Tabuaço\n\nFreguesias\n\nAdorigo\n\nArcos\n\nDesejosa\n\nSendim\n\nTabuaço\n\nUnião das freguesias de Barcos e Santa Leocádia\n\nUnião das freguesias de Paradela e Granjinha\n\nUnião das freguesias de Távora e Pereiro\n\nValença do Douro\n\n22 - Município de Torre de Moncorvo\n\nFreguesias\n\nAçoreira\n\nCabeça Boa\n\nLousa\n\nTorre de Moncorvo\n\nUnião das freguesias de Urrós e Peredo dos Castelhanos\n\n23 - Município de Vila Nova de Foz Côa\n\nFreguesias\n\nCastelo Melhor\n\nCedovim\n\nChãs\n\nHorta\n\nNumão\n\nSebadelhe\n\nVila Nova de Foz Côa, Mós e Santo Amaro\n\n24 - Município de Vila Real\n\nFreguesias\n\nAbaças\n\nAndrães\n\nFolhadela\n\nGuiães\n\nLordelo\n\nMondrões\n\nParada de Cunhos\n\nTorgueda\n\nUnião das freguesias de Adoufe e Vilarinho de Samardã\n\nUnião das freguesias de Borbela e Lamas de Olo\n\nUnião das freguesias de Constantim e Vale de Nogueiras\n\nUnião das freguesias de Mouçós e Lamares\n\nUnião das freguesias de Nogueira e Ermida\n\nUnião das freguesias de Pena, Quintã e Vila Cova\n\nUnião das freguesias de Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis)\n\nVila Marim"
+  },
+  "108311189": {
+   "fragment_id": "108301527",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Pedido de pagamento",
+   "in_force_from": "2017-10-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 304/2017 - Diário da República n.º 199/2017, Série I de 2017-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/304-2017-108301509), em vigor a partir de 2017-10-17"
+   ],
+   "markdown": "###### Artigo 4.º-A — Pedido de pagamento\n\nO pedido de pagamento dos investimentos efetuados ao abrigo da presente portaria é apresentado até 30 de junho de 2018.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 304/2017 - Diário da República n.º 199/2017, Série I de 2017-10-16](https://diariodarepublica.pt/dr/detalhe/portaria/304-2017-108301509), em vigor a partir de 2017-10-17"
+  },
+  "108311190": {
+   "fragment_id": "108301517",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições Especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições Especiais\n\n1 - As parcelas de vinha objeto das candidaturas a que se aplique a presente portaria não estão sujeitas à área mínima elegível constante do n.º 1.2 do anexo I da Portaria n.º 357/2013, de 10 de dezembro.\n\n2 - Às candidaturas agrupadas que beneficiem do regime constante da presente portaria não são aplicáveis os limites mínimos da área total a reestruturar previsto na subalínea iii) da alínea b) do n.º 1 do artigo 6.º da Portaria n.º 357/2013, de 10 de dezembro, devendo, no entanto, a área a reestruturar nestas candidaturas ser igual ou superior a 3 ha."
+  },
+  "108311191": {
+   "fragment_id": "108301518",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108311192": {
+   "fragment_id": "108301519",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 18 de março de 2016."
+  },
+  "108311193": {
+   "fragment_id": "108301520",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)\n\nLista de freguesias onde se encontram localizadas as parcelas afetadas pelas intempéries ocorridas no inverno de 2015-2016\n\n1 - Município de Alijó\n\nFreguesias\n\nAlijó\n\nFavaios\n\nPegarinhos\n\nPinhão\n\nSão Mamede de Ribatua\n\nSanfins do Douro\n\nSanta Eugénia\n\nUnião das freguesias de Carlão e Amieiro\n\nUnião das freguesias de Castedo e Cotas\n\nUnião das freguesias de Vale de Mendiz, Casal de Loivos e Vilarinho de Cotas\n\nVila Chã\n\nVilar de Maçada\n\n2 - Município de Amarante\n\nFreguesias\n\nSalvador do Monte\n\nTelões\n\nTravanca\n\n3 - Município de Arcos de Valdevez\n\nFreguesias\n\nPadroso\n\nUnião das freguesias de Eiras e Mei\n\n4 - Município de Armamar\n\nFreguesias\n\nArmamar\n\nFolgosa\n\nFontelo\n\nQueimada\n\nSão Cosmado\n\nSão Martinho das Chãs\n\nUnião das freguesias de São Romão e Santiago\n\nUnião das freguesias de Vila Seca e Santo Adrião\n\nVacalar\n\n5 - Município de Baião\n\nFreguesias\n\nFrende\n\nGestaçô\n\nGove\n\nGrilo\n\nSanta Marinha do Zêzere\n\nUnião das freguesias de Ancede e Ribadouro\n\nUnião das freguesias de Baião (Santa Leocádia) e Mesquinhata\n\nUnião das freguesias de Campelo e Ovil\n\nUnião das freguesias de Loivos da Ribeira e Tresouras\n\nUnião das freguesias de Santa Cruz do Douro e São Tomé de Covelas\n\nUnião das freguesias de Teixeira e Teixeiró\n\n6 - Município de Carrazeda de Ansiães\n\nFreguesias\n\nFonte Longa\n\nLinhares\n\nMarzagão\n\nParambos\n\nPereiros\n\nPinhal do Norte\n\nPombal\n\nSeixo de Ansiães\n\nUnião das freguesias de Amedo e Zedes\n\nUnião das freguesias de Belver e Mogo de Malta\n\nUnião das freguesias de Castanheiro do Norte e Ribalonga\n\nUnião das freguesias de Lavandeira, Beira Grande e Selores\n\nVilarinho da Castanheira\n\n7 - Município de Figueira de Castelo Rodrigo\n\nFreguesias\n\nEscalhão\n\nUnião das Freguesias de Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia\n\nUnião das Freguesias do Colmeal e Vilar Torpim\n\n8 - Município de Lamego\n\nFreguesias\n\nAvões\n\nBritiande\n\nCambres\n\nFerreiros de Avões\n\nFigueira\n\nLalim\n\nLamego (Almacave e Sé)\n\nLazarim\n\nPenajóia\n\nPenude\n\nSamodães\n\nSande\n\nUnião das freguesias de Bigorne, Magueija e Pretarouca\n\nUnião das freguesias de Cepões, Meijinhos e Melcões\n\nUnião das freguesias de Parada do Bispo e Valdigem\n\n9 - Município de Marco de Canaveses\n\nFreguesias\n\nAlpendorada, Várzea e Torrão\n\nMarco\n\nParedes de Viadores e Manhuncelos\n\nPenhalonga e Paços de Gaiolo\n\nSande e São Lourenço\n\nSobretâmega\n\nTabuado\n\nVárzea, Aliviada e Folhada\n\nVila Boa de Quires e Maureles\n\nVila Boa do Bispo\n\n10 - Município de Meda\n\nFreguesias\n\nLongroiva\n\nPoço do Canto\n\nRanhados\n\nUnião das Freguesias de Meda, Outeiro de Gatos e Fonte Longa\n\nUnião das Freguesias de Vale Flor, Carvalhal e Pai Penela\n\n11 - Município de Melgaço\n\nFreguesias\n\nPenso\n\nUnião das freguesias de Vila e Roussas\n\nAlvaredo\n\nCousso\n\nCristóval\n\nFiães\n\nGave\n\nPaderne\n\nSão Paio\n\nUnião das freguesias de Castro Laboreiro e Lamas de Mouro\n\nUnião das freguesias de Chaviães e Paços\n\nUnião das freguesias de Prado e Remoães\n\n12 - Município de Mesão Frio\n\nFreguesias\n\nBarqueiros\n\nCidadelhe\n\nMesão Frio (Santo André) [União das freguesias de Mesão Frio (Santa Cristina), Mesão Frio (S. Nicolau) e Vila Jusã]\n\nOliveira\n\nVila Marim\n\n13 - Município de Murça\n\nFreguesias\n\nCandedo\n\nJou\n\nMurça\n\nUnião das freguesias de Noura e Palheiros\n\nValongo de Milhais\n\n14 - Município de Paredes\n\nFreguesia\n\nParedes (Besteiros, Castelões de Cepeda, Gondalães, Madalena, Mouriz, Vila Cova de Carros)\n\n15 - Município de Peso da Régua\n\nFreguesias\n\nFontelas\n\nLoureiro\n\nSedielos\n\nUnião das freguesias de Galafura e Covelinhas\n\nUnião das freguesias de Moura Morta e Vinhós\n\nUnião das freguesias de Peso da Régua e Godim\n\nUnião das freguesias de Poiares e Canelas\n\nVilarinho dos Freires\n\n16 - Município de Póvoa de Lanhoso\n\nFreguesias\n\nUnião das freguesias de Campos e Louredo\n\nUnião das freguesias de Fonte Arcada e Oliveira\n\n17 - Município de Resende\n\nFreguesias\n\nBarrô\n\nCárquere\n\nPaus\n\nResende\n\nSão Cipriano\n\nSão João de Fontoura\n\nSão Martinho de Mouros\n\nUnião das freguesias de Anreade e São Romão de Aregos\n\nUnião das freguesias de Felgueiras e Feirão\n\nUnião das freguesias de Freigil e Miomães\n\nUnião das freguesias de Ovadas e Panchorra\n\n18 - Município de Sabrosa\n\nFreguesias\n\nCeleirós\n\nCovas do Douro\n\nGouvinhas\n\nPaços\n\nParada de Pinhão\n\nSabrosa\n\nSouto Maior\n\nTorre do Pinhão\n\nUnião das freguesias de Provesende, Gouvães do Douro e São Cristóvão do Douro\n\nUnião das freguesias de São Martinho de Antas e Paradela de Guiães\n\nVilarinho de São Romão\n\n19 - Município de Santa Marta de Penaguião\n\nFreguesias\n\nAlvações do Corgo\n\nCumieira\n\nFontes\n\nMedrões\n\nSever\n\nUnião das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane\n\nUnião das freguesias de Louredo e Fornelos\n\n20 - Município de São João da Pesqueira\n\nFreguesias\n\nCastanheiro do Sul\n\nErvedosa do Douro\n\nNagozelo do Douro\n\nParedes da Beira\n\nSoutelo do Douro\n\nUnião das freguesias de São João da Pesqueira e Várzea de Trevões\n\nUnião das freguesias de Trevões e Espinhosa\n\nUnião das freguesias de Vilarouco e Pereiros\n\nVale de Figueira\n\nValongo dos Azeites\n\n21 - Município de Tabuaço\n\nFreguesias\n\nAdorigo\n\nArcos\n\nDesejosa\n\nSendim\n\nTabuaço\n\nUnião das freguesias de Barcos e Santa Leocádia\n\nUnião das freguesias de Paradela e Granjinha\n\nUnião das freguesias de Távora e Pereiro\n\nValença do Douro\n\n22 - Município de Torre de Moncorvo\n\nFreguesias\n\nAçoreira\n\nCabeça Boa\n\nLousa\n\nTorre de Moncorvo\n\nUnião das freguesias de Urrós e Peredo dos Castelhanos\n\n23 - Município de Vila Nova de Foz Côa\n\nFreguesias\n\nCastelo Melhor\n\nCedovim\n\nChãs\n\nHorta\n\nNumão\n\nSebadelhe\n\nVila Nova de Foz Côa, Mós e Santo Amaro\n\n24 - Município de Vila Real\n\nFreguesias\n\nAbaças\n\nAndrães\n\nFolhadela\n\nGuiães\n\nLordelo\n\nMondrões\n\nParada de Cunhos\n\nTorgueda\n\nUnião das freguesias de Adoufe e Vilarinho de Samardã\n\nUnião das freguesias de Borbela e Lamas de Olo\n\nUnião das freguesias de Constantim e Vale de Nogueiras\n\nUnião das freguesias de Mouçós e Lamares\n\nUnião das freguesias de Nogueira e Ermida\n\nUnião das freguesias de Pena, Quintã e Vila Cova\n\nUnião das freguesias de Vila Real (Nossa Senhora da Conceição, São Pedro e São Dinis)\n\nVila Marim"
+  }
+ }
+}

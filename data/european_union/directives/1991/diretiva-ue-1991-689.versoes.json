@@ -1,0 +1,298 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0689:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0689-20101212",
+ "dre_path": null,
+ "source_lastmod": "2010-12-12",
+ "versions": [
+  {
+   "date": "2006-02-24",
+   "future": false,
+   "celex": "01991L0689-20060224",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bcb8b100f5d56432",
+    "5983ae0ceaa55496",
+    "13a3a33639274692",
+    "b1fa917d56e3146f",
+    "55d358e39554c1bf",
+    "3aa645729cf13617",
+    "be85dbd27545754f",
+    "5c57f34b50e0f44d",
+    "9fdc01cd3a916682",
+    "652fb97209b6d864",
+    "b6b7df049ad74ac2",
+    "ae5cef5133f570f4",
+    "08b66beb65f6c7c3",
+    "d664376e2a8dcecd",
+    "cc8d9d962971cb6c",
+    "a7f67f6e69b47e0d",
+    "710df4ccfdcf7d63",
+    "852174729551523b",
+    "6f26d14d861f8f5e",
+    "720af75c92791b10",
+    "eb0251c8db4a2ae2",
+    "49a1a57fb30feddf",
+    "86ce48bb5242b62a",
+    "6d291ffdbb093b4d"
+   ]
+  },
+  {
+   "date": "2008-12-12",
+   "future": false,
+   "celex": "01991L0689-20081212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime ANEXO I",
+    "Suprime CATEGORIAS OU TIPOS GENÉRICOS DE RESÍDUOS PERIGOSOS CARACTERIZADOS PELA SUA NATUREZA OU PELA ACTIVIDADE DE QUE RESULTAM ([^11^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0011)) (OS RESÍDUOS PODEM APRESENTAR-SE SOB FORMA LÍQUIDA, SÓLIDA OU PASTOSA)",
+    "Suprime ANEXO I A",
+    "Suprime ANEXO I B",
+    "Suprime ANEXO II",
+    "Suprime ELEMENTOS QUE CONFEREM CARÁCTER PERIGOSO AOS RESÍDUOS DO ANEXO I B QUANDO ESTES APRESENTAM QUALQUER DAS CARACTERÍSTICAS DO ANEXO III ([^12^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0012))",
+    "Suprime ANEXO III",
+    "Suprime CARACTERÍSTICAS DE PERIGO ATRIBUÍVEIS AOS RESÍDUOS",
+    "Suprime Notas",
+    "Suprime Métodos de ensaio"
+   ],
+   "fragments": [
+    "3c1e274534ec77c0"
+   ]
+  },
+  {
+   "date": "2010-12-12",
+   "future": false,
+   "celex": "01991L0689-20101212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "7631821185418c24"
+   ]
+  }
+ ],
+ "fragments": {
+  "bcb8b100f5d56432": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Dezembro de 1991\n\nrelativa aos resíduos perigosos\n\n(91/689/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 130.ºS,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0003)),\n\nConsiderando que a Directiva 78/319/CEE do Conselho, de 20 de Março de 1978, relativa aos resíduos tóxicos e perigosos ([^4^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0004)), estabeleceu normas comunitárias relativas à eliminação de resíduos perigosos; que, para ter em conta a experiência adquirida na aplicação desta Directiva pelos Estados-membros, é necessário alterar essas normas e substituir a Directiva 78/319/CEE pela presente directiva;\n\nConsiderando que a resolução do Conselho, de 7 de Maio de 1990, sobre a política em matéria de resíduos ([^5^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0005)) e o programa de acção das Comunidades Europeias relativo ao ambiente, que foi objecto da resolução do Conselho das Comunidades Europeias e do representantes dos Governos dos Estados-membros reunidos no seio do Conselho, de 19 de Outubro de 1987, relativa à prossecução e aplicação de uma política e de um programa de acção da Comunidade Europeia em matéria de ambiente (1987-1992) ([^6^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0006)) prevêem medidas comunitárias tendentes a melhorar as condições de eliminação e de gestão dos resíduos perigosos;\n\nConsiderando que as normas gerais aplicáveis à gestão dos resíduos definidas pela Directiva do Conselho 75/442/CEE, de 15 de Julho de 1975, relativa aos resíduos ([^7^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0007)), com a última redacção que lhe foi dada pela Directiva 91/156/CEE ([^8^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0008)), também se aplicam à gestão dos resíduos perigosos;\n\nConsiderando que a gestão correcta dos resíduos perigosos exige normas suplementares mais restritivas que tenham em conta a natureza específica deste tipo de resíduos;\n\nConsiderando que, para tornar mais eficaz a gestão dos resíduos perigosos na Comunidade, é necessário dispor de uma definição clara e uniforme de resíduos perigosos baseada na experiência;\n\nConsiderando que é necessário garantir que a fiscalização da eliminação e valorização de resíduos perigosos seja o mais completa possível;\n\nConsiderando que deve ser possível adaptar rapidamente ao progresso científico e técnico as disposições desta directiva; que o comité instituído pela Directiva 75/442/CEE deverá ter competência para adaptar a tal progresso as disposições desta directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5983ae0ceaa55496": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva, elaborada por força do n.º 2 do artigo 2.º da Directiva 75/442/CEE, tem por objectivo a aproximação das legislações dos Estados-membros sobre a gestão controlada dos resíduos perigosos.\n\n2. Sob reserva do disposto na presente directiva, as disposições da Directiva 75/442/CEE aplicam-se aos resíduos perigosos.\n\n3. As definições de «resíduos» e dos outros termos utilizados na presente directiva são as da Directiva 75/442/CEE.\n\n4. Para efeitos da presente directiva, entende-se por «resíduos perigosos»:\n\n— os resíduos constantes de uma lista a elaborar, de acordo com o procedimento estabelecido no artigo 18.º da Directiva 75/442/CEE e com base nos seus anexos I e II, o mais tardar seis meses antes do início da aplicação da presente directiva. Estes resíduos deverão possuir uma ou mais das características definidas no anexo III. Esta lista basear-se-á na origem e composição dos resíduos e, se for caso disso, em valores limite de concentração. A lista será periodicamente reanalisada e, se necessário, será revista de acordo com o mesmo procedimento,\n\n— quaisquer outros resíduos que um Estado-membro considerar possuírem pelo menos uma das características referidas no anexo III. Estes casos deverão ser notificados à Comissão e analisados de acordo com o procedimento estabelecido no artigo 18.º da Directiva 75/442/CEE, tendo em vista a sua inclusão na lista.\n\n5. Os resíduos urbanos encontram-se isentos da aplicação do disposto na presente directiva. O mais tardar no final de 1992, o Conselho, sob proposta da Comissão, estabelecerá normas específicas que tenham em conta a natureza particular dos resíduos urbanos."
+  },
+  "13a3a33639274692": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-membros tomarão as medidas necessárias para exigir que, em todos os locais em que se efectue o depósito (descarga) de resíduos perigosos, esses resíduos sejam recenseados e identificados.\n\n2. Os Estados-membros tomarão as medidas necessárias para exigir que os estabelecimentos e as empresas que efectuam a eliminação, valorização, recolha ou transporte de resíduos perigosos não misturem diferentes categorias de resíduos perigosos entre si, nem resíduos perigosos com outros resíduos.\n\n3. Em derrogação ao n.º 2, admite-se todavia a mistura de diferentes tipos de resíduos perigosos entre si e com outros resíduos, substâncias ou matérias, nas condições estabelecidas no artigo 4.º da Directiva 75/442/CEE e, em especial, a fim de melhorar a segurança durante e eliminação ou a valorização desses resíduos. Esta operação está sujeita à autorização referida nos artigos 9.º, 10.º e 11.º da Directiva 75/442/CEE.\n\n4. Sempre que os resíduos perigosos se encontrem já misturados com outros resíduos, substâncias ou matérias, deverá proceder-se à respectiva separação, quando tal for técnica e economicamente exequível e sempre que necessário, a fim de dar cumprimento ao disposto no artigo 4.º da Directiva 75/442/CEE."
+  },
+  "b1fa917d56e3146f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A derrogação à autorização concedida aos estabelecimentos ou empresas que efectuam a eliminação dos seus próprios resíduos referida no n.º 1, alínea a), do artigo 11.º da Directiva 75/442/CEE não se aplica aos resíduos perigosos abrangidos pela presente directiva.\n\n2. Em conformidade com o n.º 1, alínea b) do artigo 11.º da Directiva 75/442/CEE, um Estado-membro pode derrogar ao artigo 10.º dessa Directiva relativamente aos estabelecimentos ou empresas que asseguram a valorização dos resíduos a que se aplica a presente directiva:\n\n— se esse Estado-membro adoptar regras gerais que enumerem os tipos e quantidades de resíduos em causa e se precisar as condições específicas (valores limite de substâncias perigosas contidas nos resíduos, valores limite de emissão, tipo de actividade) e as outras condições que deverão ser respeitadas para efectuar diferentes formas de valorização e\n\n— se os tipos ou quantidades de resíduos, assim como os métodos de valorização, forem de molde a permitir que sejam respeitadas as condições impostas pelo artigo 4.º da Directiva 75/442/CEE.\n\n3. Os estabelecimentos ou empresas referidos no n.º 2 serão registados junto das autoridades competentes.\n\n4. Se um Estado-membro pretender beneficiar do disposto no n.º 2, as normas referidas no n.º 2 serão comunicadas à Comissão o mais tardar três meses antes da sua entrada em vigor. A Comissão consultará os Estados-membros e à luz dessas consultas proporá que essas normas sejam finalmente submetidas a acordo, em conformidade com o disposto no artigo 18.º da Directiva 75/442/CEE."
+  },
+  "55d358e39554c1bf": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O disposto no artigo 13.º da Directiva 75/442/CEE aplica-se igualmente aos produtores de resíduos perigosos.\n\n2. O disposto no artigo 14.º da Directiva 75/442/CEE aplica-se igualmente aos produtores de resíduos perigosos e a qualquer estabelecimento ou empresa que transporte resíduos perigosos.\n\n3. O registo referido no artigo 14.º da Directiva 75/442/CEE deve ser conservado durante pelo menos três anos, excepto no caso dos estabelecimentos e das empresas que efectuam o transporte de resíduos perigosos, as quais devem conservar esses registos durante pelo menos doze meses. Os documentos comprovativos da execução das operações de gestão devem ser facultados a pedido das autoridades competentes ou de um detentor anterior."
+  },
+  "3aa645729cf13617": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-membros tomarão as medidas necessárias para que, aquando da recolha, do transporte e do armazenamento temporário, os resíduos estejam convenientemente embalados e rotulados em conformidade com as normas internacionais e comunitárias em vigor.\n\n2. No que se refere aos resíduos perigosos, as operações de controlo relativas à recolha e ao transporte efectuadas com base no artigo 13.º da Directiva 75/442/CEE incidirão, particularmente, sobre a origem e o destino dos resíduos perigosos.\n\n3. Sempre que forem transferidos, os resíduos perigosos devem ser acompanhados de um formulário de identificação contendo as indicações referidas na secção A do anexo I da Directiva 84/631/CEE do Conselho, de 6 de Dezembro de 1984, relativa à vigilância e ao controlo na Comunidade das transferências transfronteiras de resíduos perigosos ([^9^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0009)), com a última redacção que lhe foi dada pela Directiva 86/279/CEE ([^10^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0010))."
+  },
+  "be85dbd27545754f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Em conformidade com o disposto no artigo 7.º da Directiva 75/442/CEE, as autoridades competentes deverão elaborar e tornar públicos planos para a gestão dos resíduos perigosos, quer separadamente quer no quadro dos respectivos planos gerais de gestão de resíduos.\n\n2. A Comissão procederá a uma avaliação comparativa desses planos, nomeadamente no que respeita aos métodos de eliminação e de valorização. A Comissão porá essas informações à disposição das autoridades competentes dos Estados-membros que as solicitarem."
+  },
+  "5c57f34b50e0f44d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nEm casos de emergência ou de perigo grave, os Estados-membros tomarão todas as medidas necessárias, incluindo, se for caso disso, derrogações temporárias à presente directiva, com o objectivo de que os resíduos perigosos não constituam uma ameaça para a população ou para o ambiente. Os Estados-membros informarão a Comissão acerca das referidas derrogações."
+  },
+  "9fdc01cd3a916682": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. No âmbito do relatório previsto no n.º 1 do artigo 16.º da Directiva 75/442/CEE, e com base num questionário elaborado de acordo com esse artigo, os Estados-membros apresentarão à Comissão um relatório sobre a execução das disposições da presente directiva.\n\n2. Além do relatório de síntese referido no n.º 2 do artigo 16.º da Directiva 75/442/CEE, a Comissão apresentará de três em três anos ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente directiva."
+  },
+  "652fb97209b6d864": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs alterações necessárias para adaptar os anexos da presente directiva ao progresso científico e técnico, bem como para rever a lista de resíduos referida no n.º 4 do artigo 1.º, serão adoptadas em conformidade com o procedimento previsto no artigo 18.º da Directiva 75/442/CEE."
+  },
+  "b6b7df049ad74ac2": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-membros adoptarão e publicarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 27 de Junho de 1995. Do facto informarão imediatamente a Comissão.\n\n2. Sempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão a Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "ae5cef5133f570f4": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA Directiva 78/319/CEE é revogada com efeitos em 27 de Junho de 1995."
+  },
+  "08b66beb65f6c7c3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "cc8d9d962971cb6c": {
+   "fragment_id": "CATEGORIAS OU TIPOS GENÉRICOS DE RESÍDUOS PERIGOSOS CARACTERIZADOS PELA SUA NATUREZA OU PELA ACTIVIDADE DE QUE RESULTAM ([^11^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0011)) (OS RESÍDUOS PODEM APRESENTAR-SE SOB FORMA LÍQUIDA, SÓLIDA OU PASTOSA)",
+   "type": "divisao",
+   "heading": "CATEGORIAS OU TIPOS GENÉRICOS DE RESÍDUOS PERIGOSOS CARACTERIZADOS PELA SUA NATUREZA OU PELA ACTIVIDADE DE QUE RESULTAM ([^11^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0011)) (OS RESÍDUOS PODEM APRESENTAR-SE SOB FORMA LÍQUIDA, SÓLIDA OU PASTOSA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CATEGORIAS OU TIPOS GENÉRICOS DE RESÍDUOS PERIGOSOS CARACTERIZADOS PELA SUA NATUREZA OU PELA ACTIVIDADE DE QUE RESULTAM ([^11^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0011)) (OS RESÍDUOS PODEM APRESENTAR-SE SOB FORMA LÍQUIDA, SÓLIDA OU PASTOSA)"
+  },
+  "a7f67f6e69b47e0d": {
+   "fragment_id": "ANEXO I A",
+   "type": "divisao",
+   "heading": "ANEXO I A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I A\n\nResíduos que possuam qualquer uma das características referidas no anexo III e que sejam constituídos por:\n\n1. Substâncias anatómicas; resíduos dos hospitais ou de outras actividades médicas\n\n2. Produtos farmacêuticos, medicamentos, produtos veterinários\n\n3. Produtos preservadores da madeira\n\n4. Biocidas e produtos fitofarmacêuticos\n\n5. Resíduos de produtos utilizados como solventes\n\n6. Substâncias orgânicas halogenadas não utilizadas como solventes, com exclusão das matérias polimerizadas inertes\n\n7. Sais de têmpera cianetados\n\n8. Óleos e substâncias oleosas minerais (por exemplo, lamas de corte, etc.)\n\n9. Misturas e emulsões de óleo/água ou hidrocarbonetos/água\n\n10. Produtos que contenham PCB e/ou PCT (por exemplo, fluidos dieléctricos, etc.)\n\n11. Matérias à base de alcatrão provenientes de operações de refinação, destilação ou pirólise (por exemplo, depósitos de destilação, etc.)\n\n12. Tintas, corantes, pigmentos, lacas, vernizes\n\n13. Resinas, latex, plastificantes, colas\n\n14. Substâncias químicas não identificadas e/ou novas provenientes de actividades de investigação, de desenvolvimento e de ensino cujos efeitos sobre o homem e/ou sobre o ambiente se desconheçam (por exemplo, resíduos de laboratório, etc.)\n\n15. Produtos pirotécnicos e outras matérias explosivas\n\n16. Produtos de laboratórios fotográficos\n\n17. Qualquer material contaminado por um produto da família dos dibenzofuranos policlorados\n\n18. Qualquer material contaminado por um produto da família dos dibenzoparadioxinas policloradas."
+  },
+  "710df4ccfdcf7d63": {
+   "fragment_id": "ANEXO I B",
+   "type": "divisao",
+   "heading": "ANEXO I B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I B\n\nResíduos que contenham qualquer um dos elementos mencionados no anexo II, que possuam qualquer uma das características referidas no anexo III e que sejam constituídos por:\n\n19. Sabões, matérias gordas, ceras de origem animal ou vegetal\n\n20. Substâncias orgânicas não halogenadas não utilizadas como solventes\n\n21. Substâncias inorgânicas sem metais nem compostos metálicos\n\n22. Escórias e/ou cinzas\n\n23. Terras, argilas ou areias, incluindo as lamas de dragagem\n\n24. Sais de têmpera não cianetados\n\n25. Poeiras ou pós metálicos\n\n26. Materiais catalíticos usados\n\n27. Líquidos ou lamas contendo metais ou compostos metálicos\n\n28. Resíduos de tratamento de despoluição (por exemplo, poeiras de filtros de ar, etc.) excepto os mencionados nos pontos 29, 30 e 33\n\n29. Lamas de lavagem de gases\n\n30. Lamas das instalações de tratamento de águas\n\n31. Resíduos de descarbonatação\n\n32. Resíduos de colunas de permuta iónica\n\n33. Lamas de depuração não tratadas ou não utilizáveis na agricultura\n\n34. Resíduos de limpeza de tanques e/ou equipamentos\n\n35. Material contaminado\n\n36. Recipientes contaminados (por exemplo, embalagens, garrafas de gás, etc.) que tenham contido um ou mais dos elementos referidos no anexo II\n\n37. Acumuladores, baterias e pilhas eléctricas\n\n38. Óleos vegetais\n\n39. Objectos provenientes de uma recolha selectiva junto de habitações e que apresentem uma das características referidas no anexo III\n\n40. Qualquer outro resíduo que contenha qualquer um dos elementos referidos no anexo II ou que apresente qualquer uma das características referidas no anexo III."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "6f26d14d861f8f5e": {
+   "fragment_id": "ELEMENTOS QUE CONFEREM CARÁCTER PERIGOSO AOS RESÍDUOS DO ANEXO I B QUANDO ESTES APRESENTAM QUALQUER DAS CARACTERÍSTICAS DO ANEXO III ([^12^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0012))",
+   "type": "divisao",
+   "heading": "ELEMENTOS QUE CONFEREM CARÁCTER PERIGOSO AOS RESÍDUOS DO ANEXO I B QUANDO ESTES APRESENTAM QUALQUER DAS CARACTERÍSTICAS DO ANEXO III ([^12^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0012))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ELEMENTOS QUE CONFEREM CARÁCTER PERIGOSO AOS RESÍDUOS DO ANEXO I B QUANDO ESTES APRESENTAM QUALQUER DAS CARACTERÍSTICAS DO ANEXO III ([^12^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0012))\n\nResíduos constituídos por:\n\nC1 Berílio e seus compostos\n\nC2 Compostos de vanádio\n\nC3 Compostos de crómio hexavalente\n\nC4 Compostos de cobalto\n\nC5 Compostos de níquel\n\nC6 Compostos de cobre\n\nC7 Compostos de zinco\n\nC8 Arsénico e seus compostos\n\nC9 Selénio e seus compostos\n\nC10 Compostos de prata\n\nC11 Cádmio e seus compostos\n\nC12 Compostos de estanho\n\nC13 Antimónio e seus compostos\n\nC14 Telúrio e seus compostos\n\nC15 Compostos de bário, com excepção do sulfato de bário\n\nC16 Mercúrio e seus compostos\n\nC17 Tálio e seus compostos\n\nC18 Chumbo e seus compostos\n\nC19 Sulfuretos inorgânicos\n\nC20 Compostos inorgânicos de flúor, com excepção do fluoreto de cálcio\n\nC21 Cianetos inorgânicos\n\nC22 Os seguintes metais alcalinos ou alcalino-terrosos sob a forma não combinada: lítio, sódio, potássio, cálcio, magnésio\n\nC23 Soluções ácidas ou ácidos sob forma sólida\n\nC24 Soluções básicas ou bases sob forma sólida\n\nC25 Amianto (poeiras ou fibras)\n\nC26 Fósforo e seus compostos, com excepção dos fosfatos minerais\n\nC27 Carbonilos metálicos\n\nC28 Peróxidos\n\nC29 Cloratos\n\nC30 Percloratos\n\nC31 Azidas\n\nC32 PCB e/ou PCT\n\nC33 Compostos farmacêuticos ou veterinários\n\nC34 Biocidas e substâncias fitofarmacêuticas (por exemplo, pesticidas, etc.)\n\nC35 Substâncias infecciosas\n\nC36 Creosotes\n\nC37 Isocianatos, tiocianatos\n\nC38 Cianetos orgânicos (por exemplo, nitrilos, etc.)\n\nC39 Fenóis e compostos fenólicos\n\nC40 Solventes halogenados\n\nC41 Solventes orgânicos não halogenados\n\nC42 Compostos organo-halogenados, com excepção dos polimerizados inertes e das outras substâncias constantes deste anexo\n\nC43 Compostos aromáticos; compostos orgânicos policíclicos e heterocíclicos\n\nC44 Aminas alifáticas\n\nC45 Aminas aromáticas\n\nC46 Éteres\n\nC47 Substâncias explosivas, com excepção das substâncias constantes de outros pontos deste anexo\n\nC48 Compostos orgânicos de enxofre\n\nC49 Produtos da família dibenzofuranos policlorados\n\nC50 Produtos da família dibenzoparadioxinas policloradas\n\nC51 Outros hidrocarbonetos e seus compostos de oxigénio, azoto e/ou enxofre não especificamente referidos neste anexo"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "eb0251c8db4a2ae2": {
+   "fragment_id": "CARACTERÍSTICAS DE PERIGO ATRIBUÍVEIS AOS RESÍDUOS",
+   "type": "divisao",
+   "heading": "CARACTERÍSTICAS DE PERIGO ATRIBUÍVEIS AOS RESÍDUOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CARACTERÍSTICAS DE PERIGO ATRIBUÍVEIS AOS RESÍDUOS\n\nH1 «Explosivos»: substâncias e preparações que possam explodir sob o efeito de uma chama ou que sejam mais sensíveis aos choques e aos atritos que o dinitrobenzeno.\n\nH2 «Combustíveis»: substâncias e preparações que, em contacto com outras substâncias, nomeadamente com substâncias inflamáveis, apresentam uma reacção fortemente exotérmica.\n\nH3-A «Facilmente inflamável»: substâncias e preparações: — em estado líquido, cujo ponto de inflamação seja inferior a 21 graus Celsius (incluindo os líquidos extremamente iinflamáveis) ou — que possam aquecer e inflamar- se ao ar, a uma temperatura normal, sem contributo de energia externa ou — sólidos que possam inflamar-se facilmente por uma breve acção de uma fonte de inflamação e que continuem a arder ou a consumir-se depois de afastada essa fonte, ou — gasosos que sejam inflamáveis ao ar, a uma pressão normal, ou — que, em contacto com a água ou o ar húmido, desenvolvam gases facilmente inflamáveis em quantidades perigosas.\n\nH3-B «Inflamáveis»: substâncias e preparações líquidas cujo ponto de inflamação seja igual ou superior a 21 graus Celsius e inferior ou igual a 55 graus Celsius.\n\nH4 «Irritantes»: substâncias e preparações não corrosivas que, por contacto imediato, prolongado ou repetido com a pele ou as mucosas, possam provocar um reacção inflamatória.\n\nH5 «Nocivos»: substâncias e preparações cuja inalação, ingestão ou penetração cutânea possam ocasionar efeitos de gravidade limitada.\n\nH6 «Tóxicos»: substâncias e preparações cuja inalação, ingestão ou penetração cutânea possam acarretar riscos graves, agudos ou crónicos e inclusivamente a morte (incluindo as substâncias e preparações muito tóxicas).\n\nH7 «Cancerígenos»: substâncias e preparações cujas inalação, ingestão ou penetração cutânea possam provocar o cancro ou aumentar a sua frequência.\n\nH8 «Corrosivos»: substâncias e preparações que, em contacto com tecidos vivos, possam exercer uma acção destrutiva sobre estes últimos.\n\nH9 «Infecciosos»: matérias que contenham microrganismos viáveis ou suas toxinas, em relação aos quais se saiba ou haja boas razões para crer que causam doenças no homem ou noutros organismos vivos.\n\nH10 «Teratogénicos»: substâncias e preparações cujas inalação, ingestão ou penetração cutânea possam induzir deformações congénitas não hereditárias ou aumentar a respectiva frequência.\n\nH11 «Mutagénicos»: substâncias e preparações cujas inalação, ingestão ou penetração cutânea possam provocar defeitos genéticos hereditários ou aumentar a respectiva frequência.\n\nH12 Substâncias e preparados que, em contacto com a água, o ar ou um ácido, libertem gases tóxicos ou muito tóxicos.\n\nH13 Substâncias susceptíveis de, após eliminação, darem origem, por qualquer meio, a uma outra substância, por exemplo um produto de lixiviação que possua uma das características atrás enumeradas.\n\nH14 «Ecotóxicos»: substâncias e preparações que apresentem ou possam apresentar riscos imediatos ou diferidos para um ou vários sectores do ambiente."
+  },
+  "49a1a57fb30feddf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notas\n\n1. A atribuição das características de perigo «tóxico» (e «muito tóxico»), «nocivo», «corrosivo» e «irritante» será efectuada de acordo com os critérios fixados pelo anexo VI, parte I A e parte II B, da Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas ([^13^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0013)), com a redacção que lhe foi dada pela Directiva 79/831/CEE do Conselho ([^14^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0014)).\n\n2. No que respeita à atribuição das características «cancerígeno», «teratogénico» e «mutagénico», e face ao estado actual dos conhecimentos, existem dados suplementares no guia de classificação e de rotulagem do anexo VI (parte II D) da Directiva 67/548/CEE, com a redacção que lhe foi dada pela Directiva 83/467/CEE da Comissão ([^15^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0015))."
+  },
+  "86ce48bb5242b62a": {
+   "fragment_id": "Métodos de ensaio",
+   "type": "divisao",
+   "heading": "Métodos de ensaio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos de ensaio\n\nOs métodos de ensaio têm por objectivo conferir um significado específico às definições referidas no anexo III.\n\nOs métodos a utilizar são os descritos no anexo V da Directiva 67/548/CEE, com a redacção que lhe foi dada pela Directiva 84/449/CEE da Comissão ([^16^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#E0016)), ou pelas directivas posteriores da Comissão que adaptam a Directiva 67/548/CEE ao progresso técnico. Esses métodos, por sua vez, baseiam-se nos trabalhos e recomendações dos organismos internacionais competentes, em especial da Organização de Cooperação e Desenvolvimento Económicos (OCDE).\n\n---"
+  },
+  "6d291ffdbb093b4d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0001)) JO n.º C 295 de 19. 11. 1988, p. 8 e\n\n> JO n.º C 42 de 22. 2. 1990, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0002)) JO n.º C 158 de 26. 6. 1989, p. 238.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0003)) JO n.º C 56 de 6. 3. 1989, p. 2.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0004)) JO n.º L 84 de 31. 3. 1978, p. 43.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0005)) JO n.º C 122 de 18. 5. 1990, p. 2.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0006)) JO n.º C 328 de 7. 12. 1987, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0007)) JO n.º L 194 de 25. 7. 1975, p. 47.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0008)) JO n.º L 78 de 26. 3. 1991, p. 32.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0009)) JO n.º L 326 de 13. 12. 1984, p. 31.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0010)) JO n.º L 181 de 4. 7. 1986, p. 13.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0011)) Certas repetições relativamente às rubricas do anexo II são intencionais.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0012)) Certas repetições relativamente aos tipos genéricos de resíduos do anexo I são intencionais\n\n> ([^13^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0013)) JO n.º L 196 de 16. 8. 1967, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0014)) JO n.º L 259 de 15. 10. 1979, p. 10.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0015)) JO n.º L 257 de 16. 9. 1983, p. 1.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/4a37ebeb-edba-46cc-87e6-6352da6e8a19.0018.03/DOC_1#src.E0016)) JO n.º L 251 de 19. 9. 1984, p. 1."
+  },
+  "3c1e274534ec77c0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0689 — PT — 12.12.2008 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/391L0689) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/391L0689) [de 12 de Dezembro de 1991](http://publications.europa.eu/resource/celex/391L0689) [relativa aos resíduos perigosos](http://publications.europa.eu/resource/celex/391L0689) [(91/689/CEE)](http://publications.europa.eu/resource/celex/391L0689) (JO L 377, 31.12.1991, p.20)\n\n**revogado por:**"
+  },
+  "7631821185418c24": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0689 — PT — 12.12.2010 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991L0689) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0689) [de 12 de Dezembro de 1991](http://publications.europa.eu/resource/celex/31991L0689) [relativa aos resíduos perigosos](http://publications.europa.eu/resource/celex/31991L0689) [(91/689/CEE)](http://publications.europa.eu/resource/celex/31991L0689) (JO L 377, 31.12.1991, p.20)\n\n**revogado por:**\n\n- [Directiva 2008/98/CE do Parlamento Europeu e do Conselho de 19 de Novembro de 2008](http://publications.europa.eu/resource/celex/32008L0098) — L 312 — 3 — 22.11.2008"
+  }
+ }
+}

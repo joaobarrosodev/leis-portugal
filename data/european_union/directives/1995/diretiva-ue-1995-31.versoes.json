@@ -1,0 +1,99 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0031:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0031-20080708",
+ "dre_path": null,
+ "source_lastmod": "2008-07-08",
+ "versions": [
+  {
+   "date": "1995-07-28",
+   "future": false,
+   "celex": "31995L0031",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885e807c61c409e4",
+    "b8acdf07ad957cb1",
+    "29d60d26ca5b0290",
+    "6933a0293a43d060",
+    "43b38691fb8cc1e5",
+    "8cb2d838f9b75997"
+   ]
+  },
+  {
+   "date": "2008-07-08",
+   "future": false,
+   "celex": "01995L0031-20080708",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime ANEXO — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "f487e0adbb571c61"
+   ]
+  }
+ ],
+ "fragments": {
+  "885e807c61c409e4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 95/31/CE da Comissão, de 5 de Julho de 1995, que estabelece os critérios de pureza específicos dos edulcorantes que podem ser utilizados nos géneros alimentícios** *Jornal Oficial nº L 178 de 28/07/1995 p. 0001 - 0019*\n\nDIRECTIVA 95/31/CE DA COMISSÃO\n\nde 5 de Julho de 1995\n\nque estabelece os critérios de pureza específicos dos edulcorantes que podem ser utilizados nos géneros alimentícios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana (1), com a redacção que lhe foi dada pela Directiva 94/34/CE (2) e, nomeadamente, a alínea a) do nº 3 do seu artigo 3º,\n\nApós consulta do Comité científico da alimentação humana,\n\nConsiderando que, é necessário definir critérios de pureza para todos os edulcorantes previstos na Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentares (3);\n\nConsiderando que é necessário ter em conta as especificações e as técnicas de análise dos edulcorantes do Codex Alimentarius e do Comité Misto FAO/OMS de peritos no domínio dos aditivos alimentares (JECFA);\n\nConsiderando que os aditivos alimentares preparados por recurso a métodos de produção ou a matérias-primas substancialmente diferentes dos abrangidos pela avaliação original do Comité científico da alimentação humana e diferentes dos referidos na presente directiva devem ser objecto de uma avaliação completa por parte deste comité, com especial relevo para os critérios de pureza;\n\nConsiderando que as medidas previstas na presente directiva são conformes com o parecer do Comité permanente dos géneros alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b8acdf07ad957cb1": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. No que se refere aos edulcorantes previstos na Directiva 94/35/CE, são definidos no anexo os critérios de pureza previstos no nº 3, alínea a), do artigo 3º da Directiva 89/107/CEE.\n\n2. Os critérios de pureza dos aditivos E-420(i), E-420(ii) e E-421 que figuram no anexo da presente Directiva prevalecem sobre os critérios de pureza que figuram no anexo da Directiva 78/663/CEE do Conselho (4)."
+  },
+  "29d60d26ca5b0290": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva o mais tardar em 1 de Julho de 1996. Desse facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Todavia, até ao esgotamento das existências, é permitida a comercialização dos produtos não conformes com a presente directiva que tiverem sido colocados no mercado ou rotulados antes dessa data."
+  },
+  "6933a0293a43d060": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "43b38691fb8cc1e5": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 5 de Julho de 1995.\n\nPela Comissão\n\nMartin BANGEMANN\n\nMembro da Comissão\n\n(1) JO nº L 40 de 11. 2. 1989, p. 27.\n\n(2) JO nº L 237 de 10. 9. 1994, p. 1.\n\n(3) JO nº L 237 de 10. 9. 1994, p. 3.\n\n(4) JO nº L 223 de 14. 8. 1978, p. 7."
+  },
+  "8cb2d838f9b75997": {
+   "fragment_id": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — >POSIÇÃO NUMA TABELA>"
+  },
+  "f487e0adbb571c61": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1995L0031 — PT — 08.07.2008 — 006.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31995L0031) [DIRECTIVA 95/31/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31995L0031) [de 5 de Julho de 1995](http://publications.europa.eu/resource/celex/31995L0031) [que estabelece os critérios de pureza específicos dos edulcorantes que podem ser utilizados nos géneros alimentícios](http://publications.europa.eu/resource/celex/31995L0031) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31995L0031) (JO L 178, 28.7.1995, p.1)\n\n**revogado por:**\n\n- [Directiva 2008/60/CE da Comissão de 17 de Junho de 2008](http://publications.europa.eu/resource/celex/32008L0060) — L 158 — 17 — 18.6.2008"
+  }
+ }
+}

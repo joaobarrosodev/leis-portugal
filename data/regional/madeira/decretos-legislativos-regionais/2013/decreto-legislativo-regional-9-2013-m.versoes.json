@@ -1,0 +1,297 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:258534:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2013-160874080",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-2013-258534",
+ "source_lastmod": "2024-12-04",
+ "versions": [
+  {
+   "date": "2013-02-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160771848",
+    "160771849",
+    "160771850",
+    "160771851",
+    "160771852",
+    "160771853",
+    "160771854",
+    "160771855",
+    "160771856",
+    "160771857"
+   ]
+  },
+  {
+   "date": "2024-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:898867723:por",
+     "title": "Decreto Legislativo Regional n.º 12/2024/M",
+     "published": "2024-12-04",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2024-898867723"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Adita Artigo 4.º-C",
+    "Adita Artigo 4.º-D",
+    "Adita Artigo 4.º-E",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "160771848",
+    "898983824",
+    "898983825",
+    "898983826",
+    "898983827",
+    "898983831",
+    "898983838",
+    "898983845",
+    "898983852",
+    "898983859",
+    "898983860",
+    "898983861",
+    "898983862",
+    "898983863",
+    "898983864",
+    "898983865"
+   ]
+  }
+ ],
+ "fragments": {
+  "160771848": {
+   "fragment_id": "160874081",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 9/2013/M\n\nEstabelece as regras de designação, competências e funcionamento das entidades que exercem o poder de autoridade de saúde na Administração Regional Autónoma da Madeira e adapta o Decreto-Lei nº 82/2009, de 2 de abril.\n\nAtravés do Decreto Regulamentar Regional nº 17/2003/M, de 18 de agosto, foi aprovada a regulamentação das formas de nomeação e das competências das autoridades de saúde a nível da Região Autónoma da Madeira, adaptando-se à Região o instituído a nível nacional no Decreto-Lei nº 336/93, de 29 de setembro.\n\nConsiderando que, a nível nacional, o Decreto-Lei nº 336/93, de 29 de setembro, foi revogado pelo Decreto-Lei nº 82/2009, de 2 de abril, o qual estabeleceu as novas regras de designação, competência e funcionamento das entidades que exercem o poder de autoridade de saúde.\n\nConsiderando que importa desenvolver, a nível regional, um regime similar ao instituído a nível nacional, com o objetivo de assegurar um menor custo de funcionamento, mediante a reestruturação das autoridades de saúde de âmbito municipal, que poderão passar a exercer as suas competências em dois concelhos.\n\nPor outro lado, aproveita-se o ensejo para proceder à atualização das referências a órgãos e serviços que intervêm naquele domínio de atribuições e competências, no quadro das reformas de sistema que têm vindo a ser efetuadas. É, pois, de toda a conveniência elaborar um novo dispositivo normativo, harmonizando-se com o regime vigente a nível nacional e balizando-se os órgãos, serviços e competências interventores na matéria.\n\nNesta sequência, importa adaptar à Administração Regional Autónoma da Madeira, o referido diploma, reportando às entidades públicas regionais competentes as competências nele conferidas às diversas entidades nacionais.\n\nForam ouvidas a Associação de Municípios da Região Autónoma da Madeira, bem como as organizações sindicais e representativas dos trabalhadores das entidades afetadas pela presente reorganização de serviços.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto nas alíneas a) e c) do nº 1 do artigo 227º, nº 1 do artigo 228º, ambos da Constituição da República Portuguesa, nas alíneas c) e e) do nº 1 do artigo 37º, na alínea m) do artigo 40º e no nº 1 do artigo 41º, todos do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei nº 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, no desenvolvimento do regime estabelecido na Lei nº 48/90, de 24 de agosto, com as alterações que lhe foram introduzidas pela Lei nº 27/2002, de 8 de novembro, e no artigo 21º do Estatuto do Sistema Regional de Saúde, aprovado pelo Decreto Legislativo Regional nº 4/2003/M, de 7 de abril, o seguinte:"
+  },
+  "160771849": {
+   "fragment_id": "160874082",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece as regras de designação, competências e funcionamento das entidades que exercem o poder de autoridade de saúde na Administração Regional Autónoma da Madeira e adapta o Decreto-Lei nº 82/2009, de 2 de abril, com as especificidades constantes dos artigos seguintes."
+  },
+  "160771850": {
+   "fragment_id": "160874083",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridades de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoridades de saúde\n\n1 - As autoridades de saúde na Administração Regional Autónoma da Madeira situam-se a nível regional e municipal.\n\n2 - As autoridades de saúde dependem hierarquicamente do Secretário Regional dos Assuntos Sociais.\n\n3 - A autoridade de saúde de âmbito regional é o Presidente do Conselho Diretivo do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, adiante designado abreviadamente por IASAÚDE,IP-RAM.\n\n4 - As autoridades de saúde de âmbito municipal são os delegados de saúde, e delegados de saúde adjuntos.\n\n5 - O delegado de saúde é coadjuvado por um delegado de saúde adjunto, que exerce as competências que por aquele lhe forem delegadas, e o substitui nas suas ausências e impedimentos.\n\n6 - Os delegados de saúde são, por inerência, responsáveis pelas respetivas unidades operativas de saúde pública, nos termos de legislação própria."
+  },
+  "160771851": {
+   "fragment_id": "160874084",
+   "type": 11,
+   "heading": "Artigo 3.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Nomeação\n\n1 - Os delegados de saúde e os delegados de saúde adjuntos são nomeados por despacho do Secretário Regional dos Assuntos Sociais, sob proposta do Presidente do Conselho Diretivo do IASAÚDE, IP-RAM, em comissão de serviço prevista na Lei nº 12-A/2008, de 27 de fevereiro, na redação atual, por um período de três anos, de entre médicos da carreira especial médica, da área de exercício profissional de saúde pública, ou, a não ser possível, de entre médicos de áreas de exercício profissional.\n\n2 - No prazo de 90 dias antes do seu termo deve ser proposta, pelo Presidente do Conselho Diretivo do IASAÚDE, IP-RAM, a renovação da comissão de serviço referida no número anterior.\n\n3 - No caso de não renovação, o exercício das funções em regime de gestão corrente não pode exceder o prazo de 90 dias contado da cessação da respetiva comissão de serviço.\n\n4 - Na situação prevista no número anterior, as funções do delegado de saúde são asseguradas em regime de substituição, nos termos da legislação aplicável."
+  },
+  "160771852": {
+   "fragment_id": "160874085",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - As referências, bem como as competências estabelecidas no Decreto-Lei nº 82/2009, de 2 de abril, ao Serviço Nacional de Saúde, ao Ministério da Saúde, às Administrações Regionais de Saúde, entendem-se reportadas na Região Autónoma da Madeira, respetivamente, ao Serviço Regional de Saúde, à Secretaria Regional dos Assuntos Sociais e ao IASAÚDE, IP-RAM.\n\n2 - As referências, bem como as competências estabelecidas no Decreto-Lei nº 82/2009, de 2 de abril, ao Ministro da Saúde, ao diretor-geral da Saúde, aos delegados de saúde e delegados de saúde adjuntos, entendem-se reportadas, na Administração Regional Autónoma da Madeira, respetivamente, ao Secretário Regional dos Assuntos Sociais, ao Presidente do Conselho Diretivo do IASAÚDE, IP-RAM, aos delegados de saúde e delegados de saúde adjuntos."
+  },
+  "160771853": {
+   "fragment_id": "160874086",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remuneração\n\nOs médicos no exercício efetivo de funções de autoridade de saúde que implique a obrigatoriedade de apresentação ao serviço, sempre que solicitados, têm direito a um suplemento remuneratório cujo montante pecuniário será estabelecido por portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública, das Finanças e da Saúde."
+  },
+  "160771854": {
+   "fragment_id": "160874087",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\n1 - O Governo Regional da Madeira adotará as medidas regulamentares necessárias à boa execução do disposto no presente diploma.\n\n2 - As competências e o funcionamento das autoridades de saúde de âmbito municipal poderão ser exercidas pelos delegados de saúde e delegados de saúde adjuntos em mais do que um município, em termos a definir por despacho do membro do Governo com a tutela da área da saúde.\n\n3 - Por despacho do membro do Governo com a tutela da área da saúde, poderão ser indicados municípios que disponham apenas do delegado de saúde."
+  },
+  "160771855": {
+   "fragment_id": "160874088",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional nº 17/2003/M, de 18 de agosto, bem como todos os diplomas que sejam contrários ao estabelecido no presente diploma."
+  },
+  "160771856": {
+   "fragment_id": "160874089",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Disposição transitória\n\nAs autoridades de saúde nomeadas mantêm-se no exercício das suas funções até que se proceda às novas designações, nos termos do artigo 3º do presente diploma."
+  },
+  "160771857": {
+   "fragment_id": "160874090",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação."
+  },
+  "898983824": {
+   "fragment_id": "160874082",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece as regras de designação, competências e funcionamento das entidades que exercem o poder de autoridade de saúde na administração regional autónoma da Madeira, e adapta o Decreto-Lei n.º 82/2009, de 2 de abril, na sua atual redação, de acordo com as especificidades constantes dos artigos seguintes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983825": {
+   "fragment_id": "160874083",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridades de saúde",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 2.º — Autoridades de saúde\n\n1 - As autoridades de saúde na administração regional autónoma da Madeira exercem poderes de âmbito regional e local, e têm como áreas geográficas de intervenção os territórios da Região Autónoma da Madeira e dos polos de concelhos, respetivamente.\n\n2 - (Revogado.)\n\n3 - A autoridade de saúde de âmbito regional é a autoridade de saúde regional ou delegado de saúde regional, que depende hierarquicamente do membro do Governo Regional responsável pela área da saúde.\n\n4 - As autoridades de saúde de âmbito local são as autoridades de saúde locais ou delegados de saúde, que dependem hierarquicamente do delegado de saúde regional.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983826": {
+   "fragment_id": "160874084",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 3.º — Designação\n\n1 - A autoridade de saúde regional ou delegado de saúde regional é designado em comissão de serviço por despacho do membro do Governo Regional responsável pela área da saúde.\n\n2 - As autoridades de saúde locais ou delegados de saúde são designados em comissão de serviço por despacho do membro do Governo Regional responsável pela área da saúde, sob proposta do delegado de saúde regional.\n\n3 - As designações em comissão de serviço a que se referem os números anteriores são efetuadas pelo prazo de três anos, renovável, de entre médicos com grau de especialista de saúde pública ou, não sendo possível, de entre médicos com grau de especialista em áreas relevantes para a saúde pública, integrados nas carreiras médica ou especial médica, independentemente da natureza pública ou privada da relação jurídica de emprego que detêm.\n\n4 - É aplicável à comissão de serviço o regime constante da Lei n.º 35/2014, de 20 de junho, na sua redação atual, ou de diploma que lhe suceda, com as especialidades previstas nos números seguintes.\n\n5 - A renovação das comissões de serviço a que se refere o n.º 2 deve ser proposta pelo delegado de saúde regional no prazo de 90 dias anterior ao seu termo.\n\n6 - No caso de não renovação da comissão de serviço, o exercício das funções em gestão corrente não deve exceder o prazo de 90 dias contado da cessação da respetiva comissão de serviço.\n\n7 - Na situação prevista no número anterior, as funções do delegado de saúde são asseguradas em regime de substituição, nos termos da legislação aplicável.\n\n8 - Perante o manifesto interesse público de assegurar a cobertura efetiva integral do exercício das funções de autoridade de saúde no território da Região Autónoma da Madeira, a título excecional e verificados os demais pressupostos legais, em caso de comprovada impossibilidade de designar médico com grau de especialista de saúde pública, nos termos do n.º 3, o despacho de designação de médico com grau de especialista em áreas relevantes para a saúde pública deve, de forma fundamentada, autorizar expressamente a acumulação de funções de autoridade de saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983827": {
+   "fragment_id": "160874085",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - As referências, bem como as competências estabelecidas no Decreto-Lei n.º 82/2009, de 2 de abril, na sua atual redação, para o Serviço Nacional de Saúde e o Ministério da Saúde, entendem-se reportadas, na Região Autónoma da Madeira, respetivamente, ao Serviço Regional de Saúde e à Secretaria Regional de Saúde e Proteção Civil.\n\n2 - As referências, bem como as competências estabelecidas no Decreto-Lei n.º 82/2009, de 2 de abril, na sua atual redação, para o membro do Governo Regional responsável pela área da saúde, para o diretor-geral da saúde e os delegados de saúde regionais, e para os delegados de saúde coordenadores e delegados de saúde, entendem-se reportadas, na administração regional autónoma da Madeira, respetivamente, ao membro do Governo Regional responsável pela área da saúde, ao delegado de saúde regional e aos delegados de saúde.\n\n3 - As referências a autoridade sanitária, autoridade regional de saúde e seus adjuntos e a autoridades municipais de saúde e seus adjuntos constantes de outros diplomas legais e regulamentares, consideram-se feitas às autoridades de saúde criadas pelo presente diploma.\n\n4 - A representação da Região Autónoma da Madeira, a nível nacional e internacional, em matérias da competência da autoridade de saúde, compete à autoridade de saúde regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983831": {
+   "fragment_id": "898983926",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Autoridade de saúde regional",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 4.º-A — Autoridade de saúde regional\n\n1 - A autoridade de saúde regional ou delegado de saúde regional funciona na dependência orgânica e funcional do departamento do Governo Regional responsável pela área da saúde e é, simultaneamente, o coordenador do Gabinete da Autoridade de Saúde Regional e Emergências em Saúde Pública (GASRESP).\n\n2 - A autoridade de saúde regional é substituída, nas suas ausências e ou impedimentos, por um delegado de saúde por si expressamente designado para o efeito.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983838": {
+   "fragment_id": "898983927",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Autoridades de saúde locais",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 4.º-B — Autoridades de saúde locais\n\n1 - As autoridades de saúde locais ou delegados de saúde exercem as suas competências na área geográfica de intervenção correspondente a um dos polos de concelhos a que se refere o número seguinte, sem prejuízo do disposto no artigo 4.º-C.\n\n2 - A Região Autónoma da Madeira integra quatro polos de concelhos:\n\na) Polo do Funchal, que abrange o concelho do Funchal, para o qual devem ser designados até três delegados de saúde;\n\nb) Polo da Zona Leste, que abrange os concelhos de Santa Cruz, Machico e Santana, para o qual devem ser designados até três delegados de saúde;\n\nc) Polo da Zona Oeste, que abrange os concelhos de Câmara de Lobos, Ribeira Brava, Ponta do Sol, Calheta, S. Vicente e Porto Moniz, para o qual devem ser designados até quatro delegados de saúde; e\n\nd) Polo do Porto Santo, que abrange o concelho do Porto Santo, para o qual devem ser designados até dois delegados de saúde.\n\n3 - Cada polo de concelhos a que se refere o número anterior é coordenado por um delegado de saúde, designado de entre os delegados de saúde do respetivo polo de concelhos, preferencialmente com grau de especialista de saúde pública, por despacho do membro do Governo Regional responsável pela área da saúde, mediante proposta do delegado de saúde regional, de quem depende hierarquicamente.\n\n4 - Caso se revele necessário, podem ser designados delegados de saúde em número superior ao previsto no n.º 2, por proposta do delegado de saúde regional e despacho do membro do Governo Regional responsável pela área da saúde, fundamentados, designadamente, em situações de risco para a saúde pública, ou em função da dimensão ou caracterização dos aglomerados populacionais do polo de concelhos, da quantidade de serviços, estabelecimentos e locais de utilização pública existentes nessa área geográfica, ou na sequência de reorganização dos serviços e organismos da administração pública regional onde se integram as autoridades de saúde.\n\n5 - Os polos de concelhos a que se refere o n.º 2 coincidem com os polos da Unidade de Saúde Pública do Serviço de Saúde da Região Autónoma da Madeira, EPERAM (SESARAM, EPERAM), que assegura a instalação e o normal funcionamento daqueles, sem prejuízo do disposto no artigo 4.º-D.\n\n6 - Os delegados de saúde são substituídos, nas suas ausências e ou impedimentos, por um delegado de saúde do mesmo polo de concelhos designado pelo delegado de saúde coordenador a que se refere o n.º 3 ou, nesta impossibilidade, por um delegado de saúde designado pelo delegado de saúde regional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983845": {
+   "fragment_id": "898983928",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Acumulação de áreas geográficas de intervenção",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 4.º-C — Acumulação de áreas geográficas de intervenção\n\n1 - Os delegados de saúde podem ser designados para exercer as suas funções, simultaneamente, em dois polos de concelhos, no máximo, mediante proposta de designação fundamentada.\n\n2 - O exercício de funções de autoridade de saúde, nos termos do número anterior, não confere direito a acréscimo remuneratório.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983852": {
+   "fragment_id": "898983929",
+   "type": 11,
+   "heading": "Artigo 4.º-D — Apoio técnico e logístico",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 4.º-D — Apoio técnico e logístico\n\n1 - As autoridades de saúde, no exercício do seu poder e competências, dispõem de apoio técnico, tecnológico, informático, de recursos humanos e logístico, incluindo instalações e transportes, assegurado pelo GASREP, pelo departamento do Governo Regional responsável pela área da saúde e pelo SESARAM, EPERAM, nos seguintes termos:\n\na) À autoridade de saúde regional, pelo departamento do Governo Regional responsável pela área da saúde;\n\nb) Às autoridades de saúde locais, pelo SESARAM, EPERAM.\n\n2 - O apoio jurídico e o patrocínio judiciário a que se refere o artigo 14.º do Decreto-Lei n.º 82/2009, de 2 de abril, são assegurados às autoridades de saúde, respetivamente, pelo GASRESP e pelo departamento do Governo Regional responsável pela área da saúde.\n\n3 - Sem prejuízo do disposto nos números anteriores, deve ser assegurado o apoio às autoridades de saúde, em função da natureza específica das matérias, pela Direção Regional da Saúde e pelo SESARAM, EPERAM, bem como por outros serviços ou organismos integrados naquele departamento do Governo Regional.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983859": {
+   "fragment_id": "898983930",
+   "type": 11,
+   "heading": "Artigo 4.º-E — Gabinete da Autoridade de Saúde Regional e Emergências em Saúde Pública",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 4.º-E — Gabinete da Autoridade de Saúde Regional e Emergências em Saúde Pública\n\n1 - O GASRESP presta apoio técnico, tecnológico, informático, de recursos humanos e logístico às autoridades de saúde.\n\n2 - O GASRESP depende hierárquica e funcionalmente da autoridade de saúde regional.\n\n3 - Os recursos humanos afetos ao GASRESP pertencem ao mapa de pessoal da Direção Regional da Saúde.\n\n4 - As competências do GASRESP serão definidas através de despacho do membro do Governo responsável pela área da saúde.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983860": {
+   "fragment_id": "160874086",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 5.º — Remuneração\n\nOs médicos no exercício efetivo de funções de autoridade de saúde regional e local, que implicam a obrigatoriedade de apresentação ao serviço sempre que solicitada, têm direito a um suplemento remuneratório, suportado pelo orçamento do departamento do Governo Regional responsável pela área da saúde, cujo montante pecuniário, termos e condições de atribuição são definidos por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças e da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983861": {
+   "fragment_id": "160874087",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\n1 - O Governo Regional deve adotar as medidas regulamentares necessárias à execução do presente diploma.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983862": {
+   "fragment_id": "160874088",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional nº 17/2003/M, de 18 de agosto, bem como todos os diplomas que sejam contrários ao estabelecido no presente diploma."
+  },
+  "898983863": {
+   "fragment_id": "160874089",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposição transitória",
+   "in_force_from": "2024-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+   ],
+   "markdown": "###### Artigo 8.º — Disposição transitória\n\nAs autoridades de saúde designadas mantêm-se no exercício de funções até que se proceda às novas designações, nos termos do artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2024-898867723), em vigor a partir de 2024-12-05, produz efeitos a partir de 2024-12-05"
+  },
+  "898983864": {
+   "fragment_id": "160874090",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação."
+  },
+  "898983865": {
+   "fragment_id": "160874091",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de janeiro de 2013.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.\n\nAssinado em 6 de fevereiro de 2013.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

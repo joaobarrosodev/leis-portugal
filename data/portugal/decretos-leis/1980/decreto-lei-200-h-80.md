@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:226044:por
+title: Decreto-Lei n.º 200-H/80
+short_title: null
+summary: Mantém os lugares de coordenador regional do núcleo de acção social escolar (CRNASE), que passam a designar-se coordenadores
+  regionais de acção social escolar (CRASE)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 200-H/80
+official_date: null
+publication_date: '1980-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1980, 1º Suplemento, Série I de 1980-06-24
+  number: '143'
+  series: I
+  supplement: null
+  pages: 1456-(10) a 1456-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14301/00100011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '226044'
+  dre_path: /dr/detalhe/decreto-lei/200-h-1980-226044
+  internal: pt:dre:226044:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-h-1980-226044
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-h-1980-226044
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:29:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7737cb70a9b537e1bf82b52e6e380e7c050cb448bf1a1cbc39ffa6544341f44d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ação Social Escolar
+- Coordenador Regional
+- Definição de Competências
+- Ensino Preparatório
+- Estabelecimento de Ensino
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:157037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285941:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549390:por
+  label: "Revogado pelo DEC LEI.361/89.18.10.1989.ME, DR.IS [240] de 18.10.1989, em tudo o que for incompatível com o disposto\
+    \ no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-1989-549390
+  date: '1989-10-18'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:29:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 200-H/80
+
+de 24 de Junho
+
+Considerando que o Decreto-Lei n.º 4/77, de 5 de Janeiro (rectificado no Diário da República, 1.ª série, n.º 6, de 8 de Janeiro), necessita de cuidada revisão face à experiência colhida na sua vigência;
+
+Considerando que o referido diploma, face à sua difícil exequibilidade, se traduziu na inoperância dos objectivos que pretendia alcançar:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º São mantidos os lugares de coordenador regional do núcleo de acção social escolar (CRNASE), criados, em cada uma das zonas de acção social escolar dos ensinos preparatório e secundário, pelo Decreto-Lei n.º 4/77, de 5 de Janeiro, que passam a designar-se coordenadores regionais de acção social escolar (CRASE).
+
+Art. 2.º As zonas de acção social escolar referidas no número anterior são definidas por portaria do Ministro da Educação e Ciência.
+
+Art. 3.º As funções dos coordenadores regionais de acção social escolar serão fixadas por despacho do Ministro da Educação e Ciência e o seu desempenho efectuar-se-á em regime de acumulação com o exercício de funções docentes, sem prejuízo de eventual redução do seu horário lectivo normal.
+
+Art. 4.º - 1 - Os coordenadores regionais de acção social escolar serão nomeados por despacho do Ministro da Educação e Ciência, ouvida a Direcção-Geral de Pessoal e mediante proposta do Instituto de Acção Social Escolar, de entre os professores efectivos e profissionalizados não efectivos dos estabelecimentos de ensino preparatório ou secundário da respectiva zona.
+
+2 - A nomeação será feita por um período de dois anos, renovável por igual período, podendo, porém, os coordenadores ser exonerados, a qualquer momento, por despacho do Ministro da Educação e Ciência.
+
+3 - A nomeação de professores profissionalizados não efectivos considerar-se-á automaticamente revogada sempre que ocorra uma das seguintes situações:
+
+a) Encontrarem-se contratados plurianualmente e serem-lhes rescindidos os contratos nos termos do disposto no artigo 26.º do [Decreto-Lei n.º 519-T1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-t1-1979-157037), de 29 de Dezembro;
+
+b) Não obtenham colocação nos concursos a que foram opositores, salvo se tiverem aceitado todas as possibilidades de colocação previstas na legislação em vigor.
+
+Art. 5.º - 1 - Os coordenadores regionais têm direito a ajudas de custo e subsídios de viagem nos termos da lei geral.
+
+2 - Os coordenadores regionais serão ainda reembolsados das eventuais despesas de expediente e de comunicação que tenham de efectuar no exercício das suas funções.
+
+Art. 6.º Os coordenadores regionais receberão, no exercício das suas funções, o apoio do estabelecimento de ensino a que pertençam, através do respectivo núcleo, e das secretarias dos estabelecimentos pertencentes à zona de acção social escolar respectiva.
+
+Art. 7.º É revogado o Decreto-Lei n.º 4/77, de 5 de Janeiro, e a [Portaria n.º 598/77](https://diariodarepublica.pt/dr/detalhe/portaria/598-1977-285941), de 20 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 4 de Junho de 1980. - Diogo Pinto de Freitas do Amaral.
+
+Promulgado em 24 de Junho de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,1413 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:324937:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-165095504",
+ "dre_path": "/dr/detalhe/decreto-lei/81-1985-324937",
+ "source_lastmod": "2024-10-16",
+ "versions": [
+  {
+   "date": "1985-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165095593",
+    "165095594",
+    "165095595",
+    "165095596",
+    "165095597",
+    "165095598",
+    "165095599",
+    "165095600",
+    "165095601",
+    "165095602",
+    "165095603",
+    "165095604",
+    "165095605",
+    "165095606",
+    "165095607",
+    "165095608",
+    "165095609",
+    "165095610",
+    "165095611",
+    "165095612",
+    "165095613",
+    "165095614",
+    "165095615",
+    "165095616",
+    "165095617",
+    "165095618",
+    "165095619",
+    "165095620",
+    "165095621",
+    "165095622",
+    "165095623",
+    "165095624",
+    "165095625",
+    "165095626",
+    "165095627",
+    "165095628",
+    "165095629",
+    "165095630",
+    "165095631",
+    "165095632",
+    "165095633",
+    "165095634",
+    "165095635",
+    "165095636",
+    "165095637",
+    "165095638",
+    "165095639",
+    "165095640",
+    "165095641",
+    "165095642",
+    "165095643",
+    "165095644",
+    "165095645",
+    "165095646",
+    "165095647",
+    "165095648",
+    "165095649",
+    "165095650",
+    "165095651",
+    "165095652",
+    "165095653",
+    "165095654",
+    "165095655",
+    "165095656",
+    "165095657",
+    "165095658",
+    "165095659",
+    "165095660",
+    "165095661",
+    "165095662",
+    "165095663",
+    "165095664",
+    "165095665",
+    "165095666",
+    "165095667",
+    "165095668",
+    "165095669",
+    "165095670",
+    "165095671",
+    "165095672",
+    "165095673",
+    "165095674",
+    "165095975",
+    "165095976",
+    "165095977",
+    "165095978",
+    "165095979",
+    "165095980",
+    "165095981",
+    "165095982",
+    "165095983",
+    "165095984",
+    "165095985",
+    "165095986"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:179871:por",
+     "title": "Decreto-Lei n.º 310/85",
+     "published": "1985-07-30",
+     "dre_path": "/dr/detalhe/decreto-lei/310-1985-179871",
+     "date": "1985-05-01"
+    }
+   ]
+  },
+  {
+   "date": "1985-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:495129:por",
+     "title": "Declaração",
+     "published": "1985-05-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-495129"
+    }
+   ],
+   "changes": [
+    "Retifica Secção IV",
+    "Retifica Artigo 9.º",
+    "Retifica Artigo 11.º",
+    "Retifica Artigo 16.º",
+    "Retifica Artigo 21.º",
+    "Retifica Artigo 29.º",
+    "Retifica Artigo 31.º",
+    "Retifica Artigo 46.º",
+    "Retifica Artigo 56.º",
+    "Retifica Artigo 60.º",
+    "Retifica Artigo 69.º",
+    "Retifica Artigo 71.º"
+   ],
+   "fragments": [
+    "165095593",
+    "165095594",
+    "165095595",
+    "165095596",
+    "165095597",
+    "165095598",
+    "165095599",
+    "165095600",
+    "165095601",
+    "165095602",
+    "165095603",
+    "165095604",
+    "891107749",
+    "165095606",
+    "891107750",
+    "165095608",
+    "165095609",
+    "165095610",
+    "891107751",
+    "165095612",
+    "165095613",
+    "165095614",
+    "165095615",
+    "891107752",
+    "165095617",
+    "165095618",
+    "165095619",
+    "165095620",
+    "165095621",
+    "165095622",
+    "891107753",
+    "165095624",
+    "165095625",
+    "165095626",
+    "165095627",
+    "165095628",
+    "165095629",
+    "165095630",
+    "165095631",
+    "891540375",
+    "165095633",
+    "165095634",
+    "891107754",
+    "165095636",
+    "165095637",
+    "165095638",
+    "165095639",
+    "165095640",
+    "165095641",
+    "165095642",
+    "165095643",
+    "165095644",
+    "165095645",
+    "165095646",
+    "165095647",
+    "165095648",
+    "165095649",
+    "165095650",
+    "165095651",
+    "165095652",
+    "165095653",
+    "891107755",
+    "165095655",
+    "165095656",
+    "165095657",
+    "165095658",
+    "165095659",
+    "165095660",
+    "165095661",
+    "165095662",
+    "165095663",
+    "165095664",
+    "165095665",
+    "165095666",
+    "891107756",
+    "165095668",
+    "165095669",
+    "165095670",
+    "165095671",
+    "165095672",
+    "891107757",
+    "165095674",
+    "165095975",
+    "165095976",
+    "165095977",
+    "165095978",
+    "165095979",
+    "165095980",
+    "165095981",
+    "891107758",
+    "165095983",
+    "165095984",
+    "891107759",
+    "165095986",
+    "165095987"
+   ]
+  },
+  {
+   "date": "1988-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283477:por",
+     "title": "Decreto-Lei n.º 13/88",
+     "published": "1988-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/13-1988-283477"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 62.º",
+    "Altera Artigo 64.º"
+   ],
+   "fragments": [
+    "165095593",
+    "165095594",
+    "165095595",
+    "165095596",
+    "165095597",
+    "165095598",
+    "165095599",
+    "165095600",
+    "165095601",
+    "165095602",
+    "165095603",
+    "165095604",
+    "891107749",
+    "165095606",
+    "891107750",
+    "165095608",
+    "165095609",
+    "165095610",
+    "891107751",
+    "165095612",
+    "165095613",
+    "165095614",
+    "165095615",
+    "891107752",
+    "165095617",
+    "165095618",
+    "165095619",
+    "165095620",
+    "165095621",
+    "165095622",
+    "891107753",
+    "165095624",
+    "165095625",
+    "165095626",
+    "165095627",
+    "165095628",
+    "165095629",
+    "165095630",
+    "165095631",
+    "891540375",
+    "165095633",
+    "165095634",
+    "891107754",
+    "165095636",
+    "165095637",
+    "165095638",
+    "165095639",
+    "165095640",
+    "165095641",
+    "165095642",
+    "165095643",
+    "165095644",
+    "165095645",
+    "165095646",
+    "891107761",
+    "165095648",
+    "165095649",
+    "165095650",
+    "165095651",
+    "165095652",
+    "165095653",
+    "891107755",
+    "165095655",
+    "165095656",
+    "165095657",
+    "165095658",
+    "165095659",
+    "165095660",
+    "165095661",
+    "165095662",
+    "165095663",
+    "165095664",
+    "165095665",
+    "165095666",
+    "891107756",
+    "165095668",
+    "165095669",
+    "165095670",
+    "165095671",
+    "165095672",
+    "891107757",
+    "165095674",
+    "891107762",
+    "165095976",
+    "891107763",
+    "165095978",
+    "165095979",
+    "165095980",
+    "165095981",
+    "891107758",
+    "165095983",
+    "165095984",
+    "891107759",
+    "165095986",
+    "165095987"
+   ]
+  },
+  {
+   "date": "1991-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:616263:por",
+     "title": "Decreto-Lei n.º 141/91",
+     "published": "1991-04-10",
+     "dre_path": "/dr/detalhe/decreto-lei/141-1991-616263"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 32.º",
+    "Revoga Artigo 63.º"
+   ],
+   "fragments": [
+    "165095593",
+    "165095594",
+    "165095595",
+    "165095596",
+    "165095597",
+    "165095598",
+    "165095599",
+    "165095600",
+    "165095601",
+    "165095602",
+    "165095603",
+    "165095604",
+    "891107749",
+    "165095606",
+    "891107750",
+    "165095608",
+    "165095609",
+    "165095610",
+    "891107751",
+    "165095612",
+    "165095613",
+    "165095614",
+    "165095615",
+    "891107752",
+    "165095617",
+    "165095618",
+    "165095619",
+    "165095620",
+    "165095621",
+    "165095622",
+    "891107753",
+    "165095624",
+    "165095625",
+    "165095626",
+    "165095627",
+    "165095628",
+    "165095629",
+    "165095630",
+    "165095631",
+    "891540375",
+    "165095633",
+    "165095634",
+    "891107754",
+    "891107765",
+    "165095637",
+    "165095638",
+    "165095639",
+    "165095640",
+    "165095641",
+    "165095642",
+    "165095643",
+    "165095644",
+    "165095645",
+    "165095646",
+    "891107761",
+    "165095648",
+    "165095649",
+    "165095650",
+    "165095651",
+    "165095652",
+    "165095653",
+    "891107755",
+    "165095655",
+    "165095656",
+    "165095657",
+    "165095658",
+    "165095659",
+    "165095660",
+    "165095661",
+    "165095662",
+    "165095663",
+    "165095664",
+    "165095665",
+    "165095666",
+    "891107756",
+    "165095668",
+    "165095669",
+    "165095670",
+    "165095671",
+    "165095672",
+    "891107757",
+    "165095674",
+    "891107762",
+    "891107766",
+    "891107764",
+    "165095978",
+    "165095979",
+    "165095980",
+    "165095981",
+    "891107758",
+    "165095983",
+    "165095984",
+    "891107759",
+    "165095986",
+    "165095987"
+   ]
+  }
+ ],
+ "fragments": {
+  "165095593": {
+   "fragment_id": "165095505",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 81/85\n\nde 28 de Março\n\n1. O Decreto-Lei n.º 251/83, de 11 de Junho, que definiu em novos moldes o regime especial de segurança social dos trabalhadores das actividades agrícola, silvícola e pecuária, não chegou efectivamente a ser aplicado por falta de diploma regulamentador. Este não só era indispensável para a concretização de medidas fundamentais do novo regime jurídico, como os esquemas contributivos e respectivos valores, mas condicionava mesmo a sua própria entrada em vigor, por força do disposto no seu artigo 72.º\n\nReunidas agora as condições adequadas à implementação dos normativos regulamentares, reconheceu-se que diversos aspectos do diploma, alguns de significativa importância, careciam de reformulação. É o caso do regime de penalidades, pois a previsão feita da aplicação do regime de contra-ordenação, sem que o mesmo vigorasse igualmente para o regime geral de segurança social e sem que tivessem sido asseguradas as adaptações legislativas e ao nível da gestão das instituições de segurança social, não garantia a desejada eficácia e a necessária equidade em tão importante instituto jurídico.\n\nÉ igualmente o caso das quotizações complementares, com base no rendimento colectável rústico, que, além de dificuldades de ordem prática, agravadas com o escasso peso destas receitas no conjunto dos ingressos contributivos do sistema de segurança social agrícola, suscitava dúvidas quanto à justeza da sua manutenção, já que implicaria de certa forma uma dupla exigência contributiva para as entidades patronais contribuintes do sector.\n\nOutras matérias não menos significativas do decreto-lei determinaram a conveniência da revisão e aperfeiçoamento, designadamente, em primeiro lugar, aspectos de nomenclatura, para adequação ao texto já aprovado na Assembleia da República da nova lei da Segurança Social, em segundo lugar, questões relativas à gestão local, a partir do aparelho administrativo e institucional das casas do povo, dadas as responsabilidades legalmente atribuídas aos centros regionais de segurança social e a necessidade de eficaz articulação com a gestão do regime geral dos trabalhadores por conta de outrem e dos trabalhadores independentes, e, finalmente, numerosos pontos do articulado, em que o tempo decorrido, o estudo da regulamentação ou a reflexão sobre as condições de funcionamento da segurança social agrícola tomaram igualmente de grande conveniência a revisão do texto de algumas disposições.\n\nEste conjunto de motivos, bem como a necessidade de tornar simultânea, quanto possível, a publicação do diploma de base e do diploma regulamentar, que devem constituir um conjunto homogéneo, impuseram, por razões de eficácia legislativa, a substituição integral do Decreto-Lei n.º 251/83, com respeito, não obstante, pelos traços fundamentais que o caracterizam e se considera manterem plena validade.\n\n2. O presente diploma substitui os regimes de previdência e de abono de família dos rurais, instituídos pela Lei n.º 2144, de 29 de Maio de 1969. Termina, assim, um importante ciclo do desenvolvimento do sistema de segurança social, procedendo-se a novo enquadramento e a nova regulamentação, que ficam no caminho directo para a futura integração no regime geral de segurança social.\n\nO percurso a efectuar apresenta, porém, algumas dificuldades. Se no plano legislativo é possível com o presente diploma pôr fim a uma enorme diversidade e dispersão de normas que hoje regem os regimes especiais agrícolas se no plano técnico e social é igualmente possível enquadrar a segurança social agrícola, segundo os princípios e as regras que integram o regime geral, introduzindo um verdadeiro regime contributivo, embora especial, que estabelece direitos a prestações e condições de gestão próprios daquele regime reconhece-se sem dificuldade que no plano financeiro o reordenamento agora operado evidencia as graves distorções e anomalias que têm dificultado um desenvolvimento mais harmónico do sistema de segurança social.\n\nAo longo dos últimos anos, a fixidez das receitas do regime especial, fora de qualquer adequação ao desenvolvimento económico do sector, à evolução dos salários médios agrícolas, bem com o contínuo agravamento das despesas, com actualização periódica das prestações, e o crescente aumento do número de pensionistas (actualmente em número superior ao da população activa) desvirtuaram por completo as características que minimamente deve ter um regime de segurança social, mesmo largamente subsidiado por outros sectores.\n\nCom efeito, em 1984, dada a tendência de rápida diminuição da taxa de cobertura das despesas em prestações pelas receitas próprias (quotizações patronais e dos trabalhadores), esta atingiu o seu ponto mais baixo, a um nível quase puramente simbólico. Assim, enquanto esse ratio, que era em 1974 de 9,2% e tinha passado em 1979 para 5,5%, em 1984 foi cerca de 2,3%. Isto é, de acordo com os elementos à data disponíveis, as despesas com a segurança social agrícola rondaram os 47 milhões de contos, enquanto as receitas próprias se situaram à volta de 1,1 milhão de contos.\n\nEste défice gigantesco de 45,9 milhões de contos é na sua maior parte coberto por transferências de receitas do regime geral dos trabalhadores dos restantes sectores de actividade. A título exemplificativo bastará apenas referir, para salientar a gravidade da situação, que essas receitas não são sequer suficientes para suportar os encargos com subsídios de doença, incluindo a tuberculose, e de maternidade, que em 1984 atingiram cerca de 1,5 milhões de contos. Significa isto que todas as demais despesas com prestações (abonos de família e subsídios - de montante igual ao regime geral -, parte das despesas com subsídio na doença, pensões de invalidez, velhice e sobrevivência e prestações com elas correlacionadas) são inteiramente suportadas pela solidariedade nacional.\n\n3. Será esta, a par das características da actividade profissional agrícola, a razão principal por que parece indispensável manter neste sector um regime especial de segurança social, sem prejuízo, de se consolidar e alargar o campo de aplicação do regime geral, tanto dos trabalhadores por conta de outrem como dos trabalhadores independentes, estabelecendo, com o possível rigor, os respectivos limites, a fim de evitar a incerteza do enquadramento dos vários grupos profissionais.\n\nContudo, com as modificações introduzidas, o esquema de protecção estabelecido neste diploma consagra um verdadeiro regime de segurança social, com características análogas às do regime geral, quer no que respeita ao âmbito e à inscrição, quer no que se refere às prestações e às condições de atribuição do respectivo direito, quer, finalmente, no que respeita à estrutura contributiva (base de incidência e taxas de contribuição).\n\nQuanto ao âmbito, no que respeita ao regime geral de segurança social dos trabalhadores por conta de outrem, alargaram-se as categorias de trabalhadores agrícolas que por ele são abrangidos, englobando, de entre os trabalhadores por conta de outrem, aqueles que o são por forma mais caracterizada ou regular.\n\nProcurou-se clarificar o âmbito do regime geral de segurança social dos trabalhadores independentes de modo a incluir todos os produtores agrícolas e demais trabalhadores que, exercendo actividades por conta própria na agricultura, silvicultura e pecuária, apresentem nível económico que possibilite ou recomende não serem expressamente abrangidos pelo regime especial de segurança social.\n\nO âmbito deste regime especial de segurança social fica, assim, com natureza residual. Só são por ele abrangidos os trabalhadores que se não integram nos regimes anteriormente referidos, ou seja, a generalidade dos trabalhadores eventuais e os trabalhadores por conta própria na agricultura, silvicultura e pecuária de baixos rendimentos. Houve a preocupação de, na definição do âmbito deste regime especial, não permitir que a maior diversificação do modo do exercício de actividade profissional impedisse que algumas camadas de beneficiários fossem por ele abrangidas. Nesta linha se refere expressamente a inclusão dos parceiros pecuários pensadores e a dos familiares ou equiparados dos trabalhadores que exercem actividade por conta própria e desenvolvem conjuntamente actividade comum.\n\n4. No que respeita ao esquema de benefícios, procedeu-se, tanto quanto possível, à aproximação entre o regime especial dos trabalhadores agrícolas e o regime geral.\n\nNa linha de conjugação dos referidos regimes, e prevendo a sua eventual coexistência, procurou-se estabelecer uma relação entre os montantes dos subsídios de doença, tuberculose e maternidade e a posição contributiva global dos beneficiários.\n\nTambém no que se refere às pensões foi adoptada uma fórmula de cálculo em princípio semelhante à do regime geral, sendo certo que, como aliás em muitos casos acontece em tal regime, durante algum tempo as pensões regulamentares se manterão ainda abaixo do mínimo estabelecido, com consequente prevalência transitória deste valor.\n\nTanto no cálculo dos subsídios como no das pensões, passa a utilizar-se, como base, o valor do salário mínimo do sector, sem prejuízo do respeito pelos montantes dos benefícios em curso.\n\nConsagra-se como regra que a atribuição das prestações depende de se encontrar realizado o pagamento das contribuições devidas pelo beneficiário, justificando-se o diferente procedimento em relação ao adoptado no regime geral pelo facto de, no presente regime, o pagamento daquelas contribuições constituir encargo e obrigação do próprio beneficiário, que aqui tem uma responsabilidade específica.\n\nRelativamente ao sistema de contribuição do regime especial de segurança social das actividades agrícolas, ele competirá aos trabalhadores e respectivas entidades patronais, que contribuirão em função do valor do salário mínimo fixado para o sector, aproximando, na forma ainda moderada que se entendeu justa e possível, o respectivo nível do do regime geral.\n\nQuanto à contribuição das entidades patronais, pretende-se dar preponderância às contribuições estabelecidas com base no trabalho por conta de outrem e tendo em vista a aproximação, também neste campo, dos critérios do regime geral. Não se trata de uma actualização da actual contribuição para o regime especial de abono de família, mas de uma autêntica contribuição para a Segurança Social, com repercussão nos benefícios dos trabalhadores, pelo que a sua imposição será acompanhada de medidas adequadas de fiscalização, no sentido de promover o efectivo cumprimento do dever de contribuição das entidades patronais.\n\nO presente diploma garante aos pensionistas de invalidez, velhice e sobrevivência do regime regulamentar dos fundos de previdência das casas do povo o direito, em substituição das prestações que vinham auferindo, às prestações do novo regime especial. Por outro lado, toma em consideração, para efeitos de atribuição das prestações do mesmo regime, as quotizações para o regime dos fundos de previdência das casas do povo ou situações equivalentes a partir de 1 de Janeiro de 1971. A razão está em que só a partir desta data se pode considerar ter existido um regime de protecção social de base minimamente contributiva para a população do meio rural.\n\nFinalmente, e tendo em vista a orientação doutrinária e legal existente do reconhecimento do direito de mera ordenação social, prevê-se que o respectivo sistema em breve venha a substituir o actual regime sancionatório do regime especial, o que se verificará tão depressa se proceda às alterações legislativas e organizacionais indispensáveis à sua eficaz e correcta implementação no conjunto dos regimes de segurança social.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "165095594": {
+   "fragment_id": "165095506",
+   "type": 1,
+   "heading": "Capítulo I — Da segurança social das actividades agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da segurança social das actividades agrícolas"
+  },
+  "165095595": {
+   "fragment_id": "165095507",
+   "type": 8,
+   "heading": "Secção I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições comuns"
+  },
+  "165095596": {
+   "fragment_id": "165095508",
+   "type": 11,
+   "heading": "Artigo 1.º — (Disposição geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Disposição geral)\n\n1 - A protecção pela Segurança Social das pessoas que trabalham em actividades agrícolas efectiva-se, consideradas as condições específicas de exercício da respectiva actividade, através do enquadramento obrigatório, conforme os casos, no regime geral dos trabalhadores por conta de outrem, no dos trabalhadores independentes ou no regime especial de segurança social das actividades agrícolas, nos termos do disposto no presente diploma.\n\n2 - O regime especial de segurança social das actividades agrícolas tem natureza transitória, sendo a sua integração no regime geral de segurança social realizada de forma gradual e adaptada às circunstâncias sociais, económicas e financeiras."
+  },
+  "165095597": {
+   "fragment_id": "165095509",
+   "type": 11,
+   "heading": "Artigo 2.º — (Actividades e explorações agrícolas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Actividades e explorações agrícolas)\n\n1 - Para os efeitos deste diploma, considera-se que a referência a actividades agrícolas abrange de igual modo, genericamente, as actividades próprias da silvicultura e da pecuária.\n\n2 - São igualmente abrangidas pelo disposto no presente diploma as empresas, e respectivos trabalhadores, que se dediquem à produção da pecuária, da horto-fruticultura, da floricultura, da avicultura e da apicultura, em que a terra tem como função predominantemente o suporte de instalações e cujos produtos se destinam ao mercado comercial ou industrial."
+  },
+  "165095598": {
+   "fragment_id": "165095510",
+   "type": 8,
+   "heading": "Secção II — Enquadramento no regime geral dos trabalhadores por conta de outrem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Enquadramento no regime geral dos trabalhadores por conta de outrem"
+  },
+  "165095599": {
+   "fragment_id": "165095511",
+   "type": 11,
+   "heading": "Artigo 3.º — (Trabalhadores abrangidos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Trabalhadores abrangidos)\n\nSão abrangidos pelo regime geral dos trabalhadores por conta de outrem os trabalhadores ao serviço da exploração agrícola:\n\na) Que sejam trabalhadores agrícolas permanentes, independentemente da natureza e dimensão da exploração agrícola;\n\nb) Que exerçam profissão para cujo exercício se exijam habilitações técnico-profissionais especializadas;\n\nc) Que exerçam profissão comum a outras actividades económicas;\n\nd) Que prestem serviço às empresas referidas no n.º 2 do artigo 2.º;\n\ne) Que, sendo profissionalmente indiferenciados, prestem serviço, embora a título eventual, a empresas individuais ou colectivas com 5 ou mais trabalhadores permanentes."
+  },
+  "165095600": {
+   "fragment_id": "165095512",
+   "type": 11,
+   "heading": "Artigo 4.º — (Trabalhadores agrícolas permanentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Trabalhadores agrícolas permanentes)\n\nConsideram-se trabalhadores permanentes de uma exploração agrícola:\n\na) Os trabalhadores contratados por tempo indeterminado para a prestação de trabalho quotidiano à mesma entidade patronal, ainda que a remuneração não seja paga ao mês;\n\nb) Os trabalhadores contratados por qualquer período de tempo para o exercício de funções, cuja natureza implique, necessariamente, prestação quotidiana de trabalho, ainda que não a tempo completo;\n\nc) Os trabalhadores contratados por prazo igual ou superior a 1 ano que aufiram regularmente remuneração correspondente a, pelo menos, em média, 15 dias de prestação de trabalho por mês;\n\nd) Os trabalhadores contratados ainda que por período de tempo inferior a 1 ano, desde que a regulamentação colectiva de trabalho aplicável o determine."
+  },
+  "165095601": {
+   "fragment_id": "165095513",
+   "type": 11,
+   "heading": "Artigo 5.º — (Trabalhadores com habilitações técnico-profissionais especializadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Trabalhadores com habilitações técnico-profissionais especializadas)\n\nConsidera-se que exercem profissão para cujo exercício se exigem habilitações técnico-profissionais especializadas os engenheiros silvicultores, os engenheiros agrónomos, os médicos veterinários, os engenheiros técnicos agrários, os agentes rurais, os agentes de educação rural, os tractoristas agrícolas, os mestres lagareiros, os tiradores de cortiça, os podadores, os resineiros e os jardineiros."
+  },
+  "165095602": {
+   "fragment_id": "165095514",
+   "type": 11,
+   "heading": "Artigo 6.º — (Trabalhadores que exercem profissões comuns)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Trabalhadores que exercem profissões comuns)\n\nConsidera-se que exercem profissão comum a outras actividades os empregados de escritório, os motoristas, os trabalhadores metalúrgicos e os trabalhadores da construção civil."
+  },
+  "165095603": {
+   "fragment_id": "165095515",
+   "type": 8,
+   "heading": "Secção III — Enquadramento no regime geral dos trabalhadores independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Enquadramento no regime geral dos trabalhadores independentes"
+  },
+  "165095604": {
+   "fragment_id": "165095516",
+   "type": 11,
+   "heading": "Artigo 7.º — (Trabalhadores independentes abrangidos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Trabalhadores independentes abrangidos)\n\nSão abrangidos pelo regime geral de segurança social dos trabalhadores independentes os produtores agrícolas e demais trabalhadores autónomos que exerçam actividade por conta própria na agricultura e que não sejam abrangidos pelo regime especial de segurança social previsto neste diploma."
+  },
+  "165095605": {
+   "fragment_id": "165095517",
+   "type": 8,
+   "heading": "Secção IV — Enquadramento no regime geral de segurança social das actividades agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Enquadramento no regime geral de segurança social das actividades agrícolas"
+  },
+  "165095606": {
+   "fragment_id": "165095518",
+   "type": 11,
+   "heading": "Artigo 8.º — (Trabalhadores abrangidos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Trabalhadores abrangidos)\n\nSão obrigatoriamente abrangidos pelo regime especial de segurança social das actividades agrícolas:\n\na) Os trabalhadores por conta de outrem que prestem serviço em explorações agrícolas e que não sejam, por essa mesma actividade, abrangidos pelo regime geral;\n\nb) Os produtores agrícolas, ou como tais considerados, nos termos do artigo 9.º, que exerçam actividade profissional por conta própria, de modo exclusivo ou predominante, na agricultura, se o rendimento anual do respectivo agregado familiar não for normalmente superior ao valor estabelecido em regulamento;\n\nc) Os familiares ou equiparados dos produtores agrícolas que, não auferindo direito a abono de família, com eles vivam em economia comum e exerçam na mesma exploração agrícola actividade profissional que constitua o seu meio de subsistência."
+  },
+  "165095607": {
+   "fragment_id": "165095519",
+   "type": 11,
+   "heading": "Artigo 9.º — (Produtores agrícolas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Produtores agrícolas)\n\nSão considerados produtores agrícolas, para os efeitos do enquadramento como beneficiários no regime previsto neste diploma:\n\na) As pessoas que, a qualquer título, de direito ou de facto, detenham a terra e nela exerçam actividade agrícola, nomeadamente os proprietários, os usufrutuários e os arrendatários;\n\nb) Os parceiros pensadores que, com predominância, exerçam esta actividade."
+  },
+  "165095608": {
+   "fragment_id": "165095520",
+   "type": 11,
+   "heading": "Artigo 10.º — (Familiares ou equiparados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Familiares ou equiparados)\n\nConsideram-se familiares ou equiparados os cônjuges, os parentes e os afins em linha recta e no 2.º grau da linha colateral, os adoptantes, os adoptados e os tutelados."
+  },
+  "165095609": {
+   "fragment_id": "165095521",
+   "type": 1,
+   "heading": "Capítulo II — Do regime especial de segurança social das actividades agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do regime especial de segurança social das actividades agrícolas"
+  },
+  "165095610": {
+   "fragment_id": "165095522",
+   "type": 8,
+   "heading": "Secção I — Da inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da inscrição"
+  },
+  "165095611": {
+   "fragment_id": "165095523",
+   "type": 11,
+   "heading": "Artigo 11.º — (Integração de regime especial de previdência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Integração de regime especial de previdência)\n\nO regime especial de segurança social estabelecido neste diploma integra e substitui o regime especial dos fundos de previdência das casas do povo e o regime especial de abono de família dos trabalhadores rurais previstos na Lei n.º 2144, de 29 de Maio de 1969, e legislação complementar."
+  },
+  "165095612": {
+   "fragment_id": "165095524",
+   "type": 11,
+   "heading": "Artigo 12.º — (Obrigatoriedade de inscrição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Obrigatoriedade de inscrição)\n\nÉ obrigatória a inscrição no regime especial, como beneficiários, dos trabalhadores agrícolas por ele abrangidos nos termos do artigo 8.º e, como contribuintes, das entidades patronais que tenham ao seu serviço os trabalhadores referidos na alínea a) do mesmo artigo."
+  },
+  "165095613": {
+   "fragment_id": "165095525",
+   "type": 11,
+   "heading": "Artigo 13.º — (Local e início de inscrição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Local e início de inscrição)\n\nA inscrição dos trabalhadores abrangidos pelo presente regime é feita no centro regional de segurança social que abranja o local da sua residência e reporta-se ao início do mês a que se refira a primeira contribuição devida em seu nome."
+  },
+  "165095614": {
+   "fragment_id": "165095526",
+   "type": 11,
+   "heading": "Artigo 14.º — (Processo da inscrição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Processo da inscrição)\n\n1 - A inscrição dos trabalhadores efectuar-se-á com base no boletim de identificação, preenchido pelo próprio ou a seu rogo dentro do prazo em que deva ser entregue a primeira contribuição devida em seu nome.\n\n2 - O boletim de identificação será instruído com os documentos seguintes:\n\na) Certidão de registo de nascimento, bilhete de identidade, cédula pessoal ou outro documento de identificação bastante;\n\nb) Sendo caso disso, declaração, sob compromisso de honra, dos rendimentos dos produtores agrícolas referidos na alínea b) do artigo 8.º"
+  },
+  "165095615": {
+   "fragment_id": "165095527",
+   "type": 11,
+   "heading": "Artigo 15.º — (Inscrição oficiosa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Inscrição oficiosa)\n\n1 - Os centros regionais de segurança social podem, a todo o tempo, exigir outros meios de prova da existência dos requisitos exigidos para a inscrição e promover oficiosamente a recolha de elementos adequados à mesma finalidade.\n\n2 - Os centros regionais de segurança social podem igualmente proceder de modo directo à inscrição do beneficiário, se dispuserem dos elementos indispensáveis."
+  },
+  "165095616": {
+   "fragment_id": "165095528",
+   "type": 11,
+   "heading": "Artigo 16.º — (Nulidade de inscrição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Nulidade de inscrição)\n\nA inscrição, como beneficiário, do trabalhador agrícola por conta de outrem ou por conta própria que não preencha os requisitos legalmente estabelecidos neste diploma é nula, podendo a respectiva declaração ser feita a todo o tempo."
+  },
+  "165095617": {
+   "fragment_id": "165095529",
+   "type": 11,
+   "heading": "Artigo 17.º — (Inscrição automática)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Inscrição automática)\n\nConsideram-se automaticamente inscritas no regime especial de segurança social estabelecido neste diploma as pessoas inscritas como beneficiários activos do regime especial dos fundos de previdência das casas do povo, sem prejuízo da avaliação a que os centros regionais de segurança social devem proceder para verificação das condições de inscrição no regime especial previsto no presente diploma."
+  },
+  "165095618": {
+   "fragment_id": "165095530",
+   "type": 8,
+   "heading": "Secção II — Das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das prestações"
+  },
+  "165095619": {
+   "fragment_id": "165095531",
+   "type": 3,
+   "heading": "Subsecção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições gerais"
+  },
+  "165095620": {
+   "fragment_id": "165095532",
+   "type": 11,
+   "heading": "Artigo 18.º — (Esquema de prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Esquema de prestações)\n\n1 - Os beneficiários abrangidos pelo regime especial e os respectivos familiares têm direito às prestações do regime geral dos trabalhadores por conta de outrem, com as particularidades constantes deste diploma.\n\n2 - Exceptuam-se das prestações referidas no número anterior o subsídio por cônjuge a cargo do pensionista e o subsídio previsto no Decreto n.º 484/73, de 27 de Setembro, com a redacção dada pelo Decreto n.º 89/81, de 14 de Julho."
+  },
+  "165095621": {
+   "fragment_id": "165095533",
+   "type": 11,
+   "heading": "Artigo 19.º — (Protecção na doença profissional e desemprego)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Protecção na doença profissional e desemprego)\n\n1 - Os beneficiários do regime especial de segurança social estabelecido neste diploma têm direito à cobertura do risco de doença profissional, de acordo com o esquema da Caixa Nacional de Seguros de Doenças Profissionais.\n\n2 - Têm direito ao subsídio social de desemprego previsto no Decreto-Lei n.º 20/85, de 17 de Janeiro, com as necessárias adaptações, os trabalhadores agrícolas abrangidos pelo regime especial de segurança social que tenham exercido a sua actividade por conta de outrem, com a correspondente entrada de contribuições, durante o período de 180 dias nos 360 anteriores à data do desemprego."
+  },
+  "165095622": {
+   "fragment_id": "165095534",
+   "type": 11,
+   "heading": "Artigo 20.º — (Caracterização das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Caracterização das prestações)\n\nA atribuição do direito às prestações, os respectivos montantes e as formas de cálculo regem-se pelo disposto no regime geral dos trabalhadores por conta de outrem em tudo o que não for especialmente regulado."
+  },
+  "165095623": {
+   "fragment_id": "165095535",
+   "type": 11,
+   "heading": "Artigo 21.º — (Atribuição do direito às prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Atribuição do direito às prestações)\n\n1 - A atribuição do direito às prestações depende de o trabalhador estar inscrito e ter regularizada a situação contributiva pela qual é responsável.\n\n2 - A falta de pagamento de contribuições devidas pelo beneficiário a que não corresponda a situação de equivalência determina a perda das prestações que se vencerem desde o início do mês seguinte àquele em que deviam ter sido pagas até o início do mês seguinte ao da regularização da situação contributiva.\n\n2 - A dívida de contribuições do beneficiário não prejudica, porém, a atribuição do direito ao subsídio por morte, à pensão de sobrevivência e ao subsídio de funeral por falecimento do mesmo beneficiário, casos em que o montante das contribuições em dívida será deduzido no quantitativo destas prestações."
+  },
+  "165095624": {
+   "fragment_id": "165095536",
+   "type": 11,
+   "heading": "Artigo 22.º — (Base de cálculo das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Base de cálculo das prestações)\n\nPara efeito do cálculo do montante das prestações, estabelecido em função da remuneração, considera-se como tal a que se encontrar registada em nome do beneficiário, com referência à remuneração mínima mensal garantida para a generalidade dos trabalhadores do sector."
+  },
+  "165095625": {
+   "fragment_id": "165095537",
+   "type": 11,
+   "heading": "Artigo 23.º — (Totalização de tempos de contribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Totalização de tempos de contribuição)\n\nSe o beneficiário tiver sido abrangido pelo regime dos trabalhadores por conta de outrem, pelo regime dos trabalhadores independentes e pelo regime especial estabelecido neste diploma, somar-se-ão, quando necessário, os tempos de contribuição na parte em que não se sobreponham, para se darem como vencidos os prazos de garantia das modalidades comuns."
+  },
+  "165095626": {
+   "fragment_id": "165095538",
+   "type": 11,
+   "heading": "Artigo 24.º — (Direitos a atribuir pelo recurso à totalização de períodos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Direitos a atribuir pelo recurso à totalização de períodos)\n\nQuando, nos termos do disposto no artigo anterior, para se darem como vencidos os prazos de garantia das prestações de qualquer dos regimes, for necessário considerar tempos de contribuição ou de quotização noutro regime, observar-se-á o seguinte:\n\na) O quantitativo das prestações pecuniárias será sempre o estabelecido para o regime especial;\n\nb) O encargo correspondente à atribuição das prestações será imputado ao regime pelo qual o beneficiário se encontre abrangido no momento em que ocorra o evento determinante da concessão."
+  },
+  "165095627": {
+   "fragment_id": "165095539",
+   "type": 11,
+   "heading": "Artigo 25.º — (Acumulação de direitos sem recurso à totalização de períodos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Acumulação de direitos sem recurso à totalização de períodos)\n\nNo caso de se acumular o direito a prestações pelo regime especial e pelo regime dos trabalhadores por conta de outrem ou dos trabalhadores independentes, sem necessidade de considerar tempos de contribuição ou de quotização em mais de um regime, ao beneficiário só serão concedidas prestações por um dos regimes e, de entre estes, pelo mais favorável, salvo o que em contrário dispuser o presente diploma."
+  },
+  "165095628": {
+   "fragment_id": "165095540",
+   "type": 3,
+   "heading": "Subsecção II — Das prestações na doença e na maternidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Das prestações na doença e na maternidade"
+  },
+  "165095629": {
+   "fragment_id": "165095541",
+   "type": 11,
+   "heading": "Artigo 26.º — (Condição geral de atribuição do direito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Condição geral de atribuição do direito)\n\n1 - A atribuição do direito aos subsídios pecuniários na doença e na maternidade é condicionada pela não recusa do beneficiário de assistência médica adequada.\n\n2 - A recusa injustificada de assistência médica por parte do beneficiário deverá ser comunicada pelos serviços médicos competentes à instituição de segurança social em que aquele estiver inscrito.\n\n3 - A não aceitação pelo beneficiário de determinado médico assistente, desde que devidamente fundamentada, não deve ser considerada para os efeitos do número anterior."
+  },
+  "165095630": {
+   "fragment_id": "165095542",
+   "type": 11,
+   "heading": "Artigo 27.º — (Cálculo dos subsídios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Cálculo dos subsídios)\n\n1 - O montante do subsídio diário na doença, incluindo a tuberculose, e do subsídio diário na maternidade será igual ao produto do número inteiro de dias de trabalho por conta de outrem registados no período de tempo considerado para efeito de cálculo do subsídio por um factor a fixar em regulamento para cada modalidade.\n\n2 - Para a determinação do número inteiro de dias de trabalho somam-se as fracções eventualmente existentes, arredondando-se o total por excesso.\n\n3 - Os factores previstos no n.º 1 serão determinados com base na aplicação das regras de cálculo do regime geral ao valor da remuneração mínima do sector tomada em consideração.\n\n4 - Os factores estabelecidos, nos termos deste artigo, para cálculo dos subsídios na doença, incluindo a tuberculose, e na maternidade serão periodicamente actualizados por despacho do Ministro do Trabalho e Segurança Social."
+  },
+  "165095631": {
+   "fragment_id": "165095543",
+   "type": 11,
+   "heading": "Artigo 28.º — (Montantes mínimos e máximos dos subsídios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Montantes mínimos e máximos dos subsídios)\n\n1 - O subsídio a conceder não poderá, contudo, ser inferior nem superior aos quantitativos igualmente fixados em regulamento.\n\n2 - Tratando-se dos beneficiários a que se refere o artigo 9.º que não tenham registado trabalho por conta de outrem, o subsídio será igual ao valor mínimo a que se refere o n.º 1."
+  },
+  "165095632": {
+   "fragment_id": "165095544",
+   "type": 11,
+   "heading": "Artigo 29.º — (Cumulação de direitos a subsídios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Cumulação de direitos a subsídios)\n\nOs subsídios na doença, incluindo a tuberculose, e na maternidade, atribuídos pelo regime especial nos termos do artigo 27.º, são cumuláveis com idênticas prestações concedidas pelo regime dos trabalhadores por conta de outrem e dos trabalhadores independentes, tendo em atenção as seguintes especialidades:\n\na) A determinação dos meses a considerar para o cálculo dos respectivos montantes será feita nos termos do regime geral, atendendo-se, porém, para o efeito, quando a cumulação respeite ao regime geral e ao regime especial de segurança social estabelecido neste diploma, ao número de dias de trabalho prestado, em cada mês, no conjunto dos 2 regimes;\n\nb) O cálculo dos subsídios será feito atendendo apenas e separadamente ao registo do trabalho prestado no âmbito de cada um dos regimes;\n\nc) O quantitativo diário do subsídio global a pagar em caso de cumulação não será inferior ao valor mínimo estabelecido para o regime especial, nos termos do artigo 28.º"
+  },
+  "165095633": {
+   "fragment_id": "165095545",
+   "type": 3,
+   "heading": "Subsecção III — Das prestações na invalidez, na velhice e por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Das prestações na invalidez, na velhice e por morte"
+  },
+  "165095634": {
+   "fragment_id": "165095546",
+   "type": 11,
+   "heading": "Artigo 30.º — (Condição geral de atribuição da pensão de invalidez)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Condição geral de atribuição da pensão de invalidez)\n\nÉ aplicável à atribuição da pensão de invalidez, com as necessárias adaptações, o disposto no artigo 26.º sobre assistência médica nas situações de impedimento por doença e maternidade."
+  },
+  "165095635": {
+   "fragment_id": "165095547",
+   "type": 11,
+   "heading": "Artigo 31.º — (Cálculo das pensões de invalidez, velhice e sobrevivência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Cálculo das pensões de invalidez, velhice e sobrevivência)\n\n1 - O cálculo das pensões de invalidez, de velhice e de sobrevivência será efectuado nos termos estabelecidos para o regime geral, com as particularidades constantes dos números seguintes.\n\n2 - Para os efeitos do disposto no n.º 1, a remuneração correspondente a cada um dos meses em que, por aplicação do artigo 39.º, tenha havido redução da contribuição do beneficiário para o regime especial será a remuneração mínima mensal do sector, reduzida na mesma proporção em que o tiver sido aquela contribuição.\n\n3 - Sempre que o valor estatutário das pensões, calculado nos termos dos números anteriores, for inferior ao valor mínimo estabelecido, será atribuída uma melhoria de valor igual ao necessário para perfazer esse montante."
+  },
+  "165095636": {
+   "fragment_id": "165095548",
+   "type": 11,
+   "heading": "Artigo 32.º — (Acumulação de direito a pensões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Acumulação de direito a pensões)\n\n1 - Os direitos às pensões de invalidez, de velhice e de sobrevivência, pelo regime especial e por outros regimes de inscrição obrigatória, são acumuláveis, nos termos do disposto nas normas gerais sobre acumulação de pensões e de harmonia com as disposições do presente diploma.\n\n2 - Para os efeitos do disposto neste artigo, considera-se que:\n\na) O valor da pensão estatutária do regime especial, a tratar em condições análogas às da pensão estatutária do regime geral, é o valor da pensão calculada nos termos dos n.os 1 e 2 do artigo 31.º, tendo em consideração o disposto no artigo 62.º;\n\nb) O valor global da pensão estatutária é o que resultar da adição dos quantitativos estatutários das pensões de natureza contributiva."
+  },
+  "165095637": {
+   "fragment_id": "165095549",
+   "type": 11,
+   "heading": "Artigo 33.º — (Subsídio por morte)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Subsídio por morte)\n\nO subsídio por morte é de 3 meses da remuneração média, calculada nos termos do número seguinte.\n\n2 - A remuneração média mensal é igual a 1/24 da remuneração global dos 2 anos civis com remunerações mais elevadas dentro dos 5 anos que antecedam a última entrada de contribuições em nome do beneficiário."
+  },
+  "165095638": {
+   "fragment_id": "165095550",
+   "type": 8,
+   "heading": "Secção III — Do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do financiamento"
+  },
+  "165095639": {
+   "fragment_id": "165095551",
+   "type": 3,
+   "heading": "Subsecção I — Contribuições e bases de incidência contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Contribuições e bases de incidência contributiva"
+  },
+  "165095640": {
+   "fragment_id": "165095552",
+   "type": 11,
+   "heading": "Artigo 34.º — (Disposição geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Disposição geral)\n\nOs trabalhadores agrícolas abrangidos pelo regime especial e as respectivas entidades patronais concorrem obrigatoriamente para o respectivo financiamento nos termos desta subsecção e do que for determinado em normas regulamentares."
+  },
+  "165095641": {
+   "fragment_id": "165095553",
+   "type": 11,
+   "heading": "Artigo 35.º — (Contribuições das entidades patronais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Contribuições das entidades patronais)\n\nAs entidades patronais, enquanto abrangidas como contribuintes por este regime, são responsáveis pelo pagamento das contribuições que lhes respeitam nos termos dos artigos seguintes."
+  },
+  "165095642": {
+   "fragment_id": "165095554",
+   "type": 11,
+   "heading": "Artigo 36.º — (Bases de incidência das contribuições patronais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Bases de incidência das contribuições patronais)\n\n1 - A contribuição mensal das entidades patronais é estabelecida em função do número de dias de trabalho prestado, no mês em referência, pelos trabalhadores agrícolas ao seu serviço.\n\n2 - Para determinação da base de incidência das contribuições das entidades patronais, a duração do trabalho prestado só pode ser fraccionada por períodos de meio dia."
+  },
+  "165095643": {
+   "fragment_id": "165095555",
+   "type": 11,
+   "heading": "Artigo 37.º — (Cálculo das contribuições patronais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Cálculo das contribuições patronais)\n\n1 - O montante diário das contribuições devidas pelas entidades patronais corresponde à aplicação da percentagem a fixar em regulamento sobre 1/26 da remuneração mínima mensal garantida para os trabalhadores do sector.\n\n2 - A contribuição a que se refere o número anterior integra a que se destina ao financiamento da cobertura do risco de doença profissional.\n\n3 - O montante da contribuição mensal calculada nos termos dos números anteriores é arredondada, por excesso, em escudos."
+  },
+  "165095644": {
+   "fragment_id": "165095556",
+   "type": 11,
+   "heading": "Artigo 38.º — (Cálculo das contribuições dos beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Cálculo das contribuições dos beneficiários)\n\nO montante da contribuição mensal dos beneficiários é o resultante da aplicação da percentagem a fixar em regulamento ao valor da remuneração mínima mensal garantida para os trabalhadores do sector, quantitativo a considerar para efeito de registo de salários."
+  },
+  "165095645": {
+   "fragment_id": "165095557",
+   "type": 11,
+   "heading": "Artigo 39.º — (Deduções nas contribuições dos beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Deduções nas contribuições dos beneficiários)\n\n1 - O valor da remuneração mensal e o montante da contribuição do beneficiário, em cada mês, são reduzidos do valor proporcionalmente correspondente ao número de dias de trabalho prestado no âmbito do regime geral que tenha sido declarado.\n\n2 - A prestação de 26 dias de actividade no âmbito do regime geral dos trabalhadores por conta de outrem dispensa o pagamento de contribuições para o regime especial, sem prejuízo da obrigatoriedade de apresentação da folha-guia."
+  },
+  "165095646": {
+   "fragment_id": "165095558",
+   "type": 11,
+   "heading": "Artigo 40.º — (Pagamento de contribuições por pensionistas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Pagamento de contribuições por pensionistas)\n\nOs pensionistas do regime especial que, de harmonia com as disposições aplicáveis sobre acumulação de pensões com rendimentos de trabalho, exerçam por conta de outrem actividades agrícolas nos termos do presente diploma, ficam obrigados, bem como as entidades patronais a quem prestem serviço, ao pagamento das respectivas contribuições, de harmonia com o número de dias de trabalho registado."
+  },
+  "165095647": {
+   "fragment_id": "165095559",
+   "type": 11,
+   "heading": "Artigo 41.º — (Entrada em vigor de novas bases de incidência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Entrada em vigor de novas bases de incidência)\n\nOs novos valores de base de incidência de contribuições decorrentes das alterações da remuneração mínima mensal garantida aos trabalhadores do sector entrarão em vigor no dia 1 do 2.º mês seguinte ao da vigência do diploma que fixar os novos valores daquela remuneração mínima."
+  },
+  "165095648": {
+   "fragment_id": "165095560",
+   "type": 3,
+   "heading": "Subsecção II — Outras fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Outras fontes de financiamento"
+  },
+  "165095649": {
+   "fragment_id": "165095561",
+   "type": 11,
+   "heading": "Artigo 42.º — (Regimes especiais de financiamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Regimes especiais de financiamento)\n\nEm diploma próprio poderão ser estabelecidas formas e fontes especiais de financiamento com vista a compensar a insuficiência financeira do regime especial de segurança social das actividades agrícolas e a estabelecer o necessário equilíbrio financeiro do sistema."
+  },
+  "165095650": {
+   "fragment_id": "165095562",
+   "type": 11,
+   "heading": "Artigo 43.º — (Outras receitas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Outras receitas)\n\n1 - Constituem receitas do regime especial de segurança social estabelecido neste diploma as subvenções do Estado, as quais não poderão ser inferiores aos montantes pagos em 1983 ao abrigo do artigo 7.º do Decreto n.º 49216, de 30 de Agosto de 1969, e do Decreto-Lei n.º 391/72, de 13 de Outubro, nos termos do artigo 2.º do Decreto-Lei n.º 461/75, de 25 de Agosto.\n\n2 - O montante mínimo das subvenções a que se refere o número anterior será, a partir de 1 de Janeiro de 1985, elevado da percentagem igual à do aumento anual das despesas do regime de segurança social a que se refere o presente diploma."
+  },
+  "165095651": {
+   "fragment_id": "165095563",
+   "type": 3,
+   "heading": "Subsecção III — Prazos e formas de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Prazos e formas de pagamento"
+  },
+  "165095652": {
+   "fragment_id": "165095564",
+   "type": 11,
+   "heading": "Artigo 44.º — (Folha-guia de pagamento das contribuições patronais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Folha-guia de pagamento das contribuições patronais)\n\nO pagamento das contribuições da entidade patronal é feito mensalmente, mediante folha-guia de modelo próprio, da qual constarão, além dos elementos de identificação do contribuinte, os nomes e os números dos beneficiários que lhe prestaram serviço no mês correspondente, a respectiva categoria profissional e o número de dias de trabalho prestado."
+  },
+  "165095653": {
+   "fragment_id": "165095565",
+   "type": 11,
+   "heading": "Artigo 45.º — (Folha-guia de pagamento das contribuições dos beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Folha-guia de pagamento das contribuições dos beneficiários)\n\n1 - O pagamento das contribuições do beneficiário é feito mensalmente, mediante folha-guia de modelo próprio, da qual constarão, além de outros, os elementos seguintes:\n\na) O nome e o número de beneficiário;\n\nb) O nome e a morada das entidades patronais para quem trabalhou no mês em referência, quer no âmbito do regime geral, quer no âmbito do regime especial;\n\nc) O número de dias que trabalhou para cada entidade patronal no mesmo mês;\n\nd) O montante das contribuições efectivamente devidas.\n\n2 - No verso ou em anexo da folha-guia deverão constar, além de instruções para o respectivo preenchimento, as tabelas relativas ao cálculo da contribuição do beneficiário."
+  },
+  "165095654": {
+   "fragment_id": "165095566",
+   "type": 11,
+   "heading": "Artigo 46.º — (Preenchimento e entrega das folhas-guias dos beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — (Preenchimento e entrega das folhas-guias dos beneficiários)\n\n1 - A folha-guia será acompanhada de declarações em impresso próprio, assinadas pela respectiva entidade patronal ou a seu rogo, comprovativas de que o beneficiário prestou serviço, com indicação dos dias em que tal serviço foi prestado.\n\n2 - A assinatura da entidade patronal responsabiliza-a pelas declarações do beneficiário a ela referentes que constem da folha-guia, na parte em que sejam coincidentes com as suas declarações emitidas nos termos do número anterior.\n\n3 - Sempre que por razões devidamente justificadas pelo beneficiário não esteja aposta a assinatura da entidade patronal e esta não tenho pago as respectivas contribuições, deverão os serviços proceder, de imediato, às necessárias averiguações."
+  },
+  "165095655": {
+   "fragment_id": "165095567",
+   "type": 11,
+   "heading": "Artigo 47.º — (Natureza das folhas-guias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Natureza das folhas-guias)\n\nAs folhas-guias, cujo modelo será aprovado por portaria, funcionam simultaneamente como folhas de remunerações e como guias de pagamento de contribuições."
+  },
+  "165095656": {
+   "fragment_id": "165095568",
+   "type": 11,
+   "heading": "Artigo 48.º — (Registo dos dias de trabalho com contribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Registo dos dias de trabalho com contribuições)\n\nO registo dos dias de trabalho prestado por conta de outrem é feito, em relação a cada beneficiário, no centro regional de segurança social da área da sua residência, com base nos elementos constantes das folhas-guias das entidades patronais."
+  },
+  "165095657": {
+   "fragment_id": "165095569",
+   "type": 11,
+   "heading": "Artigo 49.º — (Forma de pagamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Forma de pagamento)\n\nOs prazos, a forma e os locais de pagamento das contribuições, tendo em conta as características do regime especial de segurança social das actividades agrícolas, serão objecto de regulamentação."
+  },
+  "165095658": {
+   "fragment_id": "165095570",
+   "type": 8,
+   "heading": "Secção IV — Do não pagamento atempado das contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do não pagamento atempado das contribuições"
+  },
+  "165095659": {
+   "fragment_id": "165095571",
+   "type": 11,
+   "heading": "Artigo 50.º — (Juros de mora)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Juros de mora)\n\n1 - Decorrido o prazo estabelecido para o pagamento das contribuições, são devidos juros de mora.\n\n2 - A taxa de juros de mora por cada mês de calendário ou fracção é igual à estabelecida para o regime geral."
+  },
+  "165095660": {
+   "fragment_id": "165095572",
+   "type": 8,
+   "heading": "Secção V — Das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Das sanções"
+  },
+  "165095661": {
+   "fragment_id": "165095573",
+   "type": 11,
+   "heading": "Artigo 51.º — (Não cumprimento das entidades patronais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Não cumprimento das entidades patronais)\n\nA falta de entrega, nos prazos regulamentares em vigor, das folhas-guias previstas no artigo 44.º será punida com multa de 2000$00 a 30000$00."
+  },
+  "165095662": {
+   "fragment_id": "165095574",
+   "type": 11,
+   "heading": "Artigo 52.º — (Não cumprimento dos beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Não cumprimento dos beneficiários)\n\nA falta de remessa tempestiva do boletim de identificação dá lugar à aplicação de uma multa de valor compreendido entre 200$00 e 500$00."
+  },
+  "165095663": {
+   "fragment_id": "165095875",
+   "type": 11,
+   "heading": "Artigo 53.º — (Suspensão de benefícios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Suspensão de benefícios)\n\n1 - A sanção de suspensão do direito aos benefícios será aplicada nas condições e termos estabelecidos no regime geral de segurança social.\n\n2 - A suspensão tem por efeito a perda das prestações pecuniárias a que o infractor teria direito no período por que aquela durar e não isenta do pagamento das contribuições regulamentares."
+  },
+  "165095664": {
+   "fragment_id": "165095876",
+   "type": 11,
+   "heading": "Artigo 54.º — (Responsabilidade por benefícios indevidos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — (Responsabilidade por benefícios indevidos)\n\n1 - O beneficiário ou qualquer outra pessoa que, por acto ou omissão, defraudar a instituição de segurança social, levando-a a atribuir benefício indevido, deverá repor o que indevidamente foi pago.\n\n2 - O disposto no n.º 1 não prejudica o efeito próprio da responsabilidade civil ou criminal em que, porventura, o infractor incorra, bem como das sanções legalmente estabelecidas."
+  },
+  "165095665": {
+   "fragment_id": "165095877",
+   "type": 11,
+   "heading": "Artigo 55.º — (Competência para aplicação das sanções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — (Competência para aplicação das sanções)\n\nA aplicação das sanções previstas no presente diploma que não integrem jurisdição especialmente prevista na lei compete aos órgãos gestores dos centros regionais de segurança social competentes para a gestão do regime especial, que deverão tomar em conta as circunstâncias concretas da infracção e os antecedentes dos infractores."
+  },
+  "165095666": {
+   "fragment_id": "165095878",
+   "type": 8,
+   "heading": "Secção VI — Da gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Da gestão"
+  },
+  "165095667": {
+   "fragment_id": "165095879",
+   "type": 11,
+   "heading": "Artigo 56.º — (Instituições gestoras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — (Instituições gestoras)\n\n1 - A gestão do regime especial compete ao Centro Nacional de Pensões e aos centros regionais de segurança social.\n\n2 - Os centros regionais poderão delegar nas casas do povo competência para o exercício de determinadas funções administrativas que se insiram no âmbito da gestão do regime especial.\n\n3 - Não devem inserir-se na delegação prevista no número anterior a atribuição da qualidade de beneficiário e quaisquer decisões que envolvam efeitos jurídicos."
+  },
+  "165095668": {
+   "fragment_id": "165095880",
+   "type": 11,
+   "heading": "Artigo 57.º — (Utilização das casas do povo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — (Utilização das casas do povo)\n\nOs termos da utilização das instalações das casas do povo e dos respectivos recursos humanos em função do disposto no artigo anterior serão objecto de regulamentação."
+  },
+  "165095669": {
+   "fragment_id": "165095881",
+   "type": 11,
+   "heading": "Artigo 58.º — (Autonomia de gestão financeira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — (Autonomia de gestão financeira)\n\nA gestão financeira do regime especial de segurança social regulado no presente diploma manter-se-á autónoma, por forma a permitir, de modo permanente, adequada avaliação da respectiva situação e desenvolvimento."
+  },
+  "165095670": {
+   "fragment_id": "165095882",
+   "type": 11,
+   "heading": "Artigo 59.º — (Normas de aplicação do regime)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — (Normas de aplicação do regime)\n\nAs rotinas e circuitos indispensáveis à execução específica do regime especial serão objecto de orientação normativa."
+  },
+  "165095671": {
+   "fragment_id": "165095883",
+   "type": 8,
+   "heading": "Secção VII — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Disposições transitórias e finais"
+  },
+  "165095672": {
+   "fragment_id": "165095884",
+   "type": 3,
+   "heading": "Subsecção I — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições transitórias"
+  },
+  "165095673": {
+   "fragment_id": "165095885",
+   "type": 11,
+   "heading": "Artigo 60.º — (Prestações por evento anterior)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — (Prestações por evento anterior)\n\nA concessão de prestações determinada por evento ocorrido antes da entrada em vigor do presente diploma será regulada pelas normas aplicáveis nesta data, independentemente da data da entrada do respectivo requerimento no centro regional de segurança social."
+  },
+  "165095674": {
+   "fragment_id": "165095886",
+   "type": 11,
+   "heading": "Artigo 61.º — (Subsídio pecuniário por doença e na maternidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — (Subsídio pecuniário por doença e na maternidade)\n\nEnquanto os centros regionais de segurança social não dispuserem dos elementos que, nos termos dos artigos 27.º a 29.º, são indispensáveis ao cálculo dos subsídios pecuniários por doença e na maternidade, os respectivos quantitativos serão determinados por aplicação dos valores mínimos estabelecidos ao abrigo das mesmas disposições."
+  },
+  "165095975": {
+   "fragment_id": "165095887",
+   "type": 11,
+   "heading": "Artigo 62.º — (Valores estatutários das pensões em curso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — (Valores estatutários das pensões em curso)\n\nPara os efeitos do disposto no artigo 32.º consideram-se como valores estatutários das pensões de invalidez ou de velhice do regime especial iniciadas anteriormente à entrada em vigor deste diploma os valores seguintes:\n\n(ver documento original)"
+  },
+  "165095976": {
+   "fragment_id": "165095888",
+   "type": 11,
+   "heading": "Artigo 63.º — (Cumulação de pensões de invalidez e velhice)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — (Cumulação de pensões de invalidez e velhice)\n\nEm caso algum podem ser reduzidas, por efeito das normas de acumulação, as pensões globais em curso, as quais manterão o seu valor actual até que, por aplicação do disposto no artigo 32.º e neste artigo, devam passar a valor superior ao actual."
+  },
+  "165095977": {
+   "fragment_id": "165095889",
+   "type": 11,
+   "heading": "Artigo 64.º — (Pensões de sobrevivência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — (Pensões de sobrevivência)\n\n1 - A aplicação das disposições do regime geral de segurança social na determinação, nos termos deste diploma, do montante das pensões de sobrevivência do cônjuge ou ex-cônjuge do beneficiário do regime especial não prejudica a manutenção, nas pensões em curso ou a atribuir futuramente, do valor estabelecido na data da entrada em vigor do presente decreto-lei, enquanto for superior àquele.\n\n2 - O valor das pensões em curso não poderá igualmente ser prejudicado pela aplicação das regras de acumulação de direitos a pensões previstas no artigo 32.º\n\n3 - No caso de acumulação da pensão de sobrevivência com outras pensões a que o pensionista venha a ter direito no âmbito dos regimes de segurança social de inscrição obrigatória, atender-se-á, na determinação da pensão global, aos valores estatutários das pensões parcelares, sendo o da pensão de sobrevivência constituído pela percentagem regulamentar da respectiva pensão de invalidez e velhice e aplicando-se à pensão estatutária global uma única melhoria, de acordo com o regime mais favorável para o pensionista."
+  },
+  "165095978": {
+   "fragment_id": "165095890",
+   "type": 11,
+   "heading": "Artigo 65.º — (Subsídio por morte)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — (Subsídio por morte)\n\nNos casos em que não for possível calcular o subsídio por morte nos termos previstos no artigo 33.º, atribuir-se-á ao mesmo o valor correspondente a vez e meia a remuneração mínima estabelecida para a generalidade dos trabalhadores do sector na data do falecimento."
+  },
+  "165095979": {
+   "fragment_id": "165095891",
+   "type": 11,
+   "heading": "Artigo 66.º — (Garantia geral de direitos dos pensionistas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — (Garantia geral de direitos dos pensionistas)\n\nOs pensionistas de invalidez, de velhice e de sobrevivência do regime especial dos fundos de previdência das casas do povo em aplicação à data da entrada em vigor do presente diploma têm direito, em substituição das prestações que vinham auferindo, às pensões mínimas e demais prestações garantidas pelo regime especial agora instituído."
+  },
+  "165095980": {
+   "fragment_id": "165095892",
+   "type": 11,
+   "heading": "Artigo 67.º — (Regularização de situações contributivas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — (Regularização de situações contributivas)\n\n1 - As quotizações e as contribuições em dívida à data da entrada em vigor do presente diploma pelo exercício da actividade abrangida pelos regimes especiais dos trabalhadores rurais estabelecidos na Lei n.º 2144 e legislação complementar devem ser pagas até ao 12.º mês seguinte ao do início da vigência deste diploma, após o que se aplicarão as sanções no mesmo previstas.\n\n2 - No decurso do prazo estabelecido no número anterior, a regularização das situações contributivas poderá efectuar-se em prestações mensais.\n\n3 - A dilação prevista no n.º 1 não prejudica a aplicação do disposto nos n.os 2 e 3 do artigo 21.º"
+  },
+  "165095981": {
+   "fragment_id": "165095893",
+   "type": 11,
+   "heading": "Artigo 68.º — (Contagem de tempos de quotização anteriores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — (Contagem de tempos de quotização anteriores)\n\nApenas podem ser consideradas para atribuição do direito a prestações, nos termos do presente diploma, as quotizações pagas para o anterior regime especial de previdência das casas do povo ou situações equivalentes a partir de 1 de Janeiro de 1971."
+  },
+  "165095982": {
+   "fragment_id": "165095894",
+   "type": 11,
+   "heading": "Artigo 69.º — (Regime de contra-ordenação social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — (Regime de contra-ordenação social)\n\nO regime de punição das infracções previstas na secção V será substituído pelo regime sancionário dos actos ilícitos de mera ordenação social logo que o mesmo seja implementado no âmbito do regime geral de segurança social."
+  },
+  "165095983": {
+   "fragment_id": "165095895",
+   "type": 3,
+   "heading": "Subsecção II — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Disposições finais"
+  },
+  "165095984": {
+   "fragment_id": "165095896",
+   "type": 11,
+   "heading": "Artigo 70.º — (Regime subsidiário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — (Regime subsidiário)\n\nEm tudo o que não for directamente estabelecido no presente diploma e respectivas normas complementares aplica-se, com as necessárias adaptações, o que se encontrar estatuído para o regime geral de segurança social."
+  },
+  "165095985": {
+   "fragment_id": "165095897",
+   "type": 11,
+   "heading": "Artigo 71.º — (Revogação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — (Revogação)\n\nCom a entrada em vigor do presente diploma e sem prejuízo do disposto nas normas transitórias, fica revogada toda a legislação e regulamentação sobre a segurança social dos trabalhadores das actividades agrícolas, designadamente:\n\na) As bases VIII e XXII a XXVIII da Lei n.º 2144, de 29 de Maio de 1961, bem como as demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo;\n\nb) O Decreto n.º 49216, de 30 de Agosto de 1969;\n\nc) O Decreto-Lei n.º 283/70, de 19 de Junho;\n\nd) Os Decretos n.os 444/70 e 445/70, de 23 de Setembro;\n\ne) O Decreto-Lei n.º 391/72, de 13 de Outubro;\n\nf) O Decreto-Lei n.º 807/74, de 31 de Dezembro;\n\ng) O Decreto-Lei n.º 174-B/75, de 1 de Abril;\n\nh) O Decreto-Lei n.º 560/76, de 16 de Julho;\n\ni) Os artigos 12.º a 15.º do Decreto-Lei n.º 513-M/79, de 26 de Dezembro;\n\nj) O Decreto Regulamentar n.º 46/80, de 12 de Setembro;\n\nl) O Decreto-Lei n.º 251/83, de 11 de Junho;\n\nm) O n.º 2 do artigo 22.º do Decreto-Lei n.º 4/82, de 11 de Janeiro."
+  },
+  "165095986": {
+   "fragment_id": "165095898",
+   "type": 11,
+   "heading": "Artigo 72.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia 1 de Maio de 1985."
+  },
+  "891107749": {
+   "fragment_id": "165095517",
+   "type": 8,
+   "heading": "Secção IV — Enquadramento no regime especial de segurança social das actividades agrícolas",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "#### Secção IV — Enquadramento no regime especial de segurança social das actividades agrícolas\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107750": {
+   "fragment_id": "165095519",
+   "type": 11,
+   "heading": "Artigo 9.º — (Produtores agrícolas)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 9.º — (Produtores agrícolas)\n\nSão considerados produtores agrícolas, para os efeitos do enquadramento como beneficiários no regime especial previsto neste diploma:\n\na) As pessoas que, a qualquer título, de direito ou de facto, detenham a terra e nela exerçam actividade agrícola, nomeadamente os proprietários, os usufrutuários e os arrendatários;\n\nb) Os parceiros pensadores que, com predominância, exerçam esta actividade.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107751": {
+   "fragment_id": "165095523",
+   "type": 11,
+   "heading": "Artigo 11.º — (Integração do regime especial de previdência)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 11.º — (Integração do regime especial de previdência)\n\nO regime especial de segurança social estabelecido neste diploma integra e substitui o regime especial dos fundos de previdência das casas do povo e o regime especial de abono de família dos trabalhadores rurais previstos na Lei n.º 2144, de 29 de Maio de 1969, e legislação complementar.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107752": {
+   "fragment_id": "165095528",
+   "type": 11,
+   "heading": "Artigo 16.º — (Nulidade da inscrição)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 16.º — (Nulidade da inscrição)\n\nA inscrição, como beneficiário, do trabalhador agrícola por conta de outrem ou por conta própria que não preencha os requisitos legalmente estabelecidos neste diploma é nula, podendo a respectiva declaração ser feita a todo o tempo.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107753": {
+   "fragment_id": "165095535",
+   "type": 11,
+   "heading": "Artigo 21.º — (Atribuição do direito às prestações)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 21.º — (Atribuição do direito às prestações)\n\n1 - A atribuição do direito às prestações depende de o trabalhador estar inscrito e ter regularizada a situação contributiva pela qual é responsável.\n\n2 - A falta de pagamento de contribuições devidas pelo beneficiário a que não corresponda a situação de equivalência determina a perda das prestações que se vencerem desde o início do mês seguinte àquele em que deviam ter sido pagas até o início do mês seguinte ao da regularização da situação contributiva.\n\n3 - A dívida de contribuições do beneficiário não prejudica, porém, a atribuição do direito ao subsídio por morte, à pensão de sobrevivência e ao subsídio de funeral por falecimento do mesmo beneficiário, casos em que o montante das contribuições em dívida será deduzido no quantitativo destas prestações.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891540375": {
+   "fragment_id": "165095544",
+   "type": 11,
+   "heading": "Artigo 29.º — (Cumulação de direitos a subsídios)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 29.º — (Cumulação de direitos a subsídios)\n\nOs subsídios na doença, incluindo a tuberculose, e na maternidade, atribuídos pelo regime especial nos termos do artigo 27.º, são cumuláveis com idênticas prestações concedidas pelo regime dos trabalhadores por conta de outrem e dos trabalhadores independentes, tendo em atenção as seguintes especificidades:\n\na) A determinação dos meses a considerar para o cálculo dos respectivos montantes será feita nos termos do regime geral, atendendo-se, porém, para o efeito, quando a cumulação respeite ao regime geral e ao regime especial de segurança social estabelecido neste diploma, ao número de dias de trabalho prestado, em cada mês, no conjunto dos 2 regimes;\n\nb) O cálculo dos subsídios será feito atendendo apenas e separadamente ao registo do trabalho prestado no âmbito de cada um dos regimes;\n\nc) O quantitativo diário do subsídio global a pagar em caso de cumulação não será inferior ao valor mínimo estabelecido para o regime especial, nos termos do artigo 28.º\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107754": {
+   "fragment_id": "165095547",
+   "type": 11,
+   "heading": "Artigo 31.º — (Cálculo das pensões de invalidez, velhice e sobrevivência)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 31.º — (Cálculo das pensões de invalidez, velhice e sobrevivência)\n\n1 - O cálculo das pensões de invalidez, de velhice e de sobrevivência será efectuado nos termos estabelecidos para o regime geral, com as particularidades constantes dos números seguintes.\n\n2 - Para os efeitos do disposto no n.º 1, a remuneração correspondente a cada um dos meses em que, por aplicação do artigo 39.º, tenha havido redução da contribuição mensal do beneficiário para o regime especial será a remuneração mínima mensal do sector, reduzida na mesma proporção em que o tiver sido aquela contribuição.\n\n3 - Sempre que o valor estatutário das pensões, calculado nos termos dos números anteriores, for inferior ao valor mínimo estabelecido, será atribuída uma melhoria de valor igual ao necessário para perfazer esse montante.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107755": {
+   "fragment_id": "165095566",
+   "type": 11,
+   "heading": "Artigo 46.º — (Preenchimento e entrega das folhas-guias dos beneficiários)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 46.º — (Preenchimento e entrega das folhas-guias dos beneficiários)\n\n1 - A folha-guia será acompanhada de declarações em impresso próprio, assinadas pela respectiva entidade patronal ou a seu rogo, comprovativas de que o beneficiário prestou serviço, com indicação dos dias em que tal serviço foi prestado.\n\n2 - A assinatura da entidade patronal responsabiliza-a pelas declarações do beneficiário a ela referentes que constem da folha-guia, na parte em que sejam coincidentes com as suas declarações emitidas nos termos do número anterior.\n\n3 - Sempre que por razões devidamente justificadas pelo beneficiário não esteja aposta a assinatura da entidade patronal e esta não tenha pago as respectivas contribuições, deverão os serviços proceder, de imediato, às necessárias averiguações.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107756": {
+   "fragment_id": "165095879",
+   "type": 11,
+   "heading": "Artigo 56.º — (Instituições gestoras)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 56.º — (Instituições gestoras)\n\n1 - A gestão do regime especial compete ao Centro Nacional de Pensões e aos centros regionais de segurança social.\n\n2 - Os centros regionais poderão delegar em casas do povo competência para o exercício de determinadas funções administrativas que se insiram no âmbito da gestão do regime especial.\n\n3 - Não devem inserir-se na delegação prevista no número anterior a atribuição da qualidade de beneficiário e quaisquer decisões que envolvam efeitos jurídicos.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107757": {
+   "fragment_id": "165095885",
+   "type": 11,
+   "heading": "Artigo 60.º — (Prestações por evento anterior)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 60.º — (Prestações por evento anterior)\n\nA concessão de prestações determinada por evento ocorrido antes da entrada em vigor do presente diploma será regulada pelas normas aplicáveis nessa data, independentemente da data da entrada do respectivo requerimento no centro regional de segurança social.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107758": {
+   "fragment_id": "165095894",
+   "type": 11,
+   "heading": "Artigo 69.º — (Regime de contra-ordenação social)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 69.º — (Regime de contra-ordenação social)\n\nO regime de punição das infracções previstas na secção V será substituído pelo regime sancionatório dos actos ilícitos de mera ordenação social logo que o mesmo seja implementado no âmbito do regime geral de segurança social.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "891107759": {
+   "fragment_id": "165095897",
+   "type": 11,
+   "heading": "Artigo 71.º — (Revogação)",
+   "in_force_from": "1985-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+   ],
+   "markdown": "###### Artigo 71.º — (Revogação)\n\nCom a entrada em vigor do presente diploma e sem prejuízo do disposto nas normas transitórias, fica revogada toda a legislação e regulamentação sobre a segurança social dos trabalhadores das actividades agrícolas, designadamente:\n\na) As bases VIII e XXII a XXVIII da Lei n.º 2144, de 29 de Maio de 1961, bem como as demais bases daquele diploma que se refiram às funções de previdência e assistência das casas do povo;\n\nb) O Decreto n.º 49216, de 30 de Agosto de 1969;\n\nc) O Decreto-Lei n.º 283/70, de 19 de Junho;\n\nd) Os Decretos n.os 444/70 e 445/70, de 23 de Setembro;\n\ne) O Decreto-Lei n.º 391/72, de 13 de Outubro;\n\nf) O Decreto-Lei n.º 807/74, de 31 de Dezembro;\n\ng) O Decreto n.º 174-B/75, de 1 de Abril;\n\nh) O Decreto-Lei n.º 560/76, de 16 de Julho;\n\ni) Os artigos 12.º a 15.º do Decreto-Lei n.º 513-M/79, de 26 de Dezembro;\n\nj) O Decreto Regulamentar n.º 46/80, de 12 de Setembro;\n\nl) O Decreto-Lei n.º 251/83, de 11 de Junho;\n\nm) O n.º 2 do artigo 22.º do Decreto-Lei n.º 4/82, de 11 de Janeiro.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 125/1985, 1º Suplemento, Série I de 1985-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-495129), em vigor a partir de 1985-05-31"
+  },
+  "165095987": {
+   "fragment_id": "165095899",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 27 de Fevereiro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 1 de Março de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "891107761": {
+   "fragment_id": "165095559",
+   "type": 11,
+   "heading": "Artigo 41.º — (Entrada em vigor de novas bases de incidência)",
+   "in_force_from": "1985-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 310/85 - Diário da República n.º 173/1985, Série I de 1985-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1985-179871), em vigor a partir de 1985-05-01"
+   ],
+   "markdown": "###### Artigo 41.º — (Entrada em vigor de novas bases de incidência)\n\nOs novos valores de base de incidência de contribuições decorrentes das alterações da remuneração mínima mensal garantida aos trabalhadores do sector entrarão em vigor no dia 1 do 2.º mês seguinte ao da vigência do diploma que fixar os novos valores daquela remuneração mínima.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 310/85 - Diário da República n.º 173/1985, Série I de 1985-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1985-179871), em vigor a partir de 1985-05-01"
+  },
+  "891107762": {
+   "fragment_id": "165095887",
+   "type": 11,
+   "heading": "Artigo 62.º — (Valores estatutários das pensões em curso)",
+   "in_force_from": "1988-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477), em vigor a partir de 1988-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 310/85 - Diário da República n.º 173/1985, Série I de 1985-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1985-179871), em vigor a partir de 1985-05-01"
+   ],
+   "markdown": "###### Artigo 62.º — (Valores estatutários das pensões em curso)\n\nPara os efeitos do disposto no artigo 32.º consideram-se como valores estatutários das pensões de invalidez ou de velhice do regime especial iniciadas anteriormente à entrada em vigor deste diploma os valores seguintes:\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 13/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477), em vigor a partir de 1988-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 310/85 - Diário da República n.º 173/1985, Série I de 1985-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1985-179871), em vigor a partir de 1985-05-01"
+  },
+  "891107763": {
+   "fragment_id": "165095889",
+   "type": 11,
+   "heading": "Artigo 64.º — Pensões de sobrevivência",
+   "in_force_from": "1988-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 13/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477), em vigor a partir de 1988-01-20"
+   ],
+   "markdown": "###### Artigo 64.º — Pensões de sobrevivência\n\nSempre que haja lugar à acumulação de pensão de sobrevivência do regime especial das actividades agrícolas com pensões de outros regimes obrigatórios de protecção social, o montante daquela prestação corresponde ao seu valor estatutário, devendo a melhoria a aplicar às outras pensões, sendo caso disso, ser determinada de acordo com a regulamentação própria estabelecida para o efeito.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 13/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477), em vigor a partir de 1988-01-20"
+  },
+  "891107765": {
+   "fragment_id": "165095548",
+   "type": 11,
+   "heading": "Artigo 32.º — (Acumulação de direito a pensões)",
+   "in_force_from": "1991-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 141/91 - Diário da República n.º 83/1991, Série I-A de 1991-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), em vigor a partir de 1991-07-01"
+   ],
+   "markdown": "###### Artigo 32.º — (Acumulação de direito a pensões)\n\n1 - Os direitos às pensões de invalidez, de velhice e de sobrevivência, pelo regime especial e por outros regimes de inscrição obrigatória, são acumuláveis, nos termos do disposto nas normas gerais sobre acumulação de pensões e de harmonia com as disposições do presente diploma.\n\n2 - Para os efeitos do disposto neste artigo, considera-se que:\n\na) O valor da pensão estatutária do regime especial, a tratar em condições análogas às da pensão estatutária do regime geral, é o valor da pensão calculada nos termos dos n.os 1 e 2 do artigo 31.º, tendo em consideração o disposto no artigo 62.º;\n\nb) (Revogado.)\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 141/91 - Diário da República n.º 83/1991, Série I-A de 1991-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), em vigor a partir de 1991-07-01"
+  },
+  "891107766": {
+   "fragment_id": "165095888",
+   "type": 11,
+   "heading": "Artigo 63.º — (Cumulação de pensões de invalidez e velhice)",
+   "in_force_from": "1991-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 141/91 - Diário da República n.º 83/1991, Série I-A de 1991-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), em vigor a partir de 1991-07-01"
+   ],
+   "markdown": "###### Artigo 63.º — (Cumulação de pensões de invalidez e velhice)\n\nEm caso algum podem ser reduzidas, por efeito das normas de acumulação, as pensões globais em curso, as quais manterão o seu valor actual até que, por aplicação do disposto no artigo 32.º e neste artigo, devam passar a valor superior ao actual.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 141/91 - Diário da República n.º 83/1991, Série I-A de 1991-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), em vigor a partir de 1991-07-01"
+  },
+  "891107764": {
+   "fragment_id": "165095889",
+   "type": 11,
+   "heading": "Artigo 64.º — Pensões de sobrevivência",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 398/90 - Diário da República n.º 284/1990, Série I de 1990-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1990-565269), produz efeitos a partir de 1990-09-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 13/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477), em vigor a partir de 1988-01-20"
+   ],
+   "markdown": "###### Artigo 64.º — Pensões de sobrevivência\n\nSempre que haja lugar à acumulação de pensão de sobrevivência do regime especial das actividades agrícolas com pensões de outros regimes obrigatórios de protecção social, o montante daquela prestação corresponde ao seu valor estatutário, devendo a melhoria a aplicar às outras pensões, sendo caso disso, ser determinada de acordo com a regulamentação própria estabelecida para o efeito.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 398/90 - Diário da República n.º 284/1990, Série I de 1990-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1990-565269), produz efeitos a partir de 1990-09-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 13/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477), em vigor a partir de 1988-01-20"
+  }
+ }
+}

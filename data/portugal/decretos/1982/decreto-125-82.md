@@ -1,0 +1,281 @@
+---
+schema_version: '1.0'
+id: pt:dre:378305:por
+title: Decreto n.º 125/82
+short_title: null
+summary: Fixa os cursos conducentes à obtenção das licenciaturas a conferir pela Faculdade de Ciências da Universidade de
+  Lisboa
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 125/82
+official_date: null
+publication_date: '1982-11-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 254/1982, Série I de 1982-11-03
+  number: '254'
+  series: I
+  supplement: null
+  pages: 3683 - 3685
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25400/36833685.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '378305'
+  dre_path: /dr/detalhe/decreto/125-1982-378305
+  internal: pt:dre:378305:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/125-1982-378305
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/125-1982-378305
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:59:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7c266e82e2e6c3876e71867ff533402a81e8d6fe913ac4cea5e23d24cf160213
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:59:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Biologia
+- Curso de Bioquímica
+- Curso de Ciências Geofísicas
+- Curso de Computação
+- Curso de Engenharia Geográfica
+- Curso de Ensino da Física
+- Curso de Ensino da Química
+- Curso de Ensino de Geologia
+- Curso de Ensino de Matemática
+- Curso de Estatística e Investigação Operacional
+- Curso de Física
+- Curso de Física Tecnológica
+- Curso de Geologia
+- Curso de Geologia Económica Aplicada
+- Curso de Matemática
+- Curso de Probabilidades e Estatística
+- Curso de Química
+- Curso de Química Tecnológica
+- Ensino Superior
+- Faculdade de Ciências
+- Licenciatura
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:147199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633894:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:540610:por
+  label: Rectificado pela DECL.DD2204.1982.12.07.PCM DR.IS [9] de 12/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-540610
+  date: '1982-12-07'
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:59:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 125/82
+
+de 3 de Novembro
+
+Pelo [Decreto n.º 443/71](https://diariodarepublica.pt/dr/detalhe/decreto/443-1971-633894), de 23 de Outubro, foram fixados os planos e regimes de estudos dos cursos ministrados nas faculdades de Ciências.
+
+Após 1974, os referidos planos foram sofrendo alterações sucessivas, afastando-se em inúmeros casos dos fixados por aquele decreto.
+
+Criadas pelo Decreto-Lei n.º 796-B/76, de 23 de Outubro, as comissões científicas interuniversitárias debruçaram-se sobre os planos de curso então vigentes nesta área e elaboraram relatórios parcelares e, finalmente, um relatório de síntese.
+
+O trabalho das comissões científicas interuniversitárias veio a ser retomado, reanalisado e aprofundado por uma comissão constituída por representantes dos conselhos científicos das Faculdades de Ciências das Universidades de Lisboa e do Porto e da Faculdade de Ciências e Tecnologia da Universidade de Coimbra, nomeada pela Despacho n.º 57/79, de 7 de Maio, do Secretário de Estado do Ensino Superior e da Investigação Científica, a qual elaborou um relatório onde foram propostas algumas regras básicas para a reestruturação dos cursos e curricula dos cursos ministrados nas referidas Faculdades.
+
+Os princípios constantes desse relatório vieram a encontrar concretização no [Despacho Normativo n.º 323/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/323-1980-462199), de 6 de Outubro, que, porém, nalguns aspectos se afasta do mesmo.
+
+Tendo como referência esse despacho normativo, foram já introduzidas alterações sensíveis nos cursos e planos de estudo da Faculdade de Ciências e Tecnologia da Universidade de Coimbra (1980) e da Faculdade de Ciências da Universidade do Porto (1981), de entre as quais se destaca a redução da duração das licenciaturas de índole científica para 4 anos, a introdução das licenciaturas científico-tecnológicas e a passagem ao regime de unidades de crédito.
+
+Em Agosto do corrente ano, a Universidade de Lisboa apresentou uma proposta de reestruturação completa dos seus cursos e curricula, manifestando a sua intenção de a fazer entrar em vigor já no ano lectivo de 1982-1983.
+
+A referida proposta afasta-se nalguns aspectos dos princípios base fixados no referido despacho normativo, alguns dos quais já era intenção do Governo alterar.
+
+Parte-se do princípio de que a Universidade de Lisboa ao apresentar proposta de tal fôlego avaliou, em relação a cada um dos cursos, as consequências da sua criação sob todos os aspectos, de entre os quais não é certamente o menos importante o do mercado de trabalho que deverá absorver os seus licenciados.
+
+Crê-se igualmente que a Universidade de Lisboa terá avaliado a sua capacidade humana e material para executar a proposta ou que, a não dispor ainda da totalidade dos meios para a fazer entrar totalmente em vigor, saberá dar-lhe início progressivamente.
+
+É, pois, numa atitude de confiança nos princípios da autonomia universitária que a proposta apresentada pela Universidade de Lisboa é aprovada pelo Governo através do presente decreto.
+
+Assim, ao abrigo do disposto no artigo 16.º do Decreto-Lei n.º 796-B/76, de 23 de Outubro, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Licenciaturas conferidas pela Universidade de Lisboa através de Faculdade de Ciências)
+
+1 - A Universidade de Lisboa confere o grau de licenciado em:
+
+a) Matemática;
+
+b) Ensino da Matemática;
+
+c) Computadorização;
+
+d) Estatística e Investigação Operacional;
+
+e) Probabilidades e Estatística;
+
+f) Engenharia Geográfica;
+
+g) Física;
+
+h) Ciências Geofísicas;
+
+i) Física Tecnológica;
+
+j) Ensino da Física;
+
+l) Química;
+
+m) Química Tecnológica;
+
+n) Ensino da Química;
+
+o) Bioquímica;
+
+p) Geologia;
+
+q) Geologia Económica Aplicada;
+
+r) Ensino da Geologia;
+
+s) Biologia;
+
+t) Biologia Vegetal Aplicada;
+
+u) Recursos Faunísticos e Ambiente;
+
+v) Ensino da Biologia.
+
+2 - A Faculdade de Ciências da Universidade de Lisboa ministrará os cursos conducentes à obtenção das licenciaturas enumeradas no n.º 1.
+
+###### Artigo 2.º — (Preparatórios de Engenharia)
+
+1 - Além dos cursos enumerados no artigo 1.º, a Faculdade de Ciências da Universidade de Lisboa poderá ministrar igualmente as disciplinas correspondentes aos 2 primeiros anos dos cursos da licenciatura em Engenharia, em regime de convénio com as universidades que confiram os respectivos graus.
+
+2 - Os convénios a que se refere o número anterior fixarão os planos e programas de estudos, bem como o número de vagas a propor para os fins do disposto no [Decreto-Lei n.º 397/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1977-285922), de 17 de Setembro.
+
+3 - Os alunos que venham a obter aprovação nas disciplinas a que se refere o presente artigo terão direito à inscrição no curso respectivo na universidade com que foi estabelecido o convénio, não havendo lugar a limitações quantitativas, nem a nova matrícula ou transferência.
+
+###### Artigo 3.º — (Licenciaturas em ensino)
+
+Às licenciaturas em ensino a que se refere o artigo 1.º do presente diploma é aplicável o disposto no [Decreto-Lei n.º 423/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1978-325139), de 22 de Dezembro, bem como toda a regulamentação actualmente em vigor para as mesmas.
+
+###### Artigo 4.º — (Planos e regimes de estudos)
+
+Os planos e regimes de estudos dos cursos conducentes às licenciaturas a que se refefre o artigo 1.º serão fixados por portaria do Ministério da Educação.
+
+###### Artigo 5.º — (Entrada em funcionamento)
+
+1 - A determinação do ano lectivo de entrada em funcionamento de cada um dos cursos criados pelo artigo 1.º ficará dependente da existência na Universidade de Lisboa da totalidade dos recursos humanos e materiais necessários à sua completa concretização.
+
+2 - Verificada a existência das condições humanas e materiais necessárias, a Faculdade de Ciências submeterá ao reitor a proposta de entrada em funcionamento acompanhada da respectiva fundamentação e do regime de transição a adoptar para os alunos que hajam estado inscritos nos cursos extintos na mesma área.
+
+3 - A entrada em funcionamento de cada curso será determinada, face à proposta referida no n.º 2, por despacho do reitor da Universidade de Lisboa, a publicar no Diário da República, 2.ª série, antes da abertura das inscrições.
+
+4 - Os planos de estudo dos novos cursos entrarão em funcionamento progressivamente, devendo o despacho a que se refere o número anterior fixar a forma como tal se processará.
+
+5 - Do despacho a que se refere o n.º 3 constará igualmente o regime de transição a adoptar para os alunos que hajam estado inscritos nos cursos extintos na mesma área quando os mesmos deixarem de ser ministrados.
+
+###### Artigo 6.º — (Extinção de cursos e graus)
+
+1 - A Universidade de Lisboa cessará de conferir o grau de bacharel em Biologia, Física, Geologia, Matemática e Química a partir do ano lectivo de 1985-1986, inclusive, independentemente do ano lectivo da entrada em funcionamento dos cursos criados pelo artigo 1.º
+
+2 - A Universidade de Lisboa cessará de conferir o grau de licenciado (ramos de especialização científica e de formação educacional) em Biologia, Física, Geologia, Matemática e Química a partir do ano lectivo que for fixado nos termos da alínea b) do artigo 7.º
+
+3 - Em consequência do disposto nos números anteriores, a Faculdade de Ciências cessará a ministração dos cursos respectivos.
+
+###### Artigo 7.º — (Regras gerais do regime de transição)
+
+O regime de transição a aprovar nos termos do artigo 5.º deste diploma deverá, nas regras que fixar, respeitar os seguintes princípios:
+
+a) Os planos de estudos dos cursos extintos pelo artigo 6.º deixarão de ser ministrados à medida que forem entrando em funcionamento os planos de estudos dos novos cursos criados pelo artigo 1.º;
+
+b) Os graus de licenciatura a que se refere o n.º 2 do artigo 6.º serão conferidos pela última vez no ano lectivo seguinte à completa entrada em funcionamento do plano de estudos dos novos cursos da mesma área;
+
+c) Os alunos que, por força da cessação da ministração dos cursos em que hajam estado inscritos e da cessação da concessão dos respectivos graus, não os possam concluir e obter serão integrados em curso da mesma área em que o requeiram, mediante a fixação de um plano de estudos próprio. Esta regra aplica-se quer aos alunos que não conseguem acompanhar a cessação da ministração do antigo plano de estudos por razões de não transição de ano curricular, quer a quaisquer outros, nomeadamente àqueles que reingressem.
+
+###### Artigo 8.º — (Disposição revogatória)
+
+1 - É revogado o [Decreto n.º 129/81](https://diariodarepublica.pt/dr/detalhe/decreto/129-1981-562221), de 21 de Outubro.
+
+2 - O [Decreto n.º 443/71](https://diariodarepublica.pt/dr/detalhe/decreto/443-1971-633894), de 23 de Outubro, mantém-se em vigor em tudo o que não for contrariado pelo disposto no presente diploma e nas portarias regulamentadoras do mesmo.
+
+###### Artigo 9.º — (Disposição transitória)
+
+No ano lectivo de 1982-1983 o ensino das disciplinas básicas do curso de Engenharia previsto no artigo 2.º do [Decreto n.º 540/70](https://diariodarepublica.pt/dr/detalhe/decreto/540-1970-147199), de 10 de Novembro, e no artigo 22.º do [Decreto n.º 443/71](https://diariodarepublica.pt/dr/detalhe/decreto/443-1971-633894), de 23 de Outubro, continuará a ser ministrado de acordo com os princípios que até aqui o regiam.
+
+###### Artigo 10.º — (Esclarecimento de dúvidas)
+
+As dúvidas suscitadas na aplicação do presente diploma serão esclarecidas por despacho do Ministro da Educação.
+
+###### Artigo 11.º
+
+Este diploma entra imediatamente em vigor.
+
+Diogo Pinto de Freitas do Amaral - João José Fraústo da Silva.
+
+Promulgado em 20 de Outubro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

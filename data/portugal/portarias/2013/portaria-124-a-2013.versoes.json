@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:479273:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-169775395",
+ "dre_path": "/dr/detalhe/portaria/124-a-2013-479273",
+ "source_lastmod": "2026-02-16",
+ "versions": [
+  {
+   "date": "2013-03-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169774886",
+    "169774887",
+    "169774888",
+    "169774889",
+    "169774890",
+    "169774891",
+    "169774893",
+    "169774894"
+   ]
+  },
+  {
+   "date": "2026-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1051282298:por",
+     "title": "Portaria n.º 80/2026/1",
+     "published": "2026-02-16",
+     "dre_path": "/dr/detalhe/portaria/80-2026-1051282298"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "169774886",
+    "169774887",
+    "169774888",
+    "169774889",
+    "169774890",
+    "169774891",
+    "169774892",
+    "1051456155",
+    "169774894"
+   ]
+  }
+ ],
+ "fragments": {
+  "169774886": {
+   "fragment_id": "169775396",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 124-A/2013\n\nde 27 de março\n\nA Lei n.º 37/2012, de 27 de agosto, que aprova o Estatuto do Dador de Sangue, estabelece no n.º 4 do artigo 3.º que ao dador de sangue é atribuído um cartão nacional de dador, nos termos a regulamentar por Portaria do Ministério da Saúde.\n\nPor outro lado o dador de sangue tem direito ao reconhecimento público de acordo com a alínea e) do n.º 1 do artigo 6.º da Lei nº 37/2012, de 27 de agosto.\n\nAo Instituto Português do Sangue e da Transplantação, I.P., compete, na área da medicina transfusional, garantir e regular, a nível nacional, esta atividade, assegurando a disponibilidade e acessibilidade de sangue e componentes sanguíneos, de qualidade, seguros e eficazes, para efeitos terapêuticos.\n\nReconhece-se neste domínio que a disponibilidade de sangue e componentes sanguíneos para fins terapêuticos depende exclusivamente da generosidade dos cidadãos para a dádiva altruísta, com o contributo das organizações de dadores de sangue no incremento da dádiva.\n\nSublinha-se ainda o valor que esta dádiva representa para a comunidade e o mérito social dos dadores voluntários e não remunerados que, dedicada, regular e continuamente, contribuem de forma generosa com um bem indispensável à vida, pelo que devem ser fortemente enaltecidos, justificando-se assim que estes atos sejam publicamente reconhecidos.\n\nNeste âmbito, exigindo-se elevados níveis de segurança e qualidade na produção do cartão nacional do dador, tem plena justificação a utilização da experiência da Imprensa Nacional - Casa da Moeda, SA (INCM), pelo que se confere a esta entidade o direito exclusivo do modelo do cartão nacional de dador de sangue, garantindo-se a confidencialidade e fiabilidade que a INCM assegura.\n\nAssim:\n\nAo abrigo do n.º 4 do artigo 3.º, da alínea e) do n.º 1 do artigo 6.º e do artigo 10.º todos da Lei n.º 37/2012, de 27 de agosto, manda o Governo, pelo Ministro da Saúde, o seguinte:"
+  },
+  "169774887": {
+   "fragment_id": "169775397",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as normas aplicáveis à atribuição de um cartão nacional de dador de sangue, bem como ao reconhecimento público pela dádiva regular de sangue."
+  },
+  "169774888": {
+   "fragment_id": "169775398",
+   "type": 11,
+   "heading": "Artigo 2.º — Cartão nacional de dador de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cartão nacional de dador de sangue\n\n1 - Ao dador de sangue é atribuído um cartão nacional de dador, após a realização da primeira dádiva de sangue.\n\n2 - Do cartão constará informação relativa à identificação completa do dador de sangue, grupo sanguíneo, número de dádivas realizadas, respetivas datas e locais.\n\n3 - Compete ao Instituto Português do Sangue e da Transplantação, I.P. (IPST, I.P.), o processamento do cartão nacional de dador, cabendo aos serviços de sangue o fornecimento dos dados constantes do número anterior.\n\n4 - O cartão nacional de dador de sangue é considerado documento idóneo e bastante para fazer prova da condição de dador de sangue, nomeadamente, para efeitos de isenção das taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (SNS), nos termos da legislação em vigor.\n\n5 - O modelo do cartão referido nos números anteriores consta do Anexo I à presente Portaria, da qual faz parte integrante.\n\n6 - O modelo de cartão nacional de dador de sangue definido na presente portaria é exclusivo da Imprensa Nacional - Casa da Moeda, S.A.."
+  },
+  "169774889": {
+   "fragment_id": "169775399",
+   "type": 11,
+   "heading": "Artigo 3.º — Reconhecimento público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reconhecimento público\n\n1 - Para efeitos de reconhecimento público do dador de sangue, são criados a medalha e o diploma de dador de sangue para galardoar a dedicação inerente à dádiva de sangue.\n\n2 - A medalha de dador de sangue, acompanhada do respetivo certificado, é concedida pelo Ministro da Saúde, compreendendo os seguintes graus:\n\na) Medalha dourada - a conceder aos dadores que tenham completado 60 dádivas de sangue;\n\nb) Medalha prateada - a conceder aos dadores que tenham completado 40 dádivas;\n\nc) Medalha cobreada - a conceder aos dadores que tenham completado 20 dádivas.\n\n3 - O diploma de dador de sangue é concedido pelo Presidente do Conselho Diretivo do IPST, I.P. aos dadores que tenham completado 10 dádivas de sangue.\n\n4 - Para galardoar os dadores que tenham completado as 100 dádivas de sangue é criada uma medalha, igualmente dourada, que será concedida pelo Ministro da Saúde, acompanhada do respetivo certificado.\n\n5 - Compete ao IPST, I.P. a emissão dos galardões previstos nos números anteriores, cabendo aos serviços de sangue, responsáveis pelo registo dos dadores e às organizações de dadores de sangue, o fornecimento dos dados relativos ao n.º de dádivas e identificação do dador.\n\n6 - Os modelos dos galardões referidos nos números anteriores, constam do Anexo II à presente Portaria, da qual faz parte integrante.\n\n7 - Os encargos resultantes da atribuição dos galardões são suportados pelo orçamento do IPST, I.P.."
+  },
+  "169774890": {
+   "fragment_id": "169775400",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nSão revogadas a Portaria n.º 255/2011, de 1 de julho e a Portaria n.º 1075/91, de 23 de outubro."
+  },
+  "169774891": {
+   "fragment_id": "169775401",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "169774893": {
+   "fragment_id": "169775403",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 5 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 5 do artigo 2.º)\n\nModelo do Cartão Nacional de Dador de Sangue\n\n(ver documento original)\n\n1. O cartão nacional de dador de sangue é feito em PVC, com as dimensões de 85,60 mm por 53,98 mm por 0,76 mm, cor de suporte branco opaco, com impressão a duas cores no anverso e uma cor no verso.\n\n2. O cartão nacional de dador de sangue contém os seguintes elementos:\n\nNo anverso:\n\na) Na parte superior, ao centro, em cor branca sobre fundo vermelho, a denominação \"Cartão Nacional de Dador de Sangue\";\n\nb) Ao centro, do lado esquerdo, aplicação de chip, com código de proteção;\n\nc) Abaixo do chip, em cor vermelha, o logótipo do \"IPST, I.P.\";\n\nd) Em rodapé, em cor preta, a designação \"Nome\";\n\ne) Abaixo da designação \"Nome\", em cor preta, o nome do portador do cartão;\n\nf) Ao centro, do lado direito, em cor preta, as designações \"Grupo Sanguíneo\", \"N.º Nacional de Dador\" e \"N.º de Utente do SNS\";\n\ng) Abaixo das designações referidas no número anterior, em cor preta, respetivamente, o grupo sanguíneo do portador do cartão, o n.º nacional de dador do portador do cartão e o n.º de utente do SNS do portador do cartão.\n\nNo verso, em cor branca sobre fundo vermelho:\n\na) Na parte superior: \"Este cartão é pessoal e intransmissível e deve ser apresentado sempre que se dirija a qualquer Serviço/Local de Colheita\";\n\nb) Ao centro: \"Agradecemos o seu ato de Solidariedade Humana\";\n\nc) Na parte inferior: \"Em caso de extravio deste cartão contactar por favor o Instituto Português do Sangue e da Transplantação\";\n\nd) Em rodapé, ao centro: \"IPST, I.P. - Instituto Português do Sangue e da Transplantação\";\n\ne) Abaixo da designação \"IPST, I.P. - Instituto Português do Sangue e da Transplantação\", ao centro: \"Parque de Saúde de Lisboa, Av. Do Brasil, n.º 53 - Pav. 17 1749-005 LISBOA\";\n\nf) Abaixo da designação referida no número anterior, ao centro:\"Tel: [+351] 21 792 10 00\".\n\n3. No chip do cartão é gravada a informação relativa à identificação completa do dador de sangue, número de dádivas realizadas, respetivas datas e locais."
+  },
+  "169774894": {
+   "fragment_id": "169775404",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 6 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 6 do artigo 3.º)\n\nModelo de Diploma, Certificado e Medalha de Dador de Sangue\n\n1. Diploma - tem as dimensões 230 mm/295 mm e é internamente circundado por uma iluminura, conforme modelo abaixo:\n\n(ver documento original)\n\n2. Certificado - tem as dimensões 230 mm/295 mm, com esquadria interior e em relevo o cunho correspondente à medalha que acompanha, conforme modelo abaixo:\n\n(ver documento original)\n\n3. As medalhas, com diâmetro de 38 mm, pendem de fita com as cores vermelha e verde, conforme modelos abaixo:\n\n3.1 - Medalha cobreada - 20 dádivas\n\n(ver documento original)\n\n3.2 - Medalha prateada - 40 dádivas\n\n(ver documento original)\n\n3.3 - Medalha dourada - 60 dádivas\n\n(ver documento original)\n\n3.4 - Medalha dourada - 100 dádivas\n\n(ver documento original)"
+  },
+  "169774892": {
+   "fragment_id": "169775402",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 22 de março de 2013."
+  },
+  "1051456155": {
+   "fragment_id": "169775403",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 5 do artigo 2.º)",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 80/2026/1 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/portaria/80-2026-1051282298), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 5 do artigo 2.º)\n\nModelo do Cartão Nacional de Dador de Sangue\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1051282298/1051282202.png)\n\n1 - O Cartão Nacional de Dador de Sangue é feito em PVC, com as dimensões de 85,60 mm por 53,98 mm por 0,76 mm, cor de suporte branco opaco, com impressão a três cores no anverso e uma cor no verso.\n\n2 - O Cartão Nacional de Dador de Sangue contém os seguintes elementos:\n\nNo anverso:\n\na) Na parte superior, ao centro, em cor branca sobre fundo vermelho, a denominação «Cartão Nacional de Dador de Sangue» e por baixo duas linhas nas cores azul e verde;\n\nb) Ao centro, do lado esquerdo, em cor vermelha, o logótipo do IPST, I. P.;\n\nc) Em rodapé, em cor preta, a designação «Nome»;\n\nd) Abaixo da designação «Nome», em cor preta, o nome do portador do cartão;\n\ne) Ao centro, do lado direito, em cor preta, as designações «Grupo Sanguíneo», «N.º Nacional de Dador» e «N.º de Utente do SNS»;\n\nf) Abaixo das designações referidas na alínea anterior, em cor preta, respetivamente, o grupo sanguíneo do portador do cartão, o número nacional de dador do portador do cartão e o número de utente do SNS do portador do cartão.\n\nNo verso, em cor branca sobre fundo vermelho:\n\na) Na parte superior: «Este é o seu cartão de identificação como Dador de Sangue»;\n\nb) Ao centro: «O registo das suas dádivas está disponível no cartão digital de Dador de Sangue, em id.gov.pt e também na área de Utente do SNS. Pode também aceder à informação sobre locais e horários de sessões de colheita em dador.pt. Em nome de todos quantos beneficiam deste gesto de solidariedade, Obrigado!»;\n\nc) Em rodapé, ao centro: «IPST, I. P. - Instituto Português do Sangue e da Transplantação»;\n\nd) Abaixo da designação «IPST, I. P. - Instituto Português do Sangue e da Transplantação», ao centro: «Parque de Saúde de Lisboa, Av. Do Brasil, n.º 53 - Pav. 17 1749-005 LISBOA»;\n\ne) Abaixo da designação referida na alínea anterior, ao centro: «Tel: [+351] 21 792 10 00»\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 80/2026/1 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/portaria/80-2026-1051282298), em vigor a partir de 2026-05-17"
+  }
+ }
+}

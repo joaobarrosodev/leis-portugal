@@ -1,0 +1,1097 @@
+---
+schema_version: '1.0'
+id: eu:celex:32012R1025:por
+title: Regulamento (UE) n. ° 1025/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012
+short_title: null
+summary: Regulamento (UE) n. ° 1025/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012 , relativo à normalização
+  europeia, que altera as Diretivas 89/686/CEE e 93/15/CEE do Conselho e as Diretivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE,
+  98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE do Parlamento Europeu e do Conselho e revoga a Decisão 87/95/CEE
+  do Conselho e a Decisão n. ° 1673/2006/CE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2012/1025
+official_date: null
+publication_date: '2012-11-14'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 316 de 14.11.2012
+  number: '316'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/08e6cf53-2e33-11e2-ad46-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2012-12-04'
+- '2013-01-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2024-12-13'
+version_history:
+  file: regulamento-ue-2012-1025.versoes.json
+  count: 4
+  source_lastmod: '2024-12-13'
+  versions:
+  - date: '2012-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-07'
+    amending: eu:celex:32015L1535:por
+    amending_title: DIRETIVA (UE) 2015/1535 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 9 de
+      setembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 17.º — Disposições financeiras
+    - Altera Artigo 26.º — Alterações
+    - Altera Artigo 30.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ORGANIZAÇÕES EUROPEIAS DE NORMALIZAÇÃO
+    - Adita ANEXO II
+    - Adita REQUISITOS PARA A IDENTIFICAÇÃO DE ESPECIFICAÇÕES TÉCNICAS NO DOMÍNIO DAS TIC
+    - Adita ANEXO III
+    - Adita ORGANIZAÇÕES EUROPEIAS DE INTERESSADOS ELEGÍVEIS PARA FINANCIAMENTO DA UNIÃO
+    - Adita ANEXO IV
+  - date: '2023-07-09'
+    amending: eu:celex:32014L0028:por
+    amending_title: DIRETIVA 2014/28/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; DIRETIVA 2014/29/UE
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; M3; DIRETIVA 2014/32/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 26 de fevereiro de 2014; DIRETIVA 2014/33/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; DIRETIVA
+      2014/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; REGULAMENTO (UE) 2022/2480 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Pedidos de normalização às organizações europeias de normalização
+    - Altera Artigo 26.º — Alterações
+    - Altera Notas
+  - date: '2024-12-13'
+    amending: eu:celex:32023R0988:por
+    amending_title: REGULAMENTO (UE) 2023/988 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Pedidos de normalização às organizações europeias de normalização
+    - Altera Artigo 11.º — Objeções formais a normas harmonizadas
+    - Altera Notas
+identifiers:
+  celex: 32012R1025
+  eli: http://data.europa.eu/eli/reg/2012/1025/oj
+  oj: oj:JOL_2012_316_R_0012_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32012R1025:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32012R1025
+  metadata_url: http://publications.europa.eu/resource/cellar/08e6cf53-2e33-11e2-ad46-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/f5b6aa62-ac68-11ef-acb1-01aa75ed71a1.0020.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R1025-20241213
+  retrieved_at: '2026-10-22T16:10:12Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-07-12T16:47:01.268+02:00'
+integrity:
+  source_sha256: a8624d730a202e6c08f24bdb917854fb5d6e6d0167fd949e35dbdde0b411be25
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:10:12Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2012-1025.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- cooperação institucional
+- especificação técnica
+- harmonização das normas
+- norma europeia
+- norma técnica
+relationships:
+- type: amended_by
+  target: celex:32013L0029
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bdfc585e-dff1-11e2-9165-01aa75ed71a1
+  date: '2013-06-28'
+- type: amended_by
+  target: celex:32013L0053
+  label: null
+  source: http://publications.europa.eu/resource/cellar/68dca22c-76d8-11e3-b889-01aa75ed71a1
+  date: '2014-01-06'
+- type: amended_by
+  target: celex:32014L0028
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4d5ee66b-b723-11e3-86f9-01aa75ed71a1
+  date: '2014-03-29'
+- type: amended_by
+  target: celex:32014L0029
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1
+  date: '2014-03-29'
+- type: amended_by
+  target: celex:32014L0031
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3ccdada9-b722-11e3-86f9-01aa75ed71a1
+  date: '2014-03-29'
+- type: amended_by
+  target: celex:32014L0032
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cb24c6ac-b723-11e3-86f9-01aa75ed71a1
+  date: '2014-03-29'
+- type: amended_by
+  target: celex:32014L0033
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d50803ea-b722-11e3-86f9-01aa75ed71a1
+  date: '2014-03-29'
+- type: amended_by
+  target: celex:32014L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1
+  date: '2014-03-29'
+- type: amended_by
+  target: celex:32014L0068
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1ddec7ca-0e96-11e4-a7d0-01aa75ed71a1
+  date: '2014-07-18'
+- type: amended_by
+  target: celex:32015L1535
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a857b646-5cfd-11e5-afbf-01aa75ed71a1
+  date: '2015-09-17'
+- type: amended_by
+  target: celex:32022R2480
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e836dcb8-7f3f-11ed-9887-01aa75ed71a1
+  date: '2022-12-19'
+- type: amended_by
+  target: celex:32023R0988
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b5f5fb53-f906-11ed-a05c-01aa75ed71a1
+  date: '2023-05-23'
+- type: amends
+  target: celex:31989L0686
+  label: null
+  source: http://publications.europa.eu/resource/cellar/104c5d00-6c1b-44b0-b2b6-4f41284f4b99
+  date: '1989-12-30'
+- type: amends
+  target: celex:31993L0015
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2612be66-f5b0-4c7c-9590-f868c26c9bad
+  date: '1993-05-15'
+- type: amends
+  target: celex:31994L0009
+  label: null
+  source: http://publications.europa.eu/resource/cellar/195f86f2-ba6b-47e0-9b59-f652bce28f1b
+  date: '1994-04-19'
+- type: amends
+  target: celex:31994L0025
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1f5d2aec-95cd-4185-9d78-f6916b4760ac
+  date: '1994-06-30'
+- type: amends
+  target: celex:31995L0016
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9d4633c0-d8b6-47cf-8e5a-90baae01437f
+  date: '1995-06-29'
+- type: amends
+  target: celex:31997L0023
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a0788749-cd65-4730-9a90-fe2d222ae31e
+  date: '1997-07-16'
+- type: amends
+  target: celex:31998L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62dd72e1-3993-48dc-ba0e-e84e7531cb4c
+  date: '1998-06-22'
+- type: amends
+  target: celex:32003R0807
+  label: null
+  source: http://publications.europa.eu/resource/cellar/051198cd-4438-44a4-8769-db96926b6565
+  date: '2003-05-15'
+- type: amends
+  target: celex:32004L0022
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cd0e3be7-1aad-490a-bec8-704c00c50208
+  date: '2004-03-31'
+- type: amends
+  target: celex:32007L0023
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b32401af-0492-4425-b107-eda26b6baa0d
+  date: '2007-06-15'
+- type: amends
+  target: celex:32009L0023
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fdbec073-95e3-4155-a020-106ef98de65b
+  date: '2009-05-18'
+- type: amends
+  target: celex:32009L0105
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b2faa7df-fa23-4321-be89-8c8301606ae2
+  date: '2009-10-08'
+- type: based_on
+  target: celex:12010E114
+  label: null
+  source: http://publications.europa.eu/resource/cellar/94bc087a-00f3-4733-bc23-0b3e1f99704e
+  date: '2010-04-27'
+- type: based_on
+  target: celex:12010E294
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d5a84f05-84b6-456e-92d5-e94879c9719a
+  date: '2010-04-27'
+- type: cited_by
+  target: pt:dre:105711868:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106499601:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106642830:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106663844:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106886614:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:106938487:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:107495704:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:107495705:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:108086622:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:108086623:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1128002423:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:114457664:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1166969779:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:116734769:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:136678512:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:145875116:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:171871496:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:179993087:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:204379872:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:215716638:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:261161:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:67283028:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:69879424:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:70300350:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:74672467:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:962603401:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31995R2988
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7b4a2174-0293-457a-9bdc-fe2d298d8d79
+- type: cites
+  target: celex:31996R2185
+  label: null
+  source: http://publications.europa.eu/resource/cellar/adc86f79-268e-4ac4-8ae5-85c70ade888f
+- type: cites
+  target: celex:31999R1073
+  label: null
+  source: http://publications.europa.eu/resource/cellar/05d93cd4-6bdc-4ee6-a0eb-69750b4366c5
+- type: cites
+  target: celex:32002L0021
+  label: null
+  source: http://publications.europa.eu/resource/cellar/aab5b35a-5fb4-4ab0-8a48-104bdb252fc4
+- type: cites
+  target: celex:32002R1605
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ec39c4bf-a5ad-4962-afe3-471e9695cbe3
+- type: cites
+  target: celex:32002R2342
+  label: null
+  source: http://publications.europa.eu/resource/cellar/526688a4-f711-4bad-8667-2e5b32c67184
+- type: cites
+  target: celex:32004L0017
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f523752e-fd07-4b64-a6f5-7f6a4258907c
+- type: cites
+  target: celex:32004L0018
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62c3ce1d-831c-4074-bba1-fbfdc28947cc
+- type: cites
+  target: celex:32005L0036
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0902feb0-533e-4c11-8de9-98a68757f4ff
+- type: cites
+  target: celex:32006D1639
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7ffbf4f4-95cf-441d-b5f2-4ecdd955ff44
+- type: cites
+  target: celex:32006D1926
+  label: null
+  source: http://publications.europa.eu/resource/cellar/20ee653a-e60f-4bbb-a92a-3a468d4d2ef0
+- type: cites
+  target: celex:32007R0614
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5c70cace-7947-41c0-a39c-70ac23d2d23b
+- type: cites
+  target: celex:32008D0768
+  label: null
+  source: http://publications.europa.eu/resource/cellar/493403fe-dd8d-4178-9297-1b324d5b140a
+- type: cites
+  target: celex:32009D0922
+  label: null
+  source: http://publications.europa.eu/resource/cellar/426b3136-0431-42d4-8838-3ded239cef15
+- type: cites
+  target: celex:32009L0081
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3fb664c4-0b51-44fc-b738-2c28b4637657
+- type: cites
+  target: celex:32010D0048
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e5d76eb6-ae66-481a-8c93-451583f3bfa6
+- type: cites
+  target: celex:32011R0182
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cccf5222-feb3-4dc3-a4ca-9a5ec75e49af
+- type: cites
+  target: celex:32011R0305
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d9dc2b2a-47b7-4fb3-b055-9b55731a48a5
+- type: corrected_by
+  target: celex:32012R1025R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c918a4e7-94f1-11f0-97c8-01aa75ed71a1
+  date: '2025-09-19'
+- type: repeals
+  target: celex:31987D0095
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f4c2000a-0fc7-491e-af28-832a77ed200a
+  date: '1987-02-07'
+- type: repeals
+  target: celex:32006D1673
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d7c113e6-560d-4ad1-b40d-cb50aa80f84c
+  date: '2006-11-16'
+article_structure:
+  article_count: 30
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T16:10:12Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (UE) n. ° 1025/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012
+
+de 25 de outubro de 2012
+
+relativo à normalização europeia, que altera as Diretivas 89/686/CEE e 93/15/CEE do Conselho e as Diretivas 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE do Parlamento Europeu e do Conselho e revoga a Decisão 87/95/CEE do Conselho e a Decisão n.º 1673/2006/CE do Parlamento Europeu e do Conselho
+
+(Texto relevante para efeitos do EEE)
+
+## CAPÍTULO I
+
+### DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento estabelece regras no que respeita à cooperação entre as organizações europeias de normalização, os organismos nacionais de normalização, os Estados-Membros e a Comissão, à elaboração de normas europeias e de produtos de normalização europeus relativos a produtos e serviços de apoio à legislação e às políticas da União, à identificação de especificações técnicas no domínio das TIC suscetíveis de ser referenciadas, ao financiamento da normalização europeia e à participação dos interessados na normalização europeia.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente regulamento, entende-se por:
+
+1) «Norma», uma especificação técnica, aprovada por um organismo de normalização reconhecido, para aplicação repetida ou continuada, cuja observância não é obrigatória, que assume uma das seguintes formas:
+
+a) «Norma internacional», uma norma aprovada por um organismo internacional de normalização;
+
+b) «Norma europeia», uma norma aprovada por uma organização europeia de normalização;
+
+c) «Norma harmonizada», uma norma europeia aprovada com base num pedido apresentado pela Comissão tendo em vista a aplicação de legislação da União em matéria de harmonização;
+
+d) «Norma nacional», uma norma aprovada por um organismo nacional de normalização;
+
+2) «Produto de normalização europeu», qualquer outra especificação técnica, com exceção de uma norma europeia, aprovada por uma organização europeia de normalização para aplicação repetida ou continuada e cuja observância não é obrigatória;
+
+3) «Projeto de norma», um documento que contém o texto das especificações técnicas relativas a um assunto determinado, que está em curso de apreciação tendo em vista a sua aprovação pelo procedimento de normalização pertinente, tal como resulta dos trabalhos preparatórios e tal como difundido para comentário ou inquérito públicos;
+
+4) «Especificação técnica», um documento que define os requisitos técnicos que um produto, processo, serviço ou sistema devem cumprir e que estabelece disposições relativas a um ou mais dos seguintes aspetos:
+
+a) As características requeridas de um produto, nomeadamente níveis de qualidade, de desempenho, de interoperabilidade, de proteção do ambiente, de saúde, de segurança ou de dimensões, incluindo os requisitos aplicáveis ao produto no que respeita ao nome sob o qual é vendido, à terminologia, aos símbolos, aos ensaios e aos métodos de ensaio, à embalagem, à marcação ou à rotulagem e aos procedimentos de avaliação da conformidade;
+
+b) Os métodos e processos de produção relativos aos produtos agrícolas, na aceção do artigo 38.º, n.º 1, do TFUE, aos produtos destinados à alimentação humana e animal e aos medicamentos, bem como os métodos e processos de produção relativos a outros produtos, desde que esses métodos e processos tenham incidência sobre as características destes últimos;
+
+c) As características requeridas de um serviço, nomeadamente os níveis de qualidade, de desempenho, de interoperabilidade, de proteção do ambiente, de saúde ou de segurança, incluindo os requisitos aplicáveis aos prestadores no que se refere às informações a disponibilizar ao destinatário, tal como especificado no artigo 22.º, n.^os^ 1, 2 e 3, da Diretiva 2006/123/CE;
+
+d) Os métodos e critérios de avaliação do desempenho dos produtos de construção, na aceção do artigo 2.º, ponto 1, do Regulamento (UE) n.º 305/2011 do Parlamento Europeu e do Conselho, de 9 de março de 2011, que estabelece condições harmonizadas para a comercialização dos produtos de construção ([^1^](http://publications.europa.eu/resource/cellar/f5b6aa62-ac68-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0001)), relativamente às suas características essenciais.
+
+5) «Especificação técnica no domínio das TIC», uma especificação técnica no domínio das tecnologias da informação e da comunicação;
+
+6) «Produto», um produto de fabrico industrial ou um produto agrícola, incluindo os produtos da pesca;
+
+7) «Serviço», uma atividade económica por conta própria prestada normalmente mediante remuneração, na aceção do artigo 57.º do TFUE;
+
+8) «Organização europeia de normalização», uma organização enumerada no Anexo I;
+
+9) «Organismo internacional de normalização», a Organização Internacional de Normalização (ISO), a Comissão Eletrotécnica Internacional (CEI) e a União Internacional das Telecomunicações (UIT);
+
+10) «Organismo nacional de normalização», um organismo notificado à Comissão por um Estado-Membro nos termos do artigo 27.º do presente regulamento.
+
+## CAPÍTULO II
+
+### TRANSPARÊNCIA E PARTICIPAÇÃO DOS INTERESSADOS
+
+###### Artigo 3.º — Transparência dos programas de trabalho dos organismos de normalização
+
+1. As organizações europeias de normalização e os organismos nacionais de normalização devem elaborar o seu programa de trabalho pelo menos uma vez por ano. O referido programa de trabalho deve conter informações sobre as normas e os produtos de normalização europeus que as organizações europeias de normalização ou os organismos nacionais de normalização pretendem elaborar ou alterar, que estão a elaborar ou a alterar e que tenham aprovado no período do programa de trabalho anterior, a menos que se trate de transposições idênticas ou equivalentes a normas internacionais ou europeias.
+
+2.
+
+Para cada norma ou produto de normalização europeu, o programa de trabalho deve indicar:
+
+a) O assunto;
+
+b) A fase em que se encontra no que respeita à elaboração de normas ou de produtos de normalização europeus;
+
+c) As referências das normas internacionais utilizadas como base.
+
+3. Cada uma das organizações europeias de normalização e dos organismos nacionais de normalização deve publicar o seu programa de trabalho no seu sítio *web* ou em qualquer outro sítio *web* acessível ao público, bem como um aviso relativo à disponibilidade do programa de trabalho numa publicação nacional ou, se adequado, europeia sobre atividades de normalização.
+
+4. O mais tardar no momento da publicação do seu programa de trabalho, cada organização de normalização europeia e organismo de normalização nacional deve notificar a existência desse programa às outras organizações europeias de normalização e aos outros organismos nacionais de normalização, bem como à Comissão. Por sua vez, a Comissão disponibiliza essas informações aos Estados-Membros através do comité referido no artigo 22.º.
+
+5. Os organismos nacionais de normalização não podem opor-se a que um assunto de normalização constante do seu programa de trabalho seja examinado a nível europeu de acordo com as normas definidas pelas organizações europeias de normalização, e não podem tomar qualquer medida que seja passível de prejudicar uma decisão a este respeito.
+
+6. Durante o processo de elaboração de uma norma harmonizada, ou após a sua aprovação, os organismos nacionais de normalização não devem tomar qualquer medida suscetível de prejudicar a harmonização pretendida e, em especial, não devem publicar, no domínio em questão, uma nova norma nacional ou uma norma revista que não seja totalmente conforme com uma norma harmonizada em vigor. Após a publicação de uma nova norma harmonizada, todas as normas nacionais incompatíveis devem ser anuladas num prazo razoável.
+
+###### Artigo 4.º — Transparência das normas
+
+1. Cada uma das organizações europeias de normalização e dos organismos nacionais de normalização deve enviar, pelo menos sob forma eletrónica, os projetos de normas nacionais, de normas europeias ou de produtos de normalização europeus às outras organizações europeias de normalização, aos outros organismos nacionais de normalização ou à Comissão, a pedido destes.
+
+2. Cada uma das organizações europeias de normalização e dos organismos nacionais de normalização deve ter na devida conta e responder, no prazo de três meses, a todos os comentários recebidos das outras organizações europeias de normalização, dos outros organismos nacionais de normalização ou da Comissão, respeitantes aos projetos referidos no n.º 1.
+
+3. Se um organismo nacional de normalização receber comentários que indiquem que o projeto de norma teria um impacto negativo no mercado interno, deve consultar as organizações europeias de normalização e a Comissão antes da sua aprovação.
+
+4.
+
+Os organismos nacionais de normalização devem:
+
+a) Assegurar o acesso aos projetos de normas nacionais de tal modo que todas as partes relevantes, nomeadamente as estabelecidas noutros Estados-Membros, tenham a possibilidade de apresentar comentários;
+
+b) Permitir que os outros organismos nacionais de normalização participem passiva ou ativamente, mediante o envio de um observador, nas atividades planeadas.
+
+###### Artigo 5.º — Participação dos interessados na normalização europeia
+
+1.
+
+As organizações europeias de normalização devem incentivar e facilitar uma representação adequada e uma participação efetiva de todos os interessados relevantes, incluindo PME, organizações de consumidores e interessados ambientalistas e da sociedade civil, nas suas atividades de normalização. Devem incentivar e facilitar essa representação e participação, designadamente, através das organizações europeias de interessados que tenham obtido financiamento da União nos termos do presente regulamento, ao nível da elaboração das políticas e das seguintes fases de elaboração de normas europeias ou de produtos de normalização europeus:
+
+a) Proposta e aceitação de novas tarefas;
+
+b) Debate técnico das propostas;
+
+c) Apresentação de comentários aos projetos;
+
+d) Revisão das normas europeias ou dos produtos de normalização europeus existentes;
+
+e) Divulgação de informações sobre as normas europeias e sobre os produtos de normalização europeus aprovados, e sensibilização do público para os mesmos.
+
+2. Para além de colaborarem com as autoridades responsáveis pela fiscalização do mercado nos Estados-Membros, com as estruturas de investigação da Comissão e com as organizações europeias de interessados que tenham obtido financiamento da União nos termos do presente regulamento, as organizações europeias de normalização devem incentivar e facilitar uma representação adequada, a nível técnico, de empresas, de centros de investigação, de universidades e de outras entidades jurídicas em atividades de normalização num domínio emergente cujas implicações no plano político ou da inovação técnica sejam consideráveis, se as entidades jurídicas em causa tiverem participado num projeto relacionado com esse domínio financiado pela União no âmbito de um programa-quadro plurianual de ações no domínio da investigação, da inovação e do desenvolvimento tecnológico, adotado por força do artigo 182.º do TFUE.
+
+###### Artigo 6.º — Acesso das PME às normas
+
+1.
+
+Os organismos nacionais de normalização devem incentivar e facilitar o acesso das PME às normas e aos processos de elaboração de normas com vista a alcançar um elevado nível de participação no sistema de normalização, nomeadamente:
+
+a) Identificando, nos seus programas anuais de trabalho, os projetos de normalização que se revestem de interesse particular para as PME;
+
+b) Oferecendo acesso às atividades de normalização sem exigir que as PME se tornem membros de um organismo nacional de normalização;
+
+c) Oferecendo acesso gratuito, ou com tarifas especiais, a atividades de normalização;
+
+d) Oferecendo acesso gratuito a projetos de normas;
+
+e) Disponibilizando gratuitamente, no seu sítio *web*, sínteses das normas;
+
+f) Aplicando tarifas especiais ao fornecimento de normas ou propondo coletâneas de normas a preços reduzidos.
+
+2. Os organismos nacionais de normalização devem efetuar um intercâmbio das melhores práticas com o objetivo de reforçar a participação das PME nas atividades de normalização e de aumentar e facilitar a utilização das normas pelas PME.
+
+3. Os organismos nacionais de normalização devem enviar relatórios anuais às organizações europeias de normalização sobre as suas atividades referidas nos n.^os^ 1 e 2 e sobre todas as outras medidas destinadas a melhorar as condições para que as PME utilizem as normas e participem no processo de elaboração das normas. Os organismos nacionais de normalização devem publicar esses relatórios nos seus sítios *web*.
+
+###### Artigo 7.º — Participação das autoridades públicas na normalização europeia
+
+Os Estados-Membros devem incentivar, se necessário, a participação das autoridades públicas, nomeadamente das autoridades de fiscalização do mercado, nas atividades de normalização nacionais destinadas a elaborar ou a rever as normas solicitadas pela Comissão nos termos do artigo 10.º.
+
+## CAPÍTULO III
+
+### NORMAS EUROPEIAS E PRODUTOS DE NORMALIZAÇÃO EUROPEUS DE APOIO À LEGISLAÇÃO E ÀS POLÍTICAS DA UNIÃO
+
+###### Artigo 8.º — Programa de trabalho anual da União para a normalização europeia
+
+1. A Comissão aprova um programa de trabalho anual da União para a normalização europeia que identifica as prioridades estratégicas para a normalização europeia, tendo em conta as estratégias de longo prazo da União para o crescimento. O programa de trabalho indica as normas europeias ou os produtos de normalização europeus que a Comissão tenciona solicitar às organizações europeias de normalização, nos termos do artigo 10.º.
+
+2. O programa de trabalho anual da União para a normalização europeia define os objetivos específicos e as políticas para as normas europeias e para os produtos de normalização europeus que a Comissão tenciona solicitar às organizações europeias de normalização, nos termos do artigo 10.º. Em caso de urgência, a Comissão pode fazer pedidos sem aviso prévio.
+
+3. O programa de trabalho anual da União para a normalização europeia inclui igualmente objetivos para a dimensão internacional da normalização europeia, em apoio à legislação e às políticas da União.
+
+4. O programa de trabalho anual da União para a normalização europeia é aprovado após a realização de uma ampla consulta dos interessados relevantes, incluindo as organizações europeias de normalização e as organizações europeias de interessados que tenham obtido financiamento da União nos termos do presente regulamento, e dos Estados-Membros através do comité referido no artigo 22.º do presente regulamento.
+
+5. Uma vez aprovado, a Comissão publica o programa de trabalho anual da União para a normalização europeia no seu sítio *web*.
+
+###### Artigo 9.º — Cooperação com estruturas de investigação
+
+As estruturas de investigação da Comissão devem contribuir para a elaboração do programa de trabalho anual da União para a normalização europeia, referido no artigo 8.º, e prestar informações científicas às organizações europeias de normalização nas suas áreas de especialização, a fim de assegurar que as normas europeias contemplem a competitividade económica e as necessidades da sociedade civil, como a sustentabilidade ambiental e os aspetos relativos à segurança e à proteção.
+
+###### Artigo 10.º — Pedidos de normalização às organizações europeias de normalização
+
+1. Dentro dos limites das competências que lhe são atribuídas pelos Tratados, a Comissão pode solicitar que uma ou mais organizações europeias de normalização elaborem um projeto de norma europeia ou um produto de normalização europeu dentro de um prazo estabelecido, desde que a organização europeia de normalização em causa cumpra o disposto no n.º 2-A. As normas europeias e os produtos de normalização europeus devem ter em conta o mercado, o interesse do público e os objetivos políticos enunciados claramente no pedido da Comissão, e devem assentar numa base consensual. A Comissão determina os requisitos relativos ao conteúdo do documento solicitado e o prazo para a sua aprovação.
+
+2. As decisões referidas no n º 1 são adotadas pelo procedimento previsto no artigo 22.º, n.º 3, após consulta às organizações europeias de normalização e às organizações europeias de interessados que tenham obtido financiamento da União nos termos do presente regulamento, bem como ao comité criado pela legislação correspondente da União, caso esse comité exista, ou após outras formas de consulta de especialistas do setor.
+
+2-A.
+
+Sem prejuízo de outros pareceres consultivos, cada organização europeia de normalização deve assegurar que as seguintes decisões relativas às normas europeias e aos produtos de normalização europeus a que se refere o n.º 1 sejam tomadas exclusivamente por representantes dos organismos nacionais de normalização no âmbito do órgão de decisão competente dessa organização:
+
+a) decisões relativas à aceitação e à recusa de pedidos de normalização;
+
+b) decisões relativas à aceitação de novas tarefas necessárias ao cumprimento do pedido de normalização; e
+
+c) decisões relativas à adoção, revisão e anulação de normas europeias ou de produtos de normalização europeus.
+
+3. A organização europeia de normalização relevante deve indicar, no prazo de um mês a contar da sua receção, se aceita o pedido referido no n.º 1.
+
+4. Em caso de apresentação de um pedido de financiamento, a Comissão informa as organizações de normalização europeias relevantes, no prazo de dois meses a contar da notificação da aceitação referida no n.º 3, da concessão de uma subvenção com vista à elaboração de uma norma europeia ou de um produto de normalização europeu.
+
+5. As organizações europeias de normalização informam a Comissão sobre as atividades organizadas para a elaboração dos documentos referidos no n.º 1. A Comissão, juntamente com as organizações europeias de normalização, avalia a conformidade dos documentos elaborados pelas organizações europeias de normalização com o seu pedido inicial.
+
+6. Caso a norma harmonizada satisfaça os requisitos que visa abranger, constantes da legislação correspondente da União em matéria de harmonização, a Comissão publica sem demora uma referência a essa norma harmonizada no *Jornal Oficial da União Europeia*, ou por outros meios, de acordo com as condições estabelecidas no ato correspondente da legislação da União em matéria de harmonização.
+
+7. Caso uma norma europeia elaborada em apoio do Regulamento (UE) 2023/988 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/f5b6aa62-ac68-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0002)) cumpra o requisito geral de segurança estabelecido no artigo 5.º desse regulamento e os requisitos específicos de segurança a que se refere o artigo 7.º, n.º 2, desse regulamento, a Comissão publica uma referência a essa norma europeia, sem demora, no *Jornal Oficial da União Europeia*.
+
+###### Artigo 11.º — Objeções formais a normas harmonizadas
+
+1.
+
+Caso um Estado-Membro ou o Parlamento Europeu considerem que uma norma harmonizada ou uma norma europeia elaborada em apoio do Regulamento (UE) 2023/988 não preenche inteiramente os requisitos que visa abranger, previstos na legislação da União aplicável em matéria de harmonização ou nesse regulamento, informam desse facto a Comissão, fornecendo uma explicação detalhada. A Comissão, após consulta ao comité criado pela legislação correspondente da União em matéria de harmonização, caso esse comité exista, ou ao comité criado pelo referido regulamento, ou após outras formas de consulta de especialistas do sector, decide:
+
+a) Publicar, não publicar ou publicar com restrições as referências à norma harmonizada ou à norma europeia em causa elaborada em apoio do referido regulamento no *Jornal Oficial da União Europeia*; e
+
+b) Manter, manter com restrições ou retirar as referências à norma harmonizada ou à norma europeia em causa elaborada em apoio do Regulamento em causa do *Jornal Oficial da União Europeia*.
+
+2. A Comissão publica no seu sítio Web informações sobre as normas harmonizadas e as normas europeias elaboradas em apoio do Regulamento (UE) 2023/988 que tenham sido objeto da decisão nos termos do n.º 1.
+
+3. A Comissão informa a organização europeia de normalização da decisão eventualmente adotada nos termos do n.º 1 e, se necessário, solicita a revisão das normas harmonizadas ou das normas europeias pertinentes elaboradas em apoio do Regulamento (UE) 2023/988.
+
+4. A decisão referida no n.º 1, alínea a), do presente artigo é adotada pelo procedimento consultivo a que se refere o artigo 22.º, n.º 2.
+
+5. A decisão referida no n.º 1, alínea b), do presente artigo é adotada pelo procedimento de exame a que se refere o artigo 22.º, n.º 3.
+
+###### Artigo 12.º — Notificação das organizações de interessados
+
+A Comissão cria um sistema de notificação para todos os interessados, incluindo as organizações europeias de normalização e as organizações europeias de interessados que tenham obtido financiamento da União nos termos do presente regulamento, a fim de garantir uma consulta adequada e a sua relevância para os mercados, antes de:
+
+a) Aprovar o programa de trabalho anual da União para a normalização europeia referido no artigo 8.º, n.º 1;
+
+b) Aprovar os pedidos de normalização referidos no artigo 10.º;
+
+c) Tomar uma decisão sobre objeções formais às normas harmonizadas nos termos do artigo 11.º, n.º 1;
+
+d) Tomar uma decisão sobre a identificação das especificações técnicas no domínio das TIC referidas no artigo 13.º;
+
+e) Adotar os atos delegados referidos no artigo 20.º.
+
+## CAPÍTULO IV
+
+### ESPECIFICAÇÕES TÉCNICAS NO DOMÍNIO DAS TIC
+
+###### Artigo 13.º — Identificação de especificações técnicas no domínio das TIC elegíveis para referenciação
+
+1. Sob proposta de um Estado-Membro, ou por iniciativa própria, a Comissão pode decidir identificar especificações técnicas no domínio das TIC que, não sendo nacionais, europeias ou internacionais, cumpram os requisitos estabelecidos no Anexo II e possam ser referenciadas, essencialmente para permitir a interoperabilidade, em contratos públicos.
+
+2. Sob proposta de um Estado-Membro, ou por iniciativa própria, caso uma especificação técnica no domínio das TIC, identificada nos termos do n.º 1, seja alterada, retirada ou deixe de cumprir os requisitos estabelecidos no Anexo II, a Comissão pode decidir identificar a especificação técnica alterada no domínio das TIC ou retirar a identificação.
+
+3. As decisões previstas nos n.^os^ 1 e 2 são adotadas após consulta à plataforma europeia multilateral de normalização das TIC, que inclui as organizações europeias de normalização, os Estados-Membros e os interessados relevantes, e após consulta ao comité criado pela legislação correspondente da União, caso esse comité exista, ou após outras formas de consulta de especialistas do setor, caso não exista.
+
+###### Artigo 14.º — Aplicação das especificações técnicas no domínio das TIC em contratos públicos
+
+As especificações técnicas no domínio das TIC referidas no artigo 13.º do presente regulamento constituem especificações técnicas comuns a que se referem as Diretivas 2004/17/CE, 2004/18/CE e 2009/81/CE e o Regulamento (CE, Euratom) n.º 2342/2002.
+
+## CAPÍTULO V
+
+### FINANCIAMENTO DA NORMALIZAÇÃO EUROPEIA
+
+###### Artigo 15.º — Financiamento de organizações de normalização pela União
+
+1.
+
+A União pode financiar as organizações europeias de normalização para a realização das seguintes atividades de normalização:
+
+a) Elaboração e revisão de normas europeias ou de produtos de normalização europeus necessários e adequados à consolidação da legislação e das políticas da União;
+
+b) Verificação da qualidade das normas europeias ou dos produtos de normalização europeus, bem como da sua conformidade com a legislação e as políticas da União correspondentes;
+
+c) Execução de trabalhos preparatórios ou acessórios relativos à normalização europeia, nomeadamente estudos, atividades de cooperação, incluindo a cooperação internacional, seminários, avaliações, análises comparativas, trabalhos de investigação, trabalhos de laboratório, ensaios interlaboratoriais, trabalhos de avaliação da conformidade e medidas destinadas a encurtar o período necessário à elaboração e à revisão de normas europeias ou de produtos de normalização europeus sem prejuízo dos princípios basilares, nomeadamente os princípios da abertura, qualidade, transparência e consenso entre todos os interessados;
+
+d) Atividades dos secretariados centrais das organizações europeias de normalização, nomeadamente a conceção de políticas, a coordenação das atividades de normalização, a execução do trabalho técnico e a informação das partes interessadas;
+
+e) Tradução de normas europeias ou de produtos de normalização europeus, destinados a apoiar a legislação e as políticas da União, para as línguas oficiais da União que não sejam línguas de trabalho das organizações europeias de normalização ou, em casos devidamente justificados, para línguas que não sejam línguas oficiais da União;
+
+f) Produção de informação destinada a explicar, interpretar e simplificar normas europeias ou produtos de normalização europeus, incluindo a elaboração de guias de utilização, sínteses das normas, informações sobre boas práticas, ações de sensibilização, estratégias de sensibilização e programas de formação;
+
+g) Atividades relativas à execução de programas de assistência técnica, à cooperação com países terceiros e à promoção e valorização do sistema europeu de normalização, das normas europeias e de produtos de normalização europeus junto das partes interessadas na União e a nível internacional.
+
+2.
+
+A União pode também conceder financiamento a:
+
+a) Organismos nacionais de normalização para as atividades de normalização referidas no n.º 1, empreendidas conjuntamente com as organizações europeias de normalização;
+
+b) Outros organismos que tenham sido incumbidos de contribuir para as atividades referidas no n.º 1, alínea a), ou de executar as atividades referidas no n.º 1, alíneas c) e g), em cooperação com as organizações europeias de normalização.
+
+###### Artigo 16.º — Financiamento de outras organizações europeias pela União
+
+A União pode financiar as organizações europeias de interessados que satisfaçam os critérios constantes do Anexo III tendo em vista a realização das seguintes atividades:
+
+a) Funcionamento destas organizações e das suas atividades relacionadas com a normalização internacional e europeia, incluindo o trabalho técnico e a prestação de informação aos membros e a outras partes interessadas;
+
+b) Prestação de peritagem jurídica e técnica, nomeadamente estudos relacionados com a avaliação da necessidade de normas europeias e de produtos de normalização europeus, e com a sua elaboração, e formação de peritos;
+
+c) Participação nos trabalhos técnicos relativos à elaboração e revisão de normas europeias ou produtos de normalização europeus necessários e adequados à consolidação da legislação e das políticas da União;
+
+d) Promoção das normas europeias e dos produtos de normalização europeus e informação sobre a sua aplicação junto das partes interessadas, incluindo as PME e os consumidores.
+
+###### Artigo 17.º — Disposições financeiras
+
+1.
+
+O financiamento da União é concedido sob a forma de:
+
+a) Subvenções sem convite à apresentação de propostas, ou contratos celebrados na sequência de concursos públicos, a:
+
+i) organizações europeias de normalização e organismos nacionais de normalização, para executar as atividades referidas no artigo 15.º, n.º 1,
+
+ii) organismos identificados por um ato de base, na aceção do artigo 49.º do Regulamento (CE, Euratom) n.º 1605/2002, para executar, em colaboração com as organizações europeias de normalização, as atividades referidas no artigo 15.º, n.º 1, alínea c), do presente regulamento;
+
+b) Subvenções após convite à apresentação de propostas, ou contratos celebrados na sequência de concursos públicos, a outros organismos referidos no artigo 15.º, n.º 2, alínea b), para:
+
+i) prestar apoio à elaboração e revisão das normas europeias ou dos produtos de normalização europeus referidos no artigo 15.º, n.º 1, alínea a),
+
+ii) executar os trabalhos preparatórios ou acessórios referidos no artigo 15.º, n.º 1, alínea c),
+
+iii) executar as atividades referidas no artigo 15.º, n.º 1, alínea g);
+
+c) Subvenções após convite à apresentação de propostas a organizações europeias de interessados que satisfaçam os critérios constantes do Anexo III, para executar as atividades referidas no artigo 16.º.
+
+2.
+
+As atividades dos organismos referidos no n.º 1 podem ser financiadas através de:
+
+a) Subvenções destinadas a ações;
+
+b) Subvenções de funcionamento para as organizações europeias de normalização e as organizações europeias de interessados que satisfaçam os critérios constantes do Anexo III do presente regulamento, nos termos do Regulamento (CE, Euratom) n.º 1605/2002. Em caso de renovação, as subvenções de funcionamento não são reduzidas automaticamente.
+
+3. A Comissão aprova as modalidades de financiamento referidas nos n.^os^ 1 e 2, os montantes das subvenções e, eventualmente, as taxas máximas de financiamento por tipos de atividade.
+
+4.
+
+Exceto em casos devidamente justificados, as subvenções concedidas para as atividades de normalização referidas no artigo 15.º, n.º 1, alíneas a) e b), consistem em montantes fixos, e, para as atividades de normalização referidas no artigo 15, n.º 1, alínea a), são pagas desde que:
+
+a) As normas europeias ou os produtos de normalização europeus pedidos pela Comissão nos termos do artigo 10.º tenham sido aprovados ou revistos num prazo que não exceda o prazo especificado no pedido referido nesse artigo;
+
+b) As PME, as organizações de consumidores e os interessados ambientalistas e da sociedade civil estejam adequadamente representados e possam participar nas atividades de normalização europeia, nos termos do artigo 5.º, n.º 1.
+
+5. Os objetivos comuns de cooperação e as condições administrativas e financeiras relativas às subvenções atribuídas às organizações europeias de normalização e às organizações europeias de interessados que satisfaçam os critérios constantes do Anexo III do presente regulamento são definidos nos acordos-quadro de parceria celebrados entre a Comissão e as referidas organizações de normalização e de interessados, nos termos do Regulamento (CE, Euratom) n.º 1605/2002 e do Regulamento (CE, Euratom) n.º 2342/2002. A Comissão informa o Parlamento Europeu e o Conselho da celebração dos referidos acordos.
+
+###### Artigo 18.º — Gestão
+
+As dotações fixadas pela autoridade orçamental para o financiamento de atividades de normalização podem igualmente abranger as despesas administrativas decorrentes das ações de preparação, acompanhamento, controlo, auditoria e avaliação diretamente necessárias à aplicação dos artigos 15.º, 16.º e 17.º, nomeadamente estudos, reuniões, ações de informação e publicação, despesas ligadas às redes informáticas de intercâmbio de informações, bem como todas as outras despesas de assistência administrativa e técnica em que a Comissão possa incorrer no contexto de atividades de normalização.
+
+###### Artigo 19.º — Proteção dos interesses financeiros da União
+
+1. A Comissão deve assegurar que, na execução das atividades financiadas nos termos do presente regulamento, os interesses financeiros da União sejam protegidos através da aplicação de medidas preventivas contra a fraude, a corrupção e outras atividades ilegais, da realização de controlos efetivos e da recuperação de montantes indevidamente pagos, bem como, caso sejam detetadas irregularidades, de sanções efetivas, proporcionadas e dissuasivas, nos termos do disposto nos Regulamentos (CE, Euratom) n.º 2988/95, (Euratom, CE) n.º 2185/96 e (CE) n.º 1073/1999.
+
+2. Para efeitos das atividades da União financiadas ao abrigo do presente regulamento, entende-se por irregularidade, na aceção do artigo 1.º, n.º 2, do Regulamento (CE, Euratom) n.º 2988/95, a violação de uma disposição do direito da União ou o incumprimento de uma obrigação contratual resultante de um ato ou omissão de um operador económico que tenha ou possa ter por efeito lesar, através de uma despesa indevida, o orçamento geral da União ou os orçamentos por ela geridos.
+
+3. As convenções e os contratos resultantes do presente regulamento preveem a monitorização e o controlo financeiro da Comissão, ou de qualquer representante por ela autorizado, e auditorias do Tribunal de Contas Europeu, eventualmente no local.
+
+## CAPÍTULO VI
+
+### ATOS DELEGADOS, COMITÉ E RELATÓRIOS
+
+###### Artigo 20.º — Atos delegados
+
+A Comissão fica habilitada a adotar atos delegados nos termos do artigo 21.º no que respeita a alterações dos anexos ao presente regulamento, a fim de:
+
+a) Atualizar a lista das organizações europeias de normalização constante do Anexo I, para ter em conta alterações do seu nome ou da sua estrutura;
+
+b) Adaptar, em função da evolução futura, os critérios relativos aos fins não lucrativos e à representatividade das organizações europeias de interessados constantes do Anexo III do presente regulamento. Essas adaptações não devem levar à criação de novos critérios nem à eliminação de critérios ou categorias de organizações existentes.
+
+###### Artigo 21.º — Exercício da delegação
+
+1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2. O poder de adotar os atos delegados a que se refere o artigo 20.º é conferido à Comissão por um prazo de cinco anos a partir de 1 de janeiro de 2013. A Comissão elabora um relatório sobre a delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.
+
+3. A delegação de poderes a que se refere o artigo 20.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+5. Os atos delegados adotados nos termos do artigo 20.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu ou ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+###### Artigo 22.º — Procedimento de comité
+
+1. A Comissão é assistida por um comité. Esse comité deve ser entendido como comité na aceção de Regulamento (UE) n.º 182/2011.
+
+2. Caso se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.
+
+3. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.
+
+4. Caso o parecer do comité deva ser aprovado por procedimento escrito, considera-se esse procedimento encerrado sem resultados se, no prazo fixado para dar o parecer, o presidente assim o decidir ou a maioria simples dos seus membros assim o requerer.
+
+###### Artigo 23.º — Cooperação do comité com as organizações de normalização e com os interessados
+
+O comité referido no artigo 22.º, n.º 1, trabalha em cooperação com as organizações europeias de normalização e com as organizações europeias de interessados que tenham obtido financiamento da União nos termos do presente regulamento.
+
+###### Artigo 24.º — Relatórios
+
+1.
+
+As organizações europeias de normalização transmitem relatórios anuais à Comissão sobre a aplicação do presente regulamento. Os relatórios devem conter informações pormenorizadas sobre:
+
+a) A aplicação dos artigos 4.º, 5.º, 10.º, 15.º e 17.º;
+
+b) A representação das PME, das organizações representativas dos interesses dos consumidores, do ambiente e da sociedade civil nos organismos nacionais de normalização;
+
+c) A representação das PME com base nos relatórios anuais referidos no artigo 6.º, n.º 3;
+
+d) A utilização das TIC no sistema de normalização;
+
+e) A cooperação entre os organismos nacionais de normalização e as organizações europeias de normalização.
+
+2. As organizações europeias de interessados que tenham obtido financiamento da União nos termos do presente regulamento transmitem à Comissão relatórios anuais sobre as atividades realizadas. Estes relatórios devem incluir, nomeadamente, informações pormenorizadas sobre os membros dessas organizações e sobre as atividades referidas no artigo 16.º.
+
+3. Até 31 de dezembro de 2015 e, em seguida, de cinco em cinco anos, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento. Esse relatório inclui uma análise dos relatórios anuais referidos nos n.^os^ 1 e 2, uma avaliação da pertinência das atividades de normalização financiadas pela União, tendo em conta as necessidades da legislação e das políticas da União, e uma avaliação de eventuais novas medidas para simplificar o financiamento da normalização europeia e para reduzir os encargos administrativos para as organizações europeias de normalização.
+
+###### Artigo 25.º — Revisão
+
+Até 2 de janeiro de 2015, a Comissão avalia o impacto do procedimento estabelecido no artigo 10.º do presente regulamento no prazo para a formulação de pedidos de normalização. A Comissão apresenta as suas conclusões num relatório ao Parlamento Europeu e ao Conselho. Esse relatório é acompanhado, se for caso disso, de uma proposta legislativa de alteração do presente regulamento.
+
+## CAPÍTULO VII
+
+### DISPOSIÇÕES FINAIS
+
+###### Artigo 26.º — Alterações
+
+1.
+
+São suprimidas as seguintes disposições:
+
+a) Artigo 6.º, n.º 1, da Diretiva 89/686/CEE;
+
+d) Artigo 6.º, n.º 1, da Diretiva 94/25/CE;
+
+e) Artigo 6.º, n.º 1, da Diretiva 95/16/CE;
+
+f) Artigo 6.º da Diretiva 97/23/CE;
+
+h) Artigo 8.º, n.º 4, da Diretiva 2007/23/CE;
+
+As remissões para as disposições suprimidas entendem-se como sendo feitas para o artigo 11.º do presente regulamento.
+
+###### Artigo 27.º — Organismos nacionais de normalização
+
+Os Estados-Membros informam a Comissão dos respetivos organismos de normalização.
+
+A Comissão publica no *Jornal Oficial da União Europeia* a lista dos organismos nacionais de normalização e as eventuais atualizações da mesma.
+
+###### Artigo 28.º — Disposições transitórias
+
+Nos atos da União que prevejam a presunção de conformidade com os requisitos essenciais mediante a aplicação de normas harmonizadas adotadas nos termos da Diretiva 98/34/CE, as referências à Diretiva 98/34/CE devem ser entendidas como sendo feitas para o presente regulamento, com exceção das referências feitas para o comité criado pelo artigo 5.º da Diretiva 98/34/CE no que respeita às regras técnicas.
+
+Caso um ato da União estabeleça um procedimento de objeção a normas harmonizadas, o artigo 11.º do presente regulamento não se aplica ao ato em questão.
+
+###### Artigo 29.º — Revogações
+
+São revogadas a Decisão n.º 1673/2006/CE e a Decisão 87/95/CEE.
+
+As referências feitas para as decisões revogadas entendem-se como sendo feitas para o presente regulamento e devem ser lidas de acordo com a tabela de correspondência constante do Anexo IV do presente regulamento.
+
+###### Artigo 30.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é aplicável a partir de 1 de janeiro de 2013.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+## ANEXO I
+
+### ORGANIZAÇÕES EUROPEIAS DE NORMALIZAÇÃO
+
+1. CEN – Comité Europeu de Normalização
+
+2. Cenelec – Comité Europeu de Normalização Eletrotécnica
+
+3. ETSI – Instituto Europeu de Normalização das Telecomunicações
+
+## ANEXO II
+
+### REQUISITOS PARA A IDENTIFICAÇÃO DE ESPECIFICAÇÕES TÉCNICAS NO DOMÍNIO DAS TIC
+
+1. As especificações técnicas gozam da aceitação do mercado e a sua aplicação não entrava a interoperabilidade com a aplicação das normas internacionais ou europeias existentes. A aceitação do mercado pode ser demonstrada através de exemplos concretos de aplicação conforme por parte de diferentes vendedores.
+
+2. As especificações técnicas são coerentes na medida em que não sejam incompatíveis com as normas europeias, isto é, na medida em que abranjam domínios em que a adoção de novas normas europeias não esteja prevista dentro de um prazo razoável, em que as normas existentes não tenham sido adotadas pelo mercado ou em que essas normas se tenham tornado obsoletas, e em que a transposição das especificações técnicas para produtos de normalização europeus não esteja prevista dentro de um prazo razoável.
+
+3. As especificações técnicas foram elaboradas por uma organização sem fins lucrativos que é uma associação comercial, industrial ou empresarial, ou por qualquer outra organização de tipo associativo que, dentro da sua área de competências, elabora especificações técnicas no domínio das TIC, não sendo uma organização europeia de normalização, um organismo nacional ou internacional de normalização, mediante processos que satisfazem os seguintes critérios:
+
+a) Abertura:
+
+b) Consenso:
+
+c) Transparência:
+
+i) todas as informações referentes a discussões técnicas e à tomada de decisões foram arquivadas e identificadas,
+
+ii) as informações sobre os novos trabalhos de normalização foram pública e amplamente divulgadas através de meios adequados e acessíveis,
+
+iii) procurou-se a participação de todos os tipos relevantes de partes interessadas, por uma questão de equilíbrio,
+
+iv) os comentários das partes interessadas foram tidos em consideração e receberam resposta.
+
+4. As especificações técnicas preenchem os seguintes requisitos:
+
+a) Manutenção: o apoio e a manutenção contínuos das especificações publicadas são garantidos durante um período dilatado;
+
+b) Disponibilidade: As especificações estão publicamente disponíveis para aplicação e utilização em condições razoáveis (mediante o pagamento de uma taxa razoável ou sem encargos);
+
+c) Os direitos de propriedade intelectual essenciais à aplicação das especificações são objeto de licença concedida aos requerentes numa base razoável (justa) e não discriminatória [abordagem designada (F)RAND] que inclui, ao critério do titular dos direitos de propriedade intelectual, a concessão de licenças de propriedade intelectual essenciais sem compensação;
+
+d) Relevância:
+
+i) as especificações são eficazes e pertinentes,
+
+ii) as especificações têm de responder às necessidades do mercado e às exigências regulamentares;
+
+e) Neutralidade e estabilidade:
+
+i) sempre que possível, as especificações são orientadas para o desempenho, em vez de se basearem na conceção ou em características descritivas,
+
+ii) as especificações não provocam distorções do mercado nem restringem as possibilidades de os responsáveis pela sua aplicação promoverem com base nelas a concorrência e a inovação,
+
+iii) as especificações assentam em progressos científicos e tecnológicos recentes;
+
+f) Qualidade:
+
+i) a qualidade e o nível de pormenor são suficientes para permitir o desenvolvimento de uma série de aplicações concorrentes de produtos e serviços interoperáveis,
+
+ii) as interfaces normalizadas não são ocultadas nem controladas seja por quem for, com exceção das organizações que adotaram as especificações técnicas.
+
+## ANEXO III
+
+### ORGANIZAÇÕES EUROPEIAS DE INTERESSADOS ELEGÍVEIS PARA FINANCIAMENTO DA UNIÃO
+
+1. Uma organização europeia representante das PME nas atividades de normalização europeias que:
+
+a) É uma organização não governamental e sem fins lucrativos;
+
+b) Tem como principais objetivos e atividades representar os interesses das PME no processo de normalização a nível europeu, sensibilizá-las para a normalização e motivá-las para participarem no processo de normalização;
+
+c) Foi mandatada por organizações sem fins lucrativos representantes das PME em pelo menos dois terços dos Estados-Membros para representar os interesses das PME no processo de normalização a nível europeu.
+
+2. Uma organização europeia representante dos consumidores nas atividades de normalização europeias que:
+
+a) É uma organização não governamental, sem fins lucrativos e independente de interesses industriais, comerciais, económicos e de qualquer outro tipo que possam suscitar conflitos de interesses;
+
+b) Tem como principais objetivos e atividades representar os interesses dos consumidores no processo de normalização a nível europeu;
+
+c) Foi mandatada por organizações nacionais sem fins lucrativos de consumidores em pelo menos dois terços dos Estados-Membros para representar os interesses dos consumidores no processo de normalização a nível europeu.
+
+3. Uma organização europeia representante dos interesses ambientalistas nas atividades de normalização europeias que:
+
+a) É uma organização não governamental, sem fins lucrativos e independente de interesses industriais, comerciais, económicos ou de qualquer outro tipo que possam suscitar conflitos de interesses;
+
+b) Tem como principais objetivos e atividades representar os interesses ambientalistas no processo de normalização a nível europeu;
+
+c) Foi mandatada por organizações nacionais sem fins lucrativos ambientalistas em pelo menos dois terços dos Estados-Membros para representar os interesses ambientalistas no processo de normalização a nível europeu.
+
+4. Uma organização europeia representante dos interesses da sociedade civil nas atividades de normalização europeias que:
+
+a) É uma organização não governamental, sem fins lucrativos e independente de interesses industriais, comerciais, económicos ou de qualquer outro tipo que possam suscitar conflitos de interesses;
+
+b) Tem como principais objetivos e atividades representar os interesses da sociedade civil no processo de normalização a nível europeu;
+
+c) Foi mandatada por organizações nacionais sem fins lucrativos da sociedade civil em pelo menos dois terços dos Estados-Membros para representar os interesses da sociedade civil no processo de normalização a nível europeu.
+
+## ANEXO IV
+
+Diretiva 98/34/CE Presente regulamento
+
+Artigo 1.º, primeiro parágrafo, n.º 6 Artigo 2.º, n.º 1
+
+Artigo 1.º, primeiro parágrafo, n.º 7 —
+
+Artigo 1.º, primeiro parágrafo, n.º 8 Artigo 2.º, n.º 3
+
+Artigo 1.º, primeiro parágrafo, n.º 9 Artigo 2.º, n.º 8
+
+Artigo 1.º, primeiro parágrafo, n.º 10 Artigo 2.º, n.º 10
+
+Artigo 2.º, n.º 1 Artigo 3.º, n.º 1
+
+Artigo 2.º, n.º 2 Artigo 3.º, n.º 2
+
+Artigo 2.º, n.º 3 Artigo 3.º, n.^os^ 3 e 4
+
+Artigo 2.º, n.º 4 Artigo 27.º
+
+Artigo 2.º, n.º 5 Artigo 20.º, alínea a)
+
+Artigo 3.º Artigo 4.º, n.º 1
+
+Artigo 4.º, n.º 1 Artigo 3.º, n.^os^ 3 e 5, e artigo 4.º, n.º 4
+
+Artigo 4.º, n.º 2 —
+
+Artigo 6.º, n.º 3, primeiro travessão —
+
+Artigo 6.º, n.º 4, alínea a) Artigo 20.º, alínea a)
+
+Artigo 6.º, n.º 4, alínea b) —
+
+Artigo 6.º, n.º 4, alínea e) Artigo 10.º, n.º 2
+
+Anexo I Anexo I
+
+Anexo II Artigo 27.º
+
+Decisão n.º 1673/2006/CE Presente regulamento
+
+Artigo 1.º Artigo 1.º
+
+Artigos 2.º e 3.º Artigo 15.º
+
+Artigo 4.º —
+
+Artigo 5.º Artigo 17.º
+
+Artigo 6.º, n.º 1 Artigo 18.º
+
+Artigo 6.º, n.º 2 Artigo 24.º, n.º 3
+
+Artigo 7.º Artigo 19.º
+
+Decisão 87/95/CEE Presente regulamento
+
+Artigo 1.º Artigo 2.º
+
+Artigo 2.º Artigo 3.º
+
+Artigo 3.º Artigo 13.º
+
+Artigo 4.º Artigo 8.º
+
+Artigo 5.º Artigo 14.º
+
+Artigo 6.º —
+
+Artigo 7.º —
+
+Artigo 8.º Artigo 24.º, n.º 3
+
+Artigo 9.º —
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/f5b6aa62-ac68-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 88 de 4.4.2011, p. 5.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/f5b6aa62-ac68-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) 2023/988 do Parlamento Europeu e do Conselho, de 10 de maio de 2023, relativo à segurança geral dos produtos, que altera o Regulamento (UE) n.º 1025/2012 do Parlamento Europeu e do Conselho e a Diretiva (UE) 2020/1828 do Parlamento Europeu e do Conselho e que revoga a Diretiva 2001/95/CE do Parlamento Europeu e do Conselho e a Diretiva 87/357/CEE do Conselho (JO L 135 23.5.2023, p. 1).

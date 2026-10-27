@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:221137:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1986-115568999",
+ "dre_path": "/dr/detalhe/portaria/667-1986-221137",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-11-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115568967",
+    "115568921",
+    "115568922",
+    "115568923",
+    "115568924",
+    "115568925",
+    "115568926",
+    "115568927",
+    "115568928"
+   ]
+  },
+  {
+   "date": "2018-06-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115561642:por",
+     "title": "Portaria n.º 183/2018",
+     "published": "2018-06-22",
+     "dre_path": "/dr/detalhe/portaria/183-2018-115561642"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Altera III"
+   ],
+   "fragments": [
+    "115568967",
+    "115568921",
+    "115568930",
+    "115568931",
+    "115568968",
+    "115568935",
+    "115568965",
+    "115568922",
+    "115568936",
+    "115568923",
+    "115568937",
+    "115568938",
+    "115568939",
+    "115568924",
+    "115568940",
+    "115568941",
+    "115568925",
+    "115568942",
+    "115568943",
+    "115568944",
+    "115568926",
+    "115568945",
+    "115568946",
+    "115568947",
+    "115568927",
+    "115568948",
+    "115568949",
+    "115568950",
+    "115568928",
+    "115568951",
+    "115568954",
+    "115568953",
+    "115568955",
+    "115568956",
+    "115568957",
+    "115568958",
+    "115568959",
+    "115568960",
+    "115568929"
+   ]
+  }
+ ],
+ "fragments": {
+  "115568967": {
+   "fragment_id": "115569000",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-06-23",
+   "changed_by": [],
+   "markdown": "Portaria n.º 667/86\n\nde 7 de Novembro\n\nA formação profissional promovida por organismos públicos, privados ou cooperativos é apoiada técnica e financeiramente pelo Estado, competindo ao Instituto do Emprego e Formação Profissional a celebração dos acordos e protocolos necessários para a aplicação prática dos apoios concedidos.\n\nEssa formação de carácter extra-escolar impõe-se a curto prazo, a fim de corresponder às exigências da modernização da sociedade portuguesa, e tem notável relevância no sector do jornalismo, visando a melhoria dos serviços das empresas jornalísticas através da valorização e dignificação dos profissionais da informação.\n\nAssim, tendo em atenção o disposto nos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança Social, que seja homologada a criação do Centro Protocolar de Formação Profissional para Jornalistas, abreviadamente designado por CENJOR, o qual se regerá pelo protocolo anexo a esta portaria.\n\nMinistério do Trabalho e Segurança Social.\n\nAssinada em 16 de Outubro de 1986.\n\nO Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.\n\nProtocolo do Centro Protocolar de Formação Profissional para Jornalistas\n\nPor acordo entre o Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), a Secretaria-Geral da Presidência do Conselho de Ministros, o Sindicato dos Jornalistas, a Associação da Imprensa Diária e a APIMPRENSA - Associação Portuguesa de Imprensa, devidamente representados para o efeito, e nos termos do Decreto-Lei n.º 165/85, de 16 de maio, é estabelecido o protocolo que cria o Centro Protocolar de Formação Profissional para Jornalistas, o qual passa a ter a seguinte redação:\n\n> Nota: [Portaria n.º 156/2002 - Diário da República n.º 43/2002, Série I-B de 2002-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/156-2002-277576) Onde se lê «Associação da Imprensa não Diária», deve ler-se «Associação Portuguesa de Imprensa (AIND)»"
+  },
+  "115568921": {
+   "fragment_id": "115569001",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "115568922": {
+   "fragment_id": "115569002",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "115568923": {
+   "fragment_id": "115569003",
+   "type": 8,
+   "heading": "Secção I — Do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do conselho de administração"
+  },
+  "115568924": {
+   "fragment_id": "115569004",
+   "type": 8,
+   "heading": "Secção II — Do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do director"
+  },
+  "115568925": {
+   "fragment_id": "115569005",
+   "type": 8,
+   "heading": "Secção III — Do conselho técnico-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do conselho técnico-pedagógico"
+  },
+  "115568926": {
+   "fragment_id": "115569006",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização e verificação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Da comissão de fiscalização e verificação de contas"
+  },
+  "115568927": {
+   "fragment_id": "115569007",
+   "type": 1,
+   "heading": "Capítulo III — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições financeiras"
+  },
+  "115568928": {
+   "fragment_id": "115569008",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições diversas\n\nLisboa, 9 de Outubro de 1986. - Pelo Instituto do Emprego e Formação Profissional, (Assinatura ilegível.) - Pela Direcção-Geral da Comunicação Social, (Assinatura ilegível.) - Pelo Sindicato dos jornalistas, (Assinatura ilegível.) - Pela Associação da Imprensa Diária, (Assinatura ilegível.) - Pela Associação da Imprensa não Diária, (Assinatura ilegível.)\n\nHomologado."
+  },
+  "115568930": {
+   "fragment_id": "115569010",
+   "type": 4,
+   "heading": "I — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## I — Denominação\n\nO Centro Protocolar adopta a designação de Centro Protocolar de Formação Profissional para Jornalistas, abreviadamente CENJOR."
+  },
+  "115568931": {
+   "fragment_id": "115569011",
+   "type": 4,
+   "heading": "II — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## II — Natureza e atribuições\n\n1 - O Centro Protocolar de Formação Profissional para Jornalistas, doravante apenas designado por CENJOR, é um organismo dotado de personalidade jurídica de direito público, com autonomia administrativa e financeira e património próprio.\n\n2 - São atribuições do CENJOR promover actividades de educação e de formação profissional."
+  },
+  "115568968": {
+   "fragment_id": "115569014",
+   "type": 4,
+   "heading": "III — Destinatários",
+   "in_force_from": "2018-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 183/2018 - Diário da República n.º 119/2018, Série I de 2018-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/183-2018-115561642), em vigor a partir de 2018-06-23"
+   ],
+   "markdown": "## III — Destinatários\n\nEste conjunto de acções destina-se prioritariamente a jornalistas e a outros trabalhadores de empresas jornalísticas e visa a melhoria dos serviços das empresas jornalísticas através da dignificação dos profissionais da informação e, consequentemente, melhorar o trabalho por elas prestado à comunidade.\n\nA frequência do Centro será facultada:\n\na) Aos trabalhadores inscritos no Sindicato dos Jornalistas ou nas empresas filiadas na APIMPRENSA - Associação Portuguesa de Imprensa e na Associação da Imprensa Diária;\n\nb) Aos colaboradores das empresas jornalísticas regionais devidamente credenciados pelas respectivas empresas;\n\nc) Aos restantes jornalistas detentores de carteira profissional;\n\nd) Aos trabalhadores provenientes de países terceiros com os quais sejam estabelecidos acordos de colaboração nesta área específica de formação;\n\ne) Aos candidatos à profissão com perspectivas de coloção no mercado de emprego.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 183/2018 - Diário da República n.º 119/2018, Série I de 2018-06-22](https://diariodarepublica.pt/dr/detalhe/portaria/183-2018-115561642), em vigor a partir de 2018-06-23"
+  },
+  "115568935": {
+   "fragment_id": "115569015",
+   "type": 4,
+   "heading": "IV — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## IV — Sede e delegações\n\nO CENJOR tem a sua sede em Lisboa e poderá criar delegações dele dependentes em qualquer parte do território nacional e para os sectores que o justifiquem, sem prejuízo do que se dispõe em V."
+  },
+  "115568965": {
+   "fragment_id": "115569056",
+   "type": 15,
+   "heading": "V — Duração e âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O CENJOR durará por tempo indeterminado desde a data da sua criação, sem prejuízo do disposto em XXIV, e o seu âmbito territorial abrange a totalidade do País."
+  },
+  "115568936": {
+   "fragment_id": "115569016",
+   "type": 4,
+   "heading": "VI — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## VI — Órgãos\n\nA estrutura orgânica do CENJOR compreende os seguintes órgãos:\n\na) O conselho de administração;\n\nb) O director;\n\nc) O conselho técnico-pedagógico;\n\nd) A comissão de fiscalização e verificação de contas."
+  },
+  "115568937": {
+   "fragment_id": "115569017",
+   "type": 4,
+   "heading": "VII — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## VII — Composição\n\n1 - O conselho de administração é constituído por quatro membros efectivos, com direito a voto quando em exercício efectivo de funções, dois dos quais em representação do IEFP, um do Sindicato dos Jornalistas e um das Associações da Imprensa Diária e não Diária.\n\nUm dos representantes do IEFP é proposto pela Direcção-Geral da Comunicação Social.\n\n2 - Além destes existirá um membro suplente por cada outorgante.\n\n3 - A presidência do conselho de administração caberá a um dos membros que actua em representação do IEFP, podendo vir a ser substituído pelo outro membro efectivo em caso de falta ou impedimento.\n\n4 - Os membros do conselho de administração serão nomeados por três anos e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes, devendo cada um destes indicar os seus representantes no prazo de 30 dias após a publicação no Diário da República do presente protocolo."
+  },
+  "115568938": {
+   "fragment_id": "115569018",
+   "type": 4,
+   "heading": "VIII — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## VIII — Competências\n\n1 - Compete ao conselho de administração exercer, em geral, os mais amplos poderes de gestão, praticando todos os actos tendentes à realização das atribuições do CENJOR e, em especial:\n\na) Dirigir, orientar, coordenar e controlar toda a actividade do CENJOR;\n\nb) Definir as linhas de orientação pedagógica, técnica e científica que deverão pautar as acções de formação profissional a desenvolver;\n\nc) Submeter à aprovação dos outorgantes o plano de actividades, o orçamento ordinário, os orçamentos suplementares, quando existam, e ainda o relatório e contas do exercício;\n\nd) Contratar todo o pessoal necessário ao funcionamento do CENJOR;\n\ne) Aprovar e fazer cumprir os regulamentos de funcionamento interno;\n\nf) Propor aos outorgantes a nomeação ou exoneração do director;\n\ng) Delegar no director as competências que entender necessárias à gestão corrente do CENJOR e fiscalizar o exercício dessas competências.\n\n2 - O conselho de administração é também responsável pela gestão financeira das verbas concedidas para a instalação e manutenção do Centro."
+  },
+  "115568939": {
+   "fragment_id": "115569019",
+   "type": 4,
+   "heading": "IX — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## IX — Funcionamento\n\n1 - O conselho de administração reúne ordinariamente uma vez por mês; extraordinariamente, sempre que o presidente o convoque, por iniciativa própria ou a pedido de qualquer dos seus membros ou do director do CENJOR, sendo as decisões tomadas por maioria de votos dos membros em efectividade de funções.\n\n2 - As reuniões do conselho de administração serão presididas por um presidente, que, em caso de empate, tem voto de qualidade, e poderá, por sua iniciativa ou a pedido de qualquer dos seus membros em efectividade de funções, requerer aos serviços do IEFP a assistência e exames que entender necessários às actividades do CENJOR.\n\n3 - De cada reunião será lavrada acta, que será aprovada e assinada na reunião seguinte pelos membros presentes."
+  },
+  "115568940": {
+   "fragment_id": "115569020",
+   "type": 4,
+   "heading": "X — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## X — Designação\n\nO director do CENJOR é nomeado e exonerado por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes."
+  },
+  "115568941": {
+   "fragment_id": "115569021",
+   "type": 4,
+   "heading": "XI — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XI — Competência\n\n1 - O director do CENJOR é o superior hierárquico de todo o pessoal do Centro e é o responsável pela execução das deliberações do conselho de administração, a cujas reuniões deve assistir, sem direito a voto, quando para o efeito for convocado pelo seu presidente, que o fará por iniciativa própria ou a pedido de algum dos membros do conselho de administração.\n\n2 - Compete ainda ao director a prática de todos os actos de gestão corrente necessários ao regular funcionamento do CENJOR e, nomeadamente:\n\na) Organizar os serviços;\n\nb) Exercer o poder disciplinar dentro dos limites fixados pela lei e pelo conselho de administração;\n\nc) Proceder ao despacho e assinatura do expediente, corrente;\n\nd) Realizar a gestão do pessoal, propondo ao conselho de administração condições de trabalho, admissões e demissões;\n\ne) Elaborar e propor à aprovação do conselho de administração o projecto de regulamento de funcionamento interno;\n\nf) Propor ao conselho de administração todas as iniciativas que entenda úteis ao bom funcionamento e desenvolvimento do CENJOR;\n\ng) Exercer o controle das actividades do CENJOR e, bem assim, informar regularmente o conselho de administração sobre a situação financeira e eventuais desvios às previsões e objectivos do plano de actividades;\n\nh) Aceitar e desempenhar as competências que lhe sejam conferidas por delegação do conselho de administração;\n\ni) Presidir às reuniões do conselho técnico-pedagógico."
+  },
+  "115568942": {
+   "fragment_id": "115569022",
+   "type": 4,
+   "heading": "XII — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XII — Composição\n\n1 - O conselho técnico-pedagógico é constituído por oito membros: o director do Centro, um representante de cada outorgante, um representante do corpo docente e um elemento cooptado de entre os nomes indicados pelas universidades onde se ministram cursos de comunicação social com especialidade em jornalismo.\n\n2 - A presidência do conselho técnico-pedagógico cabe ao director do CENJOR, o qual será substituído nas suas ausências ou impedimentos por um dos membros do conselho, em quem delegará os necessários poderes.\n\n3 - Os membros do conselho técnico-pedagógico são nomeados por períodos de três anos e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes, devendo estes indicar os seus representantes no prazo de 30 dias após a publicação no Diário da República do presente protocolo."
+  },
+  "115568943": {
+   "fragment_id": "115569023",
+   "type": 4,
+   "heading": "XIII — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XIII — Competência\n\nO conselho técnico-pedagógico é um órgão consultivo, ao qual compete, nomeadamente:\n\na) Dar parecer sobre os planos e programas de estudo;\n\nb) Estudar e propor ao conselho de administração alterações aos programas de ensino;\n\nc) Dar parecer sobre a criação ou suspensão de estágios;\n\nd) Dar parecer sobre o equipamento adequado ao ensino e métodos utilizados;\n\ne) Elaborar pareceres, relatórios e estudos que lhe sejam solicitados."
+  },
+  "115568944": {
+   "fragment_id": "115569024",
+   "type": 4,
+   "heading": "XIV — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XIV — Funcionamento\n\n1 - As reuniões do conselho técnico-pedagógico, de que se lavrará acta, assinada pelos presentes, serão convocadas pelo presidente, por sua iniciativa ou a pedido de algum dos seus membros.\n\n2 - O presidente do conselho técnico-pedagógico, por sua iniciativa ou a pedido de qualquer dos seus membros, poderá solicitar a presença nas reuniões, sem direito a voto, de técnicos estranhos ao conselho, mas considerados úteis ao esclarecimento de qualquer assunto.\n\n3 - As deliberações do conselho técnico-pedagógico são tomadas por maioria de votos dos seus membros, cabendo ao presidente, em caso de empate, voto de qualidade."
+  },
+  "115568945": {
+   "fragment_id": "115569025",
+   "type": 4,
+   "heading": "XV — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XV — Composição\n\n1 - A comissão de fiscalização e verificação de contas é constituída por três membros, nomeados um pelo primeiro outorgante, um pelas Associações de Imprensa outorgantes e o último pelo Sindicato dos Jornalistas.\n\n2 - A presidência da comissão de fiscalização e verificação de contas caberá ao membro que representa o primeiro outorgante.\n\n3 - Os membros da comissão de fiscalização e verificação de contas serão nomeados por períodos de três anos e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes, devendo cada um destes indicar os seus representantes no prazo de 30 dias após a publicação no Diário da República do presente protocolo."
+  },
+  "115568946": {
+   "fragment_id": "115569026",
+   "type": 4,
+   "heading": "XVI — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XVI — Competência\n\nCompete à comissão de fiscalização e verificação de contas:\n\na) Apreciar e dar parecer sobre os orçamentos e contas do CENJOR;\n\nb) Apreciar os relatórios de actividades e dar parecer sobre o mérito da gestão financeira desenvolvida;\n\nc) Examinar a contabilidade do Centro;\n\nd) Pronunciar-se sobre qualquer assunto de interesse para o Centro que seja submetido à sua apreciação pelo conselho de administ"
+  },
+  "115568947": {
+   "fragment_id": "115569028",
+   "type": 12,
+   "heading": "XVII — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XVII — Funcionamento\n\n1 - A comissão de fiscalização e verificação de contas reunir-se-á, ordinariamente, uma vez de três em três meses e, extraordinariamente, sempre que o presidente a convoque, por sua iniciativa ou a pedido de qualquer dos seus membros.\n\n2 - A comissão de fiscalização e verificação de contas só poderá deliberar quando se encontrem presentes todos os seus membros, tendo as decisões de ser tomadas por maioria de votos, cabendo ao presidente voto de qualidade.\n\n3 - De todas as reuniões será lavrada acta, assinada pelos presentes.\n\n4 - A comissão de fiscalização e verificação de contas poderá fazer-se assistir, sob a sua responsabilidade, por auditores internos do Centro, se os houver, e por auditores externos contratados.\n\n5 - No exercício da sua actividade poderá a comissão de fiscalização e verificação de contas solicitar todos os elementos de informação julgados necessários.\n\n6 - Os membros da comissão de fiscalização e verificação de contas poderão assistir, individual ou conjuntamente e sem direito a voto, às reuniões do conselho de administração, sempre que o presidente deste o entenda conveniente."
+  },
+  "115568948": {
+   "fragment_id": "115569029",
+   "type": 4,
+   "heading": "XVIII — Orçamento e plano de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XVIII — Orçamento e plano de actividades\n\n1 - O Centro dispõe de contabilidade própria, devendo o plano de actividades e o orçamento ordinário ser remetidos anualmente pelo conselho de administração aos outorgantes até 15 de Junho do ano anterior a que digam respeito, acompanhados do parecer da comissão de fiscalização e verificação de contas.\n\n2 - O plano de actividades e o orçamento ordinário considerar-se-ão definitivamente aprovados após deliberação nesse sentido dos outorgantes.\n\n3 - O conselho de administração poderá elaborar, em cada ano civil, até dois orçamentos suplementares, sujeitos igualmente ao parecer da comissão de fiscalização e verificação de contas e à aprovação dos outorgantes."
+  },
+  "115568949": {
+   "fragment_id": "115569030",
+   "type": 4,
+   "heading": "XIX — Relatório e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XIX — Relatório e contas\n\n1 - O conselho de administração deverá remeter aos outorgantes, até 31 de Março de cada ano, um exemplar do relatório e contas do exercício do ano anterior, acompanhado do parecer da comissão de fiscalização e verificação de contas.\n\n2 - As contas anuais do Centro considerar-se-ão aprovadas após competente deliberação nesse sentido dos outorgantes, os quais poderão mandar verificá-las sempre que entendam conveniente.\n\n3 - Os saldos apurados no fim do exercício transitarão para o ano seguinte."
+  },
+  "115568950": {
+   "fragment_id": "115569031",
+   "type": 4,
+   "heading": "XX — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XX — Receitas e despesas\n\n1 - As despesas com instalações e equipamento do CENJOR serão suportadas pelo IEFP.\n\n2 - Para a cobertura das despesas de funcionamento do CENJOR o IEFP contribuirá com uma verba que não ultrapassará 95% do total das mesmas, sendo o remanescente suportado pelos outorgantes, conforme acordarem entre si. Os valores a suportar pelos outorgantes serão calculados depois de deduzidas as receitas eventuais do Centro.\n\n3 - Para as acções de formação profissional a desenvolver pelo Centro, e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas ou não por aquele Fundo comunitário, deduzidas eventuais receitas das acções.\n\n4 - Constituem ainda receitas do CENJOR, para além das comparticipações dos outorgantes anteriormente definidas, as provenientes da venda de produtos, de serviços e de donativos, bem como outras receitas que venham a resultar da actividade do CENJOR.\n\n5 - As comparticipações das entidades outorgantes serão, em princípio, processadas mensalmente em relação aos valores orçamentados."
+  },
+  "115568951": {
+   "fragment_id": "115569032",
+   "type": 4,
+   "heading": "XXI — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XXI — Representação\n\nO CENJOR obrigar-se-á pelas assinaturas de dois membros do conselho de administração, devendo uma delas ser obrigatoriamente a do presidente efectivo ou substituto."
+  },
+  "115568954": {
+   "fragment_id": "115569035",
+   "type": 15,
+   "heading": "XXII — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Os trabalhadores do quadro do Centro, incluindo o director, ficam sujeitos ao regime do contrato individual de trabalho, devendo, sempre que possível, recorrer-se, em regime de prestação de serviços, a profissionais do sector, como monitores eventuais para o funcionamento dos cursos."
+  },
+  "115568953": {
+   "fragment_id": "115569034",
+   "type": 4,
+   "heading": "XXIII — Resolução unilateral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XXIII — Resolução unilateral\n\nA resolução unilateral por algum dos outorgantes do presente protocolo não dá direito a qualquer indemnização, sem prejuízo do direito ao ressarcimento de eventuais danos, quando a resolução seja injustificada."
+  },
+  "115568955": {
+   "fragment_id": "115569036",
+   "type": 4,
+   "heading": "XXIV — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XXIV — Incumprimento\n\nO incumprimento não justificado por qualquer dos outorgantes das obrigações assumidas no âmbito do presente protocolo pode determinar a denúncia pelas partes interessadas, cujos efeitos se produzirão depois de homologado pelo Ministro do Trabalho e Segurança Social."
+  },
+  "115568956": {
+   "fragment_id": "115569037",
+   "type": 4,
+   "heading": "XXV — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XXV — Extinção\n\n1 - Por decisão unânime do conselho de administração ou por proposta de qualquer dos outorgantes, em caso de manifesta impossibilidade de realização dos fins constitutivos, o Ministro do Trabalho e Segurança Social poderá determinar a cessação da actividade do CENJOR e a sua consequente extinção.\n\n2 - Em caso de extinção as instalações e os equipamentos reverterão para o IEFP e o restante património do CENJOR será rateado em partes proporcionais às comparticipações financeiras dos respectivos outorgantes."
+  },
+  "115568957": {
+   "fragment_id": "115569038",
+   "type": 4,
+   "heading": "XXVI — Alterações ao protocolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XXVI — Alterações ao protocolo\n\nO conselho de administração poderá propor aos outorgantes as necessárias alterações e aditamentos a este protocolo, devendo, em caso de acordo, celebrar-se o respectivo adicional."
+  },
+  "115568958": {
+   "fragment_id": "115569039",
+   "type": 4,
+   "heading": "XXVII — Adesão ao protocolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XXVII — Adesão ao protocolo\n\nMediante parecer favorável e em condições a fixar pelos outorgantes, poderá o concelho de administração autorizar futuras adesões de outras entidades a este protocolo."
+  },
+  "115568959": {
+   "fragment_id": "115569040",
+   "type": 4,
+   "heading": "XXVIII — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XXVIII — Legislação aplicável\n\nEm tudo o omisso neste protocolo aplicar-se-á o disposto no Decreto-Lei n.º 165/85, de 16 de Maio."
+  },
+  "115568960": {
+   "fragment_id": "115569041",
+   "type": 4,
+   "heading": "XXIX — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## XXIX — Entrada em vigor\n\nO presente protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo Ministro do Trabalho e Segurança Social."
+  },
+  "115568929": {
+   "fragment_id": "115569009",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lisboa, 9 de Outubro de 1986. - Pelo Instituto do Emprego e Formação Profissional, (Assinatura ilegível.) - Pela Direcção-Geral da Comunicação Social, (Assinatura ilegível.) - Pelo Sindicato dos jornalistas, (Assinatura ilegível.) - Pela Associação da Imprensa Diária, (Assinatura ilegível.) - Pela Associação da Imprensa não Diária, (Assinatura ilegível.)\n\nHomologado.\n\nO Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral."
+  }
+ }
+}

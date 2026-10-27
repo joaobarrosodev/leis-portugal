@@ -1,0 +1,345 @@
+---
+schema_version: '1.0'
+id: pt:dre:392976:por
+title: Portaria n.º 489/82
+short_title: null
+summary: Define quais os empreendimentos que serão abrangidos pelo sistema de incentivos a novos investimentos de relevância
+  turística (SIIT)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 489/82
+official_date: null
+publication_date: '1982-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1982, Série I de 1982-05-11
+  number: '108'
+  series: I
+  supplement: null
+  pages: 1223 - 1229
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10800/12231229.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392976'
+  dre_path: /dr/detalhe/portaria/489-1982-392976
+  internal: pt:dre:392976:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/489-1982-392976
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/489-1982-392976
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b27679c1f1cd5415b3bf0731101440a3a398cc879a99595bc8264bdd4b7db625
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio ao Investimento
+- Infraestrutura Turística
+- Sistema de Incentivos ao Investimento Turístico
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:410774:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:385850:por
+  label: "Alterada a al. b) do n.º 3 e a al. b) do n.º 2 do n.º 6 do presente diploma, pela PORT.473/84.19.07.1984.MCT, DR.IS\
+    \ [166] de 19.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/473-1984-385850
+  date: '1984-07-19'
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458992:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:395747:por
+  label: Rectificada pela DECL.DD3436.1982.05.17.SG-PCM, DR.IS [132] de 11/Jun/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395747
+  date: '1982-05-17'
+- type: corrected_by
+  target: pt:dre:394085:por
+  label: Rectificada pela DECL.DD6141.14.07.1982.PCM, DR.IS [168] de 23.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394085
+  date: '1982-07-14'
+- type: repealed_by
+  target: pt:dre:410774:por
+  label: "Revogada pelo DEC LEI.420/87.31.12.1987.MPAT, DR.IS [300-10ºSupl] de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1987-410774
+  date: '1987-12-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:17:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 489/82
+
+de 11 de Maio
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Turismo, nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 172/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984), de 11 de Maio.
+
+1.º Para efeito do estipulado no n.º 3 do artigo 1.º do [Decreto-Lei n.º 172/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984), de 11 de Maio, consideram-se abrangidos pelo presente diploma os seguintes empreendimentos:
+
+a) Unidades e equipamentos inseridos ou não em conjuntos turísticos:
+
+Hotéis de 5, 4, 3 e 2 estrelas;
+
+Hotéis-apartamentos;
+
+Pensões de 4, 3 e 2 estrelas;
+
+Pousadas;
+
+Estalagens;
+
+Aldeamentos turísticos;
+
+Apartamentos turísticos;
+
+Motéis;
+
+Parques de campismo;
+
+Estabelecimentos similares dos hoteleiros com serviço predominante de restaurante;
+
+Embarcações quando registadas para os fins referidos no [Decreto-Lei n.º 564/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1980-458992);
+
+Autocarros de turismo a adquirir por agências de viagens para prossecução dos seus fins conforme legislação aplicável;
+
+b) Unidades e equipamentos inseridos em conjuntos turísticos:
+
+Estabelecimentos similares dos hoteleiros;
+
+Infra-estruturas urbanísticas, nomeadamente arruamentos, jardins e outros enquadramentos paisagísticos e zonas verdes indispensáveis aos empreendimentos turísticos, captação e distribuição de água e estações de tratamento de esgotos, redes de saneamento, redes de telecomunicações e redes de energia;
+
+Infra-estruturas de animação, culturais e desportivas;
+
+Equipamentos de apoio à exploração, quando expressamente reconhecidos para o efeito por despacho do Secretário de Estado do Turismo ou dos respectivos Secretários Regionais, designadamente os destinados à produção de energia, lavadarias, balneários e instalações termais.
+
+2.º A declaração de revelância para a valorização turística da região, prevista no artigo 1.º do [Decreto-Lei n.º 172/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984), de 11 de Maio, pode ser obtida através de requerimento dos interessados dirigido ao Secretário de Estado do Turismo ou dos respectivos Secretários Regionais, devendo para os conjuntos turísticos ter-se em atenção o disposto no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109) e demais legislação aplicável.
+
+3.º O método dos pontos previsto no artigo 3.º do [Decreto-Lei n.º 172/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984), de 11 de Maio, depende, caso a caso, dos seguintes critérios de rentabilidade social:
+
+a) Período de recuperação do investimento importado;
+
+b) Uso de energia solar ou outras energias renováveis, cujo equipamento seja considerado de fabrico nacional e ajustado ao aquecimento de águas sanitárias do empreendimento;
+
+c) Valor acrescentado nacional, bem como do estatuto de relevância turística para empreendimentos citados na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 172/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984), de 11 de Maio, que se deve pautar pelos seguintes princípios:
+
+1) O interesse regional em termos de dinamização dos recursos locais, da conplementaridade a outras unidades e da criação de emprego;
+
+2) A inserção em complexos hoteleiros ou termais;
+
+3) A qualidade arquitectónica;
+
+4) O interesse e a qualidade do serviço que se propõe prestar.
+
+§ 1.º A relevância turística, caso se verifique, pode ser classificada pela Direcção-Geral do Turismo ou pelas Direcções Regionais de Turismo das regiões autónomas, de 1.º grau, 2.º grau ou 3.º grau, em função do preenchimento dos requisitos anteriores.
+
+§ 2.º A recuperação do investimento importado (RI i) é calculada pela seguinte fórmula:
+
+RI i = (IM - Ci)/(0,9 (VX - R))
+
+em que:
+
+IM = investimento em capital fixo de origem externa;
+
+Ci = capital legalmente importado;
+
+VX = vendas ao exterior, deduzidas de royalties;
+
+R = Royalties repatriados.
+
+Por investimento importado IM entender-se-á o acréscimo de activo corpóreo e incorpóreo de origem externa, bem como as importações indirectas que resultem da aplicação das seguintes percentagens às componentes de origem interna:
+
+... Percentagens
+
+Construção de edifícios e infra-estruturas ... 15
+
+Equipamento técnico de fabrico nacional ... 33
+
+Equipamento profissional de fabrico nacional ... 25
+
+Serviços nacionais (v. g., estudos técnico-económicos e montagens) ... 10
+
+Material de transporte montado em Portugal:
+
+Automóveis ... 80
+
+Camiões ... 85
+
+Autocarros ... 50
+
+Por valor das vendas para o exterior imputáveis ao projecto entender-se-á o resultado da multiplicação do valor total das vendas do estabelecimento pelas percentagens de dormidas de estrangeiros nas dormidas totais registadas no referido estabelecimento.
+
+4.º Para efeitos do n.º 3 do artigo 3.º e do n.º 1 do artigo 4.º do [Decreto-Lei n.º 172/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984), de 11 de Maio, a pontuação (P) do projecto de investimento é determinada pela fórmula:
+
+P = Q + T
+
+em que:
+
+P = pontuação do projecto com valores entre 5 e 10;
+
+Q = pontuação do projecto correspondente ao critério da rentabilidade social;
+
+T = pontuação do projecto correspondente ao critério da relevância turística do empreendimento.
+
+§ único. Para projectos cuja soma Q + T seja inferior a 5, o valor de P é 0.
+
+5.º Para efeitos do presente diploma, as unidades classificam-se em:
+
+a) Estabelecimentos hoteleiros e parques de campismo;
+
+b) Estabelecimentos similares de hotelaria;
+
+c) Unidades complementares inseridas em conjuntos turísticos;
+
+d) Autocarros de turismo e embarcações registadas nos termos do [Decreto-Lei n.º 564/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1980-458992).
+
+6.º Aos estabelecimentos hoteleiros aplicam-se os seguintes critérios e respectiva pontuação:
+
+1 - Relevância turística:
+
+1.º grau: 5 pontos;
+
+2.º grau: 3 pontos;
+
+3.º grau: 1 ponto.
+
+2 - Rentabilidade social:
+
+a) Período de recuperação do investimento importado:
+
+RI i - 1 ano: 4 pontos;
+
+1 RI i - 2 anos: 3 pontos;
+
+2 RI i - 3 anos: 2 pontos;
+
+3 RI i - 0 pontos.
+
+b) Utilização de energia solar ou outras energias renováveis - 1 ponto.
+
+7.º Aos estabelecimentos similares dos hoteleiros aplicam-se os seguintes critérios com a pontuação abaixo indicada:
+
+1 - Relevância turística:
+
+1.º grau: 5 pontos;
+
+2.º grau: 3 pontos;
+
+3.º grau: 1 ponto.
+
+2 - Rentabilidade social:
+
+ID >= 80%: 5 pontos;
+
+80 > ID >= 65%: 3 pontos;
+
+65 > ID >= 50%: 1 ponto;
+
+>= igual ou maior que ID - componente interno líquido do investimento total;
+
+IT - Investimento total:
+
+ID = IT - IM - CI
+
+8.º Às unidades complementares inseridas em conjuntos turísticos, parques de campismo, autocarros de turismo e embarcações aplica-se o critério da relevância turística com a seguinte pontuação:
+
+1.º grau: 10 pontos;
+
+2.º grau: 7 pontos;
+
+3.º grau: 5 pontos.
+
+9.º Os critérios de rentabilidade social relacionados com a actividade do empreendimento devem ser observados com base nos valores previstos para um ano de laboração normal, que não poderá exceder o 3.º ano de exploração.
+
+10.º A taxa básica de bonificação a conceder nos termos dos artigos 4.º e 6.º do [Decreto-Lei n.º 172/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984), de 11 de Maio, será calculada com base na seguinte fórmula:
+
+TB = (0,5d + 1)(P/10)
+
+em que:
+
+d = taxa de desconto do Banco de Portugal;
+
+P = número de pontos obtidos pelo projecto.
+
+Para utilizações inferiores a 25% implica que TB = 0.
+
+11.º As taxas anuais de bonificação serão calculadas a partir da taxa básica de bonificação TB, mediante a multiplicação pelos seguintes coeficientes:
+
+1.º ao 4.º ano de vida do financiamento ... 1
+
+5.º ano de vida do financiamento ... 0,8
+
+6.º ano de vida do financiamento ... 0,6
+
+7.º ano de vida do financiamento ... 0,4
+
+com um máximo definido no n.º 2 do artigo 4.º do [Decreto-Lei n.º 172/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1982-392984), de 11 de Maio.
+
+§ único. As taxas anuais serão arredondadas, quando necessário, para o múltiplo de 0,25% imediatamente inferior.
+
+12.º As bonificações decorrentes do decreto-lei serão pagas directamente pelo Fundo de Turismo às instituições de crédito, após a cobrança dos juros, líquidos das bonificações, pelas instituições de crédito mutuantes.
+
+13.º As taxas de juro praticadas são as de juros normais posticipados.
+
+14.º - 1 - As instituições de crédito ou, em caso disso, o Instituto do Investimento Estrangeiro enviarão fotocópia do requerimento e mapas normalizados a que se refere o anexo I da presente portaria ao Fundo de Turismo, em tempo útil.
+
+2 - Da proposta final a enviar pelas instituições de crédito ao Fundo de Turismo deverá constar o parecer das mesmas sobre o custo previsional do projecto.
+
+Presidência do Conselho de Ministros, 11 de Maio de 1982. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho.
+
+Do MAPA MODELO N.º 1 ao MAPA MODELO N.º 6
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/10800/12231229.pdf)

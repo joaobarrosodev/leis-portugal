@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984R3220:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984R3220-20090101",
+ "dre_path": null,
+ "source_lastmod": "2009-01-01",
+ "versions": [
+  {
+   "date": "1984-11-20",
+   "future": false,
+   "celex": "31984R3220",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "71ad243cd31781b7",
+    "2663260c5cbae1fe",
+    "7d93899f21326052",
+    "cf36009d29002940",
+    "a467e4c31d92ab35",
+    "8985166036e73c2c",
+    "4ae006036538df9e",
+    "d18ad1f3c8df04d8"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "celex": "01984R3220-20090101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o"
+   ],
+   "fragments": [
+    "d7f9707ff95830d0"
+   ]
+  }
+ ],
+ "fragments": {
+  "71ad243cd31781b7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3220/84 do Conselho, de 13 de Novembro de 1984, que estabelece a tabela comunitária de classificação das carcaças de suínos** *Jornal Oficial nº L 301 de 20/11/1984 p. 0001 - 0003 Edição especial finlandesa: Capítulo 3 Fascículo 18 p. 0068 Edição especial espanhola: Capítulo 03 Fascículo 32 p. 0195 Edição especial sueca: Capítulo 3 Fascículo 18 p. 0068 Edição especial portuguesa: Capítulo 03 Fascículo 32 p. 0195*\n\nREGULAMENTO (CEE) No 3220/84 DO CONSELHO de 13 de Novembro de 1984 que estabelece a tabela comunitária de classificação das carcaças de suínos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 2759/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector da carne de suíno (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2966/80 (2) e, nomeadamente, o seu artigo 2o e o no 5 do seu artigo 4o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que antes de 1 de Agosto de cada ano deve ser fixado um preço de base para o suíno abatido de uma qualidade-tipo definida segundo uma tabela comunitária de classificação das carcaças de suíno;\n\nConsiderando que é, por isso, necessário estabelecer regras gerais que assegurem uma classificação uniforme das carcaças de suínos, nomeadamente para assegurar um pagamento equitativo aos produtores baseado no peso e na composição dos suínos por eles entregues no matadouro; que esta classificação se destina igualmente a contribuir para a transparência do mercado no que diz respeito ao comércio das carcaças de suínos;\n\nConsiderando que o valor de uma carcaça de suíno é determinado, em especial, pela carne magra que contém em relação ao seu peso; que a apreciação do teor de carne magra, baseada na consideração objectiva do peso da carcaça e da espessura do toucinho dorsal, assim como a apreciação subjectiva do desenvolvimento muscular nas partes essenciais da carcaça, pode conduzir a uma apreciação justa desse valor; que, no entanto, existe o risco de o elemento subjectivo de apreciação do desenvolvimento muscular dar lugar também a diferenças consideráveis de apreciação; que é aconselhável, por isso, introduzir em toda a Comunidade o princípio da verificação directa da percentagem de carne magra, baseada em medições objectivas de uma ou de várias partes anatómicas da carcaça de suíno, sem por isso excluir a utilização eventual de critérios complementares para a determinação do valor comercial daquela;\n\nConsiderando que importa definir exactamente a apresentação, o peso e o teor de carne magra das carcaças a fim de assegurar a possibilidade de comparação dos resultados em questão;\n\nConsiderando que, devido à diversidade que caracteriza a produção de suínos na Comunidade, é conveniente reunir as carcaças de suíno, segundo o teor de carne magra, em cinco classes comerciais, escalonadas por fracções de 5 % de carne magra; que é, todavia, oportuno dar aos Estados-membros a possibilidade de acrescentar uma classe suplementar com alta percentagem de carne magra;\n\nConsiderando que é necessário estabelecer um sistema que permita a fiscalização da aplicação correcta dos métodos de apreciação da percentagem de carne magra; que é conveniente, além disso, contribuir para a transparência do mercado prevendo a marcação das carcaças segundo o seu teor de carne magra;\n\nConsiderando que, para estabelecer as quotações do suino abatido numa base comum e assegurar a sua possibilidade de comparação com o preço de base válido para a qualidade-tipo, é aconselhável utilizar a tabela comunitária, nomeadamente para fins de determinação da média dos preços de suíno abatido referida no artigo 4o do Regulamento (CEE) no 2759/75;\n\nConsiderando que, simultaneamente às alterações acima previstas, é conveniente proceder a uma codificação do conjunto das regras aplicáveis e revogar em conformidade o Regulamento (CEE) no 2760/75 do Conselho, de 29 de Outubro de 1975, que determina a tabela comunitária de classificação das carcaças de suínos (3);\n\nConsiderando todavia que, devido à diversidade de estrutura dos matadouros e às diferenças existentes nas suas práticas correntes, não é possível prever uma aplicação simultânea em toda a Comunidade da nova tabela de classificação das carcaças de suíno; que, por isso, é necessário admitir que certos Estados-membros continuem, durante um período transitório, a aplicar o método de classificação das carcaças de suíno previsto pelo Regulamento (CEE) no 2760/75,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2663260c5cbae1fe": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O presente regulamento estabelece a tabela comunitária de classificação das carcaças de suíno, com excepção dos suínos que tenham servido para reprodução.\n\n2. A tabela referida no no 1 é utilizada em todos os matadouros para a classificação de qualquer carcaça a fim de permitir, nomeadamente, um pagamento equitativo aos produtores, baseado no peso e na composição dos porcos que foram entregues no matadouro. Todavia, os Estados-membros podem decidir não tornar obrigatória a aplicação desta tabela:\n\n- nas empresas de abate de que fixam o número máximo de abates realizados, não podendo este número ultrapassar, numa média anual, 200 porcos por semana,\n\n- nas empresas de abate que apenas abatem suínos nascidos e engordados nas suas próprias instalações e que cortam a totalidade das carcaças obtidas.\n\nNeste caso, a Comissão será notificada pelos Estados-membros sobre a decisão tomada que especificará, eventualmente, o número máximo de abates que podem ser realizados em cada empresa de abate dispensada da aplicação da tabela comunitária."
+  },
+  "7d93899f21326052": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Para efeitos do presente regulamento, entende-se por «carcaça de suíno» o corpo de um porco abatido, sangrado e evíscerado, inteiro ou dividido ao meio, sem a lingua, as cerdas, as unhas e os orgãos genitais, mas com as banhas, os rins e o diafragma.\n\nNo que diz respeito aos suínos abatidos no seu território, os Estados-membros poderão ser autorizados a prever uma apresentação diferente das carcaças de suíno:\n\n- quando a prática comercial normalmente seguida no seu território se afastar da apresentação tipo definida no primeiro parágrafo, ou\n\n- quando as exigências técnicas o justificarem.\n\n2. Para efeitos do presente regulamento, o peso aplica-se à carcaça fria com a apresentação estabelecida no no 1, primeiro parágrafo.\n\nA carcaça é pesada o mais depressa possível depois do abate, mas o mais tardar quarenta e cinco minutos depois do porco ter sido degolado. Calcula-se o peso da carcaça fria aplicando ao resultado obtido um coeficiente de transformação.\n\nSe, num dado matadouro, o prazo de quarenta e cinco minutos não puder geralmente ser respeitado, o coeficiente de transformação referido no segundo parágrafo será adaptado em conformidade.\n\n3. Para efeitos do presente regulamento, o teor de carne magra de uma carcaça de suíno será a relação entre:\n\n- por um lado, o peso do conjunto dos músculos estriados obtidos pela dissecação total da carcaça, enquanto puderem ser separados por meio de uma faca,\n\ne\n\n- por outro lado, o peso da carcaça.\n\nO teor de carne magra é calculado por meio de métodos de classificação autorizados. Só poderão ser autorizados métodos de cálculo estatisticamente provados, baseados na medição física de uma ou de várias partes anatómicas de carcaça de suíno. A autorização dos métodos de classificação está sujeita a uma tolerância máxima de erro estatístico de cálculo."
+  },
+  "cf36009d29002940": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. As carcaças de suíno são classificadas no momento da pesagem segundo o teor estimado de carne magra.\n\nTodavia, o valor comercial das carcaças não é determinado unicamente pelo teor estimado de carne magra.\n\n2. Aplica-se a seguinte tabela de classificação:\n\n\"\" ID=\"1\">Classe 55 e mais> ID=\"2\">E\"> ID=\"1\">50 até menos de 55> ID=\"2\">U\"> ID=\"1\">45 até menos de 50> ID=\"2\">R\"> ID=\"1\">40 até menos de 45> ID=\"2\">O\"> ID=\"1\">menos de 40> ID=\"2\">P\">\n\n3. Tendo em conta as características da sua produção de suínos, os Estados-membros poderão, para os suínos abatidos no seu território, introduzir uma classe separada de 60 % ou mais de carne magra, designada pela letra S. Quando usarem desta faculdade, notificarão a Comissão.\n\n4. O disposto no presente artigo não impedirá, no que diz respeito aos suínos abatidos no território de um Estado-membro, a utilização de critérios de avaliação complementares do peso da carcaça e do teor estimado de carne magra das carcaças."
+  },
+  "a467e4c31d92ab35": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Logo após a sua classificação, as carcaças de suíno são marcadas de acordo com a designação das classes previstas no artigo 3o ou segundo a percentagem que exprime o teor estimado de carne magra, com a condição de que esta última marcação permita reunir as carcaças nas classes previstas no artigo 3o\n\nSem prejuízo do primeiro parágrafo, a marcação de uma indicação relativa ao peso da carcaça ou de outras indicações estimadas adequadas poderá ser aposta na carcaça.\n\n2. Em derrogação do no 1, os Estados-membros poderão prever que as carcaças de suínos não sejam marcadas quando estiver redigido um relatório que contenha pelo menos, para cada carcaça:\n\n- a identificação,\n\n- o peso a quente, e\n\n- o teor estimado de carne magra.\n\nEste relatório deverá ser conservado durante quatro semanas e ser autenticado no dia da sua elaboração, por uma pessão encarregada dessa função de fiscalização.\n\nTodavia, para serem comercializados noutro Estado-membro no estado em que se encontram, as carcaças devem ser marcadas segundo a designação de classe apropriada prevista no artigo 3o ou segundo a percentagem que exprime o teor de carne magra.\n\n3. Sem prejuízo do no 1, segundo parágrafo do artigo 2o, antes da pesagem, da classificação e da marcação poderá ser retirado nenhum tecido adiposo muscular ou outro destas carcaças."
+  },
+  "8985166036e73c2c": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. As modalidades de aplicação do presente regulamento e, nomeadamente, as do artigo 2o, relativas:\n\n- à transformação de apresentações diferentes em apresentação tipo das carcaças,\n\n- à transformação do peso da carcaça quente em peso da carcaça fria, e\n\n- à condições de autorização dos métodos de classificação,\n\nsão adoptadas segundo o procedimento previsto no artigo 24o do Regulamento (CEE) no 2759/75.\n\n2. As autorizações referidas no no 1, segundo parágrafo e no no 3, segundo parágrafo do artigo 2o serão dadas segundo o procedimento previsto no artigo 24o do Regulamento (CEE) no 2759/75."
+  },
+  "4ae006036538df9e": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nO Regulamento (CEE) no 2760/75 é revogado.\n\nTodavia, até 31 de Dezembro de 1988, os Estados-membros podem continuar a aplicar, em vez da tabela que é objecto do presente regulamento, a tabela de classificação das carcaças de suíno prevista pelo regulamento referido no primeiro parágrafo."
+  },
+  "d18ad1f3c8df04d8": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1985.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 13 de Novembro de 1984.\n\nPela Conselho\n\nO Presidente\n\nA. DEASY\n\n(1) JO no L 282 de 1. 11. 1975, p. 1.(2) JO no L 307 de 18. 11. 1980, p. 5.(3) JO no L 282 de 1. 11. 1975, p. 10."
+  },
+  "d7f9707ff95830d0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984R3220 — PT — 01.01.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984R3220) [REGULAMENTO (CEE) Nº 3220/84 DO CONSELHO](http://publications.europa.eu/resource/celex/31984R3220) [de 13 de Novembro de 1984](http://publications.europa.eu/resource/celex/31984R3220) [que estabelece a tabela comunitária de classificação das carcaças de suínos](http://publications.europa.eu/resource/celex/31984R3220) (JO L 301, 20.11.1984, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

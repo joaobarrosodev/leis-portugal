@@ -1,0 +1,391 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0401:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0401-20260101",
+ "dre_path": null,
+ "source_lastmod": "2026-01-01",
+ "versions": [
+  {
+   "date": "2021-07-29",
+   "future": false,
+   "celex": "02009R0401-20210729",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "749e36aa4dbe8a93",
+    "0167d9bfa9680be9",
+    "81e4ed17575367a0",
+    "c3665fa117715dcd",
+    "668322d668643a3b",
+    "2affef5c8f8571c5",
+    "7f51ad333c2ed2c4",
+    "6ae4d870cb036877",
+    "0f681464082737f4",
+    "df2f1bb6c56ccde7",
+    "50ea2fb1a828b5d9",
+    "3504bb15e804528b",
+    "ef81eeafd40262a5",
+    "d81160b0d874e61d",
+    "4b99b3314b1b7b68",
+    "cd95d175dcbe2b12",
+    "1ee9b6db8d048a0f",
+    "a389c25f5bfa7f20",
+    "0dcb5eff0114c1a4",
+    "da3f92f6e87df833",
+    "663169996caf5ac1",
+    "bfd02d11ae059054",
+    "a45307e454352702",
+    "80983fb55b8115ed",
+    "852174729551523b",
+    "ace1b9a3c0c3a3ba",
+    "0c47562c6c652b54",
+    "720af75c92791b10",
+    "033febaa2c30cb23",
+    "6c96af7770474ced"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "celex": "02009R0401-20260101",
+   "acts": [
+    {
+     "id": "eu:celex:32025R2457:por",
+     "title": "REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025",
+     "published": null,
+     "celex": "32025R2457"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera ANEXO I",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "749e36aa4dbe8a93",
+    "0167d9bfa9680be9",
+    "3bccb7798e3f546a",
+    "c3665fa117715dcd",
+    "668322d668643a3b",
+    "2affef5c8f8571c5",
+    "7f51ad333c2ed2c4",
+    "6ae4d870cb036877",
+    "0f681464082737f4",
+    "df2f1bb6c56ccde7",
+    "50ea2fb1a828b5d9",
+    "3504bb15e804528b",
+    "ef81eeafd40262a5",
+    "d81160b0d874e61d",
+    "ab48342651639f96",
+    "fb8d2b310c00989e",
+    "8758b2caddf9bf67",
+    "a389c25f5bfa7f20",
+    "0dcb5eff0114c1a4",
+    "da3f92f6e87df833",
+    "663169996caf5ac1",
+    "bfd02d11ae059054",
+    "a45307e454352702",
+    "1f4b13718b74cecc",
+    "852174729551523b",
+    "ace1b9a3c0c3a3ba",
+    "0c47562c6c652b54",
+    "720af75c92791b10",
+    "033febaa2c30cb23",
+    "21a040fb40dd7ebe"
+   ]
+  }
+ ],
+ "fragments": {
+  "749e36aa4dbe8a93": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2009\n\nrelativo à Agência Europeia do Ambiente e à Rede Europeia de Informação e de Observação do Ambiente\n\n(versão codificada)"
+  },
+  "0167d9bfa9680be9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento institui a Agência Europeia do Ambiente (a seguir designada «Agência») e tem por objectivo a criação de uma Rede Europeia de Informação e de Observação do Ambiente.\n\n2.\n\nTendo em vista a realização dos objectivos de protecção e melhoria do ambiente constantes do Tratado e dos sucessivos programas de acção da Comunidade em matéria de ambiente, bem como o desenvolvimento sustentável, é objectivo da Agência e da Rede Europeia de Informação e de Observação do Ambiente fornecer à Comunidade e aos Estados-Membros:\n\na) Informações objectivas, fiáveis e comparáveis a nível europeu que lhes permitam tomar as medidas necessárias de protecção do ambiente, avaliar os resultados dessas medidas e assegurar a correcta informação do público quanto ao estado do ambiente e para esse fim;\n\nb) O apoio técnico e científico necessário."
+  },
+  "81e4ed17575367a0": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA fim de alcançar o objectivo definido no artigo 1.º, a Agência tem as seguintes atribuições:\n\na) Criar, em colaboração com os Estados-Membros, a rede referida no artigo 4.º e assegurar a sua coordenação. Para o efeito, a Agência assegura a recolha, o tratamento e a análise de dados, nomeadamente nos domínios referidos no artigo 3.º;\n\nb) Fornecer à Comunidade e aos Estados-Membros as informações objectivas necessárias à formulação e execução de políticas apropriadas e eficazes em matéria de ambiente; para esse efeito, em especial facultar à Comissão as informações necessárias para que esta possa desempenhar as suas funções de identificação, preparação e avaliação das acções e da legislação em matéria de ambiente;\n\nc) Prestar assessoria na supervisão das medidas ambientais, por meio de apoio apropriado no que se refere às exigências de apresentação de relatórios (participação na elaboração de questionários, processamento dos relatórios dos Estados-Membros e divulgação dos resultados), de acordo com o seu programa de trabalho plurianual e com o objectivo de coordenar a apresentação de relatórios;\n\nd) Prestar assistência a cada um dos Estados-Membros, a pedido destes e sempre que tal se integre no programa de trabalho anual da agência, no estudo, elaboração e expansão dos respectivos sistemas de supervisão de medidas ambientais, desde que essas acções de apoio não ponham em causa a realização das outras tarefas definidas no presente artigo. Essa assistência pode incluir também análises periciais pelos pares, a pedido expresso dos Estados-Membros;\n\ne) Registar, confrontar e avaliar os dados relativos ao estado do ambiente, elaborar relatórios especializados sobre a qualidade e sensibilidade do ambiente e as pressões a que está sujeito no território da Comunidade, estabelecer critérios uniformes de avaliação dos dados ambientais a aplicar em todos os Estados-Membros e manter e desenvolver a criação de um centro de informação de referência sobre o ambiente. A Comissão fará uso destas informações no cumprimento da sua missão de velar pela aplicação da legislação comunitária em matéria de ambiente;\n\nf) Contribuir para assegurar a comparabilidade dos dados ambientais a nível europeu e, se necessário, promover através das vias adequadas uma maior harmonização dos métodos de medição;\n\ng) Promover a integração dos dados ambientais europeus em programas internacionais de controlo do ambiente, como sejam os estabelecidos no âmbito da Organização das Nações Unidas e das suas instituições especializadas;\n\nh) Publicar, de cinco em cinco anos, um relatório sobre o estado, as tendências e perspectivas do ambiente, complementado por relatórios de indicadores centrados em questões específicas;\n\ni) Estimular o desenvolvimento e a aplicação de técnicas de previsão ambiental que permitam tomar medidas preventivas adequadas no momento próprio;\n\nj) Estimular o desenvolvimento de métodos de avaliação do custo dos danos causados ao ambiente e dos custos das políticas de prevenção, protecção e recuperação do ambiente;\n\nk) Estimular a troca de informações sobre as melhores tecnologias existentes para prevenir ou reduzir os danos causados ao ambiente;\n\nl) Cooperar com os organismos e programas referidos no artigo 15.º;\n\nm) Contribuir para a ampla divulgação de informação ambiental, fiável e comparável, em especial sobre o estado do ambiente, junto do grande público e, nesse sentido, promover o uso das novas tecnologias telemáticas;\n\nn) Apoiar a Comissão no processo da troca de informações sobre o desenvolvimento das metodologias e boas práticas das acções de avaliação ambiental;\n\no) Apoiar a Comissão na divulgação de informações sobre os resultados da investigação ambiental relevante na forma que melhor possa servir a aplicação de políticas."
+  },
+  "c3665fa117715dcd": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1.\n\nOs principais domínios de actividade da Agência devem, na medida do possível, incluir todos os elementos que possibilitem a obtenção de informações que permitam a descrição do estado actual e previsível do ambiente sob os seguintes aspectos:\n\na) Qualidade do ambiente;\n\nb) Pressões sobre o ambiente;\n\nc) Sensibilidade do ambiente;\n\nincluindo a sua integração no contexto do desenvolvimento sustentável.\n\n2.\n\nA Agência fornece informações que são directamente utilizáveis na execução da política ambiental comunitária.\n\nÉ dada prioridade aos seguintes sectores de actividade:\n\na) Qualidade do ar e emissões para a atmosfera;\n\nb) Qualidade da água, poluentes e recursos aquáticos;\n\nc) Estado dos solos, da fauna, da flora e dos biótopos;\n\nd) Utilização dos solos e recursos naturais;\n\ne) Gestão dos resíduos;\n\nf) Emissões sonoras;\n\ng) Substâncias químicas perigosas para o ambiente;\n\nh) Protecção costeira e marinha.\n\nSão abrangidos, em especial, os fenómenos transfronteiriços, plurinacionais ou mundiais.\n\nA dimensão socioeconómica será, igualmente, tida em conta.\n\n3.\n\nA Agência pode também cooperar com outros organismos, incluindo a Rede Europeia para a Implementação e Execução da Legislação Ambiental («rede IMPEL»), no intercâmbio de informações.\n\nNa sua acção, a Agência deve evitar a duplicação de actividades já desenvolvidas por outras instituições e organismos."
+  },
+  "668322d668643a3b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1.\n\nA Rede deve incluir:\n\na) Os principais elementos que compõem as redes nacionais de informação;\n\nb) Os pontos focais nacionais;\n\nc) Os centros temáticos.\n\n2.\n\nOs Estados-Membros devem indicar à Agência os principais elementos constitutivos das suas redes nacionais de informação em matéria de ambiente em especial nos domínios prioritários referidos no n.º 2 do artigo 3.º, incluindo quaisquer instituições que, em sua opinião, possam colaborar nos trabalhos da Agência, tendo em conta a necessidade de assegurar uma cobertura geográfica do seu território o mais completa possível.\n\nSempre que necessário, os Estados-Membros colaboram com a Agência e contribuem para os trabalhos da Rede Europeia de Informação e de Observação do Ambiente em conformidade com o programa de trabalho da agência, mediante a recolha, a comparação e a análise dos dados a nível nacional.\n\nOs Estados-Membros também podem associar-se a nível transnacional para cooperar nestas actividades.\n\n3. Os Estados-Membros podem, nomeadamente, designar de entre as instituições mencionadas no n.º 1 ou outros organismos estabelecidos no seu território um «ponto focal nacional» incumbido da coordenação e/ou da transmissão das informações a fornecer a nível nacional à Agência e às instituições ou organismos que façam parte da Rede, incluindo os centros temáticos referidos no n.º 4.\n\n4.\n\nOs Estados-Membros podem igualmente, até 30 de Abril de 1994, identificar as instituições ou outros organismos estabelecidos no seu território susceptíveis de ser especificamente incumbidos de cooperar com a Agência no que respeita a determinados temas de especial interesse.\n\nTais instituições devem estar aptas a celebrar com a Agência acordos que lhes permitam agir como centro temático da Rede no tocante a tarefas específicas.\n\nEstes centros cooperarão com outras instituições que façam parte da Rede.\n\n5. Os centros temáticos são designados pelo Conselho de Administração, tal como definido no n.º 1 do artigo 8.º, por um período não superior à duração de cada programa de trabalho plurianual referido no n.º 4 do artigo 8.º. Todavia, essa designação pode ser renovada.\n\n6. A atribuição de funções específicas aos centros temáticos deve constar do programa de trabalho plurianual da Agência referido no n.º 4 do artigo 8.º.\n\n7. A Agência aprecia periodicamente os principais elementos da Rede, referidos no n.º 2, nela introduzindo as eventuais alterações determinadas pelo Conselho de Administração, tendo em conta, eventualmente, as novas designações efectuadas pelos Estados-Membros, e à luz, nomeadamente, do programa de trabalho plurianual."
+  },
+  "2affef5c8f8571c5": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Agência pode celebrar com as instituições ou organismos que integrem a Rede, referidos no artigo 4.º, os acordos, em especial contratos, necessários para a execução cabal das tarefas que lhes venha a confiar.\n\nQualquer Estado-Membro pode prever que, relativamente às instituições ou organismos nacionais situados no seu território, esses acordos com a Agência sejam celebrados em consonância com o ponto focal nacional."
+  },
+  "7f51ad333c2ed2c4": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O Regulamento (CE) n.º 1049/2001 é aplicável aos documentos da Agência.\n\n2. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nos termos, respectivamente, dos artigos 195.º e 230.º do Tratado."
+  },
+  "6ae4d870cb036877": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Agência tem personalidade jurídica. Em todos os Estados-Membros a Agência goza da mais ampla capacidade jurídica reconhecida às pessoas colectivas pelas legislações nacionais."
+  },
+  "0f681464082737f4": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1.\n\nO Conselho de Administração da Agência é composto por um representante de cada Estado-Membro e por dois representantes da Comissão. Pode também incluir um representante de cada um dos outros países que participe na Agência, de acordo com as disposições pertinentes.\n\nO Parlamento Europeu indigita para o cargo de membro do Conselho de Administração duas personalidades científicas especialmente qualificadas no domínio da protecção do ambiente, que serão escolhidas com base na contribuição pessoal que possam dar aos trabalhos da Agência.\n\nCada membro do Conselho de Administração pode fazer-se representar por um suplente.\n\n2.\n\nO Conselho de Administração elege o seu presidente de entre os seus membros, por um período de três anos, e adopta o seu regulamento interno. Cada membro do Conselho de Administração dispõe de um voto.\n\nO Conselho de Administração elege um gabinete executivo no qual pode delegar decisões, de acordo com as regras que adoptar.\n\n3. As decisões do Conselho de Administração são adoptadas por maioria de dois terços da totalidade dos votos dos seus membros.\n\n4. O Conselho de Administração adopta um programa de trabalho plurianual baseado nos domínios prioritários enunciados no n.º 2 do artigo 3.º, a partir de um projecto apresentado pelo Director Executivo referido no artigo 9.º, após consulta ao Comité Científico referido no artigo 10.º e obtido o parecer da Comissão. O programa de trabalho plurianual incluirá, sem prejuízo do procedimento orçamental anual da Comunidade Europeia, um orçamento estimativo plurianual.\n\n5. No âmbito do programa plurianual, o Conselho de Administração adopta anualmente o programa de trabalho da Agência com base num projecto apresentado pelo Director Executivo, após consulta ao Comité Científico e obtido o parecer da Comissão. Esse programa pode ser adoptado no decorrer do ano, de acordo com o mesmo procedimento.\n\n6. O Conselho de Administração aprova o relatório anual de actividades da Agência e transmite-o, até 15 de Junho, ao Parlamento Europeu, ao Conselho, à Comissão, ao Tribunal de Contas e aos Estados-Membros.\n\n7. A Agência deve transmitir anualmente à autoridade orçamental todas as informações pertinentes sobre os resultados dos processos de avaliação."
+  },
+  "df2f1bb6c56ccde7": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1.\n\nA Agência é dirigida por um Director Executivo nomeado pelo Conselho de Administração, sob proposta da Comissão, por um período renovável de cinco anos.\n\nO Director Executivo é o representante legal da Agência.\n\nO Director Executivo é responsável:\n\na) Pela correcta preparação e execução das decisões e programas adoptados pelo Conselho de Administração;\n\nb) Pela administração corrente da Agência;\n\nc) Pela execução das tarefas definidas nos artigos 12.º e 13.º;\n\nd) Pela preparação e publicação dos relatórios referidos na alínea h) do artigo 2.º,\n\ne) Relativamente a todos os assuntos de pessoal, pelo desempenho das funções a que se referem os n.^os^ 4 e 5 do artigo 8.º.\n\nO Director Executivo tomará em conta o parecer do Comité Científico referido no artigo 10.º para o recrutamento do pessoal científico da Agência.\n\n2. O Director Executivo é responsável perante o Conselho de Administração."
+  },
+  "50ea2fb1a828b5d9": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1.\n\nO Conselho de Administração e o Director Executivo são assistidos por um Comité Científico, incumbido de emitir parecer nos casos previstos no presente regulamento e sobre qualquer questão científica relacionada com as actividades da Agência que lhe seja submetida pelo Conselho de Administração ou pelo Director Executivo.\n\nOs pareceres do Comité Científico devem ser publicados.\n\n2. O Comité Científico é composto por membros com qualificações específicas no domínio do ambiente, nomeados pelo Conselho de Administração por um período de quatro anos, renovável uma vez, tendo em conta, nomeadamente, as áreas científicas que têm de estar representadas no Comité a fim de assistir a Agência nos seus domínios de actividade. O seu funcionamento rege-se pelo regulamento interno previsto no n.º 2 do artigo 8.º."
+  },
+  "3504bb15e804528b": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\n1. É criado um Conselho Consultivo Científico Europeu sobre as Alterações Climáticas («Conselho Consultivo»).\n\n2. O Conselho Consultivo é composto por 15 peritos científicos de alto nível que cobrem uma vasta gama de disciplinas relevantes. Os membros do Conselho Consultivo devem satisfazer os critérios estabelecidos no n.º 3. Dois membros do Conselho Consultivo, no máximo, têm a nacionalidade do mesmo Estado-Membro. Os membros do Conselho Consultivo devem oferecer todas as garantias de independência.\n\n3.\n\nO Conselho de Administração designa os membros do Conselho Consultivo por um período de quatro anos, renovável uma vez, na sequência de um procedimento de seleção aberto, justo e transparente. Na seleção dos membros do Conselho Consultivo, o Conselho de Administração procura assegurar uma diversidade de competências disciplinares e setoriais, bem como um equilíbrio geográfico e de género. A seleção baseia-se nos seguintes critérios:\n\na) excelência científica;\n\nb) experiência na realização de avaliações científicas e prestação de aconselhamento científico nos domínios de competência;\n\nc) amplos conhecimentos especializados no domínio das ciências do clima e do ambiente ou noutros domínios científicos relevantes para alcançar os objetivos da União em matéria de clima;\n\nd) experiência profissional num ambiente interdisciplinar num contexto internacional.\n\n4. Os membros do Conselho Consultivo são nomeados a título pessoal e exercem as suas funções com total independência em relação aos Estados-Membros e às instituições da União. O Conselho Consultivo elege o seu presidente de entre os seus membros, por um período de quatro anos, e adota o seu regulamento interno.\n\n5. O Conselho Consultivo complementa o trabalho da Agência, agindo de forma independente no exercício das suas atribuições. O Conselho Consultivo elabora o seu programa de trabalho anual de forma independente e, ao fazê-lo, consulta o Conselho de Administração. O presidente do Conselho Consultivo informa o Conselho de Administração e o diretor executivo desse programa e da sua execução."
+  },
+  "ef81eeafd40262a5": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Todas as receitas e despesas da Agência devem ser objecto de previsões para cada ano financeiro, que deve corresponder ao ano civil, e ser inscritas no orçamento da Agência.\n\n2. O orçamento deve ser equilibrado em receitas e despesas.\n\n3. As receitas da Agência incluirão, sem prejuízo de outros recursos, uma subvenção da Comunidade inscrita no orçamento geral das Comunidades Europeias, e os pagamentos efectuados a título de remuneração por serviços prestados.\n\n4. As despesas da Agência incluirão, nomeadamente, a remuneração do pessoal, as despesas administrativas, de infra-estrutura e de funcionamento, e as despesas relativas a contratos celebrados com as instituições ou organismos que fazem parte da Rede e com terceiros.\n\n5. O orçamento da Agência inclui igualmente as despesas relativas ao Conselho Consultivo."
+  },
+  "d81160b0d874e61d": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O Conselho de Administração elabora anualmente, com base num projecto elaborado pelo Director Executivo, o mapa previsional das receitas e despesas da Agência para o exercício seguinte. Este mapa previsional, que inclui um projecto de quadro de pessoal, é transmitido pelo Conselho de Administração à Comissão, até 31 de Março.\n\n2. A Comissão transmite o mapa previsional ao Parlamento Europeu e ao Conselho (a seguir designados «autoridade orçamental») juntamente com o anteprojecto de orçamento geral das Comunidades Europeias.\n\n3. Com base no mapa previsional, a Comissão procede à inscrição, no anteprojecto de orçamento geral das Comunidades Europeias, das previsões que considere necessárias no que respeita ao quadro de pessoal e ao montante da subvenção a cargo do orçamento geral, que submete à apreciação da autoridade orçamental nos termos do disposto no artigo 272.º do Tratado.\n\n4.\n\nA autoridade orçamental autoriza as dotações a título da subvenção destinada à Agência.\n\nA autoridade orçamental aprova o quadro de pessoal da Agência.\n\n5. O orçamento é aprovado pelo Conselho de Administração, tornando-se definitivo após a aprovação definitiva do orçamento geral das Comunidades Europeias. O orçamento é adaptado em conformidade, se for caso disso.\n\n6.\n\nO Conselho de Administração notifica, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto susceptível de ter incidências financeiras significativas sobre o financiamento do orçamento, nomeadamente os projectos de natureza imobiliária, tais como o arrendamento ou a aquisição de imóveis. Do facto informa a Comissão.\n\nSempre que um ramo da autoridade orçamental tiver comunicado a sua intenção de emitir um parecer, transmite-o ao Conselho de Administração no prazo de seis semanas a contar da notificação do projecto."
+  },
+  "4b99b3314b1b7b68": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O Director Executivo executa o orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista da Agência comunica ao contabilista da Comissão as contas provisórias acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolidará as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^1^](http://publications.europa.eu/resource/cellar/6e066aeb-f474-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1#E0001)).\n\n3. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmite ao Tribunal de Contas as contas provisórias da Agência, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício será igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Agência, nos termos do disposto no artigo 129.º do Regulamento (CE, Euratom) n.º 1605/2002, o Director Executivo elabora as contas definitivas da Agência sob sua própria responsabilidade e transmite-as, para parecer, ao Conselho de Administração.\n\n5. O Conselho de Administração emite parecer sobre as contas definitivas da Agência.\n\n6. O Director Executivo transmite ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas acompanhadas do parecer do Conselho de Administração até ao dia 1 de Julho seguinte ao exercício encerrado.\n\n7. As contas definitivas serão publicadas.\n\n8. O Director Executivo envia ao Tribunal de Contas uma resposta às suas observações, até 30 de Setembro. Envia igualmente essa resposta ao Conselho de Administração.\n\n9. O Director Executivo submete à apreciação do Parlamento Europeu, a pedido deste, tal como previsto no n.º 3 do artigo 146.º do Regulamento (CE, Euratom) n.º 1605/2002, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n10. Sob recomendação do Conselho, deliberando por maioria qualificada, o Parlamento Europeu dá ao Director Executivo, antes de 30 de Abril do ano N + 2, quitação da execução do orçamento do exercício N."
+  },
+  "cd95d175dcbe2b12": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nApós consulta à Comissão, o Conselho de Administração aprova a regulamentação financeira aplicável à Agência. Esta regulamentação só pode divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^2^](http://publications.europa.eu/resource/cellar/6e066aeb-f474-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1#E0002)), se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "1ee9b6db8d048a0f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1.\n\nA Agência procurará activamente a cooperação de outros organismos e programas comunitários, nomeadamente do Centro Comum de Investigação, do Serviço de Estatísticas das Comunidades Europeias (Eurostat) e dos programas comunitários de investigação e desenvolvimento no domínio do ambiente. Em especial:\n\na) A cooperação com o Centro Comum de Investigação abrangerá mais particularmente as tarefas definidas no ponto A do anexo I,\n\nb) A coordenação com o Eurostat e com o Programa de Estatística das Comunidades Europeias seguirá as orientações gerais constantes do ponto B do anexo I.\n\n2. A Agência também cooperará activamente com outros organismos, tais como a Agência Espacial Europeia, a Organização para a Cooperação e Desenvolvimento Económico (OCDE), o Conselho da Europa e a Agência Internacional de Energia, a Organização das Nações Unidas e as suas instituições especializadas e, nomeadamente, com o Programa das Nações Unidas para o Ambiente, a Organização Mundial da Meteorologia e a Agência Internacional da Energia Atómica.\n\n3. Em áreas de interesse comum, a Agência pode cooperar com as instituições de países não membros das Comunidades Europeias que tenham a capacidade de fornecer dados, informações e conhecimentos técnicos, assim como métodos de recolha, de análise e de avaliação de dados que se revistam de interesse mútuo e que sejam necessários à realização dos trabalhos da Agência.\n\n4. A cooperação prevista nos n.^os^ 1, 2 e 3, deve, em especial, levar em conta a necessidade de evitar duplicações de esforços."
+  },
+  "a389c25f5bfa7f20": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nÉ aplicável à Agência o Protocolo relativo aos Privilégios e Imunidades das Comunidades Europeias."
+  },
+  "0dcb5eff0114c1a4": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO pessoal da Agência está sujeito às regras e regulamentações aplicáveis aos funcionários e outros agentes das Comunidades Europeias.\n\nA Agência exerce relativamente ao seu pessoal os poderes que lhe forem atribuídos pela autoridade investida do poder de nomeação.\n\nO Conselho de Administração adopta, em colaboração com a Comissão, as regras de execução adequadas."
+  },
+  "da3f92f6e87df833": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A responsabilidade contratual da Agência é regida pela lei aplicável ao contrato em causa. O Tribunal de Justiça é competente para decidir com fundamento em cláusulas compromissórias constantes de contratos celebrados pela Agência.\n\n2.\n\nEm matéria de responsabilidade extracontratual, a Agência deve reparar, de acordo com os princípios gerais comuns aos direitos dos Estados-Membros, os danos causados pela Agência ou pelos seus agentes no exercício das suas funções.\n\nO Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação de quaisquer desses danos.\n\n3. A responsabilidade pessoal dos agentes perante a Agência é regulada pelas disposições aplicáveis ao pessoal da Agência."
+  },
+  "663169996caf5ac1": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA Agência está aberta aos países não membros da Comunidade que partilham do interesse da Comunidade e dos Estados-Membros pelos objectivos da Agência, por força de acordos celebrados entre eles e a Comunidade, em conformidade com o procedimento estabelecido no artigo 300.º do Tratado."
+  },
+  "bfd02d11ae059054": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nÉ revogado o Regulamento (CEE) n.º 1210/90, alterado pelos regulamentos indicados no anexo II.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e ler-se nos termos da tabela de correspondência que consta do anexo III."
+  },
+  "a45307e454352702": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "80983fb55b8115ed": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nA. **Cooperação com o Centro Comum de Investigação**\n\n— harmonização dos métodos de medição no domínio do ambiente ([^3^](http://publications.europa.eu/resource/cellar/6e066aeb-f474-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1#E0003)),\n\n— intercalibração dos instrumentos [(3)](http://publications.europa.eu/resource/cellar/6e066aeb-f474-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1#E0003),\n\n— normalização dos formatos dos dados,\n\n— desenvolvimento de novos métodos e de novos instrumentos de medição no domínio do ambiente,\n\n— outras tarefas acordadas entre o Director Executivo da Agência e o Director-Geral do Centro Comum de Investigação.\n\nB. **Cooperação com o Eurostat**\n\n1. A Agência utilizará, sempre que possível, as informações recolhidas através dos serviços oficiais de estatísticas da Comunidade. Estas informações serão o resultado de actividades de recolha, validação e divulgação de estatísticas económicas e sociais do Eurostat e dos serviços nacionais de estatística, incluindo contas nacionais e informações afins.\n\n2. O Programa de Estatística no domínio do ambiente será objecto de acordo entre o Director Executivo da Agência e o Director-Geral do Eurostat e será apresentado para aprovação ao Conselho de Administração da Agência e ao Comité do Programa de Estatística.\n\n3. O Programa de Estatística será concebido e executado dentro da estrutura criada pelos organismos de estatística internacionais, como sejam a Comissão de Estatística das Nações Unidas, a Conferência dos Estaticistas Europeus e a OCDE."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "ace1b9a3c0c3a3ba": {
+   "fragment_id": "Regulamento revogado com a lista das suas alterações sucessivas",
+   "type": "divisao",
+   "heading": "Regulamento revogado com a lista das suas alterações sucessivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regulamento revogado com a lista das suas alterações sucessivas"
+  },
+  "0c47562c6c652b54": {
+   "fragment_id": "(referidos no artigo 20.º)",
+   "type": "divisao",
+   "heading": "(referidos no artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidos no artigo 20.º)\n\nRegulamento (CEE) n.º 1210/90 do Conselho (JO L 120 de 11.5.1990, p. 1).\n\nRegulamento (CE) n.º 933/1999 do Conselho (JO L 117 de 5.5.1999, p. 1).\n\nRegulamento (CE) n.º 1641/2003 do Parlamento Europeu e do Conselho (JO L 245 de 29.9.2003, p. 1)."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "033febaa2c30cb23": {
+   "fragment_id": "TABELA DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "TABELA DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TABELA DE CORRESPONDÊNCIA\n\nRegulamento (CEE) n.º 1210/90 Presente regulamento\n\nArtigo 1.º, n.º 1 Artigo 1.º, n.º 1\n\nArtigo 1.º, n.º 2, proémio Artigo 1.º, n.º 2, proémio\n\nArtigo 1.º, n.º 2, primeiro travessão Artigo 1.º, n.º 2, alínea a)\n\nArtigo 1.º, n.º 2, segundo travessão Artigo 1.º, n.º 2, alínea b)\n\nArtigo 2.º, proémio Artigo 2.º, proémio\n\nArtigo 2.º, alínea i) Artigo 2.º, alínea a)\n\nArtigo 2.º, alínea ii), primeiro travessão Artigo 2.º, alínea b)\n\nArtigo 2.º, alínea ii), segundo travessão Artigo 2.º, alínea c)\n\nArtigo 2.º, alínea ii), terceiro travessão Artigo 2.º, alínea d)\n\nArtigo 2.º, alínea iii) Artigo 2.º, alínea e)\n\nArtigo 2.º, alínea iv) Artigo 2.º, alínea f)\n\nArtigo 2.º, alínea v) Artigo 2.º, alínea g)\n\nArtigo 2.º, alínea vi) Artigo 2.º, alínea h)\n\nArtigo 2.º, alínea vii) Artigo 2.º, alínea i)\n\nArtigo 2.º, alínea viii) Artigo 2.º, alínea j)\n\nArtigo 2.º, alínea ix) Artigo 2.º, alínea k)\n\nArtigo 2.º, alínea x) Artigo 2.º, alínea l)\n\nArtigo 2.º, alínea xi) Artigo 2.º, alínea m)\n\nArtigo 2.º, alínea xii) Artigo 2.º, alínea n)\n\nArtigo 2.º, alínea xiii) Artigo 2.º, alínea o)\n\nArtigo 3.º, n.º 1, proémio Artigo 3.º, n.º 1, proémio\n\nArtigo 3.º, n.º 1, alínea i) Artigo 3.º, n.º 1, alínea a)\n\nArtigo 3.º, n.º 1, alínea ii) Artigo 3.º, n.º 1, alínea b)\n\nArtigo 3.º, n.º 1, alínea iii) Artigo 3.º, n.º 1, alínea c)\n\nArtigo 3.º, n.º 1, frase final Artigo 3.º, n.º 1, frase final\n\nArtigo 3.º, n.º 2, primeiro parágrafo Artigo 3.º, n.º 2, primeiro parágrafo\n\nArtigo 3.º, n.º 2, segundo parágrafo, proémio Artigo 3.º, n.º 2, segundo parágrafo, proémio\n\nArtigo 3.º, n.º 2, segundo parágrafo, primeiro travessão Artigo 3.º, n.º 2, segundo parágrafo, alínea a)\n\nArtigo 3.º, n.º 2, segundo parágrafo, segundo travessão Artigo 3.º, n.º 2, segundo parágrafo, alínea b)\n\nArtigo 3.º, n.º 2, segundo parágrafo, terceiro travessão Artigo 3.º, n.º 2, segundo parágrafo, alínea c)\n\nArtigo 3.º, n.º 2, segundo parágrafo, quarto travessão Artigo 3.º, n.º 2, segundo parágrafo, alínea d)\n\nArtigo 3.º, n.º 2, segundo parágrafo, quinto travessão Artigo 3.º, n.º 2, segundo parágrafo, alínea e)\n\nArtigo 3.º, n.º 2, segundo parágrafo, sexto travessão Artigo 3.º, n.º 2, segundo parágrafo, alínea f)\n\nArtigo 3.º, n.º 2, segundo parágrafo, sétimo travessão Artigo 3.º, n.º 2, segundo parágrafo, alínea g)\n\nArtigo 3.º, n.º 2, segundo parágrafo, oitavo travessão Artigo 3.º, n.º 2, segundo parágrafo, alínea h)\n\nArtigo 3.º, n.º 2, terceiro parágrafo Artigo 3.º, n.º 2, terceiro parágrafo\n\nArtigo 3.º, n.º 2, quarto parágrafo Artigo 3.º, n.º 2, quarto parágrafo\n\nArtigo 3.º, n.º 3 Artigo 3.º, n.º 3\n\nArtigo 4.º, n.º 1, proémio Artigo 4.º, n.º 1, proémio\n\nArtigo 4.º, n.º 1, primeiro travessão Artigo 4.º, n.º 1, alínea a)\n\nArtigo 4.º, n.º 1, segundo travessão Artigo 4.º, n.º 1, alínea b)\n\nArtigo 4.º, n.º 1, terceiro travessão Artigo 4.º, n.º 1, alínea c)\n\nArtigo 4.º, n.º 2, primeiro parágrafo, de «A fim» a «ambiente» —\n\nArtigo 4.º, n.º 2, primeiro parágrafo, de «em especial» a «possível» Artigo 4.º, n.º 2, primeiro parágrafo, no final da primeira frase\n\nArtigo 4.º, n.º 2, segundo parágrafo Artigo 4.º, n.º 2, primeiro, segundo e terceiro parágrafos\n\nArtigo 4.º, n.º 3 Artigo 4.º, n.º 3\n\nArtigo 4.º, n.º 4 Artigo 4.º, n.º 4, primeiro, segundo e terceiro parágrafos\n\nArtigo 4.º, n.º 5, primeiro parágrafo —\n\nArtigo 4.º, n.º 5, segundo parágrafo Artigo 4.º, n.º 5\n\nArtigo 4.º, n.^os^ 6 e 7 Artigo 4.º, n.^os^ 6 e 7\n\nArtigo 5.º Artigo 5.º, primeiro e segundo parágrafos\n\nArtigo 6.º, n.º 1 Artigo 6.º, n.º 1\n\nArtigo 6.º, n.º 2 —\n\nArtigo 6.º, n.º 3 Artigo 6.º, n.º 2\n\nArtigo 7.º Artigo 8.º Artigo 7.º Artigo 8.º\n\nArtigo 9.º, n.º 1, primeiro parágrafo, primeira frase Artigo 9.º, n.º 1, primeiro parágrafo\n\nArtigo 9.º, n.º 1, primeiro parágrafo, segunda frase Artigo 9.º, n.º 1, segundo parágrafo\n\nArtigo 9.º, n.º 1, primeiro parágrafo, proémio Artigo 9.º.º, n.º 1, terceiro parágrafo, proémio\n\nArtigo 9.º, n.º 1, primeiro parágrafo, primeiro travessão Artigo 9.º, n.º 1, terceiro parágrafo, alínea a)\n\nArtigo 9.º, n.º 1, primeiro parágrafo, segundo travessão Artigo 9.º, n.º 1, terceiro parágrafo, alínea b)\n\nArtigo 9.º, n.º 1, primeiro parágrafo, terceiro travessão Artigo 9.º, n.º 1, terceiro parágrafo, alínea c)\n\nArtigo 9.º, n.º 1, primeiro parágrafo, quarto travessão Artigo 9.º, n.º 1, terceiro parágrafo, alínea d)\n\nArtigo 9.º, n.º 1, primeiro parágrafo, quinto travessão Artigo 9.º, n.º 1, terceiro parágrafo, alínea e)\n\nArtigo 9.º, n.º 1, parágrafo Artigo 9.º, n.º 1, quarto parágrafo\n\nArtigo 9.º, n.º 2 Artigo 9.º, n.º 2\n\nArtigo 10.º Artigo 10.º\n\nArtigo 11.º Artigo 11.º\n\nArtigo 12.º Artigo 12.º\n\nArtigo 13.º Artigo 13.º\n\nArtigo 14.º Artigo 14.º\n\nArtigo 15.º, n.º 1, proémio Artigo 15.º, n.º 1, proémio\n\nArtigo 15.º, n.º 1, primeiro travessão Artigo 15.º, n.º 1, alínea a)\n\nArtigo 15.º, n.º 1, segundo travessão Artigo 15.º, n.º 1, alínea b)\n\nArtigo 15.º, n.º 2 Artigo 15.º, n.º 2\n\nArtigo 15.º, n.º 2a) Artigo 15.º, n.º 3\n\nArtigo 15.º, n.º 3 Artigo 15.º, n.º 4\n\nArtigo 16.º Artigo 16.º\n\nArtigo 17.º Artigo 17.º\n\nArtigo 18.º Artigo 18.º\n\nArtigo 19.º Artigo 19.º\n\nArtigo 20.º —\n\n— Artigo 20.º\n\nArtigo 21.º Artigo 21.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "6c96af7770474ced": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6e066aeb-f474-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6e066aeb-f474-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1#src.E0002)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6e066aeb-f474-11eb-aeb9-01aa75ed71a1.0020.02/DOC_1#src.E0003)) A cooperação nestes domínios deve, igualmente, ter em conta os trabalhos realizados pelo Instituto de Materiais e Medições de Referência."
+  },
+  "3bccb7798e3f546a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA fim de alcançar o objectivo definido no artigo 1.º, a Agência tem as seguintes atribuições:\n\na) Criar, em colaboração com os Estados-Membros, a rede referida no artigo 4.º e assegurar a sua coordenação. Para o efeito, a Agência assegura a recolha, o tratamento e a análise de dados, nomeadamente nos domínios referidos no artigo 3.º;\n\nb) Fornecer à Comunidade e aos Estados-Membros as informações objectivas necessárias à formulação e execução de políticas apropriadas e eficazes em matéria de ambiente; para esse efeito, em especial facultar à Comissão as informações necessárias para que esta possa desempenhar as suas funções de identificação, preparação e avaliação das acções e da legislação em matéria de ambiente;\n\nc) Prestar assessoria na supervisão das medidas ambientais, por meio de apoio apropriado no que se refere às exigências de apresentação de relatórios (participação na elaboração de questionários, processamento dos relatórios dos Estados-Membros e divulgação dos resultados), de acordo com o seu programa de trabalho plurianual e com o objectivo de coordenar a apresentação de relatórios;\n\nd) Prestar assistência a cada um dos Estados-Membros, a pedido destes e sempre que tal se integre no programa de trabalho anual da agência, no estudo, elaboração e expansão dos respectivos sistemas de supervisão de medidas ambientais, desde que essas acções de apoio não ponham em causa a realização das outras tarefas definidas no presente artigo. Essa assistência pode incluir também análises periciais pelos pares, a pedido expresso dos Estados-Membros;\n\ne) Registar, confrontar e avaliar os dados relativos ao estado do ambiente, elaborar relatórios especializados sobre a qualidade e sensibilidade do ambiente e as pressões a que está sujeito no território da Comunidade, estabelecer critérios uniformes de avaliação dos dados ambientais a aplicar em todos os Estados-Membros e manter e desenvolver a criação de um centro de informação de referência sobre o ambiente. A Comissão fará uso destas informações no cumprimento da sua missão de velar pela aplicação da legislação comunitária em matéria de ambiente;\n\nf) Contribuir para assegurar a comparabilidade dos dados ambientais a nível europeu e, se necessário, promover através das vias adequadas uma maior harmonização dos métodos de medição;\n\ng) Promover a integração dos dados ambientais europeus em programas internacionais de controlo do ambiente, como sejam os estabelecidos no âmbito da Organização das Nações Unidas e das suas instituições especializadas;\n\nh) Publicar, de cinco em cinco anos, um relatório sobre o estado, as tendências e perspectivas do ambiente, complementado por relatórios de indicadores centrados em questões específicas;\n\ni) Estimular o desenvolvimento e a aplicação de técnicas de previsão ambiental que permitam tomar medidas preventivas adequadas no momento próprio;\n\nj) Estimular o desenvolvimento de métodos de avaliação do custo dos danos causados ao ambiente e dos custos das políticas de prevenção, protecção e recuperação do ambiente;\n\nk) Estimular a troca de informações sobre as melhores tecnologias existentes para prevenir ou reduzir os danos causados ao ambiente;\n\nl) Cooperar com os organismos e programas referidos no artigo 15.º;\n\nm) Contribuir para a ampla divulgação de informação ambiental, fiável e comparável, em especial sobre o estado do ambiente, junto do grande público e, nesse sentido, promover o uso das novas tecnologias telemáticas;\n\nn) Apoiar a Comissão no processo da troca de informações sobre o desenvolvimento das metodologias e boas práticas das acções de avaliação ambiental;\n\no) Apoiar a Comissão na divulgação de informações sobre os resultados da investigação ambiental relevante na forma que melhor possa servir a aplicação de políticas;\n\np) Desenvolver metodologias de avaliação relacionadas com produtos químicos nos domínios que se inserem no âmbito do seu mandato."
+  },
+  "ab48342651639f96": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O Director Executivo executa o orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista da Agência comunica ao contabilista da Comissão as contas provisórias acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolidará as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^1^](http://publications.europa.eu/resource/cellar/70cd1409-0c93-11f1-8870-01aa75ed71a1.0020.02/DOC_1#E0001)).\n\n3. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmite ao Tribunal de Contas as contas provisórias da Agência, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício será igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Agência, nos termos do disposto no artigo 129.º do Regulamento (CE, Euratom) n.º 1605/2002, o Director Executivo elabora as contas definitivas da Agência sob sua própria responsabilidade e transmite-as, para parecer, ao Conselho de Administração.\n\n5. O Conselho de Administração emite parecer sobre as contas definitivas da Agência.\n\n6. O Director Executivo transmite ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas acompanhadas do parecer do Conselho de Administração até ao dia 1 de Julho seguinte ao exercício encerrado.\n\n7. As contas definitivas serão publicadas.\n\n8. O Director Executivo envia ao Tribunal de Contas uma resposta às suas observações, até 30 de Setembro. Envia igualmente essa resposta ao Conselho de Administração.\n\n9. O Director Executivo submete à apreciação do Parlamento Europeu, a pedido deste, tal como previsto no n.º 3 do artigo 146.º do Regulamento (CE, Euratom) n.º 1605/2002, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n10. Sob recomendação do Conselho, deliberando por maioria qualificada, o Parlamento Europeu dá ao Director Executivo, antes de 30 de Abril do ano N + 2, quitação da execução do orçamento do exercício N."
+  },
+  "fb8d2b310c00989e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nApós consulta à Comissão, o Conselho de Administração aprova a regulamentação financeira aplicável à Agência. Esta regulamentação só pode divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^2^](http://publications.europa.eu/resource/cellar/70cd1409-0c93-11f1-8870-01aa75ed71a1.0020.02/DOC_1#E0002)), se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "8758b2caddf9bf67": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A Agência procurará ativamente a cooperação da Comissão, de outros organismos e programas da União, nomeadamente o Centro Comum de Investigação, o Serviço de Estatística da União (Eurostat), a Agência Europeia dos Produtos Químicos, a Autoridade Europeia para a Segurança dos Alimentos, a Agência Europeia de Medicamentos e dos programas comunitários de investigação e desenvolvimento no domínio do ambiente.\n\nA cooperação com o Centro Comum de Investigação abrangerá mais particularmente as tarefas definidas no anexo I, parte A.\n\nA coordenação com o Eurostat e com o programa de estatística da União seguirá, em particular, as orientações constantes do anexo I, parte B.\n\nA cooperação com a Agência Europeia dos Produtos Químicos, a Autoridade Europeia para a Segurança dos Alimentos e a Agência Europeia de Medicamentos assentará no intercâmbio de dados e informações sobre produtos químicos, incluindo a possível criação de formatos de dados e vocabulários controlados conexos para facilitar esse intercâmbio, e no desenvolvimento de metodologias científicas para a avaliação de produtos químicos.\n\n2. A Agência também cooperará activamente com outros organismos, tais como a Agência Espacial Europeia, a Organização para a Cooperação e Desenvolvimento Económico (OCDE), o Conselho da Europa e a Agência Internacional de Energia, a Organização das Nações Unidas e as suas instituições especializadas e, nomeadamente, com o Programa das Nações Unidas para o Ambiente, a Organização Mundial da Meteorologia e a Agência Internacional da Energia Atómica.\n\n3. Em áreas de interesse comum, a Agência pode cooperar com as instituições de países não membros das Comunidades Europeias que tenham a capacidade de fornecer dados, informações e conhecimentos técnicos, assim como métodos de recolha, de análise e de avaliação de dados que se revistam de interesse mútuo e que sejam necessários à realização dos trabalhos da Agência.\n\n4. A cooperação prevista nos n.^os^ 1, 2 e 3, terá especialmente em conta, inter alia, a necessidade de reforçar a coerência e as sinergias e de evitar duplicações de esforços."
+  },
+  "1f4b13718b74cecc": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nA. **Cooperação com o Centro Comum de Investigação**\n\n— harmonização dos métodos de medição no domínio do ambiente ([^3^](http://publications.europa.eu/resource/cellar/70cd1409-0c93-11f1-8870-01aa75ed71a1.0020.02/DOC_1#E0003)),\n\n— intercalibração dos instrumentos [(3)](http://publications.europa.eu/resource/cellar/70cd1409-0c93-11f1-8870-01aa75ed71a1.0020.02/DOC_1#E0003),\n\n— normalização dos formatos dos dados,\n\n— desenvolvimento de novos métodos e de novos instrumentos de medição no domínio do ambiente,\n\n— outras tarefas acordadas entre o Director Executivo da Agência e o Director-Geral do Centro Comum de Investigação.\n\nB. **Cooperação com o Eurostat**\n\n1. A Agência utilizará, sempre que possível, as informações recolhidas através dos serviços oficiais de estatísticas da Comunidade. Estas informações serão o resultado de actividades de recolha, validação e divulgação de estatísticas económicas e sociais do Eurostat e dos serviços nacionais de estatística, incluindo contas nacionais e informações afins.\n\n2. O Programa de Estatística no domínio do ambiente será objecto de acordo entre o Director Executivo da Agência e o Director-Geral do Eurostat e será apresentado para aprovação ao Conselho de Administração da Agência e ao Comité do Programa de Estatística.\n\n3. O Programa de Estatística será concebido e executado dentro da estrutura criada pelos organismos de estatística internacionais, como sejam a Comissão de Estatística das Nações Unidas, a Conferência dos Estaticistas Europeus e a OCDE."
+  },
+  "21a040fb40dd7ebe": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/70cd1409-0c93-11f1-8870-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/70cd1409-0c93-11f1-8870-01aa75ed71a1.0020.02/DOC_1#src.E0002)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/70cd1409-0c93-11f1-8870-01aa75ed71a1.0020.02/DOC_1#src.E0003)) A cooperação nestes domínios deve, igualmente, ter em conta os trabalhos realizados pelo Instituto de Materiais e Medições de Referência."
+  }
+ }
+}

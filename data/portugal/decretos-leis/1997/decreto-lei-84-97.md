@@ -1,0 +1,1381 @@
+---
+schema_version: '1.0'
+id: pt:dre:468635:por
+title: Decreto-Lei n.º 84/97
+short_title: null
+summary: Transpõe para a ordem jurídica interna as Directivas do Conselho n.º 90/679/CEE, de 26 de Novembro, e 93/88/CEE,
+  de 12 de Outubro, e a Directiva n.º 95/30/CE, da Comissão, de 30 de Junho, relativas à protecção da segurança e saúde dos
+  trabalhadores contra os riscos resultantes da exposição a agentes biológicos durante o trabalho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério para a Qualificação e o Emprego
+proposing_entity: null
+official_number: 84/97
+official_date: null
+publication_date: '1997-04-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 89/1997, Série I-A de 1997-04-16
+  number: '89'
+  series: I
+  supplement: null
+  pages: 1702 - 1709
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/04/089a00/17021709.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-01-05'
+version_history:
+  file: decreto-lei-84-97.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1997-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-01'
+    amending: pt:dre:345124:por
+    amending_title: Lei n.º 113/99
+    changes:
+    - Altera Artigo 20.º
+  - date: '2021-01-04'
+    amending: pt:dre:150661864:por
+    amending_title: Decreto-Lei n.º 102-A/2020
+    changes:
+    - Adita Anexo V
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Anexo I
+    - Altera Anexo III
+    - Altera Anexo IV
+  - date: '2025-01-05'
+    amending: pt:dre:901661917:por
+    amending_title: Decreto-Lei n.º 118/2024
+    changes:
+    - Altera Anexo V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/84/1997/p/cons/20241231/pt/html
+  oj: null
+  dre: '468635'
+  dre_path: /dr/detalhe/decreto-lei/84-1997-468635
+  internal: pt:dre:468635:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1997-468635
+  metadata_url: https://data.dre.pt/eli/dec-lei/84/1997/p/cons/20241231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-150731524
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-150731524
+  retrieved_at: '2026-10-22T12:36:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: de5df5fff979a94fe0238c81eb3b44877753b1fce9efa4decc6ef7849779cd63
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:36:02Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-84-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Trabalho
+- Direção Geral da Saúde
+- Higiene do Trabalho
+- Segurança no Trabalho
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Medicina do Trabalho
+- Doença Profissional
+- Prevenção de Riscos Profissionais
+- Condições de Higiene e Segurança no Trabalho
+- Saúde no Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:345124:por
+  label: Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124
+  date: '1999-08-03'
+- type: amended_by
+  target: pt:dre:150661864:por
+  label: Adita Anexo V; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera
+    Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera
+    Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Anexo I; Altera Anexo
+    III; Altera Anexo IV
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864
+  date: '2020-12-09'
+- type: amended_by
+  target: pt:dre:901661917:por
+  label: Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2024-901661917
+  date: '2024-12-31'
+- type: cites
+  target: celex:31990L0679
+  label: null
+  source: http://data.europa.eu/eli/dir/1990/679/oj
+- type: cites
+  target: celex:31993L0088
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/88/oj
+- type: cites
+  target: celex:31995L0030
+  label: null
+  source: http://data.europa.eu/eli/dir/1995/30/oj
+article_structure:
+  article_count: 23
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:36:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 84/97
+
+Decreto-Lei n.º 84/97
+
+de 16 de Abril
+
+1. Os princípios gerais de promoção da segurança, higiene e saúde no trabalho, adoptados pelo Decreto-Lei n.º 441/91, de 14 de Novembro, são desenvolvidos através de legislação complementar aplicável em diversos sectores de actividade económica e resultante, designadamente, da transposição para o direito interno de directivas comunitárias.
+
+De acordo com esta orientação, o presente diploma estabelece as regras de protecção dos trabalhadores contra os riscos de exposição a agentes biológicos durante o trabalho, que procedem à transposição para o direito interno das Directivas n.os <a href="eurlex.asp?ano=1990&id=390L0679" title="Link para Directiva da Comunidade Europeia">90/679/CEE</a>, do Conselho, de 26 de Novembro, e <a href="eurlex.asp?ano=1993&id=393L0088" title="Link para Directiva da Comunidade Europeia">93/88/CEE</a>, do Conselho, de 12 de Outubro, e da Directiva n.º <a href="eurlex.asp?ano=1995&id=395L0030" title="Link para Directiva da Comunidade Europeia">95/30/CE</a>, da Comissão, de 30 de Junho de 1995.
+
+2. Os agentes biológicos com efeitos nocivos para a saúde das pessoas podem formar-se por diversos processos, designadamente em resultado do desenvolvimento das biotecnologias através das quais se procede à sua produção e utilização.
+
+Os trabalhadores podem estar expostos a agentes biológicos com riscos para a sua saúde em muitas actividades, nomeadamente em laboratórios de investigação, serviços hospitalares, laboratórios clínicos e de diagnóstico, matadouros, na recolha e tratamento de lixos e em diversos ramos da indústria. O desenvolvimento das actividades económicas em que há riscos de exposição a agentes biológicos torna imperioso regulamentar as obrigações dos empregadores destinadas a proteger os trabalhadores.
+
+O presente diploma baseia a protecção dos trabalhadores, em primeiro lugar, na avaliação dos riscos da exposição a agentes biológicos, para identificar os agentes causadores de risco, a possibilidade da sua propagação na colectividade e o tempo de exposição efectiva ou potencial dos trabalhadores.
+
+Ao mesmo tempo, a avaliação dos riscos permite formular orientações para a aplicação de medidas de protecção dos trabalhadores de agentes biológicos perigosos, bem como de agentes cuja perigosidade ainda não esteja definida.
+
+Assim, uma vez identificados os agentes biológicos causadores de risco, o empregador deve evitar a utilização desses agentes, sempre que a natureza do trabalho o permita. Se esse procedimento não for tecnicamente viável, o empregador deve reduzir o risco de exposição até ao nível que for tecnicamente possível para proteger adequadamente os trabalhadores.
+
+A avaliação dos riscos permitirá, ainda, ao empregador submeter os trabalhadores a exames de saúde, de modo a acompanhar a evolução do seu estado de saúde e, se necessário, adoptar as medidas preventivas adequadas.
+
+Nos estabelecimentos e nos processos industriais em que é maior o risco de exposição dos trabalhadores a agentes biológicos perigosos, designadamente quando são utilizados agentes com maior grau de risco, devem ser aplicadas medidas especiais de protecção que diminuam o risco de infecção.
+
+A prevenção dos riscos profissionais também depende, em elevado grau, de os trabalhadores realizarem o respectivo trabalho com comportamentos adequados às exigências de segurança impostas pelos agentes biológicos em presença. A formação e a informação dos trabalhadores sobre os cuidados a tomar nas actividades em que são utilizados agentes biológicos têm, por isso, uma importância assinalável.
+
+3. O projecto correspondente ao presente diploma foi publicado, para apreciação pública, na separata do Boletim do Trabalho e Emprego, n.º 5, de 29 de Junho de 1995. Os comentários de algumas organizações de trabalhadores não foram acolhidos porque, quanto a uns, deixaram de ter actualidade com a recente aplicação dos princípios gerais de promoção da segurança, higiene e saúde no trabalho do Decreto-Lei n.º 441/91, de 14 de Novembro, à administração central, regional e local e, outros, não eram justificados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece prescrições mínimas de protecção da segurança e da saúde dos trabalhadores contra os riscos da exposição a agentes biológicos durante o trabalho.
+
+2 - O presente diploma é aplicável sem prejuízo do disposto no Decreto-Lei n.º 72/2003, de 10 de abril, na sua redação atual, e no Decreto-Lei n.º 55/2015, de 17 de abril, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 2.º — Âmbito
+
+O presente diploma abrange, no âmbito definido no artigo 3.º da Lei n.º 102/2009, de 10 de setembro, na sua atual redação, as atividades em que os trabalhadores estão ou podem estar expostos a agentes biológicos durante o trabalho, nomeadamente as constantes do anexo i.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) Agentes biológicos - os microrganismos, incluindo os geneticamente modificados, as culturas de células e os endoparasitas humanos susceptíveis de provocar infecções, alergias ou intoxicações;
+
+b) Microrganismo - qualquer entidade microbiológica, celular ou não celular, dotada de capacidade de reprodução ou de transferência do material genético;
+
+c) Cultura celular - a multiplicação in vitro de células, a partir de organismos multicelulares;
+
+d) Nível de confinamento - o conjunto das medidas que, no local ou área de trabalho, garantem as condições de segurança e saúde adequadas à realização do trabalho ou manipulação de agentes patogénicos, de acordo com a classificação dos agentes biológicos prevista no n.º 3 do artigo 4.º
+
+###### Artigo 4.º — Classificação dos agentes biológicos
+
+1 - Os agentes biológicos são classificados, conforme o seu nível de risco infeccioso, nos seguintes grupos:
+
+a) Agente biológico do grupo 1 - o agente biológico cuja probabilidade de causar doenças no ser humano é baixa;
+
+b) Agente biológico do grupo 2 - o agente biológico que pode causar doenças no ser humano e constituir um perigo para os trabalhadores, sendo escassa a probabilidade de se propagar na colectividade e para o qual existem, em regra, meios eficazes de profilaxia ou tratamento;
+
+c) Agente biológico do grupo 3 - o agente biológico que pode causar doenças graves no ser humano e constituir um risco grave para os trabalhadores, sendo susceptível de se propagar na colectividade, mesmo que existam meios eficazes de profilaxia ou de tratamento;
+
+d) Agente biológico do grupo 4 - o agente biológico que causa doenças graves no ser humano e constitui um risco grave para os trabalhadores, sendo susceptível de apresentar um elevado nível de propagação na colectividade e para o qual não existem, em regra, meios eficazes de profilaxia ou de tratamento.
+
+2 - O agente biológico que não puder ser rigorosamente classificado num dos grupos definidos no número anterior deve ser classificado no grupo mais elevado em que pode ser incluído.
+
+3 - A lista de agentes biológicos classificados dos grupos 2, 3 e 4 consta do anexo v.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 5.º — Notificação do início de actividade
+
+1 - O empregador deve notificar a Autoridade para as Condições do Trabalho (ACT) e a Direção-Geral da Saúde (DGS) com, pelo menos, 30 dias de antecedência, do início de atividades em que sejam utilizados, pela primeira vez, agentes biológicos dos grupos 2, 3 ou 4.
+
+2 - (Revogado.)
+
+3 - Sem prejuízo do disposto no número seguinte, o empregador deve proceder à notificação da ACT e da DGS, nos termos do n.º 1, sempre que haja utilização de qualquer outro agente biológico do grupo 4, pela primeira vez, bem como de qualquer novo agente biológico classificado provisoriamente pelo próprio empregador no grupo 3.
+
+4 - Os laboratórios que prestem serviços de diagnóstico relacionados com agentes biológicos do grupo 4 ficam apenas sujeitos à notificação inicial prevista no n.º 1.
+
+5 - A notificação deve conter os seguintes elementos:
+
+a) O nome e o endereço da empresa ou do estabelecimento;
+
+b) O nome e as competências dos profissionais responsáveis pelo serviço de segurança e saúde no trabalho;
+
+c) O resultado da avaliação dos riscos, a espécie e a classificação do agente biológico;
+
+d) As medidas preventivas e de protecção previstas.
+
+6 - A notificação é feita em modelo apropriado ao tratamento informático dos dados, disponibilizado pela ACT e pela DGS.
+
+7 - Se houver modificações substanciais nos processos ou nos procedimentos com possibilidade de repercussão na segurança ou saúde dos trabalhadores, deve ser feita uma nova notificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 6.º — Avaliação dos riscos
+
+1 - Nas atividades suscetíveis de apresentar um risco de exposição a agentes biológicos, o empregador deve proceder à avaliação dos riscos, mediante:
+
+a) A determinação da natureza, do grau e do grupo do agente biológico, bem como do tempo de exposição dos trabalhadores a esse agente;
+
+b) A quantificação do agente presente no local de trabalho sempre que existirem valores de referência aplicáveis.
+
+2 - Nas actividades que impliquem a exposição a várias categorias de agentes biológicos, a avaliação dos riscos deve ser feita com base no perigo resultante da presença de todos esses agentes.
+
+3 - A avaliação dos riscos deve ter em conta todas as informações disponíveis, nomeadamente:
+
+a) A classificação dos agentes biológicos que apresentam ou podem apresentar riscos para a saúde humana;
+
+b) O risco suplementar que os agentes biológicos podem constituir para trabalhadores cuja sensibilidade possa ser afectada, nomeadamente por doença anterior, medicação, deficiência imunitária, gravidez ou aleitamento;
+
+c) As recomendações da DGS e da ACT sobre as medidas de controlo de agentes biológicos nocivos à saúde dos trabalhadores;
+
+d) As informações técnicas existentes sobre doenças relacionadas com a natureza do trabalho;
+
+e) Os potenciais efeitos alérgicos ou tóxicos resultantes do trabalho;
+
+f) O conhecimento de doença verificada num trabalhador que esteja directamente relacionada com o seu trabalho.
+
+4 - Sem prejuízo do disposto na Lei n.º 102/2009, de 10 de setembro, na sua redação atual, no que se refere à proteção do património genético, a avaliação dos riscos deve ser renovada sempre que haja alteração das condições de trabalho suscetível de afetar a exposição dos trabalhadores a agentes biológicos, se verifique a ultrapassagem de valores de referência aplicáveis, os resultados da vigilância da saúde o justifiquem ou se verifique desenvolvimento da investigação científica nesta matéria.
+
+5 - A avaliação dos riscos deve ter em conta as condições reais de exposição profissional, incluindo a interação com outros agentes ou fatores de risco profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 7.º — Resultados da avaliação dos riscos
+
+1 - Se a avaliação revelar a existência de um risco para a segurança ou saúde dos trabalhadores, o empregador deve tomar as medidas de prevenção adequadas para evitar a exposição dos trabalhadores a esse risco.
+
+2 - A avaliação dos riscos deve identificar os trabalhadores que podem necessitar de medidas de protecção especiais.
+
+###### Artigo 8.º — Substituição de agentes biológicos perigosos
+
+O empregador deve evitar a utilização de agentes biológicos perigosos sempre que a natureza do trabalho o permita, substituindo-os por outros agentes que, em função das condições de utilização e no estado actual dos conhecimentos, não sejam perigosos ou causem menos perigo para a segurança ou saúde dos trabalhadores.
+
+###### Artigo 9.º — Redução dos riscos de exposição
+
+Se não for tecnicamente viável o procedimento referido no artigo 8.º, o risco de exposição deve ser reduzido a um nível tão baixo quanto for tecnicamente possível para proteger adequadamente a segurança e a saúde dos trabalhadores, designadamente através das seguintes medidas:
+
+a) Limitação ao mínimo do número de trabalhadores expostos ou com possibilidade de o serem;
+
+b) Modificação dos processos de trabalho e das medidas técnicas de controlo para evitar ou minimizar a disseminação dos agentes biológicos no local de trabalho;
+
+c) Aplicação de medidas de protecção colectiva e individual, se a exposição não puder ser evitada por outros meios;
+
+d) Aplicação de medidas de higiene compatíveis com os objectivos da prevenção ou redução da transferência ou disseminação acidental de um agente biológico para fora do local de trabalho;
+
+e) Utilização do sinal indicativo de perigo biológico, constante do anexo II, e de outra sinalização apropriada, de acordo com a sinalização de segurança em vigor;
+
+f) Elaboração de planos de acção em casos de acidentes que envolvam agentes biológicos;
+
+g) Verificação da presença de agentes biológicos utilizados no trabalho fora do confinamento físico primário, sempre que for necessário e tecnicamente possível;
+
+h) Utilização de meios de recolha, armazenagem e evacuação dos resíduos, após tratamento adequado, incluindo o uso de recipientes seguros e identificáveis sempre que necessário;
+
+i) Utilização de processos de trabalhos que permitam manipular e transportar, sem risco, os agentes biológicos.
+
+###### Artigo 10.º — Informação das autoridades responsáveis
+
+1 - Se o resultado da avaliação revelar a existência de riscos para a segurança ou saúde dos trabalhadores, o empregador deve elaborar um relatório com as seguintes informações:
+
+a) Os elementos utilizados para efectuar a avaliação e o seu resultado;
+
+b) As actividades em que os trabalhadores estiveram ou podem ter estado expostos a agentes biológicos;
+
+c) O número de trabalhadores eventualmente expostos;
+
+d) As medidas preventivas e de protecção adoptadas, incluindo os processos e métodos de trabalho;
+
+e) O plano de emergência relativo à protecção dos trabalhadores contra a exposição a agentes biológicos dos grupos 3 ou 4, em caso de falha no confinamento físico;
+
+f) O nome e as competências dos profissionais responsáveis pelo serviço de segurança e saúde no trabalho.
+
+2 - A ACT e as autoridades de saúde podem consultar o relatório referido no número anterior.
+
+3 - O empregador deve informar imediatamente a ACT e a DGS de qualquer acidente ou incidente que possa ter provocado a disseminação de um agente biológico suscetível de causar infeção ou outra doença grave no ser humano.
+
+4 - O empregador deve garantir que o médico do trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores notifique às autoridades competentes os casos de doença ou morte de trabalhadores identificados como resultantes da exposição a agentes biológicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 11.º — Vigilância da saúde
+
+1 - O empregador deve assegurar a vigilância adequada dos trabalhadores em relação aos quais os resultados da avaliação referida no artigo 6.º revelem a existência de riscos para a sua segurança ou saúde, designadamente através de exames de saúde e outras intervenções necessárias.
+
+2 - Os trabalhadores devem ser submetidos a exame de saúde antes da exposição a agentes biológicos, competindo ao médico do trabalho determinar a periodicidade dos exames subsequentes, tendo em consideração a avaliação dos riscos e o disposto nos n.os 1 a 5 do artigo 108.º da Lei n.º 102/2009, de 10 de setembro, na sua redação atual.
+
+3 - A vigilância da saúde dos trabalhadores deve permitir a aplicação de medidas de saúde individuais e dos princípios e práticas da medicina do trabalho, de acordo com os conhecimentos mais recentes, e incluir os seguintes procedimentos:
+
+a) Registo da história clínica e profissional do trabalhador;
+
+b) Avaliação individual do estado de saúde do trabalhador;
+
+c) Vigilância biológica, sempre que necessária;
+
+d) Rastreio de efeitos precoces e reversíveis.
+
+4 - O médico do trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores deve conhecer as condições de trabalho e as circunstâncias de exposição de cada trabalhador e propor ao empregador as medidas preventivas ou de proteção a tomar em relação a cada trabalhador.
+
+5 - Se um trabalhador sofrer uma infeção ou outra doença que possa ter sido provocada pela exposição a agentes biológicos no local de trabalho, o médico do trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores proporá a todos os trabalhadores sujeitos a exposição idêntica a avaliação do seu estado de saúde, devendo, neste caso, ser repetida a avaliação dos riscos em conformidade com o disposto no artigo 6.º
+
+6 - O trabalhador tem acesso aos resultados da vigilância da saúde que lhe diga directamente respeito, podendo ele próprio ou o seu empregador solicitar a revisão desses resultados.
+
+7 - O empregador deve garantir que sejam dados aos trabalhadores informações e conselhos sobre a vigilância da saúde a que podem ser submetidos depois de terminada a exposição de risco.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 12.º — Medidas de higiene e de protecção individual
+
+1 - Nas actividades em que são utilizados agentes biológicos com riscos para a segurança ou saúde dos trabalhadores, o empregador deve:
+
+a) Impedir que o trabalhador fume, coma ou beba nas zonas de trabalho com risco de contaminação por agentes biológicos;
+
+b) Fornecer ao trabalhador vestuário de proteção adequado ou qualquer outro vestuário especial adequado;
+
+c) Assegurar que todos os equipamentos de protecção são guardados em local apropriado, verificados e limpos, se possível antes e, obrigatoriamente, após cada utilização, bem como reparados ou substituídos se tiverem defeitos ou estiverem danificados;
+
+d) Definir processos para a recolha, manipulação e tratamento de amostras de origem humana ou animal;
+
+e) Pôr à disposição dos trabalhadores instalações sanitárias e de vestiário adequadas para a sua higiene pessoal;
+
+f) Assegurar a existência de colírios e anti-sépticos cutâneos em locais apropriados, quando se justificarem.
+
+2 - Antes de abandonar o local de trabalho, o trabalhador deve retirar o vestuário de trabalho e os equipamentos de protecção individual que possam estar contaminados por agentes biológicos e guardá-los em locais separados, previstos para o efeito.
+
+3 - O empregador deve assegurar a descontaminação, a limpeza e, se necessário, a destruição do vestuário e dos equipamentos de protecção individual referidos no n.º 2.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 13.º — Vacinação dos trabalhadores
+
+1 - Se existirem vacinas eficazes contra os agentes biológicos a que os trabalhadores estão ou podem estar expostos, a vigilância da saúde deve prever a vacinação gratuita dos trabalhadores não imunizados.
+
+2 - O empregador deve assegurar que os trabalhadores sejam informados das vantagens e dos inconvenientes da vacinação e da falta de vacinação.
+
+3 - A vacinação deve obedecer às recomendações da DGS, ser anotada na ficha clínica do trabalhador e registada no seu boletim individual de saúde e na respetiva plataforma eletrónica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 14.º — Medidas especiais para os estabelecimentos médicos e veterinários
+
+1 - Os estabelecimentos médicos de saúde e veterinários devem tomar medidas apropriadas para proteger a segurança e a saúde dos trabalhadores.
+
+2 - Nos estabelecimentos referidos no n.º 1, a avaliação dos riscos deve ter em conta:
+
+a) A probabilidade da presença de agentes biológicos em pacientes humanos ou animais e nas amostras e materiais residuais deles provenientes;
+
+b) O perigo que constituem os agentes biológicos presentes ou que podem estar presentes em pacientes humanos ou animais e nas amostras e materiais residuais deles provenientes;
+
+c) O risco inerente à natureza das actividades profissionais.
+
+3 - As medidas referidas no n.º 1 devem incluir, nomeadamente:
+
+a) A especificação de processos adequados de descontaminação e desinfecção;
+
+b) A aplicação de processos que garantam a segurança dos trabalhadores na manipulação, transporte e eliminação de resíduos contaminados.
+
+4 - As unidades de isolamento onde se encontrem pessoas doentes ou animais infectados ou com suspeita de estarem infectados por agentes biológicos dos grupos 3 ou 4 devem aplicar medidas de confinamento, de acordo com a coluna A do anexo III.
+
+###### Artigo 15.º — Medidas especiais para os laboratórios e biotérios
+
+1 - Os laboratórios, incluindo os de investigação, desenvolvimento, ensino ou diagnóstico, e as instalações onde existam animais de laboratório que sejam ou se suspeita que sejam portadores de agentes biológicos dos grupos 2, 3 ou 4, depois da avaliação dos riscos, devem aplicar medidas de confinamento físico nos termos do anexo iii.
+
+2 - As actividades que impliquem a manipulação de um agente biológico do grupo 2, 3 ou 4 devem ser sempre efectuadas em locais correspondentes, no mínimo, ao nível de confinamento 2, 3 ou 4, respectivamente.
+
+3 - Os laboratórios onde se manipulem materiais suspeitos de conter agentes biológicos susceptíveis de causar doenças no ser humano, mas cujo objectivo não seja trabalhar com esses agentes enquanto tais, devem adoptar, no mínimo, o nível de confinamento 2.
+
+4 - Os laboratórios referidos no número anterior devem adoptar os níveis de confinamento 3 ou 4 sempre que se revele ou se presuma a sua necessidade, excepto se as autoridades competentes considerarem adequado um nível de confinamento inferior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 16.º — Medidas especiais para os processos industriais
+
+1 - Os processos industriais que utilizem agentes biológicos dos grupos 2, 3 ou 4 devem adoptar, no mínimo, níveis de confinamento 2, 3 ou 4, respectivamente, com base nas medidas práticas e nos processos previstos no anexo IV.
+
+2 - As autoridades competentes podem determinar outras medidas para a utilização industrial dos agentes biológicos do grupo 2, 3 ou 4, em função da avaliação dos riscos da sua utilização.
+
+3 - As actividades industriais em que não seja possível proceder à avaliação concludente de um agente biológico cuja utilização pareça implicar um grave risco para a saúde dos trabalhadores devem ser desenvolvidas em locais de trabalho com um nível de confinamento 3 ou 4.
+
+###### Artigo 17.º — Formação dos trabalhadores
+
+1 - O empregador deve assegurar formação adequada aos trabalhadores e aos seus representantes para a segurança e saúde no trabalho, no início de uma atividade profissional que implique contactos com agentes biológicos.
+
+2 - A formação referida no número anterior deve ser adaptada à evolução dos riscos existentes e ao aparecimento de novos riscos, periodicamente actualizada e incluir todos os dados disponíveis sobre:
+
+a) Riscos potenciais para a saúde;
+
+b) Precauções a tomar para evitar a exposição aos riscos existentes;
+
+c) Normas de higiene;
+
+d) Utilização dos equipamentos e do vestuário de protecção;
+
+e) Medidas a tomar pelos trabalhadores em caso de incidentes e para a sua prevenção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 18.º — Informação dos trabalhadores
+
+1 - O empregador deve fornecer aos trabalhadores instruções escritas nos locais de trabalho e, se necessário, afixar cartazes sobre os procedimentos a seguir em caso de acidente ou incidente grave resultante da manipulação de agentes biológicos ou da manipulação de um agente biológico do grupo 4.
+
+2 - Os trabalhadores devem comunicar imediatamente qualquer acidente ou incidente que envolva a manipulação de agentes biológicos ao responsável pelo trabalho ou ao responsável pela segurança e saúde no local de trabalho.
+
+3 - O empregador deve informar imediatamente os trabalhadores e os seus representantes sobre qualquer acidente ou incidente grave ou que possa provocar a disseminação de um agente biológico susceptível de causal graves infecções ou doenças no ser humano, as suas causas e as medidas tomadas ou a tomar para corrigir a situação.
+
+4 - Os trabalhadores e os seus representantes para a segurança e saúde no trabalho têm o direito a conhecer dados coletivos, não individualizados, incluindo as informações previstas no n.º 1 do artigo 10.º, assim como a ter acesso às informações técnicas provenientes de serviços de inspeção e outros organismos competentes no domínio da segurança e saúde no trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 19.º — Registo, arquivo e conservação de documentos
+
+1 - O empregador deve organizar os registos de dados e manter arquivos actualizados sobre:
+
+a) Os resultados da avaliação dos riscos;
+
+b) A lista dos trabalhadores expostos a agentes biológicos do grupo 3 ou 4, com indicação do tipo de trabalho executado e, se possível, a identificação dos agentes a que os trabalhadores estiveram expostos, bem como os registos das exposições, acidentes e incidentes;
+
+c) Os registos relativos à vigilância da saúde dos trabalhadores, com respeito pelo segredo profissional do médico do trabalho.
+
+2 - Os registos a que se refere a alínea c) do n.º 1 devem constar de ficha médica individual de cada trabalhador, colocada sob a responsabilidade do médico do trabalho ou da entidade responsável pela vigilância da saúde dos trabalhadores.
+
+3 - Os registos referidos nos números anteriores devem ser conservados durante 10 anos após a cessação da exposição.
+
+4 - O prazo de conservação dos registos é de 40 anos nos casos de exposições de que possam resultar infecções causadas por agentes biológicos susceptíveis de produzir infecções persistentes ou latentes, ou que, de acordo com os conhecimentos actuais, só sejam diagnosticáveis muitos anos depois com o aparecimento da doença, ou que tenham períodos de incubação muito longos, ou que provoquem doenças com crises de recrudescências, apesar do tratamento, ou com graves sequelas a longo prazo.
+
+5 - Se a empresa cessar a atividade, os registos devem ser transferidos para o Instituto da Segurança Social, I. P., com exceção das fichas clínicas, que devem ser enviadas para o organismo competente da área governativa da saúde, sendo em qualquer caso assegurada a sua confidencialidade.
+
+6 - Ao cessar o contrato de trabalho, o empregador deve entregar ao trabalhador, a pedido deste, cópia da sua ficha médica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 20.º — Contra-ordenações
+
+1 - Constitui contra-ordenação muito grave a violação dos n.os 1 e 4 do artigo 6.º, dos artigos 7.º, 8.º e 9.º, do n.º 1 do artigo 13.º, do artigo 14.º, dos n.os 1, 2 e 4 do artigo 15.º, se forem exigíveis medidas de nível de confinamento 3 ou 4, e do artigo 16.º se forem exigíveis medidas de nível de confinamento 3 ou 4.
+
+2 - Constitui contra-ordenação grave a violação dos n.os 1, 3, 5 e 7 do artigo 5.º, do n.º 3 do artigo 6.º, do artigo 10.º, dos n.os 1 a 3 e 5 a 7 do artigo 11.º, dos n.os 1 e 3 do artigo 12.º, dos n.os 2 e 3 do artigo 13.º, dos n.os 1 a 3 do artigo 15.º, se forem exigíveis medidas de nível de confinamento 2, dos n.os 1 e 2 do artigo 16.º, se forem exigíveis medidas de nível de confinamento 2, do artigo 17.º, dos n.os 1 e 3 do artigo 18.º e dos n.os 1 a 5 do artigo 19.º
+
+3 - Constitui contra-ordenação leve a violação do n.º 4 do artigo 18.º e do n.º 6 do artigo 19.º
+
+4 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, aplica-se às infrações por violação do disposto no presente diploma.
+
+5 - O processamento das contraordenações previstas no presente diploma segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+> Alterado pelo/a Artigo 16.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01
+
+###### Artigo 21.º — Fiscalização
+
+A fiscalização do cumprimento do presente diploma compete à ACT e aos serviços inspetivos do Ministério da Saúde, no âmbito das respetivas atribuições.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 22.º — Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira, as referências à ACT e à DGS entendem-se feitas aos órgãos e serviços próprios das respetivas administrações regionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+###### Artigo 23.º — Entrada em vigor
+
+O presente diploma entra em vigor 180 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 24 de Março de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 31 de Março de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — Lista indicativa de atividades profissionais
+
+(a que se refere o artigo 2.º),
+
+Nota introdutória
+
+Nos casos em que os resultados da avaliação de riscos, efetuada em conformidade com o artigo 6.º, demonstrarem uma exposição involuntária a agentes biológicos, é possível que haja outras atividades profissionais, não incluídas no presente anexo, que devem ser consideradas.
+
+1 - Trabalho em unidades de produção alimentar.
+
+2 - Trabalho agrícola.
+
+3 - Atividades profissionais em que há contacto com animais e/ou produtos de origem animal.
+
+4 - Trabalho em unidades de saúde, incluindo unidades de isolamento e de autópsia.
+
+5 - Trabalho em laboratórios clínicos, veterinários e de diagnóstico, excluindo laboratórios microbiológicos de diagnóstico.
+
+6 - Trabalho em unidades de recolha, transporte, tratamento, valorização e eliminação de resíduos.
+
+7 - Trabalho em instalações de recolha, drenagem e tratamento de águas residuais.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+## Anexo II — Sinal indicativo de perigo biológico
+
+(ver documento original)
+
+## Anexo III — Recomendações relativas às medidas e aos níveis de confinamento
+
+(a que se referem o n.º 4 do artigo 14.º e o n.º 1 do artigo 15.º)
+
+Nota introdutória
+
+As medidas referidas no presente anexo devem ser aplicadas de acordo com a natureza das atividades, avaliação do risco para os trabalhadores e natureza do agente biológico em questão.
+
+No quadro, a menção 'Recomendado' significa que as medidas devem, em princípio, ser aplicadas, a não ser que os resultados da avaliação referida no artigo 6.º indiquem o contrário.
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+## Anexo IV — Confinamento para processos industriais
+
+(a que se refere o n.º 1 do artigo 16.º)
+
+Nota introdutória
+
+No quadro, a menção 'Recomendado' significa que as medidas devem, em princípio, ser aplicadas, a não ser que os resultados da avaliação referida no artigo 6.º indiquem o contrário.
+
+Agentes biológicos do grupo 1
+
+Quando o trabalho envolva agentes biológicos do grupo 1, incluindo as vacinas vivas atenuadas, deverão ser respeitados os princípios da boa prática em segurança e saúde no trabalho.
+
+Agentes biológicos dos grupos 2, 3 e 4
+
+Poderá revelar-se necessário selecionar e combinar exigências de confinamento de várias das categorias adiante referidas, em função da avaliação do risco relacionado com um determinado processo ou uma parte de um processo.
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
+
+## Anexo V — Lista de agentes biológicos classificados
+
+(a que se refere o n.º 3 do artigo 4.º)
+
+Notas introdutórias
+
+1 - Só são incluídos na lista os agentes biológicos reconhecidamente infeciosos para o ser humano.
+
+Sempre que se justifique, são fornecidos indicadores sobre o potencial tóxico e alérgico de tais agentes.
+
+Os agentes patogénicos para animais e plantas com infecciosidade desconhecida para o ser humano foram excluídos.
+
+Ao elaborar esta lista de agentes biológicos classificados, não foram tomados em consideração os microrganismos geneticamente modificados.
+
+2 - A classificação dos agentes biológicos baseia-se nos efeitos de tais agentes sobre trabalhadores saudáveis.
+
+Os efeitos específicos verificados sobre indivíduos cuja sensibilidade possa ser afetada por uma ou várias razões, tais como doença prévia, medicação, deficiência imunitária, gravidez ou aleitamento, não são tomados em consideração de maneira específica.
+
+A avaliação dos riscos, referida no artigo 6.º, deve incidir igualmente sobre o risco suplementar a que estes trabalhadores estão expostos.
+
+As medidas de prevenção técnica devem estar em conformidade com o disposto, respetivamente, nos artigos 15.º e 16.º no âmbito de determinados trabalhos de laboratório ou de determinadas atividades ou locais em que estejam presentes animais e de determinados procedimentos industriais, que impliquem ou sejam suscetíveis de implicar uma exposição dos trabalhadores a agentes biológicos dos grupos 3 ou 4.
+
+3 - Os agentes biológicos que não tenham sido incluídos nos grupos 2 a 4 da lista não pertencem implicitamente ao grupo 1.
+
+No caso de géneros que incluam numerosas espécies reconhecidamente patogénicas para o ser humano, a lista inclui as espécies mais frequentemente implicadas nas doenças e uma referência, de ordem mais geral, que indica que outras espécies pertencentes ao mesmo género são suscetíveis de afetar a saúde.
+
+Quando a totalidade de um género for mencionada na classificação dos agentes biológicos, considera-se implícito que as espécies e estirpes reconhecidamente não patogénicas se encontram excluídas da classificação.
+
+4 - No caso de estirpes atenuadas ou que perderam genes de reconhecida virulência, não tem de ser necessariamente aplicado o isolamento imposto pela classificação da estirpe-mãe, sob condição de uma adequada avaliação do risco no local de trabalho.
+
+Tal é o caso, por exemplo, quando tal estirpe se destinar a utilização como produto ou parte de um produto para fins profiláticos ou terapêuticos.
+
+5 - A nomenclatura dos agentes biológicos utilizada na classificação está em conformidade com os acordos internacionais mais recentes sobre a taxonomia e a nomenclatura destes agentes.
+
+6 - A lista de agentes biológicos classificados reflete o estado do conhecimento no momento da sua elaboração, prevendo-se a sua atualização sempre que a evolução do conhecimento o justifique.
+
+7 - Todos os vírus já isolados no ser humano e que ainda não tenham sido avaliados e classificados no presente anexo serão classificados, no mínimo, no grupo 2, exceto se houver prova de que não são suscetíveis de provocar uma doença no ser humano.
+
+8 - Determinados agentes biológicos classificados no grupo 3 e indicados na lista anexa por um duplo asterisco (**) podem apresentar um risco limitado de infeção para os trabalhadores, porque não são geralmente infeciosos por transmissão por via aérea.
+
+Nessa situação, as medidas de isolamento a aplicar a esses agentes biológicos, devem ter em conta a natureza das atividades específicas em causa, a quantidade do agente biológico e as recomendações da Direção-Geral da Saúde e da Autoridade para as Condições do Trabalho, a fim de determinar se, em circunstâncias especiais, se pode renunciar a algumas dessas medidas.
+
+9 - Os imperativos em matéria de isolamento decorrentes da classificação dos parasitas aplicam-se unicamente aos diferentes estádios do ciclo do parasita suscetíveis de serem infeciosos para o ser humano no local de trabalho.
+
+10 - Por outro lado, a lista contém indicações em separado quando os agentes biológicos são suscetíveis de dar origem a reações alérgicas ou tóxicas, quando existe uma vacina eficaz ou quando se revele oportuno guardar durante mais de 10 anos a lista dos trabalhadores a eles expostos.
+
+Tais indicações são referenciadas sob a forma de letras com o seguinte significado:
+
+A: possíveis efeitos alérgicos;
+
+D: lista dos trabalhadores expostos a este agente biológico, a conservar por um período superior a 10 anos após a última exposição conhecida;
+
+T: produção de toxinas;
+
+V: vacina eficaz disponível e registada na União Europeia, que deve ser administrada de acordo com as indicações dos serviços de saúde e do fabricante.
+
+As vacinações preventivas devem ser efetuadas tendo em conta o estabelecido no artigo 13.º
+
+11 - A lista dos agentes biológicos contém indicações em parêntesis que indicam o nome pelo qual o agente era anteriormente conhecido.
+
+Bactérias e afins
+
+Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção «spp.» refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver notas introdutórias n.
+
+os
+
+3 e 11 para mais pormenores.
+
+| Agente biológico | Classificação | Notas |
+| --- | --- | --- |
+| Actinomadura madurae | 2 |  |
+| Actinomadura pelletieri | 2 |  |
+| Actinomyces gerencseriae | 2 |  |
+| Actinomyces israelii | 2 |  |
+| Actinomyces spp. | 2 |  |
+| Aggregatibacter actinomycetemcomitans (Actinobacillus actinomycetemcomitans) | 2 |  |
+| Anaplasma spp. | 2 |  |
+| Arcanobacterium haemolyticum (Corynebacterium haenolyticum) | 2 |  |
+| Arcobacter butzleri | 2 |  |
+| Bacillus anthracis | 3 | T |
+| Bacteroides fragilis | 2 |  |
+| Bacteroides spp. | 2 |  |
+| Bartonella bacilliformis | 2 |  |
+| Bartonella quintana (Rochalimaea quintana) | 2 |  |
+| Bartonella (Rochalimaea) spp. | 2 |  |
+| Bordetella bronchiseptica | 2 |  |
+| Bordetella parapertussis | 2 |  |
+| Bordetella pertussis | 2 | T, V |
+| Bordetella spp. | 2 |  |
+| Borrelia burgdorferi | 2 |  |
+| Borrelia duttonii | 2 |  |
+| Borrelia recurrentis | 2 |  |
+| Borrelia spp. | 2 |  |
+| Brachyspira spp. | 2 |  |
+| Brucella abortus | 3 |  |
+| Brucella canis | 3 |  |
+| Brucella inopinata | 3 |  |
+| Brucella melitensis | 3 |  |
+| Brucella suis | 3 |  |
+| Burkholderia cepacia | 2 |  |
+| Burkholderia mallei (Pseudomonas mallei) | 3 |  |
+| Burkholderia pseudomallei (Pseudomonas pseudomallei) | 3 | D |
+| Campylobacter fetus subsp. fetus | 2 |  |
+| Campylobacter fetus subsp. venerealis | 2 |  |
+| Campylobacter jejuni subsp. doylei | 2 |  |
+| Campylobacter jejuni subsp. jejuni | 2 |  |
+| Campylobacter spp. | 2 |  |
+| Cardiobacterium hominis | 2 |  |
+| Cardiobacterium valvarum | 2 |  |
+| Chlamydia abortus (Chlamydophila abortus) | 2 |  |
+| Chlamydia caviae (Chlamydophila caviae) | 2 |  |
+| Chlamydia felis (Chlamydophila felis) | 2 |  |
+| Chlamydia pneumoniae (Chlamydophila pneumoniae) | 2 |  |
+| Chlamydia psittaci (Chlamydophila psittaci) (estirpes de aviário) | 3 |  |
+| Chlamydia psittaci (Chlamydophila psittaci) (outras estirpes) | 2 |  |
+| Chlamydia trachomatis (Chlamydophila trachomatis) | 2 |  |
+| Clostridium botulinum | 2 | T |
+| Clostridium difficile | 2 | T |
+| Clostridium perfringens | 2 | T |
+| Clostridium tetani | 2 | T, V |
+| Clostridium spp. | 2 |  |
+| Corynebacterium diphtheriae | 2 | T, V |
+| Corynebacterium minutissimum | 2 |  |
+| Corynebacterium pseudotuberculosis | 2 | T |
+| Corynebacterium ulcerans | 2 | T |
+| Corynebacterium spp. | 2 |  |
+| Coxiella burnetii | 3 |  |
+| Edwardsiella tarda | 2 |  |
+| Ehrlichia spp. | 2 |  |
+| Eikenella corrodens | 2 |  |
+| Elizabethkingia meningoseptica (Flavobacterium meningosepticum) | 2 |  |
+| Enterobacter aerogenes (Klebsiella mobilis) | 2 |  |
+| Enterobacter cloacae subsp. cloacae (Enterobacter cloacae) | 2 |  |
+| Enterobacter spp. | 2 |  |
+| Enterococcus spp. | 2 |  |
+| Erysipelothrix rhusiopathiae | 2 |  |
+| Escherichia coli (excluindo as estirpes não patogénicas) | 2 |  |
+| Escherichia coli, verocytotoxigenic strains (por exemplo, O157:H7 ou O103) | 3 (*) | T |
+| Fluoribacter bozemanae (Legionella) | 2 |  |
+| Francisella hispaniensis | 2 |  |
+| Francisella tularensis subsp. holarctica | 2 |  |
+| Francisella tularensis subsp. mediasiatica | 2 |  |
+| Francisella tularensis subsp. novicida | 2 |  |
+| Francisella tularensis subsp. tularensis | 3 |  |
+| Fusobacterium necrophorum subsp. funduliforme | 2 |  |
+| Fusobacterium necrophorum subsp. necrophorum | 2 |  |
+| Gardnerella vaginalis | 2 |  |
+| Haemophilus ducreyi | 2 |  |
+| Haemophilus influenzae | 2 | V |
+| Haemophilus spp. | 2 |  |
+| Helicobacter pylori | 2 |  |
+| Helicobacter spp. | 2 |  |
+| Klebsiella oxytoca | 2 |  |
+| Klebsiella pneumoniae subsp. ozaenae | 2 |  |
+| Klebsiella pneumoniae subsp. pneumoniae | 2 |  |
+| Klebsiella pneumoniae subsp. rhinoscleromatis | 2 |  |
+| Klebsiella spp. | 2 |  |
+| Legionella pneumophila subsp. fraseri | 2 |  |
+| Legionella pneumophila subsp. pascullei | 2 |  |
+| Legionella pneumophila subsp. pneumophila | 2 |  |
+| Legionella spp. | 2 |  |
+| Leptospira interrogans (todos os serotipos) | 2 |  |
+| Leptospira interrogans spp. | 2 |  |
+| Listeria monocytogenes | 2 |  |
+| Listeria ivanovii subsp. ivanovii | 2 |  |
+| Listeria invanovii subsp. londoniensis | 2 |  |
+| Morganella morganii subsp. morganii (Proteus morganii) | 2 |  |
+| Morganella morganii subsp. sibonii | 2 |  |
+| Mycobacterium abscessus subsp. abscessus | 2 |  |
+| Mycobacterium africanum | 3 | V |
+| Mycobacterium avium subsp. avium (Mycobacterium avium) | 2 |  |
+| Mycobacterium avium subsp. paratuberculosis (Mycobacterium paratuberculosis) | 2 |  |
+| Mycobacterium avium subsp. silvaticum | 2 |  |
+| Mycobacterium bovis | 3 | V |
+| Mycobacterium caprae (Mycobacterium tuberculosis subsp. caprae) | 3 |  |
+| Mycobacterium chelonae | 2 |  |
+| Mycobacterium chimaera | 2 |  |
+| Mycobacterium fortuitum | 2 |  |
+| Mycobacterium intracellulare | 2 |  |
+| Mycobacterium kansasii | 2 |  |
+| Mycobacterium leprae | 3 |  |
+| Mycobacterium malmoense | 2 |  |
+| Mycobacterium marinum | 2 |  |
+| Mycobacterium microti | 3 (*) |  |
+| Mycobacterium pinnipedii | 3 |  |
+| Mycobacterium scrofulaceum | 2 |  |
+| Mycobacterium simiae | 2 |  |
+| Mycobacterium szulgai | 2 |  |
+| Mycobacterium tuberculosis | 3 | V |
+| Mycobacterium ulcerans | 3 (*) |  |
+| Mycobacterium xenopi | 2 |  |
+| Mycoplasma hominis | 2 |  |
+| Mycoplasma pneumoniae | 2 |  |
+| Mycoplasma spp. | 2 |  |
+| Neisseria gonorrhoeae | 2 |  |
+| Neisseria meningitidis | 2 | V |
+| Neorickettsia sennetsu (Rickettsia sennetsu, Ehrlichia sennetsu) | 2 |  |
+| Nocardia asteroides | 2 |  |
+| Nocardia brasiliensis | 2 |  |
+| Nocardia farcinica | 2 |  |
+| Nocardia nova | 2 |  |
+| Nocardia otitidiscaviarum | 2 |  |
+| Nocardia spp. | 2 |  |
+| Orientia tsutsugamushi (Rickettsia tsutsugamushi) | 3 |  |
+| Pasteurella multocida subsp. gallicida (Pasteurella gallicida) | 2 |  |
+| Pasteurella multocida subsp. multocida | 2 |  |
+| Pasteurella multocida subsp. septica | 2 |  |
+| Pasteurella spp. | 2 |  |
+| Peptostreptococcus anaerobius | 2 |  |
+| Plesiomonas shigelloides | 2 |  |
+| Porphyromonas spp. | 2 |  |
+| Prevotella spp. | 2 |  |
+| Proteus mirabilis | 2 |  |
+| Proteus penneri | 2 |  |
+| Proteus vulgaris | 2 |  |
+| Providencia alcalifaciens (Proteus inconstans) | 2 |  |
+| Providencia rettgeri (Proteus rettgeri) | 2 |  |
+| Providencia spp. | 2 |  |
+| Pseudomonas aeruginosa | 2 | T |
+| Rhodococcus hoagii (Corynebacterium equii) | 2 |  |
+| Rickettsia africae | 3 |  |
+| Rickettsia akari | 3 (*) |  |
+| Rickettsia australis | 3 |  |
+| Rickettsia canadensis | 2 |  |
+| Rickettsia conorii | 3 |  |
+| Rickettsia heilongjiangensis | 3 (*) |  |
+| Rickettsia japonica | 3 |  |
+| Rickettsia montanensis | 2 |  |
+| Rickettsia typhi | 3 |  |
+| Rickettsia prowazekii | 3 |  |
+| Rickettsia rickettsii | 3 |  |
+| Rickettsia sibirica | 3 |  |
+| Rickettsia spp. | 2 |  |
+| Salmonella enterica (choleraesuis) subsp. arizonae | 2 |  |
+| Salmonella Enteritidis | 2 |  |
+| Salmonella Paratyphi A, B, C | 2 | V |
+| Salmonella Typhi | 3 (*) | V |
+| Salmonella Typhimurium | 2 |  |
+| Salmonella (outros serotipos) | 2 |  |
+| Shigella boydii | 2 |  |
+| Shigella dysenteriae (tipo 1) | 3 (*) | T |
+| Shigella dysenteriae, com exceção do tipo 1 | 2 |  |
+| Shigella flexneri | 2 |  |
+| Shigella sonnei | 2 |  |
+| Staphylococcus aureus | 2 | T |
+| Streptobacillus moniliformis | 2 |  |
+| Streptococcus agalactiae | 2 |  |
+| Streptococcus dysgalactiae subsp. equisimilis | 2 |  |
+| Streptococcus pneumoniae | 2 | T, V |
+| Streptococcus pyogenes | 2 | T |
+| Streptococcus suis | 2 |  |
+| Streptococcus spp. | 2 |  |
+| Treponema carateum | 2 |  |
+| Treponema pallidum | 2 |  |
+| Treponema pertenue | 2 |  |
+| Treponema spp. | 2 |  |
+| Trueperella pyogenes | 2 |  |
+| Ureaplasma parvum | 2 |  |
+| Ureaplasma urealyticum | 2 |  |
+| Vibrio cholerae (incluindo El Tor) | 2 | T, V |
+| Vibrio parahaemolyticus (Benecka parahaemolytica) | 2 |  |
+| Vibrio spp. | 2 |  |
+| Yersinia enterocolitica subsp. enterolitica | 2 |  |
+| Yersinia enterocolitica subsp. palearctica | 2 |  |
+| Yersinia pestis | 3 |  |
+| Yersinia pseudotuberculosis | 2 |  |
+| Yersinia spp. | 2 |  |
+
+(*) Ver nota introdutória n.º 8.
+
+Vírus
+
+Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (F) e do seu género (G). Ver notas introdutórias n.
+
+os
+
+7 e 11.
+
+| Agente biológico (espécie de vírus ou ordem da taxonomia indicada) | Classificação | Notas |
+| --- | --- | --- |
+| Bunyavirales (O) |  |  |
+| Hantaviridae (F) |  |  |
+| Ortohantavírus (G) |  |  |
+| Ortohantavírus dos Andes (espécie de hantavírus que causa síndrome pulmonar por hantavírus [HPS]) | 3 |  |
+| Ortohantavírus Bayou | 3 |  |
+| Ortohantavírus Black Creek Canal | 3 |  |
+| Ortohantavírus Cano Delgadito | 3 |  |
+| Ortohantavírus Choclo 3 Ortohantavírus Dobrava-Belgrado (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |
+| Ortohantavírus El Moro Canyon | 3 |  |
+| Ortohantavírus Hantaan (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |
+| Ortohantavírus Laguna Negra | 3 |  |
+| Ortohantavírus Prospect Hill | 2 |  |
+| Ortohantavírus Puumala (espécie de hantavírus que causa nefropatia epidémica [NE]) | 2 |  |
+| Ortohantavírus Seul (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |
+| Ortohantavírus Sin Nombre (espécie de hantavírus que causa síndrome pulmonar por hantavírus [HPS]) | 3 |  |
+| Outros hantavírus reconhecidamente patogénicos | 2 |  |
+| Nairoviridae (F) |  |  |
+| Ortonairovírus (G) |  |  |
+| Ortonairovírus da febre hemorrágica da Crimeia/Congo | 4 |  |
+| Ortonairovírus Dugbe | 2 |  |
+| Ortonairovírus Hazara | 2 |  |
+| Ortonairovírus da doença dos ovinos de Nairóbi | 2 |  |
+| Outros nairovírus reconhecidamente patogénicos | 2 |  |
+| Peribunyaviridae (F) |  |  |
+| Ortobuniavírus (G) |  |  |
+| Ortobuniavírus Bunyamwera (vírus Germiston) | 2 |  |
+| Ortobuniavírus da encefalite da Califórnia | 2 |  |
+| Ortobuniavírus Oropouche | 3 |  |
+| Outros ortobuniavírus reconhecidamente patogénicos | 2 |  |
+| Phenuiviridae (F) |  |  |
+| Flebovírus (G) |  |  |
+| Flebovírus Bhanja | 2 |  |
+| Flebovírus Punta Toro | 2 |  |
+| Flebovírus da febre do vale do Rift | 3 |  |
+| Flebovírus Nápoles da febre papatasi (vírus Toscana) | 2 |  |
+| Flebovírus SFTS (vírus da síndrome de febre grave com trombocitopenia) | 3 |  |
+| Outros flebovírus reconhecidamente patogénicos | 2 |  |
+| Herpesvirales (O) |  |  |
+| Herpesviridae (F) |  |  |
+| Citomegalovírus (G) |  |  |
+| Betaherpesvírus humano 5 (Citomegalovírus) | 2 |  |
+| Linfocriptovírus (G) |  |  |
+| Gamaherpesvírus humano 4 (vírus de Epstein-Barr) | 2 |  |
+| Radinovírus (G) |  |  |
+| Gamaherpesvírus humano 8 | 2 | D |
+| Roseolovírus (G) |  |  |
+| Betaherpesvírus humano 6A (vírus linfotrópico humano B) | 2 |  |
+| Betaherpesvírus humano 6B | 2 |  |
+| Betaherpesvírus humano 7 | 2 |  |
+| Simplexvírus (G) |  |  |
+| Alfaherpesvírus Macacine 1 (herpesvírus simiae, vírus herpes B) | 3 |  |
+| Alfaherpesvírus humano 1 (herpesvírus humano 1, vírus herpes simplex tipo 1) | 2 |  |
+| Alfaherpesvírus humano 2 (herpesvírus humano 2, vírus herpes simplex tipo 2) | 2 |  |
+| Varicelovírus (G) |  |  |
+| Alfaherpesvírus humano 3 (herpesvírus varicela-zóster) | 2 | V |
+| Mononegavirales (O) |  |  |
+| Filoviridae (F) |  |  |
+| Vírus Ébola (G) | 4 |  |
+| Vírus Marburgo (G) |  |  |
+| Vírus Marburgo | 4 |  |
+| Paramyxoviridae (F) |  |  |
+| Avulavírus (G) |  |  |
+| Vírus da doença de Newcastle | 2 |  |
+| Henipavírus (G) |  |  |
+| Henipavírus Hendra | 4 |  |
+| Henipavírus Nipah | 4 |  |
+| Morbilivírus (G) |  |  |
+| Morbilivírus do sarampo | 2 | V |
+| Respirovírus (G) |  |  |
+| Respirovírus humano 1 (vírus da parainfluenza tipo 1) | 2 |  |
+| Respirovírus humano 3 (vírus da parainfluenza tipo 3) | 2 |  |
+| Rubulavírus (G) |  |  |
+| Rubulavírus da papeira | 2 | V |
+| Rubulavírus humano 2 (vírus da parainfluenza tipo 2) | 2 |  |
+| Rubulavírus humano 4 (vírus da parainfluenza tipo 4) | 2 |  |
+| Pneumoviridae (F) |  |  |
+| Metapneumovírus (G) |  |  |
+| Ortopneumovírus (G) |  |  |
+| Ortopneumovírus humano (vírus sincicial respiratório) | 2 |  |
+| Rhabdoviridae (F) |  |  |
+| Lissavírus (G) |  |  |
+| Lissavírus do morcego australiano | 3 (**) | V |
+| Lissavírus Duvenhage | 3 (**) | V |
+| Lissavírus do morcego europeu 1 | 3 (**) | V |
+| Lissavírus do morcego europeu 2 | 3 (**) | V |
+| Lissavírus do morcego de Lagos | 3 (**) |  |
+| Lissavírus Mokola | 3 |  |
+| Lissavírus da raiva | 3 (**) | V |
+| Vesiculovírus (G) |  |  |
+| Vírus da estomatite vesicular, vesiculovírus Alagoas | 2 |  |
+| Vírus da estomatite vesicular, vesiculovírus Indiana | 2 |  |
+| Vírus da estomatite vesicular, vesiculovírus | 2 |  |
+| New Jersey | 2 |  |
+| Lissavírus Piry (vírus Piry) | 2 |  |
+| Nidovirales (O) |  |  |
+| Coronaviridae (F) |  |  |
+| Betacoronavírus (G) |  |  |
+| Coronavírus relacionado com a síndrome respiratória aguda grave (vírus SRAG) | 3 |  |
+| Coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2) (1)(2) | 3 |  |
+| Coronavírus da síndrome respiratória do Médio Oriente (vírus MERS) | 3 |  |
+| Outros Coronaviridae reconhecidamente patogénicos | 2 |  |
+| Picornavirales (O) |  |  |
+| Picornaviridae (F) |  |  |
+| Cardiovírus (G) |  |  |
+| Vírus Saffold | 2 |  |
+| Cosavírus (G) |  |  |
+| Cosavírus A | 2 |  |
+| Enterovírus (G) |  |  |
+| Enterovírus A | 2 |  |
+| Enterovírus B | 2 |  |
+| Enterovírus C | 2 |  |
+| Enterovírus D, enterovírus humano tipo 70 (vírus da conjuntivite hemorrágica aguda) | 2 |  |
+| Rinovírus | 2 |  |
+| Poliovírus, tipos 1 e 3 | 2 | V |
+| Poliovírus, tipo 2 (3) | 3 | V |
+| Hepatovírus (G) |  |  |
+| Hepatovírus A (vírus da hepatite A, enterovírus humano tipo 72) | 2 | V |
+| Kobuvírus (G) |  |  |
+| Aichivírus A (aichivírus 1) | 2 |  |
+| Parechovírus (G) |  |  |
+| Parechovírus A | 2 |  |
+| Parechovírus B (vírus Ljungan) | 2 |  |
+| Outros Picornaviridae reconhecidamente patogénicos | 2 |  |
+| Não atribuída (O) |  |  |
+| Adenoviridae (F) | 2 |  |
+| Astroviridae (F) | 2 |  |
+| Arenaviridae (F) |  |  |
+| Mamarenavírus (G) |  |  |
+| Mamarenavírus brasileiro | 4 |  |
+| Mamarenavírus Chapare | 4 |  |
+| Mamarenavírus Flexal | 3 |  |
+| Mamarenavírus Guanarito | 4 |  |
+| Mamarenavírus Junín | 4 |  |
+| Mamarenavírus Lassa | 4 |  |
+| Mamarenavírus Lujo | 4 |  |
+| Mamarenavírus da coriomeningite linfocitária, estirpes neurotrópicas | 2 |  |
+| Mamarenavírus da coriomeningite linfocitária, outras estirpes | 2 |  |
+| Mamarenavírus Machupo | 4 |  |
+| Mamarenavírus Mobala | 2 |  |
+| Mamarenavírus Mopeia | 2 |  |
+| Mamarenavírus Tacaribe | 2 |  |
+| Mamarenavírus Whitewater Arroyo | 3 |  |
+| Caliciviridae (F) |  |  |
+| Norovírus (G) |  |  |
+| Norovírus (vírus de Norwalk) | 2 |  |
+| Outros Caliciviridae reconhecidamente patogénicos | 2 |  |
+| Hepadnaviridae (F) |  |  |
+| Ortohepadnavírus (G) |  |  |
+| Vírus da hepatite B | 3 (**) | V, D |
+| Hepeviridae (F) |  |  |
+| Ortohepevírus (G) |  |  |
+| Ortohepevírus A (vírus da hepatite E) | 2 |  |
+| Flaviviridae (F) |  |  |
+| Flavivírus (G) |  |  |
+| Vírus Dengue | 3 |  |
+| Vírus da encefalite japonesa | 3 | V |
+| Vírus da doença da floresta de Kyasanur | 3 | V |
+| Vírus da encefalomielite ovina (louping ill) | 3 (**) |  |
+| Vírus da encefalite Murray Valley (vírus da encefalite da Austrália) | 3 |  |
+| Vírus da febre hemorrágica de Omsk | 3 |  |
+| Vírus Powassan | 3 |  |
+| Vírus Rocio | 3 |  |
+| Vírus da encefalite St. Louis | 3 |  |
+| Vírus da encefalite transmitida por carraças |  |  |
+| Vírus Absettarov | 3 |  |
+| Vírus Hanzalova | 3 |  |
+| Vírus Hypr | 3 |  |
+| Vírus Kumlinge | 3 |  |
+| Vírus Negishi | 3 |  |
+| Vírus da encefalite verno-estival da Rússia (ª) | 3 | V |
+| Vírus da encefalite transmitida por carraças (subtipo da Europa Central) | 3 (**) | V |
+| Vírus da encefalite transmitida por carraças (subtipo do Extremo Oriente) | 3 |  |
+| Vírus da encefalite transmitida por carraças (subtipo da Sibéria) | 3 | V |
+| Vírus Wesselsbron | 3 (**) |  |
+| Vírus do Vale do Nilo | 3 |  |
+| Vírus da febre amarela | 3 | V |
+| Vírus Zika | 2 |  |
+| Outros flavivírus reconhecidamente patogénicos | 2 |  |
+| Hepacivírus (G) |  |  |
+| Hepacivírus C (vírus da hepatite C) | 3 (**) | D |
+| Orthomyxoviridae (F) |  |  |
+| Gamainfluenzavírus (G) |  |  |
+| Vírus da gripe C | 2 | V (c) |
+| Vírus da gripe A (G) |  |  |
+| Vírus da gripe aviária de alta patogenicidade HPAIV (H5), p. ex. H5N1 | 3 |  |
+| Vírus da gripe aviária de alta patogenicidade HPAIV (H7), p. ex. H7N7 e H7N9 | 3 |  |
+| Vírus da gripe A | 2 | V (c) |
+| Vírus A da gripe A/Nova Iorque/1/18 (H1N1) (gripe espanhola 1918) | 3 |  |
+| Vírus A da gripe A/Singapura/1/57 (H2N2) | 3 |  |
+| Vírus da gripe aviária de baixa patogenicidade (GABP) H7N9 | 3 |  |
+| Vírus da gripe B (G) |  |  |
+| Vírus da gripe B | 2 | V (c) |
+| Vírus Thogoto (G) |  |  |
+| Vírus Dhori (orthomyxoviridae transmitido por carraças: Dhori) | 2 |  |
+| Vírus Thogoto (orthomyxoviridae transmitido por carraças: Thogoto) | 2 |  |
+| Papillomaviridae (F) | 2 | D (d) |
+| Parvoviridae (F) |  |  |
+| Eritroparvovírus (G) |  |  |
+| Eritroparvovírus de primatas 1 (parvovírus humano, vírus B 19) | 2 |  |
+| Polyomaviridae (F) |  |  |
+| Betapoliomavírus (G) |  |  |
+| Betapoliomavírus humano 1 (vírus BK) | 2 | D (d) |
+| Poliomavírus humano 2 (vírus JC) | 2 | D (d) |
+| Poxviridae (F) |  |  |
+| Moluscipoxvírus (G) |  |  |
+| Vírus do molusco contagioso | 2 |  |
+| Ortopoxvírus (G) |  |  |
+| Vírus da varíola bovina | 2 |  |
+| Vírus da varíola do macaco | 3 | V |
+| Vírus Vaccinia [incluindo vírus da varíola do búfalo (e), vírus da varíola do elefante (f), vírus da varíola do coelho (g)] | 2 |  |
+| Vírus da varíola (major & minor) | 4 | V |
+| Parapoxvírus (G) |  |  |
+| Vírus Orf | 2 |  |
+| Vírus da pseudovaríola bovina (vírus dos nódulos dos tratadores de vacas, parapoxvírus bovis) | 2 |  |
+| Yatapoxvírus (G) |  |  |
+| Vírus Tanapox | 2 |  |
+| Vírus do tumor do macaco de Yaba | 2 |  |
+| Reoviridae (F) |  |  |
+| Seadornavírus (G) |  |  |
+| Vírus Banna | 2 |  |
+| Coltivírus (G) | 2 |  |
+| Rotavírus (G) | 2 |  |
+| Orbivírus (G) | 2 |  |
+| Retroviridae (F) |  |  |
+| Deltaretrovírus (G) |  |  |
+| Vírus linfotrópico-T de primatas 1 (vírus linfotrópico de células T humanas, tipo 1) | 3 (**) | D |
+| Vírus linfotrópico-T de primatas 2 (vírus linfotrópico de células T humanas, tipo 2) | 3 (**) | D |
+| Lentivírus (G) |  |  |
+| Vírus da imunodeficiência humana tipo 1 | 3 (**) | D |
+| Vírus da imunodeficiência humana tipo 2 | 3 (**) | D |
+| Vírus da imunodeficiência símia (SIV) (h) | 2 |  |
+| Togaviridae (F) |  |  |
+| Alfavírus (G) |  |  |
+| Cabassouvírus | 3 |  |
+| Vírus da encefalomielite equina do Leste | 3 | V |
+| Vírus Bebaru | 2 |  |
+| Vírus Chikungunya | 3 (**) |  |
+| Vírus Everglades | 3 (**) |  |
+| Vírus Mayaro | 3 |  |
+| Vírus Mucambo | 3 (**) |  |
+| Vírus Ndumu | 3 (**) |  |
+| Vírus O’nyong-nyong | 2 |  |
+| Vírus Ross River | 2 |  |
+| Vírus da floresta de Semliki | 2 |  |
+| Vírus Sindbis | 2 |  |
+| Vírus Tonate | 3 (**) |  |
+| Vírus da encefalomielite equina da Venezuela | 3 | V |
+| Vírus da encefalomielite equina do Oeste | 3 | V |
+| Outros alfavírus reconhecidamente patogénicos | 2 |  |
+| Rubivírus (G) |  |  |
+| Vírus da rubéola | 2 | V |
+| Não atribuída (F) |  |  |
+| Deltavírus (G) |  |  |
+| Vírus da hepatite delta (b) | 2 | V, D |
+
+(*) Ver nota introdutória n.º 7.
+
+(**) Ver nota introdutória n.º 8.
+
+(1) O trabalho não propagativo dos laboratórios de diagnóstico que envolva o SARS-CoV-2 deve ser realizado numa instalação que utilize procedimentos equivalentes, no mínimo, ao nível de confinamento 2.
+
+(2) O trabalho propagativo que envolva o SARS-CoV-2 deve ser realizado num laboratório com um nível de confinamento 3, com pressão negativa em relação à atmosfera.
+
+(3) Classificação de acordo com o Plano de Ação Mundial da OMS para minimizar os riscos de poliovírus associados à instalação, após erradicação de tipos específicos de poliovírus selva-gens e cessação sequencial da utilização da vacina oral contra a poliomielite.
+
+(
+
+a
+
+) Encefalite transmitida por carraças.
+
+(
+
+b
+
+) O vírus da hepatite delta só é patogénico para os trabalhadores na presença de uma infeção simultânea ou secundária provocada pelo vírus da hepatite B. A vacinação contra o vírus da he-patite B protegerá, por conseguinte, os trabalhadores não afetados pelo vírus da hepatite B con-tra os vírus da hepatite delta.
+
+(
+
+c
+
+) Unicamente no que respeita aos tipos A e B.
+
+(
+
+d
+
+) Para os trabalhos que impliquem um contacto direto com estes agentes.
+
+(
+
+e
+
+) Nesta rubrica podem ser identificados dois vírus: um tipo de vírus da varíola de búfalo e uma variante do vírus Vaccinia.
+
+(
+
+f
+
+) Variante do vírus da varíola bovina.
+
+(
+
+g
+
+) Variante de Vaccinia.
+
+(
+
+h
+
+) Não existe atualmente nenhuma prova de doença em seres humanos provocada por outros retrovírus de origem símia. Como precaução, recomenda-se um confinamento de nível 3 para os trabalhos com tais retrovírus.
+
+Agentes de doenças priónicas
+
+Nota. - Ver nota introdutória n.º 11.
+
+| Agente biológico | Classificação | Notas |
+| --- | --- | --- |
+| Agente da doença de Creutzfeldt-Jakob | 3 (*) | D (ª) |
+| Variante da doença de Creutzfeldt-Jakob | 3 (*) | D (ª) |
+| Agente da encefalopatia espongiforme bovina (BSE) e outras EET animais conexas | 3 (*) | D (ª) |
+| Agente da síndrome de Gerstmann-Sträussler-Scheinker | 3 (*) | D (ª) |
+| Agente de Kuru | 3 (*) | D (ª) |
+| Agente do tremor epizoótico dos ovinos (scrapie) | 2 |  |
+
+(*) Ver nota introdutória n.º 8.
+
+(ª) Para os trabalhos que impliquem um contacto direto com estes agentes.
+
+Parasitas
+
+Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção ‘spp.’ refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver notas introdutórias n.
+
+os
+
+3 e 11 para mais pormenores.
+
+| Agente biológico | Classificação | Notas |
+| --- | --- | --- |
+| Acanthamoeba castellani | 2 |  |
+| Ancylostoma duodenale | 2 |  |
+| Angiostrongylus cantonensis | 2 |  |
+| Angiostrongylus costaricensis | 2 |  |
+| Anisakis simplex | 2 | A |
+| Ascaris lumbricoides | 2 | A |
+| Ascaris suum | 2 | A |
+| Babesia divergens | 2 |  |
+| Babesia microti | 2 |  |
+| Balamuthia mandrillaris | 3 |  |
+| Balantidium coli | 2 |  |
+| Brugia malayi | 2 |  |
+| Brugia pahangi | 2 |  |
+| Brugia timori | 2 |  |
+| Capillaria philippinensis | 2 |  |
+| Capillaria spp. | 2 |  |
+| Clonorchis sinensis (Opisthorchis sinensis) | 2 |  |
+| Clonorchis viverrini (Opisthirchis viverrini) | 2 |  |
+| Cryptosporidium hominis | 2 |  |
+| Cryptosporidium parvum | 2 |  |
+| Cyclospora cayetanensis | 2 |  |
+| Dicrocoelium dentriticum | 2 |  |
+| Dipetalonema streptocerca | 2 |  |
+| Diphyllobothrium latum | 2 |  |
+| Dracunculus medinensis | 2 |  |
+| Echinococcus granulosus | 3 (*) |  |
+| Echinococcus multilocularis | 3 (*) |  |
+| Echinococcus oligarthrus | 3 (*) |  |
+| Echinococcus vogeli | 3 (*) |  |
+| Entamoeba histolytica | 2 |  |
+| Enterobius vermicularis | 2 |  |
+| Enterocytozoon bieneusi | 2 |  |
+| Fasciola gigantica | 2 |  |
+| Fasciola hepatica | 2 |  |
+| Fasciolopsis buski | 2 |  |
+| Giardia lamblia (Giardia duodenalis, Giardia intestinalis) | 2 |  |
+| Heterophyes spp. | 2 |  |
+| Hymenolepis diminuta | 2 |  |
+| Hymenolepis nana | 2 |  |
+| Leishmania aethiopica | 2 |  |
+| Leishmania braziliensis | 3 (*) |  |
+| Leishmania donovani | 3 (*) |  |
+| Leishmania guyanensis (Viannia guyanensis) | 3 (*) |  |
+| Leishmania infantum (Leishmania chagasi) | 3 (*) |  |
+| Leishmania major | 2 |  |
+| Leishmania mexicana | 2 |  |
+| Leishmania panamensis (Viannia panamensis) | 3 (*) |  |
+| Leishmania peruviana | 2 |  |
+| Leishmania tropica | 2 |  |
+| Leishmania spp. | 2 |  |
+| Loa loa | 2 |  |
+| Mansonella ozzardi | 2 |  |
+| Mansonella perstans | 2 |  |
+| Mansonella streptocerca | 2 |  |
+| Metagonimus spp. | 2 |  |
+| Naegleria fowleri | 3 |  |
+| Necator americanus | 2 |  |
+| Onchocerca volvulus | 2 |  |
+| Opisthorchis felineus | 2 |  |
+| Opisthorchis spp. | 2 |  |
+| Paragonimus westermani | 2 |  |
+| Paragonimus spp. | 2 |  |
+| Plasmodium falciparum | 3 (*) |  |
+| Plasmodium knowlesi | 3 (*) |  |
+| Plasmodium spp. (humano e símio) | 2 |  |
+| Sarcocystis suihominis | 2 |  |
+| Schistosoma haematobium | 2 |  |
+| Schistosoma intercalatum | 2 |  |
+| Schistosoma japonicum | 2 |  |
+| Schistosoma mansoni | 2 |  |
+| Schistosoma mekongi | 2 |  |
+| Strongyloides stercoralis | 2 |  |
+| Strongyloides spp. | 2 |  |
+| Taenia saginata | 2 |  |
+| Taenia solium | 3 (*) |  |
+| Toxocara canis | 2 |  |
+| Toxocara cati | 2 |  |
+| Toxoplasma gondii | 2 |  |
+| Trichinella nativa | 2 |  |
+| Trichinella nelsoni | 2 |  |
+| Trichinella pseudospiralis | 2 |  |
+| Trichinella spiralis | 2 |  |
+| Trichomonas vaginalis | 2 |  |
+| Trichostrongylus orientalis | 2 |  |
+| Trichostrongylus spp. | 2 |  |
+| Trichuris trichiura | 2 |  |
+| Trypanosoma brucei brucei | 2 |  |
+| Trypanosoma brucei gambiense | 2 |  |
+| Trypanosoma brucei rhodesiense | 3 (*) |  |
+| Trypanosoma cruzi | 3 (*) |  |
+| Wuchereria bancrofti | 2 |  |
+
+(*) Ver nota introdutória n.º 8.
+
+Fungos
+
+Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção ‘spp.’ refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver notas introdutórias n.
+
+os
+
+3 e 11 para mais pormenores.
+
+| Agente biológico | Classificação | Notas |
+| --- | --- | --- |
+| Aspergillus flavus | 2 | A |
+| Aspergillus fumigatus | 2 | A |
+| Aspergillus spp. | 2 |  |
+| Blastomyces dermatitidis (Ajellomyces dermatitidis) | 3 |  |
+| Blastomyces gilchristii | 3 |  |
+| Candida albicans | 2 | A |
+| Candida dubliniensis | 2 |  |
+| Candida glabrata | 2 |  |
+| Candida parapsilosis | 2 |  |
+| Candida tropicalis | 2 |  |
+| Cladophialophora bantiana (Xylohypha bantiana, Cladosporium bantianum, trichoides) | 3 |  |
+| Cladophialophora modesta | 3 |  |
+| Cladophialophora spp. | 2 |  |
+| Coccidioides immitis | 3 | A |
+| Coccidioides posadasii | 3 | A |
+| Cryptococcus gattii (Filobasidiella neoformans var. bacillispora) | 2 | A |
+| Cryptococcus neoformans (Filobasidiella neoformans var. neoformans) | 2 | A |
+| Emmonsia parva var. parva | 2 |  |
+| Emmonsia parva var. crescens | 2 |  |
+| Epidermophyton floccosum | 2 | A |
+| Epidermophyton spp. | 2 |  |
+| Fonsecaea pedrosoi | 2 |  |
+| Histoplasma capsulatum | 3 |  |
+| Histoplasma capsulatum var. farciminosum | 3 |  |
+| Histoplasma duboisii | 3 |  |
+| Madurella grisea | 2 |  |
+| Madurella mycetomatis | 2 |  |
+| Microsporum spp. | 2 | A |
+| Nannizzia spp. | 2 |  |
+| Neotestudina rosatii | 2 |  |
+| Paracoccidioides brasiliensis | 3 | A |
+| Paracoccidioides lutzii | 3 |  |
+| Paraphyton spp. | 2 |  |
+| Rhinocladiella mackenziei | 3 |  |
+| Scedosporium apiospermum | 2 |  |
+| Scedosporium prolificans (inflatum) | 2 |  |
+| Sporothrix schenckii | 2 |  |
+| Talaromyces marneffei (Penicillium marneffei) | 2 | A |
+| Trichophyton rubrum | 2 | A |
+| Trichophyton tonsurans | 2 | A |
+| Trichophyton spp. | 2» |  |
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 118/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2024-901661917), em vigor a partir de 2025-01-05
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04

@@ -1,0 +1,335 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006D0968:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006D0968-20210421",
+ "dre_path": null,
+ "source_lastmod": "2021-04-21",
+ "versions": [
+  {
+   "date": "2007-06-05",
+   "future": false,
+   "celex": "32006D0968",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "734b3df556087853",
+    "5deb37c0bae14001",
+    "001e3de8712f8eb6",
+    "e8a002886a0256f0",
+    "b2ae6fd60755c417"
+   ]
+  },
+  {
+   "date": "2008-06-01",
+   "future": false,
+   "celex": "02006D0968-20080601",
+   "acts": [
+    {
+     "id": "eu:celex:32008D0337:por",
+     "title": "DECISÃO DA COMISSÃO de 24 de Abril de 2008",
+     "published": null,
+     "celex": "32008D0337"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Orientações e procedimentos para a aprovação dos identificadores e leitores para a identificação electrónica de ovinos e caprinos, nos termos do Regulamento (CE) n.º 21/2004",
+    "Adita CAPÍTULO I",
+    "Adita Definições",
+    "Adita CAPÍTULO II",
+    "Adita Identificadores",
+    "Adita CAPÍTULO III",
+    "Adita Leitores",
+    "Adita CAPÍTULO IV",
+    "Adita Laboratórios de ensaios"
+   ],
+   "fragments": [
+    "7f02ca1bad5944c4",
+    "5deb37c0bae14001",
+    "001e3de8712f8eb6",
+    "07df00cd0b4c72f1",
+    "10220b9774fa9034",
+    "45efecc41f02da95",
+    "65f14aa49187d775",
+    "5c244834d61a1a77",
+    "121e803aa0ba200d",
+    "2a19e562330c45aa",
+    "c14574caf157ff66",
+    "14f1f6ef4529daf2",
+    "fe519ff290f3893a",
+    "59aa9c6e043b906f",
+    "52463029558c263f"
+   ]
+  },
+  {
+   "date": "2010-07-01",
+   "future": false,
+   "celex": "02006D0968-20100701",
+   "acts": [
+    {
+     "id": "eu:celex:32010D0280:por",
+     "title": "DECISÃO DA COMISSÃO de 12 de Maio de 2010",
+     "published": null,
+     "celex": "32010D0280"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Definições",
+    "Altera Identificadores",
+    "Altera Leitores",
+    "Altera Notas",
+    "Adita Laboratórios e procedimentos de ensaio",
+    "Suprime Laboratórios de ensaios"
+   ],
+   "fragments": [
+    "0dca94053e7be51d",
+    "5deb37c0bae14001",
+    "001e3de8712f8eb6",
+    "07df00cd0b4c72f1",
+    "10220b9774fa9034",
+    "45efecc41f02da95",
+    "65f14aa49187d775",
+    "0ab3cbb59b4e9be4",
+    "121e803aa0ba200d",
+    "662e0ddf2f1d35d5",
+    "c14574caf157ff66",
+    "e0d7c952c857de43",
+    "fe519ff290f3893a",
+    "900d9e0901b3aa33",
+    "82d92584b68e1d5a"
+   ]
+  },
+  {
+   "date": "2021-04-21",
+   "future": false,
+   "celex": "02006D0968-20210421",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime ANEXO",
+    "Suprime Orientações e procedimentos para a aprovação dos identificadores e leitores para a identificação electrónica de ovinos e caprinos, nos termos do Regulamento (CE) n.º 21/2004",
+    "Suprime CAPÍTULO I",
+    "Suprime Definições",
+    "Suprime CAPÍTULO II",
+    "Suprime Identificadores",
+    "Suprime CAPÍTULO III",
+    "Suprime Leitores",
+    "Suprime CAPÍTULO IV",
+    "Suprime Laboratórios e procedimentos de ensaio",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "6afcb8412ec6e1da"
+   ]
+  }
+ ],
+ "fragments": {
+  "734b3df556087853": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 2006\n\nque dá execução ao Regulamento (CE) n.º 21/2004 do Conselho no que diz respeito às orientações e aos procedimentos relativos à identificação electrónica dos ovinos e caprinos\n\n[notificada com o número C(2006) 6522]\n\n(Texto relevante para efeitos do EEE)\n\n(2006/968/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 21/2004 do Conselho, de 17 de Dezembro de 2003, que estabelece um sistema de identificação e registo de ovinos e caprinos e que altera o Regulamento (CE) n.º 1782/2003 e as Directivas 92/102/CEE e 64/432/CEE [([^1])](http://publications.europa.eu/resource/cellar/c5d3bc5a-1802-4215-957e-00d897847c0d.0016.03/DOC_1#ntr1-L_2006401PT.01004101-E0001), nomeadamente o n.º 1 do artigo 9.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 21/2004 dispõe que cada Estado-Membro estabeleça um sistema de identificação e registo de ovinos e caprinos, em conformidade com as disposições desse regulamento.\n\n(2) O Regulamento (CE) n.º 21/2004 também dispõe que todos os animais de uma exploração nascidos depois de 9 de Julho de 2005 sejam identificados por dois meios de identificação. O primeiro meio de identificação consiste numa marca auricular e o segundo meio de identificação está previsto no ponto 4 da secção A do anexo do referido regulamento. O segundo meio de identificação pode ser um transpondedor electrónico. Além disso, o artigo 9.º do Regulamento (CE) n.º 21/2004 dispõe que, a partir de 1 de Janeiro de 2008, ou de outra data que possa ser fixada pelo Conselho, a identificação electrónica como segundo meio de identificação passará a ser obrigatória para todos os animais.\n\n(3) Para melhorar a sua execução, o Regulamento (CE) n.º 21/2004 prevê que a Comissão adopte orientações e procedimentos relativos à aplicação da identificação electrónica. Tais orientações e procedimentos devem ser aplicados a animais em que a identificação electrónica já é utilizada como segundo meio de identificação e a todos os animais a partir da data prevista no n.º 3 do artigo 9.º desse regulamento.\n\n(4) De forma a assegurar que os identificadores a aplicar aos ovinos e caprinos para efeitos do Regulamento (CE) n.º 21/2004 sejam legíveis em todos os Estados-Membros, a presente decisão deve estabelecer, para a aprovação dos identificadores, requisitos mínimos relativos a determinados ensaios de conformidade e desempenho.\n\n(5) A fim de orientar os Estados-Membros no que se refere aos leitores, a presente decisão deve estabelecer requisitos mínimos relativos a determinados ensaios de conformidade e desempenho, tendo em conta que o Regulamento (CE) n.º 21/2004 não prevê que todos os operadores sejam obrigados a possuir um leitor.\n\n(6) Devido às diferentes condições geográficas e aos diferentes sistemas de criação em que são mantidos os ovinos e caprinos na Comunidade, os Estados-Membros devem ter a possibilidade de requerer ensaios adicionais de desempenho, tendo em conta as condições nacionais específicas.\n\n(7) A Organização Internacional de Normalização (ISO) publicou normas relativas a determinados aspectos da identificação por radiofrequência (RFID) dos animais. Adicionalmente, o Comité Internacional para o Controlo da Produtividade Animal (ICAR — *International Committee for Animal Recording*) desenvolveu vários procedimentos com vista a verificar a conformidade de determinadas características da RFID com as normas ISO. Estes procedimentos foram publicados no *International Agreement on Recording Practices* (Acordo Internacional sobre Práticas de Controlo da Produtividade), na versão aprovada pela Assembleia-Geral do ICAR, em Junho de 2004. As normas ISO são aceites e utilizadas internacionalmente, devendo, portanto, ser tidas em conta na presente decisão.\n\n(8) O Centro Comum de Investigação (CCI) da Comissão desenvolveu orientações técnicas em que se especificam ensaios para avaliar o desempenho e a fiabilidade dos dispositivos de RFID, publicadas no sítio *Web* do CCI como normas técnicas do CCI. Os elementos essenciais dessas orientações devem ser tidos em conta na presente decisão.\n\n(9) O Comité Europeu de Normalização (CEN) publicou normas técnicas relativas à acreditação dos laboratórios de ensaios. Estas normas (normas EN) são aceites e utilizadas internacionalmente, devendo, portanto, ser tidas em conta na presente decisão.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "5deb37c0bae14001": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo da presente decisão estabelece as orientações e os procedimentos relativos à identificação electrónica dos animais:\n\na) Para o segundo meio de identificação, previsto no n.º 2, alínea b), do artigo 4.º do Regulamento (CE) n.º 21/2004 e referido no quarto travessão do ponto 4 da secção A do anexo desse mesmo regulamento; e\n\nb) Prevista no n.º 3, primeiro parágrafo, do artigo 9.º do Regulamento (CE) n.º 21/2004."
+  },
+  "001e3de8712f8eb6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente decisão é aplicável a partir do vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "e8a002886a0256f0": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 15 de Dezembro de 2006.\n\n***Pela Comissão***\n\n**Markos KYPRIANOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "b2ae6fd60755c417": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c5d3bc5a-1802-4215-957e-00d897847c0d.0016.03/DOC_1#ntc1-L_2006401PT.01004101-E0001) [JO L 5 de 9.1.2004, p. 8](http://publications.europa.eu/resource/oj/JOL_2004_005_R_TOC)."
+  },
+  "7f02ca1bad5944c4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 2006\n\nque dá execução ao Regulamento (CE) n.º 21/2004 do Conselho no que diz respeito às orientações e aos procedimentos relativos à identificação electrónica dos ovinos e caprinos\n\n[notificada com o número C(2006) 6522]\n\n(Texto relevante para efeitos do EEE)\n\n(2006/968/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 21/2004 do Conselho, de 17 de Dezembro de 2003, que estabelece um sistema de identificação e registo de ovinos e caprinos e que altera o Regulamento (CE) n.º 1782/2003 e as Directivas 92/102/CEE e 64/432/CEE ([^1^](http://publications.europa.eu/resource/cellar/54762526-8228-41a5-a32a-70d48e74488c.0018.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 9.º,\n\n(1) O Regulamento (CE) n.º 21/2004 dispõe que cada Estado-Membro estabeleça um sistema de identificação e registo de ovinos e caprinos, em conformidade com as disposições desse regulamento.\n\n(2) O Regulamento (CE) n.º 21/2004 também dispõe que todos os animais de uma exploração nascidos depois de 9 de Julho de 2005 sejam identificados por dois meios de identificação. O primeiro meio de identificação consiste numa marca auricular e o segundo meio de identificação está previsto no ponto 4 da secção A do anexo do referido regulamento. O segundo meio de identificação pode ser um transpondedor electrónico. Além disso, o artigo 9.º do Regulamento (CE) n.º 21/2004 dispõe que, a partir de 1 de Janeiro de 2008, ou de outra data que possa ser fixada pelo Conselho, a identificação electrónica como segundo meio de identificação passará a ser obrigatória para todos os animais.\n\n(3) Para melhorar a sua execução, o Regulamento (CE) n.º 21/2004 prevê que a Comissão adopte orientações e procedimentos relativos à aplicação da identificação electrónica. Tais orientações e procedimentos devem ser aplicados a animais em que a identificação electrónica já é utilizada como segundo meio de identificação e a todos os animais a partir da data prevista no n.º 3 do artigo 9.º desse regulamento.\n\n(4) De forma a assegurar que os identificadores a aplicar aos ovinos e caprinos para efeitos do Regulamento (CE) n.º 21/2004 sejam legíveis em todos os Estados-Membros, a presente decisão deve estabelecer, para a aprovação dos identificadores, requisitos mínimos relativos a determinados ensaios de conformidade e desempenho.\n\n(5) A fim de orientar os Estados-Membros no que se refere aos leitores, a presente decisão deve estabelecer requisitos mínimos relativos a determinados ensaios de conformidade e desempenho, tendo em conta que o Regulamento (CE) n.º 21/2004 não prevê que todos os operadores sejam obrigados a possuir um leitor.\n\n(6) Devido às diferentes condições geográficas e aos diferentes sistemas de criação em que são mantidos os ovinos e caprinos na Comunidade, os Estados-Membros devem ter a possibilidade de requerer ensaios adicionais de desempenho, tendo em conta as condições nacionais específicas.\n\n(7) A Organização Internacional de Normalização (ISO) publicou normas relativas a determinados aspectos da identificação por radiofrequência (RFID) dos animais. Adicionalmente, o Comité Internacional para o Controlo da Produtividade Animal (ICAR — *International Committee for Animal Recording*) desenvolveu vários procedimentos com vista a verificar a conformidade de determinadas características da RFID com as normas ISO. Estes procedimentos foram publicados no *International Agreement on Recording Practices* (Acordo Internacional sobre Práticas de Controlo da Produtividade), na versão aprovada pela Assembleia-Geral do ICAR, em Junho de 2004. As normas ISO são aceites e utilizadas internacionalmente, devendo, portanto, ser tidas em conta na presente decisão.\n\n(8) O Centro Comum de Investigação (CCI) da Comissão desenvolveu orientações técnicas em que se especificam ensaios para avaliar o desempenho e a fiabilidade dos dispositivos de RFID, publicadas no sítio *Web* do CCI como normas técnicas do CCI. Os elementos essenciais dessas orientações devem ser tidos em conta na presente decisão.\n\n(9) O Comité Europeu de Normalização (CEN) publicou normas técnicas relativas à acreditação dos laboratórios de ensaios. Estas normas (normas EN) são aceites e utilizadas internacionalmente, devendo, portanto, ser tidas em conta na presente decisão.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "07df00cd0b4c72f1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "45efecc41f02da95": {
+   "fragment_id": "Orientações e procedimentos para a aprovação dos identificadores e leitores para a identificação electrónica de ovinos e caprinos, nos termos do Regulamento (CE) n.º 21/2004",
+   "type": "divisao",
+   "heading": "Orientações e procedimentos para a aprovação dos identificadores e leitores para a identificação electrónica de ovinos e caprinos, nos termos do Regulamento (CE) n.º 21/2004",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Orientações e procedimentos para a aprovação dos identificadores e leitores para a identificação electrónica de ovinos e caprinos, nos termos do Regulamento (CE) n.º 21/2004"
+  },
+  "65f14aa49187d775": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO I"
+  },
+  "5c244834d61a1a77": {
+   "fragment_id": "Definições",
+   "type": "divisao",
+   "heading": "Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Definições\n\nPara efeitos das presentes orientações, são aplicáveis as definições seguintes:\n\na) «Código do país»: um código numérico de três dígitos que representa o nome de um país em conformidade com a norma ISO 3166;\n\nb) «Código de identificação nacional»: um código numérico de 12 dígitos que identifica cada animal a nível nacional;\n\nc) «Código do transpondedor»: código electrónico de 64 bits programado no transpondedor e que contém, *inter alia*, o código do país e o código de identificação nacional, utilizado para a identificação electrónica dos animais;\n\nd) «Identificador»: um transpondedor passivo só de leitura que utilize a tecnologia HDX ou FDX-B, como definido nas normas ISO 11784 e ISO 11785 e incorporado em diferentes meios de identificação, como referido no anexo A do Regulamento (CE) n.º 21/2004;\n\ne) «Leitor»: um emissor-receptor sincrónico ou não-sincrónico, capaz de, pelo menos:\n\ni) ler os identificadores, e\n\nii) indicar o código do país e o código de identificação nacional;\n\nf) «Emissor-receptor sincrónico»: emissor-receptor que respeita plenamente a norma ISO 11785 e é capaz de detectar a presença de outros emissores-receptores;\n\ng) «Emissor-receptor não-sincrónico»: emissor-receptor que não respeita o ponto 6 da norma ISO 11785 e não é capaz de detectar a presença de outros emissores-receptores."
+  },
+  "121e803aa0ba200d": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO II"
+  },
+  "2a19e562330c45aa": {
+   "fragment_id": "Identificadores",
+   "type": "divisao",
+   "heading": "Identificadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Identificadores\n\n1. A autoridade competente só aprovará a utilização de identificadores que, pelo menos, tenham sido testados, com resultados favoráveis, em conformidade com os métodos especificados no Acordo Internacional sobre Práticas de Controlo da Produtividade do Comité Internacional para o Controlo da Produtividade Animal (Directrizes do ICAR), referidos nas seguintes alíneas a) e b), no que se refere aos seguintes aspectos:\n\na) Conformidade com as normas ISO 11784 e ISO 11785, de acordo com o método especificado na secção 10.2.6.2.1, «*Conformance evaluation of RFID devices, Part 1: ISO 11784/11785 — conformance of transponders including granting and use of a manufacturer code*»; e\n\nb) Capacidade de desempenho às distâncias de leitura indicadas na secção A, ponto 6, terceiro travessão, do anexo do Regulamento (CE) n.º 21/2004, de acordo com o método especificado na secção 10, apêndice 10.5 «*Performance evaluation of RFID devices, Part 1: ISO 11784/11785 — performance of transponders*», que incluirá medições:\n\ni) da intensidade do campo de activação,\n\nii) do momento dipolar, e\n\niii) da estabilidade do comprimento de bits para o sistema FDX-B e da estabilidade de frequência para o HDX.\n\n2. Os ensaios referidos no ponto 1 serão realizados numa quantidade mínima de 50 identificadores de cada modelo a testar.\n\n3. A estrutura do código do transpondedor será conforme com a norma ISO 11784 e as descrições indicadas no quadro seguinte:\n\n| N.º de bit(s) | N.º de dígitos | N.º de combinações | Descrição |\n| --- | --- | --- | --- |\n| 1 | 1 | 2 | Este bit indica se o identificador é utilizado para identificação animal ou não. Em todas as aplicações em animais, este bit tem o valor «1» |\n| 2-4 | 1 | 8 | Contador de recolocação de marcas auriculares (0 a 7) |\n| 5-9 | 2 | 32 | Campo de informação aos utilizadores. Este bit tem o valor «04» que codifica o código da Nomenclatura Combinada para ovinos e caprinos, em conformidade com o capítulo 1, secção I, parte II, do anexo do Regulamento (CEE) n.º 2658/87 do Conselho [(^1^)](http://publications.europa.eu/resource/cellar/54762526-8228-41a5-a32a-70d48e74488c.0018.03/DOC_1#E0002) |\n| 10-15 | 2 | 64 | Vazio — só zeros (zona reservada a aplicações futuras) |\n| 16 | 1 | 2 | Este bit indica a presença ou não de um bloco de dados (para utilização em animais, este bit tem o valor «0» = bloco sem dados) |\n| 17-26 | 4 | 1 024 | Código do país como definido na alínea a) do capítulo 1 |\n| 27-64 | 12 | 274 877 906 944 | Código de identificação nacional como definido na alínea b) do capítulo 1. Se o código de identificação nacional tiver menos de 12 dígitos, o espaço entre o código de identificação nacional e o código do país deve ser completado com zeros |\n| (^1^)JO L 256 de 7.9.1987, p. 1. |  |  |  |\n\n4. A autoridade competente pode requerer ensaios adicionais em termos da robustez e resistência dos identificadores, de acordo com os procedimentos descritos na parte 2 das Orientações Técnicas do Centro Comum de Investigação (CCI) da Comissão.\n\n5. A autoridade competente pode requerer outros critérios de desempenho para assegurar a funcionalidade dos identificadores conforme as condições geográficas, climáticas e de gestão específicas do Estado-Membro em causa."
+  },
+  "c14574caf157ff66": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO III"
+  },
+  "14f1f6ef4529daf2": {
+   "fragment_id": "Leitores",
+   "type": "divisao",
+   "heading": "Leitores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Leitores\n\n1. A autoridade competente só aprovará a utilização de leitores que, pelo menos, tenham sido testados quanto à sua conformidade com as normas ISO 11784 e ISO 11785, com resultados favoráveis, de acordo com os métodos especificados nas Directrizes do ICAR, como referido nas seguintes alíneas a) e b), através do ensaio de conformidade para:\n\na) Emissores-transmissores sincrónicos, de acordo com os métodos especificados na secção 10.3.5.2 «*Conformance evaluation of RFID devices, Part 2: ISO 11784/11785 — conformance of transceivers*»; ou\n\nb) Emissores-transmissores não-sincrónicos, de acordo com os métodos especificados na secção 10.4.5.2 «*Conformance evaluation of RFID devices, Part 3: Conformance test for non-synchronising transceivers for reading ISO 11784/11785 transponders*».\n\n2. A autoridade competente pode requerer:\n\na) Ensaios adicionais em termos da robustez e resistência mecânica e térmica dos leitores de acordo com os procedimentos descritos na parte 2 das Orientações Técnicas do CCI; e\n\nb) Ensaios de desempenho electromagnético, como especificado nas Directrizes do ICAR, secção 10, apêndice 10.6.2, «*Performance evaluation of RFID devices, Part 2: ISO 11784/11785 — performance of handheld transceivers*»."
+  },
+  "fe519ff290f3893a": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CAPÍTULO IV"
+  },
+  "59aa9c6e043b906f": {
+   "fragment_id": "Laboratórios de ensaios",
+   "type": "divisao",
+   "heading": "Laboratórios de ensaios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Laboratórios de ensaios\n\n1. A autoridade competente deve designar os laboratórios de ensaios para a realização dos ensaios previstos na presente decisão.\n\n2. Contudo, a autoridade competente só pode designar laboratórios de ensaios que funcionem e estejam avaliados e acreditados em conformidade com o n.º 2, alínea a), do artigo 12.º do Regulamento (CE) n.º 882/2004. O artigo 18.º do Regulamento (CE) n.º 2076/2005 é aplicável até 31 de Dezembro de 2009.\n\n3. Os Estados-Membros devem elaborar e manter listas actualizadas dos laboratórios de ensaios designados pelas autoridades competentes e colocar essa informação à disposição dos outros Estados-Membros e do público num sítio *Web*.\n\n---"
+  },
+  "52463029558c263f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/54762526-8228-41a5-a32a-70d48e74488c.0018.03/DOC_1#src.E0001)) JO L 5 de 9.1.2004, p. 8."
+  },
+  "0dca94053e7be51d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 2006\n\nque dá execução ao Regulamento (CE) n.º 21/2004 do Conselho no que diz respeito às orientações e aos procedimentos relativos à identificação electrónica dos ovinos e caprinos\n\n[notificada com o número C(2006) 6522]\n\n(Texto relevante para efeitos do EEE)\n\n(2006/968/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 21/2004 do Conselho, de 17 de Dezembro de 2003, que estabelece um sistema de identificação e registo de ovinos e caprinos e que altera o Regulamento (CE) n.º 1782/2003 e as Directivas 92/102/CEE e 64/432/CEE ([^1^](http://publications.europa.eu/resource/cellar/82cc5204-3167-4986-b405-ba358cb6ab98.0018.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 9.º,\n\n(1) O Regulamento (CE) n.º 21/2004 dispõe que cada Estado-Membro estabeleça um sistema de identificação e registo de ovinos e caprinos, em conformidade com as disposições desse regulamento.\n\n(2) O Regulamento (CE) n.º 21/2004 também dispõe que todos os animais de uma exploração nascidos depois de 9 de Julho de 2005 sejam identificados por dois meios de identificação. O primeiro meio de identificação consiste numa marca auricular e o segundo meio de identificação está previsto no ponto 4 da secção A do anexo do referido regulamento. O segundo meio de identificação pode ser um transpondedor electrónico. Além disso, o artigo 9.º do Regulamento (CE) n.º 21/2004 dispõe que, a partir de 1 de Janeiro de 2008, ou de outra data que possa ser fixada pelo Conselho, a identificação electrónica como segundo meio de identificação passará a ser obrigatória para todos os animais.\n\n(3) Para melhorar a sua execução, o Regulamento (CE) n.º 21/2004 prevê que a Comissão adopte orientações e procedimentos relativos à aplicação da identificação electrónica. Tais orientações e procedimentos devem ser aplicados a animais em que a identificação electrónica já é utilizada como segundo meio de identificação e a todos os animais a partir da data prevista no n.º 3 do artigo 9.º desse regulamento.\n\n(4) De forma a assegurar que os identificadores a aplicar aos ovinos e caprinos para efeitos do Regulamento (CE) n.º 21/2004 sejam legíveis em todos os Estados-Membros, a presente decisão deve estabelecer, para a aprovação dos identificadores, requisitos mínimos relativos a determinados ensaios de conformidade e desempenho.\n\n(5) A fim de orientar os Estados-Membros no que se refere aos leitores, a presente decisão deve estabelecer requisitos mínimos relativos a determinados ensaios de conformidade e desempenho, tendo em conta que o Regulamento (CE) n.º 21/2004 não prevê que todos os operadores sejam obrigados a possuir um leitor.\n\n(6) Devido às diferentes condições geográficas e aos diferentes sistemas de criação em que são mantidos os ovinos e caprinos na Comunidade, os Estados-Membros devem ter a possibilidade de requerer ensaios adicionais de desempenho, tendo em conta as condições nacionais específicas.\n\n(7) A Organização Internacional de Normalização (ISO) publicou normas relativas a determinados aspectos da identificação por radiofrequência (RFID) dos animais. Adicionalmente, o Comité Internacional para o Controlo da Produtividade Animal (ICAR — *International Committee for Animal Recording*) desenvolveu vários procedimentos com vista a verificar a conformidade de determinadas características da RFID com as normas ISO. Estes procedimentos foram publicados no *International Agreement on Recording Practices* (Acordo Internacional sobre Práticas de Controlo da Produtividade), na versão aprovada pela Assembleia-Geral do ICAR, em Junho de 2004. As normas ISO são aceites e utilizadas internacionalmente, devendo, portanto, ser tidas em conta na presente decisão.\n\n(8) O Centro Comum de Investigação (CCI) da Comissão desenvolveu orientações técnicas em que se especificam ensaios para avaliar o desempenho e a fiabilidade dos dispositivos de RFID, publicadas no sítio *Web* do CCI como normas técnicas do CCI. Os elementos essenciais dessas orientações devem ser tidos em conta na presente decisão.\n\n(9) O Comité Europeu de Normalização (CEN) publicou normas técnicas relativas à acreditação dos laboratórios de ensaios. Estas normas (normas EN) são aceites e utilizadas internacionalmente, devendo, portanto, ser tidas em conta na presente decisão.\n\n(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "0ab3cbb59b4e9be4": {
+   "fragment_id": "Definições",
+   "type": "divisao",
+   "heading": "Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Definições\n\nPara efeitos das presentes orientações, são aplicáveis as definições seguintes:\n\na) «Código do país»: um código numérico de três dígitos que representa o nome de um país em conformidade com a norma ISO 3166;\n\nb) «Código de identificação nacional»: um código numérico de 12 dígitos que identifica cada animal a nível nacional;\n\nc) «Código do transpondedor»: código electrónico de 64 bits programado no transpondedor e que contém, *inter alia*, o código do país e o código de identificação nacional, utilizado para a identificação electrónica dos animais;\n\nd) «Identificador»: um transpondedor passivo só de leitura que utilize a tecnologia HDX ou FDX-B, como definido nas normas ISO 11784 e ISO 11785 e incorporado em diferentes meios de identificação, como referido no anexo A do Regulamento (CE) n.º 21/2004;\n\ne) «Leitor»: um emissor-receptor sincrónico ou não-sincrónico, capaz de, pelo menos:\n\ni) ler os identificadores, e\n\nii) indicar o código do país e o código de identificação nacional;"
+  },
+  "662e0ddf2f1d35d5": {
+   "fragment_id": "Identificadores",
+   "type": "divisao",
+   "heading": "Identificadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Identificadores\n\n1. A autoridade competente só aprovará a utilização de identificadores que tenham sido testados, com resultados favoráveis no que se refere aos seguintes aspectos:\n\na) Conformidade com as normas ISO 11784 e ISO 11785, de acordo com os procedimentos de ensaio especificados no ponto 7 da norma ISO 24631-1; e\n\nb) Cumprimento de um desempenho mínimo em termos de distância de leitura, tal como definido no ponto 2, em conformidade com os procedimentos especificados no ponto 7 da norma ISO 24631-3.\n\n2. No sentido de alcançar estas distâncias de leitura, tal como definidas na secção A, ponto 6, alínea c), do anexo do Regulamento (CE) n.º 21/2004, o transpondedor tem de cumprir os seguintes parâmetros:\n\na) Os transpondedores que utilizam tecnologia HDX devem possuir uma força mínima de activação do campo magnético inferior ou igual a 1,2 A/m, medida em conformidade com a parte 7.6.5 «*Minimal activating magnetic field strength in HDX mode*» da norma ISO 24631-3 e devem desenvolver uma amplitude de modulação equivalente a 10 mV em resposta a uma força de campo magnético igual ou inferior a 1,2 A/m, medida em conformidade com a parte 7.6.7 «*Modulation amplitude in HDX mode*» da norma ISO 24631-3;\n\nb) Os transpondedores que utilizam tecnologia FDX-B devem possuir uma força mínima de activação do campo magnético inferior ou igual a 1,2 A/m, medida em conformidade com a parte 7.6.4 «*Minimal activating magnetic field strength in FDX-B mode*» da norma ISO 24631-3 e devem desenvolver uma amplitude de modulação equivalente a 10 mV em resposta a uma força de campo magnético igual ou inferior a 1,2 A/m, medida em conformidade com a parte 7.6.6 «*Modulation amplitude in FDX-B mode*» da norma ISO 24631-3.;\n\n3. A estrutura do código do transpondedor será conforme com a norma ISO 11784 e as descrições indicadas no quadro seguinte:\n\n| N.º de bit(s) | N.º de dígitos | N.º de combinações | Descrição |\n| --- | --- | --- | --- |\n| 1 | 1 | 2 | Este bit indica se o identificador é utilizado para identificação animal ou não. Em todas as aplicações em animais, este bit tem o valor «1» |\n| 2-4 | 1 | 8 | Contador de recolocação de marcas auriculares (0 a 7) |\n| 5-9 | 2 | 32 | Campo de informação aos utilizadores. Este bit tem o valor «04» que codifica o código da Nomenclatura Combinada para ovinos e caprinos, em conformidade com o capítulo 1, secção I, parte II, do anexo do Regulamento (CEE) n.º 2658/87 do Conselho [(^1^)](http://publications.europa.eu/resource/cellar/82cc5204-3167-4986-b405-ba358cb6ab98.0018.03/DOC_1#E0002) |\n| 10-15 | 2 | 64 | Vazio — só zeros (zona reservada a aplicações futuras) |\n| 16 | 1 | 2 | Este bit indica a presença ou não de um bloco de dados (para utilização em animais, este bit tem o valor «0» = bloco sem dados) |\n| 17-26 | 4 | 1 024 | Código do país como definido na alínea a) do capítulo 1 |\n| 27-64 | 12 | 274 877 906 944 | Código de identificação nacional como definido na alínea b) do capítulo 1. Se o código de identificação nacional tiver menos de 12 dígitos, o espaço entre o código de identificação nacional e o código do país deve ser completado com zeros |\n| (^1^)JO L 256 de 7.9.1987, p. 1. |  |  |  |\n\n4. A autoridade competente pode requerer ensaios adicionais em termos da robustez e resistência dos identificadores, de acordo com os procedimentos descritos na parte 2 das Orientações Técnicas do Centro Comum de Investigação (CCI) da Comissão.\n\n5. A autoridade competente pode requerer outros critérios de desempenho para assegurar a funcionalidade dos identificadores conforme as condições geográficas, climáticas e de gestão específicas do Estado-Membro em causa.\n\n6. As aprovações concedidas pela autoridade competente até 30 de Junho de 2010 para identificadores testados em conformidade com os métodos de aprovação de identificadores aplicáveis até essa data devem continuar a ser válidas.."
+  },
+  "e0d7c952c857de43": {
+   "fragment_id": "Leitores",
+   "type": "divisao",
+   "heading": "Leitores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Leitores\n\nSe necessário para garantir a leitura correcta dos identificadores sob condições geográficas, climatéricas e/ou de gestão locais específicas, a autoridade competente pode impor critérios específicos de desempenho aos leitores utilizados numa exploração específica ou num tipo específico de exploração. As condições de gestão que justificam tais critérios específicos de desempenho existirão potencialmente em explorações com uma passagem elevada de animais marcados com identificadores que utilizam a tecnologia HDX e FDX-B e/ou em explorações nas quais é exigida a sincronização de leitores, em conformidade com o ponto 7.7.3 da norma ISO 24631-2."
+  },
+  "900d9e0901b3aa33": {
+   "fragment_id": "Laboratórios e procedimentos de ensaio",
+   "type": "divisao",
+   "heading": "Laboratórios e procedimentos de ensaio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Laboratórios e procedimentos de ensaio\n\nOs ensaios especificados nos pontos 1-4 do capítulo II devem ser realizados em laboratórios de ensaio que funcionam, são avaliados e estão acreditados para aqueles ensaios em conformidade com a norma EN ISO/IEC 17025 “Requisitos gerais de competência para laboratórios de ensaio e calibração”. Os fabricantes de identificadores que solicitam a realização dos ensaios podem escolher livremente o laboratório de ensaio acreditado..\n\n---"
+  },
+  "82d92584b68e1d5a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/82cc5204-3167-4986-b405-ba358cb6ab98.0018.03/DOC_1#src.E0001)) JO L 5 de 9.1.2004, p. 8."
+  },
+  "6afcb8412ec6e1da": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02006D0968 — PT — 21.04.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32006D0968) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/32006D0968) [de 15 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006D0968) [que dá execução ao Regulamento (CE) n.º 21/2004 do Conselho no que diz respeito às orientações e aos procedimentos relativos à identificação electrónica dos ovinos e caprinos](http://publications.europa.eu/resource/celex/32006D0968) [[notificada com o número C(2006) 6522]](http://publications.europa.eu/resource/celex/32006D0968) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32006D0968) [(2006/968/CE)](http://publications.europa.eu/resource/celex/32006D0968) (JO L 401, 30.12.2006, p.41)\n\n**Revogada por:**\n\n- [Regulamento Delegado (UE) 2019/2035 da Comissão de 28 de junho de 2019](http://publications.europa.eu/resource/celex/32019R2035) — L 314 — 115 — 5.12.2019"
+  }
+ }
+}

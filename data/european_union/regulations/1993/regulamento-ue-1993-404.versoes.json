@@ -1,0 +1,689 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R0404:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R0404-20080101",
+ "dre_path": null,
+ "source_lastmod": "2008-01-01",
+ "versions": [
+  {
+   "date": "1993-02-25",
+   "future": false,
+   "celex": "31993R0404",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7766c34917853191",
+    "4a08779d1135f08b",
+    "353117fc7062d7e4",
+    "4c87d55d879b05d3",
+    "eda3f068d1bc6ba1",
+    "58761f6f31774ea2",
+    "957c200f3066f0ef",
+    "e97846c9337bd3c8",
+    "df29270ca3924a1a",
+    "495d0c27d2e2e6a7",
+    "5a660e1800ba17de",
+    "3e7b333dbae657b5",
+    "346494ee8e4f8264",
+    "36eef778e3671fb6",
+    "d879fd13c2678bf6",
+    "93d2321e5c6a71c7",
+    "f9e8167d8892cb11",
+    "54eec44a72225d36",
+    "eff3bc4804415b70",
+    "edbcdaa2be27949a",
+    "ba6d0445481c7449",
+    "8b8776588b4a40c0",
+    "30488c61e94c88e3",
+    "3d5b82c35a5a4266",
+    "9419bbee6199000b",
+    "9abda3269a6188ef",
+    "8df42c6b5bc0d6ec",
+    "e4c7fd8dca8e80e1",
+    "6ccd0ae9824d82a9",
+    "df95c1e907398217",
+    "050c9ba91fab667b",
+    "c7feda3c5a8b2e73",
+    "229815d793f0f313",
+    "e98483dd57e7c2c3",
+    "dd0c4ae455f3928f"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01993R0404-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31993R3518:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31993R3518"
+    },
+    {
+     "id": "eu:celex:31994R3290:por",
+     "title": "REGULAMENTO (CE) N.O 3290/94 DO CONSELHO de 22 de Dezembro de 1994",
+     "published": null,
+     "celex": "31994R3290"
+    },
+    {
+     "id": "eu:celex:31998R1637:por",
+     "title": "REGULAMENTO (CE) N.O 1637/98 DO CONSELHO de 20 de Julho de 1998",
+     "published": null,
+     "celex": "31998R1637"
+    },
+    {
+     "id": "eu:celex:31999R1257:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31999R1257"
+    },
+    {
+     "id": "eu:celex:32001R0216:por",
+     "title": "REGULAMENTO (CE) N. o 216/2001 DO CONSELHO de 29 de Janeiro de 2001",
+     "published": null,
+     "celex": "32001R0216"
+    },
+    {
+     "id": "eu:celex:32001R2587:por",
+     "title": "REGULAMENTO (CE) N. o 2587/2001 DO CONSELHO de 19 de Dezembro de 2001",
+     "published": null,
+     "celex": "32001R2587"
+    },
+    {
+     "id": "eu:celex:32006R2013:por",
+     "title": "REGULAMENTO (CE) N. o 2013/2006 DO CONSELHO de 19 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006R2013"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita TÍTULO I",
+    "Adita Das normas comuns de qualidade e de comercialização",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita TÍTULO IV",
+    "Adita Do regime comercial com países terceiros",
+    "Adita Artigo 15.º",
+    "Adita TÍTULO V",
+    "Adita Das disposições gerais",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita Artigo 24.º",
+    "Adita Artigo 27.º",
+    "Adita Artigo 28.º",
+    "Adita Artigo 29.º",
+    "Adita Artigo 29.º-A",
+    "Adita Artigo 33.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime TÍTULO I Das normas comuns de qualidade e de comercialização — Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime TÍTULO II Das organizações de produtores e dos mecanismos de concertação — Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o — As normas de execução do presente título serão adoptadas de acordo com o processo previsto no artigo 27o",
+    "Suprime TÍTULO III Do regime das ajudas — Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o — As modalidades de aplicação do presente título serão adoptadas de acordo com o procedimento previsto no artigo 27o",
+    "Suprime TÍTULO IV Do regime comercial com países terceiros — Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o — A Comissão adopta e revê a estimativa referida no artigo 16o, em conformidade com o procedimento previsto no artigo 27o",
+    "Suprime TÍTULO V Das disposições gerais — Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o",
+    "Suprime Artigo 24o",
+    "Suprime Artigo 25o",
+    "Suprime Artigo 26o",
+    "Suprime Artigo 27o",
+    "Suprime Artigo 28o",
+    "Suprime Artigo 29o",
+    "Suprime Artigo 30o",
+    "Suprime Artigo 31o",
+    "Suprime Artigo 32o",
+    "Suprime Artigo 33o",
+    "Suprime ANEXO — Quantidades tradicionais de bananas dos Estados ACP Toneladas/peso líquido Costa do Marfim 155 000"
+   ],
+   "fragments": [
+    "8be20a4b9b3037ba",
+    "6d6f5ba5c8a38b5e",
+    "ffc348f463b781ad",
+    "03dad351fe374683",
+    "93230c1e827b4ce0",
+    "134f663ebdff497d",
+    "5212d857218f077e",
+    "662cf62f00c33127",
+    "df8179cc37bee49c",
+    "bc1468b3b89440f2",
+    "4f8efffddfe96470",
+    "b3e6ee1ed0fa45cb",
+    "4163404e4cb4a26c",
+    "ca9a28a4ee533f36",
+    "35a415fcc4f7b7ae",
+    "f027f4fa0d2a16f2",
+    "8f3836becd3a16c2",
+    "d386787be84527c2",
+    "e0755c5b569ec596",
+    "62eff8403af6a45b",
+    "24343691e88dbd87",
+    "4d59a1d7ea45af20"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "01993R0404-20080101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime TÍTULO I",
+    "Suprime Das normas comuns de qualidade e de comercialização",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime TÍTULO IV",
+    "Suprime Do regime comercial com países terceiros",
+    "Suprime Artigo 15.º",
+    "Suprime TÍTULO V",
+    "Suprime Das disposições gerais",
+    "Suprime Artigo 21.º",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 29.º-A",
+    "Suprime Artigo 33.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5321f4e5bfda0446"
+   ]
+  }
+ ],
+ "fragments": {
+  "7766c34917853191": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 404/93 do Conselho, de 13 de Fevereiro de 1993, que estabelece a organização comum de mercado no sector das bananas** *Jornal Oficial nº L 047 de 25/02/1993 p. 0001 - 0011 Edição especial finlandesa: Capítulo 3 Fascículo 48 p. 0129 Edição especial sueca: Capítulo 3 Fascículo 48 p. 0129*\n\nREGULAMENTO (CEE) No 404/93 DO CONSELHO de 13 de Fevereiro de 1993 que estabelece a organização comum de mercado no sector das bananas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42o e 43o,\n\nTendo em conta o protocolo relativo ao contingente pautal para as importações de bananas anexo à convenção de aplicação relativa à associação dos países e territórios ultramarinos à Comunidade, prevista no artigo 136o do Tratado e, nomeadamente, o seu no 4,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum dos produtos agrícolas devem ser acompanhados do estabelecimento de uma política agrícola comum; que esta deve comportar, nomeadamente, uma organização comum dos mercados agrícolas susceptível de assumir formas, consoante os produtos;\n\nConsiderando que, até à data, existiam nos Estados-membros produtores de bananas de organizações de mercado nacionais destinadas a garantir aos produtores o escoamento da sua produção no mercado nacional e a obtenção de receitas proporcionais aos custos de produção; que estas organizações de mercado nacionais aplicam restrições quantitativas que dificultam a realização do mercado comum no sector das bananas; que alguns dos Estados-membros não produtores garantem um escoamento privilegiado das bananas provenientes dos Estados ACP, enquanto outros aplicam um regime de importação liberal, que inclui, num dos casos, privilégios pautais; que estes diferentes regimes dificultam a livre circulação das bananas no interior da Comunidade e a instituição de um regime comum de comércio com os países terceiros; que, com vista à realização do mercado interno é necessário criar uma organização comum de mercado equilibrada e flexível no sector das bananas, que substitua os diferentes regimes nacionais;\n\nConsiderando que essa organização comum de mercado deve, no respeito da preferência comunitária e das diversas obrigações internacionais da Comunidade, permitir o escoamento no mercado comunitário, a preços equitativos tanto para os produtores como para os consumidores, das bananas produzidas na Comunidade, bem como das originárias dos Estados ACP fornecedores tradicionais, sem prejuízo das importações de bananas originárias dos demais países terceiros fornecedores e assegurando os rendimentos suficientes aos produtores;\n\nConsiderando que, a fim de permitir o abastecimento do mercado em produtos de qualidade homogénea e satisfatória no respeito das especificidades e das diversas variedades produzidas e de assegurar o escoamento dos produtos comunitários a preços remuneradores que garantam receitas adequadas, é conveniente estabelecer normas comuns de qualidade para as bananas frescas e, caso necessário, de comercialização para os produtos transformados à base de bananas;\n\nConsiderando que, a fim de maximizar as receitas relativas às bananas produzidas na Comunidade, é conveniente incentivar, designadamente mediante a concessão de ajudas ao início das actividades, a formação de organizações de produtores; que, para dar a estas organizações um papel eficaz na concentração da oferta, é conveniente que os seus membros se comprometam a comercializar através delas a totalidade da sua produção; que é igualmente conveniente permitir a formação de outros tipos de associações, agrupando, por exemplo, organizações de produtores e representantes de outras actividades do sector; que é conveniente definir, subsequentemente, as condições em que estas associações representativas das diversas actividades do sector podem desenvolver acções de interesse geral e tornar as suas regras extensíveis, a nível local ou regional, aos não aderentes; que estas organizações podem, além disso, ser consultadas aquando da elaboração dos programas e desempenhar um papel activo na realização das acções de carácter estrutural a desenvolver no âmbito da organização dos mercados;\n\nConsiderando que as deficiências estruturais que limitam a competitividade das produções comunitárias devem ser atenuadas, designadamente com o objectivo de aumentar a produtividade; que, para esse efeito, e no âmbito dos quadros comunitários de apoio para as regiões produtoras, é conveniente elaborar programas no quadro da cooperação entre a Comissão e as autoridades nacionais e regionais, associando, na medida do possível, à elaboração das acções a desenvolver os vários tipos de organizações do sector atrás referidos;\n\nConsiderando que, até à data, as organizações de mercado nacionais permitiram aos produtores nacionais de bananas obter no mercado receitas suficientes para manter as respectivas produções aos custos suportados pelos produtores; que a criação da organização comum de mercado não deve piorar a situação actual dos produtores e atendendo a que a mesma é susceptível de causar modificações no nível dos preços praticados nos mercados, pelo que é conveniente prever uma ajuda compensatória que cubra a perda de rendimentos que pode decorrer da aplicação do novo sistema e mantenha a produção comunitária aos custos que a situação estrutural específica impõe, nomeadamente enquanto não se proceder aos ajustamentos previstos nas medidas estruturais; que é conveniente prever um ajustamento da ajuda, de modo a tomar em consideração o aumento da produtividade e a evolução das várias qualidades;\n\nConsiderando que, em certas regiões produtoras, bem definidas, da Comunidade, caracterizadas por condições de produção particularmente desfavoráveis para a produção de bananas e mais aptas para culturas alternativas, é conveniente incentivar o abandono definitivo da produção de bananas mediante a concessão de um prémio à cessação da cultura de bananas; que é conveniente, a fim de limitar os custos económicos da operação, que este arranque seja efectuado logo que possível;\n\nConsiderando que as perspectivas de produção e de consumo comunitários devem ser avaliadas no âmbito de uma estimativa anual; que esta estimativa deve poder ser revista ao longo do ano, em função da ocorrência de circunstâncias nomeadamente climáticas especiais;\n\nConsiderando que, a fim de permitir uma comercialização satisfatória das bananas colhidas na Comunidade, bem como dos produtos originários dos Estados ACP, no âmbito dos acordos da Convenção de Lomé, mantendo simultaneamente, tanto quanto possível, as correntes comerciais tradicionais, há que prever a abertura de um contingente pautal no âmbito do qual, por um lado, as importações de bananas de países terceiros estão sujeitas à cobrança de um montante de 100 ecus por tonelada, que corresponde ao direito pautal actualmente praticado e, por outro, as importações de bananas não tradicionais dos Estados ACP beneficiam de um direito zero em conformidade com os acordos acima referidos; que devem ser previstas disposições para assegurar que o volume do contingente pautal seja alterado de modo a reflectir a evolução do consumo comunitário estabelecido no balanço previsional da produção e do consumo;\n\nConsiderando que as importações fora do contingente pautal devem ser sujeitas à cobrança de um direito pautal de nível suficientemente elevado para permitir um escoamento em condições aceitáveis da produção comunitária, bem como das quantidades tradicionais ACP;\n\nConsiderando que as importações tradicionais de bananas dos Estados ACP se efectuam fora do contingente com direito zero, no âmbito das quantidades tradicionais que têm em conta os investimentos específicos já realizados no âmbito de programas de aumento da produção;\n\nConsiderando que, para respeitar os objectivos acima recordados, tomando simultaneamente em conta a especificidade da comercialização das bananas, a gestão do contingente pautal deve ser efectuada distinguindo, por um lado, os operadores que comercializaram num período anterior bananas dos países terceiros e bananas não tradicionais dos países ACP e, por outro, os operadores que comercializaram, num período anterior, bananas produzidas na Comunidade e bananas tradicionais dos países ACP, reservando ao mesmo tempo uma quantidade disponível para os novos operadores que iniciaram recentemente uma actividade comercial ou vão iniciar uma actividade comercial neste sector;\n\nConsiderando que, para não perturbar as actuais relações comerciais e permitir simultaneamente uma determinada evolução das estruturas de comercialização, a concessão de autorizações de importação a cada operador, diferentes para cada uma das categorias acima definidas, deve-se realizar com base na quantidade média de bananas por ele comercializada durante os três anos anteriores para os quais estão disponíveis dados estatísticos;\n\nConsiderando que ao adoptar critérios suplementares a que os operadores devem obedecer, a Comissão se orientará pelo princípio de que as licenças deverão ser concedidas a pessoas singulares ou colectivas que tenham assumido o risco comercial da comercialização de bananas e pela necessidade de evitar perturbações nas relações comerciais normais entre pessoas que ocupem pontos diferentes na cadeia de comercialização;\n\nConsiderando que, tendo em conta as estruturas de comercialização, o recenseamento dos operadores e a determinação das quantidades comercializadas a adoptar como referência para a emissão dos certificados devem ser efectuados pelos Estados-membros com base em modalidades e critérios adoptados pela Comissão;\n\nConsiderando que o acompanhamento das importações, nomeadamente no âmbito do contingente pautal tem necessidade de um regime de certificados de importação, acompanhados de garantia;\n\nConsiderando que é conveniente prever a possibilidade de a Comissão tomar as medidas adequadas para fazer face a perturbações ou ameaças de perturbação graves susceptíveis de pôr em perigo objectivos previstos no artigo 39o do Tratado;\n\nConsiderando que o funcionamento da organização comum dos mercados ficaria comprometido pela concessão de determinados auxílios; que, por conseguinte, é conveniente aplicar no sector das bananas as disposições do Tratado que permitem examinar os auxílios nacionais concedidos pelos Estados-membros e proibir os auxílios incompatíveis com o mercado comum;\n\nConsiderando que, a fim de facilitar a aplicação das disposições previstas, é conveniente prever um processo de estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité de gestão;\n\nConsiderando que a organização comum de mercado no sector das bananas deve tomar em consideração, simultaneamente e de modo adequado, os objectivos previstos nos artigos 39o e 110o do Tratado;\n\nConsiderando que a substituição dos diferentes regimes nacionais pela organização comum de mercado, aquando da entrada em vigor do presente regulamento, pode causar perturbações no mercado interno; que é conveniente, por conseguinte, prever, a partir de 1 de Julho de 1993, a possibilidade de a Comissão tomar as medidas de transição necessárias para ultrapassar as dificuldades resultantes da aplicação do novo regime;\n\nConsiderando que é conveniente alargar o âmbito de aplicação do Regulamento (CEE) no 1319/85 do Conselho, de 23 de Maio de 1985, relativo ao reforço dos meios de controlo da aplicação da regulamentação comunitária no sector das frutas e produtos hortícolas (4), de modo a permitir controlar a observância das normas instituídas para o sector das bananas, no âmbito do referido regulamento;\n\nConsiderando que a importância social, económica, cultural e ambiental que tem o cultivo de banana nas regiões comunitárias dos departamentos franceses ultramarinos, da Madeira, dos Açores, do Algarve, de Creta, da Lacónia e das ilhas Canárias, regiões caracterizadas pela sua insularidade, afastamento e atraso estrutural, agravado nalguns casos pela dependência económica desta cultura.\n\nConsiderando que é conveniente estudar o funcionamento do presente regulamento após um período intermédio de aplicação bem como antes do final do décimo ano seguinte ao da sua entrada em vigor, a fim de examinar o novo regime que deve ser aplicado após essa data,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4a08779d1135f08b": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. É instituída uma organização comum de mercado no sector das bananas.\n\n2. A organização comum de mercado abrange os seguintes produtos:\n\n\"\" ID=\"1\">ex 0803> ID=\"2\">Bananas, excluindo os plátanos, frescas ou secas\"> ID=\"1\">ex 0811 90 90> ID=\"2\">Bananas congeladas\"> ID=\"1\">ex 0812 90 90> ID=\"2\">Bananas conservadas transitoriamente\"> ID=\"1\">1106 30 10> ID=\"2\">Farinhas, sêmolas e pós de bananas\"> ID=\"1\">ex 2006 00 90> ID=\"2\">Bananas conservadas em açúcar\"> ID=\"1\">ex 2007 10> ID=\"2\">Preparações homogeneizadas de banana\"> ID=\"1\">ex 2007 99 39\n\nex 2007 99 90> ID=\"2\">Doces, geleias, marmelades, purés e pastas de banana\"> ID=\"1\">ex 2008 99 48\n\nex 2008 99 69\n\nex 2008 99 99> ID=\"2\">Bananas preparadas ou conservadas de outro modo\"> ID=\"1\">ex 2008 92 50\n\nex 2008 92 79\n\nex 2008 92 91\n\nex 2008 92 99> ID=\"2\">Misturas de bananas preparadas ou conservadas de outro modo\"> ID=\"1\">ex 2009 80> ID=\"2\">Sumo de banana\n\n\">\n\n3. A campanha de comercialização inicia-se em 1 de Janeiro e termina em 31 de Dezembro."
+  },
+  "353117fc7062d7e4": {
+   "fragment_id": "TÍTULO I Das normas comuns de qualidade e de comercialização — Artigo 2o",
+   "type": "divisao",
+   "heading": "TÍTULO I Das normas comuns de qualidade e de comercialização — Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I Das normas comuns de qualidade e de comercialização — Artigo 2o\n\n1. São estabelecidas normas de qualidade que terão em conta as diferentes variedades produzidas para as bananas destinadas a ser entregues, no estado fresco, ao consumidor, com excepção das bananas plátanos.\n\n2. Podem igualmente ser estabelecidas normas de comercialização para os produtos transformados à base de bananas."
+  },
+  "4c87d55d879b05d3": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Salvo derrogação decidida pela Comissão, de acordo com o processo previsto no artigo 27o, os produtos relativamente aos quais tenham sido estabelecidas normas comuns só podem ser comercializados na Comunidade se estiverem em conformidade com as referidas normas.\n\n2. Os organismos designados pelos Estados-membros procederão a um controlo de conformidade destinado a verificar se os produtos respeitam as normas de qualidade."
+  },
+  "eda3f068d1bc6ba1": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nAs normas de qualidade ou de comercialização, os estádios de comercialização em que os produtos as devem respeitar e as medidas destinadas a garantir a aplicação uniforme do disposto nos artigos 2o e 3o, incluindo as medidas em matéria de controlo, serão adoptadas de acordo com o processo previsto no artigo 27o"
+  },
+  "58761f6f31774ea2": {
+   "fragment_id": "TÍTULO II Das organizações de produtores e dos mecanismos de concertação — Artigo 5o",
+   "type": "divisao",
+   "heading": "TÍTULO II Das organizações de produtores e dos mecanismos de concertação — Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II Das organizações de produtores e dos mecanismos de concertação — Artigo 5o\n\n1. Para efeitos do presente regulamento, entende-se por « organização de produtores », as organizações de produtores de bananas estabelecidas na Comunidade:\n\na) Constituídas por iniciativa dos próprios produtores com o objectivo, designadamente, de:\n\n- promover a concentração da oferta e a regularização dos preços, no estádio da produção, de um ou vários produtos referidos no artigo 1o,\n\n- colocar à disposição dos produtores associados meios técnicos adequados para o acondicionamento e comercialização dos produtos em causa;\n\nb) Que apresentem um volume mínimo de produção comercializável e representem um número mínimo de produtores;\n\nc) Cujos estatutos comportem disposições:\n\n- prevendo a obrigação de os produtores colocarem no mercado, através da organização de produtores, a totalidade da sua produção do(s) produto(s) em razão do(s) qual/quais aderiram,\n\n- garantindo aos produtores o controlo da organização de produtores e das suas decisões,\n\n- aplicando sanções a quaisquer violações por parte dos produtores aderentes das regras estabelecidas pela organização de produtores,\n\n- impondo quotizações aos aderentes,\n\n- regulando a admissão de novos membros;\n\nd) Que adoptem regras para a avaliação da produção, regras de produção e nomeadamente regras que têm por objectivo melhorar a qualidade bem como regras de comercialização;\n\ne) Que mantenham uma contabilidade específica para as suas actividades no sector das bananas;\n\nf) Que tenham sido reconhecidas pelos respectivos Estados-membros, nos termos do no 2.\n\n2. Os Estados-membros reconhecerão as organizações em causa, a pedido destas, se as mesmas oferecerem garantias suficientes quanto à duração e eficácia da sua acção, designadamente no que respeita às tarefas referidas no no 1, e satisfizerem as condições previstas no mesmo número."
+  },
+  "957c200f3066f0ef": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros concederão às organizações de produtores reconhecidas, relativamente aos cinco anos seguintes à data do respectivo reconhecimento, auxílios destinados a incentivar a sua constituição e facilitar o seu funcionamento administrativo.\n\n2. É aplicável o disposto nos nos 1, 3 e 5 do artigo 14o e no no 2 do artigo 36o do Regulamento (CEE) no 1035/72 do Conselho, de 18 de Maio de 1972, que estabelece a organização comum de mercado no sector das frutas e produtos hortícolas (5)."
+  },
+  "e97846c9337bd3c8": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. As associações de produtores ou de organizações de produtores constituídas com vista à realização de uma ou várias acções de interesse comum poder participar na elaboração das acções definidas nos programas operacionais previstos no artigo 10o Podem ser membros destas associações as empresas de transformação e os comerciantes.\n\n2. As acções de interesse comum referidas no no 1 podem concernir, nomeadamente, à investigação aplicada, à formação dos produtores, à adopção de uma estratégia qualitativa ou ao desenvolvimento de métodos de produção que respeitem o ambiente."
+  },
+  "df29270ca3924a1a": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O Conselho, de acordo com o no 2 do artigo 43o do Tratado, definirá a acção e determinará as condições de reconhecimento dos grupos de operadores de uma ou várias actividades económicas ligadas à produção, comércio ou transformação das bananas, constituídos tendo em vista, designadamente:\n\n- assegurar um melhor conhecimento do mercado, da sua evolução previsível e das condições de comercialização,\n\ne\n\n- reduzir a dispersão da oferta, orientar a produção e promover a melhoria qualitativa para satisfazer com maior eficácia as necessidades do mercado e a procura dos consumidores.\n\n2. As disposições a adoptar comportarão, designadamente, em condições a determinar, a possibilidade de tornar as regras adoptadas por estes grupos de operadores extensíveis a não aderentes, conquanto estes grupos sejam suficientemente representativos, estas regras apresentem um interesse geral para o sector e a sua extensão respeite as regras da concorrência do Tratado."
+  },
+  "495d0c27d2e2e6a7": {
+   "fragment_id": "Artigo 9o — As normas de execução do presente título serão adoptadas de acordo com o processo previsto no artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 9o — As normas de execução do presente título serão adoptadas de acordo com o processo previsto no artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o — As normas de execução do presente título serão adoptadas de acordo com o processo previsto no artigo 27o"
+  },
+  "5a660e1800ba17de": {
+   "fragment_id": "TÍTULO III Do regime das ajudas — Artigo 10o",
+   "type": "divisao",
+   "heading": "TÍTULO III Do regime das ajudas — Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III Do regime das ajudas — Artigo 10o\n\n1. As autoridades competentes dos Estados-membros podem, no quadro da cooperação entre a Comissão e as autoridades nacionais e regionais, elaborar programas operacionais no âmbito dos quadros comunitários de apoio para as regiões elegíveis, de que constará a definição das acções a desenvolver no sector das bananas, com vista à prossecução de, pelo menos, dois dos seguintes objectivos:\n\n- aplicar uma estratégia qualitativa e comercial para os produtos da região em função da evolução previsível dos custos e do mercado,\n\n- melhorar a utilização dos recursos, respeitando o ambiente,\n\n- aumentar a competitividade.\n\n2. No quadro da cooperação referida no no 1, as autoridades competentes associarão, na medida do possível, os operadores organizados, agrupados ou associados do sector, referidos, respectivamente, nos artigos 5o, 7o e 8o, e os centros de investigação técnica e económica à definição das acções referidas no no 1.\n\n3. A preparação, decisão e aplicação destas medidas no âmbito dos programas operacionais serão efectuadas em conformidade com os regulamentos em vigor relativos à gestão dos fundos estruturais."
+  },
+  "3e7b333dbae657b5": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nNo quadro da cooperação entre a Comissão e as autoridades nacionais e regionais, as organizações de produtores, as associações e os grupos de operadores referidos, respectivamente, nos artigos 5o, 7o e 8o podem ser convidados a apresentar às autoridades competentes as suas opiniões sobre a aplicação das medidas constantes das propostas."
+  },
+  "346494ee8e4f8264": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Será concedida uma ajuda compensatória da eventual perda de receitas aos produtores comunitários membros de uma organização de produtores reconhecida que comercializem bananas que satisfaçam as normas comuns aplicáveis no mercado comunitário. Todavia, a ajuda compensatória pode ser concedida a produtores individuais que se encontrem em condições especiais, nomeadamente geográficas, que lhes não permitam aderir a uma organização de produtores.\n\n2. A quantidade máxima de bananas comunitárias comercializadas elegível para a ajuda compensatória é fixada em 854 000 toneladas/peso líquido. Esta quantidade será repartida por região produtora da Comunidade do seguinte modo:\n\n1. 420 000 toneladas para as ilhas Canárias;\n\n2. 150 000 toneladas para Guadalupe;\n\n3. 219 000 toneladas para a Martinica;\n\n4. 50 000 toneladas para a Madeira, Açores e Algarve;\n\n5. 15 000 toneladas para Creta e a Lacónia.\n\nA quantidade por região pode ser adaptada até ao limite da quantidade máxima prevista para a Comunidade.\n\n3. A ajuda compensatória é calculada com base na diferença entre:\n\n- a « receita forfetária de referência » das bananas produzidas e comercializadas na Comunidade e\n\n- a « receita média na produção » obtida no mercado da Comunidade durante o ano em causa para as bananas produzidas e comercializadas na Comunidade.\n\n4. A « receita forfetária de referência » é determinada com base:\n\n- na média dos preços das bananas produzidas na Comunidade e comercializadas durante um período de referência a determinar, anterior a 1 de Janeiro de 1993, e em conformidade com o processo previsto no artigo 27o\n\n- deduzida dos custos médios de transporte e de colocação da mercadoria em condições FOB.\n\nA receita forfetária de referência será revista pela Comissão aquando da fixação da ajuda, após três anos, tendo em conta, designadamente, o aumento da produtividade e a evolução das várias qualidades.\n\n5. A « receita média na produção » das bananas da Comunidade é determinada, para cada ano, com base:\n\n- na média dos preços das bananas produzidas na Comunidade e comercializadas durante o ano em causa,\n\n- deduzida dos custos médios de transportes e de colocação da mercadoria nas condições FOB.\n\n6. A ajuda compensatória será fixada pela Comissão, relativamente a cada ano, de acordo com o processo previsto no artigo 27o, antes de 1 de Março do ano seguinte.\n\nSerá concedido um complemento à ajuda, na(s) região/regiões produtora(s) em que a receita média na produção tenha sido significativamente inferior à receita média comunitária.\n\n7. Podem ser pagos adiantamentos com base na ajuda compensatória concedida no ano anterior, mediante a constituição de uma garantia.\n\n8. Em 1993, a Comissão procederá, até 30 de Junho, a um exame intercalar da evolução das receitas médias na produção para o ano em curso. Com base neste exame, a Comissão pode efectuar adiantamentos, de acordo com o processo previsto no artigo 27o"
+  },
+  "36eef778e3671fb6": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. Será concedido um prémio único aos produtores da Comunidade que deixem de cultivar bananas.\n\n2. A concessão do prémio fica subordinada ao compromisso escrito do beneficiário de:\n\na) Proceder ou mandar proceder, em 1993 ou 1994, de uma só vez, e durante um período a determinar:\n\n- ao arranque de todas as bananeiras da sua exploração, no caso de o bananal da mesma contar menos de cinco hectares,\n\n- de, pelo menos, metade das bananeiras da sua exploração, no caso de o bananal da mesma cobrir uma área igual ou superior a cinco hectares;\n\nb) Renunciar a efectuar qualquer plantação de bananeiras na exploração em causa durante 20 anos a contar do ano do arranque.\n\nAs superfícies plantadas com bananeiras após a entrada em vigor do presente regulamento e as parcelas de dimensões inferiores a 0,2 hectare não serão tidas em consideração para a concessão do prémio.\n\n3. O montante do prémio será fixado em 1 000 ecus por hectare. Este montante pode ser modulado em função das condições específicas de determinadas regiões, de acordo com o processo previsto no artigo 27o\n\n4. A Comissão, de acordo com o processo previsto no artigo 27o, pode autorizar um Estado-membro a excluir do benefício do prémio de cessação da cultura de bananas os produtores estabelecidos em zonas em que o desaparecimento desta cultura tenha consequências negativas, designadamente na manutenção das condições microclimáticas ou pedológicas bem como no estado do ambiente ou da paisagem.\n\n5. A concessão deste prémio é compatível com a concessão das ajudas previstas no título III do Regulamento (CEE) no 3763/91 (6), no título II do Regulamento (CEE) no 1600/92 (7) e no título III do Regulamento (CEE) no 1601/92 (8), bem como com a concessão das ajudas estruturais ao abrigo dos regulamentos (CEE) no 2052/88 (9) e (CEE) no 4253/88 (10)."
+  },
+  "d879fd13c2678bf6": {
+   "fragment_id": "Artigo 14o — As modalidades de aplicação do presente título serão adoptadas de acordo com o procedimento previsto no artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 14o — As modalidades de aplicação do presente título serão adoptadas de acordo com o procedimento previsto no artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o — As modalidades de aplicação do presente título serão adoptadas de acordo com o procedimento previsto no artigo 27o\n\nTodavia, as normas de execução dos artigos 6o e 10o serão adoptadas de acordo com o processo previsto no artigo 29o do Regulamento (CEE) no 4253/88."
+  },
+  "93d2321e5c6a71c7": {
+   "fragment_id": "TÍTULO IV Do regime comercial com países terceiros — Artigo 15o",
+   "type": "divisao",
+   "heading": "TÍTULO IV Do regime comercial com países terceiros — Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV Do regime comercial com países terceiros — Artigo 15o\n\nO presente título só se aplica aos produtos frescos do código NC ex 0803 com excepção das bananas plátanos.\n\nPara efeitos do presente título, entende-se por:\n\n1. « Importações tradicionais dos Estados ACP », as quantidades, fixadas no anexo, de bananas exportadas por cada fornecedor ACP tradicional da Comunidade; as bananas objecto destas importações serão a seguir denominadas « bananas tradicionais ACP »;\n\n2. « Importações não tradicionais dos Estados ACP », as quantidades exportadas pelos Estados ACP que excedem as quantidades definidas no ponto 1; as bananas objecto destas importações serão a seguir denominadas « bananas não tradicionais ACP »;\n\n3. « Importações de países terceiros não ACP », as quantidades exportadas pelos demais países terceiros; as bananas objecto destas importações serão a seguir denominadas « bananas de países terceiros ».\n\n4. « Bananas comunitárias », as bananas produzidas na Comunidade;\n\n5. « Comercializar e comercialização », a colocação no mercado, com exclusão do estádio de colocação do produto à disposição do consumidor final."
+  },
+  "f9e8167d8892cb11": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Anualmente, será elaborada uma estimativa da produção e do consumo na Comunidade, bem como das importações e exportações.\n\n2. Esta estimativa será elaborada com base:\n\n- nos dados disponíveis relativos às quantidades de bananas comercializadas na Comunidade durante o ano, discriminadas consoante a sua origem,\n\n- nas previsões de produção e comercialização de bananas comunitárias,\n\n- nas previsões de importações de bananas tradicionais ACP,\n\n- nas previsões de consumo baseadas, em particular, na evolução do consumo nos anos mais recentes e na evolução dos preços de mercado.\n\n3. Em caso de necessidade, nomeadamente quando as condições de produção ou de importação forem afectadas por circunstâncias excepcionais, a estimativa pode ser revista durante a campanha. Nesse caso, o contingente pautal previsto no artigo 18o será adaptado segundo o procedimento previsto no artigo 27o"
+  },
+  "54eec44a72225d36": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nTodas as importações de bananas para a Comunidade estão sujeitas à apresentação dum certificado de importação passado pelos Estados-membros aos interessados que o solicitem, seja qual for o local do seu estabelecimento na Comunidade, sem prejuízo das disposições especiais tomadas para a aplicação dos artigos 18o e 19o\n\nO certificado é válido em toda a Comunidade. Salvo derrogações decididas segundo o procedimento previsto no artigo 27o, a emissão destes certificados está subordinada à constituição duma garantia que caucione o respeito do compromisso de importar, nas condições do presente regulamento, durante o período de validade do certificado. Se a operação não se realizar nesse prazo ou apenas o for parcialmente, o valor da garantia reverte, no todo ou em parte, para a entidade emissora do certificado."
+  },
+  "eff3bc4804415b70": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Será aberto, anualmente, um contingente pautal de dois milhões de toneladas/peso líquido para as importações de bananas de países terceiros e de bananas não tradicionais ACP.\n\nNo âmbito deste contingente pautal, as importações de bananas de países terceiros estão sujeitas à percepção de 100 ecus por tonelada e as importações de bananas não tradicionais ACP estão sujeitas a um direito nulo.\n\nPara o segundo semestre de 1993, o volume do contingente pautal é fixado em um milhão de toneladas/peso líquido.\n\nSempre que aumentar o consumo comunitário determinado com base na estimativa da produção e do consumo referida no artigo 16o, o volume do contingente será aumentado em conformidade, segundo o procedimento previsto no artigo 27o Nesse caso, a revisão ocorrerá até ao dia 30 de Novembro anterior à campanha em questão.\n\n2. Além do contingente referido no no 1:\n\n- as importações de bananas não tradicionais ACP estão sujeitas à percepção de 750 ecus por tonelada,\n\n- as importações de bananas de países terceiros estão sujeitas à percepção de 850 ecus por tonelada.\n\n3. As quantidades de bananas de países terceiros e as bananas não tradicionais ACP reexportadas para fora da Comunidade não serão imputadas ao contingente previsto no no 1."
+  },
+  "edbcdaa2be27949a": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\n1. A partir de 1 de Julho de 1993, o contingente pautal será aberto até:\n\na) 66,5 %, para a categoria de operadores que comercializaram bananas de países terceiros e/ou não tradicionais ACP;\n\nb) 30 %, para a categoria de operadores que comercializaram bananas comunitárias e/ou tradicionais ACP;\n\nc) 3,5 %, para a categoria de operadores estabelecidos na Comunidade que começaram, a partir de 1992, a comercializar bananas que não as bananas comunitárias e/ou tradicionais ACP.\n\nAs possibilidades de importação em aplicação das alíneas a) e b) serão abertas a operadores estabelecidos na Comunidade que comercializarem, por sua própria conta, uma quantidade mínima a determinar de bananas das origens acima referidas.\n\nOs critérios complementares que os operadores devem satisfazer serão determinados de acordo com o processo previsto no artigo 27o Os Estados-membros elaborarão a lista dos operadores e determinarão a quantidade média por operador referida no no 2.\n\n2. Com base nos cálculos feitos separadamente para cada uma das categorias de operadores referidas nas alíneas a) e b) do no 1, cada operador obtém certificados de importação com base na quantidade média de bananas que vendeu nos três anos anteriores com dados estatísticos disponíveis. A quantidade a ser levada em linha de conta em relação à categoria de operadores referidos na alínea a) do no 1, são as vendas de bananas de países terceiros e/ou não tradicionais ACP. No caso dos operadores referidos na alínea b) do no 1 são as vendas de bananas tradicionais ACP e/ou de bananas comunitárias. As bananas de países terceiros e/ou não tradicionais ACP importadas com base em licenças concedidas nos termos da alínea b) do no 1 não serão levadas em linha de conta para determinar as autorizações a estabelecer por força da alínea a) do no 1, de modo a que a distribuição original de licenças pelas categorias de operadores permaneça idêntica.\n\nPara o segundo semestre de 1993, cada operador obterá a emissão de certificados com base na metade da quantidade média anual comercializada em 1989/1991.\n\n3. Na hipótese de o volume de pedidos de novos operadores ultrapassar as quantidades fixadas em aplicação da alínea c) do no 1, cada pedido será afectado de uma percentagem uniforme de redução.\n\nAs quantidades eventualmente disponíveis serão reafectadas aos operadores referidos no no 1, alíneas a) e b), nas condições determinadas de acordo com o procedimento previsto no artigo 27o\n\n4. Na hipótese de um aumento do contingente pautal, a quantidade disponível suplementar será atribuída aos operadores das categorias referidas no no 1, em conformidade com as disposições dos números anteriores."
+  },
+  "ba6d0445481c7449": {
+   "fragment_id": "Artigo 20o — A Comissão adopta e revê a estimativa referida no artigo 16o, em conformidade com o procedimento previsto no artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 20o — A Comissão adopta e revê a estimativa referida no artigo 16o, em conformidade com o procedimento previsto no artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o — A Comissão adopta e revê a estimativa referida no artigo 16o, em conformidade com o procedimento previsto no artigo 27o\n\nEm conformidade com o mesmo procedimento, a Comissão decide as modalidades de aplicação do presente título. Essas regras poderão incidir nomeadamente sobre:\n\n- as medidas complementares relativas à emissão dos certificados, à duração da sua validade, às condições de transmissibilidade, bem como ao mecanismo de garantias necessárias; essas regras poderão igualmente prever a determinação dum prazo de reflexão,\n\n- a periodicidade da emissão de certificados,\n\n- a quantidade mínima de bananas comercializadas referida no segundo parágrafo do no 1 do artigo 19o"
+  },
+  "8b8776588b4a40c0": {
+   "fragment_id": "TÍTULO V Das disposições gerais — Artigo 21o",
+   "type": "divisao",
+   "heading": "TÍTULO V Das disposições gerais — Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V Das disposições gerais — Artigo 21o\n\n1. Na importação dos produtos referidos no artigo 1o e salvo disposições em contrário previstas no presente regulamento, são proibidas:\n\n- a cobrança de qualquer taxa de efeito equivalente a um direito aduaneiro,\n\n- a aplicação de quaisquer restrições quantitativas ou medidas de efeito semelhante.\n\n2. É suprimido o contingente pautal previsto no protocolo relativo ao contingente pautal para as importações de bananas, anexo à convenção de aplicação relativa à associação de países e territórios ultramarinos com a Comunidade previsto no artigo 136o do Tratado."
+  },
+  "30488c61e94c88e3": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nAs regras gerais para a interpretação da Pauta Aduaneira Comum e as regras especiais para a sua aplicação são aplicáveis para a classificação dos produtos decorrentes do presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento é retomada da Pauta Aduaneira Comum."
+  },
+  "3d5b82c35a5a4266": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\n1. Se o mercado comunitário de um ou vários produtos referidos no artigo 1o sofrer ou puder vir a sofrer, devido a importações ou exportações, perturbações graves susceptíveis de pôr em perigo os objectivos previstos no artigo 39o do Tratado, podem ser aplicadas medidas apropriadas ao comércio com países terceiros até à eliminação da perturbação ou ameaça de perturbação.\n\n2. No caso de se verificar a situação rferida no no 1, a Comissão decidirá, a pedido de um Estado-membro ou por sua própria iniciativa, das medidas necessárias, que serão comunicadas aos Estados-membros e imediatamente aplicáveis. No caso de receber um pedido de um Estado-membro, a Comissão decidirá no prazo de três dias úteis seguintes à recepção do pedido.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão, no prazo de três dias úteis a contar do dia da sua comunicação. O Conselho reunir-se-á imediatamente. O Conselho pode, por maioria qualificada, modificar ou anular a medida em causa.\n\n4. As modalidades de aplicação do presente artigo serão adoptadas segundo o procedimento previsto no artigo 27o"
+  },
+  "9419bbee6199000b": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\nSalvo disposição em contrário do presente regulamento, os artigos 92o a 94o do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1o"
+  },
+  "9abda3269a6188ef": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\n1. As medidas previstas nos artigos 12o e 13o constituem intervenções destinadas à regularização dos mercados agrícolas, na acepção do no 1 do artigo 3o do Regulamento (CEE) no 729/70 do Conselho, de 21 de Abril de 1970, relativo ao financiamento da política agrícola comum (11).\n\n2. As medidas previstas nos artigos 6o e 10o serão co-financiadas pela secção Orientação do Fundo Europeu de Orientação e Garantia Agrícola (FEOGA).\n\n3. As normas de execução do presente artigo, nomeadamente a definição das condições a respeitar antes do pagamento de ajudas financeiras pela Comunidade, serão adoptadas de acordo com o processo previsto no artigo 27o"
+  },
+  "8df42c6b5bc0d6ec": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\n1. É instituído um comité de gestão das bananas, a seguir denominado « comité », composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. No comité, os votos dos Estados-membros estão sujeitos à ponderação prevista no no 2 do artigo 148o do Tratado. O presidente não participa na votação."
+  },
+  "e4c7fd8dca8e80e1": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\n1. Sempre que se faça referência ao processo definido no presente artigo, o comité será chamado a pronunciar-se pelo seu presidente, quer por iniciativa deste quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá ao comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre o projecto num prazo que o presidente pode fixar em função da urgência da questão. O comité pronunciar-se-á de acordo com a maioria prevista no no 2 do artigo 148o do Tratado.\n\n3. A Comissão adoptará medidas que são imediatamente aplicáveis. Todavia, se não estiverem em conformidade com o parecer emitido pelo comité, estas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Neste caso, a Comissão pode diferir, por um período de, no máximo, um mês a contar da data da comunicação, a aplicação das medidas que adoptou.\n\nO Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente no prazo de um mês."
+  },
+  "6ccd0ae9824d82a9": {
+   "fragment_id": "Artigo 28o",
+   "type": "artigo",
+   "heading": "Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o\n\nO comité pode examinar qualquer outra questão levantada pelo seu presidente, quer por iniciativa própria quer a pedido do representante de um Estado-membro."
+  },
+  "df95c1e907398217": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\nOs Estados-membros transmitirão à Comissão as informações necessárias para a execução do disposto no presente regulamento, designadamente as informações relativas:\n\n- às disposições adoptadas em matéria de aplicação e controlo das normas comuns de qualidade,\n\n- às organizações de produtores,\n\n- às disposições e à aplicação dos programas-quadro regionais para o sector das bananas,\n\n- às disposições adoptadas no âmbito da gestão da eventual ajuda compensatória,\n\n- à lista dos operadores,\n\n- à produção e aos preços,\n\n- às quantidades comercializadas, no seu território, de bananas comunitárias, bananas tradicionais ACP, bananas não tradicionais ACP e bananas de países terceiros,\n\n- às perspectivas de produção e de consumo para o ano seguinte."
+  },
+  "050c9ba91fab667b": {
+   "fragment_id": "Artigo 30o",
+   "type": "artigo",
+   "heading": "Artigo 30o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o\n\nNo caso de ser necessário adoptar medidas específicas, a partir de Julho de 1993, para facilitar a transição dos regimes existentes antes da entrada em vigor do presente regulamento para o regime nele previsto, designadamente para ultrapassar dificuldades sensíveis, a Comissão adoptará, de acordo com o processo previsto no artigo 27o, as medidas de transição consideradas necessárias."
+  },
+  "c7feda3c5a8b2e73": {
+   "fragment_id": "Artigo 31o",
+   "type": "artigo",
+   "heading": "Artigo 31o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o\n\nNo no 1 do artigo 1o do Regulamento (CEE) no 1319/85 do Conselho:\n\n1. O segundo travessão passa a ter a seguinte redacção:\n\n« - controlo de conformidade com as normas de qualidade ou com algumas das suas exigências no que respeita:\n\na) Aos produtos constantes do anexo II do Regulamento (CEE) no 1035/72, que serão retirados do mercado em conformidade com os artigos 15o e 15oA ou que serão comprados em conformidade com os artigos 19o e 19oA do referido regulamento e\n\nb) Aos produtos do sector das bananas, abrangidos pelo Regulamento (CEE) no 404/93 (*).\n\n(*) JO no L 47 de 25. 2. 1993, p. 1. »;\n\n2. O quarto travessão passa a ter a seguinte redacção:\n\n« - verificação do levantamento das cotações referidas nos artigos 17o e 24o do Regulamento (CEE) no 1035/72. »."
+  },
+  "229815d793f0f313": {
+   "fragment_id": "Artigo 32o",
+   "type": "artigo",
+   "heading": "Artigo 32o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o\n\nO mais tardar no final do terceiro ano de aplicação do presente regulamento e, de qualquer modo, por ocasião da revisão da receita forfetária de referência prevista no no 4 do artigo 12o, a Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação do presente regulamento.\n\nEste relatório incluirá nomeadamente a análise da evolução do fluxo de comercialização das bananas comunitárias, de países terceiros e ACP desde a aplicação do presente regime. Esse relatório será acompanhado, eventualmente, de propostas adequadas.\n\nO mais tardar em 31 de Dezembro de 2001, a Comissão apresentará ao Parlamento Europeu e ao Conselho um segundo relatório sobre a aplicação do presente regulamento, acompanhado das propostas adequadas para o novo regime aplicável após 31 de Dezembro de 2002."
+  },
+  "e98483dd57e7c2c3": {
+   "fragment_id": "Artigo 33o",
+   "type": "artigo",
+   "heading": "Artigo 33o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33o\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Julho de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 13 de Fevereiro de 1993.\n\nPelo Conselho\n\nO Presidente\n\nB. WESTH\n\n(1) JO no C 232 de 10. 9. 1992, p. 3.\n\n(2) JO no C 21 de 25. 1. 1993.\n\n(3) JO no C 19 de 25. 1. 1993, p. 99.\n\n(4) JO no L 137 de 27. 5. 1985, p. 39.\n\n(5) JO no L 118 de 20. 5. 1972, p. 1. Com a última redacção que lhe foi dada pelo Regulamento (CEE) no 1754/92 (JO no L 180 de 1. 7. 1992, p. 23).\n\n(6) JO no L 356 de 24. 12. 91, p. 1.\n\n(7) JO no L 173 de 27. 6. 92, p. 1.\n\n(8) JO no L 173 de 27. 6. 92, p. 13.\n\n(9) JO no L 185 de 15. 7. 88, p. 9.\n\n(10) JO no L 374 de 31. 12. 88, p. 1.\n\n(11) JO no L 94 de 28. 4. 1970, p. 13. Com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2048/88 (JO no L 185 de 15. 7. 1988, p. 1)."
+  },
+  "dd0c4ae455f3928f": {
+   "fragment_id": "ANEXO — Quantidades tradicionais de bananas dos Estados ACP Toneladas/peso líquido Costa do Marfim 155 000",
+   "type": "divisao",
+   "heading": "ANEXO — Quantidades tradicionais de bananas dos Estados ACP Toneladas/peso líquido Costa do Marfim 155 000",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Quantidades tradicionais de bananas dos Estados ACP Toneladas/peso líquido Costa do Marfim 155 000\n\nCamarões 155 000\n\nSuriname 38 000\n\nSomália 60 000\n\nJamaica 105 000\n\nSanta Lúcia 127 000\n\nSão Vicente e Granadinas 82 000\n\nDominica 71 000\n\nBelize 40 000\n\nCabo Verde 4 800\n\nGranada 14 000\n\nMadagáscar 5 900\n\n857 700"
+  },
+  "8be20a4b9b3037ba": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Fevereiro de 1993\n\nque estabelece a organização comum de mercado no sector das bananas\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 42.º e 43.º,\n\nTendo em conta o protocolo relativo ao contingente pautal para as importações de bananas anexo à convenção de aplicação relativa à associação dos países e territórios ultramarinos à Comunidade, prevista no artigo 136.º do Tratado e, nomeadamente, o seu n.º 4,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4eff32e8-9861-424a-a82b-baa09bb7b8e7.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/4eff32e8-9861-424a-a82b-baa09bb7b8e7.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/4eff32e8-9861-424a-a82b-baa09bb7b8e7.0016.03/DOC_1#E0003)),\n\nConsiderando que o funcionamento e o desenvolvimento do mercado comum dos produtos agrícolas devem ser acompanhados do estabelecimento de uma política agrícola comum; que esta deve comportar, nomeadamente, uma organização comum dos mercados agrícolas susceptível de assumir formas, consoante os produtos;\n\nConsiderando que, até à data, existiam nos Estados-membros produtores de bananas de organizações de mercado nacionais destinadas a garantir aos produtores o escoamento da sua produção no mercado nacional e a obtenção de receitas proporcionais aos custos de produção; que estas organizações de mercado nacionais aplicam restrições quantitativas que dificultam a realização do mercado comum no sector das bananas; que alguns dos Estados-membros não produtores garantem um escoamento privilegiado das bananas provenientes dos Estados ACP, enquanto outros aplicam um regime de importação liberal, que inclui, num dos casos, privilégios pautais; que estes diferentes regimes dificultam a livre circulação das bananas no interior da Comunidade e a instituição de um regime comum de comércio com os países terceiros; que, com vista à realização do mercado interno é necessário criar uma organização comum de mercado equilibrada e flexível no sector das bananas, que substitua os diferentes regimes nacionais;\n\nConsiderando que essa organização comum de mercado deve, no respeito da preferência comunitária e das diversas obrigações internacionais da Comunidade, permitir o escoamento no mercado comunitário, a preços equitativos tanto para os produtores como para os consumidores, das bananas produzidas na Comunidade, bem como das originárias dos Estados ACP fornecedores tradicionais, sem prejuízo das importações de bananas originárias dos demais países terceiros fornecedores e assegurando os rendimentos suficientes aos produtores;\n\nConsiderando que, a fim de permitir o abastecimento do mercado em produtos de qualidade homogénea e satisfatória no respeito das especificidades e das diversas variedades produzidas e de assegurar o escoamento dos produtos comunitários a preços remuneradores que garantam receitas adequadas, é conveniente estabelecer normas comuns de qualidade para as bananas frescas e, caso necessário, de comercialização para os produtos transformados à base de bananas;\n\nConsiderando que, a fim de maximizar as receitas relativas às bananas produzidas na Comunidade, é conveniente incentivar, designadamente mediante a concessão de ajudas ao início das actividades, a formação de organizações de produtores; que, para dar a estas organizações um papel eficaz na concentração da oferta, é conveniente que os seus membros se comprometam a comercializar através delas a totalidade da sua produção; que é igualmente conveniente permitir a formação de outros tipos de associações, agrupando, por exemplo, organizações de produtores e representantes de outras actividades do sector; que é conveniente definir, subsequentemente, as condições em que estas associações representativas das diversas actividades do sector podem desenvolver acções de interesse geral e tornar as suas regras extensíveis, a nível local ou regional, aos não aderentes; que estas organizações podem, além disso, ser consultadas aquando da elaboração dos programas e desempenhar um papel activo na realização das acções de carácter estrutural a desenvolver no âmbito da organização dos mercados;\n\nConsiderando que as deficiências estruturais que limitam a competitividade das produções comunitárias devem ser atenuadas, designadamente com o objectivo de aumentar a produtividade; que, para esse efeito, e no âmbito dos quadros comunitários de apoio para as regiões produtoras, é conveniente elaborar programas no quadro da cooperação entre a Comissão e as autoridades nacionais e regionais, associando, na medida do possível, à elaboração das acções a desenvolver os vários tipos de organizações do sector atrás referidos;\n\nConsiderando que, até à data, as organizações de mercado nacionais permitiram aos produtores nacionais de bananas obter no mercado receitas suficientes para manter as respectivas produções aos custos suportados pelos produtores; que a criação da organização comum de mercado não deve piorar a situação actual dos produtores e atendendo a que a mesma é susceptível de causar modificações no nível dos preços praticados nos mercados, pelo que é conveniente prever uma ajuda compensatória que cubra a perda de rendimentos que pode decorrer da aplicação do novo sistema e mantenha a produção comunitária aos custos que a situação estrutural específica impõe, nomeadamente enquanto não se proceder aos ajustamentos previstos nas medidas estruturais; que é conveniente prever um ajustamento da ajuda, de modo a tomar em consideração o aumento da produtividade e a evolução das várias qualidades;\n\nConsiderando que, em certas regiões produtoras, bem definidas, da Comunidade, caracterizadas por condições de produção particularmente desfavoráveis para a produção de bananas e mais aptas para culturas alternativas, é conveniente incentivar o abandono definitivo da produção de bananas mediante a concessão de um prémio à cessação da cultura de bananas; que é conveniente, a fim de limitar os custos económicos da operação, que este arranque seja efectuado logo que possível;\n\nConsiderando que as perspectivas de produção e de consumo comunitários devem ser avaliadas no âmbito de uma estimativa anual; que esta estimativa deve poder ser revista ao longo do ano, em função da ocorrência de circunstâncias nomeadamente climáticas especiais;\n\nConsiderando que, a fim de permitir uma comercialização satisfatória das bananas colhidas na Comunidade, bem como dos produtos originários dos Estados ACP, no âmbito dos acordos da Convenção de Lomé, mantendo simultaneamente, tanto quanto possível, as correntes comerciais tradicionais, há que prever a abertura de um contingente pautal no âmbito do qual, por um lado, as importações de bananas de países terceiros estão sujeitas à cobrança de um montante de 100 ecus por tonelada, que corresponde ao direito pautal actualmente praticado e, por outro, as importações de bananas não tradicionais dos Estados ACP beneficiam de um direito zero em conformidade com os acordos acima referidos; que devem ser previstas disposições para assegurar que o volume do contingente pautal seja alterado de modo a reflectir a evolução do consumo comunitário estabelecido no balanço previsional da produção e do consumo;\n\nConsiderando que as importações fora do contingente pautal devem ser sujeitas à cobrança de um direito pautal de nível suficientemente elevado para permitir um escoamento em condições aceitáveis da produção comunitária, bem como das quantidades tradicionais ACP;\n\nConsiderando que as importações tradicionais de bananas dos Estados ACP se efectuam fora do contingente com direito zero, no âmbito das quantidades tradicionais que têm em conta os investimentos específicos já realizados no âmbito de programas de aumento da produção;\n\nConsiderando que, para respeitar os objectivos acima recordados, tomando simultaneamente em conta a especificidade da comercialização das bananas, a gestão do contingente pautal deve ser efectuada distinguindo, por um lado, os operadores que comercializaram num período anterior bananas dos países terceiros e bananas não tradicionais dos países ACP e, por outro, os operadores que comercializaram, num período anterior, bananas produzidas na Comunidade e bananas tradicionais dos países ACP, reservando ao mesmo tempo uma quantidade disponível para os novos operadores que iniciaram recentemente uma actividade comercial ou vão iniciar uma actividade comercial neste sector;\n\nConsiderando que, para não perturbar as actuais relações comerciais e permitir simultaneamente uma determinada evolução das estruturas de comercialização, a concessão de autorizações de importação a cada operador, diferentes para cada uma das categorias acima definidas, deve-se realizar com base na quantidade média de bananas por ele comercializada durante os três anos anteriores para os quais estão disponíveis dados estatísticos;\n\nConsiderando que ao adoptar critérios suplementares a que os operadores devem obedecer, a Comissão se orientará pelo princípio de que as licenças deverão ser concedidas a pessoas singulares ou colectivas que tenham assumido o risco comercial da comercialização de bananas e pela necessidade de evitar perturbações nas relações comerciais normais entre pessoas que ocupem pontos diferentes na cadeia de comercialização;\n\nConsiderando que, tendo em conta as estruturas de comercialização, o recenseamento dos operadores e a determinação das quantidades comercializadas a adoptar como referência para a emissão dos certificados devem ser efectuados pelos Estados-membros com base em modalidades e critérios adoptados pela Comissão;\n\nConsiderando que o acompanhamento das importações, nomeadamente no âmbito do contingente pautal tem necessidade de um regime de certificados de importação, acompanhados de garantia;\n\nConsiderando que é conveniente prever a possibilidade de a Comissão tomar as medidas adequadas para fazer face a perturbações ou ameaças de perturbação graves susceptíveis de pôr em perigo objectivos previstos no artigo 39.º do Tratado;\n\nConsiderando que o funcionamento da organização comum dos mercados ficaria comprometido pela concessão de determinados auxílios; que, por conseguinte, é conveniente aplicar no sector das bananas as disposições do Tratado que permitem examinar os auxílios nacionais concedidos pelos Estados-membros e proibir os auxílios incompatíveis com o mercado comum;\n\nConsiderando que, a fim de facilitar a aplicação das disposições previstas, é conveniente prever um processo de estreita cooperação entre os Estados-membros e a Comissão no âmbito de um comité de gestão;\n\nConsiderando que a organização comum de mercado no sector das bananas deve tomar em consideração, simultaneamente e de modo adequado, os objectivos previstos nos artigos 39.º e 110.º do Tratado;\n\nConsiderando que a substituição dos diferentes regimes nacionais pela organização comum de mercado, aquando da entrada em vigor do presente regulamento, pode causar perturbações no mercado interno; que é conveniente, por conseguinte, prever, a partir de 1 de Julho de 1993, a possibilidade de a Comissão tomar as medidas de transição necessárias para ultrapassar as dificuldades resultantes da aplicação do novo regime;\n\nConsiderando que é conveniente alargar o âmbito de aplicação do Regulamento (CEE) n.º 1319/85 do Conselho, de 23 de Maio de 1985, relativo ao reforço dos meios de controlo da aplicação da regulamentação comunitária no sector das frutas e produtos hortícolas ([^4^](http://publications.europa.eu/resource/cellar/4eff32e8-9861-424a-a82b-baa09bb7b8e7.0016.03/DOC_1#E0004)), de modo a permitir controlar a observância das normas instituídas para o sector das bananas, no âmbito do referido regulamento;\n\nConsiderando que a importância social, económica, cultural e ambiental que tem o cultivo de banana nas regiões comunitárias dos departamentos franceses ultramarinos, da Madeira, dos Açores, do Algarve, de Creta, da Lacónia e das ilhas Canárias, regiões caracterizadas pela sua insularidade, afastamento e atraso estrutural, agravado nalguns casos pela dependência económica desta cultura.\n\nConsiderando que é conveniente estudar o funcionamento do presente regulamento após um período intermédio de aplicação bem como antes do final do décimo ano seguinte ao da sua entrada em vigor, a fim de examinar o novo regime que deve ser aplicado após essa data,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6d6f5ba5c8a38b5e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É instituída uma organização comum de mercado no sector das bananas.\n\n2. A organização comum de mercado abrange os seguintes produtos:\n\nCódigos NC Designação das mercadorias\n\n0803 00 19 Bananas frescas, excluindo os plátanos\n\nex080300 90 Bananas secas, excluindo os plátanos\n\nex081295 90 Bananas conservadas transitoriamente\n\nex081350 99 Misturas contendo bananas secas\n\n1106 30 10 Farinhas, sêmolas e pós de bananas\n\nex200600 99 Bananas conservadas em açúcar\n\nex200710 99 Preparações homogeneizadas de banana\n\nex200799 39ex200799 58ex200799 98 Doces, geleias, *marmelades*, purés e pastas de banana\n\nex200892 59ex200892 78ex200892 93ex200892 98 Misturas de bananas preparadas ou conservadas de outro modo\n\nex200899 49ex200899 68ex200899 99 Bananas preparadas ou conservadas de outro modo\n\nex200980 35ex200980 38ex200980 79ex200980 86ex200980 89ex200980 99 Sumo de banana\n\n3. A campanha de comercialização inicia-se em 1 de Janeiro e termina em 31 de Dezembro."
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "03dad351fe374683": {
+   "fragment_id": "Das normas comuns de qualidade e de comercialização",
+   "type": "divisao",
+   "heading": "Das normas comuns de qualidade e de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Das normas comuns de qualidade e de comercialização"
+  },
+  "93230c1e827b4ce0": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. São estabelecidas normas de qualidade que terão em conta as diferentes variedades produzidas para as bananas destinadas a ser entregues, no estado fresco, ao consumidor, com excepção das bananas plátanos.\n\n2. Podem igualmente ser estabelecidas normas de comercialização para os produtos transformados à base de bananas."
+  },
+  "134f663ebdff497d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Salvo derrogação decidida pela Comissão, de acordo com o processo previsto no artigo 27.º, os produtos relativamente aos quais tenham sido estabelecidas normas comuns só podem ser comercializados na Comunidade se estiverem em conformidade com as referidas normas.\n\n2. Os organismos designados pelos Estados-membros procederão a um controlo de conformidade destinado a verificar se os produtos respeitam as normas de qualidade."
+  },
+  "5212d857218f077e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs normas de qualidade ou de comercialização, os estádios de comercialização em que os produtos as devem respeitar e as medidas destinadas a garantir a aplicação uniforme do disposto nos artigos 2.º e 3.º, incluindo as medidas em matéria de controlo, serão adoptadas de acordo com o processo previsto no artigo 27.º"
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "df8179cc37bee49c": {
+   "fragment_id": "Do regime comercial com países terceiros",
+   "type": "divisao",
+   "heading": "Do regime comercial com países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Do regime comercial com países terceiros"
+  },
+  "bc1468b3b89440f2": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Salvo disposição em contrário do presente regulamento, as taxas dos direitos da Pauta Aduaneira Comum são aplicáveis aos produtos a que se refere o n.º 2 do artigo 1.º\n\n2. A fim de evitar ou reprimir os efeitos nocivos para o mercado comunitário que possam resultar das importações de certos produtos referidos no n.º 2 do artigo 1.º, a importação, à taxa do direito previsto na Pauta Aduaneira Comum, de um ou vários desses produtos fica sujeita ao pagamento de um direito de importação adicional, se estiverem preenchidas as condições decorrentes do artigo 5.º do acordo sobre a agricultura, celebrado em conformidade com o artigo 228.º do Tratado no âmbito das negociações comerciais multilaterais do «Uruguay Round», salvo se não houver risco de as importações perturbarem o mercado comunitário ou se os efeitos forem desproporcionados em relação ao objectivo pretendido.\n\n3. Os preços de desencadeamento abaixo dos quais pode ser imposto um direito de importação adicional são os preços enviados pela Comunidade à Organização Mundial do Comércio.\n\nOs volumes de desencadeamento que terão de ser ultrapassados para impor um direito de importação adicional são determinados com base, nomeadamente, nas importações para a Comunidade nos três anos que antecedem aquele em que os efeitos prejudiciais referidos no n.º 1 se verifiquem ou ameacem verificar-se.\n\n4. Os preços de importação a ter em consideração para a imposição de um direito de importação adicional são determinados com base nos preços CIF de importação da remessa em causa.\n\nOs preços de importação CIF são verificados, para o efeito, com base nos preços representativos do produto em questão no mercado mundial ou no mercado de importação comunitário do produto.\n\n5. A Comissão adoptará as normas de execução do presente artigo de acordo com o processo previsto no artigo 27.º Tais normas incidirão, designadamente, sobre:\n\na) Os produtos a que são aplicados direitos de importação adicionais, nos termos do artigo 5.º do acordo sobre a agricultura;\n\nb) Os outros critérios necessários para assegurar a execução do n.º 1, em conformidade com o artigo 5.º do referido acordo."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "b3e6ee1ed0fa45cb": {
+   "fragment_id": "Das disposições gerais",
+   "type": "divisao",
+   "heading": "Das disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Das disposições gerais"
+  },
+  "4163404e4cb4a26c": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Na importação dos produtos referidos no artigo 1.º e salvo disposições em contrário previstas no presente regulamento, são proibidas:\n\n— a cobrança de qualquer taxa de efeito equivalente a um direito aduaneiro,\n\n— a aplicação de quaisquer restrições quantitativas ou medidas de efeito semelhante."
+  },
+  "ca9a28a4ee533f36": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nAplicam-se à classificação dos produtos abrangidos pelo presente regulamento as regras gerais para a interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação; a nomenclatura pautal resultante da aplicação do presente regulamento será integrada na Pauta Aduaneira Comum."
+  },
+  "35a415fcc4f7b7ae": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Se, devido às importações ou exportações, o mercado comunitário de um ou vários produtos a que se refere o n.º 1 sofrer, ou correr o risco de sofrer, perturbações graves que possam pôr em perigo os objectivos do artigo 39.º do Tratado, podem ser aplicadas medidas adequadas ao comércio com países terceiros até que desapareça a perturbação ou ameaça de perturbação.\n\nO Conselho, deliberando sob proposta da Comissão de acordo com o processo previsto no n.º 2 do artigo 43.º do Tratado, adoptará as regras gerais de aplicação do presente número e definirá os casos e os limites em que os Estados-membros podem tomar medidas cautelares.\n\n2. Se se verificar a situação prevista no n.º 1, a Comissão, a pedido de um Estado-membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas aos Estados-membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-membro, tomará uma decisão no prazo de três dias úteis seguintes ao da recepção.\n\n3. Qualquer Estado-membro pode submeter ao Conselho a medida tomada pela Comissão, no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada, pode alterar ou anular a medida em causa.\n\n4. A Comissão adoptará as normas de execução do presente artigo de acordo com o processo previsto no artigo 27.º\n\n5. O disposto no presente artigo será aplicado no respeito das obrigações decorrentes dos acordos internacionais celebrados em conformidade com o n.º 2 do artigo 228.º do Tratado."
+  },
+  "f027f4fa0d2a16f2": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nSalvo disposição em contrário do presente regulamento, os artigos 92.º a 94.º do Tratado são aplicáveis à produção e ao comércio dos produtos referidos no artigo 1.º"
+  },
+  "8f3836becd3a16c2": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. A Comissão será assistida pelo Comité de Gestão das Frutas e Produtos Hortícolas Frescos referido no n.º 1 do artigo 46.º do Regulamento (CE) n.º 2200/96.\n\nAs referências ao Comité de Gestão das Bananas devem entender-se como feitas ao comité referido no primeiro parágrafo.\n\n2. Sempre que seja feita referência ao presente artigo, aplicar-se-ão os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE será de um mês.\n\n3. O comité adoptará o seu regulamento interno."
+  },
+  "d386787be84527c2": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO comité pode examinar qualquer outra questão levantada pelo seu presidente, quer por iniciativa própria quer a pedido do representante de um Estado-membro."
+  },
+  "e0755c5b569ec596": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs Estados-Membros transmitirão à Comissão as informações necessárias para a execução do disposto no presente regulamento."
+  },
+  "62eff8403af6a45b": {
+   "fragment_id": "Artigo 29.º-A",
+   "type": "artigo",
+   "heading": "Artigo 29.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º-A\n\nAs normas de execução do presente regulamento serão adoptadas de acordo com o processo previsto no n.º 2 do artigo 27.º."
+  },
+  "24343691e88dbd87": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nÉ aplicável a partir de 1 de Julho de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "4d59a1d7ea45af20": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4eff32e8-9861-424a-a82b-baa09bb7b8e7.0016.03/DOC_1#src.E0001)) JO n.º C 232 de 10. 9. 1992, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4eff32e8-9861-424a-a82b-baa09bb7b8e7.0016.03/DOC_1#src.E0002)) JO n.º C 21 de 25. 1. 1993.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4eff32e8-9861-424a-a82b-baa09bb7b8e7.0016.03/DOC_1#src.E0003)) JO n.º C 19 de 25. 1. 1993, p. 99.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4eff32e8-9861-424a-a82b-baa09bb7b8e7.0016.03/DOC_1#src.E0004)) JO n.º L 137 de 27. 5. 1985, p. 39."
+  },
+  "5321f4e5bfda0446": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993R0404 — PT — 01.01.2008 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993R0404) [REGULAMENTO (CEE) N.º 404/93 DO CONSELHO](http://publications.europa.eu/resource/celex/31993R0404) [de 13 de Fevereiro de 1993](http://publications.europa.eu/resource/celex/31993R0404) [que estabelece a organização comum de mercado no sector das bananas](http://publications.europa.eu/resource/celex/31993R0404) (JO L 047, 25.2.1993, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

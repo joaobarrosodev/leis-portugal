@@ -1,0 +1,344 @@
+---
+schema_version: '1.0'
+id: pt:dre:179529:por
+title: Decreto-Lei n.º 155/2012
+short_title: null
+summary: Estabelece o regime de proteção jurídica a que ficam sujeitos os símbolos olímpicos e reforça os mecanismos de combate
+  a qualquer forma de aproveitamento ilícito dos benefícios decorrentes do uso dos mesmos, revogando o Decreto-Lei n.º 1/82,
+  de 4 de janeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 155/2012
+official_date: null
+publication_date: '2012-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2012, Série I de 2012-07-18
+  number: '138'
+  series: I
+  supplement: null
+  pages: 3808 - 3810
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13800/0380803810.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-12-13'
+version_history:
+  file: decreto-lei-155-2012.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-13'
+    amending: pt:dre:127145521:por
+    amending_title: Decreto-Lei n.º 171/2019
+    changes:
+    - Adita Artigo 2.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/155/2012/p/cons/20191212/pt/html
+  oj: null
+  dre: '179529'
+  dre_path: /dr/detalhe/decreto-lei/155-2012-179529
+  internal: pt:dre:179529:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2012-179529
+  metadata_url: https://data.dre.pt/eli/dec-lei/155/2012/p/cons/20191212/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-127145565
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-127145565
+  retrieved_at: '2026-10-22T12:29:59Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7b57cc9875b1ac063e7987c9b373a82af592bed204a868a98b4f19e335046507
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:29:59Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-155-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bandeira
+- Multa
+- Contra-ordenação
+- Lisboa
+- Hino
+- Instituto Nacional da Propriedade Industrial
+- Simbolo de Identificação
+- Instituto Português do Desporto e Juventude
+- Jogos Olímpicos
+- ASAE
+- Propriedade Intelectual
+- Registo Nacional de Pessoas Coletivas
+- Comité Olímpico Português
+- Desporto
+- Tribunal da Propriedade Intelectual
+- Tribunal da Relação
+relationships:
+- type: amended_by
+  target: pt:dre:127145521:por
+  label: Adita Artigo 2.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521
+  date: '2019-12-12'
+- type: cites
+  target: celex:31994R0040
+  label: null
+  source: http://data.europa.eu/eli/reg/1994/40/oj
+- type: cites
+  target: celex:32002R0006
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/6/oj
+- type: cites
+  target: celex:32003R1383
+  label: null
+  source: http://data.europa.eu/eli/reg/2003/1383/oj
+- type: cites
+  target: celex:32004L0048
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/48/oj
+- type: cites
+  target: celex:32013R0608
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R1001
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:29:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 155/2012
+
+Decreto-Lei n.º 155/2012
+
+de 18 de julho
+
+Através de um despacho do então Ministro da Educação Nacional, de 7 de dezembro de 1949, e, posteriormente, no Decreto-Lei n.º 41 784, de 6 de agosto de 1958, foi reconhecido ao Comité Olímpico de Portugal o direito exclusivo ao uso dos símbolos olímpicos, em território nacional, nos termos da lei, por forma a evitar a sua utilização indiscriminada e a reservá-los às atividades estritamente relacionadas com o movimento olímpico.
+
+Perante a necessidade de clarificar alguns aspetos desse diploma e prever as infrações - e respetiva sanção - cometidas contra o direito reconhecido ao Comité Olímpico de Portugal, foi publicado o Decreto-Lei n.º 1/82, de 4 de janeiro. Pretendeu-se com esse diploma dar eficácia à proibição de utilizações indevidas dos símbolos olímpicos, contribuindo para o prestígio do movimento olímpico e para evitar a deturpação da mensagem de fraternidade humana que esses símbolos encerram.
+
+Todavia, 30 anos decorridos, impõe-se explicitar e atualizar o conteúdo desse direito, bem como das sanções correspondentes às infrações que sejam contra ele cometidas, tendo em conta a diluição da capacidade distintiva dos símbolos olímpicos e as alterações legislativas entretanto verificadas, das quais se destacam o novo regime jurídico introduzido em matéria de propriedade industrial pelo respetivo Código, aprovado pelo Decreto-Lei n.º 36/2003, de 5 de março, alterado pelos Decretos-Leis n.os 318/2007, de 26 de setembro, e 360/2007, de 2 de novembro, pela Lei n.º 16/2008, de 1 de abril, pelo Decreto-Lei n.º 143/2008, de 25 de julho, e pelas Leis n.os 52/2008, de 28 de agosto, e 46/2011, de 24 de junho, e a transposição para a ordem jurídica interna de instrumentos de direito internacional e comunitário, em especial as regras decorrentes do Acordo sobre Aspectos dos Direitos de Propriedade Industrial Relacionados com o Comércio (ADPIC), celebrado no âmbito da Organização Mundial do Comércio, da qual Portugal é Estado membro, de pleno direito, desde janeiro de 1996, e, bem assim, a transposição para a ordem jurídica interna da Diretiva n.º <a href="eurlex.asp?ano=2004&id=304L0048" title="Link para Directiva da Comunidade Europeia">2004/48/CE</a>, do Parlamento Europeu e do Conselho, de 29 de abril, relativa ao respeito dos direitos de propriedade intelectual, operada através da alteração ao Código da Propriedade Industrial introduzida pela Lei n.º 16/2008, de 1 de abril.
+
+Aproveita-se a iniciativa legislativa para harmonizar os termos constantes do presente regime jurídico com a Carta Olímpica, documento fundamental do Olimpismo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma estabelece o regime de proteção jurídica a que ficam sujeitos os símbolos olímpicos e paralímpicos, adiante designados por propriedades olímpicas e propriedades paralímpicas de acordo com a terminologia usada na Carta Olímpica e nos Estatutos e Regulamentos do Comité Paralímpico Internacional, e reforça os mecanismos de combate a qualquer forma de aproveitamento ilícito dos benefícios decorrentes do uso dos mesmos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 2.º — Propriedades olímpicas e equiparadas
+
+1 - Para os efeitos previstos no presente diploma, entendem-se por «propriedades olímpicas» as seguintes:
+
+a) Divisa olímpica, a expressão latina «Citius, Altius, Fortius»;
+
+b) Símbolo olímpico, o símbolo constituído por cinco anéis entrelaçados, respetivamente das cores azul, amarela, preta, verde e vermelha, com a disposição e a forma de entrelaçamento do modelo oficial apresentado pelo barão Pierre de Coubertin, em 1914, no Congresso Olímpico de Paris;
+
+c) Emblema olímpico, um desenho integrado que associa os anéis olímpicos a um outro elemento distintivo;
+
+d) Bandeira olímpica, a bandeira que representa o símbolo olímpico sobre fundo branco, sendo o anel azul colocado no alto, à esquerda, o mais próximo do mastro;
+
+e) Hino olímpico, a obra musical denominada «Hino Olímpico», composta por Spiro Samara.
+
+2 - São equiparadas às propriedades olímpicas as expressões 'Jogos Olímpicos', 'Olimpíadas' e quaisquer outras semelhantes ou derivadas destas, bem como o logótipo oficial do Comité Olímpico de Portugal (COP), e outros sinais distintivos ou desenhos ou modelos devidamente registados no Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.)
+
+3 - As propriedades olímpicas previstas nos números anteriores constituem sinais com elevado valor simbólico, nos termos e para os efeitos previstos na alínea b) do n.º 3 do artigo 231.º e na alínea b) do n.º 1 do artigo 192.º, ambos do Código da Propriedade Industrial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 2.º-A — Propriedades paralímpicas e equiparadas
+
+1 - Para os efeitos previstos no presente diploma, entendem-se por 'propriedades paralímpicas' as seguintes:
+
+a) Divisa paralímpica, a expressão em língua inglesa 'Spirit in Motion';
+
+b) Símbolo paralímpico, o símbolo composto por três 'agitos', respetivamente das cores vermelha, azul e verde, girando em torno de um único ponto, criado pela agência Scholz & Friends e aprovado em 2003;
+
+c) Emblema paralímpico, um desenho integrado que associa os 'agitos' paralímpicos a um outro elemento distintivo;
+
+d) Bandeira paralímpica, a bandeira que representa o símbolo paralímpico centrado sobre um fundo branco;
+
+e) Hino paralímpico, a obra musical denominada 'Hymn de l'Avenir', composta pelo compositor francês Thierry Darnis.
+
+2 - São equiparadas às propriedades paralímpicas as expressões 'Jogos Paralímpicos', 'Paralimpíada' e quaisquer outras semelhantes ou derivadas destas, bem como o logótipo oficial do Comité Paralímpico de Portugal (CPP), e outros sinais distintivos ou desenhos ou modelos devidamente registados no INPI, I. P.
+
+3 - As propriedades paralímpicas previstas nos números anteriores constituem sinais com elevado valor simbólico, nos termos e para os efeitos previstos na alínea b) do n.º 3 do artigo 231.º e na alínea b) do n.º 1 do artigo 192.º, ambos do Código da Propriedade Industrial.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 3.º — Titular do direito
+
+1 - É reconhecido ao COP o direito exclusivo ao uso das propriedades olímpicas ou equiparadas, independentemente de qualquer registo, depósito ou outra formalidade, bem como a competência exclusiva para autorizar a realização de provas desportivas com fins olímpicos no território nacional.
+
+2 - O disposto no número anterior confere ao COP o direito de impedir terceiros, sem o seu consentimento, de usar, no exercício de quaisquer atividades económicas, qualquer sinal igual, ou semelhante, em produtos ou serviços, e que, em consequência da semelhança entre os sinais, possa causar um risco de confusão, ou associação, no espírito do consumidor com as propriedades olímpicas ou equiparadas.
+
+3 - É reconhecido ao CPP o direito exclusivo ao uso das propriedades paralímpicas ou equiparadas, sendo aplicável, com as necessárias adaptações, o disposto nos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 4.º — Proibições
+
+1 - Sem autorização expressa e por escrito do COP, no seguimento de decisão regularmente tomada por este, é proibido o uso, para fins comerciais, associativos ou desportivos, das propriedades olímpicas ou equiparadas.
+
+2 - A proibição referida no número anterior abrange a organização de eventos desportivos e associativos, as atividades comerciais, o fabrico, a oferta, a armazenagem, o transporte, a importação ou exportação, a publicidade ou a utilização de um produto que imite ou reproduza, no todo ou em parte, uma ou mais propriedades olímpicas ou equiparadas e semelhantes.
+
+3 - As proibições constantes dos números anteriores abrangem as propriedades paralímpicas ou equiparadas, competindo quanto a estas ao CPP a autorização prevista no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 5.º — Insuscetibilidade de registo
+
+1 - O INPI, I. P., recusa o registo de marca, recompensa, logótipo ou desenho ou modelo que contenha, em todos ou alguns dos seus elementos, propriedades olímpicas ou equiparadas, propriedades paralímpicas ou equiparadas, ou quaisquer sinais semelhantes a estas, independentemente dos produtos ou serviços a assinalar ou da atividade das entidades a distinguir.
+
+2 - O Registo Nacional de Pessoas Coletivas recusa a firma ou denominação social de pessoa coletiva que contenha, em todos ou alguns dos seus elementos, a divisa olímpica ou as expressões 'Jogos Olímpicos', 'Olimpíadas' ou quaisquer outras semelhantes a estas, bem como a divisa paralímpica ou as expressões 'Jogos Paralímpicos', 'Paralímpiadas' ou quaisquer outras semelhantes a estas, independentemente do âmbito de atividade a que se destinarem.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 6.º — Nulidade do registo
+
+1 - O registo de marca, de recompensa, de logótipo ou de firma ou denominação social é nulo quando, na sua concessão, tenha sido infringido o disposto no artigo anterior.
+
+2 - A nulidade é invocável a todo o tempo pelo Ministério Público e:
+
+a) Pelo COP, no que respeita às propriedades olímpicas e equiparadas;
+
+b) Pelo CPP, no que respeita às propriedades paralímpicas e equiparadas.
+
+3 - A nulidade decorrente da infração ao disposto no n.º 1 do artigo anterior é declarada pelo INPI, I. P., sem prejuízo do disposto no artigo 34.º do Código da Propriedade Industrial, devendo ser notificados ou citados, para além do titular do direito registado, todos os que, à data da publicação do averbamento previsto na alínea d) do n.º 1 do artigo 29.º do Código da Propriedade Industrial, tenham requerido o averbamento de direitos derivados no INPI, I. P.
+
+4 - A nulidade resultante da infração ao disposto no n.º 2 do artigo anterior tem de ser judicialmente declarada.
+
+5 - Têm legitimidade para intentar a ação de declaração de nulidade prevista no número anterior o Ministério Público e o COP ou o CPP, nos termos do n.º 2, devendo ser citado o titular do direito registado contra quem a ação é intentada.
+
+6 - As ações e decisões finais transitadas em julgado previstas no presente artigo, quando referentes a firmas e denominações, são comunicadas pelo tribunal ao Instituto dos Registos e Notariado, sempre que possível por transmissão eletrónica de dados, para efeitos do respetivo averbamento de registo ou inscrição no Ficheiro Central de Pessoas Coletivas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 7.º — Competência
+
+1 - Para a ação prevista no artigo anterior é competente o Tribunal da Propriedade Intelectual.
+
+2 - Para os efeitos previstos nos artigos 80.º a 92.º do Regulamento (CE) n.º 6/2002, do Conselho, de 12 de dezembro de 2001, e nos artigos 123.º a 133.º do Regulamento (UE) 2017/1001, do Parlamento Europeu e do Conselho, de 14 de junho de 2017, são territorialmente competentes o Tribunal da Propriedade Intelectual e o Tribunal da Relação de Lisboa, em primeira e segunda instâncias, respetivamente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 8.º — Retenção ou suspensão do desalfandegamento de mercadorias
+
+1 - As alfândegas que procedam a intervenções aduaneiras retêm ou suspendem o desalfandegamento das mercadorias em que se manifestem indícios de uma infração ao previsto no presente diploma, independentemente da situação aduaneira em que se encontrem.
+
+2 - A intervenção referida no número anterior é realizada a pedido do COP, do CPP ou por iniciativa das próprias autoridades aduaneiras, nos termos previstos no Regulamento (UE) n.º 608/2013, do Parlamento Europeu e do Conselho, de 12 de junho.
+
+3 - As autoridades aduaneiras devem notificar imediatamente os interessados da retenção ou da suspensão da autorização de saída das mercadorias.
+
+4 - A intervenção aduaneira caduca se, no prazo de 10 dias úteis a contar da data da receção da respetiva notificação ao COP ou ao CPP, não for iniciada a competente ação judicial para determinar se houve violação de um direito de propriedade intelectual com o pedido de apreensão das mercadorias.
+
+5 - O prazo previsto no número anterior pode ser prorrogado, por igual período, em casos devidamente justificados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 9.º — Ilícito contraordenacional
+
+1 - A violação do disposto no artigo 4.º constitui contraordenação punível com coima de (euro) 3000 a (euro) 30 000, caso se trate de pessoa coletiva, e de (euro) 750 a (euro) 3500, caso se trate de pessoa singular.
+
+2 - Quem, sem autorização do COP ou do CPP e com intenção de preparar a execução dos atos referidos no artigo 4.º, fabricar, importar, adquirir, acondicionar, transportar ou guardar, para si ou para outrem, sinais ou desenhos ou modelos contendo, respetivamente, propriedades olímpicas ou equiparadas, propriedades paralímpicas ou equiparadas, ou que constituam imitação das mesmas incorre em contraordenação punível com coima de (euro) 3000 a (euro) 30 000, caso se trate de pessoa coletiva, e de (euro) 750 a (euro) 3500, caso se trate de pessoa singular.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 10.º — Instrução dos processos e aplicação das coimas
+
+1 - A instrução dos processos de contraordenação compete à Autoridade de Segurança Alimentar e Económica.
+
+2 - A aplicação das coimas compete ao presidente do Instituto Português do Desporto e Juventude, I. P.
+
+###### Artigo 11.º — Destino do montante das coimas
+
+O produto resultante da aplicação de coimas previstas no presente diploma tem a seguinte distribuição:
+
+a) 60 % para o Estado;
+
+b) 20 % para o Instituto Português do Desporto e Juventude, I. P.;
+
+c) 10 % para a Autoridade de Segurança Alimentar e Económica;
+
+d) 10 % para o INPI, I. P.
+
+###### Artigo 12.º — Apreensão de objetos, materiais e instrumentos
+
+São sempre apreendidos os objetos em que se manifeste a prática de uma contraordenação prevista no presente diploma, bem como os materiais ou instrumentos que tenham sido predominantemente utilizados para essa prática.
+
+###### Artigo 13.º — Garantia de respeito pelos direitos de propriedade industrial e pelos segredos comerciais
+
+São aplicáveis à proteção dos símbolos olímpicos e equiparados e dos símbolos paralímpicos e equiparados previstos no presente diploma, com as necessárias adaptações, as medidas e procedimentos que visam garantir o respeito pelos direitos de propriedade industrial e pelos segredos comerciais, constantes dos artigos 337.º a 358.º do Código da Propriedade Industrial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 171/2019 - Diário da República n.º 239/2019, Série I de 2019-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521), em vigor a partir de 2019-12-13
+
+###### Artigo 14.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 1/82, de 4 de janeiro.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira.
+
+Promulgado em 16 de julho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 17 de julho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

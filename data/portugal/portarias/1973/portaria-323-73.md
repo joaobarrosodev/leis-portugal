@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:421989:por
+title: Portaria n.º 323/73
+short_title: null
+summary: Altera a redacção do n.º 4.º da Portaria n.º 443/71, que estabeleceu as normas de classificação do lúpulo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Agrícolas
+proposing_entity: null
+official_number: 323/73
+official_date: null
+publication_date: '1973-05-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 109/1973, Série I de 1973-05-09
+  number: '109'
+  series: I
+  supplement: null
+  pages: 752 - 752
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/05/10900/07520752.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421989'
+  dre_path: /dr/detalhe/portaria/323-1973-421989
+  internal: pt:dre:421989:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/323-1973-421989
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/323-1973-421989
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9eaf112657b185619a233ff3fa45cb96f1a4a51be2df612406affa54ff09a86e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:285974:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:285974:por
+  label: Alterados os preços do lúpulo, a que se refere o n.º 4.º da Port 443/71 de 19-Ago, na redacção dada pela presente,
+    pelo(a) Portaria n.º 570/77 - Diário da República n.º 211/1977, Série I de 1977-09-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/570-1977-285974
+  date: '1977-09-12'
+- type: cites
+  target: pt:dre:635258:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:04:03Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 323/73
+
+de 9 de Maio
+
+Pela [Portaria n.º 443/71](https://diariodarepublica.pt/dr/detalhe/portaria/443-1971-635258), de 19 de Agosto, publicada no Diário do Governo, 1.ª série, n.º 195, foram estabelecidas as normas de classificação do lúpulo.
+
+Por razões de ordem climática, reconheceu-se vantajoso alterar o n.º 4 daquela portaria.
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que o referido n.º 4.º da citada portaria passe a ter a seguinte redacção:
+
+4.º Será estabelecida para o lúpulo seco e prensado de produção nacional a seguinte classificação:
+
+I classe:
+
+Lúpulo sem manchas ou muito ligeiramente manchado, não desfolhado, com cor e brilho característico da variedade;
+
+Ausência de inflorescência (cones) com aspecto denunciador de doenças, acidentes ou fermentações anormais;
+
+Ausência de sementes, material lenhoso, folhas e substâncias estranhas (pedras, torrões, areias, fios, etc.);
+
+Lupulina com cor amarelo-ouro e brilho característico;
+
+Ráquis fino, sem cor verde;
+
+Humidade final não superior a 10,5%.
+
+II classe:
+
+Lúpulo com cor e brilho característicos da variedade, podendo apresentar algumas manchas superficiais que não afectem o aspecto e qualidade da luzulina;
+
+Ausência de inflorescências (cones) com aspecto denunciador de doenças ou fermentações anormais;
+
+Ausência de sementes, material lenhoso e substâncias estranhas (pedras, torrões, areias, fios, etc.);
+
+Lupulina amarelo-ouro e brilho característico;
+
+Humidade não superior a 10,5%.
+
+III classe:
+
+Lúpulo de cor verde, manchado, com folhas, detritos e outros aspectos denunciadores de colheitas e secagem pouco cuidadas, sem que, todavia, excedam os seguintes limites;
+
+Sementes, pedúnculos (considerados como caules a partir de 2,5 cm), partes de caule e folhas até ao limite máximo de 15%;
+
+Sementes até ao limite máximo de 2%;
+
+Humidade final até 10,5%.
+
+Secretaria de Estado da Agricultura, 19 de Abril de 1973. - O Secretário de Estado da Agricultura, José Eduardo Mendes Ferrão.

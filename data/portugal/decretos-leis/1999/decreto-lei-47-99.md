@@ -1,0 +1,1280 @@
+---
+schema_version: '1.0'
+id: pt:dre:172103:por
+title: Decreto-Lei n.º 47/99
+short_title: null
+summary: Regula o turismo de natureza
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 47/99
+official_date: null
+publication_date: '1999-02-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 39/1999, Série I-A de 1999-02-16
+  number: '39'
+  series: I
+  supplement: null
+  pages: 805 - 818
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/02/039a00/08050818.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2009-06-14'
+version_history:
+  file: decreto-lei-47-99.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-02-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-03-12'
+    amending: pt:dre:250610:por
+    amending_title: Decreto-Lei n.º 56/2002
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Secção III
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Secção IV
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 60.º
+    - Altera Artigo 63.º
+  - date: '2008-04-06'
+    amending: pt:dre:247248:por
+    amending_title: Decreto-Lei n.º 39/2008
+    changes:
+    - Altera Artigo 2.º
+    - Revoga Artigo 1.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 42.º
+    - Revoga Artigo 43.º
+    - Revoga Artigo 44.º
+    - Revoga Artigo 45.º
+  - date: '2009-06-14'
+    amending: pt:dre:608703:por
+    amending_title: Decreto-Lei n.º 108/2009
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/47/1999/p/cons/20090515/pt/html
+  oj: null
+  dre: '172103'
+  dre_path: /dr/detalhe/decreto-lei/47-1999-172103
+  internal: pt:dre:172103:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1999-172103
+  metadata_url: https://data.dre.pt/eli/dec-lei/47/1999/p/cons/20090515/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-865037137
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-865037137
+  retrieved_at: '2026-10-22T13:09:06Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e0c998c06d25a25537051b7d2d64c5ad0813fac3642e1ba83adffd378157d6aa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:09:06Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-47-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvará
+- Animação Ambiental
+- Livro de Reclamações
+- CASA da Natureza
+- Turismo
+- Multa
+- Contra-ordenação
+- Definição de Competências
+- Turismo de Natureza
+- Direcção Geral do Turismo
+- Instituto da Conservação da Natureza
+- Licenciamento
+- Proteção do Ambiente
+- Património Natural
+- Rede Nacional de Áreas Protegidas
+- Câmara Municipal
+- Turismo Rural
+- Infraestrutura Turística
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:250610:por
+  label: Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo
+    18.º; Altera Secção III; Altera Artigo 19.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Secção IV; Altera Artigo 25.º;
+    Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 31.º;
+    Altera Artigo 32.º; Altera Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610
+  date: '2002-03-11'
+- type: amended_by
+  target: pt:dre:247248:por
+  label: Altera Artigo 2.º; Revoga Artigo 1.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 7.º; Revoga Artigo 10.º;
+    Revoga Artigo 11.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 16.º; Revoga Artigo 17.º;
+    Revoga Artigo 18.º; Revoga Artigo 19.º; Revoga Artigo 20.º; Revoga Artigo 21.º; Revoga Artigo 22.º; Revoga Artigo 23.º;
+    Revoga Artigo 24.º; Revoga Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248
+  date: '2008-03-07'
+- type: amended_by
+  target: pt:dre:608703:por
+  label: Revoga Artigo 2.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703
+  date: '2009-05-15'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/169/1997/07/04/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:422861:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/102/1996/07/08/p/dre
+- type: cites
+  target: pt:dre:448093:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/336/1993/09/29/p/dre
+- type: cites
+  target: pt:dre:659292:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/37/1997/09/25/p/dre
+article_structure:
+  article_count: 69
+  section_count: 16
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:09:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47/99
+
+Decreto-Lei n.º 47/99
+
+de 16 de Fevereiro
+
+Os espaços naturais surgem cada vez mais, no contexto internacional e nacional, como destinos turísticos em que a existência de valores naturais e culturais constituem atributos indissociáveis do turismo de natureza. As áreas protegidas são, deste modo, locais privilegiados como novos destinos, em resposta ao surgimento de outros tipos de procura, propondo a prática de actividades ligadas ao recreio, ao lazer e ao contacto com a natureza e às culturas locais, cujo equilíbrio, traduzido nas suas paisagens, conferem e transmitem um sentido e a noção de «único» e de «identidade de espaço», que vão rareando um pouco por todo o nosso território.
+
+Considerando que o turismo de natureza é uma vertente da actividade turística ainda incipiente no nosso país, a qual se torna necessário dotar de capacidade de afirmação e competitividade, assegurando, porém, a regulamentação necessária à compatibilização com a preservação dos valores naturais e com as premissas do desenvolvimento local sustentável;
+
+Considerando que por todo o País ocorrem valores do nosso património natural que identificam locais, regiões e paisagens ímpares e que, adequadamente utilizados, permitem atenuar as assimetrias regionais, criar emprego e promover o desenvolvimento local;
+
+Considerando que é necessário uma promoção flexível e adequada, garantindo os fluxos necessários à rentabilização dos investimentos, não pondo em causa a rentabilidade e a preservação das riquezas naturais ou construídas em prol de um turismo sustentável;
+
+Considerando que a consolidação da imagem de Portugal como um destino turístico de qualidade, diferenciado e competitivo pode ser alcançada desde que os recursos naturais sejam preservados, as políticas sectoriais articuladas, qualificados os recursos humanos, estimulada a criatividade e a iniciativa privada dos empreendedores do turismo, defendido o consumidor, mas favorecendo a estabilização e o crescimento controlado dos níveis de fluxo turístico e não comprometendo a competitividade das empresas do sector nos mercados;
+
+Considerando que essa articulação deve ser feita também entre o património cultural, histórico e natural, valorizando-o e divulgando-o, na perspectiva do desenvolvimento integrado da economia turística, promovendo, simultaneamente, a protecção do ambiente, a dinamização da vida cultural portuguesa e a qualidade de vida dos cidadãos, através de um aproveitamento das infra-estruturas suporte da actividade turística e de um melhor aproveitamento das condições naturais e climatéricas no todo nacional;
+
+Considerando que uma visão limitada e condicionada do desenvolvimento turístico não pode deixar de gerar uma dependência excessiva do património natural, conduzindo a uma concentração em zonas sobrecarregadas e a um incremento da indústria paralela, travando a qualidade, desvirtuando os preços, reforçando a sazonalidade da oferta e reduzindo a capitação turista/dia e, sobretudo, inviabilizando, a prazo, a própria sustentabilidade entre a actividade turística e a protecção ambiental;
+
+Considerando as orientações preconizadas quer pela Resolução do Conselho de Ministros n.º 60/97, de 10 de Abril, que têm em vista o estabelecimento de orientações estratégicas para o sector do turismo, articulando e promovendo as várias políticas sectoriais que suportam o desenvolvimento turístico integrado, quer pela Resolução do Conselho de Ministros n.º 102/96, de 8 de Julho, que tem em vista o estabelecimento de medidas concretas para o desenvolvimento sustentável das áreas protegidas;
+
+Tendo em consideração o disposto no n.º 4 da Resolução do Conselho de Ministros n.º 112/98, de 25 de Agosto;
+
+Tendo sido ouvidos os órgãos de governo próprios das Regiões Autónomas, a Associação Nacional de Municípios e as associações representativas dos trabalhadores e dos consumidores:
+
+Assim, nos termos do disposto na alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Âmbito
+
+###### Artigo 1.º — Noção
+
+1 - Turismo de natureza é o produto turístico composto por estabelecimentos, actividades e serviços de alojamento e animação turística e ambiental realizados e prestados em zonas integradas na rede nacional de áreas protegidas, adiante designadas por áreas protegidas.
+
+2 - O turismo de natureza desenvolve-se segundo diversas modalidades de hospedagem, de actividades e serviços complementares de animação ambiental, que permitam contemplar e desfrutar o património natural, arquitectónico, paisagístico e cultural, tendo em vista a oferta de um produto turístico integrado e diversificado.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 2.º — Âmbito
+
+1 - (Revogado);
+
+2 - Integram-se ainda no turismo de natureza as actividades de animação ambiental nas modalidades de:
+
+a) Animação;
+
+b) Interpretação ambiental;
+
+c) Desporto de natureza.
+
+3 - Os requisitos das instalações, da classificação e do funcionamento das casas de natureza previstas na alínea b) do n.º 1, bem como as actividades de animação ambiental previstas no número anterior, são definidos através de decreto regulamentar.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14
+
+> Alterado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 3.º — Instalações
+
+As instalações onde se desenvolve o turismo de natureza devem integrar-se de modo adequado nas áreas onde se situam, por forma a preservar, recuperar e valorizar o património arquitectónico, histórico, ambiental e paisagístico das respectivas regiões, designadamente através do aproveitamento e manutenção de casas ou construções tradicionais.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 4.º — Áreas protegidas
+
+Para efeitos do disposto no presente diploma, consideram-se áreas protegidas as áreas classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de Janeiro, e demais diplomas legais aplicáveis.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+#### Secção II — Serviços de hospedagem
+
+##### Subsecção I — Modalidades de serviços de hospedagem em casas de natureza
+
+###### Artigo 7.º — Modalidades
+
+1 - Designa-se por casas-abrigo o serviço de hospedagem prestado a turistas em casas recuperadas a partir do património do Estado cuja função original foi desactivada, quer sejam ou não utilizadas como habitação própria do seu proprietário, possuidor ou legítimo detentor.
+
+2 - Designam-se por centros de acolhimento as casas construídas de raiz ou adaptadas a partir de edifício existente, que permitam o alojamento de grupos, com vista à educação ambiental, visitas de estudo e de carácter científico.
+
+3 - Designam-se por casas-retiro as casas recuperadas, mantendo o carácter genuíno da sua arquitectura, a partir de construções rurais tradicionais ou de arquitectura tipificada, quer sejam ou não utilizadas como habitação própria do seu proprietário, possuidor ou legítimo detentor.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+#### Secção III — Actividades de animação ambiental
+
+###### Artigo 8.º — Animação ambiental
+
+Para efeitos do presente diploma, entende-se por animação ambiental a que é desenvolvida tendo como suporte o conjunto de actividades, serviços e instalações para promover a ocupação dos tempos livres dos turistas e visitantes através do conhecimento e da fruição dos valores naturais e culturais próprios da área protegida.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14
+
+##### Subsecção I — Modalidades das actividades de animação ambiental
+
+###### Artigo 9.º — Modalidades
+
+1 - Considera-se animação o conjunto de actividades que se traduzam na ocupação dos tempos livres dos turistas e visitantes, permitindo a diversificação da oferta turística, através da integração dessas actividades e outros recursos das áreas protegidas, contribuindo para a divulgação da gastronomia, do artesanato, dos produtos e das tradições da região onde se inserem, desenvolvendo-se com o apoio das infra-estruturas e dos serviços existentes no âmbito do turismo de natureza.
+
+2 - Interpretação ambiental é toda a actividade que permite ao visitante o conhecimento global do património que caracteriza a área protegida, através da observação, no local, das formações geológicas, da flora, fauna e respectivos habitats, bem como de aspectos ligados aos usos e costumes das populações, com recurso às instalações, sistemas e equipamentos do turismo de natureza.
+
+3 - Consideram-se actividades de desporto de natureza todas as que sejam praticadas em contacto directo com a natureza e que, pelas suas características, possam ser praticadas de forma não nociva para a conservação da natureza.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14
+
+### Capítulo II — Competências
+
+###### Artigo 10.º — Competência da Direcção-Geral do Turismo
+
+Para efeitos do presente diploma, compete à Direcção-Geral do Turismo, sem prejuízo de outras competências atribuídas por lei:
+
+a) Dar parecer, no âmbito dos pedidos de informação prévia, sobre a possibilidade de licenciamento ou de autorização para a realização de obras de edificação relativas a casas de natureza;
+
+b) Dar parecer, no âmbito do pedido do licenciamento ou de autorização para a realização de obras de edificação, sobre os projectos de arquitectura das casas de natureza e sobre a localização das mesmas nos termos previstos no presente diploma;
+
+c) Autorizar as obras previstas nas alíneas a) e b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, quando as mesmas forem realizadas no interior das casas de natureza, nos termos previstos no presente diploma;
+
+d) Vistoriar as casas de natureza para efeitos da sua classificação, revisão da mesma ou desclassificação como casas de natureza;
+
+e) Aprovar o nome e a classificação das casas de natureza.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 11.º — Competência dos órgãos municipais
+
+1 - Para efeitos do presente diploma, compete à câmara municipal, sem prejuízo de outras competências atribuídas por lei:
+
+a) Prestar informação prévia sobre a possibilidade de instalação de casas de natureza;
+
+b) Licenciar ou autorizar a realização de operações urbanísticas das casas de natureza;
+
+c) Promover a vistoria das casas de natureza, já equipadas em condições de iniciar a sua actividade, para efeitos da emissão da licença ou da autorização de utilização para casas de natureza;
+
+d) Apreender o alvará de licença ou de autorização de utilização para casas de natureza e determinar o seu encerramento, quando as respectivas licenças ou autorizações tiverem caducado nos termos do disposto no presente diploma.
+
+2 - Para efeitos do presente diploma, compete ao presidente da câmara municipal emitir o alvará de licença ou de autorização de utilização para casas de natureza.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 12.º — Competência do Instituto da Conservação da Natureza
+
+Para efeitos do presente diploma, compete ao Instituto da Conservação da Natureza, sem prejuízo de outras competências atribuídas por lei:
+
+a) Acompanhar e assegurar a uniformidade do processo de implementação do turismo de natureza;
+
+b) Dar parecer, no âmbito dos pedidos de informação prévia, sobre as iniciativas da instalação das casas de natureza e das actividades de animação ambiental.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 108/2009 - Diário da República n.º 94/2009, Série I de 2009-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), em vigor a partir de 2009-06-14
+
+### Capítulo III — Da instalação das casas de natureza
+
+#### Secção I — Do regime aplicável
+
+###### Artigo 13.º — Instalação
+
+Sem prejuízo do disposto no n.º 1 do artigo seguinte, para efeitos do presente diploma, considera-se instalação de casas de natureza o processo de licenciamento ou de autorização para a realização de operações urbanísticas relativas à construção e ou utilização de edifícios ou suas fracções destinados ao funcionamento daquelas casas.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 14.º — Regime aplicável
+
+1 - Às casas e empreendimentos de turismo no espaço rural aplica-se o disposto no Decreto-Lei n.º 169/97, de 4 de Julho, e no Decreto Regulamentar n.º 37/97, de 25 de Setembro.
+
+2 - Os processos respeitantes à instalação de casas de natureza são regulados pelo regime jurídico da urbanização e edificação, com as especificidades estabelecidas nos artigos seguintes, competindo às câmaras municipais o seu licenciamento ou a sua autorização.
+
+3 - Quando se prevejam obras de urbanização no presente diploma, aplica-se o regime previsto no número anterior.
+
+4 - Os pedidos de informação prévia e de licenciamento ou de autorização de operações urbanísticas relativos à instalação de casas de natureza devem ser instruídos nos termos da legislação referida no n.º 2, e ainda com os elementos constantes no número seguinte, devendo o interessado indicar no pedido a modalidade do serviço de hospedagem, bem como o nome e a classificação pretendidos.
+
+5 - O requerimento referido no número anterior é instruído com os seguintes elementos:
+
+a) Plantas, à escala de 1:25000 ou de 1:1000, referentes à localização das casas;
+
+b) Fotografias, no formato de 20 cm x 25 cm, do interior dos edifícios ou das suas partes destinadas aos hóspedes e das suas fachadas, bem como do local onde se integram;
+
+c) Documentos respeitantes às características históricas, arquitectónicas, ambientais e paisagísticas da região;
+
+d) Plantas da edificação ou edificações existentes, respeitantes a todos os pisos, à escala de 1:100, com referência às unidades de alojamento afectas à exploração turística, quando as mesmas não carecerem de obras.
+
+6 - O requerimento deve especificar os seguintes elementos:
+
+a) O nome e o domicílio do requerente, bem como a indicação da qualidade de proprietário, usufrutuário, locatário, titular do direito de uso e habitação, cessionário de exploração ou comodatário;
+
+b) A escritura de constituição da sociedade, se se tratar de uma sociedade familiar;
+
+c) A denominação a atribuir à casa ou ao empreendimento;
+
+d) A localização e a descrição das casas e seus logradouros e das propriedades, se estas existirem, bem como dos seus arredores;
+
+e) A descrição sumária dos acessos rodoviários, dos transportes públicos, dos serviços médicos e de primeiros socorros e dos estabelecimentos de restauração que servem a casa ou a aldeia;
+
+f) A enumeração e a descrição dos quartos e das restantes divisões, dependências e zonas comuns destinadas aos hóspedes e a indicação das zonas das casas e das propriedades de acesso vedado a estes;
+
+g) A indicação do número de telefone da casa, quando exigível;
+
+h) A enumeração dos serviços a prestar, quando exigível;
+
+i) O período ou períodos de abertura anual;
+
+j) A indicação das línguas estrangeiras faladas pelo requerente;
+
+l) A identificação dos equipamentos de animação e desportivos ou outros de interesse cultural e recreativo disponíveis para utilização pelos hóspedes ou visitantes.
+
+7 - Os estudos e projectos das casas de natureza devem ser subscritos por arquitecto ou por arquitecto em colaboração com engenheiro civil, devidamente identificados.
+
+8 - Para os efeitos do disposto nos n.os 2 e 3 do artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, os pareceres da Direcção-Geral do Turismo e do Instituto da Conservação da Natureza, emitidos, respectivamente, ao abrigo do disposto nos artigos 16.º, 18.º, 19.º e 23.º, são obrigatoriamente comunicados por aquelas entidades à câmara municipal competente.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+#### Secção II — Pedido de informação prévia
+
+###### Artigo 15.º — Requerimento
+
+Qualquer interessado pode requerer à câmara municipal informação prévia sobre a possibilidade de instalar uma casa de natureza e quais os respectivos condicionamentos urbanísticos.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 16.º — Consulta à Direcção-Geral do Turismo
+
+1 - Sempre que a Direcção-Geral do Turismo deva emitir parecer sobre o licenciamento ou a autorização para a realização de obras de edificação referentes a casas de natureza, a câmara municipal deve consultar aquela entidade no âmbito da apreciação do pedido de informação prévia, remetendo-lhe para o efeito a documentação necessária no prazo de dez dias após a recepção do requerimento referido no artigo anterior.
+
+2 - O parecer da Direcção-Geral do Turismo destina-se a verificar os seguintes aspectos:
+
+a) A adequação das casas de natureza projectada ao uso pretendido;
+
+b) O cumprimento das normas estabelecidas no presente diploma e seus regulamentos;
+
+c) A apreciação da localização das casas de natureza, quando estas não se situarem em área que, nos termos de plano de urbanização, plano de pormenor ou licença ou autorização de loteamento em vigor, esteja expressamente afecta ao uso proposto.
+
+3 - A Direcção-Geral do Turismo deve pronunciar-se no prazo de 30 dias a contar da data da recepção da documentação.
+
+4 - A não emissão de parecer dentro do prazo fixado no n.º 3 entende-se como parecer favorável.
+
+5 - Quando desfavorável, o parecer da Direcção-Geral do Turismo é vinculativo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 17.º — Prazo para a deliberação
+
+O prazo para a deliberação da câmara municipal sobre o pedido de informação prévia conta-se a partir da data da recepção do parecer referido no artigo anterior ou do termo do prazo estabelecido para a sua emissão.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 18.º — Consulta ao Instituto da Conservação da Natureza
+
+1 - Sempre que o Instituto da Conservação da Natureza deva emitir parecer sobre o licenciamento ou a autorização para a realização de obras de edificação referentes a casas de natureza, nos termos do disposto no n.º 1 do artigo 23.º, a câmara municipal deve consultar aquela entidade no âmbito da apreciação do pedido de informação prévia, remetendo-lhe para o efeito a documentação necessária no prazo de 10 dias após a recepção do requerimento referido no artigo anterior.
+
+2 - O parecer do Instituto da Conservação da Natureza destina-se:
+
+a) A verificar se as casas de natureza se localizam em áreas protegidas como tal consideradas nos termos previstos no Decreto-Lei n.º 19/93, de 23 de Janeiro;
+
+b) A apreciar se os serviços de hospedagem previstos na alínea anterior contribuem, pela sua implantação e características arquitectónicas, para a criação de um produto integrado de valorização turística e ambiental nas áreas protegidas onde se insiram.
+
+3 - O Instituto da Conservação da Natureza deve pronunciar-se no prazo de 30 dias a contar da data da recepção da documentação.
+
+4 - A não emissão de parecer dentro do prazo fixado no n.º 3 entende-se como parecer favorável.
+
+5 - Quando desfavorável, o parecer do Instituto da Conservação da Natureza é vinculativo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+#### Secção III — Licenciamento ou autorização de operações urbanísticas
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 19.º — Parecer da Direcção-Geral do Turismo
+
+1 - O deferimento pela câmara municipal do pedido de licenciamento ou a autorização para a realização de obras de edificação referentes a casas de natureza carece sempre de parecer da Direcção-Geral do Turismo sobre o projecto de arquitectura.
+
+2 - À consulta prevista no número anterior aplica-se o disposto no artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com excepção do prazo previsto no n.º 8 daquele artigo, que é alargado para 30 dias.
+
+3 - O parecer da Direcção-Geral do Turismo destina-se a verificar os seguintes aspectos:
+
+a) A adequação da casa de natureza projectada ao uso pretendido;
+
+b) O cumprimento das normas estabelecidas no presente diploma e seus regulamentos;
+
+c) A apreciação da localização das casas de natureza, quando estas não se situarem em área que, nos termos de plano de urbanização, plano de pormenor ou licença ou autorização de loteamento em vigor, esteja expressamente afecta ao uso proposto.
+
+4 - A Direcção-Geral do Turismo, juntamente com o parecer, aprova o nome da casa e, a título provisório, fixa a capacidade máxima e aprova a classificação que o mesmo pode atingir de acordo com o projecto apresentado.
+
+5 - A Direcção-Geral do Turismo pode sujeitar a aprovação definitiva da classificação pretendida ao cumprimento de condicionamentos legais ou regulamentares.
+
+6 - A Direcção-Geral do Turismo deve pronunciar-se no prazo de 30 dias a contar da data da recepção da documentação.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 20.º — Parecer desfavorável
+
+1 - Pode ser emitido parecer desfavorável pela Direcção-Geral do Turismo com fundamento na inadequação da casa de natureza projectada ao uso pretendido nas seguintes situações:
+
+a) Caso se verifique a existência de indústrias, actividades ou locais insalubres, poluentes, ruidosos ou incómodos nas proximidades da casa ou a previsão da sua existência em plano especial ou municipal de ordenamento do território legalmente aprovado;
+
+b) Quando não forem preservadas as condições naturais ou paisagísticas do meio ambiente e do património cultural e arquitectónico;
+
+c) Quando não existirem vias de acesso adequadas;
+
+d) Quando não existirem ou forem insuficientes as estruturas hospitalares ou de assistência médica, se o tipo e a dimensão da casa as justificarem;
+
+e) Quando se situarem na proximidade de estruturas urbanas degradadas.
+
+2 - Pode ainda ser emitido parecer desfavorável pela Direcção-Geral do Turismo com fundamento do desrespeito das normas referidas nas alíneas b) e c) do n.º 3 do artigo anterior.
+
+3 - Quando desfavorável, o parecer da Direcção-Geral do Turismo é vinculativo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 21.º — Audição prévia
+
+1 - Quando a Direcção-Geral do Turismo estiver na posse de elementos que possam conduzir a um parecer desfavorável, esta notifica o interessado, dando-lhe a conhecer os mesmos, antes de o comunicar à câmara municipal.
+
+2 - No caso previsto no número anterior pode o interessado, no prazo de oito dias a contar da data da comunicação prevista no número anterior, pronunciar-se por escrito, junto do director-geral do Turismo, de forma fundamentada.
+
+3 - Logo que recebida a resposta do interessado prevista no número anterior, o director-geral do Turismo pode determinar a intervenção de uma comissão, composta por:
+
+a) Um perito por ele nomeado, que presidirá;
+
+b) Um representante da Direcção-Geral do Turismo;
+
+c) Um representante do Instituto da Conservação da Natureza;
+
+d) Um representante da Confederação do Turismo Português;
+
+e) Um representante de outra associação patronal do sector.
+
+4 - Poderão ainda integrar a comissão prevista no número anterior representantes de outros serviços ou organismos cuja intervenção seja considerada conveniente pelo director-geral do Turismo, embora sem direito a voto.
+
+5 - A comissão pronuncia-se sobre a resposta do interessado no prazo de 15 dias a contar da data do despacho que determina a sua intervenção.
+
+6 - Compete ao presidente da comissão convocar os restantes membros com uma antecedência mínima de cinco dias, devendo para tal solicitar previamente às diversas entidades a indicação dos seus representantes.
+
+7 - A ausência dos representantes das entidades referidas nas alíneas b) a e) do n.º 3 e no n.º 4, desde que regularmente convocados, não é impeditiva nem constitui justificação do não funcionamento da comissão nem da emissão do parecer.
+
+8 - A Direcção-Geral do Turismo, quando for caso disso, reformulará a posição inicial de acordo com o sentido do parecer da comissão.
+
+9 - No caso previsto no n.º 1, a Direcção-Geral do Turismo deve comunicar à câmara municipal que o prazo previsto no n.º 6 do artigo 19.º se considera suspenso, de acordo com o estabelecido naquele número.
+
+10 - Quando o director-geral do Turismo não determinar a intervenção da comissão, a Direcção-Geral do Turismo enviará o parecer à câmara municipal no prazo de 15 dias a contar da data da recepção da resposta do interessado ou do termo do prazo previsto no n.º 2.
+
+11 - Quando o director-geral do Turismo determinar a intervenção da comissão, nos termos previstos no n.º 3, enviará o parecer à câmara municipal no prazo de 30 dias a contar da data da recepção do parecer da comissão ou do termo do prazo previsto no n.º 5.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 22.º — Alterações a introduzir
+
+Quando emitir parecer desfavorável, a Direcção-Geral do Turismo deve fundamentar as alterações a introduzir no projecto de arquitectura.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 23.º — Parecer do Instituto da Conservação da Natureza
+
+1 - O deferimento pela câmara municipal do pedido do licenciamento ou de autorização para a realização de obras de edificação referentes a casas de natureza carece de parecer do Instituto da Conservação da Natureza sobre o projecto de arquitectura, se este não se tiver pronunciado no âmbito do pedido de informação prévia.
+
+2 - À consulta prevista no número anterior aplica-se o disposto no artigo 19.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, com excepção do prazo previsto no n.º 8 daquele artigo, que é alargado para 30 dias.
+
+3 - O parecer do Instituto da Conservação da Natureza destina-se:
+
+a) A verificar se as casas de natureza se localizam em áreas protegidas como tal consideradas nos termos previstos no Decreto-Lei n.º 19/93, de 23 de Janeiro;
+
+b) A apreciar se os serviços de hospedagem previstos na alínea anterior contribuem, pela sua implantação e características arquitectónicas, para a criação de um produto integrado de valorização turística e ambiental nas áreas protegidas onde se insiram.
+
+4 - Quando desfavorável, o parecer do Instituto da Conservação da Natureza é vinculativo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 24.º — Obras isentas ou dispensadas de licença municipal
+
+1 - Carecem de autorização da Direcção-Geral do Turismo as obras previstas nas alíneas a) e b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, quando as mesmas forem realizadas no interior das casas de natureza, desde que:
+
+a) Se destinem a alterar a classificação ou a capacidade máxima da casa; ou
+
+b) Sejam susceptíveis de prejudicar os requisitos mínimos exigíveis para a classificação da casa, nos termos do presente diploma e dos regulamentos a que se refere o n.º 3 do artigo 2.º
+
+2 - Para os efeitos previstos no número anterior, o interessado deve dirigir à Direcção-Geral do Turismo um requerimento instruído nos termos dos n.os 4 a 6 do artigo 14.º
+
+3 - A autorização a que se refere o n.º 1 deve ser emitida no prazo de 15 dias a contar da data da recepção da documentação, sob pena de o requerimento se entender como tacitamente deferido.
+
+4 - A Direcção-Geral do Turismo deve dar conhecimento à câmara municipal das obras que autorize nos termos dos números anteriores e, se for caso disso, da alteração da classificação ou da capacidade máxima da casa, para efeito do seu averbamento ao alvará de licença ou de autorização de utilização para casas de natureza.
+
+5 - Se o interessado pretender realizar as obras referidas no n.º 1 durante a construção da casa, deve requerer previamente à Direcção-Geral do Turismo a respectiva autorização, aplicando-se nesse caso o disposto na parte final do n.º 2 e nos n.os 3 e 4.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+#### Secção IV — Licenciamento ou autorização da utilização
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 25.º — Licença ou autorização de utilização para casas de natureza
+
+1 - Concluída a obra e equipada a casa em condições de iniciar o seu funcionamento, o interessado requer a concessão da licença ou da autorização de utilização para casas de natureza dos edifícios novos, reconstruídos, ampliados ou alterados, ou das fracções autónomas cujas obras tenham sido licenciadas ou autorizadas nos termos do presente diploma.
+
+2 - A licença ou a autorização de utilização para casas de natureza destina-se a comprovar, para além do disposto no artigo 62.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, a observância das normas relativas às condições sanitárias.
+
+3 - A licença ou a autorização de utilização para casas de natureza é sempre precedida da vistoria a que se refere o artigo seguinte, a qual substitui a vistoria prevista no artigo 64.º do Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+4 - O prazo para deliberação sobre a concessão da licença ou autorização de utilização é o constante da alínea b) do n.º 1 do artigo 30.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, no caso de se tratar de procedimento de autorização, e o previsto na alínea d) do n.º 1 do artigo 23.º do mesmo diploma, no caso de se tratar de procedimento de licenciamento, a contar em ambos os casos a partir da data da realização da vistoria ou do termo do prazo para a sua realização.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 26.º — Vistoria
+
+1 - A vistoria deve realizar-se no prazo de 30 dias a contar da data da apresentação do requerimento referido no n.º 1 do artigo anterior e, sempre que possível, em data a acordar com o interessado.
+
+2 - A vistoria é efectuada por uma comissão composta por:
+
+a) Três técnicos a designar pela câmara municipal, dos quais, pelo menos, dois devem ter formação e habilitação legal para assinar projectos correspondentes à obra objecto de vistoria;
+
+b) O delegado concelhio de saúde ou o adjunto do delegado concelhio de saúde;
+
+c) Um representante do Instituto da Conservação da Natureza;
+
+d) Um representante do órgão regional ou local de turismo;
+
+e) Um representante da Confederação do Turismo Português;
+
+f) Um representante de outra associação patronal do sector, no caso do requerente o indicar no pedido de vistoria.
+
+3 - O requerente do alvará de licença ou de autorização de utilização para casas de natureza, os autores dos projectos e o técnico responsável pela direcção técnica da obra participam na vistoria sem direito a voto.
+
+4 - Compete ao presidente da câmara municipal convocar as entidades referidas nas alíneas b) a f) do n.º 2 e as pessoas referidas no número anterior com a antecedência mínima de oito dias.
+
+5 - A ausência das entidades referidas nas alíneas b) a f) do n.º 2 e das pessoas referidas no n.º 3, desde que regularmente convocadas, não é impeditiva nem constitui justificação da não realização da vistoria, nem da concessão da licença ou da autorização para turismo de natureza.
+
+6 - A comissão referida no n.º 2, depois de proceder à vistoria, elabora o respectivo auto, devendo entregar uma cópia ao requerente.
+
+7 - Quando o auto de vistoria conclua em sentido desfavorável ou quando seja desfavorável o voto, fundamentado, do elemento referido na alínea b) do n.º 2, não pode ser concedida a licença ou a autorização de utilização para casas de natureza.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 27.º — Alvará de licença ou de autorização de utilização para casas de natureza
+
+1 - Concedida a licença ou a autorização de utilização para casas de natureza, o titular requer ao presidente da câmara municipal a emissão do alvará que a titula, o qual deve ser emitido no prazo de 30 dias a contar da data da recepção do respectivo requerimento.
+
+2 - A emissão do alvará deve ser notificada ao requerente, por correio registado, no prazo de oito dias a contar da data da sua decisão.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 28.º — Funcionamento das casas de natureza
+
+O funcionamento das casas de natureza depende apenas da titularidade do alvará de licença ou de autorização de utilização para casas de natureza, emitido nos termos do disposto no artigo anterior, o qual constitui, relativamente a estes empreendimentos, o alvará de licença ou autorização de utilização previsto nos artigos 62.º e 74.º do Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 29.º — Especificações do alvará
+
+1 - O alvará de licença ou de autorização de utilização para casas de natureza deve especificar, para além dos elementos referidos no n.º 5 do artigo 77.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, os seguintes:
+
+a) A identificação da entidade exploradora das casas de natureza;
+
+b) O nome das casas de natureza;
+
+c) A classificação quanto à modalidade de hospedagem provisoriamente aprovada pela Direcção-Geral do Turismo;
+
+d) A capacidade máxima das casas de natureza provisoriamente fixada pela Direcção-Geral do Turismo.
+
+2 - Sempre que haja alteração de qualquer dos elementos constantes do alvará, a entidade titular da licença ou da autorização de utilização para casas de natureza ou a entidade exploradora das mesmas deve, para efeitos de averbamento, comunicar o facto à câmara municipal no prazo de 30 dias a contar da data do mesmo, enviando cópia à Direcção-Geral do Turismo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 30.º — Modelo de alvará de licença ou autorização de utilização para casas de natureza
+
+O modelo de alvará de licença ou de autorização de utilização para casas de natureza é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e do ordenamento do território e do turismo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 31.º — Alteração da utilização e concessão de licença ou autorização de utilização em edifícios sem anterior título de utilização
+
+1 - Se for requerida a alteração ao uso fixado em anterior licença ou autorização de utilização para permitir que o edifício, ou sua fracção, se destine à instalação de uma casa de natureza ou quando se pretender utilizar total ou parcialmente edifícios que não possuam licença ou autorização de utilização para neles se proceder à instalação daqueles empreendimentos, a câmara municipal deve consultar a Direcção-Geral do Turismo e o Instituto da Conservação da Natureza, aplicando-se aos pareceres destas entidades, com as necessárias adaptações, o disposto nos artigos 19.º e 23.º
+
+2 - Quando as operações urbanísticas previstas no número anterior envolverem a realização das obras previstas nas alíneas a) e b) do n.º 1 do artigo 6.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, o parecer referido no número anterior engloba a autorização prevista no artigo 24.º
+
+3 - O prazo para a realização da vistoria prevista no artigo 30.º conta-se a partir da recepção dos pareceres referidos no n.º 1 ou do termo do prazo para a emissão dos mesmos.
+
+4 - O prazo para deliberação sobre a concessão da licença ou autorização de utilização ou de alteração da utilização é o constante da alínea b) do n.º 1 do artigo 30.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, no caso de se tratar de procedimento de autorização, e o previsto na alínea d) do n.º 1 do artigo 23.º do mesmo diploma, no caso de se tratar de procedimento de licenciamento, a contar em ambos os casos a partir da data da realização da vistoria ou do termo do prazo para a sua realização.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 32.º — Caducidade da licença ou da autorização de utilização para casas de natureza
+
+1 - A licença ou a autorização de utilização para casas de natureza caduca:
+
+a) Se as casas de natureza não iniciarem o seu funcionamento no prazo de um ano a contar da data da emissão do alvará de licença ou de autorização de utilização para casas de natureza, ou do termo do prazo para a sua emissão;
+
+b) Se as casas de natureza se mantiverem encerradas por período superior a um ano, salvo por motivo de obras;
+
+c) Quando seja dada às casas de natureza uma utilização diferente da prevista no respectivo alvará;
+
+d) Se não for requerida a aprovação da classificação quando à modalidade de hospedagem das casas de natureza nos termos previstos no artigo seguinte;
+
+e) Quando, por qualquer motivo, as casas de natureza não puderem ser classificadas ou manter a sua classificação numa das modalidades de hospedagem previstas nas subalíneas i), ii) e iii) da alínea b) do n.º 1 do artigo 2.º
+
+2 - Caducada a licença ou a autorização de utilização para casas de natureza, o respectivo alvará é apreendido pela câmara municipal, a pedido da Direcção-Geral do Turismo.
+
+3 - A apreensão do alvará tem lugar na sequência de notificação ao respectivo titular, sendo em seguida encerrada a casa de natureza.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 33.º — Intimação judicial para a prática de acto legalmente devido
+
+Decorridos os prazos para a prática de qualquer acto especialmente regulado no presente diploma sem que o mesmo se mostre praticado, aplica-se às casas de natureza, com as necessárias adaptações, o disposto nos artigos 111.º, 112.º e 113.º do Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 34.º — Legitimidade para proceder à intimação judicial para a prática de acto legalmente devido
+
+Para efeito do disposto no artigo anterior, as associações patronais do sector do turismo que tenham personalidade jurídica podem intentar, em nome dos seus associados, os pedidos de intimação nele previstos.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+#### Secção V — Classificação
+
+###### Artigo 35.º — Requerimento
+
+1 - No prazo de dois meses a contar da data da emissão do alvará de licença ou de autorização de utilização para casas de natureza ou da abertura da casa nos termos do disposto no artigo 33.º, o interessado deve requerer à Direcção-Geral do Turismo a aprovação definitiva da classificação das casas de natureza.
+
+2 - Salvo no caso de se verificar alguma das situações previstas no artigo 33.º, o requerimento referido no número anterior deve ser acompanhado de cópia do alvará de licença ou de autorização de utilização para casas de natureza.
+
+3 - A aprovação a que se refere o n.º 1 é sempre precedida de vistoria a efectuar pela Direcção-Geral do Turismo, nos termos do artigo seguinte.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 36.º — Vistoria para efeitos de classificação
+
+1 - A vistoria a realizar pela Direcção-Geral do Turismo para a aprovação definitiva da classificação da casa de natureza destina-se a verificar a observância das normas e dos requisitos relativos à classificação pretendida estabelecidos nos regulamentos a que se refere o n.º 3 do artigo 2.º
+
+2 - A vistoria deve realizar-se no prazo de 45 dias a contar da data da apresentação do comprovativo do pagamento das taxas a que se refere o artigo 64.º, e, sempre que possível, em data a acordar com o interessado.
+
+3 - A vistoria é efectuada por uma comissão composta por:
+
+a) Dois técnicos da Direcção-Geral do Turismo;
+
+b) Um representante do órgão regional ou local de turismo;
+
+c) Um representante da Confederação do Turismo Português;
+
+d) Um representante de outra associação patronal do sector, no caso do requerente o indicar no pedido de vistoria.
+
+4 - O requerente participa na vistoria sem direito a voto.
+
+5 - Compete ao director-geral do Turismo convocar as entidades referidas nas alíneas b) a d) do n.º 3 e o requerente com a antecedência mínima de oito dias.
+
+6 - A ausência dos representantes referidos nas alíneas b) a d) do n.º 3 e do requerente, desde que regularmente convocados, não é impeditiva nem constitui justificação da não realização da vistoria.
+
+7 - Depois de proceder à vistoria, a comissão referida no número anterior elabora o respectivo auto, do qual deve constar a capacidade máxima da casa, devendo entregar uma cópia ao requerente.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 37.º — Classificação
+
+1 - No prazo de 15 dias a contar da realização da vistoria referida no artigo anterior ou, não tendo havido vistoria, do termo do prazo para a sua realização, a Direcção-Geral do Turismo deve, a título definitivo, aprovar a classificação da casa e fixar a respectiva capacidade máxima, sem prejuízo do disposto no n.º 4 do artigo 39.º
+
+2 - Quando a classificação ou a capacidade máxima definitivas não coincidam com a classificação ou a capacidade provisórias, a decisão deve ser fundamentada.
+
+3 - A classificação e a capacidade máxima definitivas das casas de natureza são averbadas ao alvará de licença ou de autorização de utilização para casas de natureza, devendo para o efeito a Direcção-Geral do Turismo comunicar o facto à câmara municipal.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 38.º — Deferimento tácito
+
+A não realização da vistoria no prazo fixado no n.º 2 do artigo 36.º ou a falta de decisão final no prazo referido no n.º 1 do artigo anterior valem como deferimento tácito do pedido de aprovação definitiva da classificação da casa de natureza, considerando-se também definitiva a capacidade máxima da mesma provisoriamente fixada.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 39.º — Revisão da classificação
+
+1 - A classificação atribuída a uma casa de natureza pode ser revista pelo órgão competente, a todo o tempo, oficiosamente, a solicitação do respectivo órgão regional ou local de turismo ou a requerimento dos interessados, nas seguintes situações:
+
+a) Verificada a alteração dos pressupostos que a determinaram ao abrigo das normas e dos requisitos previstos nos regulamentos a que se refere o n.º 3 do artigo 2.º;
+
+b) Se o interessado, na sequência de vistoria efectuada ao empreendimento, não realizar as obras ou não eliminar as deficiências para que foi notificado no prazo, não superior a 18 meses, que lhe tiver sido fixado pela Direcção-Geral do Turismo ou pelo presidente da câmara municipal, consoante os casos, sem prejuízo do disposto no n.º 3.
+
+2 - Em casos excepcionais resultantes da complexidade e morosidade da execução dos trabalhos, o prazo previsto no número anterior pode ser prorrogado por um período não superior a 12 meses, a requerimento do interessado.
+
+3 - Sempre que as obras necessitem de licença ou autorização camarária, o prazo para a sua realização é o fixado pela câmara municipal na respectiva licença ou autorização.
+
+4 - Caso se verifique, na sequência de vistoria efectuada à casa, que a mesma não reúne os requisitos mínimos para poder ser classificada em qualquer modalidade das casas de natureza, deve ser determinado o seu imediato encerramento temporário até que sejam realizadas as obras ou eliminadas as deficiências que permitam atribuir-lhe uma nova classificação.
+
+5 - No caso previsto no número anterior, o presidente da câmara municipal, oficiosamente ou a solicitação da Direcção-Geral do Turismo, deve apreender o respectivo alvará de licença ou de autorização de utilização para casas de natureza enquanto não for atribuída à casa nova classificação
+
+6 - À alteração da capacidade máxima das casas de natureza aplica-se, com as necessárias adaptações, o disposto no n.º 1.
+
+7 - Quando for requerida a reclassificação da casa de natureza pelo interessado, aplica-se, com as necessárias adaptações, o disposto nos artigos 36.º a 38.º
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 40.º — Recurso hierárquico facultativo
+
+1 - Quando o interessado não concorde com a classificação ou a capacidade máxima atribuídas pela Direcção-Geral do Turismo nos termos do artigo 37.º, ou com a revisão efectuada nos termos do n.º 1 do artigo anterior, com a necessidade de proceder a obras e com o prazo fixado para a sua realização, pode interpor recurso hierárquico para o membro do Governo responsável pela área do turismo.
+
+2 - Logo que interposto o recurso, o membro do Governo referido no número anterior pode determinar a intervenção de uma comissão composta por:
+
+a) Um perito por ele nomeado, que presidirá;
+
+b) Um representante da Direcção-Geral do Turismo;
+
+c) Um representante do Instituto da Conservação da Natureza;
+
+d) Um representante do órgão regional ou local de turismo;
+
+e) Um representante da Confederação do Turismo Português.
+
+3 - A comissão emite um parecer sobre o recurso interposto no prazo de 30 dias a contar da data do despacho da sua constituição.
+
+4 - Compete ao presidente da comissão convocar os restantes membros com uma antecedência mínima de oito dias, devendo para tal solicitar previamente às diversas entidades a indicação dos seus representantes.
+
+5 - A ausência dos representantes das entidades referidas nas alíneas b) a e) do n.º 2, desde que regularmente convocados, não é impeditiva nem constitui justificação do não funcionamento da comissão nem da emissão do parecer.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 41.º — Dispensa de requisitos
+
+1 - Os requisitos exigidos para a atribuição da classificação pretendida podem ser dispensados quando a sua estrita observância comprometer a rendibilidade da casa ou for susceptível de afectar as características arquitectónicas ou estruturais dos edifícios que:
+
+a) Sejam classificados a nível nacional, regional ou local; ou
+
+b) Possuam reconhecido valor histórico, arquitectónico, artístico ou cultural.
+
+2 - A dispensa de requisitos pode ainda ser concedida a projectos reconhecidamente inovadores e valorizantes da oferta turística.
+
+3 - A verificação do disposto nos números anteriores é feita pela Direcção-Geral do Turismo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+### Capítulo IV — Exploração e funcionamento
+
+###### Artigo 42.º — Regime de exploração das casas de natureza
+
+1 - A exploração de cada casa de natureza deve ser da responsabilidade de uma única entidade.
+
+2 - As casas de natureza apenas podem ser exploradas pelo Instituto da Conservação da Natureza, pelas autarquias locais, por associações de desenvolvimento local, por pessoas singulares ou pequenas e médias empresas.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 43.º — Denominação dos empreendimentos
+
+1 - A denominação das casas de natureza inclui obrigatoriamente a referência à modalidade a que as mesmas pertencem.
+
+2 - As casas de natureza não podem funcionar com denominação diferente da aprovada pela Direcção-Geral do Turismo ou pelo presidente da câmara municipal, consoante os casos.
+
+3 - A denominação das casas de natureza não pode sugerir uma classificação que não lhes caiba ou características que não possuam.
+
+4 - Salvo quando pertencem à mesma organização ou entidade, as casas de natureza não podem usar nomes iguais ou por tal forma semelhantes a outros já existentes ou requeridos que possam induzir em erro ou serem susceptíveis de confusão.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 44.º — Referência à classificação e à capacidade
+
+1 - Em toda a publicidade, correspondência, documentação e, de um modo geral, em toda a actividade externa da casa de natureza não podem ser sugeridas características que esta não possua, sendo obrigatória a referência à classificação aprovada, sem prejuízo do disposto no número seguinte.
+
+2 - Nos anúncios ou reclamos instalados nas próprias casas de natureza pode constar apenas o seu nome.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 45.º — Estado das instalações e do equipamento
+
+1 - As casas de natureza e outras instalações onde se desenvolva o turismo de natureza, bem como o respectivo mobiliário e equipamento, devem ser mantidas em boas condições e em perfeito estado de conservação e higiene.
+
+2 - As casas de natureza devem estar dotadas dos meios adequados para prevenção dos riscos de incêndio de acordo com as normas técnicas estabelecidas nos regulamentos previstos no n.º 3 do artigo 2.º
+
+3 - A Direcção-Geral do Turismo pode determinar a reparação das deteriorações e avarias verificadas, fixando prazo para o efeito, consultando as autoridades de saúde quando estiverem em causa o cumprimento de requisitos da instalação e do funcionamento relativos à higiene e saúde pública.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 46.º — Deveres dos proprietários, possuidores ou legítimos detentores
+
+Os proprietários, possuidores ou legítimos detentores das casas de natureza estão impedidos de:
+
+a) Alterar substancialmente a sua estrutura externa ou o seu aspecto estético exterior;
+
+b) Utilizar as mesmas para fim diverso do autorizado;
+
+c) Realizar ou permitir a realização de actividades susceptíveis de perturbar a tranquilidade dos hóspedes ou adulterar as características do serviço, salvo se os hóspedes participarem das mesmas;
+
+d) Praticar quaisquer actos ou realizar obras que sejam susceptíveis de afectar a continuidade e a unidade urbanística da casa ou prejudicar a implantação dos respectivos acessos;
+
+e) Permitir a hospedagem de um número de pessoas superior à capacidade autorizada para a casa nos termos que vierem a ser estabelecidos nos regulamentos a que se refere o n.º 3 do artigo 2.º
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 47.º — Deveres dos hóspedes
+
+1 - Os hóspedes devem pautar o seu comportamento pelas regras de cortesia e urbanidade, pagar pontualmente as facturas relativas aos serviços que forem prestados e cumprir as normas de funcionamento privativas da casa, desde que estas se encontrem devidamente publicitadas.
+
+2 - Os hóspedes devem ainda abster-se de:
+
+a) Penetrar nas áreas de acesso vedado;
+
+b) Cozinhar nas salas dos quartos, salvo se estes dispuserem de equipamento eléctrico para o efeito;
+
+c) Fazer lume nos quartos, excepto se os mesmos dispuserem de lareira;
+
+d) Alojar terceiros sem autorização do responsável pela casa;
+
+e) Fazer-se acompanhar de animais, excepto se para tal estiverem autorizados.
+
+3 - Os hóspedes são responsáveis pelos danos que causem à casa e ao seu equipamento e mobiliário.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 48.º — Acesso às casas de natureza
+
+1 - Sem prejuízo do disposto no número seguinte, é livre o acesso às casas de natureza.
+
+2 - Pode ser recusado o acesso ou a permanência nas casas destinadas ao serviço de hospedagem a que se refere a alínea b) do n.º 1 do artigo 2.º a quem não cumprir os deveres enunciados no artigo anterior ou, por qualquer forma, perturbe o ambiente familiar e a normal prestação do serviço.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 49.º — Serviço
+
+1 - Nos casas de natureza deve ser prestado um serviço compatível com a respectiva classificação, nos termos previstos nos regulamentos a que se refere o n.º 3 do artigo 2.º
+
+2 - A entidade exploradora das casas de natureza pode contratar com terceiros a prestação de serviços próprios da casa, mantendo-se, porém, responsável pelo seu funcionamento, bem como pelo cumprimento dos requisitos exigidos para a respectiva classificação.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 50.º — Facturação e pagamento dos serviços
+
+1 - Todos os serviços prestados nas casas de natureza devem ser facturados discriminadamente.
+
+2 - Nas casas de natureza pode ser exigido pelo dono da casa o pagamento antecipado dos serviços ajustados.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 51.º — Responsável pelas casas de natureza
+
+1 - Nas casas de natureza deve haver um responsável, nomeado pela respectiva entidade exploradora, a quem cabe zelar pelo seu funcionamento e nível de serviço e ainda assegurar o cumprimento das disposições legais e regulamentares aplicáveis.
+
+2 - Para efeito do disposto no número anterior, a entidade exploradora deve comunicar à Direcção-Geral do Turismo o nome da pessoa ou das pessoas que asseguram permanentemente aquelas funções.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 52.º — Sinais normalizados
+
+Nas informações de carácter geral relativas às casas de natureza e aos serviços que nelas são oferecidos devem ser usados os sinais normalizados constantes de tabela a aprovar por portaria do membro do Governo responsável pela área do turismo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+### Capítulo V — Fiscalização e sanções
+
+###### Artigo 53.º — Competência de fiscalização
+
+1 - Compete à Direcção-Geral do Turismo:
+
+a) Fiscalizar o cumprimento do disposto no presente diploma e seus regulamentos relativamente a todas as casas de natureza, sem prejuízo das competências atribuídas às autoridades de saúde pelo Decreto-Lei n.º 336/93, de 29 de Setembro;
+
+b) Conhecer das reclamações apresentadas sobre o funcionamento e o serviço das casas de natureza, oficiosamente ou a pedido do Instituto da Conservação da Natureza, dos órgãos regionais ou locais de turismo, da Confederação do Turismo Português ou das associações patronais do sector, bem como ordenar as providências necessárias para corrigir as deficiências neles verificadas;
+
+c) Proceder à organização e instrução dos processos referentes às contra-ordenações previstas no presente diploma e seus regulamentos, sem prejuízo das competências em matéria de fiscalização atribuídas às autoridades de saúde pelo Decreto-Lei n.º 336/93, de 29 de Setembro.
+
+2 - Compete às câmaras municipais fiscalizar, oficiosamente ou a pedido do Instituto da Conservação da Natureza, dos órgãos regionais ou locais de turismo, da Confederação do Turismo Português ou das associações patronais do sector, o estado das construções e as condições de segurança de todos os edifícios em que estejam instaladas casas de natureza.
+
+3 - Compete ao Instituto da Conservação da Natureza:
+
+a) Fiscalizar o cumprimento do disposto no diploma que regula as actividades de animação ambiental a que se refere o n.º 3 do artigo 2.º;
+
+b) Proceder à organização e instrução dos processos referentes às contra-ordenações previstas no diploma que regula as actividades de animação ambiental a que se refere o n.º 3 do artigo 2.º, sem prejuízo das competências em matéria de fiscalização atribuídas às autoridades de saúde pelo Decreto-Lei n.º 336/93, de 29 de Setembro.
+
+4 - A competência prevista na alínea a) do n.º 1 pode ser delegada nos órgãos regionais ou locais de turismo.
+
+5 - Quando as acções de fiscalização previstas na alínea b) do n.º 1 e nos n.os 2 e 3 do presente artigo forem efectuadas a pedido do Instituto da Conservação da Natureza ou da Direcção-Geral do Turismo, consoante os casos, dos órgãos regionais ou locais de turismo, da Confederação do Turismo Português ou das associações patronais do sector, a Direcção-Geral do Turismo, o Instituto da Conservação da Natureza ou a câmara municipal, consoante os casos, devem enviar àquelas entidades, no prazo de oito dias a contar da data da sua realização, cópia do auto de fiscalização.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 54.º — Serviços de inspecção
+
+1 - Aos funcionários da Direcção-Geral do Turismo, das câmaras municipais e, quando for caso disso, dos órgãos regionais ou locais de turismo em serviço de inspecção deve ser facultado o acesso às casas de natureza, devendo ainda ser-lhes apresentados os documentos justificadamente solicitados.
+
+2 - No âmbito da sua actividade de inspecção, a Direcção-Geral do Turismo pode recorrer a entidades públicas ou a entidades privadas acreditadas junto desta nas áreas dos serviços, equipamentos e infra-estruturas existentes nas casas de natureza.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 55.º — Livro de reclamações
+
+1 - Em todas as casas de natureza deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
+
+2 - O livro de reclamações deve ser obrigatória e imediatamente facultado ao utente que o solicite.
+
+3 - Um duplicado das observações ou reclamações deve ser enviado pelo responsável da casa à Direcção-Geral do Turismo ou à câmara municipal, consoante os casos.
+
+4 - Deve ser entregue ao utente um duplicado das observações ou reclamações escritas no livro, o qual, se o entender, pode remetê-lo à Direcção-Geral do Turismo ou à câmara municipal, consoante os casos, acompanhado dos documentos e meios de prova necessários à apreciação das mesmas.
+
+5 - O livro de reclamações é editado e fornecido pela Direcção-Geral do Turismo ou pelas entidades que ela encarregar para o efeito, sendo o modelo, o preço, o fornecimento, a distribuição, a utilização e a instrução aprovados por portaria do membro do Governo responsável pela área do turismo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 56.º — Período de funcionamento
+
+As casas de turismo de natureza devem estar abertas ao público durante, pelo menos, seis meses por ano, devendo o proprietário, possuidor ou legítimo detentor comunicar à Direcção-Geral do Turismo, até ao dia 1 de Outubro de cada ano, o período em que pretende encerrar a casa no ano seguinte.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 57.º — Contra-ordenações
+
+1 - Para além das previstas nos regulamentos a que se refere o n.º 3 do artigo 2.º e das estabelecidas no artigo 98.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, de 4 de Junho, constituem contra-ordenações:
+
+a) A realização de obras no interior das casas de natureza sem a autorização da Direcção-Geral do Turismo prevista no n.º 1 do artigo 24.º;
+
+b) A utilização, directa ou indirecta, de edifício ou parte de edifício, para a exploração de serviços de alojamento, sem alvará de licença ou de autorização de utilização para casas de natureza, emitida nos termos do presente diploma;
+
+c) A falta de apresentação do requerimento previsto no n.º 1 do artigo 35.º;
+
+d) A violação do disposto no n.º 1 do artigo 42.º;
+
+e) A violação do disposto no n.º 2 do artigo 42.º;
+
+f) A violação do disposto nos n.os 1 a 4 do artigo 43.º;
+
+g) A violação do disposto no artigo 44.º;
+
+h) A violação do disposto no n.º 1 do artigo 45.º;
+
+i) A violação do disposto no n.º 2 do artigo 45.º;
+
+j) O não cumprimento do prazo fixado nos termos do n.º 3 do artigo 45.º;
+
+l) A violação do disposto no artigo 46.º;
+
+m) A violação do disposto no artigo 48.º;
+
+n) A violação do disposto nos n.os 1 e 2 do artigo 51.º;
+
+o) Recusar a apresentação dos documentos solicitados nos termos do n.º 1 do artigo 54.º;
+
+p) Impedir ou dificultar o acesso dos funcionários da Direcção-Geral do Turismo, das câmaras municipais ou dos órgãos regionais ou locais de turismo em serviço de inspecção às casas de natureza;
+
+q) A violação do disposto nos n.os 1 a 4 do artigo 55.º;
+
+r) O encerramento das casas de natureza sem ter sido efectuada a comunicação prevista no artigo 56.º;
+
+s) A violação do disposto no n.º 2 do artigo 65.º
+
+2 - As contra-ordenações previstas nas alíneas f), m) e o) do número anterior são puníveis com coima de (euro) 50 ou 10024$00 a (euro) 250 ou 50120$00 no caso de se tratar de pessoa singular e de (euro) 125 ou 25060$00 a (euro) 1250 ou 250603$00 no caso de se tratar de pessoa colectiva.
+
+3 - As contra-ordenações previstas nas alíneas a), g), p), q) e r) do n.º 1 são puníveis com coima de (euro) 125 ou 25060$00 a (euro) 1000 ou 200482$00 no caso de se tratar de pessoa singular e de (euro) 500 ou 100241$00 a (euro) 5000 ou 1002410$00 no caso de se tratar de pessoa colectiva.
+
+4 - As contra-ordenações previstas nas alíneas d), i), j), l), n) e s) do n.º 1 são puníveis com coima de (euro) 250 ou 50120$00 a (euro) 2500 ou 501205$00 no caso de se tratar de pessoa singular e de (euro) 1250 ou 250603$00 a (euro) 15000 ou 3007230$00 no caso de se tratar de pessoa colectiva.
+
+5 - As contra-ordenações previstas nas alíneas b), c), e) e h) do n.º 1 são puníveis com coima de (euro) 500 ou 100241$00 a (euro) 3740,90 ou 750000$00 no caso de se tratar de pessoa singular e de (euro) 2500 ou 501205$00 a (euro) 30000 ou 6001460$00 no caso de se tratar de pessoa colectiva.
+
+6 - Nos casos previstos nas alíneas a), c), d), e), f), g), j), l), n), o), p) e q) do n.º 1, a tentativa é punível.
+
+7 - A negligência é punível.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 58.º — Sanções acessórias
+
+1 - Em função da gravidade e da reiteração das contra-ordenações previstas no artigo anterior e nos regulamentos nele referidos, bem como da culpa do agente e do tipo e classificação do empreendimento, podem ser aplicadas as seguintes sanções acessórias:
+
+a) Apreensão do material através do qual se praticou a infracção;
+
+b) Suspensão, por um período até dois anos, do exercício de actividade directamente relacionada com a infracção praticada;
+
+c) Encerramento da casa de natureza.
+
+2 - O encerramento da casa de natureza só pode, porém, ser determinado, para além dos casos expressamente previstos na alínea c) do n.º 2 do artigo 5.º do Decreto-Lei n.º 336/93, de 29 de Setembro, e nos regulamentos a que se refere o n.º 3 do artigo 2.º, com base nos comportamentos referidos nas alíneas a), i), j) e h) do n.º 1 do artigo anterior.
+
+3 - O encerramento da casa de natureza pode ainda ser determinado como sanção acessória da coima aplicável pela contra-ordenação prevista na alínea b) do n.º 1 do artigo anterior.
+
+4 - Quando forem aplicadas as sanções acessórias de suspensão e encerramento da casa de natureza, o presidente da câmara municipal oficiosamente ou a solicitação da Direcção-Geral do Turismo deve apreender o respectivo alvará de licença ou autorização de utilização para casas de natureza pelo período de duração daquela sanção.
+
+5 - Pode ser determinada a publicidade da aplicação das sanções previstas nas alíneas b) e d) do n.º 1 mediante:
+
+a) A fixação de cópia da decisão, pelo período de 30 dias, na própria casa, em lugar e por forma bem visíveis; e
+
+b) A sua publicação, a expensas do infractor, pela Direcção-Geral do Turismo ou pela câmara municipal, consoante os casos, em jornal de difusão nacional, regional ou local, de acordo com o lugar, a importância e os efeitos da infracção.
+
+6 - A cópia da decisão publicada nos termos da alínea b) do número anterior não pode ter dimensão superior ao tamanho A6.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 59.º — Limites da coima em caso de tentativa e de negligência
+
+1 - Em caso de punição da tentativa, os limites máximo e mínimo das coimas são reduzidos para um terço.
+
+2 - Se a infracção for praticada por negligência, os limites máximo e mínimo das coimas são reduzidos para metade.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 60.º — Competência sancionatória
+
+1 - A aplicação das coimas e das sanções acessórias previstas no presente diploma e nos regulamentos a que se refere o n.º 3 do artigo 2.º, da competência da Direcção-Geral do Turismo, é exercida pelo director-geral do Turismo.
+
+2 - A aplicação das coimas e das sanções acessórias previstas no diploma que regula as actividades de animação ambiental a que se refere o n.º 3 do artigo 2.º, da competência do Instituto da Conservação da Natureza, é exercida pelo presidente do Instituto da Conservação da Natureza.
+
+3 - A aplicação das coimas e das sanções acessórias previstas no regime jurídico da urbanização e da edificação, da competência da câmara municipal, é exercida pelo presidente da câmara.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+###### Artigo 61.º — Produto das coimas
+
+1 - O produto das coimas aplicadas pela Direcção-Geral do Turismo por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado e em 40% para a Direcção-Geral do Turismo.
+
+2 - O produto das coimas aplicadas pelas câmaras municipais constitui receitas dos municípios.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 62.º — Embargo e demolição
+
+Os presidentes das câmaras municipais são competentes para embargar e ordenar a demolição das obras realizadas em violação do disposto no presente diploma e nos regulamentos a que se refere o n.º 3 do artigo 2.º, por sua iniciativa ou mediante comunicação da Direcção-Geral do Turismo, consoante o caso, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 63.º — Interdição de utilização
+
+O director-geral do Turismo é competente para determinar a interdição temporária da utilização de partes individualizadas, instalações ou equipamentos das casas de natureza, sem prejuízo das competências atribuídas às autoridades de saúde pelo Decreto-Lei n.º 336/93, de 29 de Setembro, nessa matéria, pelo seu deficiente estado de conservação ou pela falta de cumprimento do disposto no presente diploma e nos regulamentos a que se refere o n.º 3 do artigo 2.º, que sejam susceptíveis de pôr em perigo a saúde pública ou a segurança dos utentes.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56/2002 - Diário da República n.º 59/2002, Série I-A de 2002-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610), em vigor a partir de 2002-03-12
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 64.º — Taxas
+
+Pelas vistorias requeridas pelos interessados às casas de natureza realizadas pela Direcção-Geral do Turismo são devidas taxas à Direcção-Geral do Turismo, de montante a fixar por portaria conjunta dos Ministros das Finanças e da Economia.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 65.º — Registo
+
+1 - É organizado pela Direcção-Geral do Turismo, em colaboração com o Instituto da Conservação da Natureza, o registo central de todas as casas de natureza, nos termos a estabelecer em portaria do membro do Governo responsável pela área do turismo.
+
+2 - As entidades exploradoras das casas de natureza devem comunicar à Direcção-Geral do Turismo a alteração de qualquer dos elementos do registo previstos na portaria a que se refere o número anterior no prazo de 30 dias a contar da data em que tenha lugar essa alteração.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 66.º — Sistema de informações
+
+A Direcção-Geral do Turismo, em colaboração com o Instituto da Conservação da Natureza, providenciará no sentido de garantir um sistema de informações eficaz.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 67.º — Placa identificativa de turismo de natureza
+
+1 - O modelo da placa identificativa do turismo de natureza e das modalidades de alojamento e animação ambiental é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do turismo e do ambiente.
+
+2 - É obrigatória a afixação da placa referida no número anterior em todos os serviços de alojamento e de animação ambiental previstos na alínea b) do n.º 1 e no n.º 2 do artigo 2.º do presente diploma.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 68.º — Regime aplicável às casas existentes
+
+1 - O disposto no presente diploma aplica-se às casas exploradas pelo Instituto da Conservação da Natureza à data da sua entrada em vigor, sem prejuízo do disposto no número seguinte.
+
+2 - As casas referidas no número anterior devem satisfazer os requisitos relativos às suas instalações, de acordo com o presente diploma e o regulamento a que se refere o n.º 3 do artigo 2.º, no prazo de dois anos a contar da data da entrada em vigor do presente diploma, excepto quando esse cumprimento determinar a realização de obras que se revelem materialmente impossíveis ou que comprometam a rendibilidade do projecto, como tal reconhecidas pela Direcção-Geral do Turismo.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 69.º — Dinamização e apoio
+
+Os Ministérios da Economia e do Ambiente, nomeadamente através dos seus serviços regionais e dos órgãos regionais ou locais de turismo, dinamizarão acções de divulgação do turismo de natureza e prestarão apoio técnico à formulação e apresentação do requerimento previsto no artigo 14.º, bem como os necessários ao licenciamento da construção e da utilização, bem como das actividades de animação ambiental previstas no n.º 2 do artigo 2.º do presente diploma.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 70.º — Regiões Autónomas
+
+O regime previsto no presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+###### Artigo 71.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06
+
+Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 28 de Janeiro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 8 de Fevereiro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+> Revogado pelo/a Artigo 77.º do/a [Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), em vigor a partir de 2008-04-06

@@ -1,0 +1,172 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:149707126:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2020-901092818",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/89-2020-149707126",
+ "source_lastmod": "2024-12-23",
+ "versions": [
+  {
+   "date": "2020-11-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900839673",
+    "900839674",
+    "901146175",
+    "901146176",
+    "901146177",
+    "901146178",
+    "901146179",
+    "901146180",
+    "901146181",
+    "901146182",
+    "901146183",
+    "901146184",
+    "901146185",
+    "901146186",
+    "901146187",
+    "901146188",
+    "901146189"
+   ]
+  }
+ ],
+ "fragments": {
+  "900839673": {
+   "fragment_id": "901092819",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 89/2020\n\nSumário: Aprova o Acordo entre a República Portuguesa e os Estados Unidos da América relativo à Partilha de Bens Declarados Perdidos ou de Bens de Valor Equivalente, assinado em Lisboa, a 17 de dezembro de 2019.\n\nAprova o Acordo entre a República Portuguesa e os Estados Unidos da América relativo à Partilha de Bens Declarados Perdidos ou de Bens de Valor Equivalente, assinado em Lisboa, a 17 de dezembro de 2019\n\nA Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar o Acordo entre a República Portuguesa e os Estados Unidos da América relativo à Partilha de Bens Declarados Perdidos ou de Bens de Valor Equivalente, assinado em Lisboa, a 17 de dezembro de 2019, cujo texto, nas versões autenticadas na língua portuguesa e inglesa, se publica em anexo.\n\nAprovada em 23 de outubro de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nACORDO ENTRE A REPÚBLICA PORTUGUESA E OS ESTADOS UNIDOS DA AMÉRICA RELATIVO À PARTILHA DE BENS DECLARADOS PERDIDOS OU DE BENS DE VALOR EQUIVALENTE\n\nA República Portuguesa e os Estados Unidos da América (doravante referidos como «as Partes»):\n\nConsiderando a Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas, adotada em Viena em 20 de dezembro de 1988;\n\nConsiderando a Convenção Internacional para a Eliminação do Financiamento do Terrorismo, adotada em Nova Iorque em 9 de dezembro de 1999;\n\nConsiderando a Convenção das Nações Unidas contra a Criminalidade Organizada Transnacional, adotada em Nova Iorque em 15 de novembro de 2000;\n\nConsiderando ainda a Convenção das Nações Unidas contra a Corrupção, adotada em Nova Iorque em 31 de outubro de 2003;\n\nReconhecendo as Recomendações do Grupo de Ação Financeira Internacional (GAFI);\n\nReconhecendo também a cooperação de longa data entre a República Portuguesa e os Estados Unidos da América, em particular no domínio da cooperação judiciária em matéria penal; e\n\nReconhecendo os princípios da igualdade, da soberania, da reciprocidade e do respeito mútuo;\n\nacordaram o seguinte:"
+  },
+  "900839674": {
+   "fragment_id": "901092820",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Acordo define o enquadramento para a partilha entre as Partes de bens declarados perdidos e de bens de valor equivalente."
+  },
+  "901146175": {
+   "fragment_id": "901092821",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nEste Acordo destina-se exclusivamente para fins de auxílio judiciário mútuo entre as Partes e não dá origem a quaisquer direitos a favor de terceiros."
+  },
+  "901146176": {
+   "fragment_id": "901092822",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara os fins do presente Acordo:\n\na) «Bens» significa o dinheiro e os bens de qualquer natureza, sejam corpóreos ou incorpóreos, móveis ou imóveis, tangíveis ou intangíveis, bem como documentos ou instrumentos legais que comprovem um título de propriedade ou direito real sobre os referidos bens, incluídos os produtos do crime, ou bens de valor equivalente se previsto na lei, e os instrumentos do crime, que estejam na posse de uma das Partes e que constituam os fundos líquidos obtidos como resultado de uma declaração de perda;\n\nb) «Perda» significa toda a ação, nos termos do Direito interno, que resulte em:\n\ni) No caso dos Estados Unidos da América, uma decisão de perda (forfeiture) de um tribunal federal, que já não é passível de recurso, ou uma decisão administrativa de perda de um departamento ou agência federal, que extingam a titularidade de ativos de qualquer espécie relacionados com ou que constituem os produtos de um crime, ou de bens de valor equivalente, e que comprove a titularidade desses bens nos Estados Unidos da América;\n\nii) No caso da República Portuguesa, uma declaração de perda a favor do Estado determinada por um tribunal criminal, no contexto de processos criminais relativamente aos produtos ou instrumentos de um crime, ou de bens de valor equivalente, que seja definitiva e já não admita recurso;\n\nc) «Cooperação» significa qualquer auxílio, incluindo a assistência policial, jurídica ou judiciária, que inclui a execução de uma ordem de restrição ou uma decisão de perda da outra Parte, e que tenha contribuído para ou facilitado significativamente a perda no território da outra Parte."
+  },
+  "901146177": {
+   "fragment_id": "901092823",
+   "type": 11,
+   "heading": "Artigo 4.º — Circunstâncias em que os bens podem ser partilhados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Circunstâncias em que os bens podem ser partilhados\n\nSempre que uma Parte detém bens declarados perdidos e considere que recebeu cooperação da outra Parte ou lhe prestou cooperação, pode, na sua discricionariedade e de acordo com o seu Direito interno, partilhar esses bens com essa Parte por iniciativa própria ou com base num pedido recebido nos termos do artigo 5.º"
+  },
+  "901146178": {
+   "fragment_id": "901092824",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedidos para a partilha de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedidos para a partilha de bens\n\n1 - Uma Parte pode apresentar à outra Parte um pedido de partilha de bens, de acordo com as disposições do presente Acordo, quando a cooperação facultada pela Parte requerente conduziu a uma perda de bens.\n\n2 - Em qualquer caso, um pedido para a partilha de bens é feito por escrito e no máximo de um ano após a data em que a Parte requerente tomou conhecimento da perda dos bens, exceto quando as Partes acordarem de forma diferente.\n\n3 - O pedido apresentado nos termos do n.º 1 do presente artigo descreve as circunstâncias da cooperação a que se refere e incluirá informações suficientes que permitam à Parte requerida identificar o caso, os bens e as entidades oficiais envolvidas.\n\n4 - Após a receção de um pedido de partilha de bens apresentado de acordo com as disposições do presente artigo, a Parte requerida:\n\na) Considera se partilha os bens, tal como previsto no artigo 4.º do presente Acordo; e\n\nb) Informa a Parte requerente da decisão resultante dessa consideração e as razões subjacentes à mesma."
+  },
+  "901146179": {
+   "fragment_id": "901092825",
+   "type": 11,
+   "heading": "Artigo 6.º — Partilha de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Partilha de bens\n\n1 - Quando a Parte que detém os bens se propõe partilhar esses bens com a outra Parte:\n\na) Determina, de acordo com a sua discricionariedade e com o seu Direito interno, a proporção dos bens a ser partilhados que, na sua opinião, representa a extensão da cooperação prestada pela outra Parte; e\n\nb) Transfere uma quantia equivalente à referida proporção para a outra Parte, de acordo com o artigo 7.º do presente Acordo.\n\n2 - Exceto quando as Partes acordarem de forma diferente, não serão partilhados bens entre as Partes quando o valor desses bens for inferior a (euro) 40 000 ou o seu equivalente em dólares americanos.\n\n3 - Na medida do permitido pelo respetivo Direito interno, as Partes antecipam que em casos comuns, nos quais uma Parte executou, fez cumprir ou de outra forma reconheceu uma decisão de perda que tenha sido obtida principalmente em resultado dos esforços de investigação e de litigância da outra Parte, a partilha será feita em parcelas iguais.\n\n4 - No entanto, se ao facultar cooperação, uma Parte despendeu recursos extraordinários para executar, fazer cumprir ou de qualquer outra forma reconhecer a decisão de perda da outra Parte, ou forneceu provas ou recursos de investigação substanciais para apoiar ou para ser obtida a referida decisão de perda, a outra Parte tem em consideração os referidos esforços ao fazer a determinação da proporção a partilhar, de acordo com a alínea a) do n.º 1 do presente artigo.\n\n5 - A Parte que partilha os bens declarados perdidos pode acrescentar os juros ou outros aumentos de valor acumulados desde a apreensão dos bens e deduzir as despesas necessárias para obter a decisão de perda e para a manutenção dos bens, bem como para executar essa decisão de perda. Exceto quando as Partes acordarem de forma diferente, a dedução de despesas é limitada a despesas externas às Partes, tais como as necessárias para a utilização de um profissional não governamental, e não inclui custos de litigância por advogados do governo ou esforços internos de administração e gestão.\n\n6 - Quando existirem vítimas identificáveis da conduta criminal subjacente à decisão de perda, a consideração sobre os direitos dessas vítimas terá precedência sobre a partilha de bens entre as Partes, exceto:\n\na) Quando, após a consulta feita nos termos do artigo 11.º e numa base casuística, a Parte que obteve principalmente a decisão de perda, conforme mencionado no n.º 3 do presente artigo, determine que o número de vítimas e o valor dos bens declarados perdidos são tais que a porção de cada vítima seria de minimis; ou\n\nb) Quando o valor dos bens declarados perdidos exceder os prejuízos das vítimas, caso em que o excedente poderá ser partilhado."
+  },
+  "901146180": {
+   "fragment_id": "901092826",
+   "type": 11,
+   "heading": "Artigo 7.º — Transferência dos bens partilhados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transferência dos bens partilhados\n\n1 - Exceto quando as Partes acordarem de forma diferente, qualquer quantia a ser partilhada nos termos da alínea b) do n.º 1 do artigo 6.º do presente Acordo é transferida:\n\na) Na moeda da Parte que partilha os bens; e\n\nb) Através de transferência eletrónica de fundos.\n\n2 - A transferência de qualquer quantia é feita:\n\na) Quando os Estados Unidos da América forem a Parte recetora, para os Estados Unidos da América, e enviada ao gabinete pertinente ou para a conta designada do Departamento de Justiça dos E.U. ou do Departamento do Tesouro dos E.U., conforme especificado por estes Departamentos;\n\nb) Quando a República Portuguesa for a Parte recetora, para o Gabinete de Administração de Bens, do Instituto de Gestão Financeira e Equipamentos da Justiça, Ministério da Justiça; ou\n\nc) Para qualquer destinatário ou destinatários que a Parte recetora possa periodicamente especificar através de notificação para os fins do presente artigo."
+  },
+  "901146181": {
+   "fragment_id": "901092827",
+   "type": 11,
+   "heading": "Artigo 8.º — Termos da transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Termos da transferência\n\nUma vez transferidos os bens, a Parte que partilhou esses bens fica eximida de toda a responsabilidade e renuncia a todo e qualquer direito, titularidade ou participação relativamente a esses bens."
+  },
+  "901146182": {
+   "fragment_id": "901092828",
+   "type": 11,
+   "heading": "Artigo 9.º — Canais de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Canais de comunicação\n\nAs comunicações entre as Partes, nos termos das disposições do presente Acordo, serão conduzidas:\n\na) Do lado dos Estados Unidos da América, pelo Gabinete de Assuntos Internacionais ou a Secção de Apreensão de Ativos e Branqueamento de Capitais do Departamento de Justiça, ou o Gabinete Executivo para a Perda de Bens do Departamento do Tesouro dos Estados Unidos;\n\nb) Do lado da República Portuguesa, pela Procuradoria-Geral da República; ou\n\nc) Por outros que uma Parte possa, ocasionalmente, especificar através de notificação nos termos deste Artigo."
+  },
+  "901146183": {
+   "fragment_id": "901092829",
+   "type": 11,
+   "heading": "Artigo 10.º — Língua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Língua\n\nOs pedidos a que se refere o artigo 5.º e os documentos com eles relacionados, feitos em conformidade com as disposições do presente Acordo, são redigidos na língua da Parte requerente e são acompanhados de uma tradução na língua da Parte requerida."
+  },
+  "901146184": {
+   "fragment_id": "901092830",
+   "type": 11,
+   "heading": "Artigo 11.º — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Consultas\n\nAs Partes consultam-se regularmente ou a pedido de uma das Partes, a fim de avaliar a interpretação, aplicação ou implementação do presente Acordo."
+  },
+  "901146185": {
+   "fragment_id": "901092831",
+   "type": 11,
+   "heading": "Artigo 12.º — Resolução de diferendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Resolução de diferendos\n\nQualquer diferendo relativo à interpretação ou aplicação do presente Acordo é resolvido através de consultas entre as Partes e não será encaminhado a terceiros para resolução."
+  },
+  "901146186": {
+   "fragment_id": "901092832",
+   "type": 11,
+   "heading": "Artigo 13.º — Emendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Emendas\n\n1 - O presente Acordo pode ser alterado por acordo escrito entre as Partes.\n\n2 - As emendas entram em vigor nos termos especificados no artigo 15.º do presente Acordo."
+  },
+  "901146187": {
+   "fragment_id": "901092833",
+   "type": 11,
+   "heading": "Artigo 14.º — Vigência e denúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Vigência e denúncia\n\n1 - O presente Acordo permanecerá em vigor por um período de tempo ilimitado.\n\n2 - Qualquer uma das Partes pode, em qualquer momento, denunciar o presente Acordo mediante notificação escrita e por via diplomática.\n\n3 - O presente Acordo cessa a sua vigência cento e oitenta dias após a receção da referida notificação."
+  },
+  "901146188": {
+   "fragment_id": "901092834",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente Acordo entrará em vigor na data da receção da última notificação entre as Partes, por escrito e por via diplomática, de que foram cumpridos os requisitos de direito interno das Partes necessários para o efeito."
+  },
+  "901146189": {
+   "fragment_id": "901092835",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo\n\nO presente acordo será registado nas Nações Unidas em conformidade com o artigo 102.º da Carta das Nações Unidas."
+  }
+ }
+}

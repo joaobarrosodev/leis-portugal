@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:933788355:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2025-934027382",
+ "dre_path": "/dr/detalhe/portaria/289-b-2025-933788355",
+ "source_lastmod": "2025-10-17",
+ "versions": [
+  {
+   "date": "2025-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "934046075",
+    "934046275",
+    "934046475",
+    "934046675",
+    "934046875",
+    "934047075",
+    "934047275",
+    "934047475",
+    "934047675",
+    "934047875",
+    "934048075",
+    "934048275",
+    "934048475",
+    "934048675",
+    "934048875",
+    "934049075",
+    "934049275",
+    "934049475",
+    "934049675",
+    "934049875",
+    "934050075",
+    "934050275",
+    "934050475",
+    "934050675",
+    "934050875",
+    "934051075",
+    "934051275",
+    "934051475",
+    "934051675"
+   ]
+  },
+  {
+   "date": "2025-10-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:940444469:por",
+     "title": "Portaria n.º 361/2025/1",
+     "published": "2025-10-17",
+     "dre_path": "/dr/detalhe/portaria/361-2025-940444469"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "934046075",
+    "934046275",
+    "934046475",
+    "934046675",
+    "934046875",
+    "934047075",
+    "934047275",
+    "934047475",
+    "934047675",
+    "934047875",
+    "934048075",
+    "934048275",
+    "934048475",
+    "934048675",
+    "934048875",
+    "934049075",
+    "934049275",
+    "934049475",
+    "934049675",
+    "934049875",
+    "934050075",
+    "940613744",
+    "934050475",
+    "934050675",
+    "934050875",
+    "934051075",
+    "934051275",
+    "934051475",
+    "934051675"
+   ]
+  }
+ ],
+ "fragments": {
+  "934046075": {
+   "fragment_id": "934045975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Os incêndios rurais que deflagraram no país, levaram o XXV Governo Constitucional a adotar um conjunto de medidas de apoio extraordinárias à atividade florestal, tendo, para o efeito, sido publicado o Decreto-Lei n.º 98-A/2025, de 24 de agosto.\n\nOs apoios extraordinários que ora se concedem visam mitigar os impactos dos incêndios, garantindo a substituição e reparação de máquinas, equipamentos e infraestruturas florestais essenciais para a subsistência e sustentabilidade do setor, assim como, proceder à recuperação de habitats, de sinalização e de infraestruturas nas zonas de caça afetadas pelos incêndios, essenciais para a preservação dos ecossistemas cinegéticos e a segurança das atividades, com o objetivo de restaurar rapidamente as condições de trabalho, promover a produtividade e evitar o abandono das atividades florestais, contribuindo para a revitalização económica das áreas afetadas e a resiliência do setor, promovendo uma gestão florestal sustentável e a proteção do património florestal a longo prazo.\n\nTais apoios são cruciais para restaurar o equilíbrio ecológico e proteger a fauna, evitando a perda de biodiversidade e o impacto económico nas atividades ligadas à caça.\n\nCom a atribuição destes apoios, pretende-se, igualmente, contribuir para a revitalização das comunidades rurais, promovendo a sustentabilidade das zonas de caça, e para a continuidade das tradições cinegéticas.\n\nA presente portaria operacionaliza os mencionados apoios, define as respetivas condições e os termos em que são concedidos.\n\nAssim:\n\nAo abrigo do disposto na alínea d) do artigo 43.º e nos n.os 2 e 3 do artigo 26.º, ambos do Decreto-Lei n.º 98-A/2025, de 24 de agosto, manda o Governo, pelo Ministro da Agricultura e Mar, o seguinte:"
+  },
+  "934046275": {
+   "fragment_id": "934046175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria regulamenta os seguintes apoios:\n\na) Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal afetadas pelos incêndios;\n\nb) Apoio extraordinário às entidades gestoras de zonas de caça que foram diretamente afetadas pelos incêndios, para assegurar a realização de ações de recuperação de habitats, recuperação da sinalização ardida e de infraestruturas afetadas diretamente relacionadas com a gestão das zonas de caça.\n\n2 - Os apoios previstos na presente portaria aplicam-se aos incêndios rurais de elevada dimensão ou gravidade, conforme definido na Resolução do Conselho de Ministros referida no n.º 2 do artigo 1.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto."
+  },
+  "934046475": {
+   "fragment_id": "934046375",
+   "type": 11,
+   "heading": "Artigo 2.º — Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal\n\nA regulamentação do apoio identificado na alínea a) do artigo 1.º é publicada no anexo i à presente portaria, da qual faz parte integrante."
+  },
+  "934046675": {
+   "fragment_id": "934046575",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoio extraordinário às entidades gestoras de zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apoio extraordinário às entidades gestoras de zonas de caça\n\nA regulamentação do apoio identificado na alínea b) do artigo 1.º é publicada no anexo ii à presente portaria, da qual faz parte integrante."
+  },
+  "934046875": {
+   "fragment_id": "934046775",
+   "type": 11,
+   "heading": "Artigo 4.º — Auxílios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Auxílios\n\n1 - Os apoios previstos na presente portaria são concedidos de acordo com as condições previstas no Regulamento (UE) 2023/2831, da Comissão, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.\n\n2 - Os apoios a conceder no âmbito da presente portaria são cumuláveis com outros auxílios de minimis, qualquer que seja a sua forma ou o objetivo prosseguido, nos termos previstos no artigo 5.º do Regulamento (UE) 2023/2831, da Comissão.\n\n3 - Caso se verifique que o montante individual do apoio excecional de crise venha a ultrapassar o limite estipulado no n.º 2 do artigo 3.º do Regulamento (UE) 2023/2831, da Comissão, o valor do mesmo por beneficiário é ajustado, reduzindo-se na proporção do excesso verificado e diminuindo-se, em conformidade, o montante individual do apoio."
+  },
+  "934047075": {
+   "fragment_id": "934046975",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "934047275": {
+   "fragment_id": "934047175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura e Mar, José Manuel Fernandes, em 29 de agosto de 2025."
+  },
+  "934047475": {
+   "fragment_id": "934047375",
+   "type": 14,
+   "heading": "Anexo I — Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal"
+  },
+  "934047675": {
+   "fragment_id": "934047575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ criado o apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio à atividade florestal que se destina a fazer face aos prejuízos decorrentes dos incêndios."
+  },
+  "934047875": {
+   "fragment_id": "934047775",
+   "type": 11,
+   "heading": "Artigo 2.º — Tipologias de ação elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tipologias de ação elegíveis\n\nÉ concedido um apoio extraordinário à reposição da atividade florestal, sendo o apoio concedido às seguintes tipologias de intervenção:\n\na) Equipamentos associados ao abate, rechega, extração, concentração, triagem e transporte de material lenhoso, incluindo biomassa florestal e resina;\n\nb) Primeira transformação de madeira, nomeadamente biomassa florestal e resina."
+  },
+  "934048075": {
+   "fragment_id": "934047975",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\nPodem beneficiar dos apoios referidos no artigo anterior as pessoas singulares ou coletivas, de natureza pública ou privada que tenham sido diretamente afetadas pelos incêndios que deflagraram nos territórios identificados na Resolução do Conselho de Ministros referida no n.º 2 do artigo 1.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto."
+  },
+  "934048275": {
+   "fragment_id": "934048175",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios, devem, à data da candidatura, ter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social e, no âmbito dos financiamentos dos fundos nacionais e dos fundos europeus, salvo se o incumprimento decorrer diretamente dos danos provocados pelos incêndios."
+  },
+  "934048475": {
+   "fragment_id": "934048375",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma e nível dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma e nível dos apoios\n\n1 - O apoio é concedido sob a forma de subvenção não reembolsável, repartindo-se os níveis de apoio às operações pelos seguintes escalões:\n\na) 100 % da despesa elegível até 75 000 €;\n\nb) 85 % da despesa elegível superior a 75 000 € e até 150 000 €;\n\nc) 50 % da despesa elegível superior a 150 000 € e até 225 000 €.\n\n2 - Para efeitos do número anterior, é deduzido ao valor dos apoios o montante das indemnizações dos seguros recebidas para cobrir total ou parcialmente os danos causados."
+  },
+  "934048675": {
+   "fragment_id": "934048575",
+   "type": 11,
+   "heading": "Artigo 6.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dotação orçamental\n\n1 - A dotação orçamental do presente apoio é de 5 000 000,00 €, podendo ser reforçada, caso se revele necessário, mediante despacho conjunto dos membros do Governo responsáveis pelas áreas governativas das finanças, da coesão territorial e da agricultura.\n\n2 - O presente apoio é suportado pelo Orçamento do Estado."
+  },
+  "934048875": {
+   "fragment_id": "934048775",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade da candidatura\n\n1 - São elegíveis as tipologias de intervenção efetuadas após a data da ocorrência dos incêndios que deflagraram nos termos da Resolução do Conselho de Ministros referida no n.º 2 do artigo 1.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto, não podendo estas encontrarem-se concluídas antes da sua submissão.\n\n2 - As tipologias de intervenção elegíveis referidas no número anterior estão dependentes da verificação e confirmação, pela Comissão de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.), territorialmente competente, dos prejuízos declarados.\n\n3 - Caso haja lugar ao pagamento de indemnizações para cobrir, total ou parcialmente, os danos causados pela ocorrência dos incêndios, são deduzidos ao valor dos apoios.\n\n4 - Os apoios atribuídos no âmbito do Decreto-Lei n.º 98-A/2025, de 24 de agosto, não são cumuláveis com outros apoios públicos de idêntica natureza e fim."
+  },
+  "934049075": {
+   "fragment_id": "934048975",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas mediante preenchimento de formulário eletrónico disponível no portal das CCDR, I. P., territorialmente competentes, até 30 de dezembro de 2025.\n\n2 - Os requerentes só podem apresentar uma candidatura, não sendo os apoios a conceder cumuláveis com quaisquer outros apoios a conceder ao abrigo do artigo 26.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto."
+  },
+  "934049275": {
+   "fragment_id": "934049175",
+   "type": 11,
+   "heading": "Artigo 9.º — Análise de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Análise de candidaturas\n\n1 - As CCDR, I. P., territorialmente competentes analisam e validam as candidaturas, em articulação com as autarquias locais, até 30 dias úteis após a apresentação da candidatura.\n\n2 - O pedido de elementos adicionais necessários para análise da candidatura pela CCDR, I. P., territorialmente competente faz suspender o prazo de análise da candidatura até à apresentação dos elementos em falta pelo beneficiário."
+  },
+  "934049475": {
+   "fragment_id": "934049375",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento\n\n1 - O pagamento do apoio ocorrerá até 30 dias após a validação da candidatura e é realizado pela CCDR territorialmente competente.\n\n2 - A CCDR, I. P., territorialmente competente poderá, a qualquer momento, durante a execução das intervenções ou após a sua conclusão, efetuar ações que visem avaliar a correta aplicação do apoio concedido.\n\n3 - O incumprimento, pelo beneficiário, no prazo de 12 meses após a concessão do apoio, da aplicação dos montantes atribuídos na(s) tipologia(s) de intervenção aprovada(s) em sede de candidatura determina a devolução dos apoios indevidamente recebidos."
+  },
+  "934049675": {
+   "fragment_id": "934049575",
+   "type": 14,
+   "heading": "Anexo II — Apoio extraordinário às entidades gestoras de zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Apoio extraordinário às entidades gestoras de zonas de caça"
+  },
+  "934049875": {
+   "fragment_id": "934049775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ criado o apoio extraordinário às entidades gestoras de zonas de caça afetadas pelos incêndios."
+  },
+  "934050075": {
+   "fragment_id": "934049975",
+   "type": 11,
+   "heading": "Artigo 2.º — Tipologias de ação elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tipologias de ação elegíveis\n\n1 - O apoio extraordinário é destinado à realização das ações necessárias à recuperação de habitats, da sinalização ardida e de infraestruturas afetadas que se encontrem diretamente relacionadas com a gestão das zonas de caça.\n\n2 - Para efeitos do presente apoio, consideram-se elegíveis as seguintes tipologias de intervenção:\n\na) Obrigatórias:\n\ni) Instalação de campos de alimentação;\n\nii) Instalação de sebes multifuncionais;\n\nb) Facultativas:\n\ni) Instalação de comedouros;\n\nii) Instalação de bebedouros;\n\niii) Instalação de morouços;\n\niv) Limpeza de pontos de água;\n\nv) Instalação de cercas de contenção de caça maior instaladas com objetivos sanitários de prevenção de prejuízos agrícolas e ou florestais;\n\nvi) Repovoamentos com espécies cinegéticas de caça menor;\n\nvii) Reposição de sinalização das zonas de caça;\n\nviii) Reposição de infraestruturas de apoio a atividade cinegética."
+  },
+  "934050275": {
+   "fragment_id": "934050175",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\nSão beneficiários dos apoios as entidades gestoras de zonas de caça, e que a seguir se elencam:\n\na) Entidades gestoras de Zonas de Caça Associativa (ZCA);\n\nb) Entidades gestoras de Zona de Caça Municipal (ZCM);\n\nc) Entidades gestoras de Zona de Caça Turística (ZCT)."
+  },
+  "934050475": {
+   "fragment_id": "934050375",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de elegibilidade dos beneficiários\n\nPara efeito de elegibilidade no âmbito do presente regime de apoio, o beneficiário deve obedecer aos seguintes requisitos:\n\na) Possuir, ou poder assegurar, os meios técnicos e os recursos humanos e financeiros necessários ao desenvolvimento das ações a que se candidatam;\n\nb) Afetar os recursos humanos adequados, nomeadamente com competência técnica e experiência, necessárias à realização das ações;\n\nc) Ter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social e no âmbito dos financiamentos dos fundos nacionais e dos fundos europeus, salvo se o incumprimento decorrer diretamente dos danos provocados pelos incêndios;\n\nd) Não estar abrangido por quaisquer disposições de exclusão da candidatura resultantes de incumprimento de obrigações decorrentes de quaisquer outros projetos financiados;\n\ne) Estar legalmente constituído e registado junto do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.)."
+  },
+  "934050675": {
+   "fragment_id": "934050575",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade da candidatura\n\nPara efeito de elegibilidade da candidatura no âmbito do presente regime de apoio, o beneficiário deve cumprir com as seguintes obrigações:\n\na) Apresentar comprovativo do pagamento da taxa anual de caça referente ao ano de 2024, quando se trate de entidades beneficiárias previstas nas alíneas a) e c) do artigo 3.º do presente anexo;\n\nb) Enviar prova de comunicação ao ICNF, I. P., dos resultados anuais de exploração da época venatória (2023/2024);\n\nc) Realizar, pelo menos, uma tipologia de ação de caráter obrigatório, nomeadamente instalação de campos de alimentação ou instalação de sebes multifuncionais, podendo ainda ser realizadas, facultativamente, outras tipologias de ação, de acordo com a informação constante na alínea b) do n.º 2 do artigo 2.º, devendo indicar no respetivo formulário de candidatura, para além da tipologia de ação, a respetiva quantificação;\n\nd) Declarar, sob compromisso de honra, que cumpre com as obrigações previstas no artigo 19.º e/ou n.º 1 do artigo 42.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação;\n\ne) As intervenções não se encontrarem concluídas à data da submissão da candidatura."
+  },
+  "934050875": {
+   "fragment_id": "934050775",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma e nível dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma e nível dos apoios\n\n1 - O apoio é concedido sob a forma de subvenção não reembolsável, no valor de 3 € (euro) por hectare, até ao montante máximo de 25 000 € por zona de caça.\n\n2 - O presente apoio é suportado pelo Orçamento do Estado."
+  },
+  "934051075": {
+   "fragment_id": "934050975",
+   "type": 11,
+   "heading": "Artigo 7.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dotação orçamental\n\nA dotação orçamental do presente apoio é de 350 000 €, podendo ser reforçada, caso se revele necessário."
+  },
+  "934051275": {
+   "fragment_id": "934051175",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas mediante preenchimento de formulário eletrónico disponível no portal das Comissões de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.), territorialmente competentes, até 30 de dezembro de 2025.\n\n2 - Os requerentes só podem apresentar uma candidatura, não sendo os apoios a conceder cumuláveis com quaisquer outros apoios a conceder ao abrigo do artigo 26.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto."
+  },
+  "934051475": {
+   "fragment_id": "934051375",
+   "type": 11,
+   "heading": "Artigo 9.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Análise das candidaturas\n\n1 - As CCDR, I. P., territorialmente competentes analisam e validam as candidaturas, em articulação com as autarquias locais, até 30 dias úteis após a apresentação da candidatura.\n\n2 - O pedido de elementos adicionais necessários para análise da candidatura pela CCDR, I. P., territorialmente competente faz suspender o prazo de análise da candidatura até à apresentação dos elementos em falta pelo beneficiário."
+  },
+  "934051675": {
+   "fragment_id": "934051575",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento\n\n1 - O pagamento do apoio ocorrerá até 30 dias após a validação da candidatura e é realizado pela CCDR territorialmente competente.\n\n2 - As CCDR, I. P., territorialmente competentes poderão, a qualquer momento, durante a execução das intervenções ou após a sua conclusão, efetuar ações que visem avaliar a correta aplicação do apoio concedido.\n\n3 - O incumprimento, pelo beneficiário, no prazo de seis meses após a concessão do apoio, da aplicação dos montantes atribuídos na(s) tipologia(s) de intervenção aprovada(s) em sede de candidatura determina a devolução dos apoios indevidamente recebidos.\n\n119485178"
+  },
+  "940613744": {
+   "fragment_id": "934050175",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": "2025-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2025/1 - Diário da República n.º 201/2025, Série I de 2025-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/361-2025-940444469), em vigor a partir de 2025-10-18"
+   ],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\nSão beneficiários dos apoios as entidades gestoras de zonas de caça, e que a seguir se elencam:\n\na) Entidades gestoras de Zonas de Caça Associativa (ZCA);\n\nb) Entidades gestoras de Zona de Caça Municipal (ZCM);\n\nc) Entidades gestoras de Zona de Caça Turística (ZCT);\n\nd) Entidades gestoras de zonas de caça nacionais (ZCN).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 361/2025/1 - Diário da República n.º 201/2025, Série I de 2025-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/361-2025-940444469), em vigor a partir de 2025-10-18"
+  }
+ }
+}

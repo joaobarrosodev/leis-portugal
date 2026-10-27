@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:130776790:por
+title: Resolução do Conselho de Ministros n.º 15/2020
+short_title: null
+summary: Aprova o «Programa Internacional de Investigação sobre Montesinho»
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 15/2020
+official_date: null
+publication_date: '2020-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2020, Série I de 2020-03-27
+  number: '62'
+  series: I
+  supplement: null
+  pages: 6 - 8
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/03/06200/0000600008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/15/2020/03/27/p/dre/pt/html
+  oj: null
+  dre: '130776790'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/15-2020-130776790
+  internal: pt:dre:130776790:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2020-130776790
+  metadata_url: https://data.dre.pt/eli/resolconsmin/15/2020/03/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-2020-130776790
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:18:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f645a65c01f31ebf786161c77a314e6125e47df539b455d9298d73f73c751a56
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:18:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência Espacial Portuguesa
+- Alteração Climática
+- Clima
+- Definição de Competências
+- Desenvolvimento
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Fundação para a Ciência e a Tecnologia
+- Instituto da Conservação da Natureza e das Florestas
+- Instituto do Turismo de Portugal
+- Investigação
+- Observatório de Montesinho - Dionísio Gonçalves
+- Parque Natural de Montesinho
+- Programa Internacional de Investigação sobre Montesinho
+- Proteção da Floresta
+- Recursos Geológicos
+- Recursos Naturais
+relationships:
+- type: cites
+  target: pt:dre:125692188:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/161/2019/10/25/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:18:49Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 15/2020
+
+A valorização do interior pelo conhecimento, designadamente da floresta, requer e exige zonas de observação e experimentação com relevância particular na ação climática, no âmbito das quais o Parque Natural de Montesinho (PNM) representa uma zona de montanha de características únicas pois constitui o último relevo no nordeste de Portugal que ainda pertence ao Noroeste Peninsular e faz fronteira com a Meseta Ibérica. Apresenta, assim, uma inigualável riqueza ambiental, estando integrada na Rede Natura 2000 e na Reserva da Biosfera da Meseta Ibérica da Organização das Nações Unidas.
+
+Nestas áreas de interface entre domínios naturais distintos, como neste caso o Noroeste Peninsular e a Meseta Ibérica Mediterrânica, a biodiversidade é enorme e facilita zonas privilegiadas para monitorizar e aprofundar o estudo das alterações climáticas, assim como desenvolver medidas e ações de mitigação em tempo útil. No caso do PNM, o sistema montanhoso tem uma relevante influência no clima regional e grande parte dos estudos e trabalhos de monitorização têm sido desenvolvidos nas últimas décadas sobretudo pelo Centro de Investigação de Montanha do Instituto Politécnico de Bragança (CIMO/IPB), que coordena a Rede Ibérica de Investigação de Montanha.
+
+Neste contexto, deve ser reconhecido e distinguido o trabalho de Dionísio Gonçalves, que fundou o PNM, o qual coordenou de outubro de 1978 a janeiro de 1983 e de junho de 1986 a fevereiro de 1993. Posteriormente, a sua principal atividade concretizou-se na criação e desenvolvimento do Instituto Politécnico de Bragança, do qual foi presidente da comissão instaladora e presidente eleito até maio de 2006. Ainda hoje mantém atividades de investigação na área da climatologia agrícola, abrangendo o estudo dos climas locais com a finalidade da defesa das culturas dos elementos meteorológicos adversos e contribuição para a adaptação das previsões meteorológicas à escala regional e local.
+
+Interessa agora promover a capacidade científica instalada no CIMO/IPB em estreita articulação com o Instituto da Conservação da Natureza e das Florestas, I. P., e num contexto internacional usando novos sistemas de observação, assim como reativar e modernizar o património edificado no PNM, que acolheu serviços e autoridades, designadamente a antiga Guarda Fiscal, atualmente devoluto, justificando-se a sua renovação e afetação para fins adequados à promoção da valorização do interesse público do parque de um modo que garanta a sua sustentabilidade financeira.
+
+A vasta zona e ampla biodiversidade que caracteriza o PNM deve estimular novas atividades e sistemas de observação e conhecimento da Terra, incluindo a utilização de informação por satélite e a sua integração em sistemas avançados de processamento de informação e inteligência artificial, tendo todas as condições para se vir a posicionar com uma nova zona de observação e experimentação a nível internacional com relevância particular na ação climática.
+
+Neste contexto, o planalto da serra, designado Lama Grande, apresenta-se como a localização adequada para assegurar a monitorização dos elementos ambientais relevantes e para estudar as dinâmicas dos ecossistemas de montanha face às alterações climáticas, pelo que se justifica a recuperação das Infraestruturas do Complexo da Lama Grande para a instalação de um centro privilegiado de observação e experimentação, a denominar «Observatório de Montesinho - Dionísio Gonçalves».
+
+Adicionalmente, a reafetação da utilização desta infraestrutura garante também a sua mobilização para apoio a iniciativas de turismo científico e de natureza, tipicamente associadas aos ecossistemas de montanha, criando oportunidades de criação de valor económico e social que aliam a atividade turística com o conhecimento científico e a preservação da natureza.
+
+Nesse sentido o «Observatório de Montesinho - Dionísio Gonçalves» deve ser desenvolvido e promovido no âmbito do Fundo Revive Natureza, criado com o objetivo de promover a recuperação de imóveis devolutos inseridos em património natural, compatibilizando a conservação, recuperação e salvaguarda do património para as novas utilizações.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 1 do artigo 6.º do [Decreto-Lei n.º 161/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2019-125692188), de 25 de outubro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar que o membro do Governo responsável pela área da ciência, tecnologia e ensino superior, em colaboração com os membros do Governo responsáveis pelas áreas da economia e transição digital e do ambiente e da ação climática, promove o lançamento, até ao final de 2020, do «Programa Internacional de Investigação sobre Montesinho», a financiar e promover pela Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), em colaboração com o Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), e a Agência Espacial Portuguesa - Portugal Space (PT Space).
+
+2 - Estabelecer que o «Programa Internacional de Investigação sobre Montesinho» é promovido a nível internacional através dos «Montesinho International Research Awards», orientados para atividades de investigação e desenvolvimento (I&D) de equipas portuguesas em cooperação internacional, promovendo a relevância internacional do Parque Natural de Montesinho (PNM) e fomentando aquelas atividades, designadamente nas seguintes áreas:
+
+a) Observação e conhecimento da Terra, incluindo a utilização de informação por satélite e a sua integração em sistemas avançados de processamento de informação e inteligência artificial;
+
+b) Clima e alterações climáticas;
+
+c) Dinâmicas socioculturais;
+
+d) Biodiversidade e recursos biológicos, patrimónios naturais e culturais e desenvolvimento regional sustentável.
+
+3 - Criar o «Observatório de Montesinho - Dionísio Gonçalves» com o objetivo de promover a monitorização dos elementos ambientais relevantes para estudar as dinâmicas dos ecossistemas de Montesinho face às alterações climáticas, de promoção da educação ambiental e de apoio ao turismo científico e de natureza associados àqueles ecossistemas.
+
+4 - Definir que o «Observatório de Montesinho - Dionísio Gonçalves» assume a forma de consórcio, designadamente entre o ICNF, I. P., o Turismo de Portugal, I. P., o Centro de Investigação de Montanha do Instituto Politécnico de Bragança (CIMO/IPB) e o MORE - Laboratório Colaborativo Montanhas de Investigação (MORE), tendo por base as seguintes ações de âmbito interministerial:
+
+a) O membro do Governo responsável pela área da economia e transição digital promove o envolvimento do Turismo de Portugal, I. P., como parceiro do consórcio, tendo em vista apoiar a dinamização de atividades de turismo científico e de natureza associadas aos ecossistemas de Montesinho e a valorização da gastronomia enquanto promotor da cultura local, bem como, junto do Fundo Revive Natureza, as ações necessárias para a recuperação das Infraestruturas do Complexo da Lama Grande e a instalação do «Observatório de Montesinho - Dionísio Gonçalves»;
+
+b) O membro do Governo responsável pela área da ciência, tecnologia e ensino superior promove o envolvimento do CIMO/IPB e do MORE como parceiros do consórcio, garantindo a sua instalação e operação, que deverá incluir atividades de I&D, bem como de mobilidade de estudantes e investigadores, designadamente através do reforço dos contratos que essas instituições mantêm com a FCT, I. P.;
+
+c) O membro do Governo responsável pela área da educação promove o envolvimento dos seus serviços na dinamização de atividades de promoção da educação ambiental em Montesinho;
+
+d) O membro do Governo responsável pela área do ambiente e da ação climática promove o envolvimento do ICNF, I. P., como parceiro do consórcio, tendo em vista o estudo das dinâmicas dos ecossistemas de Montesinho face às alterações climáticas;
+
+e) O membro do Governo responsável pela área da coesão territorial, em articulação com o membro do Governo responsável pela área da ciência, tecnologia e ensino superior, promove o apoio à instalação do «Observatório de Montesinho - Dionísio Gonçalves», incluindo a aquisição de instrumentos e equipamentos científicos e técnicos necessário às atividades a desenvolver.
+
+5 - Determinar a instalação do «Observatório de Montesinho - Dionísio Gonçalves» nos imóveis do complexo de infraestruturas da Lama Grande do PNM, bem como a integração destes no Fundo Revive Natureza, aplicando a esta integração o regime jurídico de afetação inicial de direitos sobre imóveis previsto no capítulo iii do [Decreto-Lei n.º 161/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2019-125692188), de 25 de outubro, na sua redação atual, conforme o respetivo regime dominial.
+
+6 - Estabelecer que, no âmbito da instalação referida no número anterior e nos termos da alínea k) do artigo 9.º do Regulamento do Fundo Revive Natureza, aprovado em anexo ao [Decreto-Lei n.º 161/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2019-125692188), de 25 de outubro, na sua redação atual, a Direção-Geral do Tesouro e Finanças e as partes envolvidas no consócio criado nos termos do n.º 4 garantem:
+
+a) A atribuição dos direitos respeitantes aos imóveis em causa ao aludido consórcio, vinculando a sua utilização aos fins de interesse turístico e científico da região, através da instalação no mesmo do «Observatório de Montesinho - Dionísio Gonçalves», até 31 de dezembro de 2022, cabendo a respetiva gestão ao MORE;
+
+b) A realização pelo Fundo Revive Natureza das obras e operações urbanísticas respeitantes aos imóveis em causa integrados, desde que sejam úteis ou necessárias a cumprir, de forma eficaz, os objetivos visados pelo «Observatório de Montesinho - Dionísio Gonçalves».
+
+7 - Determinar que o consórcio criado nos termos do n.º 4 apresenta ao Programa Operacional Regional do Norte e à FCT, I. P., um plano detalhado de instalação e de operação plurianual do «Observatório de Montesinho - Dionísio Gonçalves» no prazo de 60 dias, tendo em vista a entrada em funcionamento do observatório no prazo de 15 meses, ambos contados a partir da publicação da presente resolução.
+
+8 - Autorizar, nos termos do anexo à presente resolução, que dela faz parte integrante, o planeamento de investimentos públicos, conjugados com a previsão de cofinanciamento por fundos comunitários, a confirmar no âmbito do futuro Acordo de Parceria no que concerne a 2023 e 2024, para as atividades de:
+
+a) Promoção do «Programa Internacional de Investigação sobre Montesinho»;
+
+b) Instalação do «Observatório de Montesinho - Dionísio Gonçalves».
+
+9 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 27 de fevereiro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — (a que se refere o n.º 8)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/06200/0000600008.pdf)
+
+113145582

@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:377083:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1988-67343795",
+ "dre_path": "/dr/detalhe/lei/97-1988-377083",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1988-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67343771",
+    "67343772",
+    "67343773",
+    "67343774",
+    "67346575",
+    "67346576",
+    "67346577",
+    "67346578",
+    "67346579",
+    "67346580",
+    "67346581",
+    "67346582"
+   ]
+  },
+  {
+   "date": "2001-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:324144:por",
+     "title": "Lei n.º 23/2000",
+     "published": "2000-08-23",
+     "dre_path": "/dr/detalhe/lei/23-2000-324144"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "67343771",
+    "67343772",
+    "67343773",
+    "67343774",
+    "67346590",
+    "67346576",
+    "67346577",
+    "67346578",
+    "67346579",
+    "67346580",
+    "67346581",
+    "67346582",
+    "67346583"
+   ]
+  },
+  {
+   "date": "2011-05-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:277581:por",
+     "title": "Decreto-Lei n.º 48/2011",
+     "published": "2011-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/48-2011-277581"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "67343771",
+    "67341153",
+    "67341154",
+    "67343774",
+    "67341140",
+    "67341155",
+    "67341142",
+    "67341143",
+    "67341144",
+    "67341145",
+    "67341146",
+    "67341147",
+    "67341150",
+    "67341151",
+    "67341152"
+   ]
+  }
+ ],
+ "fragments": {
+  "67343771": {
+   "fragment_id": "67343796",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 97/88\n\nde 17 de Agosto\n\nAfixação e inscrição de mensagens de publicidade e propaganda\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "67343772": {
+   "fragment_id": "67343797",
+   "type": 11,
+   "heading": "Artigo 1.º — Mensagens publicitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Mensagens publicitárias\n\n1 - A afixação ou inscrição de mensagens publicitárias de natureza comercial obedece às regras gerais sobre publicidade e depende do licenciamento prévio das autoridades competentes.\n\n2 - Sem prejuízo de intervenção necessária de outras entidades, compete às câmaras municipais, para salvaguarda do equilíbrio urbano e ambiental, a definição dos critérios de licenciamento aplicáveis na área do respectivo concelho."
+  },
+  "67343773": {
+   "fragment_id": "67343798",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime de licenciamento\n\n1 - O pedido de licenciamento é dirigido ao presidente da câmara municipal da respectiva área.\n\n2 - A deliberação da câmara municipal deve ser precedida de parecer das entidades com jurisdição sobre os locais onde a publicidade for afixada, nomeadamente do Instituto Português do Património Cultural, da Junta Autónoma de Estradas, da Direcção-Geral de Transportes Terrestres, da Direcção-Geral de Turismo e do Serviço Nacional de Parques, Reservas e Conservação da Natureza.\n\n3 - Nas regiões autónomas o parecer mencionado no número anterior é emitido pelos correspondentes serviços regionais."
+  },
+  "67343774": {
+   "fragment_id": "67343799",
+   "type": 11,
+   "heading": "Artigo 3.º — Mensagens da propaganda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Mensagens da propaganda\n\n1 - A afixação ou inscrição de mensagens de propaganda é garantida, na área de cada município, nos espaços e lugares públicos necessariamente disponibilizados para o efeito pelas câmaras municipais.\n\n2 - A afixação ou inscrição de mensagens de propaganda nos lugares ou espaços de propriedade particular depende do consentimento do respectivo proprietário ou possuidor e deve respeitar as normas em vigor sobre protecção do património arquitectónico e do meio urbanístico, ambiental e paisagístico."
+  },
+  "67346575": {
+   "fragment_id": "67343800",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de licenciamento e de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de licenciamento e de exercício\n\n1 - Os critérios a estabelecer no licenciamento da publicidade, comercial assim como o exercício das actividades de propaganda, devem prosseguir os seguintes objectivos:\n\na) Não provocar obstrução de perspectivas panorâmicas ou afectar a estética ou o ambiente dos lugares ou da paisagem;\n\nb) Não prejudicar a beleza ou o enquadramento de monumentos nacionais, de edifícios de interesse público ou outros susceptíveis de ser classificados pelas entidades públicas;\n\nc) Não causar prejuízos a terceiros;\n\nd) Não afectar a segurança das pessoas ou das coisas, nomeadamente na circulação rodoviária ou ferroviária;\n\ne) Não apresentar disposições, formatos ou cores que possam confundir-se com os da sinalização de tráfego;\n\nf) Não prejudicar a circulação dos peões, designadamente dos deficientes.\n\n2 - É proibida, em qualquer caso, a realização de inscrições ou pinturas murais em monumentos nacionais, edifícios religiosos, sedes de órgão de soberania, de regiões autónomas ou de autarquias locais, tal como em sinais de trânsito, placas de sinalização rodoviárias, interior de quaisquer repartições ou edifícios públicos ou franqueados ao público, incluindo estabelecimentos comerciais e centros históricos como tal declarados ao abrigo da competente regulamentação urbanística."
+  },
+  "67346576": {
+   "fragment_id": "67343801",
+   "type": 11,
+   "heading": "Artigo 5.º — Licenciamento cumulativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licenciamento cumulativo\n\n1 - Se a afixação ou inscrição de formas de publicidade ou de propaganda exigir a execução de obras de construção civil sujeitas a licença, tem esta de ser obtida, cumulativamente, nos termos da legislação aplicável.\n\n2 - As câmaras municipais, notificado o infractor, são competentes para ordenar a remoção das mensagens de publicidade ou de propaganda e para embargar ou demolir obras quando contrárias ao disposto na presente lei."
+  },
+  "67346577": {
+   "fragment_id": "67343802",
+   "type": 11,
+   "heading": "Artigo 6.º — Meios amovíveis de propaganda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Meios amovíveis de propaganda\n\n1 - Os meios amovíveis de propaganda afixados em lugares públicos devem respeitar as regras definidas no artigo 4.º, sendo a sua remoção da responsabilidade das entidades que a tiverem instalado ou resultem identificáveis das mensagens expostas.\n\n2 - Compete às câmaras municipais, ouvidos os interessados, definir os prazos e condições de remoção dos meios de propaganda utilizados."
+  },
+  "67346578": {
+   "fragment_id": "67343803",
+   "type": 11,
+   "heading": "Artigo 7.º — Propaganda em campanha eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Propaganda em campanha eleitoral\n\n1 - Nos períodos de campanha eleitoral as câmaras municipais devem colocar à disposição das forças concorrentes espaços especialmente destinados à afixação da sua propaganda.\n\n2 - As câmaras municipais devem proceder a uma distribuição equitativa dos espaços por todo o seu território de forma a que, em cada local destinado à afixação de propaganda política, cada partido ou força concorrente disponha de uma área disponível não inferior a 2 m2.\n\n3 - Até 30 dias antes do início de cada campanha eleitoral, as câmaras municipais devem publicar editais onde constem os locais onde pode ser afixada propaganda política, os quais não podem ser inferiores a um local por 5000 eleitores ou por freguesia."
+  },
+  "67346579": {
+   "fragment_id": "67343804",
+   "type": 11,
+   "heading": "Artigo 8.º — Afixação ou inscrição indevidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Afixação ou inscrição indevidas\n\nOs proprietários ou possuidores de locais onde forem afixados cartazes ou realizadas inscrições ou pinturas murais com violação do preceituado no presente diploma podem destruir, rasgar, apagar ou por qualquer forma inutilizar esses cartazes, inscrições ou pinturas."
+  },
+  "67346580": {
+   "fragment_id": "67343805",
+   "type": 11,
+   "heading": "Artigo 9.º — Custos da remoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Custos da remoção\n\nOs custos da remoção dos meios de publicidade ou propaganda, ainda quando efectivada por serviços públicos, cabem à entidade responsável pela afixação que lhe tiver dado causa."
+  },
+  "67346581": {
+   "fragment_id": "67343806",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima a violação do disposto nos artigos 1.º, 3.º, n.º 2, 4.º e 6.º da presente lei.\n\n2 - Quem der causa à contra-ordenação e os respectivos agentes são solidariamente responsáveis pela reparação dos prejuízos causados a terceiros.\n\n3 - Ao montante da coima, às sanções acessórias e às regras de processo aplicam-se as disposições constantes do Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n4 - A aplicação das coimas previstas neste artigo compete ao presidente da câmara municipal da área em que se verificar a contra-ordenação, revertendo para a câmara municipal o respectivo produto."
+  },
+  "67346582": {
+   "fragment_id": "67343807",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência regulamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência regulamentar\n\nCompete à assembleia municipal, por iniciativa própria ou proposta da câmara municipal, a elaboração dos regulamentos necessários à execução da presente lei."
+  },
+  "67346590": {
+   "fragment_id": "67343800",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de licenciamento e de exercício",
+   "in_force_from": "2001-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 23/2000 - Diário da República n.º 194/2000, Série I-A de 2000-08-23](https://diariodarepublica.pt/dr/detalhe/lei/23-2000-324144), em vigor a partir de 2001-08-28, produz efeitos a partir de 2001-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Critérios de licenciamento e de exercício\n\n1 - Os critérios a estabelecer no licenciamento da publicidade, comercial assim como o exercício das actividades de propaganda, devem prosseguir os seguintes objectivos:\n\na) Não provocar obstrução de perspectivas panorâmicas ou afectar a estética ou o ambiente dos lugares ou da paisagem;\n\nb) Não prejudicar a beleza ou o enquadramento de monumentos nacionais, de edifícios de interesse público ou outros susceptíveis de ser classificados pelas entidades públicas;\n\nc) Não causar prejuízos a terceiros;\n\nd) Não afectar a segurança das pessoas ou das coisas, nomeadamente na circulação rodoviária ou ferroviária;\n\ne) Não apresentar disposições, formatos ou cores que possam confundir-se com os da sinalização de tráfego;\n\nf) Não prejudicar a circulação dos peões, designadamente dos deficientes.\n\n2 - É proibida a utilização, em qualquer caso, de materiais não biodegradáveis na afixação e inscrição de mensagens de publicidade e propaganda.\n\n3 - É proibida, em qualquer caso, a realização de inscrições ou pinturas murais em monumentos nacionais, edifícios religiosos, sedes de órgão de soberania, de regiões autónomas ou de autarquias locais, tal como em sinais de trânsito, placas de sinalização rodoviárias, interior de quaisquer repartições ou edifícios públicos ou franqueados ao público, incluindo estabelecimentos comerciais e centros históricos como tal declarados ao abrigo da competente regulamentação urbanística.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 23/2000 - Diário da República n.º 194/2000, Série I-A de 2000-08-23](https://diariodarepublica.pt/dr/detalhe/lei/23-2000-324144), em vigor a partir de 2001-08-28, produz efeitos a partir de 2001-01-01"
+  },
+  "67346583": {
+   "fragment_id": "67343808",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 5 de Julho de 1988.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 27 de Julho de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 29 de Julho de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "67341153": {
+   "fragment_id": "67343797",
+   "type": 11,
+   "heading": "Artigo 1.º — Mensagens publicitárias",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 1.º — Mensagens publicitárias\n\n1 - A afixação ou inscrição de mensagens publicitárias de natureza comercial obedece às regras gerais sobre publicidade e depende do licenciamento prévio das autoridades competentes, salvo o disposto no n.º 3.\n\n2 - Sem prejuízo de intervenção necessária de outras entidades, compete às câmaras municipais, para salvaguarda do equilíbrio urbano e ambiental, a definição dos critérios de licenciamento aplicáveis na área do respectivo concelho.\n\n3 - Sem prejuízo das regras sobre a utilização do espaço público e do regime jurídico da conservação da natureza e biodiversidade, a afixação e a inscrição de mensagens publicitárias de natureza comercial não estão sujeitas a licenciamento, a autorização, a autenticação, a validação, a certificação, a actos emitidos na sequência de comunicações prévias com prazo, a registo ou a qualquer outro acto permissivo, nem a mera comunicação prévia nos seguintes casos:\n\na) Quando as mensagens publicitárias de natureza comercial são afixadas ou inscritas em bens de que são proprietárias ou legítimas possuidoras ou detentoras entidades privadas e não são visíveis ou audíveis a partir do espaço público;\n\nb) Quando as mensagens publicitárias de natureza comercial são afixadas ou inscritas em bens de que são proprietárias ou legítimas possuidoras ou detentoras entidades privadas e a mensagem publicita os sinais distintivos do comércio do estabelecimento ou do respectivo titular da exploração ou está relacionada com bens ou serviços comercializados no prédio em que se situam, ainda que sejam visíveis ou audíveis a partir do espaço público;\n\nc) Quando as mensagens publicitárias de natureza comercial ocupam o espaço público contíguo à fachada do estabelecimento e publicitam os sinais distintivos do comércio do estabelecimento ou do respectivo titular da exploração ou estão relacionadas com bens ou serviços comercializados no estabelecimento.\n\n4 - No caso dos bens imóveis, a afixação ou a inscrição de mensagens publicitárias no próprio bem consideram-se abrangidas pelo disposto na alínea b) do número anterior.\n\n5 - Compete aos municípios, para salvaguarda do equilíbrio urbano e ambiental, a definição dos critérios que devem ser observados na afixação e inscrição de mensagens publicitárias não sujeitas a licenciamento nos termos das alíneas b) e c) do n.º 3.\n\n6 - No caso de o município não definir os critérios nos termos do número anterior, aplicam-se subsidiariamente os critérios referidos no anexo iv do presente decreto-lei, do qual faz parte integrante.\n\n7 - Os critérios definidos nos termos do n.º 5 apenas produzem efeitos após a sua divulgação no 'Balcão do empreendedor', acessível pelo Portal da Empresa, sem prejuízo da sua publicação nos sítios da Internet dos respectivos municípios.\n\n> Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "67341154": {
+   "fragment_id": "67343798",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de licenciamento",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 2.º — Regime de licenciamento\n\n1 - O pedido de licenciamento é dirigido ao presidente da câmara municipal da respectiva área.\n\n2 - A deliberação da câmara municipal deve ser precedida de parecer das entidades com jurisdição sobre os locais onde a publicidade for afixada, nomeadamente:\n\na) O Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P.;\n\nb) A Estradas de Portugal, S. A.;\n\nc) O Instituto da Mobilidade e dos Transportes Terrestres, I. P.;\n\nd) O Turismo de Portugal, I. P.;\n\ne) O Instituto da Conservação da Natureza e da Biodiversidade, I. P.;\n\nf) A Autoridade Nacional de Segurança Rodoviária.\n\n3 - Nas regiões autónomas o parecer mencionado no número anterior é emitido pelos correspondentes serviços regionais.\n\n> Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "67341140": {
+   "fragment_id": "67341051",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Critérios elaborados por outras entidades",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 3.º-A — Critérios elaborados por outras entidades\n\nSempre que entendam haver interesse relevante, as entidades com jurisdição sobre os locais onde a publicidade é afixada ou inscrita podem definir critérios, os quais são comunicados à Direcção-Geral das Autarquias Locais e aos municípios, com o fim de serem incorporados nos respectivos regulamentos.\n\n> Aditado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "67341155": {
+   "fragment_id": "67343800",
+   "type": 11,
+   "heading": "Artigo 4.º — Critérios de licenciamento e de exercício",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 23/2000 - Diário da República n.º 194/2000, Série I-A de 2000-08-23](https://diariodarepublica.pt/dr/detalhe/lei/23-2000-324144), em vigor a partir de 2001-08-28, produz efeitos a partir de 2001-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Critérios de licenciamento e de exercício\n\n1 - Os critérios a estabelecer no licenciamento da publicidade comercial e na afixação e inscrição de mensagens publicitárias não sujeitas a licenciamento nos termos das alíneas b) e c) do n.º 3 do artigo 1.º, assim como o exercício das actividades de propaganda, devem prosseguir os seguintes objectivos:\n\na) Não provocar obstrução de perspectivas panorâmicas ou afectar a estética ou o ambiente dos lugares ou da paisagem;\n\nb) Não prejudicar a beleza ou o enquadramento de monumentos nacionais, de edifícios de interesse público ou outros susceptíveis de ser classificados pelas entidades públicas;\n\nc) Não causar prejuízos a terceiros;\n\nd) Não afectar a segurança das pessoas ou das coisas, nomeadamente na circulação rodoviária ou ferroviária;\n\ne) Não apresentar disposições, formatos ou cores que possam confundir-se com os da sinalização de tráfego;\n\nf) Não prejudicar a circulação dos peões, designadamente dos deficientes.\n\n2 - É proibida a utilização, em qualquer caso, de materiais não biodegradáveis na afixação e inscrição de mensagens de publicidade e propaganda.\n\n3 - É proibido, em qualquer caso, a realização de inscrições ou pinturas murais em monumentos nacionais, edifícios religiosos, sedes de órgão de soberania, de regiões autónomas ou de autarquias locais, tal como em sinais de trânsito, placas de sinalização rodoviária, interior de quaisquer repartições ou edifícios públicos e centros históricos como tal declarados ao abrigo da competente regulamentação urbanística.\n\n4 - É proibida a afixação e a inscrição de mensagens publicitárias em qualquer bem sem o consentimento dos proprietários, possuidores ou detentores dos mesmos.\n\n> Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 23/2000 - Diário da República n.º 194/2000, Série I-A de 2000-08-23](https://diariodarepublica.pt/dr/detalhe/lei/23-2000-324144), em vigor a partir de 2001-08-28, produz efeitos a partir de 2001-01-01"
+  },
+  "67341142": {
+   "fragment_id": "67343801",
+   "type": 11,
+   "heading": "Artigo 5.º — Licenciamento cumulativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licenciamento cumulativo\n\n1 - Se a afixação ou inscrição de formas de publicidade ou de propaganda exigir a execução de obras de construção civil sujeitas a licença, tem esta de ser obtida, cumulativamente, nos termos da legislação aplicável.\n\n2 - As câmaras municipais, notificado o infractor, são competentes para ordenar a remoção das mensagens de publicidade ou de propaganda e para embargar ou demolir obras quando contrárias ao disposto na presente lei."
+  },
+  "67341143": {
+   "fragment_id": "67343802",
+   "type": 11,
+   "heading": "Artigo 6.º — Meios amovíveis de propaganda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Meios amovíveis de propaganda\n\n1 - Os meios amovíveis de propaganda afixados em lugares públicos devem respeitar as regras definidas no artigo 4.º, sendo a sua remoção da responsabilidade das entidades que a tiverem instalado ou resultem identificáveis das mensagens expostas.\n\n2 - Compete às câmaras municipais, ouvidos os interessados, definir os prazos e condições de remoção dos meios de propaganda utilizados."
+  },
+  "67341144": {
+   "fragment_id": "67343803",
+   "type": 11,
+   "heading": "Artigo 7.º — Propaganda em campanha eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Propaganda em campanha eleitoral\n\n1 - Nos períodos de campanha eleitoral as câmaras municipais devem colocar à disposição das forças concorrentes espaços especialmente destinados à afixação da sua propaganda.\n\n2 - As câmaras municipais devem proceder a uma distribuição equitativa dos espaços por todo o seu território de forma a que, em cada local destinado à afixação de propaganda política, cada partido ou força concorrente disponha de uma área disponível não inferior a 2 m2.\n\n3 - Até 30 dias antes do início de cada campanha eleitoral, as câmaras municipais devem publicar editais onde constem os locais onde pode ser afixada propaganda política, os quais não podem ser inferiores a um local por 5000 eleitores ou por freguesia."
+  },
+  "67341145": {
+   "fragment_id": "67343804",
+   "type": 11,
+   "heading": "Artigo 8.º — Afixação ou inscrição indevidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Afixação ou inscrição indevidas\n\nOs proprietários ou possuidores de locais onde forem afixados cartazes ou realizadas inscrições ou pinturas murais com violação do preceituado no presente diploma podem destruir, rasgar, apagar ou por qualquer forma inutilizar esses cartazes, inscrições ou pinturas."
+  },
+  "67341146": {
+   "fragment_id": "67343805",
+   "type": 11,
+   "heading": "Artigo 9.º — Custos da remoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Custos da remoção\n\nOs custos da remoção dos meios de publicidade ou propaganda, ainda quando efectivada por serviços públicos, cabem à entidade responsável pela afixação que lhe tiver dado causa."
+  },
+  "67341147": {
+   "fragment_id": "67343806",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima a violação do disposto nos artigos 1.º, 3.º, n.º 2, 4.º e 6.º da presente lei.\n\n2 - Quem der causa à contra-ordenação e os respectivos agentes são solidariamente responsáveis pela reparação dos prejuízos causados a terceiros.\n\n3 - Ao montante da coima, às sanções acessórias e às regras de processo aplicam-se as disposições constantes do Decreto-Lei n.º 433/82, de 27 de Outubro.\n\n4 - A aplicação das coimas previstas neste artigo compete ao presidente da câmara municipal da área em que se verificar a contra-ordenação, revertendo para a câmara municipal o respectivo produto."
+  },
+  "67341150": {
+   "fragment_id": "67341052",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Sanções acessórias",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 10.º-A — Sanções acessórias\n\n1 - Em função da gravidade da infracção e da culpa do agente, simultaneamente com a coima podem ser aplicadas as sanções acessórias de encerramento de estabelecimento e de interdição do exercício de actividade, com os seguintes pressupostos de aplicação:\n\na) A interdição do exercício de actividade apenas pode ser decretada se o agente praticar a contra-ordenação com flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres que lhe são inerentes;\n\nb) O encerramento do estabelecimento apenas pode ser decretado quando a contra-ordenação tenha sido praticada por causa do funcionamento do estabelecimento.\n\n2 - A duração da interdição do exercício de actividade e do encerramento do estabelecimento não pode exceder o período de dois anos.\n\n> Aditado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "67341151": {
+   "fragment_id": "67343807",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência regulamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência regulamentar\n\nCompete à assembleia municipal, por iniciativa própria ou proposta da câmara municipal, a elaboração dos regulamentos necessários à execução da presente lei."
+  },
+  "67341152": {
+   "fragment_id": "67343808",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 5 de Julho de 1988.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 27 de Julho de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 29 de Julho de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

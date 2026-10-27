@@ -1,0 +1,333 @@
+---
+schema_version: '1.0'
+id: pt:dre:671036:por
+title: Portaria n.º 272/2011
+short_title: null
+summary: Define as condições de atribuição do Passe Social+ e os procedimentos relativos à operacionalização do sistema que
+  lhe está associado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Economia e do Emprego
+proposing_entity: null
+official_number: 272/2011
+official_date: null
+publication_date: '2011-09-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 184/2011, Série I de 2011-09-23
+  number: '184'
+  series: I
+  supplement: null
+  pages: 4538 - 4539
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/09/18400/0453804539.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-11'
+version_history:
+  file: portaria-272-2011.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2011-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-02-13'
+    amending: pt:dre:543722:por
+    amending_title: Portaria n.º 36/2012
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 3.º-B
+    - Adita Artigo 3.º-C
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2019-03-31'
+    amending: pt:dre:121626426:por
+    amending_title: Portaria n.º 91-A/2019
+    changes:
+    - Altera Artigo 2.º
+  - date: '2024-12-11'
+    amending: pt:dre:899558357:por
+    amending_title: Portaria n.º 322-A/2024/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/272/2011/p/cons/20241210/pt/html
+  oj: null
+  dre: '671036'
+  dre_path: /dr/detalhe/portaria/272-2011-671036
+  internal: pt:dre:671036:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-2011-671036
+  metadata_url: https://data.dre.pt/eli/port/272/2011/p/cons/20241210/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-114106386
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-114106386
+  retrieved_at: '2026-10-22T12:15:20Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 413c4d8a48f04e46dd81cb980f42d38d8116eca6bf6473776d16f1d6e94f48a2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:15:20Z'
+  notes: 4 versão(ões); histórico completo em portaria-272-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Metropolitana de Transportes
+- Titulo de Transporte
+- Subvenção Pública
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Passe Social
+- Proteção Social
+- Transporte de Passageiros
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:543722:por
+  label: Adita Artigo 3.º-A; Adita Artigo 3.º-B; Adita Artigo 3.º-C; Adita Artigo 6.º-A; Adita Artigo 6.º-B; Altera Artigo
+    2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722
+  date: '2012-02-08'
+- type: amended_by
+  target: pt:dre:121626426:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/91-a-2019-121626426
+  date: '2019-03-26'
+- type: amended_by
+  target: pt:dre:899558357:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357
+  date: '2024-12-10'
+- type: cites
+  target: pt:dre:396960:por
+  label: null
+  source: http://data.dre.pt/eli/lei/1/2009/01/05/p/dre
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/1993/01/11/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:15:20Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 272/2011
+
+Portaria n.º 272/2011
+
+de 23 de Setembro
+
+Os denominados «passes sociais», nas áreas metropolitanas de Lisboa e do Porto, permitem a utilização de diversos modos de transporte, beneficiando de igual modo um grande número de cidadãos, independentemente dos rendimentos que auferem.
+
+Não obstante as medidas de consolidação orçamental, que representam um esforço no sentido de assegurar o equilíbrio das contas públicas e que determinaram a necessidade de proceder a actualizações tarifárias, preconiza-se a implementação de um título de transporte a preços reduzidos, promovendo a justiça e protecção social a agregados familiares de menores rendimentos.
+
+Assim, no âmbito do sistema de títulos intermodais das áreas metropolitanas de Lisboa e do Porto é criado o Passe Social+, destinado a agregados familiares que, comprovadamente, aufiram rendimentos reduzidos. O Passe Social+ tem como objectivo apoiar as famílias numa das suas necessidades básicas, a mobilidade, servindo como complemento social alternativo aos títulos de transporte já existentes e incentivando a utilização regular do transporte colectivo de passageiros, de uma forma intermodal.
+
+Assim, ao abrigo do disposto na alínea a) do n.º 2 do artigo 10.º do Decreto-Lei n.º 8/93, de 11 de Janeiro:
+
+Manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro da Economia e do Emprego, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria define as condições de atribuição do Passe Social+ e os procedimentos relativos à operacionalização do sistema que lhe está associado.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+###### Artigo 2.º — Âmbito
+
+1 - O Passe Social+ aplica-se aos serviços de transporte coletivo de passageiros autorizados ou concessionados nos termos legais onde sejam válidos os seguintes títulos de transporte:
+
+a) Área Metropolitana de Lisboa - Assinaturas Navegante Metropolitano e Navegante Municipal;
+
+b) Área Metropolitana do Porto - Assinaturas mensais Andante Municipal ou Andante até Z3 e Andante Metropolitano ou Andante para todas as zonas.
+
+2 - O Passe Social+ não é cumulável com outros títulos de transporte, outras tarifas reduzidas ou títulos de transporte com desconto.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 91-A/2019 - Diário da República n.º 60/2019, 1º Suplemento, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/portaria/91-a-2019-121626426), em vigor a partir de 2019-03-31, produz efeitos a partir de 2019-03-26
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36/2012 - Diário da República n.º 28/2012, Série I de 2012-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722), em vigor a partir de 2012-02-13, produz efeitos a partir de 2011-02-01
+
+###### Artigo 3.º — Valor
+
+1 - O valor do Passe Social+ consubstancia-se nos dois escalões de bonificação seguintes:
+
+a) Escalão A - redução de 50 % sobre o valor que vigorar nos títulos de referência indicados no artigo 2.º;
+
+b) Escalão B - redução de 25 % sobre o valor que vigorar nos títulos de referência indicados no artigo 2.º.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36/2012 - Diário da República n.º 28/2012, Série I de 2012-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722), em vigor a partir de 2012-02-13, produz efeitos a partir de 2011-02-01
+
+###### Artigo 3.º-A — Elegibilidade do Passe Social+
+
+1 - São elegíveis para o escalão A do Passe Social+ os passageiros beneficiários das seguintes prestações sociais:
+
+a) Complemento Solidário para Idosos;
+
+b) Rendimento Social de Inserção.
+
+2 - São abrangidos pelo escalão B do Passe Social+ os passageiros:
+
+a) Reformados e pensionistas cujo valor mensal do total de reformas, pensões e complementos de pensão auferidos seja igual ou inferior a 1,2 vezes o valor do Indexante de Apoios Sociais (IAS);
+
+b) Beneficiários de subsídio de desemprego e subsídio social de desemprego com montante mensal igual ou inferior a 1,2 vezes o valor do IAS;
+
+c) Que integrem agregados familiares cujo rendimento médio mensal equivalente seja igual ou inferior a 1,2 vezes o valor do IAS.
+
+3 - O rendimento médio mensal equivalente do agregado familiar referido no número anterior é calculado com base no rendimento bruto e no agregado familiar que constam da declaração de rendimentos a que se refere o artigo 57.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), do ano em relação ao qual decorreu há menos tempo o termo do respetivo prazo de entrega, previsto no artigo 60.º do Código do IRS, de acordo com as seguintes regras:
+
+a) O rendimento médio mensal equivalente resulta da divisão do rendimento médio anual equivalente do agregado familiar por 14 meses;
+
+b) O rendimento médio anual equivalente do agregado familiar resulta de uma fração que comporta, no numerador, o rendimento bruto anual do agregado familiar e, no denominador, a soma do número de sujeitos passivos do agregado familiar com o produto do número de sujeitos dependentes por 0,25.
+
+4 - O Passe Social+ vigora durante 12 meses, contados a partir da data de emissão do respetivo cartão de suporte, à exceção dos casos previstos na alínea b) do n.º 2 do presente artigo, cujo prazo de validade é de 6 meses.
+
+5 - O Passe Social+ confere o direito ao transporte nas mesmas condições dos passes em vigor e que lhes estão associados.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 36/2012 - Diário da República n.º 28/2012, Série I de 2012-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722), em vigor a partir de 2012-02-13, produz efeitos a partir de 2011-02-01
+
+###### Artigo 3.º-B — Atribuição do Passe Social+
+
+1 - A venda dos títulos de transporte abrangidos pelo Passe Social+ é efetuada pelos operadores de transporte coletivo de passageiros, mediante solicitação dos interessados, através do preenchimento de modelo definido pelas autoridades metropolitanas de Lisboa e do Porto, devendo aquele requerimento ser acompanhado dos seguintes documentos:
+
+a) Cópia de cartão de identificação civil do requerente;
+
+b) Cópia de cartão de identificação fiscal do requerente;
+
+c) Última declaração de rendimentos do requerente e respetiva nota de liquidação, se aplicável;
+
+d) Declaração das entidades competentes do Ministério das Finanças que ateste a dispensa de apresentação da declaração de rendimentos dos sujeitos passivos do agregado familiar, quando aplicável;
+
+e) Quando aplicável, declaração das entidades competentes do Ministério da Solidariedade e Segurança Social que ateste o número de elementos do agregado familiar do requerente e a respetiva qualidade de beneficiário das prestação sociais referidas no artigo 3.º-A, de acordo com o escalão correspondente e respetivo montante daquelas prestações.
+
+2 - As declarações referidas nas alíneas d) e e) do número anterior deverão ter sido emitidas dentro dos quinze dias anteriores à apresentação do requerimento de acesso ao Passe Social+.
+
+3 - A impossibilidade de apuramento dos rendimentos nos termos previstos nesta portaria, por motivos imputáveis ao requerente, determina a impossibilidade de acesso ao Passe Social+.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 36/2012 - Diário da República n.º 28/2012, Série I de 2012-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722), em vigor a partir de 2012-02-13, produz efeitos a partir de 2011-02-01
+
+###### Artigo 3.º-C — Determinação dos rendimentos
+
+1 - Para efeito de cálculo do rendimento médio mensal do agregado familiar, consideram-se rendimentos relevantes os rendimentos brutos, ainda que isentos de tributação, nos termos do número seguinte.
+
+2 - No cálculo dos rendimentos brutos anuais considera-se:
+
+a) O valor bruto dos rendimentos de trabalho dependente;
+
+b) O valor bruto dos rendimentos de pensões;
+
+c) O valor bruto das prestações sociais pagas pelos serviços e entidades do Ministério da Solidariedade e da Segurança social;
+
+d) Todos os demais rendimentos brutos auferidos pelo agregado familiar.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 36/2012 - Diário da República n.º 28/2012, Série I de 2012-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722), em vigor a partir de 2012-02-13, produz efeitos a partir de 2011-02-01
+
+###### Artigo 4.º — Comprovação do direito ao benefício
+
+1 - A venda dos títulos de transporte abrangidos pelo Passe Social+ é efectuada pelos operadores de transporte colectivo de passageiros, mediante requerimento dos interessados.
+
+2 - A atribuição do benefício estabelecido pelo Passe Social+ está condicionada ao preenchimento dos requisitos estabelecidos na presente portaria e dos requisitos definidos em despacho do membro do Governo responsável pela área dos transportes.
+
+3 - A validação do preenchimento dos requisitos necessários à atribuição do Passe Social+ é da responsabilidade dos operadores.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+###### Artigo 5.º — Compensação financeira
+
+1 - A compensação aos operadores de transporte colectivo de passageiros bem como o procedimento da sua execução são determinados por despacho do membro do Governo responsável pela área dos transportes.
+
+2 - O pagamento das compensações referidas no número anterior é efectuado pela Direcção-Geral do Tesouro e Finanças.
+
+3 - Os operadores devem fornecer às autoridades metropolitanas de transportes de Lisboa e do Porto todos os dados, definidos no despacho referido no n.º 1, que sejam necessários ao cálculo da compensação financeira a atribuir.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+###### Artigo 6.º — Entidades competentes
+
+1 - A implementação do Passe Social+ é coordenada e fiscalizada pelas autoridades metropolitanas de transportes de Lisboa e do Porto, de acordo com a Lei n.º 1/2009, de 5 de Janeiro, em articulação com:
+
+a) Operadores de transporte colectivo de passageiros;
+
+b) OTLIS - Operadores de Transportes da Região de Lisboa, A. C. E.;
+
+c) TIP - Transportes Intermodais do Porto, A. C. E.;
+
+d) Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT).
+
+2 - As entidades referidas no número anterior e os respectivos trabalhadores, que tenham acesso a informação de natureza tributária dos titulares do Passe Social+, encontram-se obrigados ao dever de sigilo nos mesmos termos do dever de sigilo estabelecido para os dirigentes, funcionários e agentes da administração tributária, de acordo com o disposto no artigo 64.º da lei geral tributária.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+###### Artigo 6.º-A — Tratamento de dados pessoais
+
+O tratamento de dados pessoais realizado ao abrigo da presente portaria encontra-se regulado pela legislação relativa à proteção de dados pessoais, na generalidade, e, na especialidade, pela legislação que regula os requisitos de tratamento de dados pessoais para a constituição de ficheiros de âmbito nacional, com recurso a tecnologias de informação.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 36/2012 - Diário da República n.º 28/2012, Série I de 2012-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722), em vigor a partir de 2012-02-13, produz efeitos a partir de 2011-02-01
+
+###### Artigo 6.º-B — Articulação entre entidades
+
+Os operadores de transporte das áreas metropolitanas de Lisboa e Porto, através das Autoridades Metropolitanas de Transportes, articulam-se com as entidades competentes dos Ministérios das Finanças e da Solidariedade Social, através de protocolo que estabeleça os procedimentos de comunicação de dados, por via desmaterializada, para verificação dos elementos necessários à atribuição do Passe Social+, referidos no artigo 3.º-B da presente portaria.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 36/2012 - Diário da República n.º 28/2012, Série I de 2012-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/36-2012-543722), em vigor a partir de 2012-02-13, produz efeitos a partir de 2011-02-01
+
+###### Artigo 7.º — Produção de efeitos
+
+A presente portaria produz efeitos desde 29 de Agosto de 2011.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01
+
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 6 de Setembro de 2011. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 2 de Setembro de 2011.
+
+> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 322-A/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-a-2024-899558357), em vigor a partir de 2024-12-11, produz efeitos a partir de 2025-01-01

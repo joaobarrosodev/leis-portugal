@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:564828:por
+title: Portaria n.º 768/81
+short_title: null
+summary: Altera o n.º 9.º da Portaria n.º 84/81, de 19 de Janeiro (estabelece disposições relativas às margens de comercialização
+  de pescado congelado)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura e Pescas e do Comércio e Turismo - Secretarias de Estado das Pescas e do Comércio
+proposing_entity: null
+official_number: 768/81
+official_date: null
+publication_date: '1981-09-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 205/1981, Série I de 1981-09-07
+  number: '205'
+  series: I
+  supplement: null
+  pages: 2390 - 2390
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20500/23902390.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '564828'
+  dre_path: /dr/detalhe/portaria/768-1981-564828
+  internal: pt:dre:564828:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/768-1981-564828
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/768-1981-564828
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:54:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bb0bca7dc0bae3e52925486111edc5a7288da0bafbfc2a29b2b1c1210bc7f29b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Peixe Congelado
+relationships:
+- type: cites
+  target: pt:dre:390213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:54:16Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 768/81
+
+de 7 de Setembro
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pescas e do Comércio, ao abrigo do disposto nos n.os 1 e 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro:
+
+1.º O n.º 9.º da [Portaria n.º 84/81](https://diariodarepublica.pt/dr/detalhe/portaria/84-1981-390213), de 19 de Janeiro, passa a ter a seguinte redacção:
+
+9.º A infracção ao disposto no n.º 7.º da presente portaria é punível com prisão até um mês.
+
+2.º A presente portaria entra imediatamente em vigor.
+
+Secretarias de Estado das Pescas e do Comércio, 14 de Julho de 1981. - O Secretário de Estado das Pescas, José Carlos Gonçalves Viana. - O Secretário de Estado do Comércio, Walter Waldemar Pego Marques.

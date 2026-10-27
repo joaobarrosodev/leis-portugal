@@ -1,0 +1,649 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32019R0472:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0472-20190814",
+ "dre_path": null,
+ "source_lastmod": "2019-08-14",
+ "versions": [
+  {
+   "date": "2019-03-25",
+   "future": false,
+   "celex": "32019R0472",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "220d81d8abbe1ca9",
+    "226c39ffd0a88dad",
+    "caecec51de70a2e7",
+    "1fa70dfdfa32decc",
+    "87281124a34e993c",
+    "f0f8c960bfdbce9b",
+    "46ade57b6ac04700",
+    "93e6e099fb578dea",
+    "1e7a0903d2eed348",
+    "ac4060396e329e43",
+    "463f945f2c111153",
+    "684d658ac0a068fc",
+    "937a943a08480be4",
+    "1ecfc79da3f1ac7f",
+    "9c8be31caaee46c3",
+    "4fa5581bbac92e61",
+    "c5d412b0df4990d5",
+    "40ed6b62e188ac6f",
+    "29a5272a729bc335",
+    "ff9f7c58f7197d7c",
+    "b76d202a844f758e",
+    "cb26737379f30d4e",
+    "1eccddc6def0e92c",
+    "ad67cdbd0bace86b",
+    "161a8aeddd62d1c8",
+    "7fd045ac4f655f13",
+    "f686d851ed0a0ff7",
+    "e2e7f0526005052d",
+    "99973826fcc02605",
+    "b7230c32a3ead4e6",
+    "06151b0c08954e7f",
+    "066a8a7b3c446d0b",
+    "2b6f1646960457dc",
+    "41d22eedf61dd046",
+    "63e36e9fa428ed4b",
+    "6d342c5308364ee3",
+    "68a00cb993714b45",
+    "e04eea2e2268a242",
+    "9493e893b8c67a3a",
+    "1e5d9c4fa42b2497",
+    "a3f7f6b27e16b309",
+    "805d2f7196093577",
+    "c803d6c26a41c95e",
+    "da1963f0b820128b",
+    "dce9a21fe1c63bf4",
+    "a04fcecb7065c2e6",
+    "3dc07a489387f527",
+    "4e9acc8db29884b4",
+    "496eca9ab60665bc",
+    "dde9cf53e9ae6c9a",
+    "61dada1f0d833cc7",
+    "717ed7f7dfb97b8f",
+    "ab4b85443de54fe7"
+   ]
+  },
+  {
+   "date": "2019-08-14",
+   "future": false,
+   "celex": "02019R0472-20190814",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1241:por",
+     "title": "REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1241"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objeto e âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 9.º — Medidas técnicas",
+    "Altera Artigo 20.º — Alteração do Regulamento (UE) 2016/1139",
+    "Altera Artigo 21.º — Alteração do Regulamento (UE) 2018/973",
+    "Altera Artigo 23.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Declaração comum do Parlamento Europeu e do Conselho"
+   ],
+   "fragments": [
+    "74cf80f39a0f77b8",
+    "226c39ffd0a88dad",
+    "caecec51de70a2e7",
+    "8f502ee7ba9ae9d8",
+    "671a357453a02b50",
+    "f0f8c960bfdbce9b",
+    "46ade57b6ac04700",
+    "93e6e099fb578dea",
+    "1e7a0903d2eed348",
+    "ac4060396e329e43",
+    "463f945f2c111153",
+    "684d658ac0a068fc",
+    "937a943a08480be4",
+    "1ecfc79da3f1ac7f",
+    "9c8be31caaee46c3",
+    "4fa5581bbac92e61",
+    "c5d412b0df4990d5",
+    "40ed6b62e188ac6f",
+    "29a5272a729bc335",
+    "adadfb6ee16db21f",
+    "b76d202a844f758e",
+    "cb26737379f30d4e",
+    "1eccddc6def0e92c",
+    "ad67cdbd0bace86b",
+    "161a8aeddd62d1c8",
+    "7fd045ac4f655f13",
+    "f686d851ed0a0ff7",
+    "e2e7f0526005052d",
+    "99973826fcc02605",
+    "b7230c32a3ead4e6",
+    "06151b0c08954e7f",
+    "066a8a7b3c446d0b",
+    "2b6f1646960457dc",
+    "41d22eedf61dd046",
+    "63e36e9fa428ed4b",
+    "6d342c5308364ee3",
+    "68a00cb993714b45",
+    "e04eea2e2268a242",
+    "9493e893b8c67a3a",
+    "1e5d9c4fa42b2497",
+    "a3f7f6b27e16b309",
+    "805d2f7196093577",
+    "c803d6c26a41c95e",
+    "da1963f0b820128b",
+    "dce9a21fe1c63bf4",
+    "a04fcecb7065c2e6",
+    "a15158582c98f874",
+    "3a64aede3523a8c5",
+    "496eca9ab60665bc",
+    "dde9cf53e9ae6c9a",
+    "61dada1f0d833cc7",
+    "057ae99683ee1587",
+    "7e9c302bb7807516",
+    "0e413ba7c1b25af5"
+   ]
+  }
+ ],
+ "fragments": {
+  "220d81d8abbe1ca9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de março de 2019\n\nque estabelece um plano plurianual para as unidades populacionais capturadas nas águas ocidentais e águas adjacentes, e para as pescarias que exploram essas unidades populacionais, que altera os Regulamentos (UE) 2016/1139 e (UE) 2018/973, e que revoga os Regulamentos (CE) n.º 811/2004, (CE) n.º 2166/2005, (CE) n.º 388/2006, (CE) n.º 509/2007 e (CE) n.º 1300/2008 do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 43.º, n.º 2,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2019083PT.01000101-E0001),\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2019083PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) A Convenção das Nações Unidas sobre o Direito do Mar, de 10 de dezembro de 1982, em que a União é Parte Contratante, prevê obrigações em matéria de conservação, entre as quais manter ou restabelecer as populações das espécies capturadas a níveis que permitam produzir o rendimento máximo sustentável (MSY).\n\n(2) Na Cimeira das Nações Unidas sobre o Desenvolvimento Sustentável, realizada em Nova Iorque em 2015, a União e os seus Estados-Membros assumiram o compromisso de, até 2020, regularem eficazmente a captura, porem termo à sobrepesca, à pesca ilegal, não declarada e não regulamentada e às práticas de pesca destrutivas, e aplicarem planos de gestão baseados em dados científicos, a fim de restabelecer as unidades populacionais, o mais rapidamente possível, por forma a atingir, no mínimo, níveis que permitam produzir o MSY determinado pelas suas características biológicas.\n\n(3) O Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2019083PT.01000101-E0003) estabelece as regras da política comum das pescas (PCP) em consonância com as obrigações internacionais da União. A PCP deve contribuir para a proteção do meio marinho, para a gestão sustentável de todas as espécies exploradas comercialmente e, em especial, para a realização de um bom estado ambiental até 2020, nos termos do artigo 1.º, n.º 1, da Diretiva 2008/56/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2019083PT.01000101-E0004).\n\n(4) Os objetivos da PCP são, entre outros, assegurar que a pesca e a aquicultura, sejam ambientalmente sustentáveis a longo prazo, aplicar a abordagem de precaução e aplicar a abordagem ecossistémica à gestão das pescas.\n\n(5) A fim de alcançar os objetivos da PCP, é necessário adotar um conjunto de medidas de conservação, se for caso disso, combinadas entre si, na forma de planos plurianuais, medidas técnicas, e a fixação e repartição das possibilidades de pesca.\n\n(6) Nos termos dos artigos 9.º e 10.º do Regulamento (UE) n.º 1380/2013 os planos plurianuais deverão basear-se nos pareceres científicos, técnicos e económicos. Nos termos dessas disposições, o plano plurianual previsto no presente Regulamento («plano») deverá conter objetivos e metas quantificáveis, com prazos precisos, pontos de referência de conservação, salvaguardas, e medidas técnicas destinadas a evitar e reduzir as capturas indesejadas, bem como a reduzir ao mínimo o impacto no meio marinho, em particular nos habitats vulneráveis e nas espécies protegidas.\n\n(7) O presente regulamento deverá ter em conta as limitações relacionadas com a dimensão dos navios de pesca artesanal e costeira utilizados nas regiões ultraperiféricas.\n\n(8) Por «melhores pareceres científicos disponíveis» deverá entender-se os pareceres científicos disponíveis ao público baseados nos mais recentes métodos e dados científicos, que tenham sido publicados ou revistos por um organismo científico independente reconhecido a nível da União ou a nível internacional.\n\n(9) A Comissão deverá obter os melhores pareceres científicos disponíveis para as unidades populacionais abrangidas pelo âmbito do plano. Para o efeito, celebra memorandos de entendimento com o Conselho Internacional de Exploração do Mar (CIEM). Os pareceres científicos emitidos, nomeadamente pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional deverão basear-se no plano e deverão indicar, em particular, intervalos FMSY e pontos de referência da biomassa, ou seja, o MSY Btrigger e o Blim. Tais valores deverão ser indicados nos pareceres sobre as unidades populacionais pertinentes e, se adequado, em quaisquer outros pareceres científicos disponíveis ao público, incluindo, por exemplo, os pareceres relativos às pescarias mistas emitidos, nomeadamente, pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional.\n\n(10) Os Regulamentos (CE) n.º 811/2004 [([^5])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2019083PT.01000101-E0005), (CE) n.º 2166/2005 [([^6])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr6-L_2019083PT.01000101-E0006), (CE) n.º 388/2006 [([^7])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr7-L_2019083PT.01000101-E0007), (CE) n.º 509/2007 [([^8])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr8-L_2019083PT.01000101-E0008) e (CE) n.º 1300/2008 [([^9])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr9-L_2019083PT.01000101-E0009) do Conselho estabelecem as regras para a exploração das unidades populacionais de pescada do Norte, pescada e lagostins do mar Cantábrico e a oeste da Península Ibérica, linguado do golfo da Biscaia, linguado do canal da Mancha ocidental, arenque a oeste da Escócia e bacalhau do Kattegat, do mar do Norte, a oeste da Escócia e do mar da Irlanda. Essas e outras unidades populacionais demersais são capturadas em pescarias mistas. Por conseguinte, é adequado estabelecer um plano plurianual único que tenha em conta essas interações técnicas.\n\n(11) Além disso, um plano plurianual deste tipo deverá ser aplicável às unidades populacionais demersais e pescarias nas águas ocidentais, incluindo as águas ocidentais norte e as águas ocidentais sul. Essas são as espécies de peixes redondos, de peixes chatos e de peixes cartilaginosos, bem como o lagostim (*Nephrops norvegicus*), que vivem no fundo ou perto do fundo da coluna de água.\n\n(12) Algumas unidades populacionais demersais são exploradas tanto nas águas ocidentais como nas águas adjacentes. Por conseguinte, o âmbito das disposições do plano relacionadas com as metas e salvaguardas para as unidades populacionais que são principalmente exploradas nas águas ocidentais deverá ser alargado a essas zonas situadas fora das águas ocidentais. Além disso, no caso das unidades populacionais que também estão presentes nas águas ocidentais, mas que são principalmente exploradas fora delas, será necessário estabelecer as metas e salvaguardas em planos plurianuais para as zonas situadas fora das águas ocidentais onde essas unidades populacionais são principalmente exploradas, alargando o âmbito de aplicação de tais planos plurianuais de forma a que abranjam também as águas ocidentais.\n\n(13) O âmbito geográfico de aplicação do plano deverá basear-se na distribuição geográfica das unidades populacionais indicada no mais recente parecer científico fornecido nomeadamente pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional sobre as unidades populacionais. No futuro, poderá ser necessário proceder a mudanças na distribuição geográfica das unidades populacionais constantes do plano, devido a melhores informações científicas ou devido à migração das unidades populacionais. Por conseguinte, deverá ser conferido à Comissão o poder de adotar atos delegados a fim de ajustar a distribuição geográfica das unidades populacionais estabelecida no plano, se os pareceres científicos, fornecidos nomeadamente pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, indicarem uma alteração na distribuição geográfica das unidades populacionais em causa.\n\n(14) Caso unidades populacionais de interesse comum sejam exploradas também por países terceiros, a União deverá dialogar com esses países a fim de assegurar que essas unidades populacionais sejam geridas de forma sustentável e de acordo com os objetivos do Regulamento (UE) n.º 1380/2013, nomeadamente o artigo 2.º, n.º 2, e os do presente regulamento. Caso não seja alcançado um acordo formal, a União deverá envidar todos os esforços para se estabelecerem disposições comuns sobre a pesca dessas unidades populacionais, a fim de tornar possível a sua gestão sustentável, promovendo assim condições equitativas para os operadores da União.\n\n(15) O plano deverá ter por objetivo contribuir para a realização dos objetivos da PCP, e, em particular a consecução e a manutenção do MSY das unidades populacionais-alvo, a aplicação da obrigação de desembarcar as unidades populacionais demersais sujeitas a limites de captura, e a promoção de um nível de vida equitativo para as populações que dependem das atividades de pesca, tendo em conta a pesca costeira e aspetos socioeconómicos. O plano deverá também aplicar a abordagem ecossistémica à gestão das pescas para assegurar que o impacto negativo das atividades de pesca no ecossistema marinho seja reduzido ao mínimo. O plano deverá ser coerente com a legislação ambiental da União, em particular com o objetivo de se atingir um bom estado ambiental até 2020 (nos termos da Diretiva 2008/56/CE) e com os objetivos da Diretiva 2009/147/CE do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr10-L_2019083PT.01000101-E0010) e da Diretiva 92/43/CEE do Conselho [([^11])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr11-L_2019083PT.01000101-E0011). O plano deverá também especificar os pormenores relativos à aplicação da obrigação de desembarcar nas águas da União das águas ocidentais para todas as unidades populacionais das espécies às quais se aplica a obrigação de desembarcar nos termos do artigo 15.º do Regulamento (UE) n.º 1380/2013.\n\n(16) O artigo 16.º, n.º 4, do Regulamento (UE) n.º 1380/2013, exige que as possibilidades de pesca sejam fixadas em conformidade com os objetivos estabelecidos no seu artigo 2.º, n.º 2, e cumpram as metas, os prazos e as margens estabelecidos nos planos plurianuais.\n\n(17) É conveniente estabelecer a taxa-alvo de mortalidade por pesca (F) que corresponde ao objetivo de atingir e manter o MSY, na forma de intervalos de valores compatíveis com a consecução do MSY (FMSY). Estes intervalos, baseados nos melhores pareceres científicos disponíveis, são necessários a fim de permitir uma certa flexibilidade para ter em conta a evolução dos pareceres científicos, contribuir para a aplicação da obrigação de desembarcar e ter em conta as características das pescarias mistas. Os intervalos FMSY deverão ser calculados, nomeadamente, pelo CIEM, designadamente no seu parecer periódico sobre as capturas, ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional. Com base no plano, deverão ser calculados de forma a não permitirem uma redução superior a 5 % no rendimento a longo prazo por comparação com o MSY. O limite máximo do intervalo deverá ser fixado de forma a que a probabilidade de a unidade populacional descer abaixo do Blim não exceda 5 %. Este limite máximo deverá obedecer igualmente à chamada «regra aconselhada» do CIEM, que indica que, se o estado da biomassa reprodutora ou da abundância for mau, F deverá ser reduzido a um valor que não exceda um limite máximo igual ao valor do ponto FMSY multiplicado pela biomassa reprodutora ou pela abundância no ano do total admissível de capturas (TAC) e dividido pelo MSY Btrigger. O CIEM utiliza estas considerações e a regra aconselhada na sua prestação de pareceres científicos sobre a mortalidade por pesca e sobre as opções de captura.\n\n(18) Para efeitos de fixação das possibilidades de pesca, deverá haver um limiar máximo para os intervalos FMSY normalmente utilizados e, desde que se considere que a unidade populacional em causa se encontra em bom estado, um limite máximo em certos casos. Deverá ser possível fixar as possibilidades de pesca até ao limite máximo apenas se, com base em pareceres ou em dados científicos, tal for necessário para alcançar os objetivos do presente regulamento no âmbito das pescarias mistas ou para evitar danos a uma unidade populacional causados por dinâmicas intraespécies ou interespécies das unidades populacionais, ou para limitar as variações das possibilidades de pesca de ano para ano.\n\n(19) Um conselho consultivo pertinente deverá poder recomendar à Comissão uma abordagem de gestão que vise limitar as variações anuais das possibilidades de pesca de uma determinada unidade populacional enumerada no presente regulamento. O Conselho deverá poder ter em conta essas recomendações quando fixar as possibilidades de pesca, desde que estas possibilidades de pesca cumpram as metas e as salvaguardas previstas no plano.\n\n(20) No caso das unidades populacionais para as quais estejam disponíveis metas relacionadas com o MSY, e para efeitos da aplicação de medidas de salvaguarda, é necessário estabelecer pontos de referência de conservação, expressos como níveis de biomassa reprodutora de desencadeamento, para as unidades populacionais de peixes, e níveis de abundância de desencadeamento, para o lagostim.\n\n(21) Deverão ser previstas medidas de salvaguarda adequadas no caso de a abundância da unidade populacional descer abaixo desses níveis. As medidas de salvaguarda deverão incluir a redução das possibilidades de pesca e medidas de conservação específicas sempre que os pareceres científicos indiquem que são necessárias medidas corretivas. Essas medidas deverão ser complementadas por quaisquer outras medidas adequadas, tais como medidas da Comissão nos termos do artigo 12.º do Regulamento (UE) n.º 1380/2013 ou medidas dos Estados-Membros nos termos do artigo 13.º do desse regulamento.\n\n(22) Deverá ser possível que o TAC do lagostim em quatro zonas de gestão específicas seja fixado como a soma dos limites de captura fixados para cada unidade funcional e para os retângulos estatísticos fora das unidades funcionais em cada zona de gestão. Contudo, tal não deverá obstar à adoção de medidas destinadas a proteger unidades funcionais específicas.\n\n(23) A fim de aplicar uma abordagem regional à conservação e exploração sustentável dos recursos biológicos marinhos, é conveniente prever a possibilidade de se tomarem medidas técnicas nas águas ocidentais para todas as unidades populacionais.\n\n(24) O regime de limitação do esforço de pesca para o linguado do canal da Mancha ocidental demonstrou ser um eficaz instrumento de gestão complementar da fixação das possibilidades de pesca. Tal limitação do esforço deverá, por conseguinte, ser mantida no âmbito do plano.\n\n(25) Quando a mortalidade causada pela pesca recreativa tem um impacto significativo numa unidade populacional gerida com base no MSY, o Conselho deverá poder fixar limites não discriminatórios para os que praticam a pesca recreativa. Ao fixar esses limites, o Conselho deverá basear-se em critérios transparentes e objetivos. Os Estados-Membros deverão, quando for caso disso, tomar as medidas necessárias e proporcionadas para o controlo e a recolha dos dados destinados a uma avaliação fiável dos níveis efetivos das capturas da pesca recreativa.\n\n(26) A fim de dar execução à obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013, o plano deverá prever medidas de gestão adicionais a especificar nos termos do artigo 18.º desse regulamento.\n\n(27) Tal como exigido pelo Regulamento (UE) n.º 1380/2013, deverá ser fixado o prazo para a apresentação de recomendações conjuntas pelos Estados-Membros com interesses diretos de gestão.\n\n(28) Nos termos do artigo 10.º, n.º 3, do Regulamento (UE) n.º 1380/2013, deverão ser adotadas disposições relativas à avaliação periódica pela Comissão, da adequação e da eficácia da aplicação do presente regulamento, com base em pareceres científicos. O plano deverá ser avaliado até 27 de março de 2024 e, posteriormente, de cinco em cinco anos. Esse período permitirá aplicar na íntegra a obrigação de desembarcar e adotar medidas regionalizadas, aplicá-las e determinar os seus efeitos para as unidades populacionais e para as pescarias. Trata-se também de um período mínimo exigido pelos organismos científicos.\n\n(29) A fim de efetuar uma adaptação oportuna e proporcionada ao progresso técnico e científico, de garantir flexibilidade e permitir a evolução de determinadas medidas, o poder de adotar atos nos termos do artigo 290.º do Tratado sobre o Funcionamento da União Europeia deverá ser delegado na Comissão a fim de alterar ou completar o presente regulamento no que diz respeito aos ajustamentos relativos às unidades populacionais abrangidas pelo presente regulamento na sequência de alterações na distribuição geográfica das unidades populacionais, às medidas corretivas, à aplicação da obrigação de desembarcar e aos limites para a capacidade total das frotas dos Estados-Membros em causa. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive ao nível dos peritos, e que essas consultas sejam conduzidas de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor [([^12])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr12-L_2019083PT.01000101-E0012). Em particular, a fim de assegurar a igualdade de participação na preparação dos atos delegados, o Parlamento Europeu e o Conselho recebem todos os documentos ao mesmo tempo que os peritos dos Estados-Membros, e os respetivos peritos têm sistematicamente acesso às reuniões dos grupos de peritos da Comissão que tratem da preparação dos atos delegados.\n\n(30) Por razões de segurança jurídica, é conveniente deixar claro que as medidas de cessação temporária adotadas para o cumprimento dos objetivos do plano podem ser consideradas elegíveis para apoio ao abrigo do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho [([^13])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr13-L_2019083PT.01000101-E0013).\n\n(31) A aplicação de referências dinâmicas aos intervalos FMSY e de pontos de referência de conservação garantirá que esses parâmetros, essenciais para a fixação das possibilidades de pesca, não se tornam obsoletos e que o Conselho tem sempre a possibilidade de utilizar os melhores pareceres científicos disponíveis. Além disso, a abordagem que consiste na aplicação de referências dinâmicas aos melhores pareceres científicos disponíveis deverá ser seguida na gestão das unidades populacionais no mar Báltico. Deverá igualmente especificar-se que a obrigação de desembarcar não se aplica à pesca recreativa nas zonas abrangidas pelo plano plurianual para a pesca no mar Báltico. Por conseguinte, o Regulamento (UE) 2016/1139 do Parlamento Europeu e do Conselho [([^14])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr14-L_2019083PT.01000101-E0014) deverá ser alterado.\n\n(32) O tamanho mínimo de referência de conservação para o lagostim no Skagerrak e no Kattegat deverá ser revisto. Deverá igualmente especificar-se que a obrigação de desembarcar não é aplicável à pesca recreativa nas zonas abrangidas pelo plano plurianual para a pesca no mar do Norte. Por conseguinte, o Regulamento (UE) 2018/973 do Parlamento Europeu e do Conselho [([^15])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr15-L_2019083PT.01000101-E0015) deverá ser alterado.\n\n(33) Os Regulamentos (CE) n.º 811/2004, (CE) n.º 2166/2005, (CE) n.º 388/2006, (CE) n.º 509/2007 e (CE) n.º 1300/2008 deverão ser revogados.\n\n(34) O provável impacto económico e social do plano foi devidamente avaliado antes da sua finalização, nos termos do artigo 9.º, n.º 4, do Regulamento (UE) n.º 1380/2013,\n\nADOTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "caecec51de70a2e7": {
+   "fragment_id": "OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "1fa70dfdfa32decc": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece um plano plurianual (a seguir designado por «plano») relativo às unidades populacionais demersais a seguir enumeradas, incluindo as unidades populacionais de profundidade, nas águas ocidentais, e, sempre que essas unidades populacionais se estendam para além das águas ocidentais, nas suas águas adjacentes, e para as pescarias que exploram essas unidades populacionais:\n\n1) Peixe-espada-preto (*Aphanopus carbo*) nas subzonas CIEM 1, 2, 4, 6-8, 10 e 14 e nas divisões CIEM 3a, 5a, 5b, 9a e 12b;\n\n2) Lagartixa-da-rocha (*Coryphaenoides rupestris*) nas subzonas CIEM 6 e 7 e na divisão CIEM 5b;\n\n3) Robalo-legítimo (*Dicentrarchus labrax*) nas divisões CIEM 4b, 4c, 7a, 7d-h, 8a e 8b;\n\n4) Robalo-legítimo (*Dicentrarchus labrax*) nas divisões CIEM 6a, 7b e 7j;\n\n5) Robalo-legítimo (*Dicentrarchus labrax*) nas divisões CIEM 8c e 9a;\n\n6) Bacalhau (*Gadus morhua*) na divisão CIEM 7a;\n\n7) Bacalhau (*Gadus morhua*) nas divisões CIEM 7e-k;\n\n8) Areeiros (*L*e*pidorhombus* spp.) nas divisões CIEM 4a e 6a;\n\n9) Areeiros (*Lepidorhombus* spp.) na divisão CIEM 6b;\n\n10) Areeiros (*Lepidorhombus* spp.) nas divisões CIEM 7b-k, 8a, 8b e 8d;\n\n11) Areeiros (*Lepidorhombus* spp.) nas divisões CIEM 8c e 9a;\n\n12) Tamboril (*Lophiidae*) nas divisões CIEM 7b-k, 8a, 8b e 8d;\n\n13) Tamboril (*Lophiidae*) nas divisões CIEM 8c e 9a;\n\n14) Arinca (*Melanogrammus aeglefinus*) na divisão CIEM 6b;\n\n15) Arinca (*Melanogrammus aeglefinus*) na divisão CIEM 7a;\n\n16) Arinca (*Melanogrammus aeglefinus*) nas divisões CIEM 7b-k;\n\n17) Badejo (*Merlangius merlangus*) nas divisões CIEM 7b, 7c e 7e-k;\n\n18) Badejo (*Merlangius merlangus*) na subzona CIEM 8 e na divisão CIEM 9a;\n\n19) Pescada (*Merluccius merluccius*) nas subzonas CIEM 4, 6 e 7 e nas divisões CIEM 3a, 8a, 8b e 8d;\n\n20) Pescada (*Merluccius merluccius*) nas divisões CIEM 8c e 9a;\n\n21) Maruca-azul (*Molva dypterygia*) nas subzonas CIEM 6 e 7 e na divisão CIEM 5b;\n\n22) Lagostim (*Nephrops norvegicus*) por unidade funcional na subzona CIEM 6 e na divisão CIEM 5b: — Em Minch norte (UF 11), — Em Minch sul (UF 12), — No estuário do Clyde (UF 13), — Na divisão 6a, fora das unidades funcionais (oeste da Escócia);\n\n— Em Minch norte (UF 11),\n\n— Em Minch sul (UF 12),\n\n— No estuário do Clyde (UF 13),\n\n— Na divisão 6a, fora das unidades funcionais (oeste da Escócia);\n\n23) Lagostim (*Nephrops norvegicus*) por unidade funcional na subzona CIEM 7: — No mar da Irlanda oriental (UF 14), — No mar da Irlanda ocidental (UF 15), — Nos bancos de Porcupine (UF 16), — No banco das Aran (UF 17), — No mar da Irlanda (UF 19), — No mar Céltico (UF 20-21), — No canal de Bristol (UF 22), — Fora das unidades funcionais (sul do mar Céltico, sudoeste da Irlanda);\n\n— No mar da Irlanda oriental (UF 14),\n\n— No mar da Irlanda ocidental (UF 15),\n\n— Nos bancos de Porcupine (UF 16),\n\n— No banco das Aran (UF 17),\n\n— No mar da Irlanda (UF 19),\n\n— No mar Céltico (UF 20-21),\n\n— No canal de Bristol (UF 22),\n\n— Fora das unidades funcionais (sul do mar Céltico, sudoeste da Irlanda);\n\n24) Lagostim (*Nephrops norvegicus*) por unidade funcional nas divisões CIEM 8a, 8b, 8d e 8e: — No norte e no centro do golfo da Biscaia (UF 23-24);\n\n— No norte e no centro do golfo da Biscaia (UF 23-24);\n\n25) Lagostim (*Nephrops norvegicus*) por unidade funcional nas subzonas CIEM 9 e 10 e na zona CECAF 34.1.1: — Nas águas atlânticas da Península Ibérica — leste, Galiza ocidental e norte de Portugal (UF 26-27), — Nas águas atlânticas da Península Ibérica — leste e sudoeste e sul de Portugal (UF 28-29), — Nas águas atlânticas da Península Ibérica — leste e golfo de Cádis (UF 30);\n\n— Nas águas atlânticas da Península Ibérica — leste, Galiza ocidental e norte de Portugal (UF 26-27),\n\n— Nas águas atlânticas da Península Ibérica — leste e sudoeste e sul de Portugal (UF 28-29),\n\n— Nas águas atlânticas da Península Ibérica — leste e golfo de Cádis (UF 30);\n\n26) Goraz (*Pagellus bogaraveo*) na subzona CIEM 9;\n\n27) Solha (*Pleuronectes platessa*) na divisão CIEM 7d;\n\n28) Solha (*Pleuronectes platessa*) na divisão CIEM 7e;\n\n29) Juliana (*Pollachius pollachius*) nas subzonas CIEM 6 e 7;\n\n30) Linguado-legítimo (*Solea solea*) nas subzonas CIEM 5, 12 e 14 e na divisão 6b;\n\n31) Linguado-legítimo (*Solea solea*) na divisão CIEM 7d;\n\n32) Linguado-legítimo (*Solea solea*) na divisão CIEM 7e;\n\n33) Linguado-legítimo (*Solea sol*e*a*) nas divisões CIEM 7f e 7g;\n\n34) Linguado-legítimo (*Solea solea*) nas divisões CIEM 7h, 7j e 7k;\n\n35) Linguado-legítimo (*Solea solea*) nas divisões CIEM 8a e 8b;\n\n36) Linguado-legítimo (*Solea solea*) nas divisões CIEM 8c e 9a.\n\nSe os pareceres científicos, em particular o do CIEM ou de um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, indicarem uma alteração na distribuição geográfica das unidades populacionais enumeradas no primeiro parágrafo do presente número, a Comissão pode adotar atos delegados nos termos do artigo 18.º que alterem o presente regulamento ajustando as zonas especificadas no primeiro parágrafo do presente número, de modo a refletirem aquela alteração. Tais ajustamentos não devem alargar as zonas em que estão presentes unidades populacionais para além das águas da União das subzonas CIEM 4 a 10 e das zonas CECAF 34.1.1, 34.1.2 e 34.2.0.\n\n2. Sempre que, com base nos pareceres científicos, a Comissão considerar que a lista das unidades populacionais estabelecida no n.º 1, primeiro parágrafo, deve ser alterada, a Comissão pode apresentar uma proposta de alteração dessa lista.\n\n3. No que diz respeito às águas adjacentes abrangidas pelo disposto no n.º 1 do presente artigo, apenas são aplicáveis os artigos 4.º e 7.º e as medidas relacionadas com as possibilidades de pesca nos termos do artigo 8.º do presente regulamento.\n\n4. O presente regulamento é igualmente aplicável às capturas acessórias realizadas nas águas ocidentais, durante a pesca das unidades populacionais enumeradas no n.º 1. Contudo, sempre que os intervalos FMSY e as salvaguardas ligadas à biomassa para essas unidades populacionais sejam definidos por outros atos jurídicos da União que estabelecem planos plurianuais, aplicam-se esses intervalos e salvaguardas.\n\n5. O presente regulamento também especifica os pormenores relativos à aplicação da obrigação de desembarcar nas águas da União das águas ocidentais para todas as unidades populacionais das espécies às quais se aplica a obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013.\n\n6. O presente regulamento prevê, no artigo 9.º, medidas técnicas aplicáveis nas águas ocidentais relativamente a qualquer unidade populacional."
+  },
+  "87281124a34e993c": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, para além das definições constantes do artigo 4.º do Regulamento (UE) n.º 1380/2013, do artigo 4.º do Regulamento (CE) n.º 1224/2009 do Conselho [([^16])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr16-L_2019083PT.01000101-E0016) e do artigo 3.º do Regulamento (CE) n.º 850/98 do Conselho [([^17])](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntr17-L_2019083PT.01000101-E0017), são aplicáveis as seguintes definições:\n\n1) **«Águas ocidentais»**: as águas ocidentais norte [subzonas CIEM 5 (exceto divisão 5a e unicamente águas da União da divisão 5b, 6 e 7] e as águas ocidentais sul [subzonas CIEM 8, 9 e 10 (águas em torno dos Açores) e zonas CECAF 34.1.1, 34.1.2 e 34.2.0 (águas em torno da Madeira e das ilhas Canárias)];\n\n2) **«Intervalo FMSY»**: um intervalo de valores indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, no qual todos os níveis de mortalidade por pesca dentro desse intervalo resultam no rendimento máximo sustentável (MSY) a longo prazo, para um determinado padrão de pesca e nas condições ambientais médias atuais, sem afetar significativamente o processo de reprodução das unidades populacionais em causa. O intervalo é calculado de forma a não permitir uma redução superior a 5 % em termos do rendimento a longo prazo por comparação com o MSY. É fixado de forma a que a probabilidade de a unidade populacional descer abaixo do ponto de referência da biomassa da unidade populacional reprodutora (Blim) não possa exceder 5 %;\n\n3) **«MSY Flower»**: o valor mais baixo dentro do intervalo FMSY;\n\n4) **«MSY Fupper»**: o valor mais elevado dentro do intervalo FMSY;\n\n5) **«Valor do ponto FMSY»**: o valor estimado de mortalidade por pesca que, para um determinado padrão de pesca e nas condições ambientais médias atuais, resulta no MSY a longo prazo;\n\n6) **«Limite inferior do intervalo FMSY»**: um intervalo de valores desde o MSY Flower até ao valor do ponto FMSY;\n\n7) **«Limite superior do intervalo FMSY»**: um intervalo de valores desde o valor do ponto FMSY até ao MSY Fupper;\n\n8) **«Blim»**: o ponto de referência da biomassa da unidade populacional reprodutora indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, abaixo do qual a capacidade de reprodução pode ser reduzida;\n\n9) **«MSY Btrigger»**: o ponto de referência da biomassa da unidade populacional reprodutora, ou, no caso do lagostim, o ponto de referência da abundância, indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, abaixo do qual deve ser desencadeada uma ação de gestão específica e adequada para garantir que as taxas de exploração, em combinação com as variações naturais, permitam reconstituir as unidades populacionais acima de níveis capazes de produzir o MSY a longo prazo."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "46ade57b6ac04700": {
+   "fragment_id": "OBJECTIVOS",
+   "type": "divisao",
+   "heading": "OBJECTIVOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTIVOS"
+  },
+  "93e6e099fb578dea": {
+   "fragment_id": "Artigo 3.º — Objetivos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\n1. O plano deve contribuir para a realização dos objetivos da política comum das pescas enunciados no artigo 2.º do Regulamento (UE) n.º 1380/2013, em especial através da aplicação da abordagem de precaução à gestão das pescas, e deve procurar garantir que a exploração dos recursos biológicos marinhos vivos restabeleça e mantenha as populações das espécies exploradas acima de níveis que possam produzir o MSY.\n\n2. O plano deve contribuir para a eliminação das devoluções, evitando e reduzindo, tanto quanto possível, as capturas indesejadas, e para a aplicação da obrigação de desembarcar estabelecida no artigo 15.º do Regulamento (UE) n.º 1380/2013 às espécies sujeitas a limites de captura e às quais o presente regulamento se aplica.\n\n3. O plano aplica a abordagem ecossistémica à gestão das pescas, de modo a assegurar que o impacto negativo das atividades de pesca no ecossistema marinho seja reduzido ao mínimo. O plano deve ser coerente com a legislação ambiental da União, nomeadamente com o objetivo de se obter um bom estado ambiental até 2020, estabelecido no artigo 1.º, n.º 1, da Diretiva 2008/56/CE.\n\n4. O plano deve procurar, em especial:\n\na) Garantir que as condições indicadas no descritor 3 constante do anexo I da Diretiva 2008/56/CE sejam respeitadas;\n\nb) Contribuir para o cumprimento de outros descritores relevantes constantes do anexo I da Diretiva 2008/56/CE, proporcionalmente ao papel desempenhado pelas pescas nesse cumprimento; e\n\nc) Contribuir para a realização dos objetivos fixados nos artigos 4.º e 5.º da Diretiva 2009/147/CE e nos artigos 6.º e 12.º da Diretiva 92/43/CEE, nomeadamente para reduzir ao mínimo o impacto negativo das atividades de pesca nos habitats vulneráveis e nas espécies protegidas.\n\n5. As medidas tomadas no âmbito do plano devem estar de acordo com os melhores pareceres científicos disponíveis. Se as informações disponíveis não forem suficientes, deve visar-se um grau comparável de conservação das unidades populacionais pertinentes."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "ac4060396e329e43": {
+   "fragment_id": "METAS",
+   "type": "divisao",
+   "heading": "METAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### METAS"
+  },
+  "463f945f2c111153": {
+   "fragment_id": "Artigo 4.º — Metas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Metas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Metas\n\n1. A taxa-alvo de mortalidade por pesca, de acordo com os intervalos FMSY definidos no artigo 2.º, deve ser alcançada o mais cedo possível e, progressiva e gradualmente, até 2020, para as unidades populacionais enumeradas no artigo 1.º, n.º 1, devendo em seguida ser mantida dentro dos intervalos FMSY, nos termos do presente artigo.\n\n2. Os intervalos FMSY com base no plano devem ser solicitados nomeadamente ao CIEM ou a um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional.\n\n3. Nos termos do artigo 16.º, n.º 4, do Regulamento (UE) n.º 1380/2013, quando o Conselho fixa as possibilidades de pesca para uma unidade populacional, estabelece-as no limite inferior do intervalo FMSY disponível nesse momento para essa unidade populacional.\n\n4. Sem prejuízo do disposto nos n.^os^ 1 e 3, as possibilidades de pesca de uma unidade populacional podem ser fixadas a níveis inferiores aos intervalos FMSY.\n\n5. Sem prejuízo do disposto nos n.^os^ 3 e 4, as possibilidades de pesca de uma unidade populacional podem ser fixadas de acordo com o limite superior do intervalo FMSY disponível nesse momento para essa unidade populacional, desde que a unidade populacional referida no artigo 1.º, n.º 1, se encontre acima do MSY Btrigger:\n\na) Se, com base em pareceres ou em dados científicos, tal for necessário para a realização dos objetivos estabelecidos no artigo 3.º, no caso das pescarias mistas;\n\nb) Se, com base em pareceres ou em dados científicos, tal for necessário para evitar danos graves a uma unidade populacional causados por dinâmicas intraespécies ou interespécies das unidades populacionais; ou\n\nc) Para limitar as variações de possibilidades de pesca entre anos consecutivos a 20 % no máximo.\n\n6. Nos casos em que os intervalos de FMSY não puderem ser determinados para uma unidade populacional enumerada no artigo 1.º, n.º 1, devido à inexistência de informações científicas adequadas, essa unidade populacional deve ser gerida nos termos do artigo 5.º até os intervalos de FMSY ficarem disponíveis, nos termos do n.º 2 do presente artigo.\n\n7. As possibilidades de pesca devem, em qualquer caso, ser fixadas de forma a assegurar que exista uma probabilidade inferior a 5 % de a biomassa da unidade populacional reprodutora descer abaixo do Blim."
+  },
+  "684d658ac0a068fc": {
+   "fragment_id": "Artigo 5.º — Gestão das unidades populacionais que constituem capturas acessórias",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Gestão das unidades populacionais que constituem capturas acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gestão das unidades populacionais que constituem capturas acessórias\n\n1. As medidas de gestão das unidades populacionais referidas no artigo 1.º, n.º 4, incluindo, quando adequado, as possibilidades de pesca, devem ser tomadas tendo em conta os melhores pareceres científicos disponíveis e ser coerentes com os objetivos estabelecidos no artigo 3.º.\n\n2. As unidades populacionais a que se refere o artigo 1.º, n.º 4, devem ser geridas de acordo com a abordagem de precaução à gestão das pescas, definida no artigo 4.º, n.º 1, ponto 8, do Regulamento (UE) n.º 1380/2013, sempre que não estejam disponíveis informações científicas adequadas e nos termos do artigo 3.º, n.º 5, do presente regulamento.\n\n3. Nos termos do artigo 9.º, n.º 5, do Regulamento (UE) n.º 1380/2013, a gestão das pescarias mistas no que diz respeito às unidades populacionais referidas no artigo 1.º, n.º 4, do presente regulamento deve ter em conta as dificuldades de pescar todas as unidades populacionais respeitando o MSY em simultâneo, em especial nas situações em que tal conduz a um encerramento prematuro da pesca."
+  },
+  "937a943a08480be4": {
+   "fragment_id": "Artigo 6.º — Limitação das variações das possibilidades de pesca de uma unidade populacional",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Limitação das variações das possibilidades de pesca de uma unidade populacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limitação das variações das possibilidades de pesca de uma unidade populacional\n\nUm conselho consultivo pertinente pode recomendar à Comissão uma abordagem de gestão que vise limitar as variações anuais das possibilidades de pesca de uma determinada unidade populacional enumerada no artigo 1.º, n.º 1.\n\nO Conselho pode ter em conta essas recomendações quando fixar as possibilidades de pesca, desde que estas possibilidades de pesca cumpram o disposto nos artigos 4.º e 8.º."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "9c8be31caaee46c3": {
+   "fragment_id": "SALVAGUARDAS",
+   "type": "divisao",
+   "heading": "SALVAGUARDAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SALVAGUARDAS"
+  },
+  "4fa5581bbac92e61": {
+   "fragment_id": "Artigo 7.º — Pontos de referência de conservação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Pontos de referência de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pontos de referência de conservação\n\nOs seguintes pontos de referência de conservação destinados a salvaguardar a plena capacidade de reprodução das unidades populacionais referidas no artigo 1.º, n.º 1, devem, com base no plano, ser solicitados nomeadamente ao CIEM ou a um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional:\n\na) MSY Btrigger para as unidades populacionais referidas no artigo 1.º, n.º 1;\n\nb) Blim para as unidades populacionais referidas no artigo 1.º, n.º 1."
+  },
+  "c5d412b0df4990d5": {
+   "fragment_id": "Artigo 8.º — Salvaguardas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Salvaguardas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Salvaguardas\n\n1. Quando os pareceres científicos indicarem que, para um dado ano, a biomassa da unidade populacional reprodutora e, no caso das unidades populacionais de lagostim, a abundância de uma das unidades populacionais referidas no artigo 1.º, n.º 1, são inferiores ao MSY Btrigger, devem ser adotadas todas as medidas corretivas adequadas para assegurar um retorno rápido da unidade populacional ou unidade funcional em causa a níveis acima do nível que permite produzir o MSY. Em especial, não obstante o disposto no artigo 4.º, n.º 3, as possibilidades de pesca devem ser fixadas num nível consentâneo com uma mortalidade por pesca reduzida, abaixo do limite superior do intervalo FMSY, tendo em conta a diminuição da biomassa.\n\n2. Quando os pareceres científicos indicarem que a biomassa da unidade populacional reprodutora e, no caso das unidades populacionais de lagostim, a abundância de uma das unidades populacionais referidas no artigo 1.º, n.º 1, são inferiores ao Blim, devem ser tomadas medidas corretivas adicionais para assegurar o retorno rápido da unidade populacional ou unidade funcional em causa para níveis acima do nível capaz de produzir o MSY. Em especial, essas medidas corretivas podem incluir, não obstante o disposto no artigo 4.º, n.º 3, a suspensão da pesca dirigida à unidade populacional ou unidade funcional em causa e a redução adequada das possibilidades de pesca.\n\n3. As medidas corretivas referidas no presente artigo podem incluir:\n\na) Medidas de emergência, nos termos dos artigos 12.º e 13.º do Regulamento (UE) n.º 1380/2013;\n\nb) Medidas nos termos do artigo 9.º do presente regulamento.\n\n4. A escolha das medidas referidas no presente artigo deve ser feita de acordo com a natureza, gravidade, duração e repetição da situação, quando o nível da biomassa da unidade populacional reprodutora e, no caso das unidades populacionais de lagostim, da abundância sejam inferiores aos níveis referidos no artigo 7.º."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "29a5272a729bc335": {
+   "fragment_id": "MEDIDAS TÉCNICAS",
+   "type": "divisao",
+   "heading": "MEDIDAS TÉCNICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS TÉCNICAS"
+  },
+  "ff9f7c58f7197d7c": {
+   "fragment_id": "Artigo 9.º — Medidas técnicas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Medidas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas técnicas\n\n1. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 18.º do presente regulamento e do artigo 18.º do Regulamento (UE) n.º 1380/2013, a fim de completar o presente regulamento no que respeita às seguintes medidas técnicas:\n\na) Especificação das características das artes de pesca e das regras da sua utilização, a fim de assegurar ou melhorar a seletividade, reduzir as capturas indesejadas ou reduzir ao mínimo o impacto negativo no ecossistema;\n\nb) Especificação de alterações ou de dispositivos adicionais para as artes de pesca, a fim de assegurar ou melhorar a seletividade, reduzir as capturas indesejadas ou reduzir ao mínimo o impacto negativo no ecossistema;\n\nc) Restrições ou proibições da utilização de determinadas artes de pesca e de atividades de pesca, em certas zonas ou certos períodos, para proteger os peixes reprodutores, os peixes abaixo do tamanho mínimo de referência de conservação ou as espécies não-alvo, ou para reduzir ao mínimo o impacto negativo no ecossistema; e\n\nd) Fixação dos tamanhos mínimos de referência de conservação das unidades populacionais a que o presente regulamento se aplica, para assegurar a proteção dos juvenis de organismos marinhos.\n\n2. As medidas a que se refere o n.º 1 do presente artigo contribuem para a realização dos objetivos estabelecidos no artigo 3.º."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "cb26737379f30d4e": {
+   "fragment_id": "POSSIBILIDADES DE PESCA",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA"
+  },
+  "1eccddc6def0e92c": {
+   "fragment_id": "Artigo 10.º — Possibilidades de pesca",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Possibilidades de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Possibilidades de pesca\n\n1. Ao atribuírem as possibilidades de pesca de que dispõem nos termos do artigo 17.º do Regulamento (UE) n.º 1380/2013, os Estados-Membros têm em conta a composição provável das capturas dos navios que participam nas pescarias mistas.\n\n2. Os Estados-Membros podem, após notificação à Comissão, trocar entre si a totalidade ou parte das possibilidades de pesca que lhes tenham sido atribuídas, nos termos do artigo 16.º, n.º 8, do Regulamento (UE) n.º 1380/2013.\n\n3. Sem prejuízo do disposto no artigo 8.º, o TAC para as unidades populacionais de lagostim nas águas ocidentais pode ser fixado para as zonas de gestão correspondentes a cada uma das zonas definidas no artigo 1.º, n.º 1, primeiro parágrafo, pontos 22 a 25. Nesses casos, o TAC para uma zona de gestão pode ser a soma dos limites de captura dessas unidades funcionais e dos retângulos estatísticos fora das unidades funcionais."
+  },
+  "ad67cdbd0bace86b": {
+   "fragment_id": "Artigo 11.º — Pesca recreativa",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Pesca recreativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pesca recreativa\n\n1. Quando os pareceres científicos indicarem que a pesca recreativa tem um impacto importante na mortalidade por pesca de uma unidade populacional referida no artigo 1.º, n.º 1, o Conselho pode fixar limites não discriminatórios para os que praticam a pesca recreativa.\n\n2. Aquando da fixação dos limites a que se refere o n.º 1, o Conselho deve basear-se em critérios transparentes e objetivos, incluindo critérios de natureza ambiental, social e económica. Os critérios a utilizar podem incluir, designadamente, o impacto da pesca recreativa no ambiente, a importância social dessa atividade e a sua contribuição para a economia das zonas costeiras.\n\n3. Os Estados-Membros devem, quando for caso disso, tomar as medidas necessárias e proporcionadas para o controlo e a recolha dos dados destinados a uma avaliação fiável dos níveis efetivos das capturas da pesca recreativa."
+  },
+  "161a8aeddd62d1c8": {
+   "fragment_id": "Artigo 12.º — Limitação do esforço de pesca para o linguado no canal da Mancha ocidental",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Limitação do esforço de pesca para o linguado no canal da Mancha ocidental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Limitação do esforço de pesca para o linguado no canal da Mancha ocidental\n\n1. Os TAC para o linguado no canal da Mancha ocidental (divisão CIEM 7e) ao abrigo do plano são complementados com limitações do esforço de pesca.\n\n2. Ao fixar as possibilidades de pesca, o Conselho decide anualmente o número máximo de dias no mar para os navios presentes no canal da Mancha ocidental que calam redes de arrasto de vara de malhagem igual ou superior a 80 mm e para os navios presentes no canal da Mancha ocidental que calam redes fixas de malhagem igual ou superior a 220 mm.\n\n3. O número máximo de dias no mar a que se refere o n.º 2 é ajustado na mesma proporção que o ajustamento da mortalidade por pesca correspondente à variação dos TAC."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "f686d851ed0a0ff7": {
+   "fragment_id": "DISPOSIÇÕES RELACIONADAS COM A OBRIGAÇÃO DE DESEMBARCAR",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES RELACIONADAS COM A OBRIGAÇÃO DE DESEMBARCAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES RELACIONADAS COM A OBRIGAÇÃO DE DESEMBARCAR"
+  },
+  "e2e7f0526005052d": {
+   "fragment_id": "Artigo 13.º — Disposições relacionadas com a obrigação de desembarcar nas águas da União das águas ocidentais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições relacionadas com a obrigação de desembarcar nas águas da União das águas ocidentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições relacionadas com a obrigação de desembarcar nas águas da União das águas ocidentais\n\n1. Para todas as unidades populacionais de espécies das águas ocidentais às quais se aplica a obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 18.º do presente regulamento e do artigo 18.º do Regulamento (UE) n.º 1380/2013, a fim de completar o presente regulamento especificando os pormenores dessa obrigação, tal como estabelecida no artigo 15.º, n.º 5, alíneas a) a e) do Regulamento (UE) n.º 1380/2013.\n\n2. A obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013 não é aplicável à pesca recreativa, incluindo nos casos em que o Conselho fixa limites nos termos do artigo 11.º do presente regulamento."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "b7230c32a3ead4e6": {
+   "fragment_id": "ACESSO ÀS ÁGUAS E AOS RECURSOS",
+   "type": "divisao",
+   "heading": "ACESSO ÀS ÁGUAS E AOS RECURSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACESSO ÀS ÁGUAS E AOS RECURSOS"
+  },
+  "06151b0c08954e7f": {
+   "fragment_id": "Artigo 14.º — Autorizações de pesca e limites máximos de capacidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Autorizações de pesca e limites máximos de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Autorizações de pesca e limites máximos de capacidade\n\n1. Para cada uma das zonas CIEM referidas no artigo 1.º, n.º 1, do presente regulamento, os Estados-Membros emitem autorizações de pesca nos termos do artigo 7.º do Regulamento (CE) n.º 1224/2009 para os navios que arvorem o seu pavilhão e que exerçam atividades de pesca nessas zonas. Nessas autorizações de pesca, os Estados-Membros podem também limitar a capacidade total dos navios que utilizem uma arte específica.\n\n2. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 18.º do presente regulamento e do artigo 18.º do Regulamento (UE) n.º 1380/2013, a fim de completar o presente regulamento fixando limites para a capacidade total das frotas dos Estados-Membros em causa, por forma a facilitar a realização dos objetivos estabelecidos no artigo 3.º do presente regulamento.\n\n3. Os Estados-Membros estabelecem e mantêm atualizada uma lista dos navios que possuem a autorização de pesca a que se refere o n.º 1 e colocam-na à disposição da Comissão e dos outros Estados-Membros nos seus sítios Web oficiais."
+  },
+  "066a8a7b3c446d0b": {
+   "fragment_id": "CAPÍTULO IX",
+   "type": "divisao",
+   "heading": "CAPÍTULO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IX"
+  },
+  "2b6f1646960457dc": {
+   "fragment_id": "GESTÃO DE UNIDADES POPULACIONAIS DE INTERESSE COMUM",
+   "type": "divisao",
+   "heading": "GESTÃO DE UNIDADES POPULACIONAIS DE INTERESSE COMUM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### GESTÃO DE UNIDADES POPULACIONAIS DE INTERESSE COMUM"
+  },
+  "41d22eedf61dd046": {
+   "fragment_id": "Artigo 15.º — Princípios e objetivos da gestão de unidades populacionais de interesse comum à União e países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Princípios e objetivos da gestão de unidades populacionais de interesse comum à União e países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Princípios e objetivos da gestão de unidades populacionais de interesse comum à União e países terceiros\n\n1. Caso unidades populacionais de interesse comum também sejam exploradas por países terceiros, a União dialoga com esses países a fim de assegurar que essas unidades populacionais sejam geridas de forma sustentável e de acordo com os objetivos do Regulamento (UE) n.º 1380/2013, nomeadamente o artigo 2.º, n.º 2, e os do presente regulamento. Caso não seja alcançado um acordo formal, a União deve envidar todos os esforços para alcançar disposições comuns para a pesca dessas unidades populacionais, a fim de tornar possível a sua gestão sustentável, promovendo assim condições equitativas para os operadores da União.\n\n2. No contexto da gestão conjunta de unidades populacionais com países terceiros, a União pode proceder ao intercâmbio de possibilidades de pesca com países terceiros, nos termos do artigo 33.º, n.º 2, do Regulamento (UE) n.º 1380/2013."
+  },
+  "63e36e9fa428ed4b": {
+   "fragment_id": "CAPÍTULO X",
+   "type": "divisao",
+   "heading": "CAPÍTULO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO X"
+  },
+  "6d342c5308364ee3": {
+   "fragment_id": "REGIONALIZAÇÃO",
+   "type": "divisao",
+   "heading": "REGIONALIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGIONALIZAÇÃO"
+  },
+  "68a00cb993714b45": {
+   "fragment_id": "Artigo 16.º — Cooperação regional",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Cooperação regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cooperação regional\n\n1. O artigo 18.º, n.^os^ 1 a 6, do Regulamento (UE) n.º 1380/2013 é aplicável às medidas referidas nos artigos 9.º e 13.º e no artigo 14.º, n.º 2, do presente regulamento.\n\n2. Para efeitos do n.º 1 do presente artigo, os Estados-Membros com interesses diretos de gestão nas águas ocidentais norte podem apresentar recomendações conjuntas para as águas ocidentais norte e os Estados-Membros com interesses diretos de gestão nas águas ocidentais sul podem apresentar recomendações conjuntas para as águas ocidentais sul. Esses Estados-Membros podem igualmente apresentar, em conjunto, recomendações conjuntas para o conjunto dessas águas. Essas recomendações devem ser apresentadas nos termos do artigo 18.º, n.º 1, do Regulamento (UE) n.º 1380/2013, pela primeira vez até 27 de março de 2020 e, posteriormente, 12 meses após cada apresentação da avaliação do plano, nos termos do artigo 17.º do presente regulamento. Os Estados-Membros em causa podem apresentar também essas recomendações quando necessário, em particular no caso de uma alteração da situação relativamente a uma das unidades populacionais a que o presente regulamento se aplica ou para a resolução de situações de emergência assinaladas nos pareceres científicos mais recentes. As recomendações conjuntas sobre medidas respeitantes a um determinado ano civil devem ser apresentadas até 1 de julho do ano anterior.\n\n3. A delegação de poderes a que se referem os artigos 9.º e 13.º e o artigo 14.º, n.º 2, do presente regulamento aplica-se sem prejuízo dos poderes conferidos à Comissão nos termos de outras disposições do direito da União, incluindo o Regulamento (UE) n.º 1380/2013."
+  },
+  "e04eea2e2268a242": {
+   "fragment_id": "CAPÍTULO XI",
+   "type": "divisao",
+   "heading": "CAPÍTULO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO XI"
+  },
+  "9493e893b8c67a3a": {
+   "fragment_id": "AVALIAÇÃO E DISPOSIÇÕES PROCESSUAIS",
+   "type": "divisao",
+   "heading": "AVALIAÇÃO E DISPOSIÇÕES PROCESSUAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AVALIAÇÃO E DISPOSIÇÕES PROCESSUAIS"
+  },
+  "1e5d9c4fa42b2497": {
+   "fragment_id": "Artigo 17.º — Avaliação do plano",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Avaliação do plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação do plano\n\nAté 27 de março de 2024 e, posteriormente, de cinco em cinco anos, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre os resultados e sobre o impacto do plano nas unidades populacionais a que o presente regulamento se aplica e nas pescarias que as exploram, nomeadamente no que respeita à realização dos objetivos estabelecidos no artigo 3.º."
+  },
+  "a3f7f6b27e16b309": {
+   "fragment_id": "Artigo 18.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 1.º, n.º 1, nos artigos 9.º e 13.º e no artigo 14.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 26 de março de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 1.º, n.º 1, nos artigos 9.º e 13.º e no artigo 14.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 1.º, n.º 1, dos artigos 9.º e 13.º e do artigo 14.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "805d2f7196093577": {
+   "fragment_id": "CAPITULO XII",
+   "type": "divisao",
+   "heading": "CAPITULO XII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPITULO XII"
+  },
+  "c803d6c26a41c95e": {
+   "fragment_id": "APOIO DO FUNDO EUROPEU DOS ASSUNTOS MARÍTIMOS E DAS PESCAS",
+   "type": "divisao",
+   "heading": "APOIO DO FUNDO EUROPEU DOS ASSUNTOS MARÍTIMOS E DAS PESCAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APOIO DO FUNDO EUROPEU DOS ASSUNTOS MARÍTIMOS E DAS PESCAS"
+  },
+  "da1963f0b820128b": {
+   "fragment_id": "Artigo 19.º — Apoio do Fundo Europeu dos Assuntos Marítimos e das Pescas",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Apoio do Fundo Europeu dos Assuntos Marítimos e das Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apoio do Fundo Europeu dos Assuntos Marítimos e das Pescas\n\nAs medidas de cessação temporária adotadas a fim de alcançar os objetivos do plano são consideradas cessações temporárias das atividades de pesca para efeitos do disposto no artigo 33.º, n.º 1, alíneas a) e c), do Regulamento (UE) n.º 508/2014."
+  },
+  "dce9a21fe1c63bf4": {
+   "fragment_id": "CAPÍTULO XIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO XIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO XIII"
+  },
+  "a04fcecb7065c2e6": {
+   "fragment_id": "ALTERAÇÃO DOS REGULAMENTOS (UE) 2016/1139 E (UE) 2018/973",
+   "type": "divisao",
+   "heading": "ALTERAÇÃO DOS REGULAMENTOS (UE) 2016/1139 E (UE) 2018/973",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÃO DOS REGULAMENTOS (UE) 2016/1139 E (UE) 2018/973"
+  },
+  "3dc07a489387f527": {
+   "fragment_id": "Artigo 20.º — Alteração do Regulamento (UE) 2016/1139",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Alteração do Regulamento (UE) 2016/1139",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração do Regulamento (UE) 2016/1139\n\nO Regulamento (UE) 2016/1139 é alterado do seguinte modo:\n\n1) O artigo 2.º passa a ter a seguinte redação: «Artigo 2.º Definições Para efeitos do presente regulamento, aplicam-se as definições constantes do artigo 4.º do Regulamento (UE) n.º 1380/2013, do artigo 4.º do Regulamento (CE) n.º 1224/2009 e do artigo 2.º do Regulamento (CE) n.º 2187/2005. Além dessas, aplicam-se as seguintes definições: 1) **“Unidades populacionais pelágicas”**: as unidades populacionais enumeradas no artigo 1.º, n.º 1, alíneas c) a h), do presente regulamento, ou qualquer combinação das mesmas; 2) **“Intervalo FMSY”**: um intervalo de valores indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, no qual todos os níveis de mortalidade por pesca dentro desse intervalo resultam no rendimento máximo sustentável (MSY) a longo prazo, para um determinado padrão de pesca e nas condições ambientais médias atuais, sem afetar significativamente o processo de reprodução das unidades populacionais em causa. O intervalo é calculado de forma a não permitir uma redução superior a 5 % em termos do rendimento a longo prazo por comparação com o MSY. O intervalo é fixado de forma a que a probabilidade de a unidade populacional descer abaixo do ponto de referência da biomassa da unidade populacional reprodutora (Blim) não possa exceder 5 %; 3) **“MSY Flower”**: o valor mais baixo dentro do intervalo FMSY; 4) **“MSY Fupper”**: o valor mais elevado dentro do intervalo FMSY; 5) **“Valor do ponto FMSY”**: o valor estimado de mortalidade por pesca que, para um determinado padrão de pesca e nas condições ambientais médias atuais, resulta no MSY a longo prazo; 6) **“Limite inferior do intervalo FMSY”**: um intervalo de valores desde o MSY Flower até ao valor do ponto FMSY; 7) **“Limite superior do intervalo FMSY”**: um intervalo de valores desde o valor do ponto FMSY até ao MSY FUPPER; 8) **“Blim”**: o ponto de referência da biomassa da unidade populacional reprodutora, indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, abaixo do qual a capacidade de reprodução pode ser reduzida; 9) **“MSY Btrigger”**: o ponto de referência da biomassa da unidade populacional reprodutora, indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, abaixo do qual deve ser desencadeada uma ação de gestão específica e adequada para garantir que as taxas de exploração, em combinação com as variações naturais, permitam reconstituir as unidades populacionais acima de níveis capazes de produzir o MSY a longo prazo; 10) **“Estados-Membros em causa”**: os Estados-Membros com interesses diretos na gestão, a saber, a Dinamarca, a Alemanha, a Estónia, a Letónia, a Lituânia, a Polónia, a Finlândia e a Suécia.»;\n\n2) O artigo 4.º passa a ter a seguinte redação: «Artigo 4.º Metas 1. A taxa-alvo de mortalidade por pesca, de acordo com os intervalos FMSY definidos no artigo 2.º, deve ser alcançada o mais cedo possível e, progressiva e gradualmente, até 2020, para as unidades populacionais enumeradas no artigo 1.º, n.º 1, devendo em seguida ser mantida dentro dos intervalos FMSY, nos termos do presente artigo. 2. Os intervalos FMSY baseados no plano devem ser solicitados, nomeadamente ao CIEM ou a um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional. 3. Nos termos do artigo 16.º, n.º 4, do Regulamento (UE) n.º 1380/2013, quando o Conselho fixa as possibilidades de pesca para uma unidade populacional, estabelece-as no limite inferior do intervalo FMSY disponível nesse momento para essa unidade populacional. 4. Sem prejuízo do disposto nos n.^os^ 1 e 3, as possibilidades de pesca podem ser fixadas a níveis inferiores aos intervalos FMSY. 5. Sem prejuízo do disposto nos n.^os^ 3 e 4, as possibilidades de pesca de uma unidade populacional podem ser fixadas de acordo com o limite superior do intervalo FMSY disponível nesse momento para essa unidade populacional, desde que a unidade populacional referida no artigo 1.º, n.º 1, se encontre acima do MSY Btrigger: a) Se, com base em pareceres ou em dados científicos, tal for necessário para a realização dos objetivos estabelecidos no artigo 3.º, no caso das pescarias mistas; b) Se, com base em pareceres ou em dados científicos, tal for necessário para evitar danos graves a uma unidade populacional causados por dinâmicas intraespécies ou interespécies das unidades populacionais; ou c) Para limitar as variações de possibilidades de pesca entre anos consecutivos a 20 %, no máximo. 6. As possibilidades de pesca devem, em qualquer caso, ser fixadas de forma a assegurar que exista uma probabilidade inferior a 5 % de a biomassa da unidade populacional reprodutora descer abaixo do Blim.»;\n\na) Se, com base em pareceres ou em dados científicos, tal for necessário para a realização dos objetivos estabelecidos no artigo 3.º, no caso das pescarias mistas;\n\nb) Se, com base em pareceres ou em dados científicos, tal for necessário para evitar danos graves a uma unidade populacional causados por dinâmicas intraespécies ou interespécies das unidades populacionais; ou\n\nc) Para limitar as variações de possibilidades de pesca entre anos consecutivos a 20 %, no máximo.\n\n3) No capítulo III, após o artigo 4.º é inserido o seguinte artigo: «Artigo 4.º-A Pontos de referência de conservação Os seguintes pontos de referência de conservação destinados a salvaguardar a plena capacidade de reprodução das unidades populacionais referidas no artigo 1.º, n.º 1, devem, com base no plano, ser solicitados nomeadamente ao CIEM ou a um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional: a) MSY Btrigger para as unidades populacionais referidas no artigo 1.º, n.º 1; b) Blim para as unidades populacionais referidas no artigo 1.º, n.º 1.»;\n\na) MSY Btrigger para as unidades populacionais referidas no artigo 1.º, n.º 1;\n\nb) Blim para as unidades populacionais referidas no artigo 1.º, n.º 1.»;\n\n4) O artigo 5.º passa a ter a seguinte redação: «Artigo 5.º Salvaguardas 1. Quando os pareceres científicos indicarem que, para um dado ano, a biomassa reprodutora de qualquer das unidades populacionais referidas no artigo 1.º, n.º 1, é inferior ao MSY Btrigger, devem ser adotadas todas as medidas corretivas adequadas para assegurar um retorno rápido da unidade populacional em causa a níveis acima do nível que permite produzir o MSY. Em especial, não obstante o disposto no artigo 4.º, n.º 3, as possibilidades de pesca devem ser fixadas num nível consentâneo com uma mortalidade por pesca reduzida abaixo do limite superior do intervalo FMSY, tendo em conta a diminuição da biomassa. 2. Quando os pareceres científicos indicarem que a biomassa da unidade populacional reprodutora de qualquer das unidades populacionais referidas no artigo 1.º, n.º 1, é inferior ao Blim, devem ser tomadas medidas corretivas adicionais para assegurar o retorno rápido da unidade populacional em causa para níveis acima do nível capaz de produzir o MSY. Em especial, essas medidas corretivas podem incluir, não obstante o disposto no artigo 4.º, n.º 3, a suspensão da pesca dirigida à unidade populacional e a redução adequada das possibilidades de pesca. 3. As medidas corretivas referidas no presente artigo podem incluir: a) Medidas de emergência, nos termos dos artigos 12.º e 13.º do Regulamento (UE) n.º 1380/2013; b) Medidas nos termos dos artigos 7.º e 8.º do presente regulamento. 4. A escolha das medidas referidas no presente artigo deve ser feita de acordo com a natureza, gravidade, duração e repetição da situação, quando o nível da biomassa da unidade populacional reprodutora seja inferior aos níveis referidos no artigo 4.º-A.\n\na) Medidas de emergência, nos termos dos artigos 12.º e 13.º do Regulamento (UE) n.º 1380/2013;\n\nb) Medidas nos termos dos artigos 7.º e 8.º do presente regulamento.\n\n5. No artigo 7.º, é aditado o seguinte número: 3. A obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013 não é aplicável à pesca recreativa, incluindo nos casos em que o Conselho fixa limites para os que praticam a pesca recreativa.»;\n\n6. São suprimidos os anexos I e II."
+  },
+  "4e9acc8db29884b4": {
+   "fragment_id": "Artigo 21.º — Alteração do Regulamento (UE) 2018/973",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Alteração do Regulamento (UE) 2018/973",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração do Regulamento (UE) 2018/973\n\nO Regulamento (UE) 2018/973 é alterado do seguinte modo:\n\n1) No artigo 9.º, é aditado o seguinte número: «3. Em derrogação ao disposto no anexo XII do Regulamento (CE) n.º 850/98, o tamanho mínimo de referência de conservação para o lagostim (*Nephrops norvegicus*) na divisão CIEM 3a é fixado em 105 mm. O presente número aplica-se até à data em que o anexo XII do Regulamento (CE) n.º 850/98 deixar de ser aplicável.»;\n\n2) O artigo 11.º passa a ter a seguinte redação: «Artigo 11.º Disposições relacionadas com a obrigação de desembarcar nas águas da União do mar do Norte 1. Para todas as unidades populacionais de espécies no mar do Norte às quais se aplica a obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 16.º do presente regulamento e do artigo 18.º do Regulamento (UE) n.º 1380/2013, a fim de completar o presente regulamento, especificando os pormenores dessa obrigação, tal como estabelecida no artigo 15.º, n.º 5, alíneas a) a e), do Regulamento (UE) n.º 1380/2013. 2. A obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013 não é aplicável à pesca recreativa, incluindo nos casos em que o Conselho fixa limites para a pesca recreativa nos termos do artigo 10.º, n.º 4, do presente regulamento.»."
+  },
+  "496eca9ab60665bc": {
+   "fragment_id": "CAPÍTULO XIV",
+   "type": "divisao",
+   "heading": "CAPÍTULO XIV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO XIV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "61dada1f0d833cc7": {
+   "fragment_id": "Artigo 22.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Revogação\n\n1. São revogados os seguintes regulamentos:\n\na) Regulamento (CE) n.º 811/2004;\n\nb) Regulamento (CE) n.º 2166/2005;\n\nc) Regulamento (CE) n.º 388/2006;\n\nd) Regulamento (CE) n.º 509/2007;\n\ne) Regulamento (CE) n.º 1300/2008.\n\n2. As remissões para os regulamentos revogados entendem-se como remissões para o presente regulamento."
+  },
+  "717ed7f7dfb97b8f": {
+   "fragment_id": "Artigo 23.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 19 de março de 2019.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**A. TAJANI**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**G. CIAMBA**\n\n---"
+  },
+  "ab4b85443de54fe7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2019083PT.01000101-E0001) [JO C 440 de 6.12.2018, p. 171](http://publications.europa.eu/resource/oj/JOC_2018_440_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2019083PT.01000101-E0002) Posição do Parlamento Europeu de 12 de fevereiro de 2019 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 5 de março de 2019.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2019083PT.01000101-E0003) Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, relativo à política comum das pescas, que altera os Regulamentos (CE) n.º 1954/2003 e (CE) n.º 1224/2009 do Conselho e revoga os Regulamentos (CE) n.º 2371/2002 e (CE) n.º 639/2004 do Conselho e a Decisão 2004/585/CE do Conselho ([JO L 354 de 28.12.2013, p. 22](http://publications.europa.eu/resource/oj/JOL_2013_354_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2019083PT.01000101-E0004) Diretiva 2008/56/CE do Parlamento Europeu e do Conselho, de 17 de junho de 2008, que estabelece um quadro de ação comunitária no domínio da política para o meio marinho (Diretiva-Quadro «Estratégia Marinha») ([JO L 164 de 25.6.2008, p. 19](http://publications.europa.eu/resource/oj/JOL_2008_164_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2019083PT.01000101-E0005) Regulamento (CE) n.º 811/2004 do Conselho, de 21 de abril de 2004, que estabelece medidas para a recuperação das unidades populacionais de pescada do Norte ([JO L 150 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_150_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc6-L_2019083PT.01000101-E0006) Regulamento (CE) n.º 2166/2005 do Conselho, de 20 de dezembro de 2005, que estabelece medidas para a recuperação das unidades populacionais de pescada do Sul e de lagostins no mar Cantábrico e a oeste da Península Ibérica e que altera o Regulamento (CE) n.º 850/98 relativo à conservação dos recursos da pesca através de determinadas medidas técnicas de proteção dos juvenis de organismos marinhos ([JO L 345 de 28.12.2005, p. 5](http://publications.europa.eu/resource/oj/JOL_2005_345_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc7-L_2019083PT.01000101-E0007) Regulamento (CE) n.º 388/2006 do Conselho, de 23 de fevereiro de 2006, que estabelece um plano plurianual para a exploração sustentável da unidade populacional de linguado no Golfo da Biscaia ([JO L 65 de 7.3.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_065_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc8-L_2019083PT.01000101-E0008) Regulamento (CE) n.º 509/2007 do Conselho, de 7 de maio de 2007, que estabelece um plano plurianual para a exploração sustentável da população de linguado do canal da Mancha ocidental ([JO L 122 de 11.5.2007, p. 7](http://publications.europa.eu/resource/oj/JOL_2007_122_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc9-L_2019083PT.01000101-E0009) Regulamento (CE) n.º 1300/2008 do Conselho, de 18 de dezembro de 2008, que estabelece um plano plurianual relativo à unidade populacional de arenque presente a oeste da Escócia e às pescarias que exploram essa unidade populacional ([JO L 344 de 20.12.2008, p. 6](http://publications.europa.eu/resource/oj/JOL_2008_344_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc10-L_2019083PT.01000101-E0010) Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens ([JO L 20 de 26.1.2010, p. 7](http://publications.europa.eu/resource/oj/JOL_2010_020_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc11-L_2019083PT.01000101-E0011) Diretiva 92/43/CEE do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens ([JO L 206 de 22.7.1992, p. 7](http://publications.europa.eu/resource/oj/JOL_1992_206_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc12-L_2019083PT.01000101-E0012) [JO L 123 de 12.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_123_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc13-L_2019083PT.01000101-E0013) Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas e que revoga os Regulamentos (CE) n.º 2328/2003, (CE) n.º 861/2006, (CE) n.º 1198/2006 e (CE) n.º 791/2007 do Conselho e o Regulamento (UE) n.º 1255/2011 do Parlamento Europeu e do Conselho ([JO L 149 de 20.5.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_149_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc14-L_2019083PT.01000101-E0014) Regulamento (UE) 2016/1139 do Parlamento Europeu e do Conselho, de 6 de julho de 2016, que estabelece um plano plurianual para as unidades populacionais de bacalhau, de arenque e de espadilha do mar Báltico e para as pescarias que exploram essas unidades populacionais, que altera o Regulamento (CE) n.º 2187/2005 do Conselho e que revoga o Regulamento (CE) n.º 1098/2007 do Conselho ([JO L 191 de 15.7.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_191_R_TOC)).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc15-L_2019083PT.01000101-E0015) Regulamento (UE) 2018/973 do Parlamento Europeu e do Conselho, de 4 de julho de 2018, que estabelece um plano plurianual para as unidades populacionais demersais do mar do Norte e para as pescarias que exploram essas unidades populacionais, que especifica os pormenores da aplicação da obrigação de desembarque no mar do Norte e que revoga os Regulamentos (CE) n.º 676/2007 e (CE) n.º 1342/2008 do Conselho ([JO L 179 de 16.7.2018, p. 1](http://publications.europa.eu/resource/oj/JOL_2018_179_R_TOC)).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc16-L_2019083PT.01000101-E0016) Regulamento (CE) n.º 1224/2009 do Conselho, de 20 de novembro de 2009, que institui um regime de controlo da União a fim de assegurar o cumprimento das regras da política comum das pescas, altera os Regulamentos (CE) n.º 847/96, (CE) n.º 2371/2002, (CE) n.º 811/2004, (CE) n.º 768/2005, (CE) n.º 2115/2005, (CE) n.º 2166/2005, (CE) n.º 388/2006, (CE) n.º 509/2007, (CE) n.º 676/2007, (CE) n.º 1098/2007, (CE) n.º 1300/2008, (CE) n.º 1342/2008, e revoga os Regulamentos (CEE) n.º 2847/93, (CE) n.º 1627/94 e (CE) n.º 1966/2006 ([JO L 343 de 22.12.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_343_R_TOC)).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019.03/DOC_1#ntc17-L_2019083PT.01000101-E0017) Regulamento (CE) n.º 850/98 do Conselho, de 30 de março de 1998, relativo à conservação dos recursos da pesca através de determinadas medidas técnicas de proteção dos juvenis de organismos marinhos ([JO L 125 de 27.4.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_125_R_TOC))."
+  },
+  "74cf80f39a0f77b8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de março de 2019\n\nque estabelece um plano plurianual para as unidades populacionais capturadas nas águas ocidentais e águas adjacentes, e para as pescarias que exploram essas unidades populacionais, que altera os Regulamentos (UE) 2016/1139 e (UE) 2018/973, e que revoga os Regulamentos (CE) n.º 811/2004, (CE) n.º 2166/2005, (CE) n.º 388/2006, (CE) n.º 509/2007 e (CE) n.º 1300/2008 do Conselho"
+  },
+  "8f502ee7ba9ae9d8": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece um plano plurianual (a seguir designado por «plano») relativo às unidades populacionais demersais a seguir enumeradas, incluindo as unidades populacionais de profundidade, nas águas ocidentais, e, sempre que essas unidades populacionais se estendam para além das águas ocidentais, nas suas águas adjacentes, e para as pescarias que exploram essas unidades populacionais:\n\n1) Peixe-espada-preto (*Aphanopus carbo*) nas subzonas CIEM 1, 2, 4, 6-8, 10 e 14 e nas divisões CIEM 3a, 5a, 5b, 9a e 12b;\n\n2) Lagartixa-da-rocha (*Coryphaenoides rupestris*) nas subzonas CIEM 6 e 7 e na divisão CIEM 5b;\n\n3) Robalo-legítimo (*Dicentrarchus labrax*) nas divisões CIEM 4b, 4c, 7a, 7d-h, 8a e 8b;\n\n4) Robalo-legítimo (*Dicentrarchus labrax*) nas divisões CIEM 6a, 7b e 7j;\n\n5) Robalo-legítimo (*Dicentrarchus labrax*) nas divisões CIEM 8c e 9a;\n\n6) Bacalhau (*Gadus morhua*) na divisão CIEM 7a;\n\n7) Bacalhau (*Gadus morhua*) nas divisões CIEM 7e-k;\n\n8) Areeiros (*L*e*pidorhombus* spp.) nas divisões CIEM 4a e 6a;\n\n9) Areeiros (*Lepidorhombus* spp.) na divisão CIEM 6b;\n\n10) Areeiros (*Lepidorhombus* spp.) nas divisões CIEM 7b-k, 8a, 8b e 8d;\n\n11) Areeiros (*Lepidorhombus* spp.) nas divisões CIEM 8c e 9a;\n\n12) Tamboril (*Lophiidae*) nas divisões CIEM 7b-k, 8a, 8b e 8d;\n\n13) Tamboril (*Lophiidae*) nas divisões CIEM 8c e 9a;\n\n14) Arinca (*Melanogrammus aeglefinus*) na divisão CIEM 6b;\n\n15) Arinca (*Melanogrammus aeglefinus*) na divisão CIEM 7a;\n\n16) Arinca (*Melanogrammus aeglefinus*) nas divisões CIEM 7b-k;\n\n17) Badejo (*Merlangius merlangus*) nas divisões CIEM 7b, 7c e 7e-k;\n\n18) Badejo (*Merlangius merlangus*) na subzona CIEM 8 e na divisão CIEM 9a;\n\n19) Pescada (*Merluccius merluccius*) nas subzonas CIEM 4, 6 e 7 e nas divisões CIEM 3a, 8a, 8b e 8d;\n\n20) Pescada (*Merluccius merluccius*) nas divisões CIEM 8c e 9a;\n\n21) Maruca-azul (*Molva dypterygia*) nas subzonas CIEM 6 e 7 e na divisão CIEM 5b;\n\n22) Lagostim (*Nephrops norvegicus*) por unidade funcional na subzona CIEM 6 e na divisão CIEM 5b:\n\n— Em Minch norte (UF 11),\n\n— Em Minch sul (UF 12),\n\n— No estuário do Clyde (UF 13),\n\n— Na divisão 6a, fora das unidades funcionais (oeste da Escócia);\n\n23) Lagostim (*Nephrops norvegicus*) por unidade funcional na subzona CIEM 7:\n\n— No mar da Irlanda oriental (UF 14),\n\n— No mar da Irlanda ocidental (UF 15),\n\n— Nos bancos de Porcupine (UF 16),\n\n— No banco das Aran (UF 17),\n\n— No mar da Irlanda (UF 19),\n\n— No mar Céltico (UF 20-21),\n\n— No canal de Bristol (UF 22),\n\n— Fora das unidades funcionais (sul do mar Céltico, sudoeste da Irlanda);\n\n24) Lagostim (*Nephrops norvegicus*) por unidade funcional nas divisões CIEM 8a, 8b, 8d e 8e:\n\n— No norte e no centro do golfo da Biscaia (UF 23-24);\n\n25) Lagostim (*Nephrops norvegicus*) por unidade funcional nas subzonas CIEM 9 e 10 e na zona CECAF 34.1.1:\n\n— Nas águas atlânticas da Península Ibérica — leste, Galiza ocidental e norte de Portugal (UF 26-27),\n\n— Nas águas atlânticas da Península Ibérica — leste e sudoeste e sul de Portugal (UF 28-29),\n\n— Nas águas atlânticas da Península Ibérica — leste e golfo de Cádis (UF 30);\n\n26) Goraz (*Pagellus bogaraveo*) na subzona CIEM 9;\n\n27) Solha (*Pleuronectes platessa*) na divisão CIEM 7d;\n\n28) Solha (*Pleuronectes platessa*) na divisão CIEM 7e;\n\n29) Juliana (*Pollachius pollachius*) nas subzonas CIEM 6 e 7;\n\n30) Linguado-legítimo (*Solea solea*) nas subzonas CIEM 5, 12 e 14 e na divisão 6b;\n\n31) Linguado-legítimo (*Solea solea*) na divisão CIEM 7d;\n\n32) Linguado-legítimo (*Solea solea*) na divisão CIEM 7e;\n\n33) Linguado-legítimo (*Solea sol*e*a*) nas divisões CIEM 7f e 7g;\n\n34) Linguado-legítimo (*Solea solea*) nas divisões CIEM 7h, 7j e 7k;\n\n35) Linguado-legítimo (*Solea solea*) nas divisões CIEM 8a e 8b;\n\n36) Linguado-legítimo (*Solea solea*) nas divisões CIEM 8c e 9a.\n\nSe os pareceres científicos, em particular o do CIEM ou de um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, indicarem uma alteração na distribuição geográfica das unidades populacionais enumeradas no primeiro parágrafo do presente número, a Comissão pode adotar atos delegados nos termos do artigo 18.º que alterem o presente regulamento ajustando as zonas especificadas no primeiro parágrafo do presente número, de modo a refletirem aquela alteração. Tais ajustamentos não devem alargar as zonas em que estão presentes unidades populacionais para além das águas da União das subzonas CIEM 4 a 10 e das zonas CECAF 34.1.1, 34.1.2 e 34.2.0.\n\n2. Sempre que, com base nos pareceres científicos, a Comissão considerar que a lista das unidades populacionais estabelecida no n.º 1, primeiro parágrafo, deve ser alterada, a Comissão pode apresentar uma proposta de alteração dessa lista.\n\n3. No que diz respeito às águas adjacentes abrangidas pelo disposto no n.º 1 do presente artigo, apenas são aplicáveis os artigos 4.º e 7.º e as medidas relacionadas com as possibilidades de pesca nos termos do artigo 8.º do presente regulamento.\n\n4. O presente regulamento é igualmente aplicável às capturas acessórias realizadas nas águas ocidentais, durante a pesca das unidades populacionais enumeradas no n.º 1. Contudo, sempre que os intervalos FMSY e as salvaguardas ligadas à biomassa para essas unidades populacionais sejam definidos por outros atos jurídicos da União que estabelecem planos plurianuais, aplicam-se esses intervalos e salvaguardas.\n\n5. O presente regulamento também especifica os pormenores relativos à aplicação da obrigação de desembarcar nas águas da União das águas ocidentais para todas as unidades populacionais das espécies às quais se aplica a obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013.\n\n6. O presente regulamento prevê, no artigo 9.º, medidas técnicas aplicáveis nas águas ocidentais relativamente a qualquer unidade populacional."
+  },
+  "671a357453a02b50": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, para além das definições constantes do artigo 4.º do Regulamento (UE) n.º 1380/2013, do artigo 4.º do Regulamento (CE) n.º 1224/2009 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/a18eb174-eb8d-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#E0001)) e do artigo 3.º do Regulamento (CE) n.º 850/98 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/a18eb174-eb8d-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#E0002)), são aplicáveis as seguintes definições:\n\n1) «Águas ocidentais»: as águas ocidentais norte [subzonas CIEM 5 (exceto divisão 5a e unicamente águas da União da divisão 5b, 6 e 7] e as águas ocidentais sul [subzonas CIEM 8, 9 e 10 (águas em torno dos Açores) e zonas CECAF 34.1.1, 34.1.2 e 34.2.0 (águas em torno da Madeira e das ilhas Canárias)];\n\n2) «Intervalo FMSY»: um intervalo de valores indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, no qual todos os níveis de mortalidade por pesca dentro desse intervalo resultam no rendimento máximo sustentável (MSY) a longo prazo, para um determinado padrão de pesca e nas condições ambientais médias atuais, sem afetar significativamente o processo de reprodução das unidades populacionais em causa. O intervalo é calculado de forma a não permitir uma redução superior a 5 % em termos do rendimento a longo prazo por comparação com o MSY. É fixado de forma a que a probabilidade de a unidade populacional descer abaixo do ponto de referência da biomassa da unidade populacional reprodutora (Blim) não possa exceder 5 %;\n\n3) «MSY Flower»: o valor mais baixo dentro do intervalo FMSY;\n\n4) «MSY Fupper»: o valor mais elevado dentro do intervalo FMSY;\n\n5) «Valor do ponto FMSY»: o valor estimado de mortalidade por pesca que, para um determinado padrão de pesca e nas condições ambientais médias atuais, resulta no MSY a longo prazo;\n\n6) «Limite inferior do intervalo FMSY»: um intervalo de valores desde o MSY Flower até ao valor do ponto FMSY;\n\n7) «Limite superior do intervalo FMSY»: um intervalo de valores desde o valor do ponto FMSY até ao MSY Fupper;\n\n8) «Blim»: o ponto de referência da biomassa da unidade populacional reprodutora indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, abaixo do qual a capacidade de reprodução pode ser reduzida;\n\n9) «MSY Btrigger»: o ponto de referência da biomassa da unidade populacional reprodutora, ou, no caso do lagostim, o ponto de referência da abundância, indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, abaixo do qual deve ser desencadeada uma ação de gestão específica e adequada para garantir que as taxas de exploração, em combinação com as variações naturais, permitam reconstituir as unidades populacionais acima de níveis capazes de produzir o MSY a longo prazo."
+  },
+  "adadfb6ee16db21f": {
+   "fragment_id": "Artigo 9.º — Medidas técnicas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Medidas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas técnicas\n\n1. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 18.º do presente regulamento e do artigo 18.º do Regulamento (UE) n.º % 1380/2013, a fim de complementar o presente regulamento relativamente às seguintes medidas técnicas, na medida em que não sejam abrangidas pelo Regulamento (UE) 2019/1241 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/a18eb174-eb8d-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#E0003)):\n\na) Especificação das características das artes de pesca e das regras da sua utilização, a fim de assegurar ou melhorar a seletividade, reduzir as capturas indesejadas ou reduzir ao mínimo o impacto negativo no ecossistema;\n\nb) Especificação de alterações ou de dispositivos adicionais para as artes de pesca, a fim de assegurar ou melhorar a seletividade, reduzir as capturas indesejadas ou reduzir ao mínimo o impacto negativo no ecossistema;\n\nc) Restrições ou proibições da utilização de determinadas artes de pesca e de atividades de pesca, em certas zonas ou certos períodos, para proteger os peixes reprodutores, os peixes abaixo do tamanho mínimo de referência de conservação ou as espécies não-alvo, ou para reduzir ao mínimo o impacto negativo no ecossistema; e\n\nd) Fixação dos tamanhos mínimos de referência de conservação das unidades populacionais a que o presente regulamento se aplica, para assegurar a proteção dos juvenis de organismos marinhos.\n\n2. As medidas referidas no n.º % 1 do presente artigo devem contribuir para a realização dos objetivos enunciados no artigo 3.º do presente regulamento e cumprir o disposto no artigo 15.º, n.º % 4, do Regulamento (UE) 2019/1241."
+  },
+  "a15158582c98f874": {
+   "fragment_id": "Artigo 20.º — Alteração do Regulamento (UE) 2016/1139",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Alteração do Regulamento (UE) 2016/1139",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração do Regulamento (UE) 2016/1139\n\nO Regulamento (UE) 2016/1139 é alterado do seguinte modo:\n\n1) O artigo 2.º passa a ter a seguinte redação:\n\nPara efeitos do presente regulamento, aplicam-se as definições constantes do artigo 4.º do Regulamento (UE) n.º 1380/2013, do artigo 4.º do Regulamento (CE) n.º 1224/2009 e do artigo 2.º do Regulamento (CE) n.º 2187/2005. Além dessas, aplicam-se as seguintes definições:\n\n1) “Unidades populacionais pelágicas”: as unidades populacionais enumeradas no artigo 1.º, n.º 1, alíneas c) a h), do presente regulamento, ou qualquer combinação das mesmas;\n\n2) “Intervalo FMSY”: um intervalo de valores indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, no qual todos os níveis de mortalidade por pesca dentro desse intervalo resultam no rendimento máximo sustentável (MSY) a longo prazo, para um determinado padrão de pesca e nas condições ambientais médias atuais, sem afetar significativamente o processo de reprodução das unidades populacionais em causa. O intervalo é calculado de forma a não permitir uma redução superior a 5 % em termos do rendimento a longo prazo por comparação com o MSY. O intervalo é fixado de forma a que a probabilidade de a unidade populacional descer abaixo do ponto de referência da biomassa da unidade populacional reprodutora (Blim) não possa exceder 5 %;\n\n3) “MSY Flower”: o valor mais baixo dentro do intervalo FMSY;\n\n4) “MSY Fupper”: o valor mais elevado dentro do intervalo FMSY;\n\n5) “Valor do ponto FMSY”: o valor estimado de mortalidade por pesca que, para um determinado padrão de pesca e nas condições ambientais médias atuais, resulta no MSY a longo prazo;\n\n6) “Limite inferior do intervalo FMSY”: um intervalo de valores desde o MSY Flower até ao valor do ponto FMSY;\n\n7) “Limite superior do intervalo FMSY”: um intervalo de valores desde o valor do ponto FMSY até ao MSY FUPPER;\n\n8) “Blim”: o ponto de referência da biomassa da unidade populacional reprodutora, indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, abaixo do qual a capacidade de reprodução pode ser reduzida;\n\n9) “MSY Btrigger”: o ponto de referência da biomassa da unidade populacional reprodutora, indicado nos melhores pareceres científicos disponíveis, nomeadamente os formulados pelo CIEM ou por um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional, abaixo do qual deve ser desencadeada uma ação de gestão específica e adequada para garantir que as taxas de exploração, em combinação com as variações naturais, permitam reconstituir as unidades populacionais acima de níveis capazes de produzir o MSY a longo prazo;\n\n10) “Estados-Membros em causa”: os Estados-Membros com interesses diretos na gestão, a saber, a Dinamarca, a Alemanha, a Estónia, a Letónia, a Lituânia, a Polónia, a Finlândia e a Suécia.»;\n\n2) O artigo 4.º passa a ter a seguinte redação:\n\n1. A taxa-alvo de mortalidade por pesca, de acordo com os intervalos FMSY definidos no artigo 2.º, deve ser alcançada o mais cedo possível e, progressiva e gradualmente, até 2020, para as unidades populacionais enumeradas no artigo 1.º, n.º 1, devendo em seguida ser mantida dentro dos intervalos FMSY, nos termos do presente artigo.\n\n2. Os intervalos FMSY baseados no plano devem ser solicitados, nomeadamente ao CIEM ou a um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional.\n\n3. Nos termos do artigo 16.º, n.º 4, do Regulamento (UE) n.º 1380/2013, quando o Conselho fixa as possibilidades de pesca para uma unidade populacional, estabelece-as no limite inferior do intervalo FMSY disponível nesse momento para essa unidade populacional.\n\n4. Sem prejuízo do disposto nos n.^os^ 1 e 3, as possibilidades de pesca podem ser fixadas a níveis inferiores aos intervalos FMSY.\n\n5. Sem prejuízo do disposto nos n.^os^ 3 e 4, as possibilidades de pesca de uma unidade populacional podem ser fixadas de acordo com o limite superior do intervalo FMSY disponível nesse momento para essa unidade populacional, desde que a unidade populacional referida no artigo 1.º, n.º 1, se encontre acima do MSY Btrigger:\n\na) Se, com base em pareceres ou em dados científicos, tal for necessário para a realização dos objetivos estabelecidos no artigo 3.º, no caso das pescarias mistas;\n\nb) Se, com base em pareceres ou em dados científicos, tal for necessário para evitar danos graves a uma unidade populacional causados por dinâmicas intraespécies ou interespécies das unidades populacionais; ou\n\nc) Para limitar as variações de possibilidades de pesca entre anos consecutivos a 20 %, no máximo.\n\n6. As possibilidades de pesca devem, em qualquer caso, ser fixadas de forma a assegurar que exista uma probabilidade inferior a 5 % de a biomassa da unidade populacional reprodutora descer abaixo do Blim.»;\n\n3) No capítulo III, após o artigo 4.º é inserido o seguinte artigo:\n\nOs seguintes pontos de referência de conservação destinados a salvaguardar a plena capacidade de reprodução das unidades populacionais referidas no artigo 1.º, n.º 1, devem, com base no plano, ser solicitados nomeadamente ao CIEM ou a um organismo científico independente semelhante reconhecido a nível da União ou a nível internacional:\n\na) MSY Btrigger para as unidades populacionais referidas no artigo 1.º, n.º 1;\n\nb) Blim para as unidades populacionais referidas no artigo 1.º, n.º 1.»;\n\n4) O artigo 5.º passa a ter a seguinte redação:\n\n1. Quando os pareceres científicos indicarem que, para um dado ano, a biomassa reprodutora de qualquer das unidades populacionais referidas no artigo 1.º, n.º 1, é inferior ao MSY Btrigger, devem ser adotadas todas as medidas corretivas adequadas para assegurar um retorno rápido da unidade populacional em causa a níveis acima do nível que permite produzir o MSY. Em especial, não obstante o disposto no artigo 4.º, n.º 3, as possibilidades de pesca devem ser fixadas num nível consentâneo com uma mortalidade por pesca reduzida abaixo do limite superior do intervalo FMSY, tendo em conta a diminuição da biomassa.\n\n2. Quando os pareceres científicos indicarem que a biomassa da unidade populacional reprodutora de qualquer das unidades populacionais referidas no artigo 1.º, n.º 1, é inferior ao Blim, devem ser tomadas medidas corretivas adicionais para assegurar o retorno rápido da unidade populacional em causa para níveis acima do nível capaz de produzir o MSY. Em especial, essas medidas corretivas podem incluir, não obstante o disposto no artigo 4.º, n.º 3, a suspensão da pesca dirigida à unidade populacional e a redução adequada das possibilidades de pesca.\n\n3. As medidas corretivas referidas no presente artigo podem incluir:\n\na) Medidas de emergência, nos termos dos artigos 12.º e 13.º do Regulamento (UE) n.º 1380/2013;\n\nb) Medidas nos termos dos artigos 7.º e 8.º do presente regulamento.\n\n4. A escolha das medidas referidas no presente artigo deve ser feita de acordo com a natureza, gravidade, duração e repetição da situação, quando o nível da biomassa da unidade populacional reprodutora seja inferior aos níveis referidos no artigo 4.º-A.\n\n5) No artigo 7.º, é aditado o seguinte número:\n\n3. A obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013 não é aplicável à pesca recreativa, incluindo nos casos em que o Conselho fixa limites para os que praticam a pesca recreativa.»;\n\n6) São suprimidos os anexos I e II."
+  },
+  "3a64aede3523a8c5": {
+   "fragment_id": "Artigo 21.º — Alteração do Regulamento (UE) 2018/973",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Alteração do Regulamento (UE) 2018/973",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração do Regulamento (UE) 2018/973\n\nO Regulamento (UE) 2018/973 é alterado do seguinte modo:\n\n1) No artigo 9.º, é aditado o seguinte número:\n\n«3. Em derrogação ao disposto no anexo XII do Regulamento (CE) n.º 850/98, o tamanho mínimo de referência de conservação para o lagostim (*Nephrops norvegicus*) na divisão CIEM 3a é fixado em 105 mm.\n\nO presente número aplica-se até à data em que o anexo XII do Regulamento (CE) n.º 850/98 deixar de ser aplicável.»;\n\n2) O artigo 11.º passa a ter a seguinte redação:\n\n1. Para todas as unidades populacionais de espécies no mar do Norte às quais se aplica a obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013, a Comissão fica habilitada a adotar atos delegados nos termos do artigo 16.º do presente regulamento e do artigo 18.º do Regulamento (UE) n.º 1380/2013, a fim de completar o presente regulamento, especificando os pormenores dessa obrigação, tal como estabelecida no artigo 15.º, n.º 5, alíneas a) a e), do Regulamento (UE) n.º 1380/2013.\n\n2. A obrigação de desembarcar estabelecida no artigo 15.º, n.º 1, do Regulamento (UE) n.º 1380/2013 não é aplicável à pesca recreativa, incluindo nos casos em que o Conselho fixa limites para a pesca recreativa nos termos do artigo 10.º, n.º 4, do presente regulamento.»."
+  },
+  "057ae99683ee1587": {
+   "fragment_id": "Artigo 23.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "7e9c302bb7807516": {
+   "fragment_id": "Declaração comum do Parlamento Europeu e do Conselho",
+   "type": "divisao",
+   "heading": "Declaração comum do Parlamento Europeu e do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Declaração comum do Parlamento Europeu e do Conselho\n\nO Parlamento Europeu e o Conselho tencionam revogar o poder de adotar medidas técnicas por meio de atos delegados nos termos do artigo 8.º do presente regulamento aquando da adoção de um novo regulamento relativo a medidas técnicas que inclua uma delegação de poderes no que respeita às mesmas medidas.\n\n---"
+  },
+  "0e413ba7c1b25af5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a18eb174-eb8d-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#src.E0001)) Regulamento (CE) n.º 1224/2009 do Conselho, de 20 de novembro de 2009, que institui um regime de controlo da União a fim de assegurar o cumprimento das regras da política comum das pescas, altera os Regulamentos (CE) n.º 847/96, (CE) n.º 2371/2002, (CE) n.º 811/2004, (CE) n.º 768/2005, (CE) n.º 2115/2005, (CE) n.º 2166/2005, (CE) n.º 388/2006, (CE) n.º 509/2007, (CE) n.º 676/2007, (CE) n.º 1098/2007, (CE) n.º 1300/2008, (CE) n.º 1342/2008, e revoga os Regulamentos (CEE) n.º 2847/93, (CE) n.º 1627/94 e (CE) n.º 1966/2006 (JO L 343 de 22.12.2009, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a18eb174-eb8d-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#src.E0002)) Regulamento (CE) n.º 850/98 do Conselho, de 30 de março de 1998, relativo à conservação dos recursos da pesca através de determinadas medidas técnicas de proteção dos juvenis de organismos marinhos (JO L 125 de 27.4.1998, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a18eb174-eb8d-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1#src.E0003)) Regulamento (UE) 2019/1241 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo à conservação dos recursos haliêuticos e à proteção dos ecossistemas marinhos através de medidas técnicas, que altera os Regulamentos (CE) n.º % 1967/2006, (CE) n.º % 1224/2009 do Conselho e os Regulamentos (UE) n.º % 1380/2013, (UE) n.2016/1139, (UE) 2018/973, (UE) 2019/472 e (UE) 2019/1022 de Parlamento Europeu e do Conselho, que revoga os Regulamentos (CE) n.º % 894/97, (CE) n.º % 850/98, (CE) n.º % 2549/2000, (CE) n.º % 254/2002, (CE) n.º % 812/2004 e (CE) n.º % 2187/2005 (JO L 198, de 25.7.2019, p. 105)."
+  }
+ }
+}
